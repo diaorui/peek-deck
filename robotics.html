@@ -57,7 +57,7 @@
             "name": "PeekDeck",
             "url": "https://peekdeck.ruidiao.dev"
           },
-          "dateModified": "2026-01-27T14:31:56.072771+00:00"
+          "dateModified": "2026-01-27T15:32:28.777626+00:00"
         },
         {
           "@type": "BreadcrumbList",
@@ -787,6 +787,41 @@
                     </div>
                 </div>
                 
+                <div class="carousel-card" onclick="window.open('https://www.reddit.com/r/robotics/comments/1qofu47/question_regarding_ompl_orientation/', '_blank')">
+                    <div class="post-thumbnail">
+                        
+                        <img src="https://b.thumbs.redditmedia.com/5kK1cc2czVVuFArHXX1PEbmHvl3vCLVQrJr6sxfat-w.jpg" alt="Question regarding OMPL orientation" onerror="this.style.display='none'" loading="lazy">
+                        
+                    </div>
+
+                    <div class="post-content">
+                        <!-- Post title -->
+                        <div class="post-title">
+                            <a href="https://www.reddit.com/r/robotics/comments/1qofu47/question_regarding_ompl_orientation/" target="_blank" onclick="event.stopPropagation();">Question regarding OMPL orientation</a>
+                        </div>
+
+                        <!-- Rich description (if available) -->
+                        
+                        <div class="post-description">
+                            Hello, I have a question regarding OMPL. I'm using OMPL to get paths for a ground effect vehicle using OwenStateSpace. The thing is that for some reason it doesn't seem to take into consideration the orientation of each state when creating the intermidiate states, so when I show it on RVIZ it's always the default oreintation, as you can see in these pics. https://preview.redd.it/rw51x4domwfg1.png?width=1171&format=png&auto=webp&s=46710612f0cc5674a58f93faaa427bd02f33a818 https://preview.redd.it/q3zj36domwfg1.png?width=1054&format=png&auto=webp&s=3e36bf273fadf4e9b28daeb0dc3d9dac6c1cf155 This is specially a problem when using RRTConnect, because the connection in the middle forces a sudden 180º rotation, because the end of one branch is exactly the same as the beggining of the other, instead of being opposed, as you can see in this other picture. https://preview.redd.it/2nbpa7yqmwfg1.png?width=1171&format=png&auto=webp&s=8d9df910368c0ff27e8c4b4dee63fdcbf3bfbffa The code would be the following: extractPath() is just a function that converts the path to a message for a ROS2 topic. But the error cannot be there, because the issue happens before.// Source - https://stackoverflow.com/q/79876550 // Posted by Daniel Bajo Collados // Retrieved 2026-01-27, License - CC BY-SA 4.0 auto si(std::make_shared<ob::SpaceInformation>(space)); auto probDef(std::make_shared<ob::ProblemDefinition>(si)); probDef->setStartAndGoalStates(*start, *goal); probDef->setOptimizationObjective(getOptObj(si)); auto planner(std::make_shared<og::RRTConnect>(si)); planner->setRange(Range); planner->setProblemDefinition(probDef); planner->setup(); ob::PlannerStatus solved = planner->ob::Planner::solve(time); return_path = extractPath(probDef.get()); extractPath() is just a function that converts the path to a message for a ROS2 topic. But the error cannot be there, because the issue happens before. When setting up the start and the goal, as you can see it gets the proper orientations, so it just ignores the orientation of the intermidiate states. This cpp code is running inside a ROS2 node on a Ubuntu 22 virtual machine.
+                        </div>
+                        
+
+                        <!-- Metadata -->
+                        <div class="post-meta">
+                            <div class="post-meta-line">
+                                
+                                <div class="post-meta-item">
+                                    <span data-timestamp="1769525293.0"></span>
+                                </div>
+                                
+                                <!-- External article source (on same line as time) -->
+                                
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                
                 <div class="carousel-card" onclick="window.open('https://www.reddit.com/r/robotics/comments/1qnhkdw/persona_ai_whats_different_in_their_waist_design/', '_blank')">
                     <div class="post-thumbnail">
                         
@@ -936,56 +971,6 @@
                     </div>
                 </div>
                 
-                <div class="carousel-card" onclick="window.open('https://www.reddit.com/r/robotics/comments/1qnadaq/its_officialchina_deploys_humanoid_robots_at/', '_blank')">
-                    <div class="post-thumbnail">
-                        
-                        <img src="https://external-preview.redd.it/QbVSk8ZSqDVifb_4bVSXrsu1-_mWZqe5LKa9rpwnxc0.jpeg?width=640&crop=smart&auto=webp&s=8ee30142398c1cc6e17febee4ade802680f26445" alt="It's official—China deploys humanoid robots at border crossings and commits to round-the-clock surveillance and logistics" onerror="this.style.display='none'" loading="lazy">
-                        
-                    </div>
-
-                    <div class="post-content">
-                        <!-- Post title -->
-                        <div class="post-title">
-                            <a href="https://www.reddit.com/r/robotics/comments/1qnadaq/its_officialchina_deploys_humanoid_robots_at/" target="_blank" onclick="event.stopPropagation();">It's official—China deploys humanoid robots at border crossings and commits to round-the-clock surveillance and logistics</a>
-                        </div>
-
-                        <!-- Rich description (if available) -->
-                        
-                        <div class="post-description">
-                            It isn't sci-fi anymore—it's border control. China has officially deployed humanoid robots to patrol its borders in Guangxi. A new $37 million contract with UBTech Robotics has stationed 'Walker S2' units at crossings to manage crowds, conduct inspections, and run logistics 24/7. These robots stand 5'9", can swap their own batteries in 3 minutes, and never need to sleep.
-                        </div>
-                        
-
-                        <!-- Metadata -->
-                        <div class="post-meta">
-                            <div class="post-meta-line">
-                                
-                                <div class="post-meta-item">
-                                    <span data-timestamp="1769415646.0"></span>
-                                </div>
-                                
-                                <!-- External article source (on same line as time) -->
-                                
-                                <div class="post-meta-item post-source">
-                                    <a href="https://eladelantado.com/en/humanoid-robot-china/" target="_blank" onclick="event.stopPropagation();">
-                                        
-                                            
-                                            <img src="https://eladelantado.com/en/wp-content/uploads/2025/09/cropped-favicon-ad-180x180.jpg" alt="" class="post-favicon" onerror="this.style.display='none'; this.nextElementSibling.style.display='inline-block';" loading="lazy">
-                                            <svg width="14" height="14" viewBox="0 0 16 16" fill="currentColor" style="flex-shrink: 0; display: none;">
-                                                <path d="M8.636 3.5a.5.5 0 0 0-.5-.5H1.5A1.5 1.5 0 0 0 0 4.5v10A1.5 1.5 0 0 0 1.5 16h10a1.5 1.5 0 0 0 1.5-1.5V7.864a.5.5 0 0 0-1 0V14.5a.5.5 0 0 1-.5.5h-10a.5.5 0 0 1-.5-.5v-10a.5.5 0 0 1 .5-.5h6.636a.5.5 0 0 0 .5-.5z"/>
-                                                <path d="M16 .5a.5.5 0 0 0-.5-.5h-5a.5.5 0 0 0 0 1h3.793L6.146 9.146a.5.5 0 1 0 .708.708L15 1.707V5.5a.5.5 0 0 0 1 0v-5z"/>
-                                            </svg>
-                                            
-                                        
-                                        <span>El Adelantado EN</span>
-                                    </a>
-                                </div>
-                                
-                            </div>
-                        </div>
-                    </div>
-                </div>
-                
 
                 <!-- View All button at end of carousel -->
                 <div class="carousel-card"
@@ -1009,7 +994,7 @@
 
     </div>
     <div class="widget-footer">
-        <small data-timestamp="2026-01-27T14:31:37.304008+00:00">Updated 2026-01-27T14:31:37.304008+00:00</small>
+        <small data-timestamp="2026-01-27T15:32:08.393975+00:00">Updated 2026-01-27T15:32:08.393975+00:00</small>
     </div>
 </div>
 
@@ -1277,47 +1262,6 @@
                     </div>
                 </div>
                 
-                <div class="carousel-card" onclick="window.open('https://www.stocktitan.net/news/RR/richtech-robotics-collaborates-with-microsoft-to-advance-agentic-ai-2ptsobdmvovn.html', '_blank')">
-                    <!-- Rich preview thumbnail (with fallback icon) -->
-                    <div class="article-thumbnail" style="background-image: url('https://www.stocktitan.net/news_covers/Richtech_Robotics_Collaborates_with_Microsoft_to_Advance_Agentic_AI_in_Real_World_Robotics_Applicati_1003906.png');"></div>
-
-                    <div class="article-content">
-                        <!-- Article headline (fixed 3-line height) -->
-                        <div class="news-headline">
-                            <a href="https://www.stocktitan.net/news/RR/richtech-robotics-collaborates-with-microsoft-to-advance-agentic-ai-2ptsobdmvovn.html" target="_blank" onclick="event.stopPropagation();">Microsoft and Richtech give retail and service robots an AI boost</a>
-                        </div>
-
-                        <!-- Rich description (if available) -->
-                        
-                        <div class="article-description">
-                            ADAM, Richtech's Azure-powered robot, now uses vision, voice and contextual data to improve retail workflows and customer interactions.
-                        </div>
-                        
-
-                        <!-- Metadata (source, time) -->
-                        <div class="news-meta">
-                            <div class="news-meta-line">
-                                
-                                <div class="news-meta-item news-source">
-                                    
-                                    <img src="https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.stocktitan.net&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
-                                         alt="Stock Titan" class="news-favicon">
-                                    <a href="https://www.stocktitan.net" target="_blank" onclick="event.stopPropagation();">Stock Titan</a>
-                                    
-                                </div>
-                                
-                            </div>
-                            <div class="news-meta-line">
-                                
-                                <div class="news-meta-item">
-                                    <span data-timestamp="1769518800.0"></span>
-                                </div>
-                                
-                            </div>
-                        </div>
-                    </div>
-                </div>
-                
                 <div class="carousel-card" onclick="window.open('https://abcnews.go.com/Technology/wireStory/ready-robots-homes-maker-friendly-new-humanoid-thinks-129594260', '_blank')">
                     <!-- Rich preview thumbnail (with fallback icon) -->
                     <div class="article-thumbnail" style="background-image: url('https://i.abcnewsfe.com/a/3d6909b9-7de6-4480-9646-4d1db1dfc226/wirestory_57b396cd6f4b98ef83913a5efa9e0db2_16x9.jpg?w=1600');"></div>
@@ -1359,20 +1303,20 @@
                     </div>
                 </div>
                 
-                <div class="carousel-card" onclick="window.open('https://www.therobotreport.com/multiply-labs-partners-astrazeneca-automate-cell-therapy-manufacturing/', '_blank')">
+                <div class="carousel-card" onclick="window.open('https://www.therobotreport.com/vention-raises-110m-to-accelerate-physical-ai-deployments-in-manufacturing/', '_blank')">
                     <!-- Rich preview thumbnail (with fallback icon) -->
-                    <div class="article-thumbnail" style="background-image: url('https://www.therobotreport.com/wp-content/uploads/2026/01/multiplylabs-featured.jpg');"></div>
+                    <div class="article-thumbnail" style="background-image: url('https://www.therobotreport.com/wp-content/uploads/2026/01/Design_Final-copy.jpg');"></div>
 
                     <div class="article-content">
                         <!-- Article headline (fixed 3-line height) -->
                         <div class="news-headline">
-                            <a href="https://www.therobotreport.com/multiply-labs-partners-astrazeneca-automate-cell-therapy-manufacturing/" target="_blank" onclick="event.stopPropagation();">Multiply Labs partners with AstraZeneca to automate cell therapy manufacturing</a>
+                            <a href="https://www.therobotreport.com/vention-raises-110m-to-accelerate-physical-ai-deployments-in-manufacturing/" target="_blank" onclick="event.stopPropagation();">Vention raises $110M to accelerate physical AI deployments in manufacturing</a>
                         </div>
 
                         <!-- Rich description (if available) -->
                         
                         <div class="article-description">
-                            Multiply Labs' goal is to enable scalable, high-throughput manufacturing while maintaining rigorous quality and regulatory standards.
+                            Vention has raised Series D funding to continue commercializing its robot control platform and expand into Europe.
                         </div>
                         
 
@@ -1392,7 +1336,48 @@
                             <div class="news-meta-line">
                                 
                                 <div class="news-meta-item">
-                                    <span data-timestamp="1769522644.0"></span>
+                                    <span data-timestamp="1769521744.0"></span>
+                                </div>
+                                
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                
+                <div class="carousel-card" onclick="window.open('https://www.stocktitan.net/news/RR/richtech-robotics-collaborates-with-microsoft-to-advance-agentic-ai-2ptsobdmvovn.html', '_blank')">
+                    <!-- Rich preview thumbnail (with fallback icon) -->
+                    <div class="article-thumbnail" style="background-image: url('https://www.stocktitan.net/news_covers/Richtech_Robotics_Collaborates_with_Microsoft_to_Advance_Agentic_AI_in_Real_World_Robotics_Applicati_1003906.png');"></div>
+
+                    <div class="article-content">
+                        <!-- Article headline (fixed 3-line height) -->
+                        <div class="news-headline">
+                            <a href="https://www.stocktitan.net/news/RR/richtech-robotics-collaborates-with-microsoft-to-advance-agentic-ai-2ptsobdmvovn.html" target="_blank" onclick="event.stopPropagation();">Microsoft and Richtech give retail and service robots an AI boost</a>
+                        </div>
+
+                        <!-- Rich description (if available) -->
+                        
+                        <div class="article-description">
+                            ADAM, Richtech's Azure-powered robot, now uses vision, voice and contextual data to improve retail workflows and customer interactions.
+                        </div>
+                        
+
+                        <!-- Metadata (source, time) -->
+                        <div class="news-meta">
+                            <div class="news-meta-line">
+                                
+                                <div class="news-meta-item news-source">
+                                    
+                                    <img src="https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.stocktitan.net&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+                                         alt="Stock Titan" class="news-favicon">
+                                    <a href="https://www.stocktitan.net" target="_blank" onclick="event.stopPropagation();">Stock Titan</a>
+                                    
+                                </div>
+                                
+                            </div>
+                            <div class="news-meta-line">
+                                
+                                <div class="news-meta-item">
+                                    <span data-timestamp="1769518800.0"></span>
                                 </div>
                                 
                             </div>
@@ -1441,6 +1426,43 @@
                     </div>
                 </div>
                 
+                <div class="carousel-card" onclick="window.open('https://www.yahoo.com/news/videos/fauna-robotics-unveils-friendly-humanoid-131128200.html', '_blank')">
+                    <!-- Rich preview thumbnail (with fallback icon) -->
+                    <div class="article-thumbnail" style="background-image: url('https://s.yimg.com/ny/api/res/1.2/63IFkRme6EPCy7YUvdGltA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzU7Y2Y9d2VicA--/https://cf-images.us-east-1.prod.boltdns.net/v1/jit/6415665815001/358496aa-bb4b-4eb6-9015-227291bf448d/main/1280x720/27s40ms/match/image.jpg');"></div>
+
+                    <div class="article-content">
+                        <!-- Article headline (fixed 3-line height) -->
+                        <div class="news-headline">
+                            <a href="https://www.yahoo.com/news/videos/fauna-robotics-unveils-friendly-humanoid-131128200.html" target="_blank" onclick="event.stopPropagation();">Fauna Robotics unveils friendly humanoid robot Sprout</a>
+                        </div>
+
+                        <!-- Rich description (if available) -->
+                        
+
+                        <!-- Metadata (source, time) -->
+                        <div class="news-meta">
+                            <div class="news-meta-line">
+                                
+                                <div class="news-meta-item news-source">
+                                    
+                                    <img src="https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.yahoo.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+                                         alt="Yahoo" class="news-favicon">
+                                    <a href="https://www.yahoo.com" target="_blank" onclick="event.stopPropagation();">Yahoo</a>
+                                    
+                                </div>
+                                
+                            </div>
+                            <div class="news-meta-line">
+                                
+                                <div class="news-meta-item">
+                                    <span data-timestamp="1769519488.0"></span>
+                                </div>
+                                
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                
                 <div class="carousel-card" onclick="window.open('https://interestingengineering.com/innovation/magnetic-polymer-artificial-muscles-soft-robotics', '_blank')">
                     <!-- Rich preview thumbnail (with fallback icon) -->
                     <div class="article-thumbnail" style="background-image: url('https://cms.interestingengineering.com/wp-content/uploads/2026/01/image-1920x1080-2026-01-24T192925.003.png');"></div>
@@ -1482,20 +1504,20 @@
                     </div>
                 </div>
                 
-                <div class="carousel-card" onclick="window.open('https://www.news8000.com/news/local-news/sparta/local-robotics-team-inspires-young-minds-with-lego-demonstration/article_010e07fd-8c6c-4f86-bc01-a91d2fc723d6.html', '_blank')">
+                <div class="carousel-card" onclick="window.open('https://www.channel3000.com/news/wisconsin-robotics-team-inspires-young-minds-with-lego-demonstration/article_1a694168-7e92-58bb-a160-376bd6d76806.html', '_blank')">
                     <!-- Rich preview thumbnail (with fallback icon) -->
-                    <div class="article-thumbnail" style="background-image: url('https://bloximages.newyork1.vip.townnews.com/news8000.com/content/tncms/assets/v3/editorial/d/3b/d3b2cd0a-3175-41b1-8c36-60b98360a1d9/6975511b8cf90.image.jpg?crop=1918%2C1007%2C0%2C36&resize=1200%2C630&order=crop%2Cresize');"></div>
+                    <div class="article-thumbnail" style="background-image: url('https://bloximages.newyork1.vip.townnews.com/channel3000.com/content/tncms/assets/v3/editorial/f/85/f8596e21-a0a7-5336-94f2-3682b3406670/697560311d375.image.jpg?crop=1918%2C1007%2C0%2C36&resize=1200%2C630&order=crop%2Cresize');"></div>
 
                     <div class="article-content">
                         <!-- Article headline (fixed 3-line height) -->
                         <div class="news-headline">
-                            <a href="https://www.news8000.com/news/local-news/sparta/local-robotics-team-inspires-young-minds-with-lego-demonstration/article_010e07fd-8c6c-4f86-bc01-a91d2fc723d6.html" target="_blank" onclick="event.stopPropagation();">Local robotics team inspires young minds with LEGO demonstration</a>
+                            <a href="https://www.channel3000.com/news/wisconsin-robotics-team-inspires-young-minds-with-lego-demonstration/article_1a694168-7e92-58bb-a160-376bd6d76806.html" target="_blank" onclick="event.stopPropagation();">Wisconsin robotics team inspires young minds with LEGO demonstration</a>
                         </div>
 
                         <!-- Rich description (if available) -->
                         
                         <div class="article-description">
-                            The Brief
+                            SPARTA, Wis. (WKBT) — Local kids brought science and technology to life through a LEGO robotics demonstration hosted by an award-winning team.
                         </div>
                         
 
@@ -1505,9 +1527,9 @@
                                 
                                 <div class="news-meta-item news-source">
                                     
-                                    <img src="https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.news8000.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
-                                         alt="news8000.com" class="news-favicon">
-                                    <a href="https://www.news8000.com" target="_blank" onclick="event.stopPropagation();">news8000.com</a>
+                                    <img src="https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.channel3000.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+                                         alt="channel3000.com" class="news-favicon">
+                                    <a href="https://www.channel3000.com" target="_blank" onclick="event.stopPropagation();">channel3000.com</a>
                                     
                                 </div>
                                 
@@ -1564,47 +1586,6 @@
                     </div>
                 </div>
                 
-                <div class="carousel-card" onclick="window.open('https://www.ft.com/content/0f831781-b450-4644-9f83-b3f76968a4af', '_blank')">
-                    <!-- Rich preview thumbnail (with fallback icon) -->
-                    <div class="article-thumbnail" style="background-image: url('https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F1e69f7bb-650e-4a05-819d-09847ced0662.jpg?source=next-barrier-page');"></div>
-
-                    <div class="article-content">
-                        <!-- Article headline (fixed 3-line height) -->
-                        <div class="news-headline">
-                            <a href="https://www.ft.com/content/0f831781-b450-4644-9f83-b3f76968a4af" target="_blank" onclick="event.stopPropagation();">Robots only half as efficient as humans, says leading Chinese producer</a>
-                        </div>
-
-                        <!-- Rich description (if available) -->
-                        
-                        <div class="article-description">
-                            UBTech executive highlights difficulty in replacing workers with machines but manufacturers are still racing to order them
-                        </div>
-                        
-
-                        <!-- Metadata (source, time) -->
-                        <div class="news-meta">
-                            <div class="news-meta-line">
-                                
-                                <div class="news-meta-item news-source">
-                                    
-                                    <img src="https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.ft.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
-                                         alt="Financial Times" class="news-favicon">
-                                    <a href="https://www.ft.com" target="_blank" onclick="event.stopPropagation();">Financial Times</a>
-                                    
-                                </div>
-                                
-                            </div>
-                            <div class="news-meta-line">
-                                
-                                <div class="news-meta-item">
-                                    <span data-timestamp="1769317227.0"></span>
-                                </div>
-                                
-                            </div>
-                        </div>
-                    </div>
-                </div>
-                
 
                 <!-- View All button at end of carousel -->
                 <div class="carousel-card" style="display: flex; align-items: center; justify-content: center; cursor: pointer; background: rgba(255, 255, 255, 0.05);"
@@ -1625,7 +1606,7 @@
 
     </div>
     <div class="widget-footer">
-        <small data-timestamp="2026-01-27T14:31:54.072221+00:00">Updated 2026-01-27T14:31:54.072221+00:00</small>
+        <small data-timestamp="2026-01-27T15:32:25.584364+00:00">Updated 2026-01-27T15:32:25.584364+00:00</small>
     </div>
 </div>
 

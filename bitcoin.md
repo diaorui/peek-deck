@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-01-27T14:31:56.440657+00:00'
+updated: '2026-01-27T15:32:29.146008+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- social
-- news
 - cryptocurrency
 - videos
+- news
+- social
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** January 27, 2026 at 14:31 UTC  
+**Last Updated:** January 27, 2026 at 15:32 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,17 +38,17 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $87,891.15
+### $88,039.09
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** +0.7%  
-**7d:** -1.5%  
-**30d:** +1.2%  
-**90d:** -18.5%  
-**1y:** -13.0%  
+**24h:** -0.1%  
+**7d:** -2.2%  
+**30d:** +0.5%  
+**90d:** -19.1%  
+**1y:** -13.5%  
 
 ---
 
@@ -79,13 +79,39 @@ Rank #1
 
 **[still hodling](https://www.reddit.com/r/Bitcoin/comments/1qoarog/still_hodling/)**
 
-3h ago
+4h ago
+
+---
+
+**[Rule 11](https://www.reddit.com/r/Bitcoin/comments/1qoe2h3/rule_11/)**
+
+1h ago
+
+---
+
+**[I'm afraid of the future.](https://www.reddit.com/r/Bitcoin/comments/1qoctai/im_afraid_of_the_future/)**
+
+I'm making this post to vent and get some opinions. I'm scared. I'm 19, and this world that's coming is terrifying. People tell me to relax, but they don't see it. The world is falling apart. Money is worthless. I don't know what to study because AI could put me out of work for 10 years. I don't want to go into a degree program and waste all that time that I could have invested in something else. I don't know how to invest in Bitcoin, haha. I don't know where to put my effort. I've seen a little bit about Bitcoin, that it's a safe place to store things. I guess I need advice.
+
+2h ago
 
 ---
 
 **[Still here !!](https://www.reddit.com/r/Bitcoin/comments/1qo8o7j/still_here/)**
 
-5h ago
+6h ago
+
+---
+
+**[Forever😀](https://www.reddit.com/r/Bitcoin/comments/1qofr38/forever/)**
+
+47m ago
+
+---
+
+**[Me watching Bitcoin play with my feelings again.](https://www.reddit.com/r/Bitcoin/comments/1qoahuk/me_watching_bitcoin_play_with_my_feelings_again/)**
+
+4h ago
 
 ---
 
@@ -95,37 +121,17 @@ Rank #1
 
 ---
 
-**[Me watching Bitcoin play with my feelings again.](https://www.reddit.com/r/Bitcoin/comments/1qoahuk/me_watching_bitcoin_play_with_my_feelings_again/)**
-
-3h ago
-
----
-
 **[Im Young & Risky](https://www.reddit.com/r/Bitcoin/comments/1qo7q22/im_young_risky/)**
 
 Since i’m super young 21M and this is the only time i can risk everything for life changing wealth shouldn’t I take that risk and go all in on BTC. I can put $3k a month to it in my Trezor cold wallet. I’m gonna do it. Hoping i perform better than most assests in the next 6-7 years.
 
-6h ago
-
----
-
-**[I'm afraid of the future.](https://www.reddit.com/r/Bitcoin/comments/1qoctai/im_afraid_of_the_future/)**
-
-I'm making this post to vent and get some opinions. I'm scared. I'm 19, and this world that's coming is terrifying. People tell me to relax, but they don't see it. The world is falling apart. Money is worthless. I don't know what to study because AI could put me out of work for 10 years. I don't want to go into a degree program and waste all that time that I could have invested in something else. I don't know how to invest in Bitcoin, haha. I don't know where to put my effort. I've seen a little bit about Bitcoin, that it's a safe place to store things. I guess I need advice.
-
-1h ago
-
----
-
-**[Rule 11](https://www.reddit.com/r/Bitcoin/comments/1qoe2h3/rule_11/)**
-
-53m ago
+7h ago
 
 ---
 
 **[Simple, not easy.](https://www.reddit.com/r/Bitcoin/comments/1qoaue4/simple_not_easy/)**
 
-3h ago
+4h ago
 
 ---
 
@@ -133,15 +139,7 @@ I'm making this post to vent and get some opinions. I'm scared. I'm 19, and this
 
 I get occasional emails from Coin Base. I thought "didn't I leave $5 or so in my wallet a long time ago?" after buying something I needed to use Bitcoin to purchase. So I logged in and... it said I have over $2,200... I was like... this can't be right. Wasn't it only $5ish? So I found this site - https://charts.bitbo.io/if-i-bought/ - and punched it in... I had about $5.70 left from October of 2015. That's all it took to get over $2k. Now I wish I had been investing... $5 every paycheck since then. I'll probably just leave it in there in perpetuity.
 
-20h ago
-
----
-
-**[I’m back in the game!](https://www.reddit.com/r/Bitcoin/comments/1qoc2dr/im_back_in_the_game/)**
-
-Today, after some time without buying anything, I started buying sats again. It wasn’t much, just $450, but I’m back in the game and wanted to share it here.
-
-2h ago
+21h ago
 
 ---
 
@@ -151,7 +149,7 @@ Today, after some time without buying anything, I started buying sats again. It 
 
 **[Silver overtakes bitcoin’s post-2017 gains as price blows past $115](https://www.theblock.co/post/387138/silver-overtakes-bitcoin-post-2017-gains-price-blows-past-115)**
 
-The Block • 16h ago
+The Block • 17h ago
 
 ---
 
@@ -159,13 +157,13 @@ The Block • 16h ago
 
 Bitcoin traded lower alongside most major tokens as investors favored gold and silver ahead of the Federal Reserve decision and a heavy week of Magnificent Seven earnings.
 
-CoinDesk • 8h ago
+CoinDesk • 9h ago
 
 ---
 
-**[Bitcoin’s Falling Price Puts Miners on Edge](https://finance.yahoo.com/news/bitcoin-falling-price-puts-miners-124226092.html)**
+**[Why Bitcoin Could Surge 184% in 2026, According to This Billionaire Investor](https://finance.yahoo.com/news/why-bitcoin-could-surge-184-133856168.html)**
 
-Data from the CBECI suggest that any miner paying at least $0.10 per kWh for energy will be making a loss on each Bitcoin mined.
+There are plenty of talking heads in the crypto sector to listen to. Many have long-standing bullish views on certain tokens. And it goes without saying that Bitcoin (CRYPTO:BTC) is among the most closely-watched and most commented on cryptocurrencies in the market. There’s good reason for this. First of all, Bitcoin is the largest digital asset in ... Why Bitcoin Could Surge 184% in 2026, According to This Billionaire Investor
 
 Yahoo Finance • 1h ago
 
@@ -175,23 +173,15 @@ Yahoo Finance • 1h ago
 
 Citrea is launching its mainnet in hopes to unlock lending, trading, and other capital market activity directly on the Bitcoin network.
 
-Bitcoin Magazine • 31m ago
+Bitcoin Magazine • 1h ago
 
 ---
 
-**[Tucker Carlson Claims Bitcoin Could Replace The US Dollar, Clashes With Peter Schiff Over Gold Push](https://finance.yahoo.com/news/tucker-carlson-claims-bitcoin-could-124845915.html)**
+**[Trump family-backed American Bitcoin lifts bitcoin holdings to nearly 5,900 coins](https://www.coindesk.com/markets/2026/01/27/trump-family-backed-american-bitcoin-lifts-holdings-to-nearly-5-900-btc)**
 
-Tucker Carlson argued that the U.S. dollar’s “diminishing purchasing power” makes the case for a new global reserve currency. Carlson and Schiff clash over value ...
+Leader in cryptocurrency, Bitcoin, Ethereum, XRP, blockchain, DeFi, digital finance and Web 3.0 news with analysis, video and live price updates.
 
-Yahoo Finance • 1h ago
-
----
-
-**[Why MicroStrategy’s Latest Bitcoin Purchase Is Deeply Concerning](https://finance.yahoo.com/news/why-microstrategy-latest-bitcoin-purchase-193558229.html)**
-
-MicroStrategy’s latest Bitcoin purchase raises structural concerns around dilution, mNAV, and shareholder value.
-
-Yahoo Finance • 18h ago
+CoinDesk • 1h ago
 
 ---
 
@@ -199,21 +189,21 @@ Yahoo Finance • 18h ago
 
 The move came only a week after executive chairman Michael Saylor made a separate $2 billion Bitcoin purchase.
 
-Fortune • 20h ago
-
----
-
-**[Michael Saylor's Strategy buys another 2,932 bitcoin for $264 million as total holdings reach 712,647 BTC](https://www.theblock.co/post/387014/michael-saylors-strategy-buys-more-bitcoin-unstoppable-orange)**
-
-Strategy's holdings account for approximately 3.4% of the total 21 million bitcoin supply — worth around $62.5 billion.
-
-The Block • 1d ago
+Fortune • 21h ago
 
 ---
 
 **[Bitcoin Miners Power Down US Operations in Wake of Winter Storm](https://www.bloomberg.com/news/articles/2026-01-26/bitcoin-miners-power-down-us-operations-in-wake-of-winter-storm)**
 
-Bloomberg • 16h ago
+Bloomberg • 17h ago
+
+---
+
+**[BlackRock eyes new Bitcoin ETF with premium](https://finance.yahoo.com/news/blackrock-eyes-bitcoin-etf-premium-212206126.html)**
+
+BlackRock has filed to launch a second Bitcoin ETF two years after the debut of its blockbuster product, IBIT. This one would feature additional income earned by selling call options on IBIT shares. Among traditional financial firms, BlackRock has been among the most aggressive to embrace crypto.
+
+Yahoo Finance • 18h ago
 
 ---
 
@@ -221,7 +211,15 @@ Bloomberg • 16h ago
 
 The iShares Bitcoin Premium Income ETF would hold bitcoin directly and generate yield from selling IBIT option premiums.
 
-The Block • 20h ago
+The Block • 21h ago
+
+---
+
+**[BlackRock Files Bitcoin Premium Income ETF: What It Could Mean For BTC](https://www.tradingview.com/news/newsbtc:d81eca397094b:0-blackrock-files-bitcoin-premium-income-etf-what-it-could-mean-for-btc/)**
+
+BlackRock has filed an S-1 for an “iShares Bitcoin Premium Income ETF,” a product that aims to track bitcoin’s price while generating option premium by systematically selling calls tied primarily to its own spot bitcoin ETF, IBIT. For BTC-linked derivatives markets, the filing is being read less as…
+
+TradingView • 11h ago
 
 ---
 
@@ -258,7 +256,7 @@ Stargate UI
 
 For years, crypto investors have waited for a familiar miracle. Altcoin season. The moment when small coins suddenly outrun Bitcoin,
 
-⬆️ 1 • 💬 0 • 3h ago • [The Bit Gazette](https://thebitgazette.com/why-altcoin-season-may-not-happen-in-2026-as-bitcoin-keeps-control/)
+⬆️ 1 • 💬 0 • 4h ago • [The Bit Gazette](https://thebitgazette.com/why-altcoin-season-may-not-happen-in-2026-as-bitcoin-keeps-control/)
 
 ---
 
@@ -292,15 +290,15 @@ Traders are braced for this week’s inflation reading to be higher than previou
 
 ---
 
-**[Covid vaccination and post-infection cancer signals [pdf]](https://news.ycombinator.com/item?id=46692325)**
-
-⬆️ 1 • 💬 1 • 6d ago • [brownstone.org](https://brownstone.org/wp-content/uploads/2026/01/oncotarget-26-049705-PUBLISHED-2.pdf)
-
----
-
 **[Tell HN: I cut Claude API costs from $70/month to pennies](https://news.ycombinator.com/item?id=46760285)**
 
 ⬆️ 38 • 💬 21 • 1d ago
+
+---
+
+**[How do you reconstruct what a financial system observed at time T, years later?](https://news.ycombinator.com/item?id=46768778)**
+
+⬆️ 3 • 💬 2 • 21h ago
 
 ---
 
@@ -314,7 +312,7 @@ Exchange Partners** Bitunix Exchange ▻ *$100000 Deposit Bonus* ▻ https://bit
 
 📺 CryptosRUs
 
-👁️ 27K • 👍 1K • 💬 301 • ⏱️ 8:05 • 14h ago
+👁️ 27K • 👍 1K • 💬 301 • ⏱️ 8:05 • 15h ago
 
 ---
 
@@ -324,7 +322,7 @@ In this solo episode, Anthony Pompliano explains why Bitcoin is lagging while go
 
 📺 Anthony Pompliano
 
-👁️ 36K • 👍 2K • 💬 55 • ⏱️ 17:45 • 16h ago
+👁️ 36K • 👍 2K • 💬 55 • ⏱️ 17:45 • 17h ago
 
 ---
 
@@ -334,7 +332,7 @@ Sell BItcoin, buy Silver? Altcoins, stocks, and more BITUNIX TRADE THE TOP COINS
 
 📺 Lark Davis
 
-👁️ 4K • 👍 395 • 💬 57 • ⏱️ 14:11 • 3h ago
+👁️ 4K • 👍 395 • 💬 57 • ⏱️ 14:11 • 4h ago
 
 ---
 
@@ -344,7 +342,7 @@ DISCLAIMER: We may receive a small commission for any purchases made through our
 
 📺 Savvy Finance
 
-👁️ 7K • 👍 310 • 💬 21 • ⏱️ 18:13 • 15h ago
+👁️ 7K • 👍 310 • 💬 21 • ⏱️ 18:13 • 16h ago
 
 ---
 
@@ -354,7 +352,7 @@ Gold and silver are ripping to record highs, but the real story is what this say
 
 📺 Simply Bitcoin
 
-👁️ 24K • 👍 2K • 💬 166 • ⏱️ 18:47 • 14h ago
+👁️ 24K • 👍 2K • 💬 166 • ⏱️ 18:47 • 15h ago
 
 ---
 
@@ -364,7 +362,7 @@ IT'S OVER FOR CRYPTO BLACKROCK PLACED THEIR BETS! I don't believe that crypto is
 
 📺 CryptoWendyO
 
-👁️ 27K • 👍 1K • 💬 152 • ⏱️ 3:19 • 16h ago
+👁️ 27K • 👍 1K • 💬 152 • ⏱️ 3:19 • 17h ago
 
 ---
 
@@ -374,7 +372,7 @@ BTC #Bitcoin #Cryptocurrency Join Michael Saylor for his unforgettable keynote a
 
 📺 Chard The Tech Guy
 
-👁️ 5K • 👍 5K • 3h ago
+👁️ 5K • 👍 5K • 4h ago
 
 ---
 
@@ -384,7 +382,7 @@ In today's video Kyledoops shows a repeat pattern that shows what is next for Bi
 
 📺 Crypto Banter
 
-👁️ 12K • 👍 1K • 💬 15 • ⏱️ 31:36 • 6h ago
+👁️ 12K • 👍 1K • 💬 15 • ⏱️ 31:36 • 7h ago
 
 ---
 
@@ -394,7 +392,7 @@ Bitcoin is close to a key level and in this video, Sheldon breaks down why it co
 
 📺 Crypto Banter
 
-👁️ 4K • 👍 510 • 💬 15 • ⏱️ 34:26 • 3h ago
+👁️ 4K • 👍 510 • 💬 15 • ⏱️ 34:26 • 4h ago
 
 ---
 
@@ -404,7 +402,7 @@ BTC #Bitcoin #Cryptocurrency Join Michael Saylor for his unforgettable keynote a
 
 📺 我是蘇暢 SuChang
 
-👁️ 3K • 👍 2K • 1h ago
+👁️ 3K • 👍 2K • 2h ago
 
 ---
 

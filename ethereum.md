@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-01-27T14:31:56.446486+00:00'
+updated: '2026-01-27T15:32:29.151973+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- social
-- news
 - cryptocurrency
 - videos
+- news
+- social
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** January 27, 2026 at 14:31 UTC  
+**Last Updated:** January 27, 2026 at 15:32 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -36,17 +36,17 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Price
 
-### $2,930.29
+### $2,915.23
 
 ---
 
 ## Ethereum Chart
 
-**24h:** +0.9%  
-**7d:** -2.1%  
-**30d:** -0.4%  
-**90d:** -23.1%  
-**1y:** -4.8%  
+**24h:** +0.5%  
+**7d:** -2.5%  
+**30d:** -0.8%  
+**90d:** -23.4%  
+**1y:** -5.2%  
 
 ---
 
@@ -72,7 +72,7 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-8h ago
+9h ago
 
 ---
 
@@ -80,7 +80,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 Computation > data > state Computation is easier to scale than data. You can parallelize it, require the block builder to provide all kinds of "hints" for it, or just replace arbitrary amounts of it with a proof of it. Data is in the middle. If an availability guarantee on data is required, then that guarantee is required, no way around it. But you can split it up and erasure code it, a la PeerDAS. You can do graceful degradation for it: if a node only has 1/10 the data capacity of the other nodes, it can always produce blocks 1/10 the size. State is the hardest. To guarantee the ability to verify even one transaction, you need the full state. If you replace the state with a tree and keep the root, you need the full state to be able to update that root. There are ways to split it up, but they involve architecture changes, they are fundamentally not general-purpose. Hence, if you can replace state with data (without introducing new forms of centralization), by default you should seriously consider it. And if you can replace data with computation (without introducing new forms of centralization), by default you should seriously consider it.
 
-12h ago
+13h ago
 
 ---
 
@@ -88,7 +88,7 @@ Computation > data > state Computation is easier to scale than data. You can par
 
 Hey r/defi. My name is Matt and I have built something different. EqualFi offers the following: 0% Interest self secured on chain credit. P2P Synthetic and ERC-1155 Covered Calls and Puts. A true P2P Lending system. SOLO AMM and Multi Maker AMMs all time bounded (this is powerful ask me how) Maker Auction Markets(MAM) this is something you have never seen before. Its an MEV resistant way to trade using dutch auction curves on chain. All with a Unified Liquidity pool and Internal ledger. No token(for now). Just DeFi infrastructure that anyone can build on. And here is the kicker. All without oracles or any chance of Liquidation. With this system perpetual leverage without possiblity of liquidation is REAL. This does not mean it is risk free but you cannot get liquidated by a errant wick at 3 am. Below is a link to the Github, and a link to the Discord in case you want to hop in and say hi. You don't have to believe but you should keep an eye on this project. If you want to help shape something new come say hi. Github: https://github.com/EqualFiLabs/EqualFi Discord: https://discord.gg/brsMNDux4T
 
-10h ago
+11h ago
 
 ---
 
@@ -96,7 +96,7 @@ Hey r/defi. My name is Matt and I have built something different. EqualFi offers
 
 I am trying to create a delegate wallet for every user which is connected to my dApp. I intend to have access to the private key so that I can initiate and sign transactions on the users behalf. So I am thinking of making the wallet pub and priv key on client side and I don't want the priv key to ever leave client's browser. Is it possible to implement something like this ? I use Privy for siwe if that can help me in any way.
 
-3h ago
+4h ago
 
 ---
 
@@ -112,7 +112,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 Bluechip (independent stablecoin rating agency) just published their rating for $BOLD, Liquity Protocol's new stablecoin. Thought this sub might find it interesting given the ongoing discussions about decentralized stables and Ethereum's role in the stablecoin ecosystem. Key Findings: Overall Rating: A- (outranks USDC at B+ and DAI at B+) Perfect 1.0 Scores: Management (immutable protocol, no admin keys) Decentralization (no single point of control) Governance (no governance - protocol cannot be altered) Stability Score: 0.88 What Makes BOLD Different: BOLD is the only A- rated stablecoin backed 100% by crypto-native collateral: 100% Ethereum-native collateral (ETH, wstETH, rETH) >200% overcollateralized (currently 291%) Immutable smart contracts (cannot be upgraded or changed) No blacklist function (cannot be frozen) Always redeemable at $1 for underlying collateral For comparison, PYUSD also has an A- rating but is backed by bank deposits and US Treasuries. Context: BOLD is built by the team behind LUSD (Liquity V1), which has been live for 4+ years with $5B peak TVL and zero exploits. Given how much this sub discusses Ethereum's role as the stablecoin settlement layer (especially with $18.8T settled on Ethereum in 2025), figured this was relevant. Full Bluechip Report: https://bluechip.org/en More on Liquity Protocol: https://x.com/LiquityProtocol/status/2015798256186360000 Happy to answer questions about the protocol or rating methodology.
 
-23h ago
+1d ago
 
 ---
 
@@ -154,7 +154,7 @@ Despite net outflows and a decline in ETH’s price, ETH ETFs have still had a s
 
 SharpLink CEO Joseph Chalom argues that macro uncertainty is hiding a massive institutional shift toward Ethereum-based tokenization.
 
-CoinDesk • 18h ago
+CoinDesk • 19h ago
 
 ---
 
@@ -162,7 +162,7 @@ CoinDesk • 18h ago
 
 Should you invest in the blue chip token or the smaller altcoin?
 
-The Motley Fool • 16h ago
+The Motley Fool • 17h ago
 
 ---
 
@@ -170,7 +170,7 @@ The Motley Fool • 16h ago
 
 Tom Lee says precious metals are stealing the spotlight from crypto fundamentals. Bitmine continues to add to its $12.8 billion ETH holdings, amid Tom Lee's ...
 
-Yahoo Finance • 2h ago
+Yahoo Finance • 3h ago
 
 ---
 
@@ -178,7 +178,13 @@ Yahoo Finance • 2h ago
 
 The project said its auction app dominated Ethereum activity on Jan. 24 and that TVS topped $100 million within three days.
 
-thedefiant.io • 15h ago
+thedefiant.io • 16h ago
+
+---
+
+**[Ethereum News: Ether Price Surged 226% After This Global Liquidity Signal — Is ETH Setting Up Another Breakout?](https://www.binance.com/en/square/post/01-27-2026-ethereum-news-ether-price-surged-226-after-this-global-liquidity-signal-is-eth-setting-up-another-breakout-35635381799361)**
+
+Binance • 10h ago
 
 ---
 
@@ -192,7 +198,7 @@ The Block • 2d ago
 
 Publicly traded Ethereum treasury firm BitMine Immersion Technologies added to its stash with its largest ETH acquisition of the year so far.
 
-Yahoo Finance • 22h ago
+Yahoo Finance • 23h ago
 
 ---
 
@@ -200,7 +206,7 @@ Yahoo Finance • 22h ago
 
 Publicly traded Ethereum treasury firm BitMine Immersion Technologies added to its stash with its largest ETH acquisition of the year so far.
 
-Decrypt • 22h ago
+Decrypt • 23h ago
 
 ---
 
@@ -212,15 +218,11 @@ The Block • 1d ago
 
 ---
 
-**[Bitcoin, Ethereum Rise. Why the Fed’s Rate Call Could Be Vital for Crypto.](https://www.barrons.com/articles/bitcoin-price-ethereum-xrp-crypto-fed-3d9bd791?gaa_at=eafs&gaa_n=AWEtsqdIwo5So0W0I5Ic5U8k7rKg9AspA6hkd_AawxTcOCNaDu1B5fi5zVDV&gaa_ts=6978cfcb&gaa_sig=iUtiEjVJsl42Rqob12vDSjOCCKEoc5qNyi2u9Z8XvClFCrS5gMnEMjCdlpMLgYgLrcQUnShDcRYCuvsicaRn-w%3D%3D)**
+**[Ethereum Classic: Buy, Sell, or Hold in 2026?](https://www.nasdaq.com/articles/ethereum-classic-buy-sell-or-hold-2026)**
 
-Barron's • 3h ago
+Key PointsOver the past decade, Ethereum Classic is up 557%.
 
----
-
-**[Ethereum News: Ether Price Surged 226% After This Global Liquidity Signal — Is ETH Setting Up Another Breakout?](https://www.binance.com/en/square/post/01-27-2026-ethereum-news-ether-price-surged-226-after-this-global-liquidity-signal-is-eth-setting-up-another-breakout-35635381799361)**
-
-Binance • 9h ago
+Nasdaq • 3d ago
 
 ---
 
@@ -244,7 +246,7 @@ This video provides a professional Elliott Wave and technical analysis of Ethere
 
 📺 More Crypto Online
 
-👁️ 1K • 👍 86 • 💬 4 • ⏱️ 4:04 • 8h ago
+👁️ 1K • 👍 86 • 💬 4 • ⏱️ 4:04 • 9h ago
 
 ---
 
@@ -254,7 +256,7 @@ SharpLink CEO and former BlackRock head of digital assets strategy, Joseph Chalo
 
 📺 CoinDesk
 
-👁️ 12K • 👍 422 • 💬 73 • ⏱️ 23:51 • 18h ago
+👁️ 12K • 👍 422 • 💬 73 • ⏱️ 23:51 • 19h ago
 
 ---
 
@@ -274,7 +276,7 @@ My FREE Daily On-Chain Analysis & Crypto News In 5-Mins: https://www.cryptonutsh
 
 📺 Jamie Tree 
 
-👁️ 3K • 👍 86 • 💬 40 • ⏱️ 17:46 • 1d ago
+👁️ 3K • 👍 86 • 💬 40 • ⏱️ 17:46 • 2d ago
 
 ---
 
@@ -284,7 +286,7 @@ BITCOIN CRASH: Everyone is WRONG (New Signal)!!! - Bitcoin News Today, Ethereum 
 
 📺 Crypto World
 
-👁️ 9K • 👍 310 • 💬 100 • ⏱️ 20:33 • 18h ago
+👁️ 9K • 👍 310 • 💬 100 • ⏱️ 20:33 • 19h ago
 
 ---
 
@@ -294,7 +296,7 @@ Raoul Pal: “This Is EXACTLY How The 2026 Bull Run Starts” [New Bitcoin & Eth
 
 📺 Crypto Nutshell
 
-👁️ 21K • 👍 646 • 💬 93 • ⏱️ 14:27 • 1d ago
+👁️ 21K • 👍 646 • 💬 93 • ⏱️ 14:27 • 2d ago
 
 ---
 
@@ -314,7 +316,7 @@ Ethereum isn't just another crypto — it's becoming Wall Street's settlement la
 
 📺 Gven Sariol | DeFi  | ARCrypto
 
-👁️ 54 • 👍 13 • 💬 5 • ⏱️ 6:56 • 15h ago
+👁️ 54 • 👍 13 • 💬 5 • ⏱️ 6:56 • 16h ago
 
 ---
 
@@ -324,7 +326,7 @@ Weekend/Bank Holiday video: https://www.youtube.com/watch?v=5pBbKuLfRZI Brighter
 
 📺 Trading Jip
 
-👁️ 245 • 👍 27 • 💬 69 • ⏱️ 6:29 • 5h ago
+👁️ 245 • 👍 27 • 💬 69 • ⏱️ 6:29 • 6h ago
 
 ---
 
