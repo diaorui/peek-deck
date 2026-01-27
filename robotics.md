@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-01-27T05:52:19.643843+00:00'
+updated: '2026-01-27T06:37:47.770472+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
+- videos
 - news
 - social
-- videos
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** January 27, 2026 at 05:52 UTC  
+**Last Updated:** January 27, 2026 at 06:37 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -34,7 +34,7 @@ Robotics research and industry news
 
 **[Persona AI: What’s Different in Their Waist Design - Soft Robotics Podcast](https://www.reddit.com/r/robotics/comments/1qnhkdw/persona_ai_whats_different_in_their_waist_design/)**
 
-15h ago
+16h ago
 
 ---
 
@@ -42,21 +42,15 @@ Robotics research and industry news
 
 - 3 x Super-Beacons as stationary beacons - 1 x stripped-down (and partially damaged :-) Super-Beacon as a mobile beacon - 1 x Modem v5.1 as a central controller for the indoor positioning system - An app on Android to control the DJI via the virtual stick via the RC DJI is controlled by a virtual stick, i.e., the drone thinks it is controlled by a human, while it is controlled by the system: https://marvelmind.com/pics/marvelmind_DJI_autonomous_flight_manual.pdf
 
-21h ago
+22h ago
 
 ---
 
-**[👋Welcome to r/CollegeLab_projects - Introduce Yourself and Read First!](https://www.reddit.com/r/robotics/comments/1qo4phv/welcome_to_rcollegelab_projects_introduce/)**
+**[Autonomous Indoor Drone Flight Over Waypoints](https://www.reddit.com/r/robotics/comments/1qo68jo/autonomous_indoor_drone_flight_over_waypoints/)**
 
-40m ago
+Setup: - 3 x stationary Super-Beacons (green dots on the floorplan: 8, 2, 3) - 1 x Super-Beacon as a mobile on the drone (11) - 1 x Modem v5.1 as a central controller - USB-connected to the laptop - 1 x Marvelmind DJI App on Android - the "brain" of the system controlling the drone over the virtual stick - Marvelmind Dashboard to set up the waypoints and the system in general
 
----
-
-**[Video tour of copper-rs, a Deterministic Robotics Runtime in Rust](https://www.reddit.com/r/robotics/comments/1qnv22c/video_tour_of_copperrs_a_deterministic_robotics/)**
-
-In this video, we take a fast but deep tour of Copper, a deterministic robotics runtime written in Rust. We cover the core concepts behind Copper by showing the tooling, workflows, and systems. From observability and determinism to AI inference, embedded development, and distributed execution. Chapters are clickable in the video description. 00:00 Intro 01:13 ConsoleMon, Copper’s TUI monitor - New: refreshed look and bandwidth pane 09:40 Offline config viewer and DAG visualization - New: updated visuals 13:38 New: DAG statistics combining structure with runtime performance 15:02 New: Exporting logs to the MCAP format 16:40 New: Visualizing Copper logs in Foxglove 17:38 Determinism in Copper: Why it matters and how we can actually prove it 22:34 New: AI and ML inference with HuggingFace - Live visualization using Rerun 25:38 Embedded and bare metal development - Flight controller example 27:00 Missions - Quick overview using the flight controller 29:39 New: Resource bundles - What problem they solve and how they work 31:54 Multiprocessing and distributed Copper - New, kind of: Zenoh bridge 36:40 Conclusion and thanks
-
-🔗 [youtu.be](https://youtu.be/58UYNb27AlM) • 7h ago
+6m ago
 
 ---
 
@@ -64,7 +58,21 @@ In this video, we take a fast but deep tour of Copper, a deterministic robotics 
 
 It isn't sci-fi anymore—it's border control. China has officially deployed humanoid robots to patrol its borders in Guangxi. A new $37 million contract with UBTech Robotics has stationed 'Walker S2' units at crossings to manage crowds, conduct inspections, and run logistics 24/7. These robots stand 5'9", can swap their own batteries in 3 minutes, and never need to sleep.
 
-🔗 [El Adelantado EN](https://eladelantado.com/en/humanoid-robot-china/) • 21h ago
+🔗 [El Adelantado EN](https://eladelantado.com/en/humanoid-robot-china/) • 22h ago
+
+---
+
+**[Video tour of copper-rs, a Deterministic Robotics Runtime in Rust](https://www.reddit.com/r/robotics/comments/1qnv22c/video_tour_of_copperrs_a_deterministic_robotics/)**
+
+In this video, we take a fast but deep tour of Copper, a deterministic robotics runtime written in Rust. We cover the core concepts behind Copper by showing the tooling, workflows, and systems. From observability and determinism to AI inference, embedded development, and distributed execution. Chapters are clickable in the video description. 00:00 Intro 01:13 ConsoleMon, Copper’s TUI monitor - New: refreshed look and bandwidth pane 09:40 Offline config viewer and DAG visualization - New: updated visuals 13:38 New: DAG statistics combining structure with runtime performance 15:02 New: Exporting logs to the MCAP format 16:40 New: Visualizing Copper logs in Foxglove 17:38 Determinism in Copper: Why it matters and how we can actually prove it 22:34 New: AI and ML inference with HuggingFace - Live visualization using Rerun 25:38 Embedded and bare metal development - Flight controller example 27:00 Missions - Quick overview using the flight controller 29:39 New: Resource bundles - What problem they solve and how they work 31:54 Multiprocessing and distributed Copper - New, kind of: Zenoh bridge 36:40 Conclusion and thanks
+
+🔗 [youtu.be](https://youtu.be/58UYNb27AlM) • 8h ago
+
+---
+
+**[👋Welcome to r/CollegeLab_projects - Introduce Yourself and Read First!](https://www.reddit.com/r/robotics/comments/1qo4phv/welcome_to_rcollegelab_projects_introduce/)**
+
+1h ago
 
 ---
 
@@ -76,19 +84,11 @@ I don't have much information, but it's a bit viral on X
 
 ---
 
-**[Writing a book on embodied intelligence — would love critical input from roboticists here](https://www.reddit.com/r/robotics/comments/1qnovp1/writing_a_book_on_embodied_intelligence_would/)**
-
-Hi everyone, I’m in the middle of writing a book tentatively titled A Brief History of Embodied Intelligence, and I’m hoping to get some honest, critical feedback from people who actually think about robots for a living. The book attempts to tell a long-arc story of embodied intelligence — from Da Vinci’s Mechanical Knight to modern humanoids like Optimus — while also exploring the future directions of embodied intelligence. I’m sharing early drafts publicly and revising as I go. What I’d really like from this community: What parts of robotics history do popular narratives usually get wrong or oversimplify? Are there key systems, papers, or failures that you think matter more than people realize? When people talk about “embodied intelligence” today, what do you think is most misunderstood? Draft chapters are here (free to read): https://www.robonaissance.com/p/a-brief-history-of-embodied-intelligence The book is still very much unfinished, and I’m hoping feedback now can make it better rather than shinier. Thanks, and I’m happy to discuss or clarify anything in the comments.
-
-11h ago
-
----
-
 **[Core Concepts of ROS Every Beginner Must Understand](https://www.reddit.com/r/robotics/comments/1qnegsx/core_concepts_of_ros_every_beginner_must/)**
 
 Hey everyone 👋 I recently wrote a Medium article introducing ROS (Robot Operating System) for beginners. In the article, I cover: What ROS actually is (and what it is not) Why robotics software feels complex Core ROS concepts explained simply (nodes, communication, etc.) Simple real-world explanations using a robot example I’m still learning robotics myself, so I’d really appreciate: Honest feedback What feels confusing or unclear What topics I should add/remove Whether the explanations are beginner-friendly enough Thanks in advance! Any comments or critiques are welcome 🙌
 
-🔗 [Medium](https://medium.com/@imashanilupul/core-concepts-of-ros-every-beginner-must-understand-c59a87623cf8) • 17h ago
+🔗 [Medium](https://medium.com/@imashanilupul/core-concepts-of-ros-every-beginner-must-understand-c59a87623cf8) • 18h ago
 
 ---
 
@@ -100,7 +100,7 @@ Hey everyone 👋 I recently wrote a Medium article introducing ROS (Robot Opera
 
 **[ROS2 correlation engine: how we built automatic causal chain reconstruction for production debugging](https://www.reddit.com/r/robotics/comments/1qnlmmk/ros2_correlation_engine_how_we_built_automatic/)**
 
-12h ago
+13h ago
 
 ---
 
@@ -112,7 +112,7 @@ Hey everyone 👋 I recently wrote a Medium article introducing ROS (Robot Opera
 
 State of Robotics Industry Report 2026 offers a clear-eyed assessment of where the market stands today and where it’s headed.
 
-The Robot Report • 11h ago
+The Robot Report • 12h ago
 
 ---
 
@@ -120,7 +120,7 @@ The Robot Report • 11h ago
 
 Chinese robotics firm Unitree Robotics announced on Monday that it has become a robot cooperation partner for China Media Group's (CMG) Spring Festival Gala for the Year of the Horse, marking its third collaboration with the gala, following a robot ox performance in 2021 and a humanoid robot yangko dance show at the 2025 event, according to its social media post.
 
-Global Times • 15h ago
+Global Times • 16h ago
 
 ---
 
@@ -128,7 +128,7 @@ Global Times • 15h ago
 
 Chinese technology is advancing rapidly with robotics. In addition to military uses, robots are playing sports, doing household chores, and dancing.
 
-bgr.com • 15h ago
+bgr.com • 16h ago
 
 ---
 
@@ -136,15 +136,7 @@ bgr.com • 15h ago
 
 Coming out of CES earlier this month, you might think a new kitchen assistant from a startup called Gambit Robotics would look something like the dozens of humanoid robots roaming the show floor in…
 
-thespoon.tech • 10h ago
-
----
-
-**[Shasta High School class gives students hands-on experience in the world of robotics, AI](https://krcrtv.com/news/local/shasta-high-school-class-gives-students-hands-on-experience-in-the-world-of-robotics-ai)**
-
-Shasta High School's Robotics and Advanced Manufacturing Program is preparing teenagers for a future that seems limited only by their imagination.The future is
-
-krcrtv.com • 2h ago
+thespoon.tech • 11h ago
 
 ---
 
@@ -152,7 +144,15 @@ krcrtv.com • 2h ago
 
 DUBAI, United Arab Emirates, Jan.  26, 2026  (GLOBE NEWSWIRE) -- Micropolis Robotics, (“Micropolis” or the “Company”) (NYSE: MCRP), a pioneer in u...
 
-markets.businessinsider.com • 15h ago
+markets.businessinsider.com • 16h ago
+
+---
+
+**[Shasta High School class gives students hands-on experience in the world of robotics, AI](https://krcrtv.com/news/local/shasta-high-school-class-gives-students-hands-on-experience-in-the-world-of-robotics-ai)**
+
+Shasta High School's Robotics and Advanced Manufacturing Program is preparing teenagers for a future that seems limited only by their imagination.The future is
+
+krcrtv.com • 3h ago
 
 ---
 
@@ -172,19 +172,19 @@ bgr.com • 18h ago
 
 ---
 
-**[Hyundai union moves to block humanoid robots from assembly lines](https://www.upi.com/Top_News/World-News/2026/01/26/hyundai-motor-union-formally-opposed-humanoid-robots-on-factory/8341769483138/)**
+**[Why the rise of humanoid robots could make us less comfortable with each other](https://www.livescience.com/technology/robotics/why-the-rise-of-humanoid-robots-could-make-us-less-comfortable-with-each-other)**
 
-As automakers accelerate efforts to deploy humanoid robots on factory floors, the Hyundai Motor union has formally opposed their use in production.
+Living with robots could lead to plenty of societal improvements, but they also pose risks to how we socialize and co-exist with other human beings.
 
-upi.com • 2h ago
+Live Science • 2d ago
 
 ---
 
-**[German Company to Provide AI-Powered Robotic Kitchens to Ukrainian Troops](https://www.kyivpost.com/post/68799)**
+**[New magnetic polymer enables stronger and more flexible artificial muscles in soft robotics](https://interestingengineering.com/innovation/magnetic-polymer-artificial-muscles-soft-robotics)**
 
-The kitchens are fully autonomous and can handle everything from picking ingredients to cooking, serving, and cleaning.
+Researchers developed a dual cross-linked magnetic polymer that combines high stretchability with record work density.
 
-kyivpost.com • 1d ago
+Interesting Engineering • 2d ago
 
 ---
 
@@ -228,7 +228,7 @@ The Growing Robot That Enters Collapsed Buildings Before Humans Do When disaster
 
 📺 EcoZora
 
-👁️ 220K • 👍 1K • 💬 128 • ⏱️ 0:07 • 20h ago
+👁️ 220K • 👍 1K • 💬 128 • ⏱️ 0:07 • 21h ago
 
 ---
 
@@ -248,7 +248,7 @@ Brianna is jealous of Capy's perfect robot, so she does the unthinkable! Watch a
 
 📺 CapyEscapes
 
-👁️ 7K • 👍 395 • 💬 10 • ⏱️ 0:55 • 18h ago
+👁️ 7K • 👍 395 • 💬 10 • ⏱️ 0:55 • 19h ago
 
 ---
 
@@ -278,7 +278,7 @@ We are honored to celebrate an important milestone at Future Robot Lab. This vid
 
 📺 Future Robot Lab
 
-👁️ 1K • 👍 30 • 💬 7 • ⏱️ 9:38 • 16h ago
+👁️ 1K • 👍 30 • 💬 7 • ⏱️ 9:38 • 17h ago
 
 ---
 
@@ -288,7 +288,7 @@ Check out ECOVACS' newest products for 2026: https://www.ecovacs.com/global/camp
 
 📺 Freshly Charged
 
-👁️ 751 • 👍 27 • 💬 13 • ⏱️ 7:36 • 9h ago
+👁️ 751 • 👍 27 • 💬 13 • ⏱️ 7:36 • 10h ago
 
 ---
 

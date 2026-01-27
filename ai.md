@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-01-27T05:52:19.626364+00:00'
+updated: '2026-01-27T06:37:47.752105+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- news
-- social
 - videos
+- news
 - repositories
+- social
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** January 27, 2026 at 05:52 UTC  
+**Last Updated:** January 27, 2026 at 06:37 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -42,6 +42,14 @@ AI news, discussions, and developments
 Meta is blocking teens worldwide from accessing AI chatbot characters while it rebuilds the feature with parental controls and safety rules.
 
 🔗 [Interesting Engineering](https://interestingengineering.com/ai-robotics/meta-pauses-teens-ai-chatbot-character) • 14h ago
+
+---
+
+**[One-Minute Daily AI News 1/26/2026](https://www.reddit.com/r/artificial/comments/1qo5gkh/oneminute_daily_ai_news_1262026/)**
+
+EU Investigates X Over Alleged Failures to Curb Illegal Grok AI Content.[1] Microsoft announces powerful new chip for AI inference.[2] A Coding Implementation to Automating LLM Quality Assurance with DeepEval, Custom Retrievers, and LLM-as-a-Judge Metrics.[3] YouTubers sue Snap for alleged copyright infringement in training its AI models.[4] Sources: [1] https://www.yahoo.com/news/articles/eu-investigates-x-over-alleged-042420125.html [2] https://techcrunch.com/2026/01/26/microsoft-announces-powerful-new-chip-for-ai-inference/ [3] https://www.marktechpost.com/2026/01/25/a-coding-implementation-to-automating-llm-quality-assurance-with-deepeval-custom-retrievers-and-llm-as-a-judge-metrics/ [4] https://techcrunch.com/2026/01/26/youtubers-sue-snap-for-alleged-copyright-infringement-in-training-its-ai-models/
+
+47m ago
 
 ---
 
@@ -73,7 +81,7 @@ The BBC's Lily Jamali looks into why big US firms and start-ups alike are turnin
 
 I don't know how much this is a case with SWEs, but most people I have met in AI are quite opiniated about what they consider to be 'boring work' which is for a lack of better word might be 'beneath them". Maybe that is some data cleaning work, or creating documentation, attending meetings, incremental finetunings etc etc While all they want to work on is interesting modelling work, and creating the next big thing? How do you avoid being pigeon-holed into some boring but important work vs working on tasks which are really interesting but have been maybe assinged to someone else? Also, is having a strong taste for problems a good thing for you career? Or feeling that any task being "beneath you" just a red flag for a professional?
 
-13h ago
+14h ago
 
 ---
 
@@ -81,7 +89,7 @@ I don't know how much this is a case with SWEs, but most people I have met in AI
 
 I wanted a version to read on Kindle, so I made the following. The EPUB + PDF version is here: https://www.adithyan.io/blog/kindle-ready-adolescence-of-technology Original essay: https://www.darioamodei.com/essay/the-adolescence-of-technology
 
-7h ago
+8h ago
 
 ---
 
@@ -89,7 +97,7 @@ I wanted a version to read on Kindle, so I made the following. The EPUB + PDF ve
 
 Needless to say, a good enough brain emulation would be an artificial general intelligence. Personally, i don't think most connections need to be mapped.
 
-🔗 [arXiv.org](https://arxiv.org/abs/2510.15745) • 8h ago
+🔗 [arXiv.org](https://arxiv.org/abs/2510.15745) • 9h ago
 
 ---
 
@@ -97,7 +105,7 @@ Needless to say, a good enough brain emulation would be an artificial general in
 
 AI is increasingly being used as a research collaborator for mathematicians and scientists.
 
-🔗 [Axios](https://www.axios.com/2026/01/26/openai-scientific-research-partner) • 17h ago
+🔗 [Axios](https://www.axios.com/2026/01/26/openai-scientific-research-partner) • 18h ago
 
 ---
 
@@ -105,15 +113,7 @@ AI is increasingly being used as a research collaborator for mathematicians and 
 
 Want to find out more about the new EU rules on algorithm use in the workplace that members of the European Parliament are calling for? Join our AMA with leading MEP on the issue u/Andrzej_Bula on Tuesday January 27.01 at 2 pm CET. Ask your questions
 
-14h ago
-
----
-
-**[One-Minute Daily AI News 1/25/2026](https://www.reddit.com/r/artificial/comments/1qn7sy2/oneminute_daily_ai_news_1252026/)**
-
-Apple will reportedly unveil its Gemini-powered Siri assistant in February.[1] Clawdbot is an open source personal AI assistant that you run on your own hardware.[2] Tesla plans to start training Optimus at its Austin factory.[3] ChatGPT uses an age prediction model to help estimate whether an account likely belongs to someone under 18.[4] Sources: [1] https://techcrunch.com/2026/01/25/apple-will-reportedly-unveil-its-gemini-powered-siri-assistant-in-february/ [2] https://www.marktechpost.com/2026/01/25/what-is-clawdbot-how-a-local-first-agent-stack-turns-chats-into-real-automations/ [3] https://www.businessinsider.com/tesla-optimus-robot-new-training-austin-gigafactory-2026-1 [4] https://openai.com/index/our-approach-to-age-prediction/
-
-23h ago
+15h ago
 
 ---
 
@@ -123,53 +123,7 @@ Apple will reportedly unveil its Gemini-powered Siri assistant in February.[1] C
 
 **[Yann LeCun, an A.I. Pioneer, Warns the Tech ‘Herd’ Could Hit a Dead End](https://www.nytimes.com/2026/01/26/technology/an-ai-pioneer-warns-the-tech-herd-is-marching-into-a-dead-end.html)**
 
-The New York Times • 19h ago
-
----
-
-**[Microsoft reveals second generation of its AI chip in effort to bolster cloud business](https://www.cnbc.com/2026/01/26/microsoft-reveals-maia-200-ai-chip-will-use-it-in-house.html)**
-
-With its newest AI chip, Microsoft plans "wider customer availability" after its initial product was only used for internal projects.
-
-CNBC • 13h ago
-
----
-
-**[Microsoft says its newest AI chip Maia 200 is 3 times more powerful than Google's TPU and Amazon's Trainium processor](https://www.livescience.com/technology/artificial-intelligence/microsoft-says-its-newest-ai-chip-maia-200-is-3-times-more-powerful-than-googles-tpu-and-amazons-trainium-processor)**
-
-The Maia 200 AI chip is described as an inference powerhouse — meaning it could lead AI models to apply their knowledge to real-world situations much faster and more efficiently.
-
-Live Science • 13h ago
-
----
-
-**[Maia 200: The AI accelerator built for inference](https://blogs.microsoft.com/blog/2026/01/26/maia-200-the-ai-accelerator-built-for-inference/)**
-
-Today, we’re proud to introduce Maia 200, a breakthrough inference accelerator engineered to dramatically improve the economics of AI token generation. Maia 200 is an AI inference powerhouse: an accelerator built on TSMC’s 3nm process with native FP8/FP4 tensor cores, a redesigned memory system with 216GB HBM3e at 7 TB/s and 272MB of on-chip SRAM, plus...
-
-The Official Microsoft Blog • 13h ago
-
----
-
-**[China’s Moonshot Unveils New AI Model Ahead of DeepSeek Release](https://www.bloomberg.com/news/articles/2026-01-27/china-s-moonshot-unveils-new-ai-model-ahead-of-deepseek-release)**
-
-Bloomberg.com • 1h ago
-
----
-
-**[Tesla vs. Meta Platforms: Which AI Growth Stock Is a Better Buy in 2026?](https://finance.yahoo.com/news/tesla-vs-meta-platforms-ai-043300755.html)**
-
-One stock looks like a far better investment than the other.
-
-Yahoo Finance • 1h ago
-
----
-
-**[Cloudflare’s Human Native acquisition signals a new content economy for publishers](https://digiday.com/media/cloudflares-human-native-acquisition-signals-a-new-content-economy-for-publishers/)**
-
-This is how Cloudflare plans to help build an infrastructure for the AI content economy, following its acquisition of Human Native.
-
-Digiday • 50m ago
+The New York Times • 20h ago
 
 ---
 
@@ -181,19 +135,63 @@ CNBC • 11h ago
 
 ---
 
+**[AI supercomputer gets £36m upgrade from government](https://www.bbc.com/news/articles/c79rjg3yqn3o)**
+
+The upgrade to Cambridge University's Dawn computer will help scientists research complex problems.
+
+BBC • 20m ago
+
+---
+
+**[Big Tech’s borrowing spree raises fears of AI risks in US bond market](https://www.ft.com/content/8264122b-cb6b-4af5-85b8-3789c3ae3a78)**
+
+So-called hyperscalers set to dominate US investment-grade corporate credit
+
+Financial Times • 1h ago
+
+---
+
+**[Andreessen Horowitz Invests Early in Swedish AI Startup Dentio](https://www.bloomberg.com/news/articles/2026-01-27/andreessen-horowitz-invests-early-in-swedish-ai-startup-dentio)**
+
+Bloomberg.com • 1h ago
+
+---
+
+**[Maia 200: The AI accelerator built for inference](https://blogs.microsoft.com/blog/2026/01/26/maia-200-the-ai-accelerator-built-for-inference/)**
+
+Today, we’re proud to introduce Maia 200, a breakthrough inference accelerator engineered to dramatically improve the economics of AI token generation. Maia 200 is an AI inference powerhouse: an accelerator built on TSMC’s 3nm process with native FP8/FP4 tensor cores, a redesigned memory system with 216GB HBM3e at 7 TB/s and 272MB of on-chip SRAM, plus...
+
+The Official Microsoft Blog • 14h ago
+
+---
+
+**[Microsoft reveals second generation of its AI chip in effort to bolster cloud business](https://www.cnbc.com/2026/01/26/microsoft-reveals-maia-200-ai-chip-will-use-it-in-house.html)**
+
+With its newest AI chip, Microsoft plans "wider customer availability" after its initial product was only used for internal projects.
+
+CNBC • 14h ago
+
+---
+
+**[Microsoft rolls out next generation of its AI chips, takes aim at Nvidia's software](https://www.reuters.com/business/microsoft-rolls-out-next-generation-its-ai-chips-takes-aim-nvidias-software-2026-01-26/)**
+
+Reuters • 14h ago
+
+---
+
 **[Anthropic CEO's grave warning: AI will "test us as a species"](https://www.axios.com/2026/01/26/anthropic-ai-dario-amodei-humanity)**
 
 "Humanity is about to be handed almost unimaginable power."
 
-Axios • 7h ago
+Axios • 13h ago
 
 ---
 
-**[AI is hitting UK harder than other big economies, study finds](https://www.theguardian.com/technology/2026/jan/26/ai-uk-jobs-us-japan-germany-australia)**
+**[Angry gamers are forcing studios to scrap or rethink new releases](https://www.washingtonpost.com/technology/2026/01/26/gamer-protests-ai-slop-backlash/)**
 
-Britain is losing more jobs than it creates owing to artificial intelligence, Morgan Stanley research suggests
+Gamers suspicious of AI-generated content have forced developers to cancel titles and promise not to use the technology.
 
-The Guardian • 21h ago
+The Washington Post • 12h ago
 
 ---
 
@@ -203,7 +201,7 @@ The Guardian • 21h ago
 
 **[France Aiming to Replace Zoom, Google Meet, Microsoft Teams, etc.](https://news.ycombinator.com/item?id=46767668)**
 
-⬆️ 604 • 💬 487 • 13h ago • [X (formerly Twitter)](https://twitter.com/lellouchenico/status/2015775970330882319)
+⬆️ 635 • 💬 507 • 14h ago • [X (formerly Twitter)](https://twitter.com/lellouchenico/status/2015775970330882319)
 
 ---
 
@@ -211,7 +209,7 @@ The Guardian • 21h ago
 
 Related News Sweeping review reveals latest evidence on the diagnosis, treatment, and monitoring of ADHD March 25, 2024 Fluoride exposure during pregnancy linked to increased risk of childhood neurobehavioral problems, […]
 
-⬆️ 592 • 💬 629 • 2d ago • [Newsroom](https://keck.usc.edu/news/adoption-of-electric-vehicles-tied-to-real-world-reductions-in-air-pollution-study-finds/)
+⬆️ 592 • 💬 630 • 2d ago • [Newsroom](https://keck.usc.edu/news/adoption-of-electric-vehicles-tied-to-real-world-reductions-in-air-pollution-study-finds/)
 
 ---
 
@@ -219,7 +217,7 @@ Related News Sweeping review reveals latest evidence on the diagnosis, treatment
 
 Exclusive: German research into responses to health queries raises fresh questions about summaries seen by 2bn people a month
 
-⬆️ 375 • 💬 199 • 15h ago • [the Guardian](https://www.theguardian.com/technology/2026/jan/24/google-ai-overviews-youtube-medical-citations-study)
+⬆️ 379 • 💬 200 • 16h ago • [the Guardian](https://www.theguardian.com/technology/2026/jan/24/google-ai-overviews-youtube-medical-citations-study)
 
 ---
 
@@ -227,7 +225,7 @@ Exclusive: German research into responses to health queries raises fresh questio
 
 Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞  - GitHub - clawdbot/clawdbot: Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞
 
-⬆️ 366 • 💬 229 • 1d ago • [GitHub](https://github.com/clawdbot/clawdbot)
+⬆️ 367 • 💬 235 • 1d ago • [GitHub](https://github.com/clawdbot/clawdbot)
 
 ---
 
@@ -235,7 +233,7 @@ Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞  - G
 
 Apple today unveiled the new AirTag, now with an expanded finding range and a louder speaker.
 
-⬆️ 342 • 💬 443 • 15h ago • [Apple Newsroom](https://www.apple.com/newsroom/2026/01/apple-introduces-new-airtag-with-expanded-range-and-improved-findability/)
+⬆️ 365 • 💬 467 • 16h ago • [Apple Newsroom](https://www.apple.com/newsroom/2026/01/apple-introduces-new-airtag-with-expanded-range-and-improved-findability/)
 
 ---
 
@@ -243,7 +241,7 @@ Apple today unveiled the new AirTag, now with an expanded finding range and a lo
 
 Today everybody's doing AI code review. Here's how Greptile's viewpoint is differentiated - independence, autonomy, and feedback loops.
 
-⬆️ 211 • 💬 148 • 14h ago • [greptile.com](https://www.greptile.com/blog/ai-code-review-bubble)
+⬆️ 222 • 💬 155 • 14h ago • [greptile.com](https://www.greptile.com/blog/ai-code-review-bubble)
 
 ---
 
@@ -251,19 +249,19 @@ Today everybody's doing AI code review. Here's how Greptile's viewpoint is diffe
 
 Opinion: Autonomous agents may generate millions of lines of code, but shipping software is another matter
 
-⬆️ 202 • 💬 125 • 10h ago • [theregister.com](https://www.theregister.com/2026/01/26/cursor_opinion/)
+⬆️ 206 • 💬 125 • 11h ago • [theregister.com](https://www.theregister.com/2026/01/26/cursor_opinion/)
+
+---
+
+**[AI code and software craft](https://news.ycombinator.com/item?id=46769188)**
+
+⬆️ 125 • 💬 77 • 12h ago • [alexwennerberg.com](https://alexwennerberg.com/blog/2026-01-25-slop.html)
 
 ---
 
 **[Case study: Creative math – How AI fakes proofs](https://news.ycombinator.com/item?id=46759352)**
 
 ⬆️ 121 • 💬 91 • 1d ago • [tomaszmachnik.pl](https://tomaszmachnik.pl/case-study-math-en.html)
-
----
-
-**[AI code and software craft](https://news.ycombinator.com/item?id=46769188)**
-
-⬆️ 113 • 💬 73 • 11h ago • [alexwennerberg.com](https://alexwennerberg.com/blog/2026-01-25-slop.html)
 
 ---
 
@@ -285,7 +283,7 @@ Human creativity just ran into a hard limit — and AI crossed it. After testing
 
 📺 AI Revolution
 
-👁️ 7K • 👍 391 • 💬 55 • ⏱️ 10:58 • 6h ago
+👁️ 7K • 👍 391 • 💬 55 • ⏱️ 10:58 • 7h ago
 
 ---
 
@@ -355,7 +353,7 @@ Stonehenge Mystery Finally Solved by AI and the Truth Is Terrifying For over 500
 
 📺 The Silent Archive
 
-👁️ 88K • 👍 960 • 💬 159 • ⏱️ 21:00 • 15h ago
+👁️ 88K • 👍 960 • 💬 159 • ⏱️ 21:00 • 16h ago
 
 ---
 
@@ -475,7 +473,7 @@ Chroma-4B is a real-time, end-to-end spoken dialogue model capable of speech und
 
 `any-to-any` `5.9B`
 
-⬇️ 5,159 • ❤️ 251 • 23h ago
+⬇️ 5,159 • ❤️ 251 • 1d ago
 
 ---
 
@@ -658,7 +656,7 @@ Browser automation CLI for AI agents
 
 `TypeScript`
 
-⭐ 10.8k • 🔱 594 • 5h ago
+⭐ 10.8k • 🔱 594 • 6h ago
 
 ---
 
@@ -698,7 +696,7 @@ LLM驱动的 A/H/美股智能分析器，多数据源行情 + 实时新闻 + Gem
 
 `Python` `agent` `ai` `aigc` `gemini` `llm`
 
-⭐ 5.8k • 🔱 6.3k • 16h ago
+⭐ 5.8k • 🔱 6.3k • 17h ago
 
 ---
 
@@ -718,7 +716,7 @@ The Ultimate Collection of 200+ Agentic Skills for Claude Code/Antigravity/Curso
 
 `Python` `agentic-skills` `ai-agents` `antigravity` `autonomous-coding` `claude-code`
 
-⭐ 3.9k • 🔱 913 • 10h ago
+⭐ 3.9k • 🔱 913 • 11h ago
 
 ---
 
