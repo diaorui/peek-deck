@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-01-27T09:34:55.511863+00:00'
+updated: '2026-01-27T10:29:54.275853+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- social
-- news
-- videos
 - cryptocurrency
+- videos
+- news
+- social
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** January 27, 2026 at 09:34 UTC  
+**Last Updated:** January 27, 2026 at 10:29 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -72,7 +72,7 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-3h ago
+4h ago
 
 ---
 
@@ -80,7 +80,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 Computation > data > state Computation is easier to scale than data. You can parallelize it, require the block builder to provide all kinds of "hints" for it, or just replace arbitrary amounts of it with a proof of it. Data is in the middle. If an availability guarantee on data is required, then that guarantee is required, no way around it. But you can split it up and erasure code it, a la PeerDAS. You can do graceful degradation for it: if a node only has 1/10 the data capacity of the other nodes, it can always produce blocks 1/10 the size. State is the hardest. To guarantee the ability to verify even one transaction, you need the full state. If you replace the state with a tree and keep the root, you need the full state to be able to update that root. There are ways to split it up, but they involve architecture changes, they are fundamentally not general-purpose. Hence, if you can replace state with data (without introducing new forms of centralization), by default you should seriously consider it. And if you can replace data with computation (without introducing new forms of centralization), by default you should seriously consider it.
 
-7h ago
+8h ago
 
 ---
 
@@ -104,7 +104,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 Bluechip (independent stablecoin rating agency) just published their rating for $BOLD, Liquity Protocol's new stablecoin. Thought this sub might find it interesting given the ongoing discussions about decentralized stables and Ethereum's role in the stablecoin ecosystem. Key Findings: Overall Rating: A- (outranks USDC at B+ and DAI at B+) Perfect 1.0 Scores: Management (immutable protocol, no admin keys) Decentralization (no single point of control) Governance (no governance - protocol cannot be altered) Stability Score: 0.88 What Makes BOLD Different: BOLD is the only A- rated stablecoin backed 100% by crypto-native collateral: 100% Ethereum-native collateral (ETH, wstETH, rETH) >200% overcollateralized (currently 291%) Immutable smart contracts (cannot be upgraded or changed) No blacklist function (cannot be frozen) Always redeemable at $1 for underlying collateral For comparison, PYUSD also has an A- rating but is backed by bank deposits and US Treasuries. Context: BOLD is built by the team behind LUSD (Liquity V1), which has been live for 4+ years with $5B peak TVL and zero exploits. Given how much this sub discusses Ethereum's role as the stablecoin settlement layer (especially with $18.8T settled on Ethereum in 2025), figured this was relevant. Full Bluechip Report: https://bluechip.org/en More on Liquity Protocol: https://x.com/LiquityProtocol/status/2015798256186360000 Happy to answer questions about the protocol or rating methodology.
 
-18h ago
+19h ago
 
 ---
 
@@ -112,7 +112,7 @@ Bluechip (independent stablecoin rating agency) just published their rating for 
 
 Curated resources by EtherWorld for Glamsterdam Upgrade
 
-🔗 [EtherWorld.co](https://etherworld.co/all-you-need-to-know-about-ethereum-glamsterdam-upgrade/) • 19h ago
+🔗 [EtherWorld.co](https://etherworld.co/all-you-need-to-know-about-ethereum-glamsterdam-upgrade/) • 20h ago
 
 ---
 
@@ -128,7 +128,7 @@ I no longer agree with this previous tweet of mine - since 2017, I have become a
 
 Despite net outflows and a decline in ETH’s price, ETH ETFs have still had a strong year, posting 48.2% YoY growth. ETHA retains its commanding lead with 57.4% share of assets under management (AUM), followed by ETHE at 14.6%, Fidelity’s FETH at 12.3%, and ETH at 12.3%. Source: https://www.coingecko.com/research/publications/2025-annual-crypto-report
 
-23h ago
+1d ago
 
 ---
 
@@ -154,7 +154,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 SharpLink CEO Joseph Chalom argues that macro uncertainty is hiding a massive institutional shift toward Ethereum-based tokenization.
 
-CoinDesk • 13h ago
+CoinDesk • 14h ago
 
 ---
 
@@ -162,7 +162,7 @@ CoinDesk • 13h ago
 
 Ethereum remains under pressure in a key support zone, teetering between a potential rebound and further decline. While bullish patterns like the cup-and-handle and ascending triangle are shaping up, confirmation is required before any decisive move.Last Defense Zone: $2,274–$2,104 And The Libra Re…
 
-TradingView • 15h ago
+TradingView • 16h ago
 
 ---
 
@@ -178,7 +178,7 @@ BeInCrypto • 1d ago
 
 Publicly traded Ethereum treasury firm BitMine Immersion Technologies added to its stash with its largest ETH acquisition of the year so far.
 
-Yahoo Finance • 17h ago
+Yahoo Finance • 18h ago
 
 ---
 
@@ -194,7 +194,7 @@ The Block • 19h ago
 
 Publicly traded Ethereum treasury firm BitMine Immersion Technologies added to its stash with its largest ETH acquisition of the year so far.
 
-Decrypt • 17h ago
+Decrypt • 18h ago
 
 ---
 
@@ -202,7 +202,7 @@ Decrypt • 17h ago
 
 Fundstrat managing partner Tom Lee believes Bitcoin and Ether are poised to play catch-up once the blistering rally in gold and silver begins to cool, arguing that crypto fundamentals remain intact despite recent underperformance. Key Takeaways: Tom Lee says Bitcoin and Ether could rally once the surge in gold and ...
 
-Yahoo Finance • 1h ago
+Yahoo Finance • 2h ago
 
 ---
 
@@ -210,7 +210,7 @@ Yahoo Finance • 1h ago
 
 Should you invest in the blue chip token or the smaller altcoin?
 
-The Motley Fool • 11h ago
+The Motley Fool • 12h ago
 
 ---
 
@@ -238,7 +238,7 @@ This video provides a professional Elliott Wave and technical analysis of Ethere
 
 📺 More Crypto Online
 
-👁️ 645 • 👍 63 • 💬 2 • ⏱️ 4:04 • 3h ago
+👁️ 645 • 👍 63 • 💬 2 • ⏱️ 4:04 • 4h ago
 
 ---
 
@@ -248,7 +248,7 @@ SharpLink CEO and former BlackRock head of digital assets strategy, Joseph Chalo
 
 📺 CoinDesk
 
-👁️ 10K • 👍 369 • 💬 62 • ⏱️ 23:51 • 13h ago
+👁️ 10K • 👍 369 • 💬 62 • ⏱️ 23:51 • 14h ago
 
 ---
 
@@ -258,7 +258,7 @@ These news have huge implications towards bitcoin, ethereum and the rest of cryp
 
 📺 Thomas Kralow
 
-👁️ 16K • 👍 3K • 💬 43 • ⏱️ 10:51 • 23h ago
+👁️ 16K • 👍 3K • 💬 43 • ⏱️ 10:51 • 1d ago
 
 ---
 
@@ -298,7 +298,7 @@ BITCOIN CRASH: Everyone is WRONG (New Signal)!!! - Bitcoin News Today, Ethereum 
 
 📺 Crypto World
 
-👁️ 8K • 👍 288 • 💬 98 • ⏱️ 20:33 • 13h ago
+👁️ 8K • 👍 288 • 💬 98 • ⏱️ 20:33 • 14h ago
 
 ---
 
