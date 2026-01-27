@@ -3,14 +3,14 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-01-27T07:50:56.710284+00:00'
+updated: '2026-01-27T08:35:10.327280+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
+- social
 - videos
 - news
-- social
 - repositories
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 AI news, discussions, and developments
 
-**Last Updated:** January 27, 2026 at 07:50 UTC  
+**Last Updated:** January 27, 2026 at 08:35 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -65,7 +65,7 @@ Meta is testing premium subscriptions on Instagram, Facebook, and WhatsApp, offe
 
 “Worsening extreme weather, driven by climate change, is having impacts on all of us and nearly every aspect of modern life. Forecasting affects us all. It can drive improvements to agriculture, energy, aviation, and emergency response, but the science of forecasting is changing,” says Mike Pritchard, Nvidia’s director of climate simulation
 
-🔗 [The New Stack](https://thenewstack.io/nvidia-makes-ai-weather-forecasting-more-accessible-no-supercomputer-needed/) • 14h ago
+🔗 [The New Stack](https://thenewstack.io/nvidia-makes-ai-weather-forecasting-more-accessible-no-supercomputer-needed/) • 15h ago
 
 ---
 
@@ -73,7 +73,7 @@ Meta is testing premium subscriptions on Instagram, Facebook, and WhatsApp, offe
 
 Needless to say, a good enough brain emulation would be an artificial general intelligence. Personally, i don't think most connections need to be mapped.
 
-🔗 [arXiv.org](https://arxiv.org/abs/2510.15745) • 10h ago
+🔗 [arXiv.org](https://arxiv.org/abs/2510.15745) • 11h ago
 
 ---
 
@@ -89,7 +89,7 @@ The BBC's Lily Jamali looks into why big US firms and start-ups alike are turnin
 
 I wanted a version to read on Kindle, so I made the following. The EPUB + PDF version is here: https://www.adithyan.io/blog/kindle-ready-adolescence-of-technology Original essay: https://www.darioamodei.com/essay/the-adolescence-of-technology
 
-9h ago
+10h ago
 
 ---
 
@@ -97,7 +97,7 @@ I wanted a version to read on Kindle, so I made the following. The EPUB + PDF ve
 
 I don't know how much this is a case with SWEs, but most people I have met in AI are quite opiniated about what they consider to be 'boring work' which is for a lack of better word might be 'beneath them". Maybe that is some data cleaning work, or creating documentation, attending meetings, incremental finetunings etc etc While all they want to work on is interesting modelling work, and creating the next big thing? How do you avoid being pigeon-holed into some boring but important work vs working on tasks which are really interesting but have been maybe assinged to someone else? Also, is having a strong taste for problems a good thing for you career? Or feeling that any task being "beneath you" just a red flag for a professional?
 
-15h ago
+16h ago
 
 ---
 
@@ -105,7 +105,7 @@ I don't know how much this is a case with SWEs, but most people I have met in AI
 
 AI is increasingly being used as a research collaborator for mathematicians and scientists.
 
-🔗 [Axios](https://www.axios.com/2026/01/26/openai-scientific-research-partner) • 19h ago
+🔗 [Axios](https://www.axios.com/2026/01/26/openai-scientific-research-partner) • 20h ago
 
 ---
 
@@ -113,7 +113,7 @@ AI is increasingly being used as a research collaborator for mathematicians and 
 
 Want to find out more about the new EU rules on algorithm use in the workplace that members of the European Parliament are calling for? Join our AMA with leading MEP on the issue u/Andrzej_Bula on Tuesday January 27.01 at 2 pm CET. Ask your questions
 
-16h ago
+17h ago
 
 ---
 
@@ -123,7 +123,7 @@ Want to find out more about the new EU rules on algorithm use in the workplace t
 
 **[Yann LeCun, an A.I. Pioneer, Warns the Tech ‘Herd’ Could Hit a Dead End](https://www.nytimes.com/2026/01/26/technology/an-ai-pioneer-warns-the-tech-herd-is-marching-into-a-dead-end.html)**
 
-The New York Times • 21h ago
+The New York Times • 22h ago
 
 ---
 
@@ -131,7 +131,7 @@ The New York Times • 21h ago
 
 Today, we’re proud to introduce Maia 200, a breakthrough inference accelerator engineered to dramatically improve the economics of AI token generation. Maia 200 is an AI inference powerhouse: an accelerator built on TSMC’s 3nm process with native FP8/FP4 tensor cores, a redesigned memory system with 216GB HBM3e at 7 TB/s and 272MB of on-chip SRAM, plus...
 
-The Official Microsoft Blog • 15h ago
+The Official Microsoft Blog • 16h ago
 
 ---
 
@@ -139,7 +139,7 @@ The Official Microsoft Blog • 15h ago
 
 With its newest AI chip, Microsoft plans "wider customer availability" after its initial product was only used for internal projects.
 
-CNBC • 15h ago
+CNBC • 16h ago
 
 ---
 
@@ -147,7 +147,7 @@ CNBC • 15h ago
 
 The two tech giants remain the most balanced plays in the booming AI market.
 
-The Motley Fool • 13h ago
+The Motley Fool • 14h ago
 
 ---
 
@@ -155,7 +155,7 @@ The Motley Fool • 13h ago
 
 AI’s energy problem may also be its solution, as cities are increasingly exploring opportunities to repurpose excess heat from data centers.
 
-CNBC • 1h ago
+CNBC • 2h ago
 
 ---
 
@@ -163,7 +163,7 @@ CNBC • 1h ago
 
 Global AI is planning a large data center on a former Kodak site in Weld County, with annexation into Greeley or Windsor still undecided.
 
-9news.com • 8h ago
+9news.com • 9h ago
 
 ---
 
@@ -171,7 +171,7 @@ Global AI is planning a large data center on a former Kodak site in Weld County,
 
 Southern state becoming ground zero in fight against rapid growth of facilities using huge amounts of energy and water
 
-The Guardian • 18h ago
+The Guardian • 19h ago
 
 ---
 
@@ -179,13 +179,13 @@ The Guardian • 18h ago
 
 The upgrade to Cambridge University's Dawn computer will help scientists research complex problems.
 
-BBC • 1h ago
+BBC • 2h ago
 
 ---
 
 **[DeepSeek Sent Stocks Plunging Once. Chinese AI Is Still a Threat.](https://www.barrons.com/articles/deepseek-ai-gemini-chatgpt-stocks-ccde892c?gaa_at=eafs&gaa_n=AWEtsqcHo7Q_udN0zrXaNf2Bw9L2XPRJxCYoI5zuGx5YYrlOMwYXp-GBDW6P&gaa_ts=697871cc&gaa_sig=tFMi_pQXKImCmdlc8MBpv32NuTv1oxVP3rprbgLkgvSPir3oRWv2OY1UM-f-Mwtr5eLMHr6YMdZnlfW0fTFxKg%3D%3D)**
 
-Barron's • 1h ago
+Barron's • 2h ago
 
 ---
 
@@ -193,7 +193,7 @@ Barron's • 1h ago
 
 Dario Amodei posts 20,000-word essay detailing potentially catastrophic risks from powerful AI in years to come
 
-Financial Times • 9h ago
+Financial Times • 10h ago
 
 ---
 
@@ -203,7 +203,7 @@ Financial Times • 9h ago
 
 **[France Aiming to Replace Zoom, Google Meet, Microsoft Teams, etc.](https://news.ycombinator.com/item?id=46767668)**
 
-⬆️ 682 • 💬 534 • 15h ago • [X (formerly Twitter)](https://twitter.com/lellouchenico/status/2015775970330882319)
+⬆️ 682 • 💬 534 • 16h ago • [X (formerly Twitter)](https://twitter.com/lellouchenico/status/2015775970330882319)
 
 ---
 
@@ -219,7 +219,7 @@ Related News Sweeping review reveals latest evidence on the diagnosis, treatment
 
 Apple today unveiled the new AirTag, now with an expanded finding range and a louder speaker.
 
-⬆️ 393 • 💬 494 • 17h ago • [Apple Newsroom](https://www.apple.com/newsroom/2026/01/apple-introduces-new-airtag-with-expanded-range-and-improved-findability/)
+⬆️ 393 • 💬 494 • 18h ago • [Apple Newsroom](https://www.apple.com/newsroom/2026/01/apple-introduces-new-airtag-with-expanded-range-and-improved-findability/)
 
 ---
 
@@ -227,7 +227,7 @@ Apple today unveiled the new AirTag, now with an expanded finding range and a lo
 
 Exclusive: German research into responses to health queries raises fresh questions about summaries seen by 2bn people a month
 
-⬆️ 382 • 💬 200 • 17h ago • [the Guardian](https://www.theguardian.com/technology/2026/jan/24/google-ai-overviews-youtube-medical-citations-study)
+⬆️ 382 • 💬 200 • 18h ago • [the Guardian](https://www.theguardian.com/technology/2026/jan/24/google-ai-overviews-youtube-medical-citations-study)
 
 ---
 
@@ -251,13 +251,13 @@ Today everybody's doing AI code review. Here's how Greptile's viewpoint is diffe
 
 Opinion: Autonomous agents may generate millions of lines of code, but shipping software is another matter
 
-⬆️ 211 • 💬 125 • 12h ago • [theregister.com](https://www.theregister.com/2026/01/26/cursor_opinion/)
+⬆️ 211 • 💬 125 • 13h ago • [theregister.com](https://www.theregister.com/2026/01/26/cursor_opinion/)
 
 ---
 
 **[AI code and software craft](https://news.ycombinator.com/item?id=46769188)**
 
-⬆️ 141 • 💬 80 • 13h ago • [alexwennerberg.com](https://alexwennerberg.com/blog/2026-01-25-slop.html)
+⬆️ 141 • 💬 80 • 14h ago • [alexwennerberg.com](https://alexwennerberg.com/blog/2026-01-25-slop.html)
 
 ---
 
@@ -285,7 +285,7 @@ Human creativity just ran into a hard limit — and AI crossed it. After testing
 
 📺 AI Revolution
 
-👁️ 10K • 👍 462 • 💬 65 • ⏱️ 10:58 • 8h ago
+👁️ 10K • 👍 462 • 💬 65 • ⏱️ 10:58 • 9h ago
 
 ---
 
@@ -335,7 +335,7 @@ CNBC's Deirdre Bosa reports on news regarding AI coding.
 
 📺 CNBC Television
 
-👁️ 44K • 👍 563 • 💬 70 • ⏱️ 2:40 • 14h ago
+👁️ 44K • 👍 563 • 💬 70 • ⏱️ 2:40 • 15h ago
 
 ---
 
@@ -365,7 +365,7 @@ Stonehenge Mystery Finally Solved by AI and the Truth Is Terrifying For over 500
 
 📺 The Silent Archive
 
-👁️ 105K • 👍 1K • 💬 171 • ⏱️ 21:00 • 17h ago
+👁️ 105K • 👍 1K • 💬 171 • ⏱️ 21:00 • 18h ago
 
 ---
 
@@ -659,7 +659,7 @@ Browser automation CLI for AI agents
 
 `TypeScript`
 
-⭐ 10.8k • 🔱 596 • 1h ago
+⭐ 10.8k • 🔱 596 • 2h ago
 
 ---
 
@@ -689,7 +689,7 @@ Ralph is an autonomous AI agent loop that runs repeatedly until all PRD items ar
 
 `Vue`
 
-⭐ 6.3k • 🔱 1.1k • 49m ago
+⭐ 6.3k • 🔱 1.1k • 1h ago
 
 ---
 
@@ -699,7 +699,7 @@ LLM驱动的 A/H/美股智能分析器，多数据源行情 + 实时新闻 + Gem
 
 `Python` `agent` `ai` `aigc` `gemini` `llm`
 
-⭐ 5.9k • 🔱 6.4k • 18h ago
+⭐ 5.9k • 🔱 6.4k • 19h ago
 
 ---
 
@@ -719,7 +719,7 @@ The Ultimate Collection of 200+ Agentic Skills for Claude Code/Antigravity/Curso
 
 `Python` `agentic-skills` `ai-agents` `antigravity` `autonomous-coding` `claude-code`
 
-⭐ 4.0k • 🔱 932 • 12h ago
+⭐ 4.0k • 🔱 932 • 13h ago
 
 ---
 

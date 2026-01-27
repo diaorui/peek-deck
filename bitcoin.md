@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-01-27T07:50:56.718727+00:00'
+updated: '2026-01-27T08:35:10.335862+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- videos
-- news
-- cryptocurrency
 - social
+- videos
+- cryptocurrency
+- news
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** January 27, 2026 at 07:50 UTC  
+**Last Updated:** January 27, 2026 at 08:35 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -85,7 +85,7 @@ Rank #1
 
 **[$1000 in Fiat vs Bitcoin](https://www.reddit.com/r/Bitcoin/comments/1qnzix4/1000_in_fiat_vs_bitcoin/)**
 
-6h ago
+7h ago
 
 ---
 
@@ -99,13 +99,13 @@ Rank #1
 
 I get occasional emails from Coin Base. I thought "didn't I leave $5 or so in my wallet a long time ago?" after buying something I needed to use Bitcoin to purchase. So I logged in and... it said I have over $2,200... I was like... this can't be right. Wasn't it only $5ish? So I found this site - https://charts.bitbo.io/if-i-bought/ - and punched it in... I had about $5.70 left from October of 2015. That's all it took to get over $2k. Now I wish I had been investing... $5 every paycheck since then. I'll probably just leave it in there in perpetuity.
 
-13h ago
+14h ago
 
 ---
 
 **[Bumpy ride](https://www.reddit.com/r/Bitcoin/comments/1qncztp/bumpy_ride/)**
 
-20h ago
+21h ago
 
 ---
 
@@ -113,7 +113,7 @@ I get occasional emails from Coin Base. I thought "didn't I leave $5 or so in my
 
 I'm 55 and retired and have a portfolio I don't need to touch for 20 years. 98% is invested very simply in index funds. I chose to use 2% to play with. I put all 10k of that in BTC. I'm planning to basically forget about it and let it ride for 10 years or more. It wouldn't hurt me if I lost it all, but it would be nice if it did well. Is this a reasonable strategy?
 
-13h ago
+14h ago
 
 ---
 
@@ -121,7 +121,7 @@ I'm 55 and retired and have a portfolio I don't need to touch for 20 years. 98% 
 
 Hello I've been wanting to get into crypto currency and I don't really know where to start. I was wondering if there is anyone who would like to help point me in the right direction.
 
-4h ago
+5h ago
 
 ---
 
@@ -137,7 +137,7 @@ I was sleuthing around a post two days ago and found Hal Finney's reddit account
 
 I don’t know much about prediction markets, but I’ve noticed a lot more talk about them lately, and it seems capital is flowing from crypto into them. Is this something to worry about as a btc investor or no?
 
-14h ago
+15h ago
 
 ---
 
@@ -161,7 +161,7 @@ CoinDesk • 2h ago
 
 **[Silver overtakes bitcoin’s post-2017 gains as price blows past $115](https://www.theblock.co/post/387138/silver-overtakes-bitcoin-post-2017-gains-price-blows-past-115)**
 
-The Block • 9h ago
+The Block • 10h ago
 
 ---
 
@@ -169,7 +169,7 @@ The Block • 9h ago
 
 Bitcoin’s network hashrate fell to its lowest level in seven months over the weekend as a powerful winter storm swept across the United States, forcing miners to scale back operations amid surging energy demand and widespread power disruptions. Key Takeaways: A US winter storm pushed Bitcoin’s hashrate to a seven-month ...
 
-Yahoo Finance • 1h ago
+Yahoo Finance • 2h ago
 
 ---
 
@@ -177,13 +177,13 @@ Yahoo Finance • 1h ago
 
 Here's how a $1,000 investment in Apple stock in 2015 compares to Bitcoin and which one would have made you richer.
 
-Yahoo Finance • 50m ago
+Yahoo Finance • 1h ago
 
 ---
 
 **[Bitcoin Starts Week on Shaky Ground as Uncertainty Lingers](https://www.bloomberg.com/news/articles/2026-01-26/bitcoin-starts-week-on-shaky-ground-amid-geopolitical-jitters)**
 
-Bloomberg.com • 20h ago
+Bloomberg.com • 21h ago
 
 ---
 
@@ -191,7 +191,7 @@ Bloomberg.com • 20h ago
 
 Gold advocate and longtime Bitcoin critic Peter Schiff said that the crypto industry is pushing for government regulation and bailouts not to self-restrain, but to gain public legitimacy.
 
-Bitcoin Magazine • 10h ago
+Bitcoin Magazine • 11h ago
 
 ---
 
@@ -199,7 +199,7 @@ Bitcoin Magazine • 10h ago
 
 BlackRock has filed an S-1 for an “iShares Bitcoin Premium Income ETF,” a product that aims to track bitcoin’s price while generating option premium by systematically selling calls tied primarily to its own spot bitcoin ETF, IBIT. For BTC-linked derivatives markets, the filing is being read less as…
 
-TradingView • 3h ago
+TradingView • 4h ago
 
 ---
 
@@ -207,7 +207,7 @@ TradingView • 3h ago
 
 BlackRock has filed to launch a second Bitcoin ETF two years after the debut of its blockbuster product, IBIT. This one would feature additional income earned by selling call options on IBIT shares. Among traditional financial firms, BlackRock has been among the most aggressive to embrace crypto.
 
-Yahoo Finance • 10h ago
+Yahoo Finance • 11h ago
 
 ---
 
@@ -215,7 +215,7 @@ Yahoo Finance • 10h ago
 
 The ETF would actively manage a covered call bitcoin exposure through BlackRock's existing iShares Bitcoin Trust (IBIT), to generate income for investors.
 
-CoinDesk • 15h ago
+CoinDesk • 16h ago
 
 ---
 
@@ -235,7 +235,7 @@ Sherwood News • 16h ago
 
 Billionaire fugitive Roger Ver was facing federal criminal charges until he sought the services of a select club of President Donald Trump’s former personal attorneys who have easy access to top Justice Department appointees.
 
-⬆️ 17 • 💬 0 • 19h ago • [ProPublica](https://www.propublica.org/article/bitcoin-jesus-roger-ver-tax-evasion-friends-of-trump)
+⬆️ 17 • 💬 0 • 20h ago • [ProPublica](https://www.propublica.org/article/bitcoin-jesus-roger-ver-tax-evasion-friends-of-trump)
 
 ---
 
@@ -316,7 +316,7 @@ Exchange Partners** Bitunix Exchange ▻ *$100000 Deposit Bonus* ▻ https://bit
 
 📺 CryptosRUs
 
-👁️ 20K • 👍 1K • 💬 197 • ⏱️ 8:05 • 7h ago
+👁️ 20K • 👍 1K • 💬 197 • ⏱️ 8:05 • 8h ago
 
 ---
 
@@ -326,7 +326,7 @@ In this solo episode, Anthony Pompliano explains why Bitcoin is lagging while go
 
 📺 Anthony Pompliano
 
-👁️ 26K • 👍 1K • 💬 55 • ⏱️ 17:45 • 9h ago
+👁️ 26K • 👍 1K • 💬 55 • ⏱️ 17:45 • 10h ago
 
 ---
 
@@ -336,7 +336,7 @@ DISCLAIMER: We may receive a small commission for any purchases made through our
 
 📺 Savvy Finance
 
-👁️ 5K • 👍 239 • 💬 2 • ⏱️ 18:13 • 8h ago
+👁️ 5K • 👍 239 • 💬 2 • ⏱️ 18:13 • 9h ago
 
 ---
 
@@ -356,7 +356,7 @@ IT'S OVER FOR CRYPTO BLACKROCK PLACED THEIR BETS! I don't believe that crypto is
 
 📺 CryptoWendyO
 
-👁️ 23K • 👍 1K • 💬 46 • ⏱️ 3:19 • 9h ago
+👁️ 23K • 👍 1K • 💬 46 • ⏱️ 3:19 • 10h ago
 
 ---
 
@@ -366,7 +366,7 @@ Gold and silver are ripping to record highs, but the real story is what this say
 
 📺 Simply Bitcoin
 
-👁️ 17K • 👍 2K • 💬 106 • ⏱️ 18:47 • 7h ago
+👁️ 17K • 👍 2K • 💬 106 • ⏱️ 18:47 • 8h ago
 
 ---
 
@@ -396,7 +396,7 @@ Today, let's examine Bitcoin's charts and metrics, as well as the latest Macro a
 
 📺 CryptosRUs
 
-👁️ 21K • 👍 1K • 💬 213 • ⏱️ 51:11 • 15h ago
+👁️ 21K • 👍 1K • 💬 213 • ⏱️ 51:11 • 16h ago
 
 ---
 
@@ -406,7 +406,7 @@ Gold is surging to historic highs, and many are using it to dunk on Bitcoin. Tha
 
 📺 Swan Bitcoin
 
-👁️ 5K • 👍 232 • 💬 55 • ⏱️ 14:20 • 13h ago
+👁️ 5K • 👍 232 • 💬 55 • ⏱️ 14:20 • 14h ago
 
 ---
 
