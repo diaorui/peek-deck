@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-01-27T08:35:10.345229+00:00'
+updated: '2026-01-27T09:34:55.515059+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
 - social
-- videos
 - news
+- videos
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** January 27, 2026 at 08:35 UTC  
+**Last Updated:** January 27, 2026 at 09:34 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -36,13 +36,21 @@ Robotics research and industry news
 
 Setup: - 3 x stationary Super-Beacons (green dots on the floorplan: 8, 2, 3) - 1 x Super-Beacon as a mobile on the drone (11) - 1 x Modem v5.1 as a central controller - USB-connected to the laptop - 1 x Marvelmind DJI App on Android - the "brain" of the system controlling the drone over the virtual stick - Marvelmind Dashboard to set up the waypoints and the system in general
 
-2h ago
+3h ago
+
+---
+
+**[Open-sourcing Asimov Legs, a bipedal robotic system](https://www.reddit.com/r/robotics/comments/1qo8u7i/opensourcing_asimov_legs_a_bipedal_robotic_system/)**
+
+We're open-sourcing Asimov Legs, a bipedal robotic system. We've been building in public and sharing daily progress, now the full design is out. A complete leg design with 6 DOF per leg, RSU ankle architecture, passive toe joints. Built with off-the-shelf components and compatible with MJF 3D printing. What's included: - Full mechanical CAD (STEP files) - Motors & actuators list - XML files for simulation (MuJoCo) Most of the structure is MJF-printable plastic. The only part that needs CNC is the knee plate, and we spent weeks simplifying that from a 2-part assembly down to a single plate. If you don't have access to industrial MJF, casting or regular 3D printing works too. Repo for all: https://github.com/asimovinc/asimov-v0 Happy to answer questions about the design choices.
+
+29m ago
 
 ---
 
 **[Persona AI: What’s Different in Their Waist Design - Soft Robotics Podcast](https://www.reddit.com/r/robotics/comments/1qnhkdw/persona_ai_whats_different_in_their_waist_design/)**
 
-18h ago
+19h ago
 
 ---
 
@@ -50,7 +58,7 @@ Setup: - 3 x stationary Super-Beacons (green dots on the floorplan: 8, 2, 3) - 1
 
 When there are many robots in production (industrial, logistics, etc.), how are updates handled without shutting down everything or risking breaking something important? Is there a common way to: - Update robots in groups - Quickly revert to a previous version if something goes wrong - Reduce risk when modifying the software - Or does each company do it its own way? 🤔
 
-1h ago
+2h ago
 
 ---
 
@@ -66,7 +74,7 @@ When there are many robots in production (industrial, logistics, etc.), how are 
 
 In this video, we take a fast but deep tour of Copper, a deterministic robotics runtime written in Rust. We cover the core concepts behind Copper by showing the tooling, workflows, and systems. From observability and determinism to AI inference, embedded development, and distributed execution. Chapters are clickable in the video description. 00:00 Intro 01:13 ConsoleMon, Copper’s TUI monitor - New: refreshed look and bandwidth pane 09:40 Offline config viewer and DAG visualization - New: updated visuals 13:38 New: DAG statistics combining structure with runtime performance 15:02 New: Exporting logs to the MCAP format 16:40 New: Visualizing Copper logs in Foxglove 17:38 Determinism in Copper: Why it matters and how we can actually prove it 22:34 New: AI and ML inference with HuggingFace - Live visualization using Rerun 25:38 Embedded and bare metal development - Flight controller example 27:00 Missions - Quick overview using the flight controller 29:39 New: Resource bundles - What problem they solve and how they work 31:54 Multiprocessing and distributed Copper - New, kind of: Zenoh bridge 36:40 Conclusion and thanks
 
-🔗 [youtu.be](https://youtu.be/58UYNb27AlM) • 10h ago
+🔗 [youtu.be](https://youtu.be/58UYNb27AlM) • 11h ago
 
 ---
 
@@ -80,7 +88,7 @@ It isn't sci-fi anymore—it's border control. China has officially deployed hum
 
 **[👋Welcome to r/CollegeLab_projects - Introduce Yourself and Read First!](https://www.reddit.com/r/robotics/comments/1qo4phv/welcome_to_rcollegelab_projects_introduce/)**
 
-3h ago
+4h ago
 
 ---
 
@@ -96,13 +104,7 @@ I don't have much information, but it's a bit viral on X
 
 Hey everyone 👋 I recently wrote a Medium article introducing ROS (Robot Operating System) for beginners. In the article, I cover: What ROS actually is (and what it is not) Why robotics software feels complex Core ROS concepts explained simply (nodes, communication, etc.) Simple real-world explanations using a robot example I’m still learning robotics myself, so I’d really appreciate: Honest feedback What feels confusing or unclear What topics I should add/remove Whether the explanations are beginner-friendly enough Thanks in advance! Any comments or critiques are welcome 🙌
 
-🔗 [Medium](https://medium.com/@imashanilupul/core-concepts-of-ros-every-beginner-must-understand-c59a87623cf8) • 20h ago
-
----
-
-**[Multi-Robot Setup in Isaac Sim - TF Frame Namespace Issue](https://www.reddit.com/r/robotics/comments/1qnsavw/multirobot_setup_in_isaac_sim_tf_frame_namespace/)**
-
-11h ago
+🔗 [Medium](https://medium.com/@imashanilupul/core-concepts-of-ros-every-beginner-must-understand-c59a87623cf8) • 21h ago
 
 ---
 
@@ -114,7 +116,7 @@ Hey everyone 👋 I recently wrote a Medium article introducing ROS (Robot Opera
 
 State of Robotics Industry Report 2026 offers a clear-eyed assessment of where the market stands today and where it’s headed.
 
-The Robot Report • 14h ago
+The Robot Report • 15h ago
 
 ---
 
@@ -122,7 +124,15 @@ The Robot Report • 14h ago
 
 Chinese robotics firm Unitree Robotics announced on Monday that it has become a robot cooperation partner for China Media Group's (CMG) Spring Festival Gala for the Year of the Horse, marking its third collaboration with the gala, following a robot ox performance in 2021 and a humanoid robot yangko dance show at the 2025 event, according to its social media post.
 
-Global Times • 18h ago
+Global Times • 19h ago
+
+---
+
+**[Ukrainians urge Israel to focus on drones for future wars](https://www.jpost.com/defense-and-tech/article-884658)**
+
+A Ukrainian Jewish reconnaissance drone operator, who had worked in several different military disciplines before the role, said that “the future of war is drones.”
+
+jpost.com • 2h ago
 
 ---
 
@@ -130,7 +140,7 @@ Global Times • 18h ago
 
 Chinese technology is advancing rapidly with robotics. In addition to military uses, robots are playing sports, doing household chores, and dancing.
 
-bgr.com • 18h ago
+bgr.com • 19h ago
 
 ---
 
@@ -138,7 +148,7 @@ bgr.com • 18h ago
 
 Coming out of CES earlier this month, you might think a new kitchen assistant from a startup called Gambit Robotics would look something like the dozens of humanoid robots roaming the show floor in…
 
-thespoon.tech • 13h ago
+thespoon.tech • 14h ago
 
 ---
 
@@ -146,21 +156,13 @@ thespoon.tech • 13h ago
 
 Shasta High School's Robotics and Advanced Manufacturing Program is preparing teenagers for a future that seems limited only by their imagination.The future is
 
-krcrtv.com • 4h ago
-
----
-
-**[Ukrainians urges Israel to focus on drones for future wars](https://www.jpost.com/defense-and-tech/article-884658)**
-
-A Ukrainian Jewish reconnaissance drone operator, who had worked in several different military disciplines before the role, said that “the future of war is drones.”
-
-jpost.com • 1h ago
+krcrtv.com • 5h ago
 
 ---
 
 **[GigaBite robotics student team seeks community donations](https://southtahoenow.com/01/26/2026/gigabite-robotics-student-team-seeks-community-donations)**
 
-southtahoenow.com • 13h ago
+southtahoenow.com • 14h ago
 
 ---
 
@@ -168,7 +170,7 @@ southtahoenow.com • 13h ago
 
 DUBAI, United Arab Emirates, Jan.  26, 2026  (GLOBE NEWSWIRE) -- Micropolis Robotics, (“Micropolis” or the “Company”) (NYSE: MCRP), a pioneer in u...
 
-markets.businessinsider.com • 18h ago
+markets.businessinsider.com • 19h ago
 
 ---
 
@@ -198,7 +200,17 @@ RoboticWings #FuturisticLab #Android #SciFi #Robotics #AIArt #Cyberpunk #HighTec
 
 📺 AITECHGADGETS
 
-👁️ 146K • 💬 88 • ⏱️ 0:18 • 1d ago
+👁️ 155K • 💬 94 • ⏱️ 0:18 • 1d ago
+
+---
+
+**[Humanoid Robots Lumi and Luna A5 at 1000 Subscriber Celebration | Future Robot Lab](https://www.youtube.com/watch?v=FaL-UbIZFmM)**
+
+We are honored to celebrate an important milestone at Future Robot Lab. This video captures the special moment when ...
+
+📺 Future Robot Lab
+
+👁️ 3K • 👍 50 • 💬 10 • ⏱️ 9:38 • 20h ago
 
 ---
 
@@ -208,17 +220,7 @@ The Growing Robot That Enters Collapsed Buildings Before Humans Do When disaster
 
 📺 EcoZora
 
-👁️ 252K • 👍 1K • 💬 133 • ⏱️ 0:07 • 23h ago
-
----
-
-**[Robotics Boom: 3 Stocks Under $20 Right Now](https://www.youtube.com/watch?v=8yC0p_lfk4g)**
-
-Robotics stocks are heating up fast, but many of the biggest names are already expensive. In this video, MarketBeat's Jeffrey Neal ...
-
-📺 MarketBeat
-
-👁️ 112K • 👍 3K • 💬 168 • ⏱️ 17:39 • 3d ago
+👁️ 275K • 👍 1K • 💬 139 • ⏱️ 0:07 • 1d ago
 
 ---
 
@@ -232,23 +234,13 @@ In a dying, dust-choked future ☀️🌪️, humans survive behind factories an
 
 ---
 
-**[Capybara&#39;s Robot Sabotaged! 🤖 Brianna&#39;s Secret Plan Fails! #capybara](https://www.youtube.com/watch?v=DBiONpc0l9c)**
+**[War Robots - New Flying Robot Anaksor Has Invisibility!](https://www.youtube.com/watch?v=kyaC8wvpzIU)**
 
-Brianna is jealous of Capy's perfect robot, so she does the unthinkable! Watch as Mr. Hill discovers the truth behind the broken ...
+War Robots - New flying robot Anaksor on this week's Test Server has the invisibility ability similar to that of Kaji. WR Anaksor ...
 
-📺 CapyEscapes
+📺 Adrian Chong
 
-👁️ 7K • 👍 406 • 💬 12 • ⏱️ 0:55 • 21h ago
-
----
-
-**[Litter Robot 4 Review: See The Final Verdict On This Highly Rated Pet Service](https://www.youtube.com/watch?v=gsRdTx5OgzQ)**
-
-Litter robot 4 review: testing performance and quality Get Litter Robot ➜ https://bit.ly/49RGOgL EXCLUSIVE DISCOUNTS ...
-
-📺 Consumer Research Studios
-
-👁️ 825 • 👍 505 • 💬 1 • ⏱️ 7:25 • 1d ago
+👁️ 3K • 👍 191 • 💬 52 • ⏱️ 20:24 • 19h ago
 
 ---
 
@@ -258,17 +250,17 @@ To learn more about the DM-EXton2 and Daimon Robotics, click the link in the des
 
 📺 PRO ROBOTS
 
-👁️ 8K • 👍 242 • 💬 23 • ⏱️ 14:08 • 5d ago
+👁️ 8K • 👍 243 • 💬 24 • ⏱️ 14:08 • 5d ago
 
 ---
 
-**[Humanoid Robots Lumi and Luna A5 at 1000 Subscriber Celebration | Future Robot Lab](https://www.youtube.com/watch?v=FaL-UbIZFmM)**
+**[Robotics Boom: 3 Stocks Under $20 Right Now](https://www.youtube.com/watch?v=8yC0p_lfk4g)**
 
-We are honored to celebrate an important milestone at Future Robot Lab. This video captures the special moment when ...
+Robotics stocks are heating up fast, but many of the biggest names are already expensive. In this video, MarketBeat's Jeffrey Neal ...
 
-📺 Future Robot Lab
+📺 MarketBeat
 
-👁️ 2K • 👍 41 • 💬 8 • ⏱️ 9:38 • 19h ago
+👁️ 113K • 👍 3K • 💬 169 • ⏱️ 17:39 • 3d ago
 
 ---
 
@@ -282,13 +274,21 @@ Elon Musk, CEO of Tesla, sits down with Larry Fink, chair and CEO at BlackRock, 
 
 ---
 
-**[The PEAK of Robot Mower Evolution? | Ecovacs 2026 Sneak Peek](https://www.youtube.com/watch?v=UWRpPAMUGOc)**
+**[Capybara&#39;s Robot Sabotaged! 🤖 Brianna&#39;s Secret Plan Fails! #capybara](https://www.youtube.com/watch?v=DBiONpc0l9c)**
 
-Check out ECOVACS' newest products for 2026: https://www.ecovacs.com/global/campaign/ces Our review of the GOAT A3000: ...
+Brianna is jealous of Capy's perfect robot, so she does the unthinkable! Watch as Mr. Hill discovers the truth behind the broken ...
 
-📺 Freshly Charged
+📺 CapyEscapes
 
-👁️ 851 • 👍 30 • 💬 14 • ⏱️ 7:36 • 12h ago
+👁️ 7K • 👍 414 • 💬 12 • ⏱️ 0:55 • 22h ago
+
+---
+
+**[My boyfriend loves his mini robot 🤣💕#couples #longdistancerelationship #ldr #robot](https://www.youtube.com/watch?v=qrJfj-HRXzE)**
+
+📺 Romi Pal
+
+👁️ 260K • 👍 6K • 💬 31 • ⏱️ 0:17 • 3d ago
 
 ---
 

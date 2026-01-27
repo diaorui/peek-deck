@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-01-27T08:35:10.335862+00:00'
+updated: '2026-01-27T09:34:55.505898+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
 - social
+- news
 - videos
 - cryptocurrency
-- news
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** January 27, 2026 at 08:35 UTC  
+**Last Updated:** January 27, 2026 at 09:34 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,33 +38,33 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $88,508.86
+### $88,014.45
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** +0.5%  
-**7d:** -1.4%  
-**30d:** +1.4%  
-**90d:** -18.4%  
-**1y:** -12.8%  
+**24h:** +0.1%  
+**7d:** -1.9%  
+**30d:** +0.9%  
+**90d:** -18.8%  
+**1y:** -13.3%  
 
 ---
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1765.72B
+**Market Cap:** $1756.19B
 Rank #1
 
 **Circulating Supply:** 19,981,015 BTC
 95.1% of max
 
 **All-Time High:** $126,080.00
--29.9%
+-30.3%
 
 **All-Time Low:** $67.81
-+130203.8%
++129448.7%
 
 ---
 
@@ -79,19 +79,13 @@ Rank #1
 
 **[Hong Kong Offering 0% Capital Gains On Bitcoin](https://www.reddit.com/r/Bitcoin/comments/1qnggao/hong_kong_offering_0_capital_gains_on_bitcoin/)**
 
-18h ago
+19h ago
 
 ---
 
 **[$1000 in Fiat vs Bitcoin](https://www.reddit.com/r/Bitcoin/comments/1qnzix4/1000_in_fiat_vs_bitcoin/)**
 
-7h ago
-
----
-
-**[Comments?](https://www.reddit.com/r/Bitcoin/comments/1qntrn0/comments/)**
-
-10h ago
+8h ago
 
 ---
 
@@ -99,13 +93,27 @@ Rank #1
 
 I get occasional emails from Coin Base. I thought "didn't I leave $5 or so in my wallet a long time ago?" after buying something I needed to use Bitcoin to purchase. So I logged in and... it said I have over $2,200... I was like... this can't be right. Wasn't it only $5ish? So I found this site - https://charts.bitbo.io/if-i-bought/ - and punched it in... I had about $5.70 left from October of 2015. That's all it took to get over $2k. Now I wish I had been investing... $5 every paycheck since then. I'll probably just leave it in there in perpetuity.
 
-14h ago
+15h ago
+
+---
+
+**[Still here !!](https://www.reddit.com/r/Bitcoin/comments/1qo8o7j/still_here/)**
+
+39m ago
+
+---
+
+**[Im Young & Risky](https://www.reddit.com/r/Bitcoin/comments/1qo7q22/im_young_risky/)**
+
+Since i’m super young 21M and this is the only time i can risk everything for life changing wealth shouldn’t I take that risk and go all in on BTC. I can put $3k a month to it in my Trezor cold wallet. I’m gonna do it. Hoping i perform better than most assests in the next 6-7 years.
+
+1h ago
 
 ---
 
 **[Bumpy ride](https://www.reddit.com/r/Bitcoin/comments/1qncztp/bumpy_ride/)**
 
-21h ago
+22h ago
 
 ---
 
@@ -113,7 +121,23 @@ I get occasional emails from Coin Base. I thought "didn't I leave $5 or so in my
 
 I'm 55 and retired and have a portfolio I don't need to touch for 20 years. 98% is invested very simply in index funds. I chose to use 2% to play with. I put all 10k of that in BTC. I'm planning to basically forget about it and let it ride for 10 years or more. It wouldn't hurt me if I lost it all, but it would be nice if it did well. Is this a reasonable strategy?
 
-14h ago
+15h ago
+
+---
+
+**[What are your thoughts on global Bitcoin ownership data?](https://www.reddit.com/r/Bitcoin/comments/1qo72tc/what_are_your_thoughts_on_global_bitcoin/)**
+
+Source: https://worldpopulationreview.com/country-rankings/bitcoin-ownership-by-country
+
+2h ago
+
+---
+
+**[How Bitcoin Changed My Life](https://www.reddit.com/r/Bitcoin/comments/1qo7uqc/how_bitcoin_changed_my_life/)**
+
+Bitcoin did not change my life because of its price. It changed my life because of the technology. Because of the freedom it provides. Because it allows people to send and receive money quickly, securely, from anywhere in the world, without intermediaries. My name is Flavio. I am a young African man living in Angola. I am 22 years old and a Computer Engineering student at a public university, where I pay about two dollars per month in tuition. For a long time, my life plan was simple: graduate and then look for a job in my country. Nothing more. The reality was harsh. The university laboratories are poor, I did not have a computer, and I had no real way to practice or learn on my own. Most of what I studied stayed in theory. Still, I kept going. That is when I discovered Reddit. At first, I was just looking for ways to make money online, but almost everything I found was a scam. Over time, I understood something important: people only pay when you have a valuable skill, when you are able to create value for others. With only a weak phone and limited internet access, I kept searching. During those searches, I came across crypto trading, especially futures. I never did it because I had no capital and no knowledge. But while researching, I discovered this subreddit. One day, I decided to share my situation. With no expectations. Without asking for much. Just telling my reality. That decision changed everything. By God’s grace, some people looked at my story with empathy. People who did not know me, from other countries, decided to help. With that help, I was able to get something that once felt impossible: daily internet access. I was able to buy a computer. Someone gave me access to a learning platform where I now study programming. Other small acts of help made a huge difference. Hospital expenses for my mother. Food for my home. University tuition payments. My monthly internet bill of around eighteen dollars. Simple things, but life changing. Today, I am in the process of leaving a job where I earn four dollars a day so I can focus fully on learning programming. I want to grow, improve my skills, and pursue better opportunities. Hopefully, one day, I will be able to work remotely and truly change my family’s future. All of this was possible because I had a Binance account, a crypto wallet address, and most importantly, because there were good people willing to help. People from this and other subreddits had a real impact on my life. Today, my mind is open to new horizons and new possibilities. A future I could not even imagine before. My family and my future are grateful. I am deeply thankful to everyone who helped. May God bless you all. I was away for a long time, but I have always been here, and I will continue to be.
+
+1h ago
 
 ---
 
@@ -121,29 +145,7 @@ I'm 55 and retired and have a portfolio I don't need to touch for 20 years. 98% 
 
 Hello I've been wanting to get into crypto currency and I don't really know where to start. I was wondering if there is anyone who would like to help point me in the right direction.
 
-5h ago
-
----
-
-**[Hal Finney's last reddit post was tipping someone a whole Bitcoin. What's the most BTC you've ever seen tipped at once on this site?](https://www.reddit.com/r/Bitcoin/comments/1qo1l60/hal_finneys_last_reddit_post_was_tipping_someone/)**
-
-I was sleuthing around a post two days ago and found Hal Finney's reddit account. His last comment was 13 years ago. Just poking around the old threads he was commenting on and looking at the accounts of people he was talking with is something else. I'm guessing most of the ogs are already aware of it. Can't be sure. Just thought I'd share. "One piece of advice. Research has shown that happiness obtained by buying things is fleeting, because you get used to them. Better to invest in experiences and memories, because they'll be with you always." - Hal Finney
-
-5h ago
-
----
-
-**[Shift to prediction markets](https://www.reddit.com/r/Bitcoin/comments/1qnlxgb/shift_to_prediction_markets/)**
-
-I don’t know much about prediction markets, but I’ve noticed a lot more talk about them lately, and it seems capital is flowing from crypto into them. Is this something to worry about as a btc investor or no?
-
-15h ago
-
----
-
-**[Me still pretending we’re in a bull market](https://www.reddit.com/r/Bitcoin/comments/1qn4wak/me_still_pretending_were_in_a_bull_market/)**
-
-1d ago
+6h ago
 
 ---
 
@@ -151,39 +153,31 @@ I don’t know much about prediction markets, but I’ve noticed a lot more talk
 
 ## Google News: "bitcoin"
 
+**[Silver overtakes bitcoin’s post-2017 gains as price blows past $115](https://www.theblock.co/post/387138/silver-overtakes-bitcoin-post-2017-gains-price-blows-past-115)**
+
+The Block • 11h ago
+
+---
+
 **[Bitcoin remains coiled under $88,500 as gold tops $5,000, silver gives back gains](https://www.coindesk.com/markets/2026/01/27/bitcoin-remains-coiled-under-usd88-500-as-gold-tops-usd5-000-silver-gives-back-gains)**
 
 Bitcoin traded lower alongside most major tokens as investors favored gold and silver ahead of the Federal Reserve decision and a heavy week of Magnificent Seven earnings.
 
-CoinDesk • 2h ago
+CoinDesk • 3h ago
 
 ---
 
-**[Silver overtakes bitcoin’s post-2017 gains as price blows past $115](https://www.theblock.co/post/387138/silver-overtakes-bitcoin-post-2017-gains-price-blows-past-115)**
+**[Fundstrat’s Tom Lee Predicts Bitcoin, Ethereum Surge Once Metals Rally Fades](https://finance.yahoo.com/news/fundstrat-tom-lee-predicts-bitcoin-074556070.html)**
 
-The Block • 10h ago
-
----
-
-**[Bitcoin Hashrate Drops to Seven-Month Low as US Winter Storm Disrupts Mining](https://finance.yahoo.com/news/bitcoin-hashrate-drops-seven-month-063048296.html)**
-
-Bitcoin’s network hashrate fell to its lowest level in seven months over the weekend as a powerful winter storm swept across the United States, forcing miners to scale back operations amid surging energy demand and widespread power disruptions. Key Takeaways: A US winter storm pushed Bitcoin’s hashrate to a seven-month ...
-
-Yahoo Finance • 2h ago
-
----
-
-**[If You Invested $1,000 in Apple vs. Bitcoin in 2015, Here’s Which One Made You Richer](https://finance.yahoo.com/news/invested-1-000-apple-vs-070005240.html)**
-
-Here's how a $1,000 investment in Apple stock in 2015 compares to Bitcoin and which one would have made you richer.
+Fundstrat managing partner Tom Lee believes Bitcoin and Ether are poised to play catch-up once the blistering rally in gold and silver begins to cool, arguing that crypto fundamentals remain intact despite recent underperformance. Key Takeaways: Tom Lee says Bitcoin and Ether could rally once the surge in gold and ...
 
 Yahoo Finance • 1h ago
 
 ---
 
-**[Bitcoin Starts Week on Shaky Ground as Uncertainty Lingers](https://www.bloomberg.com/news/articles/2026-01-26/bitcoin-starts-week-on-shaky-ground-amid-geopolitical-jitters)**
+**[Bitcoin Miners Power Down US Operations in Wake of Winter Storm](https://www.bloomberg.com/news/articles/2026-01-26/bitcoin-miners-power-down-us-operations-in-wake-of-winter-storm)**
 
-Bloomberg.com • 21h ago
+Bloomberg.com • 11h ago
 
 ---
 
@@ -191,15 +185,15 @@ Bloomberg.com • 21h ago
 
 Gold advocate and longtime Bitcoin critic Peter Schiff said that the crypto industry is pushing for government regulation and bailouts not to self-restrain, but to gain public legitimacy.
 
-Bitcoin Magazine • 11h ago
+Bitcoin Magazine • 12h ago
 
 ---
 
-**[BlackRock Files Bitcoin Premium Income ETF: What It Could Mean For BTC](https://www.tradingview.com/news/newsbtc:d81eca397094b:0-blackrock-files-bitcoin-premium-income-etf-what-it-could-mean-for-btc/)**
+**[BlackRock looks to bring yield-generation to Bitcoin investments with iShares Bitcoin Premium Income ETF](https://www.theblock.co/post/387089/blackrock-looks-to-bring-yield-generation-to-bitcoin-investments-with-ishares-bitcoin-premium-income-etf)**
 
-BlackRock has filed an S-1 for an “iShares Bitcoin Premium Income ETF,” a product that aims to track bitcoin’s price while generating option premium by systematically selling calls tied primarily to its own spot bitcoin ETF, IBIT. For BTC-linked derivatives markets, the filing is being read less as…
+The iShares Bitcoin Premium Income ETF would hold bitcoin directly and generate yield from selling IBIT option premiums.
 
-TradingView • 4h ago
+The Block • 15h ago
 
 ---
 
@@ -207,23 +201,31 @@ TradingView • 4h ago
 
 BlackRock has filed to launch a second Bitcoin ETF two years after the debut of its blockbuster product, IBIT. This one would feature additional income earned by selling call options on IBIT shares. Among traditional financial firms, BlackRock has been among the most aggressive to embrace crypto.
 
-Yahoo Finance • 11h ago
+Yahoo Finance • 12h ago
 
 ---
 
-**[BlackRock doubles down on bitcoin fund offerings with income-focused filing](https://www.coindesk.com/markets/2026/01/26/blackrock-doubles-down-on-bitcoin-fund-offerings-with-income-focused-filing)**
+**[BlackRock Files Bitcoin Premium Income ETF: What It Could Mean For BTC](https://www.tradingview.com/news/newsbtc:d81eca397094b:0-blackrock-files-bitcoin-premium-income-etf-what-it-could-mean-for-btc/)**
 
-The ETF would actively manage a covered call bitcoin exposure through BlackRock's existing iShares Bitcoin Trust (IBIT), to generate income for investors.
+BlackRock has filed an S-1 for an “iShares Bitcoin Premium Income ETF,” a product that aims to track bitcoin’s price while generating option premium by systematically selling calls tied primarily to its own spot bitcoin ETF, IBIT. For BTC-linked derivatives markets, the filing is being read less as…
 
-CoinDesk • 16h ago
+TradingView • 5h ago
 
 ---
 
-**[Fears grow that bitcoin is entering a bear market](https://sherwood.news/crypto/fears-grow-that-bitcoin-is-entering-a-bear-market/)**
+**[Why MicroStrategy’s Latest Bitcoin Purchase Is Deeply Concerning](https://finance.yahoo.com/news/why-microstrategy-latest-bitcoin-purchase-193558229.html)**
 
-“While a new all-time high this year still isn’t out of the question, the next 30 days will be crucial in determining whether a bear market is...
+MicroStrategy’s latest Bitcoin purchase raises structural concerns around dilution, mNAV, and shareholder value.
 
-Sherwood News • 16h ago
+Yahoo Finance • 13h ago
+
+---
+
+**[Michael Saylor's Strategy buys another 2,932 bitcoin for $264 million as total holdings reach 712,647 BTC](https://www.theblock.co/post/387014/michael-saylors-strategy-buys-more-bitcoin-unstoppable-orange)**
+
+Strategy's holdings account for approximately 3.4% of the total 21 million bitcoin supply — worth around $62.5 billion.
+
+The Block • 20h ago
 
 ---
 
@@ -235,7 +237,7 @@ Sherwood News • 16h ago
 
 Billionaire fugitive Roger Ver was facing federal criminal charges until he sought the services of a select club of President Donald Trump’s former personal attorneys who have easy access to top Justice Department appointees.
 
-⬆️ 17 • 💬 0 • 20h ago • [ProPublica](https://www.propublica.org/article/bitcoin-jesus-roger-ver-tax-evasion-friends-of-trump)
+⬆️ 17 • 💬 0 • 21h ago • [ProPublica](https://www.propublica.org/article/bitcoin-jesus-roger-ver-tax-evasion-friends-of-trump)
 
 ---
 
@@ -268,7 +270,7 @@ What you get macOS app (Apple Silicon) — simple desktop experience for advance
 
 Transform HN comment threads into executive intelligence. AI analyzes discussions and delivers sharp, structured briefs (hook, gist, debate, verdict) written in Chief-of-Staff style for tech executives.
 
-⬆️ 3 • 💬 2 • 18h ago • [hnsignals.com](https://hnsignals.com/)
+⬆️ 3 • 💬 2 • 19h ago • [hnsignals.com](https://hnsignals.com/)
 
 ---
 
@@ -316,7 +318,7 @@ Exchange Partners** Bitunix Exchange ▻ *$100000 Deposit Bonus* ▻ https://bit
 
 📺 CryptosRUs
 
-👁️ 20K • 👍 1K • 💬 197 • ⏱️ 8:05 • 8h ago
+👁️ 23K • 👍 1K • 💬 224 • ⏱️ 8:05 • 9h ago
 
 ---
 
@@ -326,7 +328,7 @@ In this solo episode, Anthony Pompliano explains why Bitcoin is lagging while go
 
 📺 Anthony Pompliano
 
-👁️ 26K • 👍 1K • 💬 55 • ⏱️ 17:45 • 10h ago
+👁️ 30K • 👍 1K • 💬 55 • ⏱️ 17:45 • 11h ago
 
 ---
 
@@ -336,17 +338,7 @@ DISCLAIMER: We may receive a small commission for any purchases made through our
 
 📺 Savvy Finance
 
-👁️ 5K • 👍 239 • 💬 2 • ⏱️ 18:13 • 9h ago
-
----
-
-**[🚨BITCOIN IS ABOUT TO PUMP!… And Most People Will Miss It](https://www.youtube.com/watch?v=FXVTIXykddc)**
-
-Bitcoin #Crypto #Finance Your edge starts here — join DataDash Pro for Discord access + Nick's Monthly Dash Report at ...
-
-📺 DataDash
-
-👁️ 4K • 👍 258 • 💬 15 • ⏱️ 12:54 • 15h ago
+👁️ 5K • 👍 266 • 💬 3 • ⏱️ 18:13 • 10h ago
 
 ---
 
@@ -356,27 +348,7 @@ IT'S OVER FOR CRYPTO BLACKROCK PLACED THEIR BETS! I don't believe that crypto is
 
 📺 CryptoWendyO
 
-👁️ 23K • 👍 1K • 💬 46 • ⏱️ 3:19 • 10h ago
-
----
-
-**[Dollar CRASH Incoming?! Is Bitcoin About to Erupt?](https://www.youtube.com/watch?v=35UC7C2b-X0)**
-
-Gold and silver are ripping to record highs, but the real story is what this says about the dollar. Central banks are trapped, ...
-
-📺 Simply Bitcoin
-
-👁️ 17K • 👍 2K • 💬 106 • ⏱️ 18:47 • 8h ago
-
----
-
-**[Bitcoin will be hit HARDEST by this, warns CEO](https://www.youtube.com/watch?v=hBdvyMLVlK0)**
-
-ARK Invest CEO and CIO Cathie Wood shares her ideas for the 2026 markets and outlook for crypto on 'The Claman Countdown.
-
-📺 Fox Business Clips
-
-👁️ 44K • 👍 630 • 💬 444 • ⏱️ 4:20 • 1d ago
+👁️ 25K • 👍 1K • 💬 46 • ⏱️ 3:19 • 11h ago
 
 ---
 
@@ -386,17 +358,27 @@ LIMITED TIME: ✓ Bitunix (no kyc, $100000 bonus): https://www.bitunix.com/regis
 
 📺 Altcoin Daily
 
-👁️ 53K • 👍 3K • 💬 568 • ⏱️ 9:12 • 1d ago
+👁️ 53K • 👍 3K • 💬 556 • ⏱️ 9:12 • 1d ago
 
 ---
 
-**[Smart Money Is Loading Up On Bitcoin, Gold and Silver](https://www.youtube.com/watch?v=CUMkGGPTWp8)**
+**[🚨BITCOIN IS ABOUT TO PUMP!… And Most People Will Miss It](https://www.youtube.com/watch?v=FXVTIXykddc)**
 
-Today, let's examine Bitcoin's charts and metrics, as well as the latest Macro and Crypto news. Additionally, a look at the latest ...
+Bitcoin #Crypto #Finance Your edge starts here — join DataDash Pro for Discord access + Nick's Monthly Dash Report at ...
 
-📺 CryptosRUs
+📺 DataDash
 
-👁️ 21K • 👍 1K • 💬 213 • ⏱️ 51:11 • 16h ago
+👁️ 4K • 👍 264 • 💬 15 • ⏱️ 12:54 • 16h ago
+
+---
+
+**[History Is Repeating For Bitcoin &amp; Crypto! [Do This To Make Generational Wealth]](https://www.youtube.com/watch?v=RgO4OJj4nRw)**
+
+In today's video Kyledoops shows a repeat pattern that shows what is next for Bitcoin & Crypto. Join live to find out how history ...
+
+📺 Crypto Banter
+
+👁️ 5K • 👍 635 • 💬 10 • ⏱️ 31:36 • 1h ago
 
 ---
 
@@ -406,7 +388,27 @@ Gold is surging to historic highs, and many are using it to dunk on Bitcoin. Tha
 
 📺 Swan Bitcoin
 
-👁️ 5K • 👍 232 • 💬 55 • ⏱️ 14:20 • 14h ago
+👁️ 6K • 👍 237 • 💬 55 • ⏱️ 14:20 • 15h ago
+
+---
+
+**[Smart Money Is Loading Up On Bitcoin, Gold and Silver](https://www.youtube.com/watch?v=CUMkGGPTWp8)**
+
+Today, let's examine Bitcoin's charts and metrics, as well as the latest Macro and Crypto news. Additionally, a look at the latest ...
+
+📺 CryptosRUs
+
+👁️ 21K • 👍 1K • 💬 213 • ⏱️ 51:11 • 17h ago
+
+---
+
+**[The Ugly Truth About Bitcoin.](https://www.youtube.com/watch?v=yfGSax8PGwo)**
+
+Ran critically analyses and questions a long standing Bitcoin narrative as its structural collapse worsens compared to the ...
+
+📺 Crypto Banter
+
+👁️ 29K • 👍 2K • 💬 84 • ⏱️ 31:42 • 18h ago
 
 ---
 
