@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-01-27T21:43:06.507812+00:00'
+updated: '2026-01-27T22:24:17.104484+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- social
-- videos
 - news
+- videos
+- social
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** January 27, 2026 at 21:43 UTC  
+**Last Updated:** January 27, 2026 at 22:24 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -44,7 +44,15 @@ Hey all, a quick showcase of the Sprout robot from Fauna Robotics. I’m a postd
 
 From Lukas Ziegler on 𝕏: https://x.com/lukas_m_ziegler/status/2016112237019042259 AgXeed website: https://www.agxeed.com/
 
-9h ago
+10h ago
+
+---
+
+**[Meet Sprout](https://www.reddit.com/r/robotics/comments/1qok4u0/meet_sprout/)**
+
+Meet Sprout. Fauna Robotics are releasing a new kind of robotics platform. One designed to move out of the lab and into the real world, closer to the people who will shape what robots become next. @faunarobotics
+
+5h ago
 
 ---
 
@@ -53,14 +61,6 @@ From Lukas Ziegler on 𝕏: https://x.com/lukas_m_ziegler/status/201611223701904
 From Eren Chen on 𝕏: https://x.com/ErenChenAI/status/2015503512734441800
 
 11h ago
-
----
-
-**[Meet Sprout](https://www.reddit.com/r/robotics/comments/1qok4u0/meet_sprout/)**
-
-Meet Sprout. Fauna Robotics are releasing a new kind of robotics platform. One designed to move out of the lab and into the real world, closer to the people who will shape what robots become next. @faunarobotics
-
-4h ago
 
 ---
 
@@ -76,7 +76,7 @@ Enjoy the videos and music you love, upload original content, and share it all w
 
 We're open-sourcing Asimov Legs, a bipedal robotic system. We've been building in public and sharing daily progress, now the full design is out. A complete leg design with 6 DOF per leg, RSU ankle architecture, passive toe joints. Built with off-the-shelf components and compatible with MJF 3D printing. What's included: - Full mechanical CAD (STEP files) - Motors & actuators list - XML files for simulation (MuJoCo) Most of the structure is MJF-printable plastic. The only part that needs CNC is the knee plate, and we spent weeks simplifying that from a 2-part assembly down to a single plate. If you don't have access to industrial MJF, casting or regular 3D printing works too. Repo for all: https://github.com/asimovinc/asimov-v0 Happy to answer questions about the design choices.
 
-12h ago
+13h ago
 
 ---
 
@@ -106,7 +106,7 @@ Hey everyone, I’m currently looking for a fun and interactive robot similar to
 
 Hello, I have a question regarding OMPL. I'm using OMPL to get paths for a ground effect vehicle using OwenStateSpace. The thing is that for some reason it doesn't seem to take into consideration the orientation of each state when creating the intermidiate states, so when I show it on RVIZ it's always the default oreintation, as you can see in these pics. https://preview.redd.it/rw51x4domwfg1.png?width=1171&format=png&auto=webp&s=46710612f0cc5674a58f93faaa427bd02f33a818 https://preview.redd.it/q3zj36domwfg1.png?width=1054&format=png&auto=webp&s=3e36bf273fadf4e9b28daeb0dc3d9dac6c1cf155 This is specially a problem when using RRTConnect, because the connection in the middle forces a sudden 180º rotation, because the end of one branch is exactly the same as the beggining of the other, instead of being opposed, as you can see in this other picture. https://preview.redd.it/2nbpa7yqmwfg1.png?width=1171&format=png&auto=webp&s=8d9df910368c0ff27e8c4b4dee63fdcbf3bfbffa The code would be the following: extractPath() is just a function that converts the path to a message for a ROS2 topic. But the error cannot be there, because the issue happens before.// Source - https://stackoverflow.com/q/79876550 // Posted by Daniel Bajo Collados // Retrieved 2026-01-27, License - CC BY-SA 4.0 auto si(std::make_shared<ob::SpaceInformation>(space)); auto probDef(std::make_shared<ob::ProblemDefinition>(si)); probDef->setStartAndGoalStates(*start, *goal); probDef->setOptimizationObjective(getOptObj(si)); auto planner(std::make_shared<og::RRTConnect>(si)); planner->setRange(Range); planner->setProblemDefinition(probDef); planner->setup(); ob::PlannerStatus solved = planner->ob::Planner::solve(time); return_path = extractPath(probDef.get()); extractPath() is just a function that converts the path to a message for a ROS2 topic. But the error cannot be there, because the issue happens before. When setting up the start and the goal, as you can see it gets the proper orientations, so it just ignores the orientation of the intermidiate states. This cpp code is running inside a ROS2 node on a Ubuntu 22 virtual machine. Edit: The issue of having the intermidiate states have all the same orientation was solved. The issue was that the yaw angle was set using state[3] instead of state.yaw(). However, this didn't solve the issue with RRTConnect, as it still has a sharp 180º turn where the branches meet.
 
-6h ago
+7h ago
 
 ---
 
@@ -118,7 +118,23 @@ Hello, I have a question regarding OMPL. I'm using OMPL to get paths for a groun
 
 The most momentous day for ADAM since serving Jensen Huang a margarita....
 
-Sherwood News • 7h ago
+Sherwood News • 8h ago
+
+---
+
+**[Microsoft and Richtech give retail and service robots an AI boost](https://www.stocktitan.net/news/RR/richtech-robotics-collaborates-with-microsoft-to-advance-agentic-ai-2ptsobdmvovn.html)**
+
+ADAM, Richtech's Azure-powered robot, now uses vision, voice and contextual data to improve retail workflows and customer interactions.
+
+Stock Titan • 9h ago
+
+---
+
+**[Microsoft’s Rho-alpha pushes robots beyond assembly lines using commands](https://www.techradar.com/pro/microsoft-unveils-first-robotics-model-targeted-at-boosting-physical-ai-in-a-bid-to-free-robots-from-the-production-line)**
+
+Microsoft’s Rho-alpha pushes robots beyond assembly lines using language commands, tactile sensing, and heavy simulation training
+
+TechRadar • 2d ago
 
 ---
 
@@ -136,11 +152,19 @@ Tech Xplore • 1h ago
 
 ---
 
-**[Microsoft and Richtech give retail and service robots an AI boost](https://www.stocktitan.net/news/RR/richtech-robotics-collaborates-with-microsoft-to-advance-agentic-ai-2ptsobdmvovn.html)**
+**[Robots only half as efficient as humans, says leading Chinese producer](https://www.ft.com/content/0f831781-b450-4644-9f83-b3f76968a4af)**
 
-ADAM, Richtech's Azure-powered robot, now uses vision, voice and contextual data to improve retail workflows and customer interactions.
+UBTech executive highlights difficulty in replacing workers with machines but manufacturers are still racing to order them
 
-Stock Titan • 8h ago
+Financial Times • 2d ago
+
+---
+
+**[Not ready for robots in homes? The maker of a friendly new humanoid thinks it might change your mind](https://abcnews.go.com/Technology/wireStory/ready-robots-homes-maker-friendly-new-humanoid-thinks-129594260)**
+
+A new humanoid robot named Sprout, developed by Fauna Robotics, is making its debut
+
+ABC News • 8h ago
 
 ---
 
@@ -152,19 +176,11 @@ Global Times • 1d ago
 
 ---
 
-**[Wisconsin robotics team inspires young minds with LEGO demonstration](https://www.channel3000.com/news/wisconsin-robotics-team-inspires-young-minds-with-lego-demonstration/article_1a694168-7e92-58bb-a160-376bd6d76806.html)**
+**[Purdue partners open hub for AI and robotics research in medicine](https://www.jconline.com/story/news/local/2026/01/27/purdue-university-opens-care-center-for-ai-and-robotics-in-medicine-indianapolis-partners/88377503007/)**
 
-SPARTA, Wis. (WKBT) — Local kids brought science and technology to life through a LEGO robotics demonstration hosted by an award-winning team.
+The Center for AI and Robotic Excellence in Medicine (CARE) is designed to advance AI and robotics for medical research, training and care.
 
-channel3000.com • 2d ago
-
----
-
-**[Not ready for robots in homes? The maker of a friendly new humanoid thinks it might change your mind](https://abcnews.go.com/Technology/wireStory/ready-robots-homes-maker-friendly-new-humanoid-thinks-129594260)**
-
-A new humanoid robot named Sprout, developed by Fauna Robotics, is making its debut
-
-ABC News • 7h ago
+jconline.com • 5h ago
 
 ---
 
@@ -173,22 +189,6 @@ ABC News • 7h ago
 A soft robotic probe enables continuous in utero monitoring of fetal physiological parameters, including heart rate, blood oxygen saturation, temperature and electrocardiogram data, during open or fetoscopic surgery to provide real-time information on fetal condition and distress.
 
 Nature • 1d ago
-
----
-
-**[Robots only half as efficient as humans, says leading Chinese producer](https://www.ft.com/content/0f831781-b450-4644-9f83-b3f76968a4af)**
-
-UBTech executive highlights difficulty in replacing workers with machines but manufacturers are still racing to order them
-
-Financial Times • 2d ago
-
----
-
-**[Microsoft’s Rho-alpha pushes robots beyond assembly lines using commands](https://www.techradar.com/pro/microsoft-unveils-first-robotics-model-targeted-at-boosting-physical-ai-in-a-bid-to-free-robots-from-the-production-line)**
-
-Microsoft’s Rho-alpha pushes robots beyond assembly lines using language commands, tactile sensing, and heavy simulation training
-
-TechRadar • 2d ago
 
 ---
 
@@ -242,7 +242,7 @@ Sprout, a 3 1/2-foot-tall humanoid from Fauna Robotics, debuts with a soft foam 
 
 📺 Associated Press
 
-👁️ 3K • 👍 52 • 💬 7 • ⏱️ 0:55 • 8h ago
+👁️ 3K • 👍 52 • 💬 7 • ⏱️ 0:55 • 9h ago
 
 ---
 
@@ -280,7 +280,7 @@ War Robots Test Server Gameplay: New ULTIMATE Revenant - worth it? My War Robots
 
 📺 Manni-Gaming
 
-👁️ 6K • 👍 364 • 💬 77 • ⏱️ 16:07 • 11h ago
+👁️ 6K • 👍 364 • 💬 77 • ⏱️ 16:07 • 12h ago
 
 ---
 

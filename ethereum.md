@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-01-27T21:43:06.504593+00:00'
+updated: '2026-01-27T22:24:17.100740+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- social
-- videos
-- news
 - cryptocurrency
+- videos
+- social
+- news
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** January 27, 2026 at 21:43 UTC  
+**Last Updated:** January 27, 2026 at 22:24 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -36,17 +36,17 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Price
 
-### $3,009.92
+### $3,018.92
 
 ---
 
 ## Ethereum Chart
 
-**24h:** +3.4%  
-**7d:** +1.2%  
-**30d:** +2.9%  
-**90d:** -20.5%  
-**1y:** -1.8%  
+**24h:** +2.7%  
+**7d:** +0.6%  
+**30d:** +2.3%  
+**90d:** -21.0%  
+**1y:** -2.2%  
 
 ---
 
@@ -72,7 +72,7 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-15h ago
+16h ago
 
 ---
 
@@ -80,13 +80,13 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 Hi r/ethereum, I’ve been running a personal experiment called FitVow. The idea is simple: I stake real ETH into a smart contract, commit to weekly physical activity goals, and let the contract enforce the rules without a trusted referee. Each week, an Android app reads physical activity data from my smartwatch and publishes it on-chain (e.g. runs, workouts and etc). The contract uses that data to decide whether that week’s goals were met. If a week fails: that week creates an enforceable fine (paid out from the stake) enforcement is permissionless (anyone can trigger it) the fine is split between the enforcer (caller) and a charity wallet (Giveth) At the end of the challenge, I’m allowed to withdraw whatever remains of the stake after any fines. There’s no backend deciding outcomes and no admin override. Once deployed, the rules are the rules. This is not a product — just an experiment exploring whether Ethereum is a good tool for credible self-commitment outside of DeFi. Live dashboard (reads directly from on-chain data): https://fitvow.pedroaugusto.dev/ Technical write-up (architecture + security assumptions): https://pedrooaugusto.github.io/blog/posts/making-missed-workouts-cost-money-with-smart-contracts/ I’d love feedback — especially on whether this feels like a reasonable use of Ethereum, and what you’d poke holes in.
 
-4h ago
+5h ago
 
 ---
 
 **[Built a little ethereum wallet for a metamask interview](https://www.reddit.com/r/ethereum/comments/1qon8y9/built_a_little_ethereum_wallet_for_a_metamask/)**
 
-2h ago
+3h ago
 
 ---
 
@@ -94,7 +94,7 @@ Hi r/ethereum, I’ve been running a personal experiment called FitVow. The idea
 
 Computation > data > state Computation is easier to scale than data. You can parallelize it, require the block builder to provide all kinds of "hints" for it, or just replace arbitrary amounts of it with a proof of it. Data is in the middle. If an availability guarantee on data is required, then that guarantee is required, no way around it. But you can split it up and erasure code it, a la PeerDAS. You can do graceful degradation for it: if a node only has 1/10 the data capacity of the other nodes, it can always produce blocks 1/10 the size. State is the hardest. To guarantee the ability to verify even one transaction, you need the full state. If you replace the state with a tree and keep the root, you need the full state to be able to update that root. There are ways to split it up, but they involve architecture changes, they are fundamentally not general-purpose. Hence, if you can replace state with data (without introducing new forms of centralization), by default you should seriously consider it. And if you can replace data with computation (without introducing new forms of centralization), by default you should seriously consider it.
 
-19h ago
+20h ago
 
 ---
 
@@ -110,7 +110,7 @@ Hey r/defi. My name is Matt and I have built something different. EqualFi offers
 
 I am trying to create a delegate wallet for every user which is connected to my dApp. I intend to have access to the private key so that I can initiate and sign transactions on the users behalf. So I am thinking of making the wallet pub and priv key on client side and I don't want the priv key to ever leave client's browser. Is it possible to implement something like this ? I use Privy for siwe if that can help me in any way.
 
-10h ago
+11h ago
 
 ---
 
@@ -170,7 +170,7 @@ The Motley Fool • 23h ago
 
 Ethereum stands to gain the most from the tokenization wave washing over Wall Street, BlackRock (NYSE:BLK) says. "As we look towards the next era of tokenization, Ethereum may be poised to be a beneficiary of growth," BlackRock strategists said in...
 
-Yahoo Finance • 1h ago
+Yahoo Finance • 2h ago
 
 ---
 
@@ -180,11 +180,27 @@ Binance • 16h ago
 
 ---
 
+**[What Drove Ethereum's 11% Decline This Past Week?](https://www.fool.com/investing/2026/01/25/what-drove-ethereums-11-decline-this-past-week/)**
+
+A good week it was not for the world's second-largest cryptocurrency.
+
+The Motley Fool • 2d ago
+
+---
+
+**[What Drove Ethereum's 11% Decline This Past Week?](https://finance.yahoo.com/news/drove-ethereums-11-decline-past-154732795.html)**
+
+A good week it was not for the world's second-largest cryptocurrency.
+
+Yahoo Finance • 2d ago
+
+---
+
 **[Zama’s Encrypted Ethereum Token Auction Draws $118M in Commitments](https://thedefiant.io/news/defi/zama-s-encrypted-ethereum-token-auction-draws-usd118m-in-commitments)**
 
 The project said its auction app dominated Ethereum activity on Jan. 24 and that TVS topped $100 million within three days.
 
-thedefiant.io • 22h ago
+thedefiant.io • 23h ago
 
 ---
 
@@ -210,22 +226,6 @@ The Block • 1d ago
 
 ---
 
-**[BitMine Highlights Massive Ethereum Treasury and Staking Strategy](https://www.tipranks.com/news/company-announcements/bitmine-highlights-massive-ethereum-treasury-and-staking-strategy)**
-
-The latest announcement is out from BitMine Immersion Technologies ( ($BMNR) ). On January 23, 2026, Bitmine Immersion Technologies appointed its current Chief Fina...
-
-TipRanks • 1d ago
-
----
-
-**[XRP, Ethereum Now ‘Undervalued’ On MVRV, Says Santiment](https://www.tradingview.com/news/newsbtc:3378aa0c9094b:0-xrp-ethereum-now-undervalued-on-mvrv-says-santiment/)**
-
-On-chain analytics firm Santiment has pointed out how XRP and Ethereum are among coins sitting in the MVRV Ratio’s “undervalued” zone.30-Day MVRV Is Negative For XRP & EthereumIn a new post on X, on-chain analytics firm Santiment has talked about where some notable cryptocurrencies like XRP and Bit…
-
-TradingView • 15h ago
-
----
-
 ---
 
 ## YouTube Videos: "ethereum"
@@ -236,7 +236,7 @@ Tom Lee Just Said The UNTHINKABLE About Bitcoin & Ethereum! [2026 New Prediction
 
 📺 Crypto Nutshell
 
-👁️ 8K • 👍 374 • 💬 49 • ⏱️ 14:37 • 6h ago
+👁️ 8K • 👍 374 • 💬 49 • ⏱️ 14:37 • 7h ago
 
 ---
 
@@ -266,7 +266,7 @@ Weekend/Bank Holiday video: https://www.youtube.com/watch?v=5pBbKuLfRZI Brighter
 
 📺 Trading Jip
 
-👁️ 406 • 👍 30 • 💬 56 • ⏱️ 6:29 • 12h ago
+👁️ 406 • 👍 30 • 💬 56 • ⏱️ 6:29 • 13h ago
 
 ---
 
@@ -276,7 +276,7 @@ Jetzt gratis sichern → https://www.blockchain-investor.de/app Die neue „Bloc
 
 📺 Krypto Report
 
-👁️ 3K • 👍 384 • 💬 21 • ⏱️ 17:05 • 4h ago
+👁️ 3K • 👍 384 • 💬 21 • ⏱️ 17:05 • 5h ago
 
 ---
 
@@ -286,7 +286,7 @@ FREE TRAINING: https://www.bullmania.com EXCHANGES I USE (bybit, pionex): https:
 
 📺 Ivan on Tech
 
-👁️ 19K • 👍 1K • 💬 89 • ⏱️ 59:47 • 11h ago
+👁️ 19K • 👍 1K • 💬 89 • ⏱️ 59:47 • 12h ago
 
 ---
 
@@ -316,7 +316,7 @@ This video provides a professional Elliott Wave and technical analysis of Ethere
 
 📺 More Crypto Online
 
-👁️ 2K • 👍 96 • 💬 4 • ⏱️ 4:04 • 15h ago
+👁️ 2K • 👍 96 • 💬 4 • ⏱️ 4:04 • 16h ago
 
 ---
 
