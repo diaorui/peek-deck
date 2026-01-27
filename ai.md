@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-01-27T01:56:38.857697+00:00'
+updated: '2026-01-27T03:50:46.481003+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- social
-- repositories
 - news
 - videos
+- social
+- repositories
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** January 27, 2026 at 01:56 UTC  
+**Last Updated:** January 27, 2026 at 03:50 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -41,15 +41,7 @@ AI news, discussions, and developments
 
 Meta is blocking teens worldwide from accessing AI chatbot characters while it rebuilds the feature with parental controls and safety rules.
 
-🔗 [Interesting Engineering](https://interestingengineering.com/ai-robotics/meta-pauses-teens-ai-chatbot-character) • 10h ago
-
----
-
-**[OpenAI sued for allegedly enabling murder-suicide](https://www.reddit.com/r/artificial/comments/1qnlzmo/openai_sued_for_allegedly_enabling_murdersuicide/)**
-
-The case, filed in a California court, is the first suit linking the chatbot to murder.
-
-🔗 [Al Jazeera](https://www.aljazeera.com/economy/2025/12/11/openai-sued-for-allegedly-enabling-murder-suicide) • 8h ago
+🔗 [Interesting Engineering](https://interestingengineering.com/ai-robotics/meta-pauses-teens-ai-chatbot-character) • 12h ago
 
 ---
 
@@ -57,7 +49,15 @@ The case, filed in a California court, is the first suit linking the chatbot to 
 
 James, a married father from upstate New York, has always been interested in AI. He works in the technology field and has used ChatGPT since its release for recommendations, “second guessing your doctor” and the like.
 
-🔗 [CNN](https://www.cnn.com/2025/09/05/tech/ai-sparked-delusion-chatgpt) • 4h ago
+🔗 [CNN](https://www.cnn.com/2025/09/05/tech/ai-sparked-delusion-chatgpt) • 6h ago
+
+---
+
+**[OpenAI sued for allegedly enabling murder-suicide](https://www.reddit.com/r/artificial/comments/1qnlzmo/openai_sued_for_allegedly_enabling_murdersuicide/)**
+
+The case, filed in a California court, is the first suit linking the chatbot to murder.
+
+🔗 [Al Jazeera](https://www.aljazeera.com/economy/2025/12/11/openai-sued-for-allegedly-enabling-murder-suicide) • 10h ago
 
 ---
 
@@ -65,7 +65,15 @@ James, a married father from upstate New York, has always been interested in AI.
 
 “Worsening extreme weather, driven by climate change, is having impacts on all of us and nearly every aspect of modern life. Forecasting affects us all. It can drive improvements to agriculture, energy, aviation, and emergency response, but the science of forecasting is changing,” says Mike Pritchard, Nvidia’s director of climate simulation
 
-🔗 [The New Stack](https://thenewstack.io/nvidia-makes-ai-weather-forecasting-more-accessible-no-supercomputer-needed/) • 9h ago
+🔗 [The New Stack](https://thenewstack.io/nvidia-makes-ai-weather-forecasting-more-accessible-no-supercomputer-needed/) • 10h ago
+
+---
+
+**[Meta plan to bundle AI tools into premium subscriptions accross its apps](https://www.reddit.com/r/artificial/comments/1qo2yds/meta_plan_to_bundle_ai_tools_into_premium/)**
+
+Meta is testing premium subscriptions on Instagram, Facebook, and WhatsApp, offering advanced features, AI tools, and enhanced controls while keeping core services free.
+
+🔗 [techputs](https://techputs.com/meta-premium-subscriptions/) • 1m ago
 
 ---
 
@@ -73,7 +81,7 @@ James, a married father from upstate New York, has always been interested in AI.
 
 Google brings Personal Intelligence to Search AI Mode, letting users connect Gmail and Photos for more personalized results.
 
-🔗 [Help Net Security](https://www.helpnetsecurity.com/2026/01/26/google-ai-mode-personal-intelligence/) • 9h ago
+🔗 [Help Net Security](https://www.helpnetsecurity.com/2026/01/26/google-ai-mode-personal-intelligence/) • 11h ago
 
 ---
 
@@ -89,7 +97,7 @@ The BBC's Lily Jamali looks into why big US firms and start-ups alike are turnin
 
 The latest ChatGPT revelations are yet another reminder of the pervasive labour exploitation in digital innovation.
 
-🔗 [Al Jazeera](https://www.aljazeera.com/opinions/2023/1/23/sweatshops-are-making-our-digital-age-work) • 2h ago
+🔗 [Al Jazeera](https://www.aljazeera.com/opinions/2023/1/23/sweatshops-are-making-our-digital-age-work) • 4h ago
 
 ---
 
@@ -97,7 +105,7 @@ The latest ChatGPT revelations are yet another reminder of the pervasive labour 
 
 I wanted a version to read on Kindle, so I made the following. The EPUB + PDF version is here: https://www.adithyan.io/blog/kindle-ready-adolescence-of-technology Original essay: https://www.darioamodei.com/essay/the-adolescence-of-technology
 
-3h ago
+5h ago
 
 ---
 
@@ -105,15 +113,7 @@ I wanted a version to read on Kindle, so I made the following. The EPUB + PDF ve
 
 Needless to say, a good enough brain emulation would be an artificial general intelligence. Personally, i don't think most connections need to be mapped.
 
-🔗 [arXiv.org](https://arxiv.org/abs/2510.15745) • 4h ago
-
----
-
-**[How do you get away with tasks which you feel are boring, and 'beneath you'](https://www.reddit.com/r/artificial/comments/1qnk7zd/how_do_you_get_away_with_tasks_which_you_feel_are/)**
-
-I don't know how much this is a case with SWEs, but most people I have met in AI are quite opiniated about what they consider to be 'boring work' which is for a lack of better word might be 'beneath them". Maybe that is some data cleaning work, or creating documentation, attending meetings, incremental finetunings etc etc While all they want to work on is interesting modelling work, and creating the next big thing? How do you avoid being pigeon-holed into some boring but important work vs working on tasks which are really interesting but have been maybe assinged to someone else? Also, is having a strong taste for problems a good thing for you career? Or feeling that any task being "beneath you" just a red flag for a professional?
-
-9h ago
+🔗 [arXiv.org](https://arxiv.org/abs/2510.15745) • 6h ago
 
 ---
 
@@ -123,7 +123,7 @@ I don't know how much this is a case with SWEs, but most people I have met in AI
 
 **[Yann LeCun, an A.I. Pioneer, Warns the Tech ‘Herd’ Could Hit a Dead End](https://www.nytimes.com/2026/01/26/technology/an-ai-pioneer-warns-the-tech-herd-is-marching-into-a-dead-end.html)**
 
-The New York Times • 15h ago
+The New York Times • 17h ago
 
 ---
 
@@ -131,23 +131,29 @@ The New York Times • 15h ago
 
 The GDP value of AI is smaller than it might appear given that a lot of high-tech equipment is imported, according to a recent MRB Partners report.
 
-CNBC • 7h ago
+CNBC • 9h ago
 
 ---
 
-**[Qualcomm backs SpotDraft to scale on-device contract AI with valuation doubling toward $400M](https://techcrunch.com/2026/01/26/qualcomm-backs-spotdraft-to-scale-on-device-contract-ai-with-valuation-doubling-toward-400m/)**
+**[AI and Affordability Dominate First Day of BloombergNEF Energy Summit](https://www.bloomberg.com/news/articles/2026-01-27/ai-and-affordability-dominate-bloombergnef-san-francisco-energy-summit)**
 
-SpotDraft now processes over 1 million contracts annually using its AI tool, with contract volumes up 173% year-over-year.
-
-TechCrunch • 26m ago
+Bloomberg.com • 1h ago
 
 ---
 
-**[This Artificial Intelligence (AI) Stock, Up 28,700% Since Its IPO, Could Be the Biggest Bargain of the Decade](https://finance.yahoo.com/news/artificial-intelligence-ai-stock-28-012000978.html)**
+**[Clickbait and 'AI slop' distort memory of Holocaust](https://www.yahoo.com/news/articles/clickbait-ai-slop-distort-memory-031009694.html)**
 
-Semiconductor stocks have been among the biggest winners of the artificial intelligence (AI) revolution so far.
+An emaciated and apparently blind man stands in the snow at the Nazi concentration camp of Flossenbuerg: the image seems real at first but is part of a wave of AI-generated content about the Holocaust.By distorting history, AI-generated images have "very concrete consequences for how people perceive the Nazi era", says Groschek.
 
-Yahoo Finance • 20m ago
+Yahoo • 40m ago
+
+---
+
+**[Sam Altman said OpenAI was planning to 'dramatically slow down' its pace of hiring](https://www.businessinsider.com/sam-altman-said-openai-plan-dramatically-slow-down-hiring-ai-2026-1)**
+
+The OpenAI CEO said during a town hall event that OpenAI will "hire more slowly but keep hiring" because AI lets the company do more with less people.
+
+Business Insider • 30m ago
 
 ---
 
@@ -155,7 +161,7 @@ Yahoo Finance • 20m ago
 
 The technology will expand their scope and raise their value
 
-The Economist • 5h ago
+The Economist • 7h ago
 
 ---
 
@@ -167,19 +173,19 @@ Axios • 8h ago
 
 ---
 
-**[Angry gamers are forcing studios to scrap or rethink new releases](https://www.washingtonpost.com/technology/2026/01/26/gamer-protests-ai-slop-backlash/)**
-
-Gamers suspicious of AI-generated content have forced developers to cancel titles and promise not to use the technology.
-
-The Washington Post • 7h ago
-
----
-
 **[Maia 200: The AI accelerator built for inference](https://blogs.microsoft.com/blog/2026/01/26/maia-200-the-ai-accelerator-built-for-inference/)**
 
 Today, we’re proud to introduce Maia 200, a breakthrough inference accelerator engineered to dramatically improve the economics of AI token generation. Maia 200 is an AI inference powerhouse: an accelerator built on TSMC’s 3nm process with native FP8/FP4 tensor cores, a redesigned memory system with 216GB HBM3e at 7 TB/s and 272MB of on-chip SRAM, plus...
 
-The Official Microsoft Blog • 9h ago
+The Official Microsoft Blog • 11h ago
+
+---
+
+**[Angry gamers are forcing studios to scrap or rethink new releases](https://www.washingtonpost.com/technology/2026/01/26/gamer-protests-ai-slop-backlash/)**
+
+Gamers suspicious of AI-generated content have forced developers to cancel titles and promise not to use the technology.
+
+The Washington Post • 9h ago
 
 ---
 
@@ -187,15 +193,7 @@ The Official Microsoft Blog • 9h ago
 
 Britain is losing more jobs than it creates owing to artificial intelligence, Morgan Stanley research suggests
 
-The Guardian • 17h ago
-
----
-
-**[Social media users turn to AI in attempt to 'enhance' US shooting images](https://www.bbc.com/news/live/c86vy97g8zgt)**
-
-Latest updates from the BBC's specialists in fact-checking, verifying video and tackling disinformation.
-
-BBC • 8h ago
+The Guardian • 19h ago
 
 ---
 
@@ -207,21 +205,13 @@ BBC • 8h ago
 
 Related News Sweeping review reveals latest evidence on the diagnosis, treatment, and monitoring of ADHD March 25, 2024 Fluoride exposure during pregnancy linked to increased risk of childhood neurobehavioral problems, […]
 
-⬆️ 592 • 💬 627 • 2d ago • [Newsroom](https://keck.usc.edu/news/adoption-of-electric-vehicles-tied-to-real-world-reductions-in-air-pollution-study-finds/)
+⬆️ 592 • 💬 629 • 2d ago • [Newsroom](https://keck.usc.edu/news/adoption-of-electric-vehicles-tied-to-real-world-reductions-in-air-pollution-study-finds/)
 
 ---
 
 **[France Aiming to Replace Zoom, Google Meet, Microsoft Teams, etc.](https://news.ycombinator.com/item?id=46767668)**
 
-⬆️ 520 • 💬 445 • 9h ago • [X (formerly Twitter)](https://twitter.com/lellouchenico/status/2015775970330882319)
-
----
-
-**[Clawdbot - open source personal AI assistant](https://news.ycombinator.com/item?id=46760237)**
-
-Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞  - GitHub - clawdbot/clawdbot: Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞
-
-⬆️ 365 • 💬 219 • 1d ago • [GitHub](https://github.com/clawdbot/clawdbot)
+⬆️ 564 • 💬 472 • 11h ago • [X (formerly Twitter)](https://twitter.com/lellouchenico/status/2015775970330882319)
 
 ---
 
@@ -229,7 +219,15 @@ Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞  - G
 
 Exclusive: German research into responses to health queries raises fresh questions about summaries seen by 2bn people a month
 
-⬆️ 355 • 💬 194 • 11h ago • [the Guardian](https://www.theguardian.com/technology/2026/jan/24/google-ai-overviews-youtube-medical-citations-study)
+⬆️ 369 • 💬 197 • 13h ago • [the Guardian](https://www.theguardian.com/technology/2026/jan/24/google-ai-overviews-youtube-medical-citations-study)
+
+---
+
+**[Clawdbot - open source personal AI assistant](https://news.ycombinator.com/item?id=46760237)**
+
+Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞  - GitHub - clawdbot/clawdbot: Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞
+
+⬆️ 366 • 💬 221 • 1d ago • [GitHub](https://github.com/clawdbot/clawdbot)
 
 ---
 
@@ -237,7 +235,7 @@ Exclusive: German research into responses to health queries raises fresh questio
 
 Apple today unveiled the new AirTag, now with an expanded finding range and a louder speaker.
 
-⬆️ 261 • 💬 366 • 11h ago • [Apple Newsroom](https://www.apple.com/newsroom/2026/01/apple-introduces-new-airtag-with-expanded-range-and-improved-findability/)
+⬆️ 306 • 💬 415 • 13h ago • [Apple Newsroom](https://www.apple.com/newsroom/2026/01/apple-introduces-new-airtag-with-expanded-range-and-improved-findability/)
 
 ---
 
@@ -245,7 +243,7 @@ Apple today unveiled the new AirTag, now with an expanded finding range and a lo
 
 Opinion: Autonomous agents may generate millions of lines of code, but shipping software is another matter
 
-⬆️ 193 • 💬 117 • 6h ago • [theregister.com](https://www.theregister.com/2026/01/26/cursor_opinion/)
+⬆️ 199 • 💬 123 • 8h ago • [theregister.com](https://www.theregister.com/2026/01/26/cursor_opinion/)
 
 ---
 
@@ -253,13 +251,19 @@ Opinion: Autonomous agents may generate millions of lines of code, but shipping 
 
 Today everybody's doing AI code review. Here's how Greptile's viewpoint is differentiated - independence, autonomy, and feedback loops.
 
-⬆️ 165 • 💬 131 • 10h ago • [greptile.com](https://www.greptile.com/blog/ai-code-review-bubble)
+⬆️ 197 • 💬 141 • 12h ago • [greptile.com](https://www.greptile.com/blog/ai-code-review-bubble)
 
 ---
 
 **[Case study: Creative math – How AI fakes proofs](https://news.ycombinator.com/item?id=46759352)**
 
-⬆️ 120 • 💬 90 • 1d ago • [tomaszmachnik.pl](https://tomaszmachnik.pl/case-study-math-en.html)
+⬆️ 121 • 💬 90 • 1d ago • [tomaszmachnik.pl](https://tomaszmachnik.pl/case-study-math-en.html)
+
+---
+
+**[AI code and software craft](https://news.ycombinator.com/item?id=46769188)**
+
+⬆️ 103 • 💬 70 • 9h ago • [alexwennerberg.com](https://alexwennerberg.com/blog/2026-01-25-slop.html)
 
 ---
 
@@ -268,14 +272,6 @@ Today everybody's doing AI code review. Here's how Greptile's viewpoint is diffe
 Interactive map of 59,000+ active US Coast Guard lighthouses and navigational aids with animated light patterns.
 
 ⬆️ 96 • 💬 20 • 1d ago • [lighthouses.app](https://www.lighthouses.app/)
-
----
-
-**[Like digging 'your own grave': The translators grappling with losing work to AI](https://news.ycombinator.com/item?id=46751835)**
-
-While workers worldwide ponder how artificial intelligence might affect their livelihoods, there’s one sector where that question is no longer hypothetical. Machine translation has reduced the amount of work available to human translators and interpreters, and depressed their earnings.
-
-⬆️ 85 • 💬 71 • 1d ago • [CNN](https://www.cnn.com/2026/01/23/tech/translation-language-jobs-ai-automation-intl)
 
 ---
 
@@ -359,7 +355,7 @@ Here's the AI News you probably missed this week. Learn more about Box Extract h
 
 📺 Matt Wolfe
 
-👁️ 61K • 👍 3K • 💬 338 • ⏱️ 28:01 • 2d ago
+👁️ 61K • 👍 3K • 💬 338 • ⏱️ 28:01 • 3d ago
 
 ---
 
@@ -369,7 +365,7 @@ rzlv #rezolveai #aistocks We are going to be going over Rezolve AI Stock and the
 
 📺 The Creative Investor
 
-👁️ 1K • 👍 109 • 💬 73 • ⏱️ 20:07 • 2h ago
+👁️ 1K • 👍 109 • 💬 73 • ⏱️ 20:07 • 4h ago
 
 ---
 
@@ -379,7 +375,7 @@ HUGE AI NEWS: PersonaPlex, Step3 VL, Qwen3 TTS, FlowAct R1, VideoMama, VIGA & mo
 
 📺 AI Search
 
-👁️ 64K • 👍 3K • 💬 316 • ⏱️ 41:25 • 1d ago
+👁️ 64K • 👍 3K • 💬 316 • ⏱️ 41:25 • 2d ago
 
 ---
 
@@ -455,7 +451,7 @@ GLM-4.7-Flash is a 30B-A3B MoE model offering a balance of performance and effic
 
 `text-generation` `29.9B`
 
-⬇️ 228,183 • ❤️ 341 • 2d ago
+⬇️ 228,183 • ❤️ 341 • 3d ago
 
 ---
 
@@ -467,7 +463,7 @@ AgentCPM-Report is an 8B parameter LLM agent optimized for generating long-form,
 
 `8.2B`
 
-⬇️ 749 • ❤️ 261 • 20h ago
+⬇️ 749 • ❤️ 261 • 22h ago
 
 ---
 
@@ -479,7 +475,7 @@ Chroma-4B is a real-time, end-to-end spoken dialogue model capable of speech und
 
 `any-to-any` `5.9B`
 
-⬇️ 5,159 • ❤️ 249 • 19h ago
+⬇️ 5,159 • ❤️ 249 • 21h ago
 
 ---
 
@@ -662,7 +658,7 @@ Browser automation CLI for AI agents
 
 `TypeScript`
 
-⭐ 10.8k • 🔱 594 • 1h ago
+⭐ 10.8k • 🔱 594 • 3h ago
 
 ---
 
@@ -682,7 +678,7 @@ Ralph is an autonomous AI agent loop that runs repeatedly until all PRD items ar
 
 `TypeScript`
 
-⭐ 8.0k • 🔱 938 • 3d ago
+⭐ 8.0k • 🔱 938 • 4d ago
 
 ---
 
@@ -692,7 +688,7 @@ Ralph is an autonomous AI agent loop that runs repeatedly until all PRD items ar
 
 `Vue`
 
-⭐ 6.2k • 🔱 1.1k • 11h ago
+⭐ 6.2k • 🔱 1.1k • 13h ago
 
 ---
 
@@ -702,7 +698,7 @@ LLM驱动的 A/H/美股智能分析器，多数据源行情 + 实时新闻 + Gem
 
 `Python` `agent` `ai` `aigc` `gemini` `llm`
 
-⭐ 5.7k • 🔱 6.1k • 12h ago
+⭐ 5.7k • 🔱 6.1k • 14h ago
 
 ---
 
@@ -712,7 +708,7 @@ Marketing skills for Claude Code and AI agents. CRO, copywriting, SEO, analytics
 
 `claude` `codex` `marketing`
 
-⭐ 4.8k • 🔱 516 • 13m ago
+⭐ 4.8k • 🔱 516 • 2h ago
 
 ---
 
@@ -722,7 +718,7 @@ The Ultimate Collection of 200+ Agentic Skills for Claude Code/Antigravity/Curso
 
 `Python` `agentic-skills` `ai-agents` `antigravity` `autonomous-coding` `claude-code`
 
-⭐ 3.8k • 🔱 889 • 6h ago
+⭐ 3.8k • 🔱 889 • 8h ago
 
 ---
 
@@ -730,7 +726,7 @@ The Ultimate Collection of 200+ Agentic Skills for Claude Code/Antigravity/Curso
 
 Claude Code skill that removes signs of AI-generated writing from text
 
-⭐ 3.2k • 🔱 264 • 3d ago
+⭐ 3.2k • 🔱 264 • 4d ago
 
 ---
 
@@ -740,7 +736,7 @@ OpenSource Claude Cowork. A desktop AI assistant that helps you with programming
 
 `TypeScript`
 
-⭐ 2.5k • 🔱 349 • 3d ago
+⭐ 2.5k • 🔱 349 • 4d ago
 
 ---
 
