@@ -3,7 +3,7 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-01-27T20:47:56.460819+00:00'
+updated: '2026-01-27T21:19:22.763198+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
@@ -18,7 +18,7 @@ data_types:
 
 AI news, discussions, and developments
 
-**Last Updated:** January 27, 2026 at 20:47 UTC  
+**Last Updated:** January 27, 2026 at 21:19 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -41,7 +41,7 @@ AI news, discussions, and developments
 
 Generic AI can summarize documents and answer simple questions. But it fails at complex, specialized work in industries like aerospace, semiconductors, manufacturing, and logistics. The core issue isn't models, it's the context or scaffolding around them When enterprises try to build expert AI, they face a hard tradeoff: Build it yourself: Fully customizable, but requires scarce AI expertise, months of development, and constant optimization. Buy off-the-shelf: Fast to deploy, but inflexible. Hard to customize and doesn't scale across use cases. We took a different approach: a platform approach with a unified context layer specialized for domain-specific tasks. Today, we launched Agent Composer, with orchestration capabilities that enable: Multi-step reasoning (decompose problems, iterate solutions, revise outputs) Multi-tool coordination (docs, logs, web search, APIs in the same workflow) Hybrid agentic behavior (dynamic agent steps + static workflow control) It works: Advanced manufacturing: root cause analysis from 8 hours to 20 minutes Global consulting firm: research from hours to seconds Tech-enabled 3PL: 60x faster issue resolution Test equipment: code generation in minutes instead of days Spending time on the integrating context with AI worked for us on Enterprise AI problems. To get more details about our approach, check out the blog post: https://contextual.ai/blog/introducing-agent-composer
 
-1h ago
+2h ago
 
 ---
 
@@ -49,7 +49,7 @@ Generic AI can summarize documents and answer simple questions. But it fails at 
 
 Ever since I started using LLMs in early 2023, my life has genuinely changed. Productivity and the speed of getting deep information just increased by 10x. Curious to know what are some of your favorite LLMs in 2026? For most of 2023-24, I was a diehard ChatGPT user. Used it for almost everything, helped me launch my e-commerce brands, systematize my marketing agency, and just general day-to-day decision making. Entering 2025, GPT-4 and 5 started feeling really robotic. It lost that human touch as more users flooded in. GPT got overtaken by Gemini with the launch of Nanobanana 1 and 2. Content creation and creative generation became so much quicker, more accurate, and sharper. Video generation with Veo3 was a game changer for creating briefs for designers. That said, Gemini still lacked the human warmth that GPT 4.0 had. The vibe coding/build function though, it was Incredible. Generated a full landing page in a matter of minutes. Now in 2026, I've ported 90% of my work to Anthropic's Claude. I work with a ton of data now, and Claude's coding capabilities can break down hundreds of spreadsheets in minutes. Among the 3 LLMs, Claude feels the closest to talking to an actual human. The analysis and responses are way more concise compared to GPT and Gemini. My top 3: Claude: Overall champion. Strong coding capabilities, responses that actually sound human, and solid copywriting skills. Gemini: Runner-up. Great all-rounder with Nanobanana, Veo3, app building, and presentation slides. GPT: Decent... meh. What are your takes? Anyone doing anything crazy with these that I should know about? Would love to hear your thoughts and swap ideas. Looking at more ways too amplify my productivity within the marketing and business space.
 
-12h ago
+13h ago
 
 ---
 
@@ -61,7 +61,7 @@ Determined to use her skills to fight inequality, South African computer scienti
 
 In Africa, AI is gradually making its way into technologies such as advanced surveillance systems and combat drones, which are being deployed to fight organised crime, extremist groups, and violent insurgencies. Though the long-term potential for AI to impact military operations in Africa is undeniable, its impact on organised violence has so far been limited. These limits reflect both the novelty and constraints of existing AI-enabled technology.
 
-🔗 [allAfrica.com](https://allafrica.com/view/group/main/main/id/00081207.html) • 7h ago
+🔗 [allAfrica.com](https://allafrica.com/view/group/main/main/id/00081207.html) • 8h ago
 
 ---
 
@@ -85,7 +85,7 @@ Meta is blocking teens worldwide from accessing AI chatbot characters while it r
 
 A new AHA Market Scan Trailblazer report suggests tat rural hospital constraints related to operating margins, workforce shortages, geographic isolation, and growing administrative burden may be accelerating a more pragmatic and targeted approach to artificial intelligence adoption.
 
-🔗 [American Hospital Association](https://www.aha.org/aha-center-health-innovation-market-scan/2026-01-27-rural-hospitals-and-ai-advantage-turning-constraints-catalysts) • 4h ago
+🔗 [American Hospital Association](https://www.aha.org/aha-center-health-innovation-market-scan/2026-01-27-rural-hospitals-and-ai-advantage-turning-constraints-catalysts) • 5h ago
 
 ---
 
@@ -93,7 +93,7 @@ A new AHA Market Scan Trailblazer report suggests tat rural hospital constraints
 
 Philips will soon show off its new AI-ready digital signage at ISE 2026 in Barcelona. The 5000 series is the "most intelligent" to date.
 
-🔗 [PC Guide](https://www.pcguide.com/news/philips-unveils-first-ai-ready-advertising-boards-digital-signage-ranging-from-32-to-98-to-be-demoed-soon/) • 5h ago
+🔗 [PC Guide](https://www.pcguide.com/news/philips-unveils-first-ai-ready-advertising-boards-digital-signage-ranging-from-32-to-98-to-be-demoed-soon/) • 6h ago
 
 ---
 
@@ -101,7 +101,7 @@ Philips will soon show off its new AI-ready digital signage at ISE 2026 in Barce
 
 EU Investigates X Over Alleged Failures to Curb Illegal Grok AI Content.[1] Microsoft announces powerful new chip for AI inference.[2] A Coding Implementation to Automating LLM Quality Assurance with DeepEval, Custom Retrievers, and LLM-as-a-Judge Metrics.[3] YouTubers sue Snap for alleged copyright infringement in training its AI models.[4] Sources: [1] https://www.yahoo.com/news/articles/eu-investigates-x-over-alleged-042420125.html [2] https://techcrunch.com/2026/01/26/microsoft-announces-powerful-new-chip-for-ai-inference/ [3] https://www.marktechpost.com/2026/01/25/a-coding-implementation-to-automating-llm-quality-assurance-with-deepeval-custom-retrievers-and-llm-as-a-judge-metrics/ [4] https://techcrunch.com/2026/01/26/youtubers-sue-snap-for-alleged-copyright-infringement-in-training-its-ai-models/
 
-14h ago
+15h ago
 
 ---
 
@@ -117,13 +117,21 @@ Hi I am a cs undergrad working on project where I need to search for models whic
 
 Meta is testing premium subscriptions on Instagram, Facebook, and WhatsApp, offering advanced features, AI tools, and enhanced controls while keeping core services free.
 
-🔗 [techputs](https://techputs.com/meta-premium-subscriptions/) • 16h ago
+🔗 [techputs](https://techputs.com/meta-premium-subscriptions/) • 17h ago
 
 ---
 
 ---
 
 ## Google News: "ai"
+
+**[Introducing Prism](https://openai.com/index/introducing-prism/)**
+
+Accelerating science writing and collaboration with AI.
+
+OpenAI • 4h ago
+
+---
 
 **[‘Wake up to the risks of AI, they are almost here,’ Anthropic boss warns](https://www.theguardian.com/technology/2026/jan/27/wake-up-to-the-risks-of-ai-they-are-almost-here-anthropic-boss-warns)**
 
@@ -137,67 +145,61 @@ The Guardian • 2h ago
 
 "Humanity is about to be handed almost unimaginable power."
 
-Axios • 10h ago
+Axios • 1d ago
 
 ---
 
-**[Dario Amodei warns AI may cause ‘unusually painful’ disruption to jobs](https://www.cnbc.com/2026/01/27/dario-amodei-warns-ai-cause-unusually-painful-disruption-jobs.html)**
+**[Video AI CEO warns governments and companies of bad actors using the tech](https://abcnews.go.com/Technology/video/ai-ceo-warns-governments-companies-bad-actors-tech-129610550)**
 
-"The pace of progress in AI is much faster than for previous technological revolutions," the Antrhopic CEO said in latest comments about AI's impact on jobs.
+Anthropic CEO Dario Amodei called for an embargo on the sale of chips and data centers to China, to reduce AI's dangers. He also wants to see transparency laws and heftier taxes on big AI companies.
 
-CNBC • 2h ago
-
----
-
-**[Pinterest laying off 15% of workforce as part of AI push; stock plummets](https://www.cnbc.com/2026/01/27/pinterest-layoffs-stock-ai.html)**
-
-The company said it's "reallocating resources" to roles and teams focused on artificial intelligence.
-
-CNBC • 7h ago
+ABC News • 5m ago
 
 ---
 
-**[Pinterest cuts up to 15% jobs to prioritize AI push, shares sink](https://www.reuters.com/business/world-at-work/pinterest-cuts-nearly-15-jobs-redirect-resources-ai-2026-01-27/)**
+**[AI Sifts Through a Mountain of Hubble Data, Uncovers Hundreds of Cosmic Weirdos](https://gizmodo.com/ai-sifts-through-a-mountain-of-hubble-data-uncovers-hundreds-of-cosmic-weirdos-2000714639)**
 
-Reuters • 4h ago
+Using a brand new data analysis tool, astronomers identified more than 800 strange and previously undocumented space objects.
 
----
-
-**[Pinterest cites artificial intelligence in laying off 15% of workforce](https://www.cbsnews.com/news/pinterest-layoffs-workforce-artificial-intelligence/)**
-
-Pinterest is cutting costs to create more cash flow for AI-focused roles and AI‑powered products, the company said in a filing Tuesday.
-
-CBS News • 1h ago
+Gizmodo • 43m ago
 
 ---
 
-**[How porn stars can survive in the age of AI](https://www.economist.com/business/2026/01/27/how-porn-stars-can-survive-in-the-age-of-ai)**
+**[OpenAI CFO Sarah Friar: There's a 'mismatch' between AI's abilities and the value companies are capturing](https://fortune.com/2026/01/27/openai-cfo-sarah-friar-mismatch-ai-abilities-value-companies-capturing/)**
 
-A dispatch from the world’s premier porn conference
+There’s a growing gap between AI's potential and how companies actually use it.
 
-The Economist • 1h ago
-
----
-
-**['Doomsday Clock' Moves Closer to Midnight Than Ever](https://time.com/7358249/doomsday-clock-midnight/)**
-
-Scientists cited artificial intelligence and how it’s used to supercharge disinformation as a new risk.
-
-Time Magazine • 1h ago
+Fortune • 16m ago
 
 ---
 
-**[Nvidia Just Doubled Down on Its Largest AI Holding. Should Investors Follow Suit?](https://www.fool.com/investing/2026/01/27/nvidia-just-doubled-down-on-its-largest-ai-holding/)**
+**[AI Is Transforming the Economy—Not Destroying It](https://www.cato.org/blog/ai-transforming-economy-not-destroying-it)**
 
-The AI-centric neocloud provider just got a huge vote of confidence.
+When it comes to AI and the workforce, we should ask a simple question: are we making it easier or harder for someone to start tomorrow what doesn’t exist today?
 
-The Motley Fool • 4h ago
+Cato Institute • 15m ago
 
 ---
 
-**[AI Chip Clock Maker Sets Up After 2,557% Gain](https://www.investors.com/research/ai-stock-chip-sitime-sitm-stock/)**
+**[Microsoft Pledged to Save Water. In the A.I. Era, It Expects Water Use to Soar.](https://www.nytimes.com/2026/01/27/technology/microsoft-water-ai-data-centers.html)**
 
-Investor's Business Daily • 3h ago
+The New York Times • 4h ago
+
+---
+
+**[People are protesting AI data centers, and it's scrambling political lines](https://www.npr.org/2026/01/25/nx-s1-5684321/trump-ai)**
+
+Data centers used to fuel AI are popping up all over the U.S., and they're becoming a midterm issue for voters that's now drawing White House attention.
+
+NPR • 1d ago
+
+---
+
+**[This university campus is heated by an AI data center. Your home could be next](https://www.cnbc.com/2026/01/27/data-centers-ai-district-heating-aws-amazon-ireland.html)**
+
+AI’s energy problem may also be its solution, as cities are increasingly exploring opportunities to repurpose excess heat from data centers.
+
+CNBC • 15h ago
 
 ---
 
@@ -289,7 +291,7 @@ Dario Amodei, the CEO of the AI company Anthropic, joined "Top Story" to discuss
 
 📺 NBC News
 
-👁️ 3K • 👍 101 • 💬 37 • ⏱️ 18:01 • 4h ago
+👁️ 3K • 👍 101 • 💬 37 • ⏱️ 18:01 • 5h ago
 
 ---
 
@@ -309,7 +311,7 @@ Create Animated Cartoons with OpenArt https://youricreates.com/cartoons In this 
 
 📺 Youri van Hofwegen
 
-👁️ 7K • 💬 7 • ⏱️ 15:48 • 4h ago
+👁️ 7K • 💬 7 • ⏱️ 15:48 • 5h ago
 
 ---
 
@@ -319,7 +321,7 @@ Meta is giving Corning up to $6 billion for fiber-optic cable in its AI data cen
 
 📺 CNBC
 
-👁️ 31K • 👍 991 • 💬 80 • ⏱️ 17:45 • 5h ago
+👁️ 31K • 👍 991 • 💬 80 • ⏱️ 17:45 • 6h ago
 
 ---
 
@@ -349,7 +351,7 @@ Access Every Image Generator in OpenArt https://roboverse-ai.com/images In this 
 
 📺 Roboverse
 
-👁️ 8K • 💬 9 • ⏱️ 13:19 • 6h ago
+👁️ 8K • 💬 9 • ⏱️ 13:19 • 7h ago
 
 ---
 
@@ -379,7 +381,7 @@ Best AI App builder is Base44 https://base44.pxf.io/c/6440076/2049275/25619?traf
 
 📺 Mikey No Code
 
-👁️ 12K • 💬 15 • ⏱️ 20:46 • 6h ago
+👁️ 12K • 💬 15 • ⏱️ 20:46 • 7h ago
 
 ---
 
@@ -407,7 +409,7 @@ VibeVoice-ASR is a unified speech-to-text model capable of processing up to 60 m
 
 `automatic-speech-recognition` `8.7B`
 
-⬇️ 76,679 • ❤️ 642 • 7h ago
+⬇️ 76,679 • ❤️ 642 • 8h ago
 
 ---
 
@@ -443,7 +445,7 @@ Kimi K2.5 is a native multimodal agentic model with 1T parameters, excelling in 
 
 `image-text-to-text`
 
-⬇️ 10,965 • ❤️ 524 • 8h ago
+⬇️ 10,965 • ❤️ 524 • 9h ago
 
 ---
 
@@ -467,7 +469,7 @@ DeepSeek-OCR-2 is a multilingual vision-language model for image-to-text tasks, 
 
 `image-text-to-text` `3.4B`
 
-⬇️ 0 • ❤️ 317 • 9h ago
+⬇️ 0 • ❤️ 317 • 10h ago
 
 ---
 
@@ -491,7 +493,7 @@ Z-Image is an undistilled, high-fidelity text-to-image diffusion transformer mod
 
 `text-to-image`
 
-⬇️ 0 • ❤️ 249 • 4h ago
+⬇️ 0 • ❤️ 249 • 5h ago
 
 ---
 
@@ -697,7 +699,7 @@ Ralph is an autonomous AI agent loop that runs repeatedly until all PRD items ar
 
 `Vue`
 
-⭐ 6.3k • 🔱 1.1k • 10h ago
+⭐ 6.3k • 🔱 1.1k • 11h ago
 
 ---
 

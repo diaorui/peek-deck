@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-01-27T20:47:56.469756+00:00'
+updated: '2026-01-27T21:19:22.771619+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
 - social
+- cryptocurrency
 - videos
 - news
-- cryptocurrency
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** January 27, 2026 at 20:47 UTC  
+**Last Updated:** January 27, 2026 at 21:19 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -44,11 +44,11 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Chart
 
-**24h:** +1.0%  
-**7d:** -1.3%  
-**30d:** +1.4%  
-**90d:** -18.3%  
-**1y:** -12.8%  
+**24h:** +1.4%  
+**7d:** -0.3%  
+**30d:** +2.4%  
+**90d:** -17.5%  
+**1y:** -11.9%  
 
 ---
 
@@ -79,7 +79,7 @@ Rank #1
 
 **[still hodling](https://www.reddit.com/r/Bitcoin/comments/1qoarog/still_hodling/)**
 
-9h ago
+10h ago
 
 ---
 
@@ -107,7 +107,7 @@ HODL.
 
 I'm a teenager from a third world country, and I'm glad to share that I'm finally achieving my goal. Building wealth in my country isn't as easy as it is in Europe or the US, especially at my age. Because of that, my friends have called me a cheapskate (and sometimes they've been right). Now that I've accumulated enough Bitcoin (an amount that feels sufficient to me), I can finally start spending future income on clothes, the gym, gifts for my girlfriend, and other things I've been putting off to keep investing. Having this nest egg at 19 feels like a huge accomplishment, and I'm proud to share it with you. I can finally enjoy typical teenage stuff without feeling guilty :)
 
-1h ago
+2h ago
 
 ---
 
@@ -121,7 +121,7 @@ I'm making this post to vent and get some opinions. I'm scared. I'm 19, and this
 
 **[The majority of the top US banks are now into Bitcoin 🚀](https://www.reddit.com/r/Bitcoin/comments/1qohu4h/the_majority_of_the_top_us_banks_are_now_into/)**
 
-4h ago
+5h ago
 
 ---
 
@@ -139,7 +139,7 @@ I'm making this post to vent and get some opinions. I'm scared. I'm 19, and this
 
 **[Still here !!](https://www.reddit.com/r/Bitcoin/comments/1qo8o7j/still_here/)**
 
-11h ago
+12h ago
 
 ---
 
@@ -149,59 +149,35 @@ I'm making this post to vent and get some opinions. I'm scared. I'm 19, and this
 
 **[Silver overtakes bitcoin’s post-2017 gains as price blows past $115](https://www.theblock.co/post/387138/silver-overtakes-bitcoin-post-2017-gains-price-blows-past-115)**
 
-The Block • 22h ago
+The Block • 23h ago
 
 ---
 
 **[Bitcoin Miners Power Down US Operations in Wake of Winter Storm](https://www.bloomberg.com/news/articles/2026-01-26/bitcoin-miners-power-down-us-operations-in-wake-of-winter-storm)**
 
-Bloomberg • 22h ago
+Bloomberg.com • 22h ago
 
 ---
 
-**[Bitcoin’s Falling Price Puts Miners on Edge](https://decrypt.co/356011/bitcoins-falling-price-puts-miners-on-edge)**
+**[Bitcoin miners Cleanspark, IREN, and TeraWulf among those lower after NVDA/CRWV deal](https://www.coindesk.com/markets/2026/01/26/here-are-the-winners-and-losers-from-nvidia-s-usd2b-coreweave-investment)**
 
-Data from the CBECI suggest that any miner paying at least $0.10 per kWh for energy will be making a loss on each Bitcoin mined.
+Nvidia’s deepened partnership with CoreWeave raises pressure on bitcoin miners pivoting to AI infrastructure.
 
-Decrypt • 8h ago
-
----
-
-**[Arctic Blast Forces US Bitcoin Miners to Cut Operations as Power Costs Surge](https://finance.yahoo.com/news/arctic-blast-forces-us-bitcoin-183440788.html)**
-
-Hash rate drops sharply as US-based mining pools scale back amid extreme cold and strained power grids.
-
-Yahoo Finance • 2h ago
+CoinDesk • 1d ago
 
 ---
 
-**[BlackRock Files With SEC to Launch iShares Bitcoin Premium Income ETF](https://finance.yahoo.com/news/blackrock-files-sec-launch-ishares-163132104.html)**
+**[Jacob & Co. X Bitcoin? Luxury Watch Maker Unveils BTC-Themed Watch In Partnership With Miner](https://finance.yahoo.com/news/jacob-co-x-bitcoin-luxury-194036452.html)**
 
-BlackRock filed for a Bitcoin income ETF using an options strategy to generate premium income for investors beyond spot price gains.
+A Bitcoin-themed watch limited to 100 pieces has been added to Jacob & Co.'s Epic X Bridges collection through a partnership with Bitcoin mining company GoMining. GoMining recently announced Epic X GoMining, a 44 mm skeleton dial Bitcoin-themed Jacob &...
 
-Yahoo Finance • 1d ago
-
----
-
-**[BlackRock looks to bring yield-generation to Bitcoin investments with iShares Bitcoin Premium Income ETF](https://www.theblock.co/post/387089/blackrock-looks-to-bring-yield-generation-to-bitcoin-investments-with-ishares-bitcoin-premium-income-etf)**
-
-The iShares Bitcoin Premium Income ETF would hold bitcoin directly and generate yield from selling IBIT option premiums.
-
-The Block • 1d ago
-
----
-
-**[Bitcoin ETFs Turn Positive After Five-Day $1.7B Losing Streak](https://finance.yahoo.com/news/bitcoin-etfs-turn-positive-five-183628338.html)**
-
-Bitcoin ETFs saw a modest $6.8 million in net inflows Monday, putting an end to a five-day streak of outflows.
-
-Yahoo Finance • 2h ago
+Yahoo Finance • 1h ago
 
 ---
 
 **[Bitcoin Volatility to Start 2026, China Drove Crypto Crime in 2025 | Bloomberg Crypto 1/27/2026](https://www.bloomberg.com/news/videos/2026-01-27/bloomberg-crypto-1-27-2026-video)**
 
-Bloomberg • 1h ago
+Bloomberg.com • 2h ago
 
 ---
 
@@ -218,6 +194,28 @@ Bitcoin Magazine • 1h ago
 The move came only a week after executive chairman Michael Saylor made a separate $2 billion Bitcoin purchase.
 
 Fortune • 1d ago
+
+---
+
+**[Bitcoin Just Passed the $90,000 Mark. Can These 3 Tailwinds Help It Hold That Price?](https://www.fool.com/investing/2026/01/27/bitcoin-just-passed-the-90000-mark-can-these-3-tai/)**
+
+Bitcoin's push above $90,000 may be the start of an extended rally.
+
+The Motley Fool • 1h ago
+
+---
+
+**[Bitcoin remains coiled under $88,500 as gold tops $5,000, silver gives back gains](https://www.coindesk.com/markets/2026/01/27/bitcoin-remains-coiled-under-usd88-500-as-gold-tops-usd5-000-silver-gives-back-gains)**
+
+Bitcoin traded lower alongside most major tokens as investors favored gold and silver ahead of the Federal Reserve decision and a heavy week of Magnificent Seven earnings.
+
+CoinDesk • 15h ago
+
+---
+
+**[Bitcoin lacks direction as precious metals outshine crypto (BTC-USD:Cryptocurrency)](https://seekingalpha.com/news/4542886-bitcoin-lacks-direction-as-precious-metals-outshine-crypto)**
+
+Seeking Alpha • 6h ago
 
 ---
 
@@ -246,7 +244,7 @@ rewards for mining operations will dwindle. What happens next?
 
 A list of known attacks against Bitcoin / crypto asset owning entities that occurred in meatspace. - jlopp/physical-bitcoin-attacks
 
-⬆️ 3 • 💬 0 • 1h ago • [GitHub](https://github.com/jlopp/physical-bitcoin-attacks)
+⬆️ 3 • 💬 0 • 2h ago • [GitHub](https://github.com/jlopp/physical-bitcoin-attacks)
 
 ---
 
@@ -262,7 +260,7 @@ Stargate UI
 
 For years, crypto investors have waited for a familiar miracle. Altcoin season. The moment when small coins suddenly outrun Bitcoin,
 
-⬆️ 1 • 💬 0 • 9h ago • [The Bit Gazette](https://thebitgazette.com/why-altcoin-season-may-not-happen-in-2026-as-bitcoin-keeps-control/)
+⬆️ 1 • 💬 0 • 10h ago • [The Bit Gazette](https://thebitgazette.com/why-altcoin-season-may-not-happen-in-2026-as-bitcoin-keeps-control/)
 
 ---
 
@@ -288,7 +286,7 @@ Transform HN comment threads into executive intelligence. AI analyzes discussion
 
 **[Show HN: I could build the translation tool I've wanted for 10 years](https://news.ycombinator.com/item?id=46786231)**
 
-⬆️ 1 • 💬 0 • 9m ago
+⬆️ 1 • 💬 0 • 41m ago
 
 ---
 
@@ -318,7 +316,7 @@ In this video, Raoul Pal explains why the idea of a 2026 Bitcoin bear market doe
 
 📺 Savvy Finance
 
-👁️ 3K • 👍 236 • 💬 4 • ⏱️ 19:52 • 3h ago
+👁️ 3K • 👍 236 • 💬 4 • ⏱️ 19:52 • 4h ago
 
 ---
 
@@ -328,7 +326,7 @@ In this solo episode, Anthony Pompliano explains why Bitcoin is lagging while go
 
 📺 Anthony Pompliano
 
-👁️ 51K • 👍 2K • 💬 55 • ⏱️ 17:45 • 22h ago
+👁️ 51K • 👍 2K • 💬 55 • ⏱️ 17:45 • 23h ago
 
 ---
 
@@ -338,7 +336,7 @@ Trade Like A Tourist Or Join The Pros FFA Is Where The Real Ones Go https://cryp
 
 📺 Crypto Crew University
 
-👁️ 23K • 👍 2K • 💬 160 • ⏱️ 15:06 • 6h ago
+👁️ 23K • 👍 2K • 💬 160 • ⏱️ 15:06 • 7h ago
 
 ---
 
@@ -348,7 +346,7 @@ BTC #Bitcoin #Cryptocurrency Join Michael Saylor for his unforgettable keynote a
 
 📺 Sailing Vagabond Epicurean
 
-👁️ 5K • 👍 3K • 1h ago
+👁️ 5K • 👍 3K • 2h ago
 
 ---
 
@@ -358,7 +356,7 @@ Sell BItcoin, buy Silver? Altcoins, stocks, and more BITUNIX TRADE THE TOP COINS
 
 📺 Lark Davis
 
-👁️ 15K • 👍 786 • 💬 113 • ⏱️ 14:11 • 9h ago
+👁️ 15K • 👍 786 • 💬 113 • ⏱️ 14:11 • 10h ago
 
 ---
 
@@ -368,7 +366,7 @@ IT'S OVER FOR CRYPTO BLACKROCK PLACED THEIR BETS! I don't believe that crypto is
 
 📺 CryptoWendyO
 
-👁️ 31K • 👍 1K • 💬 256 • ⏱️ 3:19 • 22h ago
+👁️ 31K • 👍 1K • 💬 256 • ⏱️ 3:19 • 23h ago
 
 ---
 
@@ -378,7 +376,7 @@ Exchange Partners** Bitunix Exchange ▻ *$100000 Deposit Bonus* ▻ https://bit
 
 📺 CryptosRUs
 
-👁️ 31K • 👍 2K • 💬 358 • ⏱️ 8:05 • 20h ago
+👁️ 31K • 👍 2K • 💬 358 • ⏱️ 8:05 • 21h ago
 
 ---
 
@@ -388,7 +386,7 @@ In today's video Kyledoops shows a repeat pattern that shows what is next for Bi
 
 📺 Crypto Banter
 
-👁️ 17K • 👍 1K • 💬 23 • ⏱️ 31:36 • 12h ago
+👁️ 17K • 👍 1K • 💬 23 • ⏱️ 31:36 • 13h ago
 
 ---
 
@@ -398,7 +396,7 @@ Gold and silver are ripping to record highs, but the real story is what this say
 
 📺 Simply Bitcoin
 
-👁️ 29K • 👍 2K • 💬 246 • ⏱️ 18:47 • 20h ago
+👁️ 29K • 👍 2K • 💬 246 • ⏱️ 18:47 • 21h ago
 
 ---
 
