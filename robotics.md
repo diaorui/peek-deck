@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-01-27T11:48:35.121513+00:00'
+updated: '2026-01-27T12:54:03.660151+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- videos
 - news
 - social
+- videos
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** January 27, 2026 at 11:48 UTC  
+**Last Updated:** January 27, 2026 at 12:54 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -36,7 +36,7 @@ Robotics research and industry news
 
 We're open-sourcing Asimov Legs, a bipedal robotic system. We've been building in public and sharing daily progress, now the full design is out. A complete leg design with 6 DOF per leg, RSU ankle architecture, passive toe joints. Built with off-the-shelf components and compatible with MJF 3D printing. What's included: - Full mechanical CAD (STEP files) - Motors & actuators list - XML files for simulation (MuJoCo) Most of the structure is MJF-printable plastic. The only part that needs CNC is the knee plate, and we spent weeks simplifying that from a 2-part assembly down to a single plate. If you don't have access to industrial MJF, casting or regular 3D printing works too. Repo for all: https://github.com/asimovinc/asimov-v0 Happy to answer questions about the design choices.
 
-2h ago
+3h ago
 
 ---
 
@@ -44,7 +44,7 @@ We're open-sourcing Asimov Legs, a bipedal robotic system. We've been building i
 
 Setup: - 3 x stationary Super-Beacons (green dots on the floorplan: 8, 2, 3) - 1 x Super-Beacon as a mobile on the drone (11) - 1 x Modem v5.1 as a central controller - USB-connected to the laptop - 1 x Marvelmind DJI App on Android - the "brain" of the system controlling the drone over the virtual stick - Marvelmind Dashboard to set up the waypoints and the system in general
 
-5h ago
+6h ago
 
 ---
 
@@ -52,7 +52,7 @@ Setup: - 3 x stationary Super-Beacons (green dots on the floorplan: 8, 2, 3) - 1
 
 From Eren Chen on 𝕏: https://x.com/ErenChenAI/status/2015503512734441800
 
-1h ago
+2h ago
 
 ---
 
@@ -60,13 +60,13 @@ From Eren Chen on 𝕏: https://x.com/ErenChenAI/status/2015503512734441800
 
 When there are many robots in production (industrial, logistics, etc.), how are updates handled without shutting down everything or risking breaking something important? Is there a common way to: - Update robots in groups - Quickly revert to a previous version if something goes wrong - Reduce risk when modifying the software - Or does each company do it its own way? 🤔
 
-5h ago
+6h ago
 
 ---
 
 **[Persona AI: What’s Different in Their Waist Design - Soft Robotics Podcast](https://www.reddit.com/r/robotics/comments/1qnhkdw/persona_ai_whats_different_in_their_waist_design/)**
 
-21h ago
+22h ago
 
 ---
 
@@ -82,7 +82,7 @@ When there are many robots in production (industrial, logistics, etc.), how are 
 
 In this video, we take a fast but deep tour of Copper, a deterministic robotics runtime written in Rust. We cover the core concepts behind Copper by showing the tooling, workflows, and systems. From observability and determinism to AI inference, embedded development, and distributed execution. Chapters are clickable in the video description. 00:00 Intro 01:13 ConsoleMon, Copper’s TUI monitor - New: refreshed look and bandwidth pane 09:40 Offline config viewer and DAG visualization - New: updated visuals 13:38 New: DAG statistics combining structure with runtime performance 15:02 New: Exporting logs to the MCAP format 16:40 New: Visualizing Copper logs in Foxglove 17:38 Determinism in Copper: Why it matters and how we can actually prove it 22:34 New: AI and ML inference with HuggingFace - Live visualization using Rerun 25:38 Embedded and bare metal development - Flight controller example 27:00 Missions - Quick overview using the flight controller 29:39 New: Resource bundles - What problem they solve and how they work 31:54 Multiprocessing and distributed Copper - New, kind of: Zenoh bridge 36:40 Conclusion and thanks
 
-🔗 [youtu.be](https://youtu.be/58UYNb27AlM) • 13h ago
+🔗 [youtu.be](https://youtu.be/58UYNb27AlM) • 14h ago
 
 ---
 
@@ -96,7 +96,7 @@ It isn't sci-fi anymore—it's border control. China has officially deployed hum
 
 **[👋Welcome to r/CollegeLab_projects - Introduce Yourself and Read First!](https://www.reddit.com/r/robotics/comments/1qo4phv/welcome_to_rcollegelab_projects_introduce/)**
 
-6h ago
+7h ago
 
 ---
 
@@ -116,7 +116,7 @@ I don't have much information, but it's a bit viral on X
 
 State of Robotics Industry Report 2026 offers a clear-eyed assessment of where the market stands today and where it’s headed.
 
-The Robot Report • 17h ago
+The Robot Report • 18h ago
 
 ---
 
@@ -124,7 +124,7 @@ The Robot Report • 17h ago
 
 Chinese robotics firm Unitree Robotics announced on Monday that it has become a robot cooperation partner for China Media Group's (CMG) Spring Festival Gala for the Year of the Horse, marking its third collaboration with the gala, following a robot ox performance in 2021 and a humanoid robot yangko dance show at the 2025 event, according to its social media post.
 
-Global Times • 21h ago
+Global Times • 22h ago
 
 ---
 
@@ -132,7 +132,7 @@ Global Times • 21h ago
 
 Chinese technology is advancing rapidly with robotics. In addition to military uses, robots are playing sports, doing household chores, and dancing.
 
-bgr.com • 21h ago
+bgr.com • 22h ago
 
 ---
 
@@ -140,7 +140,7 @@ bgr.com • 21h ago
 
 A Ukrainian Jewish reconnaissance drone operator, who had worked in several different military disciplines before the role, said that “the future of war is drones.”
 
-jpost.com • 4h ago
+jpost.com • 5h ago
 
 ---
 
@@ -148,15 +148,7 @@ jpost.com • 4h ago
 
 Coming out of CES earlier this month, you might think a new kitchen assistant from a startup called Gambit Robotics would look something like the dozens of humanoid robots roaming the show floor in…
 
-thespoon.tech • 16h ago
-
----
-
-**[Lakeland Community College receives $341,000 for security, robotics](https://www.news-herald.com/2026/01/26/lakeland-community-college-receives-341000-for-security-robotics/)**
-
-The Ohio Controlling Board has approved a $341,075 for security system enhancements and robotics equipment at Lakeland Community College. Of the funding, $197,741 comes from the Campus Safety Grant…
-
-news-herald.com • 13h ago
+thespoon.tech • 18h ago
 
 ---
 
@@ -164,15 +156,15 @@ news-herald.com • 13h ago
 
 DUBAI, United Arab Emirates, Jan.  26, 2026  (GLOBE NEWSWIRE) -- Micropolis Robotics, (“Micropolis” or the “Company”) (NYSE: MCRP), a pioneer in u...
 
-markets.businessinsider.com • 21h ago
+markets.businessinsider.com • 22h ago
 
 ---
 
-**[From Second Grade to Robotics: STEAM Event Showcases State’s Education Push](https://www.mychesco.com/a/news/pennsylvania/from-second-grade-to-robotics-steam-event-showcases-states-education-push/)**
+**[Replacing workers with Atlas humanoid robots may not be feasible due to the high price](https://www.notebookcheck.net/Replacing-workers-with-Atlas-humanoid-robots-may-not-be-feasible-due-to-the-high-price.1213342.0.html)**
 
-RED LION, PA — Pennsylvania’s top education official visited Red Lion Area School District on Thursday as students from opposite ends of the academic spectrum teamed up for a day …
+An automaker's dream of introducing Boston Dynamics Atlas humanoid robots to the factory floor will be meeting the reality of high costs compared to human workers. Tesla, too, envisions a $30,000 Optimus robot only when made in the millions.
 
-mychesco.com • 20h ago
+Notebookcheck • 1h ago
 
 ---
 
@@ -189,6 +181,14 @@ Financial Times • 2d ago
 The day when robots perform labor has arrived. Hyundai is training Boston Dynamic's Atlas robots to perform simple tasks at its Georgia factory.
 
 bgr.com • 1d ago
+
+---
+
+**[China: World’s first robot astronaut for space exploration program](https://interestingengineering.com/ai-robotics/worlds-first-humanoid-robot-astronaut-china)**
+
+Engine AI teams up with a Chinese space firm to send PM01 into orbit, aiming to create the world’s first humanoid robot astronaut.
+
+Interesting Engineering • 55m ago
 
 ---
 
@@ -222,7 +222,7 @@ We are honored to celebrate an important milestone at Future Robot Lab. This vid
 
 📺 Future Robot Lab
 
-👁️ 3K • 👍 56 • 💬 12 • ⏱️ 9:38 • 22h ago
+👁️ 3K • 👍 56 • 💬 12 • ⏱️ 9:38 • 23h ago
 
 ---
 
@@ -278,7 +278,7 @@ War Robots - New flying robot Anaksor on this week's Test Server has the invisib
 
 📺 Adrian Chong
 
-👁️ 3K • 👍 192 • 💬 52 • ⏱️ 20:24 • 21h ago
+👁️ 3K • 👍 192 • 💬 52 • ⏱️ 20:24 • 22h ago
 
 ---
 

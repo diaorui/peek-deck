@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-01-27T11:48:35.112375+00:00'
+updated: '2026-01-27T12:54:03.650819+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- videos
-- news
 - cryptocurrency
+- news
 - social
+- videos
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** January 27, 2026 at 11:48 UTC  
+**Last Updated:** January 27, 2026 at 12:54 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -44,11 +44,11 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Chart
 
-**24h:** -0.1%  
-**7d:** -2.0%  
-**30d:** +0.7%  
-**90d:** -18.9%  
-**1y:** -13.4%  
+**24h:** +0.1%  
+**7d:** -1.8%  
+**30d:** +1.0%  
+**90d:** -18.7%  
+**1y:** -13.2%  
 
 ---
 
@@ -79,13 +79,13 @@ Rank #1
 
 **[Hong Kong Offering 0% Capital Gains On Bitcoin](https://www.reddit.com/r/Bitcoin/comments/1qnggao/hong_kong_offering_0_capital_gains_on_bitcoin/)**
 
-22h ago
+23h ago
 
 ---
 
 **[Still here !!](https://www.reddit.com/r/Bitcoin/comments/1qo8o7j/still_here/)**
 
-2h ago
+3h ago
 
 ---
 
@@ -93,7 +93,7 @@ Rank #1
 
 I get occasional emails from Coin Base. I thought "didn't I leave $5 or so in my wallet a long time ago?" after buying something I needed to use Bitcoin to purchase. So I logged in and... it said I have over $2,200... I was like... this can't be right. Wasn't it only $5ish? So I found this site - https://charts.bitbo.io/if-i-bought/ - and punched it in... I had about $5.70 left from October of 2015. That's all it took to get over $2k. Now I wish I had been investing... $5 every paycheck since then. I'll probably just leave it in there in perpetuity.
 
-17h ago
+18h ago
 
 ---
 
@@ -101,19 +101,19 @@ I get occasional emails from Coin Base. I thought "didn't I leave $5 or so in my
 
 Since i’m super young 21M and this is the only time i can risk everything for life changing wealth shouldn’t I take that risk and go all in on BTC. I can put $3k a month to it in my Trezor cold wallet. I’m gonna do it. Hoping i perform better than most assests in the next 6-7 years.
 
-3h ago
+4h ago
 
 ---
 
 **[Keynesian Economy & Fiat saver](https://www.reddit.com/r/Bitcoin/comments/1qo97eu/keynesian_economy_fiat_saver/)**
 
-2h ago
+3h ago
 
 ---
 
 **[Me watching Bitcoin play with my feelings again.](https://www.reddit.com/r/Bitcoin/comments/1qoahuk/me_watching_bitcoin_play_with_my_feelings_again/)**
 
-1h ago
+2h ago
 
 ---
 
@@ -127,7 +127,7 @@ Since i’m super young 21M and this is the only time i can risk everything for 
 
 Source: https://worldpopulationreview.com/country-rankings/bitcoin-ownership-by-country
 
-4h ago
+5h ago
 
 ---
 
@@ -135,7 +135,7 @@ Source: https://worldpopulationreview.com/country-rankings/bitcoin-ownership-by-
 
 Bitcoin did not change my life because of its price. It changed my life because of the technology. Because of the freedom it provides. Because it allows people to send and receive money quickly, securely, from anywhere in the world, without intermediaries. My name is Flavio. I am a young African man living in Angola. I am 22 years old and a Computer Engineering student at a public university, where I pay about two dollars per month in tuition. For a long time, my life plan was simple: graduate and then look for a job in my country. Nothing more. The reality was harsh. The university laboratories are poor, I did not have a computer, and I had no real way to practice or learn on my own. Most of what I studied stayed in theory. Still, I kept going. That is when I discovered Reddit. At first, I was just looking for ways to make money online, but almost everything I found was a scam. Over time, I understood something important: people only pay when you have a valuable skill, when you are able to create value for others. With only a weak phone and limited internet access, I kept searching. During those searches, I came across crypto trading, especially futures. I never did it because I had no capital and no knowledge. But while researching, I discovered this subreddit. One day, I decided to share my situation. With no expectations. Without asking for much. Just telling my reality. That decision changed everything. By God’s grace, some people looked at my story with empathy. People who did not know me, from other countries, decided to help. With that help, I was able to get something that once felt impossible: daily internet access. I was able to buy a computer. Someone gave me access to a learning platform where I now study programming. Other small acts of help made a huge difference. Hospital expenses for my mother. Food for my home. University tuition payments. My monthly internet bill of around eighteen dollars. Simple things, but life changing. Today, I am in the process of leaving a job where I earn four dollars a day so I can focus fully on learning programming. I want to grow, improve my skills, and pursue better opportunities. Hopefully, one day, I will be able to work remotely and truly change my family’s future. All of this was possible because I had a Binance account, a crypto wallet address, and most importantly, because there were good people willing to help. People from this and other subreddits had a real impact on my life. Today, my mind is open to new horizons and new possibilities. A future I could not even imagine before. My family and my future are grateful. I am deeply thankful to everyone who helped. May God bless you all. I was away for a long time, but I have always been here, and I will continue to be.
 
-3h ago
+4h ago
 
 ---
 
@@ -143,7 +143,7 @@ Bitcoin did not change my life because of its price. It changed my life because 
 
 I'm 55 and retired and have a portfolio I don't need to touch for 20 years. 98% is invested very simply in index funds. I chose to use 2% to play with. I put all 10k of that in BTC. I'm planning to basically forget about it and let it ride for 10 years or more. It wouldn't hurt me if I lost it all, but it would be nice if it did well. Is this a reasonable strategy?
 
-17h ago
+18h ago
 
 ---
 
@@ -155,13 +155,13 @@ I'm 55 and retired and have a portfolio I don't need to touch for 20 years. 98% 
 
 Bitcoin traded lower alongside most major tokens as investors favored gold and silver ahead of the Federal Reserve decision and a heavy week of Magnificent Seven earnings.
 
-CoinDesk • 6h ago
+CoinDesk • 7h ago
 
 ---
 
-**[Silver overtakes bitcoin’s post-2017 gains as price blows past $115](https://www.theblock.co/post/387138/silver-overtakes-bitcoin-post-2017-gains-price-blows-past-115)**
+**[Bitcoin, Ethereum Rise. Why the Fed’s Rate Call Could Be Vital for Crypto.](https://www.barrons.com/articles/bitcoin-price-ethereum-xrp-crypto-fed-3d9bd791?gaa_at=eafs&gaa_n=AWEtsqfP3f1U2WURPmuYt3GUOuOEszl8jMGnqfCD_PI_eE1mmjS-kAsNfCi6&gaa_ts=6978b8d6&gaa_sig=lGgffJlnepue7cFOzuGHsGMZCCD-9Dpm4HBxv5DyI0dBo8wws3fKMTzLHXgNLZ2yK5hCpg42gne1N-8HffCraA%3D%3D)**
 
-The Block • 13h ago
+Barron's • 1h ago
 
 ---
 
@@ -169,15 +169,7 @@ The Block • 13h ago
 
 MicroStrategy’s latest Bitcoin purchase raises structural concerns around dilution, mNAV, and shareholder value.
 
-Yahoo Finance • 16h ago
-
----
-
-**[Michael Saylor's Strategy (MSTR) added 2,932 BTC last week](https://www.coindesk.com/markets/2026/01/26/strategy-purchased-usd264-million-in-bitcoin-last-week)**
-
-The company’s stack now stands at 712,647 BTC, worth about $62 billion at the current price of $87,500.
-
-CoinDesk • 22h ago
+Yahoo Finance • 17h ago
 
 ---
 
@@ -185,27 +177,15 @@ CoinDesk • 22h ago
 
 Strategy's holdings account for approximately 3.4% of the total 21 million bitcoin supply — worth around $62.5 billion.
 
-The Block • 22h ago
+The Block • 23h ago
 
 ---
 
-**[Bitcoin Miners Power Down US Operations in Wake of Winter Storm](https://www.bloomberg.com/news/articles/2026-01-26/bitcoin-miners-power-down-us-operations-in-wake-of-winter-storm)**
+**[Strategy ($MSTR) Sells $257 Million in Stock to Buy 2,932 Bitcoin](https://bitcoinmagazine.com/news/strategy-sells-257-million-to-buy-2932-btc)**
 
-Bloomberg.com • 13h ago
+Strategy announced Monday that it acquired an additional 2,932 bitcoin for approximately $264 million.
 
----
-
-**[Bitcoin Hashrate Drops to Seven-Month Low as US Winter Storm Disrupts Mining](https://finance.yahoo.com/news/bitcoin-hashrate-drops-seven-month-063048296.html)**
-
-Bitcoin’s network hashrate fell to its lowest level in seven months over the weekend as a powerful winter storm swept across the United States, forcing miners to scale back operations amid surging energy demand and widespread power disruptions. Key Takeaways: A US winter storm pushed Bitcoin’s hashrate to a seven-month ...
-
-Yahoo Finance • 5h ago
-
----
-
-**[Bitcoin block time slows as sweeping US winter storm strains power grid, prompting miner curtailments](https://www.theblock.co/post/387019/bitcoin-block-time-slows-us-winter-storm-miner-curtailments)**
-
-The Block • 22h ago
+Bitcoin Magazine • 22h ago
 
 ---
 
@@ -213,7 +193,7 @@ The Block • 22h ago
 
 Gold advocate and longtime Bitcoin critic Peter Schiff said that the crypto industry is pushing for government regulation and bailouts not to self-restrain, but to gain public legitimacy.
 
-Bitcoin Magazine • 14h ago
+Bitcoin Magazine • 15h ago
 
 ---
 
@@ -221,7 +201,29 @@ Bitcoin Magazine • 14h ago
 
 The iShares Bitcoin Premium Income ETF would hold bitcoin directly and generate yield from selling IBIT option premiums.
 
-The Block • 17h ago
+The Block • 18h ago
+
+---
+
+**[BlackRock eyes new Bitcoin ETF with premium](https://finance.yahoo.com/news/blackrock-eyes-bitcoin-etf-premium-212206126.html)**
+
+BlackRock has filed to launch a second Bitcoin ETF two years after the debut of its blockbuster product, IBIT. This one would feature additional income earned by selling call options on IBIT shares. Among traditional financial firms, BlackRock has been among the most aggressive to embrace crypto.
+
+Yahoo Finance • 15h ago
+
+---
+
+**[BlackRock Files Bitcoin Premium Income ETF: What It Could Mean For BTC](https://www.tradingview.com/news/newsbtc:d81eca397094b:0-blackrock-files-bitcoin-premium-income-etf-what-it-could-mean-for-btc/)**
+
+BlackRock has filed an S-1 for an “iShares Bitcoin Premium Income ETF,” a product that aims to track bitcoin’s price while generating option premium by systematically selling calls tied primarily to its own spot bitcoin ETF, IBIT. For BTC-linked derivatives markets, the filing is being read less as…
+
+TradingView • 8h ago
+
+---
+
+**[Bitcoin News: Bitcoin Slips Below $90K as Gold Surges Toward $23,000 Target, Reviving Quantum Computing Debate](https://www.binance.com/en/square/post/01-24-2026-bitcoin-news-bitcoin-slips-below-90k-as-gold-surges-toward-23-000-target-reviving-quantum-computing-debate-35513442150626)**
+
+Binance • 3d ago
 
 ---
 
@@ -233,7 +235,7 @@ The Block • 17h ago
 
 Billionaire fugitive Roger Ver was facing federal criminal charges until he sought the services of a select club of President Donald Trump’s former personal attorneys who have easy access to top Justice Department appointees.
 
-⬆️ 17 • 💬 0 • 23h ago • [ProPublica](https://www.propublica.org/article/bitcoin-jesus-roger-ver-tax-evasion-friends-of-trump)
+⬆️ 17 • 💬 0 • 1d ago • [ProPublica](https://www.propublica.org/article/bitcoin-jesus-roger-ver-tax-evasion-friends-of-trump)
 
 ---
 
@@ -254,6 +256,14 @@ Stargate UI
 
 ---
 
+**[Why altcoin season may not happen in 2026 as Bitcoin keeps control](https://news.ycombinator.com/item?id=46778408)**
+
+For years, crypto investors have waited for a familiar miracle. Altcoin season. The moment when small coins suddenly outrun Bitcoin,
+
+⬆️ 1 • 💬 0 • 1h ago • [The Bit Gazette](https://thebitgazette.com/why-altcoin-season-may-not-happen-in-2026-as-bitcoin-keeps-control/)
+
+---
+
 **[Show HN: Hayekian BTC Daily – a local-first Bitcoin market snapshot CLI](https://news.ycombinator.com/item?id=46694344)**
 
 What you get macOS app (Apple Silicon) — simple desktop experience for advanced BTC analysis. Optional CLI binary — Hayekian BTC Daily is a local-first, privacy-centric Bitcoin daily snapshot CLI for macOS (Apple Silicon). It pulls real BTC market data — spot, OHLC, 24h volume, and ETF flows — and turns it into a compact snapshot plus a human-readable behavioral summary. Everything runs entirely on your machine. No accounts, no telemetry. What you get: BTC spot price (multi-provider)Spot from a prioritized provider order (Binance → Coinbase → Kraken → CoinGecko), with caching and fallbacks when an API is down. Daily OHLC candlesNormalized BTC/USD candles suitable for moving averages and MACD. Kraken timestamps are normalized to candle close time so all providers align. 24h volume (CoinGecko)Global BTC 24h volume in USD, rendered as a clean number — or n/a when data is unavailable. ETF flows (Farside + SoSoValue)Real spot Bitcoin ETF flows from Farside’s HTML tables, with SoSoValue as an optional authenticated fallback. Flows are aggregated by ticker and date and summarized as net inflow or outflow. Behavioral summaryA short plain-English summary of recent Bitcoin price action and ETF flow behavior (with a local prompt and zero data sharing). Why local-first mattersHayekian BTC Daily never sends your requests or data anywhere. No accounts or API keys required. We use public, unauthenticated endpoints for all data providers. No telemetry or analytics. There are zero network calls besides the data API requests themselves. Full offline mode. If you run the CLI with no internet, it just uses cached data from the last successful run. Your Mac, your data. Basic usageAfter purchasing and downloading, unzip the app and double-click Hayekian BTC Daily to run the GUI, or use the CLI binary for advanced workflows. The app window shows today’s BTC snapshot. You can update the data with the Refresh button, or automate via CLI:./hayekian-btc-daily --updateThis updates the cached data in ~/Library/Application Support/hayekian-btc-daily and prints the latest summary to your terminal. Run --help for all CLI options. Trust and licensingHayekian BTC Daily is released under a single-user license. You may install it on multiple Macs you own, but please do not redistribute the binary or your license key. Each purchase supports continued development and additional platform support. For questions or feedback, reply to your Gumroad email receipt. Apple Silicon macOS (arm64) only — M1 / M2 / M3 / M4 Not compatible with Intel Macs / Windows / Linux (yet)
@@ -266,7 +276,7 @@ What you get macOS app (Apple Silicon) — simple desktop experience for advance
 
 Transform HN comment threads into executive intelligence. AI analyzes discussions and delivers sharp, structured briefs (hook, gist, debate, verdict) written in Chief-of-Staff style for tech executives.
 
-⬆️ 3 • 💬 2 • 22h ago • [hnsignals.com](https://hnsignals.com/)
+⬆️ 3 • 💬 2 • 23h ago • [hnsignals.com](https://hnsignals.com/)
 
 ---
 
@@ -290,20 +300,6 @@ Traders are braced for this week’s inflation reading to be higher than previou
 
 ---
 
-**[Tell HN: I cut Claude API costs from $70/month to pennies](https://news.ycombinator.com/item?id=46760285)**
-
-⬆️ 37 • 💬 21 • 1d ago
-
----
-
-**[Show HN: A desktop app that blocks work when you bite your nails](https://news.ycombinator.com/item?id=46759850)**
-
-Detects when your fingers are near your mouth and reminds you to stop. Built with Tauri + React + MediaPipe. - cacoos/trackhands
-
-⬆️ 16 • 💬 4 • 1d ago • [GitHub](https://github.com/cacoos/trackhands)
-
----
-
 ---
 
 ## YouTube Videos: "bitcoin"
@@ -314,7 +310,7 @@ In this solo episode, Anthony Pompliano explains why Bitcoin is lagging while go
 
 📺 Anthony Pompliano
 
-👁️ 33K • 👍 2K • 💬 55 • ⏱️ 17:45 • 13h ago
+👁️ 33K • 👍 2K • 💬 55 • ⏱️ 17:45 • 14h ago
 
 ---
 
@@ -324,7 +320,7 @@ Exchange Partners** Bitunix Exchange ▻ *$100000 Deposit Bonus* ▻ https://bit
 
 📺 CryptosRUs
 
-👁️ 25K • 👍 1K • 💬 245 • ⏱️ 8:05 • 11h ago
+👁️ 25K • 👍 1K • 💬 245 • ⏱️ 8:05 • 12h ago
 
 ---
 
@@ -334,7 +330,7 @@ BTC #Bitcoin #Cryptocurrency Join Michael Saylor for his unforgettable keynote a
 
 📺 Chard The Tech Guy
 
-👁️ 4K • 👍 4K • 58m ago
+👁️ 4K • 👍 4K • 2h ago
 
 ---
 
@@ -344,7 +340,7 @@ DISCLAIMER: We may receive a small commission for any purchases made through our
 
 📺 Savvy Finance
 
-👁️ 6K • 👍 287 • 💬 4 • ⏱️ 18:13 • 12h ago
+👁️ 6K • 👍 287 • 💬 4 • ⏱️ 18:13 • 13h ago
 
 ---
 
@@ -354,7 +350,7 @@ Gold and silver are ripping to record highs, but the real story is what this say
 
 📺 Simply Bitcoin
 
-👁️ 22K • 👍 2K • 💬 141 • ⏱️ 18:47 • 11h ago
+👁️ 22K • 👍 2K • 💬 141 • ⏱️ 18:47 • 12h ago
 
 ---
 
@@ -364,7 +360,7 @@ In today's video Kyledoops shows a repeat pattern that shows what is next for Bi
 
 📺 Crypto Banter
 
-👁️ 9K • 👍 868 • 💬 11 • ⏱️ 31:36 • 3h ago
+👁️ 9K • 👍 868 • 💬 11 • ⏱️ 31:36 • 4h ago
 
 ---
 
@@ -374,7 +370,7 @@ IT'S OVER FOR CRYPTO BLACKROCK PLACED THEIR BETS! I don't believe that crypto is
 
 📺 CryptoWendyO
 
-👁️ 26K • 👍 1K • 💬 152 • ⏱️ 3:19 • 13h ago
+👁️ 26K • 👍 1K • 💬 152 • ⏱️ 3:19 • 14h ago
 
 ---
 
@@ -404,7 +400,7 @@ Bitcoin #Crypto #Finance Your edge starts here — join DataDash Pro for Discord
 
 📺 DataDash
 
-👁️ 4K • 👍 276 • 💬 21 • ⏱️ 12:54 • 19h ago
+👁️ 4K • 👍 276 • 💬 21 • ⏱️ 12:54 • 20h ago
 
 ---
 
