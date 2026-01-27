@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-01-27T18:41:07.082667+00:00'
+updated: '2026-01-27T19:27:41.268330+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
 - social
+- cryptocurrency
 - news
 - videos
-- cryptocurrency
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** January 27, 2026 at 18:41 UTC  
+**Last Updated:** January 27, 2026 at 19:27 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,7 +38,7 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $87,604.80
+### $88,129.68
 
 ---
 
@@ -79,25 +79,11 @@ Rank #1
 
 **[still hodling](https://www.reddit.com/r/Bitcoin/comments/1qoarog/still_hodling/)**
 
-7h ago
+8h ago
 
 ---
 
 **[Rule 11](https://www.reddit.com/r/Bitcoin/comments/1qoe2h3/rule_11/)**
-
-5h ago
-
----
-
-**[Forever😀](https://www.reddit.com/r/Bitcoin/comments/1qofr38/forever/)**
-
-3h ago
-
----
-
-**[I'm afraid of the future.](https://www.reddit.com/r/Bitcoin/comments/1qoctai/im_afraid_of_the_future/)**
-
-I'm making this post to vent and get some opinions. I'm scared. I'm 19, and this world that's coming is terrifying. People tell me to relax, but they don't see it. The world is falling apart. Money is worthless. I don't know what to study because AI could put me out of work for 10 years. I don't want to go into a degree program and waste all that time that I could have invested in something else. I don't know how to invest in Bitcoin, haha. I don't know where to put my effort. I've seen a little bit about Bitcoin, that it's a safe place to store things. I guess I need advice.
 
 5h ago
 
@@ -111,21 +97,23 @@ HODL.
 
 ---
 
-**[Still here !!](https://www.reddit.com/r/Bitcoin/comments/1qo8o7j/still_here/)**
+**[Forever😀](https://www.reddit.com/r/Bitcoin/comments/1qofr38/forever/)**
 
-9h ago
+4h ago
 
 ---
 
-**[Me watching Bitcoin play with my feelings again.](https://www.reddit.com/r/Bitcoin/comments/1qoahuk/me_watching_bitcoin_play_with_my_feelings_again/)**
+**[I'm afraid of the future.](https://www.reddit.com/r/Bitcoin/comments/1qoctai/im_afraid_of_the_future/)**
 
-7h ago
+I'm making this post to vent and get some opinions. I'm scared. I'm 19, and this world that's coming is terrifying. People tell me to relax, but they don't see it. The world is falling apart. Money is worthless. I don't know what to study because AI could put me out of work for 10 years. I don't want to go into a degree program and waste all that time that I could have invested in something else. I don't know how to invest in Bitcoin, haha. I don't know where to put my effort. I've seen a little bit about Bitcoin, that it's a safe place to store things. I guess I need advice.
+
+6h ago
 
 ---
 
 **[The majority of the top US banks are now into Bitcoin 🚀](https://www.reddit.com/r/Bitcoin/comments/1qohu4h/the_majority_of_the_top_us_banks_are_now_into/)**
 
-2h ago
+3h ago
 
 ---
 
@@ -135,9 +123,21 @@ HODL.
 
 ---
 
-**[Hong Kong Offering 0% Capital Gains On Bitcoin](https://www.reddit.com/r/Bitcoin/comments/1qnggao/hong_kong_offering_0_capital_gains_on_bitcoin/)**
+**[Still here !!](https://www.reddit.com/r/Bitcoin/comments/1qo8o7j/still_here/)**
 
-1d ago
+10h ago
+
+---
+
+**[Me watching Bitcoin play with my feelings again.](https://www.reddit.com/r/Bitcoin/comments/1qoahuk/me_watching_bitcoin_play_with_my_feelings_again/)**
+
+8h ago
+
+---
+
+**[ICYMI BitGo went public last week - huge milestone for them and the bitcoin space](https://www.reddit.com/r/Bitcoin/comments/1qoly1t/icymi_bitgo_went_public_last_week_huge_milestone/)**
+
+1h ago
 
 ---
 
@@ -147,7 +147,7 @@ HODL.
 
 **[Silver overtakes bitcoin’s post-2017 gains as price blows past $115](https://www.theblock.co/post/387138/silver-overtakes-bitcoin-post-2017-gains-price-blows-past-115)**
 
-The Block • 20h ago
+The Block • 21h ago
 
 ---
 
@@ -171,7 +171,7 @@ Sherwood News • 1d ago
 
 Co-founder and CEO Alex Busarov describes the evolution of his product that heats a room, purifies the air, and mines Bitcoin all at the same time.
 
-Forbes • 1h ago
+Forbes • 2h ago
 
 ---
 
@@ -179,7 +179,7 @@ Forbes • 1h ago
 
 While the bitcoin hashrate has crashed, experts say this is a temporary reaction to the weather....
 
-Sherwood News • 1h ago
+Sherwood News • 2h ago
 
 ---
 
@@ -201,7 +201,7 @@ Fortune • 1d ago
 
 **[Bitcoin Miners Power Down US Operations in Wake of Winter Storm](https://www.bloomberg.com/news/articles/2026-01-26/bitcoin-miners-power-down-us-operations-in-wake-of-winter-storm)**
 
-Bloomberg.com • 20h ago
+Bloomberg.com • 21h ago
 
 ---
 
@@ -217,7 +217,7 @@ Yahoo Finance • 1d ago
 
 BlackRock has filed to launch a second Bitcoin ETF two years after the debut of its blockbuster product, IBIT. This one would feature additional income earned by selling call options on IBIT shares.  Among traditional financial firms, BlackRock has been among the most aggressive to embrace crypto.
 
-dlnews.com • 21h ago
+dlnews.com • 22h ago
 
 ---
 
@@ -242,6 +242,14 @@ rewards for mining operations will dwindle. What happens next?
 
 ---
 
+**[Known Physical Bitcoin Attacks](https://news.ycombinator.com/item?id=46784690)**
+
+A list of known attacks against Bitcoin / crypto asset owning entities that occurred in meatspace. - jlopp/physical-bitcoin-attacks
+
+⬆️ 2 • 💬 0 • 23m ago • [GitHub](https://github.com/jlopp/physical-bitcoin-attacks)
+
+---
+
 **[Starlight, a Bitcoin-native platform for turning ideas into funded work](https://news.ycombinator.com/item?id=46713400)**
 
 Stargate UI
@@ -254,7 +262,7 @@ Stargate UI
 
 For years, crypto investors have waited for a familiar miracle. Altcoin season. The moment when small coins suddenly outrun Bitcoin,
 
-⬆️ 1 • 💬 0 • 7h ago • [The Bit Gazette](https://thebitgazette.com/why-altcoin-season-may-not-happen-in-2026-as-bitcoin-keeps-control/)
+⬆️ 1 • 💬 0 • 8h ago • [The Bit Gazette](https://thebitgazette.com/why-altcoin-season-may-not-happen-in-2026-as-bitcoin-keeps-control/)
 
 ---
 
@@ -292,14 +300,6 @@ Traders are braced for this week’s inflation reading to be higher than previou
 
 ---
 
-**[Meta's exclusive features for social media platforms now include AI Manus](https://news.ycombinator.com/item?id=46780301)**
-
-Social media giant Meta’s AI initiatives are already in the spotlight, including Meta AI and Meta Superintelligence Labs. Building on this momentum, Meta has
-
-⬆️ 1 • 💬 0 • 4h ago • [Altcoin Desk](https://altcoindesk.com/news/metas-exclusive-features-for-social-media-platforms-now-include-ai-manus/article-22350/)
-
----
-
 ---
 
 ## YouTube Videos: "bitcoin"
@@ -310,7 +310,7 @@ Today, let's examine Bitcoin's charts and metrics, as well as the latest Macro a
 
 📺 CryptosRUs
 
-👁️ 13K • 👍 850 • 💬 120 • ⏱️ 43:35 • 2h ago
+👁️ 13K • 👍 850 • 💬 120 • ⏱️ 43:35 • 3h ago
 
 ---
 
@@ -320,7 +320,7 @@ Sell BItcoin, buy Silver? Altcoins, stocks, and more BITUNIX TRADE THE TOP COINS
 
 📺 Lark Davis
 
-👁️ 13K • 👍 725 • 💬 97 • ⏱️ 14:11 • 7h ago
+👁️ 13K • 👍 725 • 💬 97 • ⏱️ 14:11 • 8h ago
 
 ---
 
@@ -330,7 +330,7 @@ In this solo episode, Anthony Pompliano explains why Bitcoin is lagging while go
 
 📺 Anthony Pompliano
 
-👁️ 46K • 👍 2K • 💬 55 • ⏱️ 17:45 • 20h ago
+👁️ 46K • 👍 2K • 💬 55 • ⏱️ 17:45 • 21h ago
 
 ---
 
@@ -340,7 +340,7 @@ Exchange Partners** Bitunix Exchange ▻ *$100000 Deposit Bonus* ▻ https://bit
 
 📺 CryptosRUs
 
-👁️ 30K • 👍 2K • 💬 355 • ⏱️ 8:05 • 18h ago
+👁️ 30K • 👍 2K • 💬 355 • ⏱️ 8:05 • 19h ago
 
 ---
 
@@ -350,7 +350,7 @@ Trade Like A Tourist Or Join The Pros FFA Is Where The Real Ones Go https://cryp
 
 📺 Crypto Crew University
 
-👁️ 15K • 👍 2K • 💬 128 • ⏱️ 15:06 • 4h ago
+👁️ 15K • 👍 2K • 💬 128 • ⏱️ 15:06 • 5h ago
 
 ---
 
@@ -360,7 +360,7 @@ IT'S OVER FOR CRYPTO BLACKROCK PLACED THEIR BETS! I don't believe that crypto is
 
 📺 CryptoWendyO
 
-👁️ 30K • 👍 1K • 💬 217 • ⏱️ 3:19 • 20h ago
+👁️ 30K • 👍 1K • 💬 217 • ⏱️ 3:19 • 21h ago
 
 ---
 
@@ -370,7 +370,7 @@ FREE TRAINING: https://www.bullmania.com EXCHANGES I USE (bybit, pionex): https:
 
 📺 Ivan on Tech
 
-👁️ 17K • 👍 1K • 💬 84 • ⏱️ 59:47 • 8h ago
+👁️ 17K • 👍 1K • 💬 84 • ⏱️ 59:47 • 9h ago
 
 ---
 
@@ -380,7 +380,7 @@ Gold and silver are ripping to record highs, but the real story is what this say
 
 📺 Simply Bitcoin
 
-👁️ 27K • 👍 2K • 💬 246 • ⏱️ 18:47 • 18h ago
+👁️ 27K • 👍 2K • 💬 246 • ⏱️ 18:47 • 19h ago
 
 ---
 
@@ -400,7 +400,7 @@ DISCLAIMER: We may receive a small commission for any purchases made through our
 
 📺 Savvy Finance
 
-👁️ 8K • 👍 342 • 💬 46 • ⏱️ 18:13 • 19h ago
+👁️ 8K • 👍 342 • 💬 46 • ⏱️ 18:13 • 20h ago
 
 ---
 

@@ -3,7 +3,7 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-01-27T18:41:07.091956+00:00'
+updated: '2026-01-27T19:27:41.277496+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
@@ -17,7 +17,7 @@ data_types:
 
 Robotics research and industry news
 
-**Last Updated:** January 27, 2026 at 18:41 UTC  
+**Last Updated:** January 27, 2026 at 19:27 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -36,7 +36,7 @@ Robotics research and industry news
 
 From Lukas Ziegler on 𝕏: https://x.com/lukas_m_ziegler/status/2016112237019042259 AgXeed website: https://www.agxeed.com/
 
-6h ago
+7h ago
 
 ---
 
@@ -52,7 +52,7 @@ Hey all, a quick showcase of the Sprout robot from Fauna Robotics. I’m a postd
 
 From Eren Chen on 𝕏: https://x.com/ErenChenAI/status/2015503512734441800
 
-8h ago
+9h ago
 
 ---
 
@@ -60,7 +60,7 @@ From Eren Chen on 𝕏: https://x.com/ErenChenAI/status/2015503512734441800
 
 Meet Sprout. Fauna Robotics are releasing a new kind of robotics platform. One designed to move out of the lab and into the real world, closer to the people who will shape what robots become next. @faunarobotics
 
-1h ago
+2h ago
 
 ---
 
@@ -68,7 +68,7 @@ Meet Sprout. Fauna Robotics are releasing a new kind of robotics platform. One d
 
 We're open-sourcing Asimov Legs, a bipedal robotic system. We've been building in public and sharing daily progress, now the full design is out. A complete leg design with 6 DOF per leg, RSU ankle architecture, passive toe joints. Built with off-the-shelf components and compatible with MJF 3D printing. What's included: - Full mechanical CAD (STEP files) - Motors & actuators list - XML files for simulation (MuJoCo) Most of the structure is MJF-printable plastic. The only part that needs CNC is the knee plate, and we spent weeks simplifying that from a 2-part assembly down to a single plate. If you don't have access to industrial MJF, casting or regular 3D printing works too. Repo for all: https://github.com/asimovinc/asimov-v0 Happy to answer questions about the design choices.
 
-9h ago
+10h ago
 
 ---
 
@@ -84,7 +84,7 @@ Setup: - 3 x stationary Super-Beacons (green dots on the floorplan: 8, 2, 3) - 1
 
 Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.
 
-🔗 [youtube.com](https://www.youtube.com/watch?v=lQsvTrRTBRs) • 6m ago
+🔗 [youtube.com](https://www.youtube.com/watch?v=lQsvTrRTBRs) • 53m ago
 
 ---
 
@@ -100,7 +100,7 @@ Hey everyone, I’m currently looking for a fun and interactive robot similar to
 
 Hello, I have a question regarding OMPL. I'm using OMPL to get paths for a ground effect vehicle using OwenStateSpace. The thing is that for some reason it doesn't seem to take into consideration the orientation of each state when creating the intermidiate states, so when I show it on RVIZ it's always the default oreintation, as you can see in these pics. https://preview.redd.it/rw51x4domwfg1.png?width=1171&format=png&auto=webp&s=46710612f0cc5674a58f93faaa427bd02f33a818 https://preview.redd.it/q3zj36domwfg1.png?width=1054&format=png&auto=webp&s=3e36bf273fadf4e9b28daeb0dc3d9dac6c1cf155 This is specially a problem when using RRTConnect, because the connection in the middle forces a sudden 180º rotation, because the end of one branch is exactly the same as the beggining of the other, instead of being opposed, as you can see in this other picture. https://preview.redd.it/2nbpa7yqmwfg1.png?width=1171&format=png&auto=webp&s=8d9df910368c0ff27e8c4b4dee63fdcbf3bfbffa The code would be the following: extractPath() is just a function that converts the path to a message for a ROS2 topic. But the error cannot be there, because the issue happens before.// Source - https://stackoverflow.com/q/79876550 // Posted by Daniel Bajo Collados // Retrieved 2026-01-27, License - CC BY-SA 4.0 auto si(std::make_shared<ob::SpaceInformation>(space)); auto probDef(std::make_shared<ob::ProblemDefinition>(si)); probDef->setStartAndGoalStates(*start, *goal); probDef->setOptimizationObjective(getOptObj(si)); auto planner(std::make_shared<og::RRTConnect>(si)); planner->setRange(Range); planner->setProblemDefinition(probDef); planner->setup(); ob::PlannerStatus solved = planner->ob::Planner::solve(time); return_path = extractPath(probDef.get()); extractPath() is just a function that converts the path to a message for a ROS2 topic. But the error cannot be there, because the issue happens before. When setting up the start and the goal, as you can see it gets the proper orientations, so it just ignores the orientation of the intermidiate states. This cpp code is running inside a ROS2 node on a Ubuntu 22 virtual machine. Edit: The issue of having the intermidiate states have all the same orientation was solved. The issue was that the yaw angle was set using state[3] instead of state.yaw(). However, this didn't solve the issue with RRTConnect, as it still has a sharp 180º turn where the branches meet.
 
-3h ago
+4h ago
 
 ---
 
@@ -134,7 +134,7 @@ Global Times • 1d ago
 
 Phanindra Tallapragada, a professor of mechanical engineering, leads a team that is looking to the sky and beyond as they bring math to life with robotics.
 
-news.clemson.edu • 2h ago
+news.clemson.edu • 3h ago
 
 ---
 
@@ -142,7 +142,7 @@ news.clemson.edu • 2h ago
 
 Robotiq says it has combined adaptive gripping with high-frequency tactile sensing, enabling robots to generalize across objects.
 
-The Robot Report • 2h ago
+The Robot Report • 3h ago
 
 ---
 
@@ -150,7 +150,7 @@ The Robot Report • 2h ago
 
 The most momentous day for ADAM since serving Jensen Huang a margarita....
 
-Sherwood News • 4h ago
+Sherwood News • 5h ago
 
 ---
 
@@ -166,13 +166,13 @@ bgr.com • 1d ago
 
 ADAM, Richtech's Azure-powered robot, now uses vision, voice and contextual data to improve retail workflows and customer interactions.
 
-Stock Titan • 5h ago
+Stock Titan • 6h ago
 
 ---
 
 **[Fauna Robotics unveils friendly humanoid robot Sprout](https://www.yahoo.com/news/videos/fauna-robotics-unveils-friendly-humanoid-131128200.html)**
 
-Yahoo • 5h ago
+Yahoo • 6h ago
 
 ---
 
@@ -212,7 +212,7 @@ To learn more about the DM-EXton2 and Daimon Robotics, click the link in the des
 
 📺 PRO ROBOTS
 
-👁️ 8K • 👍 248 • 💬 24 • ⏱️ 14:08 • 5d ago
+👁️ 8K • 👍 248 • 💬 24 • ⏱️ 14:08 • 6d ago
 
 ---
 
@@ -242,7 +242,7 @@ Sprout, a 3 1/2-foot-tall humanoid from Fauna Robotics, debuts with a soft foam 
 
 📺 Associated Press
 
-👁️ 2K • 👍 42 • 💬 7 • ⏱️ 0:55 • 5h ago
+👁️ 2K • 👍 42 • 💬 7 • ⏱️ 0:55 • 6h ago
 
 ---
 
