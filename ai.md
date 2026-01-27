@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-01-27T17:54:52.246405+00:00'
+updated: '2026-01-27T18:41:07.074134+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- news
-- videos
 - repositories
 - social
+- news
+- videos
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** January 27, 2026 at 17:54 UTC  
+**Last Updated:** January 27, 2026 at 18:41 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -41,7 +41,7 @@ AI news, discussions, and developments
 
 A new AHA Market Scan Trailblazer report suggests tat rural hospital constraints related to operating margins, workforce shortages, geographic isolation, and growing administrative burden may be accelerating a more pragmatic and targeted approach to artificial intelligence adoption.
 
-🔗 [American Hospital Association](https://www.aha.org/aha-center-health-innovation-market-scan/2026-01-27-rural-hospitals-and-ai-advantage-turning-constraints-catalysts) • 1h ago
+🔗 [American Hospital Association](https://www.aha.org/aha-center-health-innovation-market-scan/2026-01-27-rural-hospitals-and-ai-advantage-turning-constraints-catalysts) • 2h ago
 
 ---
 
@@ -53,7 +53,7 @@ Determined to use her skills to fight inequality, South African computer scienti
 
 In Africa, AI is gradually making its way into technologies such as advanced surveillance systems and combat drones, which are being deployed to fight organised crime, extremist groups, and violent insurgencies. Though the long-term potential for AI to impact military operations in Africa is undeniable, its impact on organised violence has so far been limited. These limits reflect both the novelty and constraints of existing AI-enabled technology.
 
-🔗 [allAfrica.com](https://allafrica.com/view/group/main/main/id/00081207.html) • 4h ago
+🔗 [allAfrica.com](https://allafrica.com/view/group/main/main/id/00081207.html) • 5h ago
 
 ---
 
@@ -61,7 +61,7 @@ In Africa, AI is gradually making its way into technologies such as advanced sur
 
 Ever since I started using LLMs in early 2023, my life has genuinely changed. Productivity and the speed of getting deep information just increased by 10x. Curious to know what are some of your favorite LLMs in 2026? For most of 2023-24, I was a diehard ChatGPT user. Used it for almost everything, helped me launch my e-commerce brands, systematize my marketing agency, and just general day-to-day decision making. Entering 2025, GPT-4 and 5 started feeling really robotic. It lost that human touch as more users flooded in. GPT got overtaken by Gemini with the launch of Nanobanana 1 and 2. Content creation and creative generation became so much quicker, more accurate, and sharper. Video generation with Veo3 was a game changer for creating briefs for designers. That said, Gemini still lacked the human warmth that GPT 4.0 had. The vibe coding/build function though, it was Incredible. Generated a full landing page in a matter of minutes. Now in 2026, I've ported 90% of my work to Anthropic's Claude. I work with a ton of data now, and Claude's coding capabilities can break down hundreds of spreadsheets in minutes. Among the 3 LLMs, Claude feels the closest to talking to an actual human. The analysis and responses are way more concise compared to GPT and Gemini. My top 3: Claude: Overall champion. Strong coding capabilities, responses that actually sound human, and solid copywriting skills. Gemini: Runner-up. Great all-rounder with Nanobanana, Veo3, app building, and presentation slides. GPT: Decent... meh. What are your takes? Anyone doing anything crazy with these that I should know about? Would love to hear your thoughts and swap ideas. Looking at more ways too amplify my productivity within the marketing and business space.
 
-9h ago
+10h ago
 
 ---
 
@@ -77,7 +77,7 @@ Meta is blocking teens worldwide from accessing AI chatbot characters while it r
 
 Philips will soon show off its new AI-ready digital signage at ISE 2026 in Barcelona. The 5000 series is the "most intelligent" to date.
 
-🔗 [PC Guide](https://www.pcguide.com/news/philips-unveils-first-ai-ready-advertising-boards-digital-signage-ranging-from-32-to-98-to-be-demoed-soon/) • 2h ago
+🔗 [PC Guide](https://www.pcguide.com/news/philips-unveils-first-ai-ready-advertising-boards-digital-signage-ranging-from-32-to-98-to-be-demoed-soon/) • 3h ago
 
 ---
 
@@ -93,7 +93,7 @@ EU Investigates X Over Alleged Failures to Curb Illegal Grok AI Content.[1] Micr
 
 Hi I am a cs undergrad working on project where I need to search for models which can detect walls and floor which will be further processed to mask floor and walls to product a mask for masking I have researched and found sam3 to be the best but the issue is the prompt in sam 3 if there is any good model which can be used before sam which can provide hints to sam about location of floor and walls it would be able to produce better results. To try this I tried using grounding dino got some good results but it was too complex for pipeline. So next I looked for yolo models and trained yolov8m.seg which helps in both object detection and masking so I tried to train it on ade20k data and try to get a better model out of it which could detect floor and walls and segment it both. So that it's prompts can be used by sam to produce the final mask. But the issue came in traning that it's not able to accurately product the output and detect floor or walls. Any models you guys have worked with or any better data set which I should use instead of ade20k. Or should I change my approch
 
-7h ago
+8h ago
 
 ---
 
@@ -129,69 +129,23 @@ The BBC's Lily Jamali looks into why big US firms and start-ups alike are turnin
 
 Dario Amodei questions if human systems are ready to handle the ‘almost unimaginable power’ that is ‘potentially imminent’
 
-The Guardian • 3h ago
+The Guardian • 4h ago
 
 ---
 
-**[Maia 200: The AI accelerator built for inference](https://blogs.microsoft.com/blog/2026/01/26/maia-200-the-ai-accelerator-built-for-inference/)**
+**[Anthropic CEO on the risks on unchecked AI development](https://www.nbcnews.com/video/shorts/anthropic-ceo-on-the-risks-on-unchecked-ai-development-256668229989)**
 
-Today, we’re proud to introduce Maia 200, a breakthrough inference accelerator engineered to dramatically improve the economics of AI token generation. Maia 200 is an AI inference powerhouse: an accelerator built on TSMC’s 3nm process with native FP8/FP4 tensor cores, a redesigned memory system with 216GB HBM3e at 7 TB/s and 272MB of on-chip SRAM, plus...
+Anthropic CEO on the risks on unchecked AI development
 
-The Official Microsoft Blog • 1d ago
-
----
-
-**[Mozilla is building an AI ‘rebel alliance’ to take on industry heavweights OpenAI, Anthropic](https://www.cnbc.com/2026/01/27/mozilla-building-an-ai-rebel-alliance-to-take-on-openai-anthropic-.html)**
-
-Mozilla is looking to deploy its roughly $1.4 billion in reserves to support "mission driven" companies and nonprofits, and is particularly focused on AI.
-
-CNBC • 54m ago
+NBC News • 33m ago
 
 ---
 
-**[Personal Intelligence in AI Mode in Search: Help that's uniquely yours](https://blog.google/products-and-platforms/products/search/personal-intelligence-ai-mode-search/)**
+**[Dario Amodei warns AI may cause ‘unusually painful’ disruption to jobs](https://www.cnbc.com/2026/01/27/dario-amodei-warns-ai-cause-unusually-painful-disruption-jobs.html)**
 
-Personal Intelligence lets you tap into your context from Gmail and Photos to deliver tailored responses in Search, just for you.
+"The pace of progress in AI is much faster than for previous technological revolutions," the Antrhopic CEO said in latest comments about AI's impact on jobs.
 
-blog.google • 5d ago
-
----
-
-**[Google now lets users jump from AI Overviews into AI Mode conversations](https://techcrunch.com/2026/01/27/google-now-lets-users-jump-from-ai-overviews-into-ai-mode-conversations/)**
-
-The tech giant also announced that it's making Gemini 3 the new default model for AI Overviews globally.
-
-TechCrunch • 54m ago
-
----
-
-**[Google is blurring the line between search and chatbot](https://www.businessinsider.com/google-ai-overviews-mobile-search-mode-blurring-line-chatbot-2026-1)**
-
-Google is bringing the conversation right into Search, letting users ask follow-up questions to AI Overviews on mobile.
-
-Business Insider • 53m ago
-
----
-
-**[Yann LeCun, an A.I. Pioneer, Warns the Tech ‘Herd’ Could Hit a Dead End](https://www.nytimes.com/2026/01/26/technology/an-ai-pioneer-warns-the-tech-herd-is-marching-into-a-dead-end.html)**
-
-The New York Times • 1d ago
-
----
-
-**[People are protesting AI data centers, and it's scrambling political lines](https://www.npr.org/2026/01/25/nx-s1-5684321/trump-ai)**
-
-Data centers used to fuel AI are popping up all over the U.S., and they're becoming a midterm issue for voters that's now drawing White House attention.
-
-NPR • 1d ago
-
----
-
-**[Yahoo launches AI answer engine, Scout](https://www.axios.com/2026/01/27/yahoo-scout-ai-search-launch)**
-
-Scout is on the Yahoo Search app and integrates across Mail, News, Finance and Sports.
-
-Axios • 2h ago
+CNBC • 47m ago
 
 ---
 
@@ -199,7 +153,49 @@ Axios • 2h ago
 
 The company said it's "reallocating resources" to roles and teams focused on artificial intelligence.
 
-CNBC • 4h ago
+CNBC • 5h ago
+
+---
+
+**[Pinterest cuts up to 15% jobs to prioritize AI push, shares sink](https://www.reuters.com/business/world-at-work/pinterest-cuts-nearly-15-jobs-redirect-resources-ai-2026-01-27/)**
+
+Reuters • 2h ago
+
+---
+
+**[Pinterest to Cut ‘Less Than 15%’ of Staff Amid AI Push](https://www.bloomberg.com/news/articles/2026-01-27/pinterest-to-cut-less-than-15-of-staff-amid-ai-push)**
+
+Bloomberg.com • 1h ago
+
+---
+
+**[Google’s more affordable AI Plus plan rolls out to all markets, including the U.S.](https://techcrunch.com/2026/01/27/googles-ai-plus-plan-rolls-out-to-all-markets-including-the-u-s/)**
+
+Gemini 3 Pro and other AI tools are now available globally through the Google AI Plus plan, which is $7.99 per month in the United States.
+
+TechCrunch • 40m ago
+
+---
+
+**[Google AI Plus is now available everywhere our AI plans are available, including the U.S.](https://blog.google/products-and-platforms/products/google-one/google-ai-plus-availability/)**
+
+We’re launching Google AI Plus in 35 new countries and territories including the US, making it available everywhere Google AI plans are available.
+
+blog.google • 31m ago
+
+---
+
+**[Google AI Plus is now available in the US for $8 a month](https://www.engadget.com/ai/google-ai-plus-is-now-available-in-the-us-for-8-a-month-180000175.html)**
+
+Google AI Plus, the company’s most affordable AI subscription plan, is now rolling out in the US.
+
+Engadget • 41m ago
+
+---
+
+**[OpenAI Debuts New Tool for Scientists in Push for AI Discovery](https://www.bloomberg.com/news/articles/2026-01-27/openai-debuts-new-tool-for-scientists-in-push-for-ai-discovery)**
+
+Bloomberg.com • 40m ago
 
 ---
 
@@ -257,13 +253,13 @@ Today everybody's doing AI code review. Here's how Greptile's viewpoint is diffe
 
 Opinion: Autonomous agents may generate millions of lines of code, but shipping software is another matter
 
-⬆️ 228 • 💬 137 • 22h ago • [theregister.com](https://www.theregister.com/2026/01/26/cursor_opinion/)
+⬆️ 228 • 💬 137 • 23h ago • [theregister.com](https://www.theregister.com/2026/01/26/cursor_opinion/)
 
 ---
 
 **[AI code and software craft](https://news.ycombinator.com/item?id=46769188)**
 
-⬆️ 224 • 💬 139 • 23h ago • [alexwennerberg.com](https://alexwennerberg.com/blog/2026-01-25-slop.html)
+⬆️ 224 • 💬 139 • 1d ago • [alexwennerberg.com](https://alexwennerberg.com/blog/2026-01-25-slop.html)
 
 ---
 
@@ -277,7 +273,7 @@ Opinion: Autonomous agents may generate millions of lines of code, but shipping 
 
 Interactive map of 59,000+ active US Coast Guard lighthouses and navigational aids with animated light patterns.
 
-⬆️ 98 • 💬 21 • 1d ago • [lighthouses.app](https://www.lighthouses.app/)
+⬆️ 98 • 💬 21 • 2d ago • [lighthouses.app](https://www.lighthouses.app/)
 
 ---
 
@@ -285,13 +281,23 @@ Interactive map of 59,000+ active US Coast Guard lighthouses and navigational ai
 
 ## YouTube Videos: "ai"
 
-**[&#39;HUGE BREAKTHROUGHS&#39;: NVIDIA CEO reveals future of AI](https://www.youtube.com/watch?v=oa7FWO8i7kk)**
+**[Anthropic CEO speaks about &#39;powerful&#39; AI risks and regulation](https://www.youtube.com/watch?v=tjW_gms7CME)**
 
-NVIDIA CEO Jensen Huang discusses how artificial intelligence is advancing and handling competition with China on 'Maria ...
+Dario Amodei, the CEO of the AI company Anthropic, joined "Top Story" to discuss his new essay "The Adolescence of ...
 
-📺 Fox Business
+📺 NBC News
 
-👁️ 108K • 👍 2K • 💬 554 • ⏱️ 4:20 • 1d ago
+👁️ 1K • 👍 52 • 💬 19 • ⏱️ 18:01 • 2h ago
+
+---
+
+**[How to Make Animated Cartoon videos with AI (Full Course)](https://www.youtube.com/watch?v=oEzIrS7cM3M)**
+
+Create Animated Cartoons with OpenArt https://youricreates.com/cartoons In this video, I show you a complete five-step ...
+
+📺 Youri van Hofwegen
+
+👁️ 5K • ⏱️ 15:48 • 2h ago
 
 ---
 
@@ -301,7 +307,17 @@ Access Every Image Generator in OpenArt https://roboverse-ai.com/images In this 
 
 📺 Roboverse
 
-👁️ 5K • 💬 1 • ⏱️ 13:19 • 3h ago
+👁️ 7K • 💬 1 • ⏱️ 13:19 • 4h ago
+
+---
+
+**[&#39;HUGE BREAKTHROUGHS&#39;: NVIDIA CEO reveals future of AI](https://www.youtube.com/watch?v=oa7FWO8i7kk)**
+
+NVIDIA CEO Jensen Huang discusses how artificial intelligence is advancing and handling competition with China on 'Maria ...
+
+📺 Fox Business
+
+👁️ 114K • 👍 2K • 💬 587 • ⏱️ 4:20 • 1d ago
 
 ---
 
@@ -311,17 +327,7 @@ The AI industry just collided with reality. After years of hype, demos, and unli
 
 📺 AI Revolution
 
-👁️ 66K • 👍 2K • 💬 252 • ⏱️ 12:27 • 2d ago
-
----
-
-**[Grok Is Everything That’s Wrong with AI](https://www.youtube.com/watch?v=NSGzpdnlVIM)**
-
-Grok. It's like Uber for your brain. And Grok is growing bigger and bigger, despite breaking laws and being criminally cringe.
-
-📺 The Bitchuation Room (with Francesca Fiorentini)
-
-👁️ 17K • 👍 2K • 💬 276 • ⏱️ 17:08 • 2d ago
+👁️ 66K • 👍 2K • 💬 254 • ⏱️ 12:27 • 2d ago
 
 ---
 
@@ -331,7 +337,17 @@ The latest AI News. Learn about LLMs, Gen AI and get ready for the rollout of AG
 
 📺 Wes Roth
 
-👁️ 25K • 👍 799 • 💬 176 • ⏱️ 12:43 • 2d ago
+👁️ 25K • 👍 806 • 💬 177 • ⏱️ 12:43 • 2d ago
+
+---
+
+**[Grok Is Everything That’s Wrong with AI](https://www.youtube.com/watch?v=NSGzpdnlVIM)**
+
+Grok. It's like Uber for your brain. And Grok is growing bigger and bigger, despite breaking laws and being criminally cringe.
+
+📺 The Bitchuation Room (with Francesca Fiorentini)
+
+👁️ 17K • 👍 2K • 💬 278 • ⏱️ 17:08 • 2d ago
 
 ---
 
@@ -341,37 +357,7 @@ CHAPTERS ⤵ 00:00 AI Innovations You Need to Know 02:20 AI Trained on Body Cam 
 
 📺 Dylan Curious
 
-👁️ 6K • 👍 294 • 💬 74 • ⏱️ 27:06 • 1d ago
-
----
-
-**[I Tested EVERY AI Video Generator in 2026. Here&#39;s the Best Ones.](https://www.youtube.com/watch?v=jYbdm6aKFas)**
-
-Use Every AI Video Model in OpenArt https://www.openart.ai/home/?ref=isa-26 In this video, I break down the AI video ...
-
-📺 Isa does AI
-
-👁️ 6K • 💬 1 • ⏱️ 16:20 • 4h ago
-
----
-
-**[Blunt advice about AI from Axios CEO Jim VandeHei](https://www.youtube.com/watch?v=S9cfcpzJ_Ck)**
-
-Axios CEO Jim VandeHei shares the blunt AI advice he recently wrote to his family, and why he believes every worker, parent, ...
-
-📺 Axios
-
-👁️ 7K • 👍 173 • 💬 17 • ⏱️ 5:57 • 1d ago
-
----
-
-**[I Sent AI the Shooting Video From Minneapolis and Let It React](https://www.youtube.com/watch?v=XBqNaJWdW4k)**
-
-Go to https://groundnews.com/ai to stay fully informed about U.S. politics, AI, and more. Subscribe through my link to get 40% off ...
-
-📺 I Ask AI
-
-👁️ 177K • 👍 10K • 💬 1K • ⏱️ 12:43 • 1d ago
+👁️ 6K • 👍 298 • 💬 74 • ⏱️ 27:06 • 1d ago
 
 ---
 
@@ -381,7 +367,17 @@ Stonehenge Mystery Finally Solved by AI and the Truth Is Terrifying For over 500
 
 📺 The Silent Archive
 
-👁️ 127K • 👍 1K • 💬 185 • ⏱️ 21:00 • 1d ago
+👁️ 135K • 👍 1K • 💬 189 • ⏱️ 21:00 • 1d ago
+
+---
+
+**[I Tested EVERY AI Video Generator in 2026. Here&#39;s the Best Ones.](https://www.youtube.com/watch?v=jYbdm6aKFas)**
+
+Use Every AI Video Model in OpenArt https://www.openart.ai/home/?ref=isa-26 In this video, I break down the AI video ...
+
+📺 Isa does AI
+
+👁️ 8K • 💬 1 • ⏱️ 16:20 • 5h ago
 
 ---
 
@@ -397,7 +393,7 @@ PersonaPlex-7B-v1 is a real-time, full-duplex speech-to-speech conversational mo
 
 `audio-to-audio`
 
-⬇️ 43,872 • ❤️ 1,206 • 4d ago
+⬇️ 43,872 • ❤️ 1,215 • 4d ago
 
 ---
 
@@ -409,7 +405,7 @@ VibeVoice-ASR is a unified speech-to-text model capable of processing up to 60 m
 
 `automatic-speech-recognition` `8.7B`
 
-⬇️ 76,679 • ❤️ 635 • 4h ago
+⬇️ 76,679 • ❤️ 638 • 5h ago
 
 ---
 
@@ -421,7 +417,7 @@ Qwen3-TTS-12Hz-1.7B-CustomVoice is a multilingual text-to-speech model supportin
 
 `1.9B`
 
-⬇️ 138,693 • ❤️ 619 • 4d ago
+⬇️ 138,693 • ❤️ 623 • 4d ago
 
 ---
 
@@ -433,7 +429,7 @@ GLM-4.7-Flash is a 30B-A3B MoE model, offering strong performance in the 30B cla
 
 `text-generation` `31.2B`
 
-⬇️ 532,168 • ❤️ 1,266 • 7d ago
+⬇️ 532,168 • ❤️ 1,269 • 7d ago
 
 ---
 
@@ -445,7 +441,7 @@ Kimi K2.5 is a native multimodal agentic model with 1T parameters, excelling in 
 
 `image-text-to-text`
 
-⬇️ 10,965 • ❤️ 453 • 5h ago
+⬇️ 10,965 • ❤️ 500 • 6h ago
 
 ---
 
@@ -457,7 +453,7 @@ LightOnOCR-2-1B is an efficient 1B-parameter end-to-end vision-language model fo
 
 `image-text-to-text` `1.0B`
 
-⬇️ 19,899 • ❤️ 381 • 6d ago
+⬇️ 19,899 • ❤️ 385 • 6d ago
 
 ---
 
@@ -469,7 +465,7 @@ DeepSeek-OCR-2 is a multilingual vision-language model for image-to-text tasks, 
 
 `image-text-to-text` `3.4B`
 
-⬇️ 0 • ❤️ 282 • 6h ago
+⬇️ 0 • ❤️ 306 • 7h ago
 
 ---
 
@@ -481,7 +477,7 @@ Chroma-4B is a real-time, end-to-end spoken dialogue model capable of speech und
 
 `any-to-any` `5.9B`
 
-⬇️ 5,776 • ❤️ 257 • 1d ago
+⬇️ 5,776 • ❤️ 258 • 1d ago
 
 ---
 
@@ -493,7 +489,7 @@ GLM-4.7-Flash is a 30B-A3B MoE model offering a balance of performance and effic
 
 `text-generation` `29.9B`
 
-⬇️ 248,496 • ❤️ 353 • 3d ago
+⬇️ 248,496 • ❤️ 354 • 3d ago
 
 ---
 
@@ -505,7 +501,7 @@ Sweep Next-Edit 1.5B is a GGUF quantized model for next-edit code autocompletion
 
 `1.4B`
 
-⬇️ 3,444 • ❤️ 246 • 4d ago
+⬇️ 3,444 • ❤️ 247 • 4d ago
 
 ---
 
@@ -533,7 +529,7 @@ The Qwen3-TTS series presents advanced multilingual text-to-speech models with v
 
 UltraRAG is a comprehensive RAG toolkit that automates knowledge adaptation across the entire workflow while providing a user-friendly interface for non-coding deployment.
 
-▲ 5 • 💬 0 • ⭐ 4,432 • 10mo ago
+▲ 5 • 💬 0 • ⭐ 4,454 • 10mo ago
 
 [🎓 arXiv](https://arxiv.org/abs/2504.08761) • [💻 code](https://github.com/OpenBMB/UltraRAG)
 
@@ -585,7 +581,7 @@ To support reliable long-term interaction in complex environments, LLM agents re
 
 Agentic reasoning redefines large language models as autonomous agents capable of planning, acting, and learning through continuous interaction in dynamic environments across single-agent and multi-agent frameworks.
 
-▲ 178 • 💬 6 • ⭐ 670 • 9d ago
+▲ 179 • 💬 6 • ⭐ 670 • 9d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2601.12538) • [💻 code](https://github.com/weitianxin/Awesome-Agentic-Reasoning)
 
@@ -613,7 +609,7 @@ PagedAttention algorithm and vLLM system enhance the throughput of large languag
 
 SmolDocling is a compact vision-language model that performs end-to-end document conversion with robust performance across various document types using 256M parameters and a new markup format.
 
-▲ 136 • 💬 19 • ⭐ 51,215 • 10mo ago
+▲ 136 • 💬 19 • ⭐ 51,258 • 10mo ago
 
 [🎓 arXiv](https://arxiv.org/abs/2503.11576) • [💻 code](https://github.com/docling-project/docling) • [🔗 project](https://huggingface.co/ds4sd/SmolDocling-256M-preview)
 
@@ -669,7 +665,7 @@ Browser automation CLI for AI agents
 
 `TypeScript`
 
-⭐ 11.0k • 🔱 601 • 2h ago
+⭐ 11.0k • 🔱 603 • 3h ago
 
 ---
 
@@ -679,7 +675,7 @@ AI → JSON → UI
 
 `TypeScript`
 
-⭐ 9.4k • 🔱 493 • 1d ago
+⭐ 9.4k • 🔱 494 • 1d ago
 
 ---
 
@@ -719,7 +715,7 @@ Marketing skills for Claude Code and AI agents. CRO, copywriting, SEO, analytics
 
 `claude` `codex` `marketing`
 
-⭐ 4.9k • 🔱 530 • 15h ago
+⭐ 5.0k • 🔱 530 • 15h ago
 
 ---
 
@@ -729,7 +725,7 @@ The Ultimate Collection of 200+ Agentic Skills for Claude Code/Antigravity/Curso
 
 `Python` `agentic-skills` `ai-agents` `antigravity` `autonomous-coding` `claude-code`
 
-⭐ 4.3k • 🔱 981 • 8h ago
+⭐ 4.3k • 🔱 994 • 1h ago
 
 ---
 
@@ -737,7 +733,7 @@ The Ultimate Collection of 200+ Agentic Skills for Claude Code/Antigravity/Curso
 
 Claude Code skill that removes signs of AI-generated writing from text
 
-⭐ 3.3k • 🔱 276 • 4d ago
+⭐ 3.3k • 🔱 279 • 4d ago
 
 ---
 

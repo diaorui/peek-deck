@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-01-27T17:54:52.254837+00:00'
+updated: '2026-01-27T18:41:07.082667+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- cryptocurrency
+- social
 - news
 - videos
-- social
+- cryptocurrency
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** January 27, 2026 at 17:54 UTC  
+**Last Updated:** January 27, 2026 at 18:41 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -44,27 +44,27 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Chart
 
-**24h:** -0.6%  
-**7d:** -2.1%  
-**30d:** +0.6%  
-**90d:** -19.0%  
-**1y:** -13.5%  
+**24h:** -0.3%  
+**7d:** -2.0%  
+**30d:** +0.7%  
+**90d:** -18.9%  
+**1y:** -13.4%  
 
 ---
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1763.22B
+**Market Cap:** $1752.06B
 Rank #1
 
-**Circulating Supply:** 19,981,203 BTC
+**Circulating Supply:** 19,981,218 BTC
 95.1% of max
 
 **All-Time High:** $126,080.00
--30.0%
+-30.4%
 
 **All-Time Low:** $67.81
-+130050.4%
++129223.1%
 
 ---
 
@@ -79,13 +79,13 @@ Rank #1
 
 **[still hodling](https://www.reddit.com/r/Bitcoin/comments/1qoarog/still_hodling/)**
 
-6h ago
+7h ago
 
 ---
 
 **[Rule 11](https://www.reddit.com/r/Bitcoin/comments/1qoe2h3/rule_11/)**
 
-4h ago
+5h ago
 
 ---
 
@@ -107,13 +107,13 @@ I'm making this post to vent and get some opinions. I'm scared. I'm 19, and this
 
 HODL.
 
-26m ago
+1h ago
 
 ---
 
 **[Still here !!](https://www.reddit.com/r/Bitcoin/comments/1qo8o7j/still_here/)**
 
-8h ago
+9h ago
 
 ---
 
@@ -125,13 +125,13 @@ HODL.
 
 **[The majority of the top US banks are now into Bitcoin 🚀](https://www.reddit.com/r/Bitcoin/comments/1qohu4h/the_majority_of_the_top_us_banks_are_now_into/)**
 
-1h ago
+2h ago
 
 ---
 
 **[Eric shares 3 really interesting facts about the IBIT bitcoin ETF](https://www.reddit.com/r/Bitcoin/comments/1qoh9h6/eric_shares_3_really_interesting_facts_about_the/)**
 
-2h ago
+3h ago
 
 ---
 
@@ -147,7 +147,7 @@ HODL.
 
 **[Silver overtakes bitcoin’s post-2017 gains as price blows past $115](https://www.theblock.co/post/387138/silver-overtakes-bitcoin-post-2017-gains-price-blows-past-115)**
 
-The Block • 19h ago
+The Block • 20h ago
 
 ---
 
@@ -155,15 +155,15 @@ The Block • 19h ago
 
 Bitcoin traded lower alongside most major tokens as investors favored gold and silver ahead of the Federal Reserve decision and a heavy week of Magnificent Seven earnings.
 
-CoinDesk • 12h ago
+CoinDesk • 13h ago
 
 ---
 
-**[American Bitcoin increases bitcoin treasury to 5,843 BTC](https://finance.yahoo.com/news/american-bitcoin-increases-bitcoin-treasury-151302794.html)**
+**[Fears grow that bitcoin is entering a bear market](https://sherwood.news/crypto/fears-grow-that-bitcoin-is-entering-a-bear-market/)**
 
-American Bitcoin has accumulated an average of 17 bitcoin per day so far in 2026.
+“While a new all-time high this year still isn’t out of the question, the next 30 days will be crucial in determining whether a bear market is...
 
-Yahoo Finance • 2h ago
+Sherwood News • 1d ago
 
 ---
 
@@ -171,7 +171,7 @@ Yahoo Finance • 2h ago
 
 Co-founder and CEO Alex Busarov describes the evolution of his product that heats a room, purifies the air, and mines Bitcoin all at the same time.
 
-Forbes • 58m ago
+Forbes • 1h ago
 
 ---
 
@@ -179,7 +179,15 @@ Forbes • 58m ago
 
 While the bitcoin hashrate has crashed, experts say this is a temporary reaction to the weather....
 
-Sherwood News • 31m ago
+Sherwood News • 1h ago
+
+---
+
+**[Why MicroStrategy’s Latest Bitcoin Purchase Is Deeply Concerning](https://finance.yahoo.com/news/why-microstrategy-latest-bitcoin-purchase-193558229.html)**
+
+MicroStrategy’s latest Bitcoin purchase raises structural concerns around dilution, mNAV, and shareholder value.
+
+Yahoo Finance • 23h ago
 
 ---
 
@@ -187,29 +195,13 @@ Sherwood News • 31m ago
 
 The move came only a week after executive chairman Michael Saylor made a separate $2 billion Bitcoin purchase.
 
-Fortune • 23h ago
+Fortune • 1d ago
 
 ---
 
 **[Bitcoin Miners Power Down US Operations in Wake of Winter Storm](https://www.bloomberg.com/news/articles/2026-01-26/bitcoin-miners-power-down-us-operations-in-wake-of-winter-storm)**
 
-Bloomberg • 19h ago
-
----
-
-**[Peter Schiff Reiterates Anti-Bitcoin Stance In Interview](https://bitcoinmagazine.com/news/peter-schiff-bitcoin-tucker-carlson)**
-
-Gold advocate and longtime Bitcoin critic Peter Schiff said that the crypto industry is pushing for government regulation and bailouts not to self-restrain, but to gain public legitimacy.
-
-Bitcoin Magazine • 20h ago
-
----
-
-**[Better Buy in 2026: XRP, Dogecoin, or Bitcoin?](https://www.fool.com/investing/2026/01/26/better-buy-in-2026-xrp-dogecoin-or-bitcoin/)**
-
-Which of these top coins is the best way to play the crypto market this year?
-
-The Motley Fool • 1d ago
+Bloomberg.com • 20h ago
 
 ---
 
@@ -218,6 +210,14 @@ The Motley Fool • 1d ago
 BlackRock filed for a Bitcoin income ETF using an options strategy to generate premium income for investors beyond spot price gains.
 
 Yahoo Finance • 1d ago
+
+---
+
+**[BlackRock eyes new Bitcoin ETF with premium](https://www.dlnews.com/articles/markets/blackrock-eyes-new-bitcoin-etf-with-premium/)**
+
+BlackRock has filed to launch a second Bitcoin ETF two years after the debut of its blockbuster product, IBIT. This one would feature additional income earned by selling call options on IBIT shares.  Among traditional financial firms, BlackRock has been among the most aggressive to embrace crypto.
+
+dlnews.com • 21h ago
 
 ---
 
@@ -254,7 +254,7 @@ Stargate UI
 
 For years, crypto investors have waited for a familiar miracle. Altcoin season. The moment when small coins suddenly outrun Bitcoin,
 
-⬆️ 1 • 💬 0 • 6h ago • [The Bit Gazette](https://thebitgazette.com/why-altcoin-season-may-not-happen-in-2026-as-bitcoin-keeps-control/)
+⬆️ 1 • 💬 0 • 7h ago • [The Bit Gazette](https://thebitgazette.com/why-altcoin-season-may-not-happen-in-2026-as-bitcoin-keeps-control/)
 
 ---
 
@@ -296,7 +296,7 @@ Traders are braced for this week’s inflation reading to be higher than previou
 
 Social media giant Meta’s AI initiatives are already in the spotlight, including Meta AI and Meta Superintelligence Labs. Building on this momentum, Meta has
 
-⬆️ 1 • 💬 0 • 3h ago • [Altcoin Desk](https://altcoindesk.com/news/metas-exclusive-features-for-social-media-platforms-now-include-ai-manus/article-22350/)
+⬆️ 1 • 💬 0 • 4h ago • [Altcoin Desk](https://altcoindesk.com/news/metas-exclusive-features-for-social-media-platforms-now-include-ai-manus/article-22350/)
 
 ---
 
@@ -304,13 +304,13 @@ Social media giant Meta’s AI initiatives are already in the spotlight, includi
 
 ## YouTube Videos: "bitcoin"
 
-**[Why Isn&#39;t Bitcoin Going Up While Gold &amp; Silver Are Surging?](https://www.youtube.com/watch?v=MdWTq7-sMR8)**
+**[Rotation to Gold and Silver is Now...Bitcoin Is Next](https://www.youtube.com/watch?v=QVnjXPwRwR0)**
 
-In this solo episode, Anthony Pompliano explains why Bitcoin is lagging while gold, silver, copper, and platinum are surging.
+Today, let's examine Bitcoin's charts and metrics, as well as the latest Macro and Crypto news. Additionally, a look at the latest ...
 
-📺 Anthony Pompliano
+📺 CryptosRUs
 
-👁️ 42K • 👍 2K • 💬 55 • ⏱️ 17:45 • 19h ago
+👁️ 13K • 👍 850 • 💬 120 • ⏱️ 43:35 • 2h ago
 
 ---
 
@@ -320,7 +320,17 @@ Sell BItcoin, buy Silver? Altcoins, stocks, and more BITUNIX TRADE THE TOP COINS
 
 📺 Lark Davis
 
-👁️ 9K • 👍 614 • 💬 91 • ⏱️ 14:11 • 6h ago
+👁️ 13K • 👍 725 • 💬 97 • ⏱️ 14:11 • 7h ago
+
+---
+
+**[Why Isn&#39;t Bitcoin Going Up While Gold &amp; Silver Are Surging?](https://www.youtube.com/watch?v=MdWTq7-sMR8)**
+
+In this solo episode, Anthony Pompliano explains why Bitcoin is lagging while gold, silver, copper, and platinum are surging.
+
+📺 Anthony Pompliano
+
+👁️ 46K • 👍 2K • 💬 55 • ⏱️ 17:45 • 20h ago
 
 ---
 
@@ -330,17 +340,17 @@ Exchange Partners** Bitunix Exchange ▻ *$100000 Deposit Bonus* ▻ https://bit
 
 📺 CryptosRUs
 
-👁️ 29K • 👍 2K • 💬 355 • ⏱️ 8:05 • 17h ago
+👁️ 30K • 👍 2K • 💬 355 • ⏱️ 8:05 • 18h ago
 
 ---
 
-**[Is The Bitcoin Bottom CLOSE?! Coffee N Crypto LIVE](https://www.youtube.com/watch?v=Ck-ODXYriCo)**
+**[BREAKING: IT’S HAPPENING AGAIN](https://www.youtube.com/watch?v=9XzkNFXIRG0)**
 
-A MAJOR MOVEMENT IS AROUND THE CORNER! Are you ready? Sign Up For Phemex and Earn a brand new iPhone 16 ...
+Trade Like A Tourist Or Join The Pros FFA Is Where The Real Ones Go https://cryptocrewuniversity.com/ffa Get INSIDER ...
 
-📺 Crypto Jebb
+📺 Crypto Crew University
 
-👁️ 771 • 👍 62 • 💬 14 • ⏱️ 49:52 • 1h ago
+👁️ 15K • 👍 2K • 💬 128 • ⏱️ 15:06 • 4h ago
 
 ---
 
@@ -350,27 +360,7 @@ IT'S OVER FOR CRYPTO BLACKROCK PLACED THEIR BETS! I don't believe that crypto is
 
 📺 CryptoWendyO
 
-👁️ 28K • 👍 1K • 💬 217 • ⏱️ 3:19 • 19h ago
-
----
-
-**[&quot;Bitcoin Will SHATTER Before Mooning, Prepare NOW!&quot; - Jack Mallers Warns](https://www.youtube.com/watch?v=wkDOCru0hlo)**
-
-DISCLAIMER: We may receive a small commission for any purchases made through our affiliate links. Thanks For Watching Our ...
-
-📺 Savvy Finance
-
-👁️ 7K • 👍 327 • 💬 46 • ⏱️ 18:13 • 18h ago
-
----
-
-**[Dollar CRASH Incoming?! Is Bitcoin About to Erupt?](https://www.youtube.com/watch?v=35UC7C2b-X0)**
-
-Gold and silver are ripping to record highs, but the real story is what this says about the dollar. Central banks are trapped, ...
-
-📺 Simply Bitcoin
-
-👁️ 26K • 👍 2K • 💬 238 • ⏱️ 18:47 • 17h ago
+👁️ 30K • 👍 1K • 💬 217 • ⏱️ 3:19 • 20h ago
 
 ---
 
@@ -380,27 +370,37 @@ FREE TRAINING: https://www.bullmania.com EXCHANGES I USE (bybit, pionex): https:
 
 📺 Ivan on Tech
 
-👁️ 14K • 👍 1K • 💬 81 • ⏱️ 59:47 • 7h ago
+👁️ 17K • 👍 1K • 💬 84 • ⏱️ 59:47 • 8h ago
 
 ---
 
-**[Michael Saylor on Bitcoin Crash &amp; MSTR Stock Drop – BTC Price Analysis](https://www.youtube.com/watch?v=MuZbP7EE2hM)**
+**[Dollar CRASH Incoming?! Is Bitcoin About to Erupt?](https://www.youtube.com/watch?v=35UC7C2b-X0)**
 
-BTC #Bitcoin #Cryptocurrency Join Michael Saylor for his unforgettable keynote at the Bitcoin Conference. The leading Bitcoin ...
+Gold and silver are ripping to record highs, but the real story is what this says about the dollar. Central banks are trapped, ...
 
-📺 Made By Deola
+📺 Simply Bitcoin
 
-👁️ 4K • 👍 3K • 2h ago
+👁️ 27K • 👍 2K • 💬 246 • ⏱️ 18:47 • 18h ago
 
 ---
 
-**[History Is Repeating For Bitcoin &amp; Crypto! [Do This To Make Generational Wealth]](https://www.youtube.com/watch?v=RgO4OJj4nRw)**
+**[Bitcoin will be hit HARDEST by this, warns CEO](https://www.youtube.com/watch?v=hBdvyMLVlK0)**
 
-In today's video Kyledoops shows a repeat pattern that shows what is next for Bitcoin & Crypto. Join live to find out how history ...
+ARK Invest CEO and CIO Cathie Wood shares her ideas for the 2026 markets and outlook for crypto on 'The Claman Countdown.
 
-📺 Crypto Banter
+📺 Fox Business Clips
 
-👁️ 15K • 👍 1K • 💬 20 • ⏱️ 31:36 • 9h ago
+👁️ 45K • 👍 658 • 💬 460 • ⏱️ 4:20 • 1d ago
+
+---
+
+**[&quot;Bitcoin Will SHATTER Before Mooning, Prepare NOW!&quot; - Jack Mallers Warns](https://www.youtube.com/watch?v=wkDOCru0hlo)**
+
+DISCLAIMER: We may receive a small commission for any purchases made through our affiliate links. Thanks For Watching Our ...
+
+📺 Savvy Finance
+
+👁️ 8K • 👍 342 • 💬 46 • ⏱️ 18:13 • 19h ago
 
 ---
 

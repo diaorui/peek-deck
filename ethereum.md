@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-01-27T17:54:52.260834+00:00'
+updated: '2026-01-27T18:41:07.088737+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- cryptocurrency
+- social
 - news
 - videos
-- social
+- cryptocurrency
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** January 27, 2026 at 17:54 UTC  
+**Last Updated:** January 27, 2026 at 18:41 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,27 +42,27 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** +0.5%  
-**7d:** -1.4%  
-**30d:** +0.3%  
-**90d:** -22.5%  
-**1y:** -4.1%  
+**24h:** +0.8%  
+**7d:** -1.5%  
+**30d:** +0.2%  
+**90d:** -22.6%  
+**1y:** -4.2%  
 
 ---
 
 ## Ethereum Market Stats
 
-**Market Cap:** $358.01B
+**Market Cap:** $354.66B
 Rank #2
 
 **Circulating Supply:** 120,694,394 ETH
 No max supply
 
 **All-Time High:** $4,946.05
--40.0%
+-40.5%
 
 **All-Time Low:** $0.43
-+685321.2%
++679117.7%
 
 ---
 
@@ -72,7 +72,7 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-11h ago
+12h ago
 
 ---
 
@@ -96,7 +96,7 @@ Computation > data > state Computation is easier to scale than data. You can par
 
 Hey r/defi. My name is Matt and I have built something different. EqualFi offers the following: 0% Interest self secured on chain credit. P2P Synthetic and ERC-1155 Covered Calls and Puts. A true P2P Lending system. SOLO AMM and Multi Maker AMMs all time bounded (this is powerful ask me how) Maker Auction Markets(MAM) this is something you have never seen before. Its an MEV resistant way to trade using dutch auction curves on chain. All with a Unified Liquidity pool and Internal ledger. No token(for now). Just DeFi infrastructure that anyone can build on. And here is the kicker. All without oracles or any chance of Liquidation. With this system perpetual leverage without possiblity of liquidation is REAL. This does not mean it is risk free but you cannot get liquidated by a errant wick at 3 am. Below is a link to the Github, and a link to the Discord in case you want to hop in and say hi. You don't have to believe but you should keep an eye on this project. If you want to help shape something new come say hi. Github: https://github.com/EqualFiLabs/EqualFi Discord: https://discord.gg/brsMNDux4T
 
-14h ago
+15h ago
 
 ---
 
@@ -104,7 +104,7 @@ Hey r/defi. My name is Matt and I have built something different. EqualFi offers
 
 I am trying to create a delegate wallet for every user which is connected to my dApp. I intend to have access to the private key so that I can initiate and sign transactions on the users behalf. So I am thinking of making the wallet pub and priv key on client side and I don't want the priv key to ever leave client's browser. Is it possible to implement something like this ? I use Privy for siwe if that can help me in any way.
 
-6h ago
+7h ago
 
 ---
 
@@ -156,7 +156,7 @@ Despite net outflows and a decline in ETH’s price, ETH ETFs have still had a s
 
 SharpLink CEO Joseph Chalom argues that macro uncertainty is hiding a massive institutional shift toward Ethereum-based tokenization.
 
-CoinDesk • 21h ago
+CoinDesk • 22h ago
 
 ---
 
@@ -164,7 +164,7 @@ CoinDesk • 21h ago
 
 Should you invest in the blue chip token or the smaller altcoin?
 
-The Motley Fool • 19h ago
+The Motley Fool • 20h ago
 
 ---
 
@@ -186,7 +186,7 @@ thedefiant.io • 19h ago
 
 **[Ethereum News: Ether Price Surged 226% After This Global Liquidity Signal — Is ETH Setting Up Another Breakout?](https://www.binance.com/en/square/post/01-27-2026-ethereum-news-ether-price-surged-226-after-this-global-liquidity-signal-is-eth-setting-up-another-breakout-35635381799361)**
 
-Binance • 12h ago
+Binance • 13h ago
 
 ---
 
@@ -204,14 +204,6 @@ Yahoo Finance • 1d ago
 
 ---
 
-**[Tom Lee's BitMine Makes Biggest Ethereum Buy Yet in 2026](https://decrypt.co/355842/tom-lee-bitmine-makes-biggest-ethereum-buy-so-far-2026)**
-
-Publicly traded Ethereum treasury firm BitMine Immersion Technologies added to its stash with its largest ETH acquisition of the year so far.
-
-Decrypt • 1d ago
-
----
-
 **[BitMine Highlights Massive Ethereum Treasury and Staking Strategy](https://www.tipranks.com/news/company-announcements/bitmine-highlights-massive-ethereum-treasury-and-staking-strategy)**
 
 The latest announcement is out from BitMine Immersion Technologies ( ($BMNR) ). On January 23, 2026, Bitmine Immersion Technologies appointed its current Chief Fina...
@@ -220,11 +212,19 @@ TipRanks • 1d ago
 
 ---
 
+**[Tom Lee's BitMine nears 70% of Ethereum treasury target with latest 40,302 ETH buy](https://www.theblock.co/post/387035/tom-lee-bitmine-ethereum-buy)**
+
+BitMine's total crypto and cash holdings currently stand at $12.8 billion, and the company owns 3.52% of Ethereum's circulating supply.
+
+The Block • 1d ago
+
+---
+
 **[XRP, Ethereum Now ‘Undervalued’ On MVRV, Says Santiment](https://www.tradingview.com/news/newsbtc:3378aa0c9094b:0-xrp-ethereum-now-undervalued-on-mvrv-says-santiment/)**
 
 On-chain analytics firm Santiment has pointed out how XRP and Ethereum are among coins sitting in the MVRV Ratio’s “undervalued” zone.30-Day MVRV Is Negative For XRP & EthereumIn a new post on X, on-chain analytics firm Santiment has talked about where some notable cryptocurrencies like XRP and Bit…
 
-TradingView • 11h ago
+TradingView • 12h ago
 
 ---
 
@@ -238,37 +238,17 @@ Tom Lee Just Said The UNTHINKABLE About Bitcoin & Ethereum! [2026 New Prediction
 
 📺 Crypto Nutshell
 
-👁️ 1K • 👍 94 • 💬 68 • ⏱️ 14:37 • 2h ago
+👁️ 4K • 👍 256 • 💬 44 • ⏱️ 14:37 • 3h ago
 
 ---
 
-**[Why BlackRock’s Former Crypto Head is Betting on Ethereum](https://www.youtube.com/watch?v=cNz1kdSecWU)**
-
-SharpLink CEO and former BlackRock head of digital assets strategy, Joseph Chalom, joins CoinDesk's Jennifer Sanasie on ...
-
-📺 CoinDesk
-
-👁️ 13K • 👍 466 • 💬 135 • ⏱️ 23:51 • 21h ago
-
----
-
-**[Ethereum Elliott Wave Update – Key Resistance Levels Ahead](https://www.youtube.com/watch?v=jitFf5Sl5ew)**
+**[Ethereum Elliott Wave Update – Key Resistance Levels Ahead](https://www.youtube.com/watch?v=DiW-iNg4n2Y)**
 
 This video provides a professional Elliott Wave and technical analysis of Ethereum (ETH), focusing on market structure, major ...
 
 📺 More Crypto Online
 
-👁️ 1K • 👍 92 • 💬 4 • ⏱️ 4:04 • 12h ago
-
----
-
-**[Ethereum Price Looks Ready to Pump to $4000! - BTC&amp;ETH Analysis](https://www.youtube.com/watch?v=NdrdF7oVENs)**
-
-Weekend/Bank Holiday video: https://www.youtube.com/watch?v=5pBbKuLfRZI Brighter Data Platform: https://brighterdata.com ...
-
-📺 Trading Jip
-
-👁️ 295 • 👍 28 • 💬 58 • ⏱️ 6:29 • 8h ago
+👁️ 434 • 👍 44 • 💬 4 • ⏱️ 4:08 • 1h ago
 
 ---
 
@@ -282,13 +262,43 @@ These news have huge implications towards bitcoin, ethereum and the rest of cryp
 
 ---
 
+**[Why BlackRock’s Former Crypto Head is Betting on Ethereum](https://www.youtube.com/watch?v=cNz1kdSecWU)**
+
+SharpLink CEO and former BlackRock head of digital assets strategy, Joseph Chalom, joins CoinDesk's Jennifer Sanasie on ...
+
+📺 CoinDesk
+
+👁️ 14K • 👍 503 • 💬 121 • ⏱️ 23:51 • 22h ago
+
+---
+
+**[Ethereum Price Looks Ready to Pump to $4000! - BTC&amp;ETH Analysis](https://www.youtube.com/watch?v=NdrdF7oVENs)**
+
+Weekend/Bank Holiday video: https://www.youtube.com/watch?v=5pBbKuLfRZI Brighter Data Platform: https://brighterdata.com ...
+
+📺 Trading Jip
+
+👁️ 354 • 👍 29 • 💬 56 • ⏱️ 6:29 • 9h ago
+
+---
+
 **[BITCOIN AND ETH: SILVER CATCHUP RALLY WILL BE INSANE!!!!](https://www.youtube.com/watch?v=aKaFXbZkTnM)**
 
 FREE TRAINING: https://www.bullmania.com EXCHANGES I USE (bybit, pionex): https://www.bullmania.com/partners My ...
 
 📺 Ivan on Tech
 
-👁️ 14K • 👍 1K • 💬 81 • ⏱️ 59:47 • 7h ago
+👁️ 17K • 👍 1K • 💬 84 • ⏱️ 59:47 • 8h ago
+
+---
+
+**[Ethereum Elliott Wave Update – Key Resistance Levels Ahead](https://www.youtube.com/watch?v=jitFf5Sl5ew)**
+
+This video provides a professional Elliott Wave and technical analysis of Ethereum (ETH), focusing on market structure, major ...
+
+📺 More Crypto Online
+
+👁️ 2K • 👍 95 • 💬 4 • ⏱️ 4:04 • 12h ago
 
 ---
 
@@ -298,27 +308,7 @@ Let's talk about Ethereum! For inquirires: https://www.benjamincowen.com/ Into T
 
 📺 Benjamin Cowen
 
-👁️ 63K • 👍 3K • 💬 226 • ⏱️ 26:46 • 1d ago
-
----
-
-**[CRYPTO LIVE TRADING || 27 JANUARY || BITCOIN / ETHEREUM #cryptotrading #bitcoin #cryptolive](https://www.youtube.com/watch?v=e76nuFvKsAY)**
-
-No Paid Services | No Call Tips | Alert from Fraud People's they are asking for money using our name | Crypto Trading Account ...
-
-📺 Balraj Trading Tech
-
-👁️ 4K • 👍 665 • 2h ago
-
----
-
-**[BITCOIN CRASH: Everyone is WRONG (New Signal)!!! - Bitcoin News Today, Ethereum &amp; Altcoins](https://www.youtube.com/watch?v=gMAHYXlriYY)**
-
-BITCOIN CRASH: Everyone is WRONG (New Signal)!!! - Bitcoin News Today, Ethereum & Altcoins *Toobit* ...
-
-📺 Crypto World
-
-👁️ 10K • 👍 319 • 💬 110 • ⏱️ 20:33 • 21h ago
+👁️ 64K • 👍 3K • 💬 227 • ⏱️ 26:46 • 1d ago
 
 ---
 
@@ -328,7 +318,17 @@ ETHEREUM ETH PRICE PREDICTION 2026 Join the Premium Signal Group for trade setup
 
 📺 Cilinix Crypto
 
-👁️ 158 • 👍 17 • 💬 2 • ⏱️ 4:21 • 8h ago
+👁️ 220 • 👍 20 • 💬 2 • ⏱️ 4:21 • 8h ago
+
+---
+
+**[BITCOIN CRASH: Everyone is WRONG (New Signal)!!! - Bitcoin News Today, Ethereum &amp; Altcoins](https://www.youtube.com/watch?v=gMAHYXlriYY)**
+
+BITCOIN CRASH: Everyone is WRONG (New Signal)!!! - Bitcoin News Today, Ethereum & Altcoins *Toobit* ...
+
+📺 Crypto World
+
+👁️ 10K • 👍 325 • 💬 110 • ⏱️ 20:33 • 22h ago
 
 ---
 
