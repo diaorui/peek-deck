@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-01-27T16:32:23.036048+00:00'
+updated: '2026-01-27T17:29:03.308755+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- videos
-- news
-- repositories
 - social
+- repositories
+- news
+- videos
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** January 27, 2026 at 16:32 UTC  
+**Last Updated:** January 27, 2026 at 17:29 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -45,7 +45,7 @@ Determined to use her skills to fight inequality, South African computer scienti
 
 In Africa, AI is gradually making its way into technologies such as advanced surveillance systems and combat drones, which are being deployed to fight organised crime, extremist groups, and violent insurgencies. Though the long-term potential for AI to impact military operations in Africa is undeniable, its impact on organised violence has so far been limited. These limits reflect both the novelty and constraints of existing AI-enabled technology.
 
-🔗 [allAfrica.com](https://allafrica.com/view/group/main/main/id/00081207.html) • 3h ago
+🔗 [allAfrica.com](https://allafrica.com/view/group/main/main/id/00081207.html) • 4h ago
 
 ---
 
@@ -53,7 +53,7 @@ In Africa, AI is gradually making its way into technologies such as advanced sur
 
 A new AHA Market Scan Trailblazer report suggests tat rural hospital constraints related to operating margins, workforce shortages, geographic isolation, and growing administrative burden may be accelerating a more pragmatic and targeted approach to artificial intelligence adoption.
 
-🔗 [American Hospital Association](https://www.aha.org/aha-center-health-innovation-market-scan/2026-01-27-rural-hospitals-and-ai-advantage-turning-constraints-catalysts) • 33m ago
+🔗 [American Hospital Association](https://www.aha.org/aha-center-health-innovation-market-scan/2026-01-27-rural-hospitals-and-ai-advantage-turning-constraints-catalysts) • 1h ago
 
 ---
 
@@ -69,7 +69,7 @@ Meta is blocking teens worldwide from accessing AI chatbot characters while it r
 
 Ever since I started using LLMs in early 2023, my life has genuinely changed. Productivity and the speed of getting deep information just increased by 10x. Curious to know what are some of your favorite LLMs in 2026? For most of 2023-24, I was a diehard ChatGPT user. Used it for almost everything, helped me launch my e-commerce brands, systematize my marketing agency, and just general day-to-day decision making. Entering 2025, GPT-4 and 5 started feeling really robotic. It lost that human touch as more users flooded in. GPT got overtaken by Gemini with the launch of Nanobanana 1 and 2. Content creation and creative generation became so much quicker, more accurate, and sharper. Video generation with Veo3 was a game changer for creating briefs for designers. That said, Gemini still lacked the human warmth that GPT 4.0 had. The vibe coding/build function though, it was Incredible. Generated a full landing page in a matter of minutes. Now in 2026, I've ported 90% of my work to Anthropic's Claude. I work with a ton of data now, and Claude's coding capabilities can break down hundreds of spreadsheets in minutes. Among the 3 LLMs, Claude feels the closest to talking to an actual human. The analysis and responses are way more concise compared to GPT and Gemini. My top 3: Claude: Overall champion. Strong coding capabilities, responses that actually sound human, and solid copywriting skills. Gemini: Runner-up. Great all-rounder with Nanobanana, Veo3, app building, and presentation slides. GPT: Decent... meh. What are your takes? Anyone doing anything crazy with these that I should know about? Would love to hear your thoughts and swap ideas. Looking at more ways too amplify my productivity within the marketing and business space.
 
-8h ago
+9h ago
 
 ---
 
@@ -77,7 +77,7 @@ Ever since I started using LLMs in early 2023, my life has genuinely changed. Pr
 
 Philips will soon show off its new AI-ready digital signage at ISE 2026 in Barcelona. The 5000 series is the "most intelligent" to date.
 
-🔗 [PC Guide](https://www.pcguide.com/news/philips-unveils-first-ai-ready-advertising-boards-digital-signage-ranging-from-32-to-98-to-be-demoed-soon/) • 1h ago
+🔗 [PC Guide](https://www.pcguide.com/news/philips-unveils-first-ai-ready-advertising-boards-digital-signage-ranging-from-32-to-98-to-be-demoed-soon/) • 2h ago
 
 ---
 
@@ -85,7 +85,7 @@ Philips will soon show off its new AI-ready digital signage at ISE 2026 in Barce
 
 EU Investigates X Over Alleged Failures to Curb Illegal Grok AI Content.[1] Microsoft announces powerful new chip for AI inference.[2] A Coding Implementation to Automating LLM Quality Assurance with DeepEval, Custom Retrievers, and LLM-as-a-Judge Metrics.[3] YouTubers sue Snap for alleged copyright infringement in training its AI models.[4] Sources: [1] https://www.yahoo.com/news/articles/eu-investigates-x-over-alleged-042420125.html [2] https://techcrunch.com/2026/01/26/microsoft-announces-powerful-new-chip-for-ai-inference/ [3] https://www.marktechpost.com/2026/01/25/a-coding-implementation-to-automating-llm-quality-assurance-with-deepeval-custom-retrievers-and-llm-as-a-judge-metrics/ [4] https://techcrunch.com/2026/01/26/youtubers-sue-snap-for-alleged-copyright-infringement-in-training-its-ai-models/
 
-10h ago
+11h ago
 
 ---
 
@@ -93,7 +93,7 @@ EU Investigates X Over Alleged Failures to Curb Illegal Grok AI Content.[1] Micr
 
 Hi I am a cs undergrad working on project where I need to search for models which can detect walls and floor which will be further processed to mask floor and walls to product a mask for masking I have researched and found sam3 to be the best but the issue is the prompt in sam 3 if there is any good model which can be used before sam which can provide hints to sam about location of floor and walls it would be able to produce better results. To try this I tried using grounding dino got some good results but it was too complex for pipeline. So next I looked for yolo models and trained yolov8m.seg which helps in both object detection and masking so I tried to train it on ade20k data and try to get a better model out of it which could detect floor and walls and segment it both. So that it's prompts can be used by sam to produce the final mask. But the issue came in traning that it's not able to accurately product the output and detect floor or walls. Any models you guys have worked with or any better data set which I should use instead of ade20k. Or should I change my approch
 
-6h ago
+7h ago
 
 ---
 
@@ -101,7 +101,7 @@ Hi I am a cs undergrad working on project where I need to search for models whic
 
 Meta is testing premium subscriptions on Instagram, Facebook, and WhatsApp, offering advanced features, AI tools, and enhanced controls while keeping core services free.
 
-🔗 [techputs](https://techputs.com/meta-premium-subscriptions/) • 12h ago
+🔗 [techputs](https://techputs.com/meta-premium-subscriptions/) • 13h ago
 
 ---
 
@@ -109,7 +109,7 @@ Meta is testing premium subscriptions on Instagram, Facebook, and WhatsApp, offe
 
 “Worsening extreme weather, driven by climate change, is having impacts on all of us and nearly every aspect of modern life. Forecasting affects us all. It can drive improvements to agriculture, energy, aviation, and emergency response, but the science of forecasting is changing,” says Mike Pritchard, Nvidia’s director of climate simulation
 
-🔗 [The New Stack](https://thenewstack.io/nvidia-makes-ai-weather-forecasting-more-accessible-no-supercomputer-needed/) • 23h ago
+🔗 [The New Stack](https://thenewstack.io/nvidia-makes-ai-weather-forecasting-more-accessible-no-supercomputer-needed/) • 1d ago
 
 ---
 
@@ -129,7 +129,7 @@ The BBC's Lily Jamali looks into why big US firms and start-ups alike are turnin
 
 Dario Amodei questions if human systems are ready to handle the ‘almost unimaginable power’ that is ‘potentially imminent’
 
-The Guardian • 2h ago
+The Guardian • 3h ago
 
 ---
 
@@ -141,39 +141,41 @@ The Official Microsoft Blog • 1d ago
 
 ---
 
-**[Yahoo Scout launches as new AI answer engine app to compete with Google and ChatGPT](https://www.axios.com/2026/01/27/yahoo-scout-ai-search-launch)**
+**[Mozilla is building an AI ‘rebel alliance’ to take on industry heavweights OpenAI, Anthropic](https://www.cnbc.com/2026/01/27/mozilla-building-an-ai-rebel-alliance-to-take-on-openai-anthropic-.html)**
 
-Scout is on the Yahoo Search app and integrates across Mail, News, Finance and Sports.
+Mozilla is looking to deploy its roughly $1.4 billion in reserves to support "mission driven" companies and nonprofits, and is particularly focused on AI.
 
-Axios • 1h ago
-
----
-
-**[Construction Companies See Promise in AI Agents](https://www.wsj.com/articles/construction-companies-see-promise-in-ai-agents-12dc2d60?gaa_at=eafs&gaa_n=AWEtsqdmCDNlPpSJNgpG1ABTM9-9PSMSgZVgxD43CrzatOq_2TzZqzKXqrw7&gaa_ts=6978ddf7&gaa_sig=4LEScthNi6yum3EwMYBAxsmK8p7veRnxss1Bmhlaq2FXBinCsdQVfFqvqjJNFHuX2WO8NGOqr7mSTVg6VWtUUQ%3D%3D)**
-
-The Wall Street Journal • 1h ago
+CNBC • 28m ago
 
 ---
 
-**[Yahoo Scout looks like a more web-friendly take on AI search](https://www.theverge.com/ai-artificial-intelligence/868374/yahoo-scout-looks-like-a-more-web-friendly-take-on-ai-search)**
+**[Personal Intelligence in AI Mode in Search: Help that's uniquely yours](https://blog.google/products-and-platforms/products/search/personal-intelligence-ai-mode-search/)**
 
-Imagine if ChatGPT and Perplexity cared more about the web.
+Personal Intelligence lets you tap into your context from Gmail and Photos to deliver tailored responses in Search, just for you.
 
-The Verge • 1h ago
+blog.google • 5d ago
+
+---
+
+**[Google now lets users jump from AI Overviews into AI Mode conversations](https://techcrunch.com/2026/01/27/google-now-lets-users-jump-from-ai-overviews-into-ai-mode-conversations/)**
+
+The tech giant also announced that it's making Gemini 3 the new default model for AI Overviews globally.
+
+TechCrunch • 29m ago
+
+---
+
+**[Google is blurring the line between search and chatbot](https://www.businessinsider.com/google-ai-overviews-mobile-search-mode-blurring-line-chatbot-2026-1)**
+
+Google is bringing the conversation right into Search, letting users ask follow-up questions to AI Overviews on mobile.
+
+Business Insider • 28m ago
 
 ---
 
 **[Yann LeCun, an A.I. Pioneer, Warns the Tech ‘Herd’ Could Hit a Dead End](https://www.nytimes.com/2026/01/26/technology/an-ai-pioneer-warns-the-tech-herd-is-marching-into-a-dead-end.html)**
 
 The New York Times • 1d ago
-
----
-
-**[AI spending wasn't the biggest engine of U.S. economic growth in 2025, despite popular assumptions](https://www.cnbc.com/2026/01/26/ai-wasnt-the-biggest-engine-of-us-gdp-growth-in-2025.html)**
-
-The GDP value of AI is smaller than it might appear given that a lot of high-tech equipment is imported, according to a recent MRB Partners report.
-
-CNBC • 21h ago
 
 ---
 
@@ -185,19 +187,19 @@ NPR • 1d ago
 
 ---
 
-**[How animators and AI researchers made ‘Dear Upstairs Neighbors’](https://blog.google/innovation-and-ai/models-and-research/google-deepmind/dear-upstairs-neighbors/)**
+**[Yahoo launches AI answer engine, Scout](https://www.axios.com/2026/01/27/yahoo-scout-ai-search-launch)**
 
-Today, our animated short film, “Dear Upstairs Neighbors,” previews at the Sundance Film Festival.
+Scout is on the Yahoo Search app and integrates across Mail, News, Finance and Sports.
 
-blog.google • 22h ago
+Axios • 2h ago
 
 ---
 
-**[Anthropic CEO issues dire AI warning. Here's what he gets wrong.](https://mashable.com/article/opinion-anthropic-ceo-dario-amodei-essay-warning-artificial-intelligence)**
+**[Pinterest laying off 15% of workforce in push toward AI roles and teams](https://www.cnbc.com/2026/01/27/pinterest-layoffs-stock-ai.html)**
 
-Dario Amodei falls into the same traps he warns about.
+The company said it's "reallocating resources" to roles and teams focused on artificial intelligence.
 
-Mashable • 4h ago
+CNBC • 4h ago
 
 ---
 
@@ -255,13 +257,13 @@ Today everybody's doing AI code review. Here's how Greptile's viewpoint is diffe
 
 Opinion: Autonomous agents may generate millions of lines of code, but shipping software is another matter
 
-⬆️ 228 • 💬 136 • 21h ago • [theregister.com](https://www.theregister.com/2026/01/26/cursor_opinion/)
+⬆️ 228 • 💬 136 • 22h ago • [theregister.com](https://www.theregister.com/2026/01/26/cursor_opinion/)
 
 ---
 
 **[AI code and software craft](https://news.ycombinator.com/item?id=46769188)**
 
-⬆️ 221 • 💬 130 • 22h ago • [alexwennerberg.com](https://alexwennerberg.com/blog/2026-01-25-slop.html)
+⬆️ 221 • 💬 130 • 23h ago • [alexwennerberg.com](https://alexwennerberg.com/blog/2026-01-25-slop.html)
 
 ---
 
@@ -299,7 +301,7 @@ Access Every Image Generator in OpenArt https://roboverse-ai.com/images In this 
 
 📺 Roboverse
 
-👁️ 5K • 💬 1 • ⏱️ 13:19 • 2h ago
+👁️ 5K • 💬 1 • ⏱️ 13:19 • 3h ago
 
 ---
 
@@ -349,7 +351,7 @@ Use Every AI Video Model in OpenArt https://www.openart.ai/home/?ref=isa-26 In t
 
 📺 Isa does AI
 
-👁️ 6K • 💬 1 • ⏱️ 16:20 • 3h ago
+👁️ 6K • 💬 1 • ⏱️ 16:20 • 4h ago
 
 ---
 
@@ -407,7 +409,7 @@ VibeVoice-ASR is a unified speech-to-text model capable of processing up to 60 m
 
 `automatic-speech-recognition` `8.7B`
 
-⬇️ 76,679 • ❤️ 635 • 3h ago
+⬇️ 76,679 • ❤️ 635 • 4h ago
 
 ---
 
@@ -443,7 +445,7 @@ Kimi K2.5 is a native multimodal agentic model with 1T parameters, excelling in 
 
 `image-text-to-text`
 
-⬇️ 10,965 • ❤️ 453 • 4h ago
+⬇️ 10,965 • ❤️ 453 • 5h ago
 
 ---
 
@@ -467,7 +469,7 @@ DeepSeek-OCR-2 is a multilingual vision-language model for image-to-text tasks, 
 
 `image-text-to-text` `3.4B`
 
-⬇️ 0 • ❤️ 282 • 5h ago
+⬇️ 0 • ❤️ 282 • 6h ago
 
 ---
 
@@ -667,7 +669,7 @@ Browser automation CLI for AI agents
 
 `TypeScript`
 
-⭐ 11.0k • 🔱 601 • 58m ago
+⭐ 11.0k • 🔱 601 • 1h ago
 
 ---
 
@@ -697,7 +699,7 @@ Ralph is an autonomous AI agent loop that runs repeatedly until all PRD items ar
 
 `Vue`
 
-⭐ 6.3k • 🔱 1.1k • 6h ago
+⭐ 6.3k • 🔱 1.1k • 7h ago
 
 ---
 
@@ -707,7 +709,7 @@ LLM驱动的 A/H/美股智能分析器，多数据源行情 + 实时新闻 + Gem
 
 `Python` `agent` `ai` `aigc` `gemini` `llm`
 
-⭐ 6.2k • 🔱 6.7k • 1h ago
+⭐ 6.2k • 🔱 6.7k • 2h ago
 
 ---
 
@@ -717,7 +719,7 @@ Marketing skills for Claude Code and AI agents. CRO, copywriting, SEO, analytics
 
 `claude` `codex` `marketing`
 
-⭐ 4.9k • 🔱 530 • 13h ago
+⭐ 4.9k • 🔱 530 • 14h ago
 
 ---
 
@@ -727,7 +729,7 @@ The Ultimate Collection of 200+ Agentic Skills for Claude Code/Antigravity/Curso
 
 `Python` `agentic-skills` `ai-agents` `antigravity` `autonomous-coding` `claude-code`
 
-⭐ 4.3k • 🔱 981 • 6h ago
+⭐ 4.3k • 🔱 981 • 7h ago
 
 ---
 

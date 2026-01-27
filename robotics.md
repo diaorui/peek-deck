@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-01-27T16:32:23.054333+00:00'
+updated: '2026-01-27T17:29:03.324648+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- videos
-- news
 - social
+- news
+- videos
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** January 27, 2026 at 16:32 UTC  
+**Last Updated:** January 27, 2026 at 17:29 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -36,7 +36,15 @@ Robotics research and industry news
 
 From Lukas Ziegler on 𝕏: https://x.com/lukas_m_ziegler/status/2016112237019042259 AgXeed website: https://www.agxeed.com/
 
-4h ago
+5h ago
+
+---
+
+**[Sprout robot from Fauna Robotics](https://www.reddit.com/r/robotics/comments/1qoio9e/sprout_robot_from_fauna_robotics/)**
+
+Hey all, a quick showcase of the Sprout robot from Fauna Robotics. I’m a postdoc in Talmo Pereira’s lab at the Salk Institute working on computational models for motor control. In my experience, robots usually take weeks or months of network, hardware, and software debugging before you can even start experiments. This was the opposite. We turned it on and were up and running immediately, which made me appreciate how much legwork must’ve gone into making the setup so smooth. So far we’ve: - Got Sprout walking, crouching, crawling, dancing and even jumping. - The robot was able to correct for perturbations and imbalances showing robust control policies. - Done full-body VR teleop with a Meta Quest (Fauna’s app worked great) Big win is that it actually was able to successfully deploy robust control policies out of the box. Setup was straightforward, and it feels physically safe. I held the safety harness like an overbearing parent, but the robot didn’t need me. It was gentle, regained balance, and stopped on its own. No affiliation with Fauna Robotics, just sharing an academic lab evaluation of a commercially available research platform. Impressive performance so far and excited to start training policies for more complex tasks. What new tasks should we train Sprout to perform?
+
+58m ago
 
 ---
 
@@ -44,7 +52,7 @@ From Lukas Ziegler on 𝕏: https://x.com/lukas_m_ziegler/status/201611223701904
 
 From Eren Chen on 𝕏: https://x.com/ErenChenAI/status/2015503512734441800
 
-6h ago
+7h ago
 
 ---
 
@@ -52,7 +60,7 @@ From Eren Chen on 𝕏: https://x.com/ErenChenAI/status/2015503512734441800
 
 We're open-sourcing Asimov Legs, a bipedal robotic system. We've been building in public and sharing daily progress, now the full design is out. A complete leg design with 6 DOF per leg, RSU ankle architecture, passive toe joints. Built with off-the-shelf components and compatible with MJF 3D printing. What's included: - Full mechanical CAD (STEP files) - Motors & actuators list - XML files for simulation (MuJoCo) Most of the structure is MJF-printable plastic. The only part that needs CNC is the knee plate, and we spent weeks simplifying that from a 2-part assembly down to a single plate. If you don't have access to industrial MJF, casting or regular 3D printing works too. Repo for all: https://github.com/asimovinc/asimov-v0 Happy to answer questions about the design choices.
 
-7h ago
+8h ago
 
 ---
 
@@ -64,19 +72,27 @@ Setup: - 3 x stationary Super-Beacons (green dots on the floorplan: 8, 2, 3) - 1
 
 ---
 
+**[Meet Sprout](https://www.reddit.com/r/robotics/comments/1qok4u0/meet_sprout/)**
+
+Meet Sprout. Fauna Robotics are releasing a new kind of robotics platform. One designed to move out of the lab and into the real world, closer to the people who will shape what robots become next. @faunarobotics
+
+8m ago
+
+---
+
 **[Looking for a modern Cozmo like robot with real personality](https://www.reddit.com/r/robotics/comments/1qodz1d/looking_for_a_modern_cozmo_like_robot_with_real/)**
 
 Hey everyone, I’m currently looking for a fun and interactive robot similar to Cozmo. I really liked how Cozmo had personality, reacted to its environment, and felt more like a small companion than just a regular toy or basic programmable robot. I’ve been browsing different options on Amazon, eBay, and Alibaba, and there seem to be plenty of choices. The problem is figuring out which ones are actually good. Some look affordable but feel gimmicky, while others are quite expensive, and I’m not sure if they really offer the same kind of interaction and character that Cozmo did. I’d really appreciate advice from people here who have experience with modern consumer robots. Are there any robots currently available that feel close to Cozmo in terms of personality and interaction? Which ones are genuinely worth the money, and which should be avoided? I’m open on budget and mainly interested in something engaging and enjoyable to interact with, not just a robot that runs simple scripts. Thanks in advance for any recommendations or insights.
 
-2h ago
+3h ago
 
 ---
 
 **[Question regarding OMPL orientation](https://www.reddit.com/r/robotics/comments/1qofu47/question_regarding_ompl_orientation/)**
 
-Hello, I have a question regarding OMPL. I'm using OMPL to get paths for a ground effect vehicle using OwenStateSpace. The thing is that for some reason it doesn't seem to take into consideration the orientation of each state when creating the intermidiate states, so when I show it on RVIZ it's always the default oreintation, as you can see in these pics. https://preview.redd.it/rw51x4domwfg1.png?width=1171&format=png&auto=webp&s=46710612f0cc5674a58f93faaa427bd02f33a818 https://preview.redd.it/q3zj36domwfg1.png?width=1054&format=png&auto=webp&s=3e36bf273fadf4e9b28daeb0dc3d9dac6c1cf155 This is specially a problem when using RRTConnect, because the connection in the middle forces a sudden 180º rotation, because the end of one branch is exactly the same as the beggining of the other, instead of being opposed, as you can see in this other picture. https://preview.redd.it/2nbpa7yqmwfg1.png?width=1171&format=png&auto=webp&s=8d9df910368c0ff27e8c4b4dee63fdcbf3bfbffa The code would be the following: extractPath() is just a function that converts the path to a message for a ROS2 topic. But the error cannot be there, because the issue happens before.// Source - https://stackoverflow.com/q/79876550 // Posted by Daniel Bajo Collados // Retrieved 2026-01-27, License - CC BY-SA 4.0 auto si(std::make_shared<ob::SpaceInformation>(space)); auto probDef(std::make_shared<ob::ProblemDefinition>(si)); probDef->setStartAndGoalStates(*start, *goal); probDef->setOptimizationObjective(getOptObj(si)); auto planner(std::make_shared<og::RRTConnect>(si)); planner->setRange(Range); planner->setProblemDefinition(probDef); planner->setup(); ob::PlannerStatus solved = planner->ob::Planner::solve(time); return_path = extractPath(probDef.get()); extractPath() is just a function that converts the path to a message for a ROS2 topic. But the error cannot be there, because the issue happens before. When setting up the start and the goal, as you can see it gets the proper orientations, so it just ignores the orientation of the intermidiate states. This cpp code is running inside a ROS2 node on a Ubuntu 22 virtual machine.
+Hello, I have a question regarding OMPL. I'm using OMPL to get paths for a ground effect vehicle using OwenStateSpace. The thing is that for some reason it doesn't seem to take into consideration the orientation of each state when creating the intermidiate states, so when I show it on RVIZ it's always the default oreintation, as you can see in these pics. https://preview.redd.it/rw51x4domwfg1.png?width=1171&format=png&auto=webp&s=46710612f0cc5674a58f93faaa427bd02f33a818 https://preview.redd.it/q3zj36domwfg1.png?width=1054&format=png&auto=webp&s=3e36bf273fadf4e9b28daeb0dc3d9dac6c1cf155 This is specially a problem when using RRTConnect, because the connection in the middle forces a sudden 180º rotation, because the end of one branch is exactly the same as the beggining of the other, instead of being opposed, as you can see in this other picture. https://preview.redd.it/2nbpa7yqmwfg1.png?width=1171&format=png&auto=webp&s=8d9df910368c0ff27e8c4b4dee63fdcbf3bfbffa The code would be the following: extractPath() is just a function that converts the path to a message for a ROS2 topic. But the error cannot be there, because the issue happens before.// Source - https://stackoverflow.com/q/79876550 // Posted by Daniel Bajo Collados // Retrieved 2026-01-27, License - CC BY-SA 4.0 auto si(std::make_shared<ob::SpaceInformation>(space)); auto probDef(std::make_shared<ob::ProblemDefinition>(si)); probDef->setStartAndGoalStates(*start, *goal); probDef->setOptimizationObjective(getOptObj(si)); auto planner(std::make_shared<og::RRTConnect>(si)); planner->setRange(Range); planner->setProblemDefinition(probDef); planner->setup(); ob::PlannerStatus solved = planner->ob::Planner::solve(time); return_path = extractPath(probDef.get()); extractPath() is just a function that converts the path to a message for a ROS2 topic. But the error cannot be there, because the issue happens before. When setting up the start and the goal, as you can see it gets the proper orientations, so it just ignores the orientation of the intermidiate states. This cpp code is running inside a ROS2 node on a Ubuntu 22 virtual machine. Edit: The issue of having the intermidiate states have all the same orientation was solved. The issue was that the yaw angle was set using state[3] instead of state.yaw(). However, this didn't solve the issue with RRTConnect, as it still has a sharp 180º turn where the branches meet.
 
-1h ago
+2h ago
 
 ---
 
@@ -90,23 +106,7 @@ Hello, I have a question regarding OMPL. I'm using OMPL to get paths for a groun
 
 When there are many robots in production (industrial, logistics, etc.), how are updates handled without shutting down everything or risking breaking something important? Is there a common way to: - Update robots in groups - Quickly revert to a previous version if something goes wrong - Reduce risk when modifying the software - Or does each company do it its own way? 🤔
 
-9h ago
-
----
-
-**[Autonomous Indoor Flight with a DJI Drone Using Precise Indoor Positioning](https://www.reddit.com/r/robotics/comments/1qna1ts/autonomous_indoor_flight_with_a_dji_drone_using/)**
-
-- 3 x Super-Beacons as stationary beacons - 1 x stripped-down (and partially damaged :-) Super-Beacon as a mobile beacon - 1 x Modem v5.1 as a central controller for the indoor positioning system - An app on Android to control the DJI via the virtual stick via the RC DJI is controlled by a virtual stick, i.e., the drone thinks it is controlled by a human, while it is controlled by the system: https://marvelmind.com/pics/marvelmind_DJI_autonomous_flight_manual.pdf
-
-1d ago
-
----
-
-**[Video tour of copper-rs, a Deterministic Robotics Runtime in Rust](https://www.reddit.com/r/robotics/comments/1qnv22c/video_tour_of_copperrs_a_deterministic_robotics/)**
-
-In this video, we take a fast but deep tour of Copper, a deterministic robotics runtime written in Rust. We cover the core concepts behind Copper by showing the tooling, workflows, and systems. From observability and determinism to AI inference, embedded development, and distributed execution. Chapters are clickable in the video description. 00:00 Intro 01:13 ConsoleMon, Copper’s TUI monitor - New: refreshed look and bandwidth pane 09:40 Offline config viewer and DAG visualization - New: updated visuals 13:38 New: DAG statistics combining structure with runtime performance 15:02 New: Exporting logs to the MCAP format 16:40 New: Visualizing Copper logs in Foxglove 17:38 Determinism in Copper: Why it matters and how we can actually prove it 22:34 New: AI and ML inference with HuggingFace - Live visualization using Rerun 25:38 Embedded and bare metal development - Flight controller example 27:00 Missions - Quick overview using the flight controller 29:39 New: Resource bundles - What problem they solve and how they work 31:54 Multiprocessing and distributed Copper - New, kind of: Zenoh bridge 36:40 Conclusion and thanks
-
-🔗 [youtu.be](https://youtu.be/58UYNb27AlM) • 18h ago
+10h ago
 
 ---
 
@@ -118,7 +118,7 @@ In this video, we take a fast but deep tour of Copper, a deterministic robotics 
 
 State of Robotics Industry Report 2026 offers a clear-eyed assessment of where the market stands today and where it’s headed.
 
-The Robot Report • 22h ago
+The Robot Report • 23h ago
 
 ---
 
@@ -130,11 +130,11 @@ Global Times • 1d ago
 
 ---
 
-**[Not ready for robots in homes? The maker of a friendly new humanoid thinks it might change your mind](https://abcnews.go.com/Technology/wireStory/ready-robots-homes-maker-friendly-new-humanoid-thinks-129594260)**
+**[Robotiq brings sense of touch to physical AI with fingertips for 2F grippers](https://www.therobotreport.com/robotiq-brings-sense-touch-physical-ai-fingertips-2f-grippers/)**
 
-A new humanoid robot named Sprout, developed by Fauna Robotics, is making its debut
+Robotiq says it has combined adaptive gripping with high-frequency tactile sensing, enabling robots to generalize across objects.
 
-ABC News • 2h ago
+The Robot Report • 1h ago
 
 ---
 
@@ -142,7 +142,7 @@ ABC News • 2h ago
 
 Vention has raised Series D funding to continue commercializing its robot control platform and expand into Europe.
 
-The Robot Report • 2h ago
+The Robot Report • 3h ago
 
 ---
 
@@ -150,7 +150,7 @@ The Robot Report • 2h ago
 
 ADAM, Richtech's Azure-powered robot, now uses vision, voice and contextual data to improve retail workflows and customer interactions.
 
-Stock Titan • 3h ago
+Stock Titan • 4h ago
 
 ---
 
@@ -164,15 +164,15 @@ bgr.com • 1d ago
 
 **[Fauna Robotics unveils friendly humanoid robot Sprout](https://www.yahoo.com/news/videos/fauna-robotics-unveils-friendly-humanoid-131128200.html)**
 
-Yahoo • 3h ago
+Yahoo • 4h ago
 
 ---
 
-**[New magnetic polymer enables stronger and more flexible artificial muscles in soft robotics](https://interestingengineering.com/innovation/magnetic-polymer-artificial-muscles-soft-robotics)**
+**[Richtech Robotics soars after announcing partnership with Microsoft to use AI to improve its robots](https://sherwood.news/markets/richtech-robotics-soars-after-announcing-partnership-with-microsoft-to-use/)**
 
-Researchers developed a dual cross-linked magnetic polymer that combines high stretchability with record work density.
+The most momentous day for ADAM since serving Jensen Huang a margarita....
 
-Interesting Engineering • 2d ago
+Sherwood News • 3h ago
 
 ---
 
@@ -184,11 +184,11 @@ channel3000.com • 2d ago
 
 ---
 
-**[Ukrainians urge Israel to focus on drones for future wars](https://www.jpost.com/defense-and-tech/article-884658)**
+**[Purdue partners open hub for AI and robotics research in medicine](https://www.jconline.com/story/news/local/2026/01/27/purdue-university-opens-care-center-for-ai-and-robotics-in-medicine-indianapolis-partners/88377503007/)**
 
-A Ukrainian Jewish reconnaissance drone operator, who had worked in several different military disciplines before the role, said that “the future of war is drones.”
+The Center for AI and Robotic Excellence in Medicine (CARE) is designed to advance AI and robotics for medical research, training and care.
 
-jpost.com • 9h ago
+jconline.com • 41m ago
 
 ---
 
@@ -212,7 +212,7 @@ Sprout, a 3 1/2-foot-tall humanoid from Fauna Robotics, debuts with a soft foam 
 
 📺 Associated Press
 
-👁️ 1K • 👍 25 • 💬 5 • ⏱️ 0:55 • 3h ago
+👁️ 1K • 👍 25 • 💬 5 • ⏱️ 0:55 • 4h ago
 
 ---
 
@@ -270,7 +270,7 @@ I'm at the Roborock stand at CES 2026 in Las Vegas, and I've just seen some of t
 
 📺 GadgetGuy
 
-👁️ 2K • 👍 1 • ⏱️ 8:30 • 6h ago
+👁️ 2K • 👍 1 • ⏱️ 8:30 • 7h ago
 
 ---
 
