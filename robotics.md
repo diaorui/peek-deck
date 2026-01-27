@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-01-27T22:24:17.104484+00:00'
+updated: '2026-01-27T22:47:20.940400+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- news
 - videos
 - social
+- news
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** January 27, 2026 at 22:24 UTC  
+**Last Updated:** January 27, 2026 at 22:47 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -36,7 +36,7 @@ Robotics research and industry news
 
 Hey all, a quick showcase of the Sprout robot from Fauna Robotics. I’m a postdoc in Talmo Pereira’s lab at the Salk Institute working on computational models for motor control. In my experience, robots usually take weeks or months of network, hardware, and software debugging before you can even start experiments. This was the opposite. We turned it on and were up and running immediately, which made me appreciate how much legwork must’ve gone into making the setup so smooth. So far we’ve: - Got Sprout walking, crouching, crawling, dancing and even jumping. - The robot was able to correct for perturbations and imbalances showing robust control policies. - Done full-body VR teleop with a Meta Quest (Fauna’s app worked great) Big win is that it actually was able to successfully deploy robust control policies out of the box. Setup was straightforward, and it feels physically safe. I held the safety harness like an overbearing parent, but the robot didn’t need me. It was gentle, regained balance, and stopped on its own. No affiliation with Fauna Robotics, just sharing an academic lab evaluation of a commercially available research platform. Impressive performance so far and excited to start training policies for more complex tasks. What new tasks should we train Sprout to perform?
 
-5h ago
+6h ago
 
 ---
 
@@ -44,7 +44,7 @@ Hey all, a quick showcase of the Sprout robot from Fauna Robotics. I’m a postd
 
 From Lukas Ziegler on 𝕏: https://x.com/lukas_m_ziegler/status/2016112237019042259 AgXeed website: https://www.agxeed.com/
 
-10h ago
+11h ago
 
 ---
 
@@ -60,7 +60,7 @@ Meet Sprout. Fauna Robotics are releasing a new kind of robotics platform. One d
 
 From Eren Chen on 𝕏: https://x.com/ErenChenAI/status/2015503512734441800
 
-11h ago
+12h ago
 
 ---
 
@@ -68,7 +68,7 @@ From Eren Chen on 𝕏: https://x.com/ErenChenAI/status/2015503512734441800
 
 Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.
 
-🔗 [youtube.com](https://www.youtube.com/watch?v=lQsvTrRTBRs) • 3h ago
+🔗 [youtube.com](https://www.youtube.com/watch?v=lQsvTrRTBRs) • 4h ago
 
 ---
 
@@ -82,7 +82,7 @@ We're open-sourcing Asimov Legs, a bipedal robotic system. We've been building i
 
 **[Unitree G1 fully Body Teleoperation using a Pico4 and Twist2 Framework](https://www.reddit.com/r/robotics/comments/1qonvka/unitree_g1_fully_body_teleoperation_using_a_pico4/)**
 
-2h ago
+3h ago
 
 ---
 
@@ -90,7 +90,7 @@ We're open-sourcing Asimov Legs, a bipedal robotic system. We've been building i
 
 Setup: - 3 x stationary Super-Beacons (green dots on the floorplan: 8, 2, 3) - 1 x Super-Beacon as a mobile on the drone (11) - 1 x Modem v5.1 as a central controller - USB-connected to the laptop - 1 x Marvelmind DJI App on Android - the "brain" of the system controlling the drone over the virtual stick - Marvelmind Dashboard to set up the waypoints and the system in general
 
-15h ago
+16h ago
 
 ---
 
@@ -98,7 +98,7 @@ Setup: - 3 x stationary Super-Beacons (green dots on the floorplan: 8, 2, 3) - 1
 
 Hey everyone, I’m currently looking for a fun and interactive robot similar to Cozmo. I really liked how Cozmo had personality, reacted to its environment, and felt more like a small companion than just a regular toy or basic programmable robot. I’ve been browsing different options on Amazon, eBay, and Alibaba, and there seem to be plenty of choices. The problem is figuring out which ones are actually good. Some look affordable but feel gimmicky, while others are quite expensive, and I’m not sure if they really offer the same kind of interaction and character that Cozmo did. I’d really appreciate advice from people here who have experience with modern consumer robots. Are there any robots currently available that feel close to Cozmo in terms of personality and interaction? Which ones are genuinely worth the money, and which should be avoided? I’m open on budget and mainly interested in something engaging and enjoyable to interact with, not just a robot that runs simple scripts. Thanks in advance for any recommendations or insights.
 
-8h ago
+9h ago
 
 ---
 
@@ -148,7 +148,7 @@ The Robot Report • 1d ago
 
 **[Synthetic 'muscle' with microfluidic blood vessels shows promise for soft robotics](https://techxplore.com/news/2026-01-synthetic-muscle-microfluidic-blood-vessels.html)**
 
-Tech Xplore • 1h ago
+Tech Xplore • 2h ago
 
 ---
 
@@ -164,7 +164,7 @@ Financial Times • 2d ago
 
 A new humanoid robot named Sprout, developed by Fauna Robotics, is making its debut
 
-ABC News • 8h ago
+ABC News • 9h ago
 
 ---
 

@@ -3,13 +3,13 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-01-27T22:24:17.094776+00:00'
+updated: '2026-01-27T22:47:20.931164+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- cryptocurrency
 - videos
+- cryptocurrency
 - social
 - news
 ---
@@ -18,7 +18,7 @@ data_types:
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** January 27, 2026 at 22:24 UTC  
+**Last Updated:** January 27, 2026 at 22:47 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -87,13 +87,13 @@ Rank #1
 
 HODL.
 
-4h ago
+5h ago
 
 ---
 
 **[Rule 11](https://www.reddit.com/r/Bitcoin/comments/1qoe2h3/rule_11/)**
 
-8h ago
+9h ago
 
 ---
 
@@ -107,7 +107,7 @@ I'm a teenager from a third world country, and I'm glad to share that I'm finall
 
 **[Forever😀](https://www.reddit.com/r/Bitcoin/comments/1qofr38/forever/)**
 
-7h ago
+8h ago
 
 ---
 
@@ -115,7 +115,7 @@ I'm a teenager from a third world country, and I'm glad to share that I'm finall
 
 I'm making this post to vent and get some opinions. I'm scared. I'm 19, and this world that's coming is terrifying. People tell me to relax, but they don't see it. The world is falling apart. Money is worthless. I don't know what to study because AI could put me out of work for 10 years. I don't want to go into a degree program and waste all that time that I could have invested in something else. I don't know how to invest in Bitcoin, haha. I don't know where to put my effort. I've seen a little bit about Bitcoin, that it's a safe place to store things. I guess I need advice.
 
-9h ago
+10h ago
 
 ---
 
@@ -133,7 +133,7 @@ I'm making this post to vent and get some opinions. I'm scared. I'm 19, and this
 
 **[Eric shares 3 really interesting facts about the IBIT bitcoin ETF](https://www.reddit.com/r/Bitcoin/comments/1qoh9h6/eric_shares_3_really_interesting_facts_about_the/)**
 
-6h ago
+7h ago
 
 ---
 
@@ -157,7 +157,7 @@ Bloomberg • 1d ago
 
 Data from the CBECI suggest that any miner paying at least $0.10 per kWh for energy will be making a loss on each Bitcoin mined.
 
-Decrypt • 9h ago
+Decrypt • 10h ago
 
 ---
 
@@ -179,7 +179,7 @@ The Block • 1d ago
 
 The president said he isn't concerned about the dollar's recent declines, sending the greenback plunging even lower.
 
-CoinDesk • 58m ago
+CoinDesk • 1h ago
 
 ---
 
@@ -187,7 +187,7 @@ CoinDesk • 58m ago
 
 The bitcoin price rallied sharply from intra-day lows of $87,100 into the close on Tuesday, surging above $89,400.
 
-Bitcoin Magazine • 50m ago
+Bitcoin Magazine • 1h ago
 
 ---
 
@@ -211,7 +211,7 @@ Fortune • 1d ago
 
 Bitcoin traded lower alongside most major tokens as investors favored gold and silver ahead of the Federal Reserve decision and a heavy week of Magnificent Seven earnings.
 
-CoinDesk • 16h ago
+CoinDesk • 17h ago
 
 ---
 
@@ -290,7 +290,7 @@ Transform HN comment threads into executive intelligence. AI analyzes discussion
 
 **[Show HN: I could build the translation tool I've wanted for 10 years](https://news.ycombinator.com/item?id=46786231)**
 
-⬆️ 1 • 💬 1 • 1h ago
+⬆️ 1 • 💬 1 • 2h ago
 
 ---
 

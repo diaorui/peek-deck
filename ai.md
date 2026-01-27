@@ -3,14 +3,14 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-01-27T22:24:17.086511+00:00'
+updated: '2026-01-27T22:47:20.922757+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- news
 - videos
 - social
+- news
 - repositories
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 AI news, discussions, and developments
 
-**Last Updated:** January 27, 2026 at 22:24 UTC  
+**Last Updated:** January 27, 2026 at 22:47 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -57,7 +57,7 @@ Ever since I started using LLMs in early 2023, my life has genuinely changed. Pr
 
 https://reddit.com/link/1qomiad/video/9x9ozcxxsxfg1/player I've been testing how far AI tools have come for creating full commercial ads from scratch and it's way easier than before First I used claude to generate the story structure, then Seedream 4.5 and Flux Pro 2 for the initial shots. to keep the character and style consistent across scenes i used nano banana pro as an edit model. this let me integrate product placement (lego f1 cars) while keeping the same 3d pixar style throughout all the scenes. For animation i ran everything through Sora 2 using multiple cuts in the same prompt so we can get different camera angles in one generation. Then i just mixed the best parts from different generations and added AI generated music. This workflow is still not perfect but it is getting there and improving a lot. I made a full tutorial breaking down how i did it step by step: 👉 https://www.youtube.com/watch?v=EzLS5L4VgN8 Let me know if you have any questions or if you have a better workflow for keeping consistency in AI commercials, i'd love to learn!
 
-3h ago
+4h ago
 
 ---
 
@@ -173,7 +173,7 @@ CNBC • 4h ago
 
 **[Pinterest cuts up to 15% jobs to prioritize AI push, shares sink](https://www.reuters.com/business/world-at-work/pinterest-cuts-nearly-15-jobs-redirect-resources-ai-2026-01-27/)**
 
-Reuters • 5h ago
+Reuters • 6h ago
 
 ---
 
@@ -181,7 +181,7 @@ Reuters • 5h ago
 
 Pinterest announced on Tuesday that it plans to lay off "less than 15%" of its workforce.
 
-Axios • 7m ago
+Axios • 30m ago
 
 ---
 
@@ -197,7 +197,7 @@ CNBC • 9h ago
 
 Analysts see more upside in artificial intelligence (AI) semiconductor stocks this year.
 
-Yahoo Finance • 41m ago
+Yahoo Finance • 1h ago
 
 ---
 
@@ -267,7 +267,7 @@ Opinion: Autonomous agents may generate millions of lines of code, but shipping 
 
 **[Case study: Creative math – How AI fakes proofs](https://news.ycombinator.com/item?id=46759352)**
 
-⬆️ 122 • 💬 94 • 1d ago • [tomaszmachnik.pl](https://tomaszmachnik.pl/case-study-math-en.html)
+⬆️ 122 • 💬 94 • 2d ago • [tomaszmachnik.pl](https://tomaszmachnik.pl/case-study-math-en.html)
 
 ---
 
@@ -667,7 +667,7 @@ Browser automation CLI for AI agents
 
 `TypeScript`
 
-⭐ 11.0k • 🔱 605 • 6h ago
+⭐ 11.0k • 🔱 605 • 7h ago
 
 ---
 
@@ -707,7 +707,7 @@ LLM驱动的 A/H/美股智能分析器，多数据源行情 + 实时新闻 + Gem
 
 `Python` `agent` `ai` `aigc` `gemini` `llm`
 
-⭐ 6.2k • 🔱 6.7k • 7h ago
+⭐ 6.2k • 🔱 6.7k • 8h ago
 
 ---
 
@@ -717,7 +717,7 @@ Marketing skills for Claude Code and AI agents. CRO, copywriting, SEO, analytics
 
 `claude` `codex` `marketing`
 
-⭐ 5.0k • 🔱 530 • 2h ago
+⭐ 5.0k • 🔱 530 • 3h ago
 
 ---
 
@@ -727,7 +727,7 @@ The Ultimate Collection of 200+ Agentic Skills for Claude Code/Antigravity/Curso
 
 `Python` `agentic-skills` `ai-agents` `antigravity` `autonomous-coding` `claude-code`
 
-⭐ 4.3k • 🔱 999 • 4h ago
+⭐ 4.3k • 🔱 999 • 5h ago
 
 ---
 
