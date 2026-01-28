@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-01-28T05:54:01.478621+00:00'
+updated: '2026-01-28T06:38:18.816498+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
+- cryptocurrency
+- news
 - videos
 - social
-- news
-- cryptocurrency
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** January 28, 2026 at 05:54 UTC  
+**Last Updated:** January 28, 2026 at 06:38 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -36,17 +36,17 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Price
 
-### $2,999.96
+### $3,010.47
 
 ---
 
 ## Ethereum Chart
 
-**24h:** +2.4%  
-**7d:** +1.6%  
-**30d:** +0.8%  
-**90d:** -22.2%  
-**1y:** -3.6%  
+**24h:** +2.7%  
+**7d:** +2.0%  
+**30d:** +1.2%  
+**90d:** -21.9%  
+**1y:** -3.3%  
 
 ---
 
@@ -68,9 +68,17 @@ No max supply
 
 ## Reddit: r/ethereum
 
+**[Daily General Discussion January 28, 2026](https://www.reddit.com/r/ethereum/comments/1qp37r8/daily_general_discussion_january_28_2026/)**
+
+Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
+
+37m ago
+
+---
+
 **[Pouring one out for Week in Ethereum News 🥃 Website is offline. Thank you Evan Van Ness for your tireless efforts serving the Ethereum community. 🙏](https://www.reddit.com/r/ethereum/comments/1qp227f/pouring_one_out_for_week_in_ethereum_news_website/)**
 
-52m ago
+1h ago
 
 ---
 
@@ -86,13 +94,13 @@ Hi r/ethereum, I’ve been running a personal experiment called FitVow. The idea
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-23h ago
+1d ago
 
 ---
 
 **[Built a little ethereum wallet for a metamask interview](https://www.reddit.com/r/ethereum/comments/1qon8y9/built_a_little_ethereum_wallet_for_a_metamask/)**
 
-10h ago
+11h ago
 
 ---
 
@@ -116,7 +124,7 @@ Hey r/defi. My name is Matt and I have built something different. EqualFi offers
 
 I am trying to create a delegate wallet for every user which is connected to my dApp. I intend to have access to the private key so that I can initiate and sign transactions on the users behalf. So I am thinking of making the wallet pub and priv key on client side and I don't want the priv key to ever leave client's browser. Is it possible to implement something like this ? I use Privy for siwe if that can help me in any way.
 
-18h ago
+19h ago
 
 ---
 
@@ -124,7 +132,7 @@ I am trying to create a delegate wallet for every user which is connected to my 
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-1d ago
+2d ago
 
 ---
 
@@ -133,14 +141,6 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 Bluechip (independent stablecoin rating agency) just published their rating for $BOLD, Liquity Protocol's new stablecoin. Thought this sub might find it interesting given the ongoing discussions about decentralized stables and Ethereum's role in the stablecoin ecosystem. Key Findings: Overall Rating: A- (outranks USDC at B+ and DAI at B+) Perfect 1.0 Scores: Management (immutable protocol, no admin keys) Decentralization (no single point of control) Governance (no governance - protocol cannot be altered) Stability Score: 0.88 What Makes BOLD Different: BOLD is the only A- rated stablecoin backed 100% by crypto-native collateral: 100% Ethereum-native collateral (ETH, wstETH, rETH) >200% overcollateralized (currently 291%) Immutable smart contracts (cannot be upgraded or changed) No blacklist function (cannot be frozen) Always redeemable at $1 for underlying collateral For comparison, PYUSD also has an A- rating but is backed by bank deposits and US Treasuries. Context: BOLD is built by the team behind LUSD (Liquity V1), which has been live for 4+ years with $5B peak TVL and zero exploits. Given how much this sub discusses Ethereum's role as the stablecoin settlement layer (especially with $18.8T settled on Ethereum in 2025), figured this was relevant. Full Bluechip Report: https://bluechip.org/en More on Liquity Protocol: https://x.com/LiquityProtocol/status/2015798256186360000 Happy to answer questions about the protocol or rating methodology.
 
 1d ago
-
----
-
-**[All you need to know about Ethereum Glamsterdam Upgrade](https://www.reddit.com/r/ethereum/comments/1qngb7l/all_you_need_to_know_about_ethereum_glamsterdam/)**
-
-Curated resources by EtherWorld for Glamsterdam Upgrade
-
-🔗 [EtherWorld.co](https://etherworld.co/all-you-need-to-know-about-ethereum-glamsterdam-upgrade/) • 1d ago
 
 ---
 
@@ -156,11 +156,11 @@ The Motley Fool • 1d ago
 
 ---
 
-**[Ethereum whale resurfaces after nine years, moves $145 million in ETH](https://www.theblock.co/post/386974/ethereum-whale-moves-145-million)**
+**[How SharpLink Aims to Be the Most 'Focused, Disciplined' Ethereum Treasury in 2026](https://decrypt.co/355733/how-sharplink-most-focused-disciplined-ethereum-treasury-2026)**
 
-An Ethereum whale moved 50,000 ETH on Sunday after approximately nine years of dormancy, according to onchain data.
+Ethereum treasury firm SharpLink Gaming hopes to stand apart from the pack by focusing on the long-term—with shareholders top of mind.
 
-The Block • 2d ago
+Decrypt • 2d ago
 
 ---
 
@@ -178,14 +178,6 @@ Yahoo Finance • 1d ago
 
 ---
 
-**[Tom Lee's BitMine nears 70% of Ethereum treasury target with latest 40,302 ETH buy](https://www.theblock.co/post/387035/tom-lee-bitmine-ethereum-buy)**
-
-BitMine's total crypto and cash holdings currently stand at $12.8 billion, and the company owns 3.52% of Ethereum's circulating supply.
-
-The Block • 1d ago
-
----
-
 **[BitMine Highlights Massive Ethereum Treasury and Staking Strategy](https://www.tipranks.com/news/company-announcements/bitmine-highlights-massive-ethereum-treasury-and-staking-strategy)**
 
 The latest announcement is out from BitMine Immersion Technologies ( ($BMNR) ). On January 23, 2026, Bitmine Immersion Technologies appointed its current Chief Fina...
@@ -194,11 +186,11 @@ TipRanks • 1d ago
 
 ---
 
-**[Why This Former BlackRock Executive Thinks Ethereum's TVL Will 10X in 2026](https://www.coindesk.com/markets/2026/01/26/macro-fears-mask-ethereum-s-momentum-sharplink-ceo-says)**
+**[Tom Lee's BitMine Makes Biggest Ethereum Buy Yet in 2026](https://decrypt.co/355842/tom-lee-bitmine-makes-biggest-ethereum-buy-so-far-2026)**
 
-SharpLink CEO Joseph Chalom argues that macro uncertainty is hiding a massive institutional shift toward Ethereum-based tokenization.
+Publicly traded Ethereum treasury firm BitMine Immersion Technologies added to its stash with its largest ETH acquisition of the year so far.
 
-CoinDesk • 1d ago
+Decrypt • 1d ago
 
 ---
 
@@ -210,19 +202,25 @@ thedefiant.io • 1d ago
 
 ---
 
-**[Ethereum already ‘20%’ of the way toward quantum resilience: Interview](https://www.tradingview.com/news/cointelegraph:cbf987f35094b:0-ethereum-already-20-of-the-way-toward-quantum-resilience-interview/)**
+**[Why This Former BlackRock Executive Thinks Ethereum's TVL Will 10X in 2026](https://www.coindesk.com/markets/2026/01/26/macro-fears-mask-ethereum-s-momentum-sharplink-ceo-says)**
 
-Antonio Sanso, cryptography researcher at the Ethereum Foundation, is confident the blockchain will be quantum secure long before a quantum attack is even possible.”We as the Ethereum Foundation (EF) and Ethereum community are working massively on this topic,” he told Cointelegraph.“The research pa…
+SharpLink CEO Joseph Chalom argues that macro uncertainty is hiding a massive institutional shift toward Ethereum-based tokenization.
 
-TradingView • 15h ago
+CoinDesk • 1d ago
 
 ---
 
-**[Morning Minute: Ethereum Prepares for the Quantum Era](https://decrypt.co/355831/morning-minute-ethereum-prepares-for-the-quantum-era)**
+**[Ethereum Foundation forms post-quantum security team, adds $1 million research prize](https://www.theblock.co/post/386938/ethereum-foundation-forms-post-quantum-security-team-adds-1-million-research-prize)**
 
-The Ethereum Foundation is starting to prepare one of the biggest risks facing the crypto industry: quantum computing.
+The Block • 3d ago
 
-Decrypt • 1d ago
+---
+
+**[XRP, Ethereum Now ‘Undervalued’ On MVRV, Says Santiment](https://www.tradingview.com/news/newsbtc:3378aa0c9094b:0-xrp-ethereum-now-undervalued-on-mvrv-says-santiment/)**
+
+On-chain analytics firm Santiment has pointed out how XRP and Ethereum are among coins sitting in the MVRV Ratio’s “undervalued” zone.30-Day MVRV Is Negative For XRP & EthereumIn a new post on X, on-chain analytics firm Santiment has talked about where some notable cryptocurrencies like XRP and Bit…
+
+TradingView • 1d ago
 
 ---
 
@@ -236,7 +234,7 @@ Tom Lee Just Said The UNTHINKABLE About Bitcoin & Ethereum! [2026 New Prediction
 
 📺 Crypto Nutshell
 
-👁️ 19K • 👍 587 • 💬 55 • ⏱️ 14:37 • 14h ago
+👁️ 19K • 👍 587 • 💬 55 • ⏱️ 14:37 • 15h ago
 
 ---
 
@@ -246,7 +244,7 @@ Jetzt gratis sichern → https://www.blockchain-investor.de/app Die neue „Bloc
 
 📺 Krypto Report
 
-👁️ 8K • 👍 563 • 💬 58 • ⏱️ 17:05 • 12h ago
+👁️ 8K • 👍 563 • 💬 58 • ⏱️ 17:05 • 13h ago
 
 ---
 
@@ -286,7 +284,7 @@ BITCOIN & CRYPTO JUST FLIPPED (for now)!!!! - Bitcoin News Today, Ethereum & Alt
 
 📺 Crypto World
 
-👁️ 4K • 👍 243 • 💬 61 • ⏱️ 18:19 • 7h ago
+👁️ 4K • 👍 243 • 💬 61 • ⏱️ 18:19 • 8h ago
 
 ---
 
@@ -306,7 +304,7 @@ FREE TRAINING: https://www.bullmania.com EXCHANGES I USE (bybit, pionex): https:
 
 📺 Ivan on Tech
 
-👁️ 22K • 👍 1K • 💬 104 • ⏱️ 59:47 • 19h ago
+👁️ 22K • 👍 1K • 💬 104 • ⏱️ 59:47 • 20h ago
 
 ---
 
@@ -326,7 +324,7 @@ This conversation delves into the current state and future of the Cardano ecosys
 
 📺 Learn Cardano
 
-👁️ 3K • 👍 290 • 💬 48 • ⏱️ 22:54 • 18h ago
+👁️ 3K • 👍 290 • 💬 48 • ⏱️ 22:54 • 19h ago
 
 ---
 

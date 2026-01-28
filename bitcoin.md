@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-01-28T05:54:01.472700+00:00'
+updated: '2026-01-28T06:38:18.810495+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
+- cryptocurrency
+- news
 - videos
 - social
-- news
-- cryptocurrency
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** January 28, 2026 at 05:54 UTC  
+**Last Updated:** January 28, 2026 at 06:38 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,17 +38,17 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $89,356.16
+### $88,997.31
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** +0.6%  
-**7d:** -0.8%  
-**30d:** +0.5%  
-**90d:** -19.0%  
-**1y:** -14.2%  
+**24h:** +1.0%  
+**7d:** -0.4%  
+**30d:** +0.9%  
+**90d:** -18.7%  
+**1y:** -13.9%  
 
 ---
 
@@ -79,25 +79,19 @@ Rank #1
 
 **[This man filmed the reaction to bitcoin breaking $100 in 2013](https://www.reddit.com/r/Bitcoin/comments/1qox66j/this_man_filmed_the_reaction_to_bitcoin_breaking/)**
 
-4h ago
-
----
-
-**[Real 🤣](https://www.reddit.com/r/Bitcoin/comments/1qoxu5d/real/)**
-
-4h ago
+5h ago
 
 ---
 
 **["Crypto is risky" Meanwhile:](https://www.reddit.com/r/Bitcoin/comments/1qoxz6c/crypto_is_risky_meanwhile/)**
 
-3h ago
+4h ago
 
 ---
 
 **[still hodling](https://www.reddit.com/r/Bitcoin/comments/1qoarog/still_hodling/)**
 
-18h ago
+19h ago
 
 ---
 
@@ -109,15 +103,21 @@ I'm a teenager from a third world country, and I'm glad to share that I'm finall
 
 ---
 
+**[Nothing more delicious than a Bitcoin burger](https://www.reddit.com/r/Bitcoin/comments/1qp35kq/nothing_more_delicious_than_a_bitcoin_burger/)**
+
+40m ago
+
+---
+
 **[Rule 11](https://www.reddit.com/r/Bitcoin/comments/1qoe2h3/rule_11/)**
 
-16h ago
+17h ago
 
 ---
 
 **[the first 365 days of January are always the hardest](https://www.reddit.com/r/Bitcoin/comments/1qosc5f/the_first_365_days_of_january_are_always_the/)**
 
-7h ago
+8h ago
 
 ---
 
@@ -131,13 +131,13 @@ I'm a teenager from a third world country, and I'm glad to share that I'm finall
 
 Proving value is the key to build anything I’m studied my ass off because I am free, not trading my life for paper. Working my ass off for SATS so I can live my life.
 
-7h ago
+8h ago
 
 ---
 
 **[How it feels to say “i'm a crypto expert ” instead of “degen gambler.”](https://www.reddit.com/r/Bitcoin/comments/1qos9bh/how_it_feels_to_say_im_a_crypto_expert_instead_of/)**
 
-7h ago
+8h ago
 
 ---
 
@@ -145,9 +145,11 @@ Proving value is the key to build anything I’m studied my ass off because I am
 
 ## Google News: "bitcoin"
 
-**[Silver overtakes bitcoin’s post-2017 gains as price blows past $115](https://www.theblock.co/post/387138/silver-overtakes-bitcoin-post-2017-gains-price-blows-past-115)**
+**[Bitcoin price news: BTC attempts rally as dollar decline accelerates](https://www.coindesk.com/markets/2026/01/27/bitcoin-climbs-above-usd89-000-as-u-s-dollar-tumbles-on-president-trump-s-remarks)**
 
-The Block • 1d ago
+The president said he isn't concerned about the dollar's recent declines, sending the greenback plunging even lower.
+
+CoinDesk • 9h ago
 
 ---
 
@@ -155,15 +157,7 @@ The Block • 1d ago
 
 New analysis points to steadier market conditions for Bitcoin as liquidity support holds and investors shift toward hedging over leverage.
 
-Decrypt • 5h ago
-
----
-
-**[US Dollar Index (DXY) Slips Below Key Level That Preceded Bitcoin Rallies in 2017 and 2020](https://finance.yahoo.com/news/us-dollar-index-dxy-slips-044637595.html)**
-
-DXY falls below 96 for the first time since 2022, signaling possible bullish moves for Bitcoin.
-
-Yahoo Finance • 1h ago
+Decrypt • 6h ago
 
 ---
 
@@ -171,7 +165,15 @@ Yahoo Finance • 1h ago
 
 Katie Stockton, Fairlead, joins 'Fast Money' to take a technical look at bitcoin prices.
 
-CNBC • 6h ago
+CNBC • 7h ago
+
+---
+
+**[Strategy buys $264m Bitcoin during price dip as investors brace for 80% government shutdown chance](https://finance.yahoo.com/news/strategy-buys-264m-bitcoin-during-114217584.html)**
+
+Polymarket puts shutdown probability at 80%. The last shutdown in October-November caused lasting damage. That’s not stopping Wall Street from digging deeper into crypto.
+
+Yahoo Finance • 18h ago
 
 ---
 
@@ -183,25 +185,23 @@ Fortune • 1d ago
 
 ---
 
-**[Bitcoin miners Cleanspark, IREN, and TeraWulf among those lower after NVDA/CRWV deal](https://www.coindesk.com/markets/2026/01/26/here-are-the-winners-and-losers-from-nvidia-s-usd2b-coreweave-investment)**
+**[Tom Lee Claims Parabolic Gold and Silver Move Is Masking Bullish Bitcoin and Ethereum Signals](https://finance.yahoo.com/news/tom-lee-claims-parabolic-gold-114507218.html)**
 
-Nvidia’s deepened partnership with CoreWeave raises pressure on bitcoin miners pivoting to AI infrastructure.
+Tom Lee says precious metals are stealing the spotlight from crypto fundamentals. Bitmine continues to add to its $12.8 billion ETH holdings, amid Tom Lee's ...
 
-CoinDesk • 1d ago
-
----
-
-**[Jacob & Co. X Bitcoin? Luxury Watch Maker Unveils BTC-Themed Watch In Partnership With Miner](https://finance.yahoo.com/news/jacob-co-x-bitcoin-luxury-194036452.html)**
-
-A Bitcoin-themed watch limited to 100 pieces has been added to Jacob & Co.'s Epic X Bridges collection through a partnership with Bitcoin mining company GoMining. GoMining recently announced Epic X GoMining, a 44 mm skeleton dial Bitcoin-themed Jacob &...
-
-Yahoo Finance • 10h ago
+Yahoo Finance • 18h ago
 
 ---
 
-**[Bitcoin Miners Power Down US Operations in Wake of Winter Storm](https://www.bloomberg.com/news/articles/2026-01-26/bitcoin-miners-power-down-us-operations-in-wake-of-winter-storm)**
+**[Bitcoin Believers Are Looking to Stocks and Gold](https://www.bloomberg.com/news/newsletters/2026-01-27/bitcoin-believers-are-looking-to-stocks-and-gold)**
 
-Bloomberg • 1d ago
+Bloomberg • 6h ago
+
+---
+
+**[Bitcoin lacks direction as precious metals outshine crypto (BTC-USD:Cryptocurrency)](https://seekingalpha.com/news/4542886-bitcoin-lacks-direction-as-precious-metals-outshine-crypto)**
+
+Seeking Alpha • 15h ago
 
 ---
 
@@ -217,7 +217,7 @@ Bitcoin Magazine • 1d ago
 
 Tucker Carlson asks the new guest why Bitcoin can't replace the U.S. dollar.
 
-thestreet.com • 10h ago
+thestreet.com • 11h ago
 
 ---
 
@@ -246,7 +246,7 @@ rewards for mining operations will dwindle. What happens next?
 
 A list of known attacks against Bitcoin / crypto asset owning entities that occurred in meatspace. - jlopp/physical-bitcoin-attacks
 
-⬆️ 3 • 💬 0 • 10h ago • [GitHub](https://github.com/jlopp/physical-bitcoin-attacks)
+⬆️ 3 • 💬 0 • 11h ago • [GitHub](https://github.com/jlopp/physical-bitcoin-attacks)
 
 ---
 
@@ -262,7 +262,7 @@ Stargate UI
 
 For years, crypto investors have waited for a familiar miracle. Altcoin season. The moment when small coins suddenly outrun Bitcoin,
 
-⬆️ 1 • 💬 0 • 18h ago • [The Bit Gazette](https://thebitgazette.com/why-altcoin-season-may-not-happen-in-2026-as-bitcoin-keeps-control/)
+⬆️ 1 • 💬 0 • 19h ago • [The Bit Gazette](https://thebitgazette.com/why-altcoin-season-may-not-happen-in-2026-as-bitcoin-keeps-control/)
 
 ---
 
@@ -282,13 +282,13 @@ Transform HN comment threads into executive intelligence. AI analyzes discussion
 
 **[Tell HN: I cut Claude API costs from $70/month to pennies](https://news.ycombinator.com/item?id=46760285)**
 
-⬆️ 39 • 💬 21 • 2d ago
+⬆️ 39 • 💬 22 • 2d ago
 
 ---
 
 **[Show HN: I could build the translation tool I've wanted for 10 years](https://news.ycombinator.com/item?id=46786231)**
 
-⬆️ 1 • 💬 1 • 9h ago
+⬆️ 1 • 💬 1 • 10h ago
 
 ---
 
@@ -308,7 +308,7 @@ This is not a victory lap — it's a reset. When Tom Lee throws out a $200000–
 
 📺 The Bitcoin Revolution
 
-👁️ 1K • 👍 60 • 💬 104 • ⏱️ 8:58 • 11h ago
+👁️ 1K • 👍 60 • 💬 104 • ⏱️ 8:58 • 12h ago
 
 ---
 
@@ -318,7 +318,7 @@ Take Control of Your Retirement — Grow Crypto & Gold Tax-Advantaged. https://w
 
 📺 Savvy Finance
 
-👁️ 9K • 👍 400 • 💬 10 • ⏱️ 19:52 • 12h ago
+👁️ 9K • 👍 400 • 💬 10 • ⏱️ 19:52 • 13h ago
 
 ---
 
@@ -338,7 +338,7 @@ I didn't know that this many banks are getting ready for a crypto push. The link
 
 📺 Digital Asset News
 
-👁️ 7K • 👍 684 • 💬 37 • ⏱️ 23:24 • 9h ago
+👁️ 7K • 👍 684 • 💬 37 • ⏱️ 23:24 • 10h ago
 
 ---
 
@@ -348,7 +348,7 @@ NEW WEEKLY REPORTS, NEW SUBSCRIBERS GET ACCESS HERE → https://tiainvestor.com/
 
 📺 Michael Pizzino
 
-👁️ 3K • 👍 405 • 💬 20 • ⏱️ 8:45 • 5h ago
+👁️ 3K • 👍 405 • 💬 20 • ⏱️ 8:45 • 6h ago
 
 ---
 
@@ -358,7 +358,7 @@ Trade Like A Tourist Or Join The Pros FFA Is Where The Real Ones Go https://cryp
 
 📺 Crypto Crew University
 
-👁️ 35K • 👍 3K • 💬 202 • ⏱️ 15:06 • 15h ago
+👁️ 35K • 👍 3K • 💬 202 • ⏱️ 15:06 • 16h ago
 
 ---
 
@@ -378,7 +378,7 @@ Guy Swann explains why almost everyone is about to get Bitcoin totally wrong —
 
 📺 Bitcoin Archive w Archie
 
-👁️ 11K • 👍 338 • 💬 142 • ⏱️ 21:44 • 16h ago
+👁️ 11K • 👍 338 • 💬 142 • ⏱️ 21:44 • 17h ago
 
 ---
 
@@ -388,7 +388,7 @@ Tom Lee Just Said The UNTHINKABLE About Bitcoin & Ethereum! [2026 New Prediction
 
 📺 Crypto Nutshell
 
-👁️ 19K • 👍 587 • 💬 55 • ⏱️ 14:37 • 14h ago
+👁️ 19K • 👍 587 • 💬 55 • ⏱️ 14:37 • 15h ago
 
 ---
 
@@ -398,7 +398,7 @@ Today, let's examine Bitcoin's charts and metrics, as well as the latest Macro a
 
 📺 CryptosRUs
 
-👁️ 22K • 👍 1K • 💬 197 • ⏱️ 43:35 • 13h ago
+👁️ 22K • 👍 1K • 💬 197 • ⏱️ 43:35 • 14h ago
 
 ---
 
