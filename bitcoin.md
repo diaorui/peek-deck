@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-01-28T09:36:01.143125+00:00'
+updated: '2026-01-28T10:30:19.577472+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- social
-- news
 - videos
 - cryptocurrency
+- social
+- news
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** January 28, 2026 at 09:36 UTC  
+**Last Updated:** January 28, 2026 at 10:30 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -79,25 +79,25 @@ Rank #1
 
 **[This man filmed the reaction to bitcoin breaking $100 in 2013](https://www.reddit.com/r/Bitcoin/comments/1qox66j/this_man_filmed_the_reaction_to_bitcoin_breaking/)**
 
-8h ago
+9h ago
 
 ---
 
 **["Crypto is risky" Meanwhile:](https://www.reddit.com/r/Bitcoin/comments/1qoxz6c/crypto_is_risky_meanwhile/)**
 
-7h ago
+8h ago
 
 ---
 
 **[Nothing more delicious than a Bitcoin burger](https://www.reddit.com/r/Bitcoin/comments/1qp35kq/nothing_more_delicious_than_a_bitcoin_burger/)**
 
-3h ago
+4h ago
 
 ---
 
 **[still hodling](https://www.reddit.com/r/Bitcoin/comments/1qoarog/still_hodling/)**
 
-22h ago
+23h ago
 
 ---
 
@@ -105,19 +105,19 @@ Rank #1
 
 I'm a teenager from a third world country, and I'm glad to share that I'm finally achieving my goal. Building wealth in my country isn't as easy as it is in Europe or the US, especially at my age. Because of that, my friends have called me a cheapskate (and sometimes they've been right). Now that I've accumulated enough Bitcoin (an amount that feels sufficient to me), I can finally start spending future income on clothes, the gym, gifts for my girlfriend, and other things I've been putting off to keep investing. Having this nest egg at 19 feels like a huge accomplishment, and I'm proud to share it with you. I can finally enjoy typical teenage stuff without feeling guilty :)
 
-14h ago
+15h ago
 
 ---
 
 **[Rule 11](https://www.reddit.com/r/Bitcoin/comments/1qoe2h3/rule_11/)**
 
-19h ago
+20h ago
 
 ---
 
 **[the first 365 days of January are always the hardest](https://www.reddit.com/r/Bitcoin/comments/1qosc5f/the_first_365_days_of_january_are_always_the/)**
 
-11h ago
+12h ago
 
 ---
 
@@ -125,13 +125,13 @@ I'm a teenager from a third world country, and I'm glad to share that I'm finall
 
 HODL.
 
-16h ago
+17h ago
 
 ---
 
 **[Forever😀](https://www.reddit.com/r/Bitcoin/comments/1qofr38/forever/)**
 
-18h ago
+19h ago
 
 ---
 
@@ -139,7 +139,7 @@ HODL.
 
 If the price of BTC dipped to £50,000 / $69,035 how would someone in the UK purchase 1 BTC? UK banks have £10,000 per month crypto limits ! Someone would have to plan 5 months ahead, transfer £10,000 each month into an exchange (Coinbase / Kraken) and trust the fiat was safe, sat there, earning zero interest! Is this the way? References: https://www.firstdirect.com/help/bank-accounts/payments-and-transfers/cryptocurrency/ Our limits: Payments – £2,500 for a single payment and a total payment limit of £10,000 in any rolling 30-day period. Debit cards – £2,500 for a single card payment and a total card payment limit of £10,000 in any rolling 30-day period. https://www.barclays.co.uk/help/payments/payment-information/crypto-currency-payment-restrictions/ Monthly limits for non-card payments From 2nd December 2025, we’re introducing limits on bank transfers (Faster Payments) to crypto-currency exchanges. You can make individual transactions up to £2,500. There’s also a total personal transaction limit of £10,000 per calendar month, which includes all payments made from any of your accounts. https://www.santander.co.uk/personal/support/fraud-and-security/cryptocurrency Your limit will be: £1,000 per transaction a total of £3,000 in any rolling 30-day period.
 
-2h ago
+3h ago
 
 ---
 
@@ -151,7 +151,7 @@ If the price of BTC dipped to £50,000 / $69,035 how would someone in the UK pur
 
 The president said he isn't concerned about the dollar's recent declines, sending the greenback plunging even lower.
 
-CoinDesk • 12h ago
+CoinDesk • 13h ago
 
 ---
 
@@ -167,7 +167,7 @@ Yahoo Finance • 1d ago
 
 Katie Stockton, Fairlead, joins 'Fast Money' to take a technical look at bitcoin prices.
 
-CNBC • 10h ago
+CNBC • 11h ago
 
 ---
 
@@ -189,13 +189,13 @@ Fortune • 1d ago
 
 Tom Lee says precious metals are stealing the spotlight from crypto fundamentals. Bitmine continues to add to its $12.8 billion ETH holdings, amid Tom Lee's ...
 
-Yahoo Finance • 21h ago
+Yahoo Finance • 22h ago
 
 ---
 
 **[Bitcoin Believers Are Looking to Stocks and Gold](https://www.bloomberg.com/news/newsletters/2026-01-27/bitcoin-believers-are-looking-to-stocks-and-gold)**
 
-Bloomberg.com • 9h ago
+Bloomberg.com • 10h ago
 
 ---
 
@@ -203,7 +203,7 @@ Bloomberg.com • 9h ago
 
 Proponents of bitcoin have been calling it “digital gold.” Both the cryptocurrency and the precious metal are impossible to value because they don't pay any interest or dividends. Bitcoin is digital, making it potentially vulnerable someday to hacking by quantum-computing algorithms, while gold needs to be stored in a vault.
 
-Yardeni QuickTakes • 6h ago
+Yardeni QuickTakes • 7h ago
 
 ---
 
@@ -219,7 +219,7 @@ Bitcoin Magazine • 1d ago
 
 Tucker Carlson asks the new guest why Bitcoin can't replace the U.S. dollar.
 
-thestreet.com • 14h ago
+thestreet.com • 15h ago
 
 ---
 
@@ -248,7 +248,7 @@ rewards for mining operations will dwindle. What happens next?
 
 A list of known attacks against Bitcoin / crypto asset owning entities that occurred in meatspace. - jlopp/physical-bitcoin-attacks
 
-⬆️ 3 • 💬 0 • 14h ago • [GitHub](https://github.com/jlopp/physical-bitcoin-attacks)
+⬆️ 3 • 💬 0 • 15h ago • [GitHub](https://github.com/jlopp/physical-bitcoin-attacks)
 
 ---
 
@@ -264,7 +264,7 @@ Stargate UI
 
 For years, crypto investors have waited for a familiar miracle. Altcoin season. The moment when small coins suddenly outrun Bitcoin,
 
-⬆️ 1 • 💬 0 • 22h ago • [The Bit Gazette](https://thebitgazette.com/why-altcoin-season-may-not-happen-in-2026-as-bitcoin-keeps-control/)
+⬆️ 1 • 💬 0 • 23h ago • [The Bit Gazette](https://thebitgazette.com/why-altcoin-season-may-not-happen-in-2026-as-bitcoin-keeps-control/)
 
 ---
 
@@ -290,7 +290,7 @@ Transform HN comment threads into executive intelligence. AI analyzes discussion
 
 **[Show HN: I could build the translation tool I've wanted for 10 years](https://news.ycombinator.com/item?id=46786231)**
 
-⬆️ 1 • 💬 1 • 12h ago
+⬆️ 1 • 💬 1 • 13h ago
 
 ---
 
@@ -298,7 +298,7 @@ Transform HN comment threads into executive intelligence. AI analyzes discussion
 
 The altcoin market cap is still holding onto the macro uptrend despite all the surrounding geopolitical tension. Although the analyst predicts the altcoin
 
-⬆️ 1 • 💬 1 • 1h ago • [Altcoin Desk](https://altcoindesk.com/news/altcoin-season-is-going-to-be-biblical-but-liquidity-dries/article-22364/)
+⬆️ 1 • 💬 1 • 2h ago • [Altcoin Desk](https://altcoindesk.com/news/altcoin-season-is-going-to-be-biblical-but-liquidity-dries/article-22364/)
 
 ---
 
@@ -312,7 +312,7 @@ Silver has exploded, gold is ripping, and Bitcoin looks left behind — but hist
 
 📺 Swan Bitcoin
 
-👁️ 42K • 👍 2K • 💬 343 • ⏱️ 17:47 • 10h ago
+👁️ 42K • 👍 2K • 💬 343 • ⏱️ 17:47 • 11h ago
 
 ---
 
@@ -322,7 +322,7 @@ This is not a victory lap — it's a reset. When Tom Lee throws out a $200000–
 
 📺 The Bitcoin Revolution
 
-👁️ 2K • 👍 67 • 💬 69 • ⏱️ 8:58 • 15h ago
+👁️ 2K • 👍 67 • 💬 69 • ⏱️ 8:58 • 16h ago
 
 ---
 
@@ -332,7 +332,7 @@ Take Control of Your Retirement — Grow Crypto & Gold Tax-Advantaged. https://w
 
 📺 Savvy Finance
 
-👁️ 11K • 👍 433 • 💬 16 • ⏱️ 19:52 • 16h ago
+👁️ 11K • 👍 433 • 💬 16 • ⏱️ 19:52 • 17h ago
 
 ---
 
@@ -352,7 +352,7 @@ WEEX: https://www.weex.com/events/promo/usdtgiveaway?vipCode=00dt&qrType=activit
 
 📺 Crypto Rover
 
-👁️ 3K • 👍 264 • 💬 10 • ⏱️ 9:46 • 2h ago
+👁️ 3K • 👍 264 • 💬 10 • ⏱️ 9:46 • 3h ago
 
 ---
 
@@ -362,7 +362,7 @@ I didn't know that this many banks are getting ready for a crypto push. The link
 
 📺 Digital Asset News
 
-👁️ 9K • 👍 761 • 💬 42 • ⏱️ 23:24 • 13h ago
+👁️ 9K • 👍 761 • 💬 42 • ⏱️ 23:24 • 14h ago
 
 ---
 
@@ -372,7 +372,7 @@ Trade Like A Tourist Or Join The Pros FFA Is Where The Real Ones Go https://cryp
 
 📺 Crypto Crew University
 
-👁️ 38K • 👍 3K • 💬 213 • ⏱️ 15:06 • 19h ago
+👁️ 38K • 👍 3K • 💬 213 • ⏱️ 15:06 • 20h ago
 
 ---
 
@@ -382,7 +382,7 @@ As the stock market witnesses high volatility, experts anticipate potential shar
 
 📺 Paul Barron Network
 
-👁️ 62K • 👍 3K • 💬 199 • ⏱️ 17:32 • 12h ago
+👁️ 62K • 👍 3K • 💬 199 • ⏱️ 17:32 • 13h ago
 
 ---
 
@@ -392,7 +392,7 @@ URGENT: SENATOR EXPECTS CRYPTO BILL TO PASS! BITCOIN TO FOLLOW INSANE GOLD RALLY
 
 📺 CryptoWendyO
 
-👁️ 19K • 👍 1K • 💬 24 • ⏱️ 32:58 • 14h ago
+👁️ 19K • 👍 1K • 💬 24 • ⏱️ 32:58 • 15h ago
 
 ---
 

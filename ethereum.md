@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-01-28T09:36:01.149132+00:00'
+updated: '2026-01-28T10:30:19.583359+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- social
-- news
 - videos
 - cryptocurrency
+- social
+- news
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** January 28, 2026 at 09:36 UTC  
+**Last Updated:** January 28, 2026 at 10:30 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -72,13 +72,13 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-3h ago
+4h ago
 
 ---
 
 **[Pouring one out for Week in Ethereum News 🥃 Website is offline. Thank you Evan Van Ness for your tireless efforts serving the Ethereum community. 🙏](https://www.reddit.com/r/ethereum/comments/1qp227f/pouring_one_out_for_week_in_ethereum_news_website/)**
 
-4h ago
+5h ago
 
 ---
 
@@ -86,7 +86,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 Hi r/ethereum, I’ve been running a personal experiment called FitVow. The idea is simple: I stake real ETH into a smart contract, commit to weekly physical activity goals, and let the contract enforce the rules without a trusted referee. Each week, an Android app reads physical activity data from my smartwatch and publishes it on-chain (e.g. runs, workouts and etc). The contract uses that data to decide whether that week’s goals were met. If a week fails: that week creates an enforceable fine (paid out from the stake) enforcement is permissionless (anyone can trigger it) the fine is split between the enforcer (caller) and a charity wallet (Giveth) At the end of the challenge, I’m allowed to withdraw whatever remains of the stake after any fines. There’s no backend deciding outcomes and no admin override. Once deployed, the rules are the rules. This is not a product — just an experiment exploring whether Ethereum is a good tool for credible self-commitment outside of DeFi. Live dashboard (reads directly from on-chain data): https://fitvow.pedroaugusto.dev/ Technical write-up (architecture + security assumptions): https://pedrooaugusto.github.io/blog/posts/making-missed-workouts-cost-money-with-smart-contracts/ I’d love feedback — especially on whether this feels like a reasonable use of Ethereum, and what you’d poke holes in.
 
-16h ago
+17h ago
 
 ---
 
@@ -100,7 +100,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 **[Built a little ethereum wallet for a metamask interview](https://www.reddit.com/r/ethereum/comments/1qon8y9/built_a_little_ethereum_wallet_for_a_metamask/)**
 
-14h ago
+15h ago
 
 ---
 
@@ -124,7 +124,7 @@ Hey r/defi. My name is Matt and I have built something different. EqualFi offers
 
 I am trying to create a delegate wallet for every user which is connected to my dApp. I intend to have access to the private key so that I can initiate and sign transactions on the users behalf. So I am thinking of making the wallet pub and priv key on client side and I don't want the priv key to ever leave client's browser. Is it possible to implement something like this ? I use Privy for siwe if that can help me in any way.
 
-22h ago
+23h ago
 
 ---
 
@@ -234,7 +234,7 @@ FREE Daily On-Chain Analysis & Crypto News In 5-Mins: http://bit.ly/TheCryptoNut
 
 📺 Library Of Wealth
 
-👁️ 2K • 👍 127 • 💬 133 • ⏱️ 16:28 • 4h ago
+👁️ 2K • 👍 127 • 💬 133 • ⏱️ 16:28 • 5h ago
 
 ---
 
@@ -244,7 +244,7 @@ Tom Lee Just Said The UNTHINKABLE About Bitcoin & Ethereum! [2026 New Prediction
 
 📺 Crypto Nutshell
 
-👁️ 22K • 👍 630 • 💬 100 • ⏱️ 14:37 • 18h ago
+👁️ 22K • 👍 630 • 💬 100 • ⏱️ 14:37 • 19h ago
 
 ---
 
@@ -254,7 +254,7 @@ FREE TRAINING: https://www.bullmania.com EXCHANGES I USE (bybit, pionex): https:
 
 📺 Ivan on Tech
 
-👁️ 2K • 👍 192 • 51m ago
+👁️ 2K • 👍 192 • 1h ago
 
 ---
 
@@ -264,7 +264,7 @@ This video provides a professional Elliott Wave and technical analysis of Ethere
 
 📺 More Crypto Online
 
-👁️ 1K • 👍 92 • 💬 7 • ⏱️ 4:42 • 7h ago
+👁️ 1K • 👍 92 • 💬 7 • ⏱️ 4:42 • 8h ago
 
 ---
 
@@ -274,7 +274,7 @@ These news have huge implications towards bitcoin, ethereum and the rest of cryp
 
 📺 Thomas Kralow
 
-👁️ 18K • 👍 3K • 💬 37 • ⏱️ 10:51 • 1d ago
+👁️ 18K • 👍 3K • 💬 37 • ⏱️ 10:51 • 2d ago
 
 ---
 
@@ -294,7 +294,7 @@ FREE TRAINING: https://www.bullmania.com EXCHANGES I USE (bybit, pionex): https:
 
 📺 Ivan on Tech
 
-👁️ 23K • 👍 1K • 💬 129 • ⏱️ 59:47 • 23h ago
+👁️ 23K • 👍 1K • 💬 129 • ⏱️ 59:47 • 1d ago
 
 ---
 
@@ -324,7 +324,7 @@ This video provides a professional Elliott Wave and technical analysis of Ethere
 
 📺 More Crypto Online
 
-👁️ 2K • 👍 114 • 💬 9 • ⏱️ 4:08 • 15h ago
+👁️ 2K • 👍 114 • 💬 9 • ⏱️ 4:08 • 16h ago
 
 ---
 

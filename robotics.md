@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-01-28T09:36:01.152336+00:00'
+updated: '2026-01-28T10:30:19.586573+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
+- videos
 - social
 - news
-- videos
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** January 28, 2026 at 09:36 UTC  
+**Last Updated:** January 28, 2026 at 10:30 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -44,7 +44,7 @@ Hey all, a quick showcase of the Sprout robot from Fauna Robotics. I’m a postd
 
 From Lukas Ziegler on 𝕏: https://x.com/lukas_m_ziegler/status/2016112237019042259 AgXeed website: https://www.agxeed.com/
 
-21h ago
+22h ago
 
 ---
 
@@ -52,7 +52,7 @@ From Lukas Ziegler on 𝕏: https://x.com/lukas_m_ziegler/status/201611223701904
 
 Meet Sprout. Fauna Robotics are releasing a new kind of robotics platform. One designed to move out of the lab and into the real world, closer to the people who will shape what robots become next. @faunarobotics
 
-16h ago
+17h ago
 
 ---
 
@@ -60,7 +60,7 @@ Meet Sprout. Fauna Robotics are releasing a new kind of robotics platform. One d
 
 3 x Super-Beacons as stationary beacons for precise 3D indoor positioning 1 x (Mini-RX + External Microphone + Deflector) as a mobile beacon for the drone 1 x Modem v5.1 as a central controller This is not an autonomous flight - the drone was remotely controlled. But it shows precise indoor 3D tracking capabilities for swarming drones.
 
-1h ago
+2h ago
 
 ---
 
@@ -68,13 +68,13 @@ Meet Sprout. Fauna Robotics are releasing a new kind of robotics platform. One d
 
 I recently came across the Universal Manipulation Interface (UMI) paper and found it to be a promising approach for teaching robots manipulation skills without relying on teleportation-based control. I was particularly interested in exploring how well this approach works on low-cost DIY hardware, such as an AR4 robot arm. Key challenges: - High-latency robot and gripper controllers that only support single-step control commands - A low-FPS camera with image composition that differs from the data used during training Key engineering adaptations: 🛠️ Hardware Abstraction Layer - Original UMI supports UR5, Franka Emika, and industrial WSG grippers. - I wrote custom drivers to interface with a DIY AR4 6-DOF robot arm and a custom servo-based gripper. - Forward and inverse kinematics are solved on the PC side, and only joint commands are sent to the robot controller. 👁️ Vision System Retrofit - Original UMI relies on a GoPro with lens modification and a capture card. - I adapted the perception pipeline to use a standard ~$50 USB camera. 🖐️ Custom End-Effector - Designed and 3D-printed a custom parallel gripper. - Actuated by a standard hobby servo. - Controlled via an Arduino Mega 2560 (AR4 auxiliary controller). Repos: - UMI + AR4 integration: https://github.com/robotsir/umi_ar4_retrofit - AR4 custom firmware: https://github.com/robotsir/ar4_embodied_controller This is still a work in progress. Due to the hardware limitations above, the system is not yet as smooth as the original UMI setup, but my goal is to push performance as far as possible within these constraints. The system is already running end-to-end on real hardware. The GIF above shows a live demo. Feedback from people working on embodied AI, robot learning, or low-cost manipulation platforms would be very welcome. If you have an AR4 arm and are interested in trying this out, feel free to reach out.
 
-9h ago
+10h ago
 
 ---
 
 **[Helix update makes Figure 03 move noticeably more human. Thoughts?](https://www.reddit.com/r/robotics/comments/1qoyi0l/helix_update_makes_figure_03_move_noticeably_more/)**
 
-7h ago
+8h ago
 
 ---
 
@@ -82,7 +82,7 @@ I recently came across the Universal Manipulation Interface (UMI) paper and foun
 
 From Eren Chen on 𝕏: https://x.com/ErenChenAI/status/2015503512734441800
 
-23h ago
+1d ago
 
 ---
 
@@ -96,7 +96,7 @@ Enjoy the videos and music you love, upload original content, and share it all w
 
 **[Unitree G1 fully Body Teleoperation using a Pico4 and Twist2 Framework](https://www.reddit.com/r/robotics/comments/1qonvka/unitree_g1_fully_body_teleoperation_using_a_pico4/)**
 
-14h ago
+15h ago
 
 ---
 
@@ -116,7 +116,7 @@ We're open-sourcing Asimov Legs, a bipedal robotic system. We've been building i
 
 Robotics and virtual reality filled the science schedule aboard the International Space Station on Tuesday as the Expedition 74 crew promoted education and explored human research. The orbital trio also inspected safety equipment, worked on cargo swaps, and conducted Earth observations.
 
-NASA (.gov) • 14h ago
+NASA (.gov) • 15h ago
 
 ---
 
@@ -124,13 +124,13 @@ NASA (.gov) • 14h ago
 
 Boston Dynamics' Atlas appears to have an edge over Tesla's Optimus.
 
-The Motley Fool • 4h ago
+The Motley Fool • 5h ago
 
 ---
 
 **[Synthetic 'muscle' with microfluidic blood vessels shows promise for soft robotics](https://techxplore.com/news/2026-01-synthetic-muscle-microfluidic-blood-vessels.html)**
 
-Tech Xplore • 13h ago
+Tech Xplore • 14h ago
 
 ---
 
@@ -138,7 +138,7 @@ Tech Xplore • 13h ago
 
 The most momentous day for ADAM since serving Jensen Huang a margarita....
 
-Sherwood News • 19h ago
+Sherwood News • 20h ago
 
 ---
 
@@ -146,7 +146,7 @@ Sherwood News • 19h ago
 
 ADAM, Richtech's Azure-powered robot, now uses vision, voice and contextual data to improve retail workflows and customer interactions.
 
-Stock Titan • 20h ago
+Stock Titan • 21h ago
 
 ---
 
@@ -154,7 +154,7 @@ Stock Titan • 20h ago
 
 Joint engineering effort with Microsoft AI Co-Innovation Labs enhances Richtech’s ADAM robot and extends intelligent automation across physical...
 
-GlobeNewswire • 20h ago
+GlobeNewswire • 21h ago
 
 ---
 
@@ -170,13 +170,13 @@ The Robot Report • 1d ago
 
 A new humanoid robot named Sprout, developed by Fauna Robotics, is making its debut
 
-ABC News • 19h ago
+ABC News • 20h ago
 
 ---
 
 **[South Korea Exceeds Germany’s Market Cap on AI, Robotics Craze](https://www.bloomberg.com/news/articles/2026-01-28/south-korea-exceeds-germany-s-market-cap-on-ai-robotics-craze)**
 
-Bloomberg.com • 6h ago
+Bloomberg.com • 7h ago
 
 ---
 
@@ -198,7 +198,7 @@ Fauna Robotics, a New York City–based startup founded by former Meta engineers
 
 📺 Kalil 4.0
 
-👁️ 796 • 👍 31 • 💬 1 • ⏱️ 0:52 • 5h ago
+👁️ 796 • 👍 31 • 💬 1 • ⏱️ 0:52 • 6h ago
 
 ---
 
@@ -208,7 +208,7 @@ Using technical analysis, we break down RR (Richtech Robotics) price action to i
 
 📺 IC Trades
 
-👁️ 378 • 👍 23 • 💬 11 • ⏱️ 8:06 • 12h ago
+👁️ 378 • 👍 23 • 💬 11 • ⏱️ 8:06 • 13h ago
 
 ---
 
@@ -258,7 +258,7 @@ Sprout, a 3 1/2-foot-tall humanoid from Fauna Robotics, debuts with a soft foam 
 
 📺 Associated Press
 
-👁️ 11K • 👍 98 • 💬 12 • ⏱️ 0:55 • 20h ago
+👁️ 11K • 👍 98 • 💬 12 • ⏱️ 0:55 • 21h ago
 
 ---
 
@@ -288,7 +288,7 @@ Robotics Stocks: RR Richtech Robotics Up 70%! #investingtips #moneytalks ✓ "MO
 
 📺 STOCK UP! with LARRY JONES
 
-👁️ 7K • 👍 328 • 💬 52 • ⏱️ 0:47 • 11h ago
+👁️ 7K • 👍 328 • 💬 52 • ⏱️ 0:47 • 12h ago
 
 ---
 
