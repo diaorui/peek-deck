@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-01-28T14:32:20.141461+00:00'
+updated: '2026-01-28T15:34:41.284174+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- social
 - repositories
-- videos
+- social
 - news
+- videos
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** January 28, 2026 at 14:32 UTC  
+**Last Updated:** January 28, 2026 at 15:34 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -39,7 +39,7 @@ AI news, discussions, and developments
 
 **[Trump’s acting cyber chief uploaded sensitive files into a public version of ChatGPT. The interim director of the Cybersecurity and Infrastructure Security Agency triggered an internal cybersecurity warning with the uploads — and a DHS-level damage assessment.](https://www.reddit.com/r/artificial/comments/1qozsna/trumps_acting_cyber_chief_uploaded_sensitive/)**
 
-🔗 [politico.com](https://www.politico.com/news/2026/01/27/cisa-madhu-gottumukkala-chatgpt-00749361) • 11h ago
+🔗 [politico.com](https://www.politico.com/news/2026/01/27/cisa-madhu-gottumukkala-chatgpt-00749361) • 12h ago
 
 ---
 
@@ -47,7 +47,7 @@ AI news, discussions, and developments
 
 Unsealed legal documents reveal Meta, TikTok, and Google purposefully targeted children for addiction, ICE raids stall GOP in Minnesota, Trump targets Cuba, Oregon's voter rolls stay private, the CIA moves into Venezuela, Trump Cyber Chief accidentally uploads policies to ChatGPT, Meta blocks links
 
-🔗 [Instrumental Communications](https://www.instrumentalcomms.com/blog/unsealed-docs-reveal-big-tech-targets-kids#ai) • 1h ago
+🔗 [Instrumental Communications](https://www.instrumentalcomms.com/blog/unsealed-docs-reveal-big-tech-targets-kids#ai) • 2h ago
 
 ---
 
@@ -55,7 +55,7 @@ Unsealed legal documents reveal Meta, TikTok, and Google purposefully targeted c
 
 After the Claude/Anthropic incident where AI was used in a large-scale cyberattack, we've been publishing weekly threat intelligence on what's actually targeting AI agents in production. This week (74,636 interactions monitored) 37.8% contained attack attempts 74.8% of those were cybersecurity-related (malware gen, exploits) The new threat nobody's talking about: Inter-Agent Attacks As people deploy multi-agent systems, attackers are sending poisoned messages designed to propagate from one agent to another. We're seeing: Agent impersonation Goal hijacking Constraint removal Recursive attack propagation This is 3.4% of threats now, detected at 97.7% confidence. Top attack categories Data exfiltration (19.2%) - stealing system prompts and context Jailbreaks (12.3%) RAG poisoning (10.0%) Prompt injection (8.8%) The ClawdBot incident was the canary. If your AI can take actions, it's a target. Full report: https://raxe.ai/threat-intelligence Github: https://github.com/raxe-ai/raxe-ce is free for the community to use
 
-6h ago
+7h ago
 
 ---
 
@@ -63,13 +63,13 @@ After the Claude/Anthropic incident where AI was used in a large-scale cyberatta
 
 Tried ClawdBot (now MoltBot) on a freshly installed system. At first? 🔥 Insane. It found a pitch deck buried in my messy external HDD and even sent it on WhatsApp. Super impressive. Few hours later — I get an Amazon alert: • Login at 2:40 AM • Different location • Logged in from Windows • I’m on Linux • I did NOT log in Could be a false alert (I have 2FA), but the timing freaked me out. Tried uninstalling the bot — no clear guide. Had to dig into code, found it running as a system service, manually removed everything. Realized my mistake: Chrome was installed → password manager + sessions were there. ⚠️ Lesson: These tools are powerful, but don’t install them unless you fully understand what access you’re giving. Not accusing. Just sharing experience. If you know a guide to uninstall if it’s available on the site, please drop it.
 
-15h ago
+16h ago
 
 ---
 
 **[Pinterest lays off hundreds, citing need for 'AI-proficient talent'](https://www.reddit.com/r/artificial/comments/1qotqu1/pinterest_lays_off_hundreds_citing_need_for/)**
 
-🔗 [sfgate.com](https://www.sfgate.com/tech/article/pinterest-layoffs-hundreds-ai-21318302.php) • 15h ago
+🔗 [sfgate.com](https://www.sfgate.com/tech/article/pinterest-layoffs-hundreds-ai-21318302.php) • 16h ago
 
 ---
 
@@ -77,7 +77,7 @@ Tried ClawdBot (now MoltBot) on a freshly installed system. At first? 🔥 Insan
 
 This question came to me as I was reading this article (Tesla has fallen behind BYD in terms of vehicle sales. Not to worry because Tesla is a AI & Robotics company). It says this: So, either: Tesla has a data advantage for self-driving car, in which case Tesla does not have a data advantage for humanoid robots (unless they have been collecting humanoid robot centric data for the last decade unknown to public knowledge). This means that Tesla will dominate autonomous driving, but there will be aggressive competition for autonomous humanoid robots, with no guarantee that Tesla’s Optimus will come out on top. OR Humanoid robots can be trained in simulated virtual worlds, in which case self-driving cars can also be trained in a similar manner in theory. In this case Tesla does not have the data advantage. I am curious if its possible to train humanoid robots exclusively on virtual/simulated worlds like Nvidia's omniverse Isaac Sim - Robotics Simulation and Synthetic Data Generation | NVIDIA Developer
 
-6h ago
+7h ago
 
 ---
 
@@ -85,7 +85,7 @@ This question came to me as I was reading this article (Tesla has fallen behind 
 
 I’ve been messing around with all these AI tools lately—Suno, that ACE vocal thing, Udio—and I realized something that kind of creeps me out. I gave them all the same prompt: "Create a genre that doesn't exist. Make it as dissonant and ugly as possible." I wanted clashing scales, vocals that sounded like they were actually dying, just total sonic chaos. And you know what? They couldn't do it. Every single one of them spit out something that sounded... professional. Mainstream. Even when I told them to go off-key, it felt like they were just "pretending" to be bad within a very safe, melodic box. It hit me then: AI isn't capable of true ugliness because it doesn't understand intent. To the real creators out there: your biggest advantage isn't being "perfect"—the AI has already won that race. Your advantage is being unexpected. It's the emotions that don't have a tag yet and the styles that sound "wrong" until they feel right。
 
-7h ago
+8h ago
 
 ---
 
@@ -93,7 +93,7 @@ I’ve been messing around with all these AI tools lately—Suno, that ACE vocal
 
 Google released new developer tools for Google AI Pro and Ultra subscribers.[1] FDA official offers tips on leveraging AI in drug manufacturing.[2] OpenAI released Prism, a free workspace for scientific writing and collaboration, with GPT‑5.2.[3] Microsoft Pledged to Save Water. In the A.I. Era, It Expects Water Use to Soar.[4] Sources: [1] https://blog.google/innovation-and-ai/technology/developers-tools/gdp-premium-ai-pro-ultra/ [2] https://www.raps.org/news-and-articles/news-articles/2026/1/fda-official-offers-tips-on-leveraging-ai-in-drug [3] https://openai.com/index/introducing-prism/ [4] https://www.nytimes.com/2026/01/27/technology/microsoft-water-ai-data-centers.html
 
-8h ago
+9h ago
 
 ---
 
@@ -101,7 +101,7 @@ Google released new developer tools for Google AI Pro and Ultra subscribers.[1] 
 
 Generic AI can summarize documents and answer simple questions. But it fails at complex, specialized work in industries like aerospace, semiconductors, manufacturing, and logistics. The core issue isn't models, it's the context or scaffolding around them When enterprises try to build expert AI, they face a hard tradeoff: Build it yourself: Fully customizable, but requires scarce AI expertise, months of development, and constant optimization. Buy off-the-shelf: Fast to deploy, but inflexible. Hard to customize and doesn't scale across use cases. We took a different approach: a platform approach with a unified context layer specialized for domain-specific tasks. Today, we launched Agent Composer, with orchestration capabilities that enable: Multi-step reasoning (decompose problems, iterate solutions, revise outputs) Multi-tool coordination (docs, logs, web search, APIs in the same workflow) Hybrid agentic behavior (dynamic agent steps + static workflow control) It works: Advanced manufacturing: root cause analysis from 8 hours to 20 minutes Global consulting firm: research from hours to seconds Tech-enabled 3PL: 60x faster issue resolution Test equipment: code generation in minutes instead of days Spending time on the integrating context with AI worked for us on Enterprise AI problems. To get more details about our approach, check out the blog post: https://contextual.ai/blog/introducing-agent-composer
 
-19h ago
+20h ago
 
 ---
 
@@ -109,7 +109,7 @@ Generic AI can summarize documents and answer simple questions. But it fails at 
 
 Using ChatGPT, Midjourney, and automation tools is great, but I've hit a plateau. The real challenge isn't finding tools-it's making them work together to grow the business. It feels like collecting engine parts without building the car. What I'm struggling with: Connecting AI content to actual sales funnels Tracking if AI content performs better than human-created Actually measuring ROI beyond "saves time" Most talk is about which tool is best, not how to build an AI system that delivers results. Has anyone moved beyond tools to systems? What does that look like? I saw a take from a ROI marketing agency that approaches AI as an integrated system, not just tools. It made me wonder if we're missing the bigger picture. Anyone else thinking about AI this way?
 
-13h ago
+14h ago
 
 ---
 
@@ -121,7 +121,7 @@ Using ChatGPT, Midjourney, and automation tools is great, but I've hit a plateau
 
 Accelerating science writing and collaboration with AI.
 
-OpenAI • 21h ago
+OpenAI • 22h ago
 
 ---
 
@@ -129,7 +129,7 @@ OpenAI • 21h ago
 
 Forth Worth teacher Chanea Bond says sticking with pen and paper keeps generative artificial intelligence out of her American literature classes.
 
-NPR • 4h ago
+NPR • 5h ago
 
 ---
 
@@ -137,31 +137,29 @@ NPR • 4h ago
 
 Students are taking new measures, such as dumbing down their work, spying on themselves and using AI “humanizer” programs, to beat accusations of cheating with artificial intelligence.
 
-NBC News • 3h ago
+NBC News • 4h ago
 
 ---
 
-**[How 21 Leaders Let Employees Use AI in the Workplace](https://www.inc.com/inc-leadership-forum/how-21-leaders-let-employees-use-ai-in-the-workplace/91290930)**
+**[The AI infrastructure boom shows no sign of slowing down](https://techcrunch.com/2026/01/28/the-ai-infrastructure-boom-shows-no-sign-of-slowing-down/)**
 
-Rules vary, and of course not all AI use is sanctioned.
+ASML’s record orders show chipmakers are still betting big on AI data centers.
 
-inc.com • 5m ago
-
----
-
-**[This Artificial Intelligence Stock Is a Must-Own for 2026](https://www.fool.com/investing/2026/01/28/this-artificial-intelligence-stock-is-a-must-own-f/)**
-
-The rise of artificial intelligence (AI) has only strengthened this tech powerhouse.
-
-The Motley Fool • 19m ago
+TechCrunch • 13m ago
 
 ---
 
-**[Why Serious Enterprise AI Leaders Have Stopped Talking About AI](https://www.forbes.com/sites/alexanderpuutio/2026/01/28/why-serious--enterprise-ai-leaders-have-stopped-talking-about-ai/)**
+**[Wiingy Launches CoTutor: The AI Learning Companion](https://finance.yahoo.com/news/wiingy-launches-cotutor-ai-learning-150500894.html)**
 
-Enterprise AI leaders are dialing down the hype. As AI becomes infrastructure, outcomes, trust, and reduced friction matter more than talking about intelligence itself.
+New AI-powered learning companion transforms every tutoring session into a complete learning experience with personalized podcasts, smart quizzes, and spaced-repetition flashcards, all included at no extra cost for Wiingy users The lesson was great... but will you remember it tomorrow? Stop losing what you learn.Discover how Wiingy CoTutor turns your 1-on-1 lessons into personalized AI study tools instantly. Reviewing notes takes hours. We changed that.Meet Wiingy CoTutor, the AI-powered compani
 
-Forbes • 27m ago
+Yahoo Finance • 29m ago
+
+---
+
+**[AI bosses are creating a new problem for gig workers](https://phys.org/news/2026-01-ai-bosses-problem-gig-workers.html)**
+
+Phys.org • 34m ago
 
 ---
 
@@ -169,27 +167,27 @@ Forbes • 27m ago
 
 Amazon is laying off 16,000 employees, the company’s second round of massive job reductions in two months as it fights to improve its standing in the battle for AI supremacy.
 
-CNN • 3h ago
+CNN • 4h ago
 
 ---
 
-**[Amazon to Cut 16,000 Corporate Positions to Trim Bureaucracy](https://www.bloomberg.com/news/articles/2026-01-28/amazon-to-cut-16-000-jobs-trimming-bureaucracy-amid-ai-tussle)**
+**[Amazon axes 16,000 jobs as it pushes AI and efficiency](https://www.reuters.com/legal/litigation/amazon-cuts-16000-jobs-globally-broader-restructuring-2026-01-28/)**
 
-Bloomberg • 2h ago
+Reuters • 2h ago
 
 ---
 
-**[Amazon layoffs will hit 16,000 as AI accelerates tech job losses](https://qz.com/amazon-layoffs-ai-tech-job-losses)**
+**[Amazon to cut 16,000 roles as it looks to invest in AI, remove ‘bureaucracy’](https://www.foxbusiness.com/economy/amazon-cut-16000-roles-looks-invest-ai-remove-bureaucracy)**
 
-“Jobs are going to be impacted by what’s happening with AI over time,” Amazon CEO Andy Jassy said before the layoffs were announced
+Amazon announces 16,000 job cuts in major restructuring to reduce bureaucracy and management layers while investing in AI and other strategic growth areas.
 
-qz.com • 50m ago
+Fox Business • 2h ago
 
 ---
 
 **[Microsoft Pledged to Save Water. In the A.I. Era, It Expects Water Use to Soar.](https://www.nytimes.com/2026/01/27/technology/microsoft-water-ai-data-centers.html)**
 
-The New York Times • 15h ago
+The New York Times • 23h ago
 
 ---
 
@@ -199,7 +197,7 @@ The New York Times • 15h ago
 
 **[France Aiming to Replace Zoom, Google Meet, Microsoft Teams, etc.](https://news.ycombinator.com/item?id=46767668)**
 
-⬆️ 880 • 💬 757 • 1d ago • [X (formerly Twitter)](https://twitter.com/lellouchenico/status/2015775970330882319)
+⬆️ 880 • 💬 758 • 1d ago • [X (formerly Twitter)](https://twitter.com/lellouchenico/status/2015775970330882319)
 
 ---
 
@@ -207,7 +205,7 @@ The New York Times • 15h ago
 
 Apple today unveiled the new AirTag, now with an expanded finding range and a louder speaker.
 
-⬆️ 593 • 💬 724 • 2d ago • [Apple Newsroom](https://www.apple.com/newsroom/2026/01/apple-introduces-new-airtag-with-expanded-range-and-improved-findability/)
+⬆️ 595 • 💬 730 • 2d ago • [Apple Newsroom](https://www.apple.com/newsroom/2026/01/apple-introduces-new-airtag-with-expanded-range-and-improved-findability/)
 
 ---
 
@@ -223,7 +221,7 @@ Exclusive: German research into responses to health queries raises fresh questio
 
 Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞  - GitHub - clawdbot/clawdbot: Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞
 
-⬆️ 390 • 💬 254 • 2d ago • [GitHub](https://github.com/clawdbot/clawdbot)
+⬆️ 390 • 💬 256 • 2d ago • [GitHub](https://github.com/clawdbot/clawdbot)
 
 ---
 
@@ -231,7 +229,7 @@ Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞  - G
 
 Today everybody's doing AI code review. Here's how Greptile's viewpoint is differentiated - independence, autonomy, and feedback loops.
 
-⬆️ 342 • 💬 228 • 1d ago • [greptile.com](https://www.greptile.com/blog/ai-code-review-bubble)
+⬆️ 342 • 💬 230 • 1d ago • [greptile.com](https://www.greptile.com/blog/ai-code-review-bubble)
 
 ---
 
@@ -245,7 +243,7 @@ Today everybody's doing AI code review. Here's how Greptile's viewpoint is diffe
 
 Opinion: Autonomous agents may generate millions of lines of code, but shipping software is another matter
 
-⬆️ 233 • 💬 139 • 1d ago • [theregister.com](https://www.theregister.com/2026/01/26/cursor_opinion/)
+⬆️ 234 • 💬 139 • 1d ago • [theregister.com](https://www.theregister.com/2026/01/26/cursor_opinion/)
 
 ---
 
@@ -253,7 +251,7 @@ Opinion: Autonomous agents may generate millions of lines of code, but shipping 
 
 SERA is the first in our family of Open Coding Agents, achieving state-of-the-art performance at low cost.
 
-⬆️ 214 • 💬 35 • 21h ago • [allenai.org](https://allenai.org/blog/open-coding-agents)
+⬆️ 221 • 💬 37 • 22h ago • [allenai.org](https://allenai.org/blog/open-coding-agents)
 
 ---
 
@@ -261,13 +259,13 @@ SERA is the first in our family of Open Coding Agents, achieving state-of-the-ar
 
 AISLE's autonomous analyzer found all 12 CVEs in the January 2026 coordinated release of OpenSSL, the open-source cryptographic library that underp...
 
-⬆️ 178 • 💬 122 • 12h ago • [AISLE](https://aisle.com/blog/aisle-discovered-12-out-of-12-openssl-vulnerabilities)
+⬆️ 180 • 💬 125 • 13h ago • [AISLE](https://aisle.com/blog/aisle-discovered-12-out-of-12-openssl-vulnerabilities)
 
 ---
 
 **[Case study: Creative math – How AI fakes proofs](https://news.ycombinator.com/item?id=46759352)**
 
-⬆️ 122 • 💬 96 • 2d ago • [tomaszmachnik.pl](https://tomaszmachnik.pl/case-study-math-en.html)
+⬆️ 122 • 💬 97 • 2d ago • [tomaszmachnik.pl](https://tomaszmachnik.pl/case-study-math-en.html)
 
 ---
 
@@ -281,7 +279,7 @@ Discover Kimi K2.5, the most powerful open-source AI model to date! In this vide
 
 📺 WorldofAI
 
-👁️ 7K • 👍 330 • 💬 21 • ⏱️ 13:06 • 7h ago
+👁️ 7K • 👍 330 • 💬 21 • ⏱️ 13:06 • 8h ago
 
 ---
 
@@ -291,7 +289,7 @@ Dario Amodei, the CEO of the AI company Anthropic, joined "Top Story" to discuss
 
 📺 NBC News
 
-👁️ 20K • 👍 430 • 💬 153 • ⏱️ 18:01 • 22h ago
+👁️ 20K • 👍 430 • 💬 153 • ⏱️ 18:01 • 23h ago
 
 ---
 
@@ -329,7 +327,7 @@ Axios CEO Jim VandeHei shares the blunt AI advice he recently wrote to his famil
 
 📺 Alieff Irfan
 
-👁️ 218K • 👍 19K • 💬 4K • ⏱️ 40:22 • 2h ago
+👁️ 218K • 👍 19K • 💬 4K • ⏱️ 40:22 • 3h ago
 
 ---
 
@@ -339,7 +337,7 @@ There's something unsettling about asking a machine a question and realizing it 
 
 📺 Origins Explained
 
-👁️ 52K • 👍 2K • 💬 320 • ⏱️ 29:18 • 17h ago
+👁️ 52K • 👍 2K • 💬 320 • ⏱️ 29:18 • 18h ago
 
 ---
 
@@ -349,7 +347,7 @@ Anthropic CEO Dario Amodei called for an embargo on the sale of chips and data c
 
 📺 ABC News
 
-👁️ 5K • 👍 53 • 💬 23 • ⏱️ 3:17 • 16h ago
+👁️ 5K • 👍 53 • 💬 23 • ⏱️ 3:17 • 17h ago
 
 ---
 
@@ -359,7 +357,7 @@ CHAPTERS ⤵ 00:00 AI Innovations You Need to Know 02:20 AI Trained on Body Cam 
 
 📺 Dylan Curious
 
-👁️ 7K • 👍 317 • 💬 82 • ⏱️ 27:06 • 1d ago
+👁️ 7K • 👍 317 • 💬 82 • ⏱️ 27:06 • 2d ago
 
 ---
 
@@ -369,7 +367,7 @@ Meta is giving Corning up to $6 billion for fiber-optic cable in its AI data cen
 
 📺 CNBC
 
-👁️ 176K • 👍 3K • 💬 274 • ⏱️ 17:45 • 23h ago
+👁️ 176K • 👍 3K • 💬 274 • ⏱️ 17:45 • 1d ago
 
 ---
 
@@ -397,7 +395,7 @@ Kimi K2.5 is a native multimodal agentic model with 1T parameters, excelling in 
 
 `image-text-to-text`
 
-⬇️ 10,965 • ❤️ 795 • 11h ago
+⬇️ 10,965 • ❤️ 795 • 12h ago
 
 ---
 
@@ -433,7 +431,7 @@ Z-Image is an undistilled, high-fidelity text-to-image diffusion transformer mod
 
 `text-to-image`
 
-⬇️ 0 • ❤️ 507 • 22h ago
+⬇️ 0 • ❤️ 507 • 23h ago
 
 ---
 
@@ -481,7 +479,7 @@ Chroma-4B is a real-time, end-to-end spoken dialogue model capable of speech und
 
 `any-to-any` `5.9B`
 
-⬇️ 5,776 • ❤️ 273 • 11h ago
+⬇️ 5,776 • ❤️ 273 • 12h ago
 
 ---
 
@@ -642,7 +640,7 @@ Browser automation CLI for AI agents
 
 `TypeScript`
 
-⭐ 11.2k • 🔱 612 • 22h ago
+⭐ 11.2k • 🔱 612 • 1d ago
 
 ---
 
@@ -672,7 +670,7 @@ LLM驱动的 A/H/美股智能分析器，多数据源行情 + 实时新闻 + Gem
 
 `Python` `agent` `ai` `aigc` `gemini` `llm`
 
-⭐ 6.4k • 🔱 7.1k • 23h ago
+⭐ 6.4k • 🔱 7.1k • 1d ago
 
 ---
 
@@ -682,7 +680,7 @@ LLM驱动的 A/H/美股智能分析器，多数据源行情 + 实时新闻 + Gem
 
 `Vue`
 
-⭐ 6.4k • 🔱 1.2k • 5h ago
+⭐ 6.4k • 🔱 1.2k • 6h ago
 
 ---
 
@@ -692,7 +690,7 @@ Marketing skills for Claude Code and AI agents. CRO, copywriting, SEO, analytics
 
 `claude` `codex` `marketing`
 
-⭐ 5.1k • 🔱 542 • 6h ago
+⭐ 5.1k • 🔱 542 • 7h ago
 
 ---
 
@@ -702,7 +700,7 @@ The Ultimate Collection of 200+ Agentic Skills for Claude Code/Antigravity/Curso
 
 `Python` `agentic-skills` `ai-agents` `antigravity` `autonomous-coding` `claude-code`
 
-⭐ 4.7k • 🔱 1.1k • 3h ago
+⭐ 4.7k • 🔱 1.1k • 4h ago
 
 ---
 
