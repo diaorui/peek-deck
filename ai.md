@@ -3,14 +3,14 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-01-28T04:45:34.078373+00:00'
+updated: '2026-01-28T05:29:30.682478+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- news
-- social
 - repositories
+- social
+- news
 - videos
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 AI news, discussions, and developments
 
-**Last Updated:** January 28, 2026 at 04:45 UTC  
+**Last Updated:** January 28, 2026 at 05:29 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -39,7 +39,7 @@ AI news, discussions, and developments
 
 **[Trump’s acting cyber chief uploaded sensitive files into a public version of ChatGPT. The interim director of the Cybersecurity and Infrastructure Security Agency triggered an internal cybersecurity warning with the uploads — and a DHS-level damage assessment.](https://www.reddit.com/r/artificial/comments/1qozsna/trumps_acting_cyber_chief_uploaded_sensitive/)**
 
-🔗 [politico.com](https://www.politico.com/news/2026/01/27/cisa-madhu-gottumukkala-chatgpt-00749361) • 1h ago
+🔗 [politico.com](https://www.politico.com/news/2026/01/27/cisa-madhu-gottumukkala-chatgpt-00749361) • 2h ago
 
 ---
 
@@ -53,15 +53,7 @@ Tried ClawdBot (now MoltBot) on a freshly installed system. At first? 🔥 Insan
 
 **[Pinterest lays off hundreds, citing need for 'AI-proficient talent'](https://www.reddit.com/r/artificial/comments/1qotqu1/pinterest_lays_off_hundreds_citing_need_for/)**
 
-🔗 [sfgate.com](https://www.sfgate.com/tech/article/pinterest-layoffs-hundreds-ai-21318302.php) • 5h ago
-
----
-
-**[Viral AI Assistant Clawdbot (now Moltbot): Everything You Need to Know](https://www.reddit.com/r/artificial/comments/1qozitb/viral_ai_assistant_clawdbot_now_moltbot/)**
-
-Discover what Moltbot (formerly Clawdbot) is, why it’s going viral, key features, security risks, use cases, and whether it’s safe to use in 2026.
-
-🔗 [techputs](https://techputs.com/viral-ai-assistant-clawdbot-moltbot/) • 1h ago
+🔗 [sfgate.com](https://www.sfgate.com/tech/article/pinterest-layoffs-hundreds-ai-21318302.php) • 6h ago
 
 ---
 
@@ -69,7 +61,7 @@ Discover what Moltbot (formerly Clawdbot) is, why it’s going viral, key featur
 
 Generic AI can summarize documents and answer simple questions. But it fails at complex, specialized work in industries like aerospace, semiconductors, manufacturing, and logistics. The core issue isn't models, it's the context or scaffolding around them When enterprises try to build expert AI, they face a hard tradeoff: Build it yourself: Fully customizable, but requires scarce AI expertise, months of development, and constant optimization. Buy off-the-shelf: Fast to deploy, but inflexible. Hard to customize and doesn't scale across use cases. We took a different approach: a platform approach with a unified context layer specialized for domain-specific tasks. Today, we launched Agent Composer, with orchestration capabilities that enable: Multi-step reasoning (decompose problems, iterate solutions, revise outputs) Multi-tool coordination (docs, logs, web search, APIs in the same workflow) Hybrid agentic behavior (dynamic agent steps + static workflow control) It works: Advanced manufacturing: root cause analysis from 8 hours to 20 minutes Global consulting firm: research from hours to seconds Tech-enabled 3PL: 60x faster issue resolution Test equipment: code generation in minutes instead of days Spending time on the integrating context with AI worked for us on Enterprise AI problems. To get more details about our approach, check out the blog post: https://contextual.ai/blog/introducing-agent-composer
 
-9h ago
+10h ago
 
 ---
 
@@ -77,7 +69,15 @@ Generic AI can summarize documents and answer simple questions. But it fails at 
 
 Using ChatGPT, Midjourney, and automation tools is great, but I've hit a plateau. The real challenge isn't finding tools-it's making them work together to grow the business. It feels like collecting engine parts without building the car. What I'm struggling with: Connecting AI content to actual sales funnels Tracking if AI content performs better than human-created Actually measuring ROI beyond "saves time" Most talk is about which tool is best, not how to build an AI system that delivers results. Has anyone moved beyond tools to systems? What does that look like? I saw a take from a ROI marketing agency that approaches AI as an integrated system, not just tools. It made me wonder if we're missing the bigger picture. Anyone else thinking about AI this way?
 
-3h ago
+4h ago
+
+---
+
+**[Viral AI Assistant Clawdbot (now Moltbot): Everything You Need to Know](https://www.reddit.com/r/artificial/comments/1qozitb/viral_ai_assistant_clawdbot_now_moltbot/)**
+
+Discover what Moltbot (formerly Clawdbot) is, why it’s going viral, key features, security risks, use cases, and whether it’s safe to use in 2026.
+
+🔗 [techputs](https://techputs.com/viral-ai-assistant-clawdbot-moltbot/) • 2h ago
 
 ---
 
@@ -85,7 +85,7 @@ Using ChatGPT, Midjourney, and automation tools is great, but I've hit a plateau
 
 Ever since I started using LLMs in early 2023, my life has genuinely changed. Productivity and the speed of getting deep information just increased by 10x. Curious to know what are some of your favorite LLMs in 2026? For most of 2023-24, I was a diehard ChatGPT user. Used it for almost everything, helped me launch my e-commerce brands, systematize my marketing agency, and just general day-to-day decision making. Entering 2025, GPT-4 and 5 started feeling really robotic. It lost that human touch as more users flooded in. GPT got overtaken by Gemini with the launch of Nanobanana 1 and 2. Content creation and creative generation became so much quicker, more accurate, and sharper. Video generation with Veo3 was a game changer for creating briefs for designers. That said, Gemini still lacked the human warmth that GPT 4.0 had. The vibe coding/build function though, it was Incredible. Generated a full landing page in a matter of minutes. Now in 2026, I've ported 90% of my work to Anthropic's Claude. I work with a ton of data now, and Claude's coding capabilities can break down hundreds of spreadsheets in minutes. Among the 3 LLMs, Claude feels the closest to talking to an actual human. The analysis and responses are way more concise compared to GPT and Gemini. My top 3: Claude: Overall champion. Strong coding capabilities, responses that actually sound human, and solid copywriting skills. Gemini: Runner-up. Great all-rounder with Nanobanana, Veo3, app building, and presentation slides. GPT: Decent... meh. What are your takes? Anyone doing anything crazy with these that I should know about? Would love to hear your thoughts and swap ideas. Looking at more ways too amplify my productivity within the marketing and business space.
 
-20h ago
+21h ago
 
 ---
 
@@ -93,7 +93,7 @@ Ever since I started using LLMs in early 2023, my life has genuinely changed. Pr
 
 Philips will soon show off its new AI-ready digital signage at ISE 2026 in Barcelona. The 5000 series is the "most intelligent" to date.
 
-🔗 [PC Guide](https://www.pcguide.com/news/philips-unveils-first-ai-ready-advertising-boards-digital-signage-ranging-from-32-to-98-to-be-demoed-soon/) • 13h ago
+🔗 [PC Guide](https://www.pcguide.com/news/philips-unveils-first-ai-ready-advertising-boards-digital-signage-ranging-from-32-to-98-to-be-demoed-soon/) • 14h ago
 
 ---
 
@@ -121,7 +121,7 @@ Meta is blocking teens worldwide from accessing AI chatbot characters while it r
 
 Cisco chief executive Chuck Robbins compares AI to the dotcom bubble of the early 2000s.
 
-BBC • 4h ago
+BBC • 5h ago
 
 ---
 
@@ -129,23 +129,31 @@ BBC • 4h ago
 
 Accelerating science writing and collaboration with AI.
 
-OpenAI • 11h ago
+OpenAI • 12h ago
 
 ---
 
-**[One year after DeepSeek, Chinese AI firms from Alibaba to Moonshot race to release new models](https://www.cnbc.com/2026/01/28/chinese-tech-companies-accelerate-ai-model-rollouts-us-rivals-deepseek-moonshot-kimi.html)**
+**[The Top 3 Artificial Intelligence (AI) Chip Stocks to Buy With $50,000 in 2026](https://www.fool.com/investing/2026/01/28/the-top-3-artificial-intelligence-ai-chip-stocks-t/)**
 
-Chinese companies are releasing new AI models and striving to gain an edge in the AI application race as the country's biggest holiday of the year nears.
+Semiconductor stocks look poised for further gains as investment in artificial intelligence (AI) infrastructure accelerates.
 
-CNBC • 1h ago
+The Motley Fool • 29m ago
 
 ---
 
-**[‘This train isn’t going to stop’: shocking Sundance film shows promises and perils of AI](https://www.theguardian.com/film/2026/jan/27/sundance-ai-documentary-daniel-roher)**
+**[Facing ‘AI slop’ and a trust problem, AI platforms invest in Super Bowl-level brand ads](https://digiday.com/marketing/facing-ai-slop-and-a-trust-problem-ai-platforms-invest-in-super-bowl-level-brand-ads/)**
 
-The AI Doc: Or How I Became an Apocaloptimist, co-directed by Daniel Roher, delves into the world of AI through the lens of personal anxiety
+To counter mounting consumer distrust and the ‘AI slop’ narrative, AI platforms are spending big on brand ads.
 
-The Guardian • 2h ago
+Digiday • 27m ago
+
+---
+
+**[Actor Joseph Gordon-Levitt visits Utah to urge regulations on 'amoral' AI companies](https://www.ksl.com/article/51439291/actor-joseph-gordon-levitt-visits-utah-to-urge-regulations-on-amoral-ai-companies)**
+
+Golden Globe-nominated actor Joseph Gordon-Levitt appeared at the Utah Capitol to urge lawmakers to support a bill regulating artificial intelligence companies.
+
+KSL.com • 1h ago
 
 ---
 
@@ -153,7 +161,7 @@ The Guardian • 2h ago
 
 Google Developer Program (GDP) premium benefits are now included in Google AI Pro and Google AI Ultra.
 
-blog.google • 7h ago
+blog.google • 11h ago
 
 ---
 
@@ -161,7 +169,7 @@ blog.google • 7h ago
 
 Gemini 3 Pro and other AI tools are now available globally through the Google AI Plus plan, which is $7.99 per month in the United States.
 
-TechCrunch • 10h ago
+techcrunch.com • 11h ago
 
 ---
 
@@ -169,7 +177,15 @@ TechCrunch • 10h ago
 
 AI Overviews may get it right more often with the move to Gemini 3.
 
-Ars Technica • 11h ago
+Ars Technica • 12h ago
+
+---
+
+**[One year after DeepSeek, Chinese AI firms from Alibaba to Moonshot race to release new models](https://www.cnbc.com/2026/01/28/chinese-tech-companies-accelerate-ai-model-rollouts-us-rivals-deepseek-moonshot-kimi.html)**
+
+Chinese companies are releasing new AI models and striving to gain an edge in the AI application race as the country's biggest holiday of the year nears.
+
+CNBC • 2h ago
 
 ---
 
@@ -177,21 +193,7 @@ Ars Technica • 11h ago
 
 I tested four new versions. The promise is real, but major issues still need to be addressed.
 
-The Washington Post • 9h ago
-
----
-
-**[Microsoft Pledged to Save Water. In the A.I. Era, It Expects Water Use to Soar.](https://www.nytimes.com/2026/01/27/technology/microsoft-water-ai-data-centers.html)**
-
-The New York Times • 5h ago
-
----
-
-**[Meta inks deal to pay Corning up to $6 billion for fiber-optic cables in AI data centers](https://www.cnbc.com/2026/01/27/apple-supplier-corning-wins-6-billion-from-meta-for-ai-optical-fiber.html)**
-
-Corning, a 175-year-old glassmaker known for supplying iPhone glass, is now at the center of the AI infrastructure boom with a new type of fiber-optic cable
-
-CNBC • 16h ago
+The Washington Post • 10h ago
 
 ---
 
@@ -201,7 +203,7 @@ CNBC • 16h ago
 
 **[France Aiming to Replace Zoom, Google Meet, Microsoft Teams, etc.](https://news.ycombinator.com/item?id=46767668)**
 
-⬆️ 869 • 💬 744 • 1d ago • [X (formerly Twitter)](https://twitter.com/lellouchenico/status/2015775970330882319)
+⬆️ 871 • 💬 747 • 1d ago • [X (formerly Twitter)](https://twitter.com/lellouchenico/status/2015775970330882319)
 
 ---
 
@@ -209,7 +211,7 @@ CNBC • 16h ago
 
 Apple today unveiled the new AirTag, now with an expanded finding range and a louder speaker.
 
-⬆️ 588 • 💬 704 • 1d ago • [Apple Newsroom](https://www.apple.com/newsroom/2026/01/apple-introduces-new-airtag-with-expanded-range-and-improved-findability/)
+⬆️ 590 • 💬 712 • 1d ago • [Apple Newsroom](https://www.apple.com/newsroom/2026/01/apple-introduces-new-airtag-with-expanded-range-and-improved-findability/)
 
 ---
 
@@ -255,21 +257,21 @@ Opinion: Autonomous agents may generate millions of lines of code, but shipping 
 
 SERA is the first in our family of Open Coding Agents, achieving state-of-the-art performance at low cost.
 
-⬆️ 138 • 💬 19 • 11h ago • [allenai.org](https://allenai.org/blog/open-coding-agents)
+⬆️ 153 • 💬 20 • 12h ago • [allenai.org](https://allenai.org/blog/open-coding-agents)
+
+---
+
+**[AI found 12 vulnerabilities in OpenSSL](https://news.ycombinator.com/item?id=46789913)**
+
+AISLE's autonomous analyzer found all 12 CVEs in the January 2026 coordinated release of OpenSSL, the open-source cryptographic library that underp...
+
+⬆️ 128 • 💬 75 • 3h ago • [AISLE](https://aisle.com/blog/aisle-discovered-12-out-of-12-openssl-vulnerabilities)
 
 ---
 
 **[Case study: Creative math – How AI fakes proofs](https://news.ycombinator.com/item?id=46759352)**
 
 ⬆️ 122 • 💬 96 • 2d ago • [tomaszmachnik.pl](https://tomaszmachnik.pl/case-study-math-en.html)
-
----
-
-**[Show HN: An interactive map of US lighthouses and navigational aids](https://news.ycombinator.com/item?id=46756427)**
-
-Interactive map of 59,000+ active US Coast Guard lighthouses and navigational aids with animated light patterns.
-
-⬆️ 99 • 💬 22 • 2d ago • [lighthouses.app](https://www.lighthouses.app/)
 
 ---
 
@@ -283,7 +285,7 @@ Dario Amodei, the CEO of the AI company Anthropic, joined "Top Story" to discuss
 
 📺 NBC News
 
-👁️ 12K • 👍 264 • 💬 96 • ⏱️ 18:01 • 12h ago
+👁️ 12K • 👍 264 • 💬 96 • ⏱️ 18:01 • 13h ago
 
 ---
 
@@ -293,7 +295,7 @@ China's AI race just shifted. Moonshot quietly rolled out Kimi K2.5, and the jum
 
 📺 AI Revolution
 
-👁️ 7K • 👍 332 • 💬 40 • ⏱️ 12:41 • 5h ago
+👁️ 7K • 👍 332 • 💬 40 • ⏱️ 12:41 • 6h ago
 
 ---
 
@@ -343,7 +345,7 @@ Access Every Image Generator in OpenArt https://roboverse-ai.com/images In this 
 
 📺 Roboverse
 
-👁️ 8K • 💬 9 • ⏱️ 13:19 • 14h ago
+👁️ 8K • 💬 9 • ⏱️ 13:19 • 15h ago
 
 ---
 
@@ -401,7 +403,7 @@ Kimi K2.5 is a native multimodal agentic model with 1T parameters, excelling in 
 
 `image-text-to-text`
 
-⬇️ 10,965 • ❤️ 666 • 1h ago
+⬇️ 10,965 • ❤️ 666 • 2h ago
 
 ---
 
@@ -413,7 +415,7 @@ VibeVoice-ASR is a unified speech-to-text model capable of processing up to 60 m
 
 `automatic-speech-recognition` `8.7B`
 
-⬇️ 76,679 • ❤️ 664 • 15h ago
+⬇️ 76,679 • ❤️ 664 • 16h ago
 
 ---
 
@@ -425,7 +427,7 @@ Qwen3-TTS-12Hz-1.7B-CustomVoice is a multilingual text-to-speech model supportin
 
 `1.9B`
 
-⬇️ 138,693 • ❤️ 642 • 4d ago
+⬇️ 138,693 • ❤️ 642 • 5d ago
 
 ---
 
@@ -449,7 +451,7 @@ Z-Image is an undistilled, high-fidelity text-to-image diffusion transformer mod
 
 `text-to-image`
 
-⬇️ 0 • ❤️ 416 • 12h ago
+⬇️ 0 • ❤️ 416 • 13h ago
 
 ---
 
@@ -461,7 +463,7 @@ DeepSeek-OCR-2 is a multilingual vision-language model for image-to-text tasks, 
 
 `image-text-to-text` `3.4B`
 
-⬇️ 0 • ❤️ 373 • 17h ago
+⬇️ 0 • ❤️ 373 • 18h ago
 
 ---
 
@@ -485,7 +487,7 @@ Chroma-4B is a real-time, end-to-end spoken dialogue model capable of speech und
 
 `any-to-any` `5.9B`
 
-⬇️ 5,776 • ❤️ 266 • 1h ago
+⬇️ 5,776 • ❤️ 266 • 2h ago
 
 ---
 
@@ -690,7 +692,7 @@ Ralph is an autonomous AI agent loop that runs repeatedly until all PRD items ar
 
 `Vue`
 
-⭐ 6.4k • 🔱 1.1k • 1m ago
+⭐ 6.4k • 🔱 1.1k • 45m ago
 
 ---
 
@@ -700,7 +702,7 @@ LLM驱动的 A/H/美股智能分析器，多数据源行情 + 实时新闻 + Gem
 
 `Python` `agent` `ai` `aigc` `gemini` `llm`
 
-⭐ 6.3k • 🔱 6.9k • 13h ago
+⭐ 6.3k • 🔱 6.9k • 14h ago
 
 ---
 
@@ -710,7 +712,7 @@ Marketing skills for Claude Code and AI agents. CRO, copywriting, SEO, analytics
 
 `claude` `codex` `marketing`
 
-⭐ 5.0k • 🔱 532 • 3h ago
+⭐ 5.0k • 🔱 532 • 4h ago
 
 ---
 

@@ -3,13 +3,13 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-01-28T04:45:34.092423+00:00'
+updated: '2026-01-28T05:29:30.696630+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- news
 - social
+- news
 - cryptocurrency
 - videos
 ---
@@ -18,7 +18,7 @@ data_types:
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** January 28, 2026 at 04:45 UTC  
+**Last Updated:** January 28, 2026 at 05:29 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -36,17 +36,17 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Price
 
-### $3,018.92
+### $2,999.96
 
 ---
 
 ## Ethereum Chart
 
-**24h:** +2.1%  
-**7d:** +1.8%  
-**30d:** +1.0%  
-**90d:** -22.0%  
-**1y:** -3.4%  
+**24h:** +2.4%  
+**7d:** +1.6%  
+**30d:** +0.8%  
+**90d:** -22.2%  
+**1y:** -3.6%  
 
 ---
 
@@ -68,11 +68,17 @@ No max supply
 
 ## Reddit: r/ethereum
 
+**[Pouring one out for Week in Ethereum News 🥃 Website is offline. Thank you Evan Van Ness for your tireless efforts serving the Ethereum community. 🙏](https://www.reddit.com/r/ethereum/comments/1qp227f/pouring_one_out_for_week_in_ethereum_news_website/)**
+
+28m ago
+
+---
+
 **[Personal experiment: a smart contract that penalizes me if I skip workouts](https://www.reddit.com/r/ethereum/comments/1qojakt/personal_experiment_a_smart_contract_that/)**
 
 Hi r/ethereum, I’ve been running a personal experiment called FitVow. The idea is simple: I stake real ETH into a smart contract, commit to weekly physical activity goals, and let the contract enforce the rules without a trusted referee. Each week, an Android app reads physical activity data from my smartwatch and publishes it on-chain (e.g. runs, workouts and etc). The contract uses that data to decide whether that week’s goals were met. If a week fails: that week creates an enforceable fine (paid out from the stake) enforcement is permissionless (anyone can trigger it) the fine is split between the enforcer (caller) and a charity wallet (Giveth) At the end of the challenge, I’m allowed to withdraw whatever remains of the stake after any fines. There’s no backend deciding outcomes and no admin override. Once deployed, the rules are the rules. This is not a product — just an experiment exploring whether Ethereum is a good tool for credible self-commitment outside of DeFi. Live dashboard (reads directly from on-chain data): https://fitvow.pedroaugusto.dev/ Technical write-up (architecture + security assumptions): https://pedrooaugusto.github.io/blog/posts/making-missed-workouts-cost-money-with-smart-contracts/ I’d love feedback — especially on whether this feels like a reasonable use of Ethereum, and what you’d poke holes in.
 
-11h ago
+12h ago
 
 ---
 
@@ -80,13 +86,13 @@ Hi r/ethereum, I’ve been running a personal experiment called FitVow. The idea
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-22h ago
+23h ago
 
 ---
 
 **[Built a little ethereum wallet for a metamask interview](https://www.reddit.com/r/ethereum/comments/1qon8y9/built_a_little_ethereum_wallet_for_a_metamask/)**
 
-9h ago
+10h ago
 
 ---
 
@@ -110,7 +116,7 @@ Hey r/defi. My name is Matt and I have built something different. EqualFi offers
 
 I am trying to create a delegate wallet for every user which is connected to my dApp. I intend to have access to the private key so that I can initiate and sign transactions on the users behalf. So I am thinking of making the wallet pub and priv key on client side and I don't want the priv key to ever leave client's browser. Is it possible to implement something like this ? I use Privy for siwe if that can help me in any way.
 
-17h ago
+18h ago
 
 ---
 
@@ -138,14 +144,6 @@ Curated resources by EtherWorld for Glamsterdam Upgrade
 
 ---
 
-**[Revisiting the Mountain Man](https://www.reddit.com/r/ethereum/comments/1qn2871/revisiting_the_mountain_man/)**
-
-I no longer agree with this previous tweet of mine - since 2017, I have become a much more willing connoisseur of mountains. It's worth explaining why. https://x.com/VitalikButerin/status/873177382164848641 First, the original context. That tweet was in a debate with Ian Grigg, who argued that blockchains should track the order of transactions, but not the state (eg. user balances, smart contract code and storage): The messages are logged, but the state (e.g., UTXO) is implied, which means it is constructed by the computer internally, and then (can be) thrown away. I was heavily against this philosophy, because it would imply that users have no way to get the state other than either (i) running a node that processed every transaction in all of history, or (ii) trusting someone else. In blockchains that commit to the state in the block header (like Ethereum), you can simply prove any value in the state with a Merkle branch. This is conditional on the honest majority assumption: if >= 50% of the consensus participants are honest, then the chain with the most PoW (or PoS) support will be valid, and so the state root will be correct. Trusting an honest majority is far better than trusting a single RPC provider. Not trusting at all (by personally verifying every transaction in the chain) is theoretically ideal, but it's a computation load infeasible for regular users, unless we take the (even worse) tradeoff of keeping blockchain capacity so low that most people cannot even use the chain. Now, what has changed since then? The biggest thing is of course ZK-SNARKs. We now have a technology that lets you verify the correctness of the chain, without literally re-executing every transaction. WE INVENTED THE THING THAT GETS YOU THE BENEFITS WITHOUT THE COSTS! This is like if someone from the future teleported back into US healthcare debates in 2008, and demonstrated a clearly working pill that anyone could make for $15 that cured all diseases. Like, yes, if we have that pill, we should get the government fully out of healthcare, let people make the pill and sell it at Walgreens, and healthcare becomes super affordable so everyone is happy. ZK-SNARKs are literally like that but for the block size war. (With two asterisks for block building centralization and data bandwidth, but that's a separate topic) With better technology, we should raise our expectations, and revisit tradeoffs that we made grudgingly in a previous era. But also, I have actually changed my mind on some of the underlying issues. In 2017, I was thinking about blockchains in terms of academic assumptions - what is okay to rely on honest majority for, when we are ok with 1-of-N trust assumption, etc. If a construction gave better properties under known-acceptable assumptions, I would eagerly embrace it. On a raw subconscious level, I don't think I was sufficiently appreciative of the fact that in the real world, lots of things break. Sometimes the p2p network goes down. Sometimes the p2p network has 20x the latency you expected - anyone who has played WoW can attest to long spans of time when the latency spiked up from its usual ~200ms to 1000-5000ms. Sometimes a third party service you've been relying on for years shuts down, and there isn't a good alternative. If the alternative is that you personally go through a github repo and figure out how to PERSONALLY RUN A SERVER, lots of people will give up and never figure it out and end up permanently losing access to their money. Sometimes mining or staking gets concentrated to the point where 51% attacks are very easy to imagine, and you almost have to game-theoretically analyze consensus security as though 75% of miners or stakers are controlled by one single agent. Sometimes, as we saw with tornado cash, intermediaries all start censoring some application, and your only option becomes to directly use the chain. If we are making a self-sovereign blockchain to last through the ages, THE ANSWER TO THE ABOVE CONUNDRUMS CANNOT ALWAYS BE "CALL THE DEVS". If it is, the devs themselves become the point of centralization - they become DEVS in the ancient Roman sense, where the letter V was used to represent the U sound. The Mountain Man's cabin is not meant as the replacement lifestyle for everyone. It is meant as the safe place to retreat to when things go wrong. It is also meant as the universal BATNA ("Best Alternative to a Negotiated Agreement") - the alternative option that improves your well-being not just in the case when you end up needing it, but also because knowledge of it existing motivates third parties to give you better terms. This is like how Bittorrent existing is an important check on the power of music and video streaming platforms, driving them to offer customers better terms. We do not need to start living every day in the Mountain Man's cabin. But part of maintaining the infinite garden of Ethereum is certainly keeping the cabin well-maintained.
-
-2d ago
-
----
-
 ---
 
 ## Google News: "ethereum"
@@ -168,7 +166,7 @@ The Block • 1d ago
 
 **[Ethereum News: Ether Price Surged 226% After This Global Liquidity Signal — Is ETH Setting Up Another Breakout?](https://www.binance.com/en/square/post/01-27-2026-ethereum-news-ether-price-surged-226-after-this-global-liquidity-signal-is-eth-setting-up-another-breakout-35635381799361)**
 
-Binance • 23h ago
+Binance • 1d ago
 
 ---
 
@@ -216,15 +214,15 @@ thedefiant.io • 1d ago
 
 Antonio Sanso, cryptography researcher at the Ethereum Foundation, is confident the blockchain will be quantum secure long before a quantum attack is even possible.”We as the Ethereum Foundation (EF) and Ethereum community are working massively on this topic,” he told Cointelegraph.“The research pa…
 
-TradingView • 14h ago
+TradingView • 15h ago
 
 ---
 
-**[How SharpLink Aims to Be the Most 'Focused, Disciplined' Ethereum Treasury in 2026](https://decrypt.co/355733/how-sharplink-most-focused-disciplined-ethereum-treasury-2026)**
+**[Morning Minute: Ethereum Prepares for the Quantum Era](https://decrypt.co/355831/morning-minute-ethereum-prepares-for-the-quantum-era)**
 
-Ethereum treasury firm SharpLink Gaming hopes to stand apart from the pack by focusing on the long-term—with shareholders top of mind.
+The Ethereum Foundation is starting to prepare one of the biggest risks facing the crypto industry: quantum computing.
 
-Decrypt • 2d ago
+Decrypt • 1d ago
 
 ---
 
@@ -238,7 +236,7 @@ Tom Lee Just Said The UNTHINKABLE About Bitcoin & Ethereum! [2026 New Prediction
 
 📺 Crypto Nutshell
 
-👁️ 19K • 👍 587 • 💬 55 • ⏱️ 14:37 • 13h ago
+👁️ 19K • 👍 587 • 💬 55 • ⏱️ 14:37 • 14h ago
 
 ---
 
@@ -248,7 +246,7 @@ Jetzt gratis sichern → https://www.blockchain-investor.de/app Die neue „Bloc
 
 📺 Krypto Report
 
-👁️ 8K • 👍 563 • 💬 58 • ⏱️ 17:05 • 11h ago
+👁️ 8K • 👍 563 • 💬 58 • ⏱️ 17:05 • 12h ago
 
 ---
 
@@ -288,7 +286,7 @@ BITCOIN & CRYPTO JUST FLIPPED (for now)!!!! - Bitcoin News Today, Ethereum & Alt
 
 📺 Crypto World
 
-👁️ 4K • 👍 243 • 💬 61 • ⏱️ 18:19 • 6h ago
+👁️ 4K • 👍 243 • 💬 61 • ⏱️ 18:19 • 7h ago
 
 ---
 
@@ -308,7 +306,7 @@ FREE TRAINING: https://www.bullmania.com EXCHANGES I USE (bybit, pionex): https:
 
 📺 Ivan on Tech
 
-👁️ 22K • 👍 1K • 💬 104 • ⏱️ 59:47 • 18h ago
+👁️ 22K • 👍 1K • 💬 104 • ⏱️ 59:47 • 19h ago
 
 ---
 
@@ -328,7 +326,7 @@ This conversation delves into the current state and future of the Cardano ecosys
 
 📺 Learn Cardano
 
-👁️ 3K • 👍 290 • 💬 48 • ⏱️ 22:54 • 17h ago
+👁️ 3K • 👍 290 • 💬 48 • ⏱️ 22:54 • 18h ago
 
 ---
 
