@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-01-28T12:53:55.892076+00:00'
+updated: '2026-01-28T13:50:35.911819+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
 - cryptocurrency
-- social
 - news
 - videos
+- social
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** January 28, 2026 at 12:53 UTC  
+**Last Updated:** January 28, 2026 at 13:50 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -52,17 +52,17 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Market Stats
 
-**Market Cap:** $364.38B
+**Market Cap:** $366.21B
 Rank #2
 
 **Circulating Supply:** 120,694,374 ETH
 No max supply
 
 **All-Time High:** $4,946.05
--38.9%
+-38.7%
 
 **All-Time Low:** $0.43
-+697714.4%
++700640.7%
 
 ---
 
@@ -72,13 +72,13 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-6h ago
+7h ago
 
 ---
 
 **[Pouring one out for Week in Ethereum News 🥃 Website is offline. Thank you Evan Van Ness for your tireless efforts serving the Ethereum community. 🙏](https://www.reddit.com/r/ethereum/comments/1qp227f/pouring_one_out_for_week_in_ethereum_news_website/)**
 
-7h ago
+8h ago
 
 ---
 
@@ -100,7 +100,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 **[Built a little ethereum wallet for a metamask interview](https://www.reddit.com/r/ethereum/comments/1qon8y9/built_a_little_ethereum_wallet_for_a_metamask/)**
 
-17h ago
+18h ago
 
 ---
 
@@ -152,7 +152,7 @@ Bluechip (independent stablecoin rating agency) just published their rating for 
 
 The ERC-8004 proposal aims to let AI agents interact with entities on Ethereum, allowing them to participate in a decentralized economy.
 
-The Block • 5h ago
+The Block • 6h ago
 
 ---
 
@@ -168,7 +168,7 @@ The Motley Fool • 1d ago
 
 Technically, the tariffs shouldn't do anything at all to this coin.
 
-Yahoo Finance • 2h ago
+Yahoo Finance • 3h ago
 
 ---
 
@@ -180,7 +180,7 @@ Binance • 1d ago
 
 **[Bitcoin, Ethereum, XRP Rise. Why the Sell America Trade Has Gripped Cryptos.](https://www.barrons.com/articles/bitcoin-ethereum-xrp-crypto-today-18fbb937?gaa_at=eafs&gaa_n=AWEtsqd89Xlye83g2xeR_vSmalmmiMP1R4dzBnR-dB1Ypd8Q9TYocYt6B4Q0&gaa_ts=697a0a4f&gaa_sig=DlELOYtN_0Nkdz23EH_ctPcSQJdsbbXiBlb6cWQrI0PFd8E6NYafr7t2dvNrm1r0Do4I3HAHoco29NcgRtIraA%3D%3D)**
 
-Barron's • 2h ago
+Barron's • 3h ago
 
 ---
 
@@ -234,7 +234,7 @@ FREE Daily On-Chain Analysis & Crypto News In 5-Mins: http://bit.ly/TheCryptoNut
 
 📺 Library Of Wealth
 
-👁️ 3K • 👍 202 • 💬 173 • ⏱️ 16:28 • 7h ago
+👁️ 5K • 👍 263 • 💬 330 • ⏱️ 16:28 • 8h ago
 
 ---
 
@@ -244,17 +244,27 @@ Tom Lee Just Said The UNTHINKABLE About Bitcoin & Ethereum! [2026 New Prediction
 
 📺 Crypto Nutshell
 
-👁️ 23K • 👍 644 • 💬 100 • ⏱️ 14:37 • 21h ago
+👁️ 23K • 👍 653 • 💬 103 • ⏱️ 14:37 • 22h ago
 
 ---
 
-**[Ethereum Elliott Wave Update – Key Resistance Levels Ahead](https://www.youtube.com/watch?v=kWd-lZLmXbo)**
+**[URGENT ‼️ Clarity Act NEWS! 🚨 THURSDAY IS HUGE! XRP BITCOIN ETHEREUM](https://www.youtube.com/watch?v=jqSN3sFW6WM)**
 
-This video provides a professional Elliott Wave and technical analysis of Ethereum (ETH), focusing on market structure, major ...
+1️⃣ *Join Moe's Discord Code 2026 save 50%* ➡https://www.patreon.com/stockmoe/membership 2️⃣ *Join the NEW Crypto ...
 
-📺 More Crypto Online
+📺 Stock Moe
 
-👁️ 1K • 👍 98 • 💬 7 • ⏱️ 4:42 • 10h ago
+👁️ 793 • 👍 140 • 💬 6 • ⏱️ 19:46 • 19m ago
+
+---
+
+**[WHY ETHEREUM CAN RALLY HIGHER!🔥 (Ethereum Price Prediction 2026)](https://www.youtube.com/watch?v=eCERvm1bTqQ)**
+
+ETHEREUM ETH PRICE PREDICTION 2026 Join the Premium Signal Group for trade setups, mentorship & a community ...
+
+📺 Cilinix Crypto
+
+👁️ 121 • 👍 13 • 💬 1 • ⏱️ 4:20 • 3h ago
 
 ---
 
@@ -264,7 +274,17 @@ Let's talk about Ethereum! For inquirires: https://www.benjamincowen.com/ Into T
 
 📺 Benjamin Cowen
 
-👁️ 68K • 👍 3K • 💬 232 • ⏱️ 26:46 • 2d ago
+👁️ 69K • 👍 3K • 💬 231 • ⏱️ 26:46 • 2d ago
+
+---
+
+**[Ethereum Elliott Wave Update – Key Resistance Levels Ahead](https://www.youtube.com/watch?v=kWd-lZLmXbo)**
+
+This video provides a professional Elliott Wave and technical analysis of Ethereum (ETH), focusing on market structure, major ...
+
+📺 More Crypto Online
+
+👁️ 1K • 👍 108 • 💬 7 • ⏱️ 4:42 • 11h ago
 
 ---
 
@@ -278,33 +298,23 @@ These news have huge implications towards bitcoin, ethereum and the rest of cryp
 
 ---
 
-**[🥳 Ethereum Enters 4TH CYCLE (Bullish For Altcoins!)](https://www.youtube.com/watch?v=uZ606X9F3hY)**
-
-Donation Address: yourfriendsommi.eth / yourfriendsommi.pls Click Subscribe + Bell Button 'All' Follow on Twitter: ...
-
-📺 🌟yourfriendsommi
-
-👁️ 88 • 👍 19 • 💬 1 • ⏱️ 15:53 • 1h ago
-
----
-
-**[WHY ETHEREUM CAN RALLY HIGHER!🔥 (Ethereum Price Prediction 2026)](https://www.youtube.com/watch?v=eCERvm1bTqQ)**
-
-ETHEREUM ETH PRICE PREDICTION 2026 Join the Premium Signal Group for trade setups, mentorship & a community ...
-
-📺 Cilinix Crypto
-
-👁️ 69 • 👍 9 • 💬 1 • ⏱️ 4:20 • 2h ago
-
----
-
 **[Why BlackRock’s Former Crypto Head is Betting on Ethereum](https://www.youtube.com/watch?v=cNz1kdSecWU)**
 
 SharpLink CEO and former BlackRock head of digital assets strategy, Joseph Chalom, joins CoinDesk's Jennifer Sanasie on ...
 
 📺 CoinDesk
 
-👁️ 19K • 👍 592 • 💬 110 • ⏱️ 23:51 • 1d ago
+👁️ 19K • 👍 600 • 💬 110 • ⏱️ 23:51 • 1d ago
+
+---
+
+**[🥳 Ethereum Enters 4TH CYCLE (Bullish For Altcoins!)](https://www.youtube.com/watch?v=uZ606X9F3hY)**
+
+Donation Address: yourfriendsommi.eth / yourfriendsommi.pls Click Subscribe + Bell Button 'All' Follow on Twitter: ...
+
+📺 🌟yourfriendsommi
+
+👁️ 558 • 👍 114 • 💬 5 • ⏱️ 15:53 • 2h ago
 
 ---
 
@@ -315,16 +325,6 @@ My FREE Daily On-Chain Analysis & Crypto News In 5-Mins: https://www.cryptonutsh
 📺 Jamie Tree 
 
 👁️ 3K • 👍 88 • 💬 34 • ⏱️ 17:46 • 2d ago
-
----
-
-**[Ethereum Elliott Wave Update – Key Resistance Levels Ahead](https://www.youtube.com/watch?v=DiW-iNg4n2Y)**
-
-This video provides a professional Elliott Wave and technical analysis of Ethereum (ETH), focusing on market structure, major ...
-
-📺 More Crypto Online
-
-👁️ 2K • 👍 114 • 💬 9 • ⏱️ 4:08 • 19h ago
 
 ---
 

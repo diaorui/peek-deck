@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-01-28T12:53:55.886823+00:00'
+updated: '2026-01-28T13:50:35.906628+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
 - cryptocurrency
-- social
 - news
 - videos
+- social
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** January 28, 2026 at 12:53 UTC  
+**Last Updated:** January 28, 2026 at 13:50 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -54,17 +54,17 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1785.98B
+**Market Cap:** $1803.17B
 Rank #1
 
-**Circulating Supply:** 19,981,468 BTC
+**Circulating Supply:** 19,981,493 BTC
 95.1% of max
 
 **All-Time High:** $126,080.00
--29.0%
+-28.4%
 
 **All-Time Low:** $67.81
-+131837.8%
++132980.7%
 
 ---
 
@@ -79,19 +79,19 @@ Rank #1
 
 **[This man filmed the reaction to bitcoin breaking $100 in 2013](https://www.reddit.com/r/Bitcoin/comments/1qox66j/this_man_filmed_the_reaction_to_bitcoin_breaking/)**
 
-11h ago
+12h ago
 
 ---
 
 **["Crypto is risky" Meanwhile:](https://www.reddit.com/r/Bitcoin/comments/1qoxz6c/crypto_is_risky_meanwhile/)**
 
-10h ago
+11h ago
 
 ---
 
 **[Nothing more delicious than a Bitcoin burger](https://www.reddit.com/r/Bitcoin/comments/1qp35kq/nothing_more_delicious_than_a_bitcoin_burger/)**
 
-6h ago
+7h ago
 
 ---
 
@@ -99,7 +99,7 @@ Rank #1
 
 i use to be a multicoiner but i lost everything in 2021 in trading and scams.... i was too greedy actually and bitcoin don t reward this mindset.... it s so hard to start over from zero, even 0,01 BTC seems a lots now.... i ll never be a whole coiner again but find with it... i ll not do the same mistakes... i hope i will not... time will tell..... keep stacking guys.., see you in 10 years...
 
-2h ago
+3h ago
 
 ---
 
@@ -107,7 +107,7 @@ i use to be a multicoiner but i lost everything in 2021 in trading and scams....
 
 If the price of BTC dipped to £50,000 / $69,035 how would someone in the UK purchase 1 BTC? UK banks have £10,000 per month crypto limits ! Someone would have to plan 5 months ahead, transfer £10,000 each month into an exchange (Coinbase / Kraken) and trust the fiat was safe, sat there, earning zero interest! Is this the way? References: https://www.firstdirect.com/help/bank-accounts/payments-and-transfers/cryptocurrency/ Our limits: Payments – £2,500 for a single payment and a total payment limit of £10,000 in any rolling 30-day period. Debit cards – £2,500 for a single card payment and a total card payment limit of £10,000 in any rolling 30-day period. https://www.barclays.co.uk/help/payments/payment-information/crypto-currency-payment-restrictions/ Monthly limits for non-card payments From 2nd December 2025, we’re introducing limits on bank transfers (Faster Payments) to crypto-currency exchanges. You can make individual transactions up to £2,500. There’s also a total personal transaction limit of £10,000 per calendar month, which includes all payments made from any of your accounts. https://www.santander.co.uk/personal/support/fraud-and-security/cryptocurrency Your limit will be: £1,000 per transaction a total of £3,000 in any rolling 30-day period.
 
-5h ago
+6h ago
 
 ---
 
@@ -127,13 +127,13 @@ I'm a teenager from a third world country, and I'm glad to share that I'm finall
 
 **[the first 365 days of January are always the hardest](https://www.reddit.com/r/Bitcoin/comments/1qosc5f/the_first_365_days_of_january_are_always_the/)**
 
-14h ago
+15h ago
 
 ---
 
 **[Think i will stay single.](https://www.reddit.com/r/Bitcoin/comments/1qp8rwv/think_i_will_stay_single/)**
 
-1h ago
+2h ago
 
 ---
 
@@ -141,7 +141,7 @@ I'm a teenager from a third world country, and I'm glad to share that I'm finall
 
 HODL.
 
-19h ago
+20h ago
 
 ---
 
@@ -153,7 +153,7 @@ HODL.
 
 The latest proposal closely mirrors House Bill 1202, which was introduced during the 2025 legislative session.
 
-The Block • 7h ago
+The Block • 8h ago
 
 ---
 
@@ -161,13 +161,13 @@ The Block • 7h ago
 
 China’s exports remain resilient under U.S. tariffs as the yuan stays tightly managed, sending ripples all the way to the crypto market.
 
-CoinDesk • 6h ago
+CoinDesk • 7h ago
 
 ---
 
 **[Bitcoin, Ethereum, XRP Rise. Why the Sell America Trade Has Gripped Cryptos.](https://www.barrons.com/articles/bitcoin-ethereum-xrp-crypto-today-18fbb937?gaa_at=eafs&gaa_n=AWEtsqeoAe8dLT9-gN9mqbhehybyi_tX7bnnqoik-Zk-kEggoVnDYjFDFjqb&gaa_ts=697a0a4d&gaa_sig=PQDUdRDxvh_xrx78n_xisaao0_FR0QTV-2yg8XyCJXmMk8vmBR-Rj8ch5ZOR1LrXp0o6m4ac4R4AGpwjuxdjhA%3D%3D)**
 
-Barron's • 2h ago
+Barron's • 3h ago
 
 ---
 
@@ -175,7 +175,7 @@ Barron's • 2h ago
 
 Bitcoin is the world's largest cryptocurrency by market cap.
 
-The Motley Fool • 53m ago
+The Motley Fool • 1h ago
 
 ---
 
@@ -183,7 +183,7 @@ The Motley Fool • 53m ago
 
 Everyone thought the Bitcoin price would “moon shoot” in Q4 2025. It didn’t. For the first time in a very long time, BTC USD prices closed the quarter in red. While there have been positive developments since then, nothing has yet emerged to save the bulls by pushing “digital gold” ...
 
-Yahoo Finance • 1h ago
+Yahoo Finance • 2h ago
 
 ---
 
@@ -191,7 +191,7 @@ Yahoo Finance • 1h ago
 
 Katie Stockton, Fairlead, joins 'Fast Money' to take a technical look at bitcoin prices.
 
-CNBC • 13h ago
+CNBC • 14h ago
 
 ---
 
@@ -199,7 +199,7 @@ CNBC • 13h ago
 
 Proponents of bitcoin have been calling it “digital gold.” Both the cryptocurrency and the precious metal are impossible to value because they don't pay any interest or dividends. Bitcoin is digital, making it potentially vulnerable someday to hacking by quantum-computing algorithms, while gold needs to be stored in a vault.
 
-Yardeni QuickTakes • 9h ago
+Yardeni QuickTakes • 10h ago
 
 ---
 
@@ -250,7 +250,7 @@ rewards for mining operations will dwindle. What happens next?
 
 A list of known attacks against Bitcoin / crypto asset owning entities that occurred in meatspace. - jlopp/physical-bitcoin-attacks
 
-⬆️ 3 • 💬 0 • 17h ago • [GitHub](https://github.com/jlopp/physical-bitcoin-attacks)
+⬆️ 3 • 💬 0 • 18h ago • [GitHub](https://github.com/jlopp/physical-bitcoin-attacks)
 
 ---
 
@@ -274,7 +274,7 @@ For years, crypto investors have waited for a familiar miracle. Altcoin season. 
 
 Transform HN comment threads into executive intelligence. AI analyzes discussions and delivers sharp, structured briefs (hook, gist, debate, verdict) written in Chief-of-Staff style for tech executives.
 
-⬆️ 3 • 💬 2 • 1d ago • [hnsignals.com](https://hnsignals.com/)
+⬆️ 3 • 💬 2 • 2d ago • [hnsignals.com](https://hnsignals.com/)
 
 ---
 
@@ -292,7 +292,7 @@ Transform HN comment threads into executive intelligence. AI analyzes discussion
 
 **[Show HN: I could build the translation tool I've wanted for 10 years](https://news.ycombinator.com/item?id=46786231)**
 
-⬆️ 1 • 💬 1 • 16h ago
+⬆️ 1 • 💬 1 • 17h ago
 
 ---
 
@@ -300,7 +300,7 @@ Transform HN comment threads into executive intelligence. AI analyzes discussion
 
 The altcoin market cap is still holding onto the macro uptrend despite all the surrounding geopolitical tension. Although the analyst predicts the altcoin
 
-⬆️ 1 • 💬 1 • 4h ago • [Altcoin Desk](https://altcoindesk.com/news/altcoin-season-is-going-to-be-biblical-but-liquidity-dries/article-22364/)
+⬆️ 1 • 💬 1 • 5h ago • [Altcoin Desk](https://altcoindesk.com/news/altcoin-season-is-going-to-be-biblical-but-liquidity-dries/article-22364/)
 
 ---
 
@@ -308,13 +308,33 @@ The altcoin market cap is still holding onto the macro uptrend despite all the s
 
 ## YouTube Videos: "bitcoin"
 
+**[BITCOIN HOLDERS... EVERYTHING IS LINING UP](https://www.youtube.com/watch?v=Zj5gT1xS40E)**
+
+I AM NOT A FINANCIAL ADVISOR. ALL VIDEOS IS FOR ENTERTAINTMENT PURPOSE; AND I AM DOCUMENTING MY OWN ...
+
+📺 Satoshi Stacker
+
+👁️ 6K • 👍 482 • 💬 32 • ⏱️ 16:31 • 4h ago
+
+---
+
+**[If Bitcoin Breaks This Level, I&#39;ll Flip Mega Bullish On Crypto! (FOMC GAMEPLAN)](https://www.youtube.com/watch?v=qE8YQDEWYl8)**
+
+Bitcoin is approaching a critical level, and before the market fully flips, there's one final trade that matters. In this video, Sheldon ...
+
+📺 Crypto Banter
+
+👁️ 4K • 👍 436 • 💬 7 • ⏱️ 18:40 • 3h ago
+
+---
+
 **[Tom Lee: &quot;This Signal Confirms Bitcoin Will Hit a New High in 2026!&quot;](https://www.youtube.com/watch?v=1wPj1tFcDdo)**
 
 This is not a victory lap — it's a reset. When Tom Lee throws out a $200000–$250000 Bitcoin target for 2026, he starts by doing ...
 
 📺 The Bitcoin Revolution
 
-👁️ 2K • 👍 68 • 💬 67 • ⏱️ 8:58 • 18h ago
+👁️ 3K • 👍 69 • 💬 68 • ⏱️ 8:58 • 19h ago
 
 ---
 
@@ -324,7 +344,7 @@ Silver has exploded, gold is ripping, and Bitcoin looks left behind — but hist
 
 📺 Swan Bitcoin
 
-👁️ 48K • 👍 2K • 💬 365 • ⏱️ 17:47 • 14h ago
+👁️ 53K • 👍 2K • 💬 393 • ⏱️ 17:47 • 14h ago
 
 ---
 
@@ -334,17 +354,7 @@ In this solo episode, Anthony Pompliano explains why Bitcoin is lagging while go
 
 📺 Anthony Pompliano
 
-👁️ 74K • 👍 3K • 💬 159 • ⏱️ 17:45 • 1d ago
-
----
-
-**[THEY LIED About the BTC Cycle! EVERYTHING Changes in FEBRUARY - Raoul Pal &amp; Samson Mow](https://www.youtube.com/watch?v=j5RBrEjNMcY)**
-
-Take Control of Your Retirement — Grow Crypto & Gold Tax-Advantaged. https://www.itrustcapital.com/go/savvy-finance If you're ...
-
-📺 Savvy Finance
-
-👁️ 11K • 👍 448 • 💬 16 • ⏱️ 19:52 • 19h ago
+👁️ 77K • 👍 3K • 💬 159 • ⏱️ 17:45 • 1d ago
 
 ---
 
@@ -354,17 +364,27 @@ As the stock market witnesses high volatility, experts anticipate potential shar
 
 📺 Paul Barron Network
 
-👁️ 66K • 👍 3K • 💬 205 • ⏱️ 17:32 • 16h ago
+👁️ 69K • 👍 3K • 💬 207 • ⏱️ 17:32 • 17h ago
 
 ---
 
-**[HUGE BITCOIN DIVERGENCE!!!! (Historical Signal)](https://www.youtube.com/watch?v=hLSgEYiOIqI)**
+**[THEY LIED About the BTC Cycle! EVERYTHING Changes in FEBRUARY - Raoul Pal &amp; Samson Mow](https://www.youtube.com/watch?v=j5RBrEjNMcY)**
 
-WEEX: https://www.weex.com/events/promo/usdtgiveaway?vipCode=00dt&qrType=activity 25% FEE DISCOUNT & GET FREE ...
+Take Control of Your Retirement — Grow Crypto & Gold Tax-Advantaged. https://www.itrustcapital.com/go/savvy-finance If you're ...
 
-📺 Crypto Rover
+📺 Savvy Finance
 
-👁️ 5K • 👍 371 • 💬 43 • ⏱️ 9:46 • 5h ago
+👁️ 11K • 👍 464 • 💬 17 • ⏱️ 19:52 • 20h ago
+
+---
+
+**[Rotation to Gold and Silver is Now...Bitcoin Is Next](https://www.youtube.com/watch?v=QVnjXPwRwR0)**
+
+Today, let's examine Bitcoin's charts and metrics, as well as the latest Macro and Crypto news. Additionally, a look at the latest ...
+
+📺 CryptosRUs
+
+👁️ 24K • 👍 1K • 💬 275 • ⏱️ 43:35 • 21h ago
 
 ---
 
@@ -374,37 +394,17 @@ Trade Like A Tourist Or Join The Pros FFA Is Where The Real Ones Go https://cryp
 
 📺 Crypto Crew University
 
-👁️ 39K • 👍 3K • 💬 213 • ⏱️ 15:06 • 22h ago
+👁️ 39K • 👍 3K • 💬 214 • ⏱️ 15:06 • 23h ago
 
 ---
 
-**[LIVE: Michael Saylor on Bitcoin Bull Run &amp; MSTR Stock – BTC Price Analysis](https://www.youtube.com/watch?v=I2YtgIsAsJo)**
+**[Bitcoin Is About To Leave Gold In The Dust](https://www.youtube.com/watch?v=BsN1_yIlAL0)**
 
-BTC #Bitcoin #Cryptocurrency Join Michael Saylor for his unforgettable keynote at the Bitcoin Сonference. A visionary Bitcoin ...
+Exchange Partners** Bitunix Exchange ▻ *$100000 Deposit Bonus* ▻ https://bit.ly/3Tmp1Hq BTCC Exchange ▻ *10% ...
 
-📺 Exclusively Drew
+📺 CryptosRUs
 
-👁️ 4K • 👍 5K • 2h ago
-
----
-
-**[Michael Saylor on Bitcoin Crash &amp; MSTR Stock Drop – BTC Price Analysis](https://www.youtube.com/watch?v=1K9gc5WEY1w)**
-
-BTC #Bitcoin #Cryptocurrency Join Michael Saylor for his unforgettable keynote at the Bitcoin Conference. The leading Bitcoin ...
-
-📺 cadirae
-
-👁️ 3K • 👍 1K • 11h ago
-
----
-
-**[60% of Banks Gearing Up For Crypto In 2026? PROOF!](https://www.youtube.com/watch?v=cBWOnFm6nY4)**
-
-I didn't know that this many banks are getting ready for a crypto push. The links below may include affiliate links, which means I ...
-
-📺 Digital Asset News
-
-👁️ 9K • 👍 784 • 💬 45 • ⏱️ 23:24 • 16h ago
+👁️ 33K • 👍 2K • 💬 504 • ⏱️ 8:05 • 1d ago
 
 ---
 
