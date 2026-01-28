@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-01-28T07:27:49.498821+00:00'
+updated: '2026-01-28T07:49:27.731577+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- news
-- repositories
 - videos
 - social
+- news
+- repositories
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** January 28, 2026 at 07:27 UTC  
+**Last Updated:** January 28, 2026 at 07:49 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -47,7 +47,7 @@ AI news, discussions, and developments
 
 Tried ClawdBot (now MoltBot) on a freshly installed system. At first? 🔥 Insane. It found a pitch deck buried in my messy external HDD and even sent it on WhatsApp. Super impressive. Few hours later — I get an Amazon alert: • Login at 2:40 AM • Different location • Logged in from Windows • I’m on Linux • I did NOT log in Could be a false alert (I have 2FA), but the timing freaked me out. Tried uninstalling the bot — no clear guide. Had to dig into code, found it running as a system service, manually removed everything. Realized my mistake: Chrome was installed → password manager + sessions were there. ⚠️ Lesson: These tools are powerful, but don’t install them unless you fully understand what access you’re giving. Not accusing. Just sharing experience. If you know a guide to uninstall if it’s available on the site, please drop it.
 
-8h ago
+9h ago
 
 ---
 
@@ -57,11 +57,19 @@ Tried ClawdBot (now MoltBot) on a freshly installed system. At first? 🔥 Insan
 
 ---
 
+**[I tried to break AI music by asking for "ugly" sounds. It refused.](https://www.reddit.com/r/artificial/comments/1qp47co/i_tried_to_break_ai_music_by_asking_for_ugly/)**
+
+I’ve been messing around with all these AI tools lately—Suno, that ACE vocal thing, Udio—and I realized something that kind of creeps me out. I gave them all the same prompt: "Create a genre that doesn't exist. Make it as dissonant and ugly as possible." I wanted clashing scales, vocals that sounded like they were actually dying, just total sonic chaos. And you know what? They couldn't do it. Every single one of them spit out something that sounded... professional. Mainstream. Even when I told them to go off-key, it felt like they were just "pretending" to be bad within a very safe, melodic box. It hit me then: AI isn't capable of true ugliness because it doesn't understand intent. To the real creators out there: your biggest advantage isn't being "perfect"—the AI has already won that race. Your advantage is being unexpected. It's the emotions that don't have a tag yet and the styles that sound "wrong" until they feel right。
+
+54m ago
+
+---
+
 **[One-Minute Daily AI News 1/27/2026](https://www.reddit.com/r/artificial/comments/1qp2uz2/oneminute_daily_ai_news_1272026/)**
 
 Google released new developer tools for Google AI Pro and Ultra subscribers.[1] FDA official offers tips on leveraging AI in drug manufacturing.[2] OpenAI released Prism, a free workspace for scientific writing and collaboration, with GPT‑5.2.[3] Microsoft Pledged to Save Water. In the A.I. Era, It Expects Water Use to Soar.[4] Sources: [1] https://blog.google/innovation-and-ai/technology/developers-tools/gdp-premium-ai-pro-ultra/ [2] https://www.raps.org/news-and-articles/news-articles/2026/1/fda-official-offers-tips-on-leveraging-ai-in-drug [3] https://openai.com/index/introducing-prism/ [4] https://www.nytimes.com/2026/01/27/technology/microsoft-water-ai-data-centers.html
 
-1h ago
+2h ago
 
 ---
 
@@ -105,14 +113,6 @@ Philips will soon show off its new AI-ready digital signage at ISE 2026 in Barce
 
 ---
 
-**[Creating an AI commercial ad with consistent products](https://www.reddit.com/r/artificial/comments/1qomiad/creating_an_ai_commercial_ad_with_consistent/)**
-
-https://reddit.com/link/1qomiad/video/9x9ozcxxsxfg1/player I've been testing how far AI tools have come for creating full commercial ads from scratch and it's way easier than before First I used claude to generate the story structure, then Seedream 4.5 and Flux Pro 2 for the initial shots. to keep the character and style consistent across scenes i used nano banana pro as an edit model. this let me integrate product placement (lego f1 cars) while keeping the same 3d pixar style throughout all the scenes. For animation i ran everything through Sora 2 using multiple cuts in the same prompt so we can get different camera angles in one generation. Then i just mixed the best parts from different generations and added AI generated music. This workflow is still not perfect but it is getting there and improving a lot. I made a full tutorial breaking down how i did it step by step: 👉 https://www.youtube.com/watch?v=EzLS5L4VgN8 Let me know if you have any questions or if you have a better workflow for keeping consistency in AI commercials, i'd love to learn!
-
-12h ago
-
----
-
 ---
 
 ## Google News: "ai"
@@ -133,25 +133,35 @@ BBC • 7h ago
 
 ---
 
-**[ASML Q4 bookings beat expectations as chipmakers order more to satisfy AI demand](https://www.reuters.com/business/asml-q4-bookings-beat-expectations-chipmakers-order-more-satisfy-ai-demand-2026-01-28/)**
+**[$10M investment to bring AI to Korean regional hospitals](https://www.healthcareitnews.com/news/asia/10m-investment-bring-ai-korean-regional-hospitals)**
 
-Reuters • 1h ago
+The Ministry of Health and Welfare targets all 17 central hospitals in the regions to deploy AI-based systems for monitoring conditions, supporting diagnosis, and automating tasks.
 
----
-
-**[Facing ‘AI slop’ and a trust problem, AI platforms invest in Super Bowl-level brand ads](https://digiday.com/marketing/facing-ai-slop-and-a-trust-problem-ai-platforms-invest-in-super-bowl-level-brand-ads/)**
-
-To counter mounting consumer distrust and the ‘AI slop’ narrative, AI platforms are spending big on brand ads.
-
-Digiday • 2h ago
+Healthcare IT News • 30m ago
 
 ---
 
-**[The Top 3 Artificial Intelligence (AI) Chip Stocks to Buy With $50,000 in 2026](https://finance.yahoo.com/news/top-3-artificial-intelligence-ai-052000569.html)**
+**[Prediction: This Artificial Intelligence (AI) Stock Will Crush the Market in 2026](https://www.fool.com/investing/2026/01/28/this-ai-stock-will-crush-the-market-in-2026/)**
 
-Semiconductor stocks look poised for further gains as investment in artificial intelligence (AI) infrastructure accelerates.
+Microsoft released its in-house chip that will directly compete with Nvidia.
 
-Yahoo Finance • 2h ago
+The Motley Fool • 30m ago
+
+---
+
+**[Daily AI Use Linked to Higher Risk for Depressive Symptoms](https://www.medscape.com/viewarticle/daily-generative-ai-use-linked-increased-risk-depressive-2026a10002n5)**
+
+Daily use of generative AI is associated with a 30% greater risk for at least moderate depressive symptoms in US adults compared to nonuse, a new study suggests.
+
+Medscape • 51m ago
+
+---
+
+**[‘This train isn’t going to stop’: shocking Sundance film shows promises and perils of AI](https://www.theguardian.com/film/2026/jan/27/sundance-ai-documentary-daniel-roher)**
+
+The AI Doc: Or How I Became an Apocaloptimist, co-directed by Daniel Roher, delves into the world of AI through the lens of personal anxiety
+
+The Guardian • 5h ago
 
 ---
 
@@ -171,27 +181,19 @@ techcrunch.com • 13h ago
 
 ---
 
-**[Apple, Google host dozens of AI ‘nudify’ apps like Grok, report finds](https://www.cnbc.com/2026/01/27/apple-google-host-dozens-of-ai-nudify-apps-like-grok-report-finds.html)**
+**[AI Overviews gets upgraded to Gemini 3 with a dash of AI Mode](https://arstechnica.com/google/2026/01/ai-overviews-gets-upgraded-to-gemini-3-with-a-dash-of-ai-mode/)**
 
-A tech watchdog organization found 55 nudify apps on Google Play and 47 in the Apple App Store.
+AI Overviews may get it right more often with the move to Gemini 3.
 
-CNBC • 19h ago
-
----
-
-**[One year after DeepSeek, Chinese AI firms from Alibaba to Moonshot race to release new models](https://www.cnbc.com/2026/01/28/chinese-tech-companies-accelerate-ai-model-rollouts-us-rivals-deepseek-moonshot-kimi.html)**
-
-Chinese companies are releasing new AI models and striving to gain an edge in the AI application race as the country's biggest holiday of the year nears.
-
-CNBC • 4h ago
+Ars Technica • 14h ago
 
 ---
 
-**[Anthropic CEO speaks about 'powerful' AI risks and regulation](https://www.nbcnews.com/video/anthropic-ceo-dario-amodei-warns-of-powerful-ai-risks-256663621646)**
+**[‘Wake up to the risks of AI, they are almost here,’ Anthropic boss warns](https://www.theguardian.com/technology/2026/jan/27/wake-up-to-the-risks-of-ai-they-are-almost-here-anthropic-boss-warns)**
 
-Dario Amodei, the CEO of the AI company Anthropic, joined "Top Story" to discuss his new essay "The Adolescence of Technology: Confronting and Overcoming the Risks of Powerful A.I." In the essay, Amodei warns of the risks that come with artificial intelligence and also spoke with NBC News' Tom Llamas about AI regulation and control.
+Dario Amodei questions if human systems are ready to handle the ‘almost unimaginable power’ that is ‘potentially imminent’
 
-NBC News • 15h ago
+The Guardian • 5h ago
 
 ---
 
@@ -201,7 +203,7 @@ NBC News • 15h ago
 
 **[France Aiming to Replace Zoom, Google Meet, Microsoft Teams, etc.](https://news.ycombinator.com/item?id=46767668)**
 
-⬆️ 872 • 💬 747 • 1d ago • [X (formerly Twitter)](https://twitter.com/lellouchenico/status/2015775970330882319)
+⬆️ 875 • 💬 750 • 1d ago • [X (formerly Twitter)](https://twitter.com/lellouchenico/status/2015775970330882319)
 
 ---
 
@@ -209,7 +211,7 @@ NBC News • 15h ago
 
 Apple today unveiled the new AirTag, now with an expanded finding range and a louder speaker.
 
-⬆️ 591 • 💬 714 • 1d ago • [Apple Newsroom](https://www.apple.com/newsroom/2026/01/apple-introduces-new-airtag-with-expanded-range-and-improved-findability/)
+⬆️ 591 • 💬 715 • 1d ago • [Apple Newsroom](https://www.apple.com/newsroom/2026/01/apple-introduces-new-airtag-with-expanded-range-and-improved-findability/)
 
 ---
 
@@ -217,7 +219,7 @@ Apple today unveiled the new AirTag, now with an expanded finding range and a lo
 
 Exclusive: German research into responses to health queries raises fresh questions about summaries seen by 2bn people a month
 
-⬆️ 405 • 💬 207 • 1d ago • [the Guardian](https://www.theguardian.com/technology/2026/jan/24/google-ai-overviews-youtube-medical-citations-study)
+⬆️ 406 • 💬 207 • 1d ago • [the Guardian](https://www.theguardian.com/technology/2026/jan/24/google-ai-overviews-youtube-medical-citations-study)
 
 ---
 
@@ -233,7 +235,7 @@ Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞  - G
 
 Today everybody's doing AI code review. Here's how Greptile's viewpoint is differentiated - independence, autonomy, and feedback loops.
 
-⬆️ 339 • 💬 225 • 1d ago • [greptile.com](https://www.greptile.com/blog/ai-code-review-bubble)
+⬆️ 340 • 💬 226 • 1d ago • [greptile.com](https://www.greptile.com/blog/ai-code-review-bubble)
 
 ---
 
@@ -255,7 +257,7 @@ Opinion: Autonomous agents may generate millions of lines of code, but shipping 
 
 SERA is the first in our family of Open Coding Agents, achieving state-of-the-art performance at low cost.
 
-⬆️ 163 • 💬 23 • 14h ago • [allenai.org](https://allenai.org/blog/open-coding-agents)
+⬆️ 173 • 💬 24 • 14h ago • [allenai.org](https://allenai.org/blog/open-coding-agents)
 
 ---
 
@@ -263,7 +265,7 @@ SERA is the first in our family of Open Coding Agents, achieving state-of-the-ar
 
 AISLE's autonomous analyzer found all 12 CVEs in the January 2026 coordinated release of OpenSSL, the open-source cryptographic library that underp...
 
-⬆️ 143 • 💬 89 • 5h ago • [AISLE](https://aisle.com/blog/aisle-discovered-12-out-of-12-openssl-vulnerabilities)
+⬆️ 148 • 💬 101 • 6h ago • [AISLE](https://aisle.com/blog/aisle-discovered-12-out-of-12-openssl-vulnerabilities)
 
 ---
 
@@ -283,7 +285,7 @@ Clawdbot full tutorial. How to install Clawdbot / Moltbot. Use cases of Clawd. C
 
 📺 AI Search
 
-👁️ 16K • 👍 1K • 💬 277 • ⏱️ 28:44 • 3h ago
+👁️ 16K • 👍 1K • 💬 277 • ⏱️ 28:44 • 4h ago
 
 ---
 
@@ -303,7 +305,7 @@ Dario Amodei, the CEO of the AI company Anthropic, joined "Top Story" to discuss
 
 📺 NBC News
 
-👁️ 15K • 👍 300 • 💬 111 • ⏱️ 18:01 • 15h ago
+👁️ 15K • 👍 300 • 💬 111 • ⏱️ 18:01 • 16h ago
 
 ---
 
@@ -660,7 +662,7 @@ Browser automation CLI for AI agents
 
 `TypeScript`
 
-⭐ 11.1k • 🔱 611 • 15h ago
+⭐ 11.1k • 🔱 611 • 16h ago
 
 ---
 
@@ -690,7 +692,7 @@ Ralph is an autonomous AI agent loop that runs repeatedly until all PRD items ar
 
 `Vue`
 
-⭐ 6.4k • 🔱 1.2k • 47m ago
+⭐ 6.4k • 🔱 1.2k • 1h ago
 
 ---
 
@@ -700,7 +702,7 @@ LLM驱动的 A/H/美股智能分析器，多数据源行情 + 实时新闻 + Gem
 
 `Python` `agent` `ai` `aigc` `gemini` `llm`
 
-⭐ 6.4k • 🔱 6.9k • 16h ago
+⭐ 6.4k • 🔱 6.9k • 17h ago
 
 ---
 
@@ -720,7 +722,7 @@ The Ultimate Collection of 200+ Agentic Skills for Claude Code/Antigravity/Curso
 
 `Python` `agentic-skills` `ai-agents` `antigravity` `autonomous-coding` `claude-code`
 
-⭐ 4.6k • 🔱 1.1k • 54m ago
+⭐ 4.6k • 🔱 1.1k • 1h ago
 
 ---
 

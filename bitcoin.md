@@ -3,14 +3,14 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-01-28T07:27:49.507267+00:00'
+updated: '2026-01-28T07:49:27.740047+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- news
 - videos
 - social
+- news
 - cryptocurrency
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** January 28, 2026 at 07:27 UTC  
+**Last Updated:** January 28, 2026 at 07:49 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,17 +38,17 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $88,997.31
+### $89,262.94
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** +1.0%  
-**7d:** -0.4%  
-**30d:** +0.9%  
-**90d:** -18.7%  
-**1y:** -13.9%  
+**24h:** +1.2%  
+**7d:** -0.3%  
+**30d:** +1.0%  
+**90d:** -18.6%  
+**1y:** -13.8%  
 
 ---
 
@@ -89,6 +89,12 @@ Rank #1
 
 ---
 
+**[Nothing more delicious than a Bitcoin burger](https://www.reddit.com/r/Bitcoin/comments/1qp35kq/nothing_more_delicious_than_a_bitcoin_burger/)**
+
+1h ago
+
+---
+
 **[still hodling](https://www.reddit.com/r/Bitcoin/comments/1qoarog/still_hodling/)**
 
 20h ago
@@ -103,15 +109,9 @@ I'm a teenager from a third world country, and I'm glad to share that I'm finall
 
 ---
 
-**[Nothing more delicious than a Bitcoin burger](https://www.reddit.com/r/Bitcoin/comments/1qp35kq/nothing_more_delicious_than_a_bitcoin_burger/)**
-
-1h ago
-
----
-
 **[Rule 11](https://www.reddit.com/r/Bitcoin/comments/1qoe2h3/rule_11/)**
 
-17h ago
+18h ago
 
 ---
 
@@ -123,19 +123,19 @@ I'm a teenager from a third world country, and I'm glad to share that I'm finall
 
 **[Forever😀](https://www.reddit.com/r/Bitcoin/comments/1qofr38/forever/)**
 
-16h ago
+17h ago
+
+---
+
+**[How it feels to say “i'm a crypto expert ” instead of “degen gambler.”](https://www.reddit.com/r/Bitcoin/comments/1qos9bh/how_it_feels_to_say_im_a_crypto_expert_instead_of/)**
+
+9h ago
 
 ---
 
 **[Ive learned so much.](https://www.reddit.com/r/Bitcoin/comments/1qos730/ive_learned_so_much/)**
 
 Proving value is the key to build anything I’m studied my ass off because I am free, not trading my life for paper. Working my ass off for SATS so I can live my life.
-
-9h ago
-
----
-
-**[How it feels to say “i'm a crypto expert ” instead of “degen gambler.”](https://www.reddit.com/r/Bitcoin/comments/1qos9bh/how_it_feels_to_say_im_a_crypto_expert_instead_of/)**
 
 9h ago
 
@@ -153,11 +153,11 @@ CoinDesk • 10h ago
 
 ---
 
-**[Bitcoin Seen Entering a More Stable Phase, Coinbase and Glassnode Say](https://decrypt.co/356122/bitcoin-seen-entering-a-more-stable-phase-coinbase-and-glassnode-say)**
+**[Strategy buys $264m Bitcoin during price dip as investors brace for 80% government shutdown chance](https://finance.yahoo.com/news/strategy-buys-264m-bitcoin-during-114217584.html)**
 
-New analysis points to steadier market conditions for Bitcoin as liquidity support holds and investors shift toward hedging over leverage.
+Polymarket puts shutdown probability at 80%. The last shutdown in October-November caused lasting damage. That’s not stopping Wall Street from digging deeper into crypto.
 
-Decrypt • 7h ago
+Yahoo Finance • 20h ago
 
 ---
 
@@ -169,14 +169,6 @@ CNBC • 8h ago
 
 ---
 
-**[Strategy buys $264m Bitcoin during price dip as investors brace for 80% government shutdown chance](https://finance.yahoo.com/news/strategy-buys-264m-bitcoin-during-114217584.html)**
-
-Polymarket puts shutdown probability at 80%. The last shutdown in October-November caused lasting damage. That’s not stopping Wall Street from digging deeper into crypto.
-
-Yahoo Finance • 19h ago
-
----
-
 **[Strategy buys more Bitcoin—$264 million of it—even as Bitcoin slumps to $87,000](https://fortune.com/2026/01/26/strategy-buys-more-bitcoin-264-million-of-it-even-as-bitcoin-slumps-to-87000/)**
 
 The move came only a week after executive chairman Michael Saylor made a separate $2 billion Bitcoin purchase.
@@ -185,23 +177,9 @@ Fortune • 1d ago
 
 ---
 
-**[Tom Lee Claims Parabolic Gold and Silver Move Is Masking Bullish Bitcoin and Ethereum Signals](https://finance.yahoo.com/news/tom-lee-claims-parabolic-gold-114507218.html)**
-
-Tom Lee says precious metals are stealing the spotlight from crypto fundamentals. Bitmine continues to add to its $12.8 billion ETH holdings, amid Tom Lee's ...
-
-Yahoo Finance • 19h ago
-
----
-
 **[Bitcoin Believers Are Looking to Stocks and Gold](https://www.bloomberg.com/news/newsletters/2026-01-27/bitcoin-believers-are-looking-to-stocks-and-gold)**
 
-Bloomberg • 7h ago
-
----
-
-**[Bitcoin lacks direction as precious metals outshine crypto (BTC-USD:Cryptocurrency)](https://seekingalpha.com/news/4542886-bitcoin-lacks-direction-as-precious-metals-outshine-crypto)**
-
-Seeking Alpha • 16h ago
+Bloomberg.com • 8h ago
 
 ---
 
@@ -218,6 +196,30 @@ Bitcoin Magazine • 1d ago
 Tucker Carlson asks the new guest why Bitcoin can't replace the U.S. dollar.
 
 thestreet.com • 12h ago
+
+---
+
+**[Davos Takeaways - Bitcoin Is Not Here To Replace Banks, And That's A Good Thing](https://seekingalpha.com/article/4862574-davos-takeaways-bitcoin-is-not-here-to-replace-banks-and-thats-a-good-thing)**
+
+Bitcoin's deflationary nature makes it unsuitable as a global currency but ideal for long-term wealth preservation and institutional adoption. Read more on BTC.
+
+Seeking Alpha • 1d ago
+
+---
+
+**[Resident scammed out of $150,000 worth of bitcoin: Gates Mills Police Blotter](https://www.cleveland.com/community/2026/01/resident-scammed-out-of-150000-worth-of-bitcoin-gates-mills-police-blotter.html)**
+
+A resident reported Jan. 23 that he was scammed out of $150,000 when engaging in a bitcoin meeting online.
+
+cleveland.com • 1d ago
+
+---
+
+**[UK Financial Ltd Engages Early Bitcoin-Era Exchange Veteran Neulo Emmanuel (Neulo) in Long-Term Strategic Advisory Role](https://www.usatoday.com/press-release/story/24452/uk-financial-ltd-engages-early-bitcoin-era-exchange-veteran-neulo-emmanuel-neulo-in-long-term-strategic-advisory-role/)**
+
+London, UKUK Financial Ltd Formalizes Advisory Role and Confirms Commitment to Supporting CATEX Exchange Development
+
+USA Today • 7h ago
 
 ---
 
@@ -288,7 +290,7 @@ Transform HN comment threads into executive intelligence. AI analyzes discussion
 
 **[Show HN: I could build the translation tool I've wanted for 10 years](https://news.ycombinator.com/item?id=46786231)**
 
-⬆️ 1 • 💬 1 • 10h ago
+⬆️ 1 • 💬 1 • 11h ago
 
 ---
 
@@ -338,7 +340,7 @@ As the stock market witnesses high volatility, experts anticipate potential shar
 
 📺 Paul Barron Network
 
-👁️ 58K • 👍 3K • 💬 185 • ⏱️ 17:32 • 10h ago
+👁️ 58K • 👍 3K • 💬 185 • ⏱️ 17:32 • 11h ago
 
 ---
 
