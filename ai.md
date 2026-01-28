@@ -3,13 +3,13 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-01-28T21:31:03.821480+00:00'
+updated: '2026-01-28T22:28:14.671696+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- repositories
 - news
+- repositories
 - social
 - videos
 ---
@@ -18,7 +18,7 @@ data_types:
 
 AI news, discussions, and developments
 
-**Last Updated:** January 28, 2026 at 21:31 UTC  
+**Last Updated:** January 28, 2026 at 22:28 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -47,7 +47,7 @@ More and more of my freelance clients are turning to "vibe coding" instead of hi
 
 **[Trump’s acting cyber chief uploaded sensitive files into a public version of ChatGPT. The interim director of the Cybersecurity and Infrastructure Security Agency triggered an internal cybersecurity warning with the uploads — and a DHS-level damage assessment.](https://www.reddit.com/r/artificial/comments/1qozsna/trumps_acting_cyber_chief_uploaded_sensitive/)**
 
-🔗 [politico.com](https://www.politico.com/news/2026/01/27/cisa-madhu-gottumukkala-chatgpt-00749361) • 18h ago
+🔗 [politico.com](https://www.politico.com/news/2026/01/27/cisa-madhu-gottumukkala-chatgpt-00749361) • 19h ago
 
 ---
 
@@ -55,7 +55,7 @@ More and more of my freelance clients are turning to "vibe coding" instead of hi
 
 Unsealed legal documents reveal Meta, TikTok, and Google purposefully targeted children for addiction, ICE raids stall GOP in Minnesota, Trump targets Cuba, Oregon's voter rolls stay private, the CIA moves into Venezuela, Trump Cyber Chief accidentally uploads policies to ChatGPT, Meta blocks links
 
-🔗 [Instrumental Communications](https://www.instrumentalcomms.com/blog/unsealed-docs-reveal-big-tech-targets-kids#ai) • 8h ago
+🔗 [Instrumental Communications](https://www.instrumentalcomms.com/blog/unsealed-docs-reveal-big-tech-targets-kids#ai) • 9h ago
 
 ---
 
@@ -63,7 +63,7 @@ Unsealed legal documents reveal Meta, TikTok, and Google purposefully targeted c
 
 Alarming critics, the acting director of the Cybersecurity and Infrastructure Security Agency, Madhu Gottumukkala, accidentally uploaded sensitive information to a public version of ChatGPT last summer, reports say. According to “four Department of Homeland Security officials with knowledge of the incident,” Gottumukkala’s uploads of sensitive CISA contracting documents triggered multiple internal cybersecurity warnings designed to “stop the theft or unintentional disclosure of government material from federal networks.” Gottumukkala’s uploads happened soon after he joined the agency and sought special permission to use OpenAI’s popular chatbot, which most DHS staffers are blocked from accessing. Instead, DHS staffers use approved AI-powered tools, like the agency’s DHSChat, which “are configured to prevent queries or documents input into them from leaving federal networks." It remains unclear why Gottumukkala needed to use ChatGPT. One official said that, to staffers, it seemed like Gottumukkala “forced CISA’s hand into making them give him ChatGPT, and then he abused it.” Full article: https://arstechnica.com/tech-policy/2026/01/us-cyber-defense-chief-accidentally-uploaded-secret-government-info-to-chatgpt/
 
-🔗 [Ars Technica](http://arstechnica.com/tech-policy/2026/01/us-cyber-defense-chief-accidentally-uploaded-secret-government-info-to-chatgpt) • 1h ago
+🔗 [Ars Technica](http://arstechnica.com/tech-policy/2026/01/us-cyber-defense-chief-accidentally-uploaded-secret-government-info-to-chatgpt) • 2h ago
 
 ---
 
@@ -71,7 +71,7 @@ Alarming critics, the acting director of the Cybersecurity and Infrastructure Se
 
 DeepMind’s AlphaGenome AI model could help solve the problem of predicting how variations in noncoding DNA shape gene expression
 
-🔗 [Scientific American](https://www.scientificamerican.com/article/google-deepmind-unleashes-new-ai-alphagenome-to-investigate-dnas-dark-matter/) • 4h ago
+🔗 [Scientific American](https://www.scientificamerican.com/article/google-deepmind-unleashes-new-ai-alphagenome-to-investigate-dnas-dark-matter/) • 5h ago
 
 ---
 
@@ -79,7 +79,7 @@ DeepMind’s AlphaGenome AI model could help solve the problem of predicting how
 
 After the Claude/Anthropic incident where AI was used in a large-scale cyberattack, we've been publishing weekly threat intelligence on what's actually targeting AI agents in production. This week (74,636 interactions monitored) 37.8% contained attack attempts 74.8% of those were cybersecurity-related (malware gen, exploits) The new threat nobody's talking about: Inter-Agent Attacks As people deploy multi-agent systems, attackers are sending poisoned messages designed to propagate from one agent to another. We're seeing: Agent impersonation Goal hijacking Constraint removal Recursive attack propagation This is 3.4% of threats now, detected at 97.7% confidence. Top attack categories Data exfiltration (19.2%) - stealing system prompts and context Jailbreaks (12.3%) RAG poisoning (10.0%) Prompt injection (8.8%) The ClawdBot incident was the canary. If your AI can take actions, it's a target. Full report: https://raxe.ai/threat-intelligence Github: https://github.com/raxe-ai/raxe-ce is free for the community to use
 
-13h ago
+14h ago
 
 ---
 
@@ -87,7 +87,7 @@ After the Claude/Anthropic incident where AI was used in a large-scale cyberatta
 
 I just saw a post discussing clawdbot, about someone not finding a usecase for automating tasks and I realised I too simply can't find anything that I need to automate. I'd love to hear what y'all find automatable. Could this just end up being a very niche feature.
 
-5h ago
+6h ago
 
 ---
 
@@ -95,7 +95,7 @@ I just saw a post discussing clawdbot, about someone not finding a usecase for a
 
 AI agents are getting really good at doing things, but they're completely blind to their physical surroundings. If you walk into a hotel and you have an AI assistant (like the Chatgpt mobile app), it has no idea there may be a concierge agent on the network that could help you book a spa, check breakfast times, or request late checkout. Same thing at offices, hospitals, cruise ships. The agents are there, but there's no way to discover them. A2A (Google's agent-to-agent protocol) handles how agents talk to each other. MCP handles how agents use tools. But neither answers a basic question: how do you find agents in the first place? So I built LAD-A2A, a simple discovery protocol. When you connect to a Wi-Fi, your agent can automatically find what's available using mDNS (like how AirDrop finds nearby devices) or a standard HTTP endpoint. The spec is intentionally minimal. I didn't want to reinvent A2A or create another complex standard. LAD-A2A just handles discovery, then hands off to A2A for actual communication. Open source, Apache 2.0. Includes a working Python implementation you can run to see it in action. Curious what people think!
 
-59m ago
+1h ago
 
 ---
 
@@ -103,13 +103,13 @@ AI agents are getting really good at doing things, but they're completely blind 
 
 Tried ClawdBot (now MoltBot) on a freshly installed system. At first? 🔥 Insane. It found a pitch deck buried in my messy external HDD and even sent it on WhatsApp. Super impressive. Few hours later — I get an Amazon alert: • Login at 2:40 AM • Different location • Logged in from Windows • I’m on Linux • I did NOT log in Could be a false alert (I have 2FA), but the timing freaked me out. Tried uninstalling the bot — no clear guide. Had to dig into code, found it running as a system service, manually removed everything. Realized my mistake: Chrome was installed → password manager + sessions were there. ⚠️ Lesson: These tools are powerful, but don’t install them unless you fully understand what access you’re giving. Not accusing. Just sharing experience. If you know a guide to uninstall if it’s available on the site, please drop it.
 
-22h ago
+23h ago
 
 ---
 
 **[Pinterest lays off hundreds, citing need for 'AI-proficient talent'](https://www.reddit.com/r/artificial/comments/1qotqu1/pinterest_lays_off_hundreds_citing_need_for/)**
 
-🔗 [sfgate.com](https://www.sfgate.com/tech/article/pinterest-layoffs-hundreds-ai-21318302.php) • 22h ago
+🔗 [sfgate.com](https://www.sfgate.com/tech/article/pinterest-layoffs-hundreds-ai-21318302.php) • 23h ago
 
 ---
 
@@ -121,13 +121,13 @@ Tried ClawdBot (now MoltBot) on a freshly installed system. At first? 🔥 Insan
 
 It could transform our understanding of why diseases develop and the medicines needed to treat them, says researchers.
 
-BBC • 5h ago
+BBC • 6h ago
 
 ---
 
 **[With AlphaGenome, Researchers Are Using A.I. to Decode the Human Blueprint](https://www.nytimes.com/2026/01/28/science/alphagenome-ai-deepmind-genetics.html)**
 
-The New York Times • 5h ago
+The New York Times • 6h ago
 
 ---
 
@@ -135,7 +135,7 @@ The New York Times • 5h ago
 
 AlphaGenome can analyse up to 1m letters of DNA code at once and could pave way for new treatments
 
-The Guardian • 4h ago
+The Guardian • 5h ago
 
 ---
 
@@ -143,7 +143,7 @@ The Guardian • 4h ago
 
 Forth Worth teacher Chanea Bond says sticking with pen and paper keeps generative artificial intelligence out of her American literature classes.
 
-NPR • 11h ago
+NPR • 12h ago
 
 ---
 
@@ -151,7 +151,7 @@ NPR • 11h ago
 
 Microsoft Corp.’s spending surged to a record high in the last three months of 2025, sending the shares down amid investor concerns that it will take longer than expected for the company’s AI investments to pay off.
 
-Bloomberg.com • 11m ago
+Bloomberg.com • 1h ago
 
 ---
 
@@ -159,13 +159,13 @@ Bloomberg.com • 11m ago
 
 Claude will power ServiceNow's Build Agent, the company's AI tool for building applications and workflows.
 
-Axios • 13m ago
+Axios • 1h ago
 
 ---
 
 **[Caterpillar Earnings Are Coming. The Bar Is High, Thanks to AI.](https://www.barrons.com/articles/caterpillar-earnings-stock-price-9fa7aa49?gaa_at=eafs&gaa_n=AWEtsqeX1uB6pwIFuIp8_vge-NXP-DPnlNzCx9jAdpL8Y5Qv8oJGe-3XijUq&gaa_ts=697a837f&gaa_sig=pv1lq_0J24AdbUFaxHr1RrSRvmIDqqh9wugxvK3tG78_xKTOXksHK9zpKBE3Z7RKPkf8J59CUKPKTC-AD_qq-w%3D%3D)**
 
-Barron's • 12m ago
+Barron's • 1h ago
 
 ---
 
@@ -173,7 +173,7 @@ Barron's • 12m ago
 
 Amazon is laying off 16,000 employees, the company’s second round of massive job reductions in two months as it fights to improve its standing in the battle for AI supremacy.
 
-CNN • 10h ago
+CNN • 11h ago
 
 ---
 
@@ -181,7 +181,7 @@ CNN • 10h ago
 
 Amazon announces 16,000 job cuts in major restructuring to reduce bureaucracy and management layers while investing in AI and other strategic growth areas.
 
-Fox Business • 9h ago
+Fox Business • 10h ago
 
 ---
 
@@ -189,7 +189,7 @@ Fox Business • 9h ago
 
 Amazon plans to lay off 16,000 employees, impacting teams like AWS and Alexa. An employee used an AI tool to list potentially affected areas.
 
-Business Insider • 2h ago
+Business Insider • 3h ago
 
 ---
 
@@ -239,7 +239,7 @@ Today everybody's doing AI code review. Here's how Greptile's viewpoint is diffe
 
 Interactive article explaining the physics of an airfoil and what makes airplanes fly
 
-⬆️ 282 • 💬 45 • 6h ago • [ciechanow.ski](https://ciechanow.ski/airfoil/)
+⬆️ 282 • 💬 45 • 7h ago • [ciechanow.ski](https://ciechanow.ski/airfoil/)
 
 ---
 
@@ -269,7 +269,7 @@ SERA is the first in our family of Open Coding Agents, achieving state-of-the-ar
 
 AISLE's autonomous analyzer found all 12 CVEs in the January 2026 coordinated release of OpenSSL, the open-source cryptographic library that underp...
 
-⬆️ 188 • 💬 128 • 19h ago • [AISLE](https://aisle.com/blog/aisle-discovered-12-out-of-12-openssl-vulnerabilities)
+⬆️ 188 • 💬 128 • 20h ago • [AISLE](https://aisle.com/blog/aisle-discovered-12-out-of-12-openssl-vulnerabilities)
 
 ---
 
@@ -293,7 +293,7 @@ China's AI race just shifted. Moonshot quietly rolled out Kimi K2.5, and the jum
 
 📺 AI Revolution
 
-👁️ 19K • 👍 557 • 💬 35 • ⏱️ 12:41 • 22h ago
+👁️ 19K • 👍 557 • 💬 35 • ⏱️ 12:41 • 23h ago
 
 ---
 
@@ -313,7 +313,7 @@ Want to make money and save time with AI? Get AI Coaching, Support & Courses ...
 
 📺 Julian Goldie SEO
 
-👁️ 13K • 👍 295 • 💬 36 • ⏱️ 9:34 • 19h ago
+👁️ 13K • 👍 295 • 💬 36 • ⏱️ 9:34 • 20h ago
 
 ---
 
@@ -323,7 +323,7 @@ Clawdbot full tutorial. How to install Clawdbot / Moltbot. Use cases of Clawd. C
 
 📺 AI Search
 
-👁️ 57K • 👍 3K • 💬 537 • ⏱️ 28:44 • 18h ago
+👁️ 57K • 👍 3K • 💬 537 • ⏱️ 28:44 • 19h ago
 
 ---
 
@@ -333,7 +333,7 @@ Anthropic CEO Dario Amodei called for an embargo on the sale of chips and data c
 
 📺 ABC News
 
-👁️ 6K • 👍 63 • 💬 30 • ⏱️ 3:17 • 23h ago
+👁️ 6K • 👍 63 • 💬 30 • ⏱️ 3:17 • 1d ago
 
 ---
 
@@ -397,7 +397,7 @@ Kimi K2.5 is a native multimodal agentic model with 1T parameters, excelling in 
 
 `image-text-to-text`
 
-⬇️ 10,965 • ❤️ 871 • 18h ago
+⬇️ 10,965 • ❤️ 871 • 19h ago
 
 ---
 
@@ -433,7 +433,7 @@ Z-Image is an undistilled, high-fidelity text-to-image diffusion transformer mod
 
 `text-to-image`
 
-⬇️ 0 • ❤️ 566 • 7h ago
+⬇️ 0 • ❤️ 566 • 8h ago
 
 ---
 
@@ -481,7 +481,7 @@ Chroma-4B is a real-time, end-to-end spoken dialogue model capable of speech und
 
 `any-to-any` `5.9B`
 
-⬇️ 5,776 • ❤️ 279 • 18h ago
+⬇️ 5,776 • ❤️ 279 • 19h ago
 
 ---
 
@@ -641,7 +641,7 @@ Browser automation CLI for AI agents
 
 `TypeScript`
 
-⭐ 11.2k • 🔱 615 • 3h ago
+⭐ 11.2k • 🔱 615 • 4h ago
 
 ---
 
@@ -651,7 +651,7 @@ AI → JSON → UI
 
 `TypeScript`
 
-⭐ 9.5k • 🔱 502 • 5h ago
+⭐ 9.5k • 🔱 502 • 6h ago
 
 ---
 
@@ -671,7 +671,7 @@ LLM驱动的 A/H/美股智能分析器，多数据源行情 + 实时新闻 + Gem
 
 `Python` `agent` `ai` `aigc` `gemini` `llm`
 
-⭐ 6.5k • 🔱 7.1k • 7h ago
+⭐ 6.5k • 🔱 7.1k • 8h ago
 
 ---
 
@@ -681,7 +681,7 @@ LLM驱动的 A/H/美股智能分析器，多数据源行情 + 实时新闻 + Gem
 
 `Vue`
 
-⭐ 6.4k • 🔱 1.2k • 7h ago
+⭐ 6.4k • 🔱 1.2k • 8h ago
 
 ---
 
@@ -691,7 +691,7 @@ Marketing skills for Claude Code and AI agents. CRO, copywriting, SEO, analytics
 
 `claude` `codex` `marketing`
 
-⭐ 5.2k • 🔱 552 • 13h ago
+⭐ 5.2k • 🔱 552 • 14h ago
 
 ---
 
@@ -701,7 +701,7 @@ The Ultimate Collection of 500+ Agentic Skills for Claude Code/Antigravity/Curso
 
 `Python` `agentic-skills` `ai-agents` `antigravity` `autonomous-coding` `claude-code`
 
-⭐ 4.9k • 🔱 1.1k • 4h ago
+⭐ 4.9k • 🔱 1.1k • 5h ago
 
 ---
 

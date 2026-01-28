@@ -3,7 +3,7 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-01-28T21:31:03.829784+00:00'
+updated: '2026-01-28T22:28:14.679976+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
@@ -18,7 +18,7 @@ data_types:
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** January 28, 2026 at 21:31 UTC  
+**Last Updated:** January 28, 2026 at 22:28 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -79,31 +79,31 @@ Rank #1
 
 **[This is unbearable](https://www.reddit.com/r/Bitcoin/comments/1qphgpc/this_is_unbearable/)**
 
-4h ago
+5h ago
 
 ---
 
 **[This man filmed the reaction to bitcoin breaking $100 in 2013](https://www.reddit.com/r/Bitcoin/comments/1qox66j/this_man_filmed_the_reaction_to_bitcoin_breaking/)**
 
-20h ago
+21h ago
 
 ---
 
 **[NBA legend Scottie Pippen often says Satoshi visits him in his dreams. This is what I imagine they're like.](https://www.reddit.com/r/Bitcoin/comments/1qpjtzp/nba_legend_scottie_pippen_often_says_satoshi/)**
 
-2h ago
+3h ago
 
 ---
 
 **[Don't Trust, Verify 😁](https://www.reddit.com/r/Bitcoin/comments/1qpbh7a/dont_trust_verify/)**
 
-7h ago
+8h ago
 
 ---
 
 **[The best choice..](https://www.reddit.com/r/Bitcoin/comments/1qpac56/the_best_choice/)**
 
-8h ago
+9h ago
 
 ---
 
@@ -111,7 +111,7 @@ Rank #1
 
 Historically, the most significant portion of Bitcoin's gains come in just 10 trading days out of an entire calendar year. Most of the time in Bitcoin is spent going sideways or down. It will shake out all weak hands and tourists, and punish anyone with high time preference. Then it will reward the patience of those who spend their time studying and growing their conviction (and touching grass) during the boring or bear markets. Act accordingly
 
-2h ago
+3h ago
 
 ---
 
@@ -119,7 +119,7 @@ Historically, the most significant portion of Bitcoin's gains come in just 10 tr
 
 i use to be a multicoiner but i lost everything in 2021 in trading and scams.... i was too greedy actually and bitcoin don t reward this mindset.... it s so hard to start over from zero, even 0,01 BTC seems a lots now.... i ll never be a whole coiner again but find with it... i ll not do the same mistakes... i hope i will not... time will tell..... keep stacking guys.., see you in 10 years...
 
-11h ago
+12h ago
 
 ---
 
@@ -127,13 +127,13 @@ i use to be a multicoiner but i lost everything in 2021 in trading and scams....
 
 Is watching Bitcoin YouTube videos helping… or hurting me? Am I wasting time watching Bitcoin videos on YouTube? Am I just fooling myself into believing 10 million sats can make me free in 15 years?
 
-1h ago
+2h ago
 
 ---
 
 **[Nothing more delicious than a Bitcoin burger](https://www.reddit.com/r/Bitcoin/comments/1qp35kq/nothing_more_delicious_than_a_bitcoin_burger/)**
 
-15h ago
+16h ago
 
 ---
 
@@ -141,7 +141,7 @@ Is watching Bitcoin YouTube videos helping… or hurting me? Am I wasting time w
 
 Foundry USA’s hashrate plunged about 60%, pushing block times to as long as 14 minutes, yet bitcoin’s price and transaction fees barely moved.
 
-🔗 [Bitcoin News](https://bitcoinnews.com/p/fern-storm-bitcoin-hashrate-drops-miners-curtailment) • 6h ago
+🔗 [Bitcoin News](https://bitcoinnews.com/p/fern-storm-bitcoin-hashrate-drops-miners-curtailment) • 7h ago
 
 ---
 
@@ -153,7 +153,7 @@ Foundry USA’s hashrate plunged about 60%, pushing block times to as long as 14
 
 Bitcoin and ether options worth billions of dollars are set to expire this Friday.
 
-CoinDesk • 8h ago
+CoinDesk • 9h ago
 
 ---
 
@@ -161,7 +161,7 @@ CoinDesk • 8h ago
 
 The latest proposal closely mirrors House Bill 1202, which was introduced during the 2025 legislative session.
 
-The Block • 15h ago
+The Block • 16h ago
 
 ---
 
@@ -169,7 +169,7 @@ The Block • 15h ago
 
 South Dakota has a new bill on the table that would let the state put up to 10% of certain public funds into Bitcoin. Reports say Rep. Logan Manhart filed House Bill 1155 this week, restarting an effort that stalled last year.The measure would change state investment rules to give the State Investm…
 
-TradingView • 3h ago
+TradingView • 4h ago
 
 ---
 
@@ -177,7 +177,7 @@ TradingView • 3h ago
 
 The bill by State Representative Logan Manhart seeks to allocate as much as 10% of the state’s investment funds to the cryptocurrency.
 
-Decrypt • 6h ago
+Decrypt • 7h ago
 
 ---
 
@@ -185,7 +185,7 @@ Decrypt • 6h ago
 
 The bitcoin price hovered near $90,000 as the Fed held rates steady and Powell signaled a neutral stance — neither tightening nor rushing new cuts.
 
-Bitcoin Magazine • 39m ago
+Bitcoin Magazine • 1h ago
 
 ---
 
@@ -201,7 +201,7 @@ Yahoo Finance • 2d ago
 
 Since 2022, Grand Forks residents have lost $466,803 to bitcoin cryptocurrency, according to GFPD Det. Todd Riedinger. The scams are difficult to trace and lost money usually can't be recovered.
 
-grandforksherald.com • 8h ago
+grandforksherald.com • 9h ago
 
 ---
 
@@ -290,7 +290,7 @@ Transform HN comment threads into executive intelligence. AI analyzes discussion
 
 Reporting on Fintech, Crypto, and Blockchain Activity in Africa
 
-⬆️ 1 • 💬 0 • 2h ago • [BitKE](https://bitcoinke.io/2026/01/ozow-announces-payments-solution-by-moneybadger/)
+⬆️ 1 • 💬 0 • 3h ago • [BitKE](https://bitcoinke.io/2026/01/ozow-announces-payments-solution-by-moneybadger/)
 
 ---
 
@@ -316,7 +316,7 @@ The Dollar is breaking and the "Sell America" trade is officially on. While the 
 
 📺 Crypto Banter
 
-👁️ 23K • 👍 2K • 💬 45 • ⏱️ 26:12 • 5h ago
+👁️ 23K • 👍 2K • 💬 45 • ⏱️ 26:12 • 6h ago
 
 ---
 
@@ -326,7 +326,7 @@ Today, let's examine Bitcoin's charts and metrics, as well as the latest Macro a
 
 📺 CryptosRUs
 
-👁️ 27K • 👍 1K • 💬 263 • ⏱️ 38:00 • 4h ago
+👁️ 27K • 👍 1K • 💬 263 • ⏱️ 38:00 • 5h ago
 
 ---
 
@@ -336,7 +336,7 @@ In this solo episode, Anthony Pompliano explains why Bitcoin is lagging while go
 
 📺 Anthony Pompliano
 
-👁️ 89K • 👍 3K • 💬 159 • ⏱️ 17:45 • 1d ago
+👁️ 89K • 👍 3K • 💬 159 • ⏱️ 17:45 • 2d ago
 
 ---
 
@@ -346,7 +346,7 @@ FREE Daily On-Chain Analysis & Crypto News In 5-Mins: http://bit.ly/TheCryptoNut
 
 📺 Library Of Wealth
 
-👁️ 11K • 👍 357 • 💬 372 • ⏱️ 16:28 • 16h ago
+👁️ 11K • 👍 357 • 💬 372 • ⏱️ 16:28 • 17h ago
 
 ---
 
@@ -356,7 +356,7 @@ Silver has exploded, gold is ripping, and Bitcoin looks left behind — but hist
 
 📺 Swan Bitcoin
 
-👁️ 66K • 👍 2K • 💬 479 • ⏱️ 17:47 • 22h ago
+👁️ 66K • 👍 2K • 💬 479 • ⏱️ 17:47 • 23h ago
 
 ---
 
@@ -366,7 +366,7 @@ IT'S OVER FOR CRYPTO BLACKROCK PLACED THEIR BETS! I don't believe that crypto is
 
 📺 CryptoWendyO
 
-👁️ 37K • 👍 2K • 💬 265 • ⏱️ 3:19 • 1d ago
+👁️ 37K • 👍 2K • 💬 265 • ⏱️ 3:19 • 2d ago
 
 ---
 
@@ -376,7 +376,7 @@ Bitcoin had a brutal week, but the real story happened behind closed doors at Da
 
 📺 Simply Bitcoin
 
-👁️ 23K • 👍 2K • 💬 241 • ⏱️ 16:25 • 22h ago
+👁️ 23K • 👍 2K • 💬 241 • ⏱️ 16:25 • 23h ago
 
 ---
 
@@ -386,7 +386,7 @@ Unicoin founder and chief strategy officer Silvina Moschini discusses crypto leg
 
 📺 Fox Business Clips
 
-👁️ 64K • 👍 2K • 💬 577 • ⏱️ 7:19 • 6h ago
+👁️ 64K • 👍 2K • 💬 577 • ⏱️ 7:19 • 7h ago
 
 ---
 
@@ -396,7 +396,7 @@ Bitcoin, gold, stocks ripping, and altcoin trade ideas! BITUNIX TRADE THE TOP CO
 
 📺 Lark Davis
 
-👁️ 15K • 👍 802 • 💬 123 • ⏱️ 18:25 • 9h ago
+👁️ 15K • 👍 802 • 💬 123 • ⏱️ 18:25 • 10h ago
 
 ---
 
@@ -406,7 +406,7 @@ BTC #Bitcoin #Cryptocurrency Join Michael Saylor for his unforgettable keynote a
 
 📺 Creative Carter
 
-👁️ 4K • 👍 1K • 1h ago
+👁️ 4K • 👍 1K • 2h ago
 
 ---
 
