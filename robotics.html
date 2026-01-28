@@ -57,7 +57,7 @@
             "name": "PeekDeck",
             "url": "https://peekdeck.ruidiao.dev"
           },
-          "dateModified": "2026-01-28T10:30:19.139829+00:00"
+          "dateModified": "2026-01-28T11:24:10.999340+00:00"
         },
         {
           "@type": "BreadcrumbList",
@@ -614,6 +614,41 @@
             <!-- Carousel track -->
             <div class="carousel-track" id="reddit-carousel-robotics">
                 
+                <div class="carousel-card" onclick="window.open('https://www.reddit.com/r/robotics/comments/1qp5kc4/centimeteraccurate_indoor_tracking_for_swarming/', '_blank')">
+                    <div class="post-thumbnail">
+                        
+                        <img src="https://external-preview.redd.it/cW5pYmV4ZnVzMWdnMc4FfKCgDPA14c2gCi6LnWhsza22v69lHIgbPB_H93Gn.png?width=640&crop=smart&auto=webp&s=94951c0afad4210994ad93564b4ca61a1dcb1284" alt="Centimeter-Accurate Indoor Tracking for Swarming Drones Using Ultrasound ToF" onerror="this.style.display='none'" loading="lazy">
+                        
+                    </div>
+
+                    <div class="post-content">
+                        <!-- Post title -->
+                        <div class="post-title">
+                            <a href="https://www.reddit.com/r/robotics/comments/1qp5kc4/centimeteraccurate_indoor_tracking_for_swarming/" target="_blank" onclick="event.stopPropagation();">Centimeter-Accurate Indoor Tracking for Swarming Drones Using Ultrasound ToF</a>
+                        </div>
+
+                        <!-- Rich description (if available) -->
+                        
+                        <div class="post-description">
+                            3 x Super-Beacons as stationary beacons for precise 3D indoor positioning 1 x (Mini-RX + External Microphone + Deflector) as a mobile beacon for the drone 1 x Modem v5.1 as a central controller This is not an autonomous flight - the drone was remotely controlled. But it shows precise indoor 3D tracking capabilities for swarming drones.
+                        </div>
+                        
+
+                        <!-- Metadata -->
+                        <div class="post-meta">
+                            <div class="post-meta-line">
+                                
+                                <div class="post-meta-item">
+                                    <span data-timestamp="1769588084.0"></span>
+                                </div>
+                                
+                                <!-- External article source (on same line as time) -->
+                                
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                
                 <div class="carousel-card" onclick="window.open('https://www.reddit.com/r/robotics/comments/1qoio9e/sprout_robot_from_fauna_robotics/', '_blank')">
                     <div class="post-thumbnail">
                         
@@ -682,6 +717,41 @@
                     </div>
                 </div>
                 
+                <div class="carousel-card" onclick="window.open('https://www.reddit.com/r/robotics/comments/1qp85l2/we_built_humanoid_legs_from_scratch_in_100_days/', '_blank')">
+                    <div class="post-thumbnail">
+                        
+                        <img src="https://b.thumbs.redditmedia.com/ZfIzdT7_hb22q47yZHrHLDHkg47hKOcVsZP8NUVzRfk.jpg" alt="We built humanoid legs from scratch in 100 days" onerror="this.style.display='none'" loading="lazy">
+                        
+                    </div>
+
+                    <div class="post-content">
+                        <!-- Post title -->
+                        <div class="post-title">
+                            <a href="https://www.reddit.com/r/robotics/comments/1qp85l2/we_built_humanoid_legs_from_scratch_in_100_days/" target="_blank" onclick="event.stopPropagation();">We built humanoid legs from scratch in 100 days</a>
+                        </div>
+
+                        <!-- Rich description (if available) -->
+                        
+                        <div class="post-description">
+                            Hi, it's Emre from the Asimov team. I've been sharing our daily humanoid progress here, and thanks for your support along the way! We've open-sourced the leg design with CAD files, actuator list, and XML files for simulation. Now we're sharing a writeup on how we built it. Quick intro: Asimov is an open-source humanoid robot. We only have legs right now and are planning to finalize the full body by March 2026. It's going to be modular, so you can build the parts you need. Selling the robot isn't our priority right now. https://preview.redd.it/ljxqu6pdk2gg1.png?width=2000&format=png&auto=webp&s=71c244fb3cfc31cd5a768b7b1488babd8e04dcc0 Each leg has 6 DOF. The complete legs subsystem costs just over $10k, roughly $8.5k for actuators and joint parts, the rest for batteries and control modules. We designed for modularity and low-volume manufacturing. Most structural parts are compatible with MJF 3D printing. The only CNC requirement is the knee plate, which we simplified from a two-part assembly to a single plate. Actuators & Motors list and design files: https://github.com/asimovinc/asimov-v0 https://preview.redd.it/zalsj3eik2gg1.png?width=1200&format=png&auto=webp&s=734adca3a9d1c928acbf75cd95e44c3d4640ed93 We chose a parallel RSU ankle rather than a simple serial ankle. RSU gives us two-DOF ankles with both roll and pitch. Torque sharing between two motors means we can place heavy components closer to the hip, which improves rigidity and backdrivability. Linear actuators would have been another option, higher strength, more tendon-like look, but slower and more expensive. We added a toe joint that's articulated but not actuated. During push-off, the toe rocker helps the foot roll instead of pivoting on a rigid edge. Better traction, better forward propulsion, without adding another powered joint. https://preview.redd.it/skiqez2gk2gg1.png?width=1200&format=png&auto=webp&s=59d8951c9d20d2a10f547879a346c65e5b2e0bcf Our initial hip-pitch actuator was mounted at 45 degrees. This limited hip flexion and made sitting impossible. We're moving to a horizontal mount to recover range of motion. We're also upgrading ankle pivot components from aluminum to steel, and tightening manufacturing tolerances after missing some holes in early builds. https://preview.redd.it/o5wrtthkk2gg1.png?width=1200&format=png&auto=webp&s=5bebbe9c662e8e0a15ac6ea6b788530d0d1d66fd Next up is the upper body. We're working on arms and torso in parallel, targeting full-body integration by March. The complete robot will have 26 DOF and come in under 40kg. Sneak industrial design render of complete Asimov humanoid. Full writeup with diagrams and specs here: https://news.asimov.inc/p/how-we-built-humanoid-legs-from-the
+                        </div>
+                        
+
+                        <!-- Metadata -->
+                        <div class="post-meta">
+                            <div class="post-meta-line">
+                                
+                                <div class="post-meta-item">
+                                    <span data-timestamp="1769597440.0"></span>
+                                </div>
+                                
+                                <!-- External article source (on same line as time) -->
+                                
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                
                 <div class="carousel-card" onclick="window.open('https://www.reddit.com/r/robotics/comments/1qok4u0/meet_sprout/', '_blank')">
                     <div class="post-thumbnail">
                         
@@ -717,24 +787,20 @@
                     </div>
                 </div>
                 
-                <div class="carousel-card" onclick="window.open('https://www.reddit.com/r/robotics/comments/1qp5kc4/centimeteraccurate_indoor_tracking_for_swarming/', '_blank')">
+                <div class="carousel-card" onclick="window.open('https://www.reddit.com/r/robotics/comments/1qp7z15/dexterous_robotic_hands_2009_2014_2025/', '_blank')">
                     <div class="post-thumbnail">
                         
-                        <img src="https://external-preview.redd.it/cW5pYmV4ZnVzMWdnMc4FfKCgDPA14c2gCi6LnWhsza22v69lHIgbPB_H93Gn.png?width=640&crop=smart&auto=webp&s=94951c0afad4210994ad93564b4ca61a1dcb1284" alt="Centimeter-Accurate Indoor Tracking for Swarming Drones Using Ultrasound ToF" onerror="this.style.display='none'" loading="lazy">
+                        <img src="https://external-preview.redd.it/Y2JxdXljam9qMmdnMfeAI5aL8493wyD62N0kELvSw5N--qE9muFB8VUgRig5.png?width=640&crop=smart&auto=webp&s=a8f1b8f9bb91e3f13865914797221df413b7e967" alt="Dexterous robotic hands: 2009 - 2014 - 2025" onerror="this.style.display='none'" loading="lazy">
                         
                     </div>
 
                     <div class="post-content">
                         <!-- Post title -->
                         <div class="post-title">
-                            <a href="https://www.reddit.com/r/robotics/comments/1qp5kc4/centimeteraccurate_indoor_tracking_for_swarming/" target="_blank" onclick="event.stopPropagation();">Centimeter-Accurate Indoor Tracking for Swarming Drones Using Ultrasound ToF</a>
+                            <a href="https://www.reddit.com/r/robotics/comments/1qp7z15/dexterous_robotic_hands_2009_2014_2025/" target="_blank" onclick="event.stopPropagation();">Dexterous robotic hands: 2009 - 2014 - 2025</a>
                         </div>
 
                         <!-- Rich description (if available) -->
-                        
-                        <div class="post-description">
-                            3 x Super-Beacons as stationary beacons for precise 3D indoor positioning 1 x (Mini-RX + External Microphone + Deflector) as a mobile beacon for the drone 1 x Modem v5.1 as a central controller This is not an autonomous flight - the drone was remotely controlled. But it shows precise indoor 3D tracking capabilities for swarming drones.
-                        </div>
                         
 
                         <!-- Metadata -->
@@ -742,7 +808,38 @@
                             <div class="post-meta-line">
                                 
                                 <div class="post-meta-item">
-                                    <span data-timestamp="1769588084.0"></span>
+                                    <span data-timestamp="1769596817.0"></span>
+                                </div>
+                                
+                                <!-- External article source (on same line as time) -->
+                                
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                
+                <div class="carousel-card" onclick="window.open('https://www.reddit.com/r/robotics/comments/1qoyi0l/helix_update_makes_figure_03_move_noticeably_more/', '_blank')">
+                    <div class="post-thumbnail">
+                        
+                        <img src="https://external-preview.redd.it/Qk00B67CrIl4ZeRj5P-_Tfjpu0Xf2bgy3o2lIzwantU.png?width=640&crop=smart&auto=webp&s=73ae382fa1a69cb0efcc79364701b88097108aad" alt="Helix update makes Figure 03 move noticeably more human. Thoughts?" onerror="this.style.display='none'" loading="lazy">
+                        
+                    </div>
+
+                    <div class="post-content">
+                        <!-- Post title -->
+                        <div class="post-title">
+                            <a href="https://www.reddit.com/r/robotics/comments/1qoyi0l/helix_update_makes_figure_03_move_noticeably_more/" target="_blank" onclick="event.stopPropagation();">Helix update makes Figure 03 move noticeably more human. Thoughts?</a>
+                        </div>
+
+                        <!-- Rich description (if available) -->
+                        
+
+                        <!-- Metadata -->
+                        <div class="post-meta">
+                            <div class="post-meta-line">
+                                
+                                <div class="post-meta-item">
+                                    <span data-timestamp="1769566780.0"></span>
                                 </div>
                                 
                                 <!-- External article source (on same line as time) -->
@@ -778,37 +875,6 @@
                                 
                                 <div class="post-meta-item">
                                     <span data-timestamp="1769560076.0"></span>
-                                </div>
-                                
-                                <!-- External article source (on same line as time) -->
-                                
-                            </div>
-                        </div>
-                    </div>
-                </div>
-                
-                <div class="carousel-card" onclick="window.open('https://www.reddit.com/r/robotics/comments/1qoyi0l/helix_update_makes_figure_03_move_noticeably_more/', '_blank')">
-                    <div class="post-thumbnail">
-                        
-                        <img src="https://external-preview.redd.it/Qk00B67CrIl4ZeRj5P-_Tfjpu0Xf2bgy3o2lIzwantU.png?width=640&crop=smart&auto=webp&s=73ae382fa1a69cb0efcc79364701b88097108aad" alt="Helix update makes Figure 03 move noticeably more human. Thoughts?" onerror="this.style.display='none'" loading="lazy">
-                        
-                    </div>
-
-                    <div class="post-content">
-                        <!-- Post title -->
-                        <div class="post-title">
-                            <a href="https://www.reddit.com/r/robotics/comments/1qoyi0l/helix_update_makes_figure_03_move_noticeably_more/" target="_blank" onclick="event.stopPropagation();">Helix update makes Figure 03 move noticeably more human. Thoughts?</a>
-                        </div>
-
-                        <!-- Rich description (if available) -->
-                        
-
-                        <!-- Metadata -->
-                        <div class="post-meta">
-                            <div class="post-meta-line">
-                                
-                                <div class="post-meta-item">
-                                    <span data-timestamp="1769566780.0"></span>
                                 </div>
                                 
                                 <!-- External article source (on same line as time) -->
@@ -903,72 +969,6 @@
                     </div>
                 </div>
                 
-                <div class="carousel-card" onclick="window.open('https://www.reddit.com/r/robotics/comments/1qonvka/unitree_g1_fully_body_teleoperation_using_a_pico4/', '_blank')">
-                    <div class="post-thumbnail">
-                        
-                        <img src="https://external-preview.redd.it/ZuKQD5KA8gWGr3M0DX_FGi01_uUNSpbYmJdsEC_ag6E.png?width=640&crop=smart&auto=webp&s=0842a741e7ea7a0a72b60010419d676474c5cd06" alt="Unitree G1 fully Body Teleoperation using a Pico4 and Twist2 Framework" onerror="this.style.display='none'" loading="lazy">
-                        
-                    </div>
-
-                    <div class="post-content">
-                        <!-- Post title -->
-                        <div class="post-title">
-                            <a href="https://www.reddit.com/r/robotics/comments/1qonvka/unitree_g1_fully_body_teleoperation_using_a_pico4/" target="_blank" onclick="event.stopPropagation();">Unitree G1 fully Body Teleoperation using a Pico4 and Twist2 Framework</a>
-                        </div>
-
-                        <!-- Rich description (if available) -->
-                        
-
-                        <!-- Metadata -->
-                        <div class="post-meta">
-                            <div class="post-meta-line">
-                                
-                                <div class="post-meta-item">
-                                    <span data-timestamp="1769542158.0"></span>
-                                </div>
-                                
-                                <!-- External article source (on same line as time) -->
-                                
-                            </div>
-                        </div>
-                    </div>
-                </div>
-                
-                <div class="carousel-card" onclick="window.open('https://www.reddit.com/r/robotics/comments/1qo8u7i/opensourcing_asimov_legs_a_bipedal_robotic_system/', '_blank')">
-                    <div class="post-thumbnail">
-                        
-                        <img src="https://external-preview.redd.it/YzRnOHV4eXl4dWZnMbsAIJAhVtE6PMOanCzGbeO1qDtSuNm2rqbeca3t6KLa.png?width=640&crop=smart&auto=webp&s=25aedcdf1ecfcf8d9cd688e6da7164e6b9b8dea2" alt="Open-sourcing Asimov Legs, a bipedal robotic system" onerror="this.style.display='none'" loading="lazy">
-                        
-                    </div>
-
-                    <div class="post-content">
-                        <!-- Post title -->
-                        <div class="post-title">
-                            <a href="https://www.reddit.com/r/robotics/comments/1qo8u7i/opensourcing_asimov_legs_a_bipedal_robotic_system/" target="_blank" onclick="event.stopPropagation();">Open-sourcing Asimov Legs, a bipedal robotic system</a>
-                        </div>
-
-                        <!-- Rich description (if available) -->
-                        
-                        <div class="post-description">
-                            We're open-sourcing Asimov Legs, a bipedal robotic system. We've been building in public and sharing daily progress, now the full design is out. A complete leg design with 6 DOF per leg, RSU ankle architecture, passive toe joints. Built with off-the-shelf components and compatible with MJF 3D printing. What's included: - Full mechanical CAD (STEP files) - Motors & actuators list - XML files for simulation (MuJoCo) Most of the structure is MJF-printable plastic. The only part that needs CNC is the knee plate, and we spent weeks simplifying that from a 2-part assembly down to a single plate. If you don't have access to industrial MJF, casting or regular 3D printing works too. Repo for all: https://github.com/asimovinc/asimov-v0 Happy to answer questions about the design choices.
-                        </div>
-                        
-
-                        <!-- Metadata -->
-                        <div class="post-meta">
-                            <div class="post-meta-line">
-                                
-                                <div class="post-meta-item">
-                                    <span data-timestamp="1769504747.0"></span>
-                                </div>
-                                
-                                <!-- External article source (on same line as time) -->
-                                
-                            </div>
-                        </div>
-                    </div>
-                </div>
-                
 
                 <!-- View All button at end of carousel -->
                 <div class="carousel-card"
@@ -992,7 +992,7 @@
 
     </div>
     <div class="widget-footer">
-        <small data-timestamp="2026-01-28T09:35:40.313588+00:00">Updated 2026-01-28T09:35:40.313588+00:00</small>
+        <small data-timestamp="2026-01-28T11:23:48.189652+00:00">Updated 2026-01-28T11:23:48.189652+00:00</small>
     </div>
 </div>
 
@@ -1297,47 +1297,6 @@
                     </div>
                 </div>
                 
-                <div class="carousel-card" onclick="window.open('https://sherwood.news/markets/richtech-robotics-soars-after-announcing-partnership-with-microsoft-to-use/', '_blank')">
-                    <!-- Rich preview thumbnail (with fallback icon) -->
-                    <div class="article-thumbnail" style="background-image: url('https://sherwoodnews.imgix.net/mwphzyq69oso/en-US/assets/files/2192558417_las-vegas-usa-adam-a-robot-bartender-seen-on-the-third-day-of-the-consumer-electronics-show.jpg?auto=compress%2Cformat&cs=srgb');"></div>
-
-                    <div class="article-content">
-                        <!-- Article headline (fixed 3-line height) -->
-                        <div class="news-headline">
-                            <a href="https://sherwood.news/markets/richtech-robotics-soars-after-announcing-partnership-with-microsoft-to-use/" target="_blank" onclick="event.stopPropagation();">Richtech Robotics soars after announcing partnership with Microsoft to use AI to improve its robots</a>
-                        </div>
-
-                        <!-- Rich description (if available) -->
-                        
-                        <div class="article-description">
-                            The most momentous day for ADAM since serving Jensen Huang a margarita....
-                        </div>
-                        
-
-                        <!-- Metadata (source, time) -->
-                        <div class="news-meta">
-                            <div class="news-meta-line">
-                                
-                                <div class="news-meta-item news-source">
-                                    
-                                    <img src="https://encrypted-tbn2.gstatic.com/faviconV2?url=https://sherwood.news&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
-                                         alt="Sherwood News" class="news-favicon">
-                                    <a href="https://sherwood.news" target="_blank" onclick="event.stopPropagation();">Sherwood News</a>
-                                    
-                                </div>
-                                
-                            </div>
-                            <div class="news-meta-line">
-                                
-                                <div class="news-meta-item">
-                                    <span data-timestamp="1769522323.0"></span>
-                                </div>
-                                
-                            </div>
-                        </div>
-                    </div>
-                </div>
-                
                 <div class="carousel-card" onclick="window.open('https://www.stocktitan.net/news/RR/richtech-robotics-collaborates-with-microsoft-to-advance-agentic-ai-2ptsobdmvovn.html', '_blank')">
                     <!-- Rich preview thumbnail (with fallback icon) -->
                     <div class="article-thumbnail" style="background-image: url('https://www.stocktitan.net/news_covers/Richtech_Robotics_Collaborates_with_Microsoft_to_Advance_Agentic_AI_in_Real_World_Robotics_Applicati_1003906.png');"></div>
@@ -1372,6 +1331,47 @@
                                 
                                 <div class="news-meta-item">
                                     <span data-timestamp="1769518800.0"></span>
+                                </div>
+                                
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                
+                <div class="carousel-card" onclick="window.open('https://sherwood.news/markets/richtech-robotics-soars-after-announcing-partnership-with-microsoft-to-use/', '_blank')">
+                    <!-- Rich preview thumbnail (with fallback icon) -->
+                    <div class="article-thumbnail" style="background-image: url('https://sherwoodnews.imgix.net/mwphzyq69oso/en-US/assets/files/2192558417_las-vegas-usa-adam-a-robot-bartender-seen-on-the-third-day-of-the-consumer-electronics-show.jpg?auto=compress%2Cformat&cs=srgb');"></div>
+
+                    <div class="article-content">
+                        <!-- Article headline (fixed 3-line height) -->
+                        <div class="news-headline">
+                            <a href="https://sherwood.news/markets/richtech-robotics-soars-after-announcing-partnership-with-microsoft-to-use/" target="_blank" onclick="event.stopPropagation();">Richtech Robotics soars after announcing partnership with Microsoft to use AI to improve its robots</a>
+                        </div>
+
+                        <!-- Rich description (if available) -->
+                        
+                        <div class="article-description">
+                            The most momentous day for ADAM since serving Jensen Huang a margarita....
+                        </div>
+                        
+
+                        <!-- Metadata (source, time) -->
+                        <div class="news-meta">
+                            <div class="news-meta-line">
+                                
+                                <div class="news-meta-item news-source">
+                                    
+                                    <img src="https://encrypted-tbn2.gstatic.com/faviconV2?url=https://sherwood.news&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+                                         alt="Sherwood News" class="news-favicon">
+                                    <a href="https://sherwood.news" target="_blank" onclick="event.stopPropagation();">Sherwood News</a>
+                                    
+                                </div>
+                                
+                            </div>
+                            <div class="news-meta-line">
+                                
+                                <div class="news-meta-item">
+                                    <span data-timestamp="1769522323.0"></span>
                                 </div>
                                 
                             </div>
@@ -1461,47 +1461,6 @@
                     </div>
                 </div>
                 
-                <div class="carousel-card" onclick="window.open('https://abcnews.go.com/Technology/wireStory/ready-robots-homes-maker-friendly-new-humanoid-thinks-129594260', '_blank')">
-                    <!-- Rich preview thumbnail (with fallback icon) -->
-                    <div class="article-thumbnail" style="background-image: url('https://i.abcnewsfe.com/a/3d6909b9-7de6-4480-9646-4d1db1dfc226/wirestory_57b396cd6f4b98ef83913a5efa9e0db2_16x9.jpg?w=1600');"></div>
-
-                    <div class="article-content">
-                        <!-- Article headline (fixed 3-line height) -->
-                        <div class="news-headline">
-                            <a href="https://abcnews.go.com/Technology/wireStory/ready-robots-homes-maker-friendly-new-humanoid-thinks-129594260" target="_blank" onclick="event.stopPropagation();">Not ready for robots in homes? The maker of a friendly new humanoid thinks it might change your mind</a>
-                        </div>
-
-                        <!-- Rich description (if available) -->
-                        
-                        <div class="article-description">
-                            A new humanoid robot named Sprout, developed by Fauna Robotics, is making its debut
-                        </div>
-                        
-
-                        <!-- Metadata (source, time) -->
-                        <div class="news-meta">
-                            <div class="news-meta-line">
-                                
-                                <div class="news-meta-item news-source">
-                                    
-                                    <img src="https://encrypted-tbn2.gstatic.com/faviconV2?url=https://abcnews.go.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
-                                         alt="ABC News" class="news-favicon">
-                                    <a href="https://abcnews.go.com" target="_blank" onclick="event.stopPropagation();">ABC News</a>
-                                    
-                                </div>
-                                
-                            </div>
-                            <div class="news-meta-line">
-                                
-                                <div class="news-meta-item">
-                                    <span data-timestamp="1769521449.0"></span>
-                                </div>
-                                
-                            </div>
-                        </div>
-                    </div>
-                </div>
-                
                 <div class="carousel-card" onclick="window.open('https://www.bloomberg.com/news/articles/2026-01-28/south-korea-exceeds-germany-s-market-cap-on-ai-robotics-craze', '_blank')">
                     <!-- Rich preview thumbnail (with fallback icon) -->
                     <div class="article-thumbnail" ></div>
@@ -1539,20 +1498,20 @@
                     </div>
                 </div>
                 
-                <div class="carousel-card" onclick="window.open('https://www.globaltimes.cn/page/202601/1354224.shtml', '_blank')">
+                <div class="carousel-card" onclick="window.open('https://abcnews.go.com/Technology/wireStory/ready-robots-homes-maker-friendly-new-humanoid-thinks-129594260', '_blank')">
                     <!-- Rich preview thumbnail (with fallback icon) -->
-                    <div class="article-thumbnail" style="background-image: url('https://www.globaltimes.cn/Portals/0/attachment/2025/2025-01-09/64633ac5-48d5-4d03-9e3d-ceb79dfe1fa2.jpeg');"></div>
+                    <div class="article-thumbnail" style="background-image: url('https://i.abcnewsfe.com/a/3d6909b9-7de6-4480-9646-4d1db1dfc226/wirestory_57b396cd6f4b98ef83913a5efa9e0db2_16x9.jpg?w=1600');"></div>
 
                     <div class="article-content">
                         <!-- Article headline (fixed 3-line height) -->
                         <div class="news-headline">
-                            <a href="https://www.globaltimes.cn/page/202601/1354224.shtml" target="_blank" onclick="event.stopPropagation();">Unitree Robotics announces ‘encore’ at 2026 Spring Festival Gala after breakout 2025 performance</a>
+                            <a href="https://abcnews.go.com/Technology/wireStory/ready-robots-homes-maker-friendly-new-humanoid-thinks-129594260" target="_blank" onclick="event.stopPropagation();">Not ready for robots in homes? The maker of a friendly new humanoid thinks it might change your mind</a>
                         </div>
 
                         <!-- Rich description (if available) -->
                         
                         <div class="article-description">
-                            Chinese robotics firm Unitree Robotics announced on Monday that it has become a robot cooperation partner for China Media Group's (CMG) Spring Festival Gala for the Year of the Horse, marking its third collaboration with the gala, following a robot ox performance in 2021 and a humanoid robot yangko dance show at the 2025 event, according to its social media post.
+                            A new humanoid robot named Sprout, developed by Fauna Robotics, is making its debut
                         </div>
                         
 
@@ -1562,9 +1521,9 @@
                                 
                                 <div class="news-meta-item news-source">
                                     
-                                    <img src="https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.globaltimes.cn&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
-                                         alt="Global Times" class="news-favicon">
-                                    <a href="https://www.globaltimes.cn" target="_blank" onclick="event.stopPropagation();">Global Times</a>
+                                    <img src="https://encrypted-tbn2.gstatic.com/faviconV2?url=https://abcnews.go.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+                                         alt="ABC News" class="news-favicon">
+                                    <a href="https://abcnews.go.com" target="_blank" onclick="event.stopPropagation();">ABC News</a>
                                     
                                 </div>
                                 
@@ -1572,7 +1531,48 @@
                             <div class="news-meta-line">
                                 
                                 <div class="news-meta-item">
-                                    <span data-timestamp="1769436180.0"></span>
+                                    <span data-timestamp="1769586924.0"></span>
+                                </div>
+                                
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                
+                <div class="carousel-card" onclick="window.open('https://interestingengineering.com/innovation/magnetic-polymer-artificial-muscles-soft-robotics', '_blank')">
+                    <!-- Rich preview thumbnail (with fallback icon) -->
+                    <div class="article-thumbnail" style="background-image: url('https://cms.interestingengineering.com/wp-content/uploads/2026/01/image-1920x1080-2026-01-24T192925.003.png');"></div>
+
+                    <div class="article-content">
+                        <!-- Article headline (fixed 3-line height) -->
+                        <div class="news-headline">
+                            <a href="https://interestingengineering.com/innovation/magnetic-polymer-artificial-muscles-soft-robotics" target="_blank" onclick="event.stopPropagation();">New magnetic polymer enables stronger and more flexible artificial muscles in soft robotics</a>
+                        </div>
+
+                        <!-- Rich description (if available) -->
+                        
+                        <div class="article-description">
+                            Researchers developed a dual cross-linked magnetic polymer that combines high stretchability with record work density.
+                        </div>
+                        
+
+                        <!-- Metadata (source, time) -->
+                        <div class="news-meta">
+                            <div class="news-meta-line">
+                                
+                                <div class="news-meta-item news-source">
+                                    
+                                    <img src="https://encrypted-tbn2.gstatic.com/faviconV2?url=https://interestingengineering.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+                                         alt="Interesting Engineering" class="news-favicon">
+                                    <a href="https://interestingengineering.com" target="_blank" onclick="event.stopPropagation();">Interesting Engineering</a>
+                                    
+                                </div>
+                                
+                            </div>
+                            <div class="news-meta-line">
+                                
+                                <div class="news-meta-item">
+                                    <span data-timestamp="1769312160.0"></span>
                                 </div>
                                 
                             </div>
@@ -1600,7 +1600,7 @@
 
     </div>
     <div class="widget-footer">
-        <small data-timestamp="2026-01-28T09:35:53.138280+00:00">Updated 2026-01-28T09:35:53.138280+00:00</small>
+        <small data-timestamp="2026-01-28T11:24:01.170731+00:00">Updated 2026-01-28T11:24:01.170731+00:00</small>
     </div>
 </div>
 

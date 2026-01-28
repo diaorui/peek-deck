@@ -3,14 +3,14 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-01-28T10:30:19.583359+00:00'
+updated: '2026-01-28T11:24:11.373621+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- videos
 - cryptocurrency
 - social
+- videos
 - news
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** January 28, 2026 at 10:30 UTC  
+**Last Updated:** January 28, 2026 at 11:24 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -36,17 +36,17 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Price
 
-### $3,010.47
+### $3,019.84
 
 ---
 
 ## Ethereum Chart
 
-**24h:** +3.2%  
-**7d:** +1.5%  
-**30d:** +0.7%  
-**90d:** -22.2%  
-**1y:** -3.7%  
+**24h:** +3.5%  
+**7d:** +2.3%  
+**30d:** +1.5%  
+**90d:** -21.6%  
+**1y:** -2.9%  
 
 ---
 
@@ -72,13 +72,13 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-4h ago
+5h ago
 
 ---
 
 **[Pouring one out for Week in Ethereum News 🥃 Website is offline. Thank you Evan Van Ness for your tireless efforts serving the Ethereum community. 🙏](https://www.reddit.com/r/ethereum/comments/1qp227f/pouring_one_out_for_week_in_ethereum_news_website/)**
 
-5h ago
+6h ago
 
 ---
 
@@ -86,7 +86,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 Hi r/ethereum, I’ve been running a personal experiment called FitVow. The idea is simple: I stake real ETH into a smart contract, commit to weekly physical activity goals, and let the contract enforce the rules without a trusted referee. Each week, an Android app reads physical activity data from my smartwatch and publishes it on-chain (e.g. runs, workouts and etc). The contract uses that data to decide whether that week’s goals were met. If a week fails: that week creates an enforceable fine (paid out from the stake) enforcement is permissionless (anyone can trigger it) the fine is split between the enforcer (caller) and a charity wallet (Giveth) At the end of the challenge, I’m allowed to withdraw whatever remains of the stake after any fines. There’s no backend deciding outcomes and no admin override. Once deployed, the rules are the rules. This is not a product — just an experiment exploring whether Ethereum is a good tool for credible self-commitment outside of DeFi. Live dashboard (reads directly from on-chain data): https://fitvow.pedroaugusto.dev/ Technical write-up (architecture + security assumptions): https://pedrooaugusto.github.io/blog/posts/making-missed-workouts-cost-money-with-smart-contracts/ I’d love feedback — especially on whether this feels like a reasonable use of Ethereum, and what you’d poke holes in.
 
-17h ago
+18h ago
 
 ---
 
@@ -100,7 +100,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 **[Built a little ethereum wallet for a metamask interview](https://www.reddit.com/r/ethereum/comments/1qon8y9/built_a_little_ethereum_wallet_for_a_metamask/)**
 
-15h ago
+16h ago
 
 ---
 
@@ -124,7 +124,7 @@ Hey r/defi. My name is Matt and I have built something different. EqualFi offers
 
 I am trying to create a delegate wallet for every user which is connected to my dApp. I intend to have access to the private key so that I can initiate and sign transactions on the users behalf. So I am thinking of making the wallet pub and priv key on client side and I don't want the priv key to ever leave client's browser. Is it possible to implement something like this ? I use Privy for siwe if that can help me in any way.
 
-23h ago
+1d ago
 
 ---
 
@@ -148,6 +148,14 @@ Bluechip (independent stablecoin rating agency) just published their rating for 
 
 ## Google News: "ethereum"
 
+**[Ethereum to launch standard for AI agent economy on mainnet this week](https://www.theblock.co/post/387345/ethereum-ai-agentic-economy-mainnet)**
+
+The ERC-8004 proposal aims to let AI agents interact with entities on Ethereum, allowing them to participate in a decentralized economy.
+
+The Block • 4h ago
+
+---
+
 **[Ethereum vs Polkadot: Which Is More Likely to Be a Millionaire-Maker?](https://www.fool.com/investing/2026/01/26/ethereum-vs-polkadot-which-is-more-likely-to-be-a/)**
 
 Should you invest in the blue chip token or the smaller altcoin?
@@ -156,11 +164,11 @@ The Motley Fool • 1d ago
 
 ---
 
-**[Morning Minute: Ethereum Prepares for the Quantum Era](https://decrypt.co/355831/morning-minute-ethereum-prepares-for-the-quantum-era)**
+**[Are Trump's Tariffs Helping Ethereum, or Hurting It?](https://finance.yahoo.com/news/trumps-tariffs-helping-ethereum-hurting-095600996.html)**
 
-The Ethereum Foundation is starting to prepare one of the biggest risks facing the crypto industry: quantum computing.
+Technically, the tariffs shouldn't do anything at all to this coin.
 
-Decrypt • 1d ago
+Yahoo Finance • 1h ago
 
 ---
 
@@ -168,7 +176,15 @@ Decrypt • 1d ago
 
 A new Ethereum standard seeks to give AI agents portable identities and reputations, letting them interact across companies and chains without relying on centralized gatekeepers.
 
-CoinDesk • 2h ago
+CoinDesk • 3h ago
+
+---
+
+**[Ethereum unveils new rules to make AI agents turstworthy](https://sg.news.yahoo.com/ethereum-unveils-rules-ai-agents-071919181.html)**
+
+A new Ethereum standard seeks to give AI agents portable identities and reputations, letting them interact across companies and chains without relying on centralized gatekeepers.
+
+Yahoo News Singapore • 4h ago
 
 ---
 
@@ -178,27 +194,9 @@ Binance • 1d ago
 
 ---
 
-**[Tom Lee's BitMine Makes Biggest Ethereum Buy Yet in 2026](https://finance.yahoo.com/news/tom-lees-bitmine-makes-biggest-155303327.html)**
+**[Bitcoin, Ethereum, XRP Rise. Why the Sell America Trade Has Gripped Cryptos.](https://www.barrons.com/articles/bitcoin-ethereum-xrp-crypto-today-18fbb937?gaa_at=eafs&gaa_n=AWEtsqcgCsNhy0f1dtlZUGeAlZqomMGKojqcTCMUK7TCBKD8CNSzpSyHoGvX&gaa_ts=6979f545&gaa_sig=qJiL9QMsxbxyRpBpF9v9tOlPcnSeP0QXXcf3yEMqya_lNR3bI2ovUGDDi8AGYEG9ayqM1O4rHftgNovj9V8jRA%3D%3D)**
 
-Publicly traded Ethereum treasury firm BitMine Immersion Technologies added to its stash with its largest ETH acquisition of the year so far.
-
-Yahoo Finance • 1d ago
-
----
-
-**[After BlackRock’s Ethereum nod: Tom Lee buys $118m of crypto as price dips](https://www.dlnews.com/articles/markets/tom-lee-buys-118m-of-ethereum-as-price-dips/)**
-
-Ethereum is still down 40% from all-time high. Digital asset treasury firm Bitmine is buying the dip. Wall Street bets big on Ethereum for tokenisation.
-
-dlnews.com • 1d ago
-
----
-
-**[BitMine Highlights Massive Ethereum Treasury and Staking Strategy](https://www.tipranks.com/news/company-announcements/bitmine-highlights-massive-ethereum-treasury-and-staking-strategy)**
-
-The latest announcement is out from BitMine Immersion Technologies ( ($BMNR) ). On January 23, 2026, Bitmine Immersion Technologies appointed its current Chief Fina...
-
-TipRanks • 1d ago
+Barron's • 34m ago
 
 ---
 
@@ -210,17 +208,19 @@ thedefiant.io • 1d ago
 
 ---
 
-**[Ethereum Foundation forms post-quantum security team, adds $1 million research prize](https://www.theblock.co/post/386938/ethereum-foundation-forms-post-quantum-security-team-adds-1-million-research-prize)**
+**[Tom Lee's BitMine Makes Biggest Ethereum Buy Yet in 2026](https://finance.yahoo.com/news/tom-lees-bitmine-makes-biggest-155303327.html)**
 
-The Block • 3d ago
+Publicly traded Ethereum treasury firm BitMine Immersion Technologies added to its stash with its largest ETH acquisition of the year so far.
+
+Yahoo Finance • 1d ago
 
 ---
 
-**[XRP, Ethereum Now ‘Undervalued’ On MVRV, Says Santiment](https://www.tradingview.com/news/newsbtc:3378aa0c9094b:0-xrp-ethereum-now-undervalued-on-mvrv-says-santiment/)**
+**[BitMine Highlights Massive Ethereum Treasury and Staking Strategy](https://www.tipranks.com/news/company-announcements/bitmine-highlights-massive-ethereum-treasury-and-staking-strategy)**
 
-On-chain analytics firm Santiment has pointed out how XRP and Ethereum are among coins sitting in the MVRV Ratio’s “undervalued” zone.30-Day MVRV Is Negative For XRP & EthereumIn a new post on X, on-chain analytics firm Santiment has talked about where some notable cryptocurrencies like XRP and Bit…
+The latest announcement is out from BitMine Immersion Technologies ( ($BMNR) ). On January 23, 2026, Bitmine Immersion Technologies appointed its current Chief Fina...
 
-TradingView • 1d ago
+TipRanks • 1d ago
 
 ---
 
@@ -234,7 +234,7 @@ FREE Daily On-Chain Analysis & Crypto News In 5-Mins: http://bit.ly/TheCryptoNut
 
 📺 Library Of Wealth
 
-👁️ 2K • 👍 127 • 💬 133 • ⏱️ 16:28 • 5h ago
+👁️ 2K • 👍 127 • 💬 133 • ⏱️ 16:28 • 6h ago
 
 ---
 
@@ -244,7 +244,7 @@ Tom Lee Just Said The UNTHINKABLE About Bitcoin & Ethereum! [2026 New Prediction
 
 📺 Crypto Nutshell
 
-👁️ 22K • 👍 630 • 💬 100 • ⏱️ 14:37 • 19h ago
+👁️ 22K • 👍 630 • 💬 100 • ⏱️ 14:37 • 20h ago
 
 ---
 
@@ -254,7 +254,7 @@ FREE TRAINING: https://www.bullmania.com EXCHANGES I USE (bybit, pionex): https:
 
 📺 Ivan on Tech
 
-👁️ 2K • 👍 192 • 1h ago
+👁️ 2K • 👍 192 • 2h ago
 
 ---
 
@@ -264,7 +264,7 @@ This video provides a professional Elliott Wave and technical analysis of Ethere
 
 📺 More Crypto Online
 
-👁️ 1K • 👍 92 • 💬 7 • ⏱️ 4:42 • 8h ago
+👁️ 1K • 👍 92 • 💬 7 • ⏱️ 4:42 • 9h ago
 
 ---
 
@@ -324,7 +324,7 @@ This video provides a professional Elliott Wave and technical analysis of Ethere
 
 📺 More Crypto Online
 
-👁️ 2K • 👍 114 • 💬 9 • ⏱️ 4:08 • 16h ago
+👁️ 2K • 👍 114 • 💬 9 • ⏱️ 4:08 • 17h ago
 
 ---
 

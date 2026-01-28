@@ -3,14 +3,14 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-01-28T10:30:19.569180+00:00'
+updated: '2026-01-28T11:24:11.359110+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- videos
-- social
 - repositories
+- social
+- videos
 - news
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 AI news, discussions, and developments
 
-**Last Updated:** January 28, 2026 at 10:30 UTC  
+**Last Updated:** January 28, 2026 at 11:24 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -39,15 +39,7 @@ AI news, discussions, and developments
 
 **[Trump’s acting cyber chief uploaded sensitive files into a public version of ChatGPT. The interim director of the Cybersecurity and Infrastructure Security Agency triggered an internal cybersecurity warning with the uploads — and a DHS-level damage assessment.](https://www.reddit.com/r/artificial/comments/1qozsna/trumps_acting_cyber_chief_uploaded_sensitive/)**
 
-🔗 [politico.com](https://www.politico.com/news/2026/01/27/cisa-madhu-gottumukkala-chatgpt-00749361) • 7h ago
-
----
-
-**[Installed MoltBot locally. Powerful… but I uninstalled it the same day.](https://www.reddit.com/r/artificial/comments/1qot8pk/installed_moltbot_locally_powerful_but_i/)**
-
-Tried ClawdBot (now MoltBot) on a freshly installed system. At first? 🔥 Insane. It found a pitch deck buried in my messy external HDD and even sent it on WhatsApp. Super impressive. Few hours later — I get an Amazon alert: • Login at 2:40 AM • Different location • Logged in from Windows • I’m on Linux • I did NOT log in Could be a false alert (I have 2FA), but the timing freaked me out. Tried uninstalling the bot — no clear guide. Had to dig into code, found it running as a system service, manually removed everything. Realized my mistake: Chrome was installed → password manager + sessions were there. ⚠️ Lesson: These tools are powerful, but don’t install them unless you fully understand what access you’re giving. Not accusing. Just sharing experience. If you know a guide to uninstall if it’s available on the site, please drop it.
-
-11h ago
+🔗 [politico.com](https://www.politico.com/news/2026/01/27/cisa-madhu-gottumukkala-chatgpt-00749361) • 8h ago
 
 ---
 
@@ -55,13 +47,29 @@ Tried ClawdBot (now MoltBot) on a freshly installed system. At first? 🔥 Insan
 
 After the Claude/Anthropic incident where AI was used in a large-scale cyberattack, we've been publishing weekly threat intelligence on what's actually targeting AI agents in production. This week (74,636 interactions monitored) 37.8% contained attack attempts 74.8% of those were cybersecurity-related (malware gen, exploits) The new threat nobody's talking about: Inter-Agent Attacks As people deploy multi-agent systems, attackers are sending poisoned messages designed to propagate from one agent to another. We're seeing: Agent impersonation Goal hijacking Constraint removal Recursive attack propagation This is 3.4% of threats now, detected at 97.7% confidence. Top attack categories Data exfiltration (19.2%) - stealing system prompts and context Jailbreaks (12.3%) RAG poisoning (10.0%) Prompt injection (8.8%) The ClawdBot incident was the canary. If your AI can take actions, it's a target. Full report: https://raxe.ai/threat-intelligence Github: https://github.com/raxe-ai/raxe-ce is free for the community to use
 
-2h ago
+3h ago
+
+---
+
+**[Amazon is laying off 16,000 employees as AI battle intensifies](https://www.reddit.com/r/artificial/comments/1qp8i5k/amazon_is_laying_off_16000_employees_as_ai_battle/)**
+
+Amazon is laying off 16,000 employees, the company’s second round of massive job reductions in two months as it fights to improve its standing in the battle for AI supremacy.
+
+🔗 [CNN](https://www.cnn.com/2026/01/28/tech/amazon-layoffs-ai?utm_medium=social&utm_campaign=missions&utm_source=reddit) • 14m ago
+
+---
+
+**[Installed MoltBot locally. Powerful… but I uninstalled it the same day.](https://www.reddit.com/r/artificial/comments/1qot8pk/installed_moltbot_locally_powerful_but_i/)**
+
+Tried ClawdBot (now MoltBot) on a freshly installed system. At first? 🔥 Insane. It found a pitch deck buried in my messy external HDD and even sent it on WhatsApp. Super impressive. Few hours later — I get an Amazon alert: • Login at 2:40 AM • Different location • Logged in from Windows • I’m on Linux • I did NOT log in Could be a false alert (I have 2FA), but the timing freaked me out. Tried uninstalling the bot — no clear guide. Had to dig into code, found it running as a system service, manually removed everything. Realized my mistake: Chrome was installed → password manager + sessions were there. ⚠️ Lesson: These tools are powerful, but don’t install them unless you fully understand what access you’re giving. Not accusing. Just sharing experience. If you know a guide to uninstall if it’s available on the site, please drop it.
+
+12h ago
 
 ---
 
 **[Pinterest lays off hundreds, citing need for 'AI-proficient talent'](https://www.reddit.com/r/artificial/comments/1qotqu1/pinterest_lays_off_hundreds_citing_need_for/)**
 
-🔗 [sfgate.com](https://www.sfgate.com/tech/article/pinterest-layoffs-hundreds-ai-21318302.php) • 11h ago
+🔗 [sfgate.com](https://www.sfgate.com/tech/article/pinterest-layoffs-hundreds-ai-21318302.php) • 12h ago
 
 ---
 
@@ -69,7 +77,7 @@ After the Claude/Anthropic incident where AI was used in a large-scale cyberatta
 
 This question came to me as I was reading this article (Tesla has fallen behind BYD in terms of vehicle sales. Not to worry because Tesla is a AI & Robotics company). It says this: So, either: Tesla has a data advantage for self-driving car, in which case Tesla does not have a data advantage for humanoid robots (unless they have been collecting humanoid robot centric data for the last decade unknown to public knowledge). This means that Tesla will dominate autonomous driving, but there will be aggressive competition for autonomous humanoid robots, with no guarantee that Tesla’s Optimus will come out on top. OR Humanoid robots can be trained in simulated virtual worlds, in which case self-driving cars can also be trained in a similar manner in theory. In this case Tesla does not have the data advantage. I am curious if its possible to train humanoid robots exclusively on virtual/simulated worlds like Nvidia's omniverse Isaac Sim - Robotics Simulation and Synthetic Data Generation | NVIDIA Developer
 
-2h ago
+3h ago
 
 ---
 
@@ -77,7 +85,7 @@ This question came to me as I was reading this article (Tesla has fallen behind 
 
 I’ve been messing around with all these AI tools lately—Suno, that ACE vocal thing, Udio—and I realized something that kind of creeps me out. I gave them all the same prompt: "Create a genre that doesn't exist. Make it as dissonant and ugly as possible." I wanted clashing scales, vocals that sounded like they were actually dying, just total sonic chaos. And you know what? They couldn't do it. Every single one of them spit out something that sounded... professional. Mainstream. Even when I told them to go off-key, it felt like they were just "pretending" to be bad within a very safe, melodic box. It hit me then: AI isn't capable of true ugliness because it doesn't understand intent. To the real creators out there: your biggest advantage isn't being "perfect"—the AI has already won that race. Your advantage is being unexpected. It's the emotions that don't have a tag yet and the styles that sound "wrong" until they feel right。
 
-3h ago
+4h ago
 
 ---
 
@@ -85,7 +93,7 @@ I’ve been messing around with all these AI tools lately—Suno, that ACE vocal
 
 Google released new developer tools for Google AI Pro and Ultra subscribers.[1] FDA official offers tips on leveraging AI in drug manufacturing.[2] OpenAI released Prism, a free workspace for scientific writing and collaboration, with GPT‑5.2.[3] Microsoft Pledged to Save Water. In the A.I. Era, It Expects Water Use to Soar.[4] Sources: [1] https://blog.google/innovation-and-ai/technology/developers-tools/gdp-premium-ai-pro-ultra/ [2] https://www.raps.org/news-and-articles/news-articles/2026/1/fda-official-offers-tips-on-leveraging-ai-in-drug [3] https://openai.com/index/introducing-prism/ [4] https://www.nytimes.com/2026/01/27/technology/microsoft-water-ai-data-centers.html
 
-4h ago
+5h ago
 
 ---
 
@@ -93,7 +101,7 @@ Google released new developer tools for Google AI Pro and Ultra subscribers.[1] 
 
 Generic AI can summarize documents and answer simple questions. But it fails at complex, specialized work in industries like aerospace, semiconductors, manufacturing, and logistics. The core issue isn't models, it's the context or scaffolding around them When enterprises try to build expert AI, they face a hard tradeoff: Build it yourself: Fully customizable, but requires scarce AI expertise, months of development, and constant optimization. Buy off-the-shelf: Fast to deploy, but inflexible. Hard to customize and doesn't scale across use cases. We took a different approach: a platform approach with a unified context layer specialized for domain-specific tasks. Today, we launched Agent Composer, with orchestration capabilities that enable: Multi-step reasoning (decompose problems, iterate solutions, revise outputs) Multi-tool coordination (docs, logs, web search, APIs in the same workflow) Hybrid agentic behavior (dynamic agent steps + static workflow control) It works: Advanced manufacturing: root cause analysis from 8 hours to 20 minutes Global consulting firm: research from hours to seconds Tech-enabled 3PL: 60x faster issue resolution Test equipment: code generation in minutes instead of days Spending time on the integrating context with AI worked for us on Enterprise AI problems. To get more details about our approach, check out the blog post: https://contextual.ai/blog/introducing-agent-composer
 
-15h ago
+16h ago
 
 ---
 
@@ -101,15 +109,7 @@ Generic AI can summarize documents and answer simple questions. But it fails at 
 
 Using ChatGPT, Midjourney, and automation tools is great, but I've hit a plateau. The real challenge isn't finding tools-it's making them work together to grow the business. It feels like collecting engine parts without building the car. What I'm struggling with: Connecting AI content to actual sales funnels Tracking if AI content performs better than human-created Actually measuring ROI beyond "saves time" Most talk is about which tool is best, not how to build an AI system that delivers results. Has anyone moved beyond tools to systems? What does that look like? I saw a take from a ROI marketing agency that approaches AI as an integrated system, not just tools. It made me wonder if we're missing the bigger picture. Anyone else thinking about AI this way?
 
-9h ago
-
----
-
-**[Viral AI Assistant Clawdbot (now Moltbot): Everything You Need to Know](https://www.reddit.com/r/artificial/comments/1qozitb/viral_ai_assistant_clawdbot_now_moltbot/)**
-
-Discover what Moltbot (formerly Clawdbot) is, why it’s going viral, key features, security risks, use cases, and whether it’s safe to use in 2026.
-
-🔗 [techputs](https://techputs.com/viral-ai-assistant-clawdbot-moltbot/) • 7h ago
+10h ago
 
 ---
 
@@ -117,69 +117,19 @@ Discover what Moltbot (formerly Clawdbot) is, why it’s going viral, key featur
 
 ## Google News: "ai"
 
-**[AI boom will produce victors and carnage, tech boss warns](https://www.bbc.com/news/articles/cr57p2ve8glo)**
-
-Cisco chief executive Chuck Robbins compares AI to the dotcom bubble of the early 2000s.
-
-BBC • 10h ago
-
----
-
 **[Introducing Prism](https://openai.com/index/introducing-prism/)**
 
 Accelerating science writing and collaboration with AI.
 
-OpenAI • 17h ago
+OpenAI • 18h ago
 
 ---
 
-**[Shoppers Trust Banks Over Retailers to Let AI Buy](https://www.pymnts.com/news/artificial-intelligence/2026/shoppers-trust-banks-over-retailers-to-let-ai-buy/)**
+**[AI boom will produce victors and carnage, tech boss warns](https://www.bbc.com/news/articles/cr57p2ve8glo)**
 
-Today’s digital-first shoppers are happy to let artificial intelligence lend an electronic hand as they shop online for everything from clothing to
+Cisco chief executive Chuck Robbins compares AI to the dotcom bubble of the early 2000s.
 
-PYMNTS.com • 1h ago
-
----
-
-**[Microsoft’s Earnings Are Here. Cloud Growth, AI Spending Are in Focus Again.](https://www.barrons.com/articles/microsoft-earnings-stock-price-ef7e141b?gaa_at=eafs&gaa_n=AWEtsqeGq8L1W5L-HFOJzXVBm1FB0kFa5d0bXrvbb1-HxT4diIJuHZoDFXnD&gaa_ts=6979dbea&gaa_sig=EetED2hygd6gKJi3EFvDa7uIQR_PkusEag-hGxjn_jLscU0FriTE0izhvIM2lt1AtH_2pFThT4C6xbByijpT_A%3D%3D)**
-
-Barron's • 1h ago
-
----
-
-**[ASML’s Record Orders Smash Estimates as AI Spurs Demand](https://www.bloomberg.com/news/articles/2026-01-28/asml-s-record-orders-beat-estimates-as-ai-spending-spurs-demand)**
-
-Bloomberg.com • 2h ago
-
----
-
-**[ASML Made Record $11.5 Billion Profit in 2025 Thanks to AI-Driven Demand, Plans to Cut 1,700 Jobs](https://www.usnews.com/news/business/articles/2026-01-28/asml-made-record-11-5-billion-profit-in-2025-thanks-to-ai-driven-demand-plans-to-cut-1-700-jobs)**
-
-ASML reports a record net profit of 9.6 billion euros in 2025, driven by AI demand
-
-U.S. News & World Report • 1h ago
-
----
-
-**[ASML reports big orders beat as AI drives chipmaker demand, to lay off 1,700](https://www.reuters.com/business/asml-q4-bookings-beat-expectations-chipmakers-order-more-satisfy-ai-demand-2026-01-28/)**
-
-Reuters • 2h ago
-
----
-
-**[Anthropic CEO Dario Amodei warns AI may cause ‘unusually painful’ disruption to jobs](https://www.cnbc.com/2026/01/27/dario-amodei-warns-ai-cause-unusually-painful-disruption-jobs.html)**
-
-"The pace of progress in AI is much faster than for previous technological revolutions," the Antrhopic CEO said in latest comments about AI's impact on jobs.
-
-CNBC • 16h ago
-
----
-
-**[‘This train isn’t going to stop’: shocking Sundance film shows promises and perils of AI](https://www.theguardian.com/film/2026/jan/27/sundance-ai-documentary-daniel-roher)**
-
-The AI Doc: Or How I Became an Apocaloptimist, co-directed by Daniel Roher, delves into the world of AI through the lens of personal anxiety
-
-The Guardian • 7h ago
+BBC • 11h ago
 
 ---
 
@@ -187,7 +137,59 @@ The Guardian • 7h ago
 
 Google Developer Program (GDP) premium benefits are now included in Google AI Pro and Google AI Ultra.
 
-blog.google • 16h ago
+blog.google • 14h ago
+
+---
+
+**[Google AI Plus is now available everywhere our AI plans are available, including the U.S.](https://blog.google/products-and-platforms/products/google-one/google-ai-plus-availability/)**
+
+We’re launching Google AI Plus in 35 new countries and territories including the US, making it available everywhere Google AI plans are available.
+
+blog.google • 17h ago
+
+---
+
+**[Strong iPhone sales to power Apple's holiday quarter, Google AI deal in focus](https://finance.yahoo.com/news/strong-iphone-sales-power-apples-102033242.html)**
+
+Apple is set to report its strongest iPhone sales growth in four years on Thursday, driven by robust demand for its premium Pro models as it prepares to roll out artificial intelligence features ​developed with Google's technology.  The decision to use Alphabet-owned Google's Gemini for a revamped Siri and other Apple Intelligence ‌features is the biggest shift to date in the company's AI strategy.  Wall Street has largely lauded the move, saying it allows Apple to tap into its installed base of more than two billion devices without the hefty spending required to develop cutting-edge models.
+
+Yahoo Finance • 1h ago
+
+---
+
+**[Amazon cuts 16,000 jobs globally to undo pandemic-era hiring amid AI push](https://www.cnbc.com/2026/01/28/amazon-cuts-16000-jobs-globally-to-undo-pandemic-era-hiring-amid-ai-push.html)**
+
+Amazon said on Wednesday it was cutting 16,000 jobs worldwide in the second major round of layoffs ⁠at the company in three months.
+
+CNBC • 40m ago
+
+---
+
+**[Amazon to Cut 16,000 Jobs, Trimming Bureaucracy Amid AI Tussle](https://www.bloomberg.com/news/articles/2026-01-28/amazon-to-cut-16-000-jobs-trimming-bureaucracy-amid-ai-tussle)**
+
+Bloomberg.com • 48m ago
+
+---
+
+**[SF's Pinterest lays off hundreds, citing need for 'AI-proficient talent'](https://www.sfgate.com/tech/article/pinterest-layoffs-hundreds-ai-21318302.php)**
+
+SFGATE • 12h ago
+
+---
+
+**[To avoid accusations of AI cheating, college students are turning to AI](https://www.nbcnews.com/tech/internet/college-students-ai-cheating-detectors-humanizers-rcna253878)**
+
+Students are taking new measures, such as dumbing down their work, spying on themselves and using AI “humanizer” programs, to beat accusations of cheating with artificial intelligence.
+
+NBC News • 24m ago
+
+---
+
+**[‘Wake up to the risks of AI, they are almost here,’ Anthropic boss warns](https://www.theguardian.com/technology/2026/jan/27/wake-up-to-the-risks-of-ai-they-are-almost-here-anthropic-boss-warns)**
+
+Dario Amodei questions if human systems are ready to handle the ‘almost unimaginable power’ that is ‘potentially imminent’
+
+The Guardian • 8h ago
 
 ---
 
@@ -197,7 +199,7 @@ blog.google • 16h ago
 
 **[France Aiming to Replace Zoom, Google Meet, Microsoft Teams, etc.](https://news.ycombinator.com/item?id=46767668)**
 
-⬆️ 875 • 💬 751 • 1d ago • [X (formerly Twitter)](https://twitter.com/lellouchenico/status/2015775970330882319)
+⬆️ 878 • 💬 754 • 1d ago • [X (formerly Twitter)](https://twitter.com/lellouchenico/status/2015775970330882319)
 
 ---
 
@@ -205,7 +207,7 @@ blog.google • 16h ago
 
 Apple today unveiled the new AirTag, now with an expanded finding range and a louder speaker.
 
-⬆️ 591 • 💬 722 • 1d ago • [Apple Newsroom](https://www.apple.com/newsroom/2026/01/apple-introduces-new-airtag-with-expanded-range-and-improved-findability/)
+⬆️ 592 • 💬 724 • 1d ago • [Apple Newsroom](https://www.apple.com/newsroom/2026/01/apple-introduces-new-airtag-with-expanded-range-and-improved-findability/)
 
 ---
 
@@ -213,7 +215,7 @@ Apple today unveiled the new AirTag, now with an expanded finding range and a lo
 
 Exclusive: German research into responses to health queries raises fresh questions about summaries seen by 2bn people a month
 
-⬆️ 406 • 💬 207 • 1d ago • [the Guardian](https://www.theguardian.com/technology/2026/jan/24/google-ai-overviews-youtube-medical-citations-study)
+⬆️ 407 • 💬 207 • 1d ago • [the Guardian](https://www.theguardian.com/technology/2026/jan/24/google-ai-overviews-youtube-medical-citations-study)
 
 ---
 
@@ -251,7 +253,7 @@ Opinion: Autonomous agents may generate millions of lines of code, but shipping 
 
 SERA is the first in our family of Open Coding Agents, achieving state-of-the-art performance at low cost.
 
-⬆️ 186 • 💬 30 • 17h ago • [allenai.org](https://allenai.org/blog/open-coding-agents)
+⬆️ 195 • 💬 30 • 18h ago • [allenai.org](https://allenai.org/blog/open-coding-agents)
 
 ---
 
@@ -259,7 +261,7 @@ SERA is the first in our family of Open Coding Agents, achieving state-of-the-ar
 
 AISLE's autonomous analyzer found all 12 CVEs in the January 2026 coordinated release of OpenSSL, the open-source cryptographic library that underp...
 
-⬆️ 155 • 💬 110 • 8h ago • [AISLE](https://aisle.com/blog/aisle-discovered-12-out-of-12-openssl-vulnerabilities)
+⬆️ 167 • 💬 121 • 9h ago • [AISLE](https://aisle.com/blog/aisle-discovered-12-out-of-12-openssl-vulnerabilities)
 
 ---
 
@@ -279,7 +281,7 @@ Dario Amodei, the CEO of the AI company Anthropic, joined "Top Story" to discuss
 
 📺 NBC News
 
-👁️ 16K • 👍 334 • 💬 124 • ⏱️ 18:01 • 18h ago
+👁️ 16K • 👍 334 • 💬 124 • ⏱️ 18:01 • 19h ago
 
 ---
 
@@ -309,7 +311,7 @@ Anthropic CEO Dario Amodei called for an embargo on the sale of chips and data c
 
 📺 ABC News
 
-👁️ 5K • 👍 51 • 💬 22 • ⏱️ 3:17 • 12h ago
+👁️ 5K • 👍 51 • 💬 22 • ⏱️ 3:17 • 13h ago
 
 ---
 
@@ -329,7 +331,7 @@ Get access to metatrends 10+ years before anyone else - https://qr.diamandis.com
 
 📺 Peter H. Diamandis
 
-👁️ 48K • 👍 2K • 💬 463 • ⏱️ 1:40:37 • 13h ago
+👁️ 48K • 👍 2K • 💬 463 • ⏱️ 1:40:37 • 14h ago
 
 ---
 
@@ -359,7 +361,7 @@ There's something unsettling about asking a machine a question and realizing it 
 
 📺 Origins Explained
 
-👁️ 43K • 👍 2K • 💬 275 • ⏱️ 29:18 • 13h ago
+👁️ 43K • 👍 2K • 💬 275 • ⏱️ 29:18 • 14h ago
 
 ---
 
@@ -395,7 +397,7 @@ Kimi K2.5 is a native multimodal agentic model with 1T parameters, excelling in 
 
 `image-text-to-text`
 
-⬇️ 10,965 • ❤️ 735 • 7h ago
+⬇️ 10,965 • ❤️ 735 • 8h ago
 
 ---
 
@@ -407,7 +409,7 @@ VibeVoice-ASR is a unified speech-to-text model capable of processing up to 60 m
 
 `automatic-speech-recognition` `8.7B`
 
-⬇️ 76,679 • ❤️ 677 • 21h ago
+⬇️ 76,679 • ❤️ 677 • 22h ago
 
 ---
 
@@ -443,7 +445,7 @@ Z-Image is an undistilled, high-fidelity text-to-image diffusion transformer mod
 
 `text-to-image`
 
-⬇️ 0 • ❤️ 480 • 18h ago
+⬇️ 0 • ❤️ 480 • 19h ago
 
 ---
 
@@ -455,7 +457,7 @@ DeepSeek-OCR-2 is a multilingual vision-language model for image-to-text tasks, 
 
 `image-text-to-text` `3.4B`
 
-⬇️ 0 • ❤️ 407 • 23h ago
+⬇️ 0 • ❤️ 407 • 1d ago
 
 ---
 
@@ -467,7 +469,7 @@ LightOnOCR-2-1B is an efficient 1B-parameter end-to-end vision-language model fo
 
 `image-text-to-text` `1.0B`
 
-⬇️ 19,899 • ❤️ 409 • 6d ago
+⬇️ 19,899 • ❤️ 409 • 7d ago
 
 ---
 
@@ -479,7 +481,7 @@ Chroma-4B is a real-time, end-to-end spoken dialogue model capable of speech und
 
 `any-to-any` `5.9B`
 
-⬇️ 5,776 • ❤️ 270 • 7h ago
+⬇️ 5,776 • ❤️ 270 • 8h ago
 
 ---
 
@@ -545,7 +547,7 @@ VibeVoice synthesizes long-form multi-speaker speech using next-token diffusion 
 
 A suite of open-source music foundation models is introduced, featuring components for audio-text alignment, lyric recognition, music coding, and large language model-based song generation with controllable attributes and scalable parameterization.
 
-▲ 38 • 💬 4 • ⭐ 2,212 • 12d ago
+▲ 38 • 💬 4 • ⭐ 2,212 • 13d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2601.10547) • [💻 code](https://github.com/HeartMuLa/heartlib) • [🔗 project](https://heartmula.github.io/)
 
@@ -640,7 +642,7 @@ Browser automation CLI for AI agents
 
 `TypeScript`
 
-⭐ 11.2k • 🔱 612 • 18h ago
+⭐ 11.2k • 🔱 612 • 19h ago
 
 ---
 
@@ -670,7 +672,7 @@ Ralph is an autonomous AI agent loop that runs repeatedly until all PRD items ar
 
 `Vue`
 
-⭐ 6.4k • 🔱 1.2k • 1h ago
+⭐ 6.4k • 🔱 1.2k • 2h ago
 
 ---
 
@@ -680,7 +682,7 @@ LLM驱动的 A/H/美股智能分析器，多数据源行情 + 实时新闻 + Gem
 
 `Python` `agent` `ai` `aigc` `gemini` `llm`
 
-⭐ 6.4k • 🔱 7.0k • 19h ago
+⭐ 6.4k • 🔱 7.0k • 20h ago
 
 ---
 
@@ -690,7 +692,7 @@ Marketing skills for Claude Code and AI agents. CRO, copywriting, SEO, analytics
 
 `claude` `codex` `marketing`
 
-⭐ 5.1k • 🔱 540 • 2h ago
+⭐ 5.1k • 🔱 540 • 3h ago
 
 ---
 
