@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-01-28T17:33:38.342886+00:00'
+updated: '2026-01-28T18:39:39.125804+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
+- social
 - news
 - videos
 - cryptocurrency
-- social
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** January 28, 2026 at 17:33 UTC  
+**Last Updated:** January 28, 2026 at 18:39 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,33 +38,33 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $89,401.17
+### $89,824.52
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** +2.5%  
-**7d:** +0.2%  
-**30d:** +1.5%  
-**90d:** -18.2%  
-**1y:** -13.4%  
+**24h:** +1.4%  
+**7d:** +0.1%  
+**30d:** +1.4%  
+**90d:** -18.3%  
+**1y:** -13.5%  
 
 ---
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1788.76B
+**Market Cap:** $1790.58B
 Rank #1
 
-**Circulating Supply:** 19,981,531 BTC
+**Circulating Supply:** 19,981,562 BTC
 95.2% of max
 
 **All-Time High:** $126,080.00
 -29.0%
 
 **All-Time Low:** $67.81
-+131976.4%
++131985.2%
 
 ---
 
@@ -79,37 +79,43 @@ Rank #1
 
 **[This man filmed the reaction to bitcoin breaking $100 in 2013](https://www.reddit.com/r/Bitcoin/comments/1qox66j/this_man_filmed_the_reaction_to_bitcoin_breaking/)**
 
-16h ago
-
----
-
-**["Crypto is risky" Meanwhile:](https://www.reddit.com/r/Bitcoin/comments/1qoxz6c/crypto_is_risky_meanwhile/)**
-
-15h ago
+17h ago
 
 ---
 
 **[Don't Trust, Verify 😁](https://www.reddit.com/r/Bitcoin/comments/1qpbh7a/dont_trust_verify/)**
 
-3h ago
-
----
-
-**[Nothing more delicious than a Bitcoin burger](https://www.reddit.com/r/Bitcoin/comments/1qp35kq/nothing_more_delicious_than_a_bitcoin_burger/)**
-
-11h ago
+5h ago
 
 ---
 
 **[The best choice..](https://www.reddit.com/r/Bitcoin/comments/1qpac56/the_best_choice/)**
 
-4h ago
+5h ago
 
 ---
 
 **[SO HARD TO START OVER!!!](https://www.reddit.com/r/Bitcoin/comments/1qp7e3c/so_hard_to_start_over/)**
 
 i use to be a multicoiner but i lost everything in 2021 in trading and scams.... i was too greedy actually and bitcoin don t reward this mindset.... it s so hard to start over from zero, even 0,01 BTC seems a lots now.... i ll never be a whole coiner again but find with it... i ll not do the same mistakes... i hope i will not... time will tell..... keep stacking guys.., see you in 10 years...
+
+8h ago
+
+---
+
+**[This is unbearable](https://www.reddit.com/r/Bitcoin/comments/1qphgpc/this_is_unbearable/)**
+
+1h ago
+
+---
+
+**[Nothing more delicious than a Bitcoin burger](https://www.reddit.com/r/Bitcoin/comments/1qp35kq/nothing_more_delicious_than_a_bitcoin_burger/)**
+
+12h ago
+
+---
+
+**[Think i will stay single.](https://www.reddit.com/r/Bitcoin/comments/1qp8rwv/think_i_will_stay_single/)**
 
 7h ago
 
@@ -119,27 +125,21 @@ i use to be a multicoiner but i lost everything in 2021 in trading and scams....
 
 If the price of BTC dipped to £50,000 / $69,035 how would someone in the UK purchase 1 BTC? UK banks have £10,000 per month crypto limits ! Someone would have to plan 5 months ahead, transfer £10,000 each month into an exchange (Coinbase / Kraken) and trust the fiat was safe, sat there, earning zero interest! Is this the way? References: https://www.firstdirect.com/help/bank-accounts/payments-and-transfers/cryptocurrency/ Our limits: Payments – £2,500 for a single payment and a total payment limit of £10,000 in any rolling 30-day period. Debit cards – £2,500 for a single card payment and a total card payment limit of £10,000 in any rolling 30-day period. https://www.barclays.co.uk/help/payments/payment-information/crypto-currency-payment-restrictions/ Monthly limits for non-card payments From 2nd December 2025, we’re introducing limits on bank transfers (Faster Payments) to crypto-currency exchanges. You can make individual transactions up to £2,500. There’s also a total personal transaction limit of £10,000 per calendar month, which includes all payments made from any of your accounts. https://www.santander.co.uk/personal/support/fraud-and-security/cryptocurrency Your limit will be: £1,000 per transaction a total of £3,000 in any rolling 30-day period.
 
-10h ago
+11h ago
 
 ---
 
-**[Think i will stay single.](https://www.reddit.com/r/Bitcoin/comments/1qp8rwv/think_i_will_stay_single/)**
+**["You give your money to the government for 20 years...add inflation, you have lost."](https://www.reddit.com/r/Bitcoin/comments/1qphsxg/you_give_your_money_to_the_government_for_20/)**
 
-6h ago
-
----
-
-**[still hodling](https://www.reddit.com/r/Bitcoin/comments/1qoarog/still_hodling/)**
-
-1d ago
+1h ago
 
 ---
 
-**[Big news!](https://www.reddit.com/r/Bitcoin/comments/1qomr5a/big_news/)**
+**[Bitcoin Hashrate Drops as US Miners Enter Curtailment Amid Severe Storm](https://www.reddit.com/r/Bitcoin/comments/1qpe05k/bitcoin_hashrate_drops_as_us_miners_enter/)**
 
-I'm a teenager from a third world country, and I'm glad to share that I'm finally achieving my goal. Building wealth in my country isn't as easy as it is in Europe or the US, especially at my age. Because of that, my friends have called me a cheapskate (and sometimes they've been right). Now that I've accumulated enough Bitcoin (an amount that feels sufficient to me), I can finally start spending future income on clothes, the gym, gifts for my girlfriend, and other things I've been putting off to keep investing. Having this nest egg at 19 feels like a huge accomplishment, and I'm proud to share it with you. I can finally enjoy typical teenage stuff without feeling guilty :)
+Foundry USA’s hashrate plunged about 60%, pushing block times to as long as 14 minutes, yet bitcoin’s price and transaction fees barely moved.
 
-22h ago
+🔗 [Bitcoin News](https://bitcoinnews.com/p/fern-storm-bitcoin-hashrate-drops-miners-curtailment) • 3h ago
 
 ---
 
@@ -147,51 +147,67 @@ I'm a teenager from a third world country, and I'm glad to share that I'm finall
 
 ## Google News: "bitcoin"
 
-**[South Dakota lawmaker revives bitcoin reserve push with new bill](https://www.theblock.co/post/387341/south-dakota-bitcoin-reserve-bill)**
-
-The latest proposal closely mirrors House Bill 1202, which was introduced during the 2025 legislative session.
-
-The Block • 11h ago
-
----
-
 **[Here's how China's response to Trump tariffs silently rocks bitcoin](https://www.coindesk.com/markets/2026/01/28/china-adapts-to-u-s-tariffs-while-bitcoin-shrugs-off-macro-shock)**
 
 China’s exports remain resilient under U.S. tariffs as the yuan stays tightly managed, sending ripples all the way to the crypto market.
 
-CoinDesk • 11h ago
+CoinDesk • 12h ago
 
 ---
 
-**[Off the Charts: Key levels for bitcoin](https://www.cnbc.com/video/2026/01/27/off-the-charts-key-levels-for-bitcoin.html)**
+**[South Dakota lawmaker revives bitcoin reserve push with new bill](https://www.theblock.co/post/387341/south-dakota-bitcoin-reserve-bill)**
 
-Katie Stockton, Fairlead, joins 'Fast Money' to take a technical look at bitcoin prices.
+The latest proposal closely mirrors House Bill 1202, which was introduced during the 2025 legislative session.
 
-CNBC • 18h ago
-
----
-
-**[Bitcoin price news: BTC attempts rally as dollar decline accelerates](https://www.coindesk.com/markets/2026/01/27/bitcoin-climbs-above-usd89-000-as-u-s-dollar-tumbles-on-president-trump-s-remarks)**
-
-The president said he isn't concerned about the dollar's recent declines, sending the greenback plunging even lower.
-
-CoinDesk • 20h ago
+The Block • 13h ago
 
 ---
 
-**[Is This Bitcoin Price “Coma” A Victory Lap in Disguise?](https://finance.yahoo.com/news/bitcoin-price-coma-victory-lap-105554976.html)**
+**[South Dakota Lawmaker Takes Second Stab at Launching State Bitcoin Reserve](https://decrypt.co/356167/south-dakota-lawmaker-takes-second-stab-at-launching-state-bitcoin-reserve)**
 
-Everyone thought the Bitcoin price would “moon shoot” in Q4 2025. It didn’t. For the first time in a very long time, BTC USD prices closed the quarter in red. While there have been positive developments since then, nothing has yet emerged to save the bulls by pushing “digital gold” ...
+The bill by State Representative Logan Manhart seeks to allocate as much as 10% of the state’s investment funds to the cryptocurrency.
 
-Yahoo Finance • 6h ago
+Decrypt • 3h ago
 
 ---
 
-**[It’s ‘Breaking’—Sudden U.S. Dollar ‘Crisis’ Warning Predicted To Spark Huge Bitcoin Price Boom To Rival Gold](https://www.forbes.com/sites/digital-assets/2026/01/28/its-breaking-sudden-us-dollar-crisis-warning-predicted-to-spark-huge-bitcoin-price-boom-to-rival-gold/)**
+**[South Dakota lawmaker takes another run at Bitcoin reserve bill](https://www.tradingview.com/news/cointelegraph:883e8bbb8094b:0-south-dakota-lawmaker-takes-another-run-at-bitcoin-reserve-bill/)**
 
-A “crisis of confidence” in the U.S. dollar has been predicted to see bitcoin catch up with gold...
+A member of South Dakota’s House of Representatives introduced another bill that would allow the US state to invest in Bitcoin, about a year after similar legislation was deferred.Representative Logan Manhart introduced the Bitcoin BITSTAMP:BTCUSD reserve bill, HB 1155, on Tuesday in South Dakota’s…
 
-Forbes • 5h ago
+TradingView • 22h ago
+
+---
+
+**[BlackRock Files With SEC to Launch iShares Bitcoin Premium Income ETF](https://finance.yahoo.com/news/blackrock-files-sec-launch-ishares-163132104.html)**
+
+BlackRock filed for a Bitcoin income ETF using an options strategy to generate premium income for investors beyond spot price gains.
+
+Yahoo Finance • 2d ago
+
+---
+
+**[3 Things Investors Need to Know About the ARK 21Shares Bitcoin ETF in 2026](https://www.fool.com/investing/2026/01/28/x-things-investors-need-to-know-about-the-ark-21sh/)**
+
+The ARK 21Shares Bitcoin ETF makes it easy to access that digital currency, but investors should evaluate the fund's pros and cons.
+
+The Motley Fool • 54m ago
+
+---
+
+**[Bitcoin ETFs Turn Positive After Five-Day $1.7B Losing Streak](https://decrypt.co/356068/bitcoin-etfs-turn-positive-after-five-day-1-7b-losing-streak)**
+
+Bitcoin ETFs saw a modest $6.8 million in net inflows Monday, putting an end to a five-day streak of outflows.
+
+Decrypt • 1d ago
+
+---
+
+**[Grand Forks detective says if someone online asks for bitcoin or gift cards, 'you're being scammed'](https://www.grandforksherald.com/news/local/grand-forks-detective-says-if-someone-online-asks-for-bitcoin-or-gift-cards-youre-being-scammed)**
+
+Since 2022, Grand Forks residents have lost $466,803 to bitcoin cryptocurrency, according to GFPD Det. Todd Riedinger. The scams are difficult to trace and lost money usually can't be recovered.
+
+grandforksherald.com • 5h ago
 
 ---
 
@@ -203,23 +219,11 @@ Yahoo Finance • 1d ago
 
 ---
 
-**[Is Gold The New Bitcoin?](https://www.yardeniquicktakes.com/is-gold-the-new-bitcoin/)**
+**[Bitcoin price news: BTC attempts rally as dollar decline accelerates](https://www.coindesk.com/markets/2026/01/27/bitcoin-climbs-above-usd89-000-as-u-s-dollar-tumbles-on-president-trump-s-remarks)**
 
-Proponents of bitcoin have been calling it “digital gold.” Both the cryptocurrency and the precious metal are impossible to value because they don't pay any interest or dividends. Bitcoin is digital, making it potentially vulnerable someday to hacking by quantum-computing algorithms, while gold needs to be stored in a vault.
+The president said he isn't concerned about the dollar's recent declines, sending the greenback plunging even lower.
 
-Yardeni QuickTakes • 14h ago
-
----
-
-**[Bitcoin Miners Power Down US Operations in Wake of Winter Storm](https://www.bloomberg.com/news/articles/2026-01-26/bitcoin-miners-power-down-us-operations-in-wake-of-winter-storm)**
-
-Bloomberg • 1d ago
-
----
-
-**[Bitcoin, Ethereum, XRP Rise. Why the Sell America Trade Has Gripped Cryptos.](https://www.barrons.com/articles/bitcoin-ethereum-xrp-crypto-today-18fbb937?gaa_at=eafs&gaa_n=AWEtsqe4X5ckcA_cgE3vfHZQdoowJm4875qtMZyR8B-2XoyUUpfJZzNbTrDR&gaa_ts=697a3f28&gaa_sig=msGfQgNEx3NUyX8UOeuQD_Ogak4VUT3pZDiD4Zx_GNTeAhstjXtrxfyxyZ5OQ2NLB4Iu8PeSOVOML-mYpftlTg%3D%3D)**
-
-Barron's • 6h ago
+CoinDesk • 21h ago
 
 ---
 
@@ -248,7 +252,7 @@ rewards for mining operations will dwindle. What happens next?
 
 A list of known attacks against Bitcoin / crypto asset owning entities that occurred in meatspace. - jlopp/physical-bitcoin-attacks
 
-⬆️ 3 • 💬 0 • 22h ago • [GitHub](https://github.com/jlopp/physical-bitcoin-attacks)
+⬆️ 3 • 💬 0 • 23h ago • [GitHub](https://github.com/jlopp/physical-bitcoin-attacks)
 
 ---
 
@@ -284,19 +288,19 @@ Transform HN comment threads into executive intelligence. AI analyzes discussion
 
 **[Tell HN: I cut Claude API costs from $70/month to pennies](https://news.ycombinator.com/item?id=46760285)**
 
-⬆️ 40 • 💬 22 • 2d ago
+⬆️ 40 • 💬 25 • 2d ago
 
 ---
 
 **[Show HN: We built a type-safe Python ORM for RedisGraph/FalkorDB](https://news.ycombinator.com/item?id=46796602)**
 
-⬆️ 4 • 💬 1 • 2h ago
+⬆️ 5 • 💬 3 • 3h ago
 
 ---
 
 **[Show HN: I could build the translation tool I've wanted for 10 years](https://news.ycombinator.com/item?id=46786231)**
 
-⬆️ 1 • 💬 1 • 20h ago
+⬆️ 1 • 💬 1 • 22h ago
 
 ---
 
@@ -310,17 +314,17 @@ The Dollar is breaking and the "Sell America" trade is officially on. While the 
 
 📺 Crypto Banter
 
-👁️ 7K • 👍 829 • 💬 24 • ⏱️ 26:12 • 1h ago
+👁️ 12K • 👍 1K • 💬 36 • ⏱️ 26:12 • 2h ago
 
 ---
 
-**[If Bitcoin Breaks This Level, I&#39;ll Flip Mega Bullish On Crypto! (FOMC GAMEPLAN)](https://www.youtube.com/watch?v=qE8YQDEWYl8)**
+**[Bitcoin About To Explode If The Fed Does This Today...](https://www.youtube.com/watch?v=l30sNrH4pvs)**
 
-Bitcoin is approaching a critical level, and before the market fully flips, there's one final trade that matters. In this video, Sheldon ...
+Today, let's examine Bitcoin's charts and metrics, as well as the latest Macro and Crypto news. Additionally, a look at the latest ...
 
-📺 Crypto Banter
+📺 CryptosRUs
 
-👁️ 7K • 👍 535 • 💬 10 • ⏱️ 18:40 • 6h ago
+👁️ 18K • 👍 1K • 💬 193 • ⏱️ 38:00 • 2h ago
 
 ---
 
@@ -330,17 +334,7 @@ FREE Daily On-Chain Analysis & Crypto News In 5-Mins: http://bit.ly/TheCryptoNut
 
 📺 Library Of Wealth
 
-👁️ 8K • 👍 309 • 💬 378 • ⏱️ 16:28 • 12h ago
-
----
-
-**[Bitcoin’s Setup Is Uncomfortably Clear](https://www.youtube.com/watch?v=nptz_uYBG38)**
-
-Bitcoin, gold, stocks ripping, and altcoin trade ideas! BITUNIX TRADE THE TOP COINS (available everywhere) ...
-
-📺 Lark Davis
-
-👁️ 9K • 👍 614 • 💬 109 • ⏱️ 18:25 • 5h ago
+👁️ 10K • 👍 335 • 💬 350 • ⏱️ 16:28 • 13h ago
 
 ---
 
@@ -350,17 +344,17 @@ This is not a victory lap — it's a reset. When Tom Lee throws out a $200000–
 
 📺 The Bitcoin Revolution
 
-👁️ 3K • 👍 70 • 💬 69 • ⏱️ 8:58 • 23h ago
+👁️ 3K • 👍 71 • 💬 71 • ⏱️ 8:58 • 1d ago
 
 ---
 
-**[URGENT ‼️ Clarity Act NEWS! 🚨 THURSDAY IS HUGE! XRP BITCOIN ETHEREUM](https://www.youtube.com/watch?v=jqSN3sFW6WM)**
+**[Bitcoin’s Setup Is Uncomfortably Clear](https://www.youtube.com/watch?v=nptz_uYBG38)**
 
-1️⃣ *Join Moe's Discord Code 2026 save 50%* ➡https://www.patreon.com/stockmoe/membership 2️⃣ *Join the NEW Crypto ...
+Bitcoin, gold, stocks ripping, and altcoin trade ideas! BITUNIX TRADE THE TOP COINS (available everywhere) ...
 
-📺 Stock Moe
+📺 Lark Davis
 
-👁️ 4K • 👍 564 • 💬 33 • ⏱️ 19:46 • 4h ago
+👁️ 12K • 👍 701 • 💬 113 • ⏱️ 18:25 • 6h ago
 
 ---
 
@@ -370,37 +364,47 @@ In this solo episode, Anthony Pompliano explains why Bitcoin is lagging while go
 
 📺 Anthony Pompliano
 
-👁️ 82K • 👍 3K • 💬 159 • ⏱️ 17:45 • 1d ago
+👁️ 85K • 👍 3K • 💬 159 • ⏱️ 17:45 • 1d ago
 
 ---
 
-**[LIVE: Michael Saylor on Bitcoin Bull Run &amp; MSTR Stock – BTC Price Analysis](https://www.youtube.com/watch?v=MmLRrAKR5r4)**
+**[URGENT ‼️ Clarity Act NEWS! 🚨 THURSDAY IS HUGE! XRP BITCOIN ETHEREUM](https://www.youtube.com/watch?v=jqSN3sFW6WM)**
 
-BTC #Bitcoin #Cryptocurrency Join Michael Saylor for his unforgettable keynote at the Bitcoin Сonference. A visionary Bitcoin ...
+1️⃣ *Join Moe's Discord Code 2026 save 50%* ➡https://www.patreon.com/stockmoe/membership 2️⃣ *Join the NEW Crypto ...
 
-📺 Isinamuva Tutoring
+📺 Stock Moe
 
-👁️ 6K • 👍 4K • 3h ago
-
----
-
-**[THEY LIED About the BTC Cycle! EVERYTHING Changes in FEBRUARY - Raoul Pal &amp; Samson Mow](https://www.youtube.com/watch?v=j5RBrEjNMcY)**
-
-Take Control of Your Retirement — Grow Crypto & Gold Tax-Advantaged. https://www.itrustcapital.com/go/savvy-finance If you're ...
-
-📺 Savvy Finance
-
-👁️ 12K • 👍 475 • 💬 17 • ⏱️ 19:52 • 1d ago
+👁️ 7K • 👍 682 • 💬 45 • ⏱️ 19:46 • 5h ago
 
 ---
 
-**[BITCOIN HOLDERS... EVERYTHING IS LINING UP](https://www.youtube.com/watch?v=Zj5gT1xS40E)**
+**[Why Central Banks are TERRIFIED of Bitcoin!](https://www.youtube.com/watch?v=qjfyM_Nf1Fo)**
 
-I AM NOT A FINANCIAL ADVISOR. ALL VIDEOS IS FOR ENTERTAINTMENT PURPOSE; AND I AM DOCUMENTING MY OWN ...
+Bitcoin had a brutal week, but the real story happened behind closed doors at Davos. Central bankers laughed at Bitcoin, and that ...
 
-📺 Satoshi Stacker
+📺 Simply Bitcoin
 
-👁️ 9K • 👍 569 • 💬 38 • ⏱️ 16:31 • 8h ago
+👁️ 22K • 👍 2K • 💬 214 • ⏱️ 16:25 • 19h ago
+
+---
+
+**[Porque Esse É o Maior Risco Que Você Corre no Bitcoin? Análise do BTC Hoje!](https://www.youtube.com/watch?v=iapSmXdCEF4)**
+
+ENTRE NO MEU GRUPO DE OPORTUNIDADES DIÁRIAS https://telegram.diegovelasques.com/ ⬇️⬇️ Faça seus trades na ...
+
+📺 Vela Trader
+
+👁️ 2K • 👍 529 • 💬 96 • ⏱️ 8:45 • 3h ago
+
+---
+
+**[What Happens to Bitcoin If the Cycle is Dead?](https://www.youtube.com/watch?v=YQiwyVn1i9o)**
+
+Is the four-year Bitcoin cycle finally dead? Joe Carlasare breaks down why traditional cycle theory may no longer apply, how ...
+
+📺 Swan Bitcoin
+
+👁️ 450 • 👍 15 • 💬 17 • ⏱️ 0:53 • 2h ago
 
 ---
 
