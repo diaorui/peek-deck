@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-01-28T16:39:31.048523+00:00'
+updated: '2026-01-28T17:33:38.342886+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
 - news
 - videos
-- social
 - cryptocurrency
+- social
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** January 28, 2026 at 16:39 UTC  
+**Last Updated:** January 28, 2026 at 17:33 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -79,13 +79,13 @@ Rank #1
 
 **[This man filmed the reaction to bitcoin breaking $100 in 2013](https://www.reddit.com/r/Bitcoin/comments/1qox66j/this_man_filmed_the_reaction_to_bitcoin_breaking/)**
 
-15h ago
+16h ago
 
 ---
 
 **["Crypto is risky" Meanwhile:](https://www.reddit.com/r/Bitcoin/comments/1qoxz6c/crypto_is_risky_meanwhile/)**
 
-14h ago
+15h ago
 
 ---
 
@@ -97,13 +97,13 @@ Rank #1
 
 **[Nothing more delicious than a Bitcoin burger](https://www.reddit.com/r/Bitcoin/comments/1qp35kq/nothing_more_delicious_than_a_bitcoin_burger/)**
 
-10h ago
+11h ago
 
 ---
 
 **[The best choice..](https://www.reddit.com/r/Bitcoin/comments/1qpac56/the_best_choice/)**
 
-3h ago
+4h ago
 
 ---
 
@@ -111,7 +111,7 @@ Rank #1
 
 i use to be a multicoiner but i lost everything in 2021 in trading and scams.... i was too greedy actually and bitcoin don t reward this mindset.... it s so hard to start over from zero, even 0,01 BTC seems a lots now.... i ll never be a whole coiner again but find with it... i ll not do the same mistakes... i hope i will not... time will tell..... keep stacking guys.., see you in 10 years...
 
-6h ago
+7h ago
 
 ---
 
@@ -119,13 +119,13 @@ i use to be a multicoiner but i lost everything in 2021 in trading and scams....
 
 If the price of BTC dipped to £50,000 / $69,035 how would someone in the UK purchase 1 BTC? UK banks have £10,000 per month crypto limits ! Someone would have to plan 5 months ahead, transfer £10,000 each month into an exchange (Coinbase / Kraken) and trust the fiat was safe, sat there, earning zero interest! Is this the way? References: https://www.firstdirect.com/help/bank-accounts/payments-and-transfers/cryptocurrency/ Our limits: Payments – £2,500 for a single payment and a total payment limit of £10,000 in any rolling 30-day period. Debit cards – £2,500 for a single card payment and a total card payment limit of £10,000 in any rolling 30-day period. https://www.barclays.co.uk/help/payments/payment-information/crypto-currency-payment-restrictions/ Monthly limits for non-card payments From 2nd December 2025, we’re introducing limits on bank transfers (Faster Payments) to crypto-currency exchanges. You can make individual transactions up to £2,500. There’s also a total personal transaction limit of £10,000 per calendar month, which includes all payments made from any of your accounts. https://www.santander.co.uk/personal/support/fraud-and-security/cryptocurrency Your limit will be: £1,000 per transaction a total of £3,000 in any rolling 30-day period.
 
-9h ago
+10h ago
 
 ---
 
 **[Think i will stay single.](https://www.reddit.com/r/Bitcoin/comments/1qp8rwv/think_i_will_stay_single/)**
 
-5h ago
+6h ago
 
 ---
 
@@ -139,7 +139,7 @@ If the price of BTC dipped to £50,000 / $69,035 how would someone in the UK pur
 
 I'm a teenager from a third world country, and I'm glad to share that I'm finally achieving my goal. Building wealth in my country isn't as easy as it is in Europe or the US, especially at my age. Because of that, my friends have called me a cheapskate (and sometimes they've been right). Now that I've accumulated enough Bitcoin (an amount that feels sufficient to me), I can finally start spending future income on clothes, the gym, gifts for my girlfriend, and other things I've been putting off to keep investing. Having this nest egg at 19 feels like a huge accomplishment, and I'm proud to share it with you. I can finally enjoy typical teenage stuff without feeling guilty :)
 
-21h ago
+22h ago
 
 ---
 
@@ -159,7 +159,7 @@ The Block • 11h ago
 
 China’s exports remain resilient under U.S. tariffs as the yuan stays tightly managed, sending ripples all the way to the crypto market.
 
-CoinDesk • 10h ago
+CoinDesk • 11h ago
 
 ---
 
@@ -167,7 +167,7 @@ CoinDesk • 10h ago
 
 Katie Stockton, Fairlead, joins 'Fast Money' to take a technical look at bitcoin prices.
 
-CNBC • 17h ago
+CNBC • 18h ago
 
 ---
 
@@ -175,7 +175,7 @@ CNBC • 17h ago
 
 The president said he isn't concerned about the dollar's recent declines, sending the greenback plunging even lower.
 
-CoinDesk • 19h ago
+CoinDesk • 20h ago
 
 ---
 
@@ -183,7 +183,7 @@ CoinDesk • 19h ago
 
 Everyone thought the Bitcoin price would “moon shoot” in Q4 2025. It didn’t. For the first time in a very long time, BTC USD prices closed the quarter in red. While there have been positive developments since then, nothing has yet emerged to save the bulls by pushing “digital gold” ...
 
-Yahoo Finance • 5h ago
+Yahoo Finance • 6h ago
 
 ---
 
@@ -191,7 +191,7 @@ Yahoo Finance • 5h ago
 
 A “crisis of confidence” in the U.S. dollar has been predicted to see bitcoin catch up with gold...
 
-Forbes • 4h ago
+Forbes • 5h ago
 
 ---
 
@@ -207,7 +207,7 @@ Yahoo Finance • 1d ago
 
 Proponents of bitcoin have been calling it “digital gold.” Both the cryptocurrency and the precious metal are impossible to value because they don't pay any interest or dividends. Bitcoin is digital, making it potentially vulnerable someday to hacking by quantum-computing algorithms, while gold needs to be stored in a vault.
 
-Yardeni QuickTakes • 13h ago
+Yardeni QuickTakes • 14h ago
 
 ---
 
@@ -219,7 +219,7 @@ Bloomberg • 1d ago
 
 **[Bitcoin, Ethereum, XRP Rise. Why the Sell America Trade Has Gripped Cryptos.](https://www.barrons.com/articles/bitcoin-ethereum-xrp-crypto-today-18fbb937?gaa_at=eafs&gaa_n=AWEtsqe4X5ckcA_cgE3vfHZQdoowJm4875qtMZyR8B-2XoyUUpfJZzNbTrDR&gaa_ts=697a3f28&gaa_sig=msGfQgNEx3NUyX8UOeuQD_Ogak4VUT3pZDiD4Zx_GNTeAhstjXtrxfyxyZ5OQ2NLB4Iu8PeSOVOML-mYpftlTg%3D%3D)**
 
-Barron's • 5h ago
+Barron's • 6h ago
 
 ---
 
@@ -248,7 +248,7 @@ rewards for mining operations will dwindle. What happens next?
 
 A list of known attacks against Bitcoin / crypto asset owning entities that occurred in meatspace. - jlopp/physical-bitcoin-attacks
 
-⬆️ 3 • 💬 0 • 21h ago • [GitHub](https://github.com/jlopp/physical-bitcoin-attacks)
+⬆️ 3 • 💬 0 • 22h ago • [GitHub](https://github.com/jlopp/physical-bitcoin-attacks)
 
 ---
 
@@ -290,7 +290,7 @@ Transform HN comment threads into executive intelligence. AI analyzes discussion
 
 **[Show HN: We built a type-safe Python ORM for RedisGraph/FalkorDB](https://news.ycombinator.com/item?id=46796602)**
 
-⬆️ 4 • 💬 1 • 1h ago
+⬆️ 4 • 💬 1 • 2h ago
 
 ---
 
@@ -310,7 +310,7 @@ The Dollar is breaking and the "Sell America" trade is officially on. While the 
 
 📺 Crypto Banter
 
-👁️ 7K • 👍 829 • 💬 24 • ⏱️ 26:12 • 51m ago
+👁️ 7K • 👍 829 • 💬 24 • ⏱️ 26:12 • 1h ago
 
 ---
 
@@ -330,7 +330,7 @@ FREE Daily On-Chain Analysis & Crypto News In 5-Mins: http://bit.ly/TheCryptoNut
 
 📺 Library Of Wealth
 
-👁️ 8K • 👍 309 • 💬 378 • ⏱️ 16:28 • 11h ago
+👁️ 8K • 👍 309 • 💬 378 • ⏱️ 16:28 • 12h ago
 
 ---
 
@@ -340,7 +340,7 @@ Bitcoin, gold, stocks ripping, and altcoin trade ideas! BITUNIX TRADE THE TOP CO
 
 📺 Lark Davis
 
-👁️ 9K • 👍 614 • 💬 109 • ⏱️ 18:25 • 4h ago
+👁️ 9K • 👍 614 • 💬 109 • ⏱️ 18:25 • 5h ago
 
 ---
 
@@ -350,7 +350,7 @@ This is not a victory lap — it's a reset. When Tom Lee throws out a $200000–
 
 📺 The Bitcoin Revolution
 
-👁️ 3K • 👍 70 • 💬 69 • ⏱️ 8:58 • 22h ago
+👁️ 3K • 👍 70 • 💬 69 • ⏱️ 8:58 • 23h ago
 
 ---
 
@@ -360,7 +360,7 @@ This is not a victory lap — it's a reset. When Tom Lee throws out a $200000–
 
 📺 Stock Moe
 
-👁️ 4K • 👍 564 • 💬 33 • ⏱️ 19:46 • 3h ago
+👁️ 4K • 👍 564 • 💬 33 • ⏱️ 19:46 • 4h ago
 
 ---
 
@@ -380,7 +380,7 @@ BTC #Bitcoin #Cryptocurrency Join Michael Saylor for his unforgettable keynote a
 
 📺 Isinamuva Tutoring
 
-👁️ 6K • 👍 4K • 2h ago
+👁️ 6K • 👍 4K • 3h ago
 
 ---
 
@@ -390,7 +390,7 @@ Take Control of Your Retirement — Grow Crypto & Gold Tax-Advantaged. https://w
 
 📺 Savvy Finance
 
-👁️ 12K • 👍 475 • 💬 17 • ⏱️ 19:52 • 23h ago
+👁️ 12K • 👍 475 • 💬 17 • ⏱️ 19:52 • 1d ago
 
 ---
 
@@ -400,7 +400,7 @@ I AM NOT A FINANCIAL ADVISOR. ALL VIDEOS IS FOR ENTERTAINTMENT PURPOSE; AND I AM
 
 📺 Satoshi Stacker
 
-👁️ 9K • 👍 569 • 💬 38 • ⏱️ 16:31 • 7h ago
+👁️ 9K • 👍 569 • 💬 38 • ⏱️ 16:31 • 8h ago
 
 ---
 
