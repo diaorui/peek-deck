@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-01-28T20:33:07.588804+00:00'
+updated: '2026-01-28T21:31:03.838924+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
 - news
-- videos
 - social
+- videos
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** January 28, 2026 at 20:33 UTC  
+**Last Updated:** January 28, 2026 at 21:31 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -34,7 +34,13 @@ Robotics research and industry news
 
 **[Dexterous robotic hands: 2009 - 2014 - 2025](https://www.reddit.com/r/robotics/comments/1qp7z15/dexterous_robotic_hands_2009_2014_2025/)**
 
-9h ago
+10h ago
+
+---
+
+**[Figure 03 handling glassware, fully autonomous](https://www.reddit.com/r/robotics/comments/1qpn1dq/figure_03_handling_glassware_fully_autonomous/)**
+
+1h ago
 
 ---
 
@@ -42,7 +48,7 @@ Robotics research and industry news
 
 We are building a 3d-printable animatronics robots, Mostly the same 3d printed parts lets you assemble different animal robots, and we are trying to make it on the cheapest way possible (less than $50 is the target). Current list: Robotic dog Spider Robotic arm So far 300 people downloaded it from GrabCAD and Instructables, Got some positive feedbacks. And feedbacks to making the walking more smoother(Planning to add spring and weights) and assembly a bit easier(Planning for a snap fit). Why this post? We are currently working on the V2 of it, We are trying to put the design Infront of as many peoples and get their thoughts, ideas for new animals, making existing much better. Will appreciate any inputs. Link for files : https://grabcad.com/library/diy-robotic-dog-1 Assembly : https://www.instructables.com/Trix/ Reposting it here, Haven't got any replies last time 💀
 
-7h ago
+8h ago
 
 ---
 
@@ -50,7 +56,7 @@ We are building a 3d-printable animatronics robots, Mostly the same 3d printed p
 
 3 x Super-Beacons as stationary beacons for precise 3D indoor positioning 1 x (Mini-RX + External Microphone + Deflector) as a mobile beacon for the drone 1 x Modem v5.1 as a central controller This is not an autonomous flight - the drone was remotely controlled. But it shows precise indoor 3D tracking capabilities for swarming drones.
 
-12h ago
+13h ago
 
 ---
 
@@ -58,7 +64,7 @@ We are building a 3d-printable animatronics robots, Mostly the same 3d printed p
 
 Former iRobot CEO Colin Angle talks about how robotics isn’t really a single “thing,” and that defaulting to humanoids as the mental model ends up flattening what’s actually going on in the field. He ties it back to his time at iRobot and how a lot of success or failure came down to very specific questions about value and trust, not form factor. Amazon attempted to acquire the declining company from bankruptcy but after an 18-month process the deal fell through. Angle is now with another company.
 
-4h ago
+5h ago
 
 ---
 
@@ -66,7 +72,7 @@ Former iRobot CEO Colin Angle talks about how robotics isn’t really a single �
 
 Hi, it's Emre from the Asimov team. I've been sharing our daily humanoid progress here, and thanks for your support along the way! We've open-sourced the leg design with CAD files, actuator list, and XML files for simulation. Now we're sharing a writeup on how we built it. Quick intro: Asimov is an open-source humanoid robot. We only have legs right now and are planning to finalize the full body by March 2026. It's going to be modular, so you can build the parts you need. Selling the robot isn't our priority right now. https://preview.redd.it/ljxqu6pdk2gg1.png?width=2000&format=png&auto=webp&s=71c244fb3cfc31cd5a768b7b1488babd8e04dcc0 Each leg has 6 DOF. The complete legs subsystem costs just over $10k, roughly $8.5k for actuators and joint parts, the rest for batteries and control modules. We designed for modularity and low-volume manufacturing. Most structural parts are compatible with MJF 3D printing. The only CNC requirement is the knee plate, which we simplified from a two-part assembly to a single plate. Actuators & Motors list and design files: https://github.com/asimovinc/asimov-v0 https://preview.redd.it/zalsj3eik2gg1.png?width=1200&format=png&auto=webp&s=734adca3a9d1c928acbf75cd95e44c3d4640ed93 We chose a parallel RSU ankle rather than a simple serial ankle. RSU gives us two-DOF ankles with both roll and pitch. Torque sharing between two motors means we can place heavy components closer to the hip, which improves rigidity and backdrivability. Linear actuators would have been another option, higher strength, more tendon-like look, but slower and more expensive. We added a toe joint that's articulated but not actuated. During push-off, the toe rocker helps the foot roll instead of pivoting on a rigid edge. Better traction, better forward propulsion, without adding another powered joint. https://preview.redd.it/skiqez2gk2gg1.png?width=1200&format=png&auto=webp&s=59d8951c9d20d2a10f547879a346c65e5b2e0bcf Our initial hip-pitch actuator was mounted at 45 degrees. This limited hip flexion and made sitting impossible. We're moving to a horizontal mount to recover range of motion. We're also upgrading ankle pivot components from aluminum to steel, and tightening manufacturing tolerances after missing some holes in early builds. https://preview.redd.it/o5wrtthkk2gg1.png?width=1200&format=png&auto=webp&s=5bebbe9c662e8e0a15ac6ea6b788530d0d1d66fd Next up is the upper body. We're working on arms and torso in parallel, targeting full-body integration by March. The complete robot will have 26 DOF and come in under 40kg. Sneak industrial design render of complete Asimov humanoid. Full writeup with diagrams and specs here: https://news.asimov.inc/p/how-we-built-humanoid-legs-from-the
 
-9h ago
+10h ago
 
 ---
 
@@ -98,15 +104,7 @@ Meet Sprout. Fauna Robotics are releasing a new kind of robotics platform. One d
 
 I recently came across the Universal Manipulation Interface (UMI) paper and found it to be a promising approach for teaching robots manipulation skills without relying on teleportation-based control. I was particularly interested in exploring how well this approach works on low-cost DIY hardware, such as an AR4 robot arm. Key challenges: - High-latency robot and gripper controllers that only support single-step control commands - A low-FPS camera with image composition that differs from the data used during training Key engineering adaptations: 🛠️ Hardware Abstraction Layer - Original UMI supports UR5, Franka Emika, and industrial WSG grippers. - I wrote custom drivers to interface with a DIY AR4 6-DOF robot arm and a custom servo-based gripper. - Forward and inverse kinematics are solved on the PC side, and only joint commands are sent to the robot controller. 👁️ Vision System Retrofit - Original UMI relies on a GoPro with lens modification and a capture card. - I adapted the perception pipeline to use a standard ~$50 USB camera. 🖐️ Custom End-Effector - Designed and 3D-printed a custom parallel gripper. - Actuated by a standard hobby servo. - Controlled via an Arduino Mega 2560 (AR4 auxiliary controller). Repos: - UMI + AR4 integration: https://github.com/robotsir/umi_ar4_retrofit - AR4 custom firmware: https://github.com/robotsir/ar4_embodied_controller This is still a work in progress. Due to the hardware limitations above, the system is not yet as smooth as the original UMI setup, but my goal is to push performance as far as possible within these constraints. The system is already running end-to-end on real hardware. The GIF above shows a live demo. Feedback from people working on embodied AI, robot learning, or low-cost manipulation platforms would be very welcome. If you have an AR4 arm and are interested in trying this out, feel free to reach out.
 
-20h ago
-
----
-
-**[RealSense SDK R57.6 beta released to the public](https://www.reddit.com/r/robotics/comments/1qpevp8/realsense_sdk_r576_beta_released_to_the_public/)**
-
-https://preview.redd.it/n53edwy524gg1.png?width=1536&format=png&auto=webp&s=dda898b9083d32b4a1a5d7312ac7040b4121986c SDK GitHub Release: https://github.com/IntelRealSense/librealsense/releases/tag/v2.57.6 ROS GitHub Release: https://github.com/realsenseai/realsense-ros/releases/tag/4.57.6 Python wheels uploaded to: https://pypi.org/project/pyrealsense2-beta/
-
-4h ago
+21h ago
 
 ---
 
@@ -126,15 +124,15 @@ NASA (.gov) • 1d ago
 
 Boston Dynamics' Atlas appears to have an edge over Tesla's Optimus.
 
-The Motley Fool • 15h ago
+The Motley Fool • 16h ago
 
 ---
 
-**[Washington Brings Its Silicon Valley-Building Playbook to Robotics](https://investorplace.com/hypergrowthinvesting/2026/01/robotics-is-about-to-become-americas-most-important-industry/)**
+**[Introducing Sprout, a new humanoid development platform](https://www.therobotreport.com/introducing-sprout-a-new-humanoid-development-platform/)**
 
-As the Genesis Mission accelerates, robotics is emerging as the keystone industry in America's next moonshot.
+Fauna Robotics unveils Sprout: a safe, character-driven robot designed to live, work, and play alongside humans in everyday life.
 
-InvestorPlace • 6h ago
+The Robot Report • 1h ago
 
 ---
 
@@ -168,11 +166,11 @@ GlobeNewswire • 1d ago
 
 ---
 
-**[State of robotics industry report 2026](https://www.therobotreport.com/state-of-robotics-industry-report-2026/)**
+**[Washington Brings Its Silicon Valley-Building Playbook to Robotics](https://www.tradingview.com/news/investorplace:61fd29dc3094b:0-washington-brings-its-silicon-valley-building-playbook-to-robotics/)**
 
-State of Robotics Industry Report 2026 offers a clear-eyed assessment of where the market stands today and where it’s headed.
+Most people think Silicon Valley was built by entrepreneurs.Garage tinkerers. Venture capitalists. Risk-taking founders chasing consumer demand.It’s a comforting story … because it makes America’s greatest tech boom feel accidental… almost inevitable.But the truth is more useful for investors: Sili…
 
-The Robot Report • 2d ago
+TradingView • 8h ago
 
 ---
 
@@ -188,7 +186,7 @@ AP News • 1d ago
 
 Approval confirms compliance with Department of War cybersecurity, supply-chain, and operational standards, further positioning Ondas' dual-use autonomous platform for expanded deployment across defense and critical infrastructure applications Milestone ...
 
-Yahoo Finance • 7h ago
+Yahoo Finance • 8h ago
 
 ---
 
@@ -202,7 +200,7 @@ Helix 02 from Figure is changing what humanoid robots are capable of by adding s
 
 📺 DPCcars
 
-👁️ 4K • 👍 147 • 💬 16 • ⏱️ 1:18 • 19h ago
+👁️ 5K • 👍 165 • 💬 20 • ⏱️ 1:18 • 20h ago
 
 ---
 
@@ -212,7 +210,25 @@ Figure AI says its flagship humanoid is more autonomous than ever thanks to its 
 
 📺 Kalil 4.0
 
-👁️ 465 • 👍 17 • 💬 1 • ⏱️ 0:39 • 3h ago
+👁️ 991 • 👍 51 • 💬 1 • ⏱️ 0:39 • 4h ago
+
+---
+
+**[The German Robots Are Replacing Forklifts Inside Factories](https://www.youtube.com/watch?v=tCis6jGzxnk)**
+
+Day 172 of watching tech evolve. German startup Filics has built autonomous warehouse robots that move in any direction, work ...
+
+📺 Deepen
+
+👁️ 19K • 👍 399 • 💬 10 • ⏱️ 0:29 • 4d ago
+
+---
+
+**[Drag-on welding robot.#industrial #welding #robot #spraying #stamping #machine](https://www.youtube.com/watch?v=i8vRsqt5ORw)**
+
+📺 Borunte robot-Lin 
+
+👁️ 32K • 👍 115 • 💬 2 • ⏱️ 0:21 • 4d ago
 
 ---
 
@@ -222,7 +238,7 @@ In the depths of a mysterious mountain forest, a young girl named Jessica stumbl
 
 📺 Technology Next World
 
-👁️ 47K • 👍 410 • 💬 16 • ⏱️ 3:53 • 4d ago
+👁️ 49K • 👍 430 • 💬 17 • ⏱️ 3:53 • 4d ago
 
 ---
 
@@ -232,15 +248,7 @@ RoboticWings #FuturisticLab #Android #SciFi #Robotics #AIArt #Cyberpunk #HighTec
 
 📺 AITECHGADGETS
 
-👁️ 238K • 💬 137 • ⏱️ 0:18 • 2d ago
-
----
-
-**[My boyfriend loves his mini robot 🤣💕#couples #longdistancerelationship #ldr #robot](https://www.youtube.com/watch?v=qrJfj-HRXzE)**
-
-📺 Romi Pal
-
-👁️ 288K • 👍 6K • 💬 34 • ⏱️ 0:17 • 4d ago
+👁️ 242K • 💬 138 • ⏱️ 0:18 • 2d ago
 
 ---
 
@@ -250,17 +258,7 @@ Get FREE Robotics & AI Resources (Guide, Textbooks, Courses, Resume Template, Co
 
 📺 Kevin Wood | Robotics & AI
 
-👁️ 752 • 👍 22 • 💬 2 • ⏱️ 3:51 • 14h ago
-
----
-
-**[Viral video shows autonomous snow blower at work in New Jersey](https://www.youtube.com/watch?v=c7vetvwsn-Q)**
-
-Sandra Bookman has more on the viral video and the man behind the handy invention.
-
-📺 Eyewitness News ABC7NY
-
-👁️ 507K • 👍 4K • 💬 775 • ⏱️ 2:01 • 1d ago
+👁️ 896 • 👍 26 • 💬 2 • ⏱️ 3:51 • 15h ago
 
 ---
 
@@ -270,27 +268,27 @@ Sandra Bookman has more on the viral video and the man behind the handy inventio
 
 📺 Andreas Klinger ⅹ Europe's Most Ambitious Startups
 
-👁️ 13K • 👍 895 • 💬 142 • ⏱️ 16:46 • 2d ago
+👁️ 14K • 👍 934 • 💬 146 • ⏱️ 16:46 • 2d ago
 
 ---
 
-**[Inside the $5.6B Startup Building Robot Brains (Physical Intelligence)](https://www.youtube.com/watch?v=b8BDUa-xbyA)**
+**[Viral video shows autonomous snow blower at work in New Jersey](https://www.youtube.com/watch?v=c7vetvwsn-Q)**
 
-Season 3 Episode 1: Welcome inside the world of Physical Intelligence. Honestly? This was the first time seeing a robot truly ...
+Sandra Bookman has more on the viral video and the man behind the handy invention.
 
-📺 Sachin and Adam
+📺 Eyewitness News ABC7NY
 
-👁️ 50K • 👍 2K • 💬 112 • ⏱️ 21:39 • 6d ago
+👁️ 525K • 👍 4K • 💬 799 • ⏱️ 2:01 • 1d ago
 
 ---
 
-**[Robot That Grows Through Rubble To Find Survivors 🤖 #rescue #robotics #shorts](https://www.youtube.com/watch?v=haGH86W_f5A)**
+**[Fauna Robotics unveils friendly humanoid robot Sprout](https://www.youtube.com/watch?v=V2uf8k1pGyY)**
 
-The Growing Robot That Enters Collapsed Buildings Before Humans Do When disaster strikes and buildings collapse, reaching ...
+Sprout, a 3 1/2-foot-tall humanoid from Fauna Robotics, debuts with a soft foam body, expressive moves and a friendly vibe.
 
-📺 EcoZora
+📺 Associated Press
 
-👁️ 344K • 👍 1K • 💬 151 • ⏱️ 0:07 • 2d ago
+👁️ 15K • 👍 122 • 💬 12 • ⏱️ 0:55 • 1d ago
 
 ---
 
