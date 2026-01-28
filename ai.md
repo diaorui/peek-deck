@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-01-28T19:53:48.899648+00:00'
+updated: '2026-01-28T20:33:07.572565+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- social
-- videos
-- repositories
 - news
+- videos
+- social
+- repositories
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** January 28, 2026 at 19:53 UTC  
+**Last Updated:** January 28, 2026 at 20:33 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -39,7 +39,7 @@ AI news, discussions, and developments
 
 **[Trump’s acting cyber chief uploaded sensitive files into a public version of ChatGPT. The interim director of the Cybersecurity and Infrastructure Security Agency triggered an internal cybersecurity warning with the uploads — and a DHS-level damage assessment.](https://www.reddit.com/r/artificial/comments/1qozsna/trumps_acting_cyber_chief_uploaded_sensitive/)**
 
-🔗 [politico.com](https://www.politico.com/news/2026/01/27/cisa-madhu-gottumukkala-chatgpt-00749361) • 16h ago
+🔗 [politico.com](https://www.politico.com/news/2026/01/27/cisa-madhu-gottumukkala-chatgpt-00749361) • 17h ago
 
 ---
 
@@ -47,7 +47,7 @@ AI news, discussions, and developments
 
 More and more of my freelance clients are turning to "vibe coding" instead of hiring me. Whether AI is doing a good job or whether it can create production-ready apps doesn't really matter, my clients don't care because they never end up moving past the MVP phase (something I already knew before AI). All the money in freelance work is basically in MVP, and AI coding agents are perfect for developing MVPs that go nowhere.
 
-2h ago
+3h ago
 
 ---
 
@@ -55,7 +55,7 @@ More and more of my freelance clients are turning to "vibe coding" instead of hi
 
 Unsealed legal documents reveal Meta, TikTok, and Google purposefully targeted children for addiction, ICE raids stall GOP in Minnesota, Trump targets Cuba, Oregon's voter rolls stay private, the CIA moves into Venezuela, Trump Cyber Chief accidentally uploads policies to ChatGPT, Meta blocks links
 
-🔗 [Instrumental Communications](https://www.instrumentalcomms.com/blog/unsealed-docs-reveal-big-tech-targets-kids#ai) • 6h ago
+🔗 [Instrumental Communications](https://www.instrumentalcomms.com/blog/unsealed-docs-reveal-big-tech-targets-kids#ai) • 7h ago
 
 ---
 
@@ -63,7 +63,7 @@ Unsealed legal documents reveal Meta, TikTok, and Google purposefully targeted c
 
 After the Claude/Anthropic incident where AI was used in a large-scale cyberattack, we've been publishing weekly threat intelligence on what's actually targeting AI agents in production. This week (74,636 interactions monitored) 37.8% contained attack attempts 74.8% of those were cybersecurity-related (malware gen, exploits) The new threat nobody's talking about: Inter-Agent Attacks As people deploy multi-agent systems, attackers are sending poisoned messages designed to propagate from one agent to another. We're seeing: Agent impersonation Goal hijacking Constraint removal Recursive attack propagation This is 3.4% of threats now, detected at 97.7% confidence. Top attack categories Data exfiltration (19.2%) - stealing system prompts and context Jailbreaks (12.3%) RAG poisoning (10.0%) Prompt injection (8.8%) The ClawdBot incident was the canary. If your AI can take actions, it's a target. Full report: https://raxe.ai/threat-intelligence Github: https://github.com/raxe-ai/raxe-ce is free for the community to use
 
-11h ago
+12h ago
 
 ---
 
@@ -79,7 +79,7 @@ DeepMind’s AlphaGenome AI model could help solve the problem of predicting how
 
 I just saw a post discussing clawdbot, about someone not finding a usecase for automating tasks and I realised I too simply can't find anything that I need to automate. I'd love to hear what y'all find automatable. Could this just end up being a very niche feature.
 
-3h ago
+4h ago
 
 ---
 
@@ -93,7 +93,7 @@ Tried ClawdBot (now MoltBot) on a freshly installed system. At first? 🔥 Insan
 
 **[Pinterest lays off hundreds, citing need for 'AI-proficient talent'](https://www.reddit.com/r/artificial/comments/1qotqu1/pinterest_lays_off_hundreds_citing_need_for/)**
 
-🔗 [sfgate.com](https://www.sfgate.com/tech/article/pinterest-layoffs-hundreds-ai-21318302.php) • 20h ago
+🔗 [sfgate.com](https://www.sfgate.com/tech/article/pinterest-layoffs-hundreds-ai-21318302.php) • 21h ago
 
 ---
 
@@ -109,7 +109,7 @@ A researcher has created a chatbot that is indistinguishable from human particip
 
 I saw many people struggling to setup and secure their moltbot/clawdbot. So, I made a tool which will help you to setup and secure your bot.
 
-🔗 [moltbot.guru](https://moltbot.guru) • 2h ago
+🔗 [moltbot.guru](https://moltbot.guru) • 3h ago
 
 ---
 
@@ -121,13 +121,13 @@ I saw many people struggling to setup and secure their moltbot/clawdbot. So, I m
 
 Forth Worth teacher Chanea Bond says sticking with pen and paper keeps generative artificial intelligence out of her American literature classes.
 
-NPR • 9h ago
+NPR • 10h ago
 
 ---
 
 **[With AlphaGenome, Researchers Are Using A.I. to Decode the Human Blueprint](https://www.nytimes.com/2026/01/28/science/alphagenome-ai-deepmind-genetics.html)**
 
-The New York Times • 3h ago
+The New York Times • 4h ago
 
 ---
 
@@ -135,7 +135,7 @@ The New York Times • 3h ago
 
 It could transform our understanding of why diseases develop and the medicines needed to treat them, says researchers.
 
-BBC • 3h ago
+BBC • 4h ago
 
 ---
 
@@ -143,7 +143,7 @@ BBC • 3h ago
 
 AlphaGenome can analyse up to 1m letters of DNA code at once and could pave way for new treatments
 
-The Guardian • 2h ago
+The Guardian • 3h ago
 
 ---
 
@@ -151,7 +151,7 @@ The Guardian • 2h ago
 
 South Korea's SK Hynix on Wednesday posted record quarterly revenue and profit, to beat estimates.
 
-CNBC • 11h ago
+CNBC • 12h ago
 
 ---
 
@@ -159,7 +159,7 @@ CNBC • 11h ago
 
 Meta will report fourth-quarter earnings, and investors will be looking for any signs that its new AI strategy will benefit the company in the new year.
 
-CNBC • 2h ago
+CNBC • 3h ago
 
 ---
 
@@ -173,7 +173,7 @@ Business Insider • 1h ago
 
 **[Software Company Bonds Drop as Investors’ AI Worries Mount](https://www.bloomberg.com/news/articles/2026-01-28/software-company-bonds-drop-as-investors-ai-worries-mount)**
 
-Bloomberg.com • 30m ago
+Bloomberg.com • 1h ago
 
 ---
 
@@ -181,7 +181,7 @@ Bloomberg.com • 30m ago
 
 WhatsApp plans to charge developers of AI chatbots per message.
 
-TechCrunch • 34m ago
+TechCrunch • 1h ago
 
 ---
 
@@ -189,7 +189,7 @@ TechCrunch • 34m ago
 
 Amazon is laying off 16,000 employees, the company’s second round of massive job reductions in two months as it fights to improve its standing in the battle for AI supremacy.
 
-CNN • 8h ago
+CNN • 9h ago
 
 ---
 
@@ -259,7 +259,7 @@ Opinion: Autonomous agents may generate millions of lines of code, but shipping 
 
 Interactive article explaining the physics of an airfoil and what makes airplanes fly
 
-⬆️ 231 • 💬 39 • 5h ago • [ciechanow.ski](https://ciechanow.ski/airfoil/)
+⬆️ 231 • 💬 39 • 6h ago • [ciechanow.ski](https://ciechanow.ski/airfoil/)
 
 ---
 
@@ -281,7 +281,7 @@ Become a Channel Member (Exclusive Videos): https://www.youtube.com/channel/UCAF
 
 📺 Keith D
 
-👁️ 16K • 👍 1K • 💬 263 • ⏱️ 10:20 • 5h ago
+👁️ 16K • 👍 1K • 💬 263 • ⏱️ 10:20 • 6h ago
 
 ---
 
@@ -301,7 +301,7 @@ China's AI race just shifted. Moonshot quietly rolled out Kimi K2.5, and the jum
 
 📺 AI Revolution
 
-👁️ 18K • 👍 545 • 💬 34 • ⏱️ 12:41 • 20h ago
+👁️ 18K • 👍 545 • 💬 34 • ⏱️ 12:41 • 21h ago
 
 ---
 
@@ -321,7 +321,7 @@ Clawdbot full tutorial. How to install Clawdbot / Moltbot. Use cases of Clawd. C
 
 📺 AI Search
 
-👁️ 52K • 👍 3K • 💬 485 • ⏱️ 28:44 • 16h ago
+👁️ 52K • 👍 3K • 💬 485 • ⏱️ 28:44 • 17h ago
 
 ---
 
@@ -331,7 +331,7 @@ Want to make money and save time with AI? Get AI Coaching, Support & Courses ...
 
 📺 Julian Goldie SEO
 
-👁️ 12K • 👍 284 • 💬 36 • ⏱️ 9:34 • 17h ago
+👁️ 12K • 👍 284 • 💬 36 • ⏱️ 9:34 • 18h ago
 
 ---
 
@@ -351,7 +351,7 @@ Anthropic CEO Dario Amodei called for an embargo on the sale of chips and data c
 
 📺 ABC News
 
-👁️ 6K • 👍 60 • 💬 27 • ⏱️ 3:17 • 21h ago
+👁️ 6K • 👍 60 • 💬 27 • ⏱️ 3:17 • 22h ago
 
 ---
 
@@ -371,7 +371,7 @@ There's something unsettling about asking a machine a question and realizing it 
 
 📺 Origins Explained
 
-👁️ 60K • 👍 2K • 💬 354 • ⏱️ 29:18 • 22h ago
+👁️ 60K • 👍 2K • 💬 354 • ⏱️ 29:18 • 23h ago
 
 ---
 
@@ -435,7 +435,7 @@ Z-Image is an undistilled, high-fidelity text-to-image diffusion transformer mod
 
 `text-to-image`
 
-⬇️ 0 • ❤️ 551 • 5h ago
+⬇️ 0 • ❤️ 551 • 6h ago
 
 ---
 
@@ -483,7 +483,7 @@ Chroma-4B is a real-time, end-to-end spoken dialogue model capable of speech und
 
 `any-to-any` `5.9B`
 
-⬇️ 5,776 • ❤️ 278 • 16h ago
+⬇️ 5,776 • ❤️ 278 • 17h ago
 
 ---
 
@@ -643,7 +643,7 @@ Browser automation CLI for AI agents
 
 `TypeScript`
 
-⭐ 11.2k • 🔱 616 • 2h ago
+⭐ 11.2k • 🔱 616 • 3h ago
 
 ---
 
@@ -673,7 +673,7 @@ LLM驱动的 A/H/美股智能分析器，多数据源行情 + 实时新闻 + Gem
 
 `Python` `agent` `ai` `aigc` `gemini` `llm`
 
-⭐ 6.5k • 🔱 7.1k • 5h ago
+⭐ 6.5k • 🔱 7.1k • 6h ago
 
 ---
 
@@ -683,7 +683,7 @@ LLM驱动的 A/H/美股智能分析器，多数据源行情 + 实时新闻 + Gem
 
 `Vue`
 
-⭐ 6.4k • 🔱 1.2k • 5h ago
+⭐ 6.4k • 🔱 1.2k • 6h ago
 
 ---
 
@@ -693,7 +693,7 @@ Marketing skills for Claude Code and AI agents. CRO, copywriting, SEO, analytics
 
 `claude` `codex` `marketing`
 
-⭐ 5.1k • 🔱 548 • 11h ago
+⭐ 5.1k • 🔱 548 • 12h ago
 
 ---
 
@@ -703,7 +703,7 @@ The Ultimate Collection of 500+ Agentic Skills for Claude Code/Antigravity/Curso
 
 `Python` `agentic-skills` `ai-agents` `antigravity` `autonomous-coding` `claude-code`
 
-⭐ 4.8k • 🔱 1.1k • 2h ago
+⭐ 4.8k • 🔱 1.1k • 3h ago
 
 ---
 

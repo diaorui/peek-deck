@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-01-28T19:53:48.918038+00:00'
+updated: '2026-01-28T20:33:07.588804+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- social
-- videos
 - news
+- videos
+- social
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** January 28, 2026 at 19:53 UTC  
+**Last Updated:** January 28, 2026 at 20:33 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -42,7 +42,7 @@ Robotics research and industry news
 
 We are building a 3d-printable animatronics robots, Mostly the same 3d printed parts lets you assemble different animal robots, and we are trying to make it on the cheapest way possible (less than $50 is the target). Current list: Robotic dog Spider Robotic arm So far 300 people downloaded it from GrabCAD and Instructables, Got some positive feedbacks. And feedbacks to making the walking more smoother(Planning to add spring and weights) and assembly a bit easier(Planning for a snap fit). Why this post? We are currently working on the V2 of it, We are trying to put the design Infront of as many peoples and get their thoughts, ideas for new animals, making existing much better. Will appreciate any inputs. Link for files : https://grabcad.com/library/diy-robotic-dog-1 Assembly : https://www.instructables.com/Trix/ Reposting it here, Haven't got any replies last time 💀
 
-6h ago
+7h ago
 
 ---
 
@@ -50,7 +50,7 @@ We are building a 3d-printable animatronics robots, Mostly the same 3d printed p
 
 3 x Super-Beacons as stationary beacons for precise 3D indoor positioning 1 x (Mini-RX + External Microphone + Deflector) as a mobile beacon for the drone 1 x Modem v5.1 as a central controller This is not an autonomous flight - the drone was remotely controlled. But it shows precise indoor 3D tracking capabilities for swarming drones.
 
-11h ago
+12h ago
 
 ---
 
@@ -58,7 +58,7 @@ We are building a 3d-printable animatronics robots, Mostly the same 3d printed p
 
 Former iRobot CEO Colin Angle talks about how robotics isn’t really a single “thing,” and that defaulting to humanoids as the mental model ends up flattening what’s actually going on in the field. He ties it back to his time at iRobot and how a lot of success or failure came down to very specific questions about value and trust, not form factor. Amazon attempted to acquire the declining company from bankruptcy but after an 18-month process the deal fell through. Angle is now with another company.
 
-3h ago
+4h ago
 
 ---
 
@@ -98,7 +98,7 @@ Meet Sprout. Fauna Robotics are releasing a new kind of robotics platform. One d
 
 I recently came across the Universal Manipulation Interface (UMI) paper and found it to be a promising approach for teaching robots manipulation skills without relying on teleportation-based control. I was particularly interested in exploring how well this approach works on low-cost DIY hardware, such as an AR4 robot arm. Key challenges: - High-latency robot and gripper controllers that only support single-step control commands - A low-FPS camera with image composition that differs from the data used during training Key engineering adaptations: 🛠️ Hardware Abstraction Layer - Original UMI supports UR5, Franka Emika, and industrial WSG grippers. - I wrote custom drivers to interface with a DIY AR4 6-DOF robot arm and a custom servo-based gripper. - Forward and inverse kinematics are solved on the PC side, and only joint commands are sent to the robot controller. 👁️ Vision System Retrofit - Original UMI relies on a GoPro with lens modification and a capture card. - I adapted the perception pipeline to use a standard ~$50 USB camera. 🖐️ Custom End-Effector - Designed and 3D-printed a custom parallel gripper. - Actuated by a standard hobby servo. - Controlled via an Arduino Mega 2560 (AR4 auxiliary controller). Repos: - UMI + AR4 integration: https://github.com/robotsir/umi_ar4_retrofit - AR4 custom firmware: https://github.com/robotsir/ar4_embodied_controller This is still a work in progress. Due to the hardware limitations above, the system is not yet as smooth as the original UMI setup, but my goal is to push performance as far as possible within these constraints. The system is already running end-to-end on real hardware. The GIF above shows a live demo. Feedback from people working on embodied AI, robot learning, or low-cost manipulation platforms would be very welcome. If you have an AR4 arm and are interested in trying this out, feel free to reach out.
 
-19h ago
+20h ago
 
 ---
 
@@ -140,7 +140,7 @@ InvestorPlace • 6h ago
 
 **[Synthetic 'muscle' with microfluidic blood vessels shows promise for soft robotics](https://techxplore.com/news/2026-01-synthetic-muscle-microfluidic-blood-vessels.html)**
 
-Tech Xplore • 23h ago
+Tech Xplore • 1d ago
 
 ---
 
@@ -188,7 +188,7 @@ AP News • 1d ago
 
 Approval confirms compliance with Department of War cybersecurity, supply-chain, and operational standards, further positioning Ondas' dual-use autonomous platform for expanded deployment across defense and critical infrastructure applications Milestone ...
 
-Yahoo Finance • 6h ago
+Yahoo Finance • 7h ago
 
 ---
 
@@ -212,7 +212,7 @@ Figure AI says its flagship humanoid is more autonomous than ever thanks to its 
 
 📺 Kalil 4.0
 
-👁️ 465 • 👍 17 • 💬 1 • ⏱️ 0:39 • 2h ago
+👁️ 465 • 👍 17 • 💬 1 • ⏱️ 0:39 • 3h ago
 
 ---
 
@@ -250,7 +250,7 @@ Get FREE Robotics & AI Resources (Guide, Textbooks, Courses, Resume Template, Co
 
 📺 Kevin Wood | Robotics & AI
 
-👁️ 752 • 👍 22 • 💬 2 • ⏱️ 3:51 • 13h ago
+👁️ 752 • 👍 22 • 💬 2 • ⏱️ 3:51 • 14h ago
 
 ---
 

@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-01-28T19:53:48.908308+00:00'
+updated: '2026-01-28T20:33:07.580253+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
+- news
 - social
 - videos
 - cryptocurrency
-- news
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** January 28, 2026 at 19:53 UTC  
+**Last Updated:** January 28, 2026 at 20:33 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -79,13 +79,13 @@ Rank #1
 
 **[This man filmed the reaction to bitcoin breaking $100 in 2013](https://www.reddit.com/r/Bitcoin/comments/1qox66j/this_man_filmed_the_reaction_to_bitcoin_breaking/)**
 
-18h ago
+19h ago
 
 ---
 
 **[This is unbearable](https://www.reddit.com/r/Bitcoin/comments/1qphgpc/this_is_unbearable/)**
 
-2h ago
+3h ago
 
 ---
 
@@ -111,13 +111,13 @@ Rank #1
 
 i use to be a multicoiner but i lost everything in 2021 in trading and scams.... i was too greedy actually and bitcoin don t reward this mindset.... it s so hard to start over from zero, even 0,01 BTC seems a lots now.... i ll never be a whole coiner again but find with it... i ll not do the same mistakes... i hope i will not... time will tell..... keep stacking guys.., see you in 10 years...
 
-9h ago
+10h ago
 
 ---
 
 **[Nothing more delicious than a Bitcoin burger](https://www.reddit.com/r/Bitcoin/comments/1qp35kq/nothing_more_delicious_than_a_bitcoin_burger/)**
 
-13h ago
+14h ago
 
 ---
 
@@ -125,13 +125,13 @@ i use to be a multicoiner but i lost everything in 2021 in trading and scams....
 
 Foundry USA’s hashrate plunged about 60%, pushing block times to as long as 14 minutes, yet bitcoin’s price and transaction fees barely moved.
 
-🔗 [Bitcoin News](https://bitcoinnews.com/p/fern-storm-bitcoin-hashrate-drops-miners-curtailment) • 4h ago
+🔗 [Bitcoin News](https://bitcoinnews.com/p/fern-storm-bitcoin-hashrate-drops-miners-curtailment) • 5h ago
 
 ---
 
 **[Think i will stay single.](https://www.reddit.com/r/Bitcoin/comments/1qp8rwv/think_i_will_stay_single/)**
 
-8h ago
+9h ago
 
 ---
 
@@ -139,7 +139,7 @@ Foundry USA’s hashrate plunged about 60%, pushing block times to as long as 14
 
 Historically, the most significant portion of Bitcoin's gains come in just 10 trading days out of an entire calendar year. Most of the time in Bitcoin is spent going sideways or down. It will shake out all weak hands and tourists, and punish anyone with high time preference. Then it will reward the patience of those who spend their time studying and growing their conviction (and touching grass) during the boring or bear markets. Act accordingly
 
-42m ago
+1h ago
 
 ---
 
@@ -151,7 +151,7 @@ Historically, the most significant portion of Bitcoin's gains come in just 10 tr
 
 Bitcoin and ether options worth billions of dollars are set to expire this Friday.
 
-CoinDesk • 6h ago
+CoinDesk • 7h ago
 
 ---
 
@@ -159,7 +159,7 @@ CoinDesk • 6h ago
 
 The bitcoin price rebounded above $90,000 as traders weigh the looming Fed rate decision.
 
-Bitcoin Magazine • 5h ago
+Bitcoin Magazine • 6h ago
 
 ---
 
@@ -167,7 +167,7 @@ Bitcoin Magazine • 5h ago
 
 A “crisis of confidence” in the U.S. dollar has been predicted to see bitcoin catch up with gold...
 
-Forbes • 7h ago
+Forbes • 8h ago
 
 ---
 
@@ -183,7 +183,7 @@ The Block • 14h ago
 
 The bill by State Representative Logan Manhart seeks to allocate as much as 10% of the state’s investment funds to the cryptocurrency.
 
-Decrypt • 4h ago
+Decrypt • 5h ago
 
 ---
 
@@ -191,7 +191,7 @@ Decrypt • 4h ago
 
 South Dakota has a new bill on the table that would let the state put up to 10% of certain public funds into Bitcoin. Reports say Rep. Logan Manhart filed House Bill 1155 this week, restarting an effort that stalled last year.The measure would change state investment rules to give the State Investm…
 
-TradingView • 1h ago
+TradingView • 2h ago
 
 ---
 
@@ -302,7 +302,7 @@ Reporting on Fintech, Crypto, and Blockchain Activity in Africa
 
 **[Show HN: We built a type-safe Python ORM for RedisGraph/FalkorDB](https://news.ycombinator.com/item?id=46796602)**
 
-⬆️ 5 • 💬 3 • 4h ago
+⬆️ 5 • 💬 3 • 5h ago
 
 ---
 
@@ -336,7 +336,7 @@ FREE Daily On-Chain Analysis & Crypto News In 5-Mins: http://bit.ly/TheCryptoNut
 
 📺 Library Of Wealth
 
-👁️ 10K • 👍 335 • 💬 350 • ⏱️ 16:28 • 14h ago
+👁️ 10K • 👍 335 • 💬 350 • ⏱️ 16:28 • 15h ago
 
 ---
 
@@ -376,7 +376,7 @@ In this solo episode, Anthony Pompliano explains why Bitcoin is lagging while go
 
 📺 Stock Moe
 
-👁️ 7K • 👍 682 • 💬 45 • ⏱️ 19:46 • 6h ago
+👁️ 7K • 👍 682 • 💬 45 • ⏱️ 19:46 • 7h ago
 
 ---
 
@@ -386,7 +386,7 @@ Bitcoin had a brutal week, but the real story happened behind closed doors at Da
 
 📺 Simply Bitcoin
 
-👁️ 22K • 👍 2K • 💬 214 • ⏱️ 16:25 • 20h ago
+👁️ 22K • 👍 2K • 💬 214 • ⏱️ 16:25 • 21h ago
 
 ---
 
@@ -396,7 +396,7 @@ ENTRE NO MEU GRUPO DE OPORTUNIDADES DIÁRIAS https://telegram.diegovelasques.com
 
 📺 Vela Trader
 
-👁️ 2K • 👍 529 • 💬 96 • ⏱️ 8:45 • 4h ago
+👁️ 2K • 👍 529 • 💬 96 • ⏱️ 8:45 • 5h ago
 
 ---
 
@@ -406,7 +406,7 @@ Is the four-year Bitcoin cycle finally dead? Joe Carlasare breaks down why tradi
 
 📺 Swan Bitcoin
 
-👁️ 450 • 👍 15 • 💬 17 • ⏱️ 0:53 • 3h ago
+👁️ 450 • 👍 15 • 💬 17 • ⏱️ 0:53 • 4h ago
 
 ---
 
