@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-01-28T11:24:11.373621+00:00'
+updated: '2026-01-28T11:45:24.371650+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
 - cryptocurrency
+- news
 - social
 - videos
-- news
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** January 28, 2026 at 11:24 UTC  
+**Last Updated:** January 28, 2026 at 11:45 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -52,17 +52,17 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Market Stats
 
-**Market Cap:** $361.55B
+**Market Cap:** $364.38B
 Rank #2
 
 **Circulating Supply:** 120,694,374 ETH
 No max supply
 
 **All-Time High:** $4,946.05
--39.4%
+-38.9%
 
 **All-Time Low:** $0.43
-+692090.6%
++697714.4%
 
 ---
 
@@ -176,7 +176,7 @@ Yahoo Finance • 1h ago
 
 A new Ethereum standard seeks to give AI agents portable identities and reputations, letting them interact across companies and chains without relying on centralized gatekeepers.
 
-CoinDesk • 3h ago
+CoinDesk • 4h ago
 
 ---
 
@@ -196,7 +196,7 @@ Binance • 1d ago
 
 **[Bitcoin, Ethereum, XRP Rise. Why the Sell America Trade Has Gripped Cryptos.](https://www.barrons.com/articles/bitcoin-ethereum-xrp-crypto-today-18fbb937?gaa_at=eafs&gaa_n=AWEtsqcgCsNhy0f1dtlZUGeAlZqomMGKojqcTCMUK7TCBKD8CNSzpSyHoGvX&gaa_ts=6979f545&gaa_sig=qJiL9QMsxbxyRpBpF9v9tOlPcnSeP0QXXcf3yEMqya_lNR3bI2ovUGDDi8AGYEG9ayqM1O4rHftgNovj9V8jRA%3D%3D)**
 
-Barron's • 34m ago
+Barron's • 55m ago
 
 ---
 
@@ -234,7 +234,7 @@ FREE Daily On-Chain Analysis & Crypto News In 5-Mins: http://bit.ly/TheCryptoNut
 
 📺 Library Of Wealth
 
-👁️ 2K • 👍 127 • 💬 133 • ⏱️ 16:28 • 6h ago
+👁️ 3K • 👍 202 • 💬 173 • ⏱️ 16:28 • 6h ago
 
 ---
 
@@ -244,17 +244,7 @@ Tom Lee Just Said The UNTHINKABLE About Bitcoin & Ethereum! [2026 New Prediction
 
 📺 Crypto Nutshell
 
-👁️ 22K • 👍 630 • 💬 100 • ⏱️ 14:37 • 20h ago
-
----
-
-**[BITCOIN AND ETH: DOLLAR MAY NOT SURVIVE THIS!!!!! (emergency)](https://www.youtube.com/watch?v=a9BqYWEBL7E)**
-
-FREE TRAINING: https://www.bullmania.com EXCHANGES I USE (bybit, pionex): https://www.bullmania.com/partners My ...
-
-📺 Ivan on Tech
-
-👁️ 2K • 👍 192 • 2h ago
+👁️ 23K • 👍 644 • 💬 100 • ⏱️ 14:37 • 20h ago
 
 ---
 
@@ -264,17 +254,7 @@ This video provides a professional Elliott Wave and technical analysis of Ethere
 
 📺 More Crypto Online
 
-👁️ 1K • 👍 92 • 💬 7 • ⏱️ 4:42 • 9h ago
-
----
-
-**[🚨 BTC &amp; ETH: SCARY!!!!!](https://www.youtube.com/watch?v=ChdzwU6zguI)**
-
-These news have huge implications towards bitcoin, ethereum and the rest of crypto! Here is my take on the situation and my ...
-
-📺 Thomas Kralow
-
-👁️ 18K • 👍 3K • 💬 37 • ⏱️ 10:51 • 2d ago
+👁️ 1K • 👍 98 • 💬 7 • ⏱️ 4:42 • 9h ago
 
 ---
 
@@ -288,13 +268,33 @@ Let's talk about Ethereum! For inquirires: https://www.benjamincowen.com/ Into T
 
 ---
 
-**[BITCOIN AND ETH: SILVER CATCHUP RALLY WILL BE INSANE!!!!](https://www.youtube.com/watch?v=aKaFXbZkTnM)**
+**[🚨 BTC &amp; ETH: SCARY!!!!!](https://www.youtube.com/watch?v=ChdzwU6zguI)**
 
-FREE TRAINING: https://www.bullmania.com EXCHANGES I USE (bybit, pionex): https://www.bullmania.com/partners My ...
+These news have huge implications towards bitcoin, ethereum and the rest of crypto! Here is my take on the situation and my ...
 
-📺 Ivan on Tech
+📺 Thomas Kralow
 
-👁️ 23K • 👍 1K • 💬 129 • ⏱️ 59:47 • 1d ago
+👁️ 18K • 👍 3K • 💬 37 • ⏱️ 10:51 • 2d ago
+
+---
+
+**[🥳 Ethereum Enters 4TH CYCLE (Bullish For Altcoins!)](https://www.youtube.com/watch?v=uZ606X9F3hY)**
+
+Donation Address: yourfriendsommi.eth / yourfriendsommi.pls Click Subscribe + Bell Button 'All' Follow on Twitter: ...
+
+📺 🌟yourfriendsommi
+
+👁️ 88 • 👍 19 • 💬 1 • ⏱️ 15:53 • 14m ago
+
+---
+
+**[WHY ETHEREUM CAN RALLY HIGHER!🔥 (Ethereum Price Prediction 2026)](https://www.youtube.com/watch?v=eCERvm1bTqQ)**
+
+ETHEREUM ETH PRICE PREDICTION 2026 Join the Premium Signal Group for trade setups, mentorship & a community ...
+
+📺 Cilinix Crypto
+
+👁️ 69 • 👍 9 • 💬 1 • ⏱️ 4:20 • 1h ago
 
 ---
 
@@ -304,7 +304,7 @@ SharpLink CEO and former BlackRock head of digital assets strategy, Joseph Chalo
 
 📺 CoinDesk
 
-👁️ 19K • 👍 590 • 💬 109 • ⏱️ 23:51 • 1d ago
+👁️ 19K • 👍 592 • 💬 110 • ⏱️ 23:51 • 1d ago
 
 ---
 
@@ -324,7 +324,7 @@ This video provides a professional Elliott Wave and technical analysis of Ethere
 
 📺 More Crypto Online
 
-👁️ 2K • 👍 114 • 💬 9 • ⏱️ 4:08 • 17h ago
+👁️ 2K • 👍 114 • 💬 9 • ⏱️ 4:08 • 18h ago
 
 ---
 

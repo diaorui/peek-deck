@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-01-28T11:24:11.367564+00:00'
+updated: '2026-01-28T11:45:24.365729+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
 - cryptocurrency
+- news
 - social
 - videos
-- news
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** January 28, 2026 at 11:24 UTC  
+**Last Updated:** January 28, 2026 at 11:45 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -54,17 +54,17 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1778.41B
+**Market Cap:** $1785.98B
 Rank #1
 
-**Circulating Supply:** 19,981,446 BTC
+**Circulating Supply:** 19,981,468 BTC
 95.1% of max
 
 **All-Time High:** $126,080.00
--29.4%
+-29.0%
 
 **All-Time Low:** $67.81
-+131196.3%
++131837.8%
 
 ---
 
@@ -127,13 +127,13 @@ I'm a teenager from a third world country, and I'm glad to share that I'm finall
 
 HODL.
 
-17h ago
+18h ago
 
 ---
 
 **[Rule 11](https://www.reddit.com/r/Bitcoin/comments/1qoe2h3/rule_11/)**
 
-21h ago
+22h ago
 
 ---
 
@@ -153,7 +153,7 @@ i use to be a multicoiner but i lost everything in 2021 in trading and scams....
 
 The latest proposal closely mirrors House Bill 1202, which was introduced during the 2025 legislative session.
 
-The Block • 5h ago
+The Block • 6h ago
 
 ---
 
@@ -161,13 +161,13 @@ The Block • 5h ago
 
 The president said he isn't concerned about the dollar's recent declines, sending the greenback plunging even lower.
 
-CoinDesk • 13h ago
+CoinDesk • 14h ago
 
 ---
 
 **[Bitcoin, Ethereum, XRP Rise. Why the Sell America Trade Has Gripped Cryptos.](https://www.barrons.com/articles/bitcoin-ethereum-xrp-crypto-today-18fbb937?gaa_at=eafs&gaa_n=AWEtsqcKN0CatgmGdvqmHkXXGnhT9qRyQhtdqvXNz07MMw02Z-XMlhEgN_JZ&gaa_ts=6979f544&gaa_sig=xFNPIhNna2VXcNBQf0_EPiljz4QnByZirfzORrl70Ni3_FP63kw6zRQi8CVpb73-izKgS9yb9aqTBuax3oRe3A%3D%3D)**
 
-Barron's • 34m ago
+Barron's • 55m ago
 
 ---
 
@@ -175,13 +175,13 @@ Barron's • 34m ago
 
 Gold surges to record $5,280 per ounce. Political turbulence fuels the rally. Yet Bitcoin and other cryptos lag behind.
 
-Yahoo Finance • 1h ago
+Yahoo Finance • 2h ago
 
 ---
 
 **[Bitcoin Believers Are Looking to Stocks and Gold](https://www.bloomberg.com/news/newsletters/2026-01-27/bitcoin-believers-are-looking-to-stocks-and-gold)**
 
-Bloomberg.com • 11h ago
+Bloomberg.com • 12h ago
 
 ---
 
@@ -189,7 +189,7 @@ Bloomberg.com • 11h ago
 
 Proponents of bitcoin have been calling it “digital gold.” Both the cryptocurrency and the precious metal are impossible to value because they don't pay any interest or dividends. Bitcoin is digital, making it potentially vulnerable someday to hacking by quantum-computing algorithms, while gold needs to be stored in a vault.
 
-Yardeni QuickTakes • 7h ago
+Yardeni QuickTakes • 8h ago
 
 ---
 
@@ -290,7 +290,7 @@ Transform HN comment threads into executive intelligence. AI analyzes discussion
 
 **[Show HN: I could build the translation tool I've wanted for 10 years](https://news.ycombinator.com/item?id=46786231)**
 
-⬆️ 1 • 💬 1 • 14h ago
+⬆️ 1 • 💬 1 • 15h ago
 
 ---
 
@@ -306,33 +306,23 @@ The altcoin market cap is still holding onto the macro uptrend despite all the s
 
 ## YouTube Videos: "bitcoin"
 
-**[Silver Just Sent a Warning Signal to the Entire Financial System - Got Bitcoin?](https://www.youtube.com/watch?v=5WJyycfYjZs)**
-
-Silver has exploded, gold is ripping, and Bitcoin looks left behind — but history says this is exactly how the cycle works.
-
-📺 Swan Bitcoin
-
-👁️ 42K • 👍 2K • 💬 343 • ⏱️ 17:47 • 12h ago
-
----
-
 **[Tom Lee: &quot;This Signal Confirms Bitcoin Will Hit a New High in 2026!&quot;](https://www.youtube.com/watch?v=1wPj1tFcDdo)**
 
 This is not a victory lap — it's a reset. When Tom Lee throws out a $200000–$250000 Bitcoin target for 2026, he starts by doing ...
 
 📺 The Bitcoin Revolution
 
-👁️ 2K • 👍 67 • 💬 69 • ⏱️ 8:58 • 17h ago
+👁️ 2K • 👍 68 • 💬 67 • ⏱️ 8:58 • 17h ago
 
 ---
 
-**[THEY LIED About the BTC Cycle! EVERYTHING Changes in FEBRUARY - Raoul Pal &amp; Samson Mow](https://www.youtube.com/watch?v=j5RBrEjNMcY)**
+**[Silver Just Sent a Warning Signal to the Entire Financial System - Got Bitcoin?](https://www.youtube.com/watch?v=5WJyycfYjZs)**
 
-Take Control of Your Retirement — Grow Crypto & Gold Tax-Advantaged. https://www.itrustcapital.com/go/savvy-finance If you're ...
+Silver has exploded, gold is ripping, and Bitcoin looks left behind — but history says this is exactly how the cycle works.
 
-📺 Savvy Finance
+📺 Swan Bitcoin
 
-👁️ 11K • 👍 433 • 💬 16 • ⏱️ 19:52 • 18h ago
+👁️ 48K • 👍 2K • 💬 365 • ⏱️ 17:47 • 12h ago
 
 ---
 
@@ -342,37 +332,17 @@ In this solo episode, Anthony Pompliano explains why Bitcoin is lagging while go
 
 📺 Anthony Pompliano
 
-👁️ 72K • 👍 3K • 💬 159 • ⏱️ 17:45 • 1d ago
+👁️ 74K • 👍 3K • 💬 159 • ⏱️ 17:45 • 1d ago
 
 ---
 
-**[HUGE BITCOIN DIVERGENCE!!!! (Historical Signal)](https://www.youtube.com/watch?v=hLSgEYiOIqI)**
+**[THEY LIED About the BTC Cycle! EVERYTHING Changes in FEBRUARY - Raoul Pal &amp; Samson Mow](https://www.youtube.com/watch?v=j5RBrEjNMcY)**
 
-WEEX: https://www.weex.com/events/promo/usdtgiveaway?vipCode=00dt&qrType=activity 25% FEE DISCOUNT & GET FREE ...
+Take Control of Your Retirement — Grow Crypto & Gold Tax-Advantaged. https://www.itrustcapital.com/go/savvy-finance If you're ...
 
-📺 Crypto Rover
+📺 Savvy Finance
 
-👁️ 3K • 👍 264 • 💬 10 • ⏱️ 9:46 • 4h ago
-
----
-
-**[60% of Banks Gearing Up For Crypto In 2026? PROOF!](https://www.youtube.com/watch?v=cBWOnFm6nY4)**
-
-I didn't know that this many banks are getting ready for a crypto push. The links below may include affiliate links, which means I ...
-
-📺 Digital Asset News
-
-👁️ 9K • 👍 761 • 💬 42 • ⏱️ 23:24 • 15h ago
-
----
-
-**[BREAKING: IT’S HAPPENING AGAIN](https://www.youtube.com/watch?v=9XzkNFXIRG0)**
-
-Trade Like A Tourist Or Join The Pros FFA Is Where The Real Ones Go https://cryptocrewuniversity.com/ffa Get INSIDER ...
-
-📺 Crypto Crew University
-
-👁️ 38K • 👍 3K • 💬 213 • ⏱️ 15:06 • 21h ago
+👁️ 11K • 👍 448 • 💬 16 • ⏱️ 19:52 • 18h ago
 
 ---
 
@@ -382,27 +352,57 @@ As the stock market witnesses high volatility, experts anticipate potential shar
 
 📺 Paul Barron Network
 
-👁️ 62K • 👍 3K • 💬 199 • ⏱️ 17:32 • 14h ago
+👁️ 66K • 👍 3K • 💬 205 • ⏱️ 17:32 • 15h ago
 
 ---
 
-**[URGENT SENATOR EXPECTS CRYPTO BILL TO PASS! BITCOIN TO FOLLOW INSANE GOLD RALLY?!](https://www.youtube.com/watch?v=YCIfqG2N1KE)**
+**[HUGE BITCOIN DIVERGENCE!!!! (Historical Signal)](https://www.youtube.com/watch?v=hLSgEYiOIqI)**
 
-URGENT: SENATOR EXPECTS CRYPTO BILL TO PASS! BITCOIN TO FOLLOW INSANE GOLD RALLY?! iTrustCapital (partner) ...
+WEEX: https://www.weex.com/events/promo/usdtgiveaway?vipCode=00dt&qrType=activity 25% FEE DISCOUNT & GET FREE ...
 
-📺 CryptoWendyO
+📺 Crypto Rover
 
-👁️ 19K • 👍 1K • 💬 24 • ⏱️ 32:58 • 16h ago
+👁️ 5K • 👍 371 • 💬 43 • ⏱️ 9:46 • 4h ago
 
 ---
 
-**[IT&#39;S OVER FOR CRYPTO BLACKROCK PLACED THEIR BETS!](https://www.youtube.com/watch?v=6HPeviuGxO0)**
+**[BREAKING: IT’S HAPPENING AGAIN](https://www.youtube.com/watch?v=9XzkNFXIRG0)**
 
-IT'S OVER FOR CRYPTO BLACKROCK PLACED THEIR BETS! I don't believe that crypto is going anywhere, and I also believe ...
+Trade Like A Tourist Or Join The Pros FFA Is Where The Real Ones Go https://cryptocrewuniversity.com/ffa Get INSIDER ...
 
-📺 CryptoWendyO
+📺 Crypto Crew University
 
-👁️ 35K • 👍 1K • 💬 251 • ⏱️ 3:19 • 1d ago
+👁️ 39K • 👍 3K • 💬 213 • ⏱️ 15:06 • 21h ago
+
+---
+
+**[LIVE: Michael Saylor on Bitcoin Bull Run &amp; MSTR Stock – BTC Price Analysis](https://www.youtube.com/watch?v=I2YtgIsAsJo)**
+
+BTC #Bitcoin #Cryptocurrency Join Michael Saylor for his unforgettable keynote at the Bitcoin Сonference. A visionary Bitcoin ...
+
+📺 Exclusively Drew
+
+👁️ 4K • 👍 5K • 57m ago
+
+---
+
+**[Michael Saylor on Bitcoin Crash &amp; MSTR Stock Drop – BTC Price Analysis](https://www.youtube.com/watch?v=1K9gc5WEY1w)**
+
+BTC #Bitcoin #Cryptocurrency Join Michael Saylor for his unforgettable keynote at the Bitcoin Conference. The leading Bitcoin ...
+
+📺 cadirae
+
+👁️ 3K • 👍 1K • 10h ago
+
+---
+
+**[60% of Banks Gearing Up For Crypto In 2026? PROOF!](https://www.youtube.com/watch?v=cBWOnFm6nY4)**
+
+I didn't know that this many banks are getting ready for a crypto push. The links below may include affiliate links, which means I ...
+
+📺 Digital Asset News
+
+👁️ 9K • 👍 784 • 💬 45 • ⏱️ 23:24 • 15h ago
 
 ---
 

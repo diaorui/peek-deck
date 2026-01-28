@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-01-28T11:24:11.359110+00:00'
+updated: '2026-01-28T11:45:24.357336+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
 - repositories
-- social
 - videos
 - news
+- social
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** January 28, 2026 at 11:24 UTC  
+**Last Updated:** January 28, 2026 at 11:45 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -55,7 +55,7 @@ After the Claude/Anthropic incident where AI was used in a large-scale cyberatta
 
 Amazon is laying off 16,000 employees, the company’s second round of massive job reductions in two months as it fights to improve its standing in the battle for AI supremacy.
 
-🔗 [CNN](https://www.cnn.com/2026/01/28/tech/amazon-layoffs-ai?utm_medium=social&utm_campaign=missions&utm_source=reddit) • 14m ago
+🔗 [CNN](https://www.cnn.com/2026/01/28/tech/amazon-layoffs-ai?utm_medium=social&utm_campaign=missions&utm_source=reddit) • 35m ago
 
 ---
 
@@ -63,7 +63,7 @@ Amazon is laying off 16,000 employees, the company’s second round of massive j
 
 Tried ClawdBot (now MoltBot) on a freshly installed system. At first? 🔥 Insane. It found a pitch deck buried in my messy external HDD and even sent it on WhatsApp. Super impressive. Few hours later — I get an Amazon alert: • Login at 2:40 AM • Different location • Logged in from Windows • I’m on Linux • I did NOT log in Could be a false alert (I have 2FA), but the timing freaked me out. Tried uninstalling the bot — no clear guide. Had to dig into code, found it running as a system service, manually removed everything. Realized my mistake: Chrome was installed → password manager + sessions were there. ⚠️ Lesson: These tools are powerful, but don’t install them unless you fully understand what access you’re giving. Not accusing. Just sharing experience. If you know a guide to uninstall if it’s available on the site, please drop it.
 
-12h ago
+13h ago
 
 ---
 
@@ -93,7 +93,7 @@ I’ve been messing around with all these AI tools lately—Suno, that ACE vocal
 
 Google released new developer tools for Google AI Pro and Ultra subscribers.[1] FDA official offers tips on leveraging AI in drug manufacturing.[2] OpenAI released Prism, a free workspace for scientific writing and collaboration, with GPT‑5.2.[3] Microsoft Pledged to Save Water. In the A.I. Era, It Expects Water Use to Soar.[4] Sources: [1] https://blog.google/innovation-and-ai/technology/developers-tools/gdp-premium-ai-pro-ultra/ [2] https://www.raps.org/news-and-articles/news-articles/2026/1/fda-official-offers-tips-on-leveraging-ai-in-drug [3] https://openai.com/index/introducing-prism/ [4] https://www.nytimes.com/2026/01/27/technology/microsoft-water-ai-data-centers.html
 
-5h ago
+6h ago
 
 ---
 
@@ -161,19 +161,19 @@ Yahoo Finance • 1h ago
 
 Amazon said on Wednesday it was cutting 16,000 jobs worldwide in the second major round of layoffs ⁠at the company in three months.
 
-CNBC • 40m ago
+CNBC • 1h ago
 
 ---
 
 **[Amazon to Cut 16,000 Jobs, Trimming Bureaucracy Amid AI Tussle](https://www.bloomberg.com/news/articles/2026-01-28/amazon-to-cut-16-000-jobs-trimming-bureaucracy-amid-ai-tussle)**
 
-Bloomberg.com • 48m ago
+Bloomberg.com • 1h ago
 
 ---
 
 **[SF's Pinterest lays off hundreds, citing need for 'AI-proficient talent'](https://www.sfgate.com/tech/article/pinterest-layoffs-hundreds-ai-21318302.php)**
 
-SFGATE • 12h ago
+SFGATE • 13h ago
 
 ---
 
@@ -181,7 +181,7 @@ SFGATE • 12h ago
 
 Students are taking new measures, such as dumbing down their work, spying on themselves and using AI “humanizer” programs, to beat accusations of cheating with artificial intelligence.
 
-NBC News • 24m ago
+NBC News • 45m ago
 
 ---
 
@@ -189,7 +189,7 @@ NBC News • 24m ago
 
 Dario Amodei questions if human systems are ready to handle the ‘almost unimaginable power’ that is ‘potentially imminent’
 
-The Guardian • 8h ago
+The Guardian • 9h ago
 
 ---
 
@@ -261,7 +261,7 @@ SERA is the first in our family of Open Coding Agents, achieving state-of-the-ar
 
 AISLE's autonomous analyzer found all 12 CVEs in the January 2026 coordinated release of OpenSSL, the open-source cryptographic library that underp...
 
-⬆️ 167 • 💬 121 • 9h ago • [AISLE](https://aisle.com/blog/aisle-discovered-12-out-of-12-openssl-vulnerabilities)
+⬆️ 167 • 💬 121 • 10h ago • [AISLE](https://aisle.com/blog/aisle-discovered-12-out-of-12-openssl-vulnerabilities)
 
 ---
 
@@ -281,17 +281,17 @@ Dario Amodei, the CEO of the AI company Anthropic, joined "Top Story" to discuss
 
 📺 NBC News
 
-👁️ 16K • 👍 334 • 💬 124 • ⏱️ 18:01 • 19h ago
+👁️ 18K • 👍 386 • 💬 137 • ⏱️ 18:01 • 19h ago
 
 ---
 
-**[&#39;HUGE BREAKTHROUGHS&#39;: NVIDIA CEO reveals future of AI](https://www.youtube.com/watch?v=oa7FWO8i7kk)**
+**[Google AI Studio New Update Is INSANE!](https://www.youtube.com/watch?v=hjGf2hnNdYQ)**
 
-NVIDIA CEO Jensen Huang discusses how artificial intelligence is advancing and handling competition with China on 'Maria ...
+Want to make money and save time with AI? Get AI Coaching, Support & Courses ...
 
-📺 Fox Business
+📺 Julian Goldie SEO
 
-👁️ 143K • 👍 2K • 💬 667 • ⏱️ 4:20 • 2d ago
+👁️ 8K • 👍 209 • 💬 26 • ⏱️ 9:34 • 9h ago
 
 ---
 
@@ -301,17 +301,27 @@ Check out the Dell Pro Max Workstation with the NVIDIA RTX PRO! https://bit.ly/d
 
 📺 Matthew Berman
 
-👁️ 250K • 👍 7K • 💬 870 • ⏱️ 21:12 • 2d ago
+👁️ 252K • 👍 7K • 💬 876 • ⏱️ 21:12 • 2d ago
 
 ---
 
-**[AI CEO warns governments and companies of bad actors using the tech](https://www.youtube.com/watch?v=PNC379oRUAY)**
+**[Cute Baby Gave His Mother A Beautiful New Horse #ai #cute #shorts](https://www.youtube.com/watch?v=wsxbb7gfgCU)**
 
-Anthropic CEO Dario Amodei called for an embargo on the sale of chips and data centers to China, to reduce AI's dangers.
+Cute Baby Gave His Mother A Beautiful New Horse #ai #cute #shorts.
 
-📺 ABC News
+📺 Jittu Kumar
 
-👁️ 5K • 👍 51 • 💬 22 • ⏱️ 3:17 • 13h ago
+👁️ 2K • ⏱️ 0:33 • 11m ago
+
+---
+
+**[&#39;HUGE BREAKTHROUGHS&#39;: NVIDIA CEO reveals future of AI](https://www.youtube.com/watch?v=oa7FWO8i7kk)**
+
+NVIDIA CEO Jensen Huang discusses how artificial intelligence is advancing and handling competition with China on 'Maria ...
+
+📺 Fox Business
+
+👁️ 144K • 👍 2K • 💬 671 • ⏱️ 4:20 • 2d ago
 
 ---
 
@@ -321,37 +331,27 @@ Axios CEO Jim VandeHei shares the blunt AI advice he recently wrote to his famil
 
 📺 Axios
 
-👁️ 8K • 👍 207 • 💬 22 • ⏱️ 5:57 • 2d ago
+👁️ 8K • 👍 209 • 💬 23 • ⏱️ 5:57 • 2d ago
 
 ---
 
-**[Davos 2026: The US-China AI Race, GPU Diplomacy, and Robots Walking the Streets | #225](https://www.youtube.com/watch?v=hGRiklWYMas)**
+**[How Corning Invented A New Fiber-Optic Cable For AI And Landed A $6 Billion Meta Deal](https://www.youtube.com/watch?v=Y3KLbc5DlRs)**
 
-Get access to metatrends 10+ years before anyone else - https://qr.diamandis.com/metatrends Salim Ismail is the founder of ...
+Meta is giving Corning up to $6 billion for fiber-optic cable in its AI data centers, in a deal reported first by CNBC. Famous for ...
 
-📺 Peter H. Diamandis
+📺 CNBC
 
-👁️ 48K • 👍 2K • 💬 463 • ⏱️ 1:40:37 • 14h ago
-
----
-
-**[Stonehenge Mystery Finally Solved by AI and the Truth Is Terrifying](https://www.youtube.com/watch?v=V-b-e6z8J2A)**
-
-Stonehenge Mystery Finally Solved by AI and the Truth Is Terrifying For over 5000 years, Stonehenge has stood in ...
-
-📺 The Silent Archive
-
-👁️ 183K • 👍 2K • 💬 213 • ⏱️ 21:00 • 1d ago
+👁️ 164K • 👍 3K • 💬 253 • ⏱️ 17:45 • 20h ago
 
 ---
 
-**[This Week Changed AI Forever](https://www.youtube.com/watch?v=yEvr1bmFlOM)**
+**[AI CEO warns governments and companies of bad actors using the tech](https://www.youtube.com/watch?v=PNC379oRUAY)**
 
-CHAPTERS ⤵ 00:00 AI Innovations You Need to Know 02:20 AI Trained on Body Cam Footage From Any Angle 05:02 What ...
+Anthropic CEO Dario Amodei called for an embargo on the sale of chips and data centers to China, to reduce AI's dangers.
 
-📺 Dylan Curious
+📺 ABC News
 
-👁️ 7K • 👍 317 • 💬 81 • ⏱️ 27:06 • 1d ago
+👁️ 5K • 👍 52 • 💬 22 • ⏱️ 3:17 • 13h ago
 
 ---
 
@@ -361,15 +361,17 @@ There's something unsettling about asking a machine a question and realizing it 
 
 📺 Origins Explained
 
-👁️ 43K • 👍 2K • 💬 275 • ⏱️ 29:18 • 14h ago
+👁️ 48K • 👍 2K • 💬 296 • ⏱️ 29:18 • 14h ago
 
 ---
 
-**[The AI Dystopia](https://www.youtube.com/watch?v=8tYx3kJNnhI)**
+**[Cute Baby Gave His Ghost Mother A Beautiful Flying Elephant  #ai #cute #shorts #aivideo](https://www.youtube.com/watch?v=Z2ZNGXsaw9U)**
 
-📺 Candace Owens
+Cute Baby Gave His Ghost Mother A Beautiful Flying Elephant #ai #cute #shorts #aivideo.
 
-👁️ 368K • 👍 21K • 💬 1K • ⏱️ 0:57 • 2d ago
+📺 LX GUDDU 09
+
+👁️ 2K • ⏱️ 0:25 • 17m ago
 
 ---
 
@@ -385,7 +387,7 @@ PersonaPlex-7B-v1 is a real-time, full-duplex speech-to-speech conversational mo
 
 `audio-to-audio`
 
-⬇️ 43,872 • ❤️ 1,280 • 5d ago
+⬇️ 43,872 • ❤️ 1,294 • 5d ago
 
 ---
 
@@ -397,7 +399,7 @@ Kimi K2.5 is a native multimodal agentic model with 1T parameters, excelling in 
 
 `image-text-to-text`
 
-⬇️ 10,965 • ❤️ 735 • 8h ago
+⬇️ 10,965 • ❤️ 763 • 8h ago
 
 ---
 
@@ -409,7 +411,7 @@ VibeVoice-ASR is a unified speech-to-text model capable of processing up to 60 m
 
 `automatic-speech-recognition` `8.7B`
 
-⬇️ 76,679 • ❤️ 677 • 22h ago
+⬇️ 76,679 • ❤️ 683 • 22h ago
 
 ---
 
@@ -421,19 +423,7 @@ Qwen3-TTS-12Hz-1.7B-CustomVoice is a multilingual text-to-speech model supportin
 
 `1.9B`
 
-⬇️ 138,693 • ❤️ 658 • 5d ago
-
----
-
-**[GLM-4.7-Flash](https://huggingface.co/zai-org/GLM-4.7-Flash)**
-
-*Z.ai*
-
-GLM-4.7-Flash is a 30B-A3B MoE model, offering strong performance in the 30B class for efficient, lightweight deployment. It excels in benchmarks like AIME, GPQA, and SWE-bench, making it suitable for tasks requiring advanced reasoning and coding capabilities.
-
-`text-generation` `31.2B`
-
-⬇️ 532,168 • ❤️ 1,287 • 7d ago
+⬇️ 138,693 • ❤️ 664 • 5d ago
 
 ---
 
@@ -445,7 +435,19 @@ Z-Image is an undistilled, high-fidelity text-to-image diffusion transformer mod
 
 `text-to-image`
 
-⬇️ 0 • ❤️ 480 • 19h ago
+⬇️ 0 • ❤️ 493 • 19h ago
+
+---
+
+**[GLM-4.7-Flash](https://huggingface.co/zai-org/GLM-4.7-Flash)**
+
+*Z.ai*
+
+GLM-4.7-Flash is a 30B-A3B MoE model, offering strong performance in the 30B class for efficient, lightweight deployment. It excels in benchmarks like AIME, GPQA, and SWE-bench, making it suitable for tasks requiring advanced reasoning and coding capabilities.
+
+`text-generation` `31.2B`
+
+⬇️ 532,168 • ❤️ 1,290 • 7d ago
 
 ---
 
@@ -457,7 +459,7 @@ DeepSeek-OCR-2 is a multilingual vision-language model for image-to-text tasks, 
 
 `image-text-to-text` `3.4B`
 
-⬇️ 0 • ❤️ 407 • 1d ago
+⬇️ 0 • ❤️ 422 • 1d ago
 
 ---
 
@@ -469,7 +471,7 @@ LightOnOCR-2-1B is an efficient 1B-parameter end-to-end vision-language model fo
 
 `image-text-to-text` `1.0B`
 
-⬇️ 19,899 • ❤️ 409 • 7d ago
+⬇️ 19,899 • ❤️ 412 • 7d ago
 
 ---
 
@@ -481,19 +483,19 @@ Chroma-4B is a real-time, end-to-end spoken dialogue model capable of speech und
 
 `any-to-any` `5.9B`
 
-⬇️ 5,776 • ❤️ 270 • 8h ago
+⬇️ 5,776 • ❤️ 272 • 8h ago
 
 ---
 
-**[GLM-4.7-Flash-GGUF](https://huggingface.co/unsloth/GLM-4.7-Flash-GGUF)**
+**[sweep-next-edit-1.5B](https://huggingface.co/sweepai/sweep-next-edit-1.5B)**
 
-*Unsloth AI*
+*Sweep AI*
 
-GLM-4.7-Flash is a 30B-A3B MoE model offering a balance of performance and efficiency for lightweight deployment. It excels in benchmarks like AIME and GPQA, supporting local inference with frameworks such as vLLM and SGLang for text generation and tool-calling use cases.
+Sweep Next-Edit 1.5B is a GGUF quantized model for next-edit code autocompletion, running locally in under 500ms and outperforming larger models on benchmarks. It predicts code edits based on file context and recent diffs, primarily used for enhancing developer productivity via local code assistance.
 
-`text-generation` `29.9B`
+`1.4B`
 
-⬇️ 248,496 • ❤️ 359 • 4d ago
+⬇️ 3,444 • ❤️ 257 • 5d ago
 
 ---
 
@@ -509,9 +511,23 @@ GLM-4.7-Flash is a 30B-A3B MoE model offering a balance of performance and effic
 
 The Qwen3-TTS series presents advanced multilingual text-to-speech models with voice cloning and controllable speech generation capabilities, utilizing dual-track LM architecture and specialized speech tokenizers for efficient streaming synthesis.
 
-▲ 46 • 💬 1 • ⭐ 5,479 • 6d ago
+▲ 47 • 💬 1 • ⭐ 5,479 • 6d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2601.15621) • [💻 code](https://github.com/QwenLM/Qwen3-TTS)
+
+---
+
+**[Masked Depth Modeling for Spatial Perception](https://huggingface.co/papers/2601.17895)**
+
+*Bin Tan, Changjiang Sun, Xiage Qin et al. (11 authors)*
+
+🏢 Robbyant
+
+LingBot-Depth is a depth completion model that uses visual context to refine depth maps through masked depth modeling and automated data curation for improved spatial perception in robotics and autonomous systems.
+
+▲ 17 • 💬 3 • ⭐ 360 • 3d ago
+
+[🎓 arXiv](https://arxiv.org/abs/2601.17895) • [💻 code](https://github.com/Robbyant/lingbot-depth) • [🔗 project](https://technology.robbyant.com/lingbot-depth)
 
 ---
 
@@ -547,7 +563,7 @@ VibeVoice synthesizes long-form multi-speaker speech using next-token diffusion 
 
 A suite of open-source music foundation models is introduced, featuring components for audio-text alignment, lyric recognition, music coding, and large language model-based song generation with controllable attributes and scalable parameterization.
 
-▲ 38 • 💬 4 • ⭐ 2,212 • 13d ago
+▲ 38 • 💬 4 • ⭐ 2,252 • 13d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2601.10547) • [💻 code](https://github.com/HeartMuLa/heartlib) • [🔗 project](https://heartmula.github.io/)
 
@@ -619,19 +635,6 @@ SmolDocling is a compact vision-language model that performs end-to-end document
 
 ---
 
-**[MinerU2.5: A Decoupled Vision-Language Model for Efficient
-  High-Resolution Document Parsing](https://huggingface.co/papers/2509.22186)**
-
-*Junbo Niu, Zheng Liu, Zhuangcheng Gu et al. (61 authors)*
-
-MinerU2.5, a 1.2B-parameter document parsing vision-language model, achieves state-of-the-art recognition accuracy with computational efficiency through a coarse-to-fine parsing strategy.
-
-▲ 140 • 💬 2 • ⭐ 52,987 • 4mo ago
-
-[🎓 arXiv](https://arxiv.org/abs/2509.22186) • [💻 code](https://github.com/opendatalab/MinerU) • [🔗 project](https://opendatalab.github.io/MinerU/)
-
----
-
 ---
 
 ## GitHub Repositories: "ai"
@@ -642,7 +645,7 @@ Browser automation CLI for AI agents
 
 `TypeScript`
 
-⭐ 11.2k • 🔱 612 • 19h ago
+⭐ 11.2k • 🔱 612 • 20h ago
 
 ---
 
@@ -652,7 +655,7 @@ AI → JSON → UI
 
 `TypeScript`
 
-⭐ 9.5k • 🔱 497 • 2d ago
+⭐ 9.5k • 🔱 498 • 2d ago
 
 ---
 
@@ -662,17 +665,7 @@ Ralph is an autonomous AI agent loop that runs repeatedly until all PRD items ar
 
 `TypeScript`
 
-⭐ 8.3k • 🔱 961 • 5d ago
-
----
-
-**[chatfire-AI/huobao-drama](https://github.com/chatfire-AI/huobao-drama)**
-
-🎬 火宝短剧 - 基于AI的一站式短剧生成平台 《一句话生成完整短剧，从剧本到成片全自动化》  Huobao Drama - An AI-Powered End-to-End Short Drama Generator "One Sentence to Complete Drama: Fully Automated from Script to Final Video"
-
-`Vue`
-
-⭐ 6.4k • 🔱 1.2k • 2h ago
+⭐ 8.3k • 🔱 964 • 5d ago
 
 ---
 
@@ -686,13 +679,23 @@ LLM驱动的 A/H/美股智能分析器，多数据源行情 + 实时新闻 + Gem
 
 ---
 
+**[chatfire-AI/huobao-drama](https://github.com/chatfire-AI/huobao-drama)**
+
+🎬 火宝短剧 - 基于AI的一站式短剧生成平台 《一句话生成完整短剧，从剧本到成片全自动化》  Huobao Drama - An AI-Powered End-to-End Short Drama Generator "One Sentence to Complete Drama: Fully Automated from Script to Final Video"
+
+`Vue`
+
+⭐ 6.4k • 🔱 1.2k • 2h ago
+
+---
+
 **[coreyhaines31/marketingskills](https://github.com/coreyhaines31/marketingskills)**
 
 Marketing skills for Claude Code and AI agents. CRO, copywriting, SEO, analytics, and growth engineering.
 
 `claude` `codex` `marketing`
 
-⭐ 5.1k • 🔱 540 • 3h ago
+⭐ 5.1k • 🔱 541 • 3h ago
 
 ---
 
@@ -702,7 +705,7 @@ The Ultimate Collection of 200+ Agentic Skills for Claude Code/Antigravity/Curso
 
 `Python` `agentic-skills` `ai-agents` `antigravity` `autonomous-coding` `claude-code`
 
-⭐ 4.6k • 🔱 1.1k • 1h ago
+⭐ 4.7k • 🔱 1.1k • 41m ago
 
 ---
 
@@ -710,7 +713,7 @@ The Ultimate Collection of 200+ Agentic Skills for Claude Code/Antigravity/Curso
 
 Claude Code skill that removes signs of AI-generated writing from text
 
-⭐ 3.4k • 🔱 288 • 5d ago
+⭐ 3.4k • 🔱 289 • 5d ago
 
 ---
 
@@ -720,7 +723,7 @@ OpenSource Claude Cowork. A desktop AI assistant that helps you with programming
 
 `TypeScript`
 
-⭐ 2.6k • 🔱 360 • 5d ago
+⭐ 2.6k • 🔱 361 • 5d ago
 
 ---
 
