@@ -3,14 +3,14 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-01-28T11:45:24.371650+00:00'
+updated: '2026-01-28T12:53:55.892076+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
 - cryptocurrency
-- news
 - social
+- news
 - videos
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** January 28, 2026 at 11:45 UTC  
+**Last Updated:** January 28, 2026 at 12:53 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -36,17 +36,17 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Price
 
-### $3,019.84
+### $3,026.00
 
 ---
 
 ## Ethereum Chart
 
-**24h:** +3.5%  
-**7d:** +2.3%  
-**30d:** +1.5%  
-**90d:** -21.6%  
-**1y:** -2.9%  
+**24h:** +3.9%  
+**7d:** +2.5%  
+**30d:** +1.7%  
+**90d:** -21.5%  
+**1y:** -2.7%  
 
 ---
 
@@ -72,13 +72,13 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-5h ago
+6h ago
 
 ---
 
 **[Pouring one out for Week in Ethereum News 🥃 Website is offline. Thank you Evan Van Ness for your tireless efforts serving the Ethereum community. 🙏](https://www.reddit.com/r/ethereum/comments/1qp227f/pouring_one_out_for_week_in_ethereum_news_website/)**
 
-6h ago
+7h ago
 
 ---
 
@@ -86,7 +86,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 Hi r/ethereum, I’ve been running a personal experiment called FitVow. The idea is simple: I stake real ETH into a smart contract, commit to weekly physical activity goals, and let the contract enforce the rules without a trusted referee. Each week, an Android app reads physical activity data from my smartwatch and publishes it on-chain (e.g. runs, workouts and etc). The contract uses that data to decide whether that week’s goals were met. If a week fails: that week creates an enforceable fine (paid out from the stake) enforcement is permissionless (anyone can trigger it) the fine is split between the enforcer (caller) and a charity wallet (Giveth) At the end of the challenge, I’m allowed to withdraw whatever remains of the stake after any fines. There’s no backend deciding outcomes and no admin override. Once deployed, the rules are the rules. This is not a product — just an experiment exploring whether Ethereum is a good tool for credible self-commitment outside of DeFi. Live dashboard (reads directly from on-chain data): https://fitvow.pedroaugusto.dev/ Technical write-up (architecture + security assumptions): https://pedrooaugusto.github.io/blog/posts/making-missed-workouts-cost-money-with-smart-contracts/ I’d love feedback — especially on whether this feels like a reasonable use of Ethereum, and what you’d poke holes in.
 
-18h ago
+20h ago
 
 ---
 
@@ -100,7 +100,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 **[Built a little ethereum wallet for a metamask interview](https://www.reddit.com/r/ethereum/comments/1qon8y9/built_a_little_ethereum_wallet_for_a_metamask/)**
 
-16h ago
+17h ago
 
 ---
 
@@ -152,7 +152,7 @@ Bluechip (independent stablecoin rating agency) just published their rating for 
 
 The ERC-8004 proposal aims to let AI agents interact with entities on Ethereum, allowing them to participate in a decentralized economy.
 
-The Block • 4h ago
+The Block • 5h ago
 
 ---
 
@@ -168,23 +168,7 @@ The Motley Fool • 1d ago
 
 Technically, the tariffs shouldn't do anything at all to this coin.
 
-Yahoo Finance • 1h ago
-
----
-
-**[Ethereum news: ERC-8004 aims to put identity and trust behind AI agents](https://www.coindesk.com/markets/2026/01/28/ethereum-s-erc-8004-aims-to-put-identity-and-trust-behind-ai-agents)**
-
-A new Ethereum standard seeks to give AI agents portable identities and reputations, letting them interact across companies and chains without relying on centralized gatekeepers.
-
-CoinDesk • 4h ago
-
----
-
-**[Ethereum unveils new rules to make AI agents turstworthy](https://sg.news.yahoo.com/ethereum-unveils-rules-ai-agents-071919181.html)**
-
-A new Ethereum standard seeks to give AI agents portable identities and reputations, letting them interact across companies and chains without relying on centralized gatekeepers.
-
-Yahoo News Singapore • 4h ago
+Yahoo Finance • 2h ago
 
 ---
 
@@ -194,9 +178,25 @@ Binance • 1d ago
 
 ---
 
-**[Bitcoin, Ethereum, XRP Rise. Why the Sell America Trade Has Gripped Cryptos.](https://www.barrons.com/articles/bitcoin-ethereum-xrp-crypto-today-18fbb937?gaa_at=eafs&gaa_n=AWEtsqcgCsNhy0f1dtlZUGeAlZqomMGKojqcTCMUK7TCBKD8CNSzpSyHoGvX&gaa_ts=6979f545&gaa_sig=qJiL9QMsxbxyRpBpF9v9tOlPcnSeP0QXXcf3yEMqya_lNR3bI2ovUGDDi8AGYEG9ayqM1O4rHftgNovj9V8jRA%3D%3D)**
+**[Bitcoin, Ethereum, XRP Rise. Why the Sell America Trade Has Gripped Cryptos.](https://www.barrons.com/articles/bitcoin-ethereum-xrp-crypto-today-18fbb937?gaa_at=eafs&gaa_n=AWEtsqd89Xlye83g2xeR_vSmalmmiMP1R4dzBnR-dB1Ypd8Q9TYocYt6B4Q0&gaa_ts=697a0a4f&gaa_sig=DlELOYtN_0Nkdz23EH_ctPcSQJdsbbXiBlb6cWQrI0PFd8E6NYafr7t2dvNrm1r0Do4I3HAHoco29NcgRtIraA%3D%3D)**
 
-Barron's • 55m ago
+Barron's • 2h ago
+
+---
+
+**[Why This Former BlackRock Executive Thinks Ethereum's TVL Will 10X in 2026](https://www.coindesk.com/markets/2026/01/26/macro-fears-mask-ethereum-s-momentum-sharplink-ceo-says)**
+
+SharpLink CEO Joseph Chalom argues that macro uncertainty is hiding a massive institutional shift toward Ethereum-based tokenization.
+
+CoinDesk • 1d ago
+
+---
+
+**[XRP, Ethereum Now ‘Undervalued’ On MVRV, Says Santiment](https://www.tradingview.com/news/newsbtc:3378aa0c9094b:0-xrp-ethereum-now-undervalued-on-mvrv-says-santiment/)**
+
+On-chain analytics firm Santiment has pointed out how XRP and Ethereum are among coins sitting in the MVRV Ratio’s “undervalued” zone.30-Day MVRV Is Negative For XRP & EthereumIn a new post on X, on-chain analytics firm Santiment has talked about where some notable cryptocurrencies like XRP and Bit…
+
+TradingView • 1d ago
 
 ---
 
@@ -216,11 +216,11 @@ Yahoo Finance • 1d ago
 
 ---
 
-**[BitMine Highlights Massive Ethereum Treasury and Staking Strategy](https://www.tipranks.com/news/company-announcements/bitmine-highlights-massive-ethereum-treasury-and-staking-strategy)**
+**[Tom Lee's BitMine nears 70% of Ethereum treasury target with latest 40,302 ETH buy](https://www.theblock.co/post/387035/tom-lee-bitmine-ethereum-buy)**
 
-The latest announcement is out from BitMine Immersion Technologies ( ($BMNR) ). On January 23, 2026, Bitmine Immersion Technologies appointed its current Chief Fina...
+BitMine's total crypto and cash holdings currently stand at $12.8 billion, and the company owns 3.52% of Ethereum's circulating supply.
 
-TipRanks • 1d ago
+The Block • 1d ago
 
 ---
 
@@ -234,7 +234,7 @@ FREE Daily On-Chain Analysis & Crypto News In 5-Mins: http://bit.ly/TheCryptoNut
 
 📺 Library Of Wealth
 
-👁️ 3K • 👍 202 • 💬 173 • ⏱️ 16:28 • 6h ago
+👁️ 3K • 👍 202 • 💬 173 • ⏱️ 16:28 • 7h ago
 
 ---
 
@@ -244,7 +244,7 @@ Tom Lee Just Said The UNTHINKABLE About Bitcoin & Ethereum! [2026 New Prediction
 
 📺 Crypto Nutshell
 
-👁️ 23K • 👍 644 • 💬 100 • ⏱️ 14:37 • 20h ago
+👁️ 23K • 👍 644 • 💬 100 • ⏱️ 14:37 • 21h ago
 
 ---
 
@@ -254,7 +254,7 @@ This video provides a professional Elliott Wave and technical analysis of Ethere
 
 📺 More Crypto Online
 
-👁️ 1K • 👍 98 • 💬 7 • ⏱️ 4:42 • 9h ago
+👁️ 1K • 👍 98 • 💬 7 • ⏱️ 4:42 • 10h ago
 
 ---
 
@@ -284,7 +284,7 @@ Donation Address: yourfriendsommi.eth / yourfriendsommi.pls Click Subscribe + Be
 
 📺 🌟yourfriendsommi
 
-👁️ 88 • 👍 19 • 💬 1 • ⏱️ 15:53 • 14m ago
+👁️ 88 • 👍 19 • 💬 1 • ⏱️ 15:53 • 1h ago
 
 ---
 
@@ -294,7 +294,7 @@ ETHEREUM ETH PRICE PREDICTION 2026 Join the Premium Signal Group for trade setup
 
 📺 Cilinix Crypto
 
-👁️ 69 • 👍 9 • 💬 1 • ⏱️ 4:20 • 1h ago
+👁️ 69 • 👍 9 • 💬 1 • ⏱️ 4:20 • 2h ago
 
 ---
 
@@ -324,7 +324,7 @@ This video provides a professional Elliott Wave and technical analysis of Ethere
 
 📺 More Crypto Online
 
-👁️ 2K • 👍 114 • 💬 9 • ⏱️ 4:08 • 18h ago
+👁️ 2K • 👍 114 • 💬 9 • ⏱️ 4:08 • 19h ago
 
 ---
 
