@@ -3,13 +3,13 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-01-28T03:46:35.026041+00:00'
+updated: '2026-01-28T04:45:34.095607+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- social
 - news
+- social
 - videos
 ---
 
@@ -17,7 +17,7 @@ data_types:
 
 Robotics research and industry news
 
-**Last Updated:** January 28, 2026 at 03:46 UTC  
+**Last Updated:** January 28, 2026 at 04:45 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -36,7 +36,7 @@ Robotics research and industry news
 
 Hey all, a quick showcase of the Sprout robot from Fauna Robotics. I’m a postdoc in Talmo Pereira’s lab at the Salk Institute working on computational models for motor control. In my experience, robots usually take weeks or months of network, hardware, and software debugging before you can even start experiments. This was the opposite. We turned it on and were up and running immediately, which made me appreciate how much legwork must’ve gone into making the setup so smooth. So far we’ve: - Got Sprout walking, crouching, crawling, dancing and even jumping. - The robot was able to correct for perturbations and imbalances showing robust control policies. - Done full-body VR teleop with a Meta Quest (Fauna’s app worked great) Big win is that it actually was able to successfully deploy robust control policies out of the box. Setup was straightforward, and it feels physically safe. I held the safety harness like an overbearing parent, but the robot didn’t need me. It was gentle, regained balance, and stopped on its own. No affiliation with Fauna Robotics, just sharing an academic lab evaluation of a commercially available research platform. Impressive performance so far and excited to start training policies for more complex tasks. What new tasks should we train Sprout to perform?
 
-11h ago
+12h ago
 
 ---
 
@@ -44,7 +44,7 @@ Hey all, a quick showcase of the Sprout robot from Fauna Robotics. I’m a postd
 
 From Lukas Ziegler on 𝕏: https://x.com/lukas_m_ziegler/status/2016112237019042259 AgXeed website: https://www.agxeed.com/
 
-15h ago
+16h ago
 
 ---
 
@@ -52,7 +52,7 @@ From Lukas Ziegler on 𝕏: https://x.com/lukas_m_ziegler/status/201611223701904
 
 Meet Sprout. Fauna Robotics are releasing a new kind of robotics platform. One designed to move out of the lab and into the real world, closer to the people who will shape what robots become next. @faunarobotics
 
-10h ago
+11h ago
 
 ---
 
@@ -60,7 +60,7 @@ Meet Sprout. Fauna Robotics are releasing a new kind of robotics platform. One d
 
 I recently came across the Universal Manipulation Interface (UMI) paper and found it to be a promising approach for teaching robots manipulation skills without relying on teleportation-based control. I was particularly interested in exploring how well this approach works on low-cost DIY hardware, such as an AR4 robot arm. Key challenges: - High-latency robot and gripper controllers that only support single-step control commands - A low-FPS camera with image composition that differs from the data used during training Key engineering adaptations: 🛠️ Hardware Abstraction Layer - Original UMI supports UR5, Franka Emika, and industrial WSG grippers. - I wrote custom drivers to interface with a DIY AR4 6-DOF robot arm and a custom servo-based gripper. - Forward and inverse kinematics are solved on the PC side, and only joint commands are sent to the robot controller. 👁️ Vision System Retrofit - Original UMI relies on a GoPro with lens modification and a capture card. - I adapted the perception pipeline to use a standard ~$50 USB camera. 🖐️ Custom End-Effector - Designed and 3D-printed a custom parallel gripper. - Actuated by a standard hobby servo. - Controlled via an Arduino Mega 2560 (AR4 auxiliary controller). Repos: - UMI + AR4 integration: https://github.com/robotsir/umi_ar4_retrofit - AR4 custom firmware: https://github.com/robotsir/ar4_embodied_controller This is still a work in progress. Due to the hardware limitations above, the system is not yet as smooth as the original UMI setup, but my goal is to push performance as far as possible within these constraints. The system is already running end-to-end on real hardware. The GIF below shows a live demo. Feedback from people working on embodied AI, robot learning, or low-cost manipulation platforms would be very welcome. If you have an AR4 arm and are interested in trying this out, feel free to reach out.
 
-3h ago
+4h ago
 
 ---
 
@@ -68,13 +68,13 @@ I recently came across the Universal Manipulation Interface (UMI) paper and foun
 
 From Eren Chen on 𝕏: https://x.com/ErenChenAI/status/2015503512734441800
 
-17h ago
+18h ago
 
 ---
 
 **[Helix update makes Figure 03 move noticeably more human. Thoughts?](https://www.reddit.com/r/robotics/comments/1qoyi0l/helix_update_makes_figure_03_move_noticeably_more/)**
 
-1h ago
+2h ago
 
 ---
 
@@ -82,13 +82,13 @@ From Eren Chen on 𝕏: https://x.com/ErenChenAI/status/2015503512734441800
 
 Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.
 
-🔗 [youtube.com](https://www.youtube.com/watch?v=lQsvTrRTBRs) • 9h ago
+🔗 [youtube.com](https://www.youtube.com/watch?v=lQsvTrRTBRs) • 10h ago
 
 ---
 
 **[Unitree G1 fully Body Teleoperation using a Pico4 and Twist2 Framework](https://www.reddit.com/r/robotics/comments/1qonvka/unitree_g1_fully_body_teleoperation_using_a_pico4/)**
 
-8h ago
+9h ago
 
 ---
 
@@ -96,7 +96,7 @@ Enjoy the videos and music you love, upload original content, and share it all w
 
 We're open-sourcing Asimov Legs, a bipedal robotic system. We've been building in public and sharing daily progress, now the full design is out. A complete leg design with 6 DOF per leg, RSU ankle architecture, passive toe joints. Built with off-the-shelf components and compatible with MJF 3D printing. What's included: - Full mechanical CAD (STEP files) - Motors & actuators list - XML files for simulation (MuJoCo) Most of the structure is MJF-printable plastic. The only part that needs CNC is the knee plate, and we spent weeks simplifying that from a 2-part assembly down to a single plate. If you don't have access to industrial MJF, casting or regular 3D printing works too. Repo for all: https://github.com/asimovinc/asimov-v0 Happy to answer questions about the design choices.
 
-18h ago
+19h ago
 
 ---
 
@@ -104,7 +104,7 @@ We're open-sourcing Asimov Legs, a bipedal robotic system. We've been building i
 
 Setup: - 3 x stationary Super-Beacons (green dots on the floorplan: 8, 2, 3) - 1 x Super-Beacon as a mobile on the drone (11) - 1 x Modem v5.1 as a central controller - USB-connected to the laptop - 1 x Marvelmind DJI App on Android - the "brain" of the system controlling the drone over the virtual stick - Marvelmind Dashboard to set up the waypoints and the system in general
 
-21h ago
+22h ago
 
 ---
 
@@ -116,7 +116,7 @@ Setup: - 3 x stationary Super-Beacons (green dots on the floorplan: 8, 2, 3) - 1
 
 The most momentous day for ADAM since serving Jensen Huang a margarita....
 
-Sherwood News • 13h ago
+Sherwood News • 14h ago
 
 ---
 
@@ -124,7 +124,7 @@ Sherwood News • 13h ago
 
 ADAM, Richtech's Azure-powered robot, now uses vision, voice and contextual data to improve retail workflows and customer interactions.
 
-Stock Titan • 14h ago
+Stock Titan • 15h ago
 
 ---
 
@@ -132,7 +132,7 @@ Stock Titan • 14h ago
 
 Joint engineering effort with Microsoft AI Co-Innovation Labs enhances Richtech’s ADAM robot and extends intelligent automation across physical...
 
-GlobeNewswire • 14h ago
+GlobeNewswire • 15h ago
 
 ---
 
@@ -164,7 +164,7 @@ Global Times • 1d ago
 
 A new humanoid robot named Sprout, developed by Fauna Robotics, is making its debut. Unlike sleek and powerful-looking machines from companies like Tesla, Sprout is designed to be approachable and friendly.
 
-KSL.com • 4h ago
+KSL.com • 5h ago
 
 ---
 
@@ -180,7 +180,7 @@ Interesting Engineering • 3d ago
 
 Robotics and virtual reality filled the science schedule aboard the International Space Station on Tuesday as the Expedition 74 crew promoted education and explored human research. The orbital trio also inspected safety equipment, worked on cargo swaps, and conducted Earth observations.
 
-NASA (.gov) • 8h ago
+NASA (.gov) • 9h ago
 
 ---
 
@@ -196,43 +196,33 @@ Nature • 1d ago
 
 ## YouTube Videos: "robotics"
 
-**[Elon Musk Repairs High-Tech Robotic 🕵️ Wings on Female 💲Android in Futuristic 🧪 Ai-concept.](https://www.youtube.com/watch?v=qBIpFr_d3Vg)**
+**[Inside Tesla’s Robot Factory: The Transition That Separates Robots From Humanoids (Full Process)](https://www.youtube.com/watch?v=Oo3u9lDL9HE)**
 
-RoboticWings #FuturisticLab #Android #SciFi #Robotics #AIArt #Cyberpunk #HighTech #ArtificialIntelligence #TeslaBot ...
+Inside Tesla's Robot Factory: The Transition That Separates Robots From Humanoids (Full Process) takes viewers deep inside ...
 
-📺 AITECHGADGETS
+📺 UltraLine Works
 
-👁️ 212K • 💬 120 • ⏱️ 0:18 • 2d ago
-
----
-
-**[China Just Solved Robotics&#39; Biggest Problem (While Tesla Slept)](https://www.youtube.com/watch?v=yzT2oKiy8Lg)**
-
-To learn more about the DM-EXton2 and Daimon Robotics, click the link in the description: ...
-
-📺 PRO ROBOTS
-
-👁️ 9K • 👍 249 • 💬 24 • ⏱️ 14:08 • 6d ago
+👁️ 58K • 👍 4K • 💬 13 • ⏱️ 24:18 • 1d ago
 
 ---
 
-**[Robotics Stocks: RR Richtech Robotics Up 70%! 🔥🚀💰#investingtips #moneytalks](https://www.youtube.com/watch?v=Abc3L3weRx4)**
+**[Viral video shows autonomous snow blower at work in New Jersey](https://www.youtube.com/watch?v=c7vetvwsn-Q)**
 
-Robotics Stocks: RR Richtech Robotics Up 70%! #investingtips #moneytalks ✓ "MONEY MOVES" Get All my Stock ...
+Sandra Bookman has more on the viral video and the man behind the handy invention.
 
-📺 STOCK UP! with LARRY JONES
+📺 Eyewitness News ABC7NY
 
-👁️ 3K • 👍 210 • 💬 31 • ⏱️ 0:47 • 5h ago
+👁️ 370K • 👍 3K • 💬 572 • ⏱️ 2:01 • 1d ago
 
 ---
 
-**[Robot That Grows Through Rubble To Find Survivors 🤖 #rescue #robotics #shorts](https://www.youtube.com/watch?v=haGH86W_f5A)**
+**[Richtech Robotics Stock is Going PARABOLIC.. (Microsoft Partnership)](https://www.youtube.com/watch?v=8Fxt91ZMY2g)**
 
-The Growing Robot That Enters Collapsed Buildings Before Humans Do When disaster strikes and buildings collapse, reaching ...
+aistocks #rrstock #richtechrobotics We are going to be going over everything you need to know about Richtech Robotics stock, ...
 
-📺 EcoZora
+📺 The Creative Investor
 
-👁️ 329K • 👍 1K • 💬 150 • ⏱️ 0:07 • 1d ago
+👁️ 458 • 👍 40 • 💬 16 • ⏱️ 13:03 • 3h ago
 
 ---
 
@@ -242,7 +232,7 @@ We are honored to celebrate an important milestone at Future Robot Lab. This vid
 
 📺 Future Robot Lab
 
-👁️ 8K • 👍 122 • 💬 16 • ⏱️ 9:38 • 1d ago
+👁️ 9K • 👍 133 • 💬 18 • ⏱️ 9:38 • 1d ago
 
 ---
 
@@ -252,35 +242,47 @@ Robotics stocks are heating up fast, but many of the biggest names are already e
 
 📺 MarketBeat
 
-👁️ 122K • 👍 3K • 💬 177 • ⏱️ 17:39 • 4d ago
+👁️ 123K • 👍 3K • 💬 178 • ⏱️ 17:39 • 4d ago
 
 ---
 
-**[&#39;ABUNDANCE FOR ALL&#39;: Musk says AI and robotics could play a key part around the world](https://www.youtube.com/watch?v=vBtKyfvR41E)**
+**[Inside Tesla’s Robot Factory: The Transition That Makes Optimus Human-Like (Full Process)](https://www.youtube.com/watch?v=tx-M3FWkSys)**
 
-Elon Musk says AI and robotics could play a key part in giving everyone around the world 'a very high standard of living,' but the ...
+Inside Tesla's Robot Factory: The Transition That Makes Optimus Human-Like (Full Process) takes viewers inside the most critical ...
 
-📺 Fox News
+📺 UltraLine Works
 
-👁️ 49K • 👍 2K • 💬 238 • ⏱️ 0:49 • 5d ago
-
----
-
-**[Elon Musk: My prediction is that there will be more robots than people](https://www.youtube.com/watch?v=fqIfoLrOSbA)**
-
-Elon Musk, CEO of Tesla, sits down with Larry Fink, chair and CEO at BlackRock, to discuss the future of robotics, the impact of ...
-
-📺 CNBC Television
-
-👁️ 9K • 👍 83 • 💬 73 • ⏱️ 2:47 • 5d ago
+👁️ 509K • 👍 5K • 💬 109 • ⏱️ 24:38 • 6d ago
 
 ---
 
-**[The question with AI and robotics is very simple](https://www.youtube.com/watch?v=Va_IEFdZCjo)**
+**[Fauna Robotics unveils friendly humanoid robot Sprout](https://www.youtube.com/watch?v=V2uf8k1pGyY)**
 
-📺 Bernie Sanders
+Sprout, a 3 1/2-foot-tall humanoid from Fauna Robotics, debuts with a soft foam body, expressive moves and a friendly vibe.
 
-👁️ 27K • 👍 3K • 💬 124 • ⏱️ 1:13 • 5d ago
+📺 Associated Press
+
+👁️ 8K • 👍 87 • 💬 12 • ⏱️ 0:55 • 15h ago
+
+---
+
+**[Robotics Stocks: RR Richtech Robotics Up 70%! 🔥🚀💰#investingtips #moneytalks](https://www.youtube.com/watch?v=Abc3L3weRx4)**
+
+Robotics Stocks: RR Richtech Robotics Up 70%! #investingtips #moneytalks ✓ "MONEY MOVES" Get All my Stock ...
+
+📺 STOCK UP! with LARRY JONES
+
+👁️ 5K • 👍 274 • 💬 38 • ⏱️ 0:47 • 6h ago
+
+---
+
+**[Former Meta engineers just dropped their humanoid robot #startup #robotics #tech](https://www.youtube.com/watch?v=Cua-gr85LAU)**
+
+Fauna Robotics, a New York City–based startup founded by former Meta engineers in 2024, has unveiled its first bipedal ...
+
+📺 Kalil 4.0
+
+👁️ 294 • 👍 9 • ⏱️ 0:52 • 55m ago
 
 ---
 
@@ -290,7 +292,7 @@ Season 3 Episode 1: Welcome inside the world of Physical Intelligence. Honestly?
 
 📺 Sachin and Adam
 
-👁️ 47K • 👍 2K • 💬 109 • ⏱️ 21:39 • 6d ago
+👁️ 47K • 👍 2K • 💬 111 • ⏱️ 21:39 • 6d ago
 
 ---
 

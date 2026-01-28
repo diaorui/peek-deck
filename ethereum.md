@@ -3,13 +3,13 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-01-28T03:46:35.022811+00:00'
+updated: '2026-01-28T04:45:34.092423+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- social
 - news
+- social
 - cryptocurrency
 - videos
 ---
@@ -18,7 +18,7 @@ data_types:
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** January 28, 2026 at 03:46 UTC  
+**Last Updated:** January 28, 2026 at 04:45 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -52,17 +52,17 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Market Stats
 
-**Market Cap:** $363.29B
+**Market Cap:** $361.86B
 Rank #2
 
-**Circulating Supply:** 120,694,394 ETH
+**Circulating Supply:** 120,694,374 ETH
 No max supply
 
 **All-Time High:** $4,946.05
--39.1%
+-39.4%
 
 **All-Time Low:** $0.43
-+695033.0%
++691721.1%
 
 ---
 
@@ -72,7 +72,7 @@ No max supply
 
 Hi r/ethereum, I’ve been running a personal experiment called FitVow. The idea is simple: I stake real ETH into a smart contract, commit to weekly physical activity goals, and let the contract enforce the rules without a trusted referee. Each week, an Android app reads physical activity data from my smartwatch and publishes it on-chain (e.g. runs, workouts and etc). The contract uses that data to decide whether that week’s goals were met. If a week fails: that week creates an enforceable fine (paid out from the stake) enforcement is permissionless (anyone can trigger it) the fine is split between the enforcer (caller) and a charity wallet (Giveth) At the end of the challenge, I’m allowed to withdraw whatever remains of the stake after any fines. There’s no backend deciding outcomes and no admin override. Once deployed, the rules are the rules. This is not a product — just an experiment exploring whether Ethereum is a good tool for credible self-commitment outside of DeFi. Live dashboard (reads directly from on-chain data): https://fitvow.pedroaugusto.dev/ Technical write-up (architecture + security assumptions): https://pedrooaugusto.github.io/blog/posts/making-missed-workouts-cost-money-with-smart-contracts/ I’d love feedback — especially on whether this feels like a reasonable use of Ethereum, and what you’d poke holes in.
 
-10h ago
+11h ago
 
 ---
 
@@ -80,13 +80,13 @@ Hi r/ethereum, I’ve been running a personal experiment called FitVow. The idea
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-21h ago
+22h ago
 
 ---
 
 **[Built a little ethereum wallet for a metamask interview](https://www.reddit.com/r/ethereum/comments/1qon8y9/built_a_little_ethereum_wallet_for_a_metamask/)**
 
-8h ago
+9h ago
 
 ---
 
@@ -110,7 +110,7 @@ Hey r/defi. My name is Matt and I have built something different. EqualFi offers
 
 I am trying to create a delegate wallet for every user which is connected to my dApp. I intend to have access to the private key so that I can initiate and sign transactions on the users behalf. So I am thinking of making the wallet pub and priv key on client side and I don't want the priv key to ever leave client's browser. Is it possible to implement something like this ? I use Privy for siwe if that can help me in any way.
 
-16h ago
+17h ago
 
 ---
 
@@ -168,7 +168,7 @@ The Block • 1d ago
 
 **[Ethereum News: Ether Price Surged 226% After This Global Liquidity Signal — Is ETH Setting Up Another Breakout?](https://www.binance.com/en/square/post/01-27-2026-ethereum-news-ether-price-surged-226-after-this-global-liquidity-signal-is-eth-setting-up-another-breakout-35635381799361)**
 
-Binance • 22h ago
+Binance • 23h ago
 
 ---
 
@@ -216,7 +216,7 @@ thedefiant.io • 1d ago
 
 Antonio Sanso, cryptography researcher at the Ethereum Foundation, is confident the blockchain will be quantum secure long before a quantum attack is even possible.”We as the Ethereum Foundation (EF) and Ethereum community are working massively on this topic,” he told Cointelegraph.“The research pa…
 
-TradingView • 13h ago
+TradingView • 14h ago
 
 ---
 
@@ -238,27 +238,17 @@ Tom Lee Just Said The UNTHINKABLE About Bitcoin & Ethereum! [2026 New Prediction
 
 📺 Crypto Nutshell
 
-👁️ 17K • 👍 530 • 💬 65 • ⏱️ 14:37 • 12h ago
+👁️ 19K • 👍 587 • 💬 55 • ⏱️ 14:37 • 13h ago
 
 ---
 
-**[BITCOIN AND ETH: SILVER CATCHUP RALLY WILL BE INSANE!!!!](https://www.youtube.com/watch?v=aKaFXbZkTnM)**
+**[Ethereum: Das 10x-Szenario, das alle übersehen!](https://www.youtube.com/watch?v=HjIfdWoxja4)**
 
-FREE TRAINING: https://www.bullmania.com EXCHANGES I USE (bybit, pionex): https://www.bullmania.com/partners My ...
+Jetzt gratis sichern → https://www.blockchain-investor.de/app Die neue „Blockchain-Investor“-App – mit exklusiven ...
 
-📺 Ivan on Tech
+📺 Krypto Report
 
-👁️ 22K • 👍 1K • 💬 100 • ⏱️ 59:47 • 17h ago
-
----
-
-**[🚨 BTC &amp; ETH: SCARY!!!!!](https://www.youtube.com/watch?v=ChdzwU6zguI)**
-
-These news have huge implications towards bitcoin, ethereum and the rest of crypto! Here is my take on the situation and my ...
-
-📺 Thomas Kralow
-
-👁️ 18K • 👍 3K • 💬 37 • ⏱️ 10:51 • 1d ago
+👁️ 8K • 👍 563 • 💬 58 • ⏱️ 17:05 • 11h ago
 
 ---
 
@@ -268,7 +258,7 @@ This video provides a professional Elliott Wave and technical analysis of Ethere
 
 📺 More Crypto Online
 
-👁️ 2K • 👍 109 • 💬 11 • ⏱️ 4:08 • 10h ago
+👁️ 2K • 👍 114 • 💬 9 • ⏱️ 4:08 • 11h ago
 
 ---
 
@@ -282,13 +272,23 @@ Let's talk about Ethereum! For inquirires: https://www.benjamincowen.com/ Into T
 
 ---
 
+**[🚨 BTC &amp; ETH: SCARY!!!!!](https://www.youtube.com/watch?v=ChdzwU6zguI)**
+
+These news have huge implications towards bitcoin, ethereum and the rest of crypto! Here is my take on the situation and my ...
+
+📺 Thomas Kralow
+
+👁️ 18K • 👍 3K • 💬 37 • ⏱️ 10:51 • 1d ago
+
+---
+
 **[BITCOIN &amp; CRYPTO JUST FLIPPED (for now)!!!! - Bitcoin News Today, Ethereum &amp; Altcoins](https://www.youtube.com/watch?v=HLqdFqJvRQQ)**
 
 BITCOIN & CRYPTO JUST FLIPPED (for now)!!!! - Bitcoin News Today, Ethereum & Altcoins *Toobit* https://bit.ly/TOOBIT ...
 
 📺 Crypto World
 
-👁️ 3K • 👍 194 • 💬 59 • ⏱️ 18:19 • 5h ago
+👁️ 4K • 👍 243 • 💬 61 • ⏱️ 18:19 • 6h ago
 
 ---
 
@@ -298,17 +298,17 @@ SharpLink CEO and former BlackRock head of digital assets strategy, Joseph Chalo
 
 📺 CoinDesk
 
-👁️ 17K • 👍 553 • 💬 118 • ⏱️ 23:51 • 1d ago
+👁️ 18K • 👍 570 • 💬 105 • ⏱️ 23:51 • 1d ago
 
 ---
 
-**[Ethereum: Das 10x-Szenario, das alle übersehen!](https://www.youtube.com/watch?v=HjIfdWoxja4)**
+**[BITCOIN AND ETH: SILVER CATCHUP RALLY WILL BE INSANE!!!!](https://www.youtube.com/watch?v=aKaFXbZkTnM)**
 
-Jetzt gratis sichern → https://www.blockchain-investor.de/app Die neue „Blockchain-Investor“-App – mit exklusiven ...
+FREE TRAINING: https://www.bullmania.com EXCHANGES I USE (bybit, pionex): https://www.bullmania.com/partners My ...
 
-📺 Krypto Report
+📺 Ivan on Tech
 
-👁️ 7K • 👍 533 • 💬 54 • ⏱️ 17:05 • 10h ago
+👁️ 22K • 👍 1K • 💬 104 • ⏱️ 59:47 • 18h ago
 
 ---
 
@@ -318,17 +318,17 @@ This video provides a professional Elliott Wave and technical analysis of Ethere
 
 📺 More Crypto Online
 
-👁️ 2K • 👍 98 • 💬 7 • ⏱️ 4:04 • 22h ago
+👁️ 2K • 👍 98 • 💬 6 • ⏱️ 4:04 • 23h ago
 
 ---
 
-**[Tom Lee - &quot;Biggest Crypto Reset EVER&quot; | Bitcoin &amp; ETH Price Prediction](https://www.youtube.com/watch?v=lZSS8ZRghvA)**
+**[$3.1M Gone: Why Ethereum Bridges Are Failing While Cardano Wins](https://www.youtube.com/watch?v=Qgml_XaP44g)**
 
-My FREE Daily On-Chain Analysis & Crypto News In 5-Mins: https://www.cryptonutshell.com/subscribe You can NOW ...
+This conversation delves into the current state and future of the Cardano ecosystem, focusing on oracles, decentralised ...
 
-📺 Jamie Tree 
+📺 Learn Cardano
 
-👁️ 3K • 👍 87 • 💬 37 • ⏱️ 17:46 • 2d ago
+👁️ 3K • 👍 290 • 💬 48 • ⏱️ 22:54 • 17h ago
 
 ---
 

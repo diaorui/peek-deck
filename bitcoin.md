@@ -3,13 +3,13 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-01-28T03:46:35.016780+00:00'
+updated: '2026-01-28T04:45:34.086530+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- social
 - news
+- social
 - cryptocurrency
 - videos
 ---
@@ -18,7 +18,7 @@ data_types:
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** January 28, 2026 at 03:46 UTC  
+**Last Updated:** January 28, 2026 at 04:45 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -54,17 +54,17 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1782.98B
+**Market Cap:** $1777.59B
 Rank #1
 
-**Circulating Supply:** 19,981,340 BTC
+**Circulating Supply:** 19,981,378 BTC
 95.1% of max
 
 **All-Time High:** $126,080.00
--29.2%
+-29.5%
 
 **All-Time Low:** $67.81
-+131479.4%
++131025.2%
 
 ---
 
@@ -79,25 +79,25 @@ Rank #1
 
 **[This man filmed the reaction to bitcoin breaking $100 in 2013](https://www.reddit.com/r/Bitcoin/comments/1qox66j/this_man_filmed_the_reaction_to_bitcoin_breaking/)**
 
-2h ago
+3h ago
 
 ---
 
 **["Crypto is risky" Meanwhile:](https://www.reddit.com/r/Bitcoin/comments/1qoxz6c/crypto_is_risky_meanwhile/)**
 
-1h ago
+2h ago
 
 ---
 
 **[still hodling](https://www.reddit.com/r/Bitcoin/comments/1qoarog/still_hodling/)**
 
-16h ago
+17h ago
 
 ---
 
 **[Real 🤣](https://www.reddit.com/r/Bitcoin/comments/1qoxu5d/real/)**
 
-1h ago
+2h ago
 
 ---
 
@@ -105,25 +105,25 @@ Rank #1
 
 I'm a teenager from a third world country, and I'm glad to share that I'm finally achieving my goal. Building wealth in my country isn't as easy as it is in Europe or the US, especially at my age. Because of that, my friends have called me a cheapskate (and sometimes they've been right). Now that I've accumulated enough Bitcoin (an amount that feels sufficient to me), I can finally start spending future income on clothes, the gym, gifts for my girlfriend, and other things I've been putting off to keep investing. Having this nest egg at 19 feels like a huge accomplishment, and I'm proud to share it with you. I can finally enjoy typical teenage stuff without feeling guilty :)
 
-8h ago
+9h ago
 
 ---
 
 **[Rule 11](https://www.reddit.com/r/Bitcoin/comments/1qoe2h3/rule_11/)**
 
-14h ago
+15h ago
 
 ---
 
 **[Forever😀](https://www.reddit.com/r/Bitcoin/comments/1qofr38/forever/)**
 
-13h ago
+14h ago
 
 ---
 
 **[the first 365 days of January are always the hardest](https://www.reddit.com/r/Bitcoin/comments/1qosc5f/the_first_365_days_of_january_are_always_the/)**
 
-5h ago
+6h ago
 
 ---
 
@@ -131,13 +131,13 @@ I'm a teenager from a third world country, and I'm glad to share that I'm finall
 
 Proving value is the key to build anything I’m studied my ass off because I am free, not trading my life for paper. Working my ass off for SATS so I can live my life.
 
-5h ago
+6h ago
 
 ---
 
 **[ICYMI BitGo went public last week - huge milestone for them and the bitcoin space](https://www.reddit.com/r/Bitcoin/comments/1qoly1t/icymi_bitgo_went_public_last_week_huge_milestone/)**
 
-9h ago
+10h ago
 
 ---
 
@@ -149,7 +149,7 @@ Proving value is the key to build anything I’m studied my ass off because I am
 
 The president said he isn't concerned about the dollar's recent declines, sending the greenback plunging even lower.
 
-CoinDesk • 6h ago
+CoinDesk • 7h ago
 
 ---
 
@@ -163,7 +163,7 @@ Bloomberg.com • 1d ago
 
 Anthropic is set to raise $20 billion in its latest funding round, double the amount it initially targeted, according to the FT.
 
-CoinDesk • 7h ago
+CoinDesk • 8h ago
 
 ---
 
@@ -179,7 +179,7 @@ Yahoo Finance • 1d ago
 
 Katie Stockton, Fairlead, joins 'Fast Money' to take a technical look at bitcoin prices.
 
-CNBC • 5h ago
+CNBC • 6h ago
 
 ---
 
@@ -187,7 +187,7 @@ CNBC • 5h ago
 
 Polymarket puts shutdown probability at 80%. The last shutdown in October-November caused lasting damage. That’s not stopping Wall Street from digging deeper into crypto.
 
-Yahoo Finance • 16h ago
+Yahoo Finance • 17h ago
 
 ---
 
@@ -209,7 +209,7 @@ Fortune • 1d ago
 
 Tucker Carlson asks the new guest why Bitcoin can't replace the U.S. dollar.
 
-thestreet.com • 8h ago
+thestreet.com • 9h ago
 
 ---
 
@@ -246,7 +246,7 @@ rewards for mining operations will dwindle. What happens next?
 
 A list of known attacks against Bitcoin / crypto asset owning entities that occurred in meatspace. - jlopp/physical-bitcoin-attacks
 
-⬆️ 3 • 💬 0 • 8h ago • [GitHub](https://github.com/jlopp/physical-bitcoin-attacks)
+⬆️ 3 • 💬 0 • 9h ago • [GitHub](https://github.com/jlopp/physical-bitcoin-attacks)
 
 ---
 
@@ -262,7 +262,7 @@ Stargate UI
 
 For years, crypto investors have waited for a familiar miracle. Altcoin season. The moment when small coins suddenly outrun Bitcoin,
 
-⬆️ 1 • 💬 0 • 16h ago • [The Bit Gazette](https://thebitgazette.com/why-altcoin-season-may-not-happen-in-2026-as-bitcoin-keeps-control/)
+⬆️ 1 • 💬 0 • 17h ago • [The Bit Gazette](https://thebitgazette.com/why-altcoin-season-may-not-happen-in-2026-as-bitcoin-keeps-control/)
 
 ---
 
@@ -288,7 +288,7 @@ Transform HN comment threads into executive intelligence. AI analyzes discussion
 
 **[Show HN: I could build the translation tool I've wanted for 10 years](https://news.ycombinator.com/item?id=46786231)**
 
-⬆️ 1 • 💬 1 • 7h ago
+⬆️ 1 • 💬 1 • 8h ago
 
 ---
 
@@ -302,23 +302,23 @@ Transform HN comment threads into executive intelligence. AI analyzes discussion
 
 ## YouTube Videos: "bitcoin"
 
+**[Tom Lee: &quot;This Signal Confirms Bitcoin Will Hit a New High in 2026!&quot;](https://www.youtube.com/watch?v=1wPj1tFcDdo)**
+
+This is not a victory lap — it's a reset. When Tom Lee throws out a $200000–$250000 Bitcoin target for 2026, he starts by doing ...
+
+📺 The Bitcoin Revolution
+
+👁️ 1K • 👍 60 • 💬 104 • ⏱️ 8:58 • 10h ago
+
+---
+
 **[THEY LIED About the BTC Cycle! EVERYTHING Changes in FEBRUARY - Raoul Pal &amp; Samson Mow](https://www.youtube.com/watch?v=j5RBrEjNMcY)**
 
 Take Control of Your Retirement — Grow Crypto & Gold Tax-Advantaged. https://www.itrustcapital.com/go/savvy-finance If you're ...
 
 📺 Savvy Finance
 
-👁️ 8K • 👍 369 • 💬 8 • ⏱️ 19:52 • 10h ago
-
----
-
-**[Why Isn&#39;t Bitcoin Going Up While Gold &amp; Silver Are Surging?](https://www.youtube.com/watch?v=MdWTq7-sMR8)**
-
-In this solo episode, Anthony Pompliano explains why Bitcoin is lagging while gold, silver, copper, and platinum are surging.
-
-📺 Anthony Pompliano
-
-👁️ 62K • 👍 3K • 💬 159 • ⏱️ 17:45 • 1d ago
+👁️ 9K • 👍 400 • 💬 10 • ⏱️ 19:52 • 11h ago
 
 ---
 
@@ -328,7 +328,67 @@ As the stock market witnesses high volatility, experts anticipate potential shar
 
 📺 Paul Barron Network
 
-👁️ 35K • 👍 2K • 💬 149 • ⏱️ 17:32 • 7h ago
+👁️ 49K • 👍 3K • 💬 168 • ⏱️ 17:32 • 8h ago
+
+---
+
+**[60% of Banks Gearing Up For Crypto In 2026? PROOF!](https://www.youtube.com/watch?v=cBWOnFm6nY4)**
+
+I didn't know that this many banks are getting ready for a crypto push. The links below may include affiliate links, which means I ...
+
+📺 Digital Asset News
+
+👁️ 7K • 👍 684 • 💬 37 • ⏱️ 23:24 • 8h ago
+
+---
+
+**[This won&#39;t end well (Bitcoin, Gold, Silver)](https://www.youtube.com/watch?v=czThmNmjGXg)**
+
+NEW WEEKLY REPORTS, NEW SUBSCRIBERS GET ACCESS HERE → https://tiainvestor.com/subscribe/ NAVIGATE YOUR ...
+
+📺 Michael Pizzino
+
+👁️ 3K • 👍 405 • 💬 20 • ⏱️ 8:45 • 4h ago
+
+---
+
+**[BREAKING: IT’S HAPPENING AGAIN](https://www.youtube.com/watch?v=9XzkNFXIRG0)**
+
+Trade Like A Tourist Or Join The Pros FFA Is Where The Real Ones Go https://cryptocrewuniversity.com/ffa Get INSIDER ...
+
+📺 Crypto Crew University
+
+👁️ 35K • 👍 3K • 💬 202 • ⏱️ 15:06 • 14h ago
+
+---
+
+**[Why Isn&#39;t Bitcoin Going Up While Gold &amp; Silver Are Surging?](https://www.youtube.com/watch?v=MdWTq7-sMR8)**
+
+In this solo episode, Anthony Pompliano explains why Bitcoin is lagging while gold, silver, copper, and platinum are surging.
+
+📺 Anthony Pompliano
+
+👁️ 66K • 👍 3K • 💬 159 • ⏱️ 17:45 • 1d ago
+
+---
+
+**[99.9% Will F*CK This Up — Bitcoin Is About To Screw Everyone | Guy Swann Warning](https://www.youtube.com/watch?v=3qeLu-tSfWo)**
+
+Guy Swann explains why almost everyone is about to get Bitcoin totally wrong — and how it could come back to wreck them.
+
+📺 Bitcoin Archive w Archie
+
+👁️ 11K • 👍 338 • 💬 142 • ⏱️ 21:44 • 15h ago
+
+---
+
+**[Tom Lee Just Said The UNTHINKABLE About Bitcoin &amp; Ethereum! [2026 New Prediction]](https://www.youtube.com/watch?v=OzflL_FbMXA)**
+
+Tom Lee Just Said The UNTHINKABLE About Bitcoin & Ethereum! [2026 New Prediction] My FREE Daily 5-Min Crypto ...
+
+📺 Crypto Nutshell
+
+👁️ 19K • 👍 587 • 💬 55 • ⏱️ 14:37 • 13h ago
 
 ---
 
@@ -338,67 +398,7 @@ Today, let's examine Bitcoin's charts and metrics, as well as the latest Macro a
 
 📺 CryptosRUs
 
-👁️ 21K • 👍 1K • 💬 218 • ⏱️ 43:35 • 11h ago
-
----
-
-**[Tom Lee: &quot;This Signal Confirms Bitcoin Will Hit a New High in 2026!&quot;](https://www.youtube.com/watch?v=1wPj1tFcDdo)**
-
-This is not a victory lap — it's a reset. When Tom Lee throws out a $200000–$250000 Bitcoin target for 2026, he starts by doing ...
-
-📺 The Bitcoin Revolution
-
-👁️ 946 • 👍 53 • 💬 62 • ⏱️ 8:58 • 9h ago
-
----
-
-**[Bitcoin Is About To Leave Gold In The Dust](https://www.youtube.com/watch?v=BsN1_yIlAL0)**
-
-Exchange Partners** Bitunix Exchange ▻ *$100000 Deposit Bonus* ▻ https://bit.ly/3Tmp1Hq BTCC Exchange ▻ *10% ...
-
-📺 CryptosRUs
-
-👁️ 32K • 👍 2K • 💬 369 • ⏱️ 8:05 • 1d ago
-
----
-
-**[Bitcoin WILL Be Hit The HARDEST | Cathie Wood&#39;s Warning](https://www.youtube.com/watch?v=mxDOwT-HInI)**
-
-Watch The FULL Interview: https://www.youtube.com/watch?v=t37Jrhqdgn8 FREE Daily On-Chain Analysis & Crypto News In ...
-
-📺 Library Of Wealth
-
-👁️ 17K • 👍 415 • 💬 503 • ⏱️ 15:36 • 1d ago
-
----
-
-**[IT&#39;S OVER FOR CRYPTO BLACKROCK PLACED THEIR BETS!](https://www.youtube.com/watch?v=6HPeviuGxO0)**
-
-IT'S OVER FOR CRYPTO BLACKROCK PLACED THEIR BETS! I don't believe that crypto is going anywhere, and I also believe ...
-
-📺 CryptoWendyO
-
-👁️ 33K • 👍 1K • 💬 253 • ⏱️ 3:19 • 1d ago
-
----
-
-**[Dollar CRASH Incoming?! Is Bitcoin About to Erupt?](https://www.youtube.com/watch?v=35UC7C2b-X0)**
-
-Gold and silver are ripping to record highs, but the real story is what this says about the dollar. Central banks are trapped, ...
-
-📺 Simply Bitcoin
-
-👁️ 31K • 👍 2K • 💬 255 • ⏱️ 18:47 • 1d ago
-
----
-
-**[&quot;Bitcoin Will SHATTER Before Mooning, Prepare NOW!&quot; - Jack Mallers Warns](https://www.youtube.com/watch?v=wkDOCru0hlo)**
-
-Take Control of Your Retirement — Grow Crypto & Gold Tax-Advantaged. https://www.itrustcapital.com/go/savvy-finance If you're ...
-
-📺 Savvy Finance
-
-👁️ 10K • 👍 380 • 💬 48 • ⏱️ 18:13 • 1d ago
+👁️ 22K • 👍 1K • 💬 197 • ⏱️ 43:35 • 12h ago
 
 ---
 

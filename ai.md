@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-01-28T03:46:35.008465+00:00'
+updated: '2026-01-28T04:45:34.078373+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- social
 - news
-- videos
+- social
 - repositories
+- videos
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** January 28, 2026 at 03:46 UTC  
+**Last Updated:** January 28, 2026 at 04:45 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -39,7 +39,7 @@ AI news, discussions, and developments
 
 **[Trump’s acting cyber chief uploaded sensitive files into a public version of ChatGPT. The interim director of the Cybersecurity and Infrastructure Security Agency triggered an internal cybersecurity warning with the uploads — and a DHS-level damage assessment.](https://www.reddit.com/r/artificial/comments/1qozsna/trumps_acting_cyber_chief_uploaded_sensitive/)**
 
-🔗 [politico.com](https://www.politico.com/news/2026/01/27/cisa-madhu-gottumukkala-chatgpt-00749361) • 31m ago
+🔗 [politico.com](https://www.politico.com/news/2026/01/27/cisa-madhu-gottumukkala-chatgpt-00749361) • 1h ago
 
 ---
 
@@ -47,13 +47,13 @@ AI news, discussions, and developments
 
 Tried ClawdBot (now MoltBot) on a freshly installed system. At first? 🔥 Insane. It found a pitch deck buried in my messy external HDD and even sent it on WhatsApp. Super impressive. Few hours later — I get an Amazon alert: • Login at 2:40 AM • Different location • Logged in from Windows • I’m on Linux • I did NOT log in Could be a false alert (I have 2FA), but the timing freaked me out. Tried uninstalling the bot — no clear guide. Had to dig into code, found it running as a system service, manually removed everything. Realized my mistake: Chrome was installed → password manager + sessions were there. ⚠️ Lesson: These tools are powerful, but don’t install them unless you fully understand what access you’re giving. Not accusing. Just sharing experience. If you know a guide to uninstall if it’s available on the site, please drop it.
 
-5h ago
+6h ago
 
 ---
 
 **[Pinterest lays off hundreds, citing need for 'AI-proficient talent'](https://www.reddit.com/r/artificial/comments/1qotqu1/pinterest_lays_off_hundreds_citing_need_for/)**
 
-🔗 [sfgate.com](https://www.sfgate.com/tech/article/pinterest-layoffs-hundreds-ai-21318302.php) • 4h ago
+🔗 [sfgate.com](https://www.sfgate.com/tech/article/pinterest-layoffs-hundreds-ai-21318302.php) • 5h ago
 
 ---
 
@@ -61,7 +61,7 @@ Tried ClawdBot (now MoltBot) on a freshly installed system. At first? 🔥 Insan
 
 Discover what Moltbot (formerly Clawdbot) is, why it’s going viral, key features, security risks, use cases, and whether it’s safe to use in 2026.
 
-🔗 [techputs](https://techputs.com/viral-ai-assistant-clawdbot-moltbot/) • 43m ago
+🔗 [techputs](https://techputs.com/viral-ai-assistant-clawdbot-moltbot/) • 1h ago
 
 ---
 
@@ -69,7 +69,7 @@ Discover what Moltbot (formerly Clawdbot) is, why it’s going viral, key featur
 
 Generic AI can summarize documents and answer simple questions. But it fails at complex, specialized work in industries like aerospace, semiconductors, manufacturing, and logistics. The core issue isn't models, it's the context or scaffolding around them When enterprises try to build expert AI, they face a hard tradeoff: Build it yourself: Fully customizable, but requires scarce AI expertise, months of development, and constant optimization. Buy off-the-shelf: Fast to deploy, but inflexible. Hard to customize and doesn't scale across use cases. We took a different approach: a platform approach with a unified context layer specialized for domain-specific tasks. Today, we launched Agent Composer, with orchestration capabilities that enable: Multi-step reasoning (decompose problems, iterate solutions, revise outputs) Multi-tool coordination (docs, logs, web search, APIs in the same workflow) Hybrid agentic behavior (dynamic agent steps + static workflow control) It works: Advanced manufacturing: root cause analysis from 8 hours to 20 minutes Global consulting firm: research from hours to seconds Tech-enabled 3PL: 60x faster issue resolution Test equipment: code generation in minutes instead of days Spending time on the integrating context with AI worked for us on Enterprise AI problems. To get more details about our approach, check out the blog post: https://contextual.ai/blog/introducing-agent-composer
 
-8h ago
+9h ago
 
 ---
 
@@ -77,7 +77,7 @@ Generic AI can summarize documents and answer simple questions. But it fails at 
 
 Using ChatGPT, Midjourney, and automation tools is great, but I've hit a plateau. The real challenge isn't finding tools-it's making them work together to grow the business. It feels like collecting engine parts without building the car. What I'm struggling with: Connecting AI content to actual sales funnels Tracking if AI content performs better than human-created Actually measuring ROI beyond "saves time" Most talk is about which tool is best, not how to build an AI system that delivers results. Has anyone moved beyond tools to systems? What does that look like? I saw a take from a ROI marketing agency that approaches AI as an integrated system, not just tools. It made me wonder if we're missing the bigger picture. Anyone else thinking about AI this way?
 
-2h ago
+3h ago
 
 ---
 
@@ -85,7 +85,7 @@ Using ChatGPT, Midjourney, and automation tools is great, but I've hit a plateau
 
 Ever since I started using LLMs in early 2023, my life has genuinely changed. Productivity and the speed of getting deep information just increased by 10x. Curious to know what are some of your favorite LLMs in 2026? For most of 2023-24, I was a diehard ChatGPT user. Used it for almost everything, helped me launch my e-commerce brands, systematize my marketing agency, and just general day-to-day decision making. Entering 2025, GPT-4 and 5 started feeling really robotic. It lost that human touch as more users flooded in. GPT got overtaken by Gemini with the launch of Nanobanana 1 and 2. Content creation and creative generation became so much quicker, more accurate, and sharper. Video generation with Veo3 was a game changer for creating briefs for designers. That said, Gemini still lacked the human warmth that GPT 4.0 had. The vibe coding/build function though, it was Incredible. Generated a full landing page in a matter of minutes. Now in 2026, I've ported 90% of my work to Anthropic's Claude. I work with a ton of data now, and Claude's coding capabilities can break down hundreds of spreadsheets in minutes. Among the 3 LLMs, Claude feels the closest to talking to an actual human. The analysis and responses are way more concise compared to GPT and Gemini. My top 3: Claude: Overall champion. Strong coding capabilities, responses that actually sound human, and solid copywriting skills. Gemini: Runner-up. Great all-rounder with Nanobanana, Veo3, app building, and presentation slides. GPT: Decent... meh. What are your takes? Anyone doing anything crazy with these that I should know about? Would love to hear your thoughts and swap ideas. Looking at more ways too amplify my productivity within the marketing and business space.
 
-19h ago
+20h ago
 
 ---
 
@@ -93,7 +93,7 @@ Ever since I started using LLMs in early 2023, my life has genuinely changed. Pr
 
 Philips will soon show off its new AI-ready digital signage at ISE 2026 in Barcelona. The 5000 series is the "most intelligent" to date.
 
-🔗 [PC Guide](https://www.pcguide.com/news/philips-unveils-first-ai-ready-advertising-boards-digital-signage-ranging-from-32-to-98-to-be-demoed-soon/) • 12h ago
+🔗 [PC Guide](https://www.pcguide.com/news/philips-unveils-first-ai-ready-advertising-boards-digital-signage-ranging-from-32-to-98-to-be-demoed-soon/) • 13h ago
 
 ---
 
@@ -101,7 +101,7 @@ Philips will soon show off its new AI-ready digital signage at ISE 2026 in Barce
 
 https://reddit.com/link/1qomiad/video/9x9ozcxxsxfg1/player I've been testing how far AI tools have come for creating full commercial ads from scratch and it's way easier than before First I used claude to generate the story structure, then Seedream 4.5 and Flux Pro 2 for the initial shots. to keep the character and style consistent across scenes i used nano banana pro as an edit model. this let me integrate product placement (lego f1 cars) while keeping the same 3d pixar style throughout all the scenes. For animation i ran everything through Sora 2 using multiple cuts in the same prompt so we can get different camera angles in one generation. Then i just mixed the best parts from different generations and added AI generated music. This workflow is still not perfect but it is getting there and improving a lot. I made a full tutorial breaking down how i did it step by step: 👉 https://www.youtube.com/watch?v=EzLS5L4VgN8 Let me know if you have any questions or if you have a better workflow for keeping consistency in AI commercials, i'd love to learn!
 
-9h ago
+10h ago
 
 ---
 
@@ -121,7 +121,7 @@ Meta is blocking teens worldwide from accessing AI chatbot characters while it r
 
 Cisco chief executive Chuck Robbins compares AI to the dotcom bubble of the early 2000s.
 
-BBC • 3h ago
+BBC • 4h ago
 
 ---
 
@@ -129,7 +129,7 @@ BBC • 3h ago
 
 Accelerating science writing and collaboration with AI.
 
-OpenAI • 10h ago
+OpenAI • 11h ago
 
 ---
 
@@ -137,7 +137,7 @@ OpenAI • 10h ago
 
 Chinese companies are releasing new AI models and striving to gain an edge in the AI application race as the country's biggest holiday of the year nears.
 
-CNBC • 57m ago
+CNBC • 1h ago
 
 ---
 
@@ -145,7 +145,7 @@ CNBC • 57m ago
 
 The AI Doc: Or How I Became an Apocaloptimist, co-directed by Daniel Roher, delves into the world of AI through the lens of personal anxiety
 
-The Guardian • 1h ago
+The Guardian • 2h ago
 
 ---
 
@@ -153,7 +153,7 @@ The Guardian • 1h ago
 
 Google Developer Program (GDP) premium benefits are now included in Google AI Pro and Google AI Ultra.
 
-blog.google • 6h ago
+blog.google • 7h ago
 
 ---
 
@@ -161,7 +161,7 @@ blog.google • 6h ago
 
 Gemini 3 Pro and other AI tools are now available globally through the Google AI Plus plan, which is $7.99 per month in the United States.
 
-TechCrunch • 9h ago
+TechCrunch • 10h ago
 
 ---
 
@@ -169,7 +169,7 @@ TechCrunch • 9h ago
 
 AI Overviews may get it right more often with the move to Gemini 3.
 
-Ars Technica • 10h ago
+Ars Technica • 11h ago
 
 ---
 
@@ -177,13 +177,13 @@ Ars Technica • 10h ago
 
 I tested four new versions. The promise is real, but major issues still need to be addressed.
 
-The Washington Post • 8h ago
+The Washington Post • 9h ago
 
 ---
 
 **[Microsoft Pledged to Save Water. In the A.I. Era, It Expects Water Use to Soar.](https://www.nytimes.com/2026/01/27/technology/microsoft-water-ai-data-centers.html)**
 
-The New York Times • 4h ago
+The New York Times • 5h ago
 
 ---
 
@@ -191,7 +191,7 @@ The New York Times • 4h ago
 
 Corning, a 175-year-old glassmaker known for supplying iPhone glass, is now at the center of the AI infrastructure boom with a new type of fiber-optic cable
 
-CNBC • 15h ago
+CNBC • 16h ago
 
 ---
 
@@ -255,7 +255,7 @@ Opinion: Autonomous agents may generate millions of lines of code, but shipping 
 
 SERA is the first in our family of Open Coding Agents, achieving state-of-the-art performance at low cost.
 
-⬆️ 138 • 💬 19 • 10h ago • [allenai.org](https://allenai.org/blog/open-coding-agents)
+⬆️ 138 • 💬 19 • 11h ago • [allenai.org](https://allenai.org/blog/open-coding-agents)
 
 ---
 
@@ -283,47 +283,27 @@ Dario Amodei, the CEO of the AI company Anthropic, joined "Top Story" to discuss
 
 📺 NBC News
 
-👁️ 9K • 👍 221 • 💬 75 • ⏱️ 18:01 • 11h ago
+👁️ 12K • 👍 264 • 💬 96 • ⏱️ 18:01 • 12h ago
 
 ---
 
-**[&#39;HUGE BREAKTHROUGHS&#39;: NVIDIA CEO reveals future of AI](https://www.youtube.com/watch?v=oa7FWO8i7kk)**
+**[Chinas New AI Kimi K2.5 Shocks DeepSeek and Silicon Valley Labs](https://www.youtube.com/watch?v=282DgVcHNJs)**
 
-NVIDIA CEO Jensen Huang discusses how artificial intelligence is advancing and handling competition with China on 'Maria ...
+China's AI race just shifted. Moonshot quietly rolled out Kimi K2.5, and the jump in vision and tool use instantly changed how the ...
 
-📺 Fox Business
+📺 AI Revolution
 
-👁️ 135K • 👍 2K • 💬 638 • ⏱️ 4:20 • 2d ago
-
----
-
-**[AI in 2026 is going to be wild](https://www.youtube.com/watch?v=-0i2ERMGoq4)**
-
-The latest AI News. Learn about LLMs, Gen AI and get ready for the rollout of AGI. Wes Roth covers the latest happenings in the ...
-
-📺 Wes Roth
-
-👁️ 25K • 👍 820 • 💬 178 • ⏱️ 12:43 • 2d ago
+👁️ 7K • 👍 332 • 💬 40 • ⏱️ 12:41 • 5h ago
 
 ---
 
-**[Grok Is Everything That’s Wrong with AI](https://www.youtube.com/watch?v=NSGzpdnlVIM)**
+**[The AI T-Shirts That Are Making People RICH](https://www.youtube.com/watch?v=ltRGs6AkFiM)**
 
-Grok. It's like Uber for your brain. And Grok is growing bigger and bigger, despite breaking laws and being criminally cringe.
+This free AI t-shirt design tutorial is sponsored by .store domains. Get your .store domain HERE: https://go.store/wt03 (coupon ...
 
-📺 The Bitchuation Room (with Francesca Fiorentini)
+📺 Wholesale Ted
 
-👁️ 18K • 👍 2K • 💬 286 • ⏱️ 17:08 • 2d ago
-
----
-
-**[Blunt advice about AI from Axios CEO Jim VandeHei](https://www.youtube.com/watch?v=S9cfcpzJ_Ck)**
-
-Axios CEO Jim VandeHei shares the blunt AI advice he recently wrote to his family, and why he believes every worker, parent, ...
-
-📺 Axios
-
-👁️ 8K • 👍 192 • 💬 21 • ⏱️ 5:57 • 1d ago
+👁️ 11K • 👍 917 • 💬 64 • ⏱️ 21:39 • 10h ago
 
 ---
 
@@ -333,7 +313,57 @@ Check out the Dell Pro Max Workstation with the NVIDIA RTX PRO! https://bit.ly/d
 
 📺 Matthew Berman
 
-👁️ 240K • 👍 7K • 💬 841 • ⏱️ 21:12 • 2d ago
+👁️ 243K • 👍 7K • 💬 853 • ⏱️ 21:12 • 2d ago
+
+---
+
+**[Blunt advice about AI from Axios CEO Jim VandeHei](https://www.youtube.com/watch?v=S9cfcpzJ_Ck)**
+
+Axios CEO Jim VandeHei shares the blunt AI advice he recently wrote to his family, and why he believes every worker, parent, ...
+
+📺 Axios
+
+👁️ 8K • 👍 200 • 💬 22 • ⏱️ 5:57 • 1d ago
+
+---
+
+**[&#39;HUGE BREAKTHROUGHS&#39;: NVIDIA CEO reveals future of AI](https://www.youtube.com/watch?v=oa7FWO8i7kk)**
+
+NVIDIA CEO Jensen Huang discusses how artificial intelligence is advancing and handling competition with China on 'Maria ...
+
+📺 Fox Business
+
+👁️ 139K • 👍 2K • 💬 652 • ⏱️ 4:20 • 2d ago
+
+---
+
+**[AI Image Generators Ranked from Worst to Best (2026)](https://www.youtube.com/watch?v=_Ow97llH1YE)**
+
+Access Every Image Generator in OpenArt https://roboverse-ai.com/images In this video, I'm ranking the best AI image ...
+
+📺 Roboverse
+
+👁️ 8K • 💬 9 • ⏱️ 13:19 • 14h ago
+
+---
+
+**[AI in 2026 is going to be wild](https://www.youtube.com/watch?v=-0i2ERMGoq4)**
+
+The latest AI News. Learn about LLMs, Gen AI and get ready for the rollout of AGI. Wes Roth covers the latest happenings in the ...
+
+📺 Wes Roth
+
+👁️ 25K • 👍 822 • 💬 178 • ⏱️ 12:43 • 2d ago
+
+---
+
+**[Grok Is Everything That’s Wrong with AI](https://www.youtube.com/watch?v=NSGzpdnlVIM)**
+
+Grok. It's like Uber for your brain. And Grok is growing bigger and bigger, despite breaking laws and being criminally cringe.
+
+📺 The Bitchuation Room (with Francesca Fiorentini)
+
+👁️ 18K • 👍 2K • 💬 291 • ⏱️ 17:08 • 2d ago
 
 ---
 
@@ -343,37 +373,7 @@ Stonehenge Mystery Finally Solved by AI and the Truth Is Terrifying For over 500
 
 📺 The Silent Archive
 
-👁️ 161K • 👍 1K • 💬 200 • ⏱️ 21:00 • 1d ago
-
----
-
-**[This Week Changed AI Forever](https://www.youtube.com/watch?v=yEvr1bmFlOM)**
-
-CHAPTERS ⤵ 00:00 AI Innovations You Need to Know 02:20 AI Trained on Body Cam Footage From Any Angle 05:02 What ...
-
-📺 Dylan Curious
-
-👁️ 6K • 👍 311 • 💬 74 • ⏱️ 27:06 • 1d ago
-
----
-
-**[Anthropic brings AI to finance](https://www.youtube.com/watch?v=vou4HnlfQPk)**
-
-CNBC's Deirdre Bosa reports on news regarding AI coding.
-
-📺 CNBC Television
-
-👁️ 72K • 👍 887 • 💬 85 • ⏱️ 2:40 • 1d ago
-
----
-
-**[I Sent AI the Shooting Video From Minneapolis and Let It React](https://www.youtube.com/watch?v=XBqNaJWdW4k)**
-
-Go to https://groundnews.com/ai to stay fully informed about U.S. politics, AI, and more. Subscribe through my link to get 40% off ...
-
-📺 I Ask AI
-
-👁️ 186K • 👍 10K • 💬 1K • ⏱️ 12:43 • 2d ago
+👁️ 170K • 👍 2K • 💬 205 • ⏱️ 21:00 • 1d ago
 
 ---
 
@@ -389,31 +389,7 @@ PersonaPlex-7B-v1 is a real-time, full-duplex speech-to-speech conversational mo
 
 `audio-to-audio`
 
-⬇️ 43,872 • ❤️ 1,246 • 5d ago
-
----
-
-**[VibeVoice-ASR](https://huggingface.co/microsoft/VibeVoice-ASR)**
-
-*Microsoft*
-
-VibeVoice-ASR is a unified speech-to-text model capable of processing up to 60 minutes of audio in a single pass, providing structured transcriptions with speaker diarization and timestamps. It supports customized hotwords for improved accuracy in domain-specific content.
-
-`automatic-speech-recognition` `8.7B`
-
-⬇️ 76,679 • ❤️ 654 • 14h ago
-
----
-
-**[Qwen3-TTS-12Hz-1.7B-CustomVoice](https://huggingface.co/Qwen/Qwen3-TTS-12Hz-1.7B-CustomVoice)**
-
-*Qwen*
-
-Qwen3-TTS-12Hz-1.7B-CustomVoice is a multilingual text-to-speech model supporting 10 languages with instruction-based control over prosody, emotion, and speaking rate. It features extreme low-latency streaming generation (as low as 97ms) and supports 9 premium timbres for style control, making it ideal for real-time interactive applications.
-
-`1.9B`
-
-⬇️ 138,693 • ❤️ 639 • 4d ago
+⬇️ 43,872 • ❤️ 1,253 • 5d ago
 
 ---
 
@@ -425,7 +401,31 @@ Kimi K2.5 is a native multimodal agentic model with 1T parameters, excelling in 
 
 `image-text-to-text`
 
-⬇️ 10,965 • ❤️ 609 • 15h ago
+⬇️ 10,965 • ❤️ 666 • 1h ago
+
+---
+
+**[VibeVoice-ASR](https://huggingface.co/microsoft/VibeVoice-ASR)**
+
+*Microsoft*
+
+VibeVoice-ASR is a unified speech-to-text model capable of processing up to 60 minutes of audio in a single pass, providing structured transcriptions with speaker diarization and timestamps. It supports customized hotwords for improved accuracy in domain-specific content.
+
+`automatic-speech-recognition` `8.7B`
+
+⬇️ 76,679 • ❤️ 664 • 15h ago
+
+---
+
+**[Qwen3-TTS-12Hz-1.7B-CustomVoice](https://huggingface.co/Qwen/Qwen3-TTS-12Hz-1.7B-CustomVoice)**
+
+*Qwen*
+
+Qwen3-TTS-12Hz-1.7B-CustomVoice is a multilingual text-to-speech model supporting 10 languages with instruction-based control over prosody, emotion, and speaking rate. It features extreme low-latency streaming generation (as low as 97ms) and supports 9 premium timbres for style control, making it ideal for real-time interactive applications.
+
+`1.9B`
+
+⬇️ 138,693 • ❤️ 642 • 4d ago
 
 ---
 
@@ -437,7 +437,7 @@ GLM-4.7-Flash is a 30B-A3B MoE model, offering strong performance in the 30B cla
 
 `text-generation` `31.2B`
 
-⬇️ 532,168 • ❤️ 1,281 • 7d ago
+⬇️ 532,168 • ❤️ 1,283 • 7d ago
 
 ---
 
@@ -449,7 +449,7 @@ Z-Image is an undistilled, high-fidelity text-to-image diffusion transformer mod
 
 `text-to-image`
 
-⬇️ 0 • ❤️ 360 • 11h ago
+⬇️ 0 • ❤️ 416 • 12h ago
 
 ---
 
@@ -461,7 +461,7 @@ DeepSeek-OCR-2 is a multilingual vision-language model for image-to-text tasks, 
 
 `image-text-to-text` `3.4B`
 
-⬇️ 0 • ❤️ 352 • 16h ago
+⬇️ 0 • ❤️ 373 • 17h ago
 
 ---
 
@@ -473,7 +473,7 @@ LightOnOCR-2-1B is an efficient 1B-parameter end-to-end vision-language model fo
 
 `image-text-to-text` `1.0B`
 
-⬇️ 19,899 • ❤️ 395 • 6d ago
+⬇️ 19,899 • ❤️ 399 • 6d ago
 
 ---
 
@@ -485,7 +485,7 @@ Chroma-4B is a real-time, end-to-end spoken dialogue model capable of speech und
 
 `any-to-any` `5.9B`
 
-⬇️ 5,776 • ❤️ 265 • 1d ago
+⬇️ 5,776 • ❤️ 266 • 1h ago
 
 ---
 
@@ -497,7 +497,7 @@ Sweep Next-Edit 1.5B is a GGUF quantized model for next-edit code autocompletion
 
 `1.4B`
 
-⬇️ 3,444 • ❤️ 251 • 5d ago
+⬇️ 3,444 • ❤️ 254 • 5d ago
 
 ---
 
@@ -513,7 +513,7 @@ Sweep Next-Edit 1.5B is a GGUF quantized model for next-edit code autocompletion
 
 The Qwen3-TTS series presents advanced multilingual text-to-speech models with voice cloning and controllable speech generation capabilities, utilizing dual-track LM architecture and specialized speech tokenizers for efficient streaming synthesis.
 
-▲ 45 • 💬 1 • ⭐ 5,367 • 6d ago
+▲ 45 • 💬 1 • ⭐ 5,479 • 6d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2601.15621) • [💻 code](https://github.com/QwenLM/Qwen3-TTS)
 
@@ -525,7 +525,7 @@ The Qwen3-TTS series presents advanced multilingual text-to-speech models with v
 
 UltraRAG is a comprehensive RAG toolkit that automates knowledge adaptation across the entire workflow while providing a user-friendly interface for non-coding deployment.
 
-▲ 5 • 💬 0 • ⭐ 4,454 • 10mo ago
+▲ 5 • 💬 0 • ⭐ 4,486 • 10mo ago
 
 [🎓 arXiv](https://arxiv.org/abs/2504.08761) • [💻 code](https://github.com/OpenBMB/UltraRAG)
 
@@ -590,7 +590,7 @@ Agentic reasoning redefines large language models as autonomous agents capable o
 
 PagedAttention algorithm and vLLM system enhance the throughput of large language models by efficiently managing memory and reducing waste in the key-value cache.
 
-▲ 32 • 💬 1 • ⭐ 68,746 • 28mo ago
+▲ 32 • 💬 1 • ⭐ 68,778 • 28mo ago
 
 [🎓 arXiv](https://arxiv.org/abs/2309.06180) • [💻 code](https://github.com/vllm-project/vllm)
 
@@ -605,9 +605,22 @@ PagedAttention algorithm and vLLM system enhance the throughput of large languag
 
 SmolDocling is a compact vision-language model that performs end-to-end document conversion with robust performance across various document types using 256M parameters and a new markup format.
 
-▲ 136 • 💬 19 • ⭐ 51,258 • 10mo ago
+▲ 136 • 💬 19 • ⭐ 51,289 • 10mo ago
 
 [🎓 arXiv](https://arxiv.org/abs/2503.11576) • [💻 code](https://github.com/docling-project/docling) • [🔗 project](https://huggingface.co/ds4sd/SmolDocling-256M-preview)
+
+---
+
+**[MinerU2.5: A Decoupled Vision-Language Model for Efficient
+  High-Resolution Document Parsing](https://huggingface.co/papers/2509.22186)**
+
+*Junbo Niu, Zheng Liu, Zhuangcheng Gu et al. (61 authors)*
+
+MinerU2.5, a 1.2B-parameter document parsing vision-language model, achieves state-of-the-art recognition accuracy with computational efficiency through a coarse-to-fine parsing strategy.
+
+▲ 140 • 💬 2 • ⭐ 52,987 • 4mo ago
+
+[🎓 arXiv](https://arxiv.org/abs/2509.22186) • [💻 code](https://github.com/opendatalab/MinerU) • [🔗 project](https://opendatalab.github.io/MinerU/)
 
 ---
 
@@ -631,21 +644,9 @@ over state-of-the-art discrete audio language models, facilitating lightweight,
 high-quality audio generation. Samples are available at
 https://continuous-audio-language-models.github.io
 
-▲ 2 • 💬 0 • ⭐ 2,632 • 4mo ago
+▲ 2 • 💬 0 • ⭐ 2,657 • 4mo ago
 
 [🎓 arXiv](https://arxiv.org/abs/2509.06926) • [💻 code](https://github.com/kyutai-labs/pocket-tts) • [🔗 project](https://huggingface.co/spaces/kyutai/calm-samples)
-
----
-
-**[Agent Lightning: Train ANY AI Agents with Reinforcement Learning](https://huggingface.co/papers/2508.03680)**
-
-*Xufang Luo, Yuge Zhang, Zhiyuan He et al. (8 authors)*
-
-Agent Lightning is a flexible RL framework for training LLMs in various agents, using a hierarchical RL algorithm and decoupling execution from training to handle complex interactions.
-
-▲ 128 • 💬 6 • ⭐ 11,778 • 5mo ago
-
-[🎓 arXiv](https://arxiv.org/abs/2508.03680) • [💻 code](https://github.com/microsoft/agent-lightning) • [🔗 project](https://www.microsoft.com/en-us/research/project/agent-lightning/)
 
 ---
 
@@ -659,7 +660,7 @@ Browser automation CLI for AI agents
 
 `TypeScript`
 
-⭐ 11.1k • 🔱 607 • 12h ago
+⭐ 11.1k • 🔱 607 • 13h ago
 
 ---
 
@@ -679,7 +680,7 @@ Ralph is an autonomous AI agent loop that runs repeatedly until all PRD items ar
 
 `TypeScript`
 
-⭐ 8.2k • 🔱 955 • 5d ago
+⭐ 8.2k • 🔱 957 • 5d ago
 
 ---
 
@@ -689,7 +690,7 @@ Ralph is an autonomous AI agent loop that runs repeatedly until all PRD items ar
 
 `Vue`
 
-⭐ 6.3k • 🔱 1.1k • 17h ago
+⭐ 6.4k • 🔱 1.1k • 1m ago
 
 ---
 
@@ -699,7 +700,7 @@ LLM驱动的 A/H/美股智能分析器，多数据源行情 + 实时新闻 + Gem
 
 `Python` `agent` `ai` `aigc` `gemini` `llm`
 
-⭐ 6.2k • 🔱 6.8k • 12h ago
+⭐ 6.3k • 🔱 6.9k • 13h ago
 
 ---
 
@@ -709,7 +710,7 @@ Marketing skills for Claude Code and AI agents. CRO, copywriting, SEO, analytics
 
 `claude` `codex` `marketing`
 
-⭐ 5.0k • 🔱 531 • 2h ago
+⭐ 5.0k • 🔱 532 • 3h ago
 
 ---
 
@@ -719,7 +720,7 @@ The Ultimate Collection of 200+ Agentic Skills for Claude Code/Antigravity/Curso
 
 `Python` `agentic-skills` `ai-agents` `antigravity` `autonomous-coding` `claude-code`
 
-⭐ 4.4k • 🔱 1.0k • 10h ago
+⭐ 4.5k • 🔱 1.0k • 11h ago
 
 ---
 
