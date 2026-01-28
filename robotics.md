@@ -3,7 +3,7 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-01-28T06:38:18.819824+00:00'
+updated: '2026-01-28T07:27:49.516365+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
@@ -17,7 +17,7 @@ data_types:
 
 Robotics research and industry news
 
-**Last Updated:** January 28, 2026 at 06:38 UTC  
+**Last Updated:** January 28, 2026 at 07:27 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -44,7 +44,7 @@ Hey all, a quick showcase of the Sprout robot from Fauna Robotics. I’m a postd
 
 From Lukas Ziegler on 𝕏: https://x.com/lukas_m_ziegler/status/2016112237019042259 AgXeed website: https://www.agxeed.com/
 
-18h ago
+19h ago
 
 ---
 
@@ -52,13 +52,13 @@ From Lukas Ziegler on 𝕏: https://x.com/lukas_m_ziegler/status/201611223701904
 
 Meet Sprout. Fauna Robotics are releasing a new kind of robotics platform. One designed to move out of the lab and into the real world, closer to the people who will shape what robots become next. @faunarobotics
 
-13h ago
+14h ago
 
 ---
 
 **[Helix update makes Figure 03 move noticeably more human. Thoughts?](https://www.reddit.com/r/robotics/comments/1qoyi0l/helix_update_makes_figure_03_move_noticeably_more/)**
 
-4h ago
+5h ago
 
 ---
 
@@ -74,7 +74,7 @@ I recently came across the Universal Manipulation Interface (UMI) paper and foun
 
 From Eren Chen on 𝕏: https://x.com/ErenChenAI/status/2015503512734441800
 
-20h ago
+21h ago
 
 ---
 
@@ -96,7 +96,7 @@ Enjoy the videos and music you love, upload original content, and share it all w
 
 We're open-sourcing Asimov Legs, a bipedal robotic system. We've been building in public and sharing daily progress, now the full design is out. A complete leg design with 6 DOF per leg, RSU ankle architecture, passive toe joints. Built with off-the-shelf components and compatible with MJF 3D printing. What's included: - Full mechanical CAD (STEP files) - Motors & actuators list - XML files for simulation (MuJoCo) Most of the structure is MJF-printable plastic. The only part that needs CNC is the knee plate, and we spent weeks simplifying that from a 2-part assembly down to a single plate. If you don't have access to industrial MJF, casting or regular 3D printing works too. Repo for all: https://github.com/asimovinc/asimov-v0 Happy to answer questions about the design choices.
 
-21h ago
+22h ago
 
 ---
 
@@ -104,7 +104,7 @@ We're open-sourcing Asimov Legs, a bipedal robotic system. We've been building i
 
 For the first time in the history of Swaayatt Robots (स्वायत्त रोबोट्स), we have completely removed the human safety driver from our autonomous vehicle. This demo was performed in two parts. In the first part, there was no safety driver, but the passenger seat was occupied to press the kill switch in case of an emergency. In the second part, there was no human presence inside the vehicle at all.
 
-🔗 [youtu.be](https://youtu.be/br71Zw3Nq_A) • 1h ago
+🔗 [youtu.be](https://youtu.be/br71Zw3Nq_A) • 2h ago
 
 ---
 
@@ -116,7 +116,7 @@ For the first time in the history of Swaayatt Robots (स्वायत्त �
 
 Robotics and virtual reality filled the science schedule aboard the International Space Station on Tuesday as the Expedition 74 crew promoted education and explored human research. The orbital trio also inspected safety equipment, worked on cargo swaps, and conducted Earth observations.
 
-NASA (.gov) • 11h ago
+NASA (.gov) • 12h ago
 
 ---
 
@@ -124,7 +124,7 @@ NASA (.gov) • 11h ago
 
 The most momentous day for ADAM since serving Jensen Huang a margarita....
 
-Sherwood News • 16h ago
+Sherwood News • 17h ago
 
 ---
 
@@ -132,7 +132,7 @@ Sherwood News • 16h ago
 
 ADAM, Richtech's Azure-powered robot, now uses vision, voice and contextual data to improve retail workflows and customer interactions.
 
-Stock Titan • 17h ago
+Stock Titan • 18h ago
 
 ---
 
@@ -140,7 +140,7 @@ Stock Titan • 17h ago
 
 Joint engineering effort with Microsoft AI Co-Innovation Labs enhances Richtech’s ADAM robot and extends intelligent automation across physical...
 
-GlobeNewswire • 17h ago
+GlobeNewswire • 18h ago
 
 ---
 
@@ -156,7 +156,7 @@ The Robot Report • 1d ago
 
 A new humanoid robot named Sprout, developed by Fauna Robotics, is making its debut
 
-ABC News • 16h ago
+ABC News • 17h ago
 
 ---
 
@@ -180,7 +180,7 @@ Interesting Engineering • 3d ago
 
 EMO the robot learned how its silicone lips would move in response to its 26 facial motors by staring at its reflection.
 
-Live Science • 13h ago
+Live Science • 14h ago
 
 ---
 
@@ -196,83 +196,13 @@ Nature • 1d ago
 
 ## YouTube Videos: "robotics"
 
-**[Inside Tesla’s Robot Factory: The Transition That Separates Robots From Humanoids (Full Process)](https://www.youtube.com/watch?v=Oo3u9lDL9HE)**
+**[RR (Richtech Robotics) Stock Analysis | Massive Breakout Move...Now What?](https://www.youtube.com/watch?v=9sxKy69YxdE)**
 
-Inside Tesla's Robot Factory: The Transition That Separates Robots From Humanoids (Full Process) takes viewers deep inside ...
+Using technical analysis, we break down RR (Richtech Robotics) price action to identify where price is likely headed next.
 
-📺 UltraLine Works
+📺 IC Trades
 
-👁️ 58K • 👍 4K • 💬 13 • ⏱️ 24:18 • 1d ago
-
----
-
-**[Viral video shows autonomous snow blower at work in New Jersey](https://www.youtube.com/watch?v=c7vetvwsn-Q)**
-
-Sandra Bookman has more on the viral video and the man behind the handy invention.
-
-📺 Eyewitness News ABC7NY
-
-👁️ 370K • 👍 3K • 💬 572 • ⏱️ 2:01 • 1d ago
-
----
-
-**[Richtech Robotics Stock is Going PARABOLIC.. (Microsoft Partnership)](https://www.youtube.com/watch?v=8Fxt91ZMY2g)**
-
-aistocks #rrstock #richtechrobotics We are going to be going over everything you need to know about Richtech Robotics stock, ...
-
-📺 The Creative Investor
-
-👁️ 458 • 👍 40 • 💬 16 • ⏱️ 13:03 • 5h ago
-
----
-
-**[Humanoid Robots Lumi and Luna A5 at 1000 Subscriber Celebration | Future Robot Lab](https://www.youtube.com/watch?v=FaL-UbIZFmM)**
-
-We are honored to celebrate an important milestone at Future Robot Lab. This video captures the special moment when ...
-
-📺 Future Robot Lab
-
-👁️ 9K • 👍 133 • 💬 18 • ⏱️ 9:38 • 1d ago
-
----
-
-**[Robotics Boom: 3 Stocks Under $20 Right Now](https://www.youtube.com/watch?v=8yC0p_lfk4g)**
-
-Robotics stocks are heating up fast, but many of the biggest names are already expensive. In this video, MarketBeat's Jeffrey Neal ...
-
-📺 MarketBeat
-
-👁️ 123K • 👍 3K • 💬 178 • ⏱️ 17:39 • 4d ago
-
----
-
-**[Inside Tesla’s Robot Factory: The Transition That Makes Optimus Human-Like (Full Process)](https://www.youtube.com/watch?v=tx-M3FWkSys)**
-
-Inside Tesla's Robot Factory: The Transition That Makes Optimus Human-Like (Full Process) takes viewers inside the most critical ...
-
-📺 UltraLine Works
-
-👁️ 509K • 👍 5K • 💬 109 • ⏱️ 24:38 • 6d ago
-
----
-
-**[Fauna Robotics unveils friendly humanoid robot Sprout](https://www.youtube.com/watch?v=V2uf8k1pGyY)**
-
-Sprout, a 3 1/2-foot-tall humanoid from Fauna Robotics, debuts with a soft foam body, expressive moves and a friendly vibe.
-
-📺 Associated Press
-
-👁️ 8K • 👍 87 • 💬 12 • ⏱️ 0:55 • 17h ago
-
----
-
-**[Robotics Stocks: RR Richtech Robotics Up 70%! 🔥🚀💰#investingtips #moneytalks](https://www.youtube.com/watch?v=Abc3L3weRx4)**
-
-Robotics Stocks: RR Richtech Robotics Up 70%! #investingtips #moneytalks ✓ "MONEY MOVES" Get All my Stock ...
-
-📺 STOCK UP! with LARRY JONES
-
-👁️ 5K • 👍 274 • 💬 38 • ⏱️ 0:47 • 8h ago
+👁️ 319 • 👍 20 • 💬 11 • ⏱️ 8:06 • 10h ago
 
 ---
 
@@ -282,17 +212,87 @@ Fauna Robotics, a New York City–based startup founded by former Meta engineers
 
 📺 Kalil 4.0
 
-👁️ 294 • 👍 9 • ⏱️ 0:52 • 2h ago
+👁️ 607 • 👍 22 • 💬 1 • ⏱️ 0:52 • 3h ago
 
 ---
 
-**[Inside the $5.6B Startup Building Robot Brains (Physical Intelligence)](https://www.youtube.com/watch?v=b8BDUa-xbyA)**
+**[China Just Solved Robotics&#39; Biggest Problem (While Tesla Slept)](https://www.youtube.com/watch?v=yzT2oKiy8Lg)**
 
-Season 3 Episode 1: Welcome inside the world of Physical Intelligence. Honestly? This was the first time seeing a robot truly ...
+To learn more about the DM-EXton2 and Daimon Robotics, click the link in the description: ...
 
-📺 Sachin and Adam
+📺 PRO ROBOTS
 
-👁️ 47K • 👍 2K • 💬 111 • ⏱️ 21:39 • 6d ago
+👁️ 8K • 👍 250 • 💬 24 • ⏱️ 14:08 • 6d ago
+
+---
+
+**[Elon Musk Repairs High-Tech Robotic 🕵️ Wings on Female 💲Android in Futuristic 🧪 Ai-concept.](https://www.youtube.com/watch?v=qBIpFr_d3Vg)**
+
+RoboticWings #FuturisticLab #Android #SciFi #Robotics #AIArt #Cyberpunk #HighTech #ArtificialIntelligence #TeslaBot ...
+
+📺 AITECHGADGETS
+
+👁️ 221K • 💬 125 • ⏱️ 0:18 • 2d ago
+
+---
+
+**[SaaS is over… Why you should build a robotics company in 2026](https://www.youtube.com/watch?v=FqfTQFuSalY)**
+
+2026 will be the year of robotics. We're in an Will Smith spaghetti moment. Remember how AI-generated video looked horrific two ...
+
+📺 Andreas Klinger ⅹ Europe's Most Ambitious Startups
+
+👁️ 9K • 👍 645 • 💬 95 • ⏱️ 16:46 • 1d ago
+
+---
+
+**[Viral video shows autonomous snow blower at work in New Jersey](https://www.youtube.com/watch?v=c7vetvwsn-Q)**
+
+Sandra Bookman has more on the viral video and the man behind the handy invention.
+
+📺 Eyewitness News ABC7NY
+
+👁️ 412K • 👍 3K • 💬 598 • ⏱️ 2:01 • 1d ago
+
+---
+
+**[Robot That Grows Through Rubble To Find Survivors 🤖 #rescue #robotics #shorts](https://www.youtube.com/watch?v=haGH86W_f5A)**
+
+The Growing Robot That Enters Collapsed Buildings Before Humans Do When disaster strikes and buildings collapse, reaching ...
+
+📺 EcoZora
+
+👁️ 331K • 👍 1K • 💬 150 • ⏱️ 0:07 • 1d ago
+
+---
+
+**[How This Robot Defies Ocean Waves! Parallel Robot #shorts](https://www.youtube.com/watch?v=NOrEZOdDDZk)**
+
+How do cranes stay perfectly still on a moving ship? 🏗️ Witness the incredible engineering of the Parallel Robot, specifically ...
+
+📺 Atlas technical
+
+👁️ 597K • 👍 3K • 💬 4 • ⏱️ 0:05 • 5d ago
+
+---
+
+**[Pacman Universe – Advanced Robotic Character Animation | StrEat](https://www.youtube.com/watch?v=dm57WnYor00)**
+
+Pacman Universe – Advanced Robotic Character Animation | StrEat Pacman Universe presents a new futuristic 3D animation.
+
+📺 StrEat
+
+👁️ 29K • 👍 67 • 15h ago
+
+---
+
+**[Robotics Stocks: RR Richtech Robotics Up 70%! 🔥🚀💰#investingtips #moneytalks](https://www.youtube.com/watch?v=Abc3L3weRx4)**
+
+Robotics Stocks: RR Richtech Robotics Up 70%! #investingtips #moneytalks ✓ "MONEY MOVES" Get All my Stock ...
+
+📺 STOCK UP! with LARRY JONES
+
+👁️ 6K • 👍 310 • 💬 36 • ⏱️ 0:47 • 9h ago
 
 ---
 

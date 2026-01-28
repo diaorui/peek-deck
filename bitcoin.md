@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-01-28T06:38:18.810495+00:00'
+updated: '2026-01-28T07:27:49.507267+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- cryptocurrency
 - news
 - videos
 - social
+- cryptocurrency
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** January 28, 2026 at 06:38 UTC  
+**Last Updated:** January 28, 2026 at 07:27 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -54,17 +54,17 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1777.59B
+**Market Cap:** $1780.74B
 Rank #1
 
-**Circulating Supply:** 19,981,378 BTC
+**Circulating Supply:** 19,981,384 BTC
 95.1% of max
 
 **All-Time High:** $126,080.00
--29.5%
+-29.3%
 
 **All-Time Low:** $67.81
-+131025.2%
++131367.3%
 
 ---
 
@@ -79,19 +79,19 @@ Rank #1
 
 **[This man filmed the reaction to bitcoin breaking $100 in 2013](https://www.reddit.com/r/Bitcoin/comments/1qox66j/this_man_filmed_the_reaction_to_bitcoin_breaking/)**
 
-5h ago
+6h ago
 
 ---
 
 **["Crypto is risky" Meanwhile:](https://www.reddit.com/r/Bitcoin/comments/1qoxz6c/crypto_is_risky_meanwhile/)**
 
-4h ago
+5h ago
 
 ---
 
 **[still hodling](https://www.reddit.com/r/Bitcoin/comments/1qoarog/still_hodling/)**
 
-19h ago
+20h ago
 
 ---
 
@@ -99,13 +99,13 @@ Rank #1
 
 I'm a teenager from a third world country, and I'm glad to share that I'm finally achieving my goal. Building wealth in my country isn't as easy as it is in Europe or the US, especially at my age. Because of that, my friends have called me a cheapskate (and sometimes they've been right). Now that I've accumulated enough Bitcoin (an amount that feels sufficient to me), I can finally start spending future income on clothes, the gym, gifts for my girlfriend, and other things I've been putting off to keep investing. Having this nest egg at 19 feels like a huge accomplishment, and I'm proud to share it with you. I can finally enjoy typical teenage stuff without feeling guilty :)
 
-11h ago
+12h ago
 
 ---
 
 **[Nothing more delicious than a Bitcoin burger](https://www.reddit.com/r/Bitcoin/comments/1qp35kq/nothing_more_delicious_than_a_bitcoin_burger/)**
 
-40m ago
+1h ago
 
 ---
 
@@ -117,13 +117,13 @@ I'm a teenager from a third world country, and I'm glad to share that I'm finall
 
 **[the first 365 days of January are always the hardest](https://www.reddit.com/r/Bitcoin/comments/1qosc5f/the_first_365_days_of_january_are_always_the/)**
 
-8h ago
+9h ago
 
 ---
 
 **[Forever😀](https://www.reddit.com/r/Bitcoin/comments/1qofr38/forever/)**
 
-15h ago
+16h ago
 
 ---
 
@@ -131,13 +131,13 @@ I'm a teenager from a third world country, and I'm glad to share that I'm finall
 
 Proving value is the key to build anything I’m studied my ass off because I am free, not trading my life for paper. Working my ass off for SATS so I can live my life.
 
-8h ago
+9h ago
 
 ---
 
 **[How it feels to say “i'm a crypto expert ” instead of “degen gambler.”](https://www.reddit.com/r/Bitcoin/comments/1qos9bh/how_it_feels_to_say_im_a_crypto_expert_instead_of/)**
 
-8h ago
+9h ago
 
 ---
 
@@ -149,7 +149,7 @@ Proving value is the key to build anything I’m studied my ass off because I am
 
 The president said he isn't concerned about the dollar's recent declines, sending the greenback plunging even lower.
 
-CoinDesk • 9h ago
+CoinDesk • 10h ago
 
 ---
 
@@ -157,7 +157,7 @@ CoinDesk • 9h ago
 
 New analysis points to steadier market conditions for Bitcoin as liquidity support holds and investors shift toward hedging over leverage.
 
-Decrypt • 6h ago
+Decrypt • 7h ago
 
 ---
 
@@ -165,7 +165,7 @@ Decrypt • 6h ago
 
 Katie Stockton, Fairlead, joins 'Fast Money' to take a technical look at bitcoin prices.
 
-CNBC • 7h ago
+CNBC • 8h ago
 
 ---
 
@@ -173,7 +173,7 @@ CNBC • 7h ago
 
 Polymarket puts shutdown probability at 80%. The last shutdown in October-November caused lasting damage. That’s not stopping Wall Street from digging deeper into crypto.
 
-Yahoo Finance • 18h ago
+Yahoo Finance • 19h ago
 
 ---
 
@@ -189,19 +189,19 @@ Fortune • 1d ago
 
 Tom Lee says precious metals are stealing the spotlight from crypto fundamentals. Bitmine continues to add to its $12.8 billion ETH holdings, amid Tom Lee's ...
 
-Yahoo Finance • 18h ago
+Yahoo Finance • 19h ago
 
 ---
 
 **[Bitcoin Believers Are Looking to Stocks and Gold](https://www.bloomberg.com/news/newsletters/2026-01-27/bitcoin-believers-are-looking-to-stocks-and-gold)**
 
-Bloomberg • 6h ago
+Bloomberg • 7h ago
 
 ---
 
 **[Bitcoin lacks direction as precious metals outshine crypto (BTC-USD:Cryptocurrency)](https://seekingalpha.com/news/4542886-bitcoin-lacks-direction-as-precious-metals-outshine-crypto)**
 
-Seeking Alpha • 15h ago
+Seeking Alpha • 16h ago
 
 ---
 
@@ -217,7 +217,7 @@ Bitcoin Magazine • 1d ago
 
 Tucker Carlson asks the new guest why Bitcoin can't replace the U.S. dollar.
 
-thestreet.com • 11h ago
+thestreet.com • 12h ago
 
 ---
 
@@ -246,7 +246,7 @@ rewards for mining operations will dwindle. What happens next?
 
 A list of known attacks against Bitcoin / crypto asset owning entities that occurred in meatspace. - jlopp/physical-bitcoin-attacks
 
-⬆️ 3 • 💬 0 • 11h ago • [GitHub](https://github.com/jlopp/physical-bitcoin-attacks)
+⬆️ 3 • 💬 0 • 12h ago • [GitHub](https://github.com/jlopp/physical-bitcoin-attacks)
 
 ---
 
@@ -262,7 +262,7 @@ Stargate UI
 
 For years, crypto investors have waited for a familiar miracle. Altcoin season. The moment when small coins suddenly outrun Bitcoin,
 
-⬆️ 1 • 💬 0 • 19h ago • [The Bit Gazette](https://thebitgazette.com/why-altcoin-season-may-not-happen-in-2026-as-bitcoin-keeps-control/)
+⬆️ 1 • 💬 0 • 20h ago • [The Bit Gazette](https://thebitgazette.com/why-altcoin-season-may-not-happen-in-2026-as-bitcoin-keeps-control/)
 
 ---
 
@@ -308,7 +308,17 @@ This is not a victory lap — it's a reset. When Tom Lee throws out a $200000–
 
 📺 The Bitcoin Revolution
 
-👁️ 1K • 👍 60 • 💬 104 • ⏱️ 8:58 • 12h ago
+👁️ 2K • 👍 66 • 💬 72 • ⏱️ 8:58 • 13h ago
+
+---
+
+**[Silver Just Sent a Warning Signal to the Entire Financial System - Got Bitcoin?](https://www.youtube.com/watch?v=5WJyycfYjZs)**
+
+Silver has exploded, gold is ripping, and Bitcoin looks left behind — but history says this is exactly how the cycle works.
+
+📺 Swan Bitcoin
+
+👁️ 35K • 👍 2K • 💬 282 • ⏱️ 17:47 • 8h ago
 
 ---
 
@@ -318,7 +328,7 @@ Take Control of Your Retirement — Grow Crypto & Gold Tax-Advantaged. https://w
 
 📺 Savvy Finance
 
-👁️ 9K • 👍 400 • 💬 10 • ⏱️ 19:52 • 13h ago
+👁️ 10K • 👍 422 • 💬 12 • ⏱️ 19:52 • 14h ago
 
 ---
 
@@ -328,37 +338,7 @@ As the stock market witnesses high volatility, experts anticipate potential shar
 
 📺 Paul Barron Network
 
-👁️ 49K • 👍 3K • 💬 168 • ⏱️ 17:32 • 9h ago
-
----
-
-**[60% of Banks Gearing Up For Crypto In 2026? PROOF!](https://www.youtube.com/watch?v=cBWOnFm6nY4)**
-
-I didn't know that this many banks are getting ready for a crypto push. The links below may include affiliate links, which means I ...
-
-📺 Digital Asset News
-
-👁️ 7K • 👍 684 • 💬 37 • ⏱️ 23:24 • 10h ago
-
----
-
-**[This won&#39;t end well (Bitcoin, Gold, Silver)](https://www.youtube.com/watch?v=czThmNmjGXg)**
-
-NEW WEEKLY REPORTS, NEW SUBSCRIBERS GET ACCESS HERE → https://tiainvestor.com/subscribe/ NAVIGATE YOUR ...
-
-📺 Michael Pizzino
-
-👁️ 3K • 👍 405 • 💬 20 • ⏱️ 8:45 • 6h ago
-
----
-
-**[BREAKING: IT’S HAPPENING AGAIN](https://www.youtube.com/watch?v=9XzkNFXIRG0)**
-
-Trade Like A Tourist Or Join The Pros FFA Is Where The Real Ones Go https://cryptocrewuniversity.com/ffa Get INSIDER ...
-
-📺 Crypto Crew University
-
-👁️ 35K • 👍 3K • 💬 202 • ⏱️ 15:06 • 16h ago
+👁️ 58K • 👍 3K • 💬 185 • ⏱️ 17:32 • 10h ago
 
 ---
 
@@ -368,17 +348,27 @@ In this solo episode, Anthony Pompliano explains why Bitcoin is lagging while go
 
 📺 Anthony Pompliano
 
-👁️ 66K • 👍 3K • 💬 159 • ⏱️ 17:45 • 1d ago
+👁️ 70K • 👍 3K • 💬 159 • ⏱️ 17:45 • 1d ago
 
 ---
 
-**[99.9% Will F*CK This Up — Bitcoin Is About To Screw Everyone | Guy Swann Warning](https://www.youtube.com/watch?v=3qeLu-tSfWo)**
+**[60% of Banks Gearing Up For Crypto In 2026? PROOF!](https://www.youtube.com/watch?v=cBWOnFm6nY4)**
 
-Guy Swann explains why almost everyone is about to get Bitcoin totally wrong — and how it could come back to wreck them.
+I didn't know that this many banks are getting ready for a crypto push. The links below may include affiliate links, which means I ...
 
-📺 Bitcoin Archive w Archie
+📺 Digital Asset News
 
-👁️ 11K • 👍 338 • 💬 142 • ⏱️ 21:44 • 17h ago
+👁️ 8K • 👍 737 • 💬 41 • ⏱️ 23:24 • 11h ago
+
+---
+
+**[This won&#39;t end well (Bitcoin, Gold, Silver)](https://www.youtube.com/watch?v=czThmNmjGXg)**
+
+NEW WEEKLY REPORTS, NEW SUBSCRIBERS GET ACCESS HERE → https://tiainvestor.com/subscribe/ NAVIGATE YOUR ...
+
+📺 Michael Pizzino
+
+👁️ 5K • 👍 554 • 💬 25 • ⏱️ 8:45 • 7h ago
 
 ---
 
@@ -388,17 +378,27 @@ Tom Lee Just Said The UNTHINKABLE About Bitcoin & Ethereum! [2026 New Prediction
 
 📺 Crypto Nutshell
 
-👁️ 19K • 👍 587 • 💬 55 • ⏱️ 14:37 • 15h ago
+👁️ 21K • 👍 608 • 💬 86 • ⏱️ 14:37 • 16h ago
 
 ---
 
-**[Rotation to Gold and Silver is Now...Bitcoin Is Next](https://www.youtube.com/watch?v=QVnjXPwRwR0)**
+**[Bitcoin WILL Be Hit The HARDEST | Cathie Wood&#39;s Warning](https://www.youtube.com/watch?v=mxDOwT-HInI)**
 
-Today, let's examine Bitcoin's charts and metrics, as well as the latest Macro and Crypto news. Additionally, a look at the latest ...
+Watch The FULL Interview: https://www.youtube.com/watch?v=t37Jrhqdgn8 FREE Daily On-Chain Analysis & Crypto News In ...
 
-📺 CryptosRUs
+📺 Library Of Wealth
 
-👁️ 22K • 👍 1K • 💬 197 • ⏱️ 43:35 • 14h ago
+👁️ 17K • 👍 421 • 💬 496 • ⏱️ 15:36 • 2d ago
+
+---
+
+**[Dollar CRASH Incoming?! Is Bitcoin About to Erupt?](https://www.youtube.com/watch?v=35UC7C2b-X0)**
+
+Gold and silver are ripping to record highs, but the real story is what this says about the dollar. Central banks are trapped, ...
+
+📺 Simply Bitcoin
+
+👁️ 32K • 👍 2K • 💬 249 • ⏱️ 18:47 • 1d ago
 
 ---
 

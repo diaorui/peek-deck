@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-01-28T06:38:18.816498+00:00'
+updated: '2026-01-28T07:27:49.513197+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- cryptocurrency
 - news
 - videos
 - social
+- cryptocurrency
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** January 28, 2026 at 06:38 UTC  
+**Last Updated:** January 28, 2026 at 07:27 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -52,17 +52,17 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Market Stats
 
-**Market Cap:** $361.86B
+**Market Cap:** $362.54B
 Rank #2
 
 **Circulating Supply:** 120,694,374 ETH
 No max supply
 
 **All-Time High:** $4,946.05
--39.4%
+-39.3%
 
 **All-Time Low:** $0.43
-+691721.1%
++693767.4%
 
 ---
 
@@ -72,13 +72,13 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-37m ago
+1h ago
 
 ---
 
 **[Pouring one out for Week in Ethereum News 🥃 Website is offline. Thank you Evan Van Ness for your tireless efforts serving the Ethereum community. 🙏](https://www.reddit.com/r/ethereum/comments/1qp227f/pouring_one_out_for_week_in_ethereum_news_website/)**
 
-1h ago
+2h ago
 
 ---
 
@@ -86,7 +86,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 Hi r/ethereum, I’ve been running a personal experiment called FitVow. The idea is simple: I stake real ETH into a smart contract, commit to weekly physical activity goals, and let the contract enforce the rules without a trusted referee. Each week, an Android app reads physical activity data from my smartwatch and publishes it on-chain (e.g. runs, workouts and etc). The contract uses that data to decide whether that week’s goals were met. If a week fails: that week creates an enforceable fine (paid out from the stake) enforcement is permissionless (anyone can trigger it) the fine is split between the enforcer (caller) and a charity wallet (Giveth) At the end of the challenge, I’m allowed to withdraw whatever remains of the stake after any fines. There’s no backend deciding outcomes and no admin override. Once deployed, the rules are the rules. This is not a product — just an experiment exploring whether Ethereum is a good tool for credible self-commitment outside of DeFi. Live dashboard (reads directly from on-chain data): https://fitvow.pedroaugusto.dev/ Technical write-up (architecture + security assumptions): https://pedrooaugusto.github.io/blog/posts/making-missed-workouts-cost-money-with-smart-contracts/ I’d love feedback — especially on whether this feels like a reasonable use of Ethereum, and what you’d poke holes in.
 
-13h ago
+14h ago
 
 ---
 
@@ -100,7 +100,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 **[Built a little ethereum wallet for a metamask interview](https://www.reddit.com/r/ethereum/comments/1qon8y9/built_a_little_ethereum_wallet_for_a_metamask/)**
 
-11h ago
+12h ago
 
 ---
 
@@ -124,7 +124,7 @@ Hey r/defi. My name is Matt and I have built something different. EqualFi offers
 
 I am trying to create a delegate wallet for every user which is connected to my dApp. I intend to have access to the private key so that I can initiate and sign transactions on the users behalf. So I am thinking of making the wallet pub and priv key on client side and I don't want the priv key to ever leave client's browser. Is it possible to implement something like this ? I use Privy for siwe if that can help me in any way.
 
-19h ago
+20h ago
 
 ---
 
@@ -234,37 +234,7 @@ Tom Lee Just Said The UNTHINKABLE About Bitcoin & Ethereum! [2026 New Prediction
 
 📺 Crypto Nutshell
 
-👁️ 19K • 👍 587 • 💬 55 • ⏱️ 14:37 • 15h ago
-
----
-
-**[Ethereum: Das 10x-Szenario, das alle übersehen!](https://www.youtube.com/watch?v=HjIfdWoxja4)**
-
-Jetzt gratis sichern → https://www.blockchain-investor.de/app Die neue „Blockchain-Investor“-App – mit exklusiven ...
-
-📺 Krypto Report
-
-👁️ 8K • 👍 563 • 💬 58 • ⏱️ 17:05 • 13h ago
-
----
-
-**[Ethereum Elliott Wave Update – Key Resistance Levels Ahead](https://www.youtube.com/watch?v=DiW-iNg4n2Y)**
-
-This video provides a professional Elliott Wave and technical analysis of Ethereum (ETH), focusing on market structure, major ...
-
-📺 More Crypto Online
-
-👁️ 2K • 👍 114 • 💬 9 • ⏱️ 4:08 • 12h ago
-
----
-
-**[Ethereum: Dubious Speculation](https://www.youtube.com/watch?v=J-QHMNnRK-Q)**
-
-Let's talk about Ethereum! For inquirires: https://www.benjamincowen.com/ Into The Cryptoverse Premium: ...
-
-📺 Benjamin Cowen
-
-👁️ 67K • 👍 3K • 💬 232 • ⏱️ 26:46 • 2d ago
+👁️ 21K • 👍 608 • 💬 87 • ⏱️ 14:37 • 16h ago
 
 ---
 
@@ -278,23 +248,13 @@ These news have huge implications towards bitcoin, ethereum and the rest of cryp
 
 ---
 
-**[BITCOIN &amp; CRYPTO JUST FLIPPED (for now)!!!! - Bitcoin News Today, Ethereum &amp; Altcoins](https://www.youtube.com/watch?v=HLqdFqJvRQQ)**
+**[Ethereum: Dubious Speculation](https://www.youtube.com/watch?v=J-QHMNnRK-Q)**
 
-BITCOIN & CRYPTO JUST FLIPPED (for now)!!!! - Bitcoin News Today, Ethereum & Altcoins *Toobit* https://bit.ly/TOOBIT ...
+Let's talk about Ethereum! For inquirires: https://www.benjamincowen.com/ Into The Cryptoverse Premium: ...
 
-📺 Crypto World
+📺 Benjamin Cowen
 
-👁️ 4K • 👍 243 • 💬 61 • ⏱️ 18:19 • 8h ago
-
----
-
-**[Why BlackRock’s Former Crypto Head is Betting on Ethereum](https://www.youtube.com/watch?v=cNz1kdSecWU)**
-
-SharpLink CEO and former BlackRock head of digital assets strategy, Joseph Chalom, joins CoinDesk's Jennifer Sanasie on ...
-
-📺 CoinDesk
-
-👁️ 18K • 👍 570 • 💬 105 • ⏱️ 23:51 • 1d ago
+👁️ 68K • 👍 3K • 💬 232 • ⏱️ 26:46 • 2d ago
 
 ---
 
@@ -304,27 +264,67 @@ FREE TRAINING: https://www.bullmania.com EXCHANGES I USE (bybit, pionex): https:
 
 📺 Ivan on Tech
 
-👁️ 22K • 👍 1K • 💬 104 • ⏱️ 59:47 • 20h ago
+👁️ 22K • 👍 1K • 💬 123 • ⏱️ 59:47 • 21h ago
 
 ---
 
-**[Ethereum Elliott Wave Update – Key Resistance Levels Ahead](https://www.youtube.com/watch?v=jitFf5Sl5ew)**
+**[Ethereum Elliott Wave Update – Key Resistance Levels Ahead](https://www.youtube.com/watch?v=DiW-iNg4n2Y)**
 
 This video provides a professional Elliott Wave and technical analysis of Ethereum (ETH), focusing on market structure, major ...
 
 📺 More Crypto Online
 
-👁️ 2K • 👍 98 • 💬 6 • ⏱️ 4:04 • 1d ago
+👁️ 2K • 👍 114 • 💬 9 • ⏱️ 4:08 • 13h ago
 
 ---
 
-**[$3.1M Gone: Why Ethereum Bridges Are Failing While Cardano Wins](https://www.youtube.com/watch?v=Qgml_XaP44g)**
+**[Why BlackRock’s Former Crypto Head is Betting on Ethereum](https://www.youtube.com/watch?v=cNz1kdSecWU)**
 
-This conversation delves into the current state and future of the Cardano ecosystem, focusing on oracles, decentralised ...
+SharpLink CEO and former BlackRock head of digital assets strategy, Joseph Chalom, joins CoinDesk's Jennifer Sanasie on ...
 
-📺 Learn Cardano
+📺 CoinDesk
 
-👁️ 3K • 👍 290 • 💬 48 • ⏱️ 22:54 • 19h ago
+👁️ 19K • 👍 583 • 💬 109 • ⏱️ 23:51 • 1d ago
+
+---
+
+**[Ethereum Elliott Wave Update – Key Resistance Levels Ahead](https://www.youtube.com/watch?v=kWd-lZLmXbo)**
+
+This video provides a professional Elliott Wave and technical analysis of Ethereum (ETH), focusing on market structure, major ...
+
+📺 More Crypto Online
+
+👁️ 767 • 👍 75 • 💬 6 • ⏱️ 4:42 • 5h ago
+
+---
+
+**[Ethereum: Das 10x-Szenario, das alle übersehen!](https://www.youtube.com/watch?v=HjIfdWoxja4)**
+
+Jetzt gratis sichern → https://www.blockchain-investor.de/app Die neue „Blockchain-Investor“-App – mit exklusiven ...
+
+📺 Krypto Report
+
+👁️ 8K • 👍 629 • 💬 60 • ⏱️ 17:05 • 14h ago
+
+---
+
+**[Tom Lee - &quot;Biggest Crypto Reset EVER&quot; | Bitcoin &amp; ETH Price Prediction](https://www.youtube.com/watch?v=lZSS8ZRghvA)**
+
+My FREE Daily On-Chain Analysis & Crypto News In 5-Mins: https://www.cryptonutshell.com/subscribe You can NOW ...
+
+📺 Jamie Tree 
+
+👁️ 3K • 👍 88 • 💬 34 • ⏱️ 17:46 • 2d ago
+
+---
+
+**[Ethereum Price Looks Ready to Pump to $4000! - BTC&amp;ETH Analysis](https://www.youtube.com/watch?v=NdrdF7oVENs)**
+
+Weekend/Bank Holiday video: https://www.youtube.com/watch?v=5pBbKuLfRZI Brighter Data Platform: https://brighterdata.com ...
+
+📺 Trading Jip
+
+👁️ 536 • 👍 31 • 💬 73 • ⏱️ 6:29 • 22h ago
 
 ---
 
