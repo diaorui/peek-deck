@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-01-28T01:52:41.219829+00:00'
+updated: '2026-01-28T03:46:35.022811+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
 - social
-- videos
 - news
 - cryptocurrency
+- videos
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** January 28, 2026 at 01:52 UTC  
+**Last Updated:** January 28, 2026 at 03:46 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,11 +42,11 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** +2.4%  
-**7d:** +2.1%  
-**30d:** +1.3%  
-**90d:** -21.8%  
-**1y:** -3.1%  
+**24h:** +2.1%  
+**7d:** +1.8%  
+**30d:** +1.0%  
+**90d:** -22.0%  
+**1y:** -3.4%  
 
 ---
 
@@ -72,7 +72,7 @@ No max supply
 
 Hi r/ethereum, I’ve been running a personal experiment called FitVow. The idea is simple: I stake real ETH into a smart contract, commit to weekly physical activity goals, and let the contract enforce the rules without a trusted referee. Each week, an Android app reads physical activity data from my smartwatch and publishes it on-chain (e.g. runs, workouts and etc). The contract uses that data to decide whether that week’s goals were met. If a week fails: that week creates an enforceable fine (paid out from the stake) enforcement is permissionless (anyone can trigger it) the fine is split between the enforcer (caller) and a charity wallet (Giveth) At the end of the challenge, I’m allowed to withdraw whatever remains of the stake after any fines. There’s no backend deciding outcomes and no admin override. Once deployed, the rules are the rules. This is not a product — just an experiment exploring whether Ethereum is a good tool for credible self-commitment outside of DeFi. Live dashboard (reads directly from on-chain data): https://fitvow.pedroaugusto.dev/ Technical write-up (architecture + security assumptions): https://pedrooaugusto.github.io/blog/posts/making-missed-workouts-cost-money-with-smart-contracts/ I’d love feedback — especially on whether this feels like a reasonable use of Ethereum, and what you’d poke holes in.
 
-9h ago
+10h ago
 
 ---
 
@@ -80,13 +80,13 @@ Hi r/ethereum, I’ve been running a personal experiment called FitVow. The idea
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-19h ago
+21h ago
 
 ---
 
 **[Built a little ethereum wallet for a metamask interview](https://www.reddit.com/r/ethereum/comments/1qon8y9/built_a_little_ethereum_wallet_for_a_metamask/)**
 
-6h ago
+8h ago
 
 ---
 
@@ -102,7 +102,7 @@ Computation > data > state Computation is easier to scale than data. You can par
 
 Hey r/defi. My name is Matt and I have built something different. EqualFi offers the following: 0% Interest self secured on chain credit. P2P Synthetic and ERC-1155 Covered Calls and Puts. A true P2P Lending system. SOLO AMM and Multi Maker AMMs all time bounded (this is powerful ask me how) Maker Auction Markets(MAM) this is something you have never seen before. Its an MEV resistant way to trade using dutch auction curves on chain. All with a Unified Liquidity pool and Internal ledger. No token(for now). Just DeFi infrastructure that anyone can build on. And here is the kicker. All without oracles or any chance of Liquidation. With this system perpetual leverage without possiblity of liquidation is REAL. This does not mean it is risk free but you cannot get liquidated by a errant wick at 3 am. Below is a link to the Github, and a link to the Discord in case you want to hop in and say hi. You don't have to believe but you should keep an eye on this project. If you want to help shape something new come say hi. Github: https://github.com/EqualFiLabs/EqualFi Discord: https://discord.gg/brsMNDux4T
 
-22h ago
+1d ago
 
 ---
 
@@ -110,7 +110,7 @@ Hey r/defi. My name is Matt and I have built something different. EqualFi offers
 
 I am trying to create a delegate wallet for every user which is connected to my dApp. I intend to have access to the private key so that I can initiate and sign transactions on the users behalf. So I am thinking of making the wallet pub and priv key on client side and I don't want the priv key to ever leave client's browser. Is it possible to implement something like this ? I use Privy for siwe if that can help me in any way.
 
-14h ago
+16h ago
 
 ---
 
@@ -150,14 +150,6 @@ I no longer agree with this previous tweet of mine - since 2017, I have become a
 
 ## Google News: "ethereum"
 
-**[Why This Former BlackRock Executive Thinks Ethereum's TVL Will 10X in 2026](https://www.coindesk.com/markets/2026/01/26/macro-fears-mask-ethereum-s-momentum-sharplink-ceo-says)**
-
-SharpLink CEO Joseph Chalom argues that macro uncertainty is hiding a massive institutional shift toward Ethereum-based tokenization.
-
-CoinDesk • 1d ago
-
----
-
 **[Ethereum vs Polkadot: Which Is More Likely to Be a Millionaire-Maker?](https://www.fool.com/investing/2026/01/26/ethereum-vs-polkadot-which-is-more-likely-to-be-a/)**
 
 Should you invest in the blue chip token or the smaller altcoin?
@@ -166,9 +158,17 @@ The Motley Fool • 1d ago
 
 ---
 
+**[Ethereum whale resurfaces after nine years, moves $145 million in ETH](https://www.theblock.co/post/386974/ethereum-whale-moves-145-million)**
+
+An Ethereum whale moved 50,000 ETH on Sunday after approximately nine years of dormancy, according to onchain data.
+
+The Block • 1d ago
+
+---
+
 **[Ethereum News: Ether Price Surged 226% After This Global Liquidity Signal — Is ETH Setting Up Another Breakout?](https://www.binance.com/en/square/post/01-27-2026-ethereum-news-ether-price-surged-226-after-this-global-liquidity-signal-is-eth-setting-up-another-breakout-35635381799361)**
 
-Binance • 20h ago
+Binance • 22h ago
 
 ---
 
@@ -196,6 +196,14 @@ TipRanks • 1d ago
 
 ---
 
+**[Why This Former BlackRock Executive Thinks Ethereum's TVL Will 10X in 2026](https://www.coindesk.com/markets/2026/01/26/macro-fears-mask-ethereum-s-momentum-sharplink-ceo-says)**
+
+SharpLink CEO Joseph Chalom argues that macro uncertainty is hiding a massive institutional shift toward Ethereum-based tokenization.
+
+CoinDesk • 1d ago
+
+---
+
 **[Zama’s Encrypted Ethereum Token Auction Draws $118M in Commitments](https://thedefiant.io/news/defi/zama-s-encrypted-ethereum-token-auction-draws-usd118m-in-commitments)**
 
 The project said its auction app dominated Ethereum activity on Jan. 24 and that TVS topped $100 million within three days.
@@ -204,17 +212,11 @@ thedefiant.io • 1d ago
 
 ---
 
-**[Ethereum Foundation forms post-quantum security team, adds $1 million research prize](https://www.theblock.co/post/386938/ethereum-foundation-forms-post-quantum-security-team-adds-1-million-research-prize)**
+**[Ethereum already ‘20%’ of the way toward quantum resilience: Interview](https://www.tradingview.com/news/cointelegraph:cbf987f35094b:0-ethereum-already-20-of-the-way-toward-quantum-resilience-interview/)**
 
-The Block • 3d ago
+Antonio Sanso, cryptography researcher at the Ethereum Foundation, is confident the blockchain will be quantum secure long before a quantum attack is even possible.”We as the Ethereum Foundation (EF) and Ethereum community are working massively on this topic,” he told Cointelegraph.“The research pa…
 
----
-
-**[XRP, Ethereum Now ‘Undervalued’ On MVRV, Says Santiment](https://www.tradingview.com/news/newsbtc:3378aa0c9094b:0-xrp-ethereum-now-undervalued-on-mvrv-says-santiment/)**
-
-On-chain analytics firm Santiment has pointed out how XRP and Ethereum are among coins sitting in the MVRV Ratio’s “undervalued” zone.30-Day MVRV Is Negative For XRP & EthereumIn a new post on X, on-chain analytics firm Santiment has talked about where some notable cryptocurrencies like XRP and Bit…
-
-TradingView • 19h ago
+TradingView • 13h ago
 
 ---
 
@@ -236,7 +238,7 @@ Tom Lee Just Said The UNTHINKABLE About Bitcoin & Ethereum! [2026 New Prediction
 
 📺 Crypto Nutshell
 
-👁️ 17K • 👍 530 • 💬 65 • ⏱️ 14:37 • 10h ago
+👁️ 17K • 👍 530 • 💬 65 • ⏱️ 14:37 • 12h ago
 
 ---
 
@@ -246,7 +248,7 @@ FREE TRAINING: https://www.bullmania.com EXCHANGES I USE (bybit, pionex): https:
 
 📺 Ivan on Tech
 
-👁️ 22K • 👍 1K • 💬 100 • ⏱️ 59:47 • 15h ago
+👁️ 22K • 👍 1K • 💬 100 • ⏱️ 59:47 • 17h ago
 
 ---
 
@@ -266,7 +268,7 @@ This video provides a professional Elliott Wave and technical analysis of Ethere
 
 📺 More Crypto Online
 
-👁️ 2K • 👍 109 • 💬 11 • ⏱️ 4:08 • 8h ago
+👁️ 2K • 👍 109 • 💬 11 • ⏱️ 4:08 • 10h ago
 
 ---
 
@@ -276,7 +278,7 @@ Let's talk about Ethereum! For inquirires: https://www.benjamincowen.com/ Into T
 
 📺 Benjamin Cowen
 
-👁️ 67K • 👍 3K • 💬 232 • ⏱️ 26:46 • 1d ago
+👁️ 67K • 👍 3K • 💬 232 • ⏱️ 26:46 • 2d ago
 
 ---
 
@@ -286,7 +288,7 @@ BITCOIN & CRYPTO JUST FLIPPED (for now)!!!! - Bitcoin News Today, Ethereum & Alt
 
 📺 Crypto World
 
-👁️ 3K • 👍 194 • 💬 59 • ⏱️ 18:19 • 3h ago
+👁️ 3K • 👍 194 • 💬 59 • ⏱️ 18:19 • 5h ago
 
 ---
 
@@ -306,7 +308,7 @@ Jetzt gratis sichern → https://www.blockchain-investor.de/app Die neue „Bloc
 
 📺 Krypto Report
 
-👁️ 7K • 👍 533 • 💬 54 • ⏱️ 17:05 • 8h ago
+👁️ 7K • 👍 533 • 💬 54 • ⏱️ 17:05 • 10h ago
 
 ---
 
@@ -316,7 +318,7 @@ This video provides a professional Elliott Wave and technical analysis of Ethere
 
 📺 More Crypto Online
 
-👁️ 2K • 👍 98 • 💬 7 • ⏱️ 4:04 • 20h ago
+👁️ 2K • 👍 98 • 💬 7 • ⏱️ 4:04 • 22h ago
 
 ---
 

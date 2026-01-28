@@ -57,7 +57,7 @@
             "name": "PeekDeck",
             "url": "https://peekdeck.ruidiao.dev"
           },
-          "dateModified": "2026-01-28T01:52:40.869061+00:00"
+          "dateModified": "2026-01-28T03:46:34.643843+00:00"
         },
         {
           "@type": "BreadcrumbList",
@@ -717,6 +717,41 @@
                     </div>
                 </div>
                 
+                <div class="carousel-card" onclick="window.open('https://www.reddit.com/r/robotics/comments/1qovvd4/exploring_embodied_ai_on_a_lowcost_diy_robot_arm/', '_blank')">
+                    <div class="post-thumbnail">
+                        
+                        <img src="https://preview.redd.it/bdz0qkqjsyfg1.gif?width=320&crop=smart&s=cd9293cd18901a4ea2dcdf3a3b30e8049f13265d" alt="Exploring embodied AI on a low-cost DIY robot arm (~$2k hardware)" onerror="this.style.display='none'" loading="lazy">
+                        
+                    </div>
+
+                    <div class="post-content">
+                        <!-- Post title -->
+                        <div class="post-title">
+                            <a href="https://www.reddit.com/r/robotics/comments/1qovvd4/exploring_embodied_ai_on_a_lowcost_diy_robot_arm/" target="_blank" onclick="event.stopPropagation();">Exploring embodied AI on a low-cost DIY robot arm (~$2k hardware)</a>
+                        </div>
+
+                        <!-- Rich description (if available) -->
+                        
+                        <div class="post-description">
+                            I recently came across the Universal Manipulation Interface (UMI) paper and found it to be a promising approach for teaching robots manipulation skills without relying on teleportation-based control. I was particularly interested in exploring how well this approach works on low-cost DIY hardware, such as an AR4 robot arm. Key challenges: - High-latency robot and gripper controllers that only support single-step control commands - A low-FPS camera with image composition that differs from the data used during training Key engineering adaptations: 🛠️ Hardware Abstraction Layer - Original UMI supports UR5, Franka Emika, and industrial WSG grippers. - I wrote custom drivers to interface with a DIY AR4 6-DOF robot arm and a custom servo-based gripper. - Forward and inverse kinematics are solved on the PC side, and only joint commands are sent to the robot controller. 👁️ Vision System Retrofit - Original UMI relies on a GoPro with lens modification and a capture card. - I adapted the perception pipeline to use a standard ~$50 USB camera. 🖐️ Custom End-Effector - Designed and 3D-printed a custom parallel gripper. - Actuated by a standard hobby servo. - Controlled via an Arduino Mega 2560 (AR4 auxiliary controller). Repos: - UMI + AR4 integration: https://github.com/robotsir/umi_ar4_retrofit - AR4 custom firmware: https://github.com/robotsir/ar4_embodied_controller This is still a work in progress. Due to the hardware limitations above, the system is not yet as smooth as the original UMI setup, but my goal is to push performance as far as possible within these constraints. The system is already running end-to-end on real hardware. The GIF below shows a live demo. Feedback from people working on embodied AI, robot learning, or low-cost manipulation platforms would be very welcome. If you have an AR4 arm and are interested in trying this out, feel free to reach out.
+                        </div>
+                        
+
+                        <!-- Metadata -->
+                        <div class="post-meta">
+                            <div class="post-meta-line">
+                                
+                                <div class="post-meta-item">
+                                    <span data-timestamp="1769560076.0"></span>
+                                </div>
+                                
+                                <!-- External article source (on same line as time) -->
+                                
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                
                 <div class="carousel-card" onclick="window.open('https://www.reddit.com/r/robotics/comments/1qoa6ku/booster_playing_soccer_in_texas_fully_autonomous/', '_blank')">
                     <div class="post-thumbnail">
                         
@@ -752,24 +787,20 @@
                     </div>
                 </div>
                 
-                <div class="carousel-card" onclick="window.open('https://www.reddit.com/r/robotics/comments/1qovvd4/exploring_embodied_ai_on_a_lowcost_diy_robot_arm/', '_blank')">
+                <div class="carousel-card" onclick="window.open('https://www.reddit.com/r/robotics/comments/1qoyi0l/helix_update_makes_figure_03_move_noticeably_more/', '_blank')">
                     <div class="post-thumbnail">
                         
-                        <img src="https://preview.redd.it/bdz0qkqjsyfg1.gif?width=320&crop=smart&s=cd9293cd18901a4ea2dcdf3a3b30e8049f13265d" alt="Exploring embodied AI on a low-cost DIY robot arm (~$2k hardware)" onerror="this.style.display='none'" loading="lazy">
+                        <img src="https://external-preview.redd.it/Qk00B67CrIl4ZeRj5P-_Tfjpu0Xf2bgy3o2lIzwantU.png?width=640&crop=smart&auto=webp&s=73ae382fa1a69cb0efcc79364701b88097108aad" alt="Helix update makes Figure 03 move noticeably more human. Thoughts?" onerror="this.style.display='none'" loading="lazy">
                         
                     </div>
 
                     <div class="post-content">
                         <!-- Post title -->
                         <div class="post-title">
-                            <a href="https://www.reddit.com/r/robotics/comments/1qovvd4/exploring_embodied_ai_on_a_lowcost_diy_robot_arm/" target="_blank" onclick="event.stopPropagation();">Exploring embodied AI on a low-cost DIY robot arm (~$2k hardware)</a>
+                            <a href="https://www.reddit.com/r/robotics/comments/1qoyi0l/helix_update_makes_figure_03_move_noticeably_more/" target="_blank" onclick="event.stopPropagation();">Helix update makes Figure 03 move noticeably more human. Thoughts?</a>
                         </div>
 
                         <!-- Rich description (if available) -->
-                        
-                        <div class="post-description">
-                            I recently came across the Universal Manipulation Interface (UMI) paper and found it to be a promising approach for teaching robots manipulation skills without relying on teleportation-based control. I was particularly interested in exploring how well this approach works on low-cost DIY hardware, such as an AR4 robot arm. Key challenges: - High-latency robot and gripper controllers that only support single-step control commands - A low-FPS camera with image composition that differs from the data used during training Key engineering adaptations: 🛠️ Hardware Abstraction Layer - Original UMI supports UR5, Franka Emika, and industrial WSG grippers. - I wrote custom drivers to interface with a DIY AR4 6-DOF robot arm and a custom servo-based gripper. - Forward and inverse kinematics are solved on the PC side, and only joint commands are sent to the robot controller. 👁️ Vision System Retrofit - Original UMI relies on a GoPro with lens modification and a capture card. - I adapted the perception pipeline to use a standard ~$50 USB camera. 🖐️ Custom End-Effector - Designed and 3D-printed a custom parallel gripper. - Actuated by a standard hobby servo. - Controlled via an Arduino Mega 2560 (AR4 auxiliary controller). Repos: - UMI + AR4 integration: https://github.com/robotsir/umi_ar4_retrofit - AR4 custom firmware: https://github.com/robotsir/ar4_embodied_controller This is still a work in progress. Due to the hardware limitations above, the system is not yet as smooth as the original UMI setup, but my goal is to push performance as far as possible within these constraints. The system is already running end-to-end on real hardware. The GIF below shows a live demo. Feedback from people working on embodied AI, robot learning, or low-cost manipulation platforms would be very welcome. If you have an AR4 arm and are interested in trying this out, feel free to reach out.
-                        </div>
                         
 
                         <!-- Metadata -->
@@ -777,7 +808,7 @@
                             <div class="post-meta-line">
                                 
                                 <div class="post-meta-item">
-                                    <span data-timestamp="1769560076.0"></span>
+                                    <span data-timestamp="1769566780.0"></span>
                                 </div>
                                 
                                 <!-- External article source (on same line as time) -->
@@ -837,6 +868,37 @@
                     </div>
                 </div>
                 
+                <div class="carousel-card" onclick="window.open('https://www.reddit.com/r/robotics/comments/1qonvka/unitree_g1_fully_body_teleoperation_using_a_pico4/', '_blank')">
+                    <div class="post-thumbnail">
+                        
+                        <img src="https://external-preview.redd.it/ZuKQD5KA8gWGr3M0DX_FGi01_uUNSpbYmJdsEC_ag6E.png?width=640&crop=smart&auto=webp&s=0842a741e7ea7a0a72b60010419d676474c5cd06" alt="Unitree G1 fully Body Teleoperation using a Pico4 and Twist2 Framework" onerror="this.style.display='none'" loading="lazy">
+                        
+                    </div>
+
+                    <div class="post-content">
+                        <!-- Post title -->
+                        <div class="post-title">
+                            <a href="https://www.reddit.com/r/robotics/comments/1qonvka/unitree_g1_fully_body_teleoperation_using_a_pico4/" target="_blank" onclick="event.stopPropagation();">Unitree G1 fully Body Teleoperation using a Pico4 and Twist2 Framework</a>
+                        </div>
+
+                        <!-- Rich description (if available) -->
+                        
+
+                        <!-- Metadata -->
+                        <div class="post-meta">
+                            <div class="post-meta-line">
+                                
+                                <div class="post-meta-item">
+                                    <span data-timestamp="1769542158.0"></span>
+                                </div>
+                                
+                                <!-- External article source (on same line as time) -->
+                                
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                
                 <div class="carousel-card" onclick="window.open('https://www.reddit.com/r/robotics/comments/1qo8u7i/opensourcing_asimov_legs_a_bipedal_robotic_system/', '_blank')">
                     <div class="post-thumbnail">
                         
@@ -863,37 +925,6 @@
                                 
                                 <div class="post-meta-item">
                                     <span data-timestamp="1769504747.0"></span>
-                                </div>
-                                
-                                <!-- External article source (on same line as time) -->
-                                
-                            </div>
-                        </div>
-                    </div>
-                </div>
-                
-                <div class="carousel-card" onclick="window.open('https://www.reddit.com/r/robotics/comments/1qonvka/unitree_g1_fully_body_teleoperation_using_a_pico4/', '_blank')">
-                    <div class="post-thumbnail">
-                        
-                        <img src="https://external-preview.redd.it/ZuKQD5KA8gWGr3M0DX_FGi01_uUNSpbYmJdsEC_ag6E.png?width=640&crop=smart&auto=webp&s=0842a741e7ea7a0a72b60010419d676474c5cd06" alt="Unitree G1 fully Body Teleoperation using a Pico4 and Twist2 Framework" onerror="this.style.display='none'" loading="lazy">
-                        
-                    </div>
-
-                    <div class="post-content">
-                        <!-- Post title -->
-                        <div class="post-title">
-                            <a href="https://www.reddit.com/r/robotics/comments/1qonvka/unitree_g1_fully_body_teleoperation_using_a_pico4/" target="_blank" onclick="event.stopPropagation();">Unitree G1 fully Body Teleoperation using a Pico4 and Twist2 Framework</a>
-                        </div>
-
-                        <!-- Rich description (if available) -->
-                        
-
-                        <!-- Metadata -->
-                        <div class="post-meta">
-                            <div class="post-meta-line">
-                                
-                                <div class="post-meta-item">
-                                    <span data-timestamp="1769542158.0"></span>
                                 </div>
                                 
                                 <!-- External article source (on same line as time) -->
@@ -938,39 +969,6 @@
                     </div>
                 </div>
                 
-                <div class="carousel-card" onclick="window.open('https://www.reddit.com/r/robotics/comments/1qodz1d/looking_for_a_modern_cozmo_like_robot_with_real/', '_blank')">
-                    <div class="post-thumbnail">
-                        
-                    </div>
-
-                    <div class="post-content">
-                        <!-- Post title -->
-                        <div class="post-title">
-                            <a href="https://www.reddit.com/r/robotics/comments/1qodz1d/looking_for_a_modern_cozmo_like_robot_with_real/" target="_blank" onclick="event.stopPropagation();">Looking for a modern Cozmo like robot with real personality</a>
-                        </div>
-
-                        <!-- Rich description (if available) -->
-                        
-                        <div class="post-description">
-                            Hey everyone, I’m currently looking for a fun and interactive robot similar to Cozmo. I really liked how Cozmo had personality, reacted to its environment, and felt more like a small companion than just a regular toy or basic programmable robot. I’ve been browsing different options on Amazon, eBay, and Alibaba, and there seem to be plenty of choices. The problem is figuring out which ones are actually good. Some look affordable but feel gimmicky, while others are quite expensive, and I’m not sure if they really offer the same kind of interaction and character that Cozmo did. I’d really appreciate advice from people here who have experience with modern consumer robots. Are there any robots currently available that feel close to Cozmo in terms of personality and interaction? Which ones are genuinely worth the money, and which should be avoided? I’m open on budget and mainly interested in something engaging and enjoyable to interact with, not just a robot that runs simple scripts. Thanks in advance for any recommendations or insights.
-                        </div>
-                        
-
-                        <!-- Metadata -->
-                        <div class="post-meta">
-                            <div class="post-meta-line">
-                                
-                                <div class="post-meta-item">
-                                    <span data-timestamp="1769520845.0"></span>
-                                </div>
-                                
-                                <!-- External article source (on same line as time) -->
-                                
-                            </div>
-                        </div>
-                    </div>
-                </div>
-                
 
                 <!-- View All button at end of carousel -->
                 <div class="carousel-card"
@@ -994,7 +992,7 @@
 
     </div>
     <div class="widget-footer">
-        <small data-timestamp="2026-01-28T01:52:16.044901+00:00">Updated 2026-01-28T01:52:16.044901+00:00</small>
+        <small data-timestamp="2026-01-28T03:46:18.665070+00:00">Updated 2026-01-28T03:46:18.665070+00:00</small>
     </div>
 </div>
 
@@ -1221,47 +1219,6 @@
                     </div>
                 </div>
                 
-                <div class="carousel-card" onclick="window.open('https://www.therobotreport.com/state-of-robotics-industry-report-2026/', '_blank')">
-                    <!-- Rich preview thumbnail (with fallback icon) -->
-                    <div class="article-thumbnail" style="background-image: url('https://www.therobotreport.com/wp-content/uploads/2026/01/ChatGPT-Image-Jan-26-2026-01_06_56-PM-e1769451153613.png');"></div>
-
-                    <div class="article-content">
-                        <!-- Article headline (fixed 3-line height) -->
-                        <div class="news-headline">
-                            <a href="https://www.therobotreport.com/state-of-robotics-industry-report-2026/" target="_blank" onclick="event.stopPropagation();">State of robotics industry report 2026</a>
-                        </div>
-
-                        <!-- Rich description (if available) -->
-                        
-                        <div class="article-description">
-                            State of Robotics Industry Report 2026 offers a clear-eyed assessment of where the market stands today and where it’s headed.
-                        </div>
-                        
-
-                        <!-- Metadata (source, time) -->
-                        <div class="news-meta">
-                            <div class="news-meta-line">
-                                
-                                <div class="news-meta-item news-source">
-                                    
-                                    <img src="https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.therobotreport.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
-                                         alt="The Robot Report" class="news-favicon">
-                                    <a href="https://www.therobotreport.com" target="_blank" onclick="event.stopPropagation();">The Robot Report</a>
-                                    
-                                </div>
-                                
-                            </div>
-                            <div class="news-meta-line">
-                                
-                                <div class="news-meta-item">
-                                    <span data-timestamp="1769451541.0"></span>
-                                </div>
-                                
-                            </div>
-                        </div>
-                    </div>
-                </div>
-                
                 <div class="carousel-card" onclick="window.open('https://www.stocktitan.net/news/RR/richtech-robotics-collaborates-with-microsoft-to-advance-agentic-ai-2ptsobdmvovn.html', '_blank')">
                     <!-- Rich preview thumbnail (with fallback icon) -->
                     <div class="article-thumbnail" style="background-image: url('https://www.stocktitan.net/news_covers/Richtech_Robotics_Collaborates_with_Microsoft_to_Advance_Agentic_AI_in_Real_World_Robotics_Applicati_1003906.png');"></div>
@@ -1303,20 +1260,20 @@
                     </div>
                 </div>
                 
-                <div class="carousel-card" onclick="window.open('https://www.nasa.gov/blogs/spacestation/2026/01/27/crew-studies-robotics-and-virtual-reality-advancing-space-tech/', '_blank')">
+                <div class="carousel-card" onclick="window.open('https://www.globenewswire.com/news-release/2026/01/27/3226450/0/en/richtech-robotics-collaborates-with-microsoft-to-advance-agentic-ai-in-real-world-robotics-applications.html', '_blank')">
                     <!-- Rich preview thumbnail (with fallback icon) -->
-                    <div class="article-thumbnail" style="background-image: url('https://www.nasa.gov/wp-content/uploads/2023/12/53412633146-8dc3de6cda-o.jpg');"></div>
+                    <div class="article-thumbnail" style="background-image: url('https://ml.globenewswire.com/Resource/Download/bc615b38-ae99-4f10-9ca2-587176f1a7a9');"></div>
 
                     <div class="article-content">
                         <!-- Article headline (fixed 3-line height) -->
                         <div class="news-headline">
-                            <a href="https://www.nasa.gov/blogs/spacestation/2026/01/27/crew-studies-robotics-and-virtual-reality-advancing-space-tech/" target="_blank" onclick="event.stopPropagation();">Crew Studies Robotics and Virtual Reality Advancing Space Tech</a>
+                            <a href="https://www.globenewswire.com/news-release/2026/01/27/3226450/0/en/richtech-robotics-collaborates-with-microsoft-to-advance-agentic-ai-in-real-world-robotics-applications.html" target="_blank" onclick="event.stopPropagation();">Richtech Robotics Collaborates with Microsoft to Advance Agentic AI in Real-World Robotics Applications</a>
                         </div>
 
                         <!-- Rich description (if available) -->
                         
                         <div class="article-description">
-                            Robotics and virtual reality filled the science schedule aboard the International Space Station on Tuesday as the Expedition 74 crew promoted education and explored human research. The orbital trio also inspected safety equipment, worked on cargo swaps, and conducted Earth observations.
+                            Joint engineering effort with Microsoft AI Co-Innovation Labs enhances Richtech’s ADAM robot and extends intelligent automation across physical...
                         </div>
                         
 
@@ -1326,9 +1283,9 @@
                                 
                                 <div class="news-meta-item news-source">
                                     
-                                    <img src="https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.nasa.gov&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
-                                         alt="NASA (.gov)" class="news-favicon">
-                                    <a href="https://www.nasa.gov" target="_blank" onclick="event.stopPropagation();">NASA (.gov)</a>
+                                    <img src="https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.globenewswire.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+                                         alt="GlobeNewswire" class="news-favicon">
+                                    <a href="https://www.globenewswire.com" target="_blank" onclick="event.stopPropagation();">GlobeNewswire</a>
                                     
                                 </div>
                                 
@@ -1336,7 +1293,48 @@
                             <div class="news-meta-line">
                                 
                                 <div class="news-meta-item">
-                                    <span data-timestamp="1769541659.0"></span>
+                                    <span data-timestamp="1769518800.0"></span>
+                                </div>
+                                
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                
+                <div class="carousel-card" onclick="window.open('https://www.therobotreport.com/state-of-robotics-industry-report-2026/', '_blank')">
+                    <!-- Rich preview thumbnail (with fallback icon) -->
+                    <div class="article-thumbnail" style="background-image: url('https://www.therobotreport.com/wp-content/uploads/2026/01/ChatGPT-Image-Jan-26-2026-01_06_56-PM-e1769451153613.png');"></div>
+
+                    <div class="article-content">
+                        <!-- Article headline (fixed 3-line height) -->
+                        <div class="news-headline">
+                            <a href="https://www.therobotreport.com/state-of-robotics-industry-report-2026/" target="_blank" onclick="event.stopPropagation();">State of robotics industry report 2026</a>
+                        </div>
+
+                        <!-- Rich description (if available) -->
+                        
+                        <div class="article-description">
+                            State of Robotics Industry Report 2026 offers a clear-eyed assessment of where the market stands today and where it’s headed.
+                        </div>
+                        
+
+                        <!-- Metadata (source, time) -->
+                        <div class="news-meta">
+                            <div class="news-meta-line">
+                                
+                                <div class="news-meta-item news-source">
+                                    
+                                    <img src="https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.therobotreport.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+                                         alt="The Robot Report" class="news-favicon">
+                                    <a href="https://www.therobotreport.com" target="_blank" onclick="event.stopPropagation();">The Robot Report</a>
+                                    
+                                </div>
+                                
+                            </div>
+                            <div class="news-meta-line">
+                                
+                                <div class="news-meta-item">
+                                    <span data-timestamp="1769451541.0"></span>
                                 </div>
                                 
                             </div>
@@ -1467,6 +1465,88 @@
                     </div>
                 </div>
                 
+                <div class="carousel-card" onclick="window.open('https://interestingengineering.com/innovation/magnetic-polymer-artificial-muscles-soft-robotics', '_blank')">
+                    <!-- Rich preview thumbnail (with fallback icon) -->
+                    <div class="article-thumbnail" style="background-image: url('https://cms.interestingengineering.com/wp-content/uploads/2026/01/image-1920x1080-2026-01-24T192925.003.png');"></div>
+
+                    <div class="article-content">
+                        <!-- Article headline (fixed 3-line height) -->
+                        <div class="news-headline">
+                            <a href="https://interestingengineering.com/innovation/magnetic-polymer-artificial-muscles-soft-robotics" target="_blank" onclick="event.stopPropagation();">New magnetic polymer enables stronger and more flexible artificial muscles in soft robotics</a>
+                        </div>
+
+                        <!-- Rich description (if available) -->
+                        
+                        <div class="article-description">
+                            Researchers developed a dual cross-linked magnetic polymer that combines high stretchability with record work density.
+                        </div>
+                        
+
+                        <!-- Metadata (source, time) -->
+                        <div class="news-meta">
+                            <div class="news-meta-line">
+                                
+                                <div class="news-meta-item news-source">
+                                    
+                                    <img src="https://encrypted-tbn2.gstatic.com/faviconV2?url=https://interestingengineering.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+                                         alt="Interesting Engineering" class="news-favicon">
+                                    <a href="https://interestingengineering.com" target="_blank" onclick="event.stopPropagation();">Interesting Engineering</a>
+                                    
+                                </div>
+                                
+                            </div>
+                            <div class="news-meta-line">
+                                
+                                <div class="news-meta-item">
+                                    <span data-timestamp="1769312160.0"></span>
+                                </div>
+                                
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                
+                <div class="carousel-card" onclick="window.open('https://www.nasa.gov/blogs/spacestation/2026/01/27/crew-studies-robotics-and-virtual-reality-advancing-space-tech/', '_blank')">
+                    <!-- Rich preview thumbnail (with fallback icon) -->
+                    <div class="article-thumbnail" style="background-image: url('https://www.nasa.gov/wp-content/uploads/2023/12/53412633146-8dc3de6cda-o.jpg');"></div>
+
+                    <div class="article-content">
+                        <!-- Article headline (fixed 3-line height) -->
+                        <div class="news-headline">
+                            <a href="https://www.nasa.gov/blogs/spacestation/2026/01/27/crew-studies-robotics-and-virtual-reality-advancing-space-tech/" target="_blank" onclick="event.stopPropagation();">Crew Studies Robotics and Virtual Reality Advancing Space Tech</a>
+                        </div>
+
+                        <!-- Rich description (if available) -->
+                        
+                        <div class="article-description">
+                            Robotics and virtual reality filled the science schedule aboard the International Space Station on Tuesday as the Expedition 74 crew promoted education and explored human research. The orbital trio also inspected safety equipment, worked on cargo swaps, and conducted Earth observations.
+                        </div>
+                        
+
+                        <!-- Metadata (source, time) -->
+                        <div class="news-meta">
+                            <div class="news-meta-line">
+                                
+                                <div class="news-meta-item news-source">
+                                    
+                                    <img src="https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.nasa.gov&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+                                         alt="NASA (.gov)" class="news-favicon">
+                                    <a href="https://www.nasa.gov" target="_blank" onclick="event.stopPropagation();">NASA (.gov)</a>
+                                    
+                                </div>
+                                
+                            </div>
+                            <div class="news-meta-line">
+                                
+                                <div class="news-meta-item">
+                                    <span data-timestamp="1769541659.0"></span>
+                                </div>
+                                
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                
                 <div class="carousel-card" onclick="window.open('https://www.nature.com/articles/s41551-025-01605-3', '_blank')">
                     <!-- Rich preview thumbnail (with fallback icon) -->
                     <div class="article-thumbnail" style="background-image: url('https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41551-025-01605-3/MediaObjects/41551_2025_1605_Fig1_HTML.png');"></div>
@@ -1508,88 +1588,6 @@
                     </div>
                 </div>
                 
-                <div class="carousel-card" onclick="window.open('https://www.techradar.com/pro/microsoft-unveils-first-robotics-model-targeted-at-boosting-physical-ai-in-a-bid-to-free-robots-from-the-production-line', '_blank')">
-                    <!-- Rich preview thumbnail (with fallback icon) -->
-                    <div class="article-thumbnail" style="background-image: url('https://cdn.mos.cms.futurecdn.net/YWjEaGcnNmfNoNMb4EVkHN-1920-80.jpg');"></div>
-
-                    <div class="article-content">
-                        <!-- Article headline (fixed 3-line height) -->
-                        <div class="news-headline">
-                            <a href="https://www.techradar.com/pro/microsoft-unveils-first-robotics-model-targeted-at-boosting-physical-ai-in-a-bid-to-free-robots-from-the-production-line" target="_blank" onclick="event.stopPropagation();">Microsoft’s Rho-alpha pushes robots beyond assembly lines using commands</a>
-                        </div>
-
-                        <!-- Rich description (if available) -->
-                        
-                        <div class="article-description">
-                            Microsoft’s Rho-alpha pushes robots beyond assembly lines using language commands, tactile sensing, and heavy simulation training
-                        </div>
-                        
-
-                        <!-- Metadata (source, time) -->
-                        <div class="news-meta">
-                            <div class="news-meta-line">
-                                
-                                <div class="news-meta-item news-source">
-                                    
-                                    <img src="https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.techradar.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
-                                         alt="TechRadar" class="news-favicon">
-                                    <a href="https://www.techradar.com" target="_blank" onclick="event.stopPropagation();">TechRadar</a>
-                                    
-                                </div>
-                                
-                            </div>
-                            <div class="news-meta-line">
-                                
-                                <div class="news-meta-item">
-                                    <span data-timestamp="1769369700.0"></span>
-                                </div>
-                                
-                            </div>
-                        </div>
-                    </div>
-                </div>
-                
-                <div class="carousel-card" onclick="window.open('https://thespoon.tech/gambit-robotics-hopes-to-usher-in-a-new-era-of-guided-cooking-without-robots-yet/', '_blank')">
-                    <!-- Rich preview thumbnail (with fallback icon) -->
-                    <div class="article-thumbnail" style="background-image: url('https://i0.wp.com/thespoon.tech/wp-content/uploads/2026/01/Screenshot-2026-01-26-at-10.48.48-AM.png?fit=1200%2C658&ssl=1');"></div>
-
-                    <div class="article-content">
-                        <!-- Article headline (fixed 3-line height) -->
-                        <div class="news-headline">
-                            <a href="https://thespoon.tech/gambit-robotics-hopes-to-usher-in-a-new-era-of-guided-cooking-without-robots-yet/" target="_blank" onclick="event.stopPropagation();">Gambit Robotics Hopes to Usher In a New Era of Guided Cooking Without Robots (Yet)</a>
-                        </div>
-
-                        <!-- Rich description (if available) -->
-                        
-                        <div class="article-description">
-                            Coming out of CES earlier this month, you might think a new kitchen assistant from a startup called Gambit Robotics would look something like the dozens of humanoid robots roaming the show floor in…
-                        </div>
-                        
-
-                        <!-- Metadata (source, time) -->
-                        <div class="news-meta">
-                            <div class="news-meta-line">
-                                
-                                <div class="news-meta-item news-source">
-                                    
-                                    <img src="https://encrypted-tbn2.gstatic.com/faviconV2?url=https://thespoon.tech&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
-                                         alt="thespoon.tech" class="news-favicon">
-                                    <a href="https://thespoon.tech" target="_blank" onclick="event.stopPropagation();">thespoon.tech</a>
-                                    
-                                </div>
-                                
-                            </div>
-                            <div class="news-meta-line">
-                                
-                                <div class="news-meta-item">
-                                    <span data-timestamp="1769453565.0"></span>
-                                </div>
-                                
-                            </div>
-                        </div>
-                    </div>
-                </div>
-                
 
                 <!-- View All button at end of carousel -->
                 <div class="carousel-card" style="display: flex; align-items: center; justify-content: center; cursor: pointer; background: rgba(255, 255, 255, 0.05);"
@@ -1610,7 +1608,7 @@
 
     </div>
     <div class="widget-footer">
-        <small data-timestamp="2026-01-28T01:52:32.455661+00:00">Updated 2026-01-28T01:52:32.455661+00:00</small>
+        <small data-timestamp="2026-01-28T03:46:32.945129+00:00">Updated 2026-01-28T03:46:32.945129+00:00</small>
     </div>
 </div>
 

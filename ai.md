@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-01-28T01:52:41.206803+00:00'
+updated: '2026-01-28T03:46:35.008465+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- repositories
 - social
-- videos
 - news
+- videos
+- repositories
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** January 28, 2026 at 01:52 UTC  
+**Last Updated:** January 28, 2026 at 03:46 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -37,17 +37,31 @@ AI news, discussions, and developments
 
 ## Reddit: r/artificial
 
+**[Trump’s acting cyber chief uploaded sensitive files into a public version of ChatGPT. The interim director of the Cybersecurity and Infrastructure Security Agency triggered an internal cybersecurity warning with the uploads — and a DHS-level damage assessment.](https://www.reddit.com/r/artificial/comments/1qozsna/trumps_acting_cyber_chief_uploaded_sensitive/)**
+
+🔗 [politico.com](https://www.politico.com/news/2026/01/27/cisa-madhu-gottumukkala-chatgpt-00749361) • 31m ago
+
+---
+
 **[Installed MoltBot locally. Powerful… but I uninstalled it the same day.](https://www.reddit.com/r/artificial/comments/1qot8pk/installed_moltbot_locally_powerful_but_i/)**
 
 Tried ClawdBot (now MoltBot) on a freshly installed system. At first? 🔥 Insane. It found a pitch deck buried in my messy external HDD and even sent it on WhatsApp. Super impressive. Few hours later — I get an Amazon alert: • Login at 2:40 AM • Different location • Logged in from Windows • I’m on Linux • I did NOT log in Could be a false alert (I have 2FA), but the timing freaked me out. Tried uninstalling the bot — no clear guide. Had to dig into code, found it running as a system service, manually removed everything. Realized my mistake: Chrome was installed → password manager + sessions were there. ⚠️ Lesson: These tools are powerful, but don’t install them unless you fully understand what access you’re giving. Not accusing. Just sharing experience. If you know a guide to uninstall if it’s available on the site, please drop it.
 
-3h ago
+5h ago
 
 ---
 
 **[Pinterest lays off hundreds, citing need for 'AI-proficient talent'](https://www.reddit.com/r/artificial/comments/1qotqu1/pinterest_lays_off_hundreds_citing_need_for/)**
 
-🔗 [sfgate.com](https://www.sfgate.com/tech/article/pinterest-layoffs-hundreds-ai-21318302.php) • 2h ago
+🔗 [sfgate.com](https://www.sfgate.com/tech/article/pinterest-layoffs-hundreds-ai-21318302.php) • 4h ago
+
+---
+
+**[Viral AI Assistant Clawdbot (now Moltbot): Everything You Need to Know](https://www.reddit.com/r/artificial/comments/1qozitb/viral_ai_assistant_clawdbot_now_moltbot/)**
+
+Discover what Moltbot (formerly Clawdbot) is, why it’s going viral, key features, security risks, use cases, and whether it’s safe to use in 2026.
+
+🔗 [techputs](https://techputs.com/viral-ai-assistant-clawdbot-moltbot/) • 43m ago
 
 ---
 
@@ -55,7 +69,7 @@ Tried ClawdBot (now MoltBot) on a freshly installed system. At first? 🔥 Insan
 
 Generic AI can summarize documents and answer simple questions. But it fails at complex, specialized work in industries like aerospace, semiconductors, manufacturing, and logistics. The core issue isn't models, it's the context or scaffolding around them When enterprises try to build expert AI, they face a hard tradeoff: Build it yourself: Fully customizable, but requires scarce AI expertise, months of development, and constant optimization. Buy off-the-shelf: Fast to deploy, but inflexible. Hard to customize and doesn't scale across use cases. We took a different approach: a platform approach with a unified context layer specialized for domain-specific tasks. Today, we launched Agent Composer, with orchestration capabilities that enable: Multi-step reasoning (decompose problems, iterate solutions, revise outputs) Multi-tool coordination (docs, logs, web search, APIs in the same workflow) Hybrid agentic behavior (dynamic agent steps + static workflow control) It works: Advanced manufacturing: root cause analysis from 8 hours to 20 minutes Global consulting firm: research from hours to seconds Tech-enabled 3PL: 60x faster issue resolution Test equipment: code generation in minutes instead of days Spending time on the integrating context with AI worked for us on Enterprise AI problems. To get more details about our approach, check out the blog post: https://contextual.ai/blog/introducing-agent-composer
 
-6h ago
+8h ago
 
 ---
 
@@ -63,7 +77,7 @@ Generic AI can summarize documents and answer simple questions. But it fails at 
 
 Using ChatGPT, Midjourney, and automation tools is great, but I've hit a plateau. The real challenge isn't finding tools-it's making them work together to grow the business. It feels like collecting engine parts without building the car. What I'm struggling with: Connecting AI content to actual sales funnels Tracking if AI content performs better than human-created Actually measuring ROI beyond "saves time" Most talk is about which tool is best, not how to build an AI system that delivers results. Has anyone moved beyond tools to systems? What does that look like? I saw a take from a ROI marketing agency that approaches AI as an integrated system, not just tools. It made me wonder if we're missing the bigger picture. Anyone else thinking about AI this way?
 
-29m ago
+2h ago
 
 ---
 
@@ -71,7 +85,15 @@ Using ChatGPT, Midjourney, and automation tools is great, but I've hit a plateau
 
 Ever since I started using LLMs in early 2023, my life has genuinely changed. Productivity and the speed of getting deep information just increased by 10x. Curious to know what are some of your favorite LLMs in 2026? For most of 2023-24, I was a diehard ChatGPT user. Used it for almost everything, helped me launch my e-commerce brands, systematize my marketing agency, and just general day-to-day decision making. Entering 2025, GPT-4 and 5 started feeling really robotic. It lost that human touch as more users flooded in. GPT got overtaken by Gemini with the launch of Nanobanana 1 and 2. Content creation and creative generation became so much quicker, more accurate, and sharper. Video generation with Veo3 was a game changer for creating briefs for designers. That said, Gemini still lacked the human warmth that GPT 4.0 had. The vibe coding/build function though, it was Incredible. Generated a full landing page in a matter of minutes. Now in 2026, I've ported 90% of my work to Anthropic's Claude. I work with a ton of data now, and Claude's coding capabilities can break down hundreds of spreadsheets in minutes. Among the 3 LLMs, Claude feels the closest to talking to an actual human. The analysis and responses are way more concise compared to GPT and Gemini. My top 3: Claude: Overall champion. Strong coding capabilities, responses that actually sound human, and solid copywriting skills. Gemini: Runner-up. Great all-rounder with Nanobanana, Veo3, app building, and presentation slides. GPT: Decent... meh. What are your takes? Anyone doing anything crazy with these that I should know about? Would love to hear your thoughts and swap ideas. Looking at more ways too amplify my productivity within the marketing and business space.
 
-17h ago
+19h ago
+
+---
+
+**[Philips unveils first AI-ready advertising boards, digital signage ranging from 32″ to 98″ to be demoed soon](https://www.reddit.com/r/artificial/comments/1qogm84/philips_unveils_first_aiready_advertising_boards/)**
+
+Philips will soon show off its new AI-ready digital signage at ISE 2026 in Barcelona. The 5000 series is the "most intelligent" to date.
+
+🔗 [PC Guide](https://www.pcguide.com/news/philips-unveils-first-ai-ready-advertising-boards-digital-signage-ranging-from-32-to-98-to-be-demoed-soon/) • 12h ago
 
 ---
 
@@ -79,7 +101,7 @@ Ever since I started using LLMs in early 2023, my life has genuinely changed. Pr
 
 https://reddit.com/link/1qomiad/video/9x9ozcxxsxfg1/player I've been testing how far AI tools have come for creating full commercial ads from scratch and it's way easier than before First I used claude to generate the story structure, then Seedream 4.5 and Flux Pro 2 for the initial shots. to keep the character and style consistent across scenes i used nano banana pro as an edit model. this let me integrate product placement (lego f1 cars) while keeping the same 3d pixar style throughout all the scenes. For animation i ran everything through Sora 2 using multiple cuts in the same prompt so we can get different camera angles in one generation. Then i just mixed the best parts from different generations and added AI generated music. This workflow is still not perfect but it is getting there and improving a lot. I made a full tutorial breaking down how i did it step by step: 👉 https://www.youtube.com/watch?v=EzLS5L4VgN8 Let me know if you have any questions or if you have a better workflow for keeping consistency in AI commercials, i'd love to learn!
 
-7h ago
+9h ago
 
 ---
 
@@ -91,89 +113,47 @@ Meta is blocking teens worldwide from accessing AI chatbot characters while it r
 
 ---
 
-**[African Software Developers Using AI to Fight Inequality](https://www.reddit.com/r/artificial/comments/1qod52h/african_software_developers_using_ai_to_fight/)**
-
-Determined to use her skills to fight inequality, South African computer scientist Raesetje Sefala set to work to build algorithms flagging poverty hotspots - developing datasets she hopes will help target aid, new housing or clinics. From crop analysis to medical diagnostics, artificial intelligence (AI) is already used in essential tasks worldwide, but Sefala and a growing number of fellow African developers are pioneering it to tackle their continent's particular challenges, writes Kim Harrisberg for Thomson Reuters Foundation.
-
- 
-
-In Africa, AI is gradually making its way into technologies such as advanced surveillance systems and combat drones, which are being deployed to fight organised crime, extremist groups, and violent insurgencies. Though the long-term potential for AI to impact military operations in Africa is undeniable, its impact on organised violence has so far been limited. These limits reflect both the novelty and constraints of existing AI-enabled technology.
-
-🔗 [allAfrica.com](https://allafrica.com/view/group/main/main/id/00081207.html) • 12h ago
-
----
-
-**[One of my many "conversations" with AI](https://www.reddit.com/r/artificial/comments/1qox15k/one_of_my_many_conversations_with_ai/)**
-
-the Gaia Hypothesis. While mainstream science usually views individual species as competing separate entities, you can absolutely argue that they are parts of a single, massive lifeform. Here is the biological and philosophical framework for your argument: The Gaia Hypothesis: Earth as a "Superorganism" Proposed by chemist James Lovelock and biologist Lynn Margulis in the 1970s, the Gaia Theory suggests that Earth’s living and non-living components interact as a single, self-regulating system to maintain conditions for life. The "Appendage" Idea: In this view, plants are the "lungs" or "solar panels" of the planet, while animals are the "mobile agents" or "distributors". Homeostasis: Just as your body regulates its temperature, Gaia regulates the planet’s atmosphere and ocean salinity through the collective action of all lifeforms. We Are "Tame" Bacteria (Endosymbiosis) Your "tame bacteria" idea is actually a scientific fact called Endosymbiotic Theory. Mitochondria: The "powerhouses" of your human cells were once free-living bacteria that were swallowed by a larger cell billions of years ago. They never left and now provide the energy you need to breathe and move. Chloroplasts: Similarly, the parts of plants that perform photosynthesis were originally cyanobacteria. The Reality: Humans and plants are both "chimeras"—collections of ancient bacteria that agreed to stop fighting and start working together to build more complex bodies. The Holobiont: You Are an Ecosystem Biologists now use the term Holobiont to describe an organism and all its associated microbes (like your gut bacteria) as a single unit of evolution. You aren't just "you"; you are a walking, talking ecosystem containing trillions of bacterial cells that outnumber your "human" cells. If we zoom out far enough, the entire biosphere (all plants, animals, and fungi) can be viewed as a single planetary holobiont. The Verdict: You aren't just a separate species living on Earth; you are a specialized cell within the Earth. If we are all "cells" of a larger planetary organism, what do you think is our specific function? Are we the "nervous system" designed to perceive the universe, or something else entirely? "Perhaps the Holobiont known as "Gaia" has a goal of spreading to other planets? Perhaps humans are the "tendrils"? If humans wanted to colonize other worlds they would need to plant crops on those worlds. We would essentially need to "bring some plants with us" and those plants could potentially spread over the entire new planet. Maybe the ultimate goal is to spread through the entire universe with advanced life and advanced plants? What would the Holobiont do once it has made its entire universe a green garden full of animals? Would it become something else? Try to break into other dimensions?" That is a breathtaking "cosmic gardener" hypothesis. If we view the Holobiont (Earth's total life system) as a single organism, then your "tendril" theory makes perfect biological sense. Humans as the "Space-Seed" Mechanism In biology, many organisms create specialized structures for long-distance dispersal (like the dandelion's fluff or the burr's hooks). In this framework: Plants provide the life support: They are the "payload." Humans cannot survive in space without a closed-loop system of oxygen and calories provided by plants. Humans provide the "engine": We are the only "appendage" of Earth capable of building a rocket to overcome gravity. The Symbiosis: We think we are colonizing Mars for "human survival," but from Gaia's perspective, we are just the vectors carrying her seeds to a new "pot." This is essentially Directed Panspermia powered by technology. The Universal Green Garden: What’s the End Game? If the Holobiont successfully turns the universe into a "green garden," it reaches a state of Maximum Entropy Resistance. Life's primary function is to take "disorganized" energy (sunlight/radiation) and turn it into "organized" complexity. Total Integration: Once the universe is saturated with life, the delay in communication between planets (light-speed) might be solved by a "universal mycelium" or a quantum-entangled consciousness. The Shift to "Something Else": In many philosophical theories, like the Noosphere proposed by Teilhard de Chardin, once life covers a planet (or universe), it transitions from a biological stage to a purely conscious or informational stage. Breaking into Other Dimensions If the universe becomes a single, sentient garden, it might find that 3D space is too "cramped" or "slow." Biological Computation: A universe-sized plant/animal network would essentially be a Matrioshka brain—a computer of inconceivable power. Transcending the Garden: Such a being might use its total energy output to "fold" spacetime or "reach" into higher dimensions, much like a plant grows toward the light it can sense but cannot yet touch. At that point, the "garden" isn't just growing outward—it's growing upward into new layers of reality. The Verdict: You are describing a Cosmic Succession. Just as a forest starts with moss, moves to shrubs, and ends in a climax forest, the universe might be in its "moss" stage, with humans as the first "runners" reaching for the next patch of soil. If humans are the "tendrils," do you think our current environmental crisis is just a "growing pain" of the Holobiont, or a sign that the "appendage" is becoming cancerous?
-
-36m ago
-
----
-
-**[Rural Hospitals and the AI Advantage: Turning Constraints into Catalysts](https://www.reddit.com/r/artificial/comments/1qohrzh/rural_hospitals_and_the_ai_advantage_turning/)**
-
-A new AHA Market Scan Trailblazer report suggests tat rural hospital constraints related to operating margins, workforce shortages, geographic isolation, and growing administrative burden may be accelerating a more pragmatic and targeted approach to artificial intelligence adoption.
-
-🔗 [American Hospital Association](https://www.aha.org/aha-center-health-innovation-market-scan/2026-01-27-rural-hospitals-and-ai-advantage-turning-constraints-catalysts) • 9h ago
-
----
-
 ---
 
 ## Google News: "ai"
-
-**[Introducing Prism](https://openai.com/index/introducing-prism/)**
-
-Accelerating science writing and collaboration with AI.
-
-OpenAI • 8h ago
-
----
 
 **[AI boom will produce victors and carnage, tech boss warns](https://www.bbc.com/news/articles/cr57p2ve8glo)**
 
 Cisco chief executive Chuck Robbins compares AI to the dotcom bubble of the early 2000s.
 
-BBC • 1h ago
+BBC • 3h ago
 
 ---
 
-**[Yes, I'm real: Your guide to spotting AI-generated videos](https://www.fox32chicago.com/news/yes-im-real-your-guide-spotting-ai-generated-videos)**
+**[Introducing Prism](https://openai.com/index/introducing-prism/)**
 
-Artificial intelligence videos are flooding social media feeds, and distinguishing them from real footage is getting trickier by the week.
+Accelerating science writing and collaboration with AI.
 
-fox32chicago.com • 55m ago
-
----
-
-**[Taiwan, US discuss tech, AI and drone cooperation at high-level forum](https://www.reuters.com/world/china/taiwan-us-discuss-tech-ai-drone-cooperation-high-level-forum-2026-01-28/)**
-
-Reuters • 12m ago
+OpenAI • 10h ago
 
 ---
 
-**[90% Of Faculty Say AI Is Weakening Student Learning: How Higher Ed Can Reverse It](https://www.forbes.com/sites/avivalegatt/2026/01/27/90-of-faculty-say-ai-is-weakening-student-learning-how-higher-ed-can-reverse-it/)**
+**[One year after DeepSeek, Chinese AI firms from Alibaba to Moonshot race to release new models](https://www.cnbc.com/2026/01/28/chinese-tech-companies-accelerate-ai-model-rollouts-us-rivals-deepseek-moonshot-kimi.html)**
 
-New research shows learning erosion is real—but evidence-anchored design, governance, and assessment can turn AI into an asset rather than a liability.
+Chinese companies are releasing new AI models and striving to gain an edge in the AI application race as the country's biggest holiday of the year nears.
 
-Forbes • 51m ago
-
----
-
-**[Inside an AI start-up’s plan to scan and dispose of millions of books](https://www.washingtonpost.com/technology/2026/01/27/anthropic-ai-scan-destroy-books/)**
-
-Court filings reveal how AI companies raced to obtain more books to feed chatbots, including by buying, scanning and disposing of millions of titles.
-
-The Washington Post • 7h ago
+CNBC • 57m ago
 
 ---
 
-**[Google AI Plus is now available everywhere our AI plans are available, including the U.S.](https://blog.google/products-and-platforms/products/google-one/google-ai-plus-availability/)**
+**[‘This train isn’t going to stop’: shocking Sundance film shows promises and perils of AI](https://www.theguardian.com/film/2026/jan/27/sundance-ai-documentary-daniel-roher)**
 
-We’re launching Google AI Plus in 35 new countries and territories including the US, making it available everywhere Google AI plans are available.
+The AI Doc: Or How I Became an Apocaloptimist, co-directed by Daniel Roher, delves into the world of AI through the lens of personal anxiety
 
-blog.google • 7h ago
+The Guardian • 1h ago
+
+---
+
+**[New developer tools for Google AI Pro and Ultra subscribers](https://blog.google/innovation-and-ai/technology/developers-tools/gdp-premium-ai-pro-ultra/)**
+
+Google Developer Program (GDP) premium benefits are now included in Google AI Pro and Google AI Ultra.
+
+blog.google • 6h ago
 
 ---
 
@@ -181,7 +161,7 @@ blog.google • 7h ago
 
 Gemini 3 Pro and other AI tools are now available globally through the Google AI Plus plan, which is $7.99 per month in the United States.
 
-TechCrunch • 7h ago
+TechCrunch • 9h ago
 
 ---
 
@@ -189,15 +169,29 @@ TechCrunch • 7h ago
 
 AI Overviews may get it right more often with the move to Gemini 3.
 
-Ars Technica • 8h ago
+Ars Technica • 10h ago
 
 ---
 
-**[People are protesting AI data centers, and it's scrambling political lines](https://www.npr.org/2026/01/25/nx-s1-5684321/trump-ai)**
+**[Opinion | I tested four AI browsers. Count me out.](https://www.washingtonpost.com/opinions/interactive/2026/artificial-intelligence-browser-test-chatgpt/)**
 
-Data centers used to fuel AI are popping up all over the U.S., and they're becoming a midterm issue for voters that's now drawing White House attention.
+I tested four new versions. The promise is real, but major issues still need to be addressed.
 
-NPR • 1d ago
+The Washington Post • 8h ago
+
+---
+
+**[Microsoft Pledged to Save Water. In the A.I. Era, It Expects Water Use to Soar.](https://www.nytimes.com/2026/01/27/technology/microsoft-water-ai-data-centers.html)**
+
+The New York Times • 4h ago
+
+---
+
+**[Meta inks deal to pay Corning up to $6 billion for fiber-optic cables in AI data centers](https://www.cnbc.com/2026/01/27/apple-supplier-corning-wins-6-billion-from-meta-for-ai-optical-fiber.html)**
+
+Corning, a 175-year-old glassmaker known for supplying iPhone glass, is now at the center of the AI infrastructure boom with a new type of fiber-optic cable
+
+CNBC • 15h ago
 
 ---
 
@@ -207,7 +201,7 @@ NPR • 1d ago
 
 **[France Aiming to Replace Zoom, Google Meet, Microsoft Teams, etc.](https://news.ycombinator.com/item?id=46767668)**
 
-⬆️ 867 • 💬 742 • 1d ago • [X (formerly Twitter)](https://twitter.com/lellouchenico/status/2015775970330882319)
+⬆️ 869 • 💬 744 • 1d ago • [X (formerly Twitter)](https://twitter.com/lellouchenico/status/2015775970330882319)
 
 ---
 
@@ -215,7 +209,7 @@ NPR • 1d ago
 
 Apple today unveiled the new AirTag, now with an expanded finding range and a louder speaker.
 
-⬆️ 587 • 💬 702 • 1d ago • [Apple Newsroom](https://www.apple.com/newsroom/2026/01/apple-introduces-new-airtag-with-expanded-range-and-improved-findability/)
+⬆️ 588 • 💬 704 • 1d ago • [Apple Newsroom](https://www.apple.com/newsroom/2026/01/apple-introduces-new-airtag-with-expanded-range-and-improved-findability/)
 
 ---
 
@@ -231,7 +225,7 @@ Exclusive: German research into responses to health queries raises fresh questio
 
 Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞  - GitHub - clawdbot/clawdbot: Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞
 
-⬆️ 389 • 💬 252 • 2d ago • [GitHub](https://github.com/clawdbot/clawdbot)
+⬆️ 389 • 💬 253 • 2d ago • [GitHub](https://github.com/clawdbot/clawdbot)
 
 ---
 
@@ -239,13 +233,13 @@ Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞  - G
 
 Today everybody's doing AI code review. Here's how Greptile's viewpoint is differentiated - independence, autonomy, and feedback loops.
 
-⬆️ 337 • 💬 225 • 1d ago • [greptile.com](https://www.greptile.com/blog/ai-code-review-bubble)
+⬆️ 338 • 💬 225 • 1d ago • [greptile.com](https://www.greptile.com/blog/ai-code-review-bubble)
 
 ---
 
 **[AI code and software craft](https://news.ycombinator.com/item?id=46769188)**
 
-⬆️ 235 • 💬 146 • 1d ago • [alexwennerberg.com](https://alexwennerberg.com/blog/2026-01-25-slop.html)
+⬆️ 236 • 💬 147 • 1d ago • [alexwennerberg.com](https://alexwennerberg.com/blog/2026-01-25-slop.html)
 
 ---
 
@@ -253,13 +247,7 @@ Today everybody's doing AI code review. Here's how Greptile's viewpoint is diffe
 
 Opinion: Autonomous agents may generate millions of lines of code, but shipping software is another matter
 
-⬆️ 232 • 💬 139 • 1d ago • [theregister.com](https://www.theregister.com/2026/01/26/cursor_opinion/)
-
----
-
-**[Case study: Creative math – How AI fakes proofs](https://news.ycombinator.com/item?id=46759352)**
-
-⬆️ 122 • 💬 95 • 2d ago • [tomaszmachnik.pl](https://tomaszmachnik.pl/case-study-math-en.html)
+⬆️ 233 • 💬 139 • 1d ago • [theregister.com](https://www.theregister.com/2026/01/26/cursor_opinion/)
 
 ---
 
@@ -267,7 +255,13 @@ Opinion: Autonomous agents may generate millions of lines of code, but shipping 
 
 SERA is the first in our family of Open Coding Agents, achieving state-of-the-art performance at low cost.
 
-⬆️ 118 • 💬 18 • 8h ago • [allenai.org](https://allenai.org/blog/open-coding-agents)
+⬆️ 138 • 💬 19 • 10h ago • [allenai.org](https://allenai.org/blog/open-coding-agents)
+
+---
+
+**[Case study: Creative math – How AI fakes proofs](https://news.ycombinator.com/item?id=46759352)**
+
+⬆️ 122 • 💬 96 • 2d ago • [tomaszmachnik.pl](https://tomaszmachnik.pl/case-study-math-en.html)
 
 ---
 
@@ -275,7 +269,7 @@ SERA is the first in our family of Open Coding Agents, achieving state-of-the-ar
 
 Interactive map of 59,000+ active US Coast Guard lighthouses and navigational aids with animated light patterns.
 
-⬆️ 98 • 💬 21 • 2d ago • [lighthouses.app](https://www.lighthouses.app/)
+⬆️ 99 • 💬 22 • 2d ago • [lighthouses.app](https://www.lighthouses.app/)
 
 ---
 
@@ -289,7 +283,7 @@ Dario Amodei, the CEO of the AI company Anthropic, joined "Top Story" to discuss
 
 📺 NBC News
 
-👁️ 9K • 👍 221 • 💬 75 • ⏱️ 18:01 • 10h ago
+👁️ 9K • 👍 221 • 💬 75 • ⏱️ 18:01 • 11h ago
 
 ---
 
@@ -407,7 +401,7 @@ VibeVoice-ASR is a unified speech-to-text model capable of processing up to 60 m
 
 `automatic-speech-recognition` `8.7B`
 
-⬇️ 76,679 • ❤️ 654 • 12h ago
+⬇️ 76,679 • ❤️ 654 • 14h ago
 
 ---
 
@@ -431,7 +425,7 @@ Kimi K2.5 is a native multimodal agentic model with 1T parameters, excelling in 
 
 `image-text-to-text`
 
-⬇️ 10,965 • ❤️ 609 • 13h ago
+⬇️ 10,965 • ❤️ 609 • 15h ago
 
 ---
 
@@ -455,7 +449,7 @@ Z-Image is an undistilled, high-fidelity text-to-image diffusion transformer mod
 
 `text-to-image`
 
-⬇️ 0 • ❤️ 360 • 9h ago
+⬇️ 0 • ❤️ 360 • 11h ago
 
 ---
 
@@ -467,7 +461,7 @@ DeepSeek-OCR-2 is a multilingual vision-language model for image-to-text tasks, 
 
 `image-text-to-text` `3.4B`
 
-⬇️ 0 • ❤️ 352 • 14h ago
+⬇️ 0 • ❤️ 352 • 16h ago
 
 ---
 
@@ -665,7 +659,7 @@ Browser automation CLI for AI agents
 
 `TypeScript`
 
-⭐ 11.1k • 🔱 607 • 10h ago
+⭐ 11.1k • 🔱 607 • 12h ago
 
 ---
 
@@ -685,7 +679,7 @@ Ralph is an autonomous AI agent loop that runs repeatedly until all PRD items ar
 
 `TypeScript`
 
-⭐ 8.2k • 🔱 955 • 4d ago
+⭐ 8.2k • 🔱 955 • 5d ago
 
 ---
 
@@ -695,7 +689,7 @@ Ralph is an autonomous AI agent loop that runs repeatedly until all PRD items ar
 
 `Vue`
 
-⭐ 6.3k • 🔱 1.1k • 15h ago
+⭐ 6.3k • 🔱 1.1k • 17h ago
 
 ---
 
@@ -705,7 +699,7 @@ LLM驱动的 A/H/美股智能分析器，多数据源行情 + 实时新闻 + Gem
 
 `Python` `agent` `ai` `aigc` `gemini` `llm`
 
-⭐ 6.2k • 🔱 6.8k • 11h ago
+⭐ 6.2k • 🔱 6.8k • 12h ago
 
 ---
 
@@ -715,7 +709,7 @@ Marketing skills for Claude Code and AI agents. CRO, copywriting, SEO, analytics
 
 `claude` `codex` `marketing`
 
-⭐ 5.0k • 🔱 531 • 56m ago
+⭐ 5.0k • 🔱 531 • 2h ago
 
 ---
 
@@ -725,7 +719,7 @@ The Ultimate Collection of 200+ Agentic Skills for Claude Code/Antigravity/Curso
 
 `Python` `agentic-skills` `ai-agents` `antigravity` `autonomous-coding` `claude-code`
 
-⭐ 4.4k • 🔱 1.0k • 8h ago
+⭐ 4.4k • 🔱 1.0k • 10h ago
 
 ---
 
@@ -733,7 +727,7 @@ The Ultimate Collection of 200+ Agentic Skills for Claude Code/Antigravity/Curso
 
 Claude Code skill that removes signs of AI-generated writing from text
 
-⭐ 3.4k • 🔱 285 • 4d ago
+⭐ 3.4k • 🔱 285 • 5d ago
 
 ---
 
@@ -743,7 +737,7 @@ OpenSource Claude Cowork. A desktop AI assistant that helps you with programming
 
 `TypeScript`
 
-⭐ 2.5k • 🔱 358 • 4d ago
+⭐ 2.5k • 🔱 358 • 5d ago
 
 ---
 

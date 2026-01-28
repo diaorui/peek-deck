@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-01-28T01:52:41.214424+00:00'
+updated: '2026-01-28T03:46:35.016780+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
 - social
-- videos
 - news
 - cryptocurrency
+- videos
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** January 28, 2026 at 01:52 UTC  
+**Last Updated:** January 28, 2026 at 03:46 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,17 +38,17 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $89,437.08
+### $89,356.16
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** +0.6%  
-**7d:** -0.3%  
-**30d:** +1.0%  
-**90d:** -18.6%  
-**1y:** -13.7%  
+**24h:** +0.5%  
+**7d:** -0.5%  
+**30d:** +0.7%  
+**90d:** -18.8%  
+**1y:** -14.0%  
 
 ---
 
@@ -77,15 +77,27 @@ Rank #1
 
 ## Reddit: r/Bitcoin
 
-**[still hodling](https://www.reddit.com/r/Bitcoin/comments/1qoarog/still_hodling/)**
+**[This man filmed the reaction to bitcoin breaking $100 in 2013](https://www.reddit.com/r/Bitcoin/comments/1qox66j/this_man_filmed_the_reaction_to_bitcoin_breaking/)**
 
-14h ago
+2h ago
 
 ---
 
-**[Rule 11](https://www.reddit.com/r/Bitcoin/comments/1qoe2h3/rule_11/)**
+**["Crypto is risky" Meanwhile:](https://www.reddit.com/r/Bitcoin/comments/1qoxz6c/crypto_is_risky_meanwhile/)**
 
-12h ago
+1h ago
+
+---
+
+**[still hodling](https://www.reddit.com/r/Bitcoin/comments/1qoarog/still_hodling/)**
+
+16h ago
+
+---
+
+**[Real 🤣](https://www.reddit.com/r/Bitcoin/comments/1qoxu5d/real/)**
+
+1h ago
 
 ---
 
@@ -93,39 +105,25 @@ Rank #1
 
 I'm a teenager from a third world country, and I'm glad to share that I'm finally achieving my goal. Building wealth in my country isn't as easy as it is in Europe or the US, especially at my age. Because of that, my friends have called me a cheapskate (and sometimes they've been right). Now that I've accumulated enough Bitcoin (an amount that feels sufficient to me), I can finally start spending future income on clothes, the gym, gifts for my girlfriend, and other things I've been putting off to keep investing. Having this nest egg at 19 feels like a huge accomplishment, and I'm proud to share it with you. I can finally enjoy typical teenage stuff without feeling guilty :)
 
-7h ago
+8h ago
 
 ---
 
-**[This man filmed the reaction to bitcoin breaking $100 in 2013](https://www.reddit.com/r/Bitcoin/comments/1qox66j/this_man_filmed_the_reaction_to_bitcoin_breaking/)**
+**[Rule 11](https://www.reddit.com/r/Bitcoin/comments/1qoe2h3/rule_11/)**
 
-30m ago
+14h ago
 
 ---
 
 **[Forever😀](https://www.reddit.com/r/Bitcoin/comments/1qofr38/forever/)**
 
-11h ago
+13h ago
 
 ---
 
 **[the first 365 days of January are always the hardest](https://www.reddit.com/r/Bitcoin/comments/1qosc5f/the_first_365_days_of_january_are_always_the/)**
 
-3h ago
-
----
-
-**[ICYMI BitGo went public last week - huge milestone for them and the bitcoin space](https://www.reddit.com/r/Bitcoin/comments/1qoly1t/icymi_bitgo_went_public_last_week_huge_milestone/)**
-
-7h ago
-
----
-
-**[I'm afraid of the future.](https://www.reddit.com/r/Bitcoin/comments/1qoctai/im_afraid_of_the_future/)**
-
-I'm making this post to vent and get some opinions. I'm scared. I'm 19, and this world that's coming is terrifying. People tell me to relax, but they don't see it. The world is falling apart. Money is worthless. I don't know what to study because AI could put me out of work for 10 years. I don't want to go into a degree program and waste all that time that I could have invested in something else. I don't know how to invest in Bitcoin, haha. I don't know where to put my effort. I've seen a little bit about Bitcoin, that it's a safe place to store things. I guess I need advice.
-
-13h ago
+5h ago
 
 ---
 
@@ -133,11 +131,11 @@ I'm making this post to vent and get some opinions. I'm scared. I'm 19, and this
 
 Proving value is the key to build anything I’m studied my ass off because I am free, not trading my life for paper. Working my ass off for SATS so I can live my life.
 
-3h ago
+5h ago
 
 ---
 
-**[The majority of the top US banks are now into Bitcoin 🚀](https://www.reddit.com/r/Bitcoin/comments/1qohu4h/the_majority_of_the_top_us_banks_are_now_into/)**
+**[ICYMI BitGo went public last week - huge milestone for them and the bitcoin space](https://www.reddit.com/r/Bitcoin/comments/1qoly1t/icymi_bitgo_went_public_last_week_huge_milestone/)**
 
 9h ago
 
@@ -147,25 +145,25 @@ Proving value is the key to build anything I’m studied my ass off because I am
 
 ## Google News: "bitcoin"
 
-**[Bitcoin Price Fights for $88,000 as Fed Looms and Bearish Technical Pressure Builds](https://bitcoinmagazine.com/markets/bitcoin-price-fights-for-88000)**
+**[Bitcoin price news: BTC attempts rally as dollar decline accelerates](https://www.coindesk.com/markets/2026/01/27/bitcoin-climbs-above-usd89-000-as-u-s-dollar-tumbles-on-president-trump-s-remarks)**
 
-The bitcoin price fell to $86,000 over the weekend but has steadied to around $87,850 amid caution over Federal Reserve policy, recent liquidations, and technical pressure.
+The president said he isn't concerned about the dollar's recent declines, sending the greenback plunging even lower.
 
-Bitcoin Magazine • 1d ago
+CoinDesk • 6h ago
 
 ---
 
 **[Bitcoin Miners Power Down US Operations in Wake of Winter Storm](https://www.bloomberg.com/news/articles/2026-01-26/bitcoin-miners-power-down-us-operations-in-wake-of-winter-storm)**
 
-Bloomberg • 1d ago
+Bloomberg.com • 1d ago
 
 ---
 
-**[Bitcoin miners Cleanspark, IREN, and TeraWulf among those lower after NVDA/CRWV deal](https://www.coindesk.com/markets/2026/01/26/here-are-the-winners-and-losers-from-nvidia-s-usd2b-coreweave-investment)**
+**[IREN, CIFR, WULF and HUT lead BTC miners sharply higher on Tuesday](https://www.coindesk.com/markets/2026/01/27/bitcoin-miners-rise-on-fresh-usd20-billion-anthropic-funding-round)**
 
-Nvidia’s deepened partnership with CoreWeave raises pressure on bitcoin miners pivoting to AI infrastructure.
+Anthropic is set to raise $20 billion in its latest funding round, double the amount it initially targeted, according to the FT.
 
-CoinDesk • 1d ago
+CoinDesk • 7h ago
 
 ---
 
@@ -177,11 +175,25 @@ Yahoo Finance • 1d ago
 
 ---
 
-**[US Shutdown Odds at 75% — How Hard Will Bitcoin Be Hit?](https://finance.yahoo.com/news/us-shutdown-odds-75-hard-005427322.html)**
+**[Off the Charts: Key levels for bitcoin](https://www.cnbc.com/video/2026/01/27/off-the-charts-key-levels-for-bitcoin.html)**
 
-US shutdown odds hit 75%, but with half of spending bills passed, Bitcoin's liquidity impact may be far smaller than last October.
+Katie Stockton, Fairlead, joins 'Fast Money' to take a technical look at bitcoin prices.
 
-Yahoo Finance • 58m ago
+CNBC • 5h ago
+
+---
+
+**[Strategy buys $264m Bitcoin during price dip as investors brace for 80% government shutdown chance](https://finance.yahoo.com/news/strategy-buys-264m-bitcoin-during-114217584.html)**
+
+Polymarket puts shutdown probability at 80%. The last shutdown in October-November caused lasting damage. That’s not stopping Wall Street from digging deeper into crypto.
+
+Yahoo Finance • 16h ago
+
+---
+
+**[Silver overtakes bitcoin’s post-2017 gains as price blows past $115](https://www.theblock.co/post/387138/silver-overtakes-bitcoin-post-2017-gains-price-blows-past-115)**
+
+The Block • 1d ago
 
 ---
 
@@ -193,33 +205,19 @@ Fortune • 1d ago
 
 ---
 
-**[Silver overtakes bitcoin’s post-2017 gains as price blows past $115](https://www.theblock.co/post/387138/silver-overtakes-bitcoin-post-2017-gains-price-blows-past-115)**
+**[Tucker Carlson asks top economist if Bitcoin will replace declining U.S. dollar](https://www.thestreet.com/crypto/markets/tucker-carlson-asks-top-economist-if-bitcoin-will-replace-declining-u-s-dollar)**
 
-The Block • 1d ago
+Tucker Carlson asks the new guest why Bitcoin can't replace the U.S. dollar.
 
----
-
-**[Off the Charts: Key levels for bitcoin](https://www.cnbc.com/video/2026/01/27/off-the-charts-key-levels-for-bitcoin.html)**
-
-Katie Stockton, Fairlead, joins 'Fast Money' to take a technical look at bitcoin prices.
-
-CNBC • 3h ago
+thestreet.com • 8h ago
 
 ---
 
-**[UK Financial Ltd Engages Early Bitcoin-Era Exchange Veteran Neulo Emmanuel (Neulo) in Long-Term Strategic Advisory Role](https://www.usatoday.com/press-release/story/24452/uk-financial-ltd-engages-early-bitcoin-era-exchange-veteran-neulo-emmanuel-neulo-in-long-term-strategic-advisory-role/)**
+**[Strategy ($MSTR) Sells $257 Million in Stock to Buy 2,932 Bitcoin](https://bitcoinmagazine.com/news/strategy-sells-257-million-to-buy-2932-btc)**
 
-London, UKUK Financial Ltd Formalizes Advisory Role and Confirms Commitment to Supporting CATEX Exchange Development
+Strategy announced Monday that it acquired an additional 2,932 bitcoin for approximately $264 million.
 
-USA Today • 1h ago
-
----
-
-**[What is Massachusetts doing to stop Bitcoin ATM scams?](https://www.wcvb.com/article/what-is-massachusetts-doing-to-stop-bitcoin-atm-scams/70094656)**
-
-How one New England state took quick action
-
-wcvb.com • 3h ago
+Bitcoin Magazine • 1d ago
 
 ---
 
@@ -248,7 +246,7 @@ rewards for mining operations will dwindle. What happens next?
 
 A list of known attacks against Bitcoin / crypto asset owning entities that occurred in meatspace. - jlopp/physical-bitcoin-attacks
 
-⬆️ 3 • 💬 0 • 6h ago • [GitHub](https://github.com/jlopp/physical-bitcoin-attacks)
+⬆️ 3 • 💬 0 • 8h ago • [GitHub](https://github.com/jlopp/physical-bitcoin-attacks)
 
 ---
 
@@ -264,7 +262,7 @@ Stargate UI
 
 For years, crypto investors have waited for a familiar miracle. Altcoin season. The moment when small coins suddenly outrun Bitcoin,
 
-⬆️ 1 • 💬 0 • 14h ago • [The Bit Gazette](https://thebitgazette.com/why-altcoin-season-may-not-happen-in-2026-as-bitcoin-keeps-control/)
+⬆️ 1 • 💬 0 • 16h ago • [The Bit Gazette](https://thebitgazette.com/why-altcoin-season-may-not-happen-in-2026-as-bitcoin-keeps-control/)
 
 ---
 
@@ -290,7 +288,7 @@ Transform HN comment threads into executive intelligence. AI analyzes discussion
 
 **[Show HN: I could build the translation tool I've wanted for 10 years](https://news.ycombinator.com/item?id=46786231)**
 
-⬆️ 1 • 💬 1 • 5h ago
+⬆️ 1 • 💬 1 • 7h ago
 
 ---
 
@@ -310,7 +308,7 @@ Take Control of Your Retirement — Grow Crypto & Gold Tax-Advantaged. https://w
 
 📺 Savvy Finance
 
-👁️ 8K • 👍 369 • 💬 8 • ⏱️ 19:52 • 8h ago
+👁️ 8K • 👍 369 • 💬 8 • ⏱️ 19:52 • 10h ago
 
 ---
 
@@ -330,7 +328,7 @@ As the stock market witnesses high volatility, experts anticipate potential shar
 
 📺 Paul Barron Network
 
-👁️ 35K • 👍 2K • 💬 149 • ⏱️ 17:32 • 5h ago
+👁️ 35K • 👍 2K • 💬 149 • ⏱️ 17:32 • 7h ago
 
 ---
 
@@ -340,7 +338,7 @@ Today, let's examine Bitcoin's charts and metrics, as well as the latest Macro a
 
 📺 CryptosRUs
 
-👁️ 21K • 👍 1K • 💬 218 • ⏱️ 43:35 • 9h ago
+👁️ 21K • 👍 1K • 💬 218 • ⏱️ 43:35 • 11h ago
 
 ---
 
@@ -350,7 +348,7 @@ This is not a victory lap — it's a reset. When Tom Lee throws out a $200000–
 
 📺 The Bitcoin Revolution
 
-👁️ 946 • 👍 53 • 💬 62 • ⏱️ 8:58 • 7h ago
+👁️ 946 • 👍 53 • 💬 62 • ⏱️ 8:58 • 9h ago
 
 ---
 
