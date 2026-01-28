@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-01-28T07:49:27.749385+00:00'
+updated: '2026-01-28T08:34:37.997683+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- videos
-- social
 - news
+- social
+- videos
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** January 28, 2026 at 07:49 UTC  
+**Last Updated:** January 28, 2026 at 08:34 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -36,7 +36,7 @@ Robotics research and industry news
 
 Hey all, a quick showcase of the Sprout robot from Fauna Robotics. I’m a postdoc in Talmo Pereira’s lab at the Salk Institute working on computational models for motor control. In my experience, robots usually take weeks or months of network, hardware, and software debugging before you can even start experiments. This was the opposite. We turned it on and were up and running immediately, which made me appreciate how much legwork must’ve gone into making the setup so smooth. So far we’ve: - Got Sprout walking, crouching, crawling, dancing and even jumping. - The robot was able to correct for perturbations and imbalances showing robust control policies. - Done full-body VR teleop with a Meta Quest (Fauna’s app worked great) Big win is that it actually was able to successfully deploy robust control policies out of the box. Setup was straightforward, and it feels physically safe. I held the safety harness like an overbearing parent, but the robot didn’t need me. It was gentle, regained balance, and stopped on its own. No affiliation with Fauna Robotics, just sharing an academic lab evaluation of a commercially available research platform. Impressive performance so far and excited to start training policies for more complex tasks. What new tasks should we train Sprout to perform?
 
-15h ago
+16h ago
 
 ---
 
@@ -52,13 +52,13 @@ From Lukas Ziegler on 𝕏: https://x.com/lukas_m_ziegler/status/201611223701904
 
 Meet Sprout. Fauna Robotics are releasing a new kind of robotics platform. One designed to move out of the lab and into the real world, closer to the people who will shape what robots become next. @faunarobotics
 
-14h ago
+15h ago
 
 ---
 
 **[Helix update makes Figure 03 move noticeably more human. Thoughts?](https://www.reddit.com/r/robotics/comments/1qoyi0l/helix_update_makes_figure_03_move_noticeably_more/)**
 
-5h ago
+6h ago
 
 ---
 
@@ -66,7 +66,7 @@ Meet Sprout. Fauna Robotics are releasing a new kind of robotics platform. One d
 
 I recently came across the Universal Manipulation Interface (UMI) paper and found it to be a promising approach for teaching robots manipulation skills without relying on teleportation-based control. I was particularly interested in exploring how well this approach works on low-cost DIY hardware, such as an AR4 robot arm. Key challenges: - High-latency robot and gripper controllers that only support single-step control commands - A low-FPS camera with image composition that differs from the data used during training Key engineering adaptations: 🛠️ Hardware Abstraction Layer - Original UMI supports UR5, Franka Emika, and industrial WSG grippers. - I wrote custom drivers to interface with a DIY AR4 6-DOF robot arm and a custom servo-based gripper. - Forward and inverse kinematics are solved on the PC side, and only joint commands are sent to the robot controller. 👁️ Vision System Retrofit - Original UMI relies on a GoPro with lens modification and a capture card. - I adapted the perception pipeline to use a standard ~$50 USB camera. 🖐️ Custom End-Effector - Designed and 3D-printed a custom parallel gripper. - Actuated by a standard hobby servo. - Controlled via an Arduino Mega 2560 (AR4 auxiliary controller). Repos: - UMI + AR4 integration: https://github.com/robotsir/umi_ar4_retrofit - AR4 custom firmware: https://github.com/robotsir/ar4_embodied_controller This is still a work in progress. Due to the hardware limitations above, the system is not yet as smooth as the original UMI setup, but my goal is to push performance as far as possible within these constraints. The system is already running end-to-end on real hardware. The GIF above shows a live demo. Feedback from people working on embodied AI, robot learning, or low-cost manipulation platforms would be very welcome. If you have an AR4 arm and are interested in trying this out, feel free to reach out.
 
-7h ago
+8h ago
 
 ---
 
@@ -74,7 +74,7 @@ I recently came across the Universal Manipulation Interface (UMI) paper and foun
 
 From Eren Chen on 𝕏: https://x.com/ErenChenAI/status/2015503512734441800
 
-21h ago
+22h ago
 
 ---
 
@@ -82,13 +82,13 @@ From Eren Chen on 𝕏: https://x.com/ErenChenAI/status/2015503512734441800
 
 Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.
 
-🔗 [youtube.com](https://www.youtube.com/watch?v=lQsvTrRTBRs) • 13h ago
+🔗 [youtube.com](https://www.youtube.com/watch?v=lQsvTrRTBRs) • 14h ago
 
 ---
 
 **[Unitree G1 fully Body Teleoperation using a Pico4 and Twist2 Framework](https://www.reddit.com/r/robotics/comments/1qonvka/unitree_g1_fully_body_teleoperation_using_a_pico4/)**
 
-12h ago
+13h ago
 
 ---
 
@@ -96,7 +96,7 @@ Enjoy the videos and music you love, upload original content, and share it all w
 
 We're open-sourcing Asimov Legs, a bipedal robotic system. We've been building in public and sharing daily progress, now the full design is out. A complete leg design with 6 DOF per leg, RSU ankle architecture, passive toe joints. Built with off-the-shelf components and compatible with MJF 3D printing. What's included: - Full mechanical CAD (STEP files) - Motors & actuators list - XML files for simulation (MuJoCo) Most of the structure is MJF-printable plastic. The only part that needs CNC is the knee plate, and we spent weeks simplifying that from a 2-part assembly down to a single plate. If you don't have access to industrial MJF, casting or regular 3D printing works too. Repo for all: https://github.com/asimovinc/asimov-v0 Happy to answer questions about the design choices.
 
-22h ago
+23h ago
 
 ---
 
@@ -104,7 +104,7 @@ We're open-sourcing Asimov Legs, a bipedal robotic system. We've been building i
 
 For the first time in the history of Swaayatt Robots (स्वायत्त रोबोट्स), we have completely removed the human safety driver from our autonomous vehicle. This demo was performed in two parts. In the first part, there was no safety driver, but the passenger seat was occupied to press the kill switch in case of an emergency. In the second part, there was no human presence inside the vehicle at all.
 
-🔗 [youtu.be](https://youtu.be/br71Zw3Nq_A) • 2h ago
+🔗 [youtu.be](https://youtu.be/br71Zw3Nq_A) • 3h ago
 
 ---
 
@@ -124,7 +124,7 @@ The Motley Fool • 3h ago
 
 Robotics and virtual reality filled the science schedule aboard the International Space Station on Tuesday as the Expedition 74 crew promoted education and explored human research. The orbital trio also inspected safety equipment, worked on cargo swaps, and conducted Earth observations.
 
-NASA (.gov) • 12h ago
+NASA (.gov) • 13h ago
 
 ---
 
@@ -140,7 +140,7 @@ The Robot Report • 1d ago
 
 ADAM, Richtech's Azure-powered robot, now uses vision, voice and contextual data to improve retail workflows and customer interactions.
 
-Stock Titan • 18h ago
+Stock Titan • 19h ago
 
 ---
 
@@ -148,7 +148,7 @@ Stock Titan • 18h ago
 
 The most momentous day for ADAM since serving Jensen Huang a margarita....
 
-Sherwood News • 17h ago
+Sherwood News • 18h ago
 
 ---
 
@@ -156,7 +156,7 @@ Sherwood News • 17h ago
 
 Joint engineering effort with Microsoft AI Co-Innovation Labs enhances Richtech’s ADAM robot and extends intelligent automation across physical...
 
-GlobeNewswire • 18h ago
+GlobeNewswire • 19h ago
 
 ---
 
@@ -210,7 +210,7 @@ Fauna Robotics, a New York City–based startup founded by former Meta engineers
 
 📺 Kalil 4.0
 
-👁️ 607 • 👍 22 • 💬 1 • ⏱️ 0:52 • 3h ago
+👁️ 607 • 👍 22 • 💬 1 • ⏱️ 0:52 • 4h ago
 
 ---
 
@@ -280,7 +280,7 @@ Pacman Universe – Advanced Robotic Character Animation | StrEat Pacman Univers
 
 📺 StrEat
 
-👁️ 29K • 👍 67 • 15h ago
+👁️ 29K • 👍 67 • 16h ago
 
 ---
 
@@ -290,7 +290,7 @@ Robotics Stocks: RR Richtech Robotics Up 70%! #investingtips #moneytalks ✓ "MO
 
 📺 STOCK UP! with LARRY JONES
 
-👁️ 6K • 👍 310 • 💬 36 • ⏱️ 0:47 • 9h ago
+👁️ 6K • 👍 310 • 💬 36 • ⏱️ 0:47 • 10h ago
 
 ---
 

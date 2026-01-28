@@ -3,14 +3,14 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-01-28T07:49:27.740047+00:00'
+updated: '2026-01-28T08:34:37.988618+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- videos
-- social
 - news
+- social
+- videos
 - cryptocurrency
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** January 28, 2026 at 07:49 UTC  
+**Last Updated:** January 28, 2026 at 08:34 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -79,25 +79,25 @@ Rank #1
 
 **[This man filmed the reaction to bitcoin breaking $100 in 2013](https://www.reddit.com/r/Bitcoin/comments/1qox66j/this_man_filmed_the_reaction_to_bitcoin_breaking/)**
 
-6h ago
+7h ago
 
 ---
 
 **["Crypto is risky" Meanwhile:](https://www.reddit.com/r/Bitcoin/comments/1qoxz6c/crypto_is_risky_meanwhile/)**
 
-5h ago
+6h ago
 
 ---
 
 **[Nothing more delicious than a Bitcoin burger](https://www.reddit.com/r/Bitcoin/comments/1qp35kq/nothing_more_delicious_than_a_bitcoin_burger/)**
 
-1h ago
+2h ago
 
 ---
 
 **[still hodling](https://www.reddit.com/r/Bitcoin/comments/1qoarog/still_hodling/)**
 
-20h ago
+21h ago
 
 ---
 
@@ -105,7 +105,7 @@ Rank #1
 
 I'm a teenager from a third world country, and I'm glad to share that I'm finally achieving my goal. Building wealth in my country isn't as easy as it is in Europe or the US, especially at my age. Because of that, my friends have called me a cheapskate (and sometimes they've been right). Now that I've accumulated enough Bitcoin (an amount that feels sufficient to me), I can finally start spending future income on clothes, the gym, gifts for my girlfriend, and other things I've been putting off to keep investing. Having this nest egg at 19 feels like a huge accomplishment, and I'm proud to share it with you. I can finally enjoy typical teenage stuff without feeling guilty :)
 
-12h ago
+13h ago
 
 ---
 
@@ -117,7 +117,7 @@ I'm a teenager from a third world country, and I'm glad to share that I'm finall
 
 **[the first 365 days of January are always the hardest](https://www.reddit.com/r/Bitcoin/comments/1qosc5f/the_first_365_days_of_january_are_always_the/)**
 
-9h ago
+10h ago
 
 ---
 
@@ -129,7 +129,7 @@ I'm a teenager from a third world country, and I'm glad to share that I'm finall
 
 **[How it feels to say “i'm a crypto expert ” instead of “degen gambler.”](https://www.reddit.com/r/Bitcoin/comments/1qos9bh/how_it_feels_to_say_im_a_crypto_expert_instead_of/)**
 
-9h ago
+10h ago
 
 ---
 
@@ -137,7 +137,7 @@ I'm a teenager from a third world country, and I'm glad to share that I'm finall
 
 Proving value is the key to build anything I’m studied my ass off because I am free, not trading my life for paper. Working my ass off for SATS so I can live my life.
 
-9h ago
+10h ago
 
 ---
 
@@ -149,7 +149,7 @@ Proving value is the key to build anything I’m studied my ass off because I am
 
 The president said he isn't concerned about the dollar's recent declines, sending the greenback plunging even lower.
 
-CoinDesk • 10h ago
+CoinDesk • 11h ago
 
 ---
 
@@ -165,7 +165,7 @@ Yahoo Finance • 20h ago
 
 Katie Stockton, Fairlead, joins 'Fast Money' to take a technical look at bitcoin prices.
 
-CNBC • 8h ago
+CNBC • 9h ago
 
 ---
 
@@ -195,7 +195,7 @@ Bitcoin Magazine • 1d ago
 
 Tucker Carlson asks the new guest why Bitcoin can't replace the U.S. dollar.
 
-thestreet.com • 12h ago
+thestreet.com • 13h ago
 
 ---
 
@@ -248,7 +248,7 @@ rewards for mining operations will dwindle. What happens next?
 
 A list of known attacks against Bitcoin / crypto asset owning entities that occurred in meatspace. - jlopp/physical-bitcoin-attacks
 
-⬆️ 3 • 💬 0 • 12h ago • [GitHub](https://github.com/jlopp/physical-bitcoin-attacks)
+⬆️ 3 • 💬 0 • 13h ago • [GitHub](https://github.com/jlopp/physical-bitcoin-attacks)
 
 ---
 
@@ -264,7 +264,7 @@ Stargate UI
 
 For years, crypto investors have waited for a familiar miracle. Altcoin season. The moment when small coins suddenly outrun Bitcoin,
 
-⬆️ 1 • 💬 0 • 20h ago • [The Bit Gazette](https://thebitgazette.com/why-altcoin-season-may-not-happen-in-2026-as-bitcoin-keeps-control/)
+⬆️ 1 • 💬 0 • 21h ago • [The Bit Gazette](https://thebitgazette.com/why-altcoin-season-may-not-happen-in-2026-as-bitcoin-keeps-control/)
 
 ---
 
@@ -310,7 +310,7 @@ This is not a victory lap — it's a reset. When Tom Lee throws out a $200000–
 
 📺 The Bitcoin Revolution
 
-👁️ 2K • 👍 66 • 💬 72 • ⏱️ 8:58 • 13h ago
+👁️ 2K • 👍 66 • 💬 72 • ⏱️ 8:58 • 14h ago
 
 ---
 
@@ -320,7 +320,7 @@ Silver has exploded, gold is ripping, and Bitcoin looks left behind — but hist
 
 📺 Swan Bitcoin
 
-👁️ 35K • 👍 2K • 💬 282 • ⏱️ 17:47 • 8h ago
+👁️ 35K • 👍 2K • 💬 282 • ⏱️ 17:47 • 9h ago
 
 ---
 
@@ -330,7 +330,7 @@ Take Control of Your Retirement — Grow Crypto & Gold Tax-Advantaged. https://w
 
 📺 Savvy Finance
 
-👁️ 10K • 👍 422 • 💬 12 • ⏱️ 19:52 • 14h ago
+👁️ 10K • 👍 422 • 💬 12 • ⏱️ 19:52 • 15h ago
 
 ---
 
@@ -360,7 +360,7 @@ I didn't know that this many banks are getting ready for a crypto push. The link
 
 📺 Digital Asset News
 
-👁️ 8K • 👍 737 • 💬 41 • ⏱️ 23:24 • 11h ago
+👁️ 8K • 👍 737 • 💬 41 • ⏱️ 23:24 • 12h ago
 
 ---
 
@@ -370,7 +370,7 @@ NEW WEEKLY REPORTS, NEW SUBSCRIBERS GET ACCESS HERE → https://tiainvestor.com/
 
 📺 Michael Pizzino
 
-👁️ 5K • 👍 554 • 💬 25 • ⏱️ 8:45 • 7h ago
+👁️ 5K • 👍 554 • 💬 25 • ⏱️ 8:45 • 8h ago
 
 ---
 
@@ -380,7 +380,7 @@ Tom Lee Just Said The UNTHINKABLE About Bitcoin & Ethereum! [2026 New Prediction
 
 📺 Crypto Nutshell
 
-👁️ 21K • 👍 608 • 💬 86 • ⏱️ 14:37 • 16h ago
+👁️ 21K • 👍 608 • 💬 86 • ⏱️ 14:37 • 17h ago
 
 ---
 

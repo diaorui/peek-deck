@@ -3,14 +3,14 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-01-28T07:49:27.731577+00:00'
+updated: '2026-01-28T08:34:37.980355+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- videos
-- social
 - news
+- social
+- videos
 - repositories
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 AI news, discussions, and developments
 
-**Last Updated:** January 28, 2026 at 07:49 UTC  
+**Last Updated:** January 28, 2026 at 08:34 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -39,7 +39,7 @@ AI news, discussions, and developments
 
 **[Trump’s acting cyber chief uploaded sensitive files into a public version of ChatGPT. The interim director of the Cybersecurity and Infrastructure Security Agency triggered an internal cybersecurity warning with the uploads — and a DHS-level damage assessment.](https://www.reddit.com/r/artificial/comments/1qozsna/trumps_acting_cyber_chief_uploaded_sensitive/)**
 
-🔗 [politico.com](https://www.politico.com/news/2026/01/27/cisa-madhu-gottumukkala-chatgpt-00749361) • 4h ago
+🔗 [politico.com](https://www.politico.com/news/2026/01/27/cisa-madhu-gottumukkala-chatgpt-00749361) • 5h ago
 
 ---
 
@@ -53,7 +53,7 @@ Tried ClawdBot (now MoltBot) on a freshly installed system. At first? 🔥 Insan
 
 **[Pinterest lays off hundreds, citing need for 'AI-proficient talent'](https://www.reddit.com/r/artificial/comments/1qotqu1/pinterest_lays_off_hundreds_citing_need_for/)**
 
-🔗 [sfgate.com](https://www.sfgate.com/tech/article/pinterest-layoffs-hundreds-ai-21318302.php) • 8h ago
+🔗 [sfgate.com](https://www.sfgate.com/tech/article/pinterest-layoffs-hundreds-ai-21318302.php) • 9h ago
 
 ---
 
@@ -61,7 +61,7 @@ Tried ClawdBot (now MoltBot) on a freshly installed system. At first? 🔥 Insan
 
 I’ve been messing around with all these AI tools lately—Suno, that ACE vocal thing, Udio—and I realized something that kind of creeps me out. I gave them all the same prompt: "Create a genre that doesn't exist. Make it as dissonant and ugly as possible." I wanted clashing scales, vocals that sounded like they were actually dying, just total sonic chaos. And you know what? They couldn't do it. Every single one of them spit out something that sounded... professional. Mainstream. Even when I told them to go off-key, it felt like they were just "pretending" to be bad within a very safe, melodic box. It hit me then: AI isn't capable of true ugliness because it doesn't understand intent. To the real creators out there: your biggest advantage isn't being "perfect"—the AI has already won that race. Your advantage is being unexpected. It's the emotions that don't have a tag yet and the styles that sound "wrong" until they feel right。
 
-54m ago
+1h ago
 
 ---
 
@@ -77,7 +77,7 @@ Google released new developer tools for Google AI Pro and Ultra subscribers.[1] 
 
 Generic AI can summarize documents and answer simple questions. But it fails at complex, specialized work in industries like aerospace, semiconductors, manufacturing, and logistics. The core issue isn't models, it's the context or scaffolding around them When enterprises try to build expert AI, they face a hard tradeoff: Build it yourself: Fully customizable, but requires scarce AI expertise, months of development, and constant optimization. Buy off-the-shelf: Fast to deploy, but inflexible. Hard to customize and doesn't scale across use cases. We took a different approach: a platform approach with a unified context layer specialized for domain-specific tasks. Today, we launched Agent Composer, with orchestration capabilities that enable: Multi-step reasoning (decompose problems, iterate solutions, revise outputs) Multi-tool coordination (docs, logs, web search, APIs in the same workflow) Hybrid agentic behavior (dynamic agent steps + static workflow control) It works: Advanced manufacturing: root cause analysis from 8 hours to 20 minutes Global consulting firm: research from hours to seconds Tech-enabled 3PL: 60x faster issue resolution Test equipment: code generation in minutes instead of days Spending time on the integrating context with AI worked for us on Enterprise AI problems. To get more details about our approach, check out the blog post: https://contextual.ai/blog/introducing-agent-composer
 
-12h ago
+13h ago
 
 ---
 
@@ -85,7 +85,7 @@ Generic AI can summarize documents and answer simple questions. But it fails at 
 
 Using ChatGPT, Midjourney, and automation tools is great, but I've hit a plateau. The real challenge isn't finding tools-it's making them work together to grow the business. It feels like collecting engine parts without building the car. What I'm struggling with: Connecting AI content to actual sales funnels Tracking if AI content performs better than human-created Actually measuring ROI beyond "saves time" Most talk is about which tool is best, not how to build an AI system that delivers results. Has anyone moved beyond tools to systems? What does that look like? I saw a take from a ROI marketing agency that approaches AI as an integrated system, not just tools. It made me wonder if we're missing the bigger picture. Anyone else thinking about AI this way?
 
-6h ago
+7h ago
 
 ---
 
@@ -93,7 +93,7 @@ Using ChatGPT, Midjourney, and automation tools is great, but I've hit a plateau
 
 Discover what Moltbot (formerly Clawdbot) is, why it’s going viral, key features, security risks, use cases, and whether it’s safe to use in 2026.
 
-🔗 [techputs](https://techputs.com/viral-ai-assistant-clawdbot-moltbot/) • 4h ago
+🔗 [techputs](https://techputs.com/viral-ai-assistant-clawdbot-moltbot/) • 5h ago
 
 ---
 
@@ -101,7 +101,7 @@ Discover what Moltbot (formerly Clawdbot) is, why it’s going viral, key featur
 
 Ever since I started using LLMs in early 2023, my life has genuinely changed. Productivity and the speed of getting deep information just increased by 10x. Curious to know what are some of your favorite LLMs in 2026? For most of 2023-24, I was a diehard ChatGPT user. Used it for almost everything, helped me launch my e-commerce brands, systematize my marketing agency, and just general day-to-day decision making. Entering 2025, GPT-4 and 5 started feeling really robotic. It lost that human touch as more users flooded in. GPT got overtaken by Gemini with the launch of Nanobanana 1 and 2. Content creation and creative generation became so much quicker, more accurate, and sharper. Video generation with Veo3 was a game changer for creating briefs for designers. That said, Gemini still lacked the human warmth that GPT 4.0 had. The vibe coding/build function though, it was Incredible. Generated a full landing page in a matter of minutes. Now in 2026, I've ported 90% of my work to Anthropic's Claude. I work with a ton of data now, and Claude's coding capabilities can break down hundreds of spreadsheets in minutes. Among the 3 LLMs, Claude feels the closest to talking to an actual human. The analysis and responses are way more concise compared to GPT and Gemini. My top 3: Claude: Overall champion. Strong coding capabilities, responses that actually sound human, and solid copywriting skills. Gemini: Runner-up. Great all-rounder with Nanobanana, Veo3, app building, and presentation slides. GPT: Decent... meh. What are your takes? Anyone doing anything crazy with these that I should know about? Would love to hear your thoughts and swap ideas. Looking at more ways too amplify my productivity within the marketing and business space.
 
-23h ago
+1d ago
 
 ---
 
@@ -109,7 +109,7 @@ Ever since I started using LLMs in early 2023, my life has genuinely changed. Pr
 
 Philips will soon show off its new AI-ready digital signage at ISE 2026 in Barcelona. The 5000 series is the "most intelligent" to date.
 
-🔗 [PC Guide](https://www.pcguide.com/news/philips-unveils-first-ai-ready-advertising-boards-digital-signage-ranging-from-32-to-98-to-be-demoed-soon/) • 16h ago
+🔗 [PC Guide](https://www.pcguide.com/news/philips-unveils-first-ai-ready-advertising-boards-digital-signage-ranging-from-32-to-98-to-be-demoed-soon/) • 17h ago
 
 ---
 
@@ -121,7 +121,7 @@ Philips will soon show off its new AI-ready digital signage at ISE 2026 in Barce
 
 Accelerating science writing and collaboration with AI.
 
-OpenAI • 14h ago
+OpenAI • 15h ago
 
 ---
 
@@ -129,7 +129,7 @@ OpenAI • 14h ago
 
 Cisco chief executive Chuck Robbins compares AI to the dotcom bubble of the early 2000s.
 
-BBC • 7h ago
+BBC • 8h ago
 
 ---
 
@@ -137,7 +137,7 @@ BBC • 7h ago
 
 The Ministry of Health and Welfare targets all 17 central hospitals in the regions to deploy AI-based systems for monitoring conditions, supporting diagnosis, and automating tasks.
 
-Healthcare IT News • 30m ago
+Healthcare IT News • 1h ago
 
 ---
 
@@ -145,7 +145,7 @@ Healthcare IT News • 30m ago
 
 Microsoft released its in-house chip that will directly compete with Nvidia.
 
-The Motley Fool • 30m ago
+The Motley Fool • 1h ago
 
 ---
 
@@ -153,7 +153,7 @@ The Motley Fool • 30m ago
 
 Daily use of generative AI is associated with a 30% greater risk for at least moderate depressive symptoms in US adults compared to nonuse, a new study suggests.
 
-Medscape • 51m ago
+Medscape • 1h ago
 
 ---
 
@@ -169,7 +169,7 @@ The Guardian • 5h ago
 
 Google Developer Program (GDP) premium benefits are now included in Google AI Pro and Google AI Ultra.
 
-blog.google • 13h ago
+blog.google • 14h ago
 
 ---
 
@@ -177,7 +177,7 @@ blog.google • 13h ago
 
 Gemini 3 Pro and other AI tools are now available globally through the Google AI Plus plan, which is $7.99 per month in the United States.
 
-techcrunch.com • 13h ago
+techcrunch.com • 14h ago
 
 ---
 
@@ -185,7 +185,7 @@ techcrunch.com • 13h ago
 
 AI Overviews may get it right more often with the move to Gemini 3.
 
-Ars Technica • 14h ago
+Ars Technica • 15h ago
 
 ---
 
@@ -193,7 +193,7 @@ Ars Technica • 14h ago
 
 Dario Amodei questions if human systems are ready to handle the ‘almost unimaginable power’ that is ‘potentially imminent’
 
-The Guardian • 5h ago
+The Guardian • 6h ago
 
 ---
 
@@ -257,7 +257,7 @@ Opinion: Autonomous agents may generate millions of lines of code, but shipping 
 
 SERA is the first in our family of Open Coding Agents, achieving state-of-the-art performance at low cost.
 
-⬆️ 173 • 💬 24 • 14h ago • [allenai.org](https://allenai.org/blog/open-coding-agents)
+⬆️ 173 • 💬 24 • 15h ago • [allenai.org](https://allenai.org/blog/open-coding-agents)
 
 ---
 
@@ -285,7 +285,7 @@ Clawdbot full tutorial. How to install Clawdbot / Moltbot. Use cases of Clawd. C
 
 📺 AI Search
 
-👁️ 16K • 👍 1K • 💬 277 • ⏱️ 28:44 • 4h ago
+👁️ 16K • 👍 1K • 💬 277 • ⏱️ 28:44 • 5h ago
 
 ---
 
@@ -295,7 +295,7 @@ China's AI race just shifted. Moonshot quietly rolled out Kimi K2.5, and the jum
 
 📺 AI Revolution
 
-👁️ 10K • 👍 396 • 💬 27 • ⏱️ 12:41 • 8h ago
+👁️ 10K • 👍 396 • 💬 27 • ⏱️ 12:41 • 9h ago
 
 ---
 
@@ -345,7 +345,7 @@ Anthropic CEO Dario Amodei called for an embargo on the sale of chips and data c
 
 📺 ABC News
 
-👁️ 4K • 👍 48 • 💬 20 • ⏱️ 3:17 • 9h ago
+👁️ 4K • 👍 48 • 💬 20 • ⏱️ 3:17 • 10h ago
 
 ---
 
@@ -355,7 +355,7 @@ Access Every Image Generator in OpenArt https://roboverse-ai.com/images In this 
 
 📺 Roboverse
 
-👁️ 9K • 💬 9 • ⏱️ 13:19 • 17h ago
+👁️ 9K • 💬 9 • ⏱️ 13:19 • 18h ago
 
 ---
 
@@ -365,7 +365,7 @@ Meta is giving Corning up to $6 billion for fiber-optic cable in its AI data cen
 
 📺 CNBC
 
-👁️ 137K • 👍 3K • 💬 220 • ⏱️ 17:45 • 16h ago
+👁️ 137K • 👍 3K • 💬 220 • ⏱️ 17:45 • 17h ago
 
 ---
 
@@ -403,7 +403,7 @@ Kimi K2.5 is a native multimodal agentic model with 1T parameters, excelling in 
 
 `image-text-to-text`
 
-⬇️ 10,965 • ❤️ 703 • 4h ago
+⬇️ 10,965 • ❤️ 703 • 5h ago
 
 ---
 
@@ -415,7 +415,7 @@ VibeVoice-ASR is a unified speech-to-text model capable of processing up to 60 m
 
 `automatic-speech-recognition` `8.7B`
 
-⬇️ 76,679 • ❤️ 672 • 18h ago
+⬇️ 76,679 • ❤️ 672 • 19h ago
 
 ---
 
@@ -451,7 +451,7 @@ Z-Image is an undistilled, high-fidelity text-to-image diffusion transformer mod
 
 `text-to-image`
 
-⬇️ 0 • ❤️ 453 • 15h ago
+⬇️ 0 • ❤️ 453 • 16h ago
 
 ---
 
@@ -463,7 +463,7 @@ DeepSeek-OCR-2 is a multilingual vision-language model for image-to-text tasks, 
 
 `image-text-to-text` `3.4B`
 
-⬇️ 0 • ❤️ 391 • 20h ago
+⬇️ 0 • ❤️ 391 • 21h ago
 
 ---
 
@@ -487,7 +487,7 @@ Chroma-4B is a real-time, end-to-end spoken dialogue model capable of speech und
 
 `any-to-any` `5.9B`
 
-⬇️ 5,776 • ❤️ 267 • 4h ago
+⬇️ 5,776 • ❤️ 267 • 5h ago
 
 ---
 
@@ -662,7 +662,7 @@ Browser automation CLI for AI agents
 
 `TypeScript`
 
-⭐ 11.1k • 🔱 611 • 16h ago
+⭐ 11.1k • 🔱 611 • 17h ago
 
 ---
 
@@ -712,7 +712,7 @@ Marketing skills for Claude Code and AI agents. CRO, copywriting, SEO, analytics
 
 `claude` `codex` `marketing`
 
-⭐ 5.0k • 🔱 537 • 6h ago
+⭐ 5.0k • 🔱 537 • 7h ago
 
 ---
 
@@ -722,7 +722,7 @@ The Ultimate Collection of 200+ Agentic Skills for Claude Code/Antigravity/Curso
 
 `Python` `agentic-skills` `ai-agents` `antigravity` `autonomous-coding` `claude-code`
 
-⭐ 4.6k • 🔱 1.1k • 1h ago
+⭐ 4.6k • 🔱 1.1k • 2h ago
 
 ---
 
