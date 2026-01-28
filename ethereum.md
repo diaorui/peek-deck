@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-01-28T05:29:30.696630+00:00'
+updated: '2026-01-28T05:54:01.478621+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
+- videos
 - social
 - news
 - cryptocurrency
-- videos
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** January 28, 2026 at 05:29 UTC  
+**Last Updated:** January 28, 2026 at 05:54 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -70,7 +70,7 @@ No max supply
 
 **[Pouring one out for Week in Ethereum News 🥃 Website is offline. Thank you Evan Van Ness for your tireless efforts serving the Ethereum community. 🙏](https://www.reddit.com/r/ethereum/comments/1qp227f/pouring_one_out_for_week_in_ethereum_news_website/)**
 
-28m ago
+52m ago
 
 ---
 
@@ -78,7 +78,7 @@ No max supply
 
 Hi r/ethereum, I’ve been running a personal experiment called FitVow. The idea is simple: I stake real ETH into a smart contract, commit to weekly physical activity goals, and let the contract enforce the rules without a trusted referee. Each week, an Android app reads physical activity data from my smartwatch and publishes it on-chain (e.g. runs, workouts and etc). The contract uses that data to decide whether that week’s goals were met. If a week fails: that week creates an enforceable fine (paid out from the stake) enforcement is permissionless (anyone can trigger it) the fine is split between the enforcer (caller) and a charity wallet (Giveth) At the end of the challenge, I’m allowed to withdraw whatever remains of the stake after any fines. There’s no backend deciding outcomes and no admin override. Once deployed, the rules are the rules. This is not a product — just an experiment exploring whether Ethereum is a good tool for credible self-commitment outside of DeFi. Live dashboard (reads directly from on-chain data): https://fitvow.pedroaugusto.dev/ Technical write-up (architecture + security assumptions): https://pedrooaugusto.github.io/blog/posts/making-missed-workouts-cost-money-with-smart-contracts/ I’d love feedback — especially on whether this feels like a reasonable use of Ethereum, and what you’d poke holes in.
 
-12h ago
+13h ago
 
 ---
 
@@ -160,7 +160,7 @@ The Motley Fool • 1d ago
 
 An Ethereum whale moved 50,000 ETH on Sunday after approximately nine years of dormancy, according to onchain data.
 
-The Block • 1d ago
+The Block • 2d ago
 
 ---
 
@@ -256,7 +256,7 @@ This video provides a professional Elliott Wave and technical analysis of Ethere
 
 📺 More Crypto Online
 
-👁️ 2K • 👍 114 • 💬 9 • ⏱️ 4:08 • 11h ago
+👁️ 2K • 👍 114 • 💬 9 • ⏱️ 4:08 • 12h ago
 
 ---
 
@@ -316,7 +316,7 @@ This video provides a professional Elliott Wave and technical analysis of Ethere
 
 📺 More Crypto Online
 
-👁️ 2K • 👍 98 • 💬 6 • ⏱️ 4:04 • 23h ago
+👁️ 2K • 👍 98 • 💬 6 • ⏱️ 4:04 • 1d ago
 
 ---
 

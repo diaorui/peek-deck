@@ -3,7 +3,7 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-01-28T05:29:30.682478+00:00'
+updated: '2026-01-28T05:54:01.464333+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
@@ -18,7 +18,7 @@ data_types:
 
 AI news, discussions, and developments
 
-**Last Updated:** January 28, 2026 at 05:29 UTC  
+**Last Updated:** January 28, 2026 at 05:54 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -47,7 +47,7 @@ AI news, discussions, and developments
 
 Tried ClawdBot (now MoltBot) on a freshly installed system. At first? 🔥 Insane. It found a pitch deck buried in my messy external HDD and even sent it on WhatsApp. Super impressive. Few hours later — I get an Amazon alert: • Login at 2:40 AM • Different location • Logged in from Windows • I’m on Linux • I did NOT log in Could be a false alert (I have 2FA), but the timing freaked me out. Tried uninstalling the bot — no clear guide. Had to dig into code, found it running as a system service, manually removed everything. Realized my mistake: Chrome was installed → password manager + sessions were there. ⚠️ Lesson: These tools are powerful, but don’t install them unless you fully understand what access you’re giving. Not accusing. Just sharing experience. If you know a guide to uninstall if it’s available on the site, please drop it.
 
-6h ago
+7h ago
 
 ---
 
@@ -101,7 +101,7 @@ Philips will soon show off its new AI-ready digital signage at ISE 2026 in Barce
 
 https://reddit.com/link/1qomiad/video/9x9ozcxxsxfg1/player I've been testing how far AI tools have come for creating full commercial ads from scratch and it's way easier than before First I used claude to generate the story structure, then Seedream 4.5 and Flux Pro 2 for the initial shots. to keep the character and style consistent across scenes i used nano banana pro as an edit model. this let me integrate product placement (lego f1 cars) while keeping the same 3d pixar style throughout all the scenes. For animation i ran everything through Sora 2 using multiple cuts in the same prompt so we can get different camera angles in one generation. Then i just mixed the best parts from different generations and added AI generated music. This workflow is still not perfect but it is getting there and improving a lot. I made a full tutorial breaking down how i did it step by step: 👉 https://www.youtube.com/watch?v=EzLS5L4VgN8 Let me know if you have any questions or if you have a better workflow for keeping consistency in AI commercials, i'd love to learn!
 
-10h ago
+11h ago
 
 ---
 
@@ -129,7 +129,7 @@ BBC • 5h ago
 
 Accelerating science writing and collaboration with AI.
 
-OpenAI • 12h ago
+OpenAI • 13h ago
 
 ---
 
@@ -137,7 +137,7 @@ OpenAI • 12h ago
 
 Semiconductor stocks look poised for further gains as investment in artificial intelligence (AI) infrastructure accelerates.
 
-The Motley Fool • 29m ago
+The Motley Fool • 54m ago
 
 ---
 
@@ -145,7 +145,7 @@ The Motley Fool • 29m ago
 
 To counter mounting consumer distrust and the ‘AI slop’ narrative, AI platforms are spending big on brand ads.
 
-Digiday • 27m ago
+Digiday • 51m ago
 
 ---
 
@@ -185,7 +185,7 @@ Ars Technica • 12h ago
 
 Chinese companies are releasing new AI models and striving to gain an edge in the AI application race as the country's biggest holiday of the year nears.
 
-CNBC • 2h ago
+CNBC • 3h ago
 
 ---
 
@@ -265,7 +265,7 @@ SERA is the first in our family of Open Coding Agents, achieving state-of-the-ar
 
 AISLE's autonomous analyzer found all 12 CVEs in the January 2026 coordinated release of OpenSSL, the open-source cryptographic library that underp...
 
-⬆️ 128 • 💬 75 • 3h ago • [AISLE](https://aisle.com/blog/aisle-discovered-12-out-of-12-openssl-vulnerabilities)
+⬆️ 128 • 💬 75 • 4h ago • [AISLE](https://aisle.com/blog/aisle-discovered-12-out-of-12-openssl-vulnerabilities)
 
 ---
 
@@ -285,7 +285,7 @@ Dario Amodei, the CEO of the AI company Anthropic, joined "Top Story" to discuss
 
 📺 NBC News
 
-👁️ 12K • 👍 264 • 💬 96 • ⏱️ 18:01 • 13h ago
+👁️ 12K • 👍 264 • 💬 96 • ⏱️ 18:01 • 14h ago
 
 ---
 
@@ -305,7 +305,7 @@ This free AI t-shirt design tutorial is sponsored by .store domains. Get your .s
 
 📺 Wholesale Ted
 
-👁️ 11K • 👍 917 • 💬 64 • ⏱️ 21:39 • 10h ago
+👁️ 11K • 👍 917 • 💬 64 • ⏱️ 21:39 • 11h ago
 
 ---
 
@@ -355,7 +355,7 @@ The latest AI News. Learn about LLMs, Gen AI and get ready for the rollout of AG
 
 📺 Wes Roth
 
-👁️ 25K • 👍 822 • 💬 178 • ⏱️ 12:43 • 2d ago
+👁️ 25K • 👍 822 • 💬 178 • ⏱️ 12:43 • 3d ago
 
 ---
 
@@ -403,7 +403,7 @@ Kimi K2.5 is a native multimodal agentic model with 1T parameters, excelling in 
 
 `image-text-to-text`
 
-⬇️ 10,965 • ❤️ 666 • 2h ago
+⬇️ 10,965 • ❤️ 666 • 3h ago
 
 ---
 
@@ -662,7 +662,7 @@ Browser automation CLI for AI agents
 
 `TypeScript`
 
-⭐ 11.1k • 🔱 607 • 13h ago
+⭐ 11.1k • 🔱 607 • 14h ago
 
 ---
 
@@ -692,7 +692,7 @@ Ralph is an autonomous AI agent loop that runs repeatedly until all PRD items ar
 
 `Vue`
 
-⭐ 6.4k • 🔱 1.1k • 45m ago
+⭐ 6.4k • 🔱 1.1k • 1h ago
 
 ---
 
@@ -702,7 +702,7 @@ LLM驱动的 A/H/美股智能分析器，多数据源行情 + 实时新闻 + Gem
 
 `Python` `agent` `ai` `aigc` `gemini` `llm`
 
-⭐ 6.3k • 🔱 6.9k • 14h ago
+⭐ 6.3k • 🔱 6.9k • 15h ago
 
 ---
 
@@ -722,7 +722,7 @@ The Ultimate Collection of 200+ Agentic Skills for Claude Code/Antigravity/Curso
 
 `Python` `agentic-skills` `ai-agents` `antigravity` `autonomous-coding` `claude-code`
 
-⭐ 4.5k • 🔱 1.0k • 11h ago
+⭐ 4.5k • 🔱 1.0k • 12h ago
 
 ---
 

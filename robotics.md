@@ -3,7 +3,7 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-01-28T05:29:30.699795+00:00'
+updated: '2026-01-28T05:54:01.481900+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
@@ -17,7 +17,7 @@ data_types:
 
 Robotics research and industry news
 
-**Last Updated:** January 28, 2026 at 05:29 UTC  
+**Last Updated:** January 28, 2026 at 05:54 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -36,7 +36,7 @@ Robotics research and industry news
 
 Hey all, a quick showcase of the Sprout robot from Fauna Robotics. I’m a postdoc in Talmo Pereira’s lab at the Salk Institute working on computational models for motor control. In my experience, robots usually take weeks or months of network, hardware, and software debugging before you can even start experiments. This was the opposite. We turned it on and were up and running immediately, which made me appreciate how much legwork must’ve gone into making the setup so smooth. So far we’ve: - Got Sprout walking, crouching, crawling, dancing and even jumping. - The robot was able to correct for perturbations and imbalances showing robust control policies. - Done full-body VR teleop with a Meta Quest (Fauna’s app worked great) Big win is that it actually was able to successfully deploy robust control policies out of the box. Setup was straightforward, and it feels physically safe. I held the safety harness like an overbearing parent, but the robot didn’t need me. It was gentle, regained balance, and stopped on its own. No affiliation with Fauna Robotics, just sharing an academic lab evaluation of a commercially available research platform. Impressive performance so far and excited to start training policies for more complex tasks. What new tasks should we train Sprout to perform?
 
-12h ago
+13h ago
 
 ---
 
@@ -44,7 +44,7 @@ Hey all, a quick showcase of the Sprout robot from Fauna Robotics. I’m a postd
 
 From Lukas Ziegler on 𝕏: https://x.com/lukas_m_ziegler/status/2016112237019042259 AgXeed website: https://www.agxeed.com/
 
-17h ago
+18h ago
 
 ---
 
@@ -82,7 +82,7 @@ From Eren Chen on 𝕏: https://x.com/ErenChenAI/status/2015503512734441800
 
 Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.
 
-🔗 [youtube.com](https://www.youtube.com/watch?v=lQsvTrRTBRs) • 10h ago
+🔗 [youtube.com](https://www.youtube.com/watch?v=lQsvTrRTBRs) • 11h ago
 
 ---
 
@@ -104,7 +104,7 @@ We're open-sourcing Asimov Legs, a bipedal robotic system. We've been building i
 
 For the first time in the history of Swaayatt Robots (स्वायत्त रोबोट्स), we have completely removed the human safety driver from our autonomous vehicle. This demo was performed in two parts. In the first part, there was no safety driver, but the passenger seat was occupied to press the kill switch in case of an emergency. In the second part, there was no human presence inside the vehicle at all.
 
-🔗 [youtu.be](https://youtu.be/br71Zw3Nq_A) • 6m ago
+🔗 [youtu.be](https://youtu.be/br71Zw3Nq_A) • 30m ago
 
 ---
 
@@ -156,7 +156,7 @@ Global Times • 1d ago
 
 A new humanoid robot named Sprout, developed by Fauna Robotics, is making its debut. Unlike sleek and powerful-looking machines from companies like Tesla, Sprout is designed to be approachable and friendly.
 
-KSL.com • 5h ago
+KSL.com • 6h ago
 
 ---
 
@@ -164,7 +164,7 @@ KSL.com • 5h ago
 
 EMO the robot learned how its silicone lips would move in response to its 26 facial motors by staring at its reflection.
 
-Live Science • 12h ago
+Live Science • 13h ago
 
 ---
 
@@ -188,7 +188,7 @@ Nature • 1d ago
 
 Boston Dynamics' Atlas appears to have an edge over Tesla's Optimus.
 
-The Motley Fool • 44m ago
+The Motley Fool • 1h ago
 
 ---
 
@@ -272,7 +272,7 @@ Robotics Stocks: RR Richtech Robotics Up 70%! #investingtips #moneytalks ✓ "MO
 
 📺 STOCK UP! with LARRY JONES
 
-👁️ 5K • 👍 274 • 💬 38 • ⏱️ 0:47 • 7h ago
+👁️ 5K • 👍 274 • 💬 38 • ⏱️ 0:47 • 8h ago
 
 ---
 
@@ -282,7 +282,7 @@ Fauna Robotics, a New York City–based startup founded by former Meta engineers
 
 📺 Kalil 4.0
 
-👁️ 294 • 👍 9 • ⏱️ 0:52 • 1h ago
+👁️ 294 • 👍 9 • ⏱️ 0:52 • 2h ago
 
 ---
 

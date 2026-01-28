@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-01-28T05:29:30.690733+00:00'
+updated: '2026-01-28T05:54:01.472700+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
+- videos
 - social
 - news
 - cryptocurrency
-- videos
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** January 28, 2026 at 05:29 UTC  
+**Last Updated:** January 28, 2026 at 05:54 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -85,7 +85,7 @@ Rank #1
 
 **[Real 🤣](https://www.reddit.com/r/Bitcoin/comments/1qoxu5d/real/)**
 
-3h ago
+4h ago
 
 ---
 
@@ -105,13 +105,13 @@ Rank #1
 
 I'm a teenager from a third world country, and I'm glad to share that I'm finally achieving my goal. Building wealth in my country isn't as easy as it is in Europe or the US, especially at my age. Because of that, my friends have called me a cheapskate (and sometimes they've been right). Now that I've accumulated enough Bitcoin (an amount that feels sufficient to me), I can finally start spending future income on clothes, the gym, gifts for my girlfriend, and other things I've been putting off to keep investing. Having this nest egg at 19 feels like a huge accomplishment, and I'm proud to share it with you. I can finally enjoy typical teenage stuff without feeling guilty :)
 
-10h ago
+11h ago
 
 ---
 
 **[Rule 11](https://www.reddit.com/r/Bitcoin/comments/1qoe2h3/rule_11/)**
 
-15h ago
+16h ago
 
 ---
 
@@ -123,7 +123,7 @@ I'm a teenager from a third world country, and I'm glad to share that I'm finall
 
 **[Forever😀](https://www.reddit.com/r/Bitcoin/comments/1qofr38/forever/)**
 
-14h ago
+15h ago
 
 ---
 
@@ -163,7 +163,7 @@ Decrypt • 5h ago
 
 DXY falls below 96 for the first time since 2022, signaling possible bullish moves for Bitcoin.
 
-Yahoo Finance • 43m ago
+Yahoo Finance • 1h ago
 
 ---
 
@@ -195,7 +195,7 @@ CoinDesk • 1d ago
 
 A Bitcoin-themed watch limited to 100 pieces has been added to Jacob & Co.'s Epic X Bridges collection through a partnership with Bitcoin mining company GoMining. GoMining recently announced Epic X GoMining, a 44 mm skeleton dial Bitcoin-themed Jacob &...
 
-Yahoo Finance • 9h ago
+Yahoo Finance • 10h ago
 
 ---
 
@@ -288,7 +288,7 @@ Transform HN comment threads into executive intelligence. AI analyzes discussion
 
 **[Show HN: I could build the translation tool I've wanted for 10 years](https://news.ycombinator.com/item?id=46786231)**
 
-⬆️ 1 • 💬 1 • 8h ago
+⬆️ 1 • 💬 1 • 9h ago
 
 ---
 
@@ -328,7 +328,7 @@ As the stock market witnesses high volatility, experts anticipate potential shar
 
 📺 Paul Barron Network
 
-👁️ 49K • 👍 3K • 💬 168 • ⏱️ 17:32 • 8h ago
+👁️ 49K • 👍 3K • 💬 168 • ⏱️ 17:32 • 9h ago
 
 ---
 
