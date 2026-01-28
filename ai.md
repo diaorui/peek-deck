@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-01-28T19:29:44.479371+00:00'
+updated: '2026-01-28T19:53:48.899648+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- news
+- social
 - videos
 - repositories
-- social
+- news
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** January 28, 2026 at 19:29 UTC  
+**Last Updated:** January 28, 2026 at 19:53 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -43,19 +43,19 @@ AI news, discussions, and developments
 
 ---
 
+**[AI is officially starting to mess with my income](https://www.reddit.com/r/artificial/comments/1qphvl5/ai_is_officially_starting_to_mess_with_my_income/)**
+
+More and more of my freelance clients are turning to "vibe coding" instead of hiring me. Whether AI is doing a good job or whether it can create production-ready apps doesn't really matter, my clients don't care because they never end up moving past the MVP phase (something I already knew before AI). All the money in freelance work is basically in MVP, and AI coding agents are perfect for developing MVPs that go nowhere.
+
+2h ago
+
+---
+
 **[Top Trump official used ChatGPT to draft agency AI policies | Politico](https://www.reddit.com/r/artificial/comments/1qpav8a/top_trump_official_used_chatgpt_to_draft_agency/)**
 
 Unsealed legal documents reveal Meta, TikTok, and Google purposefully targeted children for addiction, ICE raids stall GOP in Minnesota, Trump targets Cuba, Oregon's voter rolls stay private, the CIA moves into Venezuela, Trump Cyber Chief accidentally uploads policies to ChatGPT, Meta blocks links
 
 🔗 [Instrumental Communications](https://www.instrumentalcomms.com/blog/unsealed-docs-reveal-big-tech-targets-kids#ai) • 6h ago
-
----
-
-**[AI is officially starting to mess with my income](https://www.reddit.com/r/artificial/comments/1qphvl5/ai_is_officially_starting_to_mess_with_my_income/)**
-
-More and more of my freelance clients are turning to "vibe coding" instead of hiring me. Whether AI is doing a good job or whether it can create production-ready apps doesn't really matter, my clients don't care because they never end up moving past the MVP phase (something I already knew before AI). All the money in freelance work is basically in MVP, and AI coding agents are perfect for developing MVPs that go nowhere.
-
-1h ago
 
 ---
 
@@ -71,7 +71,7 @@ After the Claude/Anthropic incident where AI was used in a large-scale cyberatta
 
 DeepMind’s AlphaGenome AI model could help solve the problem of predicting how variations in noncoding DNA shape gene expression
 
-🔗 [Scientific American](https://www.scientificamerican.com/article/google-deepmind-unleashes-new-ai-alphagenome-to-investigate-dnas-dark-matter/) • 2h ago
+🔗 [Scientific American](https://www.scientificamerican.com/article/google-deepmind-unleashes-new-ai-alphagenome-to-investigate-dnas-dark-matter/) • 3h ago
 
 ---
 
@@ -87,7 +87,13 @@ I just saw a post discussing clawdbot, about someone not finding a usecase for a
 
 Tried ClawdBot (now MoltBot) on a freshly installed system. At first? 🔥 Insane. It found a pitch deck buried in my messy external HDD and even sent it on WhatsApp. Super impressive. Few hours later — I get an Amazon alert: • Login at 2:40 AM • Different location • Logged in from Windows • I’m on Linux • I did NOT log in Could be a false alert (I have 2FA), but the timing freaked me out. Tried uninstalling the bot — no clear guide. Had to dig into code, found it running as a system service, manually removed everything. Realized my mistake: Chrome was installed → password manager + sessions were there. ⚠️ Lesson: These tools are powerful, but don’t install them unless you fully understand what access you’re giving. Not accusing. Just sharing experience. If you know a guide to uninstall if it’s available on the site, please drop it.
 
-20h ago
+21h ago
+
+---
+
+**[Pinterest lays off hundreds, citing need for 'AI-proficient talent'](https://www.reddit.com/r/artificial/comments/1qotqu1/pinterest_lays_off_hundreds_citing_need_for/)**
+
+🔗 [sfgate.com](https://www.sfgate.com/tech/article/pinterest-layoffs-hundreds-ai-21318302.php) • 20h ago
 
 ---
 
@@ -95,13 +101,7 @@ Tried ClawdBot (now MoltBot) on a freshly installed system. At first? 🔥 Insan
 
 A researcher has created a chatbot that is indistinguishable from human participants in online surveys. Some researchers fear that a workhorse of social science is now under threat.
 
-🔗 [nature.com](https://www.nature.com/articles/d41586-026-00221-8) • 1h ago
-
----
-
-**[Pinterest lays off hundreds, citing need for 'AI-proficient talent'](https://www.reddit.com/r/artificial/comments/1qotqu1/pinterest_lays_off_hundreds_citing_need_for/)**
-
-🔗 [sfgate.com](https://www.sfgate.com/tech/article/pinterest-layoffs-hundreds-ai-21318302.php) • 20h ago
+🔗 [nature.com](https://www.nature.com/articles/d41586-026-00221-8) • 2h ago
 
 ---
 
@@ -125,11 +125,63 @@ NPR • 9h ago
 
 ---
 
-**[To avoid accusations of AI cheating, college students are turning to AI](https://www.nbcnews.com/tech/internet/college-students-ai-cheating-detectors-humanizers-rcna253878)**
+**[With AlphaGenome, Researchers Are Using A.I. to Decode the Human Blueprint](https://www.nytimes.com/2026/01/28/science/alphagenome-ai-deepmind-genetics.html)**
 
-Students are taking new measures, such as dumbing down their work, spying on themselves and using AI “humanizer” programs, to beat accusations of cheating with artificial intelligence.
+The New York Times • 3h ago
 
-NBC News • 8h ago
+---
+
+**[AI model from Google's DeepMind reads recipe for life in DNA](https://www.bbc.com/news/articles/c39428dv18yo)**
+
+It could transform our understanding of why diseases develop and the medicines needed to treat them, says researchers.
+
+BBC • 3h ago
+
+---
+
+**[Google DeepMind launches AI tool to help identify genetic drivers of disease](https://www.theguardian.com/science/2026/jan/28/google-deepmind-alphagenome-ai-tool-genetics-disease)**
+
+AlphaGenome can analyse up to 1m letters of DNA code at once and could pave way for new treatments
+
+The Guardian • 2h ago
+
+---
+
+**[SK Hynix pops 5% as it doubles profit in 2025 driven by the AI memory shortage](https://www.cnbc.com/2026/01/28/sk-hynix-smashes-earnings-estimates-as-ai-memory-demand-drives-record-profit.html)**
+
+South Korea's SK Hynix on Wednesday posted record quarterly revenue and profit, to beat estimates.
+
+CNBC • 11h ago
+
+---
+
+**[Meta set to report earnings: Update on revamped AI strategy is key to fourth quarter](https://www.cnbc.com/2026/01/28/meta-q4-earnings-report-2025.html)**
+
+Meta will report fourth-quarter earnings, and investors will be looking for any signs that its new AI strategy will benefit the company in the new year.
+
+CNBC • 2h ago
+
+---
+
+**[Meta earnings updates: Soaring AI capex top of mind for Wall Street ahead of results](https://www.businessinsider.com/meta-q4-earnings-stock-price-ai-capex-live-updates-2026-1)**
+
+Meta will report earnings for Q4 after the closing bell on Wednesday. The company will hold a call with analysts at 4:30 p.m. ET.
+
+Business Insider • 1h ago
+
+---
+
+**[Software Company Bonds Drop as Investors’ AI Worries Mount](https://www.bloomberg.com/news/articles/2026-01-28/software-company-bonds-drop-as-investors-ai-worries-mount)**
+
+Bloomberg.com • 30m ago
+
+---
+
+**[WhatsApp will now charge AI chatbots to operate in Italy](https://techcrunch.com/2026/01/28/whatsapp-will-now-charge-ai-chatbots-to-operate-in-italy/)**
+
+WhatsApp plans to charge developers of AI chatbots per message.
+
+TechCrunch • 34m ago
 
 ---
 
@@ -141,67 +193,13 @@ CNN • 8h ago
 
 ---
 
-**[Amazon to cut 16,000 roles as it looks to invest in AI, remove ‘bureaucracy’](https://www.foxbusiness.com/economy/amazon-cut-16000-roles-looks-invest-ai-remove-bureaucracy)**
-
-Amazon announces 16,000 job cuts in major restructuring to reduce bureaucracy and management layers while investing in AI and other strategic growth areas.
-
-Fox Business • 7h ago
-
----
-
-**[Amazon cuts thousands of jobs amid AI push](https://www.aljazeera.com/economy/2026/1/28/amazon-cuts-thousands-of-jobs-amid-ai-push)**
-
-Wednesday’s cuts are the second mass layoffs in three months at the e-commerce giant.
-
-Al Jazeera • 1h ago
-
----
-
-**[Google Unleashes AI in Chrome with ‘Auto Browse’](https://gizmodo.com/google-unleashes-ai-in-chrome-with-auto-browse-2000714835)**
-
-Google wants to do the browsing for you.
-
-Gizmodo • 1h ago
-
----
-
-**[Chrome takes on AI browsers with tighter Gemini integration, agentic features for autonomous tasks](https://techcrunch.com/2026/01/28/chrome-takes-on-ai-browsers-with-tighter-gemini-integration-agentic-features-for-autonomous-tasks/)**
-
-Google Chrome is adding Gemini in sidebar and is rolling out an agentic feature for AI Pro and Ultra users
-
-TechCrunch • 1h ago
-
----
-
-**[Google adds AI image generation to Chrome browser, side panel option for virtual assistant](https://www.detroitnews.com/story/tech/2026/01/28/google-chrome-ai/88399021007/)**
-
-The features rolling out include making Google’s photo-editing tool, Nano Banana, which will be available to Chrome’s logged-in users on desktop computers in the U.S.
-
-detroitnews.com • 1h ago
-
----
-
-**[Artificial intelligence will cost jobs, admits Liz Kendall](https://www.theguardian.com/technology/2026/jan/28/artificial-intelligence-will-cost-jobs-admits-liz-kendall)**
-
-UK technology secretary also announced plans to train up to 10m Britons in AI skills to help workforce adapt
-
-The Guardian • 54m ago
-
----
-
-**[With AlphaGenome, Researchers Are Using A.I. to Decode the Human Blueprint](https://www.nytimes.com/2026/01/28/science/alphagenome-ai-deepmind-genetics.html)**
-
-The New York Times • 3h ago
-
----
-
 ---
 
 ## HackerNews: "ai"
 
 **[France Aiming to Replace Zoom, Google Meet, Microsoft Teams, etc.](https://news.ycombinator.com/item?id=46767668)**
 
-⬆️ 881 • 💬 759 • 2d ago • [X (formerly Twitter)](https://twitter.com/lellouchenico/status/2015775970330882319)
+⬆️ 881 • 💬 762 • 2d ago • [X (formerly Twitter)](https://twitter.com/lellouchenico/status/2015775970330882319)
 
 ---
 
@@ -209,7 +207,7 @@ The New York Times • 3h ago
 
 Apple today unveiled the new AirTag, now with an expanded finding range and a louder speaker.
 
-⬆️ 599 • 💬 734 • 2d ago • [Apple Newsroom](https://www.apple.com/newsroom/2026/01/apple-introduces-new-airtag-with-expanded-range-and-improved-findability/)
+⬆️ 599 • 💬 735 • 2d ago • [Apple Newsroom](https://www.apple.com/newsroom/2026/01/apple-introduces-new-airtag-with-expanded-range-and-improved-findability/)
 
 ---
 
@@ -217,7 +215,7 @@ Apple today unveiled the new AirTag, now with an expanded finding range and a lo
 
 Exclusive: German research into responses to health queries raises fresh questions about summaries seen by 2bn people a month
 
-⬆️ 409 • 💬 207 • 2d ago • [the Guardian](https://www.theguardian.com/technology/2026/jan/24/google-ai-overviews-youtube-medical-citations-study)
+⬆️ 409 • 💬 208 • 2d ago • [the Guardian](https://www.theguardian.com/technology/2026/jan/24/google-ai-overviews-youtube-medical-citations-study)
 
 ---
 
@@ -233,19 +231,19 @@ Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞  - G
 
 Today everybody's doing AI code review. Here's how Greptile's viewpoint is differentiated - independence, autonomy, and feedback loops.
 
-⬆️ 343 • 💬 234 • 2d ago • [greptile.com](https://www.greptile.com/blog/ai-code-review-bubble)
+⬆️ 343 • 💬 236 • 2d ago • [greptile.com](https://www.greptile.com/blog/ai-code-review-bubble)
 
 ---
 
 **[Amazon axes 16,000 jobs as it pushes AI and efficiency](https://news.ycombinator.com/item?id=46796745)**
 
-⬆️ 295 • 💬 356 • 3h ago • [reuters.com](https://www.reuters.com/legal/litigation/amazon-cuts-16000-jobs-globally-broader-restructuring-2026-01-28/)
+⬆️ 310 • 💬 409 • 4h ago • [reuters.com](https://www.reuters.com/legal/litigation/amazon-cuts-16000-jobs-globally-broader-restructuring-2026-01-28/)
 
 ---
 
 **[AI code and software craft](https://news.ycombinator.com/item?id=46769188)**
 
-⬆️ 242 • 💬 149 • 2d ago • [alexwennerberg.com](https://alexwennerberg.com/blog/2026-01-25-slop.html)
+⬆️ 243 • 💬 149 • 2d ago • [alexwennerberg.com](https://alexwennerberg.com/blog/2026-01-25-slop.html)
 
 ---
 
@@ -253,15 +251,7 @@ Today everybody's doing AI code review. Here's how Greptile's viewpoint is diffe
 
 Opinion: Autonomous agents may generate millions of lines of code, but shipping software is another matter
 
-⬆️ 235 • 💬 139 • 2d ago • [theregister.com](https://www.theregister.com/2026/01/26/cursor_opinion/)
-
----
-
-**[AI2: Open Coding Agents](https://news.ycombinator.com/item?id=46783017)**
-
-SERA is the first in our family of Open Coding Agents, achieving state-of-the-art performance at low cost.
-
-⬆️ 226 • 💬 40 • 1d ago • [allenai.org](https://allenai.org/blog/open-coding-agents)
+⬆️ 237 • 💬 140 • 2d ago • [theregister.com](https://www.theregister.com/2026/01/26/cursor_opinion/)
 
 ---
 
@@ -269,7 +259,15 @@ SERA is the first in our family of Open Coding Agents, achieving state-of-the-ar
 
 Interactive article explaining the physics of an airfoil and what makes airplanes fly
 
-⬆️ 206 • 💬 36 • 4h ago • [ciechanow.ski](https://ciechanow.ski/airfoil/)
+⬆️ 231 • 💬 39 • 5h ago • [ciechanow.ski](https://ciechanow.ski/airfoil/)
+
+---
+
+**[AI2: Open Coding Agents](https://news.ycombinator.com/item?id=46783017)**
+
+SERA is the first in our family of Open Coding Agents, achieving state-of-the-art performance at low cost.
+
+⬆️ 228 • 💬 43 • 1d ago • [allenai.org](https://allenai.org/blog/open-coding-agents)
 
 ---
 
@@ -401,7 +399,7 @@ Kimi K2.5 is a native multimodal agentic model with 1T parameters, excelling in 
 
 `image-text-to-text`
 
-⬇️ 10,965 • ❤️ 854 • 16h ago
+⬇️ 10,965 • ❤️ 854 • 17h ago
 
 ---
 
@@ -645,7 +643,7 @@ Browser automation CLI for AI agents
 
 `TypeScript`
 
-⭐ 11.2k • 🔱 616 • 1h ago
+⭐ 11.2k • 🔱 616 • 2h ago
 
 ---
 
@@ -655,7 +653,7 @@ AI → JSON → UI
 
 `TypeScript`
 
-⭐ 9.5k • 🔱 500 • 3h ago
+⭐ 9.5k • 🔱 500 • 4h ago
 
 ---
 

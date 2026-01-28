@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-01-28T19:29:44.487682+00:00'
+updated: '2026-01-28T19:53:48.908308+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- news
-- videos
 - social
+- videos
 - cryptocurrency
+- news
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** January 28, 2026 at 19:29 UTC  
+**Last Updated:** January 28, 2026 at 19:53 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,17 +38,17 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $89,824.52
+### $89,398.23
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** +1.4%  
-**7d:** +0.1%  
-**30d:** +1.4%  
-**90d:** -18.3%  
-**1y:** -13.5%  
+**24h:** +0.1%  
+**7d:** -0.1%  
+**30d:** +1.2%  
+**90d:** -18.5%  
+**1y:** -13.6%  
 
 ---
 
@@ -83,15 +83,27 @@ Rank #1
 
 ---
 
+**[This is unbearable](https://www.reddit.com/r/Bitcoin/comments/1qphgpc/this_is_unbearable/)**
+
+2h ago
+
+---
+
 **[Don't Trust, Verify 😁](https://www.reddit.com/r/Bitcoin/comments/1qpbh7a/dont_trust_verify/)**
 
-5h ago
+6h ago
 
 ---
 
 **[The best choice..](https://www.reddit.com/r/Bitcoin/comments/1qpac56/the_best_choice/)**
 
-6h ago
+7h ago
+
+---
+
+**[NBA legend Scottie Pippen often says Satoshi visits him in his dreams. This is what I imagine they're like.](https://www.reddit.com/r/Bitcoin/comments/1qpjtzp/nba_legend_scottie_pippen_often_says_satoshi/)**
+
+1h ago
 
 ---
 
@@ -103,35 +115,9 @@ i use to be a multicoiner but i lost everything in 2021 in trading and scams....
 
 ---
 
-**[This is unbearable](https://www.reddit.com/r/Bitcoin/comments/1qphgpc/this_is_unbearable/)**
-
-2h ago
-
----
-
 **[Nothing more delicious than a Bitcoin burger](https://www.reddit.com/r/Bitcoin/comments/1qp35kq/nothing_more_delicious_than_a_bitcoin_burger/)**
 
 13h ago
-
----
-
-**[Think i will stay single.](https://www.reddit.com/r/Bitcoin/comments/1qp8rwv/think_i_will_stay_single/)**
-
-8h ago
-
----
-
-**[Buy 1 BTC but UK banking limits £10,000 per month](https://www.reddit.com/r/Bitcoin/comments/1qp4ofl/buy_1_btc_but_uk_banking_limits_10000_per_month/)**
-
-If the price of BTC dipped to £50,000 / $69,035 how would someone in the UK purchase 1 BTC? UK banks have £10,000 per month crypto limits ! Someone would have to plan 5 months ahead, transfer £10,000 each month into an exchange (Coinbase / Kraken) and trust the fiat was safe, sat there, earning zero interest! Is this the way? References: https://www.firstdirect.com/help/bank-accounts/payments-and-transfers/cryptocurrency/ Our limits: Payments – £2,500 for a single payment and a total payment limit of £10,000 in any rolling 30-day period. Debit cards – £2,500 for a single card payment and a total card payment limit of £10,000 in any rolling 30-day period. https://www.barclays.co.uk/help/payments/payment-information/crypto-currency-payment-restrictions/ Monthly limits for non-card payments From 2nd December 2025, we’re introducing limits on bank transfers (Faster Payments) to crypto-currency exchanges. You can make individual transactions up to £2,500. There’s also a total personal transaction limit of £10,000 per calendar month, which includes all payments made from any of your accounts. https://www.santander.co.uk/personal/support/fraud-and-security/cryptocurrency Your limit will be: £1,000 per transaction a total of £3,000 in any rolling 30-day period.
-
-12h ago
-
----
-
-**["You give your money to the government for 20 years...add inflation, you have lost."](https://www.reddit.com/r/Bitcoin/comments/1qphsxg/you_give_your_money_to_the_government_for_20/)**
-
-2h ago
 
 ---
 
@@ -143,15 +129,45 @@ Foundry USA’s hashrate plunged about 60%, pushing block times to as long as 14
 
 ---
 
+**[Think i will stay single.](https://www.reddit.com/r/Bitcoin/comments/1qp8rwv/think_i_will_stay_single/)**
+
+8h ago
+
+---
+
+**[A significant portion of Bitcoin's gains come in just 10 trading days out of an entire calendar year](https://www.reddit.com/r/Bitcoin/comments/1qpktx5/a_significant_portion_of_bitcoins_gains_come_in/)**
+
+Historically, the most significant portion of Bitcoin's gains come in just 10 trading days out of an entire calendar year. Most of the time in Bitcoin is spent going sideways or down. It will shake out all weak hands and tourists, and punish anyone with high time preference. Then it will reward the patience of those who spend their time studying and growing their conviction (and touching grass) during the boring or bear markets. Act accordingly
+
+42m ago
+
+---
+
 ---
 
 ## Google News: "bitcoin"
 
-**[Here's how China's response to Trump tariffs silently rocks bitcoin](https://www.coindesk.com/markets/2026/01/28/china-adapts-to-u-s-tariffs-while-bitcoin-shrugs-off-macro-shock)**
+**[Bullish bitcoin traders grab crash protection as Friday's $8.9 billion expiry nears](https://www.coindesk.com/markets/2026/01/28/bullish-bitcoin-traders-grab-crash-protection-as-friday-s-usd8-9b-expiry-nears)**
 
-China’s exports remain resilient under U.S. tariffs as the yuan stays tightly managed, sending ripples all the way to the crypto market.
+Bitcoin and ether options worth billions of dollars are set to expire this Friday.
 
-CoinDesk • 13h ago
+CoinDesk • 6h ago
+
+---
+
+**[Bitcoin Price Jumps Above $90,000 Ahead of Fed Meeting, Senate Crypto Vote](https://bitcoinmagazine.com/markets/bitcoin-price-jumps-above-90000)**
+
+The bitcoin price rebounded above $90,000 as traders weigh the looming Fed rate decision.
+
+Bitcoin Magazine • 5h ago
+
+---
+
+**[It’s ‘Breaking’—Sudden U.S. Dollar ‘Crisis’ Warning Predicted To Spark Huge Bitcoin Price Boom To Rival Gold](https://www.forbes.com/sites/digital-assets/2026/01/28/its-breaking-sudden-us-dollar-crisis-warning-predicted-to-spark-huge-bitcoin-price-boom-to-rival-gold/)**
+
+A “crisis of confidence” in the U.S. dollar has been predicted to see bitcoin catch up with gold...
+
+Forbes • 7h ago
 
 ---
 
@@ -159,7 +175,7 @@ CoinDesk • 13h ago
 
 The latest proposal closely mirrors House Bill 1202, which was introduced during the 2025 legislative session.
 
-The Block • 13h ago
+The Block • 14h ago
 
 ---
 
@@ -171,11 +187,27 @@ Decrypt • 4h ago
 
 ---
 
-**[South Dakota lawmaker takes another run at Bitcoin reserve bill](https://www.tradingview.com/news/cointelegraph:883e8bbb8094b:0-south-dakota-lawmaker-takes-another-run-at-bitcoin-reserve-bill/)**
+**[Bitcoin Breaks Into State Policy As South Dakota Weighs 10% Allocation](https://www.tradingview.com/news/newsbtc:e45e5b662094b:0-bitcoin-breaks-into-state-policy-as-south-dakota-weighs-10-allocation/)**
 
-A member of South Dakota’s House of Representatives introduced another bill that would allow the US state to invest in Bitcoin, about a year after similar legislation was deferred.Representative Logan Manhart introduced the Bitcoin BITSTAMP:BTCUSD reserve bill, HB 1155, on Tuesday in South Dakota’s…
+South Dakota has a new bill on the table that would let the state put up to 10% of certain public funds into Bitcoin. Reports say Rep. Logan Manhart filed House Bill 1155 this week, restarting an effort that stalled last year.The measure would change state investment rules to give the State Investm…
 
-TradingView • 23h ago
+TradingView • 1h ago
+
+---
+
+**[Strive Enters Top 10 Publicly Traded Bitcoin Holders, Pays Off Debt After Semler Acquisition](https://finance.yahoo.com/news/strive-enters-top-10-publicly-185047817.html)**
+
+Financial services firm Strive Asset Management is now among the top 10 publicly traded holders of Bitcoin.
+
+Yahoo Finance • 1h ago
+
+---
+
+**[Coinbase Backs Trump Accounts, Explores Bitcoin For Kids](https://bitcoinmagazine.com/news/coinbase-to-join-trump-accounts-push)**
+
+Coinbase plans to join President Trump’s new Trump Accounts program by matching the government’s $1,000 child investment grant for employees’ children — potentially in Bitcoin.
+
+Bitcoin Magazine • 1h ago
 
 ---
 
@@ -187,43 +219,11 @@ Yahoo Finance • 2d ago
 
 ---
 
-**[3 Things Investors Need to Know About the ARK 21Shares Bitcoin ETF in 2026](https://www.fool.com/investing/2026/01/28/x-things-investors-need-to-know-about-the-ark-21sh/)**
-
-The ARK 21Shares Bitcoin ETF makes it easy to access that digital currency, but investors should evaluate the fund's pros and cons.
-
-The Motley Fool • 1h ago
-
----
-
 **[Bitcoin ETFs Turn Positive After Five-Day $1.7B Losing Streak](https://decrypt.co/356068/bitcoin-etfs-turn-positive-after-five-day-1-7b-losing-streak)**
 
 Bitcoin ETFs saw a modest $6.8 million in net inflows Monday, putting an end to a five-day streak of outflows.
 
 Decrypt • 1d ago
-
----
-
-**[Grand Forks detective says if someone online asks for bitcoin or gift cards, 'you're being scammed'](https://www.grandforksherald.com/news/local/grand-forks-detective-says-if-someone-online-asks-for-bitcoin-or-gift-cards-youre-being-scammed)**
-
-Since 2022, Grand Forks residents have lost $466,803 to bitcoin cryptocurrency, according to GFPD Det. Todd Riedinger. The scams are difficult to trace and lost money usually can't be recovered.
-
-grandforksherald.com • 6h ago
-
----
-
-**[Why MicroStrategy’s Latest Bitcoin Purchase Is Deeply Concerning](https://finance.yahoo.com/news/why-microstrategy-latest-bitcoin-purchase-193558229.html)**
-
-MicroStrategy’s latest Bitcoin purchase raises structural concerns around dilution, mNAV, and shareholder value.
-
-Yahoo Finance • 1d ago
-
----
-
-**[Bitcoin price news: BTC attempts rally as dollar decline accelerates](https://www.coindesk.com/markets/2026/01/27/bitcoin-climbs-above-usd89-000-as-u-s-dollar-tumbles-on-president-trump-s-remarks)**
-
-The president said he isn't concerned about the dollar's recent declines, sending the greenback plunging even lower.
-
-CoinDesk • 22h ago
 
 ---
 
@@ -286,6 +286,14 @@ Transform HN comment threads into executive intelligence. AI analyzes discussion
 
 ---
 
+**[Ozow Announces New Crypto Payments Solution Powered by MoneyBadger](https://news.ycombinator.com/item?id=46799830)**
+
+Reporting on Fintech, Crypto, and Blockchain Activity in Africa
+
+⬆️ 1 • 💬 0 • 1h ago • [BitKE](https://bitcoinke.io/2026/01/ozow-announces-payments-solution-by-moneybadger/)
+
+---
+
 **[Tell HN: I cut Claude API costs from $70/month to pennies](https://news.ycombinator.com/item?id=46760285)**
 
 ⬆️ 40 • 💬 25 • 2d ago
@@ -294,13 +302,7 @@ Transform HN comment threads into executive intelligence. AI analyzes discussion
 
 **[Show HN: We built a type-safe Python ORM for RedisGraph/FalkorDB](https://news.ycombinator.com/item?id=46796602)**
 
-⬆️ 5 • 💬 3 • 3h ago
-
----
-
-**[Show HN: I could build the translation tool I've wanted for 10 years](https://news.ycombinator.com/item?id=46786231)**
-
-⬆️ 1 • 💬 1 • 22h ago
+⬆️ 5 • 💬 3 • 4h ago
 
 ---
 
@@ -314,7 +316,7 @@ The Dollar is breaking and the "Sell America" trade is officially on. While the 
 
 📺 Crypto Banter
 
-👁️ 12K • 👍 1K • 💬 36 • ⏱️ 26:12 • 3h ago
+👁️ 12K • 👍 1K • 💬 36 • ⏱️ 26:12 • 4h ago
 
 ---
 
@@ -324,7 +326,7 @@ Today, let's examine Bitcoin's charts and metrics, as well as the latest Macro a
 
 📺 CryptosRUs
 
-👁️ 18K • 👍 1K • 💬 193 • ⏱️ 38:00 • 2h ago
+👁️ 18K • 👍 1K • 💬 193 • ⏱️ 38:00 • 3h ago
 
 ---
 
@@ -354,7 +356,7 @@ Bitcoin, gold, stocks ripping, and altcoin trade ideas! BITUNIX TRADE THE TOP CO
 
 📺 Lark Davis
 
-👁️ 12K • 👍 701 • 💬 113 • ⏱️ 18:25 • 7h ago
+👁️ 12K • 👍 701 • 💬 113 • ⏱️ 18:25 • 8h ago
 
 ---
 
@@ -374,7 +376,7 @@ In this solo episode, Anthony Pompliano explains why Bitcoin is lagging while go
 
 📺 Stock Moe
 
-👁️ 7K • 👍 682 • 💬 45 • ⏱️ 19:46 • 5h ago
+👁️ 7K • 👍 682 • 💬 45 • ⏱️ 19:46 • 6h ago
 
 ---
 

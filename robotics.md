@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-01-28T19:29:44.496766+00:00'
+updated: '2026-01-28T19:53:48.918038+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- news
-- videos
 - social
+- videos
+- news
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** January 28, 2026 at 19:29 UTC  
+**Last Updated:** January 28, 2026 at 19:53 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -34,7 +34,7 @@ Robotics research and industry news
 
 **[Dexterous robotic hands: 2009 - 2014 - 2025](https://www.reddit.com/r/robotics/comments/1qp7z15/dexterous_robotic_hands_2009_2014_2025/)**
 
-8h ago
+9h ago
 
 ---
 
@@ -66,7 +66,7 @@ Former iRobot CEO Colin Angle talks about how robotics isn’t really a single �
 
 Hi, it's Emre from the Asimov team. I've been sharing our daily humanoid progress here, and thanks for your support along the way! We've open-sourced the leg design with CAD files, actuator list, and XML files for simulation. Now we're sharing a writeup on how we built it. Quick intro: Asimov is an open-source humanoid robot. We only have legs right now and are planning to finalize the full body by March 2026. It's going to be modular, so you can build the parts you need. Selling the robot isn't our priority right now. https://preview.redd.it/ljxqu6pdk2gg1.png?width=2000&format=png&auto=webp&s=71c244fb3cfc31cd5a768b7b1488babd8e04dcc0 Each leg has 6 DOF. The complete legs subsystem costs just over $10k, roughly $8.5k for actuators and joint parts, the rest for batteries and control modules. We designed for modularity and low-volume manufacturing. Most structural parts are compatible with MJF 3D printing. The only CNC requirement is the knee plate, which we simplified from a two-part assembly to a single plate. Actuators & Motors list and design files: https://github.com/asimovinc/asimov-v0 https://preview.redd.it/zalsj3eik2gg1.png?width=1200&format=png&auto=webp&s=734adca3a9d1c928acbf75cd95e44c3d4640ed93 We chose a parallel RSU ankle rather than a simple serial ankle. RSU gives us two-DOF ankles with both roll and pitch. Torque sharing between two motors means we can place heavy components closer to the hip, which improves rigidity and backdrivability. Linear actuators would have been another option, higher strength, more tendon-like look, but slower and more expensive. We added a toe joint that's articulated but not actuated. During push-off, the toe rocker helps the foot roll instead of pivoting on a rigid edge. Better traction, better forward propulsion, without adding another powered joint. https://preview.redd.it/skiqez2gk2gg1.png?width=1200&format=png&auto=webp&s=59d8951c9d20d2a10f547879a346c65e5b2e0bcf Our initial hip-pitch actuator was mounted at 45 degrees. This limited hip flexion and made sitting impossible. We're moving to a horizontal mount to recover range of motion. We're also upgrading ankle pivot components from aluminum to steel, and tightening manufacturing tolerances after missing some holes in early builds. https://preview.redd.it/o5wrtthkk2gg1.png?width=1200&format=png&auto=webp&s=5bebbe9c662e8e0a15ac6ea6b788530d0d1d66fd Next up is the upper body. We're working on arms and torso in parallel, targeting full-body integration by March. The complete robot will have 26 DOF and come in under 40kg. Sneak industrial design render of complete Asimov humanoid. Full writeup with diagrams and specs here: https://news.asimov.inc/p/how-we-built-humanoid-legs-from-the
 
-8h ago
+9h ago
 
 ---
 
@@ -102,9 +102,11 @@ I recently came across the Universal Manipulation Interface (UMI) paper and foun
 
 ---
 
-**[Helix update makes Figure 03 move noticeably more human. Thoughts?](https://www.reddit.com/r/robotics/comments/1qoyi0l/helix_update_makes_figure_03_move_noticeably_more/)**
+**[RealSense SDK R57.6 beta released to the public](https://www.reddit.com/r/robotics/comments/1qpevp8/realsense_sdk_r576_beta_released_to_the_public/)**
 
-17h ago
+https://preview.redd.it/n53edwy524gg1.png?width=1536&format=png&auto=webp&s=dda898b9083d32b4a1a5d7312ac7040b4121986c SDK GitHub Release: https://github.com/IntelRealSense/librealsense/releases/tag/v2.57.6 ROS GitHub Release: https://github.com/realsenseai/realsense-ros/releases/tag/4.57.6 Python wheels uploaded to: https://pypi.org/project/pyrealsense2-beta/
+
+4h ago
 
 ---
 
@@ -124,7 +126,7 @@ NASA (.gov) • 1d ago
 
 Boston Dynamics' Atlas appears to have an edge over Tesla's Optimus.
 
-The Motley Fool • 14h ago
+The Motley Fool • 15h ago
 
 ---
 
@@ -132,7 +134,7 @@ The Motley Fool • 14h ago
 
 As the Genesis Mission accelerates, robotics is emerging as the keystone industry in America's next moonshot.
 
-InvestorPlace • 16h ago
+InvestorPlace • 6h ago
 
 ---
 
@@ -186,7 +188,7 @@ AP News • 1d ago
 
 Approval confirms compliance with Department of War cybersecurity, supply-chain, and operational standards, further positioning Ondas' dual-use autonomous platform for expanded deployment across defense and critical infrastructure applications Milestone ...
 
-Yahoo Finance • 5h ago
+Yahoo Finance • 6h ago
 
 ---
 
@@ -200,7 +202,7 @@ Helix 02 from Figure is changing what humanoid robots are capable of by adding s
 
 📺 DPCcars
 
-👁️ 4K • 👍 147 • 💬 16 • ⏱️ 1:18 • 18h ago
+👁️ 4K • 👍 147 • 💬 16 • ⏱️ 1:18 • 19h ago
 
 ---
 
