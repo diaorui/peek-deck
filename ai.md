@@ -3,14 +3,14 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-01-28T18:39:39.117531+00:00'
+updated: '2026-01-28T19:29:44.479371+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- repositories
 - news
 - videos
+- repositories
 - social
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 AI news, discussions, and developments
 
-**Last Updated:** January 28, 2026 at 18:39 UTC  
+**Last Updated:** January 28, 2026 at 19:29 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -39,7 +39,7 @@ AI news, discussions, and developments
 
 **[Trump’s acting cyber chief uploaded sensitive files into a public version of ChatGPT. The interim director of the Cybersecurity and Infrastructure Security Agency triggered an internal cybersecurity warning with the uploads — and a DHS-level damage assessment.](https://www.reddit.com/r/artificial/comments/1qozsna/trumps_acting_cyber_chief_uploaded_sensitive/)**
 
-🔗 [politico.com](https://www.politico.com/news/2026/01/27/cisa-madhu-gottumukkala-chatgpt-00749361) • 15h ago
+🔗 [politico.com](https://www.politico.com/news/2026/01/27/cisa-madhu-gottumukkala-chatgpt-00749361) • 16h ago
 
 ---
 
@@ -47,7 +47,7 @@ AI news, discussions, and developments
 
 Unsealed legal documents reveal Meta, TikTok, and Google purposefully targeted children for addiction, ICE raids stall GOP in Minnesota, Trump targets Cuba, Oregon's voter rolls stay private, the CIA moves into Venezuela, Trump Cyber Chief accidentally uploads policies to ChatGPT, Meta blocks links
 
-🔗 [Instrumental Communications](https://www.instrumentalcomms.com/blog/unsealed-docs-reveal-big-tech-targets-kids#ai) • 5h ago
+🔗 [Instrumental Communications](https://www.instrumentalcomms.com/blog/unsealed-docs-reveal-big-tech-targets-kids#ai) • 6h ago
 
 ---
 
@@ -63,7 +63,7 @@ More and more of my freelance clients are turning to "vibe coding" instead of hi
 
 After the Claude/Anthropic incident where AI was used in a large-scale cyberattack, we've been publishing weekly threat intelligence on what's actually targeting AI agents in production. This week (74,636 interactions monitored) 37.8% contained attack attempts 74.8% of those were cybersecurity-related (malware gen, exploits) The new threat nobody's talking about: Inter-Agent Attacks As people deploy multi-agent systems, attackers are sending poisoned messages designed to propagate from one agent to another. We're seeing: Agent impersonation Goal hijacking Constraint removal Recursive attack propagation This is 3.4% of threats now, detected at 97.7% confidence. Top attack categories Data exfiltration (19.2%) - stealing system prompts and context Jailbreaks (12.3%) RAG poisoning (10.0%) Prompt injection (8.8%) The ClawdBot incident was the canary. If your AI can take actions, it's a target. Full report: https://raxe.ai/threat-intelligence Github: https://github.com/raxe-ai/raxe-ce is free for the community to use
 
-10h ago
+11h ago
 
 ---
 
@@ -71,7 +71,7 @@ After the Claude/Anthropic incident where AI was used in a large-scale cyberatta
 
 DeepMind’s AlphaGenome AI model could help solve the problem of predicting how variations in noncoding DNA shape gene expression
 
-🔗 [Scientific American](https://www.scientificamerican.com/article/google-deepmind-unleashes-new-ai-alphagenome-to-investigate-dnas-dark-matter/) • 1h ago
+🔗 [Scientific American](https://www.scientificamerican.com/article/google-deepmind-unleashes-new-ai-alphagenome-to-investigate-dnas-dark-matter/) • 2h ago
 
 ---
 
@@ -79,7 +79,7 @@ DeepMind’s AlphaGenome AI model could help solve the problem of predicting how
 
 I just saw a post discussing clawdbot, about someone not finding a usecase for automating tasks and I realised I too simply can't find anything that I need to automate. I'd love to hear what y'all find automatable. Could this just end up being a very niche feature.
 
-2h ago
+3h ago
 
 ---
 
@@ -87,7 +87,7 @@ I just saw a post discussing clawdbot, about someone not finding a usecase for a
 
 Tried ClawdBot (now MoltBot) on a freshly installed system. At first? 🔥 Insane. It found a pitch deck buried in my messy external HDD and even sent it on WhatsApp. Super impressive. Few hours later — I get an Amazon alert: • Login at 2:40 AM • Different location • Logged in from Windows • I’m on Linux • I did NOT log in Could be a false alert (I have 2FA), but the timing freaked me out. Tried uninstalling the bot — no clear guide. Had to dig into code, found it running as a system service, manually removed everything. Realized my mistake: Chrome was installed → password manager + sessions were there. ⚠️ Lesson: These tools are powerful, but don’t install them unless you fully understand what access you’re giving. Not accusing. Just sharing experience. If you know a guide to uninstall if it’s available on the site, please drop it.
 
-19h ago
+20h ago
 
 ---
 
@@ -95,13 +95,13 @@ Tried ClawdBot (now MoltBot) on a freshly installed system. At first? 🔥 Insan
 
 A researcher has created a chatbot that is indistinguishable from human participants in online surveys. Some researchers fear that a workhorse of social science is now under threat.
 
-🔗 [nature.com](https://www.nature.com/articles/d41586-026-00221-8) • 57m ago
+🔗 [nature.com](https://www.nature.com/articles/d41586-026-00221-8) • 1h ago
 
 ---
 
 **[Pinterest lays off hundreds, citing need for 'AI-proficient talent'](https://www.reddit.com/r/artificial/comments/1qotqu1/pinterest_lays_off_hundreds_citing_need_for/)**
 
-🔗 [sfgate.com](https://www.sfgate.com/tech/article/pinterest-layoffs-hundreds-ai-21318302.php) • 19h ago
+🔗 [sfgate.com](https://www.sfgate.com/tech/article/pinterest-layoffs-hundreds-ai-21318302.php) • 20h ago
 
 ---
 
@@ -109,7 +109,7 @@ A researcher has created a chatbot that is indistinguishable from human particip
 
 I saw many people struggling to setup and secure their moltbot/clawdbot. So, I made a tool which will help you to setup and secure your bot.
 
-🔗 [moltbot.guru](https://moltbot.guru) • 1h ago
+🔗 [moltbot.guru](https://moltbot.guru) • 2h ago
 
 ---
 
@@ -121,7 +121,7 @@ I saw many people struggling to setup and secure their moltbot/clawdbot. So, I m
 
 Forth Worth teacher Chanea Bond says sticking with pen and paper keeps generative artificial intelligence out of her American literature classes.
 
-NPR • 8h ago
+NPR • 9h ago
 
 ---
 
@@ -129,7 +129,7 @@ NPR • 8h ago
 
 Students are taking new measures, such as dumbing down their work, spying on themselves and using AI “humanizer” programs, to beat accusations of cheating with artificial intelligence.
 
-NBC News • 7h ago
+NBC News • 8h ago
 
 ---
 
@@ -137,7 +137,7 @@ NBC News • 7h ago
 
 Amazon is laying off 16,000 employees, the company’s second round of massive job reductions in two months as it fights to improve its standing in the battle for AI supremacy.
 
-CNN • 7h ago
+CNN • 8h ago
 
 ---
 
@@ -153,7 +153,7 @@ Fox Business • 7h ago
 
 Wednesday’s cuts are the second mass layoffs in three months at the e-commerce giant.
 
-Al Jazeera • 50m ago
+Al Jazeera • 1h ago
 
 ---
 
@@ -161,7 +161,7 @@ Al Jazeera • 50m ago
 
 Google wants to do the browsing for you.
 
-Gizmodo • 39m ago
+Gizmodo • 1h ago
 
 ---
 
@@ -169,7 +169,7 @@ Gizmodo • 39m ago
 
 Google Chrome is adding Gemini in sidebar and is rolling out an agentic feature for AI Pro and Ultra users
 
-TechCrunch • 39m ago
+TechCrunch • 1h ago
 
 ---
 
@@ -177,7 +177,7 @@ TechCrunch • 39m ago
 
 The features rolling out include making Google’s photo-editing tool, Nano Banana, which will be available to Chrome’s logged-in users on desktop computers in the U.S.
 
-detroitnews.com • 21m ago
+detroitnews.com • 1h ago
 
 ---
 
@@ -185,13 +185,13 @@ detroitnews.com • 21m ago
 
 UK technology secretary also announced plans to train up to 10m Britons in AI skills to help workforce adapt
 
-The Guardian • 4m ago
+The Guardian • 54m ago
 
 ---
 
 **[With AlphaGenome, Researchers Are Using A.I. to Decode the Human Blueprint](https://www.nytimes.com/2026/01/28/science/alphagenome-ai-deepmind-genetics.html)**
 
-The New York Times • 2h ago
+The New York Times • 3h ago
 
 ---
 
@@ -253,7 +253,7 @@ Today everybody's doing AI code review. Here's how Greptile's viewpoint is diffe
 
 Opinion: Autonomous agents may generate millions of lines of code, but shipping software is another matter
 
-⬆️ 235 • 💬 139 • 1d ago • [theregister.com](https://www.theregister.com/2026/01/26/cursor_opinion/)
+⬆️ 235 • 💬 139 • 2d ago • [theregister.com](https://www.theregister.com/2026/01/26/cursor_opinion/)
 
 ---
 
@@ -283,7 +283,7 @@ Become a Channel Member (Exclusive Videos): https://www.youtube.com/channel/UCAF
 
 📺 Keith D
 
-👁️ 16K • 👍 1K • 💬 263 • ⏱️ 10:20 • 4h ago
+👁️ 16K • 👍 1K • 💬 263 • ⏱️ 10:20 • 5h ago
 
 ---
 
@@ -303,7 +303,7 @@ China's AI race just shifted. Moonshot quietly rolled out Kimi K2.5, and the jum
 
 📺 AI Revolution
 
-👁️ 18K • 👍 545 • 💬 34 • ⏱️ 12:41 • 19h ago
+👁️ 18K • 👍 545 • 💬 34 • ⏱️ 12:41 • 20h ago
 
 ---
 
@@ -323,7 +323,7 @@ Clawdbot full tutorial. How to install Clawdbot / Moltbot. Use cases of Clawd. C
 
 📺 AI Search
 
-👁️ 52K • 👍 3K • 💬 485 • ⏱️ 28:44 • 15h ago
+👁️ 52K • 👍 3K • 💬 485 • ⏱️ 28:44 • 16h ago
 
 ---
 
@@ -333,7 +333,7 @@ Want to make money and save time with AI? Get AI Coaching, Support & Courses ...
 
 📺 Julian Goldie SEO
 
-👁️ 12K • 👍 284 • 💬 36 • ⏱️ 9:34 • 16h ago
+👁️ 12K • 👍 284 • 💬 36 • ⏱️ 9:34 • 17h ago
 
 ---
 
@@ -353,7 +353,7 @@ Anthropic CEO Dario Amodei called for an embargo on the sale of chips and data c
 
 📺 ABC News
 
-👁️ 6K • 👍 60 • 💬 27 • ⏱️ 3:17 • 20h ago
+👁️ 6K • 👍 60 • 💬 27 • ⏱️ 3:17 • 21h ago
 
 ---
 
@@ -373,7 +373,7 @@ There's something unsettling about asking a machine a question and realizing it 
 
 📺 Origins Explained
 
-👁️ 60K • 👍 2K • 💬 354 • ⏱️ 29:18 • 21h ago
+👁️ 60K • 👍 2K • 💬 354 • ⏱️ 29:18 • 22h ago
 
 ---
 
@@ -389,7 +389,7 @@ PersonaPlex-7B-v1 is a real-time, full-duplex speech-to-speech conversational mo
 
 `audio-to-audio`
 
-⬇️ 43,872 • ❤️ 1,332 • 5d ago
+⬇️ 43,872 • ❤️ 1,345 • 5d ago
 
 ---
 
@@ -401,7 +401,7 @@ Kimi K2.5 is a native multimodal agentic model with 1T parameters, excelling in 
 
 `image-text-to-text`
 
-⬇️ 10,965 • ❤️ 828 • 15h ago
+⬇️ 10,965 • ❤️ 854 • 16h ago
 
 ---
 
@@ -413,7 +413,7 @@ VibeVoice-ASR is a unified speech-to-text model capable of processing up to 60 m
 
 `automatic-speech-recognition` `8.7B`
 
-⬇️ 76,679 • ❤️ 690 • 1d ago
+⬇️ 76,679 • ❤️ 692 • 1d ago
 
 ---
 
@@ -425,7 +425,7 @@ Qwen3-TTS-12Hz-1.7B-CustomVoice is a multilingual text-to-speech model supportin
 
 `1.9B`
 
-⬇️ 138,693 • ❤️ 681 • 5d ago
+⬇️ 138,693 • ❤️ 687 • 5d ago
 
 ---
 
@@ -437,7 +437,7 @@ Z-Image is an undistilled, high-fidelity text-to-image diffusion transformer mod
 
 `text-to-image`
 
-⬇️ 0 • ❤️ 534 • 4h ago
+⬇️ 0 • ❤️ 551 • 5h ago
 
 ---
 
@@ -449,7 +449,7 @@ GLM-4.7-Flash is a 30B-A3B MoE model, offering strong performance in the 30B cla
 
 `text-generation` `31.2B`
 
-⬇️ 532,168 • ❤️ 1,292 • 8d ago
+⬇️ 532,168 • ❤️ 1,295 • 8d ago
 
 ---
 
@@ -461,7 +461,7 @@ DeepSeek-OCR-2 is a multilingual vision-language model for image-to-text tasks, 
 
 `image-text-to-text` `3.4B`
 
-⬇️ 0 • ❤️ 445 • 1d ago
+⬇️ 0 • ❤️ 452 • 1d ago
 
 ---
 
@@ -473,7 +473,7 @@ LightOnOCR-2-1B is an efficient 1B-parameter end-to-end vision-language model fo
 
 `image-text-to-text` `1.0B`
 
-⬇️ 19,899 • ❤️ 414 • 7d ago
+⬇️ 19,899 • ❤️ 417 • 7d ago
 
 ---
 
@@ -485,7 +485,7 @@ Chroma-4B is a real-time, end-to-end spoken dialogue model capable of speech und
 
 `any-to-any` `5.9B`
 
-⬇️ 5,776 • ❤️ 275 • 15h ago
+⬇️ 5,776 • ❤️ 278 • 16h ago
 
 ---
 
@@ -675,7 +675,7 @@ LLM驱动的 A/H/美股智能分析器，多数据源行情 + 实时新闻 + Gem
 
 `Python` `agent` `ai` `aigc` `gemini` `llm`
 
-⭐ 6.5k • 🔱 7.1k • 4h ago
+⭐ 6.5k • 🔱 7.1k • 5h ago
 
 ---
 
@@ -685,7 +685,7 @@ LLM驱动的 A/H/美股智能分析器，多数据源行情 + 实时新闻 + Gem
 
 `Vue`
 
-⭐ 6.4k • 🔱 1.2k • 4h ago
+⭐ 6.4k • 🔱 1.2k • 5h ago
 
 ---
 
@@ -695,7 +695,7 @@ Marketing skills for Claude Code and AI agents. CRO, copywriting, SEO, analytics
 
 `claude` `codex` `marketing`
 
-⭐ 5.1k • 🔱 548 • 10h ago
+⭐ 5.1k • 🔱 548 • 11h ago
 
 ---
 
@@ -705,7 +705,7 @@ The Ultimate Collection of 500+ Agentic Skills for Claude Code/Antigravity/Curso
 
 `Python` `agentic-skills` `ai-agents` `antigravity` `autonomous-coding` `claude-code`
 
-⭐ 4.8k • 🔱 1.1k • 1h ago
+⭐ 4.8k • 🔱 1.1k • 2h ago
 
 ---
 

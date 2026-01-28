@@ -3,14 +3,14 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-01-28T18:39:39.125804+00:00'
+updated: '2026-01-28T19:29:44.487682+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- social
 - news
 - videos
+- social
 - cryptocurrency
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** January 28, 2026 at 18:39 UTC  
+**Last Updated:** January 28, 2026 at 19:29 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -79,7 +79,7 @@ Rank #1
 
 **[This man filmed the reaction to bitcoin breaking $100 in 2013](https://www.reddit.com/r/Bitcoin/comments/1qox66j/this_man_filmed_the_reaction_to_bitcoin_breaking/)**
 
-17h ago
+18h ago
 
 ---
 
@@ -91,7 +91,7 @@ Rank #1
 
 **[The best choice..](https://www.reddit.com/r/Bitcoin/comments/1qpac56/the_best_choice/)**
 
-5h ago
+6h ago
 
 ---
 
@@ -99,25 +99,25 @@ Rank #1
 
 i use to be a multicoiner but i lost everything in 2021 in trading and scams.... i was too greedy actually and bitcoin don t reward this mindset.... it s so hard to start over from zero, even 0,01 BTC seems a lots now.... i ll never be a whole coiner again but find with it... i ll not do the same mistakes... i hope i will not... time will tell..... keep stacking guys.., see you in 10 years...
 
-8h ago
+9h ago
 
 ---
 
 **[This is unbearable](https://www.reddit.com/r/Bitcoin/comments/1qphgpc/this_is_unbearable/)**
 
-1h ago
+2h ago
 
 ---
 
 **[Nothing more delicious than a Bitcoin burger](https://www.reddit.com/r/Bitcoin/comments/1qp35kq/nothing_more_delicious_than_a_bitcoin_burger/)**
 
-12h ago
+13h ago
 
 ---
 
 **[Think i will stay single.](https://www.reddit.com/r/Bitcoin/comments/1qp8rwv/think_i_will_stay_single/)**
 
-7h ago
+8h ago
 
 ---
 
@@ -125,13 +125,13 @@ i use to be a multicoiner but i lost everything in 2021 in trading and scams....
 
 If the price of BTC dipped to £50,000 / $69,035 how would someone in the UK purchase 1 BTC? UK banks have £10,000 per month crypto limits ! Someone would have to plan 5 months ahead, transfer £10,000 each month into an exchange (Coinbase / Kraken) and trust the fiat was safe, sat there, earning zero interest! Is this the way? References: https://www.firstdirect.com/help/bank-accounts/payments-and-transfers/cryptocurrency/ Our limits: Payments – £2,500 for a single payment and a total payment limit of £10,000 in any rolling 30-day period. Debit cards – £2,500 for a single card payment and a total card payment limit of £10,000 in any rolling 30-day period. https://www.barclays.co.uk/help/payments/payment-information/crypto-currency-payment-restrictions/ Monthly limits for non-card payments From 2nd December 2025, we’re introducing limits on bank transfers (Faster Payments) to crypto-currency exchanges. You can make individual transactions up to £2,500. There’s also a total personal transaction limit of £10,000 per calendar month, which includes all payments made from any of your accounts. https://www.santander.co.uk/personal/support/fraud-and-security/cryptocurrency Your limit will be: £1,000 per transaction a total of £3,000 in any rolling 30-day period.
 
-11h ago
+12h ago
 
 ---
 
 **["You give your money to the government for 20 years...add inflation, you have lost."](https://www.reddit.com/r/Bitcoin/comments/1qphsxg/you_give_your_money_to_the_government_for_20/)**
 
-1h ago
+2h ago
 
 ---
 
@@ -139,7 +139,7 @@ If the price of BTC dipped to £50,000 / $69,035 how would someone in the UK pur
 
 Foundry USA’s hashrate plunged about 60%, pushing block times to as long as 14 minutes, yet bitcoin’s price and transaction fees barely moved.
 
-🔗 [Bitcoin News](https://bitcoinnews.com/p/fern-storm-bitcoin-hashrate-drops-miners-curtailment) • 3h ago
+🔗 [Bitcoin News](https://bitcoinnews.com/p/fern-storm-bitcoin-hashrate-drops-miners-curtailment) • 4h ago
 
 ---
 
@@ -151,7 +151,7 @@ Foundry USA’s hashrate plunged about 60%, pushing block times to as long as 14
 
 China’s exports remain resilient under U.S. tariffs as the yuan stays tightly managed, sending ripples all the way to the crypto market.
 
-CoinDesk • 12h ago
+CoinDesk • 13h ago
 
 ---
 
@@ -167,7 +167,7 @@ The Block • 13h ago
 
 The bill by State Representative Logan Manhart seeks to allocate as much as 10% of the state’s investment funds to the cryptocurrency.
 
-Decrypt • 3h ago
+Decrypt • 4h ago
 
 ---
 
@@ -175,7 +175,7 @@ Decrypt • 3h ago
 
 A member of South Dakota’s House of Representatives introduced another bill that would allow the US state to invest in Bitcoin, about a year after similar legislation was deferred.Representative Logan Manhart introduced the Bitcoin BITSTAMP:BTCUSD reserve bill, HB 1155, on Tuesday in South Dakota’s…
 
-TradingView • 22h ago
+TradingView • 23h ago
 
 ---
 
@@ -191,7 +191,7 @@ Yahoo Finance • 2d ago
 
 The ARK 21Shares Bitcoin ETF makes it easy to access that digital currency, but investors should evaluate the fund's pros and cons.
 
-The Motley Fool • 54m ago
+The Motley Fool • 1h ago
 
 ---
 
@@ -207,7 +207,7 @@ Decrypt • 1d ago
 
 Since 2022, Grand Forks residents have lost $466,803 to bitcoin cryptocurrency, according to GFPD Det. Todd Riedinger. The scams are difficult to trace and lost money usually can't be recovered.
 
-grandforksherald.com • 5h ago
+grandforksherald.com • 6h ago
 
 ---
 
@@ -223,7 +223,7 @@ Yahoo Finance • 1d ago
 
 The president said he isn't concerned about the dollar's recent declines, sending the greenback plunging even lower.
 
-CoinDesk • 21h ago
+CoinDesk • 22h ago
 
 ---
 
@@ -252,7 +252,7 @@ rewards for mining operations will dwindle. What happens next?
 
 A list of known attacks against Bitcoin / crypto asset owning entities that occurred in meatspace. - jlopp/physical-bitcoin-attacks
 
-⬆️ 3 • 💬 0 • 23h ago • [GitHub](https://github.com/jlopp/physical-bitcoin-attacks)
+⬆️ 3 • 💬 0 • 1d ago • [GitHub](https://github.com/jlopp/physical-bitcoin-attacks)
 
 ---
 
@@ -314,7 +314,7 @@ The Dollar is breaking and the "Sell America" trade is officially on. While the 
 
 📺 Crypto Banter
 
-👁️ 12K • 👍 1K • 💬 36 • ⏱️ 26:12 • 2h ago
+👁️ 12K • 👍 1K • 💬 36 • ⏱️ 26:12 • 3h ago
 
 ---
 
@@ -334,7 +334,7 @@ FREE Daily On-Chain Analysis & Crypto News In 5-Mins: http://bit.ly/TheCryptoNut
 
 📺 Library Of Wealth
 
-👁️ 10K • 👍 335 • 💬 350 • ⏱️ 16:28 • 13h ago
+👁️ 10K • 👍 335 • 💬 350 • ⏱️ 16:28 • 14h ago
 
 ---
 
@@ -354,7 +354,7 @@ Bitcoin, gold, stocks ripping, and altcoin trade ideas! BITUNIX TRADE THE TOP CO
 
 📺 Lark Davis
 
-👁️ 12K • 👍 701 • 💬 113 • ⏱️ 18:25 • 6h ago
+👁️ 12K • 👍 701 • 💬 113 • ⏱️ 18:25 • 7h ago
 
 ---
 
@@ -384,7 +384,7 @@ Bitcoin had a brutal week, but the real story happened behind closed doors at Da
 
 📺 Simply Bitcoin
 
-👁️ 22K • 👍 2K • 💬 214 • ⏱️ 16:25 • 19h ago
+👁️ 22K • 👍 2K • 💬 214 • ⏱️ 16:25 • 20h ago
 
 ---
 
@@ -394,7 +394,7 @@ ENTRE NO MEU GRUPO DE OPORTUNIDADES DIÁRIAS https://telegram.diegovelasques.com
 
 📺 Vela Trader
 
-👁️ 2K • 👍 529 • 💬 96 • ⏱️ 8:45 • 3h ago
+👁️ 2K • 👍 529 • 💬 96 • ⏱️ 8:45 • 4h ago
 
 ---
 
@@ -404,7 +404,7 @@ Is the four-year Bitcoin cycle finally dead? Joe Carlasare breaks down why tradi
 
 📺 Swan Bitcoin
 
-👁️ 450 • 👍 15 • 💬 17 • ⏱️ 0:53 • 2h ago
+👁️ 450 • 👍 15 • 💬 17 • ⏱️ 0:53 • 3h ago
 
 ---
 

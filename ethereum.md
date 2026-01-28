@@ -3,14 +3,14 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-01-28T18:39:39.131721+00:00'
+updated: '2026-01-28T19:29:44.493592+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- social
 - news
 - videos
+- social
 - cryptocurrency
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** January 28, 2026 at 18:39 UTC  
+**Last Updated:** January 28, 2026 at 19:29 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -72,13 +72,13 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-12h ago
+13h ago
 
 ---
 
 **[Pouring one out for Week in Ethereum News 🥃 Website is offline. Thank you Evan Van Ness for your tireless efforts serving the Ethereum community. 🙏](https://www.reddit.com/r/ethereum/comments/1qp227f/pouring_one_out_for_week_in_ethereum_news_website/)**
 
-13h ago
+14h ago
 
 ---
 
@@ -86,7 +86,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 Sorry if it was asked by past, i couldn't find the answer. Question about Lido stETH unstaking instantly, without delay I am having stETH staked on my Ledger Nano X that i'm trying to unstake but on lido page it takes up to a week, isn't there a way to process it faster? Advices appreciated
 
-4h ago
+5h ago
 
 ---
 
@@ -94,7 +94,7 @@ Sorry if it was asked by past, i couldn't find the answer. Question about Lido s
 
 I just launched my hardware wallet review series and the first device to be reviewed gave me surprising results! The imKey Pro is a $110 bluetooth wallet from the 2019 era. It’s not something most people have heard of, and at this point, it can be considered previous gen tech, is partially closed source, and even uses microUSB still (when not using the bluetooth-native connection). Can it still hold up in 2026? Well… surprisingly, yes. Even more assuring is that some years ago, someone deeply embedded in the Ethereum Foundation (and has become even MORE deeply embedded since) told me she uses it exclusively. Not Ledger, not Trezor, not GridPlus. The imKey. That endorsement alone made me take this device very seriously. So I tested everything: the Infineon SLE78 secure element, the bluetooth security model, the mobile-first UX, the clear signing implementation. Pros: EAL6+ certified chip (same as your passport, bank cards, and Yubikey!!!) (More) readable transaction context Wireless signing via imToken app Great build quality Entry-level price Cons: 2019 hardware showing its age Bluetooth = wider attack surface Firmware isn't open source Requires binding codes if using the bluetooth connection via imToken app Limited desktop support For a $110 entry-level option, I would definitely consider it. First of all, ANY migration away from holding your private keys inside an internet-connected device (e.g. your laptop, a hot wallet on your phone, etc.) to a dedicated hardware wallet will be a MASSIVE security upgrade. Don’t let perfect be the enemy of good. But knowing there’s other, more modern options out there now, it can be difficult to *strongly* recommend the imKey over other options. But the question begs… what did my EF associate see in the imKey that I didn’t? I had to find out. Watch my full review video here: https://youtu.be/FV2qJ3eLXFI ------------------------- If we're meeting for the first time, hi 👋! I find crypto youtube to be a giant cesspool. As a result, I started building my channel to spread the good word on good work in crypto — something with substance and humanity. Dropping a like, sub, and comment goes a LONG way to supporting me, so please consider doing so!
 
-🔗 [youtu.be](https://youtu.be/FV2qJ3eLXFI) • 4h ago
+🔗 [youtu.be](https://youtu.be/FV2qJ3eLXFI) • 5h ago
 
 ---
 
@@ -116,7 +116,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 **[Built a little ethereum wallet for a metamask interview](https://www.reddit.com/r/ethereum/comments/1qon8y9/built_a_little_ethereum_wallet_for_a_metamask/)**
 
-23h ago
+1d ago
 
 ---
 
@@ -152,7 +152,7 @@ I am trying to create a delegate wallet for every user which is connected to my 
 
 Bitcoin holds at $89K and Ethereum reclaims $3K ahead of the Fed's rate decision, while markets have assigned 97% odds of no change.
 
-Decrypt • 5h ago
+Decrypt • 6h ago
 
 ---
 
@@ -160,13 +160,13 @@ Decrypt • 5h ago
 
 The ERC-8004 proposal aims to let AI agents interact with entities on Ethereum, allowing them to participate in a decentralized economy.
 
-The Block • 11h ago
+The Block • 12h ago
 
 ---
 
 **[MegaETH mainnet to go live Feb. 9 in major test of ‘real-time’ Ethereum scaling](https://www.coindesk.com/tech/2026/01/28/megaeth-mainnet-to-go-live-feb-9-in-major-test-of-real-time-ethereum-scaling)**
 
-CoinDesk • 15m ago
+CoinDesk • 1h ago
 
 ---
 
@@ -218,7 +218,7 @@ TradingView • 1d ago
 
 **[Bitcoin, Ethereum, XRP Rise. Why the Sell America Trade Has Gripped Cryptos.](https://www.barrons.com/articles/bitcoin-ethereum-xrp-crypto-today-18fbb937?gaa_at=eafs&gaa_n=AWEtsqeFn9--tBntWdZMHO2NbcBCobhCL_UHjqTu8PA5iXOr4hewgrqI9ws2&gaa_ts=697a5b54&gaa_sig=YV6NoqiXM5pyCQL-LTzGqnmKJ-zEgb9vhtvTVLEOP5HG1R6lx13nQM51XK1678voIT9SMi6aF0rSAym3-jJeLQ%3D%3D)**
 
-Barron's • 7h ago
+Barron's • 8h ago
 
 ---
 
@@ -226,13 +226,13 @@ Barron's • 7h ago
 
 ## YouTube Videos: "ethereum"
 
-**[Tom Lee &amp; Raoul Pal - &quot;GIANT Crypto Reset Coming&quot; | Bitcoin &amp; ETH Price!](https://www.youtube.com/watch?v=8HgGTwrXZGI)**
+**[&quot;My Latest 2026 ETH Prediction Will Come As a Huge Surprise&quot;: Tom Lee | ETH Price 2026](https://www.youtube.com/watch?v=1MrqcS0b34s)**
 
-FREE Daily On-Chain Analysis & Crypto News In 5-Mins: http://bit.ly/TheCryptoNutshell Watch The FULL Interview: "Tom ...
+My FREE Daily On-Chain Analysis & Crypto News In 5-Mins: https://www.cryptonutshell.com/subscribe You can NOW ...
 
-📺 Library Of Wealth
+📺 Jamie Tree 
 
-👁️ 8K • 👍 309 • 💬 378 • ⏱️ 16:28 • 13h ago
+👁️ 188 • 👍 14 • 💬 23 • ⏱️ 16:47 • 1h ago
 
 ---
 
@@ -242,7 +242,17 @@ Tom Lee Just Said The UNTHINKABLE About Bitcoin & Ethereum! [2026 New Prediction
 
 📺 Crypto Nutshell
 
-👁️ 24K • 👍 675 • 💬 123 • ⏱️ 14:37 • 1d ago
+👁️ 25K • 👍 681 • 💬 125 • ⏱️ 14:37 • 1d ago
+
+---
+
+**[Tom Lee &amp; Raoul Pal - &quot;GIANT Crypto Reset Coming&quot; | Bitcoin &amp; ETH Price!](https://www.youtube.com/watch?v=8HgGTwrXZGI)**
+
+FREE Daily On-Chain Analysis & Crypto News In 5-Mins: http://bit.ly/TheCryptoNutshell Watch The FULL Interview: "Tom ...
+
+📺 Library Of Wealth
+
+👁️ 10K • 👍 341 • 💬 371 • ⏱️ 16:28 • 14h ago
 
 ---
 
@@ -252,7 +262,7 @@ Tom Lee Just Said The UNTHINKABLE About Bitcoin & Ethereum! [2026 New Prediction
 
 📺 Stock Moe
 
-👁️ 4K • 👍 564 • 💬 33 • ⏱️ 19:46 • 5h ago
+👁️ 8K • 👍 709 • 💬 52 • ⏱️ 19:46 • 5h ago
 
 ---
 
@@ -262,7 +272,7 @@ This video provides a professional Elliott Wave and technical analysis of Ethere
 
 📺 More Crypto Online
 
-👁️ 2K • 👍 109 • 💬 7 • ⏱️ 4:42 • 16h ago
+👁️ 2K • 👍 110 • 💬 7 • ⏱️ 4:42 • 17h ago
 
 ---
 
@@ -272,17 +282,17 @@ ETHEREUM ETH PRICE PREDICTION 2026 Join the Premium Signal Group for trade setup
 
 📺 Cilinix Crypto
 
-👁️ 161 • 👍 13 • 💬 1 • ⏱️ 4:20 • 8h ago
+👁️ 214 • 👍 14 • 💬 1 • ⏱️ 4:20 • 9h ago
 
 ---
 
-**[DUMP CRYPTO FOR GOLD &amp; SILVER? BITCOIN, XRP, ETHEREUM, &amp; SOLANA ANALYSIS!](https://www.youtube.com/watch?v=8mD6bEdifFE)**
+**[Ethereum Elliott Wave Update – Key Resistance Levels Ahead](https://www.youtube.com/watch?v=K86d3TAZnl0)**
 
-Brian from Santiment joined me to review the crypto market metrics for Bitcoin, Ethereum, Ripple XRP, Solana, and Avax. We also ...
+This video provides a professional Elliott Wave and technical analysis of Ethereum (ETH), focusing on market structure, major ...
 
-📺 Thinking Crypto
+📺 More Crypto Online
 
-👁️ 1K • 👍 158 • 💬 43 • ⏱️ 31:00 • 5h ago
+👁️ 534 • 👍 75 • 💬 7 • ⏱️ 5:44 • 1h ago
 
 ---
 
@@ -292,17 +302,7 @@ Let's talk about Ethereum! For inquirires: https://www.benjamincowen.com/ Into T
 
 📺 Benjamin Cowen
 
-👁️ 69K • 👍 3K • 💬 233 • ⏱️ 26:46 • 2d ago
-
----
-
-**[CRYPTO LIVE TRADING || 28 JANUARY || BITCOIN / ETHEREUM #cryptotrading #bitcoin #cryptolive](https://www.youtube.com/watch?v=8_2S0Fsvdmc)**
-
-No Paid Services | No Call Tips | Alert from Fraud People's they are asking for money using our name | Crypto Trading Account ...
-
-📺 Balraj Trading Tech
-
-👁️ 4K • 👍 635 • 3h ago
+👁️ 70K • 👍 3K • 💬 233 • ⏱️ 26:46 • 2d ago
 
 ---
 
@@ -312,17 +312,17 @@ SharpLink CEO and former BlackRock head of digital assets strategy, Joseph Chalo
 
 📺 CoinDesk
 
-👁️ 20K • 👍 613 • 💬 110 • ⏱️ 23:51 • 1d ago
+👁️ 20K • 👍 630 • 💬 112 • ⏱️ 23:51 • 1d ago
 
 ---
 
-**[🥳 Ethereum Enters 4TH CYCLE (Bullish For Altcoins!)](https://www.youtube.com/watch?v=uZ606X9F3hY)**
+**[LIVE: Trump Announces Important News About Crypto! This Speech Will Change the Crypto Industry](https://www.youtube.com/watch?v=_xxQekdrkOA)**
 
-Donation Address: yourfriendsommi.eth / yourfriendsommi.pls Click Subscribe + Bell Button 'All' Follow on Twitter: ...
+TrumpCrypto2026 #DigitalAssets #TrumpAnnouncement Welcome to the Trump Crypto Forum 2026 — streaming LIVE from ...
 
-📺 🌟yourfriendsommi
+📺 Kolkata Literary Meet
 
-👁️ 1K • 👍 167 • 💬 12 • ⏱️ 15:53 • 7h ago
+👁️ 2K • 👍 1K • 27m ago
 
 ---
 
