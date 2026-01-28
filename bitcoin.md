@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-01-28T15:34:41.292556+00:00'
+updated: '2026-01-28T16:39:31.048523+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- social
 - news
-- cryptocurrency
 - videos
+- social
+- cryptocurrency
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** January 28, 2026 at 15:34 UTC  
+**Last Updated:** January 28, 2026 at 16:39 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,33 +38,33 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $89,126.92
+### $89,401.17
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** +0.8%  
-**7d:** -0.3%  
-**30d:** +1.0%  
-**90d:** -18.6%  
-**1y:** -13.8%  
+**24h:** +2.5%  
+**7d:** +0.2%  
+**30d:** +1.5%  
+**90d:** -18.2%  
+**1y:** -13.4%  
 
 ---
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1803.17B
+**Market Cap:** $1788.76B
 Rank #1
 
-**Circulating Supply:** 19,981,493 BTC
-95.1% of max
+**Circulating Supply:** 19,981,531 BTC
+95.2% of max
 
 **All-Time High:** $126,080.00
--28.4%
+-29.0%
 
 **All-Time Low:** $67.81
-+132980.7%
++131976.4%
 
 ---
 
@@ -79,25 +79,31 @@ Rank #1
 
 **[This man filmed the reaction to bitcoin breaking $100 in 2013](https://www.reddit.com/r/Bitcoin/comments/1qox66j/this_man_filmed_the_reaction_to_bitcoin_breaking/)**
 
-14h ago
+15h ago
 
 ---
 
 **["Crypto is risky" Meanwhile:](https://www.reddit.com/r/Bitcoin/comments/1qoxz6c/crypto_is_risky_meanwhile/)**
 
-13h ago
+14h ago
 
 ---
 
 **[Don't Trust, Verify 😁](https://www.reddit.com/r/Bitcoin/comments/1qpbh7a/dont_trust_verify/)**
 
-2h ago
+3h ago
 
 ---
 
 **[Nothing more delicious than a Bitcoin burger](https://www.reddit.com/r/Bitcoin/comments/1qp35kq/nothing_more_delicious_than_a_bitcoin_burger/)**
 
-9h ago
+10h ago
+
+---
+
+**[The best choice..](https://www.reddit.com/r/Bitcoin/comments/1qpac56/the_best_choice/)**
+
+3h ago
 
 ---
 
@@ -105,13 +111,7 @@ Rank #1
 
 i use to be a multicoiner but i lost everything in 2021 in trading and scams.... i was too greedy actually and bitcoin don t reward this mindset.... it s so hard to start over from zero, even 0,01 BTC seems a lots now.... i ll never be a whole coiner again but find with it... i ll not do the same mistakes... i hope i will not... time will tell..... keep stacking guys.., see you in 10 years...
 
-5h ago
-
----
-
-**[The best choice..](https://www.reddit.com/r/Bitcoin/comments/1qpac56/the_best_choice/)**
-
-2h ago
+6h ago
 
 ---
 
@@ -119,13 +119,13 @@ i use to be a multicoiner but i lost everything in 2021 in trading and scams....
 
 If the price of BTC dipped to £50,000 / $69,035 how would someone in the UK purchase 1 BTC? UK banks have £10,000 per month crypto limits ! Someone would have to plan 5 months ahead, transfer £10,000 each month into an exchange (Coinbase / Kraken) and trust the fiat was safe, sat there, earning zero interest! Is this the way? References: https://www.firstdirect.com/help/bank-accounts/payments-and-transfers/cryptocurrency/ Our limits: Payments – £2,500 for a single payment and a total payment limit of £10,000 in any rolling 30-day period. Debit cards – £2,500 for a single card payment and a total card payment limit of £10,000 in any rolling 30-day period. https://www.barclays.co.uk/help/payments/payment-information/crypto-currency-payment-restrictions/ Monthly limits for non-card payments From 2nd December 2025, we’re introducing limits on bank transfers (Faster Payments) to crypto-currency exchanges. You can make individual transactions up to £2,500. There’s also a total personal transaction limit of £10,000 per calendar month, which includes all payments made from any of your accounts. https://www.santander.co.uk/personal/support/fraud-and-security/cryptocurrency Your limit will be: £1,000 per transaction a total of £3,000 in any rolling 30-day period.
 
-8h ago
+9h ago
 
 ---
 
 **[Think i will stay single.](https://www.reddit.com/r/Bitcoin/comments/1qp8rwv/think_i_will_stay_single/)**
 
-4h ago
+5h ago
 
 ---
 
@@ -139,7 +139,7 @@ If the price of BTC dipped to £50,000 / $69,035 how would someone in the UK pur
 
 I'm a teenager from a third world country, and I'm glad to share that I'm finally achieving my goal. Building wealth in my country isn't as easy as it is in Europe or the US, especially at my age. Because of that, my friends have called me a cheapskate (and sometimes they've been right). Now that I've accumulated enough Bitcoin (an amount that feels sufficient to me), I can finally start spending future income on clothes, the gym, gifts for my girlfriend, and other things I've been putting off to keep investing. Having this nest egg at 19 feels like a huge accomplishment, and I'm proud to share it with you. I can finally enjoy typical teenage stuff without feeling guilty :)
 
-20h ago
+21h ago
 
 ---
 
@@ -151,7 +151,7 @@ I'm a teenager from a third world country, and I'm glad to share that I'm finall
 
 The latest proposal closely mirrors House Bill 1202, which was introduced during the 2025 legislative session.
 
-The Block • 9h ago
+The Block • 11h ago
 
 ---
 
@@ -159,45 +159,7 @@ The Block • 9h ago
 
 China’s exports remain resilient under U.S. tariffs as the yuan stays tightly managed, sending ripples all the way to the crypto market.
 
-CoinDesk • 9h ago
-
----
-
-**[Bitcoin is the endgame.](https://x.com/saylor/status/2016517772495179931)**
-
-x.com • 1h ago
-
----
-
-**[It’s ‘Breaking’—Sudden U.S. Dollar ‘Crisis’ Warning Predicted To Spark Huge Bitcoin Price Boom To Rival Gold](https://www.forbes.com/sites/digital-assets/2026/01/28/its-breaking-sudden-us-dollar-crisis-warning-predicted-to-spark-huge-bitcoin-price-boom-to-rival-gold/)**
-
-A “crisis of confidence” in the U.S. dollar has been predicted to see bitcoin catch up with gold...
-
-Forbes • 3h ago
-
----
-
-**[BitMine’s Tom Lee Explains the Gold, Silver, and Bitcoin Cycle | US Crypto News](https://finance.yahoo.com/news/bitmine-tom-lee-explains-gold-142751293.html)**
-
-What is the biggest crypto news today? BitMine’s Tom Lee explains why metals lead—and how Bitcoin could be next.
-
-Yahoo Finance • 1h ago
-
----
-
-**[Is Gold The New Bitcoin?](https://www.yardeniquicktakes.com/is-gold-the-new-bitcoin/)**
-
-Proponents of bitcoin have been calling it “digital gold.” Both the cryptocurrency and the precious metal are impossible to value because they don't pay any interest or dividends. Bitcoin is digital, making it potentially vulnerable someday to hacking by quantum-computing algorithms, while gold needs to be stored in a vault.
-
-Yardeni QuickTakes • 12h ago
-
----
-
-**[Peter Thiel and Galaxy-backed Citrea wants to turn idle bitcoin into a high-speed bank account](https://www.coindesk.com/tech/2026/01/28/peter-thiel-and-galaxy-backed-citrea-wants-to-turn-idle-bitcoin-into-a-high-speed-bank-account)**
-
-Citrea has debuted its mainnet alongside ctUSD, a stablecoin backed by U.S. Treasuries, expanding Bitcoin-native lending, trading and structured products.
-
-CoinDesk • 22m ago
+CoinDesk • 10h ago
 
 ---
 
@@ -205,23 +167,59 @@ CoinDesk • 22m ago
 
 Katie Stockton, Fairlead, joins 'Fast Money' to take a technical look at bitcoin prices.
 
-CNBC • 16h ago
+CNBC • 17h ago
 
 ---
 
-**[Davos Takeaways - Bitcoin Is Not Here To Replace Banks, And That's A Good Thing](https://seekingalpha.com/article/4862574-davos-takeaways-bitcoin-is-not-here-to-replace-banks-and-thats-a-good-thing)**
+**[Bitcoin price news: BTC attempts rally as dollar decline accelerates](https://www.coindesk.com/markets/2026/01/27/bitcoin-climbs-above-usd89-000-as-u-s-dollar-tumbles-on-president-trump-s-remarks)**
 
-Bitcoin's deflationary nature makes it unsuitable as a global currency but ideal for long-term wealth preservation and institutional adoption. Read more on BTC.
+The president said he isn't concerned about the dollar's recent declines, sending the greenback plunging even lower.
 
-Seeking Alpha • 2d ago
+CoinDesk • 19h ago
 
 ---
 
-**[Better Buy in 2026: Bitcoin or Gold? The Answer Couldn't Be Clearer.](https://www.fool.com/investing/2026/01/25/better-buy-2026-bitcoin-gold-answer-couldnt-cleare/)**
+**[Is This Bitcoin Price “Coma” A Victory Lap in Disguise?](https://finance.yahoo.com/news/bitcoin-price-coma-victory-lap-105554976.html)**
 
-Bitcoin sank in 2025, even though conventional crypto wisdom suggests it should have had a great year.
+Everyone thought the Bitcoin price would “moon shoot” in Q4 2025. It didn’t. For the first time in a very long time, BTC USD prices closed the quarter in red. While there have been positive developments since then, nothing has yet emerged to save the bulls by pushing “digital gold” ...
 
-The Motley Fool • 3d ago
+Yahoo Finance • 5h ago
+
+---
+
+**[It’s ‘Breaking’—Sudden U.S. Dollar ‘Crisis’ Warning Predicted To Spark Huge Bitcoin Price Boom To Rival Gold](https://www.forbes.com/sites/digital-assets/2026/01/28/its-breaking-sudden-us-dollar-crisis-warning-predicted-to-spark-huge-bitcoin-price-boom-to-rival-gold/)**
+
+A “crisis of confidence” in the U.S. dollar has been predicted to see bitcoin catch up with gold...
+
+Forbes • 4h ago
+
+---
+
+**[Why MicroStrategy’s Latest Bitcoin Purchase Is Deeply Concerning](https://finance.yahoo.com/news/why-microstrategy-latest-bitcoin-purchase-193558229.html)**
+
+MicroStrategy’s latest Bitcoin purchase raises structural concerns around dilution, mNAV, and shareholder value.
+
+Yahoo Finance • 1d ago
+
+---
+
+**[Is Gold The New Bitcoin?](https://www.yardeniquicktakes.com/is-gold-the-new-bitcoin/)**
+
+Proponents of bitcoin have been calling it “digital gold.” Both the cryptocurrency and the precious metal are impossible to value because they don't pay any interest or dividends. Bitcoin is digital, making it potentially vulnerable someday to hacking by quantum-computing algorithms, while gold needs to be stored in a vault.
+
+Yardeni QuickTakes • 13h ago
+
+---
+
+**[Bitcoin Miners Power Down US Operations in Wake of Winter Storm](https://www.bloomberg.com/news/articles/2026-01-26/bitcoin-miners-power-down-us-operations-in-wake-of-winter-storm)**
+
+Bloomberg • 1d ago
+
+---
+
+**[Bitcoin, Ethereum, XRP Rise. Why the Sell America Trade Has Gripped Cryptos.](https://www.barrons.com/articles/bitcoin-ethereum-xrp-crypto-today-18fbb937?gaa_at=eafs&gaa_n=AWEtsqe4X5ckcA_cgE3vfHZQdoowJm4875qtMZyR8B-2XoyUUpfJZzNbTrDR&gaa_ts=697a3f28&gaa_sig=msGfQgNEx3NUyX8UOeuQD_Ogak4VUT3pZDiD4Zx_GNTeAhstjXtrxfyxyZ5OQ2NLB4Iu8PeSOVOML-mYpftlTg%3D%3D)**
+
+Barron's • 5h ago
 
 ---
 
@@ -250,7 +248,7 @@ rewards for mining operations will dwindle. What happens next?
 
 A list of known attacks against Bitcoin / crypto asset owning entities that occurred in meatspace. - jlopp/physical-bitcoin-attacks
 
-⬆️ 3 • 💬 0 • 20h ago • [GitHub](https://github.com/jlopp/physical-bitcoin-attacks)
+⬆️ 3 • 💬 0 • 21h ago • [GitHub](https://github.com/jlopp/physical-bitcoin-attacks)
 
 ---
 
@@ -292,13 +290,13 @@ Transform HN comment threads into executive intelligence. AI analyzes discussion
 
 **[Show HN: We built a type-safe Python ORM for RedisGraph/FalkorDB](https://news.ycombinator.com/item?id=46796602)**
 
-⬆️ 2 • 💬 0 • 4m ago
+⬆️ 4 • 💬 1 • 1h ago
 
 ---
 
 **[Show HN: I could build the translation tool I've wanted for 10 years](https://news.ycombinator.com/item?id=46786231)**
 
-⬆️ 1 • 💬 1 • 18h ago
+⬆️ 1 • 💬 1 • 20h ago
 
 ---
 
@@ -306,13 +304,13 @@ Transform HN comment threads into executive intelligence. AI analyzes discussion
 
 ## YouTube Videos: "bitcoin"
 
-**[BITCOIN HOLDERS... EVERYTHING IS LINING UP](https://www.youtube.com/watch?v=Zj5gT1xS40E)**
+**[Trump Just Gave Markets Massive Fuel! (Bitcoin &amp; Crypto To Ignite)](https://www.youtube.com/watch?v=9DjoC5oscXg)**
 
-I AM NOT A FINANCIAL ADVISOR. ALL VIDEOS IS FOR ENTERTAINTMENT PURPOSE; AND I AM DOCUMENTING MY OWN ...
+The Dollar is breaking and the "Sell America" trade is officially on. While the mainstream media calls this chaos, we see the ...
 
-📺 Satoshi Stacker
+📺 Crypto Banter
 
-👁️ 6K • 👍 482 • 💬 32 • ⏱️ 16:31 • 6h ago
+👁️ 7K • 👍 829 • 💬 24 • ⏱️ 26:12 • 51m ago
 
 ---
 
@@ -322,7 +320,27 @@ Bitcoin is approaching a critical level, and before the market fully flips, ther
 
 📺 Crypto Banter
 
-👁️ 4K • 👍 436 • 💬 7 • ⏱️ 18:40 • 4h ago
+👁️ 7K • 👍 535 • 💬 10 • ⏱️ 18:40 • 6h ago
+
+---
+
+**[Tom Lee &amp; Raoul Pal - &quot;GIANT Crypto Reset Coming&quot; | Bitcoin &amp; ETH Price!](https://www.youtube.com/watch?v=8HgGTwrXZGI)**
+
+FREE Daily On-Chain Analysis & Crypto News In 5-Mins: http://bit.ly/TheCryptoNutshell Watch The FULL Interview: "Tom ...
+
+📺 Library Of Wealth
+
+👁️ 8K • 👍 309 • 💬 378 • ⏱️ 16:28 • 11h ago
+
+---
+
+**[Bitcoin’s Setup Is Uncomfortably Clear](https://www.youtube.com/watch?v=nptz_uYBG38)**
+
+Bitcoin, gold, stocks ripping, and altcoin trade ideas! BITUNIX TRADE THE TOP COINS (available everywhere) ...
+
+📺 Lark Davis
+
+👁️ 9K • 👍 614 • 💬 109 • ⏱️ 18:25 • 4h ago
 
 ---
 
@@ -332,17 +350,17 @@ This is not a victory lap — it's a reset. When Tom Lee throws out a $200000–
 
 📺 The Bitcoin Revolution
 
-👁️ 3K • 👍 69 • 💬 68 • ⏱️ 8:58 • 21h ago
+👁️ 3K • 👍 70 • 💬 69 • ⏱️ 8:58 • 22h ago
 
 ---
 
-**[Silver Just Sent a Warning Signal to the Entire Financial System - Got Bitcoin?](https://www.youtube.com/watch?v=5WJyycfYjZs)**
+**[URGENT ‼️ Clarity Act NEWS! 🚨 THURSDAY IS HUGE! XRP BITCOIN ETHEREUM](https://www.youtube.com/watch?v=jqSN3sFW6WM)**
 
-Silver has exploded, gold is ripping, and Bitcoin looks left behind — but history says this is exactly how the cycle works.
+1️⃣ *Join Moe's Discord Code 2026 save 50%* ➡https://www.patreon.com/stockmoe/membership 2️⃣ *Join the NEW Crypto ...
 
-📺 Swan Bitcoin
+📺 Stock Moe
 
-👁️ 53K • 👍 2K • 💬 393 • ⏱️ 17:47 • 16h ago
+👁️ 4K • 👍 564 • 💬 33 • ⏱️ 19:46 • 3h ago
 
 ---
 
@@ -352,17 +370,17 @@ In this solo episode, Anthony Pompliano explains why Bitcoin is lagging while go
 
 📺 Anthony Pompliano
 
-👁️ 77K • 👍 3K • 💬 159 • ⏱️ 17:45 • 1d ago
+👁️ 82K • 👍 3K • 💬 159 • ⏱️ 17:45 • 1d ago
 
 ---
 
-**[Trillion Dollar Comeback into Crypto?📈Market Update](https://www.youtube.com/watch?v=3hqSF6100iE)**
+**[LIVE: Michael Saylor on Bitcoin Bull Run &amp; MSTR Stock – BTC Price Analysis](https://www.youtube.com/watch?v=MmLRrAKR5r4)**
 
-As the stock market witnesses high volatility, experts anticipate potential sharp corrections in the stock market as well as gold and ...
+BTC #Bitcoin #Cryptocurrency Join Michael Saylor for his unforgettable keynote at the Bitcoin Сonference. A visionary Bitcoin ...
 
-📺 Paul Barron Network
+📺 Isinamuva Tutoring
 
-👁️ 69K • 👍 3K • 💬 207 • ⏱️ 17:32 • 18h ago
+👁️ 6K • 👍 4K • 2h ago
 
 ---
 
@@ -372,37 +390,17 @@ Take Control of Your Retirement — Grow Crypto & Gold Tax-Advantaged. https://w
 
 📺 Savvy Finance
 
-👁️ 11K • 👍 464 • 💬 17 • ⏱️ 19:52 • 22h ago
+👁️ 12K • 👍 475 • 💬 17 • ⏱️ 19:52 • 23h ago
 
 ---
 
-**[Rotation to Gold and Silver is Now...Bitcoin Is Next](https://www.youtube.com/watch?v=QVnjXPwRwR0)**
+**[BITCOIN HOLDERS... EVERYTHING IS LINING UP](https://www.youtube.com/watch?v=Zj5gT1xS40E)**
 
-Today, let's examine Bitcoin's charts and metrics, as well as the latest Macro and Crypto news. Additionally, a look at the latest ...
+I AM NOT A FINANCIAL ADVISOR. ALL VIDEOS IS FOR ENTERTAINTMENT PURPOSE; AND I AM DOCUMENTING MY OWN ...
 
-📺 CryptosRUs
+📺 Satoshi Stacker
 
-👁️ 24K • 👍 1K • 💬 275 • ⏱️ 43:35 • 23h ago
-
----
-
-**[BREAKING: IT’S HAPPENING AGAIN](https://www.youtube.com/watch?v=9XzkNFXIRG0)**
-
-Trade Like A Tourist Or Join The Pros FFA Is Where The Real Ones Go https://cryptocrewuniversity.com/ffa Get INSIDER ...
-
-📺 Crypto Crew University
-
-👁️ 39K • 👍 3K • 💬 214 • ⏱️ 15:06 • 1d ago
-
----
-
-**[Bitcoin Is About To Leave Gold In The Dust](https://www.youtube.com/watch?v=BsN1_yIlAL0)**
-
-Exchange Partners** Bitunix Exchange ▻ *$100000 Deposit Bonus* ▻ https://bit.ly/3Tmp1Hq BTCC Exchange ▻ *10% ...
-
-📺 CryptosRUs
-
-👁️ 33K • 👍 2K • 💬 504 • ⏱️ 8:05 • 1d ago
+👁️ 9K • 👍 569 • 💬 38 • ⏱️ 16:31 • 7h ago
 
 ---
 

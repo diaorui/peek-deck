@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-01-28T15:34:41.298557+00:00'
+updated: '2026-01-28T16:39:31.054439+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- social
 - news
-- cryptocurrency
 - videos
+- social
+- cryptocurrency
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** January 28, 2026 at 15:34 UTC  
+**Last Updated:** January 28, 2026 at 16:39 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,27 +42,27 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** +0.4%  
-**7d:** +1.7%  
-**30d:** +0.9%  
-**90d:** -22.1%  
-**1y:** -3.5%  
+**24h:** +2.7%  
+**7d:** +1.9%  
+**30d:** +1.1%  
+**90d:** -21.9%  
+**1y:** -3.3%  
 
 ---
 
 ## Ethereum Market Stats
 
-**Market Cap:** $366.21B
+**Market Cap:** $362.56B
 Rank #2
 
 **Circulating Supply:** 120,694,374 ETH
 No max supply
 
 **All-Time High:** $4,946.05
--38.7%
+-39.3%
 
 **All-Time Low:** $0.43
-+700640.7%
++693802.0%
 
 ---
 
@@ -72,13 +72,13 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-9h ago
+10h ago
 
 ---
 
 **[Pouring one out for Week in Ethereum News 🥃 Website is offline. Thank you Evan Van Ness for your tireless efforts serving the Ethereum community. 🙏](https://www.reddit.com/r/ethereum/comments/1qp227f/pouring_one_out_for_week_in_ethereum_news_website/)**
 
-10h ago
+11h ago
 
 ---
 
@@ -86,7 +86,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 Sorry if it was asked by past, i couldn't find the answer. Question about Lido stETH unstaking instantly, without delay I am having stETH staked on my Ledger Nano X that i'm trying to unstake but on lido page it takes up to a week, isn't there a way to process it faster? Advices appreciated
 
-1h ago
+2h ago
 
 ---
 
@@ -94,7 +94,7 @@ Sorry if it was asked by past, i couldn't find the answer. Question about Lido s
 
 I just launched my hardware wallet review series and the first device to be reviewed gave me surprising results! The imKey Pro is a $110 bluetooth wallet from the 2019 era. It’s not something most people have heard of, and at this point, it can be considered previous gen tech, is partially closed source, and even uses microUSB still (when not using the bluetooth-native connection). Can it still hold up in 2026? Well… surprisingly, yes. Even more assuring is that some years ago, someone deeply embedded in the Ethereum Foundation (and has become even MORE deeply embedded since) told me she uses it exclusively. Not Ledger, not Trezor, not GridPlus. The imKey. That endorsement alone made me take this device very seriously. So I tested everything: the Infineon SLE78 secure element, the bluetooth security model, the mobile-first UX, the clear signing implementation. Pros: EAL6+ certified chip (same as your passport, bank cards, and Yubikey!!!) (More) readable transaction context Wireless signing via imToken app Great build quality Entry-level price Cons: 2019 hardware showing its age Bluetooth = wider attack surface Firmware isn't open source Requires binding codes if using the bluetooth connection via imToken app Limited desktop support For a $110 entry-level option, I would definitely consider it. First of all, ANY migration away from holding your private keys inside an internet-connected device (e.g. your laptop, a hot wallet on your phone, etc.) to a dedicated hardware wallet will be a MASSIVE security upgrade. Don’t let perfect be the enemy of good. But knowing there’s other, more modern options out there now, it can be difficult to *strongly* recommend the imKey over other options. But the question begs… what did my EF associate see in the imKey that I didn’t? I had to find out. Watch my full review video here: https://youtu.be/FV2qJ3eLXFI ------------------------- If we're meeting for the first time, hi 👋! I find crypto youtube to be a giant cesspool. As a result, I started building my channel to spread the good word on good work in crypto — something with substance and humanity. Dropping a like, sub, and comment goes a LONG way to supporting me, so please consider doing so!
 
-🔗 [youtu.be](https://youtu.be/FV2qJ3eLXFI) • 1h ago
+🔗 [youtu.be](https://youtu.be/FV2qJ3eLXFI) • 2h ago
 
 ---
 
@@ -102,7 +102,7 @@ I just launched my hardware wallet review series and the first device to be revi
 
 Hi r/ethereum, I’ve been running a personal experiment called FitVow. The idea is simple: I stake real ETH into a smart contract, commit to weekly physical activity goals, and let the contract enforce the rules without a trusted referee. Each week, an Android app reads physical activity data from my smartwatch and publishes it on-chain (e.g. runs, workouts and etc). The contract uses that data to decide whether that week’s goals were met. If a week fails: that week creates an enforceable fine (paid out from the stake) enforcement is permissionless (anyone can trigger it) the fine is split between the enforcer (caller) and a charity wallet (Giveth) At the end of the challenge, I’m allowed to withdraw whatever remains of the stake after any fines. There’s no backend deciding outcomes and no admin override. Once deployed, the rules are the rules. This is not a product — just an experiment exploring whether Ethereum is a good tool for credible self-commitment outside of DeFi. Live dashboard (reads directly from on-chain data): https://fitvow.pedroaugusto.dev/ Technical write-up (architecture + security assumptions): https://pedrooaugusto.github.io/blog/posts/making-missed-workouts-cost-money-with-smart-contracts/ I’d love feedback — especially on whether this feels like a reasonable use of Ethereum, and what you’d poke holes in.
 
-22h ago
+23h ago
 
 ---
 
@@ -116,7 +116,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 **[Built a little ethereum wallet for a metamask interview](https://www.reddit.com/r/ethereum/comments/1qon8y9/built_a_little_ethereum_wallet_for_a_metamask/)**
 
-20h ago
+21h ago
 
 ---
 
@@ -148,11 +148,25 @@ I am trying to create a delegate wallet for every user which is connected to my 
 
 ## Google News: "ethereum"
 
+**[Bitcoin and Ethereum Traders Should Watch 'Narrative Whipsaw' Heading into Fed Decision](https://decrypt.co/356142/bitcoin-ethereum-traders-narrative-whipsaw-fed-decision)**
+
+Bitcoin holds at $89K and Ethereum reclaims $3K ahead of the Fed's rate decision, while markets have assigned 97% odds of no change.
+
+Decrypt • 3h ago
+
+---
+
 **[Ethereum to launch standard for AI agent economy on mainnet this week](https://www.theblock.co/post/387345/ethereum-ai-agentic-economy-mainnet)**
 
 The ERC-8004 proposal aims to let AI agents interact with entities on Ethereum, allowing them to participate in a decentralized economy.
 
-The Block • 8h ago
+The Block • 9h ago
+
+---
+
+**[Ethereum News: Ether Price Surged 226% After This Global Liquidity Signal — Is ETH Setting Up Another Breakout?](https://www.binance.com/en/square/post/01-27-2026-ethereum-news-ether-price-surged-226-after-this-global-liquidity-signal-is-eth-setting-up-another-breakout-35635381799361)**
+
+Binance • 1d ago
 
 ---
 
@@ -164,36 +178,6 @@ The Motley Fool • 1d ago
 
 ---
 
-**[Bitcoin and Ethereum Traders Should Watch 'Narrative Whipsaw' Heading into Fed Decision](https://finance.yahoo.com/news/bitcoin-ethereum-traders-watch-narrative-124212899.html)**
-
-Bitcoin and Ethereum rise as traders brace for Fed's first 2025 rate decision—will Powell's labor concerns hint at March cuts or delay easing?
-
-Yahoo Finance • 2h ago
-
----
-
-**[Ethereum News: Ether Price Surged 226% After This Global Liquidity Signal — Is ETH Setting Up Another Breakout?](https://www.binance.com/en/square/post/01-27-2026-ethereum-news-ether-price-surged-226-after-this-global-liquidity-signal-is-eth-setting-up-another-breakout-35635381799361)**
-
-Binance • 1d ago
-
----
-
-**[Ethereum Price May Fall Below $2000, Says Bloomberg Analyst — Is It Likely?](https://finance.yahoo.com/news/ethereum-price-may-fall-below-120957972.html)**
-
-Bloomberg’s Mike McGlone warns of Ethereum sustained downside risk. Other strategists disagree on the near-term outlook. The predictions come amid the ERC-8004 announcement. A prominent ...
-
-Yahoo Finance • 3h ago
-
----
-
-**[Ethereum Trades Sideways While Supply Dynamics Evolve—Here’s What’s Next for ETH Price](https://coinpedia.org/price-analysis/ethereum-trades-sideways-while-supply-dynamics-evolve-heres-whats-next-for-eth-price/)**
-
-The Ethereum price is stuck below $3000 without making a serious attempt at rising and securing above this range
-
-Coinpedia Fintech News • 3h ago
-
----
-
 **[Why This Former BlackRock Executive Thinks Ethereum's TVL Will 10X in 2026](https://www.coindesk.com/markets/2026/01/26/macro-fears-mask-ethereum-s-momentum-sharplink-ceo-says)**
 
 SharpLink CEO Joseph Chalom argues that macro uncertainty is hiding a massive institutional shift toward Ethereum-based tokenization.
@@ -202,25 +186,41 @@ CoinDesk • 1d ago
 
 ---
 
-**[Bitcoin, Ethereum, XRP Rise. Why the Sell America Trade Has Gripped Cryptos.](https://www.barrons.com/articles/bitcoin-ethereum-xrp-crypto-today-18fbb937?gaa_at=eafs&gaa_n=AWEtsqfcLQFdYKr2iPub6LYEZ2bp41O3PMVU4TxU90OyJ3GnYuuagWVXYokp&gaa_ts=697a2ffc&gaa_sig=-5VnuAA0mre5beuOir8G1Pl3sLQ8SPl3fV6_lds6phGzqWEDez1okXY-uOxM8gIaUHkMhk6S7sRpAvbvkVoY-g%3D%3D)**
-
-Barron's • 4h ago
-
----
-
-**[Zama’s Encrypted Ethereum Token Auction Draws $118M in Commitments](https://thedefiant.io/news/defi/zama-s-encrypted-ethereum-token-auction-draws-usd118m-in-commitments)**
-
-The project said its auction app dominated Ethereum activity on Jan. 24 and that TVS topped $100 million within three days.
-
-thedefiant.io • 1d ago
-
----
-
 **[Tom Lee's BitMine Makes Biggest Ethereum Buy Yet in 2026](https://finance.yahoo.com/news/tom-lees-bitmine-makes-biggest-155303327.html)**
 
 Publicly traded Ethereum treasury firm BitMine Immersion Technologies added to its stash with its largest ETH acquisition of the year so far.
 
-Yahoo Finance • 1d ago
+Yahoo Finance • 2d ago
+
+---
+
+**[Tom Lee's BitMine nears 70% of Ethereum treasury target with latest 40,302 ETH buy](https://www.theblock.co/post/387035/tom-lee-bitmine-ethereum-buy)**
+
+BitMine's total crypto and cash holdings currently stand at $12.8 billion, and the company owns 3.52% of Ethereum's circulating supply.
+
+The Block • 2d ago
+
+---
+
+**[BitMine, the largest Ethereum treasury firm, makes biggest ether purchase of 2026](https://www.coindesk.com/business/2026/01/26/bitmine-the-largest-ethereum-treasury-makes-biggest-ether-purchase-of-2026)**
+
+The crypto treasury firm added over 40,000 ETH  last week and has now staked over 2 million tokens.
+
+CoinDesk • 2d ago
+
+---
+
+**[Bitcoin, Ethereum, XRP Rise. Why the Sell America Trade Has Gripped Cryptos.](https://www.barrons.com/articles/bitcoin-ethereum-xrp-crypto-today-18fbb937?gaa_at=eafs&gaa_n=AWEtsqfAM4B5JLA7siqaQeJfc3tTHDkmMYGIwPUevA7o3TltUCSDcJrm0TNk&gaa_ts=697a3f29&gaa_sig=iCQMM5mR9e3C4x-wUF7pnvKEcrd4I8ortDFEZS_WfIM-F-uKkZJA8KktYpLolqixFwaPmJ1FPhRf7oQ_DOpyKA%3D%3D)**
+
+Barron's • 5h ago
+
+---
+
+**[XRP, Ethereum Now ‘Undervalued’ On MVRV, Says Santiment](https://www.tradingview.com/news/newsbtc:3378aa0c9094b:0-xrp-ethereum-now-undervalued-on-mvrv-says-santiment/)**
+
+On-chain analytics firm Santiment has pointed out how XRP and Ethereum are among coins sitting in the MVRV Ratio’s “undervalued” zone.30-Day MVRV Is Negative For XRP & EthereumIn a new post on X, on-chain analytics firm Santiment has talked about where some notable cryptocurrencies like XRP and Bit…
+
+TradingView • 1d ago
 
 ---
 
@@ -234,7 +234,7 @@ FREE Daily On-Chain Analysis & Crypto News In 5-Mins: http://bit.ly/TheCryptoNut
 
 📺 Library Of Wealth
 
-👁️ 5K • 👍 263 • 💬 330 • ⏱️ 16:28 • 10h ago
+👁️ 8K • 👍 309 • 💬 378 • ⏱️ 16:28 • 11h ago
 
 ---
 
@@ -244,7 +244,7 @@ Tom Lee Just Said The UNTHINKABLE About Bitcoin & Ethereum! [2026 New Prediction
 
 📺 Crypto Nutshell
 
-👁️ 23K • 👍 653 • 💬 103 • ⏱️ 14:37 • 1d ago
+👁️ 24K • 👍 675 • 💬 123 • ⏱️ 14:37 • 1d ago
 
 ---
 
@@ -254,27 +254,7 @@ Tom Lee Just Said The UNTHINKABLE About Bitcoin & Ethereum! [2026 New Prediction
 
 📺 Stock Moe
 
-👁️ 793 • 👍 140 • 💬 6 • ⏱️ 19:46 • 2h ago
-
----
-
-**[WHY ETHEREUM CAN RALLY HIGHER!🔥 (Ethereum Price Prediction 2026)](https://www.youtube.com/watch?v=eCERvm1bTqQ)**
-
-ETHEREUM ETH PRICE PREDICTION 2026 Join the Premium Signal Group for trade setups, mentorship & a community ...
-
-📺 Cilinix Crypto
-
-👁️ 121 • 👍 13 • 💬 1 • ⏱️ 4:20 • 5h ago
-
----
-
-**[Ethereum: Dubious Speculation](https://www.youtube.com/watch?v=J-QHMNnRK-Q)**
-
-Let's talk about Ethereum! For inquirires: https://www.benjamincowen.com/ Into The Cryptoverse Premium: ...
-
-📺 Benjamin Cowen
-
-👁️ 69K • 👍 3K • 💬 231 • ⏱️ 26:46 • 2d ago
+👁️ 4K • 👍 564 • 💬 33 • ⏱️ 19:46 • 3h ago
 
 ---
 
@@ -284,17 +264,47 @@ This video provides a professional Elliott Wave and technical analysis of Ethere
 
 📺 More Crypto Online
 
-👁️ 1K • 👍 108 • 💬 7 • ⏱️ 4:42 • 13h ago
+👁️ 2K • 👍 109 • 💬 7 • ⏱️ 4:42 • 14h ago
 
 ---
 
-**[🚨 BTC &amp; ETH: SCARY!!!!!](https://www.youtube.com/watch?v=ChdzwU6zguI)**
+**[WHY ETHEREUM CAN RALLY HIGHER!🔥 (Ethereum Price Prediction 2026)](https://www.youtube.com/watch?v=eCERvm1bTqQ)**
 
-These news have huge implications towards bitcoin, ethereum and the rest of crypto! Here is my take on the situation and my ...
+ETHEREUM ETH PRICE PREDICTION 2026 Join the Premium Signal Group for trade setups, mentorship & a community ...
 
-📺 Thomas Kralow
+📺 Cilinix Crypto
 
-👁️ 18K • 👍 3K • 💬 37 • ⏱️ 10:51 • 2d ago
+👁️ 161 • 👍 13 • 💬 1 • ⏱️ 4:20 • 6h ago
+
+---
+
+**[DUMP CRYPTO FOR GOLD &amp; SILVER? BITCOIN, XRP, ETHEREUM, &amp; SOLANA ANALYSIS!](https://www.youtube.com/watch?v=8mD6bEdifFE)**
+
+Brian from Santiment joined me to review the crypto market metrics for Bitcoin, Ethereum, Ripple XRP, Solana, and Avax. We also ...
+
+📺 Thinking Crypto
+
+👁️ 1K • 👍 158 • 💬 43 • ⏱️ 31:00 • 3h ago
+
+---
+
+**[Ethereum: Dubious Speculation](https://www.youtube.com/watch?v=J-QHMNnRK-Q)**
+
+Let's talk about Ethereum! For inquirires: https://www.benjamincowen.com/ Into The Cryptoverse Premium: ...
+
+📺 Benjamin Cowen
+
+👁️ 69K • 👍 3K • 💬 233 • ⏱️ 26:46 • 2d ago
+
+---
+
+**[CRYPTO LIVE TRADING || 28 JANUARY || BITCOIN / ETHEREUM #cryptotrading #bitcoin #cryptolive](https://www.youtube.com/watch?v=8_2S0Fsvdmc)**
+
+No Paid Services | No Call Tips | Alert from Fraud People's they are asking for money using our name | Crypto Trading Account ...
+
+📺 Balraj Trading Tech
+
+👁️ 4K • 👍 635 • 1h ago
 
 ---
 
@@ -304,7 +314,7 @@ SharpLink CEO and former BlackRock head of digital assets strategy, Joseph Chalo
 
 📺 CoinDesk
 
-👁️ 19K • 👍 600 • 💬 110 • ⏱️ 23:51 • 1d ago
+👁️ 20K • 👍 613 • 💬 110 • ⏱️ 23:51 • 1d ago
 
 ---
 
@@ -314,17 +324,7 @@ Donation Address: yourfriendsommi.eth / yourfriendsommi.pls Click Subscribe + Be
 
 📺 🌟yourfriendsommi
 
-👁️ 558 • 👍 114 • 💬 5 • ⏱️ 15:53 • 4h ago
-
----
-
-**[Tom Lee - &quot;Biggest Crypto Reset EVER&quot; | Bitcoin &amp; ETH Price Prediction](https://www.youtube.com/watch?v=lZSS8ZRghvA)**
-
-My FREE Daily On-Chain Analysis & Crypto News In 5-Mins: https://www.cryptonutshell.com/subscribe You can NOW ...
-
-📺 Jamie Tree 
-
-👁️ 3K • 👍 88 • 💬 34 • ⏱️ 17:46 • 3d ago
+👁️ 1K • 👍 167 • 💬 12 • ⏱️ 15:53 • 5h ago
 
 ---
 
