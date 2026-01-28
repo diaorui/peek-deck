@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-01-28T22:28:14.671696+00:00'
+updated: '2026-01-28T22:56:43.952472+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- news
 - repositories
-- social
+- news
 - videos
+- social
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** January 28, 2026 at 22:28 UTC  
+**Last Updated:** January 28, 2026 at 22:56 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -41,7 +41,15 @@ AI news, discussions, and developments
 
 More and more of my freelance clients are turning to "vibe coding" instead of hiring me. Whether AI is doing a good job or whether it can create production-ready apps doesn't really matter, my clients don't care because they never end up moving past the MVP phase (something I already knew before AI). All the money in freelance work is basically in MVP, and AI coding agents are perfect for developing MVPs that go nowhere.
 
-4h ago
+5h ago
+
+---
+
+**[US cyber defense chief accidentally uploaded secret government info to ChatGPT](https://www.reddit.com/r/artificial/comments/1qpmjpa/us_cyber_defense_chief_accidentally_uploaded/)**
+
+Alarming critics, the acting director of the Cybersecurity and Infrastructure Security Agency, Madhu Gottumukkala, accidentally uploaded sensitive information to a public version of ChatGPT last summer, reports say. According to “four Department of Homeland Security officials with knowledge of the incident,” Gottumukkala’s uploads of sensitive CISA contracting documents triggered multiple internal cybersecurity warnings designed to “stop the theft or unintentional disclosure of government material from federal networks.” Gottumukkala’s uploads happened soon after he joined the agency and sought special permission to use OpenAI’s popular chatbot, which most DHS staffers are blocked from accessing. Instead, DHS staffers use approved AI-powered tools, like the agency’s DHSChat, which “are configured to prevent queries or documents input into them from leaving federal networks." It remains unclear why Gottumukkala needed to use ChatGPT. One official said that, to staffers, it seemed like Gottumukkala “forced CISA’s hand into making them give him ChatGPT, and then he abused it.” Full article: https://arstechnica.com/tech-policy/2026/01/us-cyber-defense-chief-accidentally-uploaded-secret-government-info-to-chatgpt/
+
+🔗 [Ars Technica](http://arstechnica.com/tech-policy/2026/01/us-cyber-defense-chief-accidentally-uploaded-secret-government-info-to-chatgpt) • 2h ago
 
 ---
 
@@ -59,11 +67,11 @@ Unsealed legal documents reveal Meta, TikTok, and Google purposefully targeted c
 
 ---
 
-**[US cyber defense chief accidentally uploaded secret government info to ChatGPT](https://www.reddit.com/r/artificial/comments/1qpmjpa/us_cyber_defense_chief_accidentally_uploaded/)**
+**[Trump's use of AI images pushes new boundaries, further eroding public trust, experts say](https://www.reddit.com/r/artificial/comments/1qpqh4k/trumps_use_of_ai_images_pushes_new_boundaries/)**
 
-Alarming critics, the acting director of the Cybersecurity and Infrastructure Security Agency, Madhu Gottumukkala, accidentally uploaded sensitive information to a public version of ChatGPT last summer, reports say. According to “four Department of Homeland Security officials with knowledge of the incident,” Gottumukkala’s uploads of sensitive CISA contracting documents triggered multiple internal cybersecurity warnings designed to “stop the theft or unintentional disclosure of government material from federal networks.” Gottumukkala’s uploads happened soon after he joined the agency and sought special permission to use OpenAI’s popular chatbot, which most DHS staffers are blocked from accessing. Instead, DHS staffers use approved AI-powered tools, like the agency’s DHSChat, which “are configured to prevent queries or documents input into them from leaving federal networks." It remains unclear why Gottumukkala needed to use ChatGPT. One official said that, to staffers, it seemed like Gottumukkala “forced CISA’s hand into making them give him ChatGPT, and then he abused it.” Full article: https://arstechnica.com/tech-policy/2026/01/us-cyber-defense-chief-accidentally-uploaded-secret-government-info-to-chatgpt/
+The Trump administration has not shied away from sharing AI-generated imagery online, embracing cartoonlike visuals and memes and promoting them on official White House channels.
 
-🔗 [Ars Technica](http://arstechnica.com/tech-policy/2026/01/us-cyber-defense-chief-accidentally-uploaded-secret-government-info-to-chatgpt) • 2h ago
+🔗 [AP News](https://apnews.com/article/ai-videos-trump-ice-artificial-intelligence-08d91fa44f3146ec1f8ee4d213cdad31) • 17m ago
 
 ---
 
@@ -71,15 +79,7 @@ Alarming critics, the acting director of the Cybersecurity and Infrastructure Se
 
 DeepMind’s AlphaGenome AI model could help solve the problem of predicting how variations in noncoding DNA shape gene expression
 
-🔗 [Scientific American](https://www.scientificamerican.com/article/google-deepmind-unleashes-new-ai-alphagenome-to-investigate-dnas-dark-matter/) • 5h ago
-
----
-
-**[We detected 28,194 attacks on AI agents this week. Inter-agent attacks are now a thing.](https://www.reddit.com/r/artificial/comments/1qp58il/we_detected_28194_attacks_on_ai_agents_this_week/)**
-
-After the Claude/Anthropic incident where AI was used in a large-scale cyberattack, we've been publishing weekly threat intelligence on what's actually targeting AI agents in production. This week (74,636 interactions monitored) 37.8% contained attack attempts 74.8% of those were cybersecurity-related (malware gen, exploits) The new threat nobody's talking about: Inter-Agent Attacks As people deploy multi-agent systems, attackers are sending poisoned messages designed to propagate from one agent to another. We're seeing: Agent impersonation Goal hijacking Constraint removal Recursive attack propagation This is 3.4% of threats now, detected at 97.7% confidence. Top attack categories Data exfiltration (19.2%) - stealing system prompts and context Jailbreaks (12.3%) RAG poisoning (10.0%) Prompt injection (8.8%) The ClawdBot incident was the canary. If your AI can take actions, it's a target. Full report: https://raxe.ai/threat-intelligence Github: https://github.com/raxe-ai/raxe-ce is free for the community to use
-
-14h ago
+🔗 [Scientific American](https://www.scientificamerican.com/article/google-deepmind-unleashes-new-ai-alphagenome-to-investigate-dnas-dark-matter/) • 6h ago
 
 ---
 
@@ -91,11 +91,11 @@ I just saw a post discussing clawdbot, about someone not finding a usecase for a
 
 ---
 
-**[LAD-A2A: How AI agents find each other on local networks](https://www.reddit.com/r/artificial/comments/1qpn2qq/lada2a_how_ai_agents_find_each_other_on_local/)**
+**[LLMs can beat Balatro!](https://www.reddit.com/r/artificial/comments/1qppxgk/llms_can_beat_balatro/)**
 
-AI agents are getting really good at doing things, but they're completely blind to their physical surroundings. If you walk into a hotel and you have an AI assistant (like the Chatgpt mobile app), it has no idea there may be a concierge agent on the network that could help you book a spa, check breakfast times, or request late checkout. Same thing at offices, hospitals, cruise ships. The agents are there, but there's no way to discover them. A2A (Google's agent-to-agent protocol) handles how agents talk to each other. MCP handles how agents use tools. But neither answers a basic question: how do you find agents in the first place? So I built LAD-A2A, a simple discovery protocol. When you connect to a Wi-Fi, your agent can automatically find what's available using mDNS (like how AirDrop finds nearby devices) or a standard HTTP endpoint. The spec is intentionally minimal. I didn't want to reinvent A2A or create another complex standard. LAD-A2A just handles discovery, then hands off to A2A for actual communication. Open source, Apache 2.0. Includes a working Python implementation you can run to see it in action. Curious what people think!
+LLMs can beat base-difficulty Balatro when passed the game state as JSON, with win rate matching human players. Admittedly getting a stringified version of the game is a big boost over having to learn to navigate the game UI with clicks, but aside from this the agents acted with no additional help in the form of specifically coded harnesses, loops, prompting, or hand written strategy. I tested on models from Anthropic, OpenAI, and Google, and there was a big surprise in which model performed the best. Spoiler: it was not the biggest or most expensive one.
 
-1h ago
+🔗 [balatro-agents.jordanzhang.me](https://balatro-agents.jordanzhang.me) • 38m ago
 
 ---
 
@@ -103,13 +103,15 @@ AI agents are getting really good at doing things, but they're completely blind 
 
 Tried ClawdBot (now MoltBot) on a freshly installed system. At first? 🔥 Insane. It found a pitch deck buried in my messy external HDD and even sent it on WhatsApp. Super impressive. Few hours later — I get an Amazon alert: • Login at 2:40 AM • Different location • Logged in from Windows • I’m on Linux • I did NOT log in Could be a false alert (I have 2FA), but the timing freaked me out. Tried uninstalling the bot — no clear guide. Had to dig into code, found it running as a system service, manually removed everything. Realized my mistake: Chrome was installed → password manager + sessions were there. ⚠️ Lesson: These tools are powerful, but don’t install them unless you fully understand what access you’re giving. Not accusing. Just sharing experience. If you know a guide to uninstall if it’s available on the site, please drop it.
 
-23h ago
+1d ago
 
 ---
 
-**[Pinterest lays off hundreds, citing need for 'AI-proficient talent'](https://www.reddit.com/r/artificial/comments/1qotqu1/pinterest_lays_off_hundreds_citing_need_for/)**
+**[LAD-A2A: How AI agents find each other on local networks](https://www.reddit.com/r/artificial/comments/1qpn2qq/lada2a_how_ai_agents_find_each_other_on_local/)**
 
-🔗 [sfgate.com](https://www.sfgate.com/tech/article/pinterest-layoffs-hundreds-ai-21318302.php) • 23h ago
+AI agents are getting really good at doing things, but they're completely blind to their physical surroundings. If you walk into a hotel and you have an AI assistant (like the Chatgpt mobile app), it has no idea there may be a concierge agent on the network that could help you book a spa, check breakfast times, or request late checkout. Same thing at offices, hospitals, cruise ships. The agents are there, but there's no way to discover them. A2A (Google's agent-to-agent protocol) handles how agents talk to each other. MCP handles how agents use tools. But neither answers a basic question: how do you find agents in the first place? So I built LAD-A2A, a simple discovery protocol. When you connect to a Wi-Fi, your agent can automatically find what's available using mDNS (like how AirDrop finds nearby devices) or a standard HTTP endpoint. The spec is intentionally minimal. I didn't want to reinvent A2A or create another complex standard. LAD-A2A just handles discovery, then hands off to A2A for actual communication. Open source, Apache 2.0. Includes a working Python implementation you can run to see it in action. Repo can be found at franzvill/lad. Curious what people think!
+
+2h ago
 
 ---
 
@@ -147,25 +149,37 @@ NPR • 12h ago
 
 ---
 
-**[Microsoft (MSFT) Drops After Reporting Record Spending on AI Hardware](https://www.bloomberg.com/news/articles/2026-01-28/microsoft-drops-after-reporting-record-spending-on-ai-hardware)**
+**[Elon Musk pivots Tesla to robotics and AI as car business flails](https://www.theguardian.com/technology/2026/jan/28/tesla-q4-earnings-estimates-elon-musk)**
 
-Microsoft Corp.’s spending surged to a record high in the last three months of 2025, sending the shares down amid investor concerns that it will take longer than expected for the company’s AI investments to pay off.
+Musk’s optimism for Optimus robot demand help EV maker beat quarterly expectations despite first-ever yearly revenue decline
 
-Bloomberg.com • 1h ago
-
----
-
-**[Anthropic will power ServiceNow agents, deepen Claude integration](https://www.axios.com/2026/01/28/ai-anthropic-claude-servicenow-agents)**
-
-Claude will power ServiceNow's Build Agent, the company's AI tool for building applications and workflows.
-
-Axios • 1h ago
+The Guardian • 32m ago
 
 ---
 
-**[Caterpillar Earnings Are Coming. The Bar Is High, Thanks to AI.](https://www.barrons.com/articles/caterpillar-earnings-stock-price-9fa7aa49?gaa_at=eafs&gaa_n=AWEtsqeX1uB6pwIFuIp8_vge-NXP-DPnlNzCx9jAdpL8Y5Qv8oJGe-3XijUq&gaa_ts=697a837f&gaa_sig=pv1lq_0J24AdbUFaxHr1RrSRvmIDqqh9wugxvK3tG78_xKTOXksHK9zpKBE3Z7RKPkf8J59CUKPKTC-AD_qq-w%3D%3D)**
+**[Exclusive: Nvidia helped DeepSeek hone AI models later used by China's military, lawmaker says](https://www.reuters.com/world/china/nvidia-helped-deepseek-hone-ai-models-later-used-by-chinas-military-lawmaker-2026-01-28/)**
 
-Barron's • 1h ago
+Reuters • 32m ago
+
+---
+
+**[Meta's AI spending rises and profit beats. Stock jumps.](https://www.marketwatch.com/livecoverage/meta-earnings-results-stock-ai-capex-zuckerberg?gaa_at=eafs&gaa_n=AWEtsqdCnPXw3cyMZTSETM1Ai8eN15bubKp_Oa_pz-RVmEFiGFD8TnlGKB4b&gaa_ts=697a978d&gaa_sig=v7IWYLcoxeaH4ZbpknURhSveG8WnyB_3p9Oeu5_46KYBeWNmWAZ8uFoOgkpoA4RHcUI17LPGY_k39u8MgdSwYw%3D%3D)**
+
+MarketWatch • 1h ago
+
+---
+
+**[Meta stock pops on positive profit outlook despite AI spending surge](https://www.axios.com/2026/01/28/meta-earnings-outlook-ai-spending)**
+
+Meta has been pouring billions into AI talent and infrastructure, which executives have said is essential to the company's future and to keep the U.S. competitive in AI.
+
+Axios • 35m ago
+
+---
+
+**[Meta Says Revenue to Beat Estimates, Supporting AI Spending](https://www.bloomberg.com/news/articles/2026-01-28/meta-says-2026-spending-will-blow-past-analysts-estimates)**
+
+Bloomberg • 45m ago
 
 ---
 
@@ -174,22 +188,6 @@ Barron's • 1h ago
 Amazon is laying off 16,000 employees, the company’s second round of massive job reductions in two months as it fights to improve its standing in the battle for AI supremacy.
 
 CNN • 11h ago
-
----
-
-**[Amazon to cut 16,000 roles as it looks to invest in AI, remove ‘bureaucracy’](https://www.foxbusiness.com/economy/amazon-cut-16000-roles-looks-invest-ai-remove-bureaucracy)**
-
-Amazon announces 16,000 job cuts in major restructuring to reduce bureaucracy and management layers while investing in AI and other strategic growth areas.
-
-Fox Business • 10h ago
-
----
-
-**[An Amazon worker used an AI tool to flag which roles were on the chopping block](https://www.businessinsider.com/amazon-layoffs-ai-tool-affected-teams-2026-1)**
-
-Amazon plans to lay off 16,000 employees, impacting teams like AWS and Alexa. An employee used an AI tool to list potentially affected areas.
-
-Business Insider • 3h ago
 
 ---
 
@@ -207,7 +205,7 @@ Business Insider • 3h ago
 
 Apple today unveiled the new AirTag, now with an expanded finding range and a louder speaker.
 
-⬆️ 601 • 💬 737 • 2d ago • [Apple Newsroom](https://www.apple.com/newsroom/2026/01/apple-introduces-new-airtag-with-expanded-range-and-improved-findability/)
+⬆️ 602 • 💬 738 • 2d ago • [Apple Newsroom](https://www.apple.com/newsroom/2026/01/apple-introduces-new-airtag-with-expanded-range-and-improved-findability/)
 
 ---
 
@@ -239,7 +237,7 @@ Today everybody's doing AI code review. Here's how Greptile's viewpoint is diffe
 
 Interactive article explaining the physics of an airfoil and what makes airplanes fly
 
-⬆️ 282 • 💬 45 • 7h ago • [ciechanow.ski](https://ciechanow.ski/airfoil/)
+⬆️ 319 • 💬 47 • 8h ago • [ciechanow.ski](https://ciechanow.ski/airfoil/)
 
 ---
 
@@ -261,7 +259,7 @@ Opinion: Autonomous agents may generate millions of lines of code, but shipping 
 
 SERA is the first in our family of Open Coding Agents, achieving state-of-the-art performance at low cost.
 
-⬆️ 231 • 💬 43 • 1d ago • [allenai.org](https://allenai.org/blog/open-coding-agents)
+⬆️ 232 • 💬 43 • 1d ago • [allenai.org](https://allenai.org/blog/open-coding-agents)
 
 ---
 
@@ -269,7 +267,7 @@ SERA is the first in our family of Open Coding Agents, achieving state-of-the-ar
 
 AISLE's autonomous analyzer found all 12 CVEs in the January 2026 coordinated release of OpenSSL, the open-source cryptographic library that underp...
 
-⬆️ 188 • 💬 128 • 20h ago • [AISLE](https://aisle.com/blog/aisle-discovered-12-out-of-12-openssl-vulnerabilities)
+⬆️ 190 • 💬 128 • 21h ago • [AISLE](https://aisle.com/blog/aisle-discovered-12-out-of-12-openssl-vulnerabilities)
 
 ---
 
@@ -341,7 +339,7 @@ Anthropic CEO Dario Amodei called for an embargo on the sale of chips and data c
 
 📺 Alieff Irfan
 
-👁️ 718K • 👍 38K • 💬 6K • ⏱️ 40:22 • 9h ago
+👁️ 718K • 👍 38K • 💬 6K • ⏱️ 40:22 • 10h ago
 
 ---
 
@@ -397,7 +395,7 @@ Kimi K2.5 is a native multimodal agentic model with 1T parameters, excelling in 
 
 `image-text-to-text`
 
-⬇️ 10,965 • ❤️ 871 • 19h ago
+⬇️ 10,965 • ❤️ 871 • 20h ago
 
 ---
 
@@ -509,7 +507,7 @@ Sweep Next-Edit 1.5B is a GGUF quantized model for next-edit code autocompletion
 
 The Qwen3-TTS series presents advanced multilingual text-to-speech models with voice cloning and controllable speech generation capabilities, utilizing dual-track LM architecture and specialized speech tokenizers for efficient streaming synthesis.
 
-▲ 47 • 💬 1 • ⭐ 5,613 • 6d ago
+▲ 47 • 💬 1 • ⭐ 5,613 • 7d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2601.15621) • [💻 code](https://github.com/QwenLM/Qwen3-TTS)
 
@@ -641,7 +639,7 @@ Browser automation CLI for AI agents
 
 `TypeScript`
 
-⭐ 11.2k • 🔱 615 • 4h ago
+⭐ 11.2k • 🔱 615 • 5h ago
 
 ---
 
@@ -651,7 +649,7 @@ AI → JSON → UI
 
 `TypeScript`
 
-⭐ 9.5k • 🔱 502 • 6h ago
+⭐ 9.5k • 🔱 502 • 7h ago
 
 ---
 

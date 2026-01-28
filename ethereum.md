@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-01-28T22:28:14.685952+00:00'
+updated: '2026-01-28T22:56:43.966755+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- news
-- social
-- cryptocurrency
 - videos
+- news
+- cryptocurrency
+- social
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** January 28, 2026 at 22:28 UTC  
+**Last Updated:** January 28, 2026 at 22:56 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -43,10 +43,10 @@ Live Ethereum monitoring dashboard
 ## Ethereum Chart
 
 **24h:** -0.2%  
-**7d:** +2.2%  
-**30d:** +1.4%  
-**90d:** -21.7%  
-**1y:** -3.1%  
+**7d:** +2.3%  
+**30d:** +1.5%  
+**90d:** -21.6%  
+**1y:** -2.9%  
 
 ---
 
@@ -90,6 +90,14 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 ---
 
+**[Vitalik retweets post saying 80,000 people were killed in Iran in 2 days.](https://www.reddit.com/r/ethereum/comments/1qpqgtk/vitalik_retweets_post_saying_80000_people_were/)**
+
+https://x.com/VitalikButerin/status/2016460401068614076 The situation in Iran is continuing to get much worse. Much respect for everyone going through extreme danger to try to increase the chance that Iranian people can be free. From the original tweet: Let the world know: in just two days they slaughtered at least 80,000 of us people who simply stepped out onto the streets. Has he not seen how Iraq, Syria, Libya etc were devastated after regime change? I don't like my own government but I would hate to see it get regime changed and the country destroyed.
+
+17m ago
+
+---
+
 **[Pouring one out for Week in Ethereum News 🥃 Website is offline. Thank you Evan Van Ness for your tireless efforts serving the Ethereum community. 🙏](https://www.reddit.com/r/ethereum/comments/1qp227f/pouring_one_out_for_week_in_ethereum_news_website/)**
 
 17h ago
@@ -100,7 +108,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 Sorry if it was asked by past, i couldn't find the answer. Question about Lido stETH unstaking instantly, without delay I am having stETH staked on my Ledger Nano X that i'm trying to unstake but on lido page it takes up to a week, isn't there a way to process it faster? Advices appreciated
 
-8h ago
+9h ago
 
 ---
 
@@ -134,14 +142,6 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 ---
 
-**[The scaling hierarchy in blockchains](https://www.reddit.com/r/ethereum/comments/1qo08yq/the_scaling_hierarchy_in_blockchains/)**
-
-Computation > data > state Computation is easier to scale than data. You can parallelize it, require the block builder to provide all kinds of "hints" for it, or just replace arbitrary amounts of it with a proof of it. Data is in the middle. If an availability guarantee on data is required, then that guarantee is required, no way around it. But you can split it up and erasure code it, a la PeerDAS. You can do graceful degradation for it: if a node only has 1/10 the data capacity of the other nodes, it can always produce blocks 1/10 the size. State is the hardest. To guarantee the ability to verify even one transaction, you need the full state. If you replace the state with a tree and keep the root, you need the full state to be able to update that root. There are ways to split it up, but they involve architecture changes, they are fundamentally not general-purpose. Hence, if you can replace state with data (without introducing new forms of centralization), by default you should seriously consider it. And if you can replace data with computation (without introducing new forms of centralization), by default you should seriously consider it.
-
-1d ago
-
----
-
 ---
 
 ## Google News: "ethereum"
@@ -162,12 +162,6 @@ The Block • 15h ago
 
 ---
 
-**[MegaETH mainnet to go live Feb. 9 in major test of ‘real-time’ Ethereum scaling](https://www.coindesk.com/tech/2026/01/28/megaeth-mainnet-to-go-live-feb-9-in-major-test-of-real-time-ethereum-scaling)**
-
-CoinDesk • 4h ago
-
----
-
 **[Ethereum News: Ether Price Surged 226% After This Global Liquidity Signal — Is ETH Setting Up Another Breakout?](https://www.binance.com/en/square/post/01-27-2026-ethereum-news-ether-price-surged-226-after-this-global-liquidity-signal-is-eth-setting-up-another-breakout-35635381799361)**
 
 Binance • 1d ago
@@ -182,6 +176,14 @@ The Motley Fool • 2d ago
 
 ---
 
+**[Why This Former BlackRock Executive Thinks Ethereum's TVL Will 10X in 2026](https://www.coindesk.com/markets/2026/01/26/macro-fears-mask-ethereum-s-momentum-sharplink-ceo-says)**
+
+SharpLink CEO Joseph Chalom argues that macro uncertainty is hiding a massive institutional shift toward Ethereum-based tokenization.
+
+CoinDesk • 2d ago
+
+---
+
 **[Tom Lee's BitMine Makes Biggest Ethereum Buy Yet in 2026](https://finance.yahoo.com/news/tom-lees-bitmine-makes-biggest-155303327.html)**
 
 Publicly traded Ethereum treasury firm BitMine Immersion Technologies added to its stash with its largest ETH acquisition of the year so far.
@@ -190,19 +192,19 @@ Yahoo Finance • 2d ago
 
 ---
 
+**[BitMine’s Tom Lee Says Gold Rally Has “Sucked the Oxygen Out of the Room” for Bitcoin and Ethereum](https://www.tipranks.com/news/bitmines-tom-lee-says-gold-rally-has-sucked-the-oxygen-out-of-the-room-for-bitcoin-and-ethereum)**
+
+Digital assets are currently playing second fiddle to record-breaking runs in gold (CM:XAUUSD) and silver (CM:XAGUSD), but BitMine Immersion Technologies ($BMNR) Ch...
+
+TipRanks • 1d ago
+
+---
+
 **[Tom Lee's BitMine nears 70% of Ethereum treasury target with latest 40,302 ETH buy](https://www.theblock.co/post/387035/tom-lee-bitmine-ethereum-buy)**
 
 BitMine's total crypto and cash holdings currently stand at $12.8 billion, and the company owns 3.52% of Ethereum's circulating supply.
 
 The Block • 2d ago
-
----
-
-**[BitMine, the largest Ethereum treasury firm, makes biggest ether purchase of 2026](https://www.coindesk.com/business/2026/01/26/bitmine-the-largest-ethereum-treasury-makes-biggest-ether-purchase-of-2026)**
-
-The crypto treasury firm added over 40,000 ETH  last week and has now staked over 2 million tokens.
-
-CoinDesk • 2d ago
 
 ---
 
@@ -218,7 +220,7 @@ TradingView • 1d ago
 
 The project said its auction app dominated Ethereum activity on Jan. 24 and that TVS topped $100 million within three days.
 
-thedefiant.io • 1d ago
+thedefiant.io • 2d ago
 
 ---
 
@@ -272,7 +274,7 @@ FREE Daily On-Chain Analysis & Crypto News In 5-Mins: http://bit.ly/TheCryptoNut
 
 📺 Stock Moe
 
-👁️ 10K • 👍 759 • 💬 56 • ⏱️ 19:46 • 8h ago
+👁️ 10K • 👍 759 • 💬 56 • ⏱️ 19:46 • 9h ago
 
 ---
 

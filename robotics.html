@@ -57,7 +57,7 @@
             "name": "PeekDeck",
             "url": "https://peekdeck.ruidiao.dev"
           },
-          "dateModified": "2026-01-28T22:28:14.317775+00:00"
+          "dateModified": "2026-01-28T22:56:43.595277+00:00"
         },
         {
           "@type": "BreadcrumbList",
@@ -711,6 +711,41 @@
                     </div>
                 </div>
                 
+                <div class="carousel-card" onclick="window.open('https://www.reddit.com/r/robotics/comments/1qppmc7/who_needs_a_lab_17yo_coding_an_autonomous/', '_blank')">
+                    <div class="post-thumbnail">
+                        
+                        <img src="https://external-preview.redd.it/NTN3Mzhhc3V3NWdnMaK9eVrHz1HgO-Zdqy69wbiS-QoWFS1h6sxQHk58y6nC.png?width=640&crop=smart&auto=webp&s=dcd42ffb74e9955d67fc50172f998dce2ddd391c" alt="Who needs a lab? 17yo coding an autonomous interceptor drone system using ROS and OpenCV in his bedroom." onerror="this.style.display='none'" loading="lazy">
+                        
+                    </div>
+
+                    <div class="post-content">
+                        <!-- Post title -->
+                        <div class="post-title">
+                            <a href="https://www.reddit.com/r/robotics/comments/1qppmc7/who_needs_a_lab_17yo_coding_an_autonomous/" target="_blank" onclick="event.stopPropagation();">Who needs a lab? 17yo coding an autonomous interceptor drone system using ROS and OpenCV in his bedroom.</a>
+                        </div>
+
+                        <!-- Rich description (if available) -->
+                        
+                        <div class="post-description">
+                            I recently came across the work of a 17-year-old developer named Alperen, who is building something truly remarkable in his bedroom. Due to privacy concerns and the sensitive nature of the tech, he prefers to keep his face hidden, but his work speaks for itself. While most people are familiar with basic 2D object tracking seen in simple MP4 video tutorials, Alperen has taken it to a professional defense-grade level. Using ROS (Robot Operating System) and OpenCV within the Gazebo simulation environment, he has developed a system that calculates real-time 3D depth and spatial coordinates. This isn't just following pixels; it’s an active interceptor logic where the drone dynamically adjusts its velocity, altitude, and trajectory to maintain a precise lock on its target. It is fascinating to see such high-level autonomous flight control and computer vision being pioneered on a home PC by someone so young. This project demonstrates how the gap between hobbyist coding and sophisticated defense technology is rapidly closing through open-source tools and pure talent.
+                        </div>
+                        
+
+                        <!-- Metadata -->
+                        <div class="post-meta">
+                            <div class="post-meta-line">
+                                
+                                <div class="post-meta-item">
+                                    <span data-timestamp="1769638001.0"></span>
+                                </div>
+                                
+                                <!-- External article source (on same line as time) -->
+                                
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                
                 <div class="carousel-card" onclick="window.open('https://www.reddit.com/r/robotics/comments/1qp5kc4/centimeteraccurate_indoor_tracking_for_swarming/', '_blank')">
                     <div class="post-thumbnail">
                         
@@ -919,41 +954,6 @@
                     </div>
                 </div>
                 
-                <div class="carousel-card" onclick="window.open('https://www.reddit.com/r/robotics/comments/1qovvd4/exploring_embodied_ai_on_a_lowcost_diy_robot_arm/', '_blank')">
-                    <div class="post-thumbnail">
-                        
-                        <img src="https://preview.redd.it/bdz0qkqjsyfg1.gif?width=320&crop=smart&s=cd9293cd18901a4ea2dcdf3a3b30e8049f13265d" alt="Exploring embodied AI on a low-cost DIY robot arm (~$2k hardware)" onerror="this.style.display='none'" loading="lazy">
-                        
-                    </div>
-
-                    <div class="post-content">
-                        <!-- Post title -->
-                        <div class="post-title">
-                            <a href="https://www.reddit.com/r/robotics/comments/1qovvd4/exploring_embodied_ai_on_a_lowcost_diy_robot_arm/" target="_blank" onclick="event.stopPropagation();">Exploring embodied AI on a low-cost DIY robot arm (~$2k hardware)</a>
-                        </div>
-
-                        <!-- Rich description (if available) -->
-                        
-                        <div class="post-description">
-                            I recently came across the Universal Manipulation Interface (UMI) paper and found it to be a promising approach for teaching robots manipulation skills without relying on teleportation-based control. I was particularly interested in exploring how well this approach works on low-cost DIY hardware, such as an AR4 robot arm. Key challenges: - High-latency robot and gripper controllers that only support single-step control commands - A low-FPS camera with image composition that differs from the data used during training Key engineering adaptations: 🛠️ Hardware Abstraction Layer - Original UMI supports UR5, Franka Emika, and industrial WSG grippers. - I wrote custom drivers to interface with a DIY AR4 6-DOF robot arm and a custom servo-based gripper. - Forward and inverse kinematics are solved on the PC side, and only joint commands are sent to the robot controller. 👁️ Vision System Retrofit - Original UMI relies on a GoPro with lens modification and a capture card. - I adapted the perception pipeline to use a standard ~$50 USB camera. 🖐️ Custom End-Effector - Designed and 3D-printed a custom parallel gripper. - Actuated by a standard hobby servo. - Controlled via an Arduino Mega 2560 (AR4 auxiliary controller). Repos: - UMI + AR4 integration: https://github.com/robotsir/umi_ar4_retrofit - AR4 custom firmware: https://github.com/robotsir/ar4_embodied_controller This is still a work in progress. Due to the hardware limitations above, the system is not yet as smooth as the original UMI setup, but my goal is to push performance as far as possible within these constraints. The system is already running end-to-end on real hardware. The GIF above shows a live demo. Feedback from people working on embodied AI, robot learning, or low-cost manipulation platforms would be very welcome. If you have an AR4 arm and are interested in trying this out, feel free to reach out.
-                        </div>
-                        
-
-                        <!-- Metadata -->
-                        <div class="post-meta">
-                            <div class="post-meta-line">
-                                
-                                <div class="post-meta-item">
-                                    <span data-timestamp="1769560076.0"></span>
-                                </div>
-                                
-                                <!-- External article source (on same line as time) -->
-                                
-                            </div>
-                        </div>
-                    </div>
-                </div>
-                
 
                 <!-- View All button at end of carousel -->
                 <div class="carousel-card"
@@ -977,7 +977,7 @@
 
     </div>
     <div class="widget-footer">
-        <small data-timestamp="2026-01-28T21:30:41.410176+00:00">Updated 2026-01-28T21:30:41.410176+00:00</small>
+        <small data-timestamp="2026-01-28T22:56:15.210070+00:00">Updated 2026-01-28T22:56:15.210070+00:00</small>
     </div>
 </div>
 
@@ -1245,47 +1245,6 @@
                     </div>
                 </div>
                 
-                <div class="carousel-card" onclick="window.open('https://www.therobotreport.com/introducing-sprout-a-new-humanoid-development-platform/', '_blank')">
-                    <!-- Rich preview thumbnail (with fallback icon) -->
-                    <div class="article-thumbnail" style="background-image: url('https://www.therobotreport.com/wp-content/uploads/2026/01/Sprout-featured.jpg');"></div>
-
-                    <div class="article-content">
-                        <!-- Article headline (fixed 3-line height) -->
-                        <div class="news-headline">
-                            <a href="https://www.therobotreport.com/introducing-sprout-a-new-humanoid-development-platform/" target="_blank" onclick="event.stopPropagation();">Introducing Sprout, a new humanoid development platform</a>
-                        </div>
-
-                        <!-- Rich description (if available) -->
-                        
-                        <div class="article-description">
-                            Fauna Robotics unveils Sprout: a safe, character-driven robot designed to live, work, and play alongside humans in everyday life.
-                        </div>
-                        
-
-                        <!-- Metadata (source, time) -->
-                        <div class="news-meta">
-                            <div class="news-meta-line">
-                                
-                                <div class="news-meta-item news-source">
-                                    
-                                    <img src="https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.therobotreport.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
-                                         alt="The Robot Report" class="news-favicon">
-                                    <a href="https://www.therobotreport.com" target="_blank" onclick="event.stopPropagation();">The Robot Report</a>
-                                    
-                                </div>
-                                
-                            </div>
-                            <div class="news-meta-line">
-                                
-                                <div class="news-meta-item">
-                                    <span data-timestamp="1769630945.0"></span>
-                                </div>
-                                
-                            </div>
-                        </div>
-                    </div>
-                </div>
-                
                 <div class="carousel-card" onclick="window.open('https://techxplore.com/news/2026-01-synthetic-muscle-microfluidic-blood-vessels.html', '_blank')">
                     <!-- Rich preview thumbnail (with fallback icon) -->
                     <div class="article-thumbnail" ></div>
@@ -1487,6 +1446,47 @@
                     </div>
                 </div>
                 
+                <div class="carousel-card" onclick="window.open('https://www.therobotreport.com/state-of-robotics-industry-report-2026/', '_blank')">
+                    <!-- Rich preview thumbnail (with fallback icon) -->
+                    <div class="article-thumbnail" style="background-image: url('https://www.therobotreport.com/wp-content/uploads/2026/01/ChatGPT-Image-Jan-26-2026-01_06_56-PM-e1769451153613.png');"></div>
+
+                    <div class="article-content">
+                        <!-- Article headline (fixed 3-line height) -->
+                        <div class="news-headline">
+                            <a href="https://www.therobotreport.com/state-of-robotics-industry-report-2026/" target="_blank" onclick="event.stopPropagation();">State of robotics industry report 2026</a>
+                        </div>
+
+                        <!-- Rich description (if available) -->
+                        
+                        <div class="article-description">
+                            State of Robotics Industry Report 2026 offers a clear-eyed assessment of where the market stands today and where it’s headed.
+                        </div>
+                        
+
+                        <!-- Metadata (source, time) -->
+                        <div class="news-meta">
+                            <div class="news-meta-line">
+                                
+                                <div class="news-meta-item news-source">
+                                    
+                                    <img src="https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.therobotreport.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+                                         alt="The Robot Report" class="news-favicon">
+                                    <a href="https://www.therobotreport.com" target="_blank" onclick="event.stopPropagation();">The Robot Report</a>
+                                    
+                                </div>
+                                
+                            </div>
+                            <div class="news-meta-line">
+                                
+                                <div class="news-meta-item">
+                                    <span data-timestamp="1769451541.0"></span>
+                                </div>
+                                
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                
                 <div class="carousel-card" onclick="window.open('https://apnews.com/article/friendly-home-robot-fauna-robotics-sprout-57b396cd6f4b98ef83913a5efa9e0db2', '_blank')">
                     <!-- Rich preview thumbnail (with fallback icon) -->
                     <div class="article-thumbnail" style="background-image: url('https://dims.apnews.com/dims4/default/705cd52/2147483647/strip/true/crop/8640x5757+0+1/resize/980x653!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2Fe1%2Ff5%2Fbc11912aeed8ddccd7b8aea208fb%2F17f316d8508e49e2873f21a8d7b15149');"></div>
@@ -1589,7 +1589,7 @@
 
     </div>
     <div class="widget-footer">
-        <small data-timestamp="2026-01-28T21:30:56.580326+00:00">Updated 2026-01-28T21:30:56.580326+00:00</small>
+        <small data-timestamp="2026-01-28T22:56:27.994641+00:00">Updated 2026-01-28T22:56:27.994641+00:00</small>
     </div>
 </div>
 
