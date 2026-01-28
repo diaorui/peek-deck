@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-01-28T22:56:43.952472+00:00'
+updated: '2026-01-28T23:29:42.816020+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- repositories
-- news
-- videos
 - social
+- videos
+- news
+- repositories
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** January 28, 2026 at 22:56 UTC  
+**Last Updated:** January 28, 2026 at 23:29 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -49,13 +49,13 @@ More and more of my freelance clients are turning to "vibe coding" instead of hi
 
 Alarming critics, the acting director of the Cybersecurity and Infrastructure Security Agency, Madhu Gottumukkala, accidentally uploaded sensitive information to a public version of ChatGPT last summer, reports say. According to “four Department of Homeland Security officials with knowledge of the incident,” Gottumukkala’s uploads of sensitive CISA contracting documents triggered multiple internal cybersecurity warnings designed to “stop the theft or unintentional disclosure of government material from federal networks.” Gottumukkala’s uploads happened soon after he joined the agency and sought special permission to use OpenAI’s popular chatbot, which most DHS staffers are blocked from accessing. Instead, DHS staffers use approved AI-powered tools, like the agency’s DHSChat, which “are configured to prevent queries or documents input into them from leaving federal networks." It remains unclear why Gottumukkala needed to use ChatGPT. One official said that, to staffers, it seemed like Gottumukkala “forced CISA’s hand into making them give him ChatGPT, and then he abused it.” Full article: https://arstechnica.com/tech-policy/2026/01/us-cyber-defense-chief-accidentally-uploaded-secret-government-info-to-chatgpt/
 
-🔗 [Ars Technica](http://arstechnica.com/tech-policy/2026/01/us-cyber-defense-chief-accidentally-uploaded-secret-government-info-to-chatgpt) • 2h ago
+🔗 [Ars Technica](http://arstechnica.com/tech-policy/2026/01/us-cyber-defense-chief-accidentally-uploaded-secret-government-info-to-chatgpt) • 3h ago
 
 ---
 
 **[Trump’s acting cyber chief uploaded sensitive files into a public version of ChatGPT. The interim director of the Cybersecurity and Infrastructure Security Agency triggered an internal cybersecurity warning with the uploads — and a DHS-level damage assessment.](https://www.reddit.com/r/artificial/comments/1qozsna/trumps_acting_cyber_chief_uploaded_sensitive/)**
 
-🔗 [politico.com](https://www.politico.com/news/2026/01/27/cisa-madhu-gottumukkala-chatgpt-00749361) • 19h ago
+🔗 [politico.com](https://www.politico.com/news/2026/01/27/cisa-madhu-gottumukkala-chatgpt-00749361) • 20h ago
 
 ---
 
@@ -63,7 +63,7 @@ Alarming critics, the acting director of the Cybersecurity and Infrastructure Se
 
 Unsealed legal documents reveal Meta, TikTok, and Google purposefully targeted children for addiction, ICE raids stall GOP in Minnesota, Trump targets Cuba, Oregon's voter rolls stay private, the CIA moves into Venezuela, Trump Cyber Chief accidentally uploads policies to ChatGPT, Meta blocks links
 
-🔗 [Instrumental Communications](https://www.instrumentalcomms.com/blog/unsealed-docs-reveal-big-tech-targets-kids#ai) • 9h ago
+🔗 [Instrumental Communications](https://www.instrumentalcomms.com/blog/unsealed-docs-reveal-big-tech-targets-kids#ai) • 10h ago
 
 ---
 
@@ -71,7 +71,7 @@ Unsealed legal documents reveal Meta, TikTok, and Google purposefully targeted c
 
 The Trump administration has not shied away from sharing AI-generated imagery online, embracing cartoonlike visuals and memes and promoting them on official White House channels.
 
-🔗 [AP News](https://apnews.com/article/ai-videos-trump-ice-artificial-intelligence-08d91fa44f3146ec1f8ee4d213cdad31) • 17m ago
+🔗 [AP News](https://apnews.com/article/ai-videos-trump-ice-artificial-intelligence-08d91fa44f3146ec1f8ee4d213cdad31) • 50m ago
 
 ---
 
@@ -87,7 +87,7 @@ DeepMind’s AlphaGenome AI model could help solve the problem of predicting how
 
 I just saw a post discussing clawdbot, about someone not finding a usecase for automating tasks and I realised I too simply can't find anything that I need to automate. I'd love to hear what y'all find automatable. Could this just end up being a very niche feature.
 
-6h ago
+7h ago
 
 ---
 
@@ -95,7 +95,7 @@ I just saw a post discussing clawdbot, about someone not finding a usecase for a
 
 LLMs can beat base-difficulty Balatro when passed the game state as JSON, with win rate matching human players. Admittedly getting a stringified version of the game is a big boost over having to learn to navigate the game UI with clicks, but aside from this the agents acted with no additional help in the form of specifically coded harnesses, loops, prompting, or hand written strategy. I tested on models from Anthropic, OpenAI, and Google, and there was a big surprise in which model performed the best. Spoiler: it was not the biggest or most expensive one.
 
-🔗 [balatro-agents.jordanzhang.me](https://balatro-agents.jordanzhang.me) • 38m ago
+🔗 [balatro-agents.jordanzhang.me](https://balatro-agents.jordanzhang.me) • 1h ago
 
 ---
 
@@ -123,13 +123,13 @@ AI agents are getting really good at doing things, but they're completely blind 
 
 It could transform our understanding of why diseases develop and the medicines needed to treat them, says researchers.
 
-BBC • 6h ago
+BBC • 7h ago
 
 ---
 
 **[With AlphaGenome, Researchers Are Using A.I. to Decode the Human Blueprint](https://www.nytimes.com/2026/01/28/science/alphagenome-ai-deepmind-genetics.html)**
 
-The New York Times • 6h ago
+The New York Times • 7h ago
 
 ---
 
@@ -137,7 +137,7 @@ The New York Times • 6h ago
 
 AlphaGenome can analyse up to 1m letters of DNA code at once and could pave way for new treatments
 
-The Guardian • 5h ago
+The Guardian • 6h ago
 
 ---
 
@@ -145,7 +145,7 @@ The Guardian • 5h ago
 
 Forth Worth teacher Chanea Bond says sticking with pen and paper keeps generative artificial intelligence out of her American literature classes.
 
-NPR • 12h ago
+NPR • 13h ago
 
 ---
 
@@ -153,13 +153,13 @@ NPR • 12h ago
 
 Musk’s optimism for Optimus robot demand help EV maker beat quarterly expectations despite first-ever yearly revenue decline
 
-The Guardian • 32m ago
+The Guardian • 1h ago
 
 ---
 
 **[Exclusive: Nvidia helped DeepSeek hone AI models later used by China's military, lawmaker says](https://www.reuters.com/world/china/nvidia-helped-deepseek-hone-ai-models-later-used-by-chinas-military-lawmaker-2026-01-28/)**
 
-Reuters • 32m ago
+Reuters • 1h ago
 
 ---
 
@@ -173,13 +173,13 @@ MarketWatch • 1h ago
 
 Meta has been pouring billions into AI talent and infrastructure, which executives have said is essential to the company's future and to keep the U.S. competitive in AI.
 
-Axios • 35m ago
+Axios • 1h ago
 
 ---
 
 **[Meta Says Revenue to Beat Estimates, Supporting AI Spending](https://www.bloomberg.com/news/articles/2026-01-28/meta-says-2026-spending-will-blow-past-analysts-estimates)**
 
-Bloomberg • 45m ago
+Bloomberg • 1h ago
 
 ---
 
@@ -187,7 +187,7 @@ Bloomberg • 45m ago
 
 Amazon is laying off 16,000 employees, the company’s second round of massive job reductions in two months as it fights to improve its standing in the battle for AI supremacy.
 
-CNN • 11h ago
+CNN • 12h ago
 
 ---
 
@@ -291,7 +291,7 @@ China's AI race just shifted. Moonshot quietly rolled out Kimi K2.5, and the jum
 
 📺 AI Revolution
 
-👁️ 19K • 👍 557 • 💬 35 • ⏱️ 12:41 • 23h ago
+👁️ 19K • 👍 557 • 💬 35 • ⏱️ 12:41 • 1d ago
 
 ---
 
@@ -311,7 +311,7 @@ Want to make money and save time with AI? Get AI Coaching, Support & Courses ...
 
 📺 Julian Goldie SEO
 
-👁️ 13K • 👍 295 • 💬 36 • ⏱️ 9:34 • 20h ago
+👁️ 13K • 👍 295 • 💬 36 • ⏱️ 9:34 • 21h ago
 
 ---
 
@@ -321,7 +321,7 @@ Clawdbot full tutorial. How to install Clawdbot / Moltbot. Use cases of Clawd. C
 
 📺 AI Search
 
-👁️ 57K • 👍 3K • 💬 537 • ⏱️ 28:44 • 19h ago
+👁️ 57K • 👍 3K • 💬 537 • ⏱️ 28:44 • 20h ago
 
 ---
 
@@ -431,7 +431,7 @@ Z-Image is an undistilled, high-fidelity text-to-image diffusion transformer mod
 
 `text-to-image`
 
-⬇️ 0 • ❤️ 566 • 8h ago
+⬇️ 0 • ❤️ 566 • 9h ago
 
 ---
 
@@ -479,7 +479,7 @@ Chroma-4B is a real-time, end-to-end spoken dialogue model capable of speech und
 
 `any-to-any` `5.9B`
 
-⬇️ 5,776 • ❤️ 279 • 19h ago
+⬇️ 5,776 • ❤️ 279 • 20h ago
 
 ---
 
@@ -669,7 +669,7 @@ LLM驱动的 A/H/美股智能分析器，多数据源行情 + 实时新闻 + Gem
 
 `Python` `agent` `ai` `aigc` `gemini` `llm`
 
-⭐ 6.5k • 🔱 7.1k • 8h ago
+⭐ 6.5k • 🔱 7.1k • 9h ago
 
 ---
 
@@ -679,7 +679,7 @@ LLM驱动的 A/H/美股智能分析器，多数据源行情 + 实时新闻 + Gem
 
 `Vue`
 
-⭐ 6.4k • 🔱 1.2k • 8h ago
+⭐ 6.4k • 🔱 1.2k • 9h ago
 
 ---
 
@@ -689,7 +689,7 @@ Marketing skills for Claude Code and AI agents. CRO, copywriting, SEO, analytics
 
 `claude` `codex` `marketing`
 
-⭐ 5.2k • 🔱 552 • 14h ago
+⭐ 5.2k • 🔱 552 • 15h ago
 
 ---
 
@@ -699,7 +699,7 @@ The Ultimate Collection of 500+ Agentic Skills for Claude Code/Antigravity/Curso
 
 `Python` `agentic-skills` `ai-agents` `antigravity` `autonomous-coding` `claude-code`
 
-⭐ 4.9k • 🔱 1.1k • 5h ago
+⭐ 4.9k • 🔱 1.1k • 6h ago
 
 ---
 
@@ -727,7 +727,7 @@ Remove AI features, telemetry data reporting, sponsored content, product integra
 
 `Shell` `chrome` `firefox` `google-chrome` `linux` `macos`
 
-⭐ 1.8k • 🔱 51 • 2d ago
+⭐ 1.8k • 🔱 51 • 3d ago
 
 ---
 

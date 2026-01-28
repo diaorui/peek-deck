@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-01-28T22:56:43.960786+00:00'
+updated: '2026-01-28T23:29:42.824449+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
+- social
 - videos
 - news
 - cryptocurrency
-- social
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** January 28, 2026 at 22:56 UTC  
+**Last Updated:** January 28, 2026 at 23:29 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -79,7 +79,7 @@ Rank #1
 
 **[This is unbearable](https://www.reddit.com/r/Bitcoin/comments/1qphgpc/this_is_unbearable/)**
 
-5h ago
+6h ago
 
 ---
 
@@ -87,13 +87,13 @@ Rank #1
 
 Source: Blossom Social
 
-40m ago
+1h ago
 
 ---
 
 **[This man filmed the reaction to bitcoin breaking $100 in 2013](https://www.reddit.com/r/Bitcoin/comments/1qox66j/this_man_filmed_the_reaction_to_bitcoin_breaking/)**
 
-21h ago
+22h ago
 
 ---
 
@@ -107,7 +107,7 @@ Source: Blossom Social
 
 Historically, the most significant portion of Bitcoin's gains come in just 10 trading days out of an entire calendar year. Most of the time in Bitcoin is spent going sideways or down. It will shake out all weak hands and tourists, and punish anyone with high time preference. Then it will reward the patience of those who spend their time studying and growing their conviction (and touching grass) during the boring or bear markets. Act accordingly
 
-3h ago
+4h ago
 
 ---
 
@@ -127,7 +127,7 @@ Historically, the most significant portion of Bitcoin's gains come in just 10 tr
 
 i use to be a multicoiner but i lost everything in 2021 in trading and scams.... i was too greedy actually and bitcoin don t reward this mindset.... it s so hard to start over from zero, even 0,01 BTC seems a lots now.... i ll never be a whole coiner again but find with it... i ll not do the same mistakes... i hope i will not... time will tell..... keep stacking guys.., see you in 10 years...
 
-12h ago
+13h ago
 
 ---
 
@@ -135,13 +135,13 @@ i use to be a multicoiner but i lost everything in 2021 in trading and scams....
 
 Is watching Bitcoin YouTube videos helping… or hurting me? Am I wasting time watching Bitcoin videos on YouTube? Am I just fooling myself into believing 10 million sats can make me free in 15 years?
 
-2h ago
+3h ago
 
 ---
 
 **[Nothing more delicious than a Bitcoin burger](https://www.reddit.com/r/Bitcoin/comments/1qp35kq/nothing_more_delicious_than_a_bitcoin_burger/)**
 
-16h ago
+17h ago
 
 ---
 
@@ -153,7 +153,7 @@ Is watching Bitcoin YouTube videos helping… or hurting me? Am I wasting time w
 
 Bitcoin and ether options worth billions of dollars are set to expire this Friday.
 
-CoinDesk • 9h ago
+CoinDesk • 10h ago
 
 ---
 
@@ -161,7 +161,7 @@ CoinDesk • 9h ago
 
 The bitcoin price rebounded above $90,000 as traders weigh the looming Fed rate decision.
 
-Bitcoin Magazine • 8h ago
+Bitcoin Magazine • 9h ago
 
 ---
 
@@ -185,7 +185,7 @@ The Block • 17h ago
 
 South Dakota has a new bill on the table that would let the state put up to 10% of certain public funds into Bitcoin. Reports say Rep. Logan Manhart filed House Bill 1155 this week, restarting an effort that stalled last year.The measure would change state investment rules to give the State Investm…
 
-TradingView • 4h ago
+TradingView • 5h ago
 
 ---
 
@@ -193,7 +193,7 @@ TradingView • 4h ago
 
 The bill by State Representative Logan Manhart seeks to allocate as much as 10% of the state’s investment funds to the cryptocurrency.
 
-Decrypt • 7h ago
+Decrypt • 8h ago
 
 ---
 
@@ -209,7 +209,7 @@ Bitcoin Magazine • 2h ago
 
 Since 2022, Grand Forks residents have lost $466,803 to bitcoin cryptocurrency, according to GFPD Det. Todd Riedinger. The scams are difficult to trace and lost money usually can't be recovered.
 
-grandforksherald.com • 9h ago
+grandforksherald.com • 10h ago
 
 ---
 
@@ -346,7 +346,7 @@ FREE Daily On-Chain Analysis & Crypto News In 5-Mins: http://bit.ly/TheCryptoNut
 
 📺 Library Of Wealth
 
-👁️ 11K • 👍 357 • 💬 372 • ⏱️ 16:28 • 17h ago
+👁️ 11K • 👍 357 • 💬 372 • ⏱️ 16:28 • 18h ago
 
 ---
 
@@ -376,7 +376,7 @@ Bitcoin had a brutal week, but the real story happened behind closed doors at Da
 
 📺 Simply Bitcoin
 
-👁️ 23K • 👍 2K • 💬 241 • ⏱️ 16:25 • 23h ago
+👁️ 23K • 👍 2K • 💬 241 • ⏱️ 16:25 • 1d ago
 
 ---
 
@@ -386,7 +386,7 @@ Unicoin founder and chief strategy officer Silvina Moschini discusses crypto leg
 
 📺 Fox Business Clips
 
-👁️ 64K • 👍 2K • 💬 577 • ⏱️ 7:19 • 7h ago
+👁️ 64K • 👍 2K • 💬 577 • ⏱️ 7:19 • 8h ago
 
 ---
 
@@ -406,7 +406,7 @@ BTC #Bitcoin #Cryptocurrency Join Michael Saylor for his unforgettable keynote a
 
 📺 Creative Carter
 
-👁️ 4K • 👍 1K • 2h ago
+👁️ 4K • 👍 1K • 3h ago
 
 ---
 

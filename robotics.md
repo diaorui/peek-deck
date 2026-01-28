@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-01-28T22:56:43.969935+00:00'
+updated: '2026-01-28T23:29:42.833743+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- news
-- videos
 - social
+- videos
+- news
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** January 28, 2026 at 22:56 UTC  
+**Last Updated:** January 28, 2026 at 23:29 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -56,7 +56,7 @@ We are building a 3d-printable animatronics robots, Mostly the same 3d printed p
 
 I recently came across the work of a 17-year-old developer named Alperen, who is building something truly remarkable in his bedroom. Due to privacy concerns and the sensitive nature of the tech, he prefers to keep his face hidden, but his work speaks for itself. While most people are familiar with basic 2D object tracking seen in simple MP4 video tutorials, Alperen has taken it to a professional defense-grade level. Using ROS (Robot Operating System) and OpenCV within the Gazebo simulation environment, he has developed a system that calculates real-time 3D depth and spatial coordinates. This isn't just following pixels; it’s an active interceptor logic where the drone dynamically adjusts its velocity, altitude, and trajectory to maintain a precise lock on its target. It is fascinating to see such high-level autonomous flight control and computer vision being pioneered on a home PC by someone so young. This project demonstrates how the gap between hobbyist coding and sophisticated defense technology is rapidly closing through open-source tools and pure talent.
 
-50m ago
+1h ago
 
 ---
 
@@ -64,7 +64,7 @@ I recently came across the work of a 17-year-old developer named Alperen, who is
 
 3 x Super-Beacons as stationary beacons for precise 3D indoor positioning 1 x (Mini-RX + External Microphone + Deflector) as a mobile beacon for the drone 1 x Modem v5.1 as a central controller This is not an autonomous flight - the drone was remotely controlled. But it shows precise indoor 3D tracking capabilities for swarming drones.
 
-14h ago
+15h ago
 
 ---
 
@@ -72,7 +72,7 @@ I recently came across the work of a 17-year-old developer named Alperen, who is
 
 Former iRobot CEO Colin Angle talks about how robotics isn’t really a single “thing,” and that defaulting to humanoids as the mental model ends up flattening what’s actually going on in the field. He ties it back to his time at iRobot and how a lot of success or failure came down to very specific questions about value and trust, not form factor. Amazon attempted to acquire the declining company from bankruptcy but after an 18-month process the deal fell through. Angle is now with another company.
 
-6h ago
+7h ago
 
 ---
 
@@ -210,7 +210,7 @@ Figure AI says its flagship humanoid is more autonomous than ever thanks to its 
 
 📺 Kalil 4.0
 
-👁️ 991 • 👍 51 • 💬 1 • ⏱️ 0:39 • 5h ago
+👁️ 991 • 👍 51 • 💬 1 • ⏱️ 0:39 • 6h ago
 
 ---
 
@@ -258,7 +258,7 @@ Get FREE Robotics & AI Resources (Guide, Textbooks, Courses, Resume Template, Co
 
 📺 Kevin Wood | Robotics & AI
 
-👁️ 896 • 👍 26 • 💬 2 • ⏱️ 3:51 • 16h ago
+👁️ 896 • 👍 26 • 💬 2 • ⏱️ 3:51 • 17h ago
 
 ---
 
