@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-01-28T23:29:42.830542+00:00'
+updated: '2026-01-28T23:51:59.063052+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
+- cryptocurrency
 - social
 - videos
 - news
-- cryptocurrency
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** January 28, 2026 at 23:29 UTC  
+**Last Updated:** January 28, 2026 at 23:51 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -52,7 +52,7 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Market Stats
 
-**Market Cap:** $363.26B
+**Market Cap:** $363.17B
 Rank #2
 
 **Circulating Supply:** 120,694,374 ETH
@@ -62,7 +62,7 @@ No max supply
 -39.2%
 
 **All-Time Low:** $0.43
-+694986.8%
++694626.5%
 
 ---
 
@@ -94,7 +94,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 https://x.com/VitalikButerin/status/2016460401068614076 The situation in Iran is continuing to get much worse. Much respect for everyone going through extreme danger to try to increase the chance that Iranian people can be free. From the original tweet: Let the world know: in just two days they slaughtered at least 80,000 of us people who simply stepped out onto the streets. Has he not seen how Iraq, Syria, Libya etc were devastated after regime change? I don't like my own government but I would hate to see it get regime changed and the country destroyed.
 
-50m ago
+1h ago
 
 ---
 
@@ -234,7 +234,7 @@ My FREE Daily On-Chain Analysis & Crypto News In 5-Mins: https://www.cryptonutsh
 
 📺 Jamie Tree 
 
-👁️ 438 • 👍 27 • 💬 68 • ⏱️ 16:47 • 5h ago
+👁️ 763 • 👍 38 • 💬 61 • ⏱️ 16:47 • 5h ago
 
 ---
 
@@ -244,7 +244,17 @@ Fidelity launches their own stablecoin on one of the B.E.S.T. The links below ma
 
 📺 Digital Asset News
 
-👁️ 1K • 👍 181 • 💬 11 • ⏱️ 14:06 • 3h ago
+👁️ 3K • 👍 278 • 💬 26 • ⏱️ 14:06 • 3h ago
+
+---
+
+**[WHY Cardano and Ethereum crypto coins are about to EXPLODE!!](https://www.youtube.com/watch?v=rFHVIvMYiiQ)**
+
+These 2 crypto coins will EXPLODE in February!! (Here is why) ✓ Bitunix (no kyc, $10000 bonus): https://www.bitunix.com/register ...
+
+📺 Altcoin Daily
+
+👁️ 4K • 👍 366 • 💬 91 • ⏱️ 8:35 • 47m ago
 
 ---
 
@@ -254,7 +264,7 @@ Tom Lee Just Said The UNTHINKABLE About Bitcoin & Ethereum! [2026 New Prediction
 
 📺 Crypto Nutshell
 
-👁️ 25K • 👍 690 • 💬 125 • ⏱️ 14:37 • 1d ago
+👁️ 26K • 👍 698 • 💬 126 • ⏱️ 14:37 • 1d ago
 
 ---
 
@@ -264,17 +274,17 @@ FREE Daily On-Chain Analysis & Crypto News In 5-Mins: http://bit.ly/TheCryptoNut
 
 📺 Library Of Wealth
 
-👁️ 11K • 👍 357 • 💬 372 • ⏱️ 16:28 • 18h ago
+👁️ 12K • 👍 368 • 💬 453 • ⏱️ 16:28 • 18h ago
 
 ---
 
-**[URGENT ‼️ Clarity Act NEWS! 🚨 THURSDAY IS HUGE! XRP BITCOIN ETHEREUM](https://www.youtube.com/watch?v=jqSN3sFW6WM)**
+**[WHY ETHEREUM CAN RALLY HIGHER!🔥 (Ethereum Price Prediction 2026)](https://www.youtube.com/watch?v=eCERvm1bTqQ)**
 
-1️⃣ *Join Moe's Discord Code 2026 save 50%* ➡https://www.patreon.com/stockmoe/membership 2️⃣ *Join the NEW Crypto ...
+ETHEREUM ETH PRICE PREDICTION 2026 Join the Premium Signal Group for trade setups, mentorship & a community ...
 
-📺 Stock Moe
+📺 Cilinix Crypto
 
-👁️ 10K • 👍 759 • 💬 56 • ⏱️ 19:46 • 9h ago
+👁️ 248 • 👍 15 • 💬 7 • ⏱️ 4:20 • 13h ago
 
 ---
 
@@ -284,7 +294,17 @@ Let's talk about Ethereum! For inquirires: https://www.benjamincowen.com/ Into T
 
 📺 Benjamin Cowen
 
-👁️ 70K • 👍 3K • 💬 233 • ⏱️ 26:46 • 2d ago
+👁️ 71K • 👍 3K • 💬 234 • ⏱️ 26:46 • 2d ago
+
+---
+
+**[URGENT ‼️ Clarity Act NEWS! 🚨 THURSDAY IS HUGE! XRP BITCOIN ETHEREUM](https://www.youtube.com/watch?v=jqSN3sFW6WM)**
+
+1️⃣ *Join Moe's Discord Code 2026 save 50%* ➡https://www.patreon.com/stockmoe/membership 2️⃣ *Join the NEW Crypto ...
+
+📺 Stock Moe
+
+👁️ 12K • 👍 774 • 💬 56 • ⏱️ 19:46 • 10h ago
 
 ---
 
@@ -298,33 +318,13 @@ This video provides a professional Elliott Wave and technical analysis of Ethere
 
 ---
 
-**[WHY ETHEREUM CAN RALLY HIGHER!🔥 (Ethereum Price Prediction 2026)](https://www.youtube.com/watch?v=eCERvm1bTqQ)**
+**[Ethereum Elliott Wave Update – Key Resistance Levels Ahead](https://www.youtube.com/watch?v=K86d3TAZnl0)**
 
-ETHEREUM ETH PRICE PREDICTION 2026 Join the Premium Signal Group for trade setups, mentorship & a community ...
+This video provides a professional Elliott Wave and technical analysis of Ethereum (ETH), focusing on market structure, major ...
 
-📺 Cilinix Crypto
+📺 More Crypto Online
 
-👁️ 236 • 👍 15 • 💬 7 • ⏱️ 4:20 • 13h ago
-
----
-
-**[Why BlackRock’s Former Crypto Head is Betting on Ethereum](https://www.youtube.com/watch?v=cNz1kdSecWU)**
-
-SharpLink CEO and former BlackRock head of digital assets strategy, Joseph Chalom, joins CoinDesk's Jennifer Sanasie on ...
-
-📺 CoinDesk
-
-👁️ 21K • 👍 633 • 💬 112 • ⏱️ 23:51 • 2d ago
-
----
-
-**[🚨 BTC &amp; ETH: SCARY!!!!!](https://www.youtube.com/watch?v=ChdzwU6zguI)**
-
-These news have huge implications towards bitcoin, ethereum and the rest of crypto! Here is my take on the situation and my ...
-
-📺 Thomas Kralow
-
-👁️ 19K • 👍 3K • 💬 38 • ⏱️ 10:51 • 2d ago
+👁️ 1K • 👍 111 • 💬 8 • ⏱️ 5:44 • 6h ago
 
 ---
 

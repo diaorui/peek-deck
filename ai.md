@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-01-28T23:29:42.816020+00:00'
+updated: '2026-01-28T23:51:59.048723+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
+- repositories
+- news
 - social
 - videos
-- news
-- repositories
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** January 28, 2026 at 23:29 UTC  
+**Last Updated:** January 28, 2026 at 23:51 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -41,7 +41,7 @@ AI news, discussions, and developments
 
 More and more of my freelance clients are turning to "vibe coding" instead of hiring me. Whether AI is doing a good job or whether it can create production-ready apps doesn't really matter, my clients don't care because they never end up moving past the MVP phase (something I already knew before AI). All the money in freelance work is basically in MVP, and AI coding agents are perfect for developing MVPs that go nowhere.
 
-5h ago
+6h ago
 
 ---
 
@@ -71,7 +71,7 @@ Unsealed legal documents reveal Meta, TikTok, and Google purposefully targeted c
 
 The Trump administration has not shied away from sharing AI-generated imagery online, embracing cartoonlike visuals and memes and promoting them on official White House channels.
 
-🔗 [AP News](https://apnews.com/article/ai-videos-trump-ice-artificial-intelligence-08d91fa44f3146ec1f8ee4d213cdad31) • 50m ago
+🔗 [AP News](https://apnews.com/article/ai-videos-trump-ice-artificial-intelligence-08d91fa44f3146ec1f8ee4d213cdad31) • 1h ago
 
 ---
 
@@ -79,7 +79,7 @@ The Trump administration has not shied away from sharing AI-generated imagery on
 
 DeepMind’s AlphaGenome AI model could help solve the problem of predicting how variations in noncoding DNA shape gene expression
 
-🔗 [Scientific American](https://www.scientificamerican.com/article/google-deepmind-unleashes-new-ai-alphagenome-to-investigate-dnas-dark-matter/) • 6h ago
+🔗 [Scientific American](https://www.scientificamerican.com/article/google-deepmind-unleashes-new-ai-alphagenome-to-investigate-dnas-dark-matter/) • 7h ago
 
 ---
 
@@ -111,7 +111,7 @@ Tried ClawdBot (now MoltBot) on a freshly installed system. At first? 🔥 Insan
 
 AI agents are getting really good at doing things, but they're completely blind to their physical surroundings. If you walk into a hotel and you have an AI assistant (like the Chatgpt mobile app), it has no idea there may be a concierge agent on the network that could help you book a spa, check breakfast times, or request late checkout. Same thing at offices, hospitals, cruise ships. The agents are there, but there's no way to discover them. A2A (Google's agent-to-agent protocol) handles how agents talk to each other. MCP handles how agents use tools. But neither answers a basic question: how do you find agents in the first place? So I built LAD-A2A, a simple discovery protocol. When you connect to a Wi-Fi, your agent can automatically find what's available using mDNS (like how AirDrop finds nearby devices) or a standard HTTP endpoint. The spec is intentionally minimal. I didn't want to reinvent A2A or create another complex standard. LAD-A2A just handles discovery, then hands off to A2A for actual communication. Open source, Apache 2.0. Includes a working Python implementation you can run to see it in action. Repo can be found at franzvill/lad. Curious what people think!
 
-2h ago
+3h ago
 
 ---
 
@@ -165,7 +165,7 @@ Reuters • 1h ago
 
 **[Meta's AI spending rises and profit beats. Stock jumps.](https://www.marketwatch.com/livecoverage/meta-earnings-results-stock-ai-capex-zuckerberg?gaa_at=eafs&gaa_n=AWEtsqdCnPXw3cyMZTSETM1Ai8eN15bubKp_Oa_pz-RVmEFiGFD8TnlGKB4b&gaa_ts=697a978d&gaa_sig=v7IWYLcoxeaH4ZbpknURhSveG8WnyB_3p9Oeu5_46KYBeWNmWAZ8uFoOgkpoA4RHcUI17LPGY_k39u8MgdSwYw%3D%3D)**
 
-MarketWatch • 1h ago
+MarketWatch • 2h ago
 
 ---
 
@@ -237,7 +237,7 @@ Today everybody's doing AI code review. Here's how Greptile's viewpoint is diffe
 
 Interactive article explaining the physics of an airfoil and what makes airplanes fly
 
-⬆️ 319 • 💬 47 • 8h ago • [ciechanow.ski](https://ciechanow.ski/airfoil/)
+⬆️ 319 • 💬 47 • 9h ago • [ciechanow.ski](https://ciechanow.ski/airfoil/)
 
 ---
 
@@ -267,7 +267,7 @@ SERA is the first in our family of Open Coding Agents, achieving state-of-the-ar
 
 AISLE's autonomous analyzer found all 12 CVEs in the January 2026 coordinated release of OpenSSL, the open-source cryptographic library that underp...
 
-⬆️ 190 • 💬 128 • 21h ago • [AISLE](https://aisle.com/blog/aisle-discovered-12-out-of-12-openssl-vulnerabilities)
+⬆️ 190 • 💬 128 • 22h ago • [AISLE](https://aisle.com/blog/aisle-discovered-12-out-of-12-openssl-vulnerabilities)
 
 ---
 
@@ -275,13 +275,33 @@ AISLE's autonomous analyzer found all 12 CVEs in the January 2026 coordinated re
 
 ## YouTube Videos: "ai"
 
+**[The AI Job APOCALYPSE Is Already Here](https://www.youtube.com/watch?v=Y5A_c4pvo7I)**
+
+Support our work: http://novara.media/support Buy Novara Media merch: https://shop.novaramedia.com/ Discuss the show on ...
+
+📺 Novara Media
+
+👁️ 7K • 👍 382 • 💬 112 • ⏱️ 21:03 • 2h ago
+
+---
+
 **[Anthropic CEO speaks about &#39;powerful&#39; AI risks and regulation](https://www.youtube.com/watch?v=tjW_gms7CME)**
 
 Dario Amodei, the CEO of the AI company Anthropic, joined "Top Story" to discuss his new essay "The Adolescence of ...
 
 📺 NBC News
 
-👁️ 29K • 👍 548 • 💬 188 • ⏱️ 18:01 • 1d ago
+👁️ 30K • 👍 567 • 💬 193 • ⏱️ 18:01 • 1d ago
+
+---
+
+**[Microsoft has lost its AI sparkle](https://www.youtube.com/watch?v=g8KGV0JVs6c)**
+
+Microsoft is spending more on #AI than even #WallStreet had feared, explains Bloomberg Opinion columnist Dave Lee.
+
+📺 Bloomberg Opinion
+
+👁️ 257 • 👍 2 • ⏱️ 0:50 • 36m ago
 
 ---
 
@@ -291,7 +311,7 @@ China's AI race just shifted. Moonshot quietly rolled out Kimi K2.5, and the jum
 
 📺 AI Revolution
 
-👁️ 19K • 👍 557 • 💬 35 • ⏱️ 12:41 • 1d ago
+👁️ 20K • 👍 569 • 💬 36 • ⏱️ 12:41 • 1d ago
 
 ---
 
@@ -301,45 +321,7 @@ NVIDIA CEO Jensen Huang discusses how artificial intelligence is advancing and h
 
 📺 Fox Business
 
-👁️ 150K • 👍 2K • 💬 693 • ⏱️ 4:20 • 2d ago
-
----
-
-**[Google AI Studio New Update Is INSANE!](https://www.youtube.com/watch?v=hjGf2hnNdYQ)**
-
-Want to make money and save time with AI? Get AI Coaching, Support & Courses ...
-
-📺 Julian Goldie SEO
-
-👁️ 13K • 👍 295 • 💬 36 • ⏱️ 9:34 • 21h ago
-
----
-
-**[Clawdbot is taking over AI](https://www.youtube.com/watch?v=c2nAKH8BIdo)**
-
-Clawdbot full tutorial. How to install Clawdbot / Moltbot. Use cases of Clawd. Clawdbot vs Claude Code #clawdbot #ai #aitools ...
-
-📺 AI Search
-
-👁️ 57K • 👍 3K • 💬 537 • ⏱️ 28:44 • 20h ago
-
----
-
-**[AI CEO warns governments and companies of bad actors using the tech](https://www.youtube.com/watch?v=PNC379oRUAY)**
-
-Anthropic CEO Dario Amodei called for an embargo on the sale of chips and data centers to China, to reduce AI's dangers.
-
-📺 ABC News
-
-👁️ 6K • 👍 63 • 💬 30 • ⏱️ 3:17 • 1d ago
-
----
-
-**[KEMASUKAN TALENT KP KE TALENT PERMANENT AI TEAM 2026 !!!](https://www.youtube.com/watch?v=MMGf1KNpzz0)**
-
-📺 Alieff Irfan
-
-👁️ 718K • 👍 38K • 💬 6K • ⏱️ 40:22 • 10h ago
+👁️ 151K • 👍 2K • 💬 700 • ⏱️ 4:20 • 2d ago
 
 ---
 
@@ -349,25 +331,45 @@ Check out the Dell Pro Max Workstation with the NVIDIA RTX PRO! https://bit.ly/d
 
 📺 Matthew Berman
 
-👁️ 264K • 👍 7K • 💬 918 • ⏱️ 21:12 • 2d ago
+👁️ 267K • 👍 7K • 💬 930 • ⏱️ 21:12 • 2d ago
 
 ---
 
-**[Real Life vs AI](https://www.youtube.com/watch?v=_8QStRwK3fU)**
+**[Clawdbot is taking over AI](https://www.youtube.com/watch?v=c2nAKH8BIdo)**
 
-📺 Oliver Kowal
+Clawdbot full tutorial. How to install Clawdbot / Moltbot. Use cases of Clawd. Clawdbot vs Claude Code #clawdbot #ai #aitools ...
 
-👁️ 66K • 👍 4K • 💬 24 • ⏱️ 0:55 • 1d ago
+📺 AI Search
+
+👁️ 61K • 👍 3K • 💬 563 • ⏱️ 28:44 • 20h ago
 
 ---
 
-**[Blunt advice about AI from Axios CEO Jim VandeHei](https://www.youtube.com/watch?v=S9cfcpzJ_Ck)**
+**[AI CEO warns governments and companies of bad actors using the tech](https://www.youtube.com/watch?v=PNC379oRUAY)**
 
-Axios CEO Jim VandeHei shares the blunt AI advice he recently wrote to his family, and why he believes every worker, parent, ...
+Anthropic CEO Dario Amodei called for an embargo on the sale of chips and data centers to China, to reduce AI's dangers.
 
-📺 Axios
+📺 ABC News
 
-👁️ 9K • 👍 219 • 💬 24 • ⏱️ 5:57 • 2d ago
+👁️ 7K • 👍 65 • 💬 31 • ⏱️ 3:17 • 1d ago
+
+---
+
+**[7 AI Certifications Worth More than a Degree in 2026](https://www.youtube.com/watch?v=5VA7IJ7mb0g)**
+
+In this video, I break down seven AI certifications that are already outperforming traditional degrees in 2026. I'll show you what ...
+
+📺 James Blue
+
+👁️ 8K • 💬 6 • ⏱️ 12:20 • 9h ago
+
+---
+
+**[KEMASUKAN TALENT KP KE TALENT PERMANENT AI TEAM 2026 !!!](https://www.youtube.com/watch?v=MMGf1KNpzz0)**
+
+📺 Alieff Irfan
+
+👁️ 736K • 👍 40K • 💬 6K • ⏱️ 40:22 • 11h ago
 
 ---
 
@@ -383,7 +385,7 @@ PersonaPlex-7B-v1 is a real-time, full-duplex speech-to-speech conversational mo
 
 `audio-to-audio`
 
-⬇️ 43,872 • ❤️ 1,352 • 5d ago
+⬇️ 43,872 • ❤️ 1,365 • 39m ago
 
 ---
 
@@ -395,7 +397,19 @@ Kimi K2.5 is a native multimodal agentic model with 1T parameters, excelling in 
 
 `image-text-to-text`
 
-⬇️ 10,965 • ❤️ 871 • 20h ago
+⬇️ 10,965 • ❤️ 887 • 20h ago
+
+---
+
+**[Qwen3-TTS-12Hz-1.7B-CustomVoice](https://huggingface.co/Qwen/Qwen3-TTS-12Hz-1.7B-CustomVoice)**
+
+*Qwen*
+
+Qwen3-TTS-12Hz-1.7B-CustomVoice is a multilingual text-to-speech model supporting 10 languages with instruction-based control over prosody, emotion, and speaking rate. It features extreme low-latency streaming generation (as low as 97ms) and supports 9 premium timbres for style control, making it ideal for real-time interactive applications.
+
+`1.9B`
+
+⬇️ 138,693 • ❤️ 695 • 5d ago
 
 ---
 
@@ -411,18 +425,6 @@ VibeVoice-ASR is a unified speech-to-text model capable of processing up to 60 m
 
 ---
 
-**[Qwen3-TTS-12Hz-1.7B-CustomVoice](https://huggingface.co/Qwen/Qwen3-TTS-12Hz-1.7B-CustomVoice)**
-
-*Qwen*
-
-Qwen3-TTS-12Hz-1.7B-CustomVoice is a multilingual text-to-speech model supporting 10 languages with instruction-based control over prosody, emotion, and speaking rate. It features extreme low-latency streaming generation (as low as 97ms) and supports 9 premium timbres for style control, making it ideal for real-time interactive applications.
-
-`1.9B`
-
-⬇️ 138,693 • ❤️ 689 • 5d ago
-
----
-
 **[Z-Image](https://huggingface.co/Tongyi-MAI/Z-Image)**
 
 *Tongyi-MAI*
@@ -431,7 +433,7 @@ Z-Image is an undistilled, high-fidelity text-to-image diffusion transformer mod
 
 `text-to-image`
 
-⬇️ 0 • ❤️ 566 • 9h ago
+⬇️ 0 • ❤️ 574 • 9h ago
 
 ---
 
@@ -443,7 +445,7 @@ GLM-4.7-Flash is a 30B-A3B MoE model, offering strong performance in the 30B cla
 
 `text-generation` `31.2B`
 
-⬇️ 532,168 • ❤️ 1,297 • 8d ago
+⬇️ 532,168 • ❤️ 1,300 • 8d ago
 
 ---
 
@@ -455,7 +457,7 @@ DeepSeek-OCR-2 is a multilingual vision-language model for image-to-text tasks, 
 
 `image-text-to-text` `3.4B`
 
-⬇️ 0 • ❤️ 455 • 1d ago
+⬇️ 0 • ❤️ 461 • 1d ago
 
 ---
 
@@ -467,7 +469,7 @@ LightOnOCR-2-1B is an efficient 1B-parameter end-to-end vision-language model fo
 
 `image-text-to-text` `1.0B`
 
-⬇️ 19,899 • ❤️ 419 • 7d ago
+⬇️ 19,899 • ❤️ 422 • 7d ago
 
 ---
 
@@ -507,7 +509,7 @@ Sweep Next-Edit 1.5B is a GGUF quantized model for next-edit code autocompletion
 
 The Qwen3-TTS series presents advanced multilingual text-to-speech models with voice cloning and controllable speech generation capabilities, utilizing dual-track LM architecture and specialized speech tokenizers for efficient streaming synthesis.
 
-▲ 47 • 💬 1 • ⭐ 5,613 • 7d ago
+▲ 47 • 💬 1 • ⭐ 5,717 • 7d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2601.15621) • [💻 code](https://github.com/QwenLM/Qwen3-TTS)
 
@@ -521,7 +523,7 @@ The Qwen3-TTS series presents advanced multilingual text-to-speech models with v
 
 A Vision-Language-Action model trained on extensive real-world robotic data demonstrates superior performance and generalization across multiple platforms while offering enhanced efficiency through optimized training infrastructure.
 
-▲ 25 • 💬 2 • ⭐ 218 • 2d ago
+▲ 25 • 💬 2 • ⭐ 245 • 2d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2601.18692) • [💻 code](https://github.com/robbyant/lingbot-vla) • [🔗 project](https://technology.robbyant.com/lingbot-vla)
 
@@ -598,7 +600,7 @@ To support reliable long-term interaction in complex environments, LLM agents re
 
 PagedAttention algorithm and vLLM system enhance the throughput of large language models by efficiently managing memory and reducing waste in the key-value cache.
 
-▲ 33 • 💬 1 • ⭐ 68,841 • 28mo ago
+▲ 33 • 💬 1 • ⭐ 68,882 • 28mo ago
 
 [🎓 arXiv](https://arxiv.org/abs/2309.06180) • [💻 code](https://github.com/vllm-project/vllm)
 
@@ -639,7 +641,7 @@ Browser automation CLI for AI agents
 
 `TypeScript`
 
-⭐ 11.2k • 🔱 615 • 5h ago
+⭐ 11.2k • 🔱 616 • 6h ago
 
 ---
 
@@ -649,7 +651,7 @@ AI → JSON → UI
 
 `TypeScript`
 
-⭐ 9.5k • 🔱 502 • 7h ago
+⭐ 9.5k • 🔱 502 • 8h ago
 
 ---
 
@@ -659,7 +661,7 @@ Ralph is an autonomous AI agent loop that runs repeatedly until all PRD items ar
 
 `TypeScript`
 
-⭐ 8.4k • 🔱 973 • 5d ago
+⭐ 8.4k • 🔱 978 • 5d ago
 
 ---
 
@@ -689,7 +691,7 @@ Marketing skills for Claude Code and AI agents. CRO, copywriting, SEO, analytics
 
 `claude` `codex` `marketing`
 
-⭐ 5.2k • 🔱 552 • 15h ago
+⭐ 5.2k • 🔱 555 • 15h ago
 
 ---
 
@@ -707,7 +709,7 @@ The Ultimate Collection of 500+ Agentic Skills for Claude Code/Antigravity/Curso
 
 Claude Code skill that removes signs of AI-generated writing from text
 
-⭐ 3.4k • 🔱 291 • 5d ago
+⭐ 3.4k • 🔱 292 • 5d ago
 
 ---
 

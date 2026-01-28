@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-01-28T23:29:42.833743+00:00'
+updated: '2026-01-28T23:51:59.066256+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
+- news
 - social
 - videos
-- news
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** January 28, 2026 at 23:29 UTC  
+**Last Updated:** January 28, 2026 at 23:51 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -34,13 +34,13 @@ Robotics research and industry news
 
 **[Dexterous robotic hands: 2009 - 2014 - 2025](https://www.reddit.com/r/robotics/comments/1qp7z15/dexterous_robotic_hands_2009_2014_2025/)**
 
-12h ago
+13h ago
 
 ---
 
 **[Figure 03 handling glassware, fully autonomous](https://www.reddit.com/r/robotics/comments/1qpn1dq/figure_03_handling_glassware_fully_autonomous/)**
 
-2h ago
+3h ago
 
 ---
 
@@ -80,7 +80,7 @@ Former iRobot CEO Colin Angle talks about how robotics isn’t really a single �
 
 Hi, it's Emre from the Asimov team. I've been sharing our daily humanoid progress here, and thanks for your support along the way! We've open-sourced the leg design with CAD files, actuator list, and XML files for simulation. Now we're sharing a writeup on how we built it. Quick intro: Asimov is an open-source humanoid robot. We only have legs right now and are planning to finalize the full body by March 2026. It's going to be modular, so you can build the parts you need. Selling the robot isn't our priority right now. https://preview.redd.it/ljxqu6pdk2gg1.png?width=2000&format=png&auto=webp&s=71c244fb3cfc31cd5a768b7b1488babd8e04dcc0 Each leg has 6 DOF. The complete legs subsystem costs just over $10k, roughly $8.5k for actuators and joint parts, the rest for batteries and control modules. We designed for modularity and low-volume manufacturing. Most structural parts are compatible with MJF 3D printing. The only CNC requirement is the knee plate, which we simplified from a two-part assembly to a single plate. Actuators & Motors list and design files: https://github.com/asimovinc/asimov-v0 https://preview.redd.it/zalsj3eik2gg1.png?width=1200&format=png&auto=webp&s=734adca3a9d1c928acbf75cd95e44c3d4640ed93 We chose a parallel RSU ankle rather than a simple serial ankle. RSU gives us two-DOF ankles with both roll and pitch. Torque sharing between two motors means we can place heavy components closer to the hip, which improves rigidity and backdrivability. Linear actuators would have been another option, higher strength, more tendon-like look, but slower and more expensive. We added a toe joint that's articulated but not actuated. During push-off, the toe rocker helps the foot roll instead of pivoting on a rigid edge. Better traction, better forward propulsion, without adding another powered joint. https://preview.redd.it/skiqez2gk2gg1.png?width=1200&format=png&auto=webp&s=59d8951c9d20d2a10f547879a346c65e5b2e0bcf Our initial hip-pitch actuator was mounted at 45 degrees. This limited hip flexion and made sitting impossible. We're moving to a horizontal mount to recover range of motion. We're also upgrading ankle pivot components from aluminum to steel, and tightening manufacturing tolerances after missing some holes in early builds. https://preview.redd.it/o5wrtthkk2gg1.png?width=1200&format=png&auto=webp&s=5bebbe9c662e8e0a15ac6ea6b788530d0d1d66fd Next up is the upper body. We're working on arms and torso in parallel, targeting full-body integration by March. The complete robot will have 26 DOF and come in under 40kg. Sneak industrial design render of complete Asimov humanoid. Full writeup with diagrams and specs here: https://news.asimov.inc/p/how-we-built-humanoid-legs-from-the
 
-12h ago
+13h ago
 
 ---
 
@@ -124,7 +124,7 @@ NASA (.gov) • 1d ago
 
 Boston Dynamics' Atlas appears to have an edge over Tesla's Optimus.
 
-The Motley Fool • 18h ago
+The Motley Fool • 19h ago
 
 ---
 
@@ -162,7 +162,7 @@ GlobeNewswire • 1d ago
 
 Most people think Silicon Valley was built by entrepreneurs.Garage tinkerers. Venture capitalists. Risk-taking founders chasing consumer demand.It’s a comforting story … because it makes America’s greatest tech boom feel accidental… almost inevitable.But the truth is more useful for investors: Sili…
 
-TradingView • 10h ago
+TradingView • 11h ago
 
 ---
 
@@ -186,7 +186,7 @@ AP News • 1d ago
 
 Approval confirms compliance with Department of War cybersecurity, supply-chain, and operational standards, further positioning Ondas' dual-use autonomous platform for expanded deployment across defense and critical infrastructure applications Milestone ...
 
-Yahoo Finance • 9h ago
+Yahoo Finance • 10h ago
 
 ---
 
@@ -194,33 +194,13 @@ Yahoo Finance • 9h ago
 
 ## YouTube Videos: "robotics"
 
-**[Helix 02 by Figure Proves Humanoid Robots Can Finally Feel](https://www.youtube.com/watch?v=tz-t1EQ44n0)**
-
-Helix 02 from Figure is changing what humanoid robots are capable of by adding something vision alone could never solve: touch ...
-
-📺 DPCcars
-
-👁️ 5K • 👍 165 • 💬 20 • ⏱️ 1:18 • 22h ago
-
----
-
 **[The Most Complex Task a Humanoid Robot Has Ever Done? #Robot #AI #Tech](https://www.youtube.com/watch?v=3aAnqRLqqos)**
 
 Figure AI says its flagship humanoid is more autonomous than ever thanks to its newly upgraded robot brain. The Silicon Valley ...
 
 📺 Kalil 4.0
 
-👁️ 991 • 👍 51 • 💬 1 • ⏱️ 0:39 • 6h ago
-
----
-
-**[The German Robots Are Replacing Forklifts Inside Factories](https://www.youtube.com/watch?v=tCis6jGzxnk)**
-
-Day 172 of watching tech evolve. German startup Filics has built autonomous warehouse robots that move in any direction, work ...
-
-📺 Deepen
-
-👁️ 19K • 👍 399 • 💬 10 • ⏱️ 0:29 • 4d ago
+👁️ 2K • 👍 61 • 💬 1 • ⏱️ 0:39 • 6h ago
 
 ---
 
@@ -232,13 +212,33 @@ Day 172 of watching tech evolve. German startup Filics has built autonomous ware
 
 ---
 
+**[The German Robots Are Replacing Forklifts Inside Factories](https://www.youtube.com/watch?v=tCis6jGzxnk)**
+
+Day 172 of watching tech evolve. German startup Filics has built autonomous warehouse robots that move in any direction, work ...
+
+📺 Deepen
+
+👁️ 19K • 👍 400 • 💬 10 • ⏱️ 0:29 • 4d ago
+
+---
+
+**[TRON 1 bipedal robot refuses to fail in deep snow #robotics #tech  #airobot](https://www.youtube.com/watch?v=IHxPxKme4mo)**
+
+The Shenzhen startup LimX Dynamics has demonstrated what it calls a major step forward for cold-weather logistics.
+
+📺 Kalil 4.0
+
+👁️ 716 • 👍 42 • ⏱️ 0:40 • 3h ago
+
+---
+
 **[This Girl Discovered a Lost Robot in the Mountain](https://www.youtube.com/watch?v=v6GRptrADk4)**
 
 In the depths of a mysterious mountain forest, a young girl named Jessica stumbles upon a lost, abandoned Aegis Suit robot ...
 
 📺 Technology Next World
 
-👁️ 49K • 👍 430 • 💬 17 • ⏱️ 3:53 • 4d ago
+👁️ 51K • 👍 448 • 💬 17 • ⏱️ 3:53 • 4d ago
 
 ---
 
@@ -248,7 +248,17 @@ RoboticWings #FuturisticLab #Android #SciFi #Robotics #AIArt #Cyberpunk #HighTec
 
 📺 AITECHGADGETS
 
-👁️ 242K • 💬 138 • ⏱️ 0:18 • 2d ago
+👁️ 245K • 💬 139 • ⏱️ 0:18 • 2d ago
+
+---
+
+**[Elon Musk UNVEILS a SHOCKING Trump ROBOT CLONE in Front of Trump &amp; Melania.](https://www.youtube.com/watch?v=GvoLXBUJkX4)**
+
+Elon Musk revela un IMPACTANTE ROBOT CLON de Trump delante de Trump y Melania.埃隆·马斯克当着特朗普和梅拉尼娅的面 ...
+
+📺 mundo tendencias
+
+👁️ 1.0M • 👍 9K • 💬 162 • ⏱️ 0:08 • 4d ago
 
 ---
 
@@ -258,7 +268,15 @@ Get FREE Robotics & AI Resources (Guide, Textbooks, Courses, Resume Template, Co
 
 📺 Kevin Wood | Robotics & AI
 
-👁️ 896 • 👍 26 • 💬 2 • ⏱️ 3:51 • 17h ago
+👁️ 1K • 👍 26 • 💬 2 • ⏱️ 3:51 • 17h ago
+
+---
+
+**[My boyfriend loves his mini robot 🤣💕#couples #longdistancerelationship #ldr #robot](https://www.youtube.com/watch?v=qrJfj-HRXzE)**
+
+📺 Romi Pal
+
+👁️ 293K • 👍 6K • 💬 34 • ⏱️ 0:17 • 5d ago
 
 ---
 
@@ -268,27 +286,7 @@ Get FREE Robotics & AI Resources (Guide, Textbooks, Courses, Resume Template, Co
 
 📺 Andreas Klinger ⅹ Europe's Most Ambitious Startups
 
-👁️ 14K • 👍 934 • 💬 146 • ⏱️ 16:46 • 2d ago
-
----
-
-**[Viral video shows autonomous snow blower at work in New Jersey](https://www.youtube.com/watch?v=c7vetvwsn-Q)**
-
-Sandra Bookman has more on the viral video and the man behind the handy invention.
-
-📺 Eyewitness News ABC7NY
-
-👁️ 525K • 👍 4K • 💬 799 • ⏱️ 2:01 • 2d ago
-
----
-
-**[Fauna Robotics unveils friendly humanoid robot Sprout](https://www.youtube.com/watch?v=V2uf8k1pGyY)**
-
-Sprout, a 3 1/2-foot-tall humanoid from Fauna Robotics, debuts with a soft foam body, expressive moves and a friendly vibe.
-
-📺 Associated Press
-
-👁️ 15K • 👍 122 • 💬 12 • ⏱️ 0:55 • 1d ago
+👁️ 15K • 👍 976 • 💬 152 • ⏱️ 16:46 • 2d ago
 
 ---
 

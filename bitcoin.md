@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-01-28T23:29:42.824449+00:00'
+updated: '2026-01-28T23:51:59.056993+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
+- cryptocurrency
 - social
 - videos
 - news
-- cryptocurrency
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** January 28, 2026 at 23:29 UTC  
+**Last Updated:** January 28, 2026 at 23:51 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -54,17 +54,17 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1778.99B
+**Market Cap:** $1782.31B
 Rank #1
 
-**Circulating Supply:** 19,981,606 BTC
+**Circulating Supply:** 19,981,643 BTC
 95.2% of max
 
 **All-Time High:** $126,080.00
--29.4%
+-29.3%
 
 **All-Time Low:** $67.81
-+131194.8%
++131429.3%
 
 ---
 
@@ -99,7 +99,7 @@ Source: Blossom Social
 
 **[NBA legend Scottie Pippen often says Satoshi visits him in his dreams. This is what I imagine they're like.](https://www.reddit.com/r/Bitcoin/comments/1qpjtzp/nba_legend_scottie_pippen_often_says_satoshi/)**
 
-4h ago
+5h ago
 
 ---
 
@@ -113,13 +113,13 @@ Historically, the most significant portion of Bitcoin's gains come in just 10 tr
 
 **[Don't Trust, Verify 😁](https://www.reddit.com/r/Bitcoin/comments/1qpbh7a/dont_trust_verify/)**
 
-9h ago
+10h ago
 
 ---
 
 **[The best choice..](https://www.reddit.com/r/Bitcoin/comments/1qpac56/the_best_choice/)**
 
-10h ago
+11h ago
 
 ---
 
@@ -169,7 +169,7 @@ Bitcoin Magazine • 9h ago
 
 Bitcoin is rebounding, and it has returned to the higher structure of the high-$90,000 and low-$80,000 area after temporarily falling to the mid-$80,000s.The shift has relieved short-term downside pressure, but market evidence indicates that the rally alone is insufficient to indicate that a new leg of a bull market is ...
 
-Yahoo Finance • 1h ago
+Yahoo Finance • 2h ago
 
 ---
 
@@ -177,7 +177,7 @@ Yahoo Finance • 1h ago
 
 The latest proposal closely mirrors House Bill 1202, which was introduced during the 2025 legislative session.
 
-The Block • 17h ago
+The Block • 18h ago
 
 ---
 
@@ -201,7 +201,7 @@ Decrypt • 8h ago
 
 The bitcoin price hovered near $90,000 as the Fed held rates steady and Powell signaled a neutral stance — neither tightening nor rushing new cuts.
 
-Bitcoin Magazine • 2h ago
+Bitcoin Magazine • 3h ago
 
 ---
 
@@ -223,7 +223,7 @@ Barron's • 2d ago
 
 Is gold replacing bitcoin as the go-to hedge?
 
-Investing.com • 13h ago
+Investing.com • 14h ago
 
 ---
 
@@ -282,7 +282,7 @@ Transform HN comment threads into executive intelligence. AI analyzes discussion
 
 **[Is This Billionaire a Financial Genius or a Fraudster?](https://news.ycombinator.com/item?id=46759922)**
 
-⬆️ 4 • 💬 5 • 2d ago • [nytimes.com](https://www.nytimes.com/2026/01/16/business/michael-saylor-strategy-bitcoin.html)
+⬆️ 4 • 💬 5 • 3d ago • [nytimes.com](https://www.nytimes.com/2026/01/16/business/michael-saylor-strategy-bitcoin.html)
 
 ---
 
@@ -290,7 +290,7 @@ Transform HN comment threads into executive intelligence. AI analyzes discussion
 
 Reporting on Fintech, Crypto, and Blockchain Activity in Africa
 
-⬆️ 1 • 💬 0 • 4h ago • [BitKE](https://bitcoinke.io/2026/01/ozow-announces-payments-solution-by-moneybadger/)
+⬆️ 1 • 💬 0 • 5h ago • [BitKE](https://bitcoinke.io/2026/01/ozow-announces-payments-solution-by-moneybadger/)
 
 ---
 
@@ -302,7 +302,7 @@ Reporting on Fintech, Crypto, and Blockchain Activity in Africa
 
 **[Show HN: We built a type-safe Python ORM for RedisGraph/FalkorDB](https://news.ycombinator.com/item?id=46796602)**
 
-⬆️ 5 • 💬 3 • 7h ago
+⬆️ 5 • 💬 3 • 8h ago
 
 ---
 
@@ -310,43 +310,33 @@ Reporting on Fintech, Crypto, and Blockchain Activity in Africa
 
 ## YouTube Videos: "bitcoin"
 
-**[Trump Just Gave Markets Massive Fuel! (Bitcoin &amp; Crypto To Ignite)](https://www.youtube.com/watch?v=9DjoC5oscXg)**
-
-The Dollar is breaking and the "Sell America" trade is officially on. While the mainstream media calls this chaos, we see the ...
-
-📺 Crypto Banter
-
-👁️ 23K • 👍 2K • 💬 45 • ⏱️ 26:12 • 7h ago
-
----
-
 **[Bitcoin About To Explode If The Fed Does This Today...](https://www.youtube.com/watch?v=l30sNrH4pvs)**
 
 Today, let's examine Bitcoin's charts and metrics, as well as the latest Macro and Crypto news. Additionally, a look at the latest ...
 
 📺 CryptosRUs
 
-👁️ 27K • 👍 1K • 💬 263 • ⏱️ 38:00 • 6h ago
+👁️ 30K • 👍 1K • 💬 294 • ⏱️ 38:00 • 7h ago
 
 ---
 
-**[Why Isn&#39;t Bitcoin Going Up While Gold &amp; Silver Are Surging?](https://www.youtube.com/watch?v=MdWTq7-sMR8)**
+**[Trump Just Gave Markets Massive Fuel! (Bitcoin &amp; Crypto To Ignite)](https://www.youtube.com/watch?v=9DjoC5oscXg)**
 
-In this solo episode, Anthony Pompliano explains why Bitcoin is lagging while gold, silver, copper, and platinum are surging.
+The Dollar is breaking and the "Sell America" trade is officially on. While the mainstream media calls this chaos, we see the ...
 
-📺 Anthony Pompliano
+📺 Crypto Banter
 
-👁️ 89K • 👍 3K • 💬 159 • ⏱️ 17:45 • 2d ago
+👁️ 27K • 👍 2K • 💬 53 • ⏱️ 26:12 • 8h ago
 
 ---
 
-**[Tom Lee &amp; Raoul Pal - &quot;GIANT Crypto Reset Coming&quot; | Bitcoin &amp; ETH Price!](https://www.youtube.com/watch?v=8HgGTwrXZGI)**
+**[🚨 BITCOIN WARNING: The Head &amp; Shoulders Is Real. Next Stop $67,000?](https://www.youtube.com/watch?v=odegrpckrpU)**
 
-FREE Daily On-Chain Analysis & Crypto News In 5-Mins: http://bit.ly/TheCryptoNutshell Watch The FULL Interview: "Tom ...
+Bitcoin is at a massive crossroads, and the charts are telling a different story than the headlines. In today's deep dive, Chief Market ...
 
-📺 Library Of Wealth
+📺 Gareth Soloway
 
-👁️ 11K • 👍 357 • 💬 372 • ⏱️ 16:28 • 18h ago
+👁️ 16K • 👍 2K • 💬 451 • ⏱️ 9:04 • 3h ago
 
 ---
 
@@ -356,37 +346,27 @@ Silver has exploded, gold is ripping, and Bitcoin looks left behind — but hist
 
 📺 Swan Bitcoin
 
-👁️ 66K • 👍 2K • 💬 479 • ⏱️ 17:47 • 1d ago
+👁️ 69K • 👍 3K • 💬 496 • ⏱️ 17:47 • 1d ago
 
 ---
 
-**[IT&#39;S OVER FOR CRYPTO BLACKROCK PLACED THEIR BETS!](https://www.youtube.com/watch?v=6HPeviuGxO0)**
+**[Why Isn&#39;t Bitcoin Going Up While Gold &amp; Silver Are Surging?](https://www.youtube.com/watch?v=MdWTq7-sMR8)**
 
-IT'S OVER FOR CRYPTO BLACKROCK PLACED THEIR BETS! I don't believe that crypto is going anywhere, and I also believe ...
+In this solo episode, Anthony Pompliano explains why Bitcoin is lagging while gold, silver, copper, and platinum are surging.
 
-📺 CryptoWendyO
+📺 Anthony Pompliano
 
-👁️ 37K • 👍 2K • 💬 265 • ⏱️ 3:19 • 2d ago
-
----
-
-**[Why Central Banks are TERRIFIED of Bitcoin!](https://www.youtube.com/watch?v=qjfyM_Nf1Fo)**
-
-Bitcoin had a brutal week, but the real story happened behind closed doors at Davos. Central bankers laughed at Bitcoin, and that ...
-
-📺 Simply Bitcoin
-
-👁️ 23K • 👍 2K • 💬 241 • ⏱️ 16:25 • 1d ago
+👁️ 93K • 👍 3K • 💬 159 • ⏱️ 17:45 • 2d ago
 
 ---
 
-**[&#39;WAR ON CRYPTO&#39;: Washington pushes CLARITY Act forwad despite red flags](https://www.youtube.com/watch?v=9n02NHCblE4)**
+**[Michael Saylor: BITCOIN BULL RUN READY TO BE CONFIRMED! BTC PRICE PREDICTION](https://www.youtube.com/watch?v=ZORfexjBzdU)**
 
-Unicoin founder and chief strategy officer Silvina Moschini discusses crypto legislation as the CLARITY Act heads to Capitol Hill ...
+BTC #Bitcoin #Cryptocurrency Join Michael Saylor for his unforgettable keynote at the Bitcoin Сonference. A visionary Bitcoin ...
 
-📺 Fox Business Clips
+📺 ŁOWCA RUIN
 
-👁️ 64K • 👍 2K • 💬 577 • ⏱️ 7:19 • 8h ago
+👁️ 4K • 👍 4K • 51m ago
 
 ---
 
@@ -396,17 +376,37 @@ Bitcoin, gold, stocks ripping, and altcoin trade ideas! BITUNIX TRADE THE TOP CO
 
 📺 Lark Davis
 
-👁️ 15K • 👍 802 • 💬 123 • ⏱️ 18:25 • 11h ago
+👁️ 17K • 👍 845 • 💬 126 • ⏱️ 18:25 • 12h ago
 
 ---
 
-**[LIVE: Michael Saylor on Bitcoin Bull Run &amp; MSTR Stock – BTC Price Analysis](https://www.youtube.com/watch?v=RKhPxhXewJ0)**
+**[Why Central Banks are TERRIFIED of Bitcoin!](https://www.youtube.com/watch?v=qjfyM_Nf1Fo)**
 
-BTC #Bitcoin #Cryptocurrency Join Michael Saylor for his unforgettable keynote at the Bitcoin Сonference. A visionary Bitcoin ...
+Bitcoin had a brutal week, but the real story happened behind closed doors at Davos. Central bankers laughed at Bitcoin, and that ...
 
-📺 Creative Carter
+📺 Simply Bitcoin
 
-👁️ 4K • 👍 1K • 3h ago
+👁️ 23K • 👍 2K • 💬 240 • ⏱️ 16:25 • 1d ago
+
+---
+
+**[&#39;WAR ON CRYPTO&#39;: Washington pushes CLARITY Act forwad despite red flags](https://www.youtube.com/watch?v=9n02NHCblE4)**
+
+Unicoin founder and chief strategy officer Silvina Moschini discusses crypto legislation as the CLARITY Act heads to Capitol Hill ...
+
+📺 Fox Business Clips
+
+👁️ 84K • 👍 2K • 💬 677 • ⏱️ 7:19 • 8h ago
+
+---
+
+**[If Bitcoin Breaks This Level, I&#39;ll Flip Mega Bullish On Crypto! (FOMC GAMEPLAN)](https://www.youtube.com/watch?v=qE8YQDEWYl8)**
+
+Bitcoin is approaching a critical level, and before the market fully flips, there's one final trade that matters. In this video, Sheldon ...
+
+📺 Crypto Banter
+
+👁️ 9K • 👍 591 • 💬 12 • ⏱️ 18:40 • 13h ago
 
 ---
 
