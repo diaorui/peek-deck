@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-01-29T11:53:21.088085+00:00'
+updated: '2026-01-29T13:00:25.299438+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
 - cryptocurrency
 - news
-- videos
 - social
+- videos
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** January 29, 2026 at 11:53 UTC  
+**Last Updated:** January 29, 2026 at 13:00 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -36,33 +36,33 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Price
 
-### $2,931.61
+### $2,934.21
 
 ---
 
 ## Ethereum Chart
 
-**24h:** -3.1%  
-**7d:** -0.7%  
-**30d:** -1.2%  
+**24h:** -3.3%  
+**7d:** -0.8%  
+**30d:** -1.3%  
 **90d:** -24.2%  
-**1y:** -9.5%  
+**1y:** -9.6%  
 
 ---
 
 ## Ethereum Market Stats
 
-**Market Cap:** $354.68B
+**Market Cap:** $353.57B
 Rank #2
 
 **Circulating Supply:** 120,694,351 ETH
 No max supply
 
 **All-Time High:** $4,946.05
--40.6%
+-40.7%
 
 **All-Time Low:** $0.43
-+678581.9%
++676750.4%
 
 ---
 
@@ -72,7 +72,15 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-5h ago
+6h ago
+
+---
+
+**[Hegotá Should Complete the Holy Trinity of Censorship Resistance](https://www.reddit.com/r/ethereum/comments/1qq4rzf/hegotá_should_complete_the_holy_trinity_of/)**
+
+To maximize Ethereum’s neutrality, we propose that the Hegotá upgrade includes both FOCIL and encrypted mempools. This would complete the Holy Trinity of Censorship Resistance, achieving system-level defense against transaction censorship.
+
+🔗 [EtherWorld.co](https://etherworld.co/hegota-should-complete-the-holy-trinity-of-censorship-resistance/) • 2h ago
 
 ---
 
@@ -80,7 +88,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 Ethereum doesn’t have a fixed “X% inflation forever” schedule. Its supply is basically the tug-of-war between: 1) ISSUANCE (new ETH paid to secure the network) 2) BURN (ETH destroyed via EIP-1559 base fee) So ETH can be inflationary in one period and deflationary in another. ------------------------------------------------------------ THE 2 BIG CHANGES ------------------------------------------------------------ A) EIP-1559 (fee burn, live since Aug 2021) - Base fee is burned (destroyed), so activity can reduce supply. B) The Merge (executed Sep 15, 2022) — issuance collapsed Ethereum.org’s issuance breakdown uses these ballpark numbers: - Pre-Merge: ~13,000 ETH/day to PoW miners (+ PoS issuance existed in parallel) - Post-Merge: ~1,700 ETH/day to PoS validators => ~88% drop in new issuance A neat rule-of-thumb from ethereum.org: - If average gas is ~16 gwei or higher on a given day, burn can roughly offset ~1,700 ETH/day issuance (net ~0 or deflation for that day). ------------------------------------------------------------ BEFORE vs AFTER: YoY SUPPLY INFLATION (REAL SUPPLY DATA) Definition here: compare today’s circulating supply vs 1 year ago (YoY % change). Here are the “regime” numbers around the Merge: 1) LAST FULL YEAR BEFORE THE MERGE (PoW era, but already with EIP-1559 burn) - Sep 15, 2021 → Sep 14, 2022: Avg YoY inflation: ~4.16% Median: ~4.32% 2) FIRST POST-MERGE YEAR - Sep 15, 2022 → Sep 14, 2023: Avg YoY inflation: ~1.06% Median: ~0.97% 3) SECOND POST-MERGE YEAR - Sep 15, 2023 → Sep 14, 2024: Avg YoY inflation: ~-0.13% (net deflation on average) (Yes, negative YoY supply change on average for a full year.) Peak “deflationary stretch” (from the dataset): - Most deflationary datapoint: ~-0.2957% annualized (around mid-2023) ------------------------------------------------------------ RECENT SUPPLY DEVELOPMENT: “NEAR ABSOLUTE ZERO” ------------------------------------------------------------ Current snapshot (latest datapoint in my YoY series): - Supply: ~120.74M ETH - YoY inflation: ~0.2371% (as of 2026-01-26) What does 0.237% mean in ETH terms? - 0.2371% of ~120.74M ≈ ~286k ETH net added over a year (order of magnitude). That’s tiny compared to the pre-Merge issuance regime. Short-term trend (last ~30 days in the YoY series): - YoY inflation drifted DOWN from ~0.2578% → ~0.2371% So it’s mildly positive right now, but cooling, not accelerating. ------------------------------------------------------------ TL;DR ------------------------------------------------------------ - Pre-Merge: ~4%+ YoY supply growth was “normal”. - Post-Merge: baseline issuance dropped massively, so burn often offsets a large chunk of it. - Result: ETH supply has been hovering around ~0% (sometimes +, sometimes -), depending on activity. Full write-up + charts + methodology: https://www.cryptoinflation.eu/how-ethereum-became-a-deflationary-asset-a-guide-to-eths-inflation-deflation/ Ethereum's inflation chart
 
-16h ago
+17h ago
 
 ---
 
@@ -94,7 +102,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 **[Ethereum’s Transition to Post-Quantum Cryptography](https://www.reddit.com/r/ethereum/comments/1qpkqdl/ethereums_transition_to_postquantum_cryptography/)**
 
-16h ago
+17h ago
 
 ---
 
@@ -102,7 +110,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 Sorry if it was asked by past, i couldn't find the answer. Question about Lido stETH unstaking instantly, without delay I am having stETH staked on my Ledger Nano X that i'm trying to unstake but on lido page it takes up to a week, isn't there a way to process it faster? Advices appreciated
 
-22h ago
+23h ago
 
 ---
 
@@ -110,7 +118,7 @@ Sorry if it was asked by past, i couldn't find the answer. Question about Lido s
 
 I just launched my hardware wallet review series and the first device to be reviewed gave me surprising results! The imKey Pro is a $110 bluetooth wallet from the 2019 era. It’s not something most people have heard of, and at this point, it can be considered previous gen tech, is partially closed source, and even uses microUSB still (when not using the bluetooth-native connection). Can it still hold up in 2026? Well… surprisingly, yes. Even more assuring is that some years ago, someone deeply embedded in the Ethereum Foundation (and has become even MORE deeply embedded since) told me she uses it exclusively. Not Ledger, not Trezor, not GridPlus. The imKey. That endorsement alone made me take this device very seriously. So I tested everything: the Infineon SLE78 secure element, the bluetooth security model, the mobile-first UX, the clear signing implementation. Pros: EAL6+ certified chip (same as your passport, bank cards, and Yubikey!!!) (More) readable transaction context Wireless signing via imToken app Great build quality Entry-level price Cons: 2019 hardware showing its age Bluetooth = wider attack surface Firmware isn't open source Requires binding codes if using the bluetooth connection via imToken app Limited desktop support For a $110 entry-level option, I would definitely consider it. First of all, ANY migration away from holding your private keys inside an internet-connected device (e.g. your laptop, a hot wallet on your phone, etc.) to a dedicated hardware wallet will be a MASSIVE security upgrade. Don’t let perfect be the enemy of good. But knowing there’s other, more modern options out there now, it can be difficult to *strongly* recommend the imKey over other options. But the question begs… what did my EF associate see in the imKey that I didn’t? I had to find out. Watch my full review video here: https://youtu.be/FV2qJ3eLXFI ------------------------- If we're meeting for the first time, hi 👋! I find crypto youtube to be a giant cesspool. As a result, I started building my channel to spread the good word on good work in crypto — something with substance and humanity. Dropping a like, sub, and comment goes a LONG way to supporting me, so please consider doing so!
 
-🔗 [youtu.be](https://youtu.be/FV2qJ3eLXFI) • 21h ago
+🔗 [youtu.be](https://youtu.be/FV2qJ3eLXFI) • 22h ago
 
 ---
 
@@ -136,12 +144,6 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 ---
 
-**[Built a little ethereum wallet for a metamask interview](https://www.reddit.com/r/ethereum/comments/1qon8y9/built_a_little_ethereum_wallet_for_a_metamask/)**
-
-1d ago
-
----
-
 ---
 
 ## Google News: "ethereum"
@@ -150,7 +152,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 The Federal Reserve held its benchmark interest rate steady, as two Trump-appointed members of the FOMC advocated for another cut.
 
-Decrypt • 16h ago
+Decrypt • 17h ago
 
 ---
 
@@ -166,23 +168,7 @@ The Block • 1d ago
 
 Tom Lee has urged investors not to let the rally in gold and silver divert attention from Ethereum. BitMine continues to build its Ethereum position. ...
 
-Yahoo Finance • 2h ago
-
----
-
-**[Tom Lee’s BitMine Corners 3.5% of Ethereum Supply as Treasury Tops With 4.24M ETH Buy](https://finance.yahoo.com/news/tom-lee-bitmine-corners-3-163439225.html)**
-
-BitMine Immersion Technologies, a New York–listed company chaired by Fundstrat’s Tom Lee, has quietly built one of the largest concentrated positions in Ethereum ever disclosed by a single entity.In an update published on January 26, BitMine said it now holds 4,243,338 ether, giving the company control of roughly 3.52% of ...
-
-Yahoo Finance • 2d ago
-
----
-
-**[Tom Lee Claims Parabolic Gold and Silver Move Is Masking Bullish Bitcoin and Ethereum Signals](https://www.ccn.com/news/crypto/tom-lee-claims-parabolic-gold-and-silver-move-is-masking-bullish-bitcoin-and-ethereum-signals/)**
-
-Gold and silver’s surge has overshadowed Bitcoin and Ethereum fundamentals, says Tom Lee, who forecasts an incoming crypto price rally.
-
-CCN.com • 2d ago
+Yahoo Finance • 3h ago
 
 ---
 
@@ -216,11 +202,27 @@ thedefiant.io • 2d ago
 
 ---
 
-**[XRP, Ethereum Now ‘Undervalued’ On MVRV, Says Santiment](https://www.tradingview.com/news/newsbtc:3378aa0c9094b:0-xrp-ethereum-now-undervalued-on-mvrv-says-santiment/)**
+**[Ethereum already ‘20%’ of the way toward quantum resilience: Interview](https://www.tradingview.com/news/cointelegraph:cbf987f35094b:0-ethereum-already-20-of-the-way-toward-quantum-resilience-interview/)**
 
-On-chain analytics firm Santiment has pointed out how XRP and Ethereum are among coins sitting in the MVRV Ratio’s “undervalued” zone.30-Day MVRV Is Negative For XRP & EthereumIn a new post on X, on-chain analytics firm Santiment has talked about where some notable cryptocurrencies like XRP and Bit…
+Antonio Sanso, cryptography researcher at the Ethereum Foundation, is confident the blockchain will be quantum secure long before a quantum attack is even possible.”We as the Ethereum Foundation (EF) and Ethereum community are working massively on this topic,” he told Cointelegraph.“The research pa…
 
-TradingView • 2d ago
+TradingView • 1d ago
+
+---
+
+**[Tom Lee Claims Parabolic Gold and Silver Move Is Masking Bullish Bitcoin and Ethereum Signals](https://www.ccn.com/news/crypto/tom-lee-claims-parabolic-gold-and-silver-move-is-masking-bullish-bitcoin-and-ethereum-signals/)**
+
+Gold and silver’s surge has overshadowed Bitcoin and Ethereum fundamentals, says Tom Lee, who forecasts an incoming crypto price rally.
+
+CCN.com • 2d ago
+
+---
+
+**[BitMine’s Tom Lee Says Gold Rally Has “Sucked the Oxygen Out of the Room” for Bitcoin and Ethereum](https://www.tipranks.com/news/bitmines-tom-lee-says-gold-rally-has-sucked-the-oxygen-out-of-the-room-for-bitcoin-and-ethereum)**
+
+Digital assets are currently playing second fiddle to record-breaking runs in gold (CM:XAUUSD) and silver (CM:XAGUSD), but BitMine Immersion Technologies ($BMNR) Ch...
+
+TipRanks • 2d ago
 
 ---
 
@@ -234,27 +236,7 @@ Cardano and Ethereum holders... GET READY!! ✓ Bitunix (no kyc, $10000 bonus): 
 
 📺 Altcoin Daily
 
-👁️ 30K • 👍 2K • 💬 282 • ⏱️ 8:35 • 12h ago
-
----
-
-**[Second Largest BTC ETF Bank Chooses Ethereum](https://www.youtube.com/watch?v=Jj5aHU1SY90)**
-
-Fidelity launches their own stablecoin on one of the B.E.S.T. The links below may include affiliate links, which means I may ...
-
-📺 Digital Asset News
-
-👁️ 6K • 👍 425 • 💬 26 • ⏱️ 14:06 • 15h ago
-
----
-
-**[&quot;My Latest 2026 ETH Prediction Will Come As a Huge Surprise&quot;: Tom Lee | ETH Price 2026](https://www.youtube.com/watch?v=1MrqcS0b34s)**
-
-My FREE Daily On-Chain Analysis & Crypto News In 5-Mins: https://www.cryptonutshell.com/subscribe You can NOW ...
-
-📺 Jamie Tree 
-
-👁️ 2K • 👍 56 • 💬 55 • ⏱️ 16:47 • 17h ago
+👁️ 34K • 👍 2K • 💬 300 • ⏱️ 8:35 • 13h ago
 
 ---
 
@@ -264,7 +246,47 @@ Crypto News: Fidelity Investments is launching its first stablecoin, the Fidelit
 
 📺 Thinking Crypto
 
-👁️ 3K • 👍 361 • 💬 46 • ⏱️ 16:32 • 7h ago
+👁️ 4K • 👍 460 • 💬 69 • ⏱️ 16:32 • 9h ago
+
+---
+
+**[&quot;My Latest 2026 ETH Prediction Will Come As a Huge Surprise&quot;: Tom Lee | ETH Price 2026](https://www.youtube.com/watch?v=1MrqcS0b34s)**
+
+My FREE Daily On-Chain Analysis & Crypto News In 5-Mins: https://www.cryptonutshell.com/subscribe You can NOW ...
+
+📺 Jamie Tree 
+
+👁️ 2K • 👍 60 • 💬 55 • ⏱️ 16:47 • 18h ago
+
+---
+
+**[Second Largest BTC ETF Bank Chooses Ethereum](https://www.youtube.com/watch?v=Jj5aHU1SY90)**
+
+Fidelity launches their own stablecoin on one of the B.E.S.T. The links below may include affiliate links, which means I may ...
+
+📺 Digital Asset News
+
+👁️ 6K • 👍 438 • 💬 27 • ⏱️ 14:06 • 16h ago
+
+---
+
+**[BITCOIN AND ETH: THE FED PAUSED RATE CUTS!!!! (no way...)](https://www.youtube.com/watch?v=JKph-gX1Uyk)**
+
+FREE TRAINING: https://www.bullmania.com EXCHANGES I USE (bybit, pionex): https://www.bullmania.com/partners My ...
+
+📺 Ivan on Tech
+
+👁️ 10K • 👍 817 • 💬 23 • ⏱️ 1:01:13 • 2h ago
+
+---
+
+**[BULLISH PATTERN FORMING!🔥 (Ethereum Price Prediction 2026)](https://www.youtube.com/watch?v=YZfA_spTIhM)**
+
+ETHEREUM ETH PRICE PREDICTION 2026 Join the Premium Signal Group for trade setups, mentorship & a community ...
+
+📺 Cilinix Crypto
+
+👁️ 168 • 👍 15 • 💬 3 • ⏱️ 4:38 • 3h ago
 
 ---
 
@@ -274,17 +296,7 @@ BITCOIN JUST REJECTED: THIS IS NEXT (Prepare Now)!!! - Bitcoin News Today, Ether
 
 📺 Crypto World
 
-👁️ 5K • 👍 220 • 💬 111 • ⏱️ 16:28 • 12h ago
-
----
-
-**[Tom Lee Just Said The UNTHINKABLE About Bitcoin &amp; Ethereum! [2026 New Prediction]](https://www.youtube.com/watch?v=OzflL_FbMXA)**
-
-Tom Lee Just Said The UNTHINKABLE About Bitcoin & Ethereum! [2026 New Prediction] My FREE Daily 5-Min Crypto ...
-
-📺 Crypto Nutshell
-
-👁️ 28K • 👍 743 • 💬 75 • ⏱️ 14:37 • 1d ago
+👁️ 5K • 👍 230 • 💬 113 • ⏱️ 16:28 • 13h ago
 
 ---
 
@@ -294,37 +306,27 @@ FREE Daily On-Chain Analysis & Crypto News In 5-Mins: http://bit.ly/TheCryptoNut
 
 📺 Library Of Wealth
 
-👁️ 14K • 👍 388 • 💬 343 • ⏱️ 16:28 • 1d ago
+👁️ 14K • 👍 389 • 💬 337 • ⏱️ 16:28 • 1d ago
 
 ---
 
-**[Ethereum Elliott Wave Update – Key Resistance Levels Ahead](https://www.youtube.com/watch?v=K86d3TAZnl0)**
+**[Tom Lee Just Said The UNTHINKABLE About Bitcoin &amp; Ethereum! [2026 New Prediction]](https://www.youtube.com/watch?v=OzflL_FbMXA)**
 
-This video provides a professional Elliott Wave and technical analysis of Ethereum (ETH), focusing on market structure, major ...
+Tom Lee Just Said The UNTHINKABLE About Bitcoin & Ethereum! [2026 New Prediction] My FREE Daily 5-Min Crypto ...
 
-📺 More Crypto Online
+📺 Crypto Nutshell
 
-👁️ 2K • 👍 116 • 💬 6 • ⏱️ 5:44 • 18h ago
-
----
-
-**[ETH Ethereum Price Prediction: 28th of January](https://www.youtube.com/watch?v=a1AxoF339wg)**
-
-Welcome to Czar Gets Crypto! Please note the following: Educational Purposes Only: All content on this channel is for ...
-
-📺 C-Zar Gets Crypto 
-
-👁️ 347 • 👍 21 • 💬 45 • ⏱️ 6:12 • 19h ago
+👁️ 28K • 👍 748 • 💬 72 • ⏱️ 14:37 • 1d ago
 
 ---
 
-**[BITCOIN AND ETH: DOLLAR MAY NOT SURVIVE THIS!!!!! (emergency)](https://www.youtube.com/watch?v=a9BqYWEBL7E)**
+**[$1 BILLION on XRPL… Ethereum Has $14B – The Gap Is Closing FAST! (XRP News)](https://www.youtube.com/watch?v=QScCzOZAvOM)**
 
-FREE TRAINING: https://www.bullmania.com EXCHANGES I USE (bybit, pionex): https://www.bullmania.com/partners My ...
+AMAZING XRPL XRP $1 BILLION Milestone (It's still not good enough!) XRPL hits another amazing milestone in RWA's and ...
 
-📺 Ivan on Tech
+📺 CryptoWendyO
 
-👁️ 25K • 👍 2K • 💬 199 • ⏱️ 47:08 • 1d ago
+👁️ 5K • 👍 287 • 💬 35 • ⏱️ 3:26 • 15h ago
 
 ---
 

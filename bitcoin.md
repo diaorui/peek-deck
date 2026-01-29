@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-01-29T11:53:21.082080+00:00'
+updated: '2026-01-29T13:00:25.294095+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
 - cryptocurrency
 - news
-- videos
 - social
+- videos
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** January 29, 2026 at 11:53 UTC  
+**Last Updated:** January 29, 2026 at 13:00 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,33 +38,33 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $87,938.59
+### $88,038.78
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** -2.3%  
-**7d:** -1.9%  
-**30d:** +0.2%  
-**90d:** -20.1%  
-**1y:** -16.1%  
+**24h:** -2.4%  
+**7d:** -1.7%  
+**30d:** +0.5%  
+**90d:** -19.9%  
+**1y:** -15.9%  
 
 ---
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1753.43B
+**Market Cap:** $1756.08B
 Rank #1
 
-**Circulating Supply:** 19,981,818 BTC
+**Circulating Supply:** 19,981,909 BTC
 95.2% of max
 
 **All-Time High:** $126,080.00
--30.4%
+-30.3%
 
 **All-Time Low:** $67.81
-+129290.9%
++129581.5%
 
 ---
 
@@ -81,23 +81,13 @@ Rank #1
 
 Crazy to think I owned 18.2 btc in early 2020 and sold before it reach 73 something I think it was. Now I live check to check. HODL your investments, don’t sell
 
-6h ago
+7h ago
 
 ---
 
-**[If you don’t understand this…](https://www.reddit.com/r/Bitcoin/comments/1qpvau2/if_you_dont_understand_this/)**
+**[😂](https://www.reddit.com/r/Bitcoin/comments/1qq31l2/_/)**
 
-What are you doing with your time. You’re saving pieces of paper with numbers on it. I expect everyone here to understand the problems BITCOIN solves We don’t want more dollars we want more money The US dollar is not money. If you’re building wealth. Follow me so we can connect. Great minds think alike and have studied Bitcoin.
-
-9h ago
-
----
-
-**[Cook has Bitcoin, argue with that 😏](https://www.reddit.com/r/Bitcoin/comments/1qppv20/cook_has_bitcoin_argue_with_that/)**
-
-Source: Blossom Social
-
-13h ago
+4h ago
 
 ---
 
@@ -105,45 +95,55 @@ Source: Blossom Social
 
 I gotta stop getting hammered before I trade, But its sooooo profitable.. .
 
-7h ago
+8h ago
 
 ---
 
-**[This is unbearable](https://www.reddit.com/r/Bitcoin/comments/1qphgpc/this_is_unbearable/)**
+**[If you don’t understand this…](https://www.reddit.com/r/Bitcoin/comments/1qpvau2/if_you_dont_understand_this/)**
 
-18h ago
+What are you doing with your time. You’re saving pieces of paper with numbers on it. I expect everyone here to understand the problems BITCOIN solves We don’t want more dollars we want more money The US dollar is not money. If you’re building wealth. Follow me so we can connect. Great minds think alike and have studied Bitcoin.
+
+11h ago
+
+---
+
+**[Cook has Bitcoin, argue with that 😏](https://www.reddit.com/r/Bitcoin/comments/1qppv20/cook_has_bitcoin_argue_with_that/)**
+
+Source: Blossom Social
+
+14h ago
 
 ---
 
 **[The single email that changed the course of history.](https://www.reddit.com/r/Bitcoin/comments/1qpqemf/the_single_email_that_changed_the_course_of/)**
 
-13h ago
+14h ago
+
+---
+
+**[This is unbearable](https://www.reddit.com/r/Bitcoin/comments/1qphgpc/this_is_unbearable/)**
+
+19h ago
 
 ---
 
 **[Hodling nonstop](https://www.reddit.com/r/Bitcoin/comments/1qpxk52/hodling_nonstop/)**
 
-8h ago
-
----
-
-**[😂](https://www.reddit.com/r/Bitcoin/comments/1qq31l2/_/)**
-
-3h ago
+9h ago
 
 ---
 
 **[They want all out retirement savings in this system](https://www.reddit.com/r/Bitcoin/comments/1qpzr12/they_want_all_out_retirement_savings_in_this/)**
 
-6h ago
+7h ago
 
 ---
 
-**[A significant portion of Bitcoin's gains come in just 10 trading days out of an entire calendar year](https://www.reddit.com/r/Bitcoin/comments/1qpktx5/a_significant_portion_of_bitcoins_gains_come_in/)**
+**[What are your thoughts about 0.1 BTC. Are this can be significant or meaningless amount in the future 10 years?](https://www.reddit.com/r/Bitcoin/comments/1qppg1v/what_are_your_thoughts_about_01_btc_are_this_can/)**
 
-Historically, the most significant portion of Bitcoin's gains come in just 10 trading days out of an entire calendar year. Most of the time in Bitcoin is spent going sideways or down. It will shake out all weak hands and tourists, and punish anyone with high time preference. Then it will reward the patience of those who spend their time studying and growing their conviction (and touching grass) during the boring or bear markets. Act accordingly
+Just searching users opinions.
 
-16h ago
+15h ago
 
 ---
 
@@ -151,27 +151,11 @@ Historically, the most significant portion of Bitcoin's gains come in just 10 tr
 
 ## Google News: "bitcoin"
 
-**[Bitcoin trader warns of downside as gold rally continues to pull focus from BTC](https://www.coindesk.com/markets/2026/01/29/bitcoin-trader-warns-of-downside-as-gold-rally-continues-to-pull-focus-from-btc)**
+**[First gold and silver, now oil is starting to rally and that's bad news for bitcoin](https://www.coindesk.com/markets/2026/01/29/first-gold-and-silver-now-oil-s-starting-to-rally-and-that-s-bad-news-for-bitcoin)**
 
-Crypto prices stabilized after an early-week dip, but bitcoin continued to trail gold and silver as macro trades dominated after the Fed’s policy hold.
+Higher oil prices could add to inflation, making it harder for the Fed to cut rates rapidly.
 
-CoinDesk • 6h ago
-
----
-
-**[Bitcoin price news: BTC stuck at $89,000 as gold surges to fresh record](https://www.coindesk.com/markets/2026/01/28/bitcoin-remains-subdued-as-gold-races-to-new-record-above-usd5-400-following-jerome-powell-remarks)**
-
-Gold fans rushed in to buy as the Fed chair said he took no macro signal from the raging bull market in precious metals.
-
-CoinDesk • 14h ago
-
----
-
-**[Gold Adds Bitcoin’s Entire Market Cap in a Day — Why Is BTC Falling Behind?](https://finance.yahoo.com/news/gold-adds-bitcoin-entire-market-101715089.html)**
-
-Gold surged to new all-time highs above $5,500. Bitcoin has dropped sharply below $90,000, erasing 2026 gans. Investors favor physical gold for stability while selling ...
-
-Yahoo Finance • 1h ago
+CoinDesk • 7h ago
 
 ---
 
@@ -179,7 +163,37 @@ Yahoo Finance • 1h ago
 
 A “crisis of confidence” in the U.S. dollar has been predicted to see bitcoin catch up with gold...
 
-Forbes • 23h ago
+Forbes • 1d ago
+
+---
+
+**[Bitcoin Retreats as Hawkish Fed and Outflows Pressure Market: Analyst](https://finance.yahoo.com/news/bitcoin-retreats-hawkish-fed-outflows-111111518.html)**
+
+Bitcoin has slipped back below the $89,000 level after failing to hold onto a brief recovery, as tighter financial conditions and geopolitical stress continue to weigh on risk assets. Key Takeaways: Bitcoin has slipped below $89,000 as a hawkish-leaning Federal Reserve and Middle East tensions sap risk appetite. Trader conviction ...
+
+Yahoo Finance • 1h ago
+
+---
+
+**[Bitcoin Falls below $88,000. Why Cryptos Can’t Keep Up With Gold.](https://www.barrons.com/articles/bitcoin-price-xrp-ether-cryptos-630f4d22?gaa_at=eafs&gaa_n=AWEtsqeh9sarwWf39qt_o-0ZbQOmZ1OSqAEHLBr2S2u1BbqVyQkG9T8cIxnh&gaa_ts=697b5d51&gaa_sig=5dmhC88ojIFL3zM0YsbuL_XTedXXgXrTNCdHjHlpYCBQCb9WXyf73USPeNLirTYuigvtbkRoL-q94_KFejD4EA%3D%3D)**
+
+Barron's • 2h ago
+
+---
+
+**[Sygnum’s new bitcoin fund pulls in $65 million from investors looking for steady yield](https://www.coindesk.com/business/2026/01/29/sygnum-bank-and-starboard-raise-over-750-btc-for-market-neutral-bitcoin-yield-fund)**
+
+The fund delivered an 8.9% annualized net return in its first quarter, targeting 8-10% annual returns through systematic arbitrage strategies.
+
+CoinDesk • 30m ago
+
+---
+
+**[Is Bitcoin a Buy Right Now?](https://www.fool.com/investing/2026/01/28/is-bitcoin-a-buy-right-now/)**
+
+Bitcoin is the world's largest cryptocurrency by market cap.
+
+The Motley Fool • 1d ago
 
 ---
 
@@ -187,27 +201,7 @@ Forbes • 23h ago
 
 The government seems to be amassing more Bitcoin. But little work seems to be happening to enact the terms of the executive order Trump signed to start the 'strategic reserve.'
 
-Fast Company • 1h ago
-
----
-
-**[Bitcoin Falls below $88,000. Why Cryptos Can’t Keep Up With Gold.](https://www.barrons.com/articles/bitcoin-price-xrp-ether-cryptos-630f4d22?gaa_at=eafs&gaa_n=AWEtsqdHHzrjjqESQ1PP-sZvyHd-2PnhBD4kx0PilhZ30UufHmjap8oioGdB&gaa_ts=697b4261&gaa_sig=ez8X01cWCw3zSSYJuR7E2ZkacSZwaUiVcETx71_KoUZyqMot9MC7ReM14a-fSzW7BUcMj7d_vE90oS7ISc3eig%3D%3D)**
-
-Barron's • 54m ago
-
----
-
-**[Got $500? 2 Cryptocurrencies to Buy and Hold for Decades.](https://www.fool.com/investing/2026/01/29/got-500-2-cryptocurrencies-to-buy-and-hold-for-dec/)**
-
-Bitcoin and XRP look like they are built to stand the test of time.
-
-The Motley Fool • 2h ago
-
----
-
-**[Coinbase's Chart Flashes Death Cross As Bitcoin Falls Amid Crypto Winter Fears](https://www.investors.com/research/coinbase-coin-stock-bitcoin-january-2026/)**
-
-Investor's Business Daily • 1d ago
+Fast Company • 2h ago
 
 ---
 
@@ -215,15 +209,23 @@ Investor's Business Daily • 1d ago
 
 Since 2022, Grand Forks residents have lost $466,803 to bitcoin cryptocurrency, according to GFPD Det. Todd Riedinger. The scams are difficult to trace and lost money usually can't be recovered.
 
-grandforksherald.com • 22h ago
+grandforksherald.com • 23h ago
 
 ---
 
-**[South Dakota lawmaker revives bitcoin reserve push with new bill](https://www.theblock.co/post/387341/south-dakota-bitcoin-reserve-bill)**
+**[Bitcoin January 28 daily chart alert - Bulls work to stabilize price](https://www.kitco.com/news/article/2026-01-28/bitcoin-january-28-daily-chart-alert-bulls-work-stabilize-price)**
 
-The latest proposal closely mirrors House Bill 1202, which was introduced during the 2025 legislative session.
+The Kitco News Team brings you the latest news, videos, analysis and opinions regarding Precious Metals, Crypto, Mining, World Markets and Global Economy.
 
-The Block • 1d ago
+KITCO • 23h ago
+
+---
+
+**[Bitcoin vs. gold: Key differences that could position BTC for a big rally](https://www.tradingview.com/news/cointelegraph:93fe3dba8094b:0-bitcoin-vs-gold-key-differences-that-could-position-btc-for-a-big-rally/)**
+
+Bitcoin BITSTAMP:BTCUSD has vastly underperformed gold (XAU) in the past year, dropping by 13.25% compared with the precious metal’s almost 100% rally. Can BTC catch up to gold’s gains?Key takeaways: Bitcoin supply does not depend on demand Bitcoin’s issuance does not respond to higher prices like…
+
+TradingView • 47m ago
 
 ---
 
@@ -235,7 +237,7 @@ The Block • 1d ago
 
 Billionaire fugitive Roger Ver was facing federal criminal charges until he sought the services of a select club of President Donald Trump’s former personal attorneys who have easy access to top Justice Department appointees.
 
-⬆️ 17 • 💬 0 • 2d ago • [ProPublica](https://www.propublica.org/article/bitcoin-jesus-roger-ver-tax-evasion-friends-of-trump)
+⬆️ 17 • 💬 0 • 3d ago • [ProPublica](https://www.propublica.org/article/bitcoin-jesus-roger-ver-tax-evasion-friends-of-trump)
 
 ---
 
@@ -282,25 +284,7 @@ Transform HN comment threads into executive intelligence. AI analyzes discussion
 
 Reporting on Fintech, Crypto, and Blockchain Activity in Africa
 
-⬆️ 1 • 💬 0 • 17h ago • [BitKE](https://bitcoinke.io/2026/01/ozow-announces-payments-solution-by-moneybadger/)
-
----
-
-**[Tell HN: I cut Claude API costs from $70/month to pennies](https://news.ycombinator.com/item?id=46760285)**
-
-⬆️ 40 • 💬 25 • 3d ago
-
----
-
-**[Show HN: We built a type-safe Python ORM for RedisGraph/FalkorDB](https://news.ycombinator.com/item?id=46796602)**
-
-⬆️ 5 • 💬 5 • 20h ago
-
----
-
-**[Show HN: I could build the translation tool I've wanted for 10 years](https://news.ycombinator.com/item?id=46786231)**
-
-⬆️ 1 • 💬 1 • 1d ago
+⬆️ 1 • 💬 0 • 18h ago • [BitKE](https://bitcoinke.io/2026/01/ozow-announces-payments-solution-by-moneybadger/)
 
 ---
 
@@ -308,13 +292,23 @@ Reporting on Fintech, Crypto, and Blockchain Activity in Africa
 
 ## YouTube Videos: "bitcoin"
 
+**[🚨 BTC &amp; ETH: SELL ALL BITCOIN AND QUIT CRYPTO!!!!!!!!!](https://www.youtube.com/watch?v=Js9TFiiwSBk)**
+
+The situation is getting worse and worse for crypto. Here are facts and my take on whether its time to sell all bitcoin and just quit!
+
+📺 Thomas Kralow
+
+👁️ 6K • 👍 2K • 💬 56 • ⏱️ 13:43 • 2h ago
+
+---
+
 **[The Dollar Just COLLAPSED | Is Bitcoin About to Go NUCLEAR?](https://www.youtube.com/watch?v=y6XlWehr0Cg)**
 
 This is not Bitcoin going up. This is the dollar breaking down in real time. A deliberately weak dollar is inflating asset prices, ...
 
 📺 Simply Bitcoin
 
-👁️ 25K • 👍 2K • 💬 315 • ⏱️ 15:53 • 12h ago
+👁️ 28K • 👍 2K • 💬 341 • ⏱️ 15:53 • 13h ago
 
 ---
 
@@ -324,67 +318,17 @@ Bob Murphy is a Senior Fellow at the Mises Institute and Chief Economist at Infi
 
 📺 Anthony Pompliano
 
-👁️ 18K • 👍 672 • ⏱️ 30:04 • 13h ago
+👁️ 20K • 👍 760 • ⏱️ 30:04 • 15h ago
 
 ---
 
-**[🚨 BITCOIN WARNING: The Head &amp; Shoulders Is Real. Next Stop $67,000?](https://www.youtube.com/watch?v=odegrpckrpU)**
+**[The Biggest Gold vs Bitcoin News Of The Year](https://www.youtube.com/watch?v=ajmW-g3OdH8)**
 
-Bitcoin is at a massive crossroads, and the charts are telling a different story than the headlines. In today's deep dive, Chief Market ...
+LIMITED TIME: ✓ Bitunix (no kyc, $700 bonus): https://www.bitunix.com/register?vipCode=AltcoinDaily 50% deposit bonus on ...
 
-📺 Gareth Soloway
+📺 Altcoin Daily
 
-👁️ 43K • 👍 3K • 💬 675 • ⏱️ 9:04 • 15h ago
-
----
-
-**[&#39;WAR ON CRYPTO&#39;: Washington pushes CLARITY Act forwad despite red flags](https://www.youtube.com/watch?v=9n02NHCblE4)**
-
-Unicoin founder and chief strategy officer Silvina Moschini discusses crypto legislation as the CLARITY Act heads to Capitol Hill ...
-
-📺 Fox Business Clips
-
-👁️ 131K • 👍 2K • 💬 846 • ⏱️ 7:19 • 20h ago
-
----
-
-**[Raoul Pal: This Is Why Crypto Hasn’t Moved Yet (IMPORTANT UPDATE)](https://www.youtube.com/watch?v=FbzFUVhSvpk)**
-
-Take Control of Your Retirement — Grow Crypto & Gold Tax-Advantaged. https://www.itrustcapital.com/go/savvy-finance If you're ...
-
-📺 Savvy Finance
-
-👁️ 4K • 👍 226 • 💬 13 • ⏱️ 21:44 • 10h ago
-
----
-
-**[Bitcoin About To Explode If The Fed Does This Today...](https://www.youtube.com/watch?v=l30sNrH4pvs)**
-
-Today, let's examine Bitcoin's charts and metrics, as well as the latest Macro and Crypto news. Additionally, a look at the latest ...
-
-📺 CryptosRUs
-
-👁️ 34K • 👍 2K • 💬 261 • ⏱️ 38:00 • 19h ago
-
----
-
-**[Silver Just Sent a Warning Signal to the Entire Financial System - Got Bitcoin?](https://www.youtube.com/watch?v=5WJyycfYjZs)**
-
-Silver has exploded, gold is ripping, and Bitcoin looks left behind — but history says this is exactly how the cycle works.
-
-📺 Swan Bitcoin
-
-👁️ 76K • 👍 3K • 💬 485 • ⏱️ 17:47 • 1d ago
-
----
-
-**[0.21 Bitcoin: The New “Rich Line”](https://www.youtube.com/watch?v=bbJdUcOkUDU)**
-
-I want to be part of the Bitcoin Program → https://bitcoinolivervelez.com/yt-eng.
-
-📺 Oliver Velez Trading
-
-👁️ 3K • 👍 169 • 💬 43 • ⏱️ 2:09:13 • 12h ago
+👁️ 50K • 👍 3K • 💬 177 • ⏱️ 8:22 • 1d ago
 
 ---
 
@@ -394,7 +338,27 @@ The Dollar is breaking and the "Sell America" trade is officially on. While the 
 
 📺 Crypto Banter
 
-👁️ 35K • 👍 2K • 💬 60 • ⏱️ 26:12 • 20h ago
+👁️ 35K • 👍 2K • 💬 62 • ⏱️ 26:12 • 21h ago
+
+---
+
+**[Bitcoin About To Explode If The Fed Does This Today...](https://www.youtube.com/watch?v=l30sNrH4pvs)**
+
+Today, let's examine Bitcoin's charts and metrics, as well as the latest Macro and Crypto news. Additionally, a look at the latest ...
+
+📺 CryptosRUs
+
+👁️ 35K • 👍 2K • 💬 258 • ⏱️ 38:00 • 20h ago
+
+---
+
+**[Silver Just Sent a Warning Signal to the Entire Financial System - Got Bitcoin?](https://www.youtube.com/watch?v=5WJyycfYjZs)**
+
+Silver has exploded, gold is ripping, and Bitcoin looks left behind — but history says this is exactly how the cycle works.
+
+📺 Swan Bitcoin
+
+👁️ 77K • 👍 3K • 💬 485 • ⏱️ 17:47 • 1d ago
 
 ---
 
@@ -404,7 +368,27 @@ In this solo episode, Anthony Pompliano explains why Bitcoin is lagging while go
 
 📺 Anthony Pompliano
 
-👁️ 102K • 👍 3K • 💬 159 • ⏱️ 17:45 • 2d ago
+👁️ 104K • 👍 3K • 💬 159 • ⏱️ 17:45 • 2d ago
+
+---
+
+**[&#39;WAR ON CRYPTO&#39;: Washington pushes CLARITY Act forwad despite red flags](https://www.youtube.com/watch?v=9n02NHCblE4)**
+
+Unicoin founder and chief strategy officer Silvina Moschini discusses crypto legislation as the CLARITY Act heads to Capitol Hill ...
+
+📺 Fox Business Clips
+
+👁️ 136K • 👍 3K • 💬 865 • ⏱️ 7:19 • 22h ago
+
+---
+
+**[Gold Always Goes First, Bitcoin Always Goes Harder: The Rotation Explained!](https://www.youtube.com/watch?v=LrS4_HPNvb0)**
+
+Gold is screaming higher. Silver is panicking. Bitcoin looks stuck—and that's exactly how capital rotations begin. In this episode ...
+
+📺 Swan Bitcoin
+
+👁️ 21K • 👍 936 • 💬 129 • ⏱️ 15:55 • 22h ago
 
 ---
 
