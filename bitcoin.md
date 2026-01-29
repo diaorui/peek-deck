@@ -3,13 +3,13 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-01-29T19:51:25.096423+00:00'
+updated: '2026-01-29T20:32:23.258466+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- social
 - cryptocurrency
+- social
 - news
 - videos
 ---
@@ -18,7 +18,7 @@ data_types:
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** January 29, 2026 at 19:51 UTC  
+**Last Updated:** January 29, 2026 at 20:32 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,33 +38,33 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $83,591.47
+### $84,041.51
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** -6.3%  
-**7d:** -6.8%  
-**30d:** -4.8%  
-**90d:** -24.1%  
-**1y:** -20.3%  
+**24h:** -6.1%  
+**7d:** -6.3%  
+**30d:** -4.3%  
+**90d:** -23.7%  
+**1y:** -19.9%  
 
 ---
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1680.18B
+**Market Cap:** $1678.70B
 Rank #1
 
-**Circulating Supply:** 19,981,990 BTC
+**Circulating Supply:** 19,982,006 BTC
 95.2% of max
 
 **All-Time High:** $126,080.00
--33.2%
+-33.5%
 
 **All-Time Low:** $67.81
-+124033.6%
++123591.2%
 
 ---
 
@@ -77,15 +77,23 @@ Rank #1
 
 ## Reddit: r/Bitcoin
 
-**["Should we have a 2% allocation? 5% allocation? If everybody adopted that conversation...it would be $500k, $600k, $700k per bitcoin."](https://www.reddit.com/r/Bitcoin/comments/1qqcyfl/should_we_have_a_2_allocation_5_allocation_if/)**
-
-3h ago
-
----
-
 **[Do you see the selloff?](https://www.reddit.com/r/Bitcoin/comments/1qqff0n/do_you_see_the_selloff/)**
 
 2h ago
+
+---
+
+**["Should we have a 2% allocation? 5% allocation? If everybody adopted that conversation...it would be $500k, $600k, $700k per bitcoin."](https://www.reddit.com/r/Bitcoin/comments/1qqcyfl/should_we_have_a_2_allocation_5_allocation_if/)**
+
+4h ago
+
+---
+
+**[I didn’t here no bell](https://www.reddit.com/r/Bitcoin/comments/1qqhtiq/i_didnt_here_no_bell/)**
+
+Gets punched to 35k
+
+1h ago
 
 ---
 
@@ -93,13 +101,15 @@ Rank #1
 
 Buy Now Thank Me later
 
-1h ago
+2h ago
 
 ---
 
-**[😂](https://www.reddit.com/r/Bitcoin/comments/1qq31l2/_/)**
+**[I used to HODL 10 BTC](https://www.reddit.com/r/Bitcoin/comments/1qqhfad/i_used_to_hodl_10_btc/)**
 
-11h ago
+I wasn’t smart enough to hold onto them :(
+
+1h ago
 
 ---
 
@@ -107,7 +117,13 @@ Buy Now Thank Me later
 
 Bitcoin CEO furious about market manipulation: “we must stop market manipulation”
 
-1h ago
+2h ago
+
+---
+
+**[😂](https://www.reddit.com/r/Bitcoin/comments/1qq31l2/_/)**
+
+12h ago
 
 ---
 
@@ -123,29 +139,15 @@ Crazy to think I owned 18.2 btc in early 2020 and sold before it reach 73 someth
 
 I gotta stop getting hammered before I trade, But its sooooo profitable.. .
 
-15h ago
+16h ago
 
 ---
 
-**[Just my luck](https://www.reddit.com/r/Bitcoin/comments/1qqgy73/just_my_luck/)**
+**[Just so you know companies aren’t selling their bitcoin](https://www.reddit.com/r/Bitcoin/comments/1qqhayd/just_so_you_know_companies_arent_selling_their/)**
 
-Home come every time I buy a dip…it dips even further an hour later? I’ve been buying today as it drops. Then after I buy, It drops even further. Just really ranting. Not expecting a rational answer.
+They are aggressively continuing to buy. We are however seeing outflows from bitcoin ETFs
 
 1h ago
-
----
-
-**[BTC be like](https://www.reddit.com/r/Bitcoin/comments/1qqho76/btc_be_like/)**
-
-49m ago
-
----
-
-**[Be honest… how far would you go to HOLD? 🤣](https://www.reddit.com/r/Bitcoin/comments/1qqcugl/be_honest_how_far_would_you_go_to_hold/)**
-
-LOLLLL just saw this post on Blossom Social
-
-3h ago
 
 ---
 
@@ -157,39 +159,63 @@ LOLLLL just saw this post on Blossom Social
 
 How low can Bitcoin go?
 
-Mashable • 1h ago
+Mashable • 2h ago
 
 ---
 
-**[Coinbase (COIN), Circle (CRCL) and Bullish (BLSH) among crypto names sharply lower as BTC tumbles](https://www.coindesk.com/markets/2026/01/29/crypto-linked-stocks-continue-2026-plunge-but-bitcoin-miners-with-ai-pivots-outperform)**
+**[Why is Dogecoin down: DOGE slumps 7% as bitcoin loses ground in risk-off trade](https://www.coindesk.com/markets/2026/01/29/dogecoin-slumps-7-as-bitcoin-risk-off-rattles-memecoin-bets)**
 
-Bellwether crypto exchange Coinbase was lower for an 8th straight session on Thursday to its weakest level since May.
+The token broke below key support at $0.1218 on heavy volume, turning that level into near-term resistance even after a brief bounce from around $0.115.
 
-CoinDesk • 53m ago
-
----
-
-**[Bitcoin price dips fast as crypto market joins Big Tech in market dive](https://www.dlnews.com/articles/markets/bitcoin-plunges-with-stocks-on-tech-earnings/)**
-
-Bitcoin was largely unmoved this week — until Thursday.  The biggest cryptocurrency brought down other major digital coins.  Crypto sold off with stocks over AI spending fears.
-
-dlnews.com • 59m ago
+CoinDesk • 3h ago
 
 ---
 
-**[Worse Than ‘2008 Financial Crisis’—Gold Surge Triggers Serious U.S. Dollar Warning As Bitcoin Price Suddenly Drops](https://www.forbes.com/sites/digital-assets/2026/01/29/its-breaking-sudden-us-dollar-crisis-warning-predicted-to-spark-huge-bitcoin-price-boom-to-rival-gold/)**
+**[Why Bitcoin’s Pullback May Be Setting Up A Rotation From Gold](https://www.forbes.com/sites/aliceliu/2026/01/29/why-bitcoins-pullback-may-be-setting-up-a-rotation-from-gold/)**
 
-A “crisis of confidence” in the U.S. dollar has been predicted to see bitcoin catch up with gold...
+Is Bitcoin near a bottom while gold peaks? Explore crypto liquidations, market cycles, and why investors are eyeing a BTC-long, gold-short rotation
 
-Forbes • 4h ago
+Forbes • 13m ago
 
 ---
 
-**[Where is Donald Trump’s strategic Bitcoin reserve?](https://www.fastcompany.com/91482053/where-is-donald-trumps-strategic-bitcoin-reserve)**
+**[Bitcoin’s Historical Bottom Indicator Points to $62K – Could BTC Fall That Low?](https://finance.yahoo.com/news/bitcoin-historical-bottom-indicator-points-132855234.html)**
 
-The government seems to be amassing more Bitcoin. But little work seems to be happening to enact the terms of the executive order Trump signed to start the 'strategic reserve.'
+Bitcoin is approaching a historically important support zone near $62,000, as a long-tracked reserve-cost indicator tied to Binance signals that BTC could see more pain ahead.The $62k reserve cost level has not been tested since the approval of U.S. spot Bitcoin ETFs in January 2024, raising fresh questions over whether ...
 
-Fast Company • 9h ago
+Yahoo Finance • 7h ago
+
+---
+
+**[Veteran analyst says Bitcoin 'spanked' gold](https://www.thestreet.com/crypto/markets/veteran-analyst-says-bitcoin-spanked-gold)**
+
+Bloomberg's Eric Balchunas argues Bitcoin has beaten gold if we look at the bigger picture.
+
+thestreet.com • 6h ago
+
+---
+
+**[Myriad Moves: Bitcoin Is Falling—Will It Dump to $69K or Rebound to $100K?](https://decrypt.co/356339/myriad-moves-bitcoin-falling-dump-69k-rebound-100k)**
+
+Top markets on Myriad this week include predictions on the next stops for Bitcoin and Solana, and President Donald Trump's approval rating.
+
+Decrypt • 2h ago
+
+---
+
+**[The Crypto Crystal Ball: The Forces Behind Bitcoin’s Price](https://www.jsonline.com/story/special/contributor-content/2026/01/29/the-crypto-crystal-ball-the-forces-behind-bitcoins-price/88416757007/)**
+
+To really get a sense of Bitcoin's long-term value and its daily ups and downs, you need to look at a mix of things.
+
+jsonline.com • 2h ago
+
+---
+
+**[Is Bitcoin a Buy Right Now?](https://www.fool.com/investing/2026/01/28/is-bitcoin-a-buy-right-now/)**
+
+Bitcoin is the world's largest cryptocurrency by market cap.
+
+The Motley Fool • 1d ago
 
 ---
 
@@ -201,33 +227,11 @@ The Block • 1d ago
 
 ---
 
-**[Grand Forks detective says if someone online asks for bitcoin or gift cards, 'you're being scammed'](https://www.grandforksherald.com/news/local/grand-forks-detective-says-if-someone-online-asks-for-bitcoin-or-gift-cards-youre-being-scammed)**
+**[Where is Donald Trump’s strategic Bitcoin reserve?](https://www.fastcompany.com/91482053/where-is-donald-trumps-strategic-bitcoin-reserve)**
 
-Since 2022, Grand Forks residents have lost $466,803 to bitcoin cryptocurrency, according to GFPD Det. Todd Riedinger. The scams are difficult to trace and lost money usually can't be recovered.
+The government seems to be amassing more Bitcoin. But little work seems to be happening to enact the terms of the executive order Trump signed to start the 'strategic reserve.'
 
-grandforksherald.com • 1d ago
-
----
-
-**[Is Gold The New Bitcoin?](https://www.yardeniquicktakes.com/is-gold-the-new-bitcoin/)**
-
-Proponents of bitcoin have been calling it “digital gold.” Both the cryptocurrency and the precious metal are impossible to value because they don't pay any interest or dividends. Bitcoin is digital, making it potentially vulnerable someday to hacking by quantum-computing algorithms, while gold needs to be stored in a vault.
-
-Yardeni QuickTakes • 1d ago
-
----
-
-**[Bitcoin Miners Power Down US Operations in Wake of Winter Storm](https://www.bloomberg.com/news/articles/2026-01-26/bitcoin-miners-power-down-us-operations-in-wake-of-winter-storm)**
-
-Bloomberg.com • 2d ago
-
----
-
-**[Bitcoin falls back below $90,000 after Fed holds interest rates steady](https://www.investing.com/news/cryptocurrency-news/bitcoin-price-today-rises-above-89k-but-stays-rangebound-ahead-of-fed-verdict-4469236)**
-
-Bitcoin falls back below $90,000 after Fed holds interest rates steady
-
-Investing.com • 23h ago
+Fast Company • 10h ago
 
 ---
 
@@ -253,7 +257,7 @@ A list of known attacks against Bitcoin / crypto asset owning entities that occu
 
 **[Single Bitcoin entity keeping BTC price suppressed below $90K](https://news.ycombinator.com/item?id=46812350)**
 
-⬆️ 1 • 💬 0 • 3h ago • [msn.com](https://www.msn.com/en-us/money/markets/single-bitcoin-entity-keeping-btc-price-suppressed-below-90k-analysis/ar-AA1VfVZb)
+⬆️ 1 • 💬 0 • 4h ago • [msn.com](https://www.msn.com/en-us/money/markets/single-bitcoin-entity-keeping-btc-price-suppressed-below-90k-analysis/ar-AA1VfVZb)
 
 ---
 
@@ -287,6 +291,26 @@ Reporting on Fintech, Crypto, and Blockchain Activity in Africa
 
 ---
 
+**[Tell HN: I cut Claude API costs from $70/month to pennies](https://news.ycombinator.com/item?id=46760285)**
+
+⬆️ 40 • 💬 25 • 3d ago
+
+---
+
+**[Show HN: We built a type-safe Python ORM for RedisGraph/FalkorDB](https://news.ycombinator.com/item?id=46796602)**
+
+⬆️ 5 • 💬 5 • 1d ago
+
+---
+
+**[Are AI cryptocurrencies a good investment in 2026?](https://news.ycombinator.com/item?id=46815358)**
+
+Ever since OpenAI launched their first large language model for public use back in November 2022, artificial intelligence (AI) is being touted as a major - if
+
+⬆️ 1 • 💬 0 • 58m ago • [Altcoin Desk](https://altcoindesk.com/perspectives/learn/are-ai-cryptocurrencies-a-good-investment/article-22644/)
+
+---
+
 ---
 
 ## YouTube Videos: "bitcoin"
@@ -297,27 +321,7 @@ The situation is getting worse and worse for crypto. Here are facts and my take 
 
 📺 Thomas Kralow
 
-👁️ 31K • 👍 3K • 💬 140 • ⏱️ 13:43 • 8h ago
-
----
-
-**[Bitcoin Investors...Now There is This To Worry About..](https://www.youtube.com/watch?v=8vMZYK0P3t0)**
-
-Check out ClashPicks: https://www.clashpicks.com/ **Exchange Partners** Bitunix Exchange ▻ *$100000 Deposit Bonus* ...
-
-📺 CryptosRUs
-
-👁️ 12K • 👍 980 • 💬 283 • ⏱️ 7:09 • 5h ago
-
----
-
-**[CRYPTO MARKET IS PLUNGING! IS CRYPTO CRASHING?! BREAKING CRYPTO NEWS TODAY!](https://www.youtube.com/watch?v=fYrFIM1z9Aw)**
-
-CRYPTO MARKET IS PLUNGING! IS CRYPTO CRASHING?! BREAKING CRYPTO NEWS TODAY! ⭐️ AUSTIN'S STOCK ...
-
-📺 Austin Hilton
-
-👁️ 3K • 👍 338 • 💬 39 • ⏱️ 7:53 • 3h ago
+👁️ 40K • 👍 3K • 💬 164 • ⏱️ 13:43 • 9h ago
 
 ---
 
@@ -327,7 +331,47 @@ Bitcoin #Crypto #Finance Your edge starts here — join DataDash Pro for Discord
 
 📺 DataDash
 
-👁️ 1K • 👍 125 • 💬 1 • ⏱️ 12:08 • 3h ago
+👁️ 2K • 👍 181 • 💬 8 • ⏱️ 12:08 • 4h ago
+
+---
+
+**[Crypto Crashes After CLARITY Vote Again!🔥](https://www.youtube.com/watch?v=C5lNcnvjrZs)**
+
+After a brief series of amendments were rejected, the U.S. Senate Agriculture Committee voted to advance its version of the crypto ...
+
+📺 Paul Barron Network
+
+👁️ 13K • 👍 3K • 💬 326 • ⏱️ 16:34 • 2h ago
+
+---
+
+**[CRYPTO MARKET IS PLUNGING! IS CRYPTO CRASHING?! BREAKING CRYPTO NEWS TODAY!](https://www.youtube.com/watch?v=fYrFIM1z9Aw)**
+
+CRYPTO MARKET IS PLUNGING! IS CRYPTO CRASHING?! BREAKING CRYPTO NEWS TODAY! ⭐️ AUSTIN'S STOCK ...
+
+📺 Austin Hilton
+
+👁️ 9K • 👍 508 • 💬 86 • ⏱️ 7:53 • 4h ago
+
+---
+
+**[Bitcoin Crashing RIGHT NOW... Here&#39;s WHAT IS HAPPENING](https://www.youtube.com/watch?v=grDAKDO71jo)**
+
+TRADE ON BITGET WITH ME! Sign up here ▻ https://share.bitget.com/u/UHGTDYS3 TRADE ON BTCC WITH ME! 10% ...
+
+📺 FireHustle
+
+👁️ 2K • 👍 172 • 💬 38 • ⏱️ 12:59 • 3h ago
+
+---
+
+**[Bitcoin Investors...Now There is This To Worry About..](https://www.youtube.com/watch?v=8vMZYK0P3t0)**
+
+Check out ClashPicks: https://www.clashpicks.com/ **Exchange Partners** Bitunix Exchange ▻ *$100000 Deposit Bonus* ...
+
+📺 CryptosRUs
+
+👁️ 22K • 👍 1K • 💬 279 • ⏱️ 7:09 • 5h ago
 
 ---
 
@@ -337,17 +381,7 @@ BlackRock is doubling down on Bitcoin, and the timing couldn't be more critical.
 
 📺 Discover Crypto
 
-👁️ 6K • 👍 368 • 💬 93 • ⏱️ 56:43 • 3h ago
-
----
-
-**[XRP WATCH! Clarity ACT Crypto Market Structure LIVE!](https://www.youtube.com/watch?v=ERqB6qaJ_YY)**
-
-WIN 2000 XRP Start NOW: https://www.btcc.com/market-promotion/bonus2/kol?name=Oscar&#signUp join me on BTCC and ...
-
-📺 Oscar Ramos
-
-👁️ 7K • 👍 778 • 23h ago
+👁️ 9K • 👍 429 • 💬 69 • ⏱️ 56:43 • 4h ago
 
 ---
 
@@ -357,17 +391,7 @@ This is not Bitcoin going up. This is the dollar breaking down in real time. A d
 
 📺 Simply Bitcoin
 
-👁️ 32K • 👍 3K • 💬 375 • ⏱️ 15:53 • 20h ago
-
----
-
-**[Raoul Pal: This Is Why Crypto Hasn’t Moved Yet (IMPORTANT UPDATE)](https://www.youtube.com/watch?v=FbzFUVhSvpk)**
-
-Take Control of Your Retirement — Grow Crypto & Gold Tax-Advantaged. https://www.itrustcapital.com/go/savvy-finance If you're ...
-
-📺 Savvy Finance
-
-👁️ 8K • 👍 330 • 💬 21 • ⏱️ 21:44 • 18h ago
+👁️ 33K • 👍 3K • 💬 381 • ⏱️ 15:53 • 20h ago
 
 ---
 
@@ -377,17 +401,17 @@ Bob Murphy is a Senior Fellow at the Mises Institute and Chief Economist at Infi
 
 📺 Anthony Pompliano
 
-👁️ 24K • 👍 879 • ⏱️ 30:04 • 21h ago
+👁️ 26K • 👍 901 • ⏱️ 30:04 • 22h ago
 
 ---
 
-**[BITCOIN AND ETH: EMERGENCY MARKET COLLASE!!!!! 🚨🚨🚨](https://www.youtube.com/watch?v=oKJRFtji4uE)**
+**[is bitcoin cooked?](https://www.youtube.com/watch?v=TIy8crHIhmM)**
 
-FREE TRAINING: https://www.bullmania.com EXCHANGES I USE (bybit, pionex): https://www.bullmania.com/partners My ...
+Up to *$30000* Welcome Bonus]◅ ✓ *NO RESTRICTIONS* IF YOU *Use THIS Link* Phemex Exchange ...
 
-📺 Ivan on Tech
+📺 Tyler S
 
-👁️ 6K • 👍 613 • 💬 24 • ⏱️ 33:41 • 2h ago
+👁️ 4K • 👍 429 • 💬 160 • ⏱️ 8:01 • 2h ago
 
 ---
 

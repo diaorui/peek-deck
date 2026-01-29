@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-01-29T19:51:25.088966+00:00'
+updated: '2026-01-29T20:32:23.250127+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
 - social
-- videos
-- news
 - repositories
+- news
+- videos
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** January 29, 2026 at 19:51 UTC  
+**Last Updated:** January 29, 2026 at 20:32 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -45,11 +45,17 @@ Hey everyone. I Just published a breakdown on Moltbot: the self-hosted, open-sou
 
 ---
 
+**[Amazon Found ‘High Volume’ Of Child Sex Abuse Material in AI Training Data. The tech giant reported hundreds of thousands of cases of suspected child sexual abuse material, but won’t say where it came from](https://www.reddit.com/r/artificial/comments/1qqfl2x/amazon_found_high_volume_of_child_sex_abuse/)**
+
+🔗 [bloomberg.com](https://www.bloomberg.com/news/features/2026-01-29/amazon-found-child-sex-abuse-in-ai-training-data?sref=dZ65CIng) • 2h ago
+
+---
+
 **[Judgment Is the Last Non-Automatable Skill](https://www.reddit.com/r/artificial/comments/1qq79qc/judgment_is_the_last_nonautomatable_skill/)**
 
 A lot of the discussion around AI right now focuses on code generation: how far it can go, how fast it’s improving, and whether software engineering as a profession is at risk. Here’s how I currently see it. Modern AI systems are extremely good at automation. Given a context and a set of assumptions, they can generate plausible next actions: code, refactors, tests, even architectural sketches. That’s consistent with what these systems are optimized for: prediction and continuation. Judgment is a different kind of problem. Judgment is about deciding whether the assumptions themselves are still valid: Are we solving the right problem? Are we optimizing the right dimension? Should we continue or stop and reframe entirely? That kind of decision isn’t about generating better candidates. It’s about invalidating context, recognizing shifts in constraints, and making strategic calls under uncertainty. Historically, this has been most visible in areas like architecture, system design, and product-level trade-offs... places where failures don’t show up as bugs, but as long-term rigidity or misalignment. From this perspective, AI doesn’t remove the need for engineers, it changes where human contribution matters. Skills shift left: less emphasis on implementation details, more emphasis on problem framing, system boundaries, and assumption-checking. I'm not claiming AI will never do it, but currently it's not optimized for this. Execution scales well. Judgment doesn’t. And that boundary is becoming more visible as everything else accelerates. Curious how people here think about this distinction. Do you see judgment as something fundamentally different from automation, or just a lagging capability that will eventually be absorbed as models improve?
 
-🔗 [Medium](https://medium.com/@a.mandyev/judgment-is-the-last-non-automatable-skill-711507721fd1) • 7h ago
+🔗 [Medium](https://medium.com/@a.mandyev/judgment-is-the-last-non-automatable-skill-711507721fd1) • 8h ago
 
 ---
 
@@ -57,13 +63,7 @@ A lot of the discussion around AI right now focuses on code generation: how far 
 
 Hi all, looking for the most capable photo to video AI tool out currently. It could be paid, free or self hosted - just want something robust that can take a real photo and give it some motion without any wacky variances. A search of previous discussions are all over the place with recs, some of even already outdated. Looking for suggestions based on people’s most recent experience! Any help would be greatly appreciated!
 
-5h ago
-
----
-
-**[Amazon Found ‘High Volume’ Of Child Sex Abuse Material in AI Training Data. The tech giant reported hundreds of thousands of cases of suspected child sexual abuse material, but won’t say where it came from](https://www.reddit.com/r/artificial/comments/1qqfl2x/amazon_found_high_volume_of_child_sex_abuse/)**
-
-🔗 [bloomberg.com](https://www.bloomberg.com/news/features/2026-01-29/amazon-found-child-sex-abuse-in-ai-training-data?sref=dZ65CIng) • 2h ago
+6h ago
 
 ---
 
@@ -71,7 +71,7 @@ Hi all, looking for the most capable photo to video AI tool out currently. It co
 
 We're excited to share our latest podcast episode, where we talk about why some of the best movies fail at the box office only to become cult classics a decade later and whether AI can actually predict the next underground masterpiece by looking at real-time sentiment analysis and "memeable density". The data shows that playing it safe will just not cut it. To stand out and make a movie that will be remembered for decades, you have to throw caution to the wind and take the bold risks that everyone will tell you not to make. We also dive into some of the interesting side-projects we're working on, along with a few weird, off-beat recent news stories about AI. Check it out and hope you enjoy
 
-🔗 [open.substack.com](https://open.substack.com/pub/storyprism/p/story-prism-podcast-ep-7?r=h11e6&utm_campaign=post&utm_medium=web) • 2h ago
+🔗 [open.substack.com](https://open.substack.com/pub/storyprism/p/story-prism-podcast-ep-7?r=h11e6&utm_campaign=post&utm_medium=web) • 3h ago
 
 ---
 
@@ -87,7 +87,7 @@ Amazon is laying off 16,000 employees as AI battle intensifies.[1] Google adds G
 
 Wordsmith Law has issued a claim against legal AI company Wordsmith in an apparent naming dispute.
 
-🔗 [nonbillable.co.uk](https://www.nonbillable.co.uk/news/wordsmith-dispute-legal-ai-startup-against-london-law-firm) • 3h ago
+🔗 [nonbillable.co.uk](https://www.nonbillable.co.uk/news/wordsmith-dispute-legal-ai-startup-against-london-law-firm) • 4h ago
 
 ---
 
@@ -115,71 +115,51 @@ DeepMind’s AlphaGenome AI model could help solve the problem of predicting how
 
 ## Google News: "ai"
 
+**[Software stocks enter bear market on AI disruption fear with ServiceNow plunging 12%](https://www.cnbc.com/2026/01/29/software-stocks-enter-bear-market-on-ai-disruption-fear-with-servicenow-plunging-11percent-thursday.html)**
+
+The iShares Expanded Tech-Software Sector ETF is on pace for its biggest one-day decline since April 4 during the tariff-triggered downturn.
+
+CNBC • 5h ago
+
+---
+
+**[Microsoft sheds $430bn in market value as AI spending spooks investors](https://www.ft.com/content/c7e23f07-70b3-43a7-8e1d-040ca93d6d90)**
+
+Software group pulls Nasdaq lower after reporting 66% year-on-year surge in data centre costs
+
+Financial Times • 4h ago
+
+---
+
+**[Beyond Nvidia: 3 Alternative AI Stocks That Will Soar in 2026](https://www.fool.com/investing/2026/01/29/beyond-nvidia-3-alternative-ai-stocks-that-will-so/)**
+
+Nvidia will have a great 2026, but you can't go all-in on the stock.
+
+The Motley Fool • 32m ago
+
+---
+
 **[Project Genie: Experimenting with infinite, interactive worlds](https://blog.google/innovation-and-ai/models-and-research/google-deepmind/project-genie/)**
 
 Google AI Ultra subscribers in the U.S. can now try out Project Genie.
 
-blog.google • 2h ago
+blog.google • 3h ago
 
 ---
 
-**[Introducing Moltworker: a self-hosted personal AI agent, minus the minis](https://blog.cloudflare.com/moltworker-self-hosted-ai-agent/)**
+**[Satya Nadella insists people are using Microsoft’s Copilot AI a lot](https://techcrunch.com/2026/01/29/satya-nadella-insists-people-are-using-microsofts-copilot-ai-a-lot/)**
 
-Moltworker is a middleware Worker and adapted scripts that allows running Moltbot (formerly Clawdbot) on Cloudflare's Sandbox SDK and our Developer Platform APIs. So you can self-host an AI personal assistant — without any new hardware.
+With Microsoft spending many billions on data centers, and rumors that no one is using its AI, CEO Satya Nadella shared some usage numbers.
 
-The Cloudflare Blog • 5h ago
-
----
-
-**[AI models retrace evolution of genetic control elements in the brain](https://phys.org/news/2026-01-ai-retrace-evolution-genetic-elements.html)**
-
-Phys.org • 51m ago
+TechCrunch • 25m ago
 
 ---
 
-**[Apple acquires Israeli audio AI startup Q.ai](https://www.reuters.com/business/apple-acquires-audio-ai-startup-qai-2026-01-29/)**
+**[Silicon Valley's latest AI agent obsession is riddled with security risks](https://www.axios.com/2026/01/29/moltbot-cybersecurity-ai-agent-risks)**
 
-Reuters • 2h ago
+This is just the beginning, and AI adopters are already hastily picking convenience over digital security.
 
----
-
-**[Apple buys Israeli start-up Q.AI for close to $2bn in race to build AI devices](https://www.ft.com/content/49f4e2e4-3a68-4842-be67-879409d06aa1)**
-
-iPhone-maker strikes deal for secretive group that creates technology that analyses facial expressions
-
-Financial Times • 2h ago
-
----
-
-**[Apple acquires Israeli startup Q.ai](https://www.cnbc.com/2026/01/29/apple-acquires-israeli-startup-qai-.html)**
-
-Q.ai was led by Aviad Maizels, who previously sold a startup called PrimeSense to Apple in 2013.
-
-CNBC • 1h ago
-
----
-
-**[Zuckerberg, Musk Vie for AI Primacy With $155 Billion Spree](https://finance.yahoo.com/news/samsung-chip-profit-soars-ai-224818003.html)**
-
-Tesla Inc. will spend $20 billion this year on pursuits including AI, self-driving vehicles and robotics — almost double Wall Street estimates — and plow another $2 billion into Chief Executive Officer Elon Musk’s xAI startup.  Musk also said Tesla needs to build its own semiconductor factory.
-
-Yahoo Finance • 1h ago
-
----
-
-**[Meta's Mark Zuckerberg gets green light from Wall Street to keep pouring money into AI](https://www.cnbc.com/2026/01/28/metas-zuckerberg-gets-green-light-from-wall-street-to-invest-in-ai.html)**
-
-Meta's stock pop following the company's latest earnings beat is a sign that investors are OK with hefty AI spending as long as the core business stays strong.
-
-CNBC • 19h ago
-
----
-
-**[Meta Boss Says AI Is Letting One Employee Do the Work of Entire Teams](https://www.businessinsider.com/meta-says-ai-letting-one-employee-do-work-of-teams-2026-1)**
-
-The tech giant is doubling down on a trend of companies operating with leaner workforces, though it's still on the hunt for rockstar talent.
-
-Business Insider • 1h ago
+Axios • 13m ago
 
 ---
 
@@ -188,6 +168,28 @@ Business Insider • 1h ago
 Microsoft reported its second quarter earnings after the bell Wednesday.
 
 Yahoo Finance • 4h ago
+
+---
+
+**[Introducing Moltworker: a self-hosted personal AI agent, minus the minis](https://blog.cloudflare.com/moltworker-self-hosted-ai-agent/)**
+
+Moltworker is a middleware Worker and adapted scripts that allows running Moltbot (formerly Clawdbot) on Cloudflare's Sandbox SDK and our Developer Platform APIs. So you can self-host an AI personal assistant — without any new hardware.
+
+The Cloudflare Blog • 6h ago
+
+---
+
+**[US leads record global surge in gas-fired power driven by AI demands, with big costs for the climate](https://www.theguardian.com/environment/2026/jan/29/gas-power-ai-climate)**
+
+Projects in development expected to grow global capacity by nearly 50% amid growing concern over impact on planet
+
+The Guardian • 9h ago
+
+---
+
+**[Exclusive: Nvidia helped DeepSeek hone AI models later used by China's military, lawmaker says](https://www.reuters.com/world/china/nvidia-helped-deepseek-hone-ai-models-later-used-by-chinas-military-lawmaker-2026-01-28/)**
+
+Reuters • 20h ago
 
 ---
 
@@ -201,7 +203,7 @@ Yahoo Finance • 4h ago
 - - —
 Guys, enough is enough. Bullying is a s...
 
-⬆️ 622 • 💬 290 • 20h ago • [McSweeney's Internet Tendency](https://www.mcsweeneys.net/articles/please-dont-say-mean-things-about-the-ai-that-i-just-invested-a-billion-dollars-in)
+⬆️ 625 • 💬 294 • 20h ago • [McSweeney's Internet Tendency](https://www.mcsweeneys.net/articles/please-dont-say-mean-things-about-the-ai-that-i-just-invested-a-billion-dollars-in)
 
 ---
 
@@ -217,13 +219,13 @@ Interactive article explaining the physics of an airfoil and what makes airplane
 
 Or, as they like to call it, the 'AI Skills Hub'. Which was built by PwC because of course it was
 
-⬆️ 383 • 💬 141 • 20h ago • [Mahad Kalam](https://mahadk.com/posts/ai-skills-hub)
+⬆️ 385 • 💬 142 • 21h ago • [Mahad Kalam](https://mahadk.com/posts/ai-skills-hub)
 
 ---
 
 **[The tech market is fundamentally fucked up and AI is just a scapegoat](https://news.ycombinator.com/item?id=46809069)**
 
-⬆️ 286 • 💬 198 • 7h ago • [bayramovanar.substack.com](https://bayramovanar.substack.com/p/tech-market-is-fucked-up)
+⬆️ 288 • 💬 201 • 8h ago • [bayramovanar.substack.com](https://bayramovanar.substack.com/p/tech-market-is-fucked-up)
 
 ---
 
@@ -231,7 +233,7 @@ Or, as they like to call it, the 'AI Skills Hub'. Which was built by PwC because
 
 SERA is the first in our family of Open Coding Agents, achieving state-of-the-art performance at low cost.
 
-⬆️ 246 • 💬 45 • 2d ago • [allenai.org](https://allenai.org/blog/open-coding-agents)
+⬆️ 247 • 💬 45 • 2d ago • [allenai.org](https://allenai.org/blog/open-coding-agents)
 
 ---
 
@@ -239,7 +241,7 @@ SERA is the first in our family of Open Coding Agents, achieving state-of-the-ar
 
 The rise of LLMs as a useful development tool over the last year or so has been significant. The power and flexibility of tools like Claude Code and ChatGPT have given a lot of functionality both to experienced developers and new developers alike. But there are trade-offs.
 
-⬆️ 196 • 💬 104 • 22h ago • [jellyfin.org](https://jellyfin.org/docs/general/contributing/llm-policies/)
+⬆️ 197 • 💬 105 • 22h ago • [jellyfin.org](https://jellyfin.org/docs/general/contributing/llm-policies/)
 
 ---
 
@@ -251,6 +253,22 @@ AISLE's autonomous analyzer found all 12 CVEs in the January 2026 coordinated re
 
 ---
 
+**[OTelBench: AI struggles with simple SRE tasks (Opus 4.5 scores only 29%)](https://news.ycombinator.com/item?id=46811588)**
+
+A lot of vendors pitch AI SRE. We tested 14 models across 11 programming languages; even the best ones struggle with instrumenting code with the leading open-source standard, OpenTelemetry.
+
+⬆️ 117 • 💬 64 • 4h ago • [Quesma](https://quesma.com/blog/introducing-otel-bench/)
+
+---
+
+**[Mozilla is building an AI 'rebel alliance' to take on OpenAI, Anthropic](https://news.ycombinator.com/item?id=46812653)**
+
+Mozilla is looking to deploy its roughly $1.4 billion in reserves to support "mission driven" companies and nonprofits, and is particularly focused on AI.
+
+⬆️ 108 • 💬 116 • 3h ago • [CNBC](https://www.cnbc.com/2026/01/27/mozilla-building-an-ai-rebel-alliance-to-take-on-openai-anthropic-.html)
+
+---
+
 **[Management as AI superpower: Thriving in a world of agentic AI](https://news.ycombinator.com/item?id=46782811)**
 
 Thriving in a world of agents
@@ -259,73 +277,27 @@ Thriving in a world of agents
 
 ---
 
-**[OTelBench: AI struggles with simple SRE tasks (Opus 4.5 scores only 29%)](https://news.ycombinator.com/item?id=46811588)**
-
-A lot of vendors pitch AI SRE. We tested 14 models across 11 programming languages; even the best ones struggle with instrumenting code with the leading open-source standard, OpenTelemetry.
-
-⬆️ 102 • 💬 53 • 4h ago • [Quesma](https://quesma.com/blog/introducing-otel-bench/)
-
----
-
-**[Mozilla is building an AI 'rebel alliance' to take on OpenAI, Anthropic](https://news.ycombinator.com/item?id=46812653)**
-
-Mozilla is looking to deploy its roughly $1.4 billion in reserves to support "mission driven" companies and nonprofits, and is particularly focused on AI.
-
-⬆️ 98 • 💬 109 • 3h ago • [CNBC](https://www.cnbc.com/2026/01/27/mozilla-building-an-ai-rebel-alliance-to-take-on-openai-anthropic-.html)
-
----
-
 ---
 
 ## YouTube Videos: "ai"
 
-**[&#39;Godfather of AI&#39; predicts ALL jobs will be in &#39;wiped out&#39; by AI](https://www.youtube.com/watch?v=eddSGoSYnSU)**
+**[How Anthropic’s AI Bankrupted Itself](https://www.youtube.com/watch?v=zMDXzG1kA14)**
 
-Nobel Prize winner Geoffrey Hinton, the physicist known for his pioneering work in the field, told LBC's Andrew Marr that artificial ...
+Get 10% off all Hostinger yearly plans here: http://hostinger.com/albertatech (Use code: ALBERTATECH) *Chapters* 0:00 Intro ...
 
-📺 LBC
+📺 Alberta Tech
 
-👁️ 68K • 👍 1K • 💬 853 • ⏱️ 8:50 • 22h ago
-
----
-
-**[The AI Job APOCALYPSE Is Already Here](https://www.youtube.com/watch?v=Y5A_c4pvo7I)**
-
-Support our work: http://novara.media/support Buy Novara Media merch: https://shop.novaramedia.com/ Discuss the show on ...
-
-📺 Novara Media
-
-👁️ 52K • 👍 2K • 💬 546 • ⏱️ 21:03 • 22h ago
+👁️ 57K • 👍 6K • 💬 511 • ⏱️ 11:33 • 6h ago
 
 ---
 
-**[OpenAI Just Dropped PRISM: Things Just Got Serious](https://www.youtube.com/watch?v=K-bI9BjaId8)**
+**[How to Create AI Influencer For FREE ! Hyper Realistic AI Influencer](https://www.youtube.com/watch?v=9b6qXrRkWxo)**
 
-AI just made a serious jump into the real world. OpenAI unveiled PRISM, a new AI workspace that plugs GPT-5.2 directly into ...
-
-📺 AI Revolution
-
-👁️ 18K • 👍 635 • 💬 45 • ⏱️ 11:36 • 20h ago
-
----
-
-**[Anthropic CEO speaks about &#39;powerful&#39; AI risks and regulation](https://www.youtube.com/watch?v=tjW_gms7CME)**
-
-Dario Amodei, the CEO of the AI company Anthropic, joined "Top Story" to discuss his new essay "The Adolescence of ...
-
-📺 NBC News
-
-👁️ 46K • 👍 792 • 💬 242 • ⏱️ 18:01 • 2d ago
-
----
-
-**[How to Create AI Influencer For FREE ! Realistic AI Influencer](https://www.youtube.com/watch?v=9b6qXrRkWxo)**
-
-How to Create AI Influencer For FREE ! Realistic AI Influencer . . In this video, I'll show you an easy and free way to create realistic ...
+How to Create AI Influencer For FREE ! Hyper Realistic AI Influencer . . In this video, I'll show you an easy and free way to create ...
 
 📺 Fayyaz Ahmed
 
-👁️ 2K • 👍 224 • 💬 13 • ⏱️ 3:23 • 13h ago
+👁️ 3K • 👍 350 • 💬 13 • ⏱️ 3:23 • 14h ago
 
 ---
 
@@ -335,27 +307,47 @@ Crazy AI Beds You'll Wish Were Real ✨ | Ultimate Oddly Satisfying AI ASMR Drif
 
 📺 Ultimate Oddly Satisfying ASMR
 
-👁️ 32K • 👍 2K • 💬 12 • ⏱️ 8:03 • 1d ago
+👁️ 37K • 👍 2K • 💬 12 • ⏱️ 8:03 • 1d ago
 
 ---
 
-**[Oracle is About to Pop The AI Bubble](https://www.youtube.com/watch?v=kj4sBnBrQec)**
+**[&#39;Godfather of AI&#39; predicts ALL jobs will be in &#39;wiped out&#39; by AI](https://www.youtube.com/watch?v=eddSGoSYnSU)**
 
-Become a Channel Member (Exclusive Videos): https://www.youtube.com/channel/UCAFqzhDwJd12pBDgdk-2GqA/join Or ...
+Nobel Prize winner Geoffrey Hinton, the physicist known for his pioneering work in the field, told LBC's Andrew Marr that artificial ...
 
-📺 Keith D
+📺 LBC
 
-👁️ 42K • 👍 2K • 💬 342 • ⏱️ 10:20 • 1d ago
+👁️ 78K • 👍 1K • 💬 943 • ⏱️ 8:50 • 23h ago
 
 ---
 
-**[The LLM Revolution Is Over. The Physical AI Revolution Is Coming Fast](https://www.youtube.com/watch?v=MWMe7yjPYpE)**
+**[The AI Job APOCALYPSE Is Already Here](https://www.youtube.com/watch?v=Y5A_c4pvo7I)**
 
-On stage at Imagination In Action's AI Summit in Davos with John Werner, founder and CEO of Imagination In Action, Yann LeCun ...
+Support our work: http://novara.media/support Buy Novara Media merch: https://shop.novaramedia.com/ Discuss the show on ...
 
-📺 Forbes
+📺 Novara Media
 
-👁️ 17K • 👍 567 • 💬 137 • ⏱️ 29:11 • 22h ago
+👁️ 57K • 👍 2K • 💬 581 • ⏱️ 21:03 • 23h ago
+
+---
+
+**[OpenAI Just Dropped PRISM: Things Just Got Serious](https://www.youtube.com/watch?v=K-bI9BjaId8)**
+
+AI just made a serious jump into the real world. OpenAI unveiled PRISM, a new AI workspace that plugs GPT-5.2 directly into ...
+
+📺 AI Revolution
+
+👁️ 20K • 👍 659 • 💬 46 • ⏱️ 11:36 • 21h ago
+
+---
+
+**[Anthropic CEO speaks about &#39;powerful&#39; AI risks and regulation](https://www.youtube.com/watch?v=tjW_gms7CME)**
+
+Dario Amodei, the CEO of the AI company Anthropic, joined "Top Story" to discuss his new essay "The Adolescence of ...
+
+📺 NBC News
+
+👁️ 49K • 👍 812 • 💬 252 • ⏱️ 18:01 • 2d ago
 
 ---
 
@@ -365,17 +357,27 @@ Looking into whether we can rely on AI Benchmarks. Try Perplexity Comet browser 
 
 📺 Matt Wolfe
 
-👁️ 18K • 👍 821 • 💬 126 • ⏱️ 23:11 • 22h ago
+👁️ 19K • 👍 861 • 💬 130 • ⏱️ 23:11 • 22h ago
 
 ---
 
-**[Clawdbot is taking over AI](https://www.youtube.com/watch?v=c2nAKH8BIdo)**
+**[China’s Next AI Shock Is Hardware](https://www.youtube.com/watch?v=k_bHtx_e-SU)**
 
-Clawdbot full tutorial. How to install Clawdbot / Moltbot. Use cases of Clawd. Clawdbot vs Claude Code #clawdbot #ai #aitools ...
+China's next AI shock isn't another DeepSeek-style model. It's hardware. After DeepSeek proved China could compete under ...
 
-📺 AI Search
+📺 CNBC
 
-👁️ 78K • 👍 3K • 💬 625 • ⏱️ 28:44 • 1d ago
+👁️ 144K • 👍 3K • 💬 778 • ⏱️ 40:22 • 1d ago
+
+---
+
+**[Oracle is About to Pop The AI Bubble](https://www.youtube.com/watch?v=kj4sBnBrQec)**
+
+Become a Channel Member (Exclusive Videos): https://www.youtube.com/channel/UCAFqzhDwJd12pBDgdk-2GqA/join Or ...
+
+📺 Keith D
+
+👁️ 43K • 👍 2K • 💬 362 • ⏱️ 10:20 • 1d ago
 
 ---
 
@@ -391,7 +393,7 @@ PersonaPlex-7B-v1 is a real-time, full-duplex speech-to-speech conversational mo
 
 `audio-to-audio`
 
-⬇️ 50,776 • ❤️ 1,433 • 20h ago
+⬇️ 50,776 • ❤️ 1,443 • 21h ago
 
 ---
 
@@ -403,7 +405,7 @@ Kimi K2.5 is a native multimodal agentic model with 1T parameters, excelling in 
 
 `image-text-to-text`
 
-⬇️ 21,428 • ❤️ 1,052 • 10h ago
+⬇️ 21,428 • ❤️ 1,066 • 11h ago
 
 ---
 
@@ -415,7 +417,7 @@ Qwen3-TTS-12Hz-1.7B-CustomVoice is a multilingual text-to-speech model supportin
 
 `text-to-speech` `1.9B`
 
-⬇️ 169,048 • ❤️ 743 • 11h ago
+⬇️ 169,048 • ❤️ 748 • 12h ago
 
 ---
 
@@ -427,7 +429,7 @@ VibeVoice-ASR is a unified speech-to-text model capable of processing up to 60 m
 
 `automatic-speech-recognition` `8.7B`
 
-⬇️ 102,495 • ❤️ 716 • 2d ago
+⬇️ 102,495 • ❤️ 717 • 2d ago
 
 ---
 
@@ -439,7 +441,7 @@ Z-Image is an undistilled, high-fidelity text-to-image diffusion transformer mod
 
 `text-to-image`
 
-⬇️ 1,206 • ❤️ 642 • 1d ago
+⬇️ 1,206 • ❤️ 646 • 1d ago
 
 ---
 
@@ -463,7 +465,7 @@ GLM-4.7-Flash is a 30B-A3B MoE model, offering strong performance in the 30B cla
 
 `text-generation` `31.2B`
 
-⬇️ 609,013 • ❤️ 1,323 • 11h ago
+⬇️ 609,013 • ❤️ 1,325 • 12h ago
 
 ---
 
@@ -475,7 +477,7 @@ LightOnOCR-2-1B is an efficient 1B-parameter end-to-end vision-language model fo
 
 `image-text-to-text` `1.0B`
 
-⬇️ 26,227 • ❤️ 432 • 8d ago
+⬇️ 26,227 • ❤️ 433 • 8d ago
 
 ---
 
@@ -487,7 +489,7 @@ Chroma-4B is a real-time, end-to-end spoken dialogue model capable of speech und
 
 `any-to-any` `5.9B`
 
-⬇️ 7,241 • ❤️ 294 • 1d ago
+⬇️ 7,241 • ❤️ 296 • 1d ago
 
 ---
 
@@ -515,7 +517,7 @@ Sweep Next-Edit 1.5B is a GGUF quantized model for next-edit code autocompletion
 
 LingBot-World is an open-source world simulator with high-fidelity dynamics, long-term memory capabilities, and real-time interactivity for diverse environments.
 
-▲ 63 • 💬 1 • ⭐ 608 • 1d ago
+▲ 64 • 💬 1 • ⭐ 608 • 1d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2601.20540) • [💻 code](https://github.com/Robbyant/lingbot-world/) • [🔗 project](https://technology.robbyant.com/lingbot-world)
 
@@ -529,7 +531,7 @@ LingBot-World is an open-source world simulator with high-fidelity dynamics, lon
 
 The Qwen3-TTS series presents advanced multilingual text-to-speech models with voice cloning and controllable speech generation capabilities, utilizing dual-track LM architecture and specialized speech tokenizers for efficient streaming synthesis.
 
-▲ 50 • 💬 1 • ⭐ 5,817 • 7d ago
+▲ 50 • 💬 1 • ⭐ 5,934 • 7d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2601.15621) • [💻 code](https://github.com/QwenLM/Qwen3-TTS)
 
@@ -543,7 +545,7 @@ The Qwen3-TTS series presents advanced multilingual text-to-speech models with v
 
 DeepSeek-OCR 2 introduces DeepEncoder V2 that dynamically reorders visual tokens based on semantic content, enabling more human-like causal reasoning in 2D image understanding through cascaded 1D causal structures.
 
-▲ 22 • 💬 2 • ⭐ 1,491 • 1d ago
+▲ 23 • 💬 2 • ⭐ 1,491 • 1d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2601.20552) • [💻 code](https://github.com/deepseek-ai/DeepSeek-OCR-2)
 
@@ -557,7 +559,7 @@ DeepSeek-OCR 2 introduces DeepEncoder V2 that dynamically reorders visual tokens
 
 A Vision-Language-Action model trained on extensive real-world robotic data demonstrates superior performance and generalization across multiple platforms while offering enhanced efficiency through optimized training infrastructure.
 
-▲ 40 • 💬 4 • ⭐ 354 • 3d ago
+▲ 41 • 💬 4 • ⭐ 401 • 3d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2601.18692) • [💻 code](https://github.com/robbyant/lingbot-vla) • [🔗 project](https://technology.robbyant.com/lingbot-vla)
 
@@ -583,7 +585,7 @@ LingBot-Depth is a depth completion model that uses visual context to refine dep
 
 UltraRAG is a comprehensive RAG toolkit that automates knowledge adaptation across the entire workflow while providing a user-friendly interface for non-coding deployment.
 
-▲ 6 • 💬 0 • ⭐ 4,690 • 10mo ago
+▲ 6 • 💬 0 • ⭐ 4,747 • 10mo ago
 
 [🎓 arXiv](https://arxiv.org/abs/2504.08761) • [💻 code](https://github.com/OpenBMB/UltraRAG)
 
@@ -617,6 +619,20 @@ VibeVoice synthesizes long-form multi-speaker speech using next-token diffusion 
 
 ---
 
+**[BitNet Distillation](https://huggingface.co/papers/2510.13998)**
+
+*Xun Wu, Shaohan Huang, Wenhui Wang et al. (7 authors)*
+
+🏢 Microsoft Research
+
+BitNet Distillation fine-tunes large language models to 1.58-bit precision using SubLN, multi-head attention distillation, and continual pre-training, achieving comparable performance with significant memory and inference speed improvements.
+
+▲ 58 • 💬 5 • ⭐ 26,231 • 3mo ago
+
+[🎓 arXiv](https://arxiv.org/abs/2510.13998) • [💻 code](https://github.com/microsoft/BitNet)
+
+---
+
 **[HeartMuLa: A Family of Open Sourced Music Foundation Models](https://huggingface.co/papers/2601.10547)**
 
 *Dongchao Yang, Yuxin Xie, Yuguo Yin et al. (28 authors)*
@@ -626,18 +642,6 @@ A suite of open-source music foundation models is introduced, featuring componen
 ▲ 39 • 💬 4 • ⭐ 2,382 • 14d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2601.10547) • [💻 code](https://github.com/HeartMuLa/heartlib) • [🔗 project](https://heartmula.github.io/)
-
----
-
-**[MinerU: An Open-Source Solution for Precise Document Content Extraction](https://huggingface.co/papers/2409.18839)**
-
-*Bin Wang, Chao Xu, Xiaomeng Zhao et al. (18 authors)*
-
-MinerU is an open-source tool that enhances document content extraction using fine-tuned models and pre/postprocessing rules across diverse document types.
-
-▲ 38 • 💬 4 • ⭐ 53,215 • 16mo ago
-
-[🎓 arXiv](https://arxiv.org/abs/2409.18839) • [💻 code](https://github.com/opendatalab/mineru)
 
 ---
 
@@ -651,7 +655,7 @@ Browser automation CLI for AI agents
 
 `TypeScript`
 
-⭐ 11.4k • 🔱 627 • 2h ago
+⭐ 11.4k • 🔱 628 • 3h ago
 
 ---
 
@@ -671,7 +675,7 @@ Ralph is an autonomous AI agent loop that runs repeatedly until all PRD items ar
 
 `TypeScript`
 
-⭐ 8.5k • 🔱 1.0k • 6d ago
+⭐ 8.6k • 🔱 1.0k • 6d ago
 
 ---
 
@@ -701,7 +705,7 @@ Marketing skills for Claude Code and AI agents. CRO, copywriting, SEO, analytics
 
 `claude` `codex` `marketing`
 
-⭐ 5.3k • 🔱 574 • 1d ago
+⭐ 5.3k • 🔱 575 • 1d ago
 
 ---
 
@@ -711,7 +715,7 @@ The Ultimate Collection of 500+ Agentic Skills for Claude Code/Antigravity/Curso
 
 `Python` `agentic-skills` `ai-agents` `antigravity` `autonomous-coding` `claude-code`
 
-⭐ 5.2k • 🔱 1.2k • 7h ago
+⭐ 5.3k • 🔱 1.2k • 8h ago
 
 ---
 
@@ -733,11 +737,13 @@ OpenSource Claude Cowork. A desktop AI assistant that helps you with programming
 
 ---
 
-**[op7418/Humanizer-zh](https://github.com/op7418/Humanizer-zh)**
+**[corbindavenport/just-the-browser](https://github.com/corbindavenport/just-the-browser)**
 
-Humanizer 的汉化版本，Claude Code Skills，旨在消除文本中 AI 生成的痕迹。
+Remove AI features, telemetry data reporting, sponsored content, product integrations, and other annoyances from web browsers.
 
-⭐ 1.9k • 🔱 173 • 10d ago
+`Shell` `chrome` `firefox` `google-chrome` `linux` `macos`
+
+⭐ 1.9k • 🔱 51 • 3d ago
 
 ---
 

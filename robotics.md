@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-01-29T19:51:25.104340+00:00'
+updated: '2026-01-29T20:32:23.267734+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
 - social
-- videos
 - news
+- videos
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** January 29, 2026 at 19:51 UTC  
+**Last Updated:** January 29, 2026 at 20:32 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -36,13 +36,13 @@ Robotics research and industry news
 
 Working on my first robotics build at the moment and easing my way into it. Any pointers or tips would be greatly appreciated. This is what I have for hardware so far.
 
-6h ago
+7h ago
 
 ---
 
 **[Figure 03 handling glassware, fully autonomous](https://www.reddit.com/r/robotics/comments/1qpn1dq/figure_03_handling_glassware_fully_autonomous/)**
 
-23h ago
+1d ago
 
 ---
 
@@ -50,7 +50,7 @@ Working on my first robotics build at the moment and easing my way into it. Any 
 
 We want to build a community of robotics and computer vision developers who want to share their algorithms and SOTA models to be used by the industry. The idea is to have a large scale, common repo, where devs contribute their SOTA models and algorithms. It follows the principle of a Skill Library for robotics. Skills can be of computer vision, robotics, RL, VLA models or any other model that is used for industrial robots, mobile robots and humanoid robots. To get started with building the community, we are struggling to figure out what content works best. Some ideas that we have include: A Discord channel for centralised discussion YouTube channel showcasing how to use the Skills to build use cases Technical blogs on Medium What channels do you regularly visit to keep up to date with all the varied models out there? And also, what content do you generally enjoy?
 
-8h ago
+9h ago
 
 ---
 
@@ -80,15 +80,7 @@ We are building a 3d-printable animatronics robots, Mostly the same 3d printed p
 
 Hello , I'm currently doing internship in my college and I have got one month to finish ball balancing bot , I do have some idea, so guys please help me out what are the components are required for doing the project and how to do it that will be grateful and appreciate the suggestion :)
 
-5h ago
-
----
-
-**[Do Autonomous Robots Need Purpose-Built Wearables?](https://www.reddit.com/r/robotics/comments/1qqanlx/do_autonomous_robots_need_purposebuilt_wearables/)**
-
-Hi everyone — we’re working on an early-stage startup exploring wearables for autonomous robots (protective, functional, or interface-related components designed specifically for robots, not humans). We’re currently in a research and validation phase and would really value input from people with hands-on experience in robotics (deployment, hardware, safety, field operations, humanoids, autonomous robots, etc.). We’re trying to understand: Whether robots today face unmet needs around protection, durability, environment adaptation, or interaction How these issues are currently solved (or worked around) Whether purpose-built “robot wearables” would be useful or unnecessary If you work with or around autonomous robots, we’d appreciate any insights, critiques, or examples from real-world use. Thanks in advance — we’re here to learn, not to pitch.
-
-4h ago
+6h ago
 
 ---
 
@@ -102,21 +94,21 @@ Former iRobot CEO Colin Angle talks about how robotics isn’t really a single �
 
 **[I want help with a gazebo project is there any one who knows about gazebo](https://www.reddit.com/r/robotics/comments/1qq3zxu/i_want_help_with_a_gazebo_project_is_there_any/)**
 
-10h ago
+11h ago
+
+---
+
+**[RealSense D435 mounted vertically (90° rotation) - What should camera_link and camera_depth_optical_frame TF orientations be?](https://www.reddit.com/r/robotics/comments/1qq3tf8/realsense_d435_mounted_vertically_90_rotation/)**
+
+Hi everyone, I'm using an Intel RealSense D435 camera with ROS2 Jazzy and MoveIt2. My camera is mounted in a non-standard orientation: Vertically rather than horizontally. More specifically it is rotated 90° counterclockwise (USB port facing up) and tilted 8° downward. I've set up my URDF with a camera_link joint that connects to my robot, and the RealSense ROS2 driver automatically publishes the camera_depth_optical_frame. My questions: Does camera_link need to follow a specific orientation convention? (I've read REP-103 says X=forward, Y=left, Z=up, but does this still apply when the camera is physically rotated?) What should camera_depth_optical_frame look like in RViz after the 90° rotation? The driver creates this automatically - should I expect the axes to look different than a standard horizontal mount? If my point cloud visually appears correctly aligned with reality (floor is horizontal, objects in correct positions), does the TF frame orientation actually matter? Or is it purely cosmetic at that point? Is there a "correct" RPY for a vertically-mounted D435, or do I just need to ensure the point cloud aligns with my robot's world frame? Any guidance from anyone who has mounted a RealSense camera vertically would be really appreciated! Thanks!
+
+11h ago
 
 ---
 
 ---
 
 ## Google News: "robotics"
-
-**[CNBC's The China Connection newsletter: China-made humanoid robots set sights on Middle East and U.S. markets](https://www.cnbc.com/2026/01/28/cnbc-china-connection-newsletter-humanoid-robots-middle-east-us-limx-tesla-optimus.html)**
-
-Chinese humanoid robot companies are expanding globally, piling pressure on Elon Musk’s Optimus before it reaches mass production.
-
-CNBC • 1d ago
-
----
 
 **[Watch China’s humanoid robots walk out of crates like Matrix scene](https://interestingengineering.com/ai-robotics/limx-humanoid-robots-walk-out-of-crates)**
 
@@ -126,11 +118,19 @@ Interesting Engineering • 2d ago
 
 ---
 
+**[CNBC's The China Connection newsletter: China-made humanoid robots set sights on Middle East and U.S. markets](https://www.cnbc.com/2026/01/28/cnbc-china-connection-newsletter-humanoid-robots-middle-east-us-limx-tesla-optimus.html)**
+
+Chinese humanoid robot companies are expanding globally, piling pressure on Elon Musk’s Optimus before it reaches mass production.
+
+CNBC • 1d ago
+
+---
+
 **[I've Seen It With My Own Eyes: The Robots Are Here and Walking Among Us](https://www.cnet.com/tech/computing/ive-seen-it-with-my-own-eyes-the-robots-are-here-and-walking-among-us/)**
 
 The "physical AI" boom has created a world of opportunity for robot makers, and they're not holding back.
 
-CNET • 8h ago
+CNET • 9h ago
 
 ---
 
@@ -142,35 +142,19 @@ AP News • 2d ago
 
 ---
 
-**[Microsoft and Richtech give retail and service robots an AI boost](https://www.stocktitan.net/news/RR/richtech-robotics-collaborates-with-microsoft-to-advance-agentic-ai-2ptsobdmvovn.html)**
-
-ADAM, Richtech's Azure-powered robot, now uses vision, voice and contextual data to improve retail workflows and customer interactions.
-
-Stock Titan • 2d ago
-
----
-
-**[BREAKING: Microsoft Denies Partnership with Richtech Robotics](https://hntrbrk.com/richtech-robotics/)**
-
-Beep, boop, fraud?
-
-Hunterbrook • 2h ago
-
----
-
-**[Richtech Robotics soars after announcing partnership with Microsoft to use AI to improve its robots](https://sherwood.news/markets/richtech-robotics-soars-after-announcing-partnership-with-microsoft-to-use/)**
-
-The most momentous day for ADAM since serving Jensen Huang a margarita....
-
-Sherwood News • 2d ago
-
----
-
 **[RobCo raises Series C funding to scale industrial automation](https://www.therobotreport.com/robco-raises-100m-scale-industrial-automation/)**
 
 RobCo plans to use the new capital to continue developing its physical AI systems and expand enterprise deployments in the U.S. and Europe.
 
 The Robot Report • 1h ago
+
+---
+
+**[Tesla doubles spending with $20B AI and robotics push](https://finance.yahoo.com/news/tesla-doubles-spending-20b-ai-161254007.html)**
+
+Record investment marks a shift away from traditional EVs toward automation.
+
+Yahoo Finance • 4h ago
 
 ---
 
@@ -186,7 +170,21 @@ Financial Times • 8h ago
 
 Investors liked what they heard about the future following the company's latest results, but Elon Musk is under huge pressure to deliver on his vision as a series of targets have been missed.
 
-Sky News • 12h ago
+Sky News • 13h ago
+
+---
+
+**[Crew Studies Robotics and Virtual Reality Advancing Space Tech](https://www.nasa.gov/blogs/spacestation/2026/01/27/crew-studies-robotics-and-virtual-reality-advancing-space-tech/)**
+
+Robotics and virtual reality filled the science schedule aboard the International Space Station on Tuesday as the Expedition 74 crew promoted education and explored human research. The orbital trio also inspected safety equipment, worked on cargo swaps, and conducted Earth observations.
+
+NASA (.gov) • 2d ago
+
+---
+
+**[Synthetic 'muscle' with microfluidic blood vessels shows promise for soft robotics](https://techxplore.com/news/2026-01-synthetic-muscle-microfluidic-blood-vessels.html)**
+
+Tech Xplore • 2d ago
 
 ---
 
@@ -194,33 +192,13 @@ Sky News • 12h ago
 
 ## YouTube Videos: "robotics"
 
-**[Tesla bets big on robotics](https://www.youtube.com/watch?v=yEAf1Mw0qYk)**
+**[Elon Musk Repairs High-Tech Robotic 🕵️ Wings on Female 💲Android in Futuristic 🧪 Ai-concept.](https://www.youtube.com/watch?v=qBIpFr_d3Vg)**
 
-Steve Westly, former Tesla board member and founder of the Westly Group, joins 'Squawk on the Street' to discuss Tesla's latest ...
+RoboticWings #FuturisticLab #Android #SciFi #Robotics #AIArt #Cyberpunk #HighTech #ArtificialIntelligence #TeslaBot ...
 
-📺 CNBC Television
+📺 AITECHGADGETS
 
-👁️ 482 • 👍 6 • 💬 1 • ⏱️ 3:43 • 2h ago
-
----
-
-**[This $50,000 humanoid robot has eyebrows](https://www.youtube.com/watch?v=AsKPdQji0vw)**
-
-Designed to work safely and naturally around people, Sprout from Fauna Robotics, is $50000 humanoid robot butler that can ...
-
-📺 Interesting Engineering
-
-👁️ 392 • 👍 51 • ⏱️ 1:40 • 4h ago
-
----
-
-**[Meet Sprout: The Humanoid Robot Built for Real World Use](https://www.youtube.com/watch?v=4zMbX1OEOSE)**
-
-This new humanoid robot is not about hype or flashy promises. Sprout is designed to work alongside people in real environments, ...
-
-📺 DPCcars
-
-👁️ 2K • 👍 56 • 💬 12 • ⏱️ 3:17 • 23h ago
+👁️ 276K • 💬 146 • ⏱️ 0:18 • 3d ago
 
 ---
 
@@ -240,17 +218,17 @@ Day 172 of watching tech evolve. German startup Filics has built autonomous ware
 
 📺 Deepen
 
-👁️ 20K • 👍 401 • 💬 10 • ⏱️ 0:29 • 5d ago
+👁️ 20K • 👍 402 • 💬 10 • ⏱️ 0:29 • 5d ago
 
 ---
 
-**[Elon Musk Repairs High-Tech Robotic 🕵️ Wings on Female 💲Android in Futuristic 🧪 Ai-concept.](https://www.youtube.com/watch?v=qBIpFr_d3Vg)**
+**[This $50,000 humanoid robot has eyebrows](https://www.youtube.com/watch?v=AsKPdQji0vw)**
 
-RoboticWings #FuturisticLab #Android #SciFi #Robotics #AIArt #Cyberpunk #HighTech #ArtificialIntelligence #TeslaBot ...
+Designed to work safely and naturally around people, Sprout from Fauna Robotics, is $50000 humanoid robot butler that can ...
 
-📺 AITECHGADGETS
+📺 Interesting Engineering
 
-👁️ 272K • 💬 145 • ⏱️ 0:18 • 3d ago
+👁️ 629 • 👍 62 • 💬 1 • ⏱️ 1:40 • 5h ago
 
 ---
 
@@ -260,7 +238,7 @@ RoboticWings #FuturisticLab #Android #SciFi #Robotics #AIArt #Cyberpunk #HighTec
 
 📺 Andreas Klinger ⅹ Europe's Most Ambitious Startups
 
-👁️ 19K • 👍 1K • 💬 174 • ⏱️ 16:46 • 3d ago
+👁️ 20K • 👍 1K • 💬 181 • ⏱️ 16:46 • 3d ago
 
 ---
 
@@ -276,7 +254,7 @@ RoboticWings #FuturisticLab #Android #SciFi #Robotics #AIArt #Cyberpunk #HighTec
 
 📺 Romi Pal
 
-👁️ 310K • 👍 6K • 💬 36 • ⏱️ 0:17 • 5d ago
+👁️ 313K • 👍 6K • 💬 36 • ⏱️ 0:17 • 5d ago
 
 ---
 
@@ -286,7 +264,27 @@ The Growing Robot That Enters Collapsed Buildings Before Humans Do When disaster
 
 📺 EcoZora
 
-👁️ 354K • 👍 1K • 💬 151 • ⏱️ 0:07 • 3d ago
+👁️ 355K • 👍 1K • 💬 151 • ⏱️ 0:07 • 3d ago
+
+---
+
+**[Tesla Fremont factory ending Model S/X manufacturing to begin Optimus robot production](https://www.youtube.com/watch?v=liF86L_EvKQ)**
+
+Andrea Nakano reports on the Tesla Fremont factory ending Model S/X production and using that part of the factory for mass ...
+
+📺 KPIX | CBS NEWS BAY AREA
+
+👁️ 19K • 👍 207 • 💬 193 • ⏱️ 4:36 • 13h ago
+
+---
+
+**[Robotics Boom: 3 Stocks Under $20 Right Now](https://www.youtube.com/watch?v=8yC0p_lfk4g)**
+
+Robotics stocks are heating up fast, but many of the biggest names are already expensive. In this video, MarketBeat's Jeffrey Neal ...
+
+📺 MarketBeat
+
+👁️ 135K • 👍 3K • 💬 183 • ⏱️ 17:39 • 5d ago
 
 ---
 
