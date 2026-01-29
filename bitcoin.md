@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-01-29T08:00:43.882154+00:00'
+updated: '2026-01-29T09:07:08.048427+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
 - videos
 - news
-- cryptocurrency
 - social
+- cryptocurrency
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** January 29, 2026 at 08:00 UTC  
+**Last Updated:** January 29, 2026 at 09:07 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,17 +38,17 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $88,297.85
+### $87,973.67
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** -0.6%  
-**7d:** -1.5%  
-**30d:** +0.7%  
-**90d:** -19.7%  
-**1y:** -15.7%  
+**24h:** -1.5%  
+**7d:** -1.6%  
+**30d:** +0.5%  
+**90d:** -19.8%  
+**1y:** -15.9%  
 
 ---
 
@@ -77,11 +77,19 @@ Rank #1
 
 ## Reddit: r/Bitcoin
 
+**[18.2 coins](https://www.reddit.com/r/Bitcoin/comments/1qq01ag/182_coins/)**
+
+Crazy to think I owned 18.2 btc in early 2020 and sold before it reach 73 something I think it was. Now I live check to check. HODL your investments, don’t sell
+
+3h ago
+
+---
+
 **[If you don’t understand this…](https://www.reddit.com/r/Bitcoin/comments/1qpvau2/if_you_dont_understand_this/)**
 
 What are you doing with your time. You’re saving pieces of paper with numbers on it. I expect everyone here to understand the problems BITCOIN solves We don’t want more dollars we want more money The US dollar is not money. If you’re building wealth. Follow me so we can connect. Great minds think alike and have studied Bitcoin.
 
-6h ago
+7h ago
 
 ---
 
@@ -89,21 +97,7 @@ What are you doing with your time. You’re saving pieces of paper with numbers 
 
 Source: Blossom Social
 
-9h ago
-
----
-
-**[18.2 coins](https://www.reddit.com/r/Bitcoin/comments/1qq01ag/182_coins/)**
-
-Crazy to think I owned 18.2 btc in early 2020 and sold before it reach 73 something I think it was. Now I live check to check. HODL your investments, don’t sell
-
-2h ago
-
----
-
-**[This is unbearable](https://www.reddit.com/r/Bitcoin/comments/1qphgpc/this_is_unbearable/)**
-
-14h ago
+10h ago
 
 ---
 
@@ -111,19 +105,37 @@ Crazy to think I owned 18.2 btc in early 2020 and sold before it reach 73 someth
 
 I gotta stop getting hammered before I trade, But its sooooo profitable.. .
 
-3h ago
+5h ago
+
+---
+
+**[This is unbearable](https://www.reddit.com/r/Bitcoin/comments/1qphgpc/this_is_unbearable/)**
+
+15h ago
 
 ---
 
 **[The single email that changed the course of history.](https://www.reddit.com/r/Bitcoin/comments/1qpqemf/the_single_email_that_changed_the_course_of/)**
 
-9h ago
+10h ago
 
 ---
 
 **[Hodling nonstop](https://www.reddit.com/r/Bitcoin/comments/1qpxk52/hodling_nonstop/)**
 
-4h ago
+5h ago
+
+---
+
+**[😂](https://www.reddit.com/r/Bitcoin/comments/1qq31l2/_/)**
+
+40m ago
+
+---
+
+**[They want all out retirement savings in this system](https://www.reddit.com/r/Bitcoin/comments/1qpzr12/they_want_all_out_retirement_savings_in_this/)**
+
+3h ago
 
 ---
 
@@ -131,21 +143,7 @@ I gotta stop getting hammered before I trade, But its sooooo profitable.. .
 
 Historically, the most significant portion of Bitcoin's gains come in just 10 trading days out of an entire calendar year. Most of the time in Bitcoin is spent going sideways or down. It will shake out all weak hands and tourists, and punish anyone with high time preference. Then it will reward the patience of those who spend their time studying and growing their conviction (and touching grass) during the boring or bear markets. Act accordingly
 
-12h ago
-
----
-
-**[NBA legend Scottie Pippen often says Satoshi visits him in his dreams. This is what I imagine they're like.](https://www.reddit.com/r/Bitcoin/comments/1qpjtzp/nba_legend_scottie_pippen_often_says_satoshi/)**
-
 13h ago
-
----
-
-**[What are your thoughts about 0.1 BTC. Are this can be significant or meaningless amount in the future 10 years?](https://www.reddit.com/r/Bitcoin/comments/1qppg1v/what_are_your_thoughts_about_01_btc_are_this_can/)**
-
-Just searching users opinions.
-
-10h ago
 
 ---
 
@@ -157,7 +155,7 @@ Just searching users opinions.
 
 Crypto prices stabilized after an early-week dip, but bitcoin continued to trail gold and silver as macro trades dominated after the Fed’s policy hold.
 
-CoinDesk • 2h ago
+CoinDesk • 3h ago
 
 ---
 
@@ -165,21 +163,23 @@ CoinDesk • 2h ago
 
 The bitcoin price rebounded above $90,000 as traders weigh the looming Fed rate decision.
 
-Bitcoin Magazine • 17h ago
+Bitcoin Magazine • 18h ago
 
 ---
 
-**[Bitcoin January 28 daily chart alert - Bulls work to stabilize price](https://www.kitco.com/news/article/2026-01-28/bitcoin-january-28-daily-chart-alert-bulls-work-stabilize-price)**
+**[It’s ‘Breaking’—Sudden U.S. Dollar ‘Crisis’ Warning Predicted To Spark Huge Bitcoin Price Boom To Rival Gold](https://www.forbes.com/sites/digital-assets/2026/01/28/its-breaking-sudden-us-dollar-crisis-warning-predicted-to-spark-huge-bitcoin-price-boom-to-rival-gold/)**
 
-The Kitco News Team brings you the latest news, videos, analysis and opinions regarding Precious Metals, Crypto, Mining, World Markets and Global Economy.
+A “crisis of confidence” in the U.S. dollar has been predicted to see bitcoin catch up with gold...
 
-KITCO • 18h ago
+Forbes • 21h ago
 
 ---
 
-**[Strive Retires 92% of Acquired Debt, Buys 334 Bitcoin After Preferred Stock Raise](https://finance.yahoo.com/news/strive-retires-92-acquired-debt-055043109.html)**
+**[Sygnum Bank Raises 750 BTC For Bitcoin Yield Fund](https://finance.yahoo.com/news/sygnum-bank-raises-750-btc-073224569.html)**
 
-Yahoo Finance • 2h ago
+Digital asset banking group Sygnum has completed the seed phase of the Starboard Sygnum BTC Alpha Fund. In the first four months, they raised “over 750” Bitcoin (BTC) from investors.This response from professional and institutional investors, the press release says, shows “growing interest in actively managed Bitcoin strategies.” More specifically, ...
+
+Yahoo Finance • 1h ago
 
 ---
 
@@ -187,15 +187,15 @@ Yahoo Finance • 2h ago
 
 Since 2022, Grand Forks residents have lost $466,803 to bitcoin cryptocurrency, according to GFPD Det. Todd Riedinger. The scams are difficult to trace and lost money usually can't be recovered.
 
-grandforksherald.com • 18h ago
+grandforksherald.com • 20h ago
 
 ---
 
-**[Is Gold The New Bitcoin?](https://www.yardeniquicktakes.com/is-gold-the-new-bitcoin/)**
+**[If You'd Invested $100 in Bitcoin 10 Years Ago, Here's How Much You'd Have Today](https://www.fool.com/investing/2026/01/28/if-you-invested-100-in-bitcoin-10-years-ago-heres/)**
 
-Proponents of bitcoin have been calling it “digital gold.” Both the cryptocurrency and the precious metal are impossible to value because they don't pay any interest or dividends. Bitcoin is digital, making it potentially vulnerable someday to hacking by quantum-computing algorithms, while gold needs to be stored in a vault.
+Bitcoin's meteoric rise has delivered huge returns for holders. Even small investments have turned into tens of thousands of dollars.
 
-Yardeni QuickTakes • 1d ago
+The Motley Fool • 8h ago
 
 ---
 
@@ -225,7 +225,7 @@ Yahoo Finance • 1d ago
 
 A Bitcoin critic warns the network is “unravelling” as hashrate drops sharply, but traders are pushing back against the claims.
 
-CCN.com • 18h ago
+CCN.com • 19h ago
 
 ---
 
@@ -284,7 +284,7 @@ Transform HN comment threads into executive intelligence. AI analyzes discussion
 
 Reporting on Fintech, Crypto, and Blockchain Activity in Africa
 
-⬆️ 1 • 💬 0 • 13h ago • [BitKE](https://bitcoinke.io/2026/01/ozow-announces-payments-solution-by-moneybadger/)
+⬆️ 1 • 💬 0 • 14h ago • [BitKE](https://bitcoinke.io/2026/01/ozow-announces-payments-solution-by-moneybadger/)
 
 ---
 
@@ -296,7 +296,7 @@ Reporting on Fintech, Crypto, and Blockchain Activity in Africa
 
 **[Show HN: We built a type-safe Python ORM for RedisGraph/FalkorDB](https://news.ycombinator.com/item?id=46796602)**
 
-⬆️ 5 • 💬 3 • 16h ago
+⬆️ 5 • 💬 5 • 17h ago
 
 ---
 
@@ -316,7 +316,7 @@ This is not Bitcoin going up. This is the dollar breaking down in real time. A d
 
 📺 Simply Bitcoin
 
-👁️ 21K • 👍 2K • 💬 297 • ⏱️ 15:53 • 8h ago
+👁️ 21K • 👍 2K • 💬 297 • ⏱️ 15:53 • 9h ago
 
 ---
 
@@ -326,7 +326,7 @@ Bob Murphy is a Senior Fellow at the Mises Institute and Chief Economist at Infi
 
 📺 Anthony Pompliano
 
-👁️ 16K • 👍 625 • ⏱️ 30:04 • 10h ago
+👁️ 16K • 👍 625 • ⏱️ 30:04 • 11h ago
 
 ---
 
@@ -336,7 +336,7 @@ Bitcoin is at a massive crossroads, and the charts are telling a different story
 
 📺 Gareth Soloway
 
-👁️ 39K • 👍 3K • 💬 656 • ⏱️ 9:04 • 11h ago
+👁️ 39K • 👍 3K • 💬 656 • ⏱️ 9:04 • 12h ago
 
 ---
 
@@ -346,7 +346,7 @@ Unicoin founder and chief strategy officer Silvina Moschini discusses crypto leg
 
 📺 Fox Business Clips
 
-👁️ 123K • 👍 2K • 💬 830 • ⏱️ 7:19 • 17h ago
+👁️ 123K • 👍 2K • 💬 830 • ⏱️ 7:19 • 18h ago
 
 ---
 
@@ -356,7 +356,7 @@ Take Control of Your Retirement — Grow Crypto & Gold Tax-Advantaged. https://w
 
 📺 Savvy Finance
 
-👁️ 3K • 👍 178 • 💬 13 • ⏱️ 21:44 • 6h ago
+👁️ 3K • 👍 178 • 💬 13 • ⏱️ 21:44 • 7h ago
 
 ---
 
@@ -376,7 +376,7 @@ Today, let's examine Bitcoin's charts and metrics, as well as the latest Macro a
 
 📺 CryptosRUs
 
-👁️ 34K • 👍 1K • 💬 259 • ⏱️ 38:00 • 15h ago
+👁️ 34K • 👍 1K • 💬 259 • ⏱️ 38:00 • 16h ago
 
 ---
 
@@ -386,7 +386,7 @@ Leading advocacy groups from across the US digital asset sector have urged the F
 
 📺 Paul Barron Network
 
-👁️ 63K • 👍 3K • 💬 266 • ⏱️ 13:21 • 11h ago
+👁️ 63K • 👍 3K • 💬 266 • ⏱️ 13:21 • 12h ago
 
 ---
 
@@ -396,7 +396,7 @@ The Dollar is breaking and the "Sell America" trade is officially on. While the 
 
 📺 Crypto Banter
 
-👁️ 33K • 👍 2K • 💬 58 • ⏱️ 26:12 • 16h ago
+👁️ 33K • 👍 2K • 💬 58 • ⏱️ 26:12 • 17h ago
 
 ---
 

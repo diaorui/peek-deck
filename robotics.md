@@ -3,7 +3,7 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-01-29T08:00:43.891175+00:00'
+updated: '2026-01-29T09:07:08.057625+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
@@ -17,7 +17,7 @@ data_types:
 
 Robotics research and industry news
 
-**Last Updated:** January 29, 2026 at 08:00 UTC  
+**Last Updated:** January 29, 2026 at 09:07 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -34,13 +34,13 @@ Robotics research and industry news
 
 **[Figure 03 handling glassware, fully autonomous](https://www.reddit.com/r/robotics/comments/1qpn1dq/figure_03_handling_glassware_fully_autonomous/)**
 
-11h ago
+12h ago
 
 ---
 
 **[Dexterous robotic hands: 2009 - 2014 - 2025](https://www.reddit.com/r/robotics/comments/1qp7z15/dexterous_robotic_hands_2009_2014_2025/)**
 
-21h ago
+22h ago
 
 ---
 
@@ -48,7 +48,7 @@ Robotics research and industry news
 
 We are building a 3d-printable animatronics robots, Mostly the same 3d printed parts lets you assemble different animal robots, and we are trying to make it on the cheapest way possible (less than $50 is the target). Current list: Robotic dog Spider Robotic arm So far 300 people downloaded it from GrabCAD and Instructables, Got some positive feedbacks. And feedbacks to making the walking more smoother(Planning to add spring and weights) and assembly a bit easier(Planning for a snap fit). Why this post? We are currently working on the V2 of it, We are trying to put the design Infront of as many peoples and get their thoughts, ideas for new animals, making existing much better. Will appreciate any inputs. Link for files : https://grabcad.com/library/diy-robotic-dog-1 Assembly : https://www.instructables.com/Trix/ Reposting it here, Haven't got any replies last time 💀
 
-19h ago
+20h ago
 
 ---
 
@@ -56,7 +56,15 @@ We are building a 3d-printable animatronics robots, Mostly the same 3d printed p
 
 Former iRobot CEO Colin Angle talks about how robotics isn’t really a single “thing,” and that defaulting to humanoids as the mental model ends up flattening what’s actually going on in the field. He ties it back to his time at iRobot and how a lot of success or failure came down to very specific questions about value and trust, not form factor. Amazon attempted to acquire the declining company from bankruptcy but after an 18-month process the deal fell through. Angle is now with another company.
 
-15h ago
+16h ago
+
+---
+
+**[This humanoid robot learned realistic lip movements by watching YouTube](https://www.reddit.com/r/robotics/comments/1qq2est/this_humanoid_robot_learned_realistic_lip/)**
+
+Engineers have trained a new humanoid robot to perform realistic lip-syncing not by manually programming every movement, but by having it 'watch' hours of YouTube videos. By visually analyzing human speakers, the robot learned to match its mouth movements to audio with eerie precision.
+
+🔗 [TechSpot](https://www.techspot.com/news/110967-humanoid-robot-learns-realistic-lip-movement-watching-youtube.html) • 1h ago
 
 ---
 
@@ -64,7 +72,7 @@ Former iRobot CEO Colin Angle talks about how robotics isn’t really a single �
 
 3 x Super-Beacons as stationary beacons for precise 3D indoor positioning 1 x (Mini-RX + External Microphone + Deflector) as a mobile beacon for the drone 1 x Modem v5.1 as a central controller This is not an autonomous flight - the drone was remotely controlled. But it shows precise indoor 3D tracking capabilities for swarming drones.
 
-23h ago
+1d ago
 
 ---
 
@@ -72,7 +80,7 @@ Former iRobot CEO Colin Angle talks about how robotics isn’t really a single �
 
 Hi, it's Emre from the Asimov team. I've been sharing our daily humanoid progress here, and thanks for your support along the way! We've open-sourced the leg design with CAD files, actuator list, and XML files for simulation. Now we're sharing a writeup on how we built it. Quick intro: Asimov is an open-source humanoid robot. We only have legs right now and are planning to finalize the full body by March 2026. It's going to be modular, so you can build the parts you need. Selling the robot isn't our priority right now. https://preview.redd.it/ljxqu6pdk2gg1.png?width=2000&format=png&auto=webp&s=71c244fb3cfc31cd5a768b7b1488babd8e04dcc0 Each leg has 6 DOF. The complete legs subsystem costs just over $10k, roughly $8.5k for actuators and joint parts, the rest for batteries and control modules. We designed for modularity and low-volume manufacturing. Most structural parts are compatible with MJF 3D printing. The only CNC requirement is the knee plate, which we simplified from a two-part assembly to a single plate. Actuators & Motors list and design files: https://github.com/asimovinc/asimov-v0 https://preview.redd.it/zalsj3eik2gg1.png?width=1200&format=png&auto=webp&s=734adca3a9d1c928acbf75cd95e44c3d4640ed93 We chose a parallel RSU ankle rather than a simple serial ankle. RSU gives us two-DOF ankles with both roll and pitch. Torque sharing between two motors means we can place heavy components closer to the hip, which improves rigidity and backdrivability. Linear actuators would have been another option, higher strength, more tendon-like look, but slower and more expensive. We added a toe joint that's articulated but not actuated. During push-off, the toe rocker helps the foot roll instead of pivoting on a rigid edge. Better traction, better forward propulsion, without adding another powered joint. https://preview.redd.it/skiqez2gk2gg1.png?width=1200&format=png&auto=webp&s=59d8951c9d20d2a10f547879a346c65e5b2e0bcf Our initial hip-pitch actuator was mounted at 45 degrees. This limited hip flexion and made sitting impossible. We're moving to a horizontal mount to recover range of motion. We're also upgrading ankle pivot components from aluminum to steel, and tightening manufacturing tolerances after missing some holes in early builds. https://preview.redd.it/o5wrtthkk2gg1.png?width=1200&format=png&auto=webp&s=5bebbe9c662e8e0a15ac6ea6b788530d0d1d66fd Next up is the upper body. We're working on arms and torso in parallel, targeting full-body integration by March. The complete robot will have 26 DOF and come in under 40kg. Sneak industrial design render of complete Asimov humanoid. Full writeup with diagrams and specs here: https://news.asimov.inc/p/how-we-built-humanoid-legs-from-the
 
-21h ago
+22h ago
 
 ---
 
@@ -100,14 +108,6 @@ Meet Sprout. Fauna Robotics are releasing a new kind of robotics platform. One d
 
 ---
 
-**[RealSense SDK R57.6 beta released to the public](https://www.reddit.com/r/robotics/comments/1qpevp8/realsense_sdk_r576_beta_released_to_the_public/)**
-
-https://preview.redd.it/n53edwy524gg1.png?width=1536&format=png&auto=webp&s=dda898b9083d32b4a1a5d7312ac7040b4121986c SDK GitHub Release: https://github.com/IntelRealSense/librealsense/releases/tag/v2.57.6 ROS GitHub Release: https://github.com/realsenseai/realsense-ros/releases/tag/4.57.6 Python wheels uploaded to: https://pypi.org/project/pyrealsense2-beta/
-
-16h ago
-
----
-
 ---
 
 ## Google News: "robotics"
@@ -120,9 +120,27 @@ NASA (.gov) • 1d ago
 
 ---
 
-**[Synthetic 'muscle' with microfluidic blood vessels shows promise for soft robotics](https://techxplore.com/news/2026-01-synthetic-muscle-microfluidic-blood-vessels.html)**
+**[Tesla discontinues Model X and S vehicles as Elon Musk pivots to robotics](https://www.theguardian.com/technology/2026/jan/28/tesla-q4-earnings-estimates-elon-musk)**
 
-Tech Xplore • 1d ago
+Musk’s optimism for Optimus robot demand help EV maker beat quarterly expectations despite first-ever yearly revenue decline
+
+The Guardian • 10h ago
+
+---
+
+**[Forget Tesla: This EV Stock Is Beating It in Robotics and It's Dirt Cheap.](https://www.fool.com/investing/2026/01/27/forget-tesla-this-ev-stock-is-beating-tesla-in-rob/)**
+
+Boston Dynamics' Atlas appears to have an edge over Tesla's Optimus.
+
+The Motley Fool • 1d ago
+
+---
+
+**[Tesla cuts car models in shift to robots and AI](https://www.bbc.com/news/articles/c620177qdg5o)**
+
+Multi-billionaire Elon Musk also announced plans to end production of its Model S and Model X vehicles.
+
+BBC • 6h ago
 
 ---
 
@@ -134,19 +152,11 @@ The Robot Report • 2d ago
 
 ---
 
-**[Tesla discontinues Model X and S vehicles as Elon Musk pivots to robotics](https://www.theguardian.com/technology/2026/jan/28/tesla-q4-earnings-estimates-elon-musk)**
-
-Musk’s optimism for Optimus robot demand help EV maker beat quarterly expectations despite first-ever yearly revenue decline
-
-The Guardian • 9h ago
-
----
-
 **[Not ready for robots in homes? The maker of a friendly new humanoid thinks it might change your mind](https://abcnews.go.com/Technology/wireStory/ready-robots-homes-maker-friendly-new-humanoid-thinks-129594260)**
 
 A new humanoid robot named Sprout, developed by Fauna Robotics, is making its debut
 
-ABC News • 17h ago
+ABC News • 9h ago
 
 ---
 
@@ -166,27 +176,20 @@ Sherwood News • 1d ago
 
 ---
 
-**[Richtech Robotics stock soars on Microsoft AI collaboration](https://www.investing.com/news/stock-market-news/richtech-robotics-stock-soars-on-microsoft-ai-collaboration-93CH-4467587)**
+**[Richtech Robotics surges after announcing Microsoft collaboration](https://www.tradingview.com/news/reuters.com,2026:newsml_L6N3YS158:0-richtech-robotics-surges-after-announcing-microsoft-collaboration/)**
 
-Richtech Robotics stock soars on Microsoft AI collaboration
+** Shares of Richtech Robotics NASDAQ:RR surge 36% to $5.18 on Tues after co unveiled Microsoft NASDAQ:MSFT partnership** RR shares on course for steepest daily pct gain in just over a year and hit a three-month high** Las Vegas, Nevada-based firm early Tues announced "a hands-on collaboration with…
 
-Investing.com • 1d ago
-
----
-
-**[CNBC's The China Connection newsletter: China-made humanoid robots set sights on Middle East and U.S. markets](https://www.cnbc.com/2026/01/28/cnbc-china-connection-newsletter-humanoid-robots-middle-east-us-limx-tesla-optimus.html)**
-
-Chinese humanoid robot companies are expanding globally, piling pressure on Elon Musk’s Optimus before it reaches mass production.
-
-CNBC • 1d ago
+TradingView • 1d ago
 
 ---
 
-**[Watch China’s humanoid robots walk out of crates like Matrix scene](https://interestingengineering.com/ai-robotics/limx-humanoid-robots-walk-out-of-crates)**
+**[READER REPORT: Local FIRST robotics team headed into state championship thius weekend](https://westseattleblog.com/2026/01/reader-report-local-first-robotics-team-headed-into-state-championship-thius-weekend/)**
 
-LimX Dynamics showcased what it calls the world’s first practical autonomous deployment of humanoid robots, with 18 units operating without human control.
+One of our area's FIRST Robotics teams has made it into the state championship round! Thanks to Ash for the photo, report, and video:
+A LEGO robotics team called Brickrolled, made up of five students in grades 3 through 6 from Westside School, has qualified for the FIRST LEGO League Western Washington State Championship and will be represen...
 
-Interesting Engineering • 1d ago
+westseattleblog.com • 7h ago
 
 ---
 
@@ -254,7 +257,7 @@ Elon Musk revela un IMPACTANTE ROBOT CLON de Trump delante de Trump y Melania.�
 
 📺 Borunte Robot Lin 
 
-👁️ 6K • 👍 18 • ⏱️ 0:24 • 19h ago
+👁️ 6K • 👍 18 • ⏱️ 0:24 • 20h ago
 
 ---
 
@@ -264,7 +267,7 @@ Congrats to all who were voted for in the FTC Top 25 by the community! In FTC To
 
 📺 FUN Robotics Network
 
-👁️ 1K • 👍 19 • ⏱️ 47:27 • 5h ago
+👁️ 1K • 👍 19 • ⏱️ 47:27 • 6h ago
 
 ---
 
@@ -274,7 +277,7 @@ This new humanoid robot is not about hype or flashy promises. Sprout is designed
 
 📺 DPCcars
 
-👁️ 715 • 👍 34 • 💬 6 • ⏱️ 3:17 • 12h ago
+👁️ 715 • 👍 34 • 💬 6 • ⏱️ 3:17 • 13h ago
 
 ---
 
@@ -284,7 +287,7 @@ The Shenzhen startup LimX Dynamics has demonstrated what it calls a major step f
 
 📺 Kalil 4.0
 
-👁️ 1K • 👍 46 • ⏱️ 0:40 • 12h ago
+👁️ 1K • 👍 46 • ⏱️ 0:40 • 13h ago
 
 ---
 
