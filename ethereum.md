@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-01-29T11:05:28.994091+00:00'
+updated: '2026-01-29T11:53:21.088085+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- news
 - cryptocurrency
-- social
+- news
 - videos
+- social
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** January 29, 2026 at 11:05 UTC  
+**Last Updated:** January 29, 2026 at 11:53 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -80,7 +80,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 Ethereum doesn’t have a fixed “X% inflation forever” schedule. Its supply is basically the tug-of-war between: 1) ISSUANCE (new ETH paid to secure the network) 2) BURN (ETH destroyed via EIP-1559 base fee) So ETH can be inflationary in one period and deflationary in another. ------------------------------------------------------------ THE 2 BIG CHANGES ------------------------------------------------------------ A) EIP-1559 (fee burn, live since Aug 2021) - Base fee is burned (destroyed), so activity can reduce supply. B) The Merge (executed Sep 15, 2022) — issuance collapsed Ethereum.org’s issuance breakdown uses these ballpark numbers: - Pre-Merge: ~13,000 ETH/day to PoW miners (+ PoS issuance existed in parallel) - Post-Merge: ~1,700 ETH/day to PoS validators => ~88% drop in new issuance A neat rule-of-thumb from ethereum.org: - If average gas is ~16 gwei or higher on a given day, burn can roughly offset ~1,700 ETH/day issuance (net ~0 or deflation for that day). ------------------------------------------------------------ BEFORE vs AFTER: YoY SUPPLY INFLATION (REAL SUPPLY DATA) Definition here: compare today’s circulating supply vs 1 year ago (YoY % change). Here are the “regime” numbers around the Merge: 1) LAST FULL YEAR BEFORE THE MERGE (PoW era, but already with EIP-1559 burn) - Sep 15, 2021 → Sep 14, 2022: Avg YoY inflation: ~4.16% Median: ~4.32% 2) FIRST POST-MERGE YEAR - Sep 15, 2022 → Sep 14, 2023: Avg YoY inflation: ~1.06% Median: ~0.97% 3) SECOND POST-MERGE YEAR - Sep 15, 2023 → Sep 14, 2024: Avg YoY inflation: ~-0.13% (net deflation on average) (Yes, negative YoY supply change on average for a full year.) Peak “deflationary stretch” (from the dataset): - Most deflationary datapoint: ~-0.2957% annualized (around mid-2023) ------------------------------------------------------------ RECENT SUPPLY DEVELOPMENT: “NEAR ABSOLUTE ZERO” ------------------------------------------------------------ Current snapshot (latest datapoint in my YoY series): - Supply: ~120.74M ETH - YoY inflation: ~0.2371% (as of 2026-01-26) What does 0.237% mean in ETH terms? - 0.2371% of ~120.74M ≈ ~286k ETH net added over a year (order of magnitude). That’s tiny compared to the pre-Merge issuance regime. Short-term trend (last ~30 days in the YoY series): - YoY inflation drifted DOWN from ~0.2578% → ~0.2371% So it’s mildly positive right now, but cooling, not accelerating. ------------------------------------------------------------ TL;DR ------------------------------------------------------------ - Pre-Merge: ~4%+ YoY supply growth was “normal”. - Post-Merge: baseline issuance dropped massively, so burn often offsets a large chunk of it. - Result: ETH supply has been hovering around ~0% (sometimes +, sometimes -), depending on activity. Full write-up + charts + methodology: https://www.cryptoinflation.eu/how-ethereum-became-a-deflationary-asset-a-guide-to-eths-inflation-deflation/ Ethereum's inflation chart
 
-15h ago
+16h ago
 
 ---
 
@@ -94,7 +94,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 **[Ethereum’s Transition to Post-Quantum Cryptography](https://www.reddit.com/r/ethereum/comments/1qpkqdl/ethereums_transition_to_postquantum_cryptography/)**
 
-15h ago
+16h ago
 
 ---
 
@@ -102,7 +102,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 Sorry if it was asked by past, i couldn't find the answer. Question about Lido stETH unstaking instantly, without delay I am having stETH staked on my Ledger Nano X that i'm trying to unstake but on lido page it takes up to a week, isn't there a way to process it faster? Advices appreciated
 
-21h ago
+22h ago
 
 ---
 
@@ -150,7 +150,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 The Federal Reserve held its benchmark interest rate steady, as two Trump-appointed members of the FOMC advocated for another cut.
 
-Decrypt • 15h ago
+Decrypt • 16h ago
 
 ---
 
@@ -166,7 +166,7 @@ The Block • 1d ago
 
 Tom Lee has urged investors not to let the rally in gold and silver divert attention from Ethereum. BitMine continues to build its Ethereum position. ...
 
-Yahoo Finance • 1h ago
+Yahoo Finance • 2h ago
 
 ---
 
@@ -182,7 +182,7 @@ Yahoo Finance • 2d ago
 
 Gold and silver’s surge has overshadowed Bitcoin and Ethereum fundamentals, says Tom Lee, who forecasts an incoming crypto price rally.
 
-CCN.com • 1d ago
+CCN.com • 2d ago
 
 ---
 
@@ -244,7 +244,7 @@ Fidelity launches their own stablecoin on one of the B.E.S.T. The links below ma
 
 📺 Digital Asset News
 
-👁️ 6K • 👍 425 • 💬 26 • ⏱️ 14:06 • 14h ago
+👁️ 6K • 👍 425 • 💬 26 • ⏱️ 14:06 • 15h ago
 
 ---
 
@@ -254,7 +254,7 @@ My FREE Daily On-Chain Analysis & Crypto News In 5-Mins: https://www.cryptonutsh
 
 📺 Jamie Tree 
 
-👁️ 2K • 👍 56 • 💬 55 • ⏱️ 16:47 • 16h ago
+👁️ 2K • 👍 56 • 💬 55 • ⏱️ 16:47 • 17h ago
 
 ---
 
@@ -274,7 +274,7 @@ BITCOIN JUST REJECTED: THIS IS NEXT (Prepare Now)!!! - Bitcoin News Today, Ether
 
 📺 Crypto World
 
-👁️ 5K • 👍 220 • 💬 111 • ⏱️ 16:28 • 11h ago
+👁️ 5K • 👍 220 • 💬 111 • ⏱️ 16:28 • 12h ago
 
 ---
 
@@ -304,7 +304,7 @@ This video provides a professional Elliott Wave and technical analysis of Ethere
 
 📺 More Crypto Online
 
-👁️ 2K • 👍 116 • 💬 6 • ⏱️ 5:44 • 17h ago
+👁️ 2K • 👍 116 • 💬 6 • ⏱️ 5:44 • 18h ago
 
 ---
 
@@ -314,7 +314,7 @@ Welcome to Czar Gets Crypto! Please note the following: Educational Purposes Onl
 
 📺 C-Zar Gets Crypto 
 
-👁️ 347 • 👍 21 • 💬 45 • ⏱️ 6:12 • 18h ago
+👁️ 347 • 👍 21 • 💬 45 • ⏱️ 6:12 • 19h ago
 
 ---
 

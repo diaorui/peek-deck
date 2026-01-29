@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-01-29T11:05:28.979663+00:00'
+updated: '2026-01-29T11:53:21.073723+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
 - repositories
 - news
-- social
 - videos
+- social
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** January 29, 2026 at 11:05 UTC  
+**Last Updated:** January 29, 2026 at 11:53 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -47,13 +47,13 @@ AI news, discussions, and developments
 
 Amazon is laying off 16,000 employees as AI battle intensifies.[1] Google adds Gemini AI-powered ‘auto browse’ to Chrome.[2] AI tool AlphaGenome predicts how one typo can change a genetic story.[3] Alibaba Introduces Qwen3-Max-Thinking, a Test Time Scaled Reasoning Model with Native Tool Use Powering Agentic Workloads.[4] Sources: [1] https://www.cnn.com/2026/01/28/tech/amazon-layoffs-ai#openweb-convo [2] https://www.theverge.com/news/869731/google-gemini-ai-chrome-auto-browse [3] https://www.sciencenews.org/article/ai-tool-alphagenome-predicts-genetics [4] https://www.marktechpost.com/2026/01/28/alibaba-introduces-qwen3-max-thinking-a-test-time-scaled-reasoning-model-with-native-tool-use-powering-agentic-workloads/
 
-5h ago
+6h ago
 
 ---
 
 **[DeepSeek releases DeepSeek-OCR 2. 🐋](https://www.reddit.com/r/artificial/comments/1qpw4tw/deepseek_releases_deepseekocr_2/)**
 
-8h ago
+9h ago
 
 ---
 
@@ -61,7 +61,7 @@ Amazon is laying off 16,000 employees as AI battle intensifies.[1] Google adds G
 
 Hello 👋🏼 I Built a script that deploys MoltBot (open source personal AI assistant) to Fly.io, in one command: curl -fsSL https://raw.githubusercontent.com/blissito/moltbot-flyio/main/install.sh | bash What you get: - Your own (Claude/OpenAI/any)-powered assistant running 24/7 - WhatsApp integration (scan QR, done) 🤯 - Web dashboard to manage everything - One machine on Fly.io (free tier works to start) The installer handles: - Fly.io app creation - Persistent volume for data - Secrets configuration - 4GB RAM setup (2GB causes OOM) - Gateway token generation You just need: - Fly.io account (free) & flyctl installed - Anthropic/OpenAI API key GitHub: https://github.com/blissito/moltbot-flyio ¿Why? It just makes Moltbot cloud deployment dead simple. 🤷🏻‍♂️ If you liked it, give it a star ⭐️ or a PR if you find a bug, it's open source. 🤓
 
-6h ago
+7h ago
 
 ---
 
@@ -69,7 +69,7 @@ Hello 👋🏼 I Built a script that deploys MoltBot (open source personal AI as
 
 DeepMind’s AlphaGenome AI model could help solve the problem of predicting how variations in noncoding DNA shape gene expression
 
-🔗 [Scientific American](https://www.scientificamerican.com/article/google-deepmind-unleashes-new-ai-alphagenome-to-investigate-dnas-dark-matter/) • 18h ago
+🔗 [Scientific American](https://www.scientificamerican.com/article/google-deepmind-unleashes-new-ai-alphagenome-to-investigate-dnas-dark-matter/) • 19h ago
 
 ---
 
@@ -77,7 +77,7 @@ DeepMind’s AlphaGenome AI model could help solve the problem of predicting how
 
 AI agents are getting really good at doing things, but they're completely blind to their physical surroundings. If you walk into a hotel and you have an AI assistant (like the Chatgpt mobile app), it has no idea there may be a concierge agent on the network that could help you book a spa, check breakfast times, or request late checkout. Same thing at offices, hospitals, cruise ships. The agents are there, but there's no way to discover them. A2A (Google's agent-to-agent protocol) handles how agents talk to each other. MCP handles how agents use tools. But neither answers a basic question: how do you find agents in the first place? So I built LAD-A2A, a simple discovery protocol. When you connect to a Wi-Fi, your agent can automatically find what's available using mDNS (like how AirDrop finds nearby devices) or a standard HTTP endpoint. The spec is intentionally minimal. I didn't want to reinvent A2A or create another complex standard. LAD-A2A just handles discovery, then hands off to A2A for actual communication. Open source, Apache 2.0. Includes a working Python implementation you can run to see it in action. Repo can be found at franzvill/lad. Curious what people think!
 
-14h ago
+15h ago
 
 ---
 
@@ -85,7 +85,7 @@ AI agents are getting really good at doing things, but they're completely blind 
 
 A researcher has created a chatbot that is indistinguishable from human participants in online surveys. Some researchers fear that a workhorse of social science is now under threat.
 
-🔗 [nature.com](https://www.nature.com/articles/d41586-026-00221-8) • 17h ago
+🔗 [nature.com](https://www.nature.com/articles/d41586-026-00221-8) • 18h ago
 
 ---
 
@@ -93,7 +93,7 @@ A researcher has created a chatbot that is indistinguishable from human particip
 
 I just saw a post discussing clawdbot, about someone not finding a usecase for automating tasks and I realised I too simply can't find anything that I need to automate. I'd love to hear what y'all find automatable. Could this just end up being a very niche feature.
 
-18h ago
+19h ago
 
 ---
 
@@ -119,7 +119,7 @@ Tried ClawdBot (now MoltBot) on a freshly installed system. At first? 🔥 Insan
 
 Multi-billionaire Elon Musk also announced plans to end production of its Model S and Model X vehicles.
 
-BBC • 8h ago
+BBC • 9h ago
 
 ---
 
@@ -127,7 +127,7 @@ BBC • 8h ago
 
 Elon Musk’s electric-car maker invests $2bn in the billionaire’s xAI
 
-Financial Times • 13h ago
+Financial Times • 14h ago
 
 ---
 
@@ -135,7 +135,7 @@ Financial Times • 13h ago
 
 Tesla just wrapped up its earnings call for the 2025 fiscal year, in which it recorded that its year-on-year profits dropped by nearly half. Its GAAP net income came to US$3.8 billion, down from $7.1 billion in 2024, representing a 46% decline. Oof.
 
-New Atlas • 28m ago
+New Atlas • 1h ago
 
 ---
 
@@ -159,7 +159,7 @@ Axios • 1h ago
 
 Meta's stock pop following the company's latest earnings beat is a sign that investors are OK with hefty AI spending as long as the core business stays strong.
 
-CNBC • 10h ago
+CNBC • 11h ago
 
 ---
 
@@ -167,7 +167,7 @@ CNBC • 10h ago
 
 Firm’s fourth-quarter 2025 beat expectations as it lavishes investment on AI infrastructure and CEO faces questioning
 
-The Guardian • 10h ago
+The Guardian • 11h ago
 
 ---
 
@@ -183,13 +183,13 @@ Gizmodo • 1h ago
 
 Revenue rises 17% to a record $81bn, but 66% surge in capital expenditures revives debate about returns on vast AI costs
 
-Financial Times • 13h ago
+Financial Times • 14h ago
 
 ---
 
 **[Meta Overshadows Microsoft by Showing AI Payoff in Ad Business](https://www.wsj.com/tech/ai/meta-overshadows-microsoft-by-showing-ai-payoff-in-ad-business-39f392e0?gaa_at=eafs&gaa_n=AWEtsqdSKzaJH6q3lsEH9nwFWCW46MYEhh0ow6Cx5wZYXP9v8boTIHzLv_nm&gaa_ts=697b425f&gaa_sig=FlQyFx0EK-WUHd4Hr7f-OABDWy5CYfUEo90nW4EWBuTpuY0NMmv_409yE4JrY_yY-3i5-UImD4xRva3sJ1EGXg%3D%3D)**
 
-The Wall Street Journal • 35m ago
+The Wall Street Journal • 1h ago
 
 ---
 
@@ -217,7 +217,7 @@ Apple today unveiled the new AirTag, now with an expanded finding range and a lo
 - - —
 Guys, enough is enough. Bullying is a s...
 
-⬆️ 576 • 💬 264 • 11h ago • [McSweeney's Internet Tendency](https://www.mcsweeneys.net/articles/please-dont-say-mean-things-about-the-ai-that-i-just-invested-a-billion-dollars-in)
+⬆️ 576 • 💬 264 • 12h ago • [McSweeney's Internet Tendency](https://www.mcsweeneys.net/articles/please-dont-say-mean-things-about-the-ai-that-i-just-invested-a-billion-dollars-in)
 
 ---
 
@@ -225,7 +225,7 @@ Guys, enough is enough. Bullying is a s...
 
 Interactive article explaining the physics of an airfoil and what makes airplanes fly
 
-⬆️ 468 • 💬 51 • 20h ago • [ciechanow.ski](https://ciechanow.ski/airfoil/)
+⬆️ 468 • 💬 51 • 21h ago • [ciechanow.ski](https://ciechanow.ski/airfoil/)
 
 ---
 
@@ -241,7 +241,7 @@ Exclusive: German research into responses to health queries raises fresh questio
 
 Or, as they like to call it, the 'AI Skills Hub'. Which was built by PwC because of course it was
 
-⬆️ 359 • 💬 128 • 11h ago • [Mahad Kalam](https://mahadk.com/posts/ai-skills-hub)
+⬆️ 359 • 💬 128 • 12h ago • [Mahad Kalam](https://mahadk.com/posts/ai-skills-hub)
 
 ---
 
@@ -295,7 +295,7 @@ Try Kimi K2.5 for free this week on Kilo Code! Download the VS Code extension, s
 
 📺 WorldofAI
 
-👁️ 2K • 👍 117 • 💬 9 • ⏱️ 8:50 • 3h ago
+👁️ 2K • 👍 117 • 💬 9 • ⏱️ 8:50 • 4h ago
 
 ---
 
@@ -315,7 +315,7 @@ Nobel Prize winner Geoffrey Hinton, the physicist known for his pioneering work 
 
 📺 LBC
 
-👁️ 34K • 👍 722 • 💬 524 • ⏱️ 8:50 • 13h ago
+👁️ 34K • 👍 722 • 💬 524 • ⏱️ 8:50 • 14h ago
 
 ---
 
@@ -355,7 +355,7 @@ On stage at Imagination In Action's AI Summit in Davos with John Werner, founder
 
 📺 Forbes
 
-👁️ 5K • 👍 194 • 💬 44 • ⏱️ 29:11 • 13h ago
+👁️ 5K • 👍 194 • 💬 44 • ⏱️ 29:11 • 14h ago
 
 ---
 
@@ -391,7 +391,7 @@ PersonaPlex-7B-v1 is a real-time, full-duplex speech-to-speech conversational mo
 
 `audio-to-audio`
 
-⬇️ 50,776 • ❤️ 1,398 • 11h ago
+⬇️ 50,776 • ❤️ 1,398 • 12h ago
 
 ---
 
@@ -403,7 +403,7 @@ Kimi K2.5 is a native multimodal agentic model with 1T parameters, excelling in 
 
 `image-text-to-text`
 
-⬇️ 21,428 • ❤️ 975 • 1h ago
+⬇️ 21,428 • ❤️ 975 • 2h ago
 
 ---
 
@@ -439,7 +439,7 @@ Z-Image is an undistilled, high-fidelity text-to-image diffusion transformer mod
 
 `text-to-image`
 
-⬇️ 1,206 • ❤️ 622 • 20h ago
+⬇️ 1,206 • ❤️ 622 • 21h ago
 
 ---
 
@@ -463,7 +463,7 @@ GLM-4.7-Flash is a 30B-A3B MoE model, offering strong performance in the 30B cla
 
 `text-generation` `31.2B`
 
-⬇️ 609,013 • ❤️ 1,311 • 2h ago
+⬇️ 609,013 • ❤️ 1,311 • 3h ago
 
 ---
 
@@ -543,7 +543,7 @@ A Vision-Language-Action model trained on extensive real-world robotic data demo
 
 LingBot-Depth is a depth completion model that uses visual context to refine depth maps through masked depth modeling and automated data curation for improved spatial perception in robotics and autonomous systems.
 
-▲ 20 • 💬 3 • ⭐ 490 • 3d ago
+▲ 20 • 💬 3 • ⭐ 490 • 4d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2601.17895) • [💻 code](https://github.com/Robbyant/lingbot-depth) • [🔗 project](https://technology.robbyant.com/lingbot-depth)
 
@@ -581,7 +581,7 @@ VibeVoice synthesizes long-form multi-speaker speech using next-token diffusion 
 
 A suite of open-source music foundation models is introduced, featuring components for audio-text alignment, lyric recognition, music coding, and large language model-based song generation with controllable attributes and scalable parameterization.
 
-▲ 39 • 💬 4 • ⭐ 2,340 • 13d ago
+▲ 39 • 💬 4 • ⭐ 2,340 • 14d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2601.10547) • [💻 code](https://github.com/HeartMuLa/heartlib) • [🔗 project](https://heartmula.github.io/)
 
@@ -647,7 +647,7 @@ Browser automation CLI for AI agents
 
 `TypeScript`
 
-⭐ 11.3k • 🔱 626 • 17h ago
+⭐ 11.3k • 🔱 626 • 18h ago
 
 ---
 
@@ -657,7 +657,7 @@ AI → JSON → UI
 
 `TypeScript`
 
-⭐ 9.6k • 🔱 507 • 19h ago
+⭐ 9.6k • 🔱 507 • 20h ago
 
 ---
 
@@ -677,7 +677,7 @@ LLM驱动的 A/H/美股智能分析器，多数据源行情 + 实时新闻 + Gem
 
 `Python` `agent` `ai` `aigc` `gemini` `llm`
 
-⭐ 6.7k • 🔱 7.4k • 20h ago
+⭐ 6.7k • 🔱 7.4k • 21h ago
 
 ---
 
@@ -687,7 +687,7 @@ LLM驱动的 A/H/美股智能分析器，多数据源行情 + 实时新闻 + Gem
 
 `Vue`
 
-⭐ 6.6k • 🔱 1.2k • 20h ago
+⭐ 6.6k • 🔱 1.2k • 21h ago
 
 ---
 
@@ -707,7 +707,7 @@ The Ultimate Collection of 500+ Agentic Skills for Claude Code/Antigravity/Curso
 
 `Python` `agentic-skills` `ai-agents` `antigravity` `autonomous-coding` `claude-code`
 
-⭐ 5.1k • 🔱 1.2k • 4h ago
+⭐ 5.1k • 🔱 1.2k • 5h ago
 
 ---
 

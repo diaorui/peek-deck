@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-01-29T11:05:28.997304+00:00'
+updated: '2026-01-29T11:53:21.091246+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
 - news
-- social
 - videos
+- social
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** January 29, 2026 at 11:05 UTC  
+**Last Updated:** January 29, 2026 at 11:53 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -34,7 +34,7 @@ Robotics research and industry news
 
 **[Figure 03 handling glassware, fully autonomous](https://www.reddit.com/r/robotics/comments/1qpn1dq/figure_03_handling_glassware_fully_autonomous/)**
 
-14h ago
+15h ago
 
 ---
 
@@ -56,7 +56,7 @@ We are building a 3d-printable animatronics robots, Mostly the same 3d printed p
 
 Former iRobot CEO Colin Angle talks about how robotics isn’t really a single “thing,” and that defaulting to humanoids as the mental model ends up flattening what’s actually going on in the field. He ties it back to his time at iRobot and how a lot of success or failure came down to very specific questions about value and trust, not form factor. Amazon attempted to acquire the declining company from bankruptcy but after an 18-month process the deal fell through. Angle is now with another company.
 
-18h ago
+19h ago
 
 ---
 
@@ -64,7 +64,7 @@ Former iRobot CEO Colin Angle talks about how robotics isn’t really a single �
 
 Engineers have trained a new humanoid robot to perform realistic lip-syncing not by manually programming every movement, but by having it 'watch' hours of YouTube videos. By visually analyzing human speakers, the robot learned to match its mouth movements to audio with eerie precision.
 
-🔗 [TechSpot](https://www.techspot.com/news/110967-humanoid-robot-learns-realistic-lip-movement-watching-youtube.html) • 3h ago
+🔗 [TechSpot](https://www.techspot.com/news/110967-humanoid-robot-learns-realistic-lip-movement-watching-youtube.html) • 4h ago
 
 ---
 
@@ -96,7 +96,7 @@ Hey all, a quick showcase of the Sprout robot from Fauna Robotics. I’m a postd
 
 From Lukas Ziegler on 𝕏: https://x.com/lukas_m_ziegler/status/2016112237019042259 AgXeed website: https://www.agxeed.com/
 
-1d ago
+2d ago
 
 ---
 
@@ -130,7 +130,7 @@ Tech Xplore • 1d ago
 
 Musk’s optimism for Optimus robot demand help EV maker beat quarterly expectations despite first-ever yearly revenue decline
 
-The Guardian • 12h ago
+The Guardian • 13h ago
 
 ---
 
@@ -138,7 +138,7 @@ The Guardian • 12h ago
 
 Investors liked what they heard about the future following the company's latest results, but Elon Musk is under huge pressure to deliver on his vision as a series of targets have been missed.
 
-Sky News • 3h ago
+Sky News • 4h ago
 
 ---
 
@@ -146,7 +146,7 @@ Sky News • 3h ago
 
 Multi-billionaire Elon Musk also announced plans to end production of its Model S and Model X vehicles.
 
-BBC • 8h ago
+BBC • 9h ago
 
 ---
 
@@ -170,7 +170,7 @@ ABC News • 1d ago
 
 Sprout is a humanoid robot designed to be “physically safe and socially approachable.”
 
-The Verge • 19h ago
+The Verge • 20h ago
 
 ---
 
@@ -264,7 +264,7 @@ Congrats to all who were voted for in the FTC Top 25 by the community! In FTC To
 
 📺 FUN Robotics Network
 
-👁️ 1K • 👍 20 • ⏱️ 47:27 • 8h ago
+👁️ 1K • 👍 20 • ⏱️ 47:27 • 9h ago
 
 ---
 
@@ -274,7 +274,7 @@ Inside a vast industrial granary, a sleek, futuristic-looking robot with vibrant
 
 📺 Working Planet Shorts
 
-👁️ 8K • 👍 29 • ⏱️ 0:06 • 6h ago
+👁️ 8K • 👍 29 • ⏱️ 0:06 • 7h ago
 
 ---
 

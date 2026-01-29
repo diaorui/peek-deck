@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-01-29T11:05:28.988085+00:00'
+updated: '2026-01-29T11:53:21.082080+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- news
 - cryptocurrency
-- social
+- news
 - videos
+- social
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** January 29, 2026 at 11:05 UTC  
+**Last Updated:** January 29, 2026 at 11:53 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -81,7 +81,7 @@ Rank #1
 
 Crazy to think I owned 18.2 btc in early 2020 and sold before it reach 73 something I think it was. Now I live check to check. HODL your investments, don’t sell
 
-5h ago
+6h ago
 
 ---
 
@@ -97,7 +97,7 @@ What are you doing with your time. You’re saving pieces of paper with numbers 
 
 Source: Blossom Social
 
-12h ago
+13h ago
 
 ---
 
@@ -111,31 +111,31 @@ I gotta stop getting hammered before I trade, But its sooooo profitable.. .
 
 **[This is unbearable](https://www.reddit.com/r/Bitcoin/comments/1qphgpc/this_is_unbearable/)**
 
-17h ago
+18h ago
 
 ---
 
 **[The single email that changed the course of history.](https://www.reddit.com/r/Bitcoin/comments/1qpqemf/the_single_email_that_changed_the_course_of/)**
 
-12h ago
+13h ago
 
 ---
 
 **[Hodling nonstop](https://www.reddit.com/r/Bitcoin/comments/1qpxk52/hodling_nonstop/)**
 
-7h ago
+8h ago
 
 ---
 
 **[😂](https://www.reddit.com/r/Bitcoin/comments/1qq31l2/_/)**
 
-2h ago
+3h ago
 
 ---
 
 **[They want all out retirement savings in this system](https://www.reddit.com/r/Bitcoin/comments/1qpzr12/they_want_all_out_retirement_savings_in_this/)**
 
-5h ago
+6h ago
 
 ---
 
@@ -143,7 +143,7 @@ I gotta stop getting hammered before I trade, But its sooooo profitable.. .
 
 Historically, the most significant portion of Bitcoin's gains come in just 10 trading days out of an entire calendar year. Most of the time in Bitcoin is spent going sideways or down. It will shake out all weak hands and tourists, and punish anyone with high time preference. Then it will reward the patience of those who spend their time studying and growing their conviction (and touching grass) during the boring or bear markets. Act accordingly
 
-15h ago
+16h ago
 
 ---
 
@@ -155,7 +155,7 @@ Historically, the most significant portion of Bitcoin's gains come in just 10 tr
 
 Crypto prices stabilized after an early-week dip, but bitcoin continued to trail gold and silver as macro trades dominated after the Fed’s policy hold.
 
-CoinDesk • 5h ago
+CoinDesk • 6h ago
 
 ---
 
@@ -163,7 +163,7 @@ CoinDesk • 5h ago
 
 Gold fans rushed in to buy as the Fed chair said he took no macro signal from the raging bull market in precious metals.
 
-CoinDesk • 13h ago
+CoinDesk • 14h ago
 
 ---
 
@@ -171,7 +171,7 @@ CoinDesk • 13h ago
 
 Gold surged to new all-time highs above $5,500. Bitcoin has dropped sharply below $90,000, erasing 2026 gans. Investors favor physical gold for stability while selling ...
 
-Yahoo Finance • 48m ago
+Yahoo Finance • 1h ago
 
 ---
 
@@ -193,7 +193,7 @@ Fast Company • 1h ago
 
 **[Bitcoin Falls below $88,000. Why Cryptos Can’t Keep Up With Gold.](https://www.barrons.com/articles/bitcoin-price-xrp-ether-cryptos-630f4d22?gaa_at=eafs&gaa_n=AWEtsqdHHzrjjqESQ1PP-sZvyHd-2PnhBD4kx0PilhZ30UufHmjap8oioGdB&gaa_ts=697b4261&gaa_sig=ez8X01cWCw3zSSYJuR7E2ZkacSZwaUiVcETx71_KoUZyqMot9MC7ReM14a-fSzW7BUcMj7d_vE90oS7ISc3eig%3D%3D)**
 
-Barron's • 6m ago
+Barron's • 54m ago
 
 ---
 
@@ -260,7 +260,7 @@ A list of known attacks against Bitcoin / crypto asset owning entities that occu
 
 For years, crypto investors have waited for a familiar miracle. Altcoin season. The moment when small coins suddenly outrun Bitcoin,
 
-⬆️ 1 • 💬 0 • 1d ago • [The Bit Gazette](https://thebitgazette.com/why-altcoin-season-may-not-happen-in-2026-as-bitcoin-keeps-control/)
+⬆️ 1 • 💬 0 • 2d ago • [The Bit Gazette](https://thebitgazette.com/why-altcoin-season-may-not-happen-in-2026-as-bitcoin-keeps-control/)
 
 ---
 
@@ -282,7 +282,7 @@ Transform HN comment threads into executive intelligence. AI analyzes discussion
 
 Reporting on Fintech, Crypto, and Blockchain Activity in Africa
 
-⬆️ 1 • 💬 0 • 16h ago • [BitKE](https://bitcoinke.io/2026/01/ozow-announces-payments-solution-by-moneybadger/)
+⬆️ 1 • 💬 0 • 17h ago • [BitKE](https://bitcoinke.io/2026/01/ozow-announces-payments-solution-by-moneybadger/)
 
 ---
 
@@ -294,7 +294,7 @@ Reporting on Fintech, Crypto, and Blockchain Activity in Africa
 
 **[Show HN: We built a type-safe Python ORM for RedisGraph/FalkorDB](https://news.ycombinator.com/item?id=46796602)**
 
-⬆️ 5 • 💬 5 • 19h ago
+⬆️ 5 • 💬 5 • 20h ago
 
 ---
 
@@ -314,7 +314,7 @@ This is not Bitcoin going up. This is the dollar breaking down in real time. A d
 
 📺 Simply Bitcoin
 
-👁️ 25K • 👍 2K • 💬 315 • ⏱️ 15:53 • 11h ago
+👁️ 25K • 👍 2K • 💬 315 • ⏱️ 15:53 • 12h ago
 
 ---
 
@@ -334,7 +334,7 @@ Bitcoin is at a massive crossroads, and the charts are telling a different story
 
 📺 Gareth Soloway
 
-👁️ 43K • 👍 3K • 💬 675 • ⏱️ 9:04 • 14h ago
+👁️ 43K • 👍 3K • 💬 675 • ⏱️ 9:04 • 15h ago
 
 ---
 
@@ -354,7 +354,7 @@ Take Control of Your Retirement — Grow Crypto & Gold Tax-Advantaged. https://w
 
 📺 Savvy Finance
 
-👁️ 4K • 👍 226 • 💬 13 • ⏱️ 21:44 • 9h ago
+👁️ 4K • 👍 226 • 💬 13 • ⏱️ 21:44 • 10h ago
 
 ---
 
@@ -364,7 +364,7 @@ Today, let's examine Bitcoin's charts and metrics, as well as the latest Macro a
 
 📺 CryptosRUs
 
-👁️ 34K • 👍 2K • 💬 261 • ⏱️ 38:00 • 18h ago
+👁️ 34K • 👍 2K • 💬 261 • ⏱️ 38:00 • 19h ago
 
 ---
 
@@ -394,7 +394,7 @@ The Dollar is breaking and the "Sell America" trade is officially on. While the 
 
 📺 Crypto Banter
 
-👁️ 35K • 👍 2K • 💬 60 • ⏱️ 26:12 • 19h ago
+👁️ 35K • 👍 2K • 💬 60 • ⏱️ 26:12 • 20h ago
 
 ---
 
