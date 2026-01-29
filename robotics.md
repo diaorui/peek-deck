@@ -3,7 +3,7 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-01-29T22:28:58.090000+00:00'
+updated: '2026-01-29T22:57:22.641660+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
@@ -17,7 +17,7 @@ data_types:
 
 Robotics research and industry news
 
-**Last Updated:** January 29, 2026 at 22:28 UTC  
+**Last Updated:** January 29, 2026 at 22:57 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -50,7 +50,7 @@ Working on my first robotics build at the moment and easing my way into it. Any 
 
 We want to build a community of robotics and computer vision developers who want to share their algorithms and SOTA models to be used by the industry. The idea is to have a large scale, common repo, where devs contribute their SOTA models and algorithms. It follows the principle of a Skill Library for robotics. Skills can be of computer vision, robotics, RL, VLA models or any other model that is used for industrial robots, mobile robots and humanoid robots. To get started with building the community, we are struggling to figure out what content works best. Some ideas that we have include: A Discord channel for centralised discussion YouTube channel showcasing how to use the Skills to build use cases Technical blogs on Medium What channels do you regularly visit to keep up to date with all the varied models out there? And also, what content do you generally enjoy?
 
-11h ago
+12h ago
 
 ---
 
@@ -58,7 +58,7 @@ We want to build a community of robotics and computer vision developers who want
 
 Engineers have trained a new humanoid robot to perform realistic lip-syncing not by manually programming every movement, but by having it 'watch' hours of YouTube videos. By visually analyzing human speakers, the robot learned to match its mouth movements to audio with eerie precision.
 
-🔗 [TechSpot](https://www.techspot.com/news/110967-humanoid-robot-learns-realistic-lip-movement-watching-youtube.html) • 14h ago
+🔗 [TechSpot](https://www.techspot.com/news/110967-humanoid-robot-learns-realistic-lip-movement-watching-youtube.html) • 15h ago
 
 ---
 
@@ -118,11 +118,11 @@ Interesting Engineering • 2d ago
 
 ---
 
-**[Not ready for robots in homes? The maker of a friendly new humanoid thinks it might change your mind](https://apnews.com/article/friendly-home-robot-fauna-robotics-sprout-57b396cd6f4b98ef83913a5efa9e0db2)**
+**[State of robotics industry report 2026](https://www.therobotreport.com/state-of-robotics-industry-report-2026/)**
 
-A new humanoid robot named Sprout, developed by Fauna Robotics, is making its debut. Unlike sleek and powerful-looking machines from companies like Tesla, Sprout is designed to be approachable and friendly.
+State of Robotics Industry Report 2026 offers a clear-eyed assessment of where the market stands today and where it’s headed.
 
-AP News • 2d ago
+The Robot Report • 3d ago
 
 ---
 
@@ -130,15 +130,15 @@ AP News • 2d ago
 
 Future of the company lies in equipping and running a global fleet of driverless taxis and in selling humanoid robots
 
-Financial Times • 10h ago
+Financial Times • 11h ago
 
 ---
 
-**[Tesla doubles spending with $20B AI and robotics push](https://finance.yahoo.com/news/tesla-doubles-spending-20b-ai-161254007.html)**
+**[Tesla kills Models S and X to build humanoid robots instead](https://arstechnica.com/cars/2026/01/tesla-kills-models-s-and-x-to-build-humanoid-robots-instead/)**
 
-Record investment marks a shift away from traditional EVs toward automation.
+EVs that were once industry-leading have long since been left behind.
 
-Yahoo Finance • 6h ago
+Ars Technica • 8h ago
 
 ---
 
@@ -164,26 +164,27 @@ Tech Xplore • 2d ago
 
 ---
 
-**[Lightspeed Backs Robotics Startup in $100 Million Round](https://www.bloomberg.com/news/articles/2026-01-29/fiat-toyota-tycoons-back-startup-robco-in-100-million-round)**
+**[Not ready for robots in homes? The maker of a friendly new humanoid thinks it might change your mind](https://abcnews.go.com/Technology/wireStory/ready-robots-homes-maker-friendly-new-humanoid-thinks-129594260)**
 
-Bloomberg • 6h ago
+A new humanoid robot named Sprout, developed by Fauna Robotics, is making its debut
 
----
-
-**[State of robotics industry report 2026](https://www.therobotreport.com/state-of-robotics-industry-report-2026/)**
-
-State of Robotics Industry Report 2026 offers a clear-eyed assessment of where the market stands today and where it’s headed.
-
-The Robot Report • 3d ago
+ABC News • 2d ago
 
 ---
 
-**[READER REPORT: Local FIRST robotics team headed into state championship this weekend](https://westseattleblog.com/2026/01/reader-report-local-first-robotics-team-headed-into-state-championship-thius-weekend/)**
+**[China's Robotics Industry Is Doing A Lot More Than Military Projects](https://www.bgr.com/2080480/china-robotics-industry-more-than-military/)**
 
-One of our area's FIRST Robotics teams has made it into the state championship round! Thanks to Ash for the photo, report, and video:
-A LEGO robotics team called Brickrolled, made up of five students in grades 3 through 6 from Westside School, has qualified for the FIRST LEGO League Western Washington State Championship and will be represen...
+Chinese technology is advancing rapidly with robotics. In addition to military uses, robots are playing sports, doing household chores, and dancing.
 
-westseattleblog.com • 21h ago
+bgr.com • 3d ago
+
+---
+
+**[Richtech Robotics soars after announcing partnership with Microsoft to use AI to improve its robots](https://sherwood.news/markets/richtech-robotics-soars-after-announcing-partnership-with-microsoft-to-use/)**
+
+The most momentous day for ADAM since serving Jensen Huang a margarita....
+
+Sherwood News • 2d ago
 
 ---
 
@@ -191,33 +192,33 @@ westseattleblog.com • 21h ago
 
 ## YouTube Videos: "robotics"
 
-**[Elon Musk Repairs High-Tech Robotic 🕵️ Wings on Female 💲Android in Futuristic 🧪 Ai-concept.](https://www.youtube.com/watch?v=qBIpFr_d3Vg)**
+**[Robotics Boom: 3 Stocks Under $20 Right Now](https://www.youtube.com/watch?v=8yC0p_lfk4g)**
 
-RoboticWings #FuturisticLab #Android #SciFi #Robotics #AIArt #Cyberpunk #HighTech #ArtificialIntelligence #TeslaBot ...
+Robotics stocks are heating up fast, but many of the biggest names are already expensive. In this video, MarketBeat's Jeffrey Neal ...
 
-📺 AITECHGADGETS
+📺 MarketBeat
 
-👁️ 276K • 💬 146 • ⏱️ 0:18 • 3d ago
-
----
-
-**[SATISFYING Robotic Arm Glazes Ceramics with INSANE Precision 🤖](https://www.youtube.com/watch?v=3PK2EOvBQkg)**
-
-Inside a high-tech ceramic workshop, a bright yellow industrial robotic arm executes a flawless glazing sequence with ...
-
-📺 Working Planet Shorts
-
-👁️ 486K • 👍 699 • 💬 2 • ⏱️ 0:06 • 5d ago
+👁️ 136K • 👍 3K • 💬 183 • ⏱️ 17:39 • 5d ago
 
 ---
 
-**[The German Robots Are Replacing Forklifts Inside Factories](https://www.youtube.com/watch?v=tCis6jGzxnk)**
+**[Viral video shows autonomous snow blower at work in New Jersey](https://www.youtube.com/watch?v=c7vetvwsn-Q)**
 
-Day 172 of watching tech evolve. German startup Filics has built autonomous warehouse robots that move in any direction, work ...
+Sandra Bookman has more on the viral video and the man behind the handy invention.
 
-📺 Deepen
+📺 Eyewitness News ABC7NY
 
-👁️ 20K • 👍 402 • 💬 10 • ⏱️ 0:29 • 5d ago
+👁️ 658K • 👍 5K • 💬 985 • ⏱️ 2:01 • 3d ago
+
+---
+
+**[Xpeng’s New ET1 AI Robot Just Broke the AI  Humanoid Limit — Optimus Killer Enters Mass Production](https://www.youtube.com/watch?v=T8IYzqINZJY)**
+
+XPENG Robotics just changed the game — their new ET1 AI humanoid robot has officially entered mass production, and it's ...
+
+📺 The AI Nexus
+
+👁️ 5K • 👍 150 • 💬 20 • ⏱️ 18:41 • 5d ago
 
 ---
 
@@ -227,63 +228,67 @@ Designed to work safely and naturally around people, Sprout from Fauna Robotics,
 
 📺 Interesting Engineering
 
-👁️ 629 • 👍 62 • 💬 1 • ⏱️ 1:40 • 6h ago
+👁️ 833 • 👍 72 • 💬 2 • ⏱️ 1:40 • 7h ago
 
 ---
 
-**[SaaS is over… Why you should build a robotics company in 2026](https://www.youtube.com/watch?v=FqfTQFuSalY)**
+**[Elon Musk speaks on AI, robotics and aliens in discussion looking ahead to the future](https://www.youtube.com/watch?v=DPCvFy5BKeM)**
 
-2026 will be the year of robotics. We're in an Will Smith spaghetti moment. Remember how AI-generated video looked horrific two ...
+Tesla and SpaceX founder Elon Musk took part in a wide-ranging discussion at the World Economic Forum on Thursday in Davos, ...
 
-📺 Andreas Klinger ⅹ Europe's Most Ambitious Startups
+📺 Global News
 
-👁️ 20K • 👍 1K • 💬 181 • ⏱️ 16:46 • 3d ago
-
----
-
-**[Drag-on welding robot.#industrial #welding #robot #spraying #stamping #machine](https://www.youtube.com/watch?v=i8vRsqt5ORw)**
-
-📺 Borunte robot-Lin 
-
-👁️ 32K • 👍 115 • 💬 2 • ⏱️ 0:21 • 5d ago
+👁️ 27K • 👍 129 • 💬 108 • ⏱️ 10:15 • 6d ago
 
 ---
 
-**[My boyfriend loves his mini robot 🤣💕#couples #longdistancerelationship #ldr #robot](https://www.youtube.com/watch?v=qrJfj-HRXzE)**
+**[Meet Sprout: The Humanoid Robot Built for Real World Use](https://www.youtube.com/watch?v=4zMbX1OEOSE)**
 
-📺 Romi Pal
+This new humanoid robot is not about hype or flashy promises. Sprout is designed to work alongside people in real environments, ...
 
-👁️ 313K • 👍 6K • 💬 36 • ⏱️ 0:17 • 6d ago
+📺 DPCcars
 
----
-
-**[Robot That Grows Through Rubble To Find Survivors 🤖 #rescue #robotics #shorts](https://www.youtube.com/watch?v=haGH86W_f5A)**
-
-The Growing Robot That Enters Collapsed Buildings Before Humans Do When disaster strikes and buildings collapse, reaching ...
-
-📺 EcoZora
-
-👁️ 355K • 👍 1K • 💬 151 • ⏱️ 0:07 • 3d ago
+👁️ 2K • 👍 67 • 💬 17 • ⏱️ 3:17 • 1d ago
 
 ---
 
-**[Tesla Fremont factory ending Model S/X manufacturing to begin Optimus robot production](https://www.youtube.com/watch?v=liF86L_EvKQ)**
+**[The PEAK of Robot Mower Evolution? | Ecovacs 2026 Sneak Peek](https://www.youtube.com/watch?v=UWRpPAMUGOc)**
 
-Andrea Nakano reports on the Tesla Fremont factory ending Model S/X production and using that part of the factory for mass ...
+Check out ECOVACS' newest products for 2026: https://www.ecovacs.com/global/campaign/ces Our review of the GOAT A3000: ...
 
-📺 KPIX | CBS NEWS BAY AREA
+📺 Freshly Charged
 
-👁️ 19K • 👍 207 • 💬 193 • ⏱️ 4:36 • 15h ago
+👁️ 10K • 👍 48 • 💬 25 • ⏱️ 7:36 • 3d ago
 
 ---
 
-**[Robotics Boom: 3 Stocks Under $20 Right Now](https://www.youtube.com/watch?v=8yC0p_lfk4g)**
+**[Why AI Pizza Machines Are Actually Worrying Workers 🍕](https://www.youtube.com/watch?v=U7tlOl7s3ns)**
 
-Robotics stocks are heating up fast, but many of the biggest names are already expensive. In this video, MarketBeat's Jeffrey Neal ...
+Some people are getting concerned because automatic AI pizza-making machines are slowly appearing on streets worldwide.
 
-📺 MarketBeat
+📺 Taylor Jollie
 
-👁️ 135K • 👍 3K • 💬 183 • ⏱️ 17:39 • 5d ago
+👁️ 6K • 👍 38 • 💬 5 • ⏱️ 0:19 • 5h ago
+
+---
+
+**[How Hyundai&#39;s humanoid robot plans are facing fierce opposition from workers](https://www.youtube.com/watch?v=YElzKlzPGe8)**
+
+You can watch this video at https://koreanow.com Copyright(C) Unauthorized use, distribution, and employment of AI-based tools ...
+
+📺 KOREA NOW
+
+👁️ 39K • 👍 736 • 💬 430 • ⏱️ 3:06 • 6d ago
+
+---
+
+**[Tesla is betting on robots &amp; robotaxis, but former bull Ross Gerber is skeptical](https://www.youtube.com/watch?v=fzuqnIGorNA)**
+
+Gerber Kawasaki Wealth and Investment Management CEO, Ross Gerber, joins Market Domination host Josh Lipton to discuss ...
+
+📺 Yahoo Finance
+
+👁️ 10K • 👍 113 • 💬 50 • ⏱️ 6:39 • 5d ago
 
 ---
 

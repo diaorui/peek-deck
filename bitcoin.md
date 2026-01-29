@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-01-29T22:28:58.080825+00:00'
+updated: '2026-01-29T22:57:22.631790+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- cryptocurrency
 - videos
 - social
 - news
+- cryptocurrency
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** January 29, 2026 at 22:28 UTC  
+**Last Updated:** January 29, 2026 at 22:57 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -44,7 +44,7 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Chart
 
-**24h:** -5.4%  
+**24h:** -5.2%  
 **7d:** -5.6%  
 **30d:** -3.6%  
 **90d:** -23.1%  
@@ -54,17 +54,17 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1678.70B
+**Market Cap:** $1685.39B
 Rank #1
 
-**Circulating Supply:** 19,982,006 BTC
+**Circulating Supply:** 19,982,071 BTC
 95.2% of max
 
 **All-Time High:** $126,080.00
--33.5%
+-33.1%
 
 **All-Time Low:** $67.81
-+123591.2%
++124372.8%
 
 ---
 
@@ -77,11 +77,17 @@ Rank #1
 
 ## Reddit: r/Bitcoin
 
+**[Here we goooo](https://www.reddit.com/r/Bitcoin/comments/1qqkg06/here_we_goooo/)**
+
+2h ago
+
+---
+
 **[I used to HODL 10 BTC](https://www.reddit.com/r/Bitcoin/comments/1qqhfad/i_used_to_hodl_10_btc/)**
 
 I wasn’t smart enough to hold onto them :(
 
-3h ago
+4h ago
 
 ---
 
@@ -95,7 +101,7 @@ Gets punched to 35k
 
 **[Do you see the selloff?](https://www.reddit.com/r/Bitcoin/comments/1qqff0n/do_you_see_the_selloff/)**
 
-4h ago
+5h ago
 
 ---
 
@@ -105,17 +111,11 @@ Gets punched to 35k
 
 ---
 
-**[Here we goooo](https://www.reddit.com/r/Bitcoin/comments/1qqkg06/here_we_goooo/)**
-
-1h ago
-
----
-
 **[This is how we Roll](https://www.reddit.com/r/Bitcoin/comments/1qqfp8e/this_is_how_we_roll/)**
 
 Buy Now Thank Me later
 
-4h ago
+5h ago
 
 ---
 
@@ -123,7 +123,7 @@ Buy Now Thank Me later
 
 They are aggressively continuing to buy. We are however seeing outflows from bitcoin ETFs
 
-3h ago
+4h ago
 
 ---
 
@@ -135,17 +135,15 @@ Bitcoin CEO furious about market manipulation: “we must stop market manipulati
 
 ---
 
-**[😂](https://www.reddit.com/r/Bitcoin/comments/1qq31l2/_/)**
+**[short of words.](https://www.reddit.com/r/Bitcoin/comments/1qqn3ea/short_of_words/)**
 
-14h ago
+34m ago
 
 ---
 
-**[18.2 coins](https://www.reddit.com/r/Bitcoin/comments/1qq01ag/182_coins/)**
+**[😂](https://www.reddit.com/r/Bitcoin/comments/1qq31l2/_/)**
 
-Crazy to think I owned 18.2 btc in early 2020 and sold before it reach 73 something I think it was. Now I live check to check. HODL your investments, don’t sell
-
-16h ago
+14h ago
 
 ---
 
@@ -153,11 +151,25 @@ Crazy to think I owned 18.2 btc in early 2020 and sold before it reach 73 someth
 
 ## Google News: "bitcoin"
 
-**[Bitcoin price plunge: Why are crypto prices dropping this time?](https://mashable.com/article/bitcoin-price-plunge-crypto-falls-jan-29)**
+**[Bitcoin price outlook: $70,000 could be in play for BTC, say analysts](https://www.coindesk.com/markets/2026/01/29/crypto-hit-hardest-in-market-selloff-with-analysts-seeing-bitcoin-in-deeper-pullback-to-usd70-000)**
 
-How low can Bitcoin go?
+Despite hopes for a macro hedge, bitcoin continues to trade like the riskiest of risk assets in turmoil.
 
-Mashable • 4h ago
+CoinDesk • 53m ago
+
+---
+
+**[Why is Dogecoin down: DOGE slumps 7% as bitcoin loses ground in risk-off trade](https://www.coindesk.com/markets/2026/01/29/dogecoin-slumps-7-as-bitcoin-risk-off-rattles-memecoin-bets)**
+
+The token broke below key support at $0.1218 on heavy volume, turning that level into near-term resistance even after a brief bounce from around $0.115.
+
+CoinDesk • 5h ago
+
+---
+
+**[Boomer’s ‘Pet Rock’ Humbles Bitcoin True Believers](https://www.bloomberg.com/news/newsletters/2026-01-29/boomer-s-pet-rock-humbles-bitcoin-true-believers)**
+
+Bloomberg • 56m ago
 
 ---
 
@@ -169,11 +181,35 @@ Yahoo Finance • 9h ago
 
 ---
 
+**[Bitcoin slides to yearly lows as U.S. announces Project Crypto legislation effort](https://www.investing.com/news/cryptocurrency-news/bitcoin-price-today-dips-to-88k-despite-haven-rush-us-legislation-move-eyed-4471966)**
+
+Bitcoin slides to yearly lows as U.S. announces Project Crypto legislation effort
+
+Investing.com • 2h ago
+
+---
+
+**[Why Bitcoin’s Pullback May Be Setting Up A Rotation From Gold](https://www.forbes.com/sites/aliceliu/2026/01/29/why-bitcoins-pullback-may-be-setting-up-a-rotation-from-gold/)**
+
+Is Bitcoin near a bottom while gold peaks? Explore crypto liquidations, market cycles, and why investors are eyeing a BTC-long, gold-short rotation
+
+Forbes • 2h ago
+
+---
+
 **[Veteran analyst says Bitcoin 'spanked' gold](https://www.thestreet.com/crypto/markets/veteran-analyst-says-bitcoin-spanked-gold)**
 
 Bloomberg's Eric Balchunas argues Bitcoin has beaten gold if we look at the bigger picture.
 
 thestreet.com • 8h ago
+
+---
+
+**[Myriad Moves: Bitcoin Is Falling—Will It Dump to $69K or Rebound to $100K?](https://decrypt.co/356339/myriad-moves-bitcoin-falling-dump-69k-rebound-100k)**
+
+Top markets on Myriad this week include predictions on the next stops for Bitcoin and Solana, and President Donald Trump's approval rating.
+
+Decrypt • 4h ago
 
 ---
 
@@ -185,47 +221,11 @@ Fast Company • 12h ago
 
 ---
 
-**[South Dakota lawmaker revives bitcoin reserve push with new bill](https://www.theblock.co/post/387341/south-dakota-bitcoin-reserve-bill)**
+**[Is Bitcoin a Buy Right Now?](https://www.fool.com/investing/2026/01/28/is-bitcoin-a-buy-right-now/)**
 
-The latest proposal closely mirrors House Bill 1202, which was introduced during the 2025 legislative session.
+Bitcoin is the world's largest cryptocurrency by market cap.
 
-The Block • 1d ago
-
----
-
-**[Is Gold The New Bitcoin?](https://www.yardeniquicktakes.com/is-gold-the-new-bitcoin/)**
-
-Proponents of bitcoin have been calling it “digital gold.” Both the cryptocurrency and the precious metal are impossible to value because they don't pay any interest or dividends. Bitcoin is digital, making it potentially vulnerable someday to hacking by quantum-computing algorithms, while gold needs to be stored in a vault.
-
-Yardeni QuickTakes • 1d ago
-
----
-
-**[Off the Charts: Key levels for bitcoin](https://www.cnbc.com/video/2026/01/27/off-the-charts-key-levels-for-bitcoin.html)**
-
-Katie Stockton, Fairlead, joins 'Fast Money' to take a technical look at bitcoin prices.
-
-CNBC • 1d ago
-
----
-
-**[Bitcoin lacks direction as precious metals outshine crypto (BTC-USD:Cryptocurrency)](https://seekingalpha.com/news/4542886-bitcoin-lacks-direction-as-precious-metals-outshine-crypto)**
-
-Seeking Alpha • 2d ago
-
----
-
-**[Grand Forks detective says if someone online asks for bitcoin or gift cards, 'you're being scammed'](https://www.grandforksherald.com/news/local/grand-forks-detective-says-if-someone-online-asks-for-bitcoin-or-gift-cards-youre-being-scammed)**
-
-Since 2022, Grand Forks residents have lost $466,803 to bitcoin cryptocurrency, according to GFPD Det. Todd Riedinger. The scams are difficult to trace and lost money usually can't be recovered.
-
-grandforksherald.com • 1d ago
-
----
-
-**[Bitcoin Miners Power Down US Operations in Wake of Winter Storm](https://www.bloomberg.com/news/articles/2026-01-26/bitcoin-miners-power-down-us-operations-in-wake-of-winter-storm)**
-
-Bloomberg • 3d ago
+The Motley Fool • 1d ago
 
 ---
 
@@ -253,7 +253,7 @@ A list of known attacks against Bitcoin / crypto asset owning entities that occu
 
 Bitcoin plunged to a two-month low Thursday as risk-on assets broadly fell—and even gold and silver gave up earlier gains.
 
-⬆️ 1 • 💬 0 • 55m ago • [Decrypt](https://decrypt.co/356330/bitcoin-2-month-low-gold-stocks-give-up-gains-crypto-liquidations-800m)
+⬆️ 1 • 💬 0 • 1h ago • [Decrypt](https://decrypt.co/356330/bitcoin-2-month-low-gold-stocks-give-up-gains-crypto-liquidations-800m)
 
 ---
 
@@ -309,23 +309,13 @@ Reporting on Fintech, Crypto, and Blockchain Activity in Africa
 
 ## YouTube Videos: "bitcoin"
 
-**[🚨 BTC &amp; ETH: SELL ALL BITCOIN AND QUIT CRYPTO!!!!!!!!!](https://www.youtube.com/watch?v=Js9TFiiwSBk)**
+**[Why is Bitcoin Dropping?](https://www.youtube.com/watch?v=pxFxcr11dMI)**
 
-The situation is getting worse and worse for crypto. Here are facts and my take on whether its time to sell all bitcoin and just quit!
+Bitcoin appears to have completed its 2023–2025 market cycle and entered a late-cycle digestion phase similar to mid-2019.
 
-📺 Thomas Kralow
+📺 Benjamin Cowen
 
-👁️ 40K • 👍 3K • 💬 164 • ⏱️ 13:43 • 11h ago
-
----
-
-**[🚨 BITCOIN IS CRASHING RIGHT NOW | Most Will Miss What Comes Next!](https://www.youtube.com/watch?v=-Pe8XcCLOEI)**
-
-Bitcoin #Crypto #Finance Your edge starts here — join DataDash Pro for Discord access + Nick's Monthly Dash Report at ...
-
-📺 DataDash
-
-👁️ 2K • 👍 181 • 💬 8 • ⏱️ 12:08 • 6h ago
+👁️ 25K • 👍 2K • 💬 261 • ⏱️ 10:19 • 3h ago
 
 ---
 
@@ -335,27 +325,27 @@ After a brief series of amendments were rejected, the U.S. Senate Agriculture Co
 
 📺 Paul Barron Network
 
-👁️ 13K • 👍 3K • 💬 326 • ⏱️ 16:34 • 4h ago
+👁️ 64K • 👍 4K • 💬 524 • ⏱️ 16:34 • 4h ago
 
 ---
 
-**[CRYPTO MARKET IS PLUNGING! IS CRYPTO CRASHING?! BREAKING CRYPTO NEWS TODAY!](https://www.youtube.com/watch?v=fYrFIM1z9Aw)**
+**[🚨 BITCOIN IS CRASHING RIGHT NOW | Most Will Miss What Comes Next!](https://www.youtube.com/watch?v=-Pe8XcCLOEI)**
 
-CRYPTO MARKET IS PLUNGING! IS CRYPTO CRASHING?! BREAKING CRYPTO NEWS TODAY! ⭐️ AUSTIN'S STOCK ...
+Bitcoin #Crypto #Finance Your edge starts here — join DataDash Pro for Discord access + Nick's Monthly Dash Report at ...
 
-📺 Austin Hilton
+📺 DataDash
 
-👁️ 9K • 👍 508 • 💬 86 • ⏱️ 7:53 • 6h ago
+👁️ 4K • 👍 217 • 💬 16 • ⏱️ 12:08 • 6h ago
 
 ---
 
-**[Bitcoin Crashing RIGHT NOW... Here&#39;s WHAT IS HAPPENING](https://www.youtube.com/watch?v=grDAKDO71jo)**
+**[🚨 BTC &amp; ETH: SELL ALL BITCOIN AND QUIT CRYPTO!!!!!!!!!](https://www.youtube.com/watch?v=Js9TFiiwSBk)**
 
-TRADE ON BITGET WITH ME! Sign up here ▻ https://share.bitget.com/u/UHGTDYS3 TRADE ON BTCC WITH ME! 10% ...
+The situation is getting worse and worse for crypto. Here are facts and my take on whether its time to sell all bitcoin and just quit!
 
-📺 FireHustle
+📺 Thomas Kralow
 
-👁️ 2K • 👍 172 • 💬 38 • ⏱️ 12:59 • 5h ago
+👁️ 44K • 👍 3K • 💬 151 • ⏱️ 13:43 • 12h ago
 
 ---
 
@@ -365,37 +355,27 @@ Check out ClashPicks: https://www.clashpicks.com/ **Exchange Partners** Bitunix 
 
 📺 CryptosRUs
 
-👁️ 22K • 👍 1K • 💬 279 • ⏱️ 7:09 • 7h ago
+👁️ 26K • 👍 1K • 💬 240 • ⏱️ 7:09 • 8h ago
 
 ---
 
-**[Massive Bitcoin Price Dump (THIS IS BAD)](https://www.youtube.com/watch?v=N0N1bvX0y2E)**
+**[Did Bitcoin OFFICIALLY Enter The Bear Market?! | EP 1429](https://www.youtube.com/watch?v=GDueXK75obs)**
 
-BlackRock is doubling down on Bitcoin, and the timing couldn't be more critical. As we navigate the early months of 2026, the shift ...
-
-📺 Discover Crypto
-
-👁️ 9K • 👍 429 • 💬 69 • ⏱️ 56:43 • 5h ago
-
----
-
-**[The Dollar Just COLLAPSED | Is Bitcoin About to Go NUCLEAR?](https://www.youtube.com/watch?v=y6XlWehr0Cg)**
-
-This is not Bitcoin going up. This is the dollar breaking down in real time. A deliberately weak dollar is inflating asset prices, ...
+Bitcoin melts down after neutral fed rates decision - does this mean we officially entered the bear market?
 
 📺 Simply Bitcoin
 
-👁️ 33K • 👍 3K • 💬 381 • ⏱️ 15:53 • 22h ago
+👁️ 5K • 👍 317 • 💬 36 • ⏱️ 1:01:05 • 2h ago
 
 ---
 
-**[The REAL Reason Gold Is Beating Bitcoin](https://www.youtube.com/watch?v=5duPBNIzx3g)**
+**[Bitcoin DUMPS As Market Volatility Sky Rockets! W/ Ben Cowen](https://www.youtube.com/watch?v=m6BSoepiDCY)**
 
-Bob Murphy is a Senior Fellow at the Mises Institute and Chief Economist at Infineon. In this conversation, we discuss Federal ...
+Bitcoin #Crypto #Finance Welcome to Market Mavericks , where fast paced market analysis meets high probability trade setups ...
 
-📺 Anthony Pompliano
+📺 The Wolf Of All Streets
 
-👁️ 26K • 👍 901 • ⏱️ 30:04 • 1d ago
+👁️ 8K • 👍 552 • 💬 125 • ⏱️ 37:17 • 1h ago
 
 ---
 
@@ -405,7 +385,27 @@ Up to *$30000* Welcome Bonus]◅ ✓ *NO RESTRICTIONS* IF YOU *Use THIS Link* Ph
 
 📺 Tyler S
 
-👁️ 4K • 👍 429 • 💬 160 • ⏱️ 8:01 • 4h ago
+👁️ 8K • 👍 585 • 💬 198 • ⏱️ 8:01 • 5h ago
+
+---
+
+**[The Dollar Just COLLAPSED | Is Bitcoin About to Go NUCLEAR?](https://www.youtube.com/watch?v=y6XlWehr0Cg)**
+
+This is not Bitcoin going up. This is the dollar breaking down in real time. A deliberately weak dollar is inflating asset prices, ...
+
+📺 Simply Bitcoin
+
+👁️ 34K • 👍 3K • 💬 286 • ⏱️ 15:53 • 23h ago
+
+---
+
+**[Michael Saylor on Bitcoin Crash &amp; MSTR Stock Drop – BTC Price Analysis](https://www.youtube.com/watch?v=tPcYDPhWztk)**
+
+BTC #Bitcoin #Cryptocurrency Join Michael Saylor for his unforgettable keynote at the Bitcoin Conference. The leading Bitcoin ...
+
+📺 Sam Jolen
+
+👁️ 3K • 👍 2K • 29m ago
 
 ---
 

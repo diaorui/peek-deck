@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-01-29T22:28:58.086801+00:00'
+updated: '2026-01-29T22:57:22.637923+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- cryptocurrency
 - videos
 - social
 - news
+- cryptocurrency
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** January 29, 2026 at 22:28 UTC  
+**Last Updated:** January 29, 2026 at 22:57 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,8 +42,8 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** -6.6%  
-**7d:** -4.7%  
+**24h:** -6.3%  
+**7d:** -4.6%  
 **30d:** -5.1%  
 **90d:** -27.2%  
 **1y:** -13.1%  
@@ -52,21 +52,29 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Market Stats
 
-**Market Cap:** $337.53B
+**Market Cap:** $339.83B
 Rank #2
 
 **Circulating Supply:** 120,694,351 ETH
 No max supply
 
 **All-Time High:** $4,946.05
--43.6%
+-43.1%
 
 **All-Time Low:** $0.43
-+644621.8%
++650377.3%
 
 ---
 
 ## Reddit: r/ethereum
+
+**[Best platform for ETH Staking?](https://www.reddit.com/r/ethereum/comments/1qqnk0r/best_platform_for_eth_staking/)**
+
+Been staking ETH in a pretty lazy way for a while and starting to question it. The yield is ok but relying on one platform forever doesn’t feel great. Thinking long term here, not trading. What are people actually doing for staking if security matters more than max APY? Stick with well known providers or go full self custody and run a validator?
+
+16m ago
+
+---
 
 **[Daily General Discussion January 29, 2026](https://www.reddit.com/r/ethereum/comments/1qq0hf1/daily_general_discussion_january_29_2026/)**
 
@@ -138,14 +146,6 @@ I just launched my hardware wallet review series and the first device to be revi
 
 ---
 
-**[Unstaking stETH without delay](https://www.reddit.com/r/ethereum/comments/1qpbx0c/unstaking_steth_without_delay/)**
-
-Sorry if it was asked by past, i couldn't find the answer. Question about Lido stETH unstaking instantly, without delay I am having stETH staked on my Ledger Nano X that i'm trying to unstake but on lido page it takes up to a week, isn't there a way to process it faster? Advices appreciated
-
-1d ago
-
----
-
 ---
 
 ## Google News: "ethereum"
@@ -192,7 +192,7 @@ TradingView • 14h ago
 
 The crypto market is under pressure today, with Bitcoin, Ethereum, and XRP all trading lower as selling activity picks up across major tokens. The total
 
-Coinpedia • 7h ago
+Coinpedia • 8h ago
 
 ---
 
@@ -200,7 +200,7 @@ Coinpedia • 7h ago
 
 According to the report, $13.5 million will be allocated to security grants distributed through DAO-style mechanisms
 
-CoinDesk • 6h ago
+CoinDesk • 2h ago
 
 ---
 
@@ -216,7 +216,7 @@ The Motley Fool • 3d ago
 
 The project said its auction app dominated Ethereum activity on Jan. 24 and that TVS topped $100 million within three days.
 
-thedefiant.io • 2d ago
+thedefiant.io • 3d ago
 
 ---
 
@@ -238,7 +238,7 @@ The situation is getting worse and worse for crypto. Here are facts and my take 
 
 📺 Thomas Kralow
 
-👁️ 40K • 👍 3K • 💬 164 • ⏱️ 13:43 • 11h ago
+👁️ 44K • 👍 3K • 💬 151 • ⏱️ 13:43 • 12h ago
 
 ---
 
@@ -248,7 +248,17 @@ Is it time to sell silver and buy Ethereum? In this video, I break down why trad
 
 📺 Michaël van de Poppe
 
-👁️ 1K • 👍 82 • 💬 12 • ⏱️ 12:09 • 7h ago
+👁️ 2K • 👍 100 • 💬 15 • ⏱️ 12:09 • 7h ago
+
+---
+
+**[ETH Loses Support, This Is The Setup We’re Watching](https://www.youtube.com/watch?v=yYD9cCVxI48)**
+
+Get $450 Off Our New AI Indicators: https://tradeconfidentportal.io/indicators/ New Members! Get 25% Off Your 1st Month: ...
+
+📺 Trade Confident
+
+👁️ 189 • 👍 17 • 💬 14 • ⏱️ 5:01 • 3h ago
 
 ---
 
@@ -258,7 +268,7 @@ Cardano and Ethereum holders... GET READY!! ✓ Bitunix (no kyc, $10000 bonus): 
 
 📺 Altcoin Daily
 
-👁️ 41K • 👍 2K • 💬 346 • ⏱️ 8:35 • 23h ago
+👁️ 43K • 👍 2K • 💬 289 • ⏱️ 8:35 • 23h ago
 
 ---
 
@@ -268,7 +278,17 @@ This video provides a professional Elliott Wave and technical analysis of Ethere
 
 📺 More Crypto Online
 
-👁️ 2K • 👍 92 • 💬 7 • ⏱️ 4:28 • 7h ago
+👁️ 2K • 👍 96 • 💬 7 • ⏱️ 4:28 • 8h ago
+
+---
+
+**[BITCOIN &amp; ALTCOIN CRASH: History Repeating (Warning)!!! - Bitcoin News Today, Ethereum &amp; Altcoins](https://www.youtube.com/watch?v=GnJpG3iiDxY)**
+
+BITCOIN & ALTCOIN CRASH: History Repeating (Warning)!!! - Bitcoin News Today, Ethereum & Altcoins *Toobit* ...
+
+📺 Crypto World
+
+👁️ 1K • 👍 82 • 💬 14 • ⏱️ 25:22 • 41m ago
 
 ---
 
@@ -278,27 +298,7 @@ My FREE Daily On-Chain Analysis & Crypto News In 5-Mins: https://www.cryptonutsh
 
 📺 Jamie Tree 
 
-👁️ 2K • 👍 66 • 💬 55 • ⏱️ 16:47 • 1d ago
-
----
-
-**[Second Largest BTC ETF Bank Chooses Ethereum](https://www.youtube.com/watch?v=Jj5aHU1SY90)**
-
-Fidelity launches their own stablecoin on one of the B.E.S.T. The links below may include affiliate links, which means I may ...
-
-📺 Digital Asset News
-
-👁️ 7K • 👍 453 • 💬 33 • ⏱️ 14:06 • 1d ago
-
----
-
-**[BULLISH PATTERN FORMING!🔥 (Ethereum Price Prediction 2026)](https://www.youtube.com/watch?v=YZfA_spTIhM)**
-
-ETHEREUM ETH PRICE PREDICTION 2026 Join the Premium Signal Group for trade setups, mentorship & a community ...
-
-📺 Cilinix Crypto
-
-👁️ 433 • 👍 23 • 💬 2 • ⏱️ 4:38 • 12h ago
+👁️ 2K • 👍 68 • 💬 28 • ⏱️ 16:47 • 1d ago
 
 ---
 
@@ -308,17 +308,17 @@ https://bit.ly/3HLA8ql CLICK HERE Ready to change your financial future? Join To
 
 📺 The Rich Dad Channel
 
-👁️ 509 • 👍 44 • 💬 8 • ⏱️ 33:33 • 3h ago
+👁️ 1K • 👍 62 • 💬 5 • ⏱️ 33:33 • 3h ago
 
 ---
 
-**[Tom Lee Just Said The UNTHINKABLE About Bitcoin &amp; Ethereum! [2026 New Prediction]](https://www.youtube.com/watch?v=OzflL_FbMXA)**
+**[Second Largest BTC ETF Bank Chooses Ethereum](https://www.youtube.com/watch?v=Jj5aHU1SY90)**
 
-Tom Lee Just Said The UNTHINKABLE About Bitcoin & Ethereum! [2026 New Prediction] My FREE Daily 5-Min Crypto ...
+Fidelity launches their own stablecoin on one of the B.E.S.T. The links below may include affiliate links, which means I may ...
 
-📺 Crypto Nutshell
+📺 Digital Asset News
 
-👁️ 29K • 👍 762 • 💬 75 • ⏱️ 14:37 • 2d ago
+👁️ 7K • 👍 455 • 💬 33 • ⏱️ 14:06 • 1d ago
 
 ---
 
@@ -328,7 +328,7 @@ Tom Lee Just Said The UNTHINKABLE About Bitcoin & Ethereum! [2026 New Prediction
 
 📺 Crossroads
 
-👁️ 2K • 👍 138 • 💬 40 • ⏱️ 11:03 • 7h ago
+👁️ 3K • 👍 170 • 💬 46 • ⏱️ 11:03 • 7h ago
 
 ---
 
