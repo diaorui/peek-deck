@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-01-29T16:01:42.418726+00:00'
+updated: '2026-01-29T17:07:17.015638+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
+- social
+- videos
 - cryptocurrency
 - news
-- videos
-- social
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** January 29, 2026 at 16:01 UTC  
+**Last Updated:** January 29, 2026 at 17:07 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,17 +38,17 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $86,446.70
+### $85,119.73
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** -3.7%  
-**7d:** -3.6%  
-**30d:** -1.5%  
-**90d:** -21.5%  
-**1y:** -17.6%  
+**24h:** -4.8%  
+**7d:** -5.0%  
+**30d:** -3.0%  
+**90d:** -22.6%  
+**1y:** -18.8%  
 
 ---
 
@@ -77,17 +77,23 @@ Rank #1
 
 ## Reddit: r/Bitcoin
 
-**[18.2 coins](https://www.reddit.com/r/Bitcoin/comments/1qq01ag/182_coins/)**
+**["Should we have a 2% allocation? 5% allocation? If everybody adopted that conversation...it would be $500k, $600k, $700k per bitcoin."](https://www.reddit.com/r/Bitcoin/comments/1qqcyfl/should_we_have_a_2_allocation_5_allocation_if/)**
 
-Crazy to think I owned 18.2 btc in early 2020 and sold before it reach 73 something I think it was. Now I live check to check. HODL your investments, don’t sell
-
-10h ago
+50m ago
 
 ---
 
 **[😂](https://www.reddit.com/r/Bitcoin/comments/1qq31l2/_/)**
 
-7h ago
+8h ago
+
+---
+
+**[18.2 coins](https://www.reddit.com/r/Bitcoin/comments/1qq01ag/182_coins/)**
+
+Crazy to think I owned 18.2 btc in early 2020 and sold before it reach 73 something I think it was. Now I live check to check. HODL your investments, don’t sell
+
+11h ago
 
 ---
 
@@ -95,15 +101,7 @@ Crazy to think I owned 18.2 btc in early 2020 and sold before it reach 73 someth
 
 I gotta stop getting hammered before I trade, But its sooooo profitable.. .
 
-11h ago
-
----
-
-**[If you don’t understand this…](https://www.reddit.com/r/Bitcoin/comments/1qpvau2/if_you_dont_understand_this/)**
-
-What are you doing with your time. You’re saving pieces of paper with numbers on it. I expect everyone here to understand the problems BITCOIN solves We don’t want more dollars we want more money The US dollar is not money. If you’re building wealth. Follow me so we can connect. Great minds think alike and have studied Bitcoin.
-
-14h ago
+13h ago
 
 ---
 
@@ -111,25 +109,19 @@ What are you doing with your time. You’re saving pieces of paper with numbers 
 
 Source: Blossom Social
 
-17h ago
+18h ago
 
 ---
 
 **[The single email that changed the course of history.](https://www.reddit.com/r/Bitcoin/comments/1qpqemf/the_single_email_that_changed_the_course_of/)**
 
-17h ago
-
----
-
-**[This is unbearable](https://www.reddit.com/r/Bitcoin/comments/1qphgpc/this_is_unbearable/)**
-
-22h ago
+18h ago
 
 ---
 
 **[They want all out retirement savings in this system](https://www.reddit.com/r/Bitcoin/comments/1qpzr12/they_want_all_out_retirement_savings_in_this/)**
 
-10h ago
+11h ago
 
 ---
 
@@ -137,13 +129,21 @@ Source: Blossom Social
 
 I would like a video that’s a maximum of thirty minutes to show people the benefits of owning Bitcoin. Hit me with your best shot!
 
-3h ago
+4h ago
 
 ---
 
 **[Hodling nonstop](https://www.reddit.com/r/Bitcoin/comments/1qpxk52/hodling_nonstop/)**
 
-12h ago
+13h ago
+
+---
+
+**[I really feel](https://www.reddit.com/r/Bitcoin/comments/1qqc1m8/i_really_feel/)**
+
+I'm covered in ants
+
+1h ago
 
 ---
 
@@ -151,51 +151,41 @@ I would like a video that’s a maximum of thirty minutes to show people the ben
 
 ## Google News: "bitcoin"
 
-**[First gold and silver, now oil is starting to rally and that's bad news for bitcoin](https://www.coindesk.com/markets/2026/01/29/first-gold-and-silver-now-oil-s-starting-to-rally-and-that-s-bad-news-for-bitcoin)**
+**[Bitcoin price slides as gold rallies on weaker dollar](https://uk.finance.yahoo.com/news/bitcoin-price-gold-dollar-interest-rates-crypto-095142360.html)**
 
-Higher oil prices could add to inflation, making it harder for the Fed to cut rates rapidly.
-
-CoinDesk • 10h ago
+Yahoo Finance UK • 7h ago
 
 ---
 
-**[Why MicroStrategy’s Latest Bitcoin Purchase Is Deeply Concerning](https://finance.yahoo.com/news/why-microstrategy-latest-bitcoin-purchase-193558229.html)**
+**[Worse Than ‘2008 Financial Crisis’—Gold Surge Triggers Serious U.S. Dollar Warning As Bitcoin Price Suddenly Drops](https://www.forbes.com/sites/digital-assets/2026/01/29/its-breaking-sudden-us-dollar-crisis-warning-predicted-to-spark-huge-bitcoin-price-boom-to-rival-gold/)**
 
-MicroStrategy’s latest Bitcoin purchase raises structural concerns around dilution, mNAV, and shareholder value.
+A “crisis of confidence” in the U.S. dollar has been predicted to see bitcoin catch up with gold...
 
-Yahoo Finance • 2d ago
-
----
-
-**[Bitcoin trader warns of downside as gold rally continues to pull focus from BTC](https://www.coindesk.com/markets/2026/01/29/bitcoin-trader-warns-of-downside-as-gold-rally-continues-to-pull-focus-from-btc)**
-
-Crypto prices stabilized after an early-week dip, but bitcoin continued to trail gold and silver as macro trades dominated after the Fed’s policy hold.
-
-CoinDesk • 9h ago
+Forbes • 2h ago
 
 ---
 
-**[Gold in “extreme greed” sentiment as it adds the entire bitcoin market cap in one day](https://www.coindesk.com/markets/2026/01/29/gold-in-extreme-greed-sentiment-as-it-adds-the-entire-bitcoin-market-cap-in-one-day)**
+**[Bitcoin price news: BTC attempts rally as dollar decline accelerates](https://www.coindesk.com/markets/2026/01/27/bitcoin-climbs-above-usd89-000-as-u-s-dollar-tumbles-on-president-trump-s-remarks)**
 
-Bullion ripped past $5,500 and sentiment gauges hit “extreme greed,” while bitcoin stayed pinned below $90K — a split that’s getting harder to ignore.
+The president said he isn't concerned about the dollar's recent declines, sending the greenback plunging even lower.
 
-CoinDesk • 2h ago
-
----
-
-**[Bitcoin’s Historical Bottom Indicator Points to $62K – Could BTC Fall That Low?](https://finance.yahoo.com/news/bitcoin-historical-bottom-indicator-points-132855234.html)**
-
-Bitcoin is approaching a historically important support zone near $62,000, as a long-tracked reserve-cost indicator tied to Binance signals that BTC could see more pain ahead.The $62k reserve cost level has not been tested since the approval of U.S. spot Bitcoin ETFs in January 2024, raising fresh questions over whether ...
-
-Yahoo Finance • 2h ago
+CoinDesk • 1d ago
 
 ---
 
-**[Americans lost $333M to bitcoin ATM scams in 2025. Here's why they're surging, how they work and how to protect yourself](https://finance.yahoo.com/news/americans-lost-333m-bitcoin-atm-130000402.html)**
+**[Bitcoin price news: BTC falls back to $85,200 alongside selloffs in stocks and precious metals](https://www.coindesk.com/markets/2026/01/29/bitcoin-tumbles-to-2026-low-of-usd85-200-as-gold-reverses-big-gains-microsoft-leads-nasdaq-lower)**
 
-Recovering funds is usually impossible, but a popular crypto vendor is paying nearly $2M to victims.
+Soaring to $5,600 at one point earlier on Thursday, gold quickly pulled back to below the $5,200 level in U.S. morning trade.
 
-Yahoo Finance • 3h ago
+CoinDesk • 1h ago
+
+---
+
+**[Bitcoin’s Quantum Threat Is Here As Analyst Downplays 20-Year Safe Period](https://www.tradingview.com/news/zycrypto:e650b9703094b:0-bitcoin-s-quantum-threat-is-here-as-analyst-downplays-20-year-safe-period/)**
+
+While a consensus is forming that Bitcoin will remain safe from quantum computing threats for at least two decades, one analyst argues otherwise.
+
+TradingView • 59m ago
 
 ---
 
@@ -203,15 +193,7 @@ Yahoo Finance • 3h ago
 
 The government seems to be amassing more Bitcoin. But little work seems to be happening to enact the terms of the executive order Trump signed to start the 'strategic reserve.'
 
-Fast Company • 5h ago
-
----
-
-**[It’s ‘Breaking’—Sudden U.S. Dollar ‘Crisis’ Warning Predicted To Spark Huge Bitcoin Price Boom To Rival Gold](https://www.forbes.com/sites/digital-assets/2026/01/28/its-breaking-sudden-us-dollar-crisis-warning-predicted-to-spark-huge-bitcoin-price-boom-to-rival-gold/)**
-
-A “crisis of confidence” in the U.S. dollar has been predicted to see bitcoin catch up with gold...
-
-Forbes • 1d ago
+Fast Company • 7h ago
 
 ---
 
@@ -228,6 +210,22 @@ The Block • 1d ago
 Since 2022, Grand Forks residents have lost $466,803 to bitcoin cryptocurrency, according to GFPD Det. Todd Riedinger. The scams are difficult to trace and lost money usually can't be recovered.
 
 grandforksherald.com • 1d ago
+
+---
+
+**[Is Gold The New Bitcoin?](https://www.yardeniquicktakes.com/is-gold-the-new-bitcoin/)**
+
+Proponents of bitcoin have been calling it “digital gold.” Both the cryptocurrency and the precious metal are impossible to value because they don't pay any interest or dividends. Bitcoin is digital, making it potentially vulnerable someday to hacking by quantum-computing algorithms, while gold needs to be stored in a vault.
+
+Yardeni QuickTakes • 1d ago
+
+---
+
+**[Bitcoin, Ethereum Steady as Fed Leaves Interest Rates Unchanged](https://decrypt.co/356217/bitcoin-ethereum-steady-fed-interest-rates-unchanged)**
+
+The Federal Reserve held its benchmark interest rate steady, as two Trump-appointed members of the FOMC advocated for another cut.
+
+Decrypt • 21h ago
 
 ---
 
@@ -248,6 +246,12 @@ Billionaire fugitive Roger Ver was facing federal criminal charges until he soug
 A list of known attacks against Bitcoin / crypto asset owning entities that occurred in meatspace. - jlopp/physical-bitcoin-attacks
 
 ⬆️ 3 • 💬 0 • 1d ago • [GitHub](https://github.com/jlopp/physical-bitcoin-attacks)
+
+---
+
+**[Single Bitcoin entity keeping BTC price suppressed below $90K](https://news.ycombinator.com/item?id=46812350)**
+
+⬆️ 1 • 💬 0 • 43m ago • [msn.com](https://www.msn.com/en-us/money/markets/single-bitcoin-entity-keeping-btc-price-suppressed-below-90k-analysis/ar-AA1VfVZb)
 
 ---
 
@@ -277,7 +281,7 @@ Transform HN comment threads into executive intelligence. AI analyzes discussion
 
 Reporting on Fintech, Crypto, and Blockchain Activity in Africa
 
-⬆️ 1 • 💬 0 • 21h ago • [BitKE](https://bitcoinke.io/2026/01/ozow-announces-payments-solution-by-moneybadger/)
+⬆️ 1 • 💬 0 • 22h ago • [BitKE](https://bitcoinke.io/2026/01/ozow-announces-payments-solution-by-moneybadger/)
 
 ---
 
@@ -291,7 +295,7 @@ The situation is getting worse and worse for crypto. Here are facts and my take 
 
 📺 Thomas Kralow
 
-👁️ 15K • 👍 2K • 💬 129 • ⏱️ 13:43 • 5h ago
+👁️ 15K • 👍 2K • 💬 129 • ⏱️ 13:43 • 6h ago
 
 ---
 
@@ -301,7 +305,7 @@ This is not Bitcoin going up. This is the dollar breaking down in real time. A d
 
 📺 Simply Bitcoin
 
-👁️ 30K • 👍 3K • 💬 355 • ⏱️ 15:53 • 16h ago
+👁️ 30K • 👍 3K • 💬 355 • ⏱️ 15:53 • 17h ago
 
 ---
 
@@ -331,7 +335,7 @@ Today, let's examine Bitcoin's charts and metrics, as well as the latest Macro a
 
 📺 CryptosRUs
 
-👁️ 35K • 👍 2K • 💬 210 • ⏱️ 38:00 • 23h ago
+👁️ 35K • 👍 2K • 💬 210 • ⏱️ 38:00 • 1d ago
 
 ---
 
@@ -341,7 +345,7 @@ Bob Murphy is a Senior Fellow at the Mises Institute and Chief Economist at Infi
 
 📺 Anthony Pompliano
 
-👁️ 22K • 👍 825 • ⏱️ 30:04 • 18h ago
+👁️ 22K • 👍 825 • ⏱️ 30:04 • 19h ago
 
 ---
 
@@ -361,7 +365,7 @@ Take Control of Your Retirement — Grow Crypto & Gold Tax-Advantaged. https://w
 
 📺 Savvy Finance
 
-👁️ 7K • 👍 295 • 💬 18 • ⏱️ 21:44 • 14h ago
+👁️ 7K • 👍 295 • 💬 18 • ⏱️ 21:44 • 15h ago
 
 ---
 

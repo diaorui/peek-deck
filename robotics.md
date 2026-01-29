@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-01-29T16:01:42.427806+00:00'
+updated: '2026-01-29T17:07:17.024630+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- news
-- videos
 - social
+- videos
+- news
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** January 29, 2026 at 16:01 UTC  
+**Last Updated:** January 29, 2026 at 17:07 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -36,13 +36,13 @@ Robotics research and industry news
 
 Working on my first robotics build at the moment and easing my way into it. Any pointers or tips would be greatly appreciated. This is what I have for hardware so far.
 
-3h ago
+4h ago
 
 ---
 
 **[Figure 03 handling glassware, fully autonomous](https://www.reddit.com/r/robotics/comments/1qpn1dq/figure_03_handling_glassware_fully_autonomous/)**
 
-19h ago
+20h ago
 
 ---
 
@@ -50,7 +50,7 @@ Working on my first robotics build at the moment and easing my way into it. Any 
 
 We want to build a community of robotics and computer vision developers who want to share their algorithms and SOTA models to be used by the industry. The idea is to have a large scale, common repo, where devs contribute their SOTA models and algorithms. It follows the principle of a Skill Library for robotics. Skills can be of computer vision, robotics, RL, VLA models or any other model that is used for industrial robots, mobile robots and humanoid robots. To get started with building the community, we are struggling to figure out what content works best. Some ideas that we have include: A Discord channel for centralised discussion YouTube channel showcasing how to use the Skills to build use cases Technical blogs on Medium What channels do you regularly visit to keep up to date with all the varied models out there? And also, what content do you generally enjoy?
 
-5h ago
+6h ago
 
 ---
 
@@ -64,15 +64,7 @@ We want to build a community of robotics and computer vision developers who want
 
 Engineers have trained a new humanoid robot to perform realistic lip-syncing not by manually programming every movement, but by having it 'watch' hours of YouTube videos. By visually analyzing human speakers, the robot learned to match its mouth movements to audio with eerie precision.
 
-🔗 [TechSpot](https://www.techspot.com/news/110967-humanoid-robot-learns-realistic-lip-movement-watching-youtube.html) • 8h ago
-
----
-
-**[Do Autonomous Robots Need Purpose-Built Wearables?](https://www.reddit.com/r/robotics/comments/1qqanlx/do_autonomous_robots_need_purposebuilt_wearables/)**
-
-Hi everyone — we’re working on an early-stage startup exploring wearables for autonomous robots (protective, functional, or interface-related components designed specifically for robots, not humans). We’re currently in a research and validation phase and would really value input from people with hands-on experience in robotics (deployment, hardware, safety, field operations, humanoids, autonomous robots, etc.). We’re trying to understand: Whether robots today face unmet needs around protection, durability, environment adaptation, or interaction How these issues are currently solved (or worked around) Whether purpose-built “robot wearables” would be useful or unnecessary If you work with or around autonomous robots, we’d appreciate any insights, critiques, or examples from real-world use. Thanks in advance — we’re here to learn, not to pitch.
-
-1h ago
+🔗 [TechSpot](https://www.techspot.com/news/110967-humanoid-robot-learns-realistic-lip-movement-watching-youtube.html) • 9h ago
 
 ---
 
@@ -84,25 +76,33 @@ We are building a 3d-printable animatronics robots, Mostly the same 3d printed p
 
 ---
 
-**[Research into makers!](https://www.reddit.com/r/robotics/comments/1qqa52d/research_into_makers/)**
-
-Hi everyone! We’re Product Design Engineering students at Imperial College London working on a project to improve experiences for makers and makerspaces. We’re currently in the research phase and would love to hear from anyone in the making community. If you have a few minutes, please could you fill out our 10 minute survey by using the link below. Thanks so much for your time!
-
-🔗 [Notion](https://peaceful-headlight-c88.notion.site/2f4cd985669b80fca1b1f63a5520be75?pvs=105) • 1h ago
-
----
-
 **[Ball Balance Bot](https://www.reddit.com/r/robotics/comments/1qq9u95/ball_balance_bot/)**
 
 Hello , I'm currently doing internship in my college and I have got one month to finish ball balancing bot , I do have some idea, so guys please help me out what are the components are required for doing the project and how to do it that will be grateful and appreciate the suggestion :)
 
-1h ago
+2h ago
+
+---
+
+**[Do Autonomous Robots Need Purpose-Built Wearables?](https://www.reddit.com/r/robotics/comments/1qqanlx/do_autonomous_robots_need_purposebuilt_wearables/)**
+
+Hi everyone — we’re working on an early-stage startup exploring wearables for autonomous robots (protective, functional, or interface-related components designed specifically for robots, not humans). We’re currently in a research and validation phase and would really value input from people with hands-on experience in robotics (deployment, hardware, safety, field operations, humanoids, autonomous robots, etc.). We’re trying to understand: Whether robots today face unmet needs around protection, durability, environment adaptation, or interaction How these issues are currently solved (or worked around) Whether purpose-built “robot wearables” would be useful or unnecessary If you work with or around autonomous robots, we’d appreciate any insights, critiques, or examples from real-world use. Thanks in advance — we’re here to learn, not to pitch.
+
+2h ago
+
+---
+
+**[iRobot cofounder on robotics as a toolkit, not a single destination](https://www.reddit.com/r/robotics/comments/1qpg3sr/irobot_cofounder_on_robotics_as_a_toolkit_not_a/)**
+
+Former iRobot CEO Colin Angle talks about how robotics isn’t really a single “thing,” and that defaulting to humanoids as the mental model ends up flattening what’s actually going on in the field. He ties it back to his time at iRobot and how a lot of success or failure came down to very specific questions about value and trust, not form factor. Amazon attempted to acquire the declining company from bankruptcy but after an 18-month process the deal fell through. Angle is now with another company.
+
+1d ago
 
 ---
 
 **[I want help with a gazebo project is there any one who knows about gazebo](https://www.reddit.com/r/robotics/comments/1qq3zxu/i_want_help_with_a_gazebo_project_is_there_any/)**
 
-6h ago
+7h ago
 
 ---
 
@@ -110,11 +110,11 @@ Hello , I'm currently doing internship in my college and I have got one month to
 
 ## Google News: "robotics"
 
-**[Crew Studies Robotics and Virtual Reality Advancing Space Tech](https://www.nasa.gov/blogs/spacestation/2026/01/27/crew-studies-robotics-and-virtual-reality-advancing-space-tech/)**
+**[Watch China’s humanoid robots walk out of crates like Matrix scene](https://interestingengineering.com/ai-robotics/limx-humanoid-robots-walk-out-of-crates)**
 
-Robotics and virtual reality filled the science schedule aboard the International Space Station on Tuesday as the Expedition 74 crew promoted education and explored human research. The orbital trio also inspected safety equipment, worked on cargo swaps, and conducted Earth observations.
+LimX Dynamics showcased what it calls the world’s first practical autonomous deployment of humanoid robots, with 18 units operating without human control.
 
-NASA (.gov) • 1d ago
+Interesting Engineering • 2d ago
 
 ---
 
@@ -124,17 +124,9 @@ Tech Xplore • 1d ago
 
 ---
 
-**[9 weeks to 9 days: How autonomous drilling is transforming data center construction](https://www.therobotreport.com/dewalt-drilling-robot/)**
+**[ABB Robotics seeks to standardize measurement of robot energy consumption](https://www.therobotreport.com/abb-robotics-standardizes-measurement-robot-energy-consumption/)**
 
-DEWALT and August Robotics launched an autonomous drilling robot to accelerate concrete floor preparation for data centers.
-
-The Robot Report • 2h ago
-
----
-
-**[OnRobot to share automation roadmap advice in Dallas](https://www.therobotreport.com/onrobot-share-automation-roadmap-advice-in-dallas/)**
-
-OnRobot and FANUC will demonstrate common applications for automation to help manufacturers in North Texas.
+ABB Robotics said new energy consumption measurement will allow end users to make more informed decisions and support sustainability efforts.
 
 The Robot Report • 1h ago
 
@@ -144,15 +136,15 @@ The Robot Report • 1h ago
 
 Future of the company lies in equipping and running a global fleet of driverless taxis and in selling humanoid robots
 
-Financial Times • 4h ago
+Financial Times • 5h ago
 
 ---
 
-**[Tesla axes EV models in drive for robotics revenue](https://news.sky.com/story/tesla-axes-ev-models-in-drive-for-robotics-revenue-13500444)**
+**[Elon Musk is pivoting Tesla to AI and robots. Wall Street analysts have their doubts](https://www.cnbc.com/2026/01/29/elon-musk-tesla-pivot-to-ai-robots-wall-street-reaction.html)**
 
-Investors liked what they heard about the future following the company's latest results, but Elon Musk is under huge pressure to deliver on his vision as a series of targets have been missed.
+Wall Street analysts called Tesla's pivot toward AI and robotics and away from automobiles the most important takeaway from its latest earnings report.
 
-Sky News • 8h ago
+CNBC • 1h ago
 
 ---
 
@@ -160,7 +152,21 @@ Sky News • 8h ago
 
 Musk’s optimism for Optimus robot demand help EV maker beat quarterly expectations despite first-ever yearly revenue decline
 
-The Guardian • 17h ago
+The Guardian • 18h ago
+
+---
+
+**[Crew Studies Robotics and Virtual Reality Advancing Space Tech](https://www.nasa.gov/blogs/spacestation/2026/01/27/crew-studies-robotics-and-virtual-reality-advancing-space-tech/)**
+
+Robotics and virtual reality filled the science schedule aboard the International Space Station on Tuesday as the Expedition 74 crew promoted education and explored human research. The orbital trio also inspected safety equipment, worked on cargo swaps, and conducted Earth observations.
+
+NASA (.gov) • 1d ago
+
+---
+
+**[Houston secures FIRST robotics championship through 2034 after GRB expansion bid](https://www.houstonchronicle.com/business/article/international-youth-robotics-grb-expansion-21320791.php)**
+
+houstonchronicle.com • 57m ago
 
 ---
 
@@ -177,15 +183,6 @@ ABC News • 2d ago
 ADAM, Richtech's Azure-powered robot, now uses vision, voice and contextual data to improve retail workflows and customer interactions.
 
 Stock Titan • 2d ago
-
----
-
-**[READER REPORT: Local FIRST robotics team headed into state championship this weekend](https://westseattleblog.com/2026/01/reader-report-local-first-robotics-team-headed-into-state-championship-thius-weekend/)**
-
-One of our area's FIRST Robotics teams has made it into the state championship round! Thanks to Ash for the photo, report, and video:
-A LEGO robotics team called Brickrolled, made up of five students in grades 3 through 6 from Westside School, has qualified for the FIRST LEGO League Western Washington State Championship and will be represen...
-
-westseattleblog.com • 14h ago
 
 ---
 
@@ -257,7 +254,7 @@ This new humanoid robot is not about hype or flashy promises. Sprout is designed
 
 📺 DPCcars
 
-👁️ 1K • 👍 42 • 💬 9 • ⏱️ 3:17 • 20h ago
+👁️ 1K • 👍 42 • 💬 9 • ⏱️ 3:17 • 21h ago
 
 ---
 
@@ -285,7 +282,7 @@ Congrats to all who were voted for in the FTC Top 25 by the community! In FTC To
 
 📺 FUN Robotics Network
 
-👁️ 2K • 👍 21 • ⏱️ 47:27 • 13h ago
+👁️ 2K • 👍 21 • ⏱️ 47:27 • 14h ago
 
 ---
 
