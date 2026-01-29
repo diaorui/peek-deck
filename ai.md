@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-01-29T22:57:22.622901+00:00'
+updated: '2026-01-29T23:31:37.346419+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
 - repositories
-- videos
 - social
 - news
+- videos
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** January 29, 2026 at 22:57 UTC  
+**Last Updated:** January 29, 2026 at 23:31 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -61,7 +61,7 @@ Hey everyone. I Just published a breakdown on Moltbot: the self-hosted, open-sou
 
 This post introduces the concept of "two agentic loops": the inner loop that handles reasoning and tool use, while the outer loop handles everything that makes agents ready for production—orchestration, guardrails, observability, and bounded execution. The outer loop is real infrastructure that needs to be built and maintained independently. Plano implements this pattern as an AI-native proxy and data plane.
 
-🔗 [Plano](https://planoai.dev/blog/the-two-agentic-loops-how-to-design-and-scale-agentic-apps) • 33m ago
+🔗 [Plano](https://planoai.dev/blog/the-two-agentic-loops-how-to-design-and-scale-agentic-apps) • 1h ago
 
 ---
 
@@ -69,7 +69,7 @@ This post introduces the concept of "two agentic loops": the inner loop that han
 
 A lot of the discussion around AI right now focuses on code generation: how far it can go, how fast it’s improving, and whether software engineering as a profession is at risk. Here’s how I currently see it. Modern AI systems are extremely good at automation. Given a context and a set of assumptions, they can generate plausible next actions: code, refactors, tests, even architectural sketches. That’s consistent with what these systems are optimized for: prediction and continuation. Judgment is a different kind of problem. Judgment is about deciding whether the assumptions themselves are still valid: Are we solving the right problem? Are we optimizing the right dimension? Should we continue or stop and reframe entirely? That kind of decision isn’t about generating better candidates. It’s about invalidating context, recognizing shifts in constraints, and making strategic calls under uncertainty. Historically, this has been most visible in areas like architecture, system design, and product-level trade-offs... places where failures don’t show up as bugs, but as long-term rigidity or misalignment. From this perspective, AI doesn’t remove the need for engineers, it changes where human contribution matters. Skills shift left: less emphasis on implementation details, more emphasis on problem framing, system boundaries, and assumption-checking. I'm not claiming AI will never do it, but currently it's not optimized for this. Execution scales well. Judgment doesn’t. And that boundary is becoming more visible as everything else accelerates. Curious how people here think about this distinction. Do you see judgment as something fundamentally different from automation, or just a lagging capability that will eventually be absorbed as models improve?
 
-🔗 [Medium](https://medium.com/@a.mandyev/judgment-is-the-last-non-automatable-skill-711507721fd1) • 10h ago
+🔗 [Medium](https://medium.com/@a.mandyev/judgment-is-the-last-non-automatable-skill-711507721fd1) • 11h ago
 
 ---
 
@@ -77,7 +77,7 @@ A lot of the discussion around AI right now focuses on code generation: how far 
 
 We're excited to share our latest podcast episode, where we talk about why some of the best movies fail at the box office only to become cult classics a decade later and whether AI can actually predict the next underground masterpiece by looking at real-time sentiment analysis and "memeable density". The data shows that playing it safe will just not cut it. To stand out and make a movie that will be remembered for decades, you have to throw caution to the wind and take the bold risks that everyone will tell you not to make. We also dive into some of the interesting side-projects we're working on, along with a few weird, off-beat recent news stories about AI. Check it out and hope you enjoy
 
-🔗 [open.substack.com](https://open.substack.com/pub/storyprism/p/story-prism-podcast-ep-7?r=h11e6&utm_campaign=post&utm_medium=web) • 5h ago
+🔗 [open.substack.com](https://open.substack.com/pub/storyprism/p/story-prism-podcast-ep-7?r=h11e6&utm_campaign=post&utm_medium=web) • 6h ago
 
 ---
 
@@ -93,7 +93,7 @@ Amazon is laying off 16,000 employees as AI battle intensifies.[1] Google adds G
 
 Wordsmith Law has issued a claim against legal AI company Wordsmith in an apparent naming dispute.
 
-🔗 [nonbillable.co.uk](https://www.nonbillable.co.uk/news/wordsmith-dispute-legal-ai-startup-against-london-law-firm) • 6h ago
+🔗 [nonbillable.co.uk](https://www.nonbillable.co.uk/news/wordsmith-dispute-legal-ai-startup-against-london-law-firm) • 7h ago
 
 ---
 
@@ -107,7 +107,7 @@ Wordsmith Law has issued a claim against legal AI company Wordsmith in an appare
 
 Hi all, looking for the most capable photo to video AI tool out currently. It could be paid, free or self hosted - just want something robust that can take a real photo and give it some motion without any wacky variances. A search of previous discussions are all over the place with recs, some of even already outdated. Looking for suggestions based on people’s most recent experience! Any help would be greatly appreciated!
 
-8h ago
+9h ago
 
 ---
 
@@ -119,7 +119,7 @@ Hi all, looking for the most capable photo to video AI tool out currently. It co
 
 Google AI Ultra subscribers in the U.S. can now try out Project Genie.
 
-blog.google • 5h ago
+blog.google • 6h ago
 
 ---
 
@@ -135,7 +135,7 @@ blog.google • 2d ago
 
 Starting Thursday, Google AI Ultra subscribers in the U.S. can play around with Project Genie, which is powered by a combination of Google’s latest world model Genie 3, its image generation model Nano Banana Pro, and Gemini.
 
-TechCrunch • 5h ago
+TechCrunch • 6h ago
 
 ---
 
@@ -143,7 +143,7 @@ TechCrunch • 5h ago
 
 The iShares Expanded Tech-Software Sector ETF is on pace for its biggest one-day decline since April 4 during the tariff-triggered downturn.
 
-CNBC • 7h ago
+CNBC • 8h ago
 
 ---
 
@@ -151,13 +151,13 @@ CNBC • 7h ago
 
 Now that's what I call slop! Vol. 2.
 
-Gizmodo • 26m ago
+Gizmodo • 1h ago
 
 ---
 
 **[Apple acquires Israeli audio AI startup Q.ai](https://www.reuters.com/business/apple-acquires-audio-ai-startup-qai-2026-01-29/)**
 
-Reuters • 5h ago
+Reuters • 6h ago
 
 ---
 
@@ -173,7 +173,7 @@ Financial Times • 5h ago
 
 For a company that has spent the past year being asked whether its best days are behind it, the numbers arrived without any qualifiers
 
-qz.com • 48m ago
+qz.com • 1h ago
 
 ---
 
@@ -181,7 +181,7 @@ qz.com • 48m ago
 
 AI ​startup Perplexity ‌has signed ‌a $750 million agreement with Microsoft ⁠to ‌use its Azure ‍cloud service, Bloomberg News ​reported on ‌Thursday, citing people familiar with the ⁠matter. Reuters could ​not ​immediately verify the report. (Reporting ‍by ⁠Mihika Sharma in ⁠Bengaluru; Editing ‌by Pooja ‌Desai)
 
-Yahoo Finance • 39m ago
+Yahoo Finance • 1h ago
 
 ---
 
@@ -217,13 +217,13 @@ Interactive article explaining the physics of an airfoil and what makes airplane
 
 Or, as they like to call it, the 'AI Skills Hub'. Which was built by PwC because of course it was
 
-⬆️ 387 • 💬 143 • 23h ago • [Mahad Kalam](https://mahadk.com/posts/ai-skills-hub)
+⬆️ 387 • 💬 143 • 1d ago • [Mahad Kalam](https://mahadk.com/posts/ai-skills-hub)
 
 ---
 
 **[The tech market is fundamentally fucked up and AI is just a scapegoat](https://news.ycombinator.com/item?id=46809069)**
 
-⬆️ 291 • 💬 202 • 10h ago • [bayramovanar.substack.com](https://bayramovanar.substack.com/p/tech-market-is-fucked-up)
+⬆️ 291 • 💬 202 • 11h ago • [bayramovanar.substack.com](https://bayramovanar.substack.com/p/tech-market-is-fucked-up)
 
 ---
 
@@ -285,7 +285,7 @@ Get 10% off all Hostinger yearly plans here: http://hostinger.com/albertatech (U
 
 📺 Alberta Tech
 
-👁️ 87K • 👍 7K • 💬 656 • ⏱️ 11:33 • 8h ago
+👁️ 87K • 👍 7K • 💬 656 • ⏱️ 11:33 • 9h ago
 
 ---
 
@@ -305,7 +305,7 @@ How to Create AI Influencer For FREE ! Hyper Realistic AI Influencer . . In this
 
 📺 Fayyaz Ahmed
 
-👁️ 5K • 👍 400 • 💬 15 • ⏱️ 3:23 • 16h ago
+👁️ 5K • 👍 400 • 💬 15 • ⏱️ 3:23 • 17h ago
 
 ---
 
@@ -335,7 +335,7 @@ AI just made a serious jump into the real world. OpenAI unveiled PRISM, a new AI
 
 📺 AI Revolution
 
-👁️ 21K • 👍 687 • 💬 47 • ⏱️ 11:36 • 23h ago
+👁️ 21K • 👍 687 • 💬 47 • ⏱️ 11:36 • 1d ago
 
 ---
 
@@ -355,7 +355,7 @@ JOIN JERRY'S PATREON with TRADE ALERTS: https://www.patreon.com/jerryromine Most
 
 📺 Jerry Romine Stocks
 
-👁️ 25K • 👍 944 • 💬 144 • ⏱️ 9:17 • 9h ago
+👁️ 25K • 👍 944 • 💬 144 • ⏱️ 9:17 • 10h ago
 
 ---
 
@@ -391,7 +391,7 @@ PersonaPlex-7B-v1 is a real-time, full-duplex speech-to-speech conversational mo
 
 `audio-to-audio`
 
-⬇️ 50,776 • ❤️ 1,448 • 23h ago
+⬇️ 50,776 • ❤️ 1,448 • 1d ago
 
 ---
 
@@ -403,7 +403,7 @@ Kimi K2.5 is a native multimodal agentic model with 1T parameters, excelling in 
 
 `image-text-to-text`
 
-⬇️ 21,428 • ❤️ 1,075 • 13h ago
+⬇️ 21,428 • ❤️ 1,075 • 14h ago
 
 ---
 
@@ -415,7 +415,7 @@ Qwen3-TTS-12Hz-1.7B-CustomVoice is a multilingual text-to-speech model supportin
 
 `text-to-speech` `1.9B`
 
-⬇️ 169,048 • ❤️ 750 • 14h ago
+⬇️ 169,048 • ❤️ 750 • 15h ago
 
 ---
 
@@ -463,7 +463,7 @@ GLM-4.7-Flash is a 30B-A3B MoE model, offering strong performance in the 30B cla
 
 `text-generation` `31.2B`
 
-⬇️ 609,013 • ❤️ 1,327 • 14h ago
+⬇️ 609,013 • ❤️ 1,327 • 15h ago
 
 ---
 
@@ -713,7 +713,7 @@ The Ultimate Collection of 500+ Agentic Skills for Claude Code/Antigravity/Curso
 
 `Python` `agentic-skills` `ai-agents` `antigravity` `autonomous-coding` `claude-code`
 
-⭐ 5.3k • 🔱 1.2k • 10h ago
+⭐ 5.3k • 🔱 1.2k • 11h ago
 
 ---
 
@@ -741,7 +741,7 @@ Remove AI features, telemetry data reporting, sponsored content, product integra
 
 `Shell` `chrome` `firefox` `google-chrome` `linux` `macos`
 
-⭐ 1.9k • 🔱 51 • 3d ago
+⭐ 1.9k • 🔱 51 • 4d ago
 
 ---
 

@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-01-29T22:57:22.641660+00:00'
+updated: '2026-01-29T23:31:37.363613+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- videos
 - social
 - news
+- videos
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** January 29, 2026 at 22:57 UTC  
+**Last Updated:** January 29, 2026 at 23:31 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -36,7 +36,7 @@ Robotics research and industry news
 
 Working on my first robotics build at the moment and easing my way into it. Any pointers or tips would be greatly appreciated. This is what I have for hardware so far.
 
-9h ago
+10h ago
 
 ---
 
@@ -80,7 +80,7 @@ We are building a 3d-printable animatronics robots, Mostly the same 3d printed p
 
 Hello , I'm currently doing internship in my college and I have got one month to finish ball balancing bot , I do have some idea, so guys please help me out what are the components are required for doing the project and how to do it that will be grateful and appreciate the suggestion :)
 
-8h ago
+9h ago
 
 ---
 
@@ -94,7 +94,7 @@ Former iRobot CEO Colin Angle talks about how robotics isn’t really a single �
 
 **[I want help with a gazebo project is there any one who knows about gazebo](https://www.reddit.com/r/robotics/comments/1qq3zxu/i_want_help_with_a_gazebo_project_is_there_any/)**
 
-13h ago
+14h ago
 
 ---
 
@@ -102,7 +102,7 @@ Former iRobot CEO Colin Angle talks about how robotics isn’t really a single �
 
 Hi everyone, I'm using an Intel RealSense D435 camera with ROS2 Jazzy and MoveIt2. My camera is mounted in a non-standard orientation: Vertically rather than horizontally. More specifically it is rotated 90° counterclockwise (USB port facing up) and tilted 8° downward. I've set up my URDF with a camera_link joint that connects to my robot, and the RealSense ROS2 driver automatically publishes the camera_depth_optical_frame. My questions: Does camera_link need to follow a specific orientation convention? (I've read REP-103 says X=forward, Y=left, Z=up, but does this still apply when the camera is physically rotated?) What should camera_depth_optical_frame look like in RViz after the 90° rotation? The driver creates this automatically - should I expect the axes to look different than a standard horizontal mount? If my point cloud visually appears correctly aligned with reality (floor is horizontal, objects in correct positions), does the TF frame orientation actually matter? Or is it purely cosmetic at that point? Is there a "correct" RPY for a vertically-mounted D435, or do I just need to ensure the point cloud aligns with my robot's world frame? Any guidance from anyone who has mounted a RealSense camera vertically would be really appreciated! Thanks!
 
-13h ago
+14h ago
 
 ---
 
@@ -146,7 +146,7 @@ Ars Technica • 8h ago
 
 Investors liked what they heard about the future following the company's latest results, but Elon Musk is under huge pressure to deliver on his vision as a series of targets have been missed.
 
-Sky News • 15h ago
+Sky News • 16h ago
 
 ---
 
@@ -198,7 +198,7 @@ Robotics stocks are heating up fast, but many of the biggest names are already e
 
 📺 MarketBeat
 
-👁️ 136K • 👍 3K • 💬 183 • ⏱️ 17:39 • 5d ago
+👁️ 136K • 👍 3K • 💬 183 • ⏱️ 17:39 • 6d ago
 
 ---
 
@@ -228,7 +228,7 @@ Designed to work safely and naturally around people, Sprout from Fauna Robotics,
 
 📺 Interesting Engineering
 
-👁️ 833 • 👍 72 • 💬 2 • ⏱️ 1:40 • 7h ago
+👁️ 833 • 👍 72 • 💬 2 • ⏱️ 1:40 • 8h ago
 
 ---
 
@@ -268,7 +268,7 @@ Some people are getting concerned because automatic AI pizza-making machines are
 
 📺 Taylor Jollie
 
-👁️ 6K • 👍 38 • 💬 5 • ⏱️ 0:19 • 5h ago
+👁️ 6K • 👍 38 • 💬 5 • ⏱️ 0:19 • 6h ago
 
 ---
 

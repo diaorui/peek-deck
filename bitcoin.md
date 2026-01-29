@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-01-29T22:57:22.631790+00:00'
+updated: '2026-01-29T23:31:37.354599+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- videos
 - social
 - news
 - cryptocurrency
+- videos
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** January 29, 2026 at 22:57 UTC  
+**Last Updated:** January 29, 2026 at 23:31 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -95,7 +95,7 @@ I wasn’t smart enough to hold onto them :(
 
 Gets punched to 35k
 
-3h ago
+4h ago
 
 ---
 
@@ -107,7 +107,7 @@ Gets punched to 35k
 
 **["Should we have a 2% allocation? 5% allocation? If everybody adopted that conversation...it would be $500k, $600k, $700k per bitcoin."](https://www.reddit.com/r/Bitcoin/comments/1qqcyfl/should_we_have_a_2_allocation_5_allocation_if/)**
 
-6h ago
+7h ago
 
 ---
 
@@ -131,19 +131,19 @@ They are aggressively continuing to buy. We are however seeing outflows from bit
 
 Bitcoin CEO furious about market manipulation: “we must stop market manipulation”
 
-4h ago
+5h ago
 
 ---
 
 **[short of words.](https://www.reddit.com/r/Bitcoin/comments/1qqn3ea/short_of_words/)**
 
-34m ago
+1h ago
 
 ---
 
 **[😂](https://www.reddit.com/r/Bitcoin/comments/1qq31l2/_/)**
 
-14h ago
+15h ago
 
 ---
 
@@ -155,7 +155,7 @@ Bitcoin CEO furious about market manipulation: “we must stop market manipulati
 
 Despite hopes for a macro hedge, bitcoin continues to trade like the riskiest of risk assets in turmoil.
 
-CoinDesk • 53m ago
+CoinDesk • 1h ago
 
 ---
 
@@ -163,13 +163,13 @@ CoinDesk • 53m ago
 
 The token broke below key support at $0.1218 on heavy volume, turning that level into near-term resistance even after a brief bounce from around $0.115.
 
-CoinDesk • 5h ago
+CoinDesk • 6h ago
 
 ---
 
 **[Boomer’s ‘Pet Rock’ Humbles Bitcoin True Believers](https://www.bloomberg.com/news/newsletters/2026-01-29/boomer-s-pet-rock-humbles-bitcoin-true-believers)**
 
-Bloomberg • 56m ago
+Bloomberg • 1h ago
 
 ---
 
@@ -177,7 +177,7 @@ Bloomberg • 56m ago
 
 Bitcoin is approaching a historically important support zone near $62,000, as a long-tracked reserve-cost indicator tied to Binance signals that BTC could see more pain ahead.The $62k reserve cost level has not been tested since the approval of U.S. spot Bitcoin ETFs in January 2024, raising fresh questions over whether ...
 
-Yahoo Finance • 9h ago
+Yahoo Finance • 10h ago
 
 ---
 
@@ -185,7 +185,7 @@ Yahoo Finance • 9h ago
 
 Bitcoin slides to yearly lows as U.S. announces Project Crypto legislation effort
 
-Investing.com • 2h ago
+Investing.com • 3h ago
 
 ---
 
@@ -193,7 +193,7 @@ Investing.com • 2h ago
 
 Is Bitcoin near a bottom while gold peaks? Explore crypto liquidations, market cycles, and why investors are eyeing a BTC-long, gold-short rotation
 
-Forbes • 2h ago
+Forbes • 3h ago
 
 ---
 
@@ -201,7 +201,7 @@ Forbes • 2h ago
 
 Bloomberg's Eric Balchunas argues Bitcoin has beaten gold if we look at the bigger picture.
 
-thestreet.com • 8h ago
+thestreet.com • 9h ago
 
 ---
 
@@ -209,7 +209,7 @@ thestreet.com • 8h ago
 
 Top markets on Myriad this week include predictions on the next stops for Bitcoin and Solana, and President Donald Trump's approval rating.
 
-Decrypt • 4h ago
+Decrypt • 5h ago
 
 ---
 
@@ -217,7 +217,7 @@ Decrypt • 4h ago
 
 The government seems to be amassing more Bitcoin. But little work seems to be happening to enact the terms of the executive order Trump signed to start the 'strategic reserve.'
 
-Fast Company • 12h ago
+Fast Company • 13h ago
 
 ---
 
@@ -259,7 +259,7 @@ Bitcoin plunged to a two-month low Thursday as risk-on assets broadly fell—and
 
 **[Single Bitcoin entity keeping BTC price suppressed below $90K](https://news.ycombinator.com/item?id=46812350)**
 
-⬆️ 1 • 💬 0 • 6h ago • [msn.com](https://www.msn.com/en-us/money/markets/single-bitcoin-entity-keeping-btc-price-suppressed-below-90k-analysis/ar-AA1VfVZb)
+⬆️ 1 • 💬 0 • 7h ago • [msn.com](https://www.msn.com/en-us/money/markets/single-bitcoin-entity-keeping-btc-price-suppressed-below-90k-analysis/ar-AA1VfVZb)
 
 ---
 
@@ -315,7 +315,7 @@ Bitcoin appears to have completed its 2023–2025 market cycle and entered a lat
 
 📺 Benjamin Cowen
 
-👁️ 25K • 👍 2K • 💬 261 • ⏱️ 10:19 • 3h ago
+👁️ 25K • 👍 2K • 💬 261 • ⏱️ 10:19 • 4h ago
 
 ---
 
@@ -325,7 +325,7 @@ After a brief series of amendments were rejected, the U.S. Senate Agriculture Co
 
 📺 Paul Barron Network
 
-👁️ 64K • 👍 4K • 💬 524 • ⏱️ 16:34 • 4h ago
+👁️ 64K • 👍 4K • 💬 524 • ⏱️ 16:34 • 5h ago
 
 ---
 
@@ -335,7 +335,7 @@ Bitcoin #Crypto #Finance Your edge starts here — join DataDash Pro for Discord
 
 📺 DataDash
 
-👁️ 4K • 👍 217 • 💬 16 • ⏱️ 12:08 • 6h ago
+👁️ 4K • 👍 217 • 💬 16 • ⏱️ 12:08 • 7h ago
 
 ---
 
@@ -375,7 +375,7 @@ Bitcoin #Crypto #Finance Welcome to Market Mavericks , where fast paced market a
 
 📺 The Wolf Of All Streets
 
-👁️ 8K • 👍 552 • 💬 125 • ⏱️ 37:17 • 1h ago
+👁️ 8K • 👍 552 • 💬 125 • ⏱️ 37:17 • 2h ago
 
 ---
 
@@ -405,7 +405,7 @@ BTC #Bitcoin #Cryptocurrency Join Michael Saylor for his unforgettable keynote a
 
 📺 Sam Jolen
 
-👁️ 3K • 👍 2K • 29m ago
+👁️ 3K • 👍 2K • 1h ago
 
 ---
 
