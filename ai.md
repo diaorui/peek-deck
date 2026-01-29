@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-01-29T05:29:15.827181+00:00'
+updated: '2026-01-29T06:07:10.739137+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- social
 - news
-- videos
 - repositories
+- social
+- videos
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** January 29, 2026 at 05:29 UTC  
+**Last Updated:** January 29, 2026 at 06:07 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -47,7 +47,7 @@ AI news, discussions, and developments
 
 Hello 👋🏼 I Built a script that deploys MoltBot (open source personal AI assistant) to Fly.io, in one command: curl -fsSL https://raw.githubusercontent.com/blissito/moltbot-flyio/main/install.sh | bash What you get: - Your own (Claude/OpenAI/any)-powered assistant running 24/7 - WhatsApp integration (scan QR, done) 🤯 - Web dashboard to manage everything - One machine on Fly.io (free tier works to start) The installer handles: - Fly.io app creation - Persistent volume for data - Secrets configuration - 4GB RAM setup (2GB causes OOM) - Gateway token generation You just need: - Fly.io account (free) & flyctl installed - Anthropic/OpenAI API key GitHub: https://github.com/blissito/moltbot-flyio ¿Why? It just makes Moltbot cloud deployment dead simple. 🤷🏻‍♂️ If you liked it, give it a star ⭐️ or a PR if you find a bug, it's open source. 🤓
 
-52m ago
+1h ago
 
 ---
 
@@ -55,13 +55,13 @@ Hello 👋🏼 I Built a script that deploys MoltBot (open source personal AI as
 
 DeepMind’s AlphaGenome AI model could help solve the problem of predicting how variations in noncoding DNA shape gene expression
 
-🔗 [Scientific American](https://www.scientificamerican.com/article/google-deepmind-unleashes-new-ai-alphagenome-to-investigate-dnas-dark-matter/) • 12h ago
+🔗 [Scientific American](https://www.scientificamerican.com/article/google-deepmind-unleashes-new-ai-alphagenome-to-investigate-dnas-dark-matter/) • 13h ago
 
 ---
 
 **[DeepSeek releases DeepSeek-OCR 2. 🐋](https://www.reddit.com/r/artificial/comments/1qpw4tw/deepseek_releases_deepseekocr_2/)**
 
-2h ago
+3h ago
 
 ---
 
@@ -69,7 +69,7 @@ DeepMind’s AlphaGenome AI model could help solve the problem of predicting how
 
 AI agents are getting really good at doing things, but they're completely blind to their physical surroundings. If you walk into a hotel and you have an AI assistant (like the Chatgpt mobile app), it has no idea there may be a concierge agent on the network that could help you book a spa, check breakfast times, or request late checkout. Same thing at offices, hospitals, cruise ships. The agents are there, but there's no way to discover them. A2A (Google's agent-to-agent protocol) handles how agents talk to each other. MCP handles how agents use tools. But neither answers a basic question: how do you find agents in the first place? So I built LAD-A2A, a simple discovery protocol. When you connect to a Wi-Fi, your agent can automatically find what's available using mDNS (like how AirDrop finds nearby devices) or a standard HTTP endpoint. The spec is intentionally minimal. I didn't want to reinvent A2A or create another complex standard. LAD-A2A just handles discovery, then hands off to A2A for actual communication. Open source, Apache 2.0. Includes a working Python implementation you can run to see it in action. Repo can be found at franzvill/lad. Curious what people think!
 
-8h ago
+9h ago
 
 ---
 
@@ -77,7 +77,7 @@ AI agents are getting really good at doing things, but they're completely blind 
 
 A researcher has created a chatbot that is indistinguishable from human participants in online surveys. Some researchers fear that a workhorse of social science is now under threat.
 
-🔗 [nature.com](https://www.nature.com/articles/d41586-026-00221-8) • 11h ago
+🔗 [nature.com](https://www.nature.com/articles/d41586-026-00221-8) • 12h ago
 
 ---
 
@@ -119,7 +119,7 @@ I saw many people struggling to setup and secure their moltbot/clawdbot. So, I m
 
 It could transform our understanding of why diseases develop and the medicines needed to treat them, says researchers.
 
-BBC • 13h ago
+BBC • 14h ago
 
 ---
 
@@ -133,7 +133,7 @@ Reuters • 5h ago
 
 The Auto Browse agent is available to AI Pro and AI Ultra subscribers, but there are some limits.
 
-Ars Technica • 11h ago
+Ars Technica • 12h ago
 
 ---
 
@@ -149,7 +149,7 @@ blog.google • 1d ago
 
 Publishers want the CMA to impose structural remedies on Google versus behavioral ones, to address the enormous leverage the tech giant has.
 
-Digiday • 26m ago
+Digiday • 1h ago
 
 ---
 
@@ -157,13 +157,13 @@ Digiday • 26m ago
 
 The Enquirer reached out to a dozen of the region's largest districts to gauge where they are in developing AI policies ahead of the state's deadline.
 
-cincinnati.com • 14m ago
+cincinnati.com • 52m ago
 
 ---
 
 **[George Saunders on Climate Guilt, AI and Critical Thinking](https://www.bloomberg.com/news/articles/2026-01-29/george-saunders-on-climate-guilt-ai-and-critical-thinking)**
 
-Bloomberg • 29m ago
+Bloomberg • 1h ago
 
 ---
 
@@ -171,7 +171,7 @@ Bloomberg • 29m ago
 
 Amazon is laying off 16,000 employees, the company’s second round of massive job reductions in two months as it fights to improve its standing in the battle for AI supremacy.
 
-CNN • 18h ago
+CNN • 19h ago
 
 ---
 
@@ -185,7 +185,7 @@ Reuters • 11h ago
 
 Amazon announces 16,000 job cuts in major restructuring to reduce bureaucracy and management layers while investing in AI and other strategic growth areas.
 
-Fox Business • 16h ago
+Fox Business • 17h ago
 
 ---
 
@@ -213,7 +213,7 @@ Apple today unveiled the new AirTag, now with an expanded finding range and a lo
 - - —
 Guys, enough is enough. Bullying is a s...
 
-⬆️ 519 • 💬 235 • 5h ago • [McSweeney's Internet Tendency](https://www.mcsweeneys.net/articles/please-dont-say-mean-things-about-the-ai-that-i-just-invested-a-billion-dollars-in)
+⬆️ 519 • 💬 235 • 6h ago • [McSweeney's Internet Tendency](https://www.mcsweeneys.net/articles/please-dont-say-mean-things-about-the-ai-that-i-just-invested-a-billion-dollars-in)
 
 ---
 
@@ -229,7 +229,7 @@ Exclusive: German research into responses to health queries raises fresh questio
 
 Interactive article explaining the physics of an airfoil and what makes airplanes fly
 
-⬆️ 399 • 💬 51 • 14h ago • [ciechanow.ski](https://ciechanow.ski/airfoil/)
+⬆️ 399 • 💬 51 • 15h ago • [ciechanow.ski](https://ciechanow.ski/airfoil/)
 
 ---
 
@@ -281,7 +281,7 @@ AI just made a serious jump into the real world. OpenAI unveiled PRISM, a new AI
 
 📺 AI Revolution
 
-👁️ 7K • 👍 351 • 💬 22 • ⏱️ 11:36 • 6h ago
+👁️ 7K • 👍 351 • 💬 22 • ⏱️ 11:36 • 7h ago
 
 ---
 
@@ -301,7 +301,7 @@ Support our work: http://novara.media/support Buy Novara Media merch: https://sh
 
 📺 Novara Media
 
-👁️ 17K • 👍 605 • 💬 194 • ⏱️ 21:03 • 8h ago
+👁️ 17K • 👍 605 • 💬 194 • ⏱️ 21:03 • 9h ago
 
 ---
 
@@ -331,7 +331,7 @@ Become a Channel Member (Exclusive Videos): https://www.youtube.com/channel/UCAF
 
 📺 Keith D
 
-👁️ 34K • 👍 2K • 💬 302 • ⏱️ 10:20 • 15h ago
+👁️ 34K • 👍 2K • 💬 302 • ⏱️ 10:20 • 16h ago
 
 ---
 
@@ -349,7 +349,7 @@ Meta is giving Corning up to $6 billion for fiber-optic cable in its AI data cen
 
 📺 Alieff Irfan
 
-👁️ 835K • 👍 44K • 💬 7K • ⏱️ 40:22 • 16h ago
+👁️ 835K • 👍 44K • 💬 7K • ⏱️ 40:22 • 17h ago
 
 ---
 
@@ -641,7 +641,7 @@ Browser automation CLI for AI agents
 
 `TypeScript`
 
-⭐ 11.3k • 🔱 620 • 11h ago
+⭐ 11.3k • 🔱 620 • 12h ago
 
 ---
 
@@ -651,7 +651,7 @@ AI → JSON → UI
 
 `TypeScript`
 
-⭐ 9.6k • 🔱 504 • 13h ago
+⭐ 9.6k • 🔱 504 • 14h ago
 
 ---
 
@@ -691,7 +691,7 @@ Marketing skills for Claude Code and AI agents. CRO, copywriting, SEO, analytics
 
 `claude` `codex` `marketing`
 
-⭐ 5.2k • 🔱 566 • 21h ago
+⭐ 5.2k • 🔱 566 • 22h ago
 
 ---
 
@@ -701,7 +701,7 @@ The Ultimate Collection of 500+ Agentic Skills for Claude Code/Antigravity/Curso
 
 `Python` `agentic-skills` `ai-agents` `antigravity` `autonomous-coding` `claude-code`
 
-⭐ 5.0k • 🔱 1.1k • 12h ago
+⭐ 5.0k • 🔱 1.1k • 13h ago
 
 ---
 

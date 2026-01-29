@@ -3,14 +3,14 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-01-29T05:29:15.841483+00:00'
+updated: '2026-01-29T06:07:10.753687+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- social
 - news
 - videos
+- social
 - cryptocurrency
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** January 29, 2026 at 05:29 UTC  
+**Last Updated:** January 29, 2026 at 06:07 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -80,7 +80,7 @@ Ethereum doesn’t have a fixed “X% inflation forever” schedule. Its supply 
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-23h ago
+1d ago
 
 ---
 
@@ -94,7 +94,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 Sorry if it was asked by past, i couldn't find the answer. Question about Lido stETH unstaking instantly, without delay I am having stETH staked on my Ledger Nano X that i'm trying to unstake but on lido page it takes up to a week, isn't there a way to process it faster? Advices appreciated
 
-15h ago
+16h ago
 
 ---
 
@@ -108,7 +108,7 @@ Sorry if it was asked by past, i couldn't find the answer. Question about Lido s
 
 I just launched my hardware wallet review series and the first device to be reviewed gave me surprising results! The imKey Pro is a $110 bluetooth wallet from the 2019 era. It’s not something most people have heard of, and at this point, it can be considered previous gen tech, is partially closed source, and even uses microUSB still (when not using the bluetooth-native connection). Can it still hold up in 2026? Well… surprisingly, yes. Even more assuring is that some years ago, someone deeply embedded in the Ethereum Foundation (and has become even MORE deeply embedded since) told me she uses it exclusively. Not Ledger, not Trezor, not GridPlus. The imKey. That endorsement alone made me take this device very seriously. So I tested everything: the Infineon SLE78 secure element, the bluetooth security model, the mobile-first UX, the clear signing implementation. Pros: EAL6+ certified chip (same as your passport, bank cards, and Yubikey!!!) (More) readable transaction context Wireless signing via imToken app Great build quality Entry-level price Cons: 2019 hardware showing its age Bluetooth = wider attack surface Firmware isn't open source Requires binding codes if using the bluetooth connection via imToken app Limited desktop support For a $110 entry-level option, I would definitely consider it. First of all, ANY migration away from holding your private keys inside an internet-connected device (e.g. your laptop, a hot wallet on your phone, etc.) to a dedicated hardware wallet will be a MASSIVE security upgrade. Don’t let perfect be the enemy of good. But knowing there’s other, more modern options out there now, it can be difficult to *strongly* recommend the imKey over other options. But the question begs… what did my EF associate see in the imKey that I didn’t? I had to find out. Watch my full review video here: https://youtu.be/FV2qJ3eLXFI ------------------------- If we're meeting for the first time, hi 👋! I find crypto youtube to be a giant cesspool. As a result, I started building my channel to spread the good word on good work in crypto — something with substance and humanity. Dropping a like, sub, and comment goes a LONG way to supporting me, so please consider doing so!
 
-🔗 [youtu.be](https://youtu.be/FV2qJ3eLXFI) • 15h ago
+🔗 [youtu.be](https://youtu.be/FV2qJ3eLXFI) • 16h ago
 
 ---
 
@@ -124,7 +124,7 @@ Hi r/ethereum, I’ve been running a personal experiment called FitVow. The idea
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-1d ago
+2d ago
 
 ---
 
@@ -158,7 +158,7 @@ Decrypt • 14h ago
 
 The ERC-8004 proposal aims to let AI agents interact with entities on Ethereum, allowing them to participate in a decentralized economy.
 
-The Block • 22h ago
+The Block • 23h ago
 
 ---
 
@@ -180,7 +180,7 @@ Binance • 2d ago
 
 Ethereum’s price action has turned quiet again. After recent volatility, ETH has slipped back into consolidation, frustrating traders looking for follow-through in either direction. Yet despite the lack of momentum, price behavior itself is beginning to tell a more constructive story.Rather than ex…
 
-TradingView • 17h ago
+TradingView • 18h ago
 
 ---
 
@@ -204,7 +204,7 @@ CoinDesk • 2d ago
 
 On-chain analytics firm Santiment has pointed out how XRP and Ethereum are among coins sitting in the MVRV Ratio’s “undervalued” zone.30-Day MVRV Is Negative For XRP & EthereumIn a new post on X, on-chain analytics firm Santiment has talked about where some notable cryptocurrencies like XRP and Bit…
 
-TradingView • 1d ago
+TradingView • 2d ago
 
 ---
 
@@ -234,7 +234,7 @@ Cardano and Ethereum holders... GET READY!! ✓ Bitunix (no kyc, $10000 bonus): 
 
 📺 Altcoin Daily
 
-👁️ 17K • 👍 1K • 💬 251 • ⏱️ 8:35 • 6h ago
+👁️ 17K • 👍 1K • 💬 251 • ⏱️ 8:35 • 7h ago
 
 ---
 
@@ -264,7 +264,7 @@ BITCOIN JUST REJECTED: THIS IS NEXT (Prepare Now)!!! - Bitcoin News Today, Ether
 
 📺 Crypto World
 
-👁️ 2K • 👍 168 • 💬 103 • ⏱️ 16:28 • 5h ago
+👁️ 2K • 👍 168 • 💬 103 • ⏱️ 16:28 • 6h ago
 
 ---
 
@@ -274,7 +274,7 @@ Crypto News: Fidelity Investments is launching its first stablecoin, the Fidelit
 
 📺 Thinking Crypto
 
-👁️ 418 • 👍 61 • 💬 7 • ⏱️ 16:32 • 1h ago
+👁️ 418 • 👍 61 • 💬 7 • ⏱️ 16:32 • 2h ago
 
 ---
 
@@ -284,7 +284,7 @@ This video provides a professional Elliott Wave and technical analysis of Ethere
 
 📺 More Crypto Online
 
-👁️ 2K • 👍 115 • 💬 13 • ⏱️ 5:44 • 11h ago
+👁️ 2K • 👍 115 • 💬 13 • ⏱️ 5:44 • 12h ago
 
 ---
 
@@ -314,7 +314,7 @@ FREE Daily On-Chain Analysis & Crypto News In 5-Mins: http://bit.ly/TheCryptoNut
 
 📺 Stock Moe
 
-👁️ 13K • 👍 803 • 💬 58 • ⏱️ 19:46 • 15h ago
+👁️ 13K • 👍 803 • 💬 58 • ⏱️ 19:46 • 16h ago
 
 ---
 

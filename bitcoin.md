@@ -3,14 +3,14 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-01-29T05:29:15.835492+00:00'
+updated: '2026-01-29T06:07:10.747581+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- social
 - news
 - videos
+- social
 - cryptocurrency
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** January 29, 2026 at 05:29 UTC  
+**Last Updated:** January 29, 2026 at 06:07 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -89,7 +89,7 @@ Source: Blossom Social
 
 What are you doing with your time. You’re saving pieces of paper with numbers on it. I expect everyone here to understand the problems BITCOIN solves We don’t want more dollars we want more money The US dollar is not money. If you’re building wealth. Follow me so we can connect. Great minds think alike and have studied Bitcoin.
 
-3h ago
+4h ago
 
 ---
 
@@ -101,13 +101,13 @@ What are you doing with your time. You’re saving pieces of paper with numbers 
 
 **[The single email that changed the course of history.](https://www.reddit.com/r/Bitcoin/comments/1qpqemf/the_single_email_that_changed_the_course_of/)**
 
-6h ago
+7h ago
 
 ---
 
 **[Hodling nonstop](https://www.reddit.com/r/Bitcoin/comments/1qpxk52/hodling_nonstop/)**
 
-1h ago
+2h ago
 
 ---
 
@@ -115,13 +115,13 @@ What are you doing with your time. You’re saving pieces of paper with numbers 
 
 I gotta stop getting hammered before I trade, But its sooooo profitable.. .
 
-1h ago
+2h ago
 
 ---
 
 **[NBA legend Scottie Pippen often says Satoshi visits him in his dreams. This is what I imagine they're like.](https://www.reddit.com/r/Bitcoin/comments/1qpjtzp/nba_legend_scottie_pippen_often_says_satoshi/)**
 
-10h ago
+11h ago
 
 ---
 
@@ -143,7 +143,7 @@ Historically, the most significant portion of Bitcoin's gains come in just 10 tr
 
 Just searching users opinions.
 
-7h ago
+8h ago
 
 ---
 
@@ -155,7 +155,7 @@ Just searching users opinions.
 
 Gold fans rushed in to buy as the Fed chair said he took no macro signal from the raging bull market in precious metals.
 
-CoinDesk • 7h ago
+CoinDesk • 8h ago
 
 ---
 
@@ -171,7 +171,7 @@ Bitcoin Magazine • 15h ago
 
 The Kitco News Team brings you the latest news, videos, analysis and opinions regarding Precious Metals, Crypto, Mining, World Markets and Global Economy.
 
-KITCO • 16h ago
+KITCO • 17h ago
 
 ---
 
@@ -179,7 +179,7 @@ KITCO • 16h ago
 
 The latest proposal closely mirrors House Bill 1202, which was introduced during the 2025 legislative session.
 
-The Block • 23h ago
+The Block • 1d ago
 
 ---
 
@@ -187,7 +187,7 @@ The Block • 23h ago
 
 Since 2022, Grand Forks residents have lost $466,803 to bitcoin cryptocurrency, according to GFPD Det. Todd Riedinger. The scams are difficult to trace and lost money usually can't be recovered.
 
-grandforksherald.com • 16h ago
+grandforksherald.com • 17h ago
 
 ---
 
@@ -217,7 +217,7 @@ Yahoo Finance • 1d ago
 
 A Bitcoin critic warns the network is “unravelling” as hashrate drops sharply, but traders are pushing back against the claims.
 
-CCN.com • 15h ago
+CCN.com • 16h ago
 
 ---
 
@@ -225,7 +225,7 @@ CCN.com • 15h ago
 
 The world's top cryptocurrency could finally warm up this year.
 
-The Motley Fool • 3h ago
+The Motley Fool • 4h ago
 
 ---
 
@@ -284,7 +284,7 @@ Transform HN comment threads into executive intelligence. AI analyzes discussion
 
 Reporting on Fintech, Crypto, and Blockchain Activity in Africa
 
-⬆️ 1 • 💬 0 • 10h ago • [BitKE](https://bitcoinke.io/2026/01/ozow-announces-payments-solution-by-moneybadger/)
+⬆️ 1 • 💬 0 • 11h ago • [BitKE](https://bitcoinke.io/2026/01/ozow-announces-payments-solution-by-moneybadger/)
 
 ---
 
@@ -296,7 +296,7 @@ Reporting on Fintech, Crypto, and Blockchain Activity in Africa
 
 **[Show HN: We built a type-safe Python ORM for RedisGraph/FalkorDB](https://news.ycombinator.com/item?id=46796602)**
 
-⬆️ 5 • 💬 3 • 13h ago
+⬆️ 5 • 💬 3 • 14h ago
 
 ---
 
@@ -316,7 +316,7 @@ Take Control of Your Retirement — Grow Crypto & Gold Tax-Advantaged. https://w
 
 📺 Savvy Finance
 
-👁️ 1K • 👍 100 • 💬 4 • ⏱️ 21:44 • 3h ago
+👁️ 1K • 👍 100 • 💬 4 • ⏱️ 21:44 • 4h ago
 
 ---
 
@@ -326,7 +326,7 @@ This is not Bitcoin going up. This is the dollar breaking down in real time. A d
 
 📺 Simply Bitcoin
 
-👁️ 14K • 👍 2K • 💬 283 • ⏱️ 15:53 • 5h ago
+👁️ 14K • 👍 2K • 💬 283 • ⏱️ 15:53 • 6h ago
 
 ---
 
@@ -336,7 +336,7 @@ Bitcoin is at a massive crossroads, and the charts are telling a different story
 
 📺 Gareth Soloway
 
-👁️ 35K • 👍 2K • 💬 623 • ⏱️ 9:04 • 8h ago
+👁️ 35K • 👍 2K • 💬 623 • ⏱️ 9:04 • 9h ago
 
 ---
 
@@ -346,7 +346,7 @@ The Dollar is breaking and the "Sell America" trade is officially on. While the 
 
 📺 Crypto Banter
 
-👁️ 32K • 👍 2K • 💬 56 • ⏱️ 26:12 • 13h ago
+👁️ 32K • 👍 2K • 💬 56 • ⏱️ 26:12 • 14h ago
 
 ---
 
@@ -356,7 +356,7 @@ Unicoin founder and chief strategy officer Silvina Moschini discusses crypto leg
 
 📺 Fox Business Clips
 
-👁️ 110K • 👍 2K • 💬 827 • ⏱️ 7:19 • 14h ago
+👁️ 110K • 👍 2K • 💬 827 • ⏱️ 7:19 • 15h ago
 
 ---
 
@@ -366,7 +366,7 @@ Today, let's examine Bitcoin's charts and metrics, as well as the latest Macro a
 
 📺 CryptosRUs
 
-👁️ 32K • 👍 1K • 💬 287 • ⏱️ 38:00 • 12h ago
+👁️ 32K • 👍 1K • 💬 287 • ⏱️ 38:00 • 13h ago
 
 ---
 
@@ -386,7 +386,7 @@ TrumpCrypto2026 #DigitalAssets #TrumpAnnouncement Welcome to the Trump Crypto Fo
 
 📺 Kolkata Literary Meet
 
-👁️ 3K • 👍 1K • 10h ago
+👁️ 3K • 👍 1K • 11h ago
 
 ---
 
@@ -396,7 +396,7 @@ Leading advocacy groups from across the US digital asset sector have urged the F
 
 📺 Paul Barron Network
 
-👁️ 53K • 👍 3K • 💬 256 • ⏱️ 13:21 • 8h ago
+👁️ 53K • 👍 3K • 💬 256 • ⏱️ 13:21 • 9h ago
 
 ---
 
