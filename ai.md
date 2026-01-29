@@ -3,14 +3,14 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-01-29T17:07:17.008099+00:00'
+updated: '2026-01-29T18:02:15.570897+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- repositories
-- social
 - videos
+- social
+- repositories
 - news
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 AI news, discussions, and developments
 
-**Last Updated:** January 29, 2026 at 17:07 UTC  
+**Last Updated:** January 29, 2026 at 18:02 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -41,7 +41,7 @@ AI news, discussions, and developments
 
 Hey everyone. I Just published a breakdown on Moltbot: the self-hosted, open-source personal AI assistant that's gone massively viral. The article discusses the main points of my own questions about Moltbot ( what it really is, what are its capabilities, why is therean insane growth... ). Ok, now the only con I have for this project is security draw backs ( not really dove deep into this at all in the article ) : broad system access is given to Moltbot and it is pretty easy to do prompt injection with vulnerabilities if exposed. Which I'd point out is actually easy to misconfigured if not careful. I'd love to get some of my own personal tasks automated ( I love saving time ), but security concerns has me hesitant to experiement. If anyone has methods to ensure full security with this project feel free to let me know, I might even update the blog article with how to avoid the security concerns as for real it is the only thing making me hesitant in trying it myself.
 
-🔗 [Benjamin-RR](https://benjamin-rr.com/blog/moltbot-open-source-ai-assistant?utm_source=reddit&utm_medium=community&utm_campaign=new-blog-promotion&utm_content=r-artificial) • 27m ago
+🔗 [Benjamin-RR](https://benjamin-rr.com/blog/moltbot-open-source-ai-assistant?utm_source=reddit&utm_medium=community&utm_campaign=new-blog-promotion&utm_content=r-artificial) • 1h ago
 
 ---
 
@@ -49,7 +49,7 @@ Hey everyone. I Just published a breakdown on Moltbot: the self-hosted, open-sou
 
 Hi all, looking for the most capable photo to video AI tool out currently. It could be paid, free or self hosted - just want something robust that can take a real photo and give it some motion without any wacky variances. A search of previous discussions are all over the place with recs, some of even already outdated. Looking for suggestions based on people’s most recent experience! Any help would be greatly appreciated!
 
-2h ago
+3h ago
 
 ---
 
@@ -57,7 +57,7 @@ Hi all, looking for the most capable photo to video AI tool out currently. It co
 
 A lot of the discussion around AI right now focuses on code generation: how far it can go, how fast it’s improving, and whether software engineering as a profession is at risk. Here’s how I currently see it. Modern AI systems are extremely good at automation. Given a context and a set of assumptions, they can generate plausible next actions: code, refactors, tests, even architectural sketches. That’s consistent with what these systems are optimized for: prediction and continuation. Judgment is a different kind of problem. Judgment is about deciding whether the assumptions themselves are still valid: Are we solving the right problem? Are we optimizing the right dimension? Should we continue or stop and reframe entirely? That kind of decision isn’t about generating better candidates. It’s about invalidating context, recognizing shifts in constraints, and making strategic calls under uncertainty. Historically, this has been most visible in areas like architecture, system design, and product-level trade-offs... places where failures don’t show up as bugs, but as long-term rigidity or misalignment. From this perspective, AI doesn’t remove the need for engineers, it changes where human contribution matters. Skills shift left: less emphasis on implementation details, more emphasis on problem framing, system boundaries, and assumption-checking. I'm not claiming AI will never do it, but currently it's not optimized for this. Execution scales well. Judgment doesn’t. And that boundary is becoming more visible as everything else accelerates. Curious how people here think about this distinction. Do you see judgment as something fundamentally different from automation, or just a lagging capability that will eventually be absorbed as models improve?
 
-🔗 [Medium](https://medium.com/@a.mandyev/judgment-is-the-last-non-automatable-skill-711507721fd1) • 4h ago
+🔗 [Medium](https://medium.com/@a.mandyev/judgment-is-the-last-non-automatable-skill-711507721fd1) • 5h ago
 
 ---
 
@@ -65,7 +65,7 @@ A lot of the discussion around AI right now focuses on code generation: how far 
 
 Amazon is laying off 16,000 employees as AI battle intensifies.[1] Google adds Gemini AI-powered ‘auto browse’ to Chrome.[2] AI tool AlphaGenome predicts how one typo can change a genetic story.[3] Alibaba Introduces Qwen3-Max-Thinking, a Test Time Scaled Reasoning Model with Native Tool Use Powering Agentic Workloads.[4] Sources: [1] https://www.cnn.com/2026/01/28/tech/amazon-layoffs-ai#openweb-convo [2] https://www.theverge.com/news/869731/google-gemini-ai-chrome-auto-browse [3] https://www.sciencenews.org/article/ai-tool-alphagenome-predicts-genetics [4] https://www.marktechpost.com/2026/01/28/alibaba-introduces-qwen3-max-thinking-a-test-time-scaled-reasoning-model-with-native-tool-use-powering-agentic-workloads/
 
-11h ago
+12h ago
 
 ---
 
@@ -85,7 +85,7 @@ Wordsmith Law has issued a claim against legal AI company Wordsmith in an appare
 
 **[DeepSeek releases DeepSeek-OCR 2. 🐋](https://www.reddit.com/r/artificial/comments/1qpw4tw/deepseek_releases_deepseekocr_2/)**
 
-14h ago
+15h ago
 
 ---
 
@@ -101,7 +101,7 @@ DeepMind’s AlphaGenome AI model could help solve the problem of predicting how
 
 A researcher has created a chatbot that is indistinguishable from human participants in online surveys. Some researchers fear that a workhorse of social science is now under threat.
 
-🔗 [nature.com](https://www.nature.com/articles/d41586-026-00221-8) • 23h ago
+🔗 [nature.com](https://www.nature.com/articles/d41586-026-00221-8) • 1d ago
 
 ---
 
@@ -109,7 +109,7 @@ A researcher has created a chatbot that is indistinguishable from human particip
 
 AI agents are getting really good at doing things, but they're completely blind to their physical surroundings. If you walk into a hotel and you have an AI assistant (like the Chatgpt mobile app), it has no idea there may be a concierge agent on the network that could help you book a spa, check breakfast times, or request late checkout. Same thing at offices, hospitals, cruise ships. The agents are there, but there's no way to discover them. A2A (Google's agent-to-agent protocol) handles how agents talk to each other. MCP handles how agents use tools. But neither answers a basic question: how do you find agents in the first place? So I built LAD-A2A, a simple discovery protocol. When you connect to a Wi-Fi, your agent can automatically find what's available using mDNS (like how AirDrop finds nearby devices) or a standard HTTP endpoint. The spec is intentionally minimal. I didn't want to reinvent A2A or create another complex standard. LAD-A2A just handles discovery, then hands off to A2A for actual communication. Open source, Apache 2.0. Includes a working Python implementation you can run to see it in action. Repo can be found at franzvill/lad. Curious what people think!
 
-20h ago
+21h ago
 
 ---
 
@@ -119,13 +119,13 @@ AI agents are getting really good at doing things, but they're completely blind 
 
 **[Exclusive: Nvidia helped DeepSeek hone AI models later used by China's military, lawmaker says](https://www.reuters.com/world/china/nvidia-helped-deepseek-hone-ai-models-later-used-by-chinas-military-lawmaker-2026-01-28/)**
 
-Reuters • 16h ago
+Reuters • 17h ago
 
 ---
 
 **[Microsoft Continues to Spend Big on A.I. While Profit Jumps 60%](https://www.nytimes.com/2026/01/28/technology/microsoft-earnings-ai-expenditures.html)**
 
-The New York Times • 14m ago
+The New York Times • 1h ago
 
 ---
 
@@ -133,7 +133,7 @@ The New York Times • 14m ago
 
 Deezer is helping other platforms find AI-generated music.
 
-The Verge • 59m ago
+The Verge • 1h ago
 
 ---
 
@@ -141,7 +141,7 @@ The Verge • 59m ago
 
 Beijing reportedly approved the sale of hundreds of thousands of Nvidia H200 chips to Chinese AI companies—the culmination of a dramatic shift in US tech policy.
 
-WIRED • 57m ago
+WIRED • 1h ago
 
 ---
 
@@ -149,7 +149,7 @@ WIRED • 57m ago
 
 The Future Communities Institute and its partners in the San Francisco Bay plan to use artificial intelligence to act as a force multiplier for street medical teams that help to improve patient outcomes and social referrals for the region's homeless.
 
-Healthcare IT News • 34m ago
+Healthcare IT News • 1h ago
 
 ---
 
@@ -157,7 +157,7 @@ Healthcare IT News • 34m ago
 
 Microsoft reported its second quarter earnings after the bell Wednesday.
 
-Yahoo Finance • 1h ago
+Yahoo Finance • 2h ago
 
 ---
 
@@ -165,7 +165,7 @@ Yahoo Finance • 1h ago
 
 The iShares Expanded Tech-Software Sector ETF is on pace for its biggest one-day decline since April 4 during the tariff-triggered downturn.
 
-CNBC • 1h ago
+CNBC • 2h ago
 
 ---
 
@@ -181,7 +181,7 @@ NPR • 1d ago
 
 Lord Stockwood says people in government ‘definitely’ talking about idea as technology disrupts industries
 
-The Guardian • 8h ago
+The Guardian • 9h ago
 
 ---
 
@@ -189,7 +189,7 @@ The Guardian • 8h ago
 
 Alpha School, which purports to teach children academics using AI for two hours a day, has got the support of the Trump administration, but leaves some education experts and parents unimpressed.
 
-CNN • 6h ago
+CNN • 7h ago
 
 ---
 
@@ -203,7 +203,7 @@ CNN • 6h ago
 - - —
 Guys, enough is enough. Bullying is a s...
 
-⬆️ 612 • 💬 281 • 17h ago • [McSweeney's Internet Tendency](https://www.mcsweeneys.net/articles/please-dont-say-mean-things-about-the-ai-that-i-just-invested-a-billion-dollars-in)
+⬆️ 612 • 💬 281 • 18h ago • [McSweeney's Internet Tendency](https://www.mcsweeneys.net/articles/please-dont-say-mean-things-about-the-ai-that-i-just-invested-a-billion-dollars-in)
 
 ---
 
@@ -219,7 +219,7 @@ Interactive article explaining the physics of an airfoil and what makes airplane
 
 Or, as they like to call it, the 'AI Skills Hub'. Which was built by PwC because of course it was
 
-⬆️ 379 • 💬 141 • 17h ago • [Mahad Kalam](https://mahadk.com/posts/ai-skills-hub)
+⬆️ 379 • 💬 141 • 18h ago • [Mahad Kalam](https://mahadk.com/posts/ai-skills-hub)
 
 ---
 
@@ -239,7 +239,7 @@ Or, as they like to call it, the 'AI Skills Hub'. Which was built by PwC because
 
 SERA is the first in our family of Open Coding Agents, achieving state-of-the-art performance at low cost.
 
-⬆️ 244 • 💬 45 • 1d ago • [allenai.org](https://allenai.org/blog/open-coding-agents)
+⬆️ 244 • 💬 45 • 2d ago • [allenai.org](https://allenai.org/blog/open-coding-agents)
 
 ---
 
@@ -255,7 +255,7 @@ Opinion: Autonomous agents may generate millions of lines of code, but shipping 
 
 The rise of LLMs as a useful development tool over the last year or so has been significant. The power and flexibility of tools like Claude Code and ChatGPT have given a lot of functionality both to experienced developers and new developers alike. But there are trade-offs.
 
-⬆️ 196 • 💬 102 • 19h ago • [jellyfin.org](https://jellyfin.org/docs/general/contributing/llm-policies/)
+⬆️ 196 • 💬 102 • 20h ago • [jellyfin.org](https://jellyfin.org/docs/general/contributing/llm-policies/)
 
 ---
 
@@ -285,27 +285,7 @@ Nobel Prize winner Geoffrey Hinton, the physicist known for his pioneering work 
 
 📺 LBC
 
-👁️ 56K • 👍 1K • 💬 722 • ⏱️ 8:50 • 19h ago
-
----
-
-**[OpenAI Just Dropped PRISM: The AI That Changes Science Forever](https://www.youtube.com/watch?v=K-bI9BjaId8)**
-
-AI just made a serious jump into the real world. OpenAI unveiled PRISM, a new AI workspace that plugs GPT-5.2 directly into ...
-
-📺 AI Revolution
-
-👁️ 17K • 👍 590 • 💬 44 • ⏱️ 11:36 • 18h ago
-
----
-
-**[Anthropic CEO speaks about &#39;powerful&#39; AI risks and regulation](https://www.youtube.com/watch?v=tjW_gms7CME)**
-
-Dario Amodei, the CEO of the AI company Anthropic, joined "Top Story" to discuss his new essay "The Adolescence of ...
-
-📺 NBC News
-
-👁️ 42K • 👍 736 • 💬 227 • ⏱️ 18:01 • 2d ago
+👁️ 68K • 👍 1K • 💬 853 • ⏱️ 8:50 • 20h ago
 
 ---
 
@@ -315,7 +295,47 @@ Support our work: http://novara.media/support Buy Novara Media merch: https://sh
 
 📺 Novara Media
 
-👁️ 45K • 👍 1K • 💬 495 • ⏱️ 21:03 • 20h ago
+👁️ 52K • 👍 2K • 💬 546 • ⏱️ 21:03 • 21h ago
+
+---
+
+**[OpenAI Just Dropped PRISM: Things Just Got Serious](https://www.youtube.com/watch?v=K-bI9BjaId8)**
+
+AI just made a serious jump into the real world. OpenAI unveiled PRISM, a new AI workspace that plugs GPT-5.2 directly into ...
+
+📺 AI Revolution
+
+👁️ 18K • 👍 635 • 💬 45 • ⏱️ 11:36 • 18h ago
+
+---
+
+**[Anthropic CEO speaks about &#39;powerful&#39; AI risks and regulation](https://www.youtube.com/watch?v=tjW_gms7CME)**
+
+Dario Amodei, the CEO of the AI company Anthropic, joined "Top Story" to discuss his new essay "The Adolescence of ...
+
+📺 NBC News
+
+👁️ 46K • 👍 792 • 💬 242 • ⏱️ 18:01 • 2d ago
+
+---
+
+**[How to Create AI Influencer For FREE ! Realistic AI Influencer](https://www.youtube.com/watch?v=9b6qXrRkWxo)**
+
+How to Create AI Influencer For FREE ! Realistic AI Influencer . . In this video, I'll show you an easy and free way to create realistic ...
+
+📺 Fayyaz Ahmed
+
+👁️ 2K • 👍 224 • 💬 13 • ⏱️ 3:23 • 12h ago
+
+---
+
+**[Crazy AI Beds You’ll Wish Were Real  😱✨ | Ultimate Oddly Satisfying AI ASMR](https://www.youtube.com/watch?v=Td1e5CDUHnI)**
+
+Crazy AI Beds You'll Wish Were Real ✨ | Ultimate Oddly Satisfying AI ASMR Drift into pure comfort—AI-crafted relaxing beds ...
+
+📺 Ultimate Oddly Satisfying ASMR
+
+👁️ 32K • 👍 2K • 💬 12 • ⏱️ 8:03 • 1d ago
 
 ---
 
@@ -325,27 +345,7 @@ Become a Channel Member (Exclusive Videos): https://www.youtube.com/channel/UCAF
 
 📺 Keith D
 
-👁️ 40K • 👍 2K • 💬 330 • ⏱️ 10:20 • 1d ago
-
----
-
-**[How to Start Building Apps with AI (For Beginners)](https://www.youtube.com/watch?v=XtKZEe6nllM)**
-
-Tools I used: ✓ Best AI App builder is Base44 https://base44.pxf.io/c/6440076/2049275/25619?trafcat=base&sharedid=video71 ...
-
-📺 Mikey No Code
-
-👁️ 4K • 💬 9 • ⏱️ 21:04 • 3h ago
-
----
-
-**[AI Benchmarks Are Lying to You (I Investigated)](https://www.youtube.com/watch?v=9zpRULZQssI)**
-
-Looking into whether we can rely on AI Benchmarks. Try Perplexity Comet browser today at https://www.perplexity.ai/comet ...
-
-📺 Matt Wolfe
-
-👁️ 17K • 👍 756 • 💬 119 • ⏱️ 23:11 • 19h ago
+👁️ 42K • 👍 2K • 💬 342 • ⏱️ 10:20 • 1d ago
 
 ---
 
@@ -355,15 +355,17 @@ On stage at Imagination In Action's AI Summit in Davos with John Werner, founder
 
 📺 Forbes
 
-👁️ 12K • 👍 446 • 💬 106 • ⏱️ 29:11 • 19h ago
+👁️ 17K • 👍 567 • 💬 137 • ⏱️ 29:11 • 20h ago
 
 ---
 
-**[Real Life vs AI](https://www.youtube.com/watch?v=_8QStRwK3fU)**
+**[AI Benchmarks Are Lying to You (I Investigated)](https://www.youtube.com/watch?v=9zpRULZQssI)**
 
-📺 Oliver Kowal
+Looking into whether we can rely on AI Benchmarks. Try Perplexity Comet browser today at https://www.perplexity.ai/comet ...
 
-👁️ 117K • 👍 6K • 💬 32 • ⏱️ 0:55 • 1d ago
+📺 Matt Wolfe
+
+👁️ 18K • 👍 821 • 💬 126 • ⏱️ 23:11 • 20h ago
 
 ---
 
@@ -373,7 +375,7 @@ Clawdbot full tutorial. How to install Clawdbot / Moltbot. Use cases of Clawd. C
 
 📺 AI Search
 
-👁️ 75K • 👍 3K • 💬 618 • ⏱️ 28:44 • 1d ago
+👁️ 78K • 👍 3K • 💬 625 • ⏱️ 28:44 • 1d ago
 
 ---
 
@@ -389,7 +391,7 @@ PersonaPlex-7B-v1 is a real-time, full-duplex speech-to-speech conversational mo
 
 `audio-to-audio`
 
-⬇️ 50,776 • ❤️ 1,420 • 17h ago
+⬇️ 50,776 • ❤️ 1,433 • 18h ago
 
 ---
 
@@ -401,7 +403,7 @@ Kimi K2.5 is a native multimodal agentic model with 1T parameters, excelling in 
 
 `image-text-to-text`
 
-⬇️ 21,428 • ❤️ 1,031 • 7h ago
+⬇️ 21,428 • ❤️ 1,052 • 8h ago
 
 ---
 
@@ -413,7 +415,7 @@ Qwen3-TTS-12Hz-1.7B-CustomVoice is a multilingual text-to-speech model supportin
 
 `text-to-speech` `1.9B`
 
-⬇️ 169,048 • ❤️ 734 • 9h ago
+⬇️ 169,048 • ❤️ 743 • 10h ago
 
 ---
 
@@ -425,7 +427,7 @@ VibeVoice-ASR is a unified speech-to-text model capable of processing up to 60 m
 
 `automatic-speech-recognition` `8.7B`
 
-⬇️ 102,495 • ❤️ 714 • 2d ago
+⬇️ 102,495 • ❤️ 716 • 2d ago
 
 ---
 
@@ -437,7 +439,7 @@ Z-Image is an undistilled, high-fidelity text-to-image diffusion transformer mod
 
 `text-to-image`
 
-⬇️ 1,206 • ❤️ 632 • 1d ago
+⬇️ 1,206 • ❤️ 642 • 1d ago
 
 ---
 
@@ -449,7 +451,7 @@ DeepSeek-OCR-2 is a multilingual vision-language model for image-to-text tasks, 
 
 `image-text-to-text` `3.4B`
 
-⬇️ 30,919 • ❤️ 504 • 2d ago
+⬇️ 30,919 • ❤️ 514 • 2d ago
 
 ---
 
@@ -461,7 +463,7 @@ GLM-4.7-Flash is a 30B-A3B MoE model, offering strong performance in the 30B cla
 
 `text-generation` `31.2B`
 
-⬇️ 609,013 • ❤️ 1,319 • 9h ago
+⬇️ 609,013 • ❤️ 1,323 • 9h ago
 
 ---
 
@@ -473,7 +475,7 @@ LightOnOCR-2-1B is an efficient 1B-parameter end-to-end vision-language model fo
 
 `image-text-to-text` `1.0B`
 
-⬇️ 26,227 • ❤️ 431 • 8d ago
+⬇️ 26,227 • ❤️ 432 • 8d ago
 
 ---
 
@@ -485,7 +487,7 @@ Chroma-4B is a real-time, end-to-end spoken dialogue model capable of speech und
 
 `any-to-any` `5.9B`
 
-⬇️ 7,241 • ❤️ 293 • 1d ago
+⬇️ 7,241 • ❤️ 294 • 1d ago
 
 ---
 
@@ -497,7 +499,7 @@ Sweep Next-Edit 1.5B is a GGUF quantized model for next-edit code autocompletion
 
 `1.4B`
 
-⬇️ 3,738 • ❤️ 271 • 6d ago
+⬇️ 3,738 • ❤️ 272 • 6d ago
 
 ---
 
@@ -513,7 +515,7 @@ Sweep Next-Edit 1.5B is a GGUF quantized model for next-edit code autocompletion
 
 LingBot-World is an open-source world simulator with high-fidelity dynamics, long-term memory capabilities, and real-time interactivity for diverse environments.
 
-▲ 58 • 💬 1 • ⭐ 608 • 1d ago
+▲ 63 • 💬 1 • ⭐ 608 • 1d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2601.20540) • [💻 code](https://github.com/Robbyant/lingbot-world/) • [🔗 project](https://technology.robbyant.com/lingbot-world)
 
@@ -541,7 +543,7 @@ The Qwen3-TTS series presents advanced multilingual text-to-speech models with v
 
 DeepSeek-OCR 2 introduces DeepEncoder V2 that dynamically reorders visual tokens based on semantic content, enabling more human-like causal reasoning in 2D image understanding through cascaded 1D causal structures.
 
-▲ 19 • 💬 2 • ⭐ 1,491 • 1d ago
+▲ 22 • 💬 2 • ⭐ 1,491 • 1d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2601.20552) • [💻 code](https://github.com/deepseek-ai/DeepSeek-OCR-2)
 
@@ -555,7 +557,7 @@ DeepSeek-OCR 2 introduces DeepEncoder V2 that dynamically reorders visual tokens
 
 A Vision-Language-Action model trained on extensive real-world robotic data demonstrates superior performance and generalization across multiple platforms while offering enhanced efficiency through optimized training infrastructure.
 
-▲ 39 • 💬 4 • ⭐ 354 • 3d ago
+▲ 40 • 💬 4 • ⭐ 354 • 3d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2601.18692) • [💻 code](https://github.com/robbyant/lingbot-vla) • [🔗 project](https://technology.robbyant.com/lingbot-vla)
 
@@ -569,7 +571,7 @@ A Vision-Language-Action model trained on extensive real-world robotic data demo
 
 LingBot-Depth is a depth completion model that uses visual context to refine depth maps through masked depth modeling and automated data curation for improved spatial perception in robotics and autonomous systems.
 
-▲ 20 • 💬 3 • ⭐ 490 • 4d ago
+▲ 20 • 💬 3 • ⭐ 549 • 4d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2601.17895) • [💻 code](https://github.com/Robbyant/lingbot-depth) • [🔗 project](https://technology.robbyant.com/lingbot-depth)
 
@@ -595,7 +597,7 @@ UltraRAG is a comprehensive RAG toolkit that automates knowledge adaptation acro
 
 MathForge enhances mathematical reasoning in large models through a dual framework combining difficulty-aware policy optimization and multi-aspect question reformulation to address limitations in existing reinforcement learning methods.
 
-▲ 90 • 💬 12 • ⭐ 81 • 1d ago
+▲ 92 • 💬 12 • ⭐ 81 • 1d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2601.20614) • [💻 code](https://github.com/AMAP-ML/MathForge)
 
@@ -621,22 +623,21 @@ VibeVoice synthesizes long-form multi-speaker speech using next-token diffusion 
 
 A suite of open-source music foundation models is introduced, featuring components for audio-text alignment, lyric recognition, music coding, and large language model-based song generation with controllable attributes and scalable parameterization.
 
-▲ 39 • 💬 4 • ⭐ 2,340 • 14d ago
+▲ 39 • 💬 4 • ⭐ 2,382 • 14d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2601.10547) • [💻 code](https://github.com/HeartMuLa/heartlib) • [🔗 project](https://heartmula.github.io/)
 
 ---
 
-**[MinerU2.5: A Decoupled Vision-Language Model for Efficient
-  High-Resolution Document Parsing](https://huggingface.co/papers/2509.22186)**
+**[MinerU: An Open-Source Solution for Precise Document Content Extraction](https://huggingface.co/papers/2409.18839)**
 
-*Junbo Niu, Zheng Liu, Zhuangcheng Gu et al. (61 authors)*
+*Bin Wang, Chao Xu, Xiaomeng Zhao et al. (18 authors)*
 
-MinerU2.5, a 1.2B-parameter document parsing vision-language model, achieves state-of-the-art recognition accuracy with computational efficiency through a coarse-to-fine parsing strategy.
+MinerU is an open-source tool that enhances document content extraction using fine-tuned models and pre/postprocessing rules across diverse document types.
 
-▲ 141 • 💬 2 • ⭐ 53,189 • 4mo ago
+▲ 38 • 💬 4 • ⭐ 53,215 • 16mo ago
 
-[🎓 arXiv](https://arxiv.org/abs/2509.22186) • [💻 code](https://github.com/opendatalab/MinerU) • [🔗 project](https://opendatalab.github.io/MinerU/)
+[🎓 arXiv](https://arxiv.org/abs/2409.18839) • [💻 code](https://github.com/opendatalab/mineru)
 
 ---
 
@@ -650,7 +651,7 @@ Browser automation CLI for AI agents
 
 `TypeScript`
 
-⭐ 11.4k • 🔱 627 • 23h ago
+⭐ 11.4k • 🔱 627 • 1h ago
 
 ---
 
@@ -670,7 +671,7 @@ Ralph is an autonomous AI agent loop that runs repeatedly until all PRD items ar
 
 `TypeScript`
 
-⭐ 8.5k • 🔱 998 • 6d ago
+⭐ 8.5k • 🔱 1.0k • 6d ago
 
 ---
 
@@ -680,7 +681,7 @@ LLM驱动的 A/H/美股智能分析器，多数据源行情 + 实时新闻 + Gem
 
 `Python` `agent` `ai` `aigc` `gemini` `llm`
 
-⭐ 6.8k • 🔱 7.5k • 2h ago
+⭐ 6.8k • 🔱 7.5k • 3h ago
 
 ---
 
@@ -700,7 +701,7 @@ Marketing skills for Claude Code and AI agents. CRO, copywriting, SEO, analytics
 
 `claude` `codex` `marketing`
 
-⭐ 5.2k • 🔱 572 • 1d ago
+⭐ 5.3k • 🔱 574 • 1d ago
 
 ---
 
@@ -710,7 +711,7 @@ The Ultimate Collection of 500+ Agentic Skills for Claude Code/Antigravity/Curso
 
 `Python` `agentic-skills` `ai-agents` `antigravity` `autonomous-coding` `claude-code`
 
-⭐ 5.2k • 🔱 1.2k • 4h ago
+⭐ 5.2k • 🔱 1.2k • 5h ago
 
 ---
 
@@ -736,7 +737,7 @@ OpenSource Claude Cowork. A desktop AI assistant that helps you with programming
 
 Humanizer 的汉化版本，Claude Code Skills，旨在消除文本中 AI 生成的痕迹。
 
-⭐ 1.8k • 🔱 173 • 10d ago
+⭐ 1.9k • 🔱 173 • 10d ago
 
 ---
 

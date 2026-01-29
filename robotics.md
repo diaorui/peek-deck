@@ -3,13 +3,13 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-01-29T17:07:17.024630+00:00'
+updated: '2026-01-29T18:02:15.588762+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- social
 - videos
+- social
 - news
 ---
 
@@ -17,7 +17,7 @@ data_types:
 
 Robotics research and industry news
 
-**Last Updated:** January 29, 2026 at 17:07 UTC  
+**Last Updated:** January 29, 2026 at 18:02 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -36,13 +36,13 @@ Robotics research and industry news
 
 Working on my first robotics build at the moment and easing my way into it. Any pointers or tips would be greatly appreciated. This is what I have for hardware so far.
 
-4h ago
+5h ago
 
 ---
 
 **[Figure 03 handling glassware, fully autonomous](https://www.reddit.com/r/robotics/comments/1qpn1dq/figure_03_handling_glassware_fully_autonomous/)**
 
-20h ago
+21h ago
 
 ---
 
@@ -50,7 +50,7 @@ Working on my first robotics build at the moment and easing my way into it. Any 
 
 We want to build a community of robotics and computer vision developers who want to share their algorithms and SOTA models to be used by the industry. The idea is to have a large scale, common repo, where devs contribute their SOTA models and algorithms. It follows the principle of a Skill Library for robotics. Skills can be of computer vision, robotics, RL, VLA models or any other model that is used for industrial robots, mobile robots and humanoid robots. To get started with building the community, we are struggling to figure out what content works best. Some ideas that we have include: A Discord channel for centralised discussion YouTube channel showcasing how to use the Skills to build use cases Technical blogs on Medium What channels do you regularly visit to keep up to date with all the varied models out there? And also, what content do you generally enjoy?
 
-6h ago
+7h ago
 
 ---
 
@@ -64,7 +64,7 @@ We want to build a community of robotics and computer vision developers who want
 
 Engineers have trained a new humanoid robot to perform realistic lip-syncing not by manually programming every movement, but by having it 'watch' hours of YouTube videos. By visually analyzing human speakers, the robot learned to match its mouth movements to audio with eerie precision.
 
-🔗 [TechSpot](https://www.techspot.com/news/110967-humanoid-robot-learns-realistic-lip-movement-watching-youtube.html) • 9h ago
+🔗 [TechSpot](https://www.techspot.com/news/110967-humanoid-robot-learns-realistic-lip-movement-watching-youtube.html) • 10h ago
 
 ---
 
@@ -80,7 +80,7 @@ We are building a 3d-printable animatronics robots, Mostly the same 3d printed p
 
 Hello , I'm currently doing internship in my college and I have got one month to finish ball balancing bot , I do have some idea, so guys please help me out what are the components are required for doing the project and how to do it that will be grateful and appreciate the suggestion :)
 
-2h ago
+3h ago
 
 ---
 
@@ -88,7 +88,7 @@ Hello , I'm currently doing internship in my college and I have got one month to
 
 Hi everyone — we’re working on an early-stage startup exploring wearables for autonomous robots (protective, functional, or interface-related components designed specifically for robots, not humans). We’re currently in a research and validation phase and would really value input from people with hands-on experience in robotics (deployment, hardware, safety, field operations, humanoids, autonomous robots, etc.). We’re trying to understand: Whether robots today face unmet needs around protection, durability, environment adaptation, or interaction How these issues are currently solved (or worked around) Whether purpose-built “robot wearables” would be useful or unnecessary If you work with or around autonomous robots, we’d appreciate any insights, critiques, or examples from real-world use. Thanks in advance — we’re here to learn, not to pitch.
 
-2h ago
+3h ago
 
 ---
 
@@ -102,7 +102,7 @@ Former iRobot CEO Colin Angle talks about how robotics isn’t really a single �
 
 **[I want help with a gazebo project is there any one who knows about gazebo](https://www.reddit.com/r/robotics/comments/1qq3zxu/i_want_help_with_a_gazebo_project_is_there_any/)**
 
-7h ago
+8h ago
 
 ---
 
@@ -128,7 +128,7 @@ Tech Xplore • 1d ago
 
 ABB Robotics said new energy consumption measurement will allow end users to make more informed decisions and support sustainability efforts.
 
-The Robot Report • 1h ago
+The Robot Report • 2h ago
 
 ---
 
@@ -136,7 +136,7 @@ The Robot Report • 1h ago
 
 Future of the company lies in equipping and running a global fleet of driverless taxis and in selling humanoid robots
 
-Financial Times • 5h ago
+Financial Times • 6h ago
 
 ---
 
@@ -144,7 +144,7 @@ Financial Times • 5h ago
 
 Wall Street analysts called Tesla's pivot toward AI and robotics and away from automobiles the most important takeaway from its latest earnings report.
 
-CNBC • 1h ago
+CNBC • 2h ago
 
 ---
 
@@ -152,7 +152,7 @@ CNBC • 1h ago
 
 Musk’s optimism for Optimus robot demand help EV maker beat quarterly expectations despite first-ever yearly revenue decline
 
-The Guardian • 18h ago
+The Guardian • 19h ago
 
 ---
 
@@ -166,7 +166,7 @@ NASA (.gov) • 1d ago
 
 **[Houston secures FIRST robotics championship through 2034 after GRB expansion bid](https://www.houstonchronicle.com/business/article/international-youth-robotics-grb-expansion-21320791.php)**
 
-houstonchronicle.com • 57m ago
+houstonchronicle.com • 1h ago
 
 ---
 
@@ -190,13 +190,53 @@ Stock Titan • 2d ago
 
 ## YouTube Videos: "robotics"
 
+**[Tesla bets big on robotics](https://www.youtube.com/watch?v=yEAf1Mw0qYk)**
+
+Steve Westly, former Tesla board member and founder of the Westly Group, joins 'Squawk on the Street' to discuss Tesla's latest ...
+
+📺 CNBC Television
+
+👁️ 482 • 👍 6 • 💬 1 • ⏱️ 3:43 • 24m ago
+
+---
+
+**[This $50,000 humanoid robot has eyebrows](https://www.youtube.com/watch?v=AsKPdQji0vw)**
+
+Designed to work safely and naturally around people, Sprout from Fauna Robotics, is $50000 humanoid robot butler that can ...
+
+📺 Interesting Engineering
+
+👁️ 392 • 👍 51 • ⏱️ 1:40 • 2h ago
+
+---
+
+**[Meet Sprout: The Humanoid Robot Built for Real World Use](https://www.youtube.com/watch?v=4zMbX1OEOSE)**
+
+This new humanoid robot is not about hype or flashy promises. Sprout is designed to work alongside people in real environments, ...
+
+📺 DPCcars
+
+👁️ 2K • 👍 56 • 💬 12 • ⏱️ 3:17 • 22h ago
+
+---
+
 **[SATISFYING Robotic Arm Glazes Ceramics with INSANE Precision 🤖](https://www.youtube.com/watch?v=3PK2EOvBQkg)**
 
 Inside a high-tech ceramic workshop, a bright yellow industrial robotic arm executes a flawless glazing sequence with ...
 
 📺 Working Planet Shorts
 
-👁️ 485K • 👍 698 • 💬 2 • ⏱️ 0:06 • 5d ago
+👁️ 486K • 👍 699 • 💬 2 • ⏱️ 0:06 • 5d ago
+
+---
+
+**[The German Robots Are Replacing Forklifts Inside Factories](https://www.youtube.com/watch?v=tCis6jGzxnk)**
+
+Day 172 of watching tech evolve. German startup Filics has built autonomous warehouse robots that move in any direction, work ...
+
+📺 Deepen
+
+👁️ 20K • 👍 401 • 💬 10 • ⏱️ 0:29 • 5d ago
 
 ---
 
@@ -206,7 +246,17 @@ RoboticWings #FuturisticLab #Android #SciFi #Robotics #AIArt #Cyberpunk #HighTec
 
 📺 AITECHGADGETS
 
-👁️ 267K • 💬 143 • ⏱️ 0:18 • 3d ago
+👁️ 272K • 💬 145 • ⏱️ 0:18 • 3d ago
+
+---
+
+**[SaaS is over… Why you should build a robotics company in 2026](https://www.youtube.com/watch?v=FqfTQFuSalY)**
+
+2026 will be the year of robotics. We're in an Will Smith spaghetti moment. Remember how AI-generated video looked horrific two ...
+
+📺 Andreas Klinger ⅹ Europe's Most Ambitious Startups
+
+👁️ 19K • 👍 1K • 💬 174 • ⏱️ 16:46 • 3d ago
 
 ---
 
@@ -218,43 +268,11 @@ RoboticWings #FuturisticLab #Android #SciFi #Robotics #AIArt #Cyberpunk #HighTec
 
 ---
 
-**[The German Robots Are Replacing Forklifts Inside Factories](https://www.youtube.com/watch?v=tCis6jGzxnk)**
+**[My boyfriend loves his mini robot 🤣💕#couples #longdistancerelationship #ldr #robot](https://www.youtube.com/watch?v=qrJfj-HRXzE)**
 
-Day 172 of watching tech evolve. German startup Filics has built autonomous warehouse robots that move in any direction, work ...
+📺 Romi Pal
 
-📺 Deepen
-
-👁️ 20K • 👍 402 • 💬 10 • ⏱️ 0:29 • 5d ago
-
----
-
-**[This Girl Discovered a Lost Robot in the Mountain](https://www.youtube.com/watch?v=v6GRptrADk4)**
-
-In the depths of a mysterious mountain forest, a young girl named Jessica stumbles upon a lost, abandoned Aegis Suit robot ...
-
-📺 Technology Next World
-
-👁️ 61K • 👍 521 • 💬 18 • ⏱️ 3:53 • 5d ago
-
----
-
-**[Cybertruck Repair with Elon Musk and Robot Girl - AI Generated 📸](https://www.youtube.com/watch?v=fPsqMc5Vkx4)**
-
-Cybertruck #AIRobot #Futuristic #Tesla #AIAnimation #Scifi #RobotAssistant #CybertruckTestDrive #AIContent #TeslaCybertruck ...
-
-📺 AITECHGADGETS
-
-👁️ 78K • 💬 76 • ⏱️ 0:28 • 1d ago
-
----
-
-**[Meet Sprout: The Humanoid Robot Built for Real World Use](https://www.youtube.com/watch?v=4zMbX1OEOSE)**
-
-This new humanoid robot is not about hype or flashy promises. Sprout is designed to work alongside people in real environments, ...
-
-📺 DPCcars
-
-👁️ 1K • 👍 42 • 💬 9 • ⏱️ 3:17 • 21h ago
+👁️ 310K • 👍 6K • 💬 36 • ⏱️ 0:17 • 5d ago
 
 ---
 
@@ -264,25 +282,7 @@ The Growing Robot That Enters Collapsed Buildings Before Humans Do When disaster
 
 📺 EcoZora
 
-👁️ 353K • 👍 1K • 💬 151 • ⏱️ 0:07 • 3d ago
-
----
-
-**[My boyfriend loves his mini robot 🤣💕#couples #longdistancerelationship #ldr #robot](https://www.youtube.com/watch?v=qrJfj-HRXzE)**
-
-📺 Romi Pal
-
-👁️ 306K • 👍 6K • 💬 35 • ⏱️ 0:17 • 5d ago
-
----
-
-**[FTC Top 25 | DECODE | January - Presented by Studica Robotics](https://www.youtube.com/watch?v=XVzCgsgozmg)**
-
-Congrats to all who were voted for in the FTC Top 25 by the community! In FTC Top 25 we'll count down the list, provide some Top ...
-
-📺 FUN Robotics Network
-
-👁️ 2K • 👍 21 • ⏱️ 47:27 • 14h ago
+👁️ 354K • 👍 1K • 💬 151 • ⏱️ 0:07 • 3d ago
 
 ---
 
