@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-01-29T10:05:54.328318+00:00'
+updated: '2026-01-29T11:05:28.997304+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- videos
 - news
 - social
+- videos
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** January 29, 2026 at 10:05 UTC  
+**Last Updated:** January 29, 2026 at 11:05 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -34,13 +34,13 @@ Robotics research and industry news
 
 **[Figure 03 handling glassware, fully autonomous](https://www.reddit.com/r/robotics/comments/1qpn1dq/figure_03_handling_glassware_fully_autonomous/)**
 
-13h ago
+14h ago
 
 ---
 
 **[Dexterous robotic hands: 2009 - 2014 - 2025](https://www.reddit.com/r/robotics/comments/1qp7z15/dexterous_robotic_hands_2009_2014_2025/)**
 
-23h ago
+1d ago
 
 ---
 
@@ -48,7 +48,7 @@ Robotics research and industry news
 
 We are building a 3d-printable animatronics robots, Mostly the same 3d printed parts lets you assemble different animal robots, and we are trying to make it on the cheapest way possible (less than $50 is the target). Current list: Robotic dog Spider Robotic arm So far 300 people downloaded it from GrabCAD and Instructables, Got some positive feedbacks. And feedbacks to making the walking more smoother(Planning to add spring and weights) and assembly a bit easier(Planning for a snap fit). Why this post? We are currently working on the V2 of it, We are trying to put the design Infront of as many peoples and get their thoughts, ideas for new animals, making existing much better. Will appreciate any inputs. Link for files : https://grabcad.com/library/diy-robotic-dog-1 Assembly : https://www.instructables.com/Trix/ Reposting it here, Haven't got any replies last time 💀
 
-21h ago
+22h ago
 
 ---
 
@@ -56,7 +56,7 @@ We are building a 3d-printable animatronics robots, Mostly the same 3d printed p
 
 Former iRobot CEO Colin Angle talks about how robotics isn’t really a single “thing,” and that defaulting to humanoids as the mental model ends up flattening what’s actually going on in the field. He ties it back to his time at iRobot and how a lot of success or failure came down to very specific questions about value and trust, not form factor. Amazon attempted to acquire the declining company from bankruptcy but after an 18-month process the deal fell through. Angle is now with another company.
 
-17h ago
+18h ago
 
 ---
 
@@ -64,7 +64,7 @@ Former iRobot CEO Colin Angle talks about how robotics isn’t really a single �
 
 Engineers have trained a new humanoid robot to perform realistic lip-syncing not by manually programming every movement, but by having it 'watch' hours of YouTube videos. By visually analyzing human speakers, the robot learned to match its mouth movements to audio with eerie precision.
 
-🔗 [TechSpot](https://www.techspot.com/news/110967-humanoid-robot-learns-realistic-lip-movement-watching-youtube.html) • 2h ago
+🔗 [TechSpot](https://www.techspot.com/news/110967-humanoid-robot-learns-realistic-lip-movement-watching-youtube.html) • 3h ago
 
 ---
 
@@ -80,7 +80,7 @@ Engineers have trained a new humanoid robot to perform realistic lip-syncing not
 
 Hi, it's Emre from the Asimov team. I've been sharing our daily humanoid progress here, and thanks for your support along the way! We've open-sourced the leg design with CAD files, actuator list, and XML files for simulation. Now we're sharing a writeup on how we built it. Quick intro: Asimov is an open-source humanoid robot. We only have legs right now and are planning to finalize the full body by March 2026. It's going to be modular, so you can build the parts you need. Selling the robot isn't our priority right now. https://preview.redd.it/ljxqu6pdk2gg1.png?width=2000&format=png&auto=webp&s=71c244fb3cfc31cd5a768b7b1488babd8e04dcc0 Each leg has 6 DOF. The complete legs subsystem costs just over $10k, roughly $8.5k for actuators and joint parts, the rest for batteries and control modules. We designed for modularity and low-volume manufacturing. Most structural parts are compatible with MJF 3D printing. The only CNC requirement is the knee plate, which we simplified from a two-part assembly to a single plate. Actuators & Motors list and design files: https://github.com/asimovinc/asimov-v0 https://preview.redd.it/zalsj3eik2gg1.png?width=1200&format=png&auto=webp&s=734adca3a9d1c928acbf75cd95e44c3d4640ed93 We chose a parallel RSU ankle rather than a simple serial ankle. RSU gives us two-DOF ankles with both roll and pitch. Torque sharing between two motors means we can place heavy components closer to the hip, which improves rigidity and backdrivability. Linear actuators would have been another option, higher strength, more tendon-like look, but slower and more expensive. We added a toe joint that's articulated but not actuated. During push-off, the toe rocker helps the foot roll instead of pivoting on a rigid edge. Better traction, better forward propulsion, without adding another powered joint. https://preview.redd.it/skiqez2gk2gg1.png?width=1200&format=png&auto=webp&s=59d8951c9d20d2a10f547879a346c65e5b2e0bcf Our initial hip-pitch actuator was mounted at 45 degrees. This limited hip flexion and made sitting impossible. We're moving to a horizontal mount to recover range of motion. We're also upgrading ankle pivot components from aluminum to steel, and tightening manufacturing tolerances after missing some holes in early builds. https://preview.redd.it/o5wrtthkk2gg1.png?width=1200&format=png&auto=webp&s=5bebbe9c662e8e0a15ac6ea6b788530d0d1d66fd Next up is the upper body. We're working on arms and torso in parallel, targeting full-body integration by March. The complete robot will have 26 DOF and come in under 40kg. Sneak industrial design render of complete Asimov humanoid. Full writeup with diagrams and specs here: https://news.asimov.inc/p/how-we-built-humanoid-legs-from-the
 
-23h ago
+1d ago
 
 ---
 
@@ -120,19 +120,25 @@ NASA (.gov) • 1d ago
 
 ---
 
+**[Synthetic 'muscle' with microfluidic blood vessels shows promise for soft robotics](https://techxplore.com/news/2026-01-synthetic-muscle-microfluidic-blood-vessels.html)**
+
+Tech Xplore • 1d ago
+
+---
+
 **[Tesla discontinues Model X and S vehicles as Elon Musk pivots to robotics](https://www.theguardian.com/technology/2026/jan/28/tesla-q4-earnings-estimates-elon-musk)**
 
 Musk’s optimism for Optimus robot demand help EV maker beat quarterly expectations despite first-ever yearly revenue decline
 
-The Guardian • 11h ago
+The Guardian • 12h ago
 
 ---
 
-**[Forget Tesla: This EV Stock Is Beating It in Robotics and It's Dirt Cheap.](https://www.fool.com/investing/2026/01/27/forget-tesla-this-ev-stock-is-beating-tesla-in-rob/)**
+**[Tesla axes EV models in drive for robotics revenue](https://news.sky.com/story/tesla-axes-ev-models-in-drive-for-robotics-revenue-13500444)**
 
-Boston Dynamics' Atlas appears to have an edge over Tesla's Optimus.
+Investors liked what they heard about the future following the company's latest results, but Elon Musk is under huge pressure to deliver on his vision as a series of targets have been missed.
 
-The Motley Fool • 1d ago
+Sky News • 3h ago
 
 ---
 
@@ -140,7 +146,7 @@ The Motley Fool • 1d ago
 
 Multi-billionaire Elon Musk also announced plans to end production of its Model S and Model X vehicles.
 
-BBC • 7h ago
+BBC • 8h ago
 
 ---
 
@@ -156,7 +162,23 @@ The Robot Report • 2d ago
 
 A new humanoid robot named Sprout, developed by Fauna Robotics, is making its debut
 
-ABC News • 10h ago
+ABC News • 1d ago
+
+---
+
+**[A robot you might want to hug?](https://www.theverge.com/tech/869293/fauna-robotics-sprout-humanoid-robot-research)**
+
+Sprout is a humanoid robot designed to be “physically safe and socially approachable.”
+
+The Verge • 19h ago
+
+---
+
+**[Bot space race: humanoid robots connect to satellite, prep for space launch](https://electrek.co/2026/01/28/bot-space-race-humanoid-robots-connect-to-satellite-prep-for-space-launch/)**
+
+It's been a big week for humanoid robots with a first-ever humanoid to directly connect to a low-Earth orbit satellite and prep for launch.
+
+Electrek • 18h ago
 
 ---
 
@@ -165,31 +187,6 @@ ABC News • 10h ago
 ADAM, Richtech's Azure-powered robot, now uses vision, voice and contextual data to improve retail workflows and customer interactions.
 
 Stock Titan • 1d ago
-
----
-
-**[Richtech Robotics soars after announcing partnership with Microsoft to use AI to improve its robots](https://sherwood.news/markets/richtech-robotics-soars-after-announcing-partnership-with-microsoft-to-use/)**
-
-The most momentous day for ADAM since serving Jensen Huang a margarita....
-
-Sherwood News • 1d ago
-
----
-
-**[Richtech Robotics surges after announcing Microsoft collaboration](https://www.tradingview.com/news/reuters.com,2026:newsml_L6N3YS158:0-richtech-robotics-surges-after-announcing-microsoft-collaboration/)**
-
-** Shares of Richtech Robotics NASDAQ:RR surge 36% to $5.18 on Tues after co unveiled Microsoft NASDAQ:MSFT partnership** RR shares on course for steepest daily pct gain in just over a year and hit a three-month high** Las Vegas, Nevada-based firm early Tues announced "a hands-on collaboration with…
-
-TradingView • 1d ago
-
----
-
-**[READER REPORT: Local FIRST robotics team headed into state championship thius weekend](https://westseattleblog.com/2026/01/reader-report-local-first-robotics-team-headed-into-state-championship-thius-weekend/)**
-
-One of our area's FIRST Robotics teams has made it into the state championship round! Thanks to Ash for the photo, report, and video:
-A LEGO robotics team called Brickrolled, made up of five students in grades 3 through 6 from Westside School, has qualified for the FIRST LEGO League Western Washington State Championship and will be represen...
-
-westseattleblog.com • 8h ago
 
 ---
 
@@ -257,7 +254,7 @@ Elon Musk revela un IMPACTANTE ROBOT CLON de Trump delante de Trump y Melania.�
 
 📺 Borunte Robot Lin 
 
-👁️ 7K • 👍 18 • ⏱️ 0:24 • 21h ago
+👁️ 7K • 👍 18 • ⏱️ 0:24 • 22h ago
 
 ---
 
@@ -267,7 +264,7 @@ Congrats to all who were voted for in the FTC Top 25 by the community! In FTC To
 
 📺 FUN Robotics Network
 
-👁️ 1K • 👍 20 • ⏱️ 47:27 • 7h ago
+👁️ 1K • 👍 20 • ⏱️ 47:27 • 8h ago
 
 ---
 
@@ -277,7 +274,7 @@ Inside a vast industrial granary, a sleek, futuristic-looking robot with vibrant
 
 📺 Working Planet Shorts
 
-👁️ 8K • 👍 29 • ⏱️ 0:06 • 5h ago
+👁️ 8K • 👍 29 • ⏱️ 0:06 • 6h ago
 
 ---
 
@@ -287,7 +284,7 @@ This new humanoid robot is not about hype or flashy promises. Sprout is designed
 
 📺 DPCcars
 
-👁️ 788 • 👍 35 • 💬 6 • ⏱️ 3:17 • 14h ago
+👁️ 788 • 👍 35 • 💬 6 • ⏱️ 3:17 • 15h ago
 
 ---
 

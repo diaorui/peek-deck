@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-01-29T10:05:54.320353+00:00'
+updated: '2026-01-29T11:05:28.988085+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- cryptocurrency
-- videos
 - news
+- cryptocurrency
 - social
+- videos
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** January 29, 2026 at 10:05 UTC  
+**Last Updated:** January 29, 2026 at 11:05 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,17 +38,17 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $87,973.67
+### $87,938.59
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** -1.5%  
-**7d:** -1.6%  
-**30d:** +0.5%  
-**90d:** -19.8%  
-**1y:** -15.9%  
+**24h:** -2.3%  
+**7d:** -1.9%  
+**30d:** +0.2%  
+**90d:** -20.1%  
+**1y:** -16.1%  
 
 ---
 
@@ -81,7 +81,7 @@ Rank #1
 
 Crazy to think I owned 18.2 btc in early 2020 and sold before it reach 73 something I think it was. Now I live check to check. HODL your investments, don’t sell
 
-4h ago
+5h ago
 
 ---
 
@@ -89,7 +89,7 @@ Crazy to think I owned 18.2 btc in early 2020 and sold before it reach 73 someth
 
 What are you doing with your time. You’re saving pieces of paper with numbers on it. I expect everyone here to understand the problems BITCOIN solves We don’t want more dollars we want more money The US dollar is not money. If you’re building wealth. Follow me so we can connect. Great minds think alike and have studied Bitcoin.
 
-8h ago
+9h ago
 
 ---
 
@@ -97,7 +97,7 @@ What are you doing with your time. You’re saving pieces of paper with numbers 
 
 Source: Blossom Social
 
-11h ago
+12h ago
 
 ---
 
@@ -105,37 +105,37 @@ Source: Blossom Social
 
 I gotta stop getting hammered before I trade, But its sooooo profitable.. .
 
-6h ago
+7h ago
 
 ---
 
 **[This is unbearable](https://www.reddit.com/r/Bitcoin/comments/1qphgpc/this_is_unbearable/)**
 
-16h ago
+17h ago
 
 ---
 
 **[The single email that changed the course of history.](https://www.reddit.com/r/Bitcoin/comments/1qpqemf/the_single_email_that_changed_the_course_of/)**
 
-11h ago
+12h ago
 
 ---
 
 **[Hodling nonstop](https://www.reddit.com/r/Bitcoin/comments/1qpxk52/hodling_nonstop/)**
 
-6h ago
+7h ago
 
 ---
 
 **[😂](https://www.reddit.com/r/Bitcoin/comments/1qq31l2/_/)**
 
-1h ago
+2h ago
 
 ---
 
 **[They want all out retirement savings in this system](https://www.reddit.com/r/Bitcoin/comments/1qpzr12/they_want_all_out_retirement_savings_in_this/)**
 
-4h ago
+5h ago
 
 ---
 
@@ -143,7 +143,7 @@ I gotta stop getting hammered before I trade, But its sooooo profitable.. .
 
 Historically, the most significant portion of Bitcoin's gains come in just 10 trading days out of an entire calendar year. Most of the time in Bitcoin is spent going sideways or down. It will shake out all weak hands and tourists, and punish anyone with high time preference. Then it will reward the patience of those who spend their time studying and growing their conviction (and touching grass) during the boring or bear markets. Act accordingly
 
-14h ago
+15h ago
 
 ---
 
@@ -155,15 +155,23 @@ Historically, the most significant portion of Bitcoin's gains come in just 10 tr
 
 Crypto prices stabilized after an early-week dip, but bitcoin continued to trail gold and silver as macro trades dominated after the Fed’s policy hold.
 
-CoinDesk • 4h ago
+CoinDesk • 5h ago
 
 ---
 
-**[Bitcoin Price Jumps Above $90,000 Ahead of Fed Meeting, Senate Crypto Vote](https://bitcoinmagazine.com/markets/bitcoin-price-jumps-above-90000)**
+**[Bitcoin price news: BTC stuck at $89,000 as gold surges to fresh record](https://www.coindesk.com/markets/2026/01/28/bitcoin-remains-subdued-as-gold-races-to-new-record-above-usd5-400-following-jerome-powell-remarks)**
 
-The bitcoin price rebounded above $90,000 as traders weigh the looming Fed rate decision.
+Gold fans rushed in to buy as the Fed chair said he took no macro signal from the raging bull market in precious metals.
 
-Bitcoin Magazine • 19h ago
+CoinDesk • 13h ago
+
+---
+
+**[Gold Adds Bitcoin’s Entire Market Cap in a Day — Why Is BTC Falling Behind?](https://finance.yahoo.com/news/gold-adds-bitcoin-entire-market-101715089.html)**
+
+Gold surged to new all-time highs above $5,500. Bitcoin has dropped sharply below $90,000, erasing 2026 gans. Investors favor physical gold for stability while selling ...
+
+Yahoo Finance • 48m ago
 
 ---
 
@@ -171,15 +179,35 @@ Bitcoin Magazine • 19h ago
 
 A “crisis of confidence” in the U.S. dollar has been predicted to see bitcoin catch up with gold...
 
-Forbes • 22h ago
+Forbes • 23h ago
 
 ---
 
-**[Sygnum Bank Raises 750 BTC For Bitcoin Yield Fund](https://finance.yahoo.com/news/sygnum-bank-raises-750-btc-073224569.html)**
+**[Where is Donald Trump’s strategic Bitcoin reserve?](https://www.fastcompany.com/91482053/where-is-donald-trumps-strategic-bitcoin-reserve)**
 
-Digital asset banking group Sygnum has completed the seed phase of the Starboard Sygnum BTC Alpha Fund. In the first four months, they raised “over 750” Bitcoin (BTC) from investors.This response from professional and institutional investors, the press release says, shows “growing interest in actively managed Bitcoin strategies.” More specifically, ...
+The government seems to be amassing more Bitcoin. But little work seems to be happening to enact the terms of the executive order Trump signed to start the 'strategic reserve.'
 
-Yahoo Finance • 2h ago
+Fast Company • 1h ago
+
+---
+
+**[Bitcoin Falls below $88,000. Why Cryptos Can’t Keep Up With Gold.](https://www.barrons.com/articles/bitcoin-price-xrp-ether-cryptos-630f4d22?gaa_at=eafs&gaa_n=AWEtsqdHHzrjjqESQ1PP-sZvyHd-2PnhBD4kx0PilhZ30UufHmjap8oioGdB&gaa_ts=697b4261&gaa_sig=ez8X01cWCw3zSSYJuR7E2ZkacSZwaUiVcETx71_KoUZyqMot9MC7ReM14a-fSzW7BUcMj7d_vE90oS7ISc3eig%3D%3D)**
+
+Barron's • 6m ago
+
+---
+
+**[Got $500? 2 Cryptocurrencies to Buy and Hold for Decades.](https://www.fool.com/investing/2026/01/29/got-500-2-cryptocurrencies-to-buy-and-hold-for-dec/)**
+
+Bitcoin and XRP look like they are built to stand the test of time.
+
+The Motley Fool • 2h ago
+
+---
+
+**[Coinbase's Chart Flashes Death Cross As Bitcoin Falls Amid Crypto Winter Fears](https://www.investors.com/research/coinbase-coin-stock-bitcoin-january-2026/)**
+
+Investor's Business Daily • 1d ago
 
 ---
 
@@ -187,15 +215,7 @@ Yahoo Finance • 2h ago
 
 Since 2022, Grand Forks residents have lost $466,803 to bitcoin cryptocurrency, according to GFPD Det. Todd Riedinger. The scams are difficult to trace and lost money usually can't be recovered.
 
-grandforksherald.com • 21h ago
-
----
-
-**[If You'd Invested $100 in Bitcoin 10 Years Ago, Here's How Much You'd Have Today](https://www.fool.com/investing/2026/01/28/if-you-invested-100-in-bitcoin-10-years-ago-heres/)**
-
-Bitcoin's meteoric rise has delivered huge returns for holders. Even small investments have turned into tens of thousands of dollars.
-
-The Motley Fool • 9h ago
+grandforksherald.com • 22h ago
 
 ---
 
@@ -204,28 +224,6 @@ The Motley Fool • 9h ago
 The latest proposal closely mirrors House Bill 1202, which was introduced during the 2025 legislative session.
 
 The Block • 1d ago
-
----
-
-**[Bitcoin Miners Power Down US Operations in Wake of Winter Storm](https://www.bloomberg.com/news/articles/2026-01-26/bitcoin-miners-power-down-us-operations-in-wake-of-winter-storm)**
-
-Bloomberg • 2d ago
-
----
-
-**[Jacob & Co. X Bitcoin? Luxury Watch Maker Unveils BTC-Themed Watch In Partnership With Miner](https://finance.yahoo.com/news/jacob-co-x-bitcoin-luxury-194036452.html)**
-
-A Bitcoin-themed watch limited to 100 pieces has been added to Jacob & Co.'s Epic X Bridges collection through a partnership with Bitcoin mining company GoMining. GoMining recently announced Epic X GoMining, a 44 mm skeleton dial Bitcoin-themed Jacob &...
-
-Yahoo Finance • 1d ago
-
----
-
-**[Bitcoin Critic Says Price Is ‘Collapsing,’ Says Drop In Miners Pushing Asset Into ‘Downward Spiral’](https://www.ccn.com/news/crypto/bitcoin-critic-price-collapsing-miners-pushing-downward-spiral/)**
-
-A Bitcoin critic warns the network is “unravelling” as hashrate drops sharply, but traders are pushing back against the claims.
-
-CCN.com • 20h ago
 
 ---
 
@@ -284,7 +282,7 @@ Transform HN comment threads into executive intelligence. AI analyzes discussion
 
 Reporting on Fintech, Crypto, and Blockchain Activity in Africa
 
-⬆️ 1 • 💬 0 • 15h ago • [BitKE](https://bitcoinke.io/2026/01/ozow-announces-payments-solution-by-moneybadger/)
+⬆️ 1 • 💬 0 • 16h ago • [BitKE](https://bitcoinke.io/2026/01/ozow-announces-payments-solution-by-moneybadger/)
 
 ---
 
@@ -296,7 +294,7 @@ Reporting on Fintech, Crypto, and Blockchain Activity in Africa
 
 **[Show HN: We built a type-safe Python ORM for RedisGraph/FalkorDB](https://news.ycombinator.com/item?id=46796602)**
 
-⬆️ 5 • 💬 5 • 18h ago
+⬆️ 5 • 💬 5 • 19h ago
 
 ---
 
@@ -316,7 +314,7 @@ This is not Bitcoin going up. This is the dollar breaking down in real time. A d
 
 📺 Simply Bitcoin
 
-👁️ 25K • 👍 2K • 💬 315 • ⏱️ 15:53 • 10h ago
+👁️ 25K • 👍 2K • 💬 315 • ⏱️ 15:53 • 11h ago
 
 ---
 
@@ -326,7 +324,7 @@ Bob Murphy is a Senior Fellow at the Mises Institute and Chief Economist at Infi
 
 📺 Anthony Pompliano
 
-👁️ 18K • 👍 672 • ⏱️ 30:04 • 12h ago
+👁️ 18K • 👍 672 • ⏱️ 30:04 • 13h ago
 
 ---
 
@@ -336,7 +334,7 @@ Bitcoin is at a massive crossroads, and the charts are telling a different story
 
 📺 Gareth Soloway
 
-👁️ 43K • 👍 3K • 💬 675 • ⏱️ 9:04 • 13h ago
+👁️ 43K • 👍 3K • 💬 675 • ⏱️ 9:04 • 14h ago
 
 ---
 
@@ -346,7 +344,7 @@ Unicoin founder and chief strategy officer Silvina Moschini discusses crypto leg
 
 📺 Fox Business Clips
 
-👁️ 131K • 👍 2K • 💬 846 • ⏱️ 7:19 • 19h ago
+👁️ 131K • 👍 2K • 💬 846 • ⏱️ 7:19 • 20h ago
 
 ---
 
@@ -356,7 +354,7 @@ Take Control of Your Retirement — Grow Crypto & Gold Tax-Advantaged. https://w
 
 📺 Savvy Finance
 
-👁️ 4K • 👍 226 • 💬 13 • ⏱️ 21:44 • 8h ago
+👁️ 4K • 👍 226 • 💬 13 • ⏱️ 21:44 • 9h ago
 
 ---
 
@@ -366,7 +364,7 @@ Today, let's examine Bitcoin's charts and metrics, as well as the latest Macro a
 
 📺 CryptosRUs
 
-👁️ 34K • 👍 2K • 💬 261 • ⏱️ 38:00 • 17h ago
+👁️ 34K • 👍 2K • 💬 261 • ⏱️ 38:00 • 18h ago
 
 ---
 
@@ -386,7 +384,7 @@ I want to be part of the Bitcoin Program → https://bitcoinolivervelez.com/yt-e
 
 📺 Oliver Velez Trading
 
-👁️ 3K • 👍 169 • 💬 43 • ⏱️ 2:09:13 • 11h ago
+👁️ 3K • 👍 169 • 💬 43 • ⏱️ 2:09:13 • 12h ago
 
 ---
 
@@ -396,7 +394,7 @@ The Dollar is breaking and the "Sell America" trade is officially on. While the 
 
 📺 Crypto Banter
 
-👁️ 35K • 👍 2K • 💬 60 • ⏱️ 26:12 • 18h ago
+👁️ 35K • 👍 2K • 💬 60 • ⏱️ 26:12 • 19h ago
 
 ---
 
