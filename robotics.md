@@ -3,13 +3,13 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-01-29T13:00:25.302346+00:00'
+updated: '2026-01-29T14:04:03.107075+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- news
 - social
+- news
 - videos
 ---
 
@@ -17,7 +17,7 @@ data_types:
 
 Robotics research and industry news
 
-**Last Updated:** January 29, 2026 at 13:00 UTC  
+**Last Updated:** January 29, 2026 at 14:04 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -34,7 +34,15 @@ Robotics research and industry news
 
 **[Figure 03 handling glassware, fully autonomous](https://www.reddit.com/r/robotics/comments/1qpn1dq/figure_03_handling_glassware_fully_autonomous/)**
 
-16h ago
+17h ago
+
+---
+
+**[First build](https://www.reddit.com/r/robotics/comments/1qq7xso/first_build/)**
+
+Working on my first robotics build at the moment and easing my way into it. Any pointers or tips would be greatly appreciated. This is what I have for hardware so far.
+
+1h ago
 
 ---
 
@@ -42,7 +50,7 @@ Robotics research and industry news
 
 We want to build a community of robotics and computer vision developers who want to share their algorithms and SOTA models to be used by the industry. The idea is to have a large scale, common repo, where devs contribute their SOTA models and algorithms. It follows the principle of a Skill Library for robotics. Skills can be of computer vision, robotics, RL, VLA models or any other model that is used for industrial robots, mobile robots and humanoid robots. To get started with building the community, we are struggling to figure out what content works best. Some ideas that we have include: A Discord channel for centralised discussion YouTube channel showcasing how to use the Skills to build use cases Technical blogs on Medium What channels do you regularly visit to keep up to date with all the varied models out there? And also, what content do you generally enjoy?
 
-2h ago
+3h ago
 
 ---
 
@@ -64,13 +72,13 @@ We are building a 3d-printable animatronics robots, Mostly the same 3d printed p
 
 Engineers have trained a new humanoid robot to perform realistic lip-syncing not by manually programming every movement, but by having it 'watch' hours of YouTube videos. By visually analyzing human speakers, the robot learned to match its mouth movements to audio with eerie precision.
 
-🔗 [TechSpot](https://www.techspot.com/news/110967-humanoid-robot-learns-realistic-lip-movement-watching-youtube.html) • 5h ago
+🔗 [TechSpot](https://www.techspot.com/news/110967-humanoid-robot-learns-realistic-lip-movement-watching-youtube.html) • 6h ago
 
 ---
 
 **[I want help with a gazebo project is there any one who knows about gazebo](https://www.reddit.com/r/robotics/comments/1qq3zxu/i_want_help_with_a_gazebo_project_is_there_any/)**
 
-3h ago
+4h ago
 
 ---
 
@@ -78,7 +86,7 @@ Engineers have trained a new humanoid robot to perform realistic lip-syncing not
 
 Hi everyone, I'm using an Intel RealSense D435 camera with ROS2 Jazzy and MoveIt2. My camera is mounted in a non-standard orientation: Vertically rather than horizontally. More specifically it is rotated 90° counterclockwise (USB port facing up) and tilted 8° downward. I've set up my URDF with a camera_link joint that connects to my robot, and the RealSense ROS2 driver automatically publishes the camera_depth_optical_frame. My questions: Does camera_link need to follow a specific orientation convention? (I've read REP-103 says X=forward, Y=left, Z=up, but does this still apply when the camera is physically rotated?) What should camera_depth_optical_frame look like in RViz after the 90° rotation? The driver creates this automatically - should I expect the axes to look different than a standard horizontal mount? If my point cloud visually appears correctly aligned with reality (floor is horizontal, objects in correct positions), does the TF frame orientation actually matter? Or is it purely cosmetic at that point? Is there a "correct" RPY for a vertically-mounted D435, or do I just need to ensure the point cloud aligns with my robot's world frame? Any guidance from anyone who has mounted a RealSense camera vertically would be really appreciated! Thanks!
 
-3h ago
+4h ago
 
 ---
 
@@ -86,21 +94,13 @@ Hi everyone, I'm using an Intel RealSense D435 camera with ROS2 Jazzy and MoveIt
 
 Former iRobot CEO Colin Angle talks about how robotics isn’t really a single “thing,” and that defaulting to humanoids as the mental model ends up flattening what’s actually going on in the field. He ties it back to his time at iRobot and how a lot of success or failure came down to very specific questions about value and trust, not form factor. Amazon attempted to acquire the declining company from bankruptcy but after an 18-month process the deal fell through. Angle is now with another company.
 
-20h ago
+21h ago
 
 ---
 
 **[Centimeter-Accurate Indoor Tracking for Swarming Drones Using Ultrasound ToF](https://www.reddit.com/r/robotics/comments/1qp5kc4/centimeteraccurate_indoor_tracking_for_swarming/)**
 
 3 x Super-Beacons as stationary beacons for precise 3D indoor positioning 1 x (Mini-RX + External Microphone + Deflector) as a mobile beacon for the drone 1 x Modem v5.1 as a central controller This is not an autonomous flight - the drone was remotely controlled. But it shows precise indoor 3D tracking capabilities for swarming drones.
-
-1d ago
-
----
-
-**[We built humanoid legs from scratch in 100 days](https://www.reddit.com/r/robotics/comments/1qp85l2/we_built_humanoid_legs_from_scratch_in_100_days/)**
-
-Hi, it's Emre from the Asimov team. I've been sharing our daily humanoid progress here, and thanks for your support along the way! We've open-sourced the leg design with CAD files, actuator list, and XML files for simulation. Now we're sharing a writeup on how we built it. Quick intro: Asimov is an open-source humanoid robot. We only have legs right now and are planning to finalize the full body by March 2026. It's going to be modular, so you can build the parts you need. Selling the robot isn't our priority right now. https://preview.redd.it/ljxqu6pdk2gg1.png?width=2000&format=png&auto=webp&s=71c244fb3cfc31cd5a768b7b1488babd8e04dcc0 Each leg has 6 DOF. The complete legs subsystem costs just over $10k, roughly $8.5k for actuators and joint parts, the rest for batteries and control modules. We designed for modularity and low-volume manufacturing. Most structural parts are compatible with MJF 3D printing. The only CNC requirement is the knee plate, which we simplified from a two-part assembly to a single plate. Actuators & Motors list and design files: https://github.com/asimovinc/asimov-v0 https://preview.redd.it/zalsj3eik2gg1.png?width=1200&format=png&auto=webp&s=734adca3a9d1c928acbf75cd95e44c3d4640ed93 We chose a parallel RSU ankle rather than a simple serial ankle. RSU gives us two-DOF ankles with both roll and pitch. Torque sharing between two motors means we can place heavy components closer to the hip, which improves rigidity and backdrivability. Linear actuators would have been another option, higher strength, more tendon-like look, but slower and more expensive. We added a toe joint that's articulated but not actuated. During push-off, the toe rocker helps the foot roll instead of pivoting on a rigid edge. Better traction, better forward propulsion, without adding another powered joint. https://preview.redd.it/skiqez2gk2gg1.png?width=1200&format=png&auto=webp&s=59d8951c9d20d2a10f547879a346c65e5b2e0bcf Our initial hip-pitch actuator was mounted at 45 degrees. This limited hip flexion and made sitting impossible. We're moving to a horizontal mount to recover range of motion. We're also upgrading ankle pivot components from aluminum to steel, and tightening manufacturing tolerances after missing some holes in early builds. https://preview.redd.it/o5wrtthkk2gg1.png?width=1200&format=png&auto=webp&s=5bebbe9c662e8e0a15ac6ea6b788530d0d1d66fd Next up is the upper body. We're working on arms and torso in parallel, targeting full-body integration by March. The complete robot will have 26 DOF and come in under 40kg. Sneak industrial design render of complete Asimov humanoid. Full writeup with diagrams and specs here: https://news.asimov.inc/p/how-we-built-humanoid-legs-from-the
 
 1d ago
 
@@ -124,11 +124,19 @@ Tech Xplore • 1d ago
 
 ---
 
+**[9 weeks to 9 days: How autonomous drilling is transforming data center construction](https://www.therobotreport.com/dewalt-drilling-robot/)**
+
+DEWALT and August Robotics launched an autonomous drilling robot to accelerate concrete floor preparation for data centers.
+
+The Robot Report • 24m ago
+
+---
+
 **[Tesla lurches into the Musk robotics era](https://www.ft.com/content/6a6cfa00-6f51-4abc-bd68-1738580bd2c5)**
 
 Future of the company lies in equipping and running a global fleet of driverless taxis and in selling humanoid robots
 
-Financial Times • 1h ago
+Financial Times • 2h ago
 
 ---
 
@@ -136,7 +144,7 @@ Financial Times • 1h ago
 
 Investors liked what they heard about the future following the company's latest results, but Elon Musk is under huge pressure to deliver on his vision as a series of targets have been missed.
 
-Sky News • 5h ago
+Sky News • 6h ago
 
 ---
 
@@ -144,7 +152,7 @@ Sky News • 5h ago
 
 Musk’s optimism for Optimus robot demand help EV maker beat quarterly expectations despite first-ever yearly revenue decline
 
-The Guardian • 14h ago
+The Guardian • 15h ago
 
 ---
 
@@ -152,15 +160,7 @@ The Guardian • 14h ago
 
 A new humanoid robot named Sprout, developed by Fauna Robotics, is making its debut
 
-ABC News • 1d ago
-
----
-
-**[State of robotics industry report 2026](https://www.therobotreport.com/state-of-robotics-industry-report-2026/)**
-
-State of Robotics Industry Report 2026 offers a clear-eyed assessment of where the market stands today and where it’s headed.
-
-The Robot Report • 2d ago
+ABC News • 2d ago
 
 ---
 
@@ -168,7 +168,7 @@ The Robot Report • 2d ago
 
 Multi-billionaire Elon Musk also announced plans to end production of its Model S and Model X vehicles.
 
-BBC • 10h ago
+BBC • 11h ago
 
 ---
 
@@ -180,11 +180,11 @@ Stock Titan • 2d ago
 
 ---
 
-**[China's Robotics Industry Is Doing A Lot More Than Military Projects](https://www.bgr.com/2080480/china-robotics-industry-more-than-military/)**
+**[Robotics Market to Worth Over US$ 199.50 Billion by 2035 | Astute Analytica](https://finance.yahoo.com/news/robotics-market-worth-over-us-124000782.html)**
 
-Chinese technology is advancing rapidly with robotics. In addition to military uses, robots are playing sports, doing household chores, and dancing.
+The global robotics market is entering a new era of strategic importance, expanding from a niche automation tool to an operational necessity across industries. Industrial deployments now dominate with over 45% market share, addressing critical labor shortages in welding, logistics, and material handling, while hardware components, actuators, sensors, and vision systems account for nearly 45% of the market, underpinned by the “embodied AI” revolution. Chicago, Jan. 29, 2026 (GLOBE NEWSWIRE) -- Th
 
-bgr.com • 2d ago
+Yahoo Finance • 1h ago
 
 ---
 
@@ -198,7 +198,7 @@ A robotic finger that can feel texture sense heat and even smell odor Sounds imp
 
 📺 Nic Conley
 
-👁️ 1K • 👍 42 • 💬 2 • ⏱️ 1:20 • 10h ago
+👁️ 1K • 👍 42 • 💬 2 • ⏱️ 1:20 • 11h ago
 
 ---
 
@@ -256,7 +256,7 @@ This new humanoid robot is not about hype or flashy promises. Sprout is designed
 
 📺 DPCcars
 
-👁️ 953 • 👍 37 • 💬 7 • ⏱️ 3:17 • 17h ago
+👁️ 953 • 👍 37 • 💬 7 • ⏱️ 3:17 • 18h ago
 
 ---
 
@@ -276,7 +276,7 @@ Congrats to all who were voted for in the FTC Top 25 by the community! In FTC To
 
 📺 FUN Robotics Network
 
-👁️ 1K • 👍 21 • ⏱️ 47:27 • 10h ago
+👁️ 1K • 👍 21 • ⏱️ 47:27 • 11h ago
 
 ---
 
