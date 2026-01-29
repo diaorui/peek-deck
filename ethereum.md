@@ -3,14 +3,14 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-01-29T21:28:43.795136+00:00'
+updated: '2026-01-29T21:53:56.040318+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
+- social
 - videos
 - news
-- social
 - cryptocurrency
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** January 29, 2026 at 21:28 UTC  
+**Last Updated:** January 29, 2026 at 21:53 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,11 +42,11 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** -7.3%  
-**7d:** -5.4%  
-**30d:** -5.8%  
-**90d:** -27.7%  
-**1y:** -13.7%  
+**24h:** -6.6%  
+**7d:** -4.7%  
+**30d:** -5.1%  
+**90d:** -27.2%  
+**1y:** -13.1%  
 
 ---
 
@@ -166,11 +166,11 @@ Decrypt • 1d ago
 
 ---
 
-**[Vitalik Buterin, Ethereum OGs to Create a $220M Security Fund from TheDAO](https://finance.yahoo.com/news/vitalik-buterin-ethereum-ogs-create-192334729.html)**
+**[Tom Lee Urges Investors Not To Ignore Ethereum While Metals Surge, as BitMine Stakes Another $440.5M ETH](https://finance.yahoo.com/news/tom-lee-urges-investors-not-092823952.html)**
 
-Long-term Ethereum supporters, known as “OGs” are transforming remnants of the network’s most famous crisis into a major security boost. This refers to $220 million of locked funds from TheDAO hack from 2016 and a recent movement from Vitalik Buterin together with other Ethereum OGs to build a security fund with ...
+Tom Lee has urged investors not to let the rally in gold and silver divert attention from Ethereum. BitMine continues to build its Ethereum position. ...
 
-Yahoo Finance • 2h ago
+Yahoo Finance • 12h ago
 
 ---
 
@@ -188,11 +188,11 @@ TradingView • 13h ago
 
 ---
 
-**[Ethereum vs Polkadot: Which Is More Likely to Be a Millionaire-Maker?](https://www.fool.com/investing/2026/01/26/ethereum-vs-polkadot-which-is-more-likely-to-be-a/)**
+**[Why Are Bitcoin, XRP, and Ethereum Prices Falling Today?](https://coinpedia.org/news/why-are-bitcoin-xrp-and-ethereum-prices-falling-today/)**
 
-Should you invest in the blue chip token or the smaller altcoin?
+The crypto market is under pressure today, with Bitcoin, Ethereum, and XRP all trading lower as selling activity picks up across major tokens. The total
 
-The Motley Fool • 2d ago
+Coinpedia • 7h ago
 
 ---
 
@@ -204,11 +204,11 @@ CoinDesk • 5h ago
 
 ---
 
-**[Why Are Bitcoin, XRP, and Ethereum Prices Falling Today?](https://coinpedia.org/news/why-are-bitcoin-xrp-and-ethereum-prices-falling-today/)**
+**[Ethereum vs Polkadot: Which Is More Likely to Be a Millionaire-Maker?](https://www.fool.com/investing/2026/01/26/ethereum-vs-polkadot-which-is-more-likely-to-be-a/)**
 
-The crypto market is under pressure today, with Bitcoin, Ethereum, and XRP all trading lower as selling activity picks up across major tokens. The total
+Should you invest in the blue chip token or the smaller altcoin?
 
-Coinpedia • 6h ago
+The Motley Fool • 2d ago
 
 ---
 
@@ -238,7 +238,7 @@ The situation is getting worse and worse for crypto. Here are facts and my take 
 
 📺 Thomas Kralow
 
-👁️ 40K • 👍 3K • 💬 164 • ⏱️ 13:43 • 10h ago
+👁️ 40K • 👍 3K • 💬 164 • ⏱️ 13:43 • 11h ago
 
 ---
 
@@ -268,7 +268,7 @@ This video provides a professional Elliott Wave and technical analysis of Ethere
 
 📺 More Crypto Online
 
-👁️ 2K • 👍 92 • 💬 7 • ⏱️ 4:28 • 6h ago
+👁️ 2K • 👍 92 • 💬 7 • ⏱️ 4:28 • 7h ago
 
 ---
 

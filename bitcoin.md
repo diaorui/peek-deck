@@ -3,14 +3,14 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-01-29T21:28:43.789152+00:00'
+updated: '2026-01-29T21:53:56.034225+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
+- social
 - videos
 - news
-- social
 - cryptocurrency
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** January 29, 2026 at 21:28 UTC  
+**Last Updated:** January 29, 2026 at 21:53 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,17 +38,17 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $84,041.51
+### $84,452.98
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** -6.1%  
-**7d:** -6.3%  
-**30d:** -4.3%  
-**90d:** -23.7%  
-**1y:** -19.9%  
+**24h:** -5.4%  
+**7d:** -5.6%  
+**30d:** -3.6%  
+**90d:** -23.1%  
+**1y:** -19.3%  
 
 ---
 
@@ -77,15 +77,11 @@ Rank #1
 
 ## Reddit: r/Bitcoin
 
-**[Do you see the selloff?](https://www.reddit.com/r/Bitcoin/comments/1qqff0n/do_you_see_the_selloff/)**
+**[I used to HODL 10 BTC](https://www.reddit.com/r/Bitcoin/comments/1qqhfad/i_used_to_hodl_10_btc/)**
+
+I wasn’t smart enough to hold onto them :(
 
 3h ago
-
----
-
-**["Should we have a 2% allocation? 5% allocation? If everybody adopted that conversation...it would be $500k, $600k, $700k per bitcoin."](https://www.reddit.com/r/Bitcoin/comments/1qqcyfl/should_we_have_a_2_allocation_5_allocation_if/)**
-
-5h ago
 
 ---
 
@@ -97,19 +93,37 @@ Gets punched to 35k
 
 ---
 
+**[Do you see the selloff?](https://www.reddit.com/r/Bitcoin/comments/1qqff0n/do_you_see_the_selloff/)**
+
+4h ago
+
+---
+
+**["Should we have a 2% allocation? 5% allocation? If everybody adopted that conversation...it would be $500k, $600k, $700k per bitcoin."](https://www.reddit.com/r/Bitcoin/comments/1qqcyfl/should_we_have_a_2_allocation_5_allocation_if/)**
+
+5h ago
+
+---
+
+**[Here we goooo](https://www.reddit.com/r/Bitcoin/comments/1qqkg06/here_we_goooo/)**
+
+1h ago
+
+---
+
 **[This is how we Roll](https://www.reddit.com/r/Bitcoin/comments/1qqfp8e/this_is_how_we_roll/)**
 
 Buy Now Thank Me later
 
-3h ago
+4h ago
 
 ---
 
-**[I used to HODL 10 BTC](https://www.reddit.com/r/Bitcoin/comments/1qqhfad/i_used_to_hodl_10_btc/)**
+**[Just so you know companies aren’t selling their bitcoin](https://www.reddit.com/r/Bitcoin/comments/1qqhayd/just_so_you_know_companies_arent_selling_their/)**
 
-I wasn’t smart enough to hold onto them :(
+They are aggressively continuing to buy. We are however seeing outflows from bitcoin ETFs
 
-2h ago
+3h ago
 
 ---
 
@@ -131,23 +145,7 @@ Bitcoin CEO furious about market manipulation: “we must stop market manipulati
 
 Crazy to think I owned 18.2 btc in early 2020 and sold before it reach 73 something I think it was. Now I live check to check. HODL your investments, don’t sell
 
-15h ago
-
----
-
-**[TERRAIN TERRAIN, PULL UP, PULL UP..](https://www.reddit.com/r/Bitcoin/comments/1qpy5eg/terrain_terrain_pull_up_pull_up/)**
-
-I gotta stop getting hammered before I trade, But its sooooo profitable.. .
-
-17h ago
-
----
-
-**[Just so you know companies aren’t selling their bitcoin](https://www.reddit.com/r/Bitcoin/comments/1qqhayd/just_so_you_know_companies_arent_selling_their/)**
-
-They are aggressively continuing to buy. We are however seeing outflows from bitcoin ETFs
-
-2h ago
+16h ago
 
 ---
 
@@ -163,27 +161,11 @@ Mashable • 3h ago
 
 ---
 
-**[Why is Dogecoin down: DOGE slumps 7% as bitcoin loses ground in risk-off trade](https://www.coindesk.com/markets/2026/01/29/dogecoin-slumps-7-as-bitcoin-risk-off-rattles-memecoin-bets)**
-
-The token broke below key support at $0.1218 on heavy volume, turning that level into near-term resistance even after a brief bounce from around $0.115.
-
-CoinDesk • 4h ago
-
----
-
-**[Why Bitcoin’s Pullback May Be Setting Up A Rotation From Gold](https://www.forbes.com/sites/aliceliu/2026/01/29/why-bitcoins-pullback-may-be-setting-up-a-rotation-from-gold/)**
-
-Is Bitcoin near a bottom while gold peaks? Explore crypto liquidations, market cycles, and why investors are eyeing a BTC-long, gold-short rotation
-
-Forbes • 1h ago
-
----
-
 **[Bitcoin’s Historical Bottom Indicator Points to $62K – Could BTC Fall That Low?](https://finance.yahoo.com/news/bitcoin-historical-bottom-indicator-points-132855234.html)**
 
 Bitcoin is approaching a historically important support zone near $62,000, as a long-tracked reserve-cost indicator tied to Binance signals that BTC could see more pain ahead.The $62k reserve cost level has not been tested since the approval of U.S. spot Bitcoin ETFs in January 2024, raising fresh questions over whether ...
 
-Yahoo Finance • 7h ago
+Yahoo Finance • 8h ago
 
 ---
 
@@ -195,27 +177,11 @@ thestreet.com • 7h ago
 
 ---
 
-**[Myriad Moves: Bitcoin Is Falling—Will It Dump to $69K or Rebound to $100K?](https://decrypt.co/356339/myriad-moves-bitcoin-falling-dump-69k-rebound-100k)**
+**[Where is Donald Trump’s strategic Bitcoin reserve?](https://www.fastcompany.com/91482053/where-is-donald-trumps-strategic-bitcoin-reserve)**
 
-Top markets on Myriad this week include predictions on the next stops for Bitcoin and Solana, and President Donald Trump's approval rating.
+The government seems to be amassing more Bitcoin. But little work seems to be happening to enact the terms of the executive order Trump signed to start the 'strategic reserve.'
 
-Decrypt • 3h ago
-
----
-
-**[The Crypto Crystal Ball: The Forces Behind Bitcoin’s Price](https://www.jsonline.com/story/special/contributor-content/2026/01/29/the-crypto-crystal-ball-the-forces-behind-bitcoins-price/88416757007/)**
-
-To really get a sense of Bitcoin's long-term value and its daily ups and downs, you need to look at a mix of things.
-
-jsonline.com • 2h ago
-
----
-
-**[Is Bitcoin a Buy Right Now?](https://www.fool.com/investing/2026/01/28/is-bitcoin-a-buy-right-now/)**
-
-Bitcoin is the world's largest cryptocurrency by market cap.
-
-The Motley Fool • 1d ago
+Fast Company • 11h ago
 
 ---
 
@@ -227,11 +193,39 @@ The Block • 1d ago
 
 ---
 
-**[Where is Donald Trump’s strategic Bitcoin reserve?](https://www.fastcompany.com/91482053/where-is-donald-trumps-strategic-bitcoin-reserve)**
+**[Is Gold The New Bitcoin?](https://www.yardeniquicktakes.com/is-gold-the-new-bitcoin/)**
 
-The government seems to be amassing more Bitcoin. But little work seems to be happening to enact the terms of the executive order Trump signed to start the 'strategic reserve.'
+Proponents of bitcoin have been calling it “digital gold.” Both the cryptocurrency and the precious metal are impossible to value because they don't pay any interest or dividends. Bitcoin is digital, making it potentially vulnerable someday to hacking by quantum-computing algorithms, while gold needs to be stored in a vault.
 
-Fast Company • 11h ago
+Yardeni QuickTakes • 1d ago
+
+---
+
+**[Off the Charts: Key levels for bitcoin](https://www.cnbc.com/video/2026/01/27/off-the-charts-key-levels-for-bitcoin.html)**
+
+Katie Stockton, Fairlead, joins 'Fast Money' to take a technical look at bitcoin prices.
+
+CNBC • 1d ago
+
+---
+
+**[Bitcoin lacks direction as precious metals outshine crypto (BTC-USD:Cryptocurrency)](https://seekingalpha.com/news/4542886-bitcoin-lacks-direction-as-precious-metals-outshine-crypto)**
+
+Seeking Alpha • 2d ago
+
+---
+
+**[Grand Forks detective says if someone online asks for bitcoin or gift cards, 'you're being scammed'](https://www.grandforksherald.com/news/local/grand-forks-detective-says-if-someone-online-asks-for-bitcoin-or-gift-cards-youre-being-scammed)**
+
+Since 2022, Grand Forks residents have lost $466,803 to bitcoin cryptocurrency, according to GFPD Det. Todd Riedinger. The scams are difficult to trace and lost money usually can't be recovered.
+
+grandforksherald.com • 1d ago
+
+---
+
+**[Bitcoin Miners Power Down US Operations in Wake of Winter Storm](https://www.bloomberg.com/news/articles/2026-01-26/bitcoin-miners-power-down-us-operations-in-wake-of-winter-storm)**
+
+Bloomberg • 2d ago
 
 ---
 
@@ -252,6 +246,14 @@ Billionaire fugitive Roger Ver was facing federal criminal charges until he soug
 A list of known attacks against Bitcoin / crypto asset owning entities that occurred in meatspace. - jlopp/physical-bitcoin-attacks
 
 ⬆️ 3 • 💬 0 • 2d ago • [GitHub](https://github.com/jlopp/physical-bitcoin-attacks)
+
+---
+
+**[Bitcoin 2-Month Low as Gold and Stocks Give Up Gains, Crypto Liquidations $800M](https://news.ycombinator.com/item?id=46816932)**
+
+Bitcoin plunged to a two-month low Thursday as risk-on assets broadly fell—and even gold and silver gave up earlier gains.
+
+⬆️ 1 • 💬 0 • 20m ago • [Decrypt](https://decrypt.co/356330/bitcoin-2-month-low-gold-stocks-give-up-gains-crypto-liquidations-800m)
 
 ---
 
@@ -303,14 +305,6 @@ Reporting on Fintech, Crypto, and Blockchain Activity in Africa
 
 ---
 
-**[Are AI cryptocurrencies a good investment in 2026?](https://news.ycombinator.com/item?id=46815358)**
-
-Ever since OpenAI launched their first large language model for public use back in November 2022, artificial intelligence (AI) is being touted as a major - if
-
-⬆️ 1 • 💬 0 • 1h ago • [Altcoin Desk](https://altcoindesk.com/perspectives/learn/are-ai-cryptocurrencies-a-good-investment/article-22644/)
-
----
-
 ---
 
 ## YouTube Videos: "bitcoin"
@@ -321,7 +315,7 @@ The situation is getting worse and worse for crypto. Here are facts and my take 
 
 📺 Thomas Kralow
 
-👁️ 40K • 👍 3K • 💬 164 • ⏱️ 13:43 • 10h ago
+👁️ 40K • 👍 3K • 💬 164 • ⏱️ 13:43 • 11h ago
 
 ---
 
@@ -351,7 +345,7 @@ CRYPTO MARKET IS PLUNGING! IS CRYPTO CRASHING?! BREAKING CRYPTO NEWS TODAY! ⭐�
 
 📺 Austin Hilton
 
-👁️ 9K • 👍 508 • 💬 86 • ⏱️ 7:53 • 5h ago
+👁️ 9K • 👍 508 • 💬 86 • ⏱️ 7:53 • 6h ago
 
 ---
 
@@ -361,7 +355,7 @@ TRADE ON BITGET WITH ME! Sign up here ▻ https://share.bitget.com/u/UHGTDYS3 TR
 
 📺 FireHustle
 
-👁️ 2K • 👍 172 • 💬 38 • ⏱️ 12:59 • 4h ago
+👁️ 2K • 👍 172 • 💬 38 • ⏱️ 12:59 • 5h ago
 
 ---
 
@@ -371,7 +365,7 @@ Check out ClashPicks: https://www.clashpicks.com/ **Exchange Partners** Bitunix 
 
 📺 CryptosRUs
 
-👁️ 22K • 👍 1K • 💬 279 • ⏱️ 7:09 • 6h ago
+👁️ 22K • 👍 1K • 💬 279 • ⏱️ 7:09 • 7h ago
 
 ---
 
@@ -381,7 +375,7 @@ BlackRock is doubling down on Bitcoin, and the timing couldn't be more critical.
 
 📺 Discover Crypto
 
-👁️ 9K • 👍 429 • 💬 69 • ⏱️ 56:43 • 4h ago
+👁️ 9K • 👍 429 • 💬 69 • ⏱️ 56:43 • 5h ago
 
 ---
 
@@ -391,7 +385,7 @@ This is not Bitcoin going up. This is the dollar breaking down in real time. A d
 
 📺 Simply Bitcoin
 
-👁️ 33K • 👍 3K • 💬 381 • ⏱️ 15:53 • 21h ago
+👁️ 33K • 👍 3K • 💬 381 • ⏱️ 15:53 • 22h ago
 
 ---
 
@@ -411,7 +405,7 @@ Up to *$30000* Welcome Bonus]◅ ✓ *NO RESTRICTIONS* IF YOU *Use THIS Link* Ph
 
 📺 Tyler S
 
-👁️ 4K • 👍 429 • 💬 160 • ⏱️ 8:01 • 3h ago
+👁️ 4K • 👍 429 • 💬 160 • ⏱️ 8:01 • 4h ago
 
 ---
 

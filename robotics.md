@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-01-29T21:28:43.798355+00:00'
+updated: '2026-01-29T21:53:56.043553+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
+- social
 - videos
 - news
-- social
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** January 29, 2026 at 21:28 UTC  
+**Last Updated:** January 29, 2026 at 21:53 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -58,7 +58,7 @@ We want to build a community of robotics and computer vision developers who want
 
 Engineers have trained a new humanoid robot to perform realistic lip-syncing not by manually programming every movement, but by having it 'watch' hours of YouTube videos. By visually analyzing human speakers, the robot learned to match its mouth movements to audio with eerie precision.
 
-🔗 [TechSpot](https://www.techspot.com/news/110967-humanoid-robot-learns-realistic-lip-movement-watching-youtube.html) • 13h ago
+🔗 [TechSpot](https://www.techspot.com/news/110967-humanoid-robot-learns-realistic-lip-movement-watching-youtube.html) • 14h ago
 
 ---
 
@@ -118,22 +118,6 @@ Interesting Engineering • 2d ago
 
 ---
 
-**[CNBC's The China Connection newsletter: China-made humanoid robots set sights on Middle East and U.S. markets](https://www.cnbc.com/2026/01/28/cnbc-china-connection-newsletter-humanoid-robots-middle-east-us-limx-tesla-optimus.html)**
-
-Chinese humanoid robot companies are expanding globally, piling pressure on Elon Musk’s Optimus before it reaches mass production.
-
-CNBC • 1d ago
-
----
-
-**[I've Seen It With My Own Eyes: The Robots Are Here and Walking Among Us](https://www.cnet.com/tech/computing/ive-seen-it-with-my-own-eyes-the-robots-are-here-and-walking-among-us/)**
-
-The "physical AI" boom has created a world of opportunity for robot makers, and they're not holding back.
-
-CNET • 10h ago
-
----
-
 **[Not ready for robots in homes? The maker of a friendly new humanoid thinks it might change your mind](https://apnews.com/article/friendly-home-robot-fauna-robotics-sprout-57b396cd6f4b98ef83913a5efa9e0db2)**
 
 A new humanoid robot named Sprout, developed by Fauna Robotics, is making its debut. Unlike sleek and powerful-looking machines from companies like Tesla, Sprout is designed to be approachable and friendly.
@@ -142,11 +126,11 @@ AP News • 2d ago
 
 ---
 
-**[RobCo raises Series C funding to scale industrial automation](https://www.therobotreport.com/robco-raises-100m-scale-industrial-automation/)**
+**[Tesla lurches into the Musk robotics era](https://www.ft.com/content/6a6cfa00-6f51-4abc-bd68-1738580bd2c5)**
 
-RobCo plans to use the new capital to continue developing its physical AI systems and expand enterprise deployments in the U.S. and Europe.
+Future of the company lies in equipping and running a global fleet of driverless taxis and in selling humanoid robots
 
-The Robot Report • 2h ago
+Financial Times • 10h ago
 
 ---
 
@@ -155,14 +139,6 @@ The Robot Report • 2h ago
 Record investment marks a shift away from traditional EVs toward automation.
 
 Yahoo Finance • 5h ago
-
----
-
-**[Tesla lurches into the Musk robotics era](https://www.ft.com/content/6a6cfa00-6f51-4abc-bd68-1738580bd2c5)**
-
-Future of the company lies in equipping and running a global fleet of driverless taxis and in selling humanoid robots
-
-Financial Times • 9h ago
 
 ---
 
@@ -185,6 +161,29 @@ NASA (.gov) • 2d ago
 **[Synthetic 'muscle' with microfluidic blood vessels shows promise for soft robotics](https://techxplore.com/news/2026-01-synthetic-muscle-microfluidic-blood-vessels.html)**
 
 Tech Xplore • 2d ago
+
+---
+
+**[Lightspeed Backs Robotics Startup in $100 Million Round](https://www.bloomberg.com/news/articles/2026-01-29/fiat-toyota-tycoons-back-startup-robco-in-100-million-round)**
+
+Bloomberg • 5h ago
+
+---
+
+**[State of robotics industry report 2026](https://www.therobotreport.com/state-of-robotics-industry-report-2026/)**
+
+State of Robotics Industry Report 2026 offers a clear-eyed assessment of where the market stands today and where it’s headed.
+
+The Robot Report • 3d ago
+
+---
+
+**[READER REPORT: Local FIRST robotics team headed into state championship this weekend](https://westseattleblog.com/2026/01/reader-report-local-first-robotics-team-headed-into-state-championship-thius-weekend/)**
+
+One of our area's FIRST Robotics teams has made it into the state championship round! Thanks to Ash for the photo, report, and video:
+A LEGO robotics team called Brickrolled, made up of five students in grades 3 through 6 from Westside School, has qualified for the FIRST LEGO League Western Washington State Championship and will be represen...
+
+westseattleblog.com • 20h ago
 
 ---
 
@@ -228,7 +227,7 @@ Designed to work safely and naturally around people, Sprout from Fauna Robotics,
 
 📺 Interesting Engineering
 
-👁️ 629 • 👍 62 • 💬 1 • ⏱️ 1:40 • 5h ago
+👁️ 629 • 👍 62 • 💬 1 • ⏱️ 1:40 • 6h ago
 
 ---
 
