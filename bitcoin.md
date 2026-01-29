@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-01-29T21:53:56.034225+00:00'
+updated: '2026-01-29T22:28:58.080825+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- social
-- videos
-- news
 - cryptocurrency
+- videos
+- social
+- news
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** January 29, 2026 at 21:53 UTC  
+**Last Updated:** January 29, 2026 at 22:28 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -89,7 +89,7 @@ I wasn’t smart enough to hold onto them :(
 
 Gets punched to 35k
 
-2h ago
+3h ago
 
 ---
 
@@ -101,7 +101,7 @@ Gets punched to 35k
 
 **["Should we have a 2% allocation? 5% allocation? If everybody adopted that conversation...it would be $500k, $600k, $700k per bitcoin."](https://www.reddit.com/r/Bitcoin/comments/1qqcyfl/should_we_have_a_2_allocation_5_allocation_if/)**
 
-5h ago
+6h ago
 
 ---
 
@@ -131,13 +131,13 @@ They are aggressively continuing to buy. We are however seeing outflows from bit
 
 Bitcoin CEO furious about market manipulation: “we must stop market manipulation”
 
-3h ago
+4h ago
 
 ---
 
 **[😂](https://www.reddit.com/r/Bitcoin/comments/1qq31l2/_/)**
 
-13h ago
+14h ago
 
 ---
 
@@ -157,7 +157,7 @@ Crazy to think I owned 18.2 btc in early 2020 and sold before it reach 73 someth
 
 How low can Bitcoin go?
 
-Mashable • 3h ago
+Mashable • 4h ago
 
 ---
 
@@ -165,7 +165,7 @@ Mashable • 3h ago
 
 Bitcoin is approaching a historically important support zone near $62,000, as a long-tracked reserve-cost indicator tied to Binance signals that BTC could see more pain ahead.The $62k reserve cost level has not been tested since the approval of U.S. spot Bitcoin ETFs in January 2024, raising fresh questions over whether ...
 
-Yahoo Finance • 8h ago
+Yahoo Finance • 9h ago
 
 ---
 
@@ -173,7 +173,7 @@ Yahoo Finance • 8h ago
 
 Bloomberg's Eric Balchunas argues Bitcoin has beaten gold if we look at the bigger picture.
 
-thestreet.com • 7h ago
+thestreet.com • 8h ago
 
 ---
 
@@ -181,7 +181,7 @@ thestreet.com • 7h ago
 
 The government seems to be amassing more Bitcoin. But little work seems to be happening to enact the terms of the executive order Trump signed to start the 'strategic reserve.'
 
-Fast Company • 11h ago
+Fast Company • 12h ago
 
 ---
 
@@ -225,7 +225,7 @@ grandforksherald.com • 1d ago
 
 **[Bitcoin Miners Power Down US Operations in Wake of Winter Storm](https://www.bloomberg.com/news/articles/2026-01-26/bitcoin-miners-power-down-us-operations-in-wake-of-winter-storm)**
 
-Bloomberg • 2d ago
+Bloomberg • 3d ago
 
 ---
 
@@ -253,13 +253,13 @@ A list of known attacks against Bitcoin / crypto asset owning entities that occu
 
 Bitcoin plunged to a two-month low Thursday as risk-on assets broadly fell—and even gold and silver gave up earlier gains.
 
-⬆️ 1 • 💬 0 • 20m ago • [Decrypt](https://decrypt.co/356330/bitcoin-2-month-low-gold-stocks-give-up-gains-crypto-liquidations-800m)
+⬆️ 1 • 💬 0 • 55m ago • [Decrypt](https://decrypt.co/356330/bitcoin-2-month-low-gold-stocks-give-up-gains-crypto-liquidations-800m)
 
 ---
 
 **[Single Bitcoin entity keeping BTC price suppressed below $90K](https://news.ycombinator.com/item?id=46812350)**
 
-⬆️ 1 • 💬 0 • 5h ago • [msn.com](https://www.msn.com/en-us/money/markets/single-bitcoin-entity-keeping-btc-price-suppressed-below-90k-analysis/ar-AA1VfVZb)
+⬆️ 1 • 💬 0 • 6h ago • [msn.com](https://www.msn.com/en-us/money/markets/single-bitcoin-entity-keeping-btc-price-suppressed-below-90k-analysis/ar-AA1VfVZb)
 
 ---
 
@@ -325,7 +325,7 @@ Bitcoin #Crypto #Finance Your edge starts here — join DataDash Pro for Discord
 
 📺 DataDash
 
-👁️ 2K • 👍 181 • 💬 8 • ⏱️ 12:08 • 5h ago
+👁️ 2K • 👍 181 • 💬 8 • ⏱️ 12:08 • 6h ago
 
 ---
 
@@ -335,7 +335,7 @@ After a brief series of amendments were rejected, the U.S. Senate Agriculture Co
 
 📺 Paul Barron Network
 
-👁️ 13K • 👍 3K • 💬 326 • ⏱️ 16:34 • 3h ago
+👁️ 13K • 👍 3K • 💬 326 • ⏱️ 16:34 • 4h ago
 
 ---
 
@@ -395,7 +395,7 @@ Bob Murphy is a Senior Fellow at the Mises Institute and Chief Economist at Infi
 
 📺 Anthony Pompliano
 
-👁️ 26K • 👍 901 • ⏱️ 30:04 • 23h ago
+👁️ 26K • 👍 901 • ⏱️ 30:04 • 1d ago
 
 ---
 

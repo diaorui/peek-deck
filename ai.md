@@ -3,14 +3,14 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-01-29T21:53:56.025749+00:00'
+updated: '2026-01-29T22:28:58.072366+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
+- videos
 - social
 - repositories
-- videos
 - news
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 AI news, discussions, and developments
 
-**Last Updated:** January 29, 2026 at 21:53 UTC  
+**Last Updated:** January 29, 2026 at 22:28 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -69,7 +69,7 @@ A lot of the discussion around AI right now focuses on code generation: how far 
 
 We're excited to share our latest podcast episode, where we talk about why some of the best movies fail at the box office only to become cult classics a decade later and whether AI can actually predict the next underground masterpiece by looking at real-time sentiment analysis and "memeable density". The data shows that playing it safe will just not cut it. To stand out and make a movie that will be remembered for decades, you have to throw caution to the wind and take the bold risks that everyone will tell you not to make. We also dive into some of the interesting side-projects we're working on, along with a few weird, off-beat recent news stories about AI. Check it out and hope you enjoy
 
-🔗 [open.substack.com](https://open.substack.com/pub/storyprism/p/story-prism-podcast-ep-7?r=h11e6&utm_campaign=post&utm_medium=web) • 4h ago
+🔗 [open.substack.com](https://open.substack.com/pub/storyprism/p/story-prism-podcast-ep-7?r=h11e6&utm_campaign=post&utm_medium=web) • 5h ago
 
 ---
 
@@ -85,7 +85,7 @@ Amazon is laying off 16,000 employees as AI battle intensifies.[1] Google adds G
 
 Wordsmith Law has issued a claim against legal AI company Wordsmith in an apparent naming dispute.
 
-🔗 [nonbillable.co.uk](https://www.nonbillable.co.uk/news/wordsmith-dispute-legal-ai-startup-against-london-law-firm) • 5h ago
+🔗 [nonbillable.co.uk](https://www.nonbillable.co.uk/news/wordsmith-dispute-legal-ai-startup-against-london-law-firm) • 6h ago
 
 ---
 
@@ -99,7 +99,7 @@ Wordsmith Law has issued a claim against legal AI company Wordsmith in an appare
 
 Hi all, looking for the most capable photo to video AI tool out currently. It could be paid, free or self hosted - just want something robust that can take a real photo and give it some motion without any wacky variances. A search of previous discussions are all over the place with recs, some of even already outdated. Looking for suggestions based on people’s most recent experience! Any help would be greatly appreciated!
 
-7h ago
+8h ago
 
 ---
 
@@ -117,7 +117,7 @@ Hi all, looking for the most capable photo to video AI tool out currently. It co
 
 The iShares Expanded Tech-Software Sector ETF is on pace for its biggest one-day decline since April 4 during the tariff-triggered downturn.
 
-CNBC • 6h ago
+CNBC • 7h ago
 
 ---
 
@@ -131,7 +131,7 @@ Yahoo Finance • 6h ago
 
 **[US software stocks slump as AI disruption fears take over](https://www.reuters.com/business/us-software-stocks-slide-after-sap-servicenow-results-fuel-ai-disruption-fears-2026-01-29/)**
 
-Reuters • 6h ago
+Reuters • 7h ago
 
 ---
 
@@ -139,13 +139,13 @@ Reuters • 6h ago
 
 Google AI Ultra subscribers in the U.S. can now try out Project Genie.
 
-blog.google • 4h ago
+blog.google • 5h ago
 
 ---
 
 **[Apple acquires Israeli audio AI startup Q.ai](https://www.reuters.com/business/apple-acquires-audio-ai-startup-qai-2026-01-29/)**
 
-Reuters • 4h ago
+Reuters • 5h ago
 
 ---
 
@@ -161,7 +161,7 @@ Financial Times • 4h ago
 
 Tim Cook is having a week.
 
-Gizmodo • 32m ago
+Gizmodo • 1h ago
 
 ---
 
@@ -177,7 +177,7 @@ Yahoo Finance • 6h ago
 
 Software group pulls Nasdaq lower after reporting 66% year-on-year surge in data centre costs
 
-Financial Times • 5h ago
+Financial Times • 6h ago
 
 ---
 
@@ -185,7 +185,7 @@ Financial Times • 5h ago
 
 The drop comes amid stalling growth for its cloud computing software as OpenAI investments are questioned.
 
-Al Jazeera • 16m ago
+Al Jazeera • 51m ago
 
 ---
 
@@ -215,13 +215,13 @@ Interactive article explaining the physics of an airfoil and what makes airplane
 
 Or, as they like to call it, the 'AI Skills Hub'. Which was built by PwC because of course it was
 
-⬆️ 387 • 💬 143 • 22h ago • [Mahad Kalam](https://mahadk.com/posts/ai-skills-hub)
+⬆️ 387 • 💬 143 • 23h ago • [Mahad Kalam](https://mahadk.com/posts/ai-skills-hub)
 
 ---
 
 **[The tech market is fundamentally fucked up and AI is just a scapegoat](https://news.ycombinator.com/item?id=46809069)**
 
-⬆️ 289 • 💬 202 • 9h ago • [bayramovanar.substack.com](https://bayramovanar.substack.com/p/tech-market-is-fucked-up)
+⬆️ 289 • 💬 202 • 10h ago • [bayramovanar.substack.com](https://bayramovanar.substack.com/p/tech-market-is-fucked-up)
 
 ---
 
@@ -283,7 +283,7 @@ Get 10% off all Hostinger yearly plans here: http://hostinger.com/albertatech (U
 
 📺 Alberta Tech
 
-👁️ 57K • 👍 6K • 💬 511 • ⏱️ 11:33 • 7h ago
+👁️ 57K • 👍 6K • 💬 511 • ⏱️ 11:33 • 8h ago
 
 ---
 
@@ -293,7 +293,7 @@ How to Create AI Influencer For FREE ! Hyper Realistic AI Influencer . . In this
 
 📺 Fayyaz Ahmed
 
-👁️ 3K • 👍 350 • 💬 13 • ⏱️ 3:23 • 15h ago
+👁️ 3K • 👍 350 • 💬 13 • ⏱️ 3:23 • 16h ago
 
 ---
 
@@ -333,7 +333,7 @@ AI just made a serious jump into the real world. OpenAI unveiled PRISM, a new AI
 
 📺 AI Revolution
 
-👁️ 20K • 👍 659 • 💬 46 • ⏱️ 11:36 • 22h ago
+👁️ 20K • 👍 659 • 💬 46 • ⏱️ 11:36 • 23h ago
 
 ---
 
@@ -389,7 +389,7 @@ PersonaPlex-7B-v1 is a real-time, full-duplex speech-to-speech conversational mo
 
 `audio-to-audio`
 
-⬇️ 50,776 • ❤️ 1,443 • 22h ago
+⬇️ 50,776 • ❤️ 1,443 • 23h ago
 
 ---
 
@@ -401,7 +401,7 @@ Kimi K2.5 is a native multimodal agentic model with 1T parameters, excelling in 
 
 `image-text-to-text`
 
-⬇️ 21,428 • ❤️ 1,066 • 12h ago
+⬇️ 21,428 • ❤️ 1,066 • 13h ago
 
 ---
 
@@ -413,7 +413,7 @@ Qwen3-TTS-12Hz-1.7B-CustomVoice is a multilingual text-to-speech model supportin
 
 `text-to-speech` `1.9B`
 
-⬇️ 169,048 • ❤️ 748 • 13h ago
+⬇️ 169,048 • ❤️ 748 • 14h ago
 
 ---
 
@@ -461,7 +461,7 @@ GLM-4.7-Flash is a 30B-A3B MoE model, offering strong performance in the 30B cla
 
 `text-generation` `31.2B`
 
-⬇️ 609,013 • ❤️ 1,325 • 13h ago
+⬇️ 609,013 • ❤️ 1,325 • 14h ago
 
 ---
 
@@ -651,7 +651,7 @@ Browser automation CLI for AI agents
 
 `TypeScript`
 
-⭐ 11.4k • 🔱 628 • 4h ago
+⭐ 11.4k • 🔱 628 • 5h ago
 
 ---
 
@@ -711,7 +711,7 @@ The Ultimate Collection of 500+ Agentic Skills for Claude Code/Antigravity/Curso
 
 `Python` `agentic-skills` `ai-agents` `antigravity` `autonomous-coding` `claude-code`
 
-⭐ 5.3k • 🔱 1.2k • 9h ago
+⭐ 5.3k • 🔱 1.2k • 10h ago
 
 ---
 
