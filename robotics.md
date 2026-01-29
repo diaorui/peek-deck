@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-01-28T23:51:59.066256+00:00'
+updated: '2026-01-29T02:07:00.561172+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- news
 - social
 - videos
+- news
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** January 28, 2026 at 23:51 UTC  
+**Last Updated:** January 29, 2026 at 02:07 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -32,15 +32,15 @@ Robotics research and industry news
 
 ## Reddit: r/robotics
 
-**[Dexterous robotic hands: 2009 - 2014 - 2025](https://www.reddit.com/r/robotics/comments/1qp7z15/dexterous_robotic_hands_2009_2014_2025/)**
+**[Figure 03 handling glassware, fully autonomous](https://www.reddit.com/r/robotics/comments/1qpn1dq/figure_03_handling_glassware_fully_autonomous/)**
 
-13h ago
+5h ago
 
 ---
 
-**[Figure 03 handling glassware, fully autonomous](https://www.reddit.com/r/robotics/comments/1qpn1dq/figure_03_handling_glassware_fully_autonomous/)**
+**[Dexterous robotic hands: 2009 - 2014 - 2025](https://www.reddit.com/r/robotics/comments/1qp7z15/dexterous_robotic_hands_2009_2014_2025/)**
 
-3h ago
+15h ago
 
 ---
 
@@ -48,15 +48,7 @@ Robotics research and industry news
 
 We are building a 3d-printable animatronics robots, Mostly the same 3d printed parts lets you assemble different animal robots, and we are trying to make it on the cheapest way possible (less than $50 is the target). Current list: Robotic dog Spider Robotic arm So far 300 people downloaded it from GrabCAD and Instructables, Got some positive feedbacks. And feedbacks to making the walking more smoother(Planning to add spring and weights) and assembly a bit easier(Planning for a snap fit). Why this post? We are currently working on the V2 of it, We are trying to put the design Infront of as many peoples and get their thoughts, ideas for new animals, making existing much better. Will appreciate any inputs. Link for files : https://grabcad.com/library/diy-robotic-dog-1 Assembly : https://www.instructables.com/Trix/ Reposting it here, Haven't got any replies last time 💀
 
-10h ago
-
----
-
-**[Who needs a lab? 17yo coding an autonomous interceptor drone system using ROS and OpenCV in his bedroom.](https://www.reddit.com/r/robotics/comments/1qppmc7/who_needs_a_lab_17yo_coding_an_autonomous/)**
-
-I recently came across the work of a 17-year-old developer named Alperen, who is building something truly remarkable in his bedroom. Due to privacy concerns and the sensitive nature of the tech, he prefers to keep his face hidden, but his work speaks for itself. While most people are familiar with basic 2D object tracking seen in simple MP4 video tutorials, Alperen has taken it to a professional defense-grade level. Using ROS (Robot Operating System) and OpenCV within the Gazebo simulation environment, he has developed a system that calculates real-time 3D depth and spatial coordinates. This isn't just following pixels; it’s an active interceptor logic where the drone dynamically adjusts its velocity, altitude, and trajectory to maintain a precise lock on its target. It is fascinating to see such high-level autonomous flight control and computer vision being pioneered on a home PC by someone so young. This project demonstrates how the gap between hobbyist coding and sophisticated defense technology is rapidly closing through open-source tools and pure talent.
-
-1h ago
+13h ago
 
 ---
 
@@ -64,7 +56,7 @@ I recently came across the work of a 17-year-old developer named Alperen, who is
 
 3 x Super-Beacons as stationary beacons for precise 3D indoor positioning 1 x (Mini-RX + External Microphone + Deflector) as a mobile beacon for the drone 1 x Modem v5.1 as a central controller This is not an autonomous flight - the drone was remotely controlled. But it shows precise indoor 3D tracking capabilities for swarming drones.
 
-15h ago
+17h ago
 
 ---
 
@@ -72,7 +64,15 @@ I recently came across the work of a 17-year-old developer named Alperen, who is
 
 Former iRobot CEO Colin Angle talks about how robotics isn’t really a single “thing,” and that defaulting to humanoids as the mental model ends up flattening what’s actually going on in the field. He ties it back to his time at iRobot and how a lot of success or failure came down to very specific questions about value and trust, not form factor. Amazon attempted to acquire the declining company from bankruptcy but after an 18-month process the deal fell through. Angle is now with another company.
 
-7h ago
+9h ago
+
+---
+
+**[Resume Advice](https://www.reddit.com/r/robotics/comments/1qpte6l/resume_advice/)**
+
+Hello all! I'm currently a undergraduate junior in mechanical engineering looking to break into the robotics field once i graduate. I'm looking for advice on things i can do to make my resume more attractive to employers in the space. My GPA is above a 3.0 but it's not very impressive which is why i don't include it in my resume. I'm trying to aim for more of a mechanical design engineer role or an integration robotics engineer/ deployment. Please help!
+
+1h ago
 
 ---
 
@@ -80,7 +80,7 @@ Former iRobot CEO Colin Angle talks about how robotics isn’t really a single �
 
 Hi, it's Emre from the Asimov team. I've been sharing our daily humanoid progress here, and thanks for your support along the way! We've open-sourced the leg design with CAD files, actuator list, and XML files for simulation. Now we're sharing a writeup on how we built it. Quick intro: Asimov is an open-source humanoid robot. We only have legs right now and are planning to finalize the full body by March 2026. It's going to be modular, so you can build the parts you need. Selling the robot isn't our priority right now. https://preview.redd.it/ljxqu6pdk2gg1.png?width=2000&format=png&auto=webp&s=71c244fb3cfc31cd5a768b7b1488babd8e04dcc0 Each leg has 6 DOF. The complete legs subsystem costs just over $10k, roughly $8.5k for actuators and joint parts, the rest for batteries and control modules. We designed for modularity and low-volume manufacturing. Most structural parts are compatible with MJF 3D printing. The only CNC requirement is the knee plate, which we simplified from a two-part assembly to a single plate. Actuators & Motors list and design files: https://github.com/asimovinc/asimov-v0 https://preview.redd.it/zalsj3eik2gg1.png?width=1200&format=png&auto=webp&s=734adca3a9d1c928acbf75cd95e44c3d4640ed93 We chose a parallel RSU ankle rather than a simple serial ankle. RSU gives us two-DOF ankles with both roll and pitch. Torque sharing between two motors means we can place heavy components closer to the hip, which improves rigidity and backdrivability. Linear actuators would have been another option, higher strength, more tendon-like look, but slower and more expensive. We added a toe joint that's articulated but not actuated. During push-off, the toe rocker helps the foot roll instead of pivoting on a rigid edge. Better traction, better forward propulsion, without adding another powered joint. https://preview.redd.it/skiqez2gk2gg1.png?width=1200&format=png&auto=webp&s=59d8951c9d20d2a10f547879a346c65e5b2e0bcf Our initial hip-pitch actuator was mounted at 45 degrees. This limited hip flexion and made sitting impossible. We're moving to a horizontal mount to recover range of motion. We're also upgrading ankle pivot components from aluminum to steel, and tightening manufacturing tolerances after missing some holes in early builds. https://preview.redd.it/o5wrtthkk2gg1.png?width=1200&format=png&auto=webp&s=5bebbe9c662e8e0a15ac6ea6b788530d0d1d66fd Next up is the upper body. We're working on arms and torso in parallel, targeting full-body integration by March. The complete robot will have 26 DOF and come in under 40kg. Sneak industrial design render of complete Asimov humanoid. Full writeup with diagrams and specs here: https://news.asimov.inc/p/how-we-built-humanoid-legs-from-the
 
-13h ago
+15h ago
 
 ---
 
@@ -124,21 +124,15 @@ NASA (.gov) • 1d ago
 
 Boston Dynamics' Atlas appears to have an edge over Tesla's Optimus.
 
-The Motley Fool • 19h ago
+The Motley Fool • 21h ago
 
 ---
 
-**[Synthetic 'muscle' with microfluidic blood vessels shows promise for soft robotics](https://techxplore.com/news/2026-01-synthetic-muscle-microfluidic-blood-vessels.html)**
+**[Not ready for robots in homes? The maker of a friendly new humanoid thinks it might change your mind](https://abcnews.go.com/Technology/wireStory/ready-robots-homes-maker-friendly-new-humanoid-thinks-129594260)**
 
-Tech Xplore • 1d ago
+A new humanoid robot named Sprout, developed by Fauna Robotics, is making its debut
 
----
-
-**[Richtech Robotics soars after announcing partnership with Microsoft to use AI to improve its robots](https://sherwood.news/markets/richtech-robotics-soars-after-announcing-partnership-with-microsoft-to-use/)**
-
-The most momentous day for ADAM since serving Jensen Huang a margarita....
-
-Sherwood News • 1d ago
+ABC News • 12h ago
 
 ---
 
@@ -147,6 +141,14 @@ Sherwood News • 1d ago
 ADAM, Richtech's Azure-powered robot, now uses vision, voice and contextual data to improve retail workflows and customer interactions.
 
 Stock Titan • 1d ago
+
+---
+
+**[Richtech Robotics soars after announcing partnership with Microsoft to use AI to improve its robots](https://sherwood.news/markets/richtech-robotics-soars-after-announcing-partnership-with-microsoft-to-use/)**
+
+The most momentous day for ADAM since serving Jensen Huang a margarita....
+
+Sherwood News • 1d ago
 
 ---
 
@@ -162,7 +164,13 @@ GlobeNewswire • 1d ago
 
 Most people think Silicon Valley was built by entrepreneurs.Garage tinkerers. Venture capitalists. Risk-taking founders chasing consumer demand.It’s a comforting story … because it makes America’s greatest tech boom feel accidental… almost inevitable.But the truth is more useful for investors: Sili…
 
-TradingView • 11h ago
+TradingView • 13h ago
+
+---
+
+**[Synthetic 'muscle' with microfluidic blood vessels shows promise for soft robotics](https://techxplore.com/news/2026-01-synthetic-muscle-microfluidic-blood-vessels.html)**
+
+Tech Xplore • 1d ago
 
 ---
 
@@ -174,19 +182,11 @@ The Robot Report • 2d ago
 
 ---
 
-**[Not ready for robots in homes? The maker of a friendly new humanoid thinks it might change your mind](https://apnews.com/article/friendly-home-robot-fauna-robotics-sprout-57b396cd6f4b98ef83913a5efa9e0db2)**
-
-A new humanoid robot named Sprout, developed by Fauna Robotics, is making its debut. Unlike sleek and powerful-looking machines from companies like Tesla, Sprout is designed to be approachable and friendly.
-
-AP News • 1d ago
-
----
-
 **[Ondas' American Robotics Optimus Drone Approved for Rapid Federal Procurement via DCMA Blue UAS Cleared List](https://finance.yahoo.com/news/ondas-american-robotics-optimus-drone-133000330.html)**
 
 Approval confirms compliance with Department of War cybersecurity, supply-chain, and operational standards, further positioning Ondas' dual-use autonomous platform for expanded deployment across defense and critical infrastructure applications Milestone ...
 
-Yahoo Finance • 10h ago
+Yahoo Finance • 12h ago
 
 ---
 
@@ -194,13 +194,13 @@ Yahoo Finance • 10h ago
 
 ## YouTube Videos: "robotics"
 
-**[The Most Complex Task a Humanoid Robot Has Ever Done? #Robot #AI #Tech](https://www.youtube.com/watch?v=3aAnqRLqqos)**
+**[The German Robots Are Replacing Forklifts Inside Factories](https://www.youtube.com/watch?v=tCis6jGzxnk)**
 
-Figure AI says its flagship humanoid is more autonomous than ever thanks to its newly upgraded robot brain. The Silicon Valley ...
+Day 172 of watching tech evolve. German startup Filics has built autonomous warehouse robots that move in any direction, work ...
 
-📺 Kalil 4.0
+📺 Deepen
 
-👁️ 2K • 👍 61 • 💬 1 • ⏱️ 0:39 • 6h ago
+👁️ 19K • 👍 401 • 💬 10 • ⏱️ 0:29 • 4d ago
 
 ---
 
@@ -212,33 +212,13 @@ Figure AI says its flagship humanoid is more autonomous than ever thanks to its 
 
 ---
 
-**[The German Robots Are Replacing Forklifts Inside Factories](https://www.youtube.com/watch?v=tCis6jGzxnk)**
-
-Day 172 of watching tech evolve. German startup Filics has built autonomous warehouse robots that move in any direction, work ...
-
-📺 Deepen
-
-👁️ 19K • 👍 400 • 💬 10 • ⏱️ 0:29 • 4d ago
-
----
-
 **[TRON 1 bipedal robot refuses to fail in deep snow #robotics #tech  #airobot](https://www.youtube.com/watch?v=IHxPxKme4mo)**
 
 The Shenzhen startup LimX Dynamics has demonstrated what it calls a major step forward for cold-weather logistics.
 
 📺 Kalil 4.0
 
-👁️ 716 • 👍 42 • ⏱️ 0:40 • 3h ago
-
----
-
-**[This Girl Discovered a Lost Robot in the Mountain](https://www.youtube.com/watch?v=v6GRptrADk4)**
-
-In the depths of a mysterious mountain forest, a young girl named Jessica stumbles upon a lost, abandoned Aegis Suit robot ...
-
-📺 Technology Next World
-
-👁️ 51K • 👍 448 • 💬 17 • ⏱️ 3:53 • 4d ago
+👁️ 1K • 👍 41 • ⏱️ 0:40 • 6h ago
 
 ---
 
@@ -248,17 +228,25 @@ RoboticWings #FuturisticLab #Android #SciFi #Robotics #AIArt #Cyberpunk #HighTec
 
 📺 AITECHGADGETS
 
-👁️ 245K • 💬 139 • ⏱️ 0:18 • 2d ago
+👁️ 249K • 💬 139 • ⏱️ 0:18 • 3d ago
 
 ---
 
-**[Elon Musk UNVEILS a SHOCKING Trump ROBOT CLONE in Front of Trump &amp; Melania.](https://www.youtube.com/watch?v=GvoLXBUJkX4)**
+**[Drag-on welding robot.#industrial #welding #robot #spraying #stamping #machine](https://www.youtube.com/watch?v=eyomA3UunY4)**
 
-Elon Musk revela un IMPACTANTE ROBOT CLON de Trump delante de Trump y Melania.埃隆·马斯克当着特朗普和梅拉尼娅的面 ...
+📺 Borunte Robot Lin 
 
-📺 mundo tendencias
+👁️ 3K • 👍 14 • ⏱️ 0:24 • 13h ago
 
-👁️ 1.0M • 👍 9K • 💬 162 • ⏱️ 0:08 • 4d ago
+---
+
+**[This Girl Discovered a Lost Robot in the Mountain](https://www.youtube.com/watch?v=v6GRptrADk4)**
+
+In the depths of a mysterious mountain forest, a young girl named Jessica stumbles upon a lost, abandoned Aegis Suit robot ...
+
+📺 Technology Next World
+
+👁️ 53K • 👍 459 • 💬 17 • ⏱️ 3:53 • 4d ago
 
 ---
 
@@ -268,7 +256,7 @@ Get FREE Robotics & AI Resources (Guide, Textbooks, Courses, Resume Template, Co
 
 📺 Kevin Wood | Robotics & AI
 
-👁️ 1K • 👍 26 • 💬 2 • ⏱️ 3:51 • 17h ago
+👁️ 1K • 👍 27 • 💬 2 • ⏱️ 3:51 • 20h ago
 
 ---
 
@@ -276,7 +264,7 @@ Get FREE Robotics & AI Resources (Guide, Textbooks, Courses, Resume Template, Co
 
 📺 Romi Pal
 
-👁️ 293K • 👍 6K • 💬 34 • ⏱️ 0:17 • 5d ago
+👁️ 294K • 👍 6K • 💬 34 • ⏱️ 0:17 • 5d ago
 
 ---
 
@@ -286,7 +274,17 @@ Get FREE Robotics & AI Resources (Guide, Textbooks, Courses, Resume Template, Co
 
 📺 Andreas Klinger ⅹ Europe's Most Ambitious Startups
 
-👁️ 15K • 👍 976 • 💬 152 • ⏱️ 16:46 • 2d ago
+👁️ 16K • 👍 1K • 💬 156 • ⏱️ 16:46 • 2d ago
+
+---
+
+**[Tesla is ‘definitely in line’ for $500 stock price amid robot rise: R &#39;Ray&#39; Wang](https://www.youtube.com/watch?v=n7DFi-qXikk)**
+
+Constellation Research founder R 'Ray' Wang joins 'Varney & Co.' to discuss the new U.S.-controlled TikTok entity and why he ...
+
+📺 Fox Business Clips
+
+👁️ 32K • 👍 389 • 💬 141 • ⏱️ 3:39 • 5d ago
 
 ---
 
