@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-01-29T20:32:23.267734+00:00'
+updated: '2026-01-29T21:28:43.798355+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- social
-- news
 - videos
+- news
+- social
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** January 29, 2026 at 20:32 UTC  
+**Last Updated:** January 29, 2026 at 21:28 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -36,7 +36,7 @@ Robotics research and industry news
 
 Working on my first robotics build at the moment and easing my way into it. Any pointers or tips would be greatly appreciated. This is what I have for hardware so far.
 
-7h ago
+8h ago
 
 ---
 
@@ -50,7 +50,7 @@ Working on my first robotics build at the moment and easing my way into it. Any 
 
 We want to build a community of robotics and computer vision developers who want to share their algorithms and SOTA models to be used by the industry. The idea is to have a large scale, common repo, where devs contribute their SOTA models and algorithms. It follows the principle of a Skill Library for robotics. Skills can be of computer vision, robotics, RL, VLA models or any other model that is used for industrial robots, mobile robots and humanoid robots. To get started with building the community, we are struggling to figure out what content works best. Some ideas that we have include: A Discord channel for centralised discussion YouTube channel showcasing how to use the Skills to build use cases Technical blogs on Medium What channels do you regularly visit to keep up to date with all the varied models out there? And also, what content do you generally enjoy?
 
-9h ago
+10h ago
 
 ---
 
@@ -58,7 +58,7 @@ We want to build a community of robotics and computer vision developers who want
 
 Engineers have trained a new humanoid robot to perform realistic lip-syncing not by manually programming every movement, but by having it 'watch' hours of YouTube videos. By visually analyzing human speakers, the robot learned to match its mouth movements to audio with eerie precision.
 
-🔗 [TechSpot](https://www.techspot.com/news/110967-humanoid-robot-learns-realistic-lip-movement-watching-youtube.html) • 12h ago
+🔗 [TechSpot](https://www.techspot.com/news/110967-humanoid-robot-learns-realistic-lip-movement-watching-youtube.html) • 13h ago
 
 ---
 
@@ -80,7 +80,7 @@ We are building a 3d-printable animatronics robots, Mostly the same 3d printed p
 
 Hello , I'm currently doing internship in my college and I have got one month to finish ball balancing bot , I do have some idea, so guys please help me out what are the components are required for doing the project and how to do it that will be grateful and appreciate the suggestion :)
 
-6h ago
+7h ago
 
 ---
 
@@ -94,7 +94,7 @@ Former iRobot CEO Colin Angle talks about how robotics isn’t really a single �
 
 **[I want help with a gazebo project is there any one who knows about gazebo](https://www.reddit.com/r/robotics/comments/1qq3zxu/i_want_help_with_a_gazebo_project_is_there_any/)**
 
-11h ago
+12h ago
 
 ---
 
@@ -102,7 +102,7 @@ Former iRobot CEO Colin Angle talks about how robotics isn’t really a single �
 
 Hi everyone, I'm using an Intel RealSense D435 camera with ROS2 Jazzy and MoveIt2. My camera is mounted in a non-standard orientation: Vertically rather than horizontally. More specifically it is rotated 90° counterclockwise (USB port facing up) and tilted 8° downward. I've set up my URDF with a camera_link joint that connects to my robot, and the RealSense ROS2 driver automatically publishes the camera_depth_optical_frame. My questions: Does camera_link need to follow a specific orientation convention? (I've read REP-103 says X=forward, Y=left, Z=up, but does this still apply when the camera is physically rotated?) What should camera_depth_optical_frame look like in RViz after the 90° rotation? The driver creates this automatically - should I expect the axes to look different than a standard horizontal mount? If my point cloud visually appears correctly aligned with reality (floor is horizontal, objects in correct positions), does the TF frame orientation actually matter? Or is it purely cosmetic at that point? Is there a "correct" RPY for a vertically-mounted D435, or do I just need to ensure the point cloud aligns with my robot's world frame? Any guidance from anyone who has mounted a RealSense camera vertically would be really appreciated! Thanks!
 
-11h ago
+12h ago
 
 ---
 
@@ -130,7 +130,7 @@ CNBC • 1d ago
 
 The "physical AI" boom has created a world of opportunity for robot makers, and they're not holding back.
 
-CNET • 9h ago
+CNET • 10h ago
 
 ---
 
@@ -146,7 +146,7 @@ AP News • 2d ago
 
 RobCo plans to use the new capital to continue developing its physical AI systems and expand enterprise deployments in the U.S. and Europe.
 
-The Robot Report • 1h ago
+The Robot Report • 2h ago
 
 ---
 
@@ -154,7 +154,7 @@ The Robot Report • 1h ago
 
 Record investment marks a shift away from traditional EVs toward automation.
 
-Yahoo Finance • 4h ago
+Yahoo Finance • 5h ago
 
 ---
 
@@ -162,7 +162,7 @@ Yahoo Finance • 4h ago
 
 Future of the company lies in equipping and running a global fleet of driverless taxis and in selling humanoid robots
 
-Financial Times • 8h ago
+Financial Times • 9h ago
 
 ---
 
@@ -170,7 +170,7 @@ Financial Times • 8h ago
 
 Investors liked what they heard about the future following the company's latest results, but Elon Musk is under huge pressure to deliver on his vision as a series of targets have been missed.
 
-Sky News • 13h ago
+Sky News • 14h ago
 
 ---
 
@@ -254,7 +254,7 @@ Designed to work safely and naturally around people, Sprout from Fauna Robotics,
 
 📺 Romi Pal
 
-👁️ 313K • 👍 6K • 💬 36 • ⏱️ 0:17 • 5d ago
+👁️ 313K • 👍 6K • 💬 36 • ⏱️ 0:17 • 6d ago
 
 ---
 
@@ -274,7 +274,7 @@ Andrea Nakano reports on the Tesla Fremont factory ending Model S/X production a
 
 📺 KPIX | CBS NEWS BAY AREA
 
-👁️ 19K • 👍 207 • 💬 193 • ⏱️ 4:36 • 13h ago
+👁️ 19K • 👍 207 • 💬 193 • ⏱️ 4:36 • 14h ago
 
 ---
 

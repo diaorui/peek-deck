@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-01-29T20:32:23.258466+00:00'
+updated: '2026-01-29T21:28:43.789152+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- cryptocurrency
-- social
-- news
 - videos
+- news
+- social
+- cryptocurrency
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** January 29, 2026 at 20:32 UTC  
+**Last Updated:** January 29, 2026 at 21:28 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -79,13 +79,13 @@ Rank #1
 
 **[Do you see the selloff?](https://www.reddit.com/r/Bitcoin/comments/1qqff0n/do_you_see_the_selloff/)**
 
-2h ago
+3h ago
 
 ---
 
 **["Should we have a 2% allocation? 5% allocation? If everybody adopted that conversation...it would be $500k, $600k, $700k per bitcoin."](https://www.reddit.com/r/Bitcoin/comments/1qqcyfl/should_we_have_a_2_allocation_5_allocation_if/)**
 
-4h ago
+5h ago
 
 ---
 
@@ -93,7 +93,7 @@ Rank #1
 
 Gets punched to 35k
 
-1h ago
+2h ago
 
 ---
 
@@ -101,7 +101,7 @@ Gets punched to 35k
 
 Buy Now Thank Me later
 
-2h ago
+3h ago
 
 ---
 
@@ -109,7 +109,7 @@ Buy Now Thank Me later
 
 I wasn’t smart enough to hold onto them :(
 
-1h ago
+2h ago
 
 ---
 
@@ -117,13 +117,13 @@ I wasn’t smart enough to hold onto them :(
 
 Bitcoin CEO furious about market manipulation: “we must stop market manipulation”
 
-2h ago
+3h ago
 
 ---
 
 **[😂](https://www.reddit.com/r/Bitcoin/comments/1qq31l2/_/)**
 
-12h ago
+13h ago
 
 ---
 
@@ -131,7 +131,7 @@ Bitcoin CEO furious about market manipulation: “we must stop market manipulati
 
 Crazy to think I owned 18.2 btc in early 2020 and sold before it reach 73 something I think it was. Now I live check to check. HODL your investments, don’t sell
 
-14h ago
+15h ago
 
 ---
 
@@ -139,7 +139,7 @@ Crazy to think I owned 18.2 btc in early 2020 and sold before it reach 73 someth
 
 I gotta stop getting hammered before I trade, But its sooooo profitable.. .
 
-16h ago
+17h ago
 
 ---
 
@@ -147,7 +147,7 @@ I gotta stop getting hammered before I trade, But its sooooo profitable.. .
 
 They are aggressively continuing to buy. We are however seeing outflows from bitcoin ETFs
 
-1h ago
+2h ago
 
 ---
 
@@ -159,7 +159,7 @@ They are aggressively continuing to buy. We are however seeing outflows from bit
 
 How low can Bitcoin go?
 
-Mashable • 2h ago
+Mashable • 3h ago
 
 ---
 
@@ -167,7 +167,7 @@ Mashable • 2h ago
 
 The token broke below key support at $0.1218 on heavy volume, turning that level into near-term resistance even after a brief bounce from around $0.115.
 
-CoinDesk • 3h ago
+CoinDesk • 4h ago
 
 ---
 
@@ -175,7 +175,7 @@ CoinDesk • 3h ago
 
 Is Bitcoin near a bottom while gold peaks? Explore crypto liquidations, market cycles, and why investors are eyeing a BTC-long, gold-short rotation
 
-Forbes • 13m ago
+Forbes • 1h ago
 
 ---
 
@@ -191,7 +191,7 @@ Yahoo Finance • 7h ago
 
 Bloomberg's Eric Balchunas argues Bitcoin has beaten gold if we look at the bigger picture.
 
-thestreet.com • 6h ago
+thestreet.com • 7h ago
 
 ---
 
@@ -199,7 +199,7 @@ thestreet.com • 6h ago
 
 Top markets on Myriad this week include predictions on the next stops for Bitcoin and Solana, and President Donald Trump's approval rating.
 
-Decrypt • 2h ago
+Decrypt • 3h ago
 
 ---
 
@@ -231,7 +231,7 @@ The Block • 1d ago
 
 The government seems to be amassing more Bitcoin. But little work seems to be happening to enact the terms of the executive order Trump signed to start the 'strategic reserve.'
 
-Fast Company • 10h ago
+Fast Company • 11h ago
 
 ---
 
@@ -257,7 +257,7 @@ A list of known attacks against Bitcoin / crypto asset owning entities that occu
 
 **[Single Bitcoin entity keeping BTC price suppressed below $90K](https://news.ycombinator.com/item?id=46812350)**
 
-⬆️ 1 • 💬 0 • 4h ago • [msn.com](https://www.msn.com/en-us/money/markets/single-bitcoin-entity-keeping-btc-price-suppressed-below-90k-analysis/ar-AA1VfVZb)
+⬆️ 1 • 💬 0 • 5h ago • [msn.com](https://www.msn.com/en-us/money/markets/single-bitcoin-entity-keeping-btc-price-suppressed-below-90k-analysis/ar-AA1VfVZb)
 
 ---
 
@@ -307,7 +307,7 @@ Reporting on Fintech, Crypto, and Blockchain Activity in Africa
 
 Ever since OpenAI launched their first large language model for public use back in November 2022, artificial intelligence (AI) is being touted as a major - if
 
-⬆️ 1 • 💬 0 • 58m ago • [Altcoin Desk](https://altcoindesk.com/perspectives/learn/are-ai-cryptocurrencies-a-good-investment/article-22644/)
+⬆️ 1 • 💬 0 • 1h ago • [Altcoin Desk](https://altcoindesk.com/perspectives/learn/are-ai-cryptocurrencies-a-good-investment/article-22644/)
 
 ---
 
@@ -321,7 +321,7 @@ The situation is getting worse and worse for crypto. Here are facts and my take 
 
 📺 Thomas Kralow
 
-👁️ 40K • 👍 3K • 💬 164 • ⏱️ 13:43 • 9h ago
+👁️ 40K • 👍 3K • 💬 164 • ⏱️ 13:43 • 10h ago
 
 ---
 
@@ -331,7 +331,7 @@ Bitcoin #Crypto #Finance Your edge starts here — join DataDash Pro for Discord
 
 📺 DataDash
 
-👁️ 2K • 👍 181 • 💬 8 • ⏱️ 12:08 • 4h ago
+👁️ 2K • 👍 181 • 💬 8 • ⏱️ 12:08 • 5h ago
 
 ---
 
@@ -341,7 +341,7 @@ After a brief series of amendments were rejected, the U.S. Senate Agriculture Co
 
 📺 Paul Barron Network
 
-👁️ 13K • 👍 3K • 💬 326 • ⏱️ 16:34 • 2h ago
+👁️ 13K • 👍 3K • 💬 326 • ⏱️ 16:34 • 3h ago
 
 ---
 
@@ -351,7 +351,7 @@ CRYPTO MARKET IS PLUNGING! IS CRYPTO CRASHING?! BREAKING CRYPTO NEWS TODAY! ⭐�
 
 📺 Austin Hilton
 
-👁️ 9K • 👍 508 • 💬 86 • ⏱️ 7:53 • 4h ago
+👁️ 9K • 👍 508 • 💬 86 • ⏱️ 7:53 • 5h ago
 
 ---
 
@@ -361,7 +361,7 @@ TRADE ON BITGET WITH ME! Sign up here ▻ https://share.bitget.com/u/UHGTDYS3 TR
 
 📺 FireHustle
 
-👁️ 2K • 👍 172 • 💬 38 • ⏱️ 12:59 • 3h ago
+👁️ 2K • 👍 172 • 💬 38 • ⏱️ 12:59 • 4h ago
 
 ---
 
@@ -371,7 +371,7 @@ Check out ClashPicks: https://www.clashpicks.com/ **Exchange Partners** Bitunix 
 
 📺 CryptosRUs
 
-👁️ 22K • 👍 1K • 💬 279 • ⏱️ 7:09 • 5h ago
+👁️ 22K • 👍 1K • 💬 279 • ⏱️ 7:09 • 6h ago
 
 ---
 
@@ -391,7 +391,7 @@ This is not Bitcoin going up. This is the dollar breaking down in real time. A d
 
 📺 Simply Bitcoin
 
-👁️ 33K • 👍 3K • 💬 381 • ⏱️ 15:53 • 20h ago
+👁️ 33K • 👍 3K • 💬 381 • ⏱️ 15:53 • 21h ago
 
 ---
 
@@ -401,7 +401,7 @@ Bob Murphy is a Senior Fellow at the Mises Institute and Chief Economist at Infi
 
 📺 Anthony Pompliano
 
-👁️ 26K • 👍 901 • ⏱️ 30:04 • 22h ago
+👁️ 26K • 👍 901 • ⏱️ 30:04 • 23h ago
 
 ---
 
@@ -411,7 +411,7 @@ Up to *$30000* Welcome Bonus]◅ ✓ *NO RESTRICTIONS* IF YOU *Use THIS Link* Ph
 
 📺 Tyler S
 
-👁️ 4K • 👍 429 • 💬 160 • ⏱️ 8:01 • 2h ago
+👁️ 4K • 👍 429 • 💬 160 • ⏱️ 8:01 • 3h ago
 
 ---
 
