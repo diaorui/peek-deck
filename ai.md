@@ -3,14 +3,14 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-01-29T04:18:13.142306+00:00'
+updated: '2026-01-29T05:29:15.827181+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
 - social
-- videos
 - news
+- videos
 - repositories
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 AI news, discussions, and developments
 
-**Last Updated:** January 29, 2026 at 04:18 UTC  
+**Last Updated:** January 29, 2026 at 05:29 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -43,17 +43,25 @@ AI news, discussions, and developments
 
 ---
 
+**[I made a one-liner to deploy your own AI assistant (Moltbot) to Fly.io with WhatsApp integration](https://www.reddit.com/r/artificial/comments/1qpytay/i_made_a_oneliner_to_deploy_your_own_ai_assistant/)**
+
+Hello 👋🏼 I Built a script that deploys MoltBot (open source personal AI assistant) to Fly.io, in one command: curl -fsSL https://raw.githubusercontent.com/blissito/moltbot-flyio/main/install.sh | bash What you get: - Your own (Claude/OpenAI/any)-powered assistant running 24/7 - WhatsApp integration (scan QR, done) 🤯 - Web dashboard to manage everything - One machine on Fly.io (free tier works to start) The installer handles: - Fly.io app creation - Persistent volume for data - Secrets configuration - 4GB RAM setup (2GB causes OOM) - Gateway token generation You just need: - Fly.io account (free) & flyctl installed - Anthropic/OpenAI API key GitHub: https://github.com/blissito/moltbot-flyio ¿Why? It just makes Moltbot cloud deployment dead simple. 🤷🏻‍♂️ If you liked it, give it a star ⭐️ or a PR if you find a bug, it's open source. 🤓
+
+52m ago
+
+---
+
 **[Google DeepMind unleashes new AI to investigate DNA’s ‘dark matter’](https://www.reddit.com/r/artificial/comments/1qpggsj/google_deepmind_unleashes_new_ai_to_investigate/)**
 
 DeepMind’s AlphaGenome AI model could help solve the problem of predicting how variations in noncoding DNA shape gene expression
 
-🔗 [Scientific American](https://www.scientificamerican.com/article/google-deepmind-unleashes-new-ai-alphagenome-to-investigate-dnas-dark-matter/) • 11h ago
+🔗 [Scientific American](https://www.scientificamerican.com/article/google-deepmind-unleashes-new-ai-alphagenome-to-investigate-dnas-dark-matter/) • 12h ago
 
 ---
 
 **[DeepSeek releases DeepSeek-OCR 2. 🐋](https://www.reddit.com/r/artificial/comments/1qpw4tw/deepseek_releases_deepseekocr_2/)**
 
-1h ago
+2h ago
 
 ---
 
@@ -61,7 +69,23 @@ DeepMind’s AlphaGenome AI model could help solve the problem of predicting how
 
 AI agents are getting really good at doing things, but they're completely blind to their physical surroundings. If you walk into a hotel and you have an AI assistant (like the Chatgpt mobile app), it has no idea there may be a concierge agent on the network that could help you book a spa, check breakfast times, or request late checkout. Same thing at offices, hospitals, cruise ships. The agents are there, but there's no way to discover them. A2A (Google's agent-to-agent protocol) handles how agents talk to each other. MCP handles how agents use tools. But neither answers a basic question: how do you find agents in the first place? So I built LAD-A2A, a simple discovery protocol. When you connect to a Wi-Fi, your agent can automatically find what's available using mDNS (like how AirDrop finds nearby devices) or a standard HTTP endpoint. The spec is intentionally minimal. I didn't want to reinvent A2A or create another complex standard. LAD-A2A just handles discovery, then hands off to A2A for actual communication. Open source, Apache 2.0. Includes a working Python implementation you can run to see it in action. Repo can be found at franzvill/lad. Curious what people think!
 
-7h ago
+8h ago
+
+---
+
+**[AI chatbots are infiltrating social-science surveys — and getting better at avoiding detection](https://www.reddit.com/r/artificial/comments/1qpi7rz/ai_chatbots_are_infiltrating_socialscience/)**
+
+A researcher has created a chatbot that is indistinguishable from human participants in online surveys. Some researchers fear that a workhorse of social science is now under threat.
+
+🔗 [nature.com](https://www.nature.com/articles/d41586-026-00221-8) • 11h ago
+
+---
+
+**[Automation of day to day tasks](https://www.reddit.com/r/artificial/comments/1qpg14m/automation_of_day_to_day_tasks/)**
+
+I just saw a post discussing clawdbot, about someone not finding a usecase for automating tasks and I realised I too simply can't find anything that I need to automate. I'd love to hear what y'all find automatable. Could this just end up being a very niche feature.
+
+13h ago
 
 ---
 
@@ -73,25 +97,9 @@ Tried ClawdBot (now MoltBot) on a freshly installed system. At first? 🔥 Insan
 
 ---
 
-**[Automation of day to day tasks](https://www.reddit.com/r/artificial/comments/1qpg14m/automation_of_day_to_day_tasks/)**
-
-I just saw a post discussing clawdbot, about someone not finding a usecase for automating tasks and I realised I too simply can't find anything that I need to automate. I'd love to hear what y'all find automatable. Could this just end up being a very niche feature.
-
-11h ago
-
----
-
 **[Pinterest lays off hundreds, citing need for 'AI-proficient talent'](https://www.reddit.com/r/artificial/comments/1qotqu1/pinterest_lays_off_hundreds_citing_need_for/)**
 
 🔗 [sfgate.com](https://www.sfgate.com/tech/article/pinterest-layoffs-hundreds-ai-21318302.php) • 1d ago
-
----
-
-**[AI chatbots are infiltrating social-science surveys — and getting better at avoiding detection](https://www.reddit.com/r/artificial/comments/1qpi7rz/ai_chatbots_are_infiltrating_socialscience/)**
-
-A researcher has created a chatbot that is indistinguishable from human participants in online surveys. Some researchers fear that a workhorse of social science is now under threat.
-
-🔗 [nature.com](https://www.nature.com/articles/d41586-026-00221-8) • 10h ago
 
 ---
 
@@ -99,15 +107,7 @@ A researcher has created a chatbot that is indistinguishable from human particip
 
 I saw many people struggling to setup and secure their moltbot/clawdbot. So, I made a tool which will help you to setup and secure your bot.
 
-🔗 [moltbot.guru](https://moltbot.guru) • 11h ago
-
----
-
-**[Can humanoids be trained in simulated/virtual settings, without real world data?](https://www.reddit.com/r/artificial/comments/1qp5act/can_humanoids_be_trained_in_simulatedvirtual/)**
-
-This question came to me as I was reading this article (Tesla has fallen behind BYD in terms of vehicle sales. Not to worry because Tesla is a AI & Robotics company). It says this: So, either: Tesla has a data advantage for self-driving car, in which case Tesla does not have a data advantage for humanoid robots (unless they have been collecting humanoid robot centric data for the last decade unknown to public knowledge). This means that Tesla will dominate autonomous driving, but there will be aggressive competition for autonomous humanoid robots, with no guarantee that Tesla’s Optimus will come out on top. OR Humanoid robots can be trained in simulated virtual worlds, in which case self-driving cars can also be trained in a similar manner in theory. In this case Tesla does not have the data advantage. I am curious if its possible to train humanoid robots exclusively on virtual/simulated worlds like Nvidia's omniverse Isaac Sim - Robotics Simulation and Synthetic Data Generation | NVIDIA Developer
-
-20h ago
+🔗 [moltbot.guru](https://moltbot.guru) • 12h ago
 
 ---
 
@@ -115,67 +115,55 @@ This question came to me as I was reading this article (Tesla has fallen behind 
 
 ## Google News: "ai"
 
-**[Microsoft Continues to Spend Big on A.I. While Profit Jumps 60%](https://www.nytimes.com/2026/01/28/technology/microsoft-earnings-ai-expenditures.html)**
-
-The New York Times • 3h ago
-
----
-
-**[Microsoft’s AI spending and disappointing cloud growth overshadow strong profits](https://www.ft.com/content/42f83ef4-dac0-4319-8522-0d0f6449fe7c)**
-
-Revenue rises 17% to a record $81bn, but 66% surge in capital expenditures revives debate about returns on vast AI costs
-
-Financial Times • 6h ago
-
----
-
-**[Nvidia, Microsoft, Amazon in Talks to Invest Up to $60 Billion in OpenAI](https://www.theinformation.com/articles/nvidia-microsoft-amazon-talks-invest-60-billion-openai)**
-
-OpenAI is lining up huge checks from some of its biggest tech partners, as it seeks to raise up to $100 billion to fund growing demand for its AI. Nvidia, an existing investor whose chips power OpenAI’s AI models, is in talks to invest up to $30 billion, according to a person with knowledge of ...
-
-The Information • 1h ago
-
----
-
 **[AI model from Google's DeepMind reads recipe for life in DNA](https://www.bbc.com/news/articles/c39428dv18yo)**
 
 It could transform our understanding of why diseases develop and the medicines needed to treat them, says researchers.
 
-BBC • 12h ago
+BBC • 13h ago
 
 ---
 
-**[With AlphaGenome, Researchers Are Using A.I. to Decode the Human Blueprint](https://www.nytimes.com/2026/01/28/science/alphagenome-ai-deepmind-genetics.html)**
+**[Exclusive: Nvidia helped DeepSeek hone AI models later used by China's military, lawmaker says](https://www.reuters.com/world/china/nvidia-helped-deepseek-hone-ai-models-later-used-by-chinas-military-lawmaker-2026-01-28/)**
 
-The New York Times • 12h ago
-
----
-
-**[Google DeepMind unleashes new AI AlphaGenome to investigate DNA’s ‘dark matter’](https://www.scientificamerican.com/article/google-deepmind-unleashes-new-ai-alphagenome-to-investigate-dnas-dark-matter/)**
-
-DeepMind’s AlphaGenome AI model could help solve the problem of predicting how variations in noncoding DNA shape gene expression
-
-Scientific American • 11h ago
+Reuters • 5h ago
 
 ---
 
-**[Investors punish Big Tech AI spending that delivers slower growth](https://www.reuters.com/business/autos-transportation/investors-punish-big-tech-ai-spending-that-delivers-slower-growth-2026-01-29/)**
+**[Google begins rolling out Chrome’s “Auto Browse” AI agent today](https://arstechnica.com/google/2026/01/google-begins-rolling-out-chromes-auto-browse-ai-agent-today/)**
 
-Reuters • 28m ago
+The Auto Browse agent is available to AI Pro and AI Ultra subscribers, but there are some limits.
 
----
-
-**[Japanese Memory Maker Kioxia Names New CEO in Midst of AI Chip Boom](https://www.bloomberg.com/news/articles/2026-01-29/memory-maker-kioxia-names-new-ceo-in-midst-of-ai-chip-boom)**
-
-Bloomberg • 25m ago
+Ars Technica • 11h ago
 
 ---
 
-**[Michigan man pleads guilty to cyberstalking for making AI-generated pornography of social media influencer](https://www.cbsnews.com/detroit/news/michigan-man-pleads-guilty-to-cyberstalking/)**
+**[Google AI Plus is now available everywhere our AI plans are available, including the U.S.](https://blog.google/products-and-platforms/products/google-one/google-ai-plus-availability/)**
 
-An Oakland County man accused of making pornagraphy generated by artificial intelligence of a social media influencer has pleaded guilty to cyberstalking.
+We’re launching Google AI Plus in 35 new countries and territories including the US, making it available everywhere Google AI plans are available.
 
-CBS News • 28m ago
+blog.google • 1d ago
+
+---
+
+**[Google’s forced AI opt out: what changes — and what doesn’t — for publishers](https://digiday.com/media/googles-forced-ai-opt-out-what-changes-and-what-doesnt-for-publishers/)**
+
+Publishers want the CMA to impose structural remedies on Google versus behavioral ones, to address the enormous leverage the tech giant has.
+
+Digiday • 26m ago
+
+---
+
+**[Ohio schools must have AI policies. Where Cincinnati-area schools stand](https://www.cincinnati.com/story/news/education/2026/01/29/how-school-districts-ai-policies-compare-ahead-of-state-deadline/88266781007/)**
+
+The Enquirer reached out to a dozen of the region's largest districts to gauge where they are in developing AI policies ahead of the state's deadline.
+
+cincinnati.com • 14m ago
+
+---
+
+**[George Saunders on Climate Guilt, AI and Critical Thinking](https://www.bloomberg.com/news/articles/2026-01-29/george-saunders-on-climate-guilt-ai-and-critical-thinking)**
+
+Bloomberg • 29m ago
 
 ---
 
@@ -183,7 +171,21 @@ CBS News • 28m ago
 
 Amazon is laying off 16,000 employees, the company’s second round of massive job reductions in two months as it fights to improve its standing in the battle for AI supremacy.
 
-CNN • 17h ago
+CNN • 18h ago
+
+---
+
+**[Amazon axes 16,000 jobs as it pushes AI and efficiency](https://www.reuters.com/legal/litigation/amazon-cuts-16000-jobs-globally-broader-restructuring-2026-01-28/)**
+
+Reuters • 11h ago
+
+---
+
+**[Amazon to cut 16,000 roles as it looks to invest in AI, remove ‘bureaucracy’](https://www.foxbusiness.com/economy/amazon-cut-16000-roles-looks-invest-ai-remove-bureaucracy)**
+
+Amazon announces 16,000 job cuts in major restructuring to reduce bureaucracy and management layers while investing in AI and other strategic growth areas.
+
+Fox Business • 16h ago
 
 ---
 
@@ -211,7 +213,7 @@ Apple today unveiled the new AirTag, now with an expanded finding range and a lo
 - - —
 Guys, enough is enough. Bullying is a s...
 
-⬆️ 506 • 💬 227 • 4h ago • [McSweeney's Internet Tendency](https://www.mcsweeneys.net/articles/please-dont-say-mean-things-about-the-ai-that-i-just-invested-a-billion-dollars-in)
+⬆️ 519 • 💬 235 • 5h ago • [McSweeney's Internet Tendency](https://www.mcsweeneys.net/articles/please-dont-say-mean-things-about-the-ai-that-i-just-invested-a-billion-dollars-in)
 
 ---
 
@@ -219,7 +221,7 @@ Guys, enough is enough. Bullying is a s...
 
 Exclusive: German research into responses to health queries raises fresh questions about summaries seen by 2bn people a month
 
-⬆️ 409 • 💬 208 • 2d ago • [the Guardian](https://www.theguardian.com/technology/2026/jan/24/google-ai-overviews-youtube-medical-citations-study)
+⬆️ 410 • 💬 208 • 2d ago • [the Guardian](https://www.theguardian.com/technology/2026/jan/24/google-ai-overviews-youtube-medical-citations-study)
 
 ---
 
@@ -227,7 +229,7 @@ Exclusive: German research into responses to health queries raises fresh questio
 
 Interactive article explaining the physics of an airfoil and what makes airplanes fly
 
-⬆️ 390 • 💬 50 • 13h ago • [ciechanow.ski](https://ciechanow.ski/airfoil/)
+⬆️ 399 • 💬 51 • 14h ago • [ciechanow.ski](https://ciechanow.ski/airfoil/)
 
 ---
 
@@ -243,7 +245,7 @@ Today everybody's doing AI code review. Here's how Greptile's viewpoint is diffe
 
 Or, as they like to call it, the 'AI Skills Hub'. Which was built by PwC because of course it was
 
-⬆️ 260 • 💬 74 • 5h ago • [Mahad Kalam](https://mahadk.com/posts/ai-skills-hub)
+⬆️ 284 • 💬 84 • 6h ago • [Mahad Kalam](https://mahadk.com/posts/ai-skills-hub)
 
 ---
 
@@ -265,7 +267,7 @@ Opinion: Autonomous agents may generate millions of lines of code, but shipping 
 
 SERA is the first in our family of Open Coding Agents, achieving state-of-the-art performance at low cost.
 
-⬆️ 238 • 💬 45 • 1d ago • [allenai.org](https://allenai.org/blog/open-coding-agents)
+⬆️ 239 • 💬 45 • 1d ago • [allenai.org](https://allenai.org/blog/open-coding-agents)
 
 ---
 
@@ -279,7 +281,7 @@ AI just made a serious jump into the real world. OpenAI unveiled PRISM, a new AI
 
 📺 AI Revolution
 
-👁️ 7K • 👍 351 • 💬 22 • ⏱️ 11:36 • 5h ago
+👁️ 7K • 👍 351 • 💬 22 • ⏱️ 11:36 • 6h ago
 
 ---
 
@@ -289,7 +291,7 @@ Nobel Prize winner Geoffrey Hinton, the physicist known for his pioneering work 
 
 📺 LBC
 
-👁️ 19K • 👍 362 • 💬 300 • ⏱️ 8:50 • 6h ago
+👁️ 19K • 👍 362 • 💬 300 • ⏱️ 8:50 • 8h ago
 
 ---
 
@@ -299,7 +301,7 @@ Support our work: http://novara.media/support Buy Novara Media merch: https://sh
 
 📺 Novara Media
 
-👁️ 17K • 👍 605 • 💬 194 • ⏱️ 21:03 • 7h ago
+👁️ 17K • 👍 605 • 💬 194 • ⏱️ 21:03 • 8h ago
 
 ---
 
@@ -329,7 +331,7 @@ Become a Channel Member (Exclusive Videos): https://www.youtube.com/channel/UCAF
 
 📺 Keith D
 
-👁️ 34K • 👍 2K • 💬 302 • ⏱️ 10:20 • 14h ago
+👁️ 34K • 👍 2K • 💬 302 • ⏱️ 10:20 • 15h ago
 
 ---
 
@@ -347,7 +349,7 @@ Meta is giving Corning up to $6 billion for fiber-optic cable in its AI data cen
 
 📺 Alieff Irfan
 
-👁️ 835K • 👍 44K • 💬 7K • ⏱️ 40:22 • 15h ago
+👁️ 835K • 👍 44K • 💬 7K • ⏱️ 40:22 • 16h ago
 
 ---
 
@@ -383,7 +385,7 @@ PersonaPlex-7B-v1 is a real-time, full-duplex speech-to-speech conversational mo
 
 `audio-to-audio`
 
-⬇️ 43,872 • ❤️ 1,376 • 5h ago
+⬇️ 43,872 • ❤️ 1,376 • 6h ago
 
 ---
 
@@ -407,7 +409,7 @@ Qwen3-TTS-12Hz-1.7B-CustomVoice is a multilingual text-to-speech model supportin
 
 `1.9B`
 
-⬇️ 138,693 • ❤️ 710 • 5d ago
+⬇️ 138,693 • ❤️ 710 • 6d ago
 
 ---
 
@@ -431,7 +433,7 @@ Z-Image is an undistilled, high-fidelity text-to-image diffusion transformer mod
 
 `text-to-image`
 
-⬇️ 0 • ❤️ 600 • 13h ago
+⬇️ 0 • ❤️ 600 • 15h ago
 
 ---
 
@@ -639,7 +641,7 @@ Browser automation CLI for AI agents
 
 `TypeScript`
 
-⭐ 11.3k • 🔱 620 • 10h ago
+⭐ 11.3k • 🔱 620 • 11h ago
 
 ---
 
@@ -649,7 +651,7 @@ AI → JSON → UI
 
 `TypeScript`
 
-⭐ 9.6k • 🔱 504 • 12h ago
+⭐ 9.6k • 🔱 504 • 13h ago
 
 ---
 
@@ -669,7 +671,7 @@ LLM驱动的 A/H/美股智能分析器，多数据源行情 + 实时新闻 + Gem
 
 `Python` `agent` `ai` `aigc` `gemini` `llm`
 
-⭐ 6.6k • 🔱 7.2k • 14h ago
+⭐ 6.6k • 🔱 7.2k • 15h ago
 
 ---
 
@@ -679,7 +681,7 @@ LLM驱动的 A/H/美股智能分析器，多数据源行情 + 实时新闻 + Gem
 
 `Vue`
 
-⭐ 6.5k • 🔱 1.2k • 13h ago
+⭐ 6.5k • 🔱 1.2k • 15h ago
 
 ---
 
@@ -689,7 +691,7 @@ Marketing skills for Claude Code and AI agents. CRO, copywriting, SEO, analytics
 
 `claude` `codex` `marketing`
 
-⭐ 5.2k • 🔱 566 • 20h ago
+⭐ 5.2k • 🔱 566 • 21h ago
 
 ---
 
@@ -699,7 +701,7 @@ The Ultimate Collection of 500+ Agentic Skills for Claude Code/Antigravity/Curso
 
 `Python` `agentic-skills` `ai-agents` `antigravity` `autonomous-coding` `claude-code`
 
-⭐ 5.0k • 🔱 1.1k • 11h ago
+⭐ 5.0k • 🔱 1.1k • 12h ago
 
 ---
 

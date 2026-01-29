@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-01-29T04:18:13.150808+00:00'
+updated: '2026-01-29T05:29:15.835492+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- cryptocurrency
 - social
-- videos
 - news
+- videos
+- cryptocurrency
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** January 29, 2026 at 04:18 UTC  
+**Last Updated:** January 29, 2026 at 05:29 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,17 +38,17 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $88,068.94
+### $88,157.71
 
 ---
 
 ## Bitcoin Chart
 
 **24h:** -1.2%  
-**7d:** -1.8%  
-**30d:** +0.4%  
-**90d:** -20.0%  
-**1y:** -16.0%  
+**7d:** -1.6%  
+**30d:** +0.6%  
+**90d:** -19.8%  
+**1y:** -15.8%  
 
 ---
 
@@ -70,7 +70,7 @@ Rank #1
 
 ## Fear & Greed Index
 
-### 29
+### 26
 **FEAR**
 
 ---
@@ -81,13 +81,7 @@ Rank #1
 
 Source: Blossom Social
 
-6h ago
-
----
-
-**[This is unbearable](https://www.reddit.com/r/Bitcoin/comments/1qphgpc/this_is_unbearable/)**
-
-11h ago
+7h ago
 
 ---
 
@@ -95,19 +89,39 @@ Source: Blossom Social
 
 What are you doing with your time. You’re saving pieces of paper with numbers on it. I expect everyone here to understand the problems BITCOIN solves We don’t want more dollars we want more money The US dollar is not money. If you’re building wealth. Follow me so we can connect. Great minds think alike and have studied Bitcoin.
 
-2h ago
+3h ago
+
+---
+
+**[This is unbearable](https://www.reddit.com/r/Bitcoin/comments/1qphgpc/this_is_unbearable/)**
+
+12h ago
 
 ---
 
 **[The single email that changed the course of history.](https://www.reddit.com/r/Bitcoin/comments/1qpqemf/the_single_email_that_changed_the_course_of/)**
 
-5h ago
+6h ago
+
+---
+
+**[Hodling nonstop](https://www.reddit.com/r/Bitcoin/comments/1qpxk52/hodling_nonstop/)**
+
+1h ago
+
+---
+
+**[TERRAIN TERRAIN, PULL UP, PULL UP..](https://www.reddit.com/r/Bitcoin/comments/1qpy5eg/terrain_terrain_pull_up_pull_up/)**
+
+I gotta stop getting hammered before I trade, But its sooooo profitable.. .
+
+1h ago
 
 ---
 
 **[NBA legend Scottie Pippen often says Satoshi visits him in his dreams. This is what I imagine they're like.](https://www.reddit.com/r/Bitcoin/comments/1qpjtzp/nba_legend_scottie_pippen_often_says_satoshi/)**
 
-9h ago
+10h ago
 
 ---
 
@@ -115,7 +129,7 @@ What are you doing with your time. You’re saving pieces of paper with numbers 
 
 Historically, the most significant portion of Bitcoin's gains come in just 10 trading days out of an entire calendar year. Most of the time in Bitcoin is spent going sideways or down. It will shake out all weak hands and tourists, and punish anyone with high time preference. Then it will reward the patience of those who spend their time studying and growing their conviction (and touching grass) during the boring or bear markets. Act accordingly
 
-9h ago
+10h ago
 
 ---
 
@@ -125,25 +139,11 @@ Historically, the most significant portion of Bitcoin's gains come in just 10 tr
 
 ---
 
-**[Hodling nonstop](https://www.reddit.com/r/Bitcoin/comments/1qpxk52/hodling_nonstop/)**
-
-40m ago
-
----
-
 **[What are your thoughts about 0.1 BTC. Are this can be significant or meaningless amount in the future 10 years?](https://www.reddit.com/r/Bitcoin/comments/1qppg1v/what_are_your_thoughts_about_01_btc_are_this_can/)**
 
 Just searching users opinions.
 
-6h ago
-
----
-
-**[Same chart, different headlines. 👀](https://www.reddit.com/r/Bitcoin/comments/1qpvtmv/same_chart_different_headlines/)**
-
-Source: motivated_jay (Blossom Social)
-
-1h ago
+7h ago
 
 ---
 
@@ -155,7 +155,7 @@ Source: motivated_jay (Blossom Social)
 
 Gold fans rushed in to buy as the Fed chair said he took no macro signal from the raging bull market in precious metals.
 
-CoinDesk • 6h ago
+CoinDesk • 7h ago
 
 ---
 
@@ -163,55 +163,15 @@ CoinDesk • 6h ago
 
 The bitcoin price rebounded above $90,000 as traders weigh the looming Fed rate decision.
 
-Bitcoin Magazine • 13h ago
+Bitcoin Magazine • 15h ago
 
 ---
 
-**[Asia Market Open: Bitcoin Range-Bound Near $88K As Asia Tech Loses Momentum, Gold Pushes Higher](https://finance.yahoo.com/news/asia-market-open-bitcoin-range-024332773.html)**
+**[Bitcoin January 28 daily chart alert - Bulls work to stabilize price](https://www.kitco.com/news/article/2026-01-28/bitcoin-january-28-daily-chart-alert-bulls-work-stabilize-price)**
 
-Bitcoin held near $88,000 early Thursday as Asian markets eased out of a hot streak in tech and investors shifted focus to earnings, central bank signals, and a fresh run higher in gold.Shanghai rose 0.21% and DJ Shanghai gained 0.22%, and the SZSE Component slipped 0.10% and China A50 fell ...
+The Kitco News Team brings you the latest news, videos, analysis and opinions regarding Precious Metals, Crypto, Mining, World Markets and Global Economy.
 
-Yahoo Finance • 1h ago
-
----
-
-**[It’s ‘Breaking’—Sudden U.S. Dollar ‘Crisis’ Warning Predicted To Spark Huge Bitcoin Price Boom To Rival Gold](https://www.forbes.com/sites/digital-assets/2026/01/28/its-breaking-sudden-us-dollar-crisis-warning-predicted-to-spark-huge-bitcoin-price-boom-to-rival-gold/)**
-
-A “crisis of confidence” in the U.S. dollar has been predicted to see bitcoin catch up with gold...
-
-Forbes • 16h ago
-
----
-
-**[If You'd Invested $100 in Bitcoin 10 Years Ago, Here's How Much You'd Have Today](https://finance.yahoo.com/news/youd-invested-100-bitcoin-10-005000032.html)**
-
-Bitcoin's meteoric rise has delivered huge returns for holders. Even small investments have turned into tens of thousands of dollars.
-
-Yahoo Finance • 3h ago
-
----
-
-**[Bitcoin Hasn't Had a Bad Day Yet in 2026. Is the Leading Crypto Set to Bounce Back in 2026?](https://www.fool.com/investing/2026/01/28/bitcoin-hasnt-had-a-bad-day-yet-in-2026-is-the-lea/)**
-
-The world's top cryptocurrency could finally warm up this year.
-
-The Motley Fool • 2h ago
-
----
-
-**[If You'd Invested $100 in Bitcoin 10 Years Ago, Here's How Much You'd Have Today](https://www.nasdaq.com/articles/if-youd-invested-100-bitcoin-10-years-ago-heres-how-much-youd-have-today-0)**
-
-Key PointsBitcoin's ability to act as a true fiat currency alternative is still developing.
-
-Nasdaq • 3h ago
-
----
-
-**[Grand Forks detective says if someone online asks for bitcoin or gift cards, 'you're being scammed'](https://www.grandforksherald.com/news/local/grand-forks-detective-says-if-someone-online-asks-for-bitcoin-or-gift-cards-youre-being-scammed)**
-
-Since 2022, Grand Forks residents have lost $466,803 to bitcoin cryptocurrency, according to GFPD Det. Todd Riedinger. The scams are difficult to trace and lost money usually can't be recovered.
-
-grandforksherald.com • 15h ago
+KITCO • 16h ago
 
 ---
 
@@ -219,13 +179,53 @@ grandforksherald.com • 15h ago
 
 The latest proposal closely mirrors House Bill 1202, which was introduced during the 2025 legislative session.
 
-The Block • 22h ago
+The Block • 23h ago
+
+---
+
+**[Grand Forks detective says if someone online asks for bitcoin or gift cards, 'you're being scammed'](https://www.grandforksherald.com/news/local/grand-forks-detective-says-if-someone-online-asks-for-bitcoin-or-gift-cards-youre-being-scammed)**
+
+Since 2022, Grand Forks residents have lost $466,803 to bitcoin cryptocurrency, according to GFPD Det. Todd Riedinger. The scams are difficult to trace and lost money usually can't be recovered.
+
+grandforksherald.com • 16h ago
+
+---
+
+**[Is Gold The New Bitcoin?](https://www.yardeniquicktakes.com/is-gold-the-new-bitcoin/)**
+
+Proponents of bitcoin have been calling it “digital gold.” Both the cryptocurrency and the precious metal are impossible to value because they don't pay any interest or dividends. Bitcoin is digital, making it potentially vulnerable someday to hacking by quantum-computing algorithms, while gold needs to be stored in a vault.
+
+Yardeni QuickTakes • 1d ago
 
 ---
 
 **[Bitcoin Miners Power Down US Operations in Wake of Winter Storm](https://www.bloomberg.com/news/articles/2026-01-26/bitcoin-miners-power-down-us-operations-in-wake-of-winter-storm)**
 
 Bloomberg • 2d ago
+
+---
+
+**[Jacob & Co. X Bitcoin? Luxury Watch Maker Unveils BTC-Themed Watch In Partnership With Miner](https://finance.yahoo.com/news/jacob-co-x-bitcoin-luxury-194036452.html)**
+
+A Bitcoin-themed watch limited to 100 pieces has been added to Jacob & Co.'s Epic X Bridges collection through a partnership with Bitcoin mining company GoMining. GoMining recently announced Epic X GoMining, a 44 mm skeleton dial Bitcoin-themed Jacob &...
+
+Yahoo Finance • 1d ago
+
+---
+
+**[Bitcoin Critic Says Price Is ‘Collapsing,’ Says Drop In Miners Pushing Asset Into ‘Downward Spiral’](https://www.ccn.com/news/crypto/bitcoin-critic-price-collapsing-miners-pushing-downward-spiral/)**
+
+A Bitcoin critic warns the network is “unravelling” as hashrate drops sharply, but traders are pushing back against the claims.
+
+CCN.com • 15h ago
+
+---
+
+**[Bitcoin Hasn't Had a Bad Day Yet in 2026. Is the Leading Crypto Set to Bounce Back in 2026?](https://www.fool.com/investing/2026/01/28/bitcoin-hasnt-had-a-bad-day-yet-in-2026-is-the-lea/)**
+
+The world's top cryptocurrency could finally warm up this year.
+
+The Motley Fool • 3h ago
 
 ---
 
@@ -284,7 +284,7 @@ Transform HN comment threads into executive intelligence. AI analyzes discussion
 
 Reporting on Fintech, Crypto, and Blockchain Activity in Africa
 
-⬆️ 1 • 💬 0 • 9h ago • [BitKE](https://bitcoinke.io/2026/01/ozow-announces-payments-solution-by-moneybadger/)
+⬆️ 1 • 💬 0 • 10h ago • [BitKE](https://bitcoinke.io/2026/01/ozow-announces-payments-solution-by-moneybadger/)
 
 ---
 
@@ -296,7 +296,7 @@ Reporting on Fintech, Crypto, and Blockchain Activity in Africa
 
 **[Show HN: We built a type-safe Python ORM for RedisGraph/FalkorDB](https://news.ycombinator.com/item?id=46796602)**
 
-⬆️ 5 • 💬 3 • 12h ago
+⬆️ 5 • 💬 3 • 13h ago
 
 ---
 
@@ -316,7 +316,7 @@ Take Control of Your Retirement — Grow Crypto & Gold Tax-Advantaged. https://w
 
 📺 Savvy Finance
 
-👁️ 1K • 👍 100 • 💬 4 • ⏱️ 21:44 • 2h ago
+👁️ 1K • 👍 100 • 💬 4 • ⏱️ 21:44 • 3h ago
 
 ---
 
@@ -326,7 +326,7 @@ This is not Bitcoin going up. This is the dollar breaking down in real time. A d
 
 📺 Simply Bitcoin
 
-👁️ 14K • 👍 2K • 💬 283 • ⏱️ 15:53 • 4h ago
+👁️ 14K • 👍 2K • 💬 283 • ⏱️ 15:53 • 5h ago
 
 ---
 
@@ -336,7 +336,7 @@ Bitcoin is at a massive crossroads, and the charts are telling a different story
 
 📺 Gareth Soloway
 
-👁️ 35K • 👍 2K • 💬 623 • ⏱️ 9:04 • 7h ago
+👁️ 35K • 👍 2K • 💬 623 • ⏱️ 9:04 • 8h ago
 
 ---
 
@@ -346,7 +346,7 @@ The Dollar is breaking and the "Sell America" trade is officially on. While the 
 
 📺 Crypto Banter
 
-👁️ 32K • 👍 2K • 💬 56 • ⏱️ 26:12 • 12h ago
+👁️ 32K • 👍 2K • 💬 56 • ⏱️ 26:12 • 13h ago
 
 ---
 
@@ -356,7 +356,7 @@ Unicoin founder and chief strategy officer Silvina Moschini discusses crypto leg
 
 📺 Fox Business Clips
 
-👁️ 110K • 👍 2K • 💬 827 • ⏱️ 7:19 • 13h ago
+👁️ 110K • 👍 2K • 💬 827 • ⏱️ 7:19 • 14h ago
 
 ---
 
@@ -366,7 +366,7 @@ Today, let's examine Bitcoin's charts and metrics, as well as the latest Macro a
 
 📺 CryptosRUs
 
-👁️ 32K • 👍 1K • 💬 287 • ⏱️ 38:00 • 11h ago
+👁️ 32K • 👍 1K • 💬 287 • ⏱️ 38:00 • 12h ago
 
 ---
 
@@ -386,7 +386,7 @@ TrumpCrypto2026 #DigitalAssets #TrumpAnnouncement Welcome to the Trump Crypto Fo
 
 📺 Kolkata Literary Meet
 
-👁️ 3K • 👍 1K • 9h ago
+👁️ 3K • 👍 1K • 10h ago
 
 ---
 
@@ -396,7 +396,7 @@ Leading advocacy groups from across the US digital asset sector have urged the F
 
 📺 Paul Barron Network
 
-👁️ 53K • 👍 3K • 💬 256 • ⏱️ 13:21 • 7h ago
+👁️ 53K • 👍 3K • 💬 256 • ⏱️ 13:21 • 8h ago
 
 ---
 
