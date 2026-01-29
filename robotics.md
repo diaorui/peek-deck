@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-01-29T14:04:03.107075+00:00'
+updated: '2026-01-29T15:09:08.778695+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- social
 - news
 - videos
+- social
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** January 29, 2026 at 14:04 UTC  
+**Last Updated:** January 29, 2026 at 15:09 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -32,17 +32,17 @@ Robotics research and industry news
 
 ## Reddit: r/robotics
 
-**[Figure 03 handling glassware, fully autonomous](https://www.reddit.com/r/robotics/comments/1qpn1dq/figure_03_handling_glassware_fully_autonomous/)**
-
-17h ago
-
----
-
 **[First build](https://www.reddit.com/r/robotics/comments/1qq7xso/first_build/)**
 
 Working on my first robotics build at the moment and easing my way into it. Any pointers or tips would be greatly appreciated. This is what I have for hardware so far.
 
-1h ago
+2h ago
+
+---
+
+**[Figure 03 handling glassware, fully autonomous](https://www.reddit.com/r/robotics/comments/1qpn1dq/figure_03_handling_glassware_fully_autonomous/)**
+
+18h ago
 
 ---
 
@@ -50,13 +50,29 @@ Working on my first robotics build at the moment and easing my way into it. Any 
 
 We want to build a community of robotics and computer vision developers who want to share their algorithms and SOTA models to be used by the industry. The idea is to have a large scale, common repo, where devs contribute their SOTA models and algorithms. It follows the principle of a Skill Library for robotics. Skills can be of computer vision, robotics, RL, VLA models or any other model that is used for industrial robots, mobile robots and humanoid robots. To get started with building the community, we are struggling to figure out what content works best. Some ideas that we have include: A Discord channel for centralised discussion YouTube channel showcasing how to use the Skills to build use cases Technical blogs on Medium What channels do you regularly visit to keep up to date with all the varied models out there? And also, what content do you generally enjoy?
 
-3h ago
+4h ago
 
 ---
 
 **[Dexterous robotic hands: 2009 - 2014 - 2025](https://www.reddit.com/r/robotics/comments/1qp7z15/dexterous_robotic_hands_2009_2014_2025/)**
 
 1d ago
+
+---
+
+**[This humanoid robot learned realistic lip movements by watching YouTube](https://www.reddit.com/r/robotics/comments/1qq2est/this_humanoid_robot_learned_realistic_lip/)**
+
+Engineers have trained a new humanoid robot to perform realistic lip-syncing not by manually programming every movement, but by having it 'watch' hours of YouTube videos. By visually analyzing human speakers, the robot learned to match its mouth movements to audio with eerie precision.
+
+🔗 [TechSpot](https://www.techspot.com/news/110967-humanoid-robot-learns-realistic-lip-movement-watching-youtube.html) • 7h ago
+
+---
+
+**[Do Autonomous Robots Need Purpose-Built Wearables?](https://www.reddit.com/r/robotics/comments/1qqanlx/do_autonomous_robots_need_purposebuilt_wearables/)**
+
+Hi everyone — we’re working on an early-stage startup exploring wearables for autonomous robots (protective, functional, or interface-related components designed specifically for robots, not humans). We’re currently in a research and validation phase and would really value input from people with hands-on experience in robotics (deployment, hardware, safety, field operations, humanoids, autonomous robots, etc.). We’re trying to understand: Whether robots today face unmet needs around protection, durability, environment adaptation, or interaction How these issues are currently solved (or worked around) Whether purpose-built “robot wearables” would be useful or unnecessary If you work with or around autonomous robots, we’d appreciate any insights, critiques, or examples from real-world use. Thanks in advance — we’re here to learn, not to pitch.
+
+15m ago
 
 ---
 
@@ -68,41 +84,25 @@ We are building a 3d-printable animatronics robots, Mostly the same 3d printed p
 
 ---
 
-**[This humanoid robot learned realistic lip movements by watching YouTube](https://www.reddit.com/r/robotics/comments/1qq2est/this_humanoid_robot_learned_realistic_lip/)**
+**[Research into makers!](https://www.reddit.com/r/robotics/comments/1qqa52d/research_into_makers/)**
 
-Engineers have trained a new humanoid robot to perform realistic lip-syncing not by manually programming every movement, but by having it 'watch' hours of YouTube videos. By visually analyzing human speakers, the robot learned to match its mouth movements to audio with eerie precision.
+Hi everyone! We’re Product Design Engineering students at Imperial College London working on a project to improve experiences for makers and makerspaces. We’re currently in the research phase and would love to hear from anyone in the making community. If you have a few minutes, please could you fill out our 10 minute survey by using the link below. Thanks so much for your time!
 
-🔗 [TechSpot](https://www.techspot.com/news/110967-humanoid-robot-learns-realistic-lip-movement-watching-youtube.html) • 6h ago
+🔗 [Notion](https://peaceful-headlight-c88.notion.site/2f4cd985669b80fca1b1f63a5520be75?pvs=105) • 35m ago
+
+---
+
+**[Ball Balance Bot](https://www.reddit.com/r/robotics/comments/1qq9u95/ball_balance_bot/)**
+
+Hello , I'm currently doing internship in my college and I have got one month to finish ball balancing bot , I do have some idea, so guys please help me out what are the components are required for doing the project and how to do it that will be grateful and appreciate the suggestion :)
+
+47m ago
 
 ---
 
 **[I want help with a gazebo project is there any one who knows about gazebo](https://www.reddit.com/r/robotics/comments/1qq3zxu/i_want_help_with_a_gazebo_project_is_there_any/)**
 
-4h ago
-
----
-
-**[RealSense D435 mounted vertically (90° rotation) - What should camera_link and camera_depth_optical_frame TF orientations be?](https://www.reddit.com/r/robotics/comments/1qq3tf8/realsense_d435_mounted_vertically_90_rotation/)**
-
-Hi everyone, I'm using an Intel RealSense D435 camera with ROS2 Jazzy and MoveIt2. My camera is mounted in a non-standard orientation: Vertically rather than horizontally. More specifically it is rotated 90° counterclockwise (USB port facing up) and tilted 8° downward. I've set up my URDF with a camera_link joint that connects to my robot, and the RealSense ROS2 driver automatically publishes the camera_depth_optical_frame. My questions: Does camera_link need to follow a specific orientation convention? (I've read REP-103 says X=forward, Y=left, Z=up, but does this still apply when the camera is physically rotated?) What should camera_depth_optical_frame look like in RViz after the 90° rotation? The driver creates this automatically - should I expect the axes to look different than a standard horizontal mount? If my point cloud visually appears correctly aligned with reality (floor is horizontal, objects in correct positions), does the TF frame orientation actually matter? Or is it purely cosmetic at that point? Is there a "correct" RPY for a vertically-mounted D435, or do I just need to ensure the point cloud aligns with my robot's world frame? Any guidance from anyone who has mounted a RealSense camera vertically would be really appreciated! Thanks!
-
-4h ago
-
----
-
-**[iRobot cofounder on robotics as a toolkit, not a single destination](https://www.reddit.com/r/robotics/comments/1qpg3sr/irobot_cofounder_on_robotics_as_a_toolkit_not_a/)**
-
-Former iRobot CEO Colin Angle talks about how robotics isn’t really a single “thing,” and that defaulting to humanoids as the mental model ends up flattening what’s actually going on in the field. He ties it back to his time at iRobot and how a lot of success or failure came down to very specific questions about value and trust, not form factor. Amazon attempted to acquire the declining company from bankruptcy but after an 18-month process the deal fell through. Angle is now with another company.
-
-21h ago
-
----
-
-**[Centimeter-Accurate Indoor Tracking for Swarming Drones Using Ultrasound ToF](https://www.reddit.com/r/robotics/comments/1qp5kc4/centimeteraccurate_indoor_tracking_for_swarming/)**
-
-3 x Super-Beacons as stationary beacons for precise 3D indoor positioning 1 x (Mini-RX + External Microphone + Deflector) as a mobile beacon for the drone 1 x Modem v5.1 as a central controller This is not an autonomous flight - the drone was remotely controlled. But it shows precise indoor 3D tracking capabilities for swarming drones.
-
-1d ago
+5h ago
 
 ---
 
@@ -128,7 +128,15 @@ Tech Xplore • 1d ago
 
 DEWALT and August Robotics launched an autonomous drilling robot to accelerate concrete floor preparation for data centers.
 
-The Robot Report • 24m ago
+The Robot Report • 1h ago
+
+---
+
+**[OnRobot to share automation roadmap advice in Dallas](https://www.therobotreport.com/onrobot-share-automation-roadmap-advice-in-dallas/)**
+
+OnRobot and FANUC will demonstrate common applications for automation to help manufacturers in North Texas.
+
+The Robot Report • 50m ago
 
 ---
 
@@ -136,7 +144,7 @@ The Robot Report • 24m ago
 
 Future of the company lies in equipping and running a global fleet of driverless taxis and in selling humanoid robots
 
-Financial Times • 2h ago
+Financial Times • 3h ago
 
 ---
 
@@ -144,7 +152,7 @@ Financial Times • 2h ago
 
 Investors liked what they heard about the future following the company's latest results, but Elon Musk is under huge pressure to deliver on his vision as a series of targets have been missed.
 
-Sky News • 6h ago
+Sky News • 8h ago
 
 ---
 
@@ -152,7 +160,7 @@ Sky News • 6h ago
 
 Musk’s optimism for Optimus robot demand help EV maker beat quarterly expectations despite first-ever yearly revenue decline
 
-The Guardian • 15h ago
+The Guardian • 16h ago
 
 ---
 
@@ -164,14 +172,6 @@ ABC News • 2d ago
 
 ---
 
-**[Tesla cuts car models in shift to robots and AI](https://www.bbc.com/news/articles/c620177qdg5o)**
-
-Multi-billionaire Elon Musk also announced plans to end production of its Model S and Model X vehicles.
-
-BBC • 11h ago
-
----
-
 **[Microsoft and Richtech give retail and service robots an AI boost](https://www.stocktitan.net/news/RR/richtech-robotics-collaborates-with-microsoft-to-advance-agentic-ai-2ptsobdmvovn.html)**
 
 ADAM, Richtech's Azure-powered robot, now uses vision, voice and contextual data to improve retail workflows and customer interactions.
@@ -180,11 +180,12 @@ Stock Titan • 2d ago
 
 ---
 
-**[Robotics Market to Worth Over US$ 199.50 Billion by 2035 | Astute Analytica](https://finance.yahoo.com/news/robotics-market-worth-over-us-124000782.html)**
+**[READER REPORT: Local FIRST robotics team headed into state championship this weekend](https://westseattleblog.com/2026/01/reader-report-local-first-robotics-team-headed-into-state-championship-thius-weekend/)**
 
-The global robotics market is entering a new era of strategic importance, expanding from a niche automation tool to an operational necessity across industries. Industrial deployments now dominate with over 45% market share, addressing critical labor shortages in welding, logistics, and material handling, while hardware components, actuators, sensors, and vision systems account for nearly 45% of the market, underpinned by the “embodied AI” revolution. Chicago, Jan. 29, 2026 (GLOBE NEWSWIRE) -- Th
+One of our area's FIRST Robotics teams has made it into the state championship round! Thanks to Ash for the photo, report, and video:
+A LEGO robotics team called Brickrolled, made up of five students in grades 3 through 6 from Westside School, has qualified for the FIRST LEGO League Western Washington State Championship and will be represen...
 
-Yahoo Finance • 1h ago
+westseattleblog.com • 13h ago
 
 ---
 
@@ -192,13 +193,13 @@ Yahoo Finance • 1h ago
 
 ## YouTube Videos: "robotics"
 
-**[Meta built a robotic finger that can feel texture sense heat and even smell odor](https://www.youtube.com/watch?v=5MKyRfOAO3w)**
+**[SATISFYING Robotic Arm Glazes Ceramics with INSANE Precision 🤖](https://www.youtube.com/watch?v=3PK2EOvBQkg)**
 
-A robotic finger that can feel texture sense heat and even smell odor Sounds impossible but Meta just built it and its more sensitive ...
+Inside a high-tech ceramic workshop, a bright yellow industrial robotic arm executes a flawless glazing sequence with ...
 
-📺 Nic Conley
+📺 Working Planet Shorts
 
-👁️ 1K • 👍 42 • 💬 2 • ⏱️ 1:20 • 11h ago
+👁️ 485K • 👍 698 • 💬 2 • ⏱️ 0:06 • 5d ago
 
 ---
 
@@ -208,27 +209,7 @@ RoboticWings #FuturisticLab #Android #SciFi #Robotics #AIArt #Cyberpunk #HighTec
 
 📺 AITECHGADGETS
 
-👁️ 264K • 💬 142 • ⏱️ 0:18 • 3d ago
-
----
-
-**[The German Robots Are Replacing Forklifts Inside Factories](https://www.youtube.com/watch?v=tCis6jGzxnk)**
-
-Day 172 of watching tech evolve. German startup Filics has built autonomous warehouse robots that move in any direction, work ...
-
-📺 Deepen
-
-👁️ 20K • 👍 401 • 💬 10 • ⏱️ 0:29 • 4d ago
-
----
-
-**[SATISFYING Robotic Arm Glazes Ceramics with INSANE Precision 🤖](https://www.youtube.com/watch?v=3PK2EOvBQkg)**
-
-Inside a high-tech ceramic workshop, a bright yellow industrial robotic arm executes a flawless glazing sequence with ...
-
-📺 Working Planet Shorts
-
-👁️ 484K • 👍 698 • 💬 2 • ⏱️ 0:06 • 5d ago
+👁️ 267K • 💬 143 • ⏱️ 0:18 • 3d ago
 
 ---
 
@@ -240,13 +221,33 @@ Inside a high-tech ceramic workshop, a bright yellow industrial robotic arm exec
 
 ---
 
+**[The German Robots Are Replacing Forklifts Inside Factories](https://www.youtube.com/watch?v=tCis6jGzxnk)**
+
+Day 172 of watching tech evolve. German startup Filics has built autonomous warehouse robots that move in any direction, work ...
+
+📺 Deepen
+
+👁️ 20K • 👍 402 • 💬 10 • ⏱️ 0:29 • 5d ago
+
+---
+
 **[This Girl Discovered a Lost Robot in the Mountain](https://www.youtube.com/watch?v=v6GRptrADk4)**
 
 In the depths of a mysterious mountain forest, a young girl named Jessica stumbles upon a lost, abandoned Aegis Suit robot ...
 
 📺 Technology Next World
 
-👁️ 59K • 👍 506 • 💬 18 • ⏱️ 3:53 • 4d ago
+👁️ 61K • 👍 521 • 💬 18 • ⏱️ 3:53 • 4d ago
+
+---
+
+**[Cybertruck Repair with Elon Musk and Robot Girl - AI Generated 📸](https://www.youtube.com/watch?v=fPsqMc5Vkx4)**
+
+Cybertruck #AIRobot #Futuristic #Tesla #AIAnimation #Scifi #RobotAssistant #CybertruckTestDrive #AIContent #TeslaCybertruck ...
+
+📺 AITECHGADGETS
+
+👁️ 78K • 💬 76 • ⏱️ 0:28 • 1d ago
 
 ---
 
@@ -256,7 +257,7 @@ This new humanoid robot is not about hype or flashy promises. Sprout is designed
 
 📺 DPCcars
 
-👁️ 953 • 👍 37 • 💬 7 • ⏱️ 3:17 • 18h ago
+👁️ 1K • 👍 42 • 💬 9 • ⏱️ 3:17 • 19h ago
 
 ---
 
@@ -266,7 +267,15 @@ The Growing Robot That Enters Collapsed Buildings Before Humans Do When disaster
 
 📺 EcoZora
 
-👁️ 351K • 👍 1K • 💬 151 • ⏱️ 0:07 • 3d ago
+👁️ 353K • 👍 1K • 💬 151 • ⏱️ 0:07 • 3d ago
+
+---
+
+**[My boyfriend loves his mini robot 🤣💕#couples #longdistancerelationship #ldr #robot](https://www.youtube.com/watch?v=qrJfj-HRXzE)**
+
+📺 Romi Pal
+
+👁️ 306K • 👍 6K • 💬 35 • ⏱️ 0:17 • 5d ago
 
 ---
 
@@ -276,17 +285,7 @@ Congrats to all who were voted for in the FTC Top 25 by the community! In FTC To
 
 📺 FUN Robotics Network
 
-👁️ 1K • 👍 21 • ⏱️ 47:27 • 11h ago
-
----
-
-**[SaaS is over… Why you should build a robotics company in 2026](https://www.youtube.com/watch?v=FqfTQFuSalY)**
-
-2026 will be the year of robotics. We're in an Will Smith spaghetti moment. Remember how AI-generated video looked horrific two ...
-
-📺 Andreas Klinger ⅹ Europe's Most Ambitious Startups
-
-👁️ 18K • 👍 1K • 💬 172 • ⏱️ 16:46 • 2d ago
+👁️ 2K • 👍 21 • ⏱️ 47:27 • 12h ago
 
 ---
 
