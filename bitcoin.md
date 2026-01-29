@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-01-29T09:07:08.048427+00:00'
+updated: '2026-01-29T10:05:54.320353+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
+- cryptocurrency
 - videos
 - news
 - social
-- cryptocurrency
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** January 29, 2026 at 09:07 UTC  
+**Last Updated:** January 29, 2026 at 10:05 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -54,17 +54,17 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1763.19B
+**Market Cap:** $1753.43B
 Rank #1
 
-**Circulating Supply:** 19,981,743 BTC
+**Circulating Supply:** 19,981,818 BTC
 95.2% of max
 
 **All-Time High:** $126,080.00
--30.0%
+-30.4%
 
 **All-Time Low:** $67.81
-+129966.4%
++129290.9%
 
 ---
 
@@ -81,7 +81,7 @@ Rank #1
 
 Crazy to think I owned 18.2 btc in early 2020 and sold before it reach 73 something I think it was. Now I live check to check. HODL your investments, don’t sell
 
-3h ago
+4h ago
 
 ---
 
@@ -89,7 +89,7 @@ Crazy to think I owned 18.2 btc in early 2020 and sold before it reach 73 someth
 
 What are you doing with your time. You’re saving pieces of paper with numbers on it. I expect everyone here to understand the problems BITCOIN solves We don’t want more dollars we want more money The US dollar is not money. If you’re building wealth. Follow me so we can connect. Great minds think alike and have studied Bitcoin.
 
-7h ago
+8h ago
 
 ---
 
@@ -97,7 +97,7 @@ What are you doing with your time. You’re saving pieces of paper with numbers 
 
 Source: Blossom Social
 
-10h ago
+11h ago
 
 ---
 
@@ -105,37 +105,37 @@ Source: Blossom Social
 
 I gotta stop getting hammered before I trade, But its sooooo profitable.. .
 
-5h ago
+6h ago
 
 ---
 
 **[This is unbearable](https://www.reddit.com/r/Bitcoin/comments/1qphgpc/this_is_unbearable/)**
 
-15h ago
+16h ago
 
 ---
 
 **[The single email that changed the course of history.](https://www.reddit.com/r/Bitcoin/comments/1qpqemf/the_single_email_that_changed_the_course_of/)**
 
-10h ago
+11h ago
 
 ---
 
 **[Hodling nonstop](https://www.reddit.com/r/Bitcoin/comments/1qpxk52/hodling_nonstop/)**
 
-5h ago
+6h ago
 
 ---
 
 **[😂](https://www.reddit.com/r/Bitcoin/comments/1qq31l2/_/)**
 
-40m ago
+1h ago
 
 ---
 
 **[They want all out retirement savings in this system](https://www.reddit.com/r/Bitcoin/comments/1qpzr12/they_want_all_out_retirement_savings_in_this/)**
 
-3h ago
+4h ago
 
 ---
 
@@ -143,7 +143,7 @@ I gotta stop getting hammered before I trade, But its sooooo profitable.. .
 
 Historically, the most significant portion of Bitcoin's gains come in just 10 trading days out of an entire calendar year. Most of the time in Bitcoin is spent going sideways or down. It will shake out all weak hands and tourists, and punish anyone with high time preference. Then it will reward the patience of those who spend their time studying and growing their conviction (and touching grass) during the boring or bear markets. Act accordingly
 
-13h ago
+14h ago
 
 ---
 
@@ -155,7 +155,7 @@ Historically, the most significant portion of Bitcoin's gains come in just 10 tr
 
 Crypto prices stabilized after an early-week dip, but bitcoin continued to trail gold and silver as macro trades dominated after the Fed’s policy hold.
 
-CoinDesk • 3h ago
+CoinDesk • 4h ago
 
 ---
 
@@ -163,7 +163,7 @@ CoinDesk • 3h ago
 
 The bitcoin price rebounded above $90,000 as traders weigh the looming Fed rate decision.
 
-Bitcoin Magazine • 18h ago
+Bitcoin Magazine • 19h ago
 
 ---
 
@@ -171,7 +171,7 @@ Bitcoin Magazine • 18h ago
 
 A “crisis of confidence” in the U.S. dollar has been predicted to see bitcoin catch up with gold...
 
-Forbes • 21h ago
+Forbes • 22h ago
 
 ---
 
@@ -179,7 +179,7 @@ Forbes • 21h ago
 
 Digital asset banking group Sygnum has completed the seed phase of the Starboard Sygnum BTC Alpha Fund. In the first four months, they raised “over 750” Bitcoin (BTC) from investors.This response from professional and institutional investors, the press release says, shows “growing interest in actively managed Bitcoin strategies.” More specifically, ...
 
-Yahoo Finance • 1h ago
+Yahoo Finance • 2h ago
 
 ---
 
@@ -187,7 +187,7 @@ Yahoo Finance • 1h ago
 
 Since 2022, Grand Forks residents have lost $466,803 to bitcoin cryptocurrency, according to GFPD Det. Todd Riedinger. The scams are difficult to trace and lost money usually can't be recovered.
 
-grandforksherald.com • 20h ago
+grandforksherald.com • 21h ago
 
 ---
 
@@ -195,7 +195,7 @@ grandforksherald.com • 20h ago
 
 Bitcoin's meteoric rise has delivered huge returns for holders. Even small investments have turned into tens of thousands of dollars.
 
-The Motley Fool • 8h ago
+The Motley Fool • 9h ago
 
 ---
 
@@ -225,7 +225,7 @@ Yahoo Finance • 1d ago
 
 A Bitcoin critic warns the network is “unravelling” as hashrate drops sharply, but traders are pushing back against the claims.
 
-CCN.com • 19h ago
+CCN.com • 20h ago
 
 ---
 
@@ -284,7 +284,7 @@ Transform HN comment threads into executive intelligence. AI analyzes discussion
 
 Reporting on Fintech, Crypto, and Blockchain Activity in Africa
 
-⬆️ 1 • 💬 0 • 14h ago • [BitKE](https://bitcoinke.io/2026/01/ozow-announces-payments-solution-by-moneybadger/)
+⬆️ 1 • 💬 0 • 15h ago • [BitKE](https://bitcoinke.io/2026/01/ozow-announces-payments-solution-by-moneybadger/)
 
 ---
 
@@ -296,7 +296,7 @@ Reporting on Fintech, Crypto, and Blockchain Activity in Africa
 
 **[Show HN: We built a type-safe Python ORM for RedisGraph/FalkorDB](https://news.ycombinator.com/item?id=46796602)**
 
-⬆️ 5 • 💬 5 • 17h ago
+⬆️ 5 • 💬 5 • 18h ago
 
 ---
 
@@ -316,7 +316,7 @@ This is not Bitcoin going up. This is the dollar breaking down in real time. A d
 
 📺 Simply Bitcoin
 
-👁️ 21K • 👍 2K • 💬 297 • ⏱️ 15:53 • 9h ago
+👁️ 25K • 👍 2K • 💬 315 • ⏱️ 15:53 • 10h ago
 
 ---
 
@@ -326,7 +326,7 @@ Bob Murphy is a Senior Fellow at the Mises Institute and Chief Economist at Infi
 
 📺 Anthony Pompliano
 
-👁️ 16K • 👍 625 • ⏱️ 30:04 • 11h ago
+👁️ 18K • 👍 672 • ⏱️ 30:04 • 12h ago
 
 ---
 
@@ -336,7 +336,7 @@ Bitcoin is at a massive crossroads, and the charts are telling a different story
 
 📺 Gareth Soloway
 
-👁️ 39K • 👍 3K • 💬 656 • ⏱️ 9:04 • 12h ago
+👁️ 43K • 👍 3K • 💬 675 • ⏱️ 9:04 • 13h ago
 
 ---
 
@@ -346,7 +346,7 @@ Unicoin founder and chief strategy officer Silvina Moschini discusses crypto leg
 
 📺 Fox Business Clips
 
-👁️ 123K • 👍 2K • 💬 830 • ⏱️ 7:19 • 18h ago
+👁️ 131K • 👍 2K • 💬 846 • ⏱️ 7:19 • 19h ago
 
 ---
 
@@ -356,17 +356,7 @@ Take Control of Your Retirement — Grow Crypto & Gold Tax-Advantaged. https://w
 
 📺 Savvy Finance
 
-👁️ 3K • 👍 178 • 💬 13 • ⏱️ 21:44 • 7h ago
-
----
-
-**[Silver Just Sent a Warning Signal to the Entire Financial System - Got Bitcoin?](https://www.youtube.com/watch?v=5WJyycfYjZs)**
-
-Silver has exploded, gold is ripping, and Bitcoin looks left behind — but history says this is exactly how the cycle works.
-
-📺 Swan Bitcoin
-
-👁️ 74K • 👍 3K • 💬 487 • ⏱️ 17:47 • 1d ago
+👁️ 4K • 👍 226 • 💬 13 • ⏱️ 21:44 • 8h ago
 
 ---
 
@@ -376,17 +366,27 @@ Today, let's examine Bitcoin's charts and metrics, as well as the latest Macro a
 
 📺 CryptosRUs
 
-👁️ 34K • 👍 1K • 💬 259 • ⏱️ 38:00 • 16h ago
+👁️ 34K • 👍 2K • 💬 261 • ⏱️ 38:00 • 17h ago
 
 ---
 
-**[Gov Wants &quot;Kill Switch&quot; on Crypto!?🔥Tokenized Stocks Set To Explode!🚨](https://www.youtube.com/watch?v=ijC4_U3U_V4)**
+**[Silver Just Sent a Warning Signal to the Entire Financial System - Got Bitcoin?](https://www.youtube.com/watch?v=5WJyycfYjZs)**
 
-Leading advocacy groups from across the US digital asset sector have urged the Federal Trade Commission to adopt a more ...
+Silver has exploded, gold is ripping, and Bitcoin looks left behind — but history says this is exactly how the cycle works.
 
-📺 Paul Barron Network
+📺 Swan Bitcoin
 
-👁️ 63K • 👍 3K • 💬 266 • ⏱️ 13:21 • 12h ago
+👁️ 76K • 👍 3K • 💬 485 • ⏱️ 17:47 • 1d ago
+
+---
+
+**[0.21 Bitcoin: The New “Rich Line”](https://www.youtube.com/watch?v=bbJdUcOkUDU)**
+
+I want to be part of the Bitcoin Program → https://bitcoinolivervelez.com/yt-eng.
+
+📺 Oliver Velez Trading
+
+👁️ 3K • 👍 169 • 💬 43 • ⏱️ 2:09:13 • 11h ago
 
 ---
 
@@ -396,7 +396,7 @@ The Dollar is breaking and the "Sell America" trade is officially on. While the 
 
 📺 Crypto Banter
 
-👁️ 33K • 👍 2K • 💬 58 • ⏱️ 26:12 • 17h ago
+👁️ 35K • 👍 2K • 💬 60 • ⏱️ 26:12 • 18h ago
 
 ---
 
@@ -406,7 +406,7 @@ In this solo episode, Anthony Pompliano explains why Bitcoin is lagging while go
 
 📺 Anthony Pompliano
 
-👁️ 100K • 👍 3K • 💬 159 • ⏱️ 17:45 • 2d ago
+👁️ 102K • 👍 3K • 💬 159 • ⏱️ 17:45 • 2d ago
 
 ---
 
