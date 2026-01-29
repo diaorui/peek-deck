@@ -57,7 +57,7 @@
             "name": "PeekDeck",
             "url": "https://peekdeck.ruidiao.dev"
           },
-          "dateModified": "2026-01-29T06:07:10.356498+00:00"
+          "dateModified": "2026-01-29T07:14:21.052548+00:00"
         },
         {
           "@type": "BreadcrumbList",
@@ -919,23 +919,23 @@
                     </div>
                 </div>
                 
-                <div class="carousel-card" onclick="window.open('https://www.reddit.com/r/robotics/comments/1qovvd4/exploring_embodied_ai_on_a_lowcost_diy_robot_arm/', '_blank')">
+                <div class="carousel-card" onclick="window.open('https://www.reddit.com/r/robotics/comments/1qpevp8/realsense_sdk_r576_beta_released_to_the_public/', '_blank')">
                     <div class="post-thumbnail">
                         
-                        <img src="https://preview.redd.it/bdz0qkqjsyfg1.gif?width=320&crop=smart&s=cd9293cd18901a4ea2dcdf3a3b30e8049f13265d" alt="Exploring embodied AI on a low-cost DIY robot arm (~$2k hardware)" onerror="this.style.display='none'" loading="lazy">
+                        <img src="https://a.thumbs.redditmedia.com/-vS4LPAf3ZvLg6YHs8vgye7ETnmrOXj_TCqnDiV-hU8.jpg" alt="RealSense SDK R57.6 beta released to the public" onerror="this.style.display='none'" loading="lazy">
                         
                     </div>
 
                     <div class="post-content">
                         <!-- Post title -->
                         <div class="post-title">
-                            <a href="https://www.reddit.com/r/robotics/comments/1qovvd4/exploring_embodied_ai_on_a_lowcost_diy_robot_arm/" target="_blank" onclick="event.stopPropagation();">Exploring embodied AI on a low-cost DIY robot arm (~$2k hardware)</a>
+                            <a href="https://www.reddit.com/r/robotics/comments/1qpevp8/realsense_sdk_r576_beta_released_to_the_public/" target="_blank" onclick="event.stopPropagation();">RealSense SDK R57.6 beta released to the public</a>
                         </div>
 
                         <!-- Rich description (if available) -->
                         
                         <div class="post-description">
-                            I recently came across the Universal Manipulation Interface (UMI) paper and found it to be a promising approach for teaching robots manipulation skills without relying on teleportation-based control. I was particularly interested in exploring how well this approach works on low-cost DIY hardware, such as an AR4 robot arm. Key challenges: - High-latency robot and gripper controllers that only support single-step control commands - A low-FPS camera with image composition that differs from the data used during training Key engineering adaptations: 🛠️ Hardware Abstraction Layer - Original UMI supports UR5, Franka Emika, and industrial WSG grippers. - I wrote custom drivers to interface with a DIY AR4 6-DOF robot arm and a custom servo-based gripper. - Forward and inverse kinematics are solved on the PC side, and only joint commands are sent to the robot controller. 👁️ Vision System Retrofit - Original UMI relies on a GoPro with lens modification and a capture card. - I adapted the perception pipeline to use a standard ~$50 USB camera. 🖐️ Custom End-Effector - Designed and 3D-printed a custom parallel gripper. - Actuated by a standard hobby servo. - Controlled via an Arduino Mega 2560 (AR4 auxiliary controller). Repos: - UMI + AR4 integration: https://github.com/robotsir/umi_ar4_retrofit - AR4 custom firmware: https://github.com/robotsir/ar4_embodied_controller This is still a work in progress. Due to the hardware limitations above, the system is not yet as smooth as the original UMI setup, but my goal is to push performance as far as possible within these constraints. The system is already running end-to-end on real hardware. The GIF above shows a live demo. Feedback from people working on embodied AI, robot learning, or low-cost manipulation platforms would be very welcome. If you have an AR4 arm and are interested in trying this out, feel free to reach out.
+                            https://preview.redd.it/n53edwy524gg1.png?width=1536&format=png&auto=webp&s=dda898b9083d32b4a1a5d7312ac7040b4121986c SDK GitHub Release: https://github.com/IntelRealSense/librealsense/releases/tag/v2.57.6 ROS GitHub Release: https://github.com/realsenseai/realsense-ros/releases/tag/4.57.6 Python wheels uploaded to: https://pypi.org/project/pyrealsense2-beta/
                         </div>
                         
 
@@ -944,7 +944,7 @@
                             <div class="post-meta-line">
                                 
                                 <div class="post-meta-item">
-                                    <span data-timestamp="1769560076.0"></span>
+                                    <span data-timestamp="1769615147.0"></span>
                                 </div>
                                 
                                 <!-- External article source (on same line as time) -->
@@ -977,7 +977,7 @@
 
     </div>
     <div class="widget-footer">
-        <small data-timestamp="2026-01-29T05:28:57.628457+00:00">Updated 2026-01-29T05:28:57.628457+00:00</small>
+        <small data-timestamp="2026-01-29T07:13:59.345929+00:00">Updated 2026-01-29T07:13:59.345929+00:00</small>
     </div>
 </div>
 
@@ -1282,6 +1282,47 @@
                     </div>
                 </div>
                 
+                <div class="carousel-card" onclick="window.open('https://www.theguardian.com/technology/2026/jan/28/tesla-q4-earnings-estimates-elon-musk', '_blank')">
+                    <!-- Rich preview thumbnail (with fallback icon) -->
+                    <div class="article-thumbnail" style="background-image: url('https://i.guim.co.uk/img/media/935f07e0c97fdfd8df556dce9210e777edb10620/932_0_5000_4000/master/5000.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=bfeeeffa31f49a4d1169953109adc08d');"></div>
+
+                    <div class="article-content">
+                        <!-- Article headline (fixed 3-line height) -->
+                        <div class="news-headline">
+                            <a href="https://www.theguardian.com/technology/2026/jan/28/tesla-q4-earnings-estimates-elon-musk" target="_blank" onclick="event.stopPropagation();">Tesla discontinues Model X and S vehicles as Elon Musk pivots to robotics</a>
+                        </div>
+
+                        <!-- Rich description (if available) -->
+                        
+                        <div class="article-description">
+                            Musk’s optimism for Optimus robot demand help EV maker beat quarterly expectations despite first-ever yearly revenue decline
+                        </div>
+                        
+
+                        <!-- Metadata (source, time) -->
+                        <div class="news-meta">
+                            <div class="news-meta-line">
+                                
+                                <div class="news-meta-item news-source">
+                                    
+                                    <img src="https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.theguardian.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+                                         alt="The Guardian" class="news-favicon">
+                                    <a href="https://www.theguardian.com" target="_blank" onclick="event.stopPropagation();">The Guardian</a>
+                                    
+                                </div>
+                                
+                            </div>
+                            <div class="news-meta-line">
+                                
+                                <div class="news-meta-item">
+                                    <span data-timestamp="1769638920.0"></span>
+                                </div>
+                                
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                
                 <div class="carousel-card" onclick="window.open('https://abcnews.go.com/Technology/wireStory/ready-robots-homes-maker-friendly-new-humanoid-thinks-129594260', '_blank')">
                     <!-- Rich preview thumbnail (with fallback icon) -->
                     <div class="article-thumbnail" style="background-image: url('https://i.abcnewsfe.com/a/3d6909b9-7de6-4480-9646-4d1db1dfc226/wirestory_57b396cd6f4b98ef83913a5efa9e0db2_16x9.jpg?w=1600');"></div>
@@ -1316,88 +1357,6 @@
                                 
                                 <div class="news-meta-item">
                                     <span data-timestamp="1769608862.0"></span>
-                                </div>
-                                
-                            </div>
-                        </div>
-                    </div>
-                </div>
-                
-                <div class="carousel-card" onclick="window.open('https://www.theverge.com/tech/869293/fauna-robotics-sprout-humanoid-robot-research', '_blank')">
-                    <!-- Rich preview thumbnail (with fallback icon) -->
-                    <div class="article-thumbnail" style="background-image: url('https://platform.theverge.com/wp-content/uploads/sites/2/2026/01/fauna_sprout_3.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200');"></div>
-
-                    <div class="article-content">
-                        <!-- Article headline (fixed 3-line height) -->
-                        <div class="news-headline">
-                            <a href="https://www.theverge.com/tech/869293/fauna-robotics-sprout-humanoid-robot-research" target="_blank" onclick="event.stopPropagation();">A robot you might want to hug?</a>
-                        </div>
-
-                        <!-- Rich description (if available) -->
-                        
-                        <div class="article-description">
-                            Sprout is a humanoid robot designed to be “physically safe and socially approachable.”
-                        </div>
-                        
-
-                        <!-- Metadata (source, time) -->
-                        <div class="news-meta">
-                            <div class="news-meta-line">
-                                
-                                <div class="news-meta-item news-source">
-                                    
-                                    <img src="https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.theverge.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
-                                         alt="The Verge" class="news-favicon">
-                                    <a href="https://www.theverge.com" target="_blank" onclick="event.stopPropagation();">The Verge</a>
-                                    
-                                </div>
-                                
-                            </div>
-                            <div class="news-meta-line">
-                                
-                                <div class="news-meta-item">
-                                    <span data-timestamp="1769613248.0"></span>
-                                </div>
-                                
-                            </div>
-                        </div>
-                    </div>
-                </div>
-                
-                <div class="carousel-card" onclick="window.open('https://interestingengineering.com/ai-robotics/limx-humanoid-robots-walk-out-of-crates', '_blank')">
-                    <!-- Rich preview thumbnail (with fallback icon) -->
-                    <div class="article-thumbnail" style="background-image: url('https://cms.interestingengineering.com/wp-content/uploads/2026/01/Untitled-design-21.jpg');"></div>
-
-                    <div class="article-content">
-                        <!-- Article headline (fixed 3-line height) -->
-                        <div class="news-headline">
-                            <a href="https://interestingengineering.com/ai-robotics/limx-humanoid-robots-walk-out-of-crates" target="_blank" onclick="event.stopPropagation();">Watch China’s humanoid robots walk out of crates like Matrix scene</a>
-                        </div>
-
-                        <!-- Rich description (if available) -->
-                        
-                        <div class="article-description">
-                            LimX Dynamics showcased what it calls the world’s first practical autonomous deployment of humanoid robots, with 18 units operating without human control.
-                        </div>
-                        
-
-                        <!-- Metadata (source, time) -->
-                        <div class="news-meta">
-                            <div class="news-meta-line">
-                                
-                                <div class="news-meta-item news-source">
-                                    
-                                    <img src="https://encrypted-tbn2.gstatic.com/faviconV2?url=https://interestingengineering.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
-                                         alt="Interesting Engineering" class="news-favicon">
-                                    <a href="https://interestingengineering.com" target="_blank" onclick="event.stopPropagation();">Interesting Engineering</a>
-                                    
-                                </div>
-                                
-                            </div>
-                            <div class="news-meta-line">
-                                
-                                <div class="news-meta-item">
-                                    <span data-timestamp="1769521320.0"></span>
                                 </div>
                                 
                             </div>
@@ -1487,20 +1446,20 @@
                     </div>
                 </div>
                 
-                <div class="carousel-card" onclick="window.open('https://www.globenewswire.com/news-release/2026/01/27/3226450/0/en/richtech-robotics-collaborates-with-microsoft-to-advance-agentic-ai-in-real-world-robotics-applications.html', '_blank')">
+                <div class="carousel-card" onclick="window.open('https://www.investing.com/news/stock-market-news/richtech-robotics-stock-soars-on-microsoft-ai-collaboration-93CH-4467587', '_blank')">
                     <!-- Rich preview thumbnail (with fallback icon) -->
-                    <div class="article-thumbnail" style="background-image: url('https://ml.globenewswire.com/Resource/Download/bc615b38-ae99-4f10-9ca2-587176f1a7a9');"></div>
+                    <div class="article-thumbnail" style="background-image: url('https://i-invdn-com.investing.com/news/LYNXMPEA6103X_L.jpg');"></div>
 
                     <div class="article-content">
                         <!-- Article headline (fixed 3-line height) -->
                         <div class="news-headline">
-                            <a href="https://www.globenewswire.com/news-release/2026/01/27/3226450/0/en/richtech-robotics-collaborates-with-microsoft-to-advance-agentic-ai-in-real-world-robotics-applications.html" target="_blank" onclick="event.stopPropagation();">Richtech Robotics Collaborates with Microsoft to Advance Agentic AI in Real-World Robotics Applications</a>
+                            <a href="https://www.investing.com/news/stock-market-news/richtech-robotics-stock-soars-on-microsoft-ai-collaboration-93CH-4467587" target="_blank" onclick="event.stopPropagation();">Richtech Robotics stock soars on Microsoft AI collaboration</a>
                         </div>
 
                         <!-- Rich description (if available) -->
                         
                         <div class="article-description">
-                            Joint engineering effort with Microsoft AI Co-Innovation Labs enhances Richtech’s ADAM robot and extends intelligent automation across physical...
+                            Richtech Robotics stock soars on Microsoft AI collaboration
                         </div>
                         
 
@@ -1510,9 +1469,9 @@
                                 
                                 <div class="news-meta-item news-source">
                                     
-                                    <img src="https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.globenewswire.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
-                                         alt="GlobeNewswire" class="news-favicon">
-                                    <a href="https://www.globenewswire.com" target="_blank" onclick="event.stopPropagation();">GlobeNewswire</a>
+                                    <img src="https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.investing.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+                                         alt="Investing.com" class="news-favicon">
+                                    <a href="https://www.investing.com" target="_blank" onclick="event.stopPropagation();">Investing.com</a>
                                     
                                 </div>
                                 
@@ -1520,7 +1479,7 @@
                             <div class="news-meta-line">
                                 
                                 <div class="news-meta-item">
-                                    <span data-timestamp="1769518800.0"></span>
+                                    <span data-timestamp="1769522349.0"></span>
                                 </div>
                                 
                             </div>
@@ -1528,21 +1487,20 @@
                     </div>
                 </div>
                 
-                <div class="carousel-card" onclick="window.open('https://westseattleblog.com/2026/01/reader-report-local-first-robotics-team-headed-into-state-championship-thius-weekend/', '_blank')">
+                <div class="carousel-card" onclick="window.open('https://www.cnbc.com/2026/01/28/cnbc-china-connection-newsletter-humanoid-robots-middle-east-us-limx-tesla-optimus.html', '_blank')">
                     <!-- Rich preview thumbnail (with fallback icon) -->
-                    <div class="article-thumbnail" style="background-image: url('https://westseattleblog-assets.s3.amazonaws.com/uploads/2026/01/IMG_8339-1-scaled-e1769649353211-652x560.jpeg');"></div>
+                    <div class="article-thumbnail" style="background-image: url('https://image.cnbcfm.com/api/v1/image/108256777-1769386060864-Full-Size_Humanoid_Oli_Autonomously_Picking_Up_Tennis_Ball_from_the_Floor_in_Asian_Squat_-_Side_View.jpg?v=1769390131&w=1920&h=1080');"></div>
 
                     <div class="article-content">
                         <!-- Article headline (fixed 3-line height) -->
                         <div class="news-headline">
-                            <a href="https://westseattleblog.com/2026/01/reader-report-local-first-robotics-team-headed-into-state-championship-thius-weekend/" target="_blank" onclick="event.stopPropagation();">READER REPORT: Local FIRST robotics team headed into state championship thius weekend</a>
+                            <a href="https://www.cnbc.com/2026/01/28/cnbc-china-connection-newsletter-humanoid-robots-middle-east-us-limx-tesla-optimus.html" target="_blank" onclick="event.stopPropagation();">CNBC's The China Connection newsletter: China-made humanoid robots set sights on Middle East and U.S. markets</a>
                         </div>
 
                         <!-- Rich description (if available) -->
                         
                         <div class="article-description">
-                            One of our area's FIRST Robotics teams has made it into the state championship round! Thanks to Ash for the photo, report, and video:
-A LEGO robotics team called Brickrolled, made up of five students in grades 3 through 6 from Westside School, has qualified for the FIRST LEGO League Western Washington State Championship and will be represen...
+                            Chinese humanoid robot companies are expanding globally, piling pressure on Elon Musk’s Optimus before it reaches mass production.
                         </div>
                         
 
@@ -1552,9 +1510,9 @@ A LEGO robotics team called Brickrolled, made up of five students in grades 3 th
                                 
                                 <div class="news-meta-item news-source">
                                     
-                                    <img src="https://encrypted-tbn2.gstatic.com/faviconV2?url=https://westseattleblog.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
-                                         alt="westseattleblog.com" class="news-favicon">
-                                    <a href="https://westseattleblog.com" target="_blank" onclick="event.stopPropagation();">westseattleblog.com</a>
+                                    <img src="https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.cnbc.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+                                         alt="CNBC" class="news-favicon">
+                                    <a href="https://www.cnbc.com" target="_blank" onclick="event.stopPropagation();">CNBC</a>
                                     
                                 </div>
                                 
@@ -1562,7 +1520,48 @@ A LEGO robotics team called Brickrolled, made up of five students in grades 3 th
                             <div class="news-meta-line">
                                 
                                 <div class="news-meta-item">
-                                    <span data-timestamp="1769650020.0"></span>
+                                    <span data-timestamp="1769586577.0"></span>
+                                </div>
+                                
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                
+                <div class="carousel-card" onclick="window.open('https://interestingengineering.com/ai-robotics/limx-humanoid-robots-walk-out-of-crates', '_blank')">
+                    <!-- Rich preview thumbnail (with fallback icon) -->
+                    <div class="article-thumbnail" style="background-image: url('https://cms.interestingengineering.com/wp-content/uploads/2026/01/Untitled-design-21.jpg');"></div>
+
+                    <div class="article-content">
+                        <!-- Article headline (fixed 3-line height) -->
+                        <div class="news-headline">
+                            <a href="https://interestingengineering.com/ai-robotics/limx-humanoid-robots-walk-out-of-crates" target="_blank" onclick="event.stopPropagation();">Watch China’s humanoid robots walk out of crates like Matrix scene</a>
+                        </div>
+
+                        <!-- Rich description (if available) -->
+                        
+                        <div class="article-description">
+                            LimX Dynamics showcased what it calls the world’s first practical autonomous deployment of humanoid robots, with 18 units operating without human control.
+                        </div>
+                        
+
+                        <!-- Metadata (source, time) -->
+                        <div class="news-meta">
+                            <div class="news-meta-line">
+                                
+                                <div class="news-meta-item news-source">
+                                    
+                                    <img src="https://encrypted-tbn2.gstatic.com/faviconV2?url=https://interestingengineering.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+                                         alt="Interesting Engineering" class="news-favicon">
+                                    <a href="https://interestingengineering.com" target="_blank" onclick="event.stopPropagation();">Interesting Engineering</a>
+                                    
+                                </div>
+                                
+                            </div>
+                            <div class="news-meta-line">
+                                
+                                <div class="news-meta-item">
+                                    <span data-timestamp="1769521320.0"></span>
                                 </div>
                                 
                             </div>
@@ -1590,7 +1589,7 @@ A LEGO robotics team called Brickrolled, made up of five students in grades 3 th
 
     </div>
     <div class="widget-footer">
-        <small data-timestamp="2026-01-29T05:29:13.761647+00:00">Updated 2026-01-29T05:29:13.761647+00:00</small>
+        <small data-timestamp="2026-01-29T07:14:16.103108+00:00">Updated 2026-01-29T07:14:16.103108+00:00</small>
     </div>
 </div>
 
@@ -1822,12 +1821,12 @@ A LEGO robotics team called Brickrolled, made up of five students in grades 3 th
                             
                             <div class="video-meta-line">
                                 <div class="video-meta-item">
-                                    <span style="color: #9ca3af;">👁️ 252K</span>
+                                    <span style="color: #9ca3af;">👁️ 257K</span>
                                 </div>
                                 
                                 
                                 <div class="video-meta-item">
-                                    <span style="color: #9ca3af;">💬 139</span>
+                                    <span style="color: #9ca3af;">💬 141</span>
                                 </div>
                                 
                             </div>
@@ -2012,11 +2011,11 @@ A LEGO robotics team called Brickrolled, made up of five students in grades 3 th
                             
                             <div class="video-meta-line">
                                 <div class="video-meta-item">
-                                    <span style="color: #9ca3af;">👁️ 54K</span>
+                                    <span style="color: #9ca3af;">👁️ 56K</span>
                                 </div>
                                 
                                 <div class="video-meta-item">
-                                    <span style="color: #9ca3af;">👍 470</span>
+                                    <span style="color: #9ca3af;">👍 477</span>
                                 </div>
                                 
                                 
@@ -2032,6 +2031,320 @@ A LEGO robotics team called Brickrolled, made up of five students in grades 3 th
                                 
                                 <div class="video-meta-item">
                                     <span data-timestamp="1769269763.0"></span>
+                                </div>
+                                
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                
+                <div class="carousel-card" onclick="window.open('https://www.youtube.com/watch?v=qrJfj-HRXzE', '_blank')">
+                    <!-- Video thumbnail (16:9 with play button overlay and duration badge) -->
+                    <div class="video-thumbnail" style="background-image: url('https://i.ytimg.com/vi/qrJfj-HRXzE/hqdefault.jpg');">
+                        
+                        <span class="duration-badge">0:17</span>
+                        
+                    </div>
+
+                    <div class="video-content">
+                        <!-- Video title (fixed 2-line height) -->
+                        <div class="video-title">
+                            <a href="https://www.youtube.com/watch?v=qrJfj-HRXzE" target="_blank" onclick="event.stopPropagation();">My boyfriend loves his mini robot 🤣💕#couples #longdistancerelationship #ldr #robot</a>
+                        </div>
+
+                        <!-- Video description (if available) -->
+                        
+
+                        <!-- Metadata (channel, engagement stats, publish date) -->
+                        <div class="video-meta">
+                            <!-- Channel name with avatar -->
+                            <div class="video-meta-line">
+                                
+                                <div class="video-meta-item video-channel">
+                                    
+                                    <img src="https://yt3.ggpht.com/LTWuOsKXkDWaUQHSLHia2zbhwQjl20idfB1adOP_mKG1HME-3yp5rSVwEFVsJWUn4qBOBFtZKA=s88-c-k-c0x00ffffff-no-rj" alt="Romi Pal" class="channel-avatar">
+                                    
+                                    <a href="https://www.youtube.com/channel/UC0HiUkMVBA4U60L-G4eWc2g" target="_blank" onclick="event.stopPropagation();">Romi Pal</a>
+                                </div>
+                                
+                            </div>
+
+                            <!-- Engagement stats (views, likes, comments) -->
+                            
+                            <div class="video-meta-line">
+                                <div class="video-meta-item">
+                                    <span style="color: #9ca3af;">👁️ 297K</span>
+                                </div>
+                                
+                                <div class="video-meta-item">
+                                    <span style="color: #9ca3af;">👍 6K</span>
+                                </div>
+                                
+                                
+                                <div class="video-meta-item">
+                                    <span style="color: #9ca3af;">💬 34</span>
+                                </div>
+                                
+                            </div>
+                            
+
+                            <!-- Published date -->
+                            <div class="video-meta-line">
+                                
+                                <div class="video-meta-item">
+                                    <span data-timestamp="1769202994.0"></span>
+                                </div>
+                                
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                
+                <div class="carousel-card" onclick="window.open('https://www.youtube.com/watch?v=GvoLXBUJkX4', '_blank')">
+                    <!-- Video thumbnail (16:9 with play button overlay and duration badge) -->
+                    <div class="video-thumbnail" style="background-image: url('https://i.ytimg.com/vi/GvoLXBUJkX4/hqdefault.jpg');">
+                        
+                        <span class="duration-badge">0:08</span>
+                        
+                    </div>
+
+                    <div class="video-content">
+                        <!-- Video title (fixed 2-line height) -->
+                        <div class="video-title">
+                            <a href="https://www.youtube.com/watch?v=GvoLXBUJkX4" target="_blank" onclick="event.stopPropagation();">Elon Musk UNVEILS a SHOCKING Trump ROBOT CLONE in Front of Trump &amp; Melania.</a>
+                        </div>
+
+                        <!-- Video description (if available) -->
+                        
+                        <div class="video-description">
+                            Elon Musk revela un IMPACTANTE ROBOT CLON de Trump delante de Trump y Melania.埃隆·马斯克当着特朗普和梅拉尼娅的面 ...
+                        </div>
+                        
+
+                        <!-- Metadata (channel, engagement stats, publish date) -->
+                        <div class="video-meta">
+                            <!-- Channel name with avatar -->
+                            <div class="video-meta-line">
+                                
+                                <div class="video-meta-item video-channel">
+                                    
+                                    <img src="https://yt3.ggpht.com/HUunovPPFu4ZmrEBxi3av2ygXS3l8uSz8SEcgC-HwxtPAcSapb0mSAAtZEPgCYxcFAYdweTa=s88-c-k-c0x00ffffff-no-rj" alt="mundo tendencias" class="channel-avatar">
+                                    
+                                    <a href="https://www.youtube.com/channel/UCATKcS--KkwGmUJUxhLWD7A" target="_blank" onclick="event.stopPropagation();">mundo tendencias</a>
+                                </div>
+                                
+                            </div>
+
+                            <!-- Engagement stats (views, likes, comments) -->
+                            
+                            <div class="video-meta-line">
+                                <div class="video-meta-item">
+                                    <span style="color: #9ca3af;">👁️ 1.1M</span>
+                                </div>
+                                
+                                <div class="video-meta-item">
+                                    <span style="color: #9ca3af;">👍 9K</span>
+                                </div>
+                                
+                                
+                                <div class="video-meta-item">
+                                    <span style="color: #9ca3af;">💬 163</span>
+                                </div>
+                                
+                            </div>
+                            
+
+                            <!-- Published date -->
+                            <div class="video-meta-line">
+                                
+                                <div class="video-meta-item">
+                                    <span data-timestamp="1769298504.0"></span>
+                                </div>
+                                
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                
+                <div class="carousel-card" onclick="window.open('https://www.youtube.com/watch?v=eyomA3UunY4', '_blank')">
+                    <!-- Video thumbnail (16:9 with play button overlay and duration badge) -->
+                    <div class="video-thumbnail" style="background-image: url('https://i.ytimg.com/vi/eyomA3UunY4/hqdefault.jpg');">
+                        
+                        <span class="duration-badge">0:24</span>
+                        
+                    </div>
+
+                    <div class="video-content">
+                        <!-- Video title (fixed 2-line height) -->
+                        <div class="video-title">
+                            <a href="https://www.youtube.com/watch?v=eyomA3UunY4" target="_blank" onclick="event.stopPropagation();">Drag-on welding robot.#industrial #welding #robot #spraying #stamping #machine</a>
+                        </div>
+
+                        <!-- Video description (if available) -->
+                        
+
+                        <!-- Metadata (channel, engagement stats, publish date) -->
+                        <div class="video-meta">
+                            <!-- Channel name with avatar -->
+                            <div class="video-meta-line">
+                                
+                                <div class="video-meta-item video-channel">
+                                    
+                                    <img src="https://yt3.ggpht.com/F1fjTckYU6R1Mc2hmLv03Pk4YIJMjB2uB_ErtSn5sFFBip7B3cLxDESuB0dk5EIyUq6g3vRd=s88-c-k-c0x00ffffff-no-rj" alt="Borunte Robot Lin " class="channel-avatar">
+                                    
+                                    <a href="https://www.youtube.com/channel/UCQSrXM_GWKvm1MeEovP8pkQ" target="_blank" onclick="event.stopPropagation();">Borunte Robot Lin </a>
+                                </div>
+                                
+                            </div>
+
+                            <!-- Engagement stats (views, likes, comments) -->
+                            
+                            <div class="video-meta-line">
+                                <div class="video-meta-item">
+                                    <span style="color: #9ca3af;">👁️ 6K</span>
+                                </div>
+                                
+                                <div class="video-meta-item">
+                                    <span style="color: #9ca3af;">👍 18</span>
+                                </div>
+                                
+                                
+                            </div>
+                            
+
+                            <!-- Published date -->
+                            <div class="video-meta-line">
+                                
+                                <div class="video-meta-item">
+                                    <span data-timestamp="1769604877.0"></span>
+                                </div>
+                                
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                
+                <div class="carousel-card" onclick="window.open('https://www.youtube.com/watch?v=XVzCgsgozmg', '_blank')">
+                    <!-- Video thumbnail (16:9 with play button overlay and duration badge) -->
+                    <div class="video-thumbnail" style="background-image: url('https://i.ytimg.com/vi/XVzCgsgozmg/hqdefault.jpg');">
+                        
+                        <span class="duration-badge">47:27</span>
+                        
+                    </div>
+
+                    <div class="video-content">
+                        <!-- Video title (fixed 2-line height) -->
+                        <div class="video-title">
+                            <a href="https://www.youtube.com/watch?v=XVzCgsgozmg" target="_blank" onclick="event.stopPropagation();">FTC Top 25 | DECODE | January - Presented by Studica Robotics</a>
+                        </div>
+
+                        <!-- Video description (if available) -->
+                        
+                        <div class="video-description">
+                            Congrats to all who were voted for in the FTC Top 25 by the community! In FTC Top 25 we'll count down the list, provide some Top ...
+                        </div>
+                        
+
+                        <!-- Metadata (channel, engagement stats, publish date) -->
+                        <div class="video-meta">
+                            <!-- Channel name with avatar -->
+                            <div class="video-meta-line">
+                                
+                                <div class="video-meta-item video-channel">
+                                    
+                                    <img src="https://yt3.ggpht.com/O2QcEHahyyW4ph8SLE0vCUeUc5CLLe3-mCoWAXsZkef54dcYjEb0GHKZObmbeUUGYxuSERZJwg=s88-c-k-c0x00ffffff-no-rj" alt="FUN Robotics Network" class="channel-avatar">
+                                    
+                                    <a href="https://www.youtube.com/channel/UCuJUknE5JjilAfNnmbvr22Q" target="_blank" onclick="event.stopPropagation();">FUN Robotics Network</a>
+                                </div>
+                                
+                            </div>
+
+                            <!-- Engagement stats (views, likes, comments) -->
+                            
+                            <div class="video-meta-line">
+                                <div class="video-meta-item">
+                                    <span style="color: #9ca3af;">👁️ 1K</span>
+                                </div>
+                                
+                                <div class="video-meta-item">
+                                    <span style="color: #9ca3af;">👍 19</span>
+                                </div>
+                                
+                                
+                            </div>
+                            
+
+                            <!-- Published date -->
+                            <div class="video-meta-line">
+                                
+                                <div class="video-meta-item">
+                                    <span data-timestamp="1769652822.0"></span>
+                                </div>
+                                
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                
+                <div class="carousel-card" onclick="window.open('https://www.youtube.com/watch?v=4zMbX1OEOSE', '_blank')">
+                    <!-- Video thumbnail (16:9 with play button overlay and duration badge) -->
+                    <div class="video-thumbnail" style="background-image: url('https://i.ytimg.com/vi/4zMbX1OEOSE/hqdefault.jpg');">
+                        
+                        <span class="duration-badge">3:17</span>
+                        
+                    </div>
+
+                    <div class="video-content">
+                        <!-- Video title (fixed 2-line height) -->
+                        <div class="video-title">
+                            <a href="https://www.youtube.com/watch?v=4zMbX1OEOSE" target="_blank" onclick="event.stopPropagation();">Meet Sprout: The Humanoid Robot Built for Real World Use</a>
+                        </div>
+
+                        <!-- Video description (if available) -->
+                        
+                        <div class="video-description">
+                            This new humanoid robot is not about hype or flashy promises. Sprout is designed to work alongside people in real environments, ...
+                        </div>
+                        
+
+                        <!-- Metadata (channel, engagement stats, publish date) -->
+                        <div class="video-meta">
+                            <!-- Channel name with avatar -->
+                            <div class="video-meta-line">
+                                
+                                <div class="video-meta-item video-channel">
+                                    
+                                    <img src="https://yt3.ggpht.com/kdOk33kRWHaXSaI9EuwPMY_fL8hVV6Vl7R-QrPq0gwimCh18HyovkT8IiZoPNGT88-mYmANzmQ=s88-c-k-c0x00ffffff-no-rj" alt="DPCcars" class="channel-avatar">
+                                    
+                                    <a href="https://www.youtube.com/channel/UCGWNHkr2WZcRbxqoet-nyeg" target="_blank" onclick="event.stopPropagation();">DPCcars</a>
+                                </div>
+                                
+                            </div>
+
+                            <!-- Engagement stats (views, likes, comments) -->
+                            
+                            <div class="video-meta-line">
+                                <div class="video-meta-item">
+                                    <span style="color: #9ca3af;">👁️ 715</span>
+                                </div>
+                                
+                                <div class="video-meta-item">
+                                    <span style="color: #9ca3af;">👍 34</span>
+                                </div>
+                                
+                                
+                                <div class="video-meta-item">
+                                    <span style="color: #9ca3af;">💬 6</span>
+                                </div>
+                                
+                            </div>
+                            
+
+                            <!-- Published date -->
+                            <div class="video-meta-line">
+                                
+                                <div class="video-meta-item">
+                                    <span data-timestamp="1769630280.0"></span>
                                 </div>
                                 
                             </div>
@@ -2082,7 +2395,7 @@ A LEGO robotics team called Brickrolled, made up of five students in grades 3 th
                                 </div>
                                 
                                 <div class="video-meta-item">
-                                    <span style="color: #9ca3af;">👍 42</span>
+                                    <span style="color: #9ca3af;">👍 46</span>
                                 </div>
                                 
                                 
@@ -2094,320 +2407,6 @@ A LEGO robotics team called Brickrolled, made up of five students in grades 3 th
                                 
                                 <div class="video-meta-item">
                                     <span data-timestamp="1769630049.0"></span>
-                                </div>
-                                
-                            </div>
-                        </div>
-                    </div>
-                </div>
-                
-                <div class="carousel-card" onclick="window.open('https://www.youtube.com/watch?v=XVzCgsgozmg', '_blank')">
-                    <!-- Video thumbnail (16:9 with play button overlay and duration badge) -->
-                    <div class="video-thumbnail" style="background-image: url('https://i.ytimg.com/vi/XVzCgsgozmg/hqdefault.jpg');">
-                        
-                        <span class="duration-badge">47:27</span>
-                        
-                    </div>
-
-                    <div class="video-content">
-                        <!-- Video title (fixed 2-line height) -->
-                        <div class="video-title">
-                            <a href="https://www.youtube.com/watch?v=XVzCgsgozmg" target="_blank" onclick="event.stopPropagation();">FTC Top 25 | DECODE | January - Presented by Studica Robotics</a>
-                        </div>
-
-                        <!-- Video description (if available) -->
-                        
-                        <div class="video-description">
-                            Congrats to all who were voted for in the FTC Top 25 by the community! In FTC Top 25 we'll count down the list, provide some Top ...
-                        </div>
-                        
-
-                        <!-- Metadata (channel, engagement stats, publish date) -->
-                        <div class="video-meta">
-                            <!-- Channel name with avatar -->
-                            <div class="video-meta-line">
-                                
-                                <div class="video-meta-item video-channel">
-                                    
-                                    <img src="https://yt3.ggpht.com/O2QcEHahyyW4ph8SLE0vCUeUc5CLLe3-mCoWAXsZkef54dcYjEb0GHKZObmbeUUGYxuSERZJwg=s88-c-k-c0x00ffffff-no-rj" alt="FUN Robotics Network" class="channel-avatar">
-                                    
-                                    <a href="https://www.youtube.com/channel/UCuJUknE5JjilAfNnmbvr22Q" target="_blank" onclick="event.stopPropagation();">FUN Robotics Network</a>
-                                </div>
-                                
-                            </div>
-
-                            <!-- Engagement stats (views, likes, comments) -->
-                            
-                            <div class="video-meta-line">
-                                <div class="video-meta-item">
-                                    <span style="color: #9ca3af;">👁️ 825</span>
-                                </div>
-                                
-                                <div class="video-meta-item">
-                                    <span style="color: #9ca3af;">👍 14</span>
-                                </div>
-                                
-                                
-                            </div>
-                            
-
-                            <!-- Published date -->
-                            <div class="video-meta-line">
-                                
-                                <div class="video-meta-item">
-                                    <span data-timestamp="1769652822.0"></span>
-                                </div>
-                                
-                            </div>
-                        </div>
-                    </div>
-                </div>
-                
-                <div class="carousel-card" onclick="window.open('https://www.youtube.com/watch?v=eyomA3UunY4', '_blank')">
-                    <!-- Video thumbnail (16:9 with play button overlay and duration badge) -->
-                    <div class="video-thumbnail" style="background-image: url('https://i.ytimg.com/vi/eyomA3UunY4/hqdefault.jpg');">
-                        
-                        <span class="duration-badge">0:24</span>
-                        
-                    </div>
-
-                    <div class="video-content">
-                        <!-- Video title (fixed 2-line height) -->
-                        <div class="video-title">
-                            <a href="https://www.youtube.com/watch?v=eyomA3UunY4" target="_blank" onclick="event.stopPropagation();">Drag-on welding robot.#industrial #welding #robot #spraying #stamping #machine</a>
-                        </div>
-
-                        <!-- Video description (if available) -->
-                        
-
-                        <!-- Metadata (channel, engagement stats, publish date) -->
-                        <div class="video-meta">
-                            <!-- Channel name with avatar -->
-                            <div class="video-meta-line">
-                                
-                                <div class="video-meta-item video-channel">
-                                    
-                                    <img src="https://yt3.ggpht.com/F1fjTckYU6R1Mc2hmLv03Pk4YIJMjB2uB_ErtSn5sFFBip7B3cLxDESuB0dk5EIyUq6g3vRd=s88-c-k-c0x00ffffff-no-rj" alt="Borunte Robot Lin " class="channel-avatar">
-                                    
-                                    <a href="https://www.youtube.com/channel/UCQSrXM_GWKvm1MeEovP8pkQ" target="_blank" onclick="event.stopPropagation();">Borunte Robot Lin </a>
-                                </div>
-                                
-                            </div>
-
-                            <!-- Engagement stats (views, likes, comments) -->
-                            
-                            <div class="video-meta-line">
-                                <div class="video-meta-item">
-                                    <span style="color: #9ca3af;">👁️ 5K</span>
-                                </div>
-                                
-                                <div class="video-meta-item">
-                                    <span style="color: #9ca3af;">👍 15</span>
-                                </div>
-                                
-                                
-                            </div>
-                            
-
-                            <!-- Published date -->
-                            <div class="video-meta-line">
-                                
-                                <div class="video-meta-item">
-                                    <span data-timestamp="1769604877.0"></span>
-                                </div>
-                                
-                            </div>
-                        </div>
-                    </div>
-                </div>
-                
-                <div class="carousel-card" onclick="window.open('https://www.youtube.com/watch?v=qrJfj-HRXzE', '_blank')">
-                    <!-- Video thumbnail (16:9 with play button overlay and duration badge) -->
-                    <div class="video-thumbnail" style="background-image: url('https://i.ytimg.com/vi/qrJfj-HRXzE/hqdefault.jpg');">
-                        
-                        <span class="duration-badge">0:17</span>
-                        
-                    </div>
-
-                    <div class="video-content">
-                        <!-- Video title (fixed 2-line height) -->
-                        <div class="video-title">
-                            <a href="https://www.youtube.com/watch?v=qrJfj-HRXzE" target="_blank" onclick="event.stopPropagation();">My boyfriend loves his mini robot 🤣💕#couples #longdistancerelationship #ldr #robot</a>
-                        </div>
-
-                        <!-- Video description (if available) -->
-                        
-
-                        <!-- Metadata (channel, engagement stats, publish date) -->
-                        <div class="video-meta">
-                            <!-- Channel name with avatar -->
-                            <div class="video-meta-line">
-                                
-                                <div class="video-meta-item video-channel">
-                                    
-                                    <img src="https://yt3.ggpht.com/LTWuOsKXkDWaUQHSLHia2zbhwQjl20idfB1adOP_mKG1HME-3yp5rSVwEFVsJWUn4qBOBFtZKA=s88-c-k-c0x00ffffff-no-rj" alt="Romi Pal" class="channel-avatar">
-                                    
-                                    <a href="https://www.youtube.com/channel/UC0HiUkMVBA4U60L-G4eWc2g" target="_blank" onclick="event.stopPropagation();">Romi Pal</a>
-                                </div>
-                                
-                            </div>
-
-                            <!-- Engagement stats (views, likes, comments) -->
-                            
-                            <div class="video-meta-line">
-                                <div class="video-meta-item">
-                                    <span style="color: #9ca3af;">👁️ 295K</span>
-                                </div>
-                                
-                                <div class="video-meta-item">
-                                    <span style="color: #9ca3af;">👍 6K</span>
-                                </div>
-                                
-                                
-                                <div class="video-meta-item">
-                                    <span style="color: #9ca3af;">💬 34</span>
-                                </div>
-                                
-                            </div>
-                            
-
-                            <!-- Published date -->
-                            <div class="video-meta-line">
-                                
-                                <div class="video-meta-item">
-                                    <span data-timestamp="1769202994.0"></span>
-                                </div>
-                                
-                            </div>
-                        </div>
-                    </div>
-                </div>
-                
-                <div class="carousel-card" onclick="window.open('https://www.youtube.com/watch?v=FqfTQFuSalY', '_blank')">
-                    <!-- Video thumbnail (16:9 with play button overlay and duration badge) -->
-                    <div class="video-thumbnail" style="background-image: url('https://i.ytimg.com/vi/FqfTQFuSalY/hqdefault.jpg');">
-                        
-                        <span class="duration-badge">16:46</span>
-                        
-                    </div>
-
-                    <div class="video-content">
-                        <!-- Video title (fixed 2-line height) -->
-                        <div class="video-title">
-                            <a href="https://www.youtube.com/watch?v=FqfTQFuSalY" target="_blank" onclick="event.stopPropagation();">SaaS is over… Why you should build a robotics company in 2026</a>
-                        </div>
-
-                        <!-- Video description (if available) -->
-                        
-                        <div class="video-description">
-                            2026 will be the year of robotics. We're in an Will Smith spaghetti moment. Remember how AI-generated video looked horrific two ...
-                        </div>
-                        
-
-                        <!-- Metadata (channel, engagement stats, publish date) -->
-                        <div class="video-meta">
-                            <!-- Channel name with avatar -->
-                            <div class="video-meta-line">
-                                
-                                <div class="video-meta-item video-channel">
-                                    
-                                    <img src="https://yt3.ggpht.com/XmSOMESyP-prK9n-HSm_zfyFaCGgn99Cw4FhhNnxK_U4Ei1EiS-ShhM0L7odUX8Tit5UV3ofXw=s88-c-k-c0x00ffffff-no-rj" alt="Andreas Klinger ⅹ Europe's Most Ambitious Startups" class="channel-avatar">
-                                    
-                                    <a href="https://www.youtube.com/channel/UCI8QkjESeS67n1HZ51hrO1g" target="_blank" onclick="event.stopPropagation();">Andreas Klinger ⅹ Europe's Most Ambitious Startups</a>
-                                </div>
-                                
-                            </div>
-
-                            <!-- Engagement stats (views, likes, comments) -->
-                            
-                            <div class="video-meta-line">
-                                <div class="video-meta-item">
-                                    <span style="color: #9ca3af;">👁️ 16K</span>
-                                </div>
-                                
-                                <div class="video-meta-item">
-                                    <span style="color: #9ca3af;">👍 1K</span>
-                                </div>
-                                
-                                
-                                <div class="video-meta-item">
-                                    <span style="color: #9ca3af;">💬 158</span>
-                                </div>
-                                
-                            </div>
-                            
-
-                            <!-- Published date -->
-                            <div class="video-meta-line">
-                                
-                                <div class="video-meta-item">
-                                    <span data-timestamp="1769437800.0"></span>
-                                </div>
-                                
-                            </div>
-                        </div>
-                    </div>
-                </div>
-                
-                <div class="carousel-card" onclick="window.open('https://www.youtube.com/watch?v=c7vetvwsn-Q', '_blank')">
-                    <!-- Video thumbnail (16:9 with play button overlay and duration badge) -->
-                    <div class="video-thumbnail" style="background-image: url('https://i.ytimg.com/vi/c7vetvwsn-Q/hqdefault.jpg');">
-                        
-                        <span class="duration-badge">2:01</span>
-                        
-                    </div>
-
-                    <div class="video-content">
-                        <!-- Video title (fixed 2-line height) -->
-                        <div class="video-title">
-                            <a href="https://www.youtube.com/watch?v=c7vetvwsn-Q" target="_blank" onclick="event.stopPropagation();">Viral video shows autonomous snow blower at work in New Jersey</a>
-                        </div>
-
-                        <!-- Video description (if available) -->
-                        
-                        <div class="video-description">
-                            Sandra Bookman has more on the viral video and the man behind the handy invention.
-                        </div>
-                        
-
-                        <!-- Metadata (channel, engagement stats, publish date) -->
-                        <div class="video-meta">
-                            <!-- Channel name with avatar -->
-                            <div class="video-meta-line">
-                                
-                                <div class="video-meta-item video-channel">
-                                    
-                                    <img src="https://yt3.ggpht.com/ytc/AIdro_k1_mRYQG-HAspwbSjYcshWT6yECtfxdmfmCfIchUZsWHB9=s88-c-k-c0x00ffffff-no-rj" alt="Eyewitness News ABC7NY" class="channel-avatar">
-                                    
-                                    <a href="https://www.youtube.com/channel/UCrlIS7z20CnVaCrMvdkig_g" target="_blank" onclick="event.stopPropagation();">Eyewitness News ABC7NY</a>
-                                </div>
-                                
-                            </div>
-
-                            <!-- Engagement stats (views, likes, comments) -->
-                            
-                            <div class="video-meta-line">
-                                <div class="video-meta-item">
-                                    <span style="color: #9ca3af;">👁️ 571K</span>
-                                </div>
-                                
-                                <div class="video-meta-item">
-                                    <span style="color: #9ca3af;">👍 5K</span>
-                                </div>
-                                
-                                
-                                <div class="video-meta-item">
-                                    <span style="color: #9ca3af;">💬 848</span>
-                                </div>
-                                
-                            </div>
-                            
-
-                            <!-- Published date -->
-                            <div class="video-meta-line">
-                                
-                                <div class="video-meta-item">
-                                    <span data-timestamp="1769466100.0"></span>
                                 </div>
                                 
                             </div>
@@ -2435,7 +2434,7 @@ A LEGO robotics team called Brickrolled, made up of five students in grades 3 th
 
     </div>
     <div class="widget-footer">
-        <small data-timestamp="2026-01-29T04:17:54.972073+00:00">Updated 2026-01-29T04:17:54.972073+00:00</small>
+        <small data-timestamp="2026-01-29T07:14:11.591607+00:00">Updated 2026-01-29T07:14:11.591607+00:00</small>
     </div>
 </div>
 
