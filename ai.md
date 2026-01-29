@@ -3,7 +3,7 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-01-29T15:09:08.761163+00:00'
+updated: '2026-01-29T16:01:42.410454+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
@@ -18,7 +18,7 @@ data_types:
 
 AI news, discussions, and developments
 
-**Last Updated:** January 29, 2026 at 15:09 UTC  
+**Last Updated:** January 29, 2026 at 16:01 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -41,7 +41,7 @@ AI news, discussions, and developments
 
 DHS launched an internal review after CISA's acting director uploaded sensitive contracting files into a public version of ChatGPT.
 
-🔗 [Interesting Engineering](https://interestingengineering.com/ai-robotics/trump-acting-cyber-chief-chatgpt-sensitive-files) • 35m ago
+🔗 [Interesting Engineering](https://interestingengineering.com/ai-robotics/trump-acting-cyber-chief-chatgpt-sensitive-files) • 1h ago
 
 ---
 
@@ -49,7 +49,7 @@ DHS launched an internal review after CISA's acting director uploaded sensitive 
 
 A lot of the discussion around AI right now focuses on code generation: how far it can go, how fast it’s improving, and whether software engineering as a profession is at risk. Here’s how I currently see it. Modern AI systems are extremely good at automation. Given a context and a set of assumptions, they can generate plausible next actions: code, refactors, tests, even architectural sketches. That’s consistent with what these systems are optimized for: prediction and continuation. Judgment is a different kind of problem. Judgment is about deciding whether the assumptions themselves are still valid: Are we solving the right problem? Are we optimizing the right dimension? Should we continue or stop and reframe entirely? That kind of decision isn’t about generating better candidates. It’s about invalidating context, recognizing shifts in constraints, and making strategic calls under uncertainty. Historically, this has been most visible in areas like architecture, system design, and product-level trade-offs... places where failures don’t show up as bugs, but as long-term rigidity or misalignment. From this perspective, AI doesn’t remove the need for engineers, it changes where human contribution matters. Skills shift left: less emphasis on implementation details, more emphasis on problem framing, system boundaries, and assumption-checking. I'm not claiming AI will never do it, but currently it's not optimized for this. Execution scales well. Judgment doesn’t. And that boundary is becoming more visible as everything else accelerates. Curious how people here think about this distinction. Do you see judgment as something fundamentally different from automation, or just a lagging capability that will eventually be absorbed as models improve?
 
-🔗 [Medium](https://medium.com/@a.mandyev/judgment-is-the-last-non-automatable-skill-711507721fd1) • 2h ago
+🔗 [Medium](https://medium.com/@a.mandyev/judgment-is-the-last-non-automatable-skill-711507721fd1) • 3h ago
 
 ---
 
@@ -57,7 +57,7 @@ A lot of the discussion around AI right now focuses on code generation: how far 
 
 Hi all, looking for the most capable photo to video AI tool out currently. It could be paid, free or self hosted - just want something robust that can take a real photo and give it some motion without any wacky variances. A search of previous discussions are all over the place with recs, some of even already outdated. Looking for suggestions based on people’s most recent experience! Any help would be greatly appreciated!
 
-44m ago
+1h ago
 
 ---
 
@@ -65,7 +65,7 @@ Hi all, looking for the most capable photo to video AI tool out currently. It co
 
 Amazon is laying off 16,000 employees as AI battle intensifies.[1] Google adds Gemini AI-powered ‘auto browse’ to Chrome.[2] AI tool AlphaGenome predicts how one typo can change a genetic story.[3] Alibaba Introduces Qwen3-Max-Thinking, a Test Time Scaled Reasoning Model with Native Tool Use Powering Agentic Workloads.[4] Sources: [1] https://www.cnn.com/2026/01/28/tech/amazon-layoffs-ai#openweb-convo [2] https://www.theverge.com/news/869731/google-gemini-ai-chrome-auto-browse [3] https://www.sciencenews.org/article/ai-tool-alphagenome-predicts-genetics [4] https://www.marktechpost.com/2026/01/28/alibaba-introduces-qwen3-max-thinking-a-test-time-scaled-reasoning-model-with-native-tool-use-powering-agentic-workloads/
 
-9h ago
+10h ago
 
 ---
 
@@ -77,7 +77,7 @@ Amazon is laying off 16,000 employees as AI battle intensifies.[1] Google adds G
 
 **[DeepSeek releases DeepSeek-OCR 2. 🐋](https://www.reddit.com/r/artificial/comments/1qpw4tw/deepseek_releases_deepseekocr_2/)**
 
-12h ago
+13h ago
 
 ---
 
@@ -85,7 +85,7 @@ Amazon is laying off 16,000 employees as AI battle intensifies.[1] Google adds G
 
 DeepMind’s AlphaGenome AI model could help solve the problem of predicting how variations in noncoding DNA shape gene expression
 
-🔗 [Scientific American](https://www.scientificamerican.com/article/google-deepmind-unleashes-new-ai-alphagenome-to-investigate-dnas-dark-matter/) • 22h ago
+🔗 [Scientific American](https://www.scientificamerican.com/article/google-deepmind-unleashes-new-ai-alphagenome-to-investigate-dnas-dark-matter/) • 23h ago
 
 ---
 
@@ -93,7 +93,7 @@ DeepMind’s AlphaGenome AI model could help solve the problem of predicting how
 
 I’ve been experimenting with ChatGPT and Gemini. I’m looking for an AI app that can assist me with work-related tasks, such as creating Excel spreadsheets, PowerPoint presentations, and task lists. Additionally, I need an app that can summarize meetings based on voice memos I record. I’ve been using Gemini, but I’m curious to know if it’s the best option for my needs.
 
-10h ago
+11h ago
 
 ---
 
@@ -101,7 +101,7 @@ I’ve been experimenting with ChatGPT and Gemini. I’m looking for an AI app t
 
 AI agents are getting really good at doing things, but they're completely blind to their physical surroundings. If you walk into a hotel and you have an AI assistant (like the Chatgpt mobile app), it has no idea there may be a concierge agent on the network that could help you book a spa, check breakfast times, or request late checkout. Same thing at offices, hospitals, cruise ships. The agents are there, but there's no way to discover them. A2A (Google's agent-to-agent protocol) handles how agents talk to each other. MCP handles how agents use tools. But neither answers a basic question: how do you find agents in the first place? So I built LAD-A2A, a simple discovery protocol. When you connect to a Wi-Fi, your agent can automatically find what's available using mDNS (like how AirDrop finds nearby devices) or a standard HTTP endpoint. The spec is intentionally minimal. I didn't want to reinvent A2A or create another complex standard. LAD-A2A just handles discovery, then hands off to A2A for actual communication. Open source, Apache 2.0. Includes a working Python implementation you can run to see it in action. Repo can be found at franzvill/lad. Curious what people think!
 
-18h ago
+19h ago
 
 ---
 
@@ -109,7 +109,7 @@ AI agents are getting really good at doing things, but they're completely blind 
 
 A researcher has created a chatbot that is indistinguishable from human participants in online surveys. Some researchers fear that a workhorse of social science is now under threat.
 
-🔗 [nature.com](https://www.nature.com/articles/d41586-026-00221-8) • 21h ago
+🔗 [nature.com](https://www.nature.com/articles/d41586-026-00221-8) • 22h ago
 
 ---
 
@@ -119,13 +119,13 @@ A researcher has created a chatbot that is indistinguishable from human particip
 
 **[Exclusive: Nvidia helped DeepSeek hone AI models later used by China's military, lawmaker says](https://www.reuters.com/world/china/nvidia-helped-deepseek-hone-ai-models-later-used-by-chinas-military-lawmaker-2026-01-28/)**
 
-Reuters • 14h ago
+Reuters • 15h ago
 
 ---
 
 **[Microsoft Continues to Spend Big on A.I. While Profit Jumps 60%](https://www.nytimes.com/2026/01/28/technology/microsoft-earnings-ai-expenditures.html)**
 
-The New York Times • 17h ago
+The New York Times • 18h ago
 
 ---
 
@@ -133,7 +133,7 @@ The New York Times • 17h ago
 
 Charlie Nunn says banks will be hiring staff with different skill sets as customer experience will ‘radically change’
 
-The Guardian • 58m ago
+The Guardian • 1h ago
 
 ---
 
@@ -141,7 +141,7 @@ The Guardian • 58m ago
 
 Dow is planning to cut approximately 4,500 jobs as the chemicals maker puts more emphasis on using artificial intelligence and automation in its business
 
-ABC News • 2h ago
+ABC News • 3h ago
 
 ---
 
@@ -149,7 +149,7 @@ ABC News • 2h ago
 
 Dow's announcement comes after several other large corporations, from Amazon to UPS, said they plan to cut jobs.
 
-CBS News • 1h ago
+CBS News • 2h ago
 
 ---
 
@@ -163,7 +163,7 @@ The Wall Street Journal • 2h ago
 
 Meta's stock pop following the company's latest earnings beat is a sign that investors are OK with hefty AI spending as long as the core business stays strong.
 
-CNBC • 14h ago
+CNBC • 15h ago
 
 ---
 
@@ -171,13 +171,13 @@ CNBC • 14h ago
 
 Mark Zuckerberg's spending plans hint at further layoffs and changes within Facebook, Instagram and WhatsApp.
 
-BBC • 14h ago
+BBC • 15h ago
 
 ---
 
 **[The A.I. Boom’s Uncertain Payoff](https://www.nytimes.com/2026/01/29/business/dealbook/ai-spending-meta-microsoft.html)**
 
-The New York Times • 1h ago
+The New York Times • 2h ago
 
 ---
 
@@ -205,7 +205,7 @@ NPR • 1d ago
 - - —
 Guys, enough is enough. Bullying is a s...
 
-⬆️ 599 • 💬 272 • 15h ago • [McSweeney's Internet Tendency](https://www.mcsweeneys.net/articles/please-dont-say-mean-things-about-the-ai-that-i-just-invested-a-billion-dollars-in)
+⬆️ 599 • 💬 272 • 16h ago • [McSweeney's Internet Tendency](https://www.mcsweeneys.net/articles/please-dont-say-mean-things-about-the-ai-that-i-just-invested-a-billion-dollars-in)
 
 ---
 
@@ -221,7 +221,7 @@ Interactive article explaining the physics of an airfoil and what makes airplane
 
 Or, as they like to call it, the 'AI Skills Hub'. Which was built by PwC because of course it was
 
-⬆️ 374 • 💬 138 • 15h ago • [Mahad Kalam](https://mahadk.com/posts/ai-skills-hub)
+⬆️ 374 • 💬 138 • 16h ago • [Mahad Kalam](https://mahadk.com/posts/ai-skills-hub)
 
 ---
 
@@ -229,7 +229,7 @@ Or, as they like to call it, the 'AI Skills Hub'. Which was built by PwC because
 
 Today everybody's doing AI code review. Here's how Greptile's viewpoint is differentiated - independence, autonomy, and feedback loops.
 
-⬆️ 345 • 💬 241 • 2d ago • [greptile.com](https://www.greptile.com/blog/ai-code-review-bubble)
+⬆️ 345 • 💬 241 • 3d ago • [greptile.com](https://www.greptile.com/blog/ai-code-review-bubble)
 
 ---
 
@@ -265,7 +265,7 @@ Opinion: Autonomous agents may generate millions of lines of code, but shipping 
 
 The rise of LLMs as a useful development tool over the last year or so has been significant. The power and flexibility of tools like Claude Code and ChatGPT have given a lot of functionality both to experienced developers and new developers alike. But there are trade-offs.
 
-⬆️ 195 • 💬 99 • 17h ago • [jellyfin.org](https://jellyfin.org/docs/general/contributing/llm-policies/)
+⬆️ 195 • 💬 99 • 18h ago • [jellyfin.org](https://jellyfin.org/docs/general/contributing/llm-policies/)
 
 ---
 
@@ -279,7 +279,7 @@ Nobel Prize winner Geoffrey Hinton, the physicist known for his pioneering work 
 
 📺 LBC
 
-👁️ 56K • 👍 1K • 💬 722 • ⏱️ 8:50 • 17h ago
+👁️ 56K • 👍 1K • 💬 722 • ⏱️ 8:50 • 18h ago
 
 ---
 
@@ -299,7 +299,7 @@ Dario Amodei, the CEO of the AI company Anthropic, joined "Top Story" to discuss
 
 📺 NBC News
 
-👁️ 42K • 👍 736 • 💬 227 • ⏱️ 18:01 • 1d ago
+👁️ 42K • 👍 736 • 💬 227 • ⏱️ 18:01 • 2d ago
 
 ---
 
@@ -309,7 +309,7 @@ Support our work: http://novara.media/support Buy Novara Media merch: https://sh
 
 📺 Novara Media
 
-👁️ 45K • 👍 1K • 💬 495 • ⏱️ 21:03 • 18h ago
+👁️ 45K • 👍 1K • 💬 495 • ⏱️ 21:03 • 19h ago
 
 ---
 
@@ -329,7 +329,7 @@ Tools I used: ✓ Best AI App builder is Base44 https://base44.pxf.io/c/6440076/
 
 📺 Mikey No Code
 
-👁️ 4K • 💬 9 • ⏱️ 21:04 • 1h ago
+👁️ 4K • 💬 9 • ⏱️ 21:04 • 2h ago
 
 ---
 
@@ -339,7 +339,7 @@ Looking into whether we can rely on AI Benchmarks. Try Perplexity Comet browser 
 
 📺 Matt Wolfe
 
-👁️ 17K • 👍 756 • 💬 119 • ⏱️ 23:11 • 17h ago
+👁️ 17K • 👍 756 • 💬 119 • ⏱️ 23:11 • 18h ago
 
 ---
 
@@ -349,7 +349,7 @@ On stage at Imagination In Action's AI Summit in Davos with John Werner, founder
 
 📺 Forbes
 
-👁️ 12K • 👍 446 • 💬 106 • ⏱️ 29:11 • 17h ago
+👁️ 12K • 👍 446 • 💬 106 • ⏱️ 29:11 • 18h ago
 
 ---
 
@@ -383,7 +383,7 @@ PersonaPlex-7B-v1 is a real-time, full-duplex speech-to-speech conversational mo
 
 `audio-to-audio`
 
-⬇️ 50,776 • ❤️ 1,420 • 15h ago
+⬇️ 50,776 • ❤️ 1,420 • 16h ago
 
 ---
 
@@ -395,7 +395,7 @@ Kimi K2.5 is a native multimodal agentic model with 1T parameters, excelling in 
 
 `image-text-to-text`
 
-⬇️ 21,428 • ❤️ 1,031 • 5h ago
+⬇️ 21,428 • ❤️ 1,031 • 6h ago
 
 ---
 
@@ -407,7 +407,7 @@ Qwen3-TTS-12Hz-1.7B-CustomVoice is a multilingual text-to-speech model supportin
 
 `text-to-speech` `1.9B`
 
-⬇️ 169,048 • ❤️ 734 • 7h ago
+⬇️ 169,048 • ❤️ 734 • 8h ago
 
 ---
 
@@ -644,7 +644,7 @@ Browser automation CLI for AI agents
 
 `TypeScript`
 
-⭐ 11.4k • 🔱 627 • 21h ago
+⭐ 11.4k • 🔱 627 • 22h ago
 
 ---
 
@@ -654,7 +654,7 @@ AI → JSON → UI
 
 `TypeScript`
 
-⭐ 9.6k • 🔱 508 • 23h ago
+⭐ 9.6k • 🔱 508 • 1d ago
 
 ---
 
@@ -674,7 +674,7 @@ LLM驱动的 A/H/美股智能分析器，多数据源行情 + 实时新闻 + Gem
 
 `Python` `agent` `ai` `aigc` `gemini` `llm`
 
-⭐ 6.8k • 🔱 7.5k • 24m ago
+⭐ 6.8k • 🔱 7.5k • 1h ago
 
 ---
 
@@ -704,7 +704,7 @@ The Ultimate Collection of 500+ Agentic Skills for Claude Code/Antigravity/Curso
 
 `Python` `agentic-skills` `ai-agents` `antigravity` `autonomous-coding` `claude-code`
 
-⭐ 5.2k • 🔱 1.2k • 2h ago
+⭐ 5.2k • 🔱 1.2k • 3h ago
 
 ---
 

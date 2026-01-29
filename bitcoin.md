@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-01-29T15:09:08.769603+00:00'
+updated: '2026-01-29T16:01:42.418726+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
+- cryptocurrency
 - news
 - videos
 - social
-- cryptocurrency
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** January 29, 2026 at 15:09 UTC  
+**Last Updated:** January 29, 2026 at 16:01 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -81,13 +81,13 @@ Rank #1
 
 Crazy to think I owned 18.2 btc in early 2020 and sold before it reach 73 something I think it was. Now I live check to check. HODL your investments, don’t sell
 
-9h ago
+10h ago
 
 ---
 
 **[😂](https://www.reddit.com/r/Bitcoin/comments/1qq31l2/_/)**
 
-6h ago
+7h ago
 
 ---
 
@@ -103,7 +103,7 @@ I gotta stop getting hammered before I trade, But its sooooo profitable.. .
 
 What are you doing with your time. You’re saving pieces of paper with numbers on it. I expect everyone here to understand the problems BITCOIN solves We don’t want more dollars we want more money The US dollar is not money. If you’re building wealth. Follow me so we can connect. Great minds think alike and have studied Bitcoin.
 
-13h ago
+14h ago
 
 ---
 
@@ -111,25 +111,25 @@ What are you doing with your time. You’re saving pieces of paper with numbers 
 
 Source: Blossom Social
 
-16h ago
+17h ago
 
 ---
 
 **[The single email that changed the course of history.](https://www.reddit.com/r/Bitcoin/comments/1qpqemf/the_single_email_that_changed_the_course_of/)**
 
-16h ago
+17h ago
 
 ---
 
 **[This is unbearable](https://www.reddit.com/r/Bitcoin/comments/1qphgpc/this_is_unbearable/)**
 
-21h ago
+22h ago
 
 ---
 
 **[They want all out retirement savings in this system](https://www.reddit.com/r/Bitcoin/comments/1qpzr12/they_want_all_out_retirement_savings_in_this/)**
 
-9h ago
+10h ago
 
 ---
 
@@ -137,13 +137,13 @@ Source: Blossom Social
 
 I would like a video that’s a maximum of thirty minutes to show people the benefits of owning Bitcoin. Hit me with your best shot!
 
-2h ago
+3h ago
 
 ---
 
 **[Hodling nonstop](https://www.reddit.com/r/Bitcoin/comments/1qpxk52/hodling_nonstop/)**
 
-11h ago
+12h ago
 
 ---
 
@@ -155,7 +155,7 @@ I would like a video that’s a maximum of thirty minutes to show people the ben
 
 Higher oil prices could add to inflation, making it harder for the Fed to cut rates rapidly.
 
-CoinDesk • 9h ago
+CoinDesk • 10h ago
 
 ---
 
@@ -171,7 +171,7 @@ Yahoo Finance • 2d ago
 
 Crypto prices stabilized after an early-week dip, but bitcoin continued to trail gold and silver as macro trades dominated after the Fed’s policy hold.
 
-CoinDesk • 8h ago
+CoinDesk • 9h ago
 
 ---
 
@@ -187,7 +187,7 @@ CoinDesk • 2h ago
 
 Bitcoin is approaching a historically important support zone near $62,000, as a long-tracked reserve-cost indicator tied to Binance signals that BTC could see more pain ahead.The $62k reserve cost level has not been tested since the approval of U.S. spot Bitcoin ETFs in January 2024, raising fresh questions over whether ...
 
-Yahoo Finance • 1h ago
+Yahoo Finance • 2h ago
 
 ---
 
@@ -195,7 +195,7 @@ Yahoo Finance • 1h ago
 
 Recovering funds is usually impossible, but a popular crypto vendor is paying nearly $2M to victims.
 
-Yahoo Finance • 2h ago
+Yahoo Finance • 3h ago
 
 ---
 
@@ -277,7 +277,7 @@ Transform HN comment threads into executive intelligence. AI analyzes discussion
 
 Reporting on Fintech, Crypto, and Blockchain Activity in Africa
 
-⬆️ 1 • 💬 0 • 20h ago • [BitKE](https://bitcoinke.io/2026/01/ozow-announces-payments-solution-by-moneybadger/)
+⬆️ 1 • 💬 0 • 21h ago • [BitKE](https://bitcoinke.io/2026/01/ozow-announces-payments-solution-by-moneybadger/)
 
 ---
 
@@ -291,7 +291,7 @@ The situation is getting worse and worse for crypto. Here are facts and my take 
 
 📺 Thomas Kralow
 
-👁️ 15K • 👍 2K • 💬 129 • ⏱️ 13:43 • 4h ago
+👁️ 15K • 👍 2K • 💬 129 • ⏱️ 13:43 • 5h ago
 
 ---
 
@@ -301,7 +301,7 @@ This is not Bitcoin going up. This is the dollar breaking down in real time. A d
 
 📺 Simply Bitcoin
 
-👁️ 30K • 👍 3K • 💬 355 • ⏱️ 15:53 • 15h ago
+👁️ 30K • 👍 3K • 💬 355 • ⏱️ 15:53 • 16h ago
 
 ---
 
@@ -331,7 +331,7 @@ Today, let's examine Bitcoin's charts and metrics, as well as the latest Macro a
 
 📺 CryptosRUs
 
-👁️ 35K • 👍 2K • 💬 210 • ⏱️ 38:00 • 22h ago
+👁️ 35K • 👍 2K • 💬 210 • ⏱️ 38:00 • 23h ago
 
 ---
 
@@ -341,7 +341,7 @@ Bob Murphy is a Senior Fellow at the Mises Institute and Chief Economist at Infi
 
 📺 Anthony Pompliano
 
-👁️ 22K • 👍 825 • ⏱️ 30:04 • 17h ago
+👁️ 22K • 👍 825 • ⏱️ 30:04 • 18h ago
 
 ---
 
@@ -351,7 +351,7 @@ The Dollar is breaking and the "Sell America" trade is officially on. While the 
 
 📺 Crypto Banter
 
-👁️ 36K • 👍 2K • 💬 55 • ⏱️ 26:12 • 23h ago
+👁️ 36K • 👍 2K • 💬 55 • ⏱️ 26:12 • 1d ago
 
 ---
 
@@ -361,7 +361,7 @@ Take Control of Your Retirement — Grow Crypto & Gold Tax-Advantaged. https://w
 
 📺 Savvy Finance
 
-👁️ 7K • 👍 295 • 💬 18 • ⏱️ 21:44 • 13h ago
+👁️ 7K • 👍 295 • 💬 18 • ⏱️ 21:44 • 14h ago
 
 ---
 

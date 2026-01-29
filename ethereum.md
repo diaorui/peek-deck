@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-01-29T15:09:08.775533+00:00'
+updated: '2026-01-29T16:01:42.424647+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
+- cryptocurrency
 - news
 - videos
 - social
-- cryptocurrency
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** January 29, 2026 at 15:09 UTC  
+**Last Updated:** January 29, 2026 at 16:01 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -72,7 +72,7 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-9h ago
+10h ago
 
 ---
 
@@ -80,7 +80,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 To maximize Ethereum’s neutrality, we propose that the Hegotá upgrade includes both FOCIL and encrypted mempools. This would complete the Holy Trinity of Censorship Resistance, achieving system-level defense against transaction censorship.
 
-🔗 [EtherWorld.co](https://etherworld.co/hegota-should-complete-the-holy-trinity-of-censorship-resistance/) • 4h ago
+🔗 [EtherWorld.co](https://etherworld.co/hegota-should-complete-the-holy-trinity-of-censorship-resistance/) • 5h ago
 
 ---
 
@@ -88,7 +88,7 @@ To maximize Ethereum’s neutrality, we propose that the Hegotá upgrade include
 
 Ethereum doesn’t have a fixed “X% inflation forever” schedule. Its supply is basically the tug-of-war between: 1) ISSUANCE (new ETH paid to secure the network) 2) BURN (ETH destroyed via EIP-1559 base fee) So ETH can be inflationary in one period and deflationary in another. ------------------------------------------------------------ THE 2 BIG CHANGES ------------------------------------------------------------ A) EIP-1559 (fee burn, live since Aug 2021) - Base fee is burned (destroyed), so activity can reduce supply. B) The Merge (executed Sep 15, 2022) — issuance collapsed Ethereum.org’s issuance breakdown uses these ballpark numbers: - Pre-Merge: ~13,000 ETH/day to PoW miners (+ PoS issuance existed in parallel) - Post-Merge: ~1,700 ETH/day to PoS validators => ~88% drop in new issuance A neat rule-of-thumb from ethereum.org: - If average gas is ~16 gwei or higher on a given day, burn can roughly offset ~1,700 ETH/day issuance (net ~0 or deflation for that day). ------------------------------------------------------------ BEFORE vs AFTER: YoY SUPPLY INFLATION (REAL SUPPLY DATA) Definition here: compare today’s circulating supply vs 1 year ago (YoY % change). Here are the “regime” numbers around the Merge: 1) LAST FULL YEAR BEFORE THE MERGE (PoW era, but already with EIP-1559 burn) - Sep 15, 2021 → Sep 14, 2022: Avg YoY inflation: ~4.16% Median: ~4.32% 2) FIRST POST-MERGE YEAR - Sep 15, 2022 → Sep 14, 2023: Avg YoY inflation: ~1.06% Median: ~0.97% 3) SECOND POST-MERGE YEAR - Sep 15, 2023 → Sep 14, 2024: Avg YoY inflation: ~-0.13% (net deflation on average) (Yes, negative YoY supply change on average for a full year.) Peak “deflationary stretch” (from the dataset): - Most deflationary datapoint: ~-0.2957% annualized (around mid-2023) ------------------------------------------------------------ RECENT SUPPLY DEVELOPMENT: “NEAR ABSOLUTE ZERO” ------------------------------------------------------------ Current snapshot (latest datapoint in my YoY series): - Supply: ~120.74M ETH - YoY inflation: ~0.2371% (as of 2026-01-26) What does 0.237% mean in ETH terms? - 0.2371% of ~120.74M ≈ ~286k ETH net added over a year (order of magnitude). That’s tiny compared to the pre-Merge issuance regime. Short-term trend (last ~30 days in the YoY series): - YoY inflation drifted DOWN from ~0.2578% → ~0.2371% So it’s mildly positive right now, but cooling, not accelerating. ------------------------------------------------------------ TL;DR ------------------------------------------------------------ - Pre-Merge: ~4%+ YoY supply growth was “normal”. - Post-Merge: baseline issuance dropped massively, so burn often offsets a large chunk of it. - Result: ETH supply has been hovering around ~0% (sometimes +, sometimes -), depending on activity. Full write-up + charts + methodology: https://www.cryptoinflation.eu/how-ethereum-became-a-deflationary-asset-a-guide-to-eths-inflation-deflation/ Ethereum's inflation chart
 
-19h ago
+20h ago
 
 ---
 
@@ -110,7 +110,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 It’s has broken $3000 multiple times since 2021. It has shown no ability to appreciate in value despite all positive news including major institutions adopting its technology, treasury firms accumulating , ETFs. I’m beginning to think this is as good as it gets.
 
-1h ago
+2h ago
 
 ---
 
@@ -152,7 +152,7 @@ Hi r/ethereum, I’ve been running a personal experiment called FitVow. The idea
 
 The Federal Reserve held its benchmark interest rate steady, as two Trump-appointed members of the FOMC advocated for another cut.
 
-Decrypt • 19h ago
+Decrypt • 20h ago
 
 ---
 
@@ -168,7 +168,7 @@ The Block • 1d ago
 
 Fidelity is preparing to launch a dollar-backed stablecoin on Ethereum, underscoring how traditional finance is moving deeper into onchain payments.
 
-unchainedcrypto.com • 2h ago
+unchainedcrypto.com • 3h ago
 
 ---
 
@@ -188,7 +188,7 @@ The Motley Fool • 2d ago
 
 **[MegaETH mainnet to go live Feb. 9 in major test of ‘real-time’ Ethereum scaling](https://www.coindesk.com/tech/2026/01/28/megaeth-mainnet-to-go-live-feb-9-in-major-test-of-real-time-ethereum-scaling)**
 
-CoinDesk • 20h ago
+CoinDesk • 21h ago
 
 ---
 
@@ -196,7 +196,7 @@ CoinDesk • 20h ago
 
 Tom Lee has urged investors not to let the rally in gold and silver divert attention from Ethereum. BitMine continues to build its Ethereum position. ...
 
-Yahoo Finance • 5h ago
+Yahoo Finance • 6h ago
 
 ---
 
@@ -244,7 +244,7 @@ Fidelity launches their own stablecoin on one of the B.E.S.T. The links below ma
 
 📺 Digital Asset News
 
-👁️ 6K • 👍 445 • 💬 29 • ⏱️ 14:06 • 18h ago
+👁️ 6K • 👍 445 • 💬 29 • ⏱️ 14:06 • 19h ago
 
 ---
 
@@ -254,7 +254,7 @@ My FREE Daily On-Chain Analysis & Crypto News In 5-Mins: https://www.cryptonutsh
 
 📺 Jamie Tree 
 
-👁️ 2K • 👍 62 • 💬 55 • ⏱️ 16:47 • 20h ago
+👁️ 2K • 👍 62 • 💬 55 • ⏱️ 16:47 • 21h ago
 
 ---
 
@@ -264,7 +264,7 @@ FREE TRAINING: https://www.bullmania.com EXCHANGES I USE (bybit, pionex): https:
 
 📺 Ivan on Tech
 
-👁️ 14K • 👍 1K • 💬 46 • ⏱️ 1:01:13 • 4h ago
+👁️ 14K • 👍 1K • 💬 46 • ⏱️ 1:01:13 • 5h ago
 
 ---
 
@@ -274,7 +274,7 @@ This video provides a professional Elliott Wave and technical analysis of Ethere
 
 📺 More Crypto Online
 
-👁️ 212 • 👍 26 • 💬 3 • ⏱️ 4:28 • 25m ago
+👁️ 212 • 👍 26 • 💬 3 • ⏱️ 4:28 • 1h ago
 
 ---
 
@@ -284,7 +284,7 @@ BITCOIN JUST REJECTED: THIS IS NEXT (Prepare Now)!!! - Bitcoin News Today, Ether
 
 📺 Crypto World
 
-👁️ 6K • 👍 238 • 💬 114 • ⏱️ 16:28 • 15h ago
+👁️ 6K • 👍 238 • 💬 114 • ⏱️ 16:28 • 16h ago
 
 ---
 
@@ -294,7 +294,7 @@ ETHEREUM ETH PRICE PREDICTION 2026 Join the Premium Signal Group for trade setup
 
 📺 Cilinix Crypto
 
-👁️ 244 • 👍 21 • 💬 1 • ⏱️ 4:38 • 5h ago
+👁️ 244 • 👍 21 • 💬 1 • ⏱️ 4:38 • 6h ago
 
 ---
 
@@ -304,7 +304,7 @@ Crypto News: Fidelity Investments is launching its first stablecoin, the Fidelit
 
 📺 Thinking Crypto
 
-👁️ 5K • 👍 484 • 💬 64 • ⏱️ 16:32 • 11h ago
+👁️ 5K • 👍 484 • 💬 64 • ⏱️ 16:32 • 12h ago
 
 ---
 
@@ -314,7 +314,7 @@ Open Crypto Trading Account ➡️ https://india.delta.exchange/?code=stockburne
 
 📺 Trade with Burner
 
-👁️ 3K • 👍 412 • 26m ago
+👁️ 3K • 👍 412 • 1h ago
 
 ---
 
@@ -324,7 +324,7 @@ Tom Lee Just Said The UNTHINKABLE About Bitcoin & Ethereum! [2026 New Prediction
 
 📺 Crypto Nutshell
 
-👁️ 28K • 👍 760 • 💬 72 • ⏱️ 14:37 • 1d ago
+👁️ 28K • 👍 760 • 💬 72 • ⏱️ 14:37 • 2d ago
 
 ---
 
