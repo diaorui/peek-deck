@@ -3,14 +3,14 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-01-29T07:14:21.407854+00:00'
+updated: '2026-01-29T08:00:43.873836+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- social
 - videos
 - news
+- social
 - repositories
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 AI news, discussions, and developments
 
-**Last Updated:** January 29, 2026 at 07:14 UTC  
+**Last Updated:** January 29, 2026 at 08:00 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -47,7 +47,7 @@ AI news, discussions, and developments
 
 Amazon is laying off 16,000 employees as AI battle intensifies.[1] Google adds Gemini AI-powered ‘auto browse’ to Chrome.[2] AI tool AlphaGenome predicts how one typo can change a genetic story.[3] Alibaba Introduces Qwen3-Max-Thinking, a Test Time Scaled Reasoning Model with Native Tool Use Powering Agentic Workloads.[4] Sources: [1] https://www.cnn.com/2026/01/28/tech/amazon-layoffs-ai#openweb-convo [2] https://www.theverge.com/news/869731/google-gemini-ai-chrome-auto-browse [3] https://www.sciencenews.org/article/ai-tool-alphagenome-predicts-genetics [4] https://www.marktechpost.com/2026/01/28/alibaba-introduces-qwen3-max-thinking-a-test-time-scaled-reasoning-model-with-native-tool-use-powering-agentic-workloads/
 
-1h ago
+2h ago
 
 ---
 
@@ -55,7 +55,7 @@ Amazon is laying off 16,000 employees as AI battle intensifies.[1] Google adds G
 
 Hello 👋🏼 I Built a script that deploys MoltBot (open source personal AI assistant) to Fly.io, in one command: curl -fsSL https://raw.githubusercontent.com/blissito/moltbot-flyio/main/install.sh | bash What you get: - Your own (Claude/OpenAI/any)-powered assistant running 24/7 - WhatsApp integration (scan QR, done) 🤯 - Web dashboard to manage everything - One machine on Fly.io (free tier works to start) The installer handles: - Fly.io app creation - Persistent volume for data - Secrets configuration - 4GB RAM setup (2GB causes OOM) - Gateway token generation You just need: - Fly.io account (free) & flyctl installed - Anthropic/OpenAI API key GitHub: https://github.com/blissito/moltbot-flyio ¿Why? It just makes Moltbot cloud deployment dead simple. 🤷🏻‍♂️ If you liked it, give it a star ⭐️ or a PR if you find a bug, it's open source. 🤓
 
-2h ago
+3h ago
 
 ---
 
@@ -63,13 +63,13 @@ Hello 👋🏼 I Built a script that deploys MoltBot (open source personal AI as
 
 DeepMind’s AlphaGenome AI model could help solve the problem of predicting how variations in noncoding DNA shape gene expression
 
-🔗 [Scientific American](https://www.scientificamerican.com/article/google-deepmind-unleashes-new-ai-alphagenome-to-investigate-dnas-dark-matter/) • 14h ago
+🔗 [Scientific American](https://www.scientificamerican.com/article/google-deepmind-unleashes-new-ai-alphagenome-to-investigate-dnas-dark-matter/) • 15h ago
 
 ---
 
 **[DeepSeek releases DeepSeek-OCR 2. 🐋](https://www.reddit.com/r/artificial/comments/1qpw4tw/deepseek_releases_deepseekocr_2/)**
 
-4h ago
+5h ago
 
 ---
 
@@ -77,7 +77,7 @@ DeepMind’s AlphaGenome AI model could help solve the problem of predicting how
 
 AI agents are getting really good at doing things, but they're completely blind to their physical surroundings. If you walk into a hotel and you have an AI assistant (like the Chatgpt mobile app), it has no idea there may be a concierge agent on the network that could help you book a spa, check breakfast times, or request late checkout. Same thing at offices, hospitals, cruise ships. The agents are there, but there's no way to discover them. A2A (Google's agent-to-agent protocol) handles how agents talk to each other. MCP handles how agents use tools. But neither answers a basic question: how do you find agents in the first place? So I built LAD-A2A, a simple discovery protocol. When you connect to a Wi-Fi, your agent can automatically find what's available using mDNS (like how AirDrop finds nearby devices) or a standard HTTP endpoint. The spec is intentionally minimal. I didn't want to reinvent A2A or create another complex standard. LAD-A2A just handles discovery, then hands off to A2A for actual communication. Open source, Apache 2.0. Includes a working Python implementation you can run to see it in action. Repo can be found at franzvill/lad. Curious what people think!
 
-10h ago
+11h ago
 
 ---
 
@@ -85,7 +85,7 @@ AI agents are getting really good at doing things, but they're completely blind 
 
 A researcher has created a chatbot that is indistinguishable from human participants in online surveys. Some researchers fear that a workhorse of social science is now under threat.
 
-🔗 [nature.com](https://www.nature.com/articles/d41586-026-00221-8) • 13h ago
+🔗 [nature.com](https://www.nature.com/articles/d41586-026-00221-8) • 14h ago
 
 ---
 
@@ -93,7 +93,7 @@ A researcher has created a chatbot that is indistinguishable from human particip
 
 I just saw a post discussing clawdbot, about someone not finding a usecase for automating tasks and I realised I too simply can't find anything that I need to automate. I'd love to hear what y'all find automatable. Could this just end up being a very niche feature.
 
-14h ago
+15h ago
 
 ---
 
@@ -119,7 +119,7 @@ Tried ClawdBot (now MoltBot) on a freshly installed system. At first? 🔥 Insan
 
 Multi-billionaire Elon Musk also announced plans to end production of its Model S and Model X vehicles.
 
-BBC • 4h ago
+BBC • 5h ago
 
 ---
 
@@ -143,7 +143,7 @@ DW.com • 2h ago
 
 The laws have been criticised by tech startups, which say they go too far, and civil society groups, which say they don’t go far enough
 
-The Guardian • 6h ago
+The Guardian • 7h ago
 
 ---
 
@@ -151,7 +151,7 @@ The Guardian • 6h ago
 
 Scammers are using AI to fraudulently apply for colleges and collect financial aid, and they're doing it by stealing identities, leaving the victims on the hook to repay loans they didn't take out.
 
-abc7.com • 44m ago
+abc7.com • 1h ago
 
 ---
 
@@ -165,7 +165,7 @@ WRAL • 1h ago
 
 **[Nokia Reports Jump In Sales From AI And Cloud Customers](https://www.wsj.com/business/earnings/nokia-reports-jump-in-sales-from-ai-and-cloud-customers-5561f4e4?gaa_at=eafs&gaa_n=AWEtsqerH4_wfncUvwypjD_QMi9rkRq56NKUTqcRi1JTWU-QS2Gm59sLC2Sf&gaa_ts=697b0c34&gaa_sig=6dU4NWmgq20URmdW7kR33QsnUVaAvt_RPaBnWj96oHn-Wm2FWD8ZoRXze4TzoGAKkk6LcrKIJ7l4ofbIupcXfA%3D%3D)**
 
-The Wall Street Journal • 26m ago
+The Wall Street Journal • 1h ago
 
 ---
 
@@ -173,13 +173,13 @@ The Wall Street Journal • 26m ago
 
 Amazon is laying off 16,000 employees, the company’s second round of massive job reductions in two months as it fights to improve its standing in the battle for AI supremacy.
 
-CNN • 20h ago
+CNN • 21h ago
 
 ---
 
 **[Amazon axes 16,000 jobs as it pushes AI and efficiency](https://www.reuters.com/legal/litigation/amazon-cuts-16000-jobs-globally-broader-restructuring-2026-01-28/)**
 
-Reuters • 12h ago
+Reuters • 13h ago
 
 ---
 
@@ -187,7 +187,7 @@ Reuters • 12h ago
 
 Amazon announces 16,000 job cuts in major restructuring to reduce bureaucracy and management layers while investing in AI and other strategic growth areas.
 
-Fox Business • 18h ago
+Fox Business • 19h ago
 
 ---
 
@@ -215,7 +215,7 @@ Apple today unveiled the new AirTag, now with an expanded finding range and a lo
 - - —
 Guys, enough is enough. Bullying is a s...
 
-⬆️ 546 • 💬 248 • 7h ago • [McSweeney's Internet Tendency](https://www.mcsweeneys.net/articles/please-dont-say-mean-things-about-the-ai-that-i-just-invested-a-billion-dollars-in)
+⬆️ 546 • 💬 248 • 8h ago • [McSweeney's Internet Tendency](https://www.mcsweeneys.net/articles/please-dont-say-mean-things-about-the-ai-that-i-just-invested-a-billion-dollars-in)
 
 ---
 
@@ -223,7 +223,7 @@ Guys, enough is enough. Bullying is a s...
 
 Interactive article explaining the physics of an airfoil and what makes airplanes fly
 
-⬆️ 416 • 💬 51 • 16h ago • [ciechanow.ski](https://ciechanow.ski/airfoil/)
+⬆️ 416 • 💬 51 • 17h ago • [ciechanow.ski](https://ciechanow.ski/airfoil/)
 
 ---
 
@@ -247,7 +247,7 @@ Today everybody's doing AI code review. Here's how Greptile's viewpoint is diffe
 
 Or, as they like to call it, the 'AI Skills Hub'. Which was built by PwC because of course it was
 
-⬆️ 318 • 💬 95 • 7h ago • [Mahad Kalam](https://mahadk.com/posts/ai-skills-hub)
+⬆️ 318 • 💬 95 • 8h ago • [Mahad Kalam](https://mahadk.com/posts/ai-skills-hub)
 
 ---
 
@@ -293,7 +293,7 @@ Nobel Prize winner Geoffrey Hinton, the physicist known for his pioneering work 
 
 📺 LBC
 
-👁️ 24K • 👍 494 • 💬 385 • ⏱️ 8:50 • 9h ago
+👁️ 24K • 👍 494 • 💬 385 • ⏱️ 8:50 • 10h ago
 
 ---
 
@@ -323,7 +323,7 @@ Support our work: http://novara.media/support Buy Novara Media merch: https://sh
 
 📺 Novara Media
 
-👁️ 20K • 👍 729 • 💬 234 • ⏱️ 21:03 • 10h ago
+👁️ 20K • 👍 729 • 💬 234 • ⏱️ 21:03 • 11h ago
 
 ---
 
@@ -333,7 +333,7 @@ Z Image Base review & tutorial. Best uncensored AI image generator. How to insta
 
 📺 AI Search
 
-👁️ 13K • 👍 1K • 💬 192 • ⏱️ 29:54 • 3h ago
+👁️ 13K • 👍 1K • 💬 192 • ⏱️ 29:54 • 4h ago
 
 ---
 
@@ -363,7 +363,7 @@ On stage at Imagination In Action's AI Summit in Davos with John Werner, founder
 
 📺 Forbes
 
-👁️ 3K • 👍 113 • 💬 25 • ⏱️ 29:11 • 9h ago
+👁️ 3K • 👍 113 • 💬 25 • ⏱️ 29:11 • 10h ago
 
 ---
 
@@ -401,7 +401,7 @@ Kimi K2.5 is a native multimodal agentic model with 1T parameters, excelling in 
 
 `image-text-to-text`
 
-⬇️ 10,965 • ❤️ 951 • 2h ago
+⬇️ 10,965 • ❤️ 951 • 3h ago
 
 ---
 
@@ -437,7 +437,7 @@ Z-Image is an undistilled, high-fidelity text-to-image diffusion transformer mod
 
 `text-to-image`
 
-⬇️ 0 • ❤️ 610 • 16h ago
+⬇️ 0 • ❤️ 610 • 17h ago
 
 ---
 
@@ -645,7 +645,7 @@ Browser automation CLI for AI agents
 
 `TypeScript`
 
-⭐ 11.3k • 🔱 621 • 13h ago
+⭐ 11.3k • 🔱 621 • 14h ago
 
 ---
 
@@ -655,7 +655,7 @@ AI → JSON → UI
 
 `TypeScript`
 
-⭐ 9.6k • 🔱 506 • 15h ago
+⭐ 9.6k • 🔱 506 • 16h ago
 
 ---
 
@@ -685,7 +685,7 @@ LLM驱动的 A/H/美股智能分析器，多数据源行情 + 实时新闻 + Gem
 
 `Vue`
 
-⭐ 6.5k • 🔱 1.2k • 16h ago
+⭐ 6.5k • 🔱 1.2k • 17h ago
 
 ---
 
@@ -705,7 +705,7 @@ The Ultimate Collection of 500+ Agentic Skills for Claude Code/Antigravity/Curso
 
 `Python` `agentic-skills` `ai-agents` `antigravity` `autonomous-coding` `claude-code`
 
-⭐ 5.1k • 🔱 1.1k • 31m ago
+⭐ 5.1k • 🔱 1.1k • 1h ago
 
 ---
 
