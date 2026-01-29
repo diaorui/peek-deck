@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-01-29T19:09:43.227404+00:00'
+updated: '2026-01-29T19:51:25.104340+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- news
 - social
 - videos
+- news
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** January 29, 2026 at 19:09 UTC  
+**Last Updated:** January 29, 2026 at 19:51 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -42,7 +42,7 @@ Working on my first robotics build at the moment and easing my way into it. Any 
 
 **[Figure 03 handling glassware, fully autonomous](https://www.reddit.com/r/robotics/comments/1qpn1dq/figure_03_handling_glassware_fully_autonomous/)**
 
-22h ago
+23h ago
 
 ---
 
@@ -58,7 +58,7 @@ We want to build a community of robotics and computer vision developers who want
 
 Engineers have trained a new humanoid robot to perform realistic lip-syncing not by manually programming every movement, but by having it 'watch' hours of YouTube videos. By visually analyzing human speakers, the robot learned to match its mouth movements to audio with eerie precision.
 
-🔗 [TechSpot](https://www.techspot.com/news/110967-humanoid-robot-learns-realistic-lip-movement-watching-youtube.html) • 11h ago
+🔗 [TechSpot](https://www.techspot.com/news/110967-humanoid-robot-learns-realistic-lip-movement-watching-youtube.html) • 12h ago
 
 ---
 
@@ -80,7 +80,7 @@ We are building a 3d-printable animatronics robots, Mostly the same 3d printed p
 
 Hello , I'm currently doing internship in my college and I have got one month to finish ball balancing bot , I do have some idea, so guys please help me out what are the components are required for doing the project and how to do it that will be grateful and appreciate the suggestion :)
 
-4h ago
+5h ago
 
 ---
 
@@ -102,7 +102,7 @@ Former iRobot CEO Colin Angle talks about how robotics isn’t really a single �
 
 **[I want help with a gazebo project is there any one who knows about gazebo](https://www.reddit.com/r/robotics/comments/1qq3zxu/i_want_help_with_a_gazebo_project_is_there_any/)**
 
-9h ago
+10h ago
 
 ---
 
@@ -170,7 +170,7 @@ Sherwood News • 2d ago
 
 RobCo plans to use the new capital to continue developing its physical AI systems and expand enterprise deployments in the U.S. and Europe.
 
-The Robot Report • 25m ago
+The Robot Report • 1h ago
 
 ---
 
@@ -178,7 +178,7 @@ The Robot Report • 25m ago
 
 Future of the company lies in equipping and running a global fleet of driverless taxis and in selling humanoid robots
 
-Financial Times • 7h ago
+Financial Times • 8h ago
 
 ---
 
@@ -200,7 +200,7 @@ Steve Westly, former Tesla board member and founder of the Westly Group, joins '
 
 📺 CNBC Television
 
-👁️ 482 • 👍 6 • 💬 1 • ⏱️ 3:43 • 1h ago
+👁️ 482 • 👍 6 • 💬 1 • ⏱️ 3:43 • 2h ago
 
 ---
 
@@ -210,7 +210,7 @@ Designed to work safely and naturally around people, Sprout from Fauna Robotics,
 
 📺 Interesting Engineering
 
-👁️ 392 • 👍 51 • ⏱️ 1:40 • 3h ago
+👁️ 392 • 👍 51 • ⏱️ 1:40 • 4h ago
 
 ---
 

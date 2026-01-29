@@ -3,14 +3,14 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-01-29T19:09:43.218244+00:00'
+updated: '2026-01-29T19:51:25.096423+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- news
-- cryptocurrency
 - social
+- cryptocurrency
+- news
 - videos
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** January 29, 2026 at 19:09 UTC  
+**Last Updated:** January 29, 2026 at 19:51 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -79,13 +79,13 @@ Rank #1
 
 **["Should we have a 2% allocation? 5% allocation? If everybody adopted that conversation...it would be $500k, $600k, $700k per bitcoin."](https://www.reddit.com/r/Bitcoin/comments/1qqcyfl/should_we_have_a_2_allocation_5_allocation_if/)**
 
-2h ago
+3h ago
 
 ---
 
 **[Do you see the selloff?](https://www.reddit.com/r/Bitcoin/comments/1qqff0n/do_you_see_the_selloff/)**
 
-1h ago
+2h ago
 
 ---
 
@@ -99,7 +99,7 @@ Buy Now Thank Me later
 
 **[😂](https://www.reddit.com/r/Bitcoin/comments/1qq31l2/_/)**
 
-10h ago
+11h ago
 
 ---
 
@@ -107,7 +107,7 @@ Buy Now Thank Me later
 
 Bitcoin CEO furious about market manipulation: “we must stop market manipulation”
 
-42m ago
+1h ago
 
 ---
 
@@ -115,7 +115,7 @@ Bitcoin CEO furious about market manipulation: “we must stop market manipulati
 
 Crazy to think I owned 18.2 btc in early 2020 and sold before it reach 73 something I think it was. Now I live check to check. HODL your investments, don’t sell
 
-13h ago
+14h ago
 
 ---
 
@@ -131,13 +131,13 @@ I gotta stop getting hammered before I trade, But its sooooo profitable.. .
 
 Home come every time I buy a dip…it dips even further an hour later? I’ve been buying today as it drops. Then after I buy, It drops even further. Just really ranting. Not expecting a rational answer.
 
-32m ago
+1h ago
 
 ---
 
 **[BTC be like](https://www.reddit.com/r/Bitcoin/comments/1qqho76/btc_be_like/)**
 
-7m ago
+49m ago
 
 ---
 
@@ -145,7 +145,7 @@ Home come every time I buy a dip…it dips even further an hour later? I’ve be
 
 LOLLLL just saw this post on Blossom Social
 
-2h ago
+3h ago
 
 ---
 
@@ -165,7 +165,7 @@ Mashable • 1h ago
 
 Bellwether crypto exchange Coinbase was lower for an 8th straight session on Thursday to its weakest level since May.
 
-CoinDesk • 11m ago
+CoinDesk • 53m ago
 
 ---
 
@@ -173,7 +173,7 @@ CoinDesk • 11m ago
 
 Bitcoin was largely unmoved this week — until Thursday.  The biggest cryptocurrency brought down other major digital coins.  Crypto sold off with stocks over AI spending fears.
 
-dlnews.com • 17m ago
+dlnews.com • 59m ago
 
 ---
 
@@ -253,7 +253,7 @@ A list of known attacks against Bitcoin / crypto asset owning entities that occu
 
 **[Single Bitcoin entity keeping BTC price suppressed below $90K](https://news.ycombinator.com/item?id=46812350)**
 
-⬆️ 1 • 💬 0 • 2h ago • [msn.com](https://www.msn.com/en-us/money/markets/single-bitcoin-entity-keeping-btc-price-suppressed-below-90k-analysis/ar-AA1VfVZb)
+⬆️ 1 • 💬 0 • 3h ago • [msn.com](https://www.msn.com/en-us/money/markets/single-bitcoin-entity-keeping-btc-price-suppressed-below-90k-analysis/ar-AA1VfVZb)
 
 ---
 
@@ -307,7 +307,7 @@ Check out ClashPicks: https://www.clashpicks.com/ **Exchange Partners** Bitunix 
 
 📺 CryptosRUs
 
-👁️ 12K • 👍 980 • 💬 283 • ⏱️ 7:09 • 4h ago
+👁️ 12K • 👍 980 • 💬 283 • ⏱️ 7:09 • 5h ago
 
 ---
 
@@ -337,7 +337,7 @@ BlackRock is doubling down on Bitcoin, and the timing couldn't be more critical.
 
 📺 Discover Crypto
 
-👁️ 6K • 👍 368 • 💬 93 • ⏱️ 56:43 • 2h ago
+👁️ 6K • 👍 368 • 💬 93 • ⏱️ 56:43 • 3h ago
 
 ---
 
@@ -347,7 +347,7 @@ WIN 2000 XRP Start NOW: https://www.btcc.com/market-promotion/bonus2/kol?name=Os
 
 📺 Oscar Ramos
 
-👁️ 7K • 👍 778 • 22h ago
+👁️ 7K • 👍 778 • 23h ago
 
 ---
 
@@ -357,7 +357,7 @@ This is not Bitcoin going up. This is the dollar breaking down in real time. A d
 
 📺 Simply Bitcoin
 
-👁️ 32K • 👍 3K • 💬 375 • ⏱️ 15:53 • 19h ago
+👁️ 32K • 👍 3K • 💬 375 • ⏱️ 15:53 • 20h ago
 
 ---
 
@@ -367,7 +367,7 @@ Take Control of Your Retirement — Grow Crypto & Gold Tax-Advantaged. https://w
 
 📺 Savvy Finance
 
-👁️ 8K • 👍 330 • 💬 21 • ⏱️ 21:44 • 17h ago
+👁️ 8K • 👍 330 • 💬 21 • ⏱️ 21:44 • 18h ago
 
 ---
 
@@ -387,7 +387,7 @@ FREE TRAINING: https://www.bullmania.com EXCHANGES I USE (bybit, pionex): https:
 
 📺 Ivan on Tech
 
-👁️ 6K • 👍 613 • 💬 24 • ⏱️ 33:41 • 1h ago
+👁️ 6K • 👍 613 • 💬 24 • ⏱️ 33:41 • 2h ago
 
 ---
 

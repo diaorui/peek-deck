@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-01-29T19:09:43.209892+00:00'
+updated: '2026-01-29T19:51:25.088966+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- news
-- repositories
 - social
 - videos
+- news
+- repositories
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** January 29, 2026 at 19:09 UTC  
+**Last Updated:** January 29, 2026 at 19:51 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -41,7 +41,7 @@ AI news, discussions, and developments
 
 Hey everyone. I Just published a breakdown on Moltbot: the self-hosted, open-source personal AI assistant that's gone massively viral. The article discusses the main points of my own questions about Moltbot ( what it really is, what are its capabilities, why is therean insane growth... ). Ok, now the only con I have for this project is security draw backs ( not really dove deep into this at all in the article ) : broad system access is given to Moltbot and it is pretty easy to do prompt injection with vulnerabilities if exposed. Which I'd point out is actually easy to misconfigured if not careful. I'd love to get some of my own personal tasks automated ( I love saving time ), but security concerns has me hesitant to experiement. If anyone has methods to ensure full security with this project feel free to let me know, I might even update the blog article with how to avoid the security concerns as for real it is the only thing making me hesitant in trying it myself.
 
-🔗 [Benjamin-RR](https://benjamin-rr.com/blog/moltbot-open-source-ai-assistant?utm_source=reddit&utm_medium=community&utm_campaign=new-blog-promotion&utm_content=r-artificial) • 2h ago
+🔗 [Benjamin-RR](https://benjamin-rr.com/blog/moltbot-open-source-ai-assistant?utm_source=reddit&utm_medium=community&utm_campaign=new-blog-promotion&utm_content=r-artificial) • 3h ago
 
 ---
 
@@ -49,7 +49,7 @@ Hey everyone. I Just published a breakdown on Moltbot: the self-hosted, open-sou
 
 A lot of the discussion around AI right now focuses on code generation: how far it can go, how fast it’s improving, and whether software engineering as a profession is at risk. Here’s how I currently see it. Modern AI systems are extremely good at automation. Given a context and a set of assumptions, they can generate plausible next actions: code, refactors, tests, even architectural sketches. That’s consistent with what these systems are optimized for: prediction and continuation. Judgment is a different kind of problem. Judgment is about deciding whether the assumptions themselves are still valid: Are we solving the right problem? Are we optimizing the right dimension? Should we continue or stop and reframe entirely? That kind of decision isn’t about generating better candidates. It’s about invalidating context, recognizing shifts in constraints, and making strategic calls under uncertainty. Historically, this has been most visible in areas like architecture, system design, and product-level trade-offs... places where failures don’t show up as bugs, but as long-term rigidity or misalignment. From this perspective, AI doesn’t remove the need for engineers, it changes where human contribution matters. Skills shift left: less emphasis on implementation details, more emphasis on problem framing, system boundaries, and assumption-checking. I'm not claiming AI will never do it, but currently it's not optimized for this. Execution scales well. Judgment doesn’t. And that boundary is becoming more visible as everything else accelerates. Curious how people here think about this distinction. Do you see judgment as something fundamentally different from automation, or just a lagging capability that will eventually be absorbed as models improve?
 
-🔗 [Medium](https://medium.com/@a.mandyev/judgment-is-the-last-non-automatable-skill-711507721fd1) • 6h ago
+🔗 [Medium](https://medium.com/@a.mandyev/judgment-is-the-last-non-automatable-skill-711507721fd1) • 7h ago
 
 ---
 
@@ -57,13 +57,13 @@ A lot of the discussion around AI right now focuses on code generation: how far 
 
 Hi all, looking for the most capable photo to video AI tool out currently. It could be paid, free or self hosted - just want something robust that can take a real photo and give it some motion without any wacky variances. A search of previous discussions are all over the place with recs, some of even already outdated. Looking for suggestions based on people’s most recent experience! Any help would be greatly appreciated!
 
-4h ago
+5h ago
 
 ---
 
 **[Amazon Found ‘High Volume’ Of Child Sex Abuse Material in AI Training Data. The tech giant reported hundreds of thousands of cases of suspected child sexual abuse material, but won’t say where it came from](https://www.reddit.com/r/artificial/comments/1qqfl2x/amazon_found_high_volume_of_child_sex_abuse/)**
 
-🔗 [bloomberg.com](https://www.bloomberg.com/news/features/2026-01-29/amazon-found-child-sex-abuse-in-ai-training-data?sref=dZ65CIng) • 1h ago
+🔗 [bloomberg.com](https://www.bloomberg.com/news/features/2026-01-29/amazon-found-child-sex-abuse-in-ai-training-data?sref=dZ65CIng) • 2h ago
 
 ---
 
@@ -71,7 +71,7 @@ Hi all, looking for the most capable photo to video AI tool out currently. It co
 
 We're excited to share our latest podcast episode, where we talk about why some of the best movies fail at the box office only to become cult classics a decade later and whether AI can actually predict the next underground masterpiece by looking at real-time sentiment analysis and "memeable density". The data shows that playing it safe will just not cut it. To stand out and make a movie that will be remembered for decades, you have to throw caution to the wind and take the bold risks that everyone will tell you not to make. We also dive into some of the interesting side-projects we're working on, along with a few weird, off-beat recent news stories about AI. Check it out and hope you enjoy
 
-🔗 [open.substack.com](https://open.substack.com/pub/storyprism/p/story-prism-podcast-ep-7?r=h11e6&utm_campaign=post&utm_medium=web) • 1h ago
+🔗 [open.substack.com](https://open.substack.com/pub/storyprism/p/story-prism-podcast-ep-7?r=h11e6&utm_campaign=post&utm_medium=web) • 2h ago
 
 ---
 
@@ -79,7 +79,7 @@ We're excited to share our latest podcast episode, where we talk about why some 
 
 Amazon is laying off 16,000 employees as AI battle intensifies.[1] Google adds Gemini AI-powered ‘auto browse’ to Chrome.[2] AI tool AlphaGenome predicts how one typo can change a genetic story.[3] Alibaba Introduces Qwen3-Max-Thinking, a Test Time Scaled Reasoning Model with Native Tool Use Powering Agentic Workloads.[4] Sources: [1] https://www.cnn.com/2026/01/28/tech/amazon-layoffs-ai#openweb-convo [2] https://www.theverge.com/news/869731/google-gemini-ai-chrome-auto-browse [3] https://www.sciencenews.org/article/ai-tool-alphagenome-predicts-genetics [4] https://www.marktechpost.com/2026/01/28/alibaba-introduces-qwen3-max-thinking-a-test-time-scaled-reasoning-model-with-native-tool-use-powering-agentic-workloads/
 
-13h ago
+14h ago
 
 ---
 
@@ -99,7 +99,7 @@ Wordsmith Law has issued a claim against legal AI company Wordsmith in an appare
 
 **[DeepSeek releases DeepSeek-OCR 2. 🐋](https://www.reddit.com/r/artificial/comments/1qpw4tw/deepseek_releases_deepseekocr_2/)**
 
-16h ago
+17h ago
 
 ---
 
@@ -133,7 +133,7 @@ The Cloudflare Blog • 5h ago
 
 **[AI models retrace evolution of genetic control elements in the brain](https://phys.org/news/2026-01-ai-retrace-evolution-genetic-elements.html)**
 
-Phys.org • 9m ago
+Phys.org • 51m ago
 
 ---
 
@@ -147,7 +147,7 @@ Reuters • 2h ago
 
 iPhone-maker strikes deal for secretive group that creates technology that analyses facial expressions
 
-Financial Times • 1h ago
+Financial Times • 2h ago
 
 ---
 
@@ -155,7 +155,7 @@ Financial Times • 1h ago
 
 Q.ai was led by Aviad Maizels, who previously sold a startup called PrimeSense to Apple in 2013.
 
-CNBC • 28m ago
+CNBC • 1h ago
 
 ---
 
@@ -171,7 +171,7 @@ Yahoo Finance • 1h ago
 
 Meta's stock pop following the company's latest earnings beat is a sign that investors are OK with hefty AI spending as long as the core business stays strong.
 
-CNBC • 18h ago
+CNBC • 19h ago
 
 ---
 
@@ -179,7 +179,7 @@ CNBC • 18h ago
 
 The tech giant is doubling down on a trend of companies operating with leaner workforces, though it's still on the hunt for rockstar talent.
 
-Business Insider • 36m ago
+Business Insider • 1h ago
 
 ---
 
@@ -187,7 +187,7 @@ Business Insider • 36m ago
 
 Microsoft reported its second quarter earnings after the bell Wednesday.
 
-Yahoo Finance • 3h ago
+Yahoo Finance • 4h ago
 
 ---
 
@@ -201,7 +201,7 @@ Yahoo Finance • 3h ago
 - - —
 Guys, enough is enough. Bullying is a s...
 
-⬆️ 622 • 💬 290 • 19h ago • [McSweeney's Internet Tendency](https://www.mcsweeneys.net/articles/please-dont-say-mean-things-about-the-ai-that-i-just-invested-a-billion-dollars-in)
+⬆️ 622 • 💬 290 • 20h ago • [McSweeney's Internet Tendency](https://www.mcsweeneys.net/articles/please-dont-say-mean-things-about-the-ai-that-i-just-invested-a-billion-dollars-in)
 
 ---
 
@@ -217,7 +217,7 @@ Interactive article explaining the physics of an airfoil and what makes airplane
 
 Or, as they like to call it, the 'AI Skills Hub'. Which was built by PwC because of course it was
 
-⬆️ 383 • 💬 141 • 19h ago • [Mahad Kalam](https://mahadk.com/posts/ai-skills-hub)
+⬆️ 383 • 💬 141 • 20h ago • [Mahad Kalam](https://mahadk.com/posts/ai-skills-hub)
 
 ---
 
@@ -239,7 +239,7 @@ SERA is the first in our family of Open Coding Agents, achieving state-of-the-ar
 
 The rise of LLMs as a useful development tool over the last year or so has been significant. The power and flexibility of tools like Claude Code and ChatGPT have given a lot of functionality both to experienced developers and new developers alike. But there are trade-offs.
 
-⬆️ 196 • 💬 104 • 21h ago • [jellyfin.org](https://jellyfin.org/docs/general/contributing/llm-policies/)
+⬆️ 196 • 💬 104 • 22h ago • [jellyfin.org](https://jellyfin.org/docs/general/contributing/llm-policies/)
 
 ---
 
@@ -263,7 +263,7 @@ Thriving in a world of agents
 
 A lot of vendors pitch AI SRE. We tested 14 models across 11 programming languages; even the best ones struggle with instrumenting code with the leading open-source standard, OpenTelemetry.
 
-⬆️ 102 • 💬 53 • 3h ago • [Quesma](https://quesma.com/blog/introducing-otel-bench/)
+⬆️ 102 • 💬 53 • 4h ago • [Quesma](https://quesma.com/blog/introducing-otel-bench/)
 
 ---
 
@@ -271,7 +271,7 @@ A lot of vendors pitch AI SRE. We tested 14 models across 11 programming languag
 
 Mozilla is looking to deploy its roughly $1.4 billion in reserves to support "mission driven" companies and nonprofits, and is particularly focused on AI.
 
-⬆️ 98 • 💬 109 • 2h ago • [CNBC](https://www.cnbc.com/2026/01/27/mozilla-building-an-ai-rebel-alliance-to-take-on-openai-anthropic-.html)
+⬆️ 98 • 💬 109 • 3h ago • [CNBC](https://www.cnbc.com/2026/01/27/mozilla-building-an-ai-rebel-alliance-to-take-on-openai-anthropic-.html)
 
 ---
 
@@ -285,7 +285,7 @@ Nobel Prize winner Geoffrey Hinton, the physicist known for his pioneering work 
 
 📺 LBC
 
-👁️ 68K • 👍 1K • 💬 853 • ⏱️ 8:50 • 21h ago
+👁️ 68K • 👍 1K • 💬 853 • ⏱️ 8:50 • 22h ago
 
 ---
 
@@ -355,7 +355,7 @@ On stage at Imagination In Action's AI Summit in Davos with John Werner, founder
 
 📺 Forbes
 
-👁️ 17K • 👍 567 • 💬 137 • ⏱️ 29:11 • 21h ago
+👁️ 17K • 👍 567 • 💬 137 • ⏱️ 29:11 • 22h ago
 
 ---
 
@@ -365,7 +365,7 @@ Looking into whether we can rely on AI Benchmarks. Try Perplexity Comet browser 
 
 📺 Matt Wolfe
 
-👁️ 18K • 👍 821 • 💬 126 • ⏱️ 23:11 • 21h ago
+👁️ 18K • 👍 821 • 💬 126 • ⏱️ 23:11 • 22h ago
 
 ---
 
@@ -391,7 +391,7 @@ PersonaPlex-7B-v1 is a real-time, full-duplex speech-to-speech conversational mo
 
 `audio-to-audio`
 
-⬇️ 50,776 • ❤️ 1,433 • 19h ago
+⬇️ 50,776 • ❤️ 1,433 • 20h ago
 
 ---
 
@@ -403,7 +403,7 @@ Kimi K2.5 is a native multimodal agentic model with 1T parameters, excelling in 
 
 `image-text-to-text`
 
-⬇️ 21,428 • ❤️ 1,052 • 9h ago
+⬇️ 21,428 • ❤️ 1,052 • 10h ago
 
 ---
 
@@ -681,7 +681,7 @@ LLM驱动的 A/H/美股智能分析器，多数据源行情 + 实时新闻 + Gem
 
 `Python` `agent` `ai` `aigc` `gemini` `llm`
 
-⭐ 6.8k • 🔱 7.5k • 4h ago
+⭐ 6.8k • 🔱 7.5k • 5h ago
 
 ---
 
@@ -711,7 +711,7 @@ The Ultimate Collection of 500+ Agentic Skills for Claude Code/Antigravity/Curso
 
 `Python` `agentic-skills` `ai-agents` `antigravity` `autonomous-coding` `claude-code`
 
-⭐ 5.2k • 🔱 1.2k • 6h ago
+⭐ 5.2k • 🔱 1.2k • 7h ago
 
 ---
 
