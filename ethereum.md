@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-01-30T02:06:39.913193+00:00'
+updated: '2026-01-30T04:21:24.723397+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- cryptocurrency
-- videos
 - social
 - news
+- videos
+- cryptocurrency
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** January 30, 2026 at 02:06 UTC  
+**Last Updated:** January 30, 2026 at 04:21 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -36,33 +36,33 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Price
 
-### $2,747.49
+### $2,741.50
 
 ---
 
 ## Ethereum Chart
 
-**24h:** -7.3%  
-**7d:** -7.4%  
-**30d:** -8.8%  
-**90d:** -29.7%  
-**1y:** -16.9%  
+**24h:** -6.4%  
+**7d:** -6.5%  
+**30d:** -8.0%  
+**90d:** -29.2%  
+**1y:** -16.2%  
 
 ---
 
 ## Ethereum Market Stats
 
-**Market Cap:** $330.87B
+**Market Cap:** $331.27B
 Rank #2
 
 **Circulating Supply:** 120,694,259 ETH
 No max supply
 
 **All-Time High:** $4,946.05
--44.6%
+-44.3%
 
 **All-Time Low:** $0.43
-+632995.4%
++635852.3%
 
 ---
 
@@ -72,7 +72,7 @@ No max supply
 
 Hey everyone! Liquity V2 here. We launched on Ethereum Mainnet on in Q2 2025, and have racked up $150m in TVL and $39m in BOLD supply. You might know us from Liquity V1 and LUSD (the OG venue for 0% interest loans). With V2, we feel we've created the ultimate borrowing and earning venue for users who value complete control. Liquity V2 is an immutable borrowing protocol (think MakerDAO, but with no governance to change the rules), where you can deposit ETH, wstETH, and rETH to mint the stablecoin, $BOLD. BOLD is only backed by said assets, and the protocol is completely immutable. We built Liquity V2 to solve two specific problems, offering unique value to the r/Ethereum community: 1) The Borrow Side: You set the rate. Liquity V2 is the only venue where you can borrow against your ETH/LSTs and set your own interest rate (or delegate it to a rate manager). This had led to borrowing rates for ETH, wstETH, and rETH on average to be the cheapest on Liquity V2 over the last 6 months - a full 2% cheaper than the competition. https://preview.redd.it/fx7vj767lbgg1.png?width=1216&format=png&auto=webp&s=a9e95a3324fdc548b9ee62e8621030a7add2f5f0 2) The Yield Side: Real Revenue, Not Emissions We created $BOLD to be the hardest stablecoin in DeFi that has sustainable savings built in. Unlike other stablecoins, 100% of borrower revenues are diverted towards growing $BOLD yield. The yield is split 75/25 to two specific venues sources: 75% of interest fees to the Stablity Pools: 75% of all interest paid by borrowers of ETH, wstETH, and rETH flows directly to their respective Stability Pools. The Stability Pools also allow depositors to capture ETH and LST liquidation gains at a discount. 25% of Interest Fees flow into growing BOLD liquidity on DEXes: Each week, roughly ~12k of protocol revenues are diverted into venues like Uniswap and Curve. This helps boost and enshrine liquidity for BOLD on blue-chip venues. Based on current rates, here is how you can capture that yield, with relatively low risk: If you want exposure to some ETH along with borrower fees: Stability Pool (~6% APY): The "set and forget" venue. You earn the 75% borrower interest split (paid in BOLD) + Liquidation gains (paid in ETH/LSTs). If you want pure dollar-dominated yield, where ETH liquidation gains get auto-compounded yBOLD via Yearn (~7% APY): Yearn’s auto-compounding vault that optimizes for the best yields across the 3 Stability Pools. sBOLD via K3 Capital (~6.5% APY): An auto-compounding vault that also sells off liquidation ETH gains for more BOLD. It has a fixed 60-30-10 split between the wstETH, ETH, and rETH Stability Pools. If you want to provide liquidity on a blue-chip DEX, while having balanced exposure to BOLD & USDC. Uniswap LP BOLD ><USDC (~7% APY) Curve LP BOLD >< USDC (~8% APY) BOLD yield opportunities Forkonomics and how it adds to yield. Liquity has taken a licensing approach to scaling. 10 teams have forked Liquity V2 code across various ecosystems, and as a part of their licensing fee, they have to allocate ~3% of their token supply to Liquity Mainnet users. These forks are allocating supply designated towards rewarding active BOLD liquidity providers on Mainnet (Stability Pool holders, LP providers on Curve & Uniswap, etc). On top of the organic yield above, we expect ~6 friendly forks providing airdrops over the next 6-9 months. The Impact: The first fork airdrop just went live, and it effectively added ~3% APR to the existing TVL sitting in those venues (eg. if you were earning 9% on Curve, you're earning 12% now) The Opportunity: By holding BOLD positions on Mainnet, you are farming yield for protocols launching across the L2 ecosystem simultaneously Safety and Security of Liquity V2 and BOLD. No yield is safe without addressing how the robust the stablecoin is. Bluechip, a stablecoin ratings agency, just rated BOLD an A-. This is a higher rating than USDC and DAI, furthering proof of The Score: BOLD received perfect 1.0 scores in Management, Decentralization, and Governance. The Distinction: BOLD is currently the only A- rated stablecoin with 100% crypto-native backing (no banks, no RWAs). Why? The protocol is immutable. Liquity cannot change the rules, rug the collateral, or blacklist addresses. BOLD rating. You can read more on Bluechip's A- rating on BOLD here: https://x.com/LiquityProtocol/status/2015798256186360000 Some useful resources on stats around Liquity V2, and yield opportunities: Borrow on Liquity V2 today: https://www.liquity.org/frontend-v2 Yield venues with links included: https://dune.com/liquity/liquity-v2-yields YouTube Playlist on Liquity V2: https://www.youtube.com/watch?v=o1miCKLIPYs&list=PL4NlNvaPAvJ-51WBhFdBcK3BFA0Fk32rE Happy to answer any and all questions :)
 
-9h ago
+11h ago
 
 ---
 
@@ -80,7 +80,7 @@ Hey everyone! Liquity V2 here. We launched on Ethereum Mainnet on in Q2 2025, an
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-20h ago
+22h ago
 
 ---
 
@@ -88,7 +88,15 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.
 
-🔗 [youtu.be](https://youtu.be/7jvfkuaV2UI) • 5h ago
+🔗 [youtu.be](https://youtu.be/7jvfkuaV2UI) • 8h ago
+
+---
+
+**[Highlights from the All Core Developers Execution (ACDE) Call #229](https://www.reddit.com/r/ethereum/comments/1qqunju/highlights_from_the_all_core_developers_execution/)**
+
+Ethereum developers used ACDE #229 to shift focus toward Devnet-2 readiness, execution optimizations & repricing as Glamsterdam moves from scoping into testing.
+
+🔗 [EtherWorld.co](https://etherworld.co/highlights-from-the-all-core-developers-execution-acde-call-229/) • 34m ago
 
 ---
 
@@ -96,7 +104,7 @@ Enjoy the videos and music you love, upload original content, and share it all w
 
 TheDAO is back & it’s bullish! TheDAO Security Fund will activate more than 75,000 ETH (over $225M) to strengthen Ethereum’s security, ensuring it is ready to become the backbone of the world’s financial infrastructure. A decade after TheDAO saga began, we’re opening a new chapter in its story
 
-🔗 [TheDAO Security Fund](https://paragraph.com/@thedao.fund/thedao-security-fund-activating-75000-eth-for-ethereum-security) • 2h ago
+🔗 [TheDAO Security Fund](https://paragraph.com/@thedao.fund/thedao-security-fund-activating-75000-eth-for-ethereum-security) • 4h ago
 
 ---
 
@@ -104,7 +112,7 @@ TheDAO is back & it’s bullish! TheDAO Security Fund will activate more than 75
 
 An unprecedented year for Ethereum. 10 year anniversary x 0 downtime. 2 Upgrades. Funding remains a challenge.
 
-🔗 [X (formerly Twitter)](https://x.com/ProtocolGuild/status/2016969171905761459?s=20) • 5h ago
+🔗 [X (formerly Twitter)](https://x.com/ProtocolGuild/status/2016969171905761459?s=20) • 7h ago
 
 ---
 
@@ -112,7 +120,7 @@ An unprecedented year for Ethereum. 10 year anniversary x 0 downtime. 2 Upgrades
 
 To maximize Ethereum’s neutrality, we propose that the Hegotá upgrade includes both FOCIL and encrypted mempools. This would complete the Holy Trinity of Censorship Resistance, achieving system-level defense against transaction censorship.
 
-🔗 [EtherWorld.co](https://etherworld.co/hegota-should-complete-the-holy-trinity-of-censorship-resistance/) • 15h ago
+🔗 [EtherWorld.co](https://etherworld.co/hegota-should-complete-the-holy-trinity-of-censorship-resistance/) • 18h ago
 
 ---
 
@@ -138,31 +146,29 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 ---
 
-**[Unstaking stETH without delay](https://www.reddit.com/r/ethereum/comments/1qpbx0c/unstaking_steth_without_delay/)**
-
-Sorry if it was asked by past, i couldn't find the answer. Question about Lido stETH unstaking instantly, without delay I am having stETH staked on my Ledger Nano X that i'm trying to unstake but on lido page it takes up to a week, isn't there a way to process it faster? Advices appreciated
-
-1d ago
-
----
-
 ---
 
 ## Google News: "ethereum"
+
+**[Key facts: DAO Security Fund to Stake 75,000 ETH; Ethereum Price Fluctuates](https://www.tradingview.com/news/tradingview:514dc07817206:0-key-facts-dao-security-fund-to-stake-75-000-eth-ethereum-price-fluctuates/)**
+
+TradingView • 4h ago
+
+---
+
+**[Ethereum's Oldest Crisis Reborn as a $220 Million Security Fund](https://finance.yahoo.com/news/ethereums-oldest-crisis-reborn-220-223532034.html)**
+
+Unclaimed Ethereum from a decade-long hack will be staked and distributed to fund audits, tooling, and incident responses.
+
+Yahoo Finance • 5h ago
+
+---
 
 **[Ethereum's Oldest Crisis Reborn as a $220 Million Security Fund](https://decrypt.co/356404/ethereum-crisis-reborn-220-million-security-fund)**
 
 Unclaimed Ethereum from a decade-long hack will be staked and distributed to fund audits, tooling, and incident responses.
 
-Decrypt • 3h ago
-
----
-
-**[Ethereum to launch standard for AI agent economy on mainnet this week](https://www.theblock.co/post/387345/ethereum-ai-agentic-economy-mainnet)**
-
-The ERC-8004 proposal aims to let AI agents interact with entities on Ethereum, allowing them to participate in a decentralized economy.
-
-The Block • 1d ago
+Decrypt • 5h ago
 
 ---
 
@@ -170,7 +176,7 @@ The Block • 1d ago
 
 Tom Lee has urged investors not to let the rally in gold and silver divert attention from Ethereum. BitMine continues to build its Ethereum position. ...
 
-Yahoo Finance • 16h ago
+Yahoo Finance • 18h ago
 
 ---
 
@@ -184,7 +190,7 @@ Binance • 2d ago
 
 Ether BITSTAMP:ETHUSD is now more than 14% below its local peak near $3,400, underscoring the sellers’ tenacity above $3,000. A bearish technical setup suggests the pressure may extend into February.Key takeaways: Ether in textbook symmetrical triangle breakdownOn Thursday, ETH fell about 2.85% to…
 
-TradingView • 17h ago
+TradingView • 20h ago
 
 ---
 
@@ -200,7 +206,7 @@ The Motley Fool • 3d ago
 
 The crypto market is under pressure today, with Bitcoin, Ethereum, and XRP all trading lower as selling activity picks up across major tokens. The total
 
-Coinpedia Fintech News • 11h ago
+Coinpedia Fintech News • 13h ago
 
 ---
 
@@ -220,37 +226,9 @@ thedefiant.io • 3d ago
 
 ---
 
-**[Tom Lee Claims Parabolic Gold and Silver Move Is Masking Bullish Bitcoin and Ethereum Signals](https://www.ccn.com/news/crypto/tom-lee-claims-parabolic-gold-and-silver-move-is-masking-bullish-bitcoin-and-ethereum-signals/)**
-
-Gold and silver’s surge has overshadowed Bitcoin and Ethereum fundamentals, says Tom Lee, who forecasts an incoming crypto price rally.
-
-CCN.com • 2d ago
-
----
-
 ---
 
 ## YouTube Videos: "ethereum"
-
-**[ETH Loses Support, This Is The Setup We’re Watching](https://www.youtube.com/watch?v=yYD9cCVxI48)**
-
-Get $450 Off Our New AI Indicators: https://tradeconfidentportal.io/indicators/ New Members! Get 25% Off Your 1st Month: ...
-
-📺 Trade Confident
-
-👁️ 307 • 👍 14 • 💬 14 • ⏱️ 5:01 • 6h ago
-
----
-
-**[Ethereum Elliott Wave Update – Key Resistance Levels Ahead](https://www.youtube.com/watch?v=UzzqPFmjlko)**
-
-This video provides a professional Elliott Wave and technical analysis of Ethereum (ETH), focusing on market structure, major ...
-
-📺 More Crypto Online
-
-👁️ 893 • 👍 83 • 💬 4 • ⏱️ 6:16 • 2h ago
-
----
 
 **[Sell Silver, Buy Ethereum — Here&#39;s Why](https://www.youtube.com/watch?v=pEdmazalwFY)**
 
@@ -258,17 +236,17 @@ Is it time to sell silver and buy Ethereum? In this video, I break down why trad
 
 📺 Michaël van de Poppe
 
-👁️ 2K • 👍 108 • 💬 17 • ⏱️ 12:09 • 11h ago
+👁️ 2K • 👍 110 • 💬 18 • ⏱️ 12:09 • 13h ago
 
 ---
 
-**[🚨 BTC &amp; ETH: SELL ALL BITCOIN AND QUIT CRYPTO!!!!!!!!!](https://www.youtube.com/watch?v=Js9TFiiwSBk)**
+**[ETH Loses Support, This Is The Setup We’re Watching](https://www.youtube.com/watch?v=yYD9cCVxI48)**
 
-The situation is getting worse and worse for crypto. Here are facts and my take on whether its time to sell all bitcoin and just quit!
+Get $450 Off Our New AI Indicators: https://tradeconfidentportal.io/indicators/ New Members! Get 25% Off Your 1st Month: ...
 
-📺 Thomas Kralow
+📺 Trade Confident
 
-👁️ 47K • 👍 3K • 💬 165 • ⏱️ 13:43 • 15h ago
+👁️ 395 • 👍 16 • 💬 14 • ⏱️ 5:01 • 8h ago
 
 ---
 
@@ -278,17 +256,27 @@ BITCOIN & ALTCOIN CRASH: History Repeating (Warning)!!! - Bitcoin News Today, Et
 
 📺 Crypto World
 
-👁️ 4K • 👍 239 • 💬 96 • ⏱️ 25:22 • 3h ago
+👁️ 6K • 👍 283 • 💬 100 • ⏱️ 25:22 • 6h ago
 
 ---
 
-**[WHY Cardano and Ethereum crypto coins are about to EXPLODE!!](https://www.youtube.com/watch?v=rFHVIvMYiiQ)**
+**[🚨 BTC &amp; ETH: SELL ALL BITCOIN AND QUIT CRYPTO!!!!!!!!!](https://www.youtube.com/watch?v=Js9TFiiwSBk)**
 
-Cardano and Ethereum holders... GET READY!! ✓ Bitunix (no kyc, $10000 bonus): https://www.bitunix.com/register?
+The situation is getting worse and worse for crypto. Here are facts and my take on whether its time to sell all bitcoin and just quit!
 
-📺 Altcoin Daily
+📺 Thomas Kralow
 
-👁️ 44K • 👍 2K • 💬 292 • ⏱️ 8:35 • 1d ago
+👁️ 48K • 👍 3K • 💬 170 • ⏱️ 13:43 • 17h ago
+
+---
+
+**[Ethereum Elliott Wave Update – Key Resistance Levels Ahead](https://www.youtube.com/watch?v=UzzqPFmjlko)**
+
+This video provides a professional Elliott Wave and technical analysis of Ethereum (ETH), focusing on market structure, major ...
+
+📺 More Crypto Online
+
+👁️ 1K • 👍 98 • 💬 5 • ⏱️ 6:16 • 5h ago
 
 ---
 
@@ -298,7 +286,7 @@ https://bit.ly/3HLA8ql CLICK HERE Ready to change your financial future? Join To
 
 📺 The Rich Dad Channel
 
-👁️ 2K • 👍 75 • 💬 7 • ⏱️ 33:33 • 6h ago
+👁️ 2K • 👍 86 • 💬 7 • ⏱️ 33:33 • 9h ago
 
 ---
 
@@ -308,27 +296,37 @@ https://bit.ly/3HLA8ql CLICK HERE Ready to change your financial future? Join To
 
 📺 Crossroads
 
-👁️ 4K • 👍 198 • 💬 43 • ⏱️ 11:03 • 11h ago
+👁️ 4K • 👍 212 • 💬 47 • ⏱️ 11:03 • 13h ago
 
 ---
 
-**[Second Largest BTC ETF Bank Chooses Ethereum](https://www.youtube.com/watch?v=Jj5aHU1SY90)**
+**[WHY Cardano and Ethereum crypto coins are about to EXPLODE!!](https://www.youtube.com/watch?v=rFHVIvMYiiQ)**
 
-Fidelity launches their own stablecoin on one of the B.E.S.T. The links below may include affiliate links, which means I may ...
+Cardano and Ethereum holders... GET READY!! ✓ Bitunix (no kyc, $10000 bonus): https://www.bitunix.com/register?
 
-📺 Digital Asset News
+📺 Altcoin Daily
 
-👁️ 7K • 👍 457 • 💬 33 • ⏱️ 14:06 • 1d ago
+👁️ 44K • 👍 2K • 💬 288 • ⏱️ 8:35 • 1d ago
 
 ---
 
-**[&quot;My Latest 2026 ETH Prediction Will Come As a Huge Surprise&quot;: Tom Lee | ETH Price 2026](https://www.youtube.com/watch?v=1MrqcS0b34s)**
+**[A ALTA DAS CRIPTOMOEDAS (ETHEREUM E SOLANA) FOI CANCELADA?](https://www.youtube.com/watch?v=weQPrYv8p80)**
 
-My FREE Daily On-Chain Analysis & Crypto News In 5-Mins: https://www.cryptonutshell.com/subscribe You can NOW ...
+A ALTA DAS CRIPTOMOEDAS (ETHEREUM E SOLANA) FOI CANCELADA? A JANELA INVISÍVEL     ...
 
-📺 Jamie Tree 
+📺 Luiz Fernando
 
-👁️ 2K • 👍 68 • 💬 28 • ⏱️ 16:47 • 1d ago
+👁️ 4K • 👍 344 • 💬 31 • ⏱️ 13:12 • 6h ago
+
+---
+
+**[Ethereum Elliott Wave Update – Key Resistance Levels Ahead](https://www.youtube.com/watch?v=Z4g-YYpAzJQ)**
+
+This video provides a professional Elliott Wave and technical analysis of Ethereum (ETH), focusing on market structure, major ...
+
+📺 More Crypto Online
+
+👁️ 2K • 👍 99 • 💬 10 • ⏱️ 4:28 • 13h ago
 
 ---
 
