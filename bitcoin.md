@@ -3,7 +3,7 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-01-30T22:27:29.725352+00:00'
+updated: '2026-01-30T22:55:49.165787+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
@@ -18,7 +18,7 @@ data_types:
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** January 30, 2026 at 22:27 UTC  
+**Last Updated:** January 30, 2026 at 22:55 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -44,11 +44,11 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Chart
 
-**24h:** -0.5%  
+**24h:** -0.6%  
 **7d:** -5.7%  
 **30d:** -5.3%  
-**90d:** -23.8%  
-**1y:** -17.7%  
+**90d:** -24.0%  
+**1y:** -17.8%  
 
 ---
 
@@ -87,13 +87,13 @@ Rank #1
 
 I wish I had more liquidity!
 
-8h ago
+9h ago
 
 ---
 
 **[Bitcoin president bt the way 😅](https://www.reddit.com/r/Bitcoin/comments/1qr34fh/bitcoin_president_bt_the_way/)**
 
-10h ago
+11h ago
 
 ---
 
@@ -108,6 +108,18 @@ The deal will be too good to pass at that point.
 **[Pack yo bags — bullish for BTC. Who's locking in with me ?](https://www.reddit.com/r/Bitcoin/comments/1qr6uah/pack_yo_bags_bullish_for_btc_whos_locking_in_with/)**
 
 8h ago
+
+---
+
+**[Sliver people acting like it’s such a volatile asset. LMAO](https://www.reddit.com/r/Bitcoin/comments/1qriea6/sliver_people_acting_like_its_such_a_volatile/)**
+
+1h ago
+
+---
+
+**[HODL….Dont Fold 😎](https://www.reddit.com/r/Bitcoin/comments/1qrj823/hodldont_fold/)**
+
+1h ago
 
 ---
 
@@ -127,19 +139,7 @@ The deal will be too good to pass at that point.
 
 Red candles everywhere, BTC dipping hard. Paper hands sweating. Headlines screaming crash. But zoom out: - Halving effects still unfolding - Adoption & institutions not going anywhere This is classic Bitcoin - shakeout before the next leg up. If you believe in it, this dip is your discount window. Stack calmly while others panic. Cheers!
 
-19h ago
-
----
-
-**[Never forget, lettuce hands!](https://www.reddit.com/r/Bitcoin/comments/1qr07nl/never_forget_lettuce_hands/)**
-
-13h ago
-
----
-
-**[Sure Grandma](https://www.reddit.com/r/Bitcoin/comments/1qr0xd6/sure_grandma/)**
-
-12h ago
+20h ago
 
 ---
 
@@ -155,49 +155,41 @@ Yahoo Finance • 7h ago
 
 ---
 
-**[Who is Kevin Warsh: Trump's Fed chair nominee's return sparks bitcoin jitters over rates, balance sheet cuts](https://www.coindesk.com/policy/2026/01/30/who-is-kevin-warsh-here-is-what-trump-nominee-for-fed-chair-said-about-bitcoin-and-rates)**
+**[Kevin Warsh: Markets React as Pro-Bitcoin Economist Tipped for Fed](https://finance.yahoo.com/news/kevin-warsh-markets-react-pro-122358756.html)**
 
-Crypto investors fear tighter monetary policy under Warsh, who once called bitcoin ‘software pretending to be money’ but backed blockchain innovation.
+Only yesterday, we explained how Donald Trump runs his White House like a reality TV competition. Nominees for high office are turned into contestants vying for his approval, and the frontrunner could switch at any minute.Lo and behold, that’s exactly what’s happened in the race to become the next chairman ...
 
-CoinDesk • 5h ago
+Yahoo Finance • 10h ago
 
 ---
 
 **[Bitcoin Slumps to Two-Month Low as US Funds Shed Billions](https://www.bloomberg.com/news/articles/2026-01-30/bitcoin-btc-slumps-to-two-month-low-as-us-funds-shed-billions)**
 
-Bloomberg.com • 6h ago
+Bloomberg.com • 1h ago
 
 ---
 
-**[Amboss Unveils RailsX: Lightning DEX Connects Bitcoin to $9.5 Trillion FX Market](https://finance.yahoo.com/news/amboss-unveils-railsx-lightning-dex-195900979.html)**
+**[Silver Is Trading Like a Shortage Story – Bitcoin Like a Macro Beta Trade](https://finance.yahoo.com/news/silver-trading-shortage-story-bitcoin-204803672.html)**
 
-Amboss Technologies launched RailsX, a Lightning-native, peer-to-peer (P2P) decentralized exchange, at the PlanB Forum in El Salvador on Jan. 30, 2026. Unlike other exchanges that build separate protocol layers, RailsX executes trades entirely via the Lightning Network. Transactions work as circular self-payments: funds route through existing Lightning channels, exchange assets ...
+Silver and Bitcoin have spent much of the past decade being discussed in the same breath, often framed as parallel alternatives to fiat money and beneficiaries of macro stress. That story is currently being put to the test, as the two assets are drifting in wildly different directions in late ...
 
 Yahoo Finance • 2h ago
 
 ---
 
-**[Dollar trade might explain bitcoin's terrible week](https://www.coindesk.com/markets/2026/01/30/anatomy-of-bitcoin-s-plunge-this-week-the-dollar-s-bottom-was-btc-s-top)**
+**[Bitcoin price plunge: Why are crypto prices dropping this time?](https://mashable.com/article/bitcoin-price-plunge-crypto-falls-jan-29)**
 
-It seems like ages ago, but bitcoin rose to just shy of $91,000 on Wednesday. Then the U.S. dollar started to strengthen.
+How low can Bitcoin go?
 
-CoinDesk • 1h ago
-
----
-
-**[U.S. claims $400 million from Helix, a notorious bitcoin mixer used on the darknet](https://www.coindesk.com/policy/2026/01/30/u-s-government-seizes-usd400-million-helix-allegedly-made-from-drug-linked-transactions)**
-
-The assets were seized from Helix operator Larry Dean Harmon, who pleaded guilty to laundering more than $300 million in crypto tied to darknet drug markets.
-
-CoinDesk • 2h ago
+Mashable • 1d ago
 
 ---
 
-**[The Bitcoin Sell-Off Is Getting Worse, but That Won't Stop Me From Buying Even More](https://www.fool.com/investing/2026/01/30/the-bitcoin-sell-off-is-getting-worse-but-it-wont/)**
+**[Bitcoin Mining Profits Hit 14-Month Low After Winter Storm Rocks Miners: CryptoQuant](https://finance.yahoo.com/news/bitcoin-mining-profits-hit-14-220219506.html)**
 
-It's reasonable to say that this coin isn't behaving like a safe harbor asset right now.
+Bitcoin miners are "extremely underpaid" given the price of Bitcoin and current BTC mining conditions, according to a CryptoQuant report.
 
-The Motley Fool • 9h ago
+Yahoo Finance • 53m ago
 
 ---
 
@@ -205,15 +197,23 @@ The Motley Fool • 9h ago
 
 The world’s largest cryptocurrency is down 2% over the past day while gold and silver have dropped 11% and 30%, respectively.
 
-Fortune • 3h ago
+Fortune • 4h ago
 
 ---
 
-**[Bitcoin price today: tumbles to $83k as heavy liquidations, Fed uncertainty weigh](https://www.investing.com/news/cryptocurrency-news/bitcoin-price-today-slumps-to-83k-as-heavy-liquidations-fed-uncertainty-weigh-4475157)**
+**[The Bitcoin Sell-Off Is Getting Worse, but That Won't Stop Me From Buying Even More](https://www.fool.com/investing/2026/01/30/the-bitcoin-sell-off-is-getting-worse-but-it-wont/)**
 
-Bitcoin price today: tumbles to $83k as heavy liquidations, Fed uncertainty weigh
+It's reasonable to say that this coin isn't behaving like a safe harbor asset right now.
 
-Investing.com • 7h ago
+The Motley Fool • 10h ago
+
+---
+
+**[Why Bitcoin’s Pullback May Be Setting Up A Rotation From Gold](https://www.forbes.com/sites/aliceliu/2026/01/29/why-bitcoins-pullback-may-be-setting-up-a-rotation-from-gold/)**
+
+Is Bitcoin near a bottom while gold peaks? Explore crypto liquidations, market cycles, and why investors are eyeing a BTC-long, gold-short rotation
+
+Forbes • 1d ago
 
 ---
 
@@ -221,7 +221,7 @@ Investing.com • 7h ago
 
 Bitcoin also suffered roughly $800 million in liquidations and ETF outflows in the past 24 hours....
 
-Sherwood News • 6h ago
+Sherwood News • 7h ago
 
 ---
 
@@ -247,7 +247,7 @@ A list of known attacks against Bitcoin / crypto asset owning entities that occu
 
 **[Bitcoin's Quantum Computing Threat](https://news.ycombinator.com/item?id=46824834)**
 
-⬆️ 1 • 💬 0 • 7h ago • [bmpro.substack.com](https://bmpro.substack.com/p/bitcoins-quantum-computing-threat)
+⬆️ 1 • 💬 0 • 8h ago • [bmpro.substack.com](https://bmpro.substack.com/p/bitcoins-quantum-computing-threat)
 
 ---
 
@@ -323,7 +323,7 @@ CRYPTO CRISIS AVOIDED?! BREAKING CRYPTO NEWS TODAY! ⭐️ AUSTIN'S STOCK CHANNE
 
 📺 Austin Hilton
 
-👁️ 7K • 👍 649 • 💬 10 • ⏱️ 5:28 • 6h ago
+👁️ 7K • 👍 649 • 💬 10 • ⏱️ 5:28 • 7h ago
 
 ---
 
@@ -333,7 +333,7 @@ Check out ClashPicks: https://www.clashpicks.com/ **Exchange Partners** Bitunix 
 
 📺 CryptosRUs
 
-👁️ 49K • 👍 2K • 💬 565 • ⏱️ 8:41 • 20h ago
+👁️ 49K • 👍 2K • 💬 565 • ⏱️ 8:41 • 21h ago
 
 ---
 
@@ -343,7 +343,7 @@ LIMITED TIME: ✓ Bitunix (no kyc, $700 bonus): https://www.bitunix.com/register
 
 📺 Altcoin Daily
 
-👁️ 64K • 👍 2K • 💬 245 • ⏱️ 8:26 • 22h ago
+👁️ 64K • 👍 2K • 💬 245 • ⏱️ 8:26 • 23h ago
 
 ---
 
@@ -353,7 +353,7 @@ Check out ClashPicks: https://www.clashpicks.com/ **Exchange Partners** Bitunix 
 
 📺 CryptosRUs
 
-👁️ 17K • 👍 990 • 💬 180 • ⏱️ 10:16 • 7h ago
+👁️ 17K • 👍 990 • 💬 180 • ⏱️ 10:16 • 8h ago
 
 ---
 
@@ -363,7 +363,7 @@ It's a terrifying time to be in the markets, especially with Bitcoin so close $8
 
 📺 Crypto Banter
 
-👁️ 13K • 👍 882 • 💬 42 • ⏱️ 36:59 • 10h ago
+👁️ 13K • 👍 882 • 💬 42 • ⏱️ 36:59 • 11h ago
 
 ---
 
@@ -373,7 +373,7 @@ Gold and silver just experienced historic volatility while Bitcoin feels strange
 
 📺 Swan Bitcoin
 
-👁️ 93K • 👍 3K • 💬 430 • ⏱️ 15:38 • 23h ago
+👁️ 93K • 👍 3K • 💬 430 • ⏱️ 15:38 • 1d ago
 
 ---
 
@@ -383,7 +383,7 @@ TOOBIT — CLAIM $50 & 20% SIGN UP BONUS ON YOUR DEPOSIT Limited spots available
 
 📺 100XClub
 
-👁️ 10K • 👍 1K • 💬 244 • ⏱️ 7:50 • 12h ago
+👁️ 10K • 👍 1K • 💬 244 • ⏱️ 7:50 • 13h ago
 
 ---
 

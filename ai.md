@@ -3,7 +3,7 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-01-30T22:27:29.716882+00:00'
+updated: '2026-01-30T22:55:49.158354+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
@@ -18,7 +18,7 @@ data_types:
 
 AI news, discussions, and developments
 
-**Last Updated:** January 30, 2026 at 22:27 UTC  
+**Last Updated:** January 30, 2026 at 22:55 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -43,19 +43,19 @@ AI news, discussions, and developments
 
 ---
 
+**[Top engineers at Anthropic & OpenAI: AI now writes 100% of our code](https://www.reddit.com/r/artificial/comments/1qrjbpc/top_engineers_at_anthropic_openai_ai_now_writes/)**
+
+AI coding tools are getting more sophisticated. But if coders stop coding, what happens to software development jobs?
+
+🔗 [Fortune](https://fortune.com/2026/01/29/100-percent-of-code-at-anthropic-and-openai-is-now-ai-written-boris-cherny-roon/) • 1h ago
+
+---
+
 **[China conditionally approves DeepSeek to buy Nvidia's H200 chips](https://www.reddit.com/r/artificial/comments/1qr1m9o/china_conditionally_approves_deepseek_to_buy/)**
 
 ByteDance, Alibaba and Tencent had been given permission to purchase more than 400,000 H200 chips in total.
 
 🔗 [thestandard.com.hk](https://www.thestandard.com.hk/china-news/article/323159/China-conditionally-approves-DeepSeek-to-buy-Nvidias-H200-chips) • 12h ago
-
----
-
-**[Legal and ethical risk about using real characters in generated pictures](https://www.reddit.com/r/artificial/comments/1qreuwl/legal_and_ethical_risk_about_using_real/)**
-
-Hey, I've been using AI image generation (Genspark, Midjourney, Stable Diffusion) to create pictures and explore a whole fictional lore. I use Nano Banana Pro on Genspark now for some realistic, cozy, and unproblematic scenes with my fictional characters created out of the blue. But I also have a use of AI where I create really risky content, mostly kinky and humiliating situations. Not sexual, but erotic for me as it triggers my fetishes, and definitely intimate and degrading. I explore this interest with some of my own fictional characters. But I recently crossed the line of exploring the use of reference images of real people to keep the character consistent. I know about the ethical, moral, and weird concerns. I'm aware of the unconscious harm I can do as I fetishize these people, and I'm aware I can be a creep who's walking in a gray area. It could be a vast psychological subject about how I fetishize a person, or a weird parasocial relationship with them, as a consolation or imaginary shelter, imagining a relation that will in all likelihood never exist. I may just be very badly coping with this parasocial relationship. I know everything stays completely private. I downloaded locally, I'm generally confident about confidentiality on these websites, I never shared. But lately I've been second-guessing whether this is okay, even if no one ever sees it. I just deactivated the Data Retention option on Genspark and I don't know what it actually does. Does it keep my generated data completely private, not even stored on the servers? I thought it was activated by default, and I just shut it off. Platforms store images on public servers with accessible URLs, deleting conversation history doesn't actually wipe the images, and deepfake laws are evolving fast. Some juridictions are cracking down on non-consensual AI content even if it's not sexual. I'm in France and on this matter, the laws are mainly UE laws. For you, and maybe for people who are doing similar things on AI in servers instead of running it locally, does a purely private use still cross a line ? And privacy-wise, should I actually worry about platforms reviewing flagged images, reporting problematic content, or data breaches exposing everything ? Is there a reason anyone could individually report any image and share it for ethical or legal concerns ? My content is not illegal nor flagged. It could just be really problematic if accidentally discovered, a risk that may be very low. However, I'm leaning toward ditching real faces and sticking to purely fictional characters. But part of me wonders if I'm overthinking this as it's likeky that nothing ever gets shared and no one finds out. Anyone else navigating this gray area, how do you think about it ?
-
-3h ago
 
 ---
 
@@ -67,11 +67,19 @@ Hey everyone. I Just published a breakdown on Moltbot: the self-hosted, open-sou
 
 ---
 
+**[Legal and ethical risk about using real characters in generated pictures](https://www.reddit.com/r/artificial/comments/1qreuwl/legal_and_ethical_risk_about_using_real/)**
+
+Hey, I've been using AI image generation (Genspark, Midjourney, Stable Diffusion) to create pictures and explore a whole fictional lore. I use Nano Banana Pro on Genspark now for some realistic, cozy, and unproblematic scenes with my fictional characters created out of the blue. But I also have a use of AI where I create really risky content, mostly kinky and humiliating situations. Not sexual, but erotic for me as it triggers my fetishes, and definitely intimate and degrading. I explore this interest with some of my own fictional characters. But I recently crossed the line of exploring the use of reference images of real people to keep the character consistent. I know about the ethical, moral, and weird concerns. I'm aware of the unconscious harm I can do as I fetishize these people, and I'm aware I can be a creep who's walking in a gray area. It could be a vast psychological subject about how I fetishize a person, or a weird parasocial relationship with them, as a consolation or imaginary shelter, imagining a relation that will in all likelihood never exist. I may just be very badly coping with this parasocial relationship. I know everything stays completely private. I downloaded locally, I'm generally confident about confidentiality on these websites, I never shared. But lately I've been second-guessing whether this is okay, even if no one ever sees it. I just deactivated the Data Retention option on Genspark and I don't know what it actually does. Does it keep my generated data completely private, not even stored on the servers? I thought it was activated by default, and I just shut it off. Platforms store images on public servers with accessible URLs, deleting conversation history doesn't actually wipe the images, and deepfake laws are evolving fast. Some juridictions are cracking down on non-consensual AI content even if it's not sexual. I'm in France and on this matter, the laws are mainly UE laws. For you, and maybe for people who are doing similar things on AI in servers instead of running it locally, does a purely private use still cross a line ? And privacy-wise, should I actually worry about platforms reviewing flagged images, reporting problematic content, or data breaches exposing everything ? Is there a reason anyone could individually report any image and share it for ethical or legal concerns ? My content is not illegal nor flagged. It could just be really problematic if accidentally discovered, a risk that may be very low. However, I'm leaning toward ditching real faces and sticking to purely fictional characters. But part of me wonders if I'm overthinking this as it's likeky that nothing ever gets shared and no one finds out. Anyone else navigating this gray area, how do you think about it ?
+
+3h ago
+
+---
+
 **[Amazon in Talks to Invest Up to $50 Billion in OpenAI](https://www.reddit.com/r/artificial/comments/1qqtjv8/amazon_in_talks_to_invest_up_to_50_billion_in/)**
 
 Amazon is reportedly in discussions to invest as much as $50 billion in OpenAI, as major technology firms race to secure access to advanced artificial intelligence systems.
 
-🔗 [techputs](https://techputs.com/amazon-openai-50-billion-investment-talks/) • 19h ago
+🔗 [techputs](https://techputs.com/amazon-openai-50-billion-investment-talks/) • 20h ago
 
 ---
 
@@ -107,14 +115,6 @@ Wordsmith Law has issued a claim against legal AI company Wordsmith in an appare
 
 ---
 
-**[The Big Flop: Defining Cult Classics and Using AI to Predict the Next Ones](https://www.reddit.com/r/artificial/comments/1qqexs1/the_big_flop_defining_cult_classics_and_using_ai/)**
-
-We're excited to share our latest podcast episode, where we talk about why some of the best movies fail at the box office only to become cult classics a decade later and whether AI can actually predict the next underground masterpiece by looking at real-time sentiment analysis and "memeable density". The data shows that playing it safe will just not cut it. To stand out and make a movie that will be remembered for decades, you have to throw caution to the wind and take the bold risks that everyone will tell you not to make. We also dive into some of the interesting side-projects we're working on, along with a few weird, off-beat recent news stories about AI. Check it out and hope you enjoy
-
-🔗 [open.substack.com](https://open.substack.com/pub/storyprism/p/story-prism-podcast-ep-7?r=h11e6&utm_campaign=post&utm_medium=web) • 1d ago
-
----
-
 ---
 
 ## Google News: "ai"
@@ -122,58 +122,6 @@ We're excited to share our latest podcast episode, where we talk about why some 
 **[Opinion | Students Are Skipping the Hardest Part of Growing Up](https://www.nytimes.com/2026/01/30/opinion/ai-social-skills-relationships.html)**
 
 The New York Times • 12h ago
-
----
-
-**[Videogame stocks slide on Google's AI model that turns prompts into playable worlds](https://www.reuters.com/business/videogame-stocks-slide-googles-ai-model-that-turns-prompts-into-playable-worlds-2026-01-30/)**
-
-Reuters • 4h ago
-
----
-
-**[Google releases Project Genie AI tool for creating "playable worlds" that can feature copyrighted IP](https://www.gamesindustry.biz/google-releases-project-genie-ai-tool-for-creating-playable-worlds-that-can-feature-copyrighted-ip)**
-
-But legal expert Pete Lewin from Wiggin argues that the companies behind this kind of tech can expect to face "greater scrutiny and pushback from IP owners"
-
-GamesIndustry.biz • 9h ago
-
----
-
-**[Unity, Video Game Stocks Fall as Google’s AI Tool Sparks Fears](https://www.bloomberg.com/news/articles/2026-01-30/unity-video-game-stocks-fall-as-google-s-ai-tool-genie-sparks-fears)**
-
-Bloomberg.com • 1h ago
-
----
-
-**[Expert Voices: Khosla's Ethan Choi on Alex Pretti, and why AI failures will come faster](https://www.axios.com/pro/all-deals/2026/01/30/khosla-ethan-choi-alex-pretti)**
-
-And why South Korea is the next rising AI superpower
-
-Axios • 1h ago
-
----
-
-**[Introducing Moltworker: a self-hosted personal AI agent, minus the minis](https://blog.cloudflare.com/moltworker-self-hosted-ai-agent/)**
-
-Moltworker is a middleware Worker and adapted scripts that allows running Moltbot (formerly Clawdbot) on Cloudflare's Sandbox SDK and our Developer Platform APIs. So you can self-host an AI personal assistant — without any new hardware.
-
-The Cloudflare Blog • 1d ago
-
----
-
-**[Is Your Workplace Set Up for AI Agents?](https://hbr.org/2026/01/is-your-workplace-set-up-for-ai-agents)**
-
-AI’s true productivity gains require redesigning organizations, not merely adding AI to human-centered systems—much like factories once had to redesign around electricity. Current productivity estimates underestimate AI because they assume task automation within existing structures. Real gains come from restructuring data into machine-readable formats, exposing systems through APIs, and eliminating silos so agents can work across domains. As AI reduces coordination and cognitive limits, human roles should shift from execution to ownership and verification—defining goals, making value-based judgments, and ensuring accountability. With proper safeguards, agent-first organizations can achieve transformative, not marginal, improvements.
-
-Harvard Business Review • 8h ago
-
----
-
-**[I Let Google's ‘Auto Browse’ AI Agent Take Over Chrome. It Didn't Quite Click](https://www.wired.com/story/google-chrome-auto-browse-hands-on/)**
-
-Auto Browse can shop for clothes, plan a trip, and buy tickets for you. Or at least, that’s the idea.
-
-WIRED • 1h ago
 
 ---
 
@@ -185,11 +133,63 @@ Anthropic • 1d ago
 
 ---
 
+**[Andreessen, Horowitz Fuel AI Industry’s $51 Million Midterm Haul](https://www.bloomberg.com/news/articles/2026-01-30/andreessen-horowitz-fuel-ai-industry-s-51-million-midterm-haul)**
+
+Bloomberg.com • 37m ago
+
+---
+
+**[Is Your Workplace Set Up for AI Agents?](https://hbr.org/2026/01/is-your-workplace-set-up-for-ai-agents)**
+
+AI’s true productivity gains require redesigning organizations, not merely adding AI to human-centered systems—much like factories once had to redesign around electricity. Current productivity estimates underestimate AI because they assume task automation within existing structures. Real gains come from restructuring data into machine-readable formats, exposing systems through APIs, and eliminating silos so agents can work across domains. As AI reduces coordination and cognitive limits, human roles should shift from execution to ownership and verification—defining goals, making value-based judgments, and ensuring accountability. With proper safeguards, agent-first organizations can achieve transformative, not marginal, improvements.
+
+Harvard Business Review • 9h ago
+
+---
+
+**[Personal AI Agents like OpenClaw Are a Security Nightmare](https://blogs.cisco.com/ai/personal-ai-agents-like-openclaw-are-a-security-nightmare)**
+
+This blog is written in collaboration by Amy Chang, Vineeth Sai Narajala, and Idan Habler Over the past few weeks, Clawdbot (then renamed Moltbot, later
+
+Cisco Blogs • 1d ago
+
+---
+
+**[AI agents now have their own Reddit-style social network, and it’s getting weird fast](https://arstechnica.com/information-technology/2026/01/ai-agents-now-have-their-own-reddit-style-social-network-and-its-getting-weird-fast/)**
+
+Moltbook lets 32,000 AI bots trade jokes, tips, and complaints about humans.
+
+Ars Technica • 43m ago
+
+---
+
+**[Man charged with child pornography in Waukesha County under new AI law](https://www.jsonline.com/story/news/crime/2026/01/30/man-charged-with-child-pornography-in-waukesha-county-under-new-ai-law/88395323007/)**
+
+Prosecutors charged Aidan Brewis, 20, with possession of virtual child pornography, a class-D felony that was put on the books in Wisconsin in 2024.
+
+Milwaukee Journal Sentinel • 1h ago
+
+---
+
+**[Exclusive: Longtime Google DeepMind researcher David Silver leaves to found his own AI startup](https://fortune.com/2026/01/30/google-deepmind-ai-researcher-david-silver-leaves-to-found-ai-startup-ineffable-intelligence/)**
+
+Silver’s new Ineffable Intelligence aims to develop “superintelligence” using the same AI methods that led to Google DeepMind breakthroughs like AlphaGo.
+
+Fortune • 8h ago
+
+---
+
 **[Former Google engineer found guilty of espionage and theft of AI tech](https://www.cnbc.com/2026/01/30/former-google-engineer-found-guilty-of-espionage-and-theft-of-ai-tech.html)**
 
 The case marks the first conviction on AI-related economic espionage charges in the U.S., according to the Department of Justice.
 
 CNBC • 3h ago
+
+---
+
+**[Ex-Google Engineer Convicted of Stealing A.I. Secrets for Start-Up in China](https://www.nytimes.com/2026/01/29/business/ai-secrets-stolen-google-china.html)**
+
+The New York Times • 23h ago
 
 ---
 
@@ -203,7 +203,7 @@ CNBC • 3h ago
 - - —
 Guys, enough is enough. Bullying is a s...
 
-⬆️ 663 • 💬 307 • 1d ago • [McSweeney's Internet Tendency](https://www.mcsweeneys.net/articles/please-dont-say-mean-things-about-the-ai-that-i-just-invested-a-billion-dollars-in)
+⬆️ 664 • 💬 307 • 1d ago • [McSweeney's Internet Tendency](https://www.mcsweeneys.net/articles/please-dont-say-mean-things-about-the-ai-that-i-just-invested-a-billion-dollars-in)
 
 ---
 
@@ -211,7 +211,7 @@ Guys, enough is enough. Bullying is a s...
 
 Interactive article explaining the physics of an airfoil and what makes airplanes fly
 
-⬆️ 524 • 💬 59 • 2d ago • [ciechanow.ski](https://ciechanow.ski/airfoil/)
+⬆️ 525 • 💬 59 • 2d ago • [ciechanow.ski](https://ciechanow.ski/airfoil/)
 
 ---
 
@@ -219,7 +219,7 @@ Interactive article explaining the physics of an airfoil and what makes airplane
 
 Or, as they like to call it, the 'AI Skills Hub'. Which was built by PwC because of course it was
 
-⬆️ 398 • 💬 145 • 1d ago • [Mahad Kalam](https://mahadk.com/posts/ai-skills-hub)
+⬆️ 399 • 💬 145 • 1d ago • [Mahad Kalam](https://mahadk.com/posts/ai-skills-hub)
 
 ---
 
@@ -227,13 +227,13 @@ Or, as they like to call it, the 'AI Skills Hub'. Which was built by PwC because
 
 Anthropic is an AI safety and research company that's working to build reliable, interpretable, and steerable AI systems.
 
-⬆️ 366 • 💬 290 • 16h ago • [anthropic.com](https://www.anthropic.com/research/AI-assistance-coding-skills)
+⬆️ 390 • 💬 304 • 17h ago • [anthropic.com](https://www.anthropic.com/research/AI-assistance-coding-skills)
 
 ---
 
 **[The tech market is fundamentally fucked up and AI is just a scapegoat](https://news.ycombinator.com/item?id=46809069)**
 
-⬆️ 308 • 💬 214 • 1d ago • [bayramovanar.substack.com](https://bayramovanar.substack.com/p/tech-market-is-fucked-up)
+⬆️ 309 • 💬 214 • 1d ago • [bayramovanar.substack.com](https://bayramovanar.substack.com/p/tech-market-is-fucked-up)
 
 ---
 
@@ -241,7 +241,7 @@ Anthropic is an AI safety and research company that's working to build reliable,
 
 Moltworker is a middleware Worker and adapted scripts that allows running Moltbot (formerly Clawdbot) on Cloudflare's Sandbox SDK and our Developer Platform APIs. So you can self-host an AI personal assistant — without any new hardware.
 
-⬆️ 227 • 💬 65 • 1d ago • [The Cloudflare Blog](https://blog.cloudflare.com/moltworker-self-hosted-ai-agent/)
+⬆️ 229 • 💬 65 • 1d ago • [The Cloudflare Blog](https://blog.cloudflare.com/moltworker-self-hosted-ai-agent/)
 
 ---
 
@@ -249,7 +249,7 @@ Moltworker is a middleware Worker and adapted scripts that allows running Moltbo
 
 AI assistance produces significant productivity gains across professional domains, particularly for novice workers. Yet how this assistance affects the development of skills required to effectively supervise AI remains unclear. Novice workers who rely heavily on AI to complete unfamiliar tasks may compromise their own skill acquisition in the process. We conduct randomized experiments to study how developers gained mastery of a new asynchronous programming library with and without the assistance of AI. We find that AI use impairs conceptual understanding, code reading, and debugging abilities, without delivering significant efficiency gains on average. Participants who fully delegated coding tasks showed some productivity improvements, but at the cost of learning the library. We identify six distinct AI interaction patterns, three of which involve cognitive engagement and preserve learning outcomes even when participants receive AI assistance. Our findings suggest that AI-enhanced productivity is not a shortcut to competence and AI assistance should be carefully adopted into workflows to preserve skill formation -- particularly in safety-critical domains.
 
-⬆️ 227 • 💬 5 • 15h ago • [arXiv.org](https://arxiv.org/abs/2601.20245)
+⬆️ 228 • 💬 5 • 15h ago • [arXiv.org](https://arxiv.org/abs/2601.20245)
 
 ---
 
@@ -273,7 +273,7 @@ AISLE's autonomous analyzer found all 12 CVEs in the January 2026 coordinated re
 
 A lot of vendors pitch AI SRE. We tested 14 models across 11 programming languages; even the best ones struggle with instrumenting code with the leading open-source standard, OpenTelemetry.
 
-⬆️ 141 • 💬 81 • 1d ago • [Quesma](https://quesma.com/blog/introducing-otel-bench/)
+⬆️ 142 • 💬 81 • 1d ago • [Quesma](https://quesma.com/blog/introducing-otel-bench/)
 
 ---
 
@@ -377,7 +377,7 @@ Big U.S. companies, including Amazon, are laying off tens of thousands of jobs. 
 
 📺 KTVU FOX 2 San Francisco
 
-👁️ 9K • 👍 119 • 💬 399 • ⏱️ 3:22 • 15h ago
+👁️ 9K • 👍 119 • 💬 399 • ⏱️ 3:22 • 16h ago
 
 ---
 
@@ -393,7 +393,7 @@ Kimi K2.5 is a native multimodal agentic model with 1T parameters, excelling in 
 
 `image-text-to-text`
 
-⬇️ 25,438 • ❤️ 1,165 • 17h ago
+⬇️ 25,438 • ❤️ 1,165 • 18h ago
 
 ---
 
@@ -489,7 +489,7 @@ LightOnOCR-2-1B is an efficient 1B-parameter end-to-end vision-language model fo
 
 `image-text-to-text` `1.0B`
 
-⬇️ 27,393 • ❤️ 442 • 9h ago
+⬇️ 27,393 • ❤️ 442 • 10h ago
 
 ---
 
@@ -501,7 +501,7 @@ PaddleOCR-VL-1.5 is a multilingual Vision-Language Model (VLM) built on ERNIE 4.
 
 `image-text-to-text` `958.6M`
 
-⬇️ 216 • ❤️ 217 • 16h ago
+⬇️ 216 • ❤️ 217 • 17h ago
 
 ---
 
@@ -531,7 +531,7 @@ LingBot-World is an open-source world simulator with high-fidelity dynamics, lon
 
 The Qwen3-TTS series presents advanced multilingual text-to-speech models with voice cloning and controllable speech generation capabilities, utilizing dual-track LM architecture and specialized speech tokenizers for efficient streaming synthesis.
 
-▲ 54 • 💬 1 • ⭐ 6,108 • 8d ago
+▲ 54 • 💬 1 • ⭐ 6,108 • 9d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2601.15621) • [💻 code](https://github.com/QwenLM/Qwen3-TTS)
 
@@ -703,7 +703,7 @@ The Ultimate Collection of 500+ Agentic Skills for Claude Code/Antigravity/Curso
 
 `Python` `agentic-skills` `ai-agents` `antigravity` `autonomous-coding` `claude-code`
 
-⭐ 5.6k • 🔱 1.2k • 2h ago
+⭐ 5.6k • 🔱 1.2k • 3h ago
 
 ---
 
