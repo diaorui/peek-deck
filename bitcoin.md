@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-01-30T20:32:47.469440+00:00'
+updated: '2026-01-30T21:28:50.380293+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- cryptocurrency
-- videos
 - social
 - news
+- cryptocurrency
+- videos
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** January 30, 2026 at 20:32 UTC  
+**Last Updated:** January 30, 2026 at 21:28 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -54,17 +54,17 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1644.51B
+**Market Cap:** $1683.62B
 Rank #1
 
-**Circulating Supply:** 19,982,362 BTC
+**Circulating Supply:** 19,982,409 BTC
 95.2% of max
 
 **All-Time High:** $126,080.00
--34.7%
+-33.2%
 
 **All-Time Low:** $67.81
-+121327.5%
++124077.8%
 
 ---
 
@@ -81,13 +81,13 @@ Rank #1
 
 I wish I had more liquidity!
 
-6h ago
+7h ago
 
 ---
 
 **[Bitcoin president bt the way 😅](https://www.reddit.com/r/Bitcoin/comments/1qr34fh/bitcoin_president_bt_the_way/)**
 
-8h ago
+9h ago
 
 ---
 
@@ -95,31 +95,31 @@ I wish I had more liquidity!
 
 The deal will be too good to pass at that point.
 
-4h ago
+5h ago
 
 ---
 
 **[Pack yo bags — bullish for BTC. Who's locking in with me ?](https://www.reddit.com/r/Bitcoin/comments/1qr6uah/pack_yo_bags_bullish_for_btc_whos_locking_in_with/)**
 
-6h ago
+7h ago
 
 ---
 
 **[Soo, who all is buying?](https://www.reddit.com/r/Bitcoin/comments/1qr6njb/soo_who_all_is_buying/)**
 
-6h ago
+7h ago
 
 ---
 
 **[Kevin Warsh's view on Bitcoin:](https://www.reddit.com/r/Bitcoin/comments/1qr7vmx/kevin_warshs_view_on_bitcoin/)**
 
-5h ago
+6h ago
 
 ---
 
 **[Here we goooo](https://www.reddit.com/r/Bitcoin/comments/1qqkg06/here_we_goooo/)**
 
-23h ago
+1d ago
 
 ---
 
@@ -127,19 +127,19 @@ The deal will be too good to pass at that point.
 
 Red candles everywhere, BTC dipping hard. Paper hands sweating. Headlines screaming crash. But zoom out: - Halving effects still unfolding - Adoption & institutions not going anywhere This is classic Bitcoin - shakeout before the next leg up. If you believe in it, this dip is your discount window. Stack calmly while others panic. Cheers!
 
-17h ago
+18h ago
 
 ---
 
 **[Never forget, lettuce hands!](https://www.reddit.com/r/Bitcoin/comments/1qr07nl/never_forget_lettuce_hands/)**
 
-11h ago
+12h ago
 
 ---
 
 **[Sure Grandma](https://www.reddit.com/r/Bitcoin/comments/1qr0xd6/sure_grandma/)**
 
-10h ago
+11h ago
 
 ---
 
@@ -151,7 +151,7 @@ Red candles everywhere, BTC dipping hard. Paper hands sweating. Headlines scream
 
 Warsh has praised bitcoin as a tool to guide policy, not as a competitor to the dollar.
 
-Yahoo Finance • 5h ago
+Yahoo Finance • 6h ago
 
 ---
 
@@ -159,13 +159,13 @@ Yahoo Finance • 5h ago
 
 Only yesterday, we explained how Donald Trump runs his White House like a reality TV competition. Nominees for high office are turned into contestants vying for his approval, and the frontrunner could switch at any minute.Lo and behold, that’s exactly what’s happened in the race to become the next chairman ...
 
-Yahoo Finance • 8h ago
+Yahoo Finance • 9h ago
 
 ---
 
 **[Bitcoin Slumps to Two-Month Low as US Funds Shed Billions](https://www.bloomberg.com/news/articles/2026-01-30/bitcoin-btc-slumps-to-two-month-low-as-us-funds-shed-billions)**
 
-Bloomberg.com • 4h ago
+Bloomberg.com • 5h ago
 
 ---
 
@@ -173,7 +173,7 @@ Bloomberg.com • 4h ago
 
 Metaplanet (TSE:3350) has approved a large capital raise via new shares and stock acquisition rights to fund Bitcoin purchases and reduce debt. Through this move, the company is extending its Bitcoin-focused treasury approach while also moving to strengthen its balance sheet. Metaplanet has expanded in the US through Metaplanet Income Corp and reinforced its domestic footprint by acquiring Bitcoin.jp. A new partnership with Norges Bank Investment Management points to a broader global push...
 
-Yahoo Finance • 1h ago
+Yahoo Finance • 2h ago
 
 ---
 
@@ -181,7 +181,7 @@ Yahoo Finance • 1h ago
 
 The world’s largest cryptocurrency is down 2% over the past day while gold and silver have dropped 11% and 30%, respectively.
 
-Fortune • 1h ago
+Fortune • 2h ago
 
 ---
 
@@ -189,7 +189,7 @@ Fortune • 1h ago
 
 Crypto bulls who have theorized that bitcoin can't begin rising until money flows out of red-hot precious metals are about to find out if they were correct.
 
-CoinDesk • 1h ago
+CoinDesk • 2h ago
 
 ---
 
@@ -197,7 +197,7 @@ CoinDesk • 1h ago
 
 It's reasonable to say that this coin isn't behaving like a safe harbor asset right now.
 
-The Motley Fool • 8h ago
+The Motley Fool • 9h ago
 
 ---
 
@@ -211,7 +211,7 @@ Barron's • 1d ago
 
 Bitcoin price today: tumbles to $83k as heavy liquidations, Fed uncertainty weigh
 
-Investing.com • 5h ago
+Investing.com • 6h ago
 
 ---
 
@@ -253,7 +253,7 @@ A list of known attacks against Bitcoin / crypto asset owning entities that occu
 
 Examine why the Binance SAFU fund debate keeps resurfacing, how stablecoins signal safety, and why Bitcoin continues to dominate trust conversations.
 
-⬆️ 1 • 💬 0 • 11h ago • [Altcoin Desk](https://altcoindesk.com/perspectives/1b-binance-safu-fund-if-stablecoins-mean-safety-why-do-bitcoin-returns/article-22752/)
+⬆️ 1 • 💬 0 • 12h ago • [Altcoin Desk](https://altcoindesk.com/perspectives/1b-binance-safu-fund-if-stablecoins-mean-safety-why-do-bitcoin-returns/article-22752/)
 
 ---
 
@@ -261,7 +261,7 @@ Examine why the Binance SAFU fund debate keeps resurfacing, how stablecoins sign
 
 Bitcoin plunged to a two-month low Thursday as risk-on assets broadly fell—and even gold and silver gave up earlier gains.
 
-⬆️ 1 • 💬 0 • 22h ago • [Decrypt](https://decrypt.co/356330/bitcoin-2-month-low-gold-stocks-give-up-gains-crypto-liquidations-800m)
+⬆️ 1 • 💬 0 • 23h ago • [Decrypt](https://decrypt.co/356330/bitcoin-2-month-low-gold-stocks-give-up-gains-crypto-liquidations-800m)
 
 ---
 
@@ -291,7 +291,7 @@ Transform HN comment threads into executive intelligence. AI analyzes discussion
 
 20 years of Hacker News analyzed. 40M comments. 10,000 topics. What the tech community really thinks.
 
-⬆️ 3 • 💬 0 • 4h ago • [HN Zeitgeist](https://hn.mrzepa.com/)
+⬆️ 3 • 💬 0 • 5h ago • [HN Zeitgeist](https://hn.mrzepa.com/)
 
 ---
 
@@ -305,13 +305,33 @@ Transform HN comment threads into executive intelligence. AI analyzes discussion
 
 ## YouTube Videos: "bitcoin"
 
+**[Death of the Dollar? Central Banks MUST Buy Bitcoin!](https://www.youtube.com/watch?v=98imMTwbdQU)**
+
+Central banks are selling Treasuries and hoarding gold at record levels as trust in the dollar erodes. But gold has structural limits ...
+
+📺 Swan Bitcoin
+
+👁️ 15K • 👍 880 • 💬 149 • ⏱️ 14:55 • 7h ago
+
+---
+
+**[CRYPTO CRISIS AVOIDED?! BREAKING CRYPTO NEWS TODAY!](https://www.youtube.com/watch?v=TEohPWHyqUA)**
+
+CRYPTO CRISIS AVOIDED?! BREAKING CRYPTO NEWS TODAY! ⭐️ AUSTIN'S STOCK CHANNEL - SUPPORT IT HERE ...
+
+📺 Austin Hilton
+
+👁️ 7K • 👍 649 • 💬 10 • ⏱️ 5:28 • 5h ago
+
+---
+
 **[Bitcoin Investors....Get Ready for THIS](https://www.youtube.com/watch?v=i8c_TMdqOb0)**
 
 Check out ClashPicks: https://www.clashpicks.com/ **Exchange Partners** Bitunix Exchange ▻ *$100000 Deposit Bonus* ...
 
 📺 CryptosRUs
 
-👁️ 48K • 👍 2K • 💬 561 • ⏱️ 8:41 • 18h ago
+👁️ 49K • 👍 2K • 💬 565 • ⏱️ 8:41 • 19h ago
 
 ---
 
@@ -321,37 +341,7 @@ LIMITED TIME: ✓ Bitunix (no kyc, $700 bonus): https://www.bitunix.com/register
 
 📺 Altcoin Daily
 
-👁️ 62K • 👍 2K • 💬 247 • ⏱️ 8:26 • 20h ago
-
----
-
-**[Death of the Dollar? Central Banks MUST Buy Bitcoin!](https://www.youtube.com/watch?v=98imMTwbdQU)**
-
-Central banks are selling Treasuries and hoarding gold at record levels as trust in the dollar erodes. But gold has structural limits ...
-
-📺 Swan Bitcoin
-
-👁️ 9K • 👍 677 • 💬 187 • ⏱️ 14:55 • 6h ago
-
----
-
-**[The Real Reason Bitcoin Looks Broken Right Now (Not What You Think)](https://www.youtube.com/watch?v=5HOmQbQ3-4M)**
-
-Gold and silver just experienced historic volatility while Bitcoin feels strangely stuck. In this episode of No Second Best, we step ...
-
-📺 Swan Bitcoin
-
-👁️ 87K • 👍 3K • 💬 421 • ⏱️ 15:38 • 21h ago
-
----
-
-**[Trumps Pick Gives Me MASSIVE Bitcoin Hope](https://www.youtube.com/watch?v=3pPBVuh3IM4)**
-
-Donald Trump chooses Kevin Warsh as his pick for the Federal Reserve Chair. The links below may include affiliate links, which ...
-
-📺 Digital Asset News
-
-👁️ 3K • 👍 358 • 💬 42 • ⏱️ 21:17 • 4h ago
+👁️ 64K • 👍 2K • 💬 245 • ⏱️ 8:26 • 21h ago
 
 ---
 
@@ -361,7 +351,7 @@ Check out ClashPicks: https://www.clashpicks.com/ **Exchange Partners** Bitunix 
 
 📺 CryptosRUs
 
-👁️ 11K • 👍 859 • 💬 183 • ⏱️ 10:16 • 5h ago
+👁️ 17K • 👍 990 • 💬 180 • ⏱️ 10:16 • 6h ago
 
 ---
 
@@ -371,7 +361,17 @@ It's a terrifying time to be in the markets, especially with Bitcoin so close $8
 
 📺 Crypto Banter
 
-👁️ 11K • 👍 848 • 💬 37 • ⏱️ 36:59 • 8h ago
+👁️ 13K • 👍 882 • 💬 42 • ⏱️ 36:59 • 9h ago
+
+---
+
+**[The Real Reason Bitcoin Looks Broken Right Now (Not What You Think)](https://www.youtube.com/watch?v=5HOmQbQ3-4M)**
+
+Gold and silver just experienced historic volatility while Bitcoin feels strangely stuck. In this episode of No Second Best, we step ...
+
+📺 Swan Bitcoin
+
+👁️ 93K • 👍 3K • 💬 430 • ⏱️ 15:38 • 22h ago
 
 ---
 
@@ -381,7 +381,17 @@ TOOBIT — CLAIM $50 & 20% SIGN UP BONUS ON YOUR DEPOSIT Limited spots available
 
 📺 100XClub
 
-👁️ 9K • 👍 1K • 💬 247 • ⏱️ 7:50 • 10h ago
+👁️ 10K • 👍 1K • 💬 244 • ⏱️ 7:50 • 11h ago
+
+---
+
+**[Bitcoin, Gold &amp; Silver Collapse Amid EXTREME Market Pressure! Worst Yet To Come?](https://www.youtube.com/watch?v=ucuRE76BtyQ)**
+
+Bitcoin #Crypto #Finance Bitcoin, gold, and silver are all breaking down at the same time, sending a clear warning signal across ...
+
+📺 The Wolf Of All Streets
+
+👁️ 17K • 👍 1K • 💬 230 • ⏱️ 40:13 • 5h ago
 
 ---
 
@@ -391,17 +401,7 @@ Bitcoin appears to have completed its 2023–2025 market cycle and entered a lat
 
 📺 Benjamin Cowen
 
-👁️ 83K • 👍 5K • 💬 386 • ⏱️ 10:19 • 1d ago
-
----
-
-**[The Fed LIED and Markets Know It (Why Is Bitcoin DOWN?)](https://www.youtube.com/watch?v=s-xipl_cvxE)**
-
-Markets are breaking while Bitcoin sits quietly in the corner. Powell held rates, gold exploded, bonds snapped, and trust in the ...
-
-📺 Simply Bitcoin
-
-👁️ 31K • 👍 3K • 💬 339 • ⏱️ 18:55 • 20h ago
+👁️ 85K • 👍 5K • 💬 392 • ⏱️ 10:19 • 1d ago
 
 ---
 

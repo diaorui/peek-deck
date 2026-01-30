@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-01-30T20:32:47.475446+00:00'
+updated: '2026-01-30T21:28:50.386268+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- cryptocurrency
-- videos
 - social
 - news
+- cryptocurrency
+- videos
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** January 30, 2026 at 20:32 UTC  
+**Last Updated:** January 30, 2026 at 21:28 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -52,17 +52,17 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Market Stats
 
-**Market Cap:** $322.16B
+**Market Cap:** $326.12B
 Rank #2
 
 **Circulating Supply:** 120,694,259 ETH
 No max supply
 
 **All-Time High:** $4,946.05
--46.0%
+-45.4%
 
 **All-Time Low:** $0.43
-+617050.0%
++623382.9%
 
 ---
 
@@ -80,7 +80,7 @@ In these five years, the Ethereum Foundation is entering a period of mild auster
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-14h ago
+15h ago
 
 ---
 
@@ -88,7 +88,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 Can someone explain to me like I am a 5 year old what tokenizing commodities is? From my understanding, for example, (just an example) 1 bar of gold is tokenized on a coin. That coin gives me the right and true ownership of 1 bar of gold, but who owns that bar of gold? Can I just go to a gold issuer and show them my coin that I am entitled to a bar of gold? How does that portion actually work?
 
-9m ago
+1h ago
 
 ---
 
@@ -96,7 +96,7 @@ Can someone explain to me like I am a 5 year old what tokenizing commodities is?
 
 Fidelity Investments FIDD stablecoin, TheDAO Security Fund, Hegotá upgrade headliner proposals
 
-🔗 [ethereal.news](https://ethereal.news/ethereal-news-weekly-9/) • 7h ago
+🔗 [ethereal.news](https://ethereal.news/ethereal-news-weekly-9/) • 8h ago
 
 ---
 
@@ -104,7 +104,7 @@ Fidelity Investments FIDD stablecoin, TheDAO Security Fund, Hegotá upgrade head
 
 Hello Folks, I just published a smart contract to handle crypto inheritance 100% on-chain, without the owner having to do anything offline. I know there are many solutions that are trying to solve this problem, but I wanted to design my own with my logic, which is the following: - the contract acts like a wallet, owner can deposit, withdraw and transfer - the owner can assign beneficiaries, and update them at any time - the wallet contains an "alive check", which is automatically updated on any transaction - if you wanna use it as a vault (dormant), you can update the "alive check" manually - the owner defines a "consider me death time" in years, eg: if the last alive check is older than 10 years, I'm dead :( - once that happen, any of the beneficiaries can access the wallet and withdraw all the funds At this point, my favorite feature: the wallet gets locked, will reject any future deposit and "answer" with an epitaph... your "last worlds" recorded on-chain that you can configure when you create the wallet. All of the above is less then 100 lines of solidity... amazing :) At the moment I only did the backend (github link), but I'd like to do a nice interface to make it easy to deploy. Of course, free and open source in the Ethereum spirit! Would you give me a feedback on the logic? Do you see any pitfall or edge cases? Thanks, Francesco
 
-2h ago
+3h ago
 
 ---
 
@@ -112,7 +112,7 @@ Hello Folks, I just published a smart contract to handle crypto inheritance 100%
 
 I've been working on adding native smart contract interaction to markdown-based ENS websites on Simple Page, and v1.6.0 just shipped with two features I'm excited to share. Web3 Forms via URI Protocol You can now embed interactive contract calls using web3:// URIs (ERC-6860) directly in markdown. The syntax works like this: ![USDC Balance](web3://0xa0b8...eb48:1/balanceOf/address!0x?returns=(uint256)&labels=(Account)) This renders as a live form that: Reads contract state without signatures (view/pure functions) Handles transactions with type validation Supports payable functions with ETH inputs No Web3.js boilerplate, no React scaffolding—just a URI that gets parsed into a working interface. RSS Feed Generation Sites can now auto-generate RSS feeds at /rss.xml using frontmatter: Per-page opt-in with rss: true Audio enclosures for podcast episodes Standard metadata from markdown headers Technical Architecture The interesting part about Simple Page is how this works with ENS + IPFS: Sites are pure HTML (render without JS) Editor and forms load progressively One contenthash update publishes everything Self-contained—no external dependencies This approach lets ENS names function as actual web3 endpoints rather than just static pages. The web3:// protocol handler does the ABI encoding/decoding client-side. Web3 forms example: https://simplepage.eth.link/guides/editor/web3-forms/ Source: https://simplepage.eth.link/
 
-10h ago
+11h ago
 
 ---
 
@@ -120,7 +120,7 @@ I've been working on adding native smart contract interaction to markdown-based 
 
 Ethereum developers used ACDE #229 to shift focus toward Devnet-2 readiness, execution optimizations & repricing as Glamsterdam moves from scoping into testing.
 
-🔗 [EtherWorld.co](https://etherworld.co/highlights-from-the-all-core-developers-execution-acde-call-229/) • 16h ago
+🔗 [EtherWorld.co](https://etherworld.co/highlights-from-the-all-core-developers-execution-acde-call-229/) • 17h ago
 
 ---
 
@@ -144,7 +144,7 @@ Enjoy the videos and music you love, upload original content, and share it all w
 
 TheDAO is back & it’s bullish! TheDAO Security Fund will activate more than 75,000 ETH (over $225M) to strengthen Ethereum’s security, ensuring it is ready to become the backbone of the world’s financial infrastructure. A decade after TheDAO saga began, we’re opening a new chapter in its story
 
-🔗 [TheDAO Security Fund](https://paragraph.com/@thedao.fund/thedao-security-fund-activating-75000-eth-for-ethereum-security) • 20h ago
+🔗 [TheDAO Security Fund](https://paragraph.com/@thedao.fund/thedao-security-fund-activating-75000-eth-for-ethereum-security) • 21h ago
 
 ---
 
@@ -156,7 +156,7 @@ TheDAO is back & it’s bullish! TheDAO Security Fund will activate more than 75
 
 BitMine and Strategy stocks both plunged nearly 10% amid broader market uncertainty as a possible U.S. government shutdown looms.
 
-Decrypt • 21h ago
+Decrypt • 22h ago
 
 ---
 
@@ -178,13 +178,13 @@ The Block • 1d ago
 
 **[Key facts: DAO Security Fund to Stake 75,000 ETH; Ethereum Price Fluctuates](https://www.tradingview.com/news/tradingview:514dc07817206:0-key-facts-dao-security-fund-to-stake-75-000-eth-ethereum-price-fluctuates/)**
 
-TradingView • 20h ago
+TradingView • 21h ago
 
 ---
 
 **[Bitcoin, XRP, Ethereum Fall on News of Kevin Warsh Fed Appointment.](https://www.barrons.com/articles/bitcoin-xrp-ethereum-crypto-today-954298d9?gaa_at=eafs&gaa_n=AWEtsqe75JUraA8eJCV7VmVUadxArUKmGiesfG0SxDGyhfsSaM9GukcehWxF&gaa_ts=697d18d8&gaa_sig=L6I9ryIVu9Q6wSAOnJL_PqIMC1PqaUufTn3XxrHMRSBXIEB3pl-P9TE3A5G9_Scywltmm-YL-0tQ8tua1xqsUA%3D%3D)**
 
-Barron's • 2h ago
+Barron's • 3h ago
 
 ---
 
@@ -192,7 +192,7 @@ Barron's • 2h ago
 
 The Dow, S&P 500, and Nasdaq are falling as the stock market reacts to President Donald Trump's pick for next chair of the Federal Reserve.
 
-Barron's • 6h ago
+Barron's • 7h ago
 
 ---
 
@@ -208,7 +208,7 @@ TradingView • 2h ago
 
 Ethereum’s co-founder said the $43 million withdrawal will support a broader “full-stack openness and verifiability” vision as the foundation tightens spending.
 
-CoinDesk • 10h ago
+CoinDesk • 11h ago
 
 ---
 
@@ -232,13 +232,23 @@ Yahoo Finance • 1d ago
 
 ## YouTube Videos: "ethereum"
 
+**[BITCOIN &amp; ALTCOIN CRASH: EMERGENCY UPDATE (New Trade)!!! - Bitcoin News Today, Ethereum &amp; Altcoins](https://www.youtube.com/watch?v=_kPvKrJSvxo)**
+
+BITCOIN & ALTCOIN CRASH: EMERGENCY UPDATE (New Trade)!!! - Bitcoin News Today, Ethereum & Altcoins *Toobit* ...
+
+📺 Crypto World
+
+👁️ 2K • 👍 161 • 💬 41 • ⏱️ 22:15 • 2h ago
+
+---
+
 **[Ethereum Elliott Wave Update – Key Resistance Levels Ahead](https://www.youtube.com/watch?v=EBDBuOl9hek)**
 
 This video provides a professional Elliott Wave and technical analysis of Ethereum (ETH), focusing on market structure, major ...
 
 📺 More Crypto Online
 
-👁️ 1K • 👍 110 • 💬 6 • ⏱️ 4:32 • 7h ago
+👁️ 2K • 👍 125 • 💬 6 • ⏱️ 4:32 • 8h ago
 
 ---
 
@@ -248,17 +258,7 @@ Watch The FULL Interview: "Explosive Crypto Price Prediction for 2026..." FREE D
 
 📺 Library Of Wealth
 
-👁️ 9K • 👍 402 • 💬 266 • ⏱️ 14:36 • 14h ago
-
----
-
-**[WILL ETHEREUM CRASH LOWER?🚨 (Ethereum Price Prediction 2026)](https://www.youtube.com/watch?v=A2OIPUKO7yo)**
-
-ETHEREUM ETH PRICE PREDICTION 2026 Join the Premium Signal Group for trade setups, mentorship & a community ...
-
-📺 Cilinix Crypto
-
-👁️ 575 • 👍 24 • 💬 1 • ⏱️ 5:29 • 10h ago
+👁️ 10K • 👍 415 • 💬 258 • ⏱️ 14:36 • 15h ago
 
 ---
 
@@ -268,17 +268,27 @@ Cardano and Ethereum holders... GET READY!! ✓ Bitunix (no kyc, $10000 bonus): 
 
 📺 Altcoin Daily
 
-👁️ 46K • 👍 3K • 💬 289 • ⏱️ 8:35 • 1d ago
+👁️ 47K • 👍 3K • 💬 289 • ⏱️ 8:35 • 1d ago
 
 ---
 
-**[BITCOIN &amp; ALTCOIN CRASH: History Repeating (Warning)!!! - Bitcoin News Today, Ethereum &amp; Altcoins](https://www.youtube.com/watch?v=GnJpG3iiDxY)**
+**[Sell Silver, Buy Ethereum — Here&#39;s Why](https://www.youtube.com/watch?v=pEdmazalwFY)**
 
-BITCOIN & ALTCOIN CRASH: History Repeating (Warning)!!! - Bitcoin News Today, Ethereum & Altcoins *Toobit* ...
+Is it time to sell silver and buy Ethereum? In this video, I break down why traditional hard assets like silver may be losing their ...
 
-📺 Crypto World
+📺 Michaël van de Poppe
 
-👁️ 12K • 👍 380 • 💬 177 • ⏱️ 25:22 • 22h ago
+👁️ 4K • 👍 144 • 💬 34 • ⏱️ 12:09 • 1d ago
+
+---
+
+**[WILL ETHEREUM CRASH LOWER?🚨 (Ethereum Price Prediction 2026)](https://www.youtube.com/watch?v=A2OIPUKO7yo)**
+
+ETHEREUM ETH PRICE PREDICTION 2026 Join the Premium Signal Group for trade setups, mentorship & a community ...
+
+📺 Cilinix Crypto
+
+👁️ 697 • 👍 26 • 💬 1 • ⏱️ 5:29 • 11h ago
 
 ---
 
@@ -288,7 +298,27 @@ The situation is getting worse and worse for crypto. Here are facts and my take 
 
 📺 Thomas Kralow
 
-👁️ 54K • 👍 3K • 💬 168 • ⏱️ 13:43 • 1d ago
+👁️ 55K • 👍 3K • 💬 168 • ⏱️ 13:43 • 1d ago
+
+---
+
+**[BITCOIN &amp; ALTCOIN CRASH: History Repeating (Warning)!!! - Bitcoin News Today, Ethereum &amp; Altcoins](https://www.youtube.com/watch?v=GnJpG3iiDxY)**
+
+BITCOIN & ALTCOIN CRASH: History Repeating (Warning)!!! - Bitcoin News Today, Ethereum & Altcoins *Toobit* ...
+
+📺 Crypto World
+
+👁️ 12K • 👍 381 • 💬 172 • ⏱️ 25:22 • 23h ago
+
+---
+
+**[Inflation SPIKES 🚨 BTC &amp; Tech Meltdown? (Everything is Tanking) 📉🔥](https://www.youtube.com/watch?v=NS9olVCaZRk)**
+
+JOIN THE FAMILY: http://www.patreon.com/investanswers IA MODELS: https://investanswers.io/indicators 🏖️ IA RETIRE ON: ...
+
+📺 InvestAnswers
+
+👁️ 2K • 👍 233 • 19m ago
 
 ---
 
@@ -298,37 +328,7 @@ Get $450 Off Our New AI Indicators: https://tradeconfidentportal.io/indicators/ 
 
 📺 Trade Confident
 
-👁️ 651 • 👍 20 • 💬 22 • ⏱️ 5:01 • 1d ago
-
----
-
-**[Ethereum Elliott Wave Update – Key Resistance Levels Ahead](https://www.youtube.com/watch?v=UzzqPFmjlko)**
-
-This video provides a professional Elliott Wave and technical analysis of Ethereum (ETH), focusing on market structure, major ...
-
-📺 More Crypto Online
-
-👁️ 3K • 👍 143 • 💬 6 • ⏱️ 6:16 • 21h ago
-
----
-
-**[Why Ethereum Could Matter More Than Bitcoin – Tom Wheelwright, Matthew Leising](https://www.youtube.com/watch?v=kiII6_Q6NWM)**
-
-https://bit.ly/3HLA8ql CLICK HERE Ready to change your financial future? Join Tom Wheelwright, Robert Kiyosaki's CPA, and ...
-
-📺 The Rich Dad Channel
-
-👁️ 3K • 👍 116 • 💬 29 • ⏱️ 33:33 • 1d ago
-
----
-
-**[This Ethereum update could be MASSIVE!  (BMNR Stock Update)](https://www.youtube.com/watch?v=mzixH7Wtv7w)**
-
-15% Off Fiscal.ai Plans! Unlock institutional-grade data with my link: https://fiscal.ai/?via=roy Follow me on X: @kross_roads ...
-
-📺 Crossroads
-
-👁️ 6K • 👍 238 • 💬 52 • ⏱️ 11:03 • 1d ago
+👁️ 667 • 👍 21 • 💬 5 • ⏱️ 5:01 • 1d ago
 
 ---
 
