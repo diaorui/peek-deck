@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-01-30T23:27:02.204089+00:00'
+updated: '2026-01-30T23:50:49.962546+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- social
-- news
-- repositories
 - videos
+- repositories
+- news
+- social
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** January 30, 2026 at 23:27 UTC  
+**Last Updated:** January 30, 2026 at 23:50 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -151,7 +151,7 @@ Harvard Business Review • 9h ago
 
 This blog is written in collaboration by Amy Chang, Vineeth Sai Narajala, and Idan Habler Over the past few weeks, Clawdbot (then renamed Moltbot, later
 
-Cisco Blogs • 1d ago
+Cisco Blogs • 2d ago
 
 ---
 
@@ -167,7 +167,7 @@ Ars Technica • 1h ago
 
 Prosecutors charged Aidan Brewis, 20, with possession of virtual child pornography, a class-D felony that was put on the books in Wisconsin in 2024.
 
-Milwaukee Journal Sentinel • 1h ago
+Milwaukee Journal Sentinel • 2h ago
 
 ---
 
@@ -203,7 +203,7 @@ The New York Times • 1d ago
 - - —
 Guys, enough is enough. Bullying is a s...
 
-⬆️ 664 • 💬 307 • 1d ago • [McSweeney's Internet Tendency](https://www.mcsweeneys.net/articles/please-dont-say-mean-things-about-the-ai-that-i-just-invested-a-billion-dollars-in)
+⬆️ 664 • 💬 307 • 2d ago • [McSweeney's Internet Tendency](https://www.mcsweeneys.net/articles/please-dont-say-mean-things-about-the-ai-that-i-just-invested-a-billion-dollars-in)
 
 ---
 
@@ -227,7 +227,7 @@ Or, as they like to call it, the 'AI Skills Hub'. Which was built by PwC because
 
 Anthropic is an AI safety and research company that's working to build reliable, interpretable, and steerable AI systems.
 
-⬆️ 390 • 💬 304 • 17h ago • [anthropic.com](https://www.anthropic.com/research/AI-assistance-coding-skills)
+⬆️ 390 • 💬 304 • 18h ago • [anthropic.com](https://www.anthropic.com/research/AI-assistance-coding-skills)
 
 ---
 
@@ -287,27 +287,7 @@ Get the FREE PDF (links + prompts) → https://discord.gg/6aV3ps7tB2 STOP overpa
 
 📺 Malva AI
 
-👁️ 7K • 👍 556 • 💬 136 • ⏱️ 7:42 • 11h ago
-
----
-
-**[Did Google’s Quantum Breakthrough Just Solve AI’s Energy Crisis? Microsoft’s Secret Weapon](https://www.youtube.com/watch?v=HdU7M0gr8ds)**
-
-GET MY FREE GUIDE: *The Content Creator's AI Blueprint: From 25 Hours to 5 Minutes* https://FirstMovers.ai/blueprint/ * AI ...
-
-📺 Julia McCoy
-
-👁️ 16K • 👍 907 • 💬 74 • ⏱️ 8:35 • 8h ago
-
----
-
-**[Google’s New AI AlphaGenome Just Unlocked the Code of Human Life](https://www.youtube.com/watch?v=RZAHYxa5YjQ)**
-
-Try Mammouth AI here: https://bit.ly/4sUpPDw AI just made a serious leap into the code of human life. Google DeepMind unveiled ...
-
-📺 AI Revolution
-
-👁️ 19K • 👍 882 • 💬 70 • ⏱️ 12:58 • 1d ago
+👁️ 8K • 👍 604 • 💬 146 • ⏱️ 7:42 • 11h ago
 
 ---
 
@@ -321,13 +301,33 @@ Crazy AI Beds You'll Wish Were Real ✨ | Ultimate Oddly Satisfying AI ASMR Drif
 
 ---
 
+**[Google’s New AI AlphaGenome Just Unlocked the Code of Human Life](https://www.youtube.com/watch?v=RZAHYxa5YjQ)**
+
+Try Mammouth AI here: https://bit.ly/4sUpPDw AI just made a serious leap into the code of human life. Google DeepMind unveiled ...
+
+📺 AI Revolution
+
+👁️ 20K • 👍 907 • 💬 71 • ⏱️ 12:58 • 1d ago
+
+---
+
 **[The AI Job APOCALYPSE Is Already Here](https://www.youtube.com/watch?v=Y5A_c4pvo7I)**
 
 Support our work: http://novara.media/support Buy Novara Media merch: https://shop.novaramedia.com/ Discuss the show on ...
 
 📺 Novara Media
 
-👁️ 75K • 👍 2K • 💬 703 • ⏱️ 21:03 • 2d ago
+👁️ 76K • 👍 2K • 💬 705 • ⏱️ 21:03 • 2d ago
+
+---
+
+**[AI News: Google&#39;s Infinite AI Worlds](https://www.youtube.com/watch?v=cEPTbXuw55Q)**
+
+Here's the news you probably missed this week. If you want to transform your site using the same platform I've trusted for years, ...
+
+📺 Matt Wolfe
+
+👁️ 14K • 👍 922 • 💬 85 • ⏱️ 30:47 • 5h ago
 
 ---
 
@@ -337,7 +337,7 @@ Nobel Prize winner Geoffrey Hinton, the physicist known for his pioneering work 
 
 📺 LBC
 
-👁️ 151K • 👍 2K • 💬 1K • ⏱️ 8:50 • 2d ago
+👁️ 158K • 👍 2K • 💬 1K • ⏱️ 8:50 • 2d ago
 
 ---
 
@@ -347,17 +347,17 @@ AI leaders are warning that the next phase of artificial intelligence could arri
 
 📺 Valuetainment Short Clips
 
-👁️ 11K • 👍 268 • 💬 57 • ⏱️ 20:26 • 1d ago
+👁️ 11K • 👍 278 • 💬 61 • ⏱️ 20:26 • 1d ago
 
 ---
 
-**[Manus 1.6: AI Super Agent That Can DO ANYTHING! The Clawdbot KILLER!](https://www.youtube.com/watch?v=zZi2_ZZPI7Q)**
+**[Did Google’s Quantum Breakthrough Just Solve AI’s Energy Crisis? Microsoft’s Secret Weapon](https://www.youtube.com/watch?v=HdU7M0gr8ds)**
 
-Try Manus AI free → Get 1000 credits using my link: https://manus.im/redeem?c=WAI013M6 We're back with Manus 1.6, the ...
+GET MY FREE GUIDE: *The Content Creator's AI Blueprint: From 25 Hours to 5 Minutes* https://FirstMovers.ai/blueprint/ * AI ...
 
-📺 WorldofAI
+📺 Julia McCoy
 
-👁️ 6K • 👍 187 • 💬 12 • ⏱️ 12:37 • 17h ago
+👁️ 21K • 👍 1K • 💬 83 • ⏱️ 8:35 • 8h ago
 
 ---
 
@@ -367,17 +367,17 @@ On stage at Imagination In Action's AI Summit in Davos with John Werner, founder
 
 📺 Forbes
 
-👁️ 40K • 👍 1K • 💬 265 • ⏱️ 29:11 • 2d ago
+👁️ 41K • 👍 1K • 💬 251 • ⏱️ 29:11 • 2d ago
 
 ---
 
-**[AI cited as reason for mass layoffs at tech companies | KTVU](https://www.youtube.com/watch?v=utz4aIKsp0g)**
+**[I Tried 500+ AI Tools, These 9 Will Give You Freedom](https://www.youtube.com/watch?v=Qgi5hb7yxjU)**
 
-Big U.S. companies, including Amazon, are laying off tens of thousands of jobs. California remains one of the focal points for many ...
+Learn these 9 AI tools to transform your life. Sepehr's 5 Week Free AI Camp & Prompts: https://aisquads.org Tools: Lovable: ...
 
-📺 KTVU FOX 2 San Francisco
+📺 Simon Squibb
 
-👁️ 9K • 👍 119 • 💬 399 • ⏱️ 3:22 • 16h ago
+👁️ 48K • 👍 3K • 💬 206 • ⏱️ 11:28 • 2d ago
 
 ---
 
@@ -393,7 +393,7 @@ Kimi K2.5 is a native multimodal agentic model with 1T parameters, excelling in 
 
 `image-text-to-text`
 
-⬇️ 25,438 • ❤️ 1,165 • 18h ago
+⬇️ 25,438 • ❤️ 1,183 • 19h ago
 
 ---
 
@@ -405,7 +405,7 @@ PersonaPlex-7B-v1 is a real-time, full-duplex speech-to-speech conversational mo
 
 `audio-to-audio`
 
-⬇️ 54,463 • ❤️ 1,494 • 2d ago
+⬇️ 54,463 • ❤️ 1,509 • 2d ago
 
 ---
 
@@ -417,7 +417,7 @@ Z-Image is an undistilled, high-fidelity text-to-image diffusion transformer mod
 
 `text-to-image`
 
-⬇️ 1,918 • ❤️ 696 • 2d ago
+⬇️ 1,918 • ❤️ 705 • 2d ago
 
 ---
 
@@ -429,7 +429,7 @@ Qwen3-TTS-12Hz-1.7B-CustomVoice is a multilingual text-to-speech model supportin
 
 `text-to-speech` `1.9B`
 
-⬇️ 180,679 • ❤️ 796 • 1d ago
+⬇️ 180,679 • ❤️ 800 • 1d ago
 
 ---
 
@@ -441,7 +441,7 @@ DeepSeek-OCR-2 is a multilingual vision-language model for image-to-text tasks, 
 
 `image-text-to-text` `3.4B`
 
-⬇️ 45,346 • ❤️ 552 • 23h ago
+⬇️ 45,346 • ❤️ 558 • 23h ago
 
 ---
 
@@ -453,7 +453,7 @@ VibeVoice-ASR is a unified speech-to-text model capable of processing up to 60 m
 
 `automatic-speech-recognition` `8.7B`
 
-⬇️ 111,610 • ❤️ 741 • 3d ago
+⬇️ 111,610 • ❤️ 743 • 3d ago
 
 ---
 
@@ -465,7 +465,7 @@ HunyuanImage-3.0-Instruct is a native multimodal model for image generation, sup
 
 `image-to-image` `83.0B`
 
-⬇️ 37 • ❤️ 382 • 2d ago
+⬇️ 37 • ❤️ 384 • 2d ago
 
 ---
 
@@ -477,7 +477,7 @@ GLM-4.7-Flash is a 30B-A3B MoE model, offering strong performance in the 30B cla
 
 `text-generation` `31.2B`
 
-⬇️ 645,542 • ❤️ 1,338 • 1d ago
+⬇️ 645,542 • ❤️ 1,339 • 1d ago
 
 ---
 
@@ -489,7 +489,7 @@ LightOnOCR-2-1B is an efficient 1B-parameter end-to-end vision-language model fo
 
 `image-text-to-text` `1.0B`
 
-⬇️ 27,393 • ❤️ 442 • 10h ago
+⬇️ 27,393 • ❤️ 443 • 11h ago
 
 ---
 
@@ -501,7 +501,7 @@ PaddleOCR-VL-1.5 is a multilingual Vision-Language Model (VLM) built on ERNIE 4.
 
 `image-text-to-text` `958.6M`
 
-⬇️ 216 • ❤️ 217 • 17h ago
+⬇️ 216 • ❤️ 220 • 18h ago
 
 ---
 
@@ -517,7 +517,7 @@ PaddleOCR-VL-1.5 is a multilingual Vision-Language Model (VLM) built on ERNIE 4.
 
 LingBot-World is an open-source world simulator with high-fidelity dynamics, long-term memory capabilities, and real-time interactivity for diverse environments.
 
-▲ 85 • 💬 2 • ⭐ 1,087 • 2d ago
+▲ 86 • 💬 2 • ⭐ 1,087 • 2d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2601.20540) • [💻 code](https://github.com/Robbyant/lingbot-world/) • [🔗 project](https://technology.robbyant.com/lingbot-world)
 
@@ -549,18 +549,6 @@ Bitnet.cpp enhances edge inference for ternary LLMs using a novel mixed-precisio
 
 ---
 
-**[BitNet b1.58 2B4T Technical Report](https://huggingface.co/papers/2504.12285)**
-
-*Shuming Ma, Hongyu Wang, Shaohan Huang et al. (8 authors)*
-
-BitNet b1.58 2B4T, a 1-bit Large Language Model with 2 billion parameters, matches the performance of full-precision models while improving computational efficiency.
-
-▲ 81 • 💬 2 • ⭐ 26,813 • 9mo ago
-
-[🎓 arXiv](https://arxiv.org/abs/2504.12285) • [💻 code](https://github.com/microsoft/bitnet)
-
----
-
 **[BitNet Distillation](https://huggingface.co/papers/2510.13998)**
 
 *Xun Wu, Shaohan Huang, Wenhui Wang et al. (7 authors)*
@@ -572,6 +560,18 @@ BitNet Distillation fine-tunes large language models to 1.58-bit precision using
 ▲ 58 • 💬 5 • ⭐ 26,854 • 3mo ago
 
 [🎓 arXiv](https://arxiv.org/abs/2510.13998) • [💻 code](https://github.com/microsoft/BitNet)
+
+---
+
+**[BitNet b1.58 2B4T Technical Report](https://huggingface.co/papers/2504.12285)**
+
+*Shuming Ma, Hongyu Wang, Shaohan Huang et al. (8 authors)*
+
+BitNet b1.58 2B4T, a 1-bit Large Language Model with 2 billion parameters, matches the performance of full-precision models while improving computational efficiency.
+
+▲ 81 • 💬 2 • ⭐ 26,915 • 9mo ago
+
+[🎓 arXiv](https://arxiv.org/abs/2504.12285) • [💻 code](https://github.com/microsoft/bitnet)
 
 ---
 
@@ -623,7 +623,7 @@ UltraRAG is a comprehensive RAG toolkit that automates knowledge adaptation acro
 
 LingBot-Depth is a depth completion model that uses visual context to refine depth maps through masked depth modeling and automated data curation for improved spatial perception in robotics and autonomous systems.
 
-▲ 21 • 💬 3 • ⭐ 589 • 5d ago
+▲ 21 • 💬 3 • ⭐ 602 • 5d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2601.17895) • [💻 code](https://github.com/Robbyant/lingbot-depth) • [🔗 project](https://technology.robbyant.com/lingbot-depth)
 
@@ -653,7 +653,7 @@ Browser automation CLI for AI agents
 
 `TypeScript`
 
-⭐ 11.7k • 🔱 649 • 1d ago
+⭐ 11.8k • 🔱 650 • 1d ago
 
 ---
 
@@ -663,7 +663,7 @@ AI → JSON → UI
 
 `TypeScript`
 
-⭐ 9.7k • 🔱 513 • 2d ago
+⭐ 9.7k • 🔱 515 • 2d ago
 
 ---
 
@@ -703,7 +703,7 @@ The Ultimate Collection of 500+ Agentic Skills for Claude Code/Antigravity/Curso
 
 `Python` `agentic-skills` `ai-agents` `antigravity` `autonomous-coding` `claude-code`
 
-⭐ 5.6k • 🔱 1.2k • 3h ago
+⭐ 5.6k • 🔱 1.2k • 4h ago
 
 ---
 

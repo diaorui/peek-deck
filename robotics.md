@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-01-30T23:27:02.222166+00:00'
+updated: '2026-01-30T23:50:49.980028+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- social
-- news
 - videos
+- news
+- social
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** January 30, 2026 at 23:27 UTC  
+**Last Updated:** January 30, 2026 at 23:50 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -52,7 +52,7 @@ Setup: 2 x Super-Beacons - a few meters away on the walls of the room - as stati
 
 Ant Group released LingBot-VA, a VLA built on a different premise than most current approaches: instead of directly mapping observations to actions, first predict what the future should look like, then infer what action causes that transition. The model uses a 5.3B video diffusion backbone (Wan2.2) as a "world model" to predict future frames, then decodes actions via inverse dynamics. Everything runs through GPT style autoregressive generation with KV-cache — no chunk-based diffusion, so the robot maintains persistent memory across the full trajectory and respects causal ordering (past → present → future). Results on standard benchmarks: 92.9% on RoboTwin Easy (vs 82.7% for π0.5), 91.6% on Hard (vs 76.8%), 98.5% on LIBERO-Long. The biggest gains show up on long-horizon tasks and anything requiring temporal memory — counting repetitions, remembering past observations, etc. Sample efficiency is a key claim: 50 demos for deployment, and even 10 demos outperforms π0.5 by 10-15%. They attribute this to the video backbone providing strong physical priors. For inference speed, they overlap prediction with execution using async inference plus a forward dynamics grounding step. 2× speedup with no accuracy drop.
 
-22h ago
+23h ago
 
 ---
 
@@ -88,7 +88,7 @@ I've noticed that many of the labs and data collectors have been switching to YA
 
 The overall goal is to lower the barrier to entry for soft robotics and provide an alternative approach to building robotic systems. One way to achieve this is by using widely available tools such as FDM 3D printers. The concept centers on a 3D‑printable film used to create inflatable bags. These bags can be stacked to form pneumatic, bellows‑style linear artificial muscles. A tendon‑driven actuator is then assembled around these muscles to create functional motion. The next phase focuses on integration. A 3D‑printed sleeve guides each modular muscle during inflation, and different types of skeletons—human, dog, or frog—can be printed while reusing the same muscle modules across all designs. You can see the experiments with the bags here: https://www.youtube.com/playlist?list=PLF9nRnkMqNpZ-wNNfvy_dFkjDP2D5Q4OO I am looking for groups, labs, researchers, and students working in soft robotics who could provide comments and general feedback on this approach, as well as guidance on developing a complete framework (including workflows, designs, and simulations).
 
-21h ago
+22h ago
 
 ---
 
@@ -198,7 +198,7 @@ China is deploying AI-powered robots to manage traffic and pedestrian flow in ci
 
 📺 NBC News
 
-👁️ 139K • 👍 2K • 💬 768 • ⏱️ 3:13 • 20h ago
+👁️ 168K • 👍 2K • 💬 871 • ⏱️ 3:13 • 20h ago
 
 ---
 
@@ -228,17 +228,7 @@ Last year, Helix showed that a single neural network could control a humanoid's 
 
 📺 Figure
 
-👁️ 193K • 👍 11K • 💬 2K • ⏱️ 3:37 • 3d ago
-
----
-
-**[They turned brain signals into robot instincts #ai #innovation #mindblown #robotics](https://www.youtube.com/watch?v=c-wUILu9wZA)**
-
-Mind-controllable robots are officially here. Chinese engineers are wearing brain-computer interfaces (BCIs) that detect what ...
-
-📺 Kalil 4.0
-
-👁️ 249 • 👍 11 • ⏱️ 1:00 • 2h ago
+👁️ 196K • 👍 11K • 💬 2K • ⏱️ 3:37 • 3d ago
 
 ---
 
@@ -252,23 +242,33 @@ Hyundai is planning to place 30000 humanoid robots in its factories. We talked t
 
 ---
 
+**[Elon Musk’s Biggest Gamble Yet: Tesla Shuts Down Cars for Optimus Robots](https://www.youtube.com/watch?v=wTyOXhTsrMA)**
+
+ElonMusk #TeslaOptimus #HumanoidRobot #AIRevolution #FutureTech #TeslaNews #Robotics #OptimusGen3 Elon Musk has ...
+
+📺 Trend Flow
+
+👁️ 519 • 👍 27 • 💬 2 • ⏱️ 1:19 • 6h ago
+
+---
+
 **[Tesla CEO Elon Musk doubles down on robots](https://www.youtube.com/watch?v=B78RNAlYXLA)**
 
 Tesla's fourth quarter earnings topped analyst estimates. CEO Elon Musk is betting big on robotics and AI with plans to spend $20 ...
 
 📺 Yahoo Finance
 
-👁️ 9K • 👍 144 • 💬 30 • ⏱️ 12:20 • 23h ago
+👁️ 10K • 👍 144 • 💬 43 • ⏱️ 12:20 • 1d ago
 
 ---
 
-**[Tesla bets big on robotics](https://www.youtube.com/watch?v=yEAf1Mw0qYk)**
+**[Meet Sprout: The Humanoid Robot Built for Real World Use](https://www.youtube.com/watch?v=4zMbX1OEOSE)**
 
-Steve Westly, former Tesla board member and founder of the Westly Group, joins 'Squawk on the Street' to discuss Tesla's latest ...
+This new humanoid robot is not about hype or flashy promises. Sprout is designed to work alongside people in real environments, ...
 
-📺 CNBC Television
+📺 DPCcars
 
-👁️ 11K • 👍 71 • 💬 61 • ⏱️ 3:43 • 1d ago
+👁️ 5K • 👍 86 • 💬 19 • ⏱️ 3:17 • 2d ago
 
 ---
 
@@ -278,17 +278,17 @@ Andrea Nakano reports on the Tesla Fremont factory ending Model S/X production a
 
 📺 KPIX | CBS NEWS BAY AREA
 
-👁️ 47K • 👍 448 • 💬 268 • ⏱️ 4:36 • 1d ago
+👁️ 49K • 👍 461 • 💬 277 • ⏱️ 4:36 • 1d ago
 
 ---
 
-**[Robotics Boom: 3 Stocks Under $20 Right Now](https://www.youtube.com/watch?v=8yC0p_lfk4g)**
+**[Tesla bets big on robotics](https://www.youtube.com/watch?v=yEAf1Mw0qYk)**
 
-Robotics stocks are heating up fast, but many of the biggest names are already expensive. In this video, MarketBeat's Jeffrey Neal ...
+Steve Westly, former Tesla board member and founder of the Westly Group, joins 'Squawk on the Street' to discuss Tesla's latest ...
 
-📺 MarketBeat
+📺 CNBC Television
 
-👁️ 138K • 👍 3K • 💬 180 • ⏱️ 17:39 • 6d ago
+👁️ 11K • 👍 72 • 💬 61 • ⏱️ 3:43 • 1d ago
 
 ---
 

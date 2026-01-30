@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-01-30T23:27:02.212771+00:00'
+updated: '2026-01-30T23:50:49.970910+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- social
+- videos
 - cryptocurrency
 - news
-- videos
+- social
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** January 30, 2026 at 23:27 UTC  
+**Last Updated:** January 30, 2026 at 23:50 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -54,17 +54,17 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1683.62B
+**Market Cap:** $1680.35B
 Rank #1
 
-**Circulating Supply:** 19,982,409 BTC
+**Circulating Supply:** 19,982,450 BTC
 95.2% of max
 
 **All-Time High:** $126,080.00
--33.2%
+-33.3%
 
 **All-Time Low:** $67.81
-+124077.8%
++123946.6%
 
 ---
 
@@ -87,13 +87,13 @@ Rank #1
 
 I wish I had more liquidity!
 
-9h ago
+10h ago
 
 ---
 
 **[Bitcoin president bt the way 😅](https://www.reddit.com/r/Bitcoin/comments/1qr34fh/bitcoin_president_bt_the_way/)**
 
-11h ago
+12h ago
 
 ---
 
@@ -119,7 +119,7 @@ The deal will be too good to pass at that point.
 
 **[HODL….Dont Fold 😎](https://www.reddit.com/r/Bitcoin/comments/1qrj823/hodldont_fold/)**
 
-1h ago
+2h ago
 
 ---
 
@@ -139,7 +139,7 @@ The deal will be too good to pass at that point.
 
 Red candles everywhere, BTC dipping hard. Paper hands sweating. Headlines screaming crash. But zoom out: - Halving effects still unfolding - Adoption & institutions not going anywhere This is classic Bitcoin - shakeout before the next leg up. If you believe in it, this dip is your discount window. Stack calmly while others panic. Cheers!
 
-20h ago
+21h ago
 
 ---
 
@@ -165,7 +165,7 @@ Yahoo Finance • 11h ago
 
 **[Bitcoin Slumps to Two-Month Low as US Funds Shed Billions](https://www.bloomberg.com/news/articles/2026-01-30/bitcoin-btc-slumps-to-two-month-low-as-us-funds-shed-billions)**
 
-Bloomberg.com • 1h ago
+Bloomberg.com • 2h ago
 
 ---
 
@@ -173,7 +173,7 @@ Bloomberg.com • 1h ago
 
 Silver and Bitcoin have spent much of the past decade being discussed in the same breath, often framed as parallel alternatives to fiat money and beneficiaries of macro stress. That story is currently being put to the test, as the two assets are drifting in wildly different directions in late ...
 
-Yahoo Finance • 2h ago
+Yahoo Finance • 3h ago
 
 ---
 
@@ -197,7 +197,7 @@ Yahoo Finance • 1h ago
 
 The world’s largest cryptocurrency is down 2% over the past day while gold and silver have dropped 11% and 30%, respectively.
 
-Fortune • 4h ago
+Fortune • 5h ago
 
 ---
 
@@ -205,7 +205,7 @@ Fortune • 4h ago
 
 It's reasonable to say that this coin isn't behaving like a safe harbor asset right now.
 
-The Motley Fool • 10h ago
+The Motley Fool • 11h ago
 
 ---
 
@@ -247,7 +247,7 @@ A list of known attacks against Bitcoin / crypto asset owning entities that occu
 
 **[Bitcoin's Quantum Computing Threat](https://news.ycombinator.com/item?id=46824834)**
 
-⬆️ 1 • 💬 0 • 8h ago • [bmpro.substack.com](https://bmpro.substack.com/p/bitcoins-quantum-computing-threat)
+⬆️ 1 • 💬 0 • 9h ago • [bmpro.substack.com](https://bmpro.substack.com/p/bitcoins-quantum-computing-threat)
 
 ---
 
@@ -299,7 +299,7 @@ Transform HN comment threads into executive intelligence. AI analyzes discussion
 
 **[Is This Billionaire a Financial Genius or a Fraudster?](https://news.ycombinator.com/item?id=46759922)**
 
-⬆️ 4 • 💬 6 • 4d ago • [nytimes.com](https://www.nytimes.com/2026/01/16/business/michael-saylor-strategy-bitcoin.html)
+⬆️ 4 • 💬 6 • 5d ago • [nytimes.com](https://www.nytimes.com/2026/01/16/business/michael-saylor-strategy-bitcoin.html)
 
 ---
 
@@ -313,47 +313,7 @@ Central banks are selling Treasuries and hoarding gold at record levels as trust
 
 📺 Swan Bitcoin
 
-👁️ 15K • 👍 880 • 💬 149 • ⏱️ 14:55 • 9h ago
-
----
-
-**[CRYPTO CRISIS AVOIDED?! BREAKING CRYPTO NEWS TODAY!](https://www.youtube.com/watch?v=TEohPWHyqUA)**
-
-CRYPTO CRISIS AVOIDED?! BREAKING CRYPTO NEWS TODAY! ⭐️ AUSTIN'S STOCK CHANNEL - SUPPORT IT HERE ...
-
-📺 Austin Hilton
-
-👁️ 7K • 👍 649 • 💬 10 • ⏱️ 5:28 • 7h ago
-
----
-
-**[Bitcoin Investors....Get Ready for THIS](https://www.youtube.com/watch?v=i8c_TMdqOb0)**
-
-Check out ClashPicks: https://www.clashpicks.com/ **Exchange Partners** Bitunix Exchange ▻ *$100000 Deposit Bonus* ...
-
-📺 CryptosRUs
-
-👁️ 49K • 👍 2K • 💬 565 • ⏱️ 8:41 • 21h ago
-
----
-
-**[Bitcoin Near Collapse As Crypto Bill Heads To Senate Vote](https://www.youtube.com/watch?v=O0cv11qt290)**
-
-LIMITED TIME: ✓ Bitunix (no kyc, $700 bonus): https://www.bitunix.com/register?vipCode=AltcoinDaily 50% deposit bonus on ...
-
-📺 Altcoin Daily
-
-👁️ 64K • 👍 2K • 💬 245 • ⏱️ 8:26 • 23h ago
-
----
-
-**[Gold and Silver DUMPED...What about Bitcoin?](https://www.youtube.com/watch?v=pO7NIrNw7Rg)**
-
-Check out ClashPicks: https://www.clashpicks.com/ **Exchange Partners** Bitunix Exchange ▻ *$100000 Deposit Bonus* ...
-
-📺 CryptosRUs
-
-👁️ 17K • 👍 990 • 💬 180 • ⏱️ 10:16 • 8h ago
+👁️ 18K • 👍 976 • 💬 150 • ⏱️ 14:55 • 9h ago
 
 ---
 
@@ -363,27 +323,57 @@ It's a terrifying time to be in the markets, especially with Bitcoin so close $8
 
 📺 Crypto Banter
 
-👁️ 13K • 👍 882 • 💬 42 • ⏱️ 36:59 • 11h ago
+👁️ 13K • 👍 892 • 💬 44 • ⏱️ 36:59 • 12h ago
 
 ---
 
-**[The Real Reason Bitcoin Looks Broken Right Now (Not What You Think)](https://www.youtube.com/watch?v=5HOmQbQ3-4M)**
+**[Michael Saylor on Bitcoin Crash &amp; MSTR Stock Drop – BTC Price Analysis](https://www.youtube.com/watch?v=hBmAUuKogrI)**
 
-Gold and silver just experienced historic volatility while Bitcoin feels strangely stuck. In this episode of No Second Best, we step ...
+BTC #Bitcoin #Cryptocurrency Join Michael Saylor for his unforgettable keynote at the Bitcoin Conference. The leading Bitcoin ...
+
+📺 Natalie Clarice
+
+👁️ 5K • 👍 2K • 1h ago
+
+---
+
+**[Bitcoin Investors....Get Ready for THIS](https://www.youtube.com/watch?v=i8c_TMdqOb0)**
+
+Check out ClashPicks: https://www.clashpicks.com/ **Exchange Partners** Bitunix Exchange ▻ *$100000 Deposit Bonus* ...
+
+📺 CryptosRUs
+
+👁️ 49K • 👍 2K • 💬 587 • ⏱️ 8:41 • 22h ago
+
+---
+
+**[Bitcoin Near Collapse As Crypto Bill Heads To Senate Vote](https://www.youtube.com/watch?v=O0cv11qt290)**
+
+LIMITED TIME: ✓ Bitunix (no kyc, $700 bonus): https://www.bitunix.com/register?vipCode=AltcoinDaily 50% deposit bonus on ...
+
+📺 Altcoin Daily
+
+👁️ 66K • 👍 2K • 💬 259 • ⏱️ 8:26 • 1d ago
+
+---
+
+**[This Is Exactly How Bitcoin Always Breaks Out](https://www.youtube.com/watch?v=SAv2ua0soWo)**
+
+Gold and silver are exploding as global debt, deficits, and bond markets crack. Bitcoin looks quiet, even mocked — but this is ...
 
 📺 Swan Bitcoin
 
-👁️ 93K • 👍 3K • 💬 430 • ⏱️ 15:38 • 1d ago
+👁️ 10K • 👍 321 • 💬 49 • ⏱️ 1:39 • 1d ago
 
 ---
 
-**[I WARNED YOU ABOUT THIS BITCOIN CRASH… (THIS TIME LISTEN!!)](https://www.youtube.com/watch?v=LMwnSavpoJM)**
+**[The Argument Of &quot;You Want To Own Bitcoin During Risk-On Times and Metals During Risk-Off Times&quot;](https://www.youtube.com/watch?v=ldGjQ7ONYW8)**
 
-TOOBIT — CLAIM $50 & 20% SIGN UP BONUS ON YOUR DEPOSIT Limited spots available, first ...
+Into The Cryptoverse Premium: https://intothecryptoverse.com Into The Cryptoverse Newsletter: ...
 
-📺 100XClub
+📺 Benjamin Cowen
 
-👁️ 10K • 👍 1K • 💬 244 • ⏱️ 7:50 • 13h ago
+👁️ 11K • 👍 118 • 💬 8 • ⏱️ 0:37 • 1d ago
 
 ---
 
@@ -393,17 +383,27 @@ Bitcoin #Crypto #Finance Bitcoin, gold, and silver are all breaking down at the 
 
 📺 The Wolf Of All Streets
 
-👁️ 17K • 👍 1K • 💬 230 • ⏱️ 40:13 • 7h ago
+👁️ 20K • 👍 1K • 💬 295 • ⏱️ 40:13 • 7h ago
 
 ---
 
-**[Why is Bitcoin Dropping?](https://www.youtube.com/watch?v=pxFxcr11dMI)**
+**[Bitcoin About To Explode If The Fed Does This Today...](https://www.youtube.com/watch?v=l30sNrH4pvs)**
 
-Bitcoin appears to have completed its 2023–2025 market cycle and entered a late-cycle digestion phase similar to mid-2019.
+Today, let's examine Bitcoin's charts and metrics, as well as the latest Macro and Crypto news. Additionally, a look at the latest ...
+
+📺 CryptosRUs
+
+👁️ 37K • 👍 2K • 💬 243 • ⏱️ 38:00 • 2d ago
+
+---
+
+**[NFA Live! Metal Mania, Bitcoin Lags](https://www.youtube.com/watch?v=18HleHy3DIo)**
+
+Let's talk about metals, stocks, and #Bitcoin in 2025! 0:00 - INTRO NFA LIVE 1/29/26 0:07 Guest introductions and greetings 1:03 ...
 
 📺 Benjamin Cowen
 
-👁️ 85K • 👍 5K • 💬 392 • ⏱️ 10:19 • 1d ago
+👁️ 20K • 👍 1K • 💬 63 • ⏱️ 55:38 • 1d ago
 
 ---
 

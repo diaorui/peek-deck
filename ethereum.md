@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-01-30T23:27:02.218841+00:00'
+updated: '2026-01-30T23:50:49.976862+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- social
+- videos
 - cryptocurrency
 - news
-- videos
+- social
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** January 30, 2026 at 23:27 UTC  
+**Last Updated:** January 30, 2026 at 23:50 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -52,17 +52,17 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Market Stats
 
-**Market Cap:** $326.12B
+**Market Cap:** $326.18B
 Rank #2
 
 **Circulating Supply:** 120,694,259 ETH
 No max supply
 
 **All-Time High:** $4,946.05
--45.4%
+-45.3%
 
 **All-Time Low:** $0.43
-+623382.9%
++624394.5%
 
 ---
 
@@ -72,7 +72,7 @@ No max supply
 
 In these five years, the Ethereum Foundation is entering a period of mild austerity, in order to be able to simultaneously meet two goals: Deliver on an aggressive roadmap that ensures Ethereum's status as a performant and scalable world computer that does not compromise on robustness, sustainability and decentralization. Ensures the Ethereum Foundation's own ability to sustain into the long term, and protect Ethereum's core mission and goals, including both the core blockchain layer as well as users' ability to access and use the chain with self-sovereignty, security and privacy. To this end, my own share of the austerity is that I am personally taking on responsibilities that might in another time have been "special projects" of the EF. Specifically, we are seeking the existence of an open-source, secure and verifiable full stack of software and hardware that can protect both our personal lives and our public environments ( see https://vitalik.eth.limo/general/2025/09/24/openness_and_verifiability.html ). This includes applications such as finance, communication and governance, blockchains, operating systems, secure hardware, biotech (including both personal and public health), and more. If you have seen the Vensa announcement (seeking to make open silicon a commercially viable reality at least for security-critical applications), the ucritter.com including recent versions with built in ZK + FHE + differential-privacy features, the air quality work, my donations to encrypted messaging apps, my own enthusiasm and use for privacy-preserving, walkaway-test-friendly and local-first software (including operating systems), then you know the general spirit of what I am planning to support. For this reason I have just withdrawn 16,384 ETH, which will be deployed toward these goals over the next few years. I am also exploring secure decentralized staking options that will allow even more capital from staking rewards to be put toward these goals in the long term. Ethereum itself is an indispensable part of the "full-stack openness and verifiability" vision. The Ethereum Foundation will continue with a steadfast focus on developing Ethereum, with that goal in mind. "Ethereum everywhere" is nice, but the primary priority is "Ethereum for people who need it". Not corposlop, but self-sovereignty, and the baseline infrastructure that enables cooperation without domination. In a world where many people's default mindset is that we need to race to become a big strong bully, because otherwise the existing big strong bullies will eat you first, this is the needed alternative. It will involve much more than technology to succeed, but the technical layer is something which is in our control to make happen. The tools to ensure your, and your community's, autonomy and safety, as a basic right that belongs to everyone. Open not in a bullshit "open means everyone has the right to buy it from us and use our API for $200/month" way, but actually open, and secure and verifiable so that you know that your technology is working for you.
 
-14h ago
+15h ago
 
 ---
 
@@ -88,7 +88,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 It was some time ago that ETH went from proof of work to proof of stake. At the time Vitalik said that there were other changes coming such as faster transaction or lower transaction cost. I have not heard any more since then? Is there any progress?
 
-2h ago
+3h ago
 
 ---
 
@@ -112,7 +112,7 @@ The Doots live stream is all about showcasing the best of the week from the Dail
 
 Hello Folks, I just published a smart contract to handle crypto inheritance 100% on-chain, without the owner having to do anything offline. I know there are many solutions that are trying to solve this problem, but I wanted to design my own with my logic, which is the following: - the contract acts like a wallet, owner can deposit, withdraw and transfer - the owner can assign beneficiaries, and update them at any time - the wallet contains an "alive check", which is automatically updated on any transaction - if you wanna use it as a vault (dormant), you can update the "alive check" manually - the owner defines a "consider me death time" in years, eg: if the last alive check is older than 10 years, I'm dead :( - once that happen, any of the beneficiaries can access the wallet and withdraw all the funds At this point, my favorite feature: the wallet gets locked, will reject any future deposit and "answer" with an epitaph... your "last worlds" recorded on-chain that you can configure when you create the wallet. All of the above is less then 100 lines of solidity... amazing :) At the moment I only did the backend (github link), but I'd like to do a nice interface to make it easy to deploy. Of course, free and open source in the Ethereum spirit! Would you give me a feedback on the logic? Do you see any pitfall or edge cases? Thanks, Francesco
 
-5h ago
+6h ago
 
 ---
 
@@ -128,7 +128,7 @@ Fidelity Investments FIDD stablecoin, TheDAO Security Fund, Hegotá upgrade head
 
 I've been working on adding native smart contract interaction to markdown-based ENS websites on Simple Page, and v1.6.0 just shipped with two features I'm excited to share. Web3 Forms via URI Protocol You can now embed interactive contract calls using web3:// URIs (ERC-6860) directly in markdown. The syntax works like this: ![USDC Balance](web3://0xa0b8...eb48:1/balanceOf/address!0x?returns=(uint256)&labels=(Account)) This renders as a live form that: Reads contract state without signatures (view/pure functions) Handles transactions with type validation Supports payable functions with ETH inputs No Web3.js boilerplate, no React scaffolding—just a URI that gets parsed into a working interface. RSS Feed Generation Sites can now auto-generate RSS feeds at /rss.xml using frontmatter: Per-page opt-in with rss: true Audio enclosures for podcast episodes Standard metadata from markdown headers Technical Architecture The interesting part about Simple Page is how this works with ENS + IPFS: Sites are pure HTML (render without JS) Editor and forms load progressively One contenthash update publishes everything Self-contained—no external dependencies This approach lets ENS names function as actual web3 endpoints rather than just static pages. The web3:// protocol handler does the ABI encoding/decoding client-side. Web3 forms example: https://simplepage.eth.link/guides/editor/web3-forms/ Source: https://simplepage.eth.link/
 
-13h ago
+14h ago
 
 ---
 
@@ -136,7 +136,7 @@ I've been working on adding native smart contract interaction to markdown-based 
 
 Ethereum developers used ACDE #229 to shift focus toward Devnet-2 readiness, execution optimizations & repricing as Glamsterdam moves from scoping into testing.
 
-🔗 [EtherWorld.co](https://etherworld.co/highlights-from-the-all-core-developers-execution-acde-call-229/) • 19h ago
+🔗 [EtherWorld.co](https://etherworld.co/highlights-from-the-all-core-developers-execution-acde-call-229/) • 20h ago
 
 ---
 
@@ -156,7 +156,7 @@ Hey everyone! Liquity V2 here. We launched on Ethereum Mainnet on in Q2 2025, an
 
 Ethereum’s co-founder said the $43 million withdrawal will support a broader “full-stack openness and verifiability” vision as the foundation tightens spending.
 
-CoinDesk • 13h ago
+CoinDesk • 14h ago
 
 ---
 
@@ -208,7 +208,7 @@ Barron's • 5h ago
 
 Ripple’s new stablecoin rollout has put a bright spotlight on a simple fact: most RLUSD is living on Ethereum right now. That imbalance has stirred worry among long-time XRP supporters.Some feel the company’s heart might be shifting away from the ledger that gave it a base. Others say the move is p…
 
-TradingView • 4h ago
+TradingView • 5h ago
 
 ---
 
@@ -216,7 +216,7 @@ TradingView • 4h ago
 
 Four major AI models have projected 2026 price targets for Ethereum (CRYPTO: ETH), Solana (CRYPTO: SOL), and XRP (CRYPTO: XRP). The forecasts range from conservative consolidation to triple-digit percentage gains, with each asset showing different upside potential based on adoption trends, network activity, and market positioning. Ethereum anchors institutional DeFi with mature Layer 2 networks, ... AI Models Predict Ethereum, Solana, and XRP 2026 Prices—Which Altcoin Has the Biggest Upside?
 
-Yahoo Finance • 3h ago
+Yahoo Finance • 4h ago
 
 ---
 
@@ -238,17 +238,7 @@ BITCOIN & ALTCOIN CRASH: EMERGENCY UPDATE (New Trade)!!! - Bitcoin News Today, E
 
 📺 Crypto World
 
-👁️ 2K • 👍 161 • 💬 41 • ⏱️ 22:15 • 4h ago
-
----
-
-**[Ethereum Elliott Wave Update – Key Resistance Levels Ahead](https://www.youtube.com/watch?v=EBDBuOl9hek)**
-
-This video provides a professional Elliott Wave and technical analysis of Ethereum (ETH), focusing on market structure, major ...
-
-📺 More Crypto Online
-
-👁️ 2K • 👍 125 • 💬 6 • ⏱️ 4:32 • 10h ago
+👁️ 4K • 👍 206 • 💬 61 • ⏱️ 22:15 • 5h ago
 
 ---
 
@@ -258,17 +248,27 @@ Watch The FULL Interview: "Explosive Crypto Price Prediction for 2026..." FREE D
 
 📺 Library Of Wealth
 
-👁️ 10K • 👍 415 • 💬 258 • ⏱️ 14:36 • 17h ago
+👁️ 11K • 👍 424 • 💬 253 • ⏱️ 14:36 • 18h ago
 
 ---
 
-**[WHY Cardano and Ethereum crypto coins are about to EXPLODE!!](https://www.youtube.com/watch?v=rFHVIvMYiiQ)**
+**[Ethereum Elliott Wave Update – Key Resistance Levels Ahead](https://www.youtube.com/watch?v=EBDBuOl9hek)**
 
-Cardano and Ethereum holders... GET READY!! ✓ Bitunix (no kyc, $10000 bonus): https://www.bitunix.com/register?
+This video provides a professional Elliott Wave and technical analysis of Ethereum (ETH), focusing on market structure, major ...
 
-📺 Altcoin Daily
+📺 More Crypto Online
 
-👁️ 47K • 👍 3K • 💬 289 • ⏱️ 8:35 • 2d ago
+👁️ 2K • 👍 131 • 💬 8 • ⏱️ 4:32 • 10h ago
+
+---
+
+**[BITCOIN AND ETH: NEW FED CHAIR (he is hawkish wtf)!!!! 🚨🚨🚨](https://www.youtube.com/watch?v=FSBDYffIDv4)**
+
+FREE TRAINING: https://www.bullmania.com EXCHANGES I USE (bybit, pionex): https://www.bullmania.com/partners My ...
+
+📺 Ivan on Tech
+
+👁️ 22K • 👍 1K • 💬 126 • ⏱️ 49:08 • 13h ago
 
 ---
 
@@ -278,7 +278,17 @@ Is it time to sell silver and buy Ethereum? In this video, I break down why trad
 
 📺 Michaël van de Poppe
 
-👁️ 4K • 👍 144 • 💬 34 • ⏱️ 12:09 • 1d ago
+👁️ 4K • 👍 150 • 💬 35 • ⏱️ 12:09 • 1d ago
+
+---
+
+**[WHY Cardano and Ethereum crypto coins are about to EXPLODE!!](https://www.youtube.com/watch?v=rFHVIvMYiiQ)**
+
+Cardano and Ethereum holders... GET READY!! ✓ Bitunix (no kyc, $10000 bonus): https://www.bitunix.com/register?
+
+📺 Altcoin Daily
+
+👁️ 47K • 👍 3K • 💬 294 • ⏱️ 8:35 • 2d ago
 
 ---
 
@@ -288,7 +298,7 @@ ETHEREUM ETH PRICE PREDICTION 2026 Join the Premium Signal Group for trade setup
 
 📺 Cilinix Crypto
 
-👁️ 697 • 👍 26 • 💬 1 • ⏱️ 5:29 • 13h ago
+👁️ 759 • 👍 27 • 💬 1 • ⏱️ 5:29 • 13h ago
 
 ---
 
@@ -298,7 +308,7 @@ The situation is getting worse and worse for crypto. Here are facts and my take 
 
 📺 Thomas Kralow
 
-👁️ 55K • 👍 3K • 💬 168 • ⏱️ 13:43 • 1d ago
+👁️ 55K • 👍 3K • 💬 171 • ⏱️ 13:43 • 1d ago
 
 ---
 
@@ -308,27 +318,17 @@ BITCOIN & ALTCOIN CRASH: History Repeating (Warning)!!! - Bitcoin News Today, Et
 
 📺 Crypto World
 
-👁️ 12K • 👍 381 • 💬 172 • ⏱️ 25:22 • 1d ago
+👁️ 12K • 👍 383 • 💬 154 • ⏱️ 25:22 • 1d ago
 
 ---
 
-**[Inflation SPIKES 🚨 BTC &amp; Tech Meltdown? (Everything is Tanking) 📉🔥](https://www.youtube.com/watch?v=NS9olVCaZRk)**
+**[&quot;My Latest 2026 ETH Prediction Will Come As a Huge Surprise&quot;: Tom Lee | ETH Price 2026](https://www.youtube.com/watch?v=1MrqcS0b34s)**
 
-JOIN THE FAMILY: http://www.patreon.com/investanswers IA MODELS: https://investanswers.io/indicators 🏖️ IA RETIRE ON: ...
+My FREE Daily On-Chain Analysis & Crypto News In 5-Mins: https://www.cryptonutshell.com/subscribe You can NOW ...
 
-📺 InvestAnswers
+📺 Jamie Tree 
 
-👁️ 2K • 👍 233 • 2h ago
-
----
-
-**[ETH Loses Support, This Is The Setup We’re Watching](https://www.youtube.com/watch?v=yYD9cCVxI48)**
-
-Get $450 Off Our New AI Indicators: https://tradeconfidentportal.io/indicators/ New Members! Get 25% Off Your 1st Month: ...
-
-📺 Trade Confident
-
-👁️ 667 • 👍 21 • 💬 5 • ⏱️ 5:01 • 1d ago
+👁️ 3K • 👍 73 • 💬 30 • ⏱️ 16:47 • 2d ago
 
 ---
 
