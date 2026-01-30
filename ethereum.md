@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-01-30T08:41:08.078714+00:00'
+updated: '2026-01-30T09:39:38.960116+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- news
 - social
 - videos
 - cryptocurrency
+- news
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** January 30, 2026 at 08:41 UTC  
+**Last Updated:** January 30, 2026 at 09:39 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -52,17 +52,17 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Market Stats
 
-**Market Cap:** $326.19B
+**Market Cap:** $328.88B
 Rank #2
 
 **Circulating Supply:** 120,694,259 ETH
 No max supply
 
 **All-Time High:** $4,946.05
--45.2%
+-44.9%
 
 **All-Time Low:** $0.43
-+625844.9%
++629320.8%
 
 ---
 
@@ -72,7 +72,7 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-2h ago
+3h ago
 
 ---
 
@@ -80,7 +80,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 In these five years, the Ethereum Foundation is entering a period of mild austerity, in order to be able to simultaneously meet two goals: Deliver on an aggressive roadmap that ensures Ethereum's status as a performant and scalable world computer that does not compromise on robustness, sustainability and decentralization. Ensures the Ethereum Foundation's own ability to sustain into the long term, and protect Ethereum's core mission and goals, including both the core blockchain layer as well as users' ability to access and use the chain with self-sovereignty, security and privacy. To this end, my own share of the austerity is that I am personally taking on responsibilities that might in another time have been "special projects" of the EF. Specifically, we are seeking the existence of an open-source, secure and verifiable full stack of software and hardware that can protect both our personal lives and our public environments ( see https://vitalik.eth.limo/general/2025/09/24/openness_and_verifiability.html ). This includes applications such as finance, communication and governance, blockchains, operating systems, secure hardware, biotech (including both personal and public health), and more. If you have seen the Vensa announcement (seeking to make open silicon a commercially viable reality at least for security-critical applications), the ucritter.com including recent versions with built in ZK + FHE + differential-privacy features, the air quality work, my donations to encrypted messaging apps, my own enthusiasm and use for privacy-preserving, walkaway-test-friendly and local-first software (including operating systems), then you know the general spirit of what I am planning to support. For this reason I have just withdrawn 16,384 ETH, which will be deployed toward these goals over the next few years. I am also exploring secure decentralized staking options that will allow even more capital from staking rewards to be put toward these goals in the long term. Ethereum itself is an indispensable part of the "full-stack openness and verifiability" vision. The Ethereum Foundation will continue with a steadfast focus on developing Ethereum, with that goal in mind. "Ethereum everywhere" is nice, but the primary priority is "Ethereum for people who need it". Not corposlop, but self-sovereignty, and the baseline infrastructure that enables cooperation without domination. In a world where many people's default mindset is that we need to race to become a big strong bully, because otherwise the existing big strong bullies will eat you first, this is the needed alternative. It will involve much more than technology to succeed, but the technical layer is something which is in our control to make happen. The tools to ensure your, and your community's, autonomy and safety, as a basic right that belongs to everyone. Open not in a bullshit "open means everyone has the right to buy it from us and use our API for $200/month" way, but actually open, and secure and verifiable so that you know that your technology is working for you.
 
-11m ago
+1h ago
 
 ---
 
@@ -88,7 +88,7 @@ In these five years, the Ethereum Foundation is entering a period of mild auster
 
 Ethereum developers used ACDE #229 to shift focus toward Devnet-2 readiness, execution optimizations & repricing as Glamsterdam moves from scoping into testing.
 
-🔗 [EtherWorld.co](https://etherworld.co/highlights-from-the-all-core-developers-execution-acde-call-229/) • 4h ago
+🔗 [EtherWorld.co](https://etherworld.co/highlights-from-the-all-core-developers-execution-acde-call-229/) • 5h ago
 
 ---
 
@@ -96,7 +96,7 @@ Ethereum developers used ACDE #229 to shift focus toward Devnet-2 readiness, exe
 
 Hey everyone! Liquity V2 here. We launched on Ethereum Mainnet on in Q2 2025, and have racked up $150m in TVL and $39m in BOLD supply. You might know us from Liquity V1 and LUSD (the OG venue for 0% interest loans). With V2, we feel we've created the ultimate borrowing and earning venue for users who value complete control. Liquity V2 is an immutable borrowing protocol (think MakerDAO, but with no governance to change the rules), where you can deposit ETH, wstETH, and rETH to mint the stablecoin, $BOLD. BOLD is only backed by said assets, and the protocol is completely immutable. We built Liquity V2 to solve two specific problems, offering unique value to the r/Ethereum community: 1) The Borrow Side: You set the rate. Liquity V2 is the only venue where you can borrow against your ETH/LSTs and set your own interest rate (or delegate it to a rate manager). This had led to borrowing rates for ETH, wstETH, and rETH on average to be the cheapest on Liquity V2 over the last 6 months - a full 2% cheaper than the competition. https://preview.redd.it/fx7vj767lbgg1.png?width=1216&format=png&auto=webp&s=a9e95a3324fdc548b9ee62e8621030a7add2f5f0 2) The Yield Side: Real Revenue, Not Emissions We created $BOLD to be the hardest stablecoin in DeFi that has sustainable savings built in. Unlike other stablecoins, 100% of borrower revenues are diverted towards growing $BOLD yield. The yield is split 75/25 to two specific venues sources: 75% of interest fees to the Stablity Pools: 75% of all interest paid by borrowers of ETH, wstETH, and rETH flows directly to their respective Stability Pools. The Stability Pools also allow depositors to capture ETH and LST liquidation gains at a discount. 25% of Interest Fees flow into growing BOLD liquidity on DEXes: Each week, roughly ~12k of protocol revenues are diverted into venues like Uniswap and Curve. This helps boost and enshrine liquidity for BOLD on blue-chip venues. Based on current rates, here is how you can capture that yield, with relatively low risk: If you want exposure to some ETH along with borrower fees: Stability Pool (~6% APY): The "set and forget" venue. You earn the 75% borrower interest split (paid in BOLD) + Liquidation gains (paid in ETH/LSTs). If you want pure dollar-dominated yield, where ETH liquidation gains get auto-compounded yBOLD via Yearn (~7% APY): Yearn’s auto-compounding vault that optimizes for the best yields across the 3 Stability Pools. sBOLD via K3 Capital (~6.5% APY): An auto-compounding vault that also sells off liquidation ETH gains for more BOLD. It has a fixed 60-30-10 split between the wstETH, ETH, and rETH Stability Pools. If you want to provide liquidity on a blue-chip DEX, while having balanced exposure to BOLD & USDC. Uniswap LP BOLD ><USDC (~7% APY) Curve LP BOLD >< USDC (~8% APY) BOLD yield opportunities Forkonomics and how it adds to yield. Liquity has taken a licensing approach to scaling. 10 teams have forked Liquity V2 code across various ecosystems, and as a part of their licensing fee, they have to allocate ~3% of their token supply to Liquity Mainnet users. These forks are allocating supply designated towards rewarding active BOLD liquidity providers on Mainnet (Stability Pool holders, LP providers on Curve & Uniswap, etc). On top of the organic yield above, we expect ~6 friendly forks providing airdrops over the next 6-9 months. The Impact: The first fork airdrop just went live, and it effectively added ~3% APR to the existing TVL sitting in those venues (eg. if you were earning 9% on Curve, you're earning 12% now) The Opportunity: By holding BOLD positions on Mainnet, you are farming yield for protocols launching across the L2 ecosystem simultaneously Safety and Security of Liquity V2 and BOLD. No yield is safe without addressing how the robust the stablecoin is. Bluechip, a stablecoin ratings agency, just rated BOLD an A-. This is a higher rating than USDC and DAI, furthering proof of The Score: BOLD received perfect 1.0 scores in Management, Decentralization, and Governance. The Distinction: BOLD is currently the only A- rated stablecoin with 100% crypto-native backing (no banks, no RWAs). Why? The protocol is immutable. Liquity cannot change the rules, rug the collateral, or blacklist addresses. BOLD rating. You can read more on Bluechip's A- rating on BOLD here: https://x.com/LiquityProtocol/status/2015798256186360000 Some useful resources on stats around Liquity V2, and yield opportunities: Borrow on Liquity V2 today: https://www.liquity.org/frontend-v2 Yield venues with links included: https://dune.com/liquity/liquity-v2-yields YouTube Playlist on Liquity V2: https://www.youtube.com/watch?v=o1miCKLIPYs&list=PL4NlNvaPAvJ-51WBhFdBcK3BFA0Fk32rE Happy to answer any and all questions :)
 
-15h ago
+16h ago
 
 ---
 
@@ -112,7 +112,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 TheDAO is back & it’s bullish! TheDAO Security Fund will activate more than 75,000 ETH (over $225M) to strengthen Ethereum’s security, ensuring it is ready to become the backbone of the world’s financial infrastructure. A decade after TheDAO saga began, we’re opening a new chapter in its story
 
-🔗 [TheDAO Security Fund](https://paragraph.com/@thedao.fund/thedao-security-fund-activating-75000-eth-for-ethereum-security) • 8h ago
+🔗 [TheDAO Security Fund](https://paragraph.com/@thedao.fund/thedao-security-fund-activating-75000-eth-for-ethereum-security) • 9h ago
 
 ---
 
@@ -120,7 +120,7 @@ TheDAO is back & it’s bullish! TheDAO Security Fund will activate more than 75
 
 Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.
 
-🔗 [youtu.be](https://youtu.be/7jvfkuaV2UI) • 12h ago
+🔗 [youtu.be](https://youtu.be/7jvfkuaV2UI) • 13h ago
 
 ---
 
@@ -128,7 +128,7 @@ Enjoy the videos and music you love, upload original content, and share it all w
 
 An unprecedented year for Ethereum. 10 year anniversary x 0 downtime. 2 Upgrades. Funding remains a challenge.
 
-🔗 [X (formerly Twitter)](https://x.com/ProtocolGuild/status/2016969171905761459?s=20) • 12h ago
+🔗 [X (formerly Twitter)](https://x.com/ProtocolGuild/status/2016969171905761459?s=20) • 13h ago
 
 ---
 
@@ -136,7 +136,7 @@ An unprecedented year for Ethereum. 10 year anniversary x 0 downtime. 2 Upgrades
 
 To maximize Ethereum’s neutrality, we propose that the Hegotá upgrade includes both FOCIL and encrypted mempools. This would complete the Holy Trinity of Censorship Resistance, achieving system-level defense against transaction censorship.
 
-🔗 [EtherWorld.co](https://etherworld.co/hegota-should-complete-the-holy-trinity-of-censorship-resistance/) • 22h ago
+🔗 [EtherWorld.co](https://etherworld.co/hegota-should-complete-the-holy-trinity-of-censorship-resistance/) • 23h ago
 
 ---
 
@@ -156,7 +156,7 @@ Ethereum doesn’t have a fixed “X% inflation forever” schedule. Its supply 
 
 Unclaimed Ethereum from a decade-long hack will be staked and distributed to fund audits, tooling, and incident responses.
 
-Decrypt • 10h ago
+Decrypt • 11h ago
 
 ---
 
@@ -164,7 +164,7 @@ Decrypt • 10h ago
 
 Some funds that were initially sequestered to help refund “edge case” victims of The DAO hack will fund a new Ethereum security effort.
 
-The Block • 16h ago
+The Block • 17h ago
 
 ---
 
@@ -172,7 +172,7 @@ The Block • 16h ago
 
 Tom Lee has urged investors not to let the rally in gold and silver divert attention from Ethereum. BitMine continues to build its Ethereum position. ...
 
-Yahoo Finance • 23h ago
+Yahoo Finance • 1d ago
 
 ---
 
@@ -186,7 +186,7 @@ Binance • 3d ago
 
 Ethereum price started a major decline after it failed to clear $3,050. ETH is down 10% and is now struggling to stay above the $2,700 support.Ethereum Price Dips 10%Ethereum price failed to remain stable above $2,880 and started a major decline, like Bitcoin. ETH price traded below $2,820 to enter…
 
-TradingView • 5h ago
+TradingView • 6h ago
 
 ---
 
@@ -208,7 +208,7 @@ CoinDesk • 1d ago
 
 The crypto market is under pressure today, with Bitcoin, Ethereum, and XRP all trading lower as selling activity picks up across major tokens. The total
 
-Coinpedia Fintech News • 17h ago
+Coinpedia Fintech News • 18h ago
 
 ---
 
@@ -216,13 +216,13 @@ Coinpedia Fintech News • 17h ago
 
 Cryptocurrency markets have shown limited momentum this week, with both Bitcoin and Ethereum lingering in narrow price ranges. This price action comes on the heels of the US Federal Reserve’s decision to keep interest rates unchanged. Traders and investors appeared to have taken a wait-and-see appr…
 
-TradingView • 12h ago
+TradingView • 13h ago
 
 ---
 
 **[🚨 $200 BILLION GONE FROM CRYPTO IN 24 HOURS Bitcoin, Ethereum, Solana, XRP ...all deep in the red. The entire market just got slammed, with double-digit drops across smaller tokens and nearly every chart bleeding. Ethereum is down nearly 7%, Bitco](https://x.com/MarioNawfal/status/2016994696992870843)**
 
-x.com • 10h ago
+x.com • 11h ago
 
 ---
 
@@ -236,37 +236,7 @@ Is it time to sell silver and buy Ethereum? In this video, I break down why trad
 
 📺 Michaël van de Poppe
 
-👁️ 3K • 👍 121 • 💬 21 • ⏱️ 12:09 • 17h ago
-
----
-
-**[🚨 BTC &amp; ETH: SELL ALL BITCOIN AND QUIT CRYPTO!!!!!!!!!](https://www.youtube.com/watch?v=Js9TFiiwSBk)**
-
-The situation is getting worse and worse for crypto. Here are facts and my take on whether its time to sell all bitcoin and just quit!
-
-📺 Thomas Kralow
-
-👁️ 50K • 👍 3K • 💬 174 • ⏱️ 13:43 • 21h ago
-
----
-
-**[Ethereum Elliott Wave Update – Key Resistance Levels Ahead](https://www.youtube.com/watch?v=UzzqPFmjlko)**
-
-This video provides a professional Elliott Wave and technical analysis of Ethereum (ETH), focusing on market structure, major ...
-
-📺 More Crypto Online
-
-👁️ 2K • 👍 115 • 💬 5 • ⏱️ 6:16 • 9h ago
-
----
-
-**[BITCOIN &amp; ALTCOIN CRASH: History Repeating (Warning)!!! - Bitcoin News Today, Ethereum &amp; Altcoins](https://www.youtube.com/watch?v=GnJpG3iiDxY)**
-
-BITCOIN & ALTCOIN CRASH: History Repeating (Warning)!!! - Bitcoin News Today, Ethereum & Altcoins *Toobit* ...
-
-📺 Crypto World
-
-👁️ 8K • 👍 308 • 💬 106 • ⏱️ 25:22 • 10h ago
+👁️ 3K • 👍 132 • 💬 22 • ⏱️ 12:09 • 18h ago
 
 ---
 
@@ -276,7 +246,37 @@ Get $450 Off Our New AI Indicators: https://tradeconfidentportal.io/indicators/ 
 
 📺 Trade Confident
 
-👁️ 484 • 👍 17 • 💬 14 • ⏱️ 5:01 • 13h ago
+👁️ 544 • 👍 17 • 💬 14 • ⏱️ 5:01 • 14h ago
+
+---
+
+**[Ethereum Elliott Wave Update – Key Resistance Levels Ahead](https://www.youtube.com/watch?v=UzzqPFmjlko)**
+
+This video provides a professional Elliott Wave and technical analysis of Ethereum (ETH), focusing on market structure, major ...
+
+📺 More Crypto Online
+
+👁️ 2K • 👍 138 • 💬 6 • ⏱️ 6:16 • 10h ago
+
+---
+
+**[🚨 BTC &amp; ETH: SELL ALL BITCOIN AND QUIT CRYPTO!!!!!!!!!](https://www.youtube.com/watch?v=Js9TFiiwSBk)**
+
+The situation is getting worse and worse for crypto. Here are facts and my take on whether its time to sell all bitcoin and just quit!
+
+📺 Thomas Kralow
+
+👁️ 51K • 👍 3K • 💬 175 • ⏱️ 13:43 • 22h ago
+
+---
+
+**[BITCOIN &amp; ALTCOIN CRASH: History Repeating (Warning)!!! - Bitcoin News Today, Ethereum &amp; Altcoins](https://www.youtube.com/watch?v=GnJpG3iiDxY)**
+
+BITCOIN & ALTCOIN CRASH: History Repeating (Warning)!!! - Bitcoin News Today, Ethereum & Altcoins *Toobit* ...
+
+📺 Crypto World
+
+👁️ 10K • 👍 342 • 💬 109 • ⏱️ 25:22 • 11h ago
 
 ---
 
@@ -286,7 +286,7 @@ Cardano and Ethereum holders... GET READY!! ✓ Bitunix (no kyc, $10000 bonus): 
 
 📺 Altcoin Daily
 
-👁️ 45K • 👍 2K • 💬 289 • ⏱️ 8:35 • 1d ago
+👁️ 45K • 👍 2K • 💬 287 • ⏱️ 8:35 • 1d ago
 
 ---
 
@@ -296,7 +296,17 @@ https://bit.ly/3HLA8ql CLICK HERE Ready to change your financial future? Join To
 
 📺 The Rich Dad Channel
 
-👁️ 2K • 👍 94 • 💬 7 • ⏱️ 33:33 • 13h ago
+👁️ 2K • 👍 97 • 💬 7 • ⏱️ 33:33 • 14h ago
+
+---
+
+**[BITCOIN AND ETH: NEW FED CHAIR (he is hawkish wtf)!!!! 🚨🚨🚨](https://www.youtube.com/watch?v=FSBDYffIDv4)**
+
+FREE TRAINING: https://www.bullmania.com EXCHANGES I USE (bybit, pionex): https://www.bullmania.com/partners My ...
+
+📺 Ivan on Tech
+
+👁️ 2K • 👍 189 • 46m ago
 
 ---
 
@@ -310,23 +320,13 @@ Fidelity launches their own stablecoin on one of the B.E.S.T. The links below ma
 
 ---
 
-**[A ALTA DAS CRIPTOMOEDAS (ETHEREUM E SOLANA) FOI CANCELADA?](https://www.youtube.com/watch?v=weQPrYv8p80)**
+**[&quot;My Latest 2026 ETH Prediction Will Come As a Huge Surprise&quot;: Tom Lee | ETH Price 2026](https://www.youtube.com/watch?v=1MrqcS0b34s)**
 
-A ALTA DAS CRIPTOMOEDAS (ETHEREUM E SOLANA) FOI CANCELADA? A JANELA INVISÍVEL     ...
+My FREE Daily On-Chain Analysis & Crypto News In 5-Mins: https://www.cryptonutshell.com/subscribe You can NOW ...
 
-📺 Luiz Fernando
+📺 Jamie Tree 
 
-👁️ 5K • 👍 357 • 💬 42 • ⏱️ 13:12 • 10h ago
-
----
-
-**[This Ethereum update could be MASSIVE!  (BMNR Stock Update)](https://www.youtube.com/watch?v=mzixH7Wtv7w)**
-
-15% Off Fiscal.ai Plans! Unlock institutional-grade data with my link: https://fiscal.ai/?via=roy Follow me on X: @kross_roads ...
-
-📺 Crossroads
-
-👁️ 5K • 👍 224 • 💬 48 • ⏱️ 11:03 • 17h ago
+👁️ 3K • 👍 70 • 💬 30 • ⏱️ 16:47 • 1d ago
 
 ---
 
