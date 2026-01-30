@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-01-30T22:55:49.165787+00:00'
+updated: '2026-01-30T23:27:02.212771+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- videos
-- cryptocurrency
 - social
+- cryptocurrency
 - news
+- videos
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** January 30, 2026 at 22:55 UTC  
+**Last Updated:** January 30, 2026 at 23:27 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -79,7 +79,7 @@ Rank #1
 
 **[Soo, who all is buying?](https://www.reddit.com/r/Bitcoin/comments/1qr6njb/soo_who_all_is_buying/)**
 
-8h ago
+9h ago
 
 ---
 
@@ -101,19 +101,19 @@ I wish I had more liquidity!
 
 The deal will be too good to pass at that point.
 
-6h ago
+7h ago
 
 ---
 
 **[Pack yo bags — bullish for BTC. Who's locking in with me ?](https://www.reddit.com/r/Bitcoin/comments/1qr6uah/pack_yo_bags_bullish_for_btc_whos_locking_in_with/)**
 
-8h ago
+9h ago
 
 ---
 
 **[Sliver people acting like it’s such a volatile asset. LMAO](https://www.reddit.com/r/Bitcoin/comments/1qriea6/sliver_people_acting_like_its_such_a_volatile/)**
 
-1h ago
+2h ago
 
 ---
 
@@ -125,7 +125,7 @@ The deal will be too good to pass at that point.
 
 **[Kevin Warsh's view on Bitcoin:](https://www.reddit.com/r/Bitcoin/comments/1qr7vmx/kevin_warshs_view_on_bitcoin/)**
 
-7h ago
+8h ago
 
 ---
 
@@ -151,7 +151,7 @@ Red candles everywhere, BTC dipping hard. Paper hands sweating. Headlines scream
 
 Warsh has praised bitcoin as a tool to guide policy, not as a competitor to the dollar.
 
-Yahoo Finance • 7h ago
+Yahoo Finance • 8h ago
 
 ---
 
@@ -159,7 +159,7 @@ Yahoo Finance • 7h ago
 
 Only yesterday, we explained how Donald Trump runs his White House like a reality TV competition. Nominees for high office are turned into contestants vying for his approval, and the frontrunner could switch at any minute.Lo and behold, that’s exactly what’s happened in the race to become the next chairman ...
 
-Yahoo Finance • 10h ago
+Yahoo Finance • 11h ago
 
 ---
 
@@ -189,7 +189,7 @@ Mashable • 1d ago
 
 Bitcoin miners are "extremely underpaid" given the price of Bitcoin and current BTC mining conditions, according to a CryptoQuant report.
 
-Yahoo Finance • 53m ago
+Yahoo Finance • 1h ago
 
 ---
 
@@ -255,7 +255,7 @@ A list of known attacks against Bitcoin / crypto asset owning entities that occu
 
 Examine why the Binance SAFU fund debate keeps resurfacing, how stablecoins signal safety, and why Bitcoin continues to dominate trust conversations.
 
-⬆️ 1 • 💬 0 • 13h ago • [Altcoin Desk](https://altcoindesk.com/perspectives/1b-binance-safu-fund-if-stablecoins-mean-safety-why-do-bitcoin-returns/article-22752/)
+⬆️ 1 • 💬 0 • 14h ago • [Altcoin Desk](https://altcoindesk.com/perspectives/1b-binance-safu-fund-if-stablecoins-mean-safety-why-do-bitcoin-returns/article-22752/)
 
 ---
 
@@ -293,7 +293,7 @@ Transform HN comment threads into executive intelligence. AI analyzes discussion
 
 20 years of Hacker News analyzed. 40M comments. 10,000 topics. What the tech community really thinks.
 
-⬆️ 3 • 💬 0 • 6h ago • [HN Zeitgeist](https://hn.mrzepa.com/)
+⬆️ 3 • 💬 0 • 7h ago • [HN Zeitgeist](https://hn.mrzepa.com/)
 
 ---
 
@@ -313,7 +313,7 @@ Central banks are selling Treasuries and hoarding gold at record levels as trust
 
 📺 Swan Bitcoin
 
-👁️ 15K • 👍 880 • 💬 149 • ⏱️ 14:55 • 8h ago
+👁️ 15K • 👍 880 • 💬 149 • ⏱️ 14:55 • 9h ago
 
 ---
 
@@ -393,7 +393,7 @@ Bitcoin #Crypto #Finance Bitcoin, gold, and silver are all breaking down at the 
 
 📺 The Wolf Of All Streets
 
-👁️ 17K • 👍 1K • 💬 230 • ⏱️ 40:13 • 6h ago
+👁️ 17K • 👍 1K • 💬 230 • ⏱️ 40:13 • 7h ago
 
 ---
 
