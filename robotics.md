@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-01-30T11:29:19.662582+00:00'
+updated: '2026-01-30T11:54:28.748037+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- videos
-- news
 - social
+- news
+- videos
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** January 30, 2026 at 11:29 UTC  
+**Last Updated:** January 30, 2026 at 11:54 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -36,7 +36,7 @@ Robotics research and industry news
 
 Ant Group released LingBot-VA, a VLA built on a different premise than most current approaches: instead of directly mapping observations to actions, first predict what the future should look like, then infer what action causes that transition. The model uses a 5.3B video diffusion backbone (Wan2.2) as a "world model" to predict future frames, then decodes actions via inverse dynamics. Everything runs through GPT style autoregressive generation with KV-cache — no chunk-based diffusion, so the robot maintains persistent memory across the full trajectory and respects causal ordering (past → present → future). Results on standard benchmarks: 92.9% on RoboTwin Easy (vs 82.7% for π0.5), 91.6% on Hard (vs 76.8%), 98.5% on LIBERO-Long. The biggest gains show up on long-horizon tasks and anything requiring temporal memory — counting repetitions, remembering past observations, etc. Sample efficiency is a key claim: 50 demos for deployment, and even 10 demos outperforms π0.5 by 10-15%. They attribute this to the video backbone providing strong physical priors. For inference speed, they overlap prediction with execution using async inference plus a forward dynamics grounding step. 2× speedup with no accuracy drop.
 
-10h ago
+11h ago
 
 ---
 
@@ -54,6 +54,14 @@ Setup: 2 x Super-Beacons - a few meters away on the walls of the room - as stati
 
 ---
 
+**[Framework for Soft Robotics via 3D Printable Artificial Muscles](https://www.reddit.com/r/robotics/comments/1qqrzkz/framework_for_soft_robotics_via_3d_printable/)**
+
+The overall goal is to lower the barrier to entry for soft robotics and provide an alternative approach to building robotic systems. One way to achieve this is by using widely available tools such as FDM 3D printers. The concept centers on a 3D‑printable film used to create inflatable bags. These bags can be stacked to form pneumatic, bellows‑style linear artificial muscles. A tendon‑driven actuator is then assembled around these muscles to create functional motion. The next phase focuses on integration. A 3D‑printed sleeve guides each modular muscle during inflation, and different types of skeletons—human, dog, or frog—can be printed while reusing the same muscle modules across all designs. You can see the experiments with the bags here: https://www.youtube.com/playlist?list=PLF9nRnkMqNpZ-wNNfvy_dFkjDP2D5Q4OO I am looking for groups, labs, researchers, and students working in soft robotics who could provide comments and general feedback on this approach, as well as guidance on developing a complete framework (including workflows, designs, and simulations).
+
+10h ago
+
+---
+
 **[F.02 Contributed to the Production of 30,000 Cars at BMW](https://www.reddit.com/r/robotics/comments/1qr0bbn/f02_contributed_to_the_production_of_30000_cars/)**
 
 Figure AI has released the final data from their 11-month deployment at BMW's Spartanburg plant. The 'Figure 02' humanoid robots worked 10-hour shifts, Monday to Friday, contributing to the production of over 30,000 BMW X3s. They loaded 90,000+ sheet metal parts with a <5mm tolerance, logging over 200 miles of walking. With Figure 02 now retiring, these lessons are being rolled into the new Figure 03.
@@ -62,11 +70,11 @@ Figure AI has released the final data from their 11-month deployment at BMW's Sp
 
 ---
 
-**[Framework for Soft Robotics via 3D Printable Artificial Muscles](https://www.reddit.com/r/robotics/comments/1qqrzkz/framework_for_soft_robotics_via_3d_printable/)**
+**[I put olama 3.3 70b instruct on jetson thor](https://www.reddit.com/r/robotics/comments/1qr3av3/i_put_olama_33_70b_instruct_on_jetson_thor/)**
 
-The overall goal is to lower the barrier to entry for soft robotics and provide an alternative approach to building robotic systems. One way to achieve this is by using widely available tools such as FDM 3D printers. The concept centers on a 3D‑printable film used to create inflatable bags. These bags can be stacked to form pneumatic, bellows‑style linear artificial muscles. A tendon‑driven actuator is then assembled around these muscles to create functional motion. The next phase focuses on integration. A 3D‑printed sleeve guides each modular muscle during inflation, and different types of skeletons—human, dog, or frog—can be printed while reusing the same muscle modules across all designs. You can see the experiments with the bags here: https://www.youtube.com/playlist?list=PLF9nRnkMqNpZ-wNNfvy_dFkjDP2D5Q4OO I am looking for groups, labs, researchers, and students working in soft robotics who could provide comments and general feedback on this approach, as well as guidance on developing a complete framework (including workflows, designs, and simulations).
+I made a python script to make the AI rude and roast me I call it RoastBot. Also adding a mic and speakers and it works flawlessly. Now I want to slap a camera or 2 onto the thor and see if it can describe what items I am holding. After that I am going to start 3D printing some pieces to build the robot body and order basic servos only to get it to move. Is this a feasible idea on the jetson thor? I'm a 21 year old living in his mom's basement and I don't have any background in AI or python (Grok helped me learn basic python within an hour to make the first script) but I have been developing applications with C# and .NET since I was 15 so I feel like this isn't a pie in the sky idea. I also want to document my entire journey on youtube building and training the robot. Is this journey something people will be willing to watch? Thank you❤️
 
-9h ago
+🔗 [youtube.com](https://youtube.com/shorts/578d_D-5vOw?si=vzp2e862OYmaZJWK) • 5m ago
 
 ---
 
@@ -74,7 +82,7 @@ The overall goal is to lower the barrier to entry for soft robotics and provide 
 
 I am final year robotics engineer . In industry I want a career as a simulation engineer. When ever I tried to do simulation like basic pick and place . It's not working in laptop.Either it's gazebo version problem or moveit version. . Sometimes I can't even find what problem I am facing . I want to do simulation in Issac sim, do much complex simulation in gazebo or any other simulation platforms. I know basic backend of ros2 where I did some service client project and I am very good at cad modelling.I followed some udemy tutorials video. But in udemy there is no proper tutorials for simulations. TLDR :Could anyone help me with to learn simulation for robotics .I am struggling to do basic simulations.
 
-6h ago
+7h ago
 
 ---
 
@@ -100,14 +108,6 @@ Kikobot is running a gripper design challenge focused on real-world mechanical d
 
 ---
 
-**[Mujoco Pick and Place Tasks](https://www.reddit.com/r/robotics/comments/1qqpo7p/mujoco_pick_and_place_tasks/)**
-
-I'm trying to learn the basics of Mujoco and RL through teaching a panda arm to place boxes into color coordinated buckets. I'm having a lot of trouble getting it to learn. Does anyone have any guides or know of existing projects I can use to guide me? This is my current environment. https://preview.redd.it/pkckdasgodgg1.png?width=922&format=png&auto=webp&s=07365fbdf62558f4017f5943ed92e172ed60d9b3
-
-11h ago
-
----
-
 ---
 
 ## Google News: "robotics"
@@ -120,11 +120,11 @@ NVIDIA Blog • 18h ago
 
 ---
 
-**[Richtech Robotics soars after announcing partnership with Microsoft to use AI to improve its robots](https://sherwood.news/markets/richtech-robotics-soars-after-announcing-partnership-with-microsoft-to-use/)**
+**[China rolls out robot cops in cities to push humanoid robots in daily life](https://www.nbcnews.com/video/china-rolls-out-robot-cops-in-cities-to-push-humanoid-robots-in-daily-life-256872517804)**
 
-The most momentous day for ADAM since serving Jensen Huang a margarita....
+China is deploying AI-powered robots to manage traffic and pedestrian flow in cities. NBC News’ Janis Mackey Frayer explains how China continues to advance robot technology and is pushing to integrate humanoid robots into daily life.
 
-Sherwood News • 2d ago
+NBC News • 8h ago
 
 ---
 
@@ -136,19 +136,19 @@ Hunterbrook • 18h ago
 
 ---
 
+**[Richtech Robotics soars after announcing partnership with Microsoft to use AI to improve its robots](https://sherwood.news/markets/richtech-robotics-soars-after-announcing-partnership-with-microsoft-to-use/)**
+
+The most momentous day for ADAM since serving Jensen Huang a margarita....
+
+Sherwood News • 2d ago
+
+---
+
 **[Richtech Robotics retreats after stock sale following Microsoft partnership](https://www.tradingview.com/news/reuters.com,2026:newsml_L6N3YT1A9:0-richtech-robotics-retreats-after-stock-sale-following-microsoft-partnership/)**
 
 ** Shares of Richtech Robotics NASDAQ:RR down 10.4% to $4.95 on Weds after it raises equity on heels of announcing partnership with Microsoft NASDAQ:MSFT** AI-driven service robots provider early Weds said it sold 8.5 mln shares to an institutional investor in private placement for gross proceeds o…
 
 TradingView • 1d ago
-
----
-
-**[China rolls out robot cops in cities to push humanoid robots in daily life](https://www.nbcnews.com/video/china-rolls-out-robot-cops-in-cities-to-push-humanoid-robots-in-daily-life-256872517804)**
-
-China is deploying AI-powered robots to manage traffic and pedestrian flow in cities. NBC News’ Janis Mackey Frayer explains how China continues to advance robot technology and is pushing to integrate humanoid robots into daily life.
-
-NBC News • 8h ago
 
 ---
 
@@ -168,11 +168,19 @@ Yahoo • 1h ago
 
 ---
 
+**[Another App Store For Robots Launches, Will Have ‘Thousands Of Apps’](https://www.forbes.com/sites/johnkoetsier/2026/01/29/another-app-store-for-robots-launches-will-have-thousands-of-apps/)**
+
+Robots are getting more and more common. Now we're getting robot app stores so we can download new skills and abilities for our robots ...
+
+Forbes • 13h ago
+
+---
+
 **[Tesla lurches into the Musk robotics era](https://www.ft.com/content/6a6cfa00-6f51-4abc-bd68-1738580bd2c5)**
 
 Future of the company lies in equipping and running a global fleet of driverless taxis and in selling humanoid robots
 
-Financial Times • 23h ago
+Financial Times • 1d ago
 
 ---
 
@@ -181,14 +189,6 @@ Financial Times • 23h ago
 Investors liked what they heard about the future following the company's latest results, but Elon Musk is under huge pressure to deliver on his vision as a series of targets have been missed.
 
 Sky News • 1d ago
-
----
-
-**[Tesla discontinues Model X and S vehicles as Elon Musk pivots to robotics](https://www.theguardian.com/technology/2026/jan/28/tesla-q4-earnings-estimates-elon-musk)**
-
-Musk’s optimism for Optimus robot demand help EV maker beat quarterly expectations despite first-ever yearly revenue decline
-
-The Guardian • 1d ago
 
 ---
 
@@ -202,7 +202,17 @@ China is deploying AI-powered robots to manage traffic and pedestrian flow in ci
 
 📺 NBC News
 
-👁️ 18K • 👍 223 • 💬 91 • ⏱️ 3:13 • 8h ago
+👁️ 25K • 👍 295 • 💬 120 • ⏱️ 3:13 • 8h ago
+
+---
+
+**[Elon Musk Repairs High-Tech Robotic 🕵️ Wings on Female 💲Android in Futuristic 🧪 Ai-concept.](https://www.youtube.com/watch?v=qBIpFr_d3Vg)**
+
+RoboticWings #FuturisticLab #Android #SciFi #Robotics #AIArt #Cyberpunk #HighTech #ArtificialIntelligence #TeslaBot ...
+
+📺 AITECHGADGETS
+
+👁️ 286K • 💬 148 • ⏱️ 0:18 • 4d ago
 
 ---
 
@@ -212,37 +222,7 @@ Steve Westly, former Tesla board member and founder of the Westly Group, joins '
 
 📺 CNBC Television
 
-👁️ 10K • 👍 62 • 💬 55 • ⏱️ 3:43 • 17h ago
-
----
-
-**[Viral video shows autonomous snow blower at work in New Jersey](https://www.youtube.com/watch?v=c7vetvwsn-Q)**
-
-Sandra Bookman has more on the viral video and the man behind the handy invention.
-
-📺 Eyewitness News ABC7NY
-
-👁️ 725K • 👍 6K • 💬 1K • ⏱️ 2:01 • 3d ago
-
----
-
-**[Tesla CEO Elon Musk doubles down on robots](https://www.youtube.com/watch?v=B78RNAlYXLA)**
-
-Tesla's fourth quarter earnings topped analyst estimates. CEO Elon Musk is betting big on robotics and AI with plans to spend $20 ...
-
-📺 Yahoo Finance
-
-👁️ 5K • 👍 101 • 💬 21 • ⏱️ 12:20 • 11h ago
-
----
-
-**[Robotics Boom: 3 Stocks Under $20 Right Now](https://www.youtube.com/watch?v=8yC0p_lfk4g)**
-
-Robotics stocks are heating up fast, but many of the biggest names are already expensive. In this video, MarketBeat's Jeffrey Neal ...
-
-📺 MarketBeat
-
-👁️ 137K • 👍 3K • 💬 179 • ⏱️ 17:39 • 6d ago
+👁️ 10K • 👍 62 • 💬 55 • ⏱️ 3:43 • 18h ago
 
 ---
 
@@ -252,17 +232,27 @@ Robotics stocks are heating up fast, but many of the biggest names are already e
 
 📺 Andreas Klinger ⅹ Europe's Most Ambitious Startups
 
-👁️ 22K • 👍 1K • 💬 187 • ⏱️ 16:46 • 3d ago
+👁️ 23K • 👍 1K • 💬 187 • ⏱️ 16:46 • 3d ago
 
 ---
 
-**[Meet Sprout: The Humanoid Robot Built for Real World Use](https://www.youtube.com/watch?v=4zMbX1OEOSE)**
+**[SATISFYING Robotic Arm Glazes Ceramics with INSANE Precision 🤖](https://www.youtube.com/watch?v=3PK2EOvBQkg)**
 
-This new humanoid robot is not about hype or flashy promises. Sprout is designed to work alongside people in real environments, ...
+Inside a high-tech ceramic workshop, a bright yellow industrial robotic arm executes a flawless glazing sequence with ...
 
-📺 DPCcars
+📺 Working Planet Shorts
 
-👁️ 3K • 👍 77 • 💬 17 • ⏱️ 3:17 • 1d ago
+👁️ 488K • 👍 701 • 💬 2 • ⏱️ 0:06 • 6d ago
+
+---
+
+**[The German Robots Are Replacing Forklifts Inside Factories](https://www.youtube.com/watch?v=tCis6jGzxnk)**
+
+Day 172 of watching tech evolve. German startup Filics has built autonomous warehouse robots that move in any direction, work ...
+
+📺 Deepen
+
+👁️ 20K • 👍 407 • 💬 10 • ⏱️ 0:29 • 5d ago
 
 ---
 
@@ -272,17 +262,17 @@ Hyundai is planning to place 30000 humanoid robots in its factories. We talked t
 
 📺 More Perfect Union
 
-👁️ 182K • 👍 16K • 💬 2K • ⏱️ 2:59 • 2d ago
+👁️ 183K • 👍 16K • 💬 2K • ⏱️ 2:59 • 2d ago
 
 ---
 
-**[Xpeng’s New ET1 AI Robot Just Broke the AI  Humanoid Limit — Optimus Killer Enters Mass Production](https://www.youtube.com/watch?v=T8IYzqINZJY)**
+**[How a Common Cow Transformed into a Powerful Robot | #factorworld #wavespeedai #hailuoai #robotcow](https://www.youtube.com/watch?v=4zN-1uejBgw)**
 
-XPENG Robotics just changed the game — their new ET1 AI humanoid robot has officially entered mass production, and it's ...
+How a Common Cow Transformed into a Powerful Robot | #factorworld #wavespeedai #hailuoai #robotcow #robotics ...
 
-📺 The AI Nexus
+📺 FACTOR WORLD
 
-👁️ 5K • 👍 150 • 💬 20 • ⏱️ 18:41 • 6d ago
+👁️ 4K • 👍 55 • ⏱️ 1:31 • 2d ago
 
 ---
 
@@ -292,7 +282,17 @@ Pacman Universe – Advanced Robotic Character Animation | StrEat Pacman Univers
 
 📺 StrEat
 
-👁️ 182K • 👍 370 • 2d ago
+👁️ 196K • 👍 395 • 2d ago
+
+---
+
+**[Robot That Grows Through Rubble To Find Survivors 🤖 #rescue #robotics #shorts](https://www.youtube.com/watch?v=haGH86W_f5A)**
+
+The Growing Robot That Enters Collapsed Buildings Before Humans Do When disaster strikes and buildings collapse, reaching ...
+
+📺 EcoZora
+
+👁️ 358K • 👍 1K • 💬 151 • ⏱️ 0:07 • 4d ago
 
 ---
 
