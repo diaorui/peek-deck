@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-01-30T18:44:08.644214+00:00'
+updated: '2026-01-30T19:32:59.773908+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- news
-- repositories
-- social
 - videos
+- news
+- social
+- repositories
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** January 30, 2026 at 18:44 UTC  
+**Last Updated:** January 30, 2026 at 19:32 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -39,7 +39,7 @@ AI news, discussions, and developments
 
 **[The debate over artificial intelligence and employment](https://www.reddit.com/r/artificial/comments/1qrb5dt/the_debate_over_artificial_intelligence_and/)**
 
-🔗 [technology.org](https://www.technology.org/2026/01/28/the-debate-over-artificial-intelligence-and-employment/) • 1h ago
+🔗 [technology.org](https://www.technology.org/2026/01/28/the-debate-over-artificial-intelligence-and-employment/) • 2h ago
 
 ---
 
@@ -47,7 +47,7 @@ AI news, discussions, and developments
 
 ByteDance, Alibaba and Tencent had been given permission to purchase more than 400,000 H200 chips in total.
 
-🔗 [thestandard.com.hk](https://www.thestandard.com.hk/china-news/article/323159/China-conditionally-approves-DeepSeek-to-buy-Nvidias-H200-chips) • 8h ago
+🔗 [thestandard.com.hk](https://www.thestandard.com.hk/china-news/article/323159/China-conditionally-approves-DeepSeek-to-buy-Nvidias-H200-chips) • 9h ago
 
 ---
 
@@ -63,7 +63,7 @@ Hey everyone. I Just published a breakdown on Moltbot: the self-hosted, open-sou
 
 Amazon is reportedly in discussions to invest as much as $50 billion in OpenAI, as major technology firms race to secure access to advanced artificial intelligence systems.
 
-🔗 [techputs](https://techputs.com/amazon-openai-50-billion-investment-talks/) • 15h ago
+🔗 [techputs](https://techputs.com/amazon-openai-50-billion-investment-talks/) • 16h ago
 
 ---
 
@@ -71,7 +71,7 @@ Amazon is reportedly in discussions to invest as much as $50 billion in OpenAI, 
 
 This post introduces the concept of "two agentic loops": the inner loop that handles reasoning and tool use, while the outer loop handles everything that makes agents ready for production—orchestration, guardrails, observability, and bounded execution. The outer loop is real infrastructure that needs to be built and maintained independently. Plano implements this pattern as an AI-native proxy and data plane.
 
-🔗 [Plano](https://planoai.dev/blog/the-two-agentic-loops-how-to-design-and-scale-agentic-apps) • 20h ago
+🔗 [Plano](https://planoai.dev/blog/the-two-agentic-loops-how-to-design-and-scale-agentic-apps) • 21h ago
 
 ---
 
@@ -127,7 +127,7 @@ blog.google • 1d ago
 
 **[Ex-Google Engineer Convicted of Stealing A.I. Secrets for Start-Up in China](https://www.nytimes.com/2026/01/29/business/ai-secrets-stolen-google-china.html)**
 
-The New York Times • 19h ago
+The New York Times • 20h ago
 
 ---
 
@@ -147,7 +147,7 @@ Anthropic • 23h ago
 
 **[Opinion | Young People Are Using A.I. to Skip the Hardest Part of Growing Up](https://www.nytimes.com/2026/01/30/opinion/ai-social-skills-relationships.html)**
 
-The New York Times • 8h ago
+The New York Times • 9h ago
 
 ---
 
@@ -155,7 +155,7 @@ The New York Times • 8h ago
 
 AI is disrupting labor markets, but it can also be "a rising tide that lifts all boats" if workers embrace it with support from employers, says MIT economist.
 
-CNBC • 1h ago
+CNBC • 2h ago
 
 ---
 
@@ -171,7 +171,7 @@ The Cloudflare Blog • 1d ago
 
 This open-source agent installs software, makes calls and runs your digital life—redefining what “digital assistants” are supposed to do
 
-Scientific American • 57m ago
+Scientific American • 1h ago
 
 ---
 
@@ -179,7 +179,7 @@ Scientific American • 57m ago
 
 The internet can be a dangerous place. You know it, I know it, and OpenAI wants its AI agents to know it.
 
-Mashable • 5h ago
+Mashable • 6h ago
 
 ---
 
@@ -253,7 +253,7 @@ The rise of LLMs as a useful development tool over the last year or so has been 
 
 AI assistance produces significant productivity gains across professional domains, particularly for novice workers. Yet how this assistance affects the development of skills required to effectively supervise AI remains unclear. Novice workers who rely heavily on AI to complete unfamiliar tasks may compromise their own skill acquisition in the process. We conduct randomized experiments to study how developers gained mastery of a new asynchronous programming library with and without the assistance of AI. We find that AI use impairs conceptual understanding, code reading, and debugging abilities, without delivering significant efficiency gains on average. Participants who fully delegated coding tasks showed some productivity improvements, but at the cost of learning the library. We identify six distinct AI interaction patterns, three of which involve cognitive engagement and preserve learning outcomes even when participants receive AI assistance. Our findings suggest that AI-enhanced productivity is not a shortcut to competence and AI assistance should be carefully adopted into workflows to preserve skill formation -- particularly in safety-critical domains.
 
-⬆️ 196 • 💬 5 • 11h ago • [arXiv.org](https://arxiv.org/abs/2601.20245)
+⬆️ 196 • 💬 5 • 12h ago • [arXiv.org](https://arxiv.org/abs/2601.20245)
 
 ---
 
@@ -283,7 +283,7 @@ Open source video gen just crossed a line we can't ignore - multiple consumer GP
 
 📺 Alex Ziskind
 
-👁️ 5K • 👍 416 • 💬 58 • ⏱️ 13:57 • 2h ago
+👁️ 5K • 👍 416 • 💬 58 • ⏱️ 13:57 • 3h ago
 
 ---
 
@@ -293,7 +293,7 @@ Get the FREE PDF (links + prompts) → https://discord.gg/6aV3ps7tB2 STOP overpa
 
 📺 Malva AI
 
-👁️ 4K • 👍 419 • 💬 112 • ⏱️ 7:42 • 6h ago
+👁️ 4K • 👍 419 • 💬 112 • ⏱️ 7:42 • 7h ago
 
 ---
 
@@ -303,7 +303,7 @@ Try Mammouth AI here: https://bit.ly/4sUpPDw AI just made a serious leap into th
 
 📺 AI Revolution
 
-👁️ 17K • 👍 837 • 💬 66 • ⏱️ 12:58 • 19h ago
+👁️ 17K • 👍 837 • 💬 66 • ⏱️ 12:58 • 20h ago
 
 ---
 
@@ -343,7 +343,7 @@ Try Manus AI free → Get 1000 credits using my link: https://manus.im/redeem?c=
 
 📺 WorldofAI
 
-👁️ 5K • 👍 173 • 💬 12 • ⏱️ 12:37 • 12h ago
+👁️ 5K • 👍 173 • 💬 12 • ⏱️ 12:37 • 13h ago
 
 ---
 
@@ -353,7 +353,7 @@ Build AI influencers and make money with Higgsfield here: https://higgsfield.ai/
 
 📺 Chris Koerner on The Koerner Office Podcast
 
-👁️ 23K • 👍 1K • 💬 45 • ⏱️ 13:52 • 20h ago
+👁️ 23K • 👍 1K • 💬 45 • ⏱️ 13:52 • 21h ago
 
 ---
 
@@ -373,7 +373,7 @@ Kimi K2.5 review. Best open source AI model. #ai #aitools #ainews #llm #aiagent 
 
 📺 AI Search
 
-👁️ 49K • 👍 2K • 💬 316 • ⏱️ 27:22 • 15h ago
+👁️ 49K • 👍 2K • 💬 316 • ⏱️ 27:22 • 16h ago
 
 ---
 
@@ -389,7 +389,7 @@ Kimi K2.5 is a native multimodal agentic model with 1T parameters, excelling in 
 
 `image-text-to-text`
 
-⬇️ 25,438 • ❤️ 1,155 • 13h ago
+⬇️ 25,438 • ❤️ 1,155 • 14h ago
 
 ---
 
@@ -437,7 +437,7 @@ DeepSeek-OCR-2 is a multilingual vision-language model for image-to-text tasks, 
 
 `image-text-to-text` `3.4B`
 
-⬇️ 45,346 • ❤️ 550 • 18h ago
+⬇️ 45,346 • ❤️ 550 • 19h ago
 
 ---
 
@@ -473,7 +473,7 @@ LightOnOCR-2-1B is an efficient 1B-parameter end-to-end vision-language model fo
 
 `image-text-to-text` `1.0B`
 
-⬇️ 27,393 • ❤️ 440 • 6h ago
+⬇️ 27,393 • ❤️ 440 • 7h ago
 
 ---
 
@@ -485,7 +485,7 @@ PaddleOCR-VL-1.5 is a multilingual Vision-Language Model (VLM) built on ERNIE 4.
 
 `image-text-to-text` `958.6M`
 
-⬇️ 216 • ❤️ 211 • 13h ago
+⬇️ 216 • ❤️ 211 • 14h ago
 
 ---
 
@@ -669,7 +669,7 @@ Ralph is an autonomous AI agent loop that runs repeatedly until all PRD items ar
 
 `TypeScript`
 
-⭐ 8.8k • 🔱 1.0k • 20h ago
+⭐ 8.8k • 🔱 1.0k • 21h ago
 
 ---
 
@@ -679,7 +679,7 @@ LLM驱动的 A/H/美股智能分析器，多数据源行情 + 实时新闻 + Gem
 
 `Python` `agent` `ai` `aigc` `gemini` `llm`
 
-⭐ 7.6k • 🔱 8.2k • 4h ago
+⭐ 7.6k • 🔱 8.2k • 5h ago
 
 ---
 
@@ -699,7 +699,7 @@ The Ultimate Collection of 500+ Agentic Skills for Claude Code/Antigravity/Curso
 
 `Python` `agentic-skills` `ai-agents` `antigravity` `autonomous-coding` `claude-code`
 
-⭐ 5.6k • 🔱 1.2k • 10h ago
+⭐ 5.6k • 🔱 1.2k • 11h ago
 
 ---
 

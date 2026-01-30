@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-01-30T18:44:08.661754+00:00'
+updated: '2026-01-30T19:32:59.791935+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
+- videos
 - news
 - social
-- videos
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** January 30, 2026 at 18:44 UTC  
+**Last Updated:** January 30, 2026 at 19:32 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -36,7 +36,7 @@ Robotics research and industry news
 
 I’m building a humanoid robot from scratch and this is how it looks so far. The hand is finished, and i’m currently working on the torso.
 
-4h ago
+5h ago
 
 ---
 
@@ -44,7 +44,7 @@ I’m building a humanoid robot from scratch and this is how it looks so far. Th
 
 Setup: 2 x Super-Beacons - a few meters away on the walls of the room - as stationary beacons emitting short ultrasound pulses 1 x Mini-RX as a mobile beacon in hands - receiving ultrasound pulses from the stationary beacons 1 x Modem as central controller of the system - connected by the white USB cable from the laptop - synchronizes the clocks between all elements, controls the telemetry, and the system overall The Dashboard on the computer doesn't calculate anything; it just displays the tracking. The location is calculated by the mobile beacon in hand and then streamed over USB to show on the display Inverse Architecture: https://marvelmind.com/pics/architectures_comparison.pdf
 
-12h ago
+13h ago
 
 ---
 
@@ -58,13 +58,13 @@ Ant Group released LingBot-VA, a VLA built on a different premise than most curr
 
 **[We trained the yolo model with custom data set to detect head from top view.this needs to reply on bus to count passenger count.it deployed on pi4 with 8gb and data is trained on 25k images](https://www.reddit.com/r/robotics/comments/1qqtoa0/we_trained_the_yolo_model_with_custom_data_set_to/)**
 
-15h ago
+16h ago
 
 ---
 
 **[NEMA17 stepper jitters and overheats when driven by DM542T + arduino](https://www.reddit.com/r/robotics/comments/1qr9d6j/nema17_stepper_jitters_and_overheats_when_driven/)**
 
-2h ago
+3h ago
 
 ---
 
@@ -72,7 +72,7 @@ Ant Group released LingBot-VA, a VLA built on a different premise than most curr
 
 Hey everybody, I'm in high school right now. I have a strong interest in robotics technology. While exploring the robotics field, I was introduced to physics simulation, mathematics, mechanical physics, electrical physics, etc. In short, I want to make the entry barrier to robotics lower after learning this. I've already started learning. I've learnt the basics of Python, pandas, and numpy, and these days I'm learning mathematics and physics at the same time, which makes me feel unproductive. Help me out. Let me know where I should spend most of my time (structural engineering, electronics engineering) or in mathematics (linear algebra, calculus, probability, LLM stuff). I see! These aren't completely different paths, but while preparing for the 12th board exam, it's hard to manage my time. So, any of you guys help me on my learning journey.
 
-2h ago
+3h ago
 
 ---
 
@@ -80,7 +80,7 @@ Hey everybody, I'm in high school right now. I have a strong interest in robotic
 
 The overall goal is to lower the barrier to entry for soft robotics and provide an alternative approach to building robotic systems. One way to achieve this is by using widely available tools such as FDM 3D printers. The concept centers on a 3D‑printable film used to create inflatable bags. These bags can be stacked to form pneumatic, bellows‑style linear artificial muscles. A tendon‑driven actuator is then assembled around these muscles to create functional motion. The next phase focuses on integration. A 3D‑printed sleeve guides each modular muscle during inflation, and different types of skeletons—human, dog, or frog—can be printed while reusing the same muscle modules across all designs. You can see the experiments with the bags here: https://www.youtube.com/playlist?list=PLF9nRnkMqNpZ-wNNfvy_dFkjDP2D5Q4OO I am looking for groups, labs, researchers, and students working in soft robotics who could provide comments and general feedback on this approach, as well as guidance on developing a complete framework (including workflows, designs, and simulations).
 
-16h ago
+17h ago
 
 ---
 
@@ -88,7 +88,7 @@ The overall goal is to lower the barrier to entry for soft robotics and provide 
 
 Hi everyone 👋 I’m working on a small AGV robot and I’m currently stuck at the software side of path planning. I’d really appreciate some guidance or best practices from people who’ve done this before. My current setup AGV size: 250 × 250 mm Workspace: small indoor environment Overhead camera (fixed) AprilTags / ArUco tags placed on the floor Tag spacing: 0.5 meter Current grid: 7 × 6 = 42 tags Robot is detected using the center tag under the robot Goal (Stage 1 – very basic) For now, I don’t want to include obstacles. I want: User gives a start node and end node Robot computes the shortest path Robot follows that path physically I’ve decided to use the A* algorithm, but I’m confused about the input representation and data structure. Where I’m stuck How should I represent the environment? 2D grid array? Graph with nodes and edges? Tag IDs mapped to coordinates? How should I store values for A\* in this simple case? What should be the node value? How to define neighbors (up/down/left/right)? How to map real-world distances (0.5 m spacing) to cost? Is it better to: Use grid indices (row, col) and map them later to real coordinates? Or directly use real-world (x, y) coordinates? What I plan to add later Obstacles Dynamic path updates Possibly ROS integration But for now, I want to get the fundamentals right. If anyone has: Simple examples Pseudocode Suggestions on data structures Or advice on how you approached this in your own AGV projects I’d really appreciate it 🙏 Thanks in advance!
 
-4h ago
+5h ago
 
 ---
 
@@ -96,7 +96,7 @@ Hi everyone 👋 I’m working on a small AGV robot and I’m currently stuck at
 
 Figure AI has released the final data from their 11-month deployment at BMW's Spartanburg plant. The 'Figure 02' humanoid robots worked 10-hour shifts, Monday to Friday, contributing to the production of over 30,000 BMW X3s. They loaded 90,000+ sheet metal parts with a <5mm tolerance, logging over 200 miles of walking. With Figure 02 now retiring, these lessons are being rolled into the new Figure 03.
 
-🔗 [FigureAI](https://www.figure.ai/news/production-at-bmw) • 9h ago
+🔗 [FigureAI](https://www.figure.ai/news/production-at-bmw) • 10h ago
 
 ---
 
@@ -104,7 +104,7 @@ Figure AI has released the final data from their 11-month deployment at BMW's Sp
 
 Pls dm me kkkkkkkmmmmmmmmkkmmmmkmmmmmmmmmmmmmmmmmkmkkkdkdjfjdjdjdhdhrhdhdhdhdhdhdhdhdhdhdhmrntjfhfjfhfhfhdjdhfhdhdhdhdkekdkdkdjdjdjdjdjejejejrjrjrjrjejejejekekekekdkdkkrkrjrjrjrjejejdjdjdjdjdjdjdjdjdjdjdjejejejejejejejejenensjejdjsjdj
 
-1h ago
+2h ago
 
 ---
 
@@ -122,7 +122,7 @@ Financial Times • 1d ago
 
 **[Tesla to build 1 million Optimus robots per year at Fremont factory, Musk says](https://www.kron4.com/news/technology-ai/tesla-to-build-1-million-optimus-robots-per-year-at-fremont-factory-musk-says/)**
 
-KRON4 • 22h ago
+KRON4 • 23h ago
 
 ---
 
@@ -146,7 +146,7 @@ Interesting Engineering • 3d ago
 
 New York Robotics is launching with over 80 industry partners, 20 academic partners, 40 robotics labs, and over 300 venture capital partners.
 
-The Robot Report • 3h ago
+The Robot Report • 4h ago
 
 ---
 
@@ -168,7 +168,7 @@ Bloomberg.com • 1d ago
 
 Robotics and virtual reality filled the science schedule aboard the International Space Station on Tuesday as the Expedition 74 crew promoted education and explored human research. The orbital trio also inspected safety equipment, worked on cargo swaps, and conducted Earth observations.
 
-NASA (.gov) • 2d ago
+NASA (.gov) • 3d ago
 
 ---
 
@@ -196,7 +196,7 @@ China is deploying AI-powered robots to manage traffic and pedestrian flow in ci
 
 📺 NBC News
 
-👁️ 89K • 👍 1K • 💬 575 • ⏱️ 3:13 • 15h ago
+👁️ 89K • 👍 1K • 💬 575 • ⏱️ 3:13 • 16h ago
 
 ---
 

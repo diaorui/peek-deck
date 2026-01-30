@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-01-30T18:44:08.652594+00:00'
+updated: '2026-01-30T19:32:59.782515+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- cryptocurrency
+- videos
 - news
 - social
-- videos
+- cryptocurrency
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** January 30, 2026 at 18:44 UTC  
+**Last Updated:** January 30, 2026 at 19:32 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -87,13 +87,13 @@ Rank #1
 
 The deal will be too good to pass at that point.
 
-2h ago
+3h ago
 
 ---
 
 **[Pack yo bags — bullish for BTC. Who's locking in with me ?](https://www.reddit.com/r/Bitcoin/comments/1qr6uah/pack_yo_bags_bullish_for_btc_whos_locking_in_with/)**
 
-4h ago
+5h ago
 
 ---
 
@@ -107,7 +107,7 @@ I wish I had more liquidity!
 
 **[Soo, who all is buying?](https://www.reddit.com/r/Bitcoin/comments/1qr6njb/soo_who_all_is_buying/)**
 
-4h ago
+5h ago
 
 ---
 
@@ -127,13 +127,13 @@ Red candles everywhere, BTC dipping hard. Paper hands sweating. Headlines scream
 
 **[Never forget, lettuce hands!](https://www.reddit.com/r/Bitcoin/comments/1qr07nl/never_forget_lettuce_hands/)**
 
-9h ago
+10h ago
 
 ---
 
 **[Kevin Warsh's view on Bitcoin:](https://www.reddit.com/r/Bitcoin/comments/1qr7vmx/kevin_warshs_view_on_bitcoin/)**
 
-3h ago
+4h ago
 
 ---
 
@@ -151,19 +151,19 @@ Red candles everywhere, BTC dipping hard. Paper hands sweating. Headlines scream
 
 Warsh has praised bitcoin as a tool to guide policy, not as a competitor to the dollar.
 
-Yahoo Finance • 3h ago
+Yahoo Finance • 4h ago
 
 ---
 
 **[Bitcoin slips as Fed chair speculation hits risky assets](https://www.reuters.com/business/bitcoin-slips-fed-chair-speculation-hits-risky-assets-2026-01-30/)**
 
-Reuters • 13h ago
+Reuters • 14h ago
 
 ---
 
 **[As bitcoin falls toward $80K, here’s why Fed Chair Warsh may not be enough to revive the crypto](https://www.marketwatch.com/story/as-bitcoin-falls-toward-80k-heres-why-fed-chair-warsh-may-not-be-enough-to-revive-the-crypto-6fecb755?gaa_at=eafs&gaa_n=AWEtsqc4YjSFudo_0K0I2ekudYX1phgisbDTsZXgelo91yfLCPRylwxeytmo&gaa_ts=697cff5e&gaa_sig=UcVRtzaX1Itr9sid34R4DiDGKbBT7qyloRlHZhyAB_ca6_SupI95ee9iQPUYPWsou4xsuO84KmLQHmuRNfVxLg%3D%3D)**
 
-MarketWatch • 1h ago
+MarketWatch • 2h ago
 
 ---
 
@@ -171,7 +171,7 @@ MarketWatch • 1h ago
 
 Analysts point to tight liquidity and a broad risk pullback as BTC fell toward $81,000 and U.S. crypto ETFs saw over $1 billion in outflows.
 
-The Block • 7h ago
+The Block • 8h ago
 
 ---
 
@@ -179,7 +179,7 @@ The Block • 7h ago
 
 BTCI ETF downgraded to Hold after Bitcoin correction.
 
-Seeking Alpha • 1h ago
+Seeking Alpha • 2h ago
 
 ---
 
@@ -187,7 +187,7 @@ Seeking Alpha • 1h ago
 
 Bitcoin spot exchange-traded funds (ETFs) experienced one of the biggest one-day reversals of the year on January 29, as investors pulled out nearly $818 million from U.S.-based products as the Bitcoin price dropped to its lowest spot in nine months.Sosovalue data shows that spot Bitcoin ETFs recorded net daily outflows ...
 
-Yahoo Finance • 1h ago
+Yahoo Finance • 2h ago
 
 ---
 
@@ -195,7 +195,7 @@ Yahoo Finance • 1h ago
 
 The political fundraising group launched by crypto-billionaire brothers Cameron and Tyler Winklevoss raised more than $22 million in the last five months of 2025, but might not get as much bang for its Bitcoin.
 
-Bloomberg.com • 1h ago
+Bloomberg.com • 2h ago
 
 ---
 
@@ -203,7 +203,7 @@ Bloomberg.com • 1h ago
 
 It's reasonable to say that this coin isn't behaving like a safe harbor asset right now.
 
-The Motley Fool • 6h ago
+The Motley Fool • 7h ago
 
 ---
 
@@ -219,7 +219,7 @@ Mashable • 1d ago
 
 Binance will convert the stablecoin holdings in its $1 billion Secure Asset Fund for Users to bitcoin over the next 30 days, with plans for regular audits.
 
-CoinDesk • 2h ago
+CoinDesk • 3h ago
 
 ---
 
@@ -239,13 +239,13 @@ Billionaire fugitive Roger Ver was facing federal criminal charges until he soug
 
 A list of known attacks against Bitcoin / crypto asset owning entities that occurred in meatspace. - jlopp/physical-bitcoin-attacks
 
-⬆️ 3 • 💬 0 • 2d ago • [GitHub](https://github.com/jlopp/physical-bitcoin-attacks)
+⬆️ 3 • 💬 0 • 3d ago • [GitHub](https://github.com/jlopp/physical-bitcoin-attacks)
 
 ---
 
 **[Bitcoin's Quantum Computing Threat](https://news.ycombinator.com/item?id=46824834)**
 
-⬆️ 1 • 💬 0 • 4h ago • [bmpro.substack.com](https://bmpro.substack.com/p/bitcoins-quantum-computing-threat)
+⬆️ 1 • 💬 0 • 5h ago • [bmpro.substack.com](https://bmpro.substack.com/p/bitcoins-quantum-computing-threat)
 
 ---
 
@@ -253,7 +253,7 @@ A list of known attacks against Bitcoin / crypto asset owning entities that occu
 
 Examine why the Binance SAFU fund debate keeps resurfacing, how stablecoins signal safety, and why Bitcoin continues to dominate trust conversations.
 
-⬆️ 1 • 💬 0 • 9h ago • [Altcoin Desk](https://altcoindesk.com/perspectives/1b-binance-safu-fund-if-stablecoins-mean-safety-why-do-bitcoin-returns/article-22752/)
+⬆️ 1 • 💬 0 • 10h ago • [Altcoin Desk](https://altcoindesk.com/perspectives/1b-binance-safu-fund-if-stablecoins-mean-safety-why-do-bitcoin-returns/article-22752/)
 
 ---
 
@@ -291,7 +291,7 @@ Transform HN comment threads into executive intelligence. AI analyzes discussion
 
 20 years of Hacker News analyzed. 40M comments. 10,000 topics. What the tech community really thinks.
 
-⬆️ 3 • 💬 0 • 2h ago • [HN Zeitgeist](https://hn.mrzepa.com/)
+⬆️ 3 • 💬 0 • 3h ago • [HN Zeitgeist](https://hn.mrzepa.com/)
 
 ---
 
@@ -311,7 +311,7 @@ Check out ClashPicks: https://www.clashpicks.com/ **Exchange Partners** Bitunix 
 
 📺 CryptosRUs
 
-👁️ 48K • 👍 2K • 💬 561 • ⏱️ 8:41 • 16h ago
+👁️ 48K • 👍 2K • 💬 561 • ⏱️ 8:41 • 17h ago
 
 ---
 
@@ -321,7 +321,7 @@ LIMITED TIME: ✓ Bitunix (no kyc, $700 bonus): https://www.bitunix.com/register
 
 📺 Altcoin Daily
 
-👁️ 62K • 👍 2K • 💬 247 • ⏱️ 8:26 • 18h ago
+👁️ 62K • 👍 2K • 💬 247 • ⏱️ 8:26 • 19h ago
 
 ---
 
@@ -331,7 +331,7 @@ Central banks are selling Treasuries and hoarding gold at record levels as trust
 
 📺 Swan Bitcoin
 
-👁️ 9K • 👍 677 • 💬 187 • ⏱️ 14:55 • 4h ago
+👁️ 9K • 👍 677 • 💬 187 • ⏱️ 14:55 • 5h ago
 
 ---
 
@@ -371,7 +371,7 @@ It's a terrifying time to be in the markets, especially with Bitcoin so close $8
 
 📺 Crypto Banter
 
-👁️ 11K • 👍 848 • 💬 37 • ⏱️ 36:59 • 6h ago
+👁️ 11K • 👍 848 • 💬 37 • ⏱️ 36:59 • 7h ago
 
 ---
 
@@ -391,7 +391,7 @@ Bitcoin appears to have completed its 2023–2025 market cycle and entered a lat
 
 📺 Benjamin Cowen
 
-👁️ 83K • 👍 5K • 💬 386 • ⏱️ 10:19 • 23h ago
+👁️ 83K • 👍 5K • 💬 386 • ⏱️ 10:19 • 1d ago
 
 ---
 
