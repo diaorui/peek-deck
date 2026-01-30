@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-01-30T07:40:42.219745+00:00'
+updated: '2026-01-30T08:41:08.082057+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- videos
-- social
 - news
+- social
+- videos
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** January 30, 2026 at 07:40 UTC  
+**Last Updated:** January 30, 2026 at 08:41 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -36,21 +36,7 @@ Robotics research and industry news
 
 Ant Group released LingBot-VA, a VLA built on a different premise than most current approaches: instead of directly mapping observations to actions, first predict what the future should look like, then infer what action causes that transition. The model uses a 5.3B video diffusion backbone (Wan2.2) as a "world model" to predict future frames, then decodes actions via inverse dynamics. Everything runs through GPT style autoregressive generation with KV-cache — no chunk-based diffusion, so the robot maintains persistent memory across the full trajectory and respects causal ordering (past → present → future). Results on standard benchmarks: 92.9% on RoboTwin Easy (vs 82.7% for π0.5), 91.6% on Hard (vs 76.8%), 98.5% on LIBERO-Long. The biggest gains show up on long-horizon tasks and anything requiring temporal memory — counting repetitions, remembering past observations, etc. Sample efficiency is a key claim: 50 demos for deployment, and even 10 demos outperforms π0.5 by 10-15%. They attribute this to the video backbone providing strong physical priors. For inference speed, they overlap prediction with execution using async inference plus a forward dynamics grounding step. 2× speedup with no accuracy drop.
 
-6h ago
-
----
-
-**[Framework for Soft Robotics via 3D Printable Artificial Muscles](https://www.reddit.com/r/robotics/comments/1qqrzkz/framework_for_soft_robotics_via_3d_printable/)**
-
-The overall goal is to lower the barrier to entry for soft robotics and provide an alternative approach to building robotic systems. One way to achieve this is by using widely available tools such as FDM 3D printers. The concept centers on a 3D‑printable film used to create inflatable bags. These bags can be stacked to form pneumatic, bellows‑style linear artificial muscles. A tendon‑driven actuator is then assembled around these muscles to create functional motion. The next phase focuses on integration. A 3D‑printed sleeve guides each modular muscle during inflation, and different types of skeletons—human, dog, or frog—can be printed while reusing the same muscle modules across all designs. You can see the experiments with the bags here: https://www.youtube.com/playlist?list=PLF9nRnkMqNpZ-wNNfvy_dFkjDP2D5Q4OO I am looking for groups, labs, researchers, and students working in soft robotics who could provide comments and general feedback on this approach, as well as guidance on developing a complete framework (including workflows, designs, and simulations).
-
-5h ago
-
----
-
-**[We trained the yolo model with custom data set to detect head from top view.this needs to reply on bus to count passenger count.it deployed on pi4 with 8gb and data is trained on 25k images](https://www.reddit.com/r/robotics/comments/1qqtoa0/we_trained_the_yolo_model_with_custom_data_set_to/)**
-
-4h ago
+7h ago
 
 ---
 
@@ -58,23 +44,29 @@ The overall goal is to lower the barrier to entry for soft robotics and provide 
 
 Setup: 2 x Super-Beacons - a few meters away on the walls of the room - as stationary beacons emitting short ultrasound pulses 1 x Mini-RX as a mobile beacon in hands - receiving ultrasound pulses from the stationary beacons 1 x Modem as central controller of the system - connected by the white USB cable from the laptop - synchronizes the clocks between all elements, controls the telemetry, and the system overall The Dashboard on the computer doesn't calculate anything; it just displays the tracking. The location is calculated by the mobile beacon in hand and then streamed over USB to show on the display Inverse Architecture: https://marvelmind.com/pics/architectures_comparison.pdf
 
-1h ago
+2h ago
 
 ---
 
-**[First build](https://www.reddit.com/r/robotics/comments/1qq7xso/first_build/)**
+**[We trained the yolo model with custom data set to detect head from top view.this needs to reply on bus to count passenger count.it deployed on pi4 with 8gb and data is trained on 25k images](https://www.reddit.com/r/robotics/comments/1qqtoa0/we_trained_the_yolo_model_with_custom_data_set_to/)**
 
-Working on my first robotics build at the moment and easing my way into it. Any pointers or tips would be greatly appreciated. This is what I have for hardware so far.
-
-18h ago
+5h ago
 
 ---
 
-**[Gripper Design Competition](https://www.reddit.com/r/robotics/comments/1qqxq41/gripper_design_competition/)**
+**[Framework for Soft Robotics via 3D Printable Artificial Muscles](https://www.reddit.com/r/robotics/comments/1qqrzkz/framework_for_soft_robotics_via_3d_printable/)**
 
-Kikobot is running a gripper design challenge focused on real-world mechanical design and manufacturability. Open to students and makers. Details in the poster. https://preview.redd.it/06yevmmhjfgg1.jpeg?width=1587&format=pjpg&auto=webp&s=46e8b3b08860ce2ed098219f80366843d43d7f50
+The overall goal is to lower the barrier to entry for soft robotics and provide an alternative approach to building robotic systems. One way to achieve this is by using widely available tools such as FDM 3D printers. The concept centers on a 3D‑printable film used to create inflatable bags. These bags can be stacked to form pneumatic, bellows‑style linear artificial muscles. A tendon‑driven actuator is then assembled around these muscles to create functional motion. The next phase focuses on integration. A 3D‑printed sleeve guides each modular muscle during inflation, and different types of skeletons—human, dog, or frog—can be printed while reusing the same muscle modules across all designs. You can see the experiments with the bags here: https://www.youtube.com/playlist?list=PLF9nRnkMqNpZ-wNNfvy_dFkjDP2D5Q4OO I am looking for groups, labs, researchers, and students working in soft robotics who could provide comments and general feedback on this approach, as well as guidance on developing a complete framework (including workflows, designs, and simulations).
 
-1h ago
+6h ago
+
+---
+
+**[Please Subscribe to my YouTube to see my New Robotics Project! (Pretty Advanced) | as Former Electrical student](https://www.reddit.com/r/robotics/comments/1qqzydj/please_subscribe_to_my_youtube_to_see_my_new/)**
+
+Hey guys. This is my YouTube channel where I build pretty crazy robots. I am about to begin some more advanced projects, utilizing pneumatic actuators and compressed air. I am trying to hit 1000 subscribers before my watch hours begin lapsing over/ expiring in these next 2 months. My next project is pretty big in comparison to my previous ones. You can see when it comes out -Above are some of the parts I am going to use (I had to do some research about solenoids, actuators, 5/2, 4/2, etc) My name is Isaias, I have a two year degree in engineering and physics and was last studying Electrical Engineering. I know basic circuit theory, and pretty much completed all of my fundamental science courses. I also taught myself advanced topics at home, such as radio communication, prototyping. I am pretty self motivated when it comes to learning, Well, anyways I thought you would find my channel interesting. This is my first time doing robotics in this sense; I've mostly done electrical stuff before. So I might ask questions if I run into any issues down the road, Thanks, Isaias
+
+7m ago
 
 ---
 
@@ -82,7 +74,23 @@ Kikobot is running a gripper design challenge focused on real-world mechanical d
 
 I am final year robotics engineer . In industry I want a career as a simulation engineer. When ever I tried to do simulation like basic pick and place . It's not working in laptop.Either it's gazebo version problem or moveit version. . Sometimes I can't even find what problem I am facing . I want to do simulation in Issac sim, do much complex simulation in gazebo or any other simulation platforms. I know basic backend of ros2 where I did some service client project and I am very good at cad modelling.I followed some udemy tutorials video. But in udemy there is no proper tutorials for simulations. TLDR :Could anyone help me with to learn simulation for robotics .I am struggling to do basic simulations.
 
-3h ago
+4h ago
+
+---
+
+**[First build](https://www.reddit.com/r/robotics/comments/1qq7xso/first_build/)**
+
+Working on my first robotics build at the moment and easing my way into it. Any pointers or tips would be greatly appreciated. This is what I have for hardware so far.
+
+19h ago
+
+---
+
+**[Gripper Design Competition](https://www.reddit.com/r/robotics/comments/1qqxq41/gripper_design_competition/)**
+
+Kikobot is running a gripper design challenge focused on real-world mechanical design and manufacturability. Open to students and makers. Details in the poster. https://preview.redd.it/06yevmmhjfgg1.jpeg?width=1587&format=pjpg&auto=webp&s=46e8b3b08860ce2ed098219f80366843d43d7f50
+
+2h ago
 
 ---
 
@@ -96,15 +104,7 @@ I am final year robotics engineer . In industry I want a career as a simulation 
 
 I'm trying to learn the basics of Mujoco and RL through teaching a panda arm to place boxes into color coordinated buckets. I'm having a lot of trouble getting it to learn. Does anyone have any guides or know of existing projects I can use to guide me? This is my current environment. https://preview.redd.it/pkckdasgodgg1.png?width=922&format=png&auto=webp&s=07365fbdf62558f4017f5943ed92e172ed60d9b3
 
-7h ago
-
----
-
-**[This humanoid robot learned realistic lip movements by watching YouTube](https://www.reddit.com/r/robotics/comments/1qq2est/this_humanoid_robot_learned_realistic_lip/)**
-
-Engineers have trained a new humanoid robot to perform realistic lip-syncing not by manually programming every movement, but by having it 'watch' hours of YouTube videos. By visually analyzing human speakers, the robot learned to match its mouth movements to audio with eerie precision.
-
-🔗 [TechSpot](https://www.techspot.com/news/110967-humanoid-robot-learns-realistic-lip-movement-watching-youtube.html) • 23h ago
+8h ago
 
 ---
 
@@ -116,7 +116,15 @@ Engineers have trained a new humanoid robot to perform realistic lip-syncing not
 
 Future of the company lies in equipping and running a global fleet of driverless taxis and in selling humanoid robots
 
-Financial Times • 19h ago
+Financial Times • 20h ago
+
+---
+
+**[Tesla doubles spending with $20B AI and robotics push](https://finance.yahoo.com/news/tesla-doubles-spending-20b-ai-161254007.html)**
+
+Record investment marks a shift away from traditional EVs toward automation.
+
+Yahoo Finance • 16h ago
 
 ---
 
@@ -130,7 +138,7 @@ Interesting Engineering • 2d ago
 
 **[Lightspeed Backs Robotics Startup in $100 Million Round](https://www.bloomberg.com/news/articles/2026-01-29/fiat-toyota-tycoons-back-startup-robco-in-100-million-round)**
 
-Bloomberg.com • 15h ago
+Bloomberg • 16h ago
 
 ---
 
@@ -142,11 +150,9 @@ NASA (.gov) • 2d ago
 
 ---
 
-**[Lee calls on workers to swiftly adapt to 'unavoidable' AI robotics era](https://www.koreatimes.co.kr/southkorea/politics/20260129/lee-calls-on-workers-to-swiftly-adapt-to-unavoidable-ai-robotics-era)**
+**[Ondas' American Robotics Optimus Drone Approved for Rapid Federal Procurement via DCMA Blue UAS Cleared List](https://ir.ondas.com/press-releases/detail/275/ondas-american-robotics-optimus-drone-approved-for-rapid)**
 
-President Lee Jae Myung said Thursday that workers must adapt swiftly to the era of artificial intelligence (AI), in an apparent message to Hyundai...
-
-koreatimes.co.kr • 19h ago
+Ondas Holdings • 1d ago
 
 ---
 
@@ -156,33 +162,27 @@ Tech Xplore • 2d ago
 
 ---
 
-**[Ondas' American Robotics Optimus Drone Approved for Rapid Federal Procurement via DCMA Blue UAS Cleared List](https://ir.ondas.com/press-releases/detail/275/ondas-american-robotics-optimus-drone-approved-for-rapid)**
+**[Lee calls on workers to swiftly adapt to 'unavoidable' AI robotics era](https://www.koreatimes.co.kr/southkorea/politics/20260129/lee-calls-on-workers-to-swiftly-adapt-to-unavoidable-ai-robotics-era)**
 
-Ondas Holdings • 1d ago
+President Lee Jae Myung said Thursday that workers must adapt swiftly to the era of artificial intelligence (AI), in an apparent message to Hyundai...
 
----
-
-**[Not ready for robots in homes? The maker of a friendly new humanoid thinks it might change your mind](https://abcnews.go.com/Technology/wireStory/ready-robots-homes-maker-friendly-new-humanoid-thinks-129594260)**
-
-A new humanoid robot named Sprout, developed by Fauna Robotics, is making its debut
-
-ABC News • 2d ago
+koreatimes.co.kr • 20h ago
 
 ---
 
-**[State of robotics industry report 2026](https://www.therobotreport.com/state-of-robotics-industry-report-2026/)**
+**[BREAKING: Microsoft Denies Partnership with Richtech Robotics](https://hntrbrk.com/richtech-robotics/)**
 
-State of Robotics Industry Report 2026 offers a clear-eyed assessment of where the market stands today and where it’s headed.
+Beep, boop, fraud?
 
-The Robot Report • 3d ago
+Hunterbrook • 15h ago
 
 ---
 
-**[Richtech Robotics soars after announcing partnership with Microsoft to use AI to improve its robots](https://sherwood.news/markets/richtech-robotics-soars-after-announcing-partnership-with-microsoft-to-use/)**
+**[Richtech Robotics retreats after stock sale following Microsoft partnership](https://www.tradingview.com/news/reuters.com,2026:newsml_L6N3YT1A9:0-richtech-robotics-retreats-after-stock-sale-following-microsoft-partnership/)**
 
-The most momentous day for ADAM since serving Jensen Huang a margarita....
+** Shares of Richtech Robotics NASDAQ:RR down 10.4% to $4.95 on Weds after it raises equity on heels of announcing partnership with Microsoft NASDAQ:MSFT** AI-driven service robots provider early Weds said it sold 8.5 mln shares to an institutional investor in private placement for gross proceeds o…
 
-Sherwood News • 2d ago
+TradingView • 1d ago
 
 ---
 
@@ -206,7 +206,7 @@ Steve Westly, former Tesla board member and founder of the Westly Group, joins '
 
 📺 CNBC Television
 
-👁️ 9K • 👍 60 • 💬 41 • ⏱️ 3:43 • 14h ago
+👁️ 9K • 👍 60 • 💬 41 • ⏱️ 3:43 • 15h ago
 
 ---
 
@@ -264,7 +264,7 @@ Some people are getting concerned because automatic AI pizza-making machines are
 
 📺 Taylor Jollie
 
-👁️ 14K • 👍 76 • 💬 9 • ⏱️ 0:19 • 14h ago
+👁️ 14K • 👍 76 • 💬 9 • ⏱️ 0:19 • 15h ago
 
 ---
 
