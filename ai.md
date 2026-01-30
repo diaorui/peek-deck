@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-01-30T10:36:00.724499+00:00'
+updated: '2026-01-30T11:29:19.646671+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- social
-- news
-- repositories
 - videos
+- news
+- social
+- repositories
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** January 30, 2026 at 10:36 UTC  
+**Last Updated:** January 30, 2026 at 11:29 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -39,7 +39,7 @@ AI news, discussions, and developments
 
 **[This week, a new generative AI tool from Google let us create knockoffs of 3D Nintendo worlds](https://www.reddit.com/r/artificial/comments/1qqkj6k/this_week_a_new_generative_ai_tool_from_google/)**
 
-13h ago
+14h ago
 
 ---
 
@@ -47,7 +47,7 @@ AI news, discussions, and developments
 
 ByteDance, Alibaba and Tencent had been given permission to purchase more than 400,000 H200 chips in total.
 
-🔗 [thestandard.com.hk](https://www.thestandard.com.hk/china-news/article/323159/China-conditionally-approves-DeepSeek-to-buy-Nvidias-H200-chips) • 21m ago
+🔗 [thestandard.com.hk](https://www.thestandard.com.hk/china-news/article/323159/China-conditionally-approves-DeepSeek-to-buy-Nvidias-H200-chips) • 1h ago
 
 ---
 
@@ -55,7 +55,7 @@ ByteDance, Alibaba and Tencent had been given permission to purchase more than 4
 
 Hey everyone. I Just published a breakdown on Moltbot: the self-hosted, open-source personal AI assistant that's gone massively viral. The article discusses the main points of my own questions about Moltbot ( what it really is, what are its capabilities, why is therean insane growth... ). Ok, now the only con I have for this project is security draw backs ( not really dove deep into this at all in the article ) : broad system access is given to Moltbot and it is pretty easy to do prompt injection with vulnerabilities if exposed. Which I'd point out is actually easy to misconfigured if not careful. I'd love to get some of my own personal tasks automated ( I love saving time ), but security concerns has me hesitant to experiement. If anyone has methods to ensure full security with this project feel free to let me know, I might even update the blog article with how to avoid the security concerns as for real it is the only thing making me hesitant in trying it myself.
 
-🔗 [Benjamin-RR](https://benjamin-rr.com/blog/moltbot-open-source-ai-assistant?utm_source=reddit&utm_medium=community&utm_campaign=new-blog-promotion&utm_content=r-artificial) • 17h ago
+🔗 [Benjamin-RR](https://benjamin-rr.com/blog/moltbot-open-source-ai-assistant?utm_source=reddit&utm_medium=community&utm_campaign=new-blog-promotion&utm_content=r-artificial) • 18h ago
 
 ---
 
@@ -63,7 +63,7 @@ Hey everyone. I Just published a breakdown on Moltbot: the self-hosted, open-sou
 
 Amazon is reportedly in discussions to invest as much as $50 billion in OpenAI, as major technology firms race to secure access to advanced artificial intelligence systems.
 
-🔗 [techputs](https://techputs.com/amazon-openai-50-billion-investment-talks/) • 7h ago
+🔗 [techputs](https://techputs.com/amazon-openai-50-billion-investment-talks/) • 8h ago
 
 ---
 
@@ -71,7 +71,7 @@ Amazon is reportedly in discussions to invest as much as $50 billion in OpenAI, 
 
 We built hands free and blind accessible AI in one day. We went further and made continuous conversations for hands free users, so you just keep talking and it replies. This allows a really easy to use experience that we are proud to share with everyone.
 
-🔗 [Dreami](https://dreami.me/blog/accessibilityforeveryone.html) • 6h ago
+🔗 [Dreami](https://dreami.me/blog/accessibilityforeveryone.html) • 7h ago
 
 ---
 
@@ -79,7 +79,7 @@ We built hands free and blind accessible AI in one day. We went further and made
 
 Apple buys Israeli startup Q.ai as the AI race heats up.[1] Elon Musk’s SpaceX, Tesla, and xAI in talks to merge, according to reports.[2] Ant Group Releases LingBot-VLA, A Vision Language Action Foundation Model For Real World Robot Manipulation.[3] Google DeepMind’s Project Genie Lets You Walk, Fly, Drive Through Imagination.[4] Sources: [1] https://techcrunch.com/2026/01/29/apple-buys-israeli-startup-q-ai-as-the-ai-race-heats-up/ [2] https://techcrunch.com/2026/01/29/elon-musk-spacex-tesla-xai-merger-talks-ipo-reuters/ [3] https://www.marktechpost.com/2026/01/29/ant-group-releases-lingbot-vla-a-vision-language-action-foundation-model-for-real-world-robot-manipulation/ [4] https://www.ndtv.com/world-news/google-deepminds-project-genie-lets-you-walk-fly-drive-through-imagination-10911537
 
-4h ago
+5h ago
 
 ---
 
@@ -87,7 +87,7 @@ Apple buys Israeli startup Q.ai as the AI race heats up.[1] Elon Musk’s SpaceX
 
 This post introduces the concept of "two agentic loops": the inner loop that handles reasoning and tool use, while the outer loop handles everything that makes agents ready for production—orchestration, guardrails, observability, and bounded execution. The outer loop is real infrastructure that needs to be built and maintained independently. Plano implements this pattern as an AI-native proxy and data plane.
 
-🔗 [Plano](https://planoai.dev/blog/the-two-agentic-loops-how-to-design-and-scale-agentic-apps) • 12h ago
+🔗 [Plano](https://planoai.dev/blog/the-two-agentic-loops-how-to-design-and-scale-agentic-apps) • 13h ago
 
 ---
 
@@ -103,7 +103,7 @@ A lot of the discussion around AI right now focuses on code generation: how far 
 
 I lead Product and Design Teams at FAANG - How do you measure AI adoption and make sure you are progressing. To me it feels like who ever adopts AI better is going to have a better team ultimately.
 
-10h ago
+11h ago
 
 ---
 
@@ -111,7 +111,7 @@ I lead Product and Design Teams at FAANG - How do you measure AI adoption and ma
 
 We're excited to share our latest podcast episode, where we talk about why some of the best movies fail at the box office only to become cult classics a decade later and whether AI can actually predict the next underground masterpiece by looking at real-time sentiment analysis and "memeable density". The data shows that playing it safe will just not cut it. To stand out and make a movie that will be remembered for decades, you have to throw caution to the wind and take the bold risks that everyone will tell you not to make. We also dive into some of the interesting side-projects we're working on, along with a few weird, off-beat recent news stories about AI. Check it out and hope you enjoy
 
-🔗 [open.substack.com](https://open.substack.com/pub/storyprism/p/story-prism-podcast-ep-7?r=h11e6&utm_campaign=post&utm_medium=web) • 17h ago
+🔗 [open.substack.com](https://open.substack.com/pub/storyprism/p/story-prism-podcast-ep-7?r=h11e6&utm_campaign=post&utm_medium=web) • 18h ago
 
 ---
 
@@ -123,7 +123,7 @@ We're excited to share our latest podcast episode, where we talk about why some 
 
 Google AI Ultra subscribers in the U.S. can now try out Project Genie.
 
-blog.google • 17h ago
+blog.google • 18h ago
 
 ---
 
@@ -131,7 +131,7 @@ blog.google • 17h ago
 
 Anthropic is an AI safety and research company that's working to build reliable, interpretable, and steerable AI systems.
 
-Anthropic • 14h ago
+Anthropic • 15h ago
 
 ---
 
@@ -139,7 +139,7 @@ Anthropic • 14h ago
 
 Hawley, a potential 2028 presidential contender who has a habit of breaking from Republicans and President Trump, is positioning himself as a key anti-AI voice.
 
-Axios • 34m ago
+Axios • 1h ago
 
 ---
 
@@ -147,7 +147,7 @@ Axios • 34m ago
 
 Taiwan’s economy expanded at the quickest pace for a quarter since 1987, propelled by unquenchable demand for the tech goods needed to develop AI.
 
-Bloomberg.com • 1h ago
+Bloomberg.com • 2h ago
 
 ---
 
@@ -161,7 +161,7 @@ ABC News • 1h ago
 
 **[Taiwan economy soars in Q4 on AI demand, 2025 expands at fastest rate in 15 years](https://www.reuters.com/world/asia-pacific/taiwan-q4-economic-growth-beats-forecasts-solid-ai-demand-2026-01-30/)**
 
-Reuters • 1h ago
+Reuters • 2h ago
 
 ---
 
@@ -169,7 +169,7 @@ Reuters • 1h ago
 
 Spoiler: There's one category you'd rather avoid.
 
-Fortune • 6m ago
+Fortune • 59m ago
 
 ---
 
@@ -177,7 +177,7 @@ Fortune • 6m ago
 
 Alpha School, which purports to teach children academics using AI for two hours a day, has got the support of the Trump administration, but leaves some education experts and parents unimpressed.
 
-CNN • 23h ago
+CNN • 1d ago
 
 ---
 
@@ -229,7 +229,7 @@ Or, as they like to call it, the 'AI Skills Hub'. Which was built by PwC because
 
 **[The tech market is fundamentally fucked up and AI is just a scapegoat](https://news.ycombinator.com/item?id=46809069)**
 
-⬆️ 302 • 💬 209 • 22h ago • [bayramovanar.substack.com](https://bayramovanar.substack.com/p/tech-market-is-fucked-up)
+⬆️ 302 • 💬 209 • 23h ago • [bayramovanar.substack.com](https://bayramovanar.substack.com/p/tech-market-is-fucked-up)
 
 ---
 
@@ -245,7 +245,7 @@ SERA is the first in our family of Open Coding Agents, achieving state-of-the-ar
 
 Moltworker is a middleware Worker and adapted scripts that allows running Moltbot (formerly Clawdbot) on Cloudflare's Sandbox SDK and our Developer Platform APIs. So you can self-host an AI personal assistant — without any new hardware.
 
-⬆️ 212 • 💬 63 • 19h ago • [The Cloudflare Blog](https://blog.cloudflare.com/moltworker-self-hosted-ai-agent/)
+⬆️ 212 • 💬 63 • 20h ago • [The Cloudflare Blog](https://blog.cloudflare.com/moltworker-self-hosted-ai-agent/)
 
 ---
 
@@ -269,7 +269,7 @@ AISLE's autonomous analyzer found all 12 CVEs in the January 2026 coordinated re
 
 A lot of vendors pitch AI SRE. We tested 14 models across 11 programming languages; even the best ones struggle with instrumenting code with the leading open-source standard, OpenTelemetry.
 
-⬆️ 141 • 💬 81 • 18h ago • [Quesma](https://quesma.com/blog/introducing-otel-bench/)
+⬆️ 141 • 💬 81 • 19h ago • [Quesma](https://quesma.com/blog/introducing-otel-bench/)
 
 ---
 
@@ -277,7 +277,7 @@ A lot of vendors pitch AI SRE. We tested 14 models across 11 programming languag
 
 Mozilla is looking to deploy its roughly $1.4 billion in reserves to support "mission driven" companies and nonprofits, and is particularly focused on AI.
 
-⬆️ 129 • 💬 136 • 17h ago • [CNBC](https://www.cnbc.com/2026/01/27/mozilla-building-an-ai-rebel-alliance-to-take-on-openai-anthropic-.html)
+⬆️ 129 • 💬 136 • 18h ago • [CNBC](https://www.cnbc.com/2026/01/27/mozilla-building-an-ai-rebel-alliance-to-take-on-openai-anthropic-.html)
 
 ---
 
@@ -291,7 +291,7 @@ Try Mammouth AI here: https://bit.ly/4sUpPDw AI just made a serious leap into th
 
 📺 AI Revolution
 
-👁️ 12K • 👍 665 • 💬 53 • ⏱️ 12:58 • 11h ago
+👁️ 12K • 👍 665 • 💬 53 • ⏱️ 12:58 • 12h ago
 
 ---
 
@@ -301,7 +301,7 @@ President Trump highlights U.S. leadership over China in AI and energy, emphasiz
 
 📺 DRM News
 
-👁️ 3K • 👍 16 • 💬 5 • ⏱️ 5:00 • 16h ago
+👁️ 3K • 👍 16 • 💬 5 • ⏱️ 5:00 • 17h ago
 
 ---
 
@@ -311,7 +311,7 @@ AI leaders are warning that the next phase of artificial intelligence could arri
 
 📺 Valuetainment Short Clips
 
-👁️ 5K • 👍 140 • 💬 23 • ⏱️ 20:26 • 14h ago
+👁️ 5K • 👍 140 • 💬 23 • ⏱️ 20:26 • 15h ago
 
 ---
 
@@ -321,7 +321,7 @@ GET MY FREE GUIDE: *The Content Creator's AI Blueprint: From 25 Hours to 5 Minut
 
 📺 Julia McCoy
 
-👁️ 55K • 👍 3K • 💬 425 • ⏱️ 9:49 • 19h ago
+👁️ 55K • 👍 3K • 💬 425 • ⏱️ 9:49 • 20h ago
 
 ---
 
@@ -351,7 +351,7 @@ Amazon accidentally told 16000 employees they were safe, then laid them off. Sta
 
 📺 Mark Savant
 
-👁️ 5K • 👍 117 • 💬 47 • ⏱️ 10:40 • 14h ago
+👁️ 5K • 👍 117 • 💬 47 • ⏱️ 10:40 • 15h ago
 
 ---
 
@@ -361,7 +361,7 @@ Kimi K2.5 review. Best open source AI model. #ai #aitools #ainews #llm #aiagent 
 
 📺 AI Search
 
-👁️ 24K • 👍 1K • 💬 220 • ⏱️ 27:22 • 7h ago
+👁️ 24K • 👍 1K • 💬 220 • ⏱️ 27:22 • 8h ago
 
 ---
 
@@ -397,7 +397,7 @@ Kimi K2.5 is a native multimodal agentic model with 1T parameters, excelling in 
 
 `image-text-to-text`
 
-⬇️ 25,438 • ❤️ 1,119 • 5h ago
+⬇️ 25,438 • ❤️ 1,119 • 6h ago
 
 ---
 
@@ -445,7 +445,7 @@ DeepSeek-OCR-2 is a multilingual vision-language model for image-to-text tasks, 
 
 `image-text-to-text` `3.4B`
 
-⬇️ 45,346 • ❤️ 533 • 10h ago
+⬇️ 45,346 • ❤️ 533 • 11h ago
 
 ---
 
@@ -613,7 +613,7 @@ BitNet b1.58 2B4T, a 1-bit Large Language Model with 2 billion parameters, match
 
 LingBot-Depth is a depth completion model that uses visual context to refine depth maps through masked depth modeling and automated data curation for improved spatial perception in robotics and autonomous systems.
 
-▲ 21 • 💬 3 • ⭐ 564 • 4d ago
+▲ 21 • 💬 3 • ⭐ 564 • 5d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2601.17895) • [💻 code](https://github.com/Robbyant/lingbot-depth) • [🔗 project](https://technology.robbyant.com/lingbot-depth)
 
@@ -655,7 +655,7 @@ Browser automation CLI for AI agents
 
 `TypeScript`
 
-⭐ 11.6k • 🔱 642 • 17h ago
+⭐ 11.6k • 🔱 642 • 18h ago
 
 ---
 
@@ -675,7 +675,7 @@ Ralph is an autonomous AI agent loop that runs repeatedly until all PRD items ar
 
 `TypeScript`
 
-⭐ 8.7k • 🔱 1.0k • 12h ago
+⭐ 8.7k • 🔱 1.0k • 13h ago
 
 ---
 
@@ -685,7 +685,7 @@ LLM驱动的 A/H/美股智能分析器，多数据源行情 + 实时新闻 + Gem
 
 `Python` `agent` `ai` `aigc` `gemini` `llm`
 
-⭐ 7.4k • 🔱 8.0k • 6h ago
+⭐ 7.4k • 🔱 8.0k • 7h ago
 
 ---
 
@@ -705,7 +705,7 @@ The Ultimate Collection of 500+ Agentic Skills for Claude Code/Antigravity/Curso
 
 `Python` `agentic-skills` `ai-agents` `antigravity` `autonomous-coding` `claude-code`
 
-⭐ 5.5k • 🔱 1.2k • 2h ago
+⭐ 5.5k • 🔱 1.2k • 3h ago
 
 ---
 

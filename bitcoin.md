@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-01-30T10:36:00.732969+00:00'
+updated: '2026-01-30T11:29:19.654412+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
+- videos
+- news
 - cryptocurrency
 - social
-- news
-- videos
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** January 30, 2026 at 10:36 UTC  
+**Last Updated:** January 30, 2026 at 11:29 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -79,7 +79,7 @@ Rank #1
 
 **[Here we goooo](https://www.reddit.com/r/Bitcoin/comments/1qqkg06/here_we_goooo/)**
 
-13h ago
+14h ago
 
 ---
 
@@ -87,13 +87,13 @@ Rank #1
 
 Red candles everywhere, BTC dipping hard. Paper hands sweating. Headlines screaming crash. But zoom out: - Halving effects still unfolding - Adoption & institutions not going anywhere This is classic Bitcoin - shakeout before the next leg up. If you believe in it, this dip is your discount window. Stack calmly while others panic. Cheers!
 
-7h ago
+8h ago
 
 ---
 
 **[I don't always buy the Bitcoin dip...](https://www.reddit.com/r/Bitcoin/comments/1qqngoq/i_dont_always_buy_the_bitcoin_dip/)**
 
-11h ago
+12h ago
 
 ---
 
@@ -101,7 +101,7 @@ Red candles everywhere, BTC dipping hard. Paper hands sweating. Headlines scream
 
 15 years in Bitcoin—bought my first at $7. I've survived every major crash, always fearing 'this time it's over.' I always thought it was an existential event - every single time. Bitcoin proved resilient every single time. This dip is nothing.
 
-7h ago
+8h ago
 
 ---
 
@@ -109,19 +109,19 @@ Red candles everywhere, BTC dipping hard. Paper hands sweating. Headlines scream
 
 Anybody excited af now! Really hoping bitcoin crashes so my DCA can buy more BTC and so I can keep stacking. Legit question: If u have strong conviction on bitcoin for 10+ years or longer horizon why cry when it goes down?
 
-8h ago
+9h ago
 
 ---
 
 **[Never forget, lettuce hands!](https://www.reddit.com/r/Bitcoin/comments/1qr07nl/never_forget_lettuce_hands/)**
 
-1h ago
+2h ago
 
 ---
 
 **[short of words.](https://www.reddit.com/r/Bitcoin/comments/1qqn3ea/short_of_words/)**
 
-12h ago
+13h ago
 
 ---
 
@@ -129,7 +129,7 @@ Anybody excited af now! Really hoping bitcoin crashes so my DCA can buy more BTC
 
 I wasn’t smart enough to hold onto them :(
 
-15h ago
+16h ago
 
 ---
 
@@ -151,13 +151,13 @@ I wasn’t smart enough to hold onto them :(
 
 **[Bitcoin Slumps to Two-Month Low as US Funds Shed Billions](https://www.bloomberg.com/news/articles/2026-01-30/bitcoin-btc-slumps-to-two-month-low-as-us-funds-shed-billions)**
 
-Bloomberg.com • 3h ago
+Bloomberg.com • 4h ago
 
 ---
 
 **[Bitcoin slips as Fed chair speculation hits risky assets](https://www.reuters.com/business/bitcoin-slips-fed-chair-speculation-hits-risky-assets-2026-01-30/)**
 
-Reuters • 5h ago
+Reuters • 6h ago
 
 ---
 
@@ -165,7 +165,7 @@ Reuters • 5h ago
 
 BTC fell deeper to nearly $81,000 late Thursday as Warsh's odds surged in betting markets.
 
-CoinDesk • 4h ago
+CoinDesk • 5h ago
 
 ---
 
@@ -173,7 +173,7 @@ CoinDesk • 4h ago
 
 Bitcoin price and the crypto market sank on Friday morning after Donald Trump announced that he will deliver his Federal Reserve pick later today, with traders on Polymarket betting on Kevin Warsh.Kevin Warsh odds are soaringTraders on Polymarket and Kalshi are betting that Donald Trump will nomina…
 
-TradingView • 6h ago
+TradingView • 7h ago
 
 ---
 
@@ -181,7 +181,7 @@ TradingView • 6h ago
 
 U.S.-listed spot bitcoin and ether ETFs saw one of their worst combined outflow days of 2026 as falling prices, rising volatility and macro uncertainty pushed investors to cut exposure.
 
-CoinDesk • 39m ago
+CoinDesk • 1h ago
 
 ---
 
@@ -189,7 +189,7 @@ CoinDesk • 39m ago
 
 Despite hopes for a macro hedge, bitcoin continues to trade like the riskiest of risk assets in turmoil.
 
-CoinDesk • 12h ago
+CoinDesk • 13h ago
 
 ---
 
@@ -197,7 +197,7 @@ CoinDesk • 12h ago
 
 Binance announced that it will turn its $1 billion SAFU fund into bitcoin over the next 30 days to support the industry through uncertainty.
 
-The Block • 2h ago
+The Block • 3h ago
 
 ---
 
@@ -205,7 +205,7 @@ The Block • 2h ago
 
 A “crisis of confidence” in the U.S. dollar has been predicted to see bitcoin catch up with gold...
 
-Forbes • 19h ago
+Forbes • 20h ago
 
 ---
 
@@ -249,7 +249,7 @@ A list of known attacks against Bitcoin / crypto asset owning entities that occu
 
 Examine why the Binance SAFU fund debate keeps resurfacing, how stablecoins signal safety, and why Bitcoin continues to dominate trust conversations.
 
-⬆️ 1 • 💬 0 • 1h ago • [Altcoin Desk](https://altcoindesk.com/perspectives/1b-binance-safu-fund-if-stablecoins-mean-safety-why-do-bitcoin-returns/article-22752/)
+⬆️ 1 • 💬 0 • 2h ago • [Altcoin Desk](https://altcoindesk.com/perspectives/1b-binance-safu-fund-if-stablecoins-mean-safety-why-do-bitcoin-returns/article-22752/)
 
 ---
 
@@ -263,7 +263,7 @@ Bitcoin plunged to a two-month low Thursday as risk-on assets broadly fell—and
 
 **[Single Bitcoin entity keeping BTC price suppressed below $90K](https://news.ycombinator.com/item?id=46812350)**
 
-⬆️ 1 • 💬 0 • 18h ago • [msn.com](https://www.msn.com/en-us/money/markets/single-bitcoin-entity-keeping-btc-price-suppressed-below-90k-analysis/ar-AA1VfVZb)
+⬆️ 1 • 💬 0 • 19h ago • [msn.com](https://www.msn.com/en-us/money/markets/single-bitcoin-entity-keeping-btc-price-suppressed-below-90k-analysis/ar-AA1VfVZb)
 
 ---
 
@@ -271,7 +271,7 @@ Bitcoin plunged to a two-month low Thursday as risk-on assets broadly fell—and
 
 For years, crypto investors have waited for a familiar miracle. Altcoin season. The moment when small coins suddenly outrun Bitcoin,
 
-⬆️ 1 • 💬 0 • 2d ago • [The Bit Gazette](https://thebitgazette.com/why-altcoin-season-may-not-happen-in-2026-as-bitcoin-keeps-control/)
+⬆️ 1 • 💬 0 • 3d ago • [The Bit Gazette](https://thebitgazette.com/why-altcoin-season-may-not-happen-in-2026-as-bitcoin-keeps-control/)
 
 ---
 
@@ -313,7 +313,7 @@ Check out ClashPicks: https://www.clashpicks.com/ **Exchange Partners** Bitunix 
 
 📺 CryptosRUs
 
-👁️ 35K • 👍 2K • 💬 406 • ⏱️ 8:41 • 8h ago
+👁️ 35K • 👍 2K • 💬 406 • ⏱️ 8:41 • 9h ago
 
 ---
 
@@ -323,7 +323,7 @@ Kyledoops warned for months of the Bitcoin breakdown. In today's video he shares
 
 📺 Crypto Banter
 
-👁️ 5K • 👍 646 • 💬 11 • ⏱️ 26:07 • 2h ago
+👁️ 5K • 👍 646 • 💬 11 • ⏱️ 26:07 • 3h ago
 
 ---
 
@@ -333,7 +333,7 @@ Gold and silver just experienced historic volatility while Bitcoin feels strange
 
 📺 Swan Bitcoin
 
-👁️ 58K • 👍 2K • 💬 275 • ⏱️ 15:38 • 11h ago
+👁️ 58K • 👍 2K • 💬 275 • ⏱️ 15:38 • 12h ago
 
 ---
 
@@ -343,7 +343,7 @@ CHECK OUT MY LINKTREE FOR EXCHANGES I USE, BONUSES, FREE VIDEOS, AND MORE! https
 
 📺 My Financial Friend
 
-👁️ 6K • 👍 430 • 💬 86 • ⏱️ 9:26 • 8h ago
+👁️ 6K • 👍 430 • 💬 86 • ⏱️ 9:26 • 9h ago
 
 ---
 
@@ -353,7 +353,7 @@ LIMITED TIME: ✓ Bitunix (no kyc, $700 bonus): https://www.bitunix.com/register
 
 📺 Altcoin Daily
 
-👁️ 46K • 👍 2K • 💬 157 • ⏱️ 8:26 • 10h ago
+👁️ 46K • 👍 2K • 💬 157 • ⏱️ 8:26 • 11h ago
 
 ---
 
@@ -373,7 +373,7 @@ TIA PRO LIFETIME DISCOUNT* - NAVIGATE YOUR PORTFOLIO THROUGH THE PEAK AND COLLAP
 
 📺 Jason Pizzino
 
-👁️ 14K • 👍 837 • 💬 339 • ⏱️ 31:51 • 8h ago
+👁️ 14K • 👍 837 • 💬 339 • ⏱️ 31:51 • 9h ago
 
 ---
 
@@ -383,7 +383,7 @@ Bitcoin appears to have completed its 2023–2025 market cycle and entered a lat
 
 📺 Benjamin Cowen
 
-👁️ 68K • 👍 4K • 💬 348 • ⏱️ 10:19 • 15h ago
+👁️ 68K • 👍 4K • 💬 348 • ⏱️ 10:19 • 16h ago
 
 ---
 
@@ -393,7 +393,7 @@ Markets are breaking while Bitcoin sits quietly in the corner. Powell held rates
 
 📺 Simply Bitcoin
 
-👁️ 24K • 👍 2K • 💬 215 • ⏱️ 18:55 • 10h ago
+👁️ 24K • 👍 2K • 💬 215 • ⏱️ 18:55 • 11h ago
 
 ---
 
@@ -403,7 +403,7 @@ Up to *$30000* Welcome Bonus]◅ ✓ *NO RESTRICTIONS* IF YOU *Use THIS Link* Ph
 
 📺 Tyler S
 
-👁️ 14K • 👍 724 • 💬 266 • ⏱️ 8:01 • 16h ago
+👁️ 14K • 👍 724 • 💬 266 • ⏱️ 8:01 • 17h ago
 
 ---
 
