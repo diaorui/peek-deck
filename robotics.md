@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-01-29T23:31:37.363613+00:00'
+updated: '2026-01-30T02:06:39.916510+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
+- videos
 - social
 - news
-- videos
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** January 29, 2026 at 23:31 UTC  
+**Last Updated:** January 30, 2026 at 02:06 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -32,11 +32,27 @@ Robotics research and industry news
 
 ## Reddit: r/robotics
 
+**[LingBot-VA: a causal world open source model approach to robotic manipulation](https://www.reddit.com/r/robotics/comments/1qqqk29/lingbotva_a_causal_world_open_source_model/)**
+
+Ant Group released LingBot-VA, a VLA built on a different premise than most current approaches: instead of directly mapping observations to actions, first predict what the future should look like, then infer what action causes that transition. The model uses a 5.3B video diffusion backbone (Wan2.2) as a "world model" to predict future frames, then decodes actions via inverse dynamics. Everything runs through GPT style autoregressive generation with KV-cache — no chunk-based diffusion, so the robot maintains persistent memory across the full trajectory and respects causal ordering (past → present → future). Results on standard benchmarks: 92.9% on RoboTwin Easy (vs 82.7% for π0.5), 91.6% on Hard (vs 76.8%), 98.5% on LIBERO-Long. The biggest gains show up on long-horizon tasks and anything requiring temporal memory — counting repetitions, remembering past observations, etc. Sample efficiency is a key claim: 50 demos for deployment, and even 10 demos outperforms π0.5 by 10-15%. They attribute this to the video backbone providing strong physical priors. For inference speed, they overlap prediction with execution using async inference plus a forward dynamics grounding step. 2× speedup with no accuracy drop.
+
+1h ago
+
+---
+
 **[First build](https://www.reddit.com/r/robotics/comments/1qq7xso/first_build/)**
 
 Working on my first robotics build at the moment and easing my way into it. Any pointers or tips would be greatly appreciated. This is what I have for hardware so far.
 
-10h ago
+13h ago
+
+---
+
+**[Framework for Soft Robotics via 3D Printable Artificial Muscles](https://www.reddit.com/r/robotics/comments/1qqrzkz/framework_for_soft_robotics_via_3d_printable/)**
+
+The overall goal is to lower the barrier to entry for soft robotics and provide an alternative approach to building robotic systems. One way to achieve this is by using widely available tools such as FDM 3D printers. The concept centers on a 3D‑printable film used to create inflatable bags. These bags can be stacked to form pneumatic, bellows‑style linear artificial muscles. A tendon‑driven actuator is then assembled around these muscles to create functional motion. The next phase focuses on integration. A 3D‑printed sleeve guides each modular muscle during inflation, and different types of skeletons—human, dog, or frog—can be printed while reusing the same muscle modules across all designs. You can see the experiments with the bags here: https://www.youtube.com/playlist?list=PLF9nRnkMqNpZ-wNNfvy_dFkjDP2D5Q4OO I am looking for groups, labs, researchers, and students working in soft robotics who could provide comments and general feedback on this approach, as well as guidance on developing a complete framework (including workflows, designs, and simulations).
+
+19m ago
 
 ---
 
@@ -46,11 +62,11 @@ Working on my first robotics build at the moment and easing my way into it. Any 
 
 ---
 
-**[Need advice: what content works best to create a community of robotics devs?](https://www.reddit.com/r/robotics/comments/1qq5h46/need_advice_what_content_works_best_to_create_a/)**
+**[Mujoco Pick and Place Tasks](https://www.reddit.com/r/robotics/comments/1qqpo7p/mujoco_pick_and_place_tasks/)**
 
-We want to build a community of robotics and computer vision developers who want to share their algorithms and SOTA models to be used by the industry. The idea is to have a large scale, common repo, where devs contribute their SOTA models and algorithms. It follows the principle of a Skill Library for robotics. Skills can be of computer vision, robotics, RL, VLA models or any other model that is used for industrial robots, mobile robots and humanoid robots. To get started with building the community, we are struggling to figure out what content works best. Some ideas that we have include: A Discord channel for centralised discussion YouTube channel showcasing how to use the Skills to build use cases Technical blogs on Medium What channels do you regularly visit to keep up to date with all the varied models out there? And also, what content do you generally enjoy?
+I'm trying to learn the basics of Mujoco and RL through teaching a panda arm to place boxes into color coordinated buckets. I'm having a lot of trouble getting it to learn. Does anyone have any guides or know of existing projects I can use to guide me? This is my current environment. https://preview.redd.it/pkckdasgodgg1.png?width=922&format=png&auto=webp&s=07365fbdf62558f4017f5943ed92e172ed60d9b3
 
-12h ago
+1h ago
 
 ---
 
@@ -58,7 +74,15 @@ We want to build a community of robotics and computer vision developers who want
 
 Engineers have trained a new humanoid robot to perform realistic lip-syncing not by manually programming every movement, but by having it 'watch' hours of YouTube videos. By visually analyzing human speakers, the robot learned to match its mouth movements to audio with eerie precision.
 
-🔗 [TechSpot](https://www.techspot.com/news/110967-humanoid-robot-learns-realistic-lip-movement-watching-youtube.html) • 15h ago
+🔗 [TechSpot](https://www.techspot.com/news/110967-humanoid-robot-learns-realistic-lip-movement-watching-youtube.html) • 18h ago
+
+---
+
+**[Need advice: what content works best to create a community of robotics devs?](https://www.reddit.com/r/robotics/comments/1qq5h46/need_advice_what_content_works_best_to_create_a/)**
+
+We want to build a community of robotics and computer vision developers who want to share their algorithms and SOTA models to be used by the industry. The idea is to have a large scale, common repo, where devs contribute their SOTA models and algorithms. It follows the principle of a Skill Library for robotics. Skills can be of computer vision, robotics, RL, VLA models or any other model that is used for industrial robots, mobile robots and humanoid robots. To get started with building the community, we are struggling to figure out what content works best. Some ideas that we have include: A Discord channel for centralised discussion YouTube channel showcasing how to use the Skills to build use cases Technical blogs on Medium What channels do you regularly visit to keep up to date with all the varied models out there? And also, what content do you generally enjoy?
+
+15h ago
 
 ---
 
@@ -80,29 +104,7 @@ We are building a 3d-printable animatronics robots, Mostly the same 3d printed p
 
 Hello , I'm currently doing internship in my college and I have got one month to finish ball balancing bot , I do have some idea, so guys please help me out what are the components are required for doing the project and how to do it that will be grateful and appreciate the suggestion :)
 
-9h ago
-
----
-
-**[iRobot cofounder on robotics as a toolkit, not a single destination](https://www.reddit.com/r/robotics/comments/1qpg3sr/irobot_cofounder_on_robotics_as_a_toolkit_not_a/)**
-
-Former iRobot CEO Colin Angle talks about how robotics isn’t really a single “thing,” and that defaulting to humanoids as the mental model ends up flattening what’s actually going on in the field. He ties it back to his time at iRobot and how a lot of success or failure came down to very specific questions about value and trust, not form factor. Amazon attempted to acquire the declining company from bankruptcy but after an 18-month process the deal fell through. Angle is now with another company.
-
-1d ago
-
----
-
-**[I want help with a gazebo project is there any one who knows about gazebo](https://www.reddit.com/r/robotics/comments/1qq3zxu/i_want_help_with_a_gazebo_project_is_there_any/)**
-
-14h ago
-
----
-
-**[RealSense D435 mounted vertically (90° rotation) - What should camera_link and camera_depth_optical_frame TF orientations be?](https://www.reddit.com/r/robotics/comments/1qq3tf8/realsense_d435_mounted_vertically_90_rotation/)**
-
-Hi everyone, I'm using an Intel RealSense D435 camera with ROS2 Jazzy and MoveIt2. My camera is mounted in a non-standard orientation: Vertically rather than horizontally. More specifically it is rotated 90° counterclockwise (USB port facing up) and tilted 8° downward. I've set up my URDF with a camera_link joint that connects to my robot, and the RealSense ROS2 driver automatically publishes the camera_depth_optical_frame. My questions: Does camera_link need to follow a specific orientation convention? (I've read REP-103 says X=forward, Y=left, Z=up, but does this still apply when the camera is physically rotated?) What should camera_depth_optical_frame look like in RViz after the 90° rotation? The driver creates this automatically - should I expect the axes to look different than a standard horizontal mount? If my point cloud visually appears correctly aligned with reality (floor is horizontal, objects in correct positions), does the TF frame orientation actually matter? Or is it purely cosmetic at that point? Is there a "correct" RPY for a vertically-mounted D435, or do I just need to ensure the point cloud aligns with my robot's world frame? Any guidance from anyone who has mounted a RealSense camera vertically would be really appreciated! Thanks!
-
-14h ago
+11h ago
 
 ---
 
@@ -130,15 +132,7 @@ The Robot Report • 3d ago
 
 Future of the company lies in equipping and running a global fleet of driverless taxis and in selling humanoid robots
 
-Financial Times • 11h ago
-
----
-
-**[Tesla kills Models S and X to build humanoid robots instead](https://arstechnica.com/cars/2026/01/tesla-kills-models-s-and-x-to-build-humanoid-robots-instead/)**
-
-EVs that were once industry-leading have long since been left behind.
-
-Ars Technica • 8h ago
+Financial Times • 14h ago
 
 ---
 
@@ -146,7 +140,15 @@ Ars Technica • 8h ago
 
 Investors liked what they heard about the future following the company's latest results, but Elon Musk is under huge pressure to deliver on his vision as a series of targets have been missed.
 
-Sky News • 16h ago
+Sky News • 18h ago
+
+---
+
+**[Tesla discontinues Model X and S vehicles as Elon Musk pivots to robotics](https://www.theguardian.com/technology/2026/jan/28/tesla-q4-earnings-estimates-elon-musk)**
+
+Musk’s optimism for Optimus robot demand help EV maker beat quarterly expectations despite first-ever yearly revenue decline
+
+The Guardian • 1d ago
 
 ---
 
@@ -161,6 +163,12 @@ NASA (.gov) • 2d ago
 **[Synthetic 'muscle' with microfluidic blood vessels shows promise for soft robotics](https://techxplore.com/news/2026-01-synthetic-muscle-microfluidic-blood-vessels.html)**
 
 Tech Xplore • 2d ago
+
+---
+
+**[Lightspeed Backs Robotics Startup in $100 Million Round](https://www.bloomberg.com/news/articles/2026-01-29/fiat-toyota-tycoons-back-startup-robco-in-100-million-round)**
+
+Bloomberg.com • 10h ago
 
 ---
 
@@ -180,45 +188,57 @@ bgr.com • 3d ago
 
 ---
 
-**[Richtech Robotics soars after announcing partnership with Microsoft to use AI to improve its robots](https://sherwood.news/markets/richtech-robotics-soars-after-announcing-partnership-with-microsoft-to-use/)**
-
-The most momentous day for ADAM since serving Jensen Huang a margarita....
-
-Sherwood News • 2d ago
-
----
-
 ---
 
 ## YouTube Videos: "robotics"
 
-**[Robotics Boom: 3 Stocks Under $20 Right Now](https://www.youtube.com/watch?v=8yC0p_lfk4g)**
+**[Helix 02 by Figure Proves Humanoid Robots Can Finally Feel](https://www.youtube.com/watch?v=tz-t1EQ44n0)**
 
-Robotics stocks are heating up fast, but many of the biggest names are already expensive. In this video, MarketBeat's Jeffrey Neal ...
+Helix 02 from Figure is changing what humanoid robots are capable of by adding something vision alone could never solve: touch ...
 
-📺 MarketBeat
+📺 DPCcars
 
-👁️ 136K • 👍 3K • 💬 183 • ⏱️ 17:39 • 6d ago
-
----
-
-**[Viral video shows autonomous snow blower at work in New Jersey](https://www.youtube.com/watch?v=c7vetvwsn-Q)**
-
-Sandra Bookman has more on the viral video and the man behind the handy invention.
-
-📺 Eyewitness News ABC7NY
-
-👁️ 658K • 👍 5K • 💬 985 • ⏱️ 2:01 • 3d ago
+👁️ 12K • 👍 333 • 💬 55 • ⏱️ 1:18 • 2d ago
 
 ---
 
-**[Xpeng’s New ET1 AI Robot Just Broke the AI  Humanoid Limit — Optimus Killer Enters Mass Production](https://www.youtube.com/watch?v=T8IYzqINZJY)**
+**[Tesla bets big on robotics](https://www.youtube.com/watch?v=yEAf1Mw0qYk)**
 
-XPENG Robotics just changed the game — their new ET1 AI humanoid robot has officially entered mass production, and it's ...
+Steve Westly, former Tesla board member and founder of the Westly Group, joins 'Squawk on the Street' to discuss Tesla's latest ...
 
-📺 The AI Nexus
+📺 CNBC Television
 
-👁️ 5K • 👍 150 • 💬 20 • ⏱️ 18:41 • 5d ago
+👁️ 8K • 👍 54 • 💬 52 • ⏱️ 3:43 • 8h ago
+
+---
+
+**[The German Robots Are Replacing Forklifts Inside Factories](https://www.youtube.com/watch?v=tCis6jGzxnk)**
+
+Day 172 of watching tech evolve. German startup Filics has built autonomous warehouse robots that move in any direction, work ...
+
+📺 Deepen
+
+👁️ 20K • 👍 403 • 💬 10 • ⏱️ 0:29 • 5d ago
+
+---
+
+**[Elon Musk Repairs High-Tech Robotic 🕵️ Wings on Female 💲Android in Futuristic 🧪 Ai-concept.](https://www.youtube.com/watch?v=qBIpFr_d3Vg)**
+
+RoboticWings #FuturisticLab #Android #SciFi #Robotics #AIArt #Cyberpunk #HighTech #ArtificialIntelligence #TeslaBot ...
+
+📺 AITECHGADGETS
+
+👁️ 283K • 💬 148 • ⏱️ 0:18 • 4d ago
+
+---
+
+**[SATISFYING Robotic Arm Glazes Ceramics with INSANE Precision 🤖](https://www.youtube.com/watch?v=3PK2EOvBQkg)**
+
+Inside a high-tech ceramic workshop, a bright yellow industrial robotic arm executes a flawless glazing sequence with ...
+
+📺 Working Planet Shorts
+
+👁️ 487K • 👍 701 • 💬 2 • ⏱️ 0:06 • 5d ago
 
 ---
 
@@ -228,67 +248,43 @@ Designed to work safely and naturally around people, Sprout from Fauna Robotics,
 
 📺 Interesting Engineering
 
-👁️ 833 • 👍 72 • 💬 2 • ⏱️ 1:40 • 8h ago
+👁️ 1K • 👍 74 • 💬 2 • ⏱️ 1:40 • 10h ago
 
 ---
 
-**[Elon Musk speaks on AI, robotics and aliens in discussion looking ahead to the future](https://www.youtube.com/watch?v=DPCvFy5BKeM)**
+**[Drag-on welding robot.#industrial #welding #robot #spraying #stamping #machine](https://www.youtube.com/watch?v=i8vRsqt5ORw)**
 
-Tesla and SpaceX founder Elon Musk took part in a wide-ranging discussion at the World Economic Forum on Thursday in Davos, ...
+📺 Borunte robot-Lin 
 
-📺 Global News
-
-👁️ 27K • 👍 129 • 💬 108 • ⏱️ 10:15 • 6d ago
+👁️ 32K • 👍 115 • 💬 2 • ⏱️ 0:21 • 5d ago
 
 ---
 
-**[Meet Sprout: The Humanoid Robot Built for Real World Use](https://www.youtube.com/watch?v=4zMbX1OEOSE)**
+**[My boyfriend loves his mini robot 🤣💕#couples #longdistancerelationship #ldr #robot](https://www.youtube.com/watch?v=qrJfj-HRXzE)**
 
-This new humanoid robot is not about hype or flashy promises. Sprout is designed to work alongside people in real environments, ...
+📺 Romi Pal
 
-📺 DPCcars
-
-👁️ 2K • 👍 67 • 💬 17 • ⏱️ 3:17 • 1d ago
+👁️ 322K • 👍 7K • 💬 38 • ⏱️ 0:17 • 6d ago
 
 ---
 
-**[The PEAK of Robot Mower Evolution? | Ecovacs 2026 Sneak Peek](https://www.youtube.com/watch?v=UWRpPAMUGOc)**
+**[Humanoid Robots Are Coming. They Could Wipe Out This Entire Town](https://www.youtube.com/watch?v=6BJ0XbXOJcs)**
 
-Check out ECOVACS' newest products for 2026: https://www.ecovacs.com/global/campaign/ces Our review of the GOAT A3000: ...
+Hyundai is planning to place 30000 humanoid robots in its factories. We talked to an anonymous Hyundai worker who says his ...
 
-📺 Freshly Charged
+📺 More Perfect Union
 
-👁️ 10K • 👍 48 • 💬 25 • ⏱️ 7:36 • 3d ago
-
----
-
-**[Why AI Pizza Machines Are Actually Worrying Workers 🍕](https://www.youtube.com/watch?v=U7tlOl7s3ns)**
-
-Some people are getting concerned because automatic AI pizza-making machines are slowly appearing on streets worldwide.
-
-📺 Taylor Jollie
-
-👁️ 6K • 👍 38 • 💬 5 • ⏱️ 0:19 • 6h ago
+👁️ 175K • 👍 16K • 💬 2K • ⏱️ 2:59 • 2d ago
 
 ---
 
-**[How Hyundai&#39;s humanoid robot plans are facing fierce opposition from workers](https://www.youtube.com/watch?v=YElzKlzPGe8)**
+**[Pacman Universe – Advanced Robotic Character Animation | StrEat](https://www.youtube.com/watch?v=dm57WnYor00)**
 
-You can watch this video at https://koreanow.com Copyright(C) Unauthorized use, distribution, and employment of AI-based tools ...
+Pacman Universe – Advanced Robotic Character Animation | StrEat Pacman Universe presents a new futuristic 3D animation.
 
-📺 KOREA NOW
+📺 StrEat
 
-👁️ 39K • 👍 736 • 💬 430 • ⏱️ 3:06 • 6d ago
-
----
-
-**[Tesla is betting on robots &amp; robotaxis, but former bull Ross Gerber is skeptical](https://www.youtube.com/watch?v=fzuqnIGorNA)**
-
-Gerber Kawasaki Wealth and Investment Management CEO, Ross Gerber, joins Market Domination host Josh Lipton to discuss ...
-
-📺 Yahoo Finance
-
-👁️ 10K • 👍 113 • 💬 50 • ⏱️ 6:39 • 5d ago
+👁️ 149K • 👍 265 • 2d ago
 
 ---
 
