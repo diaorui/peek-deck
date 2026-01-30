@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-01-30T16:40:57.174196+00:00'
+updated: '2026-01-30T17:35:06.776282+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- social
 - cryptocurrency
-- news
+- social
 - videos
+- news
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** January 30, 2026 at 16:40 UTC  
+**Last Updated:** January 30, 2026 at 17:35 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -85,13 +85,13 @@ Rank #1
 
 **[Pack yo bags — bullish for BTC. Who's locking in with me ?](https://www.reddit.com/r/Bitcoin/comments/1qr6uah/pack_yo_bags_bullish_for_btc_whos_locking_in_with/)**
 
-2h ago
+3h ago
 
 ---
 
 **[Soo, who all is buying?](https://www.reddit.com/r/Bitcoin/comments/1qr6njb/soo_who_all_is_buying/)**
 
-2h ago
+3h ago
 
 ---
 
@@ -99,13 +99,13 @@ Rank #1
 
 I wish I had more liquidity!
 
-2h ago
+3h ago
 
 ---
 
 **[Here we goooo](https://www.reddit.com/r/Bitcoin/comments/1qqkg06/here_we_goooo/)**
 
-19h ago
+20h ago
 
 ---
 
@@ -119,7 +119,7 @@ Red candles everywhere, BTC dipping hard. Paper hands sweating. Headlines scream
 
 **[Never forget, lettuce hands!](https://www.reddit.com/r/Bitcoin/comments/1qr07nl/never_forget_lettuce_hands/)**
 
-7h ago
+8h ago
 
 ---
 
@@ -127,13 +127,13 @@ Red candles everywhere, BTC dipping hard. Paper hands sweating. Headlines scream
 
 15 years in Bitcoin—bought my first at $7. I've survived every major crash, always fearing 'this time it's over.' I always thought it was an existential event - every single time. Bitcoin proved resilient every single time. This dip is nothing.
 
-13h ago
+14h ago
 
 ---
 
 **[Sure Grandma](https://www.reddit.com/r/Bitcoin/comments/1qr0xd6/sure_grandma/)**
 
-7h ago
+8h ago
 
 ---
 
@@ -151,7 +151,7 @@ Red candles everywhere, BTC dipping hard. Paper hands sweating. Headlines scream
 
 Only yesterday, we explained how Donald Trump runs his White House like a reality TV competition. Nominees for high office are turned into contestants vying for his approval, and the frontrunner could switch at any minute.Lo and behold, that’s exactly what’s happened in the race to become the next chairman ...
 
-Yahoo Finance • 4h ago
+Yahoo Finance • 5h ago
 
 ---
 
@@ -159,13 +159,13 @@ Yahoo Finance • 4h ago
 
 Warsh has praised bitcoin as a tool to guide policy, not as a competitor to the dollar.
 
-Yahoo Finance • 1h ago
+Yahoo Finance • 2h ago
 
 ---
 
 **[Bitcoin Slumps to Two-Month Low as US Funds Shed Billions](https://www.bloomberg.com/news/articles/2026-01-30/bitcoin-btc-slumps-to-two-month-low-as-us-funds-shed-billions)**
 
-Bloomberg • 43m ago
+Bloomberg • 1h ago
 
 ---
 
@@ -173,7 +173,7 @@ Bloomberg • 43m ago
 
 Amboss launched RailsX, a peer-to-peer platform for trading Bitcoin and stablecoins without centralized exchanges or losing custody.
 
-Bitcoin Magazine • 19m ago
+Bitcoin Magazine • 1h ago
 
 ---
 
@@ -181,7 +181,7 @@ Bitcoin Magazine • 19m ago
 
 Bitcoin also suffered roughly $800 million in liquidations and ETF outflows in the past 24 hours....
 
-Sherwood News • 45m ago
+Sherwood News • 1h ago
 
 ---
 
@@ -189,7 +189,7 @@ Sherwood News • 45m ago
 
 How low can Bitcoin go?
 
-Mashable • 22h ago
+Mashable • 23h ago
 
 ---
 
@@ -197,7 +197,7 @@ Mashable • 22h ago
 
 Binance will convert the stablecoin holdings in its $1 billion Secure Asset Fund for Users to bitcoin over the next 30 days, with plans for regular audits.
 
-CoinDesk • 10h ago
+CoinDesk • 11h ago
 
 ---
 
@@ -213,7 +213,7 @@ The Block • 9h ago
 
 Binance says it will convert its $1 billion SAFU user protection fund from stablecoins into bitcoin within 30 days and top it up if its value falls below $800 million.
 
-Bitbo • 5h ago
+Bitbo • 6h ago
 
 ---
 
@@ -247,7 +247,7 @@ A list of known attacks against Bitcoin / crypto asset owning entities that occu
 
 **[Bitcoin's Quantum Computing Threat](https://news.ycombinator.com/item?id=46824834)**
 
-⬆️ 1 • 💬 0 • 2h ago • [bmpro.substack.com](https://bmpro.substack.com/p/bitcoins-quantum-computing-threat)
+⬆️ 1 • 💬 0 • 3h ago • [bmpro.substack.com](https://bmpro.substack.com/p/bitcoins-quantum-computing-threat)
 
 ---
 
@@ -255,7 +255,7 @@ A list of known attacks against Bitcoin / crypto asset owning entities that occu
 
 Examine why the Binance SAFU fund debate keeps resurfacing, how stablecoins signal safety, and why Bitcoin continues to dominate trust conversations.
 
-⬆️ 1 • 💬 0 • 7h ago • [Altcoin Desk](https://altcoindesk.com/perspectives/1b-binance-safu-fund-if-stablecoins-mean-safety-why-do-bitcoin-returns/article-22752/)
+⬆️ 1 • 💬 0 • 8h ago • [Altcoin Desk](https://altcoindesk.com/perspectives/1b-binance-safu-fund-if-stablecoins-mean-safety-why-do-bitcoin-returns/article-22752/)
 
 ---
 
@@ -263,7 +263,7 @@ Examine why the Binance SAFU fund debate keeps resurfacing, how stablecoins sign
 
 Bitcoin plunged to a two-month low Thursday as risk-on assets broadly fell—and even gold and silver gave up earlier gains.
 
-⬆️ 1 • 💬 0 • 19h ago • [Decrypt](https://decrypt.co/356330/bitcoin-2-month-low-gold-stocks-give-up-gains-crypto-liquidations-800m)
+⬆️ 1 • 💬 0 • 20h ago • [Decrypt](https://decrypt.co/356330/bitcoin-2-month-low-gold-stocks-give-up-gains-crypto-liquidations-800m)
 
 ---
 
@@ -293,7 +293,7 @@ Transform HN comment threads into executive intelligence. AI analyzes discussion
 
 20 years of Hacker News analyzed. 40M comments. 10,000 topics. What the tech community really thinks.
 
-⬆️ 2 • 💬 0 • 32m ago • [HN Zeitgeist](https://hn.mrzepa.com/)
+⬆️ 2 • 💬 0 • 1h ago • [HN Zeitgeist](https://hn.mrzepa.com/)
 
 ---
 
@@ -313,7 +313,7 @@ Check out ClashPicks: https://www.clashpicks.com/ **Exchange Partners** Bitunix 
 
 📺 CryptosRUs
 
-👁️ 46K • 👍 2K • 💬 552 • ⏱️ 8:41 • 14h ago
+👁️ 46K • 👍 2K • 💬 552 • ⏱️ 8:41 • 15h ago
 
 ---
 
@@ -323,7 +323,7 @@ Gold and silver just experienced historic volatility while Bitcoin feels strange
 
 📺 Swan Bitcoin
 
-👁️ 81K • 👍 3K • 💬 396 • ⏱️ 15:38 • 17h ago
+👁️ 81K • 👍 3K • 💬 396 • ⏱️ 15:38 • 18h ago
 
 ---
 
@@ -333,7 +333,7 @@ Central banks are selling Treasuries and hoarding gold at record levels as trust
 
 📺 Swan Bitcoin
 
-👁️ 5K • 👍 473 • 💬 92 • ⏱️ 14:55 • 2h ago
+👁️ 5K • 👍 473 • 💬 92 • ⏱️ 14:55 • 3h ago
 
 ---
 
@@ -343,7 +343,7 @@ LIMITED TIME: ✓ Bitunix (no kyc, $700 bonus): https://www.bitunix.com/register
 
 📺 Altcoin Daily
 
-👁️ 59K • 👍 2K • 💬 244 • ⏱️ 8:26 • 16h ago
+👁️ 59K • 👍 2K • 💬 244 • ⏱️ 8:26 • 17h ago
 
 ---
 
@@ -363,7 +363,7 @@ It's a terrifying time to be in the markets, especially with Bitcoin so close $8
 
 📺 Crypto Banter
 
-👁️ 9K • 👍 792 • 💬 33 • ⏱️ 36:59 • 4h ago
+👁️ 9K • 👍 792 • 💬 33 • ⏱️ 36:59 • 5h ago
 
 ---
 
@@ -373,7 +373,7 @@ Bitcoin appears to have completed its 2023–2025 market cycle and entered a lat
 
 📺 Benjamin Cowen
 
-👁️ 80K • 👍 5K • 💬 386 • ⏱️ 10:19 • 21h ago
+👁️ 80K • 👍 5K • 💬 386 • ⏱️ 10:19 • 22h ago
 
 ---
 
@@ -383,7 +383,7 @@ After a brief series of amendments were rejected, the U.S. Senate Agriculture Co
 
 📺 Paul Barron Network
 
-👁️ 155K • 👍 6K • 💬 735 • ⏱️ 16:34 • 22h ago
+👁️ 155K • 👍 6K • 💬 735 • ⏱️ 16:34 • 23h ago
 
 ---
 
@@ -393,7 +393,7 @@ TOOBIT — CLAIM $50 & 20% SIGN UP BONUS ON YOUR DEPOSIT Limited spots available
 
 📺 100XClub
 
-👁️ 8K • 👍 1K • 💬 244 • ⏱️ 7:50 • 7h ago
+👁️ 8K • 👍 1K • 💬 244 • ⏱️ 7:50 • 8h ago
 
 ---
 

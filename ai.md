@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-01-30T16:40:57.165513+00:00'
+updated: '2026-01-30T17:35:06.762268+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
 - social
+- videos
 - news
 - repositories
-- videos
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** January 30, 2026 at 16:40 UTC  
+**Last Updated:** January 30, 2026 at 17:35 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -41,7 +41,7 @@ AI news, discussions, and developments
 
 ByteDance, Alibaba and Tencent had been given permission to purchase more than 400,000 H200 chips in total.
 
-🔗 [thestandard.com.hk](https://www.thestandard.com.hk/china-news/article/323159/China-conditionally-approves-DeepSeek-to-buy-Nvidias-H200-chips) • 6h ago
+🔗 [thestandard.com.hk](https://www.thestandard.com.hk/china-news/article/323159/China-conditionally-approves-DeepSeek-to-buy-Nvidias-H200-chips) • 7h ago
 
 ---
 
@@ -57,7 +57,7 @@ Hey everyone. I Just published a breakdown on Moltbot: the self-hosted, open-sou
 
 Amazon is reportedly in discussions to invest as much as $50 billion in OpenAI, as major technology firms race to secure access to advanced artificial intelligence systems.
 
-🔗 [techputs](https://techputs.com/amazon-openai-50-billion-investment-talks/) • 13h ago
+🔗 [techputs](https://techputs.com/amazon-openai-50-billion-investment-talks/) • 14h ago
 
 ---
 
@@ -65,7 +65,7 @@ Amazon is reportedly in discussions to invest as much as $50 billion in OpenAI, 
 
 This post introduces the concept of "two agentic loops": the inner loop that handles reasoning and tool use, while the outer loop handles everything that makes agents ready for production—orchestration, guardrails, observability, and bounded execution. The outer loop is real infrastructure that needs to be built and maintained independently. Plano implements this pattern as an AI-native proxy and data plane.
 
-🔗 [Plano](https://planoai.dev/blog/the-two-agentic-loops-how-to-design-and-scale-agentic-apps) • 18h ago
+🔗 [Plano](https://planoai.dev/blog/the-two-agentic-loops-how-to-design-and-scale-agentic-apps) • 19h ago
 
 ---
 
@@ -89,7 +89,7 @@ Wordsmith Law has issued a claim against legal AI company Wordsmith in an appare
 
 We're excited to share our latest podcast episode, where we talk about why some of the best movies fail at the box office only to become cult classics a decade later and whether AI can actually predict the next underground masterpiece by looking at real-time sentiment analysis and "memeable density". The data shows that playing it safe will just not cut it. To stand out and make a movie that will be remembered for decades, you have to throw caution to the wind and take the bold risks that everyone will tell you not to make. We also dive into some of the interesting side-projects we're working on, along with a few weird, off-beat recent news stories about AI. Check it out and hope you enjoy
 
-🔗 [open.substack.com](https://open.substack.com/pub/storyprism/p/story-prism-podcast-ep-7?r=h11e6&utm_campaign=post&utm_medium=web) • 23h ago
+🔗 [open.substack.com](https://open.substack.com/pub/storyprism/p/story-prism-podcast-ep-7?r=h11e6&utm_campaign=post&utm_medium=web) • 1d ago
 
 ---
 
@@ -129,7 +129,7 @@ Anthropic • 21h ago
 
 **[Opinion | Young People Are Using A.I. to Skip the Hardest Part of Growing Up](https://www.nytimes.com/2026/01/30/opinion/ai-social-skills-relationships.html)**
 
-The New York Times • 6h ago
+The New York Times • 7h ago
 
 ---
 
@@ -137,7 +137,7 @@ The New York Times • 6h ago
 
 Hundreds of millions of people are turning to chatbots to help figure out what's wrong with them. Doctors say that's not always a bad thing. In fact, many are using it themselves.
 
-NPR • 1h ago
+NPR • 2h ago
 
 ---
 
@@ -161,7 +161,7 @@ Yahoo Finance • 1d ago
 
 The flash storage memory company reported strong margins as AI data centers fuel a supply crunch for the chips.
 
-CNBC • 1h ago
+CNBC • 2h ago
 
 ---
 
@@ -169,7 +169,7 @@ CNBC • 1h ago
 
 Mid-market infrastructure specialist is taking a nuanced approach to artificial intelligence investing.
 
-Bloomberg • 2h ago
+Bloomberg • 3h ago
 
 ---
 
@@ -177,13 +177,13 @@ Bloomberg • 2h ago
 
 Google AI Ultra subscribers in the U.S. can now try out Project Genie.
 
-blog.google • 23h ago
+blog.google • 1d ago
 
 ---
 
 **[Ex-Google Engineer Convicted of Stealing A.I. Secrets for Start-Up in China](https://www.nytimes.com/2026/01/29/business/ai-secrets-stolen-google-china.html)**
 
-The New York Times • 17h ago
+The New York Times • 18h ago
 
 ---
 
@@ -191,7 +191,7 @@ The New York Times • 17h ago
 
 Here we go.
 
-The Verge • 23h ago
+The Verge • 1d ago
 
 ---
 
@@ -235,7 +235,7 @@ Or, as they like to call it, the 'AI Skills Hub'. Which was built by PwC because
 
 SERA is the first in our family of Open Coding Agents, achieving state-of-the-art performance at low cost.
 
-⬆️ 249 • 💬 44 • 2d ago • [allenai.org](https://allenai.org/blog/open-coding-agents)
+⬆️ 249 • 💬 44 • 3d ago • [allenai.org](https://allenai.org/blog/open-coding-agents)
 
 ---
 
@@ -243,7 +243,7 @@ SERA is the first in our family of Open Coding Agents, achieving state-of-the-ar
 
 Anthropic is an AI safety and research company that's working to build reliable, interpretable, and steerable AI systems.
 
-⬆️ 231 • 💬 186 • 10h ago • [anthropic.com](https://www.anthropic.com/research/AI-assistance-coding-skills)
+⬆️ 231 • 💬 186 • 11h ago • [anthropic.com](https://www.anthropic.com/research/AI-assistance-coding-skills)
 
 ---
 
@@ -275,7 +275,7 @@ AISLE's autonomous analyzer found all 12 CVEs in the January 2026 coordinated re
 
 AI assistance produces significant productivity gains across professional domains, particularly for novice workers. Yet how this assistance affects the development of skills required to effectively supervise AI remains unclear. Novice workers who rely heavily on AI to complete unfamiliar tasks may compromise their own skill acquisition in the process. We conduct randomized experiments to study how developers gained mastery of a new asynchronous programming library with and without the assistance of AI. We find that AI use impairs conceptual understanding, code reading, and debugging abilities, without delivering significant efficiency gains on average. Participants who fully delegated coding tasks showed some productivity improvements, but at the cost of learning the library. We identify six distinct AI interaction patterns, three of which involve cognitive engagement and preserve learning outcomes even when participants receive AI assistance. Our findings suggest that AI-enhanced productivity is not a shortcut to competence and AI assistance should be carefully adopted into workflows to preserve skill formation -- particularly in safety-critical domains.
 
-⬆️ 163 • 💬 3 • 9h ago • [arXiv.org](https://arxiv.org/abs/2601.20245)
+⬆️ 163 • 💬 3 • 10h ago • [arXiv.org](https://arxiv.org/abs/2601.20245)
 
 ---
 
@@ -289,7 +289,7 @@ Get the FREE PDF (links + prompts) → https://discord.gg/6aV3ps7tB2 STOP overpa
 
 📺 Malva AI
 
-👁️ 2K • 👍 286 • 💬 78 • ⏱️ 7:42 • 4h ago
+👁️ 2K • 👍 286 • 💬 78 • ⏱️ 7:42 • 5h ago
 
 ---
 
@@ -299,7 +299,7 @@ Try Mammouth AI here: https://bit.ly/4sUpPDw AI just made a serious leap into th
 
 📺 AI Revolution
 
-👁️ 16K • 👍 801 • 💬 66 • ⏱️ 12:58 • 17h ago
+👁️ 16K • 👍 801 • 💬 66 • ⏱️ 12:58 • 18h ago
 
 ---
 
@@ -329,7 +329,7 @@ Build AI influencers and make money with Higgsfield here: https://higgsfield.ai/
 
 📺 Chris Koerner on The Koerner Office Podcast
 
-👁️ 22K • 👍 1K • 💬 43 • ⏱️ 13:52 • 18h ago
+👁️ 22K • 👍 1K • 💬 43 • ⏱️ 13:52 • 19h ago
 
 ---
 
@@ -349,7 +349,7 @@ AI leaders are warning that the next phase of artificial intelligence could arri
 
 📺 Valuetainment Short Clips
 
-👁️ 8K • 👍 219 • 💬 44 • ⏱️ 20:26 • 20h ago
+👁️ 8K • 👍 219 • 💬 44 • ⏱️ 20:26 • 21h ago
 
 ---
 
@@ -369,7 +369,7 @@ A viral photo of Alex Pretti has been widely circulating among protesters, showi
 
 📺 New York Post
 
-👁️ 7K • 👍 180 • 💬 217 • ⏱️ 8:31 • 20h ago
+👁️ 7K • 👍 180 • 💬 217 • ⏱️ 8:31 • 21h ago
 
 ---
 
@@ -395,7 +395,7 @@ Kimi K2.5 is a native multimodal agentic model with 1T parameters, excelling in 
 
 `image-text-to-text`
 
-⬇️ 25,438 • ❤️ 1,147 • 11h ago
+⬇️ 25,438 • ❤️ 1,147 • 12h ago
 
 ---
 
@@ -443,7 +443,7 @@ DeepSeek-OCR-2 is a multilingual vision-language model for image-to-text tasks, 
 
 `image-text-to-text` `3.4B`
 
-⬇️ 45,346 • ❤️ 546 • 16h ago
+⬇️ 45,346 • ❤️ 546 • 17h ago
 
 ---
 
@@ -479,7 +479,7 @@ LightOnOCR-2-1B is an efficient 1B-parameter end-to-end vision-language model fo
 
 `image-text-to-text` `1.0B`
 
-⬇️ 27,393 • ❤️ 440 • 4h ago
+⬇️ 27,393 • ❤️ 440 • 5h ago
 
 ---
 
@@ -491,7 +491,7 @@ PaddleOCR-VL-1.5 is a multilingual Vision-Language Model (VLM) built on ERNIE 4.
 
 `image-text-to-text` `958.6M`
 
-⬇️ 216 • ❤️ 206 • 11h ago
+⬇️ 216 • ❤️ 206 • 12h ago
 
 ---
 
@@ -655,7 +655,7 @@ Browser automation CLI for AI agents
 
 `TypeScript`
 
-⭐ 11.7k • 🔱 648 • 23h ago
+⭐ 11.7k • 🔱 648 • 1d ago
 
 ---
 
@@ -675,7 +675,7 @@ Ralph is an autonomous AI agent loop that runs repeatedly until all PRD items ar
 
 `TypeScript`
 
-⭐ 8.8k • 🔱 1.0k • 18h ago
+⭐ 8.8k • 🔱 1.0k • 19h ago
 
 ---
 
@@ -685,7 +685,7 @@ LLM驱动的 A/H/美股智能分析器，多数据源行情 + 实时新闻 + Gem
 
 `Python` `agent` `ai` `aigc` `gemini` `llm`
 
-⭐ 7.6k • 🔱 8.2k • 2h ago
+⭐ 7.6k • 🔱 8.2k • 3h ago
 
 ---
 
@@ -705,7 +705,7 @@ The Ultimate Collection of 500+ Agentic Skills for Claude Code/Antigravity/Curso
 
 `Python` `agentic-skills` `ai-agents` `antigravity` `autonomous-coding` `claude-code`
 
-⭐ 5.5k • 🔱 1.2k • 8h ago
+⭐ 5.5k • 🔱 1.2k • 9h ago
 
 ---
 
