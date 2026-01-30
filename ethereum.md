@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-01-30T19:32:59.788658+00:00'
+updated: '2026-01-30T20:32:47.475446+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- videos
-- news
-- social
 - cryptocurrency
+- videos
+- social
+- news
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** January 30, 2026 at 19:32 UTC  
+**Last Updated:** January 30, 2026 at 20:32 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -36,17 +36,17 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Price
 
-### $2,652.96
+### $2,684.94
 
 ---
 
 ## Ethereum Chart
 
-**24h:** -4.1%  
-**7d:** -9.0%  
-**30d:** -10.5%  
-**90d:** -31.1%  
-**1y:** -18.5%  
+**24h:** -4.4%  
+**7d:** -8.8%  
+**30d:** -10.3%  
+**90d:** -30.9%  
+**1y:** -18.3%  
 
 ---
 
@@ -72,7 +72,7 @@ No max supply
 
 In these five years, the Ethereum Foundation is entering a period of mild austerity, in order to be able to simultaneously meet two goals: Deliver on an aggressive roadmap that ensures Ethereum's status as a performant and scalable world computer that does not compromise on robustness, sustainability and decentralization. Ensures the Ethereum Foundation's own ability to sustain into the long term, and protect Ethereum's core mission and goals, including both the core blockchain layer as well as users' ability to access and use the chain with self-sovereignty, security and privacy. To this end, my own share of the austerity is that I am personally taking on responsibilities that might in another time have been "special projects" of the EF. Specifically, we are seeking the existence of an open-source, secure and verifiable full stack of software and hardware that can protect both our personal lives and our public environments ( see https://vitalik.eth.limo/general/2025/09/24/openness_and_verifiability.html ). This includes applications such as finance, communication and governance, blockchains, operating systems, secure hardware, biotech (including both personal and public health), and more. If you have seen the Vensa announcement (seeking to make open silicon a commercially viable reality at least for security-critical applications), the ucritter.com including recent versions with built in ZK + FHE + differential-privacy features, the air quality work, my donations to encrypted messaging apps, my own enthusiasm and use for privacy-preserving, walkaway-test-friendly and local-first software (including operating systems), then you know the general spirit of what I am planning to support. For this reason I have just withdrawn 16,384 ETH, which will be deployed toward these goals over the next few years. I am also exploring secure decentralized staking options that will allow even more capital from staking rewards to be put toward these goals in the long term. Ethereum itself is an indispensable part of the "full-stack openness and verifiability" vision. The Ethereum Foundation will continue with a steadfast focus on developing Ethereum, with that goal in mind. "Ethereum everywhere" is nice, but the primary priority is "Ethereum for people who need it". Not corposlop, but self-sovereignty, and the baseline infrastructure that enables cooperation without domination. In a world where many people's default mindset is that we need to race to become a big strong bully, because otherwise the existing big strong bullies will eat you first, this is the needed alternative. It will involve much more than technology to succeed, but the technical layer is something which is in our control to make happen. The tools to ensure your, and your community's, autonomy and safety, as a basic right that belongs to everyone. Open not in a bullshit "open means everyone has the right to buy it from us and use our API for $200/month" way, but actually open, and secure and verifiable so that you know that your technology is working for you.
 
-11h ago
+12h ago
 
 ---
 
@@ -80,7 +80,15 @@ In these five years, the Ethereum Foundation is entering a period of mild auster
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-13h ago
+14h ago
+
+---
+
+**[ETH Tokenizing Commodities](https://www.reddit.com/r/ethereum/comments/1qrgw5p/eth_tokenizing_commodities/)**
+
+Can someone explain to me like I am a 5 year old what tokenizing commodities is? From my understanding, for example, (just an example) 1 bar of gold is tokenized on a coin. That coin gives me the right and true ownership of 1 bar of gold, but who owns that bar of gold? Can I just go to a gold issuer and show them my coin that I am entitled to a bar of gold? How does that portion actually work?
+
+9m ago
 
 ---
 
@@ -88,7 +96,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 Fidelity Investments FIDD stablecoin, TheDAO Security Fund, Hegotá upgrade headliner proposals
 
-🔗 [ethereal.news](https://ethereal.news/ethereal-news-weekly-9/) • 6h ago
+🔗 [ethereal.news](https://ethereal.news/ethereal-news-weekly-9/) • 7h ago
 
 ---
 
@@ -96,7 +104,15 @@ Fidelity Investments FIDD stablecoin, TheDAO Security Fund, Hegotá upgrade head
 
 Hello Folks, I just published a smart contract to handle crypto inheritance 100% on-chain, without the owner having to do anything offline. I know there are many solutions that are trying to solve this problem, but I wanted to design my own with my logic, which is the following: - the contract acts like a wallet, owner can deposit, withdraw and transfer - the owner can assign beneficiaries, and update them at any time - the wallet contains an "alive check", which is automatically updated on any transaction - if you wanna use it as a vault (dormant), you can update the "alive check" manually - the owner defines a "consider me death time" in years, eg: if the last alive check is older than 10 years, I'm dead :( - once that happen, any of the beneficiaries can access the wallet and withdraw all the funds At this point, my favorite feature: the wallet gets locked, will reject any future deposit and "answer" with an epitaph... your "last worlds" recorded on-chain that you can configure when you create the wallet. All of the above is less then 100 lines of solidity... amazing :) At the moment I only did the backend (github link), but I'd like to do a nice interface to make it easy to deploy. Of course, free and open source in the Ethereum spirit! Would you give me a feedback on the logic? Do you see any pitfall or edge cases? Thanks, Francesco
 
-1h ago
+2h ago
+
+---
+
+**[Built web3:// protocol support into markdown - ENS sites can now embed live contract calls](https://www.reddit.com/r/ethereum/comments/1qr16pm/built_web3_protocol_support_into_markdown_ens/)**
+
+I've been working on adding native smart contract interaction to markdown-based ENS websites on Simple Page, and v1.6.0 just shipped with two features I'm excited to share. Web3 Forms via URI Protocol You can now embed interactive contract calls using web3:// URIs (ERC-6860) directly in markdown. The syntax works like this: ![USDC Balance](web3://0xa0b8...eb48:1/balanceOf/address!0x?returns=(uint256)&labels=(Account)) This renders as a live form that: Reads contract state without signatures (view/pure functions) Handles transactions with type validation Supports payable functions with ETH inputs No Web3.js boilerplate, no React scaffolding—just a URI that gets parsed into a working interface. RSS Feed Generation Sites can now auto-generate RSS feeds at /rss.xml using frontmatter: Per-page opt-in with rss: true Audio enclosures for podcast episodes Standard metadata from markdown headers Technical Architecture The interesting part about Simple Page is how this works with ENS + IPFS: Sites are pure HTML (render without JS) Editor and forms load progressively One contenthash update publishes everything Self-contained—no external dependencies This approach lets ENS names function as actual web3 endpoints rather than just static pages. The web3:// protocol handler does the ABI encoding/decoding client-side. Web3 forms example: https://simplepage.eth.link/guides/editor/web3-forms/ Source: https://simplepage.eth.link/
+
+10h ago
 
 ---
 
@@ -104,7 +120,7 @@ Hello Folks, I just published a smart contract to handle crypto inheritance 100%
 
 Ethereum developers used ACDE #229 to shift focus toward Devnet-2 readiness, execution optimizations & repricing as Glamsterdam moves from scoping into testing.
 
-🔗 [EtherWorld.co](https://etherworld.co/highlights-from-the-all-core-developers-execution-acde-call-229/) • 15h ago
+🔗 [EtherWorld.co](https://etherworld.co/highlights-from-the-all-core-developers-execution-acde-call-229/) • 16h ago
 
 ---
 
@@ -116,19 +132,11 @@ Hey everyone! Liquity V2 here. We launched on Ethereum Mainnet on in Q2 2025, an
 
 ---
 
-**[Built web3:// protocol support into markdown - ENS sites can now embed live contract calls](https://www.reddit.com/r/ethereum/comments/1qr16pm/built_web3_protocol_support_into_markdown_ens/)**
-
-I've been working on adding native smart contract interaction to markdown-based ENS websites on Simple Page, and v1.6.0 just shipped with two features I'm excited to share. Web3 Forms via URI Protocol You can now embed interactive contract calls using web3:// URIs (ERC-6860) directly in markdown. The syntax works like this: ![USDC Balance](web3://0xa0b8...eb48:1/balanceOf/address!0x?returns=(uint256)&labels=(Account)) This renders as a live form that: Reads contract state without signatures (view/pure functions) Handles transactions with type validation Supports payable functions with ETH inputs No Web3.js boilerplate, no React scaffolding—just a URI that gets parsed into a working interface. RSS Feed Generation Sites can now auto-generate RSS feeds at /rss.xml using frontmatter: Per-page opt-in with rss: true Audio enclosures for podcast episodes Standard metadata from markdown headers Technical Architecture The interesting part about Simple Page is how this works with ENS + IPFS: Sites are pure HTML (render without JS) Editor and forms load progressively One contenthash update publishes everything Self-contained—no external dependencies This approach lets ENS names function as actual web3 endpoints rather than just static pages. The web3:// protocol handler does the ABI encoding/decoding client-side. Web3 forms example: https://simplepage.eth.link/guides/editor/web3-forms/ Source: https://simplepage.eth.link/
-
-9h ago
-
----
-
 **[CFTC and SEC to Hold Joint Event on Harmonization, U.S. Financial Leadership in the Crypto Era](https://www.reddit.com/r/ethereum/comments/1qqjn1a/cftc_and_sec_to_hold_joint_event_on_harmonization/)**
 
 Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.
 
-🔗 [youtu.be](https://youtu.be/7jvfkuaV2UI) • 23h ago
+🔗 [youtu.be](https://youtu.be/7jvfkuaV2UI) • 1d ago
 
 ---
 
@@ -136,15 +144,7 @@ Enjoy the videos and music you love, upload original content, and share it all w
 
 TheDAO is back & it’s bullish! TheDAO Security Fund will activate more than 75,000 ETH (over $225M) to strengthen Ethereum’s security, ensuring it is ready to become the backbone of the world’s financial infrastructure. A decade after TheDAO saga began, we’re opening a new chapter in its story
 
-🔗 [TheDAO Security Fund](https://paragraph.com/@thedao.fund/thedao-security-fund-activating-75000-eth-for-ethereum-security) • 19h ago
-
----
-
-**[Daily General Discussion January 29, 2026](https://www.reddit.com/r/ethereum/comments/1qq0hf1/daily_general_discussion_january_29_2026/)**
-
-Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
-
-1d ago
+🔗 [TheDAO Security Fund](https://paragraph.com/@thedao.fund/thedao-security-fund-activating-75000-eth-for-ethereum-security) • 20h ago
 
 ---
 
@@ -156,7 +156,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 BitMine and Strategy stocks both plunged nearly 10% amid broader market uncertainty as a possible U.S. government shutdown looms.
 
-Decrypt • 20h ago
+Decrypt • 21h ago
 
 ---
 
@@ -176,25 +176,39 @@ The Block • 1d ago
 
 ---
 
-**[Ethereum's Oldest Crisis Reborn as a $220 Million Security Fund](https://decrypt.co/356404/ethereum-crisis-reborn-220-million-security-fund)**
+**[Key facts: DAO Security Fund to Stake 75,000 ETH; Ethereum Price Fluctuates](https://www.tradingview.com/news/tradingview:514dc07817206:0-key-facts-dao-security-fund-to-stake-75-000-eth-ethereum-price-fluctuates/)**
 
-Unclaimed Ethereum from a decade-long hack will be staked and distributed to fund audits, tooling, and incident responses.
-
-Decrypt • 20h ago
+TradingView • 20h ago
 
 ---
 
-**[Vitalik Buterin Withdraws $44.7M in ETH to Support Ethereum Growth Through ‘Mild Austerity’](https://finance.yahoo.com/news/vitalik-buterin-withdraws-44-7m-170557520.html)**
+**[Bitcoin, XRP, Ethereum Fall on News of Kevin Warsh Fed Appointment.](https://www.barrons.com/articles/bitcoin-xrp-ethereum-crypto-today-954298d9?gaa_at=eafs&gaa_n=AWEtsqe75JUraA8eJCV7VmVUadxArUKmGiesfG0SxDGyhfsSaM9GukcehWxF&gaa_ts=697d18d8&gaa_sig=L6I9ryIVu9Q6wSAOnJL_PqIMC1PqaUufTn3XxrHMRSBXIEB3pl-P9TE3A5G9_Scywltmm-YL-0tQ8tua1xqsUA%3D%3D)**
 
-The Ethereum co-founder wants to pursue an “aggressive” roadmap that will strengthen its status as a decentralized world computer.
-
-Yahoo Finance • 2h ago
+Barron's • 2h ago
 
 ---
 
-**[Bitcoin, XRP, Ethereum Fall on News of Kevin Warsh Fed Appointment.](https://www.barrons.com/articles/bitcoin-xrp-ethereum-crypto-today-954298d9?gaa_at=eafs&gaa_n=AWEtsqdB3afioIUdl1uSagujJNjv7Ap9-BQB_S6S_8ebI-TXZRgdwl9igAUs&gaa_ts=697cff61&gaa_sig=Pb1dwiv2D8f9WsaVoislKoxH0ZnTpdDoPg21WVO3IyPSY5aEIk3OVGFKqrt0dVQb9UxJg2pkiGAFvW21TDfX-Q%3D%3D)**
+**[Bitcoin, XRP, Ethereum Dive. Why Cryptos Are Getting Bashed After Warsh Fed Pick.](https://www.barrons.com/livecoverage/stock-market-news-today-013026/card/bitcoin-xrp-ethereum-dive-why-cryptos-are-getting-bashed-after-warsh-fed-pick--89jtYV0llDHxXXYD4AKw?gaa_at=eafs&gaa_n=AWEtsqcr0jsrGTzFqL_dxgx4_2HeOaJs6DLzYVW1SuiP5aNfsGdmeIHwzR0-&gaa_ts=697d18d8&gaa_sig=ungdKinyUMBnCR7eSLH4UTwFyrdl2_b1zviSO9OIsr7DUTBvC0n8GgPdyHe3ciK29v9rttiFBjGSlQi1I1YjBw%3D%3D)**
 
-Barron's • 1h ago
+The Dow, S&P 500, and Nasdaq are falling as the stock market reacts to President Donald Trump's pick for next chair of the Federal Reserve.
+
+Barron's • 6h ago
+
+---
+
+**[Ripple Affirms XRPL Focus, Says ‘We Love XRP’ Over Ethereum](https://www.tradingview.com/news/newsbtc:0d7d8c78c094b:0-ripple-affirms-xrpl-focus-says-we-love-xrp-over-ethereum/)**
+
+Ripple’s new stablecoin rollout has put a bright spotlight on a simple fact: most RLUSD is living on Ethereum right now. That imbalance has stirred worry among long-time XRP supporters.Some feel the company’s heart might be shifting away from the ledger that gave it a base. Others say the move is p…
+
+TradingView • 2h ago
+
+---
+
+**[Vitalik Buterin to spend $43 million on Ethereum development](https://www.coindesk.com/business/2026/01/30/vitalik-buterin-withdraws-usd17-million-in-eth-as-ethereum-foundation-enters-mild-austerity)**
+
+Ethereum’s co-founder said the $43 million withdrawal will support a broader “full-stack openness and verifiability” vision as the foundation tightens spending.
+
+CoinDesk • 10h ago
 
 ---
 
@@ -206,27 +220,11 @@ The Block • 1d ago
 
 ---
 
-**[Lido’s new stVaults will let L2s create their own rules for Ethereum staking](https://www.coindesk.com/tech/2026/01/29/dnp-lido-launches-stvaults-to-let-builders-create-new-ethereum-staking-products)**
+**[Tom Lee Urges Investors Not To Ignore Ethereum While Metals Surge, as BitMine Stakes Another $440.5M ETH](https://finance.yahoo.com/news/tom-lee-urges-investors-not-092823952.html)**
 
-stVaults let other teams plug into Lido’s staking system instead of building their own from scratch.
+Tom Lee has urged investors not to let the rally in gold and silver divert attention from Ethereum. BitMine continues to build its Ethereum position. ...
 
-CoinDesk • 5h ago
-
----
-
-**[Tom Lee Urges Investors Not To Ignore Ethereum While Metals Surge, as BitMine Stakes Another $440.5M ETH](https://www.ccn.com/news/crypto/tom-lee-ignore-ethereum-metals-surge-bitmine-stakes-440-5m-eth/)**
-
-Tom Lee has warned investors against ignoring Ethereum as soaring gold and silver prices hit record heights.
-
-CCN.com • 1d ago
-
----
-
-**[Ethereum loses $3K again: How low can ETH price go in February?](https://www.tradingview.com/news/cointelegraph:3bcdc7ba5094b:0-ethereum-loses-3k-again-how-low-can-eth-price-go-in-february/)**
-
-Ether BITSTAMP:ETHUSD is now more than 14% below its local peak near $3,400, underscoring the sellers’ tenacity above $3,000. A bearish technical setup suggests the pressure may extend into February.Key takeaways: Ether in textbook symmetrical triangle breakdownOn Thursday, ETH fell about 2.85% to…
-
-TradingView • 1d ago
+Yahoo Finance • 1d ago
 
 ---
 
@@ -240,7 +238,7 @@ This video provides a professional Elliott Wave and technical analysis of Ethere
 
 📺 More Crypto Online
 
-👁️ 1K • 👍 110 • 💬 6 • ⏱️ 4:32 • 6h ago
+👁️ 1K • 👍 110 • 💬 6 • ⏱️ 4:32 • 7h ago
 
 ---
 
@@ -250,7 +248,7 @@ Watch The FULL Interview: "Explosive Crypto Price Prediction for 2026..." FREE D
 
 📺 Library Of Wealth
 
-👁️ 9K • 👍 402 • 💬 266 • ⏱️ 14:36 • 13h ago
+👁️ 9K • 👍 402 • 💬 266 • ⏱️ 14:36 • 14h ago
 
 ---
 
@@ -260,7 +258,7 @@ ETHEREUM ETH PRICE PREDICTION 2026 Join the Premium Signal Group for trade setup
 
 📺 Cilinix Crypto
 
-👁️ 575 • 👍 24 • 💬 1 • ⏱️ 5:29 • 9h ago
+👁️ 575 • 👍 24 • 💬 1 • ⏱️ 5:29 • 10h ago
 
 ---
 
@@ -280,7 +278,7 @@ BITCOIN & ALTCOIN CRASH: History Repeating (Warning)!!! - Bitcoin News Today, Et
 
 📺 Crypto World
 
-👁️ 12K • 👍 380 • 💬 177 • ⏱️ 25:22 • 21h ago
+👁️ 12K • 👍 380 • 💬 177 • ⏱️ 25:22 • 22h ago
 
 ---
 
@@ -300,7 +298,7 @@ Get $450 Off Our New AI Indicators: https://tradeconfidentportal.io/indicators/ 
 
 📺 Trade Confident
 
-👁️ 651 • 👍 20 • 💬 22 • ⏱️ 5:01 • 23h ago
+👁️ 651 • 👍 20 • 💬 22 • ⏱️ 5:01 • 1d ago
 
 ---
 
@@ -310,7 +308,7 @@ This video provides a professional Elliott Wave and technical analysis of Ethere
 
 📺 More Crypto Online
 
-👁️ 3K • 👍 143 • 💬 6 • ⏱️ 6:16 • 20h ago
+👁️ 3K • 👍 143 • 💬 6 • ⏱️ 6:16 • 21h ago
 
 ---
 

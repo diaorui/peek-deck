@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-01-30T19:32:59.791935+00:00'
+updated: '2026-01-30T20:32:47.478670+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
 - videos
-- news
 - social
+- news
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** January 30, 2026 at 19:32 UTC  
+**Last Updated:** January 30, 2026 at 20:32 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -36,7 +36,7 @@ Robotics research and industry news
 
 I’m building a humanoid robot from scratch and this is how it looks so far. The hand is finished, and i’m currently working on the torso.
 
-5h ago
+6h ago
 
 ---
 
@@ -44,7 +44,7 @@ I’m building a humanoid robot from scratch and this is how it looks so far. Th
 
 Setup: 2 x Super-Beacons - a few meters away on the walls of the room - as stationary beacons emitting short ultrasound pulses 1 x Mini-RX as a mobile beacon in hands - receiving ultrasound pulses from the stationary beacons 1 x Modem as central controller of the system - connected by the white USB cable from the laptop - synchronizes the clocks between all elements, controls the telemetry, and the system overall The Dashboard on the computer doesn't calculate anything; it just displays the tracking. The location is calculated by the mobile beacon in hand and then streamed over USB to show on the display Inverse Architecture: https://marvelmind.com/pics/architectures_comparison.pdf
 
-13h ago
+14h ago
 
 ---
 
@@ -52,19 +52,27 @@ Setup: 2 x Super-Beacons - a few meters away on the walls of the room - as stati
 
 Ant Group released LingBot-VA, a VLA built on a different premise than most current approaches: instead of directly mapping observations to actions, first predict what the future should look like, then infer what action causes that transition. The model uses a 5.3B video diffusion backbone (Wan2.2) as a "world model" to predict future frames, then decodes actions via inverse dynamics. Everything runs through GPT style autoregressive generation with KV-cache — no chunk-based diffusion, so the robot maintains persistent memory across the full trajectory and respects causal ordering (past → present → future). Results on standard benchmarks: 92.9% on RoboTwin Easy (vs 82.7% for π0.5), 91.6% on Hard (vs 76.8%), 98.5% on LIBERO-Long. The biggest gains show up on long-horizon tasks and anything requiring temporal memory — counting repetitions, remembering past observations, etc. Sample efficiency is a key claim: 50 demos for deployment, and even 10 demos outperforms π0.5 by 10-15%. They attribute this to the video backbone providing strong physical priors. For inference speed, they overlap prediction with execution using async inference plus a forward dynamics grounding step. 2× speedup with no accuracy drop.
 
-18h ago
+19h ago
 
 ---
 
 **[We trained the yolo model with custom data set to detect head from top view.this needs to reply on bus to count passenger count.it deployed on pi4 with 8gb and data is trained on 25k images](https://www.reddit.com/r/robotics/comments/1qqtoa0/we_trained_the_yolo_model_with_custom_data_set_to/)**
 
-16h ago
+17h ago
+
+---
+
+**[Why is everyone buying i2rt YAMs?](https://www.reddit.com/r/robotics/comments/1qrg72h/why_is_everyone_buying_i2rt_yams/)**
+
+I've noticed that many of the labs and data collectors have been switching to YAMs. There are so many different leader follower setups. If you bought YAMs or any other kind of arms and are doing teleop, what convinced you one way or another? I've also noticed that there are alot of exoskeletons and UMIs, if you decided to go in any of these other directions would be curious to hear your take as well.
+
+34m ago
 
 ---
 
 **[NEMA17 stepper jitters and overheats when driven by DM542T + arduino](https://www.reddit.com/r/robotics/comments/1qr9d6j/nema17_stepper_jitters_and_overheats_when_driven/)**
 
-3h ago
+4h ago
 
 ---
 
@@ -72,23 +80,7 @@ Ant Group released LingBot-VA, a VLA built on a different premise than most curr
 
 Hey everybody, I'm in high school right now. I have a strong interest in robotics technology. While exploring the robotics field, I was introduced to physics simulation, mathematics, mechanical physics, electrical physics, etc. In short, I want to make the entry barrier to robotics lower after learning this. I've already started learning. I've learnt the basics of Python, pandas, and numpy, and these days I'm learning mathematics and physics at the same time, which makes me feel unproductive. Help me out. Let me know where I should spend most of my time (structural engineering, electronics engineering) or in mathematics (linear algebra, calculus, probability, LLM stuff). I see! These aren't completely different paths, but while preparing for the 12th board exam, it's hard to manage my time. So, any of you guys help me on my learning journey.
 
-3h ago
-
----
-
-**[Framework for Soft Robotics via 3D Printable Artificial Muscles](https://www.reddit.com/r/robotics/comments/1qqrzkz/framework_for_soft_robotics_via_3d_printable/)**
-
-The overall goal is to lower the barrier to entry for soft robotics and provide an alternative approach to building robotic systems. One way to achieve this is by using widely available tools such as FDM 3D printers. The concept centers on a 3D‑printable film used to create inflatable bags. These bags can be stacked to form pneumatic, bellows‑style linear artificial muscles. A tendon‑driven actuator is then assembled around these muscles to create functional motion. The next phase focuses on integration. A 3D‑printed sleeve guides each modular muscle during inflation, and different types of skeletons—human, dog, or frog—can be printed while reusing the same muscle modules across all designs. You can see the experiments with the bags here: https://www.youtube.com/playlist?list=PLF9nRnkMqNpZ-wNNfvy_dFkjDP2D5Q4OO I am looking for groups, labs, researchers, and students working in soft robotics who could provide comments and general feedback on this approach, as well as guidance on developing a complete framework (including workflows, designs, and simulations).
-
-17h ago
-
----
-
-**[Path planning for AGV using A* (no obstacles yet) – how to model inputs & grid values?](https://www.reddit.com/r/robotics/comments/1qr6m76/path_planning_for_agv_using_a_no_obstacles_yet/)**
-
-Hi everyone 👋 I’m working on a small AGV robot and I’m currently stuck at the software side of path planning. I’d really appreciate some guidance or best practices from people who’ve done this before. My current setup AGV size: 250 × 250 mm Workspace: small indoor environment Overhead camera (fixed) AprilTags / ArUco tags placed on the floor Tag spacing: 0.5 meter Current grid: 7 × 6 = 42 tags Robot is detected using the center tag under the robot Goal (Stage 1 – very basic) For now, I don’t want to include obstacles. I want: User gives a start node and end node Robot computes the shortest path Robot follows that path physically I’ve decided to use the A* algorithm, but I’m confused about the input representation and data structure. Where I’m stuck How should I represent the environment? 2D grid array? Graph with nodes and edges? Tag IDs mapped to coordinates? How should I store values for A\* in this simple case? What should be the node value? How to define neighbors (up/down/left/right)? How to map real-world distances (0.5 m spacing) to cost? Is it better to: Use grid indices (row, col) and map them later to real coordinates? Or directly use real-world (x, y) coordinates? What I plan to add later Obstacles Dynamic path updates Possibly ROS integration But for now, I want to get the fundamentals right. If anyone has: Simple examples Pseudocode Suggestions on data structures Or advice on how you approached this in your own AGV projects I’d really appreciate it 🙏 Thanks in advance!
-
-5h ago
+4h ago
 
 ---
 
@@ -96,15 +88,23 @@ Hi everyone 👋 I’m working on a small AGV robot and I’m currently stuck at
 
 Figure AI has released the final data from their 11-month deployment at BMW's Spartanburg plant. The 'Figure 02' humanoid robots worked 10-hour shifts, Monday to Friday, contributing to the production of over 30,000 BMW X3s. They loaded 90,000+ sheet metal parts with a <5mm tolerance, logging over 200 miles of walking. With Figure 02 now retiring, these lessons are being rolled into the new Figure 03.
 
-🔗 [FigureAI](https://www.figure.ai/news/production-at-bmw) • 10h ago
+🔗 [FigureAI](https://www.figure.ai/news/production-at-bmw) • 11h ago
 
 ---
 
-**[Any one who has made robotic s arm 101](https://www.reddit.com/r/robotics/comments/1qrbm0y/any_one_who_has_made_robotic_s_arm_101/)**
+**[Framework for Soft Robotics via 3D Printable Artificial Muscles](https://www.reddit.com/r/robotics/comments/1qqrzkz/framework_for_soft_robotics_via_3d_printable/)**
 
-Pls dm me kkkkkkkmmmmmmmmkkmmmmkmmmmmmmmmmmmmmmmmkmkkkdkdjfjdjdjdhdhrhdhdhdhdhdhdhdhdhdhdhmrntjfhfjfhfhfhdjdhfhdhdhdhdkekdkdkdjdjdjdjdjejejejrjrjrjrjejejejekekekekdkdkkrkrjrjrjrjejejdjdjdjdjdjdjdjdjdjdjdjejejejejejejejejenensjejdjsjdj
+The overall goal is to lower the barrier to entry for soft robotics and provide an alternative approach to building robotic systems. One way to achieve this is by using widely available tools such as FDM 3D printers. The concept centers on a 3D‑printable film used to create inflatable bags. These bags can be stacked to form pneumatic, bellows‑style linear artificial muscles. A tendon‑driven actuator is then assembled around these muscles to create functional motion. The next phase focuses on integration. A 3D‑printed sleeve guides each modular muscle during inflation, and different types of skeletons—human, dog, or frog—can be printed while reusing the same muscle modules across all designs. You can see the experiments with the bags here: https://www.youtube.com/playlist?list=PLF9nRnkMqNpZ-wNNfvy_dFkjDP2D5Q4OO I am looking for groups, labs, researchers, and students working in soft robotics who could provide comments and general feedback on this approach, as well as guidance on developing a complete framework (including workflows, designs, and simulations).
 
-2h ago
+18h ago
+
+---
+
+**[Path planning for AGV using A* (no obstacles yet) – how to model inputs & grid values?](https://www.reddit.com/r/robotics/comments/1qr6m76/path_planning_for_agv_using_a_no_obstacles_yet/)**
+
+Hi everyone 👋 I’m working on a small AGV robot and I’m currently stuck at the software side of path planning. I’d really appreciate some guidance or best practices from people who’ve done this before. My current setup AGV size: 250 × 250 mm Workspace: small indoor environment Overhead camera (fixed) AprilTags / ArUco tags placed on the floor Tag spacing: 0.5 meter Current grid: 7 × 6 = 42 tags Robot is detected using the center tag under the robot Goal (Stage 1 – very basic) For now, I don’t want to include obstacles. I want: User gives a start node and end node Robot computes the shortest path Robot follows that path physically I’ve decided to use the A* algorithm, but I’m confused about the input representation and data structure. Where I’m stuck How should I represent the environment? 2D grid array? Graph with nodes and edges? Tag IDs mapped to coordinates? How should I store values for A\* in this simple case? What should be the node value? How to define neighbors (up/down/left/right)? How to map real-world distances (0.5 m spacing) to cost? Is it better to: Use grid indices (row, col) and map them later to real coordinates? Or directly use real-world (x, y) coordinates? What I plan to add later Obstacles Dynamic path updates Possibly ROS integration But for now, I want to get the fundamentals right. If anyone has: Simple examples Pseudocode Suggestions on data structures Or advice on how you approached this in your own AGV projects I’d really appreciate it 🙏 Thanks in advance!
+
+6h ago
 
 ---
 
@@ -120,12 +120,6 @@ Financial Times • 1d ago
 
 ---
 
-**[Tesla to build 1 million Optimus robots per year at Fremont factory, Musk says](https://www.kron4.com/news/technology-ai/tesla-to-build-1-million-optimus-robots-per-year-at-fremont-factory-musk-says/)**
-
-KRON4 • 23h ago
-
----
-
 **[Tesla discontinues Model X and S vehicles as Elon Musk pivots to robotics](https://www.theguardian.com/technology/2026/jan/28/tesla-q4-earnings-estimates-elon-musk)**
 
 Musk’s optimism for Optimus robot demand help EV maker beat quarterly expectations despite first-ever yearly revenue decline
@@ -134,27 +128,19 @@ The Guardian • 1d ago
 
 ---
 
+**[Tesla doubles spending with $20B AI and robotics push](https://finance.yahoo.com/news/tesla-doubles-spending-20b-ai-161254007.html)**
+
+Record investment marks a shift away from traditional EVs toward automation.
+
+Yahoo Finance • 1d ago
+
+---
+
 **[Watch China’s humanoid robots walk out of crates like Matrix scene](https://interestingengineering.com/ai-robotics/limx-humanoid-robots-walk-out-of-crates)**
 
 LimX Dynamics showcased what it calls the world’s first practical autonomous deployment of humanoid robots, with 18 units operating without human control.
 
 Interesting Engineering • 3d ago
-
----
-
-**[New York Robotics launches with 160 startups in its ecosystem](https://www.therobotreport.com/new-york-robotics-launches-160-startups-ecosystem/)**
-
-New York Robotics is launching with over 80 industry partners, 20 academic partners, 40 robotics labs, and over 300 venture capital partners.
-
-The Robot Report • 4h ago
-
----
-
-**[Into the Omniverse: Physical AI Open Models and Frameworks Advance Robots and Autonomous Systems](https://blogs.nvidia.com/blog/physical-ai-open-models-robot-autonomous-systems-omniverse/)**
-
-By providing access to critical infrastructure — from simulation frameworks to AI models — NVIDIA is enabling collaborative development that accelerates the path to safer, more capable autonomous systems.
-
-NVIDIA Blog • 1d ago
 
 ---
 
@@ -178,11 +164,25 @@ Ondas Holdings • 2d ago
 
 ---
 
+**[Tesla axes EV models in drive for robotics revenue](https://news.sky.com/story/tesla-axes-ev-models-in-drive-for-robotics-revenue-13500444)**
+
+Investors liked what they heard about the future following the company's latest results, but Elon Musk is under huge pressure to deliver on his vision as a series of targets have been missed.
+
+Sky News • 1d ago
+
+---
+
 **[Not ready for robots in homes? The maker of a friendly new humanoid thinks it might change your mind](https://abcnews.go.com/Technology/wireStory/ready-robots-homes-maker-friendly-new-humanoid-thinks-129594260)**
 
 A new humanoid robot named Sprout, developed by Fauna Robotics, is making its debut
 
 ABC News • 3d ago
+
+---
+
+**[Synthetic 'muscle' with microfluidic blood vessels shows promise for soft robotics](https://techxplore.com/news/2026-01-synthetic-muscle-microfluidic-blood-vessels.html)**
+
+Tech Xplore • 3d ago
 
 ---
 
@@ -196,7 +196,7 @@ China is deploying AI-powered robots to manage traffic and pedestrian flow in ci
 
 📺 NBC News
 
-👁️ 89K • 👍 1K • 💬 575 • ⏱️ 3:13 • 16h ago
+👁️ 89K • 👍 1K • 💬 575 • ⏱️ 3:13 • 17h ago
 
 ---
 
@@ -246,7 +246,7 @@ This new humanoid robot is not about hype or flashy promises. Sprout is designed
 
 📺 DPCcars
 
-👁️ 4K • 👍 82 • 💬 18 • ⏱️ 3:17 • 1d ago
+👁️ 4K • 👍 82 • 💬 18 • ⏱️ 3:17 • 2d ago
 
 ---
 

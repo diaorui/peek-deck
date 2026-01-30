@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-01-30T19:32:59.782515+00:00'
+updated: '2026-01-30T20:32:47.469440+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- videos
-- news
-- social
 - cryptocurrency
+- videos
+- social
+- news
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** January 30, 2026 at 19:32 UTC  
+**Last Updated:** January 30, 2026 at 20:32 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,17 +38,17 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $82,407.79
+### $83,722.70
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** -1.5%  
-**7d:** -7.4%  
-**30d:** -6.9%  
-**90d:** -25.3%  
-**1y:** -19.3%  
+**24h:** -0.7%  
+**7d:** -6.0%  
+**30d:** -5.6%  
+**90d:** -24.2%  
+**1y:** -18.1%  
 
 ---
 
@@ -77,9 +77,17 @@ Rank #1
 
 ## Reddit: r/Bitcoin
 
+**[Once again...](https://www.reddit.com/r/Bitcoin/comments/1qr5rn7/once_again/)**
+
+I wish I had more liquidity!
+
+6h ago
+
+---
+
 **[Bitcoin president bt the way 😅](https://www.reddit.com/r/Bitcoin/comments/1qr34fh/bitcoin_president_bt_the_way/)**
 
-7h ago
+8h ago
 
 ---
 
@@ -87,25 +95,23 @@ Rank #1
 
 The deal will be too good to pass at that point.
 
-3h ago
+4h ago
 
 ---
 
 **[Pack yo bags — bullish for BTC. Who's locking in with me ?](https://www.reddit.com/r/Bitcoin/comments/1qr6uah/pack_yo_bags_bullish_for_btc_whos_locking_in_with/)**
 
-5h ago
-
----
-
-**[Once again...](https://www.reddit.com/r/Bitcoin/comments/1qr5rn7/once_again/)**
-
-I wish I had more liquidity!
-
-5h ago
+6h ago
 
 ---
 
 **[Soo, who all is buying?](https://www.reddit.com/r/Bitcoin/comments/1qr6njb/soo_who_all_is_buying/)**
+
+6h ago
+
+---
+
+**[Kevin Warsh's view on Bitcoin:](https://www.reddit.com/r/Bitcoin/comments/1qr7vmx/kevin_warshs_view_on_bitcoin/)**
 
 5h ago
 
@@ -113,7 +119,7 @@ I wish I had more liquidity!
 
 **[Here we goooo](https://www.reddit.com/r/Bitcoin/comments/1qqkg06/here_we_goooo/)**
 
-22h ago
+23h ago
 
 ---
 
@@ -121,25 +127,19 @@ I wish I had more liquidity!
 
 Red candles everywhere, BTC dipping hard. Paper hands sweating. Headlines screaming crash. But zoom out: - Halving effects still unfolding - Adoption & institutions not going anywhere This is classic Bitcoin - shakeout before the next leg up. If you believe in it, this dip is your discount window. Stack calmly while others panic. Cheers!
 
-16h ago
+17h ago
 
 ---
 
 **[Never forget, lettuce hands!](https://www.reddit.com/r/Bitcoin/comments/1qr07nl/never_forget_lettuce_hands/)**
 
-10h ago
-
----
-
-**[Kevin Warsh's view on Bitcoin:](https://www.reddit.com/r/Bitcoin/comments/1qr7vmx/kevin_warshs_view_on_bitcoin/)**
-
-4h ago
+11h ago
 
 ---
 
 **[Sure Grandma](https://www.reddit.com/r/Bitcoin/comments/1qr0xd6/sure_grandma/)**
 
-9h ago
+10h ago
 
 ---
 
@@ -151,51 +151,45 @@ Red candles everywhere, BTC dipping hard. Paper hands sweating. Headlines scream
 
 Warsh has praised bitcoin as a tool to guide policy, not as a competitor to the dollar.
 
-Yahoo Finance • 4h ago
+Yahoo Finance • 5h ago
 
 ---
 
-**[Bitcoin slips as Fed chair speculation hits risky assets](https://www.reuters.com/business/bitcoin-slips-fed-chair-speculation-hits-risky-assets-2026-01-30/)**
+**[Kevin Warsh: Markets React as Pro-Bitcoin Economist Tipped for Fed](https://finance.yahoo.com/news/kevin-warsh-markets-react-pro-122358756.html)**
 
-Reuters • 14h ago
+Only yesterday, we explained how Donald Trump runs his White House like a reality TV competition. Nominees for high office are turned into contestants vying for his approval, and the frontrunner could switch at any minute.Lo and behold, that’s exactly what’s happened in the race to become the next chairman ...
 
----
-
-**[As bitcoin falls toward $80K, here’s why Fed Chair Warsh may not be enough to revive the crypto](https://www.marketwatch.com/story/as-bitcoin-falls-toward-80k-heres-why-fed-chair-warsh-may-not-be-enough-to-revive-the-crypto-6fecb755?gaa_at=eafs&gaa_n=AWEtsqc4YjSFudo_0K0I2ekudYX1phgisbDTsZXgelo91yfLCPRylwxeytmo&gaa_ts=697cff5e&gaa_sig=UcVRtzaX1Itr9sid34R4DiDGKbBT7qyloRlHZhyAB_ca6_SupI95ee9iQPUYPWsou4xsuO84KmLQHmuRNfVxLg%3D%3D)**
-
-MarketWatch • 2h ago
+Yahoo Finance • 8h ago
 
 ---
 
-**[Bitcoin slides below $83K as Wall Street pulls over $1B from crypto ETFs after Fed pause](https://www.theblock.co/post/387811/bitcoin-slides-below-83k-as-wall-street-pulls-over-1b-from-crypto-etfs-after-fed-pause)**
+**[Bitcoin Slumps to Two-Month Low as US Funds Shed Billions](https://www.bloomberg.com/news/articles/2026-01-30/bitcoin-btc-slumps-to-two-month-low-as-us-funds-shed-billions)**
 
-Analysts point to tight liquidity and a broad risk pullback as BTC fell toward $81,000 and U.S. crypto ETFs saw over $1 billion in outflows.
-
-The Block • 8h ago
+Bloomberg.com • 4h ago
 
 ---
 
-**[BTCI’s Moment Is Over: Why This Bitcoin Income Star Just Lost Its Edge (BATS:BTCI)](https://seekingalpha.com/article/4864360-btcis-moment-is-over-why-this-bitcoin-income-star-just-lost-its-edge)**
+**[Metaplanet Capital Raise Deepens Bitcoin Treasury Focus And US Expansion](https://finance.yahoo.com/news/metaplanet-capital-raise-deepens-bitcoin-191328388.html)**
 
-BTCI ETF downgraded to Hold after Bitcoin correction.
+Metaplanet (TSE:3350) has approved a large capital raise via new shares and stock acquisition rights to fund Bitcoin purchases and reduce debt. Through this move, the company is extending its Bitcoin-focused treasury approach while also moving to strengthen its balance sheet. Metaplanet has expanded in the US through Metaplanet Income Corp and reinforced its domestic footprint by acquiring Bitcoin.jp. A new partnership with Norges Bank Investment Management points to a broader global push...
 
-Seeking Alpha • 2h ago
-
----
-
-**[Bitcoin ETFs Bleed $817M as BTC Crashes to 9-Month Low – Is the Worst Over?](https://finance.yahoo.com/news/bitcoin-etfs-bleed-817m-btc-172551410.html)**
-
-Bitcoin spot exchange-traded funds (ETFs) experienced one of the biggest one-day reversals of the year on January 29, as investors pulled out nearly $818 million from U.S.-based products as the Bitcoin price dropped to its lowest spot in nine months.Sosovalue data shows that spot Bitcoin ETFs recorded net daily outflows ...
-
-Yahoo Finance • 2h ago
+Yahoo Finance • 1h ago
 
 ---
 
-**[Bitcoin Slump Cuts Millions From Winklevoss Super-PAC Donation](https://www.bloomberg.com/news/articles/2026-01-30/bitcoin-slump-cuts-millions-from-winklevoss-super-pac-donation)**
+**[Bitcoin’s freefall approaches $80,000 as precious metals also tank](https://fortune.com/2026/01/30/bitcoin-price-today-ethereum-gold-silver-platinum-copper/)**
 
-The political fundraising group launched by crypto-billionaire brothers Cameron and Tyler Winklevoss raised more than $22 million in the last five months of 2025, but might not get as much bang for its Bitcoin.
+The world’s largest cryptocurrency is down 2% over the past day while gold and silver have dropped 11% and 30%, respectively.
 
-Bloomberg.com • 2h ago
+Fortune • 1h ago
+
+---
+
+**[The gold and silver bubbles may have popped; what it means for bitcoin (BTC)](https://www.coindesk.com/markets/2026/01/30/precious-metals-crash-with-silver-plunging-32-gold-11-bitcoin-slips-back-to-usd82-000)**
+
+Crypto bulls who have theorized that bitcoin can't begin rising until money flows out of red-hot precious metals are about to find out if they were correct.
+
+CoinDesk • 1h ago
 
 ---
 
@@ -203,23 +197,29 @@ Bloomberg.com • 2h ago
 
 It's reasonable to say that this coin isn't behaving like a safe harbor asset right now.
 
-The Motley Fool • 7h ago
+The Motley Fool • 8h ago
 
 ---
 
-**[Bitcoin price plunge: Why are crypto prices dropping this time?](https://mashable.com/article/bitcoin-price-plunge-crypto-falls-jan-29)**
+**[Bitcoin Slumps Below $84,000. It’s Not Acting Like a Haven.](https://www.barrons.com/articles/bitcoin-price-xrp-ether-cryptos-selloff-630f4d22?gaa_at=eafs&gaa_n=AWEtsqdGRCAPMd94TC7Ozl5e7TxcT5qKf4lDhTd-2PIZgG7muhpxRictt9X3&gaa_ts=697d18d6&gaa_sig=wFPso9sHvIS-q5PhQ6C0g3zpT_sHM9Du0r08Gu1o2ORFAvG_JFHHwjSThb3QZWATzdOjAO09KrXjBgQ8ZxI3dA%3D%3D)**
 
-How low can Bitcoin go?
-
-Mashable • 1d ago
+Barron's • 1d ago
 
 ---
 
-**[Binance to shift $1 billion user protection fund into bitcoin amid market rout](https://www.coindesk.com/markets/2026/01/30/binance-is-shifting-its-user-security-fund-from-stablecoins-to-bitcoin)**
+**[Bitcoin price today: tumbles to $83k as heavy liquidations, Fed uncertainty weigh](https://www.investing.com/news/cryptocurrency-news/bitcoin-price-today-slumps-to-83k-as-heavy-liquidations-fed-uncertainty-weigh-4475157)**
 
-Binance will convert the stablecoin holdings in its $1 billion Secure Asset Fund for Users to bitcoin over the next 30 days, with plans for regular audits.
+Bitcoin price today: tumbles to $83k as heavy liquidations, Fed uncertainty weigh
 
-CoinDesk • 3h ago
+Investing.com • 5h ago
+
+---
+
+**[Why Bitcoin’s Pullback May Be Setting Up A Rotation From Gold](https://www.forbes.com/sites/aliceliu/2026/01/29/why-bitcoins-pullback-may-be-setting-up-a-rotation-from-gold/)**
+
+Is Bitcoin near a bottom while gold peaks? Explore crypto liquidations, market cycles, and why investors are eyeing a BTC-long, gold-short rotation
+
+Forbes • 1d ago
 
 ---
 
@@ -245,7 +245,7 @@ A list of known attacks against Bitcoin / crypto asset owning entities that occu
 
 **[Bitcoin's Quantum Computing Threat](https://news.ycombinator.com/item?id=46824834)**
 
-⬆️ 1 • 💬 0 • 5h ago • [bmpro.substack.com](https://bmpro.substack.com/p/bitcoins-quantum-computing-threat)
+⬆️ 1 • 💬 0 • 6h ago • [bmpro.substack.com](https://bmpro.substack.com/p/bitcoins-quantum-computing-threat)
 
 ---
 
@@ -253,7 +253,7 @@ A list of known attacks against Bitcoin / crypto asset owning entities that occu
 
 Examine why the Binance SAFU fund debate keeps resurfacing, how stablecoins signal safety, and why Bitcoin continues to dominate trust conversations.
 
-⬆️ 1 • 💬 0 • 10h ago • [Altcoin Desk](https://altcoindesk.com/perspectives/1b-binance-safu-fund-if-stablecoins-mean-safety-why-do-bitcoin-returns/article-22752/)
+⬆️ 1 • 💬 0 • 11h ago • [Altcoin Desk](https://altcoindesk.com/perspectives/1b-binance-safu-fund-if-stablecoins-mean-safety-why-do-bitcoin-returns/article-22752/)
 
 ---
 
@@ -261,7 +261,7 @@ Examine why the Binance SAFU fund debate keeps resurfacing, how stablecoins sign
 
 Bitcoin plunged to a two-month low Thursday as risk-on assets broadly fell—and even gold and silver gave up earlier gains.
 
-⬆️ 1 • 💬 0 • 21h ago • [Decrypt](https://decrypt.co/356330/bitcoin-2-month-low-gold-stocks-give-up-gains-crypto-liquidations-800m)
+⬆️ 1 • 💬 0 • 22h ago • [Decrypt](https://decrypt.co/356330/bitcoin-2-month-low-gold-stocks-give-up-gains-crypto-liquidations-800m)
 
 ---
 
@@ -291,7 +291,7 @@ Transform HN comment threads into executive intelligence. AI analyzes discussion
 
 20 years of Hacker News analyzed. 40M comments. 10,000 topics. What the tech community really thinks.
 
-⬆️ 3 • 💬 0 • 3h ago • [HN Zeitgeist](https://hn.mrzepa.com/)
+⬆️ 3 • 💬 0 • 4h ago • [HN Zeitgeist](https://hn.mrzepa.com/)
 
 ---
 
@@ -311,7 +311,7 @@ Check out ClashPicks: https://www.clashpicks.com/ **Exchange Partners** Bitunix 
 
 📺 CryptosRUs
 
-👁️ 48K • 👍 2K • 💬 561 • ⏱️ 8:41 • 17h ago
+👁️ 48K • 👍 2K • 💬 561 • ⏱️ 8:41 • 18h ago
 
 ---
 
@@ -321,7 +321,7 @@ LIMITED TIME: ✓ Bitunix (no kyc, $700 bonus): https://www.bitunix.com/register
 
 📺 Altcoin Daily
 
-👁️ 62K • 👍 2K • 💬 247 • ⏱️ 8:26 • 19h ago
+👁️ 62K • 👍 2K • 💬 247 • ⏱️ 8:26 • 20h ago
 
 ---
 
@@ -331,7 +331,7 @@ Central banks are selling Treasuries and hoarding gold at record levels as trust
 
 📺 Swan Bitcoin
 
-👁️ 9K • 👍 677 • 💬 187 • ⏱️ 14:55 • 5h ago
+👁️ 9K • 👍 677 • 💬 187 • ⏱️ 14:55 • 6h ago
 
 ---
 
@@ -341,7 +341,7 @@ Gold and silver just experienced historic volatility while Bitcoin feels strange
 
 📺 Swan Bitcoin
 
-👁️ 87K • 👍 3K • 💬 421 • ⏱️ 15:38 • 20h ago
+👁️ 87K • 👍 3K • 💬 421 • ⏱️ 15:38 • 21h ago
 
 ---
 
@@ -351,7 +351,7 @@ Donald Trump chooses Kevin Warsh as his pick for the Federal Reserve Chair. The 
 
 📺 Digital Asset News
 
-👁️ 3K • 👍 358 • 💬 42 • ⏱️ 21:17 • 3h ago
+👁️ 3K • 👍 358 • 💬 42 • ⏱️ 21:17 • 4h ago
 
 ---
 
@@ -361,7 +361,7 @@ Check out ClashPicks: https://www.clashpicks.com/ **Exchange Partners** Bitunix 
 
 📺 CryptosRUs
 
-👁️ 11K • 👍 859 • 💬 183 • ⏱️ 10:16 • 4h ago
+👁️ 11K • 👍 859 • 💬 183 • ⏱️ 10:16 • 5h ago
 
 ---
 
@@ -371,7 +371,7 @@ It's a terrifying time to be in the markets, especially with Bitcoin so close $8
 
 📺 Crypto Banter
 
-👁️ 11K • 👍 848 • 💬 37 • ⏱️ 36:59 • 7h ago
+👁️ 11K • 👍 848 • 💬 37 • ⏱️ 36:59 • 8h ago
 
 ---
 
@@ -381,7 +381,7 @@ TOOBIT — CLAIM $50 & 20% SIGN UP BONUS ON YOUR DEPOSIT Limited spots available
 
 📺 100XClub
 
-👁️ 9K • 👍 1K • 💬 247 • ⏱️ 7:50 • 9h ago
+👁️ 9K • 👍 1K • 💬 247 • ⏱️ 7:50 • 10h ago
 
 ---
 
@@ -401,7 +401,7 @@ Markets are breaking while Bitcoin sits quietly in the corner. Powell held rates
 
 📺 Simply Bitcoin
 
-👁️ 31K • 👍 3K • 💬 339 • ⏱️ 18:55 • 19h ago
+👁️ 31K • 👍 3K • 💬 339 • ⏱️ 18:55 • 20h ago
 
 ---
 
