@@ -3,14 +3,14 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-01-30T05:32:07.362911+00:00'
+updated: '2026-01-30T06:52:13.691454+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- social
-- videos
 - news
+- videos
+- social
 - cryptocurrency
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** January 30, 2026 at 05:32 UTC  
+**Last Updated:** January 30, 2026 at 06:52 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,33 +38,33 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $82,952.97
+### $82,608.20
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** -5.7%  
-**7d:** -6.7%  
-**30d:** -6.3%  
-**90d:** -24.7%  
-**1y:** -18.7%  
+**24h:** -6.7%  
+**7d:** -7.7%  
+**30d:** -7.3%  
+**90d:** -25.5%  
+**1y:** -19.5%  
 
 ---
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1652.85B
+**Market Cap:** $1639.43B
 Rank #1
 
-**Circulating Supply:** 19,982,143 BTC
+**Circulating Supply:** 19,982,181 BTC
 95.2% of max
 
 **All-Time High:** $126,080.00
--34.2%
+-34.8%
 
 **All-Time Low:** $67.81
-+122255.1%
++121125.5%
 
 ---
 
@@ -79,7 +79,7 @@ Rank #1
 
 **[Here we goooo](https://www.reddit.com/r/Bitcoin/comments/1qqkg06/here_we_goooo/)**
 
-8h ago
+10h ago
 
 ---
 
@@ -87,27 +87,13 @@ Rank #1
 
 Red candles everywhere, BTC dipping hard. Paper hands sweating. Headlines screaming crash. But zoom out: - Halving effects still unfolding - Adoption & institutions not going anywhere This is classic Bitcoin - shakeout before the next leg up. If you believe in it, this dip is your discount window. Stack calmly while others panic. Cheers!
 
-2h ago
+4h ago
 
 ---
 
 **[I don't always buy the Bitcoin dip...](https://www.reddit.com/r/Bitcoin/comments/1qqngoq/i_dont_always_buy_the_bitcoin_dip/)**
 
-6h ago
-
----
-
-**[short of words.](https://www.reddit.com/r/Bitcoin/comments/1qqn3ea/short_of_words/)**
-
-7h ago
-
----
-
-**[I used to HODL 10 BTC](https://www.reddit.com/r/Bitcoin/comments/1qqhfad/i_used_to_hodl_10_btc/)**
-
-I wasn’t smart enough to hold onto them :(
-
-10h ago
+8h ago
 
 ---
 
@@ -115,7 +101,13 @@ I wasn’t smart enough to hold onto them :(
 
 Anybody excited af now! Really hoping bitcoin crashes so my DCA can buy more BTC and so I can keep stacking. Legit question: If u have strong conviction on bitcoin for 10+ years or longer horizon why cry when it goes down?
 
-3h ago
+5h ago
+
+---
+
+**[short of words.](https://www.reddit.com/r/Bitcoin/comments/1qqn3ea/short_of_words/)**
+
+8h ago
 
 ---
 
@@ -123,7 +115,15 @@ Anybody excited af now! Really hoping bitcoin crashes so my DCA can buy more BTC
 
 15 years in Bitcoin—bought my first at $7. I've survived every major crash, always fearing 'this time it's over.' I always thought it was an existential event - every single time. Bitcoin proved resilient every single time. This dip is nothing.
 
-2h ago
+3h ago
+
+---
+
+**[I used to HODL 10 BTC](https://www.reddit.com/r/Bitcoin/comments/1qqhfad/i_used_to_hodl_10_btc/)**
+
+I wasn’t smart enough to hold onto them :(
+
+11h ago
 
 ---
 
@@ -131,19 +131,19 @@ Anybody excited af now! Really hoping bitcoin crashes so my DCA can buy more BTC
 
 Gets punched to 35k
 
-10h ago
+11h ago
 
 ---
 
 **[Do you see the selloff?](https://www.reddit.com/r/Bitcoin/comments/1qqff0n/do_you_see_the_selloff/)**
 
-11h ago
+13h ago
 
 ---
 
 **[Message to true Bitcoiners](https://www.reddit.com/r/Bitcoin/comments/1qqucmg/message_to_true_bitcoiners/)**
 
-1h ago
+3h ago
 
 ---
 
@@ -151,41 +151,55 @@ Gets punched to 35k
 
 ## Google News: "bitcoin"
 
-**[Bitcoin price outlook: $70,000 could be in play for BTC, say analysts](https://www.coindesk.com/markets/2026/01/29/crypto-hit-hardest-in-market-selloff-with-analysts-seeing-bitcoin-in-deeper-pullback-to-usd70-000)**
+**[Bitcoin Slumps to Two-Month Low as US Funds Shed Billions](https://www.bloomberg.com/news/articles/2026-01-30/bitcoin-btc-slumps-to-two-month-low-as-us-funds-shed-billions)**
 
-Despite hopes for a macro hedge, bitcoin continues to trade like the riskiest of risk assets in turmoil.
-
-CoinDesk • 7h ago
+Bloomberg.com • 2h ago
 
 ---
 
 **[Bitcoin slips as Fed chair speculation hits risky assets](https://www.reuters.com/business/bitcoin-slips-fed-chair-speculation-hits-risky-assets-2026-01-30/)**
 
-Reuters • 22m ago
+Reuters • 1h ago
 
 ---
 
-**[Strategy Stock ($MSTR) Hits 52-Week Low As Bitcoin Craters Below $84,000](https://bitcoinmagazine.com/markets/strategy-stock-mstr-hits-52-week-low)**
+**[Here's why Fed contender Kevin Warsh is seen as bearish for bitcoin](https://www.coindesk.com/markets/2026/01/30/here-s-why-fed-contender-kevin-warsh-is-seen-as-bearish-for-bitcoin)**
 
-Shares of Strategy ($MSTR) dropped as low as 12% today, currently trading at $140.88 and hitting a session low of $140.25.
+BTC fell deeper to nearly $81,000 late Thursday as Warsh's odds surged in betting markets.
 
-Bitcoin Magazine • 10h ago
-
----
-
-**[Strategy Bitcoin Bet Deepens As Equity Sales And Insider Moves Diverge](https://finance.yahoo.com/news/strategy-bitcoin-bet-deepens-equity-201113679.html)**
-
-Strategy Inc. (NasdaqGS:MSTR) is continuing to issue new equity and preferred stock to buy additional Bitcoin, expanding its corporate holdings of the cryptocurrency. Regulatory filings show insiders selling shares during recent market weakness, raising questions about management sentiment. The company’s approach is drawing attention as its share price trades at $161.58 and investors weigh dilution risks against its Bitcoin accumulation focus. For you as a shareholder or potential investor,...
-
-Yahoo Finance • 1d ago
+CoinDesk • 1h ago
 
 ---
 
-**[Strategy, BitMine Stock Prices Dive as Bitcoin and Ethereum Sink](https://decrypt.co/356357/strategy-bitmine-stock-prices-dive-bitcoin-ethereum-sink)**
+**[Bitcoin price sinks as Kevin Warsh Fed Chair odds surge on Kalshi, Polymarket](https://www.tradingview.com/news/invezz:8ede4c8bb094b:0-bitcoin-price-sinks-as-kevin-warsh-fed-chair-odds-surge-on-kalshi-polymarket/)**
 
-BitMine and Strategy stocks both plunged nearly 10% amid broader market uncertainty as a possible U.S. government shutdown looms.
+Bitcoin price and the crypto market sank on Friday morning after Donald Trump announced that he will deliver his Federal Reserve pick later today, with traders on Polymarket betting on Kevin Warsh.Kevin Warsh odds are soaringTraders on Polymarket and Kalshi are betting that Donald Trump will nomina…
 
-Decrypt • 6h ago
+TradingView • 2h ago
+
+---
+
+**[Bitcoin price outlook: $70,000 could be in play for BTC, say analysts](https://www.coindesk.com/markets/2026/01/29/crypto-hit-hardest-in-market-selloff-with-analysts-seeing-bitcoin-in-deeper-pullback-to-usd70-000)**
+
+Despite hopes for a macro hedge, bitcoin continues to trade like the riskiest of risk assets in turmoil.
+
+CoinDesk • 8h ago
+
+---
+
+**[Anthropic Funding Fuels IREN Shift From Bitcoin Mining To AI Centers](https://sg.finance.yahoo.com/news/anthropic-funding-fuels-iren-shift-061337040.html)**
+
+Anthropic has raised a record $20b, reinforcing investor focus on AI infrastructure providers. NasdaqGS:IREN is expanding its role in high-performance computing and AI data centers, supported by a long term partnership with Microsoft. Recent industry moves are accelerating the shift for IREN and peers from bitcoin mining toward AI focused infrastructure services. NasdaqGS:IREN is drawing fresh attention as investors look beyond its roots in bitcoin mining to its AI data center business. The...
+
+Yahoo Finance Singapore • 39m ago
+
+---
+
+**[Bitcoin Plunge Could Get Much Worse as Death Cross Gains Power](https://decrypt.co/356391/bitcoin-plunge-could-get-much-worse-death-cross-gains-power)**
+
+Bitcoin's technical setup is turning ugly, as the charts suggest bulls might want to buckle up for more pain ahead.
+
+Decrypt • 9h ago
 
 ---
 
@@ -193,7 +207,15 @@ Decrypt • 6h ago
 
 The government seems to be amassing more Bitcoin. But little work seems to be happening to enact the terms of the executive order Trump signed to start the 'strategic reserve.'
 
-Fast Company • 19h ago
+Fast Company • 20h ago
+
+---
+
+**[Is Bitcoin a Buy Right Now?](https://www.fool.com/investing/2026/01/28/is-bitcoin-a-buy-right-now/)**
+
+Bitcoin is the world's largest cryptocurrency by market cap.
+
+The Motley Fool • 1d ago
 
 ---
 
@@ -202,28 +224,6 @@ Fast Company • 19h ago
 Since 2022, Grand Forks residents have lost $466,803 to bitcoin cryptocurrency, according to GFPD Det. Todd Riedinger. The scams are difficult to trace and lost money usually can't be recovered.
 
 grandforksherald.com • 1d ago
-
----
-
-**[Coinbase's Chart Flashes Death Cross As Bitcoin Falls Amid Crypto Winter Fears](https://www.investors.com/research/coinbase-coin-stock-bitcoin-january-2026/)**
-
-Investor's Business Daily • 2d ago
-
----
-
-**[Fear that quantum computing is on the cusp of cracking cryptocurrency's encryption spurs a global investment firm to remove Bitcoin from recommendations](https://www.tomshardware.com/tech-industry/cryptocurrency/fear-that-quantum-computing-on-the-cusp-of-cracking-cryptocurrencys-encryption-spurs-a-global-investment-firm-to-remove-bitcoin-from-recommendations)**
-
-The firm's senior financial strategist is concerned the advancements in the field of quantum computing will break Bitcoin.
-
-Tom's Hardware • 11d ago
-
----
-
-**[What price will Bitcoin hit in January? Betting Odds & Predictions](https://polymarket.com/event/what-price-will-bitcoin-hit-in-january-2026)**
-
-View real-time odds on "What price will Bitcoin hit in January?" as of January 30, 2026, and trade on The World's Largest Prediction Market™
-
-Polymarket • 28d ago
 
 ---
 
@@ -251,13 +251,13 @@ A list of known attacks against Bitcoin / crypto asset owning entities that occu
 
 Bitcoin plunged to a two-month low Thursday as risk-on assets broadly fell—and even gold and silver gave up earlier gains.
 
-⬆️ 1 • 💬 0 • 7h ago • [Decrypt](https://decrypt.co/356330/bitcoin-2-month-low-gold-stocks-give-up-gains-crypto-liquidations-800m)
+⬆️ 1 • 💬 0 • 9h ago • [Decrypt](https://decrypt.co/356330/bitcoin-2-month-low-gold-stocks-give-up-gains-crypto-liquidations-800m)
 
 ---
 
 **[Single Bitcoin entity keeping BTC price suppressed below $90K](https://news.ycombinator.com/item?id=46812350)**
 
-⬆️ 1 • 💬 0 • 13h ago • [msn.com](https://www.msn.com/en-us/money/markets/single-bitcoin-entity-keeping-btc-price-suppressed-below-90k-analysis/ar-AA1VfVZb)
+⬆️ 1 • 💬 0 • 14h ago • [msn.com](https://www.msn.com/en-us/money/markets/single-bitcoin-entity-keeping-btc-price-suppressed-below-90k-analysis/ar-AA1VfVZb)
 
 ---
 
@@ -307,33 +307,23 @@ Reporting on Fintech, Crypto, and Blockchain Activity in Africa
 
 ## YouTube Videos: "bitcoin"
 
-**[Why is Bitcoin Dropping?](https://www.youtube.com/watch?v=pxFxcr11dMI)**
-
-Bitcoin appears to have completed its 2023–2025 market cycle and entered a late-cycle digestion phase similar to mid-2019.
-
-📺 Benjamin Cowen
-
-👁️ 53K • 👍 3K • 💬 310 • ⏱️ 10:19 • 10h ago
-
----
-
-**[The Real Reason Bitcoin Looks Broken Right Now (Not What You Think)](https://www.youtube.com/watch?v=5HOmQbQ3-4M)**
-
-Gold and silver just experienced historic volatility while Bitcoin feels strangely stuck. In this episode of No Second Best, we step ...
-
-📺 Swan Bitcoin
-
-👁️ 28K • 👍 2K • 💬 174 • ⏱️ 15:38 • 6h ago
-
----
-
 **[Bitcoin Investors....Get Ready for THIS](https://www.youtube.com/watch?v=i8c_TMdqOb0)**
 
 Check out ClashPicks: https://www.clashpicks.com/ **Exchange Partners** Bitunix Exchange ▻ *$100000 Deposit Bonus* ...
 
 📺 CryptosRUs
 
-👁️ 10K • 👍 1K • 💬 295 • ⏱️ 8:41 • 3h ago
+👁️ 26K • 👍 1K • 💬 375 • ⏱️ 8:41 • 5h ago
+
+---
+
+**[Why is Bitcoin Dropping?](https://www.youtube.com/watch?v=pxFxcr11dMI)**
+
+Bitcoin appears to have completed its 2023–2025 market cycle and entered a late-cycle digestion phase similar to mid-2019.
+
+📺 Benjamin Cowen
+
+👁️ 61K • 👍 4K • 💬 330 • ⏱️ 10:19 • 11h ago
 
 ---
 
@@ -343,27 +333,17 @@ After a brief series of amendments were rejected, the U.S. Senate Agriculture Co
 
 📺 Paul Barron Network
 
-👁️ 124K • 👍 6K • 💬 635 • ⏱️ 16:34 • 11h ago
+👁️ 136K • 👍 6K • 💬 650 • ⏱️ 16:34 • 12h ago
 
 ---
 
-**[The Fed LIED and Markets Know It (Why Is Bitcoin DOWN?)](https://www.youtube.com/watch?v=s-xipl_cvxE)**
+**[The Real Reason Bitcoin Looks Broken Right Now (Not What You Think)](https://www.youtube.com/watch?v=5HOmQbQ3-4M)**
 
-Markets are breaking while Bitcoin sits quietly in the corner. Powell held rates, gold exploded, bonds snapped, and trust in the ...
+Gold and silver just experienced historic volatility while Bitcoin feels strangely stuck. In this episode of No Second Best, we step ...
 
-📺 Simply Bitcoin
+📺 Swan Bitcoin
 
-👁️ 13K • 👍 2K • 💬 183 • ⏱️ 18:55 • 5h ago
-
----
-
-**[Bitcoin: Macro Indicator Warning of a Deeper Collapse](https://www.youtube.com/watch?v=0xlMkxPChvI)**
-
-TIA PRO LIFETIME DISCOUNT* - NAVIGATE YOUR PORTFOLIO THROUGH THE PEAK AND COLLAPSE ...
-
-📺 Jason Pizzino
-
-👁️ 5K • 👍 439 • 💬 205 • ⏱️ 31:51 • 3h ago
+👁️ 45K • 👍 2K • 💬 249 • ⏱️ 15:38 • 8h ago
 
 ---
 
@@ -373,17 +353,17 @@ The situation is getting worse and worse for crypto. Here are facts and my take 
 
 📺 Thomas Kralow
 
-👁️ 48K • 👍 3K • 💬 170 • ⏱️ 13:43 • 18h ago
+👁️ 50K • 👍 3K • 💬 174 • ⏱️ 13:43 • 19h ago
 
 ---
 
-**[Bitcoin Near Collapse As Crypto Bill Heads To Senate Vote](https://www.youtube.com/watch?v=O0cv11qt290)**
+**[Bitcoin Investors...Now There is This To Worry About..](https://www.youtube.com/watch?v=8vMZYK0P3t0)**
 
-LIMITED TIME: ✓ Bitunix (no kyc, $700 bonus): https://www.bitunix.com/register?vipCode=AltcoinDaily 50% deposit bonus on ...
+Check out ClashPicks: https://www.clashpicks.com/ **Exchange Partners** Bitunix Exchange ▻ *$100000 Deposit Bonus* ...
 
-📺 Altcoin Daily
+📺 CryptosRUs
 
-👁️ 22K • 👍 1K • 💬 127 • ⏱️ 8:26 • 5h ago
+👁️ 31K • 👍 1K • 💬 270 • ⏱️ 7:09 • 16h ago
 
 ---
 
@@ -393,7 +373,17 @@ Bitcoin #Crypto #Finance Welcome to Market Mavericks , where fast paced market a
 
 📺 The Wolf Of All Streets
 
-👁️ 20K • 👍 898 • 💬 226 • ⏱️ 37:17 • 8h ago
+👁️ 23K • 👍 971 • 💬 248 • ⏱️ 37:17 • 9h ago
+
+---
+
+**[Everyone Hates Bitcoin Again (That’s the Signal)](https://www.youtube.com/watch?v=9gwhZIV80No)**
+
+Gold, Bitcoin, FED, and the altcoin updates. BITUNIX TRADE THE TOP COINS (available everywhere) ...
+
+📺 Lark Davis
+
+👁️ 14K • 👍 772 • 💬 120 • ⏱️ 35:33 • 19h ago
 
 ---
 
@@ -403,7 +393,17 @@ Bitcoin #Crypto #Finance Your edge starts here — join DataDash Pro for Discord
 
 📺 DataDash
 
-👁️ 5K • 👍 252 • 💬 16 • ⏱️ 12:08 • 13h ago
+👁️ 5K • 👍 255 • 💬 22 • ⏱️ 12:08 • 14h ago
+
+---
+
+**[The Biggest Gold vs Bitcoin News Of The Year](https://www.youtube.com/watch?v=ajmW-g3OdH8)**
+
+LIMITED TIME: ✓ Bitunix (no kyc, $700 bonus): https://www.bitunix.com/register?vipCode=AltcoinDaily 50% deposit bonus on ...
+
+📺 Altcoin Daily
+
+👁️ 55K • 👍 3K • 💬 188 • ⏱️ 8:22 • 2d ago
 
 ---
 
