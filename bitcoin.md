@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-01-30T21:28:50.380293+00:00'
+updated: '2026-01-30T21:50:05.696154+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- social
 - news
-- cryptocurrency
 - videos
+- social
+- cryptocurrency
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** January 30, 2026 at 21:28 UTC  
+**Last Updated:** January 30, 2026 at 21:50 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,17 +38,17 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $83,722.70
+### $84,424.38
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** -0.7%  
-**7d:** -6.0%  
-**30d:** -5.6%  
-**90d:** -24.2%  
-**1y:** -18.1%  
+**24h:** -0.5%  
+**7d:** -5.7%  
+**30d:** -5.3%  
+**90d:** -23.8%  
+**1y:** -17.7%  
 
 ---
 
@@ -77,17 +77,23 @@ Rank #1
 
 ## Reddit: r/Bitcoin
 
-**[Once again...](https://www.reddit.com/r/Bitcoin/comments/1qr5rn7/once_again/)**
-
-I wish I had more liquidity!
+**[Soo, who all is buying?](https://www.reddit.com/r/Bitcoin/comments/1qr6njb/soo_who_all_is_buying/)**
 
 7h ago
 
 ---
 
+**[Once again...](https://www.reddit.com/r/Bitcoin/comments/1qr5rn7/once_again/)**
+
+I wish I had more liquidity!
+
+8h ago
+
+---
+
 **[Bitcoin president bt the way 😅](https://www.reddit.com/r/Bitcoin/comments/1qr34fh/bitcoin_president_bt_the_way/)**
 
-9h ago
+10h ago
 
 ---
 
@@ -100,12 +106,6 @@ The deal will be too good to pass at that point.
 ---
 
 **[Pack yo bags — bullish for BTC. Who's locking in with me ?](https://www.reddit.com/r/Bitcoin/comments/1qr6uah/pack_yo_bags_bullish_for_btc_whos_locking_in_with/)**
-
-7h ago
-
----
-
-**[Soo, who all is buying?](https://www.reddit.com/r/Bitcoin/comments/1qr6njb/soo_who_all_is_buying/)**
 
 7h ago
 
@@ -127,19 +127,19 @@ The deal will be too good to pass at that point.
 
 Red candles everywhere, BTC dipping hard. Paper hands sweating. Headlines screaming crash. But zoom out: - Halving effects still unfolding - Adoption & institutions not going anywhere This is classic Bitcoin - shakeout before the next leg up. If you believe in it, this dip is your discount window. Stack calmly while others panic. Cheers!
 
-18h ago
+19h ago
 
 ---
 
 **[Never forget, lettuce hands!](https://www.reddit.com/r/Bitcoin/comments/1qr07nl/never_forget_lettuce_hands/)**
 
-12h ago
+13h ago
 
 ---
 
 **[Sure Grandma](https://www.reddit.com/r/Bitcoin/comments/1qr0xd6/sure_grandma/)**
 
-11h ago
+12h ago
 
 ---
 
@@ -155,11 +155,11 @@ Yahoo Finance • 6h ago
 
 ---
 
-**[Kevin Warsh: Markets React as Pro-Bitcoin Economist Tipped for Fed](https://finance.yahoo.com/news/kevin-warsh-markets-react-pro-122358756.html)**
+**[Who is Kevin Warsh: Trump's Fed chair nominee's return sparks bitcoin jitters over rates, balance sheet cuts](https://www.coindesk.com/policy/2026/01/30/who-is-kevin-warsh-here-is-what-trump-nominee-for-fed-chair-said-about-bitcoin-and-rates)**
 
-Only yesterday, we explained how Donald Trump runs his White House like a reality TV competition. Nominees for high office are turned into contestants vying for his approval, and the frontrunner could switch at any minute.Lo and behold, that’s exactly what’s happened in the race to become the next chairman ...
+Crypto investors fear tighter monetary policy under Warsh, who once called bitcoin ‘software pretending to be money’ but backed blockchain innovation.
 
-Yahoo Finance • 9h ago
+CoinDesk • 5h ago
 
 ---
 
@@ -169,25 +169,25 @@ Bloomberg.com • 5h ago
 
 ---
 
-**[Metaplanet Capital Raise Deepens Bitcoin Treasury Focus And US Expansion](https://finance.yahoo.com/news/metaplanet-capital-raise-deepens-bitcoin-191328388.html)**
+**[Amboss Unveils RailsX: Lightning DEX Connects Bitcoin to $9.5 Trillion FX Market](https://finance.yahoo.com/news/amboss-unveils-railsx-lightning-dex-195900979.html)**
 
-Metaplanet (TSE:3350) has approved a large capital raise via new shares and stock acquisition rights to fund Bitcoin purchases and reduce debt. Through this move, the company is extending its Bitcoin-focused treasury approach while also moving to strengthen its balance sheet. Metaplanet has expanded in the US through Metaplanet Income Corp and reinforced its domestic footprint by acquiring Bitcoin.jp. A new partnership with Norges Bank Investment Management points to a broader global push...
+Amboss Technologies launched RailsX, a Lightning-native, peer-to-peer (P2P) decentralized exchange, at the PlanB Forum in El Salvador on Jan. 30, 2026. Unlike other exchanges that build separate protocol layers, RailsX executes trades entirely via the Lightning Network. Transactions work as circular self-payments: funds route through existing Lightning channels, exchange assets ...
 
-Yahoo Finance • 2h ago
-
----
-
-**[Bitcoin’s freefall approaches $80,000 as precious metals also tank](https://fortune.com/2026/01/30/bitcoin-price-today-ethereum-gold-silver-platinum-copper/)**
-
-The world’s largest cryptocurrency is down 2% over the past day while gold and silver have dropped 11% and 30%, respectively.
-
-Fortune • 2h ago
+Yahoo Finance • 1h ago
 
 ---
 
-**[The gold and silver bubbles may have popped; what it means for bitcoin (BTC)](https://www.coindesk.com/markets/2026/01/30/precious-metals-crash-with-silver-plunging-32-gold-11-bitcoin-slips-back-to-usd82-000)**
+**[Dollar trade might explain bitcoin's terrible week](https://www.coindesk.com/markets/2026/01/30/anatomy-of-bitcoin-s-plunge-this-week-the-dollar-s-bottom-was-btc-s-top)**
 
-Crypto bulls who have theorized that bitcoin can't begin rising until money flows out of red-hot precious metals are about to find out if they were correct.
+It seems like ages ago, but bitcoin rose to just shy of $91,000 on Wednesday. Then the U.S. dollar started to strengthen.
+
+CoinDesk • 1h ago
+
+---
+
+**[U.S. claims $400 million from Helix, a notorious bitcoin mixer used on the darknet](https://www.coindesk.com/policy/2026/01/30/u-s-government-seizes-usd400-million-helix-allegedly-made-from-drug-linked-transactions)**
+
+The assets were seized from Helix operator Larry Dean Harmon, who pleaded guilty to laundering more than $300 million in crypto tied to darknet drug markets.
 
 CoinDesk • 2h ago
 
@@ -201,9 +201,11 @@ The Motley Fool • 9h ago
 
 ---
 
-**[Bitcoin Slumps Below $84,000. It’s Not Acting Like a Haven.](https://www.barrons.com/articles/bitcoin-price-xrp-ether-cryptos-selloff-630f4d22?gaa_at=eafs&gaa_n=AWEtsqdGRCAPMd94TC7Ozl5e7TxcT5qKf4lDhTd-2PIZgG7muhpxRictt9X3&gaa_ts=697d18d6&gaa_sig=wFPso9sHvIS-q5PhQ6C0g3zpT_sHM9Du0r08Gu1o2ORFAvG_JFHHwjSThb3QZWATzdOjAO09KrXjBgQ8ZxI3dA%3D%3D)**
+**[Bitcoin’s freefall approaches $80,000 as precious metals also tank](https://fortune.com/2026/01/30/bitcoin-price-today-ethereum-gold-silver-platinum-copper/)**
 
-Barron's • 1d ago
+The world’s largest cryptocurrency is down 2% over the past day while gold and silver have dropped 11% and 30%, respectively.
+
+Fortune • 3h ago
 
 ---
 
@@ -211,15 +213,15 @@ Barron's • 1d ago
 
 Bitcoin price today: tumbles to $83k as heavy liquidations, Fed uncertainty weigh
 
-Investing.com • 6h ago
+Investing.com • 7h ago
 
 ---
 
-**[Why Bitcoin’s Pullback May Be Setting Up A Rotation From Gold](https://www.forbes.com/sites/aliceliu/2026/01/29/why-bitcoins-pullback-may-be-setting-up-a-rotation-from-gold/)**
+**[Bitcoin down for fourth consecutive month, its longest losing streak since 2018](https://sherwood.news/crypto/bitcoin-down-for-fourth-consecutive-month-its-longest-losing-streak-since/)**
 
-Is Bitcoin near a bottom while gold peaks? Explore crypto liquidations, market cycles, and why investors are eyeing a BTC-long, gold-short rotation
+Bitcoin also suffered roughly $800 million in liquidations and ETF outflows in the past 24 hours....
 
-Forbes • 1d ago
+Sherwood News • 5h ago
 
 ---
 
@@ -245,7 +247,7 @@ A list of known attacks against Bitcoin / crypto asset owning entities that occu
 
 **[Bitcoin's Quantum Computing Threat](https://news.ycombinator.com/item?id=46824834)**
 
-⬆️ 1 • 💬 0 • 6h ago • [bmpro.substack.com](https://bmpro.substack.com/p/bitcoins-quantum-computing-threat)
+⬆️ 1 • 💬 0 • 7h ago • [bmpro.substack.com](https://bmpro.substack.com/p/bitcoins-quantum-computing-threat)
 
 ---
 
@@ -261,7 +263,7 @@ Examine why the Binance SAFU fund debate keeps resurfacing, how stablecoins sign
 
 Bitcoin plunged to a two-month low Thursday as risk-on assets broadly fell—and even gold and silver gave up earlier gains.
 
-⬆️ 1 • 💬 0 • 23h ago • [Decrypt](https://decrypt.co/356330/bitcoin-2-month-low-gold-stocks-give-up-gains-crypto-liquidations-800m)
+⬆️ 1 • 💬 0 • 1d ago • [Decrypt](https://decrypt.co/356330/bitcoin-2-month-low-gold-stocks-give-up-gains-crypto-liquidations-800m)
 
 ---
 
@@ -321,7 +323,7 @@ CRYPTO CRISIS AVOIDED?! BREAKING CRYPTO NEWS TODAY! ⭐️ AUSTIN'S STOCK CHANNE
 
 📺 Austin Hilton
 
-👁️ 7K • 👍 649 • 💬 10 • ⏱️ 5:28 • 5h ago
+👁️ 7K • 👍 649 • 💬 10 • ⏱️ 5:28 • 6h ago
 
 ---
 
@@ -331,7 +333,7 @@ Check out ClashPicks: https://www.clashpicks.com/ **Exchange Partners** Bitunix 
 
 📺 CryptosRUs
 
-👁️ 49K • 👍 2K • 💬 565 • ⏱️ 8:41 • 19h ago
+👁️ 49K • 👍 2K • 💬 565 • ⏱️ 8:41 • 20h ago
 
 ---
 
@@ -341,7 +343,7 @@ LIMITED TIME: ✓ Bitunix (no kyc, $700 bonus): https://www.bitunix.com/register
 
 📺 Altcoin Daily
 
-👁️ 64K • 👍 2K • 💬 245 • ⏱️ 8:26 • 21h ago
+👁️ 64K • 👍 2K • 💬 245 • ⏱️ 8:26 • 22h ago
 
 ---
 
@@ -351,7 +353,7 @@ Check out ClashPicks: https://www.clashpicks.com/ **Exchange Partners** Bitunix 
 
 📺 CryptosRUs
 
-👁️ 17K • 👍 990 • 💬 180 • ⏱️ 10:16 • 6h ago
+👁️ 17K • 👍 990 • 💬 180 • ⏱️ 10:16 • 7h ago
 
 ---
 
@@ -361,7 +363,7 @@ It's a terrifying time to be in the markets, especially with Bitcoin so close $8
 
 📺 Crypto Banter
 
-👁️ 13K • 👍 882 • 💬 42 • ⏱️ 36:59 • 9h ago
+👁️ 13K • 👍 882 • 💬 42 • ⏱️ 36:59 • 10h ago
 
 ---
 
@@ -371,7 +373,7 @@ Gold and silver just experienced historic volatility while Bitcoin feels strange
 
 📺 Swan Bitcoin
 
-👁️ 93K • 👍 3K • 💬 430 • ⏱️ 15:38 • 22h ago
+👁️ 93K • 👍 3K • 💬 430 • ⏱️ 15:38 • 23h ago
 
 ---
 
@@ -381,7 +383,7 @@ TOOBIT — CLAIM $50 & 20% SIGN UP BONUS ON YOUR DEPOSIT Limited spots available
 
 📺 100XClub
 
-👁️ 10K • 👍 1K • 💬 244 • ⏱️ 7:50 • 11h ago
+👁️ 10K • 👍 1K • 💬 244 • ⏱️ 7:50 • 12h ago
 
 ---
 

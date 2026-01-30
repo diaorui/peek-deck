@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-01-30T21:28:50.371873+00:00'
+updated: '2026-01-30T21:50:05.687676+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- social
-- repositories
 - news
 - videos
+- social
+- repositories
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** January 30, 2026 at 21:28 UTC  
+**Last Updated:** January 30, 2026 at 21:50 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -119,55 +119,61 @@ We're excited to share our latest podcast episode, where we talk about why some 
 
 ## Google News: "ai"
 
-**[Project Genie: Experimenting with infinite, interactive worlds](https://blog.google/innovation-and-ai/models-and-research/google-deepmind/project-genie/)**
-
-Google AI Ultra subscribers in the U.S. can now try out Project Genie.
-
-blog.google • 1d ago
-
----
-
-**[Videogame stocks slide on Google's AI model that turns prompts into playable worlds](https://www.reuters.com/business/videogame-stocks-slide-googles-ai-model-that-turns-prompts-into-playable-worlds-2026-01-30/)**
-
-Reuters • 3h ago
-
----
-
-**[Google’s AI helped me make bad Nintendo knockoffs](https://www.theverge.com/news/869726/google-ai-project-genie-3-world-model-hands-on)**
-
-Here we go.
-
-The Verge • 1d ago
-
----
-
-**[Opinion | Young People Are Using A.I. to Skip the Hardest Part of Growing Up](https://www.nytimes.com/2026/01/30/opinion/ai-social-skills-relationships.html)**
+**[Opinion | Students Are Skipping the Hardest Part of Growing Up](https://www.nytimes.com/2026/01/30/opinion/ai-social-skills-relationships.html)**
 
 The New York Times • 11h ago
 
 ---
 
-**[IPO may test enterprise software's AI problem](https://www.axios.com/pro/enterprise-software-deals/2026/01/30/enterprise-software-ai-ipo-anaplan)**
+**[Videogame stocks slide on Google's AI model that turns prompts into playable worlds](https://www.reuters.com/business/videogame-stocks-slide-googles-ai-model-that-turns-prompts-into-playable-worlds-2026-01-30/)**
 
-Anaplan could alter IPO prospects for older software companies in the AI era.
-
-Axios • 2h ago
+Reuters • 4h ago
 
 ---
 
-**[Former Google engineer found guilty of espionage and theft of AI tech](https://www.cnbc.com/2026/01/30/former-google-engineer-found-guilty-of-espionage-and-theft-of-ai-tech.html)**
+**[Google releases Project Genie AI tool for creating "playable worlds" that can feature copyrighted IP](https://www.gamesindustry.biz/google-releases-project-genie-ai-tool-for-creating-playable-worlds-that-can-feature-copyrighted-ip)**
 
-The case marks the first conviction on AI-related economic espionage charges in the U.S., according to the Department of Justice.
+But legal expert Pete Lewin from Wiggin argues that the companies behind this kind of tech can expect to face "greater scrutiny and pushback from IP owners"
 
-CNBC • 2h ago
+GamesIndustry.biz • 8h ago
 
 ---
 
-**[Developers say AI coding tools work—and that’s precisely what worries them](https://arstechnica.com/ai/2026/01/developers-say-ai-coding-tools-work-and-thats-precisely-what-worries-them/)**
+**[Unity, Video Game Stocks Fall as Google’s AI Tool Sparks Fears](https://www.bloomberg.com/news/articles/2026-01-30/unity-video-game-stocks-fall-as-google-s-ai-tool-genie-sparks-fears)**
 
-Ars spoke to several software devs about AI and found enthusiasm tempered by unease.
+Bloomberg.com • 1h ago
 
-Ars Technica • 2h ago
+---
+
+**[Expert Voices: Khosla's Ethan Choi on Alex Pretti, and why AI failures will come faster](https://www.axios.com/pro/all-deals/2026/01/30/khosla-ethan-choi-alex-pretti)**
+
+And why South Korea is the next rising AI superpower
+
+Axios • 58m ago
+
+---
+
+**[Introducing Moltworker: a self-hosted personal AI agent, minus the minis](https://blog.cloudflare.com/moltworker-self-hosted-ai-agent/)**
+
+Moltworker is a middleware Worker and adapted scripts that allows running Moltbot (formerly Clawdbot) on Cloudflare's Sandbox SDK and our Developer Platform APIs. So you can self-host an AI personal assistant — without any new hardware.
+
+The Cloudflare Blog • 1d ago
+
+---
+
+**[Is Your Workplace Set Up for AI Agents?](https://hbr.org/2026/01/is-your-workplace-set-up-for-ai-agents)**
+
+AI’s true productivity gains require redesigning organizations, not merely adding AI to human-centered systems—much like factories once had to redesign around electricity. Current productivity estimates underestimate AI because they assume task automation within existing structures. Real gains come from restructuring data into machine-readable formats, exposing systems through APIs, and eliminating silos so agents can work across domains. As AI reduces coordination and cognitive limits, human roles should shift from execution to ownership and verification—defining goals, making value-based judgments, and ensuring accountability. With proper safeguards, agent-first organizations can achieve transformative, not marginal, improvements.
+
+Harvard Business Review • 7h ago
+
+---
+
+**[I Let Google's ‘Auto Browse’ AI Agent Take Over Chrome. It Didn't Quite Click](https://www.wired.com/story/google-chrome-auto-browse-hands-on/)**
+
+Auto Browse can shop for clothes, plan a trip, and buy tickets for you. Or at least, that’s the idea.
+
+WIRED • 1h ago
 
 ---
 
@@ -179,19 +185,11 @@ Anthropic • 1d ago
 
 ---
 
-**['ChatGPT saved my life.' How patients, and doctors, are using AI to make a diagnosis](https://www.npr.org/2026/01/30/nx-s1-5693219/chatgpt-chatbot-ai-health-medical-advice)**
+**[Former Google engineer found guilty of espionage and theft of AI tech](https://www.cnbc.com/2026/01/30/former-google-engineer-found-guilty-of-espionage-and-theft-of-ai-tech.html)**
 
-Hundreds of millions of people are turning to chatbots to help figure out what's wrong with them. Doctors say that's not always a bad thing. In fact, many are using it themselves.
+The case marks the first conviction on AI-related economic espionage charges in the U.S., according to the Department of Justice.
 
-NPR • 5h ago
-
----
-
-**[The AI bubble will pop. It’s up to us to replace it responsibly | Mark Surman](https://www.theguardian.com/commentisfree/2026/jan/30/ai-bubble-mozilla)**
-
-When bubbles burst, what comes next can be better, if we build it differently
-
-The Guardian • 10h ago
+CNBC • 2h ago
 
 ---
 
@@ -229,7 +227,7 @@ Or, as they like to call it, the 'AI Skills Hub'. Which was built by PwC because
 
 Anthropic is an AI safety and research company that's working to build reliable, interpretable, and steerable AI systems.
 
-⬆️ 343 • 💬 274 • 15h ago • [anthropic.com](https://www.anthropic.com/research/AI-assistance-coding-skills)
+⬆️ 366 • 💬 290 • 16h ago • [anthropic.com](https://www.anthropic.com/research/AI-assistance-coding-skills)
 
 ---
 
@@ -243,7 +241,7 @@ Anthropic is an AI safety and research company that's working to build reliable,
 
 Moltworker is a middleware Worker and adapted scripts that allows running Moltbot (formerly Clawdbot) on Cloudflare's Sandbox SDK and our Developer Platform APIs. So you can self-host an AI personal assistant — without any new hardware.
 
-⬆️ 225 • 💬 65 • 1d ago • [The Cloudflare Blog](https://blog.cloudflare.com/moltworker-self-hosted-ai-agent/)
+⬆️ 227 • 💬 65 • 1d ago • [The Cloudflare Blog](https://blog.cloudflare.com/moltworker-self-hosted-ai-agent/)
 
 ---
 
@@ -251,7 +249,7 @@ Moltworker is a middleware Worker and adapted scripts that allows running Moltbo
 
 AI assistance produces significant productivity gains across professional domains, particularly for novice workers. Yet how this assistance affects the development of skills required to effectively supervise AI remains unclear. Novice workers who rely heavily on AI to complete unfamiliar tasks may compromise their own skill acquisition in the process. We conduct randomized experiments to study how developers gained mastery of a new asynchronous programming library with and without the assistance of AI. We find that AI use impairs conceptual understanding, code reading, and debugging abilities, without delivering significant efficiency gains on average. Participants who fully delegated coding tasks showed some productivity improvements, but at the cost of learning the library. We identify six distinct AI interaction patterns, three of which involve cognitive engagement and preserve learning outcomes even when participants receive AI assistance. Our findings suggest that AI-enhanced productivity is not a shortcut to competence and AI assistance should be carefully adopted into workflows to preserve skill formation -- particularly in safety-critical domains.
 
-⬆️ 225 • 💬 5 • 14h ago • [arXiv.org](https://arxiv.org/abs/2601.20245)
+⬆️ 227 • 💬 5 • 14h ago • [arXiv.org](https://arxiv.org/abs/2601.20245)
 
 ---
 
@@ -259,7 +257,7 @@ AI assistance produces significant productivity gains across professional domain
 
 The rise of LLMs as a useful development tool over the last year or so has been significant. The power and flexibility of tools like Claude Code and ChatGPT have given a lot of functionality both to experienced developers and new developers alike. But there are trade-offs.
 
-⬆️ 205 • 💬 107 • 1d ago • [jellyfin.org](https://jellyfin.org/docs/general/contributing/llm-policies/)
+⬆️ 205 • 💬 107 • 2d ago • [jellyfin.org](https://jellyfin.org/docs/general/contributing/llm-policies/)
 
 ---
 
@@ -379,7 +377,7 @@ Big U.S. companies, including Amazon, are laying off tens of thousands of jobs. 
 
 📺 KTVU FOX 2 San Francisco
 
-👁️ 9K • 👍 119 • 💬 399 • ⏱️ 3:22 • 14h ago
+👁️ 9K • 👍 119 • 💬 399 • ⏱️ 3:22 • 15h ago
 
 ---
 
@@ -395,7 +393,7 @@ Kimi K2.5 is a native multimodal agentic model with 1T parameters, excelling in 
 
 `image-text-to-text`
 
-⬇️ 25,438 • ❤️ 1,165 • 16h ago
+⬇️ 25,438 • ❤️ 1,165 • 17h ago
 
 ---
 
@@ -503,7 +501,7 @@ PaddleOCR-VL-1.5 is a multilingual Vision-Language Model (VLM) built on ERNIE 4.
 
 `image-text-to-text` `958.6M`
 
-⬇️ 216 • ❤️ 217 • 15h ago
+⬇️ 216 • ❤️ 217 • 16h ago
 
 ---
 
@@ -705,7 +703,7 @@ The Ultimate Collection of 500+ Agentic Skills for Claude Code/Antigravity/Curso
 
 `Python` `agentic-skills` `ai-agents` `antigravity` `autonomous-coding` `claude-code`
 
-⭐ 5.6k • 🔱 1.2k • 1h ago
+⭐ 5.6k • 🔱 1.2k • 2h ago
 
 ---
 

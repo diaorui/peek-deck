@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-01-30T21:28:50.389483+00:00'
+updated: '2026-01-30T21:50:05.705429+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- social
 - news
 - videos
+- social
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** January 30, 2026 at 21:28 UTC  
+**Last Updated:** January 30, 2026 at 21:50 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -52,7 +52,15 @@ Setup: 2 x Super-Beacons - a few meters away on the walls of the room - as stati
 
 Ant Group released LingBot-VA, a VLA built on a different premise than most current approaches: instead of directly mapping observations to actions, first predict what the future should look like, then infer what action causes that transition. The model uses a 5.3B video diffusion backbone (Wan2.2) as a "world model" to predict future frames, then decodes actions via inverse dynamics. Everything runs through GPT style autoregressive generation with KV-cache — no chunk-based diffusion, so the robot maintains persistent memory across the full trajectory and respects causal ordering (past → present → future). Results on standard benchmarks: 92.9% on RoboTwin Easy (vs 82.7% for π0.5), 91.6% on Hard (vs 76.8%), 98.5% on LIBERO-Long. The biggest gains show up on long-horizon tasks and anything requiring temporal memory — counting repetitions, remembering past observations, etc. Sample efficiency is a key claim: 50 demos for deployment, and even 10 demos outperforms π0.5 by 10-15%. They attribute this to the video backbone providing strong physical priors. For inference speed, they overlap prediction with execution using async inference plus a forward dynamics grounding step. 2× speedup with no accuracy drop.
 
-20h ago
+21h ago
+
+---
+
+**[ROS News for the Week of January 25th, 2026](https://www.reddit.com/r/robotics/comments/1qri16a/ros_news_for_the_week_of_january_25th_2026/)**
+
+ROS News for the Week of January 25th, 2026                We have a ton of ROS and open source robotics events schedule for February and the tail end of January. This weekend is  FOSDEM which includes a new Robot Dev Room. Full list below in the events section.  Unrelated: Discourse released a new carousel feature for image grids. Learn more here.      This week @tnajjar merged a very nice UX upgrade for the ROS CLI: fuzzy finding! Now you can just type any part of a command string and see ever...
+
+🔗 [Open Robotics Discourse](https://discourse.openrobotics.org/t/ros-news-for-the-week-of-january-25th-2026/52232) • 43m ago
 
 ---
 
@@ -76,11 +84,11 @@ I've noticed that many of the labs and data collectors have been switching to YA
 
 ---
 
-**[I want to be a embodied AI expert. Help me !!](https://www.reddit.com/r/robotics/comments/1qr90ws/i_want_to_be_a_embodied_ai_expert_help_me/)**
+**[Framework for Soft Robotics via 3D Printable Artificial Muscles](https://www.reddit.com/r/robotics/comments/1qqrzkz/framework_for_soft_robotics_via_3d_printable/)**
 
-Hey everybody, I'm in high school right now. I have a strong interest in robotics technology. While exploring the robotics field, I was introduced to physics simulation, mathematics, mechanical physics, electrical physics, etc. In short, I want to make the entry barrier to robotics lower after learning this. I've already started learning. I've learnt the basics of Python, pandas, and numpy, and these days I'm learning mathematics and physics at the same time, which makes me feel unproductive. Help me out. Let me know where I should spend most of my time (structural engineering, electronics engineering) or in mathematics (linear algebra, calculus, probability, LLM stuff). I see! These aren't completely different paths, but while preparing for the 12th board exam, it's hard to manage my time. So, any of you guys help me on my learning journey.
+The overall goal is to lower the barrier to entry for soft robotics and provide an alternative approach to building robotic systems. One way to achieve this is by using widely available tools such as FDM 3D printers. The concept centers on a 3D‑printable film used to create inflatable bags. These bags can be stacked to form pneumatic, bellows‑style linear artificial muscles. A tendon‑driven actuator is then assembled around these muscles to create functional motion. The next phase focuses on integration. A 3D‑printed sleeve guides each modular muscle during inflation, and different types of skeletons—human, dog, or frog—can be printed while reusing the same muscle modules across all designs. You can see the experiments with the bags here: https://www.youtube.com/playlist?list=PLF9nRnkMqNpZ-wNNfvy_dFkjDP2D5Q4OO I am looking for groups, labs, researchers, and students working in soft robotics who could provide comments and general feedback on this approach, as well as guidance on developing a complete framework (including workflows, designs, and simulations).
 
-5h ago
+20h ago
 
 ---
 
@@ -89,14 +97,6 @@ Hey everybody, I'm in high school right now. I have a strong interest in robotic
 Figure AI has released the final data from their 11-month deployment at BMW's Spartanburg plant. The 'Figure 02' humanoid robots worked 10-hour shifts, Monday to Friday, contributing to the production of over 30,000 BMW X3s. They loaded 90,000+ sheet metal parts with a <5mm tolerance, logging over 200 miles of walking. With Figure 02 now retiring, these lessons are being rolled into the new Figure 03.
 
 🔗 [FigureAI](https://www.figure.ai/news/production-at-bmw) • 12h ago
-
----
-
-**[Framework for Soft Robotics via 3D Printable Artificial Muscles](https://www.reddit.com/r/robotics/comments/1qqrzkz/framework_for_soft_robotics_via_3d_printable/)**
-
-The overall goal is to lower the barrier to entry for soft robotics and provide an alternative approach to building robotic systems. One way to achieve this is by using widely available tools such as FDM 3D printers. The concept centers on a 3D‑printable film used to create inflatable bags. These bags can be stacked to form pneumatic, bellows‑style linear artificial muscles. A tendon‑driven actuator is then assembled around these muscles to create functional motion. The next phase focuses on integration. A 3D‑printed sleeve guides each modular muscle during inflation, and different types of skeletons—human, dog, or frog—can be printed while reusing the same muscle modules across all designs. You can see the experiments with the bags here: https://www.youtube.com/playlist?list=PLF9nRnkMqNpZ-wNNfvy_dFkjDP2D5Q4OO I am looking for groups, labs, researchers, and students working in soft robotics who could provide comments and general feedback on this approach, as well as guidance on developing a complete framework (including workflows, designs, and simulations).
-
-19h ago
 
 ---
 
@@ -111,6 +111,22 @@ Hi everyone 👋 I’m working on a small AGV robot and I’m currently stuck at
 ---
 
 ## Google News: "robotics"
+
+**[Watch China’s humanoid robots walk out of crates like Matrix scene](https://interestingengineering.com/ai-robotics/limx-humanoid-robots-walk-out-of-crates)**
+
+LimX Dynamics showcased what it calls the world’s first practical autonomous deployment of humanoid robots, with 18 units operating without human control.
+
+Interesting Engineering • 3d ago
+
+---
+
+**[Into the Omniverse: Physical AI Open Models and Frameworks Advance Robots and Autonomous Systems](https://blogs.nvidia.com/blog/physical-ai-open-models-robot-autonomous-systems-omniverse/)**
+
+By providing access to critical infrastructure — from simulation frameworks to AI models — NVIDIA is enabling collaborative development that accelerates the path to safer, more capable autonomous systems.
+
+NVIDIA Blog • 1d ago
+
+---
 
 **[Tesla lurches into the Musk robotics era](https://www.ft.com/content/6a6cfa00-6f51-4abc-bd68-1738580bd2c5)**
 
@@ -128,25 +144,21 @@ The Guardian • 1d ago
 
 ---
 
-**[Tesla doubles spending with $20B AI and robotics push](https://finance.yahoo.com/news/tesla-doubles-spending-20b-ai-161254007.html)**
+**[Tesla to build 1 million Optimus robots per year at Fremont factory, Musk says](https://www.kron4.com/news/technology-ai/tesla-to-build-1-million-optimus-robots-per-year-at-fremont-factory-musk-says/)**
 
-Record investment marks a shift away from traditional EVs toward automation.
-
-Yahoo Finance • 1d ago
-
----
-
-**[Watch China’s humanoid robots walk out of crates like Matrix scene](https://interestingengineering.com/ai-robotics/limx-humanoid-robots-walk-out-of-crates)**
-
-LimX Dynamics showcased what it calls the world’s first practical autonomous deployment of humanoid robots, with 18 units operating without human control.
-
-Interesting Engineering • 3d ago
+KRON4 • 1d ago
 
 ---
 
 **[Lightspeed Backs Robotics Startup in $100 Million Round](https://www.bloomberg.com/news/articles/2026-01-29/fiat-toyota-tycoons-back-startup-robco-in-100-million-round)**
 
 Bloomberg.com • 1d ago
+
+---
+
+**[Ondas' American Robotics Optimus Drone Approved for Rapid Federal Procurement via DCMA Blue UAS Cleared List](https://ir.ondas.com/press-releases/detail/275/ondas-american-robotics-optimus-drone-approved-for-rapid)**
+
+Ondas Holdings • 2d ago
 
 ---
 
@@ -158,20 +170,6 @@ NASA (.gov) • 3d ago
 
 ---
 
-**[Ondas' American Robotics Optimus Drone Approved for Rapid Federal Procurement via DCMA Blue UAS Cleared List](https://ir.ondas.com/press-releases/detail/275/ondas-american-robotics-optimus-drone-approved-for-rapid)**
-
-Ondas Holdings • 2d ago
-
----
-
-**[Tesla axes EV models in drive for robotics revenue](https://news.sky.com/story/tesla-axes-ev-models-in-drive-for-robotics-revenue-13500444)**
-
-Investors liked what they heard about the future following the company's latest results, but Elon Musk is under huge pressure to deliver on his vision as a series of targets have been missed.
-
-Sky News • 1d ago
-
----
-
 **[Not ready for robots in homes? The maker of a friendly new humanoid thinks it might change your mind](https://abcnews.go.com/Technology/wireStory/ready-robots-homes-maker-friendly-new-humanoid-thinks-129594260)**
 
 A new humanoid robot named Sprout, developed by Fauna Robotics, is making its debut
@@ -180,9 +178,11 @@ ABC News • 3d ago
 
 ---
 
-**[Synthetic 'muscle' with microfluidic blood vessels shows promise for soft robotics](https://techxplore.com/news/2026-01-synthetic-muscle-microfluidic-blood-vessels.html)**
+**[Lee calls on workers to swiftly adapt to 'unavoidable' AI robotics era](https://www.koreatimes.co.kr/southkorea/politics/20260129/lee-calls-on-workers-to-swiftly-adapt-to-unavoidable-ai-robotics-era)**
 
-Tech Xplore • 3d ago
+President Lee Jae Myung said Thursday that workers must adapt swiftly to the era of artificial intelligence (AI), in an apparent message to Hyundai...
+
+The Korea Times • 1d ago
 
 ---
 
@@ -236,7 +236,7 @@ Mind-controllable robots are officially here. Chinese engineers are wearing brai
 
 📺 Kalil 4.0
 
-👁️ 249 • 👍 11 • ⏱️ 1:00 • 54m ago
+👁️ 249 • 👍 11 • ⏱️ 1:00 • 1h ago
 
 ---
 
@@ -256,7 +256,7 @@ Tesla's fourth quarter earnings topped analyst estimates. CEO Elon Musk is betti
 
 📺 Yahoo Finance
 
-👁️ 9K • 👍 144 • 💬 30 • ⏱️ 12:20 • 21h ago
+👁️ 9K • 👍 144 • 💬 30 • ⏱️ 12:20 • 22h ago
 
 ---
 

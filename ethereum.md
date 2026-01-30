@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-01-30T21:28:50.386268+00:00'
+updated: '2026-01-30T21:50:05.702174+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- social
 - news
-- cryptocurrency
 - videos
+- social
+- cryptocurrency
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** January 30, 2026 at 21:28 UTC  
+**Last Updated:** January 30, 2026 at 21:50 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -36,17 +36,17 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Price
 
-### $2,684.94
+### $2,705.63
 
 ---
 
 ## Ethereum Chart
 
-**24h:** -4.4%  
-**7d:** -8.8%  
-**30d:** -10.3%  
-**90d:** -30.9%  
-**1y:** -18.3%  
+**24h:** -4.0%  
+**7d:** -8.4%  
+**30d:** -9.9%  
+**90d:** -30.6%  
+**1y:** -17.9%  
 
 ---
 
@@ -72,7 +72,7 @@ No max supply
 
 In these five years, the Ethereum Foundation is entering a period of mild austerity, in order to be able to simultaneously meet two goals: Deliver on an aggressive roadmap that ensures Ethereum's status as a performant and scalable world computer that does not compromise on robustness, sustainability and decentralization. Ensures the Ethereum Foundation's own ability to sustain into the long term, and protect Ethereum's core mission and goals, including both the core blockchain layer as well as users' ability to access and use the chain with self-sovereignty, security and privacy. To this end, my own share of the austerity is that I am personally taking on responsibilities that might in another time have been "special projects" of the EF. Specifically, we are seeking the existence of an open-source, secure and verifiable full stack of software and hardware that can protect both our personal lives and our public environments ( see https://vitalik.eth.limo/general/2025/09/24/openness_and_verifiability.html ). This includes applications such as finance, communication and governance, blockchains, operating systems, secure hardware, biotech (including both personal and public health), and more. If you have seen the Vensa announcement (seeking to make open silicon a commercially viable reality at least for security-critical applications), the ucritter.com including recent versions with built in ZK + FHE + differential-privacy features, the air quality work, my donations to encrypted messaging apps, my own enthusiasm and use for privacy-preserving, walkaway-test-friendly and local-first software (including operating systems), then you know the general spirit of what I am planning to support. For this reason I have just withdrawn 16,384 ETH, which will be deployed toward these goals over the next few years. I am also exploring secure decentralized staking options that will allow even more capital from staking rewards to be put toward these goals in the long term. Ethereum itself is an indispensable part of the "full-stack openness and verifiability" vision. The Ethereum Foundation will continue with a steadfast focus on developing Ethereum, with that goal in mind. "Ethereum everywhere" is nice, but the primary priority is "Ethereum for people who need it". Not corposlop, but self-sovereignty, and the baseline infrastructure that enables cooperation without domination. In a world where many people's default mindset is that we need to race to become a big strong bully, because otherwise the existing big strong bullies will eat you first, this is the needed alternative. It will involve much more than technology to succeed, but the technical layer is something which is in our control to make happen. The tools to ensure your, and your community's, autonomy and safety, as a basic right that belongs to everyone. Open not in a bullshit "open means everyone has the right to buy it from us and use our API for $200/month" way, but actually open, and secure and verifiable so that you know that your technology is working for you.
 
-12h ago
+13h ago
 
 ---
 
@@ -81,6 +81,22 @@ In these five years, the Ethereum Foundation is entering a period of mild auster
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
 15h ago
+
+---
+
+**[DIY crypto inheritance on Ethereum](https://www.reddit.com/r/ethereum/comments/1qrc60c/diy_crypto_inheritance_on_ethereum/)**
+
+Hello Folks, I just published a smart contract to handle crypto inheritance 100% on-chain, without the owner having to do anything offline. I know there are many solutions that are trying to solve this problem, but I wanted to design my own with my logic, which is the following: - the contract acts like a wallet, owner can deposit, withdraw and transfer - the owner can assign beneficiaries, and update them at any time - the wallet contains an "alive check", which is automatically updated on any transaction - if you wanna use it as a vault (dormant), you can update the "alive check" manually - the owner defines a "consider me death time" in years, eg: if the last alive check is older than 10 years, I'm dead :( - once that happen, any of the beneficiaries can access the wallet and withdraw all the funds At this point, my favorite feature: the wallet gets locked, will reject any future deposit and "answer" with an epitaph... your "last worlds" recorded on-chain that you can configure when you create the wallet. All of the above is less then 100 lines of solidity... amazing :) At the moment I only did the backend (github link), but I'd like to do a nice interface to make it easy to deploy. Of course, free and open source in the Ethereum spirit! Would you give me a feedback on the logic? Do you see any pitfall or edge cases? Thanks, Francesco
+
+4h ago
+
+---
+
+**[Major developments for ETH](https://www.reddit.com/r/ethereum/comments/1qrhhyb/major_developments_for_eth/)**
+
+It was some time ago that ETH went from proof of work to proof of stake. At the time Vitalik said that there were other changes coming such as faster transaction or lower transaction cost. I have not heard any more since then? Is there any progress?
+
+1h ago
 
 ---
 
@@ -100,19 +116,11 @@ Fidelity Investments FIDD stablecoin, TheDAO Security Fund, Hegotá upgrade head
 
 ---
 
-**[DIY crypto inheritance on Ethereum](https://www.reddit.com/r/ethereum/comments/1qrc60c/diy_crypto_inheritance_on_ethereum/)**
-
-Hello Folks, I just published a smart contract to handle crypto inheritance 100% on-chain, without the owner having to do anything offline. I know there are many solutions that are trying to solve this problem, but I wanted to design my own with my logic, which is the following: - the contract acts like a wallet, owner can deposit, withdraw and transfer - the owner can assign beneficiaries, and update them at any time - the wallet contains an "alive check", which is automatically updated on any transaction - if you wanna use it as a vault (dormant), you can update the "alive check" manually - the owner defines a "consider me death time" in years, eg: if the last alive check is older than 10 years, I'm dead :( - once that happen, any of the beneficiaries can access the wallet and withdraw all the funds At this point, my favorite feature: the wallet gets locked, will reject any future deposit and "answer" with an epitaph... your "last worlds" recorded on-chain that you can configure when you create the wallet. All of the above is less then 100 lines of solidity... amazing :) At the moment I only did the backend (github link), but I'd like to do a nice interface to make it easy to deploy. Of course, free and open source in the Ethereum spirit! Would you give me a feedback on the logic? Do you see any pitfall or edge cases? Thanks, Francesco
-
-3h ago
-
----
-
 **[Built web3:// protocol support into markdown - ENS sites can now embed live contract calls](https://www.reddit.com/r/ethereum/comments/1qr16pm/built_web3_protocol_support_into_markdown_ens/)**
 
 I've been working on adding native smart contract interaction to markdown-based ENS websites on Simple Page, and v1.6.0 just shipped with two features I'm excited to share. Web3 Forms via URI Protocol You can now embed interactive contract calls using web3:// URIs (ERC-6860) directly in markdown. The syntax works like this: ![USDC Balance](web3://0xa0b8...eb48:1/balanceOf/address!0x?returns=(uint256)&labels=(Account)) This renders as a live form that: Reads contract state without signatures (view/pure functions) Handles transactions with type validation Supports payable functions with ETH inputs No Web3.js boilerplate, no React scaffolding—just a URI that gets parsed into a working interface. RSS Feed Generation Sites can now auto-generate RSS feeds at /rss.xml using frontmatter: Per-page opt-in with rss: true Audio enclosures for podcast episodes Standard metadata from markdown headers Technical Architecture The interesting part about Simple Page is how this works with ENS + IPFS: Sites are pure HTML (render without JS) Editor and forms load progressively One contenthash update publishes everything Self-contained—no external dependencies This approach lets ENS names function as actual web3 endpoints rather than just static pages. The web3:// protocol handler does the ABI encoding/decoding client-side. Web3 forms example: https://simplepage.eth.link/guides/editor/web3-forms/ Source: https://simplepage.eth.link/
 
-11h ago
+12h ago
 
 ---
 
@@ -120,7 +128,7 @@ I've been working on adding native smart contract interaction to markdown-based 
 
 Ethereum developers used ACDE #229 to shift focus toward Devnet-2 readiness, execution optimizations & repricing as Glamsterdam moves from scoping into testing.
 
-🔗 [EtherWorld.co](https://etherworld.co/highlights-from-the-all-core-developers-execution-acde-call-229/) • 17h ago
+🔗 [EtherWorld.co](https://etherworld.co/highlights-from-the-all-core-developers-execution-acde-call-229/) • 18h ago
 
 ---
 
@@ -132,19 +140,11 @@ Hey everyone! Liquity V2 here. We launched on Ethereum Mainnet on in Q2 2025, an
 
 ---
 
-**[CFTC and SEC to Hold Joint Event on Harmonization, U.S. Financial Leadership in the Crypto Era](https://www.reddit.com/r/ethereum/comments/1qqjn1a/cftc_and_sec_to_hold_joint_event_on_harmonization/)**
-
-Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.
-
-🔗 [youtu.be](https://youtu.be/7jvfkuaV2UI) • 1d ago
-
----
-
 **[TheDAO Security Fund](https://www.reddit.com/r/ethereum/comments/1qqp6ry/thedao_security_fund/)**
 
 TheDAO is back & it’s bullish! TheDAO Security Fund will activate more than 75,000 ETH (over $225M) to strengthen Ethereum’s security, ensuring it is ready to become the backbone of the world’s financial infrastructure. A decade after TheDAO saga began, we’re opening a new chapter in its story
 
-🔗 [TheDAO Security Fund](https://paragraph.com/@thedao.fund/thedao-security-fund-activating-75000-eth-for-ethereum-security) • 21h ago
+🔗 [TheDAO Security Fund](https://paragraph.com/@thedao.fund/thedao-security-fund-activating-75000-eth-for-ethereum-security) • 22h ago
 
 ---
 
@@ -152,19 +152,27 @@ TheDAO is back & it’s bullish! TheDAO Security Fund will activate more than 75
 
 ## Google News: "ethereum"
 
-**[Strategy, BitMine Stock Prices Dive as Bitcoin and Ethereum Sink](https://decrypt.co/356357/strategy-bitmine-stock-prices-dive-bitcoin-ethereum-sink)**
+**[Vitalik Buterin to spend $43 million on Ethereum development](https://www.coindesk.com/business/2026/01/30/vitalik-buterin-withdraws-usd17-million-in-eth-as-ethereum-foundation-enters-mild-austerity)**
 
-BitMine and Strategy stocks both plunged nearly 10% amid broader market uncertainty as a possible U.S. government shutdown looms.
+Ethereum’s co-founder said the $43 million withdrawal will support a broader “full-stack openness and verifiability” vision as the foundation tightens spending.
 
-Decrypt • 22h ago
+CoinDesk • 12h ago
 
 ---
 
-**[Ethereum OGs revive the DAO with $220 million security fund, Unchained reports](https://www.coindesk.com/business/2026/01/29/ethereum-ogs-revive-the-dao-with-usd220-million-security-fund-unchained-reports)**
+**[Vitalik Buterin Withdraws $44.7M in ETH to Support Ethereum Growth Through ‘Mild Austerity’](https://decrypt.co/356490/vitalik-buterin-withdraws-44-7m-in-eth-to-support-ethereum-growth-through-mild-austerity)**
 
-According to the report, $13.5 million will be allocated to security grants distributed through DAO-style mechanisms
+The Ethereum co-founder wants to pursue an “aggressive” roadmap that will strengthen its status as a decentralized world computer.
 
-CoinDesk • 1d ago
+Decrypt • 4h ago
+
+---
+
+**[Vitalik Buterin Withdraws 16,384 ETH as Ethereum Foundation Enters ‘Austerity Phase’ — What For?](https://finance.yahoo.com/news/vitalik-buterin-withdraws-16-384-140938447.html)**
+
+Ethereum co-founder Vitalik Buterin has withdrawn 16,384 ETH, worth roughly $44.5 million at current prices, as the Ethereum Foundation enters what he described as a period of “mild austerity.”In a post published on X, Buterin said the Ethereum Foundation is adjusting its spending approach to meet two parallel goals. In ...
+
+Yahoo Finance • 7h ago
 
 ---
 
@@ -176,23 +184,23 @@ The Block • 1d ago
 
 ---
 
+**[Ethereum OGs revive the DAO with $220 million security fund, Unchained reports](https://www.coindesk.com/business/2026/01/29/ethereum-ogs-revive-the-dao-with-usd220-million-security-fund-unchained-reports)**
+
+According to the report, $13.5 million will be allocated to security grants distributed through DAO-style mechanisms
+
+CoinDesk • 1d ago
+
+---
+
 **[Key facts: DAO Security Fund to Stake 75,000 ETH; Ethereum Price Fluctuates](https://www.tradingview.com/news/tradingview:514dc07817206:0-key-facts-dao-security-fund-to-stake-75-000-eth-ethereum-price-fluctuates/)**
 
 TradingView • 21h ago
 
 ---
 
-**[Bitcoin, XRP, Ethereum Fall on News of Kevin Warsh Fed Appointment.](https://www.barrons.com/articles/bitcoin-xrp-ethereum-crypto-today-954298d9?gaa_at=eafs&gaa_n=AWEtsqe75JUraA8eJCV7VmVUadxArUKmGiesfG0SxDGyhfsSaM9GukcehWxF&gaa_ts=697d18d8&gaa_sig=L6I9ryIVu9Q6wSAOnJL_PqIMC1PqaUufTn3XxrHMRSBXIEB3pl-P9TE3A5G9_Scywltmm-YL-0tQ8tua1xqsUA%3D%3D)**
+**[Bitcoin, XRP, Ethereum Fall on News of Kevin Warsh Fed Appointment.](https://www.barrons.com/articles/bitcoin-xrp-ethereum-crypto-today-954298d9?gaa_at=eafs&gaa_n=AWEtsqe6GcvKc_TDg8aHPytJCfCsIpPM_7OALGK4jAVyFbrzJWqdzsJpXpkS&gaa_ts=697d2afb&gaa_sig=Wo9MFMWuY07AdUFnR0N5V4Ss80A6fU15dwbxQlBzAdj2gN-GOssTwS14F0R7Y3pRu4nr4K2mb1qUPtQm4em3kA%3D%3D)**
 
 Barron's • 3h ago
-
----
-
-**[Bitcoin, XRP, Ethereum Dive. Why Cryptos Are Getting Bashed After Warsh Fed Pick.](https://www.barrons.com/livecoverage/stock-market-news-today-013026/card/bitcoin-xrp-ethereum-dive-why-cryptos-are-getting-bashed-after-warsh-fed-pick--89jtYV0llDHxXXYD4AKw?gaa_at=eafs&gaa_n=AWEtsqcr0jsrGTzFqL_dxgx4_2HeOaJs6DLzYVW1SuiP5aNfsGdmeIHwzR0-&gaa_ts=697d18d8&gaa_sig=ungdKinyUMBnCR7eSLH4UTwFyrdl2_b1zviSO9OIsr7DUTBvC0n8GgPdyHe3ciK29v9rttiFBjGSlQi1I1YjBw%3D%3D)**
-
-The Dow, S&P 500, and Nasdaq are falling as the stock market reacts to President Donald Trump's pick for next chair of the Federal Reserve.
-
-Barron's • 7h ago
 
 ---
 
@@ -200,15 +208,15 @@ Barron's • 7h ago
 
 Ripple’s new stablecoin rollout has put a bright spotlight on a simple fact: most RLUSD is living on Ethereum right now. That imbalance has stirred worry among long-time XRP supporters.Some feel the company’s heart might be shifting away from the ledger that gave it a base. Others say the move is p…
 
-TradingView • 2h ago
+TradingView • 3h ago
 
 ---
 
-**[Vitalik Buterin to spend $43 million on Ethereum development](https://www.coindesk.com/business/2026/01/30/vitalik-buterin-withdraws-usd17-million-in-eth-as-ethereum-foundation-enters-mild-austerity)**
+**[AI Models Predict Ethereum, Solana, and XRP 2026 Prices—Which Altcoin Has the Biggest Upside?](https://finance.yahoo.com/news/ai-models-predict-ethereum-solana-193044962.html)**
 
-Ethereum’s co-founder said the $43 million withdrawal will support a broader “full-stack openness and verifiability” vision as the foundation tightens spending.
+Four major AI models have projected 2026 price targets for Ethereum (CRYPTO: ETH), Solana (CRYPTO: SOL), and XRP (CRYPTO: XRP). The forecasts range from conservative consolidation to triple-digit percentage gains, with each asset showing different upside potential based on adoption trends, network activity, and market positioning. Ethereum anchors institutional DeFi with mature Layer 2 networks, ... AI Models Predict Ethereum, Solana, and XRP 2026 Prices—Which Altcoin Has the Biggest Upside?
 
-CoinDesk • 11h ago
+Yahoo Finance • 2h ago
 
 ---
 
@@ -217,14 +225,6 @@ CoinDesk • 11h ago
 The fund introduces a tokenized class of units, which are initially set to be issued on Ethereum, according to its prospectus.
 
 The Block • 1d ago
-
----
-
-**[Tom Lee Urges Investors Not To Ignore Ethereum While Metals Surge, as BitMine Stakes Another $440.5M ETH](https://finance.yahoo.com/news/tom-lee-urges-investors-not-092823952.html)**
-
-Tom Lee has urged investors not to let the rally in gold and silver divert attention from Ethereum. BitMine continues to build its Ethereum position. ...
-
-Yahoo Finance • 1d ago
 
 ---
 
@@ -238,7 +238,7 @@ BITCOIN & ALTCOIN CRASH: EMERGENCY UPDATE (New Trade)!!! - Bitcoin News Today, E
 
 📺 Crypto World
 
-👁️ 2K • 👍 161 • 💬 41 • ⏱️ 22:15 • 2h ago
+👁️ 2K • 👍 161 • 💬 41 • ⏱️ 22:15 • 3h ago
 
 ---
 
@@ -258,7 +258,7 @@ Watch The FULL Interview: "Explosive Crypto Price Prediction for 2026..." FREE D
 
 📺 Library Of Wealth
 
-👁️ 10K • 👍 415 • 💬 258 • ⏱️ 14:36 • 15h ago
+👁️ 10K • 👍 415 • 💬 258 • ⏱️ 14:36 • 16h ago
 
 ---
 
@@ -318,7 +318,7 @@ JOIN THE FAMILY: http://www.patreon.com/investanswers IA MODELS: https://investa
 
 📺 InvestAnswers
 
-👁️ 2K • 👍 233 • 19m ago
+👁️ 2K • 👍 233 • 40m ago
 
 ---
 
