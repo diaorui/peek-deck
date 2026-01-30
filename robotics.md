@@ -3,13 +3,13 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-01-30T14:00:28.367951+00:00'
+updated: '2026-01-30T14:47:50.299809+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- news
 - videos
+- news
 - social
 ---
 
@@ -17,7 +17,7 @@ data_types:
 
 Robotics research and industry news
 
-**Last Updated:** January 30, 2026 at 14:00 UTC  
+**Last Updated:** January 30, 2026 at 14:47 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -36,7 +36,7 @@ Robotics research and industry news
 
 Setup: 2 x Super-Beacons - a few meters away on the walls of the room - as stationary beacons emitting short ultrasound pulses 1 x Mini-RX as a mobile beacon in hands - receiving ultrasound pulses from the stationary beacons 1 x Modem as central controller of the system - connected by the white USB cable from the laptop - synchronizes the clocks between all elements, controls the telemetry, and the system overall The Dashboard on the computer doesn't calculate anything; it just displays the tracking. The location is calculated by the mobile beacon in hand and then streamed over USB to show on the display Inverse Architecture: https://marvelmind.com/pics/architectures_comparison.pdf
 
-7h ago
+8h ago
 
 ---
 
@@ -44,7 +44,7 @@ Setup: 2 x Super-Beacons - a few meters away on the walls of the room - as stati
 
 Ant Group released LingBot-VA, a VLA built on a different premise than most current approaches: instead of directly mapping observations to actions, first predict what the future should look like, then infer what action causes that transition. The model uses a 5.3B video diffusion backbone (Wan2.2) as a "world model" to predict future frames, then decodes actions via inverse dynamics. Everything runs through GPT style autoregressive generation with KV-cache — no chunk-based diffusion, so the robot maintains persistent memory across the full trajectory and respects causal ordering (past → present → future). Results on standard benchmarks: 92.9% on RoboTwin Easy (vs 82.7% for π0.5), 91.6% on Hard (vs 76.8%), 98.5% on LIBERO-Long. The biggest gains show up on long-horizon tasks and anything requiring temporal memory — counting repetitions, remembering past observations, etc. Sample efficiency is a key claim: 50 demos for deployment, and even 10 demos outperforms π0.5 by 10-15%. They attribute this to the video backbone providing strong physical priors. For inference speed, they overlap prediction with execution using async inference plus a forward dynamics grounding step. 2× speedup with no accuracy drop.
 
-13h ago
+14h ago
 
 ---
 
@@ -58,7 +58,7 @@ Figure AI has released the final data from their 11-month deployment at BMW's Sp
 
 **[We trained the yolo model with custom data set to detect head from top view.this needs to reply on bus to count passenger count.it deployed on pi4 with 8gb and data is trained on 25k images](https://www.reddit.com/r/robotics/comments/1qqtoa0/we_trained_the_yolo_model_with_custom_data_set_to/)**
 
-10h ago
+11h ago
 
 ---
 
@@ -66,7 +66,7 @@ Figure AI has released the final data from their 11-month deployment at BMW's Sp
 
 The overall goal is to lower the barrier to entry for soft robotics and provide an alternative approach to building robotic systems. One way to achieve this is by using widely available tools such as FDM 3D printers. The concept centers on a 3D‑printable film used to create inflatable bags. These bags can be stacked to form pneumatic, bellows‑style linear artificial muscles. A tendon‑driven actuator is then assembled around these muscles to create functional motion. The next phase focuses on integration. A 3D‑printed sleeve guides each modular muscle during inflation, and different types of skeletons—human, dog, or frog—can be printed while reusing the same muscle modules across all designs. You can see the experiments with the bags here: https://www.youtube.com/playlist?list=PLF9nRnkMqNpZ-wNNfvy_dFkjDP2D5Q4OO I am looking for groups, labs, researchers, and students working in soft robotics who could provide comments and general feedback on this approach, as well as guidance on developing a complete framework (including workflows, designs, and simulations).
 
-12h ago
+13h ago
 
 ---
 
@@ -82,7 +82,7 @@ I made a python script to make the AI rude and roast me I call it RoastBot. Also
 
 I am final year robotics engineer . In industry I want a career as a simulation engineer. When ever I tried to do simulation like basic pick and place . It's not working in laptop.Either it's gazebo version problem or moveit version. . Sometimes I can't even find what problem I am facing . I want to do simulation in Issac sim, do much complex simulation in gazebo or any other simulation platforms. I know basic backend of ros2 where I did some service client project and I am very good at cad modelling.I followed some udemy tutorials video. But in udemy there is no proper tutorials for simulations. TLDR :Could anyone help me with to learn simulation for robotics .I am struggling to do basic simulations.
 
-9h ago
+10h ago
 
 ---
 
@@ -98,7 +98,7 @@ Working on my first robotics build at the moment and easing my way into it. Any 
 
 Kikobot is running a gripper design challenge focused on real-world mechanical design and manufacturability. Open to students and makers. Details in the poster. https://preview.redd.it/06yevmmhjfgg1.jpeg?width=1587&format=pjpg&auto=webp&s=46e8b3b08860ce2ed098219f80366843d43d7f50
 
-7h ago
+8h ago
 
 ---
 
@@ -140,7 +140,7 @@ The Guardian • 1d ago
 
 By providing access to critical infrastructure — from simulation frameworks to AI models — NVIDIA is enabling collaborative development that accelerates the path to safer, more capable autonomous systems.
 
-NVIDIA Blog • 20h ago
+NVIDIA Blog • 21h ago
 
 ---
 
@@ -148,7 +148,7 @@ NVIDIA Blog • 20h ago
 
 China is deploying AI-powered robots to manage traffic and pedestrian flow in cities. NBC News’ Janis Mackey Frayer explains how China continues to advance robot technology and is pushing to integrate humanoid robots into daily life.
 
-NBC News • 10h ago
+NBC News • 11h ago
 
 ---
 
@@ -156,7 +156,7 @@ NBC News • 10h ago
 
 Robots are getting more and more common. Now we're getting robot app stores so we can download new skills and abilities for our robots ...
 
-Forbes • 15h ago
+Forbes • 16h ago
 
 ---
 
@@ -164,7 +164,7 @@ Forbes • 15h ago
 
 ABB Robotics said new energy consumption measurement will allow end users to make more informed decisions and support sustainability efforts.
 
-The Robot Report • 22h ago
+The Robot Report • 23h ago
 
 ---
 
@@ -180,7 +180,7 @@ Sherwood News • 3d ago
 
 Beep, boop, fraud?
 
-Hunterbrook • 20h ago
+Hunterbrook • 21h ago
 
 ---
 
@@ -202,7 +202,7 @@ China is deploying AI-powered robots to manage traffic and pedestrian flow in ci
 
 📺 NBC News
 
-👁️ 33K • 👍 463 • 💬 178 • ⏱️ 3:13 • 10h ago
+👁️ 33K • 👍 463 • 💬 178 • ⏱️ 3:13 • 11h ago
 
 ---
 
@@ -222,7 +222,7 @@ TeslaOptimus #ElonMusk #FuturisticTech #RobotBoots #HighTechBoots #AIRobot #gree
 
 📺 AITECHGADGETS
 
-👁️ 375 • 💬 1 • ⏱️ 0:17 • 1h ago
+👁️ 375 • 💬 1 • ⏱️ 0:17 • 2h ago
 
 ---
 
@@ -232,7 +232,7 @@ Steve Westly, former Tesla board member and founder of the Westly Group, joins '
 
 📺 CNBC Television
 
-👁️ 10K • 👍 65 • 💬 55 • ⏱️ 3:43 • 20h ago
+👁️ 10K • 👍 65 • 💬 55 • ⏱️ 3:43 • 21h ago
 
 ---
 
@@ -242,7 +242,7 @@ Steve Westly, former Tesla board member and founder of the Westly Group, joins '
 
 📺 Andreas Klinger ⅹ Europe's Most Ambitious Startups
 
-👁️ 23K • 👍 1K • 💬 189 • ⏱️ 16:46 • 3d ago
+👁️ 23K • 👍 1K • 💬 189 • ⏱️ 16:46 • 4d ago
 
 ---
 
@@ -262,7 +262,7 @@ Day 172 of watching tech evolve. German startup Filics has built autonomous ware
 
 📺 Deepen
 
-👁️ 20K • 👍 408 • 💬 10 • ⏱️ 0:29 • 5d ago
+👁️ 20K • 👍 408 • 💬 10 • ⏱️ 0:29 • 6d ago
 
 ---
 
@@ -280,7 +280,7 @@ Hyundai is planning to place 30000 humanoid robots in its factories. We talked t
 
 📺 QCT
 
-👁️ 1K • 👍 19 • 💬 2 • ⏱️ 0:22 • 13h ago
+👁️ 1K • 👍 19 • 💬 2 • ⏱️ 0:22 • 14h ago
 
 ---
 
