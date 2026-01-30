@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-01-30T14:47:50.281875+00:00'
+updated: '2026-01-30T15:36:11.397746+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- videos
-- news
-- repositories
 - social
+- videos
+- repositories
+- news
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** January 30, 2026 at 14:47 UTC  
+**Last Updated:** January 30, 2026 at 15:36 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -41,7 +41,7 @@ AI news, discussions, and developments
 
 ByteDance, Alibaba and Tencent had been given permission to purchase more than 400,000 H200 chips in total.
 
-🔗 [thestandard.com.hk](https://www.thestandard.com.hk/china-news/article/323159/China-conditionally-approves-DeepSeek-to-buy-Nvidias-H200-chips) • 4h ago
+🔗 [thestandard.com.hk](https://www.thestandard.com.hk/china-news/article/323159/China-conditionally-approves-DeepSeek-to-buy-Nvidias-H200-chips) • 5h ago
 
 ---
 
@@ -57,15 +57,7 @@ Hey everyone. I Just published a breakdown on Moltbot: the self-hosted, open-sou
 
 Amazon is reportedly in discussions to invest as much as $50 billion in OpenAI, as major technology firms race to secure access to advanced artificial intelligence systems.
 
-🔗 [techputs](https://techputs.com/amazon-openai-50-billion-investment-talks/) • 11h ago
-
----
-
-**[Why are LLMs consistently biased?](https://www.reddit.com/r/artificial/comments/1qr57ms/why_are_llms_consistently_biased/)**
-
-We have done tests of LLMs and find them to be oddly biased. The link below is on political bias, but that’s just an example. LLMs seem prone to getting stuck in a direction and hard to turn, even when prompted to correct. Why?? Fears of ChatGPT bias as AI bot’s top source is revealed https://www.thetimes.com/article/f6e07ebb-b893-4434-a539-562c77f4d82c?shareToken=6e4c2379814834db62b761e462559f4c
-
-1h ago
+🔗 [techputs](https://techputs.com/amazon-openai-50-billion-investment-talks/) • 12h ago
 
 ---
 
@@ -73,15 +65,7 @@ We have done tests of LLMs and find them to be oddly biased. The link below is o
 
 We built hands free and blind accessible AI in one day. We went further and made continuous conversations for hands free users, so you just keep talking and it replies. This allows a really easy to use experience that we are proud to share with everyone.
 
-🔗 [Dreami](https://dreami.me/blog/accessibilityforeveryone.html) • 10h ago
-
----
-
-**[One-Minute Daily AI News 1/29/2026](https://www.reddit.com/r/artificial/comments/1qqwxx1/oneminute_daily_ai_news_1292026/)**
-
-Apple buys Israeli startup Q.ai as the AI race heats up.[1] Elon Musk’s SpaceX, Tesla, and xAI in talks to merge, according to reports.[2] Ant Group Releases LingBot-VLA, A Vision Language Action Foundation Model For Real World Robot Manipulation.[3] Google DeepMind’s Project Genie Lets You Walk, Fly, Drive Through Imagination.[4] Sources: [1] https://techcrunch.com/2026/01/29/apple-buys-israeli-startup-q-ai-as-the-ai-race-heats-up/ [2] https://techcrunch.com/2026/01/29/elon-musk-spacex-tesla-xai-merger-talks-ipo-reuters/ [3] https://www.marktechpost.com/2026/01/29/ant-group-releases-lingbot-vla-a-vision-language-action-foundation-model-for-real-world-robot-manipulation/ [4] https://www.ndtv.com/world-news/google-deepminds-project-genie-lets-you-walk-fly-drive-through-imagination-10911537
-
-9h ago
+🔗 [Dreami](https://dreami.me/blog/accessibilityforeveryone.html) • 11h ago
 
 ---
 
@@ -89,7 +73,7 @@ Apple buys Israeli startup Q.ai as the AI race heats up.[1] Elon Musk’s SpaceX
 
 This post introduces the concept of "two agentic loops": the inner loop that handles reasoning and tool use, while the outer loop handles everything that makes agents ready for production—orchestration, guardrails, observability, and bounded execution. The outer loop is real infrastructure that needs to be built and maintained independently. Plano implements this pattern as an AI-native proxy and data plane.
 
-🔗 [Plano](https://planoai.dev/blog/the-two-agentic-loops-how-to-design-and-scale-agentic-apps) • 16h ago
+🔗 [Plano](https://planoai.dev/blog/the-two-agentic-loops-how-to-design-and-scale-agentic-apps) • 17h ago
 
 ---
 
@@ -101,11 +85,11 @@ A lot of the discussion around AI right now focuses on code generation: how far 
 
 ---
 
-**[How do you measure AI adoption in your teams?](https://www.reddit.com/r/artificial/comments/1qqpkhx/how_do_you_measure_ai_adoption_in_your_teams/)**
+**['Wordsmith' dispute pits $100m legal AI startup against London law firm](https://www.reddit.com/r/artificial/comments/1qqcolo/wordsmith_dispute_pits_100m_legal_ai_startup/)**
 
-I lead Product and Design Teams at FAANG - How do you measure AI adoption and make sure you are progressing. To me it feels like who ever adopts AI better is going to have a better team ultimately.
+Wordsmith Law has issued a claim against legal AI company Wordsmith in an apparent naming dispute.
 
-14h ago
+🔗 [nonbillable.co.uk](https://www.nonbillable.co.uk/news/wordsmith-dispute-legal-ai-startup-against-london-law-firm) • 23h ago
 
 ---
 
@@ -113,7 +97,21 @@ I lead Product and Design Teams at FAANG - How do you measure AI adoption and ma
 
 We're excited to share our latest podcast episode, where we talk about why some of the best movies fail at the box office only to become cult classics a decade later and whether AI can actually predict the next underground masterpiece by looking at real-time sentiment analysis and "memeable density". The data shows that playing it safe will just not cut it. To stand out and make a movie that will be remembered for decades, you have to throw caution to the wind and take the bold risks that everyone will tell you not to make. We also dive into some of the interesting side-projects we're working on, along with a few weird, off-beat recent news stories about AI. Check it out and hope you enjoy
 
-🔗 [open.substack.com](https://open.substack.com/pub/storyprism/p/story-prism-podcast-ep-7?r=h11e6&utm_campaign=post&utm_medium=web) • 21h ago
+🔗 [open.substack.com](https://open.substack.com/pub/storyprism/p/story-prism-podcast-ep-7?r=h11e6&utm_campaign=post&utm_medium=web) • 22h ago
+
+---
+
+**[One-Minute Daily AI News 1/28/2026](https://www.reddit.com/r/artificial/comments/1qq00z6/oneminute_daily_ai_news_1282026/)**
+
+Amazon is laying off 16,000 employees as AI battle intensifies.[1] Google adds Gemini AI-powered ‘auto browse’ to Chrome.[2] AI tool AlphaGenome predicts how one typo can change a genetic story.[3] Alibaba Introduces Qwen3-Max-Thinking, a Test Time Scaled Reasoning Model with Native Tool Use Powering Agentic Workloads.[4] Sources: [1] https://www.cnn.com/2026/01/28/tech/amazon-layoffs-ai#openweb-convo [2] https://www.theverge.com/news/869731/google-gemini-ai-chrome-auto-browse [3] https://www.sciencenews.org/article/ai-tool-alphagenome-predicts-genetics [4] https://www.marktechpost.com/2026/01/28/alibaba-introduces-qwen3-max-thinking-a-test-time-scaled-reasoning-model-with-native-tool-use-powering-agentic-workloads/
+
+1d ago
+
+---
+
+**[Trump’s acting cyber chief uploaded sensitive files into a public version of ChatGPT. The interim director of the Cybersecurity and Infrastructure Security Agency triggered an internal cybersecurity warning with the uploads — and a DHS-level damage assessment.](https://www.reddit.com/r/artificial/comments/1qozsna/trumps_acting_cyber_chief_uploaded_sensitive/)**
+
+🔗 [politico.com](https://www.politico.com/news/2026/01/27/cisa-madhu-gottumukkala-chatgpt-00749361) • 2d ago
 
 ---
 
@@ -125,7 +123,21 @@ We're excited to share our latest podcast episode, where we talk about why some 
 
 Google AI Ultra subscribers in the U.S. can now try out Project Genie.
 
-blog.google • 21h ago
+blog.google • 22h ago
+
+---
+
+**[Ex-Google Engineer Convicted of Stealing A.I. Secrets for Start-Up in China](https://www.nytimes.com/2026/01/29/business/ai-secrets-stolen-google-china.html)**
+
+The New York Times • 16h ago
+
+---
+
+**[Google’s AI helped me make bad Nintendo knockoffs](https://www.theverge.com/news/869726/google-ai-project-genie-3-world-model-hands-on)**
+
+Here we go.
+
+The Verge • 22h ago
 
 ---
 
@@ -137,63 +149,45 @@ Anthropic • 19h ago
 
 ---
 
-**[The new math defining AI winners and losers](https://www.axios.com/2026/01/30/ai-meta-microsoft-investments)**
+**[AI industry super PAC raises $125 million in 2025](https://www.cnbc.com/2026/01/30/ai-industry-super-pac-raises-campaign-money.html)**
 
-The wildly different market reactions to Meta and Microsoft reveal the calculus for investors.
+Group using midterms to push for single, national AI regulation, rather than individual state laws.
 
-Axios • 2h ago
-
----
-
-**[Microsoft Q2 earnings beat, but stock plummets as investors fret on AI spend, cloud growth](https://finance.yahoo.com/news/microsoft-q2-earnings-beat-but-stock-plummets-as-investors-fret-on-ai-spend-cloud-growth-154618162.html)**
-
-Microsoft reported its second quarter earnings after the bell Wednesday.
-
-Yahoo Finance • 22h ago
+CNBC • 1h ago
 
 ---
 
-**[Microsoft Loses, Sandisk Wins, Apple Drifts. AI Is Upending Tech and 5 Other Things to Know Today.](https://www.barrons.com/articles/microsoft-sandisk-apple-ai-tech-earnings-things-to-know-today-04d3365f?gaa_at=eafs&gaa_n=AWEtsqdMADAOHiTgfcxohtjy0CDdEnqgbmEJTJ6pqd_63B4WLn7N7C5NybXf&gaa_ts=697cbce5&gaa_sig=WICSgGmDpE1M2IlNMyvpnFPG5RBYlvJLPV_g7BB6AzL9JL0uBGSRC9rkRR0HQStjB0V02iMkB4VlG1o_shP9fg%3D%3D)**
+**[Apple acquires Israeli audio AI startup Q.ai](https://www.reuters.com/business/apple-acquires-audio-ai-startup-qai-2026-01-29/)**
 
-Barron's • 2h ago
-
----
-
-**[Opinion | China is winning the race for embodied AI](https://www.washingtonpost.com/opinions/2026/01/30/china-ai-robots-autonomous-drones/)**
-
-Beijing has a dominant lead in developing intelligent robots, drones and autonomous systems.
-
-The Washington Post • 2h ago
+Reuters • 22h ago
 
 ---
 
-**[Marc Andreessen says the real crisis isn't AI job losses — it's what would have happened without AI](https://www.businessinsider.com/marc-andreessen-says-ai-wont-kill-jobs-may-save-economy-2026-1)**
+**[Apple buys Israeli start-up Q.AI for close to $2bn in race to build AI devices](https://www.ft.com/content/49f4e2e4-3a68-4842-be67-879409d06aa1)**
 
-Marc Andreessen says AI is arriving just in time to offset shrinking workforces and decades of weak productivity growth.
+iPhone-maker strikes deal for secretive group that creates technology that analyses facial expressions
 
-Business Insider • 1h ago
-
----
-
-**[No teachers. No homework. Can AI revolutionize education?](https://www.cnn.com/2026/01/29/us/video/alpha-school-ai-teaching-education-digvid-vrtc)**
-
-CNN’s Sunlen Serfaty takes a look at Alpha, a chain of private schools that use AI to teach students core academic subjects in just two hours a day. There’s no homework and no textbooks — just software that students use each morning to learn, with human “guides” on hand to learn life skills and pursue passion projects.
-
-CNN • 13h ago
+Financial Times • 22h ago
 
 ---
 
-**[To keep AI out of her classroom, this high school English teacher went analog](https://www.npr.org/2026/01/28/nx-s1-5631779/ai-schools-teachers-students)**
+**[Watch AI Monetization Is the Story for Apple in 2026: Dan Ives](https://www.bloomberg.com/news/videos/2026-01-30/ai-monetization-is-apple-s-story-for-2026-dan-ives-video)**
 
-Forth Worth teacher Chanea Bond says sticking with pen and paper keeps generative artificial intelligence out of her American literature classes.
-
-NPR • 2d ago
+Bloomberg • 1h ago
 
 ---
 
-**[Opinion | Young People Are Using A.I. to Skip the Hardest Part of Growing Up](https://www.nytimes.com/2026/01/30/opinion/ai-social-skills-relationships.html)**
+**[AI contact center trends to watch in 2026: Transforming patient communication](https://www.healthcareitnews.com/news/ai-contact-center-trends-watch-2026-transforming-patient-communication)**
 
-The New York Times • 4h ago
+Agentic AI solutions, such as healow Genie, continue to evolve, ushering in a new era of patient engagement.
+
+Healthcare IT News • 36m ago
+
+---
+
+**[Opinion | Students Are Skipping the Hardest Part of Growing Up](https://www.nytimes.com/2026/01/30/opinion/ai-social-skills-relationships.html)**
+
+The New York Times • 5h ago
 
 ---
 
@@ -207,7 +201,7 @@ The New York Times • 4h ago
 - - —
 Guys, enough is enough. Bullying is a s...
 
-⬆️ 655 • 💬 302 • 1d ago • [McSweeney's Internet Tendency](https://www.mcsweeneys.net/articles/please-dont-say-mean-things-about-the-ai-that-i-just-invested-a-billion-dollars-in)
+⬆️ 656 • 💬 302 • 1d ago • [McSweeney's Internet Tendency](https://www.mcsweeneys.net/articles/please-dont-say-mean-things-about-the-ai-that-i-just-invested-a-billion-dollars-in)
 
 ---
 
@@ -215,7 +209,7 @@ Guys, enough is enough. Bullying is a s...
 
 Interactive article explaining the physics of an airfoil and what makes airplanes fly
 
-⬆️ 521 • 💬 59 • 2d ago • [ciechanow.ski](https://ciechanow.ski/airfoil/)
+⬆️ 523 • 💬 59 • 2d ago • [ciechanow.ski](https://ciechanow.ski/airfoil/)
 
 ---
 
@@ -229,7 +223,7 @@ Or, as they like to call it, the 'AI Skills Hub'. Which was built by PwC because
 
 **[The tech market is fundamentally fucked up and AI is just a scapegoat](https://news.ycombinator.com/item?id=46809069)**
 
-⬆️ 304 • 💬 210 • 1d ago • [bayramovanar.substack.com](https://bayramovanar.substack.com/p/tech-market-is-fucked-up)
+⬆️ 305 • 💬 211 • 1d ago • [bayramovanar.substack.com](https://bayramovanar.substack.com/p/tech-market-is-fucked-up)
 
 ---
 
@@ -245,7 +239,7 @@ SERA is the first in our family of Open Coding Agents, achieving state-of-the-ar
 
 Moltworker is a middleware Worker and adapted scripts that allows running Moltbot (formerly Clawdbot) on Cloudflare's Sandbox SDK and our Developer Platform APIs. So you can self-host an AI personal assistant — without any new hardware.
 
-⬆️ 216 • 💬 63 • 1d ago • [The Cloudflare Blog](https://blog.cloudflare.com/moltworker-self-hosted-ai-agent/)
+⬆️ 218 • 💬 64 • 1d ago • [The Cloudflare Blog](https://blog.cloudflare.com/moltworker-self-hosted-ai-agent/)
 
 ---
 
@@ -257,6 +251,14 @@ The rise of LLMs as a useful development tool over the last year or so has been 
 
 ---
 
+**[How AI assistance impacts the formation of coding skills](https://news.ycombinator.com/item?id=46820924)**
+
+Anthropic is an AI safety and research company that's working to build reliable, interpretable, and steerable AI systems.
+
+⬆️ 196 • 💬 159 • 9h ago • [anthropic.com](https://www.anthropic.com/research/AI-assistance-coding-skills)
+
+---
+
 **[AISLE’s autonomous analyzer found all CVEs in the January OpenSSL release](https://news.ycombinator.com/item?id=46789913)**
 
 AISLE's autonomous analyzer found all 12 CVEs in the January 2026 coordinated release of OpenSSL, the open-source cryptographic library that underp...
@@ -265,19 +267,11 @@ AISLE's autonomous analyzer found all 12 CVEs in the January 2026 coordinated re
 
 ---
 
-**[How AI assistance impacts the formation of coding skills](https://news.ycombinator.com/item?id=46820924)**
+**[How AI Impacts Skill Formation](https://news.ycombinator.com/item?id=46821360)**
 
-Anthropic is an AI safety and research company that's working to build reliable, interpretable, and steerable AI systems.
+AI assistance produces significant productivity gains across professional domains, particularly for novice workers. Yet how this assistance affects the development of skills required to effectively supervise AI remains unclear. Novice workers who rely heavily on AI to complete unfamiliar tasks may compromise their own skill acquisition in the process. We conduct randomized experiments to study how developers gained mastery of a new asynchronous programming library with and without the assistance of AI. We find that AI use impairs conceptual understanding, code reading, and debugging abilities, without delivering significant efficiency gains on average. Participants who fully delegated coding tasks showed some productivity improvements, but at the cost of learning the library. We identify six distinct AI interaction patterns, three of which involve cognitive engagement and preserve learning outcomes even when participants receive AI assistance. Our findings suggest that AI-enhanced productivity is not a shortcut to competence and AI assistance should be carefully adopted into workflows to preserve skill formation -- particularly in safety-critical domains.
 
-⬆️ 157 • 💬 57 • 9h ago • [anthropic.com](https://www.anthropic.com/research/AI-assistance-coding-skills)
-
----
-
-**[Benchmarking OpenTelemetry: Can AI trace your failed login?](https://news.ycombinator.com/item?id=46811588)**
-
-A lot of vendors pitch AI SRE. We tested 14 models across 11 programming languages; even the best ones struggle with instrumenting code with the leading open-source standard, OpenTelemetry.
-
-⬆️ 141 • 💬 81 • 23h ago • [Quesma](https://quesma.com/blog/introducing-otel-bench/)
+⬆️ 143 • 💬 2 • 8h ago • [arXiv.org](https://arxiv.org/abs/2601.20245)
 
 ---
 
@@ -291,7 +285,7 @@ Try Mammouth AI here: https://bit.ly/4sUpPDw AI just made a serious leap into th
 
 📺 AI Revolution
 
-👁️ 15K • 👍 763 • 💬 59 • ⏱️ 12:58 • 15h ago
+👁️ 15K • 👍 763 • 💬 59 • ⏱️ 12:58 • 16h ago
 
 ---
 
@@ -361,7 +355,7 @@ GET MY FREE GUIDE: *The Content Creator's AI Blueprint: From 25 Hours to 5 Minut
 
 📺 Julia McCoy
 
-👁️ 61K • 👍 3K • 💬 464 • ⏱️ 9:49 • 23h ago
+👁️ 61K • 👍 3K • 💬 464 • ⏱️ 9:49 • 1d ago
 
 ---
 
@@ -371,7 +365,7 @@ AI leaders are warning that the next phase of artificial intelligence could arri
 
 📺 Valuetainment Short Clips
 
-👁️ 7K • 👍 186 • 💬 30 • ⏱️ 20:26 • 18h ago
+👁️ 7K • 👍 186 • 💬 30 • ⏱️ 20:26 • 19h ago
 
 ---
 
@@ -397,7 +391,7 @@ Kimi K2.5 is a native multimodal agentic model with 1T parameters, excelling in 
 
 `image-text-to-text`
 
-⬇️ 25,438 • ❤️ 1,131 • 9h ago
+⬇️ 25,438 • ❤️ 1,131 • 10h ago
 
 ---
 
@@ -445,7 +439,7 @@ DeepSeek-OCR-2 is a multilingual vision-language model for image-to-text tasks, 
 
 `image-text-to-text` `3.4B`
 
-⬇️ 45,346 • ❤️ 539 • 14h ago
+⬇️ 45,346 • ❤️ 539 • 15h ago
 
 ---
 
@@ -481,7 +475,7 @@ LightOnOCR-2-1B is an efficient 1B-parameter end-to-end vision-language model fo
 
 `image-text-to-text` `1.0B`
 
-⬇️ 27,393 • ❤️ 439 • 2h ago
+⬇️ 27,393 • ❤️ 439 • 3h ago
 
 ---
 
@@ -493,7 +487,7 @@ PaddleOCR-VL-1.5 is a multilingual Vision-Language Model (VLM) built on ERNIE 4.
 
 `image-text-to-text` `958.6M`
 
-⬇️ 216 • ❤️ 194 • 9h ago
+⬇️ 216 • ❤️ 194 • 10h ago
 
 ---
 
@@ -655,7 +649,7 @@ Browser automation CLI for AI agents
 
 `TypeScript`
 
-⭐ 11.7k • 🔱 648 • 21h ago
+⭐ 11.7k • 🔱 648 • 22h ago
 
 ---
 
@@ -675,7 +669,7 @@ Ralph is an autonomous AI agent loop that runs repeatedly until all PRD items ar
 
 `TypeScript`
 
-⭐ 8.7k • 🔱 1.0k • 16h ago
+⭐ 8.7k • 🔱 1.0k • 17h ago
 
 ---
 
@@ -685,7 +679,7 @@ LLM驱动的 A/H/美股智能分析器，多数据源行情 + 实时新闻 + Gem
 
 `Python` `agent` `ai` `aigc` `gemini` `llm`
 
-⭐ 7.5k • 🔱 8.1k • 1h ago
+⭐ 7.5k • 🔱 8.1k • 2h ago
 
 ---
 
@@ -705,7 +699,7 @@ The Ultimate Collection of 500+ Agentic Skills for Claude Code/Antigravity/Curso
 
 `Python` `agentic-skills` `ai-agents` `antigravity` `autonomous-coding` `claude-code`
 
-⭐ 5.5k • 🔱 1.2k • 6h ago
+⭐ 5.5k • 🔱 1.2k • 7h ago
 
 ---
 

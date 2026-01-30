@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-01-30T14:47:50.299809+00:00'
+updated: '2026-01-30T15:36:11.420379+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
+- social
 - videos
 - news
-- social
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** January 30, 2026 at 14:47 UTC  
+**Last Updated:** January 30, 2026 at 15:36 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -32,11 +32,19 @@ Robotics research and industry news
 
 ## Reddit: r/robotics
 
+**[My humanoid robot (arm)](https://www.reddit.com/r/robotics/comments/1qr6f2w/my_humanoid_robot_arm/)**
+
+I’m building a humanoid robot from scratch and this is how it looks so far. The hand is finished, and i’m currently working on the torso.
+
+1h ago
+
+---
+
 **[That Is Really Precise "Phone Tracking" :-) - designed and built for autonomous robots and drones, of course :-)](https://www.reddit.com/r/robotics/comments/1qqxg28/that_is_really_precise_phone_tracking_designed/)**
 
 Setup: 2 x Super-Beacons - a few meters away on the walls of the room - as stationary beacons emitting short ultrasound pulses 1 x Mini-RX as a mobile beacon in hands - receiving ultrasound pulses from the stationary beacons 1 x Modem as central controller of the system - connected by the white USB cable from the laptop - synchronizes the clocks between all elements, controls the telemetry, and the system overall The Dashboard on the computer doesn't calculate anything; it just displays the tracking. The location is calculated by the mobile beacon in hand and then streamed over USB to show on the display Inverse Architecture: https://marvelmind.com/pics/architectures_comparison.pdf
 
-8h ago
+9h ago
 
 ---
 
@@ -52,13 +60,13 @@ Ant Group released LingBot-VA, a VLA built on a different premise than most curr
 
 Figure AI has released the final data from their 11-month deployment at BMW's Spartanburg plant. The 'Figure 02' humanoid robots worked 10-hour shifts, Monday to Friday, contributing to the production of over 30,000 BMW X3s. They loaded 90,000+ sheet metal parts with a <5mm tolerance, logging over 200 miles of walking. With Figure 02 now retiring, these lessons are being rolled into the new Figure 03.
 
-🔗 [FigureAI](https://www.figure.ai/news/production-at-bmw) • 5h ago
+🔗 [FigureAI](https://www.figure.ai/news/production-at-bmw) • 6h ago
 
 ---
 
 **[We trained the yolo model with custom data set to detect head from top view.this needs to reply on bus to count passenger count.it deployed on pi4 with 8gb and data is trained on 25k images](https://www.reddit.com/r/robotics/comments/1qqtoa0/we_trained_the_yolo_model_with_custom_data_set_to/)**
 
-11h ago
+12h ago
 
 ---
 
@@ -70,11 +78,19 @@ The overall goal is to lower the barrier to entry for soft robotics and provide 
 
 ---
 
+**[Path planning for AGV using A* (no obstacles yet) – how to model inputs & grid values?](https://www.reddit.com/r/robotics/comments/1qr6m76/path_planning_for_agv_using_a_no_obstacles_yet/)**
+
+Hi everyone 👋 I’m working on a small AGV robot and I’m currently stuck at the software side of path planning. I’d really appreciate some guidance or best practices from people who’ve done this before. My current setup AGV size: 250 × 250 mm Workspace: small indoor environment Overhead camera (fixed) AprilTags / ArUco tags placed on the floor Tag spacing: 0.5 meter Current grid: 7 × 6 = 42 tags Robot is detected using the center tag under the robot Goal (Stage 1 – very basic) For now, I don’t want to include obstacles. I want: User gives a start node and end node Robot computes the shortest path Robot follows that path physically I’ve decided to use the A* algorithm, but I’m confused about the input representation and data structure. Where I’m stuck How should I represent the environment? 2D grid array? Graph with nodes and edges? Tag IDs mapped to coordinates? How should I store values for A\* in this simple case? What should be the node value? How to define neighbors (up/down/left/right)? How to map real-world distances (0.5 m spacing) to cost? Is it better to: Use grid indices (row, col) and map them later to real coordinates? Or directly use real-world (x, y) coordinates? What I plan to add later Obstacles Dynamic path updates Possibly ROS integration But for now, I want to get the fundamentals right. If anyone has: Simple examples Pseudocode Suggestions on data structures Or advice on how you approached this in your own AGV projects I’d really appreciate it 🙏 Thanks in advance!
+
+1h ago
+
+---
+
 **[I put olama 3.3 70b instruct on jetson thor](https://www.reddit.com/r/robotics/comments/1qr3av3/i_put_olama_33_70b_instruct_on_jetson_thor/)**
 
 I made a python script to make the AI rude and roast me I call it RoastBot. Also adding a mic and speakers and it works flawlessly. Now I want to slap a camera or 2 onto the thor and see if it can describe what items I am holding. After that I am going to start 3D printing some pieces to build the robot body and order basic servos only to get it to move. Is this a feasible idea on the jetson thor? I'm a 21 year old living in his mom's basement and I don't have any background in AI or python (Grok helped me learn basic python within an hour to make the first script) but I have been developing applications with C# and .NET since I was 15 so I feel like this isn't a pie in the sky idea. I also want to document my entire journey on youtube building and training the robot. Is this journey something people will be willing to watch? Thank you❤️
 
-🔗 [youtube.com](https://youtube.com/shorts/578d_D-5vOw?si=vzp2e862OYmaZJWK) • 2h ago
+🔗 [youtube.com](https://youtube.com/shorts/578d_D-5vOw?si=vzp2e862OYmaZJWK) • 3h ago
 
 ---
 
@@ -89,20 +105,6 @@ I am final year robotics engineer . In industry I want a career as a simulation 
 **[First build](https://www.reddit.com/r/robotics/comments/1qq7xso/first_build/)**
 
 Working on my first robotics build at the moment and easing my way into it. Any pointers or tips would be greatly appreciated. This is what I have for hardware so far.
-
-1d ago
-
----
-
-**[Gripper Design Competition](https://www.reddit.com/r/robotics/comments/1qqxq41/gripper_design_competition/)**
-
-Kikobot is running a gripper design challenge focused on real-world mechanical design and manufacturability. Open to students and makers. Details in the poster. https://preview.redd.it/06yevmmhjfgg1.jpeg?width=1587&format=pjpg&auto=webp&s=46e8b3b08860ce2ed098219f80366843d43d7f50
-
-8h ago
-
----
-
-**[Figure 03 handling glassware, fully autonomous](https://www.reddit.com/r/robotics/comments/1qpn1dq/figure_03_handling_glassware_fully_autonomous/)**
 
 1d ago
 
@@ -128,11 +130,43 @@ Sky News • 1d ago
 
 ---
 
-**[Tesla discontinues Model X and S vehicles as Elon Musk pivots to robotics](https://www.theguardian.com/technology/2026/jan/28/tesla-q4-earnings-estimates-elon-musk)**
+**[Tesla cuts car models in shift to robots and AI](https://www.bbc.com/news/articles/c620177qdg5o)**
 
-Musk’s optimism for Optimus robot demand help EV maker beat quarterly expectations despite first-ever yearly revenue decline
+Multi-billionaire Elon Musk also announced plans to end production of its Model S and Model X vehicles.
 
-The Guardian • 1d ago
+BBC • 1d ago
+
+---
+
+**[Watch China’s humanoid robots walk out of crates like Matrix scene](https://interestingengineering.com/ai-robotics/limx-humanoid-robots-walk-out-of-crates)**
+
+LimX Dynamics showcased what it calls the world’s first practical autonomous deployment of humanoid robots, with 18 units operating without human control.
+
+Interesting Engineering • 3d ago
+
+---
+
+**[The lonely promise of cute robots](https://www.theverge.com/column/870438/optimizer-mirumi-loneliness-social-companion-robots)**
+
+Mirumi is adorably boring, unless you’re my cat.
+
+The Verge • 2m ago
+
+---
+
+**[New York Robotics launches with 160 startups in its ecosystem](https://www.therobotreport.com/new-york-robotics-launches-160-startups-ecosystem/)**
+
+New York Robotics is launching with over 80 industry partners, 20 academic partners, 40 robotics labs, and over 300 venture capital partners.
+
+The Robot Report • 42m ago
+
+---
+
+**[Watch awkward Chinese humanoid robot lay it all down on the dance floor](https://www.livescience.com/technology/robotics/watch-chinese-humanoid-robot-adam-u-ultra-dance-without-missing-a-beat-in-eerie-new-video)**
+
+The model demonstrated remarkable precision, stability and speed across a highly complex dance routine.
+
+Live Science • 2h ago
 
 ---
 
@@ -140,55 +174,21 @@ The Guardian • 1d ago
 
 By providing access to critical infrastructure — from simulation frameworks to AI models — NVIDIA is enabling collaborative development that accelerates the path to safer, more capable autonomous systems.
 
-NVIDIA Blog • 21h ago
+NVIDIA Blog • 22h ago
 
 ---
 
-**[China rolls out robot cops in cities to push humanoid robots in daily life](https://www.nbcnews.com/video/china-rolls-out-robot-cops-in-cities-to-push-humanoid-robots-in-daily-life-256872517804)**
+**[Lightspeed Backs Robotics Startup in $100 Million Round](https://www.bloomberg.com/news/articles/2026-01-29/fiat-toyota-tycoons-back-startup-robco-in-100-million-round)**
 
-China is deploying AI-powered robots to manage traffic and pedestrian flow in cities. NBC News’ Janis Mackey Frayer explains how China continues to advance robot technology and is pushing to integrate humanoid robots into daily life.
-
-NBC News • 11h ago
+Bloomberg • 23h ago
 
 ---
 
-**[Another App Store For Robots Launches, Will Have ‘Thousands Of Apps’](https://www.forbes.com/sites/johnkoetsier/2026/01/29/another-app-store-for-robots-launches-will-have-thousands-of-apps/)**
+**[Crew Studies Robotics and Virtual Reality Advancing Space Tech](https://www.nasa.gov/blogs/spacestation/2026/01/27/crew-studies-robotics-and-virtual-reality-advancing-space-tech/)**
 
-Robots are getting more and more common. Now we're getting robot app stores so we can download new skills and abilities for our robots ...
+Robotics and virtual reality filled the science schedule aboard the International Space Station on Tuesday as the Expedition 74 crew promoted education and explored human research. The orbital trio also inspected safety equipment, worked on cargo swaps, and conducted Earth observations.
 
-Forbes • 16h ago
-
----
-
-**[ABB Robotics seeks to standardize measurement of robot energy consumption](https://www.therobotreport.com/abb-robotics-standardizes-measurement-robot-energy-consumption/)**
-
-ABB Robotics said new energy consumption measurement will allow end users to make more informed decisions and support sustainability efforts.
-
-The Robot Report • 23h ago
-
----
-
-**[Richtech Robotics soars after announcing partnership with Microsoft to use AI to improve its robots](https://sherwood.news/markets/richtech-robotics-soars-after-announcing-partnership-with-microsoft-to-use/)**
-
-The most momentous day for ADAM since serving Jensen Huang a margarita....
-
-Sherwood News • 3d ago
-
----
-
-**[BREAKING: Microsoft Denies Partnership with Richtech Robotics](https://hntrbrk.com/richtech-robotics/)**
-
-Beep, boop, fraud?
-
-Hunterbrook • 21h ago
-
----
-
-**[Richtech Robotics retreats after stock sale following Microsoft partnership](https://www.tradingview.com/news/reuters.com,2026:newsml_L6N3YT1A9:0-richtech-robotics-retreats-after-stock-sale-following-microsoft-partnership/)**
-
-** Shares of Richtech Robotics NASDAQ:RR down 10.4% to $4.95 on Weds after it raises equity on heels of announcing partnership with Microsoft NASDAQ:MSFT** AI-driven service robots provider early Weds said it sold 8.5 mln shares to an institutional investor in private placement for gross proceeds o…
-
-TradingView • 1d ago
+NASA (.gov) • 2d ago
 
 ---
 
@@ -202,7 +202,7 @@ China is deploying AI-powered robots to manage traffic and pedestrian flow in ci
 
 📺 NBC News
 
-👁️ 33K • 👍 463 • 💬 178 • ⏱️ 3:13 • 11h ago
+👁️ 33K • 👍 463 • 💬 178 • ⏱️ 3:13 • 12h ago
 
 ---
 
@@ -222,7 +222,7 @@ TeslaOptimus #ElonMusk #FuturisticTech #RobotBoots #HighTechBoots #AIRobot #gree
 
 📺 AITECHGADGETS
 
-👁️ 375 • 💬 1 • ⏱️ 0:17 • 2h ago
+👁️ 375 • 💬 1 • ⏱️ 0:17 • 3h ago
 
 ---
 
@@ -280,7 +280,7 @@ Hyundai is planning to place 30000 humanoid robots in its factories. We talked t
 
 📺 QCT
 
-👁️ 1K • 👍 19 • 💬 2 • ⏱️ 0:22 • 14h ago
+👁️ 1K • 👍 19 • 💬 2 • ⏱️ 0:22 • 15h ago
 
 ---
 
