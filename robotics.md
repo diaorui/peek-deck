@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-01-30T09:39:38.963305+00:00'
+updated: '2026-01-30T10:36:00.742340+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
 - social
-- videos
 - news
+- videos
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** January 30, 2026 at 09:39 UTC  
+**Last Updated:** January 30, 2026 at 10:36 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -36,7 +36,7 @@ Robotics research and industry news
 
 Ant Group released LingBot-VA, a VLA built on a different premise than most current approaches: instead of directly mapping observations to actions, first predict what the future should look like, then infer what action causes that transition. The model uses a 5.3B video diffusion backbone (Wan2.2) as a "world model" to predict future frames, then decodes actions via inverse dynamics. Everything runs through GPT style autoregressive generation with KV-cache — no chunk-based diffusion, so the robot maintains persistent memory across the full trajectory and respects causal ordering (past → present → future). Results on standard benchmarks: 92.9% on RoboTwin Easy (vs 82.7% for π0.5), 91.6% on Hard (vs 76.8%), 98.5% on LIBERO-Long. The biggest gains show up on long-horizon tasks and anything requiring temporal memory — counting repetitions, remembering past observations, etc. Sample efficiency is a key claim: 50 demos for deployment, and even 10 demos outperforms π0.5 by 10-15%. They attribute this to the video backbone providing strong physical priors. For inference speed, they overlap prediction with execution using async inference plus a forward dynamics grounding step. 2× speedup with no accuracy drop.
 
-8h ago
+9h ago
 
 ---
 
@@ -44,13 +44,21 @@ Ant Group released LingBot-VA, a VLA built on a different premise than most curr
 
 Setup: 2 x Super-Beacons - a few meters away on the walls of the room - as stationary beacons emitting short ultrasound pulses 1 x Mini-RX as a mobile beacon in hands - receiving ultrasound pulses from the stationary beacons 1 x Modem as central controller of the system - connected by the white USB cable from the laptop - synchronizes the clocks between all elements, controls the telemetry, and the system overall The Dashboard on the computer doesn't calculate anything; it just displays the tracking. The location is calculated by the mobile beacon in hand and then streamed over USB to show on the display Inverse Architecture: https://marvelmind.com/pics/architectures_comparison.pdf
 
-3h ago
+4h ago
 
 ---
 
 **[We trained the yolo model with custom data set to detect head from top view.this needs to reply on bus to count passenger count.it deployed on pi4 with 8gb and data is trained on 25k images](https://www.reddit.com/r/robotics/comments/1qqtoa0/we_trained_the_yolo_model_with_custom_data_set_to/)**
 
-6h ago
+7h ago
+
+---
+
+**[F.02 Contributed to the Production of 30,000 Cars at BMW](https://www.reddit.com/r/robotics/comments/1qr0bbn/f02_contributed_to_the_production_of_30000_cars/)**
+
+Figure AI has released the final data from their 11-month deployment at BMW's Spartanburg plant. The 'Figure 02' humanoid robots worked 10-hour shifts, Monday to Friday, contributing to the production of over 30,000 BMW X3s. They loaded 90,000+ sheet metal parts with a <5mm tolerance, logging over 200 miles of walking. With Figure 02 now retiring, these lessons are being rolled into the new Figure 03.
+
+🔗 [FigureAI](https://www.figure.ai/news/production-at-bmw) • 1h ago
 
 ---
 
@@ -58,15 +66,7 @@ Setup: 2 x Super-Beacons - a few meters away on the walls of the room - as stati
 
 The overall goal is to lower the barrier to entry for soft robotics and provide an alternative approach to building robotic systems. One way to achieve this is by using widely available tools such as FDM 3D printers. The concept centers on a 3D‑printable film used to create inflatable bags. These bags can be stacked to form pneumatic, bellows‑style linear artificial muscles. A tendon‑driven actuator is then assembled around these muscles to create functional motion. The next phase focuses on integration. A 3D‑printed sleeve guides each modular muscle during inflation, and different types of skeletons—human, dog, or frog—can be printed while reusing the same muscle modules across all designs. You can see the experiments with the bags here: https://www.youtube.com/playlist?list=PLF9nRnkMqNpZ-wNNfvy_dFkjDP2D5Q4OO I am looking for groups, labs, researchers, and students working in soft robotics who could provide comments and general feedback on this approach, as well as guidance on developing a complete framework (including workflows, designs, and simulations).
 
-7h ago
-
----
-
-**[Please Subscribe to my YouTube to see my New Robotics Project! (Pretty Advanced) | as Former Electrical student](https://www.reddit.com/r/robotics/comments/1qqzydj/please_subscribe_to_my_youtube_to_see_my_new/)**
-
-Hey guys. This is my YouTube channel where I build pretty crazy robots. I am about to begin some more advanced projects, utilizing pneumatic actuators and compressed air. I am trying to hit 1000 subscribers before my watch hours begin lapsing over/ expiring in these next 2 months. My next project is pretty big in comparison to my previous ones. You can see when it comes out -Above are some of the parts I am going to use (I had to do some research about solenoids, actuators, 5/2, 4/2, etc) My name is Isaias, I have a two year degree in engineering and physics and was last studying Electrical Engineering. I know basic circuit theory, and pretty much completed all of my fundamental science courses. I also taught myself advanced topics at home, such as radio communication, prototyping. I am pretty self motivated when it comes to learning, Well, anyways I thought you would find my channel interesting. This is my first time doing robotics in this sense; I've mostly done electrical stuff before. So I might ask questions if I run into any issues down the road, Thanks, Isaias
-
-1h ago
+8h ago
 
 ---
 
@@ -82,7 +82,7 @@ I am final year robotics engineer . In industry I want a career as a simulation 
 
 Working on my first robotics build at the moment and easing my way into it. Any pointers or tips would be greatly appreciated. This is what I have for hardware so far.
 
-20h ago
+21h ago
 
 ---
 
@@ -90,7 +90,7 @@ Working on my first robotics build at the moment and easing my way into it. Any 
 
 Kikobot is running a gripper design challenge focused on real-world mechanical design and manufacturability. Open to students and makers. Details in the poster. https://preview.redd.it/06yevmmhjfgg1.jpeg?width=1587&format=pjpg&auto=webp&s=46e8b3b08860ce2ed098219f80366843d43d7f50
 
-3h ago
+4h ago
 
 ---
 
@@ -104,7 +104,7 @@ Kikobot is running a gripper design challenge focused on real-world mechanical d
 
 I'm trying to learn the basics of Mujoco and RL through teaching a panda arm to place boxes into color coordinated buckets. I'm having a lot of trouble getting it to learn. Does anyone have any guides or know of existing projects I can use to guide me? This is my current environment. https://preview.redd.it/pkckdasgodgg1.png?width=922&format=png&auto=webp&s=07365fbdf62558f4017f5943ed92e172ed60d9b3
 
-9h ago
+10h ago
 
 ---
 
@@ -112,61 +112,19 @@ I'm trying to learn the basics of Mujoco and RL through teaching a panda arm to 
 
 ## Google News: "robotics"
 
-**[Tesla lurches into the Musk robotics era](https://www.ft.com/content/6a6cfa00-6f51-4abc-bd68-1738580bd2c5)**
+**[Into the Omniverse: Physical AI Open Models and Frameworks Advance Robots and Autonomous Systems](https://blogs.nvidia.com/blog/physical-ai-open-models-robot-autonomous-systems-omniverse/)**
 
-Future of the company lies in equipping and running a global fleet of driverless taxis and in selling humanoid robots
+By providing access to critical infrastructure — from simulation frameworks to AI models — NVIDIA is enabling collaborative development that accelerates the path to safer, more capable autonomous systems.
 
-Financial Times • 21h ago
-
----
-
-**[Tesla doubles spending with $20B AI and robotics push](https://finance.yahoo.com/news/tesla-doubles-spending-20b-ai-161254007.html)**
-
-Record investment marks a shift away from traditional EVs toward automation.
-
-Yahoo Finance • 17h ago
+NVIDIA Blog • 17h ago
 
 ---
 
-**[Watch China’s humanoid robots walk out of crates like Matrix scene](https://interestingengineering.com/ai-robotics/limx-humanoid-robots-walk-out-of-crates)**
+**[Richtech Robotics soars after announcing partnership with Microsoft to use AI to improve its robots](https://sherwood.news/markets/richtech-robotics-soars-after-announcing-partnership-with-microsoft-to-use/)**
 
-LimX Dynamics showcased what it calls the world’s first practical autonomous deployment of humanoid robots, with 18 units operating without human control.
+The most momentous day for ADAM since serving Jensen Huang a margarita....
 
-Interesting Engineering • 2d ago
-
----
-
-**[Lightspeed Backs Robotics Startup in $100 Million Round](https://www.bloomberg.com/news/articles/2026-01-29/fiat-toyota-tycoons-back-startup-robco-in-100-million-round)**
-
-Bloomberg • 17h ago
-
----
-
-**[Crew Studies Robotics and Virtual Reality Advancing Space Tech](https://www.nasa.gov/blogs/spacestation/2026/01/27/crew-studies-robotics-and-virtual-reality-advancing-space-tech/)**
-
-Robotics and virtual reality filled the science schedule aboard the International Space Station on Tuesday as the Expedition 74 crew promoted education and explored human research. The orbital trio also inspected safety equipment, worked on cargo swaps, and conducted Earth observations.
-
-NASA (.gov) • 2d ago
-
----
-
-**[Ondas' American Robotics Optimus Drone Approved for Rapid Federal Procurement via DCMA Blue UAS Cleared List](https://ir.ondas.com/press-releases/detail/275/ondas-american-robotics-optimus-drone-approved-for-rapid)**
-
-Ondas Holdings • 1d ago
-
----
-
-**[Synthetic 'muscle' with microfluidic blood vessels shows promise for soft robotics](https://techxplore.com/news/2026-01-synthetic-muscle-microfluidic-blood-vessels.html)**
-
-Tech Xplore • 2d ago
-
----
-
-**[Lee calls on workers to swiftly adapt to 'unavoidable' AI robotics era](https://www.koreatimes.co.kr/southkorea/politics/20260129/lee-calls-on-workers-to-swiftly-adapt-to-unavoidable-ai-robotics-era)**
-
-President Lee Jae Myung said Thursday that workers must adapt swiftly to the era of artificial intelligence (AI), in an apparent message to Hyundai...
-
-koreatimes.co.kr • 21h ago
+Sherwood News • 2d ago
 
 ---
 
@@ -174,7 +132,7 @@ koreatimes.co.kr • 21h ago
 
 Beep, boop, fraud?
 
-Hunterbrook • 16h ago
+Hunterbrook • 17h ago
 
 ---
 
@@ -183,6 +141,54 @@ Hunterbrook • 16h ago
 ** Shares of Richtech Robotics NASDAQ:RR down 10.4% to $4.95 on Weds after it raises equity on heels of announcing partnership with Microsoft NASDAQ:MSFT** AI-driven service robots provider early Weds said it sold 8.5 mln shares to an institutional investor in private placement for gross proceeds o…
 
 TradingView • 1d ago
+
+---
+
+**[China rolls out robot cops in cities to push humanoid robots in daily life](https://www.nbcnews.com/video/china-rolls-out-robot-cops-in-cities-to-push-humanoid-robots-in-daily-life-256872517804)**
+
+China is deploying AI-powered robots to manage traffic and pedestrian flow in cities. NBC News’ Janis Mackey Frayer explains how China continues to advance robot technology and is pushing to integrate humanoid robots into daily life.
+
+NBC News • 7h ago
+
+---
+
+**[ABB Robotics seeks to standardize measurement of robot energy consumption](https://www.therobotreport.com/abb-robotics-standardizes-measurement-robot-energy-consumption/)**
+
+ABB Robotics said new energy consumption measurement will allow end users to make more informed decisions and support sustainability efforts.
+
+The Robot Report • 19h ago
+
+---
+
+**[York Library launches digital learning lab, adds robotics workshops](https://www.yahoo.com/news/articles/york-library-launches-digital-learning-100120227.html)**
+
+York Library will offer a five‑week Beginning VEX Robotics workshop for students in grades 4–6 from Jan. 26 through March 4.
+
+Yahoo • 34m ago
+
+---
+
+**[Tesla lurches into the Musk robotics era](https://www.ft.com/content/6a6cfa00-6f51-4abc-bd68-1738580bd2c5)**
+
+Future of the company lies in equipping and running a global fleet of driverless taxis and in selling humanoid robots
+
+Financial Times • 22h ago
+
+---
+
+**[Tesla axes EV models in drive for robotics revenue](https://news.sky.com/story/tesla-axes-ev-models-in-drive-for-robotics-revenue-13500444)**
+
+Investors liked what they heard about the future following the company's latest results, but Elon Musk is under huge pressure to deliver on his vision as a series of targets have been missed.
+
+Sky News • 1d ago
+
+---
+
+**[Tesla discontinues Model X and S vehicles as Elon Musk pivots to robotics](https://www.theguardian.com/technology/2026/jan/28/tesla-q4-earnings-estimates-elon-musk)**
+
+Musk’s optimism for Optimus robot demand help EV maker beat quarterly expectations despite first-ever yearly revenue decline
+
+The Guardian • 1d ago
 
 ---
 
@@ -196,7 +202,7 @@ China is deploying AI-powered robots to manage traffic and pedestrian flow in ci
 
 📺 NBC News
 
-👁️ 18K • 👍 223 • 💬 91 • ⏱️ 3:13 • 6h ago
+👁️ 18K • 👍 223 • 💬 91 • ⏱️ 3:13 • 7h ago
 
 ---
 
@@ -226,7 +232,7 @@ Tesla's fourth quarter earnings topped analyst estimates. CEO Elon Musk is betti
 
 📺 Yahoo Finance
 
-👁️ 5K • 👍 101 • 💬 21 • ⏱️ 12:20 • 10h ago
+👁️ 5K • 👍 101 • 💬 21 • ⏱️ 12:20 • 11h ago
 
 ---
 
