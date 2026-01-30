@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-01-30T21:50:05.702174+00:00'
+updated: '2026-01-30T22:27:29.731348+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- news
 - videos
-- social
 - cryptocurrency
+- social
+- news
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** January 30, 2026 at 21:50 UTC  
+**Last Updated:** January 30, 2026 at 22:27 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -80,7 +80,7 @@ In these five years, the Ethereum Foundation is entering a period of mild auster
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-15h ago
+16h ago
 
 ---
 
@@ -104,7 +104,7 @@ It was some time ago that ETH went from proof of work to proof of stake. At the 
 
 Can someone explain to me like I am a 5 year old what tokenizing commodities is? From my understanding, for example, (just an example) 1 bar of gold is tokenized on a coin. That coin gives me the right and true ownership of 1 bar of gold, but who owns that bar of gold? Can I just go to a gold issuer and show them my coin that I am entitled to a bar of gold? How does that portion actually work?
 
-1h ago
+2h ago
 
 ---
 
@@ -112,7 +112,7 @@ Can someone explain to me like I am a 5 year old what tokenizing commodities is?
 
 Fidelity Investments FIDD stablecoin, TheDAO Security Fund, Hegotá upgrade headliner proposals
 
-🔗 [ethereal.news](https://ethereal.news/ethereal-news-weekly-9/) • 8h ago
+🔗 [ethereal.news](https://ethereal.news/ethereal-news-weekly-9/) • 9h ago
 
 ---
 
@@ -164,7 +164,7 @@ CoinDesk • 12h ago
 
 The Ethereum co-founder wants to pursue an “aggressive” roadmap that will strengthen its status as a decentralized world computer.
 
-Decrypt • 4h ago
+Decrypt • 5h ago
 
 ---
 
@@ -172,7 +172,7 @@ Decrypt • 4h ago
 
 Ethereum co-founder Vitalik Buterin has withdrawn 16,384 ETH, worth roughly $44.5 million at current prices, as the Ethereum Foundation enters what he described as a period of “mild austerity.”In a post published on X, Buterin said the Ethereum Foundation is adjusting its spending approach to meet two parallel goals. In ...
 
-Yahoo Finance • 7h ago
+Yahoo Finance • 8h ago
 
 ---
 
@@ -194,13 +194,13 @@ CoinDesk • 1d ago
 
 **[Key facts: DAO Security Fund to Stake 75,000 ETH; Ethereum Price Fluctuates](https://www.tradingview.com/news/tradingview:514dc07817206:0-key-facts-dao-security-fund-to-stake-75-000-eth-ethereum-price-fluctuates/)**
 
-TradingView • 21h ago
+TradingView • 22h ago
 
 ---
 
 **[Bitcoin, XRP, Ethereum Fall on News of Kevin Warsh Fed Appointment.](https://www.barrons.com/articles/bitcoin-xrp-ethereum-crypto-today-954298d9?gaa_at=eafs&gaa_n=AWEtsqe6GcvKc_TDg8aHPytJCfCsIpPM_7OALGK4jAVyFbrzJWqdzsJpXpkS&gaa_ts=697d2afb&gaa_sig=Wo9MFMWuY07AdUFnR0N5V4Ss80A6fU15dwbxQlBzAdj2gN-GOssTwS14F0R7Y3pRu4nr4K2mb1qUPtQm4em3kA%3D%3D)**
 
-Barron's • 3h ago
+Barron's • 4h ago
 
 ---
 
@@ -248,7 +248,7 @@ This video provides a professional Elliott Wave and technical analysis of Ethere
 
 📺 More Crypto Online
 
-👁️ 2K • 👍 125 • 💬 6 • ⏱️ 4:32 • 8h ago
+👁️ 2K • 👍 125 • 💬 6 • ⏱️ 4:32 • 9h ago
 
 ---
 
@@ -288,7 +288,7 @@ ETHEREUM ETH PRICE PREDICTION 2026 Join the Premium Signal Group for trade setup
 
 📺 Cilinix Crypto
 
-👁️ 697 • 👍 26 • 💬 1 • ⏱️ 5:29 • 11h ago
+👁️ 697 • 👍 26 • 💬 1 • ⏱️ 5:29 • 12h ago
 
 ---
 
@@ -308,7 +308,7 @@ BITCOIN & ALTCOIN CRASH: History Repeating (Warning)!!! - Bitcoin News Today, Et
 
 📺 Crypto World
 
-👁️ 12K • 👍 381 • 💬 172 • ⏱️ 25:22 • 23h ago
+👁️ 12K • 👍 381 • 💬 172 • ⏱️ 25:22 • 1d ago
 
 ---
 
@@ -318,7 +318,7 @@ JOIN THE FAMILY: http://www.patreon.com/investanswers IA MODELS: https://investa
 
 📺 InvestAnswers
 
-👁️ 2K • 👍 233 • 40m ago
+👁️ 2K • 👍 233 • 1h ago
 
 ---
 

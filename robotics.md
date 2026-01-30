@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-01-30T21:50:05.705429+00:00'
+updated: '2026-01-30T22:27:29.734542+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- news
 - videos
 - social
+- news
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** January 30, 2026 at 21:50 UTC  
+**Last Updated:** January 30, 2026 at 22:27 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -36,7 +36,7 @@ Robotics research and industry news
 
 I’m building a humanoid robot from scratch and this is how it looks so far. The hand is finished, and i’m currently working on the torso.
 
-7h ago
+8h ago
 
 ---
 
@@ -44,7 +44,7 @@ I’m building a humanoid robot from scratch and this is how it looks so far. Th
 
 Setup: 2 x Super-Beacons - a few meters away on the walls of the room - as stationary beacons emitting short ultrasound pulses 1 x Mini-RX as a mobile beacon in hands - receiving ultrasound pulses from the stationary beacons 1 x Modem as central controller of the system - connected by the white USB cable from the laptop - synchronizes the clocks between all elements, controls the telemetry, and the system overall The Dashboard on the computer doesn't calculate anything; it just displays the tracking. The location is calculated by the mobile beacon in hand and then streamed over USB to show on the display Inverse Architecture: https://marvelmind.com/pics/architectures_comparison.pdf
 
-15h ago
+16h ago
 
 ---
 
@@ -60,13 +60,13 @@ Ant Group released LingBot-VA, a VLA built on a different premise than most curr
 
 ROS News for the Week of January 25th, 2026                We have a ton of ROS and open source robotics events schedule for February and the tail end of January. This weekend is  FOSDEM which includes a new Robot Dev Room. Full list below in the events section.  Unrelated: Discourse released a new carousel feature for image grids. Learn more here.      This week @tnajjar merged a very nice UX upgrade for the ROS CLI: fuzzy finding! Now you can just type any part of a command string and see ever...
 
-🔗 [Open Robotics Discourse](https://discourse.openrobotics.org/t/ros-news-for-the-week-of-january-25th-2026/52232) • 43m ago
+🔗 [Open Robotics Discourse](https://discourse.openrobotics.org/t/ros-news-for-the-week-of-january-25th-2026/52232) • 1h ago
 
 ---
 
 **[We trained the yolo model with custom data set to detect head from top view.this needs to reply on bus to count passenger count.it deployed on pi4 with 8gb and data is trained on 25k images](https://www.reddit.com/r/robotics/comments/1qqtoa0/we_trained_the_yolo_model_with_custom_data_set_to/)**
 
-18h ago
+19h ago
 
 ---
 
@@ -74,13 +74,13 @@ ROS News for the Week of January 25th, 2026                We have a ton of ROS 
 
 I've noticed that many of the labs and data collectors have been switching to YAMs. There are so many different leader follower setups. If you bought YAMs or any other kind of arms and are doing teleop, what convinced you one way or another? I've also noticed that there are alot of exoskeletons and UMIs, if you decided to go in any of these other directions would be curious to hear your take as well.
 
-1h ago
+2h ago
 
 ---
 
 **[NEMA17 stepper jitters and overheats when driven by DM542T + arduino](https://www.reddit.com/r/robotics/comments/1qr9d6j/nema17_stepper_jitters_and_overheats_when_driven/)**
 
-5h ago
+6h ago
 
 ---
 
@@ -96,7 +96,7 @@ The overall goal is to lower the barrier to entry for soft robotics and provide 
 
 Figure AI has released the final data from their 11-month deployment at BMW's Spartanburg plant. The 'Figure 02' humanoid robots worked 10-hour shifts, Monday to Friday, contributing to the production of over 30,000 BMW X3s. They loaded 90,000+ sheet metal parts with a <5mm tolerance, logging over 200 miles of walking. With Figure 02 now retiring, these lessons are being rolled into the new Figure 03.
 
-🔗 [FigureAI](https://www.figure.ai/news/production-at-bmw) • 12h ago
+🔗 [FigureAI](https://www.figure.ai/news/production-at-bmw) • 13h ago
 
 ---
 
@@ -104,7 +104,7 @@ Figure AI has released the final data from their 11-month deployment at BMW's Sp
 
 Hi everyone 👋 I’m working on a small AGV robot and I’m currently stuck at the software side of path planning. I’d really appreciate some guidance or best practices from people who’ve done this before. My current setup AGV size: 250 × 250 mm Workspace: small indoor environment Overhead camera (fixed) AprilTags / ArUco tags placed on the floor Tag spacing: 0.5 meter Current grid: 7 × 6 = 42 tags Robot is detected using the center tag under the robot Goal (Stage 1 – very basic) For now, I don’t want to include obstacles. I want: User gives a start node and end node Robot computes the shortest path Robot follows that path physically I’ve decided to use the A* algorithm, but I’m confused about the input representation and data structure. Where I’m stuck How should I represent the environment? 2D grid array? Graph with nodes and edges? Tag IDs mapped to coordinates? How should I store values for A\* in this simple case? What should be the node value? How to define neighbors (up/down/left/right)? How to map real-world distances (0.5 m spacing) to cost? Is it better to: Use grid indices (row, col) and map them later to real coordinates? Or directly use real-world (x, y) coordinates? What I plan to add later Obstacles Dynamic path updates Possibly ROS integration But for now, I want to get the fundamentals right. If anyone has: Simple examples Pseudocode Suggestions on data structures Or advice on how you approached this in your own AGV projects I’d really appreciate it 🙏 Thanks in advance!
 
-7h ago
+8h ago
 
 ---
 
@@ -140,7 +140,7 @@ Financial Times • 1d ago
 
 Musk’s optimism for Optimus robot demand help EV maker beat quarterly expectations despite first-ever yearly revenue decline
 
-The Guardian • 1d ago
+The Guardian • 2d ago
 
 ---
 
@@ -196,7 +196,7 @@ China is deploying AI-powered robots to manage traffic and pedestrian flow in ci
 
 📺 NBC News
 
-👁️ 139K • 👍 2K • 💬 768 • ⏱️ 3:13 • 18h ago
+👁️ 139K • 👍 2K • 💬 768 • ⏱️ 3:13 • 19h ago
 
 ---
 

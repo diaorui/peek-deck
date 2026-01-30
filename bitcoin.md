@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-01-30T21:50:05.696154+00:00'
+updated: '2026-01-30T22:27:29.725352+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- news
 - videos
-- social
 - cryptocurrency
+- social
+- news
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** January 30, 2026 at 21:50 UTC  
+**Last Updated:** January 30, 2026 at 22:27 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -79,7 +79,7 @@ Rank #1
 
 **[Soo, who all is buying?](https://www.reddit.com/r/Bitcoin/comments/1qr6njb/soo_who_all_is_buying/)**
 
-7h ago
+8h ago
 
 ---
 
@@ -101,19 +101,19 @@ I wish I had more liquidity!
 
 The deal will be too good to pass at that point.
 
-5h ago
+6h ago
 
 ---
 
 **[Pack yo bags — bullish for BTC. Who's locking in with me ?](https://www.reddit.com/r/Bitcoin/comments/1qr6uah/pack_yo_bags_bullish_for_btc_whos_locking_in_with/)**
 
-7h ago
+8h ago
 
 ---
 
 **[Kevin Warsh's view on Bitcoin:](https://www.reddit.com/r/Bitcoin/comments/1qr7vmx/kevin_warshs_view_on_bitcoin/)**
 
-6h ago
+7h ago
 
 ---
 
@@ -151,7 +151,7 @@ Red candles everywhere, BTC dipping hard. Paper hands sweating. Headlines scream
 
 Warsh has praised bitcoin as a tool to guide policy, not as a competitor to the dollar.
 
-Yahoo Finance • 6h ago
+Yahoo Finance • 7h ago
 
 ---
 
@@ -165,7 +165,7 @@ CoinDesk • 5h ago
 
 **[Bitcoin Slumps to Two-Month Low as US Funds Shed Billions](https://www.bloomberg.com/news/articles/2026-01-30/bitcoin-btc-slumps-to-two-month-low-as-us-funds-shed-billions)**
 
-Bloomberg.com • 5h ago
+Bloomberg.com • 6h ago
 
 ---
 
@@ -173,7 +173,7 @@ Bloomberg.com • 5h ago
 
 Amboss Technologies launched RailsX, a Lightning-native, peer-to-peer (P2P) decentralized exchange, at the PlanB Forum in El Salvador on Jan. 30, 2026. Unlike other exchanges that build separate protocol layers, RailsX executes trades entirely via the Lightning Network. Transactions work as circular self-payments: funds route through existing Lightning channels, exchange assets ...
 
-Yahoo Finance • 1h ago
+Yahoo Finance • 2h ago
 
 ---
 
@@ -221,7 +221,7 @@ Investing.com • 7h ago
 
 Bitcoin also suffered roughly $800 million in liquidations and ETF outflows in the past 24 hours....
 
-Sherwood News • 5h ago
+Sherwood News • 6h ago
 
 ---
 
@@ -255,7 +255,7 @@ A list of known attacks against Bitcoin / crypto asset owning entities that occu
 
 Examine why the Binance SAFU fund debate keeps resurfacing, how stablecoins signal safety, and why Bitcoin continues to dominate trust conversations.
 
-⬆️ 1 • 💬 0 • 12h ago • [Altcoin Desk](https://altcoindesk.com/perspectives/1b-binance-safu-fund-if-stablecoins-mean-safety-why-do-bitcoin-returns/article-22752/)
+⬆️ 1 • 💬 0 • 13h ago • [Altcoin Desk](https://altcoindesk.com/perspectives/1b-binance-safu-fund-if-stablecoins-mean-safety-why-do-bitcoin-returns/article-22752/)
 
 ---
 
@@ -293,7 +293,7 @@ Transform HN comment threads into executive intelligence. AI analyzes discussion
 
 20 years of Hacker News analyzed. 40M comments. 10,000 topics. What the tech community really thinks.
 
-⬆️ 3 • 💬 0 • 5h ago • [HN Zeitgeist](https://hn.mrzepa.com/)
+⬆️ 3 • 💬 0 • 6h ago • [HN Zeitgeist](https://hn.mrzepa.com/)
 
 ---
 
@@ -313,7 +313,7 @@ Central banks are selling Treasuries and hoarding gold at record levels as trust
 
 📺 Swan Bitcoin
 
-👁️ 15K • 👍 880 • 💬 149 • ⏱️ 14:55 • 7h ago
+👁️ 15K • 👍 880 • 💬 149 • ⏱️ 14:55 • 8h ago
 
 ---
 
@@ -393,7 +393,7 @@ Bitcoin #Crypto #Finance Bitcoin, gold, and silver are all breaking down at the 
 
 📺 The Wolf Of All Streets
 
-👁️ 17K • 👍 1K • 💬 230 • ⏱️ 40:13 • 5h ago
+👁️ 17K • 👍 1K • 💬 230 • ⏱️ 40:13 • 6h ago
 
 ---
 
