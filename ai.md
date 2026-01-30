@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-01-30T17:35:06.762268+00:00'
+updated: '2026-01-30T18:44:08.644214+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- social
-- videos
 - news
 - repositories
+- social
+- videos
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** January 30, 2026 at 17:35 UTC  
+**Last Updated:** January 30, 2026 at 18:44 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -37,11 +37,17 @@ AI news, discussions, and developments
 
 ## Reddit: r/artificial
 
+**[The debate over artificial intelligence and employment](https://www.reddit.com/r/artificial/comments/1qrb5dt/the_debate_over_artificial_intelligence_and/)**
+
+🔗 [technology.org](https://www.technology.org/2026/01/28/the-debate-over-artificial-intelligence-and-employment/) • 1h ago
+
+---
+
 **[China conditionally approves DeepSeek to buy Nvidia's H200 chips](https://www.reddit.com/r/artificial/comments/1qr1m9o/china_conditionally_approves_deepseek_to_buy/)**
 
 ByteDance, Alibaba and Tencent had been given permission to purchase more than 400,000 H200 chips in total.
 
-🔗 [thestandard.com.hk](https://www.thestandard.com.hk/china-news/article/323159/China-conditionally-approves-DeepSeek-to-buy-Nvidias-H200-chips) • 7h ago
+🔗 [thestandard.com.hk](https://www.thestandard.com.hk/china-news/article/323159/China-conditionally-approves-DeepSeek-to-buy-Nvidias-H200-chips) • 8h ago
 
 ---
 
@@ -57,7 +63,7 @@ Hey everyone. I Just published a breakdown on Moltbot: the self-hosted, open-sou
 
 Amazon is reportedly in discussions to invest as much as $50 billion in OpenAI, as major technology firms race to secure access to advanced artificial intelligence systems.
 
-🔗 [techputs](https://techputs.com/amazon-openai-50-billion-investment-talks/) • 14h ago
+🔗 [techputs](https://techputs.com/amazon-openai-50-billion-investment-talks/) • 15h ago
 
 ---
 
@@ -65,7 +71,7 @@ Amazon is reportedly in discussions to invest as much as $50 billion in OpenAI, 
 
 This post introduces the concept of "two agentic loops": the inner loop that handles reasoning and tool use, while the outer loop handles everything that makes agents ready for production—orchestration, guardrails, observability, and bounded execution. The outer loop is real infrastructure that needs to be built and maintained independently. Plano implements this pattern as an AI-native proxy and data plane.
 
-🔗 [Plano](https://planoai.dev/blog/the-two-agentic-loops-how-to-design-and-scale-agentic-apps) • 19h ago
+🔗 [Plano](https://planoai.dev/blog/the-two-agentic-loops-how-to-design-and-scale-agentic-apps) • 20h ago
 
 ---
 
@@ -107,71 +113,9 @@ Amazon is laying off 16,000 employees as AI battle intensifies.[1] Google adds G
 
 ---
 
-**[Most Capable Photo to Video AI Tool?](https://www.reddit.com/r/artificial/comments/1qq9xbv/most_capable_photo_to_video_ai_tool/)**
-
-Hi all, looking for the most capable photo to video AI tool out currently. It could be paid, free or self hosted - just want something robust that can take a real photo and give it some motion without any wacky variances. A search of previous discussions are all over the place with recs, some of even already outdated. Looking for suggestions based on people’s most recent experience! Any help would be greatly appreciated!
-
-1d ago
-
----
-
 ---
 
 ## Google News: "ai"
-
-**[How AI assistance impacts the formation of coding skills](https://www.anthropic.com/research/AI-assistance-coding-skills)**
-
-Anthropic is an AI safety and research company that's working to build reliable, interpretable, and steerable AI systems.
-
-Anthropic • 21h ago
-
----
-
-**[Opinion | Young People Are Using A.I. to Skip the Hardest Part of Growing Up](https://www.nytimes.com/2026/01/30/opinion/ai-social-skills-relationships.html)**
-
-The New York Times • 7h ago
-
----
-
-**['ChatGPT saved my life.' How patients, and doctors, are using AI to make a diagnosis](https://www.npr.org/2026/01/30/nx-s1-5693219/chatgpt-chatbot-ai-health-medical-advice)**
-
-Hundreds of millions of people are turning to chatbots to help figure out what's wrong with them. Doctors say that's not always a bad thing. In fact, many are using it themselves.
-
-NPR • 2h ago
-
----
-
-**[Software stocks enter bear market on AI disruption fear with ServiceNow plunging 10%](https://www.cnbc.com/2026/01/29/software-stocks-enter-bear-market-on-ai-disruption-fear-with-servicenow-plunging-11percent-thursday.html)**
-
-The iShares Expanded Tech-Software Sector ETF is on pace for its biggest one-day decline since April 4 during the tariff-triggered downturn.
-
-CNBC • 1d ago
-
----
-
-**[Microsoft Q2 earnings beat, but stock plummets as investors fret on AI spend, cloud growth](https://finance.yahoo.com/news/microsoft-q2-earnings-beat-but-stock-plummets-as-investors-fret-on-ai-spend-cloud-growth-154618162.html)**
-
-Microsoft reported its second quarter earnings after the bell Wednesday.
-
-Yahoo Finance • 1d ago
-
----
-
-**[Sandisk stock soars 14% after blowout earnings report shows overwhelming AI demand](https://www.cnbc.com/2026/01/30/sandisk-stock-earnings-ai-memory-demand.html)**
-
-The flash storage memory company reported strong margins as AI data centers fuel a supply crunch for the chips.
-
-CNBC • 2h ago
-
----
-
-**[I Squared’s El Gazzar Seeks AI-Adjacent Bets](https://www.bloomberg.com/news/newsletters/2026-01-30/i-squared-s-mohamed-el-gazzar-seeks-ai-adjacent-bets)**
-
-Mid-market infrastructure specialist is taking a nuanced approach to artificial intelligence investing.
-
-Bloomberg • 3h ago
-
----
 
 **[Project Genie: Experimenting with infinite, interactive worlds](https://blog.google/innovation-and-ai/models-and-research/google-deepmind/project-genie/)**
 
@@ -183,15 +127,65 @@ blog.google • 1d ago
 
 **[Ex-Google Engineer Convicted of Stealing A.I. Secrets for Start-Up in China](https://www.nytimes.com/2026/01/29/business/ai-secrets-stolen-google-china.html)**
 
-The New York Times • 18h ago
+The New York Times • 19h ago
 
 ---
 
-**[Google’s AI helped me make bad Nintendo knockoffs](https://www.theverge.com/news/869726/google-ai-project-genie-3-world-model-hands-on)**
+**[Videogame stocks slide on Google's AI model that turns prompts into playable worlds](https://www.reuters.com/business/videogame-stocks-slide-googles-ai-model-that-turns-prompts-into-playable-worlds-2026-01-30/)**
 
-Here we go.
+Reuters • 1h ago
 
-The Verge • 1d ago
+---
+
+**[How AI assistance impacts the formation of coding skills](https://www.anthropic.com/research/AI-assistance-coding-skills)**
+
+Anthropic is an AI safety and research company that's working to build reliable, interpretable, and steerable AI systems.
+
+Anthropic • 23h ago
+
+---
+
+**[Opinion | Young People Are Using A.I. to Skip the Hardest Part of Growing Up](https://www.nytimes.com/2026/01/30/opinion/ai-social-skills-relationships.html)**
+
+The New York Times • 8h ago
+
+---
+
+**[BlackRock CEO says AI could increase wealth inequality—an economist explains how to make the tech 'a powerful ally'](https://www.cnbc.com/2026/01/30/mit-economist-how-workers-can-make-ai-a-powerful-ally.html)**
+
+AI is disrupting labor markets, but it can also be "a rising tide that lifts all boats" if workers embrace it with support from employers, says MIT economist.
+
+CNBC • 1h ago
+
+---
+
+**[Introducing Moltworker: a self-hosted personal AI agent, minus the minis](https://blog.cloudflare.com/moltworker-self-hosted-ai-agent/)**
+
+Moltworker is a middleware Worker and adapted scripts that allows running Moltbot (formerly Clawdbot) on Cloudflare's Sandbox SDK and our Developer Platform APIs. So you can self-host an AI personal assistant — without any new hardware.
+
+The Cloudflare Blog • 1d ago
+
+---
+
+**[Moltbot is an open-source AI agent that runs your computer](https://www.scientificamerican.com/article/moltbot-is-an-open-source-ai-agent-that-runs-your-computer/)**
+
+This open-source agent installs software, makes calls and runs your digital life—redefining what “digital assistants” are supposed to do
+
+Scientific American • 57m ago
+
+---
+
+**[OpenAI explains how its AI agents avoid malicious links and prompt injection](https://mashable.com/article/openai-agents-ai-malicious-links)**
+
+The internet can be a dangerous place. You know it, I know it, and OpenAI wants its AI agents to know it.
+
+Mashable • 5h ago
+
+---
+
+**[Apple acquires Israeli audio AI startup Q.ai](https://www.reuters.com/business/apple-acquires-audio-ai-startup-qai-2026-01-29/)**
+
+Reuters • 1d ago
 
 ---
 
@@ -205,7 +199,7 @@ The Verge • 1d ago
 - - —
 Guys, enough is enough. Bullying is a s...
 
-⬆️ 656 • 💬 302 • 1d ago • [McSweeney's Internet Tendency](https://www.mcsweeneys.net/articles/please-dont-say-mean-things-about-the-ai-that-i-just-invested-a-billion-dollars-in)
+⬆️ 658 • 💬 305 • 1d ago • [McSweeney's Internet Tendency](https://www.mcsweeneys.net/articles/please-dont-say-mean-things-about-the-ai-that-i-just-invested-a-billion-dollars-in)
 
 ---
 
@@ -221,21 +215,13 @@ Interactive article explaining the physics of an airfoil and what makes airplane
 
 Or, as they like to call it, the 'AI Skills Hub'. Which was built by PwC because of course it was
 
-⬆️ 397 • 💬 145 • 1d ago • [Mahad Kalam](https://mahadk.com/posts/ai-skills-hub)
+⬆️ 398 • 💬 145 • 1d ago • [Mahad Kalam](https://mahadk.com/posts/ai-skills-hub)
 
 ---
 
 **[The tech market is fundamentally fucked up and AI is just a scapegoat](https://news.ycombinator.com/item?id=46809069)**
 
-⬆️ 305 • 💬 211 • 1d ago • [bayramovanar.substack.com](https://bayramovanar.substack.com/p/tech-market-is-fucked-up)
-
----
-
-**[AI2: Open Coding Agents](https://news.ycombinator.com/item?id=46783017)**
-
-SERA is the first in our family of Open Coding Agents, achieving state-of-the-art performance at low cost.
-
-⬆️ 249 • 💬 44 • 3d ago • [allenai.org](https://allenai.org/blog/open-coding-agents)
+⬆️ 308 • 💬 214 • 1d ago • [bayramovanar.substack.com](https://bayramovanar.substack.com/p/tech-market-is-fucked-up)
 
 ---
 
@@ -243,7 +229,7 @@ SERA is the first in our family of Open Coding Agents, achieving state-of-the-ar
 
 Anthropic is an AI safety and research company that's working to build reliable, interpretable, and steerable AI systems.
 
-⬆️ 231 • 💬 186 • 11h ago • [anthropic.com](https://www.anthropic.com/research/AI-assistance-coding-skills)
+⬆️ 290 • 💬 234 • 13h ago • [anthropic.com](https://www.anthropic.com/research/AI-assistance-coding-skills)
 
 ---
 
@@ -251,7 +237,7 @@ Anthropic is an AI safety and research company that's working to build reliable,
 
 Moltworker is a middleware Worker and adapted scripts that allows running Moltbot (formerly Clawdbot) on Cloudflare's Sandbox SDK and our Developer Platform APIs. So you can self-host an AI personal assistant — without any new hardware.
 
-⬆️ 220 • 💬 65 • 1d ago • [The Cloudflare Blog](https://blog.cloudflare.com/moltworker-self-hosted-ai-agent/)
+⬆️ 224 • 💬 65 • 1d ago • [The Cloudflare Blog](https://blog.cloudflare.com/moltworker-self-hosted-ai-agent/)
 
 ---
 
@@ -263,6 +249,14 @@ The rise of LLMs as a useful development tool over the last year or so has been 
 
 ---
 
+**[How AI Impacts Skill Formation](https://news.ycombinator.com/item?id=46821360)**
+
+AI assistance produces significant productivity gains across professional domains, particularly for novice workers. Yet how this assistance affects the development of skills required to effectively supervise AI remains unclear. Novice workers who rely heavily on AI to complete unfamiliar tasks may compromise their own skill acquisition in the process. We conduct randomized experiments to study how developers gained mastery of a new asynchronous programming library with and without the assistance of AI. We find that AI use impairs conceptual understanding, code reading, and debugging abilities, without delivering significant efficiency gains on average. Participants who fully delegated coding tasks showed some productivity improvements, but at the cost of learning the library. We identify six distinct AI interaction patterns, three of which involve cognitive engagement and preserve learning outcomes even when participants receive AI assistance. Our findings suggest that AI-enhanced productivity is not a shortcut to competence and AI assistance should be carefully adopted into workflows to preserve skill formation -- particularly in safety-critical domains.
+
+⬆️ 196 • 💬 5 • 11h ago • [arXiv.org](https://arxiv.org/abs/2601.20245)
+
+---
+
 **[AISLE’s autonomous analyzer found all CVEs in the January OpenSSL release](https://news.ycombinator.com/item?id=46789913)**
 
 AISLE's autonomous analyzer found all 12 CVEs in the January 2026 coordinated release of OpenSSL, the open-source cryptographic library that underp...
@@ -271,11 +265,11 @@ AISLE's autonomous analyzer found all 12 CVEs in the January 2026 coordinated re
 
 ---
 
-**[How AI Impacts Skill Formation](https://news.ycombinator.com/item?id=46821360)**
+**[Benchmarking OpenTelemetry: Can AI trace your failed login?](https://news.ycombinator.com/item?id=46811588)**
 
-AI assistance produces significant productivity gains across professional domains, particularly for novice workers. Yet how this assistance affects the development of skills required to effectively supervise AI remains unclear. Novice workers who rely heavily on AI to complete unfamiliar tasks may compromise their own skill acquisition in the process. We conduct randomized experiments to study how developers gained mastery of a new asynchronous programming library with and without the assistance of AI. We find that AI use impairs conceptual understanding, code reading, and debugging abilities, without delivering significant efficiency gains on average. Participants who fully delegated coding tasks showed some productivity improvements, but at the cost of learning the library. We identify six distinct AI interaction patterns, three of which involve cognitive engagement and preserve learning outcomes even when participants receive AI assistance. Our findings suggest that AI-enhanced productivity is not a shortcut to competence and AI assistance should be carefully adopted into workflows to preserve skill formation -- particularly in safety-critical domains.
+A lot of vendors pitch AI SRE. We tested 14 models across 11 programming languages; even the best ones struggle with instrumenting code with the leading open-source standard, OpenTelemetry.
 
-⬆️ 163 • 💬 3 • 10h ago • [arXiv.org](https://arxiv.org/abs/2601.20245)
+⬆️ 141 • 💬 81 • 1d ago • [Quesma](https://quesma.com/blog/introducing-otel-bench/)
 
 ---
 
@@ -283,13 +277,23 @@ AI assistance produces significant productivity gains across professional domain
 
 ## YouTube Videos: "ai"
 
+**[Stop Paying for AI Video... Download This Instead (low VRAM)](https://www.youtube.com/watch?v=AUcYJczWXT4)**
+
+Open source video gen just crossed a line we can't ignore - multiple consumer GPUs tested. Test the model yourself: ...
+
+📺 Alex Ziskind
+
+👁️ 5K • 👍 416 • 💬 58 • ⏱️ 13:57 • 2h ago
+
+---
+
 **[STOP Paying! 2 AI Video Generators That Are Actually FREE](https://www.youtube.com/watch?v=5mEWY6-qROo)**
 
 Get the FREE PDF (links + prompts) → https://discord.gg/6aV3ps7tB2 STOP overpaying for AI video. In this video I'll show you 2 ...
 
 📺 Malva AI
 
-👁️ 2K • 👍 286 • 💬 78 • ⏱️ 7:42 • 5h ago
+👁️ 4K • 👍 419 • 💬 112 • ⏱️ 7:42 • 6h ago
 
 ---
 
@@ -299,7 +303,7 @@ Try Mammouth AI here: https://bit.ly/4sUpPDw AI just made a serious leap into th
 
 📺 AI Revolution
 
-👁️ 16K • 👍 801 • 💬 66 • ⏱️ 12:58 • 18h ago
+👁️ 17K • 👍 837 • 💬 66 • ⏱️ 12:58 • 19h ago
 
 ---
 
@@ -309,7 +313,7 @@ Crazy AI Beds You'll Wish Were Real ✨ | Ultimate Oddly Satisfying AI ASMR Drif
 
 📺 Ultimate Oddly Satisfying ASMR
 
-👁️ 47K • 👍 5K • 💬 15 • ⏱️ 8:03 • 2d ago
+👁️ 48K • 👍 5K • 💬 15 • ⏱️ 8:03 • 2d ago
 
 ---
 
@@ -319,17 +323,7 @@ Support our work: http://novara.media/support Buy Novara Media merch: https://sh
 
 📺 Novara Media
 
-👁️ 72K • 👍 2K • 💬 682 • ⏱️ 21:03 • 1d ago
-
----
-
-**[People Are Making Millions Without Showing Their Face (AI Influencers)](https://www.youtube.com/watch?v=QIX0lnr3qfo)**
-
-Build AI influencers and make money with Higgsfield here: https://higgsfield.ai/ai-influencer-studio?utm_source=thekoerneroffice ...
-
-📺 Chris Koerner on The Koerner Office Podcast
-
-👁️ 22K • 👍 1K • 💬 43 • ⏱️ 13:52 • 19h ago
+👁️ 73K • 👍 2K • 💬 695 • ⏱️ 21:03 • 1d ago
 
 ---
 
@@ -339,47 +333,47 @@ Nobel Prize winner Geoffrey Hinton, the physicist known for his pioneering work 
 
 📺 LBC
 
-👁️ 136K • 👍 2K • 💬 1K • ⏱️ 8:50 • 1d ago
+👁️ 142K • 👍 2K • 💬 1K • ⏱️ 8:50 • 1d ago
 
 ---
 
-**[&quot;We Are The VIRUS&quot; - Anthropic CEO’s AI Doom Warning Sparks Tech Apocalypse FEARS](https://www.youtube.com/watch?v=tRD7VVVMe5Y)**
+**[Manus 1.6: AI Super Agent That Can DO ANYTHING! The Clawdbot KILLER!](https://www.youtube.com/watch?v=zZi2_ZZPI7Q)**
 
-AI leaders are warning that the next phase of artificial intelligence could arrive much faster than society is ready for. From super-AI ...
+Try Manus AI free → Get 1000 credits using my link: https://manus.im/redeem?c=WAI013M6 We're back with Manus 1.6, the ...
 
-📺 Valuetainment Short Clips
+📺 WorldofAI
 
-👁️ 8K • 👍 219 • 💬 44 • ⏱️ 20:26 • 21h ago
-
----
-
-**[AI largely to blame for layoffs at Amazon, Pinterest](https://www.youtube.com/watch?v=qt7ciBQYPTI)**
-
-Amazon and Pinterest are slashing jobs, largely due to artificial intelligence. Scott Budman reports. #layoffs #amazon #pinterest ...
-
-📺 NBC Bay Area
-
-👁️ 53K • 👍 332 • 💬 236 • ⏱️ 2:11 • 1d ago
+👁️ 5K • 👍 173 • 💬 12 • ⏱️ 12:37 • 12h ago
 
 ---
 
-**[Dem Senator Uses AI Image of Alex Pretti in Attempt to Call Out Trump](https://www.youtube.com/watch?v=ZoEo0ghfyS8)**
+**[People Are Making Millions Without Showing Their Face (AI Influencers)](https://www.youtube.com/watch?v=QIX0lnr3qfo)**
 
-A viral photo of Alex Pretti has been widely circulating among protesters, showing an agent holding a gun to the back of Pretti's ...
+Build AI influencers and make money with Higgsfield here: https://higgsfield.ai/ai-influencer-studio?utm_source=thekoerneroffice ...
 
-📺 New York Post
+📺 Chris Koerner on The Koerner Office Podcast
 
-👁️ 7K • 👍 180 • 💬 217 • ⏱️ 8:31 • 21h ago
+👁️ 23K • 👍 1K • 💬 45 • ⏱️ 13:52 • 20h ago
 
 ---
 
-**[The LLM Revolution Is Over. The Physical AI Revolution Is Coming Fast](https://www.youtube.com/watch?v=MWMe7yjPYpE)**
+**[CLAWDBOT EXPOSED: The $16M AI Scam That Fooled Everyone (72 Hour Meltdown)](https://www.youtube.com/watch?v=mPWY7qiISoA)**
 
-On stage at Imagination In Action's AI Summit in Davos with John Werner, founder and CEO of Imagination In Action, Yann LeCun ...
+GET MY FREE GUIDE: *The Content Creator's AI Blueprint: From 25 Hours to 5 Minutes* https://FirstMovers.ai/blueprint/ *A ...
 
-📺 Forbes
+📺 Julia McCoy
 
-👁️ 36K • 👍 986 • 💬 249 • ⏱️ 29:11 • 1d ago
+👁️ 67K • 👍 4K • 💬 500 • ⏱️ 9:49 • 1d ago
+
+---
+
+**[New #1 open-source AI model is WILD](https://www.youtube.com/watch?v=F-ANHe_hr9w)**
+
+Kimi K2.5 review. Best open source AI model. #ai #aitools #ainews #llm #aiagent Thanks to our sponsor Hubspot. Access the ...
+
+📺 AI Search
+
+👁️ 49K • 👍 2K • 💬 316 • ⏱️ 27:22 • 15h ago
 
 ---
 
@@ -395,7 +389,7 @@ Kimi K2.5 is a native multimodal agentic model with 1T parameters, excelling in 
 
 `image-text-to-text`
 
-⬇️ 25,438 • ❤️ 1,147 • 12h ago
+⬇️ 25,438 • ❤️ 1,155 • 13h ago
 
 ---
 
@@ -407,7 +401,7 @@ PersonaPlex-7B-v1 is a real-time, full-duplex speech-to-speech conversational mo
 
 `audio-to-audio`
 
-⬇️ 54,463 • ❤️ 1,483 • 1d ago
+⬇️ 54,463 • ❤️ 1,488 • 1d ago
 
 ---
 
@@ -419,7 +413,7 @@ Z-Image is an undistilled, high-fidelity text-to-image diffusion transformer mod
 
 `text-to-image`
 
-⬇️ 1,918 • ❤️ 680 • 2d ago
+⬇️ 1,918 • ❤️ 688 • 2d ago
 
 ---
 
@@ -431,7 +425,7 @@ Qwen3-TTS-12Hz-1.7B-CustomVoice is a multilingual text-to-speech model supportin
 
 `text-to-speech` `1.9B`
 
-⬇️ 180,679 • ❤️ 789 • 1d ago
+⬇️ 180,679 • ❤️ 792 • 1d ago
 
 ---
 
@@ -443,7 +437,7 @@ DeepSeek-OCR-2 is a multilingual vision-language model for image-to-text tasks, 
 
 `image-text-to-text` `3.4B`
 
-⬇️ 45,346 • ❤️ 546 • 17h ago
+⬇️ 45,346 • ❤️ 550 • 18h ago
 
 ---
 
@@ -467,7 +461,7 @@ GLM-4.7-Flash is a 30B-A3B MoE model, offering strong performance in the 30B cla
 
 `text-generation` `31.2B`
 
-⬇️ 645,542 • ❤️ 1,336 • 1d ago
+⬇️ 645,542 • ❤️ 1,337 • 1d ago
 
 ---
 
@@ -479,7 +473,7 @@ LightOnOCR-2-1B is an efficient 1B-parameter end-to-end vision-language model fo
 
 `image-text-to-text` `1.0B`
 
-⬇️ 27,393 • ❤️ 440 • 5h ago
+⬇️ 27,393 • ❤️ 440 • 6h ago
 
 ---
 
@@ -491,19 +485,19 @@ PaddleOCR-VL-1.5 is a multilingual Vision-Language Model (VLM) built on ERNIE 4.
 
 `image-text-to-text` `958.6M`
 
-⬇️ 216 • ❤️ 206 • 12h ago
+⬇️ 216 • ❤️ 211 • 13h ago
 
 ---
 
-**[NuMarkdown-8B-Thinking](https://huggingface.co/numind/NuMarkdown-8B-Thinking)**
+**[HunyuanImage-3.0-Instruct](https://huggingface.co/tencent/HunyuanImage-3.0-Instruct)**
 
-*NuMind*
+*Tencent*
 
-NuMarkdown-8B-Thinking is a vision-language model fine-tuned for document-to-Markdown conversion, excelling at complex layouts and tables by generating 'thinking' tokens to understand document structure before outputting clean Markdown, making it ideal for RAG applications.
+HunyuanImage-3.0-Instruct is a native multimodal model for image generation, supporting both text-to-image and image-to-image tasks. It excels at creative editing and intelligent prompt enhancement with reasoning capabilities.
 
-`image-to-text` `8.3B`
+`image-to-image` `83.0B`
 
-⬇️ 1,074,937 • ❤️ 393 • 2mo ago
+⬇️ 37 • ❤️ 237 • 2d ago
 
 ---
 
@@ -519,7 +513,7 @@ NuMarkdown-8B-Thinking is a vision-language model fine-tuned for document-to-Mar
 
 LingBot-World is an open-source world simulator with high-fidelity dynamics, long-term memory capabilities, and real-time interactivity for diverse environments.
 
-▲ 85 • 💬 2 • ⭐ 977 • 2d ago
+▲ 85 • 💬 2 • ⭐ 1,087 • 2d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2601.20540) • [💻 code](https://github.com/Robbyant/lingbot-world/) • [🔗 project](https://technology.robbyant.com/lingbot-world)
 
@@ -539,17 +533,15 @@ The Qwen3-TTS series presents advanced multilingual text-to-speech models with v
 
 ---
 
-**[DeepSeek-OCR 2: Visual Causal Flow](https://huggingface.co/papers/2601.20552)**
+**[Bitnet.cpp: Efficient Edge Inference for Ternary LLMs](https://huggingface.co/papers/2502.11880)**
 
-*Haoran Wei, Yaofeng Sun, Yukun Li*
+*Jinheng Wang, Hansong Zhou, Ting Song et al. (10 authors)*
 
-🏢 DeepSeek
+Bitnet.cpp enhances edge inference for ternary LLMs using a novel mixed-precision matrix multiplication library, achieving significant speed improvements over baselines.
 
-DeepSeek-OCR 2 introduces DeepEncoder V2 that dynamically reorders visual tokens based on semantic content, enabling more human-like causal reasoning in 2D image understanding through cascaded 1D causal structures.
+▲ 4 • 💬 0 • ⭐ 26,885 • 11mo ago
 
-▲ 38 • 💬 4 • ⭐ 1,635 • 2d ago
-
-[🎓 arXiv](https://arxiv.org/abs/2601.20552) • [💻 code](https://github.com/deepseek-ai/DeepSeek-OCR-2)
+[🎓 arXiv](https://arxiv.org/abs/2502.11880) • [💻 code](https://github.com/microsoft/BitNet/tree/paper)
 
 ---
 
@@ -579,15 +571,17 @@ BitNet Distillation fine-tunes large language models to 1.58-bit precision using
 
 ---
 
-**[Bitnet.cpp: Efficient Edge Inference for Ternary LLMs](https://huggingface.co/papers/2502.11880)**
+**[DeepSeek-OCR 2: Visual Causal Flow](https://huggingface.co/papers/2601.20552)**
 
-*Jinheng Wang, Hansong Zhou, Ting Song et al. (10 authors)*
+*Haoran Wei, Yaofeng Sun, Yukun Li*
 
-Bitnet.cpp enhances edge inference for ternary LLMs using a novel mixed-precision matrix multiplication library, achieving significant speed improvements over baselines.
+🏢 DeepSeek
 
-▲ 4 • 💬 0 • ⭐ 26,701 • 11mo ago
+DeepSeek-OCR 2 introduces DeepEncoder V2 that dynamically reorders visual tokens based on semantic content, enabling more human-like causal reasoning in 2D image understanding through cascaded 1D causal structures.
 
-[🎓 arXiv](https://arxiv.org/abs/2502.11880) • [💻 code](https://github.com/microsoft/BitNet/tree/paper)
+▲ 38 • 💬 4 • ⭐ 1,692 • 2d ago
+
+[🎓 arXiv](https://arxiv.org/abs/2601.20552) • [💻 code](https://github.com/deepseek-ai/DeepSeek-OCR-2)
 
 ---
 
@@ -631,17 +625,17 @@ LingBot-Depth is a depth completion model that uses visual context to refine dep
 
 ---
 
-**[Harder Is Better: Boosting Mathematical Reasoning via Difficulty-Aware GRPO and Multi-Aspect Question Reformulation](https://huggingface.co/papers/2601.20614)**
+**[PaddleOCR-VL: Boosting Multilingual Document Parsing via a 0.9B Ultra-Compact Vision-Language Model](https://huggingface.co/papers/2510.14528)**
 
-*Yanqi Dai, Yuxiang Ji, Xiao Zhang et al. (6 authors)*
+*Cheng Cui, Ting Sun, Suyin Liang et al. (18 authors)*
 
-🏢 AMAP-ML
+🏢 PaddlePaddle
 
-MathForge enhances mathematical reasoning in large models through a dual framework combining difficulty-aware policy optimization and multi-aspect question reformulation to address limitations in existing reinforcement learning methods.
+PaddleOCR-VL, a vision-language model combining NaViT-style dynamic resolution and ERNIE, achieves state-of-the-art performance in document parsing and element recognition with high efficiency.
 
-▲ 109 • 💬 15 • ⭐ 87 • 2d ago
+▲ 112 • 💬 7 • ⭐ 69,296 • 3mo ago
 
-[🎓 arXiv](https://arxiv.org/abs/2601.20614) • [💻 code](https://github.com/AMAP-ML/MathForge)
+[🎓 arXiv](https://arxiv.org/abs/2510.14528) • [💻 code](https://github.com/PaddlePaddle/PaddleOCR)
 
 ---
 
@@ -655,7 +649,7 @@ Browser automation CLI for AI agents
 
 `TypeScript`
 
-⭐ 11.7k • 🔱 648 • 1d ago
+⭐ 11.7k • 🔱 649 • 1d ago
 
 ---
 
@@ -675,7 +669,7 @@ Ralph is an autonomous AI agent loop that runs repeatedly until all PRD items ar
 
 `TypeScript`
 
-⭐ 8.8k • 🔱 1.0k • 19h ago
+⭐ 8.8k • 🔱 1.0k • 20h ago
 
 ---
 
@@ -685,7 +679,7 @@ LLM驱动的 A/H/美股智能分析器，多数据源行情 + 实时新闻 + Gem
 
 `Python` `agent` `ai` `aigc` `gemini` `llm`
 
-⭐ 7.6k • 🔱 8.2k • 3h ago
+⭐ 7.6k • 🔱 8.2k • 4h ago
 
 ---
 
@@ -705,7 +699,7 @@ The Ultimate Collection of 500+ Agentic Skills for Claude Code/Antigravity/Curso
 
 `Python` `agentic-skills` `ai-agents` `antigravity` `autonomous-coding` `claude-code`
 
-⭐ 5.5k • 🔱 1.2k • 9h ago
+⭐ 5.6k • 🔱 1.2k • 10h ago
 
 ---
 
@@ -715,7 +709,7 @@ Marketing skills for Claude Code and AI agents. CRO, copywriting, SEO, analytics
 
 `claude` `codex` `marketing`
 
-⭐ 5.4k • 🔱 583 • 2d ago
+⭐ 5.4k • 🔱 584 • 2d ago
 
 ---
 

@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-01-30T17:35:06.788533+00:00'
+updated: '2026-01-30T18:44:08.661754+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
+- news
 - social
 - videos
-- news
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** January 30, 2026 at 17:35 UTC  
+**Last Updated:** January 30, 2026 at 18:44 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -36,7 +36,7 @@ Robotics research and industry news
 
 I’m building a humanoid robot from scratch and this is how it looks so far. The hand is finished, and i’m currently working on the torso.
 
-3h ago
+4h ago
 
 ---
 
@@ -44,7 +44,7 @@ I’m building a humanoid robot from scratch and this is how it looks so far. Th
 
 Setup: 2 x Super-Beacons - a few meters away on the walls of the room - as stationary beacons emitting short ultrasound pulses 1 x Mini-RX as a mobile beacon in hands - receiving ultrasound pulses from the stationary beacons 1 x Modem as central controller of the system - connected by the white USB cable from the laptop - synchronizes the clocks between all elements, controls the telemetry, and the system overall The Dashboard on the computer doesn't calculate anything; it just displays the tracking. The location is calculated by the mobile beacon in hand and then streamed over USB to show on the display Inverse Architecture: https://marvelmind.com/pics/architectures_comparison.pdf
 
-11h ago
+12h ago
 
 ---
 
@@ -52,13 +52,19 @@ Setup: 2 x Super-Beacons - a few meters away on the walls of the room - as stati
 
 Ant Group released LingBot-VA, a VLA built on a different premise than most current approaches: instead of directly mapping observations to actions, first predict what the future should look like, then infer what action causes that transition. The model uses a 5.3B video diffusion backbone (Wan2.2) as a "world model" to predict future frames, then decodes actions via inverse dynamics. Everything runs through GPT style autoregressive generation with KV-cache — no chunk-based diffusion, so the robot maintains persistent memory across the full trajectory and respects causal ordering (past → present → future). Results on standard benchmarks: 92.9% on RoboTwin Easy (vs 82.7% for π0.5), 91.6% on Hard (vs 76.8%), 98.5% on LIBERO-Long. The biggest gains show up on long-horizon tasks and anything requiring temporal memory — counting repetitions, remembering past observations, etc. Sample efficiency is a key claim: 50 demos for deployment, and even 10 demos outperforms π0.5 by 10-15%. They attribute this to the video backbone providing strong physical priors. For inference speed, they overlap prediction with execution using async inference plus a forward dynamics grounding step. 2× speedup with no accuracy drop.
 
-16h ago
+18h ago
 
 ---
 
 **[We trained the yolo model with custom data set to detect head from top view.this needs to reply on bus to count passenger count.it deployed on pi4 with 8gb and data is trained on 25k images](https://www.reddit.com/r/robotics/comments/1qqtoa0/we_trained_the_yolo_model_with_custom_data_set_to/)**
 
-14h ago
+15h ago
+
+---
+
+**[NEMA17 stepper jitters and overheats when driven by DM542T + arduino](https://www.reddit.com/r/robotics/comments/1qr9d6j/nema17_stepper_jitters_and_overheats_when_driven/)**
+
+2h ago
 
 ---
 
@@ -66,15 +72,7 @@ Ant Group released LingBot-VA, a VLA built on a different premise than most curr
 
 Hey everybody, I'm in high school right now. I have a strong interest in robotics technology. While exploring the robotics field, I was introduced to physics simulation, mathematics, mechanical physics, electrical physics, etc. In short, I want to make the entry barrier to robotics lower after learning this. I've already started learning. I've learnt the basics of Python, pandas, and numpy, and these days I'm learning mathematics and physics at the same time, which makes me feel unproductive. Help me out. Let me know where I should spend most of my time (structural engineering, electronics engineering) or in mathematics (linear algebra, calculus, probability, LLM stuff). I see! These aren't completely different paths, but while preparing for the 12th board exam, it's hard to manage my time. So, any of you guys help me on my learning journey.
 
-1h ago
-
----
-
-**[F.02 Contributed to the Production of 30,000 Cars at BMW](https://www.reddit.com/r/robotics/comments/1qr0bbn/f02_contributed_to_the_production_of_30000_cars/)**
-
-Figure AI has released the final data from their 11-month deployment at BMW's Spartanburg plant. The 'Figure 02' humanoid robots worked 10-hour shifts, Monday to Friday, contributing to the production of over 30,000 BMW X3s. They loaded 90,000+ sheet metal parts with a <5mm tolerance, logging over 200 miles of walking. With Figure 02 now retiring, these lessons are being rolled into the new Figure 03.
-
-🔗 [FigureAI](https://www.figure.ai/news/production-at-bmw) • 8h ago
+2h ago
 
 ---
 
@@ -82,7 +80,7 @@ Figure AI has released the final data from their 11-month deployment at BMW's Sp
 
 The overall goal is to lower the barrier to entry for soft robotics and provide an alternative approach to building robotic systems. One way to achieve this is by using widely available tools such as FDM 3D printers. The concept centers on a 3D‑printable film used to create inflatable bags. These bags can be stacked to form pneumatic, bellows‑style linear artificial muscles. A tendon‑driven actuator is then assembled around these muscles to create functional motion. The next phase focuses on integration. A 3D‑printed sleeve guides each modular muscle during inflation, and different types of skeletons—human, dog, or frog—can be printed while reusing the same muscle modules across all designs. You can see the experiments with the bags here: https://www.youtube.com/playlist?list=PLF9nRnkMqNpZ-wNNfvy_dFkjDP2D5Q4OO I am looking for groups, labs, researchers, and students working in soft robotics who could provide comments and general feedback on this approach, as well as guidance on developing a complete framework (including workflows, designs, and simulations).
 
-15h ago
+16h ago
 
 ---
 
@@ -90,21 +88,23 @@ The overall goal is to lower the barrier to entry for soft robotics and provide 
 
 Hi everyone 👋 I’m working on a small AGV robot and I’m currently stuck at the software side of path planning. I’d really appreciate some guidance or best practices from people who’ve done this before. My current setup AGV size: 250 × 250 mm Workspace: small indoor environment Overhead camera (fixed) AprilTags / ArUco tags placed on the floor Tag spacing: 0.5 meter Current grid: 7 × 6 = 42 tags Robot is detected using the center tag under the robot Goal (Stage 1 – very basic) For now, I don’t want to include obstacles. I want: User gives a start node and end node Robot computes the shortest path Robot follows that path physically I’ve decided to use the A* algorithm, but I’m confused about the input representation and data structure. Where I’m stuck How should I represent the environment? 2D grid array? Graph with nodes and edges? Tag IDs mapped to coordinates? How should I store values for A\* in this simple case? What should be the node value? How to define neighbors (up/down/left/right)? How to map real-world distances (0.5 m spacing) to cost? Is it better to: Use grid indices (row, col) and map them later to real coordinates? Or directly use real-world (x, y) coordinates? What I plan to add later Obstacles Dynamic path updates Possibly ROS integration But for now, I want to get the fundamentals right. If anyone has: Simple examples Pseudocode Suggestions on data structures Or advice on how you approached this in your own AGV projects I’d really appreciate it 🙏 Thanks in advance!
 
-3h ago
+4h ago
 
 ---
 
-**[NEMA17 stepper jitters and overheats when driven by DM542T + arduino](https://www.reddit.com/r/robotics/comments/1qr9d6j/nema17_stepper_jitters_and_overheats_when_driven/)**
+**[F.02 Contributed to the Production of 30,000 Cars at BMW](https://www.reddit.com/r/robotics/comments/1qr0bbn/f02_contributed_to_the_production_of_30000_cars/)**
+
+Figure AI has released the final data from their 11-month deployment at BMW's Spartanburg plant. The 'Figure 02' humanoid robots worked 10-hour shifts, Monday to Friday, contributing to the production of over 30,000 BMW X3s. They loaded 90,000+ sheet metal parts with a <5mm tolerance, logging over 200 miles of walking. With Figure 02 now retiring, these lessons are being rolled into the new Figure 03.
+
+🔗 [FigureAI](https://www.figure.ai/news/production-at-bmw) • 9h ago
+
+---
+
+**[Any one who has made robotic s arm 101](https://www.reddit.com/r/robotics/comments/1qrbm0y/any_one_who_has_made_robotic_s_arm_101/)**
+
+Pls dm me kkkkkkkmmmmmmmmkkmmmmkmmmmmmmmmmmmmmmmmkmkkkdkdjfjdjdjdhdhrhdhdhdhdhdhdhdhdhdhdhmrntjfhfjfhfhfhdjdhfhdhdhdhdkekdkdkdjdjdjdjdjejejejrjrjrjrjejejejekekekekdkdkkrkrjrjrjrjejejdjdjdjdjdjdjdjdjdjdjdjejejejejejejejejenensjejdjsjdj
 
 1h ago
-
----
-
-**[To study simulation](https://www.reddit.com/r/robotics/comments/1qqvon8/to_study_simulation/)**
-
-I am final year robotics engineer . In industry I want a career as a simulation engineer. When ever I tried to do simulation like basic pick and place . It's not working in laptop.Either it's gazebo version problem or moveit version. . Sometimes I can't even find what problem I am facing . I want to do simulation in Issac sim, do much complex simulation in gazebo or any other simulation platforms. I know basic backend of ros2 where I did some service client project and I am very good at cad modelling.I followed some udemy tutorials video. But in udemy there is no proper tutorials for simulations. TLDR :Could anyone help me with to learn simulation for robotics .I am struggling to do basic simulations.
-
-12h ago
 
 ---
 
@@ -120,19 +120,17 @@ Financial Times • 1d ago
 
 ---
 
-**[Tesla axes EV models in drive for robotics revenue](https://news.sky.com/story/tesla-axes-ev-models-in-drive-for-robotics-revenue-13500444)**
+**[Tesla to build 1 million Optimus robots per year at Fremont factory, Musk says](https://www.kron4.com/news/technology-ai/tesla-to-build-1-million-optimus-robots-per-year-at-fremont-factory-musk-says/)**
 
-Investors liked what they heard about the future following the company's latest results, but Elon Musk is under huge pressure to deliver on his vision as a series of targets have been missed.
-
-Sky News • 1d ago
+KRON4 • 22h ago
 
 ---
 
-**[Tesla cuts car models in shift to robots and AI](https://www.bbc.com/news/articles/c620177qdg5o)**
+**[Tesla discontinues Model X and S vehicles as Elon Musk pivots to robotics](https://www.theguardian.com/technology/2026/jan/28/tesla-q4-earnings-estimates-elon-musk)**
 
-Multi-billionaire Elon Musk also announced plans to end production of its Model S and Model X vehicles.
+Musk’s optimism for Optimus robot demand help EV maker beat quarterly expectations despite first-ever yearly revenue decline
 
-BBC • 1d ago
+The Guardian • 1d ago
 
 ---
 
@@ -144,19 +142,11 @@ Interesting Engineering • 3d ago
 
 ---
 
-**[The lonely promise of cute robots](https://www.theverge.com/column/870438/optimizer-mirumi-loneliness-social-companion-robots)**
-
-Mirumi is adorably boring, unless you’re my cat.
-
-The Verge • 2h ago
-
----
-
 **[New York Robotics launches with 160 startups in its ecosystem](https://www.therobotreport.com/new-york-robotics-launches-160-startups-ecosystem/)**
 
 New York Robotics is launching with over 80 industry partners, 20 academic partners, 40 robotics labs, and over 300 venture capital partners.
 
-The Robot Report • 2h ago
+The Robot Report • 3h ago
 
 ---
 
@@ -170,7 +160,7 @@ NVIDIA Blog • 1d ago
 
 **[Lightspeed Backs Robotics Startup in $100 Million Round](https://www.bloomberg.com/news/articles/2026-01-29/fiat-toyota-tycoons-back-startup-robco-in-100-million-round)**
 
-Bloomberg • 1d ago
+Bloomberg.com • 1d ago
 
 ---
 
@@ -188,6 +178,14 @@ Ondas Holdings • 2d ago
 
 ---
 
+**[Not ready for robots in homes? The maker of a friendly new humanoid thinks it might change your mind](https://abcnews.go.com/Technology/wireStory/ready-robots-homes-maker-friendly-new-humanoid-thinks-129594260)**
+
+A new humanoid robot named Sprout, developed by Fauna Robotics, is making its debut
+
+ABC News • 3d ago
+
+---
+
 ---
 
 ## YouTube Videos: "robotics"
@@ -198,37 +196,17 @@ China is deploying AI-powered robots to manage traffic and pedestrian flow in ci
 
 📺 NBC News
 
-👁️ 56K • 👍 883 • 💬 371 • ⏱️ 3:13 • 14h ago
+👁️ 89K • 👍 1K • 💬 575 • ⏱️ 3:13 • 15h ago
 
 ---
 
-**[&quot;High-Tech Boots on Female Robot Walk &amp; Durability Test ❌: AI-CONCEPT 🕵️](https://www.youtube.com/watch?v=voXe8g0uc6s)**
+**[Robotics Boom: 3 Stocks Under $20 Right Now](https://www.youtube.com/watch?v=8yC0p_lfk4g)**
 
-TeslaOptimus #ElonMusk #FuturisticTech #RobotBoots #HighTechBoots #AIRobot #greentea #RobotReview #FutureTech ...
+Robotics stocks are heating up fast, but many of the biggest names are already expensive. In this video, MarketBeat's Jeffrey Neal ...
 
-📺 AITECHGADGETS
+📺 MarketBeat
 
-👁️ 1K • 💬 9 • ⏱️ 0:17 • 5h ago
-
----
-
-**[Elon Musk Repairs High-Tech Robotic 🕵️ Wings on Female 💲Android in Futuristic 🧪 Ai-concept.](https://www.youtube.com/watch?v=qBIpFr_d3Vg)**
-
-RoboticWings #FuturisticLab #Android #SciFi #Robotics #AIArt #Cyberpunk #HighTech #ArtificialIntelligence #TeslaBot ...
-
-📺 AITECHGADGETS
-
-👁️ 288K • 💬 150 • ⏱️ 0:18 • 4d ago
-
----
-
-**[SaaS is over… Why you should build a robotics company in 2026](https://www.youtube.com/watch?v=FqfTQFuSalY)**
-
-2026 will be the year of robotics. We're in an Will Smith spaghetti moment. Remember how AI-generated video looked horrific two ...
-
-📺 Andreas Klinger ⅹ Europe's Most Ambitious Startups
-
-👁️ 23K • 👍 1K • 💬 190 • ⏱️ 16:46 • 4d ago
+👁️ 138K • 👍 3K • 💬 180 • ⏱️ 17:39 • 6d ago
 
 ---
 
@@ -238,17 +216,17 @@ Steve Westly, former Tesla board member and founder of the Westly Group, joins '
 
 📺 CNBC Television
 
-👁️ 10K • 👍 70 • 💬 42 • ⏱️ 3:43 • 23h ago
+👁️ 10K • 👍 70 • 💬 52 • ⏱️ 3:43 • 1d ago
 
 ---
 
-**[Introducing Helix 02](https://www.youtube.com/watch?v=lQsvTrRTBRs)**
+**[Inside Tesla’s Robot Factory: The Transition That Separates Robots From Humanoids (Full Process)](https://www.youtube.com/watch?v=Oo3u9lDL9HE)**
 
-Last year, Helix showed that a single neural network could control a humanoid's upper body from pixels. Today, Helix 02 extends ...
+Inside Tesla's Robot Factory: The Transition That Separates Robots From Humanoids (Full Process) takes viewers deep inside ...
 
-📺 Figure
+📺 UltraLine Works
 
-👁️ 189K • 👍 11K • 💬 2K • ⏱️ 3:37 • 2d ago
+👁️ 283K • 👍 4K • 💬 81 • ⏱️ 24:18 • 4d ago
 
 ---
 
@@ -258,17 +236,37 @@ Hyundai is planning to place 30000 humanoid robots in its factories. We talked t
 
 📺 More Perfect Union
 
-👁️ 186K • 👍 16K • 💬 2K • ⏱️ 2:59 • 3d ago
+👁️ 187K • 👍 16K • 💬 2K • ⏱️ 2:59 • 3d ago
 
 ---
 
-**[SATISFYING Robotic Arm Glazes Ceramics with INSANE Precision 🤖](https://www.youtube.com/watch?v=3PK2EOvBQkg)**
+**[Meet Sprout: The Humanoid Robot Built for Real World Use](https://www.youtube.com/watch?v=4zMbX1OEOSE)**
 
-Inside a high-tech ceramic workshop, a bright yellow industrial robotic arm executes a flawless glazing sequence with ...
+This new humanoid robot is not about hype or flashy promises. Sprout is designed to work alongside people in real environments, ...
 
-📺 Working Planet Shorts
+📺 DPCcars
 
-👁️ 488K • 👍 701 • 💬 2 • ⏱️ 0:06 • 6d ago
+👁️ 4K • 👍 82 • 💬 18 • ⏱️ 3:17 • 1d ago
+
+---
+
+**[SaaS is over… Why you should build a robotics company in 2026](https://www.youtube.com/watch?v=FqfTQFuSalY)**
+
+2026 will be the year of robotics. We're in an Will Smith spaghetti moment. Remember how AI-generated video looked horrific two ...
+
+📺 Andreas Klinger ⅹ Europe's Most Ambitious Startups
+
+👁️ 24K • 👍 1K • 💬 192 • ⏱️ 16:46 • 4d ago
+
+---
+
+**[Xpeng’s New ET1 AI Robot Just Broke the AI  Humanoid Limit — Optimus Killer Enters Mass Production](https://www.youtube.com/watch?v=T8IYzqINZJY)**
+
+XPENG Robotics just changed the game — their new ET1 AI humanoid robot has officially entered mass production, and it's ...
+
+📺 The AI Nexus
+
+👁️ 5K • 👍 151 • 💬 20 • ⏱️ 18:41 • 6d ago
 
 ---
 
@@ -278,17 +276,17 @@ Andrea Nakano reports on the Tesla Fremont factory ending Model S/X production a
 
 📺 KPIX | CBS NEWS BAY AREA
 
-👁️ 43K • 👍 406 • 💬 252 • ⏱️ 4:36 • 1d ago
+👁️ 45K • 👍 426 • 💬 259 • ⏱️ 4:36 • 1d ago
 
 ---
 
-**[Robot That Grows Through Rubble To Find Survivors 🤖 #rescue #robotics #shorts](https://www.youtube.com/watch?v=haGH86W_f5A)**
+**[Introducing Helix 02](https://www.youtube.com/watch?v=lQsvTrRTBRs)**
 
-The Growing Robot That Enters Collapsed Buildings Before Humans Do When disaster strikes and buildings collapse, reaching ...
+Last year, Helix showed that a single neural network could control a humanoid's upper body from pixels. Today, Helix 02 extends ...
 
-📺 EcoZora
+📺 Figure
 
-👁️ 359K • 👍 2K • 💬 151 • ⏱️ 0:07 • 4d ago
+👁️ 190K • 👍 11K • 💬 2K • ⏱️ 3:37 • 3d ago
 
 ---
 
