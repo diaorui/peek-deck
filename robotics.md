@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-01-30T06:52:13.700887+00:00'
+updated: '2026-01-30T07:40:42.219745+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- news
 - videos
 - social
+- news
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** January 30, 2026 at 06:52 UTC  
+**Last Updated:** January 30, 2026 at 07:40 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -50,7 +50,7 @@ The overall goal is to lower the barrier to entry for soft robotics and provide 
 
 **[We trained the yolo model with custom data set to detect head from top view.this needs to reply on bus to count passenger count.it deployed on pi4 with 8gb and data is trained on 25k images](https://www.reddit.com/r/robotics/comments/1qqtoa0/we_trained_the_yolo_model_with_custom_data_set_to/)**
 
-3h ago
+4h ago
 
 ---
 
@@ -58,7 +58,7 @@ The overall goal is to lower the barrier to entry for soft robotics and provide 
 
 Setup: 2 x Super-Beacons - a few meters away on the walls of the room - as stationary beacons emitting short ultrasound pulses 1 x Mini-RX as a mobile beacon in hands - receiving ultrasound pulses from the stationary beacons 1 x Modem as central controller of the system - connected by the white USB cable from the laptop - synchronizes the clocks between all elements, controls the telemetry, and the system overall The Dashboard on the computer doesn't calculate anything; it just displays the tracking. The location is calculated by the mobile beacon in hand and then streamed over USB to show on the display Inverse Architecture: https://marvelmind.com/pics/architectures_comparison.pdf
 
-45m ago
+1h ago
 
 ---
 
@@ -66,7 +66,7 @@ Setup: 2 x Super-Beacons - a few meters away on the walls of the room - as stati
 
 Working on my first robotics build at the moment and easing my way into it. Any pointers or tips would be greatly appreciated. This is what I have for hardware so far.
 
-17h ago
+18h ago
 
 ---
 
@@ -74,7 +74,7 @@ Working on my first robotics build at the moment and easing my way into it. Any 
 
 Kikobot is running a gripper design challenge focused on real-world mechanical design and manufacturability. Open to students and makers. Details in the poster. https://preview.redd.it/06yevmmhjfgg1.jpeg?width=1587&format=pjpg&auto=webp&s=46e8b3b08860ce2ed098219f80366843d43d7f50
 
-30m ago
+1h ago
 
 ---
 
@@ -82,7 +82,7 @@ Kikobot is running a gripper design challenge focused on real-world mechanical d
 
 I am final year robotics engineer . In industry I want a career as a simulation engineer. When ever I tried to do simulation like basic pick and place . It's not working in laptop.Either it's gazebo version problem or moveit version. . Sometimes I can't even find what problem I am facing . I want to do simulation in Issac sim, do much complex simulation in gazebo or any other simulation platforms. I know basic backend of ros2 where I did some service client project and I am very good at cad modelling.I followed some udemy tutorials video. But in udemy there is no proper tutorials for simulations. TLDR :Could anyone help me with to learn simulation for robotics .I am struggling to do basic simulations.
 
-2h ago
+3h ago
 
 ---
 
@@ -96,7 +96,7 @@ I am final year robotics engineer . In industry I want a career as a simulation 
 
 I'm trying to learn the basics of Mujoco and RL through teaching a panda arm to place boxes into color coordinated buckets. I'm having a lot of trouble getting it to learn. Does anyone have any guides or know of existing projects I can use to guide me? This is my current environment. https://preview.redd.it/pkckdasgodgg1.png?width=922&format=png&auto=webp&s=07365fbdf62558f4017f5943ed92e172ed60d9b3
 
-6h ago
+7h ago
 
 ---
 
@@ -130,7 +130,7 @@ Interesting Engineering • 2d ago
 
 **[Lightspeed Backs Robotics Startup in $100 Million Round](https://www.bloomberg.com/news/articles/2026-01-29/fiat-toyota-tycoons-back-startup-robco-in-100-million-round)**
 
-Bloomberg.com • 14h ago
+Bloomberg.com • 15h ago
 
 ---
 
@@ -146,7 +146,7 @@ NASA (.gov) • 2d ago
 
 President Lee Jae Myung said Thursday that workers must adapt swiftly to the era of artificial intelligence (AI), in an apparent message to Hyundai...
 
-koreatimes.co.kr • 18h ago
+koreatimes.co.kr • 19h ago
 
 ---
 
@@ -206,7 +206,7 @@ Steve Westly, former Tesla board member and founder of the Westly Group, joins '
 
 📺 CNBC Television
 
-👁️ 9K • 👍 60 • 💬 41 • ⏱️ 3:43 • 13h ago
+👁️ 9K • 👍 60 • 💬 41 • ⏱️ 3:43 • 14h ago
 
 ---
 
@@ -264,7 +264,7 @@ Some people are getting concerned because automatic AI pizza-making machines are
 
 📺 Taylor Jollie
 
-👁️ 14K • 👍 76 • 💬 9 • ⏱️ 0:19 • 13h ago
+👁️ 14K • 👍 76 • 💬 9 • ⏱️ 0:19 • 14h ago
 
 ---
 
