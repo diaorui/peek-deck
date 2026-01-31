@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-01-30T23:50:49.970910+00:00'
+updated: '2026-01-31T02:02:49.795583+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- videos
-- cryptocurrency
 - news
 - social
+- videos
+- cryptocurrency
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** January 30, 2026 at 23:50 UTC  
+**Last Updated:** January 31, 2026 at 02:02 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,33 +38,33 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $84,424.38
+### $83,970.11
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** -0.6%  
-**7d:** -5.7%  
-**30d:** -5.3%  
-**90d:** -24.0%  
-**1y:** -17.8%  
+**24h:** +1.6%  
+**7d:** -3.0%  
+**30d:** -6.6%  
+**90d:** -21.0%  
+**1y:** -16.5%  
 
 ---
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1680.35B
+**Market Cap:** $1675.93B
 Rank #1
 
-**Circulating Supply:** 19,982,450 BTC
+**Circulating Supply:** 19,982,512 BTC
 95.2% of max
 
 **All-Time High:** $126,080.00
--33.3%
+-33.5%
 
 **All-Time Low:** $67.81
-+123946.6%
++123582.3%
 
 ---
 
@@ -79,21 +79,7 @@ Rank #1
 
 **[Soo, who all is buying?](https://www.reddit.com/r/Bitcoin/comments/1qr6njb/soo_who_all_is_buying/)**
 
-9h ago
-
----
-
-**[Once again...](https://www.reddit.com/r/Bitcoin/comments/1qr5rn7/once_again/)**
-
-I wish I had more liquidity!
-
-10h ago
-
----
-
-**[Bitcoin president bt the way 😅](https://www.reddit.com/r/Bitcoin/comments/1qr34fh/bitcoin_president_bt_the_way/)**
-
-12h ago
+11h ago
 
 ---
 
@@ -101,45 +87,61 @@ I wish I had more liquidity!
 
 The deal will be too good to pass at that point.
 
-7h ago
+9h ago
 
 ---
 
 **[Pack yo bags — bullish for BTC. Who's locking in with me ?](https://www.reddit.com/r/Bitcoin/comments/1qr6uah/pack_yo_bags_bullish_for_btc_whos_locking_in_with/)**
 
-9h ago
+11h ago
+
+---
+
+**[Bitcoin president bt the way 😅](https://www.reddit.com/r/Bitcoin/comments/1qr34fh/bitcoin_president_bt_the_way/)**
+
+14h ago
+
+---
+
+**[Buying the dip.](https://www.reddit.com/r/Bitcoin/comments/1qrkz13/buying_the_dip/)**
+
+3h ago
+
+---
+
+**[Time for something less volatile](https://www.reddit.com/r/Bitcoin/comments/1qrmwm4/time_for_something_less_volatile/)**
+
+1h ago
 
 ---
 
 **[Sliver people acting like it’s such a volatile asset. LMAO](https://www.reddit.com/r/Bitcoin/comments/1qriea6/sliver_people_acting_like_its_such_a_volatile/)**
 
-2h ago
+4h ago
 
 ---
 
-**[HODL….Dont Fold 😎](https://www.reddit.com/r/Bitcoin/comments/1qrj823/hodldont_fold/)**
+**[Sold some bitcoin to get dinner 😃($25 @$83k)](https://www.reddit.com/r/Bitcoin/comments/1qro4xf/sold_some_bitcoin_to_get_dinner_25_83k/)**
 
-2h ago
+Watching good will hunting tonight
 
----
-
-**[Kevin Warsh's view on Bitcoin:](https://www.reddit.com/r/Bitcoin/comments/1qr7vmx/kevin_warshs_view_on_bitcoin/)**
-
-8h ago
+54m ago
 
 ---
 
-**[Here we goooo](https://www.reddit.com/r/Bitcoin/comments/1qqkg06/here_we_goooo/)**
+**[Once again...](https://www.reddit.com/r/Bitcoin/comments/1qr5rn7/once_again/)**
 
-1d ago
+I wish I had more liquidity!
+
+12h ago
 
 ---
 
-**[Dip buyers, this is your moment. Don’t panic.](https://www.reddit.com/r/Bitcoin/comments/1qqt553/dip_buyers_this_is_your_moment_dont_panic/)**
+**[The bitcoin paradox is real](https://www.reddit.com/r/Bitcoin/comments/1qrkgcw/the_bitcoin_paradox_is_real/)**
 
-Red candles everywhere, BTC dipping hard. Paper hands sweating. Headlines screaming crash. But zoom out: - Halving effects still unfolding - Adoption & institutions not going anywhere This is classic Bitcoin - shakeout before the next leg up. If you believe in it, this dip is your discount window. Stack calmly while others panic. Cheers!
+If you tell your closest friends and relatives that you made money with bitcoin, their initial reaction will be to doubt and hate, because that is human nature.. Then by extension that means they will doubt and hate on bitcoin itself. For every person you tell about your bitcoin gains you will create twice as many bitcoin haters, because 99.9% of people hate seeing other people more successful than them.
 
-21h ago
+3h ago
 
 ---
 
@@ -147,49 +149,49 @@ Red candles everywhere, BTC dipping hard. Paper hands sweating. Headlines scream
 
 ## Google News: "bitcoin"
 
-**[Fed Chair nominee Warsh views bitcoin as “good policeman for policy”](https://finance.yahoo.com/news/fed-chair-nominee-warsh-views-150459398.html)**
-
-Warsh has praised bitcoin as a tool to guide policy, not as a competitor to the dollar.
-
-Yahoo Finance • 8h ago
-
----
-
 **[Kevin Warsh: Markets React as Pro-Bitcoin Economist Tipped for Fed](https://finance.yahoo.com/news/kevin-warsh-markets-react-pro-122358756.html)**
 
 Only yesterday, we explained how Donald Trump runs his White House like a reality TV competition. Nominees for high office are turned into contestants vying for his approval, and the frontrunner could switch at any minute.Lo and behold, that’s exactly what’s happened in the race to become the next chairman ...
 
-Yahoo Finance • 11h ago
+Yahoo Finance • 13h ago
+
+---
+
+**[Fed Chair nominee Warsh views bitcoin as “good policeman for policy”](https://finance.yahoo.com/news/fed-chair-nominee-warsh-views-150459398.html)**
+
+Warsh has praised bitcoin as a tool to guide policy, not as a competitor to the dollar.
+
+Yahoo Finance • 10h ago
 
 ---
 
 **[Bitcoin Slumps to Two-Month Low as US Funds Shed Billions](https://www.bloomberg.com/news/articles/2026-01-30/bitcoin-btc-slumps-to-two-month-low-as-us-funds-shed-billions)**
 
-Bloomberg.com • 2h ago
+Bloomberg.com • 4h ago
 
 ---
 
-**[Silver Is Trading Like a Shortage Story – Bitcoin Like a Macro Beta Trade](https://finance.yahoo.com/news/silver-trading-shortage-story-bitcoin-204803672.html)**
+**[Bitcoin price news: BTC hits fresh 2026 low as day's plunge continues](https://www.coindesk.com/markets/2026/01/29/bitcoin-pulls-back-to-usd81-000-as-horrendous-day-continues)**
 
-Silver and Bitcoin have spent much of the past decade being discussed in the same breath, often framed as parallel alternatives to fiat money and beneficiaries of macro stress. That story is currently being put to the test, as the two assets are drifting in wildly different directions in late ...
+The world's largest cryptocurrency has shed nearly $10,000 over the past 24 hours, now threatening to take out its recent November low just under $81,000.
 
-Yahoo Finance • 3h ago
-
----
-
-**[Bitcoin price plunge: Why are crypto prices dropping this time?](https://mashable.com/article/bitcoin-price-plunge-crypto-falls-jan-29)**
-
-How low can Bitcoin go?
-
-Mashable • 1d ago
+CoinDesk • 21h ago
 
 ---
 
-**[Bitcoin Mining Profits Hit 14-Month Low After Winter Storm Rocks Miners: CryptoQuant](https://finance.yahoo.com/news/bitcoin-mining-profits-hit-14-220219506.html)**
+**[JPMorgan says bitcoin futures oversold as silver flips overbought, sees $8,500 gold long term](https://www.theblock.co/post/387893/jpmorgan-bitcoin-gold-silver-8500-long-term)**
 
-Bitcoin miners are "extremely underpaid" given the price of Bitcoin and current BTC mining conditions, according to a CryptoQuant report.
+Indeed, since the JPMorgan report was published on Wednesday, both silver and gold have pulled back from recent highs.
 
-Yahoo Finance • 1h ago
+The Block • 5h ago
+
+---
+
+**[Here's how Elon Musk's SpaceX–Tesla merger could impact 20,000 bitcoin (BTC)](https://www.coindesk.com/markets/2026/01/30/spacex-tesla-merger-talks-puts-nearly-20-000-bitcoin-in-focus)**
+
+Any deal involving SpaceX and Tesla would quietly consolidate one of the world’s largest corporate bitcoin holdings under a single roof.
+
+CoinDesk • 2h ago
 
 ---
 
@@ -197,31 +199,31 @@ Yahoo Finance • 1h ago
 
 The world’s largest cryptocurrency is down 2% over the past day while gold and silver have dropped 11% and 30%, respectively.
 
-Fortune • 5h ago
+Fortune • 7h ago
 
 ---
 
-**[The Bitcoin Sell-Off Is Getting Worse, but That Won't Stop Me From Buying Even More](https://www.fool.com/investing/2026/01/30/the-bitcoin-sell-off-is-getting-worse-but-it-wont/)**
+**[The gold and silver bubbles may have popped; what it means for bitcoin (BTC)](https://www.coindesk.com/markets/2026/01/30/precious-metals-crash-with-silver-plunging-32-gold-11-bitcoin-slips-back-to-usd82-000)**
 
-It's reasonable to say that this coin isn't behaving like a safe harbor asset right now.
+Crypto bulls who have theorized that bitcoin can't begin rising until money flows out of red-hot precious metals are about to find out if they were correct.
 
-The Motley Fool • 11h ago
-
----
-
-**[Why Bitcoin’s Pullback May Be Setting Up A Rotation From Gold](https://www.forbes.com/sites/aliceliu/2026/01/29/why-bitcoins-pullback-may-be-setting-up-a-rotation-from-gold/)**
-
-Is Bitcoin near a bottom while gold peaks? Explore crypto liquidations, market cycles, and why investors are eyeing a BTC-long, gold-short rotation
-
-Forbes • 1d ago
+CoinDesk • 7h ago
 
 ---
 
-**[Bitcoin down for fourth consecutive month, its longest losing streak since 2018](https://sherwood.news/crypto/bitcoin-down-for-fourth-consecutive-month-its-longest-losing-streak-since/)**
+**[Why Gold is Rallying and Bitcoin Isn’t](https://finance.yahoo.com/news/why-gold-rallying-bitcoin-isn-153600430.html)**
 
-Bitcoin also suffered roughly $800 million in liquidations and ETF outflows in the past 24 hours....
+For years, Bitcoin has been championed as “digital gold” — with ardent believers arguing it’s far superior to the precious metal. Unfortunately, it seems the market disagrees.Gold’s extraordinary bull run shows no sign of slowing down. It’s surged by 25% over the past month, 66% over the past six months, ...
 
-Sherwood News • 7h ago
+Yahoo Finance • 1d ago
+
+---
+
+**[Largest crypto exchange announces surprising plan after Bitcoin crashes](https://www.thestreet.com/crypto/markets/largest-crypto-exchange-announces-surprising-plan-after-bitcoin-crashes)**
+
+Binance has a new Bitcoin floor plan.
+
+thestreet.com • 13h ago
 
 ---
 
@@ -247,7 +249,7 @@ A list of known attacks against Bitcoin / crypto asset owning entities that occu
 
 **[Bitcoin's Quantum Computing Threat](https://news.ycombinator.com/item?id=46824834)**
 
-⬆️ 1 • 💬 0 • 9h ago • [bmpro.substack.com](https://bmpro.substack.com/p/bitcoins-quantum-computing-threat)
+⬆️ 1 • 💬 0 • 11h ago • [bmpro.substack.com](https://bmpro.substack.com/p/bitcoins-quantum-computing-threat)
 
 ---
 
@@ -255,7 +257,7 @@ A list of known attacks against Bitcoin / crypto asset owning entities that occu
 
 Examine why the Binance SAFU fund debate keeps resurfacing, how stablecoins signal safety, and why Bitcoin continues to dominate trust conversations.
 
-⬆️ 1 • 💬 0 • 14h ago • [Altcoin Desk](https://altcoindesk.com/perspectives/1b-binance-safu-fund-if-stablecoins-mean-safety-why-do-bitcoin-returns/article-22752/)
+⬆️ 1 • 💬 0 • 16h ago • [Altcoin Desk](https://altcoindesk.com/perspectives/1b-binance-safu-fund-if-stablecoins-mean-safety-why-do-bitcoin-returns/article-22752/)
 
 ---
 
@@ -293,7 +295,7 @@ Transform HN comment threads into executive intelligence. AI analyzes discussion
 
 20 years of Hacker News analyzed. 40M comments. 10,000 topics. What the tech community really thinks.
 
-⬆️ 3 • 💬 0 • 7h ago • [HN Zeitgeist](https://hn.mrzepa.com/)
+⬆️ 3 • 💬 0 • 9h ago • [HN Zeitgeist](https://hn.mrzepa.com/)
 
 ---
 
@@ -307,33 +309,43 @@ Transform HN comment threads into executive intelligence. AI analyzes discussion
 
 ## YouTube Videos: "bitcoin"
 
+**[CIO Matt Hougan’s $6.5M Bitcoin Call: &#39;Long Term Investors Will Be Rewarded&#39;](https://www.youtube.com/watch?v=qxZHWdNnmkI)**
+
+Bitwise Chief Investment Officer, Matt Hougan joins CoinDesk's Markets Outlook with Jennifer Sanasie and Andy Baehr.
+
+📺 CoinDesk
+
+👁️ 3K • 👍 125 • 💬 14 • ⏱️ 26:03 • 7h ago
+
+---
+
 **[Death of the Dollar? Central Banks MUST Buy Bitcoin!](https://www.youtube.com/watch?v=98imMTwbdQU)**
 
 Central banks are selling Treasuries and hoarding gold at record levels as trust in the dollar erodes. But gold has structural limits ...
 
 📺 Swan Bitcoin
 
-👁️ 18K • 👍 976 • 💬 150 • ⏱️ 14:55 • 9h ago
+👁️ 20K • 👍 1K • 💬 162 • ⏱️ 14:55 • 12h ago
 
 ---
 
-**[I’m Bullish On This Bitcoin Crash [Preparing For Strong Bounce]](https://www.youtube.com/watch?v=2RPJsJfX-IE)**
+**[CRYPTO CRISIS AVOIDED?! BREAKING CRYPTO NEWS TODAY!](https://www.youtube.com/watch?v=TEohPWHyqUA)**
 
-It's a terrifying time to be in the markets, especially with Bitcoin so close $80K and the fear is escalating. In this video, Sheldon will ...
+CRYPTO CRISIS AVOIDED?! BREAKING CRYPTO NEWS TODAY! ⭐️ AUSTIN'S STOCK CHANNEL - SUPPORT IT HERE ...
 
-📺 Crypto Banter
+📺 Austin Hilton
 
-👁️ 13K • 👍 892 • 💬 44 • ⏱️ 36:59 • 12h ago
+👁️ 11K • 👍 734 • 💬 24 • ⏱️ 5:28 • 10h ago
 
 ---
 
-**[Michael Saylor on Bitcoin Crash &amp; MSTR Stock Drop – BTC Price Analysis](https://www.youtube.com/watch?v=hBmAUuKogrI)**
+**[&quot;This Bitcoin &amp; Crypto Crash Is WORSE Than Many Realize&quot; - Jack Mallers &amp; Raoul Pal](https://www.youtube.com/watch?v=SusvzMpWuo8)**
 
-BTC #Bitcoin #Cryptocurrency Join Michael Saylor for his unforgettable keynote at the Bitcoin Conference. The leading Bitcoin ...
+Gold is absorbing sovereign capital while Bitcoin struggles — and that's exactly how this transition is supposed to look.
 
-📺 Natalie Clarice
+📺 Savvy Finance
 
-👁️ 5K • 👍 2K • 1h ago
+👁️ 2K • 👍 135 • 💬 11 • ⏱️ 19:18 • 3h ago
 
 ---
 
@@ -343,7 +355,17 @@ Check out ClashPicks: https://www.clashpicks.com/ **Exchange Partners** Bitunix 
 
 📺 CryptosRUs
 
-👁️ 49K • 👍 2K • 💬 587 • ⏱️ 8:41 • 22h ago
+👁️ 50K • 👍 2K • 💬 613 • ⏱️ 8:41 • 1d ago
+
+---
+
+**[Trumps Pick Gives Me MASSIVE Bitcoin Hope](https://www.youtube.com/watch?v=3pPBVuh3IM4)**
+
+Donald Trump chooses Kevin Warsh as his pick for the Federal Reserve Chair. The links below may include affiliate links, which ...
+
+📺 Digital Asset News
+
+👁️ 6K • 👍 523 • 💬 61 • ⏱️ 21:17 • 10h ago
 
 ---
 
@@ -353,27 +375,7 @@ LIMITED TIME: ✓ Bitunix (no kyc, $700 bonus): https://www.bitunix.com/register
 
 📺 Altcoin Daily
 
-👁️ 66K • 👍 2K • 💬 259 • ⏱️ 8:26 • 1d ago
-
----
-
-**[This Is Exactly How Bitcoin Always Breaks Out](https://www.youtube.com/watch?v=SAv2ua0soWo)**
-
-Gold and silver are exploding as global debt, deficits, and bond markets crack. Bitcoin looks quiet, even mocked — but this is ...
-
-📺 Swan Bitcoin
-
-👁️ 10K • 👍 321 • 💬 49 • ⏱️ 1:39 • 1d ago
-
----
-
-**[The Argument Of &quot;You Want To Own Bitcoin During Risk-On Times and Metals During Risk-Off Times&quot;](https://www.youtube.com/watch?v=ldGjQ7ONYW8)**
-
-Into The Cryptoverse Premium: https://intothecryptoverse.com Into The Cryptoverse Newsletter: ...
-
-📺 Benjamin Cowen
-
-👁️ 11K • 👍 118 • 💬 8 • ⏱️ 0:37 • 1d ago
+👁️ 66K • 👍 2K • 💬 258 • ⏱️ 8:26 • 1d ago
 
 ---
 
@@ -383,27 +385,27 @@ Bitcoin #Crypto #Finance Bitcoin, gold, and silver are all breaking down at the 
 
 📺 The Wolf Of All Streets
 
-👁️ 20K • 👍 1K • 💬 295 • ⏱️ 40:13 • 7h ago
+👁️ 21K • 👍 1K • 💬 283 • ⏱️ 40:13 • 9h ago
 
 ---
 
-**[Bitcoin About To Explode If The Fed Does This Today...](https://www.youtube.com/watch?v=l30sNrH4pvs)**
+**[This Has NEVER Happened to BTC, Something Is Seriously Wrong - Willy Woo on Bitcoin Crash](https://www.youtube.com/watch?v=RW4qP6zgm4A)**
 
-Today, let's examine Bitcoin's charts and metrics, as well as the latest Macro and Crypto news. Additionally, a look at the latest ...
+Take Control of Your Retirement — Grow Crypto & Gold Tax-Advantaged. https://www.itrustcapital.com/go/savvy-finance If you're ...
 
-📺 CryptosRUs
+📺 Savvy Finance
 
-👁️ 37K • 👍 2K • 💬 243 • ⏱️ 38:00 • 2d ago
+👁️ 3K • 👍 134 • 💬 27 • ⏱️ 20:18 • 9h ago
 
 ---
 
-**[NFA Live! Metal Mania, Bitcoin Lags](https://www.youtube.com/watch?v=18HleHy3DIo)**
+**[I’m Bullish On This Bitcoin Crash [Preparing For Strong Bounce]](https://www.youtube.com/watch?v=2RPJsJfX-IE)**
 
-Let's talk about metals, stocks, and #Bitcoin in 2025! 0:00 - INTRO NFA LIVE 1/29/26 0:07 Guest introductions and greetings 1:03 ...
+It's a terrifying time to be in the markets, especially with Bitcoin so close $80K and the fear is escalating. In this video, Sheldon will ...
 
-📺 Benjamin Cowen
+📺 Crypto Banter
 
-👁️ 20K • 👍 1K • 💬 63 • ⏱️ 55:38 • 1d ago
+👁️ 14K • 👍 904 • 💬 46 • ⏱️ 36:59 • 14h ago
 
 ---
 
