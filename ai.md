@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-01-31T08:33:06.085172+00:00'
+updated: '2026-01-31T09:29:37.821983+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
 - videos
+- news
 - social
 - repositories
-- news
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** January 31, 2026 at 08:33 UTC  
+**Last Updated:** January 31, 2026 at 09:29 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -41,13 +41,13 @@ AI news, discussions, and developments
 
 AI coding tools are getting more sophisticated. But if coders stop coding, what happens to software development jobs?
 
-🔗 [Fortune](https://fortune.com/2026/01/29/100-percent-of-code-at-anthropic-and-openai-is-now-ai-written-boris-cherny-roon/) • 10h ago
+🔗 [Fortune](https://fortune.com/2026/01/29/100-percent-of-code-at-anthropic-and-openai-is-now-ai-written-boris-cherny-roon/) • 11h ago
 
 ---
 
 **[The $100 Billion Megadeal Between OpenAI and Nvidia Is on Ice](https://www.reddit.com/r/artificial/comments/1qrnq8u/the_100_billion_megadeal_between_openai_and/)**
 
-🔗 [wsj.com](https://www.wsj.com/tech/ai/the-100-billion-megadeal-between-openai-and-nvidia-is-on-ice-aa3025e3) • 7h ago
+🔗 [wsj.com](https://www.wsj.com/tech/ai/the-100-billion-megadeal-between-openai-and-nvidia-is-on-ice-aa3025e3) • 8h ago
 
 ---
 
@@ -55,13 +55,13 @@ AI coding tools are getting more sophisticated. But if coders stop coding, what 
 
 I’m seeing too many new devs use AI as an autopilot instead of a hint system. By skipping the "struggle phase", you’re missing out on building that essential debugging muscle. If you don't wrestle with the errors now, you’ll be clueless when things actually break later and there's no prompt to save you. AI is great for boilerplate, but don't let it rot your fundamentals. What do you guys think? Is AI making new devs "lazy" or just more efficient in this era?
 
-5h ago
+6h ago
 
 ---
 
 **[The debate over artificial intelligence and employment](https://www.reddit.com/r/artificial/comments/1qrb5dt/the_debate_over_artificial_intelligence_and/)**
 
-🔗 [technology.org](https://www.technology.org/2026/01/28/the-debate-over-artificial-intelligence-and-employment/) • 15h ago
+🔗 [technology.org](https://www.technology.org/2026/01/28/the-debate-over-artificial-intelligence-and-employment/) • 16h ago
 
 ---
 
@@ -69,7 +69,7 @@ I’m seeing too many new devs use AI as an autopilot instead of a hint system. 
 
 OpenClaw’s AI assistants are now building their own social network.[1] DeepSeek AI Releases DeepSeek-OCR 2 with Causal Visual Flow Encoder for Layout Aware Document Understanding.[2] Video game company stock prices dip after Google introduces an AI world-generation tool.[3] AI model from Google’s DeepMind reads recipe for life in DNA.[4] Sources: [1] https://techcrunch.com/2026/01/30/openclaws-ai-assistants-are-now-building-their-own-social-network/ [2] https://www.marktechpost.com/2026/01/30/deepseek-ai-releases-deepseek-ocr-2-with-causal-visual-flow-encoder-for-layout-aware-document-understanding/ [3] https://www.theverge.com/games/871348/google-project-genie-take-two-roblox-unity [4] https://www.bbc.com/news/articles/c39428dv18yo
 
-2h ago
+3h ago
 
 ---
 
@@ -77,7 +77,7 @@ OpenClaw’s AI assistants are now building their own social network.[1] DeepSee
 
 Chris Mason, the longtime Linux kernel developer most known for being the creator of Btrfs, has been working on a Git repository with AI review prompts he has been working on for LLM-assisted code review of Linux kernel patches
 
-🔗 [phoronix.com](https://www.phoronix.com/news/AI-Code-Review-Prompts-Linux) • 5h ago
+🔗 [phoronix.com](https://www.phoronix.com/news/AI-Code-Review-Prompts-Linux) • 6h ago
 
 ---
 
@@ -85,7 +85,7 @@ Chris Mason, the longtime Linux kernel developer most known for being the creato
 
 ByteDance, Alibaba and Tencent had been given permission to purchase more than 400,000 H200 chips in total.
 
-🔗 [thestandard.com.hk](https://www.thestandard.com.hk/china-news/article/323159/China-conditionally-approves-DeepSeek-to-buy-Nvidias-H200-chips) • 22h ago
+🔗 [thestandard.com.hk](https://www.thestandard.com.hk/china-news/article/323159/China-conditionally-approves-DeepSeek-to-buy-Nvidias-H200-chips) • 23h ago
 
 ---
 
@@ -93,7 +93,7 @@ ByteDance, Alibaba and Tencent had been given permission to purchase more than 4
 
 Hey, I've been using AI image generation (Genspark, Midjourney, Stable Diffusion) to create pictures and explore a whole fictional lore. I use Nano Banana Pro on Genspark now for some realistic, cozy, and unproblematic scenes with my fictional characters created out of the blue. But I also have a use of AI where I create really risky content, mostly kinky and humiliating situations. Not sexual, but erotic for me as it triggers my fetishes, and definitely intimate and degrading. I explore this interest with some of my own fictional characters. But I recently crossed the line of exploring the use of reference images of real people to keep the character consistent. I know about the ethical, moral, and weird concerns. I'm aware of the unconscious harm I can do as I fetishize these people, and I'm aware I can be a creep who's walking in a gray area. It could be a vast psychological subject about how I fetishize a person, or a weird parasocial relationship with them, as a consolation or imaginary shelter, imagining a relation that will in all likelihood never exist. I may just be very badly coping with this parasocial relationship. I know everything stays completely private. I downloaded locally, I'm generally confident about confidentiality on these websites, I never shared. But lately I've been second-guessing whether this is okay, even if no one ever sees it. I just deactivated the Data Retention option on Genspark and I don't know what it actually does. Does it keep my generated data completely private, not even stored on the servers? I thought it was activated by default, and I just shut it off. Platforms store images on public servers with accessible URLs, deleting conversation history doesn't actually wipe the images, and deepfake laws are evolving fast. Some juridictions are cracking down on non-consensual AI content even if it's not sexual. I'm in France and on this matter, the laws are mainly UE laws. For you, and maybe for people who are doing similar things on AI in servers instead of running it locally, does a purely private use still cross a line ? And privacy-wise, should I actually worry about platforms reviewing flagged images, reporting problematic content, or data breaches exposing everything ? Is there a reason anyone could individually report any image and share it for ethical or legal concerns ? My content is not illegal nor flagged. It could just be really problematic if accidentally discovered, a risk that may be very low. However, I'm leaning toward ditching real faces and sticking to purely fictional characters. But part of me wonders if I'm overthinking this as it's likeky that nothing ever gets shared and no one finds out. Anyone else navigating this gray area, how do you think about it ?
 
-13h ago
+14h ago
 
 ---
 
@@ -119,7 +119,7 @@ Amazon is reportedly in discussions to invest as much as $50 billion in OpenAI, 
 
 **[Opinion | Young People Are Using A.I. to Skip the Hardest Part of Growing Up](https://www.nytimes.com/2026/01/30/opinion/ai-social-skills-relationships.html)**
 
-The New York Times • 22h ago
+The New York Times • 23h ago
 
 ---
 
@@ -135,7 +135,7 @@ Anthropic • 1d ago
 
 As a showcase of youth innovation, future artificial intelligence technology took center stage in Rancho Cordova with students showing off their bots. Here's why the city is helping sponsor this cutting-edge education.
 
-CBS News • 1h ago
+CBS News • 2h ago
 
 ---
 
@@ -149,7 +149,7 @@ The Hill • 15h ago
 
 Silver’s new Ineffable Intelligence aims to develop “superintelligence” using the same AI methods that led to Google DeepMind breakthroughs like AlphaGo.
 
-Fortune • 18h ago
+Fortune • 19h ago
 
 ---
 
@@ -157,7 +157,7 @@ Fortune • 18h ago
 
 When bubbles burst, what comes next can be better, if we build it differently
 
-The Guardian • 21h ago
+The Guardian • 22h ago
 
 ---
 
@@ -165,7 +165,7 @@ The Guardian • 21h ago
 
 The team for the six-wheeled scientist used a vision-capable AI to create a safe route over the Red Planet’s surface without the input of human route planners.
 
-NASA Jet Propulsion Laboratory (JPL) (.gov) • 12h ago
+NASA Jet Propulsion Laboratory (JPL) (.gov) • 13h ago
 
 ---
 
@@ -173,7 +173,7 @@ NASA Jet Propulsion Laboratory (JPL) (.gov) • 12h ago
 
 The case marks the first conviction on AI-related economic espionage charges in the U.S., according to the Department of Justice.
 
-CNBC • 13h ago
+CNBC • 14h ago
 
 ---
 
@@ -263,7 +263,7 @@ The rise of LLMs as a useful development tool over the last year or so has been 
 
 New York mayor says terminating the ‘unusable’ bot will help close a budget gap
 
-⬆️ 163 • 💬 56 • 14h ago • [themarkup.org](https://themarkup.org/artificial-intelligence/2026/01/30/mamdani-to-kill-the-nyc-ai-chatbot-we-caught-telling-businesses-to-break-the-law)
+⬆️ 163 • 💬 56 • 15h ago • [themarkup.org](https://themarkup.org/artificial-intelligence/2026/01/30/mamdani-to-kill-the-nyc-ai-chatbot-we-caught-telling-businesses-to-break-the-law)
 
 ---
 
@@ -279,33 +279,33 @@ A lot of vendors pitch AI SRE. We tested 14 models across 11 programming languag
 
 ## YouTube Videos: "ai"
 
-**[China’s New Shape Shifting AI Robot Walks on Water, Flies and Swims](https://www.youtube.com/watch?v=nLKj1gvJzWI)**
-
-Humanoid robotics just took a massive leap into the real world. Researchers in China revealed GrowHR, a soft shape shifting ...
-
-📺 AI Revolution
-
-👁️ 11K • 👍 386 • 💬 42 • ⏱️ 14:25 • 8h ago
-
----
-
-**[Crazy AI Beds You’ll Wish Were Real  😱✨ | Ultimate Oddly Satisfying AI ASMR](https://www.youtube.com/watch?v=Td1e5CDUHnI)**
-
-Crazy AI Beds You'll Wish Were Real ✨ | Ultimate Oddly Satisfying AI ASMR Drift into pure comfort—AI-crafted relaxing beds ...
-
-📺 Ultimate Oddly Satisfying ASMR
-
-👁️ 51K • 👍 6K • 💬 15 • ⏱️ 8:03 • 2d ago
-
----
-
 **[Top 9 AI Trends I&#39;m Betting My Bank Account On in 2026](https://www.youtube.com/watch?v=ZP9ki_8-ZvE)**
 
 Get Your FREE AI Company Operating System here: https://go.danmartell.com/3NKZDuQ Are you building an AI software ...
 
 📺 Dan Martell
 
-👁️ 33K • 👍 2K • 💬 398 • ⏱️ 18:48 • 18h ago
+👁️ 36K • 👍 2K • 💬 410 • ⏱️ 18:48 • 19h ago
+
+---
+
+**[STOP Paying! 2 AI Video Generators That Are Actually FREE](https://www.youtube.com/watch?v=5mEWY6-qROo)**
+
+Get the FREE PDF (links + prompts) → https://discord.gg/6aV3ps7tB2 STOP overpaying for AI video. In this video I'll show you 2 ...
+
+📺 Malva AI
+
+👁️ 12K • 👍 772 • 💬 193 • ⏱️ 7:42 • 21h ago
+
+---
+
+**[China’s New Shape Shifting AI Robot Walks on Water, Flies and Swims](https://www.youtube.com/watch?v=nLKj1gvJzWI)**
+
+Humanoid robotics just took a massive leap into the real world. Researchers in China revealed GrowHR, a soft shape shifting ...
+
+📺 AI Revolution
+
+👁️ 16K • 👍 472 • 💬 50 • ⏱️ 14:25 • 9h ago
 
 ---
 
@@ -315,27 +315,7 @@ Here's the news you probably missed this week. If you want to transform your sit
 
 📺 Matt Wolfe
 
-👁️ 29K • 👍 1K • 💬 106 • ⏱️ 30:47 • 14h ago
-
----
-
-**[The truth about AI music](https://www.youtube.com/watch?v=9x4HmSsCxRY)**
-
-Sky News' technology correspondent Rowland Manthorpe investigates the hidden world behind the explosion of AI-generated ...
-
-📺 Sky News
-
-👁️ 3K • 👍 54 • 💬 16 • ⏱️ 12:25 • 14h ago
-
----
-
-**[Google’s New AI AlphaGenome Just Unlocked the Code of Human Life](https://www.youtube.com/watch?v=RZAHYxa5YjQ)**
-
-Try Mammouth AI here: https://bit.ly/4sUpPDw AI just made a serious leap into the code of human life. Google DeepMind unveiled ...
-
-📺 AI Revolution
-
-👁️ 22K • 👍 945 • 💬 72 • ⏱️ 12:58 • 1d ago
+👁️ 33K • 👍 2K • 💬 112 • ⏱️ 30:47 • 15h ago
 
 ---
 
@@ -345,7 +325,7 @@ Nobel Prize winner Geoffrey Hinton, the physicist known for his pioneering work 
 
 📺 LBC
 
-👁️ 171K • 👍 2K • 💬 1K • ⏱️ 8:50 • 2d ago
+👁️ 174K • 👍 2K • 💬 1K • ⏱️ 8:50 • 2d ago
 
 ---
 
@@ -355,27 +335,47 @@ Support our work: http://novara.media/support Buy Novara Media merch: https://sh
 
 📺 Novara Media
 
-👁️ 78K • 👍 2K • 💬 724 • ⏱️ 21:03 • 2d ago
+👁️ 79K • 👍 2K • 💬 731 • ⏱️ 21:03 • 2d ago
 
 ---
 
-**[How Anthropic’s AI Bankrupted Itself](https://www.youtube.com/watch?v=zMDXzG1kA14)**
+**[CLAWDBOT EXPOSED: The $16M AI Scam That Fooled Everyone (72 Hour Meltdown)](https://www.youtube.com/watch?v=mPWY7qiISoA)**
 
-Get 10% off all Hostinger yearly plans here: http://hostinger.com/albertatech (Use code: ALBERTATECH) *Chapters* 0:00 Intro ...
+GET MY FREE GUIDE: *The Content Creator's AI Blueprint: From 25 Hours to 5 Minutes* https://FirstMovers.ai/blueprint/ *A ...
 
-📺 Alberta Tech
+📺 Julia McCoy
 
-👁️ 182K • 👍 12K • 💬 980 • ⏱️ 11:33 • 1d ago
+👁️ 80K • 👍 4K • 💬 603 • ⏱️ 9:49 • 1d ago
 
 ---
 
-**[Why Everyone Is Buying M4 Mac Minis for AI](https://www.youtube.com/watch?v=aD8rzEiH8ns)**
+**[&quot;We Are The VIRUS&quot; - Anthropic CEO’s AI Doom Warning Sparks Tech Apocalypse FEARS](https://www.youtube.com/watch?v=tRD7VVVMe5Y)**
 
-M4 Mac Minis are suddenly selling out — and not because of video editing or creative workflows. People are buying $499 Mac ...
+AI leaders are warning that the next phase of artificial intelligence could arrive much faster than society is ready for. From super-AI ...
 
-📺 Geoff Fagien
+📺 Valuetainment Short Clips
 
-👁️ 4K • 👍 114 • 💬 27 • ⏱️ 4:36 • 15h ago
+👁️ 14K • 👍 317 • 💬 81 • ⏱️ 20:26 • 1d ago
+
+---
+
+**[People Are Making Millions Without Showing Their Face (AI Influencers)](https://www.youtube.com/watch?v=QIX0lnr3qfo)**
+
+Build AI influencers and make money with Higgsfield here: https://higgsfield.ai/ai-influencer-studio?utm_source=thekoerneroffice ...
+
+📺 Chris Koerner on The Koerner Office Podcast
+
+👁️ 30K • 👍 1K • 💬 58 • ⏱️ 13:52 • 1d ago
+
+---
+
+**[The LLM Revolution Is Over. The Physical AI Revolution Is Coming Fast](https://www.youtube.com/watch?v=MWMe7yjPYpE)**
+
+On stage at Imagination In Action's AI Summit in Davos with John Werner, founder and CEO of Imagination In Action, Yann LeCun ...
+
+📺 Forbes
+
+👁️ 44K • 👍 1K • 💬 263 • ⏱️ 29:11 • 2d ago
 
 ---
 
@@ -391,7 +391,7 @@ Kimi K2.5 is a native multimodal agentic model with 1T parameters, excelling in 
 
 `image-text-to-text`
 
-⬇️ 25,438 • ❤️ 1,217 • 7h ago
+⬇️ 32,430 • ❤️ 1,239 • 8h ago
 
 ---
 
@@ -403,7 +403,7 @@ PersonaPlex-7B-v1 is a real-time, full-duplex speech-to-speech conversational mo
 
 `audio-to-audio`
 
-⬇️ 54,463 • ❤️ 1,521 • 2d ago
+⬇️ 62,097 • ❤️ 1,527 • 2d ago
 
 ---
 
@@ -415,7 +415,7 @@ Z-Image is an undistilled, high-fidelity text-to-image diffusion transformer mod
 
 `text-to-image`
 
-⬇️ 1,918 • ❤️ 712 • 2d ago
+⬇️ 2,893 • ❤️ 720 • 2d ago
 
 ---
 
@@ -427,7 +427,7 @@ DeepSeek-OCR-2 is a multilingual vision-language model for image-to-text tasks, 
 
 `image-text-to-text` `3.4B`
 
-⬇️ 45,346 • ❤️ 573 • 1d ago
+⬇️ 64,623 • ❤️ 577 • 1d ago
 
 ---
 
@@ -439,19 +439,7 @@ Qwen3-TTS-12Hz-1.7B-CustomVoice is a multilingual text-to-speech model supportin
 
 `text-to-speech` `1.9B`
 
-⬇️ 180,679 • ❤️ 806 • 2d ago
-
----
-
-**[VibeVoice-ASR](https://huggingface.co/microsoft/VibeVoice-ASR)**
-
-*Microsoft*
-
-VibeVoice-ASR is a unified speech-to-text model capable of processing up to 60 minutes of audio in a single pass, providing structured transcriptions with speaker diarization and timestamps. It supports customized hotwords for improved accuracy in domain-specific content.
-
-`automatic-speech-recognition` `8.7B`
-
-⬇️ 111,610 • ❤️ 748 • 3d ago
+⬇️ 198,332 • ❤️ 809 • 2d ago
 
 ---
 
@@ -463,7 +451,19 @@ HunyuanImage-3.0-Instruct is a native multimodal model for image generation, sup
 
 `image-to-image` `83.0B`
 
-⬇️ 37 • ❤️ 405 • 3d ago
+⬇️ 84 • ❤️ 445 • 3d ago
+
+---
+
+**[VibeVoice-ASR](https://huggingface.co/microsoft/VibeVoice-ASR)**
+
+*Microsoft*
+
+VibeVoice-ASR is a unified speech-to-text model capable of processing up to 60 minutes of audio in a single pass, providing structured transcriptions with speaker diarization and timestamps. It supports customized hotwords for improved accuracy in domain-specific content.
+
+`automatic-speech-recognition` `8.7B`
+
+⬇️ 124,895 • ❤️ 748 • 3d ago
 
 ---
 
@@ -475,19 +475,7 @@ GLM-4.7-Flash is a 30B-A3B MoE model, offering strong performance in the 30B cla
 
 `text-generation` `31.2B`
 
-⬇️ 645,542 • ❤️ 1,341 • 2d ago
-
----
-
-**[LightOnOCR-2-1B](https://huggingface.co/lightonai/LightOnOCR-2-1B)**
-
-*LightOn AI*
-
-LightOnOCR-2-1B is an efficient 1B-parameter end-to-end vision-language model for document OCR, excelling at extracting text from PDFs and images, including tables and forms, with state-of-the-art accuracy and speed.
-
-`image-text-to-text` `1.0B`
-
-⬇️ 27,393 • ❤️ 448 • 20h ago
+⬇️ 725,515 • ❤️ 1,348 • 2d ago
 
 ---
 
@@ -499,7 +487,19 @@ PaddleOCR-VL-1.5 is a multilingual Vision-Language Model (VLM) built on ERNIE 4.
 
 `image-text-to-text` `958.6M`
 
-⬇️ 216 • ❤️ 236 • 1d ago
+⬇️ 1,001 • ❤️ 243 • 1d ago
+
+---
+
+**[LightOnOCR-2-1B](https://huggingface.co/lightonai/LightOnOCR-2-1B)**
+
+*LightOn AI*
+
+LightOnOCR-2-1B is an efficient 1B-parameter end-to-end vision-language model for document OCR, excelling at extracting text from PDFs and images, including tables and forms, with state-of-the-art accuracy and speed.
+
+`image-text-to-text` `1.0B`
+
+⬇️ 28,728 • ❤️ 448 • 21h ago
 
 ---
 
@@ -515,7 +515,7 @@ PaddleOCR-VL-1.5 is a multilingual Vision-Language Model (VLM) built on ERNIE 4.
 
 LingBot-World is an open-source world simulator with high-fidelity dynamics, long-term memory capabilities, and real-time interactivity for diverse environments.
 
-▲ 88 • 💬 2 • ⭐ 1,138 • 3d ago
+▲ 90 • 💬 2 • ⭐ 1,138 • 3d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2601.20540) • [💻 code](https://github.com/Robbyant/lingbot-world/) • [🔗 project](https://technology.robbyant.com/lingbot-world)
 
@@ -529,21 +529,9 @@ LingBot-World is an open-source world simulator with high-fidelity dynamics, lon
 
 The Qwen3-TTS series presents advanced multilingual text-to-speech models with voice cloning and controllable speech generation capabilities, utilizing dual-track LM architecture and specialized speech tokenizers for efficient streaming synthesis.
 
-▲ 54 • 💬 1 • ⭐ 6,181 • 9d ago
+▲ 55 • 💬 1 • ⭐ 6,181 • 9d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2601.15621) • [💻 code](https://github.com/QwenLM/Qwen3-TTS)
-
----
-
-**[BitNet b1.58 2B4T Technical Report](https://huggingface.co/papers/2504.12285)**
-
-*Shuming Ma, Hongyu Wang, Shaohan Huang et al. (8 authors)*
-
-BitNet b1.58 2B4T, a 1-bit Large Language Model with 2 billion parameters, matches the performance of full-precision models while improving computational efficiency.
-
-▲ 81 • 💬 2 • ⭐ 26,915 • 9mo ago
-
-[🎓 arXiv](https://arxiv.org/abs/2504.12285) • [💻 code](https://github.com/microsoft/bitnet)
 
 ---
 
@@ -570,6 +558,18 @@ Bitnet.cpp enhances edge inference for ternary LLMs using a novel mixed-precisio
 ▲ 4 • 💬 0 • ⭐ 26,934 • 11mo ago
 
 [🎓 arXiv](https://arxiv.org/abs/2502.11880) • [💻 code](https://github.com/microsoft/BitNet/tree/paper)
+
+---
+
+**[BitNet b1.58 2B4T Technical Report](https://huggingface.co/papers/2504.12285)**
+
+*Shuming Ma, Hongyu Wang, Shaohan Huang et al. (8 authors)*
+
+BitNet b1.58 2B4T, a 1-bit Large Language Model with 2 billion parameters, matches the performance of full-precision models while improving computational efficiency.
+
+▲ 81 • 💬 2 • ⭐ 26,951 • 9mo ago
+
+[🎓 arXiv](https://arxiv.org/abs/2504.12285) • [💻 code](https://github.com/microsoft/bitnet)
 
 ---
 
@@ -613,20 +613,6 @@ UltraRAG is a comprehensive RAG toolkit that automates knowledge adaptation acro
 
 ---
 
-**[Masked Depth Modeling for Spatial Perception](https://huggingface.co/papers/2601.17895)**
-
-*Bin Tan, Changjiang Sun, Xiage Qin et al. (11 authors)*
-
-🏢 Robbyant
-
-LingBot-Depth is a depth completion model that uses visual context to refine depth maps through masked depth modeling and automated data curation for improved spatial perception in robotics and autonomous systems.
-
-▲ 22 • 💬 3 • ⭐ 602 • 5d ago
-
-[🎓 arXiv](https://arxiv.org/abs/2601.17895) • [💻 code](https://github.com/Robbyant/lingbot-depth) • [🔗 project](https://technology.robbyant.com/lingbot-depth)
-
----
-
 **[Agent Lightning: Train ANY AI Agents with Reinforcement Learning](https://huggingface.co/papers/2508.03680)**
 
 *Xufang Luo, Yuge Zhang, Zhiyuan He et al. (8 authors)*
@@ -636,6 +622,20 @@ Agent Lightning is a flexible RL framework for training LLMs in various agents, 
 ▲ 128 • 💬 6 • ⭐ 12,166 • 5mo ago
 
 [🎓 arXiv](https://arxiv.org/abs/2508.03680) • [💻 code](https://github.com/microsoft/agent-lightning) • [🔗 project](https://www.microsoft.com/en-us/research/project/agent-lightning/)
+
+---
+
+**[Masked Depth Modeling for Spatial Perception](https://huggingface.co/papers/2601.17895)**
+
+*Bin Tan, Changjiang Sun, Xiage Qin et al. (11 authors)*
+
+🏢 Robbyant
+
+LingBot-Depth is a depth completion model that uses visual context to refine depth maps through masked depth modeling and automated data curation for improved spatial perception in robotics and autonomous systems.
+
+▲ 22 • 💬 3 • ⭐ 623 • 5d ago
+
+[🎓 arXiv](https://arxiv.org/abs/2601.17895) • [💻 code](https://github.com/Robbyant/lingbot-depth) • [🔗 project](https://technology.robbyant.com/lingbot-depth)
 
 ---
 
@@ -679,7 +679,7 @@ LLM驱动的 A/H/美股智能分析器，多数据源行情 + 实时新闻 + Gem
 
 `Python` `agent` `ai` `aigc` `gemini` `llm`
 
-⭐ 7.9k • 🔱 8.4k • 18h ago
+⭐ 8.0k • 🔱 8.5k • 1h ago
 
 ---
 
@@ -689,7 +689,7 @@ LLM驱动的 A/H/美股智能分析器，多数据源行情 + 实时新闻 + Gem
 
 `Vue`
 
-⭐ 6.7k • 🔱 1.2k • 2d ago
+⭐ 6.8k • 🔱 1.2k • 2d ago
 
 ---
 
@@ -699,7 +699,7 @@ The Ultimate Collection of 500+ Agentic Skills for Claude Code/Antigravity/Curso
 
 `Python` `agentic-skills` `ai-agents` `antigravity` `autonomous-coding` `claude-code`
 
-⭐ 5.6k • 🔱 1.3k • 1h ago
+⭐ 5.7k • 🔱 1.3k • 1h ago
 
 ---
 
@@ -717,7 +717,7 @@ Marketing skills for Claude Code and AI agents. CRO, copywriting, SEO, analytics
 
 Claude Code skill that removes signs of AI-generated writing from text
 
-⭐ 3.6k • 🔱 300 • 8d ago
+⭐ 3.6k • 🔱 301 • 8d ago
 
 ---
 

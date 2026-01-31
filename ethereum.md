@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-01-31T08:33:06.100034+00:00'
+updated: '2026-01-31T09:29:37.836378+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
 - cryptocurrency
 - videos
-- social
 - news
+- social
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** January 31, 2026 at 08:33 UTC  
+**Last Updated:** January 31, 2026 at 09:29 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -52,17 +52,17 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Market Stats
 
-**Market Cap:** $324.27B
+**Market Cap:** $317.62B
 Rank #2
 
 **Circulating Supply:** 120,694,153 ETH
 No max supply
 
 **All-Time High:** $4,946.05
--45.6%
+-46.8%
 
 **All-Time Low:** $0.43
-+620835.4%
++607936.4%
 
 ---
 
@@ -72,7 +72,7 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-2h ago
+3h ago
 
 ---
 
@@ -96,7 +96,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 Watch before one bug costs you everything. https://x.com/SolidityScan/status/2017172006056390715?s=20
 
-1h ago
+2h ago
 
 ---
 
@@ -104,7 +104,7 @@ Watch before one bug costs you everything. https://x.com/SolidityScan/status/201
 
 It was some time ago that ETH went from proof of work to proof of stake. At the time Vitalik said that there were other changes coming such as faster transaction or lower transaction cost. I have not heard any more since then? Is there any progress?
 
-11h ago
+12h ago
 
 ---
 
@@ -112,7 +112,7 @@ It was some time ago that ETH went from proof of work to proof of stake. At the 
 
 Hello Folks, I just published a smart contract to handle crypto inheritance 100% on-chain, without the owner having to do anything offline. I know there are many solutions that are trying to solve this problem, but I wanted to design my own with my logic, which is the following: - the contract acts like a wallet, owner can deposit, withdraw and transfer - the owner can assign beneficiaries, and update them at any time - the wallet contains an "alive check", which is automatically updated on any transaction - if you wanna use it as a vault (dormant), you can update the "alive check" manually - the owner defines a "consider me death time" in years, eg: if the last alive check is older than 10 years, I'm dead :( - once that happen, any of the beneficiaries can access the wallet and withdraw all the funds At this point, my favorite feature: the wallet gets locked, will reject any future deposit and "answer" with an epitaph... your "last worlds" recorded on-chain that you can configure when you create the wallet. All of the above is less then 100 lines of solidity... amazing :) At the moment I only did the backend (github link), but I'd like to do a nice interface to make it easy to deploy. Of course, free and open source in the Ethereum spirit! Would you give me a feedback on the logic? Do you see any pitfall or edge cases? Thanks, Francesco
 
-14h ago
+15h ago
 
 ---
 
@@ -120,7 +120,7 @@ Hello Folks, I just published a smart contract to handle crypto inheritance 100%
 
 The Doots live stream is all about showcasing the best of the week from the Daily General Discussion from the r/ethereum Community on Reddit! Today we talked to Mac Budkowski from macbudkowski.com. He's made the "No BS Crypto GTM guide." Dig into what he has learned about timing, messaging, and why best isn't always good. Host: JT Technical Host: LogrisTheBard https://dailydoots.com by Hanniabu Daily Doots Curator: Tricky_Troll Weekly Doots Curator: The-A-Word Farcaster and Backend Host Support: Ben Broad Media Content Support: Twelve Meatballs Discord Bouncer and Watchdog: Treebeard As always, if you know someone who wants a piece of this action, send em our way. Buy us a ☕ dailydoots.eth All of our channels can be found here: https://dailydoots.com/podcast/ 🕸️https://dailydoots.com 📢https://discord.gg/EVMavericks 📰https://reddit.com/r/ethereum 🔊MINTABLE Podcast 👉: https://pods.media/evmavericks 🍎Apple https://podcasts.apple.com/us/podcast/ethfinance-evmavericks-daily-doots-livestream/id1750089604 🔊Spotify https://open.spotify.com/show/7AotdyMtcvHZLv3pVqkxre 🦁https://x.com/EVMavericks ⏱️TikTok: https://www.tiktok.com/@evmavericks 📺https://www.youtube.com/channel/UC51nlNbIkBm5Qhm7EwQuWLw Twitch: https://www.twitch.tv/evmavericks LinkedIN: https://www.linkedin.com/company/evmavericks-daily-doots-podcast
 
-🔗 [youtu.be](https://youtu.be/lDG5GrjKgew) • 10h ago
+🔗 [youtu.be](https://youtu.be/lDG5GrjKgew) • 11h ago
 
 ---
 
@@ -128,7 +128,7 @@ The Doots live stream is all about showcasing the best of the week from the Dail
 
 Fidelity Investments FIDD stablecoin, TheDAO Security Fund, Hegotá upgrade headliner proposals
 
-🔗 [ethereal.news](https://ethereal.news/ethereal-news-weekly-9/) • 19h ago
+🔗 [ethereal.news](https://ethereal.news/ethereal-news-weekly-9/) • 20h ago
 
 ---
 
@@ -136,7 +136,7 @@ Fidelity Investments FIDD stablecoin, TheDAO Security Fund, Hegotá upgrade head
 
 I've been working on adding native smart contract interaction to markdown-based ENS websites on Simple Page, and v1.6.0 just shipped with two features I'm excited to share. Web3 Forms via URI Protocol You can now embed interactive contract calls using web3:// URIs (ERC-6860) directly in markdown. The syntax works like this: ![USDC Balance](web3://0xa0b8...eb48:1/balanceOf/address!0x?returns=(uint256)&labels=(Account)) This renders as a live form that: Reads contract state without signatures (view/pure functions) Handles transactions with type validation Supports payable functions with ETH inputs No Web3.js boilerplate, no React scaffolding—just a URI that gets parsed into a working interface. RSS Feed Generation Sites can now auto-generate RSS feeds at /rss.xml using frontmatter: Per-page opt-in with rss: true Audio enclosures for podcast episodes Standard metadata from markdown headers Technical Architecture The interesting part about Simple Page is how this works with ENS + IPFS: Sites are pure HTML (render without JS) Editor and forms load progressively One contenthash update publishes everything Self-contained—no external dependencies This approach lets ENS names function as actual web3 endpoints rather than just static pages. The web3:// protocol handler does the ABI encoding/decoding client-side. Web3 forms example: https://simplepage.eth.link/guides/editor/web3-forms/ Source: https://simplepage.eth.link/
 
-22h ago
+23h ago
 
 ---
 
@@ -154,7 +154,7 @@ Ethereum developers used ACDE #229 to shift focus toward Devnet-2 readiness, exe
 
 **[Bitcoin, XRP, Ethereum Fall on News of Kevin Warsh Fed Appointment.](https://www.barrons.com/articles/bitcoin-xrp-ethereum-crypto-today-954298d9?gaa_at=eafs&gaa_n=AWEtsqcig-qGTUg3utEW7JHmzH9Yi0P04MuJNoo_tNJfKk_XItZTq6kZE0fp&gaa_ts=697dc1b1&gaa_sig=5S0TsgmSiCzLVteqH3xej62GggaX4nT3BRCrA38ZaO2RgXGg6cdTNfjb-fRU646gFXaKCKpmKSgYREli3sZ8xA%3D%3D)**
 
-Barron's • 14h ago
+Barron's • 15h ago
 
 ---
 
@@ -162,7 +162,7 @@ Barron's • 14h ago
 
 The Dow, S&P 500, and Nasdaq Composite fell as the stock market reacted to President Donald Trump's pick for next chair of the Federal Reserve.
 
-Barron's • 19h ago
+Barron's • 20h ago
 
 ---
 
@@ -178,7 +178,7 @@ TradingView • 14h ago
 
 Ethereum’s co-founder said the $43 million withdrawal will support a broader “full-stack openness and verifiability” vision as the foundation tightens spending.
 
-CoinDesk • 22h ago
+CoinDesk • 23h ago
 
 ---
 
@@ -186,7 +186,7 @@ CoinDesk • 22h ago
 
 The Ethereum co-founder wants to pursue an “aggressive” roadmap that will strengthen its status as a decentralized world computer.
 
-Decrypt • 15h ago
+Decrypt • 16h ago
 
 ---
 
@@ -194,7 +194,7 @@ Decrypt • 15h ago
 
 Ethereum co-founder Vitalik Buterin has withdrawn 16,384 ETH, worth roughly $44.5 million at current prices, as the Ethereum Foundation enters what he described as a period of “mild austerity.”In a post on X, Buterin said the Ethereum Foundation is adjusting its spending approach to meet two parall…
 
-TradingView • 18h ago
+TradingView • 19h ago
 
 ---
 
@@ -202,7 +202,7 @@ TradingView • 18h ago
 
 BitMine Immersion continues to accumulate Ethereum amid price declines, following a treasury strategy inspired by Strategy.
 
-Barchart.com • 11h ago
+Barchart.com • 12h ago
 
 ---
 
@@ -218,7 +218,7 @@ The Block • 2d ago
 
 Tom Lee has urged investors not to let the rally in gold and silver divert attention from Ethereum. BitMine continues to build its Ethereum position. ...
 
-Yahoo Finance • 1d ago
+Yahoo Finance • 2d ago
 
 ---
 
@@ -226,7 +226,7 @@ Yahoo Finance • 1d ago
 
 stVaults let other teams plug into Lido’s staking system instead of building their own from scratch.
 
-CoinDesk • 18h ago
+CoinDesk • 19h ago
 
 ---
 
@@ -234,23 +234,13 @@ CoinDesk • 18h ago
 
 ## YouTube Videos: "ethereum"
 
-**[BITCOIN &amp; ALTCOIN CRASH: EMERGENCY UPDATE (New Trade)!!! - Bitcoin News Today, Ethereum &amp; Altcoins](https://www.youtube.com/watch?v=_kPvKrJSvxo)**
-
-BITCOIN & ALTCOIN CRASH: EMERGENCY UPDATE (New Trade)!!! - Bitcoin News Today, Ethereum & Altcoins *Toobit* ...
-
-📺 Crypto World
-
-👁️ 7K • 👍 283 • 💬 75 • ⏱️ 22:15 • 13h ago
-
----
-
 **[🚨 BTC &amp; ETH: SELL ALL BITCOIN AND QUIT CRYPTO!!!!!!!!!](https://www.youtube.com/watch?v=Js9TFiiwSBk)**
 
 The situation is getting worse and worse for crypto. Here are facts and my take on whether its time to sell all bitcoin and just quit!
 
 📺 Thomas Kralow
 
-👁️ 56K • 👍 3K • 💬 175 • ⏱️ 13:43 • 1d ago
+👁️ 56K • 👍 3K • 💬 173 • ⏱️ 13:43 • 1d ago
 
 ---
 
@@ -260,7 +250,17 @@ https://bit.ly/3HLA8ql CLICK HERE Ready to change your financial future? Join To
 
 📺 The Rich Dad Channel
 
-👁️ 4K • 👍 130 • 💬 26 • ⏱️ 33:33 • 1d ago
+👁️ 4K • 👍 133 • 💬 26 • ⏱️ 33:33 • 1d ago
+
+---
+
+**[BITCOIN &amp; ALTCOIN CRASH: EMERGENCY UPDATE (New Trade)!!! - Bitcoin News Today, Ethereum &amp; Altcoins](https://www.youtube.com/watch?v=_kPvKrJSvxo)**
+
+BITCOIN & ALTCOIN CRASH: EMERGENCY UPDATE (New Trade)!!! - Bitcoin News Today, Ethereum & Altcoins *Toobit* ...
+
+📺 Crypto World
+
+👁️ 7K • 👍 294 • 💬 79 • ⏱️ 22:15 • 14h ago
 
 ---
 
@@ -270,7 +270,17 @@ Cardano and Ethereum holders... GET READY!! ✓ Bitunix (no kyc, $10000 bonus): 
 
 📺 Altcoin Daily
 
-👁️ 47K • 👍 3K • 💬 295 • ⏱️ 8:35 • 2d ago
+👁️ 48K • 👍 3K • 💬 290 • ⏱️ 8:35 • 2d ago
+
+---
+
+**[Ethereum Elliott Wave Update – Key Resistance Levels Ahead](https://www.youtube.com/watch?v=EBDBuOl9hek)**
+
+This video provides a professional Elliott Wave and technical analysis of Ethereum (ETH), focusing on market structure, major ...
+
+📺 More Crypto Online
+
+👁️ 2K • 👍 136 • 💬 9 • ⏱️ 4:32 • 20h ago
 
 ---
 
@@ -280,17 +290,7 @@ FREE TRAINING: https://www.bullmania.com EXCHANGES I USE (bybit, pionex): https:
 
 📺 Ivan on Tech
 
-👁️ 24K • 👍 1K • 💬 98 • ⏱️ 49:08 • 22h ago
-
----
-
-**[&quot;This Bitcoin &amp; Crypto Crash Is WORSE Than Many Realize&quot; - Jack Mallers &amp; Raoul Pal](https://www.youtube.com/watch?v=SusvzMpWuo8)**
-
-Gold is absorbing sovereign capital while Bitcoin struggles — and that's exactly how this transition is supposed to look. In this ...
-
-📺 Savvy Finance
-
-👁️ 5K • 👍 256 • 💬 23 • ⏱️ 19:18 • 10h ago
+👁️ 24K • 👍 1K • 💬 99 • ⏱️ 49:08 • 22h ago
 
 ---
 
@@ -300,7 +300,7 @@ TrumpCrypto2026 #DigitalAssets #TrumpAnnouncement Welcome to the Trump Crypto Fo
 
 📺 Sportfm
 
-👁️ 4K • 👍 880 • 8h ago
+👁️ 4K • 👍 894 • 9h ago
 
 ---
 
@@ -310,7 +310,7 @@ Watch The FULL Interview: "Explosive Crypto Price Prediction for 2026..." FREE D
 
 📺 Library Of Wealth
 
-👁️ 12K • 👍 454 • 💬 303 • ⏱️ 14:36 • 1d ago
+👁️ 12K • 👍 462 • 💬 303 • ⏱️ 14:36 • 1d ago
 
 ---
 
@@ -320,17 +320,17 @@ Watch Full Crypto Webinar: ...
 
 📺 Fundstrat
 
-👁️ 7K • 👍 241 • 💬 128 • ⏱️ 3:31 • 1d ago
+👁️ 7K • 👍 242 • 💬 128 • ⏱️ 3:31 • 1d ago
 
 ---
 
-**[BIG NEWS! FIDELITY LAUNCHES STABLECOIN ON ETHEREUM &amp; WHITE HOUSE CRYPTO BANK MEETING!](https://www.youtube.com/watch?v=-jn0xFl94yc)**
+**[Ethereum Elliott Wave Update – Key Resistance Levels Ahead](https://www.youtube.com/watch?v=Mk8yvyi5cXI)**
 
-Crypto News: Fidelity Investments is launching its first stablecoin, the Fidelity Digital Dollar (FIDD), based on the Ethereum ...
+This video provides a professional Elliott Wave and technical analysis of Ethereum (ETH), focusing on market structure, major ...
 
-📺 Thinking Crypto
+📺 More Crypto Online
 
-👁️ 6K • 👍 540 • 💬 84 • ⏱️ 16:32 • 2d ago
+👁️ 909 • 👍 91 • 💬 3 • ⏱️ 4:29 • 5h ago
 
 ---
 

@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-01-31T08:33:06.103280+00:00'
+updated: '2026-01-31T09:29:37.839607+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
 - videos
-- social
 - news
+- social
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** January 31, 2026 at 08:33 UTC  
+**Last Updated:** January 31, 2026 at 09:29 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -36,7 +36,7 @@ Robotics research and industry news
 
 Hi everyone! I just picked up this Rethink Robotics Sawyer for $300. But it is incomplete, missing the last two joints and, more importantly, the controller unit. I'm investigating building my own controller and wanted to see if anyone here has experience with this? The biggest question I have right now is what the voltage is. I'm guessing 48V, but don't know that for sure. I'll probably also have tons of other questions as a move forward, so hoping that someone here will know something about these!
 
-7h ago
+8h ago
 
 ---
 
@@ -44,7 +44,7 @@ Hi everyone! I just picked up this Rethink Robotics Sawyer for $300. But it is i
 
 Wanted to share something we been working on for the past couple weeks. https://reddit.com/link/1qruali/video/kh9n7a6vhmgg1/player We built a 6-axis robotic arm using an Arduino UNO and some 3D printed parts. It has base rotation, shoulder, elbow, wrist movements and a gripper - so it basically moves like a tiny human arm. And we also made a simple web dashboard to control it with sliders, so we can record movements and play them back. https://preview.redd.it/9lajowfagmgg1.jpg?width=750&format=pjpg&auto=webp&s=eccc351d281c69f352ea552dde0b14c9a89df919 Ran into the usual beginner issues - jittery servos from low power, servos moving the wrong direction because I didn't align the horns properly, so on. But we learn a lot from this project 3D printing to fitting the parts to calibration. This simple Arduino Robotic Arm designed for pick-and-place tasks but right now it's just picking up my desk clutter and putting it back down in the same spot. Anyone else built something similar? Would love to hear what you used in your build or any tips for improvements are welcome.
 
-2h ago
+3h ago
 
 ---
 
@@ -52,7 +52,7 @@ Wanted to share something we been working on for the past couple weeks. https://
 
 I’m building a humanoid robot from scratch and this is how it looks so far. The hand is finished, and i’m currently working on the torso.
 
-18h ago
+19h ago
 
 ---
 
@@ -76,7 +76,7 @@ Ant Group released LingBot-VA, a VLA built on a different premise than most curr
 
 Figure AI has released the final data from their 11-month deployment at BMW's Spartanburg plant. The 'Figure 02' humanoid robots worked 10-hour shifts, Monday to Friday, contributing to the production of over 30,000 BMW X3s. They loaded 90,000+ sheet metal parts with a <5mm tolerance, logging over 200 miles of walking. With Figure 02 now retiring, these lessons are being rolled into the new Figure 03.
 
-🔗 [FigureAI](https://www.figure.ai/news/production-at-bmw) • 23h ago
+🔗 [FigureAI](https://www.figure.ai/news/production-at-bmw) • 1d ago
 
 ---
 
@@ -90,7 +90,7 @@ Figure AI has released the final data from their 11-month deployment at BMW's Sp
 
 ROS News for the Week of January 25th, 2026                We have a ton of ROS and open source robotics events schedule for February and the tail end of January. This weekend is  FOSDEM which includes a new Robot Dev Room. Full list below in the events section.  Unrelated: Discourse released a new carousel feature for image grids. Learn more here.      This week @tnajjar merged a very nice UX upgrade for the ROS CLI: fuzzy finding! Now you can just type any part of a command string and see ever...
 
-🔗 [Open Robotics Discourse](https://discourse.openrobotics.org/t/ros-news-for-the-week-of-january-25th-2026/52232) • 11h ago
+🔗 [Open Robotics Discourse](https://discourse.openrobotics.org/t/ros-news-for-the-week-of-january-25th-2026/52232) • 12h ago
 
 ---
 
@@ -98,7 +98,7 @@ ROS News for the Week of January 25th, 2026                We have a ton of ROS 
 
 Hi everyone 👋 I’m working on a small AGV robot and I’m currently stuck at the software side of path planning. I’d really appreciate some guidance or best practices from people who’ve done this before. My current setup AGV size: 250 × 250 mm Workspace: small indoor environment Overhead camera (fixed) AprilTags / ArUco tags placed on the floor Tag spacing: 0.5 meter Current grid: 7 × 6 = 42 tags Robot is detected using the center tag under the robot Goal (Stage 1 – very basic) For now, I don’t want to include obstacles. I want: User gives a start node and end node Robot computes the shortest path Robot follows that path physically I’ve decided to use the A* algorithm, but I’m confused about the input representation and data structure. Where I’m stuck How should I represent the environment? 2D grid array? Graph with nodes and edges? Tag IDs mapped to coordinates? How should I store values for A\* in this simple case? What should be the node value? How to define neighbors (up/down/left/right)? How to map real-world distances (0.5 m spacing) to cost? Is it better to: Use grid indices (row, col) and map them later to real coordinates? Or directly use real-world (x, y) coordinates? What I plan to add later Obstacles Dynamic path updates Possibly ROS integration But for now, I want to get the fundamentals right. If anyone has: Simple examples Pseudocode Suggestions on data structures Or advice on how you approached this in your own AGV projects I’d really appreciate it 🙏 Thanks in advance!
 
-18h ago
+19h ago
 
 ---
 
@@ -106,7 +106,7 @@ Hi everyone 👋 I’m working on a small AGV robot and I’m currently stuck at
 
 I've noticed that many of the labs and data collectors have been switching to YAMs. There are so many different leader follower setups. If you bought YAMs or any other kind of arms and are doing teleop, what convinced you one way or another? I've also noticed that there are alot of exoskeletons and UMIs, if you decided to go in any of these other directions would be curious to hear your take as well.
 
-12h ago
+13h ago
 
 ---
 
@@ -192,33 +192,13 @@ Sky News • 2d ago
 
 ## YouTube Videos: "robotics"
 
-**[The Next Robotics Boom Is Healthcare (3 Stocks to Watch)](https://www.youtube.com/watch?v=iMGDPSqvjiY)**
-
-Robotics stocks are gaining attention as healthcare technology continues to evolve, and stock market investors are paying ...
-
-📺 MarketBeat
-
-👁️ 8K • 👍 387 • 💬 16 • ⏱️ 16:59 • 8h ago
-
----
-
 **[China rolls out robot cops in cities to push humanoid robots in daily life](https://www.youtube.com/watch?v=NavsugcHgAo)**
 
 China is deploying AI-powered robots to manage traffic and pedestrian flow in cities. NBC News' Janis Mackey Frayer explains ...
 
 📺 NBC News
 
-👁️ 233K • 👍 3K • 💬 1K • ⏱️ 3:13 • 1d ago
-
----
-
-**[Air Force Insider WARNS of Bio-Hybrid Robot Threat](https://www.youtube.com/watch?v=R3_R_8SVa5c)**
-
-In this video, we sit down with a former Air Force insider who is sounding the alarm on the rapid advancement of Bio-Hybrid ...
-
-📺 Elijah Zielke
-
-👁️ 1K • 👍 84 • 💬 6 • ⏱️ 10:27 • 8h ago
+👁️ 252K • 👍 3K • 💬 1K • ⏱️ 3:13 • 1d ago
 
 ---
 
@@ -238,25 +218,27 @@ Last year, Helix showed that a single neural network could control a humanoid's 
 
 📺 Figure
 
-👁️ 198K • 👍 11K • 💬 2K • ⏱️ 3:37 • 3d ago
+👁️ 199K • 👍 11K • 💬 2K • ⏱️ 3:37 • 3d ago
 
 ---
 
-**[Humanoid Robots Are Coming. They Could Wipe Out This Entire Town](https://www.youtube.com/watch?v=6BJ0XbXOJcs)**
+**[Air Force Insider WARNS of Bio-Hybrid Robot Threat](https://www.youtube.com/watch?v=R3_R_8SVa5c)**
 
-Hyundai is planning to place 30000 humanoid robots in its factories. We talked to an anonymous Hyundai worker who says his ...
+In this video, we sit down with a former Air Force insider who is sounding the alarm on the rapid advancement of Bio-Hybrid ...
 
-📺 More Perfect Union
+📺 Elijah Zielke
 
-👁️ 189K • 👍 16K • 💬 2K • ⏱️ 2:59 • 3d ago
+👁️ 2K • 👍 92 • 💬 8 • ⏱️ 10:27 • 9h ago
 
 ---
 
-**[Drag-and-drop welding robot.#industrial #welding #robot #spraying #stamping](https://www.youtube.com/watch?v=b8vufpXa21Q)**
+**[No, Elon, we DON&#39;T need HUMANOID robots | MGUY Australia](https://www.youtube.com/watch?v=GOjQYeF0OTI)**
 
-📺 Borunte Robot Lin 
+The Cybertruck, autonomous driving and now the mad Optimus humanoid robot - three of Elon's mad inventions that the world ...
 
-👁️ 2K • 👍 8 • ⏱️ 0:22 • 7h ago
+📺 MGUY Australia
+
+👁️ 15K • 👍 2K • 💬 808 • ⏱️ 8:11 • 1d ago
 
 ---
 
@@ -266,17 +248,27 @@ ObstacleAvoidance #ArduinoRobot #Robotics #TechReels #DIYProjects.
 
 📺 Roboarmy
 
-👁️ 3K • 👍 54 • 💬 1 • ⏱️ 0:20 • 14h ago
+👁️ 3K • 👍 69 • 💬 1 • ⏱️ 0:20 • 15h ago
 
 ---
 
-**[This Giant Crab Robot Is Planting Crops | Farming Will Never Be the Same](https://www.youtube.com/watch?v=SeDsc1S-GjE)**
+**[Pacman Universe – Advanced Robotic Character Animation | StrEat](https://www.youtube.com/watch?v=dm57WnYor00)**
 
-A farmer operates a giant AI-powered crab robot that plants crops with extreme precision. This cinematic farming scene ...
+Pacman Universe – Advanced Robotic Character Animation | StrEat Pacman Universe presents a new futuristic 3D animation.
 
-📺 UPENDRA KUMAR OFFICIAL 
+📺 StrEat
 
-👁️ 2K • 👍 6 • ⏱️ 0:09 • 5h ago
+👁️ 247K • 👍 479 • 3d ago
+
+---
+
+**[Meet Sprout: The Humanoid Robot Built for Real World Use](https://www.youtube.com/watch?v=4zMbX1OEOSE)**
+
+This new humanoid robot is not about hype or flashy promises. Sprout is designed to work alongside people in real environments, ...
+
+📺 DPCcars
+
+👁️ 8K • 👍 89 • 💬 19 • ⏱️ 3:17 • 2d ago
 
 ---
 
@@ -286,7 +278,17 @@ Andrea Nakano reports on the Tesla Fremont factory ending Model S/X production a
 
 📺 KPIX | CBS NEWS BAY AREA
 
-👁️ 54K • 👍 496 • 💬 295 • ⏱️ 4:36 • 2d ago
+👁️ 56K • 👍 506 • 💬 300 • ⏱️ 4:36 • 2d ago
+
+---
+
+**[Why AI Pizza Machines Are Actually Worrying Workers 🍕](https://www.youtube.com/watch?v=U7tlOl7s3ns)**
+
+Some people are getting concerned because automatic AI pizza-making machines are slowly appearing on streets worldwide.
+
+📺 Taylor Jollie
+
+👁️ 21K • 👍 108 • 💬 12 • ⏱️ 0:19 • 1d ago
 
 ---
 
