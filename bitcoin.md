@@ -3,13 +3,13 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-01-31T05:23:26.868011+00:00'
+updated: '2026-01-31T06:00:08.573318+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- cryptocurrency
 - videos
+- cryptocurrency
 - news
 - social
 ---
@@ -18,7 +18,7 @@ data_types:
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** January 31, 2026 at 05:23 UTC  
+**Last Updated:** January 31, 2026 at 06:00 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -79,7 +79,7 @@ Rank #1
 
 **[Buying the dip.](https://www.reddit.com/r/Bitcoin/comments/1qrkz13/buying_the_dip/)**
 
-6h ago
+7h ago
 
 ---
 
@@ -113,7 +113,7 @@ The deal will be too good to pass at that point.
 
 **["...But Bitcoin is too volatile!"](https://www.reddit.com/r/Bitcoin/comments/1qrtc99/but_bitcoin_is_too_volatile/)**
 
-14m ago
+51m ago
 
 ---
 
@@ -121,7 +121,7 @@ The deal will be too good to pass at that point.
 
 If you tell your closest friends and relatives that you made money with bitcoin, their initial reaction will be to doubt and hate, because that is human nature.. Then by extension that means they will doubt and hate on bitcoin itself. For every person you tell about your bitcoin gains you will create twice as many bitcoin haters, because 99.9% of people hate seeing other people more successful than them.
 
-6h ago
+7h ago
 
 ---
 
@@ -129,7 +129,7 @@ If you tell your closest friends and relatives that you made money with bitcoin,
 
 I wish I had more liquidity!
 
-15h ago
+16h ago
 
 ---
 
@@ -137,7 +137,7 @@ I wish I had more liquidity!
 
 Why are people so worried about the price now? It’s almost guaranteed to hit a new ath in the future.. but when is the question. This year? in 3 years? in 5 years? Anyway it will. DCA AND HODL
 
-5h ago
+6h ago
 
 ---
 
@@ -155,7 +155,7 @@ Why are people so worried about the price now? It’s almost guaranteed to hit a
 
 Any deal involving SpaceX and Tesla would quietly consolidate one of the world’s largest corporate bitcoin holdings under a single roof.
 
-CoinDesk • 5h ago
+CoinDesk • 6h ago
 
 ---
 
@@ -163,7 +163,7 @@ CoinDesk • 5h ago
 
 How low can Bitcoin go?
 
-Mashable • 12h ago
+Mashable • 13h ago
 
 ---
 
@@ -187,7 +187,7 @@ Yahoo Finance • 14h ago
 
 Tennessee lawmakers are considering a bill that would allow the state to invest up to 10% of certain public funds in bitcoin.
 
-Bitcoin Magazine • 7h ago
+Bitcoin Magazine • 8h ago
 
 ---
 
@@ -201,7 +201,7 @@ Barron's • 11h ago
 
 Crypto bulls who have theorized that bitcoin can't begin rising until money flows out of red-hot precious metals are about to find out if they were correct.
 
-CoinDesk • 10h ago
+CoinDesk • 11h ago
 
 ---
 
@@ -209,7 +209,7 @@ CoinDesk • 10h ago
 
 The world’s largest cryptocurrency is down 2% over the past day while gold and silver have dropped 11% and 30%, respectively.
 
-Fortune • 10h ago
+Fortune • 11h ago
 
 ---
 
@@ -225,7 +225,7 @@ Yahoo Finance • 1d ago
 
 Binance announced that it will turn its $1 billion SAFU fund into bitcoin over the next 30 days to support the industry through uncertainty.
 
-The Block • 21h ago
+The Block • 22h ago
 
 ---
 
@@ -251,7 +251,7 @@ A list of known attacks against Bitcoin / crypto asset owning entities that occu
 
 **[Bitcoin's Quantum Computing Threat](https://news.ycombinator.com/item?id=46824834)**
 
-⬆️ 1 • 💬 0 • 14h ago • [bmpro.substack.com](https://bmpro.substack.com/p/bitcoins-quantum-computing-threat)
+⬆️ 1 • 💬 0 • 15h ago • [bmpro.substack.com](https://bmpro.substack.com/p/bitcoins-quantum-computing-threat)
 
 ---
 
@@ -337,7 +337,7 @@ CRYPTO CRISIS AVOIDED?! BREAKING CRYPTO NEWS TODAY! ⭐️ AUSTIN'S STOCK CHANNE
 
 📺 Austin Hilton
 
-👁️ 11K • 👍 753 • 💬 39 • ⏱️ 5:28 • 13h ago
+👁️ 11K • 👍 753 • 💬 39 • ⏱️ 5:28 • 14h ago
 
 ---
 
@@ -347,7 +347,7 @@ Bitcoin just took a massive hit, sliding toward the $81000 mark as markets diges
 
 📺 Discover Crypto
 
-👁️ 8K • 👍 418 • 💬 30 • ⏱️ 1:14:36 • 12h ago
+👁️ 8K • 👍 418 • 💬 30 • ⏱️ 1:14:36 • 13h ago
 
 ---
 
@@ -407,7 +407,7 @@ Donald Trump chooses Kevin Warsh as his pick for the Federal Reserve Chair. The 
 
 📺 Digital Asset News
 
-👁️ 6K • 👍 542 • 💬 61 • ⏱️ 21:17 • 13h ago
+👁️ 6K • 👍 542 • 💬 61 • ⏱️ 21:17 • 14h ago
 
 ---
 

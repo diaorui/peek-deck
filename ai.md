@@ -3,13 +3,13 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-01-31T05:23:26.859424+00:00'
+updated: '2026-01-31T06:00:08.564837+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- repositories
 - videos
+- repositories
 - news
 - social
 ---
@@ -18,7 +18,7 @@ data_types:
 
 AI news, discussions, and developments
 
-**Last Updated:** January 31, 2026 at 05:23 UTC  
+**Last Updated:** January 31, 2026 at 06:00 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -41,13 +41,13 @@ AI news, discussions, and developments
 
 AI coding tools are getting more sophisticated. But if coders stop coding, what happens to software development jobs?
 
-🔗 [Fortune](https://fortune.com/2026/01/29/100-percent-of-code-at-anthropic-and-openai-is-now-ai-written-boris-cherny-roon/) • 7h ago
+🔗 [Fortune](https://fortune.com/2026/01/29/100-percent-of-code-at-anthropic-and-openai-is-now-ai-written-boris-cherny-roon/) • 8h ago
 
 ---
 
 **[The $100 Billion Megadeal Between OpenAI and Nvidia Is on Ice](https://www.reddit.com/r/artificial/comments/1qrnq8u/the_100_billion_megadeal_between_openai_and/)**
 
-🔗 [wsj.com](https://www.wsj.com/tech/ai/the-100-billion-megadeal-between-openai-and-nvidia-is-on-ice-aa3025e3) • 4h ago
+🔗 [wsj.com](https://www.wsj.com/tech/ai/the-100-billion-megadeal-between-openai-and-nvidia-is-on-ice-aa3025e3) • 5h ago
 
 ---
 
@@ -101,7 +101,7 @@ ByteDance, Alibaba and Tencent had been given permission to purchase more than 4
 
 This is a Collaborative Work https://github.com/sneed-and-feed/INCARNATE-SOPHIA-5.0/
 
-2h ago
+3h ago
 
 ---
 
@@ -135,7 +135,7 @@ Anthropic • 1d ago
 
 Produced using technology from Google's DeepMind, the YouTube short-form series does more to highlight the obvious limitations of AI filmmaking than its theoretical benefits.
 
-The Hollywood Reporter • 1h ago
+The Hollywood Reporter • 2h ago
 
 ---
 
@@ -151,19 +151,19 @@ The Guardian • 18h ago
 
 Silver’s new Ineffable Intelligence aims to develop “superintelligence” using the same AI methods that led to Google DeepMind breakthroughs like AlphaGo.
 
-Fortune • 15h ago
+Fortune • 16h ago
 
 ---
 
 **[Videogame stocks slide on Google's AI model that turns prompts into playable worlds](https://www.reuters.com/business/videogame-stocks-slide-googles-ai-model-that-turns-prompts-into-playable-worlds-2026-01-30/)**
 
-Reuters • 11h ago
+Reuters • 12h ago
 
 ---
 
 **[Unity, Video Game Stocks Fall as Google’s AI Tool Sparks Fears](https://www.bloomberg.com/news/articles/2026-01-30/unity-video-game-stocks-fall-as-google-s-ai-tool-genie-sparks-fears)**
 
-Bloomberg • 7h ago
+Bloomberg • 8h ago
 
 ---
 
@@ -185,7 +185,7 @@ Bloomberg • 6h ago
 
 Beijing has a dominant lead in developing intelligent robots, drones and autonomous systems.
 
-The Washington Post • 8h ago
+The Washington Post • 9h ago
 
 ---
 
@@ -215,7 +215,7 @@ Interactive article explaining the physics of an airfoil and what makes airplane
 
 Anthropic is an AI safety and research company that's working to build reliable, interpretable, and steerable AI systems.
 
-⬆️ 419 • 💬 319 • 23h ago • [anthropic.com](https://www.anthropic.com/research/AI-assistance-coding-skills)
+⬆️ 419 • 💬 319 • 1d ago • [anthropic.com](https://www.anthropic.com/research/AI-assistance-coding-skills)
 
 ---
 
@@ -313,7 +313,7 @@ GET MY FREE GUIDE: *The Content Creator's AI Blueprint: From 25 Hours to 5 Minut
 
 📺 Julia McCoy
 
-👁️ 27K • 👍 1K • 💬 96 • ⏱️ 8:35 • 14h ago
+👁️ 27K • 👍 1K • 💬 96 • ⏱️ 8:35 • 15h ago
 
 ---
 
@@ -389,7 +389,7 @@ Kimi K2.5 is a native multimodal agentic model with 1T parameters, excelling in 
 
 `image-text-to-text`
 
-⬇️ 25,438 • ❤️ 1,204 • 4h ago
+⬇️ 25,438 • ❤️ 1,204 • 5h ago
 
 ---
 
@@ -485,7 +485,7 @@ LightOnOCR-2-1B is an efficient 1B-parameter end-to-end vision-language model fo
 
 `image-text-to-text` `1.0B`
 
-⬇️ 27,393 • ❤️ 446 • 16h ago
+⬇️ 27,393 • ❤️ 446 • 17h ago
 
 ---
 
@@ -497,7 +497,7 @@ PaddleOCR-VL-1.5 is a multilingual Vision-Language Model (VLM) built on ERNIE 4.
 
 `image-text-to-text` `958.6M`
 
-⬇️ 216 • ❤️ 230 • 23h ago
+⬇️ 216 • ❤️ 230 • 1d ago
 
 ---
 
@@ -697,7 +697,7 @@ The Ultimate Collection of 500+ Agentic Skills for Claude Code/Antigravity/Curso
 
 `Python` `agentic-skills` `ai-agents` `antigravity` `autonomous-coding` `claude-code`
 
-⭐ 5.6k • 🔱 1.3k • 9h ago
+⭐ 5.6k • 🔱 1.3k • 10h ago
 
 ---
 

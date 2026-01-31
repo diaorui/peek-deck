@@ -3,7 +3,7 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-01-31T05:23:26.877120+00:00'
+updated: '2026-01-31T06:00:08.582519+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
@@ -17,7 +17,7 @@ data_types:
 
 Robotics research and industry news
 
-**Last Updated:** January 31, 2026 at 05:23 UTC  
+**Last Updated:** January 31, 2026 at 06:00 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -82,7 +82,7 @@ ROS News for the Week of January 25th, 2026                We have a ton of ROS 
 
 Figure AI has released the final data from their 11-month deployment at BMW's Spartanburg plant. The 'Figure 02' humanoid robots worked 10-hour shifts, Monday to Friday, contributing to the production of over 30,000 BMW X3s. They loaded 90,000+ sheet metal parts with a <5mm tolerance, logging over 200 miles of walking. With Figure 02 now retiring, these lessons are being rolled into the new Figure 03.
 
-🔗 [FigureAI](https://www.figure.ai/news/production-at-bmw) • 20h ago
+🔗 [FigureAI](https://www.figure.ai/news/production-at-bmw) • 21h ago
 
 ---
 
@@ -98,13 +98,13 @@ Hi everyone 👋 I’m working on a small AGV robot and I’m currently stuck at
 
 I've noticed that many of the labs and data collectors have been switching to YAMs. There are so many different leader follower setups. If you bought YAMs or any other kind of arms and are doing teleop, what convinced you one way or another? I've also noticed that there are alot of exoskeletons and UMIs, if you decided to go in any of these other directions would be curious to hear your take as well.
 
-9h ago
+10h ago
 
 ---
 
 **[NEMA17 stepper jitters and overheats when driven by DM542T + arduino](https://www.reddit.com/r/robotics/comments/1qr9d6j/nema17_stepper_jitters_and_overheats_when_driven/)**
 
-13h ago
+14h ago
 
 ---
 
@@ -174,7 +174,7 @@ Ondas Holdings • 2d ago
 
 South Korea keeps cuclear energy expansion on track, Russia expands its use of nuclear robotics, and Russia targets nuclear power for the Moon
 
-The National Interest • 5h ago
+The National Interest • 6h ago
 
 ---
 
@@ -286,7 +286,7 @@ ObstacleAvoidance #ArduinoRobot #Robotics #TechReels #DIYProjects.
 
 📺 Roboarmy
 
-👁️ 2K • 👍 39 • 💬 1 • ⏱️ 0:20 • 11h ago
+👁️ 2K • 👍 39 • 💬 1 • ⏱️ 0:20 • 12h ago
 
 ---
 
