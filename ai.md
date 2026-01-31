@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-01-31T07:30:02.336656+00:00'
+updated: '2026-01-31T07:51:29.113297+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
 - social
 - videos
-- repositories
 - news
+- repositories
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** January 31, 2026 at 07:30 UTC  
+**Last Updated:** January 31, 2026 at 07:51 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -47,7 +47,7 @@ AI coding tools are getting more sophisticated. But if coders stop coding, what 
 
 **[The $100 Billion Megadeal Between OpenAI and Nvidia Is on Ice](https://www.reddit.com/r/artificial/comments/1qrnq8u/the_100_billion_megadeal_between_openai_and/)**
 
-🔗 [wsj.com](https://www.wsj.com/tech/ai/the-100-billion-megadeal-between-openai-and-nvidia-is-on-ice-aa3025e3) • 6h ago
+🔗 [wsj.com](https://www.wsj.com/tech/ai/the-100-billion-megadeal-between-openai-and-nvidia-is-on-ice-aa3025e3) • 7h ago
 
 ---
 
@@ -77,7 +77,7 @@ Chris Mason, the longtime Linux kernel developer most known for being the creato
 
 OpenClaw’s AI assistants are now building their own social network.[1] DeepSeek AI Releases DeepSeek-OCR 2 with Causal Visual Flow Encoder for Layout Aware Document Understanding.[2] Video game company stock prices dip after Google introduces an AI world-generation tool.[3] AI model from Google’s DeepMind reads recipe for life in DNA.[4] Sources: [1] https://techcrunch.com/2026/01/30/openclaws-ai-assistants-are-now-building-their-own-social-network/ [2] https://www.marktechpost.com/2026/01/30/deepseek-ai-releases-deepseek-ocr-2-with-causal-visual-flow-encoder-for-layout-aware-document-understanding/ [3] https://www.theverge.com/games/871348/google-project-genie-take-two-roblox-unity [4] https://www.bbc.com/news/articles/c39428dv18yo
 
-1h ago
+2h ago
 
 ---
 
@@ -157,7 +157,7 @@ The Guardian • 20h ago
 
 **[Videogame stocks slide on Google's AI model that turns prompts into playable worlds](https://www.reuters.com/business/videogame-stocks-slide-googles-ai-model-that-turns-prompts-into-playable-worlds-2026-01-30/)**
 
-Reuters • 13h ago
+Reuters • 14h ago
 
 ---
 
@@ -187,7 +187,7 @@ Fortune • 17h ago
 
 Hundreds of millions of people are turning to chatbots to help figure out what's wrong with them. Doctors say that's not always a bad thing. In fact, many are using it themselves.
 
-NPR • 15h ago
+NPR • 16h ago
 
 ---
 
@@ -285,7 +285,7 @@ Humanoid robotics just took a massive leap into the real world. Researchers in C
 
 📺 AI Revolution
 
-👁️ 11K • 👍 386 • 💬 42 • ⏱️ 14:25 • 7h ago
+👁️ 11K • 👍 386 • 💬 42 • ⏱️ 14:25 • 8h ago
 
 ---
 
@@ -325,7 +325,7 @@ Sky News' technology correspondent Rowland Manthorpe investigates the hidden wor
 
 📺 Sky News
 
-👁️ 3K • 👍 54 • 💬 16 • ⏱️ 12:25 • 13h ago
+👁️ 3K • 👍 54 • 💬 16 • ⏱️ 12:25 • 14h ago
 
 ---
 
@@ -375,7 +375,7 @@ M4 Mac Minis are suddenly selling out — and not because of video editing or cr
 
 📺 Geoff Fagien
 
-👁️ 4K • 👍 114 • 💬 27 • ⏱️ 4:36 • 14h ago
+👁️ 4K • 👍 114 • 💬 27 • ⏱️ 4:36 • 15h ago
 
 ---
 
@@ -515,7 +515,7 @@ PaddleOCR-VL-1.5 is a multilingual Vision-Language Model (VLM) built on ERNIE 4.
 
 LingBot-World is an open-source world simulator with high-fidelity dynamics, long-term memory capabilities, and real-time interactivity for diverse environments.
 
-▲ 88 • 💬 2 • ⭐ 1,138 • 2d ago
+▲ 88 • 💬 2 • ⭐ 1,138 • 3d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2601.20540) • [💻 code](https://github.com/Robbyant/lingbot-world/) • [🔗 project](https://technology.robbyant.com/lingbot-world)
 
@@ -581,7 +581,7 @@ Bitnet.cpp enhances edge inference for ternary LLMs using a novel mixed-precisio
 
 DeepSeek-OCR 2 introduces DeepEncoder V2 that dynamically reorders visual tokens based on semantic content, enabling more human-like causal reasoning in 2D image understanding through cascaded 1D causal structures.
 
-▲ 41 • 💬 4 • ⭐ 1,713 • 2d ago
+▲ 41 • 💬 4 • ⭐ 1,713 • 3d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2601.20552) • [💻 code](https://github.com/deepseek-ai/DeepSeek-OCR-2)
 
@@ -699,7 +699,7 @@ The Ultimate Collection of 500+ Agentic Skills for Claude Code/Antigravity/Curso
 
 `Python` `agentic-skills` `ai-agents` `antigravity` `autonomous-coding` `claude-code`
 
-⭐ 5.6k • 🔱 1.3k • 55m ago
+⭐ 5.6k • 🔱 1.3k • 1h ago
 
 ---
 
@@ -735,7 +735,7 @@ OpenSource Claude Cowork. A desktop AI assistant that helps you with programming
 
 Humanizer 的汉化版本，Claude Code Skills，旨在消除文本中 AI 生成的痕迹。
 
-⭐ 1.9k • 🔱 180 • 11d ago
+⭐ 1.9k • 🔱 180 • 12d ago
 
 ---
 

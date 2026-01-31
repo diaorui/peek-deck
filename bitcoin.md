@@ -3,7 +3,7 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-01-31T07:30:02.345138+00:00'
+updated: '2026-01-31T07:51:29.121770+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
@@ -18,7 +18,7 @@ data_types:
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** January 31, 2026 at 07:30 UTC  
+**Last Updated:** January 31, 2026 at 07:51 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -121,7 +121,7 @@ The deal will be too good to pass at that point.
 
 If you tell your closest friends and relatives that you made money with bitcoin, their initial reaction will be to doubt and hate, because that is human nature.. Then by extension that means they will doubt and hate on bitcoin itself. For every person you tell about your bitcoin gains you will create twice as many bitcoin haters, because 99.9% of people hate seeing other people more successful than them.
 
-8h ago
+9h ago
 
 ---
 
@@ -129,7 +129,7 @@ If you tell your closest friends and relatives that you made money with bitcoin,
 
 I wish I had more liquidity!
 
-17h ago
+18h ago
 
 ---
 
@@ -137,7 +137,7 @@ I wish I had more liquidity!
 
 Why are people so worried about the price now? It’s almost guaranteed to hit a new ath in the future.. but when is the question. This year? in 3 years? in 5 years? Anyway it will. DCA AND HODL
 
-7h ago
+8h ago
 
 ---
 
@@ -155,7 +155,7 @@ Why are people so worried about the price now? It’s almost guaranteed to hit a
 
 Any deal involving SpaceX and Tesla would quietly consolidate one of the world’s largest corporate bitcoin holdings under a single roof.
 
-CoinDesk • 7h ago
+CoinDesk • 8h ago
 
 ---
 
@@ -163,7 +163,7 @@ CoinDesk • 7h ago
 
 How low can Bitcoin go?
 
-Mashable • 14h ago
+Mashable • 15h ago
 
 ---
 
@@ -187,7 +187,7 @@ The Block • 11h ago
 
 Tennessee lawmakers are considering a bill that would allow the state to invest up to 10% of certain public funds in bitcoin.
 
-Bitcoin Magazine • 9h ago
+Bitcoin Magazine • 10h ago
 
 ---
 
@@ -195,7 +195,7 @@ Bitcoin Magazine • 9h ago
 
 Binance announced that it will turn its $1 billion SAFU fund into bitcoin over the next 30 days to support the industry through uncertainty.
 
-The Block • 23h ago
+The Block • 1d ago
 
 ---
 
@@ -253,7 +253,7 @@ A list of known attacks against Bitcoin / crypto asset owning entities that occu
 
 **[Bitcoin's Quantum Computing Threat](https://news.ycombinator.com/item?id=46824834)**
 
-⬆️ 1 • 💬 0 • 16h ago • [bmpro.substack.com](https://bmpro.substack.com/p/bitcoins-quantum-computing-threat)
+⬆️ 1 • 💬 0 • 17h ago • [bmpro.substack.com](https://bmpro.substack.com/p/bitcoins-quantum-computing-threat)
 
 ---
 
@@ -349,7 +349,7 @@ CRYPTO CRISIS AVOIDED?! BREAKING CRYPTO NEWS TODAY! ⭐️ AUSTIN'S STOCK CHANNE
 
 📺 Austin Hilton
 
-👁️ 12K • 👍 765 • 💬 38 • ⏱️ 5:28 • 15h ago
+👁️ 12K • 👍 765 • 💬 38 • ⏱️ 5:28 • 16h ago
 
 ---
 
@@ -399,7 +399,7 @@ Join The Community: https://bit.ly/FefeCommunity FOLLOW FEFE FOR MORE ALPHA ON .
 
 📺 100XClub
 
-👁️ 11K • 👍 942 • 💬 220 • ⏱️ 28:55 • 13h ago
+👁️ 11K • 👍 942 • 💬 220 • ⏱️ 28:55 • 14h ago
 
 ---
 

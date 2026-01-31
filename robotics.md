@@ -3,7 +3,7 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-01-31T07:30:02.354505+00:00'
+updated: '2026-01-31T07:51:29.130979+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
@@ -17,7 +17,7 @@ data_types:
 
 Robotics research and industry news
 
-**Last Updated:** January 31, 2026 at 07:30 UTC  
+**Last Updated:** January 31, 2026 at 07:51 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -264,7 +264,7 @@ ObstacleAvoidance #ArduinoRobot #Robotics #TechReels #DIYProjects.
 
 📺 Roboarmy
 
-👁️ 3K • 👍 54 • 💬 1 • ⏱️ 0:20 • 13h ago
+👁️ 3K • 👍 54 • 💬 1 • ⏱️ 0:20 • 14h ago
 
 ---
 
@@ -274,7 +274,7 @@ A farmer operates a giant AI-powered crab robot that plants crops with extreme p
 
 📺 UPENDRA KUMAR OFFICIAL 
 
-👁️ 2K • 👍 6 • ⏱️ 0:09 • 3h ago
+👁️ 2K • 👍 6 • ⏱️ 0:09 • 4h ago
 
 ---
 
