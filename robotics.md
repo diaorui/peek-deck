@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-01-31T14:25:49.494665+00:00'
+updated: '2026-01-31T14:50:34.538185+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- news
 - social
 - videos
+- news
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** January 31, 2026 at 14:25 UTC  
+**Last Updated:** January 31, 2026 at 14:50 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -36,7 +36,7 @@ Robotics research and industry news
 
 From: CyberRobo on 𝕏: https://x.com/CyberRobooo/status/2017544750694551618 RoboHub🤖 on 𝕏 (images): https://x.com/XRoboHub/status/2017541654173851909
 
-3h ago
+4h ago
 
 ---
 
@@ -60,7 +60,7 @@ Fast fertiggestellt. Nur noch die Servo Bricks mit Strom versorgen. Dann kann de
 
 Has anyone already received a notification for their ICRA 2026 submission? As of January 31, 4 AM PST, my paper status is still “Decision Pending” rather than “Undisclosed.” Is this normal, or should it have updated by now?
 
-1h ago
+2h ago
 
 ---
 
@@ -68,7 +68,7 @@ Has anyone already received a notification for their ICRA 2026 submission? As of
 
 I guess it’s time for a new thread to discuss ICRA 2026 review results. This is my first first author submission and really looking forward to it 🙏
 
-37m ago
+1h ago
 
 ---
 
@@ -76,7 +76,7 @@ I guess it’s time for a new thread to discuss ICRA 2026 review results. This i
 
 I’m working on an industrial telematics system for a client who operates a fleet of electric forklifts . The proposed architecture is to mount a low-cost Android smartphone permanently on each forklift . Role of the Android phone: - Acts as the edge gateway - 4G connectivity to cloud - GPS positioning and speed estimation - Shock detection using accelerometer - Inclination (pitch/roll) using sensors - Driver identification using front camera (event-based face recognition) - Bluetooth (BLE) communication with an ESP32 that handles CAN bus + battery/current sensors Hardware constraints: - Low-end Android phones (≈3–4 GB RAM, quad-core CPU) - Continuous charging from forklift 24V - Industrial vibration environment - Android 11–14 range This is for a real client, not a hobby project. My questions to engineers who’ve done industrial / Android-at-the-edge systems: Is this architecture considered reasonable in production, or a maintenance nightmare long-term? What are the biggest failure modes you’ve seen when using Android phones as embedded gateways? Would you strongly recommend replacing the phone with a dedicated telematics box instead? Any hard lessons around Android background limits, BLE reliability, or sensor accuracy in vehicles? If you’ve shipped something similar, what would you do differently today? I’m intentionally not relying on OEM forklift firmware to keep the system brand-agnostic. Looking for honest, experience-based feedback positive or negative.
 
-2h ago
+3h ago
 
 ---
 
@@ -92,7 +92,7 @@ Wanted to share something we been working on for the past couple weeks. https://
 
 Is there anything you'd recommend adding or changing? Core Compute & Vision NVIDIA Jetson Thor Developer Kit (the brain—assume already owned/bought separately; if in cart, ~$3,500) Arducam Mini 12.3MP HQ Camera (IMX477 sensor, M12 mount lens) — x2 for stereo "eyes" Arducam CSI to USB UVC Camera Adapter Board (for IMX477 to USB on Thor) — x2 Sabrent 60W 10-Port USB Rapid Charger Hub (AX-TPCS, UL certified, for expanding USB ports) Servos & Actuators 150KG Robot Servo Motor 12V High Voltage High Torque Steel Gear Large Digital Steering Servos with Mount Brackets — x8 (for shoulders, elbows, forearms) 60KG Robot Servo Motor High Torque Stainless Steel Gear Digital Steering Large Servos with Mount Brackets — x2 (for neck pan + tilt) 10Pcs SG90 9g Micro Servos for RC Robot Helicopter Airplane Controls Car Boat — x1 pack (10 total; 5 per hand for fingers/thumb) Control & Wiring PCA9685 16 Channel PWM Servo Driver Board 12 bit IIC Interface Module (Compatible with Arduino/RPi) — x2 (32 channels total) 3-Pin Servo Extension Wire Lead Female to Male, JR Plug Connector (various lengths/packs):Original packs: Enough for ~5-10 pieces initially Frienda 15 Pieces 3-pin Servo Extension Cables (11.8 inch / ~30cm) — x1 pack Additional packs of 20cm/30cm extensions — x2 packs (adding ~10 more) Power & SafetyRenogy 12V 100Ah LiFePO4 Lithium Battery Mini Size (Core Series, 100A BMS, Bluetooth/remote monitoring, deep cycle) Nilight Battery Disconnect Switch 100A Master Disconnect Isolator (12V-48V, waterproof heavy duty) Blue Sea Systems 5026 ST Blade Fuse Block 12 Circuit with Ground and Cover (100A) Blue Sea Systems 5503 ANL Fuse Block with Insulating Cover (35A to 750A range) Bussmann Series Assorted ATM Blade Mini-Fuse Kit — 42 pieces BOJACK 0/2/4 Gauge AWG In-Line ANL Fuse Holder with 100 Amp Fuse (or equivalent main fuse) Wiring & Tools NAOEVO 10 Gauge Marine Wire, 10 AWG Tinned Copper PVC (50 ft Black + 50 ft Red, IP68 waterproof/corrosion-resistant) BNTECHGO 20 Gauge Silicone Wire Spool 100 ft Black (flexible stranded tinned copper, for signals) 80 PCS (20 Pair) Powerpole Connectors, 30 Amp (AWG12-14 modular quick disconnect) iCrimp Battery Cable Lug Crimping Tool (for 8-1/0 AWG heavy duty lugs + cutter) haisstronica 420PCS 3:1 Heat Shrink Tubing Kit (adhesive-lined marine grade, black/red assorted sizes) Audio & Peripherals ReSpeaker XMOS XVF3800 – AI-Powered 4-Mic Array (for center of head, noise suppression) USB Sound Card with 8Ω 5W Speaker And I got a pruso mk4s printer to print all the chassis, and hull. Also will use zip ties for cable management. I plan on using fishing line and springs for fingers in the hand the 8 150 kg motors are for shoulder horizontal and vertical movement, elbows, and forearm movement and the 2 60 kg are for neck for for tilting head up and down and moving it side to side. I am going to work on the legs later. I want to get everything else working first.
 
-9m ago
+34m ago
 
 ---
 
@@ -136,7 +136,7 @@ The Guardian • 2d ago
 
 EVs that were once industry-leading have long since been left behind.
 
-Ars Technica • 1d ago
+Ars Technica • 2d ago
 
 ---
 
@@ -202,7 +202,7 @@ Humanoid robotics just took a massive leap into the real world. Researchers in C
 
 📺 AI Revolution
 
-👁️ 26K • 👍 592 • 💬 70 • ⏱️ 14:25 • 14h ago
+👁️ 26K • 👍 592 • 💬 70 • ⏱️ 14:25 • 15h ago
 
 ---
 
@@ -242,7 +242,7 @@ ObstacleAvoidance #ArduinoRobot #Robotics #TechReels #DIYProjects.
 
 📺 Roboarmy
 
-👁️ 7K • 👍 140 • 💬 1 • ⏱️ 0:20 • 20h ago
+👁️ 7K • 👍 140 • 💬 1 • ⏱️ 0:20 • 21h ago
 
 ---
 

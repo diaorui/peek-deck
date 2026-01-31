@@ -3,14 +3,14 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-01-31T14:25:49.491441+00:00'
+updated: '2026-01-31T14:50:34.535019+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- news
 - social
 - videos
+- news
 - cryptocurrency
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** January 31, 2026 at 14:25 UTC  
+**Last Updated:** January 31, 2026 at 14:50 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -86,7 +86,7 @@ In these five years, the Ethereum Foundation is entering a period of mild auster
 
 **[Listening to Polymarket trades in real-time (open source, no third party)](https://www.reddit.com/r/ethereum/comments/1qs3l8c/listening_to_polymarket_trades_in_realtime_open/)**
 
-4m ago
+29m ago
 
 ---
 
@@ -94,7 +94,7 @@ In these five years, the Ethereum Foundation is entering a period of mild auster
 
 World News, Stories By EtherWorld, Technical Explainers, Client News & Updates, Podcasts, Upcoming Events & Jobs
 
-🔗 [EtherWorld.co](https://etherworld.co/etherworld-weekly-edition-349/) • 5m ago
+🔗 [EtherWorld.co](https://etherworld.co/etherworld-weekly-edition-349/) • 29m ago
 
 ---
 
@@ -118,7 +118,7 @@ Watch before one bug costs you everything. https://x.com/SolidityScan/status/201
 
 It was some time ago that ETH went from proof of work to proof of stake. At the time Vitalik said that there were other changes coming such as faster transaction or lower transaction cost. I have not heard any more since then? Is there any progress?
 
-17h ago
+18h ago
 
 ---
 
@@ -126,7 +126,7 @@ It was some time ago that ETH went from proof of work to proof of stake. At the 
 
 Hello Folks, I just published a smart contract to handle crypto inheritance 100% on-chain, without the owner having to do anything offline. I know there are many solutions that are trying to solve this problem, but I wanted to design my own with my logic, which is the following: - the contract acts like a wallet, owner can deposit, withdraw and transfer - the owner can assign beneficiaries, and update them at any time - the wallet contains an "alive check", which is automatically updated on any transaction - if you wanna use it as a vault (dormant), you can update the "alive check" manually - the owner defines a "consider me death time" in years, eg: if the last alive check is older than 10 years, I'm dead :( - once that happen, any of the beneficiaries can access the wallet and withdraw all the funds At this point, my favorite feature: the wallet gets locked, will reject any future deposit and "answer" with an epitaph... your "last worlds" recorded on-chain that you can configure when you create the wallet. All of the above is less then 100 lines of solidity... amazing :) At the moment I only did the backend (github link), but I'd like to do a nice interface to make it easy to deploy. Of course, free and open source in the Ethereum spirit! Would you give me a feedback on the logic? Do you see any pitfall or edge cases? Thanks, Francesco
 
-20h ago
+21h ago
 
 ---
 
@@ -176,7 +176,7 @@ TradingView • 1d ago
 
 The crypto market is under pressure today, with Bitcoin, Ethereum, and XRP all trading lower as selling activity picks up across major tokens. The total
 
-Coinpedia Fintech News • 1d ago
+Coinpedia Fintech News • 2d ago
 
 ---
 
@@ -184,7 +184,7 @@ Coinpedia Fintech News • 1d ago
 
 Four major AI models have projected 2026 price targets for Ethereum (CRYPTO: ETH), Solana (CRYPTO: SOL), and XRP (CRYPTO: XRP). The forecasts range from conservative consolidation to triple-digit percentage gains, with each asset showing different upside potential based on adoption trends, network activity, and market positioning. Ethereum anchors institutional DeFi with mature Layer 2 networks, ... AI Models Predict Ethereum, Solana, and XRP 2026 Prices—Which Altcoin Has the Biggest Upside?
 
-Yahoo Finance • 18h ago
+Yahoo Finance • 19h ago
 
 ---
 
@@ -216,7 +216,7 @@ The Block • 1d ago
 
 Ripple’s new stablecoin rollout has put a bright spotlight on a simple fact: most RLUSD is living on Ethereum right now. That imbalance has stirred worry among long-time XRP supporters.Some feel the company’s heart might be shifting away from the ledger that gave it a base. Others say the move is p…
 
-TradingView • 19h ago
+TradingView • 20h ago
 
 ---
 
@@ -238,7 +238,7 @@ BITCOIN & ALTCOIN CRASH: EMERGENCY UPDATE (New Trade)!!! - Bitcoin News Today, E
 
 📺 Crypto World
 
-👁️ 9K • 👍 309 • 💬 78 • ⏱️ 22:15 • 19h ago
+👁️ 9K • 👍 309 • 💬 78 • ⏱️ 22:15 • 20h ago
 
 ---
 
@@ -318,7 +318,7 @@ Open Your Account on CoinDCX: https://join.coindcx.com/invite/uBCBj Join the Tel
 
 📺 Sanjay Kathuria 
 
-👁️ 24K • 👍 898 • 💬 135 • ⏱️ 10:23 • 23h ago
+👁️ 24K • 👍 898 • 💬 135 • ⏱️ 10:23 • 1d ago
 
 ---
 

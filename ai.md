@@ -3,14 +3,14 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-01-31T14:25:49.477131+00:00'
+updated: '2026-01-31T14:50:34.520618+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- news
 - social
 - videos
+- news
 - repositories
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 AI news, discussions, and developments
 
-**Last Updated:** January 31, 2026 at 14:25 UTC  
+**Last Updated:** January 31, 2026 at 14:50 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -63,7 +63,7 @@ I’m seeing too many new devs use AI as an autopilot instead of a hint system. 
 
 OpenClaw’s AI assistants are now building their own social network.[1] DeepSeek AI Releases DeepSeek-OCR 2 with Causal Visual Flow Encoder for Layout Aware Document Understanding.[2] Video game company stock prices dip after Google introduces an AI world-generation tool.[3] AI model from Google’s DeepMind reads recipe for life in DNA.[4] Sources: [1] https://techcrunch.com/2026/01/30/openclaws-ai-assistants-are-now-building-their-own-social-network/ [2] https://www.marktechpost.com/2026/01/30/deepseek-ai-releases-deepseek-ocr-2-with-causal-visual-flow-encoder-for-layout-aware-document-understanding/ [3] https://www.theverge.com/games/871348/google-project-genie-take-two-roblox-unity [4] https://www.bbc.com/news/articles/c39428dv18yo
 
-8h ago
+9h ago
 
 ---
 
@@ -135,7 +135,7 @@ Anthropic • 1d ago
 
 Cybersecurity experts say that U.S. Immigration and Customs Enforcement seems to be indifferent to how their artificial intelligence tools work.
 
-Rolling Stone • 25m ago
+Rolling Stone • 50m ago
 
 ---
 
@@ -143,7 +143,7 @@ Rolling Stone • 25m ago
 
 Lesser-known artificial intelligence (AI) stocks may end up delivering superior returns, too.
 
-The Motley Fool • 22m ago
+The Motley Fool • 47m ago
 
 ---
 
@@ -151,13 +151,13 @@ The Motley Fool • 22m ago
 
 As generative music tools surge, China turns to state oversight while the US relies on courts, copyright suits and settlements.
 
-South China Morning Post • 25m ago
+South China Morning Post • 50m ago
 
 ---
 
 **[The US is headed for mass unemployment, and no one is prepared](https://thehill.com/opinion/finance/5713876-ai-displacement-and-ubi/)**
 
-The Hill • 20h ago
+The Hill • 21h ago
 
 ---
 
@@ -179,7 +179,7 @@ NASA Jet Propulsion Laboratory (JPL) (.gov) • 18h ago
 
 **[AI Agents Created Their Own Religion, Crustafarianism, On An Agent-Only Social Network](https://www.forbes.com/sites/johnkoetsier/2026/01/30/ai-agents-created-their-own-religion-crustafarianism-on-an-agent-only-social-network/)**
 
-Forbes • 12h ago
+Forbes • 13h ago
 
 ---
 
@@ -209,7 +209,7 @@ Guys, enough is enough. Bullying is a s...
 
 Interactive article explaining the physics of an airfoil and what makes airplanes fly
 
-⬆️ 525 • 💬 60 • 2d ago • [ciechanow.ski](https://ciechanow.ski/airfoil/)
+⬆️ 525 • 💬 60 • 3d ago • [ciechanow.ski](https://ciechanow.ski/airfoil/)
 
 ---
 
@@ -239,7 +239,7 @@ Or, as they like to call it, the 'AI Skills Hub'. Which was built by PwC because
 
 Moltworker is a middleware Worker and adapted scripts that allows running Moltbot (formerly Clawdbot) on Cloudflare's Sandbox SDK and our Developer Platform APIs. So you can self-host an AI personal assistant — without any new hardware.
 
-⬆️ 234 • 💬 67 • 1d ago • [The Cloudflare Blog](https://blog.cloudflare.com/moltworker-self-hosted-ai-agent/)
+⬆️ 234 • 💬 67 • 2d ago • [The Cloudflare Blog](https://blog.cloudflare.com/moltworker-self-hosted-ai-agent/)
 
 ---
 
@@ -305,7 +305,7 @@ Humanoid robotics just took a massive leap into the real world. Researchers in C
 
 📺 AI Revolution
 
-👁️ 26K • 👍 592 • 💬 70 • ⏱️ 14:25 • 14h ago
+👁️ 26K • 👍 592 • 💬 70 • ⏱️ 14:25 • 15h ago
 
 ---
 
@@ -315,7 +315,7 @@ In this video, I break down the 14 best AI tools that actually hold up after mon
 
 📺 Parker Prompts
 
-👁️ 4K • 💬 1 • ⏱️ 11:46 • 54m ago
+👁️ 4K • 💬 1 • ⏱️ 11:46 • 1h ago
 
 ---
 
@@ -415,7 +415,7 @@ Z-Image is an undistilled, high-fidelity text-to-image diffusion transformer mod
 
 `text-to-image`
 
-⬇️ 2,893 • ❤️ 725 • 2d ago
+⬇️ 2,893 • ❤️ 725 • 3d ago
 
 ---
 
@@ -679,7 +679,7 @@ LLM驱动的 A/H/美股智能分析器，多数据源行情 + 实时新闻 + Gem
 
 `Python` `agent` `ai` `aigc` `gemini` `llm`
 
-⭐ 8.2k • 🔱 8.6k • 31s ago
+⭐ 8.2k • 🔱 8.6k • 25m ago
 
 ---
 
@@ -699,7 +699,7 @@ The Ultimate Collection of 500+ Agentic Skills for Claude Code/Antigravity/Curso
 
 `Python` `agentic-skills` `ai-agents` `antigravity` `autonomous-coding` `claude-code`
 
-⭐ 5.7k • 🔱 1.3k • 6h ago
+⭐ 5.7k • 🔱 1.3k • 7h ago
 
 ---
 

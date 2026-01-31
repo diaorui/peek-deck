@@ -3,14 +3,14 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-01-31T14:25:49.485495+00:00'
+updated: '2026-01-31T14:50:34.529075+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- news
 - social
 - videos
+- news
 - cryptocurrency
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** January 31, 2026 at 14:25 UTC  
+**Last Updated:** January 31, 2026 at 14:50 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -95,7 +95,7 @@ Watching good will hunting tonight
 
 I just bought the dip and officially crossed the 0.1 BTC mark. It’s been a long journey of stacking sats, and it feels incredible to finally hit this milestone. Now that my stack is growing, I know I need to get my coins off the exchanges. I’ve had a Trezor Model T sitting in its box for months, but I haven't set it up yet. I’m feeling a bit of transfer anxiety. I’m terrified of making a mistake during the process and losing my hard-earned BTC. I’ve also seen some talk about the Model T not being as secure as newer models. For those of you who have been through this: Is the Model T still considered solid for a 0.1 BTC stack, or should I upgrade before moving? What are your best tips for a first-time hardware wallet user to ensure I don't mess up the transfer? I’m planning to do a small test transaction first, but any advice to calm the nerves would be much appreciated!
 
-4h ago
+5h ago
 
 ---
 
@@ -129,7 +129,7 @@ The fastest way to create a Bitcoin skeptic is to tell someone you made money on
 
 **[Nearly $560M liquidated from the crypto market in the past 24H](https://www.reddit.com/r/Bitcoin/comments/1qs1gho/nearly_560m_liquidated_from_the_crypto_market_in/)**
 
-1h ago
+2h ago
 
 ---
 
@@ -143,7 +143,7 @@ The fastest way to create a Bitcoin skeptic is to tell someone you made money on
 
 Why are people so worried about the price now? It’s almost guaranteed to hit a new ath in the future.. but when is the question. This year? in 3 years? in 5 years? Anyway it will. DCA AND HODL
 
-14h ago
+15h ago
 
 ---
 
@@ -155,7 +155,7 @@ Why are people so worried about the price now? It’s almost guaranteed to hit a
 
 Bitcoin fell toward $83,000 as the U.S. entered a partial shutdown, with traders leaning defensive ahead of a House vote expected Monday.
 
-CoinDesk • 6h ago
+CoinDesk • 7h ago
 
 ---
 
@@ -193,7 +193,7 @@ Bloomberg.com • 21h ago
 
 **[The Slide in Gold and Silver Sets Up a Test for Bitcoin](https://www.barrons.com/articles/the-slide-in-gold-and-silver-sets-up-a-test-for-bitcoin-2a9573b3?gaa_at=eafs&gaa_n=AWEtsqf1mvOwksVIgxQN2mvsCDWurjTMacFvpmECWLRxb7UkCBIV0fDXxG9_&gaa_ts=697e1458&gaa_sig=UILOk-RRXwYiUAgLcRlsvDH7aYrrXuwC8_Kn_77oUZFDNqCCGV8fYG53FXUvYN0w1G1JUR4Tz5FiRaKBsPwBOg%3D%3D)**
 
-Barron's • 23h ago
+Barron's • 1d ago
 
 ---
 
@@ -215,7 +215,7 @@ Yahoo Finance • 23h ago
 
 **[Bitcoin Slumps to Two-Month Low as US Funds Shed Billions](https://www.bloomberg.com/news/articles/2026-01-30/bitcoin-btc-slumps-to-two-month-low-as-us-funds-shed-billions)**
 
-Bloomberg.com • 16h ago
+Bloomberg.com • 17h ago
 
 ---
 
@@ -251,13 +251,13 @@ A list of known attacks against Bitcoin / crypto asset owning entities that occu
 
 PoW + EVM cryptocurrency. 21M fixed supply, fair launch, no team, no foundation. Just code. - lumenyx-chain/lumenyx
 
-⬆️ 1 • 💬 0 • 1h ago • [GitHub](https://github.com/lumenyx-chain/lumenyx)
+⬆️ 1 • 💬 0 • 2h ago • [GitHub](https://github.com/lumenyx-chain/lumenyx)
 
 ---
 
 **[Bitcoin's Quantum Computing Threat](https://news.ycombinator.com/item?id=46824834)**
 
-⬆️ 1 • 💬 0 • 23h ago • [bmpro.substack.com](https://bmpro.substack.com/p/bitcoins-quantum-computing-threat)
+⬆️ 1 • 💬 0 • 1d ago • [bmpro.substack.com](https://bmpro.substack.com/p/bitcoins-quantum-computing-threat)
 
 ---
 
@@ -317,7 +317,7 @@ Gold is absorbing sovereign capital while Bitcoin struggles — and that's exact
 
 📺 Savvy Finance
 
-👁️ 9K • 👍 379 • 💬 31 • ⏱️ 19:18 • 15h ago
+👁️ 9K • 👍 379 • 💬 31 • ⏱️ 19:18 • 16h ago
 
 ---
 
@@ -357,7 +357,7 @@ Join The Community: https://bit.ly/FefeCommunity FOLLOW FEFE FOR MORE ALPHA ON .
 
 📺 100XClub
 
-👁️ 14K • 👍 1K • 💬 282 • ⏱️ 28:55 • 20h ago
+👁️ 14K • 👍 1K • 💬 282 • ⏱️ 28:55 • 21h ago
 
 ---
 
@@ -367,7 +367,7 @@ Crypto Just FLIPPED | NEW Fed Chair Bitcoin Plan (Fully Explained) ✓ Bitunix (
 
 📺 Altcoin Daily
 
-👁️ 45K • 👍 2K • 💬 219 • ⏱️ 8:25 • 15h ago
+👁️ 45K • 👍 2K • 💬 219 • ⏱️ 8:25 • 16h ago
 
 ---
 
@@ -397,7 +397,7 @@ BYBIT: http://themoon.co/Bybit 10% DISCOUNT & $30000 BONUS BloFin: https://themo
 
 📺 The Moon Show
 
-👁️ 8K • 👍 628 • 💬 76 • ⏱️ 6:54 • 4h ago
+👁️ 8K • 👍 628 • 💬 76 • ⏱️ 6:54 • 5h ago
 
 ---
 
