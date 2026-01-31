@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-01-31T13:41:28.616475+00:00'
+updated: '2026-01-31T14:25:49.494665+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
 - news
-- videos
 - social
+- videos
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** January 31, 2026 at 13:41 UTC  
+**Last Updated:** January 31, 2026 at 14:25 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -44,7 +44,7 @@ From: CyberRobo on 𝕏: https://x.com/CyberRobooo/status/2017544750694551618 Ro
 
 It was good, old Boxie 1. Now, there is Boxie 2: stronger, better, more capable ... but it is shy to deliver the beer :-)
 
-3h ago
+4h ago
 
 ---
 
@@ -52,7 +52,23 @@ It was good, old Boxie 1. Now, there is Boxie 2: stronger, better, more capable 
 
 Fast fertiggestellt. Nur noch die Servo Bricks mit Strom versorgen. Dann kann der erste Test starten. #insento Pib.rocks Einige hundert Stunden hat der 3D-Drucker gedruckt. Etwa 150 Teile. Dazu hunderte Schrauben und Muttern, Kugellager. MEhr als 20 Servomotoren, Raspi, Monitor, 360 Grad Mikroarray, Kamera mit Objekterkennung. Und viele Arbeitsstunden - ich bin mal gespannt, ob dann alles funktioniert.
 
+2h ago
+
+---
+
+**[ICRA 2026 Acceptance Notification](https://www.reddit.com/r/robotics/comments/1qs19lr/icra_2026_acceptance_notification/)**
+
+Has anyone already received a notification for their ICRA 2026 submission? As of January 31, 4 AM PST, my paper status is still “Decision Pending” rather than “Undisclosed.” Is this normal, or should it have updated by now?
+
 1h ago
+
+---
+
+**[ICRA 2026 review discussion](https://www.reddit.com/r/robotics/comments/1qs2thb/icra_2026_review_discussion/)**
+
+I guess it’s time for a new thread to discuss ICRA 2026 review results. This is my first first author submission and really looking forward to it 🙏
+
+37m ago
 
 ---
 
@@ -68,7 +84,15 @@ I’m working on an industrial telematics system for a client who operates a fle
 
 Wanted to share something we been working on for the past couple weeks. https://reddit.com/link/1qruali/video/kh9n7a6vhmgg1/player We built a 6-axis robotic arm using an Arduino UNO and some 3D printed parts. It has base rotation, shoulder, elbow, wrist movements and a gripper - so it basically moves like a tiny human arm. And we also made a simple web dashboard to control it with sliders, so we can record movements and play them back. https://preview.redd.it/9lajowfagmgg1.jpg?width=750&format=pjpg&auto=webp&s=eccc351d281c69f352ea552dde0b14c9a89df919 Ran into the usual beginner issues - jittery servos from low power, servos moving the wrong direction because I didn't align the horns properly, so on. But we learn a lot from this project 3D printing to fitting the parts to calibration. This simple Arduino Robotic Arm designed for pick-and-place tasks but right now it's just picking up my desk clutter and putting it back down in the same spot. Anyone else built something similar? Would love to hear what you used in your build or any tips for improvements are welcome.
 
-7h ago
+8h ago
+
+---
+
+**[I am building a robot for bartending and home chores](https://www.reddit.com/r/robotics/comments/1qs3gxz/i_am_building_a_robot_for_bartending_and_home/)**
+
+Is there anything you'd recommend adding or changing? Core Compute & Vision NVIDIA Jetson Thor Developer Kit (the brain—assume already owned/bought separately; if in cart, ~$3,500) Arducam Mini 12.3MP HQ Camera (IMX477 sensor, M12 mount lens) — x2 for stereo "eyes" Arducam CSI to USB UVC Camera Adapter Board (for IMX477 to USB on Thor) — x2 Sabrent 60W 10-Port USB Rapid Charger Hub (AX-TPCS, UL certified, for expanding USB ports) Servos & Actuators 150KG Robot Servo Motor 12V High Voltage High Torque Steel Gear Large Digital Steering Servos with Mount Brackets — x8 (for shoulders, elbows, forearms) 60KG Robot Servo Motor High Torque Stainless Steel Gear Digital Steering Large Servos with Mount Brackets — x2 (for neck pan + tilt) 10Pcs SG90 9g Micro Servos for RC Robot Helicopter Airplane Controls Car Boat — x1 pack (10 total; 5 per hand for fingers/thumb) Control & Wiring PCA9685 16 Channel PWM Servo Driver Board 12 bit IIC Interface Module (Compatible with Arduino/RPi) — x2 (32 channels total) 3-Pin Servo Extension Wire Lead Female to Male, JR Plug Connector (various lengths/packs):Original packs: Enough for ~5-10 pieces initially Frienda 15 Pieces 3-pin Servo Extension Cables (11.8 inch / ~30cm) — x1 pack Additional packs of 20cm/30cm extensions — x2 packs (adding ~10 more) Power & SafetyRenogy 12V 100Ah LiFePO4 Lithium Battery Mini Size (Core Series, 100A BMS, Bluetooth/remote monitoring, deep cycle) Nilight Battery Disconnect Switch 100A Master Disconnect Isolator (12V-48V, waterproof heavy duty) Blue Sea Systems 5026 ST Blade Fuse Block 12 Circuit with Ground and Cover (100A) Blue Sea Systems 5503 ANL Fuse Block with Insulating Cover (35A to 750A range) Bussmann Series Assorted ATM Blade Mini-Fuse Kit — 42 pieces BOJACK 0/2/4 Gauge AWG In-Line ANL Fuse Holder with 100 Amp Fuse (or equivalent main fuse) Wiring & Tools NAOEVO 10 Gauge Marine Wire, 10 AWG Tinned Copper PVC (50 ft Black + 50 ft Red, IP68 waterproof/corrosion-resistant) BNTECHGO 20 Gauge Silicone Wire Spool 100 ft Black (flexible stranded tinned copper, for signals) 80 PCS (20 Pair) Powerpole Connectors, 30 Amp (AWG12-14 modular quick disconnect) iCrimp Battery Cable Lug Crimping Tool (for 8-1/0 AWG heavy duty lugs + cutter) haisstronica 420PCS 3:1 Heat Shrink Tubing Kit (adhesive-lined marine grade, black/red assorted sizes) Audio & Peripherals ReSpeaker XMOS XVF3800 – AI-Powered 4-Mic Array (for center of head, noise suppression) USB Sound Card with 8Ω 5W Speaker And I got a pruso mk4s printer to print all the chassis, and hull. Also will use zip ties for cable management. I plan on using fishing line and springs for fingers in the hand the 8 150 kg motors are for shoulder horizontal and vertical movement, elbows, and forearm movement and the 2 60 kg are for neck for for tilting head up and down and moving it side to side. I am going to work on the legs later. I want to get everything else working first.
+
+9m ago
 
 ---
 
@@ -76,37 +100,13 @@ Wanted to share something we been working on for the past couple weeks. https://
 
 Hi everyone! I just picked up this Rethink Robotics Sawyer for $300. But it is incomplete, missing the last two joints and, more importantly, the controller unit. I'm investigating building my own controller and wanted to see if anyone here has experience with this? The biggest question I have right now is what the voltage is. I'm guessing 48V, but don't know that for sure. I'll probably also have tons of other questions as a move forward, so hoping that someone here will know something about these!
 
-12h ago
-
----
-
-**[ICRA 2026 Acceptance Notification](https://www.reddit.com/r/robotics/comments/1qs19lr/icra_2026_acceptance_notification/)**
-
-Has anyone already received a notification for their ICRA 2026 submission? As of January 31, 4 AM PST, my paper status is still “Decision Pending” rather than “Undisclosed.” Is this normal, or should it have updated by now?
-
-1h ago
+13h ago
 
 ---
 
 **[My humanoid robot (arm)](https://www.reddit.com/r/robotics/comments/1qr6f2w/my_humanoid_robot_arm/)**
 
 I’m building a humanoid robot from scratch and this is how it looks so far. The hand is finished, and i’m currently working on the torso.
-
-23h ago
-
----
-
-**[That Is Really Precise "Phone Tracking" :-) - designed and built for autonomous robots and drones, of course :-)](https://www.reddit.com/r/robotics/comments/1qqxg28/that_is_really_precise_phone_tracking_designed/)**
-
-Setup: 2 x Super-Beacons - a few meters away on the walls of the room - as stationary beacons emitting short ultrasound pulses 1 x Mini-RX as a mobile beacon in hands - receiving ultrasound pulses from the stationary beacons 1 x Modem as central controller of the system - connected by the white USB cable from the laptop - synchronizes the clocks between all elements, controls the telemetry, and the system overall The Dashboard on the computer doesn't calculate anything; it just displays the tracking. The location is calculated by the mobile beacon in hand and then streamed over USB to show on the display Inverse Architecture: https://marvelmind.com/pics/architectures_comparison.pdf
-
-1d ago
-
----
-
-**[LingBot-VA: a causal world open source model approach to robotic manipulation](https://www.reddit.com/r/robotics/comments/1qqqk29/lingbotva_a_causal_world_open_source_model/)**
-
-Ant Group released LingBot-VA, a VLA built on a different premise than most current approaches: instead of directly mapping observations to actions, first predict what the future should look like, then infer what action causes that transition. The model uses a 5.3B video diffusion backbone (Wan2.2) as a "world model" to predict future frames, then decodes actions via inverse dynamics. Everything runs through GPT style autoregressive generation with KV-cache — no chunk-based diffusion, so the robot maintains persistent memory across the full trajectory and respects causal ordering (past → present → future). Results on standard benchmarks: 92.9% on RoboTwin Easy (vs 82.7% for π0.5), 91.6% on Hard (vs 76.8%), 98.5% on LIBERO-Long. The biggest gains show up on long-horizon tasks and anything requiring temporal memory — counting repetitions, remembering past observations, etc. Sample efficiency is a key claim: 50 demos for deployment, and even 10 demos outperforms π0.5 by 10-15%. They attribute this to the video backbone providing strong physical priors. For inference speed, they overlap prediction with execution using async inference plus a forward dynamics grounding step. 2× speedup with no accuracy drop.
 
 1d ago
 
@@ -115,14 +115,6 @@ Ant Group released LingBot-VA, a VLA built on a different premise than most curr
 ---
 
 ## Google News: "robotics"
-
-**[Lake Stevens robotics team receives world recognition](https://www.heraldnet.com/news/lake-stevens-robotics-team-receives-world-recognition/)**
-
-Team Arsenic took second place at the recent ROBO-BASH in Bellingham, earning fifth place in the world.
-
-Everett Herald • 1d ago
-
----
 
 **[Tesla lurches into the Musk robotics era](https://www.ft.com/content/6a6cfa00-6f51-4abc-bd68-1738580bd2c5)**
 
@@ -140,17 +132,25 @@ The Guardian • 2d ago
 
 ---
 
-**[Tesla doubles spending with $20B AI and robotics push](https://finance.yahoo.com/news/tesla-doubles-spending-20b-ai-161254007.html)**
+**[Tesla kills Models S and X to build humanoid robots instead](https://arstechnica.com/cars/2026/01/tesla-kills-models-s-and-x-to-build-humanoid-robots-instead/)**
 
-Record investment marks a shift away from traditional EVs toward automation.
+EVs that were once industry-leading have long since been left behind.
 
-Yahoo Finance • 1d ago
+Ars Technica • 1d ago
 
 ---
 
 **[Lightspeed Backs Robotics Startup in $100 Million Round](https://www.bloomberg.com/news/articles/2026-01-29/fiat-toyota-tycoons-back-startup-robco-in-100-million-round)**
 
 Bloomberg.com • 1d ago
+
+---
+
+**[Lake Stevens robotics team receives world recognition](https://www.heraldnet.com/news/lake-stevens-robotics-team-receives-world-recognition/)**
+
+Team Arsenic took second place at the recent ROBO-BASH in Bellingham, earning fifth place in the world.
+
+Everett Herald • 1d ago
 
 ---
 
@@ -172,7 +172,15 @@ Ondas Holdings • 3d ago
 
 Humanoid robots are set to soak up a whopping 75 GWh of solid-state battery capacity between now and 2035 – nearly 1500x growth!
 
-Electrek • 13h ago
+Electrek • 14h ago
+
+---
+
+**[How AI and robotics can improve education and school safety | Opinion](https://www.tennessean.com/story/opinion/contributors/2026/01/31/ai-robotics-education-school-safety-teachers/88444664007/)**
+
+A near-tragedy forced this author to confront a broken education system, and the role AI could play in fixing it.
+
+The Tennessean • 3h ago
 
 ---
 
@@ -181,14 +189,6 @@ Electrek • 13h ago
 Investors liked what they heard about the future following the company's latest results, but Elon Musk is under huge pressure to deliver on his vision as a series of targets have been missed.
 
 Sky News • 2d ago
-
----
-
-**[New York Robotics launches with 160 startups in its ecosystem](https://www.therobotreport.com/new-york-robotics-launches-160-startups-ecosystem/)**
-
-New York Robotics is launching with over 80 industry partners, 20 academic partners, 40 robotics labs, and over 300 venture capital partners.
-
-The Robot Report • 22h ago
 
 ---
 
@@ -202,7 +202,7 @@ Humanoid robotics just took a massive leap into the real world. Researchers in C
 
 📺 AI Revolution
 
-👁️ 21K • 👍 519 • 💬 54 • ⏱️ 14:25 • 14h ago
+👁️ 26K • 👍 592 • 💬 70 • ⏱️ 14:25 • 14h ago
 
 ---
 
@@ -212,37 +212,17 @@ China is deploying AI-powered robots to manage traffic and pedestrian flow in ci
 
 📺 NBC News
 
-👁️ 269K • 👍 3K • 💬 1K • ⏱️ 3:13 • 1d ago
+👁️ 291K • 👍 3K • 💬 1K • ⏱️ 3:13 • 1d ago
 
 ---
 
-**[SaaS is over… Why you should build a robotics company in 2026](https://www.youtube.com/watch?v=FqfTQFuSalY)**
+**[The Next Robotics Boom Is Healthcare (3 Stocks to Watch)](https://www.youtube.com/watch?v=iMGDPSqvjiY)**
 
-2026 will be the year of robotics. We're in an Will Smith spaghetti moment. Remember how AI-generated video looked horrific two ...
+Robotics stocks are gaining attention as healthcare technology continues to evolve, and stock market investors are paying ...
 
-📺 Andreas Klinger ⅹ Europe's Most Ambitious Startups
+📺 MarketBeat
 
-👁️ 25K • 👍 1K • 💬 199 • ⏱️ 16:46 • 4d ago
-
----
-
-**[Elon Musk Repairs High-Tech Robotic 🕵️ Wings on Female 💲Android in Futuristic 🧪 Ai-concept.](https://www.youtube.com/watch?v=qBIpFr_d3Vg)**
-
-RoboticWings #FuturisticLab #Android #SciFi #Robotics #AIArt #Cyberpunk #HighTech #ArtificialIntelligence #TeslaBot ...
-
-📺 AITECHGADGETS
-
-👁️ 289K • 💬 151 • ⏱️ 0:18 • 5d ago
-
----
-
-**[Introducing Helix 02](https://www.youtube.com/watch?v=lQsvTrRTBRs)**
-
-Last year, Helix showed that a single neural network could control a humanoid's upper body from pixels. Today, Helix 02 extends ...
-
-📺 Figure
-
-👁️ 201K • 👍 11K • 💬 2K • ⏱️ 3:37 • 3d ago
+👁️ 12K • 👍 522 • 💬 22 • ⏱️ 16:59 • 14h ago
 
 ---
 
@@ -252,7 +232,7 @@ The Cybertruck, autonomous driving and now the mad Optimus humanoid robot - thre
 
 📺 MGUY Australia
 
-👁️ 15K • 👍 2K • 💬 814 • ⏱️ 8:11 • 1d ago
+👁️ 16K • 👍 2K • 💬 825 • ⏱️ 8:11 • 1d ago
 
 ---
 
@@ -262,7 +242,7 @@ ObstacleAvoidance #ArduinoRobot #Robotics #TechReels #DIYProjects.
 
 📺 Roboarmy
 
-👁️ 4K • 👍 99 • 💬 1 • ⏱️ 0:20 • 19h ago
+👁️ 7K • 👍 140 • 💬 1 • ⏱️ 0:20 • 20h ago
 
 ---
 
@@ -272,17 +252,7 @@ Andrea Nakano reports on the Tesla Fremont factory ending Model S/X production a
 
 📺 KPIX | CBS NEWS BAY AREA
 
-👁️ 56K • 👍 510 • 💬 306 • ⏱️ 4:36 • 2d ago
-
----
-
-**[Keep watching the robots](https://www.youtube.com/watch?v=bAYIW1aQ_c8)**
-
-Keep watching the robots—because every day brings breakthrough moments that redefine what machines can do and what our ...
-
-📺 Dark Waters
-
-👁️ 238K • 👍 4K • 💬 551 • ⏱️ 0:23 • 1d ago
+👁️ 57K • 👍 516 • 💬 312 • ⏱️ 4:36 • 2d ago
 
 ---
 
@@ -292,7 +262,37 @@ Some people are getting concerned because automatic AI pizza-making machines are
 
 📺 Taylor Jollie
 
-👁️ 21K • 👍 109 • 💬 12 • ⏱️ 0:19 • 1d ago
+👁️ 21K • 👍 114 • 💬 12 • ⏱️ 0:19 • 1d ago
+
+---
+
+**[Humanoid Robots Are Coming. They Could Wipe Out This Entire Town](https://www.youtube.com/watch?v=6BJ0XbXOJcs)**
+
+Hyundai is planning to place 30000 humanoid robots in its factories. We talked to an anonymous Hyundai worker who says his ...
+
+📺 More Perfect Union
+
+👁️ 189K • 👍 16K • 💬 2K • ⏱️ 2:59 • 3d ago
+
+---
+
+**[Meet Sprout: The Humanoid Robot Built for Real World Use](https://www.youtube.com/watch?v=4zMbX1OEOSE)**
+
+This new humanoid robot is not about hype or flashy promises. Sprout is designed to work alongside people in real environments, ...
+
+📺 DPCcars
+
+👁️ 8K • 👍 90 • 💬 19 • ⏱️ 3:17 • 2d ago
+
+---
+
+**[Keep watching the robots](https://www.youtube.com/watch?v=bAYIW1aQ_c8)**
+
+Keep watching the robots—because every day brings breakthrough moments that redefine what machines can do and what our ...
+
+📺 Dark Waters
+
+👁️ 243K • 👍 4K • 💬 559 • ⏱️ 0:23 • 1d ago
 
 ---
 

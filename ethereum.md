@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-01-31T13:41:28.613330+00:00'
+updated: '2026-01-31T14:25:49.491441+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- cryptocurrency
-- videos
-- social
 - news
+- social
+- videos
+- cryptocurrency
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** January 31, 2026 at 13:41 UTC  
+**Last Updated:** January 31, 2026 at 14:25 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -36,33 +36,33 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Price
 
-### $2,649.86
+### $2,592.69
 
 ---
 
 ## Ethereum Chart
 
-**24h:** -3.5%  
-**7d:** -6.5%  
-**30d:** -15.6%  
-**90d:** -26.8%  
-**1y:** -15.5%  
+**24h:** -5.3%  
+**7d:** -8.3%  
+**30d:** -17.2%  
+**90d:** -28.1%  
+**1y:** -17.0%  
 
 ---
 
 ## Ethereum Market Stats
 
-**Market Cap:** $318.68B
+**Market Cap:** $313.30B
 Rank #2
 
 **Circulating Supply:** 120,694,153 ETH
 No max supply
 
 **All-Time High:** $4,946.05
--46.6%
+-47.8%
 
 **All-Time Low:** $0.43
-+609728.7%
++596351.6%
 
 ---
 
@@ -72,7 +72,7 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-7h ago
+8h ago
 
 ---
 
@@ -81,6 +81,20 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 In these five years, the Ethereum Foundation is entering a period of mild austerity, in order to be able to simultaneously meet two goals: Deliver on an aggressive roadmap that ensures Ethereum's status as a performant and scalable world computer that does not compromise on robustness, sustainability and decentralization. Ensures the Ethereum Foundation's own ability to sustain into the long term, and protect Ethereum's core mission and goals, including both the core blockchain layer as well as users' ability to access and use the chain with self-sovereignty, security and privacy. To this end, my own share of the austerity is that I am personally taking on responsibilities that might in another time have been "special projects" of the EF. Specifically, we are seeking the existence of an open-source, secure and verifiable full stack of software and hardware that can protect both our personal lives and our public environments ( see https://vitalik.eth.limo/general/2025/09/24/openness_and_verifiability.html ). This includes applications such as finance, communication and governance, blockchains, operating systems, secure hardware, biotech (including both personal and public health), and more. If you have seen the Vensa announcement (seeking to make open silicon a commercially viable reality at least for security-critical applications), the ucritter.com including recent versions with built in ZK + FHE + differential-privacy features, the air quality work, my donations to encrypted messaging apps, my own enthusiasm and use for privacy-preserving, walkaway-test-friendly and local-first software (including operating systems), then you know the general spirit of what I am planning to support. For this reason I have just withdrawn 16,384 ETH, which will be deployed toward these goals over the next few years. I am also exploring secure decentralized staking options that will allow even more capital from staking rewards to be put toward these goals in the long term. Ethereum itself is an indispensable part of the "full-stack openness and verifiability" vision. The Ethereum Foundation will continue with a steadfast focus on developing Ethereum, with that goal in mind. "Ethereum everywhere" is nice, but the primary priority is "Ethereum for people who need it". Not corposlop, but self-sovereignty, and the baseline infrastructure that enables cooperation without domination. In a world where many people's default mindset is that we need to race to become a big strong bully, because otherwise the existing big strong bullies will eat you first, this is the needed alternative. It will involve much more than technology to succeed, but the technical layer is something which is in our control to make happen. The tools to ensure your, and your community's, autonomy and safety, as a basic right that belongs to everyone. Open not in a bullshit "open means everyone has the right to buy it from us and use our API for $200/month" way, but actually open, and secure and verifiable so that you know that your technology is working for you.
 
 1d ago
+
+---
+
+**[Listening to Polymarket trades in real-time (open source, no third party)](https://www.reddit.com/r/ethereum/comments/1qs3l8c/listening_to_polymarket_trades_in_realtime_open/)**
+
+4m ago
+
+---
+
+**[EtherWorld Weekly — Edition 349](https://www.reddit.com/r/ethereum/comments/1qs3kzo/etherworld_weekly_edition_349/)**
+
+World News, Stories By EtherWorld, Technical Explainers, Client News & Updates, Podcasts, Upcoming Events & Jobs
+
+🔗 [EtherWorld.co](https://etherworld.co/etherworld-weekly-edition-349/) • 5m ago
 
 ---
 
@@ -96,7 +110,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 Watch before one bug costs you everything. https://x.com/SolidityScan/status/2017172006056390715?s=20
 
-6h ago
+7h ago
 
 ---
 
@@ -104,7 +118,7 @@ Watch before one bug costs you everything. https://x.com/SolidityScan/status/201
 
 It was some time ago that ETH went from proof of work to proof of stake. At the time Vitalik said that there were other changes coming such as faster transaction or lower transaction cost. I have not heard any more since then? Is there any progress?
 
-16h ago
+17h ago
 
 ---
 
@@ -120,7 +134,7 @@ Hello Folks, I just published a smart contract to handle crypto inheritance 100%
 
 The Doots live stream is all about showcasing the best of the week from the Daily General Discussion from the r/ethereum Community on Reddit! Today we talked to Mac Budkowski from macbudkowski.com. He's made the "No BS Crypto GTM guide." Dig into what he has learned about timing, messaging, and why best isn't always good. Host: JT Technical Host: LogrisTheBard https://dailydoots.com by Hanniabu Daily Doots Curator: Tricky_Troll Weekly Doots Curator: The-A-Word Farcaster and Backend Host Support: Ben Broad Media Content Support: Twelve Meatballs Discord Bouncer and Watchdog: Treebeard As always, if you know someone who wants a piece of this action, send em our way. Buy us a ☕ dailydoots.eth All of our channels can be found here: https://dailydoots.com/podcast/ 🕸️https://dailydoots.com 📢https://discord.gg/EVMavericks 📰https://reddit.com/r/ethereum 🔊MINTABLE Podcast 👉: https://pods.media/evmavericks 🍎Apple https://podcasts.apple.com/us/podcast/ethfinance-evmavericks-daily-doots-livestream/id1750089604 🔊Spotify https://open.spotify.com/show/7AotdyMtcvHZLv3pVqkxre 🦁https://x.com/EVMavericks ⏱️TikTok: https://www.tiktok.com/@evmavericks 📺https://www.youtube.com/channel/UC51nlNbIkBm5Qhm7EwQuWLw Twitch: https://www.twitch.tv/evmavericks LinkedIN: https://www.linkedin.com/company/evmavericks-daily-doots-podcast
 
-🔗 [youtu.be](https://youtu.be/lDG5GrjKgew) • 15h ago
+🔗 [youtu.be](https://youtu.be/lDG5GrjKgew) • 16h ago
 
 ---
 
@@ -132,22 +146,6 @@ Fidelity Investments FIDD stablecoin, TheDAO Security Fund, Hegotá upgrade head
 
 ---
 
-**[Built web3:// protocol support into markdown - ENS sites can now embed live contract calls](https://www.reddit.com/r/ethereum/comments/1qr16pm/built_web3_protocol_support_into_markdown_ens/)**
-
-I've been working on adding native smart contract interaction to markdown-based ENS websites on Simple Page, and v1.6.0 just shipped with two features I'm excited to share. Web3 Forms via URI Protocol You can now embed interactive contract calls using web3:// URIs (ERC-6860) directly in markdown. The syntax works like this: ![USDC Balance](web3://0xa0b8...eb48:1/balanceOf/address!0x?returns=(uint256)&labels=(Account)) This renders as a live form that: Reads contract state without signatures (view/pure functions) Handles transactions with type validation Supports payable functions with ETH inputs No Web3.js boilerplate, no React scaffolding—just a URI that gets parsed into a working interface. RSS Feed Generation Sites can now auto-generate RSS feeds at /rss.xml using frontmatter: Per-page opt-in with rss: true Audio enclosures for podcast episodes Standard metadata from markdown headers Technical Architecture The interesting part about Simple Page is how this works with ENS + IPFS: Sites are pure HTML (render without JS) Editor and forms load progressively One contenthash update publishes everything Self-contained—no external dependencies This approach lets ENS names function as actual web3 endpoints rather than just static pages. The web3:// protocol handler does the ABI encoding/decoding client-side. Web3 forms example: https://simplepage.eth.link/guides/editor/web3-forms/ Source: https://simplepage.eth.link/
-
-1d ago
-
----
-
-**[Highlights from the All Core Developers Execution (ACDE) Call #229](https://www.reddit.com/r/ethereum/comments/1qqunju/highlights_from_the_all_core_developers_execution/)**
-
-Ethereum developers used ACDE #229 to shift focus toward Devnet-2 readiness, execution optimizations & repricing as Glamsterdam moves from scoping into testing.
-
-🔗 [EtherWorld.co](https://etherworld.co/highlights-from-the-all-core-developers-execution-acde-call-229/) • 1d ago
-
----
-
 ---
 
 ## Google News: "ethereum"
@@ -156,7 +154,29 @@ Ethereum developers used ACDE #229 to shift focus toward Devnet-2 readiness, exe
 
 The Ethereum co-founder wants to pursue an “aggressive” roadmap that will strengthen its status as a decentralized world computer.
 
-Decrypt • 20h ago
+Decrypt • 21h ago
+
+---
+
+**[Bitcoin, XRP, Ethereum Fall on News of Kevin Warsh Fed Appointment.](https://www.barrons.com/articles/bitcoin-xrp-ethereum-crypto-today-954298d9?gaa_at=eafs&gaa_n=AWEtsqeVIz3UBLmJTFNSwN-nLijr36C1ofnP-maFKSYGmaX74MyVWVuEtH_8&gaa_ts=697e145a&gaa_sig=xvqw66YyyPiSFeuqc7jeujt6Y-6ydMfM6AUw3APR8vnhJrwZug6_MN7GNyy6G_KVsJ3FqEVn1ePcubZhv5j-7g%3D%3D)**
+
+Barron's • 20h ago
+
+---
+
+**[Why Are Bitcoin, Ethereum and XRP Prices Crashing Today? Fed Uncertainty Sparks Crypto Selloff](https://www.tradingview.com/news/coinpedia:84570eaf5094b:0-why-are-bitcoin-ethereum-and-xrp-prices-crashing-today-fed-uncertainty-sparks-crypto-selloff/)**
+
+The broader crypto market is under heavy pressure today, with Bitcoin, Ethereum, and XRP posting sharp losses as a broad selloff sweeps across digital assets. Bitcoin has fallen nearly 6%, while Ethereum and XRP are down close to 7%, marking one of the most aggressive downside moves in recent weeks…
+
+TradingView • 1d ago
+
+---
+
+**[Why Are Bitcoin, XRP, and Ethereum Prices Falling Today?](https://coinpedia.org/news/why-are-bitcoin-xrp-and-ethereum-prices-falling-today/)**
+
+The crypto market is under pressure today, with Bitcoin, Ethereum, and XRP all trading lower as selling activity picks up across major tokens. The total
+
+Coinpedia Fintech News • 1d ago
 
 ---
 
@@ -168,25 +188,19 @@ Yahoo Finance • 18h ago
 
 ---
 
-**[Bitcoin, XRP, Ethereum Fall on News of Kevin Warsh Fed Appointment.](https://www.barrons.com/articles/bitcoin-xrp-ethereum-crypto-today-954298d9?gaa_at=eafs&gaa_n=AWEtsqcZBwwqNaiQ_Gb-27cb7UaCCnRhCp-CXB8vz-vvULKy--x4fK4KJkqs&gaa_ts=697dfe32&gaa_sig=93JQScN_WKR-YmqvUY05gHvMqx1kYTeX3N9LYUFtVI3FH1JqWg-AjfHQxysRjoRZ-aw3jENEIA6Ed1wBirDpkA%3D%3D)**
-
-Barron's • 19h ago
-
----
-
-**[Ripple Affirms XRPL Focus, Says ‘We Love XRP’ Over Ethereum](https://www.tradingview.com/news/newsbtc:0d7d8c78c094b:0-ripple-affirms-xrpl-focus-says-we-love-xrp-over-ethereum/)**
-
-Ripple’s new stablecoin rollout has put a bright spotlight on a simple fact: most RLUSD is living on Ethereum right now. That imbalance has stirred worry among long-time XRP supporters.Some feel the company’s heart might be shifting away from the ledger that gave it a base. Others say the move is p…
-
-TradingView • 19h ago
-
----
-
 **[BitMine Immersion Can’t Stop Buying Ethereum as Crypto Prices Tank](https://www.barchart.com/story/news/37329357/bitmine-immersion-cant-stop-buying-ethereum-as-crypto-prices-tank)**
 
 BitMine Immersion continues to accumulate Ethereum amid price declines, following a treasury strategy inspired by Strategy.
 
-Barchart.com • 16h ago
+Barchart.com • 1d ago
+
+---
+
+**[Lido’s new stVaults will let L2s create their own rules for Ethereum staking](https://www.coindesk.com/tech/2026/01/29/dnp-lido-launches-stvaults-to-let-builders-create-new-ethereum-staking-products)**
+
+stVaults let other teams plug into Lido’s staking system instead of building their own from scratch.
+
+CoinDesk • 1d ago
 
 ---
 
@@ -198,19 +212,11 @@ The Block • 1d ago
 
 ---
 
-**[Lido’s new stVaults will let L2s create their own rules for Ethereum staking](https://www.coindesk.com/tech/2026/01/29/dnp-lido-launches-stvaults-to-let-builders-create-new-ethereum-staking-products)**
+**[Ripple Affirms XRPL Focus, Says ‘We Love XRP’ Over Ethereum](https://www.tradingview.com/news/newsbtc:0d7d8c78c094b:0-ripple-affirms-xrpl-focus-says-we-love-xrp-over-ethereum/)**
 
-stVaults let other teams plug into Lido’s staking system instead of building their own from scratch.
+Ripple’s new stablecoin rollout has put a bright spotlight on a simple fact: most RLUSD is living on Ethereum right now. That imbalance has stirred worry among long-time XRP supporters.Some feel the company’s heart might be shifting away from the ledger that gave it a base. Others say the move is p…
 
-CoinDesk • 23h ago
-
----
-
-**[Ethereum loses $3K again: How low can ETH price go in February?](https://www.tradingview.com/news/cointelegraph:3bcdc7ba5094b:0-ethereum-loses-3k-again-how-low-can-eth-price-go-in-february/)**
-
-Ether BITSTAMP:ETHUSD is now more than 14% below its local peak near $3,400, underscoring the sellers’ tenacity above $3,000. A bearish technical setup suggests the pressure may extend into February.Key takeaways: Ether in textbook symmetrical triangle breakdownOn Thursday, ETH fell about 2.85% to…
-
-TradingView • 2d ago
+TradingView • 19h ago
 
 ---
 
@@ -222,27 +228,9 @@ The Motley Fool • 1d ago
 
 ---
 
-**[Ethereum Supply Tightens With 45% of ETH Locked: Sygnum](https://thedefiant.io/news/research-and-opinion/ethereum-supply-tightens-with-45-of-eth-locked-sygnum)**
-
-ETF buying, staking and corporate holdings continue to reduce liquid ETH.
-
-thedefiant.io • 17h ago
-
----
-
 ---
 
 ## YouTube Videos: "ethereum"
-
-**[🚨 BTC &amp; ETH: SELL ALL BITCOIN AND QUIT CRYPTO!!!!!!!!!](https://www.youtube.com/watch?v=Js9TFiiwSBk)**
-
-The situation is getting worse and worse for crypto. Here are facts and my take on whether its time to sell all bitcoin and just quit!
-
-📺 Thomas Kralow
-
-👁️ 56K • 👍 3K • 💬 174 • ⏱️ 13:43 • 2d ago
-
----
 
 **[BITCOIN &amp; ALTCOIN CRASH: EMERGENCY UPDATE (New Trade)!!! - Bitcoin News Today, Ethereum &amp; Altcoins](https://www.youtube.com/watch?v=_kPvKrJSvxo)**
 
@@ -250,27 +238,17 @@ BITCOIN & ALTCOIN CRASH: EMERGENCY UPDATE (New Trade)!!! - Bitcoin News Today, E
 
 📺 Crypto World
 
-👁️ 8K • 👍 298 • 💬 79 • ⏱️ 22:15 • 18h ago
+👁️ 9K • 👍 309 • 💬 78 • ⏱️ 22:15 • 19h ago
 
 ---
 
-**[WHY Cardano and Ethereum crypto coins are about to EXPLODE!!](https://www.youtube.com/watch?v=rFHVIvMYiiQ)**
+**[🚨 BTC &amp; ETH: SELL ALL BITCOIN AND QUIT CRYPTO!!!!!!!!!](https://www.youtube.com/watch?v=Js9TFiiwSBk)**
 
-Cardano and Ethereum holders... GET READY!! ✓ Bitunix (no kyc, $10000 bonus): https://www.bitunix.com/register?
+The situation is getting worse and worse for crypto. Here are facts and my take on whether its time to sell all bitcoin and just quit!
 
-📺 Altcoin Daily
+📺 Thomas Kralow
 
-👁️ 48K • 👍 3K • 💬 286 • ⏱️ 8:35 • 2d ago
-
----
-
-**[BITCOIN AND ETH: NEW FED CHAIR (he is hawkish wtf)!!!! 🚨🚨🚨](https://www.youtube.com/watch?v=FSBDYffIDv4)**
-
-FREE TRAINING: https://www.bullmania.com EXCHANGES I USE (bybit, pionex): https://www.bullmania.com/partners My ...
-
-📺 Ivan on Tech
-
-👁️ 24K • 👍 1K • 💬 99 • ⏱️ 49:08 • 1d ago
+👁️ 57K • 👍 3K • 💬 173 • ⏱️ 13:43 • 2d ago
 
 ---
 
@@ -284,43 +262,63 @@ This video provides a professional Elliott Wave and technical analysis of Ethere
 
 ---
 
-**[Mathematician Fred Krueger: The Crypto Price Predictions Are UNBELIEVABLE Now](https://www.youtube.com/watch?v=A5PJS1pcUJo)**
+**[WHY Cardano and Ethereum crypto coins are about to EXPLODE!!](https://www.youtube.com/watch?v=rFHVIvMYiiQ)**
 
-Watch The FULL Interview: "Explosive Crypto Price Prediction for 2026..." FREE Daily On-Chain Analysis & Crypto News In ...
+Cardano and Ethereum holders... GET READY!! ✓ Bitunix (no kyc, $10000 bonus): https://www.bitunix.com/register?
 
-📺 Library Of Wealth
+📺 Altcoin Daily
 
-👁️ 12K • 👍 464 • 💬 303 • ⏱️ 14:36 • 1d ago
-
----
-
-**[LIVE: Trump Announces Important News About Crypto! This Speech Will Change the Crypto Industry](https://www.youtube.com/watch?v=dpQMip2PHwk)**
-
-TrumpCrypto2026 #DigitalAssets #TrumpAnnouncement Welcome to the Trump Crypto Forum 2026 — streaming LIVE from ...
-
-📺 Sportfm
-
-👁️ 6K • 👍 904 • 13h ago
+👁️ 48K • 👍 3K • 💬 288 • ⏱️ 8:35 • 2d ago
 
 ---
 
-**[Fundstrat on BTC, ETH, Crypto stocks, and Market Risk](https://www.youtube.com/watch?v=JY9oJJbgUrY)**
+**[Ethereum Elliott Wave Update – Key Resistance Levels Ahead](https://www.youtube.com/watch?v=Mk8yvyi5cXI)**
 
-Watch Full Crypto Webinar: ...
+This video provides a professional Elliott Wave and technical analysis of Ethereum (ETH), focusing on market structure, major ...
 
-📺 Fundstrat
+📺 More Crypto Online
 
-👁️ 7K • 👍 242 • 💬 128 • ⏱️ 3:31 • 1d ago
+👁️ 2K • 👍 125 • 💬 5 • ⏱️ 4:29 • 10h ago
 
 ---
 
-**[&quot;This Bitcoin &amp; Crypto Crash Is WORSE Than Many Realize&quot; - Jack Mallers &amp; Raoul Pal](https://www.youtube.com/watch?v=SusvzMpWuo8)**
+**[ETH Loses Support, This Is The Setup We’re Watching](https://www.youtube.com/watch?v=yYD9cCVxI48)**
 
-Gold is absorbing sovereign capital while Bitcoin struggles — and that's exactly how this transition is supposed to look. In this ...
+Get $450 Off Our New AI Indicators: https://tradeconfidentportal.io/indicators/ New Members! Get 25% Off Your 1st Month: ...
 
-📺 Savvy Finance
+📺 Trade Confident
 
-👁️ 7K • 👍 327 • 💬 27 • ⏱️ 19:18 • 15h ago
+👁️ 685 • 👍 21 • 💬 5 • ⏱️ 5:01 • 1d ago
+
+---
+
+**[When Will Stop The Crash? 💀 ETH Crypto Token Analysis](https://www.youtube.com/watch?v=LUAphGQ2Yls)**
+
+Join Premium: https://the-bitcoin-strategy.com My Chart Software: https://the-bitcoin-strategy.com/tradingview My Hardware Wallet: ...
+
+📺 Gerhard - Bitcoin Strategy
+
+👁️ 2K • 👍 86 • 💬 39 • ⏱️ 7:13 • 5h ago
+
+---
+
+**[WILL ETHEREUM CRASH LOWER?🚨 (Ethereum Price Prediction 2026)](https://www.youtube.com/watch?v=A2OIPUKO7yo)**
+
+ETHEREUM ETH PRICE PREDICTION 2026 Join the Premium Signal Group for trade setups, mentorship & a community ...
+
+📺 Cilinix Crypto
+
+👁️ 1K • 👍 30 • 💬 1 • ⏱️ 5:29 • 1d ago
+
+---
+
+**[Bitcoin &amp; Ethereum Hits New High But People aren&#39;t Investing? | Sanjay Kathuria](https://www.youtube.com/watch?v=yyRQhMpyp40)**
+
+Open Your Account on CoinDCX: https://join.coindcx.com/invite/uBCBj Join the Telegram Community https://t.me/easylearncryptox ...
+
+📺 Sanjay Kathuria 
+
+👁️ 24K • 👍 898 • 💬 135 • ⏱️ 10:23 • 23h ago
 
 ---
 
