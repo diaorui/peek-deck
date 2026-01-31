@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-01-31T15:24:53.179488+00:00'
+updated: '2026-01-31T15:48:02.979210+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
 - videos
 - social
-- news
 - cryptocurrency
+- news
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** January 31, 2026 at 15:24 UTC  
+**Last Updated:** January 31, 2026 at 15:48 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -36,17 +36,17 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Price
 
-### $2,592.69
+### $2,542.56
 
 ---
 
 ## Ethereum Chart
 
-**24h:** -5.3%  
-**7d:** -8.3%  
-**30d:** -17.2%  
-**90d:** -28.1%  
-**1y:** -17.0%  
+**24h:** -6.8%  
+**7d:** -9.7%  
+**30d:** -18.5%  
+**90d:** -29.3%  
+**1y:** -18.4%  
 
 ---
 
@@ -76,14 +76,6 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 ---
 
-**[I am personally allocating 16,384 ETH to support full-stack open-source security and verifiability.](https://www.reddit.com/r/ethereum/comments/1qqzw02/i_am_personally_allocating_16384_eth_to_support/)**
-
-In these five years, the Ethereum Foundation is entering a period of mild austerity, in order to be able to simultaneously meet two goals: Deliver on an aggressive roadmap that ensures Ethereum's status as a performant and scalable world computer that does not compromise on robustness, sustainability and decentralization. Ensures the Ethereum Foundation's own ability to sustain into the long term, and protect Ethereum's core mission and goals, including both the core blockchain layer as well as users' ability to access and use the chain with self-sovereignty, security and privacy. To this end, my own share of the austerity is that I am personally taking on responsibilities that might in another time have been "special projects" of the EF. Specifically, we are seeking the existence of an open-source, secure and verifiable full stack of software and hardware that can protect both our personal lives and our public environments ( see https://vitalik.eth.limo/general/2025/09/24/openness_and_verifiability.html ). This includes applications such as finance, communication and governance, blockchains, operating systems, secure hardware, biotech (including both personal and public health), and more. If you have seen the Vensa announcement (seeking to make open silicon a commercially viable reality at least for security-critical applications), the ucritter.com including recent versions with built in ZK + FHE + differential-privacy features, the air quality work, my donations to encrypted messaging apps, my own enthusiasm and use for privacy-preserving, walkaway-test-friendly and local-first software (including operating systems), then you know the general spirit of what I am planning to support. For this reason I have just withdrawn 16,384 ETH, which will be deployed toward these goals over the next few years. I am also exploring secure decentralized staking options that will allow even more capital from staking rewards to be put toward these goals in the long term. Ethereum itself is an indispensable part of the "full-stack openness and verifiability" vision. The Ethereum Foundation will continue with a steadfast focus on developing Ethereum, with that goal in mind. "Ethereum everywhere" is nice, but the primary priority is "Ethereum for people who need it". Not corposlop, but self-sovereignty, and the baseline infrastructure that enables cooperation without domination. In a world where many people's default mindset is that we need to race to become a big strong bully, because otherwise the existing big strong bullies will eat you first, this is the needed alternative. It will involve much more than technology to succeed, but the technical layer is something which is in our control to make happen. The tools to ensure your, and your community's, autonomy and safety, as a basic right that belongs to everyone. Open not in a bullshit "open means everyone has the right to buy it from us and use our API for $200/month" way, but actually open, and secure and verifiable so that you know that your technology is working for you.
-
-1d ago
-
----
-
 **[Listening to Polymarket trades in real-time (open source, no third party)](https://www.reddit.com/r/ethereum/comments/1qs3l8c/listening_to_polymarket_trades_in_realtime_open/)**
 
 1h ago
@@ -98,6 +90,14 @@ World News, Stories By EtherWorld, Technical Explainers, Client News & Updates, 
 
 ---
 
+**[I am personally allocating 16,384 ETH to support full-stack open-source security and verifiability.](https://www.reddit.com/r/ethereum/comments/1qqzw02/i_am_personally_allocating_16384_eth_to_support/)**
+
+In these five years, the Ethereum Foundation is entering a period of mild austerity, in order to be able to simultaneously meet two goals: Deliver on an aggressive roadmap that ensures Ethereum's status as a performant and scalable world computer that does not compromise on robustness, sustainability and decentralization. Ensures the Ethereum Foundation's own ability to sustain into the long term, and protect Ethereum's core mission and goals, including both the core blockchain layer as well as users' ability to access and use the chain with self-sovereignty, security and privacy. To this end, my own share of the austerity is that I am personally taking on responsibilities that might in another time have been "special projects" of the EF. Specifically, we are seeking the existence of an open-source, secure and verifiable full stack of software and hardware that can protect both our personal lives and our public environments ( see https://vitalik.eth.limo/general/2025/09/24/openness_and_verifiability.html ). This includes applications such as finance, communication and governance, blockchains, operating systems, secure hardware, biotech (including both personal and public health), and more. If you have seen the Vensa announcement (seeking to make open silicon a commercially viable reality at least for security-critical applications), the ucritter.com including recent versions with built in ZK + FHE + differential-privacy features, the air quality work, my donations to encrypted messaging apps, my own enthusiasm and use for privacy-preserving, walkaway-test-friendly and local-first software (including operating systems), then you know the general spirit of what I am planning to support. For this reason I have just withdrawn 16,384 ETH, which will be deployed toward these goals over the next few years. I am also exploring secure decentralized staking options that will allow even more capital from staking rewards to be put toward these goals in the long term. Ethereum itself is an indispensable part of the "full-stack openness and verifiability" vision. The Ethereum Foundation will continue with a steadfast focus on developing Ethereum, with that goal in mind. "Ethereum everywhere" is nice, but the primary priority is "Ethereum for people who need it". Not corposlop, but self-sovereignty, and the baseline infrastructure that enables cooperation without domination. In a world where many people's default mindset is that we need to race to become a big strong bully, because otherwise the existing big strong bullies will eat you first, this is the needed alternative. It will involve much more than technology to succeed, but the technical layer is something which is in our control to make happen. The tools to ensure your, and your community's, autonomy and safety, as a basic right that belongs to everyone. Open not in a bullshit "open means everyone has the right to buy it from us and use our API for $200/month" way, but actually open, and secure and verifiable so that you know that your technology is working for you.
+
+1d ago
+
+---
+
 **[Daily General Discussion January 30, 2026](https://www.reddit.com/r/ethereum/comments/1qqxc92/daily_general_discussion_january_30_2026/)**
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
@@ -106,19 +106,11 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 ---
 
-**[Just one Scan that can save you from exploits [Its free to scan]](https://www.reddit.com/r/ethereum/comments/1qrvb61/just_one_scan_that_can_save_you_from_exploits_its/)**
-
-Watch before one bug costs you everything. https://x.com/SolidityScan/status/2017172006056390715?s=20
-
-8h ago
-
----
-
 **[Major developments for ETH](https://www.reddit.com/r/ethereum/comments/1qrhhyb/major_developments_for_eth/)**
 
 It was some time ago that ETH went from proof of work to proof of stake. At the time Vitalik said that there were other changes coming such as faster transaction or lower transaction cost. I have not heard any more since then? Is there any progress?
 
-18h ago
+19h ago
 
 ---
 
@@ -126,7 +118,15 @@ It was some time ago that ETH went from proof of work to proof of stake. At the 
 
 Hello Folks, I just published a smart contract to handle crypto inheritance 100% on-chain, without the owner having to do anything offline. I know there are many solutions that are trying to solve this problem, but I wanted to design my own with my logic, which is the following: - the contract acts like a wallet, owner can deposit, withdraw and transfer - the owner can assign beneficiaries, and update them at any time - the wallet contains an "alive check", which is automatically updated on any transaction - if you wanna use it as a vault (dormant), you can update the "alive check" manually - the owner defines a "consider me death time" in years, eg: if the last alive check is older than 10 years, I'm dead :( - once that happen, any of the beneficiaries can access the wallet and withdraw all the funds At this point, my favorite feature: the wallet gets locked, will reject any future deposit and "answer" with an epitaph... your "last worlds" recorded on-chain that you can configure when you create the wallet. All of the above is less then 100 lines of solidity... amazing :) At the moment I only did the backend (github link), but I'd like to do a nice interface to make it easy to deploy. Of course, free and open source in the Ethereum spirit! Would you give me a feedback on the logic? Do you see any pitfall or edge cases? Thanks, Francesco
 
-21h ago
+22h ago
+
+---
+
+**[Just one Scan that can save you from exploits [Its free to scan]](https://www.reddit.com/r/ethereum/comments/1qrvb61/just_one_scan_that_can_save_you_from_exploits_its/)**
+
+Watch before one bug costs you everything. https://x.com/SolidityScan/status/2017172006056390715?s=20
+
+8h ago
 
 ---
 
@@ -150,6 +150,22 @@ Fidelity Investments FIDD stablecoin, TheDAO Security Fund, Hegotá upgrade head
 
 ## Google News: "ethereum"
 
+**[Vitalik Buterin to spend $43 million on Ethereum development](https://www.coindesk.com/business/2026/01/30/vitalik-buterin-withdraws-usd17-million-in-eth-as-ethereum-foundation-enters-mild-austerity)**
+
+Ethereum’s co-founder said the $43 million withdrawal will support a broader “full-stack openness and verifiability” vision as the foundation tightens spending.
+
+CoinDesk • 1d ago
+
+---
+
+**[Vitalik Buterin Commits $45 Million In ETH To Support Ethereum’s Development And User Security](https://www.tradingview.com/news/zycrypto:194cacc68094b:0-vitalik-buterin-commits-45-million-in-eth-to-support-ethereum-s-development-and-user-security/)**
+
+Ethereum co-founder Vitalik Buterin has withdrawn 16,384 ETH, worth roughly $45 million at current market prices.
+
+TradingView • 1h ago
+
+---
+
 **[Vitalik Buterin Withdraws $44.7M in ETH to Support Ethereum Growth Through ‘Mild Austerity’](https://decrypt.co/356490/vitalik-buterin-withdraws-44-7m-in-eth-to-support-ethereum-growth-through-mild-austerity)**
 
 The Ethereum co-founder wants to pursue an “aggressive” roadmap that will strengthen its status as a decentralized world computer.
@@ -158,33 +174,25 @@ Decrypt • 22h ago
 
 ---
 
-**[Bitcoin, XRP, Ethereum Fall on News of Kevin Warsh Fed Appointment.](https://www.barrons.com/articles/bitcoin-xrp-ethereum-crypto-today-954298d9?gaa_at=eafs&gaa_n=AWEtsqeVIz3UBLmJTFNSwN-nLijr36C1ofnP-maFKSYGmaX74MyVWVuEtH_8&gaa_ts=697e145a&gaa_sig=xvqw66YyyPiSFeuqc7jeujt6Y-6ydMfM6AUw3APR8vnhJrwZug6_MN7GNyy6G_KVsJ3FqEVn1ePcubZhv5j-7g%3D%3D)**
+**[Bitcoin, XRP, Ethereum Fall on News of Kevin Warsh Fed Appointment.](https://www.barrons.com/articles/bitcoin-xrp-ethereum-crypto-today-954298d9?gaa_at=eafs&gaa_n=AWEtsqeRFJqcrr-e_iLqV-DP9vpkoTYH3eHQgLKYh2sc7kOeTePnrfNrMSPD&gaa_ts=697e279a&gaa_sig=lP3E6viCRf95pKR9-HE30SNtupKOKmLXUgwy_niYaOIf66zVhQ8_nugpw90iNEZLBNYJArAMdcZ71UDUePP-qA%3D%3D)**
 
 Barron's • 21h ago
 
 ---
 
-**[Why Are Bitcoin, Ethereum and XRP Prices Crashing Today? Fed Uncertainty Sparks Crypto Selloff](https://www.tradingview.com/news/coinpedia:84570eaf5094b:0-why-are-bitcoin-ethereum-and-xrp-prices-crashing-today-fed-uncertainty-sparks-crypto-selloff/)**
+**[Crypto Investor Loses Over $12 Million in Ethereum to ‘Address Poisoning’ Scam](https://finance.yahoo.com/news/crypto-investor-loses-over-12-133538597.html)**
 
-The broader crypto market is under heavy pressure today, with Bitcoin, Ethereum, and XRP posting sharp losses as a broad selloff sweeps across digital assets. Bitcoin has fallen nearly 6%, while Ethereum and XRP are down close to 7%, marking one of the most aggressive downside moves in recent weeks…
+A cryptocurrency investor lost approximately $12.4 million in Ether to an "address poisoning" scam after an attacker spoofed their wallet.
 
-TradingView • 1d ago
-
----
-
-**[Why Are Bitcoin, XRP, and Ethereum Prices Falling Today?](https://coinpedia.org/news/why-are-bitcoin-xrp-and-ethereum-prices-falling-today/)**
-
-The crypto market is under pressure today, with Bitcoin, Ethereum, and XRP all trading lower as selling activity picks up across major tokens. The total
-
-Coinpedia Fintech News • 2d ago
+Yahoo Finance • 2h ago
 
 ---
 
-**[AI Models Predict Ethereum, Solana, and XRP 2026 Prices—Which Altcoin Has the Biggest Upside?](https://finance.yahoo.com/news/ai-models-predict-ethereum-solana-193044962.html)**
+**[Why Solana, XRP, and Ethereum Could Lead the Next Crypto Rally](https://www.tradingview.com/news/coinpedia:47da5647b094b:0-why-solana-xrp-and-ethereum-could-lead-the-next-crypto-rally/)**
 
-Four major AI models have projected 2026 price targets for Ethereum (CRYPTO: ETH), Solana (CRYPTO: SOL), and XRP (CRYPTO: XRP). The forecasts range from conservative consolidation to triple-digit percentage gains, with each asset showing different upside potential based on adoption trends, network activity, and market positioning. Ethereum anchors institutional DeFi with mature Layer 2 networks, ... AI Models Predict Ethereum, Solana, and XRP 2026 Prices—Which Altcoin Has the Biggest Upside?
+Banks at Davos are done watching from the sidelines. At this year’s World Economic Forum, major financial institutions said they need crypto infrastructure to stay competitive.A recent Altcoin Buzz video broke down three signals pointing to a potential crypto rally. “The biggest banks in the world…
 
-Yahoo Finance • 19h ago
+TradingView • 6h ago
 
 ---
 
@@ -209,14 +217,6 @@ CoinDesk • 1d ago
 Bit Digital entered the bitcoin mining business in 2020 and was an early diversifier into the HPC/AI sector.
 
 The Block • 1d ago
-
----
-
-**[Ripple Affirms XRPL Focus, Says ‘We Love XRP’ Over Ethereum](https://www.tradingview.com/news/newsbtc:0d7d8c78c094b:0-ripple-affirms-xrpl-focus-says-we-love-xrp-over-ethereum/)**
-
-Ripple’s new stablecoin rollout has put a bright spotlight on a simple fact: most RLUSD is living on Ethereum right now. That imbalance has stirred worry among long-time XRP supporters.Some feel the company’s heart might be shifting away from the ledger that gave it a base. Others say the move is p…
-
-TradingView • 20h ago
 
 ---
 

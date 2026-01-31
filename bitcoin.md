@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-01-31T15:24:53.173614+00:00'
+updated: '2026-01-31T15:48:02.973285+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
 - videos
 - social
-- news
 - cryptocurrency
+- news
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** January 31, 2026 at 15:24 UTC  
+**Last Updated:** January 31, 2026 at 15:48 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,17 +38,17 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $82,082.00
+### $81,130.66
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** -1.0%  
-**7d:** -5.1%  
-**30d:** -8.6%  
-**90d:** -22.7%  
-**1y:** -18.3%  
+**24h:** -2.1%  
+**7d:** -6.1%  
+**30d:** -9.6%  
+**90d:** -23.5%  
+**1y:** -19.1%  
 
 ---
 
@@ -95,7 +95,15 @@ Watching good will hunting tonight
 
 I just bought the dip and officially crossed the 0.1 BTC mark. It’s been a long journey of stacking sats, and it feels incredible to finally hit this milestone. Now that my stack is growing, I know I need to get my coins off the exchanges. I’ve had a Trezor Model T sitting in its box for months, but I haven't set it up yet. I’m feeling a bit of transfer anxiety. I’m terrified of making a mistake during the process and losing my hard-earned BTC. I’ve also seen some talk about the Model T not being as secure as newer models. For those of you who have been through this: Is the Model T still considered solid for a 0.1 BTC stack, or should I upgrade before moving? What are your best tips for a first-time hardware wallet user to ensure I don't mess up the transfer? I’m planning to do a small test transaction first, but any advice to calm the nerves would be much appreciated!
 
-5h ago
+6h ago
+
+---
+
+**[Bitcoin](https://www.reddit.com/r/Bitcoin/comments/1qs3bsm/bitcoin/)**
+
+I'm scared, not because I don't trust Bitcoin, but because I used my BTC and altcoins to back up a loan, which I used to buy more Bitcoin and altcoins. The problem is, I had my entire altcoin portfolio on Binance, and I liquidated it on October 10th. Now I only have BTC left, and if it drops below 80, I'll be wiped out. All my effort and sacrifice of six years will have been for nothing. I know many will say it's wrong and that I was greedy, but I'm someone who has worked hard for as long as I can remember. When I reached adulthood, I got fed up with that life. Now I don't know what to do, but I don't have the strength to continue. I know Bitcoin is the future, but I no longer see a good future for myself, and I don't have the strength to start from scratch.
+
+1h ago
 
 ---
 
@@ -113,6 +121,14 @@ The deal will be too good to pass at that point.
 
 ---
 
+**[Short-Term Leverage Unwinds While Long-Term Holders Stay Inactive](https://www.reddit.com/r/Bitcoin/comments/1qs4w4q/shortterm_leverage_unwinds_while_longterm_holders/)**
+
+My node analytics captured a large liquidation event this morning. Roughly $120M in realized losses came from positions established within the last ~3 months, with nearly 20,000 BTC transferring to counterparties during the unwind. This is classic leverage behavior being resolved... not long-term capital exiting the market. Notably, older age bands remain largely inactive. Long-term holders are not distributing into this move; they are waiting, as they typically do, while short-duration leverage clears. When price action is driven primarily by derivatives, forced selling, and liquidity hunting, history shows it tends to be temporary. Once the excess leverage is flushed and fear-driven flows subside, price reverts back to being governed by spot demand and accumulation. The rise of ETFs and derivatives has compressed these cycles into shorter timeframes, increasing volatility... but also making liquidation events like this easier to observe in real time. Smart money isn’t reacting here. It’s absorbing. Fascinating to watch these play out in real time.
+
+33m ago
+
+---
+
 **[Time for something less volatile](https://www.reddit.com/r/Bitcoin/comments/1qrmwm4/time_for_something_less_volatile/)**
 
 15h ago
@@ -123,27 +139,13 @@ The deal will be too good to pass at that point.
 
 The fastest way to create a Bitcoin skeptic is to tell someone you made money on Bitcoin. It's not always about the tech. It's about psychology. When you say you profited, some people don't hear "good investment" — they hear "I missed it." And instead of asking questions, they dismiss it. I've noticed something: the more you talk about your gains, the more resistance you create. Not because Bitcoin is flawed - but because success triggers ego. So maybe the real rule is simple: stack quietly.
 
-7h ago
+8h ago
 
 ---
 
 **[Nearly $560M liquidated from the crypto market in the past 24H](https://www.reddit.com/r/Bitcoin/comments/1qs1gho/nearly_560m_liquidated_from_the_crypto_market_in/)**
 
-2h ago
-
----
-
-**[Sliver people acting like it’s such a volatile asset. LMAO](https://www.reddit.com/r/Bitcoin/comments/1qriea6/sliver_people_acting_like_its_such_a_volatile/)**
-
-18h ago
-
----
-
-**[FIRE SALE](https://www.reddit.com/r/Bitcoin/comments/1qrlxcd/fire_sale/)**
-
-Why are people so worried about the price now? It’s almost guaranteed to hit a new ath in the future.. but when is the question. This year? in 3 years? in 5 years? Anyway it will. DCA AND HODL
-
-15h ago
+3h ago
 
 ---
 
@@ -151,27 +153,19 @@ Why are people so worried about the price now? It’s almost guaranteed to hit a
 
 ## Google News: "bitcoin"
 
-**[U.S. government enters partial shutdown, here's how it impacts bitcoin and ether](https://www.coindesk.com/markets/2026/01/31/bitcoin-ether-fall-as-shutdown-clock-hits-and-markets-brace-for-a-messy-monday)**
+**[Bitcoin price news: What next as BTC plunges under $81,000](https://www.coindesk.com/markets/2026/01/31/bitcoin-plunges-under-usd81-000-amid-reports-of-iran-explosions-and-binance-spat)**
 
-Bitcoin fell toward $83,000 as the U.S. entered a partial shutdown, with traders leaning defensive ahead of a House vote expected Monday.
+Bitcoin slid toward $81,000 on Saturday as thin weekend liquidity magnified selling pressure, with traders pointing to Middle East tensions, U.S. political risk and lingering crypto-specific uncertainty.
 
-CoinDesk • 7h ago
-
----
-
-**[Bitcoin price plunge: Why are crypto prices dropping this time?](https://mashable.com/article/bitcoin-price-plunge-crypto-falls-jan-29)**
-
-How low can Bitcoin go?
-
-Mashable • 1d ago
+CoinDesk • 59m ago
 
 ---
 
-**[Better Investment to Make in 2026 and Beyond: Bitcoin vs. iShares Bitcoin Trust](https://www.fool.com/investing/2026/01/31/better-investment-2026-beyond-bitcoin-ibit/)**
+**[Bitcoin (BTC) price: Fear hits a 2026 high as traders panic at $84,200 price level](https://www.coindesk.com/markets/2026/01/31/bitcoin-fear-sentiment-hits-a-2026-high-as-price-lingers-under-usd83-000)**
 
-Based on its monster past performance, it makes sense why investors are interested in Bitcoin.
+Social chatter around bitcoin has turned sharply negative after the token slid to its lowest level since Nov. 21, a setup Santiment says often appears near capitulation, even if near term trading stays messy.
 
-The Motley Fool • 3h ago
+CoinDesk • 14m ago
 
 ---
 
@@ -183,39 +177,33 @@ The Block • 19h ago
 
 ---
 
-**[Bitcoin Slump Cuts Millions From Winklevoss Super-PAC Donation](https://www.bloomberg.com/news/articles/2026-01-30/bitcoin-slump-cuts-millions-from-winklevoss-super-pac-donation)**
+**[Silver's 35% plunge ends up beating bitcoin in a rare crypto liquidation shock](https://www.coindesk.com/markets/2026/01/31/silver-s-35-plunge-ends-up-beating-bitcoin-in-a-rare-crypto-liquidation-shock)**
 
-The political fundraising group launched by crypto-billionaire brothers Cameron and Tyler Winklevoss raised more than $22 million in the last five months of 2025, but might not get as much bang for its Bitcoin.
+Tokenized silver futures recorded the largest liquidations across crypto markets over the past 24 hours, overtaking bitcoin and ether as a sharp pullback in metals collided with leverage-heavy trading on crypto venues.
 
-Bloomberg.com • 22h ago
+CoinDesk • 7h ago
 
 ---
 
-**[The Slide in Gold and Silver Sets Up a Test for Bitcoin](https://www.barrons.com/articles/the-slide-in-gold-and-silver-sets-up-a-test-for-bitcoin-2a9573b3?gaa_at=eafs&gaa_n=AWEtsqf1mvOwksVIgxQN2mvsCDWurjTMacFvpmECWLRxb7UkCBIV0fDXxG9_&gaa_ts=697e1458&gaa_sig=UILOk-RRXwYiUAgLcRlsvDH7aYrrXuwC8_Kn_77oUZFDNqCCGV8fYG53FXUvYN0w1G1JUR4Tz5FiRaKBsPwBOg%3D%3D)**
+**[The Slide in Gold and Silver Sets Up a Test for Bitcoin](https://www.barrons.com/articles/the-slide-in-gold-and-silver-sets-up-a-test-for-bitcoin-2a9573b3?gaa_at=eafs&gaa_n=AWEtsqeewdOzuRE0SMjEWaDhiqLH3FJePED4AE5qkSdDT_lqjn8k7-esyg3D&gaa_ts=697e2799&gaa_sig=GH-kQMEoIy3F_U7Dy0YKifakzD2Ph-zXBPN30oboUqsc3fQd_mXIHRyxdLNaQOPkQMajTace_ZowuTOp02M26A%3D%3D)**
 
 Barron's • 1d ago
 
 ---
 
-**[Kevin Warsh: Markets React as Pro-Bitcoin Economist Tipped for Fed](https://finance.yahoo.com/news/kevin-warsh-markets-react-pro-122358756.html)**
+**[Why Bitcoin’s Pullback May Be Setting Up A Rotation From Gold](https://www.forbes.com/sites/aliceliu/2026/01/29/why-bitcoins-pullback-may-be-setting-up-a-rotation-from-gold/)**
 
-Only yesterday, we explained how Donald Trump runs his White House like a reality TV competition. Nominees for high office are turned into contestants vying for his approval, and the frontrunner could switch at any minute.Lo and behold, that’s exactly what’s happened in the race to become the next chairman ...
+Is Bitcoin near a bottom while gold peaks? Explore crypto liquidations, market cycles, and why investors are eyeing a BTC-long, gold-short rotation
 
-Yahoo Finance • 1d ago
-
----
-
-**[Fed Chair nominee Warsh views bitcoin as “good policeman for policy”](https://finance.yahoo.com/news/fed-chair-nominee-warsh-views-150459398.html)**
-
-Warsh has praised bitcoin as a tool to guide policy, not as a competitor to the dollar.
-
-Yahoo Finance • 1d ago
+Forbes • 1d ago
 
 ---
 
-**[Bitcoin Slumps to Two-Month Low as US Funds Shed Billions](https://www.bloomberg.com/news/articles/2026-01-30/bitcoin-btc-slumps-to-two-month-low-as-us-funds-shed-billions)**
+**[Bitcoin Slump Cuts Millions From Winklevoss Super-PAC Donation](https://www.bloomberg.com/news/articles/2026-01-30/bitcoin-slump-cuts-millions-from-winklevoss-super-pac-donation)**
 
-Bloomberg.com • 17h ago
+The political fundraising group launched by crypto-billionaire brothers Cameron and Tyler Winklevoss raised more than $22 million in the last five months of 2025, but might not get as much bang for its Bitcoin.
+
+Bloomberg • 22h ago
 
 ---
 
@@ -224,6 +212,22 @@ Bloomberg.com • 17h ago
 Binance has a new Bitcoin floor plan.
 
 thestreet.com • 1d ago
+
+---
+
+**[Binance Converts $1B SAFU Fund to Bitcoin Following Criticism — Is a Rally Coming?](https://finance.yahoo.com/news/binance-converts-1b-safu-fund-093700898.html)**
+
+Binance announced it will convert its $1 billion SAFU fund from stablecoins to Bitcoin reserves within 30 days, responding to mounting community criticism that intensified after prominent Wall Street investor Cathie Wood publicly attributed recent market weakness to a Binance-related deleveraging event. The exchange pledged to maintain the fund’s value ...
+
+Yahoo Finance • 1d ago
+
+---
+
+**[Binance to shift $1 billion user protection fund into bitcoin amid market rout](https://www.coindesk.com/markets/2026/01/30/binance-is-shifting-its-user-security-fund-from-stablecoins-to-bitcoin)**
+
+Binance will convert the stablecoin holdings in its $1 billion Secure Asset Fund for Users to bitcoin over the next 30 days, with plans for regular audits.
+
+CoinDesk • 1d ago
 
 ---
 
@@ -251,7 +255,7 @@ A list of known attacks against Bitcoin / crypto asset owning entities that occu
 
 PoW + EVM cryptocurrency. 21M fixed supply, fair launch, no team, no foundation. Just code. - lumenyx-chain/lumenyx
 
-⬆️ 1 • 💬 0 • 2h ago • [GitHub](https://github.com/lumenyx-chain/lumenyx)
+⬆️ 1 • 💬 0 • 3h ago • [GitHub](https://github.com/lumenyx-chain/lumenyx)
 
 ---
 
@@ -317,7 +321,7 @@ Gold is absorbing sovereign capital while Bitcoin struggles — and that's exact
 
 📺 Savvy Finance
 
-👁️ 9K • 👍 379 • 💬 31 • ⏱️ 19:18 • 16h ago
+👁️ 9K • 👍 379 • 💬 31 • ⏱️ 19:18 • 17h ago
 
 ---
 
@@ -357,7 +361,7 @@ Join The Community: https://bit.ly/FefeCommunity FOLLOW FEFE FOR MORE ALPHA ON .
 
 📺 100XClub
 
-👁️ 14K • 👍 1K • 💬 282 • ⏱️ 28:55 • 21h ago
+👁️ 14K • 👍 1K • 💬 282 • ⏱️ 28:55 • 22h ago
 
 ---
 
@@ -367,7 +371,7 @@ Crypto Just FLIPPED | NEW Fed Chair Bitcoin Plan (Fully Explained) ✓ Bitunix (
 
 📺 Altcoin Daily
 
-👁️ 45K • 👍 2K • 💬 219 • ⏱️ 8:25 • 16h ago
+👁️ 45K • 👍 2K • 💬 219 • ⏱️ 8:25 • 17h ago
 
 ---
 
@@ -397,7 +401,7 @@ BYBIT: http://themoon.co/Bybit 10% DISCOUNT & $30000 BONUS BloFin: https://themo
 
 📺 The Moon Show
 
-👁️ 8K • 👍 628 • 💬 76 • ⏱️ 6:54 • 5h ago
+👁️ 8K • 👍 628 • 💬 76 • ⏱️ 6:54 • 6h ago
 
 ---
 

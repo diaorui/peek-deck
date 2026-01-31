@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-01-31T15:24:53.165247+00:00'
+updated: '2026-01-31T15:48:02.964835+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- repositories
-- social
-- news
 - videos
+- social
+- repositories
+- news
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** January 31, 2026 at 15:24 UTC  
+**Last Updated:** January 31, 2026 at 15:48 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -63,7 +63,7 @@ I’m seeing too many new devs use AI as an autopilot instead of a hint system. 
 
 OpenClaw’s AI assistants are now building their own social network.[1] DeepSeek AI Releases DeepSeek-OCR 2 with Causal Visual Flow Encoder for Layout Aware Document Understanding.[2] Video game company stock prices dip after Google introduces an AI world-generation tool.[3] AI model from Google’s DeepMind reads recipe for life in DNA.[4] Sources: [1] https://techcrunch.com/2026/01/30/openclaws-ai-assistants-are-now-building-their-own-social-network/ [2] https://www.marktechpost.com/2026/01/30/deepseek-ai-releases-deepseek-ocr-2-with-causal-visual-flow-encoder-for-layout-aware-document-understanding/ [3] https://www.theverge.com/games/871348/google-project-genie-take-two-roblox-unity [4] https://www.bbc.com/news/articles/c39428dv18yo
 
-9h ago
+10h ago
 
 ---
 
@@ -89,19 +89,19 @@ ByteDance, Alibaba and Tencent had been given permission to purchase more than 4
 
 ---
 
-**[Legal and ethical risk about using real characters in generated pictures](https://www.reddit.com/r/artificial/comments/1qreuwl/legal_and_ethical_risk_about_using_real/)**
-
-Hey, I've been using AI image generation (Genspark, Midjourney, Stable Diffusion) to create pictures and explore a whole fictional lore. I use Nano Banana Pro on Genspark now for some realistic, cozy, and unproblematic scenes with my fictional characters created out of the blue. But I also have a use of AI where I create really risky content, mostly kinky and humiliating situations. Not sexual, but erotic for me as it triggers my fetishes, and definitely intimate and degrading. I explore this interest with some of my own fictional characters. But I recently crossed the line of exploring the use of reference images of real people to keep the character consistent. I know about the ethical, moral, and weird concerns. I'm aware of the unconscious harm I can do as I fetishize these people, and I'm aware I can be a creep who's walking in a gray area. It could be a vast psychological subject about how I fetishize a person, or a weird parasocial relationship with them, as a consolation or imaginary shelter, imagining a relation that will in all likelihood never exist. I may just be very badly coping with this parasocial relationship. I know everything stays completely private. I downloaded locally, I'm generally confident about confidentiality on these websites, I never shared. But lately I've been second-guessing whether this is okay, even if no one ever sees it. I just deactivated the Data Retention option on Genspark and I don't know what it actually does. Does it keep my generated data completely private, not even stored on the servers? I thought it was activated by default, and I just shut it off. Platforms store images on public servers with accessible URLs, deleting conversation history doesn't actually wipe the images, and deepfake laws are evolving fast. Some juridictions are cracking down on non-consensual AI content even if it's not sexual. I'm in France and on this matter, the laws are mainly UE laws. For you, and maybe for people who are doing similar things on AI in servers instead of running it locally, does a purely private use still cross a line ? And privacy-wise, should I actually worry about platforms reviewing flagged images, reporting problematic content, or data breaches exposing everything ? Is there a reason anyone could individually report any image and share it for ethical or legal concerns ? My content is not illegal nor flagged. It could just be really problematic if accidentally discovered, a risk that may be very low. However, I'm leaning toward ditching real faces and sticking to purely fictional characters. But part of me wonders if I'm overthinking this as it's likeky that nothing ever gets shared and no one finds out. Anyone else navigating this gray area, how do you think about it ?
-
-20h ago
-
----
-
 **[Moltbot is exploding. 100K Github Stars in weeks. But what can we actually do with it, and why so much hype? And how to avoid the security concerns?](https://www.reddit.com/r/artificial/comments/1qqdmoq/moltbot_is_exploding_100k_github_stars_in_weeks/)**
 
 Hey everyone. I Just published a breakdown on Moltbot: the self-hosted, open-source personal AI assistant that's gone massively viral. The article discusses the main points of my own questions about Moltbot ( what it really is, what are its capabilities, why is therean insane growth... ). Ok, now the only con I have for this project is security draw backs ( not really dove deep into this at all in the article ) : broad system access is given to Moltbot and it is pretty easy to do prompt injection with vulnerabilities if exposed. Which I'd point out is actually easy to misconfigured if not careful. I'd love to get some of my own personal tasks automated ( I love saving time ), but security concerns has me hesitant to experiement. If anyone has methods to ensure full security with this project feel free to let me know, I might even update the blog article with how to avoid the security concerns as for real it is the only thing making me hesitant in trying it myself.
 
 🔗 [Benjamin-RR](https://benjamin-rr.com/blog/moltbot-open-source-ai-assistant?utm_source=reddit&utm_medium=community&utm_campaign=new-blog-promotion&utm_content=r-artificial) • 1d ago
+
+---
+
+**[Legal and ethical risk about using real characters in generated pictures](https://www.reddit.com/r/artificial/comments/1qreuwl/legal_and_ethical_risk_about_using_real/)**
+
+Hey, I've been using AI image generation (Genspark, Midjourney, Stable Diffusion) to create pictures and explore a whole fictional lore. I use Nano Banana Pro on Genspark now for some realistic, cozy, and unproblematic scenes with my fictional characters created out of the blue. But I also have a use of AI where I create really risky content, mostly kinky and humiliating situations. Not sexual, but erotic for me as it triggers my fetishes, and definitely intimate and degrading. I explore this interest with some of my own fictional characters. But I recently crossed the line of exploring the use of reference images of real people to keep the character consistent. I know about the ethical, moral, and weird concerns. I'm aware of the unconscious harm I can do as I fetishize these people, and I'm aware I can be a creep who's walking in a gray area. It could be a vast psychological subject about how I fetishize a person, or a weird parasocial relationship with them, as a consolation or imaginary shelter, imagining a relation that will in all likelihood never exist. I may just be very badly coping with this parasocial relationship. I know everything stays completely private. I downloaded locally, I'm generally confident about confidentiality on these websites, I never shared. But lately I've been second-guessing whether this is okay, even if no one ever sees it. I just deactivated the Data Retention option on Genspark and I don't know what it actually does. Does it keep my generated data completely private, not even stored on the servers? I thought it was activated by default, and I just shut it off. Platforms store images on public servers with accessible URLs, deleting conversation history doesn't actually wipe the images, and deepfake laws are evolving fast. Some juridictions are cracking down on non-consensual AI content even if it's not sexual. I'm in France and on this matter, the laws are mainly UE laws. For you, and maybe for people who are doing similar things on AI in servers instead of running it locally, does a purely private use still cross a line ? And privacy-wise, should I actually worry about platforms reviewing flagged images, reporting problematic content, or data breaches exposing everything ? Is there a reason anyone could individually report any image and share it for ethical or legal concerns ? My content is not illegal nor flagged. It could just be really problematic if accidentally discovered, a risk that may be very low. However, I'm leaning toward ditching real faces and sticking to purely fictional characters. But part of me wonders if I'm overthinking this as it's likeky that nothing ever gets shared and no one finds out. Anyone else navigating this gray area, how do you think about it ?
+
+20h ago
 
 ---
 
@@ -123,49 +123,47 @@ The New York Times • 1d ago
 
 ---
 
-**[How AI assistance impacts the formation of coding skills](https://www.anthropic.com/research/AI-assistance-coding-skills)**
+**[AI Agents Created Their Own Religion, Crustafarianism, On An Agent-Only Social Network](https://www.forbes.com/sites/johnkoetsier/2026/01/30/ai-agents-created-their-own-religion-crustafarianism-on-an-agent-only-social-network/)**
 
-Anthropic is an AI safety and research company that's working to build reliable, interpretable, and steerable AI systems.
-
-Anthropic • 1d ago
+Forbes • 14h ago
 
 ---
 
-**[ICE’s Use of AI Will Lead to Big Mistakes. Maybe That’s the Point](https://www.rollingstone.com/culture/culture-commentary/ice-ai-mistakes-1235507183/)**
+**[What AI Predicts About the Future of the Stock Market — and Your Wallet](https://finance.yahoo.com/news/ai-predicts-future-stock-market-150605197.html)**
 
-Cybersecurity experts say that U.S. Immigration and Customs Enforcement seems to be indifferent to how their artificial intelligence tools work.
+The stock markets have been on an amazing in recent years, with the S&P 500 more than doubling since the beginning of the decade ....
 
-Rolling Stone • 1h ago
-
----
-
-**[1 Underrated AI Stock to Buy and Hold for 10 Years](https://www.fool.com/investing/2026/01/31/1-underrated-ai-stock-to-buy-and-hold-for-10-years/)**
-
-Lesser-known artificial intelligence (AI) stocks may end up delivering superior returns, too.
-
-The Motley Fool • 1h ago
+Yahoo Finance • 41m ago
 
 ---
 
-**[The future of AI in music? US and China strike different chords](https://www.scmp.com/news/china/article/3341893/future-ai-music-us-and-china-strike-different-chords)**
+**[Billionaire Ken Griffin Buys 2 Artificial Intelligence (AI) Stocks Up 1,100% and 2,200% Since Early 2023](https://www.fool.com/investing/2026/01/31/billionaire-ken-griffin-buys-2-ai-stocks-up-2200/)**
 
-As generative music tools surge, China turns to state oversight while the US relies on courts, copyright suits and settlements.
+Ken Griffin, a very successful hedge fund manager, bought stock in Palantir and Robinhood in the third quarter.
 
-South China Morning Post • 1h ago
+The Motley Fool • 6h ago
+
+---
+
+**[Could This AI Stock Be the Top Performer of the New Year?](https://www.fool.com/investing/2026/01/31/could-ai-stock-be-top-performer-2026-nvda-amd/)**
+
+AMD outperformed in 2025, but can it become the AI winner in 2026? Here are some key numbers, growth projections, and Wall Street expectations to consider.
+
+The Motley Fool • 18m ago
+
+---
+
+**[Rokid AI Glasses Style Review: Surprisingly Tough Competition for Meta’s Ray-Ban](https://gizmodo.com/rokid-ai-glasses-style-review-surprisingly-tough-competition-for-metas-ray-ban-2000716034)**
+
+Meta might have some real competition.
+
+Gizmodo • 47m ago
 
 ---
 
 **[The US is headed for mass unemployment, and no one is prepared](https://thehill.com/opinion/finance/5713876-ai-displacement-and-ubi/)**
 
-The Hill • 21h ago
-
----
-
-**[Exclusive: Longtime Google DeepMind researcher David Silver leaves to found his own AI startup](https://fortune.com/2026/01/30/google-deepmind-ai-researcher-david-silver-leaves-to-found-ai-startup-ineffable-intelligence/)**
-
-Silver’s new Ineffable Intelligence aims to develop “superintelligence” using the same AI methods that led to Google DeepMind breakthroughs like AlphaGo.
-
-Fortune • 1d ago
+The Hill • 22h ago
 
 ---
 
@@ -177,17 +175,15 @@ NASA Jet Propulsion Laboratory (JPL) (.gov) • 19h ago
 
 ---
 
-**[AI Agents Created Their Own Religion, Crustafarianism, On An Agent-Only Social Network](https://www.forbes.com/sites/johnkoetsier/2026/01/30/ai-agents-created-their-own-religion-crustafarianism-on-an-agent-only-social-network/)**
+**[Elon Musk’s Relentless AI Pursuit Has Him on the Hunt for Capital](https://www.bloomberg.com/news/features/2026-01-31/elon-musk-s-ai-push-has-him-considering-mergers-in-search-for-capital)**
 
-Forbes • 13h ago
+Bloomberg • 15h ago
 
 ---
 
-**[Humans welcome to observe: This social network is for AI agents only](https://www.nbcnews.com/tech/tech-news/ai-agents-social-media-platform-moltbook-rcna256738)**
+**[Exclusive | The $100 Billion Megadeal Between OpenAI and Nvidia Is on Ice - WSJ](https://www.wsj.com/tech/ai/the-100-billion-megadeal-between-openai-and-nvidia-is-on-ice-aa3025e3?gaa_at=eafs&gaa_n=AWEtsqf7NhtIog0rV8xAu2JIoK53seqA2z2RitlysrsJDLdP5DO6f5trmW-P&gaa_ts=697e2797&gaa_sig=ONHY0jZUU5W8hYK9OVhH0QQrwscGf1xqlRq2BSp_HSGeB1AuVMBDt556RIsoSrrH6TNWz5ctnT_Ufjx1-ADlXg%3D%3D)**
 
-Launched Wednesday, Moltbook has already sparked fascination in the AI community as advanced bots — agents — converse. Its creator says an AI is in charge.
-
-NBC News • 17h ago
+The Wall Street Journal • 16h ago
 
 ---
 
@@ -205,19 +201,11 @@ Guys, enough is enough. Bullying is a s...
 
 ---
 
-**[Airfoil (2024)](https://news.ycombinator.com/item?id=46795908)**
-
-Interactive article explaining the physics of an airfoil and what makes airplanes fly
-
-⬆️ 525 • 💬 60 • 3d ago • [ciechanow.ski](https://ciechanow.ski/airfoil/)
-
----
-
 **[How AI assistance impacts the formation of coding skills](https://news.ycombinator.com/item?id=46820924)**
 
 Anthropic is an AI safety and research company that's working to build reliable, interpretable, and steerable AI systems.
 
-⬆️ 439 • 💬 329 • 1d ago • [anthropic.com](https://www.anthropic.com/research/AI-assistance-coding-skills)
+⬆️ 441 • 💬 332 • 1d ago • [anthropic.com](https://www.anthropic.com/research/AI-assistance-coding-skills)
 
 ---
 
@@ -239,7 +227,7 @@ Or, as they like to call it, the 'AI Skills Hub'. Which was built by PwC because
 
 Moltworker is a middleware Worker and adapted scripts that allows running Moltbot (formerly Clawdbot) on Cloudflare's Sandbox SDK and our Developer Platform APIs. So you can self-host an AI personal assistant — without any new hardware.
 
-⬆️ 234 • 💬 67 • 2d ago • [The Cloudflare Blog](https://blog.cloudflare.com/moltworker-self-hosted-ai-agent/)
+⬆️ 235 • 💬 67 • 2d ago • [The Cloudflare Blog](https://blog.cloudflare.com/moltworker-self-hosted-ai-agent/)
 
 ---
 
@@ -263,7 +251,7 @@ The rise of LLMs as a useful development tool over the last year or so has been 
 
 New York mayor says terminating the ‘unusable’ bot will help close a budget gap
 
-⬆️ 168 • 💬 58 • 21h ago • [themarkup.org](https://themarkup.org/artificial-intelligence/2026/01/30/mamdani-to-kill-the-nyc-ai-chatbot-we-caught-telling-businesses-to-break-the-law)
+⬆️ 168 • 💬 59 • 21h ago • [themarkup.org](https://themarkup.org/artificial-intelligence/2026/01/30/mamdani-to-kill-the-nyc-ai-chatbot-we-caught-telling-businesses-to-break-the-law)
 
 ---
 
@@ -271,7 +259,15 @@ New York mayor says terminating the ‘unusable’ bot will help close a budget 
 
 A lot of vendors pitch AI SRE. We tested 14 models across 11 programming languages; even the best ones struggle with instrumenting code with the leading open-source standard, OpenTelemetry.
 
-⬆️ 143 • 💬 81 • 1d ago • [Quesma](https://quesma.com/blog/introducing-otel-bench/)
+⬆️ 143 • 💬 81 • 2d ago • [Quesma](https://quesma.com/blog/introducing-otel-bench/)
+
+---
+
+**[Show HN: Amla Sandbox – WASM bash shell sandbox for AI agents](https://news.ycombinator.com/item?id=46824877)**
+
+Contribute to amlalabs/amla-sandbox development by creating an account on GitHub.
+
+⬆️ 138 • 💬 73 • 1d ago • [GitHub](https://github.com/amlalabs/amla-sandbox)
 
 ---
 
@@ -305,7 +301,7 @@ Humanoid robotics just took a massive leap into the real world. Researchers in C
 
 📺 AI Revolution
 
-👁️ 26K • 👍 592 • 💬 70 • ⏱️ 14:25 • 15h ago
+👁️ 26K • 👍 592 • 💬 70 • ⏱️ 14:25 • 16h ago
 
 ---
 
@@ -315,7 +311,7 @@ In this video, I break down the 14 best AI tools that actually hold up after mon
 
 📺 Parker Prompts
 
-👁️ 4K • 💬 1 • ⏱️ 11:46 • 1h ago
+👁️ 4K • 💬 1 • ⏱️ 11:46 • 2h ago
 
 ---
 
@@ -659,7 +655,7 @@ AI → JSON → UI
 
 `TypeScript`
 
-⭐ 9.7k • 🔱 517 • 2d ago
+⭐ 9.7k • 🔱 517 • 3d ago
 
 ---
 
@@ -679,7 +675,7 @@ LLM驱动的 A/H/美股智能分析器，多数据源行情 + 实时新闻 + Gem
 
 `Python` `agent` `ai` `aigc` `gemini` `llm`
 
-⭐ 8.2k • 🔱 8.6k • 59m ago
+⭐ 8.2k • 🔱 8.6k • 1h ago
 
 ---
 
@@ -699,7 +695,7 @@ The Ultimate Collection of 500+ Agentic Skills for Claude Code/Antigravity/Curso
 
 `Python` `agentic-skills` `ai-agents` `antigravity` `autonomous-coding` `claude-code`
 
-⭐ 5.7k • 🔱 1.3k • 7h ago
+⭐ 5.7k • 🔱 1.3k • 8h ago
 
 ---
 
