@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-01-31T16:29:54.358818+00:00'
+updated: '2026-01-31T16:57:26.529846+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- news
 - social
 - cryptocurrency
 - videos
+- news
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** January 31, 2026 at 16:29 UTC  
+**Last Updated:** January 31, 2026 at 16:57 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -36,17 +36,17 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Price
 
-### $2,542.56
+### $2,483.19
 
 ---
 
 ## Ethereum Chart
 
-**24h:** -6.8%  
-**7d:** -9.7%  
-**30d:** -18.5%  
-**90d:** -29.3%  
-**1y:** -18.4%  
+**24h:** -8.5%  
+**7d:** -11.8%  
+**30d:** -20.4%  
+**90d:** -30.9%  
+**1y:** -20.2%  
 
 ---
 
@@ -110,7 +110,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 It was some time ago that ETH went from proof of work to proof of stake. At the time Vitalik said that there were other changes coming such as faster transaction or lower transaction cost. I have not heard any more since then? Is there any progress?
 
-19h ago
+20h ago
 
 ---
 
@@ -118,7 +118,7 @@ It was some time ago that ETH went from proof of work to proof of stake. At the 
 
 Hello Folks, I just published a smart contract to handle crypto inheritance 100% on-chain, without the owner having to do anything offline. I know there are many solutions that are trying to solve this problem, but I wanted to design my own with my logic, which is the following: - the contract acts like a wallet, owner can deposit, withdraw and transfer - the owner can assign beneficiaries, and update them at any time - the wallet contains an "alive check", which is automatically updated on any transaction - if you wanna use it as a vault (dormant), you can update the "alive check" manually - the owner defines a "consider me death time" in years, eg: if the last alive check is older than 10 years, I'm dead :( - once that happen, any of the beneficiaries can access the wallet and withdraw all the funds At this point, my favorite feature: the wallet gets locked, will reject any future deposit and "answer" with an epitaph... your "last worlds" recorded on-chain that you can configure when you create the wallet. All of the above is less then 100 lines of solidity... amazing :) At the moment I only did the backend (github link), but I'd like to do a nice interface to make it easy to deploy. Of course, free and open source in the Ethereum spirit! Would you give me a feedback on the logic? Do you see any pitfall or edge cases? Thanks, Francesco
 
-22h ago
+23h ago
 
 ---
 
@@ -126,7 +126,7 @@ Hello Folks, I just published a smart contract to handle crypto inheritance 100%
 
 Watch before one bug costs you everything. https://x.com/SolidityScan/status/2017172006056390715?s=20
 
-9h ago
+10h ago
 
 ---
 
@@ -134,7 +134,7 @@ Watch before one bug costs you everything. https://x.com/SolidityScan/status/201
 
 The Doots live stream is all about showcasing the best of the week from the Daily General Discussion from the r/ethereum Community on Reddit! Today we talked to Mac Budkowski from macbudkowski.com. He's made the "No BS Crypto GTM guide." Dig into what he has learned about timing, messaging, and why best isn't always good. Host: JT Technical Host: LogrisTheBard https://dailydoots.com by Hanniabu Daily Doots Curator: Tricky_Troll Weekly Doots Curator: The-A-Word Farcaster and Backend Host Support: Ben Broad Media Content Support: Twelve Meatballs Discord Bouncer and Watchdog: Treebeard As always, if you know someone who wants a piece of this action, send em our way. Buy us a ☕ dailydoots.eth All of our channels can be found here: https://dailydoots.com/podcast/ 🕸️https://dailydoots.com 📢https://discord.gg/EVMavericks 📰https://reddit.com/r/ethereum 🔊MINTABLE Podcast 👉: https://pods.media/evmavericks 🍎Apple https://podcasts.apple.com/us/podcast/ethfinance-evmavericks-daily-doots-livestream/id1750089604 🔊Spotify https://open.spotify.com/show/7AotdyMtcvHZLv3pVqkxre 🦁https://x.com/EVMavericks ⏱️TikTok: https://www.tiktok.com/@evmavericks 📺https://www.youtube.com/channel/UC51nlNbIkBm5Qhm7EwQuWLw Twitch: https://www.twitch.tv/evmavericks LinkedIN: https://www.linkedin.com/company/evmavericks-daily-doots-podcast
 
-🔗 [youtu.be](https://youtu.be/lDG5GrjKgew) • 18h ago
+🔗 [youtu.be](https://youtu.be/lDG5GrjKgew) • 19h ago
 
 ---
 
@@ -150,22 +150,6 @@ Fidelity Investments FIDD stablecoin, TheDAO Security Fund, Hegotá upgrade head
 
 ## Google News: "ethereum"
 
-**[Vitalik Buterin to spend $43 million on Ethereum development](https://www.coindesk.com/business/2026/01/30/vitalik-buterin-withdraws-usd17-million-in-eth-as-ethereum-foundation-enters-mild-austerity)**
-
-Ethereum’s co-founder said the $43 million withdrawal will support a broader “full-stack openness and verifiability” vision as the foundation tightens spending.
-
-CoinDesk • 1d ago
-
----
-
-**[Vitalik Buterin Commits $45 Million In ETH To Support Ethereum’s Development And User Security](https://www.tradingview.com/news/zycrypto:194cacc68094b:0-vitalik-buterin-commits-45-million-in-eth-to-support-ethereum-s-development-and-user-security/)**
-
-Ethereum co-founder Vitalik Buterin has withdrawn 16,384 ETH, worth roughly $45 million at current market prices.
-
-TradingView • 2h ago
-
----
-
 **[Vitalik Buterin Withdraws $44.7M in ETH to Support Ethereum Growth Through ‘Mild Austerity’](https://decrypt.co/356490/vitalik-buterin-withdraws-44-7m-in-eth-to-support-ethereum-growth-through-mild-austerity)**
 
 The Ethereum co-founder wants to pursue an “aggressive” roadmap that will strengthen its status as a decentralized world computer.
@@ -174,25 +158,33 @@ Decrypt • 23h ago
 
 ---
 
-**[Bitcoin, XRP, Ethereum Fall on News of Kevin Warsh Fed Appointment.](https://www.barrons.com/articles/bitcoin-xrp-ethereum-crypto-today-954298d9?gaa_at=eafs&gaa_n=AWEtsqeRFJqcrr-e_iLqV-DP9vpkoTYH3eHQgLKYh2sc7kOeTePnrfNrMSPD&gaa_ts=697e279a&gaa_sig=lP3E6viCRf95pKR9-HE30SNtupKOKmLXUgwy_niYaOIf66zVhQ8_nugpw90iNEZLBNYJArAMdcZ71UDUePP-qA%3D%3D)**
+**[Bitcoin, XRP, Ethereum Fall on News of Kevin Warsh Fed Appointment.](https://www.barrons.com/articles/bitcoin-xrp-ethereum-crypto-today-954298d9?gaa_at=eafs&gaa_n=AWEtsqembhO-XoCCN2Wg5U5UyzhVGQxla3o93T00WaX0dQGFBunAPAAhcQqH&gaa_ts=697e37df&gaa_sig=0rLJAckPd32MBOTUAYS425jpw1N7jHOAql7pL2yaUGjqmUYFXT1hAS_GujCRiv4SGgun0BS0PYixr0gqnxfKpg%3D%3D)**
 
 Barron's • 22h ago
 
 ---
 
-**[Crypto Investor Loses Over $12 Million in Ethereum to ‘Address Poisoning’ Scam](https://finance.yahoo.com/news/crypto-investor-loses-over-12-133538597.html)**
+**[Why Are Bitcoin, Ethereum and XRP Prices Crashing Today? Fed Uncertainty Sparks Crypto Selloff](https://www.tradingview.com/news/coinpedia:84570eaf5094b:0-why-are-bitcoin-ethereum-and-xrp-prices-crashing-today-fed-uncertainty-sparks-crypto-selloff/)**
 
-A cryptocurrency investor lost approximately $12.4 million in Ether to an "address poisoning" scam after an attacker spoofed their wallet.
+The broader crypto market is under heavy pressure today, with Bitcoin, Ethereum, and XRP posting sharp losses as a broad selloff sweeps across digital assets. Bitcoin has fallen nearly 6%, while Ethereum and XRP are down close to 7%, marking one of the most aggressive downside moves in recent weeks…
 
-Yahoo Finance • 2h ago
+TradingView • 1d ago
 
 ---
 
-**[Why Solana, XRP, and Ethereum Could Lead the Next Crypto Rally](https://www.tradingview.com/news/coinpedia:47da5647b094b:0-why-solana-xrp-and-ethereum-could-lead-the-next-crypto-rally/)**
+**[Bitcoin, Ethereum, XRP, Dogecoin Tank Amid Tech Rout; Gold Also Cools: Analyst Flags Key BTC Support, Resistance Levels](https://www.benzinga.com/crypto/cryptocurrency/26/01/50255079/bitcoin-ethereum-xrp-dogecoin-tank-amid-tech-rout-gold-also-cools-analyst-flags-key-btc-support-resistance-levels)**
 
-Banks at Davos are done watching from the sidelines. At this year’s World Economic Forum, major financial institutions said they need crypto infrastructure to stay competitive.A recent Altcoin Buzz video broke down three signals pointing to a potential crypto rally. “The biggest banks in the world…
+Leading cryptocurrencies plunged alongside stocks on Thursday, as a tech-driven sell-off sent risk-on markets into a tailspin.
 
-TradingView • 7h ago
+Benzinga • 1d ago
+
+---
+
+**[AI Models Predict Ethereum, Solana, and XRP 2026 Prices—Which Altcoin Has the Biggest Upside?](https://finance.yahoo.com/news/ai-models-predict-ethereum-solana-193044962.html)**
+
+Four major AI models have projected 2026 price targets for Ethereum (CRYPTO: ETH), Solana (CRYPTO: SOL), and XRP (CRYPTO: XRP). The forecasts range from conservative consolidation to triple-digit percentage gains, with each asset showing different upside potential based on adoption trends, network activity, and market positioning. Ethereum anchors institutional DeFi with mature Layer 2 networks, ... AI Models Predict Ethereum, Solana, and XRP 2026 Prices—Which Altcoin Has the Biggest Upside?
+
+Yahoo Finance • 21h ago
 
 ---
 
@@ -209,6 +201,14 @@ Barchart.com • 1d ago
 stVaults let other teams plug into Lido’s staking system instead of building their own from scratch.
 
 CoinDesk • 1d ago
+
+---
+
+**[Why Solana, XRP, and Ethereum Could Lead the Next Crypto Rally](https://www.tradingview.com/news/coinpedia:47da5647b094b:0-why-solana-xrp-and-ethereum-could-lead-the-next-crypto-rally/)**
+
+Banks at Davos are done watching from the sidelines. At this year’s World Economic Forum, major financial institutions said they need crypto infrastructure to stay competitive.A recent Altcoin Buzz video broke down three signals pointing to a potential crypto rally. “The biggest banks in the world…
+
+TradingView • 7h ago
 
 ---
 
@@ -288,7 +288,7 @@ TrumpCrypto2026 #DigitalAssets #TrumpAnnouncement Welcome to the Trump Crypto Fo
 
 📺 Sportfm
 
-👁️ 11K • 👍 911 • 16h ago
+👁️ 11K • 👍 911 • 17h ago
 
 ---
 
@@ -298,7 +298,7 @@ BITCOIN & ALTCOIN CRASH: EMERGENCY UPDATE (New Trade)!!! - Bitcoin News Today, E
 
 📺 Crypto World
 
-👁️ 9K • 👍 319 • 💬 80 • ⏱️ 22:15 • 21h ago
+👁️ 9K • 👍 319 • 💬 80 • ⏱️ 22:15 • 22h ago
 
 ---
 

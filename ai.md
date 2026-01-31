@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-01-31T16:29:54.344131+00:00'
+updated: '2026-01-31T16:57:26.515508+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- news
 - repositories
 - social
 - videos
+- news
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** January 31, 2026 at 16:29 UTC  
+**Last Updated:** January 31, 2026 at 16:57 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -41,29 +41,29 @@ AI news, discussions, and developments
 
 AI coding tools are getting more sophisticated. But if coders stop coding, what happens to software development jobs?
 
-🔗 [Fortune](https://fortune.com/2026/01/29/100-percent-of-code-at-anthropic-and-openai-is-now-ai-written-boris-cherny-roon/) • 18h ago
+🔗 [Fortune](https://fortune.com/2026/01/29/100-percent-of-code-at-anthropic-and-openai-is-now-ai-written-boris-cherny-roon/) • 19h ago
 
 ---
 
 **[The $100 Billion Megadeal Between OpenAI and Nvidia Is on Ice](https://www.reddit.com/r/artificial/comments/1qrnq8u/the_100_billion_megadeal_between_openai_and/)**
 
-🔗 [wsj.com](https://www.wsj.com/tech/ai/the-100-billion-megadeal-between-openai-and-nvidia-is-on-ice-aa3025e3) • 15h ago
+🔗 [wsj.com](https://www.wsj.com/tech/ai/the-100-billion-megadeal-between-openai-and-nvidia-is-on-ice-aa3025e3) • 16h ago
 
 ---
 
-**[AI can actually slow down your learning if you’re new to programming](https://www.reddit.com/r/artificial/comments/1qrr2ps/ai_can_actually_slow_down_your_learning_if_youre/)**
+**[Why the "More Data is Better" Era is Officially Over. (2026 AI Strategy)](https://www.reddit.com/r/artificial/comments/1qs7f5x/why_the_more_data_is_better_era_is_officially/)**
 
-I’m seeing too many new devs use AI as an autopilot instead of a hint system. By skipping the "struggle phase", you’re missing out on building that essential debugging muscle. If you don't wrestle with the errors now, you’ll be clueless when things actually break later and there's no prompt to save you. AI is great for boilerplate, but don't let it rot your fundamentals. What do you guys think? Is AI making new devs "lazy" or just more efficient in this era?
+For years, the gold standard in AI was "hoard everything, sort it later." But as we move into 2026, I’m seeing this strategy backfire for dozens of companies. In my recent audits at the lab, I’ve seen CTOs burning $10k-$15k monthly on cloud storage for "radioactive" datasets—logs and clicks from 2022 that add zero value to modern reasoning models. The 2026 Reality: The Compliance Wall: Under the EU AI Act, every byte of data you keep is a liability. Inference Noise: Overloaded data lakes are causing AI agents to hallucinate and slow down. The Carbon Tax: Storage isn't just a cost anymore; it’s a regulatory burden. We recently implemented a Data Minimization Audit for a client, deleting 70% of their legacy data. The result? Faster inference speeds and 100% compliance with ISO/IEC 42001. Efficiency is the new "Big Data." If you aren't pruning your datasets, you aren't building for the future; you're just paying a massive "Storage Tax." Are you guys still hoarding for "potential" future use, or have you started the great data purge? (Just finished a deep dive on the technical framework for this audit. Linked it in the comments for those interested in the compliance roadmap.)
 
-13h ago
+7m ago
 
 ---
 
-**[One-Minute Daily AI News 1/30/2026](https://www.reddit.com/r/artificial/comments/1qrtzzg/oneminute_daily_ai_news_1302026/)**
+**[I built a way to test Qwen3-TTS and Qwen3-ASR locally on your laptop](https://www.reddit.com/r/artificial/comments/1qs6ibp/i_built_a_way_to_test_qwen3tts_and_qwen3asr/)**
 
-OpenClaw’s AI assistants are now building their own social network.[1] DeepSeek AI Releases DeepSeek-OCR 2 with Causal Visual Flow Encoder for Layout Aware Document Understanding.[2] Video game company stock prices dip after Google introduces an AI world-generation tool.[3] AI model from Google’s DeepMind reads recipe for life in DNA.[4] Sources: [1] https://techcrunch.com/2026/01/30/openclaws-ai-assistants-are-now-building-their-own-social-network/ [2] https://www.marktechpost.com/2026/01/30/deepseek-ai-releases-deepseek-ocr-2-with-causal-visual-flow-encoder-for-layout-aware-document-understanding/ [3] https://www.theverge.com/games/871348/google-project-genie-take-two-roblox-unity [4] https://www.bbc.com/news/articles/c39428dv18yo
+Supports Qwen3-TTS models (0.6B-1.7B) and ASR models. Docker + native deployment options. Key features: 🎭 Voice cloning with reference audio 🎨 Custom voice design from text descriptions ⚡ MLX + Metal GPU acceleration for M1/M2/M3 🎨 Modern React UI included If you like local audio models, give it a try. Works best in local dev mode for now.
 
-10h ago
+🔗 [GitHub](https://github.com/agentem-ai/izwi-audio) • 40m ago
 
 ---
 
@@ -93,15 +93,7 @@ ByteDance, Alibaba and Tencent had been given permission to purchase more than 4
 
 Hey everyone. I Just published a breakdown on Moltbot: the self-hosted, open-source personal AI assistant that's gone massively viral. The article discusses the main points of my own questions about Moltbot ( what it really is, what are its capabilities, why is therean insane growth... ). Ok, now the only con I have for this project is security draw backs ( not really dove deep into this at all in the article ) : broad system access is given to Moltbot and it is pretty easy to do prompt injection with vulnerabilities if exposed. Which I'd point out is actually easy to misconfigured if not careful. I'd love to get some of my own personal tasks automated ( I love saving time ), but security concerns has me hesitant to experiement. If anyone has methods to ensure full security with this project feel free to let me know, I might even update the blog article with how to avoid the security concerns as for real it is the only thing making me hesitant in trying it myself.
 
-🔗 [Benjamin-RR](https://benjamin-rr.com/blog/moltbot-open-source-ai-assistant?utm_source=reddit&utm_medium=community&utm_campaign=new-blog-promotion&utm_content=r-artificial) • 1d ago
-
----
-
-**[Legal and ethical risk about using real characters in generated pictures](https://www.reddit.com/r/artificial/comments/1qreuwl/legal_and_ethical_risk_about_using_real/)**
-
-Hey, I've been using AI image generation (Genspark, Midjourney, Stable Diffusion) to create pictures and explore a whole fictional lore. I use Nano Banana Pro on Genspark now for some realistic, cozy, and unproblematic scenes with my fictional characters created out of the blue. But I also have a use of AI where I create really risky content, mostly kinky and humiliating situations. Not sexual, but erotic for me as it triggers my fetishes, and definitely intimate and degrading. I explore this interest with some of my own fictional characters. But I recently crossed the line of exploring the use of reference images of real people to keep the character consistent. I know about the ethical, moral, and weird concerns. I'm aware of the unconscious harm I can do as I fetishize these people, and I'm aware I can be a creep who's walking in a gray area. It could be a vast psychological subject about how I fetishize a person, or a weird parasocial relationship with them, as a consolation or imaginary shelter, imagining a relation that will in all likelihood never exist. I may just be very badly coping with this parasocial relationship. I know everything stays completely private. I downloaded locally, I'm generally confident about confidentiality on these websites, I never shared. But lately I've been second-guessing whether this is okay, even if no one ever sees it. I just deactivated the Data Retention option on Genspark and I don't know what it actually does. Does it keep my generated data completely private, not even stored on the servers? I thought it was activated by default, and I just shut it off. Platforms store images on public servers with accessible URLs, deleting conversation history doesn't actually wipe the images, and deepfake laws are evolving fast. Some juridictions are cracking down on non-consensual AI content even if it's not sexual. I'm in France and on this matter, the laws are mainly UE laws. For you, and maybe for people who are doing similar things on AI in servers instead of running it locally, does a purely private use still cross a line ? And privacy-wise, should I actually worry about platforms reviewing flagged images, reporting problematic content, or data breaches exposing everything ? Is there a reason anyone could individually report any image and share it for ethical or legal concerns ? My content is not illegal nor flagged. It could just be really problematic if accidentally discovered, a risk that may be very low. However, I'm leaning toward ditching real faces and sticking to purely fictional characters. But part of me wonders if I'm overthinking this as it's likeky that nothing ever gets shared and no one finds out. Anyone else navigating this gray area, how do you think about it ?
-
-21h ago
+🔗 [Benjamin-RR](https://benjamin-rr.com/blog/moltbot-open-source-ai-assistant?utm_source=reddit&utm_medium=community&utm_campaign=new-blog-promotion&utm_content=r-artificial) • 2d ago
 
 ---
 
@@ -113,35 +105,45 @@ Amazon is reportedly in discussions to invest as much as $50 billion in OpenAI, 
 
 ---
 
+**['Wordsmith' dispute pits $100m legal AI startup against London law firm](https://www.reddit.com/r/artificial/comments/1qqcolo/wordsmith_dispute_pits_100m_legal_ai_startup/)**
+
+Wordsmith Law has issued a claim against legal AI company Wordsmith in an apparent naming dispute.
+
+🔗 [nonbillable.co.uk](https://www.nonbillable.co.uk/news/wordsmith-dispute-legal-ai-startup-against-london-law-firm) • 2d ago
+
+---
+
 ---
 
 ## Google News: "ai"
 
-**[Opinion | Young People Are Using A.I. to Skip the Hardest Part of Growing Up](https://www.nytimes.com/2026/01/30/opinion/ai-social-skills-relationships.html)**
+**[AI agents now have their own Reddit-style social network, and it’s getting weird fast](https://arstechnica.com/information-technology/2026/01/ai-agents-now-have-their-own-reddit-style-social-network-and-its-getting-weird-fast/)**
 
-The New York Times • 1d ago
+Moltbook lets 32,000 AI bots trade jokes, tips, and complaints about humans.
 
----
-
-**[AI Agents Created Their Own Religion, Crustafarianism, On An Agent-Only Social Network](https://www.forbes.com/sites/johnkoetsier/2026/01/30/ai-agents-created-their-own-religion-crustafarianism-on-an-agent-only-social-network/)**
-
-Forbes • 14h ago
+Ars Technica • 18h ago
 
 ---
 
-**[What AI Predicts About the Future of the Stock Market — and Your Wallet](https://finance.yahoo.com/news/ai-predicts-future-stock-market-150605197.html)**
+**[Exclusive | The $100 Billion Megadeal Between OpenAI and Nvidia Is on Ice - WSJ](https://www.wsj.com/tech/ai/the-100-billion-megadeal-between-openai-and-nvidia-is-on-ice-aa3025e3?gaa_at=eafs&gaa_n=AWEtsqfNJLKHlAgWuJU3AO6efh-5Tg5M8ERxiwBiiAg4S1ihQuOXGML7VeNs&gaa_ts=697e37dc&gaa_sig=a3tQGQtKmxxltwtbRnCrZzpusTNt7vn4-nCR_y3piWmKPY6QYT5UkqgkXPdmNl2xwhZhvObRCdPxnK9dOAtrjw%3D%3D)**
 
-The stock markets have been on an amazing in recent years, with the S&P 500 more than doubling since the beginning of the decade ....
-
-Yahoo Finance • 1h ago
+The Wall Street Journal • 17h ago
 
 ---
 
-**[Billionaire Ken Griffin Buys 2 Artificial Intelligence (AI) Stocks Up 1,100% and 2,200% Since Early 2023](https://www.fool.com/investing/2026/01/31/billionaire-ken-griffin-buys-2-ai-stocks-up-2200/)**
+**[1 AI Stock I'm Buying Before It Goes Parabolic in 2026](https://www.fool.com/investing/2026/01/31/1-ai-stock-im-buying-before-it-goes-parabolic-in-2/)**
 
-Ken Griffin, a very successful hedge fund manager, bought stock in Palantir and Robinhood in the third quarter.
+Hyperscalers are planning to spend $500 billion on artificial intelligence (AI) infrastructure this year.
 
-The Motley Fool • 7h ago
+The Motley Fool • 45m ago
+
+---
+
+**[Billionaire Ken Griffin Buys 2 Artificial Intelligence (AI) Stocks Up 1,100% and 2,200% Since Early 2023](https://www.nasdaq.com/articles/billionaire-ken-griffin-buys-2-artificial-intelligence-ai-stocks-1100-and-2200-early-2023)**
+
+Key PointsBillionaire Ken Griffin bought shares of Palantir and Robinhood in the third quarter.
+
+Nasdaq • 7h ago
 
 ---
 
@@ -149,41 +151,43 @@ The Motley Fool • 7h ago
 
 AMD outperformed in 2025, but can it become the AI winner in 2026? Here are some key numbers, growth projections, and Wall Street expectations to consider.
 
-The Motley Fool • 59m ago
+The Motley Fool • 1h ago
 
 ---
 
-**[Rokid AI Glasses Style Review: Surprisingly Tough Competition for Meta’s Ray-Ban](https://gizmodo.com/rokid-ai-glasses-style-review-surprisingly-tough-competition-for-metas-ray-ban-2000716034)**
+**[Apple faces iPhone pricing challenge, supply crunch as AI demand deepens global memory chip shortage](https://finance.yahoo.com/news/apple-faces-iphone-pricing-challenge-supply-crunch-as-ai-demand-deepens-global-memory-chip-shortage-163018393.html)**
 
-Meta might have some real competition.
+Apple's iPhones are getting stung by the global memory shortage.
 
-Gizmodo • 1h ago
-
----
-
-**[The US is headed for mass unemployment, and no one is prepared](https://thehill.com/opinion/finance/5713876-ai-displacement-and-ubi/)**
-
-The Hill • 22h ago
+Yahoo Finance • 27m ago
 
 ---
 
-**[NASA’s Perseverance Rover Completes First AI-Planned Drive on Mars](https://www.jpl.nasa.gov/news/nasas-perseverance-rover-completes-first-ai-planned-drive-on-mars/)**
+**[Why Disability Is The Ultimate Stress Test For Artificial Intelligence](https://www.forbes.com/sites/keelycatwells/2026/01/31/why-disability-is-the-ultimate-stress-test-for-artificial-intelligence/)**
 
-The team for the six-wheeled scientist used a vision-capable AI to create a safe route over the Red Planet’s surface without the input of human route planners.
-
-NASA Jet Propulsion Laboratory (JPL) (.gov) • 20h ago
+Forbes • 29m ago
 
 ---
 
-**[Elon Musk’s Relentless AI Pursuit Has Him on the Hunt for Capital](https://www.bloomberg.com/news/features/2026-01-31/elon-musk-s-ai-push-has-him-considering-mergers-in-search-for-capital)**
+**[Canton-area schools embrace zany AI images when calling off classes](https://www.cantonrep.com/story/news/education/2026/01/31/ohio-schools-embracing-ai-images-calling-off-classes-snow-days/88396996007/)**
 
-Bloomberg • 15h ago
+Strasburg-Franklin Superintendent Vince Lindsey started a trend when he announced a day off school by riding a tiger in the snow. (It was AI!)
+
+Canton Repository • 5h ago
 
 ---
 
-**[Exclusive | The $100 Billion Megadeal Between OpenAI and Nvidia Is on Ice - WSJ](https://www.wsj.com/tech/ai/the-100-billion-megadeal-between-openai-and-nvidia-is-on-ice-aa3025e3?gaa_at=eafs&gaa_n=AWEtsqf7NhtIog0rV8xAu2JIoK53seqA2z2RitlysrsJDLdP5DO6f5trmW-P&gaa_ts=697e2797&gaa_sig=ONHY0jZUU5W8hYK9OVhH0QQrwscGf1xqlRq2BSp_HSGeB1AuVMBDt556RIsoSrrH6TNWz5ctnT_Ufjx1-ADlXg%3D%3D)**
+**[It’s Starting to Look Like AI Has Killed the Entire Model of College](https://futurism.com/future-society/ai-college-internships-jobs)**
 
-The Wall Street Journal • 16h ago
+As AI appears to do much of the work of entry-level job seekers, the entire premise of a college education seems to be collapsing.
+
+Futurism • 3h ago
+
+---
+
+**[Opinion | Young People Are Using A.I. to Skip the Hardest Part of Growing Up](https://www.nytimes.com/2026/01/30/opinion/ai-social-skills-relationships.html)**
+
+The New York Times • 1d ago
 
 ---
 
@@ -205,7 +209,7 @@ Guys, enough is enough. Bullying is a s...
 
 Anthropic is an AI safety and research company that's working to build reliable, interpretable, and steerable AI systems.
 
-⬆️ 441 • 💬 332 • 1d ago • [anthropic.com](https://www.anthropic.com/research/AI-assistance-coding-skills)
+⬆️ 444 • 💬 333 • 1d ago • [anthropic.com](https://www.anthropic.com/research/AI-assistance-coding-skills)
 
 ---
 
@@ -227,7 +231,7 @@ Or, as they like to call it, the 'AI Skills Hub'. Which was built by PwC because
 
 Moltworker is a middleware Worker and adapted scripts that allows running Moltbot (formerly Clawdbot) on Cloudflare's Sandbox SDK and our Developer Platform APIs. So you can self-host an AI personal assistant — without any new hardware.
 
-⬆️ 235 • 💬 67 • 2d ago • [The Cloudflare Blog](https://blog.cloudflare.com/moltworker-self-hosted-ai-agent/)
+⬆️ 236 • 💬 67 • 2d ago • [The Cloudflare Blog](https://blog.cloudflare.com/moltworker-self-hosted-ai-agent/)
 
 ---
 
@@ -251,7 +255,7 @@ The rise of LLMs as a useful development tool over the last year or so has been 
 
 New York mayor says terminating the ‘unusable’ bot will help close a budget gap
 
-⬆️ 168 • 💬 59 • 22h ago • [themarkup.org](https://themarkup.org/artificial-intelligence/2026/01/30/mamdani-to-kill-the-nyc-ai-chatbot-we-caught-telling-businesses-to-break-the-law)
+⬆️ 171 • 💬 59 • 22h ago • [themarkup.org](https://themarkup.org/artificial-intelligence/2026/01/30/mamdani-to-kill-the-nyc-ai-chatbot-we-caught-telling-businesses-to-break-the-law)
 
 ---
 
@@ -267,7 +271,7 @@ A lot of vendors pitch AI SRE. We tested 14 models across 11 programming languag
 
 Contribute to amlalabs/amla-sandbox development by creating an account on GitHub.
 
-⬆️ 138 • 💬 73 • 1d ago • [GitHub](https://github.com/amlalabs/amla-sandbox)
+⬆️ 139 • 💬 73 • 1d ago • [GitHub](https://github.com/amlalabs/amla-sandbox)
 
 ---
 
@@ -301,7 +305,7 @@ In this video, I break down the 14 best AI tools that actually hold up after mon
 
 📺 Parker Prompts
 
-👁️ 7K • 💬 15 • ⏱️ 11:46 • 2h ago
+👁️ 7K • 💬 15 • ⏱️ 11:46 • 3h ago
 
 ---
 
@@ -311,7 +315,7 @@ AI agents now have their own social network called Moltbook, and it's absolute c
 
 📺 Universe of AI
 
-👁️ 11K • 👍 374 • 💬 107 • ⏱️ 8:45 • 15h ago
+👁️ 11K • 👍 374 • 💬 107 • ⏱️ 8:45 • 16h ago
 
 ---
 
@@ -387,7 +391,7 @@ Kimi K2.5 is a native multimodal agentic model with 1T parameters, excelling in 
 
 `image-text-to-text`
 
-⬇️ 32,430 • ❤️ 1,266 • 15h ago
+⬇️ 32,430 • ❤️ 1,266 • 16h ago
 
 ---
 
@@ -645,7 +649,7 @@ Browser automation CLI for AI agents
 
 `TypeScript`
 
-⭐ 11.9k • 🔱 661 • 1d ago
+⭐ 11.9k • 🔱 661 • 2d ago
 
 ---
 
@@ -695,7 +699,7 @@ The Ultimate Collection of 500+ Agentic Skills for Claude Code/Antigravity/Curso
 
 `Python` `agentic-skills` `ai-agents` `antigravity` `autonomous-coding` `claude-code`
 
-⭐ 5.8k • 🔱 1.3k • 8h ago
+⭐ 5.8k • 🔱 1.3k • 9h ago
 
 ---
 
@@ -733,7 +737,7 @@ Remove AI features, telemetry data reporting, sponsored content, product integra
 
 `Shell` `chrome` `firefox` `google-chrome` `linux` `macos`
 
-⭐ 2.0k • 🔱 55 • 23h ago
+⭐ 2.0k • 🔱 55 • 1d ago
 
 ---
 

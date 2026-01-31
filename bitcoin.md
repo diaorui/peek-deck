@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-01-31T16:29:54.352672+00:00'
+updated: '2026-01-31T16:57:26.523892+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- news
 - social
 - cryptocurrency
 - videos
+- news
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** January 31, 2026 at 16:29 UTC  
+**Last Updated:** January 31, 2026 at 16:57 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,17 +38,17 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $81,130.66
+### $80,181.58
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** -2.1%  
-**7d:** -6.1%  
-**30d:** -9.6%  
-**90d:** -23.5%  
-**1y:** -19.1%  
+**24h:** -3.4%  
+**7d:** -7.5%  
+**30d:** -10.8%  
+**90d:** -24.6%  
+**1y:** -20.3%  
 
 ---
 
@@ -77,25 +77,17 @@ Rank #1
 
 ## Reddit: r/Bitcoin
 
+**[Evergreen just like BTC!](https://www.reddit.com/r/Bitcoin/comments/1qs6sj1/evergreen_just_like_btc/)**
+
+30m ago
+
+---
+
 **[Sold some bitcoin to get dinner 😃($25 @$83k)](https://www.reddit.com/r/Bitcoin/comments/1qro4xf/sold_some_bitcoin_to_get_dinner_25_83k/)**
 
 Watching good will hunting tonight
 
 15h ago
-
----
-
-**[Buying the dip.](https://www.reddit.com/r/Bitcoin/comments/1qrkz13/buying_the_dip/)**
-
-17h ago
-
----
-
-**[Finally passed the 0.1 BTC milestone, but feeling some transfer anxiety](https://www.reddit.com/r/Bitcoin/comments/1qry3gx/finally_passed_the_01_btc_milestone_but_feeling/)**
-
-I just bought the dip and officially crossed the 0.1 BTC mark. It’s been a long journey of stacking sats, and it feels incredible to finally hit this milestone. Now that my stack is growing, I know I need to get my coins off the exchanges. I’ve had a Trezor Model T sitting in its box for months, but I haven't set it up yet. I’m feeling a bit of transfer anxiety. I’m terrified of making a mistake during the process and losing my hard-earned BTC. I’ve also seen some talk about the Model T not being as secure as newer models. For those of you who have been through this: Is the Model T still considered solid for a 0.1 BTC stack, or should I upgrade before moving? What are your best tips for a first-time hardware wallet user to ensure I don't mess up the transfer? I’m planning to do a small test transaction first, but any advice to calm the nerves would be much appreciated!
-
-6h ago
 
 ---
 
@@ -107,17 +99,17 @@ I'm scared, not because I don't trust Bitcoin, but because I used my BTC and alt
 
 ---
 
-**[If bitcoin goes below $20K, I will withdraw my 401k and invest it all into bitcoin.](https://www.reddit.com/r/Bitcoin/comments/1qra1ma/if_bitcoin_goes_below_20k_i_will_withdraw_my_401k/)**
+**[It's what we all prayed for...a Bitcoin buying opportunity](https://www.reddit.com/r/Bitcoin/comments/1qs4gob/its_what_we_all_prayed_fora_bitcoin_buying/)**
 
-The deal will be too good to pass at that point.
+The world is going through some shit right now...but just know that eventually, everything's going to be ok. The aftermath might be a little hard to stomach, but we'll get through it. In the meantime...don't miss the chance to stack sats at every drop. You never know which one will be the bottom, but buy a bit at every new low and thank me later.
 
-1d ago
+2h ago
 
 ---
 
-**[The Stack remains So Stack More](https://www.reddit.com/r/Bitcoin/comments/1qrxs32/the_stack_remains_so_stack_more/)**
+**[Buying the dip.](https://www.reddit.com/r/Bitcoin/comments/1qrkz13/buying_the_dip/)**
 
-7h ago
+17h ago
 
 ---
 
@@ -129,23 +121,31 @@ My node analytics captured a large liquidation event this morning. Roughly $120M
 
 ---
 
-**[Time for something less volatile](https://www.reddit.com/r/Bitcoin/comments/1qrmwm4/time_for_something_less_volatile/)**
+**[Finally passed the 0.1 BTC milestone, but feeling some transfer anxiety](https://www.reddit.com/r/Bitcoin/comments/1qry3gx/finally_passed_the_01_btc_milestone_but_feeling/)**
 
-16h ago
+I just bought the dip and officially crossed the 0.1 BTC mark. It’s been a long journey of stacking sats, and it feels incredible to finally hit this milestone. Now that my stack is growing, I know I need to get my coins off the exchanges. I’ve had a Trezor Model T sitting in its box for months, but I haven't set it up yet. I’m feeling a bit of transfer anxiety. I’m terrified of making a mistake during the process and losing my hard-earned BTC. I’ve also seen some talk about the Model T not being as secure as newer models. For those of you who have been through this: Is the Model T still considered solid for a 0.1 BTC stack, or should I upgrade before moving? What are your best tips for a first-time hardware wallet user to ensure I don't mess up the transfer? I’m planning to do a small test transaction first, but any advice to calm the nerves would be much appreciated!
+
+7h ago
 
 ---
 
-**[Rule #1 of Bitcoin: don't brag about your gains. You're not creating believers. You're creating resentment.](https://www.reddit.com/r/Bitcoin/comments/1qrvw09/rule_1_of_bitcoin_dont_brag_about_your_gains/)**
+**[The Stack remains So Stack More](https://www.reddit.com/r/Bitcoin/comments/1qrxs32/the_stack_remains_so_stack_more/)**
 
-The fastest way to create a Bitcoin skeptic is to tell someone you made money on Bitcoin. It's not always about the tech. It's about psychology. When you say you profited, some people don't hear "good investment" — they hear "I missed it." And instead of asking questions, they dismiss it. I've noticed something: the more you talk about your gains, the more resistance you create. Not because Bitcoin is flawed - but because success triggers ego. So maybe the real rule is simple: stack quietly.
+7h ago
 
-9h ago
+---
+
+**[If bitcoin goes below $20K, I will withdraw my 401k and invest it all into bitcoin.](https://www.reddit.com/r/Bitcoin/comments/1qra1ma/if_bitcoin_goes_below_20k_i_will_withdraw_my_401k/)**
+
+The deal will be too good to pass at that point.
+
+1d ago
 
 ---
 
 **[Nearly $560M liquidated from the crypto market in the past 24H](https://www.reddit.com/r/Bitcoin/comments/1qs1gho/nearly_560m_liquidated_from_the_crypto_market_in/)**
 
-3h ago
+4h ago
 
 ---
 
@@ -157,15 +157,31 @@ The fastest way to create a Bitcoin skeptic is to tell someone you made money on
 
 Bitcoin slid toward $81,000 on Saturday as thin weekend liquidity magnified selling pressure, with traders pointing to Middle East tensions, U.S. political risk and lingering crypto-specific uncertainty.
 
-CoinDesk • 1h ago
+CoinDesk • 2h ago
 
 ---
 
-**[Bitcoin (BTC) price: Fear hits a 2026 high as traders panic at $84,200 price level](https://www.coindesk.com/markets/2026/01/31/bitcoin-fear-sentiment-hits-a-2026-high-as-price-lingers-under-usd83-000)**
+**[Better Investment to Make in 2026 and Beyond: Bitcoin vs. iShares Bitcoin Trust](https://www.fool.com/investing/2026/01/31/better-investment-2026-beyond-bitcoin-ibit/)**
 
-Social chatter around bitcoin has turned sharply negative after the token slid to its lowest level since Nov. 21, a setup Santiment says often appears near capitulation, even if near term trading stays messy.
+Based on its monster past performance, it makes sense why investors are interested in Bitcoin.
 
-CoinDesk • 56m ago
+The Motley Fool • 4h ago
+
+---
+
+**[Here Are Bitcoin's 5 Biggest Risks That Investors Can't Ignore](https://finance.yahoo.com/news/bitcoins-5-biggest-risks-investors-162000782.html)**
+
+The strongest bulls take the time to learn the opposite point of view.
+
+Yahoo Finance • 37m ago
+
+---
+
+**[ETH, SOL, DOGE price news: Tokens drop 6% as weekend liquidations hit crypto majors](https://www.coindesk.com/markets/2026/01/31/eth-sol-and-doge-slide-7-as-usd850-million-bullish-bets-end-up-liquidated)**
+
+Ether, solana and XRP led losses across crypto as a wave of long liquidations swept futures markets, showing stress spreading beyond bitcoin during weekend trading.
+
+CoinDesk • 1h ago
 
 ---
 
@@ -177,17 +193,17 @@ The Block • 20h ago
 
 ---
 
-**[Silver's 35% plunge ends up beating bitcoin in a rare crypto liquidation shock](https://www.coindesk.com/markets/2026/01/31/silver-s-35-plunge-ends-up-beating-bitcoin-in-a-rare-crypto-liquidation-shock)**
+**[The Slide in Gold and Silver Sets Up a Test for Bitcoin](https://www.barrons.com/articles/the-slide-in-gold-and-silver-sets-up-a-test-for-bitcoin-2a9573b3?gaa_at=eafs&gaa_n=AWEtsqdQlm0ixnB6aJ_mhHGDKk4ZfGtfJBM6ka8TuSgOlNl-0UaLq1iUgBBE&gaa_ts=697e37dd&gaa_sig=w2khDLfpyXVApl05wC6PdeEqWorVWdwRQ9oa65bws4nhxCYP2EO-n3ZHWMyb1eHjXuRQsR-bN3Mimp7gtF716w%3D%3D)**
 
-Tokenized silver futures recorded the largest liquidations across crypto markets over the past 24 hours, overtaking bitcoin and ether as a sharp pullback in metals collided with leverage-heavy trading on crypto venues.
-
-CoinDesk • 8h ago
+Barron's • 1d ago
 
 ---
 
-**[The Slide in Gold and Silver Sets Up a Test for Bitcoin](https://www.barrons.com/articles/the-slide-in-gold-and-silver-sets-up-a-test-for-bitcoin-2a9573b3?gaa_at=eafs&gaa_n=AWEtsqeewdOzuRE0SMjEWaDhiqLH3FJePED4AE5qkSdDT_lqjn8k7-esyg3D&gaa_ts=697e2799&gaa_sig=GH-kQMEoIy3F_U7Dy0YKifakzD2Ph-zXBPN30oboUqsc3fQd_mXIHRyxdLNaQOPkQMajTace_ZowuTOp02M26A%3D%3D)**
+**[Bitcoin’s freefall approaches $80,000 as precious metals also tank](https://fortune.com/2026/01/30/bitcoin-price-today-ethereum-gold-silver-platinum-copper/)**
 
-Barron's • 1d ago
+The world’s largest cryptocurrency is down 2% over the past day while gold and silver have dropped 11% and 30%, respectively.
+
+Fortune • 22h ago
 
 ---
 
@@ -203,31 +219,15 @@ Forbes • 1d ago
 
 The political fundraising group launched by crypto-billionaire brothers Cameron and Tyler Winklevoss raised more than $22 million in the last five months of 2025, but might not get as much bang for its Bitcoin.
 
-Bloomberg • 23h ago
+Bloomberg.com • 23h ago
 
 ---
 
-**[Largest crypto exchange announces surprising plan after Bitcoin crashes](https://www.thestreet.com/crypto/markets/largest-crypto-exchange-announces-surprising-plan-after-bitcoin-crashes)**
+**[Kevin Warsh: Markets React as Pro-Bitcoin Economist Tipped for Fed](https://finance.yahoo.com/news/kevin-warsh-markets-react-pro-122358756.html)**
 
-Binance has a new Bitcoin floor plan.
-
-thestreet.com • 1d ago
-
----
-
-**[Binance Converts $1B SAFU Fund to Bitcoin Following Criticism — Is a Rally Coming?](https://finance.yahoo.com/news/binance-converts-1b-safu-fund-093700898.html)**
-
-Binance announced it will convert its $1 billion SAFU fund from stablecoins to Bitcoin reserves within 30 days, responding to mounting community criticism that intensified after prominent Wall Street investor Cathie Wood publicly attributed recent market weakness to a Binance-related deleveraging event. The exchange pledged to maintain the fund’s value ...
+Only yesterday, we explained how Donald Trump runs his White House like a reality TV competition. Nominees for high office are turned into contestants vying for his approval, and the frontrunner could switch at any minute.Lo and behold, that’s exactly what’s happened in the race to become the next chairman ...
 
 Yahoo Finance • 1d ago
-
----
-
-**[Binance to shift $1 billion user protection fund into bitcoin amid market rout](https://www.coindesk.com/markets/2026/01/30/binance-is-shifting-its-user-security-fund-from-stablecoins-to-bitcoin)**
-
-Binance will convert the stablecoin holdings in its $1 billion Secure Asset Fund for Users to bitcoin over the next 30 days, with plans for regular audits.
-
-CoinDesk • 1d ago
 
 ---
 
@@ -255,7 +255,7 @@ A list of known attacks against Bitcoin / crypto asset owning entities that occu
 
 PoW + EVM cryptocurrency. 21M fixed supply, fair launch, no team, no foundation. Just code. - lumenyx-chain/lumenyx
 
-⬆️ 1 • 💬 0 • 3h ago • [GitHub](https://github.com/lumenyx-chain/lumenyx)
+⬆️ 1 • 💬 0 • 4h ago • [GitHub](https://github.com/lumenyx-chain/lumenyx)
 
 ---
 
@@ -321,7 +321,7 @@ Gold is absorbing sovereign capital while Bitcoin struggles — and that's exact
 
 📺 Savvy Finance
 
-👁️ 10K • 👍 409 • 💬 32 • ⏱️ 19:18 • 17h ago
+👁️ 10K • 👍 409 • 💬 32 • ⏱️ 19:18 • 18h ago
 
 ---
 
@@ -361,7 +361,7 @@ Crypto Just FLIPPED | NEW Fed Chair Bitcoin Plan (Fully Explained) ✓ Bitunix (
 
 📺 Altcoin Daily
 
-👁️ 47K • 👍 3K • 💬 276 • ⏱️ 8:25 • 17h ago
+👁️ 47K • 👍 3K • 💬 276 • ⏱️ 8:25 • 18h ago
 
 ---
 
@@ -381,7 +381,7 @@ Join The Community: https://bit.ly/FefeCommunity FOLLOW FEFE FOR MORE ALPHA ON .
 
 📺 100XClub
 
-👁️ 15K • 👍 1K • 💬 304 • ⏱️ 28:55 • 22h ago
+👁️ 15K • 👍 1K • 💬 304 • ⏱️ 28:55 • 23h ago
 
 ---
 
