@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-01-31T10:26:33.752687+00:00'
+updated: '2026-01-31T10:52:13.125920+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- repositories
-- videos
-- news
 - social
+- repositories
+- news
+- videos
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** January 31, 2026 at 10:26 UTC  
+**Last Updated:** January 31, 2026 at 10:52 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -47,7 +47,7 @@ AI coding tools are getting more sophisticated. But if coders stop coding, what 
 
 **[The $100 Billion Megadeal Between OpenAI and Nvidia Is on Ice](https://www.reddit.com/r/artificial/comments/1qrnq8u/the_100_billion_megadeal_between_openai_and/)**
 
-🔗 [wsj.com](https://www.wsj.com/tech/ai/the-100-billion-megadeal-between-openai-and-nvidia-is-on-ice-aa3025e3) • 9h ago
+🔗 [wsj.com](https://www.wsj.com/tech/ai/the-100-billion-megadeal-between-openai-and-nvidia-is-on-ice-aa3025e3) • 10h ago
 
 ---
 
@@ -69,7 +69,7 @@ I’m seeing too many new devs use AI as an autopilot instead of a hint system. 
 
 OpenClaw’s AI assistants are now building their own social network.[1] DeepSeek AI Releases DeepSeek-OCR 2 with Causal Visual Flow Encoder for Layout Aware Document Understanding.[2] Video game company stock prices dip after Google introduces an AI world-generation tool.[3] AI model from Google’s DeepMind reads recipe for life in DNA.[4] Sources: [1] https://techcrunch.com/2026/01/30/openclaws-ai-assistants-are-now-building-their-own-social-network/ [2] https://www.marktechpost.com/2026/01/30/deepseek-ai-releases-deepseek-ocr-2-with-causal-visual-flow-encoder-for-layout-aware-document-understanding/ [3] https://www.theverge.com/games/871348/google-project-genie-take-two-roblox-unity [4] https://www.bbc.com/news/articles/c39428dv18yo
 
-4h ago
+5h ago
 
 ---
 
@@ -143,7 +143,7 @@ The Motley Fool • 1h ago
 
 At first glance, Amelia, with her purple bob and pixie-girl looks, seems an unlikely candidate for the far right to adopt as an increasingly popular meme.
 
-CNN • 1h ago
+CNN • 2h ago
 
 ---
 
@@ -171,7 +171,7 @@ The Guardian • 23h ago
 
 **[Exclusive | The $100 Billion Megadeal Between OpenAI and Nvidia Is on Ice - WSJ](https://www.wsj.com/tech/ai/the-100-billion-megadeal-between-openai-and-nvidia-is-on-ice-aa3025e3?gaa_at=eafs&gaa_n=AWEtsqctjBdiAarcpOyClirI5fsCRcLg4Tx6zA5wq0_EJCr3BZa80_j391J6&gaa_ts=697dd475&gaa_sig=usF-kx9x7Ct0SiAGzoh7P-3KHu12lCo5FhXaPNqzEfd2U8BumP9m-UiRRaS_ukaj1GkCxY2L-Vu52ihTHDzYUw%3D%3D)**
 
-The Wall Street Journal • 10h ago
+The Wall Street Journal • 11h ago
 
 ---
 
@@ -187,7 +187,7 @@ CNBC • 15h ago
 
 A federal jury on Thursday convicted Linwei Ding, 38, of seven counts of economic espionage and seven counts of theft of trade secrets after an 11-day trial in the U.S. District Court in the Northern District of California.
 
-Los Angeles Times • 7h ago
+Los Angeles Times • 8h ago
 
 ---
 
@@ -305,7 +305,7 @@ Humanoid robotics just took a massive leap into the real world. Researchers in C
 
 📺 AI Revolution
 
-👁️ 16K • 👍 472 • 💬 50 • ⏱️ 14:25 • 10h ago
+👁️ 16K • 👍 472 • 💬 50 • ⏱️ 14:25 • 11h ago
 
 ---
 
@@ -499,7 +499,7 @@ LightOnOCR-2-1B is an efficient 1B-parameter end-to-end vision-language model fo
 
 `image-text-to-text` `1.0B`
 
-⬇️ 28,728 • ❤️ 448 • 21h ago
+⬇️ 28,728 • ❤️ 448 • 22h ago
 
 ---
 
@@ -699,7 +699,7 @@ The Ultimate Collection of 500+ Agentic Skills for Claude Code/Antigravity/Curso
 
 `Python` `agentic-skills` `ai-agents` `antigravity` `autonomous-coding` `claude-code`
 
-⭐ 5.7k • 🔱 1.3k • 2h ago
+⭐ 5.7k • 🔱 1.3k • 3h ago
 
 ---
 

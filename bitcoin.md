@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-01-31T10:26:33.760931+00:00'
+updated: '2026-01-31T10:52:13.134329+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
+- social
+- news
 - cryptocurrency
 - videos
-- news
-- social
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** January 31, 2026 at 10:26 UTC  
+**Last Updated:** January 31, 2026 at 10:52 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -123,7 +123,7 @@ The fastest way to create a Bitcoin skeptic is to tell someone you made money on
 
 If you tell your closest friends and relatives that you made money with bitcoin, their initial reaction will be to doubt and hate, because that is human nature.. Then by extension that means they will doubt and hate on bitcoin itself. For every person you tell about your bitcoin gains you will create twice as many bitcoin haters, because 99.9% of people hate seeing other people more successful than them.
 
-11h ago
+12h ago
 
 ---
 
@@ -131,7 +131,7 @@ If you tell your closest friends and relatives that you made money with bitcoin,
 
 Why are people so worried about the price now? It’s almost guaranteed to hit a new ath in the future.. but when is the question. This year? in 3 years? in 5 years? Anyway it will. DCA AND HODL
 
-10h ago
+11h ago
 
 ---
 
@@ -139,7 +139,7 @@ Why are people so worried about the price now? It’s almost guaranteed to hit a
 
 I wish I had more liquidity!
 
-20h ago
+21h ago
 
 ---
 
@@ -157,7 +157,7 @@ I wish I had more liquidity!
 
 Bitcoin fell toward $83,000 as the U.S. entered a partial shutdown, with traders leaning defensive ahead of a House vote expected Monday.
 
-CoinDesk • 2h ago
+CoinDesk • 3h ago
 
 ---
 
@@ -173,7 +173,7 @@ Mashable • 1d ago
 
 Tokenized silver futures recorded the largest liquidations across crypto markets over the past 24 hours, overtaking bitcoin and ether as a sharp pullback in metals collided with leverage-heavy trading on crypto venues.
 
-CoinDesk • 2h ago
+CoinDesk • 3h ago
 
 ---
 
@@ -211,7 +211,7 @@ Forbes • 1d ago
 
 The world’s largest cryptocurrency is down 2% over the past day while gold and silver have dropped 11% and 30%, respectively.
 
-Fortune • 15h ago
+Fortune • 16h ago
 
 ---
 
@@ -227,7 +227,7 @@ Sherwood News • 18h ago
 
 Binance has a new Bitcoin floor plan.
 
-thestreet.com • 21h ago
+thestreet.com • 22h ago
 
 ---
 
@@ -253,7 +253,7 @@ A list of known attacks against Bitcoin / crypto asset owning entities that occu
 
 **[Bitcoin's Quantum Computing Threat](https://news.ycombinator.com/item?id=46824834)**
 
-⬆️ 1 • 💬 0 • 19h ago • [bmpro.substack.com](https://bmpro.substack.com/p/bitcoins-quantum-computing-threat)
+⬆️ 1 • 💬 0 • 20h ago • [bmpro.substack.com](https://bmpro.substack.com/p/bitcoins-quantum-computing-threat)
 
 ---
 
@@ -329,7 +329,7 @@ Gold is absorbing sovereign capital while Bitcoin struggles — and that's exact
 
 📺 Savvy Finance
 
-👁️ 6K • 👍 288 • 💬 23 • ⏱️ 19:18 • 11h ago
+👁️ 6K • 👍 288 • 💬 23 • ⏱️ 19:18 • 12h ago
 
 ---
 
@@ -339,7 +339,7 @@ Crypto Just FLIPPED | NEW Fed Chair Bitcoin Plan (Fully Explained) ✓ Bitunix (
 
 📺 Altcoin Daily
 
-👁️ 37K • 👍 2K • 💬 188 • ⏱️ 8:25 • 11h ago
+👁️ 37K • 👍 2K • 💬 188 • ⏱️ 8:25 • 12h ago
 
 ---
 
@@ -349,7 +349,7 @@ Join The Community: https://bit.ly/FefeCommunity FOLLOW FEFE FOR MORE ALPHA ON .
 
 📺 100XClub
 
-👁️ 12K • 👍 1K • 💬 244 • ⏱️ 28:55 • 16h ago
+👁️ 12K • 👍 1K • 💬 244 • ⏱️ 28:55 • 17h ago
 
 ---
 
