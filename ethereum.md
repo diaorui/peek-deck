@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-01-31T19:21:20.697837+00:00'
+updated: '2026-01-31T19:42:38.708234+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- news
-- social
 - videos
 - cryptocurrency
+- social
+- news
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** January 31, 2026 at 19:21 UTC  
+**Last Updated:** January 31, 2026 at 19:42 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -36,17 +36,17 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Price
 
-### $2,408.36
+### $2,377.70
 
 ---
 
 ## Ethereum Chart
 
-**24h:** -13.1%  
-**7d:** -15.2%  
-**30d:** -23.4%  
-**90d:** -33.5%  
-**1y:** -23.3%  
+**24h:** -11.4%  
+**7d:** -15.7%  
+**30d:** -23.9%  
+**90d:** -33.9%  
+**1y:** -23.7%  
 
 ---
 
@@ -76,6 +76,14 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 ---
 
+**[Ethereum briefly touch $2320 as Tom Lee predicted that ETH could briefly dip to ~$2,400, and calling it a “touch and go” bottom.](https://www.reddit.com/r/ethereum/comments/1qsbykt/ethereum_briefly_touch_2320_as_tom_lee_predicted/)**
+
+Last time Ethereum dipped to $1472 on April 9th, 2025, it tripled up to $4830 by August 23, 2025. No one can predict the future, but the large amount of Ethereum being staked and the increasing demand for Ethereum are shifting the supply and demand curve skewed to demand outpacing supply. There is a significantly higher chance of an upward trend for Ethereum in the days to come. "Touch and Go" is in play, and be patient, Grasshoppers.
+
+5m ago
+
+---
+
 **[EtherWorld Weekly — Edition 349](https://www.reddit.com/r/ethereum/comments/1qs3kzo/etherworld_weekly_edition_349/)**
 
 World News, Stories By EtherWorld, Technical Explainers, Client News & Updates, Podcasts, Upcoming Events & Jobs
@@ -98,19 +106,19 @@ In these five years, the Ethereum Foundation is entering a period of mild auster
 
 ---
 
-**[Major developments for ETH](https://www.reddit.com/r/ethereum/comments/1qrhhyb/major_developments_for_eth/)**
-
-It was some time ago that ETH went from proof of work to proof of stake. At the time Vitalik said that there were other changes coming such as faster transaction or lower transaction cost. I have not heard any more since then? Is there any progress?
-
-22h ago
-
----
-
 **[Daily General Discussion January 30, 2026](https://www.reddit.com/r/ethereum/comments/1qqxc92/daily_general_discussion_january_30_2026/)**
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
 1d ago
+
+---
+
+**[Major developments for ETH](https://www.reddit.com/r/ethereum/comments/1qrhhyb/major_developments_for_eth/)**
+
+It was some time ago that ETH went from proof of work to proof of stake. At the time Vitalik said that there were other changes coming such as faster transaction or lower transaction cost. I have not heard any more since then? Is there any progress?
+
+22h ago
 
 ---
 
@@ -138,31 +146,9 @@ The Doots live stream is all about showcasing the best of the week from the Dail
 
 ---
 
-**[Ethereal news weekly #9 | Fidelity Investments FIDD stablecoin, TheDAO Security Fund, Hegotá upgrade headliner proposals](https://www.reddit.com/r/ethereum/comments/1qr54bw/ethereal_news_weekly_9_fidelity_investments_fidd/)**
-
-Fidelity Investments FIDD stablecoin, TheDAO Security Fund, Hegotá upgrade headliner proposals
-
-🔗 [ethereal.news](https://ethereal.news/ethereal-news-weekly-9/) • 1d ago
-
----
-
 ---
 
 ## Google News: "ethereum"
-
-**[Bitcoin, XRP, Ethereum Fall on News of Kevin Warsh Fed Appointment.](https://www.barrons.com/articles/bitcoin-xrp-ethereum-crypto-today-954298d9?gaa_at=eafs&gaa_n=AWEtsqdNptqx3-Vvp34a7vb2Stx94cTR5ZI_oUR02lzdrPlPvrgTvaiSni2U&gaa_ts=697e4ebd&gaa_sig=gWc8LdLVJKP9q9hXVUcKfdh-Pod4Qoh5gy6NtUklVGFYRChGskySoySvslid4nxkFrkcJJQRFcRNxJHxGtglUA%3D%3D)**
-
-Barron's • 1d ago
-
----
-
-**[Vitalik Buterin to spend $43 million on Ethereum development](https://www.coindesk.com/business/2026/01/30/vitalik-buterin-withdraws-usd17-million-in-eth-as-ethereum-foundation-enters-mild-austerity)**
-
-Ethereum’s co-founder said the $43 million withdrawal will support a broader “full-stack openness and verifiability” vision as the foundation tightens spending.
-
-CoinDesk • 1d ago
-
----
 
 **[Vitalik Buterin Withdraws $44.7M in ETH to Support Ethereum Growth Through ‘Mild Austerity’](https://decrypt.co/356490/vitalik-buterin-withdraws-44-7m-in-eth-to-support-ethereum-growth-through-mild-austerity)**
 
@@ -172,19 +158,33 @@ Decrypt • 1d ago
 
 ---
 
-**[Vitalik Buterin Withdraws 16,384 ETH as Ethereum Foundation Enters ‘Austerity Phase’ — What For?](https://www.tradingview.com/news/cryptonews:c7dddcebf094b:0-vitalik-buterin-withdraws-16-384-eth-as-ethereum-foundation-enters-austerity-phase-what-for/)**
+**[Bitcoin, XRP, Ethereum Fall on News of Kevin Warsh Fed Appointment.](https://www.barrons.com/articles/bitcoin-xrp-ethereum-crypto-today-954298d9?gaa_at=eafs&gaa_n=AWEtsqcCUrDcYu0TZmZWtF7qhANQRvU9ANEnvTj3CsEKxhJ3ZKZ4rowDdZv4&gaa_ts=697e5e9d&gaa_sig=q62BTfEeWx0GI-KJ6XnfhAFlWUuOirIbdmJlk8gqLBrBhl5a7LZ1SSYy0m3SstNktZlfo8SYSxxZ_bAHzTITEw%3D%3D)**
 
-Ethereum co-founder Vitalik Buterin has withdrawn 16,384 ETH, worth roughly $44.5 million at current prices, as the Ethereum Foundation enters what he described as a period of “mild austerity.”In a post on X, Buterin said the Ethereum Foundation is adjusting its spending approach to meet two parall…
+Barron's • 1d ago
+
+---
+
+**[Bitcoin, Ethereum, XRP, Dogecoin Tank Amid Tech Rout; Gold Also Cools: Analyst Flags Key BTC Support, Resistance Levels](https://www.benzinga.com/crypto/cryptocurrency/26/01/50255079/bitcoin-ethereum-xrp-dogecoin-tank-amid-tech-rout-gold-also-cools-analyst-flags-key-btc-support-resistance-levels)**
+
+Leading cryptocurrencies plunged alongside stocks on Thursday, as a tech-driven sell-off sent risk-on markets into a tailspin.
+
+Benzinga • 1d ago
+
+---
+
+**[Why Are Bitcoin, Ethereum and XRP Prices Crashing Today? Fed Uncertainty Sparks Crypto Selloff](https://www.tradingview.com/news/coinpedia:84570eaf5094b:0-why-are-bitcoin-ethereum-and-xrp-prices-crashing-today-fed-uncertainty-sparks-crypto-selloff/)**
+
+The broader crypto market is under heavy pressure today, with Bitcoin, Ethereum, and XRP posting sharp losses as a broad selloff sweeps across digital assets. Bitcoin has fallen nearly 6%, while Ethereum and XRP are down close to 7%, marking one of the most aggressive downside moves in recent weeks…
 
 TradingView • 1d ago
 
 ---
 
-**[AI Models Predict Ethereum, Solana, and XRP 2026 Prices—Which Altcoin Has the Biggest Upside?](https://finance.yahoo.com/news/ai-models-predict-ethereum-solana-193044962.html)**
+**[Nearly $3 Billion Ethereum Selling Could Drive a 16% Crash](https://finance.yahoo.com/news/nearly-3-billion-ethereum-selling-191410702.html)**
 
-Four major AI models have projected 2026 price targets for Ethereum (CRYPTO: ETH), Solana (CRYPTO: SOL), and XRP (CRYPTO: XRP). The forecasts range from conservative consolidation to triple-digit percentage gains, with each asset showing different upside potential based on adoption trends, network activity, and market positioning. Ethereum anchors institutional DeFi with mature Layer 2 networks, ... AI Models Predict Ethereum, Solana, and XRP 2026 Prices—Which Altcoin Has the Biggest Upside?
+Ethereum faces heavy selling pressure as $2.8 billion whale distribution raises risks of a 16% price correction.
 
-Yahoo Finance • 23h ago
+Yahoo Finance • 28m ago
 
 ---
 
@@ -193,6 +193,14 @@ Yahoo Finance • 23h ago
 BitMine Immersion continues to accumulate Ethereum amid price declines, following a treasury strategy inspired by Strategy.
 
 Barchart.com • 2d ago
+
+---
+
+**[Ethereum Falls 10% In Selloff](https://www.investing.com/news/cryptocurrency-news/ethereum-falls-10-in-selloff-4477658)**
+
+Ethereum Falls 10% In Selloff
+
+Investing.com • 2h ago
 
 ---
 
@@ -217,14 +225,6 @@ TradingView • 10h ago
 Bit Digital entered the bitcoin mining business in 2020 and was an early diversifier into the HPC/AI sector.
 
 The Block • 1d ago
-
----
-
-**[Ethereum Falls 10% In Selloff](https://www.investing.com/news/cryptocurrency-news/ethereum-falls-10-in-selloff-4477658)**
-
-Ethereum Falls 10% In Selloff
-
-Investing.com • 2h ago
 
 ---
 

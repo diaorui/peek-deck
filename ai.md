@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-01-31T19:21:20.683484+00:00'
+updated: '2026-01-31T19:42:38.693512+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- repositories
-- news
-- social
 - videos
+- repositories
+- social
+- news
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** January 31, 2026 at 19:21 UTC  
+**Last Updated:** January 31, 2026 at 19:42 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -123,47 +123,15 @@ Forbes • 17h ago
 
 ---
 
-**[Exclusive | The $100 Billion Megadeal Between OpenAI and Nvidia Is on Ice - WSJ](https://www.wsj.com/tech/ai/the-100-billion-megadeal-between-openai-and-nvidia-is-on-ice-aa3025e3?gaa_at=eafs&gaa_n=AWEtsqfuMY6E8bdr2PCbAuQgmyUtiVsn8MP9wrOAeXoiO6iZtdE3WXaq9Znt&gaa_ts=697e4eb8&gaa_sig=N1vuS6JVvto_-Ezs99jI7ls17Qu8tsy7LKfCHEedj4vn-tpjJOHWJ3QBcpJq18QDwqzFuwcIssmllYHokT1usQ%3D%3D)**
+**[Exclusive | The $100 Billion Megadeal Between OpenAI and Nvidia Is on Ice - WSJ](https://www.wsj.com/tech/ai/the-100-billion-megadeal-between-openai-and-nvidia-is-on-ice-aa3025e3?gaa_at=eafs&gaa_n=AWEtsqfq2Z1q3zM_Ynou-7OhLgqpOYwhW0Mt8UyIrCa1tTLH5MfedTSqSqu-&gaa_ts=697e5e9a&gaa_sig=8bWecFbFR1HrMLceZDdQZrUmDyhKFXV5qEBNTo6mLybLTgxFZ2nk8w3199M8soSnJsWUGh3fIwDvzaT4dBwPWQ%3D%3D)**
 
-The Wall Street Journal • 19h ago
-
----
-
-**[Nokia Chair Succession And AI Alliances Reshape Long Term Focus](https://finance.yahoo.com/news/nokia-chair-succession-ai-alliances-181110103.html)**
-
-Nokia Oyj (HLSE:NOKIA) has announced that Board Chair Sari Baldauf will step down, with Timo Ihamuotila proposed as the new Chair. Ihamuotila has recently acquired Nokia shares, signaling increased insider ownership ahead of the proposed leadership handover. Nokia has entered into an MOU with Blaize Holdings to work on AI and edge computing solutions. The company has also signed a multi billion dollar partnership with Nvidia focused on accelerating its 5G, 6G and AI ambitions. Nokia sits at...
-
-Yahoo Finance • 1h ago
+The Wall Street Journal • 54m ago
 
 ---
 
-**[The Math Behind Microsoft's AI Boom Doesn't Add Up--And Investors Are Finally Noticing](https://www.fool.com/investing/2026/01/31/the-math-behind-microsofts-ai-boom-doesnt-add-upan/)**
+**[Opinion | Young People Are Using A.I. to Skip the Hardest Part of Growing Up](https://www.nytimes.com/2026/01/30/opinion/ai-social-skills-relationships.html)**
 
-Microsoft is dependent on OpenAI and struggling to sell its own AI-powered products.
-
-The Motley Fool • 7h ago
-
----
-
-**[1 AI Stock I'm Buying Before It Goes Parabolic in 2026](https://www.fool.com/investing/2026/01/31/1-ai-stock-im-buying-before-it-goes-parabolic-in-2/)**
-
-Hyperscalers are planning to spend $500 billion on artificial intelligence (AI) infrastructure this year.
-
-The Motley Fool • 3h ago
-
----
-
-**[This Artificial Intelligence (AI) Giant Is Up 72% Since the Start of 2025, and It Looks Even More Attractive in 2026 (Hint: Not Nvidia)](https://www.fool.com/investing/2026/01/31/artificial-intelligence-ai-giant-up-72-tsmc-nvidia/)**
-
-Management just raised its long-term outlook, and it has plenty of good reasons to do so.
-
-The Motley Fool • 1h ago
-
----
-
-**[Opinion | Pay More Attention to A.I.](https://www.nytimes.com/2026/01/31/opinion/artificial-intelligence-new-world.html)**
-
-The New York Times • 7h ago
+The New York Times • 1d ago
 
 ---
 
@@ -175,13 +143,45 @@ The Hill • 1d ago
 
 **[Elon Musk’s Relentless AI Pursuit Has Him on the Hunt for Capital](https://www.bloomberg.com/news/features/2026-01-31/elon-musk-s-ai-push-has-him-considering-mergers-in-search-for-capital)**
 
-Bloomberg.com • 18h ago
+Bloomberg.com • 19h ago
 
 ---
 
 **[Musk's Starlink updates privacy policy to allow consumer data to train AI](https://www.reuters.com/legal/litigation/musks-starlink-updates-privacy-policy-allow-consumer-data-train-ai-2026-01-30/)**
 
 Reuters • 20h ago
+
+---
+
+**[Elon Musk's SpaceX applies to launch 1m satellites into orbit](https://www.bbc.com/news/articles/cyv5l24mrjmo)**
+
+The firm wants to create a network of "orbital data centres" to power artificial intelligence.
+
+BBC • 3h ago
+
+---
+
+**[NASA’s Perseverance Rover Completes First AI-Planned Drive on Mars](https://www.jpl.nasa.gov/news/nasas-perseverance-rover-completes-first-ai-planned-drive-on-mars/)**
+
+The team for the six-wheeled scientist used a vision-capable AI to create a safe route over the Red Planet’s surface without the input of human route planners.
+
+NASA Jet Propulsion Laboratory (JPL) (.gov) • 23h ago
+
+---
+
+**[Former Google engineer found guilty of espionage and theft of AI tech](https://www.cnbc.com/2026/01/30/former-google-engineer-found-guilty-of-espionage-and-theft-of-ai-tech.html)**
+
+The case marks the first conviction on AI-related economic espionage charges in the U.S., according to the Department of Justice.
+
+CNBC • 1d ago
+
+---
+
+**[Ex-Google engineer convicted of stealing AI trade secrets to benefit China](https://www.latimes.com/california/story/2026-01-30/ex-google-engineer-convicted-of-stealing-ai-trade-secrets-for-china)**
+
+A federal jury on Thursday convicted Linwei Ding, 38, of seven counts of economic espionage and seven counts of theft of trade secrets after an 11-day trial in the U.S. District Court in the Northern District of California.
+
+Los Angeles Times • 17h ago
 
 ---
 
@@ -203,7 +203,7 @@ Guys, enough is enough. Bullying is a s...
 
 Anthropic is an AI safety and research company that's working to build reliable, interpretable, and steerable AI systems.
 
-⬆️ 448 • 💬 333 • 1d ago • [anthropic.com](https://www.anthropic.com/research/AI-assistance-coding-skills)
+⬆️ 449 • 💬 333 • 1d ago • [anthropic.com](https://www.anthropic.com/research/AI-assistance-coding-skills)
 
 ---
 
@@ -211,7 +211,7 @@ Anthropic is an AI safety and research company that's working to build reliable,
 
 Or, as they like to call it, the 'AI Skills Hub'. Which was built by PwC because of course it was
 
-⬆️ 399 • 💬 145 • 2d ago • [Mahad Kalam](https://mahadk.com/posts/ai-skills-hub)
+⬆️ 399 • 💬 146 • 2d ago • [Mahad Kalam](https://mahadk.com/posts/ai-skills-hub)
 
 ---
 
@@ -249,7 +249,7 @@ The rise of LLMs as a useful development tool over the last year or so has been 
 
 New York mayor says terminating the ‘unusable’ bot will help close a budget gap
 
-⬆️ 171 • 💬 59 • 1d ago • [themarkup.org](https://themarkup.org/artificial-intelligence/2026/01/30/mamdani-to-kill-the-nyc-ai-chatbot-we-caught-telling-businesses-to-break-the-law)
+⬆️ 172 • 💬 59 • 1d ago • [themarkup.org](https://themarkup.org/artificial-intelligence/2026/01/30/mamdani-to-kill-the-nyc-ai-chatbot-we-caught-telling-businesses-to-break-the-law)
 
 ---
 
@@ -265,7 +265,7 @@ A lot of vendors pitch AI SRE. We tested 14 models across 11 programming languag
 
 Contribute to amlalabs/amla-sandbox development by creating an account on GitHub.
 
-⬆️ 139 • 💬 73 • 1d ago • [GitHub](https://github.com/amlalabs/amla-sandbox)
+⬆️ 139 • 💬 74 • 1d ago • [GitHub](https://github.com/amlalabs/amla-sandbox)
 
 ---
 
@@ -279,7 +279,7 @@ A new platform called Moltbook is going viral — and it's not built for humans.
 
 📺 Mint
 
-👁️ 430 • 👍 14 • ⏱️ 3:25 • 2h ago
+👁️ 430 • 👍 14 • ⏱️ 3:25 • 3h ago
 
 ---
 
@@ -309,7 +309,7 @@ Humanoid robotics just took a massive leap into the real world. Researchers in C
 
 📺 AI Revolution
 
-👁️ 39K • 👍 706 • 💬 115 • ⏱️ 14:25 • 19h ago
+👁️ 39K • 👍 706 • 💬 115 • ⏱️ 14:25 • 20h ago
 
 ---
 
@@ -359,7 +359,7 @@ OpenClaw (formerly ClaudeBot) demonstrates emergent agent capabilities like auto
 
 📺 The AI Daily Brief: Artificial Intelligence News
 
-👁️ 55K • 👍 2K • 💬 408 • ⏱️ 21:12 • 17h ago
+👁️ 55K • 👍 2K • 💬 408 • ⏱️ 21:12 • 18h ago
 
 ---
 
@@ -369,7 +369,7 @@ AI agents now have their own social network called Moltbook, and it's absolute c
 
 📺 Universe of AI
 
-👁️ 13K • 👍 396 • 💬 119 • ⏱️ 8:45 • 18h ago
+👁️ 13K • 👍 396 • 💬 119 • ⏱️ 8:45 • 19h ago
 
 ---
 
@@ -683,7 +683,7 @@ LLM驱动的 A/H/美股智能分析器，多数据源行情 + 实时新闻 + Gem
 
 `Vue`
 
-⭐ 6.8k • 🔱 1.2k • 5h ago
+⭐ 6.8k • 🔱 1.2k • 6h ago
 
 ---
 

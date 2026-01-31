@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-01-31T19:21:20.701064+00:00'
+updated: '2026-01-31T19:42:38.711459+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- news
-- social
 - videos
+- social
+- news
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** January 31, 2026 at 19:21 UTC  
+**Last Updated:** January 31, 2026 at 19:42 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -36,7 +36,7 @@ Robotics research and industry news
 
 From: CyberRobo on 𝕏: https://x.com/CyberRobooo/status/2017544750694551618 RoboHub🤖 on 𝕏 (images): https://x.com/XRoboHub/status/2017541654173851909
 
-8h ago
+9h ago
 
 ---
 
@@ -52,7 +52,7 @@ Hi, I’m working on a repurposed electric wheelchair chassis (>100 kg, high-tor
 
 Has anyone already received a notification for their ICRA 2026 submission? As of January 31, 4 AM PST, my paper status is still “Decision Pending” rather than “Undisclosed.” Is this normal, or should it have updated by now?
 
-6h ago
+7h ago
 
 ---
 
@@ -80,11 +80,19 @@ Fast fertiggestellt. Nur noch die Servo Bricks mit Strom versorgen. Dann kann de
 
 ---
 
+**[Building a cute little AI Robot with memory -Kuchi 😁](https://www.reddit.com/r/robotics/comments/1qsb4kp/building_a_cute_little_ai_robot_with_memory_kuchi/)**
+
+Day:30 1- Base body and MCU from Sunfounder 2-Built over raspberry pi5 and powered by OpenAI 3- Connected to N8N for tooling like web search., scraping etc Let me know your thoughts 😊
+
+36m ago
+
+---
+
 **[Using low-cost Android smartphones as embedded telematics gateways on forklifts – sane or bad idea?](https://www.reddit.com/r/robotics/comments/1qs047w/using_lowcost_android_smartphones_as_embedded/)**
 
 I’m working on an industrial telematics system for a client who operates a fleet of electric forklifts . The proposed architecture is to mount a low-cost Android smartphone permanently on each forklift . Role of the Android phone: - Acts as the edge gateway - 4G connectivity to cloud - GPS positioning and speed estimation - Shock detection using accelerometer - Inclination (pitch/roll) using sensors - Driver identification using front camera (event-based face recognition) - Bluetooth (BLE) communication with an ESP32 that handles CAN bus + battery/current sensors Hardware constraints: - Low-end Android phones (≈3–4 GB RAM, quad-core CPU) - Continuous charging from forklift 24V - Industrial vibration environment - Android 11–14 range This is for a real client, not a hobby project. My questions to engineers who’ve done industrial / Android-at-the-edge systems: Is this architecture considered reasonable in production, or a maintenance nightmare long-term? What are the biggest failure modes you’ve seen when using Android phones as embedded gateways? Would you strongly recommend replacing the phone with a dedicated telematics box instead? Any hard lessons around Android background limits, BLE reliability, or sensor accuracy in vehicles? If you’ve shipped something similar, what would you do differently today? I’m intentionally not relying on OEM forklift firmware to keep the system brand-agnostic. Looking for honest, experience-based feedback positive or negative.
 
-7h ago
+8h ago
 
 ---
 
@@ -96,17 +104,11 @@ I guess it’s time for a new thread to discuss ICRA 2026 review results. This i
 
 ---
 
-**[BUILDING DRONE WITH STM32F103C8T6](https://www.reddit.com/r/robotics/comments/1qs5gao/building_drone_with_stm32f103c8t6/)**
+**[What's the endgame here?](https://www.reddit.com/r/robotics/comments/1qsc18x/whats_the_endgame_here/)**
 
-3h ago
+What is the endgame here? Sidestepping the whole debate on whether or not Musk will achieve this goal, let's just imagine for the sake of argument that he does. 1 million robots produced and sold per year. What will that mean for our society? He says Optimus can do everything from being a nanny to factory work. Cool. So we've been talking about bringing all these factory jobs back that we lost overseas so we can... (checks notes) give those jobs to robots? Nothing to see here folks... Musk says this is potentially a 10 trillion dollar business. Currently their projected price is $30,000 dollars but he says with mass production they can likely get that number down closer to $10,000. So simple math tells us he thinks he can sell a billion robots over the long term. And that's just Tesla. But we all know how business works, anytime a product hits the market and starts earning a lot of revenue, it breeds competition to come in and try to get a slice of the pie. And a potential 10 trillion dollar market is a big pie and thus will attract A LOT of competition. Meaning 1 billion robots is just the beginning. Currently the earth's population is just over 8 billion with roughly half of that population being in the workforce. So it's not going to take long to potentially replace every human job on earth. Still, nothing to be concerned about... So how fast will these robots start taking over our workforce? Optimus isn't advanced enough to take over every human job... yet. But this is only the 1st generation (available for consumer purchase), technology improves quickly. Especially when you factor in the intense competition this market segment will attract. These humanoid robots are going to get stronger, smarter, faster, more efficient, less expensive, more reliable, less maintenance, more durable, less limited... us mere mortals have no chance to be able to compete with such a robotic evolution. Businesses use their resources as efficiently as possible to keep costs down and profits up. So the robots entering the factory will be used to displace the highest paid worker they possibly can. It will replace the highly skilled employee making $70k a year not the employee cleaning the toilets and mopping the floors for $23k a year. That's efficiency. And from there they will only move up the ladder as they make bigger and bigger advancements in robotic technology. So the middle class will be hollowed out first leaving the vast majority of workers to scrounge for whatever low paying jobs are left. But Elon says these robots will end poverty and make work 'optional'... ummm, how does that work exactly? Please explain how we humans will be able to buy the necessities of life (let alone the discretionary stuff) if we aren't working? I haven't heard his plan for how anyone gets money in a society without a human workforce. Is he suggesting that all of the countries in the world will become 100% socialist? And what authority does he have to suggest such a thing anyways, he controls nothing. And socialism has historically been vilified by the leaders of capitalist countries, so how will future resources be divied up amongst the jobless masses? This used to all be a hypothetical plot in a science fiction book or movie, but we are now entering the very first phase of the great replacement, and nobody has really done much of anything to explain where this is all going. And so I ask... What is the endgame here?
 
----
-
-**[How China’s Military Robots Learn From Animals](https://www.reddit.com/r/robotics/comments/1qs6qv7/how_chinas_military_robots_learn_from_animals/)**
-
-https://www.wsj.com/tech/ai/how-chinas-military-robots-learn-from-animals-4fc0394b "After observing how hawks target their prey, engineers at one of China’s top military-linked universities trained defensive drones to single out and destroy vulnerable enemy aircraft. On the opposite side, these scientists used the flight behavior of doves to train the attacking drones how to dodge their hawk-trained adversaries... ...As drones have become cheaper and more capable, sci-fi visions of AI-powered robot armies clashing on the battlefield have inched closer to reality... ...Recent research into drone intelligence is yielding new algorithms modeled on the behavior of several animal groups—including ants, sheep, coyotes and whales—that could theoretically give drones rules for how to coordinate with one another. Few of these new algorithms have been tested in realistic battlefield scenarios."
-
-2h ago
+2m ago
 
 ---
 
@@ -200,7 +202,7 @@ Humanoid robotics just took a massive leap into the real world. Researchers in C
 
 📺 AI Revolution
 
-👁️ 39K • 👍 706 • 💬 115 • ⏱️ 14:25 • 19h ago
+👁️ 39K • 👍 706 • 💬 115 • ⏱️ 14:25 • 20h ago
 
 ---
 

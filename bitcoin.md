@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-01-31T19:21:20.691872+00:00'
+updated: '2026-01-31T19:42:38.702205+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- news
-- social
 - videos
 - cryptocurrency
+- social
+- news
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** January 31, 2026 at 19:21 UTC  
+**Last Updated:** January 31, 2026 at 19:42 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,17 +38,17 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $78,041.30
+### $77,646.49
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** -7.1%  
-**7d:** -9.5%  
-**30d:** -12.8%  
-**90d:** -26.3%  
-**1y:** -22.1%  
+**24h:** -7.9%  
+**7d:** -10.8%  
+**30d:** -14.1%  
+**90d:** -27.3%  
+**1y:** -23.2%  
 
 ---
 
@@ -81,13 +81,19 @@ Rank #1
 
 I'm not wasting these cheap stacks. HODL and BUY!
 
-1h ago
+2h ago
 
 ---
 
 **[Evergreen just like BTC!](https://www.reddit.com/r/Bitcoin/comments/1qs6sj1/evergreen_just_like_btc/)**
 
-2h ago
+3h ago
+
+---
+
+**[Buy Now](https://www.reddit.com/r/Bitcoin/comments/1qs9mvq/buy_now/)**
+
+1h ago
 
 ---
 
@@ -107,17 +113,25 @@ I'm scared, not because I don't trust Bitcoin, but because I used my BTC and alt
 
 ---
 
+**[The original "Hard Money". On the Island of Yap, these massive limestone discs served as a public ledger. Ownership was known by community consensus rather than possession. Basically, a physical Blockchain 500 years ago.](https://www.reddit.com/r/Bitcoin/comments/1qs8l2m/the_original_hard_money_on_the_island_of_yap/)**
+
+2h ago
+
+---
+
+**[Anyone else notice how the dips never last long enough for the paycheck to come in](https://www.reddit.com/r/Bitcoin/comments/1qs8o1s/anyone_else_notice_how_the_dips_never_last_long/)**
+
+I never consider it a real dip unless it keeps dipping beyond the paycheck deposit, otherwise it’s just an empty promise
+
+2h ago
+
+---
+
 **[Sold some bitcoin to get dinner 😃($25 @$83k)](https://www.reddit.com/r/Bitcoin/comments/1qro4xf/sold_some_bitcoin_to_get_dinner_25_83k/)**
 
 Watching good will hunting tonight
 
 18h ago
-
----
-
-**[The original "Hard Money". On the Island of Yap, these massive limestone discs served as a public ledger. Ownership was known by community consensus rather than possession. Basically, a physical Blockchain 500 years ago.](https://www.reddit.com/r/Bitcoin/comments/1qs8l2m/the_original_hard_money_on_the_island_of_yap/)**
-
-1h ago
 
 ---
 
@@ -129,25 +143,11 @@ My node analytics captured a large liquidation event this morning. Roughly $120M
 
 ---
 
-**[Buying the dip.](https://www.reddit.com/r/Bitcoin/comments/1qrkz13/buying_the_dip/)**
+**[I thought I was smart buying in at $91k](https://www.reddit.com/r/Bitcoin/comments/1qsbkk2/i_thought_i_was_smart_buying_in_at_91k/)**
 
-20h ago
+Bye bye $2k see you in a few years
 
----
-
-**[Anyone else notice how the dips never last long enough for the paycheck to come in](https://www.reddit.com/r/Bitcoin/comments/1qs8o1s/anyone_else_notice_how_the_dips_never_last_long/)**
-
-I never consider it a real dip unless it keeps dipping beyond the paycheck deposit, otherwise it’s just an empty promise
-
-1h ago
-
----
-
-**[Finally passed the 0.1 BTC milestone, but feeling some transfer anxiety](https://www.reddit.com/r/Bitcoin/comments/1qry3gx/finally_passed_the_01_btc_milestone_but_feeling/)**
-
-I just bought the dip and officially crossed the 0.1 BTC mark. It’s been a long journey of stacking sats, and it feels incredible to finally hit this milestone. Now that my stack is growing, I know I need to get my coins off the exchanges. I’ve had a Trezor Model T sitting in its box for months, but I haven't set it up yet. I’m feeling a bit of transfer anxiety. I’m terrified of making a mistake during the process and losing my hard-earned BTC. I’ve also seen some talk about the Model T not being as secure as newer models. For those of you who have been through this: Is the Model T still considered solid for a 0.1 BTC stack, or should I upgrade before moving? What are your best tips for a first-time hardware wallet user to ensure I don't mess up the transfer? I’m planning to do a small test transaction first, but any advice to calm the nerves would be much appreciated!
-
-9h ago
+20m ago
 
 ---
 
@@ -155,47 +155,27 @@ I just bought the dip and officially crossed the 0.1 BTC mark. It’s been a lon
 
 ## Google News: "bitcoin"
 
-**[Bitcoin (BTC) price: Fear hits a 2026 high as traders panic at $84,200 price level](https://www.coindesk.com/markets/2026/01/31/bitcoin-fear-sentiment-hits-a-2026-high-as-price-lingers-under-usd83-000)**
+**[Bitcoin Price Drops Below $80,000 as New Buyers Rush to Accumulate](https://finance.yahoo.com/news/bitcoin-price-drops-below-80-174544304.html)**
 
-Social chatter around bitcoin has turned sharply negative after the token slid to its lowest level since Nov. 21, a setup Santiment says often appears near capitulation, even if near term trading stays messy.
+Bitcoin price dipped below $80k as 335,000 new wallets signal rising adoption despite short-term BTC price weakness.
 
-CoinDesk • 3h ago
-
----
-
-**[Bitcoin slips as Fed chair speculation hits risky assets](https://www.reuters.com/business/bitcoin-slips-fed-chair-speculation-hits-risky-assets-2026-01-30/)**
-
-Reuters • 1d ago
+Yahoo Finance • 1h ago
 
 ---
 
-**[Bitcoin Stuck in a Rut After Warsh Pick as ETFs Shed Billions](https://finance.yahoo.com/news/bitcoin-stuck-rut-warsh-pick-213531831.html)**
+**[Down 28%, Should You Buy the Dip on This Glorious Cryptocurrency That's Up 23,000% in 10 Years?](https://www.fool.com/investing/2026/01/31/should-you-buy-the-dip-glorious-crypto-10-years/)**
 
-Warsh, a former central bank governor with deep establishment ties, has recently aligned with Trump’s push for lower rates.  Instead, a risk-off tone lingered over markets as the Warsh news circulated: stock fell and the dollar traded just off four-year lows.  With Bitcoin now down more than 30% from its October peak — and US spot ETFs posting their longest streak of monthly outflows since launching — traders appear unconvinced that either macro or policy signals offer much near-term relief.
+Investors would be wise to stick to the leading digital asset on the market.
 
-Yahoo Finance • 21h ago
-
----
-
-**[Bitcoin, XRP, Ethereum Fall on News of Kevin Warsh Fed Appointment.](https://www.barrons.com/articles/bitcoin-xrp-ethereum-crypto-today-954298d9?gaa_at=eafs&gaa_n=AWEtsqfWmbxrQ5FGYnZ7f-C3v0XuHWRS2H2TMJwWFpsedCiyoaBLX9W_rysX&gaa_ts=697e4eb9&gaa_sig=Tw562XFFP9hzDGamyE5UMe77ZqADqB5Bj84o44wMuAWtZfHulCI6iO_YEylsRyAU0z3RsrqvhVJ5EvHUx1mgfA%3D%3D)**
-
-Barron's • 1d ago
+The Motley Fool • 42m ago
 
 ---
 
-**[Investors Pull Nearly $818 Million From Bitcoin ETFs as Cryptocurrency Tanks](https://sg.finance.yahoo.com/news/investors-pull-nearly-818-million-174640067.html)**
+**[Here Are Bitcoin's 5 Biggest Risks That Investors Can't Ignore](https://finance.yahoo.com/news/bitcoins-5-biggest-risks-investors-162000782.html)**
 
-Bitcoin (CRYPTO: BTC) exchange-traded funds (ETFs) experienced a substantial one-day reversal last week. Investors pulled out nearly $818 million as Bitcoin’s price plummeted to a nine-month low. Data indicated that Bitcoin ETFs registered net daily outflows of $817.87 million on January 29. This pushed January into an overall negative zone. However, the cumulative net inflows since the inception of Bitcoin ETFs remained significant at $55.52 billion. The largest product by assets, BlackRock’s i
+The strongest bulls take the time to learn the opposite point of view.
 
-Yahoo Finance Singapore • 1h ago
-
----
-
-**[Binance's CZ: Metals Drop Proves Any Asset Vulnerable To Swings, Bitcoin Is 'Still Early'](https://uk.finance.yahoo.com/news/binances-cz-metals-drop-proves-183110086.html)**
-
-In the wake of a significant drop in gold and silver prices, Binance founder Changpeng Zhao has offered his insights on the future of Bitcoin (CRYPTO: BTC). On Friday, gold and silver saw a drastic decrease in their prices, with gold plummeting by approximately 15% and silver by nearly 38%. This resulted in a loss of around $15 trillion in combined market value. This unexpected price drop, referred to as a “black swan” event, has ignited conversations within the crypto community, with many specu
-
-Yahoo Finance UK • 50m ago
+Yahoo Finance • 3h ago
 
 ---
 
@@ -207,25 +187,49 @@ The Block • 23h ago
 
 ---
 
-**[Better Investment to Make in 2026 and Beyond: Bitcoin vs. iShares Bitcoin Trust](https://www.fool.com/investing/2026/01/31/better-investment-2026-beyond-bitcoin-ibit/)**
-
-Based on its monster past performance, it makes sense why investors are interested in Bitcoin.
-
-The Motley Fool • 7h ago
-
----
-
-**[The Slide in Gold and Silver Sets Up a Test for Bitcoin](https://www.barrons.com/articles/the-slide-in-gold-and-silver-sets-up-a-test-for-bitcoin-2a9573b3?gaa_at=eafs&gaa_n=AWEtsqcgBP7xJTnIqHE78G7XRoW1RmRfXL6EzcrvOXiCtNgRqouvAc_zX-EU&gaa_ts=697e4eb9&gaa_sig=_oTF2YNM_6OWX4ktivZu-i2scW5vd28VkSeUBbKop-uV2QpFCTkqbauvWSeI7MYmUECXYskiNk2mIKN-36NZmA%3D%3D)**
-
-Barron's • 1d ago
-
----
-
 **[Plan B Network Launches CypherTank, a Bitcoin Pitch Series Showcasing Builders and Ideas](https://bitcoinmagazine.com/news/plan-b-network-cyphertank-bitcoin)**
 
 Plan B Network has launched CypherTank, a global Bitcoin-focused pitch series that spotlights builders, ideas, and community discussion across multiple platforms.
 
 Bitcoin Magazine • 21h ago
+
+---
+
+**[Bitcoin slips as Fed chair speculation hits risky assets](https://www.reuters.com/business/bitcoin-slips-fed-chair-speculation-hits-risky-assets-2026-01-30/)**
+
+Reuters • 1d ago
+
+---
+
+**[Kevin Warsh: Markets React as Pro-Bitcoin Economist Tipped for Fed](https://finance.yahoo.com/news/kevin-warsh-markets-react-pro-122358756.html)**
+
+Only yesterday, we explained how Donald Trump runs his White House like a reality TV competition. Nominees for high office are turned into contestants vying for his approval, and the frontrunner could switch at any minute.Lo and behold, that’s exactly what’s happened in the race to become the next chairman ...
+
+Yahoo Finance • 1d ago
+
+---
+
+**[Fed Chair nominee Warsh views bitcoin as “good policeman for policy”](https://finance.yahoo.com/news/fed-chair-nominee-warsh-views-150459398.html)**
+
+Warsh has praised bitcoin as a tool to guide policy, not as a competitor to the dollar.
+
+Yahoo Finance • 1d ago
+
+---
+
+**[Bitcoin Deleveraging Finally Over? What The Derivatives Data Says](https://www.tradingview.com/news/newsbtc:73ff7b3b5094b:0-bitcoin-deleveraging-finally-over-what-the-derivatives-data-says/)**
+
+Bitcoin’s sharp slide to $81,119 on January 30 came with a derivatives-market gut punch: forced long closures spiked to extreme levels, yet perpetual funding stayed decisively positive. That mix is complicating a common read, whether the market has already “cleansed” leverage or is still set up for…
+
+TradingView • 15h ago
+
+---
+
+**[Where is Donald Trump’s strategic Bitcoin reserve?](https://www.fastcompany.com/91482053/where-is-donald-trumps-strategic-bitcoin-reserve)**
+
+The government seems to be amassing more Bitcoin. But little work seems to be happening to enact the terms of the executive order Trump signed to start the 'strategic reserve.'
+
+Fast Company • 2d ago
 
 ---
 
@@ -235,7 +239,7 @@ Bitcoin Magazine • 21h ago
 
 **[Bitcoin Looks Set for Longest Monthly Losing Streak Since 2018](https://news.ycombinator.com/item?id=46838644)**
 
-⬆️ 18 • 💬 1 • 1h ago • [bloomberg.com](https://www.bloomberg.com/news/articles/2026-01-30/bitcoin-btc-slides-toward-longest-monthly-losing-streak-since-2018)
+⬆️ 50 • 💬 37 • 2h ago • [bloomberg.com](https://www.bloomberg.com/news/articles/2026-01-30/bitcoin-btc-slides-toward-longest-monthly-losing-streak-since-2018)
 
 ---
 
@@ -259,7 +263,7 @@ A list of known attacks against Bitcoin / crypto asset owning entities that occu
 
 PoW + EVM cryptocurrency. 21M fixed supply, fair launch, no team, no foundation. Just code. - lumenyx-chain/lumenyx
 
-⬆️ 1 • 💬 0 • 6h ago • [GitHub](https://github.com/lumenyx-chain/lumenyx)
+⬆️ 1 • 💬 0 • 7h ago • [GitHub](https://github.com/lumenyx-chain/lumenyx)
 
 ---
 
@@ -357,7 +361,7 @@ BYBIT: http://themoon.co/Bybit 10% DISCOUNT & $30000 BONUS BloFin: https://themo
 
 📺 The Moon Show
 
-👁️ 18K • 👍 922 • 💬 113 • ⏱️ 6:54 • 9h ago
+👁️ 18K • 👍 922 • 💬 113 • ⏱️ 6:54 • 10h ago
 
 ---
 
@@ -377,7 +381,7 @@ Gold is absorbing sovereign capital while Bitcoin struggles — and that's exact
 
 📺 Savvy Finance
 
-👁️ 11K • 👍 444 • 💬 24 • ⏱️ 19:18 • 20h ago
+👁️ 11K • 👍 444 • 💬 24 • ⏱️ 19:18 • 21h ago
 
 ---
 
@@ -397,7 +401,7 @@ Crypto Just FLIPPED | NEW Fed Chair Bitcoin Plan (Fully Explained) ✓ Bitunix (
 
 📺 Altcoin Daily
 
-👁️ 49K • 👍 3K • 💬 296 • ⏱️ 8:25 • 20h ago
+👁️ 49K • 👍 3K • 💬 296 • ⏱️ 8:25 • 21h ago
 
 ---
 
