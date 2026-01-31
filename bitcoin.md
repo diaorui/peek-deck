@@ -3,13 +3,13 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-01-31T14:50:34.529075+00:00'
+updated: '2026-01-31T15:24:53.173614+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- social
 - videos
+- social
 - news
 - cryptocurrency
 ---
@@ -18,7 +18,7 @@ data_types:
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** January 31, 2026 at 14:50 UTC  
+**Last Updated:** January 31, 2026 at 15:24 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -81,13 +81,13 @@ Rank #1
 
 Watching good will hunting tonight
 
-13h ago
+14h ago
 
 ---
 
 **[Buying the dip.](https://www.reddit.com/r/Bitcoin/comments/1qrkz13/buying_the_dip/)**
 
-15h ago
+16h ago
 
 ---
 
@@ -103,19 +103,19 @@ I just bought the dip and officially crossed the 0.1 BTC mark. It’s been a lon
 
 The deal will be too good to pass at that point.
 
-22h ago
+23h ago
 
 ---
 
 **[The Stack remains So Stack More](https://www.reddit.com/r/Bitcoin/comments/1qrxs32/the_stack_remains_so_stack_more/)**
 
-5h ago
+6h ago
 
 ---
 
 **[Time for something less volatile](https://www.reddit.com/r/Bitcoin/comments/1qrmwm4/time_for_something_less_volatile/)**
 
-14h ago
+15h ago
 
 ---
 
@@ -135,7 +135,7 @@ The fastest way to create a Bitcoin skeptic is to tell someone you made money on
 
 **[Sliver people acting like it’s such a volatile asset. LMAO](https://www.reddit.com/r/Bitcoin/comments/1qriea6/sliver_people_acting_like_its_such_a_volatile/)**
 
-17h ago
+18h ago
 
 ---
 
@@ -171,7 +171,7 @@ Mashable • 1d ago
 
 Based on its monster past performance, it makes sense why investors are interested in Bitcoin.
 
-The Motley Fool • 2h ago
+The Motley Fool • 3h ago
 
 ---
 
@@ -179,7 +179,7 @@ The Motley Fool • 2h ago
 
 Indeed, since the JPMorgan report was published on Wednesday, both silver and gold have pulled back from recent highs.
 
-The Block • 18h ago
+The Block • 19h ago
 
 ---
 
@@ -187,7 +187,7 @@ The Block • 18h ago
 
 The political fundraising group launched by crypto-billionaire brothers Cameron and Tyler Winklevoss raised more than $22 million in the last five months of 2025, but might not get as much bang for its Bitcoin.
 
-Bloomberg.com • 21h ago
+Bloomberg.com • 22h ago
 
 ---
 
@@ -209,7 +209,7 @@ Yahoo Finance • 1d ago
 
 Warsh has praised bitcoin as a tool to guide policy, not as a competitor to the dollar.
 
-Yahoo Finance • 23h ago
+Yahoo Finance • 1d ago
 
 ---
 
@@ -303,7 +303,7 @@ Transform HN comment threads into executive intelligence. AI analyzes discussion
 
 20 years of Hacker News analyzed. 40M comments. 10,000 topics. What the tech community really thinks.
 
-⬆️ 3 • 💬 0 • 22h ago • [HN Zeitgeist](https://hn.mrzepa.com/)
+⬆️ 3 • 💬 0 • 23h ago • [HN Zeitgeist](https://hn.mrzepa.com/)
 
 ---
 
@@ -347,7 +347,7 @@ Bitwise Chief Investment Officer, Matt Hougan joins CoinDesk's Markets Outlook w
 
 📺 CoinDesk
 
-👁️ 11K • 👍 310 • 💬 36 • ⏱️ 26:03 • 19h ago
+👁️ 11K • 👍 310 • 💬 36 • ⏱️ 26:03 • 20h ago
 
 ---
 

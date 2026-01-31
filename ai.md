@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-01-31T14:50:34.520618+00:00'
+updated: '2026-01-31T15:24:53.165247+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- social
-- videos
-- news
 - repositories
+- social
+- news
+- videos
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** January 31, 2026 at 14:50 UTC  
+**Last Updated:** January 31, 2026 at 15:24 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -41,13 +41,13 @@ AI news, discussions, and developments
 
 AI coding tools are getting more sophisticated. But if coders stop coding, what happens to software development jobs?
 
-🔗 [Fortune](https://fortune.com/2026/01/29/100-percent-of-code-at-anthropic-and-openai-is-now-ai-written-boris-cherny-roon/) • 16h ago
+🔗 [Fortune](https://fortune.com/2026/01/29/100-percent-of-code-at-anthropic-and-openai-is-now-ai-written-boris-cherny-roon/) • 17h ago
 
 ---
 
 **[The $100 Billion Megadeal Between OpenAI and Nvidia Is on Ice](https://www.reddit.com/r/artificial/comments/1qrnq8u/the_100_billion_megadeal_between_openai_and/)**
 
-🔗 [wsj.com](https://www.wsj.com/tech/ai/the-100-billion-megadeal-between-openai-and-nvidia-is-on-ice-aa3025e3) • 13h ago
+🔗 [wsj.com](https://www.wsj.com/tech/ai/the-100-billion-megadeal-between-openai-and-nvidia-is-on-ice-aa3025e3) • 14h ago
 
 ---
 
@@ -55,7 +55,7 @@ AI coding tools are getting more sophisticated. But if coders stop coding, what 
 
 I’m seeing too many new devs use AI as an autopilot instead of a hint system. By skipping the "struggle phase", you’re missing out on building that essential debugging muscle. If you don't wrestle with the errors now, you’ll be clueless when things actually break later and there's no prompt to save you. AI is great for boilerplate, but don't let it rot your fundamentals. What do you guys think? Is AI making new devs "lazy" or just more efficient in this era?
 
-11h ago
+12h ago
 
 ---
 
@@ -69,7 +69,7 @@ OpenClaw’s AI assistants are now building their own social network.[1] DeepSee
 
 **[The debate over artificial intelligence and employment](https://www.reddit.com/r/artificial/comments/1qrb5dt/the_debate_over_artificial_intelligence_and/)**
 
-🔗 [technology.org](https://www.technology.org/2026/01/28/the-debate-over-artificial-intelligence-and-employment/) • 21h ago
+🔗 [technology.org](https://www.technology.org/2026/01/28/the-debate-over-artificial-intelligence-and-employment/) • 22h ago
 
 ---
 
@@ -77,7 +77,7 @@ OpenClaw’s AI assistants are now building their own social network.[1] DeepSee
 
 Chris Mason, the longtime Linux kernel developer most known for being the creator of Btrfs, has been working on a Git repository with AI review prompts he has been working on for LLM-assisted code review of Linux kernel patches
 
-🔗 [phoronix.com](https://www.phoronix.com/news/AI-Code-Review-Prompts-Linux) • 11h ago
+🔗 [phoronix.com](https://www.phoronix.com/news/AI-Code-Review-Prompts-Linux) • 12h ago
 
 ---
 
@@ -93,7 +93,7 @@ ByteDance, Alibaba and Tencent had been given permission to purchase more than 4
 
 Hey, I've been using AI image generation (Genspark, Midjourney, Stable Diffusion) to create pictures and explore a whole fictional lore. I use Nano Banana Pro on Genspark now for some realistic, cozy, and unproblematic scenes with my fictional characters created out of the blue. But I also have a use of AI where I create really risky content, mostly kinky and humiliating situations. Not sexual, but erotic for me as it triggers my fetishes, and definitely intimate and degrading. I explore this interest with some of my own fictional characters. But I recently crossed the line of exploring the use of reference images of real people to keep the character consistent. I know about the ethical, moral, and weird concerns. I'm aware of the unconscious harm I can do as I fetishize these people, and I'm aware I can be a creep who's walking in a gray area. It could be a vast psychological subject about how I fetishize a person, or a weird parasocial relationship with them, as a consolation or imaginary shelter, imagining a relation that will in all likelihood never exist. I may just be very badly coping with this parasocial relationship. I know everything stays completely private. I downloaded locally, I'm generally confident about confidentiality on these websites, I never shared. But lately I've been second-guessing whether this is okay, even if no one ever sees it. I just deactivated the Data Retention option on Genspark and I don't know what it actually does. Does it keep my generated data completely private, not even stored on the servers? I thought it was activated by default, and I just shut it off. Platforms store images on public servers with accessible URLs, deleting conversation history doesn't actually wipe the images, and deepfake laws are evolving fast. Some juridictions are cracking down on non-consensual AI content even if it's not sexual. I'm in France and on this matter, the laws are mainly UE laws. For you, and maybe for people who are doing similar things on AI in servers instead of running it locally, does a purely private use still cross a line ? And privacy-wise, should I actually worry about platforms reviewing flagged images, reporting problematic content, or data breaches exposing everything ? Is there a reason anyone could individually report any image and share it for ethical or legal concerns ? My content is not illegal nor flagged. It could just be really problematic if accidentally discovered, a risk that may be very low. However, I'm leaning toward ditching real faces and sticking to purely fictional characters. But part of me wonders if I'm overthinking this as it's likeky that nothing ever gets shared and no one finds out. Anyone else navigating this gray area, how do you think about it ?
 
-19h ago
+20h ago
 
 ---
 
@@ -135,7 +135,7 @@ Anthropic • 1d ago
 
 Cybersecurity experts say that U.S. Immigration and Customs Enforcement seems to be indifferent to how their artificial intelligence tools work.
 
-Rolling Stone • 50m ago
+Rolling Stone • 1h ago
 
 ---
 
@@ -143,7 +143,7 @@ Rolling Stone • 50m ago
 
 Lesser-known artificial intelligence (AI) stocks may end up delivering superior returns, too.
 
-The Motley Fool • 47m ago
+The Motley Fool • 1h ago
 
 ---
 
@@ -151,7 +151,7 @@ The Motley Fool • 47m ago
 
 As generative music tools surge, China turns to state oversight while the US relies on courts, copyright suits and settlements.
 
-South China Morning Post • 50m ago
+South China Morning Post • 1h ago
 
 ---
 
@@ -173,7 +173,7 @@ Fortune • 1d ago
 
 The team for the six-wheeled scientist used a vision-capable AI to create a safe route over the Red Planet’s surface without the input of human route planners.
 
-NASA Jet Propulsion Laboratory (JPL) (.gov) • 18h ago
+NASA Jet Propulsion Laboratory (JPL) (.gov) • 19h ago
 
 ---
 
@@ -187,7 +187,7 @@ Forbes • 13h ago
 
 Launched Wednesday, Moltbook has already sparked fascination in the AI community as advanced bots — agents — converse. Its creator says an AI is in charge.
 
-NBC News • 16h ago
+NBC News • 17h ago
 
 ---
 
@@ -263,7 +263,7 @@ The rise of LLMs as a useful development tool over the last year or so has been 
 
 New York mayor says terminating the ‘unusable’ bot will help close a budget gap
 
-⬆️ 168 • 💬 58 • 20h ago • [themarkup.org](https://themarkup.org/artificial-intelligence/2026/01/30/mamdani-to-kill-the-nyc-ai-chatbot-we-caught-telling-businesses-to-break-the-law)
+⬆️ 168 • 💬 58 • 21h ago • [themarkup.org](https://themarkup.org/artificial-intelligence/2026/01/30/mamdani-to-kill-the-nyc-ai-chatbot-we-caught-telling-businesses-to-break-the-law)
 
 ---
 
@@ -285,7 +285,7 @@ Create AI Music Videos with OpenArt https://www.openart.ai/home/?ref=isa-27 In t
 
 📺 Isa does AI
 
-👁️ 4K • 💬 2 • ⏱️ 10:25 • 1h ago
+👁️ 4K • 💬 2 • ⏱️ 10:25 • 2h ago
 
 ---
 
@@ -335,7 +335,7 @@ Here's the news you probably missed this week. If you want to transform your sit
 
 📺 Matt Wolfe
 
-👁️ 39K • 👍 2K • 💬 117 • ⏱️ 30:47 • 20h ago
+👁️ 39K • 👍 2K • 💬 117 • ⏱️ 30:47 • 21h ago
 
 ---
 
@@ -375,7 +375,7 @@ GET MY FREE GUIDE: *The Content Creator's AI Blueprint: From 25 Hours to 5 Minut
 
 📺 Julia McCoy
 
-👁️ 85K • 👍 4K • 💬 636 • ⏱️ 9:49 • 1d ago
+👁️ 85K • 👍 4K • 💬 636 • ⏱️ 9:49 • 2d ago
 
 ---
 
@@ -391,7 +391,7 @@ Kimi K2.5 is a native multimodal agentic model with 1T parameters, excelling in 
 
 `image-text-to-text`
 
-⬇️ 32,430 • ❤️ 1,263 • 13h ago
+⬇️ 32,430 • ❤️ 1,263 • 14h ago
 
 ---
 
@@ -679,7 +679,7 @@ LLM驱动的 A/H/美股智能分析器，多数据源行情 + 实时新闻 + Gem
 
 `Python` `agent` `ai` `aigc` `gemini` `llm`
 
-⭐ 8.2k • 🔱 8.6k • 25m ago
+⭐ 8.2k • 🔱 8.6k • 59m ago
 
 ---
 
@@ -689,7 +689,7 @@ LLM驱动的 A/H/美股智能分析器，多数据源行情 + 实时新闻 + Gem
 
 `Vue`
 
-⭐ 6.8k • 🔱 1.2k • 1h ago
+⭐ 6.8k • 🔱 1.2k • 2h ago
 
 ---
 
@@ -737,7 +737,7 @@ Remove AI features, telemetry data reporting, sponsored content, product integra
 
 `Shell` `chrome` `firefox` `google-chrome` `linux` `macos`
 
-⭐ 1.9k • 🔱 54 • 21h ago
+⭐ 1.9k • 🔱 54 • 22h ago
 
 ---
 
