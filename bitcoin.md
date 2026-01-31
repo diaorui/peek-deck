@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-01-31T04:15:40.308387+00:00'
+updated: '2026-01-31T05:23:26.868011+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- social
-- news
-- videos
 - cryptocurrency
+- videos
+- news
+- social
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** January 31, 2026 at 04:15 UTC  
+**Last Updated:** January 31, 2026 at 05:23 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -44,11 +44,11 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Chart
 
-**24h:** +1.3%  
-**7d:** -3.0%  
-**30d:** -6.5%  
+**24h:** +1.7%  
+**7d:** -3.1%  
+**30d:** -6.6%  
 **90d:** -21.0%  
-**1y:** -16.4%  
+**1y:** -16.5%  
 
 ---
 
@@ -79,7 +79,7 @@ Rank #1
 
 **[Buying the dip.](https://www.reddit.com/r/Bitcoin/comments/1qrkz13/buying_the_dip/)**
 
-5h ago
+6h ago
 
 ---
 
@@ -87,7 +87,7 @@ Rank #1
 
 Watching good will hunting tonight
 
-3h ago
+4h ago
 
 ---
 
@@ -95,33 +95,25 @@ Watching good will hunting tonight
 
 The deal will be too good to pass at that point.
 
-11h ago
+13h ago
 
 ---
 
 **[Time for something less volatile](https://www.reddit.com/r/Bitcoin/comments/1qrmwm4/time_for_something_less_volatile/)**
 
-3h ago
+5h ago
 
 ---
 
 **[Sliver people acting like it’s such a volatile asset. LMAO](https://www.reddit.com/r/Bitcoin/comments/1qriea6/sliver_people_acting_like_its_such_a_volatile/)**
 
-6h ago
+8h ago
 
 ---
 
-**[Pack yo bags — bullish for BTC. Who's locking in with me ?](https://www.reddit.com/r/Bitcoin/comments/1qr6uah/pack_yo_bags_bullish_for_btc_whos_locking_in_with/)**
+**["...But Bitcoin is too volatile!"](https://www.reddit.com/r/Bitcoin/comments/1qrtc99/but_bitcoin_is_too_volatile/)**
 
-13h ago
-
----
-
-**[Once again...](https://www.reddit.com/r/Bitcoin/comments/1qr5rn7/once_again/)**
-
-I wish I had more liquidity!
-
-14h ago
+14m ago
 
 ---
 
@@ -129,13 +121,15 @@ I wish I had more liquidity!
 
 If you tell your closest friends and relatives that you made money with bitcoin, their initial reaction will be to doubt and hate, because that is human nature.. Then by extension that means they will doubt and hate on bitcoin itself. For every person you tell about your bitcoin gains you will create twice as many bitcoin haters, because 99.9% of people hate seeing other people more successful than them.
 
-5h ago
+6h ago
 
 ---
 
-**[Soo, who all is buying?](https://www.reddit.com/r/Bitcoin/comments/1qr6njb/soo_who_all_is_buying/)**
+**[Once again...](https://www.reddit.com/r/Bitcoin/comments/1qr5rn7/once_again/)**
 
-13h ago
+I wish I had more liquidity!
+
+15h ago
 
 ---
 
@@ -143,7 +137,13 @@ If you tell your closest friends and relatives that you made money with bitcoin,
 
 Why are people so worried about the price now? It’s almost guaranteed to hit a new ath in the future.. but when is the question. This year? in 3 years? in 5 years? Anyway it will. DCA AND HODL
 
-4h ago
+5h ago
+
+---
+
+**[Soo, who all is buying?](https://www.reddit.com/r/Bitcoin/comments/1qr6njb/soo_who_all_is_buying/)**
+
+15h ago
 
 ---
 
@@ -155,7 +155,7 @@ Why are people so worried about the price now? It’s almost guaranteed to hit a
 
 Any deal involving SpaceX and Tesla would quietly consolidate one of the world’s largest corporate bitcoin holdings under a single roof.
 
-CoinDesk • 4h ago
+CoinDesk • 5h ago
 
 ---
 
@@ -163,7 +163,7 @@ CoinDesk • 4h ago
 
 How low can Bitcoin go?
 
-Mashable • 11h ago
+Mashable • 12h ago
 
 ---
 
@@ -171,7 +171,7 @@ Mashable • 11h ago
 
 Indeed, since the JPMorgan report was published on Wednesday, both silver and gold have pulled back from recent highs.
 
-The Block • 8h ago
+The Block • 9h ago
 
 ---
 
@@ -179,7 +179,7 @@ The Block • 8h ago
 
 Warsh has praised bitcoin as a tool to guide policy, not as a competitor to the dollar.
 
-Yahoo Finance • 13h ago
+Yahoo Finance • 14h ago
 
 ---
 
@@ -187,15 +187,37 @@ Yahoo Finance • 13h ago
 
 Tennessee lawmakers are considering a bill that would allow the state to invest up to 10% of certain public funds in bitcoin.
 
-Bitcoin Magazine • 6h ago
+Bitcoin Magazine • 7h ago
 
 ---
 
-**[Largest crypto exchange announces surprising plan after Bitcoin crashes](https://www.thestreet.com/crypto/markets/largest-crypto-exchange-announces-surprising-plan-after-bitcoin-crashes)**
+**[Bitcoin, XRP, Ethereum Fall on News of Kevin Warsh Fed Appointment.](https://www.barrons.com/articles/bitcoin-xrp-ethereum-crypto-today-954298d9?gaa_at=eafs&gaa_n=AWEtsqfkggR4IkO1Pit7KUnYSJ2Ly-dan0X5CyPKmPywYLUALQvOQXQ72LFU&gaa_ts=697d9539&gaa_sig=UXLoIl-iV_TYpCLUBYwj8N_WYLlB276rSkiizdnyaZ28E56fuN52VVXg_5XnQjX8KO1hlXwIKayr-0vFH6BgyQ%3D%3D)**
 
-Binance has a new Bitcoin floor plan.
+Barron's • 11h ago
 
-thestreet.com • 15h ago
+---
+
+**[The gold and silver bubbles may have popped; what it means for bitcoin (BTC)](https://www.coindesk.com/markets/2026/01/30/precious-metals-crash-with-silver-plunging-32-gold-11-bitcoin-slips-back-to-usd82-000)**
+
+Crypto bulls who have theorized that bitcoin can't begin rising until money flows out of red-hot precious metals are about to find out if they were correct.
+
+CoinDesk • 10h ago
+
+---
+
+**[Bitcoin’s freefall approaches $80,000 as precious metals also tank](https://fortune.com/2026/01/30/bitcoin-price-today-ethereum-gold-silver-platinum-copper/)**
+
+The world’s largest cryptocurrency is down 2% over the past day while gold and silver have dropped 11% and 30%, respectively.
+
+Fortune • 10h ago
+
+---
+
+**[Why Gold is Rallying and Bitcoin Isn’t](https://finance.yahoo.com/news/why-gold-rallying-bitcoin-isn-153600430.html)**
+
+For years, Bitcoin has been championed as “digital gold” — with ardent believers arguing it’s far superior to the precious metal. Unfortunately, it seems the market disagrees.Gold’s extraordinary bull run shows no sign of slowing down. It’s surged by 25% over the past month, 66% over the past six months, ...
+
+Yahoo Finance • 1d ago
 
 ---
 
@@ -203,31 +225,7 @@ thestreet.com • 15h ago
 
 Binance announced that it will turn its $1 billion SAFU fund into bitcoin over the next 30 days to support the industry through uncertainty.
 
-The Block • 20h ago
-
----
-
-**[Binance to shift $1 billion user protection fund into bitcoin amid market rout](https://www.coindesk.com/markets/2026/01/30/binance-is-shifting-its-user-security-fund-from-stablecoins-to-bitcoin)**
-
-Binance will convert the stablecoin holdings in its $1 billion Secure Asset Fund for Users to bitcoin over the next 30 days, with plans for regular audits.
-
-CoinDesk • 21h ago
-
----
-
-**[Binance To Move $1B SAFU Fund Into Bitcoin](https://bitbo.io/news/binance-safu-bitcoin-conversion/)**
-
-Binance says it will convert its $1 billion SAFU user protection fund from stablecoins into bitcoin within 30 days and top it up if its value falls below $800 million.
-
-Bitbo • 17h ago
-
----
-
-**[Bitcoin ETFs Shed $817M as BTC Hits Nine-Month Low](https://decrypt.co/356458/bitcoin-etfs-shed-817m-as-btc-hits-nine-month-low)**
-
-Bitcoin’s crash to a nine-month low, coupled with growing uncertainty about macroeconomic policy, catalyzed $817 million in ETF outflows.
-
-Decrypt • 16h ago
+The Block • 21h ago
 
 ---
 
@@ -253,7 +251,7 @@ A list of known attacks against Bitcoin / crypto asset owning entities that occu
 
 **[Bitcoin's Quantum Computing Threat](https://news.ycombinator.com/item?id=46824834)**
 
-⬆️ 1 • 💬 0 • 13h ago • [bmpro.substack.com](https://bmpro.substack.com/p/bitcoins-quantum-computing-threat)
+⬆️ 1 • 💬 0 • 14h ago • [bmpro.substack.com](https://bmpro.substack.com/p/bitcoins-quantum-computing-threat)
 
 ---
 
@@ -261,7 +259,7 @@ A list of known attacks against Bitcoin / crypto asset owning entities that occu
 
 Examine why the Binance SAFU fund debate keeps resurfacing, how stablecoins signal safety, and why Bitcoin continues to dominate trust conversations.
 
-⬆️ 1 • 💬 0 • 19h ago • [Altcoin Desk](https://altcoindesk.com/perspectives/1b-binance-safu-fund-if-stablecoins-mean-safety-why-do-bitcoin-returns/article-22752/)
+⬆️ 1 • 💬 0 • 20h ago • [Altcoin Desk](https://altcoindesk.com/perspectives/1b-binance-safu-fund-if-stablecoins-mean-safety-why-do-bitcoin-returns/article-22752/)
 
 ---
 
@@ -299,7 +297,7 @@ Transform HN comment threads into executive intelligence. AI analyzes discussion
 
 20 years of Hacker News analyzed. 40M comments. 10,000 topics. What the tech community really thinks.
 
-⬆️ 3 • 💬 0 • 12h ago • [HN Zeitgeist](https://hn.mrzepa.com/)
+⬆️ 3 • 💬 0 • 13h ago • [HN Zeitgeist](https://hn.mrzepa.com/)
 
 ---
 
@@ -319,7 +317,7 @@ Bitwise Chief Investment Officer, Matt Hougan joins CoinDesk's Markets Outlook w
 
 📺 CoinDesk
 
-👁️ 5K • 👍 179 • 💬 16 • ⏱️ 26:03 • 9h ago
+👁️ 5K • 👍 179 • 💬 16 • ⏱️ 26:03 • 10h ago
 
 ---
 
@@ -329,7 +327,7 @@ Central banks are selling Treasuries and hoarding gold at record levels as trust
 
 📺 Swan Bitcoin
 
-👁️ 21K • 👍 1K • 💬 172 • ⏱️ 14:55 • 14h ago
+👁️ 21K • 👍 1K • 💬 172 • ⏱️ 14:55 • 15h ago
 
 ---
 
@@ -339,7 +337,7 @@ CRYPTO CRISIS AVOIDED?! BREAKING CRYPTO NEWS TODAY! ⭐️ AUSTIN'S STOCK CHANNE
 
 📺 Austin Hilton
 
-👁️ 11K • 👍 753 • 💬 39 • ⏱️ 5:28 • 12h ago
+👁️ 11K • 👍 753 • 💬 39 • ⏱️ 5:28 • 13h ago
 
 ---
 
@@ -349,7 +347,7 @@ Bitcoin just took a massive hit, sliding toward the $81000 mark as markets diges
 
 📺 Discover Crypto
 
-👁️ 8K • 👍 418 • 💬 30 • ⏱️ 1:14:36 • 11h ago
+👁️ 8K • 👍 418 • 💬 30 • ⏱️ 1:14:36 • 12h ago
 
 ---
 
@@ -409,7 +407,7 @@ Donald Trump chooses Kevin Warsh as his pick for the Federal Reserve Chair. The 
 
 📺 Digital Asset News
 
-👁️ 6K • 👍 542 • 💬 61 • ⏱️ 21:17 • 12h ago
+👁️ 6K • 👍 542 • 💬 61 • ⏱️ 21:17 • 13h ago
 
 ---
 
