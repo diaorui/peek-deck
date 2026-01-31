@@ -3,14 +3,14 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-01-31T18:35:01.711722+00:00'
+updated: '2026-01-31T19:21:20.691872+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- videos
-- social
 - news
+- social
+- videos
 - cryptocurrency
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** January 31, 2026 at 18:35 UTC  
+**Last Updated:** January 31, 2026 at 19:21 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -81,7 +81,7 @@ Rank #1
 
 I'm not wasting these cheap stacks. HODL and BUY!
 
-52m ago
+1h ago
 
 ---
 
@@ -95,7 +95,7 @@ I'm not wasting these cheap stacks. HODL and BUY!
 
 The world is going through some shit right now...but just know that eventually, everything's going to be ok. The aftermath might be a little hard to stomach, but we'll get through it. In the meantime...don't miss the chance to stack sats at every drop. You never know which one will be the bottom, but buy a bit at every new low and thank me later.
 
-3h ago
+4h ago
 
 ---
 
@@ -103,7 +103,7 @@ The world is going through some shit right now...but just know that eventually, 
 
 I'm scared, not because I don't trust Bitcoin, but because I used my BTC and altcoins to back up a loan, which I used to buy more Bitcoin and altcoins. The problem is, I had my entire altcoin portfolio on Binance, and I liquidated it on October 10th. Now I only have BTC left, and if it drops below 80, I'll be wiped out. All my effort and sacrifice of six years will have been for nothing. I know many will say it's wrong and that I was greedy, but I'm someone who has worked hard for as long as I can remember. When I reached adulthood, I got fed up with that life. Now I don't know what to do, but I don't have the strength to continue. I know Bitcoin is the future, but I no longer see a good future for myself, and I don't have the strength to start from scratch.
 
-4h ago
+5h ago
 
 ---
 
@@ -111,7 +111,7 @@ I'm scared, not because I don't trust Bitcoin, but because I used my BTC and alt
 
 Watching good will hunting tonight
 
-17h ago
+18h ago
 
 ---
 
@@ -125,13 +125,13 @@ Watching good will hunting tonight
 
 My node analytics captured a large liquidation event this morning. Roughly $120M in realized losses came from positions established within the last ~3 months, with nearly 20,000 BTC transferring to counterparties during the unwind. This is classic leverage behavior being resolved... not long-term capital exiting the market. Notably, older age bands remain largely inactive. Long-term holders are not distributing into this move; they are waiting, as they typically do, while short-duration leverage clears. When price action is driven primarily by derivatives, forced selling, and liquidity hunting, history shows it tends to be temporary. Once the excess leverage is flushed and fear-driven flows subside, price reverts back to being governed by spot demand and accumulation. The rise of ETFs and derivatives has compressed these cycles into shorter timeframes, increasing volatility... but also making liquidation events like this easier to observe in real time. Smart money isn’t reacting here. It’s absorbing. Fascinating to watch these play out in real time.
 
-3h ago
+4h ago
 
 ---
 
 **[Buying the dip.](https://www.reddit.com/r/Bitcoin/comments/1qrkz13/buying_the_dip/)**
 
-19h ago
+20h ago
 
 ---
 
@@ -139,7 +139,7 @@ My node analytics captured a large liquidation event this morning. Roughly $120M
 
 I never consider it a real dip unless it keeps dipping beyond the paycheck deposit, otherwise it’s just an empty promise
 
-58m ago
+1h ago
 
 ---
 
@@ -147,7 +147,7 @@ I never consider it a real dip unless it keeps dipping beyond the paycheck depos
 
 I just bought the dip and officially crossed the 0.1 BTC mark. It’s been a long journey of stacking sats, and it feels incredible to finally hit this milestone. Now that my stack is growing, I know I need to get my coins off the exchanges. I’ve had a Trezor Model T sitting in its box for months, but I haven't set it up yet. I’m feeling a bit of transfer anxiety. I’m terrified of making a mistake during the process and losing my hard-earned BTC. I’ve also seen some talk about the Model T not being as secure as newer models. For those of you who have been through this: Is the Model T still considered solid for a 0.1 BTC stack, or should I upgrade before moving? What are your best tips for a first-time hardware wallet user to ensure I don't mess up the transfer? I’m planning to do a small test transaction first, but any advice to calm the nerves would be much appreciated!
 
-8h ago
+9h ago
 
 ---
 
@@ -173,7 +173,7 @@ Reuters • 1d ago
 
 Warsh, a former central bank governor with deep establishment ties, has recently aligned with Trump’s push for lower rates.  Instead, a risk-off tone lingered over markets as the Warsh news circulated: stock fell and the dollar traded just off four-year lows.  With Bitcoin now down more than 30% from its October peak — and US spot ETFs posting their longest streak of monthly outflows since launching — traders appear unconvinced that either macro or policy signals offer much near-term relief.
 
-Yahoo Finance • 20h ago
+Yahoo Finance • 21h ago
 
 ---
 
@@ -187,7 +187,7 @@ Barron's • 1d ago
 
 Bitcoin (CRYPTO: BTC) exchange-traded funds (ETFs) experienced a substantial one-day reversal last week. Investors pulled out nearly $818 million as Bitcoin’s price plummeted to a nine-month low. Data indicated that Bitcoin ETFs registered net daily outflows of $817.87 million on January 29. This pushed January into an overall negative zone. However, the cumulative net inflows since the inception of Bitcoin ETFs remained significant at $55.52 billion. The largest product by assets, BlackRock’s i
 
-Yahoo Finance Singapore • 48m ago
+Yahoo Finance Singapore • 1h ago
 
 ---
 
@@ -195,7 +195,7 @@ Yahoo Finance Singapore • 48m ago
 
 In the wake of a significant drop in gold and silver prices, Binance founder Changpeng Zhao has offered his insights on the future of Bitcoin (CRYPTO: BTC). On Friday, gold and silver saw a drastic decrease in their prices, with gold plummeting by approximately 15% and silver by nearly 38%. This resulted in a loss of around $15 trillion in combined market value. This unexpected price drop, referred to as a “black swan” event, has ignited conversations within the crypto community, with many specu
 
-Yahoo Finance UK • 3m ago
+Yahoo Finance UK • 50m ago
 
 ---
 
@@ -203,7 +203,7 @@ Yahoo Finance UK • 3m ago
 
 Indeed, since the JPMorgan report was published on Wednesday, both silver and gold have pulled back from recent highs.
 
-The Block • 22h ago
+The Block • 23h ago
 
 ---
 
@@ -211,7 +211,7 @@ The Block • 22h ago
 
 Based on its monster past performance, it makes sense why investors are interested in Bitcoin.
 
-The Motley Fool • 6h ago
+The Motley Fool • 7h ago
 
 ---
 
@@ -225,7 +225,7 @@ Barron's • 1d ago
 
 Plan B Network has launched CypherTank, a global Bitcoin-focused pitch series that spotlights builders, ideas, and community discussion across multiple platforms.
 
-Bitcoin Magazine • 20h ago
+Bitcoin Magazine • 21h ago
 
 ---
 
@@ -251,7 +251,7 @@ Billionaire fugitive Roger Ver was facing federal criminal charges until he soug
 
 A list of known attacks against Bitcoin / crypto asset owning entities that occurred in meatspace. - jlopp/physical-bitcoin-attacks
 
-⬆️ 3 • 💬 0 • 3d ago • [GitHub](https://github.com/jlopp/physical-bitcoin-attacks)
+⬆️ 3 • 💬 0 • 4d ago • [GitHub](https://github.com/jlopp/physical-bitcoin-attacks)
 
 ---
 
@@ -347,7 +347,7 @@ Bitwise Chief Investment Officer, Matt Hougan joins CoinDesk's Markets Outlook w
 
 📺 CoinDesk
 
-👁️ 13K • 👍 353 • 💬 50 • ⏱️ 26:03 • 23h ago
+👁️ 13K • 👍 353 • 💬 50 • ⏱️ 26:03 • 1d ago
 
 ---
 
@@ -367,7 +367,7 @@ Why the Crypto Market Is Red (It s NOT the Reason You Think)! Breaking Crypto Ne
 
 📺 Austin Hilton
 
-👁️ 5K • 👍 454 • 💬 128 • ⏱️ 9:28 • 2h ago
+👁️ 5K • 👍 454 • 💬 128 • ⏱️ 9:28 • 3h ago
 
 ---
 
@@ -397,7 +397,7 @@ Crypto Just FLIPPED | NEW Fed Chair Bitcoin Plan (Fully Explained) ✓ Bitunix (
 
 📺 Altcoin Daily
 
-👁️ 49K • 👍 3K • 💬 296 • ⏱️ 8:25 • 19h ago
+👁️ 49K • 👍 3K • 💬 296 • ⏱️ 8:25 • 20h ago
 
 ---
 
