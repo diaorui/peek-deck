@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-01-31T17:28:02.151411+00:00'
+updated: '2026-01-31T17:51:03.799179+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- social
-- repositories
 - videos
 - news
+- repositories
+- social
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** January 31, 2026 at 17:28 UTC  
+**Last Updated:** January 31, 2026 at 17:51 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -47,7 +47,7 @@ AI coding tools are getting more sophisticated. But if coders stop coding, what 
 
 **[The $100 Billion Megadeal Between OpenAI and Nvidia Is on Ice](https://www.reddit.com/r/artificial/comments/1qrnq8u/the_100_billion_megadeal_between_openai_and/)**
 
-🔗 [wsj.com](https://www.wsj.com/tech/ai/the-100-billion-megadeal-between-openai-and-nvidia-is-on-ice-aa3025e3) • 16h ago
+🔗 [wsj.com](https://www.wsj.com/tech/ai/the-100-billion-megadeal-between-openai-and-nvidia-is-on-ice-aa3025e3) • 17h ago
 
 ---
 
@@ -55,7 +55,7 @@ AI coding tools are getting more sophisticated. But if coders stop coding, what 
 
 For years, the gold standard in AI was "hoard everything, sort it later." But as we move into 2026, I’m seeing this strategy backfire for dozens of companies. In my recent audits at the lab, I’ve seen CTOs burning $10k-$15k monthly on cloud storage for "radioactive" datasets—logs and clicks from 2022 that add zero value to modern reasoning models. The 2026 Reality: The Compliance Wall: Under the EU AI Act, every byte of data you keep is a liability. Inference Noise: Overloaded data lakes are causing AI agents to hallucinate and slow down. The Carbon Tax: Storage isn't just a cost anymore; it’s a regulatory burden. We recently implemented a Data Minimization Audit for a client, deleting 70% of their legacy data. The result? Faster inference speeds and 100% compliance with ISO/IEC 42001. Efficiency is the new "Big Data." If you aren't pruning your datasets, you aren't building for the future; you're just paying a massive "Storage Tax." Are you guys still hoarding for "potential" future use, or have you started the great data purge? (Just finished a deep dive on the technical framework for this audit. Linked it in the comments for those interested in the compliance roadmap.)
 
-37m ago
+1h ago
 
 ---
 
@@ -127,7 +127,7 @@ Ars Technica • 19h ago
 
 **[Exclusive | The $100 Billion Megadeal Between OpenAI and Nvidia Is on Ice - WSJ](https://www.wsj.com/tech/ai/the-100-billion-megadeal-between-openai-and-nvidia-is-on-ice-aa3025e3?gaa_at=eafs&gaa_n=AWEtsqfNJLKHlAgWuJU3AO6efh-5Tg5M8ERxiwBiiAg4S1ihQuOXGML7VeNs&gaa_ts=697e37dc&gaa_sig=a3tQGQtKmxxltwtbRnCrZzpusTNt7vn4-nCR_y3piWmKPY6QYT5UkqgkXPdmNl2xwhZhvObRCdPxnK9dOAtrjw%3D%3D)**
 
-The Wall Street Journal • 17h ago
+The Wall Street Journal • 18h ago
 
 ---
 
@@ -151,7 +151,7 @@ Nasdaq • 8h ago
 
 AMD outperformed in 2025, but can it become the AI winner in 2026? Here are some key numbers, growth projections, and Wall Street expectations to consider.
 
-The Motley Fool • 1h ago
+The Motley Fool • 2h ago
 
 ---
 
@@ -159,7 +159,7 @@ The Motley Fool • 1h ago
 
 Apple's iPhones are getting stung by the global memory shortage.
 
-Yahoo Finance • 57m ago
+Yahoo Finance • 1h ago
 
 ---
 
@@ -305,7 +305,7 @@ In this video, I break down the 14 best AI tools that actually hold up after mon
 
 📺 Parker Prompts
 
-👁️ 7K • 💬 15 • ⏱️ 11:46 • 3h ago
+👁️ 7K • 💬 15 • ⏱️ 11:46 • 4h ago
 
 ---
 
@@ -315,7 +315,7 @@ AI agents now have their own social network called Moltbook, and it's absolute c
 
 📺 Universe of AI
 
-👁️ 11K • 👍 374 • 💬 107 • ⏱️ 8:45 • 16h ago
+👁️ 11K • 👍 374 • 💬 107 • ⏱️ 8:45 • 17h ago
 
 ---
 
@@ -699,7 +699,7 @@ The Ultimate Collection of 500+ Agentic Skills for Claude Code/Antigravity/Curso
 
 `Python` `agentic-skills` `ai-agents` `antigravity` `autonomous-coding` `claude-code`
 
-⭐ 5.8k • 🔱 1.3k • 9h ago
+⭐ 5.8k • 🔱 1.3k • 10h ago
 
 ---
 

@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-01-31T17:28:02.159807+00:00'
+updated: '2026-01-31T17:51:03.807802+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- social
-- cryptocurrency
 - videos
 - news
+- social
+- cryptocurrency
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** January 31, 2026 at 17:28 UTC  
+**Last Updated:** January 31, 2026 at 17:51 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -125,7 +125,7 @@ My node analytics captured a large liquidation event this morning. Roughly $120M
 
 I just bought the dip and officially crossed the 0.1 BTC mark. It’s been a long journey of stacking sats, and it feels incredible to finally hit this milestone. Now that my stack is growing, I know I need to get my coins off the exchanges. I’ve had a Trezor Model T sitting in its box for months, but I haven't set it up yet. I’m feeling a bit of transfer anxiety. I’m terrified of making a mistake during the process and losing my hard-earned BTC. I’ve also seen some talk about the Model T not being as secure as newer models. For those of you who have been through this: Is the Model T still considered solid for a 0.1 BTC stack, or should I upgrade before moving? What are your best tips for a first-time hardware wallet user to ensure I don't mess up the transfer? I’m planning to do a small test transaction first, but any advice to calm the nerves would be much appreciated!
 
-7h ago
+8h ago
 
 ---
 
@@ -145,7 +145,7 @@ The deal will be too good to pass at that point.
 
 **[Nearly $560M liquidated from the crypto market in the past 24H](https://www.reddit.com/r/Bitcoin/comments/1qs1gho/nearly_560m_liquidated_from_the_crypto_market_in/)**
 
-4h ago
+5h ago
 
 ---
 
@@ -157,7 +157,7 @@ The deal will be too good to pass at that point.
 
 Bitcoin slid toward $81,000 on Saturday as thin weekend liquidity magnified selling pressure, with traders pointing to Middle East tensions, U.S. political risk and lingering crypto-specific uncertainty.
 
-CoinDesk • 2h ago
+CoinDesk • 3h ago
 
 ---
 
@@ -181,7 +181,7 @@ Yahoo Finance • 1h ago
 
 Ether, solana and XRP led losses across crypto as a wave of long liquidations swept futures markets, showing stress spreading beyond bitcoin during weekend trading.
 
-CoinDesk • 1h ago
+CoinDesk • 2h ago
 
 ---
 
@@ -203,7 +203,7 @@ Barron's • 1d ago
 
 The world’s largest cryptocurrency is down 2% over the past day while gold and silver have dropped 11% and 30%, respectively.
 
-Fortune • 22h ago
+Fortune • 23h ago
 
 ---
 
@@ -255,7 +255,7 @@ A list of known attacks against Bitcoin / crypto asset owning entities that occu
 
 PoW + EVM cryptocurrency. 21M fixed supply, fair launch, no team, no foundation. Just code. - lumenyx-chain/lumenyx
 
-⬆️ 1 • 💬 0 • 4h ago • [GitHub](https://github.com/lumenyx-chain/lumenyx)
+⬆️ 1 • 💬 0 • 5h ago • [GitHub](https://github.com/lumenyx-chain/lumenyx)
 
 ---
 
@@ -321,7 +321,7 @@ Gold is absorbing sovereign capital while Bitcoin struggles — and that's exact
 
 📺 Savvy Finance
 
-👁️ 10K • 👍 409 • 💬 32 • ⏱️ 19:18 • 18h ago
+👁️ 10K • 👍 409 • 💬 32 • ⏱️ 19:18 • 19h ago
 
 ---
 
@@ -351,7 +351,7 @@ BYBIT: http://themoon.co/Bybit 10% DISCOUNT & $30000 BONUS BloFin: https://themo
 
 📺 The Moon Show
 
-👁️ 13K • 👍 814 • 💬 94 • ⏱️ 6:54 • 7h ago
+👁️ 13K • 👍 814 • 💬 94 • ⏱️ 6:54 • 8h ago
 
 ---
 
@@ -361,7 +361,7 @@ Crypto Just FLIPPED | NEW Fed Chair Bitcoin Plan (Fully Explained) ✓ Bitunix (
 
 📺 Altcoin Daily
 
-👁️ 47K • 👍 3K • 💬 276 • ⏱️ 8:25 • 18h ago
+👁️ 47K • 👍 3K • 💬 276 • ⏱️ 8:25 • 19h ago
 
 ---
 
@@ -381,7 +381,7 @@ Join The Community: https://bit.ly/FefeCommunity FOLLOW FEFE FOR MORE ALPHA ON .
 
 📺 100XClub
 
-👁️ 15K • 👍 1K • 💬 304 • ⏱️ 28:55 • 23h ago
+👁️ 15K • 👍 1K • 💬 304 • ⏱️ 28:55 • 1d ago
 
 ---
 
