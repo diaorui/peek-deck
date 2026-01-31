@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-01-31T06:00:08.582519+00:00'
+updated: '2026-01-31T06:54:48.256645+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- videos
-- news
 - social
+- news
+- videos
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** January 31, 2026 at 06:00 UTC  
+**Last Updated:** January 31, 2026 at 06:54 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -36,7 +36,7 @@ Robotics research and industry news
 
 Hi everyone! I just picked up this Rethink Robotics Sawyer for $300. But it is incomplete, missing the last two joints and, more importantly, the controller unit. I'm investigating building my own controller and wanted to see if anyone here has experience with this? The biggest question I have right now is what the voltage is. I'm guessing 48V, but don't know that for sure. I'll probably also have tons of other questions as a move forward, so hoping that someone here will know something about these!
 
-4h ago
+5h ago
 
 ---
 
@@ -44,7 +44,15 @@ Hi everyone! I just picked up this Rethink Robotics Sawyer for $300. But it is i
 
 I’m building a humanoid robot from scratch and this is how it looks so far. The hand is finished, and i’m currently working on the torso.
 
-15h ago
+16h ago
+
+---
+
+**[6-DOF Robotic Arm with Arduino](https://www.reddit.com/r/robotics/comments/1qruali/6dof_robotic_arm_with_arduino/)**
+
+Wanted to share something we been working on for the past couple weeks. https://reddit.com/link/1qruali/video/kh9n7a6vhmgg1/player We built a 6-axis robotic arm using an Arduino UNO and some 3D printed parts. It has base rotation, shoulder, elbow, wrist movements and a gripper - so it basically moves like a tiny human arm. And we also made a simple web dashboard to control it with sliders, so we can record movements and play them back. https://preview.redd.it/9lajowfagmgg1.jpg?width=750&format=pjpg&auto=webp&s=eccc351d281c69f352ea552dde0b14c9a89df919 Ran into the usual beginner issues - jittery servos from low power, servos moving the wrong direction because I didn't align the horns properly, so on. But we learn a lot from this project 3D printing to fitting the parts to calibration. This simple Arduino Robotic Arm designed for pick-and-place tasks but right now it's just picking up my desk clutter and putting it back down in the same spot. Anyone else built something similar? Would love to hear what you used in your build or any tips for improvements are welcome.
+
+57m ago
 
 ---
 
@@ -52,7 +60,7 @@ I’m building a humanoid robot from scratch and this is how it looks so far. Th
 
 Setup: 2 x Super-Beacons - a few meters away on the walls of the room - as stationary beacons emitting short ultrasound pulses 1 x Mini-RX as a mobile beacon in hands - receiving ultrasound pulses from the stationary beacons 1 x Modem as central controller of the system - connected by the white USB cable from the laptop - synchronizes the clocks between all elements, controls the telemetry, and the system overall The Dashboard on the computer doesn't calculate anything; it just displays the tracking. The location is calculated by the mobile beacon in hand and then streamed over USB to show on the display Inverse Architecture: https://marvelmind.com/pics/architectures_comparison.pdf
 
-23h ago
+1d ago
 
 ---
 
@@ -74,7 +82,7 @@ Ant Group released LingBot-VA, a VLA built on a different premise than most curr
 
 ROS News for the Week of January 25th, 2026                We have a ton of ROS and open source robotics events schedule for February and the tail end of January. This weekend is  FOSDEM which includes a new Robot Dev Room. Full list below in the events section.  Unrelated: Discourse released a new carousel feature for image grids. Learn more here.      This week @tnajjar merged a very nice UX upgrade for the ROS CLI: fuzzy finding! Now you can just type any part of a command string and see ever...
 
-🔗 [Open Robotics Discourse](https://discourse.openrobotics.org/t/ros-news-for-the-week-of-january-25th-2026/52232) • 8h ago
+🔗 [Open Robotics Discourse](https://discourse.openrobotics.org/t/ros-news-for-the-week-of-january-25th-2026/52232) • 9h ago
 
 ---
 
@@ -90,7 +98,7 @@ Figure AI has released the final data from their 11-month deployment at BMW's Sp
 
 Hi everyone 👋 I’m working on a small AGV robot and I’m currently stuck at the software side of path planning. I’d really appreciate some guidance or best practices from people who’ve done this before. My current setup AGV size: 250 × 250 mm Workspace: small indoor environment Overhead camera (fixed) AprilTags / ArUco tags placed on the floor Tag spacing: 0.5 meter Current grid: 7 × 6 = 42 tags Robot is detected using the center tag under the robot Goal (Stage 1 – very basic) For now, I don’t want to include obstacles. I want: User gives a start node and end node Robot computes the shortest path Robot follows that path physically I’ve decided to use the A* algorithm, but I’m confused about the input representation and data structure. Where I’m stuck How should I represent the environment? 2D grid array? Graph with nodes and edges? Tag IDs mapped to coordinates? How should I store values for A\* in this simple case? What should be the node value? How to define neighbors (up/down/left/right)? How to map real-world distances (0.5 m spacing) to cost? Is it better to: Use grid indices (row, col) and map them later to real coordinates? Or directly use real-world (x, y) coordinates? What I plan to add later Obstacles Dynamic path updates Possibly ROS integration But for now, I want to get the fundamentals right. If anyone has: Simple examples Pseudocode Suggestions on data structures Or advice on how you approached this in your own AGV projects I’d really appreciate it 🙏 Thanks in advance!
 
-15h ago
+16h ago
 
 ---
 
@@ -102,12 +110,6 @@ I've noticed that many of the labs and data collectors have been switching to YA
 
 ---
 
-**[NEMA17 stepper jitters and overheats when driven by DM542T + arduino](https://www.reddit.com/r/robotics/comments/1qr9d6j/nema17_stepper_jitters_and_overheats_when_driven/)**
-
-14h ago
-
----
-
 ---
 
 ## Google News: "robotics"
@@ -115,6 +117,14 @@ I've noticed that many of the labs and data collectors have been switching to YA
 **[Synthetic 'muscle' with microfluidic blood vessels shows promise for soft robotics](https://techxplore.com/news/2026-01-synthetic-muscle-microfluidic-blood-vessels.html)**
 
 Tech Xplore • 3d ago
+
+---
+
+**[Into the Omniverse: Physical AI Open Models and Frameworks Advance Robots and Autonomous Systems](https://blogs.nvidia.com/blog/physical-ai-open-models-robot-autonomous-systems-omniverse/)**
+
+By providing access to critical infrastructure — from simulation frameworks to AI models — NVIDIA is enabling collaborative development that accelerates the path to safer, more capable autonomous systems.
+
+NVIDIA Blog • 1d ago
 
 ---
 
@@ -134,25 +144,23 @@ The Guardian • 2d ago
 
 ---
 
-**[Tesla doubles spending with $20B AI and robotics push](https://finance.yahoo.com/news/tesla-doubles-spending-20b-ai-161254007.html)**
+**[Tesla to build 1 million Optimus robots per year at Fremont factory, Musk says](https://www.kron4.com/news/technology-ai/tesla-to-build-1-million-optimus-robots-per-year-at-fremont-factory-musk-says/)**
 
-Record investment marks a shift away from traditional EVs toward automation.
-
-Yahoo Finance • 1d ago
-
----
-
-**[Into the Omniverse: Physical AI Open Models and Frameworks Advance Robots and Autonomous Systems](https://blogs.nvidia.com/blog/physical-ai-open-models-robot-autonomous-systems-omniverse/)**
-
-By providing access to critical infrastructure — from simulation frameworks to AI models — NVIDIA is enabling collaborative development that accelerates the path to safer, more capable autonomous systems.
-
-NVIDIA Blog • 1d ago
+KRON4 • 1d ago
 
 ---
 
 **[Lightspeed Backs Robotics Startup in $100 Million Round](https://www.bloomberg.com/news/articles/2026-01-29/fiat-toyota-tycoons-back-startup-robco-in-100-million-round)**
 
-Bloomberg • 1d ago
+Bloomberg.com • 1d ago
+
+---
+
+**[Lake Stevens robotics team receives world recognition](https://www.heraldnet.com/news/lake-stevens-robotics-team-receives-world-recognition/)**
+
+Team Arsenic took second place at the recent ROBO-BASH in Bellingham, earning fifth place in the world.
+
+Everett Herald • 21h ago
 
 ---
 
@@ -170,19 +178,11 @@ Ondas Holdings • 2d ago
 
 ---
 
-**[Nuclear Energy Now – Russia Expands Its Use of Nuclear Robotics](https://nationalinterest.org/blog/energy-world/nuclear-energy-now-russia-expands-its-use-of-nuclear-robotics)**
+**[Tesla axes EV models in drive for robotics revenue](https://news.sky.com/story/tesla-axes-ev-models-in-drive-for-robotics-revenue-13500444)**
 
-South Korea keeps cuclear energy expansion on track, Russia expands its use of nuclear robotics, and Russia targets nuclear power for the Moon
+Investors liked what they heard about the future following the company's latest results, but Elon Musk is under huge pressure to deliver on his vision as a series of targets have been missed.
 
-The National Interest • 6h ago
-
----
-
-**[Lee calls on workers to swiftly adapt to 'unavoidable' AI robotics era](https://www.koreatimes.co.kr/southkorea/politics/20260129/lee-calls-on-workers-to-swiftly-adapt-to-unavoidable-ai-robotics-era)**
-
-President Lee Jae Myung said Thursday that workers must adapt swiftly to the era of artificial intelligence (AI), in an apparent message to Hyundai...
-
-The Korea Times • 1d ago
+Sky News • 1d ago
 
 ---
 
@@ -190,13 +190,33 @@ The Korea Times • 1d ago
 
 ## YouTube Videos: "robotics"
 
+**[The Next Robotics Boom Is Healthcare (3 Stocks to Watch)](https://www.youtube.com/watch?v=iMGDPSqvjiY)**
+
+Robotics stocks are gaining attention as healthcare technology continues to evolve, and stock market investors are paying ...
+
+📺 MarketBeat
+
+👁️ 8K • 👍 387 • 💬 16 • ⏱️ 16:59 • 7h ago
+
+---
+
 **[China rolls out robot cops in cities to push humanoid robots in daily life](https://www.youtube.com/watch?v=NavsugcHgAo)**
 
 China is deploying AI-powered robots to manage traffic and pedestrian flow in cities. NBC News' Janis Mackey Frayer explains ...
 
 📺 NBC News
 
-👁️ 214K • 👍 3K • 💬 1K • ⏱️ 3:13 • 1d ago
+👁️ 233K • 👍 3K • 💬 1K • ⏱️ 3:13 • 1d ago
+
+---
+
+**[Air Force Insider WARNS of Bio-Hybrid Robot Threat](https://www.youtube.com/watch?v=R3_R_8SVa5c)**
+
+In this video, we sit down with a former Air Force insider who is sounding the alarm on the rapid advancement of Bio-Hybrid ...
+
+📺 Elijah Zielke
+
+👁️ 1K • 👍 84 • 💬 6 • ⏱️ 10:27 • 6h ago
 
 ---
 
@@ -216,7 +236,7 @@ Last year, Helix showed that a single neural network could control a humanoid's 
 
 📺 Figure
 
-👁️ 196K • 👍 11K • 💬 2K • ⏱️ 3:37 • 3d ago
+👁️ 198K • 👍 11K • 💬 2K • ⏱️ 3:37 • 3d ago
 
 ---
 
@@ -230,53 +250,11 @@ Hyundai is planning to place 30000 humanoid robots in its factories. We talked t
 
 ---
 
-**[Meet Sprout: The Humanoid Robot Built for Real World Use](https://www.youtube.com/watch?v=4zMbX1OEOSE)**
+**[Drag-and-drop welding robot.#industrial #welding #robot #spraying #stamping](https://www.youtube.com/watch?v=b8vufpXa21Q)**
 
-This new humanoid robot is not about hype or flashy promises. Sprout is designed to work alongside people in real environments, ...
+📺 Borunte Robot Lin 
 
-📺 DPCcars
-
-👁️ 6K • 👍 89 • 💬 18 • ⏱️ 3:17 • 2d ago
-
----
-
-**[Tesla Fremont factory ending Model S/X manufacturing to begin Optimus robot production](https://www.youtube.com/watch?v=liF86L_EvKQ)**
-
-Andrea Nakano reports on the Tesla Fremont factory ending Model S/X production and using that part of the factory for mass ...
-
-📺 KPIX | CBS NEWS BAY AREA
-
-👁️ 52K • 👍 483 • 💬 282 • ⏱️ 4:36 • 1d ago
-
----
-
-**[Tesla CEO Elon Musk doubles down on robots](https://www.youtube.com/watch?v=B78RNAlYXLA)**
-
-Tesla's fourth quarter earnings topped analyst estimates. CEO Elon Musk is betting big on robotics and AI with plans to spend $20 ...
-
-📺 Yahoo Finance
-
-👁️ 10K • 👍 148 • 💬 30 • ⏱️ 12:20 • 1d ago
-
----
-
-**[Pacman Universe – Advanced Robotic Character Animation | StrEat](https://www.youtube.com/watch?v=dm57WnYor00)**
-
-Pacman Universe – Advanced Robotic Character Animation | StrEat Pacman Universe presents a new futuristic 3D animation.
-
-📺 StrEat
-
-👁️ 234K • 👍 450 • 3d ago
-
----
-
-**[How a Common Cow Transformed into a Powerful Robot | #factorworld #wavespeedai #hailuoai #robotcow](https://www.youtube.com/watch?v=4zN-1uejBgw)**
-
-How a Common Cow Transformed into a Powerful Robot | #factorworld #wavespeedai #hailuoai #robotcow #robotics ...
-
-📺 FACTOR WORLD
-
-👁️ 6K • 👍 79 • ⏱️ 1:31 • 2d ago
+👁️ 2K • 👍 8 • ⏱️ 0:22 • 5h ago
 
 ---
 
@@ -286,7 +264,27 @@ ObstacleAvoidance #ArduinoRobot #Robotics #TechReels #DIYProjects.
 
 📺 Roboarmy
 
-👁️ 2K • 👍 39 • 💬 1 • ⏱️ 0:20 • 12h ago
+👁️ 3K • 👍 54 • 💬 1 • ⏱️ 0:20 • 13h ago
+
+---
+
+**[This Giant Crab Robot Is Planting Crops | Farming Will Never Be the Same](https://www.youtube.com/watch?v=SeDsc1S-GjE)**
+
+A farmer operates a giant AI-powered crab robot that plants crops with extreme precision. This cinematic farming scene ...
+
+📺 UPENDRA KUMAR OFFICIAL 
+
+👁️ 2K • 👍 6 • ⏱️ 0:09 • 3h ago
+
+---
+
+**[Tesla Fremont factory ending Model S/X manufacturing to begin Optimus robot production](https://www.youtube.com/watch?v=liF86L_EvKQ)**
+
+Andrea Nakano reports on the Tesla Fremont factory ending Model S/X production and using that part of the factory for mass ...
+
+📺 KPIX | CBS NEWS BAY AREA
+
+👁️ 54K • 👍 496 • 💬 295 • ⏱️ 4:36 • 1d ago
 
 ---
 

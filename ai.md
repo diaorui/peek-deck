@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-01-31T06:00:08.564837+00:00'
+updated: '2026-01-31T06:54:48.239190+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- videos
 - repositories
-- news
 - social
+- news
+- videos
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** January 31, 2026 at 06:00 UTC  
+**Last Updated:** January 31, 2026 at 06:54 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -41,13 +41,13 @@ AI news, discussions, and developments
 
 AI coding tools are getting more sophisticated. But if coders stop coding, what happens to software development jobs?
 
-🔗 [Fortune](https://fortune.com/2026/01/29/100-percent-of-code-at-anthropic-and-openai-is-now-ai-written-boris-cherny-roon/) • 8h ago
+🔗 [Fortune](https://fortune.com/2026/01/29/100-percent-of-code-at-anthropic-and-openai-is-now-ai-written-boris-cherny-roon/) • 9h ago
 
 ---
 
 **[The $100 Billion Megadeal Between OpenAI and Nvidia Is on Ice](https://www.reddit.com/r/artificial/comments/1qrnq8u/the_100_billion_megadeal_between_openai_and/)**
 
-🔗 [wsj.com](https://www.wsj.com/tech/ai/the-100-billion-megadeal-between-openai-and-nvidia-is-on-ice-aa3025e3) • 5h ago
+🔗 [wsj.com](https://www.wsj.com/tech/ai/the-100-billion-megadeal-between-openai-and-nvidia-is-on-ice-aa3025e3) • 6h ago
 
 ---
 
@@ -55,13 +55,13 @@ AI coding tools are getting more sophisticated. But if coders stop coding, what 
 
 I’m seeing too many new devs use AI as an autopilot instead of a hint system. By skipping the "struggle phase", you’re missing out on building that essential debugging muscle. If you don't wrestle with the errors now, you’ll be clueless when things actually break later and there's no prompt to save you. AI is great for boilerplate, but don't let it rot your fundamentals. What do you guys think? Is AI making new devs "lazy" or just more efficient in this era?
 
-2h ago
+3h ago
 
 ---
 
 **[The debate over artificial intelligence and employment](https://www.reddit.com/r/artificial/comments/1qrb5dt/the_debate_over_artificial_intelligence_and/)**
 
-🔗 [technology.org](https://www.technology.org/2026/01/28/the-debate-over-artificial-intelligence-and-employment/) • 12h ago
+🔗 [technology.org](https://www.technology.org/2026/01/28/the-debate-over-artificial-intelligence-and-employment/) • 13h ago
 
 ---
 
@@ -69,7 +69,15 @@ I’m seeing too many new devs use AI as an autopilot instead of a hint system. 
 
 Chris Mason, the longtime Linux kernel developer most known for being the creator of Btrfs, has been working on a Git repository with AI review prompts he has been working on for LLM-assisted code review of Linux kernel patches
 
-🔗 [phoronix.com](https://www.phoronix.com/news/AI-Code-Review-Prompts-Linux) • 2h ago
+🔗 [phoronix.com](https://www.phoronix.com/news/AI-Code-Review-Prompts-Linux) • 3h ago
+
+---
+
+**[One-Minute Daily AI News 1/30/2026](https://www.reddit.com/r/artificial/comments/1qrtzzg/oneminute_daily_ai_news_1302026/)**
+
+OpenClaw’s AI assistants are now building their own social network.[1] DeepSeek AI Releases DeepSeek-OCR 2 with Causal Visual Flow Encoder for Layout Aware Document Understanding.[2] Video game company stock prices dip after Google introduces an AI world-generation tool.[3] AI model from Google’s DeepMind reads recipe for life in DNA.[4] Sources: [1] https://techcrunch.com/2026/01/30/openclaws-ai-assistants-are-now-building-their-own-social-network/ [2] https://www.marktechpost.com/2026/01/30/deepseek-ai-releases-deepseek-ocr-2-with-causal-visual-flow-encoder-for-layout-aware-document-understanding/ [3] https://www.theverge.com/games/871348/google-project-genie-take-two-roblox-unity [4] https://www.bbc.com/news/articles/c39428dv18yo
+
+1h ago
 
 ---
 
@@ -77,7 +85,7 @@ Chris Mason, the longtime Linux kernel developer most known for being the creato
 
 What is ONE thing AI has taken away from your life — and ONE thing it has improved? No theories. Only real experiences.
 
-1h ago
+2h ago
 
 ---
 
@@ -85,7 +93,7 @@ What is ONE thing AI has taken away from your life — and ONE thing it has impr
 
 Saw many people asking wtf is clawdbot/Moltbot/openclaw and even struggling to understand the basics. This learning hub covers it and make you understand it properly.
 
-🔗 [openclaw.army](http://openclaw.army/learn) • 4h ago
+🔗 [openclaw.army](http://openclaw.army/learn) • 5h ago
 
 ---
 
@@ -93,7 +101,7 @@ Saw many people asking wtf is clawdbot/Moltbot/openclaw and even struggling to u
 
 ByteDance, Alibaba and Tencent had been given permission to purchase more than 400,000 H200 chips in total.
 
-🔗 [thestandard.com.hk](https://www.thestandard.com.hk/china-news/article/323159/China-conditionally-approves-DeepSeek-to-buy-Nvidias-H200-chips) • 19h ago
+🔗 [thestandard.com.hk](https://www.thestandard.com.hk/china-news/article/323159/China-conditionally-approves-DeepSeek-to-buy-Nvidias-H200-chips) • 20h ago
 
 ---
 
@@ -101,15 +109,7 @@ ByteDance, Alibaba and Tencent had been given permission to purchase more than 4
 
 This is a Collaborative Work https://github.com/sneed-and-feed/INCARNATE-SOPHIA-5.0/
 
-3h ago
-
----
-
-**[Moltbot is exploding. 100K Github Stars in weeks. But what can we actually do with it, and why so much hype? And how to avoid the security concerns?](https://www.reddit.com/r/artificial/comments/1qqdmoq/moltbot_is_exploding_100k_github_stars_in_weeks/)**
-
-Hey everyone. I Just published a breakdown on Moltbot: the self-hosted, open-source personal AI assistant that's gone massively viral. The article discusses the main points of my own questions about Moltbot ( what it really is, what are its capabilities, why is therean insane growth... ). Ok, now the only con I have for this project is security draw backs ( not really dove deep into this at all in the article ) : broad system access is given to Moltbot and it is pretty easy to do prompt injection with vulnerabilities if exposed. Which I'd point out is actually easy to misconfigured if not careful. I'd love to get some of my own personal tasks automated ( I love saving time ), but security concerns has me hesitant to experiement. If anyone has methods to ensure full security with this project feel free to let me know, I might even update the blog article with how to avoid the security concerns as for real it is the only thing making me hesitant in trying it myself.
-
-🔗 [Benjamin-RR](https://benjamin-rr.com/blog/moltbot-open-source-ai-assistant?utm_source=reddit&utm_medium=community&utm_campaign=new-blog-promotion&utm_content=r-artificial) • 1d ago
+4h ago
 
 ---
 
@@ -119,7 +119,7 @@ Hey everyone. I Just published a breakdown on Moltbot: the self-hosted, open-sou
 
 **[Opinion | Young People Are Using A.I. to Skip the Hardest Part of Growing Up](https://www.nytimes.com/2026/01/30/opinion/ai-social-skills-relationships.html)**
 
-The New York Times • 19h ago
+The New York Times • 20h ago
 
 ---
 
@@ -131,11 +131,19 @@ Anthropic • 1d ago
 
 ---
 
-**[Critic’s Notebook: Darren Aronofsky’s ‘On This Day… 1776’ Demonstrates That High-End AI Slop Is Still AI Slop](https://www.hollywoodreporter.com/tv/tv-reviews/critics-notebook-darren-aronofsky-ai-series-1236490220/)**
+**[Interested in AI Stocks? Here's Why One Popular Vanguard Tech ETF Might Not Be a Good Choice.](https://finance.yahoo.com/news/interested-ai-stocks-heres-why-060500337.html)**
 
-Produced using technology from Google's DeepMind, the YouTube short-form series does more to highlight the obvious limitations of AI filmmaking than its theoretical benefits.
+The Vanguard Information Technology ETF is missing some key long-term pieces.
 
-The Hollywood Reporter • 2h ago
+Yahoo Finance • 49m ago
+
+---
+
+**[SAP Sell Off Tests Cloud Growth Outlook And AI Resilience](https://finance.yahoo.com/news/sap-sell-off-tests-cloud-060648921.html)**
+
+SAP (XTRA:SAP) saw its largest one day share price drop since 2020 after its latest results. The move followed weaker than expected cloud backlog growth and a 2026 cloud revenue outlook that disappointed investors. The sell off intensified questions about how established enterprise software providers will respond to AI related competition. SAP shares closed at €170.56, with the stock down 13.8% over the past week and 18.1% over the past month. The year to date return stands at a 15.5%...
+
+Yahoo Finance • 48m ago
 
 ---
 
@@ -143,7 +151,27 @@ The Hollywood Reporter • 2h ago
 
 When bubbles burst, what comes next can be better, if we build it differently
 
-The Guardian • 18h ago
+The Guardian • 19h ago
+
+---
+
+**[Videogame stocks slide on Google's AI model that turns prompts into playable worlds](https://www.reuters.com/business/videogame-stocks-slide-googles-ai-model-that-turns-prompts-into-playable-worlds-2026-01-30/)**
+
+Reuters • 13h ago
+
+---
+
+**[Google releases Project Genie AI tool for creating "playable worlds" that can feature copyrighted IP](https://www.gamesindustry.biz/google-releases-project-genie-ai-tool-for-creating-playable-worlds-that-can-feature-copyrighted-ip)**
+
+But legal expert Pete Lewin from Wiggin argues that the companies behind this kind of tech can expect to face "greater scrutiny and pushback from IP owners"
+
+GamesIndustry.biz • 17h ago
+
+---
+
+**[Unity’s stock becomes the latest victim of Google’s AI ambitions](https://www.marketwatch.com/story/unitys-stock-becomes-the-latest-victim-of-googles-ai-ambitions-5f42ea93?gaa_at=eafs&gaa_n=AWEtsqd38b660oa6CsMQQ91FOjT6Z1MtRsXsf-Qtjs9Q5lECzBG2qrW4VC43&gaa_ts=697daaa1&gaa_sig=yBUCLhpXKfShEty8LLrILuFBoJnhYh6kNDiAxoo82PwWUP_n1i21dUJ2ew9wHDEk4l7GBzPtdnetgSfWjFX58g%3D%3D)**
+
+MarketWatch • 11h ago
 
 ---
 
@@ -155,37 +183,11 @@ Fortune • 16h ago
 
 ---
 
-**[Videogame stocks slide on Google's AI model that turns prompts into playable worlds](https://www.reuters.com/business/videogame-stocks-slide-googles-ai-model-that-turns-prompts-into-playable-worlds-2026-01-30/)**
+**['ChatGPT saved my life.' How patients, and doctors, are using AI to make a diagnosis](https://www.npr.org/2026/01/30/nx-s1-5693219/chatgpt-chatbot-ai-health-medical-advice)**
 
-Reuters • 12h ago
+Hundreds of millions of people are turning to chatbots to help figure out what's wrong with them. Doctors say that's not always a bad thing. In fact, many are using it themselves.
 
----
-
-**[Unity, Video Game Stocks Fall as Google’s AI Tool Sparks Fears](https://www.bloomberg.com/news/articles/2026-01-30/unity-video-game-stocks-fall-as-google-s-ai-tool-genie-sparks-fears)**
-
-Bloomberg • 8h ago
-
----
-
-**[Google releases Project Genie AI tool for creating "playable worlds" that can feature copyrighted IP](https://www.gamesindustry.biz/google-releases-project-genie-ai-tool-for-creating-playable-worlds-that-can-feature-copyrighted-ip)**
-
-But legal expert Pete Lewin from Wiggin argues that the companies behind this kind of tech can expect to face "greater scrutiny and pushback from IP owners"
-
-GamesIndustry.biz • 16h ago
-
----
-
-**[AI Fears Hinder Deutsche Bank’s $1.2 Billion Loan Deal for Conga](https://www.bloomberg.com/news/articles/2026-01-30/ai-fears-hinder-deutsche-bank-s-1-2-billion-loan-deal-for-conga)**
-
-Bloomberg • 6h ago
-
----
-
-**[Opinion | DeepSeek was a warning shot. China is building its next surprise.](https://www.washingtonpost.com/opinions/2026/01/30/china-ai-robots-autonomous-drones/)**
-
-Beijing has a dominant lead in developing intelligent robots, drones and autonomous systems.
-
-The Washington Post • 9h ago
+NPR • 15h ago
 
 ---
 
@@ -215,7 +217,7 @@ Interactive article explaining the physics of an airfoil and what makes airplane
 
 Anthropic is an AI safety and research company that's working to build reliable, interpretable, and steerable AI systems.
 
-⬆️ 419 • 💬 319 • 1d ago • [anthropic.com](https://www.anthropic.com/research/AI-assistance-coding-skills)
+⬆️ 429 • 💬 321 • 1d ago • [anthropic.com](https://www.anthropic.com/research/AI-assistance-coding-skills)
 
 ---
 
@@ -237,7 +239,7 @@ Or, as they like to call it, the 'AI Skills Hub'. Which was built by PwC because
 
 Moltworker is a middleware Worker and adapted scripts that allows running Moltbot (formerly Clawdbot) on Cloudflare's Sandbox SDK and our Developer Platform APIs. So you can self-host an AI personal assistant — without any new hardware.
 
-⬆️ 231 • 💬 65 • 1d ago • [The Cloudflare Blog](https://blog.cloudflare.com/moltworker-self-hosted-ai-agent/)
+⬆️ 232 • 💬 65 • 1d ago • [The Cloudflare Blog](https://blog.cloudflare.com/moltworker-self-hosted-ai-agent/)
 
 ---
 
@@ -245,7 +247,7 @@ Moltworker is a middleware Worker and adapted scripts that allows running Moltbo
 
 AI assistance produces significant productivity gains across professional domains, particularly for novice workers. Yet how this assistance affects the development of skills required to effectively supervise AI remains unclear. Novice workers who rely heavily on AI to complete unfamiliar tasks may compromise their own skill acquisition in the process. We conduct randomized experiments to study how developers gained mastery of a new asynchronous programming library with and without the assistance of AI. We find that AI use impairs conceptual understanding, code reading, and debugging abilities, without delivering significant efficiency gains on average. Participants who fully delegated coding tasks showed some productivity improvements, but at the cost of learning the library. We identify six distinct AI interaction patterns, three of which involve cognitive engagement and preserve learning outcomes even when participants receive AI assistance. Our findings suggest that AI-enhanced productivity is not a shortcut to competence and AI assistance should be carefully adopted into workflows to preserve skill formation -- particularly in safety-critical domains.
 
-⬆️ 229 • 💬 5 • 22h ago • [arXiv.org](https://arxiv.org/abs/2601.20245)
+⬆️ 229 • 💬 5 • 23h ago • [arXiv.org](https://arxiv.org/abs/2601.20245)
 
 ---
 
@@ -261,7 +263,7 @@ The rise of LLMs as a useful development tool over the last year or so has been 
 
 New York mayor says terminating the ‘unusable’ bot will help close a budget gap
 
-⬆️ 158 • 💬 56 • 11h ago • [themarkup.org](https://themarkup.org/artificial-intelligence/2026/01/30/mamdani-to-kill-the-nyc-ai-chatbot-we-caught-telling-businesses-to-break-the-law)
+⬆️ 160 • 💬 56 • 12h ago • [themarkup.org](https://themarkup.org/artificial-intelligence/2026/01/30/mamdani-to-kill-the-nyc-ai-chatbot-we-caught-telling-businesses-to-break-the-law)
 
 ---
 
@@ -277,13 +279,23 @@ A lot of vendors pitch AI SRE. We tested 14 models across 11 programming languag
 
 ## YouTube Videos: "ai"
 
+**[China’s New Shape Shifting AI Robot Walks on Water, Flies and Swims](https://www.youtube.com/watch?v=nLKj1gvJzWI)**
+
+Humanoid robotics just took a massive leap into the real world. Researchers in China revealed GrowHR, a soft shape shifting ...
+
+📺 AI Revolution
+
+👁️ 11K • 👍 386 • 💬 42 • ⏱️ 14:25 • 7h ago
+
+---
+
 **[Crazy AI Beds You’ll Wish Were Real  😱✨ | Ultimate Oddly Satisfying AI ASMR](https://www.youtube.com/watch?v=Td1e5CDUHnI)**
 
 Crazy AI Beds You'll Wish Were Real ✨ | Ultimate Oddly Satisfying AI ASMR Drift into pure comfort—AI-crafted relaxing beds ...
 
 📺 Ultimate Oddly Satisfying ASMR
 
-👁️ 50K • 👍 6K • 💬 15 • ⏱️ 8:03 • 2d ago
+👁️ 51K • 👍 6K • 💬 15 • ⏱️ 8:03 • 2d ago
 
 ---
 
@@ -293,7 +305,7 @@ Get Your FREE AI Company Operating System here: https://go.danmartell.com/3NKZDu
 
 📺 Dan Martell
 
-👁️ 30K • 👍 2K • 💬 383 • ⏱️ 18:48 • 15h ago
+👁️ 33K • 👍 2K • 💬 398 • ⏱️ 18:48 • 16h ago
 
 ---
 
@@ -303,17 +315,17 @@ Here's the news you probably missed this week. If you want to transform your sit
 
 📺 Matt Wolfe
 
-👁️ 25K • 👍 1K • 💬 98 • ⏱️ 30:47 • 11h ago
+👁️ 29K • 👍 1K • 💬 106 • ⏱️ 30:47 • 12h ago
 
 ---
 
-**[Did Google’s Quantum Breakthrough Just Solve AI’s Energy Crisis? Microsoft’s Secret Weapon](https://www.youtube.com/watch?v=HdU7M0gr8ds)**
+**[The truth about AI music](https://www.youtube.com/watch?v=9x4HmSsCxRY)**
 
-GET MY FREE GUIDE: *The Content Creator's AI Blueprint: From 25 Hours to 5 Minutes* https://FirstMovers.ai/blueprint/ * AI ...
+Sky News' technology correspondent Rowland Manthorpe investigates the hidden world behind the explosion of AI-generated ...
 
-📺 Julia McCoy
+📺 Sky News
 
-👁️ 27K • 👍 1K • 💬 96 • ⏱️ 8:35 • 15h ago
+👁️ 3K • 👍 54 • 💬 16 • ⏱️ 12:25 • 13h ago
 
 ---
 
@@ -323,17 +335,7 @@ Try Mammouth AI here: https://bit.ly/4sUpPDw AI just made a serious leap into th
 
 📺 AI Revolution
 
-👁️ 21K • 👍 933 • 💬 72 • ⏱️ 12:58 • 1d ago
-
----
-
-**[The AI Job APOCALYPSE Is Already Here](https://www.youtube.com/watch?v=Y5A_c4pvo7I)**
-
-Support our work: http://novara.media/support Buy Novara Media merch: https://shop.novaramedia.com/ Discuss the show on ...
-
-📺 Novara Media
-
-👁️ 78K • 👍 2K • 💬 721 • ⏱️ 21:03 • 2d ago
+👁️ 22K • 👍 945 • 💬 72 • ⏱️ 12:58 • 1d ago
 
 ---
 
@@ -343,37 +345,37 @@ Nobel Prize winner Geoffrey Hinton, the physicist known for his pioneering work 
 
 📺 LBC
 
-👁️ 167K • 👍 2K • 💬 1K • ⏱️ 8:50 • 2d ago
+👁️ 171K • 👍 2K • 💬 1K • ⏱️ 8:50 • 2d ago
 
 ---
 
-**[People Are Making Millions Without Showing Their Face (AI Influencers)](https://www.youtube.com/watch?v=QIX0lnr3qfo)**
+**[The AI Job APOCALYPSE Is Already Here](https://www.youtube.com/watch?v=Y5A_c4pvo7I)**
 
-Build AI influencers and make money with Higgsfield here: https://higgsfield.ai/ai-influencer-studio?utm_source=thekoerneroffice ...
+Support our work: http://novara.media/support Buy Novara Media merch: https://shop.novaramedia.com/ Discuss the show on ...
 
-📺 Chris Koerner on The Koerner Office Podcast
+📺 Novara Media
 
-👁️ 28K • 👍 1K • 💬 57 • ⏱️ 13:52 • 1d ago
-
----
-
-**[The LLM Revolution Is Over. The Physical AI Revolution Is Coming Fast](https://www.youtube.com/watch?v=MWMe7yjPYpE)**
-
-On stage at Imagination In Action's AI Summit in Davos with John Werner, founder and CEO of Imagination In Action, Yann LeCun ...
-
-📺 Forbes
-
-👁️ 42K • 👍 1K • 💬 258 • ⏱️ 29:11 • 2d ago
+👁️ 78K • 👍 2K • 💬 724 • ⏱️ 21:03 • 2d ago
 
 ---
 
-**[&quot;We Are The VIRUS&quot; - Anthropic CEO’s AI Doom Warning Sparks Tech Apocalypse FEARS](https://www.youtube.com/watch?v=tRD7VVVMe5Y)**
+**[How Anthropic’s AI Bankrupted Itself](https://www.youtube.com/watch?v=zMDXzG1kA14)**
 
-AI leaders are warning that the next phase of artificial intelligence could arrive much faster than society is ready for. From super-AI ...
+Get 10% off all Hostinger yearly plans here: http://hostinger.com/albertatech (Use code: ALBERTATECH) *Chapters* 0:00 Intro ...
 
-📺 Valuetainment Short Clips
+📺 Alberta Tech
 
-👁️ 12K • 👍 303 • 💬 72 • ⏱️ 20:26 • 1d ago
+👁️ 182K • 👍 12K • 💬 980 • ⏱️ 11:33 • 1d ago
+
+---
+
+**[Why Everyone Is Buying M4 Mac Minis for AI](https://www.youtube.com/watch?v=aD8rzEiH8ns)**
+
+M4 Mac Minis are suddenly selling out — and not because of video editing or creative workflows. People are buying $499 Mac ...
+
+📺 Geoff Fagien
+
+👁️ 4K • 👍 114 • 💬 27 • ⏱️ 4:36 • 14h ago
 
 ---
 
@@ -389,7 +391,7 @@ Kimi K2.5 is a native multimodal agentic model with 1T parameters, excelling in 
 
 `image-text-to-text`
 
-⬇️ 25,438 • ❤️ 1,204 • 5h ago
+⬇️ 25,438 • ❤️ 1,217 • 6h ago
 
 ---
 
@@ -401,7 +403,7 @@ PersonaPlex-7B-v1 is a real-time, full-duplex speech-to-speech conversational mo
 
 `audio-to-audio`
 
-⬇️ 54,463 • ❤️ 1,514 • 2d ago
+⬇️ 54,463 • ❤️ 1,521 • 2d ago
 
 ---
 
@@ -413,7 +415,7 @@ Z-Image is an undistilled, high-fidelity text-to-image diffusion transformer mod
 
 `text-to-image`
 
-⬇️ 1,918 • ❤️ 710 • 2d ago
+⬇️ 1,918 • ❤️ 712 • 2d ago
 
 ---
 
@@ -425,7 +427,7 @@ DeepSeek-OCR-2 is a multilingual vision-language model for image-to-text tasks, 
 
 `image-text-to-text` `3.4B`
 
-⬇️ 45,346 • ❤️ 569 • 1d ago
+⬇️ 45,346 • ❤️ 573 • 1d ago
 
 ---
 
@@ -437,7 +439,7 @@ Qwen3-TTS-12Hz-1.7B-CustomVoice is a multilingual text-to-speech model supportin
 
 `text-to-speech` `1.9B`
 
-⬇️ 180,679 • ❤️ 805 • 1d ago
+⬇️ 180,679 • ❤️ 806 • 1d ago
 
 ---
 
@@ -461,7 +463,7 @@ HunyuanImage-3.0-Instruct is a native multimodal model for image generation, sup
 
 `image-to-image` `83.0B`
 
-⬇️ 37 • ❤️ 397 • 2d ago
+⬇️ 37 • ❤️ 405 • 2d ago
 
 ---
 
@@ -485,7 +487,7 @@ LightOnOCR-2-1B is an efficient 1B-parameter end-to-end vision-language model fo
 
 `image-text-to-text` `1.0B`
 
-⬇️ 27,393 • ❤️ 446 • 17h ago
+⬇️ 27,393 • ❤️ 448 • 18h ago
 
 ---
 
@@ -497,7 +499,7 @@ PaddleOCR-VL-1.5 is a multilingual Vision-Language Model (VLM) built on ERNIE 4.
 
 `image-text-to-text` `958.6M`
 
-⬇️ 216 • ❤️ 230 • 1d ago
+⬇️ 216 • ❤️ 236 • 1d ago
 
 ---
 
@@ -513,7 +515,7 @@ PaddleOCR-VL-1.5 is a multilingual Vision-Language Model (VLM) built on ERNIE 4.
 
 LingBot-World is an open-source world simulator with high-fidelity dynamics, long-term memory capabilities, and real-time interactivity for diverse environments.
 
-▲ 87 • 💬 2 • ⭐ 1,087 • 2d ago
+▲ 88 • 💬 2 • ⭐ 1,138 • 2d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2601.20540) • [💻 code](https://github.com/Robbyant/lingbot-world/) • [🔗 project](https://technology.robbyant.com/lingbot-world)
 
@@ -545,20 +547,6 @@ BitNet b1.58 2B4T, a 1-bit Large Language Model with 2 billion parameters, match
 
 ---
 
-**[DeepSeek-OCR 2: Visual Causal Flow](https://huggingface.co/papers/2601.20552)**
-
-*Haoran Wei, Yaofeng Sun, Yukun Li*
-
-🏢 DeepSeek
-
-DeepSeek-OCR 2 introduces DeepEncoder V2 that dynamically reorders visual tokens based on semantic content, enabling more human-like causal reasoning in 2D image understanding through cascaded 1D causal structures.
-
-▲ 40 • 💬 4 • ⭐ 1,692 • 2d ago
-
-[🎓 arXiv](https://arxiv.org/abs/2601.20552) • [💻 code](https://github.com/deepseek-ai/DeepSeek-OCR-2)
-
----
-
 **[BitNet Distillation](https://huggingface.co/papers/2510.13998)**
 
 *Xun Wu, Shaohan Huang, Wenhui Wang et al. (7 authors)*
@@ -585,6 +573,20 @@ Bitnet.cpp enhances edge inference for ternary LLMs using a novel mixed-precisio
 
 ---
 
+**[DeepSeek-OCR 2: Visual Causal Flow](https://huggingface.co/papers/2601.20552)**
+
+*Haoran Wei, Yaofeng Sun, Yukun Li*
+
+🏢 DeepSeek
+
+DeepSeek-OCR 2 introduces DeepEncoder V2 that dynamically reorders visual tokens based on semantic content, enabling more human-like causal reasoning in 2D image understanding through cascaded 1D causal structures.
+
+▲ 41 • 💬 4 • ⭐ 1,713 • 2d ago
+
+[🎓 arXiv](https://arxiv.org/abs/2601.20552) • [💻 code](https://github.com/deepseek-ai/DeepSeek-OCR-2)
+
+---
+
 **[A Pragmatic VLA Foundation Model](https://huggingface.co/papers/2601.18692)**
 
 *Wei Wu, Fan Lu, Yunnan Wang et al. (25 authors)*
@@ -593,7 +595,7 @@ Bitnet.cpp enhances edge inference for ternary LLMs using a novel mixed-precisio
 
 A Vision-Language-Action model trained on extensive real-world robotic data demonstrates superior performance and generalization across multiple platforms while offering enhanced efficiency through optimized training infrastructure.
 
-▲ 41 • 💬 4 • ⭐ 489 • 4d ago
+▲ 42 • 💬 4 • ⭐ 489 • 4d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2601.18692) • [💻 code](https://github.com/robbyant/lingbot-vla) • [🔗 project](https://technology.robbyant.com/lingbot-vla)
 
@@ -647,7 +649,7 @@ Browser automation CLI for AI agents
 
 `TypeScript`
 
-⭐ 11.8k • 🔱 655 • 1d ago
+⭐ 11.8k • 🔱 656 • 1d ago
 
 ---
 
@@ -657,7 +659,7 @@ AI → JSON → UI
 
 `TypeScript`
 
-⭐ 9.7k • 🔱 516 • 2d ago
+⭐ 9.7k • 🔱 517 • 2d ago
 
 ---
 
@@ -677,7 +679,7 @@ LLM驱动的 A/H/美股智能分析器，多数据源行情 + 实时新闻 + Gem
 
 `Python` `agent` `ai` `aigc` `gemini` `llm`
 
-⭐ 7.9k • 🔱 8.3k • 15h ago
+⭐ 7.9k • 🔱 8.4k • 16h ago
 
 ---
 
@@ -697,7 +699,7 @@ The Ultimate Collection of 500+ Agentic Skills for Claude Code/Antigravity/Curso
 
 `Python` `agentic-skills` `ai-agents` `antigravity` `autonomous-coding` `claude-code`
 
-⭐ 5.6k • 🔱 1.3k • 10h ago
+⭐ 5.6k • 🔱 1.3k • 19m ago
 
 ---
 
