@@ -3,14 +3,14 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-01-31T19:42:38.708234+00:00'
+updated: '2026-01-31T20:27:19.080352+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- videos
-- cryptocurrency
 - social
+- cryptocurrency
+- videos
 - news
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** January 31, 2026 at 19:42 UTC  
+**Last Updated:** January 31, 2026 at 20:27 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -72,7 +72,7 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-13h ago
+14h ago
 
 ---
 
@@ -80,7 +80,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 Last time Ethereum dipped to $1472 on April 9th, 2025, it tripled up to $4830 by August 23, 2025. No one can predict the future, but the large amount of Ethereum being staked and the increasing demand for Ethereum are shifting the supply and demand curve skewed to demand outpacing supply. There is a significantly higher chance of an upward trend for Ethereum in the days to come. "Touch and Go" is in play, and be patient, Grasshoppers.
 
-5m ago
+50m ago
 
 ---
 
@@ -88,13 +88,13 @@ Last time Ethereum dipped to $1472 on April 9th, 2025, it tripled up to $4830 by
 
 World News, Stories By EtherWorld, Technical Explainers, Client News & Updates, Podcasts, Upcoming Events & Jobs
 
-🔗 [EtherWorld.co](https://etherworld.co/etherworld-weekly-edition-349/) • 5h ago
+🔗 [EtherWorld.co](https://etherworld.co/etherworld-weekly-edition-349/) • 6h ago
 
 ---
 
 **[Listening to Polymarket trades in real-time (open source, no third party)](https://www.reddit.com/r/ethereum/comments/1qs3l8c/listening_to_polymarket_trades_in_realtime_open/)**
 
-5h ago
+6h ago
 
 ---
 
@@ -118,7 +118,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 It was some time ago that ETH went from proof of work to proof of stake. At the time Vitalik said that there were other changes coming such as faster transaction or lower transaction cost. I have not heard any more since then? Is there any progress?
 
-22h ago
+23h ago
 
 ---
 
@@ -134,7 +134,7 @@ Hello Folks, I just published a smart contract to handle crypto inheritance 100%
 
 Watch before one bug costs you everything. https://x.com/SolidityScan/status/2017172006056390715?s=20
 
-12h ago
+13h ago
 
 ---
 
@@ -142,7 +142,7 @@ Watch before one bug costs you everything. https://x.com/SolidityScan/status/201
 
 The Doots live stream is all about showcasing the best of the week from the Daily General Discussion from the r/ethereum Community on Reddit! Today we talked to Mac Budkowski from macbudkowski.com. He's made the "No BS Crypto GTM guide." Dig into what he has learned about timing, messaging, and why best isn't always good. Host: JT Technical Host: LogrisTheBard https://dailydoots.com by Hanniabu Daily Doots Curator: Tricky_Troll Weekly Doots Curator: The-A-Word Farcaster and Backend Host Support: Ben Broad Media Content Support: Twelve Meatballs Discord Bouncer and Watchdog: Treebeard As always, if you know someone who wants a piece of this action, send em our way. Buy us a ☕ dailydoots.eth All of our channels can be found here: https://dailydoots.com/podcast/ 🕸️https://dailydoots.com 📢https://discord.gg/EVMavericks 📰https://reddit.com/r/ethereum 🔊MINTABLE Podcast 👉: https://pods.media/evmavericks 🍎Apple https://podcasts.apple.com/us/podcast/ethfinance-evmavericks-daily-doots-livestream/id1750089604 🔊Spotify https://open.spotify.com/show/7AotdyMtcvHZLv3pVqkxre 🦁https://x.com/EVMavericks ⏱️TikTok: https://www.tiktok.com/@evmavericks 📺https://www.youtube.com/channel/UC51nlNbIkBm5Qhm7EwQuWLw Twitch: https://www.twitch.tv/evmavericks LinkedIN: https://www.linkedin.com/company/evmavericks-daily-doots-podcast
 
-🔗 [youtu.be](https://youtu.be/lDG5GrjKgew) • 21h ago
+🔗 [youtu.be](https://youtu.be/lDG5GrjKgew) • 22h ago
 
 ---
 
@@ -184,7 +184,7 @@ TradingView • 1d ago
 
 Ethereum faces heavy selling pressure as $2.8 billion whale distribution raises risks of a 16% price correction.
 
-Yahoo Finance • 28m ago
+Yahoo Finance • 1h ago
 
 ---
 
@@ -200,7 +200,7 @@ Barchart.com • 2d ago
 
 Ethereum Falls 10% In Selloff
 
-Investing.com • 2h ago
+Investing.com • 3h ago
 
 ---
 
@@ -216,7 +216,7 @@ CoinDesk • 1d ago
 
 Banks at Davos are done watching from the sidelines. At this year’s World Economic Forum, major financial institutions said they need crypto infrastructure to stay competitive.A recent Altcoin Buzz video broke down three signals pointing to a potential crypto rally. “The biggest banks in the world…
 
-TradingView • 10h ago
+TradingView • 11h ago
 
 ---
 
@@ -238,7 +238,7 @@ Join Premium: https://the-bitcoin-strategy.com My Chart Software: https://the-bi
 
 📺 Gerhard - Bitcoin Strategy
 
-👁️ 4K • 👍 121 • 💬 48 • ⏱️ 7:13 • 10h ago
+👁️ 4K • 👍 121 • 💬 48 • ⏱️ 7:13 • 11h ago
 
 ---
 
@@ -248,7 +248,7 @@ This video provides a professional Elliott Wave and technical analysis of Ethere
 
 📺 More Crypto Online
 
-👁️ 2K • 👍 124 • 💬 8 • ⏱️ 4:18 • 5h ago
+👁️ 2K • 👍 124 • 💬 8 • ⏱️ 4:18 • 6h ago
 
 ---
 
@@ -258,7 +258,7 @@ My FREE Daily On-Chain Analysis & Crypto News In 5-Mins: https://www.cryptonutsh
 
 📺 Jamie Tree 
 
-👁️ 596 • 👍 34 • 💬 132 • ⏱️ 18:25 • 4h ago
+👁️ 596 • 👍 34 • 💬 132 • ⏱️ 18:25 • 5h ago
 
 ---
 
@@ -268,7 +268,7 @@ Join UpTrade today - Your personal crypto broker: https://www.uptrade.au/ My FRE
 
 📺 Crypto Nutshell
 
-👁️ 3K • 👍 202 • 💬 70 • ⏱️ 16:36 • 4h ago
+👁️ 3K • 👍 202 • 💬 70 • ⏱️ 16:36 • 5h ago
 
 ---
 
@@ -278,7 +278,7 @@ ETHEREUM ETH PRICE PREDICTION 2026 Join the Premium Signal Group for trade setup
 
 📺 Cilinix Crypto
 
-👁️ 642 • 👍 17 • 💬 8 • ⏱️ 4:35 • 9h ago
+👁️ 642 • 👍 17 • 💬 8 • ⏱️ 4:35 • 10h ago
 
 ---
 
@@ -288,7 +288,7 @@ This video provides a professional Elliott Wave and technical analysis of Ethere
 
 📺 More Crypto Online
 
-👁️ 2K • 👍 130 • 💬 5 • ⏱️ 4:29 • 15h ago
+👁️ 2K • 👍 130 • 💬 5 • ⏱️ 4:29 • 16h ago
 
 ---
 
@@ -298,7 +298,7 @@ how to buy PulseChain coins? https://libertyswap.finance buy with card: https://
 
 📺 Crypto Coffee
 
-👁️ 879 • 👍 42 • 💬 20 • ⏱️ 1:07 • 7h ago
+👁️ 879 • 👍 42 • 💬 20 • ⏱️ 1:07 • 8h ago
 
 ---
 
@@ -318,7 +318,7 @@ Todo el mundo sabe que Ethereum es la segunda criptomoneda más grande del plane
 
 📺 Coin Bureau Español
 
-👁️ 765 • 👍 116 • 💬 16 • ⏱️ 21:54 • 2h ago
+👁️ 765 • 👍 116 • 💬 16 • ⏱️ 21:54 • 3h ago
 
 ---
 

@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-01-31T19:42:38.693512+00:00'
+updated: '2026-01-31T20:27:19.065713+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- videos
-- repositories
 - social
+- videos
 - news
+- repositories
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** January 31, 2026 at 19:42 UTC  
+**Last Updated:** January 31, 2026 at 20:27 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -41,13 +41,13 @@ AI news, discussions, and developments
 
 AI coding tools are getting more sophisticated. But if coders stop coding, what happens to software development jobs?
 
-🔗 [Fortune](https://fortune.com/2026/01/29/100-percent-of-code-at-anthropic-and-openai-is-now-ai-written-boris-cherny-roon/) • 21h ago
+🔗 [Fortune](https://fortune.com/2026/01/29/100-percent-of-code-at-anthropic-and-openai-is-now-ai-written-boris-cherny-roon/) • 22h ago
 
 ---
 
 **[The $100 Billion Megadeal Between OpenAI and Nvidia Is on Ice](https://www.reddit.com/r/artificial/comments/1qrnq8u/the_100_billion_megadeal_between_openai_and/)**
 
-🔗 [wsj.com](https://www.wsj.com/tech/ai/the-100-billion-megadeal-between-openai-and-nvidia-is-on-ice-aa3025e3) • 18h ago
+🔗 [wsj.com](https://www.wsj.com/tech/ai/the-100-billion-megadeal-between-openai-and-nvidia-is-on-ice-aa3025e3) • 19h ago
 
 ---
 
@@ -55,7 +55,7 @@ AI coding tools are getting more sophisticated. But if coders stop coding, what 
 
 "Nvidia released three open-source artificial intelligence models aimed at helping create better weather forecasts, faster.... In the case of weather forecasting, Nvidia is aiming to replace expensive and time-consuming conventional weather simulations with AI-driven versions that the company said can rival or exceed the accuracy of older methods. The AI models, once trained, are also faster and cost less to run ... Nvidia's "Earth-2" models introduced on Monday include one aimed at making 15-day weather forecasts, one that specializes in forecasts of up to six hours for severe storms over the U.S., and one that can be used to integrate disparate data streams from a variety of weather sensors to make them a more useful starting point for other forecasting technology." Model page: https://www.nvidia.com/en-us/high-performance-computing/earth-2/
 
-🔗 [reuters.com](https://www.reuters.com/business/environment/nvidia-unveils-ai-models-faster-cheaper-weather-forecasts-2026-01-26/) • 2h ago
+🔗 [reuters.com](https://www.reuters.com/business/environment/nvidia-unveils-ai-models-faster-cheaper-weather-forecasts-2026-01-26/) • 3h ago
 
 ---
 
@@ -63,7 +63,7 @@ AI coding tools are getting more sophisticated. But if coders stop coding, what 
 
 For years, the gold standard in AI was "hoard everything, sort it later." But as we move into 2026, I’m seeing this strategy backfire for dozens of companies. In my recent audits at the lab, I’ve seen CTOs burning $10k-$15k monthly on cloud storage for "radioactive" datasets—logs and clicks from 2022 that add zero value to modern reasoning models. The 2026 Reality: The Compliance Wall: Under the EU AI Act, every byte of data you keep is a liability. Inference Noise: Overloaded data lakes are causing AI agents to hallucinate and slow down. The Carbon Tax: Storage isn't just a cost anymore; it’s a regulatory burden. We recently implemented a Data Minimization Audit for a client, deleting 70% of their legacy data. The result? Faster inference speeds and 100% compliance with ISO/IEC 42001. Efficiency is the new "Big Data." If you aren't pruning your datasets, you aren't building for the future; you're just paying a massive "Storage Tax." Are you guys still hoarding for "potential" future use, or have you started the great data purge? (Just finished a deep dive on the technical framework for this audit. Linked it in the comments for those interested in the compliance roadmap.)
 
-2h ago
+3h ago
 
 ---
 
@@ -71,7 +71,7 @@ For years, the gold standard in AI was "hoard everything, sort it later." But as
 
 Supports Qwen3-TTS models (0.6B-1.7B) and ASR models. Docker + native deployment options. Key features: 🎭 Voice cloning with reference audio 🎨 Custom voice design from text descriptions ⚡ MLX + Metal GPU acceleration for M1/M2/M3 🎨 Modern React UI included If you like local audio models, give it a try. Works best in local dev mode for now.
 
-🔗 [GitHub](https://github.com/agentem-ai/izwi-audio) • 3h ago
+🔗 [GitHub](https://github.com/agentem-ai/izwi-audio) • 4h ago
 
 ---
 
@@ -85,7 +85,7 @@ Supports Qwen3-TTS models (0.6B-1.7B) and ASR models. Docker + native deployment
 
 Chris Mason, the longtime Linux kernel developer most known for being the creator of Btrfs, has been working on a Git repository with AI review prompts he has been working on for LLM-assisted code review of Linux kernel patches
 
-🔗 [phoronix.com](https://www.phoronix.com/news/AI-Code-Review-Prompts-Linux) • 16h ago
+🔗 [phoronix.com](https://www.phoronix.com/news/AI-Code-Review-Prompts-Linux) • 17h ago
 
 ---
 
@@ -101,7 +101,7 @@ ByteDance, Alibaba and Tencent had been given permission to purchase more than 4
 
 I think maybe
 
-1h ago
+2h ago
 
 ---
 
@@ -119,13 +119,13 @@ Hey everyone. I Just published a breakdown on Moltbot: the self-hosted, open-sou
 
 **[AI Agents Created Their Own Religion, Crustafarianism, On An Agent-Only Social Network](https://www.forbes.com/sites/johnkoetsier/2026/01/30/ai-agents-created-their-own-religion-crustafarianism-on-an-agent-only-social-network/)**
 
-Forbes • 17h ago
+Forbes • 18h ago
 
 ---
 
 **[Exclusive | The $100 Billion Megadeal Between OpenAI and Nvidia Is on Ice - WSJ](https://www.wsj.com/tech/ai/the-100-billion-megadeal-between-openai-and-nvidia-is-on-ice-aa3025e3?gaa_at=eafs&gaa_n=AWEtsqfq2Z1q3zM_Ynou-7OhLgqpOYwhW0Mt8UyIrCa1tTLH5MfedTSqSqu-&gaa_ts=697e5e9a&gaa_sig=8bWecFbFR1HrMLceZDdQZrUmDyhKFXV5qEBNTo6mLybLTgxFZ2nk8w3199M8soSnJsWUGh3fIwDvzaT4dBwPWQ%3D%3D)**
 
-The Wall Street Journal • 54m ago
+The Wall Street Journal • 1h ago
 
 ---
 
@@ -149,7 +149,7 @@ Bloomberg.com • 19h ago
 
 **[Musk's Starlink updates privacy policy to allow consumer data to train AI](https://www.reuters.com/legal/litigation/musks-starlink-updates-privacy-policy-allow-consumer-data-train-ai-2026-01-30/)**
 
-Reuters • 20h ago
+Reuters • 21h ago
 
 ---
 
@@ -157,7 +157,7 @@ Reuters • 20h ago
 
 The firm wants to create a network of "orbital data centres" to power artificial intelligence.
 
-BBC • 3h ago
+BBC • 4h ago
 
 ---
 
@@ -165,7 +165,7 @@ BBC • 3h ago
 
 The team for the six-wheeled scientist used a vision-capable AI to create a safe route over the Red Planet’s surface without the input of human route planners.
 
-NASA Jet Propulsion Laboratory (JPL) (.gov) • 23h ago
+NASA Jet Propulsion Laboratory (JPL) (.gov) • 1d ago
 
 ---
 
@@ -319,7 +319,7 @@ CHAPTERS ⤵ 00:00 - How AI Is Quietly Reshaping Everyday Life 01:47 - Google's 
 
 📺 Dylan Curious
 
-👁️ 2K • 👍 214 • 💬 47 • ⏱️ 25:03 • 4h ago
+👁️ 2K • 👍 214 • 💬 47 • ⏱️ 25:03 • 5h ago
 
 ---
 
@@ -329,7 +329,7 @@ Create AI Music Videos with OpenArt https://www.openart.ai/home/?ref=isa-27 In t
 
 📺 Isa does AI
 
-👁️ 7K • 💬 2 • ⏱️ 10:25 • 6h ago
+👁️ 7K • 💬 2 • ⏱️ 10:25 • 7h ago
 
 ---
 
@@ -385,7 +385,7 @@ Kimi K2.5 is a native multimodal agentic model with 1T parameters, excelling in 
 
 `image-text-to-text`
 
-⬇️ 32,430 • ❤️ 1,278 • 18h ago
+⬇️ 32,430 • ❤️ 1,278 • 19h ago
 
 ---
 
@@ -673,7 +673,7 @@ LLM驱动的 A/H/美股智能分析器，多数据源行情 + 实时新闻 + Gem
 
 `Python` `agent` `ai` `aigc` `gemini` `llm`
 
-⭐ 8.3k • 🔱 8.7k • 4h ago
+⭐ 8.3k • 🔱 8.7k • 5h ago
 
 ---
 
@@ -683,7 +683,7 @@ LLM驱动的 A/H/美股智能分析器，多数据源行情 + 实时新闻 + Gem
 
 `Vue`
 
-⭐ 6.8k • 🔱 1.2k • 6h ago
+⭐ 6.8k • 🔱 1.2k • 7h ago
 
 ---
 
@@ -693,7 +693,7 @@ The Ultimate Collection of 500+ Agentic Skills for Claude Code/Antigravity/Curso
 
 `Python` `agentic-skills` `ai-agents` `antigravity` `autonomous-coding` `claude-code`
 
-⭐ 5.8k • 🔱 1.3k • 11h ago
+⭐ 5.8k • 🔱 1.3k • 12h ago
 
 ---
 

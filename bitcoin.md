@@ -3,14 +3,14 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-01-31T19:42:38.702205+00:00'
+updated: '2026-01-31T20:27:19.074326+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- videos
-- cryptocurrency
 - social
+- cryptocurrency
+- videos
 - news
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** January 31, 2026 at 19:42 UTC  
+**Last Updated:** January 31, 2026 at 20:27 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -87,13 +87,13 @@ I'm not wasting these cheap stacks. HODL and BUY!
 
 **[Evergreen just like BTC!](https://www.reddit.com/r/Bitcoin/comments/1qs6sj1/evergreen_just_like_btc/)**
 
-3h ago
+4h ago
 
 ---
 
 **[Buy Now](https://www.reddit.com/r/Bitcoin/comments/1qs9mvq/buy_now/)**
 
-1h ago
+2h ago
 
 ---
 
@@ -101,7 +101,7 @@ I'm not wasting these cheap stacks. HODL and BUY!
 
 The world is going through some shit right now...but just know that eventually, everything's going to be ok. The aftermath might be a little hard to stomach, but we'll get through it. In the meantime...don't miss the chance to stack sats at every drop. You never know which one will be the bottom, but buy a bit at every new low and thank me later.
 
-4h ago
+5h ago
 
 ---
 
@@ -109,7 +109,7 @@ The world is going through some shit right now...but just know that eventually, 
 
 I'm scared, not because I don't trust Bitcoin, but because I used my BTC and altcoins to back up a loan, which I used to buy more Bitcoin and altcoins. The problem is, I had my entire altcoin portfolio on Binance, and I liquidated it on October 10th. Now I only have BTC left, and if it drops below 80, I'll be wiped out. All my effort and sacrifice of six years will have been for nothing. I know many will say it's wrong and that I was greedy, but I'm someone who has worked hard for as long as I can remember. When I reached adulthood, I got fed up with that life. Now I don't know what to do, but I don't have the strength to continue. I know Bitcoin is the future, but I no longer see a good future for myself, and I don't have the strength to start from scratch.
 
-5h ago
+6h ago
 
 ---
 
@@ -131,7 +131,7 @@ I never consider it a real dip unless it keeps dipping beyond the paycheck depos
 
 Watching good will hunting tonight
 
-18h ago
+19h ago
 
 ---
 
@@ -139,7 +139,7 @@ Watching good will hunting tonight
 
 My node analytics captured a large liquidation event this morning. Roughly $120M in realized losses came from positions established within the last ~3 months, with nearly 20,000 BTC transferring to counterparties during the unwind. This is classic leverage behavior being resolved... not long-term capital exiting the market. Notably, older age bands remain largely inactive. Long-term holders are not distributing into this move; they are waiting, as they typically do, while short-duration leverage clears. When price action is driven primarily by derivatives, forced selling, and liquidity hunting, history shows it tends to be temporary. Once the excess leverage is flushed and fear-driven flows subside, price reverts back to being governed by spot demand and accumulation. The rise of ETFs and derivatives has compressed these cycles into shorter timeframes, increasing volatility... but also making liquidation events like this easier to observe in real time. Smart money isn’t reacting here. It’s absorbing. Fascinating to watch these play out in real time.
 
-4h ago
+5h ago
 
 ---
 
@@ -147,7 +147,7 @@ My node analytics captured a large liquidation event this morning. Roughly $120M
 
 Bye bye $2k see you in a few years
 
-20m ago
+1h ago
 
 ---
 
@@ -159,7 +159,7 @@ Bye bye $2k see you in a few years
 
 Bitcoin price dipped below $80k as 335,000 new wallets signal rising adoption despite short-term BTC price weakness.
 
-Yahoo Finance • 1h ago
+Yahoo Finance • 2h ago
 
 ---
 
@@ -167,7 +167,7 @@ Yahoo Finance • 1h ago
 
 Investors would be wise to stick to the leading digital asset on the market.
 
-The Motley Fool • 42m ago
+The Motley Fool • 1h ago
 
 ---
 
@@ -175,7 +175,7 @@ The Motley Fool • 42m ago
 
 The strongest bulls take the time to learn the opposite point of view.
 
-Yahoo Finance • 3h ago
+Yahoo Finance • 4h ago
 
 ---
 
@@ -183,7 +183,7 @@ Yahoo Finance • 3h ago
 
 Indeed, since the JPMorgan report was published on Wednesday, both silver and gold have pulled back from recent highs.
 
-The Block • 23h ago
+The Block • 1d ago
 
 ---
 
@@ -191,7 +191,7 @@ The Block • 23h ago
 
 Plan B Network has launched CypherTank, a global Bitcoin-focused pitch series that spotlights builders, ideas, and community discussion across multiple platforms.
 
-Bitcoin Magazine • 21h ago
+Bitcoin Magazine • 22h ago
 
 ---
 
@@ -221,7 +221,7 @@ Yahoo Finance • 1d ago
 
 Bitcoin’s sharp slide to $81,119 on January 30 came with a derivatives-market gut punch: forced long closures spiked to extreme levels, yet perpetual funding stayed decisively positive. That mix is complicating a common read, whether the market has already “cleansed” leverage or is still set up for…
 
-TradingView • 15h ago
+TradingView • 16h ago
 
 ---
 
@@ -239,7 +239,7 @@ Fast Company • 2d ago
 
 **[Bitcoin Looks Set for Longest Monthly Losing Streak Since 2018](https://news.ycombinator.com/item?id=46838644)**
 
-⬆️ 50 • 💬 37 • 2h ago • [bloomberg.com](https://www.bloomberg.com/news/articles/2026-01-30/bitcoin-btc-slides-toward-longest-monthly-losing-streak-since-2018)
+⬆️ 50 • 💬 37 • 3h ago • [bloomberg.com](https://www.bloomberg.com/news/articles/2026-01-30/bitcoin-btc-slides-toward-longest-monthly-losing-streak-since-2018)
 
 ---
 
@@ -371,7 +371,7 @@ Why the Crypto Market Is Red (It s NOT the Reason You Think)! Breaking Crypto Ne
 
 📺 Austin Hilton
 
-👁️ 5K • 👍 454 • 💬 128 • ⏱️ 9:28 • 3h ago
+👁️ 5K • 👍 454 • 💬 128 • ⏱️ 9:28 • 4h ago
 
 ---
 
