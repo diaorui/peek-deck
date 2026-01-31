@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-01-31T09:53:18.382948+00:00'
+updated: '2026-01-31T10:26:33.760931+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
 - cryptocurrency
 - videos
-- social
 - news
+- social
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** January 31, 2026 at 09:53 UTC  
+**Last Updated:** January 31, 2026 at 10:26 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -79,13 +79,13 @@ Rank #1
 
 **[Time for something less volatile](https://www.reddit.com/r/Bitcoin/comments/1qrmwm4/time_for_something_less_volatile/)**
 
-9h ago
+10h ago
 
 ---
 
 **[Buying the dip.](https://www.reddit.com/r/Bitcoin/comments/1qrkz13/buying_the_dip/)**
 
-10h ago
+11h ago
 
 ---
 
@@ -93,7 +93,7 @@ Rank #1
 
 Watching good will hunting tonight
 
-8h ago
+9h ago
 
 ---
 
@@ -101,7 +101,7 @@ Watching good will hunting tonight
 
 The deal will be too good to pass at that point.
 
-17h ago
+18h ago
 
 ---
 
@@ -109,13 +109,13 @@ The deal will be too good to pass at that point.
 
 The fastest way to create a Bitcoin skeptic is to tell someone you made money on Bitcoin. It's not always about the tech. It's about psychology. When you say you profited, some people don't hear "good investment" — they hear "I missed it." And instead of asking questions, they dismiss it. I've noticed something: the more you talk about your gains, the more resistance you create. Not because Bitcoin is flawed - but because success triggers ego. So maybe the real rule is simple: stack quietly.
 
-2h ago
+3h ago
 
 ---
 
 **[Sliver people acting like it’s such a volatile asset. LMAO](https://www.reddit.com/r/Bitcoin/comments/1qriea6/sliver_people_acting_like_its_such_a_volatile/)**
 
-12h ago
+13h ago
 
 ---
 
@@ -145,7 +145,7 @@ I wish I had more liquidity!
 
 **[Soo, who all is buying?](https://www.reddit.com/r/Bitcoin/comments/1qr6njb/soo_who_all_is_buying/)**
 
-19h ago
+20h ago
 
 ---
 
@@ -181,7 +181,7 @@ CoinDesk • 2h ago
 
 Indeed, since the JPMorgan report was published on Wednesday, both silver and gold have pulled back from recent highs.
 
-The Block • 13h ago
+The Block • 14h ago
 
 ---
 
@@ -189,7 +189,7 @@ The Block • 13h ago
 
 Only yesterday, we explained how Donald Trump runs his White House like a reality TV competition. Nominees for high office are turned into contestants vying for his approval, and the frontrunner could switch at any minute.Lo and behold, that’s exactly what’s happened in the race to become the next chairman ...
 
-Yahoo Finance • 21h ago
+Yahoo Finance • 22h ago
 
 ---
 
@@ -219,7 +219,7 @@ Fortune • 15h ago
 
 Bitcoin also suffered roughly $800 million in liquidations and ETF outflows in the past 24 hours....
 
-Sherwood News • 17h ago
+Sherwood News • 18h ago
 
 ---
 
@@ -299,7 +299,7 @@ Transform HN comment threads into executive intelligence. AI analyzes discussion
 
 20 years of Hacker News analyzed. 40M comments. 10,000 topics. What the tech community really thinks.
 
-⬆️ 3 • 💬 0 • 17h ago • [HN Zeitgeist](https://hn.mrzepa.com/)
+⬆️ 3 • 💬 0 • 18h ago • [HN Zeitgeist](https://hn.mrzepa.com/)
 
 ---
 
@@ -319,7 +319,7 @@ Bitwise Chief Investment Officer, Matt Hougan joins CoinDesk's Markets Outlook w
 
 📺 CoinDesk
 
-👁️ 8K • 👍 251 • 💬 27 • ⏱️ 26:03 • 14h ago
+👁️ 8K • 👍 251 • 💬 27 • ⏱️ 26:03 • 15h ago
 
 ---
 
@@ -359,7 +359,7 @@ Hard Truths.... Are you ready? CRYPTO RETIREMENT ACCOUNT HERE Sign up for iTrust
 
 📺 Crypto Jebb
 
-👁️ 5K • 👍 327 • 💬 107 • ⏱️ 21:18 • 14h ago
+👁️ 5K • 👍 327 • 💬 107 • ⏱️ 21:18 • 15h ago
 
 ---
 
@@ -389,7 +389,7 @@ Central banks are selling Treasuries and hoarding gold at record levels as trust
 
 📺 Swan Bitcoin
 
-👁️ 23K • 👍 1K • 💬 174 • ⏱️ 14:55 • 19h ago
+👁️ 23K • 👍 1K • 💬 174 • ⏱️ 14:55 • 20h ago
 
 ---
 

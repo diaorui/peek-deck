@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-01-31T09:53:18.389055+00:00'
+updated: '2026-01-31T10:26:33.766834+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
 - cryptocurrency
 - videos
-- social
 - news
+- social
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** January 31, 2026 at 09:53 UTC  
+**Last Updated:** January 31, 2026 at 10:26 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -72,7 +72,7 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-3h ago
+4h ago
 
 ---
 
@@ -128,7 +128,7 @@ The Doots live stream is all about showcasing the best of the week from the Dail
 
 Fidelity Investments FIDD stablecoin, TheDAO Security Fund, Hegotá upgrade headliner proposals
 
-🔗 [ethereal.news](https://ethereal.news/ethereal-news-weekly-9/) • 20h ago
+🔗 [ethereal.news](https://ethereal.news/ethereal-news-weekly-9/) • 21h ago
 
 ---
 
@@ -154,7 +154,7 @@ Ethereum developers used ACDE #229 to shift focus toward Devnet-2 readiness, exe
 
 **[Bitcoin, XRP, Ethereum Fall on News of Kevin Warsh Fed Appointment.](https://www.barrons.com/articles/bitcoin-xrp-ethereum-crypto-today-954298d9?gaa_at=eafs&gaa_n=AWEtsqe82-on9LSuhL7_s6CT7pj4XYm6G0uUkSuLUe2er-7tO7ek7vihiaNz&gaa_ts=697dd479&gaa_sig=r0KlcH4nmLla7I19dwB9fsbE6T_9brQmRgE6tL3o3JqisIZkJ4BEnQ1xRfrzhwHZp1OCYgcuTWYE7fW7Jsjyqg%3D%3D)**
 
-Barron's • 15h ago
+Barron's • 16h ago
 
 ---
 
@@ -186,7 +186,7 @@ CoinDesk • 1d ago
 
 The Ethereum co-founder wants to pursue an “aggressive” roadmap that will strengthen its status as a decentralized world computer.
 
-Decrypt • 16h ago
+Decrypt • 17h ago
 
 ---
 
@@ -194,7 +194,7 @@ Decrypt • 16h ago
 
 Ethereum co-founder Vitalik Buterin has withdrawn 16,384 ETH, worth roughly $44.5 million at current prices, as the Ethereum Foundation enters what he described as a period of “mild austerity.”In a post on X, Buterin said the Ethereum Foundation is adjusting its spending approach to meet two parall…
 
-TradingView • 19h ago
+TradingView • 20h ago
 
 ---
 
@@ -226,7 +226,7 @@ Yahoo Finance • 2d ago
 
 stVaults let other teams plug into Lido’s staking system instead of building their own from scratch.
 
-CoinDesk • 19h ago
+CoinDesk • 20h ago
 
 ---
 
@@ -280,7 +280,7 @@ This video provides a professional Elliott Wave and technical analysis of Ethere
 
 📺 More Crypto Online
 
-👁️ 2K • 👍 136 • 💬 9 • ⏱️ 4:32 • 20h ago
+👁️ 2K • 👍 136 • 💬 9 • ⏱️ 4:32 • 21h ago
 
 ---
 
@@ -330,7 +330,7 @@ This video provides a professional Elliott Wave and technical analysis of Ethere
 
 📺 More Crypto Online
 
-👁️ 909 • 👍 91 • 💬 3 • ⏱️ 4:29 • 5h ago
+👁️ 909 • 👍 91 • 💬 3 • ⏱️ 4:29 • 6h ago
 
 ---
 

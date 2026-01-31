@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-01-31T09:53:18.374375+00:00'
+updated: '2026-01-31T10:26:33.752687+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
 - repositories
 - videos
-- social
 - news
+- social
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** January 31, 2026 at 09:53 UTC  
+**Last Updated:** January 31, 2026 at 10:26 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -41,7 +41,7 @@ AI news, discussions, and developments
 
 AI coding tools are getting more sophisticated. But if coders stop coding, what happens to software development jobs?
 
-🔗 [Fortune](https://fortune.com/2026/01/29/100-percent-of-code-at-anthropic-and-openai-is-now-ai-written-boris-cherny-roon/) • 11h ago
+🔗 [Fortune](https://fortune.com/2026/01/29/100-percent-of-code-at-anthropic-and-openai-is-now-ai-written-boris-cherny-roon/) • 12h ago
 
 ---
 
@@ -55,13 +55,13 @@ AI coding tools are getting more sophisticated. But if coders stop coding, what 
 
 I’m seeing too many new devs use AI as an autopilot instead of a hint system. By skipping the "struggle phase", you’re missing out on building that essential debugging muscle. If you don't wrestle with the errors now, you’ll be clueless when things actually break later and there's no prompt to save you. AI is great for boilerplate, but don't let it rot your fundamentals. What do you guys think? Is AI making new devs "lazy" or just more efficient in this era?
 
-6h ago
+7h ago
 
 ---
 
 **[The debate over artificial intelligence and employment](https://www.reddit.com/r/artificial/comments/1qrb5dt/the_debate_over_artificial_intelligence_and/)**
 
-🔗 [technology.org](https://www.technology.org/2026/01/28/the-debate-over-artificial-intelligence-and-employment/) • 16h ago
+🔗 [technology.org](https://www.technology.org/2026/01/28/the-debate-over-artificial-intelligence-and-employment/) • 17h ago
 
 ---
 
@@ -77,7 +77,7 @@ OpenClaw’s AI assistants are now building their own social network.[1] DeepSee
 
 Chris Mason, the longtime Linux kernel developer most known for being the creator of Btrfs, has been working on a Git repository with AI review prompts he has been working on for LLM-assisted code review of Linux kernel patches
 
-🔗 [phoronix.com](https://www.phoronix.com/news/AI-Code-Review-Prompts-Linux) • 6h ago
+🔗 [phoronix.com](https://www.phoronix.com/news/AI-Code-Review-Prompts-Linux) • 7h ago
 
 ---
 
@@ -85,7 +85,7 @@ Chris Mason, the longtime Linux kernel developer most known for being the creato
 
 ByteDance, Alibaba and Tencent had been given permission to purchase more than 400,000 H200 chips in total.
 
-🔗 [thestandard.com.hk](https://www.thestandard.com.hk/china-news/article/323159/China-conditionally-approves-DeepSeek-to-buy-Nvidias-H200-chips) • 23h ago
+🔗 [thestandard.com.hk](https://www.thestandard.com.hk/china-news/article/323159/China-conditionally-approves-DeepSeek-to-buy-Nvidias-H200-chips) • 1d ago
 
 ---
 
@@ -93,7 +93,7 @@ ByteDance, Alibaba and Tencent had been given permission to purchase more than 4
 
 Hey, I've been using AI image generation (Genspark, Midjourney, Stable Diffusion) to create pictures and explore a whole fictional lore. I use Nano Banana Pro on Genspark now for some realistic, cozy, and unproblematic scenes with my fictional characters created out of the blue. But I also have a use of AI where I create really risky content, mostly kinky and humiliating situations. Not sexual, but erotic for me as it triggers my fetishes, and definitely intimate and degrading. I explore this interest with some of my own fictional characters. But I recently crossed the line of exploring the use of reference images of real people to keep the character consistent. I know about the ethical, moral, and weird concerns. I'm aware of the unconscious harm I can do as I fetishize these people, and I'm aware I can be a creep who's walking in a gray area. It could be a vast psychological subject about how I fetishize a person, or a weird parasocial relationship with them, as a consolation or imaginary shelter, imagining a relation that will in all likelihood never exist. I may just be very badly coping with this parasocial relationship. I know everything stays completely private. I downloaded locally, I'm generally confident about confidentiality on these websites, I never shared. But lately I've been second-guessing whether this is okay, even if no one ever sees it. I just deactivated the Data Retention option on Genspark and I don't know what it actually does. Does it keep my generated data completely private, not even stored on the servers? I thought it was activated by default, and I just shut it off. Platforms store images on public servers with accessible URLs, deleting conversation history doesn't actually wipe the images, and deepfake laws are evolving fast. Some juridictions are cracking down on non-consensual AI content even if it's not sexual. I'm in France and on this matter, the laws are mainly UE laws. For you, and maybe for people who are doing similar things on AI in servers instead of running it locally, does a purely private use still cross a line ? And privacy-wise, should I actually worry about platforms reviewing flagged images, reporting problematic content, or data breaches exposing everything ? Is there a reason anyone could individually report any image and share it for ethical or legal concerns ? My content is not illegal nor flagged. It could just be really problematic if accidentally discovered, a risk that may be very low. However, I'm leaning toward ditching real faces and sticking to purely fictional characters. But part of me wonders if I'm overthinking this as it's likeky that nothing ever gets shared and no one finds out. Anyone else navigating this gray area, how do you think about it ?
 
-14h ago
+15h ago
 
 ---
 
@@ -119,7 +119,7 @@ Amazon is reportedly in discussions to invest as much as $50 billion in OpenAI, 
 
 **[Opinion | Young People Are Using A.I. to Skip the Hardest Part of Growing Up](https://www.nytimes.com/2026/01/30/opinion/ai-social-skills-relationships.html)**
 
-The New York Times • 23h ago
+The New York Times • 1d ago
 
 ---
 
@@ -135,7 +135,7 @@ Anthropic • 1d ago
 
 The agentic AI market is projected to increase nearly 10 times by 2030.
 
-The Motley Fool • 41m ago
+The Motley Fool • 1h ago
 
 ---
 
@@ -149,7 +149,7 @@ CNN • 1h ago
 
 **[AI Helps With Your Tax Return. It Doesn’t Always Get It Right.](https://www.barrons.com/articles/ai-tax-returns-dc179883?gaa_at=eafs&gaa_n=AWEtsqe7wQfKLAyrdTc1F-W1zVv8HmupT-L4UOSO6xjRWcWH1FhI6pfeD40M&gaa_ts=697dd475&gaa_sig=HrFyETqDLEA0BtLMm20xLjwBOiPG1AqbdBQQMbLujrrQpUJYovFx89gABCAoF5dA8_JtRXCowr4SnYBMNHJDaQ%3D%3D)**
 
-Barron's • 53m ago
+Barron's • 1h ago
 
 ---
 
@@ -157,7 +157,7 @@ Barron's • 53m ago
 
 Silver’s new Ineffable Intelligence aims to develop “superintelligence” using the same AI methods that led to Google DeepMind breakthroughs like AlphaGo.
 
-Fortune • 19h ago
+Fortune • 20h ago
 
 ---
 
@@ -165,7 +165,7 @@ Fortune • 19h ago
 
 When bubbles burst, what comes next can be better, if we build it differently
 
-The Guardian • 22h ago
+The Guardian • 23h ago
 
 ---
 
@@ -179,7 +179,7 @@ The Wall Street Journal • 10h ago
 
 The case marks the first conviction on AI-related economic espionage charges in the U.S., according to the Department of Justice.
 
-CNBC • 14h ago
+CNBC • 15h ago
 
 ---
 
@@ -263,7 +263,7 @@ The rise of LLMs as a useful development tool over the last year or so has been 
 
 New York mayor says terminating the ‘unusable’ bot will help close a budget gap
 
-⬆️ 165 • 💬 56 • 15h ago • [themarkup.org](https://themarkup.org/artificial-intelligence/2026/01/30/mamdani-to-kill-the-nyc-ai-chatbot-we-caught-telling-businesses-to-break-the-law)
+⬆️ 165 • 💬 56 • 16h ago • [themarkup.org](https://themarkup.org/artificial-intelligence/2026/01/30/mamdani-to-kill-the-nyc-ai-chatbot-we-caught-telling-businesses-to-break-the-law)
 
 ---
 
@@ -285,7 +285,7 @@ Get Your FREE AI Company Operating System here: https://go.danmartell.com/3NKZDu
 
 📺 Dan Martell
 
-👁️ 36K • 👍 2K • 💬 410 • ⏱️ 18:48 • 19h ago
+👁️ 36K • 👍 2K • 💬 410 • ⏱️ 18:48 • 20h ago
 
 ---
 
@@ -295,7 +295,7 @@ Get the FREE PDF (links + prompts) → https://discord.gg/6aV3ps7tB2 STOP overpa
 
 📺 Malva AI
 
-👁️ 12K • 👍 772 • 💬 193 • ⏱️ 7:42 • 21h ago
+👁️ 12K • 👍 772 • 💬 193 • ⏱️ 7:42 • 22h ago
 
 ---
 
@@ -315,7 +315,7 @@ Here's the news you probably missed this week. If you want to transform your sit
 
 📺 Matt Wolfe
 
-👁️ 33K • 👍 2K • 💬 112 • ⏱️ 30:47 • 15h ago
+👁️ 33K • 👍 2K • 💬 112 • ⏱️ 30:47 • 16h ago
 
 ---
 
@@ -679,7 +679,7 @@ LLM驱动的 A/H/美股智能分析器，多数据源行情 + 实时新闻 + Gem
 
 `Python` `agent` `ai` `aigc` `gemini` `llm`
 
-⭐ 8.0k • 🔱 8.5k • 1h ago
+⭐ 8.0k • 🔱 8.5k • 2h ago
 
 ---
 
