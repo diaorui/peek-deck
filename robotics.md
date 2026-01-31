@@ -3,13 +3,13 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-01-31T02:02:49.805198+00:00'
+updated: '2026-01-31T04:15:40.317402+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- news
 - social
+- news
 - videos
 ---
 
@@ -17,7 +17,7 @@ data_types:
 
 Robotics research and industry news
 
-**Last Updated:** January 31, 2026 at 02:02 UTC  
+**Last Updated:** January 31, 2026 at 04:15 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -32,19 +32,19 @@ Robotics research and industry news
 
 ## Reddit: r/robotics
 
-**[My humanoid robot (arm)](https://www.reddit.com/r/robotics/comments/1qr6f2w/my_humanoid_robot_arm/)**
-
-I’m building a humanoid robot from scratch and this is how it looks so far. The hand is finished, and i’m currently working on the torso.
-
-11h ago
-
----
-
 **[Rethink Robotics Sawyer users? Information?](https://www.reddit.com/r/robotics/comments/1qro2ef/rethink_robotics_sawyer_users_information/)**
 
 Hi everyone! I just picked up this Rethink Robotics Sawyer for $300. But it is incomplete, missing the last two joints and, more importantly, the controller unit. I'm investigating building my own controller and wanted to see if anyone here has experience with this? The biggest question I have right now is what the voltage is. I'm guessing 48V, but don't know that for sure. I'll probably also have tons of other questions as a move forward, so hoping that someone here will know something about these!
 
-57m ago
+3h ago
+
+---
+
+**[My humanoid robot (arm)](https://www.reddit.com/r/robotics/comments/1qr6f2w/my_humanoid_robot_arm/)**
+
+I’m building a humanoid robot from scratch and this is how it looks so far. The hand is finished, and i’m currently working on the torso.
+
+14h ago
 
 ---
 
@@ -52,7 +52,7 @@ Hi everyone! I just picked up this Rethink Robotics Sawyer for $300. But it is i
 
 Setup: 2 x Super-Beacons - a few meters away on the walls of the room - as stationary beacons emitting short ultrasound pulses 1 x Mini-RX as a mobile beacon in hands - receiving ultrasound pulses from the stationary beacons 1 x Modem as central controller of the system - connected by the white USB cable from the laptop - synchronizes the clocks between all elements, controls the telemetry, and the system overall The Dashboard on the computer doesn't calculate anything; it just displays the tracking. The location is calculated by the mobile beacon in hand and then streamed over USB to show on the display Inverse Architecture: https://marvelmind.com/pics/architectures_comparison.pdf
 
-19h ago
+22h ago
 
 ---
 
@@ -66,7 +66,7 @@ Ant Group released LingBot-VA, a VLA built on a different premise than most curr
 
 **[We trained the yolo model with custom data set to detect head from top view.this needs to reply on bus to count passenger count.it deployed on pi4 with 8gb and data is trained on 25k images](https://www.reddit.com/r/robotics/comments/1qqtoa0/we_trained_the_yolo_model_with_custom_data_set_to/)**
 
-23h ago
+1d ago
 
 ---
 
@@ -74,7 +74,7 @@ Ant Group released LingBot-VA, a VLA built on a different premise than most curr
 
 ROS News for the Week of January 25th, 2026                We have a ton of ROS and open source robotics events schedule for February and the tail end of January. This weekend is  FOSDEM which includes a new Robot Dev Room. Full list below in the events section.  Unrelated: Discourse released a new carousel feature for image grids. Learn more here.      This week @tnajjar merged a very nice UX upgrade for the ROS CLI: fuzzy finding! Now you can just type any part of a command string and see ever...
 
-🔗 [Open Robotics Discourse](https://discourse.openrobotics.org/t/ros-news-for-the-week-of-january-25th-2026/52232) • 4h ago
+🔗 [Open Robotics Discourse](https://discourse.openrobotics.org/t/ros-news-for-the-week-of-january-25th-2026/52232) • 7h ago
 
 ---
 
@@ -82,7 +82,15 @@ ROS News for the Week of January 25th, 2026                We have a ton of ROS 
 
 Figure AI has released the final data from their 11-month deployment at BMW's Spartanburg plant. The 'Figure 02' humanoid robots worked 10-hour shifts, Monday to Friday, contributing to the production of over 30,000 BMW X3s. They loaded 90,000+ sheet metal parts with a <5mm tolerance, logging over 200 miles of walking. With Figure 02 now retiring, these lessons are being rolled into the new Figure 03.
 
-🔗 [FigureAI](https://www.figure.ai/news/production-at-bmw) • 17h ago
+🔗 [FigureAI](https://www.figure.ai/news/production-at-bmw) • 19h ago
+
+---
+
+**[Path planning for AGV using A* (no obstacles yet) – how to model inputs & grid values?](https://www.reddit.com/r/robotics/comments/1qr6m76/path_planning_for_agv_using_a_no_obstacles_yet/)**
+
+Hi everyone 👋 I’m working on a small AGV robot and I’m currently stuck at the software side of path planning. I’d really appreciate some guidance or best practices from people who’ve done this before. My current setup AGV size: 250 × 250 mm Workspace: small indoor environment Overhead camera (fixed) AprilTags / ArUco tags placed on the floor Tag spacing: 0.5 meter Current grid: 7 × 6 = 42 tags Robot is detected using the center tag under the robot Goal (Stage 1 – very basic) For now, I don’t want to include obstacles. I want: User gives a start node and end node Robot computes the shortest path Robot follows that path physically I’ve decided to use the A* algorithm, but I’m confused about the input representation and data structure. Where I’m stuck How should I represent the environment? 2D grid array? Graph with nodes and edges? Tag IDs mapped to coordinates? How should I store values for A\* in this simple case? What should be the node value? How to define neighbors (up/down/left/right)? How to map real-world distances (0.5 m spacing) to cost? Is it better to: Use grid indices (row, col) and map them later to real coordinates? Or directly use real-world (x, y) coordinates? What I plan to add later Obstacles Dynamic path updates Possibly ROS integration But for now, I want to get the fundamentals right. If anyone has: Simple examples Pseudocode Suggestions on data structures Or advice on how you approached this in your own AGV projects I’d really appreciate it 🙏 Thanks in advance!
+
+13h ago
 
 ---
 
@@ -90,21 +98,13 @@ Figure AI has released the final data from their 11-month deployment at BMW's Sp
 
 I've noticed that many of the labs and data collectors have been switching to YAMs. There are so many different leader follower setups. If you bought YAMs or any other kind of arms and are doing teleop, what convinced you one way or another? I've also noticed that there are alot of exoskeletons and UMIs, if you decided to go in any of these other directions would be curious to hear your take as well.
 
-6h ago
+8h ago
 
 ---
 
 **[NEMA17 stepper jitters and overheats when driven by DM542T + arduino](https://www.reddit.com/r/robotics/comments/1qr9d6j/nema17_stepper_jitters_and_overheats_when_driven/)**
 
-10h ago
-
----
-
-**[Framework for Soft Robotics via 3D Printable Artificial Muscles](https://www.reddit.com/r/robotics/comments/1qqrzkz/framework_for_soft_robotics_via_3d_printable/)**
-
-The overall goal is to lower the barrier to entry for soft robotics and provide an alternative approach to building robotic systems. One way to achieve this is by using widely available tools such as FDM 3D printers. The concept centers on a 3D‑printable film used to create inflatable bags. These bags can be stacked to form pneumatic, bellows‑style linear artificial muscles. A tendon‑driven actuator is then assembled around these muscles to create functional motion. The next phase focuses on integration. A 3D‑printed sleeve guides each modular muscle during inflation, and different types of skeletons—human, dog, or frog—can be printed while reusing the same muscle modules across all designs. You can see the experiments with the bags here: https://www.youtube.com/playlist?list=PLF9nRnkMqNpZ-wNNfvy_dFkjDP2D5Q4OO I am looking for groups, labs, researchers, and students working in soft robotics who could provide comments and general feedback on this approach, as well as guidance on developing a complete framework (including workflows, designs, and simulations).
-
-1d ago
+12h ago
 
 ---
 
@@ -112,11 +112,9 @@ The overall goal is to lower the barrier to entry for soft robotics and provide 
 
 ## Google News: "robotics"
 
-**[Belton ISD Launches Unified Robotics Team, Advances to State Competition](https://www.yahoo.com/news/articles/belton-isd-launches-unified-robotics-010020727.html)**
+**[Synthetic 'muscle' with microfluidic blood vessels shows promise for soft robotics](https://techxplore.com/news/2026-01-synthetic-muscle-microfluidic-blood-vessels.html)**
 
-Temple, TX (FOX 44) — Belton ISD just flipped the switch on something special. The district launched its first unified robotics team, the Circuit Breakers. Marking a major milestone in inclusive STEM education. Representing Lake Belton High School, the team placed second at the Texas Special Olympics Unified V5RC event on January 21st in San […]
-
-Yahoo • 1h ago
+Tech Xplore • 3d ago
 
 ---
 
@@ -152,23 +150,25 @@ Yahoo Finance • 1d ago
 
 ---
 
+**[Lightspeed Backs Robotics Startup in $100 Million Round](https://www.bloomberg.com/news/articles/2026-01-29/fiat-toyota-tycoons-back-startup-robco-in-100-million-round)**
+
+Bloomberg.com • 1d ago
+
+---
+
+**[Crew Studies Robotics and Virtual Reality Advancing Space Tech](https://www.nasa.gov/blogs/spacestation/2026/01/27/crew-studies-robotics-and-virtual-reality-advancing-space-tech/)**
+
+Robotics and virtual reality filled the science schedule aboard the International Space Station on Tuesday as the Expedition 74 crew promoted education and explored human research. The orbital trio also inspected safety equipment, worked on cargo swaps, and conducted Earth observations.
+
+NASA (.gov) • 3d ago
+
+---
+
 **[Nuclear Energy Now – Russia Expands Its Use of Nuclear Robotics](https://nationalinterest.org/blog/energy-world/nuclear-energy-now-russia-expands-its-use-of-nuclear-robotics)**
 
 South Korea keeps cuclear energy expansion on track, Russia expands its use of nuclear robotics, and Russia targets nuclear power for the Moon
 
-The National Interest • 2h ago
-
----
-
-**[Synthetic 'muscle' with microfluidic blood vessels shows promise for soft robotics](https://techxplore.com/news/2026-01-synthetic-muscle-microfluidic-blood-vessels.html)**
-
-Tech Xplore • 3d ago
-
----
-
-**[Lightspeed Backs Robotics Startup in $100 Million Round](https://www.bloomberg.com/news/articles/2026-01-29/fiat-toyota-tycoons-back-startup-robco-in-100-million-round)**
-
-Bloomberg.com • 1d ago
+The National Interest • 4h ago
 
 ---
 
@@ -178,11 +178,11 @@ Ondas Holdings • 2d ago
 
 ---
 
-**[Crew Studies Robotics and Virtual Reality Advancing Space Tech](https://www.nasa.gov/blogs/spacestation/2026/01/27/crew-studies-robotics-and-virtual-reality-advancing-space-tech/)**
+**[Lee calls on workers to swiftly adapt to 'unavoidable' AI robotics era](https://www.koreatimes.co.kr/southkorea/politics/20260129/lee-calls-on-workers-to-swiftly-adapt-to-unavoidable-ai-robotics-era)**
 
-Robotics and virtual reality filled the science schedule aboard the International Space Station on Tuesday as the Expedition 74 crew promoted education and explored human research. The orbital trio also inspected safety equipment, worked on cargo swaps, and conducted Earth observations.
+President Lee Jae Myung said Thursday that workers must adapt swiftly to the era of artificial intelligence (AI), in an apparent message to Hyundai...
 
-NASA (.gov) • 3d ago
+The Korea Times • 1d ago
 
 ---
 
@@ -196,7 +196,7 @@ China is deploying AI-powered robots to manage traffic and pedestrian flow in ci
 
 📺 NBC News
 
-👁️ 191K • 👍 2K • 💬 946 • ⏱️ 3:13 • 22h ago
+👁️ 214K • 👍 3K • 💬 1K • ⏱️ 3:13 • 1d ago
 
 ---
 
@@ -206,7 +206,7 @@ RoboticWings #FuturisticLab #Android #SciFi #Robotics #AIArt #Cyberpunk #HighTec
 
 📺 AITECHGADGETS
 
-👁️ 289K • 💬 149 • ⏱️ 0:18 • 5d ago
+👁️ 289K • 💬 151 • ⏱️ 0:18 • 5d ago
 
 ---
 
@@ -216,7 +216,7 @@ Last year, Helix showed that a single neural network could control a humanoid's 
 
 📺 Figure
 
-👁️ 198K • 👍 11K • 💬 2K • ⏱️ 3:37 • 3d ago
+👁️ 196K • 👍 11K • 💬 2K • ⏱️ 3:37 • 3d ago
 
 ---
 
@@ -236,7 +236,7 @@ This new humanoid robot is not about hype or flashy promises. Sprout is designed
 
 📺 DPCcars
 
-👁️ 5K • 👍 87 • 💬 19 • ⏱️ 3:17 • 2d ago
+👁️ 6K • 👍 89 • 💬 18 • ⏱️ 3:17 • 2d ago
 
 ---
 
@@ -246,7 +246,27 @@ Andrea Nakano reports on the Tesla Fremont factory ending Model S/X production a
 
 📺 KPIX | CBS NEWS BAY AREA
 
-👁️ 50K • 👍 474 • 💬 278 • ⏱️ 4:36 • 1d ago
+👁️ 52K • 👍 483 • 💬 282 • ⏱️ 4:36 • 1d ago
+
+---
+
+**[Tesla CEO Elon Musk doubles down on robots](https://www.youtube.com/watch?v=B78RNAlYXLA)**
+
+Tesla's fourth quarter earnings topped analyst estimates. CEO Elon Musk is betting big on robotics and AI with plans to spend $20 ...
+
+📺 Yahoo Finance
+
+👁️ 10K • 👍 148 • 💬 30 • ⏱️ 12:20 • 1d ago
+
+---
+
+**[Pacman Universe – Advanced Robotic Character Animation | StrEat](https://www.youtube.com/watch?v=dm57WnYor00)**
+
+Pacman Universe – Advanced Robotic Character Animation | StrEat Pacman Universe presents a new futuristic 3D animation.
+
+📺 StrEat
+
+👁️ 234K • 👍 450 • 3d ago
 
 ---
 
@@ -256,35 +276,17 @@ How a Common Cow Transformed into a Powerful Robot | #factorworld #wavespeedai #
 
 📺 FACTOR WORLD
 
-👁️ 5K • 👍 72 • ⏱️ 1:31 • 2d ago
+👁️ 6K • 👍 79 • ⏱️ 1:31 • 2d ago
 
 ---
 
-**[Tesla bets big on robotics](https://www.youtube.com/watch?v=yEAf1Mw0qYk)**
+**[Robot that thinks 😳🤖Detects obstacles &amp; changes path automatically #roboarmy #arduinoprojects](https://www.youtube.com/watch?v=d_sDSfkI8ug)**
 
-Steve Westly, former Tesla board member and founder of the Westly Group, joins 'Squawk on the Street' to discuss Tesla's latest ...
+ObstacleAvoidance #ArduinoRobot #Robotics #TechReels #DIYProjects.
 
-📺 CNBC Television
+📺 Roboarmy
 
-👁️ 11K • 👍 73 • 💬 63 • ⏱️ 3:43 • 1d ago
-
----
-
-**[This robot hand is better than a human one](https://www.youtube.com/watch?v=4mNYTnM826k)**
-
-📺 QCT
-
-👁️ 6K • 👍 54 • 💬 7 • ⏱️ 0:22 • 1d ago
-
----
-
-**[Why AI Pizza Machines Are Actually Worrying Workers 🍕](https://www.youtube.com/watch?v=U7tlOl7s3ns)**
-
-Some people are getting concerned because automatic AI pizza-making machines are slowly appearing on streets worldwide.
-
-📺 Taylor Jollie
-
-👁️ 21K • 👍 108 • 💬 12 • ⏱️ 0:19 • 1d ago
+👁️ 2K • 👍 39 • 💬 1 • ⏱️ 0:20 • 10h ago
 
 ---
 

@@ -3,13 +3,13 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-01-31T02:02:49.801941+00:00'
+updated: '2026-01-31T04:15:40.314228+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- news
 - social
+- news
 - videos
 - cryptocurrency
 ---
@@ -18,7 +18,7 @@ data_types:
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** January 31, 2026 at 02:02 UTC  
+**Last Updated:** January 31, 2026 at 04:15 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -36,23 +36,23 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Price
 
-### $2,702.90
+### $2,690.00
 
 ---
 
 ## Ethereum Chart
 
-**24h:** -1.5%  
+**24h:** -1.9%  
 **7d:** -4.2%  
-**30d:** -13.6%  
-**90d:** -25.0%  
-**1y:** -13.4%  
+**30d:** -13.5%  
+**90d:** -24.9%  
+**1y:** -13.3%  
 
 ---
 
 ## Ethereum Market Stats
 
-**Market Cap:** $325.30B
+**Market Cap:** $325.26B
 Rank #2
 
 **Circulating Supply:** 120,694,153 ETH
@@ -62,7 +62,7 @@ No max supply
 -45.5%
 
 **All-Time Low:** $0.43
-+622302.0%
++622546.8%
 
 ---
 
@@ -72,7 +72,7 @@ No max supply
 
 In these five years, the Ethereum Foundation is entering a period of mild austerity, in order to be able to simultaneously meet two goals: Deliver on an aggressive roadmap that ensures Ethereum's status as a performant and scalable world computer that does not compromise on robustness, sustainability and decentralization. Ensures the Ethereum Foundation's own ability to sustain into the long term, and protect Ethereum's core mission and goals, including both the core blockchain layer as well as users' ability to access and use the chain with self-sovereignty, security and privacy. To this end, my own share of the austerity is that I am personally taking on responsibilities that might in another time have been "special projects" of the EF. Specifically, we are seeking the existence of an open-source, secure and verifiable full stack of software and hardware that can protect both our personal lives and our public environments ( see https://vitalik.eth.limo/general/2025/09/24/openness_and_verifiability.html ). This includes applications such as finance, communication and governance, blockchains, operating systems, secure hardware, biotech (including both personal and public health), and more. If you have seen the Vensa announcement (seeking to make open silicon a commercially viable reality at least for security-critical applications), the ucritter.com including recent versions with built in ZK + FHE + differential-privacy features, the air quality work, my donations to encrypted messaging apps, my own enthusiasm and use for privacy-preserving, walkaway-test-friendly and local-first software (including operating systems), then you know the general spirit of what I am planning to support. For this reason I have just withdrawn 16,384 ETH, which will be deployed toward these goals over the next few years. I am also exploring secure decentralized staking options that will allow even more capital from staking rewards to be put toward these goals in the long term. Ethereum itself is an indispensable part of the "full-stack openness and verifiability" vision. The Ethereum Foundation will continue with a steadfast focus on developing Ethereum, with that goal in mind. "Ethereum everywhere" is nice, but the primary priority is "Ethereum for people who need it". Not corposlop, but self-sovereignty, and the baseline infrastructure that enables cooperation without domination. In a world where many people's default mindset is that we need to race to become a big strong bully, because otherwise the existing big strong bullies will eat you first, this is the needed alternative. It will involve much more than technology to succeed, but the technical layer is something which is in our control to make happen. The tools to ensure your, and your community's, autonomy and safety, as a basic right that belongs to everyone. Open not in a bullshit "open means everyone has the right to buy it from us and use our API for $200/month" way, but actually open, and secure and verifiable so that you know that your technology is working for you.
 
-17h ago
+19h ago
 
 ---
 
@@ -80,7 +80,7 @@ In these five years, the Ethereum Foundation is entering a period of mild auster
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-20h ago
+22h ago
 
 ---
 
@@ -88,7 +88,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 It was some time ago that ETH went from proof of work to proof of stake. At the time Vitalik said that there were other changes coming such as faster transaction or lower transaction cost. I have not heard any more since then? Is there any progress?
 
-5h ago
+7h ago
 
 ---
 
@@ -96,23 +96,7 @@ It was some time ago that ETH went from proof of work to proof of stake. At the 
 
 Hello Folks, I just published a smart contract to handle crypto inheritance 100% on-chain, without the owner having to do anything offline. I know there are many solutions that are trying to solve this problem, but I wanted to design my own with my logic, which is the following: - the contract acts like a wallet, owner can deposit, withdraw and transfer - the owner can assign beneficiaries, and update them at any time - the wallet contains an "alive check", which is automatically updated on any transaction - if you wanna use it as a vault (dormant), you can update the "alive check" manually - the owner defines a "consider me death time" in years, eg: if the last alive check is older than 10 years, I'm dead :( - once that happen, any of the beneficiaries can access the wallet and withdraw all the funds At this point, my favorite feature: the wallet gets locked, will reject any future deposit and "answer" with an epitaph... your "last worlds" recorded on-chain that you can configure when you create the wallet. All of the above is less then 100 lines of solidity... amazing :) At the moment I only did the backend (github link), but I'd like to do a nice interface to make it easy to deploy. Of course, free and open source in the Ethereum spirit! Would you give me a feedback on the logic? Do you see any pitfall or edge cases? Thanks, Francesco
 
-8h ago
-
----
-
-**[ETH Tokenizing Commodities](https://www.reddit.com/r/ethereum/comments/1qrgw5p/eth_tokenizing_commodities/)**
-
-Can someone explain to me like I am a 5 year old what tokenizing commodities is? From my understanding, for example, (just an example) 1 bar of gold is tokenized on a coin. That coin gives me the right and true ownership of 1 bar of gold, but who owns that bar of gold? Can I just go to a gold issuer and show them my coin that I am entitled to a bar of gold? How does that portion actually work?
-
-5h ago
-
----
-
-**[138 - Mac Budkowski - NO BS Crypto GTM Guide](https://www.reddit.com/r/ethereum/comments/1qrj8o9/138_mac_budkowski_no_bs_crypto_gtm_guide/)**
-
-The Doots live stream is all about showcasing the best of the week from the Daily General Discussion from the r/ethereum Community on Reddit! Today we talked to Mac Budkowski from macbudkowski.com. He's made the "No BS Crypto GTM guide." Dig into what he has learned about timing, messaging, and why best isn't always good. Host: JT Technical Host: LogrisTheBard https://dailydoots.com by Hanniabu Daily Doots Curator: Tricky_Troll Weekly Doots Curator: The-A-Word Farcaster and Backend Host Support: Ben Broad Media Content Support: Twelve Meatballs Discord Bouncer and Watchdog: Treebeard As always, if you know someone who wants a piece of this action, send em our way. Buy us a ☕ dailydoots.eth All of our channels can be found here: https://dailydoots.com/podcast/ 🕸️https://dailydoots.com 📢https://discord.gg/EVMavericks 📰https://reddit.com/r/ethereum 🔊MINTABLE Podcast 👉: https://pods.media/evmavericks 🍎Apple https://podcasts.apple.com/us/podcast/ethfinance-evmavericks-daily-doots-livestream/id1750089604 🔊Spotify https://open.spotify.com/show/7AotdyMtcvHZLv3pVqkxre 🦁https://x.com/EVMavericks ⏱️TikTok: https://www.tiktok.com/@evmavericks 📺https://www.youtube.com/channel/UC51nlNbIkBm5Qhm7EwQuWLw Twitch: https://www.twitch.tv/evmavericks LinkedIN: https://www.linkedin.com/company/evmavericks-daily-doots-podcast
-
-🔗 [youtu.be](https://youtu.be/lDG5GrjKgew) • 4h ago
+10h ago
 
 ---
 
@@ -120,7 +104,15 @@ The Doots live stream is all about showcasing the best of the week from the Dail
 
 Fidelity Investments FIDD stablecoin, TheDAO Security Fund, Hegotá upgrade headliner proposals
 
-🔗 [ethereal.news](https://ethereal.news/ethereal-news-weekly-9/) • 12h ago
+🔗 [ethereal.news](https://ethereal.news/ethereal-news-weekly-9/) • 15h ago
+
+---
+
+**[138 - Mac Budkowski - NO BS Crypto GTM Guide](https://www.reddit.com/r/ethereum/comments/1qrj8o9/138_mac_budkowski_no_bs_crypto_gtm_guide/)**
+
+The Doots live stream is all about showcasing the best of the week from the Daily General Discussion from the r/ethereum Community on Reddit! Today we talked to Mac Budkowski from macbudkowski.com. He's made the "No BS Crypto GTM guide." Dig into what he has learned about timing, messaging, and why best isn't always good. Host: JT Technical Host: LogrisTheBard https://dailydoots.com by Hanniabu Daily Doots Curator: Tricky_Troll Weekly Doots Curator: The-A-Word Farcaster and Backend Host Support: Ben Broad Media Content Support: Twelve Meatballs Discord Bouncer and Watchdog: Treebeard As always, if you know someone who wants a piece of this action, send em our way. Buy us a ☕ dailydoots.eth All of our channels can be found here: https://dailydoots.com/podcast/ 🕸️https://dailydoots.com 📢https://discord.gg/EVMavericks 📰https://reddit.com/r/ethereum 🔊MINTABLE Podcast 👉: https://pods.media/evmavericks 🍎Apple https://podcasts.apple.com/us/podcast/ethfinance-evmavericks-daily-doots-livestream/id1750089604 🔊Spotify https://open.spotify.com/show/7AotdyMtcvHZLv3pVqkxre 🦁https://x.com/EVMavericks ⏱️TikTok: https://www.tiktok.com/@evmavericks 📺https://www.youtube.com/channel/UC51nlNbIkBm5Qhm7EwQuWLw Twitch: https://www.twitch.tv/evmavericks LinkedIN: https://www.linkedin.com/company/evmavericks-daily-doots-podcast
+
+🔗 [youtu.be](https://youtu.be/lDG5GrjKgew) • 6h ago
 
 ---
 
@@ -128,7 +120,7 @@ Fidelity Investments FIDD stablecoin, TheDAO Security Fund, Hegotá upgrade head
 
 I've been working on adding native smart contract interaction to markdown-based ENS websites on Simple Page, and v1.6.0 just shipped with two features I'm excited to share. Web3 Forms via URI Protocol You can now embed interactive contract calls using web3:// URIs (ERC-6860) directly in markdown. The syntax works like this: ![USDC Balance](web3://0xa0b8...eb48:1/balanceOf/address!0x?returns=(uint256)&labels=(Account)) This renders as a live form that: Reads contract state without signatures (view/pure functions) Handles transactions with type validation Supports payable functions with ETH inputs No Web3.js boilerplate, no React scaffolding—just a URI that gets parsed into a working interface. RSS Feed Generation Sites can now auto-generate RSS feeds at /rss.xml using frontmatter: Per-page opt-in with rss: true Audio enclosures for podcast episodes Standard metadata from markdown headers Technical Architecture The interesting part about Simple Page is how this works with ENS + IPFS: Sites are pure HTML (render without JS) Editor and forms load progressively One contenthash update publishes everything Self-contained—no external dependencies This approach lets ENS names function as actual web3 endpoints rather than just static pages. The web3:// protocol handler does the ABI encoding/decoding client-side. Web3 forms example: https://simplepage.eth.link/guides/editor/web3-forms/ Source: https://simplepage.eth.link/
 
-16h ago
+18h ago
 
 ---
 
@@ -136,7 +128,7 @@ I've been working on adding native smart contract interaction to markdown-based 
 
 Ethereum developers used ACDE #229 to shift focus toward Devnet-2 readiness, execution optimizations & repricing as Glamsterdam moves from scoping into testing.
 
-🔗 [EtherWorld.co](https://etherworld.co/highlights-from-the-all-core-developers-execution-acde-call-229/) • 22h ago
+🔗 [EtherWorld.co](https://etherworld.co/highlights-from-the-all-core-developers-execution-acde-call-229/) • 1d ago
 
 ---
 
@@ -148,13 +140,21 @@ Hey everyone! Liquity V2 here. We launched on Ethereum Mainnet on in Q2 2025, an
 
 ---
 
+**[TheDAO Security Fund](https://www.reddit.com/r/ethereum/comments/1qqp6ry/thedao_security_fund/)**
+
+TheDAO is back & it’s bullish! TheDAO Security Fund will activate more than 75,000 ETH (over $225M) to strengthen Ethereum’s security, ensuring it is ready to become the backbone of the world’s financial infrastructure. A decade after TheDAO saga began, we’re opening a new chapter in its story
+
+🔗 [TheDAO Security Fund](https://paragraph.com/@thedao.fund/thedao-security-fund-activating-75000-eth-for-ethereum-security) • 1d ago
+
+---
+
 ---
 
 ## Google News: "ethereum"
 
-**[Bitcoin, XRP, Ethereum Fall on News of Kevin Warsh Fed Appointment.](https://www.barrons.com/articles/bitcoin-xrp-ethereum-crypto-today-954298d9?gaa_at=eafs&gaa_n=AWEtsqcgTCvh7ThWAehBnW5IoJj-8xcS5bMfRXTnCIYHC_-R77GU1HHBZHeM&gaa_ts=697d6631&gaa_sig=m4xazxlMU4Tlg1cP6iu7Gw37z6Aad9CCdz3TsdwSctoiIiYdSSEdcxeFFahv0UjZGM8SZMH0yOrWgQv_lOmqlQ%3D%3D)**
+**[Bitcoin, XRP, Ethereum Fall on News of Kevin Warsh Fed Appointment.](https://www.barrons.com/articles/bitcoin-xrp-ethereum-crypto-today-954298d9?gaa_at=eafs&gaa_n=AWEtsqc3UM7E8tyA_j9EspWWoTWdvjzgrp8_Mw2yOwLoUaDTN9Bor1Aw4czu&gaa_ts=697d855a&gaa_sig=0RjA0pFqR0vY5xfd1dBKhGCYcszWZ2JMGqmuNeR4vee_gi8ObE0URK0TVii71UhDxzsNGSUzJ8tivJ2E1cszVA%3D%3D)**
 
-Barron's • 7h ago
+Barron's • 10h ago
 
 ---
 
@@ -162,7 +162,7 @@ Barron's • 7h ago
 
 Ripple’s new stablecoin rollout has put a bright spotlight on a simple fact: most RLUSD is living on Ethereum right now. That imbalance has stirred worry among long-time XRP supporters.Some feel the company’s heart might be shifting away from the ledger that gave it a base. Others say the move is p…
 
-TradingView • 7h ago
+TradingView • 9h ago
 
 ---
 
@@ -170,7 +170,7 @@ TradingView • 7h ago
 
 Four major AI models have projected 2026 price targets for Ethereum (CRYPTO: ETH), Solana (CRYPTO: SOL), and XRP (CRYPTO: XRP). The forecasts range from conservative consolidation to triple-digit percentage gains, with each asset showing different upside potential based on adoption trends, network activity, and market positioning. Ethereum anchors institutional DeFi with mature Layer 2 networks, ... AI Models Predict Ethereum, Solana, and XRP 2026 Prices—Which Altcoin Has the Biggest Upside?
 
-Yahoo Finance • 6h ago
+Yahoo Finance • 8h ago
 
 ---
 
@@ -178,7 +178,7 @@ Yahoo Finance • 6h ago
 
 Ethereum’s co-founder said the $43 million withdrawal will support a broader “full-stack openness and verifiability” vision as the foundation tightens spending.
 
-CoinDesk • 16h ago
+CoinDesk • 18h ago
 
 ---
 
@@ -186,7 +186,7 @@ CoinDesk • 16h ago
 
 The Ethereum co-founder wants to pursue an “aggressive” roadmap that will strengthen its status as a decentralized world computer.
 
-Decrypt • 8h ago
+Decrypt • 11h ago
 
 ---
 
@@ -194,15 +194,15 @@ Decrypt • 8h ago
 
 Ethereum co-founder Vitalik Buterin has withdrawn 16,384 ETH, worth roughly $44.5 million at current prices, as the Ethereum Foundation enters what he described as a period of “mild austerity.”In a post on X, Buterin said the Ethereum Foundation is adjusting its spending approach to meet two parall…
 
-TradingView • 11h ago
+TradingView • 14h ago
 
 ---
 
-**[Uneasy Money: How Ethereum May Have One-Upped Bitcoin in One Big Way](https://unchainedcrypto.com/uneasy-money-how-ethereum-may-have-one-upped-bitcoin-in-one-big-way/)**
+**[BitMine Immersion Can’t Stop Buying Ethereum as Crypto Prices Tank](https://www.barchart.com/story/news/37329357/bitmine-immersion-cant-stop-buying-ethereum-as-crypto-prices-tank)**
 
-The crew explores how the explosion of AI agents like Clawdbot and Kimi feels like “pre-DeFi Summer.” Plus, here’s how the U.S. government Bitcoin thief got scammed.
+BitMine Immersion continues to accumulate Ethereum amid price declines, following a treasury strategy inspired by Strategy.
 
-unchainedcrypto.com • 1h ago
+Barchart.com • 7h ago
 
 ---
 
@@ -214,14 +214,6 @@ The Block • 1d ago
 
 ---
 
-**[Lido’s new stVaults will let L2s create their own rules for Ethereum staking](https://www.coindesk.com/tech/2026/01/29/dnp-lido-launches-stvaults-to-let-builders-create-new-ethereum-staking-products)**
-
-stVaults let other teams plug into Lido’s staking system instead of building their own from scratch.
-
-CoinDesk • 11h ago
-
----
-
 **[Tom Lee Urges Investors Not To Ignore Ethereum While Metals Surge, as BitMine Stakes Another $440.5M ETH](https://finance.yahoo.com/news/tom-lee-urges-investors-not-092823952.html)**
 
 Tom Lee has urged investors not to let the rally in gold and silver divert attention from Ethereum. BitMine continues to build its Ethereum position. ...
@@ -230,9 +222,27 @@ Yahoo Finance • 1d ago
 
 ---
 
+**[Lido’s new stVaults will let L2s create their own rules for Ethereum staking](https://www.coindesk.com/tech/2026/01/29/dnp-lido-launches-stvaults-to-let-builders-create-new-ethereum-staking-products)**
+
+stVaults let other teams plug into Lido’s staking system instead of building their own from scratch.
+
+CoinDesk • 14h ago
+
+---
+
 ---
 
 ## YouTube Videos: "ethereum"
+
+**[🚨 BTC &amp; ETH: SELL ALL BITCOIN AND QUIT CRYPTO!!!!!!!!!](https://www.youtube.com/watch?v=Js9TFiiwSBk)**
+
+The situation is getting worse and worse for crypto. Here are facts and my take on whether its time to sell all bitcoin and just quit!
+
+📺 Thomas Kralow
+
+👁️ 56K • 👍 3K • 💬 175 • ⏱️ 13:43 • 1d ago
+
+---
 
 **[BITCOIN &amp; ALTCOIN CRASH: EMERGENCY UPDATE (New Trade)!!! - Bitcoin News Today, Ethereum &amp; Altcoins](https://www.youtube.com/watch?v=_kPvKrJSvxo)**
 
@@ -240,17 +250,7 @@ BITCOIN & ALTCOIN CRASH: EMERGENCY UPDATE (New Trade)!!! - Bitcoin News Today, E
 
 📺 Crypto World
 
-👁️ 5K • 👍 240 • 💬 69 • ⏱️ 22:15 • 7h ago
-
----
-
-**[Mathematician Fred Krueger: The Crypto Price Predictions Are UNBELIEVABLE Now](https://www.youtube.com/watch?v=A5PJS1pcUJo)**
-
-Watch The FULL Interview: "Explosive Crypto Price Prediction for 2026..." FREE Daily On-Chain Analysis & Crypto News In ...
-
-📺 Library Of Wealth
-
-👁️ 11K • 👍 433 • 💬 289 • ⏱️ 14:36 • 20h ago
+👁️ 6K • 👍 265 • 💬 72 • ⏱️ 22:15 • 9h ago
 
 ---
 
@@ -260,7 +260,17 @@ TrumpCrypto2026 #DigitalAssets #TrumpAnnouncement Welcome to the Trump Crypto Fo
 
 📺 Sportfm
 
-👁️ 4K • 👍 990 • 2h ago
+👁️ 4K • 👍 866 • 4h ago
+
+---
+
+**[Why Ethereum Could Matter More Than Bitcoin – Tom Wheelwright, Matthew Leising](https://www.youtube.com/watch?v=kiII6_Q6NWM)**
+
+https://bit.ly/3HLA8ql CLICK HERE Ready to change your financial future? Join Tom Wheelwright, Robert Kiyosaki's CPA, and ...
+
+📺 The Rich Dad Channel
+
+👁️ 3K • 👍 128 • 💬 26 • ⏱️ 33:33 • 1d ago
 
 ---
 
@@ -270,27 +280,7 @@ Is it time to sell silver and buy Ethereum? In this video, I break down why trad
 
 📺 Michaël van de Poppe
 
-👁️ 4K • 👍 150 • 💬 35 • ⏱️ 12:09 • 1d ago
-
----
-
-**[Ethereum Bear Market Isn’t Done Yet, Here’s Why](https://www.youtube.com/watch?v=aeyKBqHmaTY)**
-
-Get $450 Off Our New AI Indicators: https://tradeconfidentportal.io/indicators/ New Members! Get 25% Off Your 1st Month: ...
-
-📺 Trade Confident
-
-👁️ 171 • 👍 10 • 💬 14 • ⏱️ 4:34 • 5h ago
-
----
-
-**[WILL ETHEREUM CRASH LOWER?🚨 (Ethereum Price Prediction 2026)](https://www.youtube.com/watch?v=A2OIPUKO7yo)**
-
-ETHEREUM ETH PRICE PREDICTION 2026 Join the Premium Signal Group for trade setups, mentorship & a community ...
-
-📺 Cilinix Crypto
-
-👁️ 806 • 👍 27 • 💬 1 • ⏱️ 5:29 • 16h ago
+👁️ 4K • 👍 151 • 💬 36 • ⏱️ 12:09 • 1d ago
 
 ---
 
@@ -300,17 +290,7 @@ This video provides a professional Elliott Wave and technical analysis of Ethere
 
 📺 More Crypto Online
 
-👁️ 2K • 👍 136 • 💬 9 • ⏱️ 4:32 • 12h ago
-
----
-
-**[BITCOIN AND ETH: NEW FED CHAIR (he is hawkish wtf)!!!! 🚨🚨🚨](https://www.youtube.com/watch?v=FSBDYffIDv4)**
-
-FREE TRAINING: https://www.bullmania.com EXCHANGES I USE (bybit, pionex): https://www.bullmania.com/partners My ...
-
-📺 Ivan on Tech
-
-👁️ 23K • 👍 1K • 💬 98 • ⏱️ 49:08 • 15h ago
+👁️ 2K • 👍 135 • 💬 9 • ⏱️ 4:32 • 15h ago
 
 ---
 
@@ -320,17 +300,37 @@ Cardano and Ethereum holders... GET READY!! ✓ Bitunix (no kyc, $10000 bonus): 
 
 📺 Altcoin Daily
 
-👁️ 47K • 👍 3K • 💬 294 • ⏱️ 8:35 • 2d ago
+👁️ 47K • 👍 3K • 💬 296 • ⏱️ 8:35 • 2d ago
 
 ---
 
-**[🚨 BTC &amp; ETH: SELL ALL BITCOIN AND QUIT CRYPTO!!!!!!!!!](https://www.youtube.com/watch?v=Js9TFiiwSBk)**
+**[BITCOIN AND ETH: NEW FED CHAIR (he is hawkish wtf)!!!! 🚨🚨🚨](https://www.youtube.com/watch?v=FSBDYffIDv4)**
 
-The situation is getting worse and worse for crypto. Here are facts and my take on whether its time to sell all bitcoin and just quit!
+FREE TRAINING: https://www.bullmania.com EXCHANGES I USE (bybit, pionex): https://www.bullmania.com/partners My ...
 
-📺 Thomas Kralow
+📺 Ivan on Tech
 
-👁️ 55K • 👍 3K • 💬 175 • ⏱️ 13:43 • 1d ago
+👁️ 23K • 👍 1K • 💬 98 • ⏱️ 49:08 • 17h ago
+
+---
+
+**[Mathematician Fred Krueger: The Crypto Price Predictions Are UNBELIEVABLE Now](https://www.youtube.com/watch?v=A5PJS1pcUJo)**
+
+Watch The FULL Interview: "Explosive Crypto Price Prediction for 2026..." FREE Daily On-Chain Analysis & Crypto News In ...
+
+📺 Library Of Wealth
+
+👁️ 11K • 👍 446 • 💬 303 • ⏱️ 14:36 • 22h ago
+
+---
+
+**[&quot;This Bitcoin &amp; Crypto Crash Is WORSE Than Many Realize&quot; - Jack Mallers &amp; Raoul Pal](https://www.youtube.com/watch?v=SusvzMpWuo8)**
+
+Gold is absorbing sovereign capital while Bitcoin struggles — and that's exactly how this transition is supposed to look.
+
+📺 Savvy Finance
+
+👁️ 3K • 👍 208 • 💬 22 • ⏱️ 19:18 • 5h ago
 
 ---
 
