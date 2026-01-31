@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-01-31T11:22:10.976238+00:00'
+updated: '2026-01-31T11:44:07.198928+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
 - videos
-- social
 - news
+- social
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** January 31, 2026 at 11:22 UTC  
+**Last Updated:** January 31, 2026 at 11:44 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -36,7 +36,7 @@ Robotics research and industry news
 
 From: CyberRobo on 𝕏: https://x.com/CyberRobooo/status/2017544750694551618 RoboHub🤖 on 𝕏 (images): https://x.com/XRoboHub/status/2017541654173851909
 
-51m ago
+1h ago
 
 ---
 
@@ -118,7 +118,7 @@ ROS News for the Week of January 25th, 2026                We have a ton of ROS 
 
 Future of the company lies in equipping and running a global fleet of driverless taxis and in selling humanoid robots
 
-Financial Times • 1d ago
+Financial Times • 2d ago
 
 ---
 
@@ -170,7 +170,7 @@ Ondas Holdings • 2d ago
 
 Humanoid robots are set to soak up a whopping 75 GWh of solid-state battery capacity between now and 2035 – nearly 1500x growth!
 
-Electrek • 10h ago
+Electrek • 11h ago
 
 ---
 
@@ -194,13 +194,33 @@ BBC • 2d ago
 
 ## YouTube Videos: "robotics"
 
+**[China’s New Shape Shifting AI Robot Walks on Water, Flies and Swims](https://www.youtube.com/watch?v=nLKj1gvJzWI)**
+
+Humanoid robotics just took a massive leap into the real world. Researchers in China revealed GrowHR, a soft shape shifting ...
+
+📺 AI Revolution
+
+👁️ 21K • 👍 519 • 💬 54 • ⏱️ 14:25 • 12h ago
+
+---
+
 **[China rolls out robot cops in cities to push humanoid robots in daily life](https://www.youtube.com/watch?v=NavsugcHgAo)**
 
 China is deploying AI-powered robots to manage traffic and pedestrian flow in cities. NBC News' Janis Mackey Frayer explains ...
 
 📺 NBC News
 
-👁️ 252K • 👍 3K • 💬 1K • ⏱️ 3:13 • 1d ago
+👁️ 269K • 👍 3K • 💬 1K • ⏱️ 3:13 • 1d ago
+
+---
+
+**[SaaS is over… Why you should build a robotics company in 2026](https://www.youtube.com/watch?v=FqfTQFuSalY)**
+
+2026 will be the year of robotics. We're in an Will Smith spaghetti moment. Remember how AI-generated video looked horrific two ...
+
+📺 Andreas Klinger ⅹ Europe's Most Ambitious Startups
+
+👁️ 25K • 👍 1K • 💬 199 • ⏱️ 16:46 • 4d ago
 
 ---
 
@@ -220,17 +240,7 @@ Last year, Helix showed that a single neural network could control a humanoid's 
 
 📺 Figure
 
-👁️ 199K • 👍 11K • 💬 2K • ⏱️ 3:37 • 3d ago
-
----
-
-**[Air Force Insider WARNS of Bio-Hybrid Robot Threat](https://www.youtube.com/watch?v=R3_R_8SVa5c)**
-
-In this video, we sit down with a former Air Force insider who is sounding the alarm on the rapid advancement of Bio-Hybrid ...
-
-📺 Elijah Zielke
-
-👁️ 2K • 👍 92 • 💬 8 • ⏱️ 10:27 • 11h ago
+👁️ 201K • 👍 11K • 💬 2K • ⏱️ 3:37 • 3d ago
 
 ---
 
@@ -240,7 +250,7 @@ The Cybertruck, autonomous driving and now the mad Optimus humanoid robot - thre
 
 📺 MGUY Australia
 
-👁️ 15K • 👍 2K • 💬 808 • ⏱️ 8:11 • 1d ago
+👁️ 15K • 👍 2K • 💬 814 • ⏱️ 8:11 • 1d ago
 
 ---
 
@@ -250,27 +260,7 @@ ObstacleAvoidance #ArduinoRobot #Robotics #TechReels #DIYProjects.
 
 📺 Roboarmy
 
-👁️ 3K • 👍 69 • 💬 1 • ⏱️ 0:20 • 17h ago
-
----
-
-**[Pacman Universe – Advanced Robotic Character Animation | StrEat](https://www.youtube.com/watch?v=dm57WnYor00)**
-
-Pacman Universe – Advanced Robotic Character Animation | StrEat Pacman Universe presents a new futuristic 3D animation.
-
-📺 StrEat
-
-👁️ 247K • 👍 479 • 3d ago
-
----
-
-**[Meet Sprout: The Humanoid Robot Built for Real World Use](https://www.youtube.com/watch?v=4zMbX1OEOSE)**
-
-This new humanoid robot is not about hype or flashy promises. Sprout is designed to work alongside people in real environments, ...
-
-📺 DPCcars
-
-👁️ 8K • 👍 89 • 💬 19 • ⏱️ 3:17 • 2d ago
+👁️ 4K • 👍 99 • 💬 1 • ⏱️ 0:20 • 18h ago
 
 ---
 
@@ -280,7 +270,17 @@ Andrea Nakano reports on the Tesla Fremont factory ending Model S/X production a
 
 📺 KPIX | CBS NEWS BAY AREA
 
-👁️ 56K • 👍 506 • 💬 300 • ⏱️ 4:36 • 2d ago
+👁️ 56K • 👍 510 • 💬 306 • ⏱️ 4:36 • 2d ago
+
+---
+
+**[Keep watching the robots](https://www.youtube.com/watch?v=bAYIW1aQ_c8)**
+
+Keep watching the robots—because every day brings breakthrough moments that redefine what machines can do and what our ...
+
+📺 Dark Waters
+
+👁️ 238K • 👍 4K • 💬 551 • ⏱️ 0:23 • 1d ago
 
 ---
 
@@ -290,7 +290,7 @@ Some people are getting concerned because automatic AI pizza-making machines are
 
 📺 Taylor Jollie
 
-👁️ 21K • 👍 108 • 💬 12 • ⏱️ 0:19 • 1d ago
+👁️ 21K • 👍 109 • 💬 12 • ⏱️ 0:19 • 1d ago
 
 ---
 

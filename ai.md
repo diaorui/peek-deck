@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-01-31T11:22:10.958121+00:00'
+updated: '2026-01-31T11:44:07.181119+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
 - videos
-- social
-- repositories
 - news
+- repositories
+- social
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** January 31, 2026 at 11:22 UTC  
+**Last Updated:** January 31, 2026 at 11:44 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -63,7 +63,7 @@ I’m seeing too many new devs use AI as an autopilot instead of a hint system. 
 
 OpenClaw’s AI assistants are now building their own social network.[1] DeepSeek AI Releases DeepSeek-OCR 2 with Causal Visual Flow Encoder for Layout Aware Document Understanding.[2] Video game company stock prices dip after Google introduces an AI world-generation tool.[3] AI model from Google’s DeepMind reads recipe for life in DNA.[4] Sources: [1] https://techcrunch.com/2026/01/30/openclaws-ai-assistants-are-now-building-their-own-social-network/ [2] https://www.marktechpost.com/2026/01/30/deepseek-ai-releases-deepseek-ocr-2-with-causal-visual-flow-encoder-for-layout-aware-document-understanding/ [3] https://www.theverge.com/games/871348/google-project-genie-take-two-roblox-unity [4] https://www.bbc.com/news/articles/c39428dv18yo
 
-5h ago
+6h ago
 
 ---
 
@@ -143,7 +143,7 @@ Business Insider • 1h ago
 
 Picks and predictions are pouring in for Super Bowl 60. USA TODAY Sports asked Google Gemini AI to weigh in on the game too. Here's the result.
 
-USA Today • 21m ago
+USA Today • 43m ago
 
 ---
 
@@ -189,7 +189,7 @@ Harvard Business Review • 21h ago
 
 AI is taking on routine tasks for junior employees at the Big Four, but is it damaging their skills development and future potential?
 
-Business Insider • 12m ago
+Business Insider • 34m ago
 
 ---
 
@@ -281,23 +281,13 @@ A lot of vendors pitch AI SRE. We tested 14 models across 11 programming languag
 
 ## YouTube Videos: "ai"
 
-**[Top 9 AI Trends I&#39;m Betting My Bank Account On in 2026](https://www.youtube.com/watch?v=ZP9ki_8-ZvE)**
-
-Get Your FREE AI Company Operating System here: https://go.danmartell.com/3NKZDuQ Are you building an AI software ...
-
-📺 Dan Martell
-
-👁️ 36K • 👍 2K • 💬 410 • ⏱️ 18:48 • 21h ago
-
----
-
 **[STOP Paying! 2 AI Video Generators That Are Actually FREE](https://www.youtube.com/watch?v=5mEWY6-qROo)**
 
 Get the FREE PDF (links + prompts) → https://discord.gg/6aV3ps7tB2 STOP overpaying for AI video. In this video I'll show you 2 ...
 
 📺 Malva AI
 
-👁️ 12K • 👍 772 • 💬 193 • ⏱️ 7:42 • 23h ago
+👁️ 13K • 👍 831 • 💬 213 • ⏱️ 7:42 • 23h ago
 
 ---
 
@@ -307,7 +297,17 @@ Humanoid robotics just took a massive leap into the real world. Researchers in C
 
 📺 AI Revolution
 
-👁️ 16K • 👍 472 • 💬 50 • ⏱️ 14:25 • 11h ago
+👁️ 21K • 👍 519 • 💬 54 • ⏱️ 14:25 • 12h ago
+
+---
+
+**[Top 9 AI Trends I&#39;m Betting My Bank Account On in 2026](https://www.youtube.com/watch?v=ZP9ki_8-ZvE)**
+
+Get Your FREE AI Company Operating System here: https://go.danmartell.com/3NKZDuQ Are you building an AI software ...
+
+📺 Dan Martell
+
+👁️ 39K • 👍 2K • 💬 424 • ⏱️ 18:48 • 21h ago
 
 ---
 
@@ -317,7 +317,7 @@ Here's the news you probably missed this week. If you want to transform your sit
 
 📺 Matt Wolfe
 
-👁️ 33K • 👍 2K • 💬 112 • ⏱️ 30:47 • 17h ago
+👁️ 36K • 👍 2K • 💬 113 • ⏱️ 30:47 • 17h ago
 
 ---
 
@@ -327,7 +327,7 @@ Nobel Prize winner Geoffrey Hinton, the physicist known for his pioneering work 
 
 📺 LBC
 
-👁️ 174K • 👍 2K • 💬 1K • ⏱️ 8:50 • 2d ago
+👁️ 178K • 👍 2K • 💬 1K • ⏱️ 8:50 • 2d ago
 
 ---
 
@@ -337,7 +337,7 @@ Support our work: http://novara.media/support Buy Novara Media merch: https://sh
 
 📺 Novara Media
 
-👁️ 79K • 👍 2K • 💬 731 • ⏱️ 21:03 • 2d ago
+👁️ 79K • 👍 2K • 💬 735 • ⏱️ 21:03 • 2d ago
 
 ---
 
@@ -347,7 +347,7 @@ GET MY FREE GUIDE: *The Content Creator's AI Blueprint: From 25 Hours to 5 Minut
 
 📺 Julia McCoy
 
-👁️ 80K • 👍 4K • 💬 603 • ⏱️ 9:49 • 1d ago
+👁️ 82K • 👍 4K • 💬 615 • ⏱️ 9:49 • 1d ago
 
 ---
 
@@ -357,17 +357,7 @@ AI leaders are warning that the next phase of artificial intelligence could arri
 
 📺 Valuetainment Short Clips
 
-👁️ 14K • 👍 317 • 💬 81 • ⏱️ 20:26 • 1d ago
-
----
-
-**[People Are Making Millions Without Showing Their Face (AI Influencers)](https://www.youtube.com/watch?v=QIX0lnr3qfo)**
-
-Build AI influencers and make money with Higgsfield here: https://higgsfield.ai/ai-influencer-studio?utm_source=thekoerneroffice ...
-
-📺 Chris Koerner on The Koerner Office Podcast
-
-👁️ 30K • 👍 1K • 💬 58 • ⏱️ 13:52 • 1d ago
+👁️ 14K • 👍 324 • 💬 84 • ⏱️ 20:26 • 1d ago
 
 ---
 
@@ -378,6 +368,16 @@ On stage at Imagination In Action's AI Summit in Davos with John Werner, founder
 📺 Forbes
 
 👁️ 44K • 👍 1K • 💬 263 • ⏱️ 29:11 • 2d ago
+
+---
+
+**[People Are Making Millions Without Showing Their Face (AI Influencers)](https://www.youtube.com/watch?v=QIX0lnr3qfo)**
+
+Build AI influencers and make money with Higgsfield here: https://higgsfield.ai/ai-influencer-studio?utm_source=thekoerneroffice ...
+
+📺 Chris Koerner on The Koerner Office Podcast
+
+👁️ 30K • 👍 1K • 💬 58 • ⏱️ 13:52 • 1d ago
 
 ---
 
@@ -393,7 +393,7 @@ Kimi K2.5 is a native multimodal agentic model with 1T parameters, excelling in 
 
 `image-text-to-text`
 
-⬇️ 32,430 • ❤️ 1,239 • 10h ago
+⬇️ 32,430 • ❤️ 1,253 • 10h ago
 
 ---
 
@@ -405,7 +405,7 @@ PersonaPlex-7B-v1 is a real-time, full-duplex speech-to-speech conversational mo
 
 `audio-to-audio`
 
-⬇️ 62,097 • ❤️ 1,527 • 2d ago
+⬇️ 62,097 • ❤️ 1,530 • 2d ago
 
 ---
 
@@ -417,7 +417,7 @@ Z-Image is an undistilled, high-fidelity text-to-image diffusion transformer mod
 
 `text-to-image`
 
-⬇️ 2,893 • ❤️ 720 • 2d ago
+⬇️ 2,893 • ❤️ 723 • 2d ago
 
 ---
 
@@ -429,7 +429,7 @@ DeepSeek-OCR-2 is a multilingual vision-language model for image-to-text tasks, 
 
 `image-text-to-text` `3.4B`
 
-⬇️ 64,623 • ❤️ 577 • 1d ago
+⬇️ 64,623 • ❤️ 581 • 1d ago
 
 ---
 
@@ -441,7 +441,7 @@ Qwen3-TTS-12Hz-1.7B-CustomVoice is a multilingual text-to-speech model supportin
 
 `text-to-speech` `1.9B`
 
-⬇️ 198,332 • ❤️ 809 • 2d ago
+⬇️ 198,332 • ❤️ 812 • 2d ago
 
 ---
 
@@ -453,7 +453,7 @@ HunyuanImage-3.0-Instruct is a native multimodal model for image generation, sup
 
 `image-to-image` `83.0B`
 
-⬇️ 84 • ❤️ 445 • 3d ago
+⬇️ 84 • ❤️ 476 • 3d ago
 
 ---
 
@@ -465,7 +465,7 @@ VibeVoice-ASR is a unified speech-to-text model capable of processing up to 60 m
 
 `automatic-speech-recognition` `8.7B`
 
-⬇️ 124,895 • ❤️ 748 • 3d ago
+⬇️ 124,895 • ❤️ 749 • 3d ago
 
 ---
 
@@ -477,7 +477,7 @@ GLM-4.7-Flash is a 30B-A3B MoE model, offering strong performance in the 30B cla
 
 `text-generation` `31.2B`
 
-⬇️ 725,515 • ❤️ 1,348 • 2d ago
+⬇️ 725,515 • ❤️ 1,355 • 2d ago
 
 ---
 
@@ -489,7 +489,7 @@ PaddleOCR-VL-1.5 is a multilingual Vision-Language Model (VLM) built on ERNIE 4.
 
 `image-text-to-text` `958.6M`
 
-⬇️ 1,001 • ❤️ 243 • 1d ago
+⬇️ 1,001 • ❤️ 250 • 1d ago
 
 ---
 
@@ -501,7 +501,7 @@ LightOnOCR-2-1B is an efficient 1B-parameter end-to-end vision-language model fo
 
 `image-text-to-text` `1.0B`
 
-⬇️ 28,728 • ❤️ 448 • 22h ago
+⬇️ 28,728 • ❤️ 450 • 23h ago
 
 ---
 
@@ -531,7 +531,7 @@ LingBot-World is an open-source world simulator with high-fidelity dynamics, lon
 
 The Qwen3-TTS series presents advanced multilingual text-to-speech models with voice cloning and controllable speech generation capabilities, utilizing dual-track LM architecture and specialized speech tokenizers for efficient streaming synthesis.
 
-▲ 55 • 💬 1 • ⭐ 6,181 • 9d ago
+▲ 55 • 💬 1 • ⭐ 6,231 • 9d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2601.15621) • [💻 code](https://github.com/QwenLM/Qwen3-TTS)
 
@@ -583,7 +583,7 @@ BitNet b1.58 2B4T, a 1-bit Large Language Model with 2 billion parameters, match
 
 DeepSeek-OCR 2 introduces DeepEncoder V2 that dynamically reorders visual tokens based on semantic content, enabling more human-like causal reasoning in 2D image understanding through cascaded 1D causal structures.
 
-▲ 41 • 💬 4 • ⭐ 1,713 • 3d ago
+▲ 42 • 💬 4 • ⭐ 1,713 • 3d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2601.20552) • [💻 code](https://github.com/deepseek-ai/DeepSeek-OCR-2)
 
@@ -597,21 +597,9 @@ DeepSeek-OCR 2 introduces DeepEncoder V2 that dynamically reorders visual tokens
 
 A Vision-Language-Action model trained on extensive real-world robotic data demonstrates superior performance and generalization across multiple platforms while offering enhanced efficiency through optimized training infrastructure.
 
-▲ 42 • 💬 4 • ⭐ 489 • 4d ago
+▲ 42 • 💬 4 • ⭐ 523 • 4d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2601.18692) • [💻 code](https://github.com/robbyant/lingbot-vla) • [🔗 project](https://technology.robbyant.com/lingbot-vla)
-
----
-
-**[UltraRAG: A Modular and Automated Toolkit for Adaptive Retrieval-Augmented Generation](https://huggingface.co/papers/2504.08761)**
-
-*Yuxuan Chen, Dewen Guo, Sen Mei et al. (15 authors)*
-
-UltraRAG is a comprehensive RAG toolkit that automates knowledge adaptation across the entire workflow while providing a user-friendly interface for non-coding deployment.
-
-▲ 7 • 💬 0 • ⭐ 4,866 • 10mo ago
-
-[🎓 arXiv](https://arxiv.org/abs/2504.08761) • [💻 code](https://github.com/OpenBMB/UltraRAG)
 
 ---
 
@@ -621,9 +609,21 @@ UltraRAG is a comprehensive RAG toolkit that automates knowledge adaptation acro
 
 Agent Lightning is a flexible RL framework for training LLMs in various agents, using a hierarchical RL algorithm and decoupling execution from training to handle complex interactions.
 
-▲ 128 • 💬 6 • ⭐ 12,166 • 5mo ago
+▲ 128 • 💬 6 • ⭐ 12,338 • 5mo ago
 
 [🎓 arXiv](https://arxiv.org/abs/2508.03680) • [💻 code](https://github.com/microsoft/agent-lightning) • [🔗 project](https://www.microsoft.com/en-us/research/project/agent-lightning/)
+
+---
+
+**[UltraRAG: A Modular and Automated Toolkit for Adaptive Retrieval-Augmented Generation](https://huggingface.co/papers/2504.08761)**
+
+*Yuxuan Chen, Dewen Guo, Sen Mei et al. (15 authors)*
+
+UltraRAG is a comprehensive RAG toolkit that automates knowledge adaptation across the entire workflow while providing a user-friendly interface for non-coding deployment.
+
+▲ 7 • 💬 0 • ⭐ 4,903 • 10mo ago
+
+[🎓 arXiv](https://arxiv.org/abs/2504.08761) • [💻 code](https://github.com/OpenBMB/UltraRAG)
 
 ---
 
@@ -651,7 +651,7 @@ Browser automation CLI for AI agents
 
 `TypeScript`
 
-⭐ 11.8k • 🔱 656 • 1d ago
+⭐ 11.8k • 🔱 659 • 1d ago
 
 ---
 
@@ -681,7 +681,7 @@ LLM驱动的 A/H/美股智能分析器，多数据源行情 + 实时新闻 + Gem
 
 `Python` `agent` `ai` `aigc` `gemini` `llm`
 
-⭐ 8.0k • 🔱 8.5k • 3h ago
+⭐ 8.1k • 🔱 8.6k • 56m ago
 
 ---
 
@@ -733,11 +733,13 @@ OpenSource Claude Cowork. A desktop AI assistant that helps you with programming
 
 ---
 
-**[op7418/Humanizer-zh](https://github.com/op7418/Humanizer-zh)**
+**[corbindavenport/just-the-browser](https://github.com/corbindavenport/just-the-browser)**
 
-Humanizer 的汉化版本，Claude Code Skills，旨在消除文本中 AI 生成的痕迹。
+Remove AI features, telemetry data reporting, sponsored content, product integrations, and other annoyances from web browsers.
 
-⭐ 1.9k • 🔱 180 • 12d ago
+`Shell` `chrome` `firefox` `google-chrome` `linux` `macos`
+
+⭐ 1.9k • 🔱 53 • 18h ago
 
 ---
 

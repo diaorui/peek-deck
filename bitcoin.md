@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-01-31T11:22:10.966754+00:00'
+updated: '2026-01-31T11:44:07.189581+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- cryptocurrency
 - videos
-- social
 - news
+- cryptocurrency
+- social
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** January 31, 2026 at 11:22 UTC  
+**Last Updated:** January 31, 2026 at 11:44 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -54,7 +54,7 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1654.42B
+**Market Cap:** $1656.51B
 Rank #1
 
 **Circulating Supply:** 19,982,615 BTC
@@ -64,7 +64,7 @@ Rank #1
 -34.3%
 
 **All-Time Low:** $67.81
-+122007.4%
++122131.2%
 
 ---
 
@@ -101,7 +101,7 @@ Watching good will hunting tonight
 
 The deal will be too good to pass at that point.
 
-18h ago
+19h ago
 
 ---
 
@@ -109,7 +109,7 @@ The deal will be too good to pass at that point.
 
 I just bought the dip and officially crossed the 0.1 BTC mark. It’s been a long journey of stacking sats, and it feels incredible to finally hit this milestone. Now that my stack is growing, I know I need to get my coins off the exchanges. I’ve had a Trezor Model T sitting in its box for months, but I haven't set it up yet. I’m feeling a bit of transfer anxiety. I’m terrified of making a mistake during the process and losing my hard-earned BTC. I’ve also seen some talk about the Model T not being as secure as newer models. For those of you who have been through this: Is the Model T still considered solid for a 0.1 BTC stack, or should I upgrade before moving? What are your best tips for a first-time hardware wallet user to ensure I don't mess up the transfer? I’m planning to do a small test transaction first, but any advice to calm the nerves would be much appreciated!
 
-1h ago
+2h ago
 
 ---
 
@@ -117,7 +117,7 @@ I just bought the dip and officially crossed the 0.1 BTC mark. It’s been a lon
 
 The fastest way to create a Bitcoin skeptic is to tell someone you made money on Bitcoin. It's not always about the tech. It's about psychology. When you say you profited, some people don't hear "good investment" — they hear "I missed it." And instead of asking questions, they dismiss it. I've noticed something: the more you talk about your gains, the more resistance you create. Not because Bitcoin is flawed - but because success triggers ego. So maybe the real rule is simple: stack quietly.
 
-3h ago
+4h ago
 
 ---
 
@@ -137,7 +137,7 @@ The fastest way to create a Bitcoin skeptic is to tell someone you made money on
 
 Why are people so worried about the price now? It’s almost guaranteed to hit a new ath in the future.. but when is the question. This year? in 3 years? in 5 years? Anyway it will. DCA AND HODL
 
-11h ago
+12h ago
 
 ---
 
@@ -145,7 +145,7 @@ Why are people so worried about the price now? It’s almost guaranteed to hit a
 
 I wish I had more liquidity!
 
-21h ago
+22h ago
 
 ---
 
@@ -157,7 +157,7 @@ I wish I had more liquidity!
 
 Bitcoin fell toward $83,000 as the U.S. entered a partial shutdown, with traders leaning defensive ahead of a House vote expected Monday.
 
-CoinDesk • 3h ago
+CoinDesk • 4h ago
 
 ---
 
@@ -165,7 +165,7 @@ CoinDesk • 3h ago
 
 Only yesterday, we explained how Donald Trump runs his White House like a reality TV competition. Nominees for high office are turned into contestants vying for his approval, and the frontrunner could switch at any minute.Lo and behold, that’s exactly what’s happened in the race to become the next chairman ...
 
-Yahoo Finance • 22h ago
+Yahoo Finance • 23h ago
 
 ---
 
@@ -197,7 +197,7 @@ Mashable • 1d ago
 
 Binance has a new Bitcoin floor plan.
 
-thestreet.com • 22h ago
+thestreet.com • 23h ago
 
 ---
 
@@ -205,7 +205,7 @@ thestreet.com • 22h ago
 
 Tennessee lawmakers are considering a bill that would allow the state to invest up to 10% of certain public funds in bitcoin.
 
-Bitcoin Magazine • 13h ago
+Bitcoin Magazine • 14h ago
 
 ---
 
@@ -255,7 +255,7 @@ A list of known attacks against Bitcoin / crypto asset owning entities that occu
 
 **[Bitcoin's Quantum Computing Threat](https://news.ycombinator.com/item?id=46824834)**
 
-⬆️ 1 • 💬 0 • 20h ago • [bmpro.substack.com](https://bmpro.substack.com/p/bitcoins-quantum-computing-threat)
+⬆️ 1 • 💬 0 • 21h ago • [bmpro.substack.com](https://bmpro.substack.com/p/bitcoins-quantum-computing-threat)
 
 ---
 
@@ -315,33 +315,23 @@ Transform HN comment threads into executive intelligence. AI analyzes discussion
 
 ## YouTube Videos: "bitcoin"
 
-**[CIO Matt Hougan’s $6.5M Bitcoin Call: &#39;Long Term Investors Will Be Rewarded&#39;](https://www.youtube.com/watch?v=qxZHWdNnmkI)**
-
-Bitwise Chief Investment Officer, Matt Hougan joins CoinDesk's Markets Outlook with Jennifer Sanasie and Andy Baehr.
-
-📺 CoinDesk
-
-👁️ 8K • 👍 251 • 💬 27 • ⏱️ 26:03 • 16h ago
-
----
-
 **[&quot;This Bitcoin &amp; Crypto Crash Is WORSE Than Many Realize&quot; - Jack Mallers &amp; Raoul Pal](https://www.youtube.com/watch?v=SusvzMpWuo8)**
 
 Gold is absorbing sovereign capital while Bitcoin struggles — and that's exactly how this transition is supposed to look. In this ...
 
 📺 Savvy Finance
 
-👁️ 6K • 👍 288 • 💬 23 • ⏱️ 19:18 • 12h ago
+👁️ 7K • 👍 327 • 💬 27 • ⏱️ 19:18 • 13h ago
 
 ---
 
-**[Crypto Just FLIPPED | NEW Fed Chair Means THIS For Bitcoin (Fully Explained)](https://www.youtube.com/watch?v=jDIwD0XRfbo)**
+**[CIO Matt Hougan’s $6.5M Bitcoin Call: &#39;Long Term Investors Will Be Rewarded&#39;](https://www.youtube.com/watch?v=qxZHWdNnmkI)**
 
-Crypto Just FLIPPED | NEW Fed Chair Bitcoin Plan (Fully Explained) ✓ Bitunix (no kyc, $10000 bonus): ...
+Bitwise Chief Investment Officer, Matt Hougan joins CoinDesk's Markets Outlook with Jennifer Sanasie and Andy Baehr.
 
-📺 Altcoin Daily
+📺 CoinDesk
 
-👁️ 37K • 👍 2K • 💬 188 • ⏱️ 8:25 • 12h ago
+👁️ 10K • 👍 278 • 💬 28 • ⏱️ 26:03 • 16h ago
 
 ---
 
@@ -351,17 +341,7 @@ Join The Community: https://bit.ly/FefeCommunity FOLLOW FEFE FOR MORE ALPHA ON .
 
 📺 100XClub
 
-👁️ 12K • 👍 1K • 💬 244 • ⏱️ 28:55 • 17h ago
-
----
-
-**[WATCH THIS VIDEO BEFORE YOU LEAVE BITCOIN!](https://www.youtube.com/watch?v=wHJH-uQRWTI)**
-
-Hard Truths.... Are you ready? CRYPTO RETIREMENT ACCOUNT HERE Sign up for iTrustCapital and get a $100 ...
-
-📺 Crypto Jebb
-
-👁️ 5K • 👍 327 • 💬 107 • ⏱️ 21:18 • 16h ago
+👁️ 13K • 👍 1K • 💬 263 • ⏱️ 28:55 • 18h ago
 
 ---
 
@@ -371,7 +351,7 @@ Check out ClashPicks: https://www.clashpicks.com/ **Exchange Partners** Bitunix 
 
 📺 CryptosRUs
 
-👁️ 51K • 👍 2K • 💬 591 • ⏱️ 8:41 • 1d ago
+👁️ 51K • 👍 2K • 💬 592 • ⏱️ 8:41 • 1d ago
 
 ---
 
@@ -381,17 +361,7 @@ LIMITED TIME: ✓ Bitunix (no kyc, $700 bonus): https://www.bitunix.com/register
 
 📺 Altcoin Daily
 
-👁️ 68K • 👍 2K • 💬 255 • ⏱️ 8:26 • 1d ago
-
----
-
-**[Death of the Dollar? Central Banks MUST Buy Bitcoin!](https://www.youtube.com/watch?v=98imMTwbdQU)**
-
-Central banks are selling Treasuries and hoarding gold at record levels as trust in the dollar erodes. But gold has structural limits ...
-
-📺 Swan Bitcoin
-
-👁️ 23K • 👍 1K • 💬 174 • ⏱️ 14:55 • 21h ago
+👁️ 68K • 👍 2K • 💬 251 • ⏱️ 8:26 • 1d ago
 
 ---
 
@@ -401,17 +371,47 @@ Gold and silver just experienced historic volatility while Bitcoin feels strange
 
 📺 Swan Bitcoin
 
-👁️ 105K • 👍 3K • 💬 437 • ⏱️ 15:38 • 1d ago
+👁️ 106K • 👍 3K • 💬 438 • ⏱️ 15:38 • 1d ago
 
 ---
 
-**[WARNING: Here Is WHY I Think This Bitcoin Breakdown Has Just Begun!](https://www.youtube.com/watch?v=TRjKYjIZoQ8)**
+**[Death of the Dollar? Central Banks MUST Buy Bitcoin!](https://www.youtube.com/watch?v=98imMTwbdQU)**
 
-Kyledoops warned for months of the Bitcoin breakdown. In today's video he shares a couple more reasons why this is likely ...
+Central banks are selling Treasuries and hoarding gold at record levels as trust in the dollar erodes. But gold has structural limits ...
 
-📺 Crypto Banter
+📺 Swan Bitcoin
 
-👁️ 20K • 👍 1K • 💬 31 • ⏱️ 26:07 • 1d ago
+👁️ 24K • 👍 1K • 💬 174 • ⏱️ 14:55 • 21h ago
+
+---
+
+**[Why is Bitcoin Dropping?](https://www.youtube.com/watch?v=pxFxcr11dMI)**
+
+Bitcoin appears to have completed its 2023–2025 market cycle and entered a late-cycle digestion phase similar to mid-2019.
+
+📺 Benjamin Cowen
+
+👁️ 89K • 👍 5K • 💬 395 • ⏱️ 10:19 • 1d ago
+
+---
+
+**[Crypto Just FLIPPED | NEW Fed Chair Means THIS For Bitcoin (Fully Explained)](https://www.youtube.com/watch?v=jDIwD0XRfbo)**
+
+Crypto Just FLIPPED | NEW Fed Chair Bitcoin Plan (Fully Explained) ✓ Bitunix (no kyc, $10000 bonus): ...
+
+📺 Altcoin Daily
+
+👁️ 41K • 👍 2K • 💬 216 • ⏱️ 8:25 • 13h ago
+
+---
+
+**[Crypto Crashes After CLARITY Vote Again!🔥](https://www.youtube.com/watch?v=C5lNcnvjrZs)**
+
+After a brief series of amendments were rejected, the U.S. Senate Agriculture Committee voted to advance its version of the crypto ...
+
+📺 Paul Barron Network
+
+👁️ 163K • 👍 6K • 💬 748 • ⏱️ 16:34 • 1d ago
 
 ---
 
