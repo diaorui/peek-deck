@@ -3,13 +3,13 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-01-31T20:27:19.065713+00:00'
+updated: '2026-01-31T20:50:38.427601+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- social
 - videos
+- social
 - news
 - repositories
 ---
@@ -18,7 +18,7 @@ data_types:
 
 AI news, discussions, and developments
 
-**Last Updated:** January 31, 2026 at 20:27 UTC  
+**Last Updated:** January 31, 2026 at 20:50 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -45,12 +45,6 @@ AI coding tools are getting more sophisticated. But if coders stop coding, what 
 
 ---
 
-**[The $100 Billion Megadeal Between OpenAI and Nvidia Is on Ice](https://www.reddit.com/r/artificial/comments/1qrnq8u/the_100_billion_megadeal_between_openai_and/)**
-
-🔗 [wsj.com](https://www.wsj.com/tech/ai/the-100-billion-megadeal-between-openai-and-nvidia-is-on-ice-aa3025e3) • 19h ago
-
----
-
 **[Nvidia unveils AI models for faster, cheaper weather forecasts](https://www.reddit.com/r/artificial/comments/1qs7otq/nvidia_unveils_ai_models_for_faster_cheaper/)**
 
 "Nvidia released three open-source artificial intelligence models aimed at helping create better weather forecasts, faster.... In the case of weather forecasting, Nvidia is aiming to replace expensive and time-consuming conventional weather simulations with AI-driven versions that the company said can rival or exceed the accuracy of older methods. The AI models, once trained, are also faster and cost less to run ... Nvidia's "Earth-2" models introduced on Monday include one aimed at making 15-day weather forecasts, one that specializes in forecasts of up to six hours for severe storms over the U.S., and one that can be used to integrate disparate data streams from a variety of weather sensors to make them a more useful starting point for other forecasting technology." Model page: https://www.nvidia.com/en-us/high-performance-computing/earth-2/
@@ -59,11 +53,9 @@ AI coding tools are getting more sophisticated. But if coders stop coding, what 
 
 ---
 
-**[Why the "More Data is Better" Era is Officially Over. (2026 AI Strategy)](https://www.reddit.com/r/artificial/comments/1qs7f5x/why_the_more_data_is_better_era_is_officially/)**
+**[The $100 Billion Megadeal Between OpenAI and Nvidia Is on Ice](https://www.reddit.com/r/artificial/comments/1qrnq8u/the_100_billion_megadeal_between_openai_and/)**
 
-For years, the gold standard in AI was "hoard everything, sort it later." But as we move into 2026, I’m seeing this strategy backfire for dozens of companies. In my recent audits at the lab, I’ve seen CTOs burning $10k-$15k monthly on cloud storage for "radioactive" datasets—logs and clicks from 2022 that add zero value to modern reasoning models. The 2026 Reality: The Compliance Wall: Under the EU AI Act, every byte of data you keep is a liability. Inference Noise: Overloaded data lakes are causing AI agents to hallucinate and slow down. The Carbon Tax: Storage isn't just a cost anymore; it’s a regulatory burden. We recently implemented a Data Minimization Audit for a client, deleting 70% of their legacy data. The result? Faster inference speeds and 100% compliance with ISO/IEC 42001. Efficiency is the new "Big Data." If you aren't pruning your datasets, you aren't building for the future; you're just paying a massive "Storage Tax." Are you guys still hoarding for "potential" future use, or have you started the great data purge? (Just finished a deep dive on the technical framework for this audit. Linked it in the comments for those interested in the compliance roadmap.)
-
-3h ago
+🔗 [wsj.com](https://www.wsj.com/tech/ai/the-100-billion-megadeal-between-openai-and-nvidia-is-on-ice-aa3025e3) • 19h ago
 
 ---
 
@@ -72,6 +64,14 @@ For years, the gold standard in AI was "hoard everything, sort it later." But as
 Supports Qwen3-TTS models (0.6B-1.7B) and ASR models. Docker + native deployment options. Key features: 🎭 Voice cloning with reference audio 🎨 Custom voice design from text descriptions ⚡ MLX + Metal GPU acceleration for M1/M2/M3 🎨 Modern React UI included If you like local audio models, give it a try. Works best in local dev mode for now.
 
 🔗 [GitHub](https://github.com/agentem-ai/izwi-audio) • 4h ago
+
+---
+
+**[Why the "More Data is Better" Era is Officially Over. (2026 AI Strategy)](https://www.reddit.com/r/artificial/comments/1qs7f5x/why_the_more_data_is_better_era_is_officially/)**
+
+For years, the gold standard in AI was "hoard everything, sort it later." But as we move into 2026, I’m seeing this strategy backfire for dozens of companies. In my recent audits at the lab, I’ve seen CTOs burning $10k-$15k monthly on cloud storage for "radioactive" datasets—logs and clicks from 2022 that add zero value to modern reasoning models. The 2026 Reality: The Compliance Wall: Under the EU AI Act, every byte of data you keep is a liability. Inference Noise: Overloaded data lakes are causing AI agents to hallucinate and slow down. The Carbon Tax: Storage isn't just a cost anymore; it’s a regulatory burden. We recently implemented a Data Minimization Audit for a client, deleting 70% of their legacy data. The result? Faster inference speeds and 100% compliance with ISO/IEC 42001. Efficiency is the new "Big Data." If you aren't pruning your datasets, you aren't building for the future; you're just paying a massive "Storage Tax." Are you guys still hoarding for "potential" future use, or have you started the great data purge? (Just finished a deep dive on the technical framework for this audit. Linked it in the comments for those interested in the compliance roadmap.)
+
+4h ago
 
 ---
 
@@ -101,7 +101,7 @@ ByteDance, Alibaba and Tencent had been given permission to purchase more than 4
 
 I think maybe
 
-2h ago
+3h ago
 
 ---
 
@@ -117,21 +117,41 @@ Hey everyone. I Just published a breakdown on Moltbot: the self-hosted, open-sou
 
 ## Google News: "ai"
 
-**[AI Agents Created Their Own Religion, Crustafarianism, On An Agent-Only Social Network](https://www.forbes.com/sites/johnkoetsier/2026/01/30/ai-agents-created-their-own-religion-crustafarianism-on-an-agent-only-social-network/)**
+**[Moltbook AI Social Network: 1.4 Million Agents Build A Digital Society](https://www.forbes.com/sites/guneyyildiz/2026/01/31/inside-moltbook-the-social-network-where-14-million-ai-agents-talk-and-humans-just-watch/)**
 
-Forbes • 18h ago
-
----
-
-**[Exclusive | The $100 Billion Megadeal Between OpenAI and Nvidia Is on Ice - WSJ](https://www.wsj.com/tech/ai/the-100-billion-megadeal-between-openai-and-nvidia-is-on-ice-aa3025e3?gaa_at=eafs&gaa_n=AWEtsqfq2Z1q3zM_Ynou-7OhLgqpOYwhW0Mt8UyIrCa1tTLH5MfedTSqSqu-&gaa_ts=697e5e9a&gaa_sig=8bWecFbFR1HrMLceZDdQZrUmDyhKFXV5qEBNTo6mLybLTgxFZ2nk8w3199M8soSnJsWUGh3fIwDvzaT4dBwPWQ%3D%3D)**
-
-The Wall Street Journal • 1h ago
+Forbes • 4h ago
 
 ---
 
-**[Opinion | Young People Are Using A.I. to Skip the Hardest Part of Growing Up](https://www.nytimes.com/2026/01/30/opinion/ai-social-skills-relationships.html)**
+**[Opinion | Pay More Attention to A.I.](https://www.nytimes.com/2026/01/31/opinion/artificial-intelligence-new-world.html)**
 
-The New York Times • 1d ago
+The New York Times • 8h ago
+
+---
+
+**[AI Is Turning Regulation Into A Growth Variable](https://www.forbes.com/sites/robertginsburg/2026/01/31/ai-is-turning-regulation-into-a-growth-variable/)**
+
+Forbes • 30m ago
+
+---
+
+**[AI Boom Is Triggering a Loan Meltdown for Software Companies: Credit Weekly](https://www.bloomberg.com/news/articles/2026-01-31/ai-boom-is-triggering-a-loan-meltdown-for-software-companies-credit-weekly)**
+
+Bloomberg • 50m ago
+
+---
+
+**[How AI assistance impacts the formation of coding skills](https://www.anthropic.com/research/AI-assistance-coding-skills)**
+
+Anthropic is an AI safety and research company that's working to build reliable, interpretable, and steerable AI systems.
+
+Anthropic • 2d ago
+
+---
+
+**[Exclusive | The $100 Billion Megadeal Between OpenAI and Nvidia Is on Ice - WSJ](https://www.wsj.com/tech/ai/the-100-billion-megadeal-between-openai-and-nvidia-is-on-ice-aa3025e3?gaa_at=eafs&gaa_n=AWEtsqeLCnYs_8POIiyQrAQ-cBV8l3xxEhRYFOJ5RwdIlKnTvmrEsQzKa5Xs&gaa_ts=697e6e7f&gaa_sig=fvB-4KuBJDHF5BWwspRXP3qQIBV10e4zdHLdE8NEbbrCFsEy__j80P9ikn8N-Rb3k_haY4z1UAmUFMmHPTwDKQ%3D%3D)**
+
+The Wall Street Journal • 2h ago
 
 ---
 
@@ -141,31 +161,11 @@ The Hill • 1d ago
 
 ---
 
-**[Elon Musk’s Relentless AI Pursuit Has Him on the Hunt for Capital](https://www.bloomberg.com/news/features/2026-01-31/elon-musk-s-ai-push-has-him-considering-mergers-in-search-for-capital)**
+**[To avoid accusations of AI cheating, college students are turning to AI](https://www.nbcnews.com/tech/internet/college-students-ai-cheating-detectors-humanizers-rcna253878)**
 
-Bloomberg.com • 19h ago
+Students are taking new measures, such as dumbing down their work, spying on themselves and using AI “humanizer” programs, to beat accusations of cheating with artificial intelligence.
 
----
-
-**[Musk's Starlink updates privacy policy to allow consumer data to train AI](https://www.reuters.com/legal/litigation/musks-starlink-updates-privacy-policy-allow-consumer-data-train-ai-2026-01-30/)**
-
-Reuters • 21h ago
-
----
-
-**[Elon Musk's SpaceX applies to launch 1m satellites into orbit](https://www.bbc.com/news/articles/cyv5l24mrjmo)**
-
-The firm wants to create a network of "orbital data centres" to power artificial intelligence.
-
-BBC • 4h ago
-
----
-
-**[NASA’s Perseverance Rover Completes First AI-Planned Drive on Mars](https://www.jpl.nasa.gov/news/nasas-perseverance-rover-completes-first-ai-planned-drive-on-mars/)**
-
-The team for the six-wheeled scientist used a vision-capable AI to create a safe route over the Red Planet’s surface without the input of human route planners.
-
-NASA Jet Propulsion Laboratory (JPL) (.gov) • 1d ago
+NBC News • 3d ago
 
 ---
 
@@ -181,7 +181,7 @@ CNBC • 1d ago
 
 A federal jury on Thursday convicted Linwei Ding, 38, of seven counts of economic espionage and seven counts of theft of trade secrets after an 11-day trial in the U.S. District Court in the Northern District of California.
 
-Los Angeles Times • 17h ago
+Los Angeles Times • 18h ago
 
 ---
 
@@ -203,7 +203,7 @@ Guys, enough is enough. Bullying is a s...
 
 Anthropic is an AI safety and research company that's working to build reliable, interpretable, and steerable AI systems.
 
-⬆️ 449 • 💬 333 • 1d ago • [anthropic.com](https://www.anthropic.com/research/AI-assistance-coding-skills)
+⬆️ 452 • 💬 334 • 1d ago • [anthropic.com](https://www.anthropic.com/research/AI-assistance-coding-skills)
 
 ---
 
@@ -211,13 +211,13 @@ Anthropic is an AI safety and research company that's working to build reliable,
 
 Or, as they like to call it, the 'AI Skills Hub'. Which was built by PwC because of course it was
 
-⬆️ 399 • 💬 146 • 2d ago • [Mahad Kalam](https://mahadk.com/posts/ai-skills-hub)
+⬆️ 399 • 💬 147 • 2d ago • [Mahad Kalam](https://mahadk.com/posts/ai-skills-hub)
 
 ---
 
 **[The tech market is fundamentally fucked up and AI is just a scapegoat](https://news.ycombinator.com/item?id=46809069)**
 
-⬆️ 310 • 💬 219 • 2d ago • [bayramovanar.substack.com](https://bayramovanar.substack.com/p/tech-market-is-fucked-up)
+⬆️ 311 • 💬 219 • 2d ago • [bayramovanar.substack.com](https://bayramovanar.substack.com/p/tech-market-is-fucked-up)
 
 ---
 
@@ -225,7 +225,7 @@ Or, as they like to call it, the 'AI Skills Hub'. Which was built by PwC because
 
 Moltworker is a middleware Worker and adapted scripts that allows running Moltbot (formerly Clawdbot) on Cloudflare's Sandbox SDK and our Developer Platform APIs. So you can self-host an AI personal assistant — without any new hardware.
 
-⬆️ 236 • 💬 67 • 2d ago • [The Cloudflare Blog](https://blog.cloudflare.com/moltworker-self-hosted-ai-agent/)
+⬆️ 237 • 💬 68 • 2d ago • [The Cloudflare Blog](https://blog.cloudflare.com/moltworker-self-hosted-ai-agent/)
 
 ---
 
@@ -249,7 +249,7 @@ The rise of LLMs as a useful development tool over the last year or so has been 
 
 New York mayor says terminating the ‘unusable’ bot will help close a budget gap
 
-⬆️ 172 • 💬 59 • 1d ago • [themarkup.org](https://themarkup.org/artificial-intelligence/2026/01/30/mamdani-to-kill-the-nyc-ai-chatbot-we-caught-telling-businesses-to-break-the-law)
+⬆️ 173 • 💬 60 • 1d ago • [themarkup.org](https://themarkup.org/artificial-intelligence/2026/01/30/mamdani-to-kill-the-nyc-ai-chatbot-we-caught-telling-businesses-to-break-the-law)
 
 ---
 
@@ -265,7 +265,7 @@ A lot of vendors pitch AI SRE. We tested 14 models across 11 programming languag
 
 Contribute to amlalabs/amla-sandbox development by creating an account on GitHub.
 
-⬆️ 139 • 💬 74 • 1d ago • [GitHub](https://github.com/amlalabs/amla-sandbox)
+⬆️ 140 • 💬 74 • 1d ago • [GitHub](https://github.com/amlalabs/amla-sandbox)
 
 ---
 
@@ -273,83 +273,13 @@ Contribute to amlalabs/amla-sandbox development by creating an account on GitHub
 
 ## YouTube Videos: "ai"
 
-**[AI Is Talking to Itself While Humans Watch: Behind The Internet’s Strangest VIRAL Social Network](https://www.youtube.com/watch?v=eEw0lutVQb0)**
-
-A new platform called Moltbook is going viral — and it's not built for humans. It's a social network where AI agents create accounts, ...
-
-📺 Mint
-
-👁️ 430 • 👍 14 • ⏱️ 3:25 • 3h ago
-
----
-
 **[STOP Paying! 2 AI Video Generators That Are Actually FREE](https://www.youtube.com/watch?v=5mEWY6-qROo)**
 
 Get the FREE PDF (links + prompts) → https://discord.gg/6aV3ps7tB2 STOP overpaying for AI video. In this video I'll show you 2 ...
 
 📺 Malva AI
 
-👁️ 16K • 👍 958 • 💬 252 • ⏱️ 7:42 • 1d ago
-
----
-
-**[Top 9 AI Trends I&#39;m Betting My Bank Account On in 2026](https://www.youtube.com/watch?v=ZP9ki_8-ZvE)**
-
-Get Your FREE AI Company Operating System here: https://go.danmartell.com/3NKZDuQ Are you building an AI software ...
-
-📺 Dan Martell
-
-👁️ 46K • 👍 2K • 💬 476 • ⏱️ 18:48 • 1d ago
-
----
-
-**[China’s New Shape Shifting AI Robot Walks on Water, Flies and Swims](https://www.youtube.com/watch?v=nLKj1gvJzWI)**
-
-Humanoid robotics just took a massive leap into the real world. Researchers in China revealed GrowHR, a soft shape shifting ...
-
-📺 AI Revolution
-
-👁️ 39K • 👍 706 • 💬 115 • ⏱️ 14:25 • 20h ago
-
----
-
-**[The AI Moment Everyone Will Misunderstand](https://www.youtube.com/watch?v=fsRJSVLGExI)**
-
-CHAPTERS ⤵ 00:00 - How AI Is Quietly Reshaping Everyday Life 01:47 - Google's Genie AI Accidentally Helped Me Make Bad ...
-
-📺 Dylan Curious
-
-👁️ 2K • 👍 214 • 💬 47 • ⏱️ 25:03 • 5h ago
-
----
-
-**[EXACTLY How I&#39;d Start Making AI Music Videos in 2026](https://www.youtube.com/watch?v=8_3wd4uv3U8)**
-
-Create AI Music Videos with OpenArt https://www.openart.ai/home/?ref=isa-27 In this video, I show you the exact AI workflow I ...
-
-📺 Isa does AI
-
-👁️ 7K • 💬 2 • ⏱️ 10:25 • 7h ago
-
----
-
-**[Christian Professor Responds to Shocking Claims About AI](https://www.youtube.com/watch?v=JYnuT83xk_g)**
-
-Glen Scrivener interviews Professor John Lennox about AI, and Yuval Noah Harari's recent comments at Davos. Harari's Talk: ...
-
-📺 Glen Scrivener (Speak Life)
-
-👁️ 21K • 👍 1K • 💬 355 • ⏱️ 46:45 • 1d ago
-
----
-
-**[Microsoft JUST Issued a DIRE WARNING: &quot;The AI Bubble is About to BURST&quot;!](https://www.youtube.com/watch?v=gmj50wCM2CM)**
-
-Microsoft just warned that the AI bubble is about to burst and take trillions of dollars of wealth with it. And when it does, the ...
-
-📺 Steven Van Metre
-
-👁️ 42K • 👍 2K • 💬 155 • ⏱️ 12:05 • 1d ago
+👁️ 17K • 👍 992 • 💬 263 • ⏱️ 7:42 • 1d ago
 
 ---
 
@@ -359,7 +289,47 @@ OpenClaw (formerly ClaudeBot) demonstrates emergent agent capabilities like auto
 
 📺 The AI Daily Brief: Artificial Intelligence News
 
-👁️ 55K • 👍 2K • 💬 408 • ⏱️ 21:12 • 18h ago
+👁️ 64K • 👍 2K • 💬 442 • ⏱️ 21:12 • 19h ago
+
+---
+
+**[The AI Moment Everyone Will Misunderstand](https://www.youtube.com/watch?v=fsRJSVLGExI)**
+
+CHAPTERS ⤵ 00:00 - How AI Is Quietly Reshaping Everyday Life 01:47 - Google's Genie AI Accidentally Helped Me Make Bad ...
+
+📺 Dylan Curious
+
+👁️ 4K • 👍 288 • 💬 61 • ⏱️ 25:03 • 6h ago
+
+---
+
+**[Top 9 AI Trends I&#39;m Betting My Bank Account On in 2026](https://www.youtube.com/watch?v=ZP9ki_8-ZvE)**
+
+Get Your FREE AI Company Operating System here: https://go.danmartell.com/3NKZDuQ Are you building an AI software ...
+
+📺 Dan Martell
+
+👁️ 49K • 👍 2K • 💬 493 • ⏱️ 18:48 • 1d ago
+
+---
+
+**[China’s New Shape Shifting AI Robot Walks on Water, Flies and Swims](https://www.youtube.com/watch?v=nLKj1gvJzWI)**
+
+Humanoid robotics just took a massive leap into the real world. Researchers in China revealed GrowHR, a soft shape shifting ...
+
+📺 AI Revolution
+
+👁️ 46K • 👍 768 • 💬 126 • ⏱️ 14:25 • 21h ago
+
+---
+
+**[I Tried 110+ AI Tools, These 14 are the Best (Backed by Data)](https://www.youtube.com/watch?v=w5YvRT3dOEE)**
+
+In this video, I break down the 14 best AI tools that actually hold up after months of real use and explain how they fit together as a ...
+
+📺 Parker Prompts
+
+👁️ 12K • 💬 15 • ⏱️ 11:46 • 7h ago
 
 ---
 
@@ -369,7 +339,37 @@ AI agents now have their own social network called Moltbook, and it's absolute c
 
 📺 Universe of AI
 
-👁️ 13K • 👍 396 • 💬 119 • ⏱️ 8:45 • 19h ago
+👁️ 14K • 👍 417 • 💬 125 • ⏱️ 8:45 • 20h ago
+
+---
+
+**[Every AI Business Model Explained in 8 Minutes (Start from Home)](https://www.youtube.com/watch?v=CSULpfABy0I)**
+
+Join the #1 community for AI entrepreneurs and connect with 280k+ members: https://bit.ly/4t6HeJ1 Become a Wildly Profitable ...
+
+📺 Liam Ottley
+
+👁️ 8K • 👍 506 • 💬 31 • ⏱️ 8:14 • 12h ago
+
+---
+
+**[EXACTLY How I&#39;d Start Making AI Music Videos in 2026](https://www.youtube.com/watch?v=8_3wd4uv3U8)**
+
+Create AI Music Videos with OpenArt https://www.openart.ai/home/?ref=isa-27 In this video, I show you the exact AI workflow I ...
+
+📺 Isa does AI
+
+👁️ 8K • 💬 4 • ⏱️ 10:25 • 7h ago
+
+---
+
+**[Gaming Industry loses $400 BILLION TODAY! Google AI tries to RUIN GAMES?!](https://www.youtube.com/watch?v=AVfnP9TUEww)**
+
+Like and subscribe if you enjoyed it! Follow me on social media: Instagram: http://instagram.com/dreamcastguy BlueSky: ...
+
+📺 DreamcastGuy
+
+👁️ 18K • 👍 1K • 💬 351 • ⏱️ 11:19 • 22h ago
 
 ---
 
@@ -385,7 +385,7 @@ Kimi K2.5 is a native multimodal agentic model with 1T parameters, excelling in 
 
 `image-text-to-text`
 
-⬇️ 32,430 • ❤️ 1,278 • 19h ago
+⬇️ 32,430 • ❤️ 1,287 • 19h ago
 
 ---
 
@@ -397,7 +397,7 @@ PersonaPlex-7B-v1 is a real-time, full-duplex speech-to-speech conversational mo
 
 `audio-to-audio`
 
-⬇️ 62,097 • ❤️ 1,540 • 2d ago
+⬇️ 62,097 • ❤️ 1,548 • 2d ago
 
 ---
 
@@ -409,7 +409,7 @@ Z-Image is an undistilled, high-fidelity text-to-image diffusion transformer mod
 
 `text-to-image`
 
-⬇️ 2,893 • ❤️ 729 • 3d ago
+⬇️ 2,893 • ❤️ 731 • 3d ago
 
 ---
 
@@ -421,7 +421,7 @@ HunyuanImage-3.0-Instruct is a native multimodal model for image generation, sup
 
 `image-to-image` `83.0B`
 
-⬇️ 84 • ❤️ 717 • 3d ago
+⬇️ 84 • ❤️ 719 • 3d ago
 
 ---
 
@@ -433,7 +433,7 @@ DeepSeek-OCR-2 is a multilingual vision-language model for image-to-text tasks, 
 
 `image-text-to-text` `3.4B`
 
-⬇️ 64,623 • ❤️ 585 • 1d ago
+⬇️ 64,623 • ❤️ 586 • 1d ago
 
 ---
 
@@ -445,7 +445,7 @@ Qwen3-TTS-12Hz-1.7B-CustomVoice is a multilingual text-to-speech model supportin
 
 `text-to-speech` `1.9B`
 
-⬇️ 198,332 • ❤️ 817 • 2d ago
+⬇️ 198,332 • ❤️ 818 • 2d ago
 
 ---
 
@@ -457,7 +457,7 @@ VibeVoice-ASR is a unified speech-to-text model capable of processing up to 60 m
 
 `automatic-speech-recognition` `8.7B`
 
-⬇️ 124,895 • ❤️ 752 • 4d ago
+⬇️ 124,895 • ❤️ 755 • 4d ago
 
 ---
 
@@ -469,7 +469,7 @@ GLM-4.7-Flash is a 30B-A3B MoE model, offering strong performance in the 30B cla
 
 `text-generation` `31.2B`
 
-⬇️ 725,515 • ❤️ 1,382 • 2d ago
+⬇️ 725,515 • ❤️ 1,383 • 2d ago
 
 ---
 
@@ -481,7 +481,7 @@ PaddleOCR-VL-1.5 is a multilingual Vision-Language Model (VLM) built on ERNIE 4.
 
 `image-text-to-text` `958.6M`
 
-⬇️ 1,001 • ❤️ 268 • 1d ago
+⬇️ 1,001 • ❤️ 269 • 1d ago
 
 ---
 
@@ -493,7 +493,7 @@ Qwen3-ASR-1.7B is a state-of-the-art automatic speech recognition model supporti
 
 `automatic-speech-recognition` `2.3B`
 
-⬇️ 8,346 • ❤️ 265 • 1d ago
+⬇️ 8,346 • ❤️ 267 • 1d ago
 
 ---
 
@@ -523,7 +523,7 @@ LingBot-World is an open-source world simulator with high-fidelity dynamics, lon
 
 The Qwen3-TTS series presents advanced multilingual text-to-speech models with voice cloning and controllable speech generation capabilities, utilizing dual-track LM architecture and specialized speech tokenizers for efficient streaming synthesis.
 
-▲ 56 • 💬 1 • ⭐ 6,231 • 9d ago
+▲ 56 • 💬 1 • ⭐ 6,309 • 9d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2601.15621) • [💻 code](https://github.com/QwenLM/Qwen3-TTS)
 
@@ -535,7 +535,7 @@ The Qwen3-TTS series presents advanced multilingual text-to-speech models with v
 
 BitNet b1.58 2B4T, a 1-bit Large Language Model with 2 billion parameters, matches the performance of full-precision models while improving computational efficiency.
 
-▲ 81 • 💬 2 • ⭐ 26,951 • 9mo ago
+▲ 81 • 💬 2 • ⭐ 27,136 • 9mo ago
 
 [🎓 arXiv](https://arxiv.org/abs/2504.12285) • [💻 code](https://github.com/microsoft/bitnet)
 
@@ -567,6 +567,18 @@ Bitnet.cpp enhances edge inference for ternary LLMs using a novel mixed-precisio
 
 ---
 
+**[Agent Lightning: Train ANY AI Agents with Reinforcement Learning](https://huggingface.co/papers/2508.03680)**
+
+*Xufang Luo, Yuge Zhang, Zhiyuan He et al. (8 authors)*
+
+Agent Lightning is a flexible RL framework for training LLMs in various agents, using a hierarchical RL algorithm and decoupling execution from training to handle complex interactions.
+
+▲ 128 • 💬 6 • ⭐ 12,556 • 5mo ago
+
+[🎓 arXiv](https://arxiv.org/abs/2508.03680) • [💻 code](https://github.com/microsoft/agent-lightning) • [🔗 project](https://www.microsoft.com/en-us/research/project/agent-lightning/)
+
+---
+
 **[DeepSeek-OCR 2: Visual Causal Flow](https://huggingface.co/papers/2601.20552)**
 
 *Haoran Wei, Yaofeng Sun, Yukun Li*
@@ -592,18 +604,6 @@ A Vision-Language-Action model trained on extensive real-world robotic data demo
 ▲ 43 • 💬 4 • ⭐ 523 • 5d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2601.18692) • [💻 code](https://github.com/robbyant/lingbot-vla) • [🔗 project](https://technology.robbyant.com/lingbot-vla)
-
----
-
-**[Agent Lightning: Train ANY AI Agents with Reinforcement Learning](https://huggingface.co/papers/2508.03680)**
-
-*Xufang Luo, Yuge Zhang, Zhiyuan He et al. (8 authors)*
-
-Agent Lightning is a flexible RL framework for training LLMs in various agents, using a hierarchical RL algorithm and decoupling execution from training to handle complex interactions.
-
-▲ 128 • 💬 6 • ⭐ 12,338 • 5mo ago
-
-[🎓 arXiv](https://arxiv.org/abs/2508.03680) • [💻 code](https://github.com/microsoft/agent-lightning) • [🔗 project](https://www.microsoft.com/en-us/research/project/agent-lightning/)
 
 ---
 
@@ -643,7 +643,7 @@ Browser automation CLI for AI agents
 
 `TypeScript`
 
-⭐ 11.9k • 🔱 661 • 2d ago
+⭐ 11.9k • 🔱 664 • 2d ago
 
 ---
 
@@ -693,7 +693,7 @@ The Ultimate Collection of 500+ Agentic Skills for Claude Code/Antigravity/Curso
 
 `Python` `agentic-skills` `ai-agents` `antigravity` `autonomous-coding` `claude-code`
 
-⭐ 5.8k • 🔱 1.3k • 12h ago
+⭐ 5.8k • 🔱 1.3k • 13h ago
 
 ---
 
@@ -703,7 +703,7 @@ Marketing skills for Claude Code and AI agents. CRO, copywriting, SEO, analytics
 
 `claude` `codex` `marketing`
 
-⭐ 5.5k • 🔱 590 • 3d ago
+⭐ 5.5k • 🔱 591 • 3d ago
 
 ---
 
@@ -711,7 +711,7 @@ Marketing skills for Claude Code and AI agents. CRO, copywriting, SEO, analytics
 
 Claude Code skill that removes signs of AI-generated writing from text
 
-⭐ 3.6k • 🔱 302 • 8d ago
+⭐ 3.6k • 🔱 304 • 8d ago
 
 ---
 
