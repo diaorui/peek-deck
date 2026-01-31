@@ -3,14 +3,14 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-01-31T07:51:29.127761+00:00'
+updated: '2026-01-31T08:33:06.100034+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- social
 - cryptocurrency
 - videos
+- social
 - news
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** January 31, 2026 at 07:51 UTC  
+**Last Updated:** January 31, 2026 at 08:33 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -36,17 +36,17 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Price
 
-### $2,690.00
+### $2,657.03
 
 ---
 
 ## Ethereum Chart
 
-**24h:** -1.8%  
-**7d:** -4.4%  
-**30d:** -13.8%  
-**90d:** -25.1%  
-**1y:** -13.6%  
+**24h:** -2.3%  
+**7d:** -5.6%  
+**30d:** -14.8%  
+**90d:** -26.0%  
+**1y:** -14.6%  
 
 ---
 
@@ -72,7 +72,7 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-1h ago
+2h ago
 
 ---
 
@@ -80,7 +80,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 In these five years, the Ethereum Foundation is entering a period of mild austerity, in order to be able to simultaneously meet two goals: Deliver on an aggressive roadmap that ensures Ethereum's status as a performant and scalable world computer that does not compromise on robustness, sustainability and decentralization. Ensures the Ethereum Foundation's own ability to sustain into the long term, and protect Ethereum's core mission and goals, including both the core blockchain layer as well as users' ability to access and use the chain with self-sovereignty, security and privacy. To this end, my own share of the austerity is that I am personally taking on responsibilities that might in another time have been "special projects" of the EF. Specifically, we are seeking the existence of an open-source, secure and verifiable full stack of software and hardware that can protect both our personal lives and our public environments ( see https://vitalik.eth.limo/general/2025/09/24/openness_and_verifiability.html ). This includes applications such as finance, communication and governance, blockchains, operating systems, secure hardware, biotech (including both personal and public health), and more. If you have seen the Vensa announcement (seeking to make open silicon a commercially viable reality at least for security-critical applications), the ucritter.com including recent versions with built in ZK + FHE + differential-privacy features, the air quality work, my donations to encrypted messaging apps, my own enthusiasm and use for privacy-preserving, walkaway-test-friendly and local-first software (including operating systems), then you know the general spirit of what I am planning to support. For this reason I have just withdrawn 16,384 ETH, which will be deployed toward these goals over the next few years. I am also exploring secure decentralized staking options that will allow even more capital from staking rewards to be put toward these goals in the long term. Ethereum itself is an indispensable part of the "full-stack openness and verifiability" vision. The Ethereum Foundation will continue with a steadfast focus on developing Ethereum, with that goal in mind. "Ethereum everywhere" is nice, but the primary priority is "Ethereum for people who need it". Not corposlop, but self-sovereignty, and the baseline infrastructure that enables cooperation without domination. In a world where many people's default mindset is that we need to race to become a big strong bully, because otherwise the existing big strong bullies will eat you first, this is the needed alternative. It will involve much more than technology to succeed, but the technical layer is something which is in our control to make happen. The tools to ensure your, and your community's, autonomy and safety, as a basic right that belongs to everyone. Open not in a bullshit "open means everyone has the right to buy it from us and use our API for $200/month" way, but actually open, and secure and verifiable so that you know that your technology is working for you.
 
-23h ago
+1d ago
 
 ---
 
@@ -96,7 +96,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 Watch before one bug costs you everything. https://x.com/SolidityScan/status/2017172006056390715?s=20
 
-58m ago
+1h ago
 
 ---
 
@@ -116,19 +116,19 @@ Hello Folks, I just published a smart contract to handle crypto inheritance 100%
 
 ---
 
-**[Ethereal news weekly #9 | Fidelity Investments FIDD stablecoin, TheDAO Security Fund, Hegotá upgrade headliner proposals](https://www.reddit.com/r/ethereum/comments/1qr54bw/ethereal_news_weekly_9_fidelity_investments_fidd/)**
-
-Fidelity Investments FIDD stablecoin, TheDAO Security Fund, Hegotá upgrade headliner proposals
-
-🔗 [ethereal.news](https://ethereal.news/ethereal-news-weekly-9/) • 18h ago
-
----
-
 **[138 - Mac Budkowski - NO BS Crypto GTM Guide](https://www.reddit.com/r/ethereum/comments/1qrj8o9/138_mac_budkowski_no_bs_crypto_gtm_guide/)**
 
 The Doots live stream is all about showcasing the best of the week from the Daily General Discussion from the r/ethereum Community on Reddit! Today we talked to Mac Budkowski from macbudkowski.com. He's made the "No BS Crypto GTM guide." Dig into what he has learned about timing, messaging, and why best isn't always good. Host: JT Technical Host: LogrisTheBard https://dailydoots.com by Hanniabu Daily Doots Curator: Tricky_Troll Weekly Doots Curator: The-A-Word Farcaster and Backend Host Support: Ben Broad Media Content Support: Twelve Meatballs Discord Bouncer and Watchdog: Treebeard As always, if you know someone who wants a piece of this action, send em our way. Buy us a ☕ dailydoots.eth All of our channels can be found here: https://dailydoots.com/podcast/ 🕸️https://dailydoots.com 📢https://discord.gg/EVMavericks 📰https://reddit.com/r/ethereum 🔊MINTABLE Podcast 👉: https://pods.media/evmavericks 🍎Apple https://podcasts.apple.com/us/podcast/ethfinance-evmavericks-daily-doots-livestream/id1750089604 🔊Spotify https://open.spotify.com/show/7AotdyMtcvHZLv3pVqkxre 🦁https://x.com/EVMavericks ⏱️TikTok: https://www.tiktok.com/@evmavericks 📺https://www.youtube.com/channel/UC51nlNbIkBm5Qhm7EwQuWLw Twitch: https://www.twitch.tv/evmavericks LinkedIN: https://www.linkedin.com/company/evmavericks-daily-doots-podcast
 
 🔗 [youtu.be](https://youtu.be/lDG5GrjKgew) • 10h ago
+
+---
+
+**[Ethereal news weekly #9 | Fidelity Investments FIDD stablecoin, TheDAO Security Fund, Hegotá upgrade headliner proposals](https://www.reddit.com/r/ethereum/comments/1qr54bw/ethereal_news_weekly_9_fidelity_investments_fidd/)**
+
+Fidelity Investments FIDD stablecoin, TheDAO Security Fund, Hegotá upgrade headliner proposals
+
+🔗 [ethereal.news](https://ethereal.news/ethereal-news-weekly-9/) • 19h ago
 
 ---
 
@@ -152,17 +152,17 @@ Ethereum developers used ACDE #229 to shift focus toward Devnet-2 readiness, exe
 
 ## Google News: "ethereum"
 
-**[Bitcoin, XRP, Ethereum Fall on News of Kevin Warsh Fed Appointment.](https://www.barrons.com/articles/bitcoin-xrp-ethereum-crypto-today-954298d9?gaa_at=eafs&gaa_n=AWEtsqdxht2XTZhyAyNj-TlDl9QqOBnrwkZkX-ubWDa9BN0OYZhC2flQmyZ5&gaa_ts=697daaa5&gaa_sig=50omFQog2PN3-OliXHa8y6443SngDvdF8JeJJrkZ8w0y2tWjndGUcuXcqdeqsee5EyczhA3CwJiH53Sc5Hkuvw%3D%3D)**
+**[Bitcoin, XRP, Ethereum Fall on News of Kevin Warsh Fed Appointment.](https://www.barrons.com/articles/bitcoin-xrp-ethereum-crypto-today-954298d9?gaa_at=eafs&gaa_n=AWEtsqcig-qGTUg3utEW7JHmzH9Yi0P04MuJNoo_tNJfKk_XItZTq6kZE0fp&gaa_ts=697dc1b1&gaa_sig=5S0TsgmSiCzLVteqH3xej62GggaX4nT3BRCrA38ZaO2RgXGg6cdTNfjb-fRU646gFXaKCKpmKSgYREli3sZ8xA%3D%3D)**
 
-Barron's • 13h ago
+Barron's • 14h ago
 
 ---
 
-**[Bitcoin, XRP, Ethereum Dive. Why Cryptos Are Getting Bashed After Warsh Fed Pick.](https://www.barrons.com/livecoverage/stock-market-news-today-013026/card/bitcoin-xrp-ethereum-dive-why-cryptos-are-getting-bashed-after-warsh-fed-pick--89jtYV0llDHxXXYD4AKw?gaa_at=eafs&gaa_n=AWEtsqe_vhjZ4qlMlxb6WH3KjMZe4FTOREggvV2eCRiY6aizu9-27Zn-IFKP&gaa_ts=697daaa5&gaa_sig=Chl10qvcUS0Uy979rkfBtjOKcgv4fOueKobhQZwbJ9Z-8cMn7S49yl3zWBMSm-JKkBevRj-HtGizMtSJqFzduQ%3D%3D)**
+**[Bitcoin, XRP, Ethereum Dive. Why Cryptos Are Getting Bashed After Warsh Fed Pick.](https://www.barrons.com/livecoverage/stock-market-news-today-013026/card/bitcoin-xrp-ethereum-dive-why-cryptos-are-getting-bashed-after-warsh-fed-pick--89jtYV0llDHxXXYD4AKw?gaa_at=eafs&gaa_n=AWEtsqcPzEY7OJpUO3dSdE96RTQodtu-xo1klfQAlCUTOc8rwRB1qoDEamAs&gaa_ts=697dc1b1&gaa_sig=42_zqP4fY2LQWqZuSctYDozBllbKUbvoBPUGD0qdI_24BgS60IBWTF5fFA2YWh7qBp0pjHPXpfeRzC3jFoFQog%3D%3D)**
 
 The Dow, S&P 500, and Nasdaq Composite fell as the stock market reacted to President Donald Trump's pick for next chair of the Federal Reserve.
 
-Barron's • 18h ago
+Barron's • 19h ago
 
 ---
 
@@ -170,7 +170,7 @@ Barron's • 18h ago
 
 Ripple’s new stablecoin rollout has put a bright spotlight on a simple fact: most RLUSD is living on Ethereum right now. That imbalance has stirred worry among long-time XRP supporters.Some feel the company’s heart might be shifting away from the ledger that gave it a base. Others say the move is p…
 
-TradingView • 13h ago
+TradingView • 14h ago
 
 ---
 
@@ -186,7 +186,7 @@ CoinDesk • 22h ago
 
 The Ethereum co-founder wants to pursue an “aggressive” roadmap that will strengthen its status as a decentralized world computer.
 
-Decrypt • 14h ago
+Decrypt • 15h ago
 
 ---
 
@@ -194,7 +194,7 @@ Decrypt • 14h ago
 
 Ethereum co-founder Vitalik Buterin has withdrawn 16,384 ETH, worth roughly $44.5 million at current prices, as the Ethereum Foundation enters what he described as a period of “mild austerity.”In a post on X, Buterin said the Ethereum Foundation is adjusting its spending approach to meet two parall…
 
-TradingView • 17h ago
+TradingView • 18h ago
 
 ---
 
@@ -226,7 +226,7 @@ Yahoo Finance • 1d ago
 
 stVaults let other teams plug into Lido’s staking system instead of building their own from scratch.
 
-CoinDesk • 17h ago
+CoinDesk • 18h ago
 
 ---
 
@@ -280,7 +280,7 @@ FREE TRAINING: https://www.bullmania.com EXCHANGES I USE (bybit, pionex): https:
 
 📺 Ivan on Tech
 
-👁️ 24K • 👍 1K • 💬 98 • ⏱️ 49:08 • 21h ago
+👁️ 24K • 👍 1K • 💬 98 • ⏱️ 49:08 • 22h ago
 
 ---
 
@@ -290,7 +290,7 @@ Gold is absorbing sovereign capital while Bitcoin struggles — and that's exact
 
 📺 Savvy Finance
 
-👁️ 5K • 👍 256 • 💬 23 • ⏱️ 19:18 • 9h ago
+👁️ 5K • 👍 256 • 💬 23 • ⏱️ 19:18 • 10h ago
 
 ---
 
@@ -300,7 +300,7 @@ TrumpCrypto2026 #DigitalAssets #TrumpAnnouncement Welcome to the Trump Crypto Fo
 
 📺 Sportfm
 
-👁️ 4K • 👍 880 • 7h ago
+👁️ 4K • 👍 880 • 8h ago
 
 ---
 

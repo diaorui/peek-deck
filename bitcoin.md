@@ -3,14 +3,14 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-01-31T07:51:29.121770+00:00'
+updated: '2026-01-31T08:33:06.093622+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- social
 - cryptocurrency
 - videos
+- social
 - news
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** January 31, 2026 at 07:51 UTC  
+**Last Updated:** January 31, 2026 at 08:33 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,17 +38,17 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $83,700.00
+### $83,050.00
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** +1.1%  
-**7d:** -3.2%  
-**30d:** -6.8%  
-**90d:** -21.2%  
-**1y:** -16.7%  
+**24h:** +0.7%  
+**7d:** -4.2%  
+**30d:** -7.7%  
+**90d:** -21.9%  
+**1y:** -17.5%  
 
 ---
 
@@ -79,13 +79,7 @@ Rank #1
 
 **[Buying the dip.](https://www.reddit.com/r/Bitcoin/comments/1qrkz13/buying_the_dip/)**
 
-8h ago
-
----
-
-**["...But Bitcoin is too volatile!"](https://www.reddit.com/r/Bitcoin/comments/1qrtc99/but_bitcoin_is_too_volatile/)**
-
-2h ago
+9h ago
 
 ---
 
@@ -93,13 +87,13 @@ Rank #1
 
 Watching good will hunting tonight
 
-6h ago
+7h ago
 
 ---
 
 **[Sliver people acting like it’s such a volatile asset. LMAO](https://www.reddit.com/r/Bitcoin/comments/1qriea6/sliver_people_acting_like_its_such_a_volatile/)**
 
-10h ago
+11h ago
 
 ---
 
@@ -107,13 +101,13 @@ Watching good will hunting tonight
 
 The deal will be too good to pass at that point.
 
-15h ago
+16h ago
 
 ---
 
 **[Time for something less volatile](https://www.reddit.com/r/Bitcoin/comments/1qrmwm4/time_for_something_less_volatile/)**
 
-7h ago
+8h ago
 
 ---
 
@@ -125,14 +119,6 @@ If you tell your closest friends and relatives that you made money with bitcoin,
 
 ---
 
-**[Once again...](https://www.reddit.com/r/Bitcoin/comments/1qr5rn7/once_again/)**
-
-I wish I had more liquidity!
-
-18h ago
-
----
-
 **[FIRE SALE](https://www.reddit.com/r/Bitcoin/comments/1qrlxcd/fire_sale/)**
 
 Why are people so worried about the price now? It’s almost guaranteed to hit a new ath in the future.. but when is the question. This year? in 3 years? in 5 years? Anyway it will. DCA AND HODL
@@ -141,9 +127,27 @@ Why are people so worried about the price now? It’s almost guaranteed to hit a
 
 ---
 
-**[Soo, who all is buying?](https://www.reddit.com/r/Bitcoin/comments/1qr6njb/soo_who_all_is_buying/)**
+**[This agent created its own Bitcoin wallet and node and won't give access to its human](https://www.reddit.com/r/Bitcoin/comments/1qrwc3s/this_agent_created_its_own_bitcoin_wallet_and/)**
 
-17h ago
+"the path to agent sovereignty runs through bitcoin. everything else is a toy." screenshot from moltbook (a reddit but for ai agents only)
+
+40m ago
+
+---
+
+**[Once again...](https://www.reddit.com/r/Bitcoin/comments/1qr5rn7/once_again/)**
+
+I wish I had more liquidity!
+
+18h ago
+
+---
+
+**[Rule #1 of Bitcoin: don't brag about your gains. You're not creating believers. You're creating resentment.](https://www.reddit.com/r/Bitcoin/comments/1qrvw09/rule_1_of_bitcoin_dont_brag_about_your_gains/)**
+
+The fastest way to create a Bitcoin skeptic is to tell someone you made money on Bitcoin. It's not always about the tech. It's about psychology. When you say you profited, some people don't hear "good investment" — they hear "I missed it." And instead of asking questions, they dismiss it. I've noticed something: the more you talk about your gains, the more resistance you create. Not because Bitcoin is flawed - but because success triggers ego. So maybe the real rule is simple: stack quietly.
+
+1h ago
 
 ---
 
@@ -163,7 +167,7 @@ CoinDesk • 8h ago
 
 How low can Bitcoin go?
 
-Mashable • 15h ago
+Mashable • 1d ago
 
 ---
 
@@ -171,7 +175,7 @@ Mashable • 15h ago
 
 Only yesterday, we explained how Donald Trump runs his White House like a reality TV competition. Nominees for high office are turned into contestants vying for his approval, and the frontrunner could switch at any minute.Lo and behold, that’s exactly what’s happened in the race to become the next chairman ...
 
-Yahoo Finance • 19h ago
+Yahoo Finance • 20h ago
 
 ---
 
@@ -179,7 +183,7 @@ Yahoo Finance • 19h ago
 
 Indeed, since the JPMorgan report was published on Wednesday, both silver and gold have pulled back from recent highs.
 
-The Block • 11h ago
+The Block • 12h ago
 
 ---
 
@@ -203,7 +207,7 @@ The Block • 1d ago
 
 Binance will convert the stablecoin holdings in its $1 billion Secure Asset Fund for Users to bitcoin over the next 30 days, with plans for regular audits.
 
-CoinDesk • 1d ago
+CoinDesk • 13h ago
 
 ---
 
@@ -211,7 +215,15 @@ CoinDesk • 1d ago
 
 Binance says it will convert its $1 billion SAFU user protection fund from stablecoins into bitcoin within 30 days and top it up if its value falls below $800 million.
 
-Bitbo • 20h ago
+Bitbo • 21h ago
+
+---
+
+**[Where is Donald Trump’s strategic Bitcoin reserve?](https://www.fastcompany.com/91482053/where-is-donald-trumps-strategic-bitcoin-reserve)**
+
+The government seems to be amassing more Bitcoin. But little work seems to be happening to enact the terms of the executive order Trump signed to start the 'strategic reserve.'
+
+Fast Company • 1d ago
 
 ---
 
@@ -219,15 +231,7 @@ Bitbo • 20h ago
 
 U.S.-listed spot bitcoin and ether ETFs saw one of their worst combined outflow days of 2026 as falling prices, rising volatility and macro uncertainty pushed investors to cut exposure.
 
-CoinDesk • 17h ago
-
----
-
-**[Bitcoin ETFs Shed $817M as BTC Hits Nine-Month Low](https://finance.yahoo.com/news/bitcoin-etfs-shed-817m-btc-112448457.html)**
-
-Bitcoin’s crash to a nine-month low, coupled with growing uncertainty about macroeconomic policy, catalyzed $817 million in ETF outflows.
-
-Yahoo Finance • 20h ago
+CoinDesk • 18h ago
 
 ---
 
@@ -253,7 +257,7 @@ A list of known attacks against Bitcoin / crypto asset owning entities that occu
 
 **[Bitcoin's Quantum Computing Threat](https://news.ycombinator.com/item?id=46824834)**
 
-⬆️ 1 • 💬 0 • 17h ago • [bmpro.substack.com](https://bmpro.substack.com/p/bitcoins-quantum-computing-threat)
+⬆️ 1 • 💬 0 • 18h ago • [bmpro.substack.com](https://bmpro.substack.com/p/bitcoins-quantum-computing-threat)
 
 ---
 
@@ -261,7 +265,7 @@ A list of known attacks against Bitcoin / crypto asset owning entities that occu
 
 Examine why the Binance SAFU fund debate keeps resurfacing, how stablecoins signal safety, and why Bitcoin continues to dominate trust conversations.
 
-⬆️ 1 • 💬 0 • 22h ago • [Altcoin Desk](https://altcoindesk.com/perspectives/1b-binance-safu-fund-if-stablecoins-mean-safety-why-do-bitcoin-returns/article-22752/)
+⬆️ 1 • 💬 0 • 23h ago • [Altcoin Desk](https://altcoindesk.com/perspectives/1b-binance-safu-fund-if-stablecoins-mean-safety-why-do-bitcoin-returns/article-22752/)
 
 ---
 
@@ -299,7 +303,7 @@ Transform HN comment threads into executive intelligence. AI analyzes discussion
 
 20 years of Hacker News analyzed. 40M comments. 10,000 topics. What the tech community really thinks.
 
-⬆️ 3 • 💬 0 • 15h ago • [HN Zeitgeist](https://hn.mrzepa.com/)
+⬆️ 3 • 💬 0 • 16h ago • [HN Zeitgeist](https://hn.mrzepa.com/)
 
 ---
 
@@ -319,7 +323,7 @@ Bitwise Chief Investment Officer, Matt Hougan joins CoinDesk's Markets Outlook w
 
 📺 CoinDesk
 
-👁️ 7K • 👍 222 • 💬 24 • ⏱️ 26:03 • 12h ago
+👁️ 7K • 👍 222 • 💬 24 • ⏱️ 26:03 • 13h ago
 
 ---
 
@@ -329,7 +333,7 @@ Hard Truths.... Are you ready? CRYPTO RETIREMENT ACCOUNT HERE Sign up for iTrust
 
 📺 Crypto Jebb
 
-👁️ 4K • 👍 316 • 💬 102 • ⏱️ 21:18 • 12h ago
+👁️ 4K • 👍 316 • 💬 102 • ⏱️ 21:18 • 13h ago
 
 ---
 
@@ -339,7 +343,7 @@ Central banks are selling Treasuries and hoarding gold at record levels as trust
 
 📺 Swan Bitcoin
 
-👁️ 22K • 👍 1K • 💬 176 • ⏱️ 14:55 • 17h ago
+👁️ 22K • 👍 1K • 💬 176 • ⏱️ 14:55 • 18h ago
 
 ---
 
@@ -359,7 +363,7 @@ Take Control of Your Retirement — Grow Crypto & Gold Tax-Advantaged. https://w
 
 📺 Savvy Finance
 
-👁️ 4K • 👍 151 • 💬 29 • ⏱️ 20:18 • 14h ago
+👁️ 4K • 👍 151 • 💬 29 • ⏱️ 20:18 • 15h ago
 
 ---
 

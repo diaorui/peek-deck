@@ -3,13 +3,13 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-01-31T07:51:29.130979+00:00'
+updated: '2026-01-31T08:33:06.103280+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- social
 - videos
+- social
 - news
 ---
 
@@ -17,7 +17,7 @@ data_types:
 
 Robotics research and industry news
 
-**Last Updated:** January 31, 2026 at 07:51 UTC  
+**Last Updated:** January 31, 2026 at 08:33 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -36,15 +36,7 @@ Robotics research and industry news
 
 Hi everyone! I just picked up this Rethink Robotics Sawyer for $300. But it is incomplete, missing the last two joints and, more importantly, the controller unit. I'm investigating building my own controller and wanted to see if anyone here has experience with this? The biggest question I have right now is what the voltage is. I'm guessing 48V, but don't know that for sure. I'll probably also have tons of other questions as a move forward, so hoping that someone here will know something about these!
 
-6h ago
-
----
-
-**[My humanoid robot (arm)](https://www.reddit.com/r/robotics/comments/1qr6f2w/my_humanoid_robot_arm/)**
-
-I’m building a humanoid robot from scratch and this is how it looks so far. The hand is finished, and i’m currently working on the torso.
-
-17h ago
+7h ago
 
 ---
 
@@ -52,7 +44,15 @@ I’m building a humanoid robot from scratch and this is how it looks so far. Th
 
 Wanted to share something we been working on for the past couple weeks. https://reddit.com/link/1qruali/video/kh9n7a6vhmgg1/player We built a 6-axis robotic arm using an Arduino UNO and some 3D printed parts. It has base rotation, shoulder, elbow, wrist movements and a gripper - so it basically moves like a tiny human arm. And we also made a simple web dashboard to control it with sliders, so we can record movements and play them back. https://preview.redd.it/9lajowfagmgg1.jpg?width=750&format=pjpg&auto=webp&s=eccc351d281c69f352ea552dde0b14c9a89df919 Ran into the usual beginner issues - jittery servos from low power, servos moving the wrong direction because I didn't align the horns properly, so on. But we learn a lot from this project 3D printing to fitting the parts to calibration. This simple Arduino Robotic Arm designed for pick-and-place tasks but right now it's just picking up my desk clutter and putting it back down in the same spot. Anyone else built something similar? Would love to hear what you used in your build or any tips for improvements are welcome.
 
-1h ago
+2h ago
+
+---
+
+**[My humanoid robot (arm)](https://www.reddit.com/r/robotics/comments/1qr6f2w/my_humanoid_robot_arm/)**
+
+I’m building a humanoid robot from scratch and this is how it looks so far. The hand is finished, and i’m currently working on the torso.
+
+18h ago
 
 ---
 
@@ -72,6 +72,14 @@ Ant Group released LingBot-VA, a VLA built on a different premise than most curr
 
 ---
 
+**[F.02 Contributed to the Production of 30,000 Cars at BMW](https://www.reddit.com/r/robotics/comments/1qr0bbn/f02_contributed_to_the_production_of_30000_cars/)**
+
+Figure AI has released the final data from their 11-month deployment at BMW's Spartanburg plant. The 'Figure 02' humanoid robots worked 10-hour shifts, Monday to Friday, contributing to the production of over 30,000 BMW X3s. They loaded 90,000+ sheet metal parts with a <5mm tolerance, logging over 200 miles of walking. With Figure 02 now retiring, these lessons are being rolled into the new Figure 03.
+
+🔗 [FigureAI](https://www.figure.ai/news/production-at-bmw) • 23h ago
+
+---
+
 **[We trained the yolo model with custom data set to detect head from top view.this needs to reply on bus to count passenger count.it deployed on pi4 with 8gb and data is trained on 25k images](https://www.reddit.com/r/robotics/comments/1qqtoa0/we_trained_the_yolo_model_with_custom_data_set_to/)**
 
 1d ago
@@ -82,15 +90,7 @@ Ant Group released LingBot-VA, a VLA built on a different premise than most curr
 
 ROS News for the Week of January 25th, 2026                We have a ton of ROS and open source robotics events schedule for February and the tail end of January. This weekend is  FOSDEM which includes a new Robot Dev Room. Full list below in the events section.  Unrelated: Discourse released a new carousel feature for image grids. Learn more here.      This week @tnajjar merged a very nice UX upgrade for the ROS CLI: fuzzy finding! Now you can just type any part of a command string and see ever...
 
-🔗 [Open Robotics Discourse](https://discourse.openrobotics.org/t/ros-news-for-the-week-of-january-25th-2026/52232) • 10h ago
-
----
-
-**[F.02 Contributed to the Production of 30,000 Cars at BMW](https://www.reddit.com/r/robotics/comments/1qr0bbn/f02_contributed_to_the_production_of_30000_cars/)**
-
-Figure AI has released the final data from their 11-month deployment at BMW's Spartanburg plant. The 'Figure 02' humanoid robots worked 10-hour shifts, Monday to Friday, contributing to the production of over 30,000 BMW X3s. They loaded 90,000+ sheet metal parts with a <5mm tolerance, logging over 200 miles of walking. With Figure 02 now retiring, these lessons are being rolled into the new Figure 03.
-
-🔗 [FigureAI](https://www.figure.ai/news/production-at-bmw) • 22h ago
+🔗 [Open Robotics Discourse](https://discourse.openrobotics.org/t/ros-news-for-the-week-of-january-25th-2026/52232) • 11h ago
 
 ---
 
@@ -98,7 +98,7 @@ Figure AI has released the final data from their 11-month deployment at BMW's Sp
 
 Hi everyone 👋 I’m working on a small AGV robot and I’m currently stuck at the software side of path planning. I’d really appreciate some guidance or best practices from people who’ve done this before. My current setup AGV size: 250 × 250 mm Workspace: small indoor environment Overhead camera (fixed) AprilTags / ArUco tags placed on the floor Tag spacing: 0.5 meter Current grid: 7 × 6 = 42 tags Robot is detected using the center tag under the robot Goal (Stage 1 – very basic) For now, I don’t want to include obstacles. I want: User gives a start node and end node Robot computes the shortest path Robot follows that path physically I’ve decided to use the A* algorithm, but I’m confused about the input representation and data structure. Where I’m stuck How should I represent the environment? 2D grid array? Graph with nodes and edges? Tag IDs mapped to coordinates? How should I store values for A\* in this simple case? What should be the node value? How to define neighbors (up/down/left/right)? How to map real-world distances (0.5 m spacing) to cost? Is it better to: Use grid indices (row, col) and map them later to real coordinates? Or directly use real-world (x, y) coordinates? What I plan to add later Obstacles Dynamic path updates Possibly ROS integration But for now, I want to get the fundamentals right. If anyone has: Simple examples Pseudocode Suggestions on data structures Or advice on how you approached this in your own AGV projects I’d really appreciate it 🙏 Thanks in advance!
 
-17h ago
+18h ago
 
 ---
 
@@ -106,7 +106,7 @@ Hi everyone 👋 I’m working on a small AGV robot and I’m currently stuck at
 
 I've noticed that many of the labs and data collectors have been switching to YAMs. There are so many different leader follower setups. If you bought YAMs or any other kind of arms and are doing teleop, what convinced you one way or another? I've also noticed that there are alot of exoskeletons and UMIs, if you decided to go in any of these other directions would be curious to hear your take as well.
 
-11h ago
+12h ago
 
 ---
 
@@ -117,14 +117,6 @@ I've noticed that many of the labs and data collectors have been switching to YA
 **[Synthetic 'muscle' with microfluidic blood vessels shows promise for soft robotics](https://techxplore.com/news/2026-01-synthetic-muscle-microfluidic-blood-vessels.html)**
 
 Tech Xplore • 3d ago
-
----
-
-**[Into the Omniverse: Physical AI Open Models and Frameworks Advance Robots and Autonomous Systems](https://blogs.nvidia.com/blog/physical-ai-open-models-robot-autonomous-systems-omniverse/)**
-
-By providing access to critical infrastructure — from simulation frameworks to AI models — NVIDIA is enabling collaborative development that accelerates the path to safer, more capable autonomous systems.
-
-NVIDIA Blog • 1d ago
 
 ---
 
@@ -144,9 +136,19 @@ The Guardian • 2d ago
 
 ---
 
-**[Tesla to build 1 million Optimus robots per year at Fremont factory, Musk says](https://www.kron4.com/news/technology-ai/tesla-to-build-1-million-optimus-robots-per-year-at-fremont-factory-musk-says/)**
+**[Tesla doubles spending with $20B AI and robotics push](https://finance.yahoo.com/news/tesla-doubles-spending-20b-ai-161254007.html)**
 
-KRON4 • 1d ago
+Record investment marks a shift away from traditional EVs toward automation.
+
+Yahoo Finance • 1d ago
+
+---
+
+**[Into the Omniverse: Physical AI Open Models and Frameworks Advance Robots and Autonomous Systems](https://blogs.nvidia.com/blog/physical-ai-open-models-robot-autonomous-systems-omniverse/)**
+
+By providing access to critical infrastructure — from simulation frameworks to AI models — NVIDIA is enabling collaborative development that accelerates the path to safer, more capable autonomous systems.
+
+NVIDIA Blog • 1d ago
 
 ---
 
@@ -156,19 +158,19 @@ Bloomberg.com • 1d ago
 
 ---
 
-**[Lake Stevens robotics team receives world recognition](https://www.heraldnet.com/news/lake-stevens-robotics-team-receives-world-recognition/)**
-
-Team Arsenic took second place at the recent ROBO-BASH in Bellingham, earning fifth place in the world.
-
-Everett Herald • 22h ago
-
----
-
 **[Crew Studies Robotics and Virtual Reality Advancing Space Tech](https://www.nasa.gov/blogs/spacestation/2026/01/27/crew-studies-robotics-and-virtual-reality-advancing-space-tech/)**
 
 Robotics and virtual reality filled the science schedule aboard the International Space Station on Tuesday as the Expedition 74 crew promoted education and explored human research. The orbital trio also inspected safety equipment, worked on cargo swaps, and conducted Earth observations.
 
 NASA (.gov) • 3d ago
+
+---
+
+**[Lake Stevens robotics team receives world recognition](https://www.heraldnet.com/news/lake-stevens-robotics-team-receives-world-recognition/)**
+
+Team Arsenic took second place at the recent ROBO-BASH in Bellingham, earning fifth place in the world.
+
+Everett Herald • 23h ago
 
 ---
 
@@ -196,7 +198,7 @@ Robotics stocks are gaining attention as healthcare technology continues to evol
 
 📺 MarketBeat
 
-👁️ 8K • 👍 387 • 💬 16 • ⏱️ 16:59 • 7h ago
+👁️ 8K • 👍 387 • 💬 16 • ⏱️ 16:59 • 8h ago
 
 ---
 
@@ -216,7 +218,7 @@ In this video, we sit down with a former Air Force insider who is sounding the a
 
 📺 Elijah Zielke
 
-👁️ 1K • 👍 84 • 💬 6 • ⏱️ 10:27 • 7h ago
+👁️ 1K • 👍 84 • 💬 6 • ⏱️ 10:27 • 8h ago
 
 ---
 
@@ -254,7 +256,7 @@ Hyundai is planning to place 30000 humanoid robots in its factories. We talked t
 
 📺 Borunte Robot Lin 
 
-👁️ 2K • 👍 8 • ⏱️ 0:22 • 6h ago
+👁️ 2K • 👍 8 • ⏱️ 0:22 • 7h ago
 
 ---
 
@@ -274,7 +276,7 @@ A farmer operates a giant AI-powered crab robot that plants crops with extreme p
 
 📺 UPENDRA KUMAR OFFICIAL 
 
-👁️ 2K • 👍 6 • ⏱️ 0:09 • 4h ago
+👁️ 2K • 👍 6 • ⏱️ 0:09 • 5h ago
 
 ---
 

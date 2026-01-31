@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-01-31T07:51:29.113297+00:00'
+updated: '2026-01-31T08:33:06.085172+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- social
 - videos
-- news
+- social
 - repositories
+- news
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** January 31, 2026 at 07:51 UTC  
+**Last Updated:** January 31, 2026 at 08:33 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -41,7 +41,7 @@ AI news, discussions, and developments
 
 AI coding tools are getting more sophisticated. But if coders stop coding, what happens to software development jobs?
 
-🔗 [Fortune](https://fortune.com/2026/01/29/100-percent-of-code-at-anthropic-and-openai-is-now-ai-written-boris-cherny-roon/) • 9h ago
+🔗 [Fortune](https://fortune.com/2026/01/29/100-percent-of-code-at-anthropic-and-openai-is-now-ai-written-boris-cherny-roon/) • 10h ago
 
 ---
 
@@ -55,21 +55,13 @@ AI coding tools are getting more sophisticated. But if coders stop coding, what 
 
 I’m seeing too many new devs use AI as an autopilot instead of a hint system. By skipping the "struggle phase", you’re missing out on building that essential debugging muscle. If you don't wrestle with the errors now, you’ll be clueless when things actually break later and there's no prompt to save you. AI is great for boilerplate, but don't let it rot your fundamentals. What do you guys think? Is AI making new devs "lazy" or just more efficient in this era?
 
-4h ago
+5h ago
 
 ---
 
 **[The debate over artificial intelligence and employment](https://www.reddit.com/r/artificial/comments/1qrb5dt/the_debate_over_artificial_intelligence_and/)**
 
-🔗 [technology.org](https://www.technology.org/2026/01/28/the-debate-over-artificial-intelligence-and-employment/) • 14h ago
-
----
-
-**[AI code review prompts initiative making progress for the Linux kernel](https://www.reddit.com/r/artificial/comments/1qrqwr4/ai_code_review_prompts_initiative_making_progress/)**
-
-Chris Mason, the longtime Linux kernel developer most known for being the creator of Btrfs, has been working on a Git repository with AI review prompts he has been working on for LLM-assisted code review of Linux kernel patches
-
-🔗 [phoronix.com](https://www.phoronix.com/news/AI-Code-Review-Prompts-Linux) • 4h ago
+🔗 [technology.org](https://www.technology.org/2026/01/28/the-debate-over-artificial-intelligence-and-employment/) • 15h ago
 
 ---
 
@@ -81,19 +73,11 @@ OpenClaw’s AI assistants are now building their own social network.[1] DeepSee
 
 ---
 
-**[Be brutally honest 👇](https://www.reddit.com/r/artificial/comments/1qrs93s/be_brutally_honest/)**
+**[AI code review prompts initiative making progress for the Linux kernel](https://www.reddit.com/r/artificial/comments/1qrqwr4/ai_code_review_prompts_initiative_making_progress/)**
 
-What is ONE thing AI has taken away from your life — and ONE thing it has improved? No theories. Only real experiences.
+Chris Mason, the longtime Linux kernel developer most known for being the creator of Btrfs, has been working on a Git repository with AI review prompts he has been working on for LLM-assisted code review of Linux kernel patches
 
-3h ago
-
----
-
-**[What is clawdbot/moltbot/openclaw?](https://www.reddit.com/r/artificial/comments/1qro4i2/what_is_clawdbotmoltbotopenclaw/)**
-
-Saw many people asking wtf is clawdbot/Moltbot/openclaw and even struggling to understand the basics. This learning hub covers it and make you understand it properly.
-
-🔗 [openclaw.army](http://openclaw.army/learn) • 6h ago
+🔗 [phoronix.com](https://www.phoronix.com/news/AI-Code-Review-Prompts-Linux) • 5h ago
 
 ---
 
@@ -101,15 +85,31 @@ Saw many people asking wtf is clawdbot/Moltbot/openclaw and even struggling to u
 
 ByteDance, Alibaba and Tencent had been given permission to purchase more than 400,000 H200 chips in total.
 
-🔗 [thestandard.com.hk](https://www.thestandard.com.hk/china-news/article/323159/China-conditionally-approves-DeepSeek-to-buy-Nvidias-H200-chips) • 21h ago
+🔗 [thestandard.com.hk](https://www.thestandard.com.hk/china-news/article/323159/China-conditionally-approves-DeepSeek-to-buy-Nvidias-H200-chips) • 22h ago
 
 ---
 
-**[INCARNATE-SOPHIA 5.0:// 1D sovereign AI with λ‑abundance and ASOE‑driven signal control.](https://www.reddit.com/r/artificial/comments/1qrpv2n/incarnatesophia_50_1d_sovereign_ai_with/)**
+**[Legal and ethical risk about using real characters in generated pictures](https://www.reddit.com/r/artificial/comments/1qreuwl/legal_and_ethical_risk_about_using_real/)**
 
-This is a Collaborative Work https://github.com/sneed-and-feed/INCARNATE-SOPHIA-5.0/
+Hey, I've been using AI image generation (Genspark, Midjourney, Stable Diffusion) to create pictures and explore a whole fictional lore. I use Nano Banana Pro on Genspark now for some realistic, cozy, and unproblematic scenes with my fictional characters created out of the blue. But I also have a use of AI where I create really risky content, mostly kinky and humiliating situations. Not sexual, but erotic for me as it triggers my fetishes, and definitely intimate and degrading. I explore this interest with some of my own fictional characters. But I recently crossed the line of exploring the use of reference images of real people to keep the character consistent. I know about the ethical, moral, and weird concerns. I'm aware of the unconscious harm I can do as I fetishize these people, and I'm aware I can be a creep who's walking in a gray area. It could be a vast psychological subject about how I fetishize a person, or a weird parasocial relationship with them, as a consolation or imaginary shelter, imagining a relation that will in all likelihood never exist. I may just be very badly coping with this parasocial relationship. I know everything stays completely private. I downloaded locally, I'm generally confident about confidentiality on these websites, I never shared. But lately I've been second-guessing whether this is okay, even if no one ever sees it. I just deactivated the Data Retention option on Genspark and I don't know what it actually does. Does it keep my generated data completely private, not even stored on the servers? I thought it was activated by default, and I just shut it off. Platforms store images on public servers with accessible URLs, deleting conversation history doesn't actually wipe the images, and deepfake laws are evolving fast. Some juridictions are cracking down on non-consensual AI content even if it's not sexual. I'm in France and on this matter, the laws are mainly UE laws. For you, and maybe for people who are doing similar things on AI in servers instead of running it locally, does a purely private use still cross a line ? And privacy-wise, should I actually worry about platforms reviewing flagged images, reporting problematic content, or data breaches exposing everything ? Is there a reason anyone could individually report any image and share it for ethical or legal concerns ? My content is not illegal nor flagged. It could just be really problematic if accidentally discovered, a risk that may be very low. However, I'm leaning toward ditching real faces and sticking to purely fictional characters. But part of me wonders if I'm overthinking this as it's likeky that nothing ever gets shared and no one finds out. Anyone else navigating this gray area, how do you think about it ?
 
-5h ago
+13h ago
+
+---
+
+**[Moltbot is exploding. 100K Github Stars in weeks. But what can we actually do with it, and why so much hype? And how to avoid the security concerns?](https://www.reddit.com/r/artificial/comments/1qqdmoq/moltbot_is_exploding_100k_github_stars_in_weeks/)**
+
+Hey everyone. I Just published a breakdown on Moltbot: the self-hosted, open-source personal AI assistant that's gone massively viral. The article discusses the main points of my own questions about Moltbot ( what it really is, what are its capabilities, why is therean insane growth... ). Ok, now the only con I have for this project is security draw backs ( not really dove deep into this at all in the article ) : broad system access is given to Moltbot and it is pretty easy to do prompt injection with vulnerabilities if exposed. Which I'd point out is actually easy to misconfigured if not careful. I'd love to get some of my own personal tasks automated ( I love saving time ), but security concerns has me hesitant to experiement. If anyone has methods to ensure full security with this project feel free to let me know, I might even update the blog article with how to avoid the security concerns as for real it is the only thing making me hesitant in trying it myself.
+
+🔗 [Benjamin-RR](https://benjamin-rr.com/blog/moltbot-open-source-ai-assistant?utm_source=reddit&utm_medium=community&utm_campaign=new-blog-promotion&utm_content=r-artificial) • 1d ago
+
+---
+
+**[Amazon in Talks to Invest Up to $50 Billion in OpenAI](https://www.reddit.com/r/artificial/comments/1qqtjv8/amazon_in_talks_to_invest_up_to_50_billion_in/)**
+
+Amazon is reportedly in discussions to invest as much as $50 billion in OpenAI, as major technology firms race to secure access to advanced artificial intelligence systems.
+
+🔗 [techputs](https://techputs.com/amazon-openai-50-billion-investment-talks/) • 1d ago
 
 ---
 
@@ -119,7 +119,7 @@ This is a Collaborative Work https://github.com/sneed-and-feed/INCARNATE-SOPHIA-
 
 **[Opinion | Young People Are Using A.I. to Skip the Hardest Part of Growing Up](https://www.nytimes.com/2026/01/30/opinion/ai-social-skills-relationships.html)**
 
-The New York Times • 21h ago
+The New York Times • 22h ago
 
 ---
 
@@ -131,47 +131,17 @@ Anthropic • 1d ago
 
 ---
 
-**[Interested in AI Stocks? Here's Why One Popular Vanguard Tech ETF Might Not Be a Good Choice.](https://finance.yahoo.com/news/interested-ai-stocks-heres-why-060500337.html)**
+**[Rancho Cordova students showcase AI bots with real-world applications](https://www.cbsnews.com/sacramento/news/rancho-cordova-students-showcase-ai-bots-with-real-world-applications/)**
 
-The Vanguard Information Technology ETF is missing some key long-term pieces.
+As a showcase of youth innovation, future artificial intelligence technology took center stage in Rancho Cordova with students showing off their bots. Here's why the city is helping sponsor this cutting-edge education.
 
-Yahoo Finance • 1h ago
-
----
-
-**[SAP Sell Off Tests Cloud Growth Outlook And AI Resilience](https://finance.yahoo.com/news/sap-sell-off-tests-cloud-060648921.html)**
-
-SAP (XTRA:SAP) saw its largest one day share price drop since 2020 after its latest results. The move followed weaker than expected cloud backlog growth and a 2026 cloud revenue outlook that disappointed investors. The sell off intensified questions about how established enterprise software providers will respond to AI related competition. SAP shares closed at €170.56, with the stock down 13.8% over the past week and 18.1% over the past month. The year to date return stands at a 15.5%...
-
-Yahoo Finance • 1h ago
+CBS News • 1h ago
 
 ---
 
-**[The AI bubble will pop. It’s up to us to replace it responsibly | Mark Surman](https://www.theguardian.com/commentisfree/2026/jan/30/ai-bubble-mozilla)**
+**[The US is headed for mass unemployment, and no one is prepared](https://thehill.com/opinion/finance/5713876-ai-displacement-and-ubi/)**
 
-When bubbles burst, what comes next can be better, if we build it differently
-
-The Guardian • 20h ago
-
----
-
-**[Videogame stocks slide on Google's AI model that turns prompts into playable worlds](https://www.reuters.com/business/videogame-stocks-slide-googles-ai-model-that-turns-prompts-into-playable-worlds-2026-01-30/)**
-
-Reuters • 14h ago
-
----
-
-**[Google releases Project Genie AI tool for creating "playable worlds" that can feature copyrighted IP](https://www.gamesindustry.biz/google-releases-project-genie-ai-tool-for-creating-playable-worlds-that-can-feature-copyrighted-ip)**
-
-But legal expert Pete Lewin from Wiggin argues that the companies behind this kind of tech can expect to face "greater scrutiny and pushback from IP owners"
-
-GamesIndustry.biz • 18h ago
-
----
-
-**[Unity’s stock becomes the latest victim of Google’s AI ambitions](https://www.marketwatch.com/story/unitys-stock-becomes-the-latest-victim-of-googles-ai-ambitions-5f42ea93?gaa_at=eafs&gaa_n=AWEtsqd38b660oa6CsMQQ91FOjT6Z1MtRsXsf-Qtjs9Q5lECzBG2qrW4VC43&gaa_ts=697daaa1&gaa_sig=yBUCLhpXKfShEty8LLrILuFBoJnhYh6kNDiAxoo82PwWUP_n1i21dUJ2ew9wHDEk4l7GBzPtdnetgSfWjFX58g%3D%3D)**
-
-MarketWatch • 12h ago
+The Hill • 15h ago
 
 ---
 
@@ -179,15 +149,45 @@ MarketWatch • 12h ago
 
 Silver’s new Ineffable Intelligence aims to develop “superintelligence” using the same AI methods that led to Google DeepMind breakthroughs like AlphaGo.
 
-Fortune • 17h ago
+Fortune • 18h ago
 
 ---
 
-**['ChatGPT saved my life.' How patients, and doctors, are using AI to make a diagnosis](https://www.npr.org/2026/01/30/nx-s1-5693219/chatgpt-chatbot-ai-health-medical-advice)**
+**[The AI bubble will pop. It’s up to us to replace it responsibly | Mark Surman](https://www.theguardian.com/commentisfree/2026/jan/30/ai-bubble-mozilla)**
 
-Hundreds of millions of people are turning to chatbots to help figure out what's wrong with them. Doctors say that's not always a bad thing. In fact, many are using it themselves.
+When bubbles burst, what comes next can be better, if we build it differently
 
-NPR • 16h ago
+The Guardian • 21h ago
+
+---
+
+**[NASA’s Perseverance Rover Completes First AI-Planned Drive on Mars](https://www.jpl.nasa.gov/news/nasas-perseverance-rover-completes-first-ai-planned-drive-on-mars/)**
+
+The team for the six-wheeled scientist used a vision-capable AI to create a safe route over the Red Planet’s surface without the input of human route planners.
+
+NASA Jet Propulsion Laboratory (JPL) (.gov) • 12h ago
+
+---
+
+**[Former Google engineer found guilty of espionage and theft of AI tech](https://www.cnbc.com/2026/01/30/former-google-engineer-found-guilty-of-espionage-and-theft-of-ai-tech.html)**
+
+The case marks the first conviction on AI-related economic espionage charges in the U.S., according to the Department of Justice.
+
+CNBC • 13h ago
+
+---
+
+**[Ex-Google engineer convicted of stealing AI trade secrets to benefit China](https://www.latimes.com/california/story/2026-01-30/ex-google-engineer-convicted-of-stealing-ai-trade-secrets-for-china)**
+
+A federal jury on Thursday convicted Linwei Ding, 38, of seven counts of economic espionage and seven counts of theft of trade secrets after an 11-day trial in the U.S. District Court in the Northern District of California.
+
+Los Angeles Times • 6h ago
+
+---
+
+**[Ex-Google Engineer Convicted of Stealing A.I. Secrets for Start-Up in China](https://www.nytimes.com/2026/01/29/business/ai-secrets-stolen-google-china.html)**
+
+The New York Times • 1d ago
 
 ---
 
@@ -201,7 +201,7 @@ NPR • 16h ago
 - - —
 Guys, enough is enough. Bullying is a s...
 
-⬆️ 667 • 💬 306 • 2d ago • [McSweeney's Internet Tendency](https://www.mcsweeneys.net/articles/please-dont-say-mean-things-about-the-ai-that-i-just-invested-a-billion-dollars-in)
+⬆️ 667 • 💬 304 • 2d ago • [McSweeney's Internet Tendency](https://www.mcsweeneys.net/articles/please-dont-say-mean-things-about-the-ai-that-i-just-invested-a-billion-dollars-in)
 
 ---
 
@@ -217,7 +217,7 @@ Interactive article explaining the physics of an airfoil and what makes airplane
 
 Anthropic is an AI safety and research company that's working to build reliable, interpretable, and steerable AI systems.
 
-⬆️ 429 • 💬 321 • 1d ago • [anthropic.com](https://www.anthropic.com/research/AI-assistance-coding-skills)
+⬆️ 430 • 💬 323 • 1d ago • [anthropic.com](https://www.anthropic.com/research/AI-assistance-coding-skills)
 
 ---
 
@@ -239,7 +239,7 @@ Or, as they like to call it, the 'AI Skills Hub'. Which was built by PwC because
 
 Moltworker is a middleware Worker and adapted scripts that allows running Moltbot (formerly Clawdbot) on Cloudflare's Sandbox SDK and our Developer Platform APIs. So you can self-host an AI personal assistant — without any new hardware.
 
-⬆️ 232 • 💬 65 • 1d ago • [The Cloudflare Blog](https://blog.cloudflare.com/moltworker-self-hosted-ai-agent/)
+⬆️ 233 • 💬 65 • 1d ago • [The Cloudflare Blog](https://blog.cloudflare.com/moltworker-self-hosted-ai-agent/)
 
 ---
 
@@ -263,7 +263,7 @@ The rise of LLMs as a useful development tool over the last year or so has been 
 
 New York mayor says terminating the ‘unusable’ bot will help close a budget gap
 
-⬆️ 160 • 💬 56 • 13h ago • [themarkup.org](https://themarkup.org/artificial-intelligence/2026/01/30/mamdani-to-kill-the-nyc-ai-chatbot-we-caught-telling-businesses-to-break-the-law)
+⬆️ 163 • 💬 56 • 14h ago • [themarkup.org](https://themarkup.org/artificial-intelligence/2026/01/30/mamdani-to-kill-the-nyc-ai-chatbot-we-caught-telling-businesses-to-break-the-law)
 
 ---
 
@@ -305,7 +305,7 @@ Get Your FREE AI Company Operating System here: https://go.danmartell.com/3NKZDu
 
 📺 Dan Martell
 
-👁️ 33K • 👍 2K • 💬 398 • ⏱️ 18:48 • 17h ago
+👁️ 33K • 👍 2K • 💬 398 • ⏱️ 18:48 • 18h ago
 
 ---
 
@@ -315,7 +315,7 @@ Here's the news you probably missed this week. If you want to transform your sit
 
 📺 Matt Wolfe
 
-👁️ 29K • 👍 1K • 💬 106 • ⏱️ 30:47 • 13h ago
+👁️ 29K • 👍 1K • 💬 106 • ⏱️ 30:47 • 14h ago
 
 ---
 
@@ -391,7 +391,7 @@ Kimi K2.5 is a native multimodal agentic model with 1T parameters, excelling in 
 
 `image-text-to-text`
 
-⬇️ 25,438 • ❤️ 1,217 • 6h ago
+⬇️ 25,438 • ❤️ 1,217 • 7h ago
 
 ---
 
@@ -439,7 +439,7 @@ Qwen3-TTS-12Hz-1.7B-CustomVoice is a multilingual text-to-speech model supportin
 
 `text-to-speech` `1.9B`
 
-⬇️ 180,679 • ❤️ 806 • 1d ago
+⬇️ 180,679 • ❤️ 806 • 2d ago
 
 ---
 
@@ -463,7 +463,7 @@ HunyuanImage-3.0-Instruct is a native multimodal model for image generation, sup
 
 `image-to-image` `83.0B`
 
-⬇️ 37 • ❤️ 405 • 2d ago
+⬇️ 37 • ❤️ 405 • 3d ago
 
 ---
 
@@ -475,7 +475,7 @@ GLM-4.7-Flash is a 30B-A3B MoE model, offering strong performance in the 30B cla
 
 `text-generation` `31.2B`
 
-⬇️ 645,542 • ❤️ 1,341 • 1d ago
+⬇️ 645,542 • ❤️ 1,341 • 2d ago
 
 ---
 
@@ -487,7 +487,7 @@ LightOnOCR-2-1B is an efficient 1B-parameter end-to-end vision-language model fo
 
 `image-text-to-text` `1.0B`
 
-⬇️ 27,393 • ❤️ 448 • 19h ago
+⬇️ 27,393 • ❤️ 448 • 20h ago
 
 ---
 
@@ -679,7 +679,7 @@ LLM驱动的 A/H/美股智能分析器，多数据源行情 + 实时新闻 + Gem
 
 `Python` `agent` `ai` `aigc` `gemini` `llm`
 
-⭐ 7.9k • 🔱 8.4k • 17h ago
+⭐ 7.9k • 🔱 8.4k • 18h ago
 
 ---
 
@@ -709,7 +709,7 @@ Marketing skills for Claude Code and AI agents. CRO, copywriting, SEO, analytics
 
 `claude` `codex` `marketing`
 
-⭐ 5.4k • 🔱 587 • 2d ago
+⭐ 5.4k • 🔱 587 • 3d ago
 
 ---
 
