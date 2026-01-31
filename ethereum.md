@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-01-31T10:52:13.140282+00:00'
+updated: '2026-01-31T11:22:10.972945+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- social
-- news
 - cryptocurrency
 - videos
+- social
+- news
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** January 31, 2026 at 10:52 UTC  
+**Last Updated:** January 31, 2026 at 11:22 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,7 +42,7 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** -3.2%  
+**24h:** -3.3%  
 **7d:** -6.0%  
 **30d:** -15.2%  
 **90d:** -26.4%  
@@ -72,7 +72,7 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-4h ago
+5h ago
 
 ---
 
@@ -96,7 +96,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 Watch before one bug costs you everything. https://x.com/SolidityScan/status/2017172006056390715?s=20
 
-3h ago
+4h ago
 
 ---
 
@@ -128,7 +128,7 @@ The Doots live stream is all about showcasing the best of the week from the Dail
 
 Fidelity Investments FIDD stablecoin, TheDAO Security Fund, Hegotá upgrade headliner proposals
 
-🔗 [ethereal.news](https://ethereal.news/ethereal-news-weekly-9/) • 21h ago
+🔗 [ethereal.news](https://ethereal.news/ethereal-news-weekly-9/) • 22h ago
 
 ---
 
@@ -152,13 +152,21 @@ Ethereum developers used ACDE #229 to shift focus toward Devnet-2 readiness, exe
 
 ## Google News: "ethereum"
 
-**[Bitcoin, XRP, Ethereum Fall on News of Kevin Warsh Fed Appointment.](https://www.barrons.com/articles/bitcoin-xrp-ethereum-crypto-today-954298d9?gaa_at=eafs&gaa_n=AWEtsqe82-on9LSuhL7_s6CT7pj4XYm6G0uUkSuLUe2er-7tO7ek7vihiaNz&gaa_ts=697dd479&gaa_sig=r0KlcH4nmLla7I19dwB9fsbE6T_9brQmRgE6tL3o3JqisIZkJ4BEnQ1xRfrzhwHZp1OCYgcuTWYE7fW7Jsjyqg%3D%3D)**
+**[Vitalik Buterin Withdraws $44.7M in ETH to Support Ethereum Growth Through ‘Mild Austerity’](https://decrypt.co/356490/vitalik-buterin-withdraws-44-7m-in-eth-to-support-ethereum-growth-through-mild-austerity)**
 
-Barron's • 16h ago
+The Ethereum co-founder wants to pursue an “aggressive” roadmap that will strengthen its status as a decentralized world computer.
+
+Decrypt • 18h ago
 
 ---
 
-**[Bitcoin, XRP, Ethereum Dive. Why Cryptos Are Getting Bashed After Warsh Fed Pick.](https://www.barrons.com/livecoverage/stock-market-news-today-013026/card/bitcoin-xrp-ethereum-dive-why-cryptos-are-getting-bashed-after-warsh-fed-pick--89jtYV0llDHxXXYD4AKw?gaa_at=eafs&gaa_n=AWEtsqfBtdEjahbTaw8SgsI_pz5Bhtd4SkO-KhD-eJyfmDP03vVmefAPac5j&gaa_ts=697dd479&gaa_sig=BvKHjFOXadx3wRhrItwHuT-dkNFU-XHcStvtF8sFfJWAfQl9I6wGBacPb2bxlwlGjQplnol0y-_w9Hi8x-Udmg%3D%3D)**
+**[Bitcoin, XRP, Ethereum Fall on News of Kevin Warsh Fed Appointment.](https://www.barrons.com/articles/bitcoin-xrp-ethereum-crypto-today-954298d9?gaa_at=eafs&gaa_n=AWEtsqdAnHJ9_GtjrBqY__D0Auu_AgI7rFwaoLjO7M_wzbI_4Jo1YOAvbrJa&gaa_ts=697de949&gaa_sig=AUVhkFaInFErLT3_nn_c47QJPB3D7R3Zr1nWK3pDYmc9Q-qIcI-wbsTscLqyheYFU9ioRJpOAm96vG9lo6JPHA%3D%3D)**
+
+Barron's • 17h ago
+
+---
+
+**[Bitcoin, XRP, Ethereum Dive. Why Cryptos Are Getting Bashed After Warsh Fed Pick.](https://www.barrons.com/livecoverage/stock-market-news-today-013026/card/bitcoin-xrp-ethereum-dive-why-cryptos-are-getting-bashed-after-warsh-fed-pick--89jtYV0llDHxXXYD4AKw?gaa_at=eafs&gaa_n=AWEtsqeio_0lQmf_2EUqDB5cJdJYNida5Q15osAtzItue1Vy3mTsJwyshQbJ&gaa_ts=697de949&gaa_sig=Yc2QamFHP7rK26DO_ihGaIrDTnfLqm1odyFYi1t2QLk85rjM3gQlOKBif3lDVq8l2qjDRiC2Bs5oNm763vkShg%3D%3D)**
 
 The Dow, S&P 500, and Nasdaq Composite fell as the stock market reacted to President Donald Trump's pick for next chair of the Federal Reserve.
 
@@ -166,35 +174,11 @@ Barron's • 13h ago
 
 ---
 
-**[Ripple Affirms XRPL Focus, Says ‘We Love XRP’ Over Ethereum](https://www.tradingview.com/news/newsbtc:0d7d8c78c094b:0-ripple-affirms-xrpl-focus-says-we-love-xrp-over-ethereum/)**
+**[AI Models Predict Ethereum, Solana, and XRP 2026 Prices—Which Altcoin Has the Biggest Upside?](https://finance.yahoo.com/news/ai-models-predict-ethereum-solana-193044962.html)**
 
-Ripple’s new stablecoin rollout has put a bright spotlight on a simple fact: most RLUSD is living on Ethereum right now. That imbalance has stirred worry among long-time XRP supporters.Some feel the company’s heart might be shifting away from the ledger that gave it a base. Others say the move is p…
+Four major AI models have projected 2026 price targets for Ethereum (CRYPTO: ETH), Solana (CRYPTO: SOL), and XRP (CRYPTO: XRP). The forecasts range from conservative consolidation to triple-digit percentage gains, with each asset showing different upside potential based on adoption trends, network activity, and market positioning. Ethereum anchors institutional DeFi with mature Layer 2 networks, ... AI Models Predict Ethereum, Solana, and XRP 2026 Prices—Which Altcoin Has the Biggest Upside?
 
-TradingView • 16h ago
-
----
-
-**[Vitalik Buterin to spend $43 million on Ethereum development](https://www.coindesk.com/business/2026/01/30/vitalik-buterin-withdraws-usd17-million-in-eth-as-ethereum-foundation-enters-mild-austerity)**
-
-Ethereum’s co-founder said the $43 million withdrawal will support a broader “full-stack openness and verifiability” vision as the foundation tightens spending.
-
-CoinDesk • 1d ago
-
----
-
-**[Vitalik Buterin Withdraws $44.7M in ETH to Support Ethereum Growth Through ‘Mild Austerity’](https://decrypt.co/356490/vitalik-buterin-withdraws-44-7m-in-eth-to-support-ethereum-growth-through-mild-austerity)**
-
-The Ethereum co-founder wants to pursue an “aggressive” roadmap that will strengthen its status as a decentralized world computer.
-
-Decrypt • 17h ago
-
----
-
-**[Vitalik Buterin Withdraws 16,384 ETH as Ethereum Foundation Enters ‘Austerity Phase’ — What For?](https://www.tradingview.com/news/cryptonews:c7dddcebf094b:0-vitalik-buterin-withdraws-16-384-eth-as-ethereum-foundation-enters-austerity-phase-what-for/)**
-
-Ethereum co-founder Vitalik Buterin has withdrawn 16,384 ETH, worth roughly $44.5 million at current prices, as the Ethereum Foundation enters what he described as a period of “mild austerity.”In a post on X, Buterin said the Ethereum Foundation is adjusting its spending approach to meet two parall…
-
-TradingView • 20h ago
+Yahoo Finance • 15h ago
 
 ---
 
@@ -202,23 +186,15 @@ TradingView • 20h ago
 
 BitMine Immersion continues to accumulate Ethereum amid price declines, following a treasury strategy inspired by Strategy.
 
-Barchart.com • 1d ago
+Barchart.com • 14h ago
 
 ---
 
-**[Hang Seng debuts gold ETF with Ethereum-based tokenized units](https://www.theblock.co/post/387545/hang-seng-gold-etf-tokenized-units-ethereum)**
+**[Brock Pierce-backed Ethereum treasury firm Bit Digital to fully wind down bitcoin mining operations](https://www.theblock.co/post/387748/brock-pierce-ethereum-treasury-bit-digital-wind-down-bitcoin-mining)**
 
-The fund introduces a tokenized class of units, which are initially set to be issued on Ethereum, according to its prospectus.
+Bit Digital entered the bitcoin mining business in 2020 and was an early diversifier into the HPC/AI sector.
 
-The Block • 2d ago
-
----
-
-**[Tom Lee Urges Investors Not To Ignore Ethereum While Metals Surge, as BitMine Stakes Another $440.5M ETH](https://finance.yahoo.com/news/tom-lee-urges-investors-not-092823952.html)**
-
-Tom Lee has urged investors not to let the rally in gold and silver divert attention from Ethereum. BitMine continues to build its Ethereum position. ...
-
-Yahoo Finance • 2d ago
+The Block • 1d ago
 
 ---
 
@@ -226,7 +202,29 @@ Yahoo Finance • 2d ago
 
 stVaults let other teams plug into Lido’s staking system instead of building their own from scratch.
 
-CoinDesk • 20h ago
+CoinDesk • 21h ago
+
+---
+
+**[Ethereum Supply Tightens With 45% of ETH Locked: Sygnum](https://thedefiant.io/news/research-and-opinion/ethereum-supply-tightens-with-45-of-eth-locked-sygnum)**
+
+ETF buying, staking and corporate holdings continue to reduce liquid ETH.
+
+thedefiant.io • 14h ago
+
+---
+
+**[Better Crypto Buy: Bitcoin vs. Ethereum](https://www.fool.com/investing/2026/01/30/better-crypto-buy-bitcoin-vs-ethereum/)**
+
+For crypto investors, it's time to buy the dip on Bitcoin again.
+
+The Motley Fool • 1d ago
+
+---
+
+**[Large cryptocurrencies fall as Ethereum declines](https://www.marketwatch.com/data-news/large-cryptocurrencies-fall-as-ethereum-declines-c598ddad-53877588d480?gaa_at=eafs&gaa_n=AWEtsqfLh8qqV2DlIomnbTp_veGu4eWOqKkzrP-yyEOlpAJ73e-oVCJjjG7A&gaa_ts=697de949&gaa_sig=nBO4TCJkCSCoKH-hS2mh4j5z9a0WmEftJnrL9-h_MciLgREEp7D_fXl7M7kbSzDAEJQ2mRe19xKkkcR5-MrQQg%3D%3D)**
+
+MarketWatch • 20h ago
 
 ---
 
@@ -240,7 +238,7 @@ The situation is getting worse and worse for crypto. Here are facts and my take 
 
 📺 Thomas Kralow
 
-👁️ 56K • 👍 3K • 💬 173 • ⏱️ 13:43 • 1d ago
+👁️ 56K • 👍 3K • 💬 173 • ⏱️ 13:43 • 2d ago
 
 ---
 
@@ -280,7 +278,7 @@ This video provides a professional Elliott Wave and technical analysis of Ethere
 
 📺 More Crypto Online
 
-👁️ 2K • 👍 136 • 💬 9 • ⏱️ 4:32 • 21h ago
+👁️ 2K • 👍 136 • 💬 9 • ⏱️ 4:32 • 22h ago
 
 ---
 
@@ -330,7 +328,7 @@ This video provides a professional Elliott Wave and technical analysis of Ethere
 
 📺 More Crypto Online
 
-👁️ 909 • 👍 91 • 💬 3 • ⏱️ 4:29 • 6h ago
+👁️ 909 • 👍 91 • 💬 3 • ⏱️ 4:29 • 7h ago
 
 ---
 

@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-01-31T10:52:13.125920+00:00'
+updated: '2026-01-31T11:22:10.958121+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
+- videos
 - social
 - repositories
 - news
-- videos
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** January 31, 2026 at 10:52 UTC  
+**Last Updated:** January 31, 2026 at 11:22 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -41,7 +41,7 @@ AI news, discussions, and developments
 
 AI coding tools are getting more sophisticated. But if coders stop coding, what happens to software development jobs?
 
-🔗 [Fortune](https://fortune.com/2026/01/29/100-percent-of-code-at-anthropic-and-openai-is-now-ai-written-boris-cherny-roon/) • 12h ago
+🔗 [Fortune](https://fortune.com/2026/01/29/100-percent-of-code-at-anthropic-and-openai-is-now-ai-written-boris-cherny-roon/) • 13h ago
 
 ---
 
@@ -55,13 +55,7 @@ AI coding tools are getting more sophisticated. But if coders stop coding, what 
 
 I’m seeing too many new devs use AI as an autopilot instead of a hint system. By skipping the "struggle phase", you’re missing out on building that essential debugging muscle. If you don't wrestle with the errors now, you’ll be clueless when things actually break later and there's no prompt to save you. AI is great for boilerplate, but don't let it rot your fundamentals. What do you guys think? Is AI making new devs "lazy" or just more efficient in this era?
 
-7h ago
-
----
-
-**[The debate over artificial intelligence and employment](https://www.reddit.com/r/artificial/comments/1qrb5dt/the_debate_over_artificial_intelligence_and/)**
-
-🔗 [technology.org](https://www.technology.org/2026/01/28/the-debate-over-artificial-intelligence-and-employment/) • 17h ago
+8h ago
 
 ---
 
@@ -73,11 +67,17 @@ OpenClaw’s AI assistants are now building their own social network.[1] DeepSee
 
 ---
 
+**[The debate over artificial intelligence and employment](https://www.reddit.com/r/artificial/comments/1qrb5dt/the_debate_over_artificial_intelligence_and/)**
+
+🔗 [technology.org](https://www.technology.org/2026/01/28/the-debate-over-artificial-intelligence-and-employment/) • 18h ago
+
+---
+
 **[AI code review prompts initiative making progress for the Linux kernel](https://www.reddit.com/r/artificial/comments/1qrqwr4/ai_code_review_prompts_initiative_making_progress/)**
 
 Chris Mason, the longtime Linux kernel developer most known for being the creator of Btrfs, has been working on a Git repository with AI review prompts he has been working on for LLM-assisted code review of Linux kernel patches
 
-🔗 [phoronix.com](https://www.phoronix.com/news/AI-Code-Review-Prompts-Linux) • 7h ago
+🔗 [phoronix.com](https://www.phoronix.com/news/AI-Code-Review-Prompts-Linux) • 8h ago
 
 ---
 
@@ -93,7 +93,7 @@ ByteDance, Alibaba and Tencent had been given permission to purchase more than 4
 
 Hey, I've been using AI image generation (Genspark, Midjourney, Stable Diffusion) to create pictures and explore a whole fictional lore. I use Nano Banana Pro on Genspark now for some realistic, cozy, and unproblematic scenes with my fictional characters created out of the blue. But I also have a use of AI where I create really risky content, mostly kinky and humiliating situations. Not sexual, but erotic for me as it triggers my fetishes, and definitely intimate and degrading. I explore this interest with some of my own fictional characters. But I recently crossed the line of exploring the use of reference images of real people to keep the character consistent. I know about the ethical, moral, and weird concerns. I'm aware of the unconscious harm I can do as I fetishize these people, and I'm aware I can be a creep who's walking in a gray area. It could be a vast psychological subject about how I fetishize a person, or a weird parasocial relationship with them, as a consolation or imaginary shelter, imagining a relation that will in all likelihood never exist. I may just be very badly coping with this parasocial relationship. I know everything stays completely private. I downloaded locally, I'm generally confident about confidentiality on these websites, I never shared. But lately I've been second-guessing whether this is okay, even if no one ever sees it. I just deactivated the Data Retention option on Genspark and I don't know what it actually does. Does it keep my generated data completely private, not even stored on the servers? I thought it was activated by default, and I just shut it off. Platforms store images on public servers with accessible URLs, deleting conversation history doesn't actually wipe the images, and deepfake laws are evolving fast. Some juridictions are cracking down on non-consensual AI content even if it's not sexual. I'm in France and on this matter, the laws are mainly UE laws. For you, and maybe for people who are doing similar things on AI in servers instead of running it locally, does a purely private use still cross a line ? And privacy-wise, should I actually worry about platforms reviewing flagged images, reporting problematic content, or data breaches exposing everything ? Is there a reason anyone could individually report any image and share it for ethical or legal concerns ? My content is not illegal nor flagged. It could just be really problematic if accidentally discovered, a risk that may be very low. However, I'm leaning toward ditching real faces and sticking to purely fictional characters. But part of me wonders if I'm overthinking this as it's likeky that nothing ever gets shared and no one finds out. Anyone else navigating this gray area, how do you think about it ?
 
-15h ago
+16h ago
 
 ---
 
@@ -131,25 +131,27 @@ Anthropic • 1d ago
 
 ---
 
-**[2 AI Stocks Building the "Picks and Shovels" of the Agentic Revolution](https://www.fool.com/investing/2026/01/31/2-ai-stocks-picks-shovels-agentic-revolution/)**
+**[AI can make workers better — then worse at their jobs, an innovation theorist warns](https://www.businessinsider.com/ai-can-make-you-better-then-worse-at-your-job-2026-1)**
 
-The agentic AI market is projected to increase nearly 10 times by 2030.
+Heavy AI use can inflate confidence, weaken judgment, and leave workers struggling when tools are removed, innovation theorist John Nosta said.
 
-The Motley Fool • 1h ago
-
----
-
-**[Amelia: This cute AI-generated schoolgirl is a growing far-right meme](https://www.cnn.com/2026/01/31/uk/amelia-meme-ai-far-right-intl-scli)**
-
-At first glance, Amelia, with her purple bob and pixie-girl looks, seems an unlikely candidate for the far right to adopt as an increasingly popular meme.
-
-CNN • 2h ago
+Business Insider • 1h ago
 
 ---
 
-**[AI Helps With Your Tax Return. It Doesn’t Always Get It Right.](https://www.barrons.com/articles/ai-tax-returns-dc179883?gaa_at=eafs&gaa_n=AWEtsqe7wQfKLAyrdTc1F-W1zVv8HmupT-L4UOSO6xjRWcWH1FhI6pfeD40M&gaa_ts=697dd475&gaa_sig=HrFyETqDLEA0BtLMm20xLjwBOiPG1AqbdBQQMbLujrrQpUJYovFx89gABCAoF5dA8_JtRXCowr4SnYBMNHJDaQ%3D%3D)**
+**[Patriots-Seahawks Super Bowl 60 predictions by Google Gemini AI](https://www.usatoday.com/story/sports/nfl/super-bowl/2026/01/31/patriots-seahawks-super-bowl-predictions-google-ai/88371111007/)**
 
-Barron's • 1h ago
+Picks and predictions are pouring in for Super Bowl 60. USA TODAY Sports asked Google Gemini AI to weigh in on the game too. Here's the result.
+
+USA Today • 21m ago
+
+---
+
+**[Movie Review: Does Melania Dream of AI-Generated Sheep?](https://nymag.com/intelligencer/article/melania-movie-review-dream-ai-generated-sheep.html)**
+
+The First Lady’s weirdly soulless MAGA lullaby is going to put a lot of Amazon Prime viewers to sleep.
+
+New York Magazine • 1h ago
 
 ---
 
@@ -157,7 +159,7 @@ Barron's • 1h ago
 
 Silver’s new Ineffable Intelligence aims to develop “superintelligence” using the same AI methods that led to Google DeepMind breakthroughs like AlphaGo.
 
-Fortune • 20h ago
+Fortune • 21h ago
 
 ---
 
@@ -165,29 +167,29 @@ Fortune • 20h ago
 
 When bubbles burst, what comes next can be better, if we build it differently
 
-The Guardian • 23h ago
+The Guardian • 1d ago
 
 ---
 
-**[Exclusive | The $100 Billion Megadeal Between OpenAI and Nvidia Is on Ice - WSJ](https://www.wsj.com/tech/ai/the-100-billion-megadeal-between-openai-and-nvidia-is-on-ice-aa3025e3?gaa_at=eafs&gaa_n=AWEtsqctjBdiAarcpOyClirI5fsCRcLg4Tx6zA5wq0_EJCr3BZa80_j391J6&gaa_ts=697dd475&gaa_sig=usF-kx9x7Ct0SiAGzoh7P-3KHu12lCo5FhXaPNqzEfd2U8BumP9m-UiRRaS_ukaj1GkCxY2L-Vu52ihTHDzYUw%3D%3D)**
+**[AI Agents Created Their Own Religion, Crustafarianism, On An Agent-Only Social Network](https://www.forbes.com/sites/johnkoetsier/2026/01/30/ai-agents-created-their-own-religion-crustafarianism-on-an-agent-only-social-network/)**
 
-The Wall Street Journal • 11h ago
-
----
-
-**[Former Google engineer found guilty of espionage and theft of AI tech](https://www.cnbc.com/2026/01/30/former-google-engineer-found-guilty-of-espionage-and-theft-of-ai-tech.html)**
-
-The case marks the first conviction on AI-related economic espionage charges in the U.S., according to the Department of Justice.
-
-CNBC • 15h ago
+Forbes • 9h ago
 
 ---
 
-**[Ex-Google engineer convicted of stealing AI trade secrets to benefit China](https://www.latimes.com/california/story/2026-01-30/ex-google-engineer-convicted-of-stealing-ai-trade-secrets-for-china)**
+**[Is Your Workplace Set Up for AI Agents?](https://hbr.org/2026/01/is-your-workplace-set-up-for-ai-agents)**
 
-A federal jury on Thursday convicted Linwei Ding, 38, of seven counts of economic espionage and seven counts of theft of trade secrets after an 11-day trial in the U.S. District Court in the Northern District of California.
+AI’s true productivity gains require redesigning organizations, not merely adding AI to human-centered systems—much like factories once had to redesign around electricity. Current productivity estimates underestimate AI because they assume task automation within existing structures. Real gains come from restructuring data into machine-readable formats, exposing systems through APIs, and eliminating silos so agents can work across domains. As AI reduces coordination and cognitive limits, human roles should shift from execution to ownership and verification—defining goals, making value-based judgments, and ensuring accountability. With proper safeguards, agent-first organizations can achieve transformative, not marginal, improvements.
 
-Los Angeles Times • 8h ago
+Harvard Business Review • 21h ago
+
+---
+
+**[The Big Four's AI revolution has a problem: how junior staff actually learn](https://www.businessinsider.com/big-four-ai-agents-creating-upskilling-challenge-2026-1)**
+
+AI is taking on routine tasks for junior employees at the Big Four, but is it damaging their skills development and future potential?
+
+Business Insider • 12m ago
 
 ---
 
@@ -201,7 +203,7 @@ Los Angeles Times • 8h ago
 - - —
 Guys, enough is enough. Bullying is a s...
 
-⬆️ 667 • 💬 304 • 2d ago • [McSweeney's Internet Tendency](https://www.mcsweeneys.net/articles/please-dont-say-mean-things-about-the-ai-that-i-just-invested-a-billion-dollars-in)
+⬆️ 668 • 💬 304 • 2d ago • [McSweeney's Internet Tendency](https://www.mcsweeneys.net/articles/please-dont-say-mean-things-about-the-ai-that-i-just-invested-a-billion-dollars-in)
 
 ---
 
@@ -217,7 +219,7 @@ Interactive article explaining the physics of an airfoil and what makes airplane
 
 Anthropic is an AI safety and research company that's working to build reliable, interpretable, and steerable AI systems.
 
-⬆️ 431 • 💬 324 • 1d ago • [anthropic.com](https://www.anthropic.com/research/AI-assistance-coding-skills)
+⬆️ 434 • 💬 327 • 1d ago • [anthropic.com](https://www.anthropic.com/research/AI-assistance-coding-skills)
 
 ---
 
@@ -239,7 +241,7 @@ Or, as they like to call it, the 'AI Skills Hub'. Which was built by PwC because
 
 Moltworker is a middleware Worker and adapted scripts that allows running Moltbot (formerly Clawdbot) on Cloudflare's Sandbox SDK and our Developer Platform APIs. So you can self-host an AI personal assistant — without any new hardware.
 
-⬆️ 233 • 💬 65 • 1d ago • [The Cloudflare Blog](https://blog.cloudflare.com/moltworker-self-hosted-ai-agent/)
+⬆️ 233 • 💬 67 • 1d ago • [The Cloudflare Blog](https://blog.cloudflare.com/moltworker-self-hosted-ai-agent/)
 
 ---
 
@@ -247,7 +249,7 @@ Moltworker is a middleware Worker and adapted scripts that allows running Moltbo
 
 AI assistance produces significant productivity gains across professional domains, particularly for novice workers. Yet how this assistance affects the development of skills required to effectively supervise AI remains unclear. Novice workers who rely heavily on AI to complete unfamiliar tasks may compromise their own skill acquisition in the process. We conduct randomized experiments to study how developers gained mastery of a new asynchronous programming library with and without the assistance of AI. We find that AI use impairs conceptual understanding, code reading, and debugging abilities, without delivering significant efficiency gains on average. Participants who fully delegated coding tasks showed some productivity improvements, but at the cost of learning the library. We identify six distinct AI interaction patterns, three of which involve cognitive engagement and preserve learning outcomes even when participants receive AI assistance. Our findings suggest that AI-enhanced productivity is not a shortcut to competence and AI assistance should be carefully adopted into workflows to preserve skill formation -- particularly in safety-critical domains.
 
-⬆️ 229 • 💬 5 • 1d ago • [arXiv.org](https://arxiv.org/abs/2601.20245)
+⬆️ 230 • 💬 5 • 1d ago • [arXiv.org](https://arxiv.org/abs/2601.20245)
 
 ---
 
@@ -263,7 +265,7 @@ The rise of LLMs as a useful development tool over the last year or so has been 
 
 New York mayor says terminating the ‘unusable’ bot will help close a budget gap
 
-⬆️ 165 • 💬 56 • 16h ago • [themarkup.org](https://themarkup.org/artificial-intelligence/2026/01/30/mamdani-to-kill-the-nyc-ai-chatbot-we-caught-telling-businesses-to-break-the-law)
+⬆️ 168 • 💬 57 • 17h ago • [themarkup.org](https://themarkup.org/artificial-intelligence/2026/01/30/mamdani-to-kill-the-nyc-ai-chatbot-we-caught-telling-businesses-to-break-the-law)
 
 ---
 
@@ -285,7 +287,7 @@ Get Your FREE AI Company Operating System here: https://go.danmartell.com/3NKZDu
 
 📺 Dan Martell
 
-👁️ 36K • 👍 2K • 💬 410 • ⏱️ 18:48 • 20h ago
+👁️ 36K • 👍 2K • 💬 410 • ⏱️ 18:48 • 21h ago
 
 ---
 
@@ -295,7 +297,7 @@ Get the FREE PDF (links + prompts) → https://discord.gg/6aV3ps7tB2 STOP overpa
 
 📺 Malva AI
 
-👁️ 12K • 👍 772 • 💬 193 • ⏱️ 7:42 • 22h ago
+👁️ 12K • 👍 772 • 💬 193 • ⏱️ 7:42 • 23h ago
 
 ---
 
@@ -315,7 +317,7 @@ Here's the news you probably missed this week. If you want to transform your sit
 
 📺 Matt Wolfe
 
-👁️ 33K • 👍 2K • 💬 112 • ⏱️ 30:47 • 16h ago
+👁️ 33K • 👍 2K • 💬 112 • ⏱️ 30:47 • 17h ago
 
 ---
 
@@ -391,7 +393,7 @@ Kimi K2.5 is a native multimodal agentic model with 1T parameters, excelling in 
 
 `image-text-to-text`
 
-⬇️ 32,430 • ❤️ 1,239 • 9h ago
+⬇️ 32,430 • ❤️ 1,239 • 10h ago
 
 ---
 
@@ -633,7 +635,7 @@ Agent Lightning is a flexible RL framework for training LLMs in various agents, 
 
 LingBot-Depth is a depth completion model that uses visual context to refine depth maps through masked depth modeling and automated data curation for improved spatial perception in robotics and autonomous systems.
 
-▲ 22 • 💬 3 • ⭐ 623 • 5d ago
+▲ 22 • 💬 3 • ⭐ 623 • 6d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2601.17895) • [💻 code](https://github.com/Robbyant/lingbot-depth) • [🔗 project](https://technology.robbyant.com/lingbot-depth)
 
@@ -679,7 +681,7 @@ LLM驱动的 A/H/美股智能分析器，多数据源行情 + 实时新闻 + Gem
 
 `Python` `agent` `ai` `aigc` `gemini` `llm`
 
-⭐ 8.0k • 🔱 8.5k • 2h ago
+⭐ 8.0k • 🔱 8.5k • 3h ago
 
 ---
 
