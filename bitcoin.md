@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-01-31T21:22:46.032784+00:00'
+updated: '2026-01-31T21:45:27.126680+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- cryptocurrency
-- news
 - social
+- cryptocurrency
 - videos
+- news
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** January 31, 2026 at 21:22 UTC  
+**Last Updated:** January 31, 2026 at 21:45 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -81,13 +81,13 @@ Rank #1
 
 I'm not wasting these cheap stacks. HODL and BUY!
 
-3h ago
+4h ago
 
 ---
 
 **[Evergreen just like BTC!](https://www.reddit.com/r/Bitcoin/comments/1qs6sj1/evergreen_just_like_btc/)**
 
-4h ago
+5h ago
 
 ---
 
@@ -135,13 +135,13 @@ I'm scared, not because I don't trust Bitcoin, but because I used my BTC and alt
 
 Nothing has changed. Governments are still spending far far more money than they raise in tax. Fiat currency around the world is still being debased. Debt is exploding. Saylor, Blackrock and Wall Street are not fools. The reason you purchased BTC have not changed one bit. If you're new, this is normal. If you're a few cycles in, you know what to do. BTC is $77,500. A few years ago you'd be popping ya corks over this. Enjoy the ride and forget the noise.
 
-1h ago
+2h ago
 
 ---
 
 **[The original "Hard Money". On the Island of Yap, these massive limestone discs served as a public ledger. Ownership was known by community consensus rather than possession. Basically, a physical Blockchain 500 years ago.](https://www.reddit.com/r/Bitcoin/comments/1qs8l2m/the_original_hard_money_on_the_island_of_yap/)**
 
-3h ago
+4h ago
 
 ---
 
@@ -233,7 +233,7 @@ The Block • 1d ago
 
 **[Bitcoin Looks Set for Longest Monthly Losing Streak Since 2018](https://news.ycombinator.com/item?id=46838644)**
 
-⬆️ 53 • 💬 50 • 3h ago • [bloomberg.com](https://www.bloomberg.com/news/articles/2026-01-30/bitcoin-btc-slides-toward-longest-monthly-losing-streak-since-2018)
+⬆️ 53 • 💬 50 • 4h ago • [bloomberg.com](https://www.bloomberg.com/news/articles/2026-01-30/bitcoin-btc-slides-toward-longest-monthly-losing-streak-since-2018)
 
 ---
 
@@ -257,7 +257,7 @@ A list of known attacks against Bitcoin / crypto asset owning entities that occu
 
 PoW + EVM cryptocurrency. 21M fixed supply, fair launch, no team, no foundation. Just code. - lumenyx-chain/lumenyx
 
-⬆️ 1 • 💬 0 • 8h ago • [GitHub](https://github.com/lumenyx-chain/lumenyx)
+⬆️ 1 • 💬 0 • 9h ago • [GitHub](https://github.com/lumenyx-chain/lumenyx)
 
 ---
 
@@ -279,7 +279,7 @@ Examine why the Binance SAFU fund debate keeps resurfacing, how stablecoins sign
 
 Bitcoin plunged to a two-month low Thursday as risk-on assets broadly fell—and even gold and silver gave up earlier gains.
 
-⬆️ 1 • 💬 0 • 1d ago • [Decrypt](https://decrypt.co/356330/bitcoin-2-month-low-gold-stocks-give-up-gains-crypto-liquidations-800m)
+⬆️ 1 • 💬 0 • 2d ago • [Decrypt](https://decrypt.co/356330/bitcoin-2-month-low-gold-stocks-give-up-gains-crypto-liquidations-800m)
 
 ---
 
@@ -315,7 +315,7 @@ CHECK OUT MY LINKTREE FOR EXCHANGES I USE, BONUSES, FREE VIDEOS, AND MORE! https
 
 📺 My Financial Friend
 
-👁️ 8K • 👍 581 • 💬 281 • ⏱️ 8:03 • 3h ago
+👁️ 8K • 👍 581 • 💬 281 • ⏱️ 8:03 • 4h ago
 
 ---
 
@@ -345,7 +345,7 @@ EMERGENCY UPDATE: CRYPTO CRASH INTENSIFIES! (Here's Why) The crypto market is in
 
 📺 Tim Warren
 
-👁️ 4K • 👍 522 • 💬 200 • ⏱️ 11:12 • 2h ago
+👁️ 4K • 👍 522 • 💬 200 • ⏱️ 11:12 • 3h ago
 
 ---
 
@@ -375,7 +375,7 @@ WEEX: https://www.weex.com/events/promo/usdtgiveaway?vipCode=00dt&qrType=activit
 
 📺 Crypto Rover
 
-👁️ 9K • 👍 551 • 💬 247 • ⏱️ 4:19 • 3h ago
+👁️ 9K • 👍 551 • 💬 247 • ⏱️ 4:19 • 4h ago
 
 ---
 
@@ -385,7 +385,7 @@ FREE TRAINING: https://www.bullmania.com EXCHANGES I USE (bybit, pionex): https:
 
 📺 Ivan on Tech
 
-👁️ 14K • 👍 1K • 💬 93 • ⏱️ 44:59 • 3h ago
+👁️ 14K • 👍 1K • 💬 93 • ⏱️ 44:59 • 4h ago
 
 ---
 
@@ -395,7 +395,7 @@ BYBIT: http://themoon.co/Bybit 10% DISCOUNT & $30000 BONUS BloFin: https://themo
 
 📺 The Moon Show
 
-👁️ 23K • 👍 963 • 💬 121 • ⏱️ 6:54 • 11h ago
+👁️ 23K • 👍 963 • 💬 121 • ⏱️ 6:54 • 12h ago
 
 ---
 

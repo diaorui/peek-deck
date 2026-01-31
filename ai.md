@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-01-31T21:22:46.024407+00:00'
+updated: '2026-01-31T21:45:27.118334+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- repositories
-- news
 - social
+- repositories
 - videos
+- news
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** January 31, 2026 at 21:22 UTC  
+**Last Updated:** January 31, 2026 at 21:45 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -181,7 +181,7 @@ CNBC • 1d ago
 
 A federal jury on Thursday convicted Linwei Ding, 38, of seven counts of economic espionage and seven counts of theft of trade secrets after an 11-day trial in the U.S. District Court in the Northern District of California.
 
-Los Angeles Times • 18h ago
+Los Angeles Times • 19h ago
 
 ---
 
@@ -241,7 +241,7 @@ AI assistance produces significant productivity gains across professional domain
 
 The rise of LLMs as a useful development tool over the last year or so has been significant. The power and flexibility of tools like Claude Code and ChatGPT have given a lot of functionality both to experienced developers and new developers alike. But there are trade-offs.
 
-⬆️ 205 • 💬 108 • 2d ago • [jellyfin.org](https://jellyfin.org/docs/general/contributing/llm-policies/)
+⬆️ 205 • 💬 108 • 3d ago • [jellyfin.org](https://jellyfin.org/docs/general/contributing/llm-policies/)
 
 ---
 
@@ -289,7 +289,7 @@ OpenClaw (formerly ClaudeBot) demonstrates emergent agent capabilities like auto
 
 📺 The AI Daily Brief: Artificial Intelligence News
 
-👁️ 64K • 👍 2K • 💬 442 • ⏱️ 21:12 • 19h ago
+👁️ 64K • 👍 2K • 💬 442 • ⏱️ 21:12 • 20h ago
 
 ---
 
@@ -319,7 +319,7 @@ Humanoid robotics just took a massive leap into the real world. Researchers in C
 
 📺 AI Revolution
 
-👁️ 46K • 👍 768 • 💬 126 • ⏱️ 14:25 • 21h ago
+👁️ 46K • 👍 768 • 💬 126 • ⏱️ 14:25 • 22h ago
 
 ---
 
@@ -329,7 +329,7 @@ In this video, I break down the 14 best AI tools that actually hold up after mon
 
 📺 Parker Prompts
 
-👁️ 12K • 💬 15 • ⏱️ 11:46 • 7h ago
+👁️ 12K • 💬 15 • ⏱️ 11:46 • 8h ago
 
 ---
 
@@ -339,7 +339,7 @@ AI agents now have their own social network called Moltbook, and it's absolute c
 
 📺 Universe of AI
 
-👁️ 14K • 👍 417 • 💬 125 • ⏱️ 8:45 • 20h ago
+👁️ 14K • 👍 417 • 💬 125 • ⏱️ 8:45 • 21h ago
 
 ---
 
