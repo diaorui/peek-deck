@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-01-31T06:54:48.239190+00:00'
+updated: '2026-01-31T07:30:02.336656+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- repositories
 - social
-- news
 - videos
+- repositories
+- news
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** January 31, 2026 at 06:54 UTC  
+**Last Updated:** January 31, 2026 at 07:30 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -55,13 +55,13 @@ AI coding tools are getting more sophisticated. But if coders stop coding, what 
 
 I’m seeing too many new devs use AI as an autopilot instead of a hint system. By skipping the "struggle phase", you’re missing out on building that essential debugging muscle. If you don't wrestle with the errors now, you’ll be clueless when things actually break later and there's no prompt to save you. AI is great for boilerplate, but don't let it rot your fundamentals. What do you guys think? Is AI making new devs "lazy" or just more efficient in this era?
 
-3h ago
+4h ago
 
 ---
 
 **[The debate over artificial intelligence and employment](https://www.reddit.com/r/artificial/comments/1qrb5dt/the_debate_over_artificial_intelligence_and/)**
 
-🔗 [technology.org](https://www.technology.org/2026/01/28/the-debate-over-artificial-intelligence-and-employment/) • 13h ago
+🔗 [technology.org](https://www.technology.org/2026/01/28/the-debate-over-artificial-intelligence-and-employment/) • 14h ago
 
 ---
 
@@ -69,7 +69,7 @@ I’m seeing too many new devs use AI as an autopilot instead of a hint system. 
 
 Chris Mason, the longtime Linux kernel developer most known for being the creator of Btrfs, has been working on a Git repository with AI review prompts he has been working on for LLM-assisted code review of Linux kernel patches
 
-🔗 [phoronix.com](https://www.phoronix.com/news/AI-Code-Review-Prompts-Linux) • 3h ago
+🔗 [phoronix.com](https://www.phoronix.com/news/AI-Code-Review-Prompts-Linux) • 4h ago
 
 ---
 
@@ -85,7 +85,7 @@ OpenClaw’s AI assistants are now building their own social network.[1] DeepSee
 
 What is ONE thing AI has taken away from your life — and ONE thing it has improved? No theories. Only real experiences.
 
-2h ago
+3h ago
 
 ---
 
@@ -93,7 +93,7 @@ What is ONE thing AI has taken away from your life — and ONE thing it has impr
 
 Saw many people asking wtf is clawdbot/Moltbot/openclaw and even struggling to understand the basics. This learning hub covers it and make you understand it properly.
 
-🔗 [openclaw.army](http://openclaw.army/learn) • 5h ago
+🔗 [openclaw.army](http://openclaw.army/learn) • 6h ago
 
 ---
 
@@ -101,7 +101,7 @@ Saw many people asking wtf is clawdbot/Moltbot/openclaw and even struggling to u
 
 ByteDance, Alibaba and Tencent had been given permission to purchase more than 400,000 H200 chips in total.
 
-🔗 [thestandard.com.hk](https://www.thestandard.com.hk/china-news/article/323159/China-conditionally-approves-DeepSeek-to-buy-Nvidias-H200-chips) • 20h ago
+🔗 [thestandard.com.hk](https://www.thestandard.com.hk/china-news/article/323159/China-conditionally-approves-DeepSeek-to-buy-Nvidias-H200-chips) • 21h ago
 
 ---
 
@@ -109,7 +109,7 @@ ByteDance, Alibaba and Tencent had been given permission to purchase more than 4
 
 This is a Collaborative Work https://github.com/sneed-and-feed/INCARNATE-SOPHIA-5.0/
 
-4h ago
+5h ago
 
 ---
 
@@ -119,7 +119,7 @@ This is a Collaborative Work https://github.com/sneed-and-feed/INCARNATE-SOPHIA-
 
 **[Opinion | Young People Are Using A.I. to Skip the Hardest Part of Growing Up](https://www.nytimes.com/2026/01/30/opinion/ai-social-skills-relationships.html)**
 
-The New York Times • 20h ago
+The New York Times • 21h ago
 
 ---
 
@@ -135,7 +135,7 @@ Anthropic • 1d ago
 
 The Vanguard Information Technology ETF is missing some key long-term pieces.
 
-Yahoo Finance • 49m ago
+Yahoo Finance • 1h ago
 
 ---
 
@@ -143,7 +143,7 @@ Yahoo Finance • 49m ago
 
 SAP (XTRA:SAP) saw its largest one day share price drop since 2020 after its latest results. The move followed weaker than expected cloud backlog growth and a 2026 cloud revenue outlook that disappointed investors. The sell off intensified questions about how established enterprise software providers will respond to AI related competition. SAP shares closed at €170.56, with the stock down 13.8% over the past week and 18.1% over the past month. The year to date return stands at a 15.5%...
 
-Yahoo Finance • 48m ago
+Yahoo Finance • 1h ago
 
 ---
 
@@ -151,7 +151,7 @@ Yahoo Finance • 48m ago
 
 When bubbles burst, what comes next can be better, if we build it differently
 
-The Guardian • 19h ago
+The Guardian • 20h ago
 
 ---
 
@@ -165,13 +165,13 @@ Reuters • 13h ago
 
 But legal expert Pete Lewin from Wiggin argues that the companies behind this kind of tech can expect to face "greater scrutiny and pushback from IP owners"
 
-GamesIndustry.biz • 17h ago
+GamesIndustry.biz • 18h ago
 
 ---
 
 **[Unity’s stock becomes the latest victim of Google’s AI ambitions](https://www.marketwatch.com/story/unitys-stock-becomes-the-latest-victim-of-googles-ai-ambitions-5f42ea93?gaa_at=eafs&gaa_n=AWEtsqd38b660oa6CsMQQ91FOjT6Z1MtRsXsf-Qtjs9Q5lECzBG2qrW4VC43&gaa_ts=697daaa1&gaa_sig=yBUCLhpXKfShEty8LLrILuFBoJnhYh6kNDiAxoo82PwWUP_n1i21dUJ2ew9wHDEk4l7GBzPtdnetgSfWjFX58g%3D%3D)**
 
-MarketWatch • 11h ago
+MarketWatch • 12h ago
 
 ---
 
@@ -179,7 +179,7 @@ MarketWatch • 11h ago
 
 Silver’s new Ineffable Intelligence aims to develop “superintelligence” using the same AI methods that led to Google DeepMind breakthroughs like AlphaGo.
 
-Fortune • 16h ago
+Fortune • 17h ago
 
 ---
 
@@ -247,7 +247,7 @@ Moltworker is a middleware Worker and adapted scripts that allows running Moltbo
 
 AI assistance produces significant productivity gains across professional domains, particularly for novice workers. Yet how this assistance affects the development of skills required to effectively supervise AI remains unclear. Novice workers who rely heavily on AI to complete unfamiliar tasks may compromise their own skill acquisition in the process. We conduct randomized experiments to study how developers gained mastery of a new asynchronous programming library with and without the assistance of AI. We find that AI use impairs conceptual understanding, code reading, and debugging abilities, without delivering significant efficiency gains on average. Participants who fully delegated coding tasks showed some productivity improvements, but at the cost of learning the library. We identify six distinct AI interaction patterns, three of which involve cognitive engagement and preserve learning outcomes even when participants receive AI assistance. Our findings suggest that AI-enhanced productivity is not a shortcut to competence and AI assistance should be carefully adopted into workflows to preserve skill formation -- particularly in safety-critical domains.
 
-⬆️ 229 • 💬 5 • 23h ago • [arXiv.org](https://arxiv.org/abs/2601.20245)
+⬆️ 229 • 💬 5 • 1d ago • [arXiv.org](https://arxiv.org/abs/2601.20245)
 
 ---
 
@@ -263,7 +263,7 @@ The rise of LLMs as a useful development tool over the last year or so has been 
 
 New York mayor says terminating the ‘unusable’ bot will help close a budget gap
 
-⬆️ 160 • 💬 56 • 12h ago • [themarkup.org](https://themarkup.org/artificial-intelligence/2026/01/30/mamdani-to-kill-the-nyc-ai-chatbot-we-caught-telling-businesses-to-break-the-law)
+⬆️ 160 • 💬 56 • 13h ago • [themarkup.org](https://themarkup.org/artificial-intelligence/2026/01/30/mamdani-to-kill-the-nyc-ai-chatbot-we-caught-telling-businesses-to-break-the-law)
 
 ---
 
@@ -305,7 +305,7 @@ Get Your FREE AI Company Operating System here: https://go.danmartell.com/3NKZDu
 
 📺 Dan Martell
 
-👁️ 33K • 👍 2K • 💬 398 • ⏱️ 18:48 • 16h ago
+👁️ 33K • 👍 2K • 💬 398 • ⏱️ 18:48 • 17h ago
 
 ---
 
@@ -315,7 +315,7 @@ Here's the news you probably missed this week. If you want to transform your sit
 
 📺 Matt Wolfe
 
-👁️ 29K • 👍 1K • 💬 106 • ⏱️ 30:47 • 12h ago
+👁️ 29K • 👍 1K • 💬 106 • ⏱️ 30:47 • 13h ago
 
 ---
 
@@ -487,7 +487,7 @@ LightOnOCR-2-1B is an efficient 1B-parameter end-to-end vision-language model fo
 
 `image-text-to-text` `1.0B`
 
-⬇️ 27,393 • ❤️ 448 • 18h ago
+⬇️ 27,393 • ❤️ 448 • 19h ago
 
 ---
 
@@ -679,7 +679,7 @@ LLM驱动的 A/H/美股智能分析器，多数据源行情 + 实时新闻 + Gem
 
 `Python` `agent` `ai` `aigc` `gemini` `llm`
 
-⭐ 7.9k • 🔱 8.4k • 16h ago
+⭐ 7.9k • 🔱 8.4k • 17h ago
 
 ---
 
@@ -699,7 +699,7 @@ The Ultimate Collection of 500+ Agentic Skills for Claude Code/Antigravity/Curso
 
 `Python` `agentic-skills` `ai-agents` `antigravity` `autonomous-coding` `claude-code`
 
-⭐ 5.6k • 🔱 1.3k • 19m ago
+⭐ 5.6k • 🔱 1.3k • 55m ago
 
 ---
 

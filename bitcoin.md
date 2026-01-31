@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-01-31T06:54:48.247473+00:00'
+updated: '2026-01-31T07:30:02.345138+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- videos
 - social
-- news
 - cryptocurrency
+- videos
+- news
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** January 31, 2026 at 06:54 UTC  
+**Last Updated:** January 31, 2026 at 07:30 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -79,13 +79,13 @@ Rank #1
 
 **[Buying the dip.](https://www.reddit.com/r/Bitcoin/comments/1qrkz13/buying_the_dip/)**
 
-7h ago
+8h ago
 
 ---
 
 **["...But Bitcoin is too volatile!"](https://www.reddit.com/r/Bitcoin/comments/1qrtc99/but_bitcoin_is_too_volatile/)**
 
-1h ago
+2h ago
 
 ---
 
@@ -93,13 +93,13 @@ Rank #1
 
 Watching good will hunting tonight
 
-5h ago
+6h ago
 
 ---
 
 **[Sliver people acting like it’s such a volatile asset. LMAO](https://www.reddit.com/r/Bitcoin/comments/1qriea6/sliver_people_acting_like_its_such_a_volatile/)**
 
-9h ago
+10h ago
 
 ---
 
@@ -107,13 +107,13 @@ Watching good will hunting tonight
 
 The deal will be too good to pass at that point.
 
-14h ago
+15h ago
 
 ---
 
 **[Time for something less volatile](https://www.reddit.com/r/Bitcoin/comments/1qrmwm4/time_for_something_less_volatile/)**
 
-6h ago
+7h ago
 
 ---
 
@@ -143,7 +143,7 @@ Why are people so worried about the price now? It’s almost guaranteed to hit a
 
 **[Soo, who all is buying?](https://www.reddit.com/r/Bitcoin/comments/1qr6njb/soo_who_all_is_buying/)**
 
-16h ago
+17h ago
 
 ---
 
@@ -171,7 +171,7 @@ Mashable • 14h ago
 
 Only yesterday, we explained how Donald Trump runs his White House like a reality TV competition. Nominees for high office are turned into contestants vying for his approval, and the frontrunner could switch at any minute.Lo and behold, that’s exactly what’s happened in the race to become the next chairman ...
 
-Yahoo Finance • 18h ago
+Yahoo Finance • 19h ago
 
 ---
 
@@ -179,7 +179,7 @@ Yahoo Finance • 18h ago
 
 Indeed, since the JPMorgan report was published on Wednesday, both silver and gold have pulled back from recent highs.
 
-The Block • 10h ago
+The Block • 11h ago
 
 ---
 
@@ -211,7 +211,7 @@ CoinDesk • 1d ago
 
 Binance says it will convert its $1 billion SAFU user protection fund from stablecoins into bitcoin within 30 days and top it up if its value falls below $800 million.
 
-Bitbo • 19h ago
+Bitbo • 20h ago
 
 ---
 
@@ -219,7 +219,7 @@ Bitbo • 19h ago
 
 U.S.-listed spot bitcoin and ether ETFs saw one of their worst combined outflow days of 2026 as falling prices, rising volatility and macro uncertainty pushed investors to cut exposure.
 
-CoinDesk • 16h ago
+CoinDesk • 17h ago
 
 ---
 
@@ -227,7 +227,7 @@ CoinDesk • 16h ago
 
 Bitcoin’s crash to a nine-month low, coupled with growing uncertainty about macroeconomic policy, catalyzed $817 million in ETF outflows.
 
-Yahoo Finance • 19h ago
+Yahoo Finance • 20h ago
 
 ---
 
@@ -261,7 +261,7 @@ A list of known attacks against Bitcoin / crypto asset owning entities that occu
 
 Examine why the Binance SAFU fund debate keeps resurfacing, how stablecoins signal safety, and why Bitcoin continues to dominate trust conversations.
 
-⬆️ 1 • 💬 0 • 21h ago • [Altcoin Desk](https://altcoindesk.com/perspectives/1b-binance-safu-fund-if-stablecoins-mean-safety-why-do-bitcoin-returns/article-22752/)
+⬆️ 1 • 💬 0 • 22h ago • [Altcoin Desk](https://altcoindesk.com/perspectives/1b-binance-safu-fund-if-stablecoins-mean-safety-why-do-bitcoin-returns/article-22752/)
 
 ---
 
@@ -299,7 +299,7 @@ Transform HN comment threads into executive intelligence. AI analyzes discussion
 
 20 years of Hacker News analyzed. 40M comments. 10,000 topics. What the tech community really thinks.
 
-⬆️ 3 • 💬 0 • 14h ago • [HN Zeitgeist](https://hn.mrzepa.com/)
+⬆️ 3 • 💬 0 • 15h ago • [HN Zeitgeist](https://hn.mrzepa.com/)
 
 ---
 
@@ -319,7 +319,7 @@ Bitwise Chief Investment Officer, Matt Hougan joins CoinDesk's Markets Outlook w
 
 📺 CoinDesk
 
-👁️ 7K • 👍 222 • 💬 24 • ⏱️ 26:03 • 11h ago
+👁️ 7K • 👍 222 • 💬 24 • ⏱️ 26:03 • 12h ago
 
 ---
 
@@ -329,7 +329,7 @@ Hard Truths.... Are you ready? CRYPTO RETIREMENT ACCOUNT HERE Sign up for iTrust
 
 📺 Crypto Jebb
 
-👁️ 4K • 👍 316 • 💬 102 • ⏱️ 21:18 • 11h ago
+👁️ 4K • 👍 316 • 💬 102 • ⏱️ 21:18 • 12h ago
 
 ---
 
@@ -339,7 +339,7 @@ Central banks are selling Treasuries and hoarding gold at record levels as trust
 
 📺 Swan Bitcoin
 
-👁️ 22K • 👍 1K • 💬 176 • ⏱️ 14:55 • 16h ago
+👁️ 22K • 👍 1K • 💬 176 • ⏱️ 14:55 • 17h ago
 
 ---
 
