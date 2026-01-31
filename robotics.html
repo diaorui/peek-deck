@@ -57,7 +57,7 @@
             "name": "PeekDeck",
             "url": "https://peekdeck.ruidiao.dev"
           },
-          "dateModified": "2026-01-31T17:51:03.414354+00:00"
+          "dateModified": "2026-01-31T18:35:01.317515+00:00"
         },
         {
           "@type": "BreadcrumbList",
@@ -649,6 +649,41 @@
                     </div>
                 </div>
                 
+                <div class="carousel-card" onclick="window.open('https://www.reddit.com/r/robotics/comments/1qs7huf/making_a_heavy_dc_motor_platform_safe_contactors/', '_blank')">
+                    <div class="post-thumbnail">
+                        
+                        <img src="https://a.thumbs.redditmedia.com/9GIgNzuuqnDAVW-tgjgQTjE1uPQaIVGiu8ZUaGmQfy0.jpg" alt="Making a heavy DC motor platform safe: contactors, E-stop, and runaway prevention" onerror="this.style.display='none'" loading="lazy">
+                        
+                    </div>
+
+                    <div class="post-content">
+                        <!-- Post title -->
+                        <div class="post-title">
+                            <a href="https://www.reddit.com/r/robotics/comments/1qs7huf/making_a_heavy_dc_motor_platform_safe_contactors/" target="_blank" onclick="event.stopPropagation();">Making a heavy DC motor platform safe: contactors, E-stop, and runaway prevention</a>
+                        </div>
+
+                        <!-- Rich description (if available) -->
+                        
+                        <div class="post-description">
+                            Hi, I’m working on a repurposed electric wheelchair chassis (>100 kg, high-torque DC motors). Current test setup (yes, I know it’s not safe): • 2 DC motors • Sabertooth 2x32 • 24 V battery pack (2×12 V AGM) • Batteries connected directly to the Sabertooth • Motors connected directly to the Sabertooth • Control is classic RC (throttle + steering) • Motors have normally-closed electromagnetic brakes, but they are not wired yet (mechanically released) Right now: • As soon as I connect the batteries, the controller is powered • There is no real kill switch • The only way to stop everything is unplugging battery connectors • If something goes wrong, the platform could move uncontrollably I’m fully aware this is not acceptable, which is why I’m posting. My goal is to make this safe in as many realistic failure scenarios as possible: • If the main battery disconnects on a slope, the system should default to a safe state (this is where normally-closed electromagnetic brakes make sense). • If RC glitches, is lost, or a microcontroller crashes, the platform must not run away. • Whatever fails (RC, MCU, software, power), there should always be a solid hardware-level barrier preventing uncontrolled motion. I’m planning a hardware upgrade soon: • proper E-STOP / kill switch • DC contactors • wiring the electromagnetic brakes • and adding some kind of MCU in the control chain (ESP32 is the obvious option for me, but Raspberry Pi / onboard computer is also possible) The Sabertooth will remain only the motor power controller. The open question for me is the architecture: whether it’s better to keep “safety/control” and “robotics/autonomy” separated (for example one small MCU for safety + another board for higher-level stuff), or if people commonly keep everything on one controller. What I’m looking for is very practical advice: • How to design a solid anti-runaway architecture for this kind of platform • Where to physically cut power to make the system safe (battery side vs motor lines) • What type of DC contactors is typically used for high-torque DC motors (ratings, poles, inductive loads) • How normally-closed electromagnetic brakes are usually wired in a fail-safe way • How people typically split responsibilities between hardware safety, motor controller config, and a microcontroller (one vs two controllers, etc.) I’m not chasing theory or certifications. I want proven, practical solutions that people actually use to make platforms like this safe to power on. Thanks.
+                        </div>
+                        
+
+                        <!-- Metadata -->
+                        <div class="post-meta">
+                            <div class="post-meta-line">
+                                
+                                <div class="post-meta-item">
+                                    <span data-timestamp="1769878388.0"></span>
+                                </div>
+                                
+                                <!-- External article source (on same line as time) -->
+                                
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                
                 <div class="carousel-card" onclick="window.open('https://www.reddit.com/r/robotics/comments/1qs19lr/icra_2026_acceptance_notification/', '_blank')">
                     <div class="post-thumbnail">
                         
@@ -673,6 +708,39 @@
                                 
                                 <div class="post-meta-item">
                                     <span data-timestamp="1769863005.0"></span>
+                                </div>
+                                
+                                <!-- External article source (on same line as time) -->
+                                
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                
+                <div class="carousel-card" onclick="window.open('https://www.reddit.com/r/robotics/comments/1qs7830/icra_chatgpt_generated_rreviews/', '_blank')">
+                    <div class="post-thumbnail">
+                        
+                    </div>
+
+                    <div class="post-content">
+                        <!-- Post title -->
+                        <div class="post-title">
+                            <a href="https://www.reddit.com/r/robotics/comments/1qs7830/icra_chatgpt_generated_rreviews/" target="_blank" onclick="event.stopPropagation();">ICRA - ChatGPT Generated Rreviews?</a>
+                        </div>
+
+                        <!-- Rich description (if available) -->
+                        
+                        <div class="post-description">
+                            I just received the news that my ICRA submission was rejected. Which is fine. I never submitted with the expectation that it would get accepted but hoping that I would get some valuable feedback in the case of a rejection. Unfortunately this was not the case. The decision was made based on just two reviews. One of which was relatively neutral but seemingly written by someone who was not deeply familiar with the subject. Not a problem in itself but not a good basis for a decision in the case of only two reviews. The one that worries me more is the second review which in my opinion is likely written by ChatGPT or a similar LLM. I base this opinion on the way it is written going into unnecessary detail but also on the fact that most criticisms are just incorrect. Showing very limited understanding of the subject both in theoretical as well as in practical aspects as well as a lack of basic logic. This was my first time submitting to ICRA and if this is the kind of review quality to expect from a "top" conference it will also be the last time. It does not seem like a good conference unless you are doing mainstream research. I will include the review in question and invite anybody to read the preprint of my paper to form your own opinion. The preprint is identical to the version I submitted anonymization fron the double blind review. Modeling of UAV Tether Aerodynamics for Real-Time Simulation I would be happy about any feedback about my paper or your own experiences with ICRA and other "top" conferences. Following is the review. (Note when they talk about missing reference [?] this is due to the anonymization. I removed the citation when citing my own previous work) This paper addresses the important problem of modeling the tension forces and geometric shape of a tethered cable subjected to drag and wind forces, specifically within the context of drone tethering applications. The authors present a dual-solution approach: an analytical model based on the catenary equations, and a numerical solution derived using the IPOPT optimization solver within the CasADi framework. Despite the interesting and relevant application, the paper suffers from several major concerns that must be comprehensively addressed before publication. Major Comments: - Lack of Clarity and Novelty in Introduction The Introduction fails to clearly articulate the problem's relevance for tethered drone systems (e.g., increased energy consumption, system instability, or control degradation due to cable dynamics). This critical context is left for the reader to infer. More importantly, the authors do not explicitly define the novelty or scientific contribution of the proposed dual-solution approach over the existing state of the art. The introduction must clearly establish how this work advances previous research. - The State-of-the-Art section describes previous works but struggles to differentiate the current contribution. Solutions presented in references, such as [5] and [6], appear to address similar or potentially more complete aspects of the problem. The authors must rigorously specify what makes their approach unique and scientifically significant compared to these prior methods. Without this clarity, the paper's contribution remains ambiguous to the reader. - The Analytical Approach section, while well-explained, relies heavily on existing theory. However, the subsequent Numerical Solution section lacks sufficient justification for its necessity. Observing Figure 4, the analytical and numerical solutions for the cable shape are notably similar. Crucially, the paper does not provide a true ground truth or a comparative analysis (e.g., computational cost, convergence rate, robustness to highly non-ideal conditions) to argue for the superiority or necessity of the numerical optimization solver. The authors must explain the specific scenarios where the numerical approach offers a non-trivial advantage. - The real-world experiment, which aims to validate the proposed online estimation of cable shape and tension, highlights several critical issues: Redundancy: The numerical and analytical cable shape estimations appear to be almost overlapping, reinforcing the question regarding the necessity of the computationally intensive numerical approach. Inconsistency with Measurement: The force cell measurements diverge significantly from the results predicted by both the analytical and numerical models, suggesting a fundamental modeling or implementation flaw that must be investigated and corrected. Contradictory Assumption: The experimental section assumes zero wind, a highly restrictive and unrealistic simplification that directly contradicts the paper's central motivation presented in the Introduction ("...optimize the design, modeling, and control of drones tethered to a moving ground vehicle in real-world conditions like strong wind."). This assumption undermines the stated purpose and the validity of the drag modeling. Kinematic Error: The assumption that ground speed is equal to airspeed is fundamentally incorrect in real-world scenarios, where wind (a stated variable in the paper's premise) is a major differentiating factor. Minor Notes - Missing Reference: The phrase "In [?], we have looked at optimization of the tether parameters..." contains a placeholder. This reference should be corrected to: "In [Number], the authors..." to maintain academic style and anonymity during review. - Inappropriate Language: The sentence, "Besides the necessary interface changes, two new lines of code were added and two lines were adjusted, showing the flexibility of the approach," is more suitable for a technical report or implementation note. In a formal conference paper, this assertion should be replaced with a more rigorous, quantitative statement about the modularity and computational efficiency of the implementation. The core concept of modeling tether dynamics is valuable, but the current manuscript is incomplete and requires significant revision. The major issues stem from unvalidated model results, unjustified complexity of the numerical solution, and experimental assumptions that directly contradict the paper's stated goals regarding wind effects. The authors must provide stronger evidence of the scientific contribution and rigorously validate the models under the realistic conditions outlined in the introduction.
+                        </div>
+                        
+
+                        <!-- Metadata -->
+                        <div class="post-meta">
+                            <div class="post-meta-line">
+                                
+                                <div class="post-meta-item">
+                                    <span data-timestamp="1769877798.0"></span>
                                 </div>
                                 
                                 <!-- External article source (on same line as time) -->
@@ -752,7 +820,7 @@
                     </div>
                 </div>
                 
-                <div class="carousel-card" onclick="window.open('https://www.reddit.com/r/robotics/comments/1qs5gao/building_drone_with_stm32f103c8t6/', '_blank')">
+                <div class="carousel-card" onclick="window.open('https://www.reddit.com/r/robotics/comments/1qs047w/using_lowcost_android_smartphones_as_embedded/', '_blank')">
                     <div class="post-thumbnail">
                         
                     </div>
@@ -760,10 +828,14 @@
                     <div class="post-content">
                         <!-- Post title -->
                         <div class="post-title">
-                            <a href="https://www.reddit.com/r/robotics/comments/1qs5gao/building_drone_with_stm32f103c8t6/" target="_blank" onclick="event.stopPropagation();">BUILDING DRONE WITH STM32F103C8T6</a>
+                            <a href="https://www.reddit.com/r/robotics/comments/1qs047w/using_lowcost_android_smartphones_as_embedded/" target="_blank" onclick="event.stopPropagation();">Using low-cost Android smartphones as embedded telematics gateways on forklifts – sane or bad idea?</a>
                         </div>
 
                         <!-- Rich description (if available) -->
+                        
+                        <div class="post-description">
+                            I’m working on an industrial telematics system for a client who operates a fleet of electric forklifts . The proposed architecture is to mount a low-cost Android smartphone permanently on each forklift . Role of the Android phone: - Acts as the edge gateway - 4G connectivity to cloud - GPS positioning and speed estimation - Shock detection using accelerometer - Inclination (pitch/roll) using sensors - Driver identification using front camera (event-based face recognition) - Bluetooth (BLE) communication with an ESP32 that handles CAN bus + battery/current sensors Hardware constraints: - Low-end Android phones (≈3–4 GB RAM, quad-core CPU) - Continuous charging from forklift 24V - Industrial vibration environment - Android 11–14 range This is for a real client, not a hobby project. My questions to engineers who’ve done industrial / Android-at-the-edge systems: Is this architecture considered reasonable in production, or a maintenance nightmare long-term? What are the biggest failure modes you’ve seen when using Android phones as embedded gateways? Would you strongly recommend replacing the phone with a dedicated telematics box instead? Any hard lessons around Android background limits, BLE reliability, or sensor accuracy in vehicles? If you’ve shipped something similar, what would you do differently today? I’m intentionally not relying on OEM forklift firmware to keep the system brand-agnostic. Looking for honest, experience-based feedback positive or negative.
+                        </div>
                         
 
                         <!-- Metadata -->
@@ -771,7 +843,7 @@
                             <div class="post-meta-line">
                                 
                                 <div class="post-meta-item">
-                                    <span data-timestamp="1769873758.0"></span>
+                                    <span data-timestamp="1769859411.0"></span>
                                 </div>
                                 
                                 <!-- External article source (on same line as time) -->
@@ -814,7 +886,7 @@
                     </div>
                 </div>
                 
-                <div class="carousel-card" onclick="window.open('https://www.reddit.com/r/robotics/comments/1qs047w/using_lowcost_android_smartphones_as_embedded/', '_blank')">
+                <div class="carousel-card" onclick="window.open('https://www.reddit.com/r/robotics/comments/1qs5gao/building_drone_with_stm32f103c8t6/', '_blank')">
                     <div class="post-thumbnail">
                         
                     </div>
@@ -822,14 +894,10 @@
                     <div class="post-content">
                         <!-- Post title -->
                         <div class="post-title">
-                            <a href="https://www.reddit.com/r/robotics/comments/1qs047w/using_lowcost_android_smartphones_as_embedded/" target="_blank" onclick="event.stopPropagation();">Using low-cost Android smartphones as embedded telematics gateways on forklifts – sane or bad idea?</a>
+                            <a href="https://www.reddit.com/r/robotics/comments/1qs5gao/building_drone_with_stm32f103c8t6/" target="_blank" onclick="event.stopPropagation();">BUILDING DRONE WITH STM32F103C8T6</a>
                         </div>
 
                         <!-- Rich description (if available) -->
-                        
-                        <div class="post-description">
-                            I’m working on an industrial telematics system for a client who operates a fleet of electric forklifts . The proposed architecture is to mount a low-cost Android smartphone permanently on each forklift . Role of the Android phone: - Acts as the edge gateway - 4G connectivity to cloud - GPS positioning and speed estimation - Shock detection using accelerometer - Inclination (pitch/roll) using sensors - Driver identification using front camera (event-based face recognition) - Bluetooth (BLE) communication with an ESP32 that handles CAN bus + battery/current sensors Hardware constraints: - Low-end Android phones (≈3–4 GB RAM, quad-core CPU) - Continuous charging from forklift 24V - Industrial vibration environment - Android 11–14 range This is for a real client, not a hobby project. My questions to engineers who’ve done industrial / Android-at-the-edge systems: Is this architecture considered reasonable in production, or a maintenance nightmare long-term? What are the biggest failure modes you’ve seen when using Android phones as embedded gateways? Would you strongly recommend replacing the phone with a dedicated telematics box instead? Any hard lessons around Android background limits, BLE reliability, or sensor accuracy in vehicles? If you’ve shipped something similar, what would you do differently today? I’m intentionally not relying on OEM forklift firmware to keep the system brand-agnostic. Looking for honest, experience-based feedback positive or negative.
-                        </div>
                         
 
                         <!-- Metadata -->
@@ -837,75 +905,7 @@
                             <div class="post-meta-line">
                                 
                                 <div class="post-meta-item">
-                                    <span data-timestamp="1769859411.0"></span>
-                                </div>
-                                
-                                <!-- External article source (on same line as time) -->
-                                
-                            </div>
-                        </div>
-                    </div>
-                </div>
-                
-                <div class="carousel-card" onclick="window.open('https://www.reddit.com/r/robotics/comments/1qs7huf/making_a_heavy_dc_motor_platform_safe_contactors/', '_blank')">
-                    <div class="post-thumbnail">
-                        
-                        <img src="https://a.thumbs.redditmedia.com/9GIgNzuuqnDAVW-tgjgQTjE1uPQaIVGiu8ZUaGmQfy0.jpg" alt="Making a heavy DC motor platform safe: contactors, E-stop, and runaway prevention" onerror="this.style.display='none'" loading="lazy">
-                        
-                    </div>
-
-                    <div class="post-content">
-                        <!-- Post title -->
-                        <div class="post-title">
-                            <a href="https://www.reddit.com/r/robotics/comments/1qs7huf/making_a_heavy_dc_motor_platform_safe_contactors/" target="_blank" onclick="event.stopPropagation();">Making a heavy DC motor platform safe: contactors, E-stop, and runaway prevention</a>
-                        </div>
-
-                        <!-- Rich description (if available) -->
-                        
-                        <div class="post-description">
-                            Hi, I’m working on a repurposed electric wheelchair chassis (>100 kg, high-torque DC motors). Current test setup (yes, I know it’s not safe): • 2 DC motors • Sabertooth 2x32 • 24 V battery pack (2×12 V AGM) • Batteries connected directly to the Sabertooth • Motors connected directly to the Sabertooth • Control is classic RC (throttle + steering) • Motors have normally-closed electromagnetic brakes, but they are not wired yet (mechanically released) Right now: • As soon as I connect the batteries, the controller is powered • There is no real kill switch • The only way to stop everything is unplugging battery connectors • If something goes wrong, the platform could move uncontrollably I’m fully aware this is not acceptable, which is why I’m posting. My goal is to make this safe in as many realistic failure scenarios as possible: • If the main battery disconnects on a slope, the system should default to a safe state (this is where normally-closed electromagnetic brakes make sense). • If RC glitches, is lost, or a microcontroller crashes, the platform must not run away. • Whatever fails (RC, MCU, software, power), there should always be a solid hardware-level barrier preventing uncontrolled motion. I’m planning a hardware upgrade soon: • proper E-STOP / kill switch • DC contactors • wiring the electromagnetic brakes • and adding some kind of MCU in the control chain (ESP32 is the obvious option for me, but Raspberry Pi / onboard computer is also possible) The Sabertooth will remain only the motor power controller. The open question for me is the architecture: whether it’s better to keep “safety/control” and “robotics/autonomy” separated (for example one small MCU for safety + another board for higher-level stuff), or if people commonly keep everything on one controller. What I’m looking for is very practical advice: • How to design a solid anti-runaway architecture for this kind of platform • Where to physically cut power to make the system safe (battery side vs motor lines) • What type of DC contactors is typically used for high-torque DC motors (ratings, poles, inductive loads) • How normally-closed electromagnetic brakes are usually wired in a fail-safe way • How people typically split responsibilities between hardware safety, motor controller config, and a microcontroller (one vs two controllers, etc.) I’m not chasing theory or certifications. I want proven, practical solutions that people actually use to make platforms like this safe to power on. Thanks.
-                        </div>
-                        
-
-                        <!-- Metadata -->
-                        <div class="post-meta">
-                            <div class="post-meta-line">
-                                
-                                <div class="post-meta-item">
-                                    <span data-timestamp="1769878388.0"></span>
-                                </div>
-                                
-                                <!-- External article source (on same line as time) -->
-                                
-                            </div>
-                        </div>
-                    </div>
-                </div>
-                
-                <div class="carousel-card" onclick="window.open('https://www.reddit.com/r/robotics/comments/1qs7830/icra_chatgpt_generated_rreviews/', '_blank')">
-                    <div class="post-thumbnail">
-                        
-                    </div>
-
-                    <div class="post-content">
-                        <!-- Post title -->
-                        <div class="post-title">
-                            <a href="https://www.reddit.com/r/robotics/comments/1qs7830/icra_chatgpt_generated_rreviews/" target="_blank" onclick="event.stopPropagation();">ICRA - ChatGPT Generated Rreviews?</a>
-                        </div>
-
-                        <!-- Rich description (if available) -->
-                        
-                        <div class="post-description">
-                            I just received the news that my ICRA submission was rejected. Which is fine. I never submitted with the expectation that it would get accepted but hoping that I would get some valuable feedback in the case of a rejection. Unfortunately this was not the case. The decision was made based on just two reviews. One of which was relatively neutral but seemingly written by someone who was not deeply familiar with the subject. Not a problem in itself but not a good basis for a decision in the case of only two reviews. The one that worries me more is the second review which in my opinion is likely written by ChatGPT or a similar LLM. I base this opinion on the way it is written going into unnecessary detail but also on the fact that most criticisms are just incorrect. Showing very limited understanding of the subject both in theoretical as well as in practical aspects as well as a lack of basic logic. This was my first time submitting to ICRA and if this is the kind of review quality to expect from a "top" conference it will also be the last time. It does not seem like a good conference unless you are doing mainstream research. I will include the review in question and invite anybody to read the preprint of my paper to form your own opinion. The preprint is identical to the version I submitted anonymization fron the double blind review. Modeling of UAV Tether Aerodynamics for Real-Time Simulation I would be happy about any feedback about my paper or your own experiences with ICRA and other "top" conferences. Following is the review. (Note when they talk about missing reference [?] this is due to the anonymization. I removed the citation when citing my own previous work) This paper addresses the important problem of modeling the tension forces and geometric shape of a tethered cable subjected to drag and wind forces, specifically within the context of drone tethering applications. The authors present a dual-solution approach: an analytical model based on the catenary equations, and a numerical solution derived using the IPOPT optimization solver within the CasADi framework. Despite the interesting and relevant application, the paper suffers from several major concerns that must be comprehensively addressed before publication. Major Comments: - Lack of Clarity and Novelty in Introduction The Introduction fails to clearly articulate the problem's relevance for tethered drone systems (e.g., increased energy consumption, system instability, or control degradation due to cable dynamics). This critical context is left for the reader to infer. More importantly, the authors do not explicitly define the novelty or scientific contribution of the proposed dual-solution approach over the existing state of the art. The introduction must clearly establish how this work advances previous research. - The State-of-the-Art section describes previous works but struggles to differentiate the current contribution. Solutions presented in references, such as [5] and [6], appear to address similar or potentially more complete aspects of the problem. The authors must rigorously specify what makes their approach unique and scientifically significant compared to these prior methods. Without this clarity, the paper's contribution remains ambiguous to the reader. - The Analytical Approach section, while well-explained, relies heavily on existing theory. However, the subsequent Numerical Solution section lacks sufficient justification for its necessity. Observing Figure 4, the analytical and numerical solutions for the cable shape are notably similar. Crucially, the paper does not provide a true ground truth or a comparative analysis (e.g., computational cost, convergence rate, robustness to highly non-ideal conditions) to argue for the superiority or necessity of the numerical optimization solver. The authors must explain the specific scenarios where the numerical approach offers a non-trivial advantage. - The real-world experiment, which aims to validate the proposed online estimation of cable shape and tension, highlights several critical issues: Redundancy: The numerical and analytical cable shape estimations appear to be almost overlapping, reinforcing the question regarding the necessity of the computationally intensive numerical approach. Inconsistency with Measurement: The force cell measurements diverge significantly from the results predicted by both the analytical and numerical models, suggesting a fundamental modeling or implementation flaw that must be investigated and corrected. Contradictory Assumption: The experimental section assumes zero wind, a highly restrictive and unrealistic simplification that directly contradicts the paper's central motivation presented in the Introduction ("...optimize the design, modeling, and control of drones tethered to a moving ground vehicle in real-world conditions like strong wind."). This assumption undermines the stated purpose and the validity of the drag modeling. Kinematic Error: The assumption that ground speed is equal to airspeed is fundamentally incorrect in real-world scenarios, where wind (a stated variable in the paper's premise) is a major differentiating factor. Minor Notes - Missing Reference: The phrase "In [?], we have looked at optimization of the tether parameters..." contains a placeholder. This reference should be corrected to: "In [Number], the authors..." to maintain academic style and anonymity during review. - Inappropriate Language: The sentence, "Besides the necessary interface changes, two new lines of code were added and two lines were adjusted, showing the flexibility of the approach," is more suitable for a technical report or implementation note. In a formal conference paper, this assertion should be replaced with a more rigorous, quantitative statement about the modularity and computational efficiency of the implementation. The core concept of modeling tether dynamics is valuable, but the current manuscript is incomplete and requires significant revision. The major issues stem from unvalidated model results, unjustified complexity of the numerical solution, and experimental assumptions that directly contradict the paper's stated goals regarding wind effects. The authors must provide stronger evidence of the scientific contribution and rigorously validate the models under the realistic conditions outlined in the introduction.
-                        </div>
-                        
-
-                        <!-- Metadata -->
-                        <div class="post-meta">
-                            <div class="post-meta-line">
-                                
-                                <div class="post-meta-item">
-                                    <span data-timestamp="1769877798.0"></span>
+                                    <span data-timestamp="1769873758.0"></span>
                                 </div>
                                 
                                 <!-- External article source (on same line as time) -->
@@ -971,7 +971,7 @@
 
     </div>
     <div class="widget-footer">
-        <small data-timestamp="2026-01-31T16:57:01.420838+00:00">Updated 2026-01-31T16:57:01.420838+00:00</small>
+        <small data-timestamp="2026-01-31T18:34:35.028107+00:00">Updated 2026-01-31T18:34:35.028107+00:00</small>
     </div>
 </div>
 
@@ -1280,6 +1280,47 @@
                     </div>
                 </div>
                 
+                <div class="carousel-card" onclick="window.open('https://www.heraldnet.com/news/lake-stevens-robotics-team-receives-world-recognition/', '_blank')">
+                    <!-- Rich preview thumbnail (with fallback icon) -->
+                    <div class="article-thumbnail" style="background-image: url('https://www.heraldnet.com/wp-content/uploads/2026/01/41439641_web1_TSR-EDH-LakeStevensRobotics-260129-fs.jpg');"></div>
+
+                    <div class="article-content">
+                        <!-- Article headline (fixed 3-line height) -->
+                        <div class="news-headline">
+                            <a href="https://www.heraldnet.com/news/lake-stevens-robotics-team-receives-world-recognition/" target="_blank" onclick="event.stopPropagation();">Lake Stevens robotics team receives world recognition</a>
+                        </div>
+
+                        <!-- Rich description (if available) -->
+                        
+                        <div class="article-description">
+                            Team Arsenic took second place at the recent ROBO-BASH in Bellingham, earning fifth place in the world.
+                        </div>
+                        
+
+                        <!-- Metadata (source, time) -->
+                        <div class="news-meta">
+                            <div class="news-meta-line">
+                                
+                                <div class="news-meta-item news-source">
+                                    
+                                    <img src="https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.heraldnet.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+                                         alt="Everett Herald" class="news-favicon">
+                                    <a href="https://www.heraldnet.com" target="_blank" onclick="event.stopPropagation();">Everett Herald</a>
+                                    
+                                </div>
+                                
+                            </div>
+                            <div class="news-meta-line">
+                                
+                                <div class="news-meta-item">
+                                    <span data-timestamp="1769765400.0"></span>
+                                </div>
+                                
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                
                 <div class="carousel-card" onclick="window.open('https://www.bloomberg.com/news/articles/2026-01-29/fiat-toyota-tycoons-back-startup-robco-in-100-million-round', '_blank')">
                     <!-- Rich preview thumbnail (with fallback icon) -->
                     <div class="article-thumbnail" ></div>
@@ -1358,6 +1399,47 @@
                     </div>
                 </div>
                 
+                <div class="carousel-card" onclick="window.open('https://news.sky.com/story/tesla-axes-ev-models-in-drive-for-robotics-revenue-13500444', '_blank')">
+                    <!-- Rich preview thumbnail (with fallback icon) -->
+                    <div class="article-thumbnail" style="background-image: url('https://e3.365dm.com/26/01/1600x900/skynews-optimus-tesla_7149143.jpg?20260129054949');"></div>
+
+                    <div class="article-content">
+                        <!-- Article headline (fixed 3-line height) -->
+                        <div class="news-headline">
+                            <a href="https://news.sky.com/story/tesla-axes-ev-models-in-drive-for-robotics-revenue-13500444" target="_blank" onclick="event.stopPropagation();">Tesla axes EV models in drive for robotics revenue</a>
+                        </div>
+
+                        <!-- Rich description (if available) -->
+                        
+                        <div class="article-description">
+                            Investors liked what they heard about the future following the company's latest results, but Elon Musk is under huge pressure to deliver on his vision as a series of targets have been missed.
+                        </div>
+                        
+
+                        <!-- Metadata (source, time) -->
+                        <div class="news-meta">
+                            <div class="news-meta-line">
+                                
+                                <div class="news-meta-item news-source">
+                                    
+                                    <img src="https://encrypted-tbn2.gstatic.com/faviconV2?url=https://news.sky.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+                                         alt="Sky News" class="news-favicon">
+                                    <a href="https://news.sky.com" target="_blank" onclick="event.stopPropagation();">Sky News</a>
+                                    
+                                </div>
+                                
+                            </div>
+                            <div class="news-meta-line">
+                                
+                                <div class="news-meta-item">
+                                    <span data-timestamp="1769670450.0"></span>
+                                </div>
+                                
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                
                 <div class="carousel-card" onclick="window.open('https://ir.ondas.com/press-releases/detail/275/ondas-american-robotics-optimus-drone-approved-for-rapid', '_blank')">
                     <!-- Rich preview thumbnail (with fallback icon) -->
                     <div class="article-thumbnail" style="background-image: url('https://d1io3yog0oux5.cloudfront.net/_2ac9e598c9c71a6b65b3e6add5f753df/ondas/db/595/4295/social_image_resized.jpg');"></div>
@@ -1395,20 +1477,20 @@
                     </div>
                 </div>
                 
-                <div class="carousel-card" onclick="window.open('https://www.heraldnet.com/news/lake-stevens-robotics-team-receives-world-recognition/', '_blank')">
+                <div class="carousel-card" onclick="window.open('https://www.nbcnews.com/video/china-rolls-out-robot-cops-in-cities-to-push-humanoid-robots-in-daily-life-256872517804', '_blank')">
                     <!-- Rich preview thumbnail (with fallback icon) -->
-                    <div class="article-thumbnail" style="background-image: url('https://www.heraldnet.com/wp-content/uploads/2026/01/41439641_web1_TSR-EDH-LakeStevensRobotics-260129-fs.jpg');"></div>
+                    <div class="article-thumbnail" style="background-image: url('https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/mpx/2704722219/2026_01/1769742202999_now_topstory_china_robot_cops_260129_1920x1080-d0hzdr.jpg');"></div>
 
                     <div class="article-content">
                         <!-- Article headline (fixed 3-line height) -->
                         <div class="news-headline">
-                            <a href="https://www.heraldnet.com/news/lake-stevens-robotics-team-receives-world-recognition/" target="_blank" onclick="event.stopPropagation();">Lake Stevens robotics team receives world recognition</a>
+                            <a href="https://www.nbcnews.com/video/china-rolls-out-robot-cops-in-cities-to-push-humanoid-robots-in-daily-life-256872517804" target="_blank" onclick="event.stopPropagation();">China rolls out robot cops in cities to push humanoid robots in daily life</a>
                         </div>
 
                         <!-- Rich description (if available) -->
                         
                         <div class="article-description">
-                            Team Arsenic took second place at the recent ROBO-BASH in Bellingham, earning fifth place in the world.
+                            China is deploying AI-powered robots to manage traffic and pedestrian flow in cities. NBC News’ Janis Mackey Frayer explains how China continues to advance robot technology and is pushing to integrate humanoid robots into daily life.
                         </div>
                         
 
@@ -1418,9 +1500,9 @@
                                 
                                 <div class="news-meta-item news-source">
                                     
-                                    <img src="https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.heraldnet.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
-                                         alt="Everett Herald" class="news-favicon">
-                                    <a href="https://www.heraldnet.com" target="_blank" onclick="event.stopPropagation();">Everett Herald</a>
+                                    <img src="https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.nbcnews.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+                                         alt="NBC News" class="news-favicon">
+                                    <a href="https://www.nbcnews.com" target="_blank" onclick="event.stopPropagation();">NBC News</a>
                                     
                                 </div>
                                 
@@ -1428,48 +1510,7 @@
                             <div class="news-meta-line">
                                 
                                 <div class="news-meta-item">
-                                    <span data-timestamp="1769765400.0"></span>
-                                </div>
-                                
-                            </div>
-                        </div>
-                    </div>
-                </div>
-                
-                <div class="carousel-card" onclick="window.open('https://news.sky.com/story/tesla-axes-ev-models-in-drive-for-robotics-revenue-13500444', '_blank')">
-                    <!-- Rich preview thumbnail (with fallback icon) -->
-                    <div class="article-thumbnail" style="background-image: url('https://e3.365dm.com/26/01/1600x900/skynews-optimus-tesla_7149143.jpg?20260129054949');"></div>
-
-                    <div class="article-content">
-                        <!-- Article headline (fixed 3-line height) -->
-                        <div class="news-headline">
-                            <a href="https://news.sky.com/story/tesla-axes-ev-models-in-drive-for-robotics-revenue-13500444" target="_blank" onclick="event.stopPropagation();">Tesla axes EV models in drive for robotics revenue</a>
-                        </div>
-
-                        <!-- Rich description (if available) -->
-                        
-                        <div class="article-description">
-                            Investors liked what they heard about the future following the company's latest results, but Elon Musk is under huge pressure to deliver on his vision as a series of targets have been missed.
-                        </div>
-                        
-
-                        <!-- Metadata (source, time) -->
-                        <div class="news-meta">
-                            <div class="news-meta-line">
-                                
-                                <div class="news-meta-item news-source">
-                                    
-                                    <img src="https://encrypted-tbn2.gstatic.com/faviconV2?url=https://news.sky.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
-                                         alt="Sky News" class="news-favicon">
-                                    <a href="https://news.sky.com" target="_blank" onclick="event.stopPropagation();">Sky News</a>
-                                    
-                                </div>
-                                
-                            </div>
-                            <div class="news-meta-line">
-                                
-                                <div class="news-meta-item">
-                                    <span data-timestamp="1769670450.0"></span>
+                                    <span data-timestamp="1769742404.0"></span>
                                 </div>
                                 
                             </div>
@@ -1518,47 +1559,6 @@
                     </div>
                 </div>
                 
-                <div class="carousel-card" onclick="window.open('https://www.theverge.com/column/870438/optimizer-mirumi-loneliness-social-companion-robots', '_blank')">
-                    <!-- Rich preview thumbnail (with fallback icon) -->
-                    <div class="article-thumbnail" style="background-image: url('https://platform.theverge.com/wp-content/uploads/sites/2/2025/12/258209_Mirumi_AI_robot_AKrales_0125.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200');"></div>
-
-                    <div class="article-content">
-                        <!-- Article headline (fixed 3-line height) -->
-                        <div class="news-headline">
-                            <a href="https://www.theverge.com/column/870438/optimizer-mirumi-loneliness-social-companion-robots" target="_blank" onclick="event.stopPropagation();">The lonely promise of cute robots</a>
-                        </div>
-
-                        <!-- Rich description (if available) -->
-                        
-                        <div class="article-description">
-                            Mirumi is adorably boring, unless you’re my cat.
-                        </div>
-                        
-
-                        <!-- Metadata (source, time) -->
-                        <div class="news-meta">
-                            <div class="news-meta-line">
-                                
-                                <div class="news-meta-item news-source">
-                                    
-                                    <img src="https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.theverge.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
-                                         alt="The Verge" class="news-favicon">
-                                    <a href="https://www.theverge.com" target="_blank" onclick="event.stopPropagation();">The Verge</a>
-                                    
-                                </div>
-                                
-                            </div>
-                            <div class="news-meta-line">
-                                
-                                <div class="news-meta-item">
-                                    <span data-timestamp="1769787204.0"></span>
-                                </div>
-                                
-                            </div>
-                        </div>
-                    </div>
-                </div>
-                
 
                 <!-- View All button at end of carousel -->
                 <div class="carousel-card" style="display: flex; align-items: center; justify-content: center; cursor: pointer; background: rgba(255, 255, 255, 0.05);"
@@ -1579,7 +1579,7 @@
 
     </div>
     <div class="widget-footer">
-        <small data-timestamp="2026-01-31T16:57:13.987325+00:00">Updated 2026-01-31T16:57:13.987325+00:00</small>
+        <small data-timestamp="2026-01-31T18:34:48.938611+00:00">Updated 2026-01-31T18:34:48.938611+00:00</small>
     </div>
 </div>
 
@@ -1811,16 +1811,16 @@
                             
                             <div class="video-meta-line">
                                 <div class="video-meta-item">
-                                    <span style="color: #9ca3af;">👁️ 32K</span>
+                                    <span style="color: #9ca3af;">👁️ 39K</span>
                                 </div>
                                 
                                 <div class="video-meta-item">
-                                    <span style="color: #9ca3af;">👍 643</span>
+                                    <span style="color: #9ca3af;">👍 706</span>
                                 </div>
                                 
                                 
                                 <div class="video-meta-item">
-                                    <span style="color: #9ca3af;">💬 88</span>
+                                    <span style="color: #9ca3af;">💬 115</span>
                                 </div>
                                 
                             </div>
@@ -1877,7 +1877,7 @@
                             
                             <div class="video-meta-line">
                                 <div class="video-meta-item">
-                                    <span style="color: #9ca3af;">👁️ 327K</span>
+                                    <span style="color: #9ca3af;">👁️ 374K</span>
                                 </div>
                                 
                                 <div class="video-meta-item">
@@ -1886,7 +1886,7 @@
                                 
                                 
                                 <div class="video-meta-item">
-                                    <span style="color: #9ca3af;">💬 1K</span>
+                                    <span style="color: #9ca3af;">💬 2K</span>
                                 </div>
                                 
                             </div>
@@ -1943,16 +1943,16 @@
                             
                             <div class="video-meta-line">
                                 <div class="video-meta-item">
-                                    <span style="color: #9ca3af;">👁️ 13K</span>
+                                    <span style="color: #9ca3af;">👁️ 14K</span>
                                 </div>
                                 
                                 <div class="video-meta-item">
-                                    <span style="color: #9ca3af;">👍 562</span>
+                                    <span style="color: #9ca3af;">👍 588</span>
                                 </div>
                                 
                                 
                                 <div class="video-meta-item">
-                                    <span style="color: #9ca3af;">💬 23</span>
+                                    <span style="color: #9ca3af;">💬 24</span>
                                 </div>
                                 
                             </div>
@@ -1963,6 +1963,134 @@
                                 
                                 <div class="video-meta-item">
                                     <span data-timestamp="1769817267.0"></span>
+                                </div>
+                                
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                
+                <div class="carousel-card" onclick="window.open('https://www.youtube.com/watch?v=lQsvTrRTBRs', '_blank')">
+                    <!-- Video thumbnail (16:9 with play button overlay and duration badge) -->
+                    <div class="video-thumbnail" style="background-image: url('https://i.ytimg.com/vi/lQsvTrRTBRs/hqdefault.jpg');">
+                        
+                        <span class="duration-badge">3:37</span>
+                        
+                    </div>
+
+                    <div class="video-content">
+                        <!-- Video title (fixed 2-line height) -->
+                        <div class="video-title">
+                            <a href="https://www.youtube.com/watch?v=lQsvTrRTBRs" target="_blank" onclick="event.stopPropagation();">Introducing Helix 02</a>
+                        </div>
+
+                        <!-- Video description (if available) -->
+                        
+                        <div class="video-description">
+                            Last year, Helix showed that a single neural network could control a humanoid's upper body from pixels. Today, Helix 02 extends ...
+                        </div>
+                        
+
+                        <!-- Metadata (channel, engagement stats, publish date) -->
+                        <div class="video-meta">
+                            <!-- Channel name with avatar -->
+                            <div class="video-meta-line">
+                                
+                                <div class="video-meta-item video-channel">
+                                    
+                                    <img src="https://yt3.ggpht.com/Tdy4ri3X3vRWTO3LgYIm_xDbz0Ryqpti5RFxZUclsAKQ2oPX15jWJVy0F4s275EjIpLWVuSv=s88-c-k-c0x00ffffff-no-rj" alt="Figure" class="channel-avatar">
+                                    
+                                    <a href="https://www.youtube.com/channel/UCYlq-KmwPjc1DtsGmthFqSQ" target="_blank" onclick="event.stopPropagation();">Figure</a>
+                                </div>
+                                
+                            </div>
+
+                            <!-- Engagement stats (views, likes, comments) -->
+                            
+                            <div class="video-meta-line">
+                                <div class="video-meta-item">
+                                    <span style="color: #9ca3af;">👁️ 206K</span>
+                                </div>
+                                
+                                <div class="video-meta-item">
+                                    <span style="color: #9ca3af;">👍 12K</span>
+                                </div>
+                                
+                                
+                                <div class="video-meta-item">
+                                    <span style="color: #9ca3af;">💬 2K</span>
+                                </div>
+                                
+                            </div>
+                            
+
+                            <!-- Published date -->
+                            <div class="video-meta-line">
+                                
+                                <div class="video-meta-item">
+                                    <span data-timestamp="1769535932.0"></span>
+                                </div>
+                                
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                
+                <div class="carousel-card" onclick="window.open('https://www.youtube.com/watch?v=qBIpFr_d3Vg', '_blank')">
+                    <!-- Video thumbnail (16:9 with play button overlay and duration badge) -->
+                    <div class="video-thumbnail" style="background-image: url('https://i.ytimg.com/vi/qBIpFr_d3Vg/hqdefault.jpg');">
+                        
+                        <span class="duration-badge">0:18</span>
+                        
+                    </div>
+
+                    <div class="video-content">
+                        <!-- Video title (fixed 2-line height) -->
+                        <div class="video-title">
+                            <a href="https://www.youtube.com/watch?v=qBIpFr_d3Vg" target="_blank" onclick="event.stopPropagation();">Elon Musk Repairs High-Tech Robotic 🕵️ Wings on Female 💲Android in Futuristic 🧪 Ai-concept.</a>
+                        </div>
+
+                        <!-- Video description (if available) -->
+                        
+                        <div class="video-description">
+                            RoboticWings #FuturisticLab #Android #SciFi #Robotics #AIArt #Cyberpunk #HighTech #ArtificialIntelligence #TeslaBot ...
+                        </div>
+                        
+
+                        <!-- Metadata (channel, engagement stats, publish date) -->
+                        <div class="video-meta">
+                            <!-- Channel name with avatar -->
+                            <div class="video-meta-line">
+                                
+                                <div class="video-meta-item video-channel">
+                                    
+                                    <img src="https://yt3.ggpht.com/Uu2lwmEvIzX9GxkB-uANzN8knKmzR5YkAVbrwaGkKK4PnWdyca648ZZSgJ0TIfvX-u5E4xdwhAw=s88-c-k-c0x00ffffff-no-rj" alt="AITECHGADGETS" class="channel-avatar">
+                                    
+                                    <a href="https://www.youtube.com/channel/UCFf6GOZtefvL4uB4o3hDffA" target="_blank" onclick="event.stopPropagation();">AITECHGADGETS</a>
+                                </div>
+                                
+                            </div>
+
+                            <!-- Engagement stats (views, likes, comments) -->
+                            
+                            <div class="video-meta-line">
+                                <div class="video-meta-item">
+                                    <span style="color: #9ca3af;">👁️ 289K</span>
+                                </div>
+                                
+                                
+                                <div class="video-meta-item">
+                                    <span style="color: #9ca3af;">💬 152</span>
+                                </div>
+                                
+                            </div>
+                            
+
+                            <!-- Published date -->
+                            <div class="video-meta-line">
+                                
+                                <div class="video-meta-item">
+                                    <span data-timestamp="1769392031.0"></span>
                                 </div>
                                 
                             </div>
@@ -2018,7 +2146,7 @@
                                 
                                 
                                 <div class="video-meta-item">
-                                    <span style="color: #9ca3af;">💬 840</span>
+                                    <span style="color: #9ca3af;">💬 847</span>
                                 </div>
                                 
                             </div>
@@ -2036,24 +2164,24 @@
                     </div>
                 </div>
                 
-                <div class="carousel-card" onclick="window.open('https://www.youtube.com/watch?v=d_sDSfkI8ug', '_blank')">
+                <div class="carousel-card" onclick="window.open('https://www.youtube.com/watch?v=liF86L_EvKQ', '_blank')">
                     <!-- Video thumbnail (16:9 with play button overlay and duration badge) -->
-                    <div class="video-thumbnail" style="background-image: url('https://i.ytimg.com/vi/d_sDSfkI8ug/hqdefault.jpg');">
+                    <div class="video-thumbnail" style="background-image: url('https://i.ytimg.com/vi/liF86L_EvKQ/hqdefault.jpg');">
                         
-                        <span class="duration-badge">0:20</span>
+                        <span class="duration-badge">4:36</span>
                         
                     </div>
 
                     <div class="video-content">
                         <!-- Video title (fixed 2-line height) -->
                         <div class="video-title">
-                            <a href="https://www.youtube.com/watch?v=d_sDSfkI8ug" target="_blank" onclick="event.stopPropagation();">Robot that thinks 😳🤖Detects obstacles &amp; changes path automatically #roboarmy #arduinoprojects</a>
+                            <a href="https://www.youtube.com/watch?v=liF86L_EvKQ" target="_blank" onclick="event.stopPropagation();">Tesla Fremont factory ending Model S/X manufacturing to begin Optimus robot production</a>
                         </div>
 
                         <!-- Video description (if available) -->
                         
                         <div class="video-description">
-                            ObstacleAvoidance #ArduinoRobot #Robotics #TechReels #DIYProjects.
+                            Andrea Nakano reports on the Tesla Fremont factory ending Model S/X production and using that part of the factory for mass ...
                         </div>
                         
 
@@ -2064,9 +2192,9 @@
                                 
                                 <div class="video-meta-item video-channel">
                                     
-                                    <img src="https://yt3.ggpht.com/F3uNVIgp-IT_TMKHyveaE-YIp56BwCALhJ31z_tZsXY3fQojIn8mokfng0lFlCZ_GR9G4g7NJa8=s88-c-k-c0x00ffffff-no-rj" alt="Roboarmy" class="channel-avatar">
+                                    <img src="https://yt3.ggpht.com/xpcD-YUAdeEYNrKTn108RAuNF2YmID5kpguUixPibKOP3njsjiGjNzrMNo_hP3ZPynk3oTaPwlQ=s88-c-k-c0x00ffffff-no-rj" alt="KPIX | CBS NEWS BAY AREA" class="channel-avatar">
                                     
-                                    <a href="https://www.youtube.com/channel/UCMWpEy4e1hVE7YHDZlcQNFw" target="_blank" onclick="event.stopPropagation();">Roboarmy</a>
+                                    <a href="https://www.youtube.com/channel/UCF4LEacx9sDvAbEJnlaJfKQ" target="_blank" onclick="event.stopPropagation();">KPIX | CBS NEWS BAY AREA</a>
                                 </div>
                                 
                             </div>
@@ -2075,16 +2203,16 @@
                             
                             <div class="video-meta-line">
                                 <div class="video-meta-item">
-                                    <span style="color: #9ca3af;">👁️ 9K</span>
+                                    <span style="color: #9ca3af;">👁️ 60K</span>
                                 </div>
                                 
                                 <div class="video-meta-item">
-                                    <span style="color: #9ca3af;">👍 161</span>
+                                    <span style="color: #9ca3af;">👍 532</span>
                                 </div>
                                 
                                 
                                 <div class="video-meta-item">
-                                    <span style="color: #9ca3af;">💬 1</span>
+                                    <span style="color: #9ca3af;">💬 315</span>
                                 </div>
                                 
                             </div>
@@ -2094,7 +2222,7 @@
                             <div class="video-meta-line">
                                 
                                 <div class="video-meta-item">
-                                    <span data-timestamp="1769794957.0"></span>
+                                    <span data-timestamp="1769671298.0"></span>
                                 </div>
                                 
                             </div>
@@ -2102,24 +2230,24 @@
                     </div>
                 </div>
                 
-                <div class="carousel-card" onclick="window.open('https://www.youtube.com/watch?v=6BJ0XbXOJcs', '_blank')">
+                <div class="carousel-card" onclick="window.open('https://www.youtube.com/watch?v=FaL-UbIZFmM', '_blank')">
                     <!-- Video thumbnail (16:9 with play button overlay and duration badge) -->
-                    <div class="video-thumbnail" style="background-image: url('https://i.ytimg.com/vi/6BJ0XbXOJcs/hqdefault.jpg');">
+                    <div class="video-thumbnail" style="background-image: url('https://i.ytimg.com/vi/FaL-UbIZFmM/hqdefault.jpg');">
                         
-                        <span class="duration-badge">2:59</span>
+                        <span class="duration-badge">9:38</span>
                         
                     </div>
 
                     <div class="video-content">
                         <!-- Video title (fixed 2-line height) -->
                         <div class="video-title">
-                            <a href="https://www.youtube.com/watch?v=6BJ0XbXOJcs" target="_blank" onclick="event.stopPropagation();">Humanoid Robots Are Coming. They Could Wipe Out This Entire Town</a>
+                            <a href="https://www.youtube.com/watch?v=FaL-UbIZFmM" target="_blank" onclick="event.stopPropagation();">Humanoid Robots Lumi and Luna A5 at 1000 Subscriber Celebration | Future Robot Lab</a>
                         </div>
 
                         <!-- Video description (if available) -->
                         
                         <div class="video-description">
-                            Hyundai is planning to place 30000 humanoid robots in its factories. We talked to an anonymous Hyundai worker who says his ...
+                            We are honored to celebrate an important milestone at Future Robot Lab. This video captures the special moment when ...
                         </div>
                         
 
@@ -2130,135 +2258,9 @@
                                 
                                 <div class="video-meta-item video-channel">
                                     
-                                    <img src="https://yt3.ggpht.com/hGsdBx8itb7mecLEEncPpEZKU6XNA4zi39Gd0CLrEK3Q6k3x66zN2SJvmPSwe5JLTJX0Z7aCKQ=s88-c-k-c0x00ffffff-no-rj" alt="More Perfect Union" class="channel-avatar">
+                                    <img src="https://yt3.ggpht.com/z01jdNoKMMgbTasd8Lv_R6Tmy-tf0W-5-Zmqu2Df__9D_YUaWpkPSLE37CsFaqQWIfZStsk48GY=s88-c-k-c0x00ffffff-no-rj" alt="Future Robot Lab" class="channel-avatar">
                                     
-                                    <a href="https://www.youtube.com/channel/UCehBVAPy-bxmnbNARF-_tvA" target="_blank" onclick="event.stopPropagation();">More Perfect Union</a>
-                                </div>
-                                
-                            </div>
-
-                            <!-- Engagement stats (views, likes, comments) -->
-                            
-                            <div class="video-meta-line">
-                                <div class="video-meta-item">
-                                    <span style="color: #9ca3af;">👁️ 190K</span>
-                                </div>
-                                
-                                <div class="video-meta-item">
-                                    <span style="color: #9ca3af;">👍 16K</span>
-                                </div>
-                                
-                                
-                                <div class="video-meta-item">
-                                    <span style="color: #9ca3af;">💬 2K</span>
-                                </div>
-                                
-                            </div>
-                            
-
-                            <!-- Published date -->
-                            <div class="video-meta-line">
-                                
-                                <div class="video-meta-item">
-                                    <span data-timestamp="1769534443.0"></span>
-                                </div>
-                                
-                            </div>
-                        </div>
-                    </div>
-                </div>
-                
-                <div class="carousel-card" onclick="window.open('https://www.youtube.com/watch?v=dm57WnYor00', '_blank')">
-                    <!-- Video thumbnail (16:9 with play button overlay and duration badge) -->
-                    <div class="video-thumbnail" style="background-image: url('https://i.ytimg.com/vi/dm57WnYor00/hqdefault_live.jpg');">
-                        
-                    </div>
-
-                    <div class="video-content">
-                        <!-- Video title (fixed 2-line height) -->
-                        <div class="video-title">
-                            <a href="https://www.youtube.com/watch?v=dm57WnYor00" target="_blank" onclick="event.stopPropagation();">Pacman Universe – Advanced Robotic Character Animation | StrEat</a>
-                        </div>
-
-                        <!-- Video description (if available) -->
-                        
-                        <div class="video-description">
-                            Pacman Universe – Advanced Robotic Character Animation | StrEat Pacman Universe presents a new futuristic 3D animation.
-                        </div>
-                        
-
-                        <!-- Metadata (channel, engagement stats, publish date) -->
-                        <div class="video-meta">
-                            <!-- Channel name with avatar -->
-                            <div class="video-meta-line">
-                                
-                                <div class="video-meta-item video-channel">
-                                    
-                                    <img src="https://yt3.ggpht.com/ntBbQE0naZ-ReImURaiZWc3MtX7pbrAn_DJRhNf1tylshwb-7JLJyY3ZKoJ0nTB0WiuGnvUN2Q=s88-c-k-c0x00ffffff-no-rj" alt="StrEat" class="channel-avatar">
-                                    
-                                    <a href="https://www.youtube.com/channel/UCLnwt41S7tufo-I-7PHfw3g" target="_blank" onclick="event.stopPropagation();">StrEat</a>
-                                </div>
-                                
-                            </div>
-
-                            <!-- Engagement stats (views, likes, comments) -->
-                            
-                            <div class="video-meta-line">
-                                <div class="video-meta-item">
-                                    <span style="color: #9ca3af;">👁️ 275K</span>
-                                </div>
-                                
-                                <div class="video-meta-item">
-                                    <span style="color: #9ca3af;">👍 553</span>
-                                </div>
-                                
-                                
-                            </div>
-                            
-
-                            <!-- Published date -->
-                            <div class="video-meta-line">
-                                
-                                <div class="video-meta-item">
-                                    <span data-timestamp="1769529782.0"></span>
-                                </div>
-                                
-                            </div>
-                        </div>
-                    </div>
-                </div>
-                
-                <div class="carousel-card" onclick="window.open('https://www.youtube.com/watch?v=U7tlOl7s3ns', '_blank')">
-                    <!-- Video thumbnail (16:9 with play button overlay and duration badge) -->
-                    <div class="video-thumbnail" style="background-image: url('https://i.ytimg.com/vi/U7tlOl7s3ns/hqdefault.jpg');">
-                        
-                        <span class="duration-badge">0:19</span>
-                        
-                    </div>
-
-                    <div class="video-content">
-                        <!-- Video title (fixed 2-line height) -->
-                        <div class="video-title">
-                            <a href="https://www.youtube.com/watch?v=U7tlOl7s3ns" target="_blank" onclick="event.stopPropagation();">Why AI Pizza Machines Are Actually Worrying Workers 🍕</a>
-                        </div>
-
-                        <!-- Video description (if available) -->
-                        
-                        <div class="video-description">
-                            Some people are getting concerned because automatic AI pizza-making machines are slowly appearing on streets worldwide.
-                        </div>
-                        
-
-                        <!-- Metadata (channel, engagement stats, publish date) -->
-                        <div class="video-meta">
-                            <!-- Channel name with avatar -->
-                            <div class="video-meta-line">
-                                
-                                <div class="video-meta-item video-channel">
-                                    
-                                    <img src="https://yt3.ggpht.com/3pegVSGC3Vg5bZqC3GU_ghNkj4wbmOqihwY-K5Prz_Dd1fOmDX8UaxpUDv_u0ik7Jga1TlU-wQ=s88-c-k-c0x00ffffff-no-rj" alt="Taylor Jollie" class="channel-avatar">
-                                    
-                                    <a href="https://www.youtube.com/channel/UCSgME6qNjUmX_bvUZ_2IObQ" target="_blank" onclick="event.stopPropagation();">Taylor Jollie</a>
+                                    <a href="https://www.youtube.com/channel/UCIJqj7dzNqcKClW0HfYI1aQ" target="_blank" onclick="event.stopPropagation();">Future Robot Lab</a>
                                 </div>
                                 
                             </div>
@@ -2271,12 +2273,12 @@
                                 </div>
                                 
                                 <div class="video-meta-item">
-                                    <span style="color: #9ca3af;">👍 115</span>
+                                    <span style="color: #9ca3af;">👍 254</span>
                                 </div>
                                 
                                 
                                 <div class="video-meta-item">
-                                    <span style="color: #9ca3af;">💬 12</span>
+                                    <span style="color: #9ca3af;">💬 41</span>
                                 </div>
                                 
                             </div>
@@ -2286,7 +2288,7 @@
                             <div class="video-meta-line">
                                 
                                 <div class="video-meta-item">
-                                    <span data-timestamp="1769707813.0"></span>
+                                    <span data-timestamp="1769432766.0"></span>
                                 </div>
                                 
                             </div>
@@ -2294,24 +2296,24 @@
                     </div>
                 </div>
                 
-                <div class="carousel-card" onclick="window.open('https://www.youtube.com/watch?v=bAYIW1aQ_c8', '_blank')">
+                <div class="carousel-card" onclick="window.open('https://www.youtube.com/watch?v=haGH86W_f5A', '_blank')">
                     <!-- Video thumbnail (16:9 with play button overlay and duration badge) -->
-                    <div class="video-thumbnail" style="background-image: url('https://i.ytimg.com/vi/bAYIW1aQ_c8/hqdefault.jpg');">
+                    <div class="video-thumbnail" style="background-image: url('https://i.ytimg.com/vi/haGH86W_f5A/hqdefault.jpg');">
                         
-                        <span class="duration-badge">0:23</span>
+                        <span class="duration-badge">0:07</span>
                         
                     </div>
 
                     <div class="video-content">
                         <!-- Video title (fixed 2-line height) -->
                         <div class="video-title">
-                            <a href="https://www.youtube.com/watch?v=bAYIW1aQ_c8" target="_blank" onclick="event.stopPropagation();">Keep watching the robots</a>
+                            <a href="https://www.youtube.com/watch?v=haGH86W_f5A" target="_blank" onclick="event.stopPropagation();">Robot That Grows Through Rubble To Find Survivors 🤖 #rescue #robotics #shorts</a>
                         </div>
 
                         <!-- Video description (if available) -->
                         
                         <div class="video-description">
-                            Keep watching the robots—because every day brings breakthrough moments that redefine what machines can do and what our ...
+                            The Growing Robot That Enters Collapsed Buildings Before Humans Do When disaster strikes and buildings collapse, reaching ...
                         </div>
                         
 
@@ -2322,9 +2324,9 @@
                                 
                                 <div class="video-meta-item video-channel">
                                     
-                                    <img src="https://yt3.ggpht.com/3vNFfQA1glLu2NXyRA-rLam-9C7XxNHxSOERoh4L8vsdM2LvezMro9td0P4gY3D16dtDNPvFDQ=s88-c-k-c0x00ffffff-no-rj" alt="Dark Waters" class="channel-avatar">
+                                    <img src="https://yt3.ggpht.com/Gd1klnqhdbakn8EBjjJ3atJRkEWrhLEXpvD5AJvb0FDSwwH2ZGg2mISR3p6XzhIE18DPjYzs2Q=s88-c-k-c0x00ffffff-no-rj" alt="EcoZora" class="channel-avatar">
                                     
-                                    <a href="https://www.youtube.com/channel/UCCvf4eUxzb8JdgnRPGi1lKA" target="_blank" onclick="event.stopPropagation();">Dark Waters</a>
+                                    <a href="https://www.youtube.com/channel/UCahjwhiaXb4IwtGWFFR64hA" target="_blank" onclick="event.stopPropagation();">EcoZora</a>
                                 </div>
                                 
                             </div>
@@ -2333,16 +2335,16 @@
                             
                             <div class="video-meta-line">
                                 <div class="video-meta-item">
-                                    <span style="color: #9ca3af;">👁️ 249K</span>
+                                    <span style="color: #9ca3af;">👁️ 365K</span>
                                 </div>
                                 
                                 <div class="video-meta-item">
-                                    <span style="color: #9ca3af;">👍 5K</span>
+                                    <span style="color: #9ca3af;">👍 2K</span>
                                 </div>
                                 
                                 
                                 <div class="video-meta-item">
-                                    <span style="color: #9ca3af;">💬 572</span>
+                                    <span style="color: #9ca3af;">💬 152</span>
                                 </div>
                                 
                             </div>
@@ -2352,7 +2354,7 @@
                             <div class="video-meta-line">
                                 
                                 <div class="video-meta-item">
-                                    <span data-timestamp="1769745636.0"></span>
+                                    <span data-timestamp="1769418973.0"></span>
                                 </div>
                                 
                             </div>
@@ -2360,21 +2362,25 @@
                     </div>
                 </div>
                 
-                <div class="carousel-card" onclick="window.open('https://www.youtube.com/watch?v=4mNYTnM826k', '_blank')">
+                <div class="carousel-card" onclick="window.open('https://www.youtube.com/watch?v=B78RNAlYXLA', '_blank')">
                     <!-- Video thumbnail (16:9 with play button overlay and duration badge) -->
-                    <div class="video-thumbnail" style="background-image: url('https://i.ytimg.com/vi/4mNYTnM826k/hqdefault.jpg');">
+                    <div class="video-thumbnail" style="background-image: url('https://i.ytimg.com/vi/B78RNAlYXLA/hqdefault.jpg');">
                         
-                        <span class="duration-badge">0:22</span>
+                        <span class="duration-badge">12:20</span>
                         
                     </div>
 
                     <div class="video-content">
                         <!-- Video title (fixed 2-line height) -->
                         <div class="video-title">
-                            <a href="https://www.youtube.com/watch?v=4mNYTnM826k" target="_blank" onclick="event.stopPropagation();">This robot hand is better than a human one</a>
+                            <a href="https://www.youtube.com/watch?v=B78RNAlYXLA" target="_blank" onclick="event.stopPropagation();">Tesla CEO Elon Musk doubles down on robots</a>
                         </div>
 
                         <!-- Video description (if available) -->
+                        
+                        <div class="video-description">
+                            Tesla's fourth quarter earnings topped analyst estimates. CEO Elon Musk is betting big on robotics and AI with plans to spend $20 ...
+                        </div>
                         
 
                         <!-- Metadata (channel, engagement stats, publish date) -->
@@ -2384,9 +2390,9 @@
                                 
                                 <div class="video-meta-item video-channel">
                                     
-                                    <img src="https://yt3.ggpht.com/g8YBjU-B2102VJd889iLtFojx2jet7JsLTpyeBTJwRNMFsOmDVtQLs6fQKsWjhZHmj3xZI3U3A=s88-c-k-c0x00ffffff-no-rj" alt="QCT" class="channel-avatar">
+                                    <img src="https://yt3.ggpht.com/F6vlBgBNGu4iFIdlZJFf_cVrSFqKTm8cvh4FpO4G4z_KH17DY55QQr4ux6umZVzdCPz_qc3A=s88-c-k-c0x00ffffff-no-rj" alt="Yahoo Finance" class="channel-avatar">
                                     
-                                    <a href="https://www.youtube.com/channel/UCkRvlbw8ORh0Nb2k3_avz7Q" target="_blank" onclick="event.stopPropagation();">QCT</a>
+                                    <a href="https://www.youtube.com/channel/UCEAZeUIeJs0IjQiqTCdVSIg" target="_blank" onclick="event.stopPropagation();">Yahoo Finance</a>
                                 </div>
                                 
                             </div>
@@ -2395,16 +2401,16 @@
                             
                             <div class="video-meta-line">
                                 <div class="video-meta-item">
-                                    <span style="color: #9ca3af;">👁️ 9K</span>
+                                    <span style="color: #9ca3af;">👁️ 13K</span>
                                 </div>
                                 
                                 <div class="video-meta-item">
-                                    <span style="color: #9ca3af;">👍 96</span>
+                                    <span style="color: #9ca3af;">👍 170</span>
                                 </div>
                                 
                                 
                                 <div class="video-meta-item">
-                                    <span style="color: #9ca3af;">💬 9</span>
+                                    <span style="color: #9ca3af;">💬 42</span>
                                 </div>
                                 
                             </div>
@@ -2414,7 +2420,7 @@
                             <div class="video-meta-line">
                                 
                                 <div class="video-meta-item">
-                                    <span data-timestamp="1769733340.0"></span>
+                                    <span data-timestamp="1769729572.0"></span>
                                 </div>
                                 
                             </div>
@@ -2442,7 +2448,7 @@
 
     </div>
     <div class="widget-footer">
-        <small data-timestamp="2026-01-31T16:29:45.060953+00:00">Updated 2026-01-31T16:29:45.060953+00:00</small>
+        <small data-timestamp="2026-01-31T18:34:41.922925+00:00">Updated 2026-01-31T18:34:41.922925+00:00</small>
     </div>
 </div>
 

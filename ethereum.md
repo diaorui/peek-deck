@@ -3,14 +3,14 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-01-31T17:51:03.813949+00:00'
+updated: '2026-01-31T18:35:01.717638+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
 - videos
-- news
 - social
+- news
 - cryptocurrency
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** January 31, 2026 at 17:51 UTC  
+**Last Updated:** January 31, 2026 at 18:35 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -36,33 +36,33 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Price
 
-### $2,483.19
+### $2,408.36
 
 ---
 
 ## Ethereum Chart
 
-**24h:** -8.5%  
-**7d:** -11.8%  
-**30d:** -20.4%  
-**90d:** -30.9%  
-**1y:** -20.2%  
+**24h:** -13.1%  
+**7d:** -15.2%  
+**30d:** -23.4%  
+**90d:** -33.5%  
+**1y:** -23.3%  
 
 ---
 
 ## Ethereum Market Stats
 
-**Market Cap:** $305.45B
+**Market Cap:** $289.41B
 Rank #2
 
 **Circulating Supply:** 120,694,153 ETH
 No max supply
 
 **All-Time High:** $4,946.05
--48.9%
+-51.7%
 
 **All-Time Low:** $0.43
-+583641.9%
++552132.3%
 
 ---
 
@@ -72,13 +72,7 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-11h ago
-
----
-
-**[Listening to Polymarket trades in real-time (open source, no third party)](https://www.reddit.com/r/ethereum/comments/1qs3l8c/listening_to_polymarket_trades_in_realtime_open/)**
-
-3h ago
+12h ago
 
 ---
 
@@ -86,7 +80,13 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 World News, Stories By EtherWorld, Technical Explainers, Client News & Updates, Podcasts, Upcoming Events & Jobs
 
-🔗 [EtherWorld.co](https://etherworld.co/etherworld-weekly-edition-349/) • 3h ago
+🔗 [EtherWorld.co](https://etherworld.co/etherworld-weekly-edition-349/) • 4h ago
+
+---
+
+**[Listening to Polymarket trades in real-time (open source, no third party)](https://www.reddit.com/r/ethereum/comments/1qs3l8c/listening_to_polymarket_trades_in_realtime_open/)**
+
+4h ago
 
 ---
 
@@ -98,19 +98,19 @@ In these five years, the Ethereum Foundation is entering a period of mild auster
 
 ---
 
-**[Daily General Discussion January 30, 2026](https://www.reddit.com/r/ethereum/comments/1qqxc92/daily_general_discussion_january_30_2026/)**
-
-Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
-
-1d ago
-
----
-
 **[Major developments for ETH](https://www.reddit.com/r/ethereum/comments/1qrhhyb/major_developments_for_eth/)**
 
 It was some time ago that ETH went from proof of work to proof of stake. At the time Vitalik said that there were other changes coming such as faster transaction or lower transaction cost. I have not heard any more since then? Is there any progress?
 
 21h ago
+
+---
+
+**[Daily General Discussion January 30, 2026](https://www.reddit.com/r/ethereum/comments/1qqxc92/daily_general_discussion_january_30_2026/)**
+
+Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
+
+1d ago
 
 ---
 
@@ -126,7 +126,7 @@ Hello Folks, I just published a smart contract to handle crypto inheritance 100%
 
 Watch before one bug costs you everything. https://x.com/SolidityScan/status/2017172006056390715?s=20
 
-10h ago
+11h ago
 
 ---
 
@@ -134,7 +134,7 @@ Watch before one bug costs you everything. https://x.com/SolidityScan/status/201
 
 The Doots live stream is all about showcasing the best of the week from the Daily General Discussion from the r/ethereum Community on Reddit! Today we talked to Mac Budkowski from macbudkowski.com. He's made the "No BS Crypto GTM guide." Dig into what he has learned about timing, messaging, and why best isn't always good. Host: JT Technical Host: LogrisTheBard https://dailydoots.com by Hanniabu Daily Doots Curator: Tricky_Troll Weekly Doots Curator: The-A-Word Farcaster and Backend Host Support: Ben Broad Media Content Support: Twelve Meatballs Discord Bouncer and Watchdog: Treebeard As always, if you know someone who wants a piece of this action, send em our way. Buy us a ☕ dailydoots.eth All of our channels can be found here: https://dailydoots.com/podcast/ 🕸️https://dailydoots.com 📢https://discord.gg/EVMavericks 📰https://reddit.com/r/ethereum 🔊MINTABLE Podcast 👉: https://pods.media/evmavericks 🍎Apple https://podcasts.apple.com/us/podcast/ethfinance-evmavericks-daily-doots-livestream/id1750089604 🔊Spotify https://open.spotify.com/show/7AotdyMtcvHZLv3pVqkxre 🦁https://x.com/EVMavericks ⏱️TikTok: https://www.tiktok.com/@evmavericks 📺https://www.youtube.com/channel/UC51nlNbIkBm5Qhm7EwQuWLw Twitch: https://www.twitch.tv/evmavericks LinkedIN: https://www.linkedin.com/company/evmavericks-daily-doots-podcast
 
-🔗 [youtu.be](https://youtu.be/lDG5GrjKgew) • 19h ago
+🔗 [youtu.be](https://youtu.be/lDG5GrjKgew) • 20h ago
 
 ---
 
@@ -150,6 +150,20 @@ Fidelity Investments FIDD stablecoin, TheDAO Security Fund, Hegotá upgrade head
 
 ## Google News: "ethereum"
 
+**[Bitcoin, XRP, Ethereum Fall on News of Kevin Warsh Fed Appointment.](https://www.barrons.com/articles/bitcoin-xrp-ethereum-crypto-today-954298d9?gaa_at=eafs&gaa_n=AWEtsqdNptqx3-Vvp34a7vb2Stx94cTR5ZI_oUR02lzdrPlPvrgTvaiSni2U&gaa_ts=697e4ebd&gaa_sig=gWc8LdLVJKP9q9hXVUcKfdh-Pod4Qoh5gy6NtUklVGFYRChGskySoySvslid4nxkFrkcJJQRFcRNxJHxGtglUA%3D%3D)**
+
+Barron's • 1d ago
+
+---
+
+**[Vitalik Buterin to spend $43 million on Ethereum development](https://www.coindesk.com/business/2026/01/30/vitalik-buterin-withdraws-usd17-million-in-eth-as-ethereum-foundation-enters-mild-austerity)**
+
+Ethereum’s co-founder said the $43 million withdrawal will support a broader “full-stack openness and verifiability” vision as the foundation tightens spending.
+
+CoinDesk • 1d ago
+
+---
+
 **[Vitalik Buterin Withdraws $44.7M in ETH to Support Ethereum Growth Through ‘Mild Austerity’](https://decrypt.co/356490/vitalik-buterin-withdraws-44-7m-in-eth-to-support-ethereum-growth-through-mild-austerity)**
 
 The Ethereum co-founder wants to pursue an “aggressive” roadmap that will strengthen its status as a decentralized world computer.
@@ -158,25 +172,11 @@ Decrypt • 1d ago
 
 ---
 
-**[Bitcoin, XRP, Ethereum Fall on News of Kevin Warsh Fed Appointment.](https://www.barrons.com/articles/bitcoin-xrp-ethereum-crypto-today-954298d9?gaa_at=eafs&gaa_n=AWEtsqembhO-XoCCN2Wg5U5UyzhVGQxla3o93T00WaX0dQGFBunAPAAhcQqH&gaa_ts=697e37df&gaa_sig=0rLJAckPd32MBOTUAYS425jpw1N7jHOAql7pL2yaUGjqmUYFXT1hAS_GujCRiv4SGgun0BS0PYixr0gqnxfKpg%3D%3D)**
+**[Vitalik Buterin Withdraws 16,384 ETH as Ethereum Foundation Enters ‘Austerity Phase’ — What For?](https://www.tradingview.com/news/cryptonews:c7dddcebf094b:0-vitalik-buterin-withdraws-16-384-eth-as-ethereum-foundation-enters-austerity-phase-what-for/)**
 
-Barron's • 23h ago
-
----
-
-**[Why Are Bitcoin, Ethereum and XRP Prices Crashing Today? Fed Uncertainty Sparks Crypto Selloff](https://www.tradingview.com/news/coinpedia:84570eaf5094b:0-why-are-bitcoin-ethereum-and-xrp-prices-crashing-today-fed-uncertainty-sparks-crypto-selloff/)**
-
-The broader crypto market is under heavy pressure today, with Bitcoin, Ethereum, and XRP posting sharp losses as a broad selloff sweeps across digital assets. Bitcoin has fallen nearly 6%, while Ethereum and XRP are down close to 7%, marking one of the most aggressive downside moves in recent weeks…
+Ethereum co-founder Vitalik Buterin has withdrawn 16,384 ETH, worth roughly $44.5 million at current prices, as the Ethereum Foundation enters what he described as a period of “mild austerity.”In a post on X, Buterin said the Ethereum Foundation is adjusting its spending approach to meet two parall…
 
 TradingView • 1d ago
-
----
-
-**[Bitcoin, Ethereum, XRP, Dogecoin Tank Amid Tech Rout; Gold Also Cools: Analyst Flags Key BTC Support, Resistance Levels](https://www.benzinga.com/crypto/cryptocurrency/26/01/50255079/bitcoin-ethereum-xrp-dogecoin-tank-amid-tech-rout-gold-also-cools-analyst-flags-key-btc-support-resistance-levels)**
-
-Leading cryptocurrencies plunged alongside stocks on Thursday, as a tech-driven sell-off sent risk-on markets into a tailspin.
-
-Benzinga • 1d ago
 
 ---
 
@@ -184,7 +184,7 @@ Benzinga • 1d ago
 
 Four major AI models have projected 2026 price targets for Ethereum (CRYPTO: ETH), Solana (CRYPTO: SOL), and XRP (CRYPTO: XRP). The forecasts range from conservative consolidation to triple-digit percentage gains, with each asset showing different upside potential based on adoption trends, network activity, and market positioning. Ethereum anchors institutional DeFi with mature Layer 2 networks, ... AI Models Predict Ethereum, Solana, and XRP 2026 Prices—Which Altcoin Has the Biggest Upside?
 
-Yahoo Finance • 22h ago
+Yahoo Finance • 23h ago
 
 ---
 
@@ -208,7 +208,7 @@ CoinDesk • 1d ago
 
 Banks at Davos are done watching from the sidelines. At this year’s World Economic Forum, major financial institutions said they need crypto infrastructure to stay competitive.A recent Altcoin Buzz video broke down three signals pointing to a potential crypto rally. “The biggest banks in the world…
 
-TradingView • 8h ago
+TradingView • 9h ago
 
 ---
 
@@ -220,11 +220,11 @@ The Block • 1d ago
 
 ---
 
-**[Better Crypto Buy: Bitcoin vs. Ethereum](https://www.fool.com/investing/2026/01/30/better-crypto-buy-bitcoin-vs-ethereum/)**
+**[Ethereum Falls 10% In Selloff](https://www.investing.com/news/cryptocurrency-news/ethereum-falls-10-in-selloff-4477658)**
 
-For crypto investors, it's time to buy the dip on Bitcoin again.
+Ethereum Falls 10% In Selloff
 
-The Motley Fool • 1d ago
+Investing.com • 1h ago
 
 ---
 
@@ -232,33 +232,23 @@ The Motley Fool • 1d ago
 
 ## YouTube Videos: "ethereum"
 
-**[Ethereum Elliott Wave Update – Key Resistance Levels Ahead](https://www.youtube.com/watch?v=soWYVsa4xZc)**
-
-This video provides a professional Elliott Wave and technical analysis of Ethereum (ETH), focusing on market structure, major ...
-
-📺 More Crypto Online
-
-👁️ 764 • 👍 73 • 💬 8 • ⏱️ 4:18 • 3h ago
-
----
-
 **[When Will Stop The Crash? 💀 ETH Crypto Token Analysis](https://www.youtube.com/watch?v=LUAphGQ2Yls)**
 
 Join Premium: https://the-bitcoin-strategy.com My Chart Software: https://the-bitcoin-strategy.com/tradingview My Hardware Wallet: ...
 
 📺 Gerhard - Bitcoin Strategy
 
-👁️ 3K • 👍 108 • 💬 40 • ⏱️ 7:13 • 8h ago
+👁️ 4K • 👍 121 • 💬 48 • ⏱️ 7:13 • 9h ago
 
 ---
 
-**[ETHEREUM DUMP UPDATE🚨 (Ethereum Price Prediction 2026)](https://www.youtube.com/watch?v=zsuQzm_EUqc)**
+**[Ethereum Elliott Wave Update – Key Resistance Levels Ahead](https://www.youtube.com/watch?v=soWYVsa4xZc)**
 
-ETHEREUM ETH PRICE PREDICTION 2026 Join the Premium Signal Group for trade setups, mentorship & a community ...
+This video provides a professional Elliott Wave and technical analysis of Ethereum (ETH), focusing on market structure, major ...
 
-📺 Cilinix Crypto
+📺 More Crypto Online
 
-👁️ 426 • 👍 16 • 💬 3 • ⏱️ 4:35 • 7h ago
+👁️ 2K • 👍 124 • 💬 8 • ⏱️ 4:18 • 4h ago
 
 ---
 
@@ -268,7 +258,27 @@ My FREE Daily On-Chain Analysis & Crypto News In 5-Mins: https://www.cryptonutsh
 
 📺 Jamie Tree 
 
-👁️ 266 • 👍 15 • 💬 21 • ⏱️ 18:25 • 2h ago
+👁️ 596 • 👍 34 • 💬 132 • ⏱️ 18:25 • 3h ago
+
+---
+
+**[Cathie Wood: “This Is WHEN The 2026 Bull Run Starts” [New Bitcoin &amp; Ethereum Prediction 2026]](https://www.youtube.com/watch?v=xsRdyWYOUJA)**
+
+Join UpTrade today - Your personal crypto broker: https://www.uptrade.au/ My FREE Daily 5-Min Crypto Newsletter: ...
+
+📺 Crypto Nutshell
+
+👁️ 3K • 👍 202 • 💬 70 • ⏱️ 16:36 • 3h ago
+
+---
+
+**[ETHEREUM DUMP UPDATE🚨 (Ethereum Price Prediction 2026)](https://www.youtube.com/watch?v=zsuQzm_EUqc)**
+
+ETHEREUM ETH PRICE PREDICTION 2026 Join the Premium Signal Group for trade setups, mentorship & a community ...
+
+📺 Cilinix Crypto
+
+👁️ 642 • 👍 17 • 💬 8 • ⏱️ 4:35 • 8h ago
 
 ---
 
@@ -278,47 +288,7 @@ This video provides a professional Elliott Wave and technical analysis of Ethere
 
 📺 More Crypto Online
 
-👁️ 2K • 👍 128 • 💬 5 • ⏱️ 4:29 • 13h ago
-
----
-
-**[LIVE: Trump Announces Important News About Crypto! This Speech Will Change the Crypto Industry](https://www.youtube.com/watch?v=dpQMip2PHwk)**
-
-TrumpCrypto2026 #DigitalAssets #TrumpAnnouncement Welcome to the Trump Crypto Forum 2026 — streaming LIVE from ...
-
-📺 Sportfm
-
-👁️ 11K • 👍 911 • 17h ago
-
----
-
-**[BITCOIN &amp; ALTCOIN CRASH: EMERGENCY UPDATE (New Trade)!!! - Bitcoin News Today, Ethereum &amp; Altcoins](https://www.youtube.com/watch?v=_kPvKrJSvxo)**
-
-BITCOIN & ALTCOIN CRASH: EMERGENCY UPDATE (New Trade)!!! - Bitcoin News Today, Ethereum & Altcoins *Toobit* ...
-
-📺 Crypto World
-
-👁️ 9K • 👍 319 • 💬 80 • ⏱️ 22:15 • 23h ago
-
----
-
-**[WHY Cardano and Ethereum crypto coins are about to EXPLODE!!](https://www.youtube.com/watch?v=rFHVIvMYiiQ)**
-
-Cardano and Ethereum holders... GET READY!! ✓ Bitunix (no kyc, $10000 bonus): https://www.bitunix.com/register?
-
-📺 Altcoin Daily
-
-👁️ 48K • 👍 3K • 💬 288 • ⏱️ 8:35 • 2d ago
-
----
-
-**[Mathematician Fred Krueger: The Crypto Price Predictions Are UNBELIEVABLE Now](https://www.youtube.com/watch?v=A5PJS1pcUJo)**
-
-Watch The FULL Interview: "Explosive Crypto Price Prediction for 2026..." FREE Daily On-Chain Analysis & Crypto News In ...
-
-📺 Library Of Wealth
-
-👁️ 12K • 👍 480 • 💬 320 • ⏱️ 14:36 • 1d ago
+👁️ 2K • 👍 130 • 💬 5 • ⏱️ 4:29 • 14h ago
 
 ---
 
@@ -328,7 +298,37 @@ how to buy PulseChain coins? https://libertyswap.finance buy with card: https://
 
 📺 Crypto Coffee
 
-👁️ 561 • 👍 32 • 💬 13 • ⏱️ 1:07 • 5h ago
+👁️ 879 • 👍 42 • 💬 20 • ⏱️ 1:07 • 6h ago
+
+---
+
+**[Mathematician Fred Krueger: The Crypto Price Predictions Are UNBELIEVABLE Now](https://www.youtube.com/watch?v=A5PJS1pcUJo)**
+
+Watch The FULL Interview: "Explosive Crypto Price Prediction for 2026..." FREE Daily On-Chain Analysis & Crypto News In ...
+
+📺 Library Of Wealth
+
+👁️ 12K • 👍 482 • 💬 319 • ⏱️ 14:36 • 1d ago
+
+---
+
+**[¿Y si Ethereum llega a cero? [La aterradora verdad]](https://www.youtube.com/watch?v=2Ftcs35-9Z0)**
+
+Todo el mundo sabe que Ethereum es la segunda criptomoneda más grande del planeta. Sus sólidos contratos inteligentes y su ...
+
+📺 Coin Bureau Español
+
+👁️ 765 • 👍 116 • 💬 16 • ⏱️ 21:54 • 1h ago
+
+---
+
+**[🚨 BTC &amp; ETH: SELL ALL BITCOIN AND QUIT CRYPTO!!!!!!!!!](https://www.youtube.com/watch?v=Js9TFiiwSBk)**
+
+The situation is getting worse and worse for crypto. Here are facts and my take on whether its time to sell all bitcoin and just quit!
+
+📺 Thomas Kralow
+
+👁️ 57K • 👍 3K • 💬 174 • ⏱️ 13:43 • 2d ago
 
 ---
 

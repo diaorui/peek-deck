@@ -3,14 +3,14 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-01-31T17:51:03.807802+00:00'
+updated: '2026-01-31T18:35:01.711722+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
 - videos
-- news
 - social
+- news
 - cryptocurrency
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** January 31, 2026 at 17:51 UTC  
+**Last Updated:** January 31, 2026 at 18:35 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,33 +38,33 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $80,181.58
+### $78,041.30
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** -3.4%  
-**7d:** -7.5%  
-**30d:** -10.8%  
-**90d:** -24.6%  
-**1y:** -20.3%  
+**24h:** -7.1%  
+**7d:** -9.5%  
+**30d:** -12.8%  
+**90d:** -26.3%  
+**1y:** -22.1%  
 
 ---
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1625.61B
+**Market Cap:** $1566.53B
 Rank #1
 
 **Circulating Supply:** 19,982,656 BTC
 95.2% of max
 
 **All-Time High:** $126,080.00
--35.6%
+-37.9%
 
 **All-Time Low:** $67.81
-+119636.0%
++115394.8%
 
 ---
 
@@ -77,25 +77,17 @@ Rank #1
 
 ## Reddit: r/Bitcoin
 
+**[Stack those cheap sats!!!](https://www.reddit.com/r/Bitcoin/comments/1qs8tbw/stack_those_cheap_sats/)**
+
+I'm not wasting these cheap stacks. HODL and BUY!
+
+52m ago
+
+---
+
 **[Evergreen just like BTC!](https://www.reddit.com/r/Bitcoin/comments/1qs6sj1/evergreen_just_like_btc/)**
 
-1h ago
-
----
-
-**[Sold some bitcoin to get dinner 😃($25 @$83k)](https://www.reddit.com/r/Bitcoin/comments/1qro4xf/sold_some_bitcoin_to_get_dinner_25_83k/)**
-
-Watching good will hunting tonight
-
-16h ago
-
----
-
-**[Bitcoin](https://www.reddit.com/r/Bitcoin/comments/1qs3bsm/bitcoin/)**
-
-I'm scared, not because I don't trust Bitcoin, but because I used my BTC and altcoins to back up a loan, which I used to buy more Bitcoin and altcoins. The problem is, I had my entire altcoin portfolio on Binance, and I liquidated it on October 10th. Now I only have BTC left, and if it drops below 80, I'll be wiped out. All my effort and sacrifice of six years will have been for nothing. I know many will say it's wrong and that I was greedy, but I'm someone who has worked hard for as long as I can remember. When I reached adulthood, I got fed up with that life. Now I don't know what to do, but I don't have the strength to continue. I know Bitcoin is the future, but I no longer see a good future for myself, and I don't have the strength to start from scratch.
-
-3h ago
+2h ago
 
 ---
 
@@ -103,13 +95,29 @@ I'm scared, not because I don't trust Bitcoin, but because I used my BTC and alt
 
 The world is going through some shit right now...but just know that eventually, everything's going to be ok. The aftermath might be a little hard to stomach, but we'll get through it. In the meantime...don't miss the chance to stack sats at every drop. You never know which one will be the bottom, but buy a bit at every new low and thank me later.
 
-2h ago
+3h ago
 
 ---
 
-**[Buying the dip.](https://www.reddit.com/r/Bitcoin/comments/1qrkz13/buying_the_dip/)**
+**[Bitcoin](https://www.reddit.com/r/Bitcoin/comments/1qs3bsm/bitcoin/)**
 
-18h ago
+I'm scared, not because I don't trust Bitcoin, but because I used my BTC and altcoins to back up a loan, which I used to buy more Bitcoin and altcoins. The problem is, I had my entire altcoin portfolio on Binance, and I liquidated it on October 10th. Now I only have BTC left, and if it drops below 80, I'll be wiped out. All my effort and sacrifice of six years will have been for nothing. I know many will say it's wrong and that I was greedy, but I'm someone who has worked hard for as long as I can remember. When I reached adulthood, I got fed up with that life. Now I don't know what to do, but I don't have the strength to continue. I know Bitcoin is the future, but I no longer see a good future for myself, and I don't have the strength to start from scratch.
+
+4h ago
+
+---
+
+**[Sold some bitcoin to get dinner 😃($25 @$83k)](https://www.reddit.com/r/Bitcoin/comments/1qro4xf/sold_some_bitcoin_to_get_dinner_25_83k/)**
+
+Watching good will hunting tonight
+
+17h ago
+
+---
+
+**[The original "Hard Money". On the Island of Yap, these massive limestone discs served as a public ledger. Ownership was known by community consensus rather than possession. Basically, a physical Blockchain 500 years ago.](https://www.reddit.com/r/Bitcoin/comments/1qs8l2m/the_original_hard_money_on_the_island_of_yap/)**
+
+1h ago
 
 ---
 
@@ -117,7 +125,21 @@ The world is going through some shit right now...but just know that eventually, 
 
 My node analytics captured a large liquidation event this morning. Roughly $120M in realized losses came from positions established within the last ~3 months, with nearly 20,000 BTC transferring to counterparties during the unwind. This is classic leverage behavior being resolved... not long-term capital exiting the market. Notably, older age bands remain largely inactive. Long-term holders are not distributing into this move; they are waiting, as they typically do, while short-duration leverage clears. When price action is driven primarily by derivatives, forced selling, and liquidity hunting, history shows it tends to be temporary. Once the excess leverage is flushed and fear-driven flows subside, price reverts back to being governed by spot demand and accumulation. The rise of ETFs and derivatives has compressed these cycles into shorter timeframes, increasing volatility... but also making liquidation events like this easier to observe in real time. Smart money isn’t reacting here. It’s absorbing. Fascinating to watch these play out in real time.
 
-2h ago
+3h ago
+
+---
+
+**[Buying the dip.](https://www.reddit.com/r/Bitcoin/comments/1qrkz13/buying_the_dip/)**
+
+19h ago
+
+---
+
+**[Anyone else notice how the dips never last long enough for the paycheck to come in](https://www.reddit.com/r/Bitcoin/comments/1qs8o1s/anyone_else_notice_how_the_dips_never_last_long/)**
+
+I never consider it a real dip unless it keeps dipping beyond the paycheck deposit, otherwise it’s just an empty promise
+
+58m ago
 
 ---
 
@@ -129,59 +151,51 @@ I just bought the dip and officially crossed the 0.1 BTC mark. It’s been a lon
 
 ---
 
-**[The Stack remains So Stack More](https://www.reddit.com/r/Bitcoin/comments/1qrxs32/the_stack_remains_so_stack_more/)**
-
-8h ago
-
----
-
-**[If bitcoin goes below $20K, I will withdraw my 401k and invest it all into bitcoin.](https://www.reddit.com/r/Bitcoin/comments/1qra1ma/if_bitcoin_goes_below_20k_i_will_withdraw_my_401k/)**
-
-The deal will be too good to pass at that point.
-
-1d ago
-
----
-
-**[Nearly $560M liquidated from the crypto market in the past 24H](https://www.reddit.com/r/Bitcoin/comments/1qs1gho/nearly_560m_liquidated_from_the_crypto_market_in/)**
-
-5h ago
-
----
-
 ---
 
 ## Google News: "bitcoin"
 
-**[Bitcoin price news: What next as BTC plunges under $81,000](https://www.coindesk.com/markets/2026/01/31/bitcoin-plunges-under-usd81-000-amid-reports-of-iran-explosions-and-binance-spat)**
+**[Bitcoin (BTC) price: Fear hits a 2026 high as traders panic at $84,200 price level](https://www.coindesk.com/markets/2026/01/31/bitcoin-fear-sentiment-hits-a-2026-high-as-price-lingers-under-usd83-000)**
 
-Bitcoin slid toward $81,000 on Saturday as thin weekend liquidity magnified selling pressure, with traders pointing to Middle East tensions, U.S. political risk and lingering crypto-specific uncertainty.
+Social chatter around bitcoin has turned sharply negative after the token slid to its lowest level since Nov. 21, a setup Santiment says often appears near capitulation, even if near term trading stays messy.
 
 CoinDesk • 3h ago
 
 ---
 
-**[Better Investment to Make in 2026 and Beyond: Bitcoin vs. iShares Bitcoin Trust](https://www.fool.com/investing/2026/01/31/better-investment-2026-beyond-bitcoin-ibit/)**
+**[Bitcoin slips as Fed chair speculation hits risky assets](https://www.reuters.com/business/bitcoin-slips-fed-chair-speculation-hits-risky-assets-2026-01-30/)**
 
-Based on its monster past performance, it makes sense why investors are interested in Bitcoin.
-
-The Motley Fool • 5h ago
+Reuters • 1d ago
 
 ---
 
-**[Here Are Bitcoin's 5 Biggest Risks That Investors Can't Ignore](https://finance.yahoo.com/news/bitcoins-5-biggest-risks-investors-162000782.html)**
+**[Bitcoin Stuck in a Rut After Warsh Pick as ETFs Shed Billions](https://finance.yahoo.com/news/bitcoin-stuck-rut-warsh-pick-213531831.html)**
 
-The strongest bulls take the time to learn the opposite point of view.
+Warsh, a former central bank governor with deep establishment ties, has recently aligned with Trump’s push for lower rates.  Instead, a risk-off tone lingered over markets as the Warsh news circulated: stock fell and the dollar traded just off four-year lows.  With Bitcoin now down more than 30% from its October peak — and US spot ETFs posting their longest streak of monthly outflows since launching — traders appear unconvinced that either macro or policy signals offer much near-term relief.
 
-Yahoo Finance • 1h ago
+Yahoo Finance • 20h ago
 
 ---
 
-**[ETH, SOL, DOGE price news: Tokens drop 6% as weekend liquidations hit crypto majors](https://www.coindesk.com/markets/2026/01/31/eth-sol-and-doge-slide-7-as-usd850-million-bullish-bets-end-up-liquidated)**
+**[Bitcoin, XRP, Ethereum Fall on News of Kevin Warsh Fed Appointment.](https://www.barrons.com/articles/bitcoin-xrp-ethereum-crypto-today-954298d9?gaa_at=eafs&gaa_n=AWEtsqfWmbxrQ5FGYnZ7f-C3v0XuHWRS2H2TMJwWFpsedCiyoaBLX9W_rysX&gaa_ts=697e4eb9&gaa_sig=Tw562XFFP9hzDGamyE5UMe77ZqADqB5Bj84o44wMuAWtZfHulCI6iO_YEylsRyAU0z3RsrqvhVJ5EvHUx1mgfA%3D%3D)**
 
-Ether, solana and XRP led losses across crypto as a wave of long liquidations swept futures markets, showing stress spreading beyond bitcoin during weekend trading.
+Barron's • 1d ago
 
-CoinDesk • 2h ago
+---
+
+**[Investors Pull Nearly $818 Million From Bitcoin ETFs as Cryptocurrency Tanks](https://sg.finance.yahoo.com/news/investors-pull-nearly-818-million-174640067.html)**
+
+Bitcoin (CRYPTO: BTC) exchange-traded funds (ETFs) experienced a substantial one-day reversal last week. Investors pulled out nearly $818 million as Bitcoin’s price plummeted to a nine-month low. Data indicated that Bitcoin ETFs registered net daily outflows of $817.87 million on January 29. This pushed January into an overall negative zone. However, the cumulative net inflows since the inception of Bitcoin ETFs remained significant at $55.52 billion. The largest product by assets, BlackRock’s i
+
+Yahoo Finance Singapore • 48m ago
+
+---
+
+**[Binance's CZ: Metals Drop Proves Any Asset Vulnerable To Swings, Bitcoin Is 'Still Early'](https://uk.finance.yahoo.com/news/binances-cz-metals-drop-proves-183110086.html)**
+
+In the wake of a significant drop in gold and silver prices, Binance founder Changpeng Zhao has offered his insights on the future of Bitcoin (CRYPTO: BTC). On Friday, gold and silver saw a drastic decrease in their prices, with gold plummeting by approximately 15% and silver by nearly 38%. This resulted in a loss of around $15 trillion in combined market value. This unexpected price drop, referred to as a “black swan” event, has ignited conversations within the crypto community, with many specu
+
+Yahoo Finance UK • 3m ago
 
 ---
 
@@ -189,51 +203,41 @@ CoinDesk • 2h ago
 
 Indeed, since the JPMorgan report was published on Wednesday, both silver and gold have pulled back from recent highs.
 
-The Block • 21h ago
+The Block • 22h ago
 
 ---
 
-**[The Slide in Gold and Silver Sets Up a Test for Bitcoin](https://www.barrons.com/articles/the-slide-in-gold-and-silver-sets-up-a-test-for-bitcoin-2a9573b3?gaa_at=eafs&gaa_n=AWEtsqdQlm0ixnB6aJ_mhHGDKk4ZfGtfJBM6ka8TuSgOlNl-0UaLq1iUgBBE&gaa_ts=697e37dd&gaa_sig=w2khDLfpyXVApl05wC6PdeEqWorVWdwRQ9oa65bws4nhxCYP2EO-n3ZHWMyb1eHjXuRQsR-bN3Mimp7gtF716w%3D%3D)**
+**[Better Investment to Make in 2026 and Beyond: Bitcoin vs. iShares Bitcoin Trust](https://www.fool.com/investing/2026/01/31/better-investment-2026-beyond-bitcoin-ibit/)**
+
+Based on its monster past performance, it makes sense why investors are interested in Bitcoin.
+
+The Motley Fool • 6h ago
+
+---
+
+**[The Slide in Gold and Silver Sets Up a Test for Bitcoin](https://www.barrons.com/articles/the-slide-in-gold-and-silver-sets-up-a-test-for-bitcoin-2a9573b3?gaa_at=eafs&gaa_n=AWEtsqcgBP7xJTnIqHE78G7XRoW1RmRfXL6EzcrvOXiCtNgRqouvAc_zX-EU&gaa_ts=697e4eb9&gaa_sig=_oTF2YNM_6OWX4ktivZu-i2scW5vd28VkSeUBbKop-uV2QpFCTkqbauvWSeI7MYmUECXYskiNk2mIKN-36NZmA%3D%3D)**
 
 Barron's • 1d ago
 
 ---
 
-**[Bitcoin’s freefall approaches $80,000 as precious metals also tank](https://fortune.com/2026/01/30/bitcoin-price-today-ethereum-gold-silver-platinum-copper/)**
+**[Plan B Network Launches CypherTank, a Bitcoin Pitch Series Showcasing Builders and Ideas](https://bitcoinmagazine.com/news/plan-b-network-cyphertank-bitcoin)**
 
-The world’s largest cryptocurrency is down 2% over the past day while gold and silver have dropped 11% and 30%, respectively.
+Plan B Network has launched CypherTank, a global Bitcoin-focused pitch series that spotlights builders, ideas, and community discussion across multiple platforms.
 
-Fortune • 23h ago
-
----
-
-**[Why Bitcoin’s Pullback May Be Setting Up A Rotation From Gold](https://www.forbes.com/sites/aliceliu/2026/01/29/why-bitcoins-pullback-may-be-setting-up-a-rotation-from-gold/)**
-
-Is Bitcoin near a bottom while gold peaks? Explore crypto liquidations, market cycles, and why investors are eyeing a BTC-long, gold-short rotation
-
-Forbes • 1d ago
-
----
-
-**[Bitcoin Slump Cuts Millions From Winklevoss Super-PAC Donation](https://www.bloomberg.com/news/articles/2026-01-30/bitcoin-slump-cuts-millions-from-winklevoss-super-pac-donation)**
-
-The political fundraising group launched by crypto-billionaire brothers Cameron and Tyler Winklevoss raised more than $22 million in the last five months of 2025, but might not get as much bang for its Bitcoin.
-
-Bloomberg.com • 1d ago
-
----
-
-**[Kevin Warsh: Markets React as Pro-Bitcoin Economist Tipped for Fed](https://finance.yahoo.com/news/kevin-warsh-markets-react-pro-122358756.html)**
-
-Only yesterday, we explained how Donald Trump runs his White House like a reality TV competition. Nominees for high office are turned into contestants vying for his approval, and the frontrunner could switch at any minute.Lo and behold, that’s exactly what’s happened in the race to become the next chairman ...
-
-Yahoo Finance • 1d ago
+Bitcoin Magazine • 20h ago
 
 ---
 
 ---
 
 ## HackerNews: "bitcoin"
+
+**[Bitcoin Looks Set for Longest Monthly Losing Streak Since 2018](https://news.ycombinator.com/item?id=46838644)**
+
+⬆️ 18 • 💬 1 • 1h ago • [bloomberg.com](https://www.bloomberg.com/news/articles/2026-01-30/bitcoin-btc-slides-toward-longest-monthly-losing-streak-since-2018)
+
+---
 
 **["Bitcoin Jesus" Avoided Prison, Thanks to One of the "Friends of Trump"](https://news.ycombinator.com/item?id=46764787)**
 
@@ -255,7 +259,7 @@ A list of known attacks against Bitcoin / crypto asset owning entities that occu
 
 PoW + EVM cryptocurrency. 21M fixed supply, fair launch, no team, no foundation. Just code. - lumenyx-chain/lumenyx
 
-⬆️ 1 • 💬 0 • 5h ago • [GitHub](https://github.com/lumenyx-chain/lumenyx)
+⬆️ 1 • 💬 0 • 6h ago • [GitHub](https://github.com/lumenyx-chain/lumenyx)
 
 ---
 
@@ -303,27 +307,9 @@ Transform HN comment threads into executive intelligence. AI analyzes discussion
 
 ---
 
-**[Show HN: HN Zeitgeist – what 40M HN comments reveal about 20 years of tech](https://news.ycombinator.com/item?id=46826090)**
-
-20 years of Hacker News analyzed. 40M comments. 10,000 topics. What the tech community really thinks.
-
-⬆️ 3 • 💬 0 • 1d ago • [HN Zeitgeist](https://hn.mrzepa.com/)
-
----
-
 ---
 
 ## YouTube Videos: "bitcoin"
-
-**[&quot;This Bitcoin &amp; Crypto Crash Is WORSE Than Many Realize&quot; - Jack Mallers &amp; Raoul Pal](https://www.youtube.com/watch?v=SusvzMpWuo8)**
-
-Gold is absorbing sovereign capital while Bitcoin struggles — and that's exactly how this transition is supposed to look. In this ...
-
-📺 Savvy Finance
-
-👁️ 10K • 👍 409 • 💬 32 • ⏱️ 19:18 • 19h ago
-
----
 
 **[Bitcoin Investors....Get Ready for THIS](https://www.youtube.com/watch?v=i8c_TMdqOb0)**
 
@@ -331,77 +317,7 @@ Check out ClashPicks: https://www.clashpicks.com/ **Exchange Partners** Bitunix 
 
 📺 CryptosRUs
 
-👁️ 52K • 👍 2K • 💬 615 • ⏱️ 8:41 • 1d ago
-
----
-
-**[Bitcoin Near Collapse As Crypto Bill Heads To Senate Vote](https://www.youtube.com/watch?v=O0cv11qt290)**
-
-LIMITED TIME: ✓ Bitunix (no kyc, $700 bonus): https://www.bitunix.com/register?vipCode=AltcoinDaily 50% deposit bonus on ...
-
-📺 Altcoin Daily
-
-👁️ 69K • 👍 2K • 💬 254 • ⏱️ 8:26 • 1d ago
-
----
-
-**[MOST IMPORTANT VIDEO I&#39;VE EVER RECORDED](https://www.youtube.com/watch?v=fvBClulPSKU)**
-
-BYBIT: http://themoon.co/Bybit 10% DISCOUNT & $30000 BONUS BloFin: https://themoon.co/blofin600 Sign up now and ...
-
-📺 The Moon Show
-
-👁️ 13K • 👍 814 • 💬 94 • ⏱️ 6:54 • 8h ago
-
----
-
-**[Crypto Just FLIPPED | NEW Fed Chair Means THIS For Bitcoin (Fully Explained)](https://www.youtube.com/watch?v=jDIwD0XRfbo)**
-
-Crypto Just FLIPPED | NEW Fed Chair Bitcoin Plan (Fully Explained) ✓ Bitunix (no kyc, $10000 bonus): ...
-
-📺 Altcoin Daily
-
-👁️ 47K • 👍 3K • 💬 276 • ⏱️ 8:25 • 19h ago
-
----
-
-**[CIO Matt Hougan’s $6.5M Bitcoin Call: &#39;Long Term Investors Will Be Rewarded&#39;](https://www.youtube.com/watch?v=qxZHWdNnmkI)**
-
-Bitwise Chief Investment Officer, Matt Hougan joins CoinDesk's Markets Outlook with Jennifer Sanasie and Andy Baehr.
-
-📺 CoinDesk
-
-👁️ 12K • 👍 329 • 💬 39 • ⏱️ 26:03 • 22h ago
-
----
-
-**[We Predicted The Bitcoin Top – This Is Our 2026 Outlook](https://www.youtube.com/watch?v=RNuDCqoGuhg)**
-
-Join The Community: https://bit.ly/FefeCommunity FOLLOW FEFE FOR MORE ALPHA ON ...
-
-📺 100XClub
-
-👁️ 15K • 👍 1K • 💬 304 • ⏱️ 28:55 • 1d ago
-
----
-
-**[The Real Reason Bitcoin Looks Broken Right Now (Not What You Think)](https://www.youtube.com/watch?v=5HOmQbQ3-4M)**
-
-Gold and silver just experienced historic volatility while Bitcoin feels strangely stuck. In this episode of No Second Best, we step ...
-
-📺 Swan Bitcoin
-
-👁️ 110K • 👍 4K • 💬 446 • ⏱️ 15:38 • 1d ago
-
----
-
-**[The Fed LIED and Markets Know It (Why Is Bitcoin DOWN?)](https://www.youtube.com/watch?v=s-xipl_cvxE)**
-
-Markets are breaking while Bitcoin sits quietly in the corner. Powell held rates, gold exploded, bonds snapped, and trust in the ...
-
-📺 Simply Bitcoin
-
-👁️ 35K • 👍 3K • 💬 372 • ⏱️ 18:55 • 1d ago
+👁️ 53K • 👍 2K • 💬 603 • ⏱️ 8:41 • 1d ago
 
 ---
 
@@ -411,7 +327,87 @@ After a brief series of amendments were rejected, the U.S. Senate Agriculture Co
 
 📺 Paul Barron Network
 
-👁️ 164K • 👍 6K • 💬 791 • ⏱️ 16:34 • 1d ago
+👁️ 165K • 👍 6K • 💬 796 • ⏱️ 16:34 • 2d ago
+
+---
+
+**[The Real Reason Bitcoin Looks Broken Right Now (Not What You Think)](https://www.youtube.com/watch?v=5HOmQbQ3-4M)**
+
+Gold and silver just experienced historic volatility while Bitcoin feels strangely stuck. In this episode of No Second Best, we step ...
+
+📺 Swan Bitcoin
+
+👁️ 112K • 👍 4K • 💬 451 • ⏱️ 15:38 • 1d ago
+
+---
+
+**[CIO Matt Hougan’s $6.5M Bitcoin Call: &#39;Long Term Investors Will Be Rewarded&#39;](https://www.youtube.com/watch?v=qxZHWdNnmkI)**
+
+Bitwise Chief Investment Officer, Matt Hougan joins CoinDesk's Markets Outlook with Jennifer Sanasie and Andy Baehr.
+
+📺 CoinDesk
+
+👁️ 13K • 👍 353 • 💬 50 • ⏱️ 26:03 • 23h ago
+
+---
+
+**[MOST IMPORTANT VIDEO I&#39;VE EVER RECORDED](https://www.youtube.com/watch?v=fvBClulPSKU)**
+
+BYBIT: http://themoon.co/Bybit 10% DISCOUNT & $30000 BONUS BloFin: https://themoon.co/blofin600 Sign up now and ...
+
+📺 The Moon Show
+
+👁️ 18K • 👍 922 • 💬 113 • ⏱️ 6:54 • 9h ago
+
+---
+
+**[Why the Crypto Market Is Red (It s NOT the Reason You Think)! Breaking Crypto News Today!](https://www.youtube.com/watch?v=hN0qdU6UPA4)**
+
+Why the Crypto Market Is Red (It s NOT the Reason You Think)! Breaking Crypto News Today! CADE HILTON'S CHANNEL ...
+
+📺 Austin Hilton
+
+👁️ 5K • 👍 454 • 💬 128 • ⏱️ 9:28 • 2h ago
+
+---
+
+**[&quot;This Bitcoin &amp; Crypto Crash Is WORSE Than Many Realize&quot; - Jack Mallers &amp; Raoul Pal](https://www.youtube.com/watch?v=SusvzMpWuo8)**
+
+Gold is absorbing sovereign capital while Bitcoin struggles — and that's exactly how this transition is supposed to look. In this ...
+
+📺 Savvy Finance
+
+👁️ 11K • 👍 444 • 💬 24 • ⏱️ 19:18 • 20h ago
+
+---
+
+**[Bitcoin Near Collapse As Crypto Bill Heads To Senate Vote](https://www.youtube.com/watch?v=O0cv11qt290)**
+
+LIMITED TIME: ✓ Bitunix (no kyc, $700 bonus): https://www.bitunix.com/register?vipCode=AltcoinDaily 50% deposit bonus on ...
+
+📺 Altcoin Daily
+
+👁️ 70K • 👍 3K • 💬 254 • ⏱️ 8:26 • 1d ago
+
+---
+
+**[Crypto Just FLIPPED | NEW Fed Chair Means THIS For Bitcoin (Fully Explained)](https://www.youtube.com/watch?v=jDIwD0XRfbo)**
+
+Crypto Just FLIPPED | NEW Fed Chair Bitcoin Plan (Fully Explained) ✓ Bitunix (no kyc, $10000 bonus): ...
+
+📺 Altcoin Daily
+
+👁️ 49K • 👍 3K • 💬 296 • ⏱️ 8:25 • 19h ago
+
+---
+
+**[We Predicted The Bitcoin Top – This Is Our 2026 Outlook](https://www.youtube.com/watch?v=RNuDCqoGuhg)**
+
+Join The Community: https://bit.ly/FefeCommunity FOLLOW FEFE FOR MORE ALPHA ON ...
+
+📺 100XClub
+
+👁️ 16K • 👍 1K • 💬 311 • ⏱️ 28:55 • 1d ago
 
 ---
 
