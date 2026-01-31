@@ -3,14 +3,14 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-01-31T11:44:07.189581+00:00'
+updated: '2026-01-31T12:51:17.699020+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
+- cryptocurrency
 - videos
 - news
-- cryptocurrency
 - social
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** January 31, 2026 at 11:44 UTC  
+**Last Updated:** January 31, 2026 at 12:51 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -44,11 +44,11 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Chart
 
-**24h:** +0.4%  
-**7d:** -4.1%  
-**30d:** -7.6%  
-**90d:** -21.9%  
-**1y:** -17.4%  
+**24h:** +0.1%  
+**7d:** -4.4%  
+**30d:** -7.9%  
+**90d:** -22.1%  
+**1y:** -17.7%  
 
 ---
 
@@ -77,23 +77,17 @@ Rank #1
 
 ## Reddit: r/Bitcoin
 
-**[Time for something less volatile](https://www.reddit.com/r/Bitcoin/comments/1qrmwm4/time_for_something_less_volatile/)**
+**[Sold some bitcoin to get dinner 😃($25 @$83k)](https://www.reddit.com/r/Bitcoin/comments/1qro4xf/sold_some_bitcoin_to_get_dinner_25_83k/)**
+
+Watching good will hunting tonight
 
 11h ago
 
 ---
 
-**[Sold some bitcoin to get dinner 😃($25 @$83k)](https://www.reddit.com/r/Bitcoin/comments/1qro4xf/sold_some_bitcoin_to_get_dinner_25_83k/)**
-
-Watching good will hunting tonight
-
-10h ago
-
----
-
 **[Buying the dip.](https://www.reddit.com/r/Bitcoin/comments/1qrkz13/buying_the_dip/)**
 
-12h ago
+13h ago
 
 ---
 
@@ -101,7 +95,7 @@ Watching good will hunting tonight
 
 The deal will be too good to pass at that point.
 
-19h ago
+20h ago
 
 ---
 
@@ -109,7 +103,13 @@ The deal will be too good to pass at that point.
 
 I just bought the dip and officially crossed the 0.1 BTC mark. It’s been a long journey of stacking sats, and it feels incredible to finally hit this milestone. Now that my stack is growing, I know I need to get my coins off the exchanges. I’ve had a Trezor Model T sitting in its box for months, but I haven't set it up yet. I’m feeling a bit of transfer anxiety. I’m terrified of making a mistake during the process and losing my hard-earned BTC. I’ve also seen some talk about the Model T not being as secure as newer models. For those of you who have been through this: Is the Model T still considered solid for a 0.1 BTC stack, or should I upgrade before moving? What are your best tips for a first-time hardware wallet user to ensure I don't mess up the transfer? I’m planning to do a small test transaction first, but any advice to calm the nerves would be much appreciated!
 
-2h ago
+3h ago
+
+---
+
+**[Time for something less volatile](https://www.reddit.com/r/Bitcoin/comments/1qrmwm4/time_for_something_less_volatile/)**
+
+12h ago
 
 ---
 
@@ -117,19 +117,19 @@ I just bought the dip and officially crossed the 0.1 BTC mark. It’s been a lon
 
 The fastest way to create a Bitcoin skeptic is to tell someone you made money on Bitcoin. It's not always about the tech. It's about psychology. When you say you profited, some people don't hear "good investment" — they hear "I missed it." And instead of asking questions, they dismiss it. I've noticed something: the more you talk about your gains, the more resistance you create. Not because Bitcoin is flawed - but because success triggers ego. So maybe the real rule is simple: stack quietly.
 
-4h ago
-
----
-
-**[Sliver people acting like it’s such a volatile asset. LMAO](https://www.reddit.com/r/Bitcoin/comments/1qriea6/sliver_people_acting_like_its_such_a_volatile/)**
-
-14h ago
+5h ago
 
 ---
 
 **[The Stack remains So Stack More](https://www.reddit.com/r/Bitcoin/comments/1qrxs32/the_stack_remains_so_stack_more/)**
 
-2h ago
+3h ago
+
+---
+
+**[Sliver people acting like it’s such a volatile asset. LMAO](https://www.reddit.com/r/Bitcoin/comments/1qriea6/sliver_people_acting_like_its_such_a_volatile/)**
+
+15h ago
 
 ---
 
@@ -137,7 +137,7 @@ The fastest way to create a Bitcoin skeptic is to tell someone you made money on
 
 Why are people so worried about the price now? It’s almost guaranteed to hit a new ath in the future.. but when is the question. This year? in 3 years? in 5 years? Anyway it will. DCA AND HODL
 
-12h ago
+13h ago
 
 ---
 
@@ -145,7 +145,7 @@ Why are people so worried about the price now? It’s almost guaranteed to hit a
 
 I wish I had more liquidity!
 
-22h ago
+23h ago
 
 ---
 
@@ -157,15 +157,23 @@ I wish I had more liquidity!
 
 Bitcoin fell toward $83,000 as the U.S. entered a partial shutdown, with traders leaning defensive ahead of a House vote expected Monday.
 
-CoinDesk • 4h ago
+CoinDesk • 5h ago
 
 ---
 
-**[Kevin Warsh: Markets React as Pro-Bitcoin Economist Tipped for Fed](https://finance.yahoo.com/news/kevin-warsh-markets-react-pro-122358756.html)**
+**[Bitcoin Price Crashes 6% To $84,000 In Sharp Sell-Off](https://bitcoinmagazine.com/markets/bitcoin-price-crashes-5-to-85k)**
 
-Only yesterday, we explained how Donald Trump runs his White House like a reality TV competition. Nominees for high office are turned into contestants vying for his approval, and the frontrunner could switch at any minute.Lo and behold, that’s exactly what’s happened in the race to become the next chairman ...
+The bitcoin price erased a rally above $90,000 in less than 24 hours as it dumped to $84,000.
 
-Yahoo Finance • 23h ago
+Bitcoin Magazine • 1d ago
+
+---
+
+**[Better Investment to Make in 2026 and Beyond: Bitcoin vs. iShares Bitcoin Trust](https://www.fool.com/investing/2026/01/31/better-investment-2026-beyond-bitcoin-ibit/)**
+
+Based on its monster past performance, it makes sense why investors are interested in Bitcoin.
+
+The Motley Fool • 34m ago
 
 ---
 
@@ -173,7 +181,43 @@ Yahoo Finance • 23h ago
 
 Indeed, since the JPMorgan report was published on Wednesday, both silver and gold have pulled back from recent highs.
 
-The Block • 15h ago
+The Block • 16h ago
+
+---
+
+**[Silver's 35% plunge ends up beating bitcoin in a rare crypto liquidation shock](https://www.coindesk.com/markets/2026/01/31/silver-s-35-plunge-ends-up-beating-bitcoin-in-a-rare-crypto-liquidation-shock)**
+
+Tokenized silver futures recorded the largest liquidations across crypto markets over the past 24 hours, overtaking bitcoin and ether as a sharp pullback in metals collided with leverage-heavy trading on crypto venues.
+
+CoinDesk • 5h ago
+
+---
+
+**[The Slide in Gold and Silver Sets Up a Test for Bitcoin](https://www.barrons.com/articles/the-slide-in-gold-and-silver-sets-up-a-test-for-bitcoin-2a9573b3?gaa_at=eafs&gaa_n=AWEtsqeFtiP9TRpcfz9fzV7XctFK8WYCOewqw90Mai3s4OjHplvz8Wxq1Ztz&gaa_ts=697dfe30&gaa_sig=dzCK09byA74KVCcVHu4AmEo8a4lXnpa6f5uZJqWDLOXhamElLRkXW5irQYlfgA9WaPPMuXkQXmki79LKSutDpg%3D%3D)**
+
+Barron's • 22h ago
+
+---
+
+**[Kevin Warsh: Markets React as Pro-Bitcoin Economist Tipped for Fed](https://finance.yahoo.com/news/kevin-warsh-markets-react-pro-122358756.html)**
+
+Only yesterday, we explained how Donald Trump runs his White House like a reality TV competition. Nominees for high office are turned into contestants vying for his approval, and the frontrunner could switch at any minute.Lo and behold, that’s exactly what’s happened in the race to become the next chairman ...
+
+Yahoo Finance • 1d ago
+
+---
+
+**[Fed Chair nominee Warsh views bitcoin as “good policeman for policy”](https://finance.yahoo.com/news/fed-chair-nominee-warsh-views-150459398.html)**
+
+Warsh has praised bitcoin as a tool to guide policy, not as a competitor to the dollar.
+
+Yahoo Finance • 21h ago
+
+---
+
+**[Bitcoin Slumps to Two-Month Low as US Funds Shed Billions](https://www.bloomberg.com/news/articles/2026-01-30/bitcoin-btc-slumps-to-two-month-low-as-us-funds-shed-billions)**
+
+Bloomberg.com • 15h ago
 
 ---
 
@@ -181,55 +225,7 @@ The Block • 15h ago
 
 The political fundraising group launched by crypto-billionaire brothers Cameron and Tyler Winklevoss raised more than $22 million in the last five months of 2025, but might not get as much bang for its Bitcoin.
 
-Bloomberg • 18h ago
-
----
-
-**[Bitcoin price plunge: Why are crypto prices dropping this time?](https://mashable.com/article/bitcoin-price-plunge-crypto-falls-jan-29)**
-
-How low can Bitcoin go?
-
-Mashable • 1d ago
-
----
-
-**[Largest crypto exchange announces surprising plan after Bitcoin crashes](https://www.thestreet.com/crypto/markets/largest-crypto-exchange-announces-surprising-plan-after-bitcoin-crashes)**
-
-Binance has a new Bitcoin floor plan.
-
-thestreet.com • 23h ago
-
----
-
-**[Tennessee Lawmakers To Weigh Strategic Bitcoin Reserve Bill](https://bitcoinmagazine.com/news/tennessee-strategic-bitcoin-reserve)**
-
-Tennessee lawmakers are considering a bill that would allow the state to invest up to 10% of certain public funds in bitcoin.
-
-Bitcoin Magazine • 14h ago
-
----
-
-**[Experts Say Bitcoin’s Crash Is Only Getting Started](https://futurism.com/future-society/experts-bitcoins-crash-getting-started)**
-
-Following a major Bitcoin crash, experts are now suggesting it's only the beginning of a prolonged crypto downturn.
-
-Futurism • 14h ago
-
----
-
-**[Bitcoin Could Find Next Bottom Near $50,000 Based On Gold Ratio, Expert Warns](https://www.tradingview.com/news/newsbtc:bd883d3f2094b:0-bitcoin-could-find-next-bottom-near-50-000-based-on-gold-ratio-expert-warns/)**
-
-While gold has posted major gains, Bitcoin (BTC) continues to show major signs of weakness, with prices drifting toward lower support levels and now approaching the closely watched $82,000 mark, a pivotal point in determining the next major direction for the world’s largest cryptocurrency.Against t…
-
-TradingView • 12h ago
-
----
-
-**[Where is Donald Trump’s strategic Bitcoin reserve?](https://www.fastcompany.com/91482053/where-is-donald-trumps-strategic-bitcoin-reserve)**
-
-The government seems to be amassing more Bitcoin. But little work seems to be happening to enact the terms of the executive order Trump signed to start the 'strategic reserve.'
-
-Fast Company • 2d ago
+Bloomberg.com • 19h ago
 
 ---
 
@@ -241,7 +237,7 @@ Fast Company • 2d ago
 
 Billionaire fugitive Roger Ver was facing federal criminal charges until he sought the services of a select club of President Donald Trump’s former personal attorneys who have easy access to top Justice Department appointees.
 
-⬆️ 17 • 💬 0 • 4d ago • [ProPublica](https://www.propublica.org/article/bitcoin-jesus-roger-ver-tax-evasion-friends-of-trump)
+⬆️ 17 • 💬 0 • 5d ago • [ProPublica](https://www.propublica.org/article/bitcoin-jesus-roger-ver-tax-evasion-friends-of-trump)
 
 ---
 
@@ -253,9 +249,17 @@ A list of known attacks against Bitcoin / crypto asset owning entities that occu
 
 ---
 
+**[Show HN: Lumenyx – Bitcoin scarcity and full EVM, CPU mining, zero premine](https://news.ycombinator.com/item?id=46836087)**
+
+PoW + EVM cryptocurrency. 21M fixed supply, fair launch, no team, no foundation. Just code. - lumenyx-chain/lumenyx
+
+⬆️ 1 • 💬 0 • 17m ago • [GitHub](https://github.com/lumenyx-chain/lumenyx)
+
+---
+
 **[Bitcoin's Quantum Computing Threat](https://news.ycombinator.com/item?id=46824834)**
 
-⬆️ 1 • 💬 0 • 21h ago • [bmpro.substack.com](https://bmpro.substack.com/p/bitcoins-quantum-computing-threat)
+⬆️ 1 • 💬 0 • 22h ago • [bmpro.substack.com](https://bmpro.substack.com/p/bitcoins-quantum-computing-threat)
 
 ---
 
@@ -301,13 +305,7 @@ Transform HN comment threads into executive intelligence. AI analyzes discussion
 
 20 years of Hacker News analyzed. 40M comments. 10,000 topics. What the tech community really thinks.
 
-⬆️ 3 • 💬 0 • 19h ago • [HN Zeitgeist](https://hn.mrzepa.com/)
-
----
-
-**[Is This Billionaire a Financial Genius or a Fraudster?](https://news.ycombinator.com/item?id=46759922)**
-
-⬆️ 4 • 💬 6 • 5d ago • [nytimes.com](https://www.nytimes.com/2026/01/16/business/michael-saylor-strategy-bitcoin.html)
+⬆️ 3 • 💬 0 • 20h ago • [HN Zeitgeist](https://hn.mrzepa.com/)
 
 ---
 
@@ -321,7 +319,7 @@ Gold is absorbing sovereign capital while Bitcoin struggles — and that's exact
 
 📺 Savvy Finance
 
-👁️ 7K • 👍 327 • 💬 27 • ⏱️ 19:18 • 13h ago
+👁️ 7K • 👍 327 • 💬 27 • ⏱️ 19:18 • 14h ago
 
 ---
 
@@ -331,7 +329,7 @@ Bitwise Chief Investment Officer, Matt Hougan joins CoinDesk's Markets Outlook w
 
 📺 CoinDesk
 
-👁️ 10K • 👍 278 • 💬 28 • ⏱️ 26:03 • 16h ago
+👁️ 10K • 👍 278 • 💬 28 • ⏱️ 26:03 • 17h ago
 
 ---
 
@@ -341,7 +339,7 @@ Join The Community: https://bit.ly/FefeCommunity FOLLOW FEFE FOR MORE ALPHA ON .
 
 📺 100XClub
 
-👁️ 13K • 👍 1K • 💬 263 • ⏱️ 28:55 • 18h ago
+👁️ 13K • 👍 1K • 💬 263 • ⏱️ 28:55 • 19h ago
 
 ---
 
@@ -381,7 +379,7 @@ Central banks are selling Treasuries and hoarding gold at record levels as trust
 
 📺 Swan Bitcoin
 
-👁️ 24K • 👍 1K • 💬 174 • ⏱️ 14:55 • 21h ago
+👁️ 24K • 👍 1K • 💬 174 • ⏱️ 14:55 • 22h ago
 
 ---
 
@@ -401,7 +399,7 @@ Crypto Just FLIPPED | NEW Fed Chair Bitcoin Plan (Fully Explained) ✓ Bitunix (
 
 📺 Altcoin Daily
 
-👁️ 41K • 👍 2K • 💬 216 • ⏱️ 8:25 • 13h ago
+👁️ 41K • 👍 2K • 💬 216 • ⏱️ 8:25 • 14h ago
 
 ---
 

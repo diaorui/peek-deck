@@ -3,14 +3,14 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-01-31T11:44:07.195683+00:00'
+updated: '2026-01-31T12:51:17.705406+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
+- cryptocurrency
 - videos
 - news
-- cryptocurrency
 - social
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** January 31, 2026 at 11:44 UTC  
+**Last Updated:** January 31, 2026 at 12:51 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,11 +42,11 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** -3.3%  
-**7d:** -6.0%  
-**30d:** -15.2%  
-**90d:** -26.4%  
-**1y:** -15.0%  
+**24h:** -3.5%  
+**7d:** -6.5%  
+**30d:** -15.6%  
+**90d:** -26.8%  
+**1y:** -15.5%  
 
 ---
 
@@ -72,7 +72,7 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-5h ago
+6h ago
 
 ---
 
@@ -96,7 +96,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 Watch before one bug costs you everything. https://x.com/SolidityScan/status/2017172006056390715?s=20
 
-4h ago
+5h ago
 
 ---
 
@@ -104,7 +104,7 @@ Watch before one bug costs you everything. https://x.com/SolidityScan/status/201
 
 It was some time ago that ETH went from proof of work to proof of stake. At the time Vitalik said that there were other changes coming such as faster transaction or lower transaction cost. I have not heard any more since then? Is there any progress?
 
-14h ago
+16h ago
 
 ---
 
@@ -112,7 +112,7 @@ It was some time ago that ETH went from proof of work to proof of stake. At the 
 
 Hello Folks, I just published a smart contract to handle crypto inheritance 100% on-chain, without the owner having to do anything offline. I know there are many solutions that are trying to solve this problem, but I wanted to design my own with my logic, which is the following: - the contract acts like a wallet, owner can deposit, withdraw and transfer - the owner can assign beneficiaries, and update them at any time - the wallet contains an "alive check", which is automatically updated on any transaction - if you wanna use it as a vault (dormant), you can update the "alive check" manually - the owner defines a "consider me death time" in years, eg: if the last alive check is older than 10 years, I'm dead :( - once that happen, any of the beneficiaries can access the wallet and withdraw all the funds At this point, my favorite feature: the wallet gets locked, will reject any future deposit and "answer" with an epitaph... your "last worlds" recorded on-chain that you can configure when you create the wallet. All of the above is less then 100 lines of solidity... amazing :) At the moment I only did the backend (github link), but I'd like to do a nice interface to make it easy to deploy. Of course, free and open source in the Ethereum spirit! Would you give me a feedback on the logic? Do you see any pitfall or edge cases? Thanks, Francesco
 
-18h ago
+19h ago
 
 ---
 
@@ -120,7 +120,7 @@ Hello Folks, I just published a smart contract to handle crypto inheritance 100%
 
 The Doots live stream is all about showcasing the best of the week from the Daily General Discussion from the r/ethereum Community on Reddit! Today we talked to Mac Budkowski from macbudkowski.com. He's made the "No BS Crypto GTM guide." Dig into what he has learned about timing, messaging, and why best isn't always good. Host: JT Technical Host: LogrisTheBard https://dailydoots.com by Hanniabu Daily Doots Curator: Tricky_Troll Weekly Doots Curator: The-A-Word Farcaster and Backend Host Support: Ben Broad Media Content Support: Twelve Meatballs Discord Bouncer and Watchdog: Treebeard As always, if you know someone who wants a piece of this action, send em our way. Buy us a ☕ dailydoots.eth All of our channels can be found here: https://dailydoots.com/podcast/ 🕸️https://dailydoots.com 📢https://discord.gg/EVMavericks 📰https://reddit.com/r/ethereum 🔊MINTABLE Podcast 👉: https://pods.media/evmavericks 🍎Apple https://podcasts.apple.com/us/podcast/ethfinance-evmavericks-daily-doots-livestream/id1750089604 🔊Spotify https://open.spotify.com/show/7AotdyMtcvHZLv3pVqkxre 🦁https://x.com/EVMavericks ⏱️TikTok: https://www.tiktok.com/@evmavericks 📺https://www.youtube.com/channel/UC51nlNbIkBm5Qhm7EwQuWLw Twitch: https://www.twitch.tv/evmavericks LinkedIN: https://www.linkedin.com/company/evmavericks-daily-doots-podcast
 
-🔗 [youtu.be](https://youtu.be/lDG5GrjKgew) • 13h ago
+🔗 [youtu.be](https://youtu.be/lDG5GrjKgew) • 15h ago
 
 ---
 
@@ -128,7 +128,7 @@ The Doots live stream is all about showcasing the best of the week from the Dail
 
 Fidelity Investments FIDD stablecoin, TheDAO Security Fund, Hegotá upgrade headliner proposals
 
-🔗 [ethereal.news](https://ethereal.news/ethereal-news-weekly-9/) • 22h ago
+🔗 [ethereal.news](https://ethereal.news/ethereal-news-weekly-9/) • 23h ago
 
 ---
 
@@ -156,21 +156,7 @@ Ethereum developers used ACDE #229 to shift focus toward Devnet-2 readiness, exe
 
 The Ethereum co-founder wants to pursue an “aggressive” roadmap that will strengthen its status as a decentralized world computer.
 
-Decrypt • 18h ago
-
----
-
-**[Bitcoin, XRP, Ethereum Fall on News of Kevin Warsh Fed Appointment.](https://www.barrons.com/articles/bitcoin-xrp-ethereum-crypto-today-954298d9?gaa_at=eafs&gaa_n=AWEtsqdAnHJ9_GtjrBqY__D0Auu_AgI7rFwaoLjO7M_wzbI_4Jo1YOAvbrJa&gaa_ts=697de949&gaa_sig=AUVhkFaInFErLT3_nn_c47QJPB3D7R3Zr1nWK3pDYmc9Q-qIcI-wbsTscLqyheYFU9ioRJpOAm96vG9lo6JPHA%3D%3D)**
-
-Barron's • 17h ago
-
----
-
-**[Bitcoin, XRP, Ethereum Dive. Why Cryptos Are Getting Bashed After Warsh Fed Pick.](https://www.barrons.com/livecoverage/stock-market-news-today-013026/card/bitcoin-xrp-ethereum-dive-why-cryptos-are-getting-bashed-after-warsh-fed-pick--89jtYV0llDHxXXYD4AKw?gaa_at=eafs&gaa_n=AWEtsqeio_0lQmf_2EUqDB5cJdJYNida5Q15osAtzItue1Vy3mTsJwyshQbJ&gaa_ts=697de949&gaa_sig=Yc2QamFHP7rK26DO_ihGaIrDTnfLqm1odyFYi1t2QLk85rjM3gQlOKBif3lDVq8l2qjDRiC2Bs5oNm763vkShg%3D%3D)**
-
-The Dow, S&P 500, and Nasdaq Composite fell as the stock market reacted to President Donald Trump's pick for next chair of the Federal Reserve.
-
-Barron's • 14h ago
+Decrypt • 19h ago
 
 ---
 
@@ -178,7 +164,21 @@ Barron's • 14h ago
 
 Four major AI models have projected 2026 price targets for Ethereum (CRYPTO: ETH), Solana (CRYPTO: SOL), and XRP (CRYPTO: XRP). The forecasts range from conservative consolidation to triple-digit percentage gains, with each asset showing different upside potential based on adoption trends, network activity, and market positioning. Ethereum anchors institutional DeFi with mature Layer 2 networks, ... AI Models Predict Ethereum, Solana, and XRP 2026 Prices—Which Altcoin Has the Biggest Upside?
 
-Yahoo Finance • 16h ago
+Yahoo Finance • 17h ago
+
+---
+
+**[Bitcoin, XRP, Ethereum Fall on News of Kevin Warsh Fed Appointment.](https://www.barrons.com/articles/bitcoin-xrp-ethereum-crypto-today-954298d9?gaa_at=eafs&gaa_n=AWEtsqcZBwwqNaiQ_Gb-27cb7UaCCnRhCp-CXB8vz-vvULKy--x4fK4KJkqs&gaa_ts=697dfe32&gaa_sig=93JQScN_WKR-YmqvUY05gHvMqx1kYTeX3N9LYUFtVI3FH1JqWg-AjfHQxysRjoRZ-aw3jENEIA6Ed1wBirDpkA%3D%3D)**
+
+Barron's • 18h ago
+
+---
+
+**[Ripple Affirms XRPL Focus, Says ‘We Love XRP’ Over Ethereum](https://www.tradingview.com/news/newsbtc:0d7d8c78c094b:0-ripple-affirms-xrpl-focus-says-we-love-xrp-over-ethereum/)**
+
+Ripple’s new stablecoin rollout has put a bright spotlight on a simple fact: most RLUSD is living on Ethereum right now. That imbalance has stirred worry among long-time XRP supporters.Some feel the company’s heart might be shifting away from the ledger that gave it a base. Others say the move is p…
+
+TradingView • 18h ago
 
 ---
 
@@ -186,7 +186,7 @@ Yahoo Finance • 16h ago
 
 BitMine Immersion continues to accumulate Ethereum amid price declines, following a treasury strategy inspired by Strategy.
 
-Barchart.com • 14h ago
+Barchart.com • 16h ago
 
 ---
 
@@ -202,15 +202,15 @@ The Block • 1d ago
 
 stVaults let other teams plug into Lido’s staking system instead of building their own from scratch.
 
-CoinDesk • 21h ago
+CoinDesk • 22h ago
 
 ---
 
-**[Ethereum Supply Tightens With 45% of ETH Locked: Sygnum](https://thedefiant.io/news/research-and-opinion/ethereum-supply-tightens-with-45-of-eth-locked-sygnum)**
+**[Ethereum loses $3K again: How low can ETH price go in February?](https://www.tradingview.com/news/cointelegraph:3bcdc7ba5094b:0-ethereum-loses-3k-again-how-low-can-eth-price-go-in-february/)**
 
-ETF buying, staking and corporate holdings continue to reduce liquid ETH.
+Ether BITSTAMP:ETHUSD is now more than 14% below its local peak near $3,400, underscoring the sellers’ tenacity above $3,000. A bearish technical setup suggests the pressure may extend into February.Key takeaways: Ether in textbook symmetrical triangle breakdownOn Thursday, ETH fell about 2.85% to…
 
-thedefiant.io • 15h ago
+TradingView • 2d ago
 
 ---
 
@@ -222,9 +222,11 @@ The Motley Fool • 1d ago
 
 ---
 
-**[Large cryptocurrencies fall as Ethereum declines](https://www.marketwatch.com/data-news/large-cryptocurrencies-fall-as-ethereum-declines-c598ddad-53877588d480?gaa_at=eafs&gaa_n=AWEtsqfLh8qqV2DlIomnbTp_veGu4eWOqKkzrP-yyEOlpAJ73e-oVCJjjG7A&gaa_ts=697de949&gaa_sig=nBO4TCJkCSCoKH-hS2mh4j5z9a0WmEftJnrL9-h_MciLgREEp7D_fXl7M7kbSzDAEJQ2mRe19xKkkcR5-MrQQg%3D%3D)**
+**[Ethereum Supply Tightens With 45% of ETH Locked: Sygnum](https://thedefiant.io/news/research-and-opinion/ethereum-supply-tightens-with-45-of-eth-locked-sygnum)**
 
-MarketWatch • 20h ago
+ETF buying, staking and corporate holdings continue to reduce liquid ETH.
+
+thedefiant.io • 16h ago
 
 ---
 
@@ -248,7 +250,7 @@ BITCOIN & ALTCOIN CRASH: EMERGENCY UPDATE (New Trade)!!! - Bitcoin News Today, E
 
 📺 Crypto World
 
-👁️ 8K • 👍 298 • 💬 79 • ⏱️ 22:15 • 16h ago
+👁️ 8K • 👍 298 • 💬 79 • ⏱️ 22:15 • 18h ago
 
 ---
 
@@ -278,7 +280,7 @@ This video provides a professional Elliott Wave and technical analysis of Ethere
 
 📺 More Crypto Online
 
-👁️ 2K • 👍 136 • 💬 9 • ⏱️ 4:32 • 22h ago
+👁️ 2K • 👍 136 • 💬 9 • ⏱️ 4:32 • 23h ago
 
 ---
 
@@ -298,7 +300,7 @@ TrumpCrypto2026 #DigitalAssets #TrumpAnnouncement Welcome to the Trump Crypto Fo
 
 📺 Sportfm
 
-👁️ 6K • 👍 904 • 11h ago
+👁️ 6K • 👍 904 • 12h ago
 
 ---
 
@@ -318,7 +320,7 @@ Gold is absorbing sovereign capital while Bitcoin struggles — and that's exact
 
 📺 Savvy Finance
 
-👁️ 7K • 👍 327 • 💬 27 • ⏱️ 19:18 • 13h ago
+👁️ 7K • 👍 327 • 💬 27 • ⏱️ 19:18 • 14h ago
 
 ---
 

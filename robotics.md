@@ -3,7 +3,7 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-01-31T11:44:07.198928+00:00'
+updated: '2026-01-31T12:51:17.708723+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
@@ -17,7 +17,7 @@ data_types:
 
 Robotics research and industry news
 
-**Last Updated:** January 31, 2026 at 11:44 UTC  
+**Last Updated:** January 31, 2026 at 12:51 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -36,13 +36,29 @@ Robotics research and industry news
 
 From: CyberRobo on 𝕏: https://x.com/CyberRobooo/status/2017544750694551618 RoboHub🤖 on 𝕏 (images): https://x.com/XRoboHub/status/2017541654173851909
 
-1h ago
+2h ago
 
 ---
 
 **[Probably the world's best beer delivery robot :-)](https://www.reddit.com/r/robotics/comments/1qryd3l/probably_the_worlds_best_beer_delivery_robot/)**
 
 It was good, old Boxie 1. Now, there is Boxie 2: stronger, better, more capable ... but it is shy to deliver the beer :-)
+
+2h ago
+
+---
+
+**[Pib-Roboter im Selbstbau.](https://www.reddit.com/r/robotics/comments/1qs0vjp/pibroboter_im_selbstbau/)**
+
+Fast fertiggestellt. Nur noch die Servo Bricks mit Strom versorgen. Dann kann der erste Test starten. #insento Pib.rocks Einige hundert Stunden hat der 3D-Drucker gedruckt. Etwa 150 Teile. Dazu hunderte Schrauben und Muttern, Kugellager. MEhr als 20 Servomotoren, Raspi, Monitor, 360 Grad Mikroarray, Kamera mit Objekterkennung. Und viele Arbeitsstunden - ich bin mal gespannt, ob dann alles funktioniert.
+
+34m ago
+
+---
+
+**[Using low-cost Android smartphones as embedded telematics gateways on forklifts – sane or bad idea?](https://www.reddit.com/r/robotics/comments/1qs047w/using_lowcost_android_smartphones_as_embedded/)**
+
+I’m working on an industrial telematics system for a client who operates a fleet of electric forklifts . The proposed architecture is to mount a low-cost Android smartphone permanently on each forklift . Role of the Android phone: - Acts as the edge gateway - 4G connectivity to cloud - GPS positioning and speed estimation - Shock detection using accelerometer - Inclination (pitch/roll) using sensors - Driver identification using front camera (event-based face recognition) - Bluetooth (BLE) communication with an ESP32 that handles CAN bus + battery/current sensors Hardware constraints: - Low-end Android phones (≈3–4 GB RAM, quad-core CPU) - Continuous charging from forklift 24V - Industrial vibration environment - Android 11–14 range This is for a real client, not a hobby project. My questions to engineers who’ve done industrial / Android-at-the-edge systems: Is this architecture considered reasonable in production, or a maintenance nightmare long-term? What are the biggest failure modes you’ve seen when using Android phones as embedded gateways? Would you strongly recommend replacing the phone with a dedicated telematics box instead? Any hard lessons around Android background limits, BLE reliability, or sensor accuracy in vehicles? If you’ve shipped something similar, what would you do differently today? I’m intentionally not relying on OEM forklift firmware to keep the system brand-agnostic. Looking for honest, experience-based feedback positive or negative.
 
 1h ago
 
@@ -52,7 +68,7 @@ It was good, old Boxie 1. Now, there is Boxie 2: stronger, better, more capable 
 
 Wanted to share something we been working on for the past couple weeks. https://reddit.com/link/1qruali/video/kh9n7a6vhmgg1/player We built a 6-axis robotic arm using an Arduino UNO and some 3D printed parts. It has base rotation, shoulder, elbow, wrist movements and a gripper - so it basically moves like a tiny human arm. And we also made a simple web dashboard to control it with sliders, so we can record movements and play them back. https://preview.redd.it/9lajowfagmgg1.jpg?width=750&format=pjpg&auto=webp&s=eccc351d281c69f352ea552dde0b14c9a89df919 Ran into the usual beginner issues - jittery servos from low power, servos moving the wrong direction because I didn't align the horns properly, so on. But we learn a lot from this project 3D printing to fitting the parts to calibration. This simple Arduino Robotic Arm designed for pick-and-place tasks but right now it's just picking up my desk clutter and putting it back down in the same spot. Anyone else built something similar? Would love to hear what you used in your build or any tips for improvements are welcome.
 
-5h ago
+6h ago
 
 ---
 
@@ -60,7 +76,15 @@ Wanted to share something we been working on for the past couple weeks. https://
 
 Hi everyone! I just picked up this Rethink Robotics Sawyer for $300. But it is incomplete, missing the last two joints and, more importantly, the controller unit. I'm investigating building my own controller and wanted to see if anyone here has experience with this? The biggest question I have right now is what the voltage is. I'm guessing 48V, but don't know that for sure. I'll probably also have tons of other questions as a move forward, so hoping that someone here will know something about these!
 
-10h ago
+11h ago
+
+---
+
+**[ICRA 2026 Acceptance Notification](https://www.reddit.com/r/robotics/comments/1qs19lr/icra_2026_acceptance_notification/)**
+
+Has anyone already received a notification for their ICRA 2026 submission? As of January 31, 4 AM PST, my paper status is still “Decision Pending” rather than “Undisclosed.” Is this normal, or should it have updated by now?
+
+14m ago
 
 ---
 
@@ -68,7 +92,7 @@ Hi everyone! I just picked up this Rethink Robotics Sawyer for $300. But it is i
 
 I’m building a humanoid robot from scratch and this is how it looks so far. The hand is finished, and i’m currently working on the torso.
 
-21h ago
+22h ago
 
 ---
 
@@ -88,31 +112,17 @@ Ant Group released LingBot-VA, a VLA built on a different premise than most curr
 
 ---
 
-**[F.02 Contributed to the Production of 30,000 Cars at BMW](https://www.reddit.com/r/robotics/comments/1qr0bbn/f02_contributed_to_the_production_of_30000_cars/)**
-
-Figure AI has released the final data from their 11-month deployment at BMW's Spartanburg plant. The 'Figure 02' humanoid robots worked 10-hour shifts, Monday to Friday, contributing to the production of over 30,000 BMW X3s. They loaded 90,000+ sheet metal parts with a <5mm tolerance, logging over 200 miles of walking. With Figure 02 now retiring, these lessons are being rolled into the new Figure 03.
-
-🔗 [FigureAI](https://www.figure.ai/news/production-at-bmw) • 1d ago
-
----
-
-**[We trained the yolo model with custom data set to detect head from top view.this needs to reply on bus to count passenger count.it deployed on pi4 with 8gb and data is trained on 25k images](https://www.reddit.com/r/robotics/comments/1qqtoa0/we_trained_the_yolo_model_with_custom_data_set_to/)**
-
-1d ago
-
----
-
-**[ROS News for the Week of January 25th, 2026](https://www.reddit.com/r/robotics/comments/1qri16a/ros_news_for_the_week_of_january_25th_2026/)**
-
-ROS News for the Week of January 25th, 2026                We have a ton of ROS and open source robotics events schedule for February and the tail end of January. This weekend is  FOSDEM which includes a new Robot Dev Room. Full list below in the events section.  Unrelated: Discourse released a new carousel feature for image grids. Learn more here.      This week @tnajjar merged a very nice UX upgrade for the ROS CLI: fuzzy finding! Now you can just type any part of a command string and see ever...
-
-🔗 [Open Robotics Discourse](https://discourse.openrobotics.org/t/ros-news-for-the-week-of-january-25th-2026/52232) • 14h ago
-
----
-
 ---
 
 ## Google News: "robotics"
+
+**[Lake Stevens robotics team receives world recognition](https://www.heraldnet.com/news/lake-stevens-robotics-team-receives-world-recognition/)**
+
+Team Arsenic took second place at the recent ROBO-BASH in Bellingham, earning fifth place in the world.
+
+Everett Herald • 1d ago
+
+---
 
 **[Tesla lurches into the Musk robotics era](https://www.ft.com/content/6a6cfa00-6f51-4abc-bd68-1738580bd2c5)**
 
@@ -138,17 +148,9 @@ Yahoo Finance • 1d ago
 
 ---
 
-**[Lake Stevens robotics team receives world recognition](https://www.heraldnet.com/news/lake-stevens-robotics-team-receives-world-recognition/)**
-
-Team Arsenic took second place at the recent ROBO-BASH in Bellingham, earning fifth place in the world.
-
-Everett Herald • 1d ago
-
----
-
 **[Lightspeed Backs Robotics Startup in $100 Million Round](https://www.bloomberg.com/news/articles/2026-01-29/fiat-toyota-tycoons-back-startup-robco-in-100-million-round)**
 
-Bloomberg • 1d ago
+Bloomberg.com • 1d ago
 
 ---
 
@@ -170,7 +172,7 @@ Ondas Holdings • 2d ago
 
 Humanoid robots are set to soak up a whopping 75 GWh of solid-state battery capacity between now and 2035 – nearly 1500x growth!
 
-Electrek • 11h ago
+Electrek • 12h ago
 
 ---
 
@@ -182,11 +184,11 @@ Sky News • 2d ago
 
 ---
 
-**[Tesla cuts car models in shift to robots and AI](https://www.bbc.com/news/articles/c620177qdg5o)**
+**[New York Robotics launches with 160 startups in its ecosystem](https://www.therobotreport.com/new-york-robotics-launches-160-startups-ecosystem/)**
 
-Multi-billionaire Elon Musk also announced plans to end production of its Model S and Model X vehicles.
+New York Robotics is launching with over 80 industry partners, 20 academic partners, 40 robotics labs, and over 300 venture capital partners.
 
-BBC • 2d ago
+The Robot Report • 21h ago
 
 ---
 
@@ -200,7 +202,7 @@ Humanoid robotics just took a massive leap into the real world. Researchers in C
 
 📺 AI Revolution
 
-👁️ 21K • 👍 519 • 💬 54 • ⏱️ 14:25 • 12h ago
+👁️ 21K • 👍 519 • 💬 54 • ⏱️ 14:25 • 13h ago
 
 ---
 
@@ -260,7 +262,7 @@ ObstacleAvoidance #ArduinoRobot #Robotics #TechReels #DIYProjects.
 
 📺 Roboarmy
 
-👁️ 4K • 👍 99 • 💬 1 • ⏱️ 0:20 • 18h ago
+👁️ 4K • 👍 99 • 💬 1 • ⏱️ 0:20 • 19h ago
 
 ---
 
