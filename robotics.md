@@ -3,7 +3,7 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-01-31T22:49:31.132535+00:00'
+updated: '2026-01-31T23:24:03.275990+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
@@ -17,7 +17,7 @@ data_types:
 
 Robotics research and industry news
 
-**Last Updated:** January 31, 2026 at 22:49 UTC  
+**Last Updated:** January 31, 2026 at 23:24 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -44,7 +44,7 @@ From: CyberRobo on 𝕏: https://x.com/CyberRobooo/status/2017544750694551618 Ro
 
 Hi, I’m working on a repurposed electric wheelchair chassis (>100 kg, high-torque DC motors). Current test setup (yes, I know it’s not safe): • 2 DC motors • Sabertooth 2x32 • 24 V battery pack (2×12 V AGM) • Batteries connected directly to the Sabertooth • Motors connected directly to the Sabertooth • Control is classic RC (throttle + steering) • Motors have normally-closed electromagnetic brakes, but they are not wired yet (mechanically released) Right now: • As soon as I connect the batteries, the controller is powered • There is no real kill switch • The only way to stop everything is unplugging battery connectors • If something goes wrong, the platform could move uncontrollably I’m fully aware this is not acceptable, which is why I’m posting. My goal is to make this safe in as many realistic failure scenarios as possible: • If the main battery disconnects on a slope, the system should default to a safe state (this is where normally-closed electromagnetic brakes make sense). • If RC glitches, is lost, or a microcontroller crashes, the platform must not run away. • Whatever fails (RC, MCU, software, power), there should always be a solid hardware-level barrier preventing uncontrolled motion. I’m planning a hardware upgrade soon: • proper E-STOP / kill switch • DC contactors • wiring the electromagnetic brakes • and adding some kind of MCU in the control chain (ESP32 is the obvious option for me, but Raspberry Pi / onboard computer is also possible) The Sabertooth will remain only the motor power controller. The open question for me is the architecture: whether it’s better to keep “safety/control” and “robotics/autonomy” separated (for example one small MCU for safety + another board for higher-level stuff), or if people commonly keep everything on one controller. What I’m looking for is very practical advice: • How to design a solid anti-runaway architecture for this kind of platform • Where to physically cut power to make the system safe (battery side vs motor lines) • What type of DC contactors is typically used for high-torque DC motors (ratings, poles, inductive loads) • How normally-closed electromagnetic brakes are usually wired in a fail-safe way • How people typically split responsibilities between hardware safety, motor controller config, and a microcontroller (one vs two controllers, etc.) I’m not chasing theory or certifications. I want proven, practical solutions that people actually use to make platforms like this safe to power on. Thanks.
 
-5h ago
+6h ago
 
 ---
 
@@ -60,7 +60,7 @@ The real meat and potatoes: I made this as a modular brain for my other robots I
 
 Day:30 1- Base body and MCU from Sunfounder 2-Built over raspberry pi5 and powered by OpenAI 3- Connected to N8N for tooling like web search., scraping etc Let me know your thoughts 😊
 
-3h ago
+4h ago
 
 ---
 
@@ -84,7 +84,7 @@ I just received the news that my ICRA submission was rejected. Which is fine. I 
 
 Fast fertiggestellt. Nur noch die Servo Bricks mit Strom versorgen. Dann kann der erste Test starten. #insento Pib.rocks Einige hundert Stunden hat der 3D-Drucker gedruckt. Etwa 150 Teile. Dazu hunderte Schrauben und Muttern, Kugellager. MEhr als 20 Servomotoren, Raspi, Monitor, 360 Grad Mikroarray, Kamera mit Objekterkennung. Und viele Arbeitsstunden - ich bin mal gespannt, ob dann alles funktioniert.
 
-10h ago
+11h ago
 
 ---
 
@@ -92,7 +92,7 @@ Fast fertiggestellt. Nur noch die Servo Bricks mit Strom versorgen. Dann kann de
 
 It was good, old Boxie 1. Now, there is Boxie 2: stronger, better, more capable ... but it is shy to deliver the beer :-)
 
-12h ago
+13h ago
 
 ---
 
@@ -194,23 +194,23 @@ AgFunderNews • 1d ago
 
 ## YouTube Videos: "robotics"
 
-**[China’s New Shape Shifting AI Robot Walks on Water, Flies and Swims](https://www.youtube.com/watch?v=nLKj1gvJzWI)**
-
-Humanoid robotics just took a massive leap into the real world. Researchers in China revealed GrowHR, a soft shape shifting ...
-
-📺 AI Revolution
-
-👁️ 46K • 👍 768 • 💬 126 • ⏱️ 14:25 • 23h ago
-
----
-
 **[XPENG IRON Humanoid Robot Stuns Public With First Real World Appearance](https://www.youtube.com/watch?v=StiJLVlXY4o)**
 
 XPENG just took a massive step forward in humanoid robotics. The New IRON robot has officially made its first public appearance, ...
 
 📺 DPCcars
 
-👁️ 74 • 👍 7 • 💬 1 • ⏱️ 1:21 • 2h ago
+👁️ 475 • 👍 19 • 💬 2 • ⏱️ 1:21 • 3h ago
+
+---
+
+**[China’s New Shape Shifting AI Robot Walks on Water, Flies and Swims](https://www.youtube.com/watch?v=nLKj1gvJzWI)**
+
+Humanoid robotics just took a massive leap into the real world. Researchers in China revealed GrowHR, a soft shape shifting ...
+
+📺 AI Revolution
+
+👁️ 53K • 👍 828 • 💬 156 • ⏱️ 14:25 • 23h ago
 
 ---
 
@@ -220,7 +220,27 @@ China is deploying AI-powered robots to manage traffic and pedestrian flow in ci
 
 📺 NBC News
 
-👁️ 419K • 👍 4K • 💬 2K • ⏱️ 3:13 • 1d ago
+👁️ 471K • 👍 5K • 💬 2K • ⏱️ 3:13 • 1d ago
+
+---
+
+**[SaaS is over… Why you should build a robotics company in 2026](https://www.youtube.com/watch?v=FqfTQFuSalY)**
+
+2026 will be the year of robotics. We're in an Will Smith spaghetti moment. Remember how AI-generated video looked horrific two ...
+
+📺 Andreas Klinger ⅹ Europe's Most Ambitious Startups
+
+👁️ 27K • 👍 2K • 💬 205 • ⏱️ 16:46 • 5d ago
+
+---
+
+**[Elon Musk: Why AI and Robotics are the End of Money](https://www.youtube.com/watch?v=YOyXh6b3D9c)**
+
+Is money a permanent fixture of humanity, or just a temporary tool for labor allocation? Elon Musk explains why the rise of AI and ...
+
+📺 SpaceTakers
+
+👁️ 15K • 👍 561 • 💬 24 • ⏱️ 0:59 • 3d ago
 
 ---
 
@@ -230,17 +250,17 @@ Last year, Helix showed that a single neural network could control a humanoid's 
 
 📺 Figure
 
-👁️ 207K • 👍 12K • 💬 2K • ⏱️ 3:37 • 4d ago
+👁️ 209K • 👍 12K • 💬 2K • ⏱️ 3:37 • 4d ago
 
 ---
 
-**[No, Elon, we DON&#39;T need HUMANOID robots | MGUY Australia](https://www.youtube.com/watch?v=GOjQYeF0OTI)**
+**[Elon Musk Repairs High-Tech Robotic 🕵️ Wings on Female 💲Android in Futuristic 🧪 Ai-concept.](https://www.youtube.com/watch?v=qBIpFr_d3Vg)**
 
-The Cybertruck, autonomous driving and now the mad Optimus humanoid robot - three of Elon's mad inventions that the world ...
+RoboticWings #FuturisticLab #Android #SciFi #Robotics #AIArt #Cyberpunk #HighTech #ArtificialIntelligence #TeslaBot ...
 
-📺 MGUY Australia
+📺 AITECHGADGETS
 
-👁️ 17K • 👍 2K • 💬 855 • ⏱️ 8:11 • 1d ago
+👁️ 289K • 💬 153 • ⏱️ 0:18 • 5d ago
 
 ---
 
@@ -250,7 +270,17 @@ We are honored to celebrate an important milestone at Future Robot Lab. This vid
 
 📺 Future Robot Lab
 
-👁️ 21K • 👍 256 • 💬 41 • ⏱️ 9:38 • 5d ago
+👁️ 21K • 👍 257 • 💬 41 • ⏱️ 9:38 • 5d ago
+
+---
+
+**[No, Elon, we DON&#39;T need HUMANOID robots | MGUY Australia](https://www.youtube.com/watch?v=GOjQYeF0OTI)**
+
+The Cybertruck, autonomous driving and now the mad Optimus humanoid robot - three of Elon's mad inventions that the world ...
+
+📺 MGUY Australia
+
+👁️ 17K • 👍 2K • 💬 863 • ⏱️ 8:11 • 1d ago
 
 ---
 
@@ -260,37 +290,7 @@ Andrea Nakano reports on the Tesla Fremont factory ending Model S/X production a
 
 📺 KPIX | CBS NEWS BAY AREA
 
-👁️ 62K • 👍 540 • 💬 324 • ⏱️ 4:36 • 2d ago
-
----
-
-**[Robot That Grows Through Rubble To Find Survivors 🤖 #rescue #robotics #shorts](https://www.youtube.com/watch?v=haGH86W_f5A)**
-
-The Growing Robot That Enters Collapsed Buildings Before Humans Do When disaster strikes and buildings collapse, reaching ...
-
-📺 EcoZora
-
-👁️ 366K • 👍 2K • 💬 152 • ⏱️ 0:07 • 5d ago
-
----
-
-**[Tesla CEO Elon Musk doubles down on robots](https://www.youtube.com/watch?v=B78RNAlYXLA)**
-
-Tesla's fourth quarter earnings topped analyst estimates. CEO Elon Musk is betting big on robotics and AI with plans to spend $20 ...
-
-📺 Yahoo Finance
-
-👁️ 13K • 👍 174 • 💬 47 • ⏱️ 12:20 • 1d ago
-
----
-
-**[Humanoid Robots Are Coming. They Could Wipe Out This Entire Town](https://www.youtube.com/watch?v=6BJ0XbXOJcs)**
-
-Hyundai is planning to place 30000 humanoid robots in its factories. We talked to an anonymous Hyundai worker who says his ...
-
-📺 More Perfect Union
-
-👁️ 190K • 👍 16K • 💬 2K • ⏱️ 2:59 • 4d ago
+👁️ 63K • 👍 545 • 💬 327 • ⏱️ 4:36 • 2d ago
 
 ---
 

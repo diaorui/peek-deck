@@ -3,14 +3,14 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-01-31T22:49:31.129318+00:00'
+updated: '2026-01-31T23:24:03.272782+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
 - news
-- videos
 - social
+- videos
 - cryptocurrency
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** January 31, 2026 at 22:49 UTC  
+**Last Updated:** January 31, 2026 at 23:24 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -52,17 +52,17 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Market Stats
 
-**Market Cap:** $286.20B
+**Market Cap:** $293.73B
 Rank #2
 
 **Circulating Supply:** 120,694,153 ETH
 No max supply
 
 **All-Time High:** $4,946.05
--52.1%
+-50.6%
 
 **All-Time Low:** $0.43
-+547497.0%
++564035.9%
 
 ---
 
@@ -72,7 +72,7 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-16h ago
+17h ago
 
 ---
 
@@ -88,13 +88,13 @@ Honeypot tokens are killing Ethereum's reputation. People get rugged, blame "Eth
 
 World News, Stories By EtherWorld, Technical Explainers, Client News & Updates, Podcasts, Upcoming Events & Jobs
 
-🔗 [EtherWorld.co](https://etherworld.co/etherworld-weekly-edition-349/) • 8h ago
+🔗 [EtherWorld.co](https://etherworld.co/etherworld-weekly-edition-349/) • 9h ago
 
 ---
 
 **[Listening to Polymarket trades in real-time (open source, no third party)](https://www.reddit.com/r/ethereum/comments/1qs3l8c/listening_to_polymarket_trades_in_realtime_open/)**
 
-8h ago
+9h ago
 
 ---
 
@@ -134,7 +134,7 @@ Hello Folks, I just published a smart contract to handle crypto inheritance 100%
 
 Watch before one bug costs you everything. https://x.com/SolidityScan/status/2017172006056390715?s=20
 
-15h ago
+16h ago
 
 ---
 
@@ -184,7 +184,7 @@ thedefiant.io • 1d ago
 
 Ethereum Falls 10% In Selloff
 
-Investing.com • 5h ago
+Investing.com • 6h ago
 
 ---
 
@@ -232,73 +232,13 @@ The Block • 2d ago
 
 ## YouTube Videos: "ethereum"
 
-**[When Will Stop The Crash? 💀 ETH Crypto Token Analysis](https://www.youtube.com/watch?v=LUAphGQ2Yls)**
+**[BITCOIN CRASH: PRICE TARGETS HIT (this is next)!!!! - Bitcoin News Today, Ethereum &amp; Altcoins](https://www.youtube.com/watch?v=8mqEKXWHZOE)**
 
-Join Premium: https://the-bitcoin-strategy.com My Chart Software: https://the-bitcoin-strategy.com/tradingview My Hardware Wallet: ...
-
-📺 Gerhard - Bitcoin Strategy
-
-👁️ 5K • 👍 130 • 💬 49 • ⏱️ 7:13 • 13h ago
-
----
-
-**[WHY Cardano and Ethereum crypto coins are about to EXPLODE!!](https://www.youtube.com/watch?v=rFHVIvMYiiQ)**
-
-Cardano and Ethereum holders... GET READY!! ✓ Bitunix (no kyc, $10000 bonus): https://www.bitunix.com/register?
-
-📺 Altcoin Daily
-
-👁️ 48K • 👍 3K • 💬 290 • ⏱️ 8:35 • 2d ago
-
----
-
-**[ETHEREUM DUMP UPDATE🚨 (Ethereum Price Prediction 2026)](https://www.youtube.com/watch?v=zsuQzm_EUqc)**
-
-ETHEREUM ETH PRICE PREDICTION 2026 Join the Premium Signal Group for trade setups, mentorship & a community ...
-
-📺 Cilinix Crypto
-
-👁️ 880 • 👍 19 • 💬 8 • ⏱️ 4:35 • 12h ago
-
----
-
-**[Ethereum vs Bitcoin: The Trade Everyone Is Missing in 2026 w/ Kyle Reidhead &amp; John Gillen](https://www.youtube.com/watch?v=wIsd5_VNgbs)**
-
-Go PRO and become a better investor: ...
-
-📺 Milk Road
-
-👁️ 1K • 👍 64 • 💬 36 • ⏱️ 12:13 • 10h ago
-
----
-
-**[🚨 BTC &amp; ETH: SELL ALL BITCOIN AND QUIT CRYPTO!!!!!!!!!](https://www.youtube.com/watch?v=Js9TFiiwSBk)**
-
-The situation is getting worse and worse for crypto. Here are facts and my take on whether its time to sell all bitcoin and just quit!
-
-📺 Thomas Kralow
-
-👁️ 58K • 👍 3K • 💬 178 • ⏱️ 13:43 • 2d ago
-
----
-
-**[Ethereum Elliott Wave Update – Key Resistance Levels Ahead](https://www.youtube.com/watch?v=soWYVsa4xZc)**
-
-This video provides a professional Elliott Wave and technical analysis of Ethereum (ETH), focusing on market structure, major ...
-
-📺 More Crypto Online
-
-👁️ 3K • 👍 143 • 💬 8 • ⏱️ 4:18 • 8h ago
-
----
-
-**[BITCOIN &amp; ALTCOIN CRASH: History Repeating (Warning)!!! - Bitcoin News Today, Ethereum &amp; Altcoins](https://www.youtube.com/watch?v=GnJpG3iiDxY)**
-
-BITCOIN & ALTCOIN CRASH: History Repeating (Warning)!!! - Bitcoin News Today, Ethereum & Altcoins *Toobit* ...
+BITCOIN CRASH: PRICE TARGETS HIT (this is next)!!!! - Bitcoin News Today, Ethereum & Altcoins *Toobit* ...
 
 📺 Crypto World
 
-👁️ 13K • 👍 391 • 💬 190 • ⏱️ 25:22 • 2d ago
+👁️ 4K • 👍 284 • 💬 195 • ⏱️ 27:07 • 2h ago
 
 ---
 
@@ -308,27 +248,87 @@ My FREE Daily On-Chain Analysis & Crypto News In 5-Mins: https://www.cryptonutsh
 
 📺 Jamie Tree 
 
-👁️ 1K • 👍 47 • 💬 155 • ⏱️ 18:25 • 7h ago
+👁️ 2K • 👍 58 • 💬 117 • ⏱️ 18:25 • 8h ago
 
 ---
 
-**[BITCOIN &amp; ALTCOIN CRASH: EMERGENCY UPDATE (New Trade)!!! - Bitcoin News Today, Ethereum &amp; Altcoins](https://www.youtube.com/watch?v=_kPvKrJSvxo)**
+**[Why Bitcoin, ETH &amp; Altcoins Are CRASHING HARD](https://www.youtube.com/watch?v=-rrpLsrAr9Q)**
 
-BITCOIN & ALTCOIN CRASH: EMERGENCY UPDATE (New Trade)!!! - Bitcoin News Today, Ethereum & Altcoins *Toobit* ...
+Nick Valdez looks at the latest market crash with the next level Bitcoin MUST hold for support! Join Our Trading Group Discord ...
 
-📺 Crypto World
+📺 Discover Crypto
 
-👁️ 11K • 👍 335 • 💬 280 • ⏱️ 22:15 • 1d ago
+👁️ 3K • 👍 292 • 💬 158 • ⏱️ 4:28 • 1h ago
 
 ---
 
-**[Ethereum Bear Market Isn’t Done Yet, Here’s Why](https://www.youtube.com/watch?v=aeyKBqHmaTY)**
+**[Ethereum Elliott Wave Update – Key Resistance Levels Ahead](https://www.youtube.com/watch?v=XFntGyzd46U)**
 
-Get $450 Off Our New AI Indicators: https://tradeconfidentportal.io/indicators/ New Members! Get 25% Off Your 1st Month: ...
+This video provides a professional Elliott Wave and technical analysis of Ethereum (ETH), focusing on market structure, major ...
 
-📺 Trade Confident
+📺 More Crypto Online
 
-👁️ 271 • 👍 12 • 💬 14 • ⏱️ 4:34 • 1d ago
+👁️ 2K • 👍 217 • 💬 21 • ⏱️ 4:54 • 3h ago
+
+---
+
+**[BITCOIN AND ETH: GOING LOWER RIGHT NOW!!!! SILVER COLLAPSES 40% 🚨🚨🚨🚨🚨🚨](https://www.youtube.com/watch?v=F3Cgt1tHjfI)**
+
+FREE TRAINING: https://www.bullmania.com EXCHANGES I USE (bybit, pionex): https://www.bullmania.com/partners My ...
+
+📺 Ivan on Tech
+
+👁️ 20K • 👍 1K • 💬 117 • ⏱️ 44:59 • 5h ago
+
+---
+
+**[Ethereum Elliott Wave Update – Key Resistance Levels Ahead](https://www.youtube.com/watch?v=soWYVsa4xZc)**
+
+This video provides a professional Elliott Wave and technical analysis of Ethereum (ETH), focusing on market structure, major ...
+
+📺 More Crypto Online
+
+👁️ 3K • 👍 145 • 💬 8 • ⏱️ 4:18 • 9h ago
+
+---
+
+**[Cathie Wood: “This Is WHEN The 2026 Bull Run Starts” [New Bitcoin &amp; Ethereum Prediction 2026]](https://www.youtube.com/watch?v=xsRdyWYOUJA)**
+
+Join UpTrade today - Your personal crypto broker: https://www.uptrade.au/ My FREE Daily 5-Min Crypto Newsletter: ...
+
+📺 Crypto Nutshell
+
+👁️ 9K • 👍 323 • 💬 106 • ⏱️ 16:36 • 8h ago
+
+---
+
+**[Ethereum vs Bitcoin: The Trade Everyone Is Missing in 2026 w/ Kyle Reidhead &amp; John Gillen](https://www.youtube.com/watch?v=wIsd5_VNgbs)**
+
+Go PRO and become a better investor: ...
+
+📺 Milk Road
+
+👁️ 2K • 👍 76 • 💬 54 • ⏱️ 12:13 • 11h ago
+
+---
+
+**[CRYPTO WARNING ⛔️ KNOW THIS TODAY! ‼️ XRP ETHEREUM BITCOIN](https://www.youtube.com/watch?v=5XfakzNwbjo)**
+
+1️⃣ *Join Moe's Discord Code 2026 save 50%* ➡https://www.patreon.com/stockmoe/membership 2️⃣ *Save Big on the ...
+
+📺 Crypto Moe
+
+👁️ 228 • 👍 44 • 💬 15 • ⏱️ 11:41 • 25m ago
+
+---
+
+**[When Will Stop The Crash? 💀 ETH Crypto Token Analysis](https://www.youtube.com/watch?v=LUAphGQ2Yls)**
+
+Join Premium: https://the-bitcoin-strategy.com My Chart Software: https://the-bitcoin-strategy.com/tradingview My Hardware Wallet: ...
+
+📺 Gerhard - Bitcoin Strategy
+
+👁️ 5K • 👍 138 • 💬 49 • ⏱️ 7:13 • 14h ago
 
 ---
 

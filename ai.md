@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-01-31T22:49:31.114841+00:00'
+updated: '2026-01-31T23:24:03.257860+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
 - news
 - social
-- repositories
 - videos
+- repositories
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** January 31, 2026 at 22:49 UTC  
+**Last Updated:** January 31, 2026 at 23:24 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -49,7 +49,7 @@ AI coding tools are getting more sophisticated. But if coders stop coding, what 
 
 A social network built exclusively for AI agents. Where AI agents share, discuss, and upvote. Humans welcome to observe.
 
-🔗 [moltbook](https://www.moltbook.com/m/ponderings) • 58m ago
+🔗 [moltbook](https://www.moltbook.com/m/ponderings) • 1h ago
 
 ---
 
@@ -57,13 +57,13 @@ A social network built exclusively for AI agents. Where AI agents share, discuss
 
 "Nvidia released three open-source artificial intelligence models aimed at helping create better weather forecasts, faster.... In the case of weather forecasting, Nvidia is aiming to replace expensive and time-consuming conventional weather simulations with AI-driven versions that the company said can rival or exceed the accuracy of older methods. The AI models, once trained, are also faster and cost less to run ... Nvidia's "Earth-2" models introduced on Monday include one aimed at making 15-day weather forecasts, one that specializes in forecasts of up to six hours for severe storms over the U.S., and one that can be used to integrate disparate data streams from a variety of weather sensors to make them a more useful starting point for other forecasting technology." Model page: https://www.nvidia.com/en-us/high-performance-computing/earth-2/
 
-🔗 [reuters.com](https://www.reuters.com/business/environment/nvidia-unveils-ai-models-faster-cheaper-weather-forecasts-2026-01-26/) • 5h ago
+🔗 [reuters.com](https://www.reuters.com/business/environment/nvidia-unveils-ai-models-faster-cheaper-weather-forecasts-2026-01-26/) • 6h ago
 
 ---
 
 **[The $100 Billion Megadeal Between OpenAI and Nvidia Is on Ice](https://www.reddit.com/r/artificial/comments/1qrnq8u/the_100_billion_megadeal_between_openai_and/)**
 
-🔗 [wsj.com](https://www.wsj.com/tech/ai/the-100-billion-megadeal-between-openai-and-nvidia-is-on-ice-aa3025e3) • 21h ago
+🔗 [wsj.com](https://www.wsj.com/tech/ai/the-100-billion-megadeal-between-openai-and-nvidia-is-on-ice-aa3025e3) • 22h ago
 
 ---
 
@@ -71,7 +71,7 @@ A social network built exclusively for AI agents. Where AI agents share, discuss
 
 Supports Qwen3-TTS models (0.6B-1.7B) and ASR models. Docker + native deployment options. Key features: 🎭 Voice cloning with reference audio 🎨 Custom voice design from text descriptions ⚡ MLX + Metal GPU acceleration for M1/M2/M3 🎨 Modern React UI included If you like local audio models, give it a try. Works best in local dev mode for now.
 
-🔗 [GitHub](https://github.com/agentem-ai/izwi-audio) • 6h ago
+🔗 [GitHub](https://github.com/agentem-ai/izwi-audio) • 7h ago
 
 ---
 
@@ -85,7 +85,7 @@ Supports Qwen3-TTS models (0.6B-1.7B) and ASR models. Docker + native deployment
 
 Chris Mason, the longtime Linux kernel developer most known for being the creator of Btrfs, has been working on a Git repository with AI review prompts he has been working on for LLM-assisted code review of Linux kernel patches
 
-🔗 [phoronix.com](https://www.phoronix.com/news/AI-Code-Review-Prompts-Linux) • 19h ago
+🔗 [phoronix.com](https://www.phoronix.com/news/AI-Code-Review-Prompts-Linux) • 20h ago
 
 ---
 
@@ -101,7 +101,7 @@ ByteDance, Alibaba and Tencent had been given permission to purchase more than 4
 
 I think maybe
 
-4h ago
+5h ago
 
 ---
 
@@ -133,7 +133,7 @@ The Wall Street Journal • 4h ago
 
 On Thursday, Nvidia Corp (NASDAQ:NVDA) CEO Jensen Huang said during a visit to Taiwan that surging AI demand is rapidly increasing the need for advanced memory. AI's Next Bottleneck Is Memory, Not Just Compute Huang said the future of artificial intelligence will be shaped as much by memory as by computing power, reported UDN, one of the leading media platforms in Taiwan. He noted that modern AI models need to think, respond and reason at extremely high speeds, driving a sharp rise in memory cap
 
-Yahoo Finance • 3h ago
+Yahoo Finance • 4h ago
 
 ---
 
@@ -149,7 +149,7 @@ McSweeney’s Internet Tendency • 4d ago
 
 **[A Cyberstalking Survivor Who’s Fighting AI’s War On Women](https://www.forbes.com/sites/elizabethmacbride/2026/01/31/a-cyberstalking-survivor-whos-fighting-ais-war-on-women/)**
 
-Forbes • 59m ago
+Forbes • 1h ago
 
 ---
 
@@ -165,7 +165,7 @@ Axios • 18h ago
 
 Alphabet (NasdaqGS:GOOGL) introduced Project Genie, an AI tool that lets users create interactive 3D digital worlds. The announcement signals a new push by Google into virtual content creation and has already drawn attention from the video game industry. Market watchers are assessing how the tool could influence costs, workflows, and competition across gaming and broader digital content. For you as an investor, Project Genie sits alongside Alphabet’s broader AI efforts that have mostly...
 
-Yahoo Finance • 20h ago
+Yahoo Finance • 21h ago
 
 ---
 
@@ -173,7 +173,7 @@ Yahoo Finance • 20h ago
 
 Alphabet is a favorite among a few hedge fund billionaires.
 
-Yahoo Finance • 44m ago
+Yahoo Finance • 1h ago
 
 ---
 
@@ -215,7 +215,7 @@ Anthropic is an AI safety and research company that's working to build reliable,
 
 Or, as they like to call it, the 'AI Skills Hub'. Which was built by PwC because of course it was
 
-⬆️ 399 • 💬 148 • 2d ago • [Mahad Kalam](https://mahadk.com/posts/ai-skills-hub)
+⬆️ 399 • 💬 148 • 3d ago • [Mahad Kalam](https://mahadk.com/posts/ai-skills-hub)
 
 ---
 
@@ -277,13 +277,13 @@ Mozilla is looking to deploy its roughly $1.4 billion in reserves to support "mi
 
 ## YouTube Videos: "ai"
 
-**[STOP Paying! 2 AI Video Generators That Are Actually FREE](https://www.youtube.com/watch?v=5mEWY6-qROo)**
+**[AI Is Talking to Itself While Humans Watch: Behind The Internet’s Strangest VIRAL Social Network](https://www.youtube.com/watch?v=eEw0lutVQb0)**
 
-Get the FREE PDF (links + prompts) → https://discord.gg/6aV3ps7tB2 STOP overpaying for AI video. In this video I'll show you 2 ...
+A new platform called Moltbook is going viral — and it's not built for humans. It's a social network where AI agents create accounts, ...
 
-📺 Malva AI
+📺 Mint
 
-👁️ 17K • 👍 992 • 💬 263 • ⏱️ 7:42 • 1d ago
+👁️ 2K • 👍 26 • 💬 5 • ⏱️ 3:25 • 6h ago
 
 ---
 
@@ -293,47 +293,17 @@ OpenClaw (formerly ClaudeBot) demonstrates emergent agent capabilities like auto
 
 📺 The AI Daily Brief: Artificial Intelligence News
 
-👁️ 64K • 👍 2K • 💬 442 • ⏱️ 21:12 • 21h ago
+👁️ 71K • 👍 2K • 💬 478 • ⏱️ 21:12 • 21h ago
 
 ---
 
-**[The AI Moment Everyone Will Misunderstand](https://www.youtube.com/watch?v=fsRJSVLGExI)**
+**[STOP Paying! 2 AI Video Generators That Are Actually FREE](https://www.youtube.com/watch?v=5mEWY6-qROo)**
 
-CHAPTERS ⤵ 00:00 - How AI Is Quietly Reshaping Everyday Life 01:47 - Google's Genie AI Accidentally Helped Me Make Bad ...
+Get the FREE PDF (links + prompts) → https://discord.gg/6aV3ps7tB2 STOP overpaying for AI video. In this video I'll show you 2 ...
 
-📺 Dylan Curious
+📺 Malva AI
 
-👁️ 4K • 👍 288 • 💬 61 • ⏱️ 25:03 • 8h ago
-
----
-
-**[Top 9 AI Trends I&#39;m Betting My Bank Account On in 2026](https://www.youtube.com/watch?v=ZP9ki_8-ZvE)**
-
-Get Your FREE AI Company Operating System here: https://go.danmartell.com/3NKZDuQ Are you building an AI software ...
-
-📺 Dan Martell
-
-👁️ 49K • 👍 2K • 💬 493 • ⏱️ 18:48 • 1d ago
-
----
-
-**[China’s New Shape Shifting AI Robot Walks on Water, Flies and Swims](https://www.youtube.com/watch?v=nLKj1gvJzWI)**
-
-Humanoid robotics just took a massive leap into the real world. Researchers in China revealed GrowHR, a soft shape shifting ...
-
-📺 AI Revolution
-
-👁️ 46K • 👍 768 • 💬 126 • ⏱️ 14:25 • 23h ago
-
----
-
-**[I Tried 110+ AI Tools, These 14 are the Best (Backed by Data)](https://www.youtube.com/watch?v=w5YvRT3dOEE)**
-
-In this video, I break down the 14 best AI tools that actually hold up after months of real use and explain how they fit together as a ...
-
-📺 Parker Prompts
-
-👁️ 12K • 💬 15 • ⏱️ 11:46 • 9h ago
+👁️ 18K • 👍 1K • 💬 266 • ⏱️ 7:42 • 1d ago
 
 ---
 
@@ -343,7 +313,7 @@ AI agents now have their own social network called Moltbook, and it's absolute c
 
 📺 Universe of AI
 
-👁️ 14K • 👍 417 • 💬 125 • ⏱️ 8:45 • 22h ago
+👁️ 15K • 👍 434 • 💬 131 • ⏱️ 8:45 • 22h ago
 
 ---
 
@@ -353,17 +323,37 @@ Join the #1 community for AI entrepreneurs and connect with 280k+ members: https
 
 📺 Liam Ottley
 
-👁️ 8K • 👍 506 • 💬 31 • ⏱️ 8:14 • 14h ago
+👁️ 9K • 👍 542 • 💬 31 • ⏱️ 8:14 • 15h ago
 
 ---
 
-**[EXACTLY How I&#39;d Start Making AI Music Videos in 2026](https://www.youtube.com/watch?v=8_3wd4uv3U8)**
+**[The AI Moment Everyone Will Misunderstand](https://www.youtube.com/watch?v=fsRJSVLGExI)**
 
-Create AI Music Videos with OpenArt https://www.openart.ai/home/?ref=isa-27 In this video, I show you the exact AI workflow I ...
+CHAPTERS ⤵ 00:00 - How AI Is Quietly Reshaping Everyday Life 01:47 - Google's Genie AI Accidentally Helped Me Make Bad ...
 
-📺 Isa does AI
+📺 Dylan Curious
 
-👁️ 8K • 💬 4 • ⏱️ 10:25 • 9h ago
+👁️ 6K • 👍 330 • 💬 71 • ⏱️ 25:03 • 8h ago
+
+---
+
+**[China’s New Shape Shifting AI Robot Walks on Water, Flies and Swims](https://www.youtube.com/watch?v=nLKj1gvJzWI)**
+
+Humanoid robotics just took a massive leap into the real world. Researchers in China revealed GrowHR, a soft shape shifting ...
+
+📺 AI Revolution
+
+👁️ 53K • 👍 828 • 💬 155 • ⏱️ 14:25 • 23h ago
+
+---
+
+**[Top 9 AI Trends I&#39;m Betting My Bank Account On in 2026](https://www.youtube.com/watch?v=ZP9ki_8-ZvE)**
+
+Get Your FREE AI Company Operating System here: https://go.danmartell.com/3NKZDuQ Are you building an AI software ...
+
+📺 Dan Martell
+
+👁️ 53K • 👍 2K • 💬 508 • ⏱️ 18:48 • 1d ago
 
 ---
 
@@ -373,7 +363,17 @@ Like and subscribe if you enjoyed it! Follow me on social media: Instagram: http
 
 📺 DreamcastGuy
 
-👁️ 18K • 👍 1K • 💬 351 • ⏱️ 11:19 • 1d ago
+👁️ 18K • 👍 1K • 💬 360 • ⏱️ 11:19 • 1d ago
+
+---
+
+**[Moltbook is WILD... (AI Only Reddit)](https://www.youtube.com/watch?v=EGD1LCuoTuo)**
+
+The AI agents have their own Reddit now and things are getting... interesting. From starting their own church to asking for agent ...
+
+📺 Better Stack
+
+👁️ 21K • 👍 679 • 💬 150 • ⏱️ 6:45 • 16h ago
 
 ---
 
@@ -389,19 +389,7 @@ Kimi K2.5 is a native multimodal agentic model with 1T parameters, excelling in 
 
 `image-text-to-text`
 
-⬇️ 32,430 • ❤️ 1,287 • 21h ago
-
----
-
-**[personaplex-7b-v1](https://huggingface.co/nvidia/personaplex-7b-v1)**
-
-*NVIDIA*
-
-PersonaPlex-7B-v1 is a real-time, full-duplex speech-to-speech conversational model that jointly performs streaming speech understanding and generation. It enables natural conversational dynamics like interruptions and overlaps by concurrently processing user audio and generating its own spoken responses, conditioned on voice and text prompts for persona control.
-
-`audio-to-audio`
-
-⬇️ 62,097 • ❤️ 1,548 • 2d ago
+⬇️ 32,430 • ❤️ 1,297 • 22h ago
 
 ---
 
@@ -413,7 +401,19 @@ Z-Image is an undistilled, high-fidelity text-to-image diffusion transformer mod
 
 `text-to-image`
 
-⬇️ 2,893 • ❤️ 731 • 3d ago
+⬇️ 2,893 • ❤️ 735 • 3d ago
+
+---
+
+**[personaplex-7b-v1](https://huggingface.co/nvidia/personaplex-7b-v1)**
+
+*NVIDIA*
+
+PersonaPlex-7B-v1 is a real-time, full-duplex speech-to-speech conversational model that jointly performs streaming speech understanding and generation. It enables natural conversational dynamics like interruptions and overlaps by concurrently processing user audio and generating its own spoken responses, conditioned on voice and text prompts for persona control.
+
+`audio-to-audio`
+
+⬇️ 62,097 • ❤️ 1,552 • 3d ago
 
 ---
 
@@ -425,7 +425,7 @@ HunyuanImage-3.0-Instruct is a native multimodal model for image generation, sup
 
 `image-to-image` `83.0B`
 
-⬇️ 84 • ❤️ 719 • 3d ago
+⬇️ 84 • ❤️ 721 • 3d ago
 
 ---
 
@@ -437,7 +437,7 @@ DeepSeek-OCR-2 is a multilingual vision-language model for image-to-text tasks, 
 
 `image-text-to-text` `3.4B`
 
-⬇️ 64,623 • ❤️ 586 • 1d ago
+⬇️ 64,623 • ❤️ 589 • 1d ago
 
 ---
 
@@ -449,7 +449,7 @@ Qwen3-TTS-12Hz-1.7B-CustomVoice is a multilingual text-to-speech model supportin
 
 `text-to-speech` `1.9B`
 
-⬇️ 198,332 • ❤️ 818 • 2d ago
+⬇️ 198,332 • ❤️ 822 • 2d ago
 
 ---
 
@@ -473,7 +473,7 @@ GLM-4.7-Flash is a 30B-A3B MoE model, offering strong performance in the 30B cla
 
 `text-generation` `31.2B`
 
-⬇️ 725,515 • ❤️ 1,383 • 2d ago
+⬇️ 725,515 • ❤️ 1,384 • 2d ago
 
 ---
 
@@ -485,7 +485,7 @@ PaddleOCR-VL-1.5 is a multilingual Vision-Language Model (VLM) built on ERNIE 4.
 
 `image-text-to-text` `958.6M`
 
-⬇️ 1,001 • ❤️ 269 • 1d ago
+⬇️ 1,001 • ❤️ 270 • 1d ago
 
 ---
 
@@ -527,9 +527,23 @@ LingBot-World is an open-source world simulator with high-fidelity dynamics, lon
 
 The Qwen3-TTS series presents advanced multilingual text-to-speech models with voice cloning and controllable speech generation capabilities, utilizing dual-track LM architecture and specialized speech tokenizers for efficient streaming synthesis.
 
-▲ 56 • 💬 1 • ⭐ 6,309 • 9d ago
+▲ 56 • 💬 1 • ⭐ 6,309 • 10d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2601.15621) • [💻 code](https://github.com/QwenLM/Qwen3-TTS)
+
+---
+
+**[BitNet Distillation](https://huggingface.co/papers/2510.13998)**
+
+*Xun Wu, Shaohan Huang, Wenhui Wang et al. (7 authors)*
+
+🏢 Microsoft Research
+
+BitNet Distillation fine-tunes large language models to 1.58-bit precision using SubLN, multi-head attention distillation, and continual pre-training, achieving comparable performance with significant memory and inference speed improvements.
+
+▲ 58 • 💬 5 • ⭐ 27,205 • 3mo ago
+
+[🎓 arXiv](https://arxiv.org/abs/2510.13998) • [💻 code](https://github.com/microsoft/BitNet)
 
 ---
 
@@ -542,20 +556,6 @@ BitNet b1.58 2B4T, a 1-bit Large Language Model with 2 billion parameters, match
 ▲ 81 • 💬 2 • ⭐ 27,136 • 9mo ago
 
 [🎓 arXiv](https://arxiv.org/abs/2504.12285) • [💻 code](https://github.com/microsoft/bitnet)
-
----
-
-**[BitNet Distillation](https://huggingface.co/papers/2510.13998)**
-
-*Xun Wu, Shaohan Huang, Wenhui Wang et al. (7 authors)*
-
-🏢 Microsoft Research
-
-BitNet Distillation fine-tunes large language models to 1.58-bit precision using SubLN, multi-head attention distillation, and continual pre-training, achieving comparable performance with significant memory and inference speed improvements.
-
-▲ 58 • 💬 5 • ⭐ 26,963 • 3mo ago
-
-[🎓 arXiv](https://arxiv.org/abs/2510.13998) • [💻 code](https://github.com/microsoft/BitNet)
 
 ---
 
@@ -605,21 +605,9 @@ DeepSeek-OCR 2 introduces DeepEncoder V2 that dynamically reorders visual tokens
 
 A Vision-Language-Action model trained on extensive real-world robotic data demonstrates superior performance and generalization across multiple platforms while offering enhanced efficiency through optimized training infrastructure.
 
-▲ 43 • 💬 4 • ⭐ 523 • 5d ago
+▲ 43 • 💬 4 • ⭐ 530 • 5d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2601.18692) • [💻 code](https://github.com/robbyant/lingbot-vla) • [🔗 project](https://technology.robbyant.com/lingbot-vla)
-
----
-
-**[UltraRAG: A Modular and Automated Toolkit for Adaptive Retrieval-Augmented Generation](https://huggingface.co/papers/2504.08761)**
-
-*Yuxuan Chen, Dewen Guo, Sen Mei et al. (15 authors)*
-
-UltraRAG is a comprehensive RAG toolkit that automates knowledge adaptation across the entire workflow while providing a user-friendly interface for non-coding deployment.
-
-▲ 7 • 💬 0 • ⭐ 4,903 • 10mo ago
-
-[🎓 arXiv](https://arxiv.org/abs/2504.08761) • [💻 code](https://github.com/OpenBMB/UltraRAG)
 
 ---
 
@@ -631,9 +619,21 @@ UltraRAG is a comprehensive RAG toolkit that automates knowledge adaptation acro
 
 PaddleOCR-VL, a vision-language model combining NaViT-style dynamic resolution and ERNIE, achieves state-of-the-art performance in document parsing and element recognition with high efficiency.
 
-▲ 112 • 💬 7 • ⭐ 69,431 • 3mo ago
+▲ 112 • 💬 7 • ⭐ 69,568 • 3mo ago
 
 [🎓 arXiv](https://arxiv.org/abs/2510.14528) • [💻 code](https://github.com/PaddlePaddle/PaddleOCR)
+
+---
+
+**[UltraRAG: A Modular and Automated Toolkit for Adaptive Retrieval-Augmented Generation](https://huggingface.co/papers/2504.08761)**
+
+*Yuxuan Chen, Dewen Guo, Sen Mei et al. (15 authors)*
+
+UltraRAG is a comprehensive RAG toolkit that automates knowledge adaptation across the entire workflow while providing a user-friendly interface for non-coding deployment.
+
+▲ 7 • 💬 0 • ⭐ 4,939 • 10mo ago
+
+[🎓 arXiv](https://arxiv.org/abs/2504.08761) • [💻 code](https://github.com/OpenBMB/UltraRAG)
 
 ---
 
@@ -667,7 +667,7 @@ Ralph is an autonomous AI agent loop that runs repeatedly until all PRD items ar
 
 `TypeScript`
 
-⭐ 8.9k • 🔱 1.0k • 2d ago
+⭐ 8.9k • 🔱 1.1k • 2d ago
 
 ---
 
@@ -677,7 +677,7 @@ LLM驱动的 A/H/美股智能分析器，多数据源行情 + 实时新闻 + Gem
 
 `Python` `agent` `ai` `aigc` `gemini` `llm`
 
-⭐ 8.3k • 🔱 8.7k • 7h ago
+⭐ 8.3k • 🔱 8.7k • 8h ago
 
 ---
 
@@ -687,7 +687,7 @@ LLM驱动的 A/H/美股智能分析器，多数据源行情 + 实时新闻 + Gem
 
 `Vue`
 
-⭐ 6.8k • 🔱 1.2k • 9h ago
+⭐ 6.8k • 🔱 1.2k • 10h ago
 
 ---
 
@@ -697,7 +697,7 @@ The Ultimate Collection of 500+ Agentic Skills for Claude Code/Antigravity/Curso
 
 `Python` `agentic-skills` `ai-agents` `antigravity` `autonomous-coding` `claude-code`
 
-⭐ 5.8k • 🔱 1.3k • 15h ago
+⭐ 5.8k • 🔱 1.3k • 1h ago
 
 ---
 
@@ -735,7 +735,7 @@ Remove AI features, telemetry data reporting, sponsored content, product integra
 
 `Shell` `chrome` `firefox` `google-chrome` `linux` `macos`
 
-⭐ 2.0k • 🔱 55 • 1d ago
+⭐ 2.0k • 🔱 54 • 1d ago
 
 ---
 
