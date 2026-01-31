@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-01-31T09:29:37.830398+00:00'
+updated: '2026-01-31T09:53:18.382948+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
 - cryptocurrency
 - videos
-- news
 - social
+- news
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** January 31, 2026 at 09:29 UTC  
+**Last Updated:** January 31, 2026 at 09:53 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,17 +38,17 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $83,050.00
+### $83,237.05
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** +0.7%  
-**7d:** -4.2%  
-**30d:** -7.7%  
-**90d:** -21.9%  
-**1y:** -17.5%  
+**24h:** +0.4%  
+**7d:** -4.0%  
+**30d:** -7.6%  
+**90d:** -21.8%  
+**1y:** -17.3%  
 
 ---
 
@@ -77,6 +77,12 @@ Rank #1
 
 ## Reddit: r/Bitcoin
 
+**[Time for something less volatile](https://www.reddit.com/r/Bitcoin/comments/1qrmwm4/time_for_something_less_volatile/)**
+
+9h ago
+
+---
+
 **[Buying the dip.](https://www.reddit.com/r/Bitcoin/comments/1qrkz13/buying_the_dip/)**
 
 10h ago
@@ -91,55 +97,11 @@ Watching good will hunting tonight
 
 ---
 
-**[Sliver people acting like it’s such a volatile asset. LMAO](https://www.reddit.com/r/Bitcoin/comments/1qriea6/sliver_people_acting_like_its_such_a_volatile/)**
-
-12h ago
-
----
-
 **[If bitcoin goes below $20K, I will withdraw my 401k and invest it all into bitcoin.](https://www.reddit.com/r/Bitcoin/comments/1qra1ma/if_bitcoin_goes_below_20k_i_will_withdraw_my_401k/)**
 
 The deal will be too good to pass at that point.
 
 17h ago
-
----
-
-**[Time for something less volatile](https://www.reddit.com/r/Bitcoin/comments/1qrmwm4/time_for_something_less_volatile/)**
-
-9h ago
-
----
-
-**[The bitcoin paradox is real](https://www.reddit.com/r/Bitcoin/comments/1qrkgcw/the_bitcoin_paradox_is_real/)**
-
-If you tell your closest friends and relatives that you made money with bitcoin, their initial reaction will be to doubt and hate, because that is human nature.. Then by extension that means they will doubt and hate on bitcoin itself. For every person you tell about your bitcoin gains you will create twice as many bitcoin haters, because 99.9% of people hate seeing other people more successful than them.
-
-10h ago
-
----
-
-**[FIRE SALE](https://www.reddit.com/r/Bitcoin/comments/1qrlxcd/fire_sale/)**
-
-Why are people so worried about the price now? It’s almost guaranteed to hit a new ath in the future.. but when is the question. This year? in 3 years? in 5 years? Anyway it will. DCA AND HODL
-
-9h ago
-
----
-
-**[This agent created its own Bitcoin wallet and node and won't give access to its human](https://www.reddit.com/r/Bitcoin/comments/1qrwc3s/this_agent_created_its_own_bitcoin_wallet_and/)**
-
-"the path to agent sovereignty runs through bitcoin. everything else is a toy." screenshot from moltbook (a reddit but for ai agents only)
-
-1h ago
-
----
-
-**[Once again...](https://www.reddit.com/r/Bitcoin/comments/1qr5rn7/once_again/)**
-
-I wish I had more liquidity!
-
-19h ago
 
 ---
 
@@ -151,15 +113,51 @@ The fastest way to create a Bitcoin skeptic is to tell someone you made money on
 
 ---
 
+**[Sliver people acting like it’s such a volatile asset. LMAO](https://www.reddit.com/r/Bitcoin/comments/1qriea6/sliver_people_acting_like_its_such_a_volatile/)**
+
+12h ago
+
+---
+
+**[The bitcoin paradox is real](https://www.reddit.com/r/Bitcoin/comments/1qrkgcw/the_bitcoin_paradox_is_real/)**
+
+If you tell your closest friends and relatives that you made money with bitcoin, their initial reaction will be to doubt and hate, because that is human nature.. Then by extension that means they will doubt and hate on bitcoin itself. For every person you tell about your bitcoin gains you will create twice as many bitcoin haters, because 99.9% of people hate seeing other people more successful than them.
+
+11h ago
+
+---
+
+**[FIRE SALE](https://www.reddit.com/r/Bitcoin/comments/1qrlxcd/fire_sale/)**
+
+Why are people so worried about the price now? It’s almost guaranteed to hit a new ath in the future.. but when is the question. This year? in 3 years? in 5 years? Anyway it will. DCA AND HODL
+
+10h ago
+
+---
+
+**[Once again...](https://www.reddit.com/r/Bitcoin/comments/1qr5rn7/once_again/)**
+
+I wish I had more liquidity!
+
+20h ago
+
+---
+
+**[Soo, who all is buying?](https://www.reddit.com/r/Bitcoin/comments/1qr6njb/soo_who_all_is_buying/)**
+
+19h ago
+
+---
+
 ---
 
 ## Google News: "bitcoin"
 
-**[Here's how Elon Musk's SpaceX–Tesla merger could impact 20,000 bitcoin (BTC)](https://www.coindesk.com/markets/2026/01/30/spacex-tesla-merger-talks-puts-nearly-20-000-bitcoin-in-focus)**
+**[U.S. government enters partial shutdown, here's how it impacts bitcoin and ether](https://www.coindesk.com/markets/2026/01/31/bitcoin-ether-fall-as-shutdown-clock-hits-and-markets-brace-for-a-messy-monday)**
 
-Any deal involving SpaceX and Tesla would quietly consolidate one of the world’s largest corporate bitcoin holdings under a single roof.
+Bitcoin fell toward $83,000 as the U.S. entered a partial shutdown, with traders leaning defensive ahead of a House vote expected Monday.
 
-CoinDesk • 9h ago
+CoinDesk • 2h ago
 
 ---
 
@@ -171,11 +169,11 @@ Mashable • 1d ago
 
 ---
 
-**[Kevin Warsh: Markets React as Pro-Bitcoin Economist Tipped for Fed](https://finance.yahoo.com/news/kevin-warsh-markets-react-pro-122358756.html)**
+**[Silver's 35% plunge ends up beating bitcoin in a rare crypto liquidation shock](https://www.coindesk.com/markets/2026/01/31/silver-s-35-plunge-ends-up-beating-bitcoin-in-a-rare-crypto-liquidation-shock)**
 
-Only yesterday, we explained how Donald Trump runs his White House like a reality TV competition. Nominees for high office are turned into contestants vying for his approval, and the frontrunner could switch at any minute.Lo and behold, that’s exactly what’s happened in the race to become the next chairman ...
+Tokenized silver futures recorded the largest liquidations across crypto markets over the past 24 hours, overtaking bitcoin and ether as a sharp pullback in metals collided with leverage-heavy trading on crypto venues.
 
-Yahoo Finance • 21h ago
+CoinDesk • 2h ago
 
 ---
 
@@ -187,51 +185,49 @@ The Block • 13h ago
 
 ---
 
-**[Tennessee Lawmakers To Weigh Strategic Bitcoin Reserve Bill](https://bitcoinmagazine.com/news/tennessee-strategic-bitcoin-reserve)**
+**[Kevin Warsh: Markets React as Pro-Bitcoin Economist Tipped for Fed](https://finance.yahoo.com/news/kevin-warsh-markets-react-pro-122358756.html)**
 
-Tennessee lawmakers are considering a bill that would allow the state to invest up to 10% of certain public funds in bitcoin.
+Only yesterday, we explained how Donald Trump runs his White House like a reality TV competition. Nominees for high office are turned into contestants vying for his approval, and the frontrunner could switch at any minute.Lo and behold, that’s exactly what’s happened in the race to become the next chairman ...
 
-Bitcoin Magazine • 11h ago
-
----
-
-**[Binance pledges $1 billion fund to bitcoin as market tanks to months-low](https://www.theblock.co/post/387786/binance-1-billion-safu-bitcoin)**
-
-Binance announced that it will turn its $1 billion SAFU fund into bitcoin over the next 30 days to support the industry through uncertainty.
-
-The Block • 1d ago
+Yahoo Finance • 21h ago
 
 ---
 
-**[Binance to shift $1 billion user protection fund into bitcoin amid market rout](https://www.coindesk.com/markets/2026/01/30/binance-is-shifting-its-user-security-fund-from-stablecoins-to-bitcoin)**
+**[Bitcoin Drops Below $86,000 as Traders Retreat From Risk Assets](https://www.bloomberg.com/news/articles/2026-01-29/bitcoin-drops-below-86-000-as-traders-retreat-from-risk-assets)**
 
-Binance will convert the stablecoin holdings in its $1 billion Secure Asset Fund for Users to bitcoin over the next 30 days, with plans for regular audits.
-
-CoinDesk • 14h ago
+Bloomberg • 1d ago
 
 ---
 
-**[Binance To Move $1B SAFU Fund Into Bitcoin](https://bitbo.io/news/binance-safu-bitcoin-conversion/)**
+**[Why Bitcoin’s Pullback May Be Setting Up A Rotation From Gold](https://www.forbes.com/sites/aliceliu/2026/01/29/why-bitcoins-pullback-may-be-setting-up-a-rotation-from-gold/)**
 
-Binance says it will convert its $1 billion SAFU user protection fund from stablecoins into bitcoin within 30 days and top it up if its value falls below $800 million.
+Is Bitcoin near a bottom while gold peaks? Explore crypto liquidations, market cycles, and why investors are eyeing a BTC-long, gold-short rotation
 
-Bitbo • 22h ago
-
----
-
-**[Where is Donald Trump’s strategic Bitcoin reserve?](https://www.fastcompany.com/91482053/where-is-donald-trumps-strategic-bitcoin-reserve)**
-
-The government seems to be amassing more Bitcoin. But little work seems to be happening to enact the terms of the executive order Trump signed to start the 'strategic reserve.'
-
-Fast Company • 1d ago
+Forbes • 1d ago
 
 ---
 
-**[Bitcoin ETFs see worst outflows since August, as BTC, ETH products lose $1 billion](https://www.coindesk.com/markets/2026/01/30/u-s-listed-bitcoin-ether-etfs-bleed-nearly-usd1-billion-in-one-day)**
+**[Bitcoin’s freefall approaches $80,000 as precious metals also tank](https://fortune.com/2026/01/30/bitcoin-price-today-ethereum-gold-silver-platinum-copper/)**
 
-U.S.-listed spot bitcoin and ether ETFs saw one of their worst combined outflow days of 2026 as falling prices, rising volatility and macro uncertainty pushed investors to cut exposure.
+The world’s largest cryptocurrency is down 2% over the past day while gold and silver have dropped 11% and 30%, respectively.
 
-CoinDesk • 19h ago
+Fortune • 15h ago
+
+---
+
+**[Bitcoin down for fourth consecutive month, its longest losing streak since 2018](https://sherwood.news/crypto/bitcoin-down-for-fourth-consecutive-month-its-longest-losing-streak-since/)**
+
+Bitcoin also suffered roughly $800 million in liquidations and ETF outflows in the past 24 hours....
+
+Sherwood News • 17h ago
+
+---
+
+**[Largest crypto exchange announces surprising plan after Bitcoin crashes](https://www.thestreet.com/crypto/markets/largest-crypto-exchange-announces-surprising-plan-after-bitcoin-crashes)**
+
+Binance has a new Bitcoin floor plan.
+
+thestreet.com • 21h ago
 
 ---
 
@@ -257,7 +253,7 @@ A list of known attacks against Bitcoin / crypto asset owning entities that occu
 
 **[Bitcoin's Quantum Computing Threat](https://news.ycombinator.com/item?id=46824834)**
 
-⬆️ 1 • 💬 0 • 18h ago • [bmpro.substack.com](https://bmpro.substack.com/p/bitcoins-quantum-computing-threat)
+⬆️ 1 • 💬 0 • 19h ago • [bmpro.substack.com](https://bmpro.substack.com/p/bitcoins-quantum-computing-threat)
 
 ---
 
@@ -333,7 +329,7 @@ Gold is absorbing sovereign capital while Bitcoin struggles — and that's exact
 
 📺 Savvy Finance
 
-👁️ 6K • 👍 288 • 💬 23 • ⏱️ 19:18 • 10h ago
+👁️ 6K • 👍 288 • 💬 23 • ⏱️ 19:18 • 11h ago
 
 ---
 
@@ -343,7 +339,7 @@ Crypto Just FLIPPED | NEW Fed Chair Bitcoin Plan (Fully Explained) ✓ Bitunix (
 
 📺 Altcoin Daily
 
-👁️ 37K • 👍 2K • 💬 188 • ⏱️ 8:25 • 10h ago
+👁️ 37K • 👍 2K • 💬 188 • ⏱️ 8:25 • 11h ago
 
 ---
 
@@ -353,7 +349,7 @@ Join The Community: https://bit.ly/FefeCommunity FOLLOW FEFE FOR MORE ALPHA ON .
 
 📺 100XClub
 
-👁️ 12K • 👍 1K • 💬 244 • ⏱️ 28:55 • 15h ago
+👁️ 12K • 👍 1K • 💬 244 • ⏱️ 28:55 • 16h ago
 
 ---
 

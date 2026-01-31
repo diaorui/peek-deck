@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-01-31T09:29:37.836378+00:00'
+updated: '2026-01-31T09:53:18.389055+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
 - cryptocurrency
 - videos
-- news
 - social
+- news
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** January 31, 2026 at 09:29 UTC  
+**Last Updated:** January 31, 2026 at 09:53 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -36,17 +36,17 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Price
 
-### $2,657.03
+### $2,649.86
 
 ---
 
 ## Ethereum Chart
 
-**24h:** -2.3%  
-**7d:** -5.6%  
-**30d:** -14.8%  
-**90d:** -26.0%  
-**1y:** -14.6%  
+**24h:** -3.2%  
+**7d:** -6.0%  
+**30d:** -15.2%  
+**90d:** -26.4%  
+**1y:** -15.0%  
 
 ---
 
@@ -96,7 +96,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 Watch before one bug costs you everything. https://x.com/SolidityScan/status/2017172006056390715?s=20
 
-2h ago
+3h ago
 
 ---
 
@@ -104,7 +104,7 @@ Watch before one bug costs you everything. https://x.com/SolidityScan/status/201
 
 It was some time ago that ETH went from proof of work to proof of stake. At the time Vitalik said that there were other changes coming such as faster transaction or lower transaction cost. I have not heard any more since then? Is there any progress?
 
-12h ago
+13h ago
 
 ---
 
@@ -112,7 +112,7 @@ It was some time ago that ETH went from proof of work to proof of stake. At the 
 
 Hello Folks, I just published a smart contract to handle crypto inheritance 100% on-chain, without the owner having to do anything offline. I know there are many solutions that are trying to solve this problem, but I wanted to design my own with my logic, which is the following: - the contract acts like a wallet, owner can deposit, withdraw and transfer - the owner can assign beneficiaries, and update them at any time - the wallet contains an "alive check", which is automatically updated on any transaction - if you wanna use it as a vault (dormant), you can update the "alive check" manually - the owner defines a "consider me death time" in years, eg: if the last alive check is older than 10 years, I'm dead :( - once that happen, any of the beneficiaries can access the wallet and withdraw all the funds At this point, my favorite feature: the wallet gets locked, will reject any future deposit and "answer" with an epitaph... your "last worlds" recorded on-chain that you can configure when you create the wallet. All of the above is less then 100 lines of solidity... amazing :) At the moment I only did the backend (github link), but I'd like to do a nice interface to make it easy to deploy. Of course, free and open source in the Ethereum spirit! Would you give me a feedback on the logic? Do you see any pitfall or edge cases? Thanks, Francesco
 
-15h ago
+16h ago
 
 ---
 
@@ -120,7 +120,7 @@ Hello Folks, I just published a smart contract to handle crypto inheritance 100%
 
 The Doots live stream is all about showcasing the best of the week from the Daily General Discussion from the r/ethereum Community on Reddit! Today we talked to Mac Budkowski from macbudkowski.com. He's made the "No BS Crypto GTM guide." Dig into what he has learned about timing, messaging, and why best isn't always good. Host: JT Technical Host: LogrisTheBard https://dailydoots.com by Hanniabu Daily Doots Curator: Tricky_Troll Weekly Doots Curator: The-A-Word Farcaster and Backend Host Support: Ben Broad Media Content Support: Twelve Meatballs Discord Bouncer and Watchdog: Treebeard As always, if you know someone who wants a piece of this action, send em our way. Buy us a ☕ dailydoots.eth All of our channels can be found here: https://dailydoots.com/podcast/ 🕸️https://dailydoots.com 📢https://discord.gg/EVMavericks 📰https://reddit.com/r/ethereum 🔊MINTABLE Podcast 👉: https://pods.media/evmavericks 🍎Apple https://podcasts.apple.com/us/podcast/ethfinance-evmavericks-daily-doots-livestream/id1750089604 🔊Spotify https://open.spotify.com/show/7AotdyMtcvHZLv3pVqkxre 🦁https://x.com/EVMavericks ⏱️TikTok: https://www.tiktok.com/@evmavericks 📺https://www.youtube.com/channel/UC51nlNbIkBm5Qhm7EwQuWLw Twitch: https://www.twitch.tv/evmavericks LinkedIN: https://www.linkedin.com/company/evmavericks-daily-doots-podcast
 
-🔗 [youtu.be](https://youtu.be/lDG5GrjKgew) • 11h ago
+🔗 [youtu.be](https://youtu.be/lDG5GrjKgew) • 12h ago
 
 ---
 
@@ -136,7 +136,7 @@ Fidelity Investments FIDD stablecoin, TheDAO Security Fund, Hegotá upgrade head
 
 I've been working on adding native smart contract interaction to markdown-based ENS websites on Simple Page, and v1.6.0 just shipped with two features I'm excited to share. Web3 Forms via URI Protocol You can now embed interactive contract calls using web3:// URIs (ERC-6860) directly in markdown. The syntax works like this: ![USDC Balance](web3://0xa0b8...eb48:1/balanceOf/address!0x?returns=(uint256)&labels=(Account)) This renders as a live form that: Reads contract state without signatures (view/pure functions) Handles transactions with type validation Supports payable functions with ETH inputs No Web3.js boilerplate, no React scaffolding—just a URI that gets parsed into a working interface. RSS Feed Generation Sites can now auto-generate RSS feeds at /rss.xml using frontmatter: Per-page opt-in with rss: true Audio enclosures for podcast episodes Standard metadata from markdown headers Technical Architecture The interesting part about Simple Page is how this works with ENS + IPFS: Sites are pure HTML (render without JS) Editor and forms load progressively One contenthash update publishes everything Self-contained—no external dependencies This approach lets ENS names function as actual web3 endpoints rather than just static pages. The web3:// protocol handler does the ABI encoding/decoding client-side. Web3 forms example: https://simplepage.eth.link/guides/editor/web3-forms/ Source: https://simplepage.eth.link/
 
-23h ago
+1d ago
 
 ---
 
@@ -152,17 +152,17 @@ Ethereum developers used ACDE #229 to shift focus toward Devnet-2 readiness, exe
 
 ## Google News: "ethereum"
 
-**[Bitcoin, XRP, Ethereum Fall on News of Kevin Warsh Fed Appointment.](https://www.barrons.com/articles/bitcoin-xrp-ethereum-crypto-today-954298d9?gaa_at=eafs&gaa_n=AWEtsqcig-qGTUg3utEW7JHmzH9Yi0P04MuJNoo_tNJfKk_XItZTq6kZE0fp&gaa_ts=697dc1b1&gaa_sig=5S0TsgmSiCzLVteqH3xej62GggaX4nT3BRCrA38ZaO2RgXGg6cdTNfjb-fRU646gFXaKCKpmKSgYREli3sZ8xA%3D%3D)**
+**[Bitcoin, XRP, Ethereum Fall on News of Kevin Warsh Fed Appointment.](https://www.barrons.com/articles/bitcoin-xrp-ethereum-crypto-today-954298d9?gaa_at=eafs&gaa_n=AWEtsqe82-on9LSuhL7_s6CT7pj4XYm6G0uUkSuLUe2er-7tO7ek7vihiaNz&gaa_ts=697dd479&gaa_sig=r0KlcH4nmLla7I19dwB9fsbE6T_9brQmRgE6tL3o3JqisIZkJ4BEnQ1xRfrzhwHZp1OCYgcuTWYE7fW7Jsjyqg%3D%3D)**
 
 Barron's • 15h ago
 
 ---
 
-**[Bitcoin, XRP, Ethereum Dive. Why Cryptos Are Getting Bashed After Warsh Fed Pick.](https://www.barrons.com/livecoverage/stock-market-news-today-013026/card/bitcoin-xrp-ethereum-dive-why-cryptos-are-getting-bashed-after-warsh-fed-pick--89jtYV0llDHxXXYD4AKw?gaa_at=eafs&gaa_n=AWEtsqcPzEY7OJpUO3dSdE96RTQodtu-xo1klfQAlCUTOc8rwRB1qoDEamAs&gaa_ts=697dc1b1&gaa_sig=42_zqP4fY2LQWqZuSctYDozBllbKUbvoBPUGD0qdI_24BgS60IBWTF5fFA2YWh7qBp0pjHPXpfeRzC3jFoFQog%3D%3D)**
+**[Bitcoin, XRP, Ethereum Dive. Why Cryptos Are Getting Bashed After Warsh Fed Pick.](https://www.barrons.com/livecoverage/stock-market-news-today-013026/card/bitcoin-xrp-ethereum-dive-why-cryptos-are-getting-bashed-after-warsh-fed-pick--89jtYV0llDHxXXYD4AKw?gaa_at=eafs&gaa_n=AWEtsqfBtdEjahbTaw8SgsI_pz5Bhtd4SkO-KhD-eJyfmDP03vVmefAPac5j&gaa_ts=697dd479&gaa_sig=BvKHjFOXadx3wRhrItwHuT-dkNFU-XHcStvtF8sFfJWAfQl9I6wGBacPb2bxlwlGjQplnol0y-_w9Hi8x-Udmg%3D%3D)**
 
 The Dow, S&P 500, and Nasdaq Composite fell as the stock market reacted to President Donald Trump's pick for next chair of the Federal Reserve.
 
-Barron's • 20h ago
+Barron's • 12h ago
 
 ---
 
@@ -170,7 +170,7 @@ Barron's • 20h ago
 
 Ripple’s new stablecoin rollout has put a bright spotlight on a simple fact: most RLUSD is living on Ethereum right now. That imbalance has stirred worry among long-time XRP supporters.Some feel the company’s heart might be shifting away from the ledger that gave it a base. Others say the move is p…
 
-TradingView • 14h ago
+TradingView • 15h ago
 
 ---
 
@@ -178,7 +178,7 @@ TradingView • 14h ago
 
 Ethereum’s co-founder said the $43 million withdrawal will support a broader “full-stack openness and verifiability” vision as the foundation tightens spending.
 
-CoinDesk • 23h ago
+CoinDesk • 1d ago
 
 ---
 
@@ -202,7 +202,7 @@ TradingView • 19h ago
 
 BitMine Immersion continues to accumulate Ethereum amid price declines, following a treasury strategy inspired by Strategy.
 
-Barchart.com • 12h ago
+Barchart.com • 1d ago
 
 ---
 
@@ -260,7 +260,7 @@ BITCOIN & ALTCOIN CRASH: EMERGENCY UPDATE (New Trade)!!! - Bitcoin News Today, E
 
 📺 Crypto World
 
-👁️ 7K • 👍 294 • 💬 79 • ⏱️ 22:15 • 14h ago
+👁️ 7K • 👍 294 • 💬 79 • ⏱️ 22:15 • 15h ago
 
 ---
 
@@ -290,7 +290,7 @@ FREE TRAINING: https://www.bullmania.com EXCHANGES I USE (bybit, pionex): https:
 
 📺 Ivan on Tech
 
-👁️ 24K • 👍 1K • 💬 99 • ⏱️ 49:08 • 22h ago
+👁️ 24K • 👍 1K • 💬 99 • ⏱️ 49:08 • 23h ago
 
 ---
 
@@ -300,7 +300,7 @@ TrumpCrypto2026 #DigitalAssets #TrumpAnnouncement Welcome to the Trump Crypto Fo
 
 📺 Sportfm
 
-👁️ 4K • 👍 894 • 9h ago
+👁️ 4K • 👍 894 • 10h ago
 
 ---
 

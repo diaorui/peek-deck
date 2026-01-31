@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-01-31T09:29:37.821983+00:00'
+updated: '2026-01-31T09:53:18.374375+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- videos
-- news
-- social
 - repositories
+- videos
+- social
+- news
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** January 31, 2026 at 09:29 UTC  
+**Last Updated:** January 31, 2026 at 09:53 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -47,7 +47,7 @@ AI coding tools are getting more sophisticated. But if coders stop coding, what 
 
 **[The $100 Billion Megadeal Between OpenAI and Nvidia Is on Ice](https://www.reddit.com/r/artificial/comments/1qrnq8u/the_100_billion_megadeal_between_openai_and/)**
 
-🔗 [wsj.com](https://www.wsj.com/tech/ai/the-100-billion-megadeal-between-openai-and-nvidia-is-on-ice-aa3025e3) • 8h ago
+🔗 [wsj.com](https://www.wsj.com/tech/ai/the-100-billion-megadeal-between-openai-and-nvidia-is-on-ice-aa3025e3) • 9h ago
 
 ---
 
@@ -69,7 +69,7 @@ I’m seeing too many new devs use AI as an autopilot instead of a hint system. 
 
 OpenClaw’s AI assistants are now building their own social network.[1] DeepSeek AI Releases DeepSeek-OCR 2 with Causal Visual Flow Encoder for Layout Aware Document Understanding.[2] Video game company stock prices dip after Google introduces an AI world-generation tool.[3] AI model from Google’s DeepMind reads recipe for life in DNA.[4] Sources: [1] https://techcrunch.com/2026/01/30/openclaws-ai-assistants-are-now-building-their-own-social-network/ [2] https://www.marktechpost.com/2026/01/30/deepseek-ai-releases-deepseek-ocr-2-with-causal-visual-flow-encoder-for-layout-aware-document-understanding/ [3] https://www.theverge.com/games/871348/google-project-genie-take-two-roblox-unity [4] https://www.bbc.com/news/articles/c39428dv18yo
 
-3h ago
+4h ago
 
 ---
 
@@ -131,17 +131,25 @@ Anthropic • 1d ago
 
 ---
 
-**[Rancho Cordova students showcase AI bots with real-world applications](https://www.cbsnews.com/sacramento/news/rancho-cordova-students-showcase-ai-bots-with-real-world-applications/)**
+**[2 AI Stocks Building the "Picks and Shovels" of the Agentic Revolution](https://www.fool.com/investing/2026/01/31/2-ai-stocks-picks-shovels-agentic-revolution/)**
 
-As a showcase of youth innovation, future artificial intelligence technology took center stage in Rancho Cordova with students showing off their bots. Here's why the city is helping sponsor this cutting-edge education.
+The agentic AI market is projected to increase nearly 10 times by 2030.
 
-CBS News • 2h ago
+The Motley Fool • 41m ago
 
 ---
 
-**[The US is headed for mass unemployment, and no one is prepared](https://thehill.com/opinion/finance/5713876-ai-displacement-and-ubi/)**
+**[Amelia: This cute AI-generated schoolgirl is a growing far-right meme](https://www.cnn.com/2026/01/31/uk/amelia-meme-ai-far-right-intl-scli)**
 
-The Hill • 15h ago
+At first glance, Amelia, with her purple bob and pixie-girl looks, seems an unlikely candidate for the far right to adopt as an increasingly popular meme.
+
+CNN • 1h ago
+
+---
+
+**[AI Helps With Your Tax Return. It Doesn’t Always Get It Right.](https://www.barrons.com/articles/ai-tax-returns-dc179883?gaa_at=eafs&gaa_n=AWEtsqe7wQfKLAyrdTc1F-W1zVv8HmupT-L4UOSO6xjRWcWH1FhI6pfeD40M&gaa_ts=697dd475&gaa_sig=HrFyETqDLEA0BtLMm20xLjwBOiPG1AqbdBQQMbLujrrQpUJYovFx89gABCAoF5dA8_JtRXCowr4SnYBMNHJDaQ%3D%3D)**
+
+Barron's • 53m ago
 
 ---
 
@@ -161,11 +169,9 @@ The Guardian • 22h ago
 
 ---
 
-**[NASA’s Perseverance Rover Completes First AI-Planned Drive on Mars](https://www.jpl.nasa.gov/news/nasas-perseverance-rover-completes-first-ai-planned-drive-on-mars/)**
+**[Exclusive | The $100 Billion Megadeal Between OpenAI and Nvidia Is on Ice - WSJ](https://www.wsj.com/tech/ai/the-100-billion-megadeal-between-openai-and-nvidia-is-on-ice-aa3025e3?gaa_at=eafs&gaa_n=AWEtsqctjBdiAarcpOyClirI5fsCRcLg4Tx6zA5wq0_EJCr3BZa80_j391J6&gaa_ts=697dd475&gaa_sig=usF-kx9x7Ct0SiAGzoh7P-3KHu12lCo5FhXaPNqzEfd2U8BumP9m-UiRRaS_ukaj1GkCxY2L-Vu52ihTHDzYUw%3D%3D)**
 
-The team for the six-wheeled scientist used a vision-capable AI to create a safe route over the Red Planet’s surface without the input of human route planners.
-
-NASA Jet Propulsion Laboratory (JPL) (.gov) • 13h ago
+The Wall Street Journal • 10h ago
 
 ---
 
@@ -181,13 +187,7 @@ CNBC • 14h ago
 
 A federal jury on Thursday convicted Linwei Ding, 38, of seven counts of economic espionage and seven counts of theft of trade secrets after an 11-day trial in the U.S. District Court in the Northern District of California.
 
-Los Angeles Times • 6h ago
-
----
-
-**[Ex-Google Engineer Convicted of Stealing A.I. Secrets for Start-Up in China](https://www.nytimes.com/2026/01/29/business/ai-secrets-stolen-google-china.html)**
-
-The New York Times • 1d ago
+Los Angeles Times • 7h ago
 
 ---
 
@@ -217,7 +217,7 @@ Interactive article explaining the physics of an airfoil and what makes airplane
 
 Anthropic is an AI safety and research company that's working to build reliable, interpretable, and steerable AI systems.
 
-⬆️ 430 • 💬 323 • 1d ago • [anthropic.com](https://www.anthropic.com/research/AI-assistance-coding-skills)
+⬆️ 431 • 💬 324 • 1d ago • [anthropic.com](https://www.anthropic.com/research/AI-assistance-coding-skills)
 
 ---
 
@@ -231,7 +231,7 @@ Or, as they like to call it, the 'AI Skills Hub'. Which was built by PwC because
 
 **[The tech market is fundamentally fucked up and AI is just a scapegoat](https://news.ycombinator.com/item?id=46809069)**
 
-⬆️ 309 • 💬 216 • 1d ago • [bayramovanar.substack.com](https://bayramovanar.substack.com/p/tech-market-is-fucked-up)
+⬆️ 309 • 💬 217 • 1d ago • [bayramovanar.substack.com](https://bayramovanar.substack.com/p/tech-market-is-fucked-up)
 
 ---
 
@@ -263,7 +263,7 @@ The rise of LLMs as a useful development tool over the last year or so has been 
 
 New York mayor says terminating the ‘unusable’ bot will help close a budget gap
 
-⬆️ 163 • 💬 56 • 15h ago • [themarkup.org](https://themarkup.org/artificial-intelligence/2026/01/30/mamdani-to-kill-the-nyc-ai-chatbot-we-caught-telling-businesses-to-break-the-law)
+⬆️ 165 • 💬 56 • 15h ago • [themarkup.org](https://themarkup.org/artificial-intelligence/2026/01/30/mamdani-to-kill-the-nyc-ai-chatbot-we-caught-telling-businesses-to-break-the-law)
 
 ---
 
@@ -305,7 +305,7 @@ Humanoid robotics just took a massive leap into the real world. Researchers in C
 
 📺 AI Revolution
 
-👁️ 16K • 👍 472 • 💬 50 • ⏱️ 14:25 • 9h ago
+👁️ 16K • 👍 472 • 💬 50 • ⏱️ 14:25 • 10h ago
 
 ---
 
@@ -391,7 +391,7 @@ Kimi K2.5 is a native multimodal agentic model with 1T parameters, excelling in 
 
 `image-text-to-text`
 
-⬇️ 32,430 • ❤️ 1,239 • 8h ago
+⬇️ 32,430 • ❤️ 1,239 • 9h ago
 
 ---
 
@@ -699,7 +699,7 @@ The Ultimate Collection of 500+ Agentic Skills for Claude Code/Antigravity/Curso
 
 `Python` `agentic-skills` `ai-agents` `antigravity` `autonomous-coding` `claude-code`
 
-⭐ 5.7k • 🔱 1.3k • 1h ago
+⭐ 5.7k • 🔱 1.3k • 2h ago
 
 ---
 
