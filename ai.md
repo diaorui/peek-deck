@@ -3,13 +3,13 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-01-31T16:57:26.515508+00:00'
+updated: '2026-01-31T17:28:02.151411+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- repositories
 - social
+- repositories
 - videos
 - news
 ---
@@ -18,7 +18,7 @@ data_types:
 
 AI news, discussions, and developments
 
-**Last Updated:** January 31, 2026 at 16:57 UTC  
+**Last Updated:** January 31, 2026 at 17:28 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -55,7 +55,7 @@ AI coding tools are getting more sophisticated. But if coders stop coding, what 
 
 For years, the gold standard in AI was "hoard everything, sort it later." But as we move into 2026, I’m seeing this strategy backfire for dozens of companies. In my recent audits at the lab, I’ve seen CTOs burning $10k-$15k monthly on cloud storage for "radioactive" datasets—logs and clicks from 2022 that add zero value to modern reasoning models. The 2026 Reality: The Compliance Wall: Under the EU AI Act, every byte of data you keep is a liability. Inference Noise: Overloaded data lakes are causing AI agents to hallucinate and slow down. The Carbon Tax: Storage isn't just a cost anymore; it’s a regulatory burden. We recently implemented a Data Minimization Audit for a client, deleting 70% of their legacy data. The result? Faster inference speeds and 100% compliance with ISO/IEC 42001. Efficiency is the new "Big Data." If you aren't pruning your datasets, you aren't building for the future; you're just paying a massive "Storage Tax." Are you guys still hoarding for "potential" future use, or have you started the great data purge? (Just finished a deep dive on the technical framework for this audit. Linked it in the comments for those interested in the compliance roadmap.)
 
-7m ago
+37m ago
 
 ---
 
@@ -63,13 +63,13 @@ For years, the gold standard in AI was "hoard everything, sort it later." But as
 
 Supports Qwen3-TTS models (0.6B-1.7B) and ASR models. Docker + native deployment options. Key features: 🎭 Voice cloning with reference audio 🎨 Custom voice design from text descriptions ⚡ MLX + Metal GPU acceleration for M1/M2/M3 🎨 Modern React UI included If you like local audio models, give it a try. Works best in local dev mode for now.
 
-🔗 [GitHub](https://github.com/agentem-ai/izwi-audio) • 40m ago
+🔗 [GitHub](https://github.com/agentem-ai/izwi-audio) • 1h ago
 
 ---
 
 **[The debate over artificial intelligence and employment](https://www.reddit.com/r/artificial/comments/1qrb5dt/the_debate_over_artificial_intelligence_and/)**
 
-🔗 [technology.org](https://www.technology.org/2026/01/28/the-debate-over-artificial-intelligence-and-employment/) • 23h ago
+🔗 [technology.org](https://www.technology.org/2026/01/28/the-debate-over-artificial-intelligence-and-employment/) • 1d ago
 
 ---
 
@@ -77,7 +77,7 @@ Supports Qwen3-TTS models (0.6B-1.7B) and ASR models. Docker + native deployment
 
 Chris Mason, the longtime Linux kernel developer most known for being the creator of Btrfs, has been working on a Git repository with AI review prompts he has been working on for LLM-assisted code review of Linux kernel patches
 
-🔗 [phoronix.com](https://www.phoronix.com/news/AI-Code-Review-Prompts-Linux) • 13h ago
+🔗 [phoronix.com](https://www.phoronix.com/news/AI-Code-Review-Prompts-Linux) • 14h ago
 
 ---
 
@@ -121,7 +121,7 @@ Wordsmith Law has issued a claim against legal AI company Wordsmith in an appare
 
 Moltbook lets 32,000 AI bots trade jokes, tips, and complaints about humans.
 
-Ars Technica • 18h ago
+Ars Technica • 19h ago
 
 ---
 
@@ -135,7 +135,7 @@ The Wall Street Journal • 17h ago
 
 Hyperscalers are planning to spend $500 billion on artificial intelligence (AI) infrastructure this year.
 
-The Motley Fool • 45m ago
+The Motley Fool • 1h ago
 
 ---
 
@@ -143,7 +143,7 @@ The Motley Fool • 45m ago
 
 Key PointsBillionaire Ken Griffin bought shares of Palantir and Robinhood in the third quarter.
 
-Nasdaq • 7h ago
+Nasdaq • 8h ago
 
 ---
 
@@ -159,13 +159,13 @@ The Motley Fool • 1h ago
 
 Apple's iPhones are getting stung by the global memory shortage.
 
-Yahoo Finance • 27m ago
+Yahoo Finance • 57m ago
 
 ---
 
 **[Why Disability Is The Ultimate Stress Test For Artificial Intelligence](https://www.forbes.com/sites/keelycatwells/2026/01/31/why-disability-is-the-ultimate-stress-test-for-artificial-intelligence/)**
 
-Forbes • 29m ago
+Forbes • 1h ago
 
 ---
 
@@ -173,7 +173,7 @@ Forbes • 29m ago
 
 Strasburg-Franklin Superintendent Vince Lindsey started a trend when he announced a day off school by riding a tiger in the snow. (It was AI!)
 
-Canton Repository • 5h ago
+Canton Repository • 6h ago
 
 ---
 
@@ -181,7 +181,7 @@ Canton Repository • 5h ago
 
 As AI appears to do much of the work of entry-level job seekers, the entire premise of a college education seems to be collapsing.
 
-Futurism • 3h ago
+Futurism • 4h ago
 
 ---
 
@@ -255,7 +255,7 @@ The rise of LLMs as a useful development tool over the last year or so has been 
 
 New York mayor says terminating the ‘unusable’ bot will help close a budget gap
 
-⬆️ 171 • 💬 59 • 22h ago • [themarkup.org](https://themarkup.org/artificial-intelligence/2026/01/30/mamdani-to-kill-the-nyc-ai-chatbot-we-caught-telling-businesses-to-break-the-law)
+⬆️ 171 • 💬 59 • 23h ago • [themarkup.org](https://themarkup.org/artificial-intelligence/2026/01/30/mamdani-to-kill-the-nyc-ai-chatbot-we-caught-telling-businesses-to-break-the-law)
 
 ---
 
@@ -325,7 +325,7 @@ Glen Scrivener interviews Professor John Lennox about AI, and Yuval Noah Harari'
 
 📺 Glen Scrivener (Speak Life)
 
-👁️ 18K • 👍 1K • 💬 298 • ⏱️ 46:45 • 23h ago
+👁️ 18K • 👍 1K • 💬 298 • ⏱️ 46:45 • 1d ago
 
 ---
 
@@ -355,7 +355,7 @@ Here's the news you probably missed this week. If you want to transform your sit
 
 📺 Matt Wolfe
 
-👁️ 41K • 👍 2K • 💬 120 • ⏱️ 30:47 • 22h ago
+👁️ 41K • 👍 2K • 💬 120 • ⏱️ 30:47 • 23h ago
 
 ---
 
@@ -679,7 +679,7 @@ LLM驱动的 A/H/美股智能分析器，多数据源行情 + 实时新闻 + Gem
 
 `Python` `agent` `ai` `aigc` `gemini` `llm`
 
-⭐ 8.2k • 🔱 8.7k • 1h ago
+⭐ 8.2k • 🔱 8.7k • 2h ago
 
 ---
 
@@ -689,7 +689,7 @@ LLM驱动的 A/H/美股智能分析器，多数据源行情 + 实时新闻 + Gem
 
 `Vue`
 
-⭐ 6.8k • 🔱 1.2k • 3h ago
+⭐ 6.8k • 🔱 1.2k • 4h ago
 
 ---
 

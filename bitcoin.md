@@ -3,7 +3,7 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-01-31T16:57:26.523892+00:00'
+updated: '2026-01-31T17:28:02.159807+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
@@ -18,7 +18,7 @@ data_types:
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** January 31, 2026 at 16:57 UTC  
+**Last Updated:** January 31, 2026 at 17:28 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -79,7 +79,7 @@ Rank #1
 
 **[Evergreen just like BTC!](https://www.reddit.com/r/Bitcoin/comments/1qs6sj1/evergreen_just_like_btc/)**
 
-30m ago
+1h ago
 
 ---
 
@@ -87,7 +87,7 @@ Rank #1
 
 Watching good will hunting tonight
 
-15h ago
+16h ago
 
 ---
 
@@ -95,7 +95,7 @@ Watching good will hunting tonight
 
 I'm scared, not because I don't trust Bitcoin, but because I used my BTC and altcoins to back up a loan, which I used to buy more Bitcoin and altcoins. The problem is, I had my entire altcoin portfolio on Binance, and I liquidated it on October 10th. Now I only have BTC left, and if it drops below 80, I'll be wiped out. All my effort and sacrifice of six years will have been for nothing. I know many will say it's wrong and that I was greedy, but I'm someone who has worked hard for as long as I can remember. When I reached adulthood, I got fed up with that life. Now I don't know what to do, but I don't have the strength to continue. I know Bitcoin is the future, but I no longer see a good future for myself, and I don't have the strength to start from scratch.
 
-2h ago
+3h ago
 
 ---
 
@@ -109,7 +109,7 @@ The world is going through some shit right now...but just know that eventually, 
 
 **[Buying the dip.](https://www.reddit.com/r/Bitcoin/comments/1qrkz13/buying_the_dip/)**
 
-17h ago
+18h ago
 
 ---
 
@@ -117,7 +117,7 @@ The world is going through some shit right now...but just know that eventually, 
 
 My node analytics captured a large liquidation event this morning. Roughly $120M in realized losses came from positions established within the last ~3 months, with nearly 20,000 BTC transferring to counterparties during the unwind. This is classic leverage behavior being resolved... not long-term capital exiting the market. Notably, older age bands remain largely inactive. Long-term holders are not distributing into this move; they are waiting, as they typically do, while short-duration leverage clears. When price action is driven primarily by derivatives, forced selling, and liquidity hunting, history shows it tends to be temporary. Once the excess leverage is flushed and fear-driven flows subside, price reverts back to being governed by spot demand and accumulation. The rise of ETFs and derivatives has compressed these cycles into shorter timeframes, increasing volatility... but also making liquidation events like this easier to observe in real time. Smart money isn’t reacting here. It’s absorbing. Fascinating to watch these play out in real time.
 
-1h ago
+2h ago
 
 ---
 
@@ -131,7 +131,7 @@ I just bought the dip and officially crossed the 0.1 BTC mark. It’s been a lon
 
 **[The Stack remains So Stack More](https://www.reddit.com/r/Bitcoin/comments/1qrxs32/the_stack_remains_so_stack_more/)**
 
-7h ago
+8h ago
 
 ---
 
@@ -165,7 +165,7 @@ CoinDesk • 2h ago
 
 Based on its monster past performance, it makes sense why investors are interested in Bitcoin.
 
-The Motley Fool • 4h ago
+The Motley Fool • 5h ago
 
 ---
 
@@ -173,7 +173,7 @@ The Motley Fool • 4h ago
 
 The strongest bulls take the time to learn the opposite point of view.
 
-Yahoo Finance • 37m ago
+Yahoo Finance • 1h ago
 
 ---
 
@@ -189,7 +189,7 @@ CoinDesk • 1h ago
 
 Indeed, since the JPMorgan report was published on Wednesday, both silver and gold have pulled back from recent highs.
 
-The Block • 20h ago
+The Block • 21h ago
 
 ---
 
@@ -219,7 +219,7 @@ Forbes • 1d ago
 
 The political fundraising group launched by crypto-billionaire brothers Cameron and Tyler Winklevoss raised more than $22 million in the last five months of 2025, but might not get as much bang for its Bitcoin.
 
-Bloomberg.com • 23h ago
+Bloomberg.com • 1d ago
 
 ---
 
@@ -371,7 +371,7 @@ Bitwise Chief Investment Officer, Matt Hougan joins CoinDesk's Markets Outlook w
 
 📺 CoinDesk
 
-👁️ 12K • 👍 329 • 💬 39 • ⏱️ 26:03 • 21h ago
+👁️ 12K • 👍 329 • 💬 39 • ⏱️ 26:03 • 22h ago
 
 ---
 

@@ -3,7 +3,7 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-01-31T16:57:26.529846+00:00'
+updated: '2026-01-31T17:28:02.165795+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
@@ -18,7 +18,7 @@ data_types:
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** January 31, 2026 at 16:57 UTC  
+**Last Updated:** January 31, 2026 at 17:28 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -72,13 +72,13 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-10h ago
+11h ago
 
 ---
 
 **[Listening to Polymarket trades in real-time (open source, no third party)](https://www.reddit.com/r/ethereum/comments/1qs3l8c/listening_to_polymarket_trades_in_realtime_open/)**
 
-2h ago
+3h ago
 
 ---
 
@@ -86,7 +86,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 World News, Stories By EtherWorld, Technical Explainers, Client News & Updates, Podcasts, Upcoming Events & Jobs
 
-🔗 [EtherWorld.co](https://etherworld.co/etherworld-weekly-edition-349/) • 2h ago
+🔗 [EtherWorld.co](https://etherworld.co/etherworld-weekly-edition-349/) • 3h ago
 
 ---
 
@@ -154,13 +154,13 @@ Fidelity Investments FIDD stablecoin, TheDAO Security Fund, Hegotá upgrade head
 
 The Ethereum co-founder wants to pursue an “aggressive” roadmap that will strengthen its status as a decentralized world computer.
 
-Decrypt • 23h ago
+Decrypt • 1d ago
 
 ---
 
 **[Bitcoin, XRP, Ethereum Fall on News of Kevin Warsh Fed Appointment.](https://www.barrons.com/articles/bitcoin-xrp-ethereum-crypto-today-954298d9?gaa_at=eafs&gaa_n=AWEtsqembhO-XoCCN2Wg5U5UyzhVGQxla3o93T00WaX0dQGFBunAPAAhcQqH&gaa_ts=697e37df&gaa_sig=0rLJAckPd32MBOTUAYS425jpw1N7jHOAql7pL2yaUGjqmUYFXT1hAS_GujCRiv4SGgun0BS0PYixr0gqnxfKpg%3D%3D)**
 
-Barron's • 22h ago
+Barron's • 23h ago
 
 ---
 
@@ -208,7 +208,7 @@ CoinDesk • 1d ago
 
 Banks at Davos are done watching from the sidelines. At this year’s World Economic Forum, major financial institutions said they need crypto infrastructure to stay competitive.A recent Altcoin Buzz video broke down three signals pointing to a potential crypto rally. “The biggest banks in the world…
 
-TradingView • 7h ago
+TradingView • 8h ago
 
 ---
 
@@ -238,7 +238,7 @@ This video provides a professional Elliott Wave and technical analysis of Ethere
 
 📺 More Crypto Online
 
-👁️ 764 • 👍 73 • 💬 8 • ⏱️ 4:18 • 2h ago
+👁️ 764 • 👍 73 • 💬 8 • ⏱️ 4:18 • 3h ago
 
 ---
 
@@ -248,7 +248,7 @@ Join Premium: https://the-bitcoin-strategy.com My Chart Software: https://the-bi
 
 📺 Gerhard - Bitcoin Strategy
 
-👁️ 3K • 👍 108 • 💬 40 • ⏱️ 7:13 • 7h ago
+👁️ 3K • 👍 108 • 💬 40 • ⏱️ 7:13 • 8h ago
 
 ---
 
@@ -258,7 +258,7 @@ ETHEREUM ETH PRICE PREDICTION 2026 Join the Premium Signal Group for trade setup
 
 📺 Cilinix Crypto
 
-👁️ 426 • 👍 16 • 💬 3 • ⏱️ 4:35 • 6h ago
+👁️ 426 • 👍 16 • 💬 3 • ⏱️ 4:35 • 7h ago
 
 ---
 
@@ -268,7 +268,7 @@ My FREE Daily On-Chain Analysis & Crypto News In 5-Mins: https://www.cryptonutsh
 
 📺 Jamie Tree 
 
-👁️ 266 • 👍 15 • 💬 21 • ⏱️ 18:25 • 1h ago
+👁️ 266 • 👍 15 • 💬 21 • ⏱️ 18:25 • 2h ago
 
 ---
 
@@ -278,7 +278,7 @@ This video provides a professional Elliott Wave and technical analysis of Ethere
 
 📺 More Crypto Online
 
-👁️ 2K • 👍 128 • 💬 5 • ⏱️ 4:29 • 12h ago
+👁️ 2K • 👍 128 • 💬 5 • ⏱️ 4:29 • 13h ago
 
 ---
 
@@ -328,7 +328,7 @@ how to buy PulseChain coins? https://libertyswap.finance buy with card: https://
 
 📺 Crypto Coffee
 
-👁️ 561 • 👍 32 • 💬 13 • ⏱️ 1:07 • 4h ago
+👁️ 561 • 👍 32 • 💬 13 • ⏱️ 1:07 • 5h ago
 
 ---
 
