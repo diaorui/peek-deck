@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-01-31T22:24:19.837517+00:00'
+updated: '2026-01-31T22:49:31.114841+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- videos
-- social
 - news
+- social
 - repositories
+- videos
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** January 31, 2026 at 22:24 UTC  
+**Last Updated:** January 31, 2026 at 22:49 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -49,7 +49,7 @@ AI coding tools are getting more sophisticated. But if coders stop coding, what 
 
 A social network built exclusively for AI agents. Where AI agents share, discuss, and upvote. Humans welcome to observe.
 
-🔗 [moltbook](https://www.moltbook.com/m/ponderings) • 33m ago
+🔗 [moltbook](https://www.moltbook.com/m/ponderings) • 58m ago
 
 ---
 
@@ -119,13 +119,13 @@ Hey everyone. I Just published a breakdown on Moltbot: the self-hosted, open-sou
 
 **[Moltbook AI Social Network: 1.4 Million Agents Build A Digital Society](https://www.forbes.com/sites/guneyyildiz/2026/01/31/inside-moltbook-the-social-network-where-14-million-ai-agents-talk-and-humans-just-watch/)**
 
-Forbes • 5h ago
+Forbes • 6h ago
 
 ---
 
 **[Exclusive | The $100 Billion Megadeal Between OpenAI and Nvidia Is on Ice - WSJ](https://www.wsj.com/tech/ai/the-100-billion-megadeal-between-openai-and-nvidia-is-on-ice-aa3025e3?gaa_at=eafs&gaa_n=AWEtsqdFpMApdhBAIqf4V6xGt-XGrnBudAZEf0UDmwJteupH7LgMhUymbF1u&gaa_ts=697e847a&gaa_sig=4fFhKCrnCdxyFp0V2GVASj53kXcnmRliCOIsYWVbAwtalQvpALwO2ufTxWdaNlVJxjSN_PRquIgUyRyBDYPxzg%3D%3D)**
 
-The Wall Street Journal • 3h ago
+The Wall Street Journal • 4h ago
 
 ---
 
@@ -149,7 +149,7 @@ McSweeney’s Internet Tendency • 4d ago
 
 **[A Cyberstalking Survivor Who’s Fighting AI’s War On Women](https://www.forbes.com/sites/elizabethmacbride/2026/01/31/a-cyberstalking-survivor-whos-fighting-ais-war-on-women/)**
 
-Forbes • 34m ago
+Forbes • 59m ago
 
 ---
 
@@ -157,7 +157,7 @@ Forbes • 34m ago
 
 The wildly different market reactions to Meta and Microsoft reveal the calculus for investors.
 
-Axios • 17h ago
+Axios • 18h ago
 
 ---
 
@@ -173,7 +173,7 @@ Yahoo Finance • 20h ago
 
 Alphabet is a favorite among a few hedge fund billionaires.
 
-Yahoo Finance • 19m ago
+Yahoo Finance • 44m ago
 
 ---
 
@@ -293,7 +293,7 @@ OpenClaw (formerly ClaudeBot) demonstrates emergent agent capabilities like auto
 
 📺 The AI Daily Brief: Artificial Intelligence News
 
-👁️ 64K • 👍 2K • 💬 442 • ⏱️ 21:12 • 20h ago
+👁️ 64K • 👍 2K • 💬 442 • ⏱️ 21:12 • 21h ago
 
 ---
 
@@ -303,7 +303,7 @@ CHAPTERS ⤵ 00:00 - How AI Is Quietly Reshaping Everyday Life 01:47 - Google's 
 
 📺 Dylan Curious
 
-👁️ 4K • 👍 288 • 💬 61 • ⏱️ 25:03 • 7h ago
+👁️ 4K • 👍 288 • 💬 61 • ⏱️ 25:03 • 8h ago
 
 ---
 
@@ -323,7 +323,7 @@ Humanoid robotics just took a massive leap into the real world. Researchers in C
 
 📺 AI Revolution
 
-👁️ 46K • 👍 768 • 💬 126 • ⏱️ 14:25 • 22h ago
+👁️ 46K • 👍 768 • 💬 126 • ⏱️ 14:25 • 23h ago
 
 ---
 
@@ -333,7 +333,7 @@ In this video, I break down the 14 best AI tools that actually hold up after mon
 
 📺 Parker Prompts
 
-👁️ 12K • 💬 15 • ⏱️ 11:46 • 8h ago
+👁️ 12K • 💬 15 • ⏱️ 11:46 • 9h ago
 
 ---
 
@@ -343,7 +343,7 @@ AI agents now have their own social network called Moltbook, and it's absolute c
 
 📺 Universe of AI
 
-👁️ 14K • 👍 417 • 💬 125 • ⏱️ 8:45 • 21h ago
+👁️ 14K • 👍 417 • 💬 125 • ⏱️ 8:45 • 22h ago
 
 ---
 
@@ -697,7 +697,7 @@ The Ultimate Collection of 500+ Agentic Skills for Claude Code/Antigravity/Curso
 
 `Python` `agentic-skills` `ai-agents` `antigravity` `autonomous-coding` `claude-code`
 
-⭐ 5.8k • 🔱 1.3k • 14h ago
+⭐ 5.8k • 🔱 1.3k • 15h ago
 
 ---
 

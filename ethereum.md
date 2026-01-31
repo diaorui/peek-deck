@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-01-31T22:24:19.854299+00:00'
+updated: '2026-01-31T22:49:31.129318+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
+- news
 - videos
 - social
 - cryptocurrency
-- news
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** January 31, 2026 at 22:24 UTC  
+**Last Updated:** January 31, 2026 at 22:49 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -80,7 +80,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 Honeypot tokens are killing Ethereum's reputation. People get rugged, blame "Ethereum scams," when really it's malicious ERC20 implementations. Source: [github.com/Teycir/honeypotscan](https://github.com/Teycir/honeypotscan) to help clean this up. ## The Problem Scammers deploy ERC20 tokens with hidden logic that blocks sells: - tx.origin checks in transfer/balanceOf/allowance - Hidden 95-100% sell taxes - Whitelist-only transfers - Asymmetric transfer logic You can buy on Uniswap, but when you try to sell, the transaction reverts or drains your tokens. Funds gone. ## How It Works Paste a contract address → fetches verified source from Etherscan → runs 13 regex patterns → returns results in ~2 seconds. Detection patterns include: - **Core ERC20 abuse** (3 patterns) - tx.origin in balanceOf/allowance/transfer - **Hidden helpers** (2 patterns) - _taxPayer, _isSuper with tx.origin - **Auth bypasses** (4 patterns) - tx.origin in require/if/assert/mapping - **Transfer blocks** (4 patterns) - Sell restrictions, whitelists, extreme taxes Threshold: 2+ patterns = 95% confidence honeypot. Testing shows 98% sensitivity, 97% specificity. ## Why tx.origin is the red flag When you buy via Uniswap: - `tx.origin = YOUR_WALLET` ✅ - `msg.sender = YOUR_WALLET` ✅ When you sell via Uniswap: - `tx.origin = YOUR_WALLET` ✅ - `msg.sender = UNISWAP_ROUTER` ❌ Honeypots exploit this. They check `tx.origin` in access control, so DEX sells always fail while direct buys work. ## Tech Stack - Next.js 16 frontend on Cloudflare Pages - Cloudflare Workers for edge scanning - Cloudflare KV for caching (95% hit rate) - 6 Etherscan API keys with rotation - Supports Ethereum, Polygon, Arbitrum ## Try it Live: [honeypotscan.pages.dev](https://honeypotscan.pages.dev) Completely free, no rate limits, no tracking. Help protect the ecosystem 🛡️
 
-41m ago
+1h ago
 
 ---
 
@@ -154,7 +154,7 @@ The Doots live stream is all about showcasing the best of the week from the Dail
 
 The crypto market's recent decline only accelerated Saturday, with Bitcoin falling to nearly $77,000 as liquidations piled up.
 
-Decrypt • 1h ago
+Decrypt • 2h ago
 
 ---
 

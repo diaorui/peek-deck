@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-01-31T22:24:19.848196+00:00'
+updated: '2026-01-31T22:49:31.123293+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
+- news
 - videos
 - social
 - cryptocurrency
-- news
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** January 31, 2026 at 22:24 UTC  
+**Last Updated:** January 31, 2026 at 22:49 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -81,19 +81,19 @@ Rank #1
 
 I'm not wasting these cheap stacks. HODL and BUY!
 
-4h ago
+5h ago
 
 ---
 
 **[DOING MY PART](https://www.reddit.com/r/Bitcoin/comments/1qsd85h/doing_my_part/)**
 
-1h ago
+2h ago
 
 ---
 
 **[Evergreen just like BTC!](https://www.reddit.com/r/Bitcoin/comments/1qs6sj1/evergreen_just_like_btc/)**
 
-5h ago
+6h ago
 
 ---
 
@@ -141,7 +141,7 @@ I'm scared, not because I don't trust Bitcoin, but because I used my BTC and alt
 
 Nothing has changed. Governments are still spending far far more money than they raise in tax. Fiat currency around the world is still being debased. Debt is exploding. Saylor, Blackrock and Wall Street are not fools. The reason you purchased BTC have not changed one bit. If you're new, this is normal. If you're a few cycles in, you know what to do. BTC is $77,500. A few years ago you'd be popping ya corks over this. Enjoy the ride and forget the noise.
 
-2h ago
+3h ago
 
 ---
 
@@ -153,7 +153,7 @@ Nothing has changed. Governments are still spending far far more money than they
 
 Bitcoin price dipped below $80k as 335,000 new wallets signal rising adoption despite short-term BTC price weakness.
 
-Yahoo Finance • 4h ago
+Yahoo Finance • 5h ago
 
 ---
 
@@ -173,7 +173,7 @@ Yahoo Finance • 1d ago
 
 **[Bitcoin Drops Below $78,000 After Trump Taps Kevin Warsh To Lead Federal Reserve](https://www.forbes.com/sites/mikestunson/2026/01/31/bitcoin-is-dropping-fast-heres-why-it-dropped-below-78000/)**
 
-Forbes • 4m ago
+Forbes • 29m ago
 
 ---
 
@@ -231,7 +231,7 @@ Polymarket • 1mo ago
 
 **[Bitcoin Looks Set for Longest Monthly Losing Streak Since 2018](https://news.ycombinator.com/item?id=46838644)**
 
-⬆️ 58 • 💬 58 • 4h ago • [bloomberg.com](https://www.bloomberg.com/news/articles/2026-01-30/bitcoin-btc-slides-toward-longest-monthly-losing-streak-since-2018)
+⬆️ 58 • 💬 58 • 5h ago • [bloomberg.com](https://www.bloomberg.com/news/articles/2026-01-30/bitcoin-btc-slides-toward-longest-monthly-losing-streak-since-2018)
 
 ---
 
@@ -255,7 +255,7 @@ A list of known attacks against Bitcoin / crypto asset owning entities that occu
 
 PoW + EVM cryptocurrency. 21M fixed supply, fair launch, no team, no foundation. Just code. - lumenyx-chain/lumenyx
 
-⬆️ 1 • 💬 0 • 9h ago • [GitHub](https://github.com/lumenyx-chain/lumenyx)
+⬆️ 1 • 💬 0 • 10h ago • [GitHub](https://github.com/lumenyx-chain/lumenyx)
 
 ---
 
@@ -313,7 +313,7 @@ CHECK OUT MY LINKTREE FOR EXCHANGES I USE, BONUSES, FREE VIDEOS, AND MORE! https
 
 📺 My Financial Friend
 
-👁️ 8K • 👍 581 • 💬 281 • ⏱️ 8:03 • 4h ago
+👁️ 8K • 👍 581 • 💬 281 • ⏱️ 8:03 • 5h ago
 
 ---
 
@@ -343,7 +343,7 @@ EMERGENCY UPDATE: CRYPTO CRASH INTENSIFIES! (Here's Why) The crypto market is in
 
 📺 Tim Warren
 
-👁️ 4K • 👍 522 • 💬 200 • ⏱️ 11:12 • 3h ago
+👁️ 4K • 👍 522 • 💬 200 • ⏱️ 11:12 • 4h ago
 
 ---
 
@@ -373,7 +373,7 @@ WEEX: https://www.weex.com/events/promo/usdtgiveaway?vipCode=00dt&qrType=activit
 
 📺 Crypto Rover
 
-👁️ 9K • 👍 551 • 💬 247 • ⏱️ 4:19 • 4h ago
+👁️ 9K • 👍 551 • 💬 247 • ⏱️ 4:19 • 5h ago
 
 ---
 
@@ -383,7 +383,7 @@ FREE TRAINING: https://www.bullmania.com EXCHANGES I USE (bybit, pionex): https:
 
 📺 Ivan on Tech
 
-👁️ 14K • 👍 1K • 💬 93 • ⏱️ 44:59 • 4h ago
+👁️ 14K • 👍 1K • 💬 93 • ⏱️ 44:59 • 5h ago
 
 ---
 
@@ -393,7 +393,7 @@ BYBIT: http://themoon.co/Bybit 10% DISCOUNT & $30000 BONUS BloFin: https://themo
 
 📺 The Moon Show
 
-👁️ 23K • 👍 963 • 💬 121 • ⏱️ 6:54 • 12h ago
+👁️ 23K • 👍 963 • 💬 121 • ⏱️ 6:54 • 13h ago
 
 ---
 

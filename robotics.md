@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-01-31T22:24:19.857541+00:00'
+updated: '2026-01-31T22:49:31.132535+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- videos
-- social
 - news
+- social
+- videos
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** January 31, 2026 at 22:24 UTC  
+**Last Updated:** January 31, 2026 at 22:49 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -36,7 +36,7 @@ Robotics research and industry news
 
 From: CyberRobo on 𝕏: https://x.com/CyberRobooo/status/2017544750694551618 RoboHub🤖 on 𝕏 (images): https://x.com/XRoboHub/status/2017541654173851909
 
-11h ago
+12h ago
 
 ---
 
@@ -52,7 +52,7 @@ Hi, I’m working on a repurposed electric wheelchair chassis (>100 kg, high-tor
 
 The real meat and potatoes: I made this as a modular brain for my other robots I built recently. Right now I’m building her a tiny combat robot body so I can’t wait to program her fight moves. Already slightly tested it but just to get her to stand in a T pose then relax all motors after 5 seconds to get an idea of how to map her body. That was when I used a pi zero tho so more work is definitely needed. After that I need to completely redesign her casing. It’s literally made from an outer frame I printed in a rush and a piece of plastic that held her oled screen in the packaging.
 
-52m ago
+1h ago
 
 ---
 
@@ -68,7 +68,7 @@ Day:30 1- Base body and MCU from Sunfounder 2-Built over raspberry pi5 and power
 
 Has anyone already received a notification for their ICRA 2026 submission? As of January 31, 4 AM PST, my paper status is still “Decision Pending” rather than “Undisclosed.” Is this normal, or should it have updated by now?
 
-9h ago
+10h ago
 
 ---
 
@@ -76,7 +76,7 @@ Has anyone already received a notification for their ICRA 2026 submission? As of
 
 I just received the news that my ICRA submission was rejected. Which is fine. I never submitted with the expectation that it would get accepted but hoping that I would get some valuable feedback in the case of a rejection. Unfortunately this was not the case. The decision was made based on just two reviews. One of which was relatively neutral but seemingly written by someone who was not deeply familiar with the subject. Not a problem in itself but not a good basis for a decision in the case of only two reviews. The one that worries me more is the second review which in my opinion is likely written by ChatGPT or a similar LLM. I base this opinion on the way it is written going into unnecessary detail but also on the fact that most criticisms are just incorrect. Showing very limited understanding of the subject both in theoretical as well as in practical aspects as well as a lack of basic logic. This was my first time submitting to ICRA and if this is the kind of review quality to expect from a "top" conference it will also be the last time. It does not seem like a good conference unless you are doing mainstream research. I will include the review in question and invite anybody to read the preprint of my paper to form your own opinion. The preprint is identical to the version I submitted anonymization fron the double blind review. Modeling of UAV Tether Aerodynamics for Real-Time Simulation I would be happy about any feedback about my paper or your own experiences with ICRA and other "top" conferences. Following is the review. (Note when they talk about missing reference [?] this is due to the anonymization. I removed the citation when citing my own previous work) This paper addresses the important problem of modeling the tension forces and geometric shape of a tethered cable subjected to drag and wind forces, specifically within the context of drone tethering applications. The authors present a dual-solution approach: an analytical model based on the catenary equations, and a numerical solution derived using the IPOPT optimization solver within the CasADi framework. Despite the interesting and relevant application, the paper suffers from several major concerns that must be comprehensively addressed before publication. Major Comments: - Lack of Clarity and Novelty in Introduction The Introduction fails to clearly articulate the problem's relevance for tethered drone systems (e.g., increased energy consumption, system instability, or control degradation due to cable dynamics). This critical context is left for the reader to infer. More importantly, the authors do not explicitly define the novelty or scientific contribution of the proposed dual-solution approach over the existing state of the art. The introduction must clearly establish how this work advances previous research. - The State-of-the-Art section describes previous works but struggles to differentiate the current contribution. Solutions presented in references, such as [5] and [6], appear to address similar or potentially more complete aspects of the problem. The authors must rigorously specify what makes their approach unique and scientifically significant compared to these prior methods. Without this clarity, the paper's contribution remains ambiguous to the reader. - The Analytical Approach section, while well-explained, relies heavily on existing theory. However, the subsequent Numerical Solution section lacks sufficient justification for its necessity. Observing Figure 4, the analytical and numerical solutions for the cable shape are notably similar. Crucially, the paper does not provide a true ground truth or a comparative analysis (e.g., computational cost, convergence rate, robustness to highly non-ideal conditions) to argue for the superiority or necessity of the numerical optimization solver. The authors must explain the specific scenarios where the numerical approach offers a non-trivial advantage. - The real-world experiment, which aims to validate the proposed online estimation of cable shape and tension, highlights several critical issues: Redundancy: The numerical and analytical cable shape estimations appear to be almost overlapping, reinforcing the question regarding the necessity of the computationally intensive numerical approach. Inconsistency with Measurement: The force cell measurements diverge significantly from the results predicted by both the analytical and numerical models, suggesting a fundamental modeling or implementation flaw that must be investigated and corrected. Contradictory Assumption: The experimental section assumes zero wind, a highly restrictive and unrealistic simplification that directly contradicts the paper's central motivation presented in the Introduction ("...optimize the design, modeling, and control of drones tethered to a moving ground vehicle in real-world conditions like strong wind."). This assumption undermines the stated purpose and the validity of the drag modeling. Kinematic Error: The assumption that ground speed is equal to airspeed is fundamentally incorrect in real-world scenarios, where wind (a stated variable in the paper's premise) is a major differentiating factor. Minor Notes - Missing Reference: The phrase "In [?], we have looked at optimization of the tether parameters..." contains a placeholder. This reference should be corrected to: "In [Number], the authors..." to maintain academic style and anonymity during review. - Inappropriate Language: The sentence, "Besides the necessary interface changes, two new lines of code were added and two lines were adjusted, showing the flexibility of the approach," is more suitable for a technical report or implementation note. In a formal conference paper, this assertion should be replaced with a more rigorous, quantitative statement about the modularity and computational efficiency of the implementation. The core concept of modeling tether dynamics is valuable, but the current manuscript is incomplete and requires significant revision. The major issues stem from unvalidated model results, unjustified complexity of the numerical solution, and experimental assumptions that directly contradict the paper's stated goals regarding wind effects. The authors must provide stronger evidence of the scientific contribution and rigorously validate the models under the realistic conditions outlined in the introduction.
 
-5h ago
+6h ago
 
 ---
 
@@ -100,7 +100,7 @@ It was good, old Boxie 1. Now, there is Boxie 2: stronger, better, more capable 
 
 I’m working on an industrial telematics system for a client who operates a fleet of electric forklifts . The proposed architecture is to mount a low-cost Android smartphone permanently on each forklift . Role of the Android phone: - Acts as the edge gateway - 4G connectivity to cloud - GPS positioning and speed estimation - Shock detection using accelerometer - Inclination (pitch/roll) using sensors - Driver identification using front camera (event-based face recognition) - Bluetooth (BLE) communication with an ESP32 that handles CAN bus + battery/current sensors Hardware constraints: - Low-end Android phones (≈3–4 GB RAM, quad-core CPU) - Continuous charging from forklift 24V - Industrial vibration environment - Android 11–14 range This is for a real client, not a hobby project. My questions to engineers who’ve done industrial / Android-at-the-edge systems: Is this architecture considered reasonable in production, or a maintenance nightmare long-term? What are the biggest failure modes you’ve seen when using Android phones as embedded gateways? Would you strongly recommend replacing the phone with a dedicated telematics box instead? Any hard lessons around Android background limits, BLE reliability, or sensor accuracy in vehicles? If you’ve shipped something similar, what would you do differently today? I’m intentionally not relying on OEM forklift firmware to keep the system brand-agnostic. Looking for honest, experience-based feedback positive or negative.
 
-10h ago
+11h ago
 
 ---
 
@@ -108,7 +108,7 @@ I’m working on an industrial telematics system for a client who operates a fle
 
 I guess it’s time for a new thread to discuss ICRA 2026 review results. This is my first first author submission and really looking forward to it 🙏
 
-8h ago
+9h ago
 
 ---
 
@@ -200,7 +200,7 @@ Humanoid robotics just took a massive leap into the real world. Researchers in C
 
 📺 AI Revolution
 
-👁️ 46K • 👍 768 • 💬 126 • ⏱️ 14:25 • 22h ago
+👁️ 46K • 👍 768 • 💬 126 • ⏱️ 14:25 • 23h ago
 
 ---
 
