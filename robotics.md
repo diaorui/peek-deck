@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-01-31T15:48:02.982403+00:00'
+updated: '2026-01-31T16:29:54.362095+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- videos
-- social
 - news
+- social
+- videos
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** January 31, 2026 at 15:48 UTC  
+**Last Updated:** January 31, 2026 at 16:29 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -52,7 +52,7 @@ Has anyone already received a notification for their ICRA 2026 submission? As of
 
 It was good, old Boxie 1. Now, there is Boxie 2: stronger, better, more capable ... but it is shy to deliver the beer :-)
 
-5h ago
+6h ago
 
 ---
 
@@ -60,7 +60,7 @@ It was good, old Boxie 1. Now, there is Boxie 2: stronger, better, more capable 
 
 Fast fertiggestellt. Nur noch die Servo Bricks mit Strom versorgen. Dann kann der erste Test starten. #insento Pib.rocks Einige hundert Stunden hat der 3D-Drucker gedruckt. Etwa 150 Teile. Dazu hunderte Schrauben und Muttern, Kugellager. MEhr als 20 Servomotoren, Raspi, Monitor, 360 Grad Mikroarray, Kamera mit Objekterkennung. Und viele Arbeitsstunden - ich bin mal gespannt, ob dann alles funktioniert.
 
-3h ago
+4h ago
 
 ---
 
@@ -68,7 +68,7 @@ Fast fertiggestellt. Nur noch die Servo Bricks mit Strom versorgen. Dann kann de
 
 I guess it’s time for a new thread to discuss ICRA 2026 review results. This is my first first author submission and really looking forward to it 🙏
 
-1h ago
+2h ago
 
 ---
 
@@ -82,13 +82,13 @@ I’m working on an industrial telematics system for a client who operates a fle
 
 **[BUILDING DRONE WITH STM32F103C8T6](https://www.reddit.com/r/robotics/comments/1qs5gao/building_drone_with_stm32f103c8t6/)**
 
-12m ago
+53m ago
 
 ---
 
 **[Problem With 20a Voltage Regulator Pot](https://www.reddit.com/r/robotics/comments/1qs4i9e/problem_with_20a_voltage_regulator_pot/)**
 
-48m ago
+1h ago
 
 ---
 
@@ -96,7 +96,7 @@ I’m working on an industrial telematics system for a client who operates a fle
 
 Wanted to share something we been working on for the past couple weeks. https://reddit.com/link/1qruali/video/kh9n7a6vhmgg1/player We built a 6-axis robotic arm using an Arduino UNO and some 3D printed parts. It has base rotation, shoulder, elbow, wrist movements and a gripper - so it basically moves like a tiny human arm. And we also made a simple web dashboard to control it with sliders, so we can record movements and play them back. https://preview.redd.it/9lajowfagmgg1.jpg?width=750&format=pjpg&auto=webp&s=eccc351d281c69f352ea552dde0b14c9a89df919 Ran into the usual beginner issues - jittery servos from low power, servos moving the wrong direction because I didn't align the horns properly, so on. But we learn a lot from this project 3D printing to fitting the parts to calibration. This simple Arduino Robotic Arm designed for pick-and-place tasks but right now it's just picking up my desk clutter and putting it back down in the same spot. Anyone else built something similar? Would love to hear what you used in your build or any tips for improvements are welcome.
 
-9h ago
+10h ago
 
 ---
 
@@ -104,7 +104,7 @@ Wanted to share something we been working on for the past couple weeks. https://
 
 Is there anything you'd recommend adding or changing? Core Compute & Vision NVIDIA Jetson Thor Developer Kit (the brain—assume already owned/bought separately; if in cart, ~$3,500) Arducam Mini 12.3MP HQ Camera (IMX477 sensor, M12 mount lens) — x2 for stereo "eyes" Arducam CSI to USB UVC Camera Adapter Board (for IMX477 to USB on Thor) — x2 Sabrent 60W 10-Port USB Rapid Charger Hub (AX-TPCS, UL certified, for expanding USB ports) Servos & Actuators 150KG Robot Servo Motor 12V High Voltage High Torque Steel Gear Large Digital Steering Servos with Mount Brackets — x8 (for shoulders, elbows, forearms) 60KG Robot Servo Motor High Torque Stainless Steel Gear Digital Steering Large Servos with Mount Brackets — x2 (for neck pan + tilt) 10Pcs SG90 9g Micro Servos for RC Robot Helicopter Airplane Controls Car Boat — x1 pack (10 total; 5 per hand for fingers/thumb) Control & Wiring PCA9685 16 Channel PWM Servo Driver Board 12 bit IIC Interface Module (Compatible with Arduino/RPi) — x2 (32 channels total) 3-Pin Servo Extension Wire Lead Female to Male, JR Plug Connector (various lengths/packs):Original packs: Enough for ~5-10 pieces initially Frienda 15 Pieces 3-pin Servo Extension Cables (11.8 inch / ~30cm) — x1 pack Additional packs of 20cm/30cm extensions — x2 packs (adding ~10 more) Power & SafetyRenogy 12V 100Ah LiFePO4 Lithium Battery Mini Size (Core Series, 100A BMS, Bluetooth/remote monitoring, deep cycle) Nilight Battery Disconnect Switch 100A Master Disconnect Isolator (12V-48V, waterproof heavy duty) Blue Sea Systems 5026 ST Blade Fuse Block 12 Circuit with Ground and Cover (100A) Blue Sea Systems 5503 ANL Fuse Block with Insulating Cover (35A to 750A range) Bussmann Series Assorted ATM Blade Mini-Fuse Kit — 42 pieces BOJACK 0/2/4 Gauge AWG In-Line ANL Fuse Holder with 100 Amp Fuse (or equivalent main fuse) Wiring & Tools NAOEVO 10 Gauge Marine Wire, 10 AWG Tinned Copper PVC (50 ft Black + 50 ft Red, IP68 waterproof/corrosion-resistant) BNTECHGO 20 Gauge Silicone Wire Spool 100 ft Black (flexible stranded tinned copper, for signals) 80 PCS (20 Pair) Powerpole Connectors, 30 Amp (AWG12-14 modular quick disconnect) iCrimp Battery Cable Lug Crimping Tool (for 8-1/0 AWG heavy duty lugs + cutter) haisstronica 420PCS 3:1 Heat Shrink Tubing Kit (adhesive-lined marine grade, black/red assorted sizes) Audio & Peripherals ReSpeaker XMOS XVF3800 – AI-Powered 4-Mic Array (for center of head, noise suppression) USB Sound Card with 8Ω 5W Speaker And I got a pruso mk4s printer to print all the chassis, and hull. Also will use zip ties for cable management. I plan on using fishing line and springs for fingers in the hand the 8 150 kg motors are for shoulder horizontal and vertical movement, elbows, and forearm movement and the 2 60 kg are for neck for for tilting head up and down and moving it side to side. I am going to work on the legs later. I want to get everything else working first.
 
-1h ago
+2h ago
 
 ---
 
@@ -132,7 +132,7 @@ The Guardian • 2d ago
 
 Record investment marks a shift away from traditional EVs toward automation.
 
-Yahoo Finance • 1d ago
+Yahoo Finance • 2d ago
 
 ---
 
@@ -146,7 +146,7 @@ Everett Herald • 1d ago
 
 **[Lightspeed Backs Robotics Startup in $100 Million Round](https://www.bloomberg.com/news/articles/2026-01-29/fiat-toyota-tycoons-back-startup-robco-in-100-million-round)**
 
-Bloomberg • 1d ago
+Bloomberg • 2d ago
 
 ---
 
@@ -168,7 +168,7 @@ Ondas Holdings • 3d ago
 
 Humanoid robots are set to soak up a whopping 75 GWh of solid-state battery capacity between now and 2035 – nearly 1500x growth!
 
-Electrek • 15h ago
+Electrek • 16h ago
 
 ---
 
@@ -198,7 +198,7 @@ Humanoid robotics just took a massive leap into the real world. Researchers in C
 
 📺 AI Revolution
 
-👁️ 26K • 👍 592 • 💬 70 • ⏱️ 14:25 • 16h ago
+👁️ 32K • 👍 643 • 💬 88 • ⏱️ 14:25 • 16h ago
 
 ---
 
@@ -208,7 +208,7 @@ China is deploying AI-powered robots to manage traffic and pedestrian flow in ci
 
 📺 NBC News
 
-👁️ 291K • 👍 3K • 💬 1K • ⏱️ 3:13 • 1d ago
+👁️ 327K • 👍 4K • 💬 1K • ⏱️ 3:13 • 1d ago
 
 ---
 
@@ -218,7 +218,7 @@ Robotics stocks are gaining attention as healthcare technology continues to evol
 
 📺 MarketBeat
 
-👁️ 12K • 👍 522 • 💬 22 • ⏱️ 16:59 • 15h ago
+👁️ 13K • 👍 562 • 💬 23 • ⏱️ 16:59 • 16h ago
 
 ---
 
@@ -228,7 +228,7 @@ The Cybertruck, autonomous driving and now the mad Optimus humanoid robot - thre
 
 📺 MGUY Australia
 
-👁️ 16K • 👍 2K • 💬 825 • ⏱️ 8:11 • 1d ago
+👁️ 16K • 👍 2K • 💬 840 • ⏱️ 8:11 • 1d ago
 
 ---
 
@@ -238,27 +238,7 @@ ObstacleAvoidance #ArduinoRobot #Robotics #TechReels #DIYProjects.
 
 📺 Roboarmy
 
-👁️ 7K • 👍 140 • 💬 1 • ⏱️ 0:20 • 22h ago
-
----
-
-**[Tesla Fremont factory ending Model S/X manufacturing to begin Optimus robot production](https://www.youtube.com/watch?v=liF86L_EvKQ)**
-
-Andrea Nakano reports on the Tesla Fremont factory ending Model S/X production and using that part of the factory for mass ...
-
-📺 KPIX | CBS NEWS BAY AREA
-
-👁️ 57K • 👍 516 • 💬 312 • ⏱️ 4:36 • 2d ago
-
----
-
-**[Why AI Pizza Machines Are Actually Worrying Workers 🍕](https://www.youtube.com/watch?v=U7tlOl7s3ns)**
-
-Some people are getting concerned because automatic AI pizza-making machines are slowly appearing on streets worldwide.
-
-📺 Taylor Jollie
-
-👁️ 21K • 👍 114 • 💬 12 • ⏱️ 0:19 • 1d ago
+👁️ 9K • 👍 161 • 💬 1 • ⏱️ 0:20 • 22h ago
 
 ---
 
@@ -268,17 +248,27 @@ Hyundai is planning to place 30000 humanoid robots in its factories. We talked t
 
 📺 More Perfect Union
 
-👁️ 189K • 👍 16K • 💬 2K • ⏱️ 2:59 • 3d ago
+👁️ 190K • 👍 16K • 💬 2K • ⏱️ 2:59 • 3d ago
 
 ---
 
-**[Meet Sprout: The Humanoid Robot Built for Real World Use](https://www.youtube.com/watch?v=4zMbX1OEOSE)**
+**[Pacman Universe – Advanced Robotic Character Animation | StrEat](https://www.youtube.com/watch?v=dm57WnYor00)**
 
-This new humanoid robot is not about hype or flashy promises. Sprout is designed to work alongside people in real environments, ...
+Pacman Universe – Advanced Robotic Character Animation | StrEat Pacman Universe presents a new futuristic 3D animation.
 
-📺 DPCcars
+📺 StrEat
 
-👁️ 8K • 👍 90 • 💬 19 • ⏱️ 3:17 • 2d ago
+👁️ 275K • 👍 553 • 4d ago
+
+---
+
+**[Why AI Pizza Machines Are Actually Worrying Workers 🍕](https://www.youtube.com/watch?v=U7tlOl7s3ns)**
+
+Some people are getting concerned because automatic AI pizza-making machines are slowly appearing on streets worldwide.
+
+📺 Taylor Jollie
+
+👁️ 21K • 👍 115 • 💬 12 • ⏱️ 0:19 • 1d ago
 
 ---
 
@@ -288,7 +278,15 @@ Keep watching the robots—because every day brings breakthrough moments that re
 
 📺 Dark Waters
 
-👁️ 243K • 👍 4K • 💬 559 • ⏱️ 0:23 • 1d ago
+👁️ 249K • 👍 5K • 💬 572 • ⏱️ 0:23 • 1d ago
+
+---
+
+**[This robot hand is better than a human one](https://www.youtube.com/watch?v=4mNYTnM826k)**
+
+📺 QCT
+
+👁️ 9K • 👍 96 • 💬 9 • ⏱️ 0:22 • 1d ago
 
 ---
 

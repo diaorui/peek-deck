@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-01-31T15:48:02.973285+00:00'
+updated: '2026-01-31T16:29:54.352672+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- videos
+- news
 - social
 - cryptocurrency
-- news
+- videos
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** January 31, 2026 at 15:48 UTC  
+**Last Updated:** January 31, 2026 at 16:29 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -54,17 +54,17 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1640.94B
+**Market Cap:** $1625.61B
 Rank #1
 
 **Circulating Supply:** 19,982,656 BTC
 95.2% of max
 
 **All-Time High:** $126,080.00
--34.9%
+-35.6%
 
 **All-Time Low:** $67.81
-+120929.3%
++119636.0%
 
 ---
 
@@ -81,13 +81,13 @@ Rank #1
 
 Watching good will hunting tonight
 
-14h ago
+15h ago
 
 ---
 
 **[Buying the dip.](https://www.reddit.com/r/Bitcoin/comments/1qrkz13/buying_the_dip/)**
 
-16h ago
+17h ago
 
 ---
 
@@ -103,7 +103,7 @@ I just bought the dip and officially crossed the 0.1 BTC mark. It’s been a lon
 
 I'm scared, not because I don't trust Bitcoin, but because I used my BTC and altcoins to back up a loan, which I used to buy more Bitcoin and altcoins. The problem is, I had my entire altcoin portfolio on Binance, and I liquidated it on October 10th. Now I only have BTC left, and if it drops below 80, I'll be wiped out. All my effort and sacrifice of six years will have been for nothing. I know many will say it's wrong and that I was greedy, but I'm someone who has worked hard for as long as I can remember. When I reached adulthood, I got fed up with that life. Now I don't know what to do, but I don't have the strength to continue. I know Bitcoin is the future, but I no longer see a good future for myself, and I don't have the strength to start from scratch.
 
-1h ago
+2h ago
 
 ---
 
@@ -111,13 +111,13 @@ I'm scared, not because I don't trust Bitcoin, but because I used my BTC and alt
 
 The deal will be too good to pass at that point.
 
-23h ago
+1d ago
 
 ---
 
 **[The Stack remains So Stack More](https://www.reddit.com/r/Bitcoin/comments/1qrxs32/the_stack_remains_so_stack_more/)**
 
-6h ago
+7h ago
 
 ---
 
@@ -125,13 +125,13 @@ The deal will be too good to pass at that point.
 
 My node analytics captured a large liquidation event this morning. Roughly $120M in realized losses came from positions established within the last ~3 months, with nearly 20,000 BTC transferring to counterparties during the unwind. This is classic leverage behavior being resolved... not long-term capital exiting the market. Notably, older age bands remain largely inactive. Long-term holders are not distributing into this move; they are waiting, as they typically do, while short-duration leverage clears. When price action is driven primarily by derivatives, forced selling, and liquidity hunting, history shows it tends to be temporary. Once the excess leverage is flushed and fear-driven flows subside, price reverts back to being governed by spot demand and accumulation. The rise of ETFs and derivatives has compressed these cycles into shorter timeframes, increasing volatility... but also making liquidation events like this easier to observe in real time. Smart money isn’t reacting here. It’s absorbing. Fascinating to watch these play out in real time.
 
-33m ago
+1h ago
 
 ---
 
 **[Time for something less volatile](https://www.reddit.com/r/Bitcoin/comments/1qrmwm4/time_for_something_less_volatile/)**
 
-15h ago
+16h ago
 
 ---
 
@@ -139,7 +139,7 @@ My node analytics captured a large liquidation event this morning. Roughly $120M
 
 The fastest way to create a Bitcoin skeptic is to tell someone you made money on Bitcoin. It's not always about the tech. It's about psychology. When you say you profited, some people don't hear "good investment" — they hear "I missed it." And instead of asking questions, they dismiss it. I've noticed something: the more you talk about your gains, the more resistance you create. Not because Bitcoin is flawed - but because success triggers ego. So maybe the real rule is simple: stack quietly.
 
-8h ago
+9h ago
 
 ---
 
@@ -157,7 +157,7 @@ The fastest way to create a Bitcoin skeptic is to tell someone you made money on
 
 Bitcoin slid toward $81,000 on Saturday as thin weekend liquidity magnified selling pressure, with traders pointing to Middle East tensions, U.S. political risk and lingering crypto-specific uncertainty.
 
-CoinDesk • 59m ago
+CoinDesk • 1h ago
 
 ---
 
@@ -165,7 +165,7 @@ CoinDesk • 59m ago
 
 Social chatter around bitcoin has turned sharply negative after the token slid to its lowest level since Nov. 21, a setup Santiment says often appears near capitulation, even if near term trading stays messy.
 
-CoinDesk • 14m ago
+CoinDesk • 56m ago
 
 ---
 
@@ -173,7 +173,7 @@ CoinDesk • 14m ago
 
 Indeed, since the JPMorgan report was published on Wednesday, both silver and gold have pulled back from recent highs.
 
-The Block • 19h ago
+The Block • 20h ago
 
 ---
 
@@ -181,7 +181,7 @@ The Block • 19h ago
 
 Tokenized silver futures recorded the largest liquidations across crypto markets over the past 24 hours, overtaking bitcoin and ether as a sharp pullback in metals collided with leverage-heavy trading on crypto venues.
 
-CoinDesk • 7h ago
+CoinDesk • 8h ago
 
 ---
 
@@ -203,7 +203,7 @@ Forbes • 1d ago
 
 The political fundraising group launched by crypto-billionaire brothers Cameron and Tyler Winklevoss raised more than $22 million in the last five months of 2025, but might not get as much bang for its Bitcoin.
 
-Bloomberg • 22h ago
+Bloomberg • 23h ago
 
 ---
 
@@ -283,7 +283,7 @@ Bitcoin plunged to a two-month low Thursday as risk-on assets broadly fell—and
 
 **[Single Bitcoin entity keeping BTC price suppressed below $90K](https://news.ycombinator.com/item?id=46812350)**
 
-⬆️ 1 • 💬 0 • 1d ago • [msn.com](https://www.msn.com/en-us/money/markets/single-bitcoin-entity-keeping-btc-price-suppressed-below-90k-analysis/ar-AA1VfVZb)
+⬆️ 1 • 💬 0 • 2d ago • [msn.com](https://www.msn.com/en-us/money/markets/single-bitcoin-entity-keeping-btc-price-suppressed-below-90k-analysis/ar-AA1VfVZb)
 
 ---
 
@@ -307,7 +307,7 @@ Transform HN comment threads into executive intelligence. AI analyzes discussion
 
 20 years of Hacker News analyzed. 40M comments. 10,000 topics. What the tech community really thinks.
 
-⬆️ 3 • 💬 0 • 23h ago • [HN Zeitgeist](https://hn.mrzepa.com/)
+⬆️ 3 • 💬 0 • 1d ago • [HN Zeitgeist](https://hn.mrzepa.com/)
 
 ---
 
@@ -321,7 +321,7 @@ Gold is absorbing sovereign capital while Bitcoin struggles — and that's exact
 
 📺 Savvy Finance
 
-👁️ 9K • 👍 379 • 💬 31 • ⏱️ 19:18 • 17h ago
+👁️ 10K • 👍 409 • 💬 32 • ⏱️ 19:18 • 17h ago
 
 ---
 
@@ -331,7 +331,7 @@ Check out ClashPicks: https://www.clashpicks.com/ **Exchange Partners** Bitunix 
 
 📺 CryptosRUs
 
-👁️ 51K • 👍 2K • 💬 620 • ⏱️ 8:41 • 1d ago
+👁️ 52K • 👍 2K • 💬 615 • ⏱️ 8:41 • 1d ago
 
 ---
 
@@ -341,57 +341,7 @@ LIMITED TIME: ✓ Bitunix (no kyc, $700 bonus): https://www.bitunix.com/register
 
 📺 Altcoin Daily
 
-👁️ 69K • 👍 2K • 💬 260 • ⏱️ 8:26 • 1d ago
-
----
-
-**[CIO Matt Hougan’s $6.5M Bitcoin Call: &#39;Long Term Investors Will Be Rewarded&#39;](https://www.youtube.com/watch?v=qxZHWdNnmkI)**
-
-Bitwise Chief Investment Officer, Matt Hougan joins CoinDesk's Markets Outlook with Jennifer Sanasie and Andy Baehr.
-
-📺 CoinDesk
-
-👁️ 11K • 👍 310 • 💬 36 • ⏱️ 26:03 • 20h ago
-
----
-
-**[We Predicted The Bitcoin Top – This Is Our 2026 Outlook](https://www.youtube.com/watch?v=RNuDCqoGuhg)**
-
-Join The Community: https://bit.ly/FefeCommunity FOLLOW FEFE FOR MORE ALPHA ON ...
-
-📺 100XClub
-
-👁️ 14K • 👍 1K • 💬 282 • ⏱️ 28:55 • 22h ago
-
----
-
-**[Crypto Just FLIPPED | NEW Fed Chair Means THIS For Bitcoin (Fully Explained)](https://www.youtube.com/watch?v=jDIwD0XRfbo)**
-
-Crypto Just FLIPPED | NEW Fed Chair Bitcoin Plan (Fully Explained) ✓ Bitunix (no kyc, $10000 bonus): ...
-
-📺 Altcoin Daily
-
-👁️ 45K • 👍 2K • 💬 219 • ⏱️ 8:25 • 17h ago
-
----
-
-**[The Real Reason Bitcoin Looks Broken Right Now (Not What You Think)](https://www.youtube.com/watch?v=5HOmQbQ3-4M)**
-
-Gold and silver just experienced historic volatility while Bitcoin feels strangely stuck. In this episode of No Second Best, we step ...
-
-📺 Swan Bitcoin
-
-👁️ 108K • 👍 3K • 💬 441 • ⏱️ 15:38 • 1d ago
-
----
-
-**[Why is Bitcoin Dropping?](https://www.youtube.com/watch?v=pxFxcr11dMI)**
-
-Bitcoin appears to have completed its 2023–2025 market cycle and entered a late-cycle digestion phase similar to mid-2019.
-
-📺 Benjamin Cowen
-
-👁️ 90K • 👍 5K • 💬 431 • ⏱️ 10:19 • 1d ago
+👁️ 69K • 👍 2K • 💬 254 • ⏱️ 8:26 • 1d ago
 
 ---
 
@@ -401,7 +351,47 @@ BYBIT: http://themoon.co/Bybit 10% DISCOUNT & $30000 BONUS BloFin: https://themo
 
 📺 The Moon Show
 
-👁️ 8K • 👍 628 • 💬 76 • ⏱️ 6:54 • 6h ago
+👁️ 13K • 👍 814 • 💬 94 • ⏱️ 6:54 • 7h ago
+
+---
+
+**[Crypto Just FLIPPED | NEW Fed Chair Means THIS For Bitcoin (Fully Explained)](https://www.youtube.com/watch?v=jDIwD0XRfbo)**
+
+Crypto Just FLIPPED | NEW Fed Chair Bitcoin Plan (Fully Explained) ✓ Bitunix (no kyc, $10000 bonus): ...
+
+📺 Altcoin Daily
+
+👁️ 47K • 👍 3K • 💬 276 • ⏱️ 8:25 • 17h ago
+
+---
+
+**[CIO Matt Hougan’s $6.5M Bitcoin Call: &#39;Long Term Investors Will Be Rewarded&#39;](https://www.youtube.com/watch?v=qxZHWdNnmkI)**
+
+Bitwise Chief Investment Officer, Matt Hougan joins CoinDesk's Markets Outlook with Jennifer Sanasie and Andy Baehr.
+
+📺 CoinDesk
+
+👁️ 12K • 👍 329 • 💬 39 • ⏱️ 26:03 • 21h ago
+
+---
+
+**[We Predicted The Bitcoin Top – This Is Our 2026 Outlook](https://www.youtube.com/watch?v=RNuDCqoGuhg)**
+
+Join The Community: https://bit.ly/FefeCommunity FOLLOW FEFE FOR MORE ALPHA ON ...
+
+📺 100XClub
+
+👁️ 15K • 👍 1K • 💬 304 • ⏱️ 28:55 • 22h ago
+
+---
+
+**[The Real Reason Bitcoin Looks Broken Right Now (Not What You Think)](https://www.youtube.com/watch?v=5HOmQbQ3-4M)**
+
+Gold and silver just experienced historic volatility while Bitcoin feels strangely stuck. In this episode of No Second Best, we step ...
+
+📺 Swan Bitcoin
+
+👁️ 110K • 👍 4K • 💬 446 • ⏱️ 15:38 • 1d ago
 
 ---
 
@@ -411,7 +401,17 @@ Markets are breaking while Bitcoin sits quietly in the corner. Powell held rates
 
 📺 Simply Bitcoin
 
-👁️ 35K • 👍 3K • 💬 386 • ⏱️ 18:55 • 1d ago
+👁️ 35K • 👍 3K • 💬 372 • ⏱️ 18:55 • 1d ago
+
+---
+
+**[Crypto Crashes After CLARITY Vote Again!🔥](https://www.youtube.com/watch?v=C5lNcnvjrZs)**
+
+After a brief series of amendments were rejected, the U.S. Senate Agriculture Committee voted to advance its version of the crypto ...
+
+📺 Paul Barron Network
+
+👁️ 164K • 👍 6K • 💬 791 • ⏱️ 16:34 • 1d ago
 
 ---
 

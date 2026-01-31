@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-01-31T15:48:02.979210+00:00'
+updated: '2026-01-31T16:29:54.358818+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- videos
+- news
 - social
 - cryptocurrency
-- news
+- videos
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** January 31, 2026 at 15:48 UTC  
+**Last Updated:** January 31, 2026 at 16:29 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -52,17 +52,17 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Market Stats
 
-**Market Cap:** $313.30B
+**Market Cap:** $305.45B
 Rank #2
 
 **Circulating Supply:** 120,694,153 ETH
 No max supply
 
 **All-Time High:** $4,946.05
--47.8%
+-48.9%
 
 **All-Time Low:** $0.43
-+596351.6%
++583641.9%
 
 ---
 
@@ -72,13 +72,13 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-9h ago
+10h ago
 
 ---
 
 **[Listening to Polymarket trades in real-time (open source, no third party)](https://www.reddit.com/r/ethereum/comments/1qs3l8c/listening_to_polymarket_trades_in_realtime_open/)**
 
-1h ago
+2h ago
 
 ---
 
@@ -86,7 +86,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 World News, Stories By EtherWorld, Technical Explainers, Client News & Updates, Podcasts, Upcoming Events & Jobs
 
-🔗 [EtherWorld.co](https://etherworld.co/etherworld-weekly-edition-349/) • 1h ago
+🔗 [EtherWorld.co](https://etherworld.co/etherworld-weekly-edition-349/) • 2h ago
 
 ---
 
@@ -126,7 +126,7 @@ Hello Folks, I just published a smart contract to handle crypto inheritance 100%
 
 Watch before one bug costs you everything. https://x.com/SolidityScan/status/2017172006056390715?s=20
 
-8h ago
+9h ago
 
 ---
 
@@ -134,7 +134,7 @@ Watch before one bug costs you everything. https://x.com/SolidityScan/status/201
 
 The Doots live stream is all about showcasing the best of the week from the Daily General Discussion from the r/ethereum Community on Reddit! Today we talked to Mac Budkowski from macbudkowski.com. He's made the "No BS Crypto GTM guide." Dig into what he has learned about timing, messaging, and why best isn't always good. Host: JT Technical Host: LogrisTheBard https://dailydoots.com by Hanniabu Daily Doots Curator: Tricky_Troll Weekly Doots Curator: The-A-Word Farcaster and Backend Host Support: Ben Broad Media Content Support: Twelve Meatballs Discord Bouncer and Watchdog: Treebeard As always, if you know someone who wants a piece of this action, send em our way. Buy us a ☕ dailydoots.eth All of our channels can be found here: https://dailydoots.com/podcast/ 🕸️https://dailydoots.com 📢https://discord.gg/EVMavericks 📰https://reddit.com/r/ethereum 🔊MINTABLE Podcast 👉: https://pods.media/evmavericks 🍎Apple https://podcasts.apple.com/us/podcast/ethfinance-evmavericks-daily-doots-livestream/id1750089604 🔊Spotify https://open.spotify.com/show/7AotdyMtcvHZLv3pVqkxre 🦁https://x.com/EVMavericks ⏱️TikTok: https://www.tiktok.com/@evmavericks 📺https://www.youtube.com/channel/UC51nlNbIkBm5Qhm7EwQuWLw Twitch: https://www.twitch.tv/evmavericks LinkedIN: https://www.linkedin.com/company/evmavericks-daily-doots-podcast
 
-🔗 [youtu.be](https://youtu.be/lDG5GrjKgew) • 17h ago
+🔗 [youtu.be](https://youtu.be/lDG5GrjKgew) • 18h ago
 
 ---
 
@@ -162,7 +162,7 @@ CoinDesk • 1d ago
 
 Ethereum co-founder Vitalik Buterin has withdrawn 16,384 ETH, worth roughly $45 million at current market prices.
 
-TradingView • 1h ago
+TradingView • 2h ago
 
 ---
 
@@ -170,13 +170,13 @@ TradingView • 1h ago
 
 The Ethereum co-founder wants to pursue an “aggressive” roadmap that will strengthen its status as a decentralized world computer.
 
-Decrypt • 22h ago
+Decrypt • 23h ago
 
 ---
 
 **[Bitcoin, XRP, Ethereum Fall on News of Kevin Warsh Fed Appointment.](https://www.barrons.com/articles/bitcoin-xrp-ethereum-crypto-today-954298d9?gaa_at=eafs&gaa_n=AWEtsqeRFJqcrr-e_iLqV-DP9vpkoTYH3eHQgLKYh2sc7kOeTePnrfNrMSPD&gaa_ts=697e279a&gaa_sig=lP3E6viCRf95pKR9-HE30SNtupKOKmLXUgwy_niYaOIf66zVhQ8_nugpw90iNEZLBNYJArAMdcZ71UDUePP-qA%3D%3D)**
 
-Barron's • 21h ago
+Barron's • 22h ago
 
 ---
 
@@ -192,7 +192,7 @@ Yahoo Finance • 2h ago
 
 Banks at Davos are done watching from the sidelines. At this year’s World Economic Forum, major financial institutions said they need crypto infrastructure to stay competitive.A recent Altcoin Buzz video broke down three signals pointing to a potential crypto rally. “The biggest banks in the world…
 
-TradingView • 6h ago
+TradingView • 7h ago
 
 ---
 
@@ -232,33 +232,73 @@ The Motley Fool • 1d ago
 
 ## YouTube Videos: "ethereum"
 
+**[Ethereum Elliott Wave Update – Key Resistance Levels Ahead](https://www.youtube.com/watch?v=soWYVsa4xZc)**
+
+This video provides a professional Elliott Wave and technical analysis of Ethereum (ETH), focusing on market structure, major ...
+
+📺 More Crypto Online
+
+👁️ 764 • 👍 73 • 💬 8 • ⏱️ 4:18 • 2h ago
+
+---
+
+**[When Will Stop The Crash? 💀 ETH Crypto Token Analysis](https://www.youtube.com/watch?v=LUAphGQ2Yls)**
+
+Join Premium: https://the-bitcoin-strategy.com My Chart Software: https://the-bitcoin-strategy.com/tradingview My Hardware Wallet: ...
+
+📺 Gerhard - Bitcoin Strategy
+
+👁️ 3K • 👍 108 • 💬 40 • ⏱️ 7:13 • 7h ago
+
+---
+
+**[ETHEREUM DUMP UPDATE🚨 (Ethereum Price Prediction 2026)](https://www.youtube.com/watch?v=zsuQzm_EUqc)**
+
+ETHEREUM ETH PRICE PREDICTION 2026 Join the Premium Signal Group for trade setups, mentorship & a community ...
+
+📺 Cilinix Crypto
+
+👁️ 426 • 👍 16 • 💬 3 • ⏱️ 4:35 • 6h ago
+
+---
+
+**[&quot;Why I&#39;m Loading Up MASSIVELY In Ethereum Before MARCH&quot; - Tom Lee (4 WEEKS LEFT!)](https://www.youtube.com/watch?v=UjCE1TUJ4lI)**
+
+My FREE Daily On-Chain Analysis & Crypto News In 5-Mins: https://www.cryptonutshell.com/subscribe You can NOW ...
+
+📺 Jamie Tree 
+
+👁️ 266 • 👍 15 • 💬 21 • ⏱️ 18:25 • 1h ago
+
+---
+
+**[Ethereum Elliott Wave Update – Key Resistance Levels Ahead](https://www.youtube.com/watch?v=Mk8yvyi5cXI)**
+
+This video provides a professional Elliott Wave and technical analysis of Ethereum (ETH), focusing on market structure, major ...
+
+📺 More Crypto Online
+
+👁️ 2K • 👍 128 • 💬 5 • ⏱️ 4:29 • 12h ago
+
+---
+
+**[LIVE: Trump Announces Important News About Crypto! This Speech Will Change the Crypto Industry](https://www.youtube.com/watch?v=dpQMip2PHwk)**
+
+TrumpCrypto2026 #DigitalAssets #TrumpAnnouncement Welcome to the Trump Crypto Forum 2026 — streaming LIVE from ...
+
+📺 Sportfm
+
+👁️ 11K • 👍 911 • 16h ago
+
+---
+
 **[BITCOIN &amp; ALTCOIN CRASH: EMERGENCY UPDATE (New Trade)!!! - Bitcoin News Today, Ethereum &amp; Altcoins](https://www.youtube.com/watch?v=_kPvKrJSvxo)**
 
 BITCOIN & ALTCOIN CRASH: EMERGENCY UPDATE (New Trade)!!! - Bitcoin News Today, Ethereum & Altcoins *Toobit* ...
 
 📺 Crypto World
 
-👁️ 9K • 👍 309 • 💬 78 • ⏱️ 22:15 • 20h ago
-
----
-
-**[🚨 BTC &amp; ETH: SELL ALL BITCOIN AND QUIT CRYPTO!!!!!!!!!](https://www.youtube.com/watch?v=Js9TFiiwSBk)**
-
-The situation is getting worse and worse for crypto. Here are facts and my take on whether its time to sell all bitcoin and just quit!
-
-📺 Thomas Kralow
-
-👁️ 57K • 👍 3K • 💬 173 • ⏱️ 13:43 • 2d ago
-
----
-
-**[Ethereum Elliott Wave Update – Key Resistance Levels Ahead](https://www.youtube.com/watch?v=EBDBuOl9hek)**
-
-This video provides a professional Elliott Wave and technical analysis of Ethereum (ETH), focusing on market structure, major ...
-
-📺 More Crypto Online
-
-👁️ 2K • 👍 136 • 💬 9 • ⏱️ 4:32 • 1d ago
+👁️ 9K • 👍 319 • 💬 80 • ⏱️ 22:15 • 21h ago
 
 ---
 
@@ -272,63 +312,23 @@ Cardano and Ethereum holders... GET READY!! ✓ Bitunix (no kyc, $10000 bonus): 
 
 ---
 
-**[Ethereum Elliott Wave Update – Key Resistance Levels Ahead](https://www.youtube.com/watch?v=Mk8yvyi5cXI)**
+**[Mathematician Fred Krueger: The Crypto Price Predictions Are UNBELIEVABLE Now](https://www.youtube.com/watch?v=A5PJS1pcUJo)**
 
-This video provides a professional Elliott Wave and technical analysis of Ethereum (ETH), focusing on market structure, major ...
+Watch The FULL Interview: "Explosive Crypto Price Prediction for 2026..." FREE Daily On-Chain Analysis & Crypto News In ...
 
-📺 More Crypto Online
+📺 Library Of Wealth
 
-👁️ 2K • 👍 125 • 💬 5 • ⏱️ 4:29 • 11h ago
-
----
-
-**[ETH Loses Support, This Is The Setup We’re Watching](https://www.youtube.com/watch?v=yYD9cCVxI48)**
-
-Get $450 Off Our New AI Indicators: https://tradeconfidentportal.io/indicators/ New Members! Get 25% Off Your 1st Month: ...
-
-📺 Trade Confident
-
-👁️ 685 • 👍 21 • 💬 5 • ⏱️ 5:01 • 1d ago
+👁️ 12K • 👍 480 • 💬 320 • ⏱️ 14:36 • 1d ago
 
 ---
 
-**[When Will Stop The Crash? 💀 ETH Crypto Token Analysis](https://www.youtube.com/watch?v=LUAphGQ2Yls)**
+**[TOM LEE WAS WRONG! #crypto #bitcoin #ethereum #fyp #xrp #investing #trading #trump #business #money](https://www.youtube.com/watch?v=6mgIMnSwBpo)**
 
-Join Premium: https://the-bitcoin-strategy.com My Chart Software: https://the-bitcoin-strategy.com/tradingview My Hardware Wallet: ...
+how to buy PulseChain coins? https://libertyswap.finance buy with card: https://buy-pulsechain.com | buy with bank account: ...
 
-📺 Gerhard - Bitcoin Strategy
+📺 Crypto Coffee
 
-👁️ 2K • 👍 86 • 💬 39 • ⏱️ 7:13 • 6h ago
-
----
-
-**[WILL ETHEREUM CRASH LOWER?🚨 (Ethereum Price Prediction 2026)](https://www.youtube.com/watch?v=A2OIPUKO7yo)**
-
-ETHEREUM ETH PRICE PREDICTION 2026 Join the Premium Signal Group for trade setups, mentorship & a community ...
-
-📺 Cilinix Crypto
-
-👁️ 1K • 👍 30 • 💬 1 • ⏱️ 5:29 • 1d ago
-
----
-
-**[Bitcoin &amp; Ethereum Hits New High But People aren&#39;t Investing? | Sanjay Kathuria](https://www.youtube.com/watch?v=yyRQhMpyp40)**
-
-Open Your Account on CoinDCX: https://join.coindcx.com/invite/uBCBj Join the Telegram Community https://t.me/easylearncryptox ...
-
-📺 Sanjay Kathuria 
-
-👁️ 24K • 👍 898 • 💬 135 • ⏱️ 10:23 • 1d ago
-
----
-
-**[BIG NEWS! FIDELITY LAUNCHES STABLECOIN ON ETHEREUM &amp; WHITE HOUSE CRYPTO BANK MEETING!](https://www.youtube.com/watch?v=-jn0xFl94yc)**
-
-Crypto News: Fidelity Investments is launching its first stablecoin, the Fidelity Digital Dollar (FIDD), based on the Ethereum ...
-
-📺 Thinking Crypto
-
-👁️ 6K • 👍 540 • 💬 84 • ⏱️ 16:32 • 2d ago
+👁️ 561 • 👍 32 • 💬 13 • ⏱️ 1:07 • 4h ago
 
 ---
 
