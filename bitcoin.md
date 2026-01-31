@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-01-31T20:50:38.436182+00:00'
+updated: '2026-01-31T21:22:46.032784+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
 - cryptocurrency
-- videos
-- social
 - news
+- social
+- videos
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** January 31, 2026 at 20:50 UTC  
+**Last Updated:** January 31, 2026 at 21:22 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -93,7 +93,7 @@ I'm not wasting these cheap stacks. HODL and BUY!
 
 **[Buy Now](https://www.reddit.com/r/Bitcoin/comments/1qs9mvq/buy_now/)**
 
-2h ago
+3h ago
 
 ---
 
@@ -101,7 +101,7 @@ I'm not wasting these cheap stacks. HODL and BUY!
 
 The world is going through some shit right now...but just know that eventually, everything's going to be ok. The aftermath might be a little hard to stomach, but we'll get through it. In the meantime...don't miss the chance to stack sats at every drop. You never know which one will be the bottom, but buy a bit at every new low and thank me later.
 
-5h ago
+6h ago
 
 ---
 
@@ -109,25 +109,25 @@ The world is going through some shit right now...but just know that eventually, 
 
 I'm scared, not because I don't trust Bitcoin, but because I used my BTC and altcoins to back up a loan, which I used to buy more Bitcoin and altcoins. The problem is, I had my entire altcoin portfolio on Binance, and I liquidated it on October 10th. Now I only have BTC left, and if it drops below 80, I'll be wiped out. All my effort and sacrifice of six years will have been for nothing. I know many will say it's wrong and that I was greedy, but I'm someone who has worked hard for as long as I can remember. When I reached adulthood, I got fed up with that life. Now I don't know what to do, but I don't have the strength to continue. I know Bitcoin is the future, but I no longer see a good future for myself, and I don't have the strength to start from scratch.
 
-6h ago
+7h ago
 
 ---
 
 **[Bitcoin falls below $80,000, continuing decline](https://www.reddit.com/r/Bitcoin/comments/1qs9uw4/bitcoin_falls_below_80000_continuing_decline/)**
 
-🔗 [reuters.com](https://www.reuters.com/business/bitcoin-falls-below-80000-continuing-decline-2026-01-31/) • 2h ago
+🔗 [reuters.com](https://www.reuters.com/business/bitcoin-falls-below-80000-continuing-decline-2026-01-31/) • 3h ago
 
 ---
 
 **[I’m done](https://www.reddit.com/r/Bitcoin/comments/1qsaxev/im_done/)**
 
-1h ago
+2h ago
 
 ---
 
 **[Today’s message…](https://www.reddit.com/r/Bitcoin/comments/1qscx1s/todays_message/)**
 
-37m ago
+1h ago
 
 ---
 
@@ -153,7 +153,7 @@ Nothing has changed. Governments are still spending far far more money than they
 
 Long-term bitcoin holders are selling at the fastest pace since August, while some industry observers suggest the market may be approaching a bear-market bottom.
 
-CoinDesk • 3h ago
+CoinDesk • 4h ago
 
 ---
 
@@ -177,7 +177,7 @@ Yahoo Finance • 1d ago
 
 Bitcoin and Ethereum plunged following wide swings in the commodities market.
 
-CNBC • 51m ago
+CNBC • 1h ago
 
 ---
 
@@ -185,7 +185,7 @@ CNBC • 51m ago
 
 The strongest bulls take the time to learn the opposite point of view.
 
-Yahoo Finance • 4h ago
+Yahoo Finance • 5h ago
 
 ---
 
@@ -325,7 +325,7 @@ The 'Path of Least Resistance' is currently straight down, and the stock market 
 
 📺 Gareth Soloway
 
-👁️ 16K • 👍 3K • 💬 431 • ⏱️ 12:26 • 2h ago
+👁️ 16K • 👍 3K • 💬 431 • ⏱️ 12:26 • 3h ago
 
 ---
 
@@ -335,7 +335,7 @@ Why the Crypto Market Is Red (It s NOT the Reason You Think)! Breaking Crypto Ne
 
 📺 Austin Hilton
 
-👁️ 12K • 👍 735 • 💬 147 • ⏱️ 9:28 • 4h ago
+👁️ 12K • 👍 735 • 💬 147 • ⏱️ 9:28 • 5h ago
 
 ---
 
@@ -355,7 +355,7 @@ LeveX: https://levex.com/r/CryptoKid MEMBER UPDATES WEEX: https://cryptokid.io/W
 
 📺 Crypto Kid
 
-👁️ 4K • 👍 353 • 💬 126 • ⏱️ 4:03 • 2h ago
+👁️ 4K • 👍 353 • 💬 126 • ⏱️ 4:03 • 3h ago
 
 ---
 
@@ -365,7 +365,7 @@ Come look into the next BIG move in crypto & metals! All LIVE analysis, charting
 
 📺 Tom Crown
 
-👁️ 5K • 👍 479 • 1h ago
+👁️ 5K • 👍 479 • 2h ago
 
 ---
 

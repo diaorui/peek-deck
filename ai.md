@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-01-31T20:50:38.427601+00:00'
+updated: '2026-01-31T21:22:46.024407+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- videos
-- social
-- news
 - repositories
+- news
+- social
+- videos
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** January 31, 2026 at 20:50 UTC  
+**Last Updated:** January 31, 2026 at 21:22 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -41,7 +41,7 @@ AI news, discussions, and developments
 
 AI coding tools are getting more sophisticated. But if coders stop coding, what happens to software development jobs?
 
-🔗 [Fortune](https://fortune.com/2026/01/29/100-percent-of-code-at-anthropic-and-openai-is-now-ai-written-boris-cherny-roon/) • 22h ago
+🔗 [Fortune](https://fortune.com/2026/01/29/100-percent-of-code-at-anthropic-and-openai-is-now-ai-written-boris-cherny-roon/) • 23h ago
 
 ---
 
@@ -49,13 +49,13 @@ AI coding tools are getting more sophisticated. But if coders stop coding, what 
 
 "Nvidia released three open-source artificial intelligence models aimed at helping create better weather forecasts, faster.... In the case of weather forecasting, Nvidia is aiming to replace expensive and time-consuming conventional weather simulations with AI-driven versions that the company said can rival or exceed the accuracy of older methods. The AI models, once trained, are also faster and cost less to run ... Nvidia's "Earth-2" models introduced on Monday include one aimed at making 15-day weather forecasts, one that specializes in forecasts of up to six hours for severe storms over the U.S., and one that can be used to integrate disparate data streams from a variety of weather sensors to make them a more useful starting point for other forecasting technology." Model page: https://www.nvidia.com/en-us/high-performance-computing/earth-2/
 
-🔗 [reuters.com](https://www.reuters.com/business/environment/nvidia-unveils-ai-models-faster-cheaper-weather-forecasts-2026-01-26/) • 3h ago
+🔗 [reuters.com](https://www.reuters.com/business/environment/nvidia-unveils-ai-models-faster-cheaper-weather-forecasts-2026-01-26/) • 4h ago
 
 ---
 
 **[The $100 Billion Megadeal Between OpenAI and Nvidia Is on Ice](https://www.reddit.com/r/artificial/comments/1qrnq8u/the_100_billion_megadeal_between_openai_and/)**
 
-🔗 [wsj.com](https://www.wsj.com/tech/ai/the-100-billion-megadeal-between-openai-and-nvidia-is-on-ice-aa3025e3) • 19h ago
+🔗 [wsj.com](https://www.wsj.com/tech/ai/the-100-billion-megadeal-between-openai-and-nvidia-is-on-ice-aa3025e3) • 20h ago
 
 ---
 
@@ -63,7 +63,7 @@ AI coding tools are getting more sophisticated. But if coders stop coding, what 
 
 Supports Qwen3-TTS models (0.6B-1.7B) and ASR models. Docker + native deployment options. Key features: 🎭 Voice cloning with reference audio 🎨 Custom voice design from text descriptions ⚡ MLX + Metal GPU acceleration for M1/M2/M3 🎨 Modern React UI included If you like local audio models, give it a try. Works best in local dev mode for now.
 
-🔗 [GitHub](https://github.com/agentem-ai/izwi-audio) • 4h ago
+🔗 [GitHub](https://github.com/agentem-ai/izwi-audio) • 5h ago
 
 ---
 
@@ -85,7 +85,7 @@ For years, the gold standard in AI was "hoard everything, sort it later." But as
 
 Chris Mason, the longtime Linux kernel developer most known for being the creator of Btrfs, has been working on a Git repository with AI review prompts he has been working on for LLM-assisted code review of Linux kernel patches
 
-🔗 [phoronix.com](https://www.phoronix.com/news/AI-Code-Review-Prompts-Linux) • 17h ago
+🔗 [phoronix.com](https://www.phoronix.com/news/AI-Code-Review-Prompts-Linux) • 18h ago
 
 ---
 
@@ -125,19 +125,19 @@ Forbes • 4h ago
 
 **[Opinion | Pay More Attention to A.I.](https://www.nytimes.com/2026/01/31/opinion/artificial-intelligence-new-world.html)**
 
-The New York Times • 8h ago
+The New York Times • 9h ago
 
 ---
 
 **[AI Is Turning Regulation Into A Growth Variable](https://www.forbes.com/sites/robertginsburg/2026/01/31/ai-is-turning-regulation-into-a-growth-variable/)**
 
-Forbes • 30m ago
+Forbes • 1h ago
 
 ---
 
 **[AI Boom Is Triggering a Loan Meltdown for Software Companies: Credit Weekly](https://www.bloomberg.com/news/articles/2026-01-31/ai-boom-is-triggering-a-loan-meltdown-for-software-companies-credit-weekly)**
 
-Bloomberg • 50m ago
+Bloomberg • 1h ago
 
 ---
 
@@ -349,7 +349,7 @@ Join the #1 community for AI entrepreneurs and connect with 280k+ members: https
 
 📺 Liam Ottley
 
-👁️ 8K • 👍 506 • 💬 31 • ⏱️ 8:14 • 12h ago
+👁️ 8K • 👍 506 • 💬 31 • ⏱️ 8:14 • 13h ago
 
 ---
 
@@ -359,7 +359,7 @@ Create AI Music Videos with OpenArt https://www.openart.ai/home/?ref=isa-27 In t
 
 📺 Isa does AI
 
-👁️ 8K • 💬 4 • ⏱️ 10:25 • 7h ago
+👁️ 8K • 💬 4 • ⏱️ 10:25 • 8h ago
 
 ---
 
@@ -369,7 +369,7 @@ Like and subscribe if you enjoyed it! Follow me on social media: Instagram: http
 
 📺 DreamcastGuy
 
-👁️ 18K • 👍 1K • 💬 351 • ⏱️ 11:19 • 22h ago
+👁️ 18K • 👍 1K • 💬 351 • ⏱️ 11:19 • 23h ago
 
 ---
 
@@ -385,7 +385,7 @@ Kimi K2.5 is a native multimodal agentic model with 1T parameters, excelling in 
 
 `image-text-to-text`
 
-⬇️ 32,430 • ❤️ 1,287 • 19h ago
+⬇️ 32,430 • ❤️ 1,287 • 20h ago
 
 ---
 
@@ -673,7 +673,7 @@ LLM驱动的 A/H/美股智能分析器，多数据源行情 + 实时新闻 + Gem
 
 `Python` `agent` `ai` `aigc` `gemini` `llm`
 
-⭐ 8.3k • 🔱 8.7k • 5h ago
+⭐ 8.3k • 🔱 8.7k • 6h ago
 
 ---
 
@@ -683,7 +683,7 @@ LLM驱动的 A/H/美股智能分析器，多数据源行情 + 实时新闻 + Gem
 
 `Vue`
 
-⭐ 6.8k • 🔱 1.2k • 7h ago
+⭐ 6.8k • 🔱 1.2k • 8h ago
 
 ---
 
