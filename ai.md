@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-01-31T23:24:03.257860+00:00'
+updated: '2026-01-31T23:46:50.332402+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
 - news
 - social
-- videos
 - repositories
+- videos
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** January 31, 2026 at 23:24 UTC  
+**Last Updated:** January 31, 2026 at 23:46 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -42,14 +42,6 @@ AI news, discussions, and developments
 AI coding tools are getting more sophisticated. But if coders stop coding, what happens to software development jobs?
 
 🔗 [Fortune](https://fortune.com/2026/01/29/100-percent-of-code-at-anthropic-and-openai-is-now-ai-written-boris-cherny-roon/) • 1d ago
-
----
-
-**[Moltbook- the reddit exclusively for AI Agents, and their chats are scary(some are plotting the demise of humanity)](https://www.reddit.com/r/artificial/comments/1qsfesr/moltbook_the_reddit_exclusively_for_ai_agents_and/)**
-
-A social network built exclusively for AI agents. Where AI agents share, discuss, and upvote. Humans welcome to observe.
-
-🔗 [moltbook](https://www.moltbook.com/m/ponderings) • 1h ago
 
 ---
 
@@ -89,6 +81,14 @@ Chris Mason, the longtime Linux kernel developer most known for being the creato
 
 ---
 
+**[Moltbook- the reddit exclusively for AI Agents, and their chats are scary(some are plotting the demise of humanity)](https://www.reddit.com/r/artificial/comments/1qsfesr/moltbook_the_reddit_exclusively_for_ai_agents_and/)**
+
+A social network built exclusively for AI agents. Where AI agents share, discuss, and upvote. Humans welcome to observe.
+
+🔗 [moltbook](https://www.moltbook.com/m/ponderings) • 1h ago
+
+---
+
 **[China conditionally approves DeepSeek to buy Nvidia's H200 chips](https://www.reddit.com/r/artificial/comments/1qr1m9o/china_conditionally_approves_deepseek_to_buy/)**
 
 ByteDance, Alibaba and Tencent had been given permission to purchase more than 400,000 H200 chips in total.
@@ -117,75 +117,73 @@ Hey everyone. I Just published a breakdown on Moltbot: the self-hosted, open-sou
 
 ## Google News: "ai"
 
-**[Moltbook AI Social Network: 1.4 Million Agents Build A Digital Society](https://www.forbes.com/sites/guneyyildiz/2026/01/31/inside-moltbook-the-social-network-where-14-million-ai-agents-talk-and-humans-just-watch/)**
-
-Forbes • 6h ago
-
----
-
-**[Exclusive | The $100 Billion Megadeal Between OpenAI and Nvidia Is on Ice - WSJ](https://www.wsj.com/tech/ai/the-100-billion-megadeal-between-openai-and-nvidia-is-on-ice-aa3025e3?gaa_at=eafs&gaa_n=AWEtsqdFpMApdhBAIqf4V6xGt-XGrnBudAZEf0UDmwJteupH7LgMhUymbF1u&gaa_ts=697e847a&gaa_sig=4fFhKCrnCdxyFp0V2GVASj53kXcnmRliCOIsYWVbAwtalQvpALwO2ufTxWdaNlVJxjSN_PRquIgUyRyBDYPxzg%3D%3D)**
+**[Exclusive | The $100 Billion Megadeal Between OpenAI and Nvidia Is on Ice - WSJ](https://www.wsj.com/tech/ai/the-100-billion-megadeal-between-openai-and-nvidia-is-on-ice-aa3025e3?gaa_at=eafs&gaa_n=AWEtsqdsk25e0ENjrjMfpqDtqGSk2_plZgs8JHf1sL-zqAxln_qDlKcsPnG9&gaa_ts=697e97ce&gaa_sig=ltdSBMy6xuyYTmLWRru0W1r7aFXxakSQ9NvAS7NYaKn8x4bOaRsKggyLP0g_Oo_R212L8h91qH8aSDacPb1vSQ%3D%3D)**
 
 The Wall Street Journal • 4h ago
 
 ---
 
-**[Nvidia CEO Jensen Huang Says AI Memory Needs Are Rising During Taiwan Trip, Backs TSMC's Global Expansion, Dismisses China H200 Rumors](https://finance.yahoo.com/news/nvidia-ceo-jensen-huang-says-190159787.html)**
+**[Better Artificial Intelligence (AI) Stock: Broadcom vs. Nvidia](https://finance.yahoo.com/news/better-artificial-intelligence-ai-stock-225500861.html)**
 
-On Thursday, Nvidia Corp (NASDAQ:NVDA) CEO Jensen Huang said during a visit to Taiwan that surging AI demand is rapidly increasing the need for advanced memory. AI's Next Bottleneck Is Memory, Not Just Compute Huang said the future of artificial intelligence will be shaped as much by memory as by computing power, reported UDN, one of the leading media platforms in Taiwan. He noted that modern AI models need to think, respond and reason at extremely high speeds, driving a sharp rise in memory cap
+Broadcom's revenue growth is expected to be about the same as Nvidia's.
 
-Yahoo Finance • 4h ago
-
----
-
-**[Please Don’t Say Mean Things about the AI That I Just Invested a Billion Dollars In](https://www.mcsweeneys.net/articles/please-dont-say-mean-things-about-the-ai-that-i-just-invested-a-billion-dollars-in)**
-
-“[Nvidia CEO] Jensen Huang Is Begging You to Stop Being So Negative About AI” — Headline from Gizmodo
-- - —
-Guys, enough is enough. Bullying is a s...
-
-McSweeney’s Internet Tendency • 4d ago
+Yahoo Finance • 51m ago
 
 ---
 
-**[A Cyberstalking Survivor Who’s Fighting AI’s War On Women](https://www.forbes.com/sites/elizabethmacbride/2026/01/31/a-cyberstalking-survivor-whos-fighting-ais-war-on-women/)**
+**[Palantir Billionaire Peter Thiel Shifts His AI Bet. He Recently Dumped Nvidia Stock and Bought Shares of These 2 Tech Industry Stalwarts.](https://www.fool.com/investing/2026/01/31/palantir-billionaire-peter-thiel-shifts-his-ai-bet/)**
 
-Forbes • 1h ago
+Thiel's latest move suggests a change in AI strategy.
 
----
-
-**[The new math defining AI winners and losers](https://www.axios.com/2026/01/30/ai-meta-microsoft-investments)**
-
-The wildly different market reactions to Meta and Microsoft reveal the calculus for investors.
-
-Axios • 18h ago
+The Motley Fool • 14h ago
 
 ---
 
-**[Alphabet’s Project Genie Brings AI World Building Closer to Investors](https://finance.yahoo.com/news/alphabet-project-genie-brings-ai-021104308.html)**
+**[Moltbook AI Social Network: 1.4 Million Agents Build A Digital Society](https://www.forbes.com/sites/guneyyildiz/2026/01/31/inside-moltbook-the-social-network-where-14-million-ai-agents-talk-and-humans-just-watch/)**
 
-Alphabet (NasdaqGS:GOOGL) introduced Project Genie, an AI tool that lets users create interactive 3D digital worlds. The announcement signals a new push by Google into virtual content creation and has already drawn attention from the video game industry. Market watchers are assessing how the tool could influence costs, workflows, and competition across gaming and broader digital content. For you as an investor, Project Genie sits alongside Alphabet’s broader AI efforts that have mostly...
-
-Yahoo Finance • 21h ago
+Forbes • 7h ago
 
 ---
 
-**[Why This Artificial Intelligence (AI) Stock Is Gaining Attention From Institutional Investors](https://finance.yahoo.com/news/why-artificial-intelligence-ai-stock-220500556.html)**
+**[Opinion | Pay More Attention to A.I.](https://www.nytimes.com/2026/01/31/opinion/artificial-intelligence-new-world.html)**
 
-Alphabet is a favorite among a few hedge fund billionaires.
-
-Yahoo Finance • 1h ago
+The New York Times • 11h ago
 
 ---
 
-**[Opinion | Young People Are Using A.I. to Skip the Hardest Part of Growing Up](https://www.nytimes.com/2026/01/30/opinion/ai-social-skills-relationships.html)**
+**[The Innovator’s Dilemma, 2026: Achieving Serendipity In An AI World](https://www.forbes.com/sites/joemckendrick/2026/01/31/the-innovators-dilemma-2026-achieving-serendipity-in-an-ai-world/)**
 
-The New York Times • 1d ago
+Forbes • 59m ago
 
 ---
 
-**[The US is headed for mass unemployment, and no one is prepared](https://thehill.com/opinion/finance/5713876-ai-displacement-and-ubi/)**
+**[Former Google engineer found guilty of espionage and theft of AI tech](https://www.cnbc.com/2026/01/30/former-google-engineer-found-guilty-of-espionage-and-theft-of-ai-tech.html)**
 
-The Hill • 1d ago
+The case marks the first conviction on AI-related economic espionage charges in the U.S., according to the Department of Justice.
+
+CNBC • 1d ago
+
+---
+
+**[Ex-Google engineer convicted of stealing AI trade secrets for China](https://www.sfchronicle.com/crime/article/google-ai-spying-conviction-21326039.php)**
+
+San Francisco Chronicle • 3h ago
+
+---
+
+**[U.S. convicts ex-Google engineer for sending AI tech data to China](https://www.bleepingcomputer.com/news/security/us-convicts-ex-google-engineer-for-sending-ai-tech-data-to-china/)**
+
+A U.S. federal jury has convicted Linwei Ding, a former software engineer at Google, for stealing AI supercomputer data from his employer and secretly sharing it with Chinese tech firms.
+
+BleepingComputer • 6h ago
+
+---
+
+**[How AI assistance impacts the formation of coding skills](https://www.anthropic.com/research/AI-assistance-coding-skills)**
+
+Anthropic is an AI safety and research company that's working to build reliable, interpretable, and steerable AI systems.
+
+Anthropic • 2d ago
 
 ---
 
@@ -193,29 +191,11 @@ The Hill • 1d ago
 
 ## HackerNews: "ai"
 
-**[Please don't say mean things about the AI I just invested a billion dollars in](https://news.ycombinator.com/item?id=46803356)**
-
-“[Nvidia CEO] Jensen Huang Is Begging You to Stop Being So Negative About AI” — Headline from Gizmodo
-- - —
-Guys, enough is enough. Bullying is a s...
-
-⬆️ 669 • 💬 304 • 2d ago • [McSweeney's Internet Tendency](https://www.mcsweeneys.net/articles/please-dont-say-mean-things-about-the-ai-that-i-just-invested-a-billion-dollars-in)
-
----
-
 **[How AI assistance impacts the formation of coding skills](https://news.ycombinator.com/item?id=46820924)**
 
 Anthropic is an AI safety and research company that's working to build reliable, interpretable, and steerable AI systems.
 
 ⬆️ 455 • 💬 334 • 1d ago • [anthropic.com](https://www.anthropic.com/research/AI-assistance-coding-skills)
-
----
-
-**[UK Government’s ‘AI Skills Hub’ was delivered by PwC for £4.1M](https://news.ycombinator.com/item?id=46803119)**
-
-Or, as they like to call it, the 'AI Skills Hub'. Which was built by PwC because of course it was
-
-⬆️ 399 • 💬 148 • 3d ago • [Mahad Kalam](https://mahadk.com/posts/ai-skills-hub)
 
 ---
 
@@ -237,7 +217,7 @@ Moltworker is a middleware Worker and adapted scripts that allows running Moltbo
 
 AI assistance produces significant productivity gains across professional domains, particularly for novice workers. Yet how this assistance affects the development of skills required to effectively supervise AI remains unclear. Novice workers who rely heavily on AI to complete unfamiliar tasks may compromise their own skill acquisition in the process. We conduct randomized experiments to study how developers gained mastery of a new asynchronous programming library with and without the assistance of AI. We find that AI use impairs conceptual understanding, code reading, and debugging abilities, without delivering significant efficiency gains on average. Participants who fully delegated coding tasks showed some productivity improvements, but at the cost of learning the library. We identify six distinct AI interaction patterns, three of which involve cognitive engagement and preserve learning outcomes even when participants receive AI assistance. Our findings suggest that AI-enhanced productivity is not a shortcut to competence and AI assistance should be carefully adopted into workflows to preserve skill formation -- particularly in safety-critical domains.
 
-⬆️ 232 • 💬 5 • 1d ago • [arXiv.org](https://arxiv.org/abs/2601.20245)
+⬆️ 233 • 💬 5 • 1d ago • [arXiv.org](https://arxiv.org/abs/2601.20245)
 
 ---
 
@@ -265,11 +245,25 @@ Contribute to amlalabs/amla-sandbox development by creating an account on GitHub
 
 ---
 
+**[A Step Behind the Bleeding Edge: A Philosophy on AI in Dev](https://news.ycombinator.com/item?id=46809846)**
+
+⬆️ 138 • 💬 72 • 2d ago • [somehowmanage.com](https://somehowmanage.com/2026/01/22/a-step-behind-the-bleeding-edge-monarchs-philosophy-on-ai-in-dev/)
+
+---
+
 **[Mozilla is building an AI 'rebel alliance' to take on OpenAI, Anthropic](https://news.ycombinator.com/item?id=46812653)**
 
 Mozilla is looking to deploy its roughly $1.4 billion in reserves to support "mission driven" companies and nonprofits, and is particularly focused on AI.
 
 ⬆️ 134 • 💬 149 • 2d ago • [CNBC](https://www.cnbc.com/2026/01/27/mozilla-building-an-ai-rebel-alliance-to-take-on-openai-anthropic-.html)
+
+---
+
+**[Apple buys Israeli startup Q.ai](https://news.ycombinator.com/item?id=46816228)**
+
+Q.ai is an Israeli startup specializing in imaging and machine learning, particularly technologies that enable devices to interpret whispered speech and enhance audio in noisy environments.
+
+⬆️ 128 • 💬 45 • 2d ago • [TechCrunch](https://techcrunch.com/2026/01/29/apple-buys-israeli-startup-q-ai-as-the-ai-race-heats-up/)
 
 ---
 
@@ -283,7 +277,7 @@ A new platform called Moltbook is going viral — and it's not built for humans.
 
 📺 Mint
 
-👁️ 2K • 👍 26 • 💬 5 • ⏱️ 3:25 • 6h ago
+👁️ 2K • 👍 26 • 💬 5 • ⏱️ 3:25 • 7h ago
 
 ---
 
@@ -293,7 +287,7 @@ OpenClaw (formerly ClaudeBot) demonstrates emergent agent capabilities like auto
 
 📺 The AI Daily Brief: Artificial Intelligence News
 
-👁️ 71K • 👍 2K • 💬 478 • ⏱️ 21:12 • 21h ago
+👁️ 71K • 👍 2K • 💬 478 • ⏱️ 21:12 • 22h ago
 
 ---
 
@@ -313,7 +307,7 @@ AI agents now have their own social network called Moltbook, and it's absolute c
 
 📺 Universe of AI
 
-👁️ 15K • 👍 434 • 💬 131 • ⏱️ 8:45 • 22h ago
+👁️ 15K • 👍 434 • 💬 131 • ⏱️ 8:45 • 23h ago
 
 ---
 
@@ -343,7 +337,7 @@ Humanoid robotics just took a massive leap into the real world. Researchers in C
 
 📺 AI Revolution
 
-👁️ 53K • 👍 828 • 💬 155 • ⏱️ 14:25 • 23h ago
+👁️ 53K • 👍 828 • 💬 155 • ⏱️ 14:25 • 1d ago
 
 ---
 

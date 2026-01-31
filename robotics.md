@@ -3,7 +3,7 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-01-31T23:24:03.275990+00:00'
+updated: '2026-01-31T23:46:50.349934+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
@@ -17,7 +17,7 @@ data_types:
 
 Robotics research and industry news
 
-**Last Updated:** January 31, 2026 at 23:24 UTC  
+**Last Updated:** January 31, 2026 at 23:46 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -32,11 +32,11 @@ Robotics research and industry news
 
 ## Reddit: r/robotics
 
-**[XPENG IRON first public appearance since its release last November](https://www.reddit.com/r/robotics/comments/1qryyxx/xpeng_iron_first_public_appearance_since_its/)**
+**[Portable offline llm robot I made last night. This is obviously her naked prototype body so be nice to her](https://www.reddit.com/r/robotics/comments/1qsexfy/portable_offline_llm_robot_i_made_last_night_this/)**
 
-From: CyberRobo on 𝕏: https://x.com/CyberRobooo/status/2017544750694551618 RoboHub🤖 on 𝕏 (images): https://x.com/XRoboHub/status/2017541654173851909
+The real meat and potatoes: I made this as a modular brain for my other robots I built recently. Right now I’m building her a tiny combat robot body so I can’t wait to program her fight moves. Already slightly tested it but just to get her to stand in a T pose then relax all motors after 5 seconds to get an idea of how to map her body. That was when I used a pi zero tho so more work is definitely needed. After that I need to completely redesign her casing. It’s literally made from an outer frame I printed in a rush and a piece of plastic that held her oled screen in the packaging.
 
-12h ago
+2h ago
 
 ---
 
@@ -48,11 +48,11 @@ Hi, I’m working on a repurposed electric wheelchair chassis (>100 kg, high-tor
 
 ---
 
-**[Portable offline llm robot I made last night. This is obviously her naked prototype body so be nice to her](https://www.reddit.com/r/robotics/comments/1qsexfy/portable_offline_llm_robot_i_made_last_night_this/)**
+**[XPENG IRON first public appearance since its release last November](https://www.reddit.com/r/robotics/comments/1qryyxx/xpeng_iron_first_public_appearance_since_its/)**
 
-The real meat and potatoes: I made this as a modular brain for my other robots I built recently. Right now I’m building her a tiny combat robot body so I can’t wait to program her fight moves. Already slightly tested it but just to get her to stand in a T pose then relax all motors after 5 seconds to get an idea of how to map her body. That was when I used a pi zero tho so more work is definitely needed. After that I need to completely redesign her casing. It’s literally made from an outer frame I printed in a rush and a piece of plastic that held her oled screen in the packaging.
+From: CyberRobo on 𝕏: https://x.com/CyberRobooo/status/2017544750694551618 RoboHub🤖 on 𝕏 (images): https://x.com/XRoboHub/status/2017541654173851909
 
-1h ago
+13h ago
 
 ---
 
@@ -64,11 +64,19 @@ Day:30 1- Base body and MCU from Sunfounder 2-Built over raspberry pi5 and power
 
 ---
 
+**[Pib-Roboter im Selbstbau.](https://www.reddit.com/r/robotics/comments/1qs0vjp/pibroboter_im_selbstbau/)**
+
+Fast fertiggestellt. Nur noch die Servo Bricks mit Strom versorgen. Dann kann der erste Test starten. #insento Pib.rocks Einige hundert Stunden hat der 3D-Drucker gedruckt. Etwa 150 Teile. Dazu hunderte Schrauben und Muttern, Kugellager. MEhr als 20 Servomotoren, Raspi, Monitor, 360 Grad Mikroarray, Kamera mit Objekterkennung. Und viele Arbeitsstunden - ich bin mal gespannt, ob dann alles funktioniert.
+
+11h ago
+
+---
+
 **[ICRA 2026 Acceptance Notification](https://www.reddit.com/r/robotics/comments/1qs19lr/icra_2026_acceptance_notification/)**
 
 Has anyone already received a notification for their ICRA 2026 submission? As of January 31, 4 AM PST, my paper status is still “Decision Pending” rather than “Undisclosed.” Is this normal, or should it have updated by now?
 
-10h ago
+11h ago
 
 ---
 
@@ -76,15 +84,7 @@ Has anyone already received a notification for their ICRA 2026 submission? As of
 
 I just received the news that my ICRA submission was rejected. Which is fine. I never submitted with the expectation that it would get accepted but hoping that I would get some valuable feedback in the case of a rejection. Unfortunately this was not the case. The decision was made based on just two reviews. One of which was relatively neutral but seemingly written by someone who was not deeply familiar with the subject. Not a problem in itself but not a good basis for a decision in the case of only two reviews. The one that worries me more is the second review which in my opinion is likely written by ChatGPT or a similar LLM. I base this opinion on the way it is written going into unnecessary detail but also on the fact that most criticisms are just incorrect. Showing very limited understanding of the subject both in theoretical as well as in practical aspects as well as a lack of basic logic. This was my first time submitting to ICRA and if this is the kind of review quality to expect from a "top" conference it will also be the last time. It does not seem like a good conference unless you are doing mainstream research. I will include the review in question and invite anybody to read the preprint of my paper to form your own opinion. The preprint is identical to the version I submitted anonymization fron the double blind review. Modeling of UAV Tether Aerodynamics for Real-Time Simulation I would be happy about any feedback about my paper or your own experiences with ICRA and other "top" conferences. Following is the review. (Note when they talk about missing reference [?] this is due to the anonymization. I removed the citation when citing my own previous work) This paper addresses the important problem of modeling the tension forces and geometric shape of a tethered cable subjected to drag and wind forces, specifically within the context of drone tethering applications. The authors present a dual-solution approach: an analytical model based on the catenary equations, and a numerical solution derived using the IPOPT optimization solver within the CasADi framework. Despite the interesting and relevant application, the paper suffers from several major concerns that must be comprehensively addressed before publication. Major Comments: - Lack of Clarity and Novelty in Introduction The Introduction fails to clearly articulate the problem's relevance for tethered drone systems (e.g., increased energy consumption, system instability, or control degradation due to cable dynamics). This critical context is left for the reader to infer. More importantly, the authors do not explicitly define the novelty or scientific contribution of the proposed dual-solution approach over the existing state of the art. The introduction must clearly establish how this work advances previous research. - The State-of-the-Art section describes previous works but struggles to differentiate the current contribution. Solutions presented in references, such as [5] and [6], appear to address similar or potentially more complete aspects of the problem. The authors must rigorously specify what makes their approach unique and scientifically significant compared to these prior methods. Without this clarity, the paper's contribution remains ambiguous to the reader. - The Analytical Approach section, while well-explained, relies heavily on existing theory. However, the subsequent Numerical Solution section lacks sufficient justification for its necessity. Observing Figure 4, the analytical and numerical solutions for the cable shape are notably similar. Crucially, the paper does not provide a true ground truth or a comparative analysis (e.g., computational cost, convergence rate, robustness to highly non-ideal conditions) to argue for the superiority or necessity of the numerical optimization solver. The authors must explain the specific scenarios where the numerical approach offers a non-trivial advantage. - The real-world experiment, which aims to validate the proposed online estimation of cable shape and tension, highlights several critical issues: Redundancy: The numerical and analytical cable shape estimations appear to be almost overlapping, reinforcing the question regarding the necessity of the computationally intensive numerical approach. Inconsistency with Measurement: The force cell measurements diverge significantly from the results predicted by both the analytical and numerical models, suggesting a fundamental modeling or implementation flaw that must be investigated and corrected. Contradictory Assumption: The experimental section assumes zero wind, a highly restrictive and unrealistic simplification that directly contradicts the paper's central motivation presented in the Introduction ("...optimize the design, modeling, and control of drones tethered to a moving ground vehicle in real-world conditions like strong wind."). This assumption undermines the stated purpose and the validity of the drag modeling. Kinematic Error: The assumption that ground speed is equal to airspeed is fundamentally incorrect in real-world scenarios, where wind (a stated variable in the paper's premise) is a major differentiating factor. Minor Notes - Missing Reference: The phrase "In [?], we have looked at optimization of the tether parameters..." contains a placeholder. This reference should be corrected to: "In [Number], the authors..." to maintain academic style and anonymity during review. - Inappropriate Language: The sentence, "Besides the necessary interface changes, two new lines of code were added and two lines were adjusted, showing the flexibility of the approach," is more suitable for a technical report or implementation note. In a formal conference paper, this assertion should be replaced with a more rigorous, quantitative statement about the modularity and computational efficiency of the implementation. The core concept of modeling tether dynamics is valuable, but the current manuscript is incomplete and requires significant revision. The major issues stem from unvalidated model results, unjustified complexity of the numerical solution, and experimental assumptions that directly contradict the paper's stated goals regarding wind effects. The authors must provide stronger evidence of the scientific contribution and rigorously validate the models under the realistic conditions outlined in the introduction.
 
-6h ago
-
----
-
-**[Pib-Roboter im Selbstbau.](https://www.reddit.com/r/robotics/comments/1qs0vjp/pibroboter_im_selbstbau/)**
-
-Fast fertiggestellt. Nur noch die Servo Bricks mit Strom versorgen. Dann kann der erste Test starten. #insento Pib.rocks Einige hundert Stunden hat der 3D-Drucker gedruckt. Etwa 150 Teile. Dazu hunderte Schrauben und Muttern, Kugellager. MEhr als 20 Servomotoren, Raspi, Monitor, 360 Grad Mikroarray, Kamera mit Objekterkennung. Und viele Arbeitsstunden - ich bin mal gespannt, ob dann alles funktioniert.
-
-11h ago
+7h ago
 
 ---
 
@@ -96,14 +96,6 @@ It was good, old Boxie 1. Now, there is Boxie 2: stronger, better, more capable 
 
 ---
 
-**[Using low-cost Android smartphones as embedded telematics gateways on forklifts – sane or bad idea?](https://www.reddit.com/r/robotics/comments/1qs047w/using_lowcost_android_smartphones_as_embedded/)**
-
-I’m working on an industrial telematics system for a client who operates a fleet of electric forklifts . The proposed architecture is to mount a low-cost Android smartphone permanently on each forklift . Role of the Android phone: - Acts as the edge gateway - 4G connectivity to cloud - GPS positioning and speed estimation - Shock detection using accelerometer - Inclination (pitch/roll) using sensors - Driver identification using front camera (event-based face recognition) - Bluetooth (BLE) communication with an ESP32 that handles CAN bus + battery/current sensors Hardware constraints: - Low-end Android phones (≈3–4 GB RAM, quad-core CPU) - Continuous charging from forklift 24V - Industrial vibration environment - Android 11–14 range This is for a real client, not a hobby project. My questions to engineers who’ve done industrial / Android-at-the-edge systems: Is this architecture considered reasonable in production, or a maintenance nightmare long-term? What are the biggest failure modes you’ve seen when using Android phones as embedded gateways? Would you strongly recommend replacing the phone with a dedicated telematics box instead? Any hard lessons around Android background limits, BLE reliability, or sensor accuracy in vehicles? If you’ve shipped something similar, what would you do differently today? I’m intentionally not relying on OEM forklift firmware to keep the system brand-agnostic. Looking for honest, experience-based feedback positive or negative.
-
-11h ago
-
----
-
 **[ICRA 2026 review discussion](https://www.reddit.com/r/robotics/comments/1qs2thb/icra_2026_review_discussion/)**
 
 I guess it’s time for a new thread to discuss ICRA 2026 review results. This is my first first author submission and really looking forward to it 🙏
@@ -112,29 +104,21 @@ I guess it’s time for a new thread to discuss ICRA 2026 review results. This i
 
 ---
 
+**[Using low-cost Android smartphones as embedded telematics gateways on forklifts – sane or bad idea?](https://www.reddit.com/r/robotics/comments/1qs047w/using_lowcost_android_smartphones_as_embedded/)**
+
+I’m working on an industrial telematics system for a client who operates a fleet of electric forklifts . The proposed architecture is to mount a low-cost Android smartphone permanently on each forklift . Role of the Android phone: - Acts as the edge gateway - 4G connectivity to cloud - GPS positioning and speed estimation - Shock detection using accelerometer - Inclination (pitch/roll) using sensors - Driver identification using front camera (event-based face recognition) - Bluetooth (BLE) communication with an ESP32 that handles CAN bus + battery/current sensors Hardware constraints: - Low-end Android phones (≈3–4 GB RAM, quad-core CPU) - Continuous charging from forklift 24V - Industrial vibration environment - Android 11–14 range This is for a real client, not a hobby project. My questions to engineers who’ve done industrial / Android-at-the-edge systems: Is this architecture considered reasonable in production, or a maintenance nightmare long-term? What are the biggest failure modes you’ve seen when using Android phones as embedded gateways? Would you strongly recommend replacing the phone with a dedicated telematics box instead? Any hard lessons around Android background limits, BLE reliability, or sensor accuracy in vehicles? If you’ve shipped something similar, what would you do differently today? I’m intentionally not relying on OEM forklift firmware to keep the system brand-agnostic. Looking for honest, experience-based feedback positive or negative.
+
+12h ago
+
+---
+
 ---
 
 ## Google News: "robotics"
 
-**[Tesla lurches into the Musk robotics era](https://www.ft.com/content/6a6cfa00-6f51-4abc-bd68-1738580bd2c5)**
+**[Lightspeed Backs Robotics Startup in $100 Million Round](https://www.bloomberg.com/news/articles/2026-01-29/fiat-toyota-tycoons-back-startup-robco-in-100-million-round)**
 
-Future of the company lies in equipping and running a global fleet of driverless taxis and in selling humanoid robots
-
-Financial Times • 2d ago
-
----
-
-**[Tesla to build 1 million Optimus robots per year at Fremont factory, Musk says](https://www.kron4.com/news/technology-ai/tesla-to-build-1-million-optimus-robots-per-year-at-fremont-factory-musk-says/)**
-
-KRON4 • 2d ago
-
----
-
-**[Tesla discontinues Model X and S vehicles as Elon Musk pivots to robotics](https://www.theguardian.com/technology/2026/jan/28/tesla-q4-earnings-estimates-elon-musk)**
-
-Musk’s optimism for Optimus robot demand help EV maker beat quarterly expectations despite first-ever yearly revenue decline
-
-The Guardian • 3d ago
+Bloomberg • 2d ago
 
 ---
 
@@ -146,9 +130,27 @@ Everett Herald • 1d ago
 
 ---
 
-**[Lightspeed Backs Robotics Startup in $100 Million Round](https://www.bloomberg.com/news/articles/2026-01-29/fiat-toyota-tycoons-back-startup-robco-in-100-million-round)**
+**[Tesla axes EV models in drive for robotics revenue](https://news.sky.com/story/tesla-axes-ev-models-in-drive-for-robotics-revenue-13500444)**
 
-Bloomberg.com • 2d ago
+Investors liked what they heard about the future following the company's latest results, but Elon Musk is under huge pressure to deliver on his vision as a series of targets have been missed.
+
+Sky News • 2d ago
+
+---
+
+**[Tesla lurches into the Musk robotics era](https://www.ft.com/content/6a6cfa00-6f51-4abc-bd68-1738580bd2c5)**
+
+Future of the company lies in equipping and running a global fleet of driverless taxis and in selling humanoid robots
+
+Financial Times • 2d ago
+
+---
+
+**[Tesla cuts car models in shift to robots and AI](https://www.bbc.com/news/articles/c620177qdg5o)**
+
+Multi-billionaire Elon Musk also announced plans to end production of its Model S and Model X vehicles.
+
+BBC • 2d ago
 
 ---
 
@@ -166,11 +168,19 @@ Ondas Holdings • 3d ago
 
 ---
 
-**[Tesla axes EV models in drive for robotics revenue](https://news.sky.com/story/tesla-axes-ev-models-in-drive-for-robotics-revenue-13500444)**
+**[China rolls out robot cops in cities to push humanoid robots in daily life](https://www.nbcnews.com/video/china-rolls-out-robot-cops-in-cities-to-push-humanoid-robots-in-daily-life-256872517804)**
 
-Investors liked what they heard about the future following the company's latest results, but Elon Musk is under huge pressure to deliver on his vision as a series of targets have been missed.
+China is deploying AI-powered robots to manage traffic and pedestrian flow in cities. NBC News’ Janis Mackey Frayer explains how China continues to advance robot technology and is pushing to integrate humanoid robots into daily life.
 
-Sky News • 2d ago
+NBC News • 1d ago
+
+---
+
+**[Report: humanoid robots set to drive demand for solid-state batteries](https://electrek.co/2026/01/30/report-humanoid-robots-set-to-drive-demand-for-solid-state-batteries/)**
+
+Humanoid robots are set to soak up a whopping 75 GWh of solid-state battery capacity between now and 2035 – nearly 1500x growth!
+
+Electrek • 23h ago
 
 ---
 
@@ -179,14 +189,6 @@ Sky News • 2d ago
 New York Robotics is launching with over 80 industry partners, 20 academic partners, 40 robotics labs, and over 300 venture capital partners.
 
 The Robot Report • 1d ago
-
----
-
-**[Guest article: What CES really told us about robotics in the produce sector](https://agfundernews.com/guest-article-what-ces-really-told-us-about-robotics-in-the-produce-sector)**
-
-The best robots in agriculture are the ones growers stop talking about because they just work, said panelists at CES 2026.
-
-AgFunderNews • 1d ago
 
 ---
 
@@ -210,7 +212,7 @@ Humanoid robotics just took a massive leap into the real world. Researchers in C
 
 📺 AI Revolution
 
-👁️ 53K • 👍 828 • 💬 156 • ⏱️ 14:25 • 23h ago
+👁️ 53K • 👍 828 • 💬 156 • ⏱️ 14:25 • 1d ago
 
 ---
 

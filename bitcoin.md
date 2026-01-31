@@ -3,7 +3,7 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-01-31T23:24:03.266377+00:00'
+updated: '2026-01-31T23:46:50.340799+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
@@ -18,7 +18,7 @@ data_types:
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** January 31, 2026 at 23:24 UTC  
+**Last Updated:** January 31, 2026 at 23:46 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,17 +38,17 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $78,414.73
+### $79,097.17
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** -7.2%  
-**7d:** -9.8%  
-**30d:** -13.1%  
-**90d:** -26.5%  
-**1y:** -22.3%  
+**24h:** -6.3%  
+**7d:** -9.1%  
+**30d:** -12.5%  
+**90d:** -26.0%  
+**1y:** -21.7%  
 
 ---
 
@@ -77,23 +77,35 @@ Rank #1
 
 ## Reddit: r/Bitcoin
 
+**[Today’s message…](https://www.reddit.com/r/Bitcoin/comments/1qscx1s/todays_message/)**
+
+3h ago
+
+---
+
+**[I’m done](https://www.reddit.com/r/Bitcoin/comments/1qsaxev/im_done/)**
+
+4h ago
+
+---
+
 **[Stack those cheap sats!!!](https://www.reddit.com/r/Bitcoin/comments/1qs8tbw/stack_those_cheap_sats/)**
 
 I'm not wasting these cheap stacks. HODL and BUY!
 
-5h ago
-
----
-
-**[DOING MY PART](https://www.reddit.com/r/Bitcoin/comments/1qsd85h/doing_my_part/)**
-
-2h ago
+6h ago
 
 ---
 
 **[Evergreen just like BTC!](https://www.reddit.com/r/Bitcoin/comments/1qs6sj1/evergreen_just_like_btc/)**
 
-6h ago
+7h ago
+
+---
+
+**[DOING MY PART](https://www.reddit.com/r/Bitcoin/comments/1qsd85h/doing_my_part/)**
+
+3h ago
 
 ---
 
@@ -125,23 +137,11 @@ I'm scared, not because I don't trust Bitcoin, but because I used my BTC and alt
 
 ---
 
-**[Today’s message…](https://www.reddit.com/r/Bitcoin/comments/1qscx1s/todays_message/)**
+**[Bought another $3,000 worth of Bitcoin](https://www.reddit.com/r/Bitcoin/comments/1qse1r8/bought_another_3000_worth_of_bitcoin/)**
 
-3h ago
+Wasn't my original plan actually, but the blood is splattering so much that there's no other way.
 
----
-
-**[I’m done](https://www.reddit.com/r/Bitcoin/comments/1qsaxev/im_done/)**
-
-4h ago
-
----
-
-**[Nothing has changed](https://www.reddit.com/r/Bitcoin/comments/1qsbt34/nothing_has_changed/)**
-
-Nothing has changed. Governments are still spending far far more money than they raise in tax. Fiat currency around the world is still being debased. Debt is exploding. Saylor, Blackrock and Wall Street are not fools. The reason you purchased BTC have not changed one bit. If you're new, this is normal. If you're a few cycles in, you know what to do. BTC is $77,500. A few years ago you'd be popping ya corks over this. Enjoy the ride and forget the noise.
-
-3h ago
+2h ago
 
 ---
 
@@ -153,27 +153,37 @@ Nothing has changed. Governments are still spending far far more money than they
 
 Bitcoin price dipped below $80k as 335,000 new wallets signal rising adoption despite short-term BTC price weakness.
 
-Yahoo Finance • 5h ago
+Yahoo Finance • 6h ago
 
 ---
 
-**[Bitcoin slips as Fed chair speculation hits risky assets](https://www.reuters.com/business/bitcoin-slips-fed-chair-speculation-hits-risky-assets-2026-01-30/)**
+**[Michael Saylor’s bitcoin stack is officially underwater, but here’s why he likely won't reach for the panic button](https://www.coindesk.com/business/2026/01/31/michael-saylor-s-bitcoin-stack-is-officially-underwater-but-here-s-why-he-likely-won-t-reach-for-the-panic-button)**
 
-Reuters • 1d ago
+The main impact of the price decline is slowing Strategy's ability to buy more bitcoin without diluting shareholders, as its stock now trades at a discount to its bitcoin holdings.
 
----
-
-**[Bitcoin Stuck in a Rut After Warsh Pick as ETFs Shed Billions](https://finance.yahoo.com/news/bitcoin-stuck-rut-warsh-pick-213531831.html)**
-
-Warsh, a former central bank governor with deep establishment ties, has recently aligned with Trump’s push for lower rates.  Instead, a risk-off tone lingered over markets as the Warsh news circulated: stock fell and the dollar traded just off four-year lows.  With Bitcoin now down more than 30% from its October peak — and US spot ETFs posting their longest streak of monthly outflows since launching — traders appear unconvinced that either macro or policy signals offer much near-term relief.
-
-Yahoo Finance • 1d ago
+CoinDesk • 2h ago
 
 ---
 
-**[Bitcoin Drops Below $78,000 After Trump Taps Kevin Warsh To Lead Federal Reserve](https://www.forbes.com/sites/mikestunson/2026/01/31/bitcoin-is-dropping-fast-heres-why-it-dropped-below-78000/)**
+**[Strategy Inc. (MSTR) Bolsters Bitcoin Holdings after Shares Sale](https://finance.yahoo.com/news/strategy-inc-mstr-bolsters-bitcoin-205113152.html)**
 
-Forbes • 1h ago
+Strategy Inc. (NASDAQ:MSTR) is one of the stocks with huge growth potential, according to the media. Between January 20 and 25, Strategy Inc. (NASDAQ:MSTR) sold 1,569 million shares of common stock. With the sale, the company generated $257 million in net proceeds. It also sold 70,201 shares of STRC stock, generating $7 million in net […]
+
+Yahoo Finance • 2h ago
+
+---
+
+**[Strategy Stock ($MSTR) Hits 52-Week Low As Bitcoin Craters Below $84,000](https://bitcoinmagazine.com/markets/strategy-stock-mstr-hits-52-week-low)**
+
+Shares of Strategy ($MSTR) dropped as low as 12% today, currently trading at $140.88 and hitting a session low of $140.25.
+
+Bitcoin Magazine • 2d ago
+
+---
+
+**[Bitcoin Falls Again, Dropping Below $80,000. What to Know.](https://www.barrons.com/articles/bitcoin-price-news-gold-silver-trump-fed-warsh-db35f5ad?gaa_at=eafs&gaa_n=AWEtsqffF31iLsLspzxDe2XJGpDUScm2Vlzfy9U_rNvUgt2jXxrIQSvT4ACn&gaa_ts=697e97d0&gaa_sig=y-TiORlJxRgoA3gDLgcVG8L5focHGTMwNt7DCoaszDCFUm7RrHSYKPHg2dtWJupGCMuPcHyq5MCDhOyoV5OwnQ%3D%3D)**
+
+Barron's • 18m ago
 
 ---
 
@@ -193,35 +203,25 @@ The Block • 1d ago
 
 ---
 
-**[Better Investment to Make in 2026 and Beyond: Bitcoin vs. iShares Bitcoin Trust](https://www.fool.com/investing/2026/01/31/better-investment-2026-beyond-bitcoin-ibit/)**
+**[Bitcoin Drops Below $78,000 After Trump Taps Kevin Warsh To Lead Federal Reserve](https://www.forbes.com/sites/mikestunson/2026/01/31/bitcoin-is-dropping-fast-heres-why-it-dropped-below-78000/)**
 
-Based on its monster past performance, it makes sense why investors are interested in Bitcoin.
-
-The Motley Fool • 11h ago
+Forbes • 1h ago
 
 ---
 
-**[Plan B Network Launches CypherTank, a Bitcoin Pitch Series Showcasing Builders and Ideas](https://bitcoinmagazine.com/news/plan-b-network-cyphertank-bitcoin)**
+**[Kevin Warsh: Markets React as Pro-Bitcoin Economist Tipped for Fed](https://finance.yahoo.com/news/kevin-warsh-markets-react-pro-122358756.html)**
 
-Plan B Network has launched CypherTank, a global Bitcoin-focused pitch series that spotlights builders, ideas, and community discussion across multiple platforms.
+Only yesterday, we explained how Donald Trump runs his White House like a reality TV competition. Nominees for high office are turned into contestants vying for his approval, and the frontrunner could switch at any minute.Lo and behold, that’s exactly what’s happened in the race to become the next chairman ...
 
-Bitcoin Magazine • 1d ago
-
----
-
-**[Fear that quantum computing is on the cusp of cracking cryptocurrency's encryption spurs a global investment firm to remove Bitcoin from recommendations](https://www.tomshardware.com/tech-industry/cryptocurrency/fear-that-quantum-computing-on-the-cusp-of-cracking-cryptocurrencys-encryption-spurs-a-global-investment-firm-to-remove-bitcoin-from-recommendations)**
-
-The firm's senior financial strategist is concerned the advancements in the field of quantum computing will break Bitcoin.
-
-Tom's Hardware • 13d ago
+Yahoo Finance • 1d ago
 
 ---
 
-**[What price will Bitcoin hit in January? Betting Odds & Predictions](https://polymarket.com/event/what-price-will-bitcoin-hit-in-january-2026)**
+**[Fed Chair nominee Warsh views bitcoin as “good policeman for policy”](https://finance.yahoo.com/news/fed-chair-nominee-warsh-views-150459398.html)**
 
-View real-time odds on "What price will Bitcoin hit in January?" as of January 30, 2026, and trade on The World's Largest Prediction Market™
+Warsh has praised bitcoin as a tool to guide policy, not as a competitor to the dollar.
 
-Polymarket • 1mo ago
+Yahoo Finance • 1d ago
 
 ---
 
@@ -231,7 +231,7 @@ Polymarket • 1mo ago
 
 **[Bitcoin Looks Set for Longest Monthly Losing Streak Since 2018](https://news.ycombinator.com/item?id=46838644)**
 
-⬆️ 58 • 💬 58 • 5h ago • [bloomberg.com](https://www.bloomberg.com/news/articles/2026-01-30/bitcoin-btc-slides-toward-longest-monthly-losing-streak-since-2018)
+⬆️ 59 • 💬 58 • 6h ago • [bloomberg.com](https://www.bloomberg.com/news/articles/2026-01-30/bitcoin-btc-slides-toward-longest-monthly-losing-streak-since-2018)
 
 ---
 
@@ -255,7 +255,7 @@ A list of known attacks against Bitcoin / crypto asset owning entities that occu
 
 PoW + EVM cryptocurrency. 21M fixed supply, fair launch, no team, no foundation. Just code. - lumenyx-chain/lumenyx
 
-⬆️ 1 • 💬 0 • 10h ago • [GitHub](https://github.com/lumenyx-chain/lumenyx)
+⬆️ 1 • 💬 0 • 11h ago • [GitHub](https://github.com/lumenyx-chain/lumenyx)
 
 ---
 
@@ -313,7 +313,7 @@ Nick Valdez looks at the latest market crash with the next level Bitcoin MUST ho
 
 📺 Discover Crypto
 
-👁️ 3K • 👍 292 • 💬 158 • ⏱️ 4:28 • 1h ago
+👁️ 3K • 👍 292 • 💬 158 • ⏱️ 4:28 • 2h ago
 
 ---
 
@@ -323,7 +323,7 @@ CHECK OUT MY LINKTREE FOR EXCHANGES I USE, BONUSES, FREE VIDEOS, AND MORE! https
 
 📺 My Financial Friend
 
-👁️ 15K • 👍 713 • 💬 395 • ⏱️ 8:03 • 5h ago
+👁️ 15K • 👍 713 • 💬 395 • ⏱️ 8:03 • 6h ago
 
 ---
 
@@ -333,7 +333,7 @@ Bitcoin plunges under $80000 as geopolitical risks deepens amid U.S-Iran tension
 
 📺 Ricky Gutierrez
 
-👁️ 11K • 👍 499 • 💬 308 • ⏱️ 6:53 • 4h ago
+👁️ 11K • 👍 499 • 💬 308 • ⏱️ 6:53 • 5h ago
 
 ---
 
@@ -343,7 +343,7 @@ Gold crashes with Silver in tow and now comes Bitcoin. How low can we go? MUCH l
 
 📺 Digital Asset News
 
-👁️ 8K • 👍 556 • 💬 66 • ⏱️ 35:43 • 1h ago
+👁️ 8K • 👍 556 • 💬 66 • ⏱️ 35:43 • 2h ago
 
 ---
 
@@ -373,7 +373,7 @@ EMERGENCY UPDATE: CRYPTO CRASH INTENSIFIES! (Here's Why) The crypto market is in
 
 📺 Tim Warren
 
-👁️ 11K • 👍 848 • 💬 367 • ⏱️ 11:12 • 4h ago
+👁️ 11K • 👍 848 • 💬 367 • ⏱️ 11:12 • 5h ago
 
 ---
 
@@ -393,7 +393,7 @@ BLOFIN: https://thecryptoreport.co/Blofin $5000 BONUS AND ACCESS TO OUR PRIVATE 
 
 📺 The Crypto Report
 
-👁️ 356 • 👍 24 • 💬 67 • ⏱️ 6:52 • 4h ago
+👁️ 356 • 👍 24 • 💬 67 • ⏱️ 6:52 • 5h ago
 
 ---
 
@@ -403,7 +403,7 @@ BYBIT: http://themoon.co/Bybit 10% DISCOUNT & $30000 BONUS BloFin: https://themo
 
 📺 The Moon Show
 
-👁️ 9K • 👍 518 • 💬 49 • ⏱️ 3:26 • 4h ago
+👁️ 9K • 👍 518 • 💬 49 • ⏱️ 3:26 • 5h ago
 
 ---
 
