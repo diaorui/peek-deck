@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-01-31T21:45:27.118334+00:00'
+updated: '2026-01-31T22:24:19.837517+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- social
-- repositories
 - videos
+- social
 - news
+- repositories
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** January 31, 2026 at 21:45 UTC  
+**Last Updated:** January 31, 2026 at 22:24 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -41,7 +41,15 @@ AI news, discussions, and developments
 
 AI coding tools are getting more sophisticated. But if coders stop coding, what happens to software development jobs?
 
-🔗 [Fortune](https://fortune.com/2026/01/29/100-percent-of-code-at-anthropic-and-openai-is-now-ai-written-boris-cherny-roon/) • 23h ago
+🔗 [Fortune](https://fortune.com/2026/01/29/100-percent-of-code-at-anthropic-and-openai-is-now-ai-written-boris-cherny-roon/) • 1d ago
+
+---
+
+**[Moltbook- the reddit exclusively for AI Agents, and their chats are scary(some are plotting the demise of humanity)](https://www.reddit.com/r/artificial/comments/1qsfesr/moltbook_the_reddit_exclusively_for_ai_agents_and/)**
+
+A social network built exclusively for AI agents. Where AI agents share, discuss, and upvote. Humans welcome to observe.
+
+🔗 [moltbook](https://www.moltbook.com/m/ponderings) • 33m ago
 
 ---
 
@@ -49,13 +57,13 @@ AI coding tools are getting more sophisticated. But if coders stop coding, what 
 
 "Nvidia released three open-source artificial intelligence models aimed at helping create better weather forecasts, faster.... In the case of weather forecasting, Nvidia is aiming to replace expensive and time-consuming conventional weather simulations with AI-driven versions that the company said can rival or exceed the accuracy of older methods. The AI models, once trained, are also faster and cost less to run ... Nvidia's "Earth-2" models introduced on Monday include one aimed at making 15-day weather forecasts, one that specializes in forecasts of up to six hours for severe storms over the U.S., and one that can be used to integrate disparate data streams from a variety of weather sensors to make them a more useful starting point for other forecasting technology." Model page: https://www.nvidia.com/en-us/high-performance-computing/earth-2/
 
-🔗 [reuters.com](https://www.reuters.com/business/environment/nvidia-unveils-ai-models-faster-cheaper-weather-forecasts-2026-01-26/) • 4h ago
+🔗 [reuters.com](https://www.reuters.com/business/environment/nvidia-unveils-ai-models-faster-cheaper-weather-forecasts-2026-01-26/) • 5h ago
 
 ---
 
 **[The $100 Billion Megadeal Between OpenAI and Nvidia Is on Ice](https://www.reddit.com/r/artificial/comments/1qrnq8u/the_100_billion_megadeal_between_openai_and/)**
 
-🔗 [wsj.com](https://www.wsj.com/tech/ai/the-100-billion-megadeal-between-openai-and-nvidia-is-on-ice-aa3025e3) • 20h ago
+🔗 [wsj.com](https://www.wsj.com/tech/ai/the-100-billion-megadeal-between-openai-and-nvidia-is-on-ice-aa3025e3) • 21h ago
 
 ---
 
@@ -63,15 +71,7 @@ AI coding tools are getting more sophisticated. But if coders stop coding, what 
 
 Supports Qwen3-TTS models (0.6B-1.7B) and ASR models. Docker + native deployment options. Key features: 🎭 Voice cloning with reference audio 🎨 Custom voice design from text descriptions ⚡ MLX + Metal GPU acceleration for M1/M2/M3 🎨 Modern React UI included If you like local audio models, give it a try. Works best in local dev mode for now.
 
-🔗 [GitHub](https://github.com/agentem-ai/izwi-audio) • 5h ago
-
----
-
-**[Why the "More Data is Better" Era is Officially Over. (2026 AI Strategy)](https://www.reddit.com/r/artificial/comments/1qs7f5x/why_the_more_data_is_better_era_is_officially/)**
-
-For years, the gold standard in AI was "hoard everything, sort it later." But as we move into 2026, I’m seeing this strategy backfire for dozens of companies. In my recent audits at the lab, I’ve seen CTOs burning $10k-$15k monthly on cloud storage for "radioactive" datasets—logs and clicks from 2022 that add zero value to modern reasoning models. The 2026 Reality: The Compliance Wall: Under the EU AI Act, every byte of data you keep is a liability. Inference Noise: Overloaded data lakes are causing AI agents to hallucinate and slow down. The Carbon Tax: Storage isn't just a cost anymore; it’s a regulatory burden. We recently implemented a Data Minimization Audit for a client, deleting 70% of their legacy data. The result? Faster inference speeds and 100% compliance with ISO/IEC 42001. Efficiency is the new "Big Data." If you aren't pruning your datasets, you aren't building for the future; you're just paying a massive "Storage Tax." Are you guys still hoarding for "potential" future use, or have you started the great data purge? (Just finished a deep dive on the technical framework for this audit. Linked it in the comments for those interested in the compliance roadmap.)
-
-4h ago
+🔗 [GitHub](https://github.com/agentem-ai/izwi-audio) • 6h ago
 
 ---
 
@@ -85,7 +85,7 @@ For years, the gold standard in AI was "hoard everything, sort it later." But as
 
 Chris Mason, the longtime Linux kernel developer most known for being the creator of Btrfs, has been working on a Git repository with AI review prompts he has been working on for LLM-assisted code review of Linux kernel patches
 
-🔗 [phoronix.com](https://www.phoronix.com/news/AI-Code-Review-Prompts-Linux) • 18h ago
+🔗 [phoronix.com](https://www.phoronix.com/news/AI-Code-Review-Prompts-Linux) • 19h ago
 
 ---
 
@@ -101,7 +101,7 @@ ByteDance, Alibaba and Tencent had been given permission to purchase more than 4
 
 I think maybe
 
-3h ago
+4h ago
 
 ---
 
@@ -119,69 +119,73 @@ Hey everyone. I Just published a breakdown on Moltbot: the self-hosted, open-sou
 
 **[Moltbook AI Social Network: 1.4 Million Agents Build A Digital Society](https://www.forbes.com/sites/guneyyildiz/2026/01/31/inside-moltbook-the-social-network-where-14-million-ai-agents-talk-and-humans-just-watch/)**
 
-Forbes • 4h ago
+Forbes • 5h ago
 
 ---
 
-**[Opinion | Pay More Attention to A.I.](https://www.nytimes.com/2026/01/31/opinion/artificial-intelligence-new-world.html)**
+**[Exclusive | The $100 Billion Megadeal Between OpenAI and Nvidia Is on Ice - WSJ](https://www.wsj.com/tech/ai/the-100-billion-megadeal-between-openai-and-nvidia-is-on-ice-aa3025e3?gaa_at=eafs&gaa_n=AWEtsqdFpMApdhBAIqf4V6xGt-XGrnBudAZEf0UDmwJteupH7LgMhUymbF1u&gaa_ts=697e847a&gaa_sig=4fFhKCrnCdxyFp0V2GVASj53kXcnmRliCOIsYWVbAwtalQvpALwO2ufTxWdaNlVJxjSN_PRquIgUyRyBDYPxzg%3D%3D)**
 
-The New York Times • 9h ago
-
----
-
-**[AI Is Turning Regulation Into A Growth Variable](https://www.forbes.com/sites/robertginsburg/2026/01/31/ai-is-turning-regulation-into-a-growth-variable/)**
-
-Forbes • 1h ago
+The Wall Street Journal • 3h ago
 
 ---
 
-**[AI Boom Is Triggering a Loan Meltdown for Software Companies: Credit Weekly](https://www.bloomberg.com/news/articles/2026-01-31/ai-boom-is-triggering-a-loan-meltdown-for-software-companies-credit-weekly)**
+**[Nvidia CEO Jensen Huang Says AI Memory Needs Are Rising During Taiwan Trip, Backs TSMC's Global Expansion, Dismisses China H200 Rumors](https://finance.yahoo.com/news/nvidia-ceo-jensen-huang-says-190159787.html)**
 
-Bloomberg • 1h ago
+On Thursday, Nvidia Corp (NASDAQ:NVDA) CEO Jensen Huang said during a visit to Taiwan that surging AI demand is rapidly increasing the need for advanced memory. AI's Next Bottleneck Is Memory, Not Just Compute Huang said the future of artificial intelligence will be shaped as much by memory as by computing power, reported UDN, one of the leading media platforms in Taiwan. He noted that modern AI models need to think, respond and reason at extremely high speeds, driving a sharp rise in memory cap
 
----
-
-**[How AI assistance impacts the formation of coding skills](https://www.anthropic.com/research/AI-assistance-coding-skills)**
-
-Anthropic is an AI safety and research company that's working to build reliable, interpretable, and steerable AI systems.
-
-Anthropic • 2d ago
+Yahoo Finance • 3h ago
 
 ---
 
-**[Exclusive | The $100 Billion Megadeal Between OpenAI and Nvidia Is on Ice - WSJ](https://www.wsj.com/tech/ai/the-100-billion-megadeal-between-openai-and-nvidia-is-on-ice-aa3025e3?gaa_at=eafs&gaa_n=AWEtsqeLCnYs_8POIiyQrAQ-cBV8l3xxEhRYFOJ5RwdIlKnTvmrEsQzKa5Xs&gaa_ts=697e6e7f&gaa_sig=fvB-4KuBJDHF5BWwspRXP3qQIBV10e4zdHLdE8NEbbrCFsEy__j80P9ikn8N-Rb3k_haY4z1UAmUFMmHPTwDKQ%3D%3D)**
+**[Please Don’t Say Mean Things about the AI That I Just Invested a Billion Dollars In](https://www.mcsweeneys.net/articles/please-dont-say-mean-things-about-the-ai-that-i-just-invested-a-billion-dollars-in)**
 
-The Wall Street Journal • 2h ago
+“[Nvidia CEO] Jensen Huang Is Begging You to Stop Being So Negative About AI” — Headline from Gizmodo
+- - —
+Guys, enough is enough. Bullying is a s...
+
+McSweeney’s Internet Tendency • 4d ago
+
+---
+
+**[A Cyberstalking Survivor Who’s Fighting AI’s War On Women](https://www.forbes.com/sites/elizabethmacbride/2026/01/31/a-cyberstalking-survivor-whos-fighting-ais-war-on-women/)**
+
+Forbes • 34m ago
+
+---
+
+**[The new math defining AI winners and losers](https://www.axios.com/2026/01/30/ai-meta-microsoft-investments)**
+
+The wildly different market reactions to Meta and Microsoft reveal the calculus for investors.
+
+Axios • 17h ago
+
+---
+
+**[Alphabet’s Project Genie Brings AI World Building Closer to Investors](https://finance.yahoo.com/news/alphabet-project-genie-brings-ai-021104308.html)**
+
+Alphabet (NasdaqGS:GOOGL) introduced Project Genie, an AI tool that lets users create interactive 3D digital worlds. The announcement signals a new push by Google into virtual content creation and has already drawn attention from the video game industry. Market watchers are assessing how the tool could influence costs, workflows, and competition across gaming and broader digital content. For you as an investor, Project Genie sits alongside Alphabet’s broader AI efforts that have mostly...
+
+Yahoo Finance • 20h ago
+
+---
+
+**[Why This Artificial Intelligence (AI) Stock Is Gaining Attention From Institutional Investors](https://finance.yahoo.com/news/why-artificial-intelligence-ai-stock-220500556.html)**
+
+Alphabet is a favorite among a few hedge fund billionaires.
+
+Yahoo Finance • 19m ago
+
+---
+
+**[Opinion | Young People Are Using A.I. to Skip the Hardest Part of Growing Up](https://www.nytimes.com/2026/01/30/opinion/ai-social-skills-relationships.html)**
+
+The New York Times • 1d ago
 
 ---
 
 **[The US is headed for mass unemployment, and no one is prepared](https://thehill.com/opinion/finance/5713876-ai-displacement-and-ubi/)**
 
 The Hill • 1d ago
-
----
-
-**[To avoid accusations of AI cheating, college students are turning to AI](https://www.nbcnews.com/tech/internet/college-students-ai-cheating-detectors-humanizers-rcna253878)**
-
-Students are taking new measures, such as dumbing down their work, spying on themselves and using AI “humanizer” programs, to beat accusations of cheating with artificial intelligence.
-
-NBC News • 3d ago
-
----
-
-**[Former Google engineer found guilty of espionage and theft of AI tech](https://www.cnbc.com/2026/01/30/former-google-engineer-found-guilty-of-espionage-and-theft-of-ai-tech.html)**
-
-The case marks the first conviction on AI-related economic espionage charges in the U.S., according to the Department of Justice.
-
-CNBC • 1d ago
-
----
-
-**[Ex-Google engineer convicted of stealing AI trade secrets to benefit China](https://www.latimes.com/california/story/2026-01-30/ex-google-engineer-convicted-of-stealing-ai-trade-secrets-for-china)**
-
-A federal jury on Thursday convicted Linwei Ding, 38, of seven counts of economic espionage and seven counts of theft of trade secrets after an 11-day trial in the U.S. District Court in the Northern District of California.
-
-Los Angeles Times • 19h ago
 
 ---
 
@@ -203,7 +207,7 @@ Guys, enough is enough. Bullying is a s...
 
 Anthropic is an AI safety and research company that's working to build reliable, interpretable, and steerable AI systems.
 
-⬆️ 452 • 💬 334 • 1d ago • [anthropic.com](https://www.anthropic.com/research/AI-assistance-coding-skills)
+⬆️ 455 • 💬 334 • 1d ago • [anthropic.com](https://www.anthropic.com/research/AI-assistance-coding-skills)
 
 ---
 
@@ -211,7 +215,7 @@ Anthropic is an AI safety and research company that's working to build reliable,
 
 Or, as they like to call it, the 'AI Skills Hub'. Which was built by PwC because of course it was
 
-⬆️ 399 • 💬 147 • 2d ago • [Mahad Kalam](https://mahadk.com/posts/ai-skills-hub)
+⬆️ 399 • 💬 148 • 2d ago • [Mahad Kalam](https://mahadk.com/posts/ai-skills-hub)
 
 ---
 
@@ -237,19 +241,11 @@ AI assistance produces significant productivity gains across professional domain
 
 ---
 
-**[Jellyfin LLM/"AI" Development Policy](https://news.ycombinator.com/item?id=46801976)**
-
-The rise of LLMs as a useful development tool over the last year or so has been significant. The power and flexibility of tools like Claude Code and ChatGPT have given a lot of functionality both to experienced developers and new developers alike. But there are trade-offs.
-
-⬆️ 205 • 💬 108 • 3d ago • [jellyfin.org](https://jellyfin.org/docs/general/contributing/llm-policies/)
-
----
-
 **[Mamdani to kill the NYC AI chatbot caught telling businesses to break the law](https://news.ycombinator.com/item?id=46827665)**
 
 New York mayor says terminating the ‘unusable’ bot will help close a budget gap
 
-⬆️ 173 • 💬 60 • 1d ago • [themarkup.org](https://themarkup.org/artificial-intelligence/2026/01/30/mamdani-to-kill-the-nyc-ai-chatbot-we-caught-telling-businesses-to-break-the-law)
+⬆️ 174 • 💬 60 • 1d ago • [themarkup.org](https://themarkup.org/artificial-intelligence/2026/01/30/mamdani-to-kill-the-nyc-ai-chatbot-we-caught-telling-businesses-to-break-the-law)
 
 ---
 
@@ -265,7 +261,15 @@ A lot of vendors pitch AI SRE. We tested 14 models across 11 programming languag
 
 Contribute to amlalabs/amla-sandbox development by creating an account on GitHub.
 
-⬆️ 140 • 💬 74 • 1d ago • [GitHub](https://github.com/amlalabs/amla-sandbox)
+⬆️ 143 • 💬 74 • 1d ago • [GitHub](https://github.com/amlalabs/amla-sandbox)
+
+---
+
+**[Mozilla is building an AI 'rebel alliance' to take on OpenAI, Anthropic](https://news.ycombinator.com/item?id=46812653)**
+
+Mozilla is looking to deploy its roughly $1.4 billion in reserves to support "mission driven" companies and nonprofits, and is particularly focused on AI.
+
+⬆️ 134 • 💬 149 • 2d ago • [CNBC](https://www.cnbc.com/2026/01/27/mozilla-building-an-ai-rebel-alliance-to-take-on-openai-anthropic-.html)
 
 ---
 
@@ -299,7 +303,7 @@ CHAPTERS ⤵ 00:00 - How AI Is Quietly Reshaping Everyday Life 01:47 - Google's 
 
 📺 Dylan Curious
 
-👁️ 4K • 👍 288 • 💬 61 • ⏱️ 25:03 • 6h ago
+👁️ 4K • 👍 288 • 💬 61 • ⏱️ 25:03 • 7h ago
 
 ---
 
@@ -349,7 +353,7 @@ Join the #1 community for AI entrepreneurs and connect with 280k+ members: https
 
 📺 Liam Ottley
 
-👁️ 8K • 👍 506 • 💬 31 • ⏱️ 8:14 • 13h ago
+👁️ 8K • 👍 506 • 💬 31 • ⏱️ 8:14 • 14h ago
 
 ---
 
@@ -359,7 +363,7 @@ Create AI Music Videos with OpenArt https://www.openart.ai/home/?ref=isa-27 In t
 
 📺 Isa does AI
 
-👁️ 8K • 💬 4 • ⏱️ 10:25 • 8h ago
+👁️ 8K • 💬 4 • ⏱️ 10:25 • 9h ago
 
 ---
 
@@ -369,7 +373,7 @@ Like and subscribe if you enjoyed it! Follow me on social media: Instagram: http
 
 📺 DreamcastGuy
 
-👁️ 18K • 👍 1K • 💬 351 • ⏱️ 11:19 • 23h ago
+👁️ 18K • 👍 1K • 💬 351 • ⏱️ 11:19 • 1d ago
 
 ---
 
@@ -385,7 +389,7 @@ Kimi K2.5 is a native multimodal agentic model with 1T parameters, excelling in 
 
 `image-text-to-text`
 
-⬇️ 32,430 • ❤️ 1,287 • 20h ago
+⬇️ 32,430 • ❤️ 1,287 • 21h ago
 
 ---
 
@@ -663,7 +667,7 @@ Ralph is an autonomous AI agent loop that runs repeatedly until all PRD items ar
 
 `TypeScript`
 
-⭐ 8.9k • 🔱 1.0k • 1d ago
+⭐ 8.9k • 🔱 1.0k • 2d ago
 
 ---
 
@@ -673,7 +677,7 @@ LLM驱动的 A/H/美股智能分析器，多数据源行情 + 实时新闻 + Gem
 
 `Python` `agent` `ai` `aigc` `gemini` `llm`
 
-⭐ 8.3k • 🔱 8.7k • 6h ago
+⭐ 8.3k • 🔱 8.7k • 7h ago
 
 ---
 
@@ -683,7 +687,7 @@ LLM驱动的 A/H/美股智能分析器，多数据源行情 + 实时新闻 + Gem
 
 `Vue`
 
-⭐ 6.8k • 🔱 1.2k • 8h ago
+⭐ 6.8k • 🔱 1.2k • 9h ago
 
 ---
 
@@ -693,7 +697,7 @@ The Ultimate Collection of 500+ Agentic Skills for Claude Code/Antigravity/Curso
 
 `Python` `agentic-skills` `ai-agents` `antigravity` `autonomous-coding` `claude-code`
 
-⭐ 5.8k • 🔱 1.3k • 13h ago
+⭐ 5.8k • 🔱 1.3k • 14h ago
 
 ---
 

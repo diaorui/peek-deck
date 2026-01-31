@@ -3,14 +3,14 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-01-31T21:45:27.126680+00:00'
+updated: '2026-01-31T22:24:19.848196+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
+- videos
 - social
 - cryptocurrency
-- videos
 - news
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** January 31, 2026 at 21:45 UTC  
+**Last Updated:** January 31, 2026 at 22:24 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,17 +38,17 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $77,554.06
+### $78,414.73
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** -8.3%  
-**7d:** -10.7%  
-**30d:** -14.0%  
-**90d:** -27.3%  
-**1y:** -23.1%  
+**24h:** -7.2%  
+**7d:** -9.8%  
+**30d:** -13.1%  
+**90d:** -26.5%  
+**1y:** -22.3%  
 
 ---
 
@@ -85,15 +85,27 @@ I'm not wasting these cheap stacks. HODL and BUY!
 
 ---
 
+**[DOING MY PART](https://www.reddit.com/r/Bitcoin/comments/1qsd85h/doing_my_part/)**
+
+1h ago
+
+---
+
 **[Evergreen just like BTC!](https://www.reddit.com/r/Bitcoin/comments/1qs6sj1/evergreen_just_like_btc/)**
 
 5h ago
 
 ---
 
+**[Bitcoin falls below $80,000, continuing decline](https://www.reddit.com/r/Bitcoin/comments/1qs9uw4/bitcoin_falls_below_80000_continuing_decline/)**
+
+🔗 [reuters.com](https://www.reuters.com/business/bitcoin-falls-below-80000-continuing-decline-2026-01-31/) • 4h ago
+
+---
+
 **[Buy Now](https://www.reddit.com/r/Bitcoin/comments/1qs9mvq/buy_now/)**
 
-3h ago
+4h ago
 
 ---
 
@@ -101,7 +113,7 @@ I'm not wasting these cheap stacks. HODL and BUY!
 
 The world is going through some shit right now...but just know that eventually, everything's going to be ok. The aftermath might be a little hard to stomach, but we'll get through it. In the meantime...don't miss the chance to stack sats at every drop. You never know which one will be the bottom, but buy a bit at every new low and thank me later.
 
-6h ago
+7h ago
 
 ---
 
@@ -109,25 +121,19 @@ The world is going through some shit right now...but just know that eventually, 
 
 I'm scared, not because I don't trust Bitcoin, but because I used my BTC and altcoins to back up a loan, which I used to buy more Bitcoin and altcoins. The problem is, I had my entire altcoin portfolio on Binance, and I liquidated it on October 10th. Now I only have BTC left, and if it drops below 80, I'll be wiped out. All my effort and sacrifice of six years will have been for nothing. I know many will say it's wrong and that I was greedy, but I'm someone who has worked hard for as long as I can remember. When I reached adulthood, I got fed up with that life. Now I don't know what to do, but I don't have the strength to continue. I know Bitcoin is the future, but I no longer see a good future for myself, and I don't have the strength to start from scratch.
 
-7h ago
-
----
-
-**[Bitcoin falls below $80,000, continuing decline](https://www.reddit.com/r/Bitcoin/comments/1qs9uw4/bitcoin_falls_below_80000_continuing_decline/)**
-
-🔗 [reuters.com](https://www.reuters.com/business/bitcoin-falls-below-80000-continuing-decline-2026-01-31/) • 3h ago
-
----
-
-**[I’m done](https://www.reddit.com/r/Bitcoin/comments/1qsaxev/im_done/)**
-
-2h ago
+8h ago
 
 ---
 
 **[Today’s message…](https://www.reddit.com/r/Bitcoin/comments/1qscx1s/todays_message/)**
 
-1h ago
+2h ago
+
+---
+
+**[I’m done](https://www.reddit.com/r/Bitcoin/comments/1qsaxev/im_done/)**
+
+3h ago
 
 ---
 
@@ -139,45 +145,35 @@ Nothing has changed. Governments are still spending far far more money than they
 
 ---
 
-**[The original "Hard Money". On the Island of Yap, these massive limestone discs served as a public ledger. Ownership was known by community consensus rather than possession. Basically, a physical Blockchain 500 years ago.](https://www.reddit.com/r/Bitcoin/comments/1qs8l2m/the_original_hard_money_on_the_island_of_yap/)**
-
-4h ago
-
----
-
 ---
 
 ## Google News: "bitcoin"
 
-**[Bitcoin breaks key support level as Glassnode warns of further price breakdown](https://www.coindesk.com/markets/2026/01/31/bitcoin-breakdown-opens-path-to-usd80-000-true-market-mean-glassnode-says)**
+**[Bitcoin Price Drops Below $80,000 as New Buyers Rush to Accumulate](https://finance.yahoo.com/news/bitcoin-price-drops-below-80-174544304.html)**
 
-Long-term bitcoin holders are selling at the fastest pace since August, while some industry observers suggest the market may be approaching a bear-market bottom.
+Bitcoin price dipped below $80k as 335,000 new wallets signal rising adoption despite short-term BTC price weakness.
 
-CoinDesk • 4h ago
+Yahoo Finance • 4h ago
 
 ---
 
-**[Kevin Warsh: Markets React as Pro-Bitcoin Economist Tipped for Fed](https://finance.yahoo.com/news/kevin-warsh-markets-react-pro-122358756.html)**
+**[Bitcoin slips as Fed chair speculation hits risky assets](https://www.reuters.com/business/bitcoin-slips-fed-chair-speculation-hits-risky-assets-2026-01-30/)**
 
-Only yesterday, we explained how Donald Trump runs his White House like a reality TV competition. Nominees for high office are turned into contestants vying for his approval, and the frontrunner could switch at any minute.Lo and behold, that’s exactly what’s happened in the race to become the next chairman ...
+Reuters • 1d ago
+
+---
+
+**[Bitcoin Stuck in a Rut After Warsh Pick as ETFs Shed Billions](https://finance.yahoo.com/news/bitcoin-stuck-rut-warsh-pick-213531831.html)**
+
+Warsh, a former central bank governor with deep establishment ties, has recently aligned with Trump’s push for lower rates.  Instead, a risk-off tone lingered over markets as the Warsh news circulated: stock fell and the dollar traded just off four-year lows.  With Bitcoin now down more than 30% from its October peak — and US spot ETFs posting their longest streak of monthly outflows since launching — traders appear unconvinced that either macro or policy signals offer much near-term relief.
 
 Yahoo Finance • 1d ago
 
 ---
 
-**[Fed Chair nominee Warsh views bitcoin as “good policeman for policy”](https://finance.yahoo.com/news/fed-chair-nominee-warsh-views-150459398.html)**
+**[Bitcoin Drops Below $78,000 After Trump Taps Kevin Warsh To Lead Federal Reserve](https://www.forbes.com/sites/mikestunson/2026/01/31/bitcoin-is-dropping-fast-heres-why-it-dropped-below-78000/)**
 
-Warsh has praised bitcoin as a tool to guide policy, not as a competitor to the dollar.
-
-Yahoo Finance • 1d ago
-
----
-
-**[Bitcoin dips below $78,000 as market digests silver sell-off, Trump's Fed chair pick](https://www.cnbc.com/2026/01/31/bitcoin-dips-below-78000-after-silver-selloff.html)**
-
-Bitcoin and Ethereum plunged following wide swings in the commodities market.
-
-CNBC • 1h ago
+Forbes • 4m ago
 
 ---
 
@@ -185,7 +181,7 @@ CNBC • 1h ago
 
 The strongest bulls take the time to learn the opposite point of view.
 
-Yahoo Finance • 5h ago
+Yahoo Finance • 6h ago
 
 ---
 
@@ -197,33 +193,35 @@ The Block • 1d ago
 
 ---
 
-**[The Slide in Gold and Silver Sets Up a Test for Bitcoin](https://www.barrons.com/articles/the-slide-in-gold-and-silver-sets-up-a-test-for-bitcoin-2a9573b3?gaa_at=eafs&gaa_n=AWEtsqcG2FK71Z1HEU0lma5Zqz5vvNAsl8HIZwkwJzhdVrXxesLfHP1hJMKO&gaa_ts=697e6e81&gaa_sig=10iTVaPk6TzFEYknCnP81nyjCvDcT_HqoJ5TbD5wNw8IdmzbMrngP-eyAsshuXoIlUwe3OLT1dBjX6Qv-_H36w%3D%3D)**
+**[Better Investment to Make in 2026 and Beyond: Bitcoin vs. iShares Bitcoin Trust](https://www.fool.com/investing/2026/01/31/better-investment-2026-beyond-bitcoin-ibit/)**
 
-Barron's • 1d ago
+Based on its monster past performance, it makes sense why investors are interested in Bitcoin.
 
----
-
-**[Largest crypto exchange announces surprising plan after Bitcoin crashes](https://www.thestreet.com/crypto/markets/largest-crypto-exchange-announces-surprising-plan-after-bitcoin-crashes)**
-
-Binance has a new Bitcoin floor plan.
-
-thestreet.com • 1d ago
+The Motley Fool • 10h ago
 
 ---
 
-**[Binance Converts $1B SAFU Fund to Bitcoin Following Criticism — Is a Rally Coming?](https://finance.yahoo.com/news/binance-converts-1b-safu-fund-093700898.html)**
+**[Plan B Network Launches CypherTank, a Bitcoin Pitch Series Showcasing Builders and Ideas](https://bitcoinmagazine.com/news/plan-b-network-cyphertank-bitcoin)**
 
-Binance announced it will convert its $1 billion SAFU fund from stablecoins to Bitcoin reserves within 30 days, responding to mounting community criticism that intensified after prominent Wall Street investor Cathie Wood publicly attributed recent market weakness to a Binance-related deleveraging event. The exchange pledged to maintain the fund’s value ...
+Plan B Network has launched CypherTank, a global Bitcoin-focused pitch series that spotlights builders, ideas, and community discussion across multiple platforms.
 
-Yahoo Finance • 1d ago
+Bitcoin Magazine • 1d ago
 
 ---
 
-**[Binance pledges $1 billion fund to bitcoin as market tanks to months-low](https://www.theblock.co/post/387786/binance-1-billion-safu-bitcoin)**
+**[Fear that quantum computing is on the cusp of cracking cryptocurrency's encryption spurs a global investment firm to remove Bitcoin from recommendations](https://www.tomshardware.com/tech-industry/cryptocurrency/fear-that-quantum-computing-on-the-cusp-of-cracking-cryptocurrencys-encryption-spurs-a-global-investment-firm-to-remove-bitcoin-from-recommendations)**
 
-Binance announced that it will turn its $1 billion SAFU fund into bitcoin over the next 30 days to support the industry through uncertainty.
+The firm's senior financial strategist is concerned the advancements in the field of quantum computing will break Bitcoin.
 
-The Block • 1d ago
+Tom's Hardware • 13d ago
+
+---
+
+**[What price will Bitcoin hit in January? Betting Odds & Predictions](https://polymarket.com/event/what-price-will-bitcoin-hit-in-january-2026)**
+
+View real-time odds on "What price will Bitcoin hit in January?" as of January 30, 2026, and trade on The World's Largest Prediction Market™
+
+Polymarket • 1mo ago
 
 ---
 
@@ -233,7 +231,7 @@ The Block • 1d ago
 
 **[Bitcoin Looks Set for Longest Monthly Losing Streak Since 2018](https://news.ycombinator.com/item?id=46838644)**
 
-⬆️ 53 • 💬 50 • 4h ago • [bloomberg.com](https://www.bloomberg.com/news/articles/2026-01-30/bitcoin-btc-slides-toward-longest-monthly-losing-streak-since-2018)
+⬆️ 58 • 💬 58 • 4h ago • [bloomberg.com](https://www.bloomberg.com/news/articles/2026-01-30/bitcoin-btc-slides-toward-longest-monthly-losing-streak-since-2018)
 
 ---
 
@@ -325,7 +323,7 @@ The 'Path of Least Resistance' is currently straight down, and the stock market 
 
 📺 Gareth Soloway
 
-👁️ 16K • 👍 3K • 💬 431 • ⏱️ 12:26 • 3h ago
+👁️ 16K • 👍 3K • 💬 431 • ⏱️ 12:26 • 4h ago
 
 ---
 
@@ -335,7 +333,7 @@ Why the Crypto Market Is Red (It s NOT the Reason You Think)! Breaking Crypto Ne
 
 📺 Austin Hilton
 
-👁️ 12K • 👍 735 • 💬 147 • ⏱️ 9:28 • 5h ago
+👁️ 12K • 👍 735 • 💬 147 • ⏱️ 9:28 • 6h ago
 
 ---
 
@@ -355,7 +353,7 @@ LeveX: https://levex.com/r/CryptoKid MEMBER UPDATES WEEX: https://cryptokid.io/W
 
 📺 Crypto Kid
 
-👁️ 4K • 👍 353 • 💬 126 • ⏱️ 4:03 • 3h ago
+👁️ 4K • 👍 353 • 💬 126 • ⏱️ 4:03 • 4h ago
 
 ---
 
@@ -365,7 +363,7 @@ Come look into the next BIG move in crypto & metals! All LIVE analysis, charting
 
 📺 Tom Crown
 
-👁️ 5K • 👍 479 • 2h ago
+👁️ 5K • 👍 479 • 3h ago
 
 ---
 
