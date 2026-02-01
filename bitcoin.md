@@ -3,14 +3,14 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-02-01T15:26:48.310756+00:00'
+updated: '2026-02-01T15:50:24.074784+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
 - news
-- videos
 - social
+- videos
 - cryptocurrency
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** February 01, 2026 at 15:26 UTC  
+**Last Updated:** February 01, 2026 at 15:50 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,17 +38,17 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $78,496.63
+### $77,138.50
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** -3.9%  
-**7d:** -11.6%  
-**30d:** -13.9%  
-**90d:** -23.2%  
-**1y:** -20.0%  
+**24h:** -3.5%  
+**7d:** -12.3%  
+**30d:** -14.6%  
+**90d:** -23.9%  
+**1y:** -20.7%  
 
 ---
 
@@ -79,7 +79,7 @@ Rank #1
 
 **[Evergreen just like BTC!](https://www.reddit.com/r/Bitcoin/comments/1qs6sj1/evergreen_just_like_btc/)**
 
-22h ago
+23h ago
 
 ---
 
@@ -93,15 +93,7 @@ Rank #1
 
 I'm not wasting these cheap stacks. HODL and BUY!
 
-21h ago
-
----
-
-**[Big milestone!](https://www.reddit.com/r/Bitcoin/comments/1qsh4nh/big_milestone/)**
-
-Took advantage of the plummet to get myself over the 0.5 mark!! I know this is small for some and big for others, but I’m quite happy with this! Just wanted to share with others who’d understand - nobody in my life cares lol.
-
-16h ago
+22h ago
 
 ---
 
@@ -110,6 +102,14 @@ Took advantage of the plummet to get myself over the 0.5 mark!! I know this is s
 Best Case Scenario - BTC will test 92K, if it breaks it will set a new ATH. Worst Case Scenario - If it looses 50K support, cheap BYC incoming. Regardless, in my experience (since 2015), unless you are an extremely smart person with excellent TA skills supported by a crystal ball, u cannot time the market. DCA, ignore your short term losses. Overall, you will make it. In 2017, I lost a significant amount of money. In 2021, I made a decent profit. I didn’t exit, continue to DCA. Thats my forever strategy that always pays on the long run. Ignore hopium and negative comments. Focus on your bag. Don’t FOMO, don’t panic sell. Aim for profits.
 
 5h ago
+
+---
+
+**[Big milestone!](https://www.reddit.com/r/Bitcoin/comments/1qsh4nh/big_milestone/)**
+
+Took advantage of the plummet to get myself over the 0.5 mark!! I know this is small for some and big for others, but I’m quite happy with this! Just wanted to share with others who’d understand - nobody in my life cares lol.
+
+16h ago
 
 ---
 
@@ -137,7 +137,7 @@ Just started investing in BTC yesterday evening. Purchased my initial batch at 6
 
 Anyone that’s “done with bitcoin” never actually understood bitcoin in the first place.
 
-12h ago
+13h ago
 
 ---
 
@@ -153,17 +153,51 @@ When we were at ATH I saw people talking how we'd get to $200k by December, now 
 
 ## Google News: "bitcoin"
 
-**[Bitcoin Price Drops Below $80,000 as New Buyers Rush to Accumulate](https://finance.yahoo.com/news/bitcoin-price-drops-below-80-174544304.html)**
+**[Bitcoin (BTC) price: Fear hits a 2026 high as traders panic at $81,000 level](https://www.coindesk.com/markets/2026/01/31/bitcoin-fear-sentiment-hits-a-2026-high-as-price-lingers-under-usd83-000)**
 
-Bitcoin price dipped below $80k as 335,000 new wallets signal rising adoption despite short-term BTC price weakness.
+Social chatter around bitcoin has turned sharply negative after the token slid to its lowest level since Nov. 21, a setup Santiment says often appears near capitulation, even if near term trading stays messy.
 
-Yahoo Finance • 21h ago
+CoinDesk • 1d ago
 
 ---
 
-**[Bitcoin Drops Below $78,000 After Trump Taps Kevin Warsh To Lead Federal Reserve](https://www.forbes.com/sites/mikestunson/2026/01/31/bitcoin-is-dropping-fast-heres-why-it-dropped-below-78000/)**
+**[Michael Saylor hints at another bitcoin purchase despite market turmoil](https://www.coindesk.com/markets/2026/02/01/michael-saylor-signals-another-bitcoin-buy-as-btc-price-slumps-to-usd78-000)**
 
-Forbes • 17h ago
+Strategy’s ability to fund a large bitcoin purchase appears limited after a weak performance for the price of its common and preferred shares.
+
+CoinDesk • 45m ago
+
+---
+
+**[Strategy Doubles Down On Bitcoin Model As Stretch Dividend Rises Again](https://finance.yahoo.com/news/strategy-doubles-down-bitcoin-model-151146865.html)**
+
+Strategy Inc. (NasdaqGS:MSTR) recently acquired more than 2,900 BTC, funded through an at the market equity offering. The company simultaneously raised the monthly dividend rate on its Stretch (STRC) preferred stock, marking the sixth increase since July 2025. These moves come during significant bitcoin price declines and increased scrutiny of Strategy’s bitcoin backed financial model. Strategy is again leaning into its bitcoin centric approach at a time when its own shares and the crypto...
+
+Yahoo Finance • 38m ago
+
+---
+
+**[Bitcoin ETFs Shed $817M as BTC Hits Nine-Month Low](https://decrypt.co/356458/bitcoin-etfs-shed-817m-as-btc-hits-nine-month-low)**
+
+Bitcoin’s crash to a nine-month low, coupled with growing uncertainty about macroeconomic policy, catalyzed $817 million in ETF outflows.
+
+Decrypt • 2d ago
+
+---
+
+**[Investors Pull Nearly $818 Million From Bitcoin ETFs as Cryptocurrency Tanks](https://finance.yahoo.com/news/investors-pull-nearly-818-million-174640067.html)**
+
+Bitcoin (CRYPTO: BTC) exchange-traded funds (ETFs) experienced a substantial one-day reversal last week. Investors pulled out nearly $818 million as Bitcoin’s price plummeted to a nine-month low. Data indicated that Bitcoin ETFs registered net daily outflows of $817.87 million on January 29. This pushed January into an overall negative zone. However, the cumulative net inflows since the inception of Bitcoin ETFs remained significant at $55.52 billion. The largest product by assets, BlackRock’s i
+
+Yahoo Finance • 22h ago
+
+---
+
+**[Bitcoin ETFs Bleed $817M as BTC Crashes to 9-Month Low – Is the Worst Over?](https://finance.yahoo.com/news/bitcoin-etfs-bleed-817m-btc-172551410.html)**
+
+Bitcoin spot exchange-traded funds (ETFs) experienced one of the biggest one-day reversals of the year on January 29, as investors pulled out nearly $818 million from U.S.-based products as the Bitcoin price dropped to its lowest spot in nine months.Sosovalue data shows that spot Bitcoin ETFs recorded net daily outflows ...
+
+Yahoo Finance • 1d ago
 
 ---
 
@@ -183,51 +217,17 @@ Yahoo Finance • 2d ago
 
 ---
 
+**[Bitcoin Drops Below $78,000 After Trump Taps Kevin Warsh To Lead Federal Reserve](https://www.forbes.com/sites/mikestunson/2026/01/31/bitcoin-is-dropping-fast-heres-why-it-dropped-below-78000/)**
+
+Forbes • 17h ago
+
+---
+
 **[JPMorgan says bitcoin futures oversold as silver flips overbought, sees $8,500 gold long term](https://www.theblock.co/post/387893/jpmorgan-bitcoin-gold-silver-8500-long-term)**
 
 Indeed, since the JPMorgan report was published on Wednesday, both silver and gold have pulled back from recent highs.
 
 The Block • 1d ago
-
----
-
-**[Michael Saylor’s bitcoin stack is officially underwater, but here’s why he likely won't reach for the panic button](https://www.coindesk.com/business/2026/01/31/michael-saylor-s-bitcoin-stack-is-officially-underwater-but-here-s-why-he-likely-won-t-reach-for-the-panic-button)**
-
-The main impact of the price decline is slowing Strategy's ability to buy more bitcoin without diluting shareholders, as its stock now trades at a discount to its bitcoin holdings.
-
-CoinDesk • 18h ago
-
----
-
-**[Better Investment to Make in 2026 and Beyond: Bitcoin vs. iShares Bitcoin Trust](https://www.fool.com/investing/2026/01/31/better-investment-2026-beyond-bitcoin-ibit/)**
-
-Based on its monster past performance, it makes sense why investors are interested in Bitcoin.
-
-The Motley Fool • 1d ago
-
----
-
-**[Bitcoin’s freefall approaches $80,000 as precious metals also tank](https://fortune.com/2026/01/30/bitcoin-price-today-ethereum-gold-silver-platinum-copper/)**
-
-The world’s largest cryptocurrency is down 2% over the past day while gold and silver have dropped 11% and 30%, respectively.
-
-Fortune • 1d ago
-
----
-
-**[First US bank collapse of 2026 adds to gold, silver, and Bitcoin chaos while $337B in unrealized contagion looms](https://cryptoslate.com/first-us-bank-collapse-of-2026-adds-to-gold-silver-and-bitcoin-chaos-while-337b-in-unrealized-losses-loom/)**
-
-The first bank collapse of 2026 coincides with a violent global sell-off that has traders fearing a broader contagion.
-
-CryptoSlate • 17h ago
-
----
-
-**[Where is Donald Trump’s strategic Bitcoin reserve?](https://www.fastcompany.com/91482053/where-is-donald-trumps-strategic-bitcoin-reserve)**
-
-The government seems to be amassing more Bitcoin. But little work seems to be happening to enact the terms of the executive order Trump signed to start the 'strategic reserve.'
-
-Fast Company • 3d ago
 
 ---
 
@@ -339,7 +339,7 @@ When Will the Current U.S. Government Shutdown End?
 
 📺 CryptosRUs
 
-👁️ 60K • 👍 2K • 💬 878 • ⏱️ 11:12 • 13h ago
+👁️ 60K • 👍 2K • 💬 878 • ⏱️ 11:12 • 14h ago
 
 ---
 
@@ -359,7 +359,7 @@ BTC #Bitcoin #Cryptocurrency Join Michael Saylor for his unforgettable keynote a
 
 📺 TheGameBoyGeek - Hi Quality Hi Energy Board Game Reviews
 
-👁️ 53K • 👍 4K • 10h ago
+👁️ 53K • 👍 4K • 11h ago
 
 ---
 
@@ -379,7 +379,7 @@ Gold crashes with Silver in tow and now comes Bitcoin. How low can we go? MUCH l
 
 📺 Digital Asset News
 
-👁️ 19K • 👍 955 • 💬 144 • ⏱️ 35:43 • 17h ago
+👁️ 19K • 👍 955 • 💬 144 • ⏱️ 35:43 • 18h ago
 
 ---
 
@@ -399,7 +399,7 @@ Nick Valdez looks at the latest market crash with the next level Bitcoin MUST ho
 
 📺 Discover Crypto
 
-👁️ 19K • 👍 706 • 💬 210 • ⏱️ 4:28 • 17h ago
+👁️ 19K • 👍 706 • 💬 210 • ⏱️ 4:28 • 18h ago
 
 ---
 
@@ -409,7 +409,7 @@ CHECK OUT MY LINKTREE FOR EXCHANGES I USE, BONUSES, FREE VIDEOS, AND MORE! https
 
 📺 My Financial Friend
 
-👁️ 20K • 👍 781 • 💬 378 • ⏱️ 8:03 • 21h ago
+👁️ 20K • 👍 781 • 💬 378 • ⏱️ 8:03 • 22h ago
 
 ---
 

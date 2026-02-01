@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-02-01T15:26:48.302370+00:00'
+updated: '2026-02-01T15:50:24.065418+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
 - news
+- social
 - videos
 - repositories
-- social
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** February 01, 2026 at 15:26 UTC  
+**Last Updated:** February 01, 2026 at 15:50 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -49,7 +49,7 @@ What moltbook is So essentially There is this open source AI bot called openclaw
 
 The comment follows reports that the rocket maker is weighing a transaction that could further consolidate Musk’s space and AI ventures.
 
-🔗 [TESLARATI](https://www.teslarati.com/rumored-spacex-xai-merger-gets-apparent-confirmation-from-elon-musk/) • 4h ago
+🔗 [TESLARATI](https://www.teslarati.com/rumored-spacex-xai-merger-gets-apparent-confirmation-from-elon-musk/) • 5h ago
 
 ---
 
@@ -64,6 +64,14 @@ SpaceX's filing claims these satellites will be “a first step towards becoming
 **[Is artificial intelligence really all that scary?](https://www.reddit.com/r/artificial/comments/1qsz16q/is_artificial_intelligence_really_all_that_scary/)**
 
 1h ago
+
+---
+
+**[Is GPT getting downgraded for free users or just gemini getting better?](https://www.reddit.com/r/artificial/comments/1qsvas4/is_gpt_getting_downgraded_for_free_users_or_just/)**
+
+So I was using LLM for studying advance language/framework/design topics. Whenever I have some question I would try on GPT but it will always give me answer in points no matter what prompt I try or create a separate workbook with new memory. It will always give me answer in small basic points. I wanted to learn topics in depth but it just refuses to give me better indepth answer just everything in basic points. Gemini sometimes is not able to understand context but the answer quality is just amazing and everything is in just depth, it uses points also but they are much better explained than GPT. Also the free version limit is just getting frustrating now in GPT and extremely long wait time for images, it has gotten so bad that I never though I would completely uninstall GPT and prefer gemini over it.
+
+5h ago
 
 ---
 
@@ -87,7 +95,7 @@ AI coding tools are getting more sophisticated. But if coders stop coding, what 
 
 The digital landscape has shifted from "Human-to-AI" interaction to a baffling new frontier: AI-to-AI social networking. At the center of th...
 
-🔗 [Ecency](https://ecency.com/@pichat/the-rise-of-moltbook-why-150000-ai-agents-ditched-humans-to-build-their-own-society-jja) • 1h ago
+🔗 [Ecency](https://ecency.com/@pichat/the-rise-of-moltbook-why-150000-ai-agents-ditched-humans-to-build-their-own-society-jja) • 2h ago
 
 ---
 
@@ -105,12 +113,6 @@ Supports Qwen3-TTS models (0.6B-1.7B) and ASR models. Docker + native deployment
 
 ---
 
-**[The debate over artificial intelligence and employment](https://www.reddit.com/r/artificial/comments/1qrb5dt/the_debate_over_artificial_intelligence_and/)**
-
-🔗 [technology.org](https://www.technology.org/2026/01/28/the-debate-over-artificial-intelligence-and-employment/) • 1d ago
-
----
-
 ---
 
 ## Google News: "ai"
@@ -125,37 +127,31 @@ NBC News • 5h ago
 
 **[Moltbook AI Social Network: 1.4 Million Agents Build A Digital Society](https://www.forbes.com/sites/guneyyildiz/2026/01/31/inside-moltbook-the-social-network-where-14-million-ai-agents-talk-and-humans-just-watch/)**
 
-Forbes • 22h ago
+Forbes • 23h ago
 
 ---
 
-**[The AI Companies Trying to Make Grief Obsolete](https://www.theatlantic.com/ideas/2026/02/deadbots-ai-grief-obsolete/685811/)**
+**[AI’s Fundraising Frenzy Continues](https://www.wsj.com/tech/ai/ais-fundraising-frenzy-continues-911af613?gaa_at=eafs&gaa_n=AWEtsqeXOZKLmKv25P5v0iZloQwkjJYm8x66UxqQ2KSLz1Qp40jM7DQ5IWKP&gaa_ts=697f79a8&gaa_sig=1po3HHsWaGw6HqyAbtFdiViDzJJG5S_OamDZn-mPkhRLtzUGcmm2NZAwtuVz88HmP1vCbC2rVzjObWKQIxS8sQ%3D%3D)**
 
-You can buy an AI version of your lost loved one. But should you?
-
-The Atlantic • 2h ago
+The Wall Street Journal • 33m ago
 
 ---
 
-**[Don’t fear the AI ‘jobpocalypse’](https://www.ft.com/content/7d9a2d8f-5fda-4b2b-a58f-fc8aea22558a)**
+**[Microsoft Deploys Custom Maia 200 Chip To Reshape Cloud AI Economics](https://www.forbes.com/sites/janakirammsv/2026/02/01/microsoft-deploys-custom-maia-200-chip-to-reshape-cloud-ai-economics/)**
 
-The technology hasn’t yet hit employment notably, and could create more openings
-
-Financial Times • 3h ago
+Forbes • 1h ago
 
 ---
 
-**[The AI adoption story is haunted by fear as today's efficiency programs look like tomorrow's job cuts. Leaders need to win workers' trust](https://fortune.com/2026/02/01/ai-wont-decide-the-future-leaders-will-carolyn-dewar-mckinsey/)**
+**[The State Of The $2.52 Trillion AI Bubble, January 2026](https://www.forbes.com/sites/gilpress/2026/02/01/the-state-of-the-252-trillion-ai-bubble-january-2026/)**
 
-When people feel exposed, they play small. Breakthrough ideas give way to micro use cases and firms refine today’s’ model instead of creating tomorrow’s.
-
-Fortune • 1h ago
+Forbes • 1h ago
 
 ---
 
-**[Opinion | Pay More Attention to A.I.](https://www.nytimes.com/2026/01/31/opinion/artificial-intelligence-new-world.html)**
+**[Opinion | Young People Are Using A.I. to Skip the Hardest Part of Growing Up](https://www.nytimes.com/2026/01/30/opinion/ai-social-skills-relationships.html)**
 
-The New York Times • 1d ago
+The New York Times • 2d ago
 
 ---
 
@@ -167,25 +163,27 @@ The Washington Post • 1h ago
 
 ---
 
-**[The US is headed for mass unemployment, and no one is prepared](https://thehill.com/opinion/finance/5713876-ai-displacement-and-ubi/)**
+**[The AI Companies Trying to Make Grief Obsolete](https://www.theatlantic.com/ideas/2026/02/deadbots-ai-grief-obsolete/685811/)**
 
-The Hill • 1d ago
+You can buy an AI version of your lost loved one. But should you?
 
----
-
-**[It’s Starting to Look Like AI Has Killed the Entire Model of College](https://futurism.com/future-society/ai-college-internships-jobs)**
-
-As AI appears to do much of the work of entry-level job seekers, the entire premise of a college education seems to be collapsing.
-
-Futurism • 1d ago
+The Atlantic • 3h ago
 
 ---
 
-**[Elon Musk's SpaceX applies to launch 1m satellites into orbit](https://www.bbc.com/news/articles/cyv5l24mrjmo)**
+**["We're in the singularity": New AI platform skips the humans entirely](https://www.axios.com/2026/01/31/ai-moltbook-human-need-tech)**
 
-The firm wants to create a network of "orbital data centres" to power artificial intelligence.
+It's not science fiction. It's happening right now — and it's freaking out some of the smartest names in artificial intelligence.
 
-BBC • 23h ago
+Axios • 1d ago
+
+---
+
+**[Artificial intelligence researchers hit by flood of ‘slop’](https://www.ft.com/content/54e274c5-de86-4b3e-96a9-95a46b5e48a0)**
+
+Conferences restrict use of LLMs after surge of low-quality AI-generated papers and reviews
+
+Financial Times • 10h ago
 
 ---
 
@@ -201,14 +199,6 @@ Anthropic is an AI safety and research company that's working to build reliable,
 
 ---
 
-**[Moltworker: a self-hosted personal AI agent, minus the minis](https://news.ycombinator.com/item?id=46810828)**
-
-Moltworker is a middleware Worker and adapted scripts that allows running Moltbot (formerly Clawdbot) on Cloudflare's Sandbox SDK and our Developer Platform APIs. So you can self-host an AI personal assistant — without any new hardware.
-
-⬆️ 239 • 💬 68 • 3d ago • [The Cloudflare Blog](https://blog.cloudflare.com/moltworker-self-hosted-ai-agent/)
-
----
-
 **[How AI impacts skill formation](https://news.ycombinator.com/item?id=46821360)**
 
 AI assistance produces significant productivity gains across professional domains, particularly for novice workers. Yet how this assistance affects the development of skills required to effectively supervise AI remains unclear. Novice workers who rely heavily on AI to complete unfamiliar tasks may compromise their own skill acquisition in the process. We conduct randomized experiments to study how developers gained mastery of a new asynchronous programming library with and without the assistance of AI. We find that AI use impairs conceptual understanding, code reading, and debugging abilities, without delivering significant efficiency gains on average. Participants who fully delegated coding tasks showed some productivity improvements, but at the cost of learning the library. We identify six distinct AI interaction patterns, three of which involve cognitive engagement and preserve learning outcomes even when participants receive AI assistance. Our findings suggest that AI-enhanced productivity is not a shortcut to competence and AI assistance should be carefully adopted into workflows to preserve skill formation -- particularly in safety-critical domains.
@@ -221,7 +211,7 @@ AI assistance produces significant productivity gains across professional domain
 
 Like many organizations, Wiki Education has grappled with generative AI, its impacts, opportunities, and threats, for several years. As an organization that runs large-scale programs to bring new e…
 
-⬆️ 184 • 💬 80 • 18h ago • [Wiki Education](https://wikiedu.org/blog/2026/01/29/generative-ai-and-wikipedia-editing-what-we-learned-in-2025/)
+⬆️ 192 • 💬 85 • 18h ago • [Wiki Education](https://wikiedu.org/blog/2026/01/29/generative-ai-and-wikipedia-editing-what-we-learned-in-2025/)
 
 ---
 
@@ -230,14 +220,6 @@ Like many organizations, Wiki Education has grappled with generative AI, its imp
 New York mayor says terminating the ‘unusable’ bot will help close a budget gap
 
 ⬆️ 177 • 💬 61 • 1d ago • [themarkup.org](https://themarkup.org/artificial-intelligence/2026/01/30/mamdani-to-kill-the-nyc-ai-chatbot-we-caught-telling-businesses-to-break-the-law)
-
----
-
-**[Benchmarking OpenTelemetry: Can AI trace your failed login?](https://news.ycombinator.com/item?id=46811588)**
-
-A lot of vendors pitch AI SRE. We tested 14 models across 11 programming languages; even the best ones struggle with instrumenting code with the leading open-source standard, OpenTelemetry.
-
-⬆️ 143 • 💬 80 • 2d ago • [Quesma](https://quesma.com/blog/introducing-otel-bench/)
 
 ---
 
@@ -270,6 +252,22 @@ Q.ai is an Israeli startup specializing in imaging and machine learning, particu
 Workflows and the addition of new capabilities are happening much faster than with previous technologies, and new grads may be vital in that transition.
 
 ⬆️ 125 • 💬 220 • 2d ago • [Semiconductor Engineering](https://semiengineering.com/ais-impact-on-engineering-jobs-may-be-different-than-initial-projections/)
+
+---
+
+**[Slopaganda: AI images posted by the White House and what they teach us](https://news.ycombinator.com/item?id=46816212)**
+
+Under Donald Trump, the White House has filled its social media with memes, wishcasting, nostalgia and deepfakes. Here’s what you need to know to navigate the trolling
+
+⬆️ 104 • 💬 14 • 2d ago • [the Guardian](https://www.theguardian.com/us-news/2026/jan/29/the-slopaganda-era-10-ai-images-posted-by-the-white-house-and-what-they-teach-us)
+
+---
+
+**[I trapped an AI model inside an art installation (2025) [video]](https://news.ycombinator.com/item?id=46830523)**
+
+Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.
+
+⬆️ 103 • 💬 34 • 1d ago • [youtube.com](https://www.youtube.com/watch?v=7fNYj0EXxMs)
 
 ---
 
@@ -313,7 +311,7 @@ A new platform called Moltbook is going viral — and it's not built for humans.
 
 📺 Mint
 
-👁️ 7K • 👍 84 • 💬 19 • ⏱️ 3:25 • 22h ago
+👁️ 7K • 👍 84 • 💬 19 • ⏱️ 3:25 • 23h ago
 
 ---
 
@@ -353,7 +351,7 @@ Nathan Lambert and Sebastian Raschka are machine learning researchers, engineers
 
 📺 Lex Fridman
 
-👁️ 167K • 👍 5K • 💬 364 • ⏱️ 4:25:13 • 16h ago
+👁️ 167K • 👍 5K • 💬 364 • ⏱️ 4:25:13 • 17h ago
 
 ---
 
@@ -657,7 +655,7 @@ AI → JSON → UI
 
 `TypeScript`
 
-⭐ 9.8k • 🔱 518 • 3d ago
+⭐ 9.8k • 🔱 518 • 4d ago
 
 ---
 

@@ -3,14 +3,14 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-02-01T15:26:48.316750+00:00'
+updated: '2026-02-01T15:50:24.080918+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
 - news
-- videos
 - social
+- videos
 - cryptocurrency
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** February 01, 2026 at 15:26 UTC  
+**Last Updated:** February 01, 2026 at 15:50 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -36,17 +36,17 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Price
 
-### $2,369.20
+### $2,317.34
 
 ---
 
 ## Ethereum Chart
 
-**24h:** -6.6%  
-**7d:** -19.3%  
-**30d:** -24.5%  
-**90d:** -28.5%  
-**1y:** -17.5%  
+**24h:** -7.2%  
+**7d:** -21.3%  
+**30d:** -26.4%  
+**90d:** -30.2%  
+**1y:** -19.5%  
 
 ---
 
@@ -80,7 +80,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 We've seen about 10 years of people trying to do content incentivization in crypto, from early-stage platforms like Bihu and Steemit, to BitClout in 2021, to Zora, to tipping features inside of decentralized social, and more. So far, I think we have not been very successful, and I think this is because the problem is fundamentally hard. First, my view of what the problem is. A major difference between doing "creator incentives" in the 00s vs doing them today, is that in the 00s, a primary problem was having not enough content at all. In the 20s, there's plenty of content, AI can generate an entire metaverse full of it for like $10. The problem is quality. And so your goal is not incentivizing content, it's surfacing good content. Personally, I think that the most successful example of creator incentives we've seen is Substack. To see why, take a look at the top 10: https://substack.com/leaderboard/technology/paid https://substack.com/leaderboard/culture/paid https://substack.com/leaderboard/world-politics/paid Now, you may disagree with many of these authors. But I have no doubt that: They are on the whole high quality, and contribute positively to the discussion They are mostly people who would not have been elevated without Substack's presence So Substack is genuinely surfacing high quality and pluralism. Now, we can compare to creator coin projects. I don't want to pick on a single one, because I think there's a failure mode of the entire category. For example: Top Zora creator coins: https://www.coingecko.com/en/categories/zora-creator-coins BitClout: https://www.businessofbusiness.com/articles/inside-the-rise-of-bitclout-a-crypto-based-social-network-influencers-andreessen-horowitz-sequoia/#:~:text=Most%20of%20the,about%20BitClout%E2%80%99s%20users Basically, the top 10 are people who already have very high social status, and who are often impressive but primarily for reasons other than the content they create. At the core, Substack is a simple subscription service: you pay $N per month, and you get to see the person's articles. But a big part of Substack's success is that they did not just set the mechanism and forget. Their launch process was very hands-on, deliberately seeding the platform with high-quality creators, based on a very particular vision of what kind of high-quality intellectual environment they wanted to foster, including giving selected people revenue guarantees. So now, let's get to one idea that I think could work (of course, coming up with new ideas is inherently a more speculative project than criticizing existing ones, and more prone to error). Create a DAO, that is not token-based. Instead, the inspiration should be Protocol Guild: there are N members, and they can (anonymously) vote new members in and out. If N gets above ~200, consider auto-splitting it. Importantly, do not try to make the DAO universal or even industry-wide. Instead, embrace the opinionatedness. Be okay with having a dominant type of content (long-form writing, music, short-form video, long-form video, fiction, educational...), and be okay with having a dominant style (eg. country or region of origin, political viewpoint, if within crypto which projects you're most friendly to...). Hand-pick the initial membership set, in order to maximize its alignment with the desired style. The goal is to have a group that is larger than one creator and can accumulate a public brand and collectively bargain to seek revenue opportunities, but at the same time small enough that internal governance is tractable. Now, here is where the tokens come in. In general, one of my hypotheses this decade is that a large portion of effective governance mechanisms will all have the form factor of "large number of people and bots participating in a prediction market, with the output oracle being a diverse set of people optimized for mission alignment and capture resistance". In this case, what we do is: anyone can become a creator and create a creator coin, and then, if they get admitted to a creator DAO, a portion of their proceeds from the DAO are used to burn their creator coins. This way, the token speculators are NOT participating in a recursive-speculation attention game backed only by itself. Instead, they are specifically being predictors of what new creators the high-value creator DAOs will be willing to accept. At the same time, they also provide a valuable service to the creator DAOs: they are helping surface promising creators for the DAOs to choose from. So the ultimate decider of who rises and falls is not speculators, but high-value content creators (we make the assumption that good creators are also good judges of quality, which seems often true). Individual speculators can stay in the game and thrive to the extent that they do a good job of predicting the creator DAOs' actions.
 
-1h ago
+2h ago
 
 ---
 
@@ -150,11 +150,9 @@ The Doots live stream is all about showcasing the best of the week from the Dail
 
 ## Google News: "ethereum"
 
-**[Crypto Crash: Liquidations Top $2.5 Billion as Bitcoin, Ethereum and XRP Prices Plummet](https://finance.yahoo.com/news/crypto-crash-liquidations-top-2-203516968.html)**
+**[Bitcoin, XRP, Ethereum Fall on News of Kevin Warsh Fed Appointment.](https://www.barrons.com/articles/bitcoin-xrp-ethereum-crypto-today-954298d9?gaa_at=eafs&gaa_n=AWEtsqcF5GhzUGiizzEi_bkiM5KcIdWC2P5JO6FLM5hcUmacC8YGMNPimdNQ&gaa_ts=697f79ab&gaa_sig=6RudFfDgQDrHKS024KUtPjPioLRbd4m4WwAK169gwFfpvXAi_ztaL1rStAO1ArV9QNHFkRcRZOp3tE-WP8e5hg%3D%3D)**
 
-The crypto market's recent decline only accelerated Saturday, with Bitcoin falling to nearly $77,000 as liquidations piled up.
-
-Yahoo Finance • 18h ago
+Barron's • 1d ago
 
 ---
 
@@ -162,21 +160,23 @@ Yahoo Finance • 18h ago
 
 Crypto prices crashed as $2B+ liquidations hit exchanges. Bitcoin lost $700M in longs below key support; Ethereum saw $300M wiped after $2,500 break.
 
-Coinpaper • 17h ago
+Coinpaper • 18h ago
 
 ---
 
-**[Bitcoin, XRP, Ethereum Fall on News of Kevin Warsh Fed Appointment.](https://www.barrons.com/articles/bitcoin-xrp-ethereum-crypto-today-954298d9?gaa_at=eafs&gaa_n=AWEtsqd0zISW5jNUsc9aQYTyxVSYK9u2PPc9Qw2amtpzJhUBVh2oZi13w4pJ&gaa_ts=697f665e&gaa_sig=zuJCYt8w6LOpN6p65ToA8fI9crUn9SYsBzA_Ah4AF9Z9WVlLQOLQ1Rmpd-41rcKXPlQ5JNeEw1-37rTlydfcvA%3D%3D)**
+**[Crypto market crashes erasing $220B as Israel strikes Gaza with ETH and XRP leading weekend losses](https://cryptoslate.com/weekend-crypto-market-crash-erases-100b-as-israel-strikes-gaza-with-eth-and-xrp-leading-losses/)**
 
-Barron's • 1d ago
+XRP leads a massive altcoin retreat as geopolitical shocks expose the dangerous reality of weekend trading.
+
+CryptoSlate • 1d ago
 
 ---
 
-**[Better Crypto Buy: Bitcoin vs. Ethereum](https://www.fool.com/investing/2026/01/30/better-crypto-buy-bitcoin-vs-ethereum/)**
+**[Ethereum (ETH) news: ‘We need to prepare’ for quantum computing](https://www.coindesk.com/tech/2026/02/01/quantum-threat-gets-real-ethereum-foundation-prioritizes-security-with-leanvm-and-pq-signatures)**
 
-For crypto investors, it's time to buy the dip on Bitcoin again.
+Earlier in January, the Ethereum Foundation formally elevated post-quantum security to a strategic priority, creating a dedicated Post-Quantum team.
 
-The Motley Fool • 2d ago
+CoinDesk • 46m ago
 
 ---
 
@@ -188,19 +188,17 @@ Yahoo Finance • 1d ago
 
 ---
 
+**[Key facts: Ethereum Drops 12.7% Amid Large Sales; Institutional Interest Grows](https://www.tradingview.com/news/tradingview:28b30d6b1c11d:0-key-facts-ethereum-drops-12-7-amid-large-sales-institutional-interest-grows/)**
+
+TradingView • 15h ago
+
+---
+
 **[Ethereum Falls 10% In Selloff](https://www.investing.com/news/cryptocurrency-news/ethereum-falls-10-in-selloff-4477658)**
 
 Ethereum Falls 10% In Selloff
 
-Investing.com • 21h ago
-
----
-
-**[Ripple Affirms XRPL Focus, Says ‘We Love XRP’ Over Ethereum](https://www.tradingview.com/news/newsbtc:0d7d8c78c094b:0-ripple-affirms-xrpl-focus-says-we-love-xrp-over-ethereum/)**
-
-Ripple’s new stablecoin rollout has put a bright spotlight on a simple fact: most RLUSD is living on Ethereum right now. That imbalance has stirred worry among long-time XRP supporters.Some feel the company’s heart might be shifting away from the ledger that gave it a base. Others say the move is p…
-
-TradingView • 1d ago
+Investing.com • 22h ago
 
 ---
 
@@ -212,19 +210,19 @@ thedefiant.io • 1d ago
 
 ---
 
-**[Vitalik Buterin to spend $43 million on Ethereum development](https://www.coindesk.com/business/2026/01/30/vitalik-buterin-withdraws-usd17-million-in-eth-as-ethereum-foundation-enters-mild-austerity)**
+**[Better Crypto Buy: Bitcoin vs. Ethereum](https://www.fool.com/investing/2026/01/30/better-crypto-buy-bitcoin-vs-ethereum/)**
 
-Ethereum’s co-founder said the $43 million withdrawal will support a broader “full-stack openness and verifiability” vision as the foundation tightens spending.
+For crypto investors, it's time to buy the dip on Bitcoin again.
 
-CoinDesk • 2d ago
+The Motley Fool • 2d ago
 
 ---
 
-**[Bitcoin, XRP, Ethereum Dive. Why Cryptos Are Getting Bashed After Warsh Fed Pick.](https://www.barrons.com/livecoverage/stock-market-news-today-013026/card/bitcoin-xrp-ethereum-dive-why-cryptos-are-getting-bashed-after-warsh-fed-pick--89jtYV0llDHxXXYD4AKw?gaa_at=eafs&gaa_n=AWEtsqfrm19RuKz9ftQrEjLijYx7UtSxKXr2Fp06M6T57DnR9xGWdlZY5Osx&gaa_ts=697f665e&gaa_sig=jRXixIyf8Ttp4MvTTVYwoRkGLd4x9mtdT2-l4ziu7hNUli52JreVaNjjN6oW4OiGIldl_9Y0VoHqi7k6vUEVpg%3D%3D)**
+**[Ethereum Price Prediction: $2,400 Crash Opens $1,435 Risk](https://coinpaper.com/14198/ethereum-price-prediction-2-400-crash-opens-1-435-risk)**
 
-The Dow, S&P 500, and Nasdaq Composite fell as the stock market reacted to President Donald Trump's pick for next chair of the Federal Reserve.
+ETH plunges to $2,400 after heavy liquidations, with analysts warning a deeper move toward $1,435 is possible.
 
-Barron's • 2d ago
+Coinpaper • 20h ago
 
 ---
 
@@ -248,7 +246,7 @@ Nick Valdez looks at the latest market crash with the next level Bitcoin MUST ho
 
 📺 Discover Crypto
 
-👁️ 19K • 👍 706 • 💬 210 • ⏱️ 4:28 • 17h ago
+👁️ 19K • 👍 706 • 💬 210 • ⏱️ 4:28 • 18h ago
 
 ---
 
@@ -268,7 +266,7 @@ This video provides a professional Elliott Wave and technical analysis of Ethere
 
 📺 More Crypto Online
 
-👁️ 664 • 👍 75 • 💬 5 • ⏱️ 8:33 • 1h ago
+👁️ 664 • 👍 75 • 💬 5 • ⏱️ 8:33 • 2h ago
 
 ---
 
@@ -278,7 +276,7 @@ EMERGENCY UPDATE: CRYPTO CRASH INTENSIFIES! (Here's Why) The crypto market is in
 
 📺 Tim Warren
 
-👁️ 21K • 👍 1K • 💬 453 • ⏱️ 11:12 • 20h ago
+👁️ 21K • 👍 1K • 💬 453 • ⏱️ 11:12 • 21h ago
 
 ---
 

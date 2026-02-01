@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-02-01T15:26:48.319996+00:00'
+updated: '2026-02-01T15:50:24.084175+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
 - news
-- videos
 - social
+- videos
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** February 01, 2026 at 15:26 UTC  
+**Last Updated:** February 01, 2026 at 15:50 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -52,7 +52,13 @@ From DEEP Robotics on 𝕏: https://x.com/DeepRobotics_CN/status/201711442936065
 
 The real meat and potatoes: I made this as a modular brain for my other robots I built recently. Right now I’m building her a tiny combat robot body so I can’t wait to program her fight moves. Already slightly tested it but just to get her to stand in a T pose then relax all motors after 5 seconds to get an idea of how to map her body. That was when I used a pi zero tho so more work is definitely needed. After that I need to completely redesign her casing. It’s literally made from an outer frame I printed in a rush and a piece of plastic that held her oled screen in the packaging.
 
-17h ago
+18h ago
+
+---
+
+**[The future of remote workers?](https://www.reddit.com/r/robotics/comments/1qsmoj2/the_future_of_remote_workers/)**
+
+12h ago
 
 ---
 
@@ -96,17 +102,11 @@ From: CyberRobo on 𝕏: https://x.com/CyberRobooo/status/2017544750694551618 Ro
 
 ---
 
-**[The future of remote workers?](https://www.reddit.com/r/robotics/comments/1qsmoj2/the_future_of_remote_workers/)**
-
-12h ago
-
----
-
 **[First rover build! Resurrected my dad's 5yr old kits and scraps to make this little guy](https://www.reddit.com/r/robotics/comments/1qsjqlz/first_rover_build_resurrected_my_dads_5yr_old/)**
 
 First time posting here! Ive been messing around with my dad’s scraps for a while, but finally found a rover kit! I built this chassis using a mix of 5-year-old kits and random scraps I had lying around. It was a late night, but getting an actual chassis/frame plus the wiring to work felt amazing. Really really simple build, put it together via an old ESP 32, ( after many cable, Bluetooth pairing, and firmware hassles ) archaic L298N motor driver, and for battery a basic series circuit to up the voltage ( don’t even have batteries sitting haha) I’ve been learning a ton from Practical Electronics for Inventors and The Art of Electronics, but I'm looking for what to tackle next. I’d love to hear your suggestions for: Books that bridge mechanical engineering and embedded systems. Courses on more advanced control (maybe leading into ROS 2?). I’ve played around built software applications with agentic workflows and played around w yolov8 as well. But definitely need more resources on robotics + AI. Let me know if you guys have any tips!!
 
-14h ago
+15h ago
 
 ---
 
@@ -118,39 +118,7 @@ First time posting here! Ive been messing around with my dad’s scraps for a wh
 
 Morgan Stanley analysts highlight stocks of companies that sell specialized robotics parts.
 
-CNBC • 1h ago
-
----
-
-**[‘Optimus chain’: Chinese suppliers form backbone of Tesla’s humanoid robot plans](https://www.scmp.com/tech/tech-trends/article/3341953/optimus-chain-chinese-suppliers-form-backbone-teslas-humanoid-robot-initiative)**
-
-Tesla’s pivot to producing humanoid robots is expected to engage a network of key Chinese component makers.
-
-South China Morning Post • 9h ago
-
----
-
-**[Report: humanoid robots set to drive demand for solid-state batteries](https://electrek.co/2026/01/30/report-humanoid-robots-set-to-drive-demand-for-solid-state-batteries/)**
-
-Humanoid robots are set to soak up a whopping 75 GWh of solid-state battery capacity between now and 2035 – nearly 1500x growth!
-
-Electrek • 1d ago
-
----
-
-**[Tesla kills Models S and X to build humanoid robots instead](https://arstechnica.com/cars/2026/01/tesla-kills-models-s-and-x-to-build-humanoid-robots-instead/)**
-
-EVs that were once industry-leading have long since been left behind.
-
-Ars Technica • 3d ago
-
----
-
-**[Elon Musk's plan to redesign the world's factories... and perhaps the planet too: humanoid robots that work 12 hours a day, never rest, and use artificial intelligence](https://www.ecoticias.com/en/elon-musks-plan-to-redesign-the-worlds-factories-and-perhaps-the-planet-too-humanoid-robots-that-work-12-hours-a-day-never-rest-and-use-artificial-intelligence/26445/)**
-
-Tesla has quietly crossed a line that could reshape factory work worldwide. On January 21, 2026 the company began mass production of its Optimus Gen 3
-
-ECOticias.com • 3h ago
+CNBC • 2h ago
 
 ---
 
@@ -158,7 +126,13 @@ ECOticias.com • 3h ago
 
 Changing robot standards provide an opportunity for designers of cobots to deliver improved safety and greater functionality, says IDEC.
 
-The Robot Report • 1h ago
+The Robot Report • 2h ago
+
+---
+
+**[Serve Robotics vs. Teradyne: Which Robotics Stock Is the Better Buy?](https://www.zacks.com/stock/news/2825962/serve-robotics-vs-teradyne-which-robotics-stock-is-the-better-buy)**
+
+Zacks Investment Research • 2d ago
 
 ---
 
@@ -170,6 +144,12 @@ Honolulu Star-Advertiser • 5h ago
 
 ---
 
+**[Lightspeed Backs Robotics Startup in $100 Million Round](https://www.bloomberg.com/news/articles/2026-01-29/fiat-toyota-tycoons-back-startup-robco-in-100-million-round)**
+
+Bloomberg • 2d ago
+
+---
+
 **[Lake Stevens robotics team receives world recognition](https://www.heraldnet.com/news/lake-stevens-robotics-team-receives-world-recognition/)**
 
 Team Arsenic took second place at the recent ROBO-BASH in Bellingham, earning fifth place in the world.
@@ -178,17 +158,31 @@ Everett Herald • 2d ago
 
 ---
 
-**[Lightspeed Backs Robotics Startup in $100 Million Round](https://www.bloomberg.com/news/articles/2026-01-29/fiat-toyota-tycoons-back-startup-robco-in-100-million-round)**
+**[Into the Omniverse: Physical AI Open Models and Frameworks Advance Robots and Autonomous Systems](https://blogs.nvidia.com/blog/physical-ai-open-models-robot-autonomous-systems-omniverse/)**
 
-Bloomberg.com • 2d ago
+By providing access to critical infrastructure — from simulation frameworks to AI models — NVIDIA is enabling collaborative development that accelerates the path to safer, more capable autonomous systems.
+
+NVIDIA Blog • 2d ago
 
 ---
 
-**[Tesla axes EV models in drive for robotics revenue](https://news.sky.com/story/tesla-axes-ev-models-in-drive-for-robotics-revenue-13500444)**
+**[AI Robotics Investment Opportunities Extend Beyond Big Tech](https://www.etftrends.com/disruptive-technology-content-hub/ai-robotics-investment-opportunities-extend-beyond-big-tech/)**
 
-Investors liked what they heard about the future following the company's latest results, but Elon Musk is under huge pressure to deliver on his vision as a series of targets have been missed.
+ETF Trends • 1d ago
 
-Sky News • 3d ago
+---
+
+**[Tesla to build 1 million Optimus robots per year at Fremont factory, Musk says](https://www.kron4.com/news/technology-ai/tesla-to-build-1-million-optimus-robots-per-year-at-fremont-factory-musk-says/)**
+
+KRON4 • 2d ago
+
+---
+
+**[‘Optimus chain’: Chinese suppliers form backbone of Tesla’s humanoid robot plans](https://www.scmp.com/tech/tech-trends/article/3341953/optimus-chain-chinese-suppliers-form-backbone-teslas-humanoid-robot-initiative)**
+
+Tesla’s pivot to producing humanoid robots is expected to engage a network of key Chinese component makers.
+
+South China Morning Post • 9h ago
 
 ---
 
