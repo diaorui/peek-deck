@@ -3,14 +3,14 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-02-01T21:46:39.379677+00:00'
+updated: '2026-02-01T22:26:44.642994+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- videos
 - social
 - cryptocurrency
+- videos
 - news
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** February 01, 2026 at 21:46 UTC  
+**Last Updated:** February 01, 2026 at 22:26 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -36,17 +36,17 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Price
 
-### $2,338.74
+### $2,296.32
 
 ---
 
 ## Ethereum Chart
 
-**24h:** -4.1%  
-**7d:** -20.8%  
-**30d:** -25.9%  
-**90d:** -29.8%  
-**1y:** -19.0%  
+**24h:** -6.4%  
+**7d:** -21.6%  
+**30d:** -26.6%  
+**90d:** -30.4%  
+**1y:** -19.8%  
 
 ---
 
@@ -72,7 +72,7 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-15h ago
+16h ago
 
 ---
 
@@ -142,7 +142,7 @@ Hello Folks, I just published a smart contract to handle crypto inheritance 100%
 
 The Doots live stream is all about showcasing the best of the week from the Daily General Discussion from the r/ethereum Community on Reddit! Today we talked to Mac Budkowski from macbudkowski.com. He's made the "No BS Crypto GTM guide." Dig into what he has learned about timing, messaging, and why best isn't always good. Host: JT Technical Host: LogrisTheBard https://dailydoots.com by Hanniabu Daily Doots Curator: Tricky_Troll Weekly Doots Curator: The-A-Word Farcaster and Backend Host Support: Ben Broad Media Content Support: Twelve Meatballs Discord Bouncer and Watchdog: Treebeard As always, if you know someone who wants a piece of this action, send em our way. Buy us a ☕ dailydoots.eth All of our channels can be found here: https://dailydoots.com/podcast/ 🕸️https://dailydoots.com 📢https://discord.gg/EVMavericks 📰https://reddit.com/r/ethereum 🔊MINTABLE Podcast 👉: https://pods.media/evmavericks 🍎Apple https://podcasts.apple.com/us/podcast/ethfinance-evmavericks-daily-doots-livestream/id1750089604 🔊Spotify https://open.spotify.com/show/7AotdyMtcvHZLv3pVqkxre 🦁https://x.com/EVMavericks ⏱️TikTok: https://www.tiktok.com/@evmavericks 📺https://www.youtube.com/channel/UC51nlNbIkBm5Qhm7EwQuWLw Twitch: https://www.twitch.tv/evmavericks LinkedIN: https://www.linkedin.com/company/evmavericks-daily-doots-podcast
 
-🔗 [youtu.be](https://youtu.be/lDG5GrjKgew) • 1d ago
+🔗 [youtu.be](https://youtu.be/lDG5GrjKgew) • 2d ago
 
 ---
 
@@ -154,7 +154,29 @@ The Doots live stream is all about showcasing the best of the week from the Dail
 
 The Ethereum founder claims his strategy of betting against extreme market sentiment ‘usually makes money’ on Polymarket.
 
-Decrypt • 3h ago
+Decrypt • 4h ago
+
+---
+
+**[Vitalik Buterin to spend $43 million on Ethereum development](https://www.coindesk.com/business/2026/01/30/vitalik-buterin-withdraws-usd17-million-in-eth-as-ethereum-foundation-enters-mild-austerity)**
+
+Ethereum’s co-founder said the $43 million withdrawal will support a broader “full-stack openness and verifiability” vision as the foundation tightens spending.
+
+CoinDesk • 2d ago
+
+---
+
+**[Vitalik Buterin Commits $45 Million In ETH To Support Ethereum’s Development And User Security](https://www.tradingview.com/news/zycrypto:194cacc68094b:0-vitalik-buterin-commits-45-million-in-eth-to-support-ethereum-s-development-and-user-security/)**
+
+Ethereum co-founder Vitalik Buterin has withdrawn 16,384 ETH, worth roughly $45 million at current market prices.
+
+TradingView • 1d ago
+
+---
+
+**[Bitcoin, XRP, Ethereum Fall on News of Kevin Warsh Fed Appointment.](https://www.barrons.com/articles/bitcoin-xrp-ethereum-crypto-today-954298d9?gaa_at=eafs&gaa_n=AWEtsqfiMv2nYAmQRxIyo2Md8c1FIxBDHZEKOuIFHrvMVibPvBgecQFfcMq6&gaa_ts=697fd68d&gaa_sig=-T9lLPkgcmLu8qhg33I87peN5HJNdkunLO-PEKhhhUB4ULukKMecZhFGoWyFIGcXv_KO5-pvDdw1nrZAViFsGw%3D%3D)**
+
+Barron's • 2d ago
 
 ---
 
@@ -166,17 +188,11 @@ Yahoo Finance • 1d ago
 
 ---
 
-**[Bitcoin, XRP, Ethereum Fall on News of Kevin Warsh Fed Appointment.](https://www.barrons.com/articles/bitcoin-xrp-ethereum-crypto-today-954298d9?gaa_at=eafs&gaa_n=AWEtsqcs-xAYZ36UawEQFtsAZ8vurL73ZtWnXTZhKneUwazhGmwEWsoY_LlR&gaa_ts=697fc0ae&gaa_sig=HGnNQ4QaSmIt15q5ynxQgmR2QeE_gLJkrZ78mlA-YfOR95wpz-7qqIvcTL_3KzvGd5cjO2poX2SsZIukJLPaYQ%3D%3D)**
+**[Why are Bitcoin, Ethereum and XRP Prices Crashing Today?](https://www.tradingview.com/news/coinpedia:b99ef7f8a094b:0-why-are-bitcoin-ethereum-and-xrp-prices-crashing-today/)**
 
-Barron's • 2d ago
+The crypto market is facing a major sell-off today, with total market value dropping to $2.66 trillion, down more than 6% in the last 24 hours. Bitcoin, Ethereum, XRP and other major cryptocurrencies have all fallen sharply, wiping out nearly $500 billion from the market in just a few days.The bigg…
 
----
-
-**[Bitcoin Price Crashes Below $80K as Ethereum Loses $2.5K Support — 5 Reasons the Selloff Isn’t Over](https://www.ccn.com/education/crypto/bitcoin-80k-crash-eth-2-5k-break-bitmine-6b-losses-bloodbath-warning/)**
-
-Bitcoin and Ethereum break key support as ETFs bleed, liquidations surge, and BitMine posts $6B+ losses. Is the selloff just beginning?
-
-CCN.com • 23h ago
+TradingView • 16h ago
 
 ---
 
@@ -184,13 +200,23 @@ CCN.com • 23h ago
 
 Earlier in January, the Ethereum Foundation formally elevated post-quantum security to a strategic priority, creating a dedicated Post-Quantum team.
 
-CoinDesk • 6h ago
+CoinDesk • 7h ago
 
 ---
 
-**[Key facts: Ethereum Drops 12.7% Amid Large Sales; Institutional Interest Grows](https://www.tradingview.com/news/tradingview:28b30d6b1c11d:0-key-facts-ethereum-drops-12-7-amid-large-sales-institutional-interest-grows/)**
+**[Nearly $3 Billion Ethereum Selling Could Drive a 16% Crash](https://finance.yahoo.com/news/nearly-3-billion-ethereum-selling-191410702.html)**
 
-TradingView • 21h ago
+Ethereum faces heavy selling pressure as $2.8 billion whale distribution raises risks of a 16% price correction.
+
+Yahoo Finance • 1d ago
+
+---
+
+**[Ethereum Price Slips Below $2,500 — Here Are The Next Support Levels](https://www.tradingview.com/news/newsbtc:8023eb943094b:0-ethereum-price-slips-below-2-500-here-are-the-next-support-levels/)**
+
+The Ethereum price has been under intense bearish pressure over the past few weeks, reflecting the overall fragile state of the cryptocurrency market. The altcoin lost nearly 20% of its value in the past week, free-falling under the psychological $3,000 level since Thursday, January 29th. With the…
+
+TradingView • 6h ago
 
 ---
 
@@ -199,30 +225,6 @@ TradingView • 21h ago
 Ethereum Falls 10% In Selloff
 
 Investing.com • 1d ago
-
----
-
-**[Better Crypto Buy: Bitcoin vs. Ethereum](https://www.fool.com/investing/2026/01/30/better-crypto-buy-bitcoin-vs-ethereum/)**
-
-For crypto investors, it's time to buy the dip on Bitcoin again.
-
-The Motley Fool • 2d ago
-
----
-
-**[Ethereum Supply Tightens With 45% of ETH Locked: Sygnum](https://thedefiant.io/news/research-and-opinion/ethereum-supply-tightens-with-45-of-eth-locked-sygnum)**
-
-ETF buying, staking and corporate holdings continue to reduce liquid ETH.
-
-thedefiant.io • 2d ago
-
----
-
-**[Ethereum Price Prediction: $2,400 Crash Opens $1,435 Risk](https://coinpaper.com/14198/ethereum-price-prediction-2-400-crash-opens-1-435-risk)**
-
-ETH plunges to $2,400 after heavy liquidations, with analysts warning a deeper move toward $1,435 is possible.
-
-Coinpaper • 1d ago
 
 ---
 
@@ -246,7 +248,7 @@ FREE TRAINING: https://www.bullmania.com EXCHANGES I USE (bybit, pionex): https:
 
 📺 Ivan on Tech
 
-👁️ 10K • 👍 1K • 💬 67 • ⏱️ 45:22 • 2h ago
+👁️ 10K • 👍 1K • 💬 67 • ⏱️ 45:22 • 3h ago
 
 ---
 
@@ -266,7 +268,7 @@ Want a free $30000 bonus + $20 just for signing up? Go here: ...
 
 📺 BitcoinHyper
 
-👁️ 3K • 👍 348 • 4h ago
+👁️ 3K • 👍 348 • 5h ago
 
 ---
 
@@ -276,7 +278,7 @@ ETHEREUM ETH PRICE PREDICTION 2026 Join the Premium Signal Group for trade setup
 
 📺 Cilinix Crypto
 
-👁️ 1K • 👍 32 • 💬 3 • ⏱️ 5:13 • 9h ago
+👁️ 1K • 👍 32 • 💬 3 • ⏱️ 5:13 • 10h ago
 
 ---
 
@@ -286,7 +288,7 @@ After getting chopped up in ETH shorts over the past few months, I found a momen
 
 📺 Taiki Maeda
 
-👁️ 1K • 👍 114 • 💬 51 • ⏱️ 48:54 • 2h ago
+👁️ 1K • 👍 114 • 💬 51 • ⏱️ 48:54 • 3h ago
 
 ---
 

@@ -3,14 +3,14 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-02-01T21:46:39.373730+00:00'
+updated: '2026-02-01T22:26:44.636899+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- videos
 - social
 - cryptocurrency
+- videos
 - news
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** February 01, 2026 at 21:46 UTC  
+**Last Updated:** February 01, 2026 at 22:26 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,17 +38,17 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $77,213.24
+### $76,804.72
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** -1.2%  
-**7d:** -12.4%  
-**30d:** -14.7%  
-**90d:** -24.0%  
-**1y:** -20.8%  
+**24h:** -2.5%  
+**7d:** -13.1%  
+**30d:** -15.3%  
+**90d:** -24.5%  
+**1y:** -21.4%  
 
 ---
 
@@ -81,7 +81,13 @@ Rank #1
 
 https://preview.redd.it/vxv06n0opwgg1.png?width=609&format=png&auto=webp&s=72be41e44d7845ef9be6dcb6c03279feda689a0b Bought several dips including this one. Got to a full BTC finally. Doesn't feel as special as I thought I would when I started the journey in 2024. Still, I think it is a special moment for those who believe in BTC. Onwards to 2 BTC...
 
-5h ago
+6h ago
+
+---
+
+**[Explaining Bitcoin like I am 5 years old.... Get to 1 BTC.](https://www.reddit.com/r/Bitcoin/comments/1qtahxx/explaining_bitcoin_like_i_am_5_years_old_get_to_1/)**
+
+1h ago
 
 ---
 
@@ -89,11 +95,27 @@ https://preview.redd.it/vxv06n0opwgg1.png?width=609&format=png&auto=webp&s=72be4
 
 Told myself I'd buy if it dropped below 80k. So putting my money where my mouth and mind is. According to Murphys law we're now going to freefall.
 
-4h ago
+5h ago
 
 ---
 
 **[Wipe away those tears and just enjoy the ride](https://www.reddit.com/r/Bitcoin/comments/1qt42s7/wipe_away_those_tears_and_just_enjoy_the_ride/)**
+
+5h ago
+
+---
+
+**[Started my buying journey](https://www.reddit.com/r/Bitcoin/comments/1qtbapw/started_my_buying_journey/)**
+
+Recently turned 18, and have started DCAing. Coincedentally its a great price to buy at, hopefully it keeps going lower😹
+
+1h ago
+
+---
+
+**[Bitcoin Miner](https://www.reddit.com/r/Bitcoin/comments/1qt51op/bitcoin_miner/)**
+
+Got my mining rig working overtime today!
 
 4h ago
 
@@ -103,21 +125,13 @@ Told myself I'd buy if it dropped below 80k. So putting my money where my mouth 
 
 Best Case Scenario - BTC will test 92K, if it breaks it will set a new ATH. Worst Case Scenario - If it loses 50K support, cheap BTC incoming. Regardless, in my experience (since 2015), unless you are an extremely smart person with excellent TA skills supported by a crystal ball, u cannot time the market. DCA, ignore your short term losses. Overall, you will make it. In 2017, I lost a significant amount of money. In 2021, I made a decent profit. I didn’t exit, continue to DCA. Thats my forever strategy that always pays on the long run. Ignore hopium and negative comments. Focus on your bag. Don’t FOMO, don’t panic sell. Aim for profits. Edit: This post is not intended to give anyone any advice. Also, this is not a price prediction. We are all responsible adults who can think and make decisions. This post is intended to provide reassurances to those that might feel worried. I am in no position to provide financial help and guidance. However, I can humbly share my own experiences to comfort new traders.
 
-11h ago
+12h ago
 
 ---
 
 **[Evergreen just like BTC!](https://www.reddit.com/r/Bitcoin/comments/1qs6sj1/evergreen_just_like_btc/)**
 
 1d ago
-
----
-
-**[Bitcoin Miner](https://www.reddit.com/r/Bitcoin/comments/1qt51op/bitcoin_miner/)**
-
-Got my mining rig working overtime today!
-
-4h ago
 
 ---
 
@@ -135,59 +149,41 @@ I'm not wasting these cheap stacks. HODL and BUY!
 
 ---
 
-**[If cycle is a thing why holding](https://www.reddit.com/r/Bitcoin/comments/1qssfb7/if_cycle_is_a_thing_why_holding/)**
-
-Just started investing in BTC yesterday evening. Purchased my initial batch at 65.000 EUR (77.000 USD). Plan on DCAing daily plus additional buys as it drops sharply. One thing I can’t seem to understand is, folks heavily believe in this 4y cycle thing with BTC guessing the bottom in the mid 50ks USD by end of 2026. Yet most people seem to be holding instead of selling and rebuying way cheaper. Can you explain to me pls? If this 4y cylcle was a „law“ why would ppl hold anyways? Thanks
-
-13h ago
-
----
-
-**[Big milestone!](https://www.reddit.com/r/Bitcoin/comments/1qsh4nh/big_milestone/)**
-
-Took advantage of the plummet to get myself over the 0.5 mark!! I know this is small for some and big for others, but I’m quite happy with this! Just wanted to share with others who’d understand - nobody in my life cares lol.
-
-22h ago
-
----
-
 ---
 
 ## Google News: "bitcoin"
 
 **[Bitcoin’s Break Below $80,000 Signals New Crisis of Confidence](https://www.bloomberg.com/news/articles/2026-02-01/bitcoin-s-break-below-80-000-signals-new-crisis-of-confidence)**
 
-Bloomberg.com • 15h ago
+Bloomberg.com • 5h ago
 
 ---
 
-**[Bitcoin Price Falling To $30,000? Influencer Predicts Collapse In Wake of Global Market Crash](https://finance.yahoo.com/news/bitcoin-price-falling-30-000-130215603.html)**
+**[Bitcoin's 'hopium' for bulls may be over and this weekend's slide could be just the beginning](https://www.coindesk.com/markets/2026/02/01/bitcoin-s-hopium-for-bulls-may-be-over-and-this-weekend-s-slide-could-be-just-the-beginning)**
 
-A famed crypto influencer has predicted Bitcoin's price could fall to $30,000. The comments come after a global market crash. Technical signals have reinforced the ...
+Bitcoin’s sharp weekend drop triggered fresh liquidations, with analyst Eric Crown warning the market may face months of further downside.
 
-Yahoo Finance • 1d ago
+CoinDesk • 3h ago
 
 ---
 
 **[Bitcoin Drops Below $78,000 After Trump Taps Kevin Warsh To Lead Federal Reserve](https://www.forbes.com/sites/mikestunson/2026/01/31/bitcoin-is-dropping-fast-heres-why-it-dropped-below-78000/)**
 
-Forbes • 23h ago
+Forbes • 1d ago
 
 ---
 
-**[Kevin Warsh: Markets React as Pro-Bitcoin Economist Tipped for Fed](https://finance.yahoo.com/news/kevin-warsh-markets-react-pro-122358756.html)**
+**[Bitcoin Stuck in a Rut After Warsh Pick as ETFs Shed Billions](https://finance.yahoo.com/news/bitcoin-stuck-rut-warsh-pick-213531831.html)**
 
-Only yesterday, we explained how Donald Trump runs his White House like a reality TV competition. Nominees for high office are turned into contestants vying for his approval, and the frontrunner could switch at any minute.Lo and behold, that’s exactly what’s happened in the race to become the next chairman ...
+Warsh, a former central bank governor with deep establishment ties, has recently aligned with Trump’s push for lower rates.  Instead, a risk-off tone lingered over markets as the Warsh news circulated: stock fell and the dollar traded just off four-year lows.  With Bitcoin now down more than 30% from its October peak — and US spot ETFs posting their longest streak of monthly outflows since launching — traders appear unconvinced that either macro or policy signals offer much near-term relief.
 
 Yahoo Finance • 2d ago
 
 ---
 
-**[Trump Announces Kevin Warsh As Fed Chair Nominee—Why Did Bitcoin Dump To $83,000?](https://finance.yahoo.com/news/trump-announces-kevin-warsh-fed-153214039.html)**
+**[Bitcoin, XRP, Ethereum Fall on News of Kevin Warsh Fed Appointment.](https://www.barrons.com/articles/bitcoin-xrp-ethereum-crypto-today-954298d9?gaa_at=eafs&gaa_n=AWEtsqfC5cj-3eKeAERtVrnus4E1mPbesFjZLw2wTSjz7--xsOgfdl1xvJpH&gaa_ts=697fd68b&gaa_sig=BCU5iHL89YnKHTlEVQE8vRMhk-nQklAtpWPPiC7gDX0XMUSxxXxzox6EST6mNBgI16qUJlTY1exCF68xW4IGCA%3D%3D)**
 
-President Trump on Friday announced Kevin Warsh as his nominee to succeed Jerome Powell as Chair of the Federal Reserve, yet Bitcoin (CRYPTO: BTC) plunged below $83,000 on the news. Warsh Nomination Shifts Macro Interpretation Technical analyst Kyledoops said a Warsh-led Fed would fundamentally change how markets interpret policy signals, given his reputation as an inflation hawk and strong-dollar advocate. "If Warsh even hints at easing, it would be taken as genuinely meaningful," Kyledoops not
-
-Yahoo Finance • 1d ago
+Barron's • 2d ago
 
 ---
 
@@ -199,35 +195,35 @@ The Block • 2d ago
 
 ---
 
-**[Bitcoin’s freefall approaches $80,000 as precious metals also tank](https://fortune.com/2026/01/30/bitcoin-price-today-ethereum-gold-silver-platinum-copper/)**
+**[Bitcoin wipeout erases entire Trump-era gains](https://www.telegraph.co.uk/business/2026/02/01/bitcoin-wipeout-erases-entire-trump-era-gains/)**
 
-The world’s largest cryptocurrency is down 2% over the past day while gold and silver have dropped 11% and 30%, respectively.
+Cryptocurrency tumbles as US president fuels geopolitical uncertainty
+
+The Telegraph • 4h ago
+
+---
+
+**[The crypto industry used to store Bitcoin in Swiss vaults. Now one firm is using vaults to hold gold instead](https://fortune.com/2026/01/30/the-crypto-industry-used-to-store-bitcoin-in-swiss-vaults-now-one-firm-is-using-vaults-to-hold-gold-instead/)**
+
+The CEO of Tether called the bunker ‘a James Bond kind of place.’
 
 Fortune • 2d ago
 
 ---
 
-**[How does a weaker dollar impact gold and Bitcoin?](https://www.investing.com/news/commodities-news/how-does-a-weaker-dollar-impact-gold-and-bitcoin-4471026)**
+**[The Bitcoin Sell-Off Is Getting Worse, but That Won't Stop Me From Buying Even More](https://www.fool.com/investing/2026/01/30/the-bitcoin-sell-off-is-getting-worse-but-it-wont/)**
 
-How does a weaker dollar impact gold and Bitcoin?
+It's reasonable to say that this coin isn't behaving like a safe harbor asset right now.
 
-Investing.com • 12h ago
-
----
-
-**[What price will Bitcoin hit in January? Betting Odds & Predictions](https://polymarket.com/event/what-price-will-bitcoin-hit-in-january-2026)**
-
-View real-time odds on "What price will Bitcoin hit in January?" as of January 30, 2026, and trade on The World's Largest Prediction Market™
-
-Polymarket • 1mo ago
+The Motley Fool • 2d ago
 
 ---
 
-**[Fear that quantum computing is on the cusp of cracking cryptocurrency's encryption spurs a global investment firm to remove Bitcoin from recommendations](https://www.tomshardware.com/tech-industry/cryptocurrency/fear-that-quantum-computing-on-the-cusp-of-cracking-cryptocurrencys-encryption-spurs-a-global-investment-firm-to-remove-bitcoin-from-recommendations)**
+**[If you bought just $1 of Bitcoin when it launched 17 years ago, how rich would you be today?](https://timesofindia.indiatimes.com/business/if-you-bought-just-1-of-bitcoin-when-it-launched-17-years-ago-how-rich-would-you-be-today/articleshow/127841336.cms)**
 
-The firm's senior financial strategist is concerned the advancements in the field of quantum computing will break Bitcoin.
+Business News: Discover how early Bitcoin investments could have transformed your financial future. Learn about the extraordinary value of Bitcoin from its inception to today, including tales of lost fortunes and missed opportunities.
 
-Tom's Hardware • 14d ago
+Times of India • 8h ago
 
 ---
 
@@ -237,7 +233,7 @@ Tom's Hardware • 14d ago
 
 **[Bitcoin Looks Set for Longest Monthly Losing Streak Since 2018](https://news.ycombinator.com/item?id=46838644)**
 
-⬆️ 68 • 💬 76 • 1d ago • [bloomberg.com](https://www.bloomberg.com/news/articles/2026-01-30/bitcoin-btc-slides-toward-longest-monthly-losing-streak-since-2018)
+⬆️ 69 • 💬 77 • 1d ago • [bloomberg.com](https://www.bloomberg.com/news/articles/2026-01-30/bitcoin-btc-slides-toward-longest-monthly-losing-streak-since-2018)
 
 ---
 
@@ -319,7 +315,7 @@ LIMITED TIME: ✓ Bitunix (no kyc, $10k bonus): https://www.bitunix.com/register
 
 📺 Altcoin Daily
 
-👁️ 91K • 👍 4K • 💬 444 • ⏱️ 9:24 • 21h ago
+👁️ 91K • 👍 4K • 💬 444 • ⏱️ 9:24 • 22h ago
 
 ---
 
@@ -339,7 +335,7 @@ This isn't looking good iTrust Capital – $100 Bonus (Crypto IRA & Custody Acco
 
 📺 Aaron Bennett
 
-👁️ 30K • 👍 1K • 💬 381 • ⏱️ 10:16 • 17h ago
+👁️ 30K • 👍 1K • 💬 381 • ⏱️ 10:16 • 18h ago
 
 ---
 
@@ -359,7 +355,7 @@ Bitcoin #Crypto #Finance Bitcoin didn't just survive the last cycle — it was r
 
 📺 The Wolf Of All Streets
 
-👁️ 12K • 👍 606 • 💬 254 • ⏱️ 53:57 • 7h ago
+👁️ 12K • 👍 606 • 💬 254 • ⏱️ 53:57 • 8h ago
 
 ---
 
@@ -369,7 +365,7 @@ Let's provide a Bitcoin damage report. Into The Cryptoverse Premium: https://int
 
 📺 Benjamin Cowen
 
-👁️ 110K • 👍 7K • 💬 404 • ⏱️ 31:15 • 16h ago
+👁️ 110K • 👍 7K • 💬 404 • ⏱️ 31:15 • 17h ago
 
 ---
 
@@ -389,7 +385,7 @@ FREE TRAINING: https://event.webinarjam.com/z2qpv/register/1y7k2aw4 FREE PERSONA
 
 📺 Rajat Soni, CFA
 
-👁️ 5K • 👍 329 • 💬 157 • ⏱️ 5:20 • 7h ago
+👁️ 5K • 👍 329 • 💬 157 • ⏱️ 5:20 • 8h ago
 
 ---
 
@@ -399,7 +395,7 @@ MEXC: Trade with Ultra-low trading fees Sign up: https://www.mexc.com/register?i
 
 📺 Road To $1 Million USD
 
-👁️ 5K • 👍 233 • 💬 88 • ⏱️ 6:11 • 22h ago
+👁️ 5K • 👍 233 • 💬 88 • ⏱️ 6:11 • 23h ago
 
 ---
 
@@ -409,7 +405,7 @@ Introduction & Important Context 0:00-1:21 Bitunix Exchange 1:21-2:02 Analysis 2
 
 📺 Wolves of Crypto
 
-👁️ 8K • 👍 429 • 💬 195 • ⏱️ 11:06 • 15h ago
+👁️ 8K • 👍 429 • 💬 195 • ⏱️ 11:06 • 16h ago
 
 ---
 

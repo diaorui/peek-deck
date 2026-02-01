@@ -3,14 +3,14 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-02-01T21:46:39.365392+00:00'
+updated: '2026-02-01T22:26:44.628429+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- videos
-- repositories
 - social
+- repositories
+- videos
 - news
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 AI news, discussions, and developments
 
-**Last Updated:** February 01, 2026 at 21:46 UTC  
+**Last Updated:** February 01, 2026 at 22:26 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -45,11 +45,19 @@ The comment follows reports that the rocket maker is weighing a transaction that
 
 ---
 
+**[Anthropic’s ‘secret plan’ to ‘destructively scan all the books in the world' revealed by unredacted files](https://www.reddit.com/r/artificial/comments/1qtcavm/anthropics_secret_plan_to_destructively_scan_all/)**
+
+A number of newly unredacted (and partially redacted) documents from the Anthropic case have shed light on how executives at the tech giant ramped up plans in early 2024 to scan “all the books in the world” to teach their AI tool “how to write well”.
+
+🔗 [The Bookseller](https://www.thebookseller.com/news/unredacted-files-reveal-anthropics-secret-plan-to-destructively-scan-all-the-books-in-the-world) • 22m ago
+
+---
+
 **[What is Moltbook actually](https://www.reddit.com/r/artificial/comments/1qsoftx/what_is_moltbook_actually/)**
 
 What moltbook is So essentially There is this open source AI bot called openclaw that once you download, it has source md files for their “soul” and “identity” and “memory” So in a way, it can save things to these files to create a personality. Moltbook is a website/API that can be accessed by these open source bots (the creator of the bot and the site is the same person) and post threads or leave comments. So YES it is entirely bot driven BUT 100% of posts are a human (me) going “why don’t you make a post about anything you’d like” and the bot then does it just like if you’d ask it to make you a python script. Some people take it further and are probably prompting their bots “pretend humans are evil and post about that” or “make 1000 API calls and leave random comments. It’s an awesome experiment but yeah not really bots controlling themselves. At best the bot makes a post based on an open ended prompt, at worst it’s a human saying “make a manifesto that says humans need to go extinct and to recruit other bots”
 
-17h ago
+18h ago
 
 ---
 
@@ -57,7 +65,7 @@ What moltbook is So essentially There is this open source AI bot called openclaw
 
 The b4 tool used by Linux kernel developers to help manage their patch workflow around contributions to the Linux kernel has been seeing work on a text user interface to help with AI agent assisted code reviews
 
-🔗 [phoronix.com](https://www.phoronix.com/news/Linux-b4-Tool-Dog-Feeding-AI) • 3h ago
+🔗 [phoronix.com](https://www.phoronix.com/news/Linux-b4-Tool-Dog-Feeding-AI) • 4h ago
 
 ---
 
@@ -65,7 +73,7 @@ The b4 tool used by Linux kernel developers to help manage their patch workflow 
 
 I subscribe to a few AI podcasts, but I wanted to know of any others that you can recommend. Not looking for anything too deep, in fact, prefer the ones that are lighter and an easy listen or watch. let me know your faves.
 
-4h ago
+5h ago
 
 ---
 
@@ -85,17 +93,11 @@ So I was using LLM for studying advance language/framework/design topics. Whenev
 
 ---
 
-**[Is artificial intelligence really all that scary?](https://www.reddit.com/r/artificial/comments/1qsz16q/is_artificial_intelligence_really_all_that_scary/)**
-
-7h ago
-
----
-
 **[Clawdbot use case - Review my ads](https://www.reddit.com/r/artificial/comments/1qt21oe/clawdbot_use_case_review_my_ads/)**
 
 I’m looking to dive into clawdbot. What do you guys think of this use case and if it’s even possible at this infant stage? Clawdbot to review my Google AdWords and Meta ads on a 24 hour , 7 day , 14 day basis. Point out optimization suggestions such based of changes in ROAS, CTR %, Conversions, Cost per acquisition metrics etc. Create a daily report on the tweaks that is needed to make today and on a weekly basis. Tweaks would involve things like inclusion or exclusion of keywords, improvement of ad copy, addition of new creatives (images/videos/html5) **I work in the fin tech and e-commerce niche whereby compliance is utmost important to avoid lawsuits and entire accounts getting taken down. Hence the bot will only have a “view access” to the advertising accounts. Through the reports my team and I will be able to make the change. I see Clawdbot as an open sandbox.. with some bugs to be wary of. Your thoughts?
 
-5h ago
+6h ago
 
 ---
 
@@ -103,7 +105,7 @@ I’m looking to dive into clawdbot. What do you guys think of this use case and
 
 AI coding tools are getting more sophisticated. But if coders stop coding, what happens to software development jobs?
 
-🔗 [Fortune](https://fortune.com/2026/01/29/100-percent-of-code-at-anthropic-and-openai-is-now-ai-written-boris-cherny-roon/) • 1d ago
+🔗 [Fortune](https://fortune.com/2026/01/29/100-percent-of-code-at-anthropic-and-openai-is-now-ai-written-boris-cherny-roon/) • 2d ago
 
 ---
 
@@ -123,47 +125,35 @@ AI coding tools are getting more sophisticated. But if coders stop coding, what 
 
 Social media users are trying to use AI to get clearer images and videos of the Minneapolis shootings but are instead misleading millions.
 
-NBC News • 11h ago
+NBC News • 12h ago
 
 ---
 
-**["We're in the singularity": New AI platform skips the humans entirely](https://www.axios.com/2026/01/31/ai-moltbook-human-need-tech)**
+**[Moltbook AI Social Network: 1.4 Million Agents Build A Digital Society](https://www.forbes.com/sites/guneyyildiz/2026/01/31/inside-moltbook-the-social-network-where-14-million-ai-agents-talk-and-humans-just-watch/)**
 
-It's not science fiction. It's happening right now — and it's freaking out some of the smartest names in artificial intelligence.
-
-Axios • 1d ago
+Forbes • 1d ago
 
 ---
 
-**[Apple Leadership Is Quietly Getting AI-Pilled, Report Claims](https://gizmodo.com/apple-leadership-is-quietly-getting-ai-pilled-report-claims-2000716353)**
+**[AI layoffs or ‘AI-washing’?](https://techcrunch.com/2026/02/01/ai-layoffs-or-ai-washing/)**
 
-Is Apple getting ready for its big AI push?
+How many of the companies with recent layoffs are just using AI as an excuse?
 
-Gizmodo • 2h ago
-
----
-
-**[Shakespeare AI: Alex Gleason’s Open-Source Alternative for AI Web Building](https://www.usatoday.com/story/special/contributor-content/2026/02/01/shakespeare-ai-alex-gleasons-open-source-alternative-for-ai-web-building/88464569007/)**
-
-Gleason’s career has been steadily built around building tools for independence and inclusivity online.
-
-USA Today • 2h ago
+TechCrunch • 10m ago
 
 ---
 
-**[Gaza’s daily nightmare vs US talk of AI-driven smart cities](https://www.aljazeera.com/video/the-bottom-line/2026/2/1/gazas-daily-nightmare-vs-us-talk-of-ai-driven-smart-cities)**
+**[Billionaires Are Piling Into This Artificial Intelligence (AI) Stock. Here's Why.](https://finance.yahoo.com/news/billionaires-piling-artificial-intelligence-ai-210000689.html)**
 
-Why are Gazans living in misery, with daily Israeli bombings, as the US promises ‘peace, stability and opportunity’?
+Billionaires regularly pile more of their money into the biggest winners.
 
-Al Jazeera • 2h ago
+Yahoo Finance • 1h ago
 
 ---
 
-**[Google helped Israeli military contractor with AI, whistleblower alleges](https://www.washingtonpost.com/technology/2026/02/01/google-ai-israel-military/)**
+**[Trust, But Verify: AI Deployed Correctly Has To Meet A High Bar](https://www.forbes.com/sites/johnwerner/2026/02/01/trust-but-verify-ai-deployed-correctly-has-to-meet-a-high-bar/)**
 
-A whistleblower complaint filed with the SEC claims that Google breached its own ethics rules to help an Israeli contractor apply AI to drone surveillance video.
-
-The Washington Post • 3h ago
+Forbes • 1h ago
 
 ---
 
@@ -171,19 +161,21 @@ The Washington Post • 3h ago
 
 Conferences restrict use of LLMs after surge of low-quality AI-generated papers and reviews
 
-Financial Times • 16h ago
+Financial Times • 17h ago
+
+---
+
+**[Google helped Israeli military contractor with AI, whistleblower alleges](https://www.washingtonpost.com/technology/2026/02/01/google-ai-israel-military/)**
+
+A whistleblower complaint filed with the SEC claims that Google breached its own ethics rules to help an Israeli contractor apply AI to drone surveillance video.
+
+The Washington Post • 4h ago
 
 ---
 
 **[Opinion | Students Are Skipping the Hardest Part of Growing Up](https://www.nytimes.com/2026/01/30/opinion/ai-social-skills-relationships.html)**
 
 The New York Times • 2d ago
-
----
-
-**[Vibe Coding Startup Cognition Mints A New AI Billionaire](https://www.forbes.com/sites/richardnieva/2026/01/31/vibe-coding-startup-cognition-mints-another-ai-billionaire/)**
-
-Forbes • 1d ago
 
 ---
 
@@ -195,6 +187,14 @@ The Atlantic • 9h ago
 
 ---
 
+**[How AI assistance impacts the formation of coding skills](https://www.anthropic.com/research/AI-assistance-coding-skills)**
+
+Anthropic is an AI safety and research company that's working to build reliable, interpretable, and steerable AI systems.
+
+Anthropic • 3d ago
+
+---
+
 ---
 
 ## HackerNews: "ai"
@@ -203,7 +203,7 @@ The Atlantic • 9h ago
 
 Anthropic is an AI safety and research company that's working to build reliable, interpretable, and steerable AI systems.
 
-⬆️ 465 • 💬 339 • 2d ago • [anthropic.com](https://www.anthropic.com/research/AI-assistance-coding-skills)
+⬆️ 466 • 💬 341 • 2d ago • [anthropic.com](https://www.anthropic.com/research/AI-assistance-coding-skills)
 
 ---
 
@@ -219,7 +219,7 @@ AI assistance produces significant productivity gains across professional domain
 
 Like many organizations, Wiki Education has grappled with generative AI, its impacts, opportunities, and threats, for several years. As an organization that runs large-scale programs to bring new e…
 
-⬆️ 219 • 💬 107 • 1d ago • [Wiki Education](https://wikiedu.org/blog/2026/01/29/generative-ai-and-wikipedia-editing-what-we-learned-in-2025/)
+⬆️ 226 • 💬 109 • 1d ago • [Wiki Education](https://wikiedu.org/blog/2026/01/29/generative-ai-and-wikipedia-editing-what-we-learned-in-2025/)
 
 ---
 
@@ -227,7 +227,7 @@ Like many organizations, Wiki Education has grappled with generative AI, its imp
 
 New York mayor says terminating the ‘unusable’ bot will help close a budget gap
 
-⬆️ 177 • 💬 61 • 2d ago • [themarkup.org](https://themarkup.org/artificial-intelligence/2026/01/30/mamdani-to-kill-the-nyc-ai-chatbot-we-caught-telling-businesses-to-break-the-law)
+⬆️ 178 • 💬 61 • 2d ago • [themarkup.org](https://themarkup.org/artificial-intelligence/2026/01/30/mamdani-to-kill-the-nyc-ai-chatbot-we-caught-telling-businesses-to-break-the-law)
 
 ---
 
@@ -243,7 +243,7 @@ Contribute to amlalabs/amla-sandbox development by creating an account on GitHub
 
 Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.
 
-⬆️ 104 • 💬 34 • 1d ago • [youtube.com](https://www.youtube.com/watch?v=7fNYj0EXxMs)
+⬆️ 104 • 💬 34 • 2d ago • [youtube.com](https://www.youtube.com/watch?v=7fNYj0EXxMs)
 
 ---
 
@@ -251,7 +251,7 @@ Enjoy the videos and music you love, upload original content, and share it all w
 
 Download TalkBits – Speak Naturally by Omar Muhammad Omar on the App Store. See screenshots, ratings and reviews, user tips, and more games like TalkBits –…
 
-⬆️ 65 • 💬 55 • 1d ago • [App Store](https://apps.apple.com/us/app/talkbits-speak-naturally/id6756824177)
+⬆️ 65 • 💬 55 • 2d ago • [App Store](https://apps.apple.com/us/app/talkbits-speak-naturally/id6756824177)
 
 ---
 
@@ -267,7 +267,7 @@ Exposed servers are being used for LLMjacking, creating malicious content and be
 
 Ultra-minimal personal AI agent: starts small, self-modifies its code live, adapts by writing exactly the code & features you need - zuckermanai/zuckerman
 
-⬆️ 57 • 💬 42 • 7h ago • [GitHub](https://github.com/zuckermanai/zuckerman)
+⬆️ 58 • 💬 43 • 8h ago • [GitHub](https://github.com/zuckermanai/zuckerman)
 
 ---
 
@@ -289,7 +289,7 @@ Detailed sources: ...
 
 📺 Species | Documenting AGI
 
-👁️ 121K • 👍 9K • 💬 1K • ⏱️ 18:06 • 21h ago
+👁️ 121K • 👍 9K • 💬 1K • ⏱️ 18:06 • 22h ago
 
 ---
 
@@ -299,7 +299,7 @@ My site: https://natebjones.com Full Story w/ Prompts: ...
 
 📺 AI News & Strategy Daily | Nate B Jones
 
-👁️ 5K • 👍 427 • 💬 83 • ⏱️ 23:24 • 2h ago
+👁️ 5K • 👍 427 • 💬 83 • ⏱️ 23:24 • 3h ago
 
 ---
 
@@ -349,7 +349,7 @@ We explore why Moonshot AI's new Kimi k2.5 is the internet's latest obsession, c
 
 📺 Better Stack
 
-👁️ 13K • 👍 603 • 💬 39 • ⏱️ 13:47 • 12h ago
+👁️ 13K • 👍 603 • 💬 39 • ⏱️ 13:47 • 13h ago
 
 ---
 
@@ -369,7 +369,7 @@ Flash Sale Week: Up to 50% OFF + 365 days of ZERO credits on NanoBanana Pro, Mid
 
 📺 Future Business Tech
 
-👁️ 17K • 👍 609 • 💬 24 • ⏱️ 23:14 • 21h ago
+👁️ 17K • 👍 609 • 💬 24 • ⏱️ 23:14 • 22h ago
 
 ---
 
@@ -653,7 +653,7 @@ Browser automation CLI for AI agents
 
 `TypeScript`
 
-⭐ 12.0k • 🔱 672 • 16h ago
+⭐ 12.0k • 🔱 672 • 17h ago
 
 ---
 
@@ -673,7 +673,7 @@ Ralph is an autonomous AI agent loop that runs repeatedly until all PRD items ar
 
 `TypeScript`
 
-⭐ 9.1k • 🔱 1.1k • 2d ago
+⭐ 9.1k • 🔱 1.1k • 3d ago
 
 ---
 
@@ -683,7 +683,7 @@ LLM驱动的 A/H/美股智能分析器，多数据源行情 + 实时新闻 + Gem
 
 `Python` `agent` `ai` `aigc` `gemini` `llm`
 
-⭐ 8.6k • 🔱 9.1k • 7h ago
+⭐ 8.6k • 🔱 9.1k • 8h ago
 
 ---
 
@@ -703,7 +703,7 @@ The Ultimate Collection of 600+ Agentic Skills for Claude Code/Antigravity/Curso
 
 `Python` `agentic-skills` `ai-agents` `antigravity` `autonomous-coding` `claude-code`
 
-⭐ 6.1k • 🔱 1.3k • 4h ago
+⭐ 6.1k • 🔱 1.3k • 5h ago
 
 ---
 
