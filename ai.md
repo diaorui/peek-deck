@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-02-01T18:37:10.604156+00:00'
+updated: '2026-02-01T19:25:18.300058+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
 - social
-- videos
-- news
 - repositories
+- news
+- videos
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** February 01, 2026 at 18:37 UTC  
+**Last Updated:** February 01, 2026 at 19:25 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -49,7 +49,7 @@ The comment follows reports that the rocket maker is weighing a transaction that
 
 What moltbook is So essentially There is this open source AI bot called openclaw that once you download, it has source md files for their “soul” and “identity” and “memory” So in a way, it can save things to these files to create a personality. Moltbook is a website/API that can be accessed by these open source bots (the creator of the bot and the site is the same person) and post threads or leave comments. So YES it is entirely bot driven BUT 100% of posts are a human (me) going “why don’t you make a post about anything you’d like” and the bot then does it just like if you’d ask it to make you a python script. Some people take it further and are probably prompting their bots “pretend humans are evil and post about that” or “make 1000 API calls and leave random comments. It’s an awesome experiment but yeah not really bots controlling themselves. At best the bot makes a post based on an open ended prompt, at worst it’s a human saying “make a manifesto that says humans need to go extinct and to recruit other bots”
 
-14h ago
+15h ago
 
 ---
 
@@ -57,7 +57,7 @@ What moltbook is So essentially There is this open source AI bot called openclaw
 
 The b4 tool used by Linux kernel developers to help manage their patch workflow around contributions to the Linux kernel has been seeing work on a text user interface to help with AI agent assisted code reviews
 
-🔗 [phoronix.com](https://www.phoronix.com/news/Linux-b4-Tool-Dog-Feeding-AI) • 25m ago
+🔗 [phoronix.com](https://www.phoronix.com/news/Linux-b4-Tool-Dog-Feeding-AI) • 1h ago
 
 ---
 
@@ -65,7 +65,7 @@ The b4 tool used by Linux kernel developers to help manage their patch workflow 
 
 I subscribe to a few AI podcasts, but I wanted to know of any others that you can recommend. Not looking for anything too deep, in fact, prefer the ones that are lighter and an easy listen or watch. let me know your faves.
 
-1h ago
+2h ago
 
 ---
 
@@ -81,7 +81,7 @@ SpaceX's filing claims these satellites will be “a first step towards becoming
 
 I’m looking to dive into clawdbot. What do you guys think of this use case and if it’s even possible at this infant stage? Clawdbot to review my Google AdWords and Meta ads on a 24 hour , 7 day , 14 day basis. Point out optimization suggestions such based of changes in ROAS, CTR %, Conversions, Cost per acquisition metrics etc. Create a daily report on the tweaks that is needed to make today and on a weekly basis. Tweaks would involve things like inclusion or exclusion of keywords, improvement of ad copy, addition of new creatives (images/videos/html5) **I work in the fin tech and e-commerce niche whereby compliance is utmost important to avoid lawsuits and entire accounts getting taken down. Hence the bot will only have a “view access” to the advertising accounts. Through the reports my team and I will be able to make the change. I see Clawdbot as an open sandbox.. with some bugs to be wary of. Your thoughts?
 
-2h ago
+3h ago
 
 ---
 
@@ -89,13 +89,13 @@ I’m looking to dive into clawdbot. What do you guys think of this use case and
 
 So I was using LLM for studying advance language/framework/design topics. Whenever I have some question I would try on GPT but it will always give me answer in points no matter what prompt I try or create a separate workbook with new memory. It will always give me answer in small basic points. I wanted to learn topics in depth but it just refuses to give me better indepth answer just everything in basic points. Gemini sometimes is not able to understand context but the answer quality is just amazing and everything is in just depth, it uses points also but they are much better explained than GPT. Also the free version limit is just getting frustrating now in GPT and extremely long wait time for images, it has gotten so bad that I never though I would completely uninstall GPT and prefer gemini over it.
 
-7h ago
+8h ago
 
 ---
 
 **[Is artificial intelligence really all that scary?](https://www.reddit.com/r/artificial/comments/1qsz16q/is_artificial_intelligence_really_all_that_scary/)**
 
-4h ago
+5h ago
 
 ---
 
@@ -123,13 +123,13 @@ AI coding tools are getting more sophisticated. But if coders stop coding, what 
 
 Social media users are trying to use AI to get clearer images and videos of the Minneapolis shootings but are instead misleading millions.
 
-NBC News • 8h ago
+NBC News • 9h ago
 
 ---
 
 **[AI Boom Is Triggering a Loan Meltdown for Software Companies: Credit Weekly](https://www.bloomberg.com/news/articles/2026-01-31/ai-boom-is-triggering-a-loan-meltdown-for-software-companies-credit-weekly)**
 
-Bloomberg.com • 22h ago
+Bloomberg.com • 23h ago
 
 ---
 
@@ -137,13 +137,13 @@ Bloomberg.com • 22h ago
 
 Palantir's Chief Technology Officer argues that artificial intelligence narratives mislead Americans, citing frontline experience to show AI empowers workers rather than replacing them.
 
-Fox News • 43m ago
+Fox News • 1h ago
 
 ---
 
 **[Polymarket Says 70% Chance An MoltBook AI Agent Sues A Human](https://www.forbes.com/sites/digital-assets/2026/02/01/polymarket-says-70-chance-an-moltbook-ai-agent-sues-a-human/)**
 
-Forbes • 38m ago
+Forbes • 1h ago
 
 ---
 
@@ -151,7 +151,7 @@ Forbes • 38m ago
 
 Dr. Ryana Elyse Anderson, a clinical psychologist and associate professor at Columbia University's School of Social Work, highlights the dangers.
 
-ABC News • 41m ago
+ABC News • 1h ago
 
 ---
 
@@ -173,13 +173,13 @@ The New York Times • 1d ago
 
 Conferences restrict use of LLMs after surge of low-quality AI-generated papers and reviews
 
-Financial Times • 13h ago
+Financial Times • 14h ago
 
 ---
 
 **[AI’s Fundraising Frenzy Continues](https://www.wsj.com/tech/ai/ais-fundraising-frenzy-continues-911af613?gaa_at=eafs&gaa_n=AWEtsqeMy2AlE2COJ8jHm9WF83zCKnWgo-7Lm0x_-VHGHf9h1fY4OHv7NMNC&gaa_ts=697fa0be&gaa_sig=HX2HW2YwQ4H3dcBBo6qNgsiZqGqSLY3Pk_YwxuPVlFu2pI33ZJ3i1pKrMsR83ndOltYbepim2PAZ-DOn5l1I2g%3D%3D)**
 
-The Wall Street Journal • 3h ago
+The Wall Street Journal • 4h ago
 
 ---
 
@@ -215,7 +215,7 @@ AI assistance produces significant productivity gains across professional domain
 
 Like many organizations, Wiki Education has grappled with generative AI, its impacts, opportunities, and threats, for several years. As an organization that runs large-scale programs to bring new e…
 
-⬆️ 206 • 💬 100 • 21h ago • [Wiki Education](https://wikiedu.org/blog/2026/01/29/generative-ai-and-wikipedia-editing-what-we-learned-in-2025/)
+⬆️ 206 • 💬 100 • 22h ago • [Wiki Education](https://wikiedu.org/blog/2026/01/29/generative-ai-and-wikipedia-editing-what-we-learned-in-2025/)
 
 ---
 
@@ -285,7 +285,7 @@ Detailed sources: ...
 
 📺 Species | Documenting AGI
 
-👁️ 107K • 👍 9K • 💬 1K • ⏱️ 18:06 • 18h ago
+👁️ 107K • 👍 9K • 💬 1K • ⏱️ 18:06 • 19h ago
 
 ---
 
@@ -315,7 +315,7 @@ A new platform called Moltbook is going viral — and it's not built for humans.
 
 📺 James Blue
 
-👁️ 6K • 💬 2 • ⏱️ 8:39 • 4h ago
+👁️ 6K • 💬 2 • ⏱️ 8:39 • 5h ago
 
 ---
 
@@ -355,7 +355,7 @@ Claude Sonnet 5 rumors are EXPLODING on AI Twitter - insiders say it's dropping 
 
 📺 Universe of AI
 
-👁️ 9K • 👍 216 • 💬 47 • ⏱️ 8:13 • 17h ago
+👁️ 9K • 👍 216 • 💬 47 • ⏱️ 8:13 • 18h ago
 
 ---
 
@@ -365,7 +365,7 @@ Flash Sale Week: Up to 50% OFF + 365 days of ZERO credits on NanoBanana Pro, Mid
 
 📺 Future Business Tech
 
-👁️ 13K • 👍 516 • 💬 21 • ⏱️ 23:14 • 18h ago
+👁️ 13K • 👍 516 • 💬 21 • ⏱️ 23:14 • 19h ago
 
 ---
 
@@ -649,7 +649,7 @@ Browser automation CLI for AI agents
 
 `TypeScript`
 
-⭐ 12.0k • 🔱 672 • 13h ago
+⭐ 12.0k • 🔱 672 • 14h ago
 
 ---
 
@@ -679,7 +679,7 @@ LLM驱动的 A/H/美股智能分析器，多数据源行情 + 实时新闻 + Gem
 
 `Python` `agent` `ai` `aigc` `gemini` `llm`
 
-⭐ 8.6k • 🔱 9.1k • 4h ago
+⭐ 8.6k • 🔱 9.1k • 5h ago
 
 ---
 
@@ -699,7 +699,7 @@ The Ultimate Collection of 600+ Agentic Skills for Claude Code/Antigravity/Curso
 
 `Python` `agentic-skills` `ai-agents` `antigravity` `autonomous-coding` `claude-code`
 
-⭐ 6.0k • 🔱 1.3k • 1h ago
+⭐ 6.0k • 🔱 1.3k • 2h ago
 
 ---
 
