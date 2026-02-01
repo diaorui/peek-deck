@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-02-01T07:56:07.241931+00:00'
+updated: '2026-02-01T08:35:32.962221+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- social
 - news
-- videos
+- social
 - cryptocurrency
+- videos
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** February 01, 2026 at 07:56 UTC  
+**Last Updated:** February 01, 2026 at 08:35 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -81,19 +81,19 @@ Rank #1
 
 Took advantage of the plummet to get myself over the 0.5 mark!! I know this is small for some and big for others, but I’m quite happy with this! Just wanted to share with others who’d understand - nobody in my life cares lol.
 
-8h ago
+9h ago
 
 ---
 
 **[Don't worry.](https://www.reddit.com/r/Bitcoin/comments/1qseizq/dont_worry/)**
 
-10h ago
+11h ago
 
 ---
 
 **[Today’s message…](https://www.reddit.com/r/Bitcoin/comments/1qscx1s/todays_message/)**
 
-11h ago
+12h ago
 
 ---
 
@@ -101,7 +101,7 @@ Took advantage of the plummet to get myself over the 0.5 mark!! I know this is s
 
 Wasn't my original plan actually, but the blood is splattering so much that there's no other way.
 
-10h ago
+11h ago
 
 ---
 
@@ -109,25 +109,25 @@ Wasn't my original plan actually, but the blood is splattering so much that ther
 
 In the meanwhile I will just buy bitcoin regularly catching many of these dips. My target buy is 60k. (Obviously 20k would be great to buy but i dont believe it goes that deep and my more realistic target is 60k USD) ____________________ Edit: what is it with this user Academic_Attorney996, a bot?, who keeps spamming random shit all over this thread and over hours? Yapping about random shit and remembering me when bitcoin was 20k or something lol. This account isnt even old enough for 20k price range. Besides I never posted on this sub or any other sub about bitcoin. Is it a bot or an obsessed person yapping?
 
-10h ago
+11h ago
 
 ---
 
 **[DOING MY PART](https://www.reddit.com/r/Bitcoin/comments/1qsd85h/doing_my_part/)**
 
-11h ago
+12h ago
 
 ---
 
 **[Evergreen just like BTC!](https://www.reddit.com/r/Bitcoin/comments/1qs6sj1/evergreen_just_like_btc/)**
 
-15h ago
+16h ago
 
 ---
 
 **[Buy Now](https://www.reddit.com/r/Bitcoin/comments/1qs9mvq/buy_now/)**
 
-13h ago
+14h ago
 
 ---
 
@@ -141,7 +141,7 @@ I'm not wasting these cheap stacks. HODL and BUY!
 
 **[I’m done](https://www.reddit.com/r/Bitcoin/comments/1qsaxev/im_done/)**
 
-12h ago
+13h ago
 
 ---
 
@@ -161,13 +161,13 @@ Yahoo Finance • 14h ago
 
 Inthe past 24 hours, cryptocurrency market-wide contract liquidations totaled $2.58 billion, affecting over 430,000 traders. Of this, long position liquidations amounted to $2.41 billion, while short position liquidations reached $160 million. The largest single liquidation order occurred on Hyperliquid-ETH, valued at $223 million.
 
-富途牛牛 • 1h ago
+富途牛牛 • 2h ago
 
 ---
 
 **[Bitcoin Drops Below $78,000 After Trump Taps Kevin Warsh To Lead Federal Reserve](https://www.forbes.com/sites/mikestunson/2026/01/31/bitcoin-is-dropping-fast-heres-why-it-dropped-below-78000/)**
 
-Forbes • 9h ago
+Forbes • 10h ago
 
 ---
 
@@ -183,7 +183,7 @@ Yahoo Finance • 1d ago
 
 President Trump on Friday announced Kevin Warsh as his nominee to succeed Jerome Powell as Chair of the Federal Reserve, yet Bitcoin (CRYPTO: BTC) plunged below $83,000 on the news. Warsh Nomination Shifts Macro Interpretation Technical analyst Kyledoops said a Warsh-led Fed would fundamentally change how markets interpret policy signals, given his reputation as an inflation hawk and strong-dollar advocate. "If Warsh even hints at easing, it would be taken as genuinely meaningful," Kyledoops not
 
-Yahoo Finance • 16h ago
+Yahoo Finance • 17h ago
 
 ---
 
@@ -199,7 +199,7 @@ The Block • 1d ago
 
 Based on its monster past performance, it makes sense why investors are interested in Bitcoin.
 
-The Motley Fool • 19h ago
+The Motley Fool • 20h ago
 
 ---
 
@@ -223,7 +223,7 @@ Fortune • 1d ago
 
 The first bank collapse of 2026 coincides with a violent global sell-off that has traders fearing a broader contagion.
 
-CryptoSlate • 10h ago
+CryptoSlate • 11h ago
 
 ---
 
@@ -233,7 +233,7 @@ CryptoSlate • 10h ago
 
 **[Bitcoin Looks Set for Longest Monthly Losing Streak Since 2018](https://news.ycombinator.com/item?id=46838644)**
 
-⬆️ 63 • 💬 61 • 14h ago • [bloomberg.com](https://www.bloomberg.com/news/articles/2026-01-30/bitcoin-btc-slides-toward-longest-monthly-losing-streak-since-2018)
+⬆️ 65 • 💬 62 • 15h ago • [bloomberg.com](https://www.bloomberg.com/news/articles/2026-01-30/bitcoin-btc-slides-toward-longest-monthly-losing-streak-since-2018)
 
 ---
 
@@ -257,7 +257,7 @@ A list of known attacks against Bitcoin / crypto asset owning entities that occu
 
 PoW + EVM cryptocurrency. 21M fixed supply, fair launch, no team, no foundation. Just code. - lumenyx-chain/lumenyx
 
-⬆️ 1 • 💬 0 • 19h ago • [GitHub](https://github.com/lumenyx-chain/lumenyx)
+⬆️ 1 • 💬 0 • 20h ago • [GitHub](https://github.com/lumenyx-chain/lumenyx)
 
 ---
 
@@ -315,7 +315,7 @@ LIMITED TIME: ✓ Bitunix (no kyc, $10k bonus): https://www.bitunix.com/register
 
 📺 Altcoin Daily
 
-👁️ 44K • 👍 2K • 💬 211 • ⏱️ 9:24 • 7h ago
+👁️ 44K • 👍 2K • 💬 211 • ⏱️ 9:24 • 8h ago
 
 ---
 
@@ -325,7 +325,7 @@ When Will the Current U.S. Government Shutdown End?
 
 📺 CryptosRUs
 
-👁️ 36K • 👍 2K • 💬 670 • ⏱️ 11:12 • 6h ago
+👁️ 36K • 👍 2K • 💬 670 • ⏱️ 11:12 • 7h ago
 
 ---
 
@@ -335,7 +335,7 @@ This isn't looking good iTrust Capital – $100 Bonus (Crypto IRA & Custody Acco
 
 📺 Aaron Bennett
 
-👁️ 6K • 👍 409 • 💬 71 • ⏱️ 10:16 • 3h ago
+👁️ 6K • 👍 409 • 💬 71 • ⏱️ 10:16 • 4h ago
 
 ---
 
@@ -345,7 +345,7 @@ Nick Valdez looks at the latest market crash with the next level Bitcoin MUST ho
 
 📺 Discover Crypto
 
-👁️ 16K • 👍 644 • 💬 186 • ⏱️ 4:28 • 10h ago
+👁️ 16K • 👍 644 • 💬 186 • ⏱️ 4:28 • 11h ago
 
 ---
 
@@ -365,7 +365,7 @@ Take Control of Your Retirement — Grow Crypto & Gold Tax-Advantaged. https://w
 
 📺 Savvy Finance
 
-👁️ 6K • 👍 287 • 💬 17 • ⏱️ 20:55 • 7h ago
+👁️ 6K • 👍 287 • 💬 17 • ⏱️ 20:55 • 8h ago
 
 ---
 
@@ -375,7 +375,7 @@ Watch my free masterclass & get Market Briefs as a bonus: https://briefs.finance
 
 📺 Minority Mindset
 
-👁️ 271K • 👍 10K • 💬 2K • ⏱️ 14:10 • 19h ago
+👁️ 271K • 👍 10K • 💬 2K • ⏱️ 14:10 • 20h ago
 
 ---
 
@@ -385,7 +385,7 @@ Why the Crypto Market Is Red (It s NOT the Reason You Think)! Breaking Crypto Ne
 
 📺 Austin Hilton
 
-👁️ 29K • 👍 936 • 💬 216 • ⏱️ 9:28 • 15h ago
+👁️ 29K • 👍 936 • 💬 216 • ⏱️ 9:28 • 16h ago
 
 ---
 
@@ -395,7 +395,7 @@ Gold crashes with Silver in tow and now comes Bitcoin. How low can we go? MUCH l
 
 📺 Digital Asset News
 
-👁️ 17K • 👍 868 • 💬 143 • ⏱️ 35:43 • 10h ago
+👁️ 17K • 👍 868 • 💬 143 • ⏱️ 35:43 • 11h ago
 
 ---
 
@@ -405,7 +405,7 @@ The 'Path of Least Resistance' is currently straight down, and the stock market 
 
 📺 Gareth Soloway
 
-👁️ 81K • 👍 6K • 💬 867 • ⏱️ 12:26 • 13h ago
+👁️ 81K • 👍 6K • 💬 867 • ⏱️ 12:26 • 14h ago
 
 ---
 

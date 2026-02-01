@@ -3,14 +3,14 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-02-01T07:56:07.233494+00:00'
+updated: '2026-02-01T08:35:32.953807+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
+- news
 - repositories
 - social
-- news
 - videos
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 AI news, discussions, and developments
 
-**Last Updated:** February 01, 2026 at 07:56 UTC  
+**Last Updated:** February 01, 2026 at 08:35 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -41,7 +41,7 @@ AI news, discussions, and developments
 
 What moltbook is So essentially There is this open source AI bot called openclaw that once you download, it has source md files for their “soul” and “identity” and “memory” So in a way, it can save things to these files to create a personality. Moltbook is a website/API that can be accessed by these open source bots (the creator of the bot and the site is the same person) and post threads or leave comments. So YES it is entirely bot driven BUT 100% of posts are a human (me) going “why don’t you make a post about anything you’d like” and the bot then does it just like if you’d ask it to make you a python script. Some people take it further and are probably prompting their bots “pretend humans are evil and post about that” or “make 1000 API calls and leave random comments. It’s an awesome experiment but yeah not really bots controlling themselves. At best the bot makes a post based on an open ended prompt, at worst it’s a human saying “make a manifesto that says humans need to go extinct and to recruit other bots”
 
-3h ago
+4h ago
 
 ---
 
@@ -49,7 +49,7 @@ What moltbook is So essentially There is this open source AI bot called openclaw
 
 SpaceX's filing claims these satellites will be “a first step towards becoming a Kardashev II-level civilization — one that can harness the Sun’s full power."
 
-🔗 [TechCrunch](https://techcrunch.com/2026/01/31/spacex-seeks-federal-approval-to-launch-1-million-solar-powered-satellite-data-centers/) • 5h ago
+🔗 [TechCrunch](https://techcrunch.com/2026/01/31/spacex-seeks-federal-approval-to-launch-1-million-solar-powered-satellite-data-centers/) • 6h ago
 
 ---
 
@@ -73,7 +73,7 @@ AI coding tools are getting more sophisticated. But if coders stop coding, what 
 
 "Nvidia released three open-source artificial intelligence models aimed at helping create better weather forecasts, faster.... In the case of weather forecasting, Nvidia is aiming to replace expensive and time-consuming conventional weather simulations with AI-driven versions that the company said can rival or exceed the accuracy of older methods. The AI models, once trained, are also faster and cost less to run ... Nvidia's "Earth-2" models introduced on Monday include one aimed at making 15-day weather forecasts, one that specializes in forecasts of up to six hours for severe storms over the U.S., and one that can be used to integrate disparate data streams from a variety of weather sensors to make them a more useful starting point for other forecasting technology." Model page: https://www.nvidia.com/en-us/high-performance-computing/earth-2/
 
-🔗 [reuters.com](https://www.reuters.com/business/environment/nvidia-unveils-ai-models-faster-cheaper-weather-forecasts-2026-01-26/) • 14h ago
+🔗 [reuters.com](https://www.reuters.com/business/environment/nvidia-unveils-ai-models-faster-cheaper-weather-forecasts-2026-01-26/) • 15h ago
 
 ---
 
@@ -87,7 +87,7 @@ AI coding tools are getting more sophisticated. But if coders stop coding, what 
 
 Supports Qwen3-TTS models (0.6B-1.7B) and ASR models. Docker + native deployment options. Key features: 🎭 Voice cloning with reference audio 🎨 Custom voice design from text descriptions ⚡ MLX + Metal GPU acceleration for M1/M2/M3 🎨 Modern React UI included If you like local audio models, give it a try. Works best in local dev mode for now.
 
-🔗 [GitHub](https://github.com/agentem-ai/izwi-audio) • 15h ago
+🔗 [GitHub](https://github.com/agentem-ai/izwi-audio) • 16h ago
 
 ---
 
@@ -125,13 +125,13 @@ Forbes • 15h ago
 
 **[How AI Is Rewriting Consumer Commerce in China](https://www.barrons.com/articles/ai-consumer-commerce-china-b24d8cb1?gaa_at=eafs&gaa_n=AWEtsqc_TOmSSArcwyknnrhwwCAn8kzGdXl-H-_APQV21OzpS-XyW41JG2AO&gaa_ts=697f0a7d&gaa_sig=mEclzeynNnHrkncWUvKbDqn3PvXX4UhXLtpgPN3kRhyd0K5RfIDCSqS-5GCp0z2VRxzOUZUengpd6WHf6N2yoA%3D%3D)**
 
-Barron's • 26m ago
+Barron's • 1h ago
 
 ---
 
 **[China’s AI Boom Is Paying Off. It’s Behind the Scenes.](https://www.barrons.com/articles/china-ai-boom-commerce-warehouses-b1ad55f1?gaa_at=eafs&gaa_n=AWEtsqe84-EmqvRGbQPgjJe5VYTJX8_LBFTBr5VPX_C2Jwp--8Jt7XVoapVf&gaa_ts=697f0a7d&gaa_sig=3jVJ54rLPp6ba2HU8gdist4Hrc4FVmum8Y4ycBfpLm-JqiWqgNfNZkxT14TxYwhd3bqRh8nSy6G_zjumiWdeaw%3D%3D)**
 
-Barron's • 26m ago
+Barron's • 1h ago
 
 ---
 
@@ -151,7 +151,7 @@ The New York Times • 1d ago
 
 **[AI Boom Is Triggering a Loan Meltdown for Software Companies: Credit Weekly](https://www.bloomberg.com/news/articles/2026-01-31/ai-boom-is-triggering-a-loan-meltdown-for-software-companies-credit-weekly)**
 
-Bloomberg.com • 11h ago
+Bloomberg.com • 12h ago
 
 ---
 
@@ -191,7 +191,7 @@ Reuters • 1d ago
 
 Anthropic is an AI safety and research company that's working to build reliable, interpretable, and steerable AI systems.
 
-⬆️ 462 • 💬 336 • 2d ago • [anthropic.com](https://www.anthropic.com/research/AI-assistance-coding-skills)
+⬆️ 463 • 💬 336 • 2d ago • [anthropic.com](https://www.anthropic.com/research/AI-assistance-coding-skills)
 
 ---
 
@@ -227,7 +227,7 @@ New York mayor says terminating the ‘unusable’ bot will help close a budget 
 
 **[A Step Behind the Bleeding Edge: A Philosophy on AI in Dev](https://news.ycombinator.com/item?id=46809846)**
 
-⬆️ 145 • 💬 79 • 2d ago • [somehowmanage.com](https://somehowmanage.com/2026/01/22/a-step-behind-the-bleeding-edge-monarchs-philosophy-on-ai-in-dev/)
+⬆️ 148 • 💬 80 • 2d ago • [somehowmanage.com](https://somehowmanage.com/2026/01/22/a-step-behind-the-bleeding-edge-monarchs-philosophy-on-ai-in-dev/)
 
 ---
 
@@ -247,19 +247,19 @@ Contribute to amlalabs/amla-sandbox development by creating an account on GitHub
 
 ---
 
+**[Generative AI and Wikipedia editing: What we learned in 2025](https://news.ycombinator.com/item?id=46840924)**
+
+Like many organizations, Wiki Education has grappled with generative AI, its impacts, opportunities, and threats, for several years. As an organization that runs large-scale programs to bring new e…
+
+⬆️ 136 • 💬 54 • 11h ago • [Wiki Education](https://wikiedu.org/blog/2026/01/29/generative-ai-and-wikipedia-editing-what-we-learned-in-2025/)
+
+---
+
 **[Mozilla is building an AI 'rebel alliance' to take on OpenAI, Anthropic](https://news.ycombinator.com/item?id=46812653)**
 
 Mozilla is looking to deploy its roughly $1.4 billion in reserves to support "mission driven" companies and nonprofits, and is particularly focused on AI.
 
 ⬆️ 134 • 💬 149 • 2d ago • [CNBC](https://www.cnbc.com/2026/01/27/mozilla-building-an-ai-rebel-alliance-to-take-on-openai-anthropic-.html)
-
----
-
-**[Apple buys Israeli startup Q.ai](https://news.ycombinator.com/item?id=46816228)**
-
-Q.ai is an Israeli startup specializing in imaging and machine learning, particularly technologies that enable devices to interpret whispered speech and enhance audio in noisy environments.
-
-⬆️ 128 • 💬 45 • 2d ago • [TechCrunch](https://techcrunch.com/2026/01/29/apple-buys-israeli-startup-q-ai-as-the-ai-race-heats-up/)
 
 ---
 
@@ -273,7 +273,7 @@ Flash Sale Week: Up to 50% OFF + 365 days of ZERO credits on NanoBanana Pro, Mid
 
 📺 Future Business Tech
 
-👁️ 3K • 👍 168 • 💬 6 • ⏱️ 23:14 • 7h ago
+👁️ 3K • 👍 168 • 💬 6 • ⏱️ 23:14 • 8h ago
 
 ---
 
@@ -283,7 +283,7 @@ Nathan Lambert and Sebastian Raschka are machine learning researchers, engineers
 
 📺 Lex Fridman
 
-👁️ 92K • 👍 3K • 💬 238 • ⏱️ 4:25:13 • 9h ago
+👁️ 92K • 👍 3K • 💬 238 • ⏱️ 4:25:13 • 10h ago
 
 ---
 
@@ -293,7 +293,7 @@ Everyone is talking about how AI is draining the power grid, but the biggest hur
 
 📺 The Infographics Show
 
-👁️ 55K • 👍 1K • 💬 193 • ⏱️ 9:18 • 16h ago
+👁️ 55K • 👍 1K • 💬 193 • ⏱️ 9:18 • 17h ago
 
 ---
 
@@ -303,7 +303,7 @@ A new platform called Moltbook is going viral — and it's not built for humans.
 
 📺 Mint
 
-👁️ 5K • 👍 62 • 💬 12 • ⏱️ 3:25 • 15h ago
+👁️ 5K • 👍 62 • 💬 12 • ⏱️ 3:25 • 16h ago
 
 ---
 
@@ -353,7 +353,7 @@ Join the #1 community for AI entrepreneurs and connect with 280k+ members: https
 
 📺 Liam Ottley
 
-👁️ 12K • 👍 629 • 💬 53 • ⏱️ 8:14 • 23h ago
+👁️ 12K • 👍 629 • 💬 53 • ⏱️ 8:14 • 1d ago
 
 ---
 
@@ -415,7 +415,7 @@ HunyuanImage-3.0-Instruct is a native multimodal model for image generation, sup
 
 `image-to-image` `83.0B`
 
-⬇️ 84 • ❤️ 731 • 3d ago
+⬇️ 84 • ❤️ 731 • 4d ago
 
 ---
 
@@ -439,7 +439,7 @@ Qwen3-TTS-12Hz-1.7B-CustomVoice is a multilingual text-to-speech model supportin
 
 `text-to-speech` `1.9B`
 
-⬇️ 198,332 • ❤️ 829 • 2d ago
+⬇️ 198,332 • ❤️ 829 • 3d ago
 
 ---
 
@@ -487,7 +487,7 @@ GLM-4.7-Flash is a 30B-A3B MoE model, offering strong performance in the 30B cla
 
 `text-generation` `31.2B`
 
-⬇️ 725,515 • ❤️ 1,388 • 2d ago
+⬇️ 725,515 • ❤️ 1,388 • 3d ago
 
 ---
 
@@ -637,7 +637,7 @@ Browser automation CLI for AI agents
 
 `TypeScript`
 
-⭐ 11.9k • 🔱 665 • 2h ago
+⭐ 11.9k • 🔱 665 • 3h ago
 
 ---
 
@@ -667,7 +667,7 @@ LLM驱动的 A/H/美股智能分析器，多数据源行情 + 实时新闻 + Gem
 
 `Python` `agent` `ai` `aigc` `gemini` `llm`
 
-⭐ 8.4k • 🔱 8.9k • 2h ago
+⭐ 8.4k • 🔱 8.9k • 3h ago
 
 ---
 
@@ -677,7 +677,7 @@ LLM驱动的 A/H/美股智能分析器，多数据源行情 + 实时新闻 + Gem
 
 `Vue`
 
-⭐ 6.8k • 🔱 1.3k • 18h ago
+⭐ 6.8k • 🔱 1.3k • 19h ago
 
 ---
 
@@ -697,7 +697,7 @@ Marketing skills for Claude Code and AI agents. CRO, copywriting, SEO, analytics
 
 `claude` `codex` `marketing`
 
-⭐ 5.5k • 🔱 597 • 3d ago
+⭐ 5.5k • 🔱 597 • 4d ago
 
 ---
 

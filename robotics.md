@@ -3,13 +3,13 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-02-01T07:56:07.251129+00:00'
+updated: '2026-02-01T08:35:32.971368+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- social
 - news
+- social
 - videos
 ---
 
@@ -17,7 +17,7 @@ data_types:
 
 Robotics research and industry news
 
-**Last Updated:** February 01, 2026 at 07:56 UTC  
+**Last Updated:** February 01, 2026 at 08:35 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -36,7 +36,7 @@ Robotics research and industry news
 
 I hadn't seen the whole video yesterday when I posted it. From The Humanoid Hub on 𝕏: https://x.com/TheHumanoidHub/status/2017646098136141858
 
-3h ago
+4h ago
 
 ---
 
@@ -44,7 +44,7 @@ I hadn't seen the whole video yesterday when I posted it. From The Humanoid Hub 
 
 The real meat and potatoes: I made this as a modular brain for my other robots I built recently. Right now I’m building her a tiny combat robot body so I can’t wait to program her fight moves. Already slightly tested it but just to get her to stand in a T pose then relax all motors after 5 seconds to get an idea of how to map her body. That was when I used a pi zero tho so more work is definitely needed. After that I need to completely redesign her casing. It’s literally made from an outer frame I printed in a rush and a piece of plastic that held her oled screen in the packaging.
 
-10h ago
+11h ago
 
 ---
 
@@ -52,7 +52,7 @@ The real meat and potatoes: I made this as a modular brain for my other robots I
 
 Day:30 1- Base body and MCU from Sunfounder 2-Built over raspberry pi5 and powered by OpenAI 3- Connected to N8N for tooling like web search., scraping etc Let me know your thoughts 😊
 
-12h ago
+13h ago
 
 ---
 
@@ -68,7 +68,7 @@ Hi, I’m working on a repurposed electric wheelchair chassis (>100 kg, high-tor
 
 From: CyberRobo on 𝕏: https://x.com/CyberRobooo/status/2017544750694551618 RoboHub🤖 on 𝕏 (images): https://x.com/XRoboHub/status/2017541654173851909
 
-21h ago
+22h ago
 
 ---
 
@@ -76,7 +76,7 @@ From: CyberRobo on 𝕏: https://x.com/CyberRobooo/status/2017544750694551618 Ro
 
 Saw this one at Wuhu train station in China. Answers questions at a desk. It looks like it has a lot of ability but it otherwise doesn't move at all. Even when you ask it to wave it says "sure, here's a friendly wave" but doesn't move an inch.
 
-5h ago
+6h ago
 
 ---
 
@@ -84,7 +84,7 @@ Saw this one at Wuhu train station in China. Answers questions at a desk. It loo
 
 hey! I’m just starting out in robotics and I’m learning on my own, not through a university or formal degree. I’m super curious about robotics, embedded systems, hardware + software but honestly it can feel pretty overwhelming figuring out where to start and what to focus on I was wondering if anyone else here is in a similar space: - Self-learning robotics - No robotics/engineering degree - Following online courses, yourube, books, projects, arduino/raspberry pi etc - getting stuck a lot but still want to keep going If so, would love to learn together…share resources, small projects, progress updates, failures etc. Maybe a small discord group orsomething if enough people are interested. Skill level doesn’t matter at all. Absolute beginners welcome. The goal is consistency and help eachother learn together If this sounds interesting, please leave a comment about: - What you’re currently learning - What you want to build someday - or just say i want to join thanks 🦾
 
-3h ago
+4h ago
 
 ---
 
@@ -98,7 +98,7 @@ First time posting here! Ive been messing around with my dad’s scraps for a wh
 
 **[The future of remote workers?](https://www.reddit.com/r/robotics/comments/1qsmoj2/the_future_of_remote_workers/)**
 
-4h ago
+5h ago
 
 ---
 
@@ -106,7 +106,7 @@ First time posting here! Ive been messing around with my dad’s scraps for a wh
 
 Hey builders, I’m putting together an 8 kg combat robot with direct-drive wheels and a vertical grinder and would love a quick sanity check on my electronics before ordering: I’m using 2× 12 V 775 planetary geared DC motors (~370 RPM) with 80 mm wheels mounted directly on the 10 mm shafts, 1× RS-775 12 V motor for the grinder driven by an HTD-5M belt (20T→40T, 2:1) to a steel disc on a separate shaft, 3× Hobbywing QuicRun 1060 (60A brushed ESCs) (two for drive, one for weapon), a Radiomaster Pocket (ELRS) with a Radiomaster ER5C V2 PWM receiver, powered by a single 3S 2200–2600 mAh 40C LiPo through a 60A fuse, all ESCs in parallel with only one BEC powering the receiver; channels planned as CH1 left drive, CH2 right drive, CH3 grinder on a switch — does this setup look reliable for competition use, or am I missing any obvious electrical weak point?
 
-3h ago
+4h ago
 
 ---
 
@@ -198,7 +198,7 @@ XPENG just took a massive step forward in humanoid robotics. The New IRON robot 
 
 📺 DPCcars
 
-👁️ 2K • 👍 46 • 💬 16 • ⏱️ 1:21 • 11h ago
+👁️ 2K • 👍 46 • 💬 16 • ⏱️ 1:21 • 12h ago
 
 ---
 
@@ -246,7 +246,7 @@ Is money a permanent fixture of humanity, or just a temporary tool for labor all
 
 📺 Borunte Robot Lin 
 
-👁️ 570 • 👍 1 • ⏱️ 0:22 • 23h ago
+👁️ 570 • 👍 1 • ⏱️ 0:22 • 1d ago
 
 ---
 
@@ -254,7 +254,7 @@ Is money a permanent fixture of humanity, or just a temporary tool for labor all
 
 📺 Ryan Shaw
 
-👁️ 1K • 👍 33 • 💬 2 • ⏱️ 1:03 • 4h ago
+👁️ 1K • 👍 33 • 💬 2 • ⏱️ 1:03 • 5h ago
 
 ---
 

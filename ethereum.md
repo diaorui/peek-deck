@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-02-01T07:56:07.247845+00:00'
+updated: '2026-02-01T08:35:32.968172+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- social
 - news
-- videos
+- social
 - cryptocurrency
+- videos
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** February 01, 2026 at 07:56 UTC  
+**Last Updated:** February 01, 2026 at 08:35 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -36,7 +36,7 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Price
 
-### $2,406.00
+### $2,402.81
 
 ---
 
@@ -72,7 +72,7 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-1h ago
+2h ago
 
 ---
 
@@ -88,13 +88,13 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 World News, Stories By EtherWorld, Technical Explainers, Client News & Updates, Podcasts, Upcoming Events & Jobs
 
-🔗 [EtherWorld.co](https://etherworld.co/etherworld-weekly-edition-349/) • 17h ago
+🔗 [EtherWorld.co](https://etherworld.co/etherworld-weekly-edition-349/) • 18h ago
 
 ---
 
 **[Listening to Polymarket trades in real-time (open source, no third party)](https://www.reddit.com/r/ethereum/comments/1qs3l8c/listening_to_polymarket_trades_in_realtime_open/)**
 
-17h ago
+18h ago
 
 ---
 
@@ -102,7 +102,7 @@ World News, Stories By EtherWorld, Technical Explainers, Client News & Updates, 
 
 In these five years, the Ethereum Foundation is entering a period of mild austerity, in order to be able to simultaneously meet two goals: Deliver on an aggressive roadmap that ensures Ethereum's status as a performant and scalable world computer that does not compromise on robustness, sustainability and decentralization. Ensures the Ethereum Foundation's own ability to sustain into the long term, and protect Ethereum's core mission and goals, including both the core blockchain layer as well as users' ability to access and use the chain with self-sovereignty, security and privacy. To this end, my own share of the austerity is that I am personally taking on responsibilities that might in another time have been "special projects" of the EF. Specifically, we are seeking the existence of an open-source, secure and verifiable full stack of software and hardware that can protect both our personal lives and our public environments ( see https://vitalik.eth.limo/general/2025/09/24/openness_and_verifiability.html ). This includes applications such as finance, communication and governance, blockchains, operating systems, secure hardware, biotech (including both personal and public health), and more. If you have seen the Vensa announcement (seeking to make open silicon a commercially viable reality at least for security-critical applications), the ucritter.com including recent versions with built in ZK + FHE + differential-privacy features, the air quality work, my donations to encrypted messaging apps, my own enthusiasm and use for privacy-preserving, walkaway-test-friendly and local-first software (including operating systems), then you know the general spirit of what I am planning to support. For this reason I have just withdrawn 16,384 ETH, which will be deployed toward these goals over the next few years. I am also exploring secure decentralized staking options that will allow even more capital from staking rewards to be put toward these goals in the long term. Ethereum itself is an indispensable part of the "full-stack openness and verifiability" vision. The Ethereum Foundation will continue with a steadfast focus on developing Ethereum, with that goal in mind. "Ethereum everywhere" is nice, but the primary priority is "Ethereum for people who need it". Not corposlop, but self-sovereignty, and the baseline infrastructure that enables cooperation without domination. In a world where many people's default mindset is that we need to race to become a big strong bully, because otherwise the existing big strong bullies will eat you first, this is the needed alternative. It will involve much more than technology to succeed, but the technical layer is something which is in our control to make happen. The tools to ensure your, and your community's, autonomy and safety, as a basic right that belongs to everyone. Open not in a bullshit "open means everyone has the right to buy it from us and use our API for $200/month" way, but actually open, and secure and verifiable so that you know that your technology is working for you.
 
-1d ago
+2d ago
 
 ---
 
@@ -160,7 +160,7 @@ Barron's • 1d ago
 
 The crypto market's recent decline only accelerated Saturday, with Bitcoin falling to nearly $77,000 as liquidations piled up.
 
-Decrypt • 11h ago
+Decrypt • 12h ago
 
 ---
 
@@ -168,7 +168,7 @@ Decrypt • 11h ago
 
 The firm’s recent ETH purchases came just ahead of a sharp market slide, pushing unrealized losses past $6 billion as liquidity thinned and liquidations picked up.
 
-CoinDesk • 59m ago
+CoinDesk • 1h ago
 
 ---
 
@@ -176,7 +176,7 @@ CoinDesk • 59m ago
 
 A massive ETH liquidation on Hyperliquid led a leverage-driven wipeout that pushed total crypto liquidations past $2.5 billion in 24 hours.
 
-CoinDesk • 46m ago
+CoinDesk • 1h ago
 
 ---
 
@@ -190,7 +190,7 @@ Yahoo Finance • 1d ago
 
 **[Key facts: Ethereum Drops 12.7% Amid Large Sales; Institutional Interest Grows](https://www.tradingview.com/news/tradingview:28b30d6b1c11d:0-key-facts-ethereum-drops-12-7-amid-large-sales-institutional-interest-grows/)**
 
-TradingView • 7h ago
+TradingView • 8h ago
 
 ---
 
@@ -198,7 +198,7 @@ TradingView • 7h ago
 
 ETH plunges to $2,400 after heavy liquidations, with analysts warning a deeper move toward $1,435 is possible.
 
-Coinpaper • 12h ago
+Coinpaper • 13h ago
 
 ---
 
@@ -236,7 +236,7 @@ Nick Valdez looks at the latest market crash with the next level Bitcoin MUST ho
 
 📺 Discover Crypto
 
-👁️ 16K • 👍 644 • 💬 186 • ⏱️ 4:28 • 10h ago
+👁️ 16K • 👍 644 • 💬 186 • ⏱️ 4:28 • 11h ago
 
 ---
 
@@ -246,7 +246,7 @@ My FREE Daily On-Chain Analysis & Crypto News In 5-Mins: https://www.cryptonutsh
 
 📺 Jamie Tree 
 
-👁️ 3K • 👍 66 • 💬 60 • ⏱️ 18:25 • 16h ago
+👁️ 3K • 👍 66 • 💬 60 • ⏱️ 18:25 • 17h ago
 
 ---
 
@@ -256,7 +256,7 @@ BITCOIN CRASH: PRICE TARGETS HIT (this is next)!!!! - Bitcoin News Today, Ethere
 
 📺 Crypto World
 
-👁️ 12K • 👍 504 • 💬 190 • ⏱️ 27:07 • 10h ago
+👁️ 12K • 👍 504 • 💬 190 • ⏱️ 27:07 • 11h ago
 
 ---
 
@@ -266,7 +266,7 @@ BITCOIN CRASH: PRICE TARGETS HIT (this is next)!!!! - Bitcoin News Today, Ethere
 
 📺 Crypto Moe
 
-👁️ 2K • 👍 244 • 💬 45 • ⏱️ 11:41 • 8h ago
+👁️ 2K • 👍 244 • 💬 45 • ⏱️ 11:41 • 9h ago
 
 ---
 
@@ -276,7 +276,7 @@ EMERGENCY UPDATE: CRYPTO CRASH INTENSIFIES! (Here's Why) The crypto market is in
 
 📺 Tim Warren
 
-👁️ 19K • 👍 1K • 💬 434 • ⏱️ 11:12 • 13h ago
+👁️ 19K • 👍 1K • 💬 434 • ⏱️ 11:12 • 14h ago
 
 ---
 
@@ -286,7 +286,7 @@ Go PRO and become a better investor: ...
 
 📺 Milk Road
 
-👁️ 2K • 👍 96 • 💬 52 • ⏱️ 12:13 • 19h ago
+👁️ 2K • 👍 96 • 💬 52 • ⏱️ 12:13 • 20h ago
 
 ---
 
@@ -296,7 +296,7 @@ Join UpTrade today - Your personal crypto broker: https://www.uptrade.au/ My FRE
 
 📺 Crypto Nutshell
 
-👁️ 13K • 👍 396 • 💬 99 • ⏱️ 16:36 • 16h ago
+👁️ 13K • 👍 396 • 💬 99 • ⏱️ 16:36 • 17h ago
 
 ---
 
@@ -306,7 +306,7 @@ This video provides a professional Elliott Wave and technical analysis of Ethere
 
 📺 More Crypto Online
 
-👁️ 3K • 👍 258 • 💬 22 • ⏱️ 4:54 • 11h ago
+👁️ 3K • 👍 258 • 💬 22 • ⏱️ 4:54 • 12h ago
 
 ---
 
@@ -316,7 +316,7 @@ Join Premium: https://the-bitcoin-strategy.com My Chart Software: https://the-bi
 
 📺 Gerhard - Bitcoin Strategy
 
-👁️ 6K • 👍 145 • 💬 45 • ⏱️ 7:13 • 22h ago
+👁️ 6K • 👍 145 • 💬 45 • ⏱️ 7:13 • 23h ago
 
 ---
 
