@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-02-01T17:50:37.375231+00:00'
+updated: '2026-02-01T18:37:10.621757+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
+- social
 - videos
 - news
-- social
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** February 01, 2026 at 17:50 UTC  
+**Last Updated:** February 01, 2026 at 18:37 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -36,7 +36,7 @@ Robotics research and industry news
 
 From DEEP Robotics on 𝕏: https://x.com/DeepRobotics_CN/status/2017114429360656740
 
-6h ago
+7h ago
 
 ---
 
@@ -44,13 +44,13 @@ From DEEP Robotics on 𝕏: https://x.com/DeepRobotics_CN/status/201711442936065
 
 I hadn't seen the whole video yesterday when I posted it. From The Humanoid Hub on 𝕏: https://x.com/TheHumanoidHub/status/2017646098136141858
 
-13h ago
+14h ago
 
 ---
 
 **[The future of remote workers?](https://www.reddit.com/r/robotics/comments/1qsmoj2/the_future_of_remote_workers/)**
 
-14h ago
+15h ago
 
 ---
 
@@ -58,7 +58,7 @@ I hadn't seen the whole video yesterday when I posted it. From The Humanoid Hub 
 
 The real meat and potatoes: I made this as a modular brain for my other robots I built recently. Right now I’m building her a tiny combat robot body so I can’t wait to program her fight moves. Already slightly tested it but just to get her to stand in a T pose then relax all motors after 5 seconds to get an idea of how to map her body. That was when I used a pi zero tho so more work is definitely needed. After that I need to completely redesign her casing. It’s literally made from an outer frame I printed in a rush and a piece of plastic that held her oled screen in the packaging.
 
-20h ago
+21h ago
 
 ---
 
@@ -66,7 +66,7 @@ The real meat and potatoes: I made this as a modular brain for my other robots I
 
 Young PhD in Computer vision / Robotics here. I have recently read a post of Marie-Anne Lachaux, founding engineer of Llama and Mistral AI, talking about keys of success in research. One of them was « Have good intuition » to reduce the world of possibilities and dig into the right direction. How do you develop this intuition in research, especially in AI and Robotics?
 
-4h ago
+5h ago
 
 ---
 
@@ -74,7 +74,7 @@ Young PhD in Computer vision / Robotics here. I have recently read a post of Mar
 
 Day:30 1- Base body and MCU from Sunfounder 2-Built over raspberry pi5 and powered by OpenAI 3- Connected to N8N for tooling like web search., scraping etc Let me know your thoughts 😊
 
-22h ago
+23h ago
 
 ---
 
@@ -82,7 +82,7 @@ Day:30 1- Base body and MCU from Sunfounder 2-Built over raspberry pi5 and power
 
 Saw this one at Wuhu train station in China. Answers questions at a desk. It looks like it has a lot of ability but it otherwise doesn't move at all. Even when you ask it to wave it says "sure, here's a friendly wave" but doesn't move an inch.
 
-15h ago
+16h ago
 
 ---
 
@@ -102,11 +102,11 @@ From: CyberRobo on 𝕏: https://x.com/CyberRobooo/status/2017544750694551618 Ro
 
 ---
 
-**[First rover build! Resurrected my dad's 5yr old kits and scraps to make this little guy](https://www.reddit.com/r/robotics/comments/1qsjqlz/first_rover_build_resurrected_my_dads_5yr_old/)**
+**[Parkour in the Wild -- ANYmal robot at ETH](https://www.reddit.com/r/robotics/comments/1qstmf6/parkour_in_the_wild_anymal_robot_at_eth/)**
 
-First time posting here! Ive been messing around with my dad’s scraps for a while, but finally found a rover kit! I built this chassis using a mix of 5-year-old kits and random scraps I had lying around. It was a late night, but getting an actual chassis/frame plus the wiring to work felt amazing. Really really simple build, put it together via an old ESP 32, ( after many cable, Bluetooth pairing, and firmware hassles ) archaic L298N motor driver, and for battery a basic series circuit to up the voltage ( don’t even have batteries sitting haha) I’ve been learning a ton from Practical Electronics for Inventors and The Art of Electronics, but I'm looking for what to tackle next. I’d love to hear your suggestions for: Books that bridge mechanical engineering and embedded systems. Courses on more advanced control (maybe leading into ROS 2?). I’ve played around built software applications with agentic workflows and played around w yolov8 as well. But definitely need more resources on robotics + AI. Let me know if you guys have any tips!!
+Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.
 
-17h ago
+🔗 [youtube.com](https://www.youtube.com/watch?v=QDU_FicBPDo) • 9h ago
 
 ---
 
@@ -114,11 +114,23 @@ First time posting here! Ive been messing around with my dad’s scraps for a wh
 
 ## Google News: "robotics"
 
+**[Serve Robotics vs. Teradyne: Which Robotics Stock Is the Better Buy?](https://www.zacks.com/stock/news/2825962/serve-robotics-vs-teradyne-which-robotics-stock-is-the-better-buy)**
+
+Zacks Investment Research • 2d ago
+
+---
+
+**[Canfield robotics team preps for competition](https://www.wkbn.com/news/local-news/canfield-news/canfield-robotics-team-preps-for-competition/)**
+
+WKBN.com • 13m ago
+
+---
+
 **[Elon Musk is stressing robots over cars. Here are three humanoid parts suppliers that Morgan Stanley recommends](https://www.cnbc.com/2026/02/01/musk-is-stressing-robots-over-cars-these-suppliers-make-humanoid-parts.html)**
 
 Morgan Stanley analysts highlight stocks of companies that sell specialized robotics parts.
 
-CNBC • 4h ago
+CNBC • 5h ago
 
 ---
 
@@ -126,43 +138,21 @@ CNBC • 4h ago
 
 Tesla’s pivot to producing humanoid robots is expected to engage a network of key Chinese component makers.
 
-South China Morning Post • 11h ago
+South China Morning Post • 12h ago
 
 ---
 
-**[China rolls out robot cops in cities to push humanoid robots in daily life](https://www.nbcnews.com/video/china-rolls-out-robot-cops-in-cities-to-push-humanoid-robots-in-daily-life-256872517804)**
+**[Tesla Reorients From Premium EVs To Optimus Robots And xAI Future](https://finance.yahoo.com/news/tesla-reorients-premium-evs-optimus-061806827.html)**
 
-China is deploying AI-powered robots to manage traffic and pedestrian flow in cities. NBC News’ Janis Mackey Frayer explains how China continues to advance robot technology and is pushing to integrate humanoid robots into daily life.
+Tesla is shifting away from Model S and Model X production to focus on mass manufacturing its Optimus humanoid robots, repurposing its California factory for this new line. The company is expanding its autonomous technology efforts and committing $2b to Elon Musk's AI startup xAI. Rumors are circulating about a potential merger between Tesla and either SpaceX or xAI, which could reshape the group structure around AI, robotics, and autonomy. Tesla, NasdaqGS:TSLA, is trading at $416.56, with...
 
-NBC News • 2d ago
-
----
-
-**[What evolving robot standards mean for implementations of cobots](https://www.therobotreport.com/evolving-robot-standards-mean-cobots-implementations/)**
-
-Changing robot standards provide an opportunity for designers of cobots to deliver improved safety and greater functionality, says IDEC.
-
-The Robot Report • 4h ago
-
----
-
-**[Serve Robotics vs. Teradyne: Which Robotics Stock Is the Better Buy?](https://www.zacks.com/stock/news/2825962/serve-robotics-vs-teradyne-which-robotics-stock-is-the-better-buy)**
-
-Zacks Investment Research • 2d ago
+Yahoo Finance • 2d ago
 
 ---
 
 **[Lightspeed Backs Robotics Startup in $100 Million Round](https://www.bloomberg.com/news/articles/2026-01-29/fiat-toyota-tycoons-back-startup-robco-in-100-million-round)**
 
 Bloomberg.com • 3d ago
-
----
-
-**[Into the Omniverse: Physical AI Open Models and Frameworks Advance Robots and Autonomous Systems](https://blogs.nvidia.com/blog/physical-ai-open-models-robot-autonomous-systems-omniverse/)**
-
-By providing access to critical infrastructure — from simulation frameworks to AI models — NVIDIA is enabling collaborative development that accelerates the path to safer, more capable autonomous systems.
-
-NVIDIA Blog • 3d ago
 
 ---
 
@@ -174,9 +164,17 @@ Everett Herald • 2d ago
 
 ---
 
+**[New York Robotics launches with 160 startups in its ecosystem](https://www.therobotreport.com/new-york-robotics-launches-160-startups-ecosystem/)**
+
+New York Robotics is launching with over 80 industry partners, 20 academic partners, 40 robotics labs, and over 300 venture capital partners.
+
+The Robot Report • 2d ago
+
+---
+
 **[AI Robotics Investment Opportunities Extend Beyond Big Tech](https://www.etftrends.com/disruptive-technology-content-hub/ai-robotics-investment-opportunities-extend-beyond-big-tech/)**
 
-ETF Trends • 1d ago
+ETF Trends • 2d ago
 
 ---
 
@@ -198,7 +196,7 @@ XPENG just took a massive step forward in humanoid robotics. The New IRON robot 
 
 📺 DPCcars
 
-👁️ 5K • 👍 73 • 💬 20 • ⏱️ 1:21 • 21h ago
+👁️ 5K • 👍 76 • 💬 20 • ⏱️ 1:21 • 22h ago
 
 ---
 
@@ -208,7 +206,7 @@ Humanoid robotics just took a massive leap into the real world. Researchers in C
 
 📺 AI Revolution
 
-👁️ 97K • 👍 1K • 💬 249 • ⏱️ 14:25 • 1d ago
+👁️ 103K • 👍 1K • 💬 257 • ⏱️ 14:25 • 1d ago
 
 ---
 
@@ -218,7 +216,7 @@ China is deploying AI-powered robots to manage traffic and pedestrian flow in ci
 
 📺 NBC News
 
-👁️ 675K • 👍 6K • 💬 2K • ⏱️ 3:13 • 2d ago
+👁️ 693K • 👍 6K • 💬 2K • ⏱️ 3:13 • 2d ago
 
 ---
 
@@ -228,7 +226,7 @@ This Robot Produces Speech the Human Way This system generates speech using phys
 
 📺 MrScoopz
 
-👁️ 20K • 👍 331 • 💬 9 • ⏱️ 0:05 • 3h ago
+👁️ 47K • 👍 2K • 💬 65 • ⏱️ 0:05 • 4h ago
 
 ---
 
@@ -238,7 +236,7 @@ Andrea Nakano reports on the Tesla Fremont factory ending Model S/X production a
 
 📺 KPIX | CBS NEWS BAY AREA
 
-👁️ 68K • 👍 568 • 💬 333 • ⏱️ 4:36 • 3d ago
+👁️ 68K • 👍 570 • 💬 333 • ⏱️ 4:36 • 3d ago
 
 ---
 
@@ -246,15 +244,7 @@ Andrea Nakano reports on the Tesla Fremont factory ending Model S/X production a
 
 📺 Ryan Shaw
 
-👁️ 3K • 👍 55 • 💬 3 • ⏱️ 1:03 • 14h ago
-
----
-
-**[Drag-and-drop welding robot.#industrial #welding #robot #spraying #stamping](https://www.youtube.com/watch?v=b8vufpXa21Q)**
-
-📺 Borunte Robot Lin 
-
-👁️ 32K • 👍 86 • ⏱️ 0:22 • 1d ago
+👁️ 4K • 👍 57 • 💬 3 • ⏱️ 1:03 • 15h ago
 
 ---
 
@@ -264,7 +254,15 @@ Make Your Own Cute Dasai Mochi Robot   | #ashwinprojects #AltiumStudentLab Accel
 
 📺 Ashwin Projects
 
-👁️ 447K • 👍 15K • 💬 86 • ⏱️ 1:49 • 4d ago
+👁️ 451K • 👍 15K • 💬 86 • ⏱️ 1:49 • 4d ago
+
+---
+
+**[Drag-and-drop welding robot.#industrial #welding #robot #spraying #stamping](https://www.youtube.com/watch?v=b8vufpXa21Q)**
+
+📺 Borunte Robot Lin 
+
+👁️ 32K • 👍 86 • ⏱️ 0:22 • 1d ago
 
 ---
 
@@ -284,7 +282,7 @@ ObstacleAvoidance #ArduinoRobot #Robotics #TechReels #DIYProjects.
 
 📺 Roboarmy
 
-👁️ 16K • 👍 246 • 💬 2 • ⏱️ 0:20 • 2d ago
+👁️ 16K • 👍 251 • 💬 2 • ⏱️ 0:20 • 2d ago
 
 ---
 

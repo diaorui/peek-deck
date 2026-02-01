@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-02-01T17:50:37.372030+00:00'
+updated: '2026-02-01T18:37:10.618561+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- videos
-- cryptocurrency
-- news
 - social
+- videos
+- news
+- cryptocurrency
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** February 01, 2026 at 17:50 UTC  
+**Last Updated:** February 01, 2026 at 18:37 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -36,33 +36,33 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Price
 
-### $2,308.20
+### $2,357.27
 
 ---
 
 ## Ethereum Chart
 
-**24h:** -3.0%  
-**7d:** -21.2%  
-**30d:** -26.2%  
-**90d:** -30.1%  
-**1y:** -19.4%  
+**24h:** -1.3%  
+**7d:** -19.5%  
+**30d:** -24.7%  
+**90d:** -28.7%  
+**1y:** -17.7%  
 
 ---
 
 ## Ethereum Market Stats
 
-**Market Cap:** $279.93B
+**Market Cap:** $284.36B
 Rank #2
 
 **Circulating Supply:** 120,693,815 ETH
 No max supply
 
 **All-Time High:** $4,946.05
--53.1%
+-52.4%
 
 **All-Time Low:** $0.43
-+535528.7%
++544074.2%
 
 ---
 
@@ -72,7 +72,7 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-11h ago
+12h ago
 
 ---
 
@@ -150,9 +150,9 @@ The Doots live stream is all about showcasing the best of the week from the Dail
 
 ## Google News: "ethereum"
 
-**[Bitcoin, XRP, Ethereum Fall on News of Kevin Warsh Fed Appointment.](https://www.barrons.com/articles/bitcoin-xrp-ethereum-crypto-today-954298d9?gaa_at=eafs&gaa_n=AWEtsqcHEmprnm8zkCCDVESsJhuSAd2uAFsdGZPIo9Tw4P5PxvV5vsqukBgr&gaa_ts=697f9009&gaa_sig=-ry_nA4lMcb2QcjDszoRVRr3mTwnDCI5PSlDFfTVcSfp8vwSf9j_WYc1aFXPJ2hdZvaUJtHsYnyxfssjmZ3kkQ%3D%3D)**
+**[Bitcoin, XRP, Ethereum Fall on News of Kevin Warsh Fed Appointment.](https://www.barrons.com/articles/bitcoin-xrp-ethereum-crypto-today-954298d9?gaa_at=eafs&gaa_n=AWEtsqft_afwyDjdtvu6nM7zgUxjU4uf7owkCr7_wKvTHH72v6LGfCPkh7iG&gaa_ts=697fa0c2&gaa_sig=l8kcyiwWJrJphn5mhYiQ6jNIdvEQyN9IscgzDI71WjRZRyoEMT2jNa4dFtAIjkg-zK1X78klFupbT8FbcMehKQ%3D%3D)**
 
-Barron's • 1d ago
+Barron's • 2d ago
 
 ---
 
@@ -160,7 +160,7 @@ Barron's • 1d ago
 
 Earlier in January, the Ethereum Foundation formally elevated post-quantum security to a strategic priority, creating a dedicated Post-Quantum team.
 
-CoinDesk • 2h ago
+CoinDesk • 3h ago
 
 ---
 
@@ -168,7 +168,7 @@ CoinDesk • 2h ago
 
 Ethereum faces heavy selling pressure as $2.8 billion whale distribution raises risks of a 16% price correction.
 
-Yahoo Finance • 22h ago
+Yahoo Finance • 23h ago
 
 ---
 
@@ -177,6 +177,12 @@ Yahoo Finance • 22h ago
 Ethereum Falls 10% In Selloff
 
 Investing.com • 1d ago
+
+---
+
+**[Key facts: Ethereum Drops 12.7% Amid Large Sales; Institutional Interest Grows](https://www.tradingview.com/news/tradingview:28b30d6b1c11d:0-key-facts-ethereum-drops-12-7-amid-large-sales-institutional-interest-grows/)**
+
+TradingView • 18h ago
 
 ---
 
@@ -200,23 +206,7 @@ The Motley Fool • 2d ago
 
 ETH plunges to $2,400 after heavy liquidations, with analysts warning a deeper move toward $1,435 is possible.
 
-Coinpaper • 22h ago
-
----
-
-**[Bitmine Investor Risk Focus After Leadership Exit And Ethereum Concentration](https://finance.yahoo.com/news/bitmine-investor-risk-focus-leadership-150932808.html)**
-
-Bitmine Immersion Technologies (NYSEAM:BMNR) has terminated President Erik Nelson without cause, with a board-approved severance package. The company now holds over 4.2 million ETH, more than 3.5% of total Ethereum supply, and recently staked upwards of 2.2 million ETH in a single day. These moves increase Bitmine's concentration in a single crypto asset and have raised questions about management stability and risk exposure. For investors tracking NYSEAM:BMNR, the timing of these shifts...
-
-Yahoo Finance • 2d ago
-
----
-
-**[Tom Lee’s BitMine is now down $6 billion on Ethereum (ether) bets](https://www.coindesk.com/markets/2026/02/01/bitmine-s-ether-bet-is-now-usd6-billion-in-paper-loss)**
-
-The firm’s recent ETH purchases came just ahead of a sharp market slide, pushing unrealized losses past $6 billion as liquidity thinned and liquidations picked up.
-
-CoinDesk • 10h ago
+Coinpaper • 23h ago
 
 ---
 
@@ -225,6 +215,14 @@ CoinDesk • 10h ago
 Bitcoin and Ethereum break key support as ETFs bleed, liquidations surge, and BitMine posts $6B+ losses. Is the selloff just beginning?
 
 CCN.com • 19h ago
+
+---
+
+**[Brock Pierce-backed Ethereum treasury firm Bit Digital to fully wind down bitcoin mining operations](https://www.theblock.co/post/387748/brock-pierce-ethereum-treasury-bit-digital-wind-down-bitcoin-mining)**
+
+Bit Digital entered the bitcoin mining business in 2020 and was an early diversifier into the HPC/AI sector.
+
+The Block • 2d ago
 
 ---
 
@@ -238,17 +236,7 @@ Ethereum has the strongest long-term narrative in crypto: tokenization, AI rails
 
 📺 Milk Road
 
-👁️ 501 • 👍 32 • 💬 29 • ⏱️ 15:51 • 3h ago
-
----
-
-**[ETHEREUM CRASH UPDATE🚨 (Ethereum Price Prediction 2026)](https://www.youtube.com/watch?v=3TzdUmlvU4M)**
-
-ETHEREUM ETH PRICE PREDICTION 2026 Join the Premium Signal Group for trade setups, mentorship & a community ...
-
-📺 Cilinix Crypto
-
-👁️ 500 • 👍 20 • 💬 2 • ⏱️ 5:13 • 5h ago
+👁️ 1K • 👍 80 • 💬 43 • ⏱️ 15:51 • 3h ago
 
 ---
 
@@ -258,7 +246,17 @@ This video provides a professional Elliott Wave and technical analysis of Ethere
 
 📺 More Crypto Online
 
-👁️ 2K • 👍 154 • 💬 7 • ⏱️ 8:33 • 4h ago
+👁️ 3K • 👍 190 • 💬 8 • ⏱️ 8:33 • 4h ago
+
+---
+
+**[ETHEREUM CRASH UPDATE🚨 (Ethereum Price Prediction 2026)](https://www.youtube.com/watch?v=3TzdUmlvU4M)**
+
+ETHEREUM ETH PRICE PREDICTION 2026 Join the Premium Signal Group for trade setups, mentorship & a community ...
+
+📺 Cilinix Crypto
+
+👁️ 832 • 👍 28 • 💬 2 • ⏱️ 5:13 • 6h ago
 
 ---
 
@@ -268,7 +266,7 @@ Nick Valdez looks at the latest market crash with the next level Bitcoin MUST ho
 
 📺 Discover Crypto
 
-👁️ 20K • 👍 727 • 💬 214 • ⏱️ 4:28 • 20h ago
+👁️ 21K • 👍 752 • 💬 243 • ⏱️ 4:28 • 21h ago
 
 ---
 
@@ -278,7 +276,7 @@ My FREE Daily On-Chain Analysis & Crypto News In 5-Mins: https://www.cryptonutsh
 
 📺 Jamie Tree 
 
-👁️ 3K • 👍 77 • 💬 63 • ⏱️ 18:25 • 1d ago
+👁️ 3K • 👍 78 • 💬 63 • ⏱️ 18:25 • 1d ago
 
 ---
 
@@ -288,7 +286,7 @@ Join Premium: https://the-bitcoin-strategy.com My Chart Software: https://the-bi
 
 📺 Gerhard - Bitcoin Strategy
 
-👁️ 7K • 👍 151 • 💬 49 • ⏱️ 7:13 • 1d ago
+👁️ 7K • 👍 156 • 💬 49 • ⏱️ 7:13 • 1d ago
 
 ---
 
@@ -298,27 +296,7 @@ Join Premium: https://the-bitcoin-strategy.com My Chart Software: https://the-bi
 
 📺 Crypto Moe
 
-👁️ 3K • 👍 270 • 💬 57 • ⏱️ 11:41 • 18h ago
-
----
-
-**[Cathie Wood: “This Is WHEN The 2026 Bull Run Starts” [New Bitcoin &amp; Ethereum Prediction 2026]](https://www.youtube.com/watch?v=xsRdyWYOUJA)**
-
-Join UpTrade today - Your personal crypto broker: https://www.uptrade.au/ My FREE Daily 5-Min Crypto Newsletter: ...
-
-📺 Crypto Nutshell
-
-👁️ 16K • 👍 457 • 💬 104 • ⏱️ 16:36 • 1d ago
-
----
-
-**[🚨 EMERGENCY UPDATE: CRYPTO CRASH INTENSIFIES! (Here&#39;s Why)](https://www.youtube.com/watch?v=ytTNgeSXztY)**
-
-EMERGENCY UPDATE: CRYPTO CRASH INTENSIFIES! (Here's Why) The crypto market is in FREEFALL, and the selling ...
-
-📺 Tim Warren
-
-👁️ 21K • 👍 1K • 💬 459 • ⏱️ 11:12 • 23h ago
+👁️ 3K • 👍 276 • 💬 74 • ⏱️ 11:41 • 19h ago
 
 ---
 
@@ -328,7 +306,27 @@ Take Control of Your Retirement — Grow Crypto & Gold Tax-Advantaged. https://w
 
 📺 Savvy Finance
 
-👁️ 10K • 👍 406 • 💬 20 • ⏱️ 20:55 • 17h ago
+👁️ 10K • 👍 422 • 💬 25 • ⏱️ 20:55 • 18h ago
+
+---
+
+**[🚨 EMERGENCY UPDATE: CRYPTO CRASH INTENSIFIES! (Here&#39;s Why)](https://www.youtube.com/watch?v=ytTNgeSXztY)**
+
+EMERGENCY UPDATE: CRYPTO CRASH INTENSIFIES! (Here's Why) The crypto market is in FREEFALL, and the selling ...
+
+📺 Tim Warren
+
+👁️ 22K • 👍 1K • 💬 510 • ⏱️ 11:12 • 1d ago
+
+---
+
+**[Cathie Wood: “This Is WHEN The 2026 Bull Run Starts” [New Bitcoin &amp; Ethereum Prediction 2026]](https://www.youtube.com/watch?v=xsRdyWYOUJA)**
+
+Join UpTrade today - Your personal crypto broker: https://www.uptrade.au/ My FREE Daily 5-Min Crypto Newsletter: ...
+
+📺 Crypto Nutshell
+
+👁️ 16K • 👍 463 • 💬 104 • ⏱️ 16:36 • 1d ago
 
 ---
 
