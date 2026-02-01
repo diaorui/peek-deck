@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-02-01T21:24:52.200082+00:00'
+updated: '2026-02-01T21:46:39.382874+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
+- videos
 - social
 - news
-- videos
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** February 01, 2026 at 21:24 UTC  
+**Last Updated:** February 01, 2026 at 21:46 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -66,7 +66,7 @@ Hello fellow roboticists, I have had a paper rejected from ICRA, and i'm plannin
 
 The real meat and potatoes: I made this as a modular brain for my other robots I built recently. Right now I’m building her a tiny combat robot body so I can’t wait to program her fight moves. Already slightly tested it but just to get her to stand in a T pose then relax all motors after 5 seconds to get an idea of how to map her body. That was when I used a pi zero tho so more work is definitely needed. After that I need to completely redesign her casing. It’s literally made from an outer frame I printed in a rush and a piece of plastic that held her oled screen in the packaging.
 
-23h ago
+1d ago
 
 ---
 
@@ -80,7 +80,7 @@ Young PhD in Computer vision / Robotics here. I have recently read a post of Mar
 
 **[How do you time go-to-market moves in industrial tech?](https://www.reddit.com/r/robotics/comments/1qta6br/how_do_you_time_gotomarket_moves_in_industrial/)**
 
-41m ago
+1h ago
 
 ---
 
@@ -130,7 +130,7 @@ NBC News • 2d ago
 
 Morgan Stanley analysts highlight stocks of companies that sell specialized robotics parts.
 
-CNBC • 7h ago
+CNBC • 8h ago
 
 ---
 

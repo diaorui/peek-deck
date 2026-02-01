@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-02-01T21:24:52.190927+00:00'
+updated: '2026-02-01T21:46:39.373730+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- social
-- news
-- cryptocurrency
 - videos
+- social
+- cryptocurrency
+- news
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** February 01, 2026 at 21:24 UTC  
+**Last Updated:** February 01, 2026 at 21:46 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -117,7 +117,7 @@ Best Case Scenario - BTC will test 92K, if it breaks it will set a new ATH. Wors
 
 Got my mining rig working overtime today!
 
-3h ago
+4h ago
 
 ---
 
@@ -283,7 +283,7 @@ Examine why the Binance SAFU fund debate keeps resurfacing, how stablecoins sign
 
 Bitcoin plunged to a two-month low Thursday as risk-on assets broadly fell—and even gold and silver gave up earlier gains.
 
-⬆️ 1 • 💬 0 • 2d ago • [Decrypt](https://decrypt.co/356330/bitcoin-2-month-low-gold-stocks-give-up-gains-crypto-liquidations-800m)
+⬆️ 1 • 💬 0 • 3d ago • [Decrypt](https://decrypt.co/356330/bitcoin-2-month-low-gold-stocks-give-up-gains-crypto-liquidations-800m)
 
 ---
 
@@ -329,7 +329,7 @@ When Will the Current U.S. Government Shutdown End?
 
 📺 CryptosRUs
 
-👁️ 71K • 👍 3K • 💬 1K • ⏱️ 11:12 • 19h ago
+👁️ 71K • 👍 3K • 💬 1K • ⏱️ 11:12 • 20h ago
 
 ---
 
@@ -379,7 +379,7 @@ Today is a stable day ( so far) with bitcoin at 77k but alts dumping even more. 
 
 📺 Digital Asset News
 
-👁️ 5K • 👍 400 • 💬 43 • ⏱️ 40:04 • 2h ago
+👁️ 5K • 👍 400 • 💬 43 • ⏱️ 40:04 • 3h ago
 
 ---
 
