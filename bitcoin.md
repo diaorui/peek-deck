@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-02-01T09:33:05.454553+00:00'
+updated: '2026-02-01T10:27:44.402463+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- cryptocurrency
 - news
-- videos
+- cryptocurrency
 - social
+- videos
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** February 01, 2026 at 09:33 UTC  
+**Last Updated:** February 01, 2026 at 10:27 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,7 +38,7 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $78,260.27
+### $79,069.43
 
 ---
 
@@ -81,7 +81,7 @@ Rank #1
 
 Took advantage of the plummet to get myself over the 0.5 mark!! I know this is small for some and big for others, but I’m quite happy with this! Just wanted to share with others who’d understand - nobody in my life cares lol.
 
-10h ago
+11h ago
 
 ---
 
@@ -89,19 +89,19 @@ Took advantage of the plummet to get myself over the 0.5 mark!! I know this is s
 
 Seriously, been holding for so long any time bitcoin falls, I don’t feel anything. Not sure why people are freaking out as usual. I only buy, Bitcoin doesn’t inflate, dollar inflates. Those who are selling, thanks for making Bitcoin cheaper for me. I don’t mind buying yours too.
 
-11h ago
+12h ago
 
 ---
 
 **[Evergreen just like BTC!](https://www.reddit.com/r/Bitcoin/comments/1qs6sj1/evergreen_just_like_btc/)**
 
-17h ago
+18h ago
 
 ---
 
 **[Buy Now](https://www.reddit.com/r/Bitcoin/comments/1qs9mvq/buy_now/)**
 
-15h ago
+16h ago
 
 ---
 
@@ -109,25 +109,25 @@ Seriously, been holding for so long any time bitcoin falls, I don’t feel anyth
 
 I'm not wasting these cheap stacks. HODL and BUY!
 
-15h ago
+16h ago
 
 ---
 
 **[Today’s message…](https://www.reddit.com/r/Bitcoin/comments/1qscx1s/todays_message/)**
 
-13h ago
+14h ago
 
 ---
 
 **[I’m done](https://www.reddit.com/r/Bitcoin/comments/1qsaxev/im_done/)**
 
-14h ago
+15h ago
 
 ---
 
 **[DOING MY PART](https://www.reddit.com/r/Bitcoin/comments/1qsd85h/doing_my_part/)**
 
-13h ago
+14h ago
 
 ---
 
@@ -135,7 +135,7 @@ I'm not wasting these cheap stacks. HODL and BUY!
 
 Wasn't my original plan actually, but the blood is splattering so much that there's no other way.
 
-12h ago
+13h ago
 
 ---
 
@@ -155,13 +155,13 @@ Anyone that’s “done with bitcoin” never actually understood bitcoin in the
 
 Bitcoin price dipped below $80k as 335,000 new wallets signal rising adoption despite short-term BTC price weakness.
 
-Yahoo Finance • 15h ago
+Yahoo Finance • 16h ago
 
 ---
 
 **[Bitcoin Drops Below $78,000 After Trump Taps Kevin Warsh To Lead Federal Reserve](https://www.forbes.com/sites/mikestunson/2026/01/31/bitcoin-is-dropping-fast-heres-why-it-dropped-below-78000/)**
 
-Forbes • 11h ago
+Forbes • 12h ago
 
 ---
 
@@ -181,7 +181,7 @@ Bloomberg.com • 1d ago
 
 The strongest bulls take the time to learn the opposite point of view.
 
-Yahoo Finance • 17h ago
+Yahoo Finance • 18h ago
 
 ---
 
@@ -189,7 +189,7 @@ Yahoo Finance • 17h ago
 
 The main impact of the price decline is slowing Strategy's ability to buy more bitcoin without diluting shareholders, as its stock now trades at a discount to its bitcoin holdings.
 
-CoinDesk • 12h ago
+CoinDesk • 13h ago
 
 ---
 
@@ -231,7 +231,7 @@ CryptoSlate • 12h ago
 
 **[Bitcoin Looks Set for Longest Monthly Losing Streak Since 2018](https://news.ycombinator.com/item?id=46838644)**
 
-⬆️ 65 • 💬 62 • 16h ago • [bloomberg.com](https://www.bloomberg.com/news/articles/2026-01-30/bitcoin-btc-slides-toward-longest-monthly-losing-streak-since-2018)
+⬆️ 66 • 💬 62 • 17h ago • [bloomberg.com](https://www.bloomberg.com/news/articles/2026-01-30/bitcoin-btc-slides-toward-longest-monthly-losing-streak-since-2018)
 
 ---
 
@@ -255,7 +255,7 @@ A list of known attacks against Bitcoin / crypto asset owning entities that occu
 
 PoW + EVM cryptocurrency. 21M fixed supply, fair launch, no team, no foundation. Just code. - lumenyx-chain/lumenyx
 
-⬆️ 1 • 💬 0 • 20h ago • [GitHub](https://github.com/lumenyx-chain/lumenyx)
+⬆️ 1 • 💬 0 • 21h ago • [GitHub](https://github.com/lumenyx-chain/lumenyx)
 
 ---
 
@@ -313,7 +313,7 @@ LIMITED TIME: ✓ Bitunix (no kyc, $10k bonus): https://www.bitunix.com/register
 
 📺 Altcoin Daily
 
-👁️ 55K • 👍 3K • 💬 285 • ⏱️ 9:24 • 9h ago
+👁️ 55K • 👍 3K • 💬 285 • ⏱️ 9:24 • 10h ago
 
 ---
 
@@ -333,7 +333,7 @@ This isn't looking good iTrust Capital – $100 Bonus (Crypto IRA & Custody Acco
 
 📺 Aaron Bennett
 
-👁️ 11K • 👍 594 • 💬 123 • ⏱️ 10:16 • 5h ago
+👁️ 11K • 👍 594 • 💬 123 • ⏱️ 10:16 • 6h ago
 
 ---
 
@@ -343,7 +343,7 @@ Let's provide a Bitcoin damage report. Into The Cryptoverse Premium: https://int
 
 📺 Benjamin Cowen
 
-👁️ 28K • 👍 3K • 💬 153 • ⏱️ 31:15 • 4h ago
+👁️ 28K • 👍 3K • 💬 153 • ⏱️ 31:15 • 5h ago
 
 ---
 
@@ -353,7 +353,7 @@ Take Control of Your Retirement — Grow Crypto & Gold Tax-Advantaged. https://w
 
 📺 Savvy Finance
 
-👁️ 7K • 👍 302 • 💬 16 • ⏱️ 20:55 • 9h ago
+👁️ 7K • 👍 302 • 💬 16 • ⏱️ 20:55 • 10h ago
 
 ---
 
@@ -373,7 +373,7 @@ Why the Crypto Market Is Red (It s NOT the Reason You Think)! Breaking Crypto Ne
 
 📺 Austin Hilton
 
-👁️ 30K • 👍 941 • 💬 217 • ⏱️ 9:28 • 17h ago
+👁️ 30K • 👍 941 • 💬 217 • ⏱️ 9:28 • 18h ago
 
 ---
 
@@ -383,7 +383,7 @@ The 'Path of Least Resistance' is currently straight down, and the stock market 
 
 📺 Gareth Soloway
 
-👁️ 85K • 👍 6K • 💬 884 • ⏱️ 12:26 • 15h ago
+👁️ 85K • 👍 6K • 💬 884 • ⏱️ 12:26 • 16h ago
 
 ---
 
@@ -393,7 +393,7 @@ Bitcoin plunges under $80000 as geopolitical risks deepens amid U.S-Iran tension
 
 📺 Ricky Gutierrez
 
-👁️ 22K • 👍 694 • 💬 330 • ⏱️ 6:53 • 14h ago
+👁️ 22K • 👍 694 • 💬 330 • ⏱️ 6:53 • 15h ago
 
 ---
 
@@ -401,7 +401,7 @@ Bitcoin plunges under $80000 as geopolitical risks deepens amid U.S-Iran tension
 
 📺 Happy Jewelers
 
-👁️ 12K • 👍 434 • 💬 24 • ⏱️ 0:48 • 14h ago
+👁️ 12K • 👍 434 • 💬 24 • ⏱️ 0:48 • 15h ago
 
 ---
 
