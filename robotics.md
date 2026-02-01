@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-02-01T20:28:38.078325+00:00'
+updated: '2026-02-01T20:53:19.907339+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
+- social
 - videos
 - news
-- social
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** February 01, 2026 at 20:28 UTC  
+**Last Updated:** February 01, 2026 at 20:53 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -66,7 +66,7 @@ Hello fellow roboticists, I have had a paper rejected from ICRA, and i'm plannin
 
 The real meat and potatoes: I made this as a modular brain for my other robots I built recently. Right now I’m building her a tiny combat robot body so I can’t wait to program her fight moves. Already slightly tested it but just to get her to stand in a T pose then relax all motors after 5 seconds to get an idea of how to map her body. That was when I used a pi zero tho so more work is definitely needed. After that I need to completely redesign her casing. It’s literally made from an outer frame I printed in a rush and a piece of plastic that held her oled screen in the packaging.
 
-22h ago
+23h ago
 
 ---
 
@@ -75,6 +75,12 @@ The real meat and potatoes: I made this as a modular brain for my other robots I
 Young PhD in Computer vision / Robotics here. I have recently read a post of Marie-Anne Lachaux, founding engineer of Llama and Mistral AI, talking about keys of success in research. One of them was « Have good intuition » to reduce the world of possibilities and dig into the right direction. How do you develop this intuition in research, especially in AI and Robotics?
 
 7h ago
+
+---
+
+**[How do you time go-to-market moves in industrial tech?](https://www.reddit.com/r/robotics/comments/1qta6br/how_do_you_time_gotomarket_moves_in_industrial/)**
+
+9m ago
 
 ---
 
@@ -102,14 +108,6 @@ Hi, I’m working on a repurposed electric wheelchair chassis (>100 kg, high-tor
 
 ---
 
-**[XPENG IRON first public appearance since its release last November](https://www.reddit.com/r/robotics/comments/1qryyxx/xpeng_iron_first_public_appearance_since_its/)**
-
-From: CyberRobo on 𝕏: https://x.com/CyberRobooo/status/2017544750694551618 RoboHub🤖 on 𝕏 (images): https://x.com/XRoboHub/status/2017541654173851909
-
-1d ago
-
----
-
 ---
 
 ## Google News: "robotics"
@@ -120,11 +118,19 @@ Zacks Investment Research • 2d ago
 
 ---
 
+**[China rolls out robot cops in cities to push humanoid robots in daily life](https://www.nbcnews.com/video/china-rolls-out-robot-cops-in-cities-to-push-humanoid-robots-in-daily-life-256872517804)**
+
+China is deploying AI-powered robots to manage traffic and pedestrian flow in cities. NBC News’ Janis Mackey Frayer explains how China continues to advance robot technology and is pushing to integrate humanoid robots into daily life.
+
+NBC News • 2d ago
+
+---
+
 **[Elon Musk is stressing robots over cars. Here are three humanoid parts suppliers that Morgan Stanley recommends](https://www.cnbc.com/2026/02/01/musk-is-stressing-robots-over-cars-these-suppliers-make-humanoid-parts.html)**
 
 Morgan Stanley analysts highlight stocks of companies that sell specialized robotics parts.
 
-CNBC • 6h ago
+CNBC • 7h ago
 
 ---
 
@@ -133,14 +139,6 @@ CNBC • 6h ago
 Tesla’s pivot to producing humanoid robots is expected to engage a network of key Chinese component makers.
 
 South China Morning Post • 14h ago
-
----
-
-**[China rolls out robot cops in cities to push humanoid robots in daily life](https://www.nbcnews.com/video/china-rolls-out-robot-cops-in-cities-to-push-humanoid-robots-in-daily-life-256872517804)**
-
-China is deploying AI-powered robots to manage traffic and pedestrian flow in cities. NBC News’ Janis Mackey Frayer explains how China continues to advance robot technology and is pushing to integrate humanoid robots into daily life.
-
-NBC News • 2d ago
 
 ---
 
@@ -155,12 +153,6 @@ Bloomberg.com • 3d ago
 Team Arsenic took second place at the recent ROBO-BASH in Bellingham, earning fifth place in the world.
 
 Everett Herald • 2d ago
-
----
-
-**[Canfield robotics team preps for competition](https://www.wkbn.com/news/local-news/canfield-news/canfield-robotics-team-preps-for-competition/)**
-
-WKBN.com • 2h ago
 
 ---
 
@@ -186,6 +178,12 @@ Nature • 2d ago
 
 ---
 
+**[Canfield robotics team preps for competition](https://www.wkbn.com/news/local-news/canfield-news/canfield-robotics-team-preps-for-competition/)**
+
+WKBN.com • 2h ago
+
+---
+
 ---
 
 ## YouTube Videos: "robotics"
@@ -196,7 +194,7 @@ XPENG just took a massive step forward in humanoid robotics. The New IRON robot 
 
 📺 DPCcars
 
-👁️ 5K • 👍 76 • 💬 20 • ⏱️ 1:21 • 1d ago
+👁️ 6K • 👍 82 • 💬 22 • ⏱️ 1:21 • 1d ago
 
 ---
 
@@ -206,7 +204,7 @@ Humanoid robotics just took a massive leap into the real world. Researchers in C
 
 📺 AI Revolution
 
-👁️ 103K • 👍 1K • 💬 257 • ⏱️ 14:25 • 1d ago
+👁️ 109K • 👍 1K • 💬 266 • ⏱️ 14:25 • 1d ago
 
 ---
 
@@ -216,17 +214,17 @@ China is deploying AI-powered robots to manage traffic and pedestrian flow in ci
 
 📺 NBC News
 
-👁️ 693K • 👍 6K • 💬 2K • ⏱️ 3:13 • 2d ago
+👁️ 710K • 👍 6K • 💬 2K • ⏱️ 3:13 • 2d ago
 
 ---
 
-**[This Robot Produces Speech the Human Way 😮](https://www.youtube.com/watch?v=L0M5fs_phpA)**
+**[Introducing Helix 02](https://www.youtube.com/watch?v=lQsvTrRTBRs)**
 
-This Robot Produces Speech the Human Way This system generates speech using physical movement rather than digital ...
+Last year, Helix showed that a single neural network could control a humanoid's upper body from pixels. Today, Helix 02 extends ...
 
-📺 MrScoopz
+📺 Figure
 
-👁️ 47K • 👍 2K • 💬 65 • ⏱️ 0:05 • 6h ago
+👁️ 213K • 👍 12K • 💬 2K • ⏱️ 3:37 • 5d ago
 
 ---
 
@@ -236,7 +234,17 @@ Andrea Nakano reports on the Tesla Fremont factory ending Model S/X production a
 
 📺 KPIX | CBS NEWS BAY AREA
 
-👁️ 68K • 👍 570 • 💬 333 • ⏱️ 4:36 • 3d ago
+👁️ 68K • 👍 573 • 💬 335 • ⏱️ 4:36 • 3d ago
+
+---
+
+**[🔬 Sony’s Microsurgery Robot Prototype: Scaled Hand Control, Auto Tool Swaps, and 4K Precision](https://www.youtube.com/watch?v=OsEDfzhhAiA)**
+
+This is Sony's prototype microsurgery assistance robot, designed for operations where human hands reach their physical limits.
+
+📺 Fact
+
+👁️ 5K • 👍 91 • 💬 4 • ⏱️ 0:06 • 4h ago
 
 ---
 
@@ -244,7 +252,7 @@ Andrea Nakano reports on the Tesla Fremont factory ending Model S/X production a
 
 📺 Ryan Shaw
 
-👁️ 4K • 👍 57 • 💬 3 • ⏱️ 1:03 • 17h ago
+👁️ 5K • 👍 59 • 💬 3 • ⏱️ 1:03 • 17h ago
 
 ---
 
@@ -254,7 +262,17 @@ Make Your Own Cute Dasai Mochi Robot   | #ashwinprojects #AltiumStudentLab Accel
 
 📺 Ashwin Projects
 
-👁️ 451K • 👍 15K • 💬 86 • ⏱️ 1:49 • 4d ago
+👁️ 454K • 👍 15K • 💬 86 • ⏱️ 1:49 • 4d ago
+
+---
+
+**[This Robot Produces Speech the Human Way 😮](https://www.youtube.com/watch?v=L0M5fs_phpA)**
+
+This Robot Produces Speech the Human Way This system generates speech using physical movement rather than digital ...
+
+📺 MrScoopz
+
+👁️ 148K • 👍 2K • 💬 95 • ⏱️ 0:05 • 6h ago
 
 ---
 
@@ -263,26 +281,6 @@ Make Your Own Cute Dasai Mochi Robot   | #ashwinprojects #AltiumStudentLab Accel
 📺 Borunte Robot Lin 
 
 👁️ 32K • 👍 86 • ⏱️ 0:22 • 1d ago
-
----
-
-**[Why AI Pizza Machines Are Actually Worrying Workers 🍕](https://www.youtube.com/watch?v=U7tlOl7s3ns)**
-
-Some people are getting concerned because automatic AI pizza-making machines are slowly appearing on streets worldwide.
-
-📺 Taylor Jollie
-
-👁️ 22K • 👍 117 • 💬 12 • ⏱️ 0:19 • 3d ago
-
----
-
-**[Robot that thinks 😳🤖Detects obstacles &amp; changes path automatically #roboarmy #arduinoprojects](https://www.youtube.com/watch?v=d_sDSfkI8ug)**
-
-ObstacleAvoidance #ArduinoRobot #Robotics #TechReels #DIYProjects.
-
-📺 Roboarmy
-
-👁️ 16K • 👍 251 • 💬 2 • ⏱️ 0:20 • 2d ago
 
 ---
 

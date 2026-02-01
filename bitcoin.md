@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-02-01T20:28:38.069279+00:00'
+updated: '2026-02-01T20:53:19.897971+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- cryptocurrency
+- social
 - videos
 - news
-- social
+- cryptocurrency
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** February 01, 2026 at 20:28 UTC  
+**Last Updated:** February 01, 2026 at 20:53 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,33 +38,33 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $77,636.24
+### $77,213.24
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** -0.7%  
-**7d:** -12.3%  
-**30d:** -14.6%  
-**90d:** -23.8%  
-**1y:** -20.7%  
+**24h:** -1.2%  
+**7d:** -12.4%  
+**30d:** -14.7%  
+**90d:** -24.0%  
+**1y:** -20.8%  
 
 ---
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1560.33B
+**Market Cap:** $1542.81B
 Rank #1
 
 **Circulating Supply:** 19,982,656 BTC
 95.2% of max
 
 **All-Time High:** $126,080.00
--38.1%
+-38.8%
 
 **All-Time Low:** $67.81
-+115051.2%
++113762.3%
 
 ---
 
@@ -93,11 +93,17 @@ Told myself I'd buy if it dropped below 80k. So putting my money where my mouth 
 
 ---
 
+**[Wipe away those tears and just enjoy the ride](https://www.reddit.com/r/Bitcoin/comments/1qt42s7/wipe_away_those_tears_and_just_enjoy_the_ride/)**
+
+3h ago
+
+---
+
 **[Hear Me Out](https://www.reddit.com/r/Bitcoin/comments/1qsuecx/hear_me_out/)**
 
 Best Case Scenario - BTC will test 92K, if it breaks it will set a new ATH. Worst Case Scenario - If it loses 50K support, cheap BTC incoming. Regardless, in my experience (since 2015), unless you are an extremely smart person with excellent TA skills supported by a crystal ball, u cannot time the market. DCA, ignore your short term losses. Overall, you will make it. In 2017, I lost a significant amount of money. In 2021, I made a decent profit. I didn’t exit, continue to DCA. Thats my forever strategy that always pays on the long run. Ignore hopium and negative comments. Focus on your bag. Don’t FOMO, don’t panic sell. Aim for profits. Edit: This post is not intended to give anyone any advice. Also, this is not a price prediction. We are all responsible adults who can think and make decisions. This post is intended to provide reassurances to those that might feel worried. I am in no position to provide financial help and guidance. However, I can humbly share my own experiences to comfort new traders.
 
-10h ago
+11h ago
 
 ---
 
@@ -107,7 +113,9 @@ Best Case Scenario - BTC will test 92K, if it breaks it will set a new ATH. Wors
 
 ---
 
-**[Wipe away those tears and just enjoy the ride](https://www.reddit.com/r/Bitcoin/comments/1qt42s7/wipe_away_those_tears_and_just_enjoy_the_ride/)**
+**[Bitcoin Miner](https://www.reddit.com/r/Bitcoin/comments/1qt51op/bitcoin_miner/)**
+
+Got my mining rig working overtime today!
 
 3h ago
 
@@ -124,14 +132,6 @@ Best Case Scenario - BTC will test 92K, if it breaks it will set a new ATH. Wors
 I'm not wasting these cheap stacks. HODL and BUY!
 
 1d ago
-
----
-
-**[Bitcoin Miner](https://www.reddit.com/r/Bitcoin/comments/1qt51op/bitcoin_miner/)**
-
-Got my mining rig working overtime today!
-
-2h ago
 
 ---
 
@@ -169,23 +169,9 @@ Yahoo Finance • 1d ago
 
 ---
 
-**[MicroStrategy Doubles Down on Bitcoin Despite Recent Price Struggles](https://finance.yahoo.com/news/microstrategy-doubles-down-bitcoin-despite-164629984.html)**
-
-Michael Saylor's Strategy signaled it plans to keep buying Bitcoin even as its roughly stash sits only above its average purchase price,
-
-Yahoo Finance • 3h ago
-
----
-
 **[Bitcoin Drops Below $78,000 After Trump Taps Kevin Warsh To Lead Federal Reserve](https://www.forbes.com/sites/mikestunson/2026/01/31/bitcoin-is-dropping-fast-heres-why-it-dropped-below-78000/)**
 
 Forbes • 22h ago
-
----
-
-**[Bitcoin, XRP, Ethereum Fall on News of Kevin Warsh Fed Appointment.](https://www.barrons.com/articles/bitcoin-xrp-ethereum-crypto-today-954298d9?gaa_at=eafs&gaa_n=AWEtsqf8ot_r7ka2l27ctgQjODoFUVGbA80Cf9wtNUt0J0ThgiGmsHiAWJD0&gaa_ts=697fb0e0&gaa_sig=epgF5JZBSfGGEsuAHBG6ysgdM9Pj97gkxGogXq4SJ_WrtZGb7WmP48YjtHBxbSVfB1rIkrqFAThvsI8lTfBYLA%3D%3D)**
-
-Barron's • 2d ago
 
 ---
 
@@ -197,6 +183,14 @@ Yahoo Finance • 2d ago
 
 ---
 
+**[Trump Announces Kevin Warsh As Fed Chair Nominee—Why Did Bitcoin Dump To $83,000?](https://finance.yahoo.com/news/trump-announces-kevin-warsh-fed-153214039.html)**
+
+President Trump on Friday announced Kevin Warsh as his nominee to succeed Jerome Powell as Chair of the Federal Reserve, yet Bitcoin (CRYPTO: BTC) plunged below $83,000 on the news. Warsh Nomination Shifts Macro Interpretation Technical analyst Kyledoops said a Warsh-led Fed would fundamentally change how markets interpret policy signals, given his reputation as an inflation hawk and strong-dollar advocate. "If Warsh even hints at easing, it would be taken as genuinely meaningful," Kyledoops not
+
+Yahoo Finance • 1d ago
+
+---
+
 **[JPMorgan says bitcoin futures oversold as silver flips overbought, sees $8,500 gold long term](https://www.theblock.co/post/387893/jpmorgan-bitcoin-gold-silver-8500-long-term)**
 
 Indeed, since the JPMorgan report was published on Wednesday, both silver and gold have pulled back from recent highs.
@@ -205,27 +199,35 @@ The Block • 2d ago
 
 ---
 
-**[The crypto industry used to store Bitcoin in Swiss vaults. Now one firm is using vaults to hold gold instead](https://fortune.com/2026/01/30/the-crypto-industry-used-to-store-bitcoin-in-swiss-vaults-now-one-firm-is-using-vaults-to-hold-gold-instead/)**
+**[Bitcoin’s freefall approaches $80,000 as precious metals also tank](https://fortune.com/2026/01/30/bitcoin-price-today-ethereum-gold-silver-platinum-copper/)**
 
-The CEO of Tether called the bunker ‘a James Bond kind of place.’
+The world’s largest cryptocurrency is down 2% over the past day while gold and silver have dropped 11% and 30%, respectively.
 
 Fortune • 2d ago
 
 ---
 
-**[The Bitcoin Sell-Off Is Getting Worse, but That Won't Stop Me From Buying Even More](https://www.fool.com/investing/2026/01/30/the-bitcoin-sell-off-is-getting-worse-but-it-wont/)**
+**[How does a weaker dollar impact gold and Bitcoin?](https://www.investing.com/news/commodities-news/how-does-a-weaker-dollar-impact-gold-and-bitcoin-4471026)**
 
-It's reasonable to say that this coin isn't behaving like a safe harbor asset right now.
+How does a weaker dollar impact gold and Bitcoin?
 
-The Motley Fool • 2d ago
+Investing.com • 11h ago
 
 ---
 
-**[Where is Donald Trump’s strategic Bitcoin reserve?](https://www.fastcompany.com/91482053/where-is-donald-trumps-strategic-bitcoin-reserve)**
+**[What price will Bitcoin hit in January? Betting Odds & Predictions](https://polymarket.com/event/what-price-will-bitcoin-hit-in-january-2026)**
 
-The government seems to be amassing more Bitcoin. But little work seems to be happening to enact the terms of the executive order Trump signed to start the 'strategic reserve.'
+View real-time odds on "What price will Bitcoin hit in January?" as of January 30, 2026, and trade on The World's Largest Prediction Market™
 
-Fast Company • 3d ago
+Polymarket • 1mo ago
+
+---
+
+**[Fear that quantum computing is on the cusp of cracking cryptocurrency's encryption spurs a global investment firm to remove Bitcoin from recommendations](https://www.tomshardware.com/tech-industry/cryptocurrency/fear-that-quantum-computing-on-the-cusp-of-cracking-cryptocurrencys-encryption-spurs-a-global-investment-firm-to-remove-bitcoin-from-recommendations)**
+
+The firm's senior financial strategist is concerned the advancements in the field of quantum computing will break Bitcoin.
+
+Tom's Hardware • 14d ago
 
 ---
 
@@ -235,7 +237,7 @@ Fast Company • 3d ago
 
 **[Bitcoin Looks Set for Longest Monthly Losing Streak Since 2018](https://news.ycombinator.com/item?id=46838644)**
 
-⬆️ 68 • 💬 75 • 1d ago • [bloomberg.com](https://www.bloomberg.com/news/articles/2026-01-30/bitcoin-btc-slides-toward-longest-monthly-losing-streak-since-2018)
+⬆️ 68 • 💬 76 • 1d ago • [bloomberg.com](https://www.bloomberg.com/news/articles/2026-01-30/bitcoin-btc-slides-toward-longest-monthly-losing-streak-since-2018)
 
 ---
 
@@ -311,33 +313,13 @@ Transform HN comment threads into executive intelligence. AI analyzes discussion
 
 ## YouTube Videos: "bitcoin"
 
-**[Bitcoin... This Is What&#39;s Happening (HUGE SELLOFF)](https://www.youtube.com/watch?v=pSZzzelGpK8)**
-
-This isn't looking good iTrust Capital – $100 Bonus (Crypto IRA & Custody Accounts) ...
-
-📺 Aaron Bennett
-
-👁️ 27K • 👍 1K • 💬 292 • ⏱️ 10:16 • 16h ago
-
----
-
-**[&quot;Bitcoin Is Being Weaponized &amp; Nobody Understands What Happens Next&quot;  | Zac Prince](https://www.youtube.com/watch?v=ANAS48lGp-o)**
-
-Bitcoin #Crypto #Finance Bitcoin didn't just survive the last cycle — it was reshaped by it. In this conversation, we break down how ...
-
-📺 The Wolf Of All Streets
-
-👁️ 8K • 👍 500 • 💬 263 • ⏱️ 53:57 • 6h ago
-
----
-
 **[The Actual Reason Bitcoin Is Crashing (you won&#39;t believe)](https://www.youtube.com/watch?v=rlvplss4VoM)**
 
 LIMITED TIME: ✓ Bitunix (no kyc, $10k bonus): https://www.bitunix.com/register?vipCode=AltcoinDaily 50% deposit bonus on ...
 
 📺 Altcoin Daily
 
-👁️ 85K • 👍 4K • 💬 395 • ⏱️ 9:24 • 20h ago
+👁️ 91K • 👍 4K • 💬 444 • ⏱️ 9:24 • 20h ago
 
 ---
 
@@ -347,47 +329,17 @@ When Will the Current U.S. Government Shutdown End?
 
 📺 CryptosRUs
 
-👁️ 67K • 👍 3K • 💬 995 • ⏱️ 11:12 • 18h ago
+👁️ 71K • 👍 3K • 💬 1K • ⏱️ 11:12 • 19h ago
 
 ---
 
-**[Live Trading! MASSIVE RED FLAGS! |  Bitcoin, Gold &amp; Silver &amp; MORE!](https://www.youtube.com/watch?v=pZXznRPuNZQ)**
+**[Bitcoin... This Is What&#39;s Happening (HUGE SELLOFF)](https://www.youtube.com/watch?v=pSZzzelGpK8)**
 
-ANTARCTIC EXCHANGE LOWEST FEES!   https://partner.antarctic.live/code/JaysonCasper Trade SILVER GOLD STOCKS ...
+This isn't looking good iTrust Capital – $100 Bonus (Crypto IRA & Custody Accounts) ...
 
-📺 Jayson Casper
+📺 Aaron Bennett
 
-👁️ 3K • 👍 373 • 3h ago
-
----
-
-**[Bitcoin: Damage Report](https://www.youtube.com/watch?v=yLhApa2vv3s)**
-
-Let's provide a Bitcoin damage report. Into The Cryptoverse Premium: https://intothecryptoverse.com For inquiries: ...
-
-📺 Benjamin Cowen
-
-👁️ 98K • 👍 6K • 💬 372 • ⏱️ 31:15 • 15h ago
-
----
-
-**[Fidelity Just EXPOSED Crypto&#39;s Biggest Secret [Not What You Think]](https://www.youtube.com/watch?v=cuhz-DHuqVw)**
-
-Let's be honest, most people were more than happy to slam the door on 2025. On paper, it had all the ingredients for a breakout ...
-
-📺 Coin Bureau
-
-👁️ 25K • 👍 1K • 💬 83 • ⏱️ 21:27 • 7h ago
-
----
-
-**[Michael Saylor on Bitcoin Crash &amp; MSTR Stock Drop – BTC Price Analysis](https://www.youtube.com/watch?v=LsRgDuLgyMU)**
-
-BTC #Bitcoin #Cryptocurrency Join Michael Saylor for his unforgettable keynote at the Bitcoin Conference. The leading Bitcoin ...
-
-📺 TheGameBoyGeek - Hi Quality Hi Energy Board Game Reviews
-
-👁️ 76K • 👍 8K • 15h ago
+👁️ 30K • 👍 1K • 💬 381 • ⏱️ 10:16 • 16h ago
 
 ---
 
@@ -397,7 +349,37 @@ Watch my free masterclass & get Market Briefs as a bonus: https://briefs.finance
 
 📺 Minority Mindset
 
-👁️ 318K • 👍 11K • 💬 2K • ⏱️ 14:10 • 1d ago
+👁️ 332K • 👍 12K • 💬 2K • ⏱️ 14:10 • 1d ago
+
+---
+
+**[&quot;Bitcoin Is Being Weaponized &amp; Nobody Understands What Happens Next&quot;  | Zac Prince](https://www.youtube.com/watch?v=ANAS48lGp-o)**
+
+Bitcoin #Crypto #Finance Bitcoin didn't just survive the last cycle — it was reshaped by it. In this conversation, we break down how ...
+
+📺 The Wolf Of All Streets
+
+👁️ 12K • 👍 606 • 💬 254 • ⏱️ 53:57 • 6h ago
+
+---
+
+**[Bitcoin: Damage Report](https://www.youtube.com/watch?v=yLhApa2vv3s)**
+
+Let's provide a Bitcoin damage report. Into The Cryptoverse Premium: https://intothecryptoverse.com For inquiries: ...
+
+📺 Benjamin Cowen
+
+👁️ 110K • 👍 7K • 💬 404 • ⏱️ 31:15 • 15h ago
+
+---
+
+**[How LOW Can Bitcoin &amp; Alts Go?!? w/ Jerry V. Hall](https://www.youtube.com/watch?v=W2lj5KjrUlk)**
+
+Today is a stable day ( so far) with bitcoin at 77k but alts dumping even more. Let's see just how low things have been...and why ...
+
+📺 Digital Asset News
+
+👁️ 5K • 👍 400 • 💬 43 • ⏱️ 40:04 • 2h ago
 
 ---
 
@@ -407,7 +389,27 @@ FREE TRAINING: https://event.webinarjam.com/z2qpv/register/1y7k2aw4 FREE PERSONA
 
 📺 Rajat Soni, CFA
 
-👁️ 3K • 👍 265 • 💬 128 • ⏱️ 5:20 • 6h ago
+👁️ 5K • 👍 329 • 💬 157 • ⏱️ 5:20 • 6h ago
+
+---
+
+**[BITCOIN: $52,000 PRICE TARGET NEXT (or not)?!!!  ⚠️ #BTC Price Prediction &amp; Crypto Crash News Today](https://www.youtube.com/watch?v=UfeKJ-0NVBw)**
+
+MEXC: Trade with Ultra-low trading fees Sign up: https://www.mexc.com/register?inviteCode=mexc-RT1M (must use this link) ...
+
+📺 Road To $1 Million USD
+
+👁️ 5K • 👍 233 • 💬 88 • ⏱️ 6:11 • 21h ago
+
+---
+
+**[BITCOIN: We&#39;ve Seen This Drop Before, Here&#39;s How It Ends...](https://www.youtube.com/watch?v=bhDb2-4JoLE)**
+
+Introduction & Important Context 0:00-1:21 Bitunix Exchange 1:21-2:02 Analysis 2:02-10:31 Bitunix Exchange 10:31-11:05 ...
+
+📺 Wolves of Crypto
+
+👁️ 8K • 👍 429 • 💬 195 • ⏱️ 11:06 • 14h ago
 
 ---
 

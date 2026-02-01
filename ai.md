@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-02-01T20:28:38.060924+00:00'
+updated: '2026-02-01T20:53:19.889470+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- repositories
+- social
 - videos
 - news
-- social
+- repositories
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** February 01, 2026 at 20:28 UTC  
+**Last Updated:** February 01, 2026 at 20:53 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -41,7 +41,7 @@ AI news, discussions, and developments
 
 The comment follows reports that the rocket maker is weighing a transaction that could further consolidate Musk’s space and AI ventures.
 
-🔗 [TESLARATI](https://www.teslarati.com/rumored-spacex-xai-merger-gets-apparent-confirmation-from-elon-musk/) • 9h ago
+🔗 [TESLARATI](https://www.teslarati.com/rumored-spacex-xai-merger-gets-apparent-confirmation-from-elon-musk/) • 10h ago
 
 ---
 
@@ -53,19 +53,19 @@ What moltbook is So essentially There is this open source AI bot called openclaw
 
 ---
 
-**[Any AI Podcasts you can recommend?](https://www.reddit.com/r/artificial/comments/1qt4i78/any_ai_podcasts_you_can_recommend/)**
-
-I subscribe to a few AI podcasts, but I wanted to know of any others that you can recommend. Not looking for anything too deep, in fact, prefer the ones that are lighter and an easy listen or watch. let me know your faves.
-
-3h ago
-
----
-
 **[Linux's b4 kernel development tool now dog-feeding its AI agent code review helper](https://www.reddit.com/r/artificial/comments/1qt5vl0/linuxs_b4_kernel_development_tool_now_dogfeeding/)**
 
 The b4 tool used by Linux kernel developers to help manage their patch workflow around contributions to the Linux kernel has been seeing work on a text user interface to help with AI agent assisted code reviews
 
 🔗 [phoronix.com](https://www.phoronix.com/news/Linux-b4-Tool-Dog-Feeding-AI) • 2h ago
+
+---
+
+**[Any AI Podcasts you can recommend?](https://www.reddit.com/r/artificial/comments/1qt4i78/any_ai_podcasts_you_can_recommend/)**
+
+I subscribe to a few AI podcasts, but I wanted to know of any others that you can recommend. Not looking for anything too deep, in fact, prefer the ones that are lighter and an easy listen or watch. let me know your faves.
+
+3h ago
 
 ---
 
@@ -81,7 +81,13 @@ SpaceX's filing claims these satellites will be “a first step towards becoming
 
 So I was using LLM for studying advance language/framework/design topics. Whenever I have some question I would try on GPT but it will always give me answer in points no matter what prompt I try or create a separate workbook with new memory. It will always give me answer in small basic points. I wanted to learn topics in depth but it just refuses to give me better indepth answer just everything in basic points. Gemini sometimes is not able to understand context but the answer quality is just amazing and everything is in just depth, it uses points also but they are much better explained than GPT. Also the free version limit is just getting frustrating now in GPT and extremely long wait time for images, it has gotten so bad that I never though I would completely uninstall GPT and prefer gemini over it.
 
-9h ago
+10h ago
+
+---
+
+**[Is artificial intelligence really all that scary?](https://www.reddit.com/r/artificial/comments/1qsz16q/is_artificial_intelligence_really_all_that_scary/)**
+
+6h ago
 
 ---
 
@@ -89,13 +95,7 @@ So I was using LLM for studying advance language/framework/design topics. Whenev
 
 I’m looking to dive into clawdbot. What do you guys think of this use case and if it’s even possible at this infant stage? Clawdbot to review my Google AdWords and Meta ads on a 24 hour , 7 day , 14 day basis. Point out optimization suggestions such based of changes in ROAS, CTR %, Conversions, Cost per acquisition metrics etc. Create a daily report on the tweaks that is needed to make today and on a weekly basis. Tweaks would involve things like inclusion or exclusion of keywords, improvement of ad copy, addition of new creatives (images/videos/html5) **I work in the fin tech and e-commerce niche whereby compliance is utmost important to avoid lawsuits and entire accounts getting taken down. Hence the bot will only have a “view access” to the advertising accounts. Through the reports my team and I will be able to make the change. I see Clawdbot as an open sandbox.. with some bugs to be wary of. Your thoughts?
 
-4h ago
-
----
-
-**[Is artificial intelligence really all that scary?](https://www.reddit.com/r/artificial/comments/1qsz16q/is_artificial_intelligence_really_all_that_scary/)**
-
-6h ago
+5h ago
 
 ---
 
@@ -119,14 +119,6 @@ AI coding tools are getting more sophisticated. But if coders stop coding, what 
 
 ## Google News: "ai"
 
-**[How AI assistance impacts the formation of coding skills](https://www.anthropic.com/research/AI-assistance-coding-skills)**
-
-Anthropic is an AI safety and research company that's working to build reliable, interpretable, and steerable AI systems.
-
-Anthropic • 3d ago
-
----
-
 **[AI-altered photos and videos of Minneapolis shootings blur reality](https://www.nbcnews.com/tech/tech-news/ai-altered-photos-videos-minneapolis-shootings-blur-reality-rcna256552)**
 
 Social media users are trying to use AI to get clearer images and videos of the Minneapolis shootings but are instead misleading millions.
@@ -143,27 +135,27 @@ Axios • 1d ago
 
 ---
 
-**[A Once-in-a-Decade Investment Opportunity: 1 Artificial Intelligence (AI) Semiconductor Stock That Could Go Parabolic in 2026 (Hint: It's Not Nvidia)](https://finance.yahoo.com/news/once-decade-investment-opportunity-1-184600976.html)**
-
-Advanced Micro Devices is swiftly becoming a major source of parallel processing power for hyperscalers.
-
-Yahoo Finance • 1h ago
-
----
-
 **[Apple Leadership Is Quietly Getting AI-Pilled, Report Claims](https://gizmodo.com/apple-leadership-is-quietly-getting-ai-pilled-report-claims-2000716353)**
 
 Is Apple getting ready for its big AI push?
 
-Gizmodo • 51m ago
+Gizmodo • 1h ago
 
 ---
 
-**[Shyam Sankar: The AI future belongs to the American worker](https://www.foxnews.com/video/6388634658112)**
+**[Shakespeare AI: Alex Gleason’s Open-Source Alternative for AI Web Building](https://www.usatoday.com/story/special/contributor-content/2026/02/01/shakespeare-ai-alex-gleasons-open-source-alternative-for-ai-web-building/88464569007/)**
 
-Palantir's Chief Technology Officer argues that artificial intelligence narratives mislead Americans, citing frontline experience to show AI empowers workers rather than replacing them.
+Gleason’s career has been steadily built around building tools for independence and inclusivity online.
 
-Fox News • 2h ago
+USA Today • 1h ago
+
+---
+
+**[Gaza’s daily nightmare vs US talk of AI-driven smart cities](https://www.aljazeera.com/video/the-bottom-line/2026/2/1/gazas-daily-nightmare-vs-us-talk-of-ai-driven-smart-cities)**
+
+Why are Gazans living in misery, with daily Israeli bombings, as the US promises ‘peace, stability and opportunity’?
+
+Al Jazeera • 1h ago
 
 ---
 
@@ -175,12 +167,6 @@ The Washington Post • 2h ago
 
 ---
 
-**[Opinion | Students Are Skipping the Hardest Part of Growing Up](https://www.nytimes.com/2026/01/30/opinion/ai-social-skills-relationships.html)**
-
-The New York Times • 2d ago
-
----
-
 **[Artificial intelligence researchers hit by flood of ‘slop’](https://www.ft.com/content/54e274c5-de86-4b3e-96a9-95a46b5e48a0)**
 
 Conferences restrict use of LLMs after surge of low-quality AI-generated papers and reviews
@@ -189,9 +175,23 @@ Financial Times • 15h ago
 
 ---
 
+**[Opinion | Students Are Skipping the Hardest Part of Growing Up](https://www.nytimes.com/2026/01/30/opinion/ai-social-skills-relationships.html)**
+
+The New York Times • 2d ago
+
+---
+
 **[Vibe Coding Startup Cognition Mints A New AI Billionaire](https://www.forbes.com/sites/richardnieva/2026/01/31/vibe-coding-startup-cognition-mints-another-ai-billionaire/)**
 
 Forbes • 1d ago
+
+---
+
+**[The AI Companies Trying to Make Grief Obsolete](https://www.theatlantic.com/ideas/2026/02/deadbots-ai-grief-obsolete/685811/)**
+
+You can buy an AI version of your lost loved one. But should you?
+
+The Atlantic • 8h ago
 
 ---
 
@@ -219,7 +219,7 @@ AI assistance produces significant productivity gains across professional domain
 
 Like many organizations, Wiki Education has grappled with generative AI, its impacts, opportunities, and threats, for several years. As an organization that runs large-scale programs to bring new e…
 
-⬆️ 214 • 💬 100 • 23h ago • [Wiki Education](https://wikiedu.org/blog/2026/01/29/generative-ai-and-wikipedia-editing-what-we-learned-in-2025/)
+⬆️ 219 • 💬 107 • 23h ago • [Wiki Education](https://wikiedu.org/blog/2026/01/29/generative-ai-and-wikipedia-editing-what-we-learned-in-2025/)
 
 ---
 
@@ -239,22 +239,6 @@ Contribute to amlalabs/amla-sandbox development by creating an account on GitHub
 
 ---
 
-**[Apple buys Israeli startup Q.ai](https://news.ycombinator.com/item?id=46816228)**
-
-Q.ai is an Israeli startup specializing in imaging and machine learning, particularly technologies that enable devices to interpret whispered speech and enhance audio in noisy environments.
-
-⬆️ 128 • 💬 45 • 2d ago • [TechCrunch](https://techcrunch.com/2026/01/29/apple-buys-israeli-startup-q-ai-as-the-ai-race-heats-up/)
-
----
-
-**[Slopaganda: AI images posted by the White House and what they teach us](https://news.ycombinator.com/item?id=46816212)**
-
-Under Donald Trump, the White House has filled its social media with memes, wishcasting, nostalgia and deepfakes. Here’s what you need to know to navigate the trolling
-
-⬆️ 105 • 💬 14 • 2d ago • [the Guardian](https://www.theguardian.com/us-news/2026/jan/29/the-slopaganda-era-10-ai-images-posted-by-the-white-house-and-what-they-teach-us)
-
----
-
 **[I trapped an AI model inside an art installation (2025) [video]](https://news.ycombinator.com/item?id=46830523)**
 
 Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.
@@ -267,7 +251,7 @@ Enjoy the videos and music you love, upload original content, and share it all w
 
 Download TalkBits – Speak Naturally by Omar Muhammad Omar on the App Store. See screenshots, ratings and reviews, user tips, and more games like TalkBits –…
 
-⬆️ 64 • 💬 55 • 1d ago • [App Store](https://apps.apple.com/us/app/talkbits-speak-naturally/id6756824177)
+⬆️ 65 • 💬 55 • 1d ago • [App Store](https://apps.apple.com/us/app/talkbits-speak-naturally/id6756824177)
 
 ---
 
@@ -276,6 +260,22 @@ Download TalkBits – Speak Naturally by Omar Muhammad Omar on the App Store. Se
 Exposed servers are being used for LLMjacking, creating malicious content and being sold on the black market.
 
 ⬆️ 63 • 💬 37 • 1d ago • [TechRadar](https://www.techradar.com/pro/security/over-175-000-publicly-exposed-ollama-ai-servers-discovered-worldwide-so-fix-now)
+
+---
+
+**[Show HN: Zuckerman – minimalist personal AI agent that self-edits its own code](https://news.ycombinator.com/item?id=46846210)**
+
+Ultra-minimal personal AI agent: starts small, self-modifies its code live, adapts by writing exactly the code & features you need - zuckermanai/zuckerman
+
+⬆️ 57 • 💬 42 • 7h ago • [GitHub](https://github.com/zuckermanai/zuckerman)
+
+---
+
+**[Where I'm at with AI](https://news.ycombinator.com/item?id=46824925)**
+
+We’re in new paradigm territory with generative AI. A lot of commentary falls into the skeptic, evangelist, or doomsdayer categories, or are practical but narrow takes. In this article, I’ll discuss my current use of generative AI tools and outline areas that concern me - areas that raise questions about how our industry and others will evolve. I am certain that generative AI is a productivity amplifier, but its economic, environmental, and cultural externalities are not being discussed enough.
+
+⬆️ 46 • 💬 65 • 2d ago • [Paul Osman](https://paulosman.me/2026/01/18/where-im-at-with-ai/)
 
 ---
 
@@ -289,17 +289,17 @@ Detailed sources: ...
 
 📺 Species | Documenting AGI
 
-👁️ 107K • 👍 9K • 💬 1K • ⏱️ 18:06 • 20h ago
+👁️ 121K • 👍 9K • 💬 1K • ⏱️ 18:06 • 20h ago
 
 ---
 
-**[State of AI in 2026: LLMs, Coding, Scaling Laws, China, Agents, GPUs, AGI | Lex Fridman Podcast #490](https://www.youtube.com/watch?v=EV7WhVT270Q)**
+**[Why the Smartest AI Bet Right Now Has Nothing to Do With AI (It&#39;s Not What You Think)](https://www.youtube.com/watch?v=pxuXV3Q6tGY)**
 
-Nathan Lambert and Sebastian Raschka are machine learning researchers, engineers, and educators. Nathan is the post-training ...
+My site: https://natebjones.com Full Story w/ Prompts: ...
 
-📺 Lex Fridman
+📺 AI News & Strategy Daily | Nate B Jones
 
-👁️ 204K • 👍 6K • 💬 441 • ⏱️ 4:25:13 • 21h ago
+👁️ 5K • 👍 427 • 💬 83 • ⏱️ 23:24 • 1h ago
 
 ---
 
@@ -309,27 +309,7 @@ A new platform called Moltbook is going viral — and it's not built for humans.
 
 📺 Mint
 
-👁️ 8K • 👍 92 • 💬 20 • ⏱️ 3:25 • 1d ago
-
----
-
-**[7 High Paying AI Jobs You can Do in 2026](https://www.youtube.com/watch?v=8vwZqkVwV0I)**
-
-3 DAYS LEFT 50% Off on Coursera Plus https://imp.i384100.net/4G6ZQZ (access all Courses) In this video, I break down seven ...
-
-📺 James Blue
-
-👁️ 6K • 💬 2 • ⏱️ 8:39 • 6h ago
-
----
-
-**[My AI Song Accidentally Went Viral...](https://www.youtube.com/watch?v=_cXu7_UFxNk)**
-
-My AI song 'Isugaku Never Say Goodbye' has officially gone viral… What the BALLS is going on!!? Try Rocket Money for FREE or ...
-
-📺 Steve Terreberry
-
-👁️ 134K • 👍 12K • 💬 2K • ⏱️ 15:27 • 19h ago
+👁️ 9K • 👍 92 • 💬 21 • ⏱️ 3:25 • 1d ago
 
 ---
 
@@ -339,7 +319,37 @@ Get the FREE PDF (links + prompts) → https://discord.gg/6aV3ps7tB2 STOP overpa
 
 📺 Malva AI
 
-👁️ 24K • 👍 1K • 💬 321 • ⏱️ 7:42 • 2d ago
+👁️ 25K • 👍 1K • 💬 329 • ⏱️ 7:42 • 2d ago
+
+---
+
+**[State of AI in 2026: LLMs, Coding, Scaling Laws, China, Agents, GPUs, AGI | Lex Fridman Podcast #490](https://www.youtube.com/watch?v=EV7WhVT270Q)**
+
+Nathan Lambert and Sebastian Raschka are machine learning researchers, engineers, and educators. Nathan is the post-training ...
+
+📺 Lex Fridman
+
+👁️ 226K • 👍 6K • 💬 476 • ⏱️ 4:25:13 • 22h ago
+
+---
+
+**[Real Reason Why AI Data Centers Are Running Out of Power (It&#39;s Not Power Generation)](https://www.youtube.com/watch?v=qk71RxoMads)**
+
+Everyone is talking about how AI is draining the power grid, but the biggest hurdle isn't actually the energy itself. It turns out that a ...
+
+📺 The Infographics Show
+
+👁️ 70K • 👍 2K • 💬 217 • ⏱️ 9:18 • 1d ago
+
+---
+
+**[Why is Everyone OBSESSED With The New Kimi K2.5 AI Model](https://www.youtube.com/watch?v=KvOYDevFGiw)**
+
+We explore why Moonshot AI's new Kimi k2.5 is the internet's latest obsession, claiming state-of-the-art status in coding and vision ...
+
+📺 Better Stack
+
+👁️ 13K • 👍 603 • 💬 39 • ⏱️ 13:47 • 11h ago
 
 ---
 
@@ -349,17 +359,7 @@ OpenClaw (formerly ClaudeBot) demonstrates emergent agent capabilities like auto
 
 📺 The AI Daily Brief: Artificial Intelligence News
 
-👁️ 102K • 👍 3K • 💬 673 • ⏱️ 21:12 • 1d ago
-
----
-
-**[Claude Sonnet 5 NEXT WEEK + GPT-5.3 Coming? The AI Race Heats Up!](https://www.youtube.com/watch?v=puOctUi94jg)**
-
-Claude Sonnet 5 rumors are EXPLODING on AI Twitter - insiders say it's dropping next week and will beat Opus 4.5 in coding.
-
-📺 Universe of AI
-
-👁️ 9K • 👍 216 • 💬 47 • ⏱️ 8:13 • 19h ago
+👁️ 108K • 👍 3K • 💬 703 • ⏱️ 21:12 • 1d ago
 
 ---
 
@@ -369,7 +369,7 @@ Flash Sale Week: Up to 50% OFF + 365 days of ZERO credits on NanoBanana Pro, Mid
 
 📺 Future Business Tech
 
-👁️ 13K • 👍 516 • 💬 21 • ⏱️ 23:14 • 20h ago
+👁️ 17K • 👍 609 • 💬 24 • ⏱️ 23:14 • 20h ago
 
 ---
 
@@ -379,7 +379,7 @@ Get Your FREE AI Company Operating System here: https://go.danmartell.com/3NKZDu
 
 📺 Dan Martell
 
-👁️ 73K • 👍 3K • 💬 598 • ⏱️ 18:48 • 2d ago
+👁️ 75K • 👍 3K • 💬 610 • ⏱️ 18:48 • 2d ago
 
 ---
 
@@ -395,7 +395,7 @@ Kimi K2.5 is a native multimodal agentic model with 1T parameters, excelling in 
 
 `image-text-to-text`
 
-⬇️ 53,500 • ❤️ 1,360 • 1d ago
+⬇️ 53,500 • ❤️ 1,366 • 1d ago
 
 ---
 
@@ -407,7 +407,7 @@ Z-Image is an undistilled, high-fidelity text-to-image diffusion transformer mod
 
 `text-to-image`
 
-⬇️ 4,755 • ❤️ 766 • 4d ago
+⬇️ 4,755 • ❤️ 767 • 4d ago
 
 ---
 
@@ -419,7 +419,7 @@ HunyuanImage-3.0-Instruct is a native multimodal model for image generation, sup
 
 `image-to-image` `83.0B`
 
-⬇️ 116 • ❤️ 750 • 4d ago
+⬇️ 116 • ❤️ 754 • 4d ago
 
 ---
 
@@ -431,7 +431,7 @@ PersonaPlex-7B-v1 is a real-time, full-duplex speech-to-speech conversational mo
 
 `audio-to-audio`
 
-⬇️ 83,795 • ❤️ 1,569 • 3d ago
+⬇️ 83,795 • ❤️ 1,573 • 3d ago
 
 ---
 
@@ -443,7 +443,7 @@ DeepSeek-OCR-2 is a multilingual vision-language model for image-to-text tasks, 
 
 `image-text-to-text` `3.4B`
 
-⬇️ 102,941 • ❤️ 604 • 2d ago
+⬇️ 102,941 • ❤️ 606 • 2d ago
 
 ---
 
@@ -467,7 +467,7 @@ Qwen3-ASR-1.7B is a state-of-the-art automatic speech recognition model supporti
 
 `automatic-speech-recognition` `2.3B`
 
-⬇️ 25,658 • ❤️ 308 • 2d ago
+⬇️ 25,658 • ❤️ 310 • 2d ago
 
 ---
 
@@ -479,7 +479,7 @@ PaddleOCR-VL-1.5 is a multilingual Vision-Language Model (VLM) built on ERNIE 4.
 
 `image-text-to-text` `958.6M`
 
-⬇️ 2,046 • ❤️ 286 • 2d ago
+⬇️ 2,046 • ❤️ 289 • 2d ago
 
 ---
 
@@ -503,7 +503,7 @@ GLM-4.7-Flash is a 30B-A3B MoE model, offering strong performance in the 30B cla
 
 `text-generation` `31.2B`
 
-⬇️ 826,849 • ❤️ 1,394 • 3d ago
+⬇️ 826,849 • ❤️ 1,395 • 3d ago
 
 ---
 
@@ -519,21 +519,9 @@ GLM-4.7-Flash is a 30B-A3B MoE model, offering strong performance in the 30B cla
 
 LingBot-World is an open-source world simulator with high-fidelity dynamics, long-term memory capabilities, and real-time interactivity for diverse environments.
 
-▲ 99 • 💬 2 • ⭐ 1,412 • 4d ago
+▲ 99 • 💬 2 • ⭐ 1,659 • 4d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2601.20540) • [💻 code](https://github.com/Robbyant/lingbot-world/) • [🔗 project](https://technology.robbyant.com/lingbot-world)
-
----
-
-**[Bitnet.cpp: Efficient Edge Inference for Ternary LLMs](https://huggingface.co/papers/2502.11880)**
-
-*Jinheng Wang, Hansong Zhou, Ting Song et al. (10 authors)*
-
-Bitnet.cpp enhances edge inference for ternary LLMs using a novel mixed-precision matrix multiplication library, achieving significant speed improvements over baselines.
-
-▲ 5 • 💬 0 • ⭐ 27,470 • 11mo ago
-
-[🎓 arXiv](https://arxiv.org/abs/2502.11880) • [💻 code](https://github.com/microsoft/BitNet/tree/paper)
 
 ---
 
@@ -560,6 +548,18 @@ BitNet Distillation fine-tunes large language models to 1.58-bit precision using
 ▲ 58 • 💬 5 • ⭐ 27,529 • 3mo ago
 
 [🎓 arXiv](https://arxiv.org/abs/2510.13998) • [💻 code](https://github.com/microsoft/BitNet)
+
+---
+
+**[Bitnet.cpp: Efficient Edge Inference for Ternary LLMs](https://huggingface.co/papers/2502.11880)**
+
+*Jinheng Wang, Hansong Zhou, Ting Song et al. (10 authors)*
+
+Bitnet.cpp enhances edge inference for ternary LLMs using a novel mixed-precision matrix multiplication library, achieving significant speed improvements over baselines.
+
+▲ 5 • 💬 0 • ⭐ 27,536 • 11mo ago
+
+[🎓 arXiv](https://arxiv.org/abs/2502.11880) • [💻 code](https://github.com/microsoft/BitNet/tree/paper)
 
 ---
 
@@ -611,7 +611,7 @@ PaddleOCR-VL, a vision-language model combining NaViT-style dynamic resolution a
 
 DeepSeek-OCR 2 introduces DeepEncoder V2 that dynamically reorders visual tokens based on semantic content, enabling more human-like causal reasoning in 2D image understanding through cascaded 1D causal structures.
 
-▲ 43 • 💬 4 • ⭐ 1,799 • 4d ago
+▲ 43 • 💬 4 • ⭐ 1,822 • 4d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2601.20552) • [💻 code](https://github.com/deepseek-ai/DeepSeek-OCR-2)
 
@@ -663,7 +663,7 @@ AI → JSON → UI
 
 `TypeScript`
 
-⭐ 9.8k • 🔱 520 • 4d ago
+⭐ 9.8k • 🔱 521 • 4d ago
 
 ---
 
@@ -673,7 +673,7 @@ Ralph is an autonomous AI agent loop that runs repeatedly until all PRD items ar
 
 `TypeScript`
 
-⭐ 9.0k • 🔱 1.1k • 2d ago
+⭐ 9.1k • 🔱 1.1k • 2d ago
 
 ---
 
@@ -703,7 +703,7 @@ The Ultimate Collection of 600+ Agentic Skills for Claude Code/Antigravity/Curso
 
 `Python` `agentic-skills` `ai-agents` `antigravity` `autonomous-coding` `claude-code`
 
-⭐ 6.0k • 🔱 1.3k • 3h ago
+⭐ 6.1k • 🔱 1.3k • 4h ago
 
 ---
 
@@ -713,7 +713,7 @@ Marketing skills for Claude Code and AI agents. CRO, copywriting, SEO, analytics
 
 `claude` `codex` `marketing`
 
-⭐ 5.5k • 🔱 603 • 4d ago
+⭐ 5.5k • 🔱 602 • 4d ago
 
 ---
 
@@ -721,7 +721,7 @@ Marketing skills for Claude Code and AI agents. CRO, copywriting, SEO, analytics
 
 Claude Code skill that removes signs of AI-generated writing from text
 
-⭐ 3.6k • 🔱 309 • 9d ago
+⭐ 3.6k • 🔱 311 • 9d ago
 
 ---
 
@@ -739,7 +739,7 @@ OpenSource Claude Cowork. A desktop AI assistant that helps you with programming
 
 Humanizer 的汉化版本，Claude Code Skills，旨在消除文本中 AI 生成的痕迹。
 
-⭐ 2.1k • 🔱 197 • 13d ago
+⭐ 2.1k • 🔱 198 • 13d ago
 
 ---
 

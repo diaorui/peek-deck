@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-02-01T20:28:38.075127+00:00'
+updated: '2026-02-01T20:53:19.904050+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- cryptocurrency
+- social
 - videos
 - news
-- social
+- cryptocurrency
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** February 01, 2026 at 20:28 UTC  
+**Last Updated:** February 01, 2026 at 20:53 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -36,33 +36,33 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Price
 
-### $2,332.39
+### $2,338.74
 
 ---
 
 ## Ethereum Chart
 
-**24h:** -2.3%  
-**7d:** -20.6%  
-**30d:** -25.6%  
-**90d:** -29.6%  
-**1y:** -18.7%  
+**24h:** -4.1%  
+**7d:** -20.8%  
+**30d:** -25.9%  
+**90d:** -29.8%  
+**1y:** -19.0%  
 
 ---
 
 ## Ethereum Market Stats
 
-**Market Cap:** $284.36B
+**Market Cap:** $280.71B
 Rank #2
 
 **Circulating Supply:** 120,693,815 ETH
 No max supply
 
 **All-Time High:** $4,946.05
--52.4%
+-53.1%
 
 **All-Time Low:** $0.43
-+544074.2%
++535856.7%
 
 ---
 
@@ -80,7 +80,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 We've seen about 10 years of people trying to do content incentivization in crypto, from early-stage platforms like Bihu and Steemit, to BitClout in 2021, to Zora, to tipping features inside of decentralized social, and more. So far, I think we have not been very successful, and I think this is because the problem is fundamentally hard. First, my view of what the problem is. A major difference between doing "creator incentives" in the 00s vs doing them today, is that in the 00s, a primary problem was having not enough content at all. In the 20s, there's plenty of content, AI can generate an entire metaverse full of it for like $10. The problem is quality. And so your goal is not incentivizing content, it's surfacing good content. Personally, I think that the most successful example of creator incentives we've seen is Substack. To see why, take a look at the top 10: https://substack.com/leaderboard/technology/paid https://substack.com/leaderboard/culture/paid https://substack.com/leaderboard/world-politics/paid Now, you may disagree with many of these authors. But I have no doubt that: They are on the whole high quality, and contribute positively to the discussion They are mostly people who would not have been elevated without Substack's presence So Substack is genuinely surfacing high quality and pluralism. Now, we can compare to creator coin projects. I don't want to pick on a single one, because I think there's a failure mode of the entire category. For example: Top Zora creator coins: https://www.coingecko.com/en/categories/zora-creator-coins BitClout: https://www.businessofbusiness.com/articles/inside-the-rise-of-bitclout-a-crypto-based-social-network-influencers-andreessen-horowitz-sequoia/#:~:text=Most%20of%20the,about%20BitClout%E2%80%99s%20users Basically, the top 10 are people who already have very high social status, and who are often impressive but primarily for reasons other than the content they create. At the core, Substack is a simple subscription service: you pay $N per month, and you get to see the person's articles. But a big part of Substack's success is that they did not just set the mechanism and forget. Their launch process was very hands-on, deliberately seeding the platform with high-quality creators, based on a very particular vision of what kind of high-quality intellectual environment they wanted to foster, including giving selected people revenue guarantees. So now, let's get to one idea that I think could work (of course, coming up with new ideas is inherently a more speculative project than criticizing existing ones, and more prone to error). Create a DAO, that is not token-based. Instead, the inspiration should be Protocol Guild: there are N members, and they can (anonymously) vote new members in and out. If N gets above ~200, consider auto-splitting it. Importantly, do not try to make the DAO universal or even industry-wide. Instead, embrace the opinionatedness. Be okay with having a dominant type of content (long-form writing, music, short-form video, long-form video, fiction, educational...), and be okay with having a dominant style (eg. country or region of origin, political viewpoint, if within crypto which projects you're most friendly to...). Hand-pick the initial membership set, in order to maximize its alignment with the desired style. The goal is to have a group that is larger than one creator and can accumulate a public brand and collectively bargain to seek revenue opportunities, but at the same time small enough that internal governance is tractable. Now, here is where the tokens come in. In general, one of my hypotheses this decade is that a large portion of effective governance mechanisms will all have the form factor of "large number of people and bots participating in a prediction market, with the output oracle being a diverse set of people optimized for mission alignment and capture resistance". In this case, what we do is: anyone can become a creator and create a creator coin, and then, if they get admitted to a creator DAO, a portion of their proceeds from the DAO are used to burn their creator coins. This way, the token speculators are NOT participating in a recursive-speculation attention game backed only by itself. Instead, they are specifically being predictors of what new creators the high-value creator DAOs will be willing to accept. At the same time, they also provide a valuable service to the creator DAOs: they are helping surface promising creators for the DAOs to choose from. So the ultimate decider of who rises and falls is not speculators, but high-value content creators (we make the assumption that good creators are also good judges of quality, which seems often true). Individual speculators can stay in the game and thrive to the extent that they do a good job of predicting the creator DAOs' actions.
 
-6h ago
+7h ago
 
 ---
 
@@ -118,7 +118,7 @@ In these five years, the Ethereum Foundation is entering a period of mild auster
 
 It was some time ago that ETH went from proof of work to proof of stake. At the time Vitalik said that there were other changes coming such as faster transaction or lower transaction cost. I have not heard any more since then? Is there any progress?
 
-1d ago
+2d ago
 
 ---
 
@@ -150,33 +150,33 @@ The Doots live stream is all about showcasing the best of the week from the Dail
 
 ## Google News: "ethereum"
 
-**[Bitcoin, XRP, Ethereum Fall on News of Kevin Warsh Fed Appointment.](https://www.barrons.com/articles/bitcoin-xrp-ethereum-crypto-today-954298d9?gaa_at=eafs&gaa_n=AWEtsqc_ILqQxY8ckMeoyRP3f0qE8odKGn_AYKzRkVw-vRy96H_rmO8p8VFX&gaa_ts=697fb0e1&gaa_sig=z_umfYcPxUZ0xss5PGit_yIVQftsaWmeSeTm49YC2kHQuD9Hy_HZdQUiHmXGecCkwg4sYo391zoCa2z1SGFqoQ%3D%3D)**
+**[Ethereum Founder Vitalik Buterin Made $70K Betting Against 'Crazy Mode' on Polymarket](https://decrypt.co/356483/vitalik-buterin-made-70k-betting-against-crazy-mode-polymarket)**
+
+The Ethereum founder claims his strategy of betting against extreme market sentiment ‘usually makes money’ on Polymarket.
+
+Decrypt • 2h ago
+
+---
+
+**[Crypto Crash: Liquidations Top $2.5 Billion as Bitcoin, Ethereum and XRP Prices Plummet](https://finance.yahoo.com/news/crypto-crash-liquidations-top-2-203516968.html)**
+
+The crypto market's recent decline only accelerated Saturday, with Bitcoin falling to nearly $77,000 as liquidations piled up.
+
+Yahoo Finance • 1d ago
+
+---
+
+**[Bitcoin, XRP, Ethereum Fall on News of Kevin Warsh Fed Appointment.](https://www.barrons.com/articles/bitcoin-xrp-ethereum-crypto-today-954298d9?gaa_at=eafs&gaa_n=AWEtsqcs-xAYZ36UawEQFtsAZ8vurL73ZtWnXTZhKneUwazhGmwEWsoY_LlR&gaa_ts=697fc0ae&gaa_sig=HGnNQ4QaSmIt15q5ynxQgmR2QeE_gLJkrZ78mlA-YfOR95wpz-7qqIvcTL_3KzvGd5cjO2poX2SsZIukJLPaYQ%3D%3D)**
 
 Barron's • 2d ago
 
 ---
 
-**[Ethereum Founder Vitalik Buterin Made $70K Betting Against 'Crazy Mode' on Polymarket](https://finance.yahoo.com/news/ethereum-founder-vitalik-buterin-made-175411322.html)**
+**[Bitcoin Price Crashes Below $80K as Ethereum Loses $2.5K Support — 5 Reasons the Selloff Isn’t Over](https://www.ccn.com/education/crypto/bitcoin-80k-crash-eth-2-5k-break-bitmine-6b-losses-bloodbath-warning/)**
 
-The Ethereum founder claims his strategy of betting against extreme market sentiment "usually makes money" on Polymarket.
+Bitcoin and Ethereum break key support as ETFs bleed, liquidations surge, and BitMine posts $6B+ losses. Is the selloff just beginning?
 
-Yahoo Finance • 2h ago
-
----
-
-**[Vitalik Buterin to spend $43 million on Ethereum development](https://www.coindesk.com/business/2026/01/30/vitalik-buterin-withdraws-usd17-million-in-eth-as-ethereum-foundation-enters-mild-austerity)**
-
-Ethereum’s co-founder said the $43 million withdrawal will support a broader “full-stack openness and verifiability” vision as the foundation tightens spending.
-
-CoinDesk • 2d ago
-
----
-
-**[Vitalik Buterin Commits $45 Million In ETH To Support Ethereum’s Development And User Security](https://www.tradingview.com/news/zycrypto:194cacc68094b:0-vitalik-buterin-commits-45-million-in-eth-to-support-ethereum-s-development-and-user-security/)**
-
-Ethereum co-founder Vitalik Buterin has withdrawn 16,384 ETH, worth roughly $45 million at current market prices.
-
-TradingView • 1d ago
+CCN.com • 22h ago
 
 ---
 
@@ -188,19 +188,17 @@ CoinDesk • 5h ago
 
 ---
 
+**[Key facts: Ethereum Drops 12.7% Amid Large Sales; Institutional Interest Grows](https://www.tradingview.com/news/tradingview:28b30d6b1c11d:0-key-facts-ethereum-drops-12-7-amid-large-sales-institutional-interest-grows/)**
+
+TradingView • 20h ago
+
+---
+
 **[Ethereum Falls 10% In Selloff](https://www.investing.com/news/cryptocurrency-news/ethereum-falls-10-in-selloff-4477658)**
 
 Ethereum Falls 10% In Selloff
 
 Investing.com • 1d ago
-
----
-
-**[Ethereum Supply Tightens With 45% of ETH Locked: Sygnum](https://thedefiant.io/news/research-and-opinion/ethereum-supply-tightens-with-45-of-eth-locked-sygnum)**
-
-ETF buying, staking and corporate holdings continue to reduce liquid ETH.
-
-thedefiant.io • 1d ago
 
 ---
 
@@ -212,19 +210,19 @@ The Motley Fool • 2d ago
 
 ---
 
+**[Ethereum Supply Tightens With 45% of ETH Locked: Sygnum](https://thedefiant.io/news/research-and-opinion/ethereum-supply-tightens-with-45-of-eth-locked-sygnum)**
+
+ETF buying, staking and corporate holdings continue to reduce liquid ETH.
+
+thedefiant.io • 2d ago
+
+---
+
 **[Ethereum Price Prediction: $2,400 Crash Opens $1,435 Risk](https://coinpaper.com/14198/ethereum-price-prediction-2-400-crash-opens-1-435-risk)**
 
 ETH plunges to $2,400 after heavy liquidations, with analysts warning a deeper move toward $1,435 is possible.
 
 Coinpaper • 1d ago
-
----
-
-**[Bitcoin Price Crashes Below $80K as Ethereum Loses $2.5K Support — 5 Reasons the Selloff Isn’t Over](https://www.ccn.com/education/crypto/bitcoin-80k-crash-eth-2-5k-break-bitmine-6b-losses-bloodbath-warning/)**
-
-Bitcoin and Ethereum break key support as ETFs bleed, liquidations surge, and BitMine posts $6B+ losses. Is the selloff just beginning?
-
-CCN.com • 21h ago
 
 ---
 
@@ -238,7 +236,17 @@ Ethereum has the strongest long-term narrative in crypto: tokenization, AI rails
 
 📺 Milk Road
 
-👁️ 1K • 👍 80 • 💬 43 • ⏱️ 15:51 • 5h ago
+👁️ 3K • 👍 122 • 💬 120 • ⏱️ 15:51 • 6h ago
+
+---
+
+**[BITCOIN AND ETH: HOW BAD IS THIS DUMP (when recovery) 🚨🚨🚨🚨🚨🚨](https://www.youtube.com/watch?v=YawcOhRcens)**
+
+FREE TRAINING: https://www.bullmania.com EXCHANGES I USE (bybit, pionex): https://www.bullmania.com/partners My ...
+
+📺 Ivan on Tech
+
+👁️ 10K • 👍 1K • 💬 67 • ⏱️ 45:22 • 1h ago
 
 ---
 
@@ -248,7 +256,17 @@ This video provides a professional Elliott Wave and technical analysis of Ethere
 
 📺 More Crypto Online
 
-👁️ 3K • 👍 190 • 💬 8 • ⏱️ 8:33 • 6h ago
+👁️ 3K • 👍 220 • 💬 8 • ⏱️ 8:33 • 7h ago
+
+---
+
+**[BITCOIN: This Dump Changes Everything! (get ready) - BTC, ETH, XRP Price Prediction Today](https://www.youtube.com/watch?v=37jvQuf8O-s)**
+
+Want a free $30000 bonus + $20 just for signing up? Go here: ...
+
+📺 BitcoinHyper
+
+👁️ 3K • 👍 348 • 3h ago
 
 ---
 
@@ -258,7 +276,17 @@ ETHEREUM ETH PRICE PREDICTION 2026 Join the Premium Signal Group for trade setup
 
 📺 Cilinix Crypto
 
-👁️ 832 • 👍 28 • 💬 2 • ⏱️ 5:13 • 8h ago
+👁️ 1K • 👍 32 • 💬 3 • ⏱️ 5:13 • 8h ago
+
+---
+
+**[I Made $1M Shorting ETH. Why I’m Still Short.](https://www.youtube.com/watch?v=L9tejtx7sXA)**
+
+After getting chopped up in ETH shorts over the past few months, I found a moment of Tom Lee weakness to short ETH one last ...
+
+📺 Taiki Maeda
+
+👁️ 1K • 👍 114 • 💬 51 • ⏱️ 48:54 • 1h ago
 
 ---
 
@@ -268,7 +296,7 @@ Nick Valdez looks at the latest market crash with the next level Bitcoin MUST ho
 
 📺 Discover Crypto
 
-👁️ 21K • 👍 752 • 💬 243 • ⏱️ 4:28 • 22h ago
+👁️ 22K • 👍 774 • 💬 270 • ⏱️ 4:28 • 23h ago
 
 ---
 
@@ -278,7 +306,7 @@ My FREE Daily On-Chain Analysis & Crypto News In 5-Mins: https://www.cryptonutsh
 
 📺 Jamie Tree 
 
-👁️ 3K • 👍 78 • 💬 63 • ⏱️ 18:25 • 1d ago
+👁️ 4K • 👍 79 • 💬 64 • ⏱️ 18:25 • 1d ago
 
 ---
 
@@ -288,37 +316,7 @@ Join Premium: https://the-bitcoin-strategy.com My Chart Software: https://the-bi
 
 📺 Gerhard - Bitcoin Strategy
 
-👁️ 7K • 👍 156 • 💬 49 • ⏱️ 7:13 • 1d ago
-
----
-
-**[CRYPTO WARNING ⛔️ KNOW THIS TODAY! ‼️ XRP ETHEREUM BITCOIN](https://www.youtube.com/watch?v=5XfakzNwbjo)**
-
-1️⃣ *Join Moe's Discord Code 2026 save 50%* ➡https://www.patreon.com/stockmoe/membership 2️⃣ *Save Big on the ...
-
-📺 Crypto Moe
-
-👁️ 3K • 👍 276 • 💬 74 • ⏱️ 11:41 • 21h ago
-
----
-
-**[Forget The Crash! Bitcoin Will Hit These Insane Figures in February - Matt Hougan](https://www.youtube.com/watch?v=QBcWKNKxnGk)**
-
-Take Control of Your Retirement — Grow Crypto & Gold Tax-Advantaged. https://www.itrustcapital.com/go/savvy-finance If you're ...
-
-📺 Savvy Finance
-
-👁️ 10K • 👍 422 • 💬 25 • ⏱️ 20:55 • 20h ago
-
----
-
-**[🚨 EMERGENCY UPDATE: CRYPTO CRASH INTENSIFIES! (Here&#39;s Why)](https://www.youtube.com/watch?v=ytTNgeSXztY)**
-
-EMERGENCY UPDATE: CRYPTO CRASH INTENSIFIES! (Here's Why) The crypto market is in FREEFALL, and the selling ...
-
-📺 Tim Warren
-
-👁️ 22K • 👍 1K • 💬 510 • ⏱️ 11:12 • 1d ago
+👁️ 7K • 👍 160 • 💬 53 • ⏱️ 7:13 • 1d ago
 
 ---
 
@@ -328,7 +326,7 @@ Join UpTrade today - Your personal crypto broker: https://www.uptrade.au/ My FRE
 
 📺 Crypto Nutshell
 
-👁️ 16K • 👍 463 • 💬 104 • ⏱️ 16:36 • 1d ago
+👁️ 17K • 👍 472 • 💬 104 • ⏱️ 16:36 • 1d ago
 
 ---
 
