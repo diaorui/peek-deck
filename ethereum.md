@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-02-01T02:31:37.548684+00:00'
+updated: '2026-02-01T05:02:20.207136+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- cryptocurrency
-- news
 - videos
+- news
 - social
+- cryptocurrency
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** February 01, 2026 at 02:31 UTC  
+**Last Updated:** February 01, 2026 at 05:02 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -36,33 +36,33 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Price
 
-### $2,443.72
+### $2,450.25
 
 ---
 
 ## Ethereum Chart
 
-**24h:** -9.3%  
-**7d:** -16.5%  
-**30d:** -21.9%  
-**90d:** -26.0%  
-**1y:** -14.6%  
+**24h:** -9.1%  
+**7d:** -16.4%  
+**30d:** -21.8%  
+**90d:** -25.9%  
+**1y:** -14.5%  
 
 ---
 
 ## Ethereum Market Stats
 
-**Market Cap:** $294.95B
+**Market Cap:** $295.28B
 Rank #2
 
 **Circulating Supply:** 120,693,815 ETH
 No max supply
 
 **All-Time High:** $4,946.05
--50.6%
+-50.5%
 
 **All-Time Low:** $0.43
-+564283.0%
++564945.9%
 
 ---
 
@@ -72,7 +72,7 @@ No max supply
 
 Honeypot tokens are killing Ethereum's reputation. People get rugged, blame "Ethereum scams," when really it's malicious ERC20 implementations. Source: [github.com/Teycir/honeypotscan](https://github.com/Teycir/honeypotscan) to help clean this up. ## The Problem Scammers deploy ERC20 tokens with hidden logic that blocks sells: - tx.origin checks in transfer/balanceOf/allowance - Hidden 95-100% sell taxes - Whitelist-only transfers - Asymmetric transfer logic You can buy on Uniswap, but when you try to sell, the transaction reverts or drains your tokens. Funds gone. ## How It Works Paste a contract address → fetches verified source from Etherscan → runs 13 regex patterns → returns results in ~2 seconds. Detection patterns include: - **Core ERC20 abuse** (3 patterns) - tx.origin in balanceOf/allowance/transfer - **Hidden helpers** (2 patterns) - _taxPayer, _isSuper with tx.origin - **Auth bypasses** (4 patterns) - tx.origin in require/if/assert/mapping - **Transfer blocks** (4 patterns) - Sell restrictions, whitelists, extreme taxes Threshold: 2+ patterns = 95% confidence honeypot. Testing shows 98% sensitivity, 97% specificity. ## Why tx.origin is the red flag When you buy via Uniswap: - `tx.origin = YOUR_WALLET` ✅ - `msg.sender = YOUR_WALLET` ✅ When you sell via Uniswap: - `tx.origin = YOUR_WALLET` ✅ - `msg.sender = UNISWAP_ROUTER` ❌ Honeypots exploit this. They check `tx.origin` in access control, so DEX sells always fail while direct buys work. ## Tech Stack - Next.js 16 frontend on Cloudflare Pages - Cloudflare Workers for edge scanning - Cloudflare KV for caching (95% hit rate) - 6 Etherscan API keys with rotation - Supports Ethereum, Polygon, Arbitrum ## Try it Live: [honeypotscan.pages.dev](https://honeypotscan.pages.dev) Completely free, no rate limits, no tracking. Help protect the ecosystem 🛡️
 
-4h ago
+7h ago
 
 ---
 
@@ -80,7 +80,7 @@ Honeypot tokens are killing Ethereum's reputation. People get rugged, blame "Eth
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-20h ago
+23h ago
 
 ---
 
@@ -88,13 +88,13 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 World News, Stories By EtherWorld, Technical Explainers, Client News & Updates, Podcasts, Upcoming Events & Jobs
 
-🔗 [EtherWorld.co](https://etherworld.co/etherworld-weekly-edition-349/) • 12h ago
+🔗 [EtherWorld.co](https://etherworld.co/etherworld-weekly-edition-349/) • 14h ago
 
 ---
 
 **[Listening to Polymarket trades in real-time (open source, no third party)](https://www.reddit.com/r/ethereum/comments/1qs3l8c/listening_to_polymarket_trades_in_realtime_open/)**
 
-12h ago
+14h ago
 
 ---
 
@@ -130,14 +130,6 @@ Hello Folks, I just published a smart contract to handle crypto inheritance 100%
 
 ---
 
-**[Just one Scan that can save you from exploits [Its free to scan]](https://www.reddit.com/r/ethereum/comments/1qrvb61/just_one_scan_that_can_save_you_from_exploits_its/)**
-
-Watch before one bug costs you everything. https://x.com/SolidityScan/status/2017172006056390715?s=20
-
-19h ago
-
----
-
 **[138 - Mac Budkowski - NO BS Crypto GTM Guide](https://www.reddit.com/r/ethereum/comments/1qrj8o9/138_mac_budkowski_no_bs_crypto_gtm_guide/)**
 
 The Doots live stream is all about showcasing the best of the week from the Daily General Discussion from the r/ethereum Community on Reddit! Today we talked to Mac Budkowski from macbudkowski.com. He's made the "No BS Crypto GTM guide." Dig into what he has learned about timing, messaging, and why best isn't always good. Host: JT Technical Host: LogrisTheBard https://dailydoots.com by Hanniabu Daily Doots Curator: Tricky_Troll Weekly Doots Curator: The-A-Word Farcaster and Backend Host Support: Ben Broad Media Content Support: Twelve Meatballs Discord Bouncer and Watchdog: Treebeard As always, if you know someone who wants a piece of this action, send em our way. Buy us a ☕ dailydoots.eth All of our channels can be found here: https://dailydoots.com/podcast/ 🕸️https://dailydoots.com 📢https://discord.gg/EVMavericks 📰https://reddit.com/r/ethereum 🔊MINTABLE Podcast 👉: https://pods.media/evmavericks 🍎Apple https://podcasts.apple.com/us/podcast/ethfinance-evmavericks-daily-doots-livestream/id1750089604 🔊Spotify https://open.spotify.com/show/7AotdyMtcvHZLv3pVqkxre 🦁https://x.com/EVMavericks ⏱️TikTok: https://www.tiktok.com/@evmavericks 📺https://www.youtube.com/channel/UC51nlNbIkBm5Qhm7EwQuWLw Twitch: https://www.twitch.tv/evmavericks LinkedIN: https://www.linkedin.com/company/evmavericks-daily-doots-podcast
@@ -146,21 +138,29 @@ The Doots live stream is all about showcasing the best of the week from the Dail
 
 ---
 
+**[Just one Scan that can save you from exploits [Its free to scan]](https://www.reddit.com/r/ethereum/comments/1qrvb61/just_one_scan_that_can_save_you_from_exploits_its/)**
+
+Watch before one bug costs you everything. https://x.com/SolidityScan/status/2017172006056390715?s=20
+
+22h ago
+
+---
+
 ---
 
 ## Google News: "ethereum"
+
+**[Bitcoin, XRP, Ethereum Fall on News of Kevin Warsh Fed Appointment.](https://www.barrons.com/articles/bitcoin-xrp-ethereum-crypto-today-954298d9?gaa_at=eafs&gaa_n=AWEtsqfD67DuZX0iywG8eT3VLdy_NWmPKs3_R73Je0p2i0YOApKGjEfh_dal&gaa_ts=697ee1c8&gaa_sig=mH51ctjPcHaDqxdlr5OuRjGP8aGnXDZZ0NIhmRIqTKij1X9ZdHwccg2j8J4gLohQFI8S5sxg2iy2ZwK8fhP29w%3D%3D)**
+
+Barron's • 1d ago
+
+---
 
 **[Crypto Crash: Liquidations Top $2.5 Billion as Bitcoin, Ethereum and XRP Prices Plummet](https://decrypt.co/356557/crypto-crash-liquidations-2-5-billion-bitcoin-ethereum-xrp-plummet)**
 
 The crypto market's recent decline only accelerated Saturday, with Bitcoin falling to nearly $77,000 as liquidations piled up.
 
-Decrypt • 5h ago
-
----
-
-**[Bitcoin, XRP, Ethereum Fall on News of Kevin Warsh Fed Appointment.](https://www.barrons.com/articles/bitcoin-xrp-ethereum-crypto-today-954298d9?gaa_at=eafs&gaa_n=AWEtsqe8jVFFWfUqN7FtSrbPeFteGlZ5pHTvADBrrT-c7bDraUQno7Uf4U2B&gaa_ts=697ebe73&gaa_sig=AavFxrgSAB6bMGFE-Tl1Ns_AofoFWOWMj5du_UKxM_3vJut5182bYH9RGifai7IJSWqHJz0OmAz26tWq3uhiEw%3D%3D)**
-
-Barron's • 1d ago
+Decrypt • 8h ago
 
 ---
 
@@ -176,15 +176,13 @@ Yahoo Finance • 1d ago
 
 Banks at Davos are done watching from the sidelines. At this year’s World Economic Forum, major financial institutions said they need crypto infrastructure to stay competitive.A recent Altcoin Buzz video broke down three signals pointing to a potential crypto rally. “The biggest banks in the world…
 
-TradingView • 17h ago
+TradingView • 19h ago
 
 ---
 
-**[Crypto market crashes erasing $220B as Israel strikes Gaza with ETH and XRP leading weekend losses](https://cryptoslate.com/weekend-crypto-market-crash-erases-100b-as-israel-strikes-gaza-with-eth-and-xrp-leading-losses/)**
+**[🚨 $200 BILLION GONE FROM CRYPTO IN 24 HOURS Bitcoin, Ethereum, Solana, XRP ...all deep in the red. The entire market just got slammed, with double-digit drops across smaller tokens and nearly every chart bleeding. Ethereum is down nearly 7%, Bitco](https://x.com/MarioNawfal/status/2016994696992870843)**
 
-XRP leads a massive altcoin retreat as geopolitical shocks expose the dangerous reality of weekend trading.
-
-CryptoSlate • 11h ago
+x.com • 2d ago
 
 ---
 
@@ -192,15 +190,7 @@ CryptoSlate • 11h ago
 
 Ethereum Falls 10% In Selloff
 
-Investing.com • 8h ago
-
----
-
-**[Ethereum Supply Tightens With 45% of ETH Locked: Sygnum](https://thedefiant.io/news/research-and-opinion/ethereum-supply-tightens-with-45-of-eth-locked-sygnum)**
-
-ETF buying, staking and corporate holdings continue to reduce liquid ETH.
-
-thedefiant.io • 1d ago
+Investing.com • 11h ago
 
 ---
 
@@ -208,7 +198,7 @@ thedefiant.io • 1d ago
 
 ETH plunges to $2,400 after heavy liquidations, with analysts warning a deeper move toward $1,435 is possible.
 
-Coinpaper • 7h ago
+Coinpaper • 9h ago
 
 ---
 
@@ -217,6 +207,14 @@ Coinpaper • 7h ago
 Ripple’s new stablecoin rollout has put a bright spotlight on a simple fact: most RLUSD is living on Ethereum right now. That imbalance has stirred worry among long-time XRP supporters.Some feel the company’s heart might be shifting away from the ledger that gave it a base. Others say the move is p…
 
 TradingView • 1d ago
+
+---
+
+**[Lido’s new stVaults will let L2s create their own rules for Ethereum staking](https://www.coindesk.com/tech/2026/01/29/dnp-lido-launches-stvaults-to-let-builders-create-new-ethereum-staking-products)**
+
+stVaults let other teams plug into Lido’s staking system instead of building their own from scratch.
+
+CoinDesk • 1d ago
 
 ---
 
@@ -238,27 +236,7 @@ Nick Valdez looks at the latest market crash with the next level Bitcoin MUST ho
 
 📺 Discover Crypto
 
-👁️ 9K • 👍 525 • 💬 202 • ⏱️ 4:28 • 5h ago
-
----
-
-**[&quot;Why I&#39;m Loading Up MASSIVELY In Ethereum Before MARCH&quot; - Tom Lee (4 WEEKS LEFT!)](https://www.youtube.com/watch?v=UjCE1TUJ4lI)**
-
-My FREE Daily On-Chain Analysis & Crypto News In 5-Mins: https://www.cryptonutshell.com/subscribe You can NOW ...
-
-📺 Jamie Tree 
-
-👁️ 2K • 👍 61 • 💬 69 • ⏱️ 18:25 • 11h ago
-
----
-
-**[BITCOIN CRASH: PRICE TARGETS HIT (this is next)!!!! - Bitcoin News Today, Ethereum &amp; Altcoins](https://www.youtube.com/watch?v=8mqEKXWHZOE)**
-
-BITCOIN CRASH: PRICE TARGETS HIT (this is next)!!!! - Bitcoin News Today, Ethereum & Altcoins *Toobit* ...
-
-📺 Crypto World
-
-👁️ 8K • 👍 427 • 💬 226 • ⏱️ 27:07 • 5h ago
+👁️ 13K • 👍 612 • 💬 184 • ⏱️ 4:28 • 7h ago
 
 ---
 
@@ -268,17 +246,27 @@ BITCOIN CRASH: PRICE TARGETS HIT (this is next)!!!! - Bitcoin News Today, Ethere
 
 📺 Crypto Moe
 
-👁️ 1K • 👍 181 • 💬 40 • ⏱️ 11:41 • 3h ago
+👁️ 2K • 👍 231 • 💬 44 • ⏱️ 11:41 • 6h ago
 
 ---
 
-**[Ethereum Elliott Wave Update – Key Resistance Levels Ahead](https://www.youtube.com/watch?v=XFntGyzd46U)**
+**[&quot;Why I&#39;m Loading Up MASSIVELY In Ethereum Before MARCH&quot; - Tom Lee (4 WEEKS LEFT!)](https://www.youtube.com/watch?v=UjCE1TUJ4lI)**
 
-This video provides a professional Elliott Wave and technical analysis of Ethereum (ETH), focusing on market structure, major ...
+My FREE Daily On-Chain Analysis & Crypto News In 5-Mins: https://www.cryptonutshell.com/subscribe You can NOW ...
 
-📺 More Crypto Online
+📺 Jamie Tree 
 
-👁️ 3K • 👍 244 • 💬 21 • ⏱️ 4:54 • 6h ago
+👁️ 2K • 👍 65 • 💬 60 • ⏱️ 18:25 • 13h ago
+
+---
+
+**[Ethereum vs Bitcoin: The Trade Everyone Is Missing in 2026 w/ Kyle Reidhead &amp; John Gillen](https://www.youtube.com/watch?v=wIsd5_VNgbs)**
+
+Go PRO and become a better investor: ...
+
+📺 Milk Road
+
+👁️ 2K • 👍 90 • 💬 52 • ⏱️ 12:13 • 17h ago
 
 ---
 
@@ -288,7 +276,27 @@ Join UpTrade today - Your personal crypto broker: https://www.uptrade.au/ My FRE
 
 📺 Crypto Nutshell
 
-👁️ 11K • 👍 363 • 💬 104 • ⏱️ 16:36 • 11h ago
+👁️ 12K • 👍 382 • 💬 99 • ⏱️ 16:36 • 13h ago
+
+---
+
+**[🚨 EMERGENCY UPDATE: CRYPTO CRASH INTENSIFIES! (Here&#39;s Why)](https://www.youtube.com/watch?v=ytTNgeSXztY)**
+
+EMERGENCY UPDATE: CRYPTO CRASH INTENSIFIES! (Here's Why) The crypto market is in FREEFALL, and the selling ...
+
+📺 Tim Warren
+
+👁️ 18K • 👍 1K • 💬 416 • ⏱️ 11:12 • 10h ago
+
+---
+
+**[BITCOIN CRASH: PRICE TARGETS HIT (this is next)!!!! - Bitcoin News Today, Ethereum &amp; Altcoins](https://www.youtube.com/watch?v=8mqEKXWHZOE)**
+
+BITCOIN CRASH: PRICE TARGETS HIT (this is next)!!!! - Bitcoin News Today, Ethereum & Altcoins *Toobit* ...
+
+📺 Crypto World
+
+👁️ 10K • 👍 478 • 💬 185 • ⏱️ 27:07 • 8h ago
 
 ---
 
@@ -298,7 +306,17 @@ Join Premium: https://the-bitcoin-strategy.com My Chart Software: https://the-bi
 
 📺 Gerhard - Bitcoin Strategy
 
-👁️ 6K • 👍 142 • 💬 46 • ⏱️ 7:13 • 17h ago
+👁️ 6K • 👍 143 • 💬 46 • ⏱️ 7:13 • 20h ago
+
+---
+
+**[HUGE DROP ON BITCOIN, ETH &amp; GOLD 🚨 🚨 ](https://www.youtube.com/watch?v=3j6VFFKKnME)**
+
+Live Bitcoin and Ethereum trades, Tesla setup, risk plan, and trader psychology. Daily charts, entries, exits, and management for ...
+
+📺 James Crypto Guru
+
+👁️ 956 • 👍 115 • 💬 8 • ⏱️ 12:31 • 3h ago
 
 ---
 
@@ -308,27 +326,7 @@ FREE TRAINING: https://www.bullmania.com EXCHANGES I USE (bybit, pionex): https:
 
 📺 Ivan on Tech
 
-👁️ 24K • 👍 2K • 💬 124 • ⏱️ 44:59 • 8h ago
-
----
-
-**[ETHEREUM TESTING HUGE SUPPORT 🚨 JANUARY 31](https://www.youtube.com/watch?v=W-XjBY7wfO4)**
-
-ETHEREUM TESTING HUGE SUPPORT JANUARY 31.
-
-📺 Overkill Trading
-
-👁️ 338 • 👍 22 • 💬 4 • ⏱️ 2:40 • 1h ago
-
----
-
-**[Ethereum Elliott Wave Update – Key Resistance Levels Ahead](https://www.youtube.com/watch?v=soWYVsa4xZc)**
-
-This video provides a professional Elliott Wave and technical analysis of Ethereum (ETH), focusing on market structure, major ...
-
-📺 More Crypto Online
-
-👁️ 3K • 👍 145 • 💬 8 • ⏱️ 4:18 • 12h ago
+👁️ 25K • 👍 2K • 💬 125 • ⏱️ 44:59 • 11h ago
 
 ---
 

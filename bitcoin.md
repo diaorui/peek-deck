@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-02-01T02:31:37.542617+00:00'
+updated: '2026-02-01T05:02:20.201953+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- cryptocurrency
-- news
 - videos
+- news
 - social
+- cryptocurrency
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** February 01, 2026 at 02:31 UTC  
+**Last Updated:** February 01, 2026 at 05:02 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,39 +38,39 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $78,354.74
+### $79,011.93
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** -6.5%  
-**7d:** -11.0%  
-**30d:** -13.3%  
-**90d:** -22.7%  
-**1y:** -19.5%  
+**24h:** -5.8%  
+**7d:** -10.6%  
+**30d:** -13.0%  
+**90d:** -22.4%  
+**1y:** -19.2%  
 
 ---
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1568.71B
+**Market Cap:** $1577.50B
 Rank #1
 
 **Circulating Supply:** 19,982,656 BTC
 95.2% of max
 
 **All-Time High:** $126,080.00
--37.7%
+-37.4%
 
 **All-Time Low:** $67.81
-+115713.3%
++116272.2%
 
 ---
 
 ## Fear & Greed Index
 
-### 20
+### 14
 **EXTREME FEAR**
 
 ---
@@ -81,13 +81,19 @@ Rank #1
 
 Took advantage of the plummet to get myself over the 0.5 mark!! I know this is small for some and big for others, but I’m quite happy with this! Just wanted to share with others who’d understand - nobody in my life cares lol.
 
-3h ago
+6h ago
+
+---
+
+**[Don't worry.](https://www.reddit.com/r/Bitcoin/comments/1qseizq/dont_worry/)**
+
+7h ago
 
 ---
 
 **[Today’s message…](https://www.reddit.com/r/Bitcoin/comments/1qscx1s/todays_message/)**
 
-6h ago
+8h ago
 
 ---
 
@@ -95,13 +101,13 @@ Took advantage of the plummet to get myself over the 0.5 mark!! I know this is s
 
 Wasn't my original plan actually, but the blood is splattering so much that there's no other way.
 
-5h ago
+8h ago
 
 ---
 
 **[I’m done](https://www.reddit.com/r/Bitcoin/comments/1qsaxev/im_done/)**
 
-7h ago
+10h ago
 
 ---
 
@@ -109,39 +115,33 @@ Wasn't my original plan actually, but the blood is splattering so much that ther
 
 I'm not wasting these cheap stacks. HODL and BUY!
 
-8h ago
+11h ago
 
 ---
 
-**[Evergreen just like BTC!](https://www.reddit.com/r/Bitcoin/comments/1qs6sj1/evergreen_just_like_btc/)**
+**[I am celebrating. If Bitcoin drops to 60k i will sell a lot of my stock market portfolio to buy bitcoins.](https://www.reddit.com/r/Bitcoin/comments/1qsec77/i_am_celebrating_if_bitcoin_drops_to_60k_i_will/)**
 
-10h ago
+In the meanwhile I will just buy bitcoin regularly catching many of these dips. My target buy is 60k. (Obviously 20k would be great to buy but i dont believe it goes that deep and my more realistic target is 60k USD) ____________________ Edit: what is it with this user Academic_Attorney996, a bot?, who keeps spamming random shit all over this thread and over hours? Yapping about random shit and remembering me when bitcoin was 20k or something lol. This account isnt even old enough for 20k price range. Besides I never posted on this sub or any other sub about bitcoin. Is it a bot or an obsessed person yapping?
+
+7h ago
 
 ---
 
 **[DOING MY PART](https://www.reddit.com/r/Bitcoin/comments/1qsd85h/doing_my_part/)**
 
-6h ago
+8h ago
 
 ---
 
 **[Buy Now](https://www.reddit.com/r/Bitcoin/comments/1qs9mvq/buy_now/)**
 
-8h ago
+10h ago
 
 ---
 
-**[It's what we all prayed for...a Bitcoin buying opportunity](https://www.reddit.com/r/Bitcoin/comments/1qs4gob/its_what_we_all_prayed_fora_bitcoin_buying/)**
+**[Evergreen just like BTC!](https://www.reddit.com/r/Bitcoin/comments/1qs6sj1/evergreen_just_like_btc/)**
 
-The world is going through some shit right now...but just know that eventually, everything's going to be ok. The aftermath might be a little hard to stomach, but we'll get through it. In the meantime...don't miss the chance to stack sats at every drop. You never know which one will be the bottom, but buy a bit at every new low and thank me later.
-
-11h ago
-
----
-
-**[Don't worry.](https://www.reddit.com/r/Bitcoin/comments/1qseizq/dont_worry/)**
-
-5h ago
+12h ago
 
 ---
 
@@ -153,7 +153,7 @@ The world is going through some shit right now...but just know that eventually, 
 
 Social chatter around bitcoin has turned sharply negative after the token slid to its lowest level since Nov. 21, a setup Santiment says often appears near capitulation, even if near term trading stays messy.
 
-CoinDesk • 10h ago
+CoinDesk • 13h ago
 
 ---
 
@@ -161,7 +161,35 @@ CoinDesk • 10h ago
 
 The main impact of the price decline is slowing Strategy's ability to buy more bitcoin without diluting shareholders, as its stock now trades at a discount to its bitcoin holdings.
 
-CoinDesk • 5h ago
+CoinDesk • 7h ago
+
+---
+
+**[Opinions de Token Talks(@AshirMalik)](https://www.binance.com/fr-AF/square/post/35852860346994)**
+
+Binance • 1h ago
+
+---
+
+**[Fed Chair nominee Warsh views bitcoin as “good policeman for policy”](https://finance.yahoo.com/news/fed-chair-nominee-warsh-views-150459398.html)**
+
+Warsh has praised bitcoin as a tool to guide policy, not as a competitor to the dollar.
+
+Yahoo Finance • 1d ago
+
+---
+
+**[Trump Announces Kevin Warsh As Fed Chair Nominee—Why Did Bitcoin Dump To $83,000?](https://finance.yahoo.com/news/trump-announces-kevin-warsh-fed-153214039.html)**
+
+President Trump on Friday announced Kevin Warsh as his nominee to succeed Jerome Powell as Chair of the Federal Reserve, yet Bitcoin (CRYPTO: BTC) plunged below $83,000 on the news. Warsh Nomination Shifts Macro Interpretation Technical analyst Kyledoops said a Warsh-led Fed would fundamentally change how markets interpret policy signals, given his reputation as an inflation hawk and strong-dollar advocate. "If Warsh even hints at easing, it would be taken as genuinely meaningful," Kyledoops not
+
+Yahoo Finance • 13h ago
+
+---
+
+**[Bitcoin Drops Below $78,000 After Trump Taps Kevin Warsh To Lead Federal Reserve](https://www.forbes.com/sites/mikestunson/2026/01/31/bitcoin-is-dropping-fast-heres-why-it-dropped-below-78000/)**
+
+Forbes • 6h ago
 
 ---
 
@@ -173,51 +201,27 @@ The Block • 1d ago
 
 ---
 
-**[Bitcoin’s freefall approaches $80,000 as precious metals also tank](https://fortune.com/2026/01/30/bitcoin-price-today-ethereum-gold-silver-platinum-copper/)**
-
-The world’s largest cryptocurrency is down 2% over the past day while gold and silver have dropped 11% and 30%, respectively.
-
-Fortune • 1d ago
-
----
-
-**[The Slide in Gold and Silver Sets Up a Test for Bitcoin](https://www.barrons.com/articles/the-slide-in-gold-and-silver-sets-up-a-test-for-bitcoin-2a9573b3?gaa_at=eafs&gaa_n=AWEtsqfpHjJpOEYmVOshe8IDwWcZ0rZxCMwZzdJ1roEyS8C05O5MH9iyKD5N&gaa_ts=697ebe71&gaa_sig=u_JHdzuZMlfr8H5KcqLIebuB4-KrmomH4Ltm8McIg2qTXdPLt1aetVV2Igm8VKcQQPyZxa88wT4aVnvMx76XRw%3D%3D)**
-
-Barron's • 1d ago
-
----
-
-**[Bitcoin Drops Below $78,000 After Trump Taps Kevin Warsh To Lead Federal Reserve](https://www.forbes.com/sites/mikestunson/2026/01/31/bitcoin-is-dropping-fast-heres-why-it-dropped-below-78000/)**
-
-Forbes • 4h ago
-
----
-
-**[Bitcoin slips as Fed chair speculation hits risky assets](https://www.reuters.com/business/bitcoin-slips-fed-chair-speculation-hits-risky-assets-2026-01-30/)**
-
-Reuters • 1d ago
-
----
-
-**[Bitcoin, XRP, Ethereum Fall on News of Kevin Warsh Fed Appointment.](https://www.barrons.com/articles/bitcoin-xrp-ethereum-crypto-today-954298d9?gaa_at=eafs&gaa_n=AWEtsqe5AZc5kJAfhXjWCP7OvcjwDgA4Q9YpQ9ahWFOZQmXnTN-AX5NwbT8g&gaa_ts=697ebe71&gaa_sig=JdW7HjGxEVZUd2NBILCZ5toFd7DkcJ1aPb1vWpk5aACljUfk8abOtfmtka2RNUB82SrYIjDtva-j-OBtbmEeoA%3D%3D)**
-
-Barron's • 1d ago
-
----
-
 **[Better Investment to Make in 2026 and Beyond: Bitcoin vs. iShares Bitcoin Trust](https://www.fool.com/investing/2026/01/31/better-investment-2026-beyond-bitcoin-ibit/)**
 
 Based on its monster past performance, it makes sense why investors are interested in Bitcoin.
 
-The Motley Fool • 14h ago
+The Motley Fool • 16h ago
 
 ---
 
-**[Fear that quantum computing is on the cusp of cracking cryptocurrency's encryption spurs a global investment firm to remove Bitcoin from recommendations](https://www.tomshardware.com/tech-industry/cryptocurrency/fear-that-quantum-computing-on-the-cusp-of-cracking-cryptocurrencys-encryption-spurs-a-global-investment-firm-to-remove-bitcoin-from-recommendations)**
+**[Active Solana addresses spike 115%, four in 10 merchants take Bitcoin: Month in Charts](https://www.tradingview.com/news/cointelegraph:7af7f5e0c094b:0-active-solana-addresses-spike-115-four-in-10-merchants-take-bitcoin-month-in-charts/)**
 
-The firm's senior financial strategist is concerned the advancements in the field of quantum computing will break Bitcoin.
+Activity on major altcoin networks, namely Solana and Ethereum, saw major milestones in January. Daily active addresses on Solana consistently topped 5 million in the second half of the month.Ethereum overtook major layer 2s in December in terms of daily active addresses after major upgrades to the…
 
-Tom's Hardware • 13d ago
+TradingView • 17h ago
+
+---
+
+**[Where is Donald Trump’s strategic Bitcoin reserve?](https://www.fastcompany.com/91482053/where-is-donald-trumps-strategic-bitcoin-reserve)**
+
+The government seems to be amassing more Bitcoin. But little work seems to be happening to enact the terms of the executive order Trump signed to start the 'strategic reserve.'
+
+Fast Company • 2d ago
 
 ---
 
@@ -227,7 +231,7 @@ Tom's Hardware • 13d ago
 
 **[Bitcoin Looks Set for Longest Monthly Losing Streak Since 2018](https://news.ycombinator.com/item?id=46838644)**
 
-⬆️ 60 • 💬 61 • 9h ago • [bloomberg.com](https://www.bloomberg.com/news/articles/2026-01-30/bitcoin-btc-slides-toward-longest-monthly-losing-streak-since-2018)
+⬆️ 63 • 💬 61 • 11h ago • [bloomberg.com](https://www.bloomberg.com/news/articles/2026-01-30/bitcoin-btc-slides-toward-longest-monthly-losing-streak-since-2018)
 
 ---
 
@@ -251,7 +255,7 @@ A list of known attacks against Bitcoin / crypto asset owning entities that occu
 
 PoW + EVM cryptocurrency. 21M fixed supply, fair launch, no team, no foundation. Just code. - lumenyx-chain/lumenyx
 
-⬆️ 1 • 💬 0 • 13h ago • [GitHub](https://github.com/lumenyx-chain/lumenyx)
+⬆️ 1 • 💬 0 • 16h ago • [GitHub](https://github.com/lumenyx-chain/lumenyx)
 
 ---
 
@@ -309,17 +313,17 @@ Nick Valdez looks at the latest market crash with the next level Bitcoin MUST ho
 
 📺 Discover Crypto
 
-👁️ 9K • 👍 525 • 💬 201 • ⏱️ 4:28 • 5h ago
+👁️ 13K • 👍 612 • 💬 184 • ⏱️ 4:28 • 7h ago
 
 ---
 
-**[The Trifecta of Crashes: Gold, Silver &amp; Now Bitcoin. $77k &amp; DROPPING!](https://www.youtube.com/watch?v=kBkBYd2o1rU)**
+**[What Just Happened to Bitcoin?](https://www.youtube.com/watch?v=36EN2fN4F9M)**
 
-Gold crashes with Silver in tow and now comes Bitcoin. How low can we go? MUCH lower. The links below may include affiliate ...
+When Will the Current U.S. Government Shutdown End?
 
-📺 Digital Asset News
+📺 CryptosRUs
 
-👁️ 14K • 👍 771 • 💬 116 • ⏱️ 35:43 • 4h ago
+👁️ 17K • 👍 1K • 💬 620 • ⏱️ 11:12 • 3h ago
 
 ---
 
@@ -329,7 +333,17 @@ Bitcoin plunges under $80000 as geopolitical risks deepens amid U.S-Iran tension
 
 📺 Ricky Gutierrez
 
-👁️ 17K • 👍 605 • 💬 310 • ⏱️ 6:53 • 7h ago
+👁️ 20K • 👍 657 • 💬 282 • ⏱️ 6:53 • 10h ago
+
+---
+
+**[The Trifecta of Crashes: Gold, Silver &amp; Now Bitcoin. $77k &amp; DROPPING!](https://www.youtube.com/watch?v=kBkBYd2o1rU)**
+
+Gold crashes with Silver in tow and now comes Bitcoin. How low can we go? MUCH lower. The links below may include affiliate ...
+
+📺 Digital Asset News
+
+👁️ 16K • 👍 847 • 💬 127 • ⏱️ 35:43 • 7h ago
 
 ---
 
@@ -339,7 +353,7 @@ The 'Path of Least Resistance' is currently straight down, and the stock market 
 
 📺 Gareth Soloway
 
-👁️ 68K • 👍 5K • 💬 840 • ⏱️ 12:26 • 8h ago
+👁️ 76K • 👍 6K • 💬 842 • ⏱️ 12:26 • 11h ago
 
 ---
 
@@ -349,7 +363,27 @@ LIMITED TIME: ✓ Bitunix (no kyc, $10k bonus): https://www.bitunix.com/register
 
 📺 Altcoin Daily
 
-👁️ 13K • 👍 1K • 💬 123 • ⏱️ 9:24 • 2h ago
+👁️ 30K • 👍 2K • 💬 226 • ⏱️ 9:24 • 4h ago
+
+---
+
+**[Bitcoin... This Is What&#39;s Happening (HUGE SELLOFF)](https://www.youtube.com/watch?v=pSZzzelGpK8)**
+
+This isn't looking good iTrust Capital – $100 Bonus (Crypto IRA & Custody Accounts) ...
+
+📺 Aaron Bennett
+
+👁️ 1K • 👍 130 • 💬 104 • ⏱️ 10:16 • 49m ago
+
+---
+
+**[Forget The Crash! Bitcoin Will Hit These Insane Figures in February - Matt Hougan](https://www.youtube.com/watch?v=QBcWKNKxnGk)**
+
+Take Control of Your Retirement — Grow Crypto & Gold Tax-Advantaged. https://www.itrustcapital.com/go/savvy-finance If you're ...
+
+📺 Savvy Finance
+
+👁️ 4K • 👍 241 • 💬 16 • ⏱️ 20:55 • 5h ago
 
 ---
 
@@ -359,37 +393,7 @@ Why the Crypto Market Is Red (It s NOT the Reason You Think)! Breaking Crypto Ne
 
 📺 Austin Hilton
 
-👁️ 27K • 👍 913 • 💬 329 • ⏱️ 9:28 • 10h ago
-
----
-
-**[WTF JUST HAPPENED TO BITCOIN!!](https://www.youtube.com/watch?v=BbgZx_N5xpc)**
-
-CHECK OUT MY LINKTREE FOR EXCHANGES I USE, BONUSES, FREE VIDEOS, AND MORE! https://linktr.ee/Myfinancialfriend I ...
-
-📺 My Financial Friend
-
-👁️ 19K • 👍 767 • 💬 350 • ⏱️ 8:03 • 9h ago
-
----
-
-**[🚨 EMERGENCY UPDATE: CRYPTO CRASH INTENSIFIES! (Here&#39;s Why)](https://www.youtube.com/watch?v=ytTNgeSXztY)**
-
-EMERGENCY UPDATE: CRYPTO CRASH INTENSIFIES! (Here's Why) The crypto market is in FREEFALL, and the selling ...
-
-📺 Tim Warren
-
-👁️ 17K • 👍 994 • 💬 409 • ⏱️ 11:12 • 7h ago
-
----
-
-**[Bitcoin Investors....Get Ready for THIS](https://www.youtube.com/watch?v=i8c_TMdqOb0)**
-
-Check out ClashPicks: https://www.clashpicks.com/ **Exchange Partners** Bitunix Exchange ▻ *$100000 Deposit Bonus* ...
-
-📺 CryptosRUs
-
-👁️ 57K • 👍 2K • 💬 578 • ⏱️ 8:41 • 2d ago
+👁️ 28K • 👍 929 • 💬 210 • ⏱️ 9:28 • 12h ago
 
 ---
 
@@ -399,7 +403,7 @@ Watch my free masterclass & get Market Briefs as a bonus: https://briefs.finance
 
 📺 Minority Mindset
 
-👁️ 241K • 👍 9K • 💬 2K • ⏱️ 14:10 • 14h ago
+👁️ 257K • 👍 9K • 💬 2K • ⏱️ 14:10 • 16h ago
 
 ---
 
