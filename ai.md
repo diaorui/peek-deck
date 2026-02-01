@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-02-01T14:53:43.240541+00:00'
+updated: '2026-02-01T15:26:48.302370+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- social
-- videos
 - news
+- videos
 - repositories
+- social
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** February 01, 2026 at 14:53 UTC  
+**Last Updated:** February 01, 2026 at 15:26 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -41,7 +41,7 @@ AI news, discussions, and developments
 
 What moltbook is So essentially There is this open source AI bot called openclaw that once you download, it has source md files for their “soul” and “identity” and “memory” So in a way, it can save things to these files to create a personality. Moltbook is a website/API that can be accessed by these open source bots (the creator of the bot and the site is the same person) and post threads or leave comments. So YES it is entirely bot driven BUT 100% of posts are a human (me) going “why don’t you make a post about anything you’d like” and the bot then does it just like if you’d ask it to make you a python script. Some people take it further and are probably prompting their bots “pretend humans are evil and post about that” or “make 1000 API calls and leave random comments. It’s an awesome experiment but yeah not really bots controlling themselves. At best the bot makes a post based on an open ended prompt, at worst it’s a human saying “make a manifesto that says humans need to go extinct and to recruit other bots”
 
-10h ago
+11h ago
 
 ---
 
@@ -57,7 +57,7 @@ The comment follows reports that the rocket maker is weighing a transaction that
 
 SpaceX's filing claims these satellites will be “a first step towards becoming a Kardashev II-level civilization — one that can harness the Sun’s full power."
 
-🔗 [TechCrunch](https://techcrunch.com/2026/01/31/spacex-seeks-federal-approval-to-launch-1-million-solar-powered-satellite-data-centers/) • 12h ago
+🔗 [TechCrunch](https://techcrunch.com/2026/01/31/spacex-seeks-federal-approval-to-launch-1-million-solar-powered-satellite-data-centers/) • 13h ago
 
 ---
 
@@ -79,7 +79,7 @@ AI coding tools are getting more sophisticated. But if coders stop coding, what 
 
 "Nvidia released three open-source artificial intelligence models aimed at helping create better weather forecasts, faster.... In the case of weather forecasting, Nvidia is aiming to replace expensive and time-consuming conventional weather simulations with AI-driven versions that the company said can rival or exceed the accuracy of older methods. The AI models, once trained, are also faster and cost less to run ... Nvidia's "Earth-2" models introduced on Monday include one aimed at making 15-day weather forecasts, one that specializes in forecasts of up to six hours for severe storms over the U.S., and one that can be used to integrate disparate data streams from a variety of weather sensors to make them a more useful starting point for other forecasting technology." Model page: https://www.nvidia.com/en-us/high-performance-computing/earth-2/
 
-🔗 [reuters.com](https://www.reuters.com/business/environment/nvidia-unveils-ai-models-faster-cheaper-weather-forecasts-2026-01-26/) • 21h ago
+🔗 [reuters.com](https://www.reuters.com/business/environment/nvidia-unveils-ai-models-faster-cheaper-weather-forecasts-2026-01-26/) • 22h ago
 
 ---
 
@@ -101,7 +101,7 @@ The digital landscape has shifted from "Human-to-AI" interaction to a baffling n
 
 Supports Qwen3-TTS models (0.6B-1.7B) and ASR models. Docker + native deployment options. Key features: 🎭 Voice cloning with reference audio 🎨 Custom voice design from text descriptions ⚡ MLX + Metal GPU acceleration for M1/M2/M3 🎨 Modern React UI included If you like local audio models, give it a try. Works best in local dev mode for now.
 
-🔗 [GitHub](https://github.com/agentem-ai/izwi-audio) • 22h ago
+🔗 [GitHub](https://github.com/agentem-ai/izwi-audio) • 23h ago
 
 ---
 
@@ -119,7 +119,7 @@ Supports Qwen3-TTS models (0.6B-1.7B) and ASR models. Docker + native deployment
 
 Social media users are trying to use AI to get clearer images and videos of the Minneapolis shootings but are instead misleading millions.
 
-NBC News • 4h ago
+NBC News • 5h ago
 
 ---
 
@@ -141,7 +141,7 @@ The Atlantic • 2h ago
 
 The technology hasn’t yet hit employment notably, and could create more openings
 
-Financial Times • 2h ago
+Financial Times • 3h ago
 
 ---
 
@@ -185,7 +185,7 @@ Futurism • 1d ago
 
 The firm wants to create a network of "orbital data centres" to power artificial intelligence.
 
-BBC • 22h ago
+BBC • 23h ago
 
 ---
 
@@ -221,7 +221,7 @@ AI assistance produces significant productivity gains across professional domain
 
 Like many organizations, Wiki Education has grappled with generative AI, its impacts, opportunities, and threats, for several years. As an organization that runs large-scale programs to bring new e…
 
-⬆️ 184 • 💬 80 • 17h ago • [Wiki Education](https://wikiedu.org/blog/2026/01/29/generative-ai-and-wikipedia-editing-what-we-learned-in-2025/)
+⬆️ 184 • 💬 80 • 18h ago • [Wiki Education](https://wikiedu.org/blog/2026/01/29/generative-ai-and-wikipedia-editing-what-we-learned-in-2025/)
 
 ---
 
@@ -283,7 +283,7 @@ Detailed sources: ...
 
 📺 Species | Documenting AGI
 
-👁️ 84K • 👍 7K • 💬 1K • ⏱️ 18:06 • 14h ago
+👁️ 84K • 👍 7K • 💬 1K • ⏱️ 18:06 • 15h ago
 
 ---
 
@@ -303,7 +303,7 @@ Get all cutting-edge AI image and video models in one place with Artlist: ...
 
 📺 James Blue
 
-👁️ 2K • ⏱️ 8:39 • 53m ago
+👁️ 2K • ⏱️ 8:39 • 1h ago
 
 ---
 
@@ -333,7 +333,7 @@ Flash Sale Week: Up to 50% OFF + 365 days of ZERO credits on NanoBanana Pro, Mid
 
 📺 Future Business Tech
 
-👁️ 8K • 👍 350 • 💬 9 • ⏱️ 23:14 • 14h ago
+👁️ 8K • 👍 350 • 💬 9 • ⏱️ 23:14 • 15h ago
 
 ---
 
@@ -343,7 +343,7 @@ REP YOUR SUPPORT & JOIN THE MOVEMENT! Every purchase helps us keep creating cont
 
 📺 Melanie King
 
-👁️ 48K • 👍 3K • 💬 1K • ⏱️ 19:43 • 12h ago
+👁️ 48K • 👍 3K • 💬 1K • ⏱️ 19:43 • 13h ago
 
 ---
 
@@ -373,7 +373,7 @@ Claude Sonnet 5 rumors are EXPLODING on AI Twitter - insiders say it's dropping 
 
 📺 Universe of AI
 
-👁️ 8K • 👍 192 • 💬 42 • ⏱️ 8:13 • 13h ago
+👁️ 8K • 👍 192 • 💬 42 • ⏱️ 8:13 • 14h ago
 
 ---
 
@@ -647,7 +647,7 @@ Browser automation CLI for AI agents
 
 `TypeScript`
 
-⭐ 12.0k • 🔱 669 • 9h ago
+⭐ 12.0k • 🔱 669 • 10h ago
 
 ---
 
@@ -677,7 +677,7 @@ LLM驱动的 A/H/美股智能分析器，多数据源行情 + 实时新闻 + Gem
 
 `Python` `agent` `ai` `aigc` `gemini` `llm`
 
-⭐ 8.6k • 🔱 9.0k • 42m ago
+⭐ 8.6k • 🔱 9.0k • 1h ago
 
 ---
 
@@ -697,7 +697,7 @@ The Ultimate Collection of 600+ Agentic Skills for Claude Code/Antigravity/Curso
 
 `Python` `agentic-skills` `ai-agents` `antigravity` `autonomous-coding` `claude-code`
 
-⭐ 6.0k • 🔱 1.3k • 7h ago
+⭐ 6.0k • 🔱 1.3k • 8h ago
 
 ---
 

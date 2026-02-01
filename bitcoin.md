@@ -3,14 +3,14 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-02-01T14:53:43.248897+00:00'
+updated: '2026-02-01T15:26:48.310756+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- social
-- videos
 - news
+- videos
+- social
 - cryptocurrency
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** February 01, 2026 at 14:53 UTC  
+**Last Updated:** February 01, 2026 at 15:26 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -85,7 +85,7 @@ Rank #1
 
 **[Buy Now](https://www.reddit.com/r/Bitcoin/comments/1qs9mvq/buy_now/)**
 
-20h ago
+21h ago
 
 ---
 
@@ -101,7 +101,7 @@ I'm not wasting these cheap stacks. HODL and BUY!
 
 Took advantage of the plummet to get myself over the 0.5 mark!! I know this is small for some and big for others, but I’m quite happy with this! Just wanted to share with others who’d understand - nobody in my life cares lol.
 
-15h ago
+16h ago
 
 ---
 
@@ -117,19 +117,19 @@ Best Case Scenario - BTC will test 92K, if it breaks it will set a new ATH. Wors
 
 Just started investing in BTC yesterday evening. Purchased my initial batch at 65.000 EUR (77.000 USD). Plan on DCAing daily plus additional buys as it drops sharply. One thing I can’t seem to understand is, folks heavily believe in this 4y cycle thing with BTC guessing the bottom in the mid 50ks USD by end of 2026. Yet most people seem to be holding instead of selling and rebuying way cheaper. Can you explain to me pls? If this 4y cylcle was a „law“ why would ppl hold anyways? Thanks
 
-6h ago
+7h ago
 
 ---
 
 **[Today’s message…](https://www.reddit.com/r/Bitcoin/comments/1qscx1s/todays_message/)**
 
-18h ago
+19h ago
 
 ---
 
 **[I’m done](https://www.reddit.com/r/Bitcoin/comments/1qsaxev/im_done/)**
 
-19h ago
+20h ago
 
 ---
 
@@ -145,7 +145,7 @@ Anyone that’s “done with bitcoin” never actually understood bitcoin in the
 
 When we were at ATH I saw people talking how we'd get to $200k by December, now I see people talking how "this is just the beginning, it's going to be a rough year." I don't think anyone here knows what is going to happen in the next few months. Just relax and HODL.
 
-8h ago
+9h ago
 
 ---
 
@@ -163,7 +163,7 @@ Yahoo Finance • 21h ago
 
 **[Bitcoin Drops Below $78,000 After Trump Taps Kevin Warsh To Lead Federal Reserve](https://www.forbes.com/sites/mikestunson/2026/01/31/bitcoin-is-dropping-fast-heres-why-it-dropped-below-78000/)**
 
-Forbes • 16h ago
+Forbes • 17h ago
 
 ---
 
@@ -179,7 +179,7 @@ Yahoo Finance • 2d ago
 
 Warsh has praised bitcoin as a tool to guide policy, not as a competitor to the dollar.
 
-Yahoo Finance • 1d ago
+Yahoo Finance • 2d ago
 
 ---
 
@@ -195,7 +195,7 @@ The Block • 1d ago
 
 The main impact of the price decline is slowing Strategy's ability to buy more bitcoin without diluting shareholders, as its stock now trades at a discount to its bitcoin holdings.
 
-CoinDesk • 17h ago
+CoinDesk • 18h ago
 
 ---
 
@@ -237,7 +237,7 @@ Fast Company • 3d ago
 
 **[Bitcoin Looks Set for Longest Monthly Losing Streak Since 2018](https://news.ycombinator.com/item?id=46838644)**
 
-⬆️ 68 • 💬 70 • 21h ago • [bloomberg.com](https://www.bloomberg.com/news/articles/2026-01-30/bitcoin-btc-slides-toward-longest-monthly-losing-streak-since-2018)
+⬆️ 68 • 💬 70 • 22h ago • [bloomberg.com](https://www.bloomberg.com/news/articles/2026-01-30/bitcoin-btc-slides-toward-longest-monthly-losing-streak-since-2018)
 
 ---
 
@@ -319,7 +319,7 @@ This isn't looking good iTrust Capital – $100 Bonus (Crypto IRA & Custody Acco
 
 📺 Aaron Bennett
 
-👁️ 21K • 👍 909 • 💬 192 • ⏱️ 10:16 • 10h ago
+👁️ 21K • 👍 909 • 💬 192 • ⏱️ 10:16 • 11h ago
 
 ---
 
@@ -329,7 +329,7 @@ LIMITED TIME: ✓ Bitunix (no kyc, $10k bonus): https://www.bitunix.com/register
 
 📺 Altcoin Daily
 
-👁️ 73K • 👍 3K • 💬 324 • ⏱️ 9:24 • 14h ago
+👁️ 73K • 👍 3K • 💬 324 • ⏱️ 9:24 • 15h ago
 
 ---
 
@@ -349,7 +349,7 @@ Let's provide a Bitcoin damage report. Into The Cryptoverse Premium: https://int
 
 📺 Benjamin Cowen
 
-👁️ 71K • 👍 5K • 💬 279 • ⏱️ 31:15 • 9h ago
+👁️ 71K • 👍 5K • 💬 279 • ⏱️ 31:15 • 10h ago
 
 ---
 
@@ -369,7 +369,7 @@ Take Control of Your Retirement — Grow Crypto & Gold Tax-Advantaged. https://w
 
 📺 Savvy Finance
 
-👁️ 9K • 👍 375 • 💬 19 • ⏱️ 20:55 • 14h ago
+👁️ 9K • 👍 375 • 💬 19 • ⏱️ 20:55 • 15h ago
 
 ---
 

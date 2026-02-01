@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-02-01T14:53:43.258068+00:00'
+updated: '2026-02-01T15:26:48.319996+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- social
-- videos
 - news
+- videos
+- social
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** February 01, 2026 at 14:53 UTC  
+**Last Updated:** February 01, 2026 at 15:26 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -36,7 +36,7 @@ Robotics research and industry news
 
 I hadn't seen the whole video yesterday when I posted it. From The Humanoid Hub on 𝕏: https://x.com/TheHumanoidHub/status/2017646098136141858
 
-10h ago
+11h ago
 
 ---
 
@@ -44,7 +44,7 @@ I hadn't seen the whole video yesterday when I posted it. From The Humanoid Hub 
 
 From DEEP Robotics on 𝕏: https://x.com/DeepRobotics_CN/status/2017114429360656740
 
-3h ago
+4h ago
 
 ---
 
@@ -60,7 +60,7 @@ The real meat and potatoes: I made this as a modular brain for my other robots I
 
 Day:30 1- Base body and MCU from Sunfounder 2-Built over raspberry pi5 and powered by OpenAI 3- Connected to N8N for tooling like web search., scraping etc Let me know your thoughts 😊
 
-19h ago
+20h ago
 
 ---
 
@@ -68,7 +68,7 @@ Day:30 1- Base body and MCU from Sunfounder 2-Built over raspberry pi5 and power
 
 Saw this one at Wuhu train station in China. Answers questions at a desk. It looks like it has a lot of ability but it otherwise doesn't move at all. Even when you ask it to wave it says "sure, here's a friendly wave" but doesn't move an inch.
 
-12h ago
+13h ago
 
 ---
 
@@ -84,7 +84,7 @@ Hi, I’m working on a repurposed electric wheelchair chassis (>100 kg, high-tor
 
 Young PhD in Computer vision / Robotics here. I have recently read a post of Marie-Anne Lachaux, founding engineer of Llama and Mistral AI, talking about keys of success in research. One of them was « Have good intuition » to reduce the world of possibilities and dig into the right direction. How do you develop this intuition in research, especially in AI and Robotics?
 
-1h ago
+2h ago
 
 ---
 
@@ -98,7 +98,7 @@ From: CyberRobo on 𝕏: https://x.com/CyberRobooo/status/2017544750694551618 Ro
 
 **[The future of remote workers?](https://www.reddit.com/r/robotics/comments/1qsmoj2/the_future_of_remote_workers/)**
 
-11h ago
+12h ago
 
 ---
 
@@ -126,7 +126,7 @@ CNBC • 1h ago
 
 Tesla’s pivot to producing humanoid robots is expected to engage a network of key Chinese component makers.
 
-South China Morning Post • 8h ago
+South China Morning Post • 9h ago
 
 ---
 
@@ -166,7 +166,7 @@ The Robot Report • 1h ago
 
 Hawaii’s watersheds and coral reefs would be recognized as “legal persons” with legal rights; high school robotics could become an interscholastic sport; military live-fire training would be banned on state land; and a new fee would be charged on any “sugar-sweetened” beverages under new House and Senate bills to be considered during the legislative session that’s scheduled to adjourn May 8.
 
-Honolulu Star-Advertiser • 4h ago
+Honolulu Star-Advertiser • 5h ago
 
 ---
 
@@ -202,7 +202,7 @@ XPENG just took a massive step forward in humanoid robotics. The New IRON robot 
 
 📺 DPCcars
 
-👁️ 4K • 👍 69 • 💬 20 • ⏱️ 1:21 • 18h ago
+👁️ 4K • 👍 69 • 💬 20 • ⏱️ 1:21 • 19h ago
 
 ---
 
@@ -252,7 +252,7 @@ Wait, there was a robot who woke up and started asking for skin?! Sounds like a 
 
 📺 LaurenZside
 
-👁️ 216K • 👍 14K • 💬 2K • ⏱️ 19:59 • 23h ago
+👁️ 216K • 👍 14K • 💬 2K • ⏱️ 19:59 • 1d ago
 
 ---
 
@@ -270,7 +270,7 @@ Make Your Own Cute Dasai Mochi Robot   | #ashwinprojects #AltiumStudentLab Accel
 
 📺 Ryan Shaw
 
-👁️ 3K • 👍 47 • 💬 3 • ⏱️ 1:03 • 11h ago
+👁️ 3K • 👍 47 • 💬 3 • ⏱️ 1:03 • 12h ago
 
 ---
 

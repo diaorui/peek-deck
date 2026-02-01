@@ -3,14 +3,14 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-02-01T14:53:43.254859+00:00'
+updated: '2026-02-01T15:26:48.316750+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- social
-- videos
 - news
+- videos
+- social
 - cryptocurrency
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** February 01, 2026 at 14:53 UTC  
+**Last Updated:** February 01, 2026 at 15:26 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -72,7 +72,7 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-8h ago
+9h ago
 
 ---
 
@@ -238,7 +238,7 @@ ETHEREUM ETH PRICE PREDICTION 2026 Join the Premium Signal Group for trade setup
 
 📺 Cilinix Crypto
 
-👁️ 235 • 👍 15 • 💬 2 • ⏱️ 5:13 • 2h ago
+👁️ 235 • 👍 15 • 💬 2 • ⏱️ 5:13 • 3h ago
 
 ---
 
@@ -258,7 +258,7 @@ My FREE Daily On-Chain Analysis & Crypto News In 5-Mins: https://www.cryptonutsh
 
 📺 Jamie Tree 
 
-👁️ 3K • 👍 77 • 💬 63 • ⏱️ 18:25 • 23h ago
+👁️ 3K • 👍 77 • 💬 63 • ⏱️ 18:25 • 1d ago
 
 ---
 
@@ -298,7 +298,7 @@ BITCOIN CRASH: PRICE TARGETS HIT (this is next)!!!! - Bitcoin News Today, Ethere
 
 📺 Crypto World
 
-👁️ 15K • 👍 545 • 💬 265 • ⏱️ 27:07 • 17h ago
+👁️ 15K • 👍 545 • 💬 265 • ⏱️ 27:07 • 18h ago
 
 ---
 
@@ -308,7 +308,7 @@ Join UpTrade today - Your personal crypto broker: https://www.uptrade.au/ My FRE
 
 📺 Crypto Nutshell
 
-👁️ 15K • 👍 439 • 💬 103 • ⏱️ 16:36 • 23h ago
+👁️ 15K • 👍 439 • 💬 103 • ⏱️ 16:36 • 1d ago
 
 ---
 
@@ -318,7 +318,7 @@ Join UpTrade today - Your personal crypto broker: https://www.uptrade.au/ My FRE
 
 📺 Crypto Moe
 
-👁️ 2K • 👍 262 • 💬 63 • ⏱️ 11:41 • 15h ago
+👁️ 2K • 👍 262 • 💬 63 • ⏱️ 11:41 • 16h ago
 
 ---
 
@@ -328,7 +328,7 @@ This video provides a professional Elliott Wave and technical analysis of Ethere
 
 📺 More Crypto Online
 
-👁️ 4K • 👍 288 • 💬 24 • ⏱️ 4:54 • 18h ago
+👁️ 4K • 👍 288 • 💬 24 • ⏱️ 4:54 • 19h ago
 
 ---
 
