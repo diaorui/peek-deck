@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-02-01T10:55:13.287905+00:00'
+updated: '2026-02-01T11:22:38.346536+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
+- videos
 - news
 - social
-- videos
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** February 01, 2026 at 10:55 UTC  
+**Last Updated:** February 01, 2026 at 11:22 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -36,7 +36,7 @@ Robotics research and industry news
 
 I hadn't seen the whole video yesterday when I posted it. From The Humanoid Hub on 𝕏: https://x.com/TheHumanoidHub/status/2017646098136141858
 
-6h ago
+7h ago
 
 ---
 
@@ -52,7 +52,7 @@ The real meat and potatoes: I made this as a modular brain for my other robots I
 
 Day:30 1- Base body and MCU from Sunfounder 2-Built over raspberry pi5 and powered by OpenAI 3- Connected to N8N for tooling like web search., scraping etc Let me know your thoughts 😊
 
-15h ago
+16h ago
 
 ---
 
@@ -76,7 +76,7 @@ From: CyberRobo on 𝕏: https://x.com/CyberRobooo/status/2017544750694551618 Ro
 
 Saw this one at Wuhu train station in China. Answers questions at a desk. It looks like it has a lot of ability but it otherwise doesn't move at all. Even when you ask it to wave it says "sure, here's a friendly wave" but doesn't move an inch.
 
-8h ago
+9h ago
 
 ---
 
@@ -98,7 +98,7 @@ First time posting here! Ive been messing around with my dad’s scraps for a wh
 
 **[The future of remote workers?](https://www.reddit.com/r/robotics/comments/1qsmoj2/the_future_of_remote_workers/)**
 
-7h ago
+8h ago
 
 ---
 
@@ -106,7 +106,7 @@ First time posting here! Ive been messing around with my dad’s scraps for a wh
 
 Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.
 
-🔗 [youtube.com](https://www.youtube.com/watch?v=QDU_FicBPDo) • 1h ago
+🔗 [youtube.com](https://www.youtube.com/watch?v=QDU_FicBPDo) • 2h ago
 
 ---
 
@@ -164,7 +164,7 @@ Electrek • 1d ago
 
 Tesla’s pivot to producing humanoid robots is expected to engage a network of key Chinese component makers.
 
-South China Morning Post • 4h ago
+South China Morning Post • 5h ago
 
 ---
 
@@ -200,7 +200,7 @@ XPENG just took a massive step forward in humanoid robotics. The New IRON robot 
 
 📺 DPCcars
 
-👁️ 3K • 👍 55 • 💬 17 • ⏱️ 1:21 • 14h ago
+👁️ 3K • 👍 55 • 💬 17 • ⏱️ 1:21 • 15h ago
 
 ---
 
@@ -248,7 +248,7 @@ Andrea Nakano reports on the Tesla Fremont factory ending Model S/X production a
 
 📺 Ryan Shaw
 
-👁️ 2K • 👍 38 • 💬 2 • ⏱️ 1:03 • 7h ago
+👁️ 2K • 👍 38 • 💬 2 • ⏱️ 1:03 • 8h ago
 
 ---
 

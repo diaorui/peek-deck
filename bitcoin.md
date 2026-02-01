@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-02-01T10:55:13.280099+00:00'
+updated: '2026-02-01T11:22:38.337452+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- news
-- cryptocurrency
-- social
 - videos
+- news
+- social
+- cryptocurrency
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** February 01, 2026 at 10:55 UTC  
+**Last Updated:** February 01, 2026 at 11:22 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -81,7 +81,7 @@ Rank #1
 
 Took advantage of the plummet to get myself over the 0.5 mark!! I know this is small for some and big for others, but I’m quite happy with this! Just wanted to share with others who’d understand - nobody in my life cares lol.
 
-11h ago
+12h ago
 
 ---
 
@@ -93,7 +93,7 @@ Took advantage of the plummet to get myself over the 0.5 mark!! I know this is s
 
 **[Buy Now](https://www.reddit.com/r/Bitcoin/comments/1qs9mvq/buy_now/)**
 
-16h ago
+17h ago
 
 ---
 
@@ -107,13 +107,13 @@ I'm not wasting these cheap stacks. HODL and BUY!
 
 **[Today’s message…](https://www.reddit.com/r/Bitcoin/comments/1qscx1s/todays_message/)**
 
-14h ago
+15h ago
 
 ---
 
 **[I’m done](https://www.reddit.com/r/Bitcoin/comments/1qsaxev/im_done/)**
 
-15h ago
+16h ago
 
 ---
 
@@ -135,7 +135,7 @@ Anyone that’s “done with bitcoin” never actually understood bitcoin in the
 
 Wasn't my original plan actually, but the blood is splattering so much that there's no other way.
 
-13h ago
+14h ago
 
 ---
 
@@ -143,7 +143,7 @@ Wasn't my original plan actually, but the blood is splattering so much that ther
 
 When we were at ATH I saw people talking how we'd get to $200k by December, now I see people talking how "this is just the beginning, it's going to be a rough year." I don't think anyone here knows what is going to happen in the next few months. Just relax and HODL.
 
-4h ago
+5h ago
 
 ---
 
@@ -161,7 +161,7 @@ Yahoo Finance • 17h ago
 
 **[Bitcoin Drops Below $78,000 After Trump Taps Kevin Warsh To Lead Federal Reserve](https://www.forbes.com/sites/mikestunson/2026/01/31/bitcoin-is-dropping-fast-heres-why-it-dropped-below-78000/)**
 
-Forbes • 12h ago
+Forbes • 13h ago
 
 ---
 
@@ -191,7 +191,7 @@ The Block • 1d ago
 
 The main impact of the price decline is slowing Strategy's ability to buy more bitcoin without diluting shareholders, as its stock now trades at a discount to its bitcoin holdings.
 
-CoinDesk • 13h ago
+CoinDesk • 14h ago
 
 ---
 
@@ -199,7 +199,7 @@ CoinDesk • 13h ago
 
 Based on its monster past performance, it makes sense why investors are interested in Bitcoin.
 
-The Motley Fool • 22h ago
+The Motley Fool • 23h ago
 
 ---
 
@@ -293,7 +293,7 @@ Bitcoin plunged to a two-month low Thursday as risk-on assets broadly fell—and
 
 For years, crypto investors have waited for a familiar miracle. Altcoin season. The moment when small coins suddenly outrun Bitcoin,
 
-⬆️ 1 • 💬 0 • 4d ago • [The Bit Gazette](https://thebitgazette.com/why-altcoin-season-may-not-happen-in-2026-as-bitcoin-keeps-control/)
+⬆️ 1 • 💬 0 • 5d ago • [The Bit Gazette](https://thebitgazette.com/why-altcoin-season-may-not-happen-in-2026-as-bitcoin-keeps-control/)
 
 ---
 
@@ -315,7 +315,7 @@ LIMITED TIME: ✓ Bitunix (no kyc, $10k bonus): https://www.bitunix.com/register
 
 📺 Altcoin Daily
 
-👁️ 55K • 👍 3K • 💬 285 • ⏱️ 9:24 • 10h ago
+👁️ 55K • 👍 3K • 💬 285 • ⏱️ 9:24 • 11h ago
 
 ---
 
@@ -335,7 +335,7 @@ This isn't looking good iTrust Capital – $100 Bonus (Crypto IRA & Custody Acco
 
 📺 Aaron Bennett
 
-👁️ 11K • 👍 594 • 💬 123 • ⏱️ 10:16 • 6h ago
+👁️ 11K • 👍 594 • 💬 123 • ⏱️ 10:16 • 7h ago
 
 ---
 
@@ -345,7 +345,7 @@ Let's provide a Bitcoin damage report. Into The Cryptoverse Premium: https://int
 
 📺 Benjamin Cowen
 
-👁️ 28K • 👍 3K • 💬 153 • ⏱️ 31:15 • 5h ago
+👁️ 28K • 👍 3K • 💬 153 • ⏱️ 31:15 • 6h ago
 
 ---
 
@@ -355,7 +355,7 @@ Take Control of Your Retirement — Grow Crypto & Gold Tax-Advantaged. https://w
 
 📺 Savvy Finance
 
-👁️ 7K • 👍 302 • 💬 16 • ⏱️ 20:55 • 10h ago
+👁️ 7K • 👍 302 • 💬 16 • ⏱️ 20:55 • 11h ago
 
 ---
 
@@ -375,7 +375,7 @@ Why the Crypto Market Is Red (It s NOT the Reason You Think)! Breaking Crypto Ne
 
 📺 Austin Hilton
 
-👁️ 30K • 👍 941 • 💬 217 • ⏱️ 9:28 • 18h ago
+👁️ 30K • 👍 941 • 💬 217 • ⏱️ 9:28 • 19h ago
 
 ---
 
@@ -385,7 +385,7 @@ The 'Path of Least Resistance' is currently straight down, and the stock market 
 
 📺 Gareth Soloway
 
-👁️ 85K • 👍 6K • 💬 884 • ⏱️ 12:26 • 16h ago
+👁️ 85K • 👍 6K • 💬 884 • ⏱️ 12:26 • 17h ago
 
 ---
 
@@ -403,7 +403,7 @@ Bitcoin plunges under $80000 as geopolitical risks deepens amid U.S-Iran tension
 
 📺 Happy Jewelers
 
-👁️ 12K • 👍 434 • 💬 24 • ⏱️ 0:48 • 15h ago
+👁️ 12K • 👍 434 • 💬 24 • ⏱️ 0:48 • 16h ago
 
 ---
 

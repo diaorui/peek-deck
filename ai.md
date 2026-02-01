@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-02-01T10:55:13.272804+00:00'
+updated: '2026-02-01T11:22:38.329179+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- repositories
+- videos
 - news
 - social
-- videos
+- repositories
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** February 01, 2026 at 10:55 UTC  
+**Last Updated:** February 01, 2026 at 11:22 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -73,7 +73,7 @@ AI coding tools are getting more sophisticated. But if coders stop coding, what 
 
 "Nvidia released three open-source artificial intelligence models aimed at helping create better weather forecasts, faster.... In the case of weather forecasting, Nvidia is aiming to replace expensive and time-consuming conventional weather simulations with AI-driven versions that the company said can rival or exceed the accuracy of older methods. The AI models, once trained, are also faster and cost less to run ... Nvidia's "Earth-2" models introduced on Monday include one aimed at making 15-day weather forecasts, one that specializes in forecasts of up to six hours for severe storms over the U.S., and one that can be used to integrate disparate data streams from a variety of weather sensors to make them a more useful starting point for other forecasting technology." Model page: https://www.nvidia.com/en-us/high-performance-computing/earth-2/
 
-🔗 [reuters.com](https://www.reuters.com/business/environment/nvidia-unveils-ai-models-faster-cheaper-weather-forecasts-2026-01-26/) • 17h ago
+🔗 [reuters.com](https://www.reuters.com/business/environment/nvidia-unveils-ai-models-faster-cheaper-weather-forecasts-2026-01-26/) • 18h ago
 
 ---
 
@@ -87,7 +87,7 @@ AI coding tools are getting more sophisticated. But if coders stop coding, what 
 
 Supports Qwen3-TTS models (0.6B-1.7B) and ASR models. Docker + native deployment options. Key features: 🎭 Voice cloning with reference audio 🎨 Custom voice design from text descriptions ⚡ MLX + Metal GPU acceleration for M1/M2/M3 🎨 Modern React UI included If you like local audio models, give it a try. Works best in local dev mode for now.
 
-🔗 [GitHub](https://github.com/agentem-ai/izwi-audio) • 18h ago
+🔗 [GitHub](https://github.com/agentem-ai/izwi-audio) • 19h ago
 
 ---
 
@@ -121,7 +121,7 @@ ByteDance, Alibaba and Tencent had been given permission to purchase more than 4
 
 It's not science fiction. It's happening right now — and it's freaking out some of the smartest names in artificial intelligence.
 
-Axios • 19h ago
+Axios • 20h ago
 
 ---
 
@@ -129,7 +129,7 @@ Axios • 19h ago
 
 Social media users are trying to use AI to get clearer images and videos of the Minneapolis shootings but are instead misleading millions.
 
-NBC News • 55m ago
+NBC News • 1h ago
 
 ---
 
@@ -137,7 +137,7 @@ NBC News • 55m ago
 
 These AI stocks are inexpensive for a simple reason: They should grow by leaps and bounds.
 
-Yahoo Finance • 51m ago
+Yahoo Finance • 1h ago
 
 ---
 
@@ -145,13 +145,13 @@ Yahoo Finance • 51m ago
 
 The founder and CEO of $1.25 billion AI identity verification platform Incode, Ricardo Amper, says Gen Z’s naivety is actually a powerful resource.
 
-Fortune • 52m ago
+Fortune • 1h ago
 
 ---
 
 **[Opinion | Pay More Attention to A.I.](https://www.nytimes.com/2026/01/31/opinion/artificial-intelligence-new-world.html)**
 
-The New York Times • 22h ago
+The New York Times • 23h ago
 
 ---
 
@@ -165,7 +165,7 @@ Anthropic • 2d ago
 
 **[AI Boom Is Triggering a Loan Meltdown for Software Companies: Credit Weekly](https://www.bloomberg.com/news/articles/2026-01-31/ai-boom-is-triggering-a-loan-meltdown-for-software-companies-credit-weekly)**
 
-Bloomberg • 14h ago
+Bloomberg • 15h ago
 
 ---
 
@@ -179,7 +179,7 @@ The Hill • 1d ago
 
 The firm wants to create a network of "orbital data centres" to power artificial intelligence.
 
-BBC • 18h ago
+BBC • 19h ago
 
 ---
 
@@ -237,7 +237,7 @@ New York mayor says terminating the ‘unusable’ bot will help close a budget 
 
 Like many organizations, Wiki Education has grappled with generative AI, its impacts, opportunities, and threats, for several years. As an organization that runs large-scale programs to bring new e…
 
-⬆️ 151 • 💬 60 • 13h ago • [Wiki Education](https://wikiedu.org/blog/2026/01/29/generative-ai-and-wikipedia-editing-what-we-learned-in-2025/)
+⬆️ 151 • 💬 60 • 14h ago • [Wiki Education](https://wikiedu.org/blog/2026/01/29/generative-ai-and-wikipedia-editing-what-we-learned-in-2025/)
 
 ---
 
@@ -281,7 +281,7 @@ Flash Sale Week: Up to 50% OFF + 365 days of ZERO credits on NanoBanana Pro, Mid
 
 📺 Future Business Tech
 
-👁️ 5K • 👍 224 • 💬 6 • ⏱️ 23:14 • 10h ago
+👁️ 5K • 👍 224 • 💬 6 • ⏱️ 23:14 • 11h ago
 
 ---
 
@@ -301,7 +301,7 @@ Everyone is talking about how AI is draining the power grid, but the biggest hur
 
 📺 The Infographics Show
 
-👁️ 58K • 👍 2K • 💬 201 • ⏱️ 9:18 • 19h ago
+👁️ 58K • 👍 2K • 💬 201 • ⏱️ 9:18 • 20h ago
 
 ---
 
@@ -645,7 +645,7 @@ Browser automation CLI for AI agents
 
 `TypeScript`
 
-⭐ 12.0k • 🔱 667 • 5h ago
+⭐ 12.0k • 🔱 667 • 6h ago
 
 ---
 
@@ -675,7 +675,7 @@ LLM驱动的 A/H/美股智能分析器，多数据源行情 + 实时新闻 + Gem
 
 `Python` `agent` `ai` `aigc` `gemini` `llm`
 
-⭐ 8.5k • 🔱 8.9k • 5h ago
+⭐ 8.5k • 🔱 8.9k • 6h ago
 
 ---
 
@@ -685,7 +685,7 @@ LLM驱动的 A/H/美股智能分析器，多数据源行情 + 实时新闻 + Gem
 
 `Vue`
 
-⭐ 6.8k • 🔱 1.3k • 21h ago
+⭐ 6.8k • 🔱 1.3k • 22h ago
 
 ---
 
