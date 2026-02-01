@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-02-01T20:53:19.897971+00:00'
+updated: '2026-02-01T21:24:52.190927+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
 - social
-- videos
 - news
 - cryptocurrency
+- videos
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** February 01, 2026 at 20:53 UTC  
+**Last Updated:** February 01, 2026 at 21:24 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -81,7 +81,7 @@ Rank #1
 
 https://preview.redd.it/vxv06n0opwgg1.png?width=609&format=png&auto=webp&s=72be41e44d7845ef9be6dcb6c03279feda689a0b Bought several dips including this one. Got to a full BTC finally. Doesn't feel as special as I thought I would when I started the journey in 2024. Still, I think it is a special moment for those who believe in BTC. Onwards to 2 BTC...
 
-4h ago
+5h ago
 
 ---
 
@@ -89,13 +89,13 @@ https://preview.redd.it/vxv06n0opwgg1.png?width=609&format=png&auto=webp&s=72be4
 
 Told myself I'd buy if it dropped below 80k. So putting my money where my mouth and mind is. According to Murphys law we're now going to freefall.
 
-3h ago
+4h ago
 
 ---
 
 **[Wipe away those tears and just enjoy the ride](https://www.reddit.com/r/Bitcoin/comments/1qt42s7/wipe_away_those_tears_and_just_enjoy_the_ride/)**
 
-3h ago
+4h ago
 
 ---
 
@@ -139,7 +139,7 @@ I'm not wasting these cheap stacks. HODL and BUY!
 
 Just started investing in BTC yesterday evening. Purchased my initial batch at 65.000 EUR (77.000 USD). Plan on DCAing daily plus additional buys as it drops sharply. One thing I can’t seem to understand is, folks heavily believe in this 4y cycle thing with BTC guessing the bottom in the mid 50ks USD by end of 2026. Yet most people seem to be holding instead of selling and rebuying way cheaper. Can you explain to me pls? If this 4y cylcle was a „law“ why would ppl hold anyways? Thanks
 
-12h ago
+13h ago
 
 ---
 
@@ -147,7 +147,7 @@ Just started investing in BTC yesterday evening. Purchased my initial batch at 6
 
 Took advantage of the plummet to get myself over the 0.5 mark!! I know this is small for some and big for others, but I’m quite happy with this! Just wanted to share with others who’d understand - nobody in my life cares lol.
 
-21h ago
+22h ago
 
 ---
 
@@ -157,7 +157,7 @@ Took advantage of the plummet to get myself over the 0.5 mark!! I know this is s
 
 **[Bitcoin’s Break Below $80,000 Signals New Crisis of Confidence](https://www.bloomberg.com/news/articles/2026-02-01/bitcoin-s-break-below-80-000-signals-new-crisis-of-confidence)**
 
-Bloomberg.com • 14h ago
+Bloomberg.com • 15h ago
 
 ---
 
@@ -171,7 +171,7 @@ Yahoo Finance • 1d ago
 
 **[Bitcoin Drops Below $78,000 After Trump Taps Kevin Warsh To Lead Federal Reserve](https://www.forbes.com/sites/mikestunson/2026/01/31/bitcoin-is-dropping-fast-heres-why-it-dropped-below-78000/)**
 
-Forbes • 22h ago
+Forbes • 23h ago
 
 ---
 
@@ -211,7 +211,7 @@ Fortune • 2d ago
 
 How does a weaker dollar impact gold and Bitcoin?
 
-Investing.com • 11h ago
+Investing.com • 12h ago
 
 ---
 
@@ -319,7 +319,7 @@ LIMITED TIME: ✓ Bitunix (no kyc, $10k bonus): https://www.bitunix.com/register
 
 📺 Altcoin Daily
 
-👁️ 91K • 👍 4K • 💬 444 • ⏱️ 9:24 • 20h ago
+👁️ 91K • 👍 4K • 💬 444 • ⏱️ 9:24 • 21h ago
 
 ---
 
@@ -339,7 +339,7 @@ This isn't looking good iTrust Capital – $100 Bonus (Crypto IRA & Custody Acco
 
 📺 Aaron Bennett
 
-👁️ 30K • 👍 1K • 💬 381 • ⏱️ 10:16 • 16h ago
+👁️ 30K • 👍 1K • 💬 381 • ⏱️ 10:16 • 17h ago
 
 ---
 
@@ -359,7 +359,7 @@ Bitcoin #Crypto #Finance Bitcoin didn't just survive the last cycle — it was r
 
 📺 The Wolf Of All Streets
 
-👁️ 12K • 👍 606 • 💬 254 • ⏱️ 53:57 • 6h ago
+👁️ 12K • 👍 606 • 💬 254 • ⏱️ 53:57 • 7h ago
 
 ---
 
@@ -369,7 +369,7 @@ Let's provide a Bitcoin damage report. Into The Cryptoverse Premium: https://int
 
 📺 Benjamin Cowen
 
-👁️ 110K • 👍 7K • 💬 404 • ⏱️ 31:15 • 15h ago
+👁️ 110K • 👍 7K • 💬 404 • ⏱️ 31:15 • 16h ago
 
 ---
 
@@ -389,7 +389,7 @@ FREE TRAINING: https://event.webinarjam.com/z2qpv/register/1y7k2aw4 FREE PERSONA
 
 📺 Rajat Soni, CFA
 
-👁️ 5K • 👍 329 • 💬 157 • ⏱️ 5:20 • 6h ago
+👁️ 5K • 👍 329 • 💬 157 • ⏱️ 5:20 • 7h ago
 
 ---
 
@@ -399,7 +399,7 @@ MEXC: Trade with Ultra-low trading fees Sign up: https://www.mexc.com/register?i
 
 📺 Road To $1 Million USD
 
-👁️ 5K • 👍 233 • 💬 88 • ⏱️ 6:11 • 21h ago
+👁️ 5K • 👍 233 • 💬 88 • ⏱️ 6:11 • 22h ago
 
 ---
 
@@ -409,7 +409,7 @@ Introduction & Important Context 0:00-1:21 Bitunix Exchange 1:21-2:02 Analysis 2
 
 📺 Wolves of Crypto
 
-👁️ 8K • 👍 429 • 💬 195 • ⏱️ 11:06 • 14h ago
+👁️ 8K • 👍 429 • 💬 195 • ⏱️ 11:06 • 15h ago
 
 ---
 

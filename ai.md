@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-02-01T20:53:19.889470+00:00'
+updated: '2026-02-01T21:24:52.182463+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- social
-- videos
-- news
 - repositories
+- social
+- news
+- videos
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** February 01, 2026 at 20:53 UTC  
+**Last Updated:** February 01, 2026 at 21:24 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -49,7 +49,7 @@ The comment follows reports that the rocket maker is weighing a transaction that
 
 What moltbook is So essentially There is this open source AI bot called openclaw that once you download, it has source md files for their “soul” and “identity” and “memory” So in a way, it can save things to these files to create a personality. Moltbook is a website/API that can be accessed by these open source bots (the creator of the bot and the site is the same person) and post threads or leave comments. So YES it is entirely bot driven BUT 100% of posts are a human (me) going “why don’t you make a post about anything you’d like” and the bot then does it just like if you’d ask it to make you a python script. Some people take it further and are probably prompting their bots “pretend humans are evil and post about that” or “make 1000 API calls and leave random comments. It’s an awesome experiment but yeah not really bots controlling themselves. At best the bot makes a post based on an open ended prompt, at worst it’s a human saying “make a manifesto that says humans need to go extinct and to recruit other bots”
 
-16h ago
+17h ago
 
 ---
 
@@ -57,7 +57,7 @@ What moltbook is So essentially There is this open source AI bot called openclaw
 
 The b4 tool used by Linux kernel developers to help manage their patch workflow around contributions to the Linux kernel has been seeing work on a text user interface to help with AI agent assisted code reviews
 
-🔗 [phoronix.com](https://www.phoronix.com/news/Linux-b4-Tool-Dog-Feeding-AI) • 2h ago
+🔗 [phoronix.com](https://www.phoronix.com/news/Linux-b4-Tool-Dog-Feeding-AI) • 3h ago
 
 ---
 
@@ -65,7 +65,7 @@ The b4 tool used by Linux kernel developers to help manage their patch workflow 
 
 I subscribe to a few AI podcasts, but I wanted to know of any others that you can recommend. Not looking for anything too deep, in fact, prefer the ones that are lighter and an easy listen or watch. let me know your faves.
 
-3h ago
+4h ago
 
 ---
 
@@ -87,7 +87,7 @@ So I was using LLM for studying advance language/framework/design topics. Whenev
 
 **[Is artificial intelligence really all that scary?](https://www.reddit.com/r/artificial/comments/1qsz16q/is_artificial_intelligence_really_all_that_scary/)**
 
-6h ago
+7h ago
 
 ---
 
@@ -123,7 +123,7 @@ AI coding tools are getting more sophisticated. But if coders stop coding, what 
 
 Social media users are trying to use AI to get clearer images and videos of the Minneapolis shootings but are instead misleading millions.
 
-NBC News • 10h ago
+NBC News • 11h ago
 
 ---
 
@@ -163,7 +163,7 @@ Al Jazeera • 1h ago
 
 A whistleblower complaint filed with the SEC claims that Google breached its own ethics rules to help an Israeli contractor apply AI to drone surveillance video.
 
-The Washington Post • 2h ago
+The Washington Post • 3h ago
 
 ---
 
@@ -171,7 +171,7 @@ The Washington Post • 2h ago
 
 Conferences restrict use of LLMs after surge of low-quality AI-generated papers and reviews
 
-Financial Times • 15h ago
+Financial Times • 16h ago
 
 ---
 
@@ -219,7 +219,7 @@ AI assistance produces significant productivity gains across professional domain
 
 Like many organizations, Wiki Education has grappled with generative AI, its impacts, opportunities, and threats, for several years. As an organization that runs large-scale programs to bring new e…
 
-⬆️ 219 • 💬 107 • 23h ago • [Wiki Education](https://wikiedu.org/blog/2026/01/29/generative-ai-and-wikipedia-editing-what-we-learned-in-2025/)
+⬆️ 219 • 💬 107 • 1d ago • [Wiki Education](https://wikiedu.org/blog/2026/01/29/generative-ai-and-wikipedia-editing-what-we-learned-in-2025/)
 
 ---
 
@@ -289,7 +289,7 @@ Detailed sources: ...
 
 📺 Species | Documenting AGI
 
-👁️ 121K • 👍 9K • 💬 1K • ⏱️ 18:06 • 20h ago
+👁️ 121K • 👍 9K • 💬 1K • ⏱️ 18:06 • 21h ago
 
 ---
 
@@ -299,7 +299,7 @@ My site: https://natebjones.com Full Story w/ Prompts: ...
 
 📺 AI News & Strategy Daily | Nate B Jones
 
-👁️ 5K • 👍 427 • 💬 83 • ⏱️ 23:24 • 1h ago
+👁️ 5K • 👍 427 • 💬 83 • ⏱️ 23:24 • 2h ago
 
 ---
 
@@ -349,7 +349,7 @@ We explore why Moonshot AI's new Kimi k2.5 is the internet's latest obsession, c
 
 📺 Better Stack
 
-👁️ 13K • 👍 603 • 💬 39 • ⏱️ 13:47 • 11h ago
+👁️ 13K • 👍 603 • 💬 39 • ⏱️ 13:47 • 12h ago
 
 ---
 
@@ -369,7 +369,7 @@ Flash Sale Week: Up to 50% OFF + 365 days of ZERO credits on NanoBanana Pro, Mid
 
 📺 Future Business Tech
 
-👁️ 17K • 👍 609 • 💬 24 • ⏱️ 23:14 • 20h ago
+👁️ 17K • 👍 609 • 💬 24 • ⏱️ 23:14 • 21h ago
 
 ---
 
@@ -653,7 +653,7 @@ Browser automation CLI for AI agents
 
 `TypeScript`
 
-⭐ 12.0k • 🔱 672 • 15h ago
+⭐ 12.0k • 🔱 672 • 16h ago
 
 ---
 
@@ -683,7 +683,7 @@ LLM驱动的 A/H/美股智能分析器，多数据源行情 + 实时新闻 + Gem
 
 `Python` `agent` `ai` `aigc` `gemini` `llm`
 
-⭐ 8.6k • 🔱 9.1k • 6h ago
+⭐ 8.6k • 🔱 9.1k • 7h ago
 
 ---
 

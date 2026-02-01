@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-02-01T20:53:19.904050+00:00'
+updated: '2026-02-01T21:24:52.196882+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
 - social
-- videos
 - news
 - cryptocurrency
+- videos
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** February 01, 2026 at 20:53 UTC  
+**Last Updated:** February 01, 2026 at 21:24 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -72,7 +72,7 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-14h ago
+15h ago
 
 ---
 
@@ -154,7 +154,7 @@ The Doots live stream is all about showcasing the best of the week from the Dail
 
 The Ethereum founder claims his strategy of betting against extreme market sentiment ‘usually makes money’ on Polymarket.
 
-Decrypt • 2h ago
+Decrypt • 3h ago
 
 ---
 
@@ -184,13 +184,13 @@ CCN.com • 22h ago
 
 Earlier in January, the Ethereum Foundation formally elevated post-quantum security to a strategic priority, creating a dedicated Post-Quantum team.
 
-CoinDesk • 5h ago
+CoinDesk • 6h ago
 
 ---
 
 **[Key facts: Ethereum Drops 12.7% Amid Large Sales; Institutional Interest Grows](https://www.tradingview.com/news/tradingview:28b30d6b1c11d:0-key-facts-ethereum-drops-12-7-amid-large-sales-institutional-interest-grows/)**
 
-TradingView • 20h ago
+TradingView • 21h ago
 
 ---
 
@@ -246,7 +246,7 @@ FREE TRAINING: https://www.bullmania.com EXCHANGES I USE (bybit, pionex): https:
 
 📺 Ivan on Tech
 
-👁️ 10K • 👍 1K • 💬 67 • ⏱️ 45:22 • 1h ago
+👁️ 10K • 👍 1K • 💬 67 • ⏱️ 45:22 • 2h ago
 
 ---
 
@@ -266,7 +266,7 @@ Want a free $30000 bonus + $20 just for signing up? Go here: ...
 
 📺 BitcoinHyper
 
-👁️ 3K • 👍 348 • 3h ago
+👁️ 3K • 👍 348 • 4h ago
 
 ---
 
@@ -276,7 +276,7 @@ ETHEREUM ETH PRICE PREDICTION 2026 Join the Premium Signal Group for trade setup
 
 📺 Cilinix Crypto
 
-👁️ 1K • 👍 32 • 💬 3 • ⏱️ 5:13 • 8h ago
+👁️ 1K • 👍 32 • 💬 3 • ⏱️ 5:13 • 9h ago
 
 ---
 
@@ -286,7 +286,7 @@ After getting chopped up in ETH shorts over the past few months, I found a momen
 
 📺 Taiki Maeda
 
-👁️ 1K • 👍 114 • 💬 51 • ⏱️ 48:54 • 1h ago
+👁️ 1K • 👍 114 • 💬 51 • ⏱️ 48:54 • 2h ago
 
 ---
 
