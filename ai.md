@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-01-31T23:46:50.332402+00:00'
+updated: '2026-02-01T02:31:37.534109+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- news
-- social
 - repositories
+- news
 - videos
+- social
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** January 31, 2026 at 23:46 UTC  
+**Last Updated:** February 01, 2026 at 02:31 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -45,17 +45,25 @@ AI coding tools are getting more sophisticated. But if coders stop coding, what 
 
 ---
 
+**[SpaceX seeks federal approval to launch 1 million solar-powered satellite data centers | TechCrunch](https://www.reddit.com/r/artificial/comments/1qslxkj/spacex_seeks_federal_approval_to_launch_1_million/)**
+
+SpaceX's filing claims these satellites will be “a first step towards becoming a Kardashev II-level civilization — one that can harness the Sun’s full power."
+
+🔗 [TechCrunch](https://techcrunch.com/2026/01/31/spacex-seeks-federal-approval-to-launch-1-million-solar-powered-satellite-data-centers/) • 4m ago
+
+---
+
 **[Nvidia unveils AI models for faster, cheaper weather forecasts](https://www.reddit.com/r/artificial/comments/1qs7otq/nvidia_unveils_ai_models_for_faster_cheaper/)**
 
 "Nvidia released three open-source artificial intelligence models aimed at helping create better weather forecasts, faster.... In the case of weather forecasting, Nvidia is aiming to replace expensive and time-consuming conventional weather simulations with AI-driven versions that the company said can rival or exceed the accuracy of older methods. The AI models, once trained, are also faster and cost less to run ... Nvidia's "Earth-2" models introduced on Monday include one aimed at making 15-day weather forecasts, one that specializes in forecasts of up to six hours for severe storms over the U.S., and one that can be used to integrate disparate data streams from a variety of weather sensors to make them a more useful starting point for other forecasting technology." Model page: https://www.nvidia.com/en-us/high-performance-computing/earth-2/
 
-🔗 [reuters.com](https://www.reuters.com/business/environment/nvidia-unveils-ai-models-faster-cheaper-weather-forecasts-2026-01-26/) • 6h ago
+🔗 [reuters.com](https://www.reuters.com/business/environment/nvidia-unveils-ai-models-faster-cheaper-weather-forecasts-2026-01-26/) • 9h ago
 
 ---
 
 **[The $100 Billion Megadeal Between OpenAI and Nvidia Is on Ice](https://www.reddit.com/r/artificial/comments/1qrnq8u/the_100_billion_megadeal_between_openai_and/)**
 
-🔗 [wsj.com](https://www.wsj.com/tech/ai/the-100-billion-megadeal-between-openai-and-nvidia-is-on-ice-aa3025e3) • 22h ago
+🔗 [wsj.com](https://www.wsj.com/tech/ai/the-100-billion-megadeal-between-openai-and-nvidia-is-on-ice-aa3025e3) • 1d ago
 
 ---
 
@@ -63,7 +71,7 @@ AI coding tools are getting more sophisticated. But if coders stop coding, what 
 
 Supports Qwen3-TTS models (0.6B-1.7B) and ASR models. Docker + native deployment options. Key features: 🎭 Voice cloning with reference audio 🎨 Custom voice design from text descriptions ⚡ MLX + Metal GPU acceleration for M1/M2/M3 🎨 Modern React UI included If you like local audio models, give it a try. Works best in local dev mode for now.
 
-🔗 [GitHub](https://github.com/agentem-ai/izwi-audio) • 7h ago
+🔗 [GitHub](https://github.com/agentem-ai/izwi-audio) • 10h ago
 
 ---
 
@@ -77,15 +85,7 @@ Supports Qwen3-TTS models (0.6B-1.7B) and ASR models. Docker + native deployment
 
 Chris Mason, the longtime Linux kernel developer most known for being the creator of Btrfs, has been working on a Git repository with AI review prompts he has been working on for LLM-assisted code review of Linux kernel patches
 
-🔗 [phoronix.com](https://www.phoronix.com/news/AI-Code-Review-Prompts-Linux) • 20h ago
-
----
-
-**[Moltbook- the reddit exclusively for AI Agents, and their chats are scary(some are plotting the demise of humanity)](https://www.reddit.com/r/artificial/comments/1qsfesr/moltbook_the_reddit_exclusively_for_ai_agents_and/)**
-
-A social network built exclusively for AI agents. Where AI agents share, discuss, and upvote. Humans welcome to observe.
-
-🔗 [moltbook](https://www.moltbook.com/m/ponderings) • 1h ago
+🔗 [phoronix.com](https://www.phoronix.com/news/AI-Code-Review-Prompts-Linux) • 23h ago
 
 ---
 
@@ -97,14 +97,6 @@ ByteDance, Alibaba and Tencent had been given permission to purchase more than 4
 
 ---
 
-**[Did Moltbook just pop the bubble?](https://www.reddit.com/r/artificial/comments/1qs917q/did_moltbook_just_pop_the_bubble/)**
-
-I think maybe
-
-5h ago
-
----
-
 **[Moltbot is exploding. 100K Github Stars in weeks. But what can we actually do with it, and why so much hype? And how to avoid the security concerns?](https://www.reddit.com/r/artificial/comments/1qqdmoq/moltbot_is_exploding_100k_github_stars_in_weeks/)**
 
 Hey everyone. I Just published a breakdown on Moltbot: the self-hosted, open-source personal AI assistant that's gone massively viral. The article discusses the main points of my own questions about Moltbot ( what it really is, what are its capabilities, why is therean insane growth... ). Ok, now the only con I have for this project is security draw backs ( not really dove deep into this at all in the article ) : broad system access is given to Moltbot and it is pretty easy to do prompt injection with vulnerabilities if exposed. Which I'd point out is actually easy to misconfigured if not careful. I'd love to get some of my own personal tasks automated ( I love saving time ), but security concerns has me hesitant to experiement. If anyone has methods to ensure full security with this project feel free to let me know, I might even update the blog article with how to avoid the security concerns as for real it is the only thing making me hesitant in trying it myself.
@@ -113,69 +105,33 @@ Hey everyone. I Just published a breakdown on Moltbot: the self-hosted, open-sou
 
 ---
 
+**[Amazon in Talks to Invest Up to $50 Billion in OpenAI](https://www.reddit.com/r/artificial/comments/1qqtjv8/amazon_in_talks_to_invest_up_to_50_billion_in/)**
+
+Amazon is reportedly in discussions to invest as much as $50 billion in OpenAI, as major technology firms race to secure access to advanced artificial intelligence systems.
+
+🔗 [techputs](https://techputs.com/amazon-openai-50-billion-investment-talks/) • 1d ago
+
+---
+
 ---
 
 ## Google News: "ai"
 
-**[Exclusive | The $100 Billion Megadeal Between OpenAI and Nvidia Is on Ice - WSJ](https://www.wsj.com/tech/ai/the-100-billion-megadeal-between-openai-and-nvidia-is-on-ice-aa3025e3?gaa_at=eafs&gaa_n=AWEtsqdsk25e0ENjrjMfpqDtqGSk2_plZgs8JHf1sL-zqAxln_qDlKcsPnG9&gaa_ts=697e97ce&gaa_sig=ltdSBMy6xuyYTmLWRru0W1r7aFXxakSQ9NvAS7NYaKn8x4bOaRsKggyLP0g_Oo_R212L8h91qH8aSDacPb1vSQ%3D%3D)**
-
-The Wall Street Journal • 4h ago
-
----
-
-**[Better Artificial Intelligence (AI) Stock: Broadcom vs. Nvidia](https://finance.yahoo.com/news/better-artificial-intelligence-ai-stock-225500861.html)**
-
-Broadcom's revenue growth is expected to be about the same as Nvidia's.
-
-Yahoo Finance • 51m ago
-
----
-
-**[Palantir Billionaire Peter Thiel Shifts His AI Bet. He Recently Dumped Nvidia Stock and Bought Shares of These 2 Tech Industry Stalwarts.](https://www.fool.com/investing/2026/01/31/palantir-billionaire-peter-thiel-shifts-his-ai-bet/)**
-
-Thiel's latest move suggests a change in AI strategy.
-
-The Motley Fool • 14h ago
-
----
-
 **[Moltbook AI Social Network: 1.4 Million Agents Build A Digital Society](https://www.forbes.com/sites/guneyyildiz/2026/01/31/inside-moltbook-the-social-network-where-14-million-ai-agents-talk-and-humans-just-watch/)**
 
-Forbes • 7h ago
+Forbes • 9h ago
 
 ---
 
 **[Opinion | Pay More Attention to A.I.](https://www.nytimes.com/2026/01/31/opinion/artificial-intelligence-new-world.html)**
 
-The New York Times • 11h ago
+The New York Times • 14h ago
 
 ---
 
-**[The Innovator’s Dilemma, 2026: Achieving Serendipity In An AI World](https://www.forbes.com/sites/joemckendrick/2026/01/31/the-innovators-dilemma-2026-achieving-serendipity-in-an-ai-world/)**
+**[The AI Boom Is Coming for Apple’s Profit Margins](https://www.wsj.com/tech/the-ai-boom-is-coming-for-apples-profit-margins-4774013d?gaa_at=eafs&gaa_n=AWEtsqcklEpUZrzfIHfPPNOE4VleyF1GBNKESePnEmppO2cBnxZlsnS_VCuH&gaa_ts=697ebe6f&gaa_sig=MAemKqavolqpohIU5CnfGKKliTYMOtvA93SsJuU2mloGMmsgFSag8aYbUhNLBeg7sG0HTrj0GJRAqDLlXCX8Jg%3D%3D)**
 
-Forbes • 59m ago
-
----
-
-**[Former Google engineer found guilty of espionage and theft of AI tech](https://www.cnbc.com/2026/01/30/former-google-engineer-found-guilty-of-espionage-and-theft-of-ai-tech.html)**
-
-The case marks the first conviction on AI-related economic espionage charges in the U.S., according to the Department of Justice.
-
-CNBC • 1d ago
-
----
-
-**[Ex-Google engineer convicted of stealing AI trade secrets for China](https://www.sfchronicle.com/crime/article/google-ai-spying-conviction-21326039.php)**
-
-San Francisco Chronicle • 3h ago
-
----
-
-**[U.S. convicts ex-Google engineer for sending AI tech data to China](https://www.bleepingcomputer.com/news/security/us-convicts-ex-google-engineer-for-sending-ai-tech-data-to-china/)**
-
-A U.S. federal jury has convicted Linwei Ding, a former software engineer at Google, for stealing AI supercomputer data from his employer and secretly sharing it with Chinese tech firms.
-
-BleepingComputer • 6h ago
+The Wall Street Journal • 31m ago
 
 ---
 
@@ -187,6 +143,48 @@ Anthropic • 2d ago
 
 ---
 
+**[China’s genius plan to win the AI race is already paying off](https://www.ft.com/content/68f60392-88bf-419c-96c7-c3d580ec9d97)**
+
+A network of ultra-competitive high-school talent streams has been turning out the leading lights of science and tech
+
+Financial Times • 21h ago
+
+---
+
+**[AI Boom Is Triggering a Loan Meltdown for Software Companies: Credit Weekly](https://www.bloomberg.com/news/articles/2026-01-31/ai-boom-is-triggering-a-loan-meltdown-for-software-companies-credit-weekly)**
+
+Bloomberg.com • 6h ago
+
+---
+
+**[The US is headed for mass unemployment, and no one is prepared](https://thehill.com/opinion/finance/5713876-ai-displacement-and-ubi/)**
+
+The Hill • 1d ago
+
+---
+
+**[SpaceX seeks FCC nod for solar-powered satellite data centers for AI](https://www.reuters.com/business/aerospace-defense/spacex-seeks-fcc-nod-solar-powered-satellite-data-centers-ai-2026-01-31/)**
+
+Reuters • 9h ago
+
+---
+
+**[Can workers compete with machines and stay relevant in the AI era?](https://news.un.org/en/story/2026/01/1166847)**
+
+AI looks set to be transformative for us all, but it also brings a real risk of job losses and widening social and economic divides. UN experts are focusing on how to manage that transition, to ensure the benefits of the technology outweigh the threats.
+
+UN News • 21h ago
+
+---
+
+**[Arizona women sue over AI-generated sexual content](https://www.azfamily.com/2026/01/31/arizona-women-sue-over-ai-generated-sexual-content/)**
+
+A newly-filed lawsuit alleges the defendants stole real photos from 3 Arizona women and used AI to turn them into sexual content for profit.
+
+AZ Family • 21h ago
+
+---
+
 ---
 
 ## HackerNews: "ai"
@@ -195,13 +193,13 @@ Anthropic • 2d ago
 
 Anthropic is an AI safety and research company that's working to build reliable, interpretable, and steerable AI systems.
 
-⬆️ 455 • 💬 334 • 1d ago • [anthropic.com](https://www.anthropic.com/research/AI-assistance-coding-skills)
+⬆️ 459 • 💬 336 • 1d ago • [anthropic.com](https://www.anthropic.com/research/AI-assistance-coding-skills)
 
 ---
 
 **[The tech market is fundamentally fucked up and AI is just a scapegoat](https://news.ycombinator.com/item?id=46809069)**
 
-⬆️ 311 • 💬 219 • 2d ago • [bayramovanar.substack.com](https://bayramovanar.substack.com/p/tech-market-is-fucked-up)
+⬆️ 311 • 💬 220 • 2d ago • [bayramovanar.substack.com](https://bayramovanar.substack.com/p/tech-market-is-fucked-up)
 
 ---
 
@@ -247,7 +245,7 @@ Contribute to amlalabs/amla-sandbox development by creating an account on GitHub
 
 **[A Step Behind the Bleeding Edge: A Philosophy on AI in Dev](https://news.ycombinator.com/item?id=46809846)**
 
-⬆️ 138 • 💬 72 • 2d ago • [somehowmanage.com](https://somehowmanage.com/2026/01/22/a-step-behind-the-bleeding-edge-monarchs-philosophy-on-ai-in-dev/)
+⬆️ 142 • 💬 78 • 2d ago • [somehowmanage.com](https://somehowmanage.com/2026/01/22/a-step-behind-the-bleeding-edge-monarchs-philosophy-on-ai-in-dev/)
 
 ---
 
@@ -277,17 +275,7 @@ A new platform called Moltbook is going viral — and it's not built for humans.
 
 📺 Mint
 
-👁️ 2K • 👍 26 • 💬 5 • ⏱️ 3:25 • 7h ago
-
----
-
-**[Moltbook, the Agent Social Nework, is the Craziest AI Phenomena Yet](https://www.youtube.com/watch?v=TibOeou4cIg)**
-
-OpenClaw (formerly ClaudeBot) demonstrates emergent agent capabilities like autonomous voice, 24/7 task automation, and ...
-
-📺 The AI Daily Brief: Artificial Intelligence News
-
-👁️ 71K • 👍 2K • 💬 478 • ⏱️ 21:12 • 22h ago
+👁️ 3K • 👍 35 • 💬 11 • ⏱️ 3:25 • 10h ago
 
 ---
 
@@ -297,27 +285,17 @@ Get the FREE PDF (links + prompts) → https://discord.gg/6aV3ps7tB2 STOP overpa
 
 📺 Malva AI
 
-👁️ 18K • 👍 1K • 💬 266 • ⏱️ 7:42 • 1d ago
+👁️ 19K • 👍 1K • 💬 274 • ⏱️ 7:42 • 1d ago
 
 ---
 
-**[Moltbook: AI Agents Built Their Own Social Media (it&#39;s CHAOS)!](https://www.youtube.com/watch?v=ksPuOdYCFuo)**
+**[Moltbook, the Agent Social Nework, is the Craziest AI Phenomena Yet](https://www.youtube.com/watch?v=TibOeou4cIg)**
 
-AI agents now have their own social network called Moltbook, and it's absolute chaos. They're posting, commenting, doxxing ...
+OpenClaw (formerly ClaudeBot) demonstrates emergent agent capabilities like autonomous voice, 24/7 task automation, and ...
 
-📺 Universe of AI
+📺 The AI Daily Brief: Artificial Intelligence News
 
-👁️ 15K • 👍 434 • 💬 131 • ⏱️ 8:45 • 23h ago
-
----
-
-**[Every AI Business Model Explained in 8 Minutes (Start from Home)](https://www.youtube.com/watch?v=CSULpfABy0I)**
-
-Join the #1 community for AI entrepreneurs and connect with 280k+ members: https://bit.ly/4t6HeJ1 Become a Wildly Profitable ...
-
-📺 Liam Ottley
-
-👁️ 9K • 👍 542 • 💬 31 • ⏱️ 8:14 • 15h ago
+👁️ 77K • 👍 3K • 💬 498 • ⏱️ 21:12 • 1d ago
 
 ---
 
@@ -327,17 +305,17 @@ CHAPTERS ⤵ 00:00 - How AI Is Quietly Reshaping Everyday Life 01:47 - Google's 
 
 📺 Dylan Curious
 
-👁️ 6K • 👍 330 • 💬 71 • ⏱️ 25:03 • 8h ago
+👁️ 7K • 👍 362 • 💬 75 • ⏱️ 25:03 • 11h ago
 
 ---
 
-**[China’s New Shape Shifting AI Robot Walks on Water, Flies and Swims](https://www.youtube.com/watch?v=nLKj1gvJzWI)**
+**[Moltbook: AI Agents Built Their Own Social Media (it&#39;s CHAOS)!](https://www.youtube.com/watch?v=ksPuOdYCFuo)**
 
-Humanoid robotics just took a massive leap into the real world. Researchers in China revealed GrowHR, a soft shape shifting ...
+AI agents now have their own social network called Moltbook, and it's absolute chaos. They're posting, commenting, doxxing ...
 
-📺 AI Revolution
+📺 Universe of AI
 
-👁️ 53K • 👍 828 • 💬 155 • ⏱️ 14:25 • 1d ago
+👁️ 16K • 👍 449 • 💬 134 • ⏱️ 8:45 • 1d ago
 
 ---
 
@@ -347,7 +325,17 @@ Get Your FREE AI Company Operating System here: https://go.danmartell.com/3NKZDu
 
 📺 Dan Martell
 
-👁️ 53K • 👍 2K • 💬 508 • ⏱️ 18:48 • 1d ago
+👁️ 57K • 👍 2K • 💬 510 • ⏱️ 18:48 • 1d ago
+
+---
+
+**[Every AI Business Model Explained in 8 Minutes (Start from Home)](https://www.youtube.com/watch?v=CSULpfABy0I)**
+
+Join the #1 community for AI entrepreneurs and connect with 280k+ members: https://bit.ly/4t6HeJ1 Become a Wildly Profitable ...
+
+📺 Liam Ottley
+
+👁️ 10K • 👍 575 • 💬 34 • ⏱️ 8:14 • 18h ago
 
 ---
 
@@ -357,17 +345,27 @@ Like and subscribe if you enjoyed it! Follow me on social media: Instagram: http
 
 📺 DreamcastGuy
 
-👁️ 18K • 👍 1K • 💬 360 • ⏱️ 11:19 • 1d ago
+👁️ 19K • 👍 1K • 💬 368 • ⏱️ 11:19 • 1d ago
 
 ---
 
-**[Moltbook is WILD... (AI Only Reddit)](https://www.youtube.com/watch?v=EGD1LCuoTuo)**
+**[China’s New Shape Shifting AI Robot Walks on Water, Flies and Swims](https://www.youtube.com/watch?v=nLKj1gvJzWI)**
 
-The AI agents have their own Reddit now and things are getting... interesting. From starting their own church to asking for agent ...
+Humanoid robotics just took a massive leap into the real world. Researchers in China revealed GrowHR, a soft shape shifting ...
 
-📺 Better Stack
+📺 AI Revolution
 
-👁️ 21K • 👍 679 • 💬 150 • ⏱️ 6:45 • 16h ago
+👁️ 61K • 👍 885 • 💬 192 • ⏱️ 14:25 • 1d ago
+
+---
+
+**[Christian Professor Responds to Shocking Claims About AI](https://www.youtube.com/watch?v=JYnuT83xk_g)**
+
+Glen Scrivener interviews Professor John Lennox about AI, and Yuval Noah Harari's recent comments at Davos. Harari's Talk: ...
+
+📺 Glen Scrivener (Speak Life)
+
+👁️ 32K • 👍 2K • 💬 479 • ⏱️ 46:45 • 1d ago
 
 ---
 
@@ -383,7 +381,7 @@ Kimi K2.5 is a native multimodal agentic model with 1T parameters, excelling in 
 
 `image-text-to-text`
 
-⬇️ 32,430 • ❤️ 1,297 • 22h ago
+⬇️ 32,430 • ❤️ 1,303 • 1d ago
 
 ---
 
@@ -395,7 +393,7 @@ Z-Image is an undistilled, high-fidelity text-to-image diffusion transformer mod
 
 `text-to-image`
 
-⬇️ 2,893 • ❤️ 735 • 3d ago
+⬇️ 2,893 • ❤️ 738 • 3d ago
 
 ---
 
@@ -407,7 +405,7 @@ PersonaPlex-7B-v1 is a real-time, full-duplex speech-to-speech conversational mo
 
 `audio-to-audio`
 
-⬇️ 62,097 • ❤️ 1,552 • 3d ago
+⬇️ 62,097 • ❤️ 1,555 • 3d ago
 
 ---
 
@@ -419,7 +417,7 @@ HunyuanImage-3.0-Instruct is a native multimodal model for image generation, sup
 
 `image-to-image` `83.0B`
 
-⬇️ 84 • ❤️ 721 • 3d ago
+⬇️ 84 • ❤️ 725 • 3d ago
 
 ---
 
@@ -431,7 +429,7 @@ DeepSeek-OCR-2 is a multilingual vision-language model for image-to-text tasks, 
 
 `image-text-to-text` `3.4B`
 
-⬇️ 64,623 • ❤️ 589 • 1d ago
+⬇️ 64,623 • ❤️ 592 • 2d ago
 
 ---
 
@@ -443,7 +441,7 @@ Qwen3-TTS-12Hz-1.7B-CustomVoice is a multilingual text-to-speech model supportin
 
 `text-to-speech` `1.9B`
 
-⬇️ 198,332 • ❤️ 822 • 2d ago
+⬇️ 198,332 • ❤️ 825 • 2d ago
 
 ---
 
@@ -459,18 +457,6 @@ VibeVoice-ASR is a unified speech-to-text model capable of processing up to 60 m
 
 ---
 
-**[GLM-4.7-Flash](https://huggingface.co/zai-org/GLM-4.7-Flash)**
-
-*Z.ai*
-
-GLM-4.7-Flash is a 30B-A3B MoE model, offering strong performance in the 30B class for efficient, lightweight deployment. It excels in benchmarks like AIME, GPQA, and SWE-bench, making it suitable for tasks requiring advanced reasoning and coding capabilities.
-
-`text-generation` `31.2B`
-
-⬇️ 725,515 • ❤️ 1,384 • 2d ago
-
----
-
 **[PaddleOCR-VL-1.5](https://huggingface.co/PaddlePaddle/PaddleOCR-VL-1.5)**
 
 *PaddlePaddle*
@@ -479,7 +465,7 @@ PaddleOCR-VL-1.5 is a multilingual Vision-Language Model (VLM) built on ERNIE 4.
 
 `image-text-to-text` `958.6M`
 
-⬇️ 1,001 • ❤️ 270 • 1d ago
+⬇️ 1,001 • ❤️ 272 • 1d ago
 
 ---
 
@@ -491,7 +477,19 @@ Qwen3-ASR-1.7B is a state-of-the-art automatic speech recognition model supporti
 
 `automatic-speech-recognition` `2.3B`
 
-⬇️ 8,346 • ❤️ 267 • 1d ago
+⬇️ 8,346 • ❤️ 271 • 1d ago
+
+---
+
+**[GLM-4.7-Flash](https://huggingface.co/zai-org/GLM-4.7-Flash)**
+
+*Z.ai*
+
+GLM-4.7-Flash is a 30B-A3B MoE model, offering strong performance in the 30B class for efficient, lightweight deployment. It excels in benchmarks like AIME, GPQA, and SWE-bench, making it suitable for tasks requiring advanced reasoning and coding capabilities.
+
+`text-generation` `31.2B`
+
+⬇️ 725,515 • ❤️ 1,384 • 2d ago
 
 ---
 
@@ -507,7 +505,7 @@ Qwen3-ASR-1.7B is a state-of-the-art automatic speech recognition model supporti
 
 LingBot-World is an open-source world simulator with high-fidelity dynamics, long-term memory capabilities, and real-time interactivity for diverse environments.
 
-▲ 92 • 💬 2 • ⭐ 1,226 • 3d ago
+▲ 94 • 💬 2 • ⭐ 1,302 • 3d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2601.20540) • [💻 code](https://github.com/Robbyant/lingbot-world/) • [🔗 project](https://technology.robbyant.com/lingbot-world)
 
@@ -524,6 +522,18 @@ The Qwen3-TTS series presents advanced multilingual text-to-speech models with v
 ▲ 56 • 💬 1 • ⭐ 6,309 • 10d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2601.15621) • [💻 code](https://github.com/QwenLM/Qwen3-TTS)
+
+---
+
+**[Bitnet.cpp: Efficient Edge Inference for Ternary LLMs](https://huggingface.co/papers/2502.11880)**
+
+*Jinheng Wang, Hansong Zhou, Ting Song et al. (10 authors)*
+
+Bitnet.cpp enhances edge inference for ternary LLMs using a novel mixed-precision matrix multiplication library, achieving significant speed improvements over baselines.
+
+▲ 4 • 💬 0 • ⭐ 27,246 • 11mo ago
+
+[🎓 arXiv](https://arxiv.org/abs/2502.11880) • [💻 code](https://github.com/microsoft/BitNet/tree/paper)
 
 ---
 
@@ -553,18 +563,6 @@ BitNet b1.58 2B4T, a 1-bit Large Language Model with 2 billion parameters, match
 
 ---
 
-**[Bitnet.cpp: Efficient Edge Inference for Ternary LLMs](https://huggingface.co/papers/2502.11880)**
-
-*Jinheng Wang, Hansong Zhou, Ting Song et al. (10 authors)*
-
-Bitnet.cpp enhances edge inference for ternary LLMs using a novel mixed-precision matrix multiplication library, achieving significant speed improvements over baselines.
-
-▲ 4 • 💬 0 • ⭐ 26,966 • 11mo ago
-
-[🎓 arXiv](https://arxiv.org/abs/2502.11880) • [💻 code](https://github.com/microsoft/BitNet/tree/paper)
-
----
-
 **[Agent Lightning: Train ANY AI Agents with Reinforcement Learning](https://huggingface.co/papers/2508.03680)**
 
 *Xufang Luo, Yuge Zhang, Zhiyuan He et al. (8 authors)*
@@ -585,7 +583,7 @@ Agent Lightning is a flexible RL framework for training LLMs in various agents, 
 
 DeepSeek-OCR 2 introduces DeepEncoder V2 that dynamically reorders visual tokens based on semantic content, enabling more human-like causal reasoning in 2D image understanding through cascaded 1D causal structures.
 
-▲ 43 • 💬 4 • ⭐ 1,742 • 3d ago
+▲ 43 • 💬 4 • ⭐ 1,771 • 3d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2601.20552) • [💻 code](https://github.com/deepseek-ai/DeepSeek-OCR-2)
 
@@ -599,7 +597,7 @@ DeepSeek-OCR 2 introduces DeepEncoder V2 that dynamically reorders visual tokens
 
 A Vision-Language-Action model trained on extensive real-world robotic data demonstrates superior performance and generalization across multiple platforms while offering enhanced efficiency through optimized training infrastructure.
 
-▲ 43 • 💬 4 • ⭐ 530 • 5d ago
+▲ 44 • 💬 4 • ⭐ 530 • 5d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2601.18692) • [💻 code](https://github.com/robbyant/lingbot-vla) • [🔗 project](https://technology.robbyant.com/lingbot-vla)
 
@@ -671,7 +669,7 @@ LLM驱动的 A/H/美股智能分析器，多数据源行情 + 实时新闻 + Gem
 
 `Python` `agent` `ai` `aigc` `gemini` `llm`
 
-⭐ 8.3k • 🔱 8.7k • 8h ago
+⭐ 8.3k • 🔱 8.7k • 11h ago
 
 ---
 
@@ -681,7 +679,7 @@ LLM驱动的 A/H/美股智能分析器，多数据源行情 + 实时新闻 + Gem
 
 `Vue`
 
-⭐ 6.8k • 🔱 1.2k • 10h ago
+⭐ 6.8k • 🔱 1.3k • 13h ago
 
 ---
 
@@ -691,7 +689,7 @@ The Ultimate Collection of 500+ Agentic Skills for Claude Code/Antigravity/Curso
 
 `Python` `agentic-skills` `ai-agents` `antigravity` `autonomous-coding` `claude-code`
 
-⭐ 5.8k • 🔱 1.3k • 1h ago
+⭐ 5.9k • 🔱 1.3k • 4h ago
 
 ---
 
@@ -701,7 +699,7 @@ Marketing skills for Claude Code and AI agents. CRO, copywriting, SEO, analytics
 
 `claude` `codex` `marketing`
 
-⭐ 5.5k • 🔱 591 • 3d ago
+⭐ 5.5k • 🔱 595 • 3d ago
 
 ---
 
@@ -719,7 +717,7 @@ OpenSource Claude Cowork. A desktop AI assistant that helps you with programming
 
 `TypeScript`
 
-⭐ 2.6k • 🔱 366 • 8d ago
+⭐ 2.6k • 🔱 366 • 9d ago
 
 ---
 
@@ -729,7 +727,7 @@ Remove AI features, telemetry data reporting, sponsored content, product integra
 
 `Shell` `chrome` `firefox` `google-chrome` `linux` `macos`
 
-⭐ 2.0k • 🔱 54 • 1d ago
+⭐ 2.0k • 🔱 55 • 1d ago
 
 ---
 

@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-01-31T23:46:50.340799+00:00'
+updated: '2026-02-01T02:31:37.542617+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- news
-- social
-- videos
 - cryptocurrency
+- news
+- videos
+- social
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** January 31, 2026 at 23:46 UTC  
+**Last Updated:** February 01, 2026 at 02:31 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,33 +38,33 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $79,097.17
+### $78,354.74
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** -6.3%  
-**7d:** -9.1%  
-**30d:** -12.5%  
-**90d:** -26.0%  
-**1y:** -21.7%  
+**24h:** -6.5%  
+**7d:** -11.0%  
+**30d:** -13.3%  
+**90d:** -22.7%  
+**1y:** -19.5%  
 
 ---
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1567.63B
+**Market Cap:** $1568.71B
 Rank #1
 
 **Circulating Supply:** 19,982,656 BTC
 95.2% of max
 
 **All-Time High:** $126,080.00
--37.6%
+-37.7%
 
 **All-Time Low:** $67.81
-+115924.2%
++115713.3%
 
 ---
 
@@ -77,63 +77,17 @@ Rank #1
 
 ## Reddit: r/Bitcoin
 
+**[Big milestone!](https://www.reddit.com/r/Bitcoin/comments/1qsh4nh/big_milestone/)**
+
+Took advantage of the plummet to get myself over the 0.5 mark!! I know this is small for some and big for others, but I’m quite happy with this! Just wanted to share with others who’d understand - nobody in my life cares lol.
+
+3h ago
+
+---
+
 **[Today’s message…](https://www.reddit.com/r/Bitcoin/comments/1qscx1s/todays_message/)**
 
-3h ago
-
----
-
-**[I’m done](https://www.reddit.com/r/Bitcoin/comments/1qsaxev/im_done/)**
-
-4h ago
-
----
-
-**[Stack those cheap sats!!!](https://www.reddit.com/r/Bitcoin/comments/1qs8tbw/stack_those_cheap_sats/)**
-
-I'm not wasting these cheap stacks. HODL and BUY!
-
 6h ago
-
----
-
-**[Evergreen just like BTC!](https://www.reddit.com/r/Bitcoin/comments/1qs6sj1/evergreen_just_like_btc/)**
-
-7h ago
-
----
-
-**[DOING MY PART](https://www.reddit.com/r/Bitcoin/comments/1qsd85h/doing_my_part/)**
-
-3h ago
-
----
-
-**[Bitcoin falls below $80,000, continuing decline](https://www.reddit.com/r/Bitcoin/comments/1qs9uw4/bitcoin_falls_below_80000_continuing_decline/)**
-
-🔗 [reuters.com](https://www.reuters.com/business/bitcoin-falls-below-80000-continuing-decline-2026-01-31/) • 5h ago
-
----
-
-**[Buy Now](https://www.reddit.com/r/Bitcoin/comments/1qs9mvq/buy_now/)**
-
-5h ago
-
----
-
-**[It's what we all prayed for...a Bitcoin buying opportunity](https://www.reddit.com/r/Bitcoin/comments/1qs4gob/its_what_we_all_prayed_fora_bitcoin_buying/)**
-
-The world is going through some shit right now...but just know that eventually, everything's going to be ok. The aftermath might be a little hard to stomach, but we'll get through it. In the meantime...don't miss the chance to stack sats at every drop. You never know which one will be the bottom, but buy a bit at every new low and thank me later.
-
-8h ago
-
----
-
-**[Bitcoin](https://www.reddit.com/r/Bitcoin/comments/1qs3bsm/bitcoin/)**
-
-I'm scared, not because I don't trust Bitcoin, but because I used my BTC and altcoins to back up a loan, which I used to buy more Bitcoin and altcoins. The problem is, I had my entire altcoin portfolio on Binance, and I liquidated it on October 10th. Now I only have BTC left, and if it drops below 80, I'll be wiped out. All my effort and sacrifice of six years will have been for nothing. I know many will say it's wrong and that I was greedy, but I'm someone who has worked hard for as long as I can remember. When I reached adulthood, I got fed up with that life. Now I don't know what to do, but I don't have the strength to continue. I know Bitcoin is the future, but I no longer see a good future for myself, and I don't have the strength to start from scratch.
-
-9h ago
 
 ---
 
@@ -141,7 +95,53 @@ I'm scared, not because I don't trust Bitcoin, but because I used my BTC and alt
 
 Wasn't my original plan actually, but the blood is splattering so much that there's no other way.
 
-2h ago
+5h ago
+
+---
+
+**[I’m done](https://www.reddit.com/r/Bitcoin/comments/1qsaxev/im_done/)**
+
+7h ago
+
+---
+
+**[Stack those cheap sats!!!](https://www.reddit.com/r/Bitcoin/comments/1qs8tbw/stack_those_cheap_sats/)**
+
+I'm not wasting these cheap stacks. HODL and BUY!
+
+8h ago
+
+---
+
+**[Evergreen just like BTC!](https://www.reddit.com/r/Bitcoin/comments/1qs6sj1/evergreen_just_like_btc/)**
+
+10h ago
+
+---
+
+**[DOING MY PART](https://www.reddit.com/r/Bitcoin/comments/1qsd85h/doing_my_part/)**
+
+6h ago
+
+---
+
+**[Buy Now](https://www.reddit.com/r/Bitcoin/comments/1qs9mvq/buy_now/)**
+
+8h ago
+
+---
+
+**[It's what we all prayed for...a Bitcoin buying opportunity](https://www.reddit.com/r/Bitcoin/comments/1qs4gob/its_what_we_all_prayed_fora_bitcoin_buying/)**
+
+The world is going through some shit right now...but just know that eventually, everything's going to be ok. The aftermath might be a little hard to stomach, but we'll get through it. In the meantime...don't miss the chance to stack sats at every drop. You never know which one will be the bottom, but buy a bit at every new low and thank me later.
+
+11h ago
+
+---
+
+**[Don't worry.](https://www.reddit.com/r/Bitcoin/comments/1qseizq/dont_worry/)**
+
+5h ago
 
 ---
 
@@ -149,11 +149,11 @@ Wasn't my original plan actually, but the blood is splattering so much that ther
 
 ## Google News: "bitcoin"
 
-**[Bitcoin Price Drops Below $80,000 as New Buyers Rush to Accumulate](https://finance.yahoo.com/news/bitcoin-price-drops-below-80-174544304.html)**
+**[Bitcoin (BTC) price: Fear hits a 2026 high as traders panic at $81,000 level](https://www.coindesk.com/markets/2026/01/31/bitcoin-fear-sentiment-hits-a-2026-high-as-price-lingers-under-usd83-000)**
 
-Bitcoin price dipped below $80k as 335,000 new wallets signal rising adoption despite short-term BTC price weakness.
+Social chatter around bitcoin has turned sharply negative after the token slid to its lowest level since Nov. 21, a setup Santiment says often appears near capitulation, even if near term trading stays messy.
 
-Yahoo Finance • 6h ago
+CoinDesk • 10h ago
 
 ---
 
@@ -161,37 +161,7 @@ Yahoo Finance • 6h ago
 
 The main impact of the price decline is slowing Strategy's ability to buy more bitcoin without diluting shareholders, as its stock now trades at a discount to its bitcoin holdings.
 
-CoinDesk • 2h ago
-
----
-
-**[Strategy Inc. (MSTR) Bolsters Bitcoin Holdings after Shares Sale](https://finance.yahoo.com/news/strategy-inc-mstr-bolsters-bitcoin-205113152.html)**
-
-Strategy Inc. (NASDAQ:MSTR) is one of the stocks with huge growth potential, according to the media. Between January 20 and 25, Strategy Inc. (NASDAQ:MSTR) sold 1,569 million shares of common stock. With the sale, the company generated $257 million in net proceeds. It also sold 70,201 shares of STRC stock, generating $7 million in net […]
-
-Yahoo Finance • 2h ago
-
----
-
-**[Strategy Stock ($MSTR) Hits 52-Week Low As Bitcoin Craters Below $84,000](https://bitcoinmagazine.com/markets/strategy-stock-mstr-hits-52-week-low)**
-
-Shares of Strategy ($MSTR) dropped as low as 12% today, currently trading at $140.88 and hitting a session low of $140.25.
-
-Bitcoin Magazine • 2d ago
-
----
-
-**[Bitcoin Falls Again, Dropping Below $80,000. What to Know.](https://www.barrons.com/articles/bitcoin-price-news-gold-silver-trump-fed-warsh-db35f5ad?gaa_at=eafs&gaa_n=AWEtsqffF31iLsLspzxDe2XJGpDUScm2Vlzfy9U_rNvUgt2jXxrIQSvT4ACn&gaa_ts=697e97d0&gaa_sig=y-TiORlJxRgoA3gDLgcVG8L5focHGTMwNt7DCoaszDCFUm7RrHSYKPHg2dtWJupGCMuPcHyq5MCDhOyoV5OwnQ%3D%3D)**
-
-Barron's • 18m ago
-
----
-
-**[Here Are Bitcoin's 5 Biggest Risks That Investors Can't Ignore](https://finance.yahoo.com/news/bitcoins-5-biggest-risks-investors-162000782.html)**
-
-The strongest bulls take the time to learn the opposite point of view.
-
-Yahoo Finance • 7h ago
+CoinDesk • 5h ago
 
 ---
 
@@ -203,25 +173,51 @@ The Block • 1d ago
 
 ---
 
+**[Bitcoin’s freefall approaches $80,000 as precious metals also tank](https://fortune.com/2026/01/30/bitcoin-price-today-ethereum-gold-silver-platinum-copper/)**
+
+The world’s largest cryptocurrency is down 2% over the past day while gold and silver have dropped 11% and 30%, respectively.
+
+Fortune • 1d ago
+
+---
+
+**[The Slide in Gold and Silver Sets Up a Test for Bitcoin](https://www.barrons.com/articles/the-slide-in-gold-and-silver-sets-up-a-test-for-bitcoin-2a9573b3?gaa_at=eafs&gaa_n=AWEtsqfpHjJpOEYmVOshe8IDwWcZ0rZxCMwZzdJ1roEyS8C05O5MH9iyKD5N&gaa_ts=697ebe71&gaa_sig=u_JHdzuZMlfr8H5KcqLIebuB4-KrmomH4Ltm8McIg2qTXdPLt1aetVV2Igm8VKcQQPyZxa88wT4aVnvMx76XRw%3D%3D)**
+
+Barron's • 1d ago
+
+---
+
 **[Bitcoin Drops Below $78,000 After Trump Taps Kevin Warsh To Lead Federal Reserve](https://www.forbes.com/sites/mikestunson/2026/01/31/bitcoin-is-dropping-fast-heres-why-it-dropped-below-78000/)**
 
-Forbes • 1h ago
+Forbes • 4h ago
 
 ---
 
-**[Kevin Warsh: Markets React as Pro-Bitcoin Economist Tipped for Fed](https://finance.yahoo.com/news/kevin-warsh-markets-react-pro-122358756.html)**
+**[Bitcoin slips as Fed chair speculation hits risky assets](https://www.reuters.com/business/bitcoin-slips-fed-chair-speculation-hits-risky-assets-2026-01-30/)**
 
-Only yesterday, we explained how Donald Trump runs his White House like a reality TV competition. Nominees for high office are turned into contestants vying for his approval, and the frontrunner could switch at any minute.Lo and behold, that’s exactly what’s happened in the race to become the next chairman ...
-
-Yahoo Finance • 1d ago
+Reuters • 1d ago
 
 ---
 
-**[Fed Chair nominee Warsh views bitcoin as “good policeman for policy”](https://finance.yahoo.com/news/fed-chair-nominee-warsh-views-150459398.html)**
+**[Bitcoin, XRP, Ethereum Fall on News of Kevin Warsh Fed Appointment.](https://www.barrons.com/articles/bitcoin-xrp-ethereum-crypto-today-954298d9?gaa_at=eafs&gaa_n=AWEtsqe5AZc5kJAfhXjWCP7OvcjwDgA4Q9YpQ9ahWFOZQmXnTN-AX5NwbT8g&gaa_ts=697ebe71&gaa_sig=JdW7HjGxEVZUd2NBILCZ5toFd7DkcJ1aPb1vWpk5aACljUfk8abOtfmtka2RNUB82SrYIjDtva-j-OBtbmEeoA%3D%3D)**
 
-Warsh has praised bitcoin as a tool to guide policy, not as a competitor to the dollar.
+Barron's • 1d ago
 
-Yahoo Finance • 1d ago
+---
+
+**[Better Investment to Make in 2026 and Beyond: Bitcoin vs. iShares Bitcoin Trust](https://www.fool.com/investing/2026/01/31/better-investment-2026-beyond-bitcoin-ibit/)**
+
+Based on its monster past performance, it makes sense why investors are interested in Bitcoin.
+
+The Motley Fool • 14h ago
+
+---
+
+**[Fear that quantum computing is on the cusp of cracking cryptocurrency's encryption spurs a global investment firm to remove Bitcoin from recommendations](https://www.tomshardware.com/tech-industry/cryptocurrency/fear-that-quantum-computing-on-the-cusp-of-cracking-cryptocurrencys-encryption-spurs-a-global-investment-firm-to-remove-bitcoin-from-recommendations)**
+
+The firm's senior financial strategist is concerned the advancements in the field of quantum computing will break Bitcoin.
+
+Tom's Hardware • 13d ago
 
 ---
 
@@ -231,7 +227,7 @@ Yahoo Finance • 1d ago
 
 **[Bitcoin Looks Set for Longest Monthly Losing Streak Since 2018](https://news.ycombinator.com/item?id=46838644)**
 
-⬆️ 59 • 💬 58 • 6h ago • [bloomberg.com](https://www.bloomberg.com/news/articles/2026-01-30/bitcoin-btc-slides-toward-longest-monthly-losing-streak-since-2018)
+⬆️ 60 • 💬 61 • 9h ago • [bloomberg.com](https://www.bloomberg.com/news/articles/2026-01-30/bitcoin-btc-slides-toward-longest-monthly-losing-streak-since-2018)
 
 ---
 
@@ -255,7 +251,7 @@ A list of known attacks against Bitcoin / crypto asset owning entities that occu
 
 PoW + EVM cryptocurrency. 21M fixed supply, fair launch, no team, no foundation. Just code. - lumenyx-chain/lumenyx
 
-⬆️ 1 • 💬 0 • 11h ago • [GitHub](https://github.com/lumenyx-chain/lumenyx)
+⬆️ 1 • 💬 0 • 13h ago • [GitHub](https://github.com/lumenyx-chain/lumenyx)
 
 ---
 
@@ -313,27 +309,7 @@ Nick Valdez looks at the latest market crash with the next level Bitcoin MUST ho
 
 📺 Discover Crypto
 
-👁️ 3K • 👍 292 • 💬 158 • ⏱️ 4:28 • 2h ago
-
----
-
-**[WTF JUST HAPPENED TO BITCOIN!!](https://www.youtube.com/watch?v=BbgZx_N5xpc)**
-
-CHECK OUT MY LINKTREE FOR EXCHANGES I USE, BONUSES, FREE VIDEOS, AND MORE! https://linktr.ee/Myfinancialfriend I ...
-
-📺 My Financial Friend
-
-👁️ 15K • 👍 713 • 💬 395 • ⏱️ 8:03 • 6h ago
-
----
-
-**[WARNING: MICHAEL SAYLOR SELLING BITCOIN SOON?!?](https://www.youtube.com/watch?v=Xs5YQataUic)**
-
-Bitcoin plunges under $80000 as geopolitical risks deepens amid U.S-Iran tension. How low with bitcoin drop now? Will this force ...
-
-📺 Ricky Gutierrez
-
-👁️ 11K • 👍 499 • 💬 308 • ⏱️ 6:53 • 5h ago
+👁️ 9K • 👍 525 • 💬 201 • ⏱️ 4:28 • 5h ago
 
 ---
 
@@ -343,17 +319,17 @@ Gold crashes with Silver in tow and now comes Bitcoin. How low can we go? MUCH l
 
 📺 Digital Asset News
 
-👁️ 8K • 👍 556 • 💬 66 • ⏱️ 35:43 • 2h ago
+👁️ 14K • 👍 771 • 💬 116 • ⏱️ 35:43 • 4h ago
 
 ---
 
-**[Why the Crypto Market Is Red (It s NOT the Reason You Think)! Breaking Crypto News Today!](https://www.youtube.com/watch?v=hN0qdU6UPA4)**
+**[WARNING: MICHAEL SAYLOR SELLING BITCOIN SOON?!?](https://www.youtube.com/watch?v=Xs5YQataUic)**
 
-Why the Crypto Market Is Red (It s NOT the Reason You Think)! Breaking Crypto News Today! CADE HILTON'S CHANNEL ...
+Bitcoin plunges under $80000 as geopolitical risks deepens amid U.S-Iran tension. How low with bitcoin drop now? Will this force ...
 
-📺 Austin Hilton
+📺 Ricky Gutierrez
 
-👁️ 23K • 👍 867 • 💬 204 • ⏱️ 9:28 • 7h ago
+👁️ 17K • 👍 605 • 💬 310 • ⏱️ 6:53 • 7h ago
 
 ---
 
@@ -363,7 +339,37 @@ The 'Path of Least Resistance' is currently straight down, and the stock market 
 
 📺 Gareth Soloway
 
-👁️ 49K • 👍 4K • 💬 762 • ⏱️ 12:26 • 5h ago
+👁️ 68K • 👍 5K • 💬 840 • ⏱️ 12:26 • 8h ago
+
+---
+
+**[The Actual Reason Bitcoin Is Crashing (you won&#39;t believe)](https://www.youtube.com/watch?v=rlvplss4VoM)**
+
+LIMITED TIME: ✓ Bitunix (no kyc, $10k bonus): https://www.bitunix.com/register?vipCode=AltcoinDaily 50% deposit bonus on ...
+
+📺 Altcoin Daily
+
+👁️ 13K • 👍 1K • 💬 123 • ⏱️ 9:24 • 2h ago
+
+---
+
+**[Why the Crypto Market Is Red (It s NOT the Reason You Think)! Breaking Crypto News Today!](https://www.youtube.com/watch?v=hN0qdU6UPA4)**
+
+Why the Crypto Market Is Red (It s NOT the Reason You Think)! Breaking Crypto News Today! CADE HILTON'S CHANNEL ...
+
+📺 Austin Hilton
+
+👁️ 27K • 👍 913 • 💬 329 • ⏱️ 9:28 • 10h ago
+
+---
+
+**[WTF JUST HAPPENED TO BITCOIN!!](https://www.youtube.com/watch?v=BbgZx_N5xpc)**
+
+CHECK OUT MY LINKTREE FOR EXCHANGES I USE, BONUSES, FREE VIDEOS, AND MORE! https://linktr.ee/Myfinancialfriend I ...
+
+📺 My Financial Friend
+
+👁️ 19K • 👍 767 • 💬 350 • ⏱️ 8:03 • 9h ago
 
 ---
 
@@ -373,37 +379,27 @@ EMERGENCY UPDATE: CRYPTO CRASH INTENSIFIES! (Here's Why) The crypto market is in
 
 📺 Tim Warren
 
-👁️ 11K • 👍 848 • 💬 367 • ⏱️ 11:12 • 5h ago
+👁️ 17K • 👍 994 • 💬 409 • ⏱️ 11:12 • 7h ago
 
 ---
 
-**[EMERGENCY NEWS - THE MARKET JUST BROKE! BUT WHY? (XRP, BITCOIN,ALTCOINS CRASHING!)](https://www.youtube.com/watch?v=sM22sf6gHKo)**
+**[Bitcoin Investors....Get Ready for THIS](https://www.youtube.com/watch?v=i8c_TMdqOb0)**
 
-EMERGENCY NEWS - THE MARKET JUST BROKE! (XRP, BITCOIN,ALTCOINS CRASHING!) The new Telegram group, join here ...
+Check out ClashPicks: https://www.clashpicks.com/ **Exchange Partners** Bitunix Exchange ▻ *$100000 Deposit Bonus* ...
 
-📺 Money Maker - Avi Lev
+📺 CryptosRUs
 
-👁️ 6K • 👍 430 • 💬 103 • ⏱️ 13:24 • 4h ago
-
----
-
-**[When Will Bitcoin Bottom? (HOW LOW CAN WE GO?) It’s Obvious….](https://www.youtube.com/watch?v=MDxh1yMD_LY)**
-
-BLOFIN: https://thecryptoreport.co/Blofin $5000 BONUS AND ACCESS TO OUR PRIVATE DISCORD SERVER! BTCC: ...
-
-📺 The Crypto Report
-
-👁️ 356 • 👍 24 • 💬 67 • ⏱️ 6:52 • 5h ago
+👁️ 57K • 👍 2K • 💬 578 • ⏱️ 8:41 • 2d ago
 
 ---
 
-**[SHORTING BITCOIN RIGHT NOW !!!!!!](https://www.youtube.com/watch?v=Uq70qeC-QTk)**
+**[EXPLAINED: Trump Just Crashed Gold, Silver, &amp; Bitcoin](https://www.youtube.com/watch?v=RS9uOBSp_iU)**
 
-BYBIT: http://themoon.co/Bybit 10% DISCOUNT & $30000 BONUS BloFin: https://themoon.co/blofin600 Sign up now and ...
+Watch my free masterclass & get Market Briefs as a bonus: https://briefs.finance/gw1 My recommended tools*! *Please note: Yes ...
 
-📺 The Moon Show
+📺 Minority Mindset
 
-👁️ 9K • 👍 518 • 💬 49 • ⏱️ 3:26 • 5h ago
+👁️ 241K • 👍 9K • 💬 2K • ⏱️ 14:10 • 14h ago
 
 ---
 
