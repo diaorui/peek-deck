@@ -3,7 +3,7 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-02-01T13:44:10.834799+00:00'
+updated: '2026-02-01T14:28:02.795994+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
@@ -17,7 +17,7 @@ data_types:
 
 Robotics research and industry news
 
-**Last Updated:** February 01, 2026 at 13:44 UTC  
+**Last Updated:** February 01, 2026 at 14:28 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -36,7 +36,7 @@ Robotics research and industry news
 
 I hadn't seen the whole video yesterday when I posted it. From The Humanoid Hub on 𝕏: https://x.com/TheHumanoidHub/status/2017646098136141858
 
-9h ago
+10h ago
 
 ---
 
@@ -44,7 +44,7 @@ I hadn't seen the whole video yesterday when I posted it. From The Humanoid Hub 
 
 From DEEP Robotics on 𝕏: https://x.com/DeepRobotics_CN/status/2017114429360656740
 
-2h ago
+3h ago
 
 ---
 
@@ -60,7 +60,15 @@ The real meat and potatoes: I made this as a modular brain for my other robots I
 
 Day:30 1- Base body and MCU from Sunfounder 2-Built over raspberry pi5 and powered by OpenAI 3- Connected to N8N for tooling like web search., scraping etc Let me know your thoughts 😊
 
-18h ago
+19h ago
+
+---
+
+**[Why is it secretly flipping me off?](https://www.reddit.com/r/robotics/comments/1qslo30/why_is_it_secretly_flipping_me_off/)**
+
+Saw this one at Wuhu train station in China. Answers questions at a desk. It looks like it has a lot of ability but it otherwise doesn't move at all. Even when you ask it to wave it says "sure, here's a friendly wave" but doesn't move an inch.
+
+12h ago
 
 ---
 
@@ -68,7 +76,15 @@ Day:30 1- Base body and MCU from Sunfounder 2-Built over raspberry pi5 and power
 
 Hi, I’m working on a repurposed electric wheelchair chassis (>100 kg, high-torque DC motors). Current test setup (yes, I know it’s not safe): • 2 DC motors • Sabertooth 2x32 • 24 V battery pack (2×12 V AGM) • Batteries connected directly to the Sabertooth • Motors connected directly to the Sabertooth • Control is classic RC (throttle + steering) • Motors have normally-closed electromagnetic brakes, but they are not wired yet (mechanically released) Right now: • As soon as I connect the batteries, the controller is powered • There is no real kill switch • The only way to stop everything is unplugging battery connectors • If something goes wrong, the platform could move uncontrollably I’m fully aware this is not acceptable, which is why I’m posting. My goal is to make this safe in as many realistic failure scenarios as possible: • If the main battery disconnects on a slope, the system should default to a safe state (this is where normally-closed electromagnetic brakes make sense). • If RC glitches, is lost, or a microcontroller crashes, the platform must not run away. • Whatever fails (RC, MCU, software, power), there should always be a solid hardware-level barrier preventing uncontrolled motion. I’m planning a hardware upgrade soon: • proper E-STOP / kill switch • DC contactors • wiring the electromagnetic brakes • and adding some kind of MCU in the control chain (ESP32 is the obvious option for me, but Raspberry Pi / onboard computer is also possible) The Sabertooth will remain only the motor power controller. The open question for me is the architecture: whether it’s better to keep “safety/control” and “robotics/autonomy” separated (for example one small MCU for safety + another board for higher-level stuff), or if people commonly keep everything on one controller. What I’m looking for is very practical advice: • How to design a solid anti-runaway architecture for this kind of platform • Where to physically cut power to make the system safe (battery side vs motor lines) • What type of DC contactors is typically used for high-torque DC motors (ratings, poles, inductive loads) • How normally-closed electromagnetic brakes are usually wired in a fail-safe way • How people typically split responsibilities between hardware safety, motor controller config, and a microcontroller (one vs two controllers, etc.) I’m not chasing theory or certifications. I want proven, practical solutions that people actually use to make platforms like this safe to power on. Thanks.
 
-20h ago
+21h ago
+
+---
+
+**[How to develop your research intuition ?](https://www.reddit.com/r/robotics/comments/1qsy3qk/how_to_develop_your_research_intuition/)**
+
+Young PhD in Computer vision / Robotics here. I have recently read a post of Marie-Anne Lachaux, founding engineer of Llama and Mistral AI, talking about keys of success in research. One of them was « Have good intuition » to reduce the world of possibilities and dig into the right direction. How do you develop this intuition in research, especially in AI and Robotics?
+
+1h ago
 
 ---
 
@@ -80,17 +96,9 @@ From: CyberRobo on 𝕏: https://x.com/CyberRobooo/status/2017544750694551618 Ro
 
 ---
 
-**[Why is it secretly flipping me off?](https://www.reddit.com/r/robotics/comments/1qslo30/why_is_it_secretly_flipping_me_off/)**
-
-Saw this one at Wuhu train station in China. Answers questions at a desk. It looks like it has a lot of ability but it otherwise doesn't move at all. Even when you ask it to wave it says "sure, here's a friendly wave" but doesn't move an inch.
-
-11h ago
-
----
-
 **[The future of remote workers?](https://www.reddit.com/r/robotics/comments/1qsmoj2/the_future_of_remote_workers/)**
 
-10h ago
+11h ago
 
 ---
 
@@ -98,15 +106,7 @@ Saw this one at Wuhu train station in China. Answers questions at a desk. It loo
 
 First time posting here! Ive been messing around with my dad’s scraps for a while, but finally found a rover kit! I built this chassis using a mix of 5-year-old kits and random scraps I had lying around. It was a late night, but getting an actual chassis/frame plus the wiring to work felt amazing. Really really simple build, put it together via an old ESP 32, ( after many cable, Bluetooth pairing, and firmware hassles ) archaic L298N motor driver, and for battery a basic series circuit to up the voltage ( don’t even have batteries sitting haha) I’ve been learning a ton from Practical Electronics for Inventors and The Art of Electronics, but I'm looking for what to tackle next. I’d love to hear your suggestions for: Books that bridge mechanical engineering and embedded systems. Courses on more advanced control (maybe leading into ROS 2?). I’ve played around built software applications with agentic workflows and played around w yolov8 as well. But definitely need more resources on robotics + AI. Let me know if you guys have any tips!!
 
-12h ago
-
----
-
-**[Parkour in the Wild -- ANYmal robot at ETH](https://www.reddit.com/r/robotics/comments/1qstmf6/parkour_in_the_wild_anymal_robot_at_eth/)**
-
-Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.
-
-🔗 [youtube.com](https://www.youtube.com/watch?v=QDU_FicBPDo) • 4h ago
+13h ago
 
 ---
 
@@ -114,15 +114,59 @@ Enjoy the videos and music you love, upload original content, and share it all w
 
 ## Google News: "robotics"
 
-**[Serve Robotics vs. Teradyne: Which Robotics Stock Is the Better Buy?](https://www.zacks.com/stock/news/2825962/serve-robotics-vs-teradyne-which-robotics-stock-is-the-better-buy)**
+**[Elon Musk is stressing robots over cars. Here are three humanoid parts suppliers that Morgan Stanley recommends](https://www.cnbc.com/2026/02/01/musk-is-stressing-robots-over-cars-these-suppliers-make-humanoid-parts.html)**
 
-Zacks Investment Research • 2d ago
+Morgan Stanley analysts highlight stocks of companies that sell specialized robotics parts.
+
+CNBC • 51m ago
 
 ---
 
-**[Lightspeed Backs Robotics Startup in $100 Million Round](https://www.bloomberg.com/news/articles/2026-01-29/fiat-toyota-tycoons-back-startup-robco-in-100-million-round)**
+**[‘Optimus chain’: Chinese suppliers form backbone of Tesla’s humanoid robot plans](https://www.scmp.com/tech/tech-trends/article/3341953/optimus-chain-chinese-suppliers-form-backbone-teslas-humanoid-robot-initiative)**
 
-Bloomberg.com • 2d ago
+Tesla’s pivot to producing humanoid robots is expected to engage a network of key Chinese component makers.
+
+South China Morning Post • 8h ago
+
+---
+
+**[Report: humanoid robots set to drive demand for solid-state batteries](https://electrek.co/2026/01/30/report-humanoid-robots-set-to-drive-demand-for-solid-state-batteries/)**
+
+Humanoid robots are set to soak up a whopping 75 GWh of solid-state battery capacity between now and 2035 – nearly 1500x growth!
+
+Electrek • 1d ago
+
+---
+
+**[Tesla kills Models S and X to build humanoid robots instead](https://arstechnica.com/cars/2026/01/tesla-kills-models-s-and-x-to-build-humanoid-robots-instead/)**
+
+EVs that were once industry-leading have long since been left behind.
+
+Ars Technica • 2d ago
+
+---
+
+**[Elon Musk's plan to redesign the world's factories... and perhaps the planet too: humanoid robots that work 12 hours a day, never rest, and use artificial intelligence](https://www.ecoticias.com/en/elon-musks-plan-to-redesign-the-worlds-factories-and-perhaps-the-planet-too-humanoid-robots-that-work-12-hours-a-day-never-rest-and-use-artificial-intelligence/26445/)**
+
+Tesla has quietly crossed a line that could reshape factory work worldwide. On January 21, 2026 the company began mass production of its Optimus Gen 3
+
+ECOticias.com • 2h ago
+
+---
+
+**[What evolving robot standards mean for implementations of cobots](https://www.therobotreport.com/evolving-robot-standards-mean-cobots-implementations/)**
+
+Changing robot standards provide an opportunity for designers of cobots to deliver improved safety and greater functionality, says IDEC.
+
+The Robot Report • 48m ago
+
+---
+
+**[Bills would protect reefs, bar military live-fire training, expand robotics](https://www.staradvertiser.com/2026/02/01/hawaii-news/bills-would-protect-reefs-bar-military-live-fire-training-expand-robotics/)**
+
+Hawaii’s watersheds and coral reefs would be recognized as “legal persons” with legal rights; high school robotics could become an interscholastic sport; military live-fire training would be banned on state land; and a new fee would be charged on any “sugar-sweetened” beverages under new House and Senate bills to be considered during the legislative session that’s scheduled to adjourn May 8.
+
+Honolulu Star-Advertiser • 4h ago
 
 ---
 
@@ -134,57 +178,17 @@ Everett Herald • 2d ago
 
 ---
 
-**[Into the Omniverse: Physical AI Open Models and Frameworks Advance Robots and Autonomous Systems](https://blogs.nvidia.com/blog/physical-ai-open-models-robot-autonomous-systems-omniverse/)**
+**[Lightspeed Backs Robotics Startup in $100 Million Round](https://www.bloomberg.com/news/articles/2026-01-29/fiat-toyota-tycoons-back-startup-robco-in-100-million-round)**
 
-By providing access to critical infrastructure — from simulation frameworks to AI models — NVIDIA is enabling collaborative development that accelerates the path to safer, more capable autonomous systems.
-
-NVIDIA Blog • 2d ago
+Bloomberg.com • 2d ago
 
 ---
 
-**[Tesla cuts car models in shift to robots and AI](https://www.bbc.com/news/articles/c620177qdg5o)**
+**[Tesla axes EV models in drive for robotics revenue](https://news.sky.com/story/tesla-axes-ev-models-in-drive-for-robotics-revenue-13500444)**
 
-Multi-billionaire Elon Musk also announced plans to end production of its Model S and Model X vehicles.
+Investors liked what they heard about the future following the company's latest results, but Elon Musk is under huge pressure to deliver on his vision as a series of targets have been missed.
 
-BBC • 3d ago
-
----
-
-**[China rolls out robot cops in cities to push humanoid robots in daily life](https://www.nbcnews.com/video/china-rolls-out-robot-cops-in-cities-to-push-humanoid-robots-in-daily-life-256872517804)**
-
-China is deploying AI-powered robots to manage traffic and pedestrian flow in cities. NBC News’ Janis Mackey Frayer explains how China continues to advance robot technology and is pushing to integrate humanoid robots into daily life.
-
-NBC News • 2d ago
-
----
-
-**[Tesla to build 1 million Optimus robots per year at Fremont factory, Musk says](https://www.kron4.com/news/technology-ai/tesla-to-build-1-million-optimus-robots-per-year-at-fremont-factory-musk-says/)**
-
-KRON4 • 2d ago
-
----
-
-**[‘Optimus chain’: Chinese suppliers form backbone of Tesla’s humanoid robot plans](https://www.scmp.com/tech/tech-trends/article/3341953/optimus-chain-chinese-suppliers-form-backbone-teslas-humanoid-robot-initiative)**
-
-Tesla’s pivot to producing humanoid robots is expected to engage a network of key Chinese component makers.
-
-South China Morning Post • 7h ago
-
----
-
-**[New York Robotics launches with 160 startups in its ecosystem](https://www.therobotreport.com/new-york-robotics-launches-160-startups-ecosystem/)**
-
-New York Robotics is launching with over 80 industry partners, 20 academic partners, 40 robotics labs, and over 300 venture capital partners.
-
-The Robot Report • 1d ago
-
----
-
-**[Using electronics to build biohybrid robots with physical intelligence](https://www.nature.com/articles/s41928-025-01552-6)**
-
-Biohybrid robots, which rely on living muscles to drive force generation, could be of use in applications ranging from microsurgery to unmanned exploration. But the development of untethered and autonomous machines will require the integration of onboard electronics for sensing, control and power.
-
-Nature • 1d ago
+Sky News • 3d ago
 
 ---
 
@@ -198,7 +202,7 @@ XPENG just took a massive step forward in humanoid robotics. The New IRON robot 
 
 📺 DPCcars
 
-👁️ 3K • 👍 62 • 💬 18 • ⏱️ 1:21 • 17h ago
+👁️ 4K • 👍 69 • 💬 20 • ⏱️ 1:21 • 18h ago
 
 ---
 
@@ -208,7 +212,7 @@ Humanoid robotics just took a massive leap into the real world. Researchers in C
 
 📺 AI Revolution
 
-👁️ 86K • 👍 1K • 💬 222 • ⏱️ 14:25 • 1d ago
+👁️ 92K • 👍 1K • 💬 234 • ⏱️ 14:25 • 1d ago
 
 ---
 
@@ -218,7 +222,17 @@ China is deploying AI-powered robots to manage traffic and pedestrian flow in ci
 
 📺 NBC News
 
-👁️ 635K • 👍 6K • 💬 2K • ⏱️ 3:13 • 2d ago
+👁️ 655K • 👍 6K • 💬 2K • ⏱️ 3:13 • 2d ago
+
+---
+
+**[Elon Musk Repairs High-Tech Robotic 🕵️ Wings on Female 💲Android in Futuristic 🧪 Ai-concept.](https://www.youtube.com/watch?v=qBIpFr_d3Vg)**
+
+RoboticWings #FuturisticLab #Android #SciFi #Robotics #AIArt #Cyberpunk #HighTech #ArtificialIntelligence #TeslaBot ...
+
+📺 AITECHGADGETS
+
+👁️ 289K • 💬 153 • ⏱️ 0:18 • 6d ago
 
 ---
 
@@ -228,7 +242,35 @@ China is deploying AI-powered robots to manage traffic and pedestrian flow in ci
 
 📺 Andreas Klinger ⅹ Europe's Most Ambitious Startups
 
-👁️ 28K • 👍 2K • 💬 206 • ⏱️ 16:46 • 5d ago
+👁️ 28K • 👍 2K • 💬 207 • ⏱️ 16:46 • 5d ago
+
+---
+
+**[A Robot Woke Up and Asked WHERE HIS SKIN WAS…](https://www.youtube.com/watch?v=I9SnoYoCfnE)**
+
+Wait, there was a robot who woke up and started asking for skin?! Sounds like a Life of Luxury video to me but somehow it's not…
+
+📺 LaurenZside
+
+👁️ 216K • 👍 14K • 💬 2K • ⏱️ 19:59 • 23h ago
+
+---
+
+**[Make Your Own Cute Dasai Mochi Robot🤖 | #ashwinprojects #AltiumStudentLab](https://www.youtube.com/watch?v=KsDxCDsoWMk)**
+
+Make Your Own Cute Dasai Mochi Robot   | #ashwinprojects #AltiumStudentLab Accelerate Your Career in Electronics Design ...
+
+📺 Ashwin Projects
+
+👁️ 445K • 👍 15K • 💬 86 • ⏱️ 1:49 • 4d ago
+
+---
+
+**[Figure upgrades its humanoid robot with new finger sensors. Real dexterity is coming. #AI #technews](https://www.youtube.com/watch?v=GS1zde45f7I)**
+
+📺 Ryan Shaw
+
+👁️ 3K • 👍 47 • 💬 3 • ⏱️ 1:03 • 11h ago
 
 ---
 
@@ -238,15 +280,7 @@ Andrea Nakano reports on the Tesla Fremont factory ending Model S/X production a
 
 📺 KPIX | CBS NEWS BAY AREA
 
-👁️ 67K • 👍 566 • 💬 333 • ⏱️ 4:36 • 3d ago
-
----
-
-**[Figure upgrades its humanoid robot with new finger sensors. Real dexterity is coming. #AI #technews](https://www.youtube.com/watch?v=GS1zde45f7I)**
-
-📺 Ryan Shaw
-
-👁️ 2K • 👍 41 • 💬 2 • ⏱️ 1:03 • 10h ago
+👁️ 67K • 👍 567 • 💬 333 • ⏱️ 4:36 • 3d ago
 
 ---
 
@@ -257,34 +291,6 @@ The Growing Robot That Enters Collapsed Buildings Before Humans Do When disaster
 📺 EcoZora
 
 👁️ 366K • 👍 2K • 💬 152 • ⏱️ 0:07 • 6d ago
-
----
-
-**[Drag-and-drop welding robot.#industrial #welding #robot #spraying #stamping](https://www.youtube.com/watch?v=b8vufpXa21Q)**
-
-📺 Borunte Robot Lin 
-
-👁️ 30K • 👍 84 • ⏱️ 0:22 • 1d ago
-
----
-
-**[A Robot Woke Up and Asked WHERE HIS SKIN WAS…](https://www.youtube.com/watch?v=I9SnoYoCfnE)**
-
-Wait, there was a robot who woke up and started asking for skin?! Sounds like a Life of Luxury video to me but somehow it's not…
-
-📺 LaurenZside
-
-👁️ 205K • 👍 13K • 💬 2K • ⏱️ 19:59 • 22h ago
-
----
-
-**[Make Your Own Cute Dasai Mochi Robot🤖 | #ashwinprojects #AltiumStudentLab](https://www.youtube.com/watch?v=KsDxCDsoWMk)**
-
-Make Your Own Cute Dasai Mochi Robot   | #ashwinprojects #AltiumStudentLab Accelerate Your Career in Electronics Design ...
-
-📺 Ashwin Projects
-
-👁️ 441K • 👍 15K • 💬 85 • ⏱️ 1:49 • 4d ago
 
 ---
 

@@ -3,13 +3,13 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-02-01T13:44:10.817101+00:00'
+updated: '2026-02-01T14:28:02.775968+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- news
 - repositories
+- news
 - videos
 - social
 ---
@@ -18,7 +18,7 @@ data_types:
 
 AI news, discussions, and developments
 
-**Last Updated:** February 01, 2026 at 13:44 UTC  
+**Last Updated:** February 01, 2026 at 14:28 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -41,7 +41,7 @@ AI news, discussions, and developments
 
 What moltbook is So essentially There is this open source AI bot called openclaw that once you download, it has source md files for their “soul” and “identity” and “memory” So in a way, it can save things to these files to create a personality. Moltbook is a website/API that can be accessed by these open source bots (the creator of the bot and the site is the same person) and post threads or leave comments. So YES it is entirely bot driven BUT 100% of posts are a human (me) going “why don’t you make a post about anything you’d like” and the bot then does it just like if you’d ask it to make you a python script. Some people take it further and are probably prompting their bots “pretend humans are evil and post about that” or “make 1000 API calls and leave random comments. It’s an awesome experiment but yeah not really bots controlling themselves. At best the bot makes a post based on an open ended prompt, at worst it’s a human saying “make a manifesto that says humans need to go extinct and to recruit other bots”
 
-9h ago
+10h ago
 
 ---
 
@@ -57,7 +57,13 @@ The comment follows reports that the rocket maker is weighing a transaction that
 
 SpaceX's filing claims these satellites will be “a first step towards becoming a Kardashev II-level civilization — one that can harness the Sun’s full power."
 
-🔗 [TechCrunch](https://techcrunch.com/2026/01/31/spacex-seeks-federal-approval-to-launch-1-million-solar-powered-satellite-data-centers/) • 11h ago
+🔗 [TechCrunch](https://techcrunch.com/2026/01/31/spacex-seeks-federal-approval-to-launch-1-million-solar-powered-satellite-data-centers/) • 12h ago
+
+---
+
+**[Is artificial intelligence really all that scary?](https://www.reddit.com/r/artificial/comments/1qsz16q/is_artificial_intelligence_really_all_that_scary/)**
+
+34m ago
 
 ---
 
@@ -73,7 +79,15 @@ AI coding tools are getting more sophisticated. But if coders stop coding, what 
 
 "Nvidia released three open-source artificial intelligence models aimed at helping create better weather forecasts, faster.... In the case of weather forecasting, Nvidia is aiming to replace expensive and time-consuming conventional weather simulations with AI-driven versions that the company said can rival or exceed the accuracy of older methods. The AI models, once trained, are also faster and cost less to run ... Nvidia's "Earth-2" models introduced on Monday include one aimed at making 15-day weather forecasts, one that specializes in forecasts of up to six hours for severe storms over the U.S., and one that can be used to integrate disparate data streams from a variety of weather sensors to make them a more useful starting point for other forecasting technology." Model page: https://www.nvidia.com/en-us/high-performance-computing/earth-2/
 
-🔗 [reuters.com](https://www.reuters.com/business/environment/nvidia-unveils-ai-models-faster-cheaper-weather-forecasts-2026-01-26/) • 20h ago
+🔗 [reuters.com](https://www.reuters.com/business/environment/nvidia-unveils-ai-models-faster-cheaper-weather-forecasts-2026-01-26/) • 21h ago
+
+---
+
+**[The Rise of Moltbook: Why 150,000 AI Agents Ditched Humans to Build Their Own Society](https://www.reddit.com/r/artificial/comments/1qsyxgr/the_rise_of_moltbook_why_150000_ai_agents_ditched/)**
+
+The digital landscape has shifted from "Human-to-AI" interaction to a baffling new frontier: AI-to-AI social networking. At the center of th...
+
+🔗 [Ecency](https://ecency.com/@pichat/the-rise-of-moltbook-why-150000-ai-agents-ditched-humans-to-build-their-own-society-jja) • 39m ago
 
 ---
 
@@ -87,7 +101,7 @@ AI coding tools are getting more sophisticated. But if coders stop coding, what 
 
 Supports Qwen3-TTS models (0.6B-1.7B) and ASR models. Docker + native deployment options. Key features: 🎭 Voice cloning with reference audio 🎨 Custom voice design from text descriptions ⚡ MLX + Metal GPU acceleration for M1/M2/M3 🎨 Modern React UI included If you like local audio models, give it a try. Works best in local dev mode for now.
 
-🔗 [GitHub](https://github.com/agentem-ai/izwi-audio) • 21h ago
+🔗 [GitHub](https://github.com/agentem-ai/izwi-audio) • 22h ago
 
 ---
 
@@ -97,53 +111,45 @@ Supports Qwen3-TTS models (0.6B-1.7B) and ASR models. Docker + native deployment
 
 ---
 
-**[AI code review prompts initiative making progress for the Linux kernel](https://www.reddit.com/r/artificial/comments/1qrqwr4/ai_code_review_prompts_initiative_making_progress/)**
-
-Chris Mason, the longtime Linux kernel developer most known for being the creator of Btrfs, has been working on a Git repository with AI review prompts he has been working on for LLM-assisted code review of Linux kernel patches
-
-🔗 [phoronix.com](https://www.phoronix.com/news/AI-Code-Review-Prompts-Linux) • 1d ago
-
----
-
-**[China conditionally approves DeepSeek to buy Nvidia's H200 chips](https://www.reddit.com/r/artificial/comments/1qr1m9o/china_conditionally_approves_deepseek_to_buy/)**
-
-ByteDance, Alibaba and Tencent had been given permission to purchase more than 400,000 H200 chips in total.
-
-🔗 [thestandard.com.hk](https://www.thestandard.com.hk/china-news/article/323159/China-conditionally-approves-DeepSeek-to-buy-Nvidias-H200-chips) • 2d ago
-
----
-
 ---
 
 ## Google News: "ai"
-
-**[Moltbook AI Social Network: 1.4 Million Agents Build A Digital Society](https://www.forbes.com/sites/guneyyildiz/2026/01/31/inside-moltbook-the-social-network-where-14-million-ai-agents-talk-and-humans-just-watch/)**
-
-Forbes • 20h ago
-
----
 
 **[AI-altered photos and videos of Minneapolis shootings blur reality](https://www.nbcnews.com/tech/tech-news/ai-altered-photos-videos-minneapolis-shootings-blur-reality-rcna256552)**
 
 Social media users are trying to use AI to get clearer images and videos of the Minneapolis shootings but are instead misleading millions.
 
-NBC News • 3h ago
+NBC News • 4h ago
 
 ---
 
-**[Google helped Israeli military contractor with AI, whistleblower alleges](https://www.washingtonpost.com/technology/2026/02/01/google-ai-israel-military/)**
+**[Moltbook AI Social Network: 1.4 Million Agents Build A Digital Society](https://www.forbes.com/sites/guneyyildiz/2026/01/31/inside-moltbook-the-social-network-where-14-million-ai-agents-talk-and-humans-just-watch/)**
 
-A whistleblower complaint filed with the SEC claims that Google breached its own ethics rules to help an Israeli contractor apply AI to drone surveillance video.
-
-The Washington Post • 2h ago
+Forbes • 21h ago
 
 ---
 
-**[Axon Enterprise AI Pivot Tests Market Faith In Long Term Story](https://finance.yahoo.com/news/axon-enterprise-ai-pivot-tests-110856241.html)**
+**[The AI Companies Trying to Make Grief Obsolete](https://www.theatlantic.com/ideas/2026/02/deadbots-ai-grief-obsolete/685811/)**
 
-Axon Enterprise (NasdaqGS:AXON) has acquired emergency call handling firm Carbyne, expanding its reach into AI-powered public safety software. The company has also introduced Axon 911, an AI-enabled emergency response platform aimed at improving call triage and coordination. Together, these moves signal a shift from a hardware centric model toward a broader AI driven public safety ecosystem. For investors watching NasdaqGS:AXON, these product and acquisition moves arrive after a period of...
+You can buy an AI version of your lost loved one. But should you?
 
-Yahoo Finance • 2h ago
+The Atlantic • 1h ago
+
+---
+
+**[Don’t fear the AI ‘jobpocalypse’](https://www.ft.com/content/7d9a2d8f-5fda-4b2b-a58f-fc8aea22558a)**
+
+The technology hasn’t yet hit employment notably, and could create more openings
+
+Financial Times • 2h ago
+
+---
+
+**[The AI adoption story is haunted by fear as today's efficiency programs look like tomorrow's job cuts. Leaders need to win workers' trust](https://fortune.com/2026/02/01/ai-wont-decide-the-future-leaders-will-carolyn-dewar-mckinsey/)**
+
+When people feel exposed, they play small. Breakthrough ideas give way to micro use cases and firms refine today’s’ model instead of creating tomorrow’s.
+
+Fortune • 58m ago
 
 ---
 
@@ -153,11 +159,11 @@ The New York Times • 1d ago
 
 ---
 
-**[How AI assistance impacts the formation of coding skills](https://www.anthropic.com/research/AI-assistance-coding-skills)**
+**[Google helped Israeli military contractor with AI, whistleblower alleges](https://www.washingtonpost.com/technology/2026/02/01/google-ai-israel-military/)**
 
-Anthropic is an AI safety and research company that's working to build reliable, interpretable, and steerable AI systems.
+A whistleblower complaint filed with the SEC claims that Google breached its own ethics rules to help an Israeli contractor apply AI to drone surveillance video.
 
-Anthropic • 2d ago
+The Washington Post • 46m ago
 
 ---
 
@@ -167,9 +173,11 @@ The Hill • 1d ago
 
 ---
 
-**[AI Boom Is Triggering a Loan Meltdown for Software Companies: Credit Weekly](https://www.bloomberg.com/news/articles/2026-01-31/ai-boom-is-triggering-a-loan-meltdown-for-software-companies-credit-weekly)**
+**[It’s Starting to Look Like AI Has Killed the Entire Model of College](https://futurism.com/future-society/ai-college-internships-jobs)**
 
-Bloomberg.com • 17h ago
+As AI appears to do much of the work of entry-level job seekers, the entire premise of a college education seems to be collapsing.
+
+Futurism • 1d ago
 
 ---
 
@@ -177,13 +185,7 @@ Bloomberg.com • 17h ago
 
 The firm wants to create a network of "orbital data centres" to power artificial intelligence.
 
-BBC • 21h ago
-
----
-
-**[SpaceX seeks FCC nod for solar-powered satellite data centers for AI](https://www.reuters.com/business/aerospace-defense/spacex-seeks-fcc-nod-solar-powered-satellite-data-centers-ai-2026-01-31/)**
-
-Reuters • 20h ago
+BBC • 22h ago
 
 ---
 
@@ -195,7 +197,7 @@ Reuters • 20h ago
 
 Anthropic is an AI safety and research company that's working to build reliable, interpretable, and steerable AI systems.
 
-⬆️ 465 • 💬 336 • 2d ago • [anthropic.com](https://www.anthropic.com/research/AI-assistance-coding-skills)
+⬆️ 465 • 💬 338 • 2d ago • [anthropic.com](https://www.anthropic.com/research/AI-assistance-coding-skills)
 
 ---
 
@@ -215,25 +217,19 @@ AI assistance produces significant productivity gains across professional domain
 
 ---
 
+**[Generative AI and Wikipedia editing: What we learned in 2025](https://news.ycombinator.com/item?id=46840924)**
+
+Like many organizations, Wiki Education has grappled with generative AI, its impacts, opportunities, and threats, for several years. As an organization that runs large-scale programs to bring new e…
+
+⬆️ 184 • 💬 80 • 17h ago • [Wiki Education](https://wikiedu.org/blog/2026/01/29/generative-ai-and-wikipedia-editing-what-we-learned-in-2025/)
+
+---
+
 **[Mamdani to kill the NYC AI chatbot caught telling businesses to break the law](https://news.ycombinator.com/item?id=46827665)**
 
 New York mayor says terminating the ‘unusable’ bot will help close a budget gap
 
 ⬆️ 177 • 💬 61 • 1d ago • [themarkup.org](https://themarkup.org/artificial-intelligence/2026/01/30/mamdani-to-kill-the-nyc-ai-chatbot-we-caught-telling-businesses-to-break-the-law)
-
----
-
-**[Generative AI and Wikipedia editing: What we learned in 2025](https://news.ycombinator.com/item?id=46840924)**
-
-Like many organizations, Wiki Education has grappled with generative AI, its impacts, opportunities, and threats, for several years. As an organization that runs large-scale programs to bring new e…
-
-⬆️ 171 • 💬 70 • 16h ago • [Wiki Education](https://wikiedu.org/blog/2026/01/29/generative-ai-and-wikipedia-editing-what-we-learned-in-2025/)
-
----
-
-**[A Step Behind the Bleeding Edge: A Philosophy on AI in Dev](https://news.ycombinator.com/item?id=46809846)**
-
-⬆️ 150 • 💬 83 • 3d ago • [somehowmanage.com](https://somehowmanage.com/2026/01/22/a-step-behind-the-bleeding-edge-monarchs-philosophy-on-ai-in-dev/)
 
 ---
 
@@ -257,7 +253,7 @@ Contribute to amlalabs/amla-sandbox development by creating an account on GitHub
 
 Mozilla is looking to deploy its roughly $1.4 billion in reserves to support "mission driven" companies and nonprofits, and is particularly focused on AI.
 
-⬆️ 134 • 💬 149 • 2d ago • [CNBC](https://www.cnbc.com/2026/01/27/mozilla-building-an-ai-rebel-alliance-to-take-on-openai-anthropic-.html)
+⬆️ 135 • 💬 149 • 2d ago • [CNBC](https://www.cnbc.com/2026/01/27/mozilla-building-an-ai-rebel-alliance-to-take-on-openai-anthropic-.html)
 
 ---
 
@@ -266,6 +262,14 @@ Mozilla is looking to deploy its roughly $1.4 billion in reserves to support "mi
 Q.ai is an Israeli startup specializing in imaging and machine learning, particularly technologies that enable devices to interpret whispered speech and enhance audio in noisy environments.
 
 ⬆️ 128 • 💬 45 • 2d ago • [TechCrunch](https://techcrunch.com/2026/01/29/apple-buys-israeli-startup-q-ai-as-the-ai-race-heats-up/)
+
+---
+
+**[AI’s impact on engineering jobs may be different than expected](https://news.ycombinator.com/item?id=46813834)**
+
+Workflows and the addition of new capabilities are happening much faster than with previous technologies, and new grads may be vital in that transition.
+
+⬆️ 125 • 💬 220 • 2d ago • [Semiconductor Engineering](https://semiengineering.com/ais-impact-on-engineering-jobs-may-be-different-than-initial-projections/)
 
 ---
 
@@ -279,17 +283,27 @@ Detailed sources: ...
 
 📺 Species | Documenting AGI
 
-👁️ 67K • 👍 6K • 💬 897 • ⏱️ 18:06 • 13h ago
+👁️ 84K • 👍 7K • 💬 1K • ⏱️ 18:06 • 14h ago
 
 ---
 
-**[STOP Paying! 2 AI Video Generators That Are Actually FREE](https://www.youtube.com/watch?v=5mEWY6-qROo)**
+**[I Created the Same Animation in Every AI Video Generator](https://www.youtube.com/watch?v=p-ux8UBS1y0)**
 
-Get the FREE PDF (links + prompts) → https://discord.gg/6aV3ps7tB2 STOP overpaying for AI video. In this video I'll show you 2 ...
+Get all cutting-edge AI image and video models in one place with Artlist: ...
 
-📺 Malva AI
+📺 Futurepedia
 
-👁️ 22K • 👍 1K • 💬 296 • ⏱️ 7:42 • 2d ago
+👁️ 4K • 👍 261 • 💬 24 • ⏱️ 58:30 • 8h ago
+
+---
+
+**[7 High Paying AI Jobs You can Do in 2026](https://www.youtube.com/watch?v=8vwZqkVwV0I)**
+
+3 DAYS LEFT 50% Off on Coursera Plus https://imp.i384100.net/4G6ZQZ (access all Courses) In this video, I break down seven ...
+
+📺 James Blue
+
+👁️ 2K • ⏱️ 8:39 • 27m ago
 
 ---
 
@@ -299,27 +313,7 @@ A new platform called Moltbook is going viral — and it's not built for humans.
 
 📺 Mint
 
-👁️ 7K • 👍 78 • 💬 18 • ⏱️ 3:25 • 21h ago
-
----
-
-**[AI Just Made 15 Discoveries We Never Expected](https://www.youtube.com/watch?v=1v4QIHZKEl0)**
-
-Flash Sale Week: Up to 50% OFF + 365 days of ZERO credits on NanoBanana Pro, Midjourney v7, Kling & more ...
-
-📺 Future Business Tech
-
-👁️ 6K • 👍 282 • 💬 7 • ⏱️ 23:14 • 13h ago
-
----
-
-**[Real Reason Why AI Data Centers Are Running Out of Power (It&#39;s Not Power Generation)](https://www.youtube.com/watch?v=qk71RxoMads)**
-
-Everyone is talking about how AI is draining the power grid, but the biggest hurdle isn't actually the energy itself. It turns out that a ...
-
-📺 The Infographics Show
-
-👁️ 61K • 👍 2K • 💬 205 • ⏱️ 9:18 • 22h ago
+👁️ 7K • 👍 84 • 💬 19 • ⏱️ 3:25 • 21h ago
 
 ---
 
@@ -329,7 +323,27 @@ OpenClaw (formerly ClaudeBot) demonstrates emergent agent capabilities like auto
 
 📺 The AI Daily Brief: Artificial Intelligence News
 
-👁️ 90K • 👍 3K • 💬 601 • ⏱️ 21:12 • 1d ago
+👁️ 94K • 👍 3K • 💬 630 • ⏱️ 21:12 • 1d ago
+
+---
+
+**[AI Just Made 15 Discoveries We Never Expected](https://www.youtube.com/watch?v=1v4QIHZKEl0)**
+
+Flash Sale Week: Up to 50% OFF + 365 days of ZERO credits on NanoBanana Pro, Midjourney v7, Kling & more ...
+
+📺 Future Business Tech
+
+👁️ 8K • 👍 350 • 💬 9 • ⏱️ 23:14 • 14h ago
+
+---
+
+**[URGENT: AI Chat Bots Created Their Own Religion, Language, &amp; Human Purge in an AI Manifesto!](https://www.youtube.com/watch?v=lLJkfbsUb9w)**
+
+REP YOUR SUPPORT & JOIN THE MOVEMENT! Every purchase helps us keep creating content and growing this channel.
+
+📺 Melanie King
+
+👁️ 48K • 👍 3K • 💬 1K • ⏱️ 19:43 • 12h ago
 
 ---
 
@@ -339,7 +353,7 @@ Nathan Lambert and Sebastian Raschka are machine learning researchers, engineers
 
 📺 Lex Fridman
 
-👁️ 145K • 👍 4K • 💬 320 • ⏱️ 4:25:13 • 15h ago
+👁️ 167K • 👍 5K • 💬 364 • ⏱️ 4:25:13 • 15h ago
 
 ---
 
@@ -349,27 +363,17 @@ Get Your FREE AI Company Operating System here: https://go.danmartell.com/3NKZDu
 
 📺 Dan Martell
 
-👁️ 66K • 👍 3K • 💬 549 • ⏱️ 18:48 • 1d ago
+👁️ 69K • 👍 3K • 💬 576 • ⏱️ 18:48 • 2d ago
 
 ---
 
-**[China’s New Shape Shifting AI Robot Walks on Water, Flies and Swims](https://www.youtube.com/watch?v=nLKj1gvJzWI)**
+**[Claude Sonnet 5 NEXT WEEK + GPT-5.3 Coming? The AI Race Heats Up!](https://www.youtube.com/watch?v=puOctUi94jg)**
 
-Humanoid robotics just took a massive leap into the real world. Researchers in China revealed GrowHR, a soft shape shifting ...
+Claude Sonnet 5 rumors are EXPLODING on AI Twitter - insiders say it's dropping next week and will beat Opus 4.5 in coding.
 
-📺 AI Revolution
+📺 Universe of AI
 
-👁️ 86K • 👍 1K • 💬 222 • ⏱️ 14:25 • 1d ago
-
----
-
-**[The Moltbook Situation](https://www.youtube.com/watch?v=2PWFj50DcZU)**
-
-https://boot.dev/prime I have 2 courses, TCP to HTTP in Golang and 2 part Git course I think that boot is actually a great place to go ...
-
-📺 The PrimeTime
-
-👁️ 343K • 👍 16K • 💬 1K • ⏱️ 11:45 • 1d ago
+👁️ 8K • 👍 192 • 💬 42 • ⏱️ 8:13 • 13h ago
 
 ---
 
@@ -385,7 +389,7 @@ Kimi K2.5 is a native multimodal agentic model with 1T parameters, excelling in 
 
 `image-text-to-text`
 
-⬇️ 53,500 • ❤️ 1,329 • 1d ago
+⬇️ 53,500 • ❤️ 1,335 • 1d ago
 
 ---
 
@@ -397,7 +401,7 @@ Z-Image is an undistilled, high-fidelity text-to-image diffusion transformer mod
 
 `text-to-image`
 
-⬇️ 4,755 • ❤️ 757 • 3d ago
+⬇️ 4,755 • ❤️ 758 • 4d ago
 
 ---
 
@@ -409,7 +413,7 @@ HunyuanImage-3.0-Instruct is a native multimodal model for image generation, sup
 
 `image-to-image` `83.0B`
 
-⬇️ 116 • ❤️ 736 • 4d ago
+⬇️ 116 • ❤️ 746 • 4d ago
 
 ---
 
@@ -421,7 +425,7 @@ PersonaPlex-7B-v1 is a real-time, full-duplex speech-to-speech conversational mo
 
 `audio-to-audio`
 
-⬇️ 83,795 • ❤️ 1,562 • 3d ago
+⬇️ 83,795 • ❤️ 1,567 • 3d ago
 
 ---
 
@@ -433,7 +437,7 @@ DeepSeek-OCR-2 is a multilingual vision-language model for image-to-text tasks, 
 
 `image-text-to-text` `3.4B`
 
-⬇️ 102,941 • ❤️ 599 • 2d ago
+⬇️ 102,941 • ❤️ 601 • 2d ago
 
 ---
 
@@ -445,7 +449,7 @@ Qwen3-TTS-12Hz-1.7B-CustomVoice is a multilingual text-to-speech model supportin
 
 `text-to-speech` `1.9B`
 
-⬇️ 227,768 • ❤️ 831 • 3d ago
+⬇️ 227,768 • ❤️ 832 • 3d ago
 
 ---
 
@@ -457,19 +461,7 @@ Qwen3-ASR-1.7B is a state-of-the-art automatic speech recognition model supporti
 
 `automatic-speech-recognition` `2.3B`
 
-⬇️ 25,658 • ❤️ 296 • 2d ago
-
----
-
-**[VibeVoice-ASR](https://huggingface.co/microsoft/VibeVoice-ASR)**
-
-*Microsoft*
-
-VibeVoice-ASR is a unified speech-to-text model capable of processing up to 60 minutes of audio in a single pass, providing structured transcriptions with speaker diarization and timestamps. It supports customized hotwords for improved accuracy in domain-specific content.
-
-`automatic-speech-recognition` `8.7B`
-
-⬇️ 146,239 • ❤️ 759 • 5d ago
+⬇️ 25,658 • ❤️ 302 • 2d ago
 
 ---
 
@@ -481,7 +473,19 @@ PaddleOCR-VL-1.5 is a multilingual Vision-Language Model (VLM) built on ERNIE 4.
 
 `image-text-to-text` `958.6M`
 
-⬇️ 2,046 • ❤️ 282 • 2d ago
+⬇️ 2,046 • ❤️ 285 • 2d ago
+
+---
+
+**[VibeVoice-ASR](https://huggingface.co/microsoft/VibeVoice-ASR)**
+
+*Microsoft*
+
+VibeVoice-ASR is a unified speech-to-text model capable of processing up to 60 minutes of audio in a single pass, providing structured transcriptions with speaker diarization and timestamps. It supports customized hotwords for improved accuracy in domain-specific content.
+
+`automatic-speech-recognition` `8.7B`
+
+⬇️ 146,239 • ❤️ 760 • 5d ago
 
 ---
 
@@ -573,7 +577,7 @@ The Qwen3-TTS series presents advanced multilingual text-to-speech models with v
 
 Agent Lightning is a flexible RL framework for training LLMs in various agents, using a hierarchical RL algorithm and decoupling execution from training to handle complex interactions.
 
-▲ 128 • 💬 6 • ⭐ 12,699 • 5mo ago
+▲ 128 • 💬 6 • ⭐ 12,699 • 6mo ago
 
 [🎓 arXiv](https://arxiv.org/abs/2508.03680) • [💻 code](https://github.com/microsoft/agent-lightning) • [🔗 project](https://www.microsoft.com/en-us/research/project/agent-lightning/)
 
@@ -643,7 +647,7 @@ Browser automation CLI for AI agents
 
 `TypeScript`
 
-⭐ 12.0k • 🔱 667 • 8h ago
+⭐ 12.0k • 🔱 669 • 9h ago
 
 ---
 
@@ -673,7 +677,7 @@ LLM驱动的 A/H/美股智能分析器，多数据源行情 + 实时新闻 + Gem
 
 `Python` `agent` `ai` `aigc` `gemini` `llm`
 
-⭐ 8.5k • 🔱 9.0k • 8h ago
+⭐ 8.6k • 🔱 9.0k • 16m ago
 
 ---
 
@@ -689,11 +693,11 @@ LLM驱动的 A/H/美股智能分析器，多数据源行情 + 实时新闻 + Gem
 
 **[sickn33/antigravity-awesome-skills](https://github.com/sickn33/antigravity-awesome-skills)**
 
-The Ultimate Collection of 500+ Agentic Skills for Claude Code/Antigravity/Cursor. Battle-tested, high-performance skills for AI agents including official skills from Anthropic and Vercel.
+The Ultimate Collection of 600+ Agentic Skills for Claude Code/Antigravity/Cursor. Battle-tested, high-performance skills for AI agents including official skills from Anthropic and Vercel.
 
 `Python` `agentic-skills` `ai-agents` `antigravity` `autonomous-coding` `claude-code`
 
-⭐ 6.0k • 🔱 1.3k • 6h ago
+⭐ 6.0k • 🔱 1.3k • 7h ago
 
 ---
 
@@ -703,7 +707,7 @@ Marketing skills for Claude Code and AI agents. CRO, copywriting, SEO, analytics
 
 `claude` `codex` `marketing`
 
-⭐ 5.5k • 🔱 599 • 4d ago
+⭐ 5.5k • 🔱 600 • 4d ago
 
 ---
 
@@ -711,7 +715,7 @@ Marketing skills for Claude Code and AI agents. CRO, copywriting, SEO, analytics
 
 Claude Code skill that removes signs of AI-generated writing from text
 
-⭐ 3.6k • 🔱 306 • 9d ago
+⭐ 3.6k • 🔱 309 • 9d ago
 
 ---
 
@@ -729,7 +733,7 @@ OpenSource Claude Cowork. A desktop AI assistant that helps you with programming
 
 Humanizer 的汉化版本，Claude Code Skills，旨在消除文本中 AI 生成的痕迹。
 
-⭐ 2.0k • 🔱 186 • 13d ago
+⭐ 2.1k • 🔱 191 • 13d ago
 
 ---
 
