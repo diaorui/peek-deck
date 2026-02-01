@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-02-01T11:22:38.343323+00:00'
+updated: '2026-02-01T11:44:42.534250+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
 - videos
-- news
 - social
 - cryptocurrency
+- news
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** February 01, 2026 at 11:22 UTC  
+**Last Updated:** February 01, 2026 at 11:44 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -36,7 +36,7 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Price
 
-### $2,427.44
+### $2,418.57
 
 ---
 
@@ -52,17 +52,17 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Market Stats
 
-**Market Cap:** $290.99B
+**Market Cap:** $290.57B
 Rank #2
 
 **Circulating Supply:** 120,693,815 ETH
 No max supply
 
 **All-Time High:** $4,946.05
--51.2%
+-51.3%
 
 **All-Time Low:** $0.43
-+556961.7%
++556562.1%
 
 ---
 
@@ -154,7 +154,7 @@ Watch before one bug costs you everything. https://x.com/SolidityScan/status/201
 
 The crypto market's recent decline only accelerated Saturday, with Bitcoin falling to nearly $77,000 as liquidations piled up.
 
-Yahoo Finance • 14h ago
+Yahoo Finance • 15h ago
 
 ---
 
@@ -184,7 +184,7 @@ Messari • 3d ago
 
 Ethereum Falls 10% In Selloff
 
-Investing.com • 17h ago
+Investing.com • 18h ago
 
 ---
 
@@ -200,7 +200,7 @@ The Motley Fool • 2d ago
 
 The crypto market is facing a major sell-off today, with total market value dropping to $2.66 trillion, down more than 6% in the last 24 hours. Bitcoin,
 
-Coinpedia Fintech News • 4h ago
+Coinpedia Fintech News • 5h ago
 
 ---
 
@@ -238,7 +238,7 @@ Nick Valdez looks at the latest market crash with the next level Bitcoin MUST ho
 
 📺 Discover Crypto
 
-👁️ 17K • 👍 670 • 💬 191 • ⏱️ 4:28 • 13h ago
+👁️ 18K • 👍 686 • 💬 214 • ⏱️ 4:28 • 14h ago
 
 ---
 
@@ -248,57 +248,7 @@ My FREE Daily On-Chain Analysis & Crypto News In 5-Mins: https://www.cryptonutsh
 
 📺 Jamie Tree 
 
-👁️ 3K • 👍 68 • 💬 60 • ⏱️ 18:25 • 20h ago
-
----
-
-**[Ethereum Elliott Wave Update – Key Resistance Levels Ahead](https://www.youtube.com/watch?v=soWYVsa4xZc)**
-
-This video provides a professional Elliott Wave and technical analysis of Ethereum (ETH), focusing on market structure, major ...
-
-📺 More Crypto Online
-
-👁️ 3K • 👍 145 • 💬 8 • ⏱️ 4:18 • 21h ago
-
----
-
-**[Cathie Wood: “This Is WHEN The 2026 Bull Run Starts” [New Bitcoin &amp; Ethereum Prediction 2026]](https://www.youtube.com/watch?v=xsRdyWYOUJA)**
-
-Join UpTrade today - Your personal crypto broker: https://www.uptrade.au/ My FREE Daily 5-Min Crypto Newsletter: ...
-
-📺 Crypto Nutshell
-
-👁️ 14K • 👍 410 • 💬 99 • ⏱️ 16:36 • 20h ago
-
----
-
-**[BITCOIN CRASH: PRICE TARGETS HIT (this is next)!!!! - Bitcoin News Today, Ethereum &amp; Altcoins](https://www.youtube.com/watch?v=8mqEKXWHZOE)**
-
-BITCOIN CRASH: PRICE TARGETS HIT (this is next)!!!! - Bitcoin News Today, Ethereum & Altcoins *Toobit* ...
-
-📺 Crypto World
-
-👁️ 13K • 👍 522 • 💬 257 • ⏱️ 27:07 • 14h ago
-
----
-
-**[CRYPTO WARNING ⛔️ KNOW THIS TODAY! ‼️ XRP ETHEREUM BITCOIN](https://www.youtube.com/watch?v=5XfakzNwbjo)**
-
-1️⃣ *Join Moe's Discord Code 2026 save 50%* ➡https://www.patreon.com/stockmoe/membership 2️⃣ *Save Big on the ...
-
-📺 Crypto Moe
-
-👁️ 2K • 👍 248 • 💬 45 • ⏱️ 11:41 • 12h ago
-
----
-
-**[🚨 EMERGENCY UPDATE: CRYPTO CRASH INTENSIFIES! (Here&#39;s Why)](https://www.youtube.com/watch?v=ytTNgeSXztY)**
-
-EMERGENCY UPDATE: CRYPTO CRASH INTENSIFIES! (Here's Why) The crypto market is in FREEFALL, and the selling ...
-
-📺 Tim Warren
-
-👁️ 20K • 👍 1K • 💬 435 • ⏱️ 11:12 • 16h ago
+👁️ 3K • 👍 74 • 💬 60 • ⏱️ 18:25 • 20h ago
 
 ---
 
@@ -308,7 +258,17 @@ This video provides a professional Elliott Wave and technical analysis of Ethere
 
 📺 More Crypto Online
 
-👁️ 4K • 👍 272 • 💬 23 • ⏱️ 4:54 • 15h ago
+👁️ 4K • 👍 283 • 💬 24 • ⏱️ 4:54 • 15h ago
+
+---
+
+**[CRYPTO WARNING ⛔️ KNOW THIS TODAY! ‼️ XRP ETHEREUM BITCOIN](https://www.youtube.com/watch?v=5XfakzNwbjo)**
+
+1️⃣ *Join Moe's Discord Code 2026 save 50%* ➡https://www.patreon.com/stockmoe/membership 2️⃣ *Save Big on the ...
+
+📺 Crypto Moe
+
+👁️ 2K • 👍 253 • 💬 45 • ⏱️ 11:41 • 12h ago
 
 ---
 
@@ -318,7 +278,37 @@ Join Premium: https://the-bitcoin-strategy.com My Chart Software: https://the-bi
 
 📺 Gerhard - Bitcoin Strategy
 
-👁️ 6K • 👍 149 • 💬 45 • ⏱️ 7:13 • 1d ago
+👁️ 6K • 👍 151 • 💬 45 • ⏱️ 7:13 • 1d ago
+
+---
+
+**[🚨 EMERGENCY UPDATE: CRYPTO CRASH INTENSIFIES! (Here&#39;s Why)](https://www.youtube.com/watch?v=ytTNgeSXztY)**
+
+EMERGENCY UPDATE: CRYPTO CRASH INTENSIFIES! (Here's Why) The crypto market is in FREEFALL, and the selling ...
+
+📺 Tim Warren
+
+👁️ 20K • 👍 1K • 💬 456 • ⏱️ 11:12 • 17h ago
+
+---
+
+**[Cathie Wood: “This Is WHEN The 2026 Bull Run Starts” [New Bitcoin &amp; Ethereum Prediction 2026]](https://www.youtube.com/watch?v=xsRdyWYOUJA)**
+
+Join UpTrade today - Your personal crypto broker: https://www.uptrade.au/ My FREE Daily 5-Min Crypto Newsletter: ...
+
+📺 Crypto Nutshell
+
+👁️ 14K • 👍 426 • 💬 102 • ⏱️ 16:36 • 20h ago
+
+---
+
+**[Ethereum Elliott Wave Update – Key Resistance Levels Ahead](https://www.youtube.com/watch?v=soWYVsa4xZc)**
+
+This video provides a professional Elliott Wave and technical analysis of Ethereum (ETH), focusing on market structure, major ...
+
+📺 More Crypto Online
+
+👁️ 3K • 👍 146 • 💬 8 • ⏱️ 4:18 • 21h ago
 
 ---
 
@@ -328,7 +318,17 @@ FREE TRAINING: https://www.bullmania.com EXCHANGES I USE (bybit, pionex): https:
 
 📺 Ivan on Tech
 
-👁️ 27K • 👍 2K • 💬 130 • ⏱️ 44:59 • 17h ago
+👁️ 27K • 👍 2K • 💬 176 • ⏱️ 44:59 • 18h ago
+
+---
+
+**[BITCOIN CRASH: PRICE TARGETS HIT (this is next)!!!! - Bitcoin News Today, Ethereum &amp; Altcoins](https://www.youtube.com/watch?v=8mqEKXWHZOE)**
+
+BITCOIN CRASH: PRICE TARGETS HIT (this is next)!!!! - Bitcoin News Today, Ethereum & Altcoins *Toobit* ...
+
+📺 Crypto World
+
+👁️ 14K • 👍 541 • 💬 262 • ⏱️ 27:07 • 14h ago
 
 ---
 

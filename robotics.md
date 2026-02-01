@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-02-01T11:22:38.346536+00:00'
+updated: '2026-02-01T11:44:42.537636+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
 - videos
-- news
 - social
+- news
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** February 01, 2026 at 11:22 UTC  
+**Last Updated:** February 01, 2026 at 11:44 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -44,7 +44,7 @@ I hadn't seen the whole video yesterday when I posted it. From The Humanoid Hub 
 
 The real meat and potatoes: I made this as a modular brain for my other robots I built recently. Right now I’m building her a tiny combat robot body so I can’t wait to program her fight moves. Already slightly tested it but just to get her to stand in a T pose then relax all motors after 5 seconds to get an idea of how to map her body. That was when I used a pi zero tho so more work is definitely needed. After that I need to completely redesign her casing. It’s literally made from an outer frame I printed in a rush and a piece of plastic that held her oled screen in the packaging.
 
-13h ago
+14h ago
 
 ---
 
@@ -84,7 +84,7 @@ Saw this one at Wuhu train station in China. Answers questions at a desk. It loo
 
 hey! I’m just starting out in robotics and I’m learning on my own, not through a university or formal degree. I’m super curious about robotics, embedded systems, hardware + software but honestly it can feel pretty overwhelming figuring out where to start and what to focus on I was wondering if anyone else here is in a similar space: - Self-learning robotics - No robotics/engineering degree - Following online courses, yourube, books, projects, arduino/raspberry pi etc - getting stuck a lot but still want to keep going If so, would love to learn together…share resources, small projects, progress updates, failures etc. Maybe a small discord group orsomething if enough people are interested. Skill level doesn’t matter at all. Absolute beginners welcome. The goal is consistency and help eachother learn together If this sounds interesting, please leave a comment about: - What you’re currently learning - What you want to build someday - or just say i want to join thanks 🦾 Edit: I made a small beginner-friendly Discord for learning robotics together. Please join if you are interested. https://discord.gg/qP9pNK2SB
 
-6h ago
+7h ago
 
 ---
 
@@ -200,7 +200,7 @@ XPENG just took a massive step forward in humanoid robotics. The New IRON robot 
 
 📺 DPCcars
 
-👁️ 3K • 👍 55 • 💬 17 • ⏱️ 1:21 • 15h ago
+👁️ 3K • 👍 62 • 💬 18 • ⏱️ 1:21 • 15h ago
 
 ---
 
@@ -210,7 +210,7 @@ Humanoid robotics just took a massive leap into the real world. Researchers in C
 
 📺 AI Revolution
 
-👁️ 80K • 👍 993 • 💬 207 • ⏱️ 14:25 • 1d ago
+👁️ 86K • 👍 1K • 💬 222 • ⏱️ 14:25 • 1d ago
 
 ---
 
@@ -220,7 +220,7 @@ China is deploying AI-powered robots to manage traffic and pedestrian flow in ci
 
 📺 NBC News
 
-👁️ 621K • 👍 5K • 💬 2K • ⏱️ 3:13 • 2d ago
+👁️ 635K • 👍 6K • 💬 2K • ⏱️ 3:13 • 2d ago
 
 ---
 
@@ -230,7 +230,7 @@ China is deploying AI-powered robots to manage traffic and pedestrian flow in ci
 
 📺 Andreas Klinger ⅹ Europe's Most Ambitious Startups
 
-👁️ 27K • 👍 2K • 💬 206 • ⏱️ 16:46 • 5d ago
+👁️ 28K • 👍 2K • 💬 206 • ⏱️ 16:46 • 5d ago
 
 ---
 
@@ -240,7 +240,7 @@ Andrea Nakano reports on the Tesla Fremont factory ending Model S/X production a
 
 📺 KPIX | CBS NEWS BAY AREA
 
-👁️ 67K • 👍 565 • 💬 333 • ⏱️ 4:36 • 3d ago
+👁️ 67K • 👍 566 • 💬 333 • ⏱️ 4:36 • 3d ago
 
 ---
 
@@ -248,7 +248,7 @@ Andrea Nakano reports on the Tesla Fremont factory ending Model S/X production a
 
 📺 Ryan Shaw
 
-👁️ 2K • 👍 38 • 💬 2 • ⏱️ 1:03 • 8h ago
+👁️ 2K • 👍 41 • 💬 2 • ⏱️ 1:03 • 8h ago
 
 ---
 
@@ -266,27 +266,27 @@ The Growing Robot That Enters Collapsed Buildings Before Humans Do When disaster
 
 📺 Borunte Robot Lin 
 
-👁️ 20K • 👍 81 • ⏱️ 0:22 • 1d ago
+👁️ 30K • 👍 84 • ⏱️ 0:22 • 1d ago
 
 ---
 
-**[Humanoid Robots Are Coming. They Could Wipe Out This Entire Town](https://www.youtube.com/watch?v=6BJ0XbXOJcs)**
+**[A Robot Woke Up and Asked WHERE HIS SKIN WAS…](https://www.youtube.com/watch?v=I9SnoYoCfnE)**
 
-Hyundai is planning to place 30000 humanoid robots in its factories. We talked to an anonymous Hyundai worker who says his ...
+Wait, there was a robot who woke up and started asking for skin?! Sounds like a Life of Luxury video to me but somehow it's not…
 
-📺 More Perfect Union
+📺 LaurenZside
 
-👁️ 190K • 👍 16K • 💬 2K • ⏱️ 2:59 • 4d ago
+👁️ 205K • 👍 13K • 💬 2K • ⏱️ 19:59 • 20h ago
 
 ---
 
-**[Robot that thinks 😳🤖Detects obstacles &amp; changes path automatically #roboarmy #arduinoprojects](https://www.youtube.com/watch?v=d_sDSfkI8ug)**
+**[Make Your Own Cute Dasai Mochi Robot🤖 | #ashwinprojects #AltiumStudentLab](https://www.youtube.com/watch?v=KsDxCDsoWMk)**
 
-ObstacleAvoidance #ArduinoRobot #Robotics #TechReels #DIYProjects.
+Make Your Own Cute Dasai Mochi Robot   | #ashwinprojects #AltiumStudentLab Accelerate Your Career in Electronics Design ...
 
-📺 Roboarmy
+📺 Ashwin Projects
 
-👁️ 14K • 👍 221 • 💬 2 • ⏱️ 0:20 • 1d ago
+👁️ 441K • 👍 15K • 💬 85 • ⏱️ 1:49 • 3d ago
 
 ---
 
