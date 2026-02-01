@@ -3,14 +3,14 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-02-01T11:44:42.534250+00:00'
+updated: '2026-02-01T12:52:58.302995+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
 - videos
-- social
 - cryptocurrency
+- social
 - news
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** February 01, 2026 at 11:44 UTC  
+**Last Updated:** February 01, 2026 at 12:52 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -36,17 +36,17 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Price
 
-### $2,418.57
+### $2,402.78
 
 ---
 
 ## Ethereum Chart
 
-**24h:** -9.4%  
-**7d:** -18.4%  
-**30d:** -23.6%  
-**90d:** -27.7%  
-**1y:** -16.6%  
+**24h:** -8.8%  
+**7d:** -18.2%  
+**30d:** -23.4%  
+**90d:** -27.5%  
+**1y:** -16.3%  
 
 ---
 
@@ -72,7 +72,7 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-5h ago
+6h ago
 
 ---
 
@@ -88,13 +88,13 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 World News, Stories By EtherWorld, Technical Explainers, Client News & Updates, Podcasts, Upcoming Events & Jobs
 
-🔗 [EtherWorld.co](https://etherworld.co/etherworld-weekly-edition-349/) • 21h ago
+🔗 [EtherWorld.co](https://etherworld.co/etherworld-weekly-edition-349/) • 22h ago
 
 ---
 
 **[Listening to Polymarket trades in real-time (open source, no third party)](https://www.reddit.com/r/ethereum/comments/1qs3l8c/listening_to_polymarket_trades_in_realtime_open/)**
 
-21h ago
+22h ago
 
 ---
 
@@ -154,37 +154,21 @@ Watch before one bug costs you everything. https://x.com/SolidityScan/status/201
 
 The crypto market's recent decline only accelerated Saturday, with Bitcoin falling to nearly $77,000 as liquidations piled up.
 
-Yahoo Finance • 15h ago
-
----
-
-**[AI Models Predict Ethereum, Solana, and XRP 2026 Prices—Which Altcoin Has the Biggest Upside?](https://finance.yahoo.com/news/ai-models-predict-ethereum-solana-193044962.html)**
-
-Four major AI models have projected 2026 price targets for Ethereum (CRYPTO: ETH), Solana (CRYPTO: SOL), and XRP (CRYPTO: XRP). The forecasts range from conservative consolidation to triple-digit percentage gains, with each asset showing different upside potential based on adoption trends, network activity, and market positioning. Ethereum anchors institutional DeFi with mature Layer 2 networks, ... AI Models Predict Ethereum, Solana, and XRP 2026 Prices—Which Altcoin Has the Biggest Upside?
-
-Yahoo Finance • 1d ago
-
----
-
-**[Nearly $3 Billion Ethereum Selling Could Drive a 16% Crash](https://finance.yahoo.com/news/nearly-3-billion-ethereum-selling-191410702.html)**
-
-Ethereum faces heavy selling pressure as $2.8 billion whale distribution raises risks of a 16% price correction.
-
 Yahoo Finance • 16h ago
 
 ---
 
-**[Ethereum Price, ETH to USD, Research, News & Fundraising](https://messari.io/project/ethereum)**
+**[$2B Crypto Wipeout: Bitcoin, Ethereum Prices Crushed](https://coinpaper.com/14199/2-b-liquidation-wave-hits-crypto-market-on-jan-31)**
 
-Messari • 3d ago
+Crypto prices crashed as $2B+ liquidations hit exchanges. Bitcoin lost $700M in longs below key support; Ethereum saw $300M wiped after $2,500 break.
+
+Coinpaper • 15h ago
 
 ---
 
-**[Ethereum Falls 10% In Selloff](https://www.investing.com/news/cryptocurrency-news/ethereum-falls-10-in-selloff-4477658)**
+**[Bitcoin, XRP, Ethereum Fall on News of Kevin Warsh Fed Appointment.](https://www.barrons.com/articles/bitcoin-xrp-ethereum-crypto-today-954298d9?gaa_at=eafs&gaa_n=AWEtsqeBdWj-ggNF5bglL_f-590ElNtcJ8aKDjeLtqT77ova_9UPc4d2ZTs4&gaa_ts=697f5015&gaa_sig=3STIWgfbbfcyOSJVNbkI_F5a_lcwKsA8g9EwezG75M06IV8JBrq0_HpO5e4LMhI2qKluXrW93jSRsw_Jvbzopw%3D%3D)**
 
-Ethereum Falls 10% In Selloff
-
-Investing.com • 18h ago
+Barron's • 1d ago
 
 ---
 
@@ -196,35 +180,51 @@ The Motley Fool • 2d ago
 
 ---
 
-**[Why are Bitcoin, Ethereum and XRP Prices Crashing Today?](https://coinpedia.org/news/why-are-bitcoin-ethereum-and-xrp-prices-crashing-today-3/)**
+**[AI Models Predict Ethereum, Solana, and XRP 2026 Prices—Which Altcoin Has the Biggest Upside?](https://finance.yahoo.com/news/ai-models-predict-ethereum-solana-193044962.html)**
 
-The crypto market is facing a major sell-off today, with total market value dropping to $2.66 trillion, down more than 6% in the last 24 hours. Bitcoin,
+Four major AI models have projected 2026 price targets for Ethereum (CRYPTO: ETH), Solana (CRYPTO: SOL), and XRP (CRYPTO: XRP). The forecasts range from conservative consolidation to triple-digit percentage gains, with each asset showing different upside potential based on adoption trends, network activity, and market positioning. Ethereum anchors institutional DeFi with mature Layer 2 networks, ... AI Models Predict Ethereum, Solana, and XRP 2026 Prices—Which Altcoin Has the Biggest Upside?
 
-Coinpedia Fintech News • 5h ago
-
----
-
-**[Ethereum Price Prediction: Is ETH Heading to $2K After 15% Weekly Drop?](https://cryptopotato.com/ethereum-price-prediction-is-eth-heading-to-2k-after-15-weekly-drop/)**
-
-Ethereum remains structurally bearish, with the price reacting to demand but lacking confirmation of a meaningful trend shift. The interaction between
-
-CryptoPotato • 18h ago
+Yahoo Finance • 1d ago
 
 ---
 
-**[Single trader just lost $220 million as ether plunged 10%](https://www.coindesk.com/markets/2026/02/01/single-trader-just-lost-usd220-million-as-ether-plunged-10)**
+**[Ethereum Falls 10% In Selloff](https://www.investing.com/news/cryptocurrency-news/ethereum-falls-10-in-selloff-4477658)**
 
-A massive ETH liquidation on Hyperliquid led a leverage-driven wipeout that pushed total crypto liquidations past $2.5 billion in 24 hours.
+Ethereum Falls 10% In Selloff
 
-CoinDesk • 4h ago
+Investing.com • 19h ago
 
 ---
 
-**[Bitcoin Price Crashes Below $80K as Ethereum Loses $2.5K Support — 5 Reasons the Selloff Isn’t Over](https://www.ccn.com/education/crypto/bitcoin-80k-crash-eth-2-5k-break-bitmine-6b-losses-bloodbath-warning/)**
+**[Ripple Affirms XRPL Focus, Says ‘We Love XRP’ Over Ethereum](https://www.tradingview.com/news/newsbtc:0d7d8c78c094b:0-ripple-affirms-xrpl-focus-says-we-love-xrp-over-ethereum/)**
 
-Bitcoin and Ethereum break key support as ETFs bleed, liquidations surge, and BitMine posts $6B+ losses. Is the selloff just beginning?
+Ripple’s new stablecoin rollout has put a bright spotlight on a simple fact: most RLUSD is living on Ethereum right now. That imbalance has stirred worry among long-time XRP supporters.Some feel the company’s heart might be shifting away from the ledger that gave it a base. Others say the move is p…
 
-CCN.com • 12h ago
+TradingView • 1d ago
+
+---
+
+**[Ethereum Supply Tightens With 45% of ETH Locked: Sygnum](https://thedefiant.io/news/research-and-opinion/ethereum-supply-tightens-with-45-of-eth-locked-sygnum)**
+
+ETF buying, staking and corporate holdings continue to reduce liquid ETH.
+
+thedefiant.io • 1d ago
+
+---
+
+**[Bitcoin, XRP, Ethereum Dive. Why Cryptos Are Getting Bashed After Warsh Fed Pick.](https://www.barrons.com/livecoverage/stock-market-news-today-013026/card/bitcoin-xrp-ethereum-dive-why-cryptos-are-getting-bashed-after-warsh-fed-pick--89jtYV0llDHxXXYD4AKw?gaa_at=eafs&gaa_n=AWEtsqdEajxXD-67Xf3MDZAY9_SK5oyBkbI-MKJZeTVkwIjgfKCbKGacsrIu&gaa_ts=697f5015&gaa_sig=h-SNyVbe4_1amLtvHj0a4X5QIr3-J7H_ZEiJ916O4_GgWFwObnK6yKr0xPIPYGEITqUyuzUmsPjJACXwGM33pQ%3D%3D)**
+
+The Dow, S&P 500, and Nasdaq Composite fell as the stock market reacted to President Donald Trump's pick for next chair of the Federal Reserve.
+
+Barron's • 2d ago
+
+---
+
+**[Ethereum Price Prediction: $2,400 Crash Opens $1,435 Risk](https://coinpaper.com/14198/ethereum-price-prediction-2-400-crash-opens-1-435-risk)**
+
+ETH plunges to $2,400 after heavy liquidations, with analysts warning a deeper move toward $1,435 is possible.
+
+Coinpaper • 17h ago
 
 ---
 
@@ -238,7 +238,7 @@ Nick Valdez looks at the latest market crash with the next level Bitcoin MUST ho
 
 📺 Discover Crypto
 
-👁️ 18K • 👍 686 • 💬 214 • ⏱️ 4:28 • 14h ago
+👁️ 18K • 👍 686 • 💬 214 • ⏱️ 4:28 • 15h ago
 
 ---
 
@@ -248,7 +248,7 @@ My FREE Daily On-Chain Analysis & Crypto News In 5-Mins: https://www.cryptonutsh
 
 📺 Jamie Tree 
 
-👁️ 3K • 👍 74 • 💬 60 • ⏱️ 18:25 • 20h ago
+👁️ 3K • 👍 74 • 💬 60 • ⏱️ 18:25 • 21h ago
 
 ---
 
@@ -258,7 +258,7 @@ This video provides a professional Elliott Wave and technical analysis of Ethere
 
 📺 More Crypto Online
 
-👁️ 4K • 👍 283 • 💬 24 • ⏱️ 4:54 • 15h ago
+👁️ 4K • 👍 283 • 💬 24 • ⏱️ 4:54 • 16h ago
 
 ---
 
@@ -268,7 +268,7 @@ This video provides a professional Elliott Wave and technical analysis of Ethere
 
 📺 Crypto Moe
 
-👁️ 2K • 👍 253 • 💬 45 • ⏱️ 11:41 • 12h ago
+👁️ 2K • 👍 253 • 💬 45 • ⏱️ 11:41 • 13h ago
 
 ---
 
@@ -288,7 +288,7 @@ EMERGENCY UPDATE: CRYPTO CRASH INTENSIFIES! (Here's Why) The crypto market is in
 
 📺 Tim Warren
 
-👁️ 20K • 👍 1K • 💬 456 • ⏱️ 11:12 • 17h ago
+👁️ 20K • 👍 1K • 💬 456 • ⏱️ 11:12 • 18h ago
 
 ---
 
@@ -298,7 +298,7 @@ Join UpTrade today - Your personal crypto broker: https://www.uptrade.au/ My FRE
 
 📺 Crypto Nutshell
 
-👁️ 14K • 👍 426 • 💬 102 • ⏱️ 16:36 • 20h ago
+👁️ 14K • 👍 426 • 💬 102 • ⏱️ 16:36 • 21h ago
 
 ---
 
@@ -308,7 +308,7 @@ This video provides a professional Elliott Wave and technical analysis of Ethere
 
 📺 More Crypto Online
 
-👁️ 3K • 👍 146 • 💬 8 • ⏱️ 4:18 • 21h ago
+👁️ 3K • 👍 146 • 💬 8 • ⏱️ 4:18 • 22h ago
 
 ---
 
@@ -318,7 +318,7 @@ FREE TRAINING: https://www.bullmania.com EXCHANGES I USE (bybit, pionex): https:
 
 📺 Ivan on Tech
 
-👁️ 27K • 👍 2K • 💬 176 • ⏱️ 44:59 • 18h ago
+👁️ 27K • 👍 2K • 💬 176 • ⏱️ 44:59 • 19h ago
 
 ---
 
@@ -328,7 +328,7 @@ BITCOIN CRASH: PRICE TARGETS HIT (this is next)!!!! - Bitcoin News Today, Ethere
 
 📺 Crypto World
 
-👁️ 14K • 👍 541 • 💬 262 • ⏱️ 27:07 • 14h ago
+👁️ 14K • 👍 541 • 💬 262 • ⏱️ 27:07 • 15h ago
 
 ---
 
