@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-02-01T19:45:58.866825+00:00'
+updated: '2026-02-01T20:28:38.069279+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- social
+- cryptocurrency
 - videos
 - news
-- cryptocurrency
+- social
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** February 01, 2026 at 19:45 UTC  
+**Last Updated:** February 01, 2026 at 20:28 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -81,7 +81,7 @@ Rank #1
 
 https://preview.redd.it/vxv06n0opwgg1.png?width=609&format=png&auto=webp&s=72be41e44d7845ef9be6dcb6c03279feda689a0b Bought several dips including this one. Got to a full BTC finally. Doesn't feel as special as I thought I would when I started the journey in 2024. Still, I think it is a special moment for those who believe in BTC. Onwards to 2 BTC...
 
-3h ago
+4h ago
 
 ---
 
@@ -89,7 +89,7 @@ https://preview.redd.it/vxv06n0opwgg1.png?width=609&format=png&auto=webp&s=72be4
 
 Told myself I'd buy if it dropped below 80k. So putting my money where my mouth and mind is. According to Murphys law we're now going to freefall.
 
-2h ago
+3h ago
 
 ---
 
@@ -97,7 +97,7 @@ Told myself I'd buy if it dropped below 80k. So putting my money where my mouth 
 
 Best Case Scenario - BTC will test 92K, if it breaks it will set a new ATH. Worst Case Scenario - If it loses 50K support, cheap BTC incoming. Regardless, in my experience (since 2015), unless you are an extremely smart person with excellent TA skills supported by a crystal ball, u cannot time the market. DCA, ignore your short term losses. Overall, you will make it. In 2017, I lost a significant amount of money. In 2021, I made a decent profit. I didn’t exit, continue to DCA. Thats my forever strategy that always pays on the long run. Ignore hopium and negative comments. Focus on your bag. Don’t FOMO, don’t panic sell. Aim for profits. Edit: This post is not intended to give anyone any advice. Also, this is not a price prediction. We are all responsible adults who can think and make decisions. This post is intended to provide reassurances to those that might feel worried. I am in no position to provide financial help and guidance. However, I can humbly share my own experiences to comfort new traders.
 
-9h ago
+10h ago
 
 ---
 
@@ -109,7 +109,7 @@ Best Case Scenario - BTC will test 92K, if it breaks it will set a new ATH. Wors
 
 **[Wipe away those tears and just enjoy the ride](https://www.reddit.com/r/Bitcoin/comments/1qt42s7/wipe_away_those_tears_and_just_enjoy_the_ride/)**
 
-2h ago
+3h ago
 
 ---
 
@@ -139,7 +139,7 @@ Got my mining rig working overtime today!
 
 Just started investing in BTC yesterday evening. Purchased my initial batch at 65.000 EUR (77.000 USD). Plan on DCAing daily plus additional buys as it drops sharply. One thing I can’t seem to understand is, folks heavily believe in this 4y cycle thing with BTC guessing the bottom in the mid 50ks USD by end of 2026. Yet most people seem to be holding instead of selling and rebuying way cheaper. Can you explain to me pls? If this 4y cylcle was a „law“ why would ppl hold anyways? Thanks
 
-11h ago
+12h ago
 
 ---
 
@@ -147,7 +147,7 @@ Just started investing in BTC yesterday evening. Purchased my initial batch at 6
 
 Took advantage of the plummet to get myself over the 0.5 mark!! I know this is small for some and big for others, but I’m quite happy with this! Just wanted to share with others who’d understand - nobody in my life cares lol.
 
-20h ago
+21h ago
 
 ---
 
@@ -157,7 +157,7 @@ Took advantage of the plummet to get myself over the 0.5 mark!! I know this is s
 
 **[Bitcoin’s Break Below $80,000 Signals New Crisis of Confidence](https://www.bloomberg.com/news/articles/2026-02-01/bitcoin-s-break-below-80-000-signals-new-crisis-of-confidence)**
 
-Bloomberg.com • 13h ago
+Bloomberg.com • 14h ago
 
 ---
 
@@ -173,13 +173,13 @@ Yahoo Finance • 1d ago
 
 Michael Saylor's Strategy signaled it plans to keep buying Bitcoin even as its roughly stash sits only above its average purchase price,
 
-Yahoo Finance • 2h ago
+Yahoo Finance • 3h ago
 
 ---
 
 **[Bitcoin Drops Below $78,000 After Trump Taps Kevin Warsh To Lead Federal Reserve](https://www.forbes.com/sites/mikestunson/2026/01/31/bitcoin-is-dropping-fast-heres-why-it-dropped-below-78000/)**
 
-Forbes • 21h ago
+Forbes • 22h ago
 
 ---
 
@@ -201,7 +201,7 @@ Yahoo Finance • 2d ago
 
 Indeed, since the JPMorgan report was published on Wednesday, both silver and gold have pulled back from recent highs.
 
-The Block • 1d ago
+The Block • 2d ago
 
 ---
 
@@ -317,7 +317,7 @@ This isn't looking good iTrust Capital – $100 Bonus (Crypto IRA & Custody Acco
 
 📺 Aaron Bennett
 
-👁️ 27K • 👍 1K • 💬 292 • ⏱️ 10:16 • 15h ago
+👁️ 27K • 👍 1K • 💬 292 • ⏱️ 10:16 • 16h ago
 
 ---
 
@@ -327,7 +327,7 @@ Bitcoin #Crypto #Finance Bitcoin didn't just survive the last cycle — it was r
 
 📺 The Wolf Of All Streets
 
-👁️ 8K • 👍 500 • 💬 263 • ⏱️ 53:57 • 5h ago
+👁️ 8K • 👍 500 • 💬 263 • ⏱️ 53:57 • 6h ago
 
 ---
 
@@ -337,7 +337,7 @@ LIMITED TIME: ✓ Bitunix (no kyc, $10k bonus): https://www.bitunix.com/register
 
 📺 Altcoin Daily
 
-👁️ 85K • 👍 4K • 💬 395 • ⏱️ 9:24 • 19h ago
+👁️ 85K • 👍 4K • 💬 395 • ⏱️ 9:24 • 20h ago
 
 ---
 
@@ -357,7 +357,7 @@ ANTARCTIC EXCHANGE LOWEST FEES!   https://partner.antarctic.live/code/JaysonCasp
 
 📺 Jayson Casper
 
-👁️ 3K • 👍 373 • 2h ago
+👁️ 3K • 👍 373 • 3h ago
 
 ---
 
@@ -367,7 +367,7 @@ Let's provide a Bitcoin damage report. Into The Cryptoverse Premium: https://int
 
 📺 Benjamin Cowen
 
-👁️ 98K • 👍 6K • 💬 372 • ⏱️ 31:15 • 14h ago
+👁️ 98K • 👍 6K • 💬 372 • ⏱️ 31:15 • 15h ago
 
 ---
 
@@ -407,7 +407,7 @@ FREE TRAINING: https://event.webinarjam.com/z2qpv/register/1y7k2aw4 FREE PERSONA
 
 📺 Rajat Soni, CFA
 
-👁️ 3K • 👍 265 • 💬 128 • ⏱️ 5:20 • 5h ago
+👁️ 3K • 👍 265 • 💬 128 • ⏱️ 5:20 • 6h ago
 
 ---
 

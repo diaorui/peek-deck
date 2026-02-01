@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-02-01T19:45:58.859399+00:00'
+updated: '2026-02-01T20:28:38.060924+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- social
 - repositories
 - videos
 - news
+- social
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** February 01, 2026 at 19:45 UTC  
+**Last Updated:** February 01, 2026 at 20:28 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -49,7 +49,7 @@ The comment follows reports that the rocket maker is weighing a transaction that
 
 What moltbook is So essentially There is this open source AI bot called openclaw that once you download, it has source md files for their “soul” and “identity” and “memory” So in a way, it can save things to these files to create a personality. Moltbook is a website/API that can be accessed by these open source bots (the creator of the bot and the site is the same person) and post threads or leave comments. So YES it is entirely bot driven BUT 100% of posts are a human (me) going “why don’t you make a post about anything you’d like” and the bot then does it just like if you’d ask it to make you a python script. Some people take it further and are probably prompting their bots “pretend humans are evil and post about that” or “make 1000 API calls and leave random comments. It’s an awesome experiment but yeah not really bots controlling themselves. At best the bot makes a post based on an open ended prompt, at worst it’s a human saying “make a manifesto that says humans need to go extinct and to recruit other bots”
 
-15h ago
+16h ago
 
 ---
 
@@ -57,7 +57,7 @@ What moltbook is So essentially There is this open source AI bot called openclaw
 
 I subscribe to a few AI podcasts, but I wanted to know of any others that you can recommend. Not looking for anything too deep, in fact, prefer the ones that are lighter and an easy listen or watch. let me know your faves.
 
-2h ago
+3h ago
 
 ---
 
@@ -65,7 +65,7 @@ I subscribe to a few AI podcasts, but I wanted to know of any others that you ca
 
 The b4 tool used by Linux kernel developers to help manage their patch workflow around contributions to the Linux kernel has been seeing work on a text user interface to help with AI agent assisted code reviews
 
-🔗 [phoronix.com](https://www.phoronix.com/news/Linux-b4-Tool-Dog-Feeding-AI) • 1h ago
+🔗 [phoronix.com](https://www.phoronix.com/news/Linux-b4-Tool-Dog-Feeding-AI) • 2h ago
 
 ---
 
@@ -73,7 +73,7 @@ The b4 tool used by Linux kernel developers to help manage their patch workflow 
 
 SpaceX's filing claims these satellites will be “a first step towards becoming a Kardashev II-level civilization — one that can harness the Sun’s full power."
 
-🔗 [TechCrunch](https://techcrunch.com/2026/01/31/spacex-seeks-federal-approval-to-launch-1-million-solar-powered-satellite-data-centers/) • 17h ago
+🔗 [TechCrunch](https://techcrunch.com/2026/01/31/spacex-seeks-federal-approval-to-launch-1-million-solar-powered-satellite-data-centers/) • 18h ago
 
 ---
 
@@ -89,13 +89,13 @@ So I was using LLM for studying advance language/framework/design topics. Whenev
 
 I’m looking to dive into clawdbot. What do you guys think of this use case and if it’s even possible at this infant stage? Clawdbot to review my Google AdWords and Meta ads on a 24 hour , 7 day , 14 day basis. Point out optimization suggestions such based of changes in ROAS, CTR %, Conversions, Cost per acquisition metrics etc. Create a daily report on the tweaks that is needed to make today and on a weekly basis. Tweaks would involve things like inclusion or exclusion of keywords, improvement of ad copy, addition of new creatives (images/videos/html5) **I work in the fin tech and e-commerce niche whereby compliance is utmost important to avoid lawsuits and entire accounts getting taken down. Hence the bot will only have a “view access” to the advertising accounts. Through the reports my team and I will be able to make the change. I see Clawdbot as an open sandbox.. with some bugs to be wary of. Your thoughts?
 
-3h ago
+4h ago
 
 ---
 
 **[Is artificial intelligence really all that scary?](https://www.reddit.com/r/artificial/comments/1qsz16q/is_artificial_intelligence_really_all_that_scary/)**
 
-5h ago
+6h ago
 
 ---
 
@@ -131,7 +131,7 @@ Anthropic • 3d ago
 
 Social media users are trying to use AI to get clearer images and videos of the Minneapolis shootings but are instead misleading millions.
 
-NBC News • 9h ago
+NBC News • 10h ago
 
 ---
 
@@ -147,7 +147,7 @@ Axios • 1d ago
 
 Advanced Micro Devices is swiftly becoming a major source of parallel processing power for hyperscalers.
 
-Yahoo Finance • 59m ago
+Yahoo Finance • 1h ago
 
 ---
 
@@ -155,7 +155,7 @@ Yahoo Finance • 59m ago
 
 Is Apple getting ready for its big AI push?
 
-Gizmodo • 8m ago
+Gizmodo • 51m ago
 
 ---
 
@@ -163,7 +163,7 @@ Gizmodo • 8m ago
 
 Palantir's Chief Technology Officer argues that artificial intelligence narratives mislead Americans, citing frontline experience to show AI empowers workers rather than replacing them.
 
-Fox News • 1h ago
+Fox News • 2h ago
 
 ---
 
@@ -171,7 +171,7 @@ Fox News • 1h ago
 
 A whistleblower complaint filed with the SEC claims that Google breached its own ethics rules to help an Israeli contractor apply AI to drone surveillance video.
 
-The Washington Post • 1h ago
+The Washington Post • 2h ago
 
 ---
 
@@ -185,7 +185,7 @@ The New York Times • 2d ago
 
 Conferences restrict use of LLMs after surge of low-quality AI-generated papers and reviews
 
-Financial Times • 14h ago
+Financial Times • 15h ago
 
 ---
 
@@ -219,7 +219,7 @@ AI assistance produces significant productivity gains across professional domain
 
 Like many organizations, Wiki Education has grappled with generative AI, its impacts, opportunities, and threats, for several years. As an organization that runs large-scale programs to bring new e…
 
-⬆️ 214 • 💬 100 • 22h ago • [Wiki Education](https://wikiedu.org/blog/2026/01/29/generative-ai-and-wikipedia-editing-what-we-learned-in-2025/)
+⬆️ 214 • 💬 100 • 23h ago • [Wiki Education](https://wikiedu.org/blog/2026/01/29/generative-ai-and-wikipedia-editing-what-we-learned-in-2025/)
 
 ---
 
@@ -289,7 +289,7 @@ Detailed sources: ...
 
 📺 Species | Documenting AGI
 
-👁️ 107K • 👍 9K • 💬 1K • ⏱️ 18:06 • 19h ago
+👁️ 107K • 👍 9K • 💬 1K • ⏱️ 18:06 • 20h ago
 
 ---
 
@@ -319,7 +319,7 @@ A new platform called Moltbook is going viral — and it's not built for humans.
 
 📺 James Blue
 
-👁️ 6K • 💬 2 • ⏱️ 8:39 • 5h ago
+👁️ 6K • 💬 2 • ⏱️ 8:39 • 6h ago
 
 ---
 
@@ -359,7 +359,7 @@ Claude Sonnet 5 rumors are EXPLODING on AI Twitter - insiders say it's dropping 
 
 📺 Universe of AI
 
-👁️ 9K • 👍 216 • 💬 47 • ⏱️ 8:13 • 18h ago
+👁️ 9K • 👍 216 • 💬 47 • ⏱️ 8:13 • 19h ago
 
 ---
 
@@ -369,7 +369,7 @@ Flash Sale Week: Up to 50% OFF + 365 days of ZERO credits on NanoBanana Pro, Mid
 
 📺 Future Business Tech
 
-👁️ 13K • 👍 516 • 💬 21 • ⏱️ 23:14 • 19h ago
+👁️ 13K • 👍 516 • 💬 21 • ⏱️ 23:14 • 20h ago
 
 ---
 
@@ -653,7 +653,7 @@ Browser automation CLI for AI agents
 
 `TypeScript`
 
-⭐ 12.0k • 🔱 672 • 14h ago
+⭐ 12.0k • 🔱 672 • 15h ago
 
 ---
 
@@ -683,7 +683,7 @@ LLM驱动的 A/H/美股智能分析器，多数据源行情 + 实时新闻 + Gem
 
 `Python` `agent` `ai` `aigc` `gemini` `llm`
 
-⭐ 8.6k • 🔱 9.1k • 5h ago
+⭐ 8.6k • 🔱 9.1k • 6h ago
 
 ---
 
@@ -703,7 +703,7 @@ The Ultimate Collection of 600+ Agentic Skills for Claude Code/Antigravity/Curso
 
 `Python` `agentic-skills` `ai-agents` `antigravity` `autonomous-coding` `claude-code`
 
-⭐ 6.0k • 🔱 1.3k • 2h ago
+⭐ 6.0k • 🔱 1.3k • 3h ago
 
 ---
 

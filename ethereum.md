@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-02-01T19:45:58.872003+00:00'
+updated: '2026-02-01T20:28:38.075127+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- social
+- cryptocurrency
 - videos
 - news
-- cryptocurrency
+- social
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** February 01, 2026 at 19:45 UTC  
+**Last Updated:** February 01, 2026 at 20:28 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -72,7 +72,7 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-13h ago
+14h ago
 
 ---
 
@@ -160,7 +160,7 @@ Barron's • 2d ago
 
 The Ethereum founder claims his strategy of betting against extreme market sentiment "usually makes money" on Polymarket.
 
-Yahoo Finance • 1h ago
+Yahoo Finance • 2h ago
 
 ---
 
@@ -184,7 +184,7 @@ TradingView • 1d ago
 
 Earlier in January, the Ethereum Foundation formally elevated post-quantum security to a strategic priority, creating a dedicated Post-Quantum team.
 
-CoinDesk • 4h ago
+CoinDesk • 5h ago
 
 ---
 
@@ -258,7 +258,7 @@ ETHEREUM ETH PRICE PREDICTION 2026 Join the Premium Signal Group for trade setup
 
 📺 Cilinix Crypto
 
-👁️ 832 • 👍 28 • 💬 2 • ⏱️ 5:13 • 7h ago
+👁️ 832 • 👍 28 • 💬 2 • ⏱️ 5:13 • 8h ago
 
 ---
 
@@ -298,7 +298,7 @@ Join Premium: https://the-bitcoin-strategy.com My Chart Software: https://the-bi
 
 📺 Crypto Moe
 
-👁️ 3K • 👍 276 • 💬 74 • ⏱️ 11:41 • 20h ago
+👁️ 3K • 👍 276 • 💬 74 • ⏱️ 11:41 • 21h ago
 
 ---
 
@@ -308,7 +308,7 @@ Take Control of Your Retirement — Grow Crypto & Gold Tax-Advantaged. https://w
 
 📺 Savvy Finance
 
-👁️ 10K • 👍 422 • 💬 25 • ⏱️ 20:55 • 19h ago
+👁️ 10K • 👍 422 • 💬 25 • ⏱️ 20:55 • 20h ago
 
 ---
 

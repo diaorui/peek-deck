@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-02-01T19:45:58.874762+00:00'
+updated: '2026-02-01T20:28:38.078325+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- social
 - videos
 - news
+- social
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** February 01, 2026 at 19:45 UTC  
+**Last Updated:** February 01, 2026 at 20:28 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -36,7 +36,7 @@ Robotics research and industry news
 
 From DEEP Robotics on 𝕏: https://x.com/DeepRobotics_CN/status/2017114429360656740
 
-8h ago
+9h ago
 
 ---
 
@@ -44,13 +44,13 @@ From DEEP Robotics on 𝕏: https://x.com/DeepRobotics_CN/status/201711442936065
 
 I hadn't seen the whole video yesterday when I posted it. From The Humanoid Hub on 𝕏: https://x.com/TheHumanoidHub/status/2017646098136141858
 
-15h ago
+16h ago
 
 ---
 
 **[The future of remote workers?](https://www.reddit.com/r/robotics/comments/1qsmoj2/the_future_of_remote_workers/)**
 
-16h ago
+17h ago
 
 ---
 
@@ -58,7 +58,7 @@ I hadn't seen the whole video yesterday when I posted it. From The Humanoid Hub 
 
 Hello fellow roboticists, I have had a paper rejected from ICRA, and i'm planning to submit it to IROS. I have a question about the ICRA/IROS transfer process. This year they introduced a mechanism to transfer rejected papers along with the authors responses to reviewers to IROS. How does it work, and for those who experienced this during IROS2025, what has your overall experience been with it?
 
-3h ago
+4h ago
 
 ---
 
@@ -74,7 +74,7 @@ The real meat and potatoes: I made this as a modular brain for my other robots I
 
 Young PhD in Computer vision / Robotics here. I have recently read a post of Marie-Anne Lachaux, founding engineer of Llama and Mistral AI, talking about keys of success in research. One of them was « Have good intuition » to reduce the world of possibilities and dig into the right direction. How do you develop this intuition in research, especially in AI and Robotics?
 
-6h ago
+7h ago
 
 ---
 
@@ -90,7 +90,7 @@ Day:30 1- Base body and MCU from Sunfounder 2-Built over raspberry pi5 and power
 
 Saw this one at Wuhu train station in China. Answers questions at a desk. It looks like it has a lot of ability but it otherwise doesn't move at all. Even when you ask it to wave it says "sure, here's a friendly wave" but doesn't move an inch.
 
-17h ago
+18h ago
 
 ---
 
@@ -132,7 +132,7 @@ CNBC • 6h ago
 
 Tesla’s pivot to producing humanoid robots is expected to engage a network of key Chinese component makers.
 
-South China Morning Post • 13h ago
+South China Morning Post • 14h ago
 
 ---
 
@@ -160,7 +160,7 @@ Everett Herald • 2d ago
 
 **[Canfield robotics team preps for competition](https://www.wkbn.com/news/local-news/canfield-news/canfield-robotics-team-preps-for-competition/)**
 
-WKBN.com • 1h ago
+WKBN.com • 2h ago
 
 ---
 
@@ -196,7 +196,7 @@ XPENG just took a massive step forward in humanoid robotics. The New IRON robot 
 
 📺 DPCcars
 
-👁️ 5K • 👍 76 • 💬 20 • ⏱️ 1:21 • 23h ago
+👁️ 5K • 👍 76 • 💬 20 • ⏱️ 1:21 • 1d ago
 
 ---
 
@@ -226,7 +226,7 @@ This Robot Produces Speech the Human Way This system generates speech using phys
 
 📺 MrScoopz
 
-👁️ 47K • 👍 2K • 💬 65 • ⏱️ 0:05 • 5h ago
+👁️ 47K • 👍 2K • 💬 65 • ⏱️ 0:05 • 6h ago
 
 ---
 
@@ -244,7 +244,7 @@ Andrea Nakano reports on the Tesla Fremont factory ending Model S/X production a
 
 📺 Ryan Shaw
 
-👁️ 4K • 👍 57 • 💬 3 • ⏱️ 1:03 • 16h ago
+👁️ 4K • 👍 57 • 💬 3 • ⏱️ 1:03 • 17h ago
 
 ---
 
