@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-02-01T23:26:45.102088+00:00'
+updated: '2026-02-01T23:49:57.700672+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- cryptocurrency
-- videos
-- social
 - news
+- cryptocurrency
+- social
+- videos
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** February 01, 2026 at 23:26 UTC  
+**Last Updated:** February 01, 2026 at 23:49 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -117,7 +117,7 @@ I’m curious about people’s time table to turning a profit or are you holding
 
 Got my mining rig working overtime today!
 
-5h ago
+6h ago
 
 ---
 
@@ -139,7 +139,7 @@ Best Case Scenario - BTC will test 92K, if it breaks it will set a new ATH. Wors
 
 During pandemic I have seen the bounce
 
-8h ago
+9h ago
 
 ---
 
@@ -155,7 +155,7 @@ During pandemic I have seen the bounce
 
 **[Bitcoin’s Break Below $80,000 Signals New Crisis of Confidence](https://www.bloomberg.com/news/articles/2026-02-01/bitcoin-s-break-below-80-000-signals-new-crisis-of-confidence)**
 
-Bloomberg.com • 6h ago
+Bloomberg.com • 7h ago
 
 ---
 
@@ -167,9 +167,29 @@ CoinDesk • 4h ago
 
 ---
 
+**[U.S. stock futures fall, along with bitcoin and oil prices](https://www.marketwatch.com/story/u-s-stock-futures-fall-along-with-bitcoin-and-oil-prices-21adfaf3?gaa_at=eafs&gaa_n=AWEtsqfCwaBDrR-82v3iS6aWfvQp8Mi6lbaAr_JGc5ailrfa0QJ5rBcCVVpc&gaa_ts=697fea0c&gaa_sig=TuYv-LzWfrMCBO4t0_sUQzRc_5iePB9eSOoeqnm2K9sN9PwFQJYABW0gTOvxoagVzYYFpJbTHJm7dqV3NHvrCQ%3D%3D)**
+
+MarketWatch • 26m ago
+
+---
+
+**[Stock futures fall after silver, bitcoin sell off; questions loom over AI trade: Live updates](https://www.cnbc.com/2026/02/01/stock-market-today-live-updates.html)**
+
+More than 100 S&P 500 companies are due to report this week, including Amazon, Alphabet and Disney.
+
+CNBC • 39m ago
+
+---
+
 **[Bitcoin Drops Below $78,000 After Trump Taps Kevin Warsh To Lead Federal Reserve](https://www.forbes.com/sites/mikestunson/2026/01/31/bitcoin-is-dropping-fast-heres-why-it-dropped-below-78000/)**
 
 Forbes • 1d ago
+
+---
+
+**[Bitcoin, XRP, Ethereum Fall on News of Kevin Warsh Fed Appointment.](https://www.barrons.com/articles/bitcoin-xrp-ethereum-crypto-today-954298d9?gaa_at=eafs&gaa_n=AWEtsqfKiESvnSjZpHatXtaAm4lilLJO0Ic4ALtmPaAIUpOwP_YahqidzTdL&gaa_ts=697fea0c&gaa_sig=JihSlV9Ac9GPtqCYeCZSwFd7UWvDCdBMyEgieihchpwVeNJGBxlY-VSEUiZKCcxbfXW4WLLc0iV4kyIe5TDc2g%3D%3D)**
+
+Barron's • 2d ago
 
 ---
 
@@ -181,12 +201,6 @@ Yahoo Finance • 2d ago
 
 ---
 
-**[Bitcoin, XRP, Ethereum Fall on News of Kevin Warsh Fed Appointment.](https://www.barrons.com/articles/bitcoin-xrp-ethereum-crypto-today-954298d9?gaa_at=eafs&gaa_n=AWEtsqfC5cj-3eKeAERtVrnus4E1mPbesFjZLw2wTSjz7--xsOgfdl1xvJpH&gaa_ts=697fd68b&gaa_sig=BCU5iHL89YnKHTlEVQE8vRMhk-nQklAtpWPPiC7gDX0XMUSxxXxzox6EST6mNBgI16qUJlTY1exCF68xW4IGCA%3D%3D)**
-
-Barron's • 2d ago
-
----
-
 **[JPMorgan says bitcoin futures oversold as silver flips overbought, sees $8,500 gold long term](https://www.theblock.co/post/387893/jpmorgan-bitcoin-gold-silver-8500-long-term)**
 
 Indeed, since the JPMorgan report was published on Wednesday, both silver and gold have pulled back from recent highs.
@@ -195,35 +209,17 @@ The Block • 2d ago
 
 ---
 
-**[Bitcoin wipeout erases entire Trump-era gains](https://www.telegraph.co.uk/business/2026/02/01/bitcoin-wipeout-erases-entire-trump-era-gains/)**
+**[The Slide in Gold and Silver Sets Up a Test for Bitcoin](https://www.barrons.com/articles/the-slide-in-gold-and-silver-sets-up-a-test-for-bitcoin-2a9573b3?gaa_at=eafs&gaa_n=AWEtsqd-wBNmQPnIxs_21mp1imcr2WMUzdOoKxrhP12rVyOoplOEfPhB6LsO&gaa_ts=697fea0c&gaa_sig=zPWwl3aLLvGKVd1AssJmbB4vu-S69lXj-FAflg6VkKhgR80ptTm3JcSkZOQKDJPZ5cNVuND8mVRnlYvoT50mKA%3D%3D)**
 
-Cryptocurrency tumbles as US president fuels geopolitical uncertainty
-
-The Telegraph • 5h ago
+Barron's • 2d ago
 
 ---
 
-**[The crypto industry used to store Bitcoin in Swiss vaults. Now one firm is using vaults to hold gold instead](https://fortune.com/2026/01/30/the-crypto-industry-used-to-store-bitcoin-in-swiss-vaults-now-one-firm-is-using-vaults-to-hold-gold-instead/)**
+**[Bitcoin’s freefall approaches $80,000 as precious metals also tank](https://fortune.com/2026/01/30/bitcoin-price-today-ethereum-gold-silver-platinum-copper/)**
 
-The CEO of Tether called the bunker ‘a James Bond kind of place.’
+The world’s largest cryptocurrency is down 2% over the past day while gold and silver have dropped 11% and 30%, respectively.
 
 Fortune • 2d ago
-
----
-
-**[The Bitcoin Sell-Off Is Getting Worse, but That Won't Stop Me From Buying Even More](https://www.fool.com/investing/2026/01/30/the-bitcoin-sell-off-is-getting-worse-but-it-wont/)**
-
-It's reasonable to say that this coin isn't behaving like a safe harbor asset right now.
-
-The Motley Fool • 2d ago
-
----
-
-**[If you bought just $1 of Bitcoin when it launched 17 years ago, how rich would you be today?](https://timesofindia.indiatimes.com/business/if-you-bought-just-1-of-bitcoin-when-it-launched-17-years-ago-how-rich-would-you-be-today/articleshow/127841336.cms)**
-
-Business News: Discover how early Bitcoin investments could have transformed your financial future. Learn about the extraordinary value of Bitcoin from its inception to today, including tales of lost fortunes and missed opportunities.
-
-Times of India • 9h ago
 
 ---
 
@@ -325,7 +321,7 @@ Today is a stable day ( so far) with bitcoin at 77k but alts dumping even more. 
 
 📺 Digital Asset News
 
-👁️ 8K • 👍 529 • 💬 68 • ⏱️ 40:04 • 4h ago
+👁️ 8K • 👍 529 • 💬 68 • ⏱️ 40:04 • 5h ago
 
 ---
 
@@ -345,7 +341,7 @@ EMERGENCY Bitcoin $68000 Incoming $6B GONE! MicroStrategy Era Ends? XRP XLM in F
 
 📺 CryptoWendyO
 
-👁️ 16K • 👍 1K • 💬 27 • ⏱️ 27:24 • 4h ago
+👁️ 16K • 👍 1K • 💬 27 • ⏱️ 27:24 • 5h ago
 
 ---
 
@@ -355,7 +351,7 @@ When Will the Current U.S. Government Shutdown End?
 
 📺 CryptosRUs
 
-👁️ 74K • 👍 3K • 💬 1K • ⏱️ 11:12 • 21h ago
+👁️ 74K • 👍 3K • 💬 1K • ⏱️ 11:12 • 22h ago
 
 ---
 
@@ -385,7 +381,7 @@ I show why bitcoin could have another drop very soon. After that btc drop its mo
 
 📺 OPTICALARTdotCOM
 
-👁️ 3K • 👍 332 • 💬 86 • ⏱️ 16:08 • 7h ago
+👁️ 3K • 👍 332 • 💬 86 • ⏱️ 16:08 • 8h ago
 
 ---
 

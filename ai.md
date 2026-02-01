@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-02-01T23:26:45.093755+00:00'
+updated: '2026-02-01T23:49:57.692360+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- repositories
 - news
-- videos
 - social
+- videos
+- repositories
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** February 01, 2026 at 23:26 UTC  
+**Last Updated:** February 01, 2026 at 23:49 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -41,7 +41,7 @@ AI news, discussions, and developments
 
 The comment follows reports that the rocket maker is weighing a transaction that could further consolidate Musk’s space and AI ventures.
 
-🔗 [TESLARATI](https://www.teslarati.com/rumored-spacex-xai-merger-gets-apparent-confirmation-from-elon-musk/) • 12h ago
+🔗 [TESLARATI](https://www.teslarati.com/rumored-spacex-xai-merger-gets-apparent-confirmation-from-elon-musk/) • 13h ago
 
 ---
 
@@ -57,7 +57,7 @@ What moltbook is So essentially There is this open source AI bot called openclaw
 
 For years we have watched and read stories about evil Ai's and the threats they may pose, with AI characters such as Ultron, AM, HAL 9000, the Matrix etc. looking to kill/exploit humanity. There are countless stories with these kinds of villains. But we have also had good AI characters, including Data from Star Trek, WALL-E, Baymax, C3PO, Marvin the Paranoid Android. How do you think these depictions of AI in popular media is affecting the AI systems we are making today?
 
-44m ago
+1h ago
 
 ---
 
@@ -73,7 +73,7 @@ The b4 tool used by Linux kernel developers to help manage their patch workflow 
 
 SpaceX's filing claims these satellites will be “a first step towards becoming a Kardashev II-level civilization — one that can harness the Sun’s full power."
 
-🔗 [TechCrunch](https://techcrunch.com/2026/01/31/spacex-seeks-federal-approval-to-launch-1-million-solar-powered-satellite-data-centers/) • 20h ago
+🔗 [TechCrunch](https://techcrunch.com/2026/01/31/spacex-seeks-federal-approval-to-launch-1-million-solar-powered-satellite-data-centers/) • 21h ago
 
 ---
 
@@ -89,7 +89,7 @@ I subscribe to a few AI podcasts, but I wanted to know of any others that you ca
 
 So I was using LLM for studying advance language/framework/design topics. Whenever I have some question I would try on GPT but it will always give me answer in points no matter what prompt I try or create a separate workbook with new memory. It will always give me answer in small basic points. I wanted to learn topics in depth but it just refuses to give me better indepth answer just everything in basic points. Gemini sometimes is not able to understand context but the answer quality is just amazing and everything is in just depth, it uses points also but they are much better explained than GPT. Also the free version limit is just getting frustrating now in GPT and extremely long wait time for images, it has gotten so bad that I never though I would completely uninstall GPT and prefer gemini over it.
 
-12h ago
+13h ago
 
 ---
 
@@ -129,39 +129,25 @@ NBC News • 13h ago
 
 ---
 
-**[Moltbook AI Social Network: 1.4 Million Agents Build A Digital Society](https://www.forbes.com/sites/guneyyildiz/2026/01/31/inside-moltbook-the-social-network-where-14-million-ai-agents-talk-and-humans-just-watch/)**
+**["We're in the singularity": New AI platform skips the humans entirely](https://www.axios.com/2026/01/31/ai-moltbook-human-need-tech)**
 
-Forbes • 1d ago
+It's not science fiction. It's happening right now — and it's freaking out some of the smartest names in artificial intelligence.
 
----
-
-**[AI layoffs or ‘AI-washing’?](https://techcrunch.com/2026/02/01/ai-layoffs-or-ai-washing/)**
-
-How many of the companies with recent layoffs are just using AI as an excuse?
-
-TechCrunch • 1h ago
+Axios • 10h ago
 
 ---
 
-**[Billionaires Are Piling Into This Artificial Intelligence (AI) Stock. Here's Why.](https://finance.yahoo.com/news/billionaires-piling-artificial-intelligence-ai-210000689.html)**
+**[Did A.I. Take Your Job? Or Was Your Employer ‘A.I.-Washing’?](https://www.nytimes.com/2026/02/01/business/layoffs-ai-washing.html)**
 
-Billionaires regularly pile more of their money into the biggest winners.
-
-Yahoo Finance • 2h ago
+The New York Times • 13h ago
 
 ---
 
-**[Trust, But Verify: AI Deployed Correctly Has To Meet A High Bar](https://www.forbes.com/sites/johnwerner/2026/02/01/trust-but-verify-ai-deployed-correctly-has-to-meet-a-high-bar/)**
+**[The AI Companies Trying to Make Grief Obsolete](https://www.theatlantic.com/ideas/2026/02/deadbots-ai-grief-obsolete/685811/)**
 
-Forbes • 2h ago
+You can buy an AI version of your lost loved one. But should you?
 
----
-
-**[Artificial intelligence researchers hit by flood of ‘slop’](https://www.ft.com/content/54e274c5-de86-4b3e-96a9-95a46b5e48a0)**
-
-Conferences restrict use of LLMs after surge of low-quality AI-generated papers and reviews
-
-Financial Times • 18h ago
+The Atlantic • 11h ago
 
 ---
 
@@ -173,17 +159,23 @@ The Washington Post • 5h ago
 
 ---
 
-**[Opinion | Students Are Skipping the Hardest Part of Growing Up](https://www.nytimes.com/2026/01/30/opinion/ai-social-skills-relationships.html)**
+**[Artificial intelligence researchers hit by flood of ‘slop’](https://www.ft.com/content/54e274c5-de86-4b3e-96a9-95a46b5e48a0)**
 
-The New York Times • 2d ago
+Conferences restrict use of LLMs after surge of low-quality AI-generated papers and reviews
+
+Financial Times • 18h ago
 
 ---
 
-**[The AI Companies Trying to Make Grief Obsolete](https://www.theatlantic.com/ideas/2026/02/deadbots-ai-grief-obsolete/685811/)**
+**[AI’s Fundraising Frenzy Continues](https://www.wsj.com/tech/ai/ais-fundraising-frenzy-continues-911af613?gaa_at=eafs&gaa_n=AWEtsqdA4l4VLmW-9EnWV0k9Q1CqlA7CSpz296b9eVICb7Lp0NSBtov6GzGl&gaa_ts=697fea0b&gaa_sig=tvetB6SVMuBMgISDZUQRmxqOYNL5CfGvNz2ZHrA2oab4WiR9RgsR9_jXiWbC0XGq0dLPNO783L3hJYjyTO5O5g%3D%3D)**
 
-You can buy an AI version of your lost loved one. But should you?
+The Wall Street Journal • 8h ago
 
-The Atlantic • 10h ago
+---
+
+**[Vibe Coding Startup Cognition Mints A New AI Billionaire](https://www.forbes.com/sites/richardnieva/2026/01/31/vibe-coding-startup-cognition-mints-another-ai-billionaire/)**
+
+Forbes • 1d ago
 
 ---
 
@@ -192,6 +184,14 @@ The Atlantic • 10h ago
 Anthropic is an AI safety and research company that's working to build reliable, interpretable, and steerable AI systems.
 
 Anthropic • 3d ago
+
+---
+
+**[Project Genie: Experimenting with infinite, interactive worlds](https://blog.google/innovation-and-ai/models-and-research/google-deepmind/project-genie/)**
+
+Google AI Ultra subscribers in the U.S. can now try out Project Genie.
+
+blog.google • 3d ago
 
 ---
 
@@ -369,7 +369,7 @@ Humanoid robotics just took a massive leap into the real world. Researchers in C
 
 📺 AI Revolution
 
-👁️ 114K • 👍 1K • 💬 278 • ⏱️ 14:25 • 1d ago
+👁️ 114K • 👍 1K • 💬 278 • ⏱️ 14:25 • 2d ago
 
 ---
 
@@ -379,7 +379,7 @@ Want to make money and save time with AI? Get AI Coaching, Support & Courses ...
 
 📺 Julian Goldie SEO
 
-👁️ 3K • 👍 99 • 💬 8 • ⏱️ 8:15 • 9h ago
+👁️ 3K • 👍 99 • 💬 8 • ⏱️ 8:15 • 10h ago
 
 ---
 

@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-02-01T23:26:45.111274+00:00'
+updated: '2026-02-01T23:49:57.710888+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
 - news
-- videos
 - social
+- videos
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** February 01, 2026 at 23:26 UTC  
+**Last Updated:** February 01, 2026 at 23:49 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -88,7 +88,7 @@ Young PhD in Computer vision / Robotics here. I have recently read a post of Mar
 
 **[How do you time go-to-market moves in industrial tech?](https://www.reddit.com/r/robotics/comments/1qta6br/how_do_you_time_gotomarket_moves_in_industrial/)**
 
-2h ago
+3h ago
 
 ---
 
@@ -126,31 +126,17 @@ Zacks Investment Research • 2d ago
 
 ---
 
-**[Robotics, for better or for worse](https://opinion.inquirer.net/189405/robotics-for-better-or-for-worse)**
-
-United States President Donald Trump recently signed an executive order assuring the global dominance of the US in artificial intelligence through deregulation and the preemption of state AI laws.
-
-Inquirer.net • 1h ago
-
----
-
 **[Lightspeed Backs Robotics Startup in $100 Million Round](https://www.bloomberg.com/news/articles/2026-01-29/fiat-toyota-tycoons-back-startup-robco-in-100-million-round)**
 
 Bloomberg.com • 3d ago
 
 ---
 
-**[Lake Stevens robotics team receives world recognition](https://www.heraldnet.com/news/lake-stevens-robotics-team-receives-world-recognition/)**
+**[Robotics, for better or for worse](https://opinion.inquirer.net/189405/robotics-for-better-or-for-worse)**
 
-Team Arsenic took second place at the recent ROBO-BASH in Bellingham, earning fifth place in the world.
+United States President Donald Trump recently signed an executive order assuring the global dominance of the US in artificial intelligence through deregulation and the preemption of state AI laws.
 
-Everett Herald • 2d ago
-
----
-
-**[Canfield robotics team preps for competition](https://www.wkbn.com/news/local-news/canfield-news/canfield-robotics-team-preps-for-competition/)**
-
-WKBN.com • 5h ago
+Inquirer.net • 2h ago
 
 ---
 
@@ -162,9 +148,25 @@ The Robot Report • 2d ago
 
 ---
 
+**[Oceaneering International’s Subsea Robotics Shift Reshapes Energy And Defense Mix](https://finance.yahoo.com/news/oceaneering-international-subsea-robotics-shift-220614962.html)**
+
+Oceaneering International (NYSE:OII) is seeing rising interest in its subsea robotics capabilities as it expands into defense and non energy markets. The company is building on its established offshore expertise to pursue contracts and partnerships beyond traditional oil and gas activity. This shift reflects a broader push to diversify its revenue sources into areas that are less tied to energy price cycles. For investors watching NYSE:OII, the focus is increasingly on how the robotics and...
+
+Yahoo Finance • 1h ago
+
+---
+
 **[AI Robotics Investment Opportunities Extend Beyond Big Tech](https://www.etftrends.com/disruptive-technology-content-hub/ai-robotics-investment-opportunities-extend-beyond-big-tech/)**
 
 ETF Trends • 2d ago
+
+---
+
+**[Lake Stevens robotics team receives world recognition](https://www.heraldnet.com/news/lake-stevens-robotics-team-receives-world-recognition/)**
+
+Team Arsenic took second place at the recent ROBO-BASH in Bellingham, earning fifth place in the world.
+
+Everett Herald • 2d ago
 
 ---
 
@@ -204,7 +206,7 @@ Humanoid robotics just took a massive leap into the real world. Researchers in C
 
 📺 AI Revolution
 
-👁️ 114K • 👍 1K • 💬 278 • ⏱️ 14:25 • 1d ago
+👁️ 114K • 👍 1K • 💬 278 • ⏱️ 14:25 • 2d ago
 
 ---
 
