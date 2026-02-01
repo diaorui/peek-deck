@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-02-01T15:50:24.080918+00:00'
+updated: '2026-02-01T16:31:46.255461+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- news
-- social
 - videos
 - cryptocurrency
+- social
+- news
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** February 01, 2026 at 15:50 UTC  
+**Last Updated:** February 01, 2026 at 16:31 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -52,17 +52,17 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Market Stats
 
-**Market Cap:** $285.86B
+**Market Cap:** $279.93B
 Rank #2
 
 **Circulating Supply:** 120,693,815 ETH
 No max supply
 
 **All-Time High:** $4,946.05
--52.1%
+-53.1%
 
 **All-Time Low:** $0.43
-+546603.2%
++535528.7%
 
 ---
 
@@ -72,7 +72,7 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-9h ago
+10h ago
 
 ---
 
@@ -176,7 +176,7 @@ CryptoSlate • 1d ago
 
 Earlier in January, the Ethereum Foundation formally elevated post-quantum security to a strategic priority, creating a dedicated Post-Quantum team.
 
-CoinDesk • 46m ago
+CoinDesk • 1h ago
 
 ---
 
@@ -190,7 +190,7 @@ Yahoo Finance • 1d ago
 
 **[Key facts: Ethereum Drops 12.7% Amid Large Sales; Institutional Interest Grows](https://www.tradingview.com/news/tradingview:28b30d6b1c11d:0-key-facts-ethereum-drops-12-7-amid-large-sales-institutional-interest-grows/)**
 
-TradingView • 15h ago
+TradingView • 16h ago
 
 ---
 
@@ -222,7 +222,7 @@ The Motley Fool • 2d ago
 
 ETH plunges to $2,400 after heavy liquidations, with analysts warning a deeper move toward $1,435 is possible.
 
-Coinpaper • 20h ago
+Coinpaper • 21h ago
 
 ---
 
@@ -230,13 +230,33 @@ Coinpaper • 20h ago
 
 ## YouTube Videos: "ethereum"
 
+**[Ethereum’s Vision Is Incredibly Bullish… So Why Is the Price So Bad? w/ Jeff Park](https://www.youtube.com/watch?v=tJLZausdujc)**
+
+Ethereum has the strongest long-term narrative in crypto: tokenization, AI rails, decentralized infrastructure, and growing ...
+
+📺 Milk Road
+
+👁️ 501 • 👍 32 • 💬 29 • ⏱️ 15:51 • 1h ago
+
+---
+
 **[ETHEREUM CRASH UPDATE🚨 (Ethereum Price Prediction 2026)](https://www.youtube.com/watch?v=3TzdUmlvU4M)**
 
 ETHEREUM ETH PRICE PREDICTION 2026 Join the Premium Signal Group for trade setups, mentorship & a community ...
 
 📺 Cilinix Crypto
 
-👁️ 235 • 👍 15 • 💬 2 • ⏱️ 5:13 • 3h ago
+👁️ 500 • 👍 20 • 💬 2 • ⏱️ 5:13 • 4h ago
+
+---
+
+**[Ethereum Elliott Wave Update – Key Resistance Levels Ahead](https://www.youtube.com/watch?v=jWTDD2LCsQY)**
+
+This video provides a professional Elliott Wave and technical analysis of Ethereum (ETH), focusing on market structure, major ...
+
+📺 More Crypto Online
+
+👁️ 2K • 👍 154 • 💬 7 • ⏱️ 8:33 • 2h ago
 
 ---
 
@@ -246,7 +266,7 @@ Nick Valdez looks at the latest market crash with the next level Bitcoin MUST ho
 
 📺 Discover Crypto
 
-👁️ 19K • 👍 706 • 💬 210 • ⏱️ 4:28 • 18h ago
+👁️ 20K • 👍 727 • 💬 214 • ⏱️ 4:28 • 19h ago
 
 ---
 
@@ -260,53 +280,13 @@ My FREE Daily On-Chain Analysis & Crypto News In 5-Mins: https://www.cryptonutsh
 
 ---
 
-**[Ethereum Elliott Wave Update – Key Resistance Levels Ahead](https://www.youtube.com/watch?v=jWTDD2LCsQY)**
-
-This video provides a professional Elliott Wave and technical analysis of Ethereum (ETH), focusing on market structure, major ...
-
-📺 More Crypto Online
-
-👁️ 664 • 👍 75 • 💬 5 • ⏱️ 8:33 • 2h ago
-
----
-
-**[🚨 EMERGENCY UPDATE: CRYPTO CRASH INTENSIFIES! (Here&#39;s Why)](https://www.youtube.com/watch?v=ytTNgeSXztY)**
-
-EMERGENCY UPDATE: CRYPTO CRASH INTENSIFIES! (Here's Why) The crypto market is in FREEFALL, and the selling ...
-
-📺 Tim Warren
-
-👁️ 21K • 👍 1K • 💬 453 • ⏱️ 11:12 • 21h ago
-
----
-
 **[When Will Stop The Crash? 💀 ETH Crypto Token Analysis](https://www.youtube.com/watch?v=LUAphGQ2Yls)**
 
 Join Premium: https://the-bitcoin-strategy.com My Chart Software: https://the-bitcoin-strategy.com/tradingview My Hardware Wallet: ...
 
 📺 Gerhard - Bitcoin Strategy
 
-👁️ 7K • 👍 149 • 💬 47 • ⏱️ 7:13 • 1d ago
-
----
-
-**[BITCOIN CRASH: PRICE TARGETS HIT (this is next)!!!! - Bitcoin News Today, Ethereum &amp; Altcoins](https://www.youtube.com/watch?v=8mqEKXWHZOE)**
-
-BITCOIN CRASH: PRICE TARGETS HIT (this is next)!!!! - Bitcoin News Today, Ethereum & Altcoins *Toobit* ...
-
-📺 Crypto World
-
-👁️ 15K • 👍 545 • 💬 265 • ⏱️ 27:07 • 18h ago
-
----
-
-**[Cathie Wood: “This Is WHEN The 2026 Bull Run Starts” [New Bitcoin &amp; Ethereum Prediction 2026]](https://www.youtube.com/watch?v=xsRdyWYOUJA)**
-
-Join UpTrade today - Your personal crypto broker: https://www.uptrade.au/ My FREE Daily 5-Min Crypto Newsletter: ...
-
-📺 Crypto Nutshell
-
-👁️ 15K • 👍 439 • 💬 103 • ⏱️ 16:36 • 1d ago
+👁️ 7K • 👍 151 • 💬 49 • ⏱️ 7:13 • 1d ago
 
 ---
 
@@ -316,17 +296,37 @@ Join UpTrade today - Your personal crypto broker: https://www.uptrade.au/ My FRE
 
 📺 Crypto Moe
 
-👁️ 2K • 👍 262 • 💬 63 • ⏱️ 11:41 • 16h ago
+👁️ 3K • 👍 270 • 💬 57 • ⏱️ 11:41 • 17h ago
 
 ---
 
-**[Ethereum Elliott Wave Update – Key Resistance Levels Ahead](https://www.youtube.com/watch?v=XFntGyzd46U)**
+**[Cathie Wood: “This Is WHEN The 2026 Bull Run Starts” [New Bitcoin &amp; Ethereum Prediction 2026]](https://www.youtube.com/watch?v=xsRdyWYOUJA)**
 
-This video provides a professional Elliott Wave and technical analysis of Ethereum (ETH), focusing on market structure, major ...
+Join UpTrade today - Your personal crypto broker: https://www.uptrade.au/ My FREE Daily 5-Min Crypto Newsletter: ...
 
-📺 More Crypto Online
+📺 Crypto Nutshell
 
-👁️ 4K • 👍 288 • 💬 24 • ⏱️ 4:54 • 19h ago
+👁️ 16K • 👍 457 • 💬 104 • ⏱️ 16:36 • 1d ago
+
+---
+
+**[🚨 EMERGENCY UPDATE: CRYPTO CRASH INTENSIFIES! (Here&#39;s Why)](https://www.youtube.com/watch?v=ytTNgeSXztY)**
+
+EMERGENCY UPDATE: CRYPTO CRASH INTENSIFIES! (Here's Why) The crypto market is in FREEFALL, and the selling ...
+
+📺 Tim Warren
+
+👁️ 21K • 👍 1K • 💬 459 • ⏱️ 11:12 • 21h ago
+
+---
+
+**[Forget The Crash! Bitcoin Will Hit These Insane Figures in February - Matt Hougan](https://www.youtube.com/watch?v=QBcWKNKxnGk)**
+
+Take Control of Your Retirement — Grow Crypto & Gold Tax-Advantaged. https://www.itrustcapital.com/go/savvy-finance If you're ...
+
+📺 Savvy Finance
+
+👁️ 10K • 👍 406 • 💬 20 • ⏱️ 20:55 • 16h ago
 
 ---
 

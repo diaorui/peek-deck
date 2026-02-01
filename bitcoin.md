@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-02-01T15:50:24.074784+00:00'
+updated: '2026-02-01T16:31:46.249520+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- news
-- social
 - videos
 - cryptocurrency
+- social
+- news
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** February 01, 2026 at 15:50 UTC  
+**Last Updated:** February 01, 2026 at 16:31 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -54,17 +54,17 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1558.52B
+**Market Cap:** $1549.90B
 Rank #1
 
 **Circulating Supply:** 19,982,656 BTC
 95.2% of max
 
 **All-Time High:** $126,080.00
--38.1%
+-38.5%
 
 **All-Time Low:** $67.81
-+114906.6%
++114279.9%
 
 ---
 
@@ -79,13 +79,13 @@ Rank #1
 
 **[Evergreen just like BTC!](https://www.reddit.com/r/Bitcoin/comments/1qs6sj1/evergreen_just_like_btc/)**
 
-23h ago
+1d ago
 
 ---
 
 **[Buy Now](https://www.reddit.com/r/Bitcoin/comments/1qs9mvq/buy_now/)**
 
-21h ago
+22h ago
 
 ---
 
@@ -101,7 +101,7 @@ I'm not wasting these cheap stacks. HODL and BUY!
 
 Best Case Scenario - BTC will test 92K, if it breaks it will set a new ATH. Worst Case Scenario - If it looses 50K support, cheap BYC incoming. Regardless, in my experience (since 2015), unless you are an extremely smart person with excellent TA skills supported by a crystal ball, u cannot time the market. DCA, ignore your short term losses. Overall, you will make it. In 2017, I lost a significant amount of money. In 2021, I made a decent profit. I didn’t exit, continue to DCA. Thats my forever strategy that always pays on the long run. Ignore hopium and negative comments. Focus on your bag. Don’t FOMO, don’t panic sell. Aim for profits.
 
-5h ago
+6h ago
 
 ---
 
@@ -109,7 +109,7 @@ Best Case Scenario - BTC will test 92K, if it breaks it will set a new ATH. Wors
 
 Took advantage of the plummet to get myself over the 0.5 mark!! I know this is small for some and big for others, but I’m quite happy with this! Just wanted to share with others who’d understand - nobody in my life cares lol.
 
-16h ago
+17h ago
 
 ---
 
@@ -117,19 +117,19 @@ Took advantage of the plummet to get myself over the 0.5 mark!! I know this is s
 
 Just started investing in BTC yesterday evening. Purchased my initial batch at 65.000 EUR (77.000 USD). Plan on DCAing daily plus additional buys as it drops sharply. One thing I can’t seem to understand is, folks heavily believe in this 4y cycle thing with BTC guessing the bottom in the mid 50ks USD by end of 2026. Yet most people seem to be holding instead of selling and rebuying way cheaper. Can you explain to me pls? If this 4y cylcle was a „law“ why would ppl hold anyways? Thanks
 
-7h ago
+8h ago
 
 ---
 
 **[Today’s message…](https://www.reddit.com/r/Bitcoin/comments/1qscx1s/todays_message/)**
 
-19h ago
+20h ago
 
 ---
 
 **[I’m done](https://www.reddit.com/r/Bitcoin/comments/1qsaxev/im_done/)**
 
-20h ago
+21h ago
 
 ---
 
@@ -137,7 +137,7 @@ Just started investing in BTC yesterday evening. Purchased my initial batch at 6
 
 Anyone that’s “done with bitcoin” never actually understood bitcoin in the first place.
 
-13h ago
+14h ago
 
 ---
 
@@ -145,7 +145,7 @@ Anyone that’s “done with bitcoin” never actually understood bitcoin in the
 
 When we were at ATH I saw people talking how we'd get to $200k by December, now I see people talking how "this is just the beginning, it's going to be a rough year." I don't think anyone here knows what is going to happen in the next few months. Just relax and HODL.
 
-9h ago
+10h ago
 
 ---
 
@@ -165,7 +165,7 @@ CoinDesk • 1d ago
 
 Strategy’s ability to fund a large bitcoin purchase appears limited after a weak performance for the price of its common and preferred shares.
 
-CoinDesk • 45m ago
+CoinDesk • 1h ago
 
 ---
 
@@ -173,7 +173,7 @@ CoinDesk • 45m ago
 
 Strategy Inc. (NasdaqGS:MSTR) recently acquired more than 2,900 BTC, funded through an at the market equity offering. The company simultaneously raised the monthly dividend rate on its Stretch (STRC) preferred stock, marking the sixth increase since July 2025. These moves come during significant bitcoin price declines and increased scrutiny of Strategy’s bitcoin backed financial model. Strategy is again leaning into its bitcoin centric approach at a time when its own shares and the crypto...
 
-Yahoo Finance • 38m ago
+Yahoo Finance • 1h ago
 
 ---
 
@@ -219,7 +219,7 @@ Yahoo Finance • 2d ago
 
 **[Bitcoin Drops Below $78,000 After Trump Taps Kevin Warsh To Lead Federal Reserve](https://www.forbes.com/sites/mikestunson/2026/01/31/bitcoin-is-dropping-fast-heres-why-it-dropped-below-78000/)**
 
-Forbes • 17h ago
+Forbes • 18h ago
 
 ---
 
@@ -237,7 +237,7 @@ The Block • 1d ago
 
 **[Bitcoin Looks Set for Longest Monthly Losing Streak Since 2018](https://news.ycombinator.com/item?id=46838644)**
 
-⬆️ 68 • 💬 70 • 22h ago • [bloomberg.com](https://www.bloomberg.com/news/articles/2026-01-30/bitcoin-btc-slides-toward-longest-monthly-losing-streak-since-2018)
+⬆️ 68 • 💬 70 • 23h ago • [bloomberg.com](https://www.bloomberg.com/news/articles/2026-01-30/bitcoin-btc-slides-toward-longest-monthly-losing-streak-since-2018)
 
 ---
 
@@ -289,7 +289,7 @@ Bitcoin plunged to a two-month low Thursday as risk-on assets broadly fell—and
 
 **[Single Bitcoin entity keeping BTC price suppressed below $90K](https://news.ycombinator.com/item?id=46812350)**
 
-⬆️ 1 • 💬 0 • 2d ago • [msn.com](https://www.msn.com/en-us/money/markets/single-bitcoin-entity-keeping-btc-price-suppressed-below-90k-analysis/ar-AA1VfVZb)
+⬆️ 1 • 💬 0 • 3d ago • [msn.com](https://www.msn.com/en-us/money/markets/single-bitcoin-entity-keeping-btc-price-suppressed-below-90k-analysis/ar-AA1VfVZb)
 
 ---
 
@@ -313,13 +313,23 @@ Transform HN comment threads into executive intelligence. AI analyzes discussion
 
 ## YouTube Videos: "bitcoin"
 
+**[&quot;Bitcoin Is Being Weaponized &amp; Nobody Understands What Happens Next&quot;  | Zac Prince](https://www.youtube.com/watch?v=ANAS48lGp-o)**
+
+Bitcoin #Crypto #Finance Bitcoin didn't just survive the last cycle — it was reshaped by it. In this conversation, we break down how ...
+
+📺 The Wolf Of All Streets
+
+👁️ 3K • 👍 328 • 💬 159 • ⏱️ 53:57 • 2h ago
+
+---
+
 **[Bitcoin... This Is What&#39;s Happening (HUGE SELLOFF)](https://www.youtube.com/watch?v=pSZzzelGpK8)**
 
 This isn't looking good iTrust Capital – $100 Bonus (Crypto IRA & Custody Accounts) ...
 
 📺 Aaron Bennett
 
-👁️ 21K • 👍 909 • 💬 192 • ⏱️ 10:16 • 11h ago
+👁️ 24K • 👍 1K • 💬 243 • ⏱️ 10:16 • 12h ago
 
 ---
 
@@ -329,7 +339,7 @@ LIMITED TIME: ✓ Bitunix (no kyc, $10k bonus): https://www.bitunix.com/register
 
 📺 Altcoin Daily
 
-👁️ 73K • 👍 3K • 💬 324 • ⏱️ 9:24 • 15h ago
+👁️ 78K • 👍 3K • 💬 340 • ⏱️ 9:24 • 16h ago
 
 ---
 
@@ -339,17 +349,7 @@ When Will the Current U.S. Government Shutdown End?
 
 📺 CryptosRUs
 
-👁️ 60K • 👍 2K • 💬 878 • ⏱️ 11:12 • 14h ago
-
----
-
-**[Bitcoin: Damage Report](https://www.youtube.com/watch?v=yLhApa2vv3s)**
-
-Let's provide a Bitcoin damage report. Into The Cryptoverse Premium: https://intothecryptoverse.com For inquiries: ...
-
-📺 Benjamin Cowen
-
-👁️ 71K • 👍 5K • 💬 279 • ⏱️ 31:15 • 10h ago
+👁️ 63K • 👍 2K • 💬 923 • ⏱️ 11:12 • 14h ago
 
 ---
 
@@ -359,27 +359,37 @@ BTC #Bitcoin #Cryptocurrency Join Michael Saylor for his unforgettable keynote a
 
 📺 TheGameBoyGeek - Hi Quality Hi Energy Board Game Reviews
 
-👁️ 53K • 👍 4K • 11h ago
+👁️ 75K • 👍 5K • 11h ago
 
 ---
 
-**[Forget The Crash! Bitcoin Will Hit These Insane Figures in February - Matt Hougan](https://www.youtube.com/watch?v=QBcWKNKxnGk)**
+**[Bitcoin: Damage Report](https://www.youtube.com/watch?v=yLhApa2vv3s)**
 
-Take Control of Your Retirement — Grow Crypto & Gold Tax-Advantaged. https://www.itrustcapital.com/go/savvy-finance If you're ...
+Let's provide a Bitcoin damage report. Into The Cryptoverse Premium: https://intothecryptoverse.com For inquiries: ...
 
-📺 Savvy Finance
+📺 Benjamin Cowen
 
-👁️ 9K • 👍 375 • 💬 19 • ⏱️ 20:55 • 15h ago
+👁️ 84K • 👍 6K • 💬 330 • ⏱️ 31:15 • 11h ago
 
 ---
 
-**[The Trifecta of Crashes: Gold, Silver &amp; Now Bitcoin. $77k &amp; DROPPING!](https://www.youtube.com/watch?v=kBkBYd2o1rU)**
+**[Fidelity Just EXPOSED Crypto&#39;s Biggest Secret [Not What You Think]](https://www.youtube.com/watch?v=cuhz-DHuqVw)**
 
-Gold crashes with Silver in tow and now comes Bitcoin. How low can we go? MUCH lower. The links below may include affiliate ...
+Let's be honest, most people were more than happy to slam the door on 2025. On paper, it had all the ingredients for a breakout ...
 
-📺 Digital Asset News
+📺 Coin Bureau
 
-👁️ 19K • 👍 955 • 💬 144 • ⏱️ 35:43 • 18h ago
+👁️ 13K • 👍 1K • 💬 70 • ⏱️ 21:27 • 3h ago
+
+---
+
+**[Bitcoin is being sold at a MASSIVE discount - all you need is Bitcoin and cash](https://www.youtube.com/watch?v=XjHBZ_DEWLU)**
+
+FREE TRAINING: https://event.webinarjam.com/z2qpv/register/1y7k2aw4 FREE PERSONAL FINANCE COURSE: ...
+
+📺 Rajat Soni, CFA
+
+👁️ 1K • 👍 184 • 💬 100 • ⏱️ 5:20 • 2h ago
 
 ---
 
@@ -389,27 +399,17 @@ Watch my free masterclass & get Market Briefs as a bonus: https://briefs.finance
 
 📺 Minority Mindset
 
-👁️ 298K • 👍 10K • 💬 2K • ⏱️ 14:10 • 1d ago
+👁️ 305K • 👍 11K • 💬 2K • ⏱️ 14:10 • 1d ago
 
 ---
 
-**[Why Bitcoin, ETH &amp; Altcoins Are CRASHING HARD](https://www.youtube.com/watch?v=-rrpLsrAr9Q)**
+**[The Trifecta of Crashes: Gold, Silver &amp; Now Bitcoin. $77k &amp; DROPPING!](https://www.youtube.com/watch?v=kBkBYd2o1rU)**
 
-Nick Valdez looks at the latest market crash with the next level Bitcoin MUST hold for support! Join Our Trading Group Discord ...
+Gold crashes with Silver in tow and now comes Bitcoin. How low can we go? MUCH lower. The links below may include affiliate ...
 
-📺 Discover Crypto
+📺 Digital Asset News
 
-👁️ 19K • 👍 706 • 💬 210 • ⏱️ 4:28 • 18h ago
-
----
-
-**[WTF JUST HAPPENED TO BITCOIN!!](https://www.youtube.com/watch?v=BbgZx_N5xpc)**
-
-CHECK OUT MY LINKTREE FOR EXCHANGES I USE, BONUSES, FREE VIDEOS, AND MORE! https://linktr.ee/Myfinancialfriend I ...
-
-📺 My Financial Friend
-
-👁️ 20K • 👍 781 • 💬 378 • ⏱️ 8:03 • 22h ago
+👁️ 19K • 👍 976 • 💬 148 • ⏱️ 35:43 • 18h ago
 
 ---
 
