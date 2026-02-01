@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-02-01T19:25:18.300058+00:00'
+updated: '2026-02-01T19:45:58.859399+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
 - social
 - repositories
-- news
 - videos
+- news
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** February 01, 2026 at 19:25 UTC  
+**Last Updated:** February 01, 2026 at 19:45 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -41,7 +41,7 @@ AI news, discussions, and developments
 
 The comment follows reports that the rocket maker is weighing a transaction that could further consolidate Musk’s space and AI ventures.
 
-🔗 [TESLARATI](https://www.teslarati.com/rumored-spacex-xai-merger-gets-apparent-confirmation-from-elon-musk/) • 8h ago
+🔗 [TESLARATI](https://www.teslarati.com/rumored-spacex-xai-merger-gets-apparent-confirmation-from-elon-musk/) • 9h ago
 
 ---
 
@@ -53,14 +53,6 @@ What moltbook is So essentially There is this open source AI bot called openclaw
 
 ---
 
-**[Linux's b4 kernel development tool now dog-feeding its AI agent code review helper](https://www.reddit.com/r/artificial/comments/1qt5vl0/linuxs_b4_kernel_development_tool_now_dogfeeding/)**
-
-The b4 tool used by Linux kernel developers to help manage their patch workflow around contributions to the Linux kernel has been seeing work on a text user interface to help with AI agent assisted code reviews
-
-🔗 [phoronix.com](https://www.phoronix.com/news/Linux-b4-Tool-Dog-Feeding-AI) • 1h ago
-
----
-
 **[Any AI Podcasts you can recommend?](https://www.reddit.com/r/artificial/comments/1qt4i78/any_ai_podcasts_you_can_recommend/)**
 
 I subscribe to a few AI podcasts, but I wanted to know of any others that you can recommend. Not looking for anything too deep, in fact, prefer the ones that are lighter and an easy listen or watch. let me know your faves.
@@ -69,11 +61,27 @@ I subscribe to a few AI podcasts, but I wanted to know of any others that you ca
 
 ---
 
+**[Linux's b4 kernel development tool now dog-feeding its AI agent code review helper](https://www.reddit.com/r/artificial/comments/1qt5vl0/linuxs_b4_kernel_development_tool_now_dogfeeding/)**
+
+The b4 tool used by Linux kernel developers to help manage their patch workflow around contributions to the Linux kernel has been seeing work on a text user interface to help with AI agent assisted code reviews
+
+🔗 [phoronix.com](https://www.phoronix.com/news/Linux-b4-Tool-Dog-Feeding-AI) • 1h ago
+
+---
+
 **[SpaceX seeks federal approval to launch 1 million solar-powered satellite data centers | TechCrunch](https://www.reddit.com/r/artificial/comments/1qslxkj/spacex_seeks_federal_approval_to_launch_1_million/)**
 
 SpaceX's filing claims these satellites will be “a first step towards becoming a Kardashev II-level civilization — one that can harness the Sun’s full power."
 
-🔗 [TechCrunch](https://techcrunch.com/2026/01/31/spacex-seeks-federal-approval-to-launch-1-million-solar-powered-satellite-data-centers/) • 16h ago
+🔗 [TechCrunch](https://techcrunch.com/2026/01/31/spacex-seeks-federal-approval-to-launch-1-million-solar-powered-satellite-data-centers/) • 17h ago
+
+---
+
+**[Is GPT getting downgraded for free users or just gemini getting better?](https://www.reddit.com/r/artificial/comments/1qsvas4/is_gpt_getting_downgraded_for_free_users_or_just/)**
+
+So I was using LLM for studying advance language/framework/design topics. Whenever I have some question I would try on GPT but it will always give me answer in points no matter what prompt I try or create a separate workbook with new memory. It will always give me answer in small basic points. I wanted to learn topics in depth but it just refuses to give me better indepth answer just everything in basic points. Gemini sometimes is not able to understand context but the answer quality is just amazing and everything is in just depth, it uses points also but they are much better explained than GPT. Also the free version limit is just getting frustrating now in GPT and extremely long wait time for images, it has gotten so bad that I never though I would completely uninstall GPT and prefer gemini over it.
+
+9h ago
 
 ---
 
@@ -82,14 +90,6 @@ SpaceX's filing claims these satellites will be “a first step towards becoming
 I’m looking to dive into clawdbot. What do you guys think of this use case and if it’s even possible at this infant stage? Clawdbot to review my Google AdWords and Meta ads on a 24 hour , 7 day , 14 day basis. Point out optimization suggestions such based of changes in ROAS, CTR %, Conversions, Cost per acquisition metrics etc. Create a daily report on the tweaks that is needed to make today and on a weekly basis. Tweaks would involve things like inclusion or exclusion of keywords, improvement of ad copy, addition of new creatives (images/videos/html5) **I work in the fin tech and e-commerce niche whereby compliance is utmost important to avoid lawsuits and entire accounts getting taken down. Hence the bot will only have a “view access” to the advertising accounts. Through the reports my team and I will be able to make the change. I see Clawdbot as an open sandbox.. with some bugs to be wary of. Your thoughts?
 
 3h ago
-
----
-
-**[Is GPT getting downgraded for free users or just gemini getting better?](https://www.reddit.com/r/artificial/comments/1qsvas4/is_gpt_getting_downgraded_for_free_users_or_just/)**
-
-So I was using LLM for studying advance language/framework/design topics. Whenever I have some question I would try on GPT but it will always give me answer in points no matter what prompt I try or create a separate workbook with new memory. It will always give me answer in small basic points. I wanted to learn topics in depth but it just refuses to give me better indepth answer just everything in basic points. Gemini sometimes is not able to understand context but the answer quality is just amazing and everything is in just depth, it uses points also but they are much better explained than GPT. Also the free version limit is just getting frustrating now in GPT and extremely long wait time for images, it has gotten so bad that I never though I would completely uninstall GPT and prefer gemini over it.
-
-8h ago
 
 ---
 
@@ -119,6 +119,14 @@ AI coding tools are getting more sophisticated. But if coders stop coding, what 
 
 ## Google News: "ai"
 
+**[How AI assistance impacts the formation of coding skills](https://www.anthropic.com/research/AI-assistance-coding-skills)**
+
+Anthropic is an AI safety and research company that's working to build reliable, interpretable, and steerable AI systems.
+
+Anthropic • 3d ago
+
+---
+
 **[AI-altered photos and videos of Minneapolis shootings blur reality](https://www.nbcnews.com/tech/tech-news/ai-altered-photos-videos-minneapolis-shootings-blur-reality-rcna256552)**
 
 Social media users are trying to use AI to get clearer images and videos of the Minneapolis shootings but are instead misleading millions.
@@ -127,9 +135,27 @@ NBC News • 9h ago
 
 ---
 
-**[AI Boom Is Triggering a Loan Meltdown for Software Companies: Credit Weekly](https://www.bloomberg.com/news/articles/2026-01-31/ai-boom-is-triggering-a-loan-meltdown-for-software-companies-credit-weekly)**
+**["We're in the singularity": New AI platform skips the humans entirely](https://www.axios.com/2026/01/31/ai-moltbook-human-need-tech)**
 
-Bloomberg.com • 23h ago
+It's not science fiction. It's happening right now — and it's freaking out some of the smartest names in artificial intelligence.
+
+Axios • 1d ago
+
+---
+
+**[A Once-in-a-Decade Investment Opportunity: 1 Artificial Intelligence (AI) Semiconductor Stock That Could Go Parabolic in 2026 (Hint: It's Not Nvidia)](https://finance.yahoo.com/news/once-decade-investment-opportunity-1-184600976.html)**
+
+Advanced Micro Devices is swiftly becoming a major source of parallel processing power for hyperscalers.
+
+Yahoo Finance • 59m ago
+
+---
+
+**[Apple Leadership Is Quietly Getting AI-Pilled, Report Claims](https://gizmodo.com/apple-leadership-is-quietly-getting-ai-pilled-report-claims-2000716353)**
+
+Is Apple getting ready for its big AI push?
+
+Gizmodo • 8m ago
 
 ---
 
@@ -141,20 +167,6 @@ Fox News • 1h ago
 
 ---
 
-**[Polymarket Says 70% Chance An MoltBook AI Agent Sues A Human](https://www.forbes.com/sites/digital-assets/2026/02/01/polymarket-says-70-chance-an-moltbook-ai-agent-sues-a-human/)**
-
-Forbes • 1h ago
-
----
-
-**[Video Protecting your kids from AI chatbots and racial bullying](https://abcnews.go.com/Technology/video/protecting-kids-ai-chatbots-racial-bullying-129752229)**
-
-Dr. Ryana Elyse Anderson, a clinical psychologist and associate professor at Columbia University's School of Social Work, highlights the dangers.
-
-ABC News • 1h ago
-
----
-
 **[Google helped Israeli military contractor with AI, whistleblower alleges](https://www.washingtonpost.com/technology/2026/02/01/google-ai-israel-military/)**
 
 A whistleblower complaint filed with the SEC claims that Google breached its own ethics rules to help an Israeli contractor apply AI to drone surveillance video.
@@ -163,9 +175,9 @@ The Washington Post • 1h ago
 
 ---
 
-**[Opinion | Pay More Attention to A.I.](https://www.nytimes.com/2026/01/31/opinion/artificial-intelligence-new-world.html)**
+**[Opinion | Students Are Skipping the Hardest Part of Growing Up](https://www.nytimes.com/2026/01/30/opinion/ai-social-skills-relationships.html)**
 
-The New York Times • 1d ago
+The New York Times • 2d ago
 
 ---
 
@@ -177,17 +189,9 @@ Financial Times • 14h ago
 
 ---
 
-**[AI’s Fundraising Frenzy Continues](https://www.wsj.com/tech/ai/ais-fundraising-frenzy-continues-911af613?gaa_at=eafs&gaa_n=AWEtsqeMy2AlE2COJ8jHm9WF83zCKnWgo-7Lm0x_-VHGHf9h1fY4OHv7NMNC&gaa_ts=697fa0be&gaa_sig=HX2HW2YwQ4H3dcBBo6qNgsiZqGqSLY3Pk_YwxuPVlFu2pI33ZJ3i1pKrMsR83ndOltYbepim2PAZ-DOn5l1I2g%3D%3D)**
+**[Vibe Coding Startup Cognition Mints A New AI Billionaire](https://www.forbes.com/sites/richardnieva/2026/01/31/vibe-coding-startup-cognition-mints-another-ai-billionaire/)**
 
-The Wall Street Journal • 4h ago
-
----
-
-**[How AI assistance impacts the formation of coding skills](https://www.anthropic.com/research/AI-assistance-coding-skills)**
-
-Anthropic is an AI safety and research company that's working to build reliable, interpretable, and steerable AI systems.
-
-Anthropic • 2d ago
+Forbes • 1d ago
 
 ---
 
@@ -199,7 +203,7 @@ Anthropic • 2d ago
 
 Anthropic is an AI safety and research company that's working to build reliable, interpretable, and steerable AI systems.
 
-⬆️ 465 • 💬 338 • 2d ago • [anthropic.com](https://www.anthropic.com/research/AI-assistance-coding-skills)
+⬆️ 465 • 💬 339 • 2d ago • [anthropic.com](https://www.anthropic.com/research/AI-assistance-coding-skills)
 
 ---
 
@@ -215,7 +219,7 @@ AI assistance produces significant productivity gains across professional domain
 
 Like many organizations, Wiki Education has grappled with generative AI, its impacts, opportunities, and threats, for several years. As an organization that runs large-scale programs to bring new e…
 
-⬆️ 206 • 💬 100 • 22h ago • [Wiki Education](https://wikiedu.org/blog/2026/01/29/generative-ai-and-wikipedia-editing-what-we-learned-in-2025/)
+⬆️ 214 • 💬 100 • 22h ago • [Wiki Education](https://wikiedu.org/blog/2026/01/29/generative-ai-and-wikipedia-editing-what-we-learned-in-2025/)
 
 ---
 
@@ -255,7 +259,7 @@ Under Donald Trump, the White House has filled its social media with memes, wish
 
 Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.
 
-⬆️ 103 • 💬 34 • 1d ago • [youtube.com](https://www.youtube.com/watch?v=7fNYj0EXxMs)
+⬆️ 104 • 💬 34 • 1d ago • [youtube.com](https://www.youtube.com/watch?v=7fNYj0EXxMs)
 
 ---
 
@@ -295,7 +299,7 @@ Nathan Lambert and Sebastian Raschka are machine learning researchers, engineers
 
 📺 Lex Fridman
 
-👁️ 204K • 👍 6K • 💬 441 • ⏱️ 4:25:13 • 20h ago
+👁️ 204K • 👍 6K • 💬 441 • ⏱️ 4:25:13 • 21h ago
 
 ---
 
@@ -325,7 +329,7 @@ My AI song 'Isugaku Never Say Goodbye' has officially gone viral… What the BAL
 
 📺 Steve Terreberry
 
-👁️ 134K • 👍 12K • 💬 2K • ⏱️ 15:27 • 18h ago
+👁️ 134K • 👍 12K • 💬 2K • ⏱️ 15:27 • 19h ago
 
 ---
 

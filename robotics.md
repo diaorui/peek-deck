@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-02-01T19:25:18.315408+00:00'
+updated: '2026-02-01T19:45:58.874762+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
 - social
-- news
 - videos
+- news
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** February 01, 2026 at 19:25 UTC  
+**Last Updated:** February 01, 2026 at 19:45 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -54,11 +54,19 @@ I hadn't seen the whole video yesterday when I posted it. From The Humanoid Hub 
 
 ---
 
+**[ICRA-IROS Transfer](https://www.reddit.com/r/robotics/comments/1qt2hih/icrairos_transfer/)**
+
+Hello fellow roboticists, I have had a paper rejected from ICRA, and i'm planning to submit it to IROS. I have a question about the ICRA/IROS transfer process. This year they introduced a mechanism to transfer rejected papers along with the authors responses to reviewers to IROS. How does it work, and for those who experienced this during IROS2025, what has your overall experience been with it?
+
+3h ago
+
+---
+
 **[Portable offline llm robot I made last night. This is obviously her naked prototype body so be nice to her](https://www.reddit.com/r/robotics/comments/1qsexfy/portable_offline_llm_robot_i_made_last_night_this/)**
 
 The real meat and potatoes: I made this as a modular brain for my other robots I built recently. Right now I’m building her a tiny combat robot body so I can’t wait to program her fight moves. Already slightly tested it but just to get her to stand in a T pose then relax all motors after 5 seconds to get an idea of how to map her body. That was when I used a pi zero tho so more work is definitely needed. After that I need to completely redesign her casing. It’s literally made from an outer frame I printed in a rush and a piece of plastic that held her oled screen in the packaging.
 
-21h ago
+22h ago
 
 ---
 
@@ -102,14 +110,6 @@ From: CyberRobo on 𝕏: https://x.com/CyberRobooo/status/2017544750694551618 Ro
 
 ---
 
-**[Parkour in the Wild -- ANYmal robot at ETH](https://www.reddit.com/r/robotics/comments/1qstmf6/parkour_in_the_wild_anymal_robot_at_eth/)**
-
-Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.
-
-🔗 [youtube.com](https://www.youtube.com/watch?v=QDU_FicBPDo) • 10h ago
-
----
-
 ---
 
 ## Google News: "robotics"
@@ -120,17 +120,11 @@ Zacks Investment Research • 2d ago
 
 ---
 
-**[Canfield robotics team preps for competition](https://www.wkbn.com/news/local-news/canfield-news/canfield-robotics-team-preps-for-competition/)**
-
-WKBN.com • 1h ago
-
----
-
 **[Elon Musk is stressing robots over cars. Here are three humanoid parts suppliers that Morgan Stanley recommends](https://www.cnbc.com/2026/02/01/musk-is-stressing-robots-over-cars-these-suppliers-make-humanoid-parts.html)**
 
 Morgan Stanley analysts highlight stocks of companies that sell specialized robotics parts.
 
-CNBC • 5h ago
+CNBC • 6h ago
 
 ---
 
@@ -142,11 +136,11 @@ South China Morning Post • 13h ago
 
 ---
 
-**[Tesla Reorients From Premium EVs To Optimus Robots And xAI Future](https://finance.yahoo.com/news/tesla-reorients-premium-evs-optimus-061806827.html)**
+**[China rolls out robot cops in cities to push humanoid robots in daily life](https://www.nbcnews.com/video/china-rolls-out-robot-cops-in-cities-to-push-humanoid-robots-in-daily-life-256872517804)**
 
-Tesla is shifting away from Model S and Model X production to focus on mass manufacturing its Optimus humanoid robots, repurposing its California factory for this new line. The company is expanding its autonomous technology efforts and committing $2b to Elon Musk's AI startup xAI. Rumors are circulating about a potential merger between Tesla and either SpaceX or xAI, which could reshape the group structure around AI, robotics, and autonomy. Tesla, NasdaqGS:TSLA, is trading at $416.56, with...
+China is deploying AI-powered robots to manage traffic and pedestrian flow in cities. NBC News’ Janis Mackey Frayer explains how China continues to advance robot technology and is pushing to integrate humanoid robots into daily life.
 
-Yahoo Finance • 2d ago
+NBC News • 2d ago
 
 ---
 
@@ -161,6 +155,12 @@ Bloomberg.com • 3d ago
 Team Arsenic took second place at the recent ROBO-BASH in Bellingham, earning fifth place in the world.
 
 Everett Herald • 2d ago
+
+---
+
+**[Canfield robotics team preps for competition](https://www.wkbn.com/news/local-news/canfield-news/canfield-robotics-team-preps-for-competition/)**
+
+WKBN.com • 1h ago
 
 ---
 

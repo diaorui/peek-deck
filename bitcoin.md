@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-02-01T19:25:18.307457+00:00'
+updated: '2026-02-01T19:45:58.866825+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- cryptocurrency
 - social
-- news
 - videos
+- news
+- cryptocurrency
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** February 01, 2026 at 19:25 UTC  
+**Last Updated:** February 01, 2026 at 19:45 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,17 +38,17 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $78,093.46
+### $77,636.24
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** +0.5%  
-**7d:** -11.5%  
-**30d:** -13.8%  
-**90d:** -23.2%  
-**1y:** -20.0%  
+**24h:** -0.7%  
+**7d:** -12.3%  
+**30d:** -14.6%  
+**90d:** -23.8%  
+**1y:** -20.7%  
 
 ---
 
@@ -93,17 +93,23 @@ Told myself I'd buy if it dropped below 80k. So putting my money where my mouth 
 
 ---
 
+**[Hear Me Out](https://www.reddit.com/r/Bitcoin/comments/1qsuecx/hear_me_out/)**
+
+Best Case Scenario - BTC will test 92K, if it breaks it will set a new ATH. Worst Case Scenario - If it loses 50K support, cheap BTC incoming. Regardless, in my experience (since 2015), unless you are an extremely smart person with excellent TA skills supported by a crystal ball, u cannot time the market. DCA, ignore your short term losses. Overall, you will make it. In 2017, I lost a significant amount of money. In 2021, I made a decent profit. I didn’t exit, continue to DCA. Thats my forever strategy that always pays on the long run. Ignore hopium and negative comments. Focus on your bag. Don’t FOMO, don’t panic sell. Aim for profits. Edit: This post is not intended to give anyone any advice. Also, this is not a price prediction. We are all responsible adults who can think and make decisions. This post is intended to provide reassurances to those that might feel worried. I am in no position to provide financial help and guidance. However, I can humbly share my own experiences to comfort new traders.
+
+9h ago
+
+---
+
 **[Evergreen just like BTC!](https://www.reddit.com/r/Bitcoin/comments/1qs6sj1/evergreen_just_like_btc/)**
 
 1d ago
 
 ---
 
-**[Hear Me Out](https://www.reddit.com/r/Bitcoin/comments/1qsuecx/hear_me_out/)**
+**[Wipe away those tears and just enjoy the ride](https://www.reddit.com/r/Bitcoin/comments/1qt42s7/wipe_away_those_tears_and_just_enjoy_the_ride/)**
 
-Best Case Scenario - BTC will test 92K, if it breaks it will set a new ATH. Worst Case Scenario - If it loses 50K support, cheap BTC incoming. Regardless, in my experience (since 2015), unless you are an extremely smart person with excellent TA skills supported by a crystal ball, u cannot time the market. DCA, ignore your short term losses. Overall, you will make it. In 2017, I lost a significant amount of money. In 2021, I made a decent profit. I didn’t exit, continue to DCA. Thats my forever strategy that always pays on the long run. Ignore hopium and negative comments. Focus on your bag. Don’t FOMO, don’t panic sell. Aim for profits. Edit: This post is not intended to give anyone any advice. Also, this is not a price prediction. We are all responsible adults who can think and make decisions. This post is intended to provide reassurances to those that might feel worried. I am in no position to provide financial help and guidance. However, I can humbly share my own experiences to comfort new traders.
-
-9h ago
+2h ago
 
 ---
 
@@ -121,15 +127,9 @@ I'm not wasting these cheap stacks. HODL and BUY!
 
 ---
 
-**[Big milestone!](https://www.reddit.com/r/Bitcoin/comments/1qsh4nh/big_milestone/)**
+**[Bitcoin Miner](https://www.reddit.com/r/Bitcoin/comments/1qt51op/bitcoin_miner/)**
 
-Took advantage of the plummet to get myself over the 0.5 mark!! I know this is small for some and big for others, but I’m quite happy with this! Just wanted to share with others who’d understand - nobody in my life cares lol.
-
-20h ago
-
----
-
-**[Wipe away those tears and just enjoy the ride](https://www.reddit.com/r/Bitcoin/comments/1qt42s7/wipe_away_those_tears_and_just_enjoy_the_ride/)**
+Got my mining rig working overtime today!
 
 2h ago
 
@@ -143,11 +143,11 @@ Just started investing in BTC yesterday evening. Purchased my initial batch at 6
 
 ---
 
-**[Bitcoin Miner](https://www.reddit.com/r/Bitcoin/comments/1qt51op/bitcoin_miner/)**
+**[Big milestone!](https://www.reddit.com/r/Bitcoin/comments/1qsh4nh/big_milestone/)**
 
-Got my mining rig working overtime today!
+Took advantage of the plummet to get myself over the 0.5 mark!! I know this is small for some and big for others, but I’m quite happy with this! Just wanted to share with others who’d understand - nobody in my life cares lol.
 
-1h ago
+20h ago
 
 ---
 
@@ -183,15 +183,17 @@ Forbes • 21h ago
 
 ---
 
-**[Bitcoin, XRP, Ethereum Fall on News of Kevin Warsh Fed Appointment.](https://www.barrons.com/articles/bitcoin-xrp-ethereum-crypto-today-954298d9?gaa_at=eafs&gaa_n=AWEtsqdscBRwliseqHIZnwaAd1cCZgi3YRy-tUwXJFQ8UBG73XHqbVRUJS4x&gaa_ts=697fa0c0&gaa_sig=297PUaFq4ns4a_t7PidPcj2l83lMr_A5cSSAYlkffGzG6oyp92JzPr-kKxj_eaVJC_Sc0o4N6jld38R1amBb-w%3D%3D)**
+**[Bitcoin, XRP, Ethereum Fall on News of Kevin Warsh Fed Appointment.](https://www.barrons.com/articles/bitcoin-xrp-ethereum-crypto-today-954298d9?gaa_at=eafs&gaa_n=AWEtsqf8ot_r7ka2l27ctgQjODoFUVGbA80Cf9wtNUt0J0ThgiGmsHiAWJD0&gaa_ts=697fb0e0&gaa_sig=epgF5JZBSfGGEsuAHBG6ysgdM9Pj97gkxGogXq4SJ_WrtZGb7WmP48YjtHBxbSVfB1rIkrqFAThvsI8lTfBYLA%3D%3D)**
 
 Barron's • 2d ago
 
 ---
 
-**[Bitcoin Slumps to Two-Month Low as US Funds Shed Billions](https://www.bloomberg.com/news/articles/2026-01-30/bitcoin-btc-slumps-to-two-month-low-as-us-funds-shed-billions)**
+**[Kevin Warsh: Markets React as Pro-Bitcoin Economist Tipped for Fed](https://finance.yahoo.com/news/kevin-warsh-markets-react-pro-122358756.html)**
 
-Bloomberg.com • 1d ago
+Only yesterday, we explained how Donald Trump runs his White House like a reality TV competition. Nominees for high office are turned into contestants vying for his approval, and the frontrunner could switch at any minute.Lo and behold, that’s exactly what’s happened in the race to become the next chairman ...
+
+Yahoo Finance • 2d ago
 
 ---
 
@@ -219,11 +221,11 @@ The Motley Fool • 2d ago
 
 ---
 
-**[Strategy Stock ($MSTR) Hits 52-Week Low As Bitcoin Craters Below $84,000](https://bitcoinmagazine.com/markets/strategy-stock-mstr-hits-52-week-low)**
+**[Where is Donald Trump’s strategic Bitcoin reserve?](https://www.fastcompany.com/91482053/where-is-donald-trumps-strategic-bitcoin-reserve)**
 
-Shares of Strategy ($MSTR) dropped as low as 12% today, currently trading at $140.88 and hitting a session low of $140.25.
+The government seems to be amassing more Bitcoin. But little work seems to be happening to enact the terms of the executive order Trump signed to start the 'strategic reserve.'
 
-Bitcoin Magazine • 3d ago
+Fast Company • 3d ago
 
 ---
 
@@ -345,7 +347,7 @@ When Will the Current U.S. Government Shutdown End?
 
 📺 CryptosRUs
 
-👁️ 67K • 👍 3K • 💬 995 • ⏱️ 11:12 • 17h ago
+👁️ 67K • 👍 3K • 💬 995 • ⏱️ 11:12 • 18h ago
 
 ---
 
@@ -375,7 +377,7 @@ Let's be honest, most people were more than happy to slam the door on 2025. On p
 
 📺 Coin Bureau
 
-👁️ 25K • 👍 1K • 💬 83 • ⏱️ 21:27 • 6h ago
+👁️ 25K • 👍 1K • 💬 83 • ⏱️ 21:27 • 7h ago
 
 ---
 
@@ -385,7 +387,7 @@ BTC #Bitcoin #Cryptocurrency Join Michael Saylor for his unforgettable keynote a
 
 📺 TheGameBoyGeek - Hi Quality Hi Energy Board Game Reviews
 
-👁️ 76K • 👍 8K • 14h ago
+👁️ 76K • 👍 8K • 15h ago
 
 ---
 
