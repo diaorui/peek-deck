@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-02-01T22:52:48.591285+00:00'
+updated: '2026-02-01T23:26:45.111274+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- social
-- videos
 - news
+- videos
+- social
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** February 01, 2026 at 22:52 UTC  
+**Last Updated:** February 01, 2026 at 23:26 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -36,7 +36,7 @@ Robotics research and industry news
 
 From DEEP Robotics on 𝕏: https://x.com/DeepRobotics_CN/status/2017114429360656740
 
-11h ago
+12h ago
 
 ---
 
@@ -44,7 +44,7 @@ From DEEP Robotics on 𝕏: https://x.com/DeepRobotics_CN/status/201711442936065
 
 I hadn't seen the whole video yesterday when I posted it. From The Humanoid Hub on 𝕏: https://x.com/TheHumanoidHub/status/2017646098136141858
 
-18h ago
+19h ago
 
 ---
 
@@ -52,13 +52,13 @@ I hadn't seen the whole video yesterday when I posted it. From The Humanoid Hub 
 
 Hi everyone, We are the team behind NormaCore, a unified toolkit designed to fix the fragmented workflow of building physical systems. While our goal is a complete ecosystem (unified API, visual tooling, and high-performance data pipelines), we believe in releasing early and often. Developer experience is at the core of our design philosophy. We got tired of hacking together disjointed tools, so we’re building a foundation that handles everything from complex robotics to distributed sensor networks. To kick off our open-source release cycle, we’re sharing the Parallel Jaw Gripper. It’s a part of a larger 7+1 DoF arm we are refining to bring high-end research robotics to makers and hobby projects. Fully 3D printed and SO101 compatible, the gripper features modular camera mounts and requires zero extra hardware assembly relies entirely on standard motor kit parts. We’d love your feedback on the design and the tooling behind it
 
-🔗 [GitHub](https://github.com/norma-core/norma-core/blob/main/hardware/pgripper/README.md) • 1h ago
+🔗 [GitHub](https://github.com/norma-core/norma-core/blob/main/hardware/pgripper/README.md) • 2h ago
 
 ---
 
 **[The future of remote workers?](https://www.reddit.com/r/robotics/comments/1qsmoj2/the_future_of_remote_workers/)**
 
-19h ago
+20h ago
 
 ---
 
@@ -66,7 +66,7 @@ Hi everyone, We are the team behind NormaCore, a unified toolkit designed to fix
 
 Hello fellow roboticists, I have had a paper rejected from ICRA, and i'm planning to submit it to IROS. I have a question about the ICRA/IROS transfer process. This year they introduced a mechanism to transfer rejected papers along with the authors responses to reviewers to IROS. How does it work, and for those who experienced this during IROS2025, what has your overall experience been with it?
 
-6h ago
+7h ago
 
 ---
 
@@ -82,7 +82,7 @@ The real meat and potatoes: I made this as a modular brain for my other robots I
 
 Young PhD in Computer vision / Robotics here. I have recently read a post of Marie-Anne Lachaux, founding engineer of Llama and Mistral AI, talking about keys of success in research. One of them was « Have good intuition » to reduce the world of possibilities and dig into the right direction. How do you develop this intuition in research, especially in AI and Robotics?
 
-9h ago
+10h ago
 
 ---
 
@@ -104,7 +104,7 @@ Day:30 1- Base body and MCU from Sunfounder 2-Built over raspberry pi5 and power
 
 Saw this one at Wuhu train station in China. Answers questions at a desk. It looks like it has a lot of ability but it otherwise doesn't move at all. Even when you ask it to wave it says "sure, here's a friendly wave" but doesn't move an inch.
 
-20h ago
+21h ago
 
 ---
 
@@ -116,7 +116,7 @@ Saw this one at Wuhu train station in China. Answers questions at a desk. It loo
 
 FIRST's board of directors says it has hired a law firm to review Kamen's ties to Epstein, days after newly released documents show the two men shared a relationship over a number of years.
 
-New Hampshire Public Radio • 4h ago
+New Hampshire Public Radio • 5h ago
 
 ---
 
@@ -150,7 +150,7 @@ Everett Herald • 2d ago
 
 **[Canfield robotics team preps for competition](https://www.wkbn.com/news/local-news/canfield-news/canfield-robotics-team-preps-for-competition/)**
 
-WKBN.com • 4h ago
+WKBN.com • 5h ago
 
 ---
 
@@ -194,7 +194,7 @@ XPENG just took a massive step forward in humanoid robotics. The New IRON robot 
 
 📺 DPCcars
 
-👁️ 6K • 👍 82 • 💬 22 • ⏱️ 1:21 • 1d ago
+👁️ 7K • 👍 85 • 💬 24 • ⏱️ 1:21 • 1d ago
 
 ---
 
@@ -204,7 +204,7 @@ Humanoid robotics just took a massive leap into the real world. Researchers in C
 
 📺 AI Revolution
 
-👁️ 109K • 👍 1K • 💬 266 • ⏱️ 14:25 • 1d ago
+👁️ 114K • 👍 1K • 💬 278 • ⏱️ 14:25 • 1d ago
 
 ---
 
@@ -214,17 +214,17 @@ China is deploying AI-powered robots to manage traffic and pedestrian flow in ci
 
 📺 NBC News
 
-👁️ 710K • 👍 6K • 💬 2K • ⏱️ 3:13 • 2d ago
+👁️ 724K • 👍 6K • 💬 2K • ⏱️ 3:13 • 2d ago
 
 ---
 
-**[Introducing Helix 02](https://www.youtube.com/watch?v=lQsvTrRTBRs)**
+**[🔬 Sony’s Microsurgery Robot Prototype: Scaled Hand Control, Auto Tool Swaps, and 4K Precision](https://www.youtube.com/watch?v=OsEDfzhhAiA)**
 
-Last year, Helix showed that a single neural network could control a humanoid's upper body from pixels. Today, Helix 02 extends ...
+This is Sony's prototype microsurgery assistance robot, designed for operations where human hands reach their physical limits.
 
-📺 Figure
+📺 Fact
 
-👁️ 213K • 👍 12K • 💬 2K • ⏱️ 3:37 • 5d ago
+👁️ 10K • 👍 112 • 💬 4 • ⏱️ 0:06 • 7h ago
 
 ---
 
@@ -238,24 +238,6 @@ Andrea Nakano reports on the Tesla Fremont factory ending Model S/X production a
 
 ---
 
-**[🔬 Sony’s Microsurgery Robot Prototype: Scaled Hand Control, Auto Tool Swaps, and 4K Precision](https://www.youtube.com/watch?v=OsEDfzhhAiA)**
-
-This is Sony's prototype microsurgery assistance robot, designed for operations where human hands reach their physical limits.
-
-📺 Fact
-
-👁️ 5K • 👍 91 • 💬 4 • ⏱️ 0:06 • 6h ago
-
----
-
-**[Figure upgrades its humanoid robot with new finger sensors. Real dexterity is coming. #AI #technews](https://www.youtube.com/watch?v=GS1zde45f7I)**
-
-📺 Ryan Shaw
-
-👁️ 5K • 👍 59 • 💬 3 • ⏱️ 1:03 • 19h ago
-
----
-
 **[Make Your Own Cute Dasai Mochi Robot🤖 | #ashwinprojects #AltiumStudentLab](https://www.youtube.com/watch?v=KsDxCDsoWMk)**
 
 Make Your Own Cute Dasai Mochi Robot   | #ashwinprojects #AltiumStudentLab Accelerate Your Career in Electronics Design ...
@@ -266,21 +248,41 @@ Make Your Own Cute Dasai Mochi Robot   | #ashwinprojects #AltiumStudentLab Accel
 
 ---
 
-**[This Robot Produces Speech the Human Way 😮](https://www.youtube.com/watch?v=L0M5fs_phpA)**
+**[World’s First Intelligent Grain Leveling Robot | AI‑Powered Unmanned Grain Storage Revolution #robot](https://www.youtube.com/watch?v=u2GVlWZG078)**
 
-This Robot Produces Speech the Human Way This system generates speech using physical movement rather than digital ...
+World's First Intelligent Grain Leveling Robot is Here And It's Changing The Future Of Grain Storage Forever. For the first time in ...
 
-📺 MrScoopz
+📺 Future Lens Pi
 
-👁️ 148K • 👍 2K • 💬 95 • ⏱️ 0:05 • 8h ago
+👁️ 30K • 💬 14 • ⏱️ 0:08 • 14h ago
 
 ---
 
-**[Drag-and-drop welding robot.#industrial #welding #robot #spraying #stamping](https://www.youtube.com/watch?v=b8vufpXa21Q)**
+**[Figure upgrades its humanoid robot with new finger sensors. Real dexterity is coming. #AI #technews](https://www.youtube.com/watch?v=GS1zde45f7I)**
 
-📺 Borunte Robot Lin 
+📺 Ryan Shaw
 
-👁️ 32K • 👍 86 • ⏱️ 0:22 • 1d ago
+👁️ 5K • 👍 62 • 💬 3 • ⏱️ 1:03 • 20h ago
+
+---
+
+**[Why AI Pizza Machines Are Actually Worrying Workers 🍕](https://www.youtube.com/watch?v=U7tlOl7s3ns)**
+
+Some people are getting concerned because automatic AI pizza-making machines are slowly appearing on streets worldwide.
+
+📺 Taylor Jollie
+
+👁️ 22K • 👍 117 • 💬 12 • ⏱️ 0:19 • 3d ago
+
+---
+
+**[ChatGPT in a kids robot does exactly what experts warned.](https://www.youtube.com/watch?v=LF4o4Z01Q0I)**
+
+AI in a kids toy does what experts warned. Can we trust AI? Get Inside AI's exclusive Nord VPN deal here: ...
+
+📺 InsideAI
+
+👁️ 265K • 👍 14K • 💬 2K • ⏱️ 15:47 • 1d ago
 
 ---
 

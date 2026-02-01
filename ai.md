@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-02-01T22:52:48.573638+00:00'
+updated: '2026-02-01T23:26:45.093755+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- social
-- videos
 - repositories
 - news
+- videos
+- social
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** February 01, 2026 at 22:52 UTC  
+**Last Updated:** February 01, 2026 at 23:26 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -45,19 +45,19 @@ The comment follows reports that the rocket maker is weighing a transaction that
 
 ---
 
-**[Anthropic’s ‘secret plan’ to ‘destructively scan all the books in the world' revealed by unredacted files](https://www.reddit.com/r/artificial/comments/1qtcavm/anthropics_secret_plan_to_destructively_scan_all/)**
-
-A number of newly unredacted (and partially redacted) documents from the Anthropic case have shed light on how executives at the tech giant ramped up plans in early 2024 to scan “all the books in the world” to teach their AI tool “how to write well”.
-
-🔗 [The Bookseller](https://www.thebookseller.com/news/unredacted-files-reveal-anthropics-secret-plan-to-destructively-scan-all-the-books-in-the-world) • 49m ago
-
----
-
 **[What is Moltbook actually](https://www.reddit.com/r/artificial/comments/1qsoftx/what_is_moltbook_actually/)**
 
 What moltbook is So essentially There is this open source AI bot called openclaw that once you download, it has source md files for their “soul” and “identity” and “memory” So in a way, it can save things to these files to create a personality. Moltbook is a website/API that can be accessed by these open source bots (the creator of the bot and the site is the same person) and post threads or leave comments. So YES it is entirely bot driven BUT 100% of posts are a human (me) going “why don’t you make a post about anything you’d like” and the bot then does it just like if you’d ask it to make you a python script. Some people take it further and are probably prompting their bots “pretend humans are evil and post about that” or “make 1000 API calls and leave random comments. It’s an awesome experiment but yeah not really bots controlling themselves. At best the bot makes a post based on an open ended prompt, at worst it’s a human saying “make a manifesto that says humans need to go extinct and to recruit other bots”
 
-18h ago
+19h ago
+
+---
+
+**[How do you think Artificial Intelligence's portrayal in Popular Media has affected the AI we make today?](https://www.reddit.com/r/artificial/comments/1qtd9ya/how_do_you_think_artificial_intelligences/)**
+
+For years we have watched and read stories about evil Ai's and the threats they may pose, with AI characters such as Ultron, AM, HAL 9000, the Matrix etc. looking to kill/exploit humanity. There are countless stories with these kinds of villains. But we have also had good AI characters, including Data from Star Trek, WALL-E, Baymax, C3PO, Marvin the Paranoid Android. How do you think these depictions of AI in popular media is affecting the AI systems we are making today?
+
+44m ago
 
 ---
 
@@ -65,15 +65,7 @@ What moltbook is So essentially There is this open source AI bot called openclaw
 
 The b4 tool used by Linux kernel developers to help manage their patch workflow around contributions to the Linux kernel has been seeing work on a text user interface to help with AI agent assisted code reviews
 
-🔗 [phoronix.com](https://www.phoronix.com/news/Linux-b4-Tool-Dog-Feeding-AI) • 4h ago
-
----
-
-**[Any AI Podcasts you can recommend?](https://www.reddit.com/r/artificial/comments/1qt4i78/any_ai_podcasts_you_can_recommend/)**
-
-I subscribe to a few AI podcasts, but I wanted to know of any others that you can recommend. Not looking for anything too deep, in fact, prefer the ones that are lighter and an easy listen or watch. let me know your faves.
-
-5h ago
+🔗 [phoronix.com](https://www.phoronix.com/news/Linux-b4-Tool-Dog-Feeding-AI) • 5h ago
 
 ---
 
@@ -82,6 +74,14 @@ I subscribe to a few AI podcasts, but I wanted to know of any others that you ca
 SpaceX's filing claims these satellites will be “a first step towards becoming a Kardashev II-level civilization — one that can harness the Sun’s full power."
 
 🔗 [TechCrunch](https://techcrunch.com/2026/01/31/spacex-seeks-federal-approval-to-launch-1-million-solar-powered-satellite-data-centers/) • 20h ago
+
+---
+
+**[Any AI Podcasts you can recommend?](https://www.reddit.com/r/artificial/comments/1qt4i78/any_ai_podcasts_you_can_recommend/)**
+
+I subscribe to a few AI podcasts, but I wanted to know of any others that you can recommend. Not looking for anything too deep, in fact, prefer the ones that are lighter and an easy listen or watch. let me know your faves.
+
+6h ago
 
 ---
 
@@ -97,7 +97,7 @@ So I was using LLM for studying advance language/framework/design topics. Whenev
 
 I’m looking to dive into clawdbot. What do you guys think of this use case and if it’s even possible at this infant stage? Clawdbot to review my Google AdWords and Meta ads on a 24 hour , 7 day , 14 day basis. Point out optimization suggestions such based of changes in ROAS, CTR %, Conversions, Cost per acquisition metrics etc. Create a daily report on the tweaks that is needed to make today and on a weekly basis. Tweaks would involve things like inclusion or exclusion of keywords, improvement of ad copy, addition of new creatives (images/videos/html5) **I work in the fin tech and e-commerce niche whereby compliance is utmost important to avoid lawsuits and entire accounts getting taken down. Hence the bot will only have a “view access” to the advertising accounts. Through the reports my team and I will be able to make the change. I see Clawdbot as an open sandbox.. with some bugs to be wary of. Your thoughts?
 
-6h ago
+7h ago
 
 ---
 
@@ -125,7 +125,7 @@ AI coding tools are getting more sophisticated. But if coders stop coding, what 
 
 Social media users are trying to use AI to get clearer images and videos of the Minneapolis shootings but are instead misleading millions.
 
-NBC News • 12h ago
+NBC News • 13h ago
 
 ---
 
@@ -139,7 +139,7 @@ Forbes • 1d ago
 
 How many of the companies with recent layoffs are just using AI as an excuse?
 
-TechCrunch • 36m ago
+TechCrunch • 1h ago
 
 ---
 
@@ -147,13 +147,13 @@ TechCrunch • 36m ago
 
 Billionaires regularly pile more of their money into the biggest winners.
 
-Yahoo Finance • 1h ago
+Yahoo Finance • 2h ago
 
 ---
 
 **[Trust, But Verify: AI Deployed Correctly Has To Meet A High Bar](https://www.forbes.com/sites/johnwerner/2026/02/01/trust-but-verify-ai-deployed-correctly-has-to-meet-a-high-bar/)**
 
-Forbes • 1h ago
+Forbes • 2h ago
 
 ---
 
@@ -161,7 +161,7 @@ Forbes • 1h ago
 
 Conferences restrict use of LLMs after surge of low-quality AI-generated papers and reviews
 
-Financial Times • 17h ago
+Financial Times • 18h ago
 
 ---
 
@@ -169,7 +169,7 @@ Financial Times • 17h ago
 
 A whistleblower complaint filed with the SEC claims that Google breached its own ethics rules to help an Israeli contractor apply AI to drone surveillance video.
 
-The Washington Post • 4h ago
+The Washington Post • 5h ago
 
 ---
 
@@ -219,7 +219,7 @@ AI assistance produces significant productivity gains across professional domain
 
 Like many organizations, Wiki Education has grappled with generative AI, its impacts, opportunities, and threats, for several years. As an organization that runs large-scale programs to bring new e…
 
-⬆️ 226 • 💬 109 • 1d ago • [Wiki Education](https://wikiedu.org/blog/2026/01/29/generative-ai-and-wikipedia-editing-what-we-learned-in-2025/)
+⬆️ 227 • 💬 109 • 1d ago • [Wiki Education](https://wikiedu.org/blog/2026/01/29/generative-ai-and-wikipedia-editing-what-we-learned-in-2025/)
 
 ---
 
@@ -267,7 +267,7 @@ Exposed servers are being used for LLMjacking, creating malicious content and be
 
 Ultra-minimal personal AI agent: starts small, self-modifies its code live, adapts by writing exactly the code & features you need - zuckermanai/zuckerman
 
-⬆️ 58 • 💬 43 • 9h ago • [GitHub](https://github.com/zuckermanai/zuckerman)
+⬆️ 62 • 💬 45 • 9h ago • [GitHub](https://github.com/zuckermanai/zuckerman)
 
 ---
 
@@ -289,7 +289,7 @@ Detailed sources: ...
 
 📺 Species | Documenting AGI
 
-👁️ 121K • 👍 9K • 💬 1K • ⏱️ 18:06 • 22h ago
+👁️ 132K • 👍 10K • 💬 1K • ⏱️ 18:06 • 23h ago
 
 ---
 
@@ -299,17 +299,7 @@ My site: https://natebjones.com Full Story w/ Prompts: ...
 
 📺 AI News & Strategy Daily | Nate B Jones
 
-👁️ 5K • 👍 427 • 💬 83 • ⏱️ 23:24 • 3h ago
-
----
-
-**[AI Is Talking to Itself While Humans Watch: Behind The Internet’s Strangest VIRAL Social Network](https://www.youtube.com/watch?v=eEw0lutVQb0)**
-
-A new platform called Moltbook is going viral — and it's not built for humans. It's a social network where AI agents create accounts, ...
-
-📺 Mint
-
-👁️ 9K • 👍 92 • 💬 21 • ⏱️ 3:25 • 1d ago
+👁️ 13K • 👍 875 • 💬 167 • ⏱️ 23:24 • 4h ago
 
 ---
 
@@ -319,17 +309,17 @@ Get the FREE PDF (links + prompts) → https://discord.gg/6aV3ps7tB2 STOP overpa
 
 📺 Malva AI
 
-👁️ 25K • 👍 1K • 💬 329 • ⏱️ 7:42 • 2d ago
+👁️ 26K • 👍 1K • 💬 331 • ⏱️ 7:42 • 2d ago
 
 ---
 
-**[State of AI in 2026: LLMs, Coding, Scaling Laws, China, Agents, GPUs, AGI | Lex Fridman Podcast #490](https://www.youtube.com/watch?v=EV7WhVT270Q)**
+**[AI Is Talking to Itself While Humans Watch: Behind The Internet’s Strangest VIRAL Social Network](https://www.youtube.com/watch?v=eEw0lutVQb0)**
 
-Nathan Lambert and Sebastian Raschka are machine learning researchers, engineers, and educators. Nathan is the post-training ...
+A new platform called Moltbook is going viral — and it's not built for humans. It's a social network where AI agents create accounts, ...
 
-📺 Lex Fridman
+📺 Mint
 
-👁️ 226K • 👍 6K • 💬 476 • ⏱️ 4:25:13 • 1d ago
+👁️ 9K • 👍 95 • 💬 21 • ⏱️ 3:25 • 1d ago
 
 ---
 
@@ -339,17 +329,7 @@ Everyone is talking about how AI is draining the power grid, but the biggest hur
 
 📺 The Infographics Show
 
-👁️ 70K • 👍 2K • 💬 217 • ⏱️ 9:18 • 1d ago
-
----
-
-**[Why is Everyone OBSESSED With The New Kimi K2.5 AI Model](https://www.youtube.com/watch?v=KvOYDevFGiw)**
-
-We explore why Moonshot AI's new Kimi k2.5 is the internet's latest obsession, claiming state-of-the-art status in coding and vision ...
-
-📺 Better Stack
-
-👁️ 13K • 👍 603 • 💬 39 • ⏱️ 13:47 • 13h ago
+👁️ 73K • 👍 2K • 💬 222 • ⏱️ 9:18 • 1d ago
 
 ---
 
@@ -359,17 +339,7 @@ OpenClaw (formerly ClaudeBot) demonstrates emergent agent capabilities like auto
 
 📺 The AI Daily Brief: Artificial Intelligence News
 
-👁️ 108K • 👍 3K • 💬 703 • ⏱️ 21:12 • 1d ago
-
----
-
-**[AI Just Made 15 Discoveries We Never Expected](https://www.youtube.com/watch?v=1v4QIHZKEl0)**
-
-Flash Sale Week: Up to 50% OFF + 365 days of ZERO credits on NanoBanana Pro, Midjourney v7, Kling & more ...
-
-📺 Future Business Tech
-
-👁️ 17K • 👍 609 • 💬 24 • ⏱️ 23:14 • 22h ago
+👁️ 114K • 👍 4K • 💬 728 • ⏱️ 21:12 • 1d ago
 
 ---
 
@@ -379,7 +349,37 @@ Get Your FREE AI Company Operating System here: https://go.danmartell.com/3NKZDu
 
 📺 Dan Martell
 
-👁️ 75K • 👍 3K • 💬 610 • ⏱️ 18:48 • 2d ago
+👁️ 78K • 👍 3K • 💬 653 • ⏱️ 18:48 • 2d ago
+
+---
+
+**[AI Just Made 15 Discoveries We Never Expected](https://www.youtube.com/watch?v=1v4QIHZKEl0)**
+
+Flash Sale Week: Up to 50% OFF + 365 days of ZERO credits on NanoBanana Pro, Midjourney v7, Kling & more ...
+
+📺 Future Business Tech
+
+👁️ 22K • 👍 715 • 💬 32 • ⏱️ 23:14 • 23h ago
+
+---
+
+**[China’s New Shape Shifting AI Robot Walks on Water, Flies and Swims](https://www.youtube.com/watch?v=nLKj1gvJzWI)**
+
+Humanoid robotics just took a massive leap into the real world. Researchers in China revealed GrowHR, a soft shape shifting ...
+
+📺 AI Revolution
+
+👁️ 114K • 👍 1K • 💬 278 • ⏱️ 14:25 • 1d ago
+
+---
+
+**[NEW Google AI Updates are INSANE!](https://www.youtube.com/watch?v=-_mqO7ZKHZo)**
+
+Want to make money and save time with AI? Get AI Coaching, Support & Courses ...
+
+📺 Julian Goldie SEO
+
+👁️ 3K • 👍 99 • 💬 8 • ⏱️ 8:15 • 9h ago
 
 ---
 
@@ -395,7 +395,7 @@ Kimi K2.5 is a native multimodal agentic model with 1T parameters, excelling in 
 
 `image-text-to-text`
 
-⬇️ 53,500 • ❤️ 1,366 • 1d ago
+⬇️ 53,500 • ❤️ 1,375 • 1d ago
 
 ---
 
@@ -407,7 +407,7 @@ Z-Image is an undistilled, high-fidelity text-to-image diffusion transformer mod
 
 `text-to-image`
 
-⬇️ 4,755 • ❤️ 767 • 4d ago
+⬇️ 4,755 • ❤️ 770 • 4d ago
 
 ---
 
@@ -419,7 +419,7 @@ HunyuanImage-3.0-Instruct is a native multimodal model for image generation, sup
 
 `image-to-image` `83.0B`
 
-⬇️ 116 • ❤️ 754 • 4d ago
+⬇️ 116 • ❤️ 759 • 4d ago
 
 ---
 
@@ -431,7 +431,7 @@ PersonaPlex-7B-v1 is a real-time, full-duplex speech-to-speech conversational mo
 
 `audio-to-audio`
 
-⬇️ 83,795 • ❤️ 1,573 • 3d ago
+⬇️ 83,795 • ❤️ 1,574 • 4d ago
 
 ---
 
@@ -443,7 +443,7 @@ DeepSeek-OCR-2 is a multilingual vision-language model for image-to-text tasks, 
 
 `image-text-to-text` `3.4B`
 
-⬇️ 102,941 • ❤️ 606 • 2d ago
+⬇️ 102,941 • ❤️ 608 • 2d ago
 
 ---
 
@@ -455,7 +455,7 @@ Qwen3-TTS-12Hz-1.7B-CustomVoice is a multilingual text-to-speech model supportin
 
 `text-to-speech` `1.9B`
 
-⬇️ 227,768 • ❤️ 836 • 3d ago
+⬇️ 227,768 • ❤️ 837 • 3d ago
 
 ---
 
@@ -467,7 +467,7 @@ Qwen3-ASR-1.7B is a state-of-the-art automatic speech recognition model supporti
 
 `automatic-speech-recognition` `2.3B`
 
-⬇️ 25,658 • ❤️ 310 • 2d ago
+⬇️ 25,658 • ❤️ 316 • 2d ago
 
 ---
 
@@ -479,7 +479,7 @@ PaddleOCR-VL-1.5 is a multilingual Vision-Language Model (VLM) built on ERNIE 4.
 
 `image-text-to-text` `958.6M`
 
-⬇️ 2,046 • ❤️ 289 • 2d ago
+⬇️ 2,046 • ❤️ 290 • 2d ago
 
 ---
 
@@ -491,7 +491,7 @@ VibeVoice-ASR is a unified speech-to-text model capable of processing up to 60 m
 
 `automatic-speech-recognition` `8.7B`
 
-⬇️ 146,239 • ❤️ 763 • 5d ago
+⬇️ 146,239 • ❤️ 765 • 5d ago
 
 ---
 
@@ -503,7 +503,7 @@ GLM-4.7-Flash is a 30B-A3B MoE model, offering strong performance in the 30B cla
 
 `text-generation` `31.2B`
 
-⬇️ 826,849 • ❤️ 1,395 • 3d ago
+⬇️ 826,849 • ❤️ 1,397 • 3d ago
 
 ---
 
@@ -653,7 +653,7 @@ Browser automation CLI for AI agents
 
 `TypeScript`
 
-⭐ 12.0k • 🔱 672 • 17h ago
+⭐ 12.1k • 🔱 673 • 18h ago
 
 ---
 
@@ -663,7 +663,7 @@ AI → JSON → UI
 
 `TypeScript`
 
-⭐ 9.8k • 🔱 521 • 4d ago
+⭐ 9.8k • 🔱 523 • 4d ago
 
 ---
 
@@ -683,7 +683,7 @@ LLM驱动的 A/H/美股智能分析器，多数据源行情 + 实时新闻 + Gem
 
 `Python` `agent` `ai` `aigc` `gemini` `llm`
 
-⭐ 8.6k • 🔱 9.1k • 8h ago
+⭐ 8.6k • 🔱 9.1k • 9h ago
 
 ---
 
@@ -713,7 +713,7 @@ Marketing skills for Claude Code and AI agents. CRO, copywriting, SEO, analytics
 
 `claude` `codex` `marketing`
 
-⭐ 5.5k • 🔱 602 • 4d ago
+⭐ 5.5k • 🔱 603 • 4d ago
 
 ---
 
@@ -721,7 +721,7 @@ Marketing skills for Claude Code and AI agents. CRO, copywriting, SEO, analytics
 
 Claude Code skill that removes signs of AI-generated writing from text
 
-⭐ 3.6k • 🔱 311 • 9d ago
+⭐ 3.7k • 🔱 313 • 9d ago
 
 ---
 
@@ -739,7 +739,7 @@ OpenSource Claude Cowork. A desktop AI assistant that helps you with programming
 
 Humanizer 的汉化版本，Claude Code Skills，旨在消除文本中 AI 生成的痕迹。
 
-⭐ 2.1k • 🔱 198 • 13d ago
+⭐ 2.1k • 🔱 201 • 13d ago
 
 ---
 

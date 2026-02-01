@@ -3,14 +3,14 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-02-01T22:52:48.588079+00:00'
+updated: '2026-02-01T23:26:45.108048+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- social
 - cryptocurrency
 - videos
+- social
 - news
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** February 01, 2026 at 22:52 UTC  
+**Last Updated:** February 01, 2026 at 23:26 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -36,33 +36,33 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Price
 
-### $2,296.32
+### $2,261.03
 
 ---
 
 ## Ethereum Chart
 
-**24h:** -6.4%  
-**7d:** -21.6%  
-**30d:** -26.6%  
-**90d:** -30.4%  
-**1y:** -19.8%  
+**24h:** -7.8%  
+**7d:** -22.8%  
+**30d:** -27.7%  
+**90d:** -31.6%  
+**1y:** -21.0%  
 
 ---
 
 ## Ethereum Market Stats
 
-**Market Cap:** $280.71B
+**Market Cap:** $269.98B
 Rank #2
 
 **Circulating Supply:** 120,693,815 ETH
 No max supply
 
 **All-Time High:** $4,946.05
--53.1%
+-54.6%
 
 **All-Time Low:** $0.43
-+535856.7%
++518491.0%
 
 ---
 
@@ -72,7 +72,7 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-16h ago
+17h ago
 
 ---
 
@@ -154,7 +154,7 @@ The Doots live stream is all about showcasing the best of the week from the Dail
 
 The Ethereum founder claims his strategy of betting against extreme market sentiment ‘usually makes money’ on Polymarket.
 
-Decrypt • 4h ago
+Decrypt • 5h ago
 
 ---
 
@@ -192,7 +192,7 @@ Yahoo Finance • 1d ago
 
 The crypto market is facing a major sell-off today, with total market value dropping to $2.66 trillion, down more than 6% in the last 24 hours. Bitcoin, Ethereum, XRP and other major cryptocurrencies have all fallen sharply, wiping out nearly $500 billion from the market in just a few days.The bigg…
 
-TradingView • 16h ago
+TradingView • 17h ago
 
 ---
 
@@ -200,7 +200,7 @@ TradingView • 16h ago
 
 Earlier in January, the Ethereum Foundation formally elevated post-quantum security to a strategic priority, creating a dedicated Post-Quantum team.
 
-CoinDesk • 7h ago
+CoinDesk • 8h ago
 
 ---
 
@@ -216,7 +216,7 @@ Yahoo Finance • 1d ago
 
 The Ethereum price has been under intense bearish pressure over the past few weeks, reflecting the overall fragile state of the cryptocurrency market. The altcoin lost nearly 20% of its value in the past week, free-falling under the psychological $3,000 level since Thursday, January 29th. With the…
 
-TradingView • 6h ago
+TradingView • 7h ago
 
 ---
 
@@ -238,17 +238,27 @@ Ethereum has the strongest long-term narrative in crypto: tokenization, AI rails
 
 📺 Milk Road
 
-👁️ 3K • 👍 122 • 💬 120 • ⏱️ 15:51 • 8h ago
+👁️ 5K • 👍 185 • 💬 111 • ⏱️ 15:51 • 8h ago
 
 ---
 
-**[BITCOIN AND ETH: HOW BAD IS THIS DUMP (when recovery) 🚨🚨🚨🚨🚨🚨](https://www.youtube.com/watch?v=YawcOhRcens)**
+**[Why ETH is Crashing Right Now and What I&#39;m Doing](https://www.youtube.com/watch?v=L9tejtx7sXA)**
 
-FREE TRAINING: https://www.bullmania.com EXCHANGES I USE (bybit, pionex): https://www.bullmania.com/partners My ...
+After getting chopped up in ETH shorts over the past few months, I found a moment of Tom Lee weakness to short ETH one last ...
 
-📺 Ivan on Tech
+📺 Taiki Maeda
 
-👁️ 10K • 👍 1K • 💬 67 • ⏱️ 45:22 • 3h ago
+👁️ 3K • 👍 228 • 💬 74 • ⏱️ 48:54 • 4h ago
+
+---
+
+**[BITCOIN CRASH: The Reset Has Started (Prepare Now)!!! - Bitcoin News Today, Ethereum &amp; Altcoins](https://www.youtube.com/watch?v=965Ua9hPGww)**
+
+BITCOIN CRASH: The Reset Has Started (Prepare Now)!!! - Bitcoin News Today, Ethereum & Altcoins *Toobit* ...
+
+📺 Crypto World
+
+👁️ 3K • 👍 207 • 💬 33 • ⏱️ 24:14 • 1h ago
 
 ---
 
@@ -258,7 +268,7 @@ This video provides a professional Elliott Wave and technical analysis of Ethere
 
 📺 More Crypto Online
 
-👁️ 3K • 👍 220 • 💬 8 • ⏱️ 8:33 • 9h ago
+👁️ 4K • 👍 237 • 💬 8 • ⏱️ 8:33 • 9h ago
 
 ---
 
@@ -268,7 +278,7 @@ Want a free $30000 bonus + $20 just for signing up? Go here: ...
 
 📺 BitcoinHyper
 
-👁️ 3K • 👍 348 • 5h ago
+👁️ 7K • 👍 551 • 💬 18 • ⏱️ 55:54 • 2h ago
 
 ---
 
@@ -278,17 +288,7 @@ ETHEREUM ETH PRICE PREDICTION 2026 Join the Premium Signal Group for trade setup
 
 📺 Cilinix Crypto
 
-👁️ 1K • 👍 32 • 💬 3 • ⏱️ 5:13 • 10h ago
-
----
-
-**[I Made $1M Shorting ETH. Why I’m Still Short.](https://www.youtube.com/watch?v=L9tejtx7sXA)**
-
-After getting chopped up in ETH shorts over the past few months, I found a moment of Tom Lee weakness to short ETH one last ...
-
-📺 Taiki Maeda
-
-👁️ 1K • 👍 114 • 💬 51 • ⏱️ 48:54 • 3h ago
+👁️ 2K • 👍 34 • 💬 3 • ⏱️ 5:13 • 11h ago
 
 ---
 
@@ -298,7 +298,7 @@ Nick Valdez looks at the latest market crash with the next level Bitcoin MUST ho
 
 📺 Discover Crypto
 
-👁️ 22K • 👍 774 • 💬 270 • ⏱️ 4:28 • 1d ago
+👁️ 23K • 👍 787 • 💬 175 • ⏱️ 4:28 • 1d ago
 
 ---
 
@@ -308,17 +308,7 @@ My FREE Daily On-Chain Analysis & Crypto News In 5-Mins: https://www.cryptonutsh
 
 📺 Jamie Tree 
 
-👁️ 4K • 👍 79 • 💬 64 • ⏱️ 18:25 • 1d ago
-
----
-
-**[When Will Stop The Crash? 💀 ETH Crypto Token Analysis](https://www.youtube.com/watch?v=LUAphGQ2Yls)**
-
-Join Premium: https://the-bitcoin-strategy.com My Chart Software: https://the-bitcoin-strategy.com/tradingview My Hardware Wallet: ...
-
-📺 Gerhard - Bitcoin Strategy
-
-👁️ 7K • 👍 160 • 💬 53 • ⏱️ 7:13 • 1d ago
+👁️ 4K • 👍 82 • 💬 25 • ⏱️ 18:25 • 1d ago
 
 ---
 
@@ -328,7 +318,17 @@ Join UpTrade today - Your personal crypto broker: https://www.uptrade.au/ My FRE
 
 📺 Crypto Nutshell
 
-👁️ 17K • 👍 472 • 💬 104 • ⏱️ 16:36 • 1d ago
+👁️ 17K • 👍 479 • 💬 83 • ⏱️ 16:36 • 1d ago
+
+---
+
+**[When Will Stop The Crash? 💀 ETH Crypto Token Analysis](https://www.youtube.com/watch?v=LUAphGQ2Yls)**
+
+Join Premium: https://the-bitcoin-strategy.com My Chart Software: https://the-bitcoin-strategy.com/tradingview My Hardware Wallet: ...
+
+📺 Gerhard - Bitcoin Strategy
+
+👁️ 7K • 👍 162 • 💬 53 • ⏱️ 7:13 • 1d ago
 
 ---
 

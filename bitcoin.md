@@ -3,14 +3,14 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-02-01T22:52:48.582052+00:00'
+updated: '2026-02-01T23:26:45.102088+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- social
 - cryptocurrency
 - videos
+- social
 - news
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** February 01, 2026 at 22:52 UTC  
+**Last Updated:** February 01, 2026 at 23:26 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,33 +38,33 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $76,804.72
+### $76,782.98
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** -2.5%  
-**7d:** -13.1%  
-**30d:** -15.3%  
-**90d:** -24.5%  
-**1y:** -21.4%  
+**24h:** -2.4%  
+**7d:** -12.9%  
+**30d:** -15.2%  
+**90d:** -24.4%  
+**1y:** -21.2%  
 
 ---
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1542.81B
+**Market Cap:** $1528.57B
 Rank #1
 
 **Circulating Supply:** 19,982,656 BTC
 95.2% of max
 
 **All-Time High:** $126,080.00
--38.8%
+-39.3%
 
 **All-Time Low:** $67.81
-+113762.3%
++112747.7%
 
 ---
 
@@ -77,39 +77,39 @@ Rank #1
 
 ## Reddit: r/Bitcoin
 
-**[1 BTC Milestone](https://www.reddit.com/r/Bitcoin/comments/1qt2j6p/1_btc_milestone/)**
+**[Bought another quarter of a BTC](https://www.reddit.com/r/Bitcoin/comments/1qt4e0h/bought_another_quarter_of_a_btc/)**
 
-https://preview.redd.it/vxv06n0opwgg1.png?width=609&format=png&auto=webp&s=72be41e44d7845ef9be6dcb6c03279feda689a0b Bought several dips including this one. Got to a full BTC finally. Doesn't feel as special as I thought I would when I started the journey in 2024. Still, I think it is a special moment for those who believe in BTC. Onwards to 2 BTC...
+Told myself I'd buy if it dropped below 80k. So putting my money where my mouth and mind is. According to Murphys law we're now going to freefall.
 
 6h ago
 
 ---
 
-**[Explaining Bitcoin like I am 5 years old.... Get to 1 BTC.](https://www.reddit.com/r/Bitcoin/comments/1qtahxx/explaining_bitcoin_like_i_am_5_years_old_get_to_1/)**
+**[1 BTC Milestone](https://www.reddit.com/r/Bitcoin/comments/1qt2j6p/1_btc_milestone/)**
 
-1h ago
+https://preview.redd.it/vxv06n0opwgg1.png?width=609&format=png&auto=webp&s=72be41e44d7845ef9be6dcb6c03279feda689a0b Bought several dips including this one. Got to a full BTC finally. Doesn't feel as special as I thought I would when I started the journey in 2024. Still, I think it is a special moment for those who believe in BTC. Onwards to 2 BTC...
+
+7h ago
 
 ---
 
-**[Bought another quarter of a BTC](https://www.reddit.com/r/Bitcoin/comments/1qt4e0h/bought_another_quarter_of_a_btc/)**
+**[Explaining Bitcoin like I am 5 years old.... Get to 1 BTC.](https://www.reddit.com/r/Bitcoin/comments/1qtahxx/explaining_bitcoin_like_i_am_5_years_old_get_to_1/)**
 
-Told myself I'd buy if it dropped below 80k. So putting my money where my mouth and mind is. According to Murphys law we're now going to freefall.
+2h ago
 
-5h ago
+---
+
+**[Who’s holding for at least 10 years?](https://www.reddit.com/r/Bitcoin/comments/1qtcqch/whos_holding_for_at_least_10_years/)**
+
+I’m curious about people’s time table to turning a profit or are you holding out hope that it will become the main currency? Me I’m waiting for at least 30 years before I pull out.
+
+1h ago
 
 ---
 
 **[Wipe away those tears and just enjoy the ride](https://www.reddit.com/r/Bitcoin/comments/1qt42s7/wipe_away_those_tears_and_just_enjoy_the_ride/)**
 
-5h ago
-
----
-
-**[Started my buying journey](https://www.reddit.com/r/Bitcoin/comments/1qtbapw/started_my_buying_journey/)**
-
-Recently turned 18, and have started DCAing. Coincedentally its a great price to buy at, hopefully it keeps going lower😹
-
-1h ago
+6h ago
 
 ---
 
@@ -125,7 +125,7 @@ Got my mining rig working overtime today!
 
 Best Case Scenario - BTC will test 92K, if it breaks it will set a new ATH. Worst Case Scenario - If it loses 50K support, cheap BTC incoming. Regardless, in my experience (since 2015), unless you are an extremely smart person with excellent TA skills supported by a crystal ball, u cannot time the market. DCA, ignore your short term losses. Overall, you will make it. In 2017, I lost a significant amount of money. In 2021, I made a decent profit. I didn’t exit, continue to DCA. Thats my forever strategy that always pays on the long run. Ignore hopium and negative comments. Focus on your bag. Don’t FOMO, don’t panic sell. Aim for profits. Edit: This post is not intended to give anyone any advice. Also, this is not a price prediction. We are all responsible adults who can think and make decisions. This post is intended to provide reassurances to those that might feel worried. I am in no position to provide financial help and guidance. However, I can humbly share my own experiences to comfort new traders.
 
-12h ago
+13h ago
 
 ---
 
@@ -135,15 +135,15 @@ Best Case Scenario - BTC will test 92K, if it breaks it will set a new ATH. Wors
 
 ---
 
-**[Buy Now](https://www.reddit.com/r/Bitcoin/comments/1qs9mvq/buy_now/)**
+**[It will bounce back bro](https://www.reddit.com/r/Bitcoin/comments/1qt0d59/it_will_bounce_back_bro/)**
 
-1d ago
+During pandemic I have seen the bounce
+
+8h ago
 
 ---
 
-**[Stack those cheap sats!!!](https://www.reddit.com/r/Bitcoin/comments/1qs8tbw/stack_those_cheap_sats/)**
-
-I'm not wasting these cheap stacks. HODL and BUY!
+**[Buy Now](https://www.reddit.com/r/Bitcoin/comments/1qs9mvq/buy_now/)**
 
 1d ago
 
@@ -163,7 +163,7 @@ Bloomberg.com • 6h ago
 
 Bitcoin’s sharp weekend drop triggered fresh liquidations, with analyst Eric Crown warning the market may face months of further downside.
 
-CoinDesk • 3h ago
+CoinDesk • 4h ago
 
 ---
 
@@ -223,7 +223,7 @@ The Motley Fool • 2d ago
 
 Business News: Discover how early Bitcoin investments could have transformed your financial future. Learn about the extraordinary value of Bitcoin from its inception to today, including tales of lost fortunes and missed opportunities.
 
-Times of India • 8h ago
+Times of India • 9h ago
 
 ---
 
@@ -309,63 +309,13 @@ Transform HN comment threads into executive intelligence. AI analyzes discussion
 
 ## YouTube Videos: "bitcoin"
 
-**[The Actual Reason Bitcoin Is Crashing (you won&#39;t believe)](https://www.youtube.com/watch?v=rlvplss4VoM)**
+**[&quot;IT&#39;S OVER! This HUGE News Just SHATTERED All Expectations for 2026&quot; - Michael Saylor &amp; Raoul Pal](https://www.youtube.com/watch?v=WakKT4jGSRA)**
 
-LIMITED TIME: ✓ Bitunix (no kyc, $10k bonus): https://www.bitunix.com/register?vipCode=AltcoinDaily 50% deposit bonus on ...
+The crypto market just suffered a brutal liquidity-driven unwind. Bitcoin, Ethereum, and major altcoins collapsed in a cascading ...
 
-📺 Altcoin Daily
+📺 Savvy Finance
 
-👁️ 91K • 👍 4K • 💬 444 • ⏱️ 9:24 • 22h ago
-
----
-
-**[What Just Happened to Bitcoin?](https://www.youtube.com/watch?v=36EN2fN4F9M)**
-
-When Will the Current U.S. Government Shutdown End?
-
-📺 CryptosRUs
-
-👁️ 71K • 👍 3K • 💬 1K • ⏱️ 11:12 • 21h ago
-
----
-
-**[Bitcoin... This Is What&#39;s Happening (HUGE SELLOFF)](https://www.youtube.com/watch?v=pSZzzelGpK8)**
-
-This isn't looking good iTrust Capital – $100 Bonus (Crypto IRA & Custody Accounts) ...
-
-📺 Aaron Bennett
-
-👁️ 30K • 👍 1K • 💬 381 • ⏱️ 10:16 • 18h ago
-
----
-
-**[EXPLAINED: Trump Just Crashed Gold, Silver, &amp; Bitcoin](https://www.youtube.com/watch?v=RS9uOBSp_iU)**
-
-Watch my free masterclass & get Market Briefs as a bonus: https://briefs.finance/gw1 My recommended tools*! *Please note: Yes ...
-
-📺 Minority Mindset
-
-👁️ 332K • 👍 12K • 💬 2K • ⏱️ 14:10 • 1d ago
-
----
-
-**[&quot;Bitcoin Is Being Weaponized &amp; Nobody Understands What Happens Next&quot;  | Zac Prince](https://www.youtube.com/watch?v=ANAS48lGp-o)**
-
-Bitcoin #Crypto #Finance Bitcoin didn't just survive the last cycle — it was reshaped by it. In this conversation, we break down how ...
-
-📺 The Wolf Of All Streets
-
-👁️ 12K • 👍 606 • 💬 254 • ⏱️ 53:57 • 8h ago
-
----
-
-**[Bitcoin: Damage Report](https://www.youtube.com/watch?v=yLhApa2vv3s)**
-
-Let's provide a Bitcoin damage report. Into The Cryptoverse Premium: https://intothecryptoverse.com For inquiries: ...
-
-📺 Benjamin Cowen
-
-👁️ 110K • 👍 7K • 💬 404 • ⏱️ 31:15 • 17h ago
+👁️ 8K • 👍 426 • 💬 21 • ⏱️ 17:25 • 6h ago
 
 ---
 
@@ -375,7 +325,77 @@ Today is a stable day ( so far) with bitcoin at 77k but alts dumping even more. 
 
 📺 Digital Asset News
 
-👁️ 5K • 👍 400 • 💬 43 • ⏱️ 40:04 • 4h ago
+👁️ 8K • 👍 529 • 💬 68 • ⏱️ 40:04 • 4h ago
+
+---
+
+**[The Actual Reason Bitcoin Is Crashing (you won&#39;t believe)](https://www.youtube.com/watch?v=rlvplss4VoM)**
+
+LIMITED TIME: ✓ Bitunix (no kyc, $10k bonus): https://www.bitunix.com/register?vipCode=AltcoinDaily 50% deposit bonus on ...
+
+📺 Altcoin Daily
+
+👁️ 98K • 👍 4K • 💬 425 • ⏱️ 9:24 • 23h ago
+
+---
+
+**[EMERGENCY Bitcoin $68,000 Incoming $6B GONE! MicroStrategy Era Ends? XRP XLM in FILES?](https://www.youtube.com/watch?v=xSLxgsBcX8M)**
+
+EMERGENCY Bitcoin $68000 Incoming $6B GONE! MicroStrategy Era Ends? XRP XLM in FILES? It's been a really crazy 24 ...
+
+📺 CryptoWendyO
+
+👁️ 16K • 👍 1K • 💬 27 • ⏱️ 27:24 • 4h ago
+
+---
+
+**[What Just Happened to Bitcoin?](https://www.youtube.com/watch?v=36EN2fN4F9M)**
+
+When Will the Current U.S. Government Shutdown End?
+
+📺 CryptosRUs
+
+👁️ 74K • 👍 3K • 💬 1K • ⏱️ 11:12 • 21h ago
+
+---
+
+**[Bitcoin... This Is What&#39;s Happening (HUGE SELLOFF)](https://www.youtube.com/watch?v=pSZzzelGpK8)**
+
+This isn't looking good iTrust Capital – $100 Bonus (Crypto IRA & Custody Accounts) ...
+
+📺 Aaron Bennett
+
+👁️ 33K • 👍 1K • 💬 374 • ⏱️ 10:16 • 19h ago
+
+---
+
+**[EXPLAINED: Trump Just Crashed Gold, Silver, &amp; Bitcoin](https://www.youtube.com/watch?v=RS9uOBSp_iU)**
+
+Watch my free masterclass & get Market Briefs as a bonus: https://briefs.finance/gw1 My recommended tools*! *Please note: Yes ...
+
+📺 Minority Mindset
+
+👁️ 347K • 👍 12K • 💬 2K • ⏱️ 14:10 • 1d ago
+
+---
+
+**[One more BTC drop, then time to long before the next 30% bitcoin crash.](https://www.youtube.com/watch?v=tb9Qi9MAab8)**
+
+I show why bitcoin could have another drop very soon. After that btc drop its more than likely bitcoin price will get a pump and turn ...
+
+📺 OPTICALARTdotCOM
+
+👁️ 3K • 👍 332 • 💬 86 • ⏱️ 16:08 • 7h ago
+
+---
+
+**[&quot;Bitcoin Is Being Weaponized &amp; Nobody Understands What Happens Next&quot;  | Zac Prince](https://www.youtube.com/watch?v=ANAS48lGp-o)**
+
+Bitcoin #Crypto #Finance Bitcoin didn't just survive the last cycle — it was reshaped by it. In this conversation, we break down how ...
+
+📺 The Wolf Of All Streets
+
+👁️ 16K • 👍 662 • 💬 263 • ⏱️ 53:57 • 9h ago
 
 ---
 
@@ -385,27 +405,7 @@ FREE TRAINING: https://event.webinarjam.com/z2qpv/register/1y7k2aw4 FREE PERSONA
 
 📺 Rajat Soni, CFA
 
-👁️ 5K • 👍 329 • 💬 157 • ⏱️ 5:20 • 8h ago
-
----
-
-**[BITCOIN: $52,000 PRICE TARGET NEXT (or not)?!!!  ⚠️ #BTC Price Prediction &amp; Crypto Crash News Today](https://www.youtube.com/watch?v=UfeKJ-0NVBw)**
-
-MEXC: Trade with Ultra-low trading fees Sign up: https://www.mexc.com/register?inviteCode=mexc-RT1M (must use this link) ...
-
-📺 Road To $1 Million USD
-
-👁️ 5K • 👍 233 • 💬 88 • ⏱️ 6:11 • 23h ago
-
----
-
-**[BITCOIN: We&#39;ve Seen This Drop Before, Here&#39;s How It Ends...](https://www.youtube.com/watch?v=bhDb2-4JoLE)**
-
-Introduction & Important Context 0:00-1:21 Bitunix Exchange 1:21-2:02 Analysis 2:02-10:31 Bitunix Exchange 10:31-11:05 ...
-
-📺 Wolves of Crypto
-
-👁️ 8K • 👍 429 • 💬 195 • ⏱️ 11:06 • 16h ago
+👁️ 7K • 👍 379 • 💬 175 • ⏱️ 5:20 • 9h ago
 
 ---
 
