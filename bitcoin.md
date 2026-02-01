@@ -3,7 +3,7 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-02-01T10:27:44.402463+00:00'
+updated: '2026-02-01T10:55:13.280099+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
@@ -18,7 +18,7 @@ data_types:
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** February 01, 2026 at 10:27 UTC  
+**Last Updated:** February 01, 2026 at 10:55 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -45,10 +45,10 @@ Live Bitcoin monitoring dashboard
 ## Bitcoin Chart
 
 **24h:** -5.3%  
-**7d:** -10.9%  
-**30d:** -13.2%  
-**90d:** -22.6%  
-**1y:** -19.4%  
+**7d:** -11.1%  
+**30d:** -13.4%  
+**90d:** -22.8%  
+**1y:** -19.6%  
 
 ---
 
@@ -85,14 +85,6 @@ Took advantage of the plummet to get myself over the 0.5 mark!! I know this is s
 
 ---
 
-**[I don’t feel anything](https://www.reddit.com/r/Bitcoin/comments/1qsfxez/i_dont_feel_anything/)**
-
-Seriously, been holding for so long any time bitcoin falls, I don’t feel anything. Not sure why people are freaking out as usual. I only buy, Bitcoin doesn’t inflate, dollar inflates. Those who are selling, thanks for making Bitcoin cheaper for me. I don’t mind buying yours too.
-
-12h ago
-
----
-
 **[Evergreen just like BTC!](https://www.reddit.com/r/Bitcoin/comments/1qs6sj1/evergreen_just_like_btc/)**
 
 18h ago
@@ -109,7 +101,7 @@ Seriously, been holding for so long any time bitcoin falls, I don’t feel anyth
 
 I'm not wasting these cheap stacks. HODL and BUY!
 
-16h ago
+17h ago
 
 ---
 
@@ -122,6 +114,14 @@ I'm not wasting these cheap stacks. HODL and BUY!
 **[I’m done](https://www.reddit.com/r/Bitcoin/comments/1qsaxev/im_done/)**
 
 15h ago
+
+---
+
+**[Hard Truth](https://www.reddit.com/r/Bitcoin/comments/1qslys1/hard_truth/)**
+
+Anyone that’s “done with bitcoin” never actually understood bitcoin in the first place.
+
+8h ago
 
 ---
 
@@ -139,11 +139,11 @@ Wasn't my original plan actually, but the blood is splattering so much that ther
 
 ---
 
-**[Hard Truth](https://www.reddit.com/r/Bitcoin/comments/1qslys1/hard_truth/)**
+**[Nobody knows anything in the short term](https://www.reddit.com/r/Bitcoin/comments/1qsqo31/nobody_knows_anything_in_the_short_term/)**
 
-Anyone that’s “done with bitcoin” never actually understood bitcoin in the first place.
+When we were at ATH I saw people talking how we'd get to $200k by December, now I see people talking how "this is just the beginning, it's going to be a rough year." I don't think anyone here knows what is going to happen in the next few months. Just relax and HODL.
 
-7h ago
+4h ago
 
 ---
 
@@ -155,7 +155,7 @@ Anyone that’s “done with bitcoin” never actually understood bitcoin in the
 
 Bitcoin price dipped below $80k as 335,000 new wallets signal rising adoption despite short-term BTC price weakness.
 
-Yahoo Finance • 16h ago
+Yahoo Finance • 17h ago
 
 ---
 
@@ -165,31 +165,17 @@ Forbes • 12h ago
 
 ---
 
-**[Bitcoin, XRP, Ethereum Fall on News of Kevin Warsh Fed Appointment.](https://www.barrons.com/articles/bitcoin-xrp-ethereum-crypto-today-954298d9?gaa_at=eafs&gaa_n=AWEtsqf0jHkA6y_7kuvbjpvtr6PTcFVIMa1JH21ophK4ThzrmeI_NBJt2ESj&gaa_ts=697f213b&gaa_sig=eF8Am9jgSmkP9y5CjFkCQg6Rb_g-ZYUK_OD7uCXtiSgY-zyF3Sosm94p_rOjel_ZpAJH5ao_SElto3c2OiksCQ%3D%3D)**
+**[Bitcoin, XRP, Ethereum Fall on News of Kevin Warsh Fed Appointment.](https://www.barrons.com/articles/bitcoin-xrp-ethereum-crypto-today-954298d9?gaa_at=eafs&gaa_n=AWEtsqdU-COqTF_-T_9JL2KfbIhmFpZtsKpMqsofqeQXRlI6nFlHJ2l7AwZY&gaa_ts=697f3478&gaa_sig=AVBXjIpV6RCV-K2mVNRPOnSLwLkc9sixPTZ5MM0WdI2NoeaXpLVi8ehtZkk6TsBfX5AprcUjuWIAHTiY4UHsAg%3D%3D)**
 
 Barron's • 1d ago
 
 ---
 
-**[Bitcoin Slumps to Two-Month Low as US Funds Shed Billions](https://www.bloomberg.com/news/articles/2026-01-30/bitcoin-btc-slumps-to-two-month-low-as-us-funds-shed-billions)**
+**[Fed Chair nominee Warsh views bitcoin as “good policeman for policy”](https://finance.yahoo.com/news/fed-chair-nominee-warsh-views-150459398.html)**
 
-Bloomberg.com • 1d ago
+Warsh has praised bitcoin as a tool to guide policy, not as a competitor to the dollar.
 
----
-
-**[Here Are Bitcoin's 5 Biggest Risks That Investors Can't Ignore](https://finance.yahoo.com/news/bitcoins-5-biggest-risks-investors-162000782.html)**
-
-The strongest bulls take the time to learn the opposite point of view.
-
-Yahoo Finance • 18h ago
-
----
-
-**[Michael Saylor’s bitcoin stack is officially underwater, but here’s why he likely won't reach for the panic button](https://www.coindesk.com/business/2026/01/31/michael-saylor-s-bitcoin-stack-is-officially-underwater-but-here-s-why-he-likely-won-t-reach-for-the-panic-button)**
-
-The main impact of the price decline is slowing Strategy's ability to buy more bitcoin without diluting shareholders, as its stock now trades at a discount to its bitcoin holdings.
-
-CoinDesk • 13h ago
+Yahoo Finance • 1d ago
 
 ---
 
@@ -201,19 +187,19 @@ The Block • 1d ago
 
 ---
 
-**[The Bitcoin Sell-Off Is Getting Worse, but That Won't Stop Me From Buying Even More](https://www.fool.com/investing/2026/01/30/the-bitcoin-sell-off-is-getting-worse-but-it-wont/)**
+**[Michael Saylor’s bitcoin stack is officially underwater, but here’s why he likely won't reach for the panic button](https://www.coindesk.com/business/2026/01/31/michael-saylor-s-bitcoin-stack-is-officially-underwater-but-here-s-why-he-likely-won-t-reach-for-the-panic-button)**
 
-It's reasonable to say that this coin isn't behaving like a safe harbor asset right now.
+The main impact of the price decline is slowing Strategy's ability to buy more bitcoin without diluting shareholders, as its stock now trades at a discount to its bitcoin holdings.
 
-The Motley Fool • 1d ago
+CoinDesk • 13h ago
 
 ---
 
-**[Bitcoin’s freefall approaches $80,000 as precious metals also tank](https://fortune.com/2026/01/30/bitcoin-price-today-ethereum-gold-silver-platinum-copper/)**
+**[Better Investment to Make in 2026 and Beyond: Bitcoin vs. iShares Bitcoin Trust](https://www.fool.com/investing/2026/01/31/better-investment-2026-beyond-bitcoin-ibit/)**
 
-The world’s largest cryptocurrency is down 2% over the past day while gold and silver have dropped 11% and 30%, respectively.
+Based on its monster past performance, it makes sense why investors are interested in Bitcoin.
 
-Fortune • 1d ago
+The Motley Fool • 22h ago
 
 ---
 
@@ -221,7 +207,23 @@ Fortune • 1d ago
 
 The first bank collapse of 2026 coincides with a violent global sell-off that has traders fearing a broader contagion.
 
-CryptoSlate • 12h ago
+CryptoSlate • 13h ago
+
+---
+
+**[What price will Bitcoin hit in January? Betting Odds & Predictions](https://polymarket.com/event/what-price-will-bitcoin-hit-in-january-2026)**
+
+View real-time odds on "What price will Bitcoin hit in January?" as of January 30, 2026, and trade on The World's Largest Prediction Market™
+
+Polymarket • 1mo ago
+
+---
+
+**[Fear that quantum computing is on the cusp of cracking cryptocurrency's encryption spurs a global investment firm to remove Bitcoin from recommendations](https://www.tomshardware.com/tech-industry/cryptocurrency/fear-that-quantum-computing-on-the-cusp-of-cracking-cryptocurrencys-encryption-spurs-a-global-investment-firm-to-remove-bitcoin-from-recommendations)**
+
+The firm's senior financial strategist is concerned the advancements in the field of quantum computing will break Bitcoin.
+
+Tom's Hardware • 14d ago
 
 ---
 
@@ -255,7 +257,7 @@ A list of known attacks against Bitcoin / crypto asset owning entities that occu
 
 PoW + EVM cryptocurrency. 21M fixed supply, fair launch, no team, no foundation. Just code. - lumenyx-chain/lumenyx
 
-⬆️ 1 • 💬 0 • 21h ago • [GitHub](https://github.com/lumenyx-chain/lumenyx)
+⬆️ 1 • 💬 0 • 22h ago • [GitHub](https://github.com/lumenyx-chain/lumenyx)
 
 ---
 
@@ -323,7 +325,7 @@ When Will the Current U.S. Government Shutdown End?
 
 📺 CryptosRUs
 
-👁️ 48K • 👍 2K • 💬 773 • ⏱️ 11:12 • 8h ago
+👁️ 48K • 👍 2K • 💬 773 • ⏱️ 11:12 • 9h ago
 
 ---
 
@@ -363,7 +365,7 @@ Nick Valdez looks at the latest market crash with the next level Bitcoin MUST ho
 
 📺 Discover Crypto
 
-👁️ 17K • 👍 670 • 💬 191 • ⏱️ 4:28 • 12h ago
+👁️ 17K • 👍 670 • 💬 191 • ⏱️ 4:28 • 13h ago
 
 ---
 
@@ -393,7 +395,7 @@ Bitcoin plunges under $80000 as geopolitical risks deepens amid U.S-Iran tension
 
 📺 Ricky Gutierrez
 
-👁️ 22K • 👍 694 • 💬 330 • ⏱️ 6:53 • 15h ago
+👁️ 22K • 👍 694 • 💬 330 • ⏱️ 6:53 • 16h ago
 
 ---
 

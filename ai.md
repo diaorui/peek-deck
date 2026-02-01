@@ -3,13 +3,13 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-02-01T10:27:44.395082+00:00'
+updated: '2026-02-01T10:55:13.272804+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- news
 - repositories
+- news
 - social
 - videos
 ---
@@ -18,7 +18,7 @@ data_types:
 
 AI news, discussions, and developments
 
-**Last Updated:** February 01, 2026 at 10:27 UTC  
+**Last Updated:** February 01, 2026 at 10:55 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -57,7 +57,7 @@ SpaceX's filing claims these satellites will be “a first step towards becoming
 
 TL;DR: LLMs inherit human failure modes from training data. Current alignment (RLHF, Constitutional AI) faces circularity — biased humans correcting biased models. We propose small classifiers ("bees") running 24/7 as alignment monitors. They can't be jailbroken because they don't reason — they pattern-match and return binary judgments. Three parallel evaluators (advocate/adversary/neutral) vote on every output. The new contribution: bees aren't products. They're a species. Grown over time. Compatible with our biology. Producing honey AND sting. Memory decay manages what they remember — core principles persist, transient corrections fade. 6 concurrent Anthropic papers validate the architecture independently. The convergence is striking — their Assistant Axis paper measured persona vectors as neural geometry. Their CC++ paper implements the bee architecture at production scale. Their reward hacking paper proves you need external classifiers because models that learn to cheat generalize to sabotage. 25 pages, full citations. Co-authored by a human filmmaker/CEO and Claude Opus 4.5. Paper: https://zenodo.org/records/18446416
 
-6h ago
+7h ago
 
 ---
 
@@ -117,38 +117,41 @@ ByteDance, Alibaba and Tencent had been given permission to purchase more than 4
 
 ## Google News: "ai"
 
-**[Moltbook AI Social Network: 1.4 Million Agents Build A Digital Society](https://www.forbes.com/sites/guneyyildiz/2026/01/31/inside-moltbook-the-social-network-where-14-million-ai-agents-talk-and-humans-just-watch/)**
+**["We're in the singularity": New AI platform skips the humans entirely](https://www.axios.com/2026/01/31/ai-moltbook-human-need-tech)**
 
-Forbes • 17h ago
+It's not science fiction. It's happening right now — and it's freaking out some of the smartest names in artificial intelligence.
 
----
-
-**[Anthropic CEO Warns Of AI Brainwashing Society And Attacking Mental Well-Being](https://www.forbes.com/sites/lanceeliot/2026/02/01/anthropic-ceo-warns-of-ai-brainwashing-society-or-psychotically-crushing-human-mental-well-being/)**
-
-Forbes • 2h ago
+Axios • 19h ago
 
 ---
 
-**[How a Pittsburgh man is harnessing AI to keep ALS from stealing our voices](https://www.post-gazette.com/life/goodness/2026/02/01/als-ai-voice-app-david-betts-pittsburgh/stories/202602010037)**
+**[AI-altered photos and videos of Minneapolis shootings blur reality](https://www.nbcnews.com/tech/tech-news/ai-altered-photos-videos-minneapolis-shootings-blur-reality-rcna256552)**
 
-On a quiet, cold day inside his Mount Washington home, David Betts sits in his living room, framed by sweeping views of Downtown Pittsburgh.
-The walls...
+Social media users are trying to use AI to get clearer images and videos of the Minneapolis shootings but are instead misleading millions.
 
-Pittsburgh Post-Gazette • 1h ago
-
----
-
-**[Elon Musk's work option future made real: UK minister floats universal basic income for AI job cuts](https://fortune.com/2026/02/01/elon-musk-optional-work-fantasy-universal-basic-income-uk-minister-jason-stockwood/)**
-
-This week, Anthropic CEO Dario Amodei warned of “unusually painful” disruptions to the labor market as a result of AI.
-
-Fortune • 1h ago
+NBC News • 55m ago
 
 ---
 
-**[Opinion | Young People Are Using A.I. to Skip the Hardest Part of Growing Up](https://www.nytimes.com/2026/01/30/opinion/ai-social-skills-relationships.html)**
+**[Got $5,000? These Are 3 of the Cheapest Artificial Intelligence (AI) Stocks to Buy Right Now](https://finance.yahoo.com/news/got-5-000-3-cheapest-100400642.html)**
 
-The New York Times • 2d ago
+These AI stocks are inexpensive for a simple reason: They should grow by leaps and bounds.
+
+Yahoo Finance • 51m ago
+
+---
+
+**[CEO of $1.25 billion AI company hires Gen Z because they’re ‘less biased’ than older generations](https://fortune.com/2026/02/01/ceo-of-1-25-billion-company-incode-ricardo-amper-hires-gen-z-less-biased-too-much-knowledge-bad/)**
+
+The founder and CEO of $1.25 billion AI identity verification platform Incode, Ricardo Amper, says Gen Z’s naivety is actually a powerful resource.
+
+Fortune • 52m ago
+
+---
+
+**[Opinion | Pay More Attention to A.I.](https://www.nytimes.com/2026/01/31/opinion/artificial-intelligence-new-world.html)**
+
+The New York Times • 22h ago
 
 ---
 
@@ -162,7 +165,7 @@ Anthropic • 2d ago
 
 **[AI Boom Is Triggering a Loan Meltdown for Software Companies: Credit Weekly](https://www.bloomberg.com/news/articles/2026-01-31/ai-boom-is-triggering-a-loan-meltdown-for-software-companies-credit-weekly)**
 
-Bloomberg.com • 14h ago
+Bloomberg • 14h ago
 
 ---
 
@@ -172,17 +175,19 @@ The Hill • 1d ago
 
 ---
 
-**[Videogame stocks slide on Google's AI model that turns prompts into playable worlds](https://www.reuters.com/business/videogame-stocks-slide-googles-ai-model-that-turns-prompts-into-playable-worlds-2026-01-30/)**
+**[Elon Musk's SpaceX applies to launch 1m satellites into orbit](https://www.bbc.com/news/articles/cyv5l24mrjmo)**
 
-Reuters • 1d ago
+The firm wants to create a network of "orbital data centres" to power artificial intelligence.
+
+BBC • 18h ago
 
 ---
 
-**[AI, crypto and Trump super PACs stash millions to spend on the midterms](https://www.nbcnews.com/politics/2026-election/ai-crypto-trump-super-pacs-stash-millions-spend-midterms-rcna256622)**
+**["Won't Stop Calling": AI Goes Rogue, CEO Says It Now "Controls His Computer"](https://www.ndtv.com/world-news/wont-stop-calling-ai-goes-rogue-ceo-says-it-now-controls-his-computer-10922895)**
 
-MAGA Inc. ended 2025 with more than $300 million on hand, as groups tied to the cryptocurrency and artificial intelligence industries aim to flex their political muscle.
+The video shows the AI agent interacting with the user via phone and following his instructions to open YouTube on the computer.
 
-NBC News • 6h ago
+NDTV • 6h ago
 
 ---
 
@@ -286,7 +291,7 @@ A new platform called Moltbook is going viral — and it's not built for humans.
 
 📺 Mint
 
-👁️ 6K • 👍 79 • 💬 17 • ⏱️ 3:25 • 17h ago
+👁️ 6K • 👍 79 • 💬 17 • ⏱️ 3:25 • 18h ago
 
 ---
 
@@ -346,7 +351,7 @@ Nathan Lambert and Sebastian Raschka are machine learning researchers, engineers
 
 📺 Lex Fridman
 
-👁️ 118K • 👍 4K • 💬 274 • ⏱️ 4:25:13 • 11h ago
+👁️ 118K • 👍 4K • 💬 274 • ⏱️ 4:25:13 • 12h ago
 
 ---
 

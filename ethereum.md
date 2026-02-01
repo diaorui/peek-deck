@@ -3,7 +3,7 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-02-01T10:27:44.407710+00:00'
+updated: '2026-02-01T10:55:13.285209+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
@@ -18,7 +18,7 @@ data_types:
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** February 01, 2026 at 10:27 UTC  
+**Last Updated:** February 01, 2026 at 10:55 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,11 +42,11 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** -9.0%  
-**7d:** -17.5%  
-**30d:** -22.8%  
-**90d:** -26.9%  
-**1y:** -15.6%  
+**24h:** -9.4%  
+**7d:** -18.4%  
+**30d:** -23.6%  
+**90d:** -27.7%  
+**1y:** -16.6%  
 
 ---
 
@@ -150,17 +150,33 @@ Watch before one bug costs you everything. https://x.com/SolidityScan/status/201
 
 ## Google News: "ethereum"
 
-**[Bitcoin, XRP, Ethereum Fall on News of Kevin Warsh Fed Appointment.](https://www.barrons.com/articles/bitcoin-xrp-ethereum-crypto-today-954298d9?gaa_at=eafs&gaa_n=AWEtsqf16-hd_T5yLDvYBhSjbdZSwxyFayBLkl3HE1N44251nY8exgLd2fFZ&gaa_ts=697f213d&gaa_sig=RoEf7vVzvQACpabsK6EpG2m_8ewkcvjJcIdbmBAeF81MLWmfqMY--lK-TSKhMshfeOcUVxd6ppsGDjuYlSZMVg%3D%3D)**
+**[Crypto Crash: Liquidations Top $2.5 Billion as Bitcoin, Ethereum and XRP Prices Plummet](https://finance.yahoo.com/news/crypto-crash-liquidations-top-2-203516968.html)**
 
-Barron's • 1d ago
+The crypto market's recent decline only accelerated Saturday, with Bitcoin falling to nearly $77,000 as liquidations piled up.
+
+Yahoo Finance • 14h ago
 
 ---
 
-**[Single trader just lost $220 million as ether plunged 10%](https://www.coindesk.com/markets/2026/02/01/single-trader-just-lost-usd220-million-as-ether-plunged-10)**
+**[AI Models Predict Ethereum, Solana, and XRP 2026 Prices—Which Altcoin Has the Biggest Upside?](https://finance.yahoo.com/news/ai-models-predict-ethereum-solana-193044962.html)**
 
-A massive ETH liquidation on Hyperliquid led a leverage-driven wipeout that pushed total crypto liquidations past $2.5 billion in 24 hours.
+Four major AI models have projected 2026 price targets for Ethereum (CRYPTO: ETH), Solana (CRYPTO: SOL), and XRP (CRYPTO: XRP). The forecasts range from conservative consolidation to triple-digit percentage gains, with each asset showing different upside potential based on adoption trends, network activity, and market positioning. Ethereum anchors institutional DeFi with mature Layer 2 networks, ... AI Models Predict Ethereum, Solana, and XRP 2026 Prices—Which Altcoin Has the Biggest Upside?
 
-CoinDesk • 3h ago
+Yahoo Finance • 1d ago
+
+---
+
+**[Nearly $3 Billion Ethereum Selling Could Drive a 16% Crash](https://finance.yahoo.com/news/nearly-3-billion-ethereum-selling-191410702.html)**
+
+Ethereum faces heavy selling pressure as $2.8 billion whale distribution raises risks of a 16% price correction.
+
+Yahoo Finance • 15h ago
+
+---
+
+**[Ethereum Price, ETH to USD, Research, News & Fundraising](https://messari.io/project/ethereum)**
+
+Messari • 3d ago
 
 ---
 
@@ -168,23 +184,7 @@ CoinDesk • 3h ago
 
 Ethereum Falls 10% In Selloff
 
-Investing.com • 16h ago
-
----
-
-**[Ethereum Supply Tightens With 45% of ETH Locked: Sygnum](https://thedefiant.io/news/research-and-opinion/ethereum-supply-tightens-with-45-of-eth-locked-sygnum)**
-
-ETF buying, staking and corporate holdings continue to reduce liquid ETH.
-
-thedefiant.io • 1d ago
-
----
-
-**[Ethereum Price Prediction: $2,400 Crash Opens $1,435 Risk](https://coinpaper.com/14198/ethereum-price-prediction-2-400-crash-opens-1-435-risk)**
-
-ETH plunges to $2,400 after heavy liquidations, with analysts warning a deeper move toward $1,435 is possible.
-
-Coinpaper • 14h ago
+Investing.com • 17h ago
 
 ---
 
@@ -196,35 +196,35 @@ The Motley Fool • 2d ago
 
 ---
 
-**[BitMine Immersion Can’t Stop Buying Ethereum as Crypto Prices Tank](https://www.barchart.com/story/news/37329357/bitmine-immersion-cant-stop-buying-ethereum-as-crypto-prices-tank)**
+**[Why are Bitcoin, Ethereum and XRP Prices Crashing Today?](https://coinpedia.org/news/why-are-bitcoin-ethereum-and-xrp-prices-crashing-today-3/)**
 
-BitMine Immersion continues to accumulate Ethereum amid price declines, following a treasury strategy inspired by Strategy.
+The crypto market is facing a major sell-off today, with total market value dropping to $2.66 trillion, down more than 6% in the last 24 hours. Bitcoin,
 
-Barchart.com • 1d ago
-
----
-
-**[Brock Pierce-backed Ethereum treasury firm Bit Digital to fully wind down bitcoin mining operations](https://www.theblock.co/post/387748/brock-pierce-ethereum-treasury-bit-digital-wind-down-bitcoin-mining)**
-
-Bit Digital entered the bitcoin mining business in 2020 and was an early diversifier into the HPC/AI sector.
-
-The Block • 2d ago
+Coinpedia Fintech News • 4h ago
 
 ---
 
-**[Ethereum Price Could Crash 16% Because of This Action](https://beincrypto.com/ethereum-selling-could-validate-price-crash/)**
+**[Ethereum Price Prediction: Is ETH Heading to $2K After 15% Weekly Drop?](https://cryptopotato.com/ethereum-price-prediction-is-eth-heading-to-2k-after-15-weekly-drop/)**
 
-Ethereum faces heavy selling pressure as $2.8 billion whale distribution raises risks of a 16% price correction.
+Ethereum remains structurally bearish, with the price reacting to demand but lacking confirmation of a meaningful trend shift. The interaction between
 
-BeInCrypto • 15h ago
+CryptoPotato • 18h ago
 
 ---
 
-**[Tom Lee Urges Investors Not To Ignore Ethereum While Metals Surge, as BitMine Stakes Another $440.5M ETH](https://www.ccn.com/news/crypto/tom-lee-ignore-ethereum-metals-surge-bitmine-stakes-440-5m-eth/)**
+**[Single trader just lost $220 million as ether plunged 10%](https://www.coindesk.com/markets/2026/02/01/single-trader-just-lost-usd220-million-as-ether-plunged-10)**
 
-Tom Lee has warned investors against ignoring Ethereum as soaring gold and silver prices hit record heights.
+A massive ETH liquidation on Hyperliquid led a leverage-driven wipeout that pushed total crypto liquidations past $2.5 billion in 24 hours.
 
-CCN.com • 3d ago
+CoinDesk • 3h ago
+
+---
+
+**[Bitcoin Price Crashes Below $80K as Ethereum Loses $2.5K Support — 5 Reasons the Selloff Isn’t Over](https://www.ccn.com/education/crypto/bitcoin-80k-crash-eth-2-5k-break-bitmine-6b-losses-bloodbath-warning/)**
+
+Bitcoin and Ethereum break key support as ETFs bleed, liquidations surge, and BitMine posts $6B+ losses. Is the selloff just beginning?
+
+CCN.com • 12h ago
 
 ---
 
@@ -238,7 +238,7 @@ Nick Valdez looks at the latest market crash with the next level Bitcoin MUST ho
 
 📺 Discover Crypto
 
-👁️ 17K • 👍 670 • 💬 191 • ⏱️ 4:28 • 12h ago
+👁️ 17K • 👍 670 • 💬 191 • ⏱️ 4:28 • 13h ago
 
 ---
 
@@ -298,7 +298,7 @@ EMERGENCY UPDATE: CRYPTO CRASH INTENSIFIES! (Here's Why) The crypto market is in
 
 📺 Tim Warren
 
-👁️ 20K • 👍 1K • 💬 435 • ⏱️ 11:12 • 15h ago
+👁️ 20K • 👍 1K • 💬 435 • ⏱️ 11:12 • 16h ago
 
 ---
 
@@ -328,7 +328,7 @@ FREE TRAINING: https://www.bullmania.com EXCHANGES I USE (bybit, pionex): https:
 
 📺 Ivan on Tech
 
-👁️ 27K • 👍 2K • 💬 130 • ⏱️ 44:59 • 16h ago
+👁️ 27K • 👍 2K • 💬 130 • ⏱️ 44:59 • 17h ago
 
 ---
 
