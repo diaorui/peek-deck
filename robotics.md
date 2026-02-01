@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-02-01T17:25:50.008967+00:00'
+updated: '2026-02-01T17:50:37.375231+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
+- videos
 - news
 - social
-- videos
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** February 01, 2026 at 17:25 UTC  
+**Last Updated:** February 01, 2026 at 17:50 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -58,7 +58,7 @@ I hadn't seen the whole video yesterday when I posted it. From The Humanoid Hub 
 
 The real meat and potatoes: I made this as a modular brain for my other robots I built recently. Right now I’m building her a tiny combat robot body so I can’t wait to program her fight moves. Already slightly tested it but just to get her to stand in a T pose then relax all motors after 5 seconds to get an idea of how to map her body. That was when I used a pi zero tho so more work is definitely needed. After that I need to completely redesign her casing. It’s literally made from an outer frame I printed in a rush and a piece of plastic that held her oled screen in the packaging.
 
-19h ago
+20h ago
 
 ---
 
@@ -106,7 +106,7 @@ From: CyberRobo on 𝕏: https://x.com/CyberRobooo/status/2017544750694551618 Ro
 
 First time posting here! Ive been messing around with my dad’s scraps for a while, but finally found a rover kit! I built this chassis using a mix of 5-year-old kits and random scraps I had lying around. It was a late night, but getting an actual chassis/frame plus the wiring to work felt amazing. Really really simple build, put it together via an old ESP 32, ( after many cable, Bluetooth pairing, and firmware hassles ) archaic L298N motor driver, and for battery a basic series circuit to up the voltage ( don’t even have batteries sitting haha) I’ve been learning a ton from Practical Electronics for Inventors and The Art of Electronics, but I'm looking for what to tackle next. I’d love to hear your suggestions for: Books that bridge mechanical engineering and embedded systems. Courses on more advanced control (maybe leading into ROS 2?). I’ve played around built software applications with agentic workflows and played around w yolov8 as well. But definitely need more resources on robotics + AI. Let me know if you guys have any tips!!
 
-16h ago
+17h ago
 
 ---
 
@@ -118,7 +118,7 @@ First time posting here! Ive been messing around with my dad’s scraps for a wh
 
 Morgan Stanley analysts highlight stocks of companies that sell specialized robotics parts.
 
-CNBC • 3h ago
+CNBC • 4h ago
 
 ---
 
@@ -142,7 +142,7 @@ NBC News • 2d ago
 
 Changing robot standards provide an opportunity for designers of cobots to deliver improved safety and greater functionality, says IDEC.
 
-The Robot Report • 3h ago
+The Robot Report • 4h ago
 
 ---
 
@@ -274,7 +274,7 @@ Some people are getting concerned because automatic AI pizza-making machines are
 
 📺 Taylor Jollie
 
-👁️ 22K • 👍 117 • 💬 12 • ⏱️ 0:19 • 2d ago
+👁️ 22K • 👍 117 • 💬 12 • ⏱️ 0:19 • 3d ago
 
 ---
 
@@ -284,7 +284,7 @@ ObstacleAvoidance #ArduinoRobot #Robotics #TechReels #DIYProjects.
 
 📺 Roboarmy
 
-👁️ 16K • 👍 246 • 💬 2 • ⏱️ 0:20 • 1d ago
+👁️ 16K • 👍 246 • 💬 2 • ⏱️ 0:20 • 2d ago
 
 ---
 

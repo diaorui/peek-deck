@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-02-01T17:25:49.999586+00:00'
+updated: '2026-02-01T17:50:37.366128+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
+- videos
+- cryptocurrency
 - news
 - social
-- cryptocurrency
-- videos
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** February 01, 2026 at 17:25 UTC  
+**Last Updated:** February 01, 2026 at 17:50 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -109,7 +109,7 @@ Best Case Scenario - BTC will test 92K, if it breaks it will set a new ATH. Wors
 
 I'm not wasting these cheap stacks. HODL and BUY!
 
-23h ago
+1d ago
 
 ---
 
@@ -133,7 +133,7 @@ Just started investing in BTC yesterday evening. Purchased my initial batch at 6
 
 During pandemic I have seen the bounce
 
-2h ago
+3h ago
 
 ---
 
@@ -235,7 +235,7 @@ The Motley Fool • 2d ago
 
 **[Bitcoin Looks Set for Longest Monthly Losing Streak Since 2018](https://news.ycombinator.com/item?id=46838644)**
 
-⬆️ 68 • 💬 74 • 23h ago • [bloomberg.com](https://www.bloomberg.com/news/articles/2026-01-30/bitcoin-btc-slides-toward-longest-monthly-losing-streak-since-2018)
+⬆️ 68 • 💬 74 • 1d ago • [bloomberg.com](https://www.bloomberg.com/news/articles/2026-01-30/bitcoin-btc-slides-toward-longest-monthly-losing-streak-since-2018)
 
 ---
 
@@ -347,7 +347,7 @@ When Will the Current U.S. Government Shutdown End?
 
 📺 CryptosRUs
 
-👁️ 63K • 👍 2K • 💬 923 • ⏱️ 11:12 • 15h ago
+👁️ 63K • 👍 2K • 💬 923 • ⏱️ 11:12 • 16h ago
 
 ---
 
@@ -357,7 +357,7 @@ BTC #Bitcoin #Cryptocurrency Join Michael Saylor for his unforgettable keynote a
 
 📺 TheGameBoyGeek - Hi Quality Hi Energy Board Game Reviews
 
-👁️ 75K • 👍 5K • 12h ago
+👁️ 75K • 👍 5K • 13h ago
 
 ---
 
@@ -377,7 +377,7 @@ Let's be honest, most people were more than happy to slam the door on 2025. On p
 
 📺 Coin Bureau
 
-👁️ 13K • 👍 1K • 💬 70 • ⏱️ 21:27 • 4h ago
+👁️ 13K • 👍 1K • 💬 70 • ⏱️ 21:27 • 5h ago
 
 ---
 
@@ -407,7 +407,7 @@ Gold crashes with Silver in tow and now comes Bitcoin. How low can we go? MUCH l
 
 📺 Digital Asset News
 
-👁️ 19K • 👍 976 • 💬 148 • ⏱️ 35:43 • 19h ago
+👁️ 19K • 👍 976 • 💬 148 • ⏱️ 35:43 • 20h ago
 
 ---
 

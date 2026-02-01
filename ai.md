@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-02-01T17:25:49.991047+00:00'
+updated: '2026-02-01T17:50:37.357681+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
+- videos
+- repositories
 - news
 - social
-- repositories
-- videos
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** February 01, 2026 at 17:25 UTC  
+**Last Updated:** February 01, 2026 at 17:50 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -41,7 +41,7 @@ AI news, discussions, and developments
 
 The comment follows reports that the rocket maker is weighing a transaction that could further consolidate Musk’s space and AI ventures.
 
-🔗 [TESLARATI](https://www.teslarati.com/rumored-spacex-xai-merger-gets-apparent-confirmation-from-elon-musk/) • 6h ago
+🔗 [TESLARATI](https://www.teslarati.com/rumored-spacex-xai-merger-gets-apparent-confirmation-from-elon-musk/) • 7h ago
 
 ---
 
@@ -57,7 +57,7 @@ What moltbook is So essentially There is this open source AI bot called openclaw
 
 SpaceX's filing claims these satellites will be “a first step towards becoming a Kardashev II-level civilization — one that can harness the Sun’s full power."
 
-🔗 [TechCrunch](https://techcrunch.com/2026/01/31/spacex-seeks-federal-approval-to-launch-1-million-solar-powered-satellite-data-centers/) • 14h ago
+🔗 [TechCrunch](https://techcrunch.com/2026/01/31/spacex-seeks-federal-approval-to-launch-1-million-solar-powered-satellite-data-centers/) • 15h ago
 
 ---
 
@@ -65,7 +65,7 @@ SpaceX's filing claims these satellites will be “a first step towards becoming
 
 I subscribe to a few AI podcasts, but I wanted to know of any others that you can recommend. Not looking for anything too deep, in fact, prefer the ones that are lighter and an easy listen or watch. let me know your faves.
 
-2m ago
+27m ago
 
 ---
 
@@ -81,7 +81,7 @@ I’m looking to dive into clawdbot. What do you guys think of this use case and
 
 So I was using LLM for studying advance language/framework/design topics. Whenever I have some question I would try on GPT but it will always give me answer in points no matter what prompt I try or create a separate workbook with new memory. It will always give me answer in small basic points. I wanted to learn topics in depth but it just refuses to give me better indepth answer just everything in basic points. Gemini sometimes is not able to understand context but the answer quality is just amazing and everything is in just depth, it uses points also but they are much better explained than GPT. Also the free version limit is just getting frustrating now in GPT and extremely long wait time for images, it has gotten so bad that I never though I would completely uninstall GPT and prefer gemini over it.
 
-6h ago
+7h ago
 
 ---
 
@@ -111,7 +111,7 @@ AI coding tools are getting more sophisticated. But if coders stop coding, what 
 
 The digital landscape has shifted from "Human-to-AI" interaction to a baffling new frontier: AI-to-AI social networking. At the center of th...
 
-🔗 [Ecency](https://ecency.com/@pichat/the-rise-of-moltbook-why-150000-ai-agents-ditched-humans-to-build-their-own-society-jja) • 3h ago
+🔗 [Ecency](https://ecency.com/@pichat/the-rise-of-moltbook-why-150000-ai-agents-ditched-humans-to-build-their-own-society-jja) • 4h ago
 
 ---
 
@@ -151,7 +151,7 @@ The Information • 1h ago
 
 Are investors overestimating the risk from AI?
 
-The Economist • 24m ago
+The Economist • 49m ago
 
 ---
 
@@ -181,7 +181,7 @@ Financial Times • 12h ago
 
 A whistleblower complaint filed with the SEC claims that Google breached its own ethics rules to help an Israeli contractor apply AI to drone surveillance video.
 
-The Washington Post • 33m ago
+The Washington Post • 58m ago
 
 ---
 
@@ -189,7 +189,7 @@ The Washington Post • 33m ago
 
 You can buy an AI version of your lost loved one. But should you?
 
-The Atlantic • 4h ago
+The Atlantic • 5h ago
 
 ---
 
@@ -297,7 +297,7 @@ Want to make money and save time with AI? Get AI Coaching, Support & Courses ...
 
 📺 Julian Goldie SEO
 
-👁️ 939 • 👍 68 • 💬 4 • ⏱️ 8:15 • 3h ago
+👁️ 939 • 👍 68 • 💬 4 • ⏱️ 8:15 • 4h ago
 
 ---
 
@@ -347,7 +347,7 @@ Nathan Lambert and Sebastian Raschka are machine learning researchers, engineers
 
 📺 Lex Fridman
 
-👁️ 184K • 👍 5K • 💬 393 • ⏱️ 4:25:13 • 18h ago
+👁️ 184K • 👍 5K • 💬 393 • ⏱️ 4:25:13 • 19h ago
 
 ---
 
@@ -701,7 +701,7 @@ The Ultimate Collection of 600+ Agentic Skills for Claude Code/Antigravity/Curso
 
 `Python` `agentic-skills` `ai-agents` `antigravity` `autonomous-coding` `claude-code`
 
-⭐ 6.0k • 🔱 1.3k • 9h ago
+⭐ 6.0k • 🔱 1.3k • 10h ago
 
 ---
 
