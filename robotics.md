@@ -3,13 +3,13 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-02-01T12:52:58.306266+00:00'
+updated: '2026-02-01T13:44:10.834799+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- videos
 - news
+- videos
 - social
 ---
 
@@ -17,7 +17,7 @@ data_types:
 
 Robotics research and industry news
 
-**Last Updated:** February 01, 2026 at 12:52 UTC  
+**Last Updated:** February 01, 2026 at 13:44 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -36,7 +36,7 @@ Robotics research and industry news
 
 I hadn't seen the whole video yesterday when I posted it. From The Humanoid Hub on 𝕏: https://x.com/TheHumanoidHub/status/2017646098136141858
 
-8h ago
+9h ago
 
 ---
 
@@ -44,7 +44,7 @@ I hadn't seen the whole video yesterday when I posted it. From The Humanoid Hub 
 
 From DEEP Robotics on 𝕏: https://x.com/DeepRobotics_CN/status/2017114429360656740
 
-1h ago
+2h ago
 
 ---
 
@@ -52,7 +52,7 @@ From DEEP Robotics on 𝕏: https://x.com/DeepRobotics_CN/status/201711442936065
 
 The real meat and potatoes: I made this as a modular brain for my other robots I built recently. Right now I’m building her a tiny combat robot body so I can’t wait to program her fight moves. Already slightly tested it but just to get her to stand in a T pose then relax all motors after 5 seconds to get an idea of how to map her body. That was when I used a pi zero tho so more work is definitely needed. After that I need to completely redesign her casing. It’s literally made from an outer frame I printed in a rush and a piece of plastic that held her oled screen in the packaging.
 
-15h ago
+16h ago
 
 ---
 
@@ -60,7 +60,7 @@ The real meat and potatoes: I made this as a modular brain for my other robots I
 
 Day:30 1- Base body and MCU from Sunfounder 2-Built over raspberry pi5 and powered by OpenAI 3- Connected to N8N for tooling like web search., scraping etc Let me know your thoughts 😊
 
-17h ago
+18h ago
 
 ---
 
@@ -68,7 +68,7 @@ Day:30 1- Base body and MCU from Sunfounder 2-Built over raspberry pi5 and power
 
 Hi, I’m working on a repurposed electric wheelchair chassis (>100 kg, high-torque DC motors). Current test setup (yes, I know it’s not safe): • 2 DC motors • Sabertooth 2x32 • 24 V battery pack (2×12 V AGM) • Batteries connected directly to the Sabertooth • Motors connected directly to the Sabertooth • Control is classic RC (throttle + steering) • Motors have normally-closed electromagnetic brakes, but they are not wired yet (mechanically released) Right now: • As soon as I connect the batteries, the controller is powered • There is no real kill switch • The only way to stop everything is unplugging battery connectors • If something goes wrong, the platform could move uncontrollably I’m fully aware this is not acceptable, which is why I’m posting. My goal is to make this safe in as many realistic failure scenarios as possible: • If the main battery disconnects on a slope, the system should default to a safe state (this is where normally-closed electromagnetic brakes make sense). • If RC glitches, is lost, or a microcontroller crashes, the platform must not run away. • Whatever fails (RC, MCU, software, power), there should always be a solid hardware-level barrier preventing uncontrolled motion. I’m planning a hardware upgrade soon: • proper E-STOP / kill switch • DC contactors • wiring the electromagnetic brakes • and adding some kind of MCU in the control chain (ESP32 is the obvious option for me, but Raspberry Pi / onboard computer is also possible) The Sabertooth will remain only the motor power controller. The open question for me is the architecture: whether it’s better to keep “safety/control” and “robotics/autonomy” separated (for example one small MCU for safety + another board for higher-level stuff), or if people commonly keep everything on one controller. What I’m looking for is very practical advice: • How to design a solid anti-runaway architecture for this kind of platform • Where to physically cut power to make the system safe (battery side vs motor lines) • What type of DC contactors is typically used for high-torque DC motors (ratings, poles, inductive loads) • How normally-closed electromagnetic brakes are usually wired in a fail-safe way • How people typically split responsibilities between hardware safety, motor controller config, and a microcontroller (one vs two controllers, etc.) I’m not chasing theory or certifications. I want proven, practical solutions that people actually use to make platforms like this safe to power on. Thanks.
 
-19h ago
+20h ago
 
 ---
 
@@ -84,13 +84,13 @@ From: CyberRobo on 𝕏: https://x.com/CyberRobooo/status/2017544750694551618 Ro
 
 Saw this one at Wuhu train station in China. Answers questions at a desk. It looks like it has a lot of ability but it otherwise doesn't move at all. Even when you ask it to wave it says "sure, here's a friendly wave" but doesn't move an inch.
 
-10h ago
+11h ago
 
 ---
 
 **[The future of remote workers?](https://www.reddit.com/r/robotics/comments/1qsmoj2/the_future_of_remote_workers/)**
 
-9h ago
+10h ago
 
 ---
 
@@ -106,7 +106,7 @@ First time posting here! Ive been messing around with my dad’s scraps for a wh
 
 Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.
 
-🔗 [youtube.com](https://www.youtube.com/watch?v=QDU_FicBPDo) • 3h ago
+🔗 [youtube.com](https://www.youtube.com/watch?v=QDU_FicBPDo) • 4h ago
 
 ---
 
@@ -116,7 +116,7 @@ Enjoy the videos and music you love, upload original content, and share it all w
 
 **[Serve Robotics vs. Teradyne: Which Robotics Stock Is the Better Buy?](https://www.zacks.com/stock/news/2825962/serve-robotics-vs-teradyne-which-robotics-stock-is-the-better-buy)**
 
-Zacks Investment Research • 1d ago
+Zacks Investment Research • 2d ago
 
 ---
 
@@ -168,7 +168,7 @@ KRON4 • 2d ago
 
 Tesla’s pivot to producing humanoid robots is expected to engage a network of key Chinese component makers.
 
-South China Morning Post • 6h ago
+South China Morning Post • 7h ago
 
 ---
 
@@ -198,7 +198,7 @@ XPENG just took a massive step forward in humanoid robotics. The New IRON robot 
 
 📺 DPCcars
 
-👁️ 3K • 👍 62 • 💬 18 • ⏱️ 1:21 • 16h ago
+👁️ 3K • 👍 62 • 💬 18 • ⏱️ 1:21 • 17h ago
 
 ---
 
@@ -246,7 +246,7 @@ Andrea Nakano reports on the Tesla Fremont factory ending Model S/X production a
 
 📺 Ryan Shaw
 
-👁️ 2K • 👍 41 • 💬 2 • ⏱️ 1:03 • 9h ago
+👁️ 2K • 👍 41 • 💬 2 • ⏱️ 1:03 • 10h ago
 
 ---
 
@@ -274,7 +274,7 @@ Wait, there was a robot who woke up and started asking for skin?! Sounds like a 
 
 📺 LaurenZside
 
-👁️ 205K • 👍 13K • 💬 2K • ⏱️ 19:59 • 21h ago
+👁️ 205K • 👍 13K • 💬 2K • ⏱️ 19:59 • 22h ago
 
 ---
 

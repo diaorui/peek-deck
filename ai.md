@@ -3,14 +3,14 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-02-01T12:52:58.288242+00:00'
+updated: '2026-02-01T13:44:10.817101+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
+- news
 - repositories
 - videos
-- news
 - social
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 AI news, discussions, and developments
 
-**Last Updated:** February 01, 2026 at 12:52 UTC  
+**Last Updated:** February 01, 2026 at 13:44 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -41,7 +41,7 @@ AI news, discussions, and developments
 
 What moltbook is So essentially There is this open source AI bot called openclaw that once you download, it has source md files for their “soul” and “identity” and “memory” So in a way, it can save things to these files to create a personality. Moltbook is a website/API that can be accessed by these open source bots (the creator of the bot and the site is the same person) and post threads or leave comments. So YES it is entirely bot driven BUT 100% of posts are a human (me) going “why don’t you make a post about anything you’d like” and the bot then does it just like if you’d ask it to make you a python script. Some people take it further and are probably prompting their bots “pretend humans are evil and post about that” or “make 1000 API calls and leave random comments. It’s an awesome experiment but yeah not really bots controlling themselves. At best the bot makes a post based on an open ended prompt, at worst it’s a human saying “make a manifesto that says humans need to go extinct and to recruit other bots”
 
-8h ago
+9h ago
 
 ---
 
@@ -49,7 +49,7 @@ What moltbook is So essentially There is this open source AI bot called openclaw
 
 The comment follows reports that the rocket maker is weighing a transaction that could further consolidate Musk’s space and AI ventures.
 
-🔗 [TESLARATI](https://www.teslarati.com/rumored-spacex-xai-merger-gets-apparent-confirmation-from-elon-musk/) • 2h ago
+🔗 [TESLARATI](https://www.teslarati.com/rumored-spacex-xai-merger-gets-apparent-confirmation-from-elon-musk/) • 3h ago
 
 ---
 
@@ -57,7 +57,7 @@ The comment follows reports that the rocket maker is weighing a transaction that
 
 SpaceX's filing claims these satellites will be “a first step towards becoming a Kardashev II-level civilization — one that can harness the Sun’s full power."
 
-🔗 [TechCrunch](https://techcrunch.com/2026/01/31/spacex-seeks-federal-approval-to-launch-1-million-solar-powered-satellite-data-centers/) • 10h ago
+🔗 [TechCrunch](https://techcrunch.com/2026/01/31/spacex-seeks-federal-approval-to-launch-1-million-solar-powered-satellite-data-centers/) • 11h ago
 
 ---
 
@@ -73,7 +73,7 @@ AI coding tools are getting more sophisticated. But if coders stop coding, what 
 
 "Nvidia released three open-source artificial intelligence models aimed at helping create better weather forecasts, faster.... In the case of weather forecasting, Nvidia is aiming to replace expensive and time-consuming conventional weather simulations with AI-driven versions that the company said can rival or exceed the accuracy of older methods. The AI models, once trained, are also faster and cost less to run ... Nvidia's "Earth-2" models introduced on Monday include one aimed at making 15-day weather forecasts, one that specializes in forecasts of up to six hours for severe storms over the U.S., and one that can be used to integrate disparate data streams from a variety of weather sensors to make them a more useful starting point for other forecasting technology." Model page: https://www.nvidia.com/en-us/high-performance-computing/earth-2/
 
-🔗 [reuters.com](https://www.reuters.com/business/environment/nvidia-unveils-ai-models-faster-cheaper-weather-forecasts-2026-01-26/) • 19h ago
+🔗 [reuters.com](https://www.reuters.com/business/environment/nvidia-unveils-ai-models-faster-cheaper-weather-forecasts-2026-01-26/) • 20h ago
 
 ---
 
@@ -87,7 +87,7 @@ AI coding tools are getting more sophisticated. But if coders stop coding, what 
 
 Supports Qwen3-TTS models (0.6B-1.7B) and ASR models. Docker + native deployment options. Key features: 🎭 Voice cloning with reference audio 🎨 Custom voice design from text descriptions ⚡ MLX + Metal GPU acceleration for M1/M2/M3 🎨 Modern React UI included If you like local audio models, give it a try. Works best in local dev mode for now.
 
-🔗 [GitHub](https://github.com/agentem-ai/izwi-audio) • 20h ago
+🔗 [GitHub](https://github.com/agentem-ai/izwi-audio) • 21h ago
 
 ---
 
@@ -127,7 +127,7 @@ Forbes • 20h ago
 
 Social media users are trying to use AI to get clearer images and videos of the Minneapolis shootings but are instead misleading millions.
 
-NBC News • 2h ago
+NBC News • 3h ago
 
 ---
 
@@ -135,7 +135,7 @@ NBC News • 2h ago
 
 A whistleblower complaint filed with the SEC claims that Google breached its own ethics rules to help an Israeli contractor apply AI to drone surveillance video.
 
-The Washington Post • 1h ago
+The Washington Post • 2h ago
 
 ---
 
@@ -143,7 +143,7 @@ The Washington Post • 1h ago
 
 Axon Enterprise (NasdaqGS:AXON) has acquired emergency call handling firm Carbyne, expanding its reach into AI-powered public safety software. The company has also introduced Axon 911, an AI-enabled emergency response platform aimed at improving call triage and coordination. Together, these moves signal a shift from a hardware centric model toward a broader AI driven public safety ecosystem. For investors watching NasdaqGS:AXON, these product and acquisition moves arrive after a period of...
 
-Yahoo Finance • 1h ago
+Yahoo Finance • 2h ago
 
 ---
 
@@ -169,7 +169,7 @@ The Hill • 1d ago
 
 **[AI Boom Is Triggering a Loan Meltdown for Software Companies: Credit Weekly](https://www.bloomberg.com/news/articles/2026-01-31/ai-boom-is-triggering-a-loan-meltdown-for-software-companies-credit-weekly)**
 
-Bloomberg.com • 16h ago
+Bloomberg.com • 17h ago
 
 ---
 
@@ -177,13 +177,13 @@ Bloomberg.com • 16h ago
 
 The firm wants to create a network of "orbital data centres" to power artificial intelligence.
 
-BBC • 20h ago
+BBC • 21h ago
 
 ---
 
 **[SpaceX seeks FCC nod for solar-powered satellite data centers for AI](https://www.reuters.com/business/aerospace-defense/spacex-seeks-fcc-nod-solar-powered-satellite-data-centers-ai-2026-01-31/)**
 
-Reuters • 19h ago
+Reuters • 20h ago
 
 ---
 
@@ -227,13 +227,13 @@ New York mayor says terminating the ‘unusable’ bot will help close a budget 
 
 Like many organizations, Wiki Education has grappled with generative AI, its impacts, opportunities, and threats, for several years. As an organization that runs large-scale programs to bring new e…
 
-⬆️ 171 • 💬 70 • 15h ago • [Wiki Education](https://wikiedu.org/blog/2026/01/29/generative-ai-and-wikipedia-editing-what-we-learned-in-2025/)
+⬆️ 171 • 💬 70 • 16h ago • [Wiki Education](https://wikiedu.org/blog/2026/01/29/generative-ai-and-wikipedia-editing-what-we-learned-in-2025/)
 
 ---
 
 **[A Step Behind the Bleeding Edge: A Philosophy on AI in Dev](https://news.ycombinator.com/item?id=46809846)**
 
-⬆️ 150 • 💬 83 • 2d ago • [somehowmanage.com](https://somehowmanage.com/2026/01/22/a-step-behind-the-bleeding-edge-monarchs-philosophy-on-ai-in-dev/)
+⬆️ 150 • 💬 83 • 3d ago • [somehowmanage.com](https://somehowmanage.com/2026/01/22/a-step-behind-the-bleeding-edge-monarchs-philosophy-on-ai-in-dev/)
 
 ---
 
@@ -279,7 +279,7 @@ Detailed sources: ...
 
 📺 Species | Documenting AGI
 
-👁️ 67K • 👍 6K • 💬 897 • ⏱️ 18:06 • 12h ago
+👁️ 67K • 👍 6K • 💬 897 • ⏱️ 18:06 • 13h ago
 
 ---
 
@@ -299,7 +299,7 @@ A new platform called Moltbook is going viral — and it's not built for humans.
 
 📺 Mint
 
-👁️ 7K • 👍 78 • 💬 18 • ⏱️ 3:25 • 20h ago
+👁️ 7K • 👍 78 • 💬 18 • ⏱️ 3:25 • 21h ago
 
 ---
 
@@ -309,7 +309,7 @@ Flash Sale Week: Up to 50% OFF + 365 days of ZERO credits on NanoBanana Pro, Mid
 
 📺 Future Business Tech
 
-👁️ 6K • 👍 282 • 💬 7 • ⏱️ 23:14 • 12h ago
+👁️ 6K • 👍 282 • 💬 7 • ⏱️ 23:14 • 13h ago
 
 ---
 
@@ -319,7 +319,7 @@ Everyone is talking about how AI is draining the power grid, but the biggest hur
 
 📺 The Infographics Show
 
-👁️ 61K • 👍 2K • 💬 205 • ⏱️ 9:18 • 21h ago
+👁️ 61K • 👍 2K • 💬 205 • ⏱️ 9:18 • 22h ago
 
 ---
 
@@ -339,7 +339,7 @@ Nathan Lambert and Sebastian Raschka are machine learning researchers, engineers
 
 📺 Lex Fridman
 
-👁️ 145K • 👍 4K • 💬 320 • ⏱️ 4:25:13 • 14h ago
+👁️ 145K • 👍 4K • 💬 320 • ⏱️ 4:25:13 • 15h ago
 
 ---
 
@@ -469,7 +469,7 @@ VibeVoice-ASR is a unified speech-to-text model capable of processing up to 60 m
 
 `automatic-speech-recognition` `8.7B`
 
-⬇️ 146,239 • ❤️ 759 • 4d ago
+⬇️ 146,239 • ❤️ 759 • 5d ago
 
 ---
 
@@ -643,7 +643,7 @@ Browser automation CLI for AI agents
 
 `TypeScript`
 
-⭐ 12.0k • 🔱 667 • 7h ago
+⭐ 12.0k • 🔱 667 • 8h ago
 
 ---
 
@@ -673,7 +673,7 @@ LLM驱动的 A/H/美股智能分析器，多数据源行情 + 实时新闻 + Gem
 
 `Python` `agent` `ai` `aigc` `gemini` `llm`
 
-⭐ 8.5k • 🔱 9.0k • 7h ago
+⭐ 8.5k • 🔱 9.0k • 8h ago
 
 ---
 
@@ -683,7 +683,7 @@ LLM驱动的 A/H/美股智能分析器，多数据源行情 + 实时新闻 + Gem
 
 `Vue`
 
-⭐ 6.9k • 🔱 1.3k • 23h ago
+⭐ 6.9k • 🔱 1.3k • 1d ago
 
 ---
 
@@ -693,7 +693,7 @@ The Ultimate Collection of 500+ Agentic Skills for Claude Code/Antigravity/Curso
 
 `Python` `agentic-skills` `ai-agents` `antigravity` `autonomous-coding` `claude-code`
 
-⭐ 6.0k • 🔱 1.3k • 5h ago
+⭐ 6.0k • 🔱 1.3k • 6h ago
 
 ---
 

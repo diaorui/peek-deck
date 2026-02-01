@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-02-01T12:52:58.296926+00:00'
+updated: '2026-02-01T13:44:10.825575+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
+- news
 - videos
 - cryptocurrency
 - social
-- news
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** February 01, 2026 at 12:52 UTC  
+**Last Updated:** February 01, 2026 at 13:44 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -79,13 +79,13 @@ Rank #1
 
 **[Evergreen just like BTC!](https://www.reddit.com/r/Bitcoin/comments/1qs6sj1/evergreen_just_like_btc/)**
 
-20h ago
+21h ago
 
 ---
 
 **[Buy Now](https://www.reddit.com/r/Bitcoin/comments/1qs9mvq/buy_now/)**
 
-18h ago
+19h ago
 
 ---
 
@@ -93,7 +93,7 @@ Rank #1
 
 I'm not wasting these cheap stacks. HODL and BUY!
 
-19h ago
+20h ago
 
 ---
 
@@ -101,7 +101,7 @@ I'm not wasting these cheap stacks. HODL and BUY!
 
 Took advantage of the plummet to get myself over the 0.5 mark!! I know this is small for some and big for others, but I’m quite happy with this! Just wanted to share with others who’d understand - nobody in my life cares lol.
 
-13h ago
+14h ago
 
 ---
 
@@ -109,19 +109,19 @@ Took advantage of the plummet to get myself over the 0.5 mark!! I know this is s
 
 Best Case Scenario - BTC will test 92K, if it breaks it will set a new ATH. Worst Case Scenario - If it looses 50K support, cheap BYC incoming. Regardless, in my experience (since 2015), unless you are an extremely smart person with excellent TA skills supported by a crystal ball, u cannot time the market. DCA, ignore your short term losses. Overall, you will make it. In 2017, I lost a significant amount of money. In 2021, I made a decent profit. I didn’t exit, continue to DCA. Thats my forever strategy that always pays on the long run. Ignore hopium and negative comments. Focus on your bag. Don’t FOMO, don’t panic sell. Aim for profits.
 
-2h ago
+3h ago
 
 ---
 
 **[Today’s message…](https://www.reddit.com/r/Bitcoin/comments/1qscx1s/todays_message/)**
 
-16h ago
+17h ago
 
 ---
 
 **[I’m done](https://www.reddit.com/r/Bitcoin/comments/1qsaxev/im_done/)**
 
-17h ago
+18h ago
 
 ---
 
@@ -129,7 +129,7 @@ Best Case Scenario - BTC will test 92K, if it breaks it will set a new ATH. Wors
 
 Just started investing in BTC yesterday evening. Purchased my initial batch at 65.000 EUR (77.000 USD). Plan on DCAing daily plus additional buys as it drops sharply. One thing I can’t seem to understand is, folks heavily believe in this 4y cycle thing with BTC guessing the bottom in the mid 50ks USD by end of 2026. Yet most people seem to be holding instead of selling and rebuying way cheaper. Can you explain to me pls? If this 4y cylcle was a „law“ why would ppl hold anyways? Thanks
 
-4h ago
+5h ago
 
 ---
 
@@ -137,7 +137,7 @@ Just started investing in BTC yesterday evening. Purchased my initial batch at 6
 
 Anyone that’s “done with bitcoin” never actually understood bitcoin in the first place.
 
-10h ago
+11h ago
 
 ---
 
@@ -145,7 +145,7 @@ Anyone that’s “done with bitcoin” never actually understood bitcoin in the
 
 Wasn't my original plan actually, but the blood is splattering so much that there's no other way.
 
-15h ago
+16h ago
 
 ---
 
@@ -163,7 +163,7 @@ Yahoo Finance • 19h ago
 
 **[Bitcoin Drops Below $78,000 After Trump Taps Kevin Warsh To Lead Federal Reserve](https://www.forbes.com/sites/mikestunson/2026/01/31/bitcoin-is-dropping-fast-heres-why-it-dropped-below-78000/)**
 
-Forbes • 14h ago
+Forbes • 15h ago
 
 ---
 
@@ -179,7 +179,7 @@ Yahoo Finance • 1d ago
 
 President Trump on Friday announced Kevin Warsh as his nominee to succeed Jerome Powell as Chair of the Federal Reserve, yet Bitcoin (CRYPTO: BTC) plunged below $83,000 on the news. Warsh Nomination Shifts Macro Interpretation Technical analyst Kyledoops said a Warsh-led Fed would fundamentally change how markets interpret policy signals, given his reputation as an inflation hawk and strong-dollar advocate. "If Warsh even hints at easing, it would be taken as genuinely meaningful," Kyledoops not
 
-Yahoo Finance • 21h ago
+Yahoo Finance • 22h ago
 
 ---
 
@@ -195,7 +195,7 @@ The Block • 1d ago
 
 The main impact of the price decline is slowing Strategy's ability to buy more bitcoin without diluting shareholders, as its stock now trades at a discount to its bitcoin holdings.
 
-CoinDesk • 15h ago
+CoinDesk • 16h ago
 
 ---
 
@@ -225,7 +225,7 @@ Barron's • 1d ago
 
 The first bank collapse of 2026 coincides with a violent global sell-off that has traders fearing a broader contagion.
 
-CryptoSlate • 15h ago
+CryptoSlate • 16h ago
 
 ---
 
@@ -235,7 +235,7 @@ CryptoSlate • 15h ago
 
 **[Bitcoin Looks Set for Longest Monthly Losing Streak Since 2018](https://news.ycombinator.com/item?id=46838644)**
 
-⬆️ 68 • 💬 68 • 19h ago • [bloomberg.com](https://www.bloomberg.com/news/articles/2026-01-30/bitcoin-btc-slides-toward-longest-monthly-losing-streak-since-2018)
+⬆️ 68 • 💬 68 • 20h ago • [bloomberg.com](https://www.bloomberg.com/news/articles/2026-01-30/bitcoin-btc-slides-toward-longest-monthly-losing-streak-since-2018)
 
 ---
 
@@ -303,7 +303,7 @@ For years, crypto investors have waited for a familiar miracle. Altcoin season. 
 
 Transform HN comment threads into executive intelligence. AI analyzes discussions and delivers sharp, structured briefs (hook, gist, debate, verdict) written in Chief-of-Staff style for tech executives.
 
-⬆️ 4 • 💬 2 • 5d ago • [hnsignals.com](https://hnsignals.com/)
+⬆️ 4 • 💬 2 • 6d ago • [hnsignals.com](https://hnsignals.com/)
 
 ---
 
@@ -317,7 +317,7 @@ This isn't looking good iTrust Capital – $100 Bonus (Crypto IRA & Custody Acco
 
 📺 Aaron Bennett
 
-👁️ 17K • 👍 737 • 💬 154 • ⏱️ 10:16 • 8h ago
+👁️ 17K • 👍 737 • 💬 154 • ⏱️ 10:16 • 9h ago
 
 ---
 
@@ -327,7 +327,7 @@ LIMITED TIME: ✓ Bitunix (no kyc, $10k bonus): https://www.bitunix.com/register
 
 📺 Altcoin Daily
 
-👁️ 66K • 👍 3K • 💬 321 • ⏱️ 9:24 • 12h ago
+👁️ 66K • 👍 3K • 💬 321 • ⏱️ 9:24 • 13h ago
 
 ---
 
@@ -337,7 +337,7 @@ When Will the Current U.S. Government Shutdown End?
 
 📺 CryptosRUs
 
-👁️ 55K • 👍 2K • 💬 847 • ⏱️ 11:12 • 11h ago
+👁️ 55K • 👍 2K • 💬 847 • ⏱️ 11:12 • 12h ago
 
 ---
 
@@ -347,7 +347,7 @@ Take Control of Your Retirement — Grow Crypto & Gold Tax-Advantaged. https://w
 
 📺 Savvy Finance
 
-👁️ 8K • 👍 331 • 💬 17 • ⏱️ 20:55 • 12h ago
+👁️ 8K • 👍 331 • 💬 17 • ⏱️ 20:55 • 13h ago
 
 ---
 
@@ -357,7 +357,7 @@ Introduction & Important Context 0:00-1:21 Bitunix Exchange 1:21-2:02 Analysis 2
 
 📺 Wolves of Crypto
 
-👁️ 3K • 👍 219 • 💬 143 • ⏱️ 11:06 • 6h ago
+👁️ 3K • 👍 219 • 💬 143 • ⏱️ 11:06 • 7h ago
 
 ---
 
@@ -367,7 +367,7 @@ CHECK OUT MY LINKTREE FOR EXCHANGES I USE, BONUSES, FREE VIDEOS, AND MORE! https
 
 📺 My Financial Friend
 
-👁️ 20K • 👍 781 • 💬 367 • ⏱️ 8:03 • 19h ago
+👁️ 20K • 👍 781 • 💬 367 • ⏱️ 8:03 • 20h ago
 
 ---
 
@@ -387,7 +387,7 @@ BTC #Bitcoin #Cryptocurrency Join Michael Saylor for his unforgettable keynote a
 
 📺 TheGameBoyGeek - Hi Quality Hi Energy Board Game Reviews
 
-👁️ 42K • 👍 4K • 8h ago
+👁️ 42K • 👍 4K • 9h ago
 
 ---
 
@@ -397,7 +397,7 @@ The 'Path of Least Resistance' is currently straight down, and the stock market 
 
 📺 Gareth Soloway
 
-👁️ 88K • 👍 6K • 💬 1K • ⏱️ 12:26 • 18h ago
+👁️ 88K • 👍 6K • 💬 1K • ⏱️ 12:26 • 19h ago
 
 ---
 
@@ -407,7 +407,7 @@ WEEX: https://www.weex.com/events/promo/usdtgiveaway?vipCode=00dt&qrType=activit
 
 📺 Crypto Rover
 
-👁️ 6K • 👍 521 • 💬 222 • ⏱️ 10:00 • 5h ago
+👁️ 6K • 👍 521 • 💬 222 • ⏱️ 10:00 • 6h ago
 
 ---
 
