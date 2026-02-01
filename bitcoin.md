@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-02-01T14:28:02.785726+00:00'
+updated: '2026-02-01T14:53:43.248897+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- cryptocurrency
-- news
-- videos
 - social
+- videos
+- news
+- cryptocurrency
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** February 01, 2026 at 14:28 UTC  
+**Last Updated:** February 01, 2026 at 14:53 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -93,7 +93,7 @@ Rank #1
 
 I'm not wasting these cheap stacks. HODL and BUY!
 
-20h ago
+21h ago
 
 ---
 
@@ -109,7 +109,7 @@ Took advantage of the plummet to get myself over the 0.5 mark!! I know this is s
 
 Best Case Scenario - BTC will test 92K, if it breaks it will set a new ATH. Worst Case Scenario - If it looses 50K support, cheap BYC incoming. Regardless, in my experience (since 2015), unless you are an extremely smart person with excellent TA skills supported by a crystal ball, u cannot time the market. DCA, ignore your short term losses. Overall, you will make it. In 2017, I lost a significant amount of money. In 2021, I made a decent profit. I didn’t exit, continue to DCA. Thats my forever strategy that always pays on the long run. Ignore hopium and negative comments. Focus on your bag. Don’t FOMO, don’t panic sell. Aim for profits.
 
-4h ago
+5h ago
 
 ---
 
@@ -137,7 +137,7 @@ Just started investing in BTC yesterday evening. Purchased my initial batch at 6
 
 Anyone that’s “done with bitcoin” never actually understood bitcoin in the first place.
 
-11h ago
+12h ago
 
 ---
 
@@ -157,7 +157,7 @@ When we were at ATH I saw people talking how we'd get to $200k by December, now 
 
 Bitcoin price dipped below $80k as 335,000 new wallets signal rising adoption despite short-term BTC price weakness.
 
-Yahoo Finance • 20h ago
+Yahoo Finance • 21h ago
 
 ---
 
@@ -219,7 +219,7 @@ Fortune • 1d ago
 
 The first bank collapse of 2026 coincides with a violent global sell-off that has traders fearing a broader contagion.
 
-CryptoSlate • 16h ago
+CryptoSlate • 17h ago
 
 ---
 
@@ -267,7 +267,7 @@ PoW + EVM cryptocurrency. 21M fixed supply, fair launch, no team, no foundation.
 
 **[Bitcoin's Quantum Computing Threat](https://news.ycombinator.com/item?id=46824834)**
 
-⬆️ 1 • 💬 0 • 1d ago • [bmpro.substack.com](https://bmpro.substack.com/p/bitcoins-quantum-computing-threat)
+⬆️ 1 • 💬 0 • 2d ago • [bmpro.substack.com](https://bmpro.substack.com/p/bitcoins-quantum-computing-threat)
 
 ---
 
@@ -339,7 +339,7 @@ When Will the Current U.S. Government Shutdown End?
 
 📺 CryptosRUs
 
-👁️ 60K • 👍 2K • 💬 878 • ⏱️ 11:12 • 12h ago
+👁️ 60K • 👍 2K • 💬 878 • ⏱️ 11:12 • 13h ago
 
 ---
 
@@ -359,7 +359,7 @@ BTC #Bitcoin #Cryptocurrency Join Michael Saylor for his unforgettable keynote a
 
 📺 TheGameBoyGeek - Hi Quality Hi Energy Board Game Reviews
 
-👁️ 53K • 👍 4K • 9h ago
+👁️ 53K • 👍 4K • 10h ago
 
 ---
 
@@ -379,7 +379,7 @@ Gold crashes with Silver in tow and now comes Bitcoin. How low can we go? MUCH l
 
 📺 Digital Asset News
 
-👁️ 19K • 👍 955 • 💬 144 • ⏱️ 35:43 • 16h ago
+👁️ 19K • 👍 955 • 💬 144 • ⏱️ 35:43 • 17h ago
 
 ---
 
@@ -399,7 +399,7 @@ Nick Valdez looks at the latest market crash with the next level Bitcoin MUST ho
 
 📺 Discover Crypto
 
-👁️ 19K • 👍 706 • 💬 210 • ⏱️ 4:28 • 16h ago
+👁️ 19K • 👍 706 • 💬 210 • ⏱️ 4:28 • 17h ago
 
 ---
 
@@ -409,7 +409,7 @@ CHECK OUT MY LINKTREE FOR EXCHANGES I USE, BONUSES, FREE VIDEOS, AND MORE! https
 
 📺 My Financial Friend
 
-👁️ 20K • 👍 781 • 💬 378 • ⏱️ 8:03 • 20h ago
+👁️ 20K • 👍 781 • 💬 378 • ⏱️ 8:03 • 21h ago
 
 ---
 

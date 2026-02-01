@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-02-01T14:28:02.775968+00:00'
+updated: '2026-02-01T14:53:43.240541+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- repositories
-- news
-- videos
 - social
+- videos
+- news
+- repositories
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** February 01, 2026 at 14:28 UTC  
+**Last Updated:** February 01, 2026 at 14:53 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -49,7 +49,7 @@ What moltbook is So essentially There is this open source AI bot called openclaw
 
 The comment follows reports that the rocket maker is weighing a transaction that could further consolidate Musk’s space and AI ventures.
 
-🔗 [TESLARATI](https://www.teslarati.com/rumored-spacex-xai-merger-gets-apparent-confirmation-from-elon-musk/) • 3h ago
+🔗 [TESLARATI](https://www.teslarati.com/rumored-spacex-xai-merger-gets-apparent-confirmation-from-elon-musk/) • 4h ago
 
 ---
 
@@ -63,7 +63,7 @@ SpaceX's filing claims these satellites will be “a first step towards becoming
 
 **[Is artificial intelligence really all that scary?](https://www.reddit.com/r/artificial/comments/1qsz16q/is_artificial_intelligence_really_all_that_scary/)**
 
-34m ago
+1h ago
 
 ---
 
@@ -87,7 +87,7 @@ AI coding tools are getting more sophisticated. But if coders stop coding, what 
 
 The digital landscape has shifted from "Human-to-AI" interaction to a baffling new frontier: AI-to-AI social networking. At the center of th...
 
-🔗 [Ecency](https://ecency.com/@pichat/the-rise-of-moltbook-why-150000-ai-agents-ditched-humans-to-build-their-own-society-jja) • 39m ago
+🔗 [Ecency](https://ecency.com/@pichat/the-rise-of-moltbook-why-150000-ai-agents-ditched-humans-to-build-their-own-society-jja) • 1h ago
 
 ---
 
@@ -125,7 +125,7 @@ NBC News • 4h ago
 
 **[Moltbook AI Social Network: 1.4 Million Agents Build A Digital Society](https://www.forbes.com/sites/guneyyildiz/2026/01/31/inside-moltbook-the-social-network-where-14-million-ai-agents-talk-and-humans-just-watch/)**
 
-Forbes • 21h ago
+Forbes • 22h ago
 
 ---
 
@@ -133,7 +133,7 @@ Forbes • 21h ago
 
 You can buy an AI version of your lost loved one. But should you?
 
-The Atlantic • 1h ago
+The Atlantic • 2h ago
 
 ---
 
@@ -149,7 +149,7 @@ Financial Times • 2h ago
 
 When people feel exposed, they play small. Breakthrough ideas give way to micro use cases and firms refine today’s’ model instead of creating tomorrow’s.
 
-Fortune • 58m ago
+Fortune • 1h ago
 
 ---
 
@@ -163,7 +163,7 @@ The New York Times • 1d ago
 
 A whistleblower complaint filed with the SEC claims that Google breached its own ethics rules to help an Israeli contractor apply AI to drone surveillance video.
 
-The Washington Post • 46m ago
+The Washington Post • 1h ago
 
 ---
 
@@ -205,7 +205,7 @@ Anthropic is an AI safety and research company that's working to build reliable,
 
 Moltworker is a middleware Worker and adapted scripts that allows running Moltbot (formerly Clawdbot) on Cloudflare's Sandbox SDK and our Developer Platform APIs. So you can self-host an AI personal assistant — without any new hardware.
 
-⬆️ 239 • 💬 68 • 2d ago • [The Cloudflare Blog](https://blog.cloudflare.com/moltworker-self-hosted-ai-agent/)
+⬆️ 239 • 💬 68 • 3d ago • [The Cloudflare Blog](https://blog.cloudflare.com/moltworker-self-hosted-ai-agent/)
 
 ---
 
@@ -245,7 +245,7 @@ A lot of vendors pitch AI SRE. We tested 14 models across 11 programming languag
 
 Contribute to amlalabs/amla-sandbox development by creating an account on GitHub.
 
-⬆️ 143 • 💬 73 • 1d ago • [GitHub](https://github.com/amlalabs/amla-sandbox)
+⬆️ 143 • 💬 73 • 2d ago • [GitHub](https://github.com/amlalabs/amla-sandbox)
 
 ---
 
@@ -293,7 +293,7 @@ Get all cutting-edge AI image and video models in one place with Artlist: ...
 
 📺 Futurepedia
 
-👁️ 4K • 👍 261 • 💬 24 • ⏱️ 58:30 • 8h ago
+👁️ 4K • 👍 261 • 💬 24 • ⏱️ 58:30 • 9h ago
 
 ---
 
@@ -303,7 +303,7 @@ Get all cutting-edge AI image and video models in one place with Artlist: ...
 
 📺 James Blue
 
-👁️ 2K • ⏱️ 8:39 • 27m ago
+👁️ 2K • ⏱️ 8:39 • 53m ago
 
 ---
 
@@ -313,7 +313,7 @@ A new platform called Moltbook is going viral — and it's not built for humans.
 
 📺 Mint
 
-👁️ 7K • 👍 84 • 💬 19 • ⏱️ 3:25 • 21h ago
+👁️ 7K • 👍 84 • 💬 19 • ⏱️ 3:25 • 22h ago
 
 ---
 
@@ -353,7 +353,7 @@ Nathan Lambert and Sebastian Raschka are machine learning researchers, engineers
 
 📺 Lex Fridman
 
-👁️ 167K • 👍 5K • 💬 364 • ⏱️ 4:25:13 • 15h ago
+👁️ 167K • 👍 5K • 💬 364 • ⏱️ 4:25:13 • 16h ago
 
 ---
 
@@ -677,7 +677,7 @@ LLM驱动的 A/H/美股智能分析器，多数据源行情 + 实时新闻 + Gem
 
 `Python` `agent` `ai` `aigc` `gemini` `llm`
 
-⭐ 8.6k • 🔱 9.0k • 16m ago
+⭐ 8.6k • 🔱 9.0k • 42m ago
 
 ---
 
