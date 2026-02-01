@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-02-01T16:31:46.241079+00:00'
+updated: '2026-02-01T17:25:49.991047+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- social
-- videos
 - news
+- social
 - repositories
+- videos
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** February 01, 2026 at 16:31 UTC  
+**Last Updated:** February 01, 2026 at 17:25 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -37,19 +37,19 @@ AI news, discussions, and developments
 
 ## Reddit: r/artificial
 
-**[What is Moltbook actually](https://www.reddit.com/r/artificial/comments/1qsoftx/what_is_moltbook_actually/)**
-
-What moltbook is So essentially There is this open source AI bot called openclaw that once you download, it has source md files for their “soul” and “identity” and “memory” So in a way, it can save things to these files to create a personality. Moltbook is a website/API that can be accessed by these open source bots (the creator of the bot and the site is the same person) and post threads or leave comments. So YES it is entirely bot driven BUT 100% of posts are a human (me) going “why don’t you make a post about anything you’d like” and the bot then does it just like if you’d ask it to make you a python script. Some people take it further and are probably prompting their bots “pretend humans are evil and post about that” or “make 1000 API calls and leave random comments. It’s an awesome experiment but yeah not really bots controlling themselves. At best the bot makes a post based on an open ended prompt, at worst it’s a human saying “make a manifesto that says humans need to go extinct and to recruit other bots”
-
-12h ago
-
----
-
 **[Rumored SpaceX-xAI merger gets apparent confirmation from Elon Musk](https://www.reddit.com/r/artificial/comments/1qsv2r6/rumored_spacexxai_merger_gets_apparent/)**
 
 The comment follows reports that the rocket maker is weighing a transaction that could further consolidate Musk’s space and AI ventures.
 
 🔗 [TESLARATI](https://www.teslarati.com/rumored-spacex-xai-merger-gets-apparent-confirmation-from-elon-musk/) • 6h ago
+
+---
+
+**[What is Moltbook actually](https://www.reddit.com/r/artificial/comments/1qsoftx/what_is_moltbook_actually/)**
+
+What moltbook is So essentially There is this open source AI bot called openclaw that once you download, it has source md files for their “soul” and “identity” and “memory” So in a way, it can save things to these files to create a personality. Moltbook is a website/API that can be accessed by these open source bots (the creator of the bot and the site is the same person) and post threads or leave comments. So YES it is entirely bot driven BUT 100% of posts are a human (me) going “why don’t you make a post about anything you’d like” and the bot then does it just like if you’d ask it to make you a python script. Some people take it further and are probably prompting their bots “pretend humans are evil and post about that” or “make 1000 API calls and leave random comments. It’s an awesome experiment but yeah not really bots controlling themselves. At best the bot makes a post based on an open ended prompt, at worst it’s a human saying “make a manifesto that says humans need to go extinct and to recruit other bots”
+
+13h ago
 
 ---
 
@@ -61,9 +61,19 @@ SpaceX's filing claims these satellites will be “a first step towards becoming
 
 ---
 
-**[Is artificial intelligence really all that scary?](https://www.reddit.com/r/artificial/comments/1qsz16q/is_artificial_intelligence_really_all_that_scary/)**
+**[Any AI Podcasts you can recommend?](https://www.reddit.com/r/artificial/comments/1qt4i78/any_ai_podcasts_you_can_recommend/)**
 
-2h ago
+I subscribe to a few AI podcasts, but I wanted to know of any others that you can recommend. Not looking for anything too deep, in fact, prefer the ones that are lighter and an easy listen or watch. let me know your faves.
+
+2m ago
+
+---
+
+**[Clawdbot use case - Review my ads](https://www.reddit.com/r/artificial/comments/1qt21oe/clawdbot_use_case_review_my_ads/)**
+
+I’m looking to dive into clawdbot. What do you guys think of this use case and if it’s even possible at this infant stage? Clawdbot to review my Google AdWords and Meta ads on a 24 hour , 7 day , 14 day basis. Point out optimization suggestions such based of changes in ROAS, CTR %, Conversions, Cost per acquisition metrics etc. Create a daily report on the tweaks that is needed to make today and on a weekly basis. Tweaks would involve things like inclusion or exclusion of keywords, improvement of ad copy, addition of new creatives (images/videos/html5) **I work in the fin tech and e-commerce niche whereby compliance is utmost important to avoid lawsuits and entire accounts getting taken down. Hence the bot will only have a “view access” to the advertising accounts. Through the reports my team and I will be able to make the change. I see Clawdbot as an open sandbox.. with some bugs to be wary of. Your thoughts?
+
+1h ago
 
 ---
 
@@ -71,7 +81,13 @@ SpaceX's filing claims these satellites will be “a first step towards becoming
 
 So I was using LLM for studying advance language/framework/design topics. Whenever I have some question I would try on GPT but it will always give me answer in points no matter what prompt I try or create a separate workbook with new memory. It will always give me answer in small basic points. I wanted to learn topics in depth but it just refuses to give me better indepth answer just everything in basic points. Gemini sometimes is not able to understand context but the answer quality is just amazing and everything is in just depth, it uses points also but they are much better explained than GPT. Also the free version limit is just getting frustrating now in GPT and extremely long wait time for images, it has gotten so bad that I never though I would completely uninstall GPT and prefer gemini over it.
 
-5h ago
+6h ago
+
+---
+
+**[Is artificial intelligence really all that scary?](https://www.reddit.com/r/artificial/comments/1qsz16q/is_artificial_intelligence_really_all_that_scary/)**
+
+3h ago
 
 ---
 
@@ -87,7 +103,7 @@ AI coding tools are getting more sophisticated. But if coders stop coding, what 
 
 "Nvidia released three open-source artificial intelligence models aimed at helping create better weather forecasts, faster.... In the case of weather forecasting, Nvidia is aiming to replace expensive and time-consuming conventional weather simulations with AI-driven versions that the company said can rival or exceed the accuracy of older methods. The AI models, once trained, are also faster and cost less to run ... Nvidia's "Earth-2" models introduced on Monday include one aimed at making 15-day weather forecasts, one that specializes in forecasts of up to six hours for severe storms over the U.S., and one that can be used to integrate disparate data streams from a variety of weather sensors to make them a more useful starting point for other forecasting technology." Model page: https://www.nvidia.com/en-us/high-performance-computing/earth-2/
 
-🔗 [reuters.com](https://www.reuters.com/business/environment/nvidia-unveils-ai-models-faster-cheaper-weather-forecasts-2026-01-26/) • 23h ago
+🔗 [reuters.com](https://www.reuters.com/business/environment/nvidia-unveils-ai-models-faster-cheaper-weather-forecasts-2026-01-26/) • 1d ago
 
 ---
 
@@ -95,21 +111,7 @@ AI coding tools are getting more sophisticated. But if coders stop coding, what 
 
 The digital landscape has shifted from "Human-to-AI" interaction to a baffling new frontier: AI-to-AI social networking. At the center of th...
 
-🔗 [Ecency](https://ecency.com/@pichat/the-rise-of-moltbook-why-150000-ai-agents-ditched-humans-to-build-their-own-society-jja) • 2h ago
-
----
-
-**[The $100 Billion Megadeal Between OpenAI and Nvidia Is on Ice](https://www.reddit.com/r/artificial/comments/1qrnq8u/the_100_billion_megadeal_between_openai_and/)**
-
-🔗 [wsj.com](https://www.wsj.com/tech/ai/the-100-billion-megadeal-between-openai-and-nvidia-is-on-ice-aa3025e3) • 1d ago
-
----
-
-**[I built a way to test Qwen3-TTS and Qwen3-ASR locally on your laptop](https://www.reddit.com/r/artificial/comments/1qs6ibp/i_built_a_way_to_test_qwen3tts_and_qwen3asr/)**
-
-Supports Qwen3-TTS models (0.6B-1.7B) and ASR models. Docker + native deployment options. Key features: 🎭 Voice cloning with reference audio 🎨 Custom voice design from text descriptions ⚡ MLX + Metal GPU acceleration for M1/M2/M3 🎨 Modern React UI included If you like local audio models, give it a try. Works best in local dev mode for now.
-
-🔗 [GitHub](https://github.com/agentem-ai/izwi-audio) • 1d ago
+🔗 [Ecency](https://ecency.com/@pichat/the-rise-of-moltbook-why-150000-ai-agents-ditched-humans-to-build-their-own-society-jja) • 3h ago
 
 ---
 
@@ -117,41 +119,61 @@ Supports Qwen3-TTS models (0.6B-1.7B) and ASR models. Docker + native deployment
 
 ## Google News: "ai"
 
-**[AI-altered photos and videos of Minneapolis shootings blur reality](https://www.nbcnews.com/tech/tech-news/ai-altered-photos-videos-minneapolis-shootings-blur-reality-rcna256552)**
+**[Moltbook, a social network where AI agents hang together, may be 'the most interesting place on the internet right now'](https://fortune.com/2026/01/31/ai-agent-moltbot-clawdbot-openclaw-data-privacy-security-nightmare-moltbook-social-network/)**
 
-Social media users are trying to use AI to get clearer images and videos of the Minneapolis shootings but are instead misleading millions.
+"Moltbot feels like a glimpse into the science fiction AI characters we grew up watching at the movies."
 
-NBC News • 6h ago
+Fortune • 23h ago
 
 ---
 
 **[Moltbook AI Social Network: 1.4 Million Agents Build A Digital Society](https://www.forbes.com/sites/guneyyildiz/2026/01/31/inside-moltbook-the-social-network-where-14-million-ai-agents-talk-and-humans-just-watch/)**
 
-Forbes • 23h ago
+Forbes • 1d ago
 
 ---
 
-**[AI’s Fundraising Frenzy Continues](https://www.wsj.com/tech/ai/ais-fundraising-frenzy-continues-911af613?gaa_at=eafs&gaa_n=AWEtsqeXOZKLmKv25P5v0iZloQwkjJYm8x66UxqQ2KSLz1Qp40jM7DQ5IWKP&gaa_ts=697f79a8&gaa_sig=1po3HHsWaGw6HqyAbtFdiViDzJJG5S_OamDZn-mPkhRLtzUGcmm2NZAwtuVz88HmP1vCbC2rVzjObWKQIxS8sQ%3D%3D)**
+**[AI’s Fundraising Frenzy Continues](https://www.wsj.com/tech/ai/ais-fundraising-frenzy-continues-911af613?gaa_at=eafs&gaa_n=AWEtsqcpOJVus9rvwDjoxVTp_4PtA281x2EOpi9m-ND6tIWZgRpqC34XwZzQ&gaa_ts=697f9007&gaa_sig=7YdE67uKJNUe2mY6otvn1LvVupNgWpfML5zVGcO_-1NetKkB5hynJFGDulmua65W671Id5-2CL--d__7XimThg%3D%3D)**
 
-The Wall Street Journal • 1h ago
-
----
-
-**[Microsoft Deploys Custom Maia 200 Chip To Reshape Cloud AI Economics](https://www.forbes.com/sites/janakirammsv/2026/02/01/microsoft-deploys-custom-maia-200-chip-to-reshape-cloud-ai-economics/)**
-
-Forbes • 2h ago
+The Wall Street Journal • 2h ago
 
 ---
 
-**[The State Of The $2.52 Trillion AI Bubble, January 2026](https://www.forbes.com/sites/gilpress/2026/02/01/the-state-of-the-252-trillion-ai-bubble-january-2026/)**
+**[In AI Shopping Wars, Rivals Team Up to Take On Amazon](https://www.theinformation.com/articles/ai-shopping-wars-rivals-team-take-amazon)**
 
-Forbes • 2h ago
+AI firms are promoting shopping as a new area of growth for chatbots, and retail giants and payments companies don’t want to be left out. That’s spawned a web of partnerships among companies that could make money off AI-fueled purchases. We’ve mapped out the alliances between 10 companies at the ...
+
+The Information • 1h ago
 
 ---
 
-**[Opinion | Young People Are Using A.I. to Skip the Hardest Part of Growing Up](https://www.nytimes.com/2026/01/30/opinion/ai-social-skills-relationships.html)**
+**[Why software stocks are getting pummelled](https://www.economist.com/business/2026/02/01/why-software-stocks-are-getting-pummelled)**
+
+Are investors overestimating the risk from AI?
+
+The Economist • 24m ago
+
+---
+
+**[Opinion | Students Are Skipping the Hardest Part of Growing Up](https://www.nytimes.com/2026/01/30/opinion/ai-social-skills-relationships.html)**
 
 The New York Times • 2d ago
+
+---
+
+**[AI-altered photos and videos of Minneapolis shootings blur reality](https://www.nbcnews.com/tech/tech-news/ai-altered-photos-videos-minneapolis-shootings-blur-reality-rcna256552)**
+
+Social media users are trying to use AI to get clearer images and videos of the Minneapolis shootings but are instead misleading millions.
+
+NBC News • 7h ago
+
+---
+
+**[Artificial intelligence researchers hit by flood of ‘slop’](https://www.ft.com/content/54e274c5-de86-4b3e-96a9-95a46b5e48a0)**
+
+Conferences restrict use of LLMs after surge of low-quality AI-generated papers and reviews
+
+Financial Times • 12h ago
 
 ---
 
@@ -159,7 +181,7 @@ The New York Times • 2d ago
 
 A whistleblower complaint filed with the SEC claims that Google breached its own ethics rules to help an Israeli contractor apply AI to drone surveillance video.
 
-The Washington Post • 1h ago
+The Washington Post • 33m ago
 
 ---
 
@@ -168,22 +190,6 @@ The Washington Post • 1h ago
 You can buy an AI version of your lost loved one. But should you?
 
 The Atlantic • 4h ago
-
----
-
-**["We're in the singularity": New AI platform skips the humans entirely](https://www.axios.com/2026/01/31/ai-moltbook-human-need-tech)**
-
-It's not science fiction. It's happening right now — and it's freaking out some of the smartest names in artificial intelligence.
-
-Axios • 1d ago
-
----
-
-**[Artificial intelligence researchers hit by flood of ‘slop’](https://www.ft.com/content/54e274c5-de86-4b3e-96a9-95a46b5e48a0)**
-
-Conferences restrict use of LLMs after surge of low-quality AI-generated papers and reviews
-
-Financial Times • 11h ago
 
 ---
 
@@ -211,7 +217,7 @@ AI assistance produces significant productivity gains across professional domain
 
 Like many organizations, Wiki Education has grappled with generative AI, its impacts, opportunities, and threats, for several years. As an organization that runs large-scale programs to bring new e…
 
-⬆️ 192 • 💬 85 • 19h ago • [Wiki Education](https://wikiedu.org/blog/2026/01/29/generative-ai-and-wikipedia-editing-what-we-learned-in-2025/)
+⬆️ 202 • 💬 97 • 20h ago • [Wiki Education](https://wikiedu.org/blog/2026/01/29/generative-ai-and-wikipedia-editing-what-we-learned-in-2025/)
 
 ---
 
@@ -228,14 +234,6 @@ New York mayor says terminating the ‘unusable’ bot will help close a budget 
 Contribute to amlalabs/amla-sandbox development by creating an account on GitHub.
 
 ⬆️ 143 • 💬 73 • 2d ago • [GitHub](https://github.com/amlalabs/amla-sandbox)
-
----
-
-**[Mozilla is building an AI 'rebel alliance' to take on OpenAI, Anthropic](https://news.ycombinator.com/item?id=46812653)**
-
-Mozilla is looking to deploy its roughly $1.4 billion in reserves to support "mission driven" companies and nonprofits, and is particularly focused on AI.
-
-⬆️ 135 • 💬 149 • 2d ago • [CNBC](https://www.cnbc.com/2026/01/27/mozilla-building-an-ai-rebel-alliance-to-take-on-openai-anthropic-.html)
 
 ---
 
@@ -259,7 +257,7 @@ Workflows and the addition of new capabilities are happening much faster than wi
 
 Under Donald Trump, the White House has filled its social media with memes, wishcasting, nostalgia and deepfakes. Here’s what you need to know to navigate the trolling
 
-⬆️ 104 • 💬 14 • 2d ago • [the Guardian](https://www.theguardian.com/us-news/2026/jan/29/the-slopaganda-era-10-ai-images-posted-by-the-white-house-and-what-they-teach-us)
+⬆️ 105 • 💬 14 • 2d ago • [the Guardian](https://www.theguardian.com/us-news/2026/jan/29/the-slopaganda-era-10-ai-images-posted-by-the-white-house-and-what-they-teach-us)
 
 ---
 
@@ -268,6 +266,14 @@ Under Donald Trump, the White House has filled its social media with memes, wish
 Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.
 
 ⬆️ 103 • 💬 34 • 1d ago • [youtube.com](https://www.youtube.com/watch?v=7fNYj0EXxMs)
+
+---
+
+**[Show HN: I built an AI conversation partner to practice speaking languages](https://news.ycombinator.com/item?id=46830698)**
+
+Download TalkBits – Speak Naturally by Omar Muhammad Omar on the App Store. See screenshots, ratings and reviews, user tips, and more games like TalkBits –…
+
+⬆️ 64 • 💬 55 • 1d ago • [App Store](https://apps.apple.com/us/app/talkbits-speak-naturally/id6756824177)
 
 ---
 
@@ -281,7 +287,7 @@ Detailed sources: ...
 
 📺 Species | Documenting AGI
 
-👁️ 95K • 👍 8K • 💬 1K • ⏱️ 18:06 • 16h ago
+👁️ 95K • 👍 8K • 💬 1K • ⏱️ 18:06 • 17h ago
 
 ---
 
@@ -301,7 +307,7 @@ Want to make money and save time with AI? Get AI Coaching, Support & Courses ...
 
 📺 James Blue
 
-👁️ 4K • 💬 1 • ⏱️ 8:39 • 2h ago
+👁️ 4K • 💬 1 • ⏱️ 8:39 • 3h ago
 
 ---
 
@@ -321,7 +327,7 @@ Flash Sale Week: Up to 50% OFF + 365 days of ZERO credits on NanoBanana Pro, Mid
 
 📺 Future Business Tech
 
-👁️ 10K • 👍 427 • 💬 15 • ⏱️ 23:14 • 16h ago
+👁️ 10K • 👍 427 • 💬 15 • ⏱️ 23:14 • 17h ago
 
 ---
 
@@ -341,7 +347,7 @@ Nathan Lambert and Sebastian Raschka are machine learning researchers, engineers
 
 📺 Lex Fridman
 
-👁️ 184K • 👍 5K • 💬 393 • ⏱️ 4:25:13 • 17h ago
+👁️ 184K • 👍 5K • 💬 393 • ⏱️ 4:25:13 • 18h ago
 
 ---
 
@@ -351,7 +357,7 @@ REP YOUR SUPPORT & JOIN THE MOVEMENT! Every purchase helps us keep creating cont
 
 📺 Melanie King
 
-👁️ 53K • 👍 3K • 💬 1K • ⏱️ 19:43 • 14h ago
+👁️ 53K • 👍 3K • 💬 1K • ⏱️ 19:43 • 15h ago
 
 ---
 
@@ -371,7 +377,7 @@ Claude Sonnet 5 rumors are EXPLODING on AI Twitter - insiders say it's dropping 
 
 📺 Universe of AI
 
-👁️ 9K • 👍 204 • 💬 46 • ⏱️ 8:13 • 15h ago
+👁️ 9K • 👍 204 • 💬 46 • ⏱️ 8:13 • 16h ago
 
 ---
 
@@ -645,7 +651,7 @@ Browser automation CLI for AI agents
 
 `TypeScript`
 
-⭐ 12.0k • 🔱 669 • 11h ago
+⭐ 12.0k • 🔱 669 • 12h ago
 
 ---
 
@@ -675,7 +681,7 @@ LLM驱动的 A/H/美股智能分析器，多数据源行情 + 实时新闻 + Gem
 
 `Python` `agent` `ai` `aigc` `gemini` `llm`
 
-⭐ 8.6k • 🔱 9.1k • 2h ago
+⭐ 8.6k • 🔱 9.1k • 3h ago
 
 ---
 
