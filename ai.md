@@ -3,14 +3,14 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-02-01T22:26:44.628429+00:00'
+updated: '2026-02-01T22:52:48.573638+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
 - social
-- repositories
 - videos
+- repositories
 - news
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 AI news, discussions, and developments
 
-**Last Updated:** February 01, 2026 at 22:26 UTC  
+**Last Updated:** February 01, 2026 at 22:52 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -41,7 +41,7 @@ AI news, discussions, and developments
 
 The comment follows reports that the rocket maker is weighing a transaction that could further consolidate Musk’s space and AI ventures.
 
-🔗 [TESLARATI](https://www.teslarati.com/rumored-spacex-xai-merger-gets-apparent-confirmation-from-elon-musk/) • 11h ago
+🔗 [TESLARATI](https://www.teslarati.com/rumored-spacex-xai-merger-gets-apparent-confirmation-from-elon-musk/) • 12h ago
 
 ---
 
@@ -49,7 +49,7 @@ The comment follows reports that the rocket maker is weighing a transaction that
 
 A number of newly unredacted (and partially redacted) documents from the Anthropic case have shed light on how executives at the tech giant ramped up plans in early 2024 to scan “all the books in the world” to teach their AI tool “how to write well”.
 
-🔗 [The Bookseller](https://www.thebookseller.com/news/unredacted-files-reveal-anthropics-secret-plan-to-destructively-scan-all-the-books-in-the-world) • 22m ago
+🔗 [The Bookseller](https://www.thebookseller.com/news/unredacted-files-reveal-anthropics-secret-plan-to-destructively-scan-all-the-books-in-the-world) • 49m ago
 
 ---
 
@@ -81,7 +81,7 @@ I subscribe to a few AI podcasts, but I wanted to know of any others that you ca
 
 SpaceX's filing claims these satellites will be “a first step towards becoming a Kardashev II-level civilization — one that can harness the Sun’s full power."
 
-🔗 [TechCrunch](https://techcrunch.com/2026/01/31/spacex-seeks-federal-approval-to-launch-1-million-solar-powered-satellite-data-centers/) • 19h ago
+🔗 [TechCrunch](https://techcrunch.com/2026/01/31/spacex-seeks-federal-approval-to-launch-1-million-solar-powered-satellite-data-centers/) • 20h ago
 
 ---
 
@@ -89,7 +89,7 @@ SpaceX's filing claims these satellites will be “a first step towards becoming
 
 So I was using LLM for studying advance language/framework/design topics. Whenever I have some question I would try on GPT but it will always give me answer in points no matter what prompt I try or create a separate workbook with new memory. It will always give me answer in small basic points. I wanted to learn topics in depth but it just refuses to give me better indepth answer just everything in basic points. Gemini sometimes is not able to understand context but the answer quality is just amazing and everything is in just depth, it uses points also but they are much better explained than GPT. Also the free version limit is just getting frustrating now in GPT and extremely long wait time for images, it has gotten so bad that I never though I would completely uninstall GPT and prefer gemini over it.
 
-11h ago
+12h ago
 
 ---
 
@@ -139,7 +139,7 @@ Forbes • 1d ago
 
 How many of the companies with recent layoffs are just using AI as an excuse?
 
-TechCrunch • 10m ago
+TechCrunch • 36m ago
 
 ---
 
@@ -183,7 +183,7 @@ The New York Times • 2d ago
 
 You can buy an AI version of your lost loved one. But should you?
 
-The Atlantic • 9h ago
+The Atlantic • 10h ago
 
 ---
 
@@ -267,7 +267,7 @@ Exposed servers are being used for LLMjacking, creating malicious content and be
 
 Ultra-minimal personal AI agent: starts small, self-modifies its code live, adapts by writing exactly the code & features you need - zuckermanai/zuckerman
 
-⬆️ 58 • 💬 43 • 8h ago • [GitHub](https://github.com/zuckermanai/zuckerman)
+⬆️ 58 • 💬 43 • 9h ago • [GitHub](https://github.com/zuckermanai/zuckerman)
 
 ---
 
@@ -329,7 +329,7 @@ Nathan Lambert and Sebastian Raschka are machine learning researchers, engineers
 
 📺 Lex Fridman
 
-👁️ 226K • 👍 6K • 💬 476 • ⏱️ 4:25:13 • 23h ago
+👁️ 226K • 👍 6K • 💬 476 • ⏱️ 4:25:13 • 1d ago
 
 ---
 
@@ -571,7 +571,7 @@ Bitnet.cpp enhances edge inference for ternary LLMs using a novel mixed-precisio
 
 The Qwen3-TTS series presents advanced multilingual text-to-speech models with voice cloning and controllable speech generation capabilities, utilizing dual-track LM architecture and specialized speech tokenizers for efficient streaming synthesis.
 
-▲ 56 • 💬 1 • ⭐ 6,423 • 10d ago
+▲ 56 • 💬 1 • ⭐ 6,423 • 11d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2601.15621) • [💻 code](https://github.com/QwenLM/Qwen3-TTS)
 
@@ -703,7 +703,7 @@ The Ultimate Collection of 600+ Agentic Skills for Claude Code/Antigravity/Curso
 
 `Python` `agentic-skills` `ai-agents` `antigravity` `autonomous-coding` `claude-code`
 
-⭐ 6.1k • 🔱 1.3k • 5h ago
+⭐ 6.1k • 🔱 1.3k • 6h ago
 
 ---
 

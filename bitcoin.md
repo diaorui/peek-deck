@@ -3,7 +3,7 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-02-01T22:26:44.636899+00:00'
+updated: '2026-02-01T22:52:48.582052+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
@@ -18,7 +18,7 @@ data_types:
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** February 01, 2026 at 22:26 UTC  
+**Last Updated:** February 01, 2026 at 22:52 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -117,7 +117,7 @@ Recently turned 18, and have started DCAing. Coincedentally its a great price to
 
 Got my mining rig working overtime today!
 
-4h ago
+5h ago
 
 ---
 
@@ -155,7 +155,7 @@ I'm not wasting these cheap stacks. HODL and BUY!
 
 **[Bitcoin’s Break Below $80,000 Signals New Crisis of Confidence](https://www.bloomberg.com/news/articles/2026-02-01/bitcoin-s-break-below-80-000-signals-new-crisis-of-confidence)**
 
-Bloomberg.com • 5h ago
+Bloomberg.com • 6h ago
 
 ---
 
@@ -199,7 +199,7 @@ The Block • 2d ago
 
 Cryptocurrency tumbles as US president fuels geopolitical uncertainty
 
-The Telegraph • 4h ago
+The Telegraph • 5h ago
 
 ---
 
@@ -325,7 +325,7 @@ When Will the Current U.S. Government Shutdown End?
 
 📺 CryptosRUs
 
-👁️ 71K • 👍 3K • 💬 1K • ⏱️ 11:12 • 20h ago
+👁️ 71K • 👍 3K • 💬 1K • ⏱️ 11:12 • 21h ago
 
 ---
 
@@ -375,7 +375,7 @@ Today is a stable day ( so far) with bitcoin at 77k but alts dumping even more. 
 
 📺 Digital Asset News
 
-👁️ 5K • 👍 400 • 💬 43 • ⏱️ 40:04 • 3h ago
+👁️ 5K • 👍 400 • 💬 43 • ⏱️ 40:04 • 4h ago
 
 ---
 

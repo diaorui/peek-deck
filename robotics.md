@@ -3,7 +3,7 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-02-01T22:26:44.646291+00:00'
+updated: '2026-02-01T22:52:48.591285+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
@@ -17,7 +17,7 @@ data_types:
 
 Robotics research and industry news
 
-**Last Updated:** February 01, 2026 at 22:26 UTC  
+**Last Updated:** February 01, 2026 at 22:52 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -88,7 +88,7 @@ Young PhD in Computer vision / Robotics here. I have recently read a post of Mar
 
 **[How do you time go-to-market moves in industrial tech?](https://www.reddit.com/r/robotics/comments/1qta6br/how_do_you_time_gotomarket_moves_in_industrial/)**
 
-1h ago
+2h ago
 
 ---
 
@@ -130,7 +130,7 @@ Zacks Investment Research • 2d ago
 
 United States President Donald Trump recently signed an executive order assuring the global dominance of the US in artificial intelligence through deregulation and the preemption of state AI laws.
 
-Inquirer.net • 56m ago
+Inquirer.net • 1h ago
 
 ---
 
