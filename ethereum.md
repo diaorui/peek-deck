@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-02-01T07:11:44.169186+00:00'
+updated: '2026-02-01T07:56:07.247845+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- cryptocurrency
-- videos
 - social
 - news
+- videos
+- cryptocurrency
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** February 01, 2026 at 07:11 UTC  
+**Last Updated:** February 01, 2026 at 07:56 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,11 +42,11 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** -9.1%  
-**7d:** -16.9%  
-**30d:** -22.2%  
-**90d:** -26.3%  
-**1y:** -14.9%  
+**24h:** -8.6%  
+**7d:** -17.4%  
+**30d:** -22.7%  
+**90d:** -26.8%  
+**1y:** -15.5%  
 
 ---
 
@@ -88,13 +88,13 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 World News, Stories By EtherWorld, Technical Explainers, Client News & Updates, Podcasts, Upcoming Events & Jobs
 
-🔗 [EtherWorld.co](https://etherworld.co/etherworld-weekly-edition-349/) • 16h ago
+🔗 [EtherWorld.co](https://etherworld.co/etherworld-weekly-edition-349/) • 17h ago
 
 ---
 
 **[Listening to Polymarket trades in real-time (open source, no third party)](https://www.reddit.com/r/ethereum/comments/1qs3l8c/listening_to_polymarket_trades_in_realtime_open/)**
 
-16h ago
+17h ago
 
 ---
 
@@ -150,17 +150,47 @@ Watch before one bug costs you everything. https://x.com/SolidityScan/status/201
 
 ## Google News: "ethereum"
 
-**[Bitcoin, XRP, Ethereum Fall on News of Kevin Warsh Fed Appointment.](https://www.barrons.com/articles/bitcoin-xrp-ethereum-crypto-today-954298d9?gaa_at=eafs&gaa_n=AWEtsqesH8Yv5NnLF7zxGe9_92szbLZ-LVcIx35JkoKuBt3n8mtkKm5GccUS&gaa_ts=697ef214&gaa_sig=ZTVdTBofKwcYOfDlzHNOh9SLkswKntPFP4o2QdG60PniT8o_C0n3XagaBrzOHR-rZRBj7A8bmRmahbxtoCEM3Q%3D%3D)**
+**[Bitcoin, XRP, Ethereum Fall on News of Kevin Warsh Fed Appointment.](https://www.barrons.com/articles/bitcoin-xrp-ethereum-crypto-today-954298d9?gaa_at=eafs&gaa_n=AWEtsqdfCOUH__BjZyRurhsOPTa5XJ0hvKG3GgdCYH6KvBP1DfpIHAXrTcUj&gaa_ts=697f0a80&gaa_sig=73_kGoqOWIT2qsWB01cTspePKOHv0LKHqeTO3E6f8mNZ_Gb9mXKfK7ejeHWshuDlqAhaum_rRMDMWgUkmdt1eA%3D%3D)**
 
 Barron's • 1d ago
 
 ---
 
-**[Ethereum Supply Tightens With 45% of ETH Locked: Sygnum](https://thedefiant.io/news/research-and-opinion/ethereum-supply-tightens-with-45-of-eth-locked-sygnum)**
+**[Crypto Crash: Liquidations Top $2.5 Billion as Bitcoin, Ethereum and XRP Prices Plummet](https://decrypt.co/356557/crypto-crash-liquidations-2-5-billion-bitcoin-ethereum-xrp-plummet)**
 
-ETF buying, staking and corporate holdings continue to reduce liquid ETH.
+The crypto market's recent decline only accelerated Saturday, with Bitcoin falling to nearly $77,000 as liquidations piled up.
 
-thedefiant.io • 1d ago
+Decrypt • 11h ago
+
+---
+
+**[Tom Lee’s BitMine is now down $6 billion on Ethereum (ether) bets](https://www.coindesk.com/markets/2026/02/01/bitmine-s-ether-bet-is-now-usd6-billion-in-paper-loss)**
+
+The firm’s recent ETH purchases came just ahead of a sharp market slide, pushing unrealized losses past $6 billion as liquidity thinned and liquidations picked up.
+
+CoinDesk • 59m ago
+
+---
+
+**[Ethereum news: One trader just lost $220 million as ETH plunged 10%](https://www.coindesk.com/markets/2026/02/01/single-trader-just-lost-usd220-million-as-ether-plunged-10)**
+
+A massive ETH liquidation on Hyperliquid led a leverage-driven wipeout that pushed total crypto liquidations past $2.5 billion in 24 hours.
+
+CoinDesk • 46m ago
+
+---
+
+**[AI Models Predict Ethereum, Solana, and XRP 2026 Prices—Which Altcoin Has the Biggest Upside?](https://finance.yahoo.com/news/ai-models-predict-ethereum-solana-193044962.html)**
+
+Four major AI models have projected 2026 price targets for Ethereum (CRYPTO: ETH), Solana (CRYPTO: SOL), and XRP (CRYPTO: XRP). The forecasts range from conservative consolidation to triple-digit percentage gains, with each asset showing different upside potential based on adoption trends, network activity, and market positioning. Ethereum anchors institutional DeFi with mature Layer 2 networks, ... AI Models Predict Ethereum, Solana, and XRP 2026 Prices—Which Altcoin Has the Biggest Upside?
+
+Yahoo Finance • 1d ago
+
+---
+
+**[Key facts: Ethereum Drops 12.7% Amid Large Sales; Institutional Interest Grows](https://www.tradingview.com/news/tradingview:28b30d6b1c11d:0-key-facts-ethereum-drops-12-7-amid-large-sales-institutional-interest-grows/)**
+
+TradingView • 7h ago
 
 ---
 
@@ -168,7 +198,7 @@ thedefiant.io • 1d ago
 
 ETH plunges to $2,400 after heavy liquidations, with analysts warning a deeper move toward $1,435 is possible.
 
-Coinpaper • 11h ago
+Coinpaper • 12h ago
 
 ---
 
@@ -176,7 +206,7 @@ Coinpaper • 11h ago
 
 Ethereum Falls 10% In Selloff
 
-Investing.com • 13h ago
+Investing.com • 14h ago
 
 ---
 
@@ -188,43 +218,11 @@ The Motley Fool • 1d ago
 
 ---
 
-**[Vitalik Buterin Withdraws $44.7M in ETH to Support Ethereum Growth Through ‘Mild Austerity’](https://decrypt.co/356490/vitalik-buterin-withdraws-44-7m-in-eth-to-support-ethereum-growth-through-mild-austerity)**
-
-The Ethereum co-founder wants to pursue an “aggressive” roadmap that will strengthen its status as a decentralized world computer.
-
-Decrypt • 1d ago
-
----
-
-**[Vitalik Buterin to spend $43 million on Ethereum development](https://www.coindesk.com/business/2026/01/30/vitalik-buterin-withdraws-usd17-million-in-eth-as-ethereum-foundation-enters-mild-austerity)**
-
-Ethereum’s co-founder said the $43 million withdrawal will support a broader “full-stack openness and verifiability” vision as the foundation tightens spending.
-
-CoinDesk • 1d ago
-
----
-
-**[Vitalik Buterin Withdraws 16,384 ETH as Ethereum Foundation Enters ‘Austerity Phase’ — What For?](https://www.tradingview.com/news/cryptonews:c7dddcebf094b:0-vitalik-buterin-withdraws-16-384-eth-as-ethereum-foundation-enters-austerity-phase-what-for/)**
-
-Ethereum co-founder Vitalik Buterin has withdrawn 16,384 ETH, worth roughly $44.5 million at current prices, as the Ethereum Foundation enters what he described as a period of “mild austerity.”In a post on X, Buterin said the Ethereum Foundation is adjusting its spending approach to meet two parall…
-
-TradingView • 1d ago
-
----
-
 **[BitMine Immersion Can’t Stop Buying Ethereum as Crypto Prices Tank](https://www.barchart.com/story/news/37329357/bitmine-immersion-cant-stop-buying-ethereum-as-crypto-prices-tank)**
 
 BitMine Immersion continues to accumulate Ethereum amid price declines, following a treasury strategy inspired by Strategy.
 
 Barchart.com • 2d ago
-
----
-
-**[Ethereum Price Could Crash 16% Because of This Action](https://beincrypto.com/ethereum-selling-could-validate-price-crash/)**
-
-Ethereum faces heavy selling pressure as $2.8 billion whale distribution raises risks of a 16% price correction.
-
-BeInCrypto • 11h ago
 
 ---
 
@@ -238,7 +236,7 @@ Nick Valdez looks at the latest market crash with the next level Bitcoin MUST ho
 
 📺 Discover Crypto
 
-👁️ 16K • 👍 644 • 💬 186 • ⏱️ 4:28 • 9h ago
+👁️ 16K • 👍 644 • 💬 186 • ⏱️ 4:28 • 10h ago
 
 ---
 
@@ -248,7 +246,7 @@ My FREE Daily On-Chain Analysis & Crypto News In 5-Mins: https://www.cryptonutsh
 
 📺 Jamie Tree 
 
-👁️ 3K • 👍 66 • 💬 60 • ⏱️ 18:25 • 15h ago
+👁️ 3K • 👍 66 • 💬 60 • ⏱️ 18:25 • 16h ago
 
 ---
 
@@ -278,7 +276,7 @@ EMERGENCY UPDATE: CRYPTO CRASH INTENSIFIES! (Here's Why) The crypto market is in
 
 📺 Tim Warren
 
-👁️ 19K • 👍 1K • 💬 434 • ⏱️ 11:12 • 12h ago
+👁️ 19K • 👍 1K • 💬 434 • ⏱️ 11:12 • 13h ago
 
 ---
 
@@ -298,7 +296,7 @@ Join UpTrade today - Your personal crypto broker: https://www.uptrade.au/ My FRE
 
 📺 Crypto Nutshell
 
-👁️ 13K • 👍 396 • 💬 99 • ⏱️ 16:36 • 15h ago
+👁️ 13K • 👍 396 • 💬 99 • ⏱️ 16:36 • 16h ago
 
 ---
 
@@ -308,7 +306,7 @@ This video provides a professional Elliott Wave and technical analysis of Ethere
 
 📺 More Crypto Online
 
-👁️ 3K • 👍 258 • 💬 22 • ⏱️ 4:54 • 10h ago
+👁️ 3K • 👍 258 • 💬 22 • ⏱️ 4:54 • 11h ago
 
 ---
 
@@ -328,7 +326,7 @@ FREE TRAINING: https://www.bullmania.com EXCHANGES I USE (bybit, pionex): https:
 
 📺 Ivan on Tech
 
-👁️ 26K • 👍 2K • 💬 128 • ⏱️ 44:59 • 13h ago
+👁️ 26K • 👍 2K • 💬 128 • ⏱️ 44:59 • 14h ago
 
 ---
 

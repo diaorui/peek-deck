@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-02-01T07:11:44.154981+00:00'
+updated: '2026-02-01T07:56:07.233494+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- videos
+- repositories
 - social
 - news
-- repositories
+- videos
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** February 01, 2026 at 07:11 UTC  
+**Last Updated:** February 01, 2026 at 07:56 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -41,7 +41,7 @@ AI news, discussions, and developments
 
 What moltbook is So essentially There is this open source AI bot called openclaw that once you download, it has source md files for their “soul” and “identity” and “memory” So in a way, it can save things to these files to create a personality. Moltbook is a website/API that can be accessed by these open source bots (the creator of the bot and the site is the same person) and post threads or leave comments. So YES it is entirely bot driven BUT 100% of posts are a human (me) going “why don’t you make a post about anything you’d like” and the bot then does it just like if you’d ask it to make you a python script. Some people take it further and are probably prompting their bots “pretend humans are evil and post about that” or “make 1000 API calls and leave random comments. It’s an awesome experiment but yeah not really bots controlling themselves. At best the bot makes a post based on an open ended prompt, at worst it’s a human saying “make a manifesto that says humans need to go extinct and to recruit other bots”
 
-2h ago
+3h ago
 
 ---
 
@@ -49,7 +49,7 @@ What moltbook is So essentially There is this open source AI bot called openclaw
 
 SpaceX's filing claims these satellites will be “a first step towards becoming a Kardashev II-level civilization — one that can harness the Sun’s full power."
 
-🔗 [TechCrunch](https://techcrunch.com/2026/01/31/spacex-seeks-federal-approval-to-launch-1-million-solar-powered-satellite-data-centers/) • 4h ago
+🔗 [TechCrunch](https://techcrunch.com/2026/01/31/spacex-seeks-federal-approval-to-launch-1-million-solar-powered-satellite-data-centers/) • 5h ago
 
 ---
 
@@ -57,7 +57,7 @@ SpaceX's filing claims these satellites will be “a first step towards becoming
 
 TL;DR: LLMs inherit human failure modes from training data. Current alignment (RLHF, Constitutional AI) faces circularity — biased humans correcting biased models. We propose small classifiers ("bees") running 24/7 as alignment monitors. They can't be jailbroken because they don't reason — they pattern-match and return binary judgments. Three parallel evaluators (advocate/adversary/neutral) vote on every output. The new contribution: bees aren't products. They're a species. Grown over time. Compatible with our biology. Producing honey AND sting. Memory decay manages what they remember — core principles persist, transient corrections fade. 6 concurrent Anthropic papers validate the architecture independently. The convergence is striking — their Assistant Axis paper measured persona vectors as neural geometry. Their CC++ paper implements the bee architecture at production scale. Their reward hacking paper proves you need external classifiers because models that learn to cheat generalize to sabotage. 25 pages, full citations. Co-authored by a human filmmaker/CEO and Claude Opus 4.5. Paper: https://zenodo.org/records/18446416
 
-3h ago
+4h ago
 
 ---
 
@@ -87,7 +87,7 @@ AI coding tools are getting more sophisticated. But if coders stop coding, what 
 
 Supports Qwen3-TTS models (0.6B-1.7B) and ASR models. Docker + native deployment options. Key features: 🎭 Voice cloning with reference audio 🎨 Custom voice design from text descriptions ⚡ MLX + Metal GPU acceleration for M1/M2/M3 🎨 Modern React UI included If you like local audio models, give it a try. Works best in local dev mode for now.
 
-🔗 [GitHub](https://github.com/agentem-ai/izwi-audio) • 14h ago
+🔗 [GitHub](https://github.com/agentem-ai/izwi-audio) • 15h ago
 
 ---
 
@@ -119,27 +119,19 @@ ByteDance, Alibaba and Tencent had been given permission to purchase more than 4
 
 **[Moltbook AI Social Network: 1.4 Million Agents Build A Digital Society](https://www.forbes.com/sites/guneyyildiz/2026/01/31/inside-moltbook-the-social-network-where-14-million-ai-agents-talk-and-humans-just-watch/)**
 
-Forbes • 14h ago
+Forbes • 15h ago
 
 ---
 
-**[The Richest 2026 Players: A.I., Crypto, Pro-Israel Groups and Trump](https://www.nytimes.com/2026/02/01/us/politics/ai-crypto-trump-super-pac-israel-2026-midterms.html)**
+**[How AI Is Rewriting Consumer Commerce in China](https://www.barrons.com/articles/ai-consumer-commerce-china-b24d8cb1?gaa_at=eafs&gaa_n=AWEtsqc_TOmSSArcwyknnrhwwCAn8kzGdXl-H-_APQV21OzpS-XyW41JG2AO&gaa_ts=697f0a7d&gaa_sig=mEclzeynNnHrkncWUvKbDqn3PvXX4UhXLtpgPN3kRhyd0K5RfIDCSqS-5GCp0z2VRxzOUZUengpd6WHf6N2yoA%3D%3D)**
 
-The New York Times • 2h ago
-
----
-
-**[Healthcare's Next Flexner Moment: From Memorization To AI Orchestration](https://www.forbes.com/sites/saharhashmi/2026/01/31/healthcares-next-flexner-moment-from-memorization-to-ai-orchestration/)**
-
-Forbes • 2h ago
+Barron's • 26m ago
 
 ---
 
-**[Artificial intelligence researchers hit by flood of ‘slop’](https://www.ft.com/content/54e274c5-de86-4b3e-96a9-95a46b5e48a0)**
+**[China’s AI Boom Is Paying Off. It’s Behind the Scenes.](https://www.barrons.com/articles/china-ai-boom-commerce-warehouses-b1ad55f1?gaa_at=eafs&gaa_n=AWEtsqe84-EmqvRGbQPgjJe5VYTJX8_LBFTBr5VPX_C2Jwp--8Jt7XVoapVf&gaa_ts=697f0a7d&gaa_sig=3jVJ54rLPp6ba2HU8gdist4Hrc4FVmum8Y4ycBfpLm-JqiWqgNfNZkxT14TxYwhd3bqRh8nSy6G_zjumiWdeaw%3D%3D)**
 
-Conferences restrict use of LLMs after surge of low-quality AI-generated papers and reviews
-
-Financial Times • 2h ago
+Barron's • 26m ago
 
 ---
 
@@ -151,17 +143,15 @@ Anthropic • 2d ago
 
 ---
 
-**[AI Boom Is Triggering a Loan Meltdown for Software Companies: Credit Weekly](https://www.bloomberg.com/news/articles/2026-01-31/ai-boom-is-triggering-a-loan-meltdown-for-software-companies-credit-weekly)**
+**[Opinion | Young People Are Using A.I. to Skip the Hardest Part of Growing Up](https://www.nytimes.com/2026/01/30/opinion/ai-social-skills-relationships.html)**
 
-Bloomberg • 11h ago
+The New York Times • 1d ago
 
 ---
 
-**[Can workers compete with machines and stay relevant in the AI era?](https://news.un.org/en/story/2026/01/1166847)**
+**[AI Boom Is Triggering a Loan Meltdown for Software Companies: Credit Weekly](https://www.bloomberg.com/news/articles/2026-01-31/ai-boom-is-triggering-a-loan-meltdown-for-software-companies-credit-weekly)**
 
-AI looks set to be transformative for us all, but it also brings a real risk of job losses and widening social and economic divides. UN experts are focusing on how to manage that transition, to ensure the benefits of the technology outweigh the threats.
-
-UN News • 1d ago
+Bloomberg.com • 11h ago
 
 ---
 
@@ -171,17 +161,25 @@ The Hill • 1d ago
 
 ---
 
+**[Project Genie: Experimenting with infinite, interactive worlds](https://blog.google/innovation-and-ai/models-and-research/google-deepmind/project-genie/)**
+
+Google AI Ultra subscribers in the U.S. can now try out Project Genie.
+
+blog.google • 2d ago
+
+---
+
 **[Gaming market melts down after Google reveals new AI game design tool — Project Genie crashes stocks for Roblox, Nintendo, CD Projekt Red, and more](https://www.tomshardware.com/video-games/gaming-market-melts-down-after-google-reveals-new-ai-game-design-tool-project-genie-crashes-stocks-for-roblox-nintendo-cd-projekt-red-and-more)**
 
 Project Genie can AI-generate "games" capped at 720p and 24 FPS.
 
-Tom's Hardware • 15h ago
+Tom's Hardware • 16h ago
 
 ---
 
-**[SpaceX seeks FCC nod for solar-powered satellite data centers for AI](https://www.reuters.com/business/aerospace-defense/spacex-seeks-fcc-nod-solar-powered-satellite-data-centers-ai-2026-01-31/)**
+**[Videogame stocks slide on Google's AI model that turns prompts into playable worlds](https://www.reuters.com/business/videogame-stocks-slide-googles-ai-model-that-turns-prompts-into-playable-worlds-2026-01-30/)**
 
-Reuters • 13h ago
+Reuters • 1d ago
 
 ---
 
@@ -275,7 +273,7 @@ Flash Sale Week: Up to 50% OFF + 365 days of ZERO credits on NanoBanana Pro, Mid
 
 📺 Future Business Tech
 
-👁️ 3K • 👍 168 • 💬 6 • ⏱️ 23:14 • 6h ago
+👁️ 3K • 👍 168 • 💬 6 • ⏱️ 23:14 • 7h ago
 
 ---
 
@@ -285,7 +283,7 @@ Nathan Lambert and Sebastian Raschka are machine learning researchers, engineers
 
 📺 Lex Fridman
 
-👁️ 92K • 👍 3K • 💬 238 • ⏱️ 4:25:13 • 8h ago
+👁️ 92K • 👍 3K • 💬 238 • ⏱️ 4:25:13 • 9h ago
 
 ---
 
@@ -305,7 +303,7 @@ A new platform called Moltbook is going viral — and it's not built for humans.
 
 📺 Mint
 
-👁️ 5K • 👍 62 • 💬 12 • ⏱️ 3:25 • 14h ago
+👁️ 5K • 👍 62 • 💬 12 • ⏱️ 3:25 • 15h ago
 
 ---
 
@@ -335,7 +333,7 @@ CHAPTERS ⤵ 00:00 - How AI Is Quietly Reshaping Everyday Life 01:47 - Google's 
 
 📺 Dylan Curious
 
-👁️ 8K • 👍 390 • 💬 79 • ⏱️ 25:03 • 16h ago
+👁️ 8K • 👍 390 • 💬 79 • ⏱️ 25:03 • 17h ago
 
 ---
 
@@ -505,7 +503,7 @@ GLM-4.7-Flash is a 30B-A3B MoE model, offering strong performance in the 30B cla
 
 LingBot-World is an open-source world simulator with high-fidelity dynamics, long-term memory capabilities, and real-time interactivity for diverse environments.
 
-▲ 96 • 💬 2 • ⭐ 1,302 • 3d ago
+▲ 96 • 💬 2 • ⭐ 1,302 • 4d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2601.20540) • [💻 code](https://github.com/Robbyant/lingbot-world/) • [🔗 project](https://technology.robbyant.com/lingbot-world)
 
@@ -583,7 +581,7 @@ Agent Lightning is a flexible RL framework for training LLMs in various agents, 
 
 DeepSeek-OCR 2 introduces DeepEncoder V2 that dynamically reorders visual tokens based on semantic content, enabling more human-like causal reasoning in 2D image understanding through cascaded 1D causal structures.
 
-▲ 43 • 💬 4 • ⭐ 1,771 • 3d ago
+▲ 43 • 💬 4 • ⭐ 1,771 • 4d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2601.20552) • [💻 code](https://github.com/deepseek-ai/DeepSeek-OCR-2)
 
@@ -639,7 +637,7 @@ Browser automation CLI for AI agents
 
 `TypeScript`
 
-⭐ 11.9k • 🔱 665 • 1h ago
+⭐ 11.9k • 🔱 665 • 2h ago
 
 ---
 
@@ -679,7 +677,7 @@ LLM驱动的 A/H/美股智能分析器，多数据源行情 + 实时新闻 + Gem
 
 `Vue`
 
-⭐ 6.8k • 🔱 1.3k • 17h ago
+⭐ 6.8k • 🔱 1.3k • 18h ago
 
 ---
 
@@ -689,7 +687,7 @@ The Ultimate Collection of 500+ Agentic Skills for Claude Code/Antigravity/Curso
 
 `Python` `agentic-skills` `ai-agents` `antigravity` `autonomous-coding` `claude-code`
 
-⭐ 5.9k • 🔱 1.3k • 27m ago
+⭐ 5.9k • 🔱 1.3k • 1h ago
 
 ---
 
