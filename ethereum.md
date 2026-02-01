@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-02-01T06:11:53.180023+00:00'
+updated: '2026-02-01T07:11:44.169186+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- social
 - cryptocurrency
-- news
 - videos
+- social
+- news
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** February 01, 2026 at 06:11 UTC  
+**Last Updated:** February 01, 2026 at 07:11 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -36,7 +36,7 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Price
 
-### $2,426.83
+### $2,406.00
 
 ---
 
@@ -52,17 +52,17 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Market Stats
 
-**Market Cap:** $295.28B
+**Market Cap:** $290.32B
 Rank #2
 
 **Circulating Supply:** 120,693,815 ETH
 No max supply
 
 **All-Time High:** $4,946.05
--50.5%
+-51.3%
 
 **All-Time Low:** $0.43
-+564945.9%
++556502.1%
 
 ---
 
@@ -72,7 +72,7 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-10m ago
+1h ago
 
 ---
 
@@ -88,13 +88,13 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 World News, Stories By EtherWorld, Technical Explainers, Client News & Updates, Podcasts, Upcoming Events & Jobs
 
-🔗 [EtherWorld.co](https://etherworld.co/etherworld-weekly-edition-349/) • 15h ago
+🔗 [EtherWorld.co](https://etherworld.co/etherworld-weekly-edition-349/) • 16h ago
 
 ---
 
 **[Listening to Polymarket trades in real-time (open source, no third party)](https://www.reddit.com/r/ethereum/comments/1qs3l8c/listening_to_polymarket_trades_in_realtime_open/)**
 
-15h ago
+16h ago
 
 ---
 
@@ -142,7 +142,7 @@ The Doots live stream is all about showcasing the best of the week from the Dail
 
 Watch before one bug costs you everything. https://x.com/SolidityScan/status/2017172006056390715?s=20
 
-23h ago
+1d ago
 
 ---
 
@@ -168,7 +168,7 @@ thedefiant.io • 1d ago
 
 ETH plunges to $2,400 after heavy liquidations, with analysts warning a deeper move toward $1,435 is possible.
 
-Coinpaper • 10h ago
+Coinpaper • 11h ago
 
 ---
 
@@ -176,7 +176,7 @@ Coinpaper • 10h ago
 
 Ethereum Falls 10% In Selloff
 
-Investing.com • 12h ago
+Investing.com • 13h ago
 
 ---
 
@@ -224,7 +224,7 @@ Barchart.com • 2d ago
 
 Ethereum faces heavy selling pressure as $2.8 billion whale distribution raises risks of a 16% price correction.
 
-BeInCrypto • 10h ago
+BeInCrypto • 11h ago
 
 ---
 
@@ -238,17 +238,7 @@ Nick Valdez looks at the latest market crash with the next level Bitcoin MUST ho
 
 📺 Discover Crypto
 
-👁️ 13K • 👍 612 • 💬 184 • ⏱️ 4:28 • 8h ago
-
----
-
-**[CRYPTO WARNING ⛔️ KNOW THIS TODAY! ‼️ XRP ETHEREUM BITCOIN](https://www.youtube.com/watch?v=5XfakzNwbjo)**
-
-1️⃣ *Join Moe's Discord Code 2026 save 50%* ➡https://www.patreon.com/stockmoe/membership 2️⃣ *Save Big on the ...
-
-📺 Crypto Moe
-
-👁️ 2K • 👍 231 • 💬 44 • ⏱️ 11:41 • 7h ago
+👁️ 16K • 👍 644 • 💬 186 • ⏱️ 4:28 • 9h ago
 
 ---
 
@@ -258,37 +248,7 @@ My FREE Daily On-Chain Analysis & Crypto News In 5-Mins: https://www.cryptonutsh
 
 📺 Jamie Tree 
 
-👁️ 2K • 👍 65 • 💬 60 • ⏱️ 18:25 • 14h ago
-
----
-
-**[Ethereum vs Bitcoin: The Trade Everyone Is Missing in 2026 w/ Kyle Reidhead &amp; John Gillen](https://www.youtube.com/watch?v=wIsd5_VNgbs)**
-
-Go PRO and become a better investor: ...
-
-📺 Milk Road
-
-👁️ 2K • 👍 90 • 💬 52 • ⏱️ 12:13 • 18h ago
-
----
-
-**[Cathie Wood: “This Is WHEN The 2026 Bull Run Starts” [New Bitcoin &amp; Ethereum Prediction 2026]](https://www.youtube.com/watch?v=xsRdyWYOUJA)**
-
-Join UpTrade today - Your personal crypto broker: https://www.uptrade.au/ My FREE Daily 5-Min Crypto Newsletter: ...
-
-📺 Crypto Nutshell
-
-👁️ 12K • 👍 382 • 💬 99 • ⏱️ 16:36 • 14h ago
-
----
-
-**[🚨 EMERGENCY UPDATE: CRYPTO CRASH INTENSIFIES! (Here&#39;s Why)](https://www.youtube.com/watch?v=ytTNgeSXztY)**
-
-EMERGENCY UPDATE: CRYPTO CRASH INTENSIFIES! (Here's Why) The crypto market is in FREEFALL, and the selling ...
-
-📺 Tim Warren
-
-👁️ 18K • 👍 1K • 💬 416 • ⏱️ 11:12 • 11h ago
+👁️ 3K • 👍 66 • 💬 60 • ⏱️ 18:25 • 15h ago
 
 ---
 
@@ -298,7 +258,57 @@ BITCOIN CRASH: PRICE TARGETS HIT (this is next)!!!! - Bitcoin News Today, Ethere
 
 📺 Crypto World
 
-👁️ 10K • 👍 478 • 💬 185 • ⏱️ 27:07 • 9h ago
+👁️ 12K • 👍 504 • 💬 190 • ⏱️ 27:07 • 10h ago
+
+---
+
+**[CRYPTO WARNING ⛔️ KNOW THIS TODAY! ‼️ XRP ETHEREUM BITCOIN](https://www.youtube.com/watch?v=5XfakzNwbjo)**
+
+1️⃣ *Join Moe's Discord Code 2026 save 50%* ➡https://www.patreon.com/stockmoe/membership 2️⃣ *Save Big on the ...
+
+📺 Crypto Moe
+
+👁️ 2K • 👍 244 • 💬 45 • ⏱️ 11:41 • 8h ago
+
+---
+
+**[🚨 EMERGENCY UPDATE: CRYPTO CRASH INTENSIFIES! (Here&#39;s Why)](https://www.youtube.com/watch?v=ytTNgeSXztY)**
+
+EMERGENCY UPDATE: CRYPTO CRASH INTENSIFIES! (Here's Why) The crypto market is in FREEFALL, and the selling ...
+
+📺 Tim Warren
+
+👁️ 19K • 👍 1K • 💬 434 • ⏱️ 11:12 • 12h ago
+
+---
+
+**[Ethereum vs Bitcoin: The Trade Everyone Is Missing in 2026 w/ Kyle Reidhead &amp; John Gillen](https://www.youtube.com/watch?v=wIsd5_VNgbs)**
+
+Go PRO and become a better investor: ...
+
+📺 Milk Road
+
+👁️ 2K • 👍 96 • 💬 52 • ⏱️ 12:13 • 19h ago
+
+---
+
+**[Cathie Wood: “This Is WHEN The 2026 Bull Run Starts” [New Bitcoin &amp; Ethereum Prediction 2026]](https://www.youtube.com/watch?v=xsRdyWYOUJA)**
+
+Join UpTrade today - Your personal crypto broker: https://www.uptrade.au/ My FREE Daily 5-Min Crypto Newsletter: ...
+
+📺 Crypto Nutshell
+
+👁️ 13K • 👍 396 • 💬 99 • ⏱️ 16:36 • 15h ago
+
+---
+
+**[Ethereum Elliott Wave Update – Key Resistance Levels Ahead](https://www.youtube.com/watch?v=XFntGyzd46U)**
+
+This video provides a professional Elliott Wave and technical analysis of Ethereum (ETH), focusing on market structure, major ...
+
+📺 More Crypto Online
+
+👁️ 3K • 👍 258 • 💬 22 • ⏱️ 4:54 • 10h ago
 
 ---
 
@@ -308,17 +318,7 @@ Join Premium: https://the-bitcoin-strategy.com My Chart Software: https://the-bi
 
 📺 Gerhard - Bitcoin Strategy
 
-👁️ 6K • 👍 143 • 💬 46 • ⏱️ 7:13 • 21h ago
-
----
-
-**[HUGE DROP ON BITCOIN, ETH &amp; GOLD 🚨 🚨 ](https://www.youtube.com/watch?v=3j6VFFKKnME)**
-
-Live Bitcoin and Ethereum trades, Tesla setup, risk plan, and trader psychology. Daily charts, entries, exits, and management for ...
-
-📺 James Crypto Guru
-
-👁️ 956 • 👍 115 • 💬 8 • ⏱️ 12:31 • 4h ago
+👁️ 6K • 👍 145 • 💬 45 • ⏱️ 7:13 • 22h ago
 
 ---
 
@@ -328,7 +328,7 @@ FREE TRAINING: https://www.bullmania.com EXCHANGES I USE (bybit, pionex): https:
 
 📺 Ivan on Tech
 
-👁️ 25K • 👍 2K • 💬 125 • ⏱️ 44:59 • 12h ago
+👁️ 26K • 👍 2K • 💬 128 • ⏱️ 44:59 • 13h ago
 
 ---
 
