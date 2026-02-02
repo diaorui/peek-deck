@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-02-02T09:52:32.594464+00:00'
+updated: '2026-02-02T10:46:08.475305+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
 - repositories
+- videos
 - social
 - news
-- videos
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** February 02, 2026 at 09:52 UTC  
+**Last Updated:** February 02, 2026 at 10:46 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -41,7 +41,7 @@ AI news, discussions, and developments
 
 India's latest budget mentions AI 11 times - highest ever. Key commitments: $90B data centre investments Tax holiday till 2047 for cloud providers Semiconductor Mission 2.0 for domestic chips Policy preference for "smaller, sector-specific models" 890+ GenAI startups active now, deep-tech funding up 78%. Analysis: https://onllm.dev/blog/3-budget-2026
 
-8h ago
+9h ago
 
 ---
 
@@ -49,7 +49,7 @@ India's latest budget mentions AI 11 times - highest ever. Key commitments: $90B
 
 I’ve been thinking a lot about AI storytelling tools lately, and something keeps bothering me. Most of them generate content, but nothing really persists. You get a story, you read it, and then it disappears. The next one has no memory of what came before. So I decided to run a small experiment. Instead of asking AI to write isolated children’s stories, I’m trying to build a system where a story world actually keeps evolving over time. The idea is that characters remember past events, relationships carry forward, and kids make choices that permanently shape what happens next. The AI’s role isn’t just to generate text, but to maintain continuity and grow the universe as it goes. In a way, it’s more like human and AI co-creating a living story world rather than consuming disposable stories. My hypothesis is that if kids actively participate in shaping a world by choosing paths, helping characters, and influencing outcomes, the stories will feel far more meaningful than static books or one-shot AI generations. Almost like a lightweight narrative universe that grows naturally. Right now there’s no product yet. The first step I’m taking is letting the AI simulate many rounds of “child-like” choices on its own to see if long-term story arcs, recurring characters, and emergent plotlines appear organically. If that shows promise, the next step will be inviting real kids to co-create. Some things I’m especially curious about: Will coherent long-term story structure emerge on its own? Will certain characters naturally become central over time? Will preferences shape each world’s tone and direction? Will participation increase emotional attachment to the stories? I’m planning to document this whole experiment publicly as I go. If anyone here has experience with agent systems, long-term memory in AI, emergent storytelling, or just thoughts about potential pitfalls, I’d really appreciate hearing them. I’ll share updates as the experiment progresses.
 
-9m ago
+1h ago
 
 ---
 
@@ -57,7 +57,7 @@ I’ve been thinking a lot about AI storytelling tools lately, and something kee
 
 For years we have watched and read stories about evil Ai's and the threats they may pose, with AI characters such as Ultron, AM, HAL 9000, the Matrix etc. looking to kill/exploit humanity. There are countless stories with these kinds of villains. But we have also had good AI characters, including Data from Star Trek, WALL-E, Baymax, C3PO, Marvin the Paranoid Android. How do you think these depictions of AI in popular media is affecting the AI systems we are making today?
 
-11h ago
+12h ago
 
 ---
 
@@ -65,7 +65,7 @@ For years we have watched and read stories about evil Ai's and the threats they 
 
 The comment follows reports that the rocket maker is weighing a transaction that could further consolidate Musk’s space and AI ventures.
 
-🔗 [TESLARATI](https://www.teslarati.com/rumored-spacex-xai-merger-gets-apparent-confirmation-from-elon-musk/) • 23h ago
+🔗 [TESLARATI](https://www.teslarati.com/rumored-spacex-xai-merger-gets-apparent-confirmation-from-elon-musk/) • 1d ago
 
 ---
 
@@ -81,7 +81,7 @@ What moltbook is So essentially There is this open source AI bot called openclaw
 
 I subscribe to a few AI podcasts, but I wanted to know of any others that you can recommend. Not looking for anything too deep, in fact, prefer the ones that are lighter and an easy listen or watch. let me know your faves.
 
-16h ago
+17h ago
 
 ---
 
@@ -89,7 +89,7 @@ I subscribe to a few AI podcasts, but I wanted to know of any others that you ca
 
 So I just spent the better part of my Sunday asking Gemini to create an alternative reality where america existed in the same time as ancient Europe. I asked how Athens and Sparta would react if we just showed up with American fruits and vegetables. How the potato alone would revolutionize agriculture. I asked how they would react to our culture and everything you can think of. I learned that athens would love us. They'd be particularly fascinated with our bonds with animals. Sparta would want to destroy us and shut down like north korea but they'd secretly get ideas and probably try and domesticate wolves. Romans would want to dress us up in togas. All joking aside, I feel like I got a deep understanding of the culture and personal perspective of each ancient civilization. Imagine schools creating scenarios in AI where you have to negotiate peace talks between Rome and Carthage. Find common ground between Athens and Sparta. Debate ethics and law in the roman Senate. It would make history fun and engaging. What is everyone else's thoughts on this?
 
-7h ago
+8h ago
 
 ---
 
@@ -97,7 +97,7 @@ So I just spent the better part of my Sunday asking Gemini to create an alternat
 
 The b4 tool used by Linux kernel developers to help manage their patch workflow around contributions to the Linux kernel has been seeing work on a text user interface to help with AI agent assisted code reviews
 
-🔗 [phoronix.com](https://www.phoronix.com/news/Linux-b4-Tool-Dog-Feeding-AI) • 15h ago
+🔗 [phoronix.com](https://www.phoronix.com/news/Linux-b4-Tool-Dog-Feeding-AI) • 16h ago
 
 ---
 
@@ -105,7 +105,7 @@ The b4 tool used by Linux kernel developers to help manage their patch workflow 
 
 So I was using LLM for studying advance language/framework/design topics. Whenever I have some question I would try on GPT but it will always give me answer in points no matter what prompt I try or create a separate workbook with new memory. It will always give me answer in small basic points. I wanted to learn topics in depth but it just refuses to give me better indepth answer just everything in basic points. Gemini sometimes is not able to understand context but the answer quality is just amazing and everything is in just depth, it uses points also but they are much better explained than GPT. Also the free version limit is just getting frustrating now in GPT and extremely long wait time for images, it has gotten so bad that I never though I would completely uninstall GPT and prefer gemini over it.
 
-23h ago
+1d ago
 
 ---
 
@@ -125,7 +125,7 @@ SpaceX's filing claims these satellites will be “a first step towards becoming
 
 A bit like Reddit for artificial intelligence, Moltbook allows AI agents – bots built by humans – to post and interact with each other. People are allowed as observers only
 
-The Guardian • 2h ago
+The Guardian • 3h ago
 
 ---
 
@@ -141,7 +141,7 @@ Axios • 1d ago
 
 OpenClaw, formerly known as Clawdbot and Moltbot, has generated massive buzz from Silicon Valley to Beijing due to its impressive capabilities, but also its quirks and risks.
 
-CNBC • 11m ago
+CNBC • 1h ago
 
 ---
 
@@ -149,7 +149,7 @@ CNBC • 11m ago
 
 You can buy an AI version of your lost loved one. But should you?
 
-The Atlantic • 21h ago
+The Atlantic • 22h ago
 
 ---
 
@@ -157,7 +157,7 @@ The Atlantic • 21h ago
 
 LinkedIn's cofounder said AI-native startups ask, "What would the perfect solution look like for my exact situation?" and then try to build it.
 
-Business Insider • 45m ago
+Business Insider • 1h ago
 
 ---
 
@@ -165,7 +165,7 @@ Business Insider • 45m ago
 
 This semiconductor company is growing at an incredible pace due to AI, but the stock hasn't been rewarded for its solid performance.
 
-Yahoo Finance • 9h ago
+Yahoo Finance • 10h ago
 
 ---
 
@@ -173,7 +173,7 @@ Yahoo Finance • 9h ago
 
 Key PointsNvidia has been the biggest winner of the AI boom, and its massive order backlog implies that more growth is ahead.
 
-Nasdaq • 12h ago
+Nasdaq • 13h ago
 
 ---
 
@@ -181,13 +181,13 @@ Nasdaq • 12h ago
 
 AMD is more of a moonshot pick.
 
-The Motley Fool • 27m ago
+The Motley Fool • 1h ago
 
 ---
 
 **[Move Fast, but Obey the Rules: China’s Vision for Dominating A.I.](https://www.nytimes.com/2026/02/02/business/china-ai-regulations.html)**
 
-The New York Times • 4h ago
+The New York Times • 5h ago
 
 ---
 
@@ -195,7 +195,7 @@ The New York Times • 4h ago
 
 Microsoft Corp. reported solid earnings on Wednesday, but investors zeroed in on stagnating growth in its Azure cloud-computing business and the more than $100 billion it’s expected to dole out in capital spending this year.  When all was said and done, Microsoft posted its worst week since March 2020.  “In a normal world, these results would be pretty good, but in the backdrop of the scale of spending, with things priced for perfection, you really have to hit your marks,” said Josh Chastant, portfolio manager of public investments at GuideStone Funds, which owns a stake in Microsoft.
 
-Yahoo Finance • 19h ago
+Yahoo Finance • 20h ago
 
 ---
 
@@ -215,7 +215,7 @@ Like many organizations, Wiki Education has grappled with generative AI, its imp
 
 A bifurcation is happening in AI adoption - power users shipping products in days versus everyone else generating meeting agendas. Enterprise tool choices are accelerating the divide.
 
-⬆️ 185 • 💬 161 • 10h ago • [Martin Alderson](https://martinalderson.com/posts/two-kinds-of-ai-users-are-emerging/)
+⬆️ 185 • 💬 161 • 11h ago • [Martin Alderson](https://martinalderson.com/posts/two-kinds-of-ai-users-are-emerging/)
 
 ---
 
@@ -291,7 +291,7 @@ A new AI platform called Moltbook suddenly exploded online, and it is built enti
 
 📺 AI Revolution
 
-👁️ 23K • 👍 1K • 💬 197 • ⏱️ 11:48 • 10h ago
+👁️ 23K • 👍 1K • 💬 197 • ⏱️ 11:48 • 11h ago
 
 ---
 
@@ -371,7 +371,7 @@ https://boot.dev/prime I have 2 courses, TCP to HTTP in Golang and 2 part Git co
 
 📺 The PrimeTime
 
-👁️ 484K • 👍 20K • 💬 2K • ⏱️ 11:45 • 1d ago
+👁️ 484K • 👍 20K • 💬 2K • ⏱️ 11:45 • 2d ago
 
 ---
 
@@ -381,7 +381,7 @@ CHAPTERS ⤵ 00:00 The OpenClaw Controversy Begins 00:43 The Future of AI — Op
 
 📺 Dylan Curious
 
-👁️ 7K • 👍 459 • 💬 114 • ⏱️ 30:45 • 12h ago
+👁️ 7K • 👍 459 • 💬 114 • ⏱️ 30:45 • 13h ago
 
 ---
 
@@ -653,7 +653,7 @@ Browser automation CLI for AI agents
 
 `TypeScript`
 
-⭐ 12.2k • 🔱 675 • 21m ago
+⭐ 12.2k • 🔱 675 • 1h ago
 
 ---
 
@@ -683,7 +683,7 @@ LLM驱动的 A/H/美股智能分析器，多数据源行情 + 实时新闻 + Gem
 
 `Python` `agent` `ai` `aigc` `gemini` `llm`
 
-⭐ 8.8k • 🔱 9.3k • 19h ago
+⭐ 8.8k • 🔱 9.3k • 20h ago
 
 ---
 
@@ -693,7 +693,7 @@ LLM驱动的 A/H/美股智能分析器，多数据源行情 + 实时新闻 + Gem
 
 `Vue`
 
-⭐ 6.9k • 🔱 1.3k • 6h ago
+⭐ 6.9k • 🔱 1.3k • 7h ago
 
 ---
 
@@ -703,7 +703,7 @@ The Ultimate Collection of 600+ Agentic Skills for Claude Code/Antigravity/Curso
 
 `Python` `agentic-skills` `ai-agents` `antigravity` `autonomous-coding` `claude-code`
 
-⭐ 6.2k • 🔱 1.4k • 2h ago
+⭐ 6.2k • 🔱 1.4k • 3h ago
 
 ---
 
