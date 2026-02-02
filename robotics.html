@@ -57,7 +57,7 @@
             "name": "PeekDeck",
             "url": "https://peekdeck.ruidiao.dev"
           },
-          "dateModified": "2026-02-01T23:49:57.313551+00:00"
+          "dateModified": "2026-02-02T02:23:07.378931+00:00"
         },
         {
           "@type": "BreadcrumbList",
@@ -866,35 +866,6 @@
                     </div>
                 </div>
                 
-                <div class="carousel-card" onclick="window.open('https://www.reddit.com/r/robotics/comments/1qta6br/how_do_you_time_gotomarket_moves_in_industrial/', '_blank')">
-                    <div class="post-thumbnail">
-                        
-                    </div>
-
-                    <div class="post-content">
-                        <!-- Post title -->
-                        <div class="post-title">
-                            <a href="https://www.reddit.com/r/robotics/comments/1qta6br/how_do_you_time_gotomarket_moves_in_industrial/" target="_blank" onclick="event.stopPropagation();">How do you time go-to-market moves in industrial tech?</a>
-                        </div>
-
-                        <!-- Rich description (if available) -->
-                        
-
-                        <!-- Metadata -->
-                        <div class="post-meta">
-                            <div class="post-meta-line">
-                                
-                                <div class="post-meta-item">
-                                    <span data-timestamp="1769978605.0"></span>
-                                </div>
-                                
-                                <!-- External article source (on same line as time) -->
-                                
-                            </div>
-                        </div>
-                    </div>
-                </div>
-                
                 <div class="carousel-card" onclick="window.open('https://www.reddit.com/r/robotics/comments/1qsb4kp/building_a_cute_little_ai_robot_with_memory_kuchi/', '_blank')">
                     <div class="post-thumbnail">
                         
@@ -965,6 +936,41 @@
                     </div>
                 </div>
                 
+                <div class="carousel-card" onclick="window.open('https://www.reddit.com/r/robotics/comments/1qs7huf/making_a_heavy_dc_motor_platform_safe_contactors/', '_blank')">
+                    <div class="post-thumbnail">
+                        
+                        <img src="https://a.thumbs.redditmedia.com/9GIgNzuuqnDAVW-tgjgQTjE1uPQaIVGiu8ZUaGmQfy0.jpg" alt="Making a heavy DC motor platform safe: contactors, E-stop, and runaway prevention" onerror="this.style.display='none'" loading="lazy">
+                        
+                    </div>
+
+                    <div class="post-content">
+                        <!-- Post title -->
+                        <div class="post-title">
+                            <a href="https://www.reddit.com/r/robotics/comments/1qs7huf/making_a_heavy_dc_motor_platform_safe_contactors/" target="_blank" onclick="event.stopPropagation();">Making a heavy DC motor platform safe: contactors, E-stop, and runaway prevention</a>
+                        </div>
+
+                        <!-- Rich description (if available) -->
+                        
+                        <div class="post-description">
+                            Hi, I’m working on a repurposed electric wheelchair chassis (>100 kg, high-torque DC motors). Current test setup (yes, I know it’s not safe): • 2 DC motors • Sabertooth 2x32 • 24 V battery pack (2×12 V AGM) • Batteries connected directly to the Sabertooth • Motors connected directly to the Sabertooth • Control is classic RC (throttle + steering) • Motors have normally-closed electromagnetic brakes, but they are not wired yet (mechanically released) Right now: • As soon as I connect the batteries, the controller is powered • There is no real kill switch • The only way to stop everything is unplugging battery connectors • If something goes wrong, the platform could move uncontrollably I’m fully aware this is not acceptable, which is why I’m posting. My goal is to make this safe in as many realistic failure scenarios as possible: • If the main battery disconnects on a slope, the system should default to a safe state (this is where normally-closed electromagnetic brakes make sense). • If RC glitches, is lost, or a microcontroller crashes, the platform must not run away. • Whatever fails (RC, MCU, software, power), there should always be a solid hardware-level barrier preventing uncontrolled motion. I’m planning a hardware upgrade soon: • proper E-STOP / kill switch • DC contactors • wiring the electromagnetic brakes • and adding some kind of MCU in the control chain (ESP32 is the obvious option for me, but Raspberry Pi / onboard computer is also possible) The Sabertooth will remain only the motor power controller. The open question for me is the architecture: whether it’s better to keep “safety/control” and “robotics/autonomy” separated (for example one small MCU for safety + another board for higher-level stuff), or if people commonly keep everything on one controller. What I’m looking for is very practical advice: • How to design a solid anti-runaway architecture for this kind of platform • Where to physically cut power to make the system safe (battery side vs motor lines) • What type of DC contactors is typically used for high-torque DC motors (ratings, poles, inductive loads) • How normally-closed electromagnetic brakes are usually wired in a fail-safe way • How people typically split responsibilities between hardware safety, motor controller config, and a microcontroller (one vs two controllers, etc.) I’m not chasing theory or certifications. I want proven, practical solutions that people actually use to make platforms like this safe to power on. Thanks.
+                        </div>
+                        
+
+                        <!-- Metadata -->
+                        <div class="post-meta">
+                            <div class="post-meta-line">
+                                
+                                <div class="post-meta-item">
+                                    <span data-timestamp="1769878388.0"></span>
+                                </div>
+                                
+                                <!-- External article source (on same line as time) -->
+                                
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                
 
                 <!-- View All button at end of carousel -->
                 <div class="carousel-card"
@@ -988,7 +994,7 @@
 
     </div>
     <div class="widget-footer">
-        <small data-timestamp="2026-02-01T23:26:33.551375+00:00">Updated 2026-02-01T23:26:33.551375+00:00</small>
+        <small data-timestamp="2026-02-02T02:22:40.401402+00:00">Updated 2026-02-02T02:22:40.401402+00:00</small>
     </div>
 </div>
 
@@ -1252,43 +1258,6 @@
                     </div>
                 </div>
                 
-                <div class="carousel-card" onclick="window.open('https://www.bloomberg.com/news/articles/2026-01-29/fiat-toyota-tycoons-back-startup-robco-in-100-million-round', '_blank')">
-                    <!-- Rich preview thumbnail (with fallback icon) -->
-                    <div class="article-thumbnail" ></div>
-
-                    <div class="article-content">
-                        <!-- Article headline (fixed 3-line height) -->
-                        <div class="news-headline">
-                            <a href="https://www.bloomberg.com/news/articles/2026-01-29/fiat-toyota-tycoons-back-startup-robco-in-100-million-round" target="_blank" onclick="event.stopPropagation();">Lightspeed Backs Robotics Startup in $100 Million Round</a>
-                        </div>
-
-                        <!-- Rich description (if available) -->
-                        
-
-                        <!-- Metadata (source, time) -->
-                        <div class="news-meta">
-                            <div class="news-meta-line">
-                                
-                                <div class="news-meta-item news-source">
-                                    
-                                    <img src="https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.bloomberg.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
-                                         alt="Bloomberg.com" class="news-favicon">
-                                    <a href="https://www.bloomberg.com" target="_blank" onclick="event.stopPropagation();">Bloomberg.com</a>
-                                    
-                                </div>
-                                
-                            </div>
-                            <div class="news-meta-line">
-                                
-                                <div class="news-meta-item">
-                                    <span data-timestamp="1769702755.0"></span>
-                                </div>
-                                
-                            </div>
-                        </div>
-                    </div>
-                </div>
-                
                 <div class="carousel-card" onclick="window.open('https://opinion.inquirer.net/189405/robotics-for-better-or-for-worse', '_blank')">
                     <!-- Rich preview thumbnail (with fallback icon) -->
                     <div class="article-thumbnail" style="background-image: url('https://opinion.inquirer.net/files/2024/03/ARTEMIO-PANGANIBAN-WITH-DUE-RESPECT-10March2024.jpg');"></div>
@@ -1323,125 +1292,6 @@
                                 
                                 <div class="news-meta-item">
                                     <span data-timestamp="1769981400.0"></span>
-                                </div>
-                                
-                            </div>
-                        </div>
-                    </div>
-                </div>
-                
-                <div class="carousel-card" onclick="window.open('https://www.therobotreport.com/new-york-robotics-launches-160-startups-ecosystem/', '_blank')">
-                    <!-- Rich preview thumbnail (with fallback icon) -->
-                    <div class="article-thumbnail" style="background-image: url('https://www.therobotreport.com/wp-content/uploads/2026/01/responsible_robots_act_capitol_hill_albany_nyr-featured.jpg');"></div>
-
-                    <div class="article-content">
-                        <!-- Article headline (fixed 3-line height) -->
-                        <div class="news-headline">
-                            <a href="https://www.therobotreport.com/new-york-robotics-launches-160-startups-ecosystem/" target="_blank" onclick="event.stopPropagation();">New York Robotics launches with 160 startups in its ecosystem</a>
-                        </div>
-
-                        <!-- Rich description (if available) -->
-                        
-                        <div class="article-description">
-                            New York Robotics is launching with over 80 industry partners, 20 academic partners, 40 robotics labs, and over 300 venture capital partners.
-                        </div>
-                        
-
-                        <!-- Metadata (source, time) -->
-                        <div class="news-meta">
-                            <div class="news-meta-line">
-                                
-                                <div class="news-meta-item news-source">
-                                    
-                                    <img src="https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.therobotreport.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
-                                         alt="The Robot Report" class="news-favicon">
-                                    <a href="https://www.therobotreport.com" target="_blank" onclick="event.stopPropagation();">The Robot Report</a>
-                                    
-                                </div>
-                                
-                            </div>
-                            <div class="news-meta-line">
-                                
-                                <div class="news-meta-item">
-                                    <span data-timestamp="1769784845.0"></span>
-                                </div>
-                                
-                            </div>
-                        </div>
-                    </div>
-                </div>
-                
-                <div class="carousel-card" onclick="window.open('https://finance.yahoo.com/news/oceaneering-international-subsea-robotics-shift-220614962.html', '_blank')">
-                    <!-- Rich preview thumbnail (with fallback icon) -->
-                    <div class="article-thumbnail" style="background-image: url('https://s.yimg.com/os/en/simply_wall_st__316/92d26d55968bddf376addae5e476c381');"></div>
-
-                    <div class="article-content">
-                        <!-- Article headline (fixed 3-line height) -->
-                        <div class="news-headline">
-                            <a href="https://finance.yahoo.com/news/oceaneering-international-subsea-robotics-shift-220614962.html" target="_blank" onclick="event.stopPropagation();">Oceaneering International’s Subsea Robotics Shift Reshapes Energy And Defense Mix</a>
-                        </div>
-
-                        <!-- Rich description (if available) -->
-                        
-                        <div class="article-description">
-                            Oceaneering International (NYSE:OII) is seeing rising interest in its subsea robotics capabilities as it expands into defense and non energy markets. The company is building on its established offshore expertise to pursue contracts and partnerships beyond traditional oil and gas activity. This shift reflects a broader push to diversify its revenue sources into areas that are less tied to energy price cycles. For investors watching NYSE:OII, the focus is increasingly on how the robotics and...
-                        </div>
-                        
-
-                        <!-- Metadata (source, time) -->
-                        <div class="news-meta">
-                            <div class="news-meta-line">
-                                
-                                <div class="news-meta-item news-source">
-                                    
-                                    <img src="https://encrypted-tbn2.gstatic.com/faviconV2?url=https://finance.yahoo.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
-                                         alt="Yahoo Finance" class="news-favicon">
-                                    <a href="https://finance.yahoo.com" target="_blank" onclick="event.stopPropagation();">Yahoo Finance</a>
-                                    
-                                </div>
-                                
-                            </div>
-                            <div class="news-meta-line">
-                                
-                                <div class="news-meta-item">
-                                    <span data-timestamp="1769983574.0"></span>
-                                </div>
-                                
-                            </div>
-                        </div>
-                    </div>
-                </div>
-                
-                <div class="carousel-card" onclick="window.open('https://www.etftrends.com/disruptive-technology-content-hub/ai-robotics-investment-opportunities-extend-beyond-big-tech/', '_blank')">
-                    <!-- Rich preview thumbnail (with fallback icon) -->
-                    <div class="article-thumbnail" ></div>
-
-                    <div class="article-content">
-                        <!-- Article headline (fixed 3-line height) -->
-                        <div class="news-headline">
-                            <a href="https://www.etftrends.com/disruptive-technology-content-hub/ai-robotics-investment-opportunities-extend-beyond-big-tech/" target="_blank" onclick="event.stopPropagation();">AI Robotics Investment Opportunities Extend Beyond Big Tech</a>
-                        </div>
-
-                        <!-- Rich description (if available) -->
-                        
-
-                        <!-- Metadata (source, time) -->
-                        <div class="news-meta">
-                            <div class="news-meta-line">
-                                
-                                <div class="news-meta-item news-source">
-                                    
-                                    <img src="https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.etftrends.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
-                                         alt="ETF Trends" class="news-favicon">
-                                    <a href="https://www.etftrends.com" target="_blank" onclick="event.stopPropagation();">ETF Trends</a>
-                                    
-                                </div>
-                                
-                            </div>
-                            <div class="news-meta-line">
-                                
-                                <div class="news-meta-item">
-                                    <span data-timestamp="1769796317.0"></span>
                                 </div>
                                 
                             </div>
@@ -1490,6 +1340,125 @@
                     </div>
                 </div>
                 
+                <div class="carousel-card" onclick="window.open('https://www.scmp.com/tech/tech-trends/article/3341953/optimus-chain-chinese-suppliers-form-backbone-teslas-humanoid-robot-initiative', '_blank')">
+                    <!-- Rich preview thumbnail (with fallback icon) -->
+                    <div class="article-thumbnail" style="background-image: url('https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/canvas/2026/01/31/5c7d739a-4d83-4f7c-aae6-89cda8b3a7f2_8223b760.jpg?itok=DdAtONJN&v=1769860166');"></div>
+
+                    <div class="article-content">
+                        <!-- Article headline (fixed 3-line height) -->
+                        <div class="news-headline">
+                            <a href="https://www.scmp.com/tech/tech-trends/article/3341953/optimus-chain-chinese-suppliers-form-backbone-teslas-humanoid-robot-initiative" target="_blank" onclick="event.stopPropagation();">‘Optimus chain’: Chinese suppliers form backbone of Tesla’s humanoid robot plans</a>
+                        </div>
+
+                        <!-- Rich description (if available) -->
+                        
+                        <div class="article-description">
+                            Tesla’s pivot to producing humanoid robots is expected to engage a network of key Chinese component makers.
+                        </div>
+                        
+
+                        <!-- Metadata (source, time) -->
+                        <div class="news-meta">
+                            <div class="news-meta-line">
+                                
+                                <div class="news-meta-item news-source">
+                                    
+                                    <img src="https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.scmp.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+                                         alt="South China Morning Post" class="news-favicon">
+                                    <a href="https://www.scmp.com" target="_blank" onclick="event.stopPropagation();">South China Morning Post</a>
+                                    
+                                </div>
+                                
+                            </div>
+                            <div class="news-meta-line">
+                                
+                                <div class="news-meta-item">
+                                    <span data-timestamp="1769925616.0"></span>
+                                </div>
+                                
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                
+                <div class="carousel-card" onclick="window.open('https://www.therobotreport.com/new-york-robotics-launches-160-startups-ecosystem/', '_blank')">
+                    <!-- Rich preview thumbnail (with fallback icon) -->
+                    <div class="article-thumbnail" style="background-image: url('https://www.therobotreport.com/wp-content/uploads/2026/01/responsible_robots_act_capitol_hill_albany_nyr-featured.jpg');"></div>
+
+                    <div class="article-content">
+                        <!-- Article headline (fixed 3-line height) -->
+                        <div class="news-headline">
+                            <a href="https://www.therobotreport.com/new-york-robotics-launches-160-startups-ecosystem/" target="_blank" onclick="event.stopPropagation();">New York Robotics launches with 160 startups in its ecosystem</a>
+                        </div>
+
+                        <!-- Rich description (if available) -->
+                        
+                        <div class="article-description">
+                            New York Robotics is launching with over 80 industry partners, 20 academic partners, 40 robotics labs, and over 300 venture capital partners.
+                        </div>
+                        
+
+                        <!-- Metadata (source, time) -->
+                        <div class="news-meta">
+                            <div class="news-meta-line">
+                                
+                                <div class="news-meta-item news-source">
+                                    
+                                    <img src="https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.therobotreport.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+                                         alt="The Robot Report" class="news-favicon">
+                                    <a href="https://www.therobotreport.com" target="_blank" onclick="event.stopPropagation();">The Robot Report</a>
+                                    
+                                </div>
+                                
+                            </div>
+                            <div class="news-meta-line">
+                                
+                                <div class="news-meta-item">
+                                    <span data-timestamp="1769784845.0"></span>
+                                </div>
+                                
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                
+                <div class="carousel-card" onclick="window.open('https://www.etftrends.com/disruptive-technology-content-hub/ai-robotics-investment-opportunities-extend-beyond-big-tech/', '_blank')">
+                    <!-- Rich preview thumbnail (with fallback icon) -->
+                    <div class="article-thumbnail" ></div>
+
+                    <div class="article-content">
+                        <!-- Article headline (fixed 3-line height) -->
+                        <div class="news-headline">
+                            <a href="https://www.etftrends.com/disruptive-technology-content-hub/ai-robotics-investment-opportunities-extend-beyond-big-tech/" target="_blank" onclick="event.stopPropagation();">AI Robotics Investment Opportunities Extend Beyond Big Tech</a>
+                        </div>
+
+                        <!-- Rich description (if available) -->
+                        
+
+                        <!-- Metadata (source, time) -->
+                        <div class="news-meta">
+                            <div class="news-meta-line">
+                                
+                                <div class="news-meta-item news-source">
+                                    
+                                    <img src="https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.etftrends.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+                                         alt="ETF Trends" class="news-favicon">
+                                    <a href="https://www.etftrends.com" target="_blank" onclick="event.stopPropagation();">ETF Trends</a>
+                                    
+                                </div>
+                                
+                            </div>
+                            <div class="news-meta-line">
+                                
+                                <div class="news-meta-item">
+                                    <span data-timestamp="1769796317.0"></span>
+                                </div>
+                                
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                
                 <div class="carousel-card" onclick="window.open('https://www.nature.com/articles/s41928-025-01552-6', '_blank')">
                     <!-- Rich preview thumbnail (with fallback icon) -->
                     <div class="article-thumbnail" style="background-image: url('https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41928-025-01552-6/MediaObjects/41928_2025_1552_Fig1_HTML.png');"></div>
@@ -1524,6 +1493,47 @@
                                 
                                 <div class="news-meta-item">
                                     <span data-timestamp="1769789855.0"></span>
+                                </div>
+                                
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                
+                <div class="carousel-card" onclick="window.open('https://finance.yahoo.com/news/oceaneering-international-subsea-robotics-shift-220614962.html', '_blank')">
+                    <!-- Rich preview thumbnail (with fallback icon) -->
+                    <div class="article-thumbnail" style="background-image: url('https://s.yimg.com/os/en/simply_wall_st__316/92d26d55968bddf376addae5e476c381');"></div>
+
+                    <div class="article-content">
+                        <!-- Article headline (fixed 3-line height) -->
+                        <div class="news-headline">
+                            <a href="https://finance.yahoo.com/news/oceaneering-international-subsea-robotics-shift-220614962.html" target="_blank" onclick="event.stopPropagation();">Oceaneering International’s Subsea Robotics Shift Reshapes Energy And Defense Mix</a>
+                        </div>
+
+                        <!-- Rich description (if available) -->
+                        
+                        <div class="article-description">
+                            Oceaneering International (NYSE:OII) is seeing rising interest in its subsea robotics capabilities as it expands into defense and non energy markets. The company is building on its established offshore expertise to pursue contracts and partnerships beyond traditional oil and gas activity. This shift reflects a broader push to diversify its revenue sources into areas that are less tied to energy price cycles. For investors watching NYSE:OII, the focus is increasingly on how the robotics and...
+                        </div>
+                        
+
+                        <!-- Metadata (source, time) -->
+                        <div class="news-meta">
+                            <div class="news-meta-line">
+                                
+                                <div class="news-meta-item news-source">
+                                    
+                                    <img src="https://encrypted-tbn2.gstatic.com/faviconV2?url=https://finance.yahoo.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+                                         alt="Yahoo Finance" class="news-favicon">
+                                    <a href="https://finance.yahoo.com" target="_blank" onclick="event.stopPropagation();">Yahoo Finance</a>
+                                    
+                                </div>
+                                
+                            </div>
+                            <div class="news-meta-line">
+                                
+                                <div class="news-meta-item">
+                                    <span data-timestamp="1769983574.0"></span>
                                 </div>
                                 
                             </div>
@@ -1592,7 +1602,7 @@
 
     </div>
     <div class="widget-footer">
-        <small data-timestamp="2026-02-01T23:49:47.350721+00:00">Updated 2026-02-01T23:49:47.350721+00:00</small>
+        <small data-timestamp="2026-02-02T02:22:55.777463+00:00">Updated 2026-02-02T02:22:55.777463+00:00</small>
     </div>
 </div>
 
@@ -1824,11 +1834,11 @@
                             
                             <div class="video-meta-line">
                                 <div class="video-meta-item">
-                                    <span style="color: #9ca3af;">👁️ 7K</span>
+                                    <span style="color: #9ca3af;">👁️ 8K</span>
                                 </div>
                                 
                                 <div class="video-meta-item">
-                                    <span style="color: #9ca3af;">👍 85</span>
+                                    <span style="color: #9ca3af;">👍 91</span>
                                 </div>
                                 
                                 
@@ -1844,6 +1854,72 @@
                                 
                                 <div class="video-meta-item">
                                     <span data-timestamp="1769890690.0"></span>
+                                </div>
+                                
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                
+                <div class="carousel-card" onclick="window.open('https://www.youtube.com/watch?v=rYqkI8gFvRc', '_blank')">
+                    <!-- Video thumbnail (16:9 with play button overlay and duration badge) -->
+                    <div class="video-thumbnail" style="background-image: url('https://i.ytimg.com/vi/rYqkI8gFvRc/hqdefault.jpg');">
+                        
+                        <span class="duration-badge">7:44</span>
+                        
+                    </div>
+
+                    <div class="video-content">
+                        <!-- Video title (fixed 2-line height) -->
+                        <div class="video-title">
+                            <a href="https://www.youtube.com/watch?v=rYqkI8gFvRc" target="_blank" onclick="event.stopPropagation();">Most HUMANLIKE Robot Yet? XPENG Iron STUNS and STUMBLES as DroidUp Brings Most Fully Bionic Android</a>
+                        </div>
+
+                        <!-- Video description (if available) -->
+                        
+                        <div class="video-description">
+                            The fast-rising Chinese EV maker XPENG's next-generation Iron humanoid robot is going viral. In footage making the rounds on ...
+                        </div>
+                        
+
+                        <!-- Metadata (channel, engagement stats, publish date) -->
+                        <div class="video-meta">
+                            <!-- Channel name with avatar -->
+                            <div class="video-meta-line">
+                                
+                                <div class="video-meta-item video-channel">
+                                    
+                                    <img src="https://yt3.ggpht.com/-9kCWtWeJJGztKeXkyekZhmQYaXSSt7eGi5U-a2fGjFQ7g9lYOErdg1ezyAo-OqScsOw9T2J=s88-c-k-c0x00ffffff-no-rj" alt="Kalil 4.0" class="channel-avatar">
+                                    
+                                    <a href="https://www.youtube.com/channel/UC00LYrodHro2ho2PkmhwLig" target="_blank" onclick="event.stopPropagation();">Kalil 4.0</a>
+                                </div>
+                                
+                            </div>
+
+                            <!-- Engagement stats (views, likes, comments) -->
+                            
+                            <div class="video-meta-line">
+                                <div class="video-meta-item">
+                                    <span style="color: #9ca3af;">👁️ 2K</span>
+                                </div>
+                                
+                                <div class="video-meta-item">
+                                    <span style="color: #9ca3af;">👍 88</span>
+                                </div>
+                                
+                                
+                                <div class="video-meta-item">
+                                    <span style="color: #9ca3af;">💬 21</span>
+                                </div>
+                                
+                            </div>
+                            
+
+                            <!-- Published date -->
+                            <div class="video-meta-line">
+                                
+                                <div class="video-meta-item">
+                                    <span data-timestamp="1769933661.0"></span>
                                 </div>
                                 
                             </div>
@@ -1890,7 +1966,7 @@
                             
                             <div class="video-meta-line">
                                 <div class="video-meta-item">
-                                    <span style="color: #9ca3af;">👁️ 114K</span>
+                                    <span style="color: #9ca3af;">👁️ 118K</span>
                                 </div>
                                 
                                 <div class="video-meta-item">
@@ -1899,7 +1975,7 @@
                                 
                                 
                                 <div class="video-meta-item">
-                                    <span style="color: #9ca3af;">💬 278</span>
+                                    <span style="color: #9ca3af;">💬 288</span>
                                 </div>
                                 
                             </div>
@@ -1910,6 +1986,72 @@
                                 
                                 <div class="video-meta-item">
                                     <span data-timestamp="1769816137.0"></span>
+                                </div>
+                                
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                
+                <div class="carousel-card" onclick="window.open('https://www.youtube.com/watch?v=kMfcGfRO0R8', '_blank')">
+                    <!-- Video thumbnail (16:9 with play button overlay and duration badge) -->
+                    <div class="video-thumbnail" style="background-image: url('https://i.ytimg.com/vi/kMfcGfRO0R8/hqdefault.jpg');">
+                        
+                        <span class="duration-badge">2:06</span>
+                        
+                    </div>
+
+                    <div class="video-content">
+                        <!-- Video title (fixed 2-line height) -->
+                        <div class="video-title">
+                            <a href="https://www.youtube.com/watch?v=kMfcGfRO0R8" target="_blank" onclick="event.stopPropagation();">XPeng IRON Robot Falls Then Stands Back Up Live on Stage</a>
+                        </div>
+
+                        <!-- Video description (if available) -->
+                        
+                        <div class="video-description">
+                            XPeng just showed the world what real humanoid robot progress looks like. During a live public event, the IRON robot stumbled, ...
+                        </div>
+                        
+
+                        <!-- Metadata (channel, engagement stats, publish date) -->
+                        <div class="video-meta">
+                            <!-- Channel name with avatar -->
+                            <div class="video-meta-line">
+                                
+                                <div class="video-meta-item video-channel">
+                                    
+                                    <img src="https://yt3.ggpht.com/kdOk33kRWHaXSaI9EuwPMY_fL8hVV6Vl7R-QrPq0gwimCh18HyovkT8IiZoPNGT88-mYmANzmQ=s88-c-k-c0x00ffffff-no-rj" alt="DPCcars" class="channel-avatar">
+                                    
+                                    <a href="https://www.youtube.com/channel/UCGWNHkr2WZcRbxqoet-nyeg" target="_blank" onclick="event.stopPropagation();">DPCcars</a>
+                                </div>
+                                
+                            </div>
+
+                            <!-- Engagement stats (views, likes, comments) -->
+                            
+                            <div class="video-meta-line">
+                                <div class="video-meta-item">
+                                    <span style="color: #9ca3af;">👁️ 3K</span>
+                                </div>
+                                
+                                <div class="video-meta-item">
+                                    <span style="color: #9ca3af;">👍 48</span>
+                                </div>
+                                
+                                
+                                <div class="video-meta-item">
+                                    <span style="color: #9ca3af;">💬 11</span>
+                                </div>
+                                
+                            </div>
+                            
+
+                            <!-- Published date -->
+                            <div class="video-meta-line">
+                                
+                                <div class="video-meta-item">
+                                    <span data-timestamp="1769959892.0"></span>
                                 </div>
                                 
                             </div>
@@ -1956,7 +2098,7 @@
                             
                             <div class="video-meta-line">
                                 <div class="video-meta-item">
-                                    <span style="color: #9ca3af;">👁️ 724K</span>
+                                    <span style="color: #9ca3af;">👁️ 736K</span>
                                 </div>
                                 
                                 <div class="video-meta-item">
@@ -1976,72 +2118,6 @@
                                 
                                 <div class="video-meta-item">
                                     <span data-timestamp="1769742963.0"></span>
-                                </div>
-                                
-                            </div>
-                        </div>
-                    </div>
-                </div>
-                
-                <div class="carousel-card" onclick="window.open('https://www.youtube.com/watch?v=OsEDfzhhAiA', '_blank')">
-                    <!-- Video thumbnail (16:9 with play button overlay and duration badge) -->
-                    <div class="video-thumbnail" style="background-image: url('https://i.ytimg.com/vi/OsEDfzhhAiA/hqdefault.jpg');">
-                        
-                        <span class="duration-badge">0:06</span>
-                        
-                    </div>
-
-                    <div class="video-content">
-                        <!-- Video title (fixed 2-line height) -->
-                        <div class="video-title">
-                            <a href="https://www.youtube.com/watch?v=OsEDfzhhAiA" target="_blank" onclick="event.stopPropagation();">🔬 Sony’s Microsurgery Robot Prototype: Scaled Hand Control, Auto Tool Swaps, and 4K Precision</a>
-                        </div>
-
-                        <!-- Video description (if available) -->
-                        
-                        <div class="video-description">
-                            This is Sony's prototype microsurgery assistance robot, designed for operations where human hands reach their physical limits.
-                        </div>
-                        
-
-                        <!-- Metadata (channel, engagement stats, publish date) -->
-                        <div class="video-meta">
-                            <!-- Channel name with avatar -->
-                            <div class="video-meta-line">
-                                
-                                <div class="video-meta-item video-channel">
-                                    
-                                    <img src="https://yt3.ggpht.com/unopBX7_XdKnRImD4GLnTJnk3uCA6Ln1Vkf7JNp-Zw67LVVL2C_nSG6H46LsIRfK6LnpfpEr=s88-c-k-c0x00ffffff-no-rj" alt="Fact" class="channel-avatar">
-                                    
-                                    <a href="https://www.youtube.com/channel/UC1gR1AhGGfIC47e6RKqLAbQ" target="_blank" onclick="event.stopPropagation();">Fact</a>
-                                </div>
-                                
-                            </div>
-
-                            <!-- Engagement stats (views, likes, comments) -->
-                            
-                            <div class="video-meta-line">
-                                <div class="video-meta-item">
-                                    <span style="color: #9ca3af;">👁️ 10K</span>
-                                </div>
-                                
-                                <div class="video-meta-item">
-                                    <span style="color: #9ca3af;">👍 112</span>
-                                </div>
-                                
-                                
-                                <div class="video-meta-item">
-                                    <span style="color: #9ca3af;">💬 4</span>
-                                </div>
-                                
-                            </div>
-                            
-
-                            <!-- Published date -->
-                            <div class="video-meta-line">
-                                
-                                <div class="video-meta-item">
-                                    <span data-timestamp="1769961638.0"></span>
                                 </div>
                                 
                             </div>
@@ -2088,16 +2164,16 @@
                             
                             <div class="video-meta-line">
                                 <div class="video-meta-item">
-                                    <span style="color: #9ca3af;">👁️ 68K</span>
+                                    <span style="color: #9ca3af;">👁️ 69K</span>
                                 </div>
                                 
                                 <div class="video-meta-item">
-                                    <span style="color: #9ca3af;">👍 573</span>
+                                    <span style="color: #9ca3af;">👍 577</span>
                                 </div>
                                 
                                 
                                 <div class="video-meta-item">
-                                    <span style="color: #9ca3af;">💬 335</span>
+                                    <span style="color: #9ca3af;">💬 337</span>
                                 </div>
                                 
                             </div>
@@ -2108,6 +2184,130 @@
                                 
                                 <div class="video-meta-item">
                                     <span data-timestamp="1769671298.0"></span>
+                                </div>
+                                
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                
+                <div class="carousel-card" onclick="window.open('https://www.youtube.com/watch?v=OsEDfzhhAiA', '_blank')">
+                    <!-- Video thumbnail (16:9 with play button overlay and duration badge) -->
+                    <div class="video-thumbnail" style="background-image: url('https://i.ytimg.com/vi/OsEDfzhhAiA/hqdefault.jpg');">
+                        
+                        <span class="duration-badge">0:06</span>
+                        
+                    </div>
+
+                    <div class="video-content">
+                        <!-- Video title (fixed 2-line height) -->
+                        <div class="video-title">
+                            <a href="https://www.youtube.com/watch?v=OsEDfzhhAiA" target="_blank" onclick="event.stopPropagation();">🔬 Sony’s Microsurgery Robot Prototype: Scaled Hand Control, Auto Tool Swaps, and 4K Precision</a>
+                        </div>
+
+                        <!-- Video description (if available) -->
+                        
+                        <div class="video-description">
+                            This is Sony's prototype microsurgery assistance robot, designed for operations where human hands reach their physical limits.
+                        </div>
+                        
+
+                        <!-- Metadata (channel, engagement stats, publish date) -->
+                        <div class="video-meta">
+                            <!-- Channel name with avatar -->
+                            <div class="video-meta-line">
+                                
+                                <div class="video-meta-item video-channel">
+                                    
+                                    <img src="https://yt3.ggpht.com/unopBX7_XdKnRImD4GLnTJnk3uCA6Ln1Vkf7JNp-Zw67LVVL2C_nSG6H46LsIRfK6LnpfpEr=s88-c-k-c0x00ffffff-no-rj" alt="Fact" class="channel-avatar">
+                                    
+                                    <a href="https://www.youtube.com/channel/UC1gR1AhGGfIC47e6RKqLAbQ" target="_blank" onclick="event.stopPropagation();">Fact</a>
+                                </div>
+                                
+                            </div>
+
+                            <!-- Engagement stats (views, likes, comments) -->
+                            
+                            <div class="video-meta-line">
+                                <div class="video-meta-item">
+                                    <span style="color: #9ca3af;">👁️ 13K</span>
+                                </div>
+                                
+                                <div class="video-meta-item">
+                                    <span style="color: #9ca3af;">👍 127</span>
+                                </div>
+                                
+                                
+                                <div class="video-meta-item">
+                                    <span style="color: #9ca3af;">💬 4</span>
+                                </div>
+                                
+                            </div>
+                            
+
+                            <!-- Published date -->
+                            <div class="video-meta-line">
+                                
+                                <div class="video-meta-item">
+                                    <span data-timestamp="1769961638.0"></span>
+                                </div>
+                                
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                
+                <div class="carousel-card" onclick="window.open('https://www.youtube.com/watch?v=b8vufpXa21Q', '_blank')">
+                    <!-- Video thumbnail (16:9 with play button overlay and duration badge) -->
+                    <div class="video-thumbnail" style="background-image: url('https://i.ytimg.com/vi/b8vufpXa21Q/hqdefault.jpg');">
+                        
+                        <span class="duration-badge">0:22</span>
+                        
+                    </div>
+
+                    <div class="video-content">
+                        <!-- Video title (fixed 2-line height) -->
+                        <div class="video-title">
+                            <a href="https://www.youtube.com/watch?v=b8vufpXa21Q" target="_blank" onclick="event.stopPropagation();">Drag-and-drop welding robot.#industrial #welding #robot #spraying #stamping</a>
+                        </div>
+
+                        <!-- Video description (if available) -->
+                        
+
+                        <!-- Metadata (channel, engagement stats, publish date) -->
+                        <div class="video-meta">
+                            <!-- Channel name with avatar -->
+                            <div class="video-meta-line">
+                                
+                                <div class="video-meta-item video-channel">
+                                    
+                                    <img src="https://yt3.ggpht.com/F1fjTckYU6R1Mc2hmLv03Pk4YIJMjB2uB_ErtSn5sFFBip7B3cLxDESuB0dk5EIyUq6g3vRd=s88-c-k-c0x00ffffff-no-rj" alt="Borunte Robot Lin " class="channel-avatar">
+                                    
+                                    <a href="https://www.youtube.com/channel/UCQSrXM_GWKvm1MeEovP8pkQ" target="_blank" onclick="event.stopPropagation();">Borunte Robot Lin </a>
+                                </div>
+                                
+                            </div>
+
+                            <!-- Engagement stats (views, likes, comments) -->
+                            
+                            <div class="video-meta-line">
+                                <div class="video-meta-item">
+                                    <span style="color: #9ca3af;">👁️ 32K</span>
+                                </div>
+                                
+                                <div class="video-meta-item">
+                                    <span style="color: #9ca3af;">👍 86</span>
+                                </div>
+                                
+                                
+                            </div>
+                            
+
+                            <!-- Published date -->
+                            <div class="video-meta-line">
+                                
+                                <div class="video-meta-item">
+                                    <span data-timestamp="1769822627.0"></span>
                                 </div>
                                 
                             </div>
@@ -2220,7 +2420,7 @@
                             
                             <div class="video-meta-line">
                                 <div class="video-meta-item">
-                                    <span style="color: #9ca3af;">👁️ 30K</span>
+                                    <span style="color: #9ca3af;">👁️ 33K</span>
                                 </div>
                                 
                                 
@@ -2236,200 +2436,6 @@
                                 
                                 <div class="video-meta-item">
                                     <span data-timestamp="1769936939.0"></span>
-                                </div>
-                                
-                            </div>
-                        </div>
-                    </div>
-                </div>
-                
-                <div class="carousel-card" onclick="window.open('https://www.youtube.com/watch?v=GS1zde45f7I', '_blank')">
-                    <!-- Video thumbnail (16:9 with play button overlay and duration badge) -->
-                    <div class="video-thumbnail" style="background-image: url('https://i.ytimg.com/vi/GS1zde45f7I/hqdefault.jpg');">
-                        
-                        <span class="duration-badge">1:03</span>
-                        
-                    </div>
-
-                    <div class="video-content">
-                        <!-- Video title (fixed 2-line height) -->
-                        <div class="video-title">
-                            <a href="https://www.youtube.com/watch?v=GS1zde45f7I" target="_blank" onclick="event.stopPropagation();">Figure upgrades its humanoid robot with new finger sensors. Real dexterity is coming. #AI #technews</a>
-                        </div>
-
-                        <!-- Video description (if available) -->
-                        
-
-                        <!-- Metadata (channel, engagement stats, publish date) -->
-                        <div class="video-meta">
-                            <!-- Channel name with avatar -->
-                            <div class="video-meta-line">
-                                
-                                <div class="video-meta-item video-channel">
-                                    
-                                    <img src="https://yt3.ggpht.com/ytc/AIdro_lZo-XtCJdQSmxmjDd4qjzS6yNceiRve33pKkJA4mTa6g=s88-c-k-c0x00ffffff-no-rj" alt="Ryan Shaw" class="channel-avatar">
-                                    
-                                    <a href="https://www.youtube.com/channel/UCfv7-e6_6ZhvDL9-7Yw5OVA" target="_blank" onclick="event.stopPropagation();">Ryan Shaw</a>
-                                </div>
-                                
-                            </div>
-
-                            <!-- Engagement stats (views, likes, comments) -->
-                            
-                            <div class="video-meta-line">
-                                <div class="video-meta-item">
-                                    <span style="color: #9ca3af;">👁️ 5K</span>
-                                </div>
-                                
-                                <div class="video-meta-item">
-                                    <span style="color: #9ca3af;">👍 62</span>
-                                </div>
-                                
-                                
-                                <div class="video-meta-item">
-                                    <span style="color: #9ca3af;">💬 3</span>
-                                </div>
-                                
-                            </div>
-                            
-
-                            <!-- Published date -->
-                            <div class="video-meta-line">
-                                
-                                <div class="video-meta-item">
-                                    <span data-timestamp="1769914800.0"></span>
-                                </div>
-                                
-                            </div>
-                        </div>
-                    </div>
-                </div>
-                
-                <div class="carousel-card" onclick="window.open('https://www.youtube.com/watch?v=U7tlOl7s3ns', '_blank')">
-                    <!-- Video thumbnail (16:9 with play button overlay and duration badge) -->
-                    <div class="video-thumbnail" style="background-image: url('https://i.ytimg.com/vi/U7tlOl7s3ns/hqdefault.jpg');">
-                        
-                        <span class="duration-badge">0:19</span>
-                        
-                    </div>
-
-                    <div class="video-content">
-                        <!-- Video title (fixed 2-line height) -->
-                        <div class="video-title">
-                            <a href="https://www.youtube.com/watch?v=U7tlOl7s3ns" target="_blank" onclick="event.stopPropagation();">Why AI Pizza Machines Are Actually Worrying Workers 🍕</a>
-                        </div>
-
-                        <!-- Video description (if available) -->
-                        
-                        <div class="video-description">
-                            Some people are getting concerned because automatic AI pizza-making machines are slowly appearing on streets worldwide.
-                        </div>
-                        
-
-                        <!-- Metadata (channel, engagement stats, publish date) -->
-                        <div class="video-meta">
-                            <!-- Channel name with avatar -->
-                            <div class="video-meta-line">
-                                
-                                <div class="video-meta-item video-channel">
-                                    
-                                    <img src="https://yt3.ggpht.com/3pegVSGC3Vg5bZqC3GU_ghNkj4wbmOqihwY-K5Prz_Dd1fOmDX8UaxpUDv_u0ik7Jga1TlU-wQ=s88-c-k-c0x00ffffff-no-rj" alt="Taylor Jollie" class="channel-avatar">
-                                    
-                                    <a href="https://www.youtube.com/channel/UCSgME6qNjUmX_bvUZ_2IObQ" target="_blank" onclick="event.stopPropagation();">Taylor Jollie</a>
-                                </div>
-                                
-                            </div>
-
-                            <!-- Engagement stats (views, likes, comments) -->
-                            
-                            <div class="video-meta-line">
-                                <div class="video-meta-item">
-                                    <span style="color: #9ca3af;">👁️ 22K</span>
-                                </div>
-                                
-                                <div class="video-meta-item">
-                                    <span style="color: #9ca3af;">👍 117</span>
-                                </div>
-                                
-                                
-                                <div class="video-meta-item">
-                                    <span style="color: #9ca3af;">💬 12</span>
-                                </div>
-                                
-                            </div>
-                            
-
-                            <!-- Published date -->
-                            <div class="video-meta-line">
-                                
-                                <div class="video-meta-item">
-                                    <span data-timestamp="1769707813.0"></span>
-                                </div>
-                                
-                            </div>
-                        </div>
-                    </div>
-                </div>
-                
-                <div class="carousel-card" onclick="window.open('https://www.youtube.com/watch?v=LF4o4Z01Q0I', '_blank')">
-                    <!-- Video thumbnail (16:9 with play button overlay and duration badge) -->
-                    <div class="video-thumbnail" style="background-image: url('https://i.ytimg.com/vi/LF4o4Z01Q0I/hqdefault.jpg');">
-                        
-                        <span class="duration-badge">15:47</span>
-                        
-                    </div>
-
-                    <div class="video-content">
-                        <!-- Video title (fixed 2-line height) -->
-                        <div class="video-title">
-                            <a href="https://www.youtube.com/watch?v=LF4o4Z01Q0I" target="_blank" onclick="event.stopPropagation();">ChatGPT in a kids robot does exactly what experts warned.</a>
-                        </div>
-
-                        <!-- Video description (if available) -->
-                        
-                        <div class="video-description">
-                            AI in a kids toy does what experts warned. Can we trust AI? Get Inside AI's exclusive Nord VPN deal here: ...
-                        </div>
-                        
-
-                        <!-- Metadata (channel, engagement stats, publish date) -->
-                        <div class="video-meta">
-                            <!-- Channel name with avatar -->
-                            <div class="video-meta-line">
-                                
-                                <div class="video-meta-item video-channel">
-                                    
-                                    <img src="https://yt3.ggpht.com/QRczBgWBsa_C37fOJW5dieRhyJqdI3SakjwqasXU8giJ7nDapM-zAnWCGlciBWEstSvGerKFOw=s88-c-k-c0x00ffffff-no-rj" alt="InsideAI" class="channel-avatar">
-                                    
-                                    <a href="https://www.youtube.com/channel/UC0_M9eztZvetcyLAb5f-o5w" target="_blank" onclick="event.stopPropagation();">InsideAI</a>
-                                </div>
-                                
-                            </div>
-
-                            <!-- Engagement stats (views, likes, comments) -->
-                            
-                            <div class="video-meta-line">
-                                <div class="video-meta-item">
-                                    <span style="color: #9ca3af;">👁️ 265K</span>
-                                </div>
-                                
-                                <div class="video-meta-item">
-                                    <span style="color: #9ca3af;">👍 14K</span>
-                                </div>
-                                
-                                
-                                <div class="video-meta-item">
-                                    <span style="color: #9ca3af;">💬 2K</span>
-                                </div>
-                                
-                            </div>
-                            
-
-                            <!-- Published date -->
-                            <div class="video-meta-line">
-                                
-                                <div class="video-meta-item">
-                                    <span data-timestamp="1769888900.0"></span>
                                 </div>
                                 
                             </div>
@@ -2457,7 +2463,7 @@
 
     </div>
     <div class="widget-footer">
-        <small data-timestamp="2026-02-01T23:26:43.096388+00:00">Updated 2026-02-01T23:26:43.096388+00:00</small>
+        <small data-timestamp="2026-02-02T02:22:45.473649+00:00">Updated 2026-02-02T02:22:45.473649+00:00</small>
     </div>
 </div>
 
