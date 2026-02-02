@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-02-02T08:45:00.202082+00:00'
+updated: '2026-02-02T09:52:32.612366+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- videos
 - social
 - news
+- videos
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** February 02, 2026 at 08:45 UTC  
+**Last Updated:** February 02, 2026 at 09:52 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -36,7 +36,7 @@ Robotics research and industry news
 
 Hi everyone, so I am doing internship and I gotta to do ball balancing robot so I don't know the connections so kindly help me out how to do the connections and work it . And using Arduino uno, camera, jumper wires , breadboard, and a DC-DC buck converter step-down power module with a USB output port. Since I have no idea to connections I need your guys help to suggest me how to the connections and if possible if there is any components required kindly let me know. The ball balancing bot body has been ready .
 
-4h ago
+5h ago
 
 ---
 
@@ -44,7 +44,15 @@ Hi everyone, so I am doing internship and I gotta to do ball balancing robot so 
 
 From DEEP Robotics on 𝕏: https://x.com/DeepRobotics_CN/status/2017114429360656740
 
-21h ago
+22h ago
+
+---
+
+**[Top 12 Humanoid Robots of 2026](https://www.reddit.com/r/robotics/comments/1qtpupl/top_12_humanoid_robots_of_2026/)**
+
+A new industry guide breaks down the top 12 robots defining this era, from Tesla’s $30k Optimus Gen 2 to 1X’s NEO, which is finally shipping to homes. The list details the specs, pricing, and capabilities of the major players (including Boston Dynamics, Figure, and Unitree) as they shift from 'cool lab demos' to real-world labor in factories and living rooms.
+
+🔗 [Humanoid Robotics Technology](https://humanoidroboticstechnology.com/articles/top-12-humanoid-robots-of-2026/) • 1h ago
 
 ---
 
@@ -52,7 +60,13 @@ From DEEP Robotics on 𝕏: https://x.com/DeepRobotics_CN/status/201711442936065
 
 I live in India and in a day I see about 4 construction sites on my way to work . I quite often notice that we don't have Autonomous robots that carry heavy load from one place to another. People continue to use wheel barrow as a mode to carry heavy load. I do not know why we are not in a time where people can start using robots to carry heavy load. I am new to robotics and learning still about the mechanics and the business of it. I wanted to know if: 1) Is this the case in most countries? 2) Are people not using robots to carry heavy load due to extremely high costs? 3) Are these robots not as fast and efficient as they claim to be? 4) Is there no need in the first place? I would love to know your thoughts as to why we don't see as many robots carry heavy load in construction sites?
 
-4h ago
+5h ago
+
+---
+
+**[Robot camera with depth sensing + RGB, IMU, global shutter, RGB, IR for Jetson SDK](https://www.reddit.com/r/robotics/comments/1qtoqrc/robot_camera_with_depth_sensing_rgb_imu_global/)**
+
+2h ago
 
 ---
 
@@ -64,17 +78,19 @@ I hadn't seen the whole video yesterday when I posted it. From The Humanoid Hub 
 
 ---
 
-**[Robot camera with depth sensing + RGB, IMU, global shutter, RGB, IR for Jetson SDK](https://www.reddit.com/r/robotics/comments/1qtoqrc/robot_camera_with_depth_sensing_rgb_imu_global/)**
-
-1h ago
-
----
-
 **[We’re open-sourcing our SO101 Parallel Jaw Gripper. It requires zero extra hardware and became a game-changer for our experiments.](https://www.reddit.com/r/robotics/comments/1qtb7n1/were_opensourcing_our_so101_parallel_jaw_gripper/)**
 
 Hi everyone, We are the team behind NormaCore, a unified toolkit designed to fix the fragmented workflow of building physical systems. While our goal is a complete ecosystem (unified API, visual tooling, and high-performance data pipelines), we believe in releasing early and often. Developer experience is at the core of our design philosophy. We got tired of hacking together disjointed tools, so we’re building a foundation that handles everything from complex robotics to distributed sensor networks. To kick off our open-source release cycle, we’re sharing the Parallel Jaw Gripper. It’s a part of a larger 7+1 DoF arm we are refining to bring high-end research robotics to makers and hobby projects. Fully 3D printed and SO101 compatible, the gripper features modular camera mounts and requires zero extra hardware assembly relies entirely on standard motor kit parts. We’d love your feedback on the design and the tooling behind it
 
-🔗 [GitHub](https://github.com/norma-core/norma-core/blob/main/hardware/pgripper/README.md) • 11h ago
+🔗 [GitHub](https://github.com/norma-core/norma-core/blob/main/hardware/pgripper/README.md) • 12h ago
+
+---
+
+**[Problems with logic/coding](https://www.reddit.com/r/robotics/comments/1qtq31g/problems_with_logiccoding/)**
+
+I'm a college student new to robotics and I've been using Arduino for the past few weeks to get started however, I've run into several problems when it comes to the logic portion. I'm not sure if its because I'm not super experienced in coding but whenever I've finished the building portion (which is always the easiest part) I can't see to figure out what to do once i get to the part where I actually have to tell it what I want it to do (this is the void loop portion in arduino). I don't want to ask chatgpt either because I know it'll take away the learning portion for me (and because its wrong 90% of the time). Should I hone in on learning coding (c++ & python) for a bit before getting back into project building for the time being? I'm a bit unsure since everyone says that project building is where you learn the most but I've been stuck at beginner level projects for weeks due to my inability to figure out what to do for the code.
+
+50m ago
 
 ---
 
@@ -82,7 +98,7 @@ Hi everyone, We are the team behind NormaCore, a unified toolkit designed to fix
 
 Hey folks, what cameras do you use these days for robots that have depth sensing + RGB, IMU, global shutter, RGB, IR, and work with Jetson SDK? I was looking at D455, but is hard to find, and not sure if this is still going to be in business in 6m or so. The OAK-D and ZED seem next choices, but don't know about them, since are small companies. Please advice. Thanks in advance.
 
-1h ago
+2h ago
 
 ---
 
@@ -90,21 +106,7 @@ Hey folks, what cameras do you use these days for robots that have depth sensing
 
 In my last post, I mentioned that I tested Hypershell, Ascentiz, WIM, DNSYS, and Skip. Thanks for your patience—this post is the first chapter, where I’ll share my experiences and a comparison report. I’ve found that the more I write, the more detailed it becomes. Let me know which specific aspects you’d like me to focus on in the comparisons. The first two I'd like to compare were Hypershell X Carbon and Ascentiz H Pro, and both were fun to review. Hypershell is relatively mature in the field, and Ascentiz is slightly newer. First, for the two the chassis mechanics are undeniable. The material stack for Hypershell X Carbon is combining Carbon Fiber, 3D-Formed Titanium Alloy and Aluminum Alloy. Similarly, Ascentiz used Carbon Fiber and Titanium/Aluminum Alloy hybrid construction depending on whether it is pro or ultra version. The environmental hardening specs are equally robust: verified -20°C thermal stability and IP54 ingress protection. Also Hypershell has a 2,000km fatigue life cycle. This is clearly built for alpine abuse. https://preview.redd.it/51ig65yqb0hg1.png?width=960&format=png&auto=webp&s=254f06ba1517b5886d01744e09945d5c85011690 the hypershell I bought For Hypershell the unit weighs 1.8 kg (4.0 lb) without the battery; with the battery installed, the total weight is approximately 2.2 kg. When holding it in hand, it initially feels slightly heavy. However, once worn and in use, the weight distribution is reasonable and the overall feel is acceptable. I feel the same about the weight with Ascentiz—you don’t really notice it during use. That said, when compared to WIM, there is still a noticeable difference in terms of lightweight experience. However, the powertrain creates a significant system bottleneck. Despite the aerospace-grade body, the propulsion system is a carry-over from the entry-level model: a standard 1HP (800W peak / 32N·m) AI-driven motion engine. Consequently, the 17.5km battery range remains the limiting factor for serious backcountry sorties. I did not test the battery life, as I did not use it for long outdoor activities. The main reason is that the unit still feels relatively bulky, so I was not inclined to pack it in my luggage for long-distance travel. That said, I do have some concerns about how the battery specifications are presented. The official website states a 17.5 km battery range and illustrates this with a route map showing a climb from the base of a mountain to the summit. However, it is unclear how this figure was derived. Was the range measured through an actual uphill hiking test with a user under load, or is it a converted estimate based on flat-ground testing? A pic shown on their website Ascentiz is marketing its pro as a high-performance assistant tool, and the numbers of 1.2HP and 900W peak seem to back that up. They also both claim to use AI to recognize different terrains and activities (uphill, downhill, stairs, running, etc.) and then automatically adjust its power output in real time. For Hypershell the app design is quite concise and provides detailed fitting instructions. I personally feel their app is better to use. In terms of the integration between the app and the device, Hypershell performs very well, with almost no disconnections. For Ascentiz, however, there are occasional instances where the app needs to be reconnected, which can slightly affect the overall user experience. The big waist buckle makes it easy to adjust, and the leg straps are equally straightforward to use. During actual use, the overall experience is effective for both. I can clearly feel the lift assistance on my thighs, as well as the subtle adjustments in force output across different movements. These effects are noticeable immediately once you put it on, making it clear that this is not just a gadget—it delivers real, functional assistance. But there are also other issues to consider. First off, Hypershell runs HOT. Heat dissipation is insufficient. The active cooling can't keep up with the output. Second, switching modes feels not fluid. My biggest gripe is the actuation threshold. The sensors seem to require an exaggerated knee lift (high hip flexion) to trigger the assist. On shallower inclines where I’m not lifting my legs high, the system feels sluggish and unresponsive. Then, I tried Ascentiz. I personally tried their H through the tester program. I received it last month and have been using it for a few weeks. For example, I went for a walk yesterday and also visited Costco, where several people stopped to comment. There were no issues on the walk or the shopping run. What stood out most to me was the strong initial torque support. I tested levels 3–4, which felt well-matched to my physical capability and task intensity. During transitions between movements, the system detected changes almost instantaneously and adjusted the assistance mode accordingly. The short transition gap was particularly interesting from a technical standpoint—it made it clear that adaptive control and AI-based motion recognition are genuinely at work, rather than this being merely a marketing claim. After about 3-4 hours of use, there was no noticeable heat buildup or discomfort, which indicates effective thermal design. This aspect of relatively long-duration usability is something I particularly appreciated. the Ascentiz H pro I tested I didn’t try this one for hiking tho. So I am not quite sure about its battery life. According to its own specifications, the battery life is relatively strong and can be considered comparable to Hypershell’s performance. The bump to 1.2HP (900W peak) paired with a 20km range seems to be able to address previous concerns about backcountry endurance. But to me the true value proposition for Ascentiz lies in its modular design and hackability. It transforms the device from a standalone product into a modular platform. Isn’t that a clever idea? It has two modules to switch from. I‘ve attached their specs here. I haven’t tried their K module, but I’ve seen their backer demo and interviews on Instagram. I assume it would be a good fit for older users with knee issues—for example, my father, who has long-term knee pain and constant muscle fatigue, might consider it if the price is reasonable. From what I understand, it’s the first consumer exoskeleton of its kind to take the open-source approach, and the team is actively building a developer community around that. Overall, I do feel it brings some innovation that sets it apart in this space. the belt design of Ascentiz Comparison of h and k modules Next, I’ll discuss the WIM product, which happens to be my daughter’s favorite. From a design perspective, it appears primarily tailored for seniors, children, and women. While the level of support isn’t quite enough for me as an adult male, its stability is impressive. The product clearly targets a specific user group and reflects a well-defined market strategy. I’ll share more details in the next post.
 
-4h ago
-
----
-
-**[The future of remote workers?](https://www.reddit.com/r/robotics/comments/1qsmoj2/the_future_of_remote_workers/)**
-
-1d ago
-
----
-
-**[ICRA-IROS Transfer](https://www.reddit.com/r/robotics/comments/1qt2hih/icrairos_transfer/)**
-
-Hello fellow roboticists, I have had a paper rejected from ICRA, and i'm planning to submit it to IROS. I have a question about the ICRA/IROS transfer process. This year they introduced a mechanism to transfer rejected papers along with the authors responses to reviewers to IROS. How does it work, and for those who experienced this during IROS2025, what has your overall experience been with it?
-
-16h ago
+5h ago
 
 ---
 
@@ -116,7 +118,7 @@ Hello fellow roboticists, I have had a paper rejected from ICRA, and i'm plannin
 
 FIRST's board of directors says it has hired a law firm to review Kamen's ties to Epstein, days after newly released documents show the two men shared a relationship over a number of years.
 
-New Hampshire Public Radio • 14h ago
+New Hampshire Public Radio • 15h ago
 
 ---
 
@@ -124,7 +126,7 @@ New Hampshire Public Radio • 14h ago
 
 Morgan Stanley analysts highlight stocks of companies that sell specialized robotics parts.
 
-CNBC • 19h ago
+CNBC • 20h ago
 
 ---
 
@@ -154,7 +156,7 @@ Zacks Investment Research • 2d ago
 
 Team Arsenic took second place at the recent ROBO-BASH in Bellingham, earning fifth place in the world.
 
-Everett Herald • 2d ago
+Everett Herald • 3d ago
 
 ---
 
@@ -196,7 +198,7 @@ XPENG just took a massive step forward in humanoid robotics. The New IRON robot 
 
 📺 DPCcars
 
-👁️ 9K • 👍 95 • 💬 26 • ⏱️ 1:21 • 1d ago
+👁️ 9K • 👍 102 • 💬 26 • ⏱️ 1:21 • 1d ago
 
 ---
 
@@ -206,7 +208,7 @@ Humanoid robotics just took a massive leap into the real world. Researchers in C
 
 📺 AI Revolution
 
-👁️ 124K • 👍 1K • 💬 292 • ⏱️ 14:25 • 2d ago
+👁️ 126K • 👍 1K • 💬 292 • ⏱️ 14:25 • 2d ago
 
 ---
 
@@ -216,17 +218,7 @@ China is deploying AI-powered robots to manage traffic and pedestrian flow in ci
 
 📺 NBC News
 
-👁️ 751K • 👍 7K • 💬 2K • ⏱️ 3:13 • 3d ago
-
----
-
-**[Most HUMANLIKE Robot Yet? XPENG Iron STUNS and STUMBLES as DroidUp Brings Most Fully Bionic Android](https://www.youtube.com/watch?v=rYqkI8gFvRc)**
-
-The fast-rising Chinese EV maker XPENG's next-generation Iron humanoid robot is going viral. In footage making the rounds on ...
-
-📺 Kalil 4.0
-
-👁️ 3K • 👍 100 • 💬 27 • ⏱️ 7:44 • 1d ago
+👁️ 755K • 👍 7K • 💬 2K • ⏱️ 3:13 • 3d ago
 
 ---
 
@@ -236,7 +228,7 @@ Today in Shanghai, a humanoid robot named Moya makes her debut, smiling, nodding
 
 📺 ShanghaiEye魔都眼
 
-👁️ 7K • 👍 253 • 💬 84 • ⏱️ 1:34 • 2d ago
+👁️ 8K • 👍 270 • 💬 97 • ⏱️ 1:34 • 2d ago
 
 ---
 
@@ -246,7 +238,27 @@ XPeng just showed the world what real humanoid robot progress looks like. During
 
 📺 DPCcars
 
-👁️ 6K • 👍 61 • 💬 16 • ⏱️ 2:06 • 17h ago
+👁️ 6K • 👍 67 • 💬 18 • ⏱️ 2:06 • 18h ago
+
+---
+
+**[Make Your Own Cute Dasai Mochi Robot🤖 | #ashwinprojects #AltiumStudentLab](https://www.youtube.com/watch?v=KsDxCDsoWMk)**
+
+Make Your Own Cute Dasai Mochi Robot   | #ashwinprojects #AltiumStudentLab Accelerate Your Career in Electronics Design ...
+
+📺 Ashwin Projects
+
+👁️ 458K • 👍 16K • 💬 87 • ⏱️ 1:49 • 4d ago
+
+---
+
+**[Most HUMANLIKE Robot Yet? XPENG Iron STUNS and STUMBLES as DroidUp Brings Most Fully Bionic Android](https://www.youtube.com/watch?v=rYqkI8gFvRc)**
+
+The fast-rising Chinese EV maker XPENG's next-generation Iron humanoid robot is going viral. In footage making the rounds on ...
+
+📺 Kalil 4.0
+
+👁️ 3K • 👍 103 • 💬 27 • ⏱️ 7:44 • 1d ago
 
 ---
 
@@ -256,7 +268,7 @@ This is Sony's prototype microsurgery assistance robot, designed for operations 
 
 📺 Fact
 
-👁️ 15K • 👍 152 • 💬 4 • ⏱️ 0:06 • 16h ago
+👁️ 16K • 👍 164 • 💬 4 • ⏱️ 0:06 • 17h ago
 
 ---
 
@@ -268,23 +280,13 @@ This is Sony's prototype microsurgery assistance robot, designed for operations 
 
 ---
 
-**[ChatGPT in a kids robot does exactly what experts warned.](https://www.youtube.com/watch?v=LF4o4Z01Q0I)**
+**[China’s LimX deploys 18 humanoid robots without human control](https://www.youtube.com/watch?v=a4HkHZfYy2c)**
 
-AI in a kids toy does what experts warned. Can we trust AI? Get Inside AI's exclusive Nord VPN deal here: ...
+China's LimX Dynamics showcased 18 “Oli” humanoid robots activating, standing, and moving in coordination without direct ...
 
-📺 InsideAI
+📺 Interesting Engineering
 
-👁️ 328K • 👍 16K • 💬 2K • ⏱️ 15:47 • 1d ago
-
----
-
-**[Make Your Own Cute Dasai Mochi Robot🤖 | #ashwinprojects #AltiumStudentLab](https://www.youtube.com/watch?v=KsDxCDsoWMk)**
-
-Make Your Own Cute Dasai Mochi Robot   | #ashwinprojects #AltiumStudentLab Accelerate Your Career in Electronics Design ...
-
-📺 Ashwin Projects
-
-👁️ 457K • 👍 15K • 💬 86 • ⏱️ 1:49 • 4d ago
+👁️ 51K • 👍 434 • 💬 55 • ⏱️ 1:37 • 5d ago
 
 ---
 
