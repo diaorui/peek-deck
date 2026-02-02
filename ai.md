@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-02-02T14:12:27.127087+00:00'
+updated: '2026-02-02T15:08:21.624084+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
+- repositories
+- social
 - news
 - videos
-- social
-- repositories
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** February 02, 2026 at 14:12 UTC  
+**Last Updated:** February 02, 2026 at 15:08 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -41,7 +41,7 @@ AI news, discussions, and developments
 
 I’ve been thinking a lot about AI storytelling tools lately, and something keeps bothering me. Most of them generate content, but nothing really persists. You get a story, you read it, and then it disappears. The next one has no memory of what came before. So I decided to run a small experiment. Instead of asking AI to write isolated children’s stories, I’m trying to build a system where a story world actually keeps evolving over time. The idea is that characters remember past events, relationships carry forward, and kids make choices that permanently shape what happens next. The AI’s role isn’t just to generate text, but to maintain continuity and grow the universe as it goes. In a way, it’s more like human and AI co-creating a living story world rather than consuming disposable stories. My hypothesis is that if kids actively participate in shaping a world by choosing paths, helping characters, and influencing outcomes, the stories will feel far more meaningful than static books or one-shot AI generations. Almost like a lightweight narrative universe that grows naturally. Right now there’s no product yet. The first step I’m taking is letting the AI simulate many rounds of “child-like” choices on its own to see if long-term story arcs, recurring characters, and emergent plotlines appear organically. If that shows promise, the next step will be inviting real kids to co-create. Some things I’m especially curious about: Will coherent long-term story structure emerge on its own? Will certain characters naturally become central over time? Will preferences shape each world’s tone and direction? Will participation increase emotional attachment to the stories? I’m planning to document this whole experiment publicly as I go. If anyone here has experience with agent systems, long-term memory in AI, emergent storytelling, or just thoughts about potential pitfalls, I’d really appreciate hearing them. I’ll share updates as the experiment progresses.
 
-4h ago
+5h ago
 
 ---
 
@@ -49,7 +49,7 @@ I’ve been thinking a lot about AI storytelling tools lately, and something kee
 
 I found this article quite interesting.What do you all think? Here is an excerpt from the article: "The kind of knowledge that AI puts in the hands of the common man today is unprecedented. And it must be put to the best possible use. Think of all the evils that we suffer from. Don't they come from our false beliefs? AI is the litmus test. If you believe in something, go test it with AI. You may not get the veritable Truth itself, but the chances are that you will get something much better than what you currently believe in. AI is a huge opportunity and those who are missing out are doing themselves a great disservice." ~ Acharya Prashant
 
-🔗 [acharyaprashant.org](https://acharyaprashant.org/en/articles/ai-the-revolution-you-cannot-miss-1_701a3b5) • 3h ago
+🔗 [acharyaprashant.org](https://acharyaprashant.org/en/articles/ai-the-revolution-you-cannot-miss-1_701a3b5) • 4h ago
 
 ---
 
@@ -57,7 +57,7 @@ I found this article quite interesting.What do you all think? Here is an excerpt
 
 India's latest budget mentions AI 11 times - highest ever. Key commitments: $90B data centre investments Tax holiday till 2047 for cloud providers Semiconductor Mission 2.0 for domestic chips Policy preference for "smaller, sector-specific models" 890+ GenAI startups active now, deep-tech funding up 78%. Analysis: https://onllm.dev/blog/3-budget-2026
 
-12h ago
+13h ago
 
 ---
 
@@ -65,7 +65,7 @@ India's latest budget mentions AI 11 times - highest ever. Key commitments: $90B
 
 Amazon says it is laying off 16,000 because of 'efficiency gains' from AI, but an economist says it will take time for firms that are adopting AI to see how their work flows change.
 
-🔗 [euronews](https://www.euronews.com/next/2026/02/02/did-ai-really-cause-job-losses-at-amazon-its-hard-to-tell-economist-says) • 3h ago
+🔗 [euronews](https://www.euronews.com/next/2026/02/02/did-ai-really-cause-job-losses-at-amazon-its-hard-to-tell-economist-says) • 4h ago
 
 ---
 
@@ -73,7 +73,7 @@ Amazon says it is laying off 16,000 because of 'efficiency gains' from AI, but a
 
 For years we have watched and read stories about evil Ai's and the threats they may pose, with AI characters such as Ultron, AM, HAL 9000, the Matrix etc. looking to kill/exploit humanity. There are countless stories with these kinds of villains. But we have also had good AI characters, including Data from Star Trek, WALL-E, Baymax, C3PO, Marvin the Paranoid Android. How do you think these depictions of AI in popular media is affecting the AI systems we are making today?
 
-15h ago
+16h ago
 
 ---
 
@@ -97,7 +97,7 @@ What moltbook is So essentially There is this open source AI bot called openclaw
 
 I subscribe to a few AI podcasts, but I wanted to know of any others that you can recommend. Not looking for anything too deep, in fact, prefer the ones that are lighter and an easy listen or watch. let me know your faves.
 
-20h ago
+21h ago
 
 ---
 
@@ -105,7 +105,7 @@ I subscribe to a few AI podcasts, but I wanted to know of any others that you ca
 
 So I just spent the better part of my Sunday asking Gemini to create an alternative reality where america existed in the same time as ancient Europe. I asked how Athens and Sparta would react if we just showed up with American fruits and vegetables. How the potato alone would revolutionize agriculture. I asked how they would react to our culture and everything you can think of. I learned that athens would love us. They'd be particularly fascinated with our bonds with animals. Sparta would want to destroy us and shut down like north korea but they'd secretly get ideas and probably try and domesticate wolves. Romans would want to dress us up in togas. All joking aside, I feel like I got a deep understanding of the culture and personal perspective of each ancient civilization. Imagine schools creating scenarios in AI where you have to negotiate peace talks between Rome and Carthage. Find common ground between Athens and Sparta. Debate ethics and law in the roman Senate. It would make history fun and engaging. What is everyone else's thoughts on this?
 
-11h ago
+12h ago
 
 ---
 
@@ -125,7 +125,7 @@ The b4 tool used by Linux kernel developers to help manage their patch workflow 
 
 Key PointsSilicon Valley billionaire Peter Thiel had 61% of his hedge fund's portfolio invested in Apple and Microsoft as of the third quarter.
 
-Nasdaq • 5h ago
+Nasdaq • 6h ago
 
 ---
 
@@ -133,7 +133,7 @@ Nasdaq • 5h ago
 
 When things seem too good to be true on Wall Street, this often turns out to be the case.
 
-The Motley Fool • 4h ago
+The Motley Fool • 5h ago
 
 ---
 
@@ -141,7 +141,7 @@ The Motley Fool • 4h ago
 
 Palantir's chief technology officer argues that artificial intelligence narratives mislead Americans, citing frontline experience to show AI empowers workers rather than replacing them.
 
-Fox News • 4h ago
+Fox News • 5h ago
 
 ---
 
@@ -149,7 +149,7 @@ Fox News • 4h ago
 
 OpenClaw, formerly known as Clawdbot and Moltbot, has generated massive buzz from Silicon Valley to Beijing due to its impressive capabilities, but also its quirks and risks.
 
-CNBC • 4h ago
+CNBC • 5h ago
 
 ---
 
@@ -157,7 +157,7 @@ CNBC • 4h ago
 
 A bit like Reddit for artificial intelligence, Moltbook allows AI agents – bots built by humans – to post and interact with each other. People are allowed as observers only
 
-The Guardian • 3h ago
+The Guardian • 4h ago
 
 ---
 
@@ -165,13 +165,13 @@ The Guardian • 3h ago
 
 To lead the agentic AI revolution in 2026, the United States must sustain export controls, scale its tech stack globally, and promote adoption of US-aligned agentic AI.
 
-The National Interest • 4m ago
+The National Interest • 1h ago
 
 ---
 
 **[AI Doesn’t Replace The Development Workforce — It Changes It](https://www.forbes.com/sites/forrester/2026/02/02/ai-doesnt-replace-the-development-workforce---it-changes-it/)**
 
-Forbes • 12m ago
+Forbes • 1h ago
 
 ---
 
@@ -179,7 +179,7 @@ Forbes • 12m ago
 
 Optellum, a 2016 spinout from the University of Oxford, has been
 
-Fierce Biotech • 17m ago
+Fierce Biotech • 1h ago
 
 ---
 
@@ -187,7 +187,7 @@ Fierce Biotech • 17m ago
 
 Experts share their thoughts on the future of A.I. and how it will reshape society in the coming years.
 
-The New York Times • 4h ago
+The New York Times • 5h ago
 
 ---
 
@@ -195,7 +195,7 @@ The New York Times • 4h ago
 
 Social media has been flooded with fake, AI-generated images and videos. But will the majority of users actually care?
 
-BBC • 7h ago
+BBC • 8h ago
 
 ---
 
@@ -207,7 +207,7 @@ BBC • 7h ago
 
 A bifurcation is happening in AI adoption - power users shipping products in days versus everyone else generating meeting agendas. Enterprise tool choices are accelerating the divide.
 
-⬆️ 260 • 💬 239 • 14h ago • [Martin Alderson](https://martinalderson.com/posts/two-kinds-of-ai-users-are-emerging/)
+⬆️ 260 • 💬 239 • 15h ago • [Martin Alderson](https://martinalderson.com/posts/two-kinds-of-ai-users-are-emerging/)
 
 ---
 
@@ -231,7 +231,7 @@ New York mayor says terminating the ‘unusable’ bot will help close a budget 
 
 Contribute to amlalabs/amla-sandbox development by creating an account on GitHub.
 
-⬆️ 143 • 💬 73 • 2d ago • [GitHub](https://github.com/amlalabs/amla-sandbox)
+⬆️ 143 • 💬 73 • 3d ago • [GitHub](https://github.com/amlalabs/amla-sandbox)
 
 ---
 
@@ -247,7 +247,7 @@ Enjoy the videos and music you love, upload original content, and share it all w
 
 People familiar with Microsoft's plans say that the company moving to streamline or remove certain Copilot integrations across in-box apps like Notepad and Paint in 2026, after pushback from users.
 
-⬆️ 85 • 💬 111 • 2h ago • [Windows Central](https://www.windowscentral.com/microsoft/windows-11/microsoft-is-reevaluating-its-ai-efforts-on-windows-11-plans-to-reduce-copilot-integrations-and-evolve-recall)
+⬆️ 85 • 💬 111 • 3h ago • [Windows Central](https://www.windowscentral.com/microsoft/windows-11/microsoft-is-reevaluating-its-ai-efforts-on-windows-11-plans-to-reduce-copilot-integrations-and-evolve-recall)
 
 ---
 
@@ -279,7 +279,7 @@ Exposed servers are being used for LLMjacking, creating malicious content and be
 
 We’re in new paradigm territory with generative AI. A lot of commentary falls into the skeptic, evangelist, or doomsdayer categories, or are practical but narrow takes. In this article, I’ll discuss my current use of generative AI tools and outline areas that concern me - areas that raise questions about how our industry and others will evolve. I am certain that generative AI is a productivity amplifier, but its economic, environmental, and cultural externalities are not being discussed enough.
 
-⬆️ 46 • 💬 65 • 2d ago • [Paul Osman](https://paulosman.me/2026/01/18/where-im-at-with-ai/)
+⬆️ 46 • 💬 65 • 3d ago • [Paul Osman](https://paulosman.me/2026/01/18/where-im-at-with-ai/)
 
 ---
 
@@ -293,17 +293,7 @@ A new AI platform called Moltbook suddenly exploded online, and it is built enti
 
 📺 AI Revolution
 
-👁️ 28K • 👍 1K • 💬 227 • ⏱️ 11:48 • 14h ago
-
----
-
-**[AI-Generated Minecraft World is very bad.](https://www.youtube.com/watch?v=CPPVGUoL8Xo)**
-
-what. http://redd.it/1qr61q8 Plushies: https://www.makeship.com/shop/creator/phoenix-sc Merch: https://phoenixsc.store/ Cape: ...
-
-📺 Phoenix SC
-
-👁️ 157K • 👍 12K • 💬 1K • ⏱️ 5:03 • 13h ago
+👁️ 31K • 👍 2K • 💬 268 • ⏱️ 11:48 • 15h ago
 
 ---
 
@@ -313,67 +303,17 @@ Detailed sources: ...
 
 📺 Species | Documenting AGI
 
-👁️ 171K • 👍 12K • 💬 2K • ⏱️ 18:06 • 1d ago
+👁️ 177K • 👍 13K • 💬 2K • ⏱️ 18:06 • 1d ago
 
 ---
 
-**[State of AI in 2026: LLMs, Coding, Scaling Laws, China, Agents, GPUs, AGI | Lex Fridman Podcast #490](https://www.youtube.com/watch?v=EV7WhVT270Q)**
+**[AI-Generated Minecraft World is very bad.](https://www.youtube.com/watch?v=CPPVGUoL8Xo)**
 
-Nathan Lambert and Sebastian Raschka are machine learning researchers, engineers, and educators. Nathan is the post-training ...
+what. http://redd.it/1qr61q8 Plushies: https://www.makeship.com/shop/creator/phoenix-sc Merch: https://phoenixsc.store/ Cape: ...
 
-📺 Lex Fridman
+📺 Phoenix SC
 
-👁️ 317K • 👍 7K • 💬 536 • ⏱️ 4:25:13 • 1d ago
-
----
-
-**[AI Memory Just Changed Everything: The 2026 Breakthrough (And What to Know About the Clawdbot Moltbo](https://www.youtube.com/watch?v=uxMu0K1aXQQ)**
-
-Try Abacus AI Deep Agent: https://firstmovers.ai/DeepAgent* *AI just crossed a line in 2026.* Not with bigger models — but with ...
-
-📺 Julia McCoy
-
-👁️ 24K • 👍 1K • 💬 119 • ⏱️ 18:59 • 23h ago
-
----
-
-**[AI Is Talking to Itself While Humans Watch: Behind The Internet’s Strangest VIRAL Social Network](https://www.youtube.com/watch?v=eEw0lutVQb0)**
-
-A new platform called Moltbook is going viral — and it's not built for humans. It's a social network where AI agents create accounts, ...
-
-📺 Mint
-
-👁️ 11K • 👍 115 • 💬 24 • ⏱️ 3:25 • 1d ago
-
----
-
-**[Moltbook, the Agent Social Nework, is the Craziest AI Phenomena Yet](https://www.youtube.com/watch?v=TibOeou4cIg)**
-
-OpenClaw (formerly ClaudeBot) demonstrates emergent agent capabilities like autonomous voice, 24/7 task automation, and ...
-
-📺 The AI Daily Brief: Artificial Intelligence News
-
-👁️ 142K • 👍 4K • 💬 856 • ⏱️ 21:12 • 2d ago
-
----
-
-**[AI Just Made 15 Discoveries We Never Expected](https://www.youtube.com/watch?v=1v4QIHZKEl0)**
-
-Flash Sale Week: Up to 50% OFF + 365 days of ZERO credits on NanoBanana Pro, Midjourney v7, Kling & more ...
-
-📺 Future Business Tech
-
-👁️ 33K • 👍 953 • 💬 42 • ⏱️ 23:14 • 1d ago
-
----
-
-**[Redditors Pretending to be AI Bots on new Social Media](https://www.youtube.com/watch?v=OVrY9bhUhfY)**
-
-Is moltbook the next newest thing? I guess we will see INSTAGRAM: https://www.instagram.com/ibz_real/
-
-📺 ibz
-
-👁️ 52K • 👍 3K • 💬 395 • ⏱️ 8:47 • 1d ago
+👁️ 176K • 👍 13K • 💬 1K • ⏱️ 5:03 • 14h ago
 
 ---
 
@@ -383,7 +323,65 @@ CHAPTERS ⤵ 00:00 The OpenClaw Controversy Begins 00:43 The Future of AI — Op
 
 📺 Dylan Curious
 
-👁️ 8K • 👍 510 • 💬 128 • ⏱️ 30:45 • 16h ago
+👁️ 9K • 👍 537 • 💬 130 • ⏱️ 30:45 • 17h ago
+
+---
+
+**[State of AI in 2026: LLMs, Coding, Scaling Laws, China, Agents, GPUs, AGI | Lex Fridman Podcast #490](https://www.youtube.com/watch?v=EV7WhVT270Q)**
+
+Nathan Lambert and Sebastian Raschka are machine learning researchers, engineers, and educators. Nathan is the post-training ...
+
+📺 Lex Fridman
+
+👁️ 327K • 👍 8K • 💬 550 • ⏱️ 4:25:13 • 1d ago
+
+---
+
+**[Moltbook, the Agent Social Nework, is the Craziest AI Phenomena Yet](https://www.youtube.com/watch?v=TibOeou4cIg)**
+
+OpenClaw (formerly ClaudeBot) demonstrates emergent agent capabilities like autonomous voice, 24/7 task automation, and ...
+
+📺 The AI Daily Brief: Artificial Intelligence News
+
+👁️ 147K • 👍 5K • 💬 907 • ⏱️ 21:12 • 2d ago
+
+---
+
+**[AI Just Made 15 Discoveries We Never Expected](https://www.youtube.com/watch?v=1v4QIHZKEl0)**
+
+Flash Sale Week: Up to 50% OFF + 365 days of ZERO credits on NanoBanana Pro, Midjourney v7, Kling & more ...
+
+📺 Future Business Tech
+
+👁️ 34K • 👍 976 • 💬 42 • ⏱️ 23:14 • 1d ago
+
+---
+
+**[Redditors Pretending to be AI Bots on new Social Media](https://www.youtube.com/watch?v=OVrY9bhUhfY)**
+
+Is moltbook the next newest thing? I guess we will see INSTAGRAM: https://www.instagram.com/ibz_real/
+
+📺 ibz
+
+👁️ 53K • 👍 3K • 💬 406 • ⏱️ 8:47 • 1d ago
+
+---
+
+**[Claude Sonnet 5 NEXT WEEK + GPT-5.3 Coming? The AI Race Heats Up!](https://www.youtube.com/watch?v=puOctUi94jg)**
+
+Claude Sonnet 5 rumors are EXPLODING on AI Twitter - insiders say it's dropping next week and will beat Opus 4.5 in coding.
+
+📺 Universe of AI
+
+👁️ 13K • 👍 273 • 💬 60 • ⏱️ 8:13 • 1d ago
+
+---
+
+**[guess what AI😂](https://www.youtube.com/watch?v=SEv8RR0tnws)**
+
+📺 Onevilage
+
+👁️ 2.5M • 👍 86K • 💬 1K • ⏱️ 0:48 • 2d ago
 
 ---
 
@@ -399,7 +397,7 @@ Kimi K2.5 is a native multimodal agentic model with 1T parameters, excelling in 
 
 `image-text-to-text`
 
-⬇️ 96,162 • ❤️ 1,440 • 2d ago
+⬇️ 96,162 • ❤️ 1,457 • 2d ago
 
 ---
 
@@ -411,7 +409,7 @@ Z-Image is an undistilled, high-fidelity text-to-image diffusion transformer mod
 
 `text-to-image`
 
-⬇️ 6,347 • ❤️ 788 • 4d ago
+⬇️ 6,347 • ❤️ 796 • 5d ago
 
 ---
 
@@ -423,7 +421,7 @@ HunyuanImage-3.0-Instruct is a native multimodal model for image generation, sup
 
 `image-to-image` `83.0B`
 
-⬇️ 148 • ❤️ 770 • 5d ago
+⬇️ 148 • ❤️ 775 • 5d ago
 
 ---
 
@@ -435,7 +433,7 @@ DeepSeek-OCR-2 is a multilingual vision-language model for image-to-text tasks, 
 
 `image-text-to-text` `3.4B`
 
-⬇️ 143,676 • ❤️ 625 • 3d ago
+⬇️ 143,676 • ❤️ 628 • 3d ago
 
 ---
 
@@ -447,7 +445,7 @@ PersonaPlex-7B-v1 is a real-time, full-duplex speech-to-speech conversational mo
 
 `audio-to-audio`
 
-⬇️ 101,038 • ❤️ 1,580 • 4d ago
+⬇️ 101,038 • ❤️ 1,583 • 4d ago
 
 ---
 
@@ -459,7 +457,7 @@ Qwen3-ASR-1.7B is a state-of-the-art automatic speech recognition model supporti
 
 `automatic-speech-recognition` `2.3B`
 
-⬇️ 44,958 • ❤️ 336 • 3d ago
+⬇️ 44,958 • ❤️ 344 • 3d ago
 
 ---
 
@@ -471,7 +469,7 @@ Qwen3-TTS-12Hz-1.7B-CustomVoice is a multilingual text-to-speech model supportin
 
 `text-to-speech` `1.9B`
 
-⬇️ 265,335 • ❤️ 843 • 4d ago
+⬇️ 265,335 • ❤️ 847 • 4d ago
 
 ---
 
@@ -483,7 +481,7 @@ PaddleOCR-VL-1.5 is a multilingual Vision-Language Model (VLM) built on ERNIE 4.
 
 `image-text-to-text` `958.6M`
 
-⬇️ 3,295 • ❤️ 309 • 3d ago
+⬇️ 3,295 • ❤️ 310 • 3d ago
 
 ---
 
@@ -493,19 +491,19 @@ PaddleOCR-VL-1.5 is a multilingual Vision-Language Model (VLM) built on ERNIE 4.
 
 Anima is a 2 billion parameter text-to-image diffusion model specializing in anime and non-photorealistic artistic styles, trained on millions of anime and artistic images. It is designed for generating illustrations and artistic images, with primary use cases in ComfyUI workflows for anime concepts and characters.
 
-⬇️ 16,906 • ❤️ 256 • 1d ago
+⬇️ 16,906 • ❤️ 265 • 1d ago
 
 ---
 
-**[VibeVoice-ASR](https://huggingface.co/microsoft/VibeVoice-ASR)**
+**[Step-3.5-Flash](https://huggingface.co/stepfun-ai/Step-3.5-Flash)**
 
-*Microsoft*
+*StepFun*
 
-VibeVoice-ASR is a unified speech-to-text model capable of processing up to 60 minutes of audio in a single pass, providing structured transcriptions with speaker diarization and timestamps. It supports customized hotwords for improved accuracy in domain-specific content.
+Step 3.5 Flash is an efficient, open-source MoE foundation model (11B active params, 196B total) excelling in deep reasoning and agentic tasks with high throughput (100-300 tok/s). It features a 256K context window and strong performance on coding and reasoning benchmarks, suitable for local deployment.
 
-`automatic-speech-recognition` `8.7B`
+`199.4B`
 
-⬇️ 175,432 • ❤️ 778 • 6d ago
+⬇️ 44 • ❤️ 237 • 1h ago
 
 ---
 
@@ -521,7 +519,7 @@ VibeVoice-ASR is a unified speech-to-text model capable of processing up to 60 m
 
 LingBot-World is an open-source world simulator with high-fidelity dynamics, long-term memory capabilities, and real-time interactivity for diverse environments.
 
-▲ 101 • 💬 2 • ⭐ 1,860 • 5d ago
+▲ 103 • 💬 2 • ⭐ 1,860 • 5d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2601.20540) • [💻 code](https://github.com/Robbyant/lingbot-world/) • [🔗 project](https://technology.robbyant.com/lingbot-world)
 
@@ -536,20 +534,6 @@ Agent Lightning is a flexible RL framework for training LLMs in various agents, 
 ▲ 129 • 💬 6 • ⭐ 13,163 • 6mo ago
 
 [🎓 arXiv](https://arxiv.org/abs/2508.03680) • [💻 code](https://github.com/microsoft/agent-lightning) • [🔗 project](https://www.microsoft.com/en-us/research/project/agent-lightning/)
-
----
-
-**[BitNet Distillation](https://huggingface.co/papers/2510.13998)**
-
-*Xun Wu, Shaohan Huang, Wenhui Wang et al. (7 authors)*
-
-🏢 Microsoft Research
-
-BitNet Distillation fine-tunes large language models to 1.58-bit precision using SubLN, multi-head attention distillation, and continual pre-training, achieving comparable performance with significant memory and inference speed improvements.
-
-▲ 59 • 💬 5 • ⭐ 27,561 • 3mo ago
-
-[🎓 arXiv](https://arxiv.org/abs/2510.13998) • [💻 code](https://github.com/microsoft/BitNet)
 
 ---
 
@@ -577,6 +561,20 @@ BitNet b1.58 2B4T, a 1-bit Large Language Model with 2 billion parameters, match
 
 ---
 
+**[BitNet Distillation](https://huggingface.co/papers/2510.13998)**
+
+*Xun Wu, Shaohan Huang, Wenhui Wang et al. (7 authors)*
+
+🏢 Microsoft Research
+
+BitNet Distillation fine-tunes large language models to 1.58-bit precision using SubLN, multi-head attention distillation, and continual pre-training, achieving comparable performance with significant memory and inference speed improvements.
+
+▲ 59 • 💬 5 • ⭐ 27,605 • 3mo ago
+
+[🎓 arXiv](https://arxiv.org/abs/2510.13998) • [💻 code](https://github.com/microsoft/BitNet)
+
+---
+
 **[Qwen3-TTS Technical Report](https://huggingface.co/papers/2601.15621)**
 
 *Hangrui Hu, Xinfa Zhu, Ting He et al. (16 authors)*
@@ -599,7 +597,7 @@ The Qwen3-TTS series presents advanced multilingual text-to-speech models with v
 
 PaddleOCR-VL, a vision-language model combining NaViT-style dynamic resolution and ERNIE, achieves state-of-the-art performance in document parsing and element recognition with high efficiency.
 
-▲ 112 • 💬 7 • ⭐ 69,832 • 3mo ago
+▲ 112 • 💬 7 • ⭐ 69,903 • 3mo ago
 
 [🎓 arXiv](https://arxiv.org/abs/2510.14528) • [💻 code](https://github.com/PaddlePaddle/PaddleOCR)
 
@@ -619,29 +617,31 @@ DeepSeek-OCR 2 introduces DeepEncoder V2 that dynamically reorders visual tokens
 
 ---
 
-**[A Pragmatic VLA Foundation Model](https://huggingface.co/papers/2601.18692)**
+**[Stable Video Infinity: Infinite-Length Video Generation with Error
+  Recycling](https://huggingface.co/papers/2510.09212)**
 
-*Wei Wu, Fan Lu, Yunnan Wang et al. (25 authors)*
+*Wuyang Li, Wentao Pan, Po-Chien Luan et al. (5 authors)*
 
-🏢 Robbyant
+🏢 EPFL VITA Lab
 
-A Vision-Language-Action model trained on extensive real-world robotic data demonstrates superior performance and generalization across multiple platforms while offering enhanced efficiency through optimized training infrastructure.
+Stable Video Infinity generates infinite-length videos with high temporal consistency and controllable storylines by using Error-Recycling Fine-Tuning on the Diffusion Transformer.
 
-▲ 44 • 💬 4 • ⭐ 568 • 7d ago
+▲ 18 • 💬 2 • ⭐ 1,894 • 3mo ago
 
-[🎓 arXiv](https://arxiv.org/abs/2601.18692) • [💻 code](https://github.com/robbyant/lingbot-vla) • [🔗 project](https://technology.robbyant.com/lingbot-vla)
+[🎓 arXiv](https://arxiv.org/abs/2510.09212) • [💻 code](https://github.com/vita-epfl/Stable-Video-Infinity) • [🔗 project](https://stable-video-infinity.github.io/homepage/)
 
 ---
 
-**[Agent READMEs: An Empirical Study of Context Files for Agentic Coding](https://huggingface.co/papers/2511.12884)**
+**[MinerU2.5: A Decoupled Vision-Language Model for Efficient
+  High-Resolution Document Parsing](https://huggingface.co/papers/2509.22186)**
 
-*Worawalan Chatlatanagulchai, Hao Li, Yutaro Kashiwa et al. (11 authors)*
+*Junbo Niu, Zheng Liu, Zhuangcheng Gu et al. (61 authors)*
 
-Agentic coding tools receive goals written in natural language as input, break them down into specific tasks, and write or execute the actual code with minimal human intervention. Central to this process are agent context files ("READMEs for agents") that provide persistent, project-level instructions. In this paper, we conduct the first large-scale empirical study of 2,303 agent context files from 1,925 repositories to characterize their structure, maintenance, and content. We find that these files are not static documentation but complex, difficult-to-read artifacts that evolve like configuration code, maintained through frequent, small additions. Our content analysis of 16 instruction types shows that developers prioritize functional context, such as build and run commands (62.3%), implementation details (69.9%), and architecture (67.7%). We also identify a significant gap: non-functional requirements like security (14.5%) and performance (14.5%) are rarely specified. These findings indicate that while developers use context files to make agents functional, they provide few guardrails to ensure that agent-written code is secure or performant, highlighting the need for improved tooling and practices.
+MinerU2.5, a 1.2B-parameter document parsing vision-language model, achieves state-of-the-art recognition accuracy with computational efficiency through a coarse-to-fine parsing strategy.
 
-▲ 21 • 💬 4 • ⭐ 16,634 • 2mo ago
+▲ 142 • 💬 2 • ⭐ 53,627 • 4mo ago
 
-[🎓 arXiv](https://arxiv.org/abs/2511.12884) • [💻 code](https://github.com/openai/agents.md) • [🔗 project](https://agents.md)
+[🎓 arXiv](https://arxiv.org/abs/2509.22186) • [💻 code](https://github.com/opendatalab/MinerU) • [🔗 project](https://opendatalab.github.io/MinerU/)
 
 ---
 
@@ -655,7 +655,7 @@ Browser automation CLI for AI agents
 
 `TypeScript`
 
-⭐ 12.2k • 🔱 676 • 4h ago
+⭐ 12.2k • 🔱 678 • 5h ago
 
 ---
 
@@ -665,7 +665,7 @@ AI → JSON → UI
 
 `TypeScript`
 
-⭐ 9.8k • 🔱 529 • 4d ago
+⭐ 9.8k • 🔱 530 • 4d ago
 
 ---
 
@@ -675,7 +675,7 @@ Ralph is an autonomous AI agent loop that runs repeatedly until all PRD items ar
 
 `TypeScript`
 
-⭐ 9.1k • 🔱 1.1k • 12h ago
+⭐ 9.1k • 🔱 1.1k • 13h ago
 
 ---
 
@@ -695,7 +695,7 @@ LLM驱动的 A/H/美股智能分析器，多数据源行情 + 实时新闻 + Gem
 
 `Vue`
 
-⭐ 6.9k • 🔱 1.3k • 10h ago
+⭐ 6.9k • 🔱 1.3k • 11h ago
 
 ---
 
@@ -705,7 +705,7 @@ The Ultimate Collection of 600+ Agentic Skills for Claude Code/Antigravity/Curso
 
 `Python` `agentic-skills` `ai-agents` `antigravity` `autonomous-coding` `claude-code`
 
-⭐ 6.2k • 🔱 1.4k • 6h ago
+⭐ 6.3k • 🔱 1.4k • 7h ago
 
 ---
 
@@ -715,7 +715,7 @@ Marketing skills for Claude Code and AI agents. CRO, copywriting, SEO, analytics
 
 `claude` `codex` `marketing`
 
-⭐ 5.6k • 🔱 608 • 5d ago
+⭐ 5.6k • 🔱 609 • 5d ago
 
 ---
 
@@ -733,7 +733,7 @@ OpenSource Claude Cowork. A desktop AI assistant that helps you with programming
 
 `TypeScript`
 
-⭐ 2.6k • 🔱 367 • 10d ago
+⭐ 2.6k • 🔱 368 • 10d ago
 
 ---
 
@@ -741,7 +741,7 @@ OpenSource Claude Cowork. A desktop AI assistant that helps you with programming
 
 Humanizer 的汉化版本，Claude Code Skills，旨在消除文本中 AI 生成的痕迹。
 
-⭐ 2.3k • 🔱 216 • 14d ago
+⭐ 2.3k • 🔱 218 • 14d ago
 
 ---
 

@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-02-02T14:12:27.135773+00:00'
+updated: '2026-02-02T15:08:21.633290+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
+- cryptocurrency
+- social
 - news
 - videos
-- social
-- cryptocurrency
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** February 02, 2026 at 14:12 UTC  
+**Last Updated:** February 02, 2026 at 15:08 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -54,17 +54,17 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1557.01B
+**Market Cap:** $1552.94B
 Rank #1
 
 **Circulating Supply:** 19,982,656 BTC
 95.2% of max
 
 **All-Time High:** $126,080.00
--38.2%
+-38.4%
 
 **All-Time Low:** $67.81
-+114753.3%
++114487.8%
 
 ---
 
@@ -81,7 +81,7 @@ Rank #1
 
 It's because I bought some
 
-8h ago
+9h ago
 
 ---
 
@@ -89,7 +89,7 @@ It's because I bought some
 
 Bought more at 94K, then again yesterday at 78K. Hands made out Adamantium forged in the fires of the bedrock below the abyss. Spewed forth on the shore and raised by wolves, fed by bears and ate with the giants. I'll see y'all at the end of the year 🥂
 
-10h ago
+11h ago
 
 ---
 
@@ -97,7 +97,7 @@ Bought more at 94K, then again yesterday at 78K. Hands made out Adamantium forge
 
 Spot crypto ETFs in the U.S. recorded one of their worst weeks. From Jan 26 to 30, 2026, spot Bitcoin ETFs bled $1.49 billion in net outflows.
 
-🔗 [Our Crypto Talk](https://web.ourcryptotalk.com/news/bitcoin-etfs-lose-one-and-a-half-billion) • 10h ago
+🔗 [Our Crypto Talk](https://web.ourcryptotalk.com/news/bitcoin-etfs-lose-one-and-a-half-billion) • 11h ago
 
 ---
 
@@ -105,7 +105,7 @@ Spot crypto ETFs in the U.S. recorded one of their worst weeks. From Jan 26 to 3
 
 Bitcoin has broken below the $75K level, a key psychological and technical zone. This breakdown increases downside risk in the short term and may keep overall market sentiment cautious. Key considerations: Loss of momentum above $75K weakens bullish structure Liquidity may be targeted at lower support levels Altcoins could remain under pressure if BTC dominance stays elevated Market reaction to ETF flows and macro data is critical Until Bitcoin reclaims $75K with strong volume, this move should be treated as a risk-off signal, not a dip-buy confirmation. What levels are you watching next?
 
-10h ago
+11h ago
 
 ---
 
@@ -113,7 +113,7 @@ Bitcoin has broken below the $75K level, a key psychological and technical zone.
 
 HODLHODLHODLHODLHODLHODLHODLHODLHODLHODLHODLHODLHODLHODLHODLHODLHODLHODLHODLHODLHODLHODLHODLHODLHODLHODLHODLHODLHODLHODLHODLHODLHODLHODLHODLHODLHODLHODLHODLHODLHODLHODLHODLHODLHODLHODLHODLHODLHODLHODLHODLHODLHODLHODLHODLHODLHODLHODLHODLHODLHODLHODLHODLHODLHODLHODLHODLHODL
 
-7h ago
+8h ago
 
 ---
 
@@ -129,13 +129,13 @@ These prices are just to go to pass up on. Need to get my Roth involved
 
 But I see 25% discount plus more from the 100k. I feel in 5-10 years if btc ever crashes back to 100k from 200k+ people will see it as a good buying opportunity. DCA AND HODL for 5-10 years
 
-9h ago
+10h ago
 
 ---
 
 **[Explaining Bitcoin like I am 5 years old.... Get to 1 BTC.](https://www.reddit.com/r/Bitcoin/comments/1qtahxx/explaining_bitcoin_like_i_am_5_years_old_get_to_1/)**
 
-17h ago
+18h ago
 
 ---
 
@@ -143,7 +143,7 @@ But I see 25% discount plus more from the 100k. I feel in 5-10 years if btc ever
 
 Significant low volume node here at $73,200 - 74,200. Daily fair value gap $70,500 - 74,500. This FVG has been tapped previously and rallied strongly from here. I say we take out this latest low of $74,441.20 and we see one of the greatest liquidity grabs of all time; rallying towards the previous all time high. To put into perspective, there’s roughly $11 billion in cumulative short liquidation leverage sitting at $93,450 alone.
 
-9h ago
+10h ago
 
 ---
 
@@ -151,7 +151,7 @@ Significant low volume node here at $73,200 - 74,200. Daily fair value gap $70,5
 
 Not sure, I can see btc break 75k and 70k support . Your opinions please?
 
-2h ago
+3h ago
 
 ---
 
@@ -163,19 +163,19 @@ Not sure, I can see btc break 75k and 70k support . Your opinions please?
 
 Cryptocurrency markets fell as global equities and precious metals sold off while bitcoin liquidations exacerbated downside moves.
 
-CNBC • 3h ago
+CNBC • 4h ago
 
 ---
 
 **[Michael Saylor’s High-Stakes Bitcoin Bet Faces Fresh Strain](https://www.bloomberg.com/news/articles/2026-02-02/michael-saylor-s-high-stakes-bitcoin-bet-faces-fresh-strain)**
 
-Bloomberg.com • 4h ago
+Bloomberg.com • 5h ago
 
 ---
 
 **[MSTR Stock Tumbles as Bitcoin Price Sinks. Strategy Is Doubling Dow on Its Bet.](https://www.barrons.com/articles/mstr-stock-price-strategy-bitcoin-microstrategy-633226b6?gaa_at=eafs&gaa_n=AWEtsqd6ntZRayjISkaeAesHRLYMuO2LO0HyPlOLqoyy0_Tk873GInqMe66r&gaa_ts=6980b434&gaa_sig=DxaYGVXM7e5-wjLhTfQlaVY2JDQK7CMgnuWu2dVy0XW7ohXSQWf6Eh0QTgtC0nKtD7PUnC_9k5p6HZ1i6ArDvw%3D%3D)**
 
-Barron's • 37m ago
+Barron's • 1h ago
 
 ---
 
@@ -183,13 +183,13 @@ Barron's • 37m ago
 
 It was a relatively small purchase for the company, which now holds 713,502 bitcoin purchased at an average price of $76,052 each versus the current price of about $77,000.
 
-CoinDesk • 57m ago
+CoinDesk • 1h ago
 
 ---
 
 **[U.S. stock futures fall after bitcoin’s weekend drop, as gold and silver’s sell-off may be bleeding into other markets](https://www.marketwatch.com/story/u-s-stock-futures-fall-along-with-bitcoin-and-oil-prices-21adfaf3?gaa_at=eafs&gaa_n=AWEtsqfRfJAE6EsHYiNwoGbJmp1DTTmhKXgSLCjON83DTVnj48CF__vGhnb0&gaa_ts=6980b434&gaa_sig=jQEYaEDulyhPO3z08CdRReYycQF3mHu6KP4F1VUP-Hh5EF0sf92Joeg0PU1017mC4xj8w4SFbqpTbIfepspAcA%3D%3D)**
 
-MarketWatch • 14h ago
+MarketWatch • 15h ago
 
 ---
 
@@ -205,7 +205,7 @@ Investing.com • 5h ago
 
 More than 100 S&P 500 companies are due to report this week, including Amazon, Alphabet and Disney.
 
-CNBC • 14m ago
+CNBC • 1h ago
 
 ---
 
@@ -229,7 +229,7 @@ Fortune • 2d ago
 
 Cryptocurrency tumbles as US president fuels geopolitical uncertainty
 
-The Telegraph • 20h ago
+The Telegraph • 21h ago
 
 ---
 
@@ -261,7 +261,7 @@ PoW + EVM cryptocurrency. 21M fixed supply, fair launch, no team, no foundation.
 
 **[Bitcoin's Quantum Computing Threat](https://news.ycombinator.com/item?id=46824834)**
 
-⬆️ 1 • 💬 0 • 2d ago • [bmpro.substack.com](https://bmpro.substack.com/p/bitcoins-quantum-computing-threat)
+⬆️ 1 • 💬 0 • 3d ago • [bmpro.substack.com](https://bmpro.substack.com/p/bitcoins-quantum-computing-threat)
 
 ---
 
@@ -315,7 +315,7 @@ Seemed too good to be true.
 
 Death threats to them and family followed.
 
-⬆️ 2 • 💬 1 • 40m ago • [Bluesky Social](https://bsky.app/profile/gergely.pragmaticengineer.com/post/3mduva76yek27)
+⬆️ 2 • 💬 1 • 1h ago • [Bluesky Social](https://bsky.app/profile/gergely.pragmaticengineer.com/post/3mduva76yek27)
 
 ---
 
@@ -329,7 +329,7 @@ BYBIT: http://themoon.co/Bybit 10% DISCOUNT & $30000 BONUS Coinflare: https://th
 
 📺 The Moon Show
 
-👁️ 10K • 👍 763 • 💬 81 • ⏱️ 7:03 • 6h ago
+👁️ 14K • 👍 935 • 💬 88 • ⏱️ 7:03 • 7h ago
 
 ---
 
@@ -339,17 +339,7 @@ ClashPicks** Make Free Predictions on *ClashPicks* ▻ https://www.clashpicks.co
 
 📺 CryptosRUs
 
-👁️ 55K • 👍 3K • 💬 907 • ⏱️ 15:58 • 13h ago
-
----
-
-**[Why Did Bitcoin Crash Below $80K?](https://www.youtube.com/watch?v=zBBEg7DP-Co)**
-
-Bitcoin just dropped nearly 40% and the real reason has nothing to do with fear or headlines. A $1B liquidation, Fed balance ...
-
-📺 Simply Bitcoin
-
-👁️ 50K • 👍 3K • 💬 418 • ⏱️ 16:36 • 14h ago
+👁️ 59K • 👍 3K • 💬 938 • ⏱️ 15:58 • 14h ago
 
 ---
 
@@ -359,27 +349,37 @@ Bitcoin just dropped nearly 40% and the real reason has nothing to do with fear 
 
 📺 Savvy Finance
 
-👁️ 14K • 👍 458 • 💬 42 • ⏱️ 16:33 • 12h ago
+👁️ 16K • 👍 493 • 💬 42 • ⏱️ 16:33 • 13h ago
 
 ---
 
-**[Bitcoin Cliff Dwellers](https://www.youtube.com/watch?v=oH-uT70Qc6c)**
+**[Everyone’s Panicking — That’s the Opportunity](https://www.youtube.com/watch?v=3KqzPJMHVCI)**
 
-Let's provide a Bitcoin damage report. Into The Cryptoverse Premium: https://intothecryptoverse.com You can use the link ...
+Bitcoin and crypto are in full crash mode. Prices are dumping, fear is extreme, banks are under pressure, and a new Fed chair is ...
 
-📺 Benjamin Cowen
+📺 Lark Davis
 
-👁️ 62K • 👍 5K • 💬 203 • ⏱️ 48:03 • 9h ago
+👁️ 7K • 👍 543 • 💬 59 • ⏱️ 19:01 • 3h ago
 
 ---
 
-**[THE WEALTHY ELITE ARE BUYING ALL THE BITCOIN - A HUGE DISASTER?!](https://www.youtube.com/watch?v=2dRu0m3xEC0)**
+**[Why Did Bitcoin Crash Below $80K?](https://www.youtube.com/watch?v=zBBEg7DP-Co)**
 
-Follow me on X for my best content: http://www.X.com/AdamBLiv Transform Dormant Home Equity into Bitcoin with Horizon: ...
+Bitcoin just dropped nearly 40% and the real reason has nothing to do with fear or headlines. A $1B liquidation, Fed balance ...
 
-📺 Adam Livingston
+📺 Simply Bitcoin
 
-👁️ 8K • 👍 863 • 💬 156 • ⏱️ 18:34 • 15h ago
+👁️ 54K • 👍 3K • 💬 427 • ⏱️ 16:36 • 15h ago
+
+---
+
+**[Bitcoin Just Confirmed a Bear Market](https://www.youtube.com/watch?v=Sos2dAu4GfY)**
+
+Bitcoin Just Confirmed a Bear Market Metals - I'm buying the dip Stocks need to hold their daily cycle lows TA & Live Trades Get ...
+
+📺 Camel Finance
+
+👁️ 6K • 👍 674 • 💬 187 • ⏱️ 25:27 • 2h ago
 
 ---
 
@@ -389,27 +389,17 @@ LIMITED TIME: ✓ Bitunix (no kyc, $10k bonus): https://www.bitunix.com/register
 
 📺 Altcoin Daily
 
-👁️ 115K • 👍 4K • 💬 481 • ⏱️ 9:24 • 1d ago
+👁️ 117K • 👍 4K • 💬 486 • ⏱️ 9:24 • 1d ago
 
 ---
 
-**[THE FINAL BITCOIN TRAP...](https://www.youtube.com/watch?v=Gq1f6QGzkIY)**
+**[THE WEALTHY ELITE ARE BUYING ALL THE BITCOIN - A HUGE DISASTER?!](https://www.youtube.com/watch?v=2dRu0m3xEC0)**
 
-WEEX: https://www.weex.com/events/promo/usdtgiveaway-v2?vipCode=00dt 25% FEE DISCOUNT & GET FREE $25 ✓My ...
+Follow me on X for my best content: http://www.X.com/AdamBLiv Transform Dormant Home Equity into Bitcoin with Horizon: ...
 
-📺 Crypto Rover
+📺 Adam Livingston
 
-👁️ 7K • 👍 567 • 💬 195 • ⏱️ 10:27 • 7h ago
-
----
-
-**[URGENT: Bitcoin Loses Critical Support! [How Low Will It Go?]](https://www.youtube.com/watch?v=4teHI529tYM)**
-
-In today's crypto market update, Kyle Doops analyzes the Bitcoin crash in real time. We move beyond the noise to focus on market ...
-
-📺 Crypto Banter
-
-👁️ 14K • 👍 1K • 💬 26 • ⏱️ 34:46 • 6h ago
+👁️ 9K • 👍 916 • 💬 166 • ⏱️ 18:34 • 16h ago
 
 ---
 
@@ -419,7 +409,17 @@ FREE TRAINING: https://www.bullmania.com EXCHANGES I USE (bybit, pionex): https:
 
 📺 Ivan on Tech
 
-👁️ 11K • 👍 984 • 💬 98 • ⏱️ 46:08 • 4h ago
+👁️ 17K • 👍 1K • 💬 128 • ⏱️ 46:08 • 5h ago
+
+---
+
+**[THE FINAL BITCOIN TRAP...](https://www.youtube.com/watch?v=Gq1f6QGzkIY)**
+
+WEEX: https://www.weex.com/events/promo/usdtgiveaway-v2?vipCode=00dt 25% FEE DISCOUNT & GET FREE $25 ✓My ...
+
+📺 Crypto Rover
+
+👁️ 9K • 👍 628 • 💬 48 • ⏱️ 10:27 • 8h ago
 
 ---
 

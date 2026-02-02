@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-02-02T14:12:27.141872+00:00'
+updated: '2026-02-02T15:08:21.639849+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
+- cryptocurrency
+- social
 - news
 - videos
-- social
-- cryptocurrency
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** February 02, 2026 at 14:12 UTC  
+**Last Updated:** February 02, 2026 at 15:08 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -52,17 +52,17 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Market Stats
 
-**Market Cap:** $278.20B
+**Market Cap:** $280.84B
 Rank #2
 
 **Circulating Supply:** 120,693,748 ETH
 No max supply
 
 **All-Time High:** $4,946.05
--53.3%
+-53.0%
 
 **All-Time Low:** $0.43
-+533346.2%
++537291.0%
 
 ---
 
@@ -72,7 +72,7 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-8h ago
+9h ago
 
 ---
 
@@ -80,19 +80,19 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 Re https://firefly.social/post/x/2018205196568944653 I actually don't think it's complicated. IMO the future of onchain mechanism design is mostly going to fit into one pattern: [something that looks like a prediction market] -> [something that looks like a capture-resistant, non-financialized preference-setting gadget] In other words: One layer that is maximally open and maximizes accountability (it's a market, anyone can buy and sell, if you make good decisions you win money if you make bad decisions you lose money) One layer that is decentralized and pluralistic, and that maximizes space for intrinsic motivation. This cannot be token-based, because token owners are not pluralistic, and anyone can buy in and get 51% of them. Votes here should be anonymous, ideally MACI'd to reduce risk of collusion. The prediction market is the correct way to do a "decentralized executive", because the most logical primitive for "accountability" in a permissionless concept is exactly that. Though sometimes you will want to keep it simple, and do a centralized executive at that layer instead: [replaceable centralized executive] -> [something that looks like a capture-resistant, non-financialized preference-setting gadget] Thinking in these two layers explicitly: (i) what is doing your execution, (ii) what is doing your preference-setting and is judging the executor(s), is best.
 
-7h ago
+8h ago
 
 ---
 
 **[Sold BTC into USDC (ERC20) now want to get back into BTC via WBTC. Best way to swap?](https://www.reddit.com/r/ethereum/comments/1qtmbfd/sold_btc_into_usdc_erc20_now_want_to_get_back/)**
 
-8h ago
+9h ago
 
 ---
 
 **[Where can I sell an unused gift card for crypto?](https://www.reddit.com/r/ethereum/comments/1qtu5js/where_can_i_sell_an_unused_gift_card_for_crypto/)**
 
-1h ago
+2h ago
 
 ---
 
@@ -124,13 +124,13 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 World News, Stories By EtherWorld, Technical Explainers, Client News & Updates, Podcasts, Upcoming Events & Jobs
 
-🔗 [EtherWorld.co](https://etherworld.co/etherworld-weekly-edition-349/) • 1d ago
+🔗 [EtherWorld.co](https://etherworld.co/etherworld-weekly-edition-349/) • 2d ago
 
 ---
 
 **[Listening to Polymarket trades in real-time (open source, no third party)](https://www.reddit.com/r/ethereum/comments/1qs3l8c/listening_to_polymarket_trades_in_realtime_open/)**
 
-1d ago
+2d ago
 
 ---
 
@@ -150,7 +150,7 @@ In these five years, the Ethereum Foundation is entering a period of mild auster
 
 Earlier in January, the Ethereum Foundation formally elevated post-quantum security to a strategic priority, creating a dedicated Post-Quantum team.
 
-CoinDesk • 23h ago
+CoinDesk • 1d ago
 
 ---
 
@@ -158,7 +158,7 @@ CoinDesk • 23h ago
 
 The Ethereum founder claims his strategy of betting against extreme market sentiment ‘usually makes money’ on Polymarket.
 
-Decrypt • 20h ago
+Decrypt • 21h ago
 
 ---
 
@@ -166,7 +166,7 @@ Decrypt • 20h ago
 
 Ethereum Falls 10% In Rout
 
-Investing.com • 10h ago
+Investing.com • 11h ago
 
 ---
 
@@ -198,7 +198,7 @@ Yahoo Finance • 3h ago
 
 The adoption, technology, and regulation stars may all align for Ethereum this year.
 
-The Motley Fool • 9m ago
+The Motley Fool • 1h ago
 
 ---
 
@@ -228,13 +228,23 @@ Coinpaper • 1d ago
 
 ## YouTube Videos: "ethereum"
 
+**[Ethereum Elliott Wave Update – Key Resistance Levels Ahead](https://www.youtube.com/watch?v=fEyNvRFi_OA)**
+
+This video provides a professional Elliott Wave and technical analysis of Ethereum (ETH), focusing on market structure, major ...
+
+📺 More Crypto Online
+
+👁️ 1K • 👍 127 • 💬 3 • ⏱️ 4:10 • 2h ago
+
+---
+
 **[BITCOIN AND ETH: LAST CHANCE TO RECOVER!!!! 🚨🚨🚨 (MicroStrategy REKT)](https://www.youtube.com/watch?v=bLiHfECZH3k)**
 
 FREE TRAINING: https://www.bullmania.com EXCHANGES I USE (bybit, pionex): https://www.bullmania.com/partners My ...
 
 📺 Ivan on Tech
 
-👁️ 11K • 👍 984 • 💬 98 • ⏱️ 46:08 • 4h ago
+👁️ 17K • 👍 1K • 💬 128 • ⏱️ 46:08 • 5h ago
 
 ---
 
@@ -244,27 +254,7 @@ FREE Daily On-Chain Analysis & Crypto News In 5-Mins: http://bit.ly/TheCryptoNut
 
 📺 Library Of Wealth
 
-👁️ 4K • 👍 122 • 💬 273 • ⏱️ 15:18 • 8h ago
-
----
-
-**[Ethereum’s Vision Is Incredibly Bullish… So Why Is the Price So Bad? w/ Jeff Park](https://www.youtube.com/watch?v=tJLZausdujc)**
-
-Free Milk Road Newsletters: ...
-
-📺 Milk Road
-
-👁️ 11K • 👍 280 • 💬 61 • ⏱️ 15:51 • 23h ago
-
----
-
-**[Tom Lee: This Is a Fake Sell-off! The Bull Run Continues By THIS Date](https://www.youtube.com/watch?v=af5DO4Y_8cc)**
-
-My FREE Daily 5-Min Crypto Newsletter: https://www.cryptonutshell.com/subscribe Cold Storage Wallet: ...
-
-📺 Crypto Nutshell
-
-👁️ 20K • 👍 791 • 💬 149 • ⏱️ 21:16 • 22h ago
+👁️ 5K • 👍 132 • 💬 276 • ⏱️ 15:18 • 9h ago
 
 ---
 
@@ -274,37 +264,27 @@ ETHEREUM ETH PRICE PREDICTION 2026 Join the Premium Signal Group for trade setup
 
 📺 Cilinix Crypto
 
-👁️ 166 • 👍 8 • 💬 1 • ⏱️ 5:10 • 3h ago
+👁️ 267 • 👍 12 • 💬 3 • ⏱️ 5:10 • 4h ago
 
 ---
 
-**[Ethereum Elliott Wave Update – Key Resistance Levels Ahead](https://www.youtube.com/watch?v=DUSA5M4i43M)**
+**[Ethereum’s Vision Is Incredibly Bullish… So Why Is the Price So Bad? w/ Jeff Park](https://www.youtube.com/watch?v=tJLZausdujc)**
 
-This video provides a professional Elliott Wave and technical analysis of Ethereum (ETH), focusing on market structure, major ...
+Free Milk Road Newsletters: ...
 
-📺 More Crypto Online
+📺 Milk Road
 
-👁️ 4K • 👍 249 • 💬 19 • ⏱️ 5:18 • 14h ago
-
----
-
-**[BITCOIN AND ETH: HOW BAD IS THIS DUMP (when recovery) 🚨🚨🚨🚨🚨🚨](https://www.youtube.com/watch?v=YawcOhRcens)**
-
-FREE TRAINING: https://www.bullmania.com EXCHANGES I USE (bybit, pionex): https://www.bullmania.com/partners My ...
-
-📺 Ivan on Tech
-
-👁️ 22K • 👍 2K • 💬 136 • ⏱️ 45:22 • 19h ago
+👁️ 11K • 👍 295 • 💬 60 • ⏱️ 15:51 • 1d ago
 
 ---
 
-**[Crypto is so Cooked.](https://www.youtube.com/watch?v=L9tejtx7sXA)**
+**[Tom Lee: This Is a Fake Sell-off! The Bull Run Continues By THIS Date](https://www.youtube.com/watch?v=af5DO4Y_8cc)**
 
-After getting chopped up in ETH shorts over the past few months, I found a moment of Tom Lee weakness to short ETH one last ...
+My FREE Daily 5-Min Crypto Newsletter: https://www.cryptonutshell.com/subscribe Cold Storage Wallet: ...
 
-📺 Taiki Maeda
+📺 Crypto Nutshell
 
-👁️ 9K • 👍 477 • 💬 219 • ⏱️ 48:54 • 19h ago
+👁️ 21K • 👍 800 • 💬 150 • ⏱️ 21:16 • 23h ago
 
 ---
 
@@ -314,17 +294,37 @@ Join UpTrade today - Your personal crypto broker: https://www.uptrade.au/ My FRE
 
 📺 Crypto Nutshell
 
-👁️ 19K • 👍 518 • 💬 84 • ⏱️ 16:36 • 1d ago
+👁️ 19K • 👍 525 • 💬 84 • ⏱️ 16:36 • 1d ago
 
 ---
 
-**[BITCOIN CRASH: The Reset Has Started (Prepare Now)!!! - Bitcoin News Today, Ethereum &amp; Altcoins](https://www.youtube.com/watch?v=965Ua9hPGww)**
+**[Ethereum Elliott Wave Update – Key Resistance Levels Ahead](https://www.youtube.com/watch?v=DUSA5M4i43M)**
 
-BITCOIN CRASH: The Reset Has Started (Prepare Now)!!! - Bitcoin News Today, Ethereum & Altcoins *Toobit* ...
+This video provides a professional Elliott Wave and technical analysis of Ethereum (ETH), focusing on market structure, major ...
 
-📺 Crypto World
+📺 More Crypto Online
 
-👁️ 16K • 👍 471 • 💬 142 • ⏱️ 24:14 • 16h ago
+👁️ 4K • 👍 249 • 💬 19 • ⏱️ 5:18 • 15h ago
+
+---
+
+**[BITCOIN AND ETH: HOW BAD IS THIS DUMP (when recovery) 🚨🚨🚨🚨🚨🚨](https://www.youtube.com/watch?v=YawcOhRcens)**
+
+FREE TRAINING: https://www.bullmania.com EXCHANGES I USE (bybit, pionex): https://www.bullmania.com/partners My ...
+
+📺 Ivan on Tech
+
+👁️ 23K • 👍 2K • 💬 136 • ⏱️ 45:22 • 20h ago
+
+---
+
+**[Crypto is so Cooked.](https://www.youtube.com/watch?v=L9tejtx7sXA)**
+
+After getting chopped up in ETH shorts over the past few months, I found a moment of Tom Lee weakness to short ETH one last ...
+
+📺 Taiki Maeda
+
+👁️ 10K • 👍 552 • 💬 257 • ⏱️ 48:54 • 20h ago
 
 ---
 
