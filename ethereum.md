@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-02-02T17:39:25.826455+00:00'
+updated: '2026-02-02T18:46:53.760838+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
 - social
-- videos
-- news
 - cryptocurrency
+- news
+- videos
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** February 02, 2026 at 17:39 UTC  
+**Last Updated:** February 02, 2026 at 18:46 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -36,17 +36,17 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Price
 
-### $2,368.71
+### $2,348.41
 
 ---
 
 ## Ethereum Chart
 
-**24h:** +0.5%  
-**7d:** -21.9%  
-**30d:** -24.9%  
-**90d:** -31.0%  
-**1y:** -18.1%  
+**24h:** +1.3%  
+**7d:** -22.5%  
+**30d:** -25.5%  
+**90d:** -31.5%  
+**1y:** -18.6%  
 
 ---
 
@@ -72,21 +72,13 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-11h ago
+12h ago
 
 ---
 
 **[How a premature software standard has led to billions in losses](https://www.reddit.com/r/ethereum/comments/1qtw9fe/how_a_premature_software_standard_has_led_to/)**
 
-🔗 [hugo0.com](https://hugo0.com/blog/how-erc20-held-back-blockchain-payments-a-decade) • 3h ago
-
----
-
-**[Two-layer governance](https://www.reddit.com/r/ethereum/comments/1qtndkm/twolayer_governance/)**
-
-Re https://firefly.social/post/x/2018205196568944653 I actually don't think it's complicated. IMO the future of onchain mechanism design is mostly going to fit into one pattern: [something that looks like a prediction market] -> [something that looks like a capture-resistant, non-financialized preference-setting gadget] In other words: One layer that is maximally open and maximizes accountability (it's a market, anyone can buy and sell, if you make good decisions you win money if you make bad decisions you lose money) One layer that is decentralized and pluralistic, and that maximizes space for intrinsic motivation. This cannot be token-based, because token owners are not pluralistic, and anyone can buy in and get 51% of them. Votes here should be anonymous, ideally MACI'd to reduce risk of collusion. The prediction market is the correct way to do a "decentralized executive", because the most logical primitive for "accountability" in a permissionless concept is exactly that. Though sometimes you will want to keep it simple, and do a centralized executive at that layer instead: [replaceable centralized executive] -> [something that looks like a capture-resistant, non-financialized preference-setting gadget] Thinking in these two layers explicitly: (i) what is doing your execution, (ii) what is doing your preference-setting and is judging the executor(s), is best.
-
-11h ago
+🔗 [hugo0.com](https://hugo0.com/blog/how-erc20-held-back-blockchain-payments-a-decade) • 4h ago
 
 ---
 
@@ -94,19 +86,27 @@ Re https://firefly.social/post/x/2018205196568944653 I actually don't think it's
 
 Should I be staking 100% of my Ethereum? Can someone explain to me like im 5 what this means? Apologies if this type of post is not allowed, moderators.
 
-32m ago
+1h ago
 
 ---
 
-**[Sold BTC into USDC (ERC20) now want to get back into BTC via WBTC. Best way to swap?](https://www.reddit.com/r/ethereum/comments/1qtmbfd/sold_btc_into_usdc_erc20_now_want_to_get_back/)**
+**[Two-layer governance](https://www.reddit.com/r/ethereum/comments/1qtndkm/twolayer_governance/)**
+
+Re https://firefly.social/post/x/2018205196568944653 I actually don't think it's complicated. IMO the future of onchain mechanism design is mostly going to fit into one pattern: [something that looks like a prediction market] -> [something that looks like a capture-resistant, non-financialized preference-setting gadget] In other words: One layer that is maximally open and maximizes accountability (it's a market, anyone can buy and sell, if you make good decisions you win money if you make bad decisions you lose money) One layer that is decentralized and pluralistic, and that maximizes space for intrinsic motivation. This cannot be token-based, because token owners are not pluralistic, and anyone can buy in and get 51% of them. Votes here should be anonymous, ideally MACI'd to reduce risk of collusion. The prediction market is the correct way to do a "decentralized executive", because the most logical primitive for "accountability" in a permissionless concept is exactly that. Though sometimes you will want to keep it simple, and do a centralized executive at that layer instead: [replaceable centralized executive] -> [something that looks like a capture-resistant, non-financialized preference-setting gadget] Thinking in these two layers explicitly: (i) what is doing your execution, (ii) what is doing your preference-setting and is judging the executor(s), is best.
 
 12h ago
 
 ---
 
+**[Sold BTC into USDC (ERC20) now want to get back into BTC via WBTC. Best way to swap?](https://www.reddit.com/r/ethereum/comments/1qtmbfd/sold_btc_into_usdc_erc20_now_want_to_get_back/)**
+
+13h ago
+
+---
+
 **[Where can I sell an unused gift card for crypto?](https://www.reddit.com/r/ethereum/comments/1qtu5js/where_can_i_sell_an_unused_gift_card_for_crypto/)**
 
-4h ago
+5h ago
 
 ---
 
@@ -158,7 +158,7 @@ CoinDesk • 1d ago
 
 The Ethereum founder claims his strategy of betting against extreme market sentiment ‘usually makes money’ on Polymarket.
 
-Decrypt • 23h ago
+Decrypt • 1d ago
 
 ---
 
@@ -166,7 +166,7 @@ Decrypt • 23h ago
 
 The adoption, technology, and regulation stars may all align for Ethereum this year.
 
-The Motley Fool • 3h ago
+The Motley Fool • 4h ago
 
 ---
 
@@ -174,37 +174,45 @@ The Motley Fool • 3h ago
 
 Motley Fool Press Release.
 
-The Globe and Mail • 7h ago
+The Globe and Mail • 8h ago
 
 ---
 
-**[Prediction: 2026 Will Be the Year of Ethereum (ETH)](https://www.theglobeandmail.com/investing/markets/markets-news/Motley%20Fool/37359906/prediction-2026-will-be-the-year-of-ethereum-eth/)**
+**[2 Reasons to Buy Ethereum Before July 2026](https://www.fool.com/investing/2026/02/02/2-reasons-to-buy-ethereum-before-july-2026/)**
 
-Motley Fool Press Release.
+Ethereum may be down, but it's not out. It could soar almost 50% based on two key catalysts.
 
-The Globe and Mail • 3h ago
-
----
-
-**[Tom Lee's BitMine Buys the Ethereum Dip, Even as Unrealized Losses Top $6 Billion](https://finance.yahoo.com/news/tom-lees-bitmine-buys-ethereum-162425009.html)**
-
-Publicly traded Ethereum treasury BitMine Immersion Technologies is still buying as ETH plunges, despite the firm's growing losses.
-
-Yahoo Finance • 1h ago
+The Motley Fool • 8h ago
 
 ---
 
-**[Ethereum Price $2,200 Collapse Raises Risk Of A Sub-$2K Spike](https://www.tradingview.com/news/newsbtc:7ac8323ae094b:0-ethereum-price-2-200-collapse-raises-risk-of-a-sub-2k-spike/)**
+**[BitMine Immersion Wrestles With Ethereum Losses Concentration Risk And Leadership Shift](https://finance.yahoo.com/news/bitmine-immersion-wrestles-ethereum-losses-110825271.html)**
 
-Ethereum price started a major decline after it failed to clear $2,500. ETH is down 20% and is now struggling to stay above the $2,200 support.Ethereum Price Dips 20%Ethereum price failed to remain stable above $2,550 and started a major decline, like Bitcoin. ETH price traded below $2,400 to enter…
+BitMine Immersion Technologies (NYSEAM:BMNR) reports over US$6b in unrealized losses tied to rapid Ethereum accumulation and staking activity. The company has pursued an Ethereum heavy treasury approach, concentrating its exposure in a single crypto asset. President Erik Nelson has left the company during this period of financial strain, marking a significant leadership transition. These developments raise questions about BMNR's risk tolerance, treasury management approach, and future...
 
-TradingView • 14h ago
+Yahoo Finance • 7h ago
 
 ---
 
-**[Bitcoin, XRP, Ethereum Fall on News of Kevin Warsh Fed Appointment.](https://www.barrons.com/articles/bitcoin-xrp-ethereum-crypto-today-954298d9?gaa_at=eafs&gaa_n=AWEtsqfDDKfR_9BxOQjHVBGMAbD-0KNIxaQ4PJsA2TgR6OUthiLM_7wPWaCC&gaa_ts=6980e4b1&gaa_sig=yVOMI2VhXawy1CROJhbFou1c4H7MUJiBMR-PobLlMlW62xrS38gckzOqWNfO-n1UD3wHohKSdBErKJ3RjoIl1Q%3D%3D)**
+**[Tom Lee Under Fire After Ethereum Price Drops Below $2,200 — Why Lee’s $7,000 Prediction Is Losing Him Followers](https://www.ccn.com/news/crypto/tom-lee-under-fire-ethereum-price-drops-why-lees-prediction-followers/)**
 
-Barron's • 2d ago
+Tom Lee faces criticism after Ethereum's price fell below $2,200, missing his $7,000 target, as traders question his crypto forecasts.
+
+CCN.com • 2h ago
+
+---
+
+**[Ethereum Falls 10% In Rout](https://www.investing.com/news/cryptocurrency-news/ethereum-falls-10-in-rout-4477776)**
+
+Ethereum Falls 10% In Rout
+
+Investing.com • 15h ago
+
+---
+
+**[Bitcoin, XRP, Ethereum Fall on News of Kevin Warsh Fed Appointment.](https://www.barrons.com/articles/bitcoin-xrp-ethereum-crypto-today-954298d9?gaa_at=eafs&gaa_n=AWEtsqdYnozuJFNGxhuw9eAs-NX327IV3F3XVzgbBwbnKDUFR0dRp-dxaFfW&gaa_ts=6980f485&gaa_sig=FCU06lwjbb0dKPSLa1Tcbz3Pn91i22xjbTuoQy6aES6f1CyKNP83yzMu5cB4UrvsdLQo4fmVrxRU7HM8a0kmSQ%3D%3D)**
+
+Barron's • 3d ago
 
 ---
 
@@ -213,14 +221,6 @@ Barron's • 2d ago
 ETF buying, staking and corporate holdings continue to reduce liquid ETH.
 
 thedefiant.io • 2d ago
-
----
-
-**[A sudden shift in Ethereum staking is draining billions from exchanges toward a new corporate elite](https://cryptoslate.com/how-staking-turned-ethereum-into-a-treasury-trade/)**
-
-Corporate Ethereum treasuries use staking to earn additional ETH, turning reserves into a compounding strategy instead of passive exposure.
-
-CryptoSlate • 23h ago
 
 ---
 
@@ -234,7 +234,7 @@ This video provides a professional Elliott Wave and technical analysis of Ethere
 
 📺 More Crypto Online
 
-👁️ 2K • 👍 167 • 💬 6 • ⏱️ 4:10 • 4h ago
+👁️ 2K • 👍 167 • 💬 6 • ⏱️ 4:10 • 5h ago
 
 ---
 
@@ -244,7 +244,7 @@ FREE Daily On-Chain Analysis & Crypto News In 5-Mins: http://bit.ly/TheCryptoNut
 
 📺 Library Of Wealth
 
-👁️ 6K • 👍 146 • 💬 286 • ⏱️ 15:18 • 12h ago
+👁️ 6K • 👍 146 • 💬 286 • ⏱️ 15:18 • 13h ago
 
 ---
 
@@ -254,7 +254,7 @@ FREE TRAINING: https://www.bullmania.com EXCHANGES I USE (bybit, pionex): https:
 
 📺 Ivan on Tech
 
-👁️ 22K • 👍 1K • 💬 154 • ⏱️ 46:08 • 7h ago
+👁️ 22K • 👍 1K • 💬 154 • ⏱️ 46:08 • 8h ago
 
 ---
 
@@ -264,7 +264,7 @@ Tom Lee: "Bitcoin Won't SURVIVE 20 Years - Ethereum Takes Over SOON!" SHOCKING c
 
 📺 Market Crash Alerts
 
-👁️ 290 • 👍 7 • 💬 2 • ⏱️ 13:03 • 4h ago
+👁️ 290 • 👍 7 • 💬 2 • ⏱️ 13:03 • 5h ago
 
 ---
 
@@ -274,7 +274,7 @@ ETHEREUM ETH PRICE PREDICTION 2026 Join the Premium Signal Group for trade setup
 
 📺 Cilinix Crypto
 
-👁️ 367 • 👍 14 • 💬 3 • ⏱️ 5:10 • 7h ago
+👁️ 367 • 👍 14 • 💬 3 • ⏱️ 5:10 • 8h ago
 
 ---
 
@@ -294,7 +294,7 @@ In today's video, we're breaking down why the pain for Bitcoin (BTC), Ethereum (
 
 📺 Discover Crypto
 
-👁️ 3K • 👍 313 • 💬 31 • ⏱️ 1:43:46 • 20m ago
+👁️ 3K • 👍 313 • 💬 31 • ⏱️ 1:43:46 • 1h ago
 
 ---
 
@@ -314,7 +314,7 @@ This video provides a professional Elliott Wave and technical analysis of Ethere
 
 📺 More Crypto Online
 
-👁️ 4K • 👍 249 • 💬 19 • ⏱️ 5:18 • 17h ago
+👁️ 4K • 👍 249 • 💬 19 • ⏱️ 5:18 • 18h ago
 
 ---
 
@@ -324,7 +324,7 @@ After getting chopped up in ETH shorts over the past few months, I found a momen
 
 📺 Taiki Maeda
 
-👁️ 10K • 👍 597 • 💬 262 • ⏱️ 48:54 • 22h ago
+👁️ 10K • 👍 597 • 💬 262 • ⏱️ 48:54 • 23h ago
 
 ---
 

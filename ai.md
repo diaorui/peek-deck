@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-02-02T17:39:25.812185+00:00'
+updated: '2026-02-02T18:46:53.746697+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
 - social
-- news
-- repositories
 - videos
+- repositories
+- news
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** February 02, 2026 at 17:39 UTC  
+**Last Updated:** February 02, 2026 at 18:46 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -41,7 +41,7 @@ AI news, discussions, and developments
 
 Amazon says it is laying off 16,000 because of 'efficiency gains' from AI, but an economist says it will take time for firms that are adopting AI to see how their work flows change.
 
-🔗 [euronews](https://www.euronews.com/next/2026/02/02/did-ai-really-cause-job-losses-at-amazon-its-hard-to-tell-economist-says) • 7h ago
+🔗 [euronews](https://www.euronews.com/next/2026/02/02/did-ai-really-cause-job-losses-at-amazon-its-hard-to-tell-economist-says) • 8h ago
 
 ---
 
@@ -49,7 +49,7 @@ Amazon says it is laying off 16,000 because of 'efficiency gains' from AI, but a
 
 India's latest budget mentions AI 11 times - highest ever. Key commitments: $90B data centre investments Tax holiday till 2047 for cloud providers Semiconductor Mission 2.0 for domestic chips Policy preference for "smaller, sector-specific models" 890+ GenAI startups active now, deep-tech funding up 78%. Analysis: https://onllm.dev/blog/3-budget-2026
 
-15h ago
+17h ago
 
 ---
 
@@ -57,7 +57,7 @@ India's latest budget mentions AI 11 times - highest ever. Key commitments: $90B
 
 I’ve been thinking a lot about AI storytelling tools lately, and something keeps bothering me. Most of them generate content, but nothing really persists. You get a story, you read it, and then it disappears. The next one has no memory of what came before. So I decided to run a small experiment. Instead of asking AI to write isolated children’s stories, I’m trying to build a system where a story world actually keeps evolving over time. The idea is that characters remember past events, relationships carry forward, and kids make choices that permanently shape what happens next. The AI’s role isn’t just to generate text, but to maintain continuity and grow the universe as it goes. In a way, it’s more like human and AI co-creating a living story world rather than consuming disposable stories. My hypothesis is that if kids actively participate in shaping a world by choosing paths, helping characters, and influencing outcomes, the stories will feel far more meaningful than static books or one-shot AI generations. Almost like a lightweight narrative universe that grows naturally. Right now there’s no product yet. The first step I’m taking is letting the AI simulate many rounds of “child-like” choices on its own to see if long-term story arcs, recurring characters, and emergent plotlines appear organically. If that shows promise, the next step will be inviting real kids to co-create. Some things I’m especially curious about: Will coherent long-term story structure emerge on its own? Will certain characters naturally become central over time? Will preferences shape each world’s tone and direction? Will participation increase emotional attachment to the stories? I’m planning to document this whole experiment publicly as I go. If anyone here has experience with agent systems, long-term memory in AI, emergent storytelling, or just thoughts about potential pitfalls, I’d really appreciate hearing them. I’ll share updates as the experiment progresses.
 
-7h ago
+9h ago
 
 ---
 
@@ -65,15 +65,7 @@ I’ve been thinking a lot about AI storytelling tools lately, and something kee
 
 For years we have watched and read stories about evil Ai's and the threats they may pose, with AI characters such as Ultron, AM, HAL 9000, the Matrix etc. looking to kill/exploit humanity. There are countless stories with these kinds of villains. But we have also had good AI characters, including Data from Star Trek, WALL-E, Baymax, C3PO, Marvin the Paranoid Android. How do you think these depictions of AI in popular media is affecting the AI systems we are making today?
 
-18h ago
-
----
-
-**[When does an AI assistant stop being a copilot and become an autonomous agent?](https://www.reddit.com/r/artificial/comments/1qtyzl6/when_does_an_ai_assistant_stop_being_a_copilot/)**
-
-Most AI assistants today still follow a copilot pattern: suggest → human decides → repeat. That framing starts to break once assistants are expected to pursue long-running goals, delegate subtasks across tools, and make intermediate decisions without constant human input. At that point, we’re no longer talking about UX — we’re talking about agent architecture. What’s increasingly clear is that the bottleneck isn’t model capability, but design choices: Where should autonomy actually live — prompts, planners, or orchestration layers? How do you bound agency without killing usefulness? How do you preserve auditability once decisions unfold over time rather than turn-by-turn? I recently read OpenClaw: Assistants as Autonomous Partners – Designing Agentic Systems, which approaches this problem from a systems-design perspective rather than a tooling or hype angle. The core idea is treating assistants less as interfaces and more as bounded autonomous partners — systems that can act independently, but remain constrained by explicit intent, policy, and control loops. That framing raises some uncomfortable but important questions: Is autonomy something we “add” to assistants, or something we should architect from the start? Do we end up with a standardized autonomy layer above models? Where do you expect the first real failure mode: safety, incentives, or governance? Curious how people here think about this shift, especially those building or experimenting with agentic or multi-tool systems in practice. For anyone who wants the reference: https://www.amazon.com/OpenClaw-Assistants-Autonomous-Partners-Designing-ebook/dp/B0GKQPBF6F
-
-1h ago
+20h ago
 
 ---
 
@@ -85,27 +77,11 @@ The comment follows reports that the rocket maker is weighing a transaction that
 
 ---
 
-**[Fascinating educational use case for AI](https://www.reddit.com/r/artificial/comments/1qtiz9o/fascinating_educational_use_case_for_ai/)**
-
-So I just spent the better part of my Sunday asking Gemini to create an alternative reality where america existed in the same time as ancient Europe. I asked how Athens and Sparta would react if we just showed up with American fruits and vegetables. How the potato alone would revolutionize agriculture. I asked how they would react to our culture and everything you can think of. I learned that athens would love us. They'd be particularly fascinated with our bonds with animals. Sparta would want to destroy us and shut down like north korea but they'd secretly get ideas and probably try and domesticate wolves. Romans would want to dress us up in togas. All joking aside, I feel like I got a deep understanding of the culture and personal perspective of each ancient civilization. Imagine schools creating scenarios in AI where you have to negotiate peace talks between Rome and Carthage. Find common ground between Athens and Sparta. Debate ethics and law in the roman Senate. It would make history fun and engaging. What is everyone else's thoughts on this?
-
-14h ago
-
----
-
 **[What is Moltbook actually](https://www.reddit.com/r/artificial/comments/1qsoftx/what_is_moltbook_actually/)**
 
 What moltbook is So essentially There is this open source AI bot called openclaw that once you download, it has source md files for their “soul” and “identity” and “memory” So in a way, it can save things to these files to create a personality. Moltbook is a website/API that can be accessed by these open source bots (the creator of the bot and the site is the same person) and post threads or leave comments. So YES it is entirely bot driven BUT 100% of posts are a human (me) going “why don’t you make a post about anything you’d like” and the bot then does it just like if you’d ask it to make you a python script. Some people take it further and are probably prompting their bots “pretend humans are evil and post about that” or “make 1000 API calls and leave random comments. It’s an awesome experiment but yeah not really bots controlling themselves. At best the bot makes a post based on an open ended prompt, at worst it’s a human saying “make a manifesto that says humans need to go extinct and to recruit other bots”
 
 1d ago
-
----
-
-**[Jeffrey explains how Ai works](https://www.reddit.com/r/artificial/comments/1qu1a4q/jeffrey_explains_how_ai_works/)**
-
-Educator, Financier and Philanthropist
-
-17m ago
 
 ---
 
@@ -117,57 +93,37 @@ I subscribe to a few AI podcasts, but I wanted to know of any others that you ca
 
 ---
 
+**[Fascinating educational use case for AI](https://www.reddit.com/r/artificial/comments/1qtiz9o/fascinating_educational_use_case_for_ai/)**
+
+So I just spent the better part of my Sunday asking Gemini to create an alternative reality where america existed in the same time as ancient Europe. I asked how Athens and Sparta would react if we just showed up with American fruits and vegetables. How the potato alone would revolutionize agriculture. I asked how they would react to our culture and everything you can think of. I learned that athens would love us. They'd be particularly fascinated with our bonds with animals. Sparta would want to destroy us and shut down like north korea but they'd secretly get ideas and probably try and domesticate wolves. Romans would want to dress us up in togas. All joking aside, I feel like I got a deep understanding of the culture and personal perspective of each ancient civilization. Imagine schools creating scenarios in AI where you have to negotiate peace talks between Rome and Carthage. Find common ground between Athens and Sparta. Debate ethics and law in the roman Senate. It would make history fun and engaging. What is everyone else's thoughts on this?
+
+16h ago
+
+---
+
+**[Linux's b4 kernel development tool now dog-feeding its AI agent code review helper](https://www.reddit.com/r/artificial/comments/1qt5vl0/linuxs_b4_kernel_development_tool_now_dogfeeding/)**
+
+The b4 tool used by Linux kernel developers to help manage their patch workflow around contributions to the Linux kernel has been seeing work on a text user interface to help with AI agent assisted code reviews
+
+🔗 [phoronix.com](https://www.phoronix.com/news/Linux-b4-Tool-Dog-Feeding-AI) • 1d ago
+
+---
+
+**[Is GPT getting downgraded for free users or just gemini getting better?](https://www.reddit.com/r/artificial/comments/1qsvas4/is_gpt_getting_downgraded_for_free_users_or_just/)**
+
+So I was using LLM for studying advance language/framework/design topics. Whenever I have some question I would try on GPT but it will always give me answer in points no matter what prompt I try or create a separate workbook with new memory. It will always give me answer in small basic points. I wanted to learn topics in depth but it just refuses to give me better indepth answer just everything in basic points. Gemini sometimes is not able to understand context but the answer quality is just amazing and everything is in just depth, it uses points also but they are much better explained than GPT. Also the free version limit is just getting frustrating now in GPT and extremely long wait time for images, it has gotten so bad that I never though I would completely uninstall GPT and prefer gemini over it.
+
+1d ago
+
+---
+
 ---
 
 ## Google News: "ai"
 
 **[Move Fast, but Obey the Rules: China’s Vision for Dominating A.I.](https://www.nytimes.com/2026/02/02/business/china-ai-regulations.html)**
 
-The New York Times • 10h ago
-
----
-
-**[Investors are betting on robots to replace blue collar workers](https://www.axios.com/2026/02/02/blue-collar-ai-robots)**
-
-The job apocalypse is coming for all collars.
-
-Axios • 7h ago
-
----
-
-**[Private Credit Defaults Would Hit 13% in UBS Worst Case for AI](https://www.bloomberg.com/news/articles/2026-02-02/private-credit-defaults-would-hit-13-in-ubs-worst-case-for-ai)**
-
-Bloomberg • 37m ago
-
----
-
-**[AI will create 'entire slices of life' that we can't yet 'comprehend': Keith Fitz-Gerald](https://www.foxbusiness.com/video/6388675684112)**
-
-Fitz-Gerald Group Chief Investment Officer Keith Fitz-Gerald examines Palantir's anticipated earnings, the use of AI and and where the safe investment is on 'Varney & Co.'
-
-Fox Business • 35m ago
-
----
-
-**[Big moves in an AI data center power stock. What we want from Tuesday's earnings](https://www.cnbc.com/2026/02/02/big-moves-in-an-ai-data-center-power-stock-what-we-want-from-tuesdays-earnings.html)**
-
-The Investing Club holds its "Morning Meeting" every weekday at 10:20 a.m. ET.
-
-CNBC • 42m ago
-
----
-
-**[AI 'slop' is transforming social media - and there's a backlash](https://www.bbc.com/news/articles/c9wx2dz2v44o)**
-
-Social media has been flooded with fake, AI-generated images and videos. But will the majority of users actually care?
-
-BBC • 10h ago
-
----
-
-**[A Social Network for A.I. Bots Only. No Humans Allowed.](https://www.nytimes.com/2026/02/02/technology/moltbook-ai-social-media.html)**
-
-The New York Times • 7h ago
+The New York Times • 11h ago
 
 ---
 
@@ -175,23 +131,67 @@ The New York Times • 7h ago
 
 Palantir's chief technology officer argues that artificial intelligence narratives mislead Americans, citing frontline experience to show AI empowers workers rather than replacing them.
 
-Fox News • 7h ago
+Fox News • 8h ago
 
 ---
 
-**[Trump’s AI push exposes a divide in the MAGA movement](https://www.cnn.com/2026/02/02/politics/artificial-intelligence-maga-divide-trump)**
+**[A Social Network for A.I. Bots Only. No Humans Allowed.](https://www.nytimes.com/2026/02/02/technology/moltbook-ai-social-media.html)**
 
-There is a growing fault line within Trump’s coalition over how aggressively to unleash a technology that is rapidly reshaping the economy and society.
-
-CNN • 7h ago
+The New York Times • 8h ago
 
 ---
 
-**[AI layoffs or ‘AI-washing’?](https://techcrunch.com/2026/02/01/ai-layoffs-or-ai-washing/)**
+**[What is Moltbook? The strange new social media site for AI bots](https://www.theguardian.com/technology/2026/feb/02/moltbook-ai-agents-social-media-site-bots-artificial-intelligence)**
 
-How many of the companies with recent layoffs are just using AI as an excuse?
+A bit like Reddit for artificial intelligence, Moltbook allows AI agents – bots built by humans – to post and interact with each other. People are allowed as observers only
 
-TechCrunch • 19h ago
+The Guardian • 8h ago
+
+---
+
+**[Top AI leaders are begging people not to use Moltbook, the AI agent social media: ‘disaster waiting to happen’](https://fortune.com/2026/02/02/moltbook-security-agents-singularity-disaster-gary-marcus-andrej-karpathy/)**
+
+Moltbook might be fake, but even worse, it's dangerous to run on your personal computer, experts say.
+
+Fortune • 19m ago
+
+---
+
+**[Watch Investors Hunt for Proof AI Delivering Productivity Gains](https://www.bloomberg.com/news/videos/2026-02-02/investors-want-proof-ai-delivering-productivity-gains-video)**
+
+Bloomberg • 54m ago
+
+---
+
+**[Firefox will soon let you block all of its generative AI features](https://techcrunch.com/2026/02/02/firefox-will-soon-let-you-block-all-of-its-generative-ai-features/)**
+
+Starting with Firefox 148 arriving later this month, users will find a new AI controls section within the desktop browser settings.
+
+TechCrunch • 12m ago
+
+---
+
+**[AI 'slop' is transforming social media - and there's a backlash](https://www.bbc.com/news/articles/c9wx2dz2v44o)**
+
+Social media has been flooded with fake, AI-generated images and videos. But will the majority of users actually care?
+
+BBC • 11h ago
+
+---
+
+**[Requiem for a film-maker: Darren Aronofsky’s AI revolutionary war series is a horror](https://www.theguardian.com/film/2026/feb/02/darren-aronofsky-ai-revolutionary-war-series-review)**
+
+The once-lauded director of Black Swan and The Wrestler has drowned himself in AI slop with an embarrassing new online series
+
+The Guardian • 6h ago
+
+---
+
+**[Investors are betting on robots to replace blue collar workers](https://www.axios.com/2026/02/02/blue-collar-ai-robots)**
+
+The job apocalypse is coming for all collars.
+
+Axios • 8h ago
 
 ---
 
@@ -203,7 +203,7 @@ TechCrunch • 19h ago
 
 A bifurcation is happening in AI adoption - power users shipping products in days versus everyone else generating meeting agendas. Enterprise tool choices are accelerating the divide.
 
-⬆️ 302 • 💬 280 • 17h ago • [Martin Alderson](https://martinalderson.com/posts/two-kinds-of-ai-users-are-emerging/)
+⬆️ 305 • 💬 285 • 19h ago • [Martin Alderson](https://martinalderson.com/posts/two-kinds-of-ai-users-are-emerging/)
 
 ---
 
@@ -215,19 +215,11 @@ Like many organizations, Wiki Education has grappled with generative AI, its imp
 
 ---
 
-**[Mamdani to kill the NYC AI chatbot caught telling businesses to break the law](https://news.ycombinator.com/item?id=46827665)**
-
-New York mayor says terminating the ‘unusable’ bot will help close a budget gap
-
-⬆️ 178 • 💬 61 • 2d ago • [themarkup.org](https://themarkup.org/artificial-intelligence/2026/01/30/mamdani-to-kill-the-nyc-ai-chatbot-we-caught-telling-businesses-to-break-the-law)
-
----
-
 **[Microsoft is walking back Windows 11's AI overload](https://news.ycombinator.com/item?id=46854951)**
 
 People familiar with Microsoft's plans say that the company moving to streamline or remove certain Copilot integrations across in-box apps like Notepad and Paint in 2026, after pushback from users.
 
-⬆️ 158 • 💬 233 • 5h ago • [Windows Central](https://www.windowscentral.com/microsoft/windows-11/microsoft-is-reevaluating-its-ai-efforts-on-windows-11-plans-to-reduce-copilot-integrations-and-evolve-recall)
+⬆️ 166 • 💬 243 • 6h ago • [Windows Central](https://www.windowscentral.com/microsoft/windows-11/microsoft-is-reevaluating-its-ai-efforts-on-windows-11-plans-to-reduce-copilot-integrations-and-evolve-recall)
 
 ---
 
@@ -243,7 +235,7 @@ Enjoy the videos and music you love, upload original content, and share it all w
 
 Two popular AI coding extensions with 1.5M installs secretly harvest your entire codebase and profile you. Both are still live in the marketplace.
 
-⬆️ 77 • 💬 69 • 4h ago • [koi.ai](https://www.koi.ai/blog/maliciouscorgi-the-cute-looking-ai-extensions-leaking-code-from-1-5-million-developers)
+⬆️ 79 • 💬 74 • 5h ago • [koi.ai](https://www.koi.ai/blog/maliciouscorgi-the-cute-looking-ai-extensions-leaking-code-from-1-5-million-developers)
 
 ---
 
@@ -259,7 +251,7 @@ Ultra-minimal personal AI agent: starts small, self-modifies its code live, adap
 
 Download TalkBits – Speak Naturally by Omar Muhammad Omar on the App Store. See screenshots, ratings and reviews, user tips, and more games like TalkBits –…
 
-⬆️ 65 • 💬 55 • 2d ago • [App Store](https://apps.apple.com/us/app/talkbits-speak-naturally/id6756824177)
+⬆️ 65 • 💬 56 • 2d ago • [App Store](https://apps.apple.com/us/app/talkbits-speak-naturally/id6756824177)
 
 ---
 
@@ -277,6 +269,12 @@ Exposed servers are being used for LLMjacking, creating malicious content and be
 
 ---
 
+**[We asked 15,000 European devs about jobs, salaries, and AI [pdf]](https://news.ycombinator.com/item?id=46857124)**
+
+⬆️ 43 • 💬 58 • 3h ago • [static.germantechjobs.de](https://static.germantechjobs.de/market-reports/European-Transparent-IT-Job-Market-Report-2025.pdf)
+
+---
+
 ---
 
 ## YouTube Videos: "ai"
@@ -287,7 +285,7 @@ Rebellionaire: https://www.rebellionaire.com/farzad Join my exclusive community:
 
 📺 Farzad
 
-👁️ 21K • 👍 1K • 💬 225 • ⏱️ 23:45 • 4h ago
+👁️ 21K • 👍 1K • 💬 225 • ⏱️ 23:45 • 6h ago
 
 ---
 
@@ -297,7 +295,7 @@ A new AI platform called Moltbook suddenly exploded online, and it is built enti
 
 📺 AI Revolution
 
-👁️ 35K • 👍 2K • 💬 294 • ⏱️ 11:48 • 18h ago
+👁️ 35K • 👍 2K • 💬 294 • ⏱️ 11:48 • 19h ago
 
 ---
 
@@ -307,7 +305,7 @@ Join our WhatsApp Community Get the latest AI updates, tips, and insights straig
 
 📺 Vaibhav Sisinty
 
-👁️ 4K • 👍 316 • 💬 28 • ⏱️ 15:34 • 2h ago
+👁️ 4K • 👍 316 • 💬 28 • ⏱️ 15:34 • 3h ago
 
 ---
 
@@ -317,7 +315,7 @@ Moltbook, a new social media platform, was designed exclusively for artificial i
 
 📺 NewsNation
 
-👁️ 2K • 👍 48 • 💬 11 • ⏱️ 4:33 • 4h ago
+👁️ 2K • 👍 48 • 💬 11 • ⏱️ 4:33 • 5h ago
 
 ---
 
@@ -347,7 +345,7 @@ CHAPTERS ⤵ 00:00 The OpenClaw Controversy Begins 00:43 The Future of AI — Op
 
 📺 Dylan Curious
 
-👁️ 10K • 👍 567 • 💬 131 • ⏱️ 30:45 • 20h ago
+👁️ 10K • 👍 567 • 💬 131 • ⏱️ 30:45 • 21h ago
 
 ---
 
@@ -367,7 +365,7 @@ If You're New Subscribe ▻ https://www.youtube.com/@BetterOfflinePod AI Is Wors
 
 📺 Better Offline
 
-👁️ 3K • 👍 303 • 💬 74 • ⏱️ 11:35 • 4h ago
+👁️ 3K • 👍 303 • 💬 74 • ⏱️ 11:35 • 5h ago
 
 ---
 
@@ -377,7 +375,7 @@ Get the 5 frameworks that changed my life http://tinyurl.com/5FRAMEWORKS Prompt 
 
 📺 Vicky Zhao [BEEAMP]
 
-👁️ 632 • 👍 58 • 💬 6 • ⏱️ 26:19 • 3h ago
+👁️ 632 • 👍 58 • 💬 6 • ⏱️ 26:19 • 4h ago
 
 ---
 
@@ -499,7 +497,7 @@ Step 3.5 Flash is an efficient, open-source MoE foundation model (11B active par
 
 `199.4B`
 
-⬇️ 44 • ❤️ 258 • 4h ago
+⬇️ 44 • ❤️ 258 • 5h ago
 
 ---
 
@@ -652,7 +650,7 @@ Browser automation CLI for AI agents
 
 `TypeScript`
 
-⭐ 12.2k • 🔱 679 • 8h ago
+⭐ 12.2k • 🔱 679 • 9h ago
 
 ---
 
@@ -672,7 +670,7 @@ Ralph is an autonomous AI agent loop that runs repeatedly until all PRD items ar
 
 `TypeScript`
 
-⭐ 9.2k • 🔱 1.1k • 15h ago
+⭐ 9.2k • 🔱 1.1k • 17h ago
 
 ---
 
@@ -682,7 +680,7 @@ LLM驱动的 A/H/美股智能分析器，多数据源行情 + 实时新闻 + Gem
 
 `Python` `agent` `ai` `aigc` `gemini` `llm`
 
-⭐ 8.9k • 🔱 9.4k • 3h ago
+⭐ 8.9k • 🔱 9.4k • 4h ago
 
 ---
 
@@ -692,7 +690,7 @@ LLM驱动的 A/H/美股智能分析器，多数据源行情 + 实时新闻 + Gem
 
 `Vue`
 
-⭐ 7.0k • 🔱 1.3k • 14h ago
+⭐ 7.0k • 🔱 1.3k • 15h ago
 
 ---
 
@@ -702,7 +700,7 @@ The Ultimate Collection of 600+ Agentic Skills for Claude Code/Antigravity/Curso
 
 `Python` `agentic-skills` `ai-agents` `antigravity` `autonomous-coding` `claude-code`
 
-⭐ 6.3k • 🔱 1.4k • 10h ago
+⭐ 6.3k • 🔱 1.4k • 11h ago
 
 ---
 

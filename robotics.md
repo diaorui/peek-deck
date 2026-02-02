@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-02-02T17:39:25.829640+00:00'
+updated: '2026-02-02T18:46:53.764032+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
 - social
-- news
 - videos
+- news
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** February 02, 2026 at 17:39 UTC  
+**Last Updated:** February 02, 2026 at 18:46 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -36,7 +36,7 @@ Robotics research and industry news
 
 From RoboHub🤖 on 𝕏 (longer video/ads): https://x.com/XRoboHub/status/2017926788144579060
 
-7h ago
+8h ago
 
 ---
 
@@ -52,7 +52,7 @@ From DEEP Robotics on 𝕏: https://x.com/DeepRobotics_CN/status/201711442936065
 
 I live in India and in a day I see about 4 construction sites on my way to work . I quite often notice that we don't have Autonomous robots that carry heavy load from one place to another. People continue to use wheel barrow as a mode to carry heavy load. I do not know why we are not in a time where people can start using robots to carry heavy load. I am new to robotics and learning still about the mechanics and the business of it. I wanted to know if: 1) Is this the case in most countries? 2) Are people not using robots to carry heavy load due to extremely high costs? 3) Are these robots not as fast and efficient as they claim to be? 4) Is there no need in the first place? I would love to know your thoughts as to why we don't see as many robots carry heavy load in construction sites?
 
-13h ago
+14h ago
 
 ---
 
@@ -60,13 +60,13 @@ I live in India and in a day I see about 4 construction sites on my way to work 
 
 Im a mechatronics student with some experience in solidworks and ROS2 Does anybody know where somewhere with my skill set could apply, any research labs or universities or even companies that hire 2nd years?
 
-6h ago
+8h ago
 
 ---
 
 **[Robot camera with depth sensing + RGB, IMU, global shutter, RGB, IR for Jetson SDK](https://www.reddit.com/r/robotics/comments/1qtoqrc/robot_camera_with_depth_sensing_rgb_imu_global/)**
 
-9h ago
+11h ago
 
 ---
 
@@ -82,7 +82,7 @@ I hadn't seen the whole video yesterday when I posted it. From The Humanoid Hub 
 
 Hi everyone, We are the team behind NormaCore, a unified toolkit designed to fix the fragmented workflow of building physical systems. While our goal is a complete ecosystem (unified API, visual tooling, and high-performance data pipelines), we believe in releasing early and often. Developer experience is at the core of our design philosophy. We got tired of hacking together disjointed tools, so we’re building a foundation that handles everything from complex robotics to distributed sensor networks. To kick off our open-source release cycle, we’re sharing the Parallel Jaw Gripper. It’s a part of a larger 7+1 DoF arm we are refining to bring high-end research robotics to makers and hobby projects. Fully 3D printed and SO101 compatible, the gripper features modular camera mounts and requires zero extra hardware assembly relies entirely on standard motor kit parts. We’d love your feedback on the design and the tooling behind it
 
-🔗 [GitHub](https://github.com/norma-core/norma-core/blob/main/hardware/pgripper/README.md) • 20h ago
+🔗 [GitHub](https://github.com/norma-core/norma-core/blob/main/hardware/pgripper/README.md) • 21h ago
 
 ---
 
@@ -90,7 +90,7 @@ Hi everyone, We are the team behind NormaCore, a unified toolkit designed to fix
 
 I'm a college student new to robotics and I've been using Arduino for the past few weeks to get started however, I've run into several problems when it comes to the logic portion. I'm not sure if its because I'm not super experienced in coding but whenever I've finished the building portion (which is always the easiest part) I can't see to figure out what to do once i get to the part where I actually have to tell it what I want it to do (this is the void loop portion in arduino). I don't want to ask chatgpt either because I know it'll take away the learning portion for me (and because its wrong 90% of the time). Should I hone in on learning coding (c++ & python) for a bit before getting back into project building for the time being? I'm a bit unsure since everyone says that project building is where you learn the most but I've been stuck at beginner level projects for weeks due to my inability to figure out what to do for the code.
 
-8h ago
+9h ago
 
 ---
 
@@ -98,7 +98,7 @@ I'm a college student new to robotics and I've been using Arduino for the past f
 
 A new industry guide breaks down the top 12 robots defining this era, from Tesla’s $30k Optimus Gen 2 to 1X’s NEO, which is finally shipping to homes. The list details the specs, pricing, and capabilities of the major players (including Boston Dynamics, Figure, and Unitree) as they shift from 'cool lab demos' to real-world labor in factories and living rooms.
 
-🔗 [Humanoid Robotics Technology](https://humanoidroboticstechnology.com/articles/top-12-humanoid-robots-of-2026/) • 8h ago
+🔗 [Humanoid Robotics Technology](https://humanoidroboticstechnology.com/articles/top-12-humanoid-robots-of-2026/) • 9h ago
 
 ---
 
@@ -106,7 +106,7 @@ A new industry guide breaks down the top 12 robots defining this era, from Tesla
 
 Hey folks, what cameras do you use these days for robots that have depth sensing + RGB, IMU, global shutter, RGB, IR, and work with Jetson SDK? I was looking at D455, but is hard to find, and not sure if this is still going to be in business in 6m or so. The OAK-D and ZED seem next choices, but don't know about them, since are small companies. Please advice. Thanks in advance.
 
-9h ago
+11h ago
 
 ---
 
@@ -116,15 +116,7 @@ Hey folks, what cameras do you use these days for robots that have depth sensing
 
 **[AI Robotics Investment Opportunities Extend Beyond Big Tech](https://www.etftrends.com/disruptive-technology-content-hub/ai-robotics-investment-opportunities-extend-beyond-big-tech/)**
 
-ETF Trends • 2d ago
-
----
-
-**[FIRST, Dean Kamen's youth robotics org, puts him on leave amid new Epstein revelations](https://www.nhpr.org/nh-news/2026-02-01/epstein-dean-kamen-first-nh-new-hampshire-epstein-files)**
-
-FIRST's board of directors says it has hired a law firm to review Kamen's ties to Epstein, days after newly released documents show the two men shared a relationship over a number of years.
-
-New Hampshire Public Radio • 23h ago
+ETF Trends • 3d ago
 
 ---
 
@@ -132,15 +124,15 @@ New Hampshire Public Radio • 23h ago
 
 Carbon Robotics' Large Plant Model will allow farmers to kill new types of weeds without having to retrain the machines.
 
-TechCrunch • 2h ago
+TechCrunch • 3h ago
 
 ---
 
-**[Investors are betting on robots to replace blue collar workers](https://www.axios.com/2026/02/02/blue-collar-ai-robots)**
+**[FIRST, Dean Kamen's youth robotics org, puts him on leave amid new Epstein revelations](https://www.nhpr.org/nh-news/2026-02-01/epstein-dean-kamen-first-nh-new-hampshire-epstein-files)**
 
-The job apocalypse is coming for all collars.
+FIRST's board of directors says it has hired a law firm to review Kamen's ties to Epstein, days after newly released documents show the two men shared a relationship over a number of years.
 
-Axios • 7h ago
+New Hampshire Public Radio • 1d ago
 
 ---
 
@@ -149,6 +141,38 @@ Axios • 7h ago
 Morgan Stanley analysts highlight stocks of companies that sell specialized robotics parts.
 
 CNBC • 1d ago
+
+---
+
+**[Video: New US humanoid robot navigates complex paths while walking and working](https://interestingengineering.com/ai-robotics/westwood-robotics-new-humanoid-robot)**
+
+Westwood Robotics unveils Themis Gen 2.5, a humanoid that can grasp objects while walking, redefining real-world mobile manipulation.
+
+Interesting Engineering • 7h ago
+
+---
+
+**[‘Optimus chain’: Chinese suppliers form backbone of Tesla’s humanoid robot plans](https://www.scmp.com/tech/tech-trends/article/3341953/optimus-chain-chinese-suppliers-form-backbone-teslas-humanoid-robot-initiative)**
+
+Tesla’s pivot to producing humanoid robots is expected to engage a network of key Chinese component makers.
+
+South China Morning Post • 1d ago
+
+---
+
+**[Investors are betting on robots to replace blue collar workers](https://www.axios.com/2026/02/02/blue-collar-ai-robots)**
+
+The job apocalypse is coming for all collars.
+
+Axios • 8h ago
+
+---
+
+**[From Katrina to robotics: Mindy Núñez Airhart’s path in steel](https://www.nola.com/news/business/how-mindy-nez-airhart-built-a-2nd-generation-steel-company/article_4ac8fbe1-f806-48da-8105-29b39e3bd428.html)**
+
+SSE Steel Fabrication owner Mindy Núñez Airhart on growing a second-generation steel business in St. Bernard Parish — from post-Katrina rebuilding to robotics, AI and humanoid welding technology shaping the industry’s future.
+
+NOLA.com • 8h ago
 
 ---
 
@@ -161,30 +185,6 @@ Zacks Investment Research • 3d ago
 **[Multi-agent AI and robots automate materials discovery in closed-loop lab system](https://phys.org/news/2026-01-multi-agent-ai-robots-automate.html)**
 
 Phys.org • 1d ago
-
----
-
-**[Lake Stevens robotics team receives world recognition](https://www.heraldnet.com/news/lake-stevens-robotics-team-receives-world-recognition/)**
-
-Team Arsenic took second place at the recent ROBO-BASH in Bellingham, earning fifth place in the world.
-
-Everett Herald • 3d ago
-
----
-
-**[‘Optimus chain’: Chinese suppliers form backbone of Tesla’s humanoid robot plans](https://www.scmp.com/tech/tech-trends/article/3341953/optimus-chain-chinese-suppliers-form-backbone-teslas-humanoid-robot-initiative)**
-
-Tesla’s pivot to producing humanoid robots is expected to engage a network of key Chinese component makers.
-
-South China Morning Post • 1d ago
-
----
-
-**[Xiaomi's Dark Robot Factory Can Make A Phone Every Second Without People - Here's How](https://www.bgr.com/2087200/xiaomi-dark-robot-smart-phone-factory/)**
-
-This fully automated Xiaomi smartphone factory operates with the lights off because no one works on the assembly line, thanks to AI and robotics.
-
-bgr.com • 16h ago
 
 ---
 
@@ -208,7 +208,7 @@ The Shanghai-based robotics startup MirrorMe Technology claims its new bipedal r
 
 📺 Kalil 4.0
 
-👁️ 227 • 👍 13 • ⏱️ 0:36 • 42m ago
+👁️ 227 • 👍 13 • ⏱️ 0:36 • 1h ago
 
 ---
 
