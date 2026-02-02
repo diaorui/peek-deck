@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-02-02T13:03:09.729224+00:00'
+updated: '2026-02-02T14:12:27.141872+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- cryptocurrency
+- news
 - videos
 - social
-- news
+- cryptocurrency
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** February 02, 2026 at 13:03 UTC  
+**Last Updated:** February 02, 2026 at 14:12 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -36,13 +36,13 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Price
 
-### $2,306.07
+### $2,309.39
 
 ---
 
 ## Ethereum Chart
 
-**24h:** -2.8%  
+**24h:** -0.8%  
 **7d:** -23.8%  
 **30d:** -26.8%  
 **90d:** -32.7%  
@@ -72,7 +72,7 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-7h ago
+8h ago
 
 ---
 
@@ -80,19 +80,19 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 Re https://firefly.social/post/x/2018205196568944653 I actually don't think it's complicated. IMO the future of onchain mechanism design is mostly going to fit into one pattern: [something that looks like a prediction market] -> [something that looks like a capture-resistant, non-financialized preference-setting gadget] In other words: One layer that is maximally open and maximizes accountability (it's a market, anyone can buy and sell, if you make good decisions you win money if you make bad decisions you lose money) One layer that is decentralized and pluralistic, and that maximizes space for intrinsic motivation. This cannot be token-based, because token owners are not pluralistic, and anyone can buy in and get 51% of them. Votes here should be anonymous, ideally MACI'd to reduce risk of collusion. The prediction market is the correct way to do a "decentralized executive", because the most logical primitive for "accountability" in a permissionless concept is exactly that. Though sometimes you will want to keep it simple, and do a centralized executive at that layer instead: [replaceable centralized executive] -> [something that looks like a capture-resistant, non-financialized preference-setting gadget] Thinking in these two layers explicitly: (i) what is doing your execution, (ii) what is doing your preference-setting and is judging the executor(s), is best.
 
-6h ago
+7h ago
 
 ---
 
 **[Sold BTC into USDC (ERC20) now want to get back into BTC via WBTC. Best way to swap?](https://www.reddit.com/r/ethereum/comments/1qtmbfd/sold_btc_into_usdc_erc20_now_want_to_get_back/)**
 
-7h ago
+8h ago
 
 ---
 
 **[Where can I sell an unused gift card for crypto?](https://www.reddit.com/r/ethereum/comments/1qtu5js/where_can_i_sell_an_unused_gift_card_for_crypto/)**
 
-13m ago
+1h ago
 
 ---
 
@@ -108,7 +108,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 We've seen about 10 years of people trying to do content incentivization in crypto, from early-stage platforms like Bihu and Steemit, to BitClout in 2021, to Zora, to tipping features inside of decentralized social, and more. So far, I think we have not been very successful, and I think this is because the problem is fundamentally hard. First, my view of what the problem is. A major difference between doing "creator incentives" in the 00s vs doing them today, is that in the 00s, a primary problem was having not enough content at all. In the 20s, there's plenty of content, AI can generate an entire metaverse full of it for like $10. The problem is quality. And so your goal is not incentivizing content, it's surfacing good content. Personally, I think that the most successful example of creator incentives we've seen is Substack. To see why, take a look at the top 10: https://substack.com/leaderboard/technology/paid https://substack.com/leaderboard/culture/paid https://substack.com/leaderboard/world-politics/paid Now, you may disagree with many of these authors. But I have no doubt that: They are on the whole high quality, and contribute positively to the discussion They are mostly people who would not have been elevated without Substack's presence So Substack is genuinely surfacing high quality and pluralism. Now, we can compare to creator coin projects. I don't want to pick on a single one, because I think there's a failure mode of the entire category. For example: Top Zora creator coins: https://www.coingecko.com/en/categories/zora-creator-coins BitClout: https://www.businessofbusiness.com/articles/inside-the-rise-of-bitclout-a-crypto-based-social-network-influencers-andreessen-horowitz-sequoia/#:~:text=Most%20of%20the,about%20BitClout%E2%80%99s%20users Basically, the top 10 are people who already have very high social status, and who are often impressive but primarily for reasons other than the content they create. At the core, Substack is a simple subscription service: you pay $N per month, and you get to see the person's articles. But a big part of Substack's success is that they did not just set the mechanism and forget. Their launch process was very hands-on, deliberately seeding the platform with high-quality creators, based on a very particular vision of what kind of high-quality intellectual environment they wanted to foster, including giving selected people revenue guarantees. So now, let's get to one idea that I think could work (of course, coming up with new ideas is inherently a more speculative project than criticizing existing ones, and more prone to error). Create a DAO, that is not token-based. Instead, the inspiration should be Protocol Guild: there are N members, and they can (anonymously) vote new members in and out. If N gets above ~200, consider auto-splitting it. Importantly, do not try to make the DAO universal or even industry-wide. Instead, embrace the opinionatedness. Be okay with having a dominant type of content (long-form writing, music, short-form video, long-form video, fiction, educational...), and be okay with having a dominant style (eg. country or region of origin, political viewpoint, if within crypto which projects you're most friendly to...). Hand-pick the initial membership set, in order to maximize its alignment with the desired style. The goal is to have a group that is larger than one creator and can accumulate a public brand and collectively bargain to seek revenue opportunities, but at the same time small enough that internal governance is tractable. Now, here is where the tokens come in. In general, one of my hypotheses this decade is that a large portion of effective governance mechanisms will all have the form factor of "large number of people and bots participating in a prediction market, with the output oracle being a diverse set of people optimized for mission alignment and capture resistance". In this case, what we do is: anyone can become a creator and create a creator coin, and then, if they get admitted to a creator DAO, a portion of their proceeds from the DAO are used to burn their creator coins. This way, the token speculators are NOT participating in a recursive-speculation attention game backed only by itself. Instead, they are specifically being predictors of what new creators the high-value creator DAOs will be willing to accept. At the same time, they also provide a valuable service to the creator DAOs: they are helping surface promising creators for the DAOs to choose from. So the ultimate decider of who rises and falls is not speculators, but high-value content creators (we make the assumption that good creators are also good judges of quality, which seems often true). Individual speculators can stay in the game and thrive to the extent that they do a good job of predicting the creator DAOs' actions.
 
-23h ago
+1d ago
 
 ---
 
@@ -150,7 +150,7 @@ In these five years, the Ethereum Foundation is entering a period of mild auster
 
 Earlier in January, the Ethereum Foundation formally elevated post-quantum security to a strategic priority, creating a dedicated Post-Quantum team.
 
-CoinDesk • 21h ago
+CoinDesk • 23h ago
 
 ---
 
@@ -158,23 +158,15 @@ CoinDesk • 21h ago
 
 The Ethereum founder claims his strategy of betting against extreme market sentiment ‘usually makes money’ on Polymarket.
 
-Decrypt • 19h ago
+Decrypt • 20h ago
 
 ---
 
-**[Ethereum Price Is 10% From Falling Below $2,000, but There’s a Silver Lining to it](https://finance.yahoo.com/news/ethereum-price-10-falling-below-090000850.html)**
+**[Ethereum Falls 10% In Rout](https://www.investing.com/news/cryptocurrency-news/ethereum-falls-10-in-rout-4477776)**
 
-Ethereum price is dropping sharply, nearing $2,000 as fear-driven selling pressure intensifies across markets.
+Ethereum Falls 10% In Rout
 
-Yahoo Finance • 4h ago
-
----
-
-**[Tom Lee’s BitMine is now down $6 billion on Ethereum (ether) bets](https://www.coindesk.com/markets/2026/02/01/bitmine-s-ether-bet-is-now-usd6-billion-in-paper-loss)**
-
-The firm’s recent ETH purchases came just ahead of a sharp market slide, pushing unrealized losses past $6 billion as liquidity thinned and liquidations picked up.
-
-CoinDesk • 1d ago
+Investing.com • 10h ago
 
 ---
 
@@ -186,15 +178,31 @@ Yahoo Finance • 2d ago
 
 ---
 
+**[Tom Lee’s BitMine is now down $6 billion on Ethereum (ether) bets](https://www.coindesk.com/markets/2026/02/01/bitmine-s-ether-bet-is-now-usd6-billion-in-paper-loss)**
+
+The firm’s recent ETH purchases came just ahead of a sharp market slide, pushing unrealized losses past $6 billion as liquidity thinned and liquidations picked up.
+
+CoinDesk • 1d ago
+
+---
+
 **[BitMine Immersion Wrestles With Ethereum Losses Concentration Risk And Leadership Shift](https://finance.yahoo.com/news/bitmine-immersion-wrestles-ethereum-losses-110825271.html)**
 
 BitMine Immersion Technologies (NYSEAM:BMNR) reports over US$6b in unrealized losses tied to rapid Ethereum accumulation and staking activity. The company has pursued an Ethereum heavy treasury approach, concentrating its exposure in a single crypto asset. President Erik Nelson has left the company during this period of financial strain, marking a significant leadership transition. These developments raise questions about BMNR's risk tolerance, treasury management approach, and future...
 
-Yahoo Finance • 1h ago
+Yahoo Finance • 3h ago
 
 ---
 
-**[Bitcoin, XRP, Ethereum Fall on News of Kevin Warsh Fed Appointment.](https://www.barrons.com/articles/bitcoin-xrp-ethereum-crypto-today-954298d9?gaa_at=eafs&gaa_n=AWEtsqfTCe35NrhIYpNTMJXbXYN_bEGVpbd2d7EDC_cdqBerxG1m_cLmB0JY&gaa_ts=6980a3e7&gaa_sig=rg3-EDqC36RNitcOR2Yw7Gu8HELgxgmfJ9eeRv_vAnkOmnPQRlKVhxyxD_Fs_EVsj-h-ZDkPA3txAJzzBtC9ww%3D%3D)**
+**[Prediction: 2026 Will Be the Year of Ethereum (ETH)](https://www.fool.com/investing/2026/02/02/prediction-2026-will-be-the-year-of-ethereum-eth/)**
+
+The adoption, technology, and regulation stars may all align for Ethereum this year.
+
+The Motley Fool • 9m ago
+
+---
+
+**[Bitcoin, XRP, Ethereum Fall on News of Kevin Warsh Fed Appointment.](https://www.barrons.com/articles/bitcoin-xrp-ethereum-crypto-today-954298d9?gaa_at=eafs&gaa_n=AWEtsqd7zJWWBFjnFF6fHBbbrgti_4nmj5DH_FzUfA-pB1cXAXy4ZIrrSYqW&gaa_ts=6980b437&gaa_sig=6lrB7OOdsNvkEYOojov_hKLV7UYpkyNyW9mresAGkcpzCDduoLX6tOPC3antONtW_ekrXASLmlLT1z0OyCbDLA%3D%3D)**
 
 Barron's • 2d ago
 
@@ -208,19 +216,11 @@ thedefiant.io • 2d ago
 
 ---
 
-**[Bitcoin Price Crashes Below $80K as Ethereum Loses $2.5K Support — 5 Reasons the Selloff Isn’t Over](https://www.ccn.com/education/crypto/bitcoin-80k-crash-eth-2-5k-break-bitmine-6b-losses-bloodbath-warning/)**
+**[Ethereum Price Prediction: $2,400 Crash Opens $1,435 Risk](https://coinpaper.com/14198/ethereum-price-prediction-2-400-crash-opens-1-435-risk)**
 
-Bitcoin and Ethereum break key support as ETFs bleed, liquidations surge, and BitMine posts $6B+ losses. Is the selloff just beginning?
+ETH plunges to $2,400 after heavy liquidations, with analysts warning a deeper move toward $1,435 is possible.
 
-CCN.com • 1d ago
-
----
-
-**[A sudden shift in Ethereum staking is draining billions from exchanges toward a new corporate elite](https://cryptoslate.com/how-staking-turned-ethereum-into-a-treasury-trade/)**
-
-Corporate Ethereum treasuries use staking to earn additional ETH, turning reserves into a compounding strategy instead of passive exposure.
-
-CryptoSlate • 18h ago
+Coinpaper • 1d ago
 
 ---
 
@@ -234,7 +234,7 @@ FREE TRAINING: https://www.bullmania.com EXCHANGES I USE (bybit, pionex): https:
 
 📺 Ivan on Tech
 
-👁️ 11K • 👍 984 • 💬 98 • ⏱️ 46:08 • 3h ago
+👁️ 11K • 👍 984 • 💬 98 • ⏱️ 46:08 • 4h ago
 
 ---
 
@@ -244,7 +244,7 @@ FREE Daily On-Chain Analysis & Crypto News In 5-Mins: http://bit.ly/TheCryptoNut
 
 📺 Library Of Wealth
 
-👁️ 4K • 👍 122 • 💬 273 • ⏱️ 15:18 • 7h ago
+👁️ 4K • 👍 122 • 💬 273 • ⏱️ 15:18 • 8h ago
 
 ---
 
@@ -254,7 +254,7 @@ Free Milk Road Newsletters: ...
 
 📺 Milk Road
 
-👁️ 11K • 👍 280 • 💬 61 • ⏱️ 15:51 • 22h ago
+👁️ 11K • 👍 280 • 💬 61 • ⏱️ 15:51 • 23h ago
 
 ---
 
@@ -264,7 +264,7 @@ My FREE Daily 5-Min Crypto Newsletter: https://www.cryptonutshell.com/subscribe 
 
 📺 Crypto Nutshell
 
-👁️ 20K • 👍 791 • 💬 149 • ⏱️ 21:16 • 21h ago
+👁️ 20K • 👍 791 • 💬 149 • ⏱️ 21:16 • 22h ago
 
 ---
 
@@ -274,7 +274,7 @@ ETHEREUM ETH PRICE PREDICTION 2026 Join the Premium Signal Group for trade setup
 
 📺 Cilinix Crypto
 
-👁️ 166 • 👍 8 • 💬 1 • ⏱️ 5:10 • 2h ago
+👁️ 166 • 👍 8 • 💬 1 • ⏱️ 5:10 • 3h ago
 
 ---
 
@@ -284,7 +284,7 @@ This video provides a professional Elliott Wave and technical analysis of Ethere
 
 📺 More Crypto Online
 
-👁️ 4K • 👍 249 • 💬 19 • ⏱️ 5:18 • 12h ago
+👁️ 4K • 👍 249 • 💬 19 • ⏱️ 5:18 • 14h ago
 
 ---
 
@@ -294,7 +294,7 @@ FREE TRAINING: https://www.bullmania.com EXCHANGES I USE (bybit, pionex): https:
 
 📺 Ivan on Tech
 
-👁️ 22K • 👍 2K • 💬 136 • ⏱️ 45:22 • 18h ago
+👁️ 22K • 👍 2K • 💬 136 • ⏱️ 45:22 • 19h ago
 
 ---
 
@@ -304,7 +304,7 @@ After getting chopped up in ETH shorts over the past few months, I found a momen
 
 📺 Taiki Maeda
 
-👁️ 9K • 👍 477 • 💬 219 • ⏱️ 48:54 • 17h ago
+👁️ 9K • 👍 477 • 💬 219 • ⏱️ 48:54 • 19h ago
 
 ---
 
@@ -324,7 +324,7 @@ BITCOIN CRASH: The Reset Has Started (Prepare Now)!!! - Bitcoin News Today, Ethe
 
 📺 Crypto World
 
-👁️ 16K • 👍 471 • 💬 142 • ⏱️ 24:14 • 15h ago
+👁️ 16K • 👍 471 • 💬 142 • ⏱️ 24:14 • 16h ago
 
 ---
 
