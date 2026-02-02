@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-02-02T15:08:21.643371+00:00'
+updated: '2026-02-02T15:59:15.671281+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
 - social
-- news
 - videos
+- news
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** February 02, 2026 at 15:08 UTC  
+**Last Updated:** February 02, 2026 at 15:59 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -36,7 +36,7 @@ Robotics research and industry news
 
 From RoboHub🤖 on 𝕏 (longer video/ads): https://x.com/XRoboHub/status/2017926788144579060
 
-4h ago
+5h ago
 
 ---
 
@@ -45,14 +45,6 @@ From RoboHub🤖 on 𝕏 (longer video/ads): https://x.com/XRoboHub/status/20179
 From DEEP Robotics on 𝕏: https://x.com/DeepRobotics_CN/status/2017114429360656740
 
 1d ago
-
----
-
-**[Top 12 Humanoid Robots of 2026](https://www.reddit.com/r/robotics/comments/1qtpupl/top_12_humanoid_robots_of_2026/)**
-
-A new industry guide breaks down the top 12 robots defining this era, from Tesla’s $30k Optimus Gen 2 to 1X’s NEO, which is finally shipping to homes. The list details the specs, pricing, and capabilities of the major players (including Boston Dynamics, Figure, and Unitree) as they shift from 'cool lab demos' to real-world labor in factories and living rooms.
-
-🔗 [Humanoid Robotics Technology](https://humanoidroboticstechnology.com/articles/top-12-humanoid-robots-of-2026/) • 6h ago
 
 ---
 
@@ -66,7 +58,7 @@ I live in India and in a day I see about 4 construction sites on my way to work 
 
 **[Robot camera with depth sensing + RGB, IMU, global shutter, RGB, IR for Jetson SDK](https://www.reddit.com/r/robotics/comments/1qtoqrc/robot_camera_with_depth_sensing_rgb_imu_global/)**
 
-7h ago
+8h ago
 
 ---
 
@@ -78,11 +70,19 @@ I hadn't seen the whole video yesterday when I posted it. From The Humanoid Hub 
 
 ---
 
+**[Top 12 Humanoid Robots of 2026](https://www.reddit.com/r/robotics/comments/1qtpupl/top_12_humanoid_robots_of_2026/)**
+
+A new industry guide breaks down the top 12 robots defining this era, from Tesla’s $30k Optimus Gen 2 to 1X’s NEO, which is finally shipping to homes. The list details the specs, pricing, and capabilities of the major players (including Boston Dynamics, Figure, and Unitree) as they shift from 'cool lab demos' to real-world labor in factories and living rooms.
+
+🔗 [Humanoid Robotics Technology](https://humanoidroboticstechnology.com/articles/top-12-humanoid-robots-of-2026/) • 7h ago
+
+---
+
 **[We’re open-sourcing our SO101 Parallel Jaw Gripper. It requires zero extra hardware and became a game-changer for our experiments.](https://www.reddit.com/r/robotics/comments/1qtb7n1/were_opensourcing_our_so101_parallel_jaw_gripper/)**
 
 Hi everyone, We are the team behind NormaCore, a unified toolkit designed to fix the fragmented workflow of building physical systems. While our goal is a complete ecosystem (unified API, visual tooling, and high-performance data pipelines), we believe in releasing early and often. Developer experience is at the core of our design philosophy. We got tired of hacking together disjointed tools, so we’re building a foundation that handles everything from complex robotics to distributed sensor networks. To kick off our open-source release cycle, we’re sharing the Parallel Jaw Gripper. It’s a part of a larger 7+1 DoF arm we are refining to bring high-end research robotics to makers and hobby projects. Fully 3D printed and SO101 compatible, the gripper features modular camera mounts and requires zero extra hardware assembly relies entirely on standard motor kit parts. We’d love your feedback on the design and the tooling behind it
 
-🔗 [GitHub](https://github.com/norma-core/norma-core/blob/main/hardware/pgripper/README.md) • 17h ago
+🔗 [GitHub](https://github.com/norma-core/norma-core/blob/main/hardware/pgripper/README.md) • 18h ago
 
 ---
 
@@ -90,7 +90,7 @@ Hi everyone, We are the team behind NormaCore, a unified toolkit designed to fix
 
 Im a mechatronics student with some experience in solidworks and ROS2 Does anybody know where somewhere with my skill set could apply, any research labs or universities or even companies that hire 2nd years?
 
-4h ago
+5h ago
 
 ---
 
@@ -106,7 +106,7 @@ I'm a college student new to robotics and I've been using Arduino for the past f
 
 Hey folks, what cameras do you use these days for robots that have depth sensing + RGB, IMU, global shutter, RGB, IR, and work with Jetson SDK? I was looking at D455, but is hard to find, and not sure if this is still going to be in business in 6m or so. The OAK-D and ZED seem next choices, but don't know about them, since are small companies. Please advice. Thanks in advance.
 
-7h ago
+8h ago
 
 ---
 
@@ -118,7 +118,15 @@ Hey folks, what cameras do you use these days for robots that have depth sensing
 
 FIRST's board of directors says it has hired a law firm to review Kamen's ties to Epstein, days after newly released documents show the two men shared a relationship over a number of years.
 
-New Hampshire Public Radio • 20h ago
+New Hampshire Public Radio • 21h ago
+
+---
+
+**[Carbon Robotics built an AI model that detects and identifies plants](https://techcrunch.com/2026/02/02/carbon-robotics-built-an-ai-model-that-detects-and-identifies-plants/)**
+
+Carbon Robotics' Large Plant Model will allow farmers to kill new types of weeds without having to retrain the machines.
+
+TechCrunch • 59m ago
 
 ---
 
@@ -160,9 +168,11 @@ Zacks Investment Research • 3d ago
 
 ---
 
-**[Multi-agent AI and robots automate materials discovery in closed-loop lab system](https://phys.org/news/2026-01-multi-agent-ai-robots-automate.html)**
+**[Beyond Robotaxis: PIX Advances a New Global Model for City Robotics](https://finance.yahoo.com/news/beyond-robotaxis-pix-advances-global-130000339.html)**
 
-Phys.org • 1d ago
+How a Physical AI-Driven City Robotics Model Is Creating Scalable, Sustainable Urban Services Worldwide CALIFORNIA CITY, CALIFORNIA / ACCESS Newswire / February 2, 2026 / Recent attention around Robotaxi programs, including growing public interest ...
+
+Yahoo Finance • 2h ago
 
 ---
 
@@ -170,7 +180,7 @@ Phys.org • 1d ago
 
 This fully automated Xiaomi smartphone factory operates with the lights off because no one works on the assembly line, thanks to AI and robotics.
 
-bgr.com • 13h ago
+bgr.com • 14h ago
 
 ---
 
@@ -179,14 +189,6 @@ bgr.com • 13h ago
 Team Arsenic took second place at the recent ROBO-BASH in Bellingham, earning fifth place in the world.
 
 Everett Herald • 3d ago
-
----
-
-**[New York Robotics launches with 160 startups in its ecosystem](https://www.therobotreport.com/new-york-robotics-launches-160-startups-ecosystem/)**
-
-New York Robotics is launching with over 80 industry partners, 20 academic partners, 40 robotics labs, and over 300 venture capital partners.
-
-The Robot Report • 3d ago
 
 ---
 
@@ -240,7 +242,7 @@ XPeng just showed the world what real humanoid robot progress looks like. During
 
 📺 DPCcars
 
-👁️ 8K • 👍 63 • 💬 22 • ⏱️ 2:06 • 23h ago
+👁️ 8K • 👍 63 • 💬 22 • ⏱️ 2:06 • 1d ago
 
 ---
 
@@ -248,7 +250,7 @@ XPeng just showed the world what real humanoid robot progress looks like. During
 
 📺 dukktekk
 
-👁️ 6K • 👍 490 • 💬 21 • ⏱️ 0:31 • 14h ago
+👁️ 6K • 👍 490 • 💬 21 • ⏱️ 0:31 • 15h ago
 
 ---
 

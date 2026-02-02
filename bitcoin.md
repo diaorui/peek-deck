@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-02-02T15:08:21.633290+00:00'
+updated: '2026-02-02T15:59:15.662123+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- cryptocurrency
 - social
-- news
 - videos
+- cryptocurrency
+- news
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** February 02, 2026 at 15:08 UTC  
+**Last Updated:** February 02, 2026 at 15:59 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,17 +38,17 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $77,834.44
+### $78,956.80
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** -0.1%  
-**7d:** -12.8%  
-**30d:** -14.9%  
-**90d:** -25.2%  
-**1y:** -23.3%  
+**24h:** +2.0%  
+**7d:** -11.6%  
+**30d:** -13.8%  
+**90d:** -24.2%  
+**1y:** -22.2%  
 
 ---
 
@@ -77,27 +77,19 @@ Rank #1
 
 ## Reddit: r/Bitcoin
 
-**[I have finally figured out why BTC is falling hard](https://www.reddit.com/r/Bitcoin/comments/1qtmfoa/i_have_finally_figured_out_why_btc_is_falling_hard/)**
+**[HODL HODL HODL HODL HODL HODL HODL HODL HODL HODL HODL HODL HODL HODL HODL HODL HODL HODL HODL HODL HODL HODL HODL HODL HODL](https://www.reddit.com/r/Bitcoin/comments/1qtns8s/hodl_hodl_hodl_hodl_hodl_hodl_hodl_hodl_hodl_hodl/)**
 
-It's because I bought some
+HODLHODLHODLHODLHODLHODLHODLHODLHODLHODLHODLHODLHODLHODLHODLHODLHODLHODLHODLHODLHODLHODLHODLHODLHODLHODLHODLHODLHODLHODLHODLHODLHODLHODLHODLHODLHODLHODLHODLHODLHODLHODLHODLHODLHODLHODLHODLHODLHODLHODLHODLHODLHODLHODLHODLHODLHODLHODLHODLHODLHODLHODLHODLHODLHODLHODLHODLHODL
 
 9h ago
 
 ---
 
-**[All in at 110K](https://www.reddit.com/r/Bitcoin/comments/1qtk2r5/all_in_at_110k/)**
+**[I have finally figured out why BTC is falling hard](https://www.reddit.com/r/Bitcoin/comments/1qtmfoa/i_have_finally_figured_out_why_btc_is_falling_hard/)**
 
-Bought more at 94K, then again yesterday at 78K. Hands made out Adamantium forged in the fires of the bedrock below the abyss. Spewed forth on the shore and raised by wolves, fed by bears and ate with the giants. I'll see y'all at the end of the year 🥂
+It's because I bought some
 
-11h ago
-
----
-
-**[Bitcoin ETFs Lose $1.5 Billion In A Week | BlackRock Contributes To $950M](https://www.reddit.com/r/Bitcoin/comments/1qtkhqj/bitcoin_etfs_lose_15_billion_in_a_week_blackrock/)**
-
-Spot crypto ETFs in the U.S. recorded one of their worst weeks. From Jan 26 to 30, 2026, spot Bitcoin ETFs bled $1.49 billion in net outflows.
-
-🔗 [Our Crypto Talk](https://web.ourcryptotalk.com/news/bitcoin-etfs-lose-one-and-a-half-billion) • 11h ago
+10h ago
 
 ---
 
@@ -105,15 +97,31 @@ Spot crypto ETFs in the U.S. recorded one of their worst weeks. From Jan 26 to 3
 
 Bitcoin has broken below the $75K level, a key psychological and technical zone. This breakdown increases downside risk in the short term and may keep overall market sentiment cautious. Key considerations: Loss of momentum above $75K weakens bullish structure Liquidity may be targeted at lower support levels Altcoins could remain under pressure if BTC dominance stays elevated Market reaction to ETF flows and macro data is critical Until Bitcoin reclaims $75K with strong volume, this move should be treated as a risk-off signal, not a dip-buy confirmation. What levels are you watching next?
 
-11h ago
+12h ago
 
 ---
 
-**[HODL HODL HODL HODL HODL HODL HODL HODL HODL HODL HODL HODL HODL HODL HODL HODL HODL HODL HODL HODL HODL HODL HODL HODL HODL](https://www.reddit.com/r/Bitcoin/comments/1qtns8s/hodl_hodl_hodl_hodl_hodl_hodl_hodl_hodl_hodl_hodl/)**
+**[All in at 110K](https://www.reddit.com/r/Bitcoin/comments/1qtk2r5/all_in_at_110k/)**
 
-HODLHODLHODLHODLHODLHODLHODLHODLHODLHODLHODLHODLHODLHODLHODLHODLHODLHODLHODLHODLHODLHODLHODLHODLHODLHODLHODLHODLHODLHODLHODLHODLHODLHODLHODLHODLHODLHODLHODLHODLHODLHODLHODLHODLHODLHODLHODLHODLHODLHODLHODLHODLHODLHODLHODLHODLHODLHODLHODLHODLHODLHODLHODLHODLHODLHODLHODLHODL
+Bought more at 94K, then again yesterday at 78K. Hands made out Adamantium forged in the fires of the bedrock below the abyss. Spewed forth on the shore and raised by wolves, fed by bears and ate with the giants. I'll see y'all at the end of the year 🥂
 
-8h ago
+12h ago
+
+---
+
+**[I’m a noob and I just spent my life savings on bitcoin](https://www.reddit.com/r/Bitcoin/comments/1qtvo94/im_a_noob_and_i_just_spent_my_life_savings_on/)**
+
+I’m 21 years old with a decent sales job and probably had around 30k hangin out in the bank account 4- days ago(before this crash) and I dumped basically all of it into bitcoin and now I’m a little bit worried. Thoughts? Opinions?
+
+2h ago
+
+---
+
+**[Bitcoin ETFs Lose $1.5 Billion In A Week | BlackRock Contributes To $950M](https://www.reddit.com/r/Bitcoin/comments/1qtkhqj/bitcoin_etfs_lose_15_billion_in_a_week_blackrock/)**
+
+Spot crypto ETFs in the U.S. recorded one of their worst weeks. From Jan 26 to 30, 2026, spot Bitcoin ETFs bled $1.49 billion in net outflows.
+
+🔗 [Our Crypto Talk](https://web.ourcryptotalk.com/news/bitcoin-etfs-lose-one-and-a-half-billion) • 12h ago
 
 ---
 
@@ -121,7 +129,7 @@ HODLHODLHODLHODLHODLHODLHODLHODLHODLHODLHODLHODLHODLHODLHODLHODLHODLHODLHODLHODL
 
 These prices are just to go to pass up on. Need to get my Roth involved
 
-10h ago
+11h ago
 
 ---
 
@@ -129,13 +137,7 @@ These prices are just to go to pass up on. Need to get my Roth involved
 
 But I see 25% discount plus more from the 100k. I feel in 5-10 years if btc ever crashes back to 100k from 200k+ people will see it as a good buying opportunity. DCA AND HODL for 5-10 years
 
-10h ago
-
----
-
-**[Explaining Bitcoin like I am 5 years old.... Get to 1 BTC.](https://www.reddit.com/r/Bitcoin/comments/1qtahxx/explaining_bitcoin_like_i_am_5_years_old_get_to_1/)**
-
-18h ago
+11h ago
 
 ---
 
@@ -151,7 +153,7 @@ Significant low volume node here at $73,200 - 74,200. Daily fair value gap $70,5
 
 Not sure, I can see btc break 75k and 70k support . Your opinions please?
 
-3h ago
+4h ago
 
 ---
 
@@ -159,23 +161,39 @@ Not sure, I can see btc break 75k and 70k support . Your opinions please?
 
 ## Google News: "bitcoin"
 
-**[Bitcoin is under pressure after a brutal week. Here's why](https://www.cnbc.com/2026/02/02/bitcoin-btc-price-today-cryptocurrency.html)**
+**['This is absolutely INSANE': Bitcoin’s weekend crash exposes the cracks beneath crypto’s latest boom](https://www.coindesk.com/markets/2026/02/01/this-is-absolutely-insane-bitcoin-s-weekend-crash-exposes-the-cracks-beneath-crypto-s-latest-boom)**
 
-Cryptocurrency markets fell as global equities and precious metals sold off while bitcoin liquidations exacerbated downside moves.
+Here is what happened this weekend and what it means for the crypto industry.
 
-CNBC • 4h ago
+CoinDesk • 13h ago
+
+---
+
+**[Erratic behavior in bitcoin, silver and memory stocks threatens to unnerve bull market](https://www.cnbc.com/2026/02/02/erratic-behavior-in-bitcoin-silver-and-memory-stocks-threatens-to-unnerve-bull-market.html)**
+
+For a broadly positive start to a year, though, there are a striking number of caveats, extremes and oddities for skeptics to invoke.
+
+CNBC • 2h ago
+
+---
+
+**[Bitcoin Selloff Knocks Strategy Stock](https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-02-02-2026/card/bitcoin-selloff-knocks-strategy-stock-NAipQNt3hkAEydQO4uFj?gaa_at=eafs&gaa_n=AWEtsqdODFPrRPeuxT0wJkBAAGwt27fOZVtgXtrq0AfYMhbaLNhiF62c-iXQ&gaa_ts=6980cd3e&gaa_sig=j9_k_zf6BW0UIcIxysJkxU2VbBleROX1mnwmYyQnVU6pc1XRi0gxIhxqSSSX0p4DVmlQ82kFnjaNMNrBNCoaXg%3D%3D)**
+
+The Wall Street Journal • 8h ago
+
+---
+
+**[Stock market today: Dow, S&P 500, Nasdaq whipsaw higher as gold, bitcoin see big swings amid earnings flood](https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-nasdaq-whipsaw-higher-as-gold-bitcoin-see-big-swings-amid-earnings-flood-002413129.html)**
+
+Wall Street is on edge after Friday's sharp reversal ahead of a week defined by Trump's Fed pick, jobs data and more Big Tech earnings.
+
+Yahoo Finance • 19m ago
 
 ---
 
 **[Michael Saylor’s High-Stakes Bitcoin Bet Faces Fresh Strain](https://www.bloomberg.com/news/articles/2026-02-02/michael-saylor-s-high-stakes-bitcoin-bet-faces-fresh-strain)**
 
-Bloomberg.com • 5h ago
-
----
-
-**[MSTR Stock Tumbles as Bitcoin Price Sinks. Strategy Is Doubling Dow on Its Bet.](https://www.barrons.com/articles/mstr-stock-price-strategy-bitcoin-microstrategy-633226b6?gaa_at=eafs&gaa_n=AWEtsqd6ntZRayjISkaeAesHRLYMuO2LO0HyPlOLqoyy0_Tk873GInqMe66r&gaa_ts=6980b434&gaa_sig=DxaYGVXM7e5-wjLhTfQlaVY2JDQK7CMgnuWu2dVy0XW7ohXSQWf6Eh0QTgtC0nKtD7PUnC_9k5p6HZ1i6ArDvw%3D%3D)**
-
-Barron's • 1h ago
+Bloomberg • 54m ago
 
 ---
 
@@ -183,29 +201,15 @@ Barron's • 1h ago
 
 It was a relatively small purchase for the company, which now holds 713,502 bitcoin purchased at an average price of $76,052 each versus the current price of about $77,000.
 
-CoinDesk • 1h ago
+CoinDesk • 2h ago
 
 ---
 
-**[U.S. stock futures fall after bitcoin’s weekend drop, as gold and silver’s sell-off may be bleeding into other markets](https://www.marketwatch.com/story/u-s-stock-futures-fall-along-with-bitcoin-and-oil-prices-21adfaf3?gaa_at=eafs&gaa_n=AWEtsqfRfJAE6EsHYiNwoGbJmp1DTTmhKXgSLCjON83DTVnj48CF__vGhnb0&gaa_ts=6980b434&gaa_sig=jQEYaEDulyhPO3z08CdRReYycQF3mHu6KP4F1VUP-Hh5EF0sf92Joeg0PU1017mC4xj8w4SFbqpTbIfepspAcA%3D%3D)**
+**[Strategy slides after bitcoin briefly dips below crypto firm's key breakeven level](https://www.cnbc.com/2026/02/02/strategy-slides-after-bitcoin-briefly-dips-below-crypto-firms-key-breakeven-level-.html)**
 
-MarketWatch • 15h ago
+Bitcoin fell as low as about $74,500 early Monday, dipping below Strategy's average purchase price of $76,052 per token.
 
----
-
-**[Futures lower; gold extends drop; Bitcoin ticks down - what’s moving markets](https://www.investing.com/news/economy-news/futures-lower-gold-extends-drop-bitcoin-ticks-down--whats-moving-markets-4477958)**
-
-Futures lower; gold extends drop; Bitcoin ticks down - what’s moving markets
-
-Investing.com • 5h ago
-
----
-
-**[S&P 500 futures fall to start week on bitcoin decline, Nvidia pullback: Live updates](https://www.cnbc.com/2026/02/01/stock-market-today-live-updates.html)**
-
-More than 100 S&P 500 companies are due to report this week, including Amazon, Alphabet and Disney.
-
-CNBC • 1h ago
+CNBC • 39m ago
 
 ---
 
@@ -217,19 +221,19 @@ The Block • 2d ago
 
 ---
 
+**[Bitcoin's Fall, Why Now Is The Time For A Contrarian-Long IBIT Play (NASDAQ:IBIT)](https://seekingalpha.com/article/4864811-bitcoins-fall-why-now-is-the-time-for-a-contrarian-long-ibit-play)**
+
+IBIT outperformed smaller tokens in 2026 despite Bitcoin's 12% YTD decline and a 38.5% drawdown from all-time highs. Read more on IBIT here.
+
+Seeking Alpha • 12h ago
+
+---
+
 **[The crypto industry used to store Bitcoin in Swiss vaults. Now one firm is using vaults to hold gold instead](https://fortune.com/2026/01/30/the-crypto-industry-used-to-store-bitcoin-in-swiss-vaults-now-one-firm-is-using-vaults-to-hold-gold-instead/)**
 
 The CEO of Tether called the bunker ‘a James Bond kind of place.’
 
 Fortune • 2d ago
-
----
-
-**[Bitcoin wipeout erases entire Trump-era gains](https://www.telegraph.co.uk/business/2026/02/01/bitcoin-wipeout-erases-entire-trump-era-gains/)**
-
-Cryptocurrency tumbles as US president fuels geopolitical uncertainty
-
-The Telegraph • 21h ago
 
 ---
 
@@ -239,7 +243,7 @@ The Telegraph • 21h ago
 
 **[Bitcoin Looks Set for Longest Monthly Losing Streak Since 2018](https://news.ycombinator.com/item?id=46838644)**
 
-⬆️ 69 • 💬 79 • 1d ago • [bloomberg.com](https://www.bloomberg.com/news/articles/2026-01-30/bitcoin-btc-slides-toward-longest-monthly-losing-streak-since-2018)
+⬆️ 69 • 💬 80 • 1d ago • [bloomberg.com](https://www.bloomberg.com/news/articles/2026-01-30/bitcoin-btc-slides-toward-longest-monthly-losing-streak-since-2018)
 
 ---
 
@@ -315,7 +319,7 @@ Seemed too good to be true.
 
 Death threats to them and family followed.
 
-⬆️ 2 • 💬 1 • 1h ago • [Bluesky Social](https://bsky.app/profile/gergely.pragmaticengineer.com/post/3mduva76yek27)
+⬆️ 3 • 💬 1 • 2h ago • [Bluesky Social](https://bsky.app/profile/gergely.pragmaticengineer.com/post/3mduva76yek27)
 
 ---
 
@@ -329,7 +333,7 @@ BYBIT: http://themoon.co/Bybit 10% DISCOUNT & $30000 BONUS Coinflare: https://th
 
 📺 The Moon Show
 
-👁️ 14K • 👍 935 • 💬 88 • ⏱️ 7:03 • 7h ago
+👁️ 14K • 👍 935 • 💬 88 • ⏱️ 7:03 • 8h ago
 
 ---
 
@@ -339,7 +343,7 @@ ClashPicks** Make Free Predictions on *ClashPicks* ▻ https://www.clashpicks.co
 
 📺 CryptosRUs
 
-👁️ 59K • 👍 3K • 💬 938 • ⏱️ 15:58 • 14h ago
+👁️ 59K • 👍 3K • 💬 938 • ⏱️ 15:58 • 15h ago
 
 ---
 
@@ -349,7 +353,7 @@ ClashPicks** Make Free Predictions on *ClashPicks* ▻ https://www.clashpicks.co
 
 📺 Savvy Finance
 
-👁️ 16K • 👍 493 • 💬 42 • ⏱️ 16:33 • 13h ago
+👁️ 16K • 👍 493 • 💬 42 • ⏱️ 16:33 • 14h ago
 
 ---
 
@@ -369,7 +373,7 @@ Bitcoin just dropped nearly 40% and the real reason has nothing to do with fear 
 
 📺 Simply Bitcoin
 
-👁️ 54K • 👍 3K • 💬 427 • ⏱️ 16:36 • 15h ago
+👁️ 54K • 👍 3K • 💬 427 • ⏱️ 16:36 • 16h ago
 
 ---
 
@@ -379,7 +383,7 @@ Bitcoin Just Confirmed a Bear Market Metals - I'm buying the dip Stocks need to 
 
 📺 Camel Finance
 
-👁️ 6K • 👍 674 • 💬 187 • ⏱️ 25:27 • 2h ago
+👁️ 6K • 👍 674 • 💬 187 • ⏱️ 25:27 • 3h ago
 
 ---
 
@@ -399,7 +403,7 @@ Follow me on X for my best content: http://www.X.com/AdamBLiv Transform Dormant 
 
 📺 Adam Livingston
 
-👁️ 9K • 👍 916 • 💬 166 • ⏱️ 18:34 • 16h ago
+👁️ 9K • 👍 916 • 💬 166 • ⏱️ 18:34 • 17h ago
 
 ---
 
@@ -409,7 +413,7 @@ FREE TRAINING: https://www.bullmania.com EXCHANGES I USE (bybit, pionex): https:
 
 📺 Ivan on Tech
 
-👁️ 17K • 👍 1K • 💬 128 • ⏱️ 46:08 • 5h ago
+👁️ 17K • 👍 1K • 💬 128 • ⏱️ 46:08 • 6h ago
 
 ---
 
@@ -419,7 +423,7 @@ WEEX: https://www.weex.com/events/promo/usdtgiveaway-v2?vipCode=00dt 25% FEE DIS
 
 📺 Crypto Rover
 
-👁️ 9K • 👍 628 • 💬 48 • ⏱️ 10:27 • 8h ago
+👁️ 9K • 👍 628 • 💬 48 • ⏱️ 10:27 • 9h ago
 
 ---
 

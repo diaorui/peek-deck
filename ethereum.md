@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-02-02T15:08:21.639849+00:00'
+updated: '2026-02-02T15:59:15.668088+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- cryptocurrency
 - social
-- news
 - videos
+- cryptocurrency
+- news
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** February 02, 2026 at 15:08 UTC  
+**Last Updated:** February 02, 2026 at 15:59 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -36,17 +36,17 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Price
 
-### $2,309.39
+### $2,369.46
 
 ---
 
 ## Ethereum Chart
 
-**24h:** -0.8%  
-**7d:** -23.8%  
-**30d:** -26.8%  
-**90d:** -32.7%  
-**1y:** -20.1%  
+**24h:** +2.7%  
+**7d:** -21.8%  
+**30d:** -24.7%  
+**90d:** -30.7%  
+**1y:** -17.8%  
 
 ---
 
@@ -76,23 +76,29 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 ---
 
-**[Two-layer governance](https://www.reddit.com/r/ethereum/comments/1qtndkm/twolayer_governance/)**
+**[How a premature software standard has led to billions in losses](https://www.reddit.com/r/ethereum/comments/1qtw9fe/how_a_premature_software_standard_has_led_to/)**
 
-Re https://firefly.social/post/x/2018205196568944653 I actually don't think it's complicated. IMO the future of onchain mechanism design is mostly going to fit into one pattern: [something that looks like a prediction market] -> [something that looks like a capture-resistant, non-financialized preference-setting gadget] In other words: One layer that is maximally open and maximizes accountability (it's a market, anyone can buy and sell, if you make good decisions you win money if you make bad decisions you lose money) One layer that is decentralized and pluralistic, and that maximizes space for intrinsic motivation. This cannot be token-based, because token owners are not pluralistic, and anyone can buy in and get 51% of them. Votes here should be anonymous, ideally MACI'd to reduce risk of collusion. The prediction market is the correct way to do a "decentralized executive", because the most logical primitive for "accountability" in a permissionless concept is exactly that. Though sometimes you will want to keep it simple, and do a centralized executive at that layer instead: [replaceable centralized executive] -> [something that looks like a capture-resistant, non-financialized preference-setting gadget] Thinking in these two layers explicitly: (i) what is doing your execution, (ii) what is doing your preference-setting and is judging the executor(s), is best.
-
-8h ago
+🔗 [hugo0.com](https://hugo0.com/blog/how-erc20-held-back-blockchain-payments-a-decade) • 1h ago
 
 ---
 
-**[Sold BTC into USDC (ERC20) now want to get back into BTC via WBTC. Best way to swap?](https://www.reddit.com/r/ethereum/comments/1qtmbfd/sold_btc_into_usdc_erc20_now_want_to_get_back/)**
+**[Two-layer governance](https://www.reddit.com/r/ethereum/comments/1qtndkm/twolayer_governance/)**
+
+Re https://firefly.social/post/x/2018205196568944653 I actually don't think it's complicated. IMO the future of onchain mechanism design is mostly going to fit into one pattern: [something that looks like a prediction market] -> [something that looks like a capture-resistant, non-financialized preference-setting gadget] In other words: One layer that is maximally open and maximizes accountability (it's a market, anyone can buy and sell, if you make good decisions you win money if you make bad decisions you lose money) One layer that is decentralized and pluralistic, and that maximizes space for intrinsic motivation. This cannot be token-based, because token owners are not pluralistic, and anyone can buy in and get 51% of them. Votes here should be anonymous, ideally MACI'd to reduce risk of collusion. The prediction market is the correct way to do a "decentralized executive", because the most logical primitive for "accountability" in a permissionless concept is exactly that. Though sometimes you will want to keep it simple, and do a centralized executive at that layer instead: [replaceable centralized executive] -> [something that looks like a capture-resistant, non-financialized preference-setting gadget] Thinking in these two layers explicitly: (i) what is doing your execution, (ii) what is doing your preference-setting and is judging the executor(s), is best.
 
 9h ago
 
 ---
 
+**[Sold BTC into USDC (ERC20) now want to get back into BTC via WBTC. Best way to swap?](https://www.reddit.com/r/ethereum/comments/1qtmbfd/sold_btc_into_usdc_erc20_now_want_to_get_back/)**
+
+10h ago
+
+---
+
 **[Where can I sell an unused gift card for crypto?](https://www.reddit.com/r/ethereum/comments/1qtu5js/where_can_i_sell_an_unused_gift_card_for_crypto/)**
 
-2h ago
+3h ago
 
 ---
 
@@ -134,14 +140,6 @@ World News, Stories By EtherWorld, Technical Explainers, Client News & Updates, 
 
 ---
 
-**[I am personally allocating 16,384 ETH to support full-stack open-source security and verifiability.](https://www.reddit.com/r/ethereum/comments/1qqzw02/i_am_personally_allocating_16384_eth_to_support/)**
-
-In these five years, the Ethereum Foundation is entering a period of mild austerity, in order to be able to simultaneously meet two goals: Deliver on an aggressive roadmap that ensures Ethereum's status as a performant and scalable world computer that does not compromise on robustness, sustainability and decentralization. Ensures the Ethereum Foundation's own ability to sustain into the long term, and protect Ethereum's core mission and goals, including both the core blockchain layer as well as users' ability to access and use the chain with self-sovereignty, security and privacy. To this end, my own share of the austerity is that I am personally taking on responsibilities that might in another time have been "special projects" of the EF. Specifically, we are seeking the existence of an open-source, secure and verifiable full stack of software and hardware that can protect both our personal lives and our public environments ( see https://vitalik.eth.limo/general/2025/09/24/openness_and_verifiability.html ). This includes applications such as finance, communication and governance, blockchains, operating systems, secure hardware, biotech (including both personal and public health), and more. If you have seen the Vensa announcement (seeking to make open silicon a commercially viable reality at least for security-critical applications), the ucritter.com including recent versions with built in ZK + FHE + differential-privacy features, the air quality work, my donations to encrypted messaging apps, my own enthusiasm and use for privacy-preserving, walkaway-test-friendly and local-first software (including operating systems), then you know the general spirit of what I am planning to support. For this reason I have just withdrawn 16,384 ETH, which will be deployed toward these goals over the next few years. I am also exploring secure decentralized staking options that will allow even more capital from staking rewards to be put toward these goals in the long term. Ethereum itself is an indispensable part of the "full-stack openness and verifiability" vision. The Ethereum Foundation will continue with a steadfast focus on developing Ethereum, with that goal in mind. "Ethereum everywhere" is nice, but the primary priority is "Ethereum for people who need it". Not corposlop, but self-sovereignty, and the baseline infrastructure that enables cooperation without domination. In a world where many people's default mindset is that we need to race to become a big strong bully, because otherwise the existing big strong bullies will eat you first, this is the needed alternative. It will involve much more than technology to succeed, but the technical layer is something which is in our control to make happen. The tools to ensure your, and your community's, autonomy and safety, as a basic right that belongs to everyone. Open not in a bullshit "open means everyone has the right to buy it from us and use our API for $200/month" way, but actually open, and secure and verifiable so that you know that your technology is working for you.
-
-3d ago
-
----
-
 ---
 
 ## Google News: "ethereum"
@@ -154,43 +152,11 @@ CoinDesk • 1d ago
 
 ---
 
-**[Ethereum Founder Vitalik Buterin Made $70K Betting Against 'Crazy Mode' on Polymarket](https://decrypt.co/356483/vitalik-buterin-made-70k-betting-against-crazy-mode-polymarket)**
+**[Crypto Crash: Liquidations Top $2.5 Billion as Bitcoin, Ethereum and XRP Prices Plummet](https://decrypt.co/356557/crypto-crash-liquidations-2-5-billion-bitcoin-ethereum-xrp-plummet)**
 
-The Ethereum founder claims his strategy of betting against extreme market sentiment ‘usually makes money’ on Polymarket.
+The crypto market's recent decline only accelerated Saturday, with Bitcoin falling to nearly $77,000 as liquidations piled up.
 
-Decrypt • 21h ago
-
----
-
-**[Ethereum Falls 10% In Rout](https://www.investing.com/news/cryptocurrency-news/ethereum-falls-10-in-rout-4477776)**
-
-Ethereum Falls 10% In Rout
-
-Investing.com • 11h ago
-
----
-
-**[BitMine Immersion Can’t Stop Buying Ethereum as Crypto Prices Tank](https://finance.yahoo.com/news/bitmine-immersion-t-stop-buying-204823044.html)**
-
-BitMine Immersion continues to accumulate Ethereum amid price declines, following a treasury strategy inspired by Strategy.
-
-Yahoo Finance • 2d ago
-
----
-
-**[Tom Lee’s BitMine is now down $6 billion on Ethereum (ether) bets](https://www.coindesk.com/markets/2026/02/01/bitmine-s-ether-bet-is-now-usd6-billion-in-paper-loss)**
-
-The firm’s recent ETH purchases came just ahead of a sharp market slide, pushing unrealized losses past $6 billion as liquidity thinned and liquidations picked up.
-
-CoinDesk • 1d ago
-
----
-
-**[BitMine Immersion Wrestles With Ethereum Losses Concentration Risk And Leadership Shift](https://finance.yahoo.com/news/bitmine-immersion-wrestles-ethereum-losses-110825271.html)**
-
-BitMine Immersion Technologies (NYSEAM:BMNR) reports over US$6b in unrealized losses tied to rapid Ethereum accumulation and staking activity. The company has pursued an Ethereum heavy treasury approach, concentrating its exposure in a single crypto asset. President Erik Nelson has left the company during this period of financial strain, marking a significant leadership transition. These developments raise questions about BMNR's risk tolerance, treasury management approach, and future...
-
-Yahoo Finance • 3h ago
+Decrypt • 1d ago
 
 ---
 
@@ -202,7 +168,39 @@ The Motley Fool • 1h ago
 
 ---
 
-**[Bitcoin, XRP, Ethereum Fall on News of Kevin Warsh Fed Appointment.](https://www.barrons.com/articles/bitcoin-xrp-ethereum-crypto-today-954298d9?gaa_at=eafs&gaa_n=AWEtsqd7zJWWBFjnFF6fHBbbrgti_4nmj5DH_FzUfA-pB1cXAXy4ZIrrSYqW&gaa_ts=6980b437&gaa_sig=6lrB7OOdsNvkEYOojov_hKLV7UYpkyNyW9mresAGkcpzCDduoLX6tOPC3antONtW_ekrXASLmlLT1z0OyCbDLA%3D%3D)**
+**[2 Reasons to Buy Ethereum Before July 2026](https://www.theglobeandmail.com/investing/markets/markets-news/Motley%20Fool/37354573/2-reasons-to-buy-ethereum-before-july-2026/)**
+
+Motley Fool Press Release.
+
+The Globe and Mail • 5h ago
+
+---
+
+**[2 Reasons to Buy Ethereum Before July 2026](https://www.fool.com/investing/2026/02/02/2-reasons-to-buy-ethereum-before-july-2026/)**
+
+Ethereum may be down, but it's not out. It could soar almost 50% based on two key catalysts.
+
+The Motley Fool • 5h ago
+
+---
+
+**[BitMine Immersion Can’t Stop Buying Ethereum as Crypto Prices Tank](https://finance.yahoo.com/news/bitmine-immersion-t-stop-buying-204823044.html)**
+
+BitMine Immersion continues to accumulate Ethereum amid price declines, following a treasury strategy inspired by Strategy.
+
+Yahoo Finance • 2d ago
+
+---
+
+**[Ethereum Falls 10% In Rout](https://www.investing.com/news/cryptocurrency-news/ethereum-falls-10-in-rout-4477776)**
+
+Ethereum Falls 10% In Rout
+
+Investing.com • 12h ago
+
+---
+
+**[Bitcoin, XRP, Ethereum Fall on News of Kevin Warsh Fed Appointment.](https://www.barrons.com/articles/bitcoin-xrp-ethereum-crypto-today-954298d9?gaa_at=eafs&gaa_n=AWEtsqfgyEVMvu69WskGhsUmC66woVtWec9eMvzX_L3XpSfq1D-J4r6CnY86&gaa_ts=6980cd40&gaa_sig=ly0ZNTFz4KuwSQR1i-bGjIRILroZm9z7hPupHA2wtDZarkBjNdtrVONb8MzNx4sRYPycE7cN5SCJTnWobC2SVw%3D%3D)**
 
 Barron's • 2d ago
 
@@ -216,11 +214,11 @@ thedefiant.io • 2d ago
 
 ---
 
-**[Ethereum Price Prediction: $2,400 Crash Opens $1,435 Risk](https://coinpaper.com/14198/ethereum-price-prediction-2-400-crash-opens-1-435-risk)**
+**[A sudden shift in Ethereum staking is draining billions from exchanges toward a new corporate elite](https://cryptoslate.com/how-staking-turned-ethereum-into-a-treasury-trade/)**
 
-ETH plunges to $2,400 after heavy liquidations, with analysts warning a deeper move toward $1,435 is possible.
+Corporate Ethereum treasuries use staking to earn additional ETH, turning reserves into a compounding strategy instead of passive exposure.
 
-Coinpaper • 1d ago
+CryptoSlate • 21h ago
 
 ---
 
@@ -234,7 +232,7 @@ This video provides a professional Elliott Wave and technical analysis of Ethere
 
 📺 More Crypto Online
 
-👁️ 1K • 👍 127 • 💬 3 • ⏱️ 4:10 • 2h ago
+👁️ 1K • 👍 127 • 💬 3 • ⏱️ 4:10 • 3h ago
 
 ---
 
@@ -244,7 +242,7 @@ FREE TRAINING: https://www.bullmania.com EXCHANGES I USE (bybit, pionex): https:
 
 📺 Ivan on Tech
 
-👁️ 17K • 👍 1K • 💬 128 • ⏱️ 46:08 • 5h ago
+👁️ 17K • 👍 1K • 💬 128 • ⏱️ 46:08 • 6h ago
 
 ---
 
@@ -254,7 +252,7 @@ FREE Daily On-Chain Analysis & Crypto News In 5-Mins: http://bit.ly/TheCryptoNut
 
 📺 Library Of Wealth
 
-👁️ 5K • 👍 132 • 💬 276 • ⏱️ 15:18 • 9h ago
+👁️ 5K • 👍 132 • 💬 276 • ⏱️ 15:18 • 10h ago
 
 ---
 
@@ -264,7 +262,7 @@ ETHEREUM ETH PRICE PREDICTION 2026 Join the Premium Signal Group for trade setup
 
 📺 Cilinix Crypto
 
-👁️ 267 • 👍 12 • 💬 3 • ⏱️ 5:10 • 4h ago
+👁️ 267 • 👍 12 • 💬 3 • ⏱️ 5:10 • 5h ago
 
 ---
 
@@ -284,7 +282,7 @@ My FREE Daily 5-Min Crypto Newsletter: https://www.cryptonutshell.com/subscribe 
 
 📺 Crypto Nutshell
 
-👁️ 21K • 👍 800 • 💬 150 • ⏱️ 21:16 • 23h ago
+👁️ 21K • 👍 800 • 💬 150 • ⏱️ 21:16 • 1d ago
 
 ---
 
@@ -294,7 +292,7 @@ Join UpTrade today - Your personal crypto broker: https://www.uptrade.au/ My FRE
 
 📺 Crypto Nutshell
 
-👁️ 19K • 👍 525 • 💬 84 • ⏱️ 16:36 • 1d ago
+👁️ 19K • 👍 525 • 💬 84 • ⏱️ 16:36 • 2d ago
 
 ---
 
@@ -314,7 +312,7 @@ FREE TRAINING: https://www.bullmania.com EXCHANGES I USE (bybit, pionex): https:
 
 📺 Ivan on Tech
 
-👁️ 23K • 👍 2K • 💬 136 • ⏱️ 45:22 • 20h ago
+👁️ 23K • 👍 2K • 💬 136 • ⏱️ 45:22 • 21h ago
 
 ---
 
