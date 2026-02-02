@@ -3,14 +3,14 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-02-02T06:04:22.148205+00:00'
+updated: '2026-02-02T07:33:40.598990+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- social
 - news
 - repositories
+- social
 - videos
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 AI news, discussions, and developments
 
-**Last Updated:** February 02, 2026 at 06:04 UTC  
+**Last Updated:** February 02, 2026 at 07:33 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -41,7 +41,7 @@ AI news, discussions, and developments
 
 India's latest budget mentions AI 11 times - highest ever. Key commitments: $90B data centre investments Tax holiday till 2047 for cloud providers Semiconductor Mission 2.0 for domestic chips Policy preference for "smaller, sector-specific models" 890+ GenAI startups active now, deep-tech funding up 78%. Analysis: https://onllm.dev/blog/3-budget-2026
 
-4h ago
+5h ago
 
 ---
 
@@ -49,7 +49,7 @@ India's latest budget mentions AI 11 times - highest ever. Key commitments: $90B
 
 For years we have watched and read stories about evil Ai's and the threats they may pose, with AI characters such as Ultron, AM, HAL 9000, the Matrix etc. looking to kill/exploit humanity. There are countless stories with these kinds of villains. But we have also had good AI characters, including Data from Star Trek, WALL-E, Baymax, C3PO, Marvin the Paranoid Android. How do you think these depictions of AI in popular media is affecting the AI systems we are making today?
 
-7h ago
+8h ago
 
 ---
 
@@ -57,7 +57,7 @@ For years we have watched and read stories about evil Ai's and the threats they 
 
 The comment follows reports that the rocket maker is weighing a transaction that could further consolidate Musk’s space and AI ventures.
 
-🔗 [TESLARATI](https://www.teslarati.com/rumored-spacex-xai-merger-gets-apparent-confirmation-from-elon-musk/) • 19h ago
+🔗 [TESLARATI](https://www.teslarati.com/rumored-spacex-xai-merger-gets-apparent-confirmation-from-elon-musk/) • 21h ago
 
 ---
 
@@ -73,7 +73,7 @@ What moltbook is So essentially There is this open source AI bot called openclaw
 
 I subscribe to a few AI podcasts, but I wanted to know of any others that you can recommend. Not looking for anything too deep, in fact, prefer the ones that are lighter and an easy listen or watch. let me know your faves.
 
-12h ago
+14h ago
 
 ---
 
@@ -81,7 +81,7 @@ I subscribe to a few AI podcasts, but I wanted to know of any others that you ca
 
 So I just spent the better part of my Sunday asking Gemini to create an alternative reality where america existed in the same time as ancient Europe. I asked how Athens and Sparta would react if we just showed up with American fruits and vegetables. How the potato alone would revolutionize agriculture. I asked how they would react to our culture and everything you can think of. I learned that athens would love us. They'd be particularly fascinated with our bonds with animals. Sparta would want to destroy us and shut down like north korea but they'd secretly get ideas and probably try and domesticate wolves. Romans would want to dress us up in togas. All joking aside, I feel like I got a deep understanding of the culture and personal perspective of each ancient civilization. Imagine schools creating scenarios in AI where you have to negotiate peace talks between Rome and Carthage. Find common ground between Athens and Sparta. Debate ethics and law in the roman Senate. It would make history fun and engaging. What is everyone else's thoughts on this?
 
-3h ago
+4h ago
 
 ---
 
@@ -89,7 +89,15 @@ So I just spent the better part of my Sunday asking Gemini to create an alternat
 
 The b4 tool used by Linux kernel developers to help manage their patch workflow around contributions to the Linux kernel has been seeing work on a text user interface to help with AI agent assisted code reviews
 
-🔗 [phoronix.com](https://www.phoronix.com/news/Linux-b4-Tool-Dog-Feeding-AI) • 11h ago
+🔗 [phoronix.com](https://www.phoronix.com/news/Linux-b4-Tool-Dog-Feeding-AI) • 13h ago
+
+---
+
+**[Is GPT getting downgraded for free users or just gemini getting better?](https://www.reddit.com/r/artificial/comments/1qsvas4/is_gpt_getting_downgraded_for_free_users_or_just/)**
+
+So I was using LLM for studying advance language/framework/design topics. Whenever I have some question I would try on GPT but it will always give me answer in points no matter what prompt I try or create a separate workbook with new memory. It will always give me answer in small basic points. I wanted to learn topics in depth but it just refuses to give me better indepth answer just everything in basic points. Gemini sometimes is not able to understand context but the answer quality is just amazing and everything is in just depth, it uses points also but they are much better explained than GPT. Also the free version limit is just getting frustrating now in GPT and extremely long wait time for images, it has gotten so bad that I never though I would completely uninstall GPT and prefer gemini over it.
+
+20h ago
 
 ---
 
@@ -101,19 +109,11 @@ SpaceX's filing claims these satellites will be “a first step towards becoming
 
 ---
 
-**[Is GPT getting downgraded for free users or just gemini getting better?](https://www.reddit.com/r/artificial/comments/1qsvas4/is_gpt_getting_downgraded_for_free_users_or_just/)**
-
-So I was using LLM for studying advance language/framework/design topics. Whenever I have some question I would try on GPT but it will always give me answer in points no matter what prompt I try or create a separate workbook with new memory. It will always give me answer in small basic points. I wanted to learn topics in depth but it just refuses to give me better indepth answer just everything in basic points. Gemini sometimes is not able to understand context but the answer quality is just amazing and everything is in just depth, it uses points also but they are much better explained than GPT. Also the free version limit is just getting frustrating now in GPT and extremely long wait time for images, it has gotten so bad that I never though I would completely uninstall GPT and prefer gemini over it.
-
-19h ago
-
----
-
 **[AI suckz lmao](https://www.reddit.com/r/artificial/comments/1qtmevs/ai_suckz_lmao/)**
 
 (Drops mic and leaves to never return)
 
-34m ago
+2h ago
 
 ---
 
@@ -121,9 +121,17 @@ So I was using LLM for studying advance language/framework/design topics. Whenev
 
 ## Google News: "ai"
 
+**[Did artificial intelligence really drive layoffs at Amazon and other firms? It can be hard to tell](https://www.10tv.com/article/syndication/associatedpress/did-artificial-intelligence-really-drive-layoffs-at-amazon-and-other-firms-it-can-be-hard-to-tell/616-55f81d7a-21e9-4653-bf54-5f9eb844f6b4)**
+
+When Amazon announced it was cutting 16,000 corporate jobs, many assumed it was the latest phase of CEO Andy Jassy’s push to reduce the corporate workforce as AI...
+
+10tv.com • 9h ago
+
+---
+
 **[Did A.I. Take Your Job? Or Was Your Employer ‘A.I.-Washing’?](https://www.nytimes.com/2026/02/01/business/layoffs-ai-washing.html)**
 
-The New York Times • 20h ago
+The New York Times • 21h ago
 
 ---
 
@@ -131,53 +139,7 @@ The New York Times • 20h ago
 
 How many of the companies with recent layoffs are just using AI as an excuse?
 
-TechCrunch • 7h ago
-
----
-
-**[Did artificial intelligence really drive layoffs at Amazon and other firms? It can be hard to tell](https://www.newsday.com/business/ai-job-impacts-layoffs-amazon-pinterest-dow-q85968)**
-
-When Amazon announced it was cutting 16,000 corporate jobs, many assumed it was the latest phase of CEO Andy Jassy's push to reduce the corporate workforce as AI brings more efficiency gains.
-
-Newsday • 3m ago
-
----
-
-**["We're in the singularity": New AI platform skips the humans entirely](https://www.axios.com/2026/01/31/ai-moltbook-human-need-tech)**
-
-It's not science fiction. It's happening right now — and it's freaking out some of the smartest names in artificial intelligence.
-
-Axios • 1d ago
-
----
-
-**[Artificial Intelligence (AI) Could Deliver Another Decade of Growth. This Stock Is a Prime Candidate to Be a Winner.](https://www.fool.com/investing/2026/02/01/artificial-intelligence-ai-growth-stock-winner-tsm/)**
-
-Taiwan Semiconductor Manufacturing looks like an AI top performer.
-
-The Motley Fool • 9h ago
-
----
-
-**[Asia stocks tumble amid AI jitters on Wall St; KOSPI plunges 5%](https://www.investing.com/news/stock-market-news/asia-stocks-tumble-amid-ai-jitters-on-wall-st-kospi-plunges-5-4477781)**
-
-Asia stocks tumble amid AI jitters on Wall St; KOSPI plunges 5%
-
-Investing.com • 1h ago
-
----
-
-**[AI Fever Propels Taiwan’s Rise Over China in EM Stocks Benchmark](https://www.bloomberg.com/news/articles/2026-02-02/ai-fever-propels-taiwan-s-rise-over-china-in-em-stocks-benchmark)**
-
-Bloomberg.com • 1h ago
-
----
-
-**[Microsoft’s $381 Billion Rout Exposes Dark Side of the AI Binge](https://finance.yahoo.com/news/microsoft-381-billion-rout-exposes-140007699.html)**
-
-Microsoft Corp. reported solid earnings on Wednesday, but investors zeroed in on stagnating growth in its Azure cloud-computing business and the more than $100 billion it’s expected to dole out in capital spending this year.  When all was said and done, Microsoft posted its worst week since March 2020.  “In a normal world, these results would be pretty good, but in the backdrop of the scale of spending, with things priced for perfection, you really have to hit your marks,” said Josh Chastant, portfolio manager of public investments at GuideStone Funds, which owns a stake in Microsoft.
-
-Yahoo Finance • 16h ago
+TechCrunch • 9h ago
 
 ---
 
@@ -185,15 +147,51 @@ Yahoo Finance • 16h ago
 
 You can buy an AI version of your lost loved one. But should you?
 
-The Atlantic • 17h ago
+The Atlantic • 19h ago
 
 ---
 
-**[China’s genius plan to win the AI race is already paying off](https://www.ft.com/content/68f60392-88bf-419c-96c7-c3d580ec9d97)**
+**[What is Moltbook? The strange new social media site for AI bots](https://www.theguardian.com/technology/2026/feb/02/moltbook-ai-agents-social-media-site-bots-artificial-intelligence)**
 
-A network of ultra-competitive high-school talent streams has been turning out the leading lights of science and tech
+A bit like Reddit for artificial intelligence, Moltbook allows AI agents – bots built by humans – to post and interact with each other. People are allowed as observers only
 
-Financial Times • 2d ago
+The Guardian • 1h ago
+
+---
+
+**[Alibaba to spend $431 million for Lunar New Year AI push as chatbot war heats up](https://www.reuters.com/business/media-telecom/alibaba-spend-431-million-lunar-new-year-ai-push-chatbot-war-heats-up-2026-02-02/)**
+
+Reuters • 1h ago
+
+---
+
+**[AI 'slop' is transforming social media - and there's a backlash](https://www.bbc.com/news/articles/c9wx2dz2v44o)**
+
+Social media has been flooded with fake, AI-generated images and videos. But will the majority of users actually care?
+
+BBC • 39m ago
+
+---
+
+**[Microsoft’s $381 Billion Rout Exposes Dark Side of the AI Binge](https://finance.yahoo.com/news/microsoft-381-billion-rout-exposes-140007699.html)**
+
+Microsoft Corp. reported solid earnings on Wednesday, but investors zeroed in on stagnating growth in its Azure cloud-computing business and the more than $100 billion it’s expected to dole out in capital spending this year.  When all was said and done, Microsoft posted its worst week since March 2020.  “In a normal world, these results would be pretty good, but in the backdrop of the scale of spending, with things priced for perfection, you really have to hit your marks,” said Josh Chastant, portfolio manager of public investments at GuideStone Funds, which owns a stake in Microsoft.
+
+Yahoo Finance • 17h ago
+
+---
+
+**[AI-altered photos and videos of Minneapolis shootings blur reality](https://www.nbcnews.com/tech/tech-news/ai-altered-photos-videos-minneapolis-shootings-blur-reality-rcna256552)**
+
+Social media users are trying to use AI to get clearer images and videos of the Minneapolis shootings but are instead misleading millions.
+
+NBC News • 21h ago
+
+---
+
+**[AI’s Fundraising Frenzy Continues](https://www.wsj.com/tech/ai/ais-fundraising-frenzy-continues-911af613?gaa_at=eafs&gaa_n=AWEtsqcnzvcpJnJbmoOAUdy0xx3xF6TASTMu4TgLT9wb_XZxvdkNv2t-_xCI&gaa_ts=698056ba&gaa_sig=yyhmqBwNdPqs7g3GRYl6Y5L8jpxsLMT-fSqApXDqPvPS0cHZZFoK2euKsvdW0P0T409LSuP9DyKUdrfDWyjBDw%3D%3D)**
+
+The Wall Street Journal • 16h ago
 
 ---
 
@@ -201,19 +199,11 @@ Financial Times • 2d ago
 
 ## HackerNews: "ai"
 
-**[How AI impacts skill formation](https://news.ycombinator.com/item?id=46821360)**
-
-AI assistance produces significant productivity gains across professional domains, particularly for novice workers. Yet how this assistance affects the development of skills required to effectively supervise AI remains unclear. Novice workers who rely heavily on AI to complete unfamiliar tasks may compromise their own skill acquisition in the process. We conduct randomized experiments to study how developers gained mastery of a new asynchronous programming library with and without the assistance of AI. We find that AI use impairs conceptual understanding, code reading, and debugging abilities, without delivering significant efficiency gains on average. Participants who fully delegated coding tasks showed some productivity improvements, but at the cost of learning the library. We identify six distinct AI interaction patterns, three of which involve cognitive engagement and preserve learning outcomes even when participants receive AI assistance. Our findings suggest that AI-enhanced productivity is not a shortcut to competence and AI assistance should be carefully adopted into workflows to preserve skill formation -- particularly in safety-critical domains.
-
-⬆️ 234 • 💬 5 • 2d ago • [arXiv.org](https://arxiv.org/abs/2601.20245)
-
----
-
 **[Generative AI and Wikipedia editing: What we learned in 2025](https://news.ycombinator.com/item?id=46840924)**
 
 Like many organizations, Wiki Education has grappled with generative AI, its impacts, opportunities, and threats, for several years. As an organization that runs large-scale programs to bring new e…
 
-⬆️ 232 • 💬 115 • 1d ago • [Wiki Education](https://wikiedu.org/blog/2026/01/29/generative-ai-and-wikipedia-editing-what-we-learned-in-2025/)
+⬆️ 233 • 💬 115 • 1d ago • [Wiki Education](https://wikiedu.org/blog/2026/01/29/generative-ai-and-wikipedia-editing-what-we-learned-in-2025/)
 
 ---
 
@@ -233,6 +223,14 @@ Contribute to amlalabs/amla-sandbox development by creating an account on GitHub
 
 ---
 
+**[Two kinds of AI users are emerging](https://news.ycombinator.com/item?id=46850588)**
+
+A bifurcation is happening in AI adoption - power users shipping products in days versus everyone else generating meeting agendas. Enterprise tool choices are accelerating the divide.
+
+⬆️ 135 • 💬 122 • 7h ago • [Martin Alderson](https://martinalderson.com/posts/two-kinds-of-ai-users-are-emerging/)
+
+---
+
 **[I trapped an AI model inside an art installation (2025) [video]](https://news.ycombinator.com/item?id=46830523)**
 
 Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.
@@ -241,19 +239,11 @@ Enjoy the videos and music you love, upload original content, and share it all w
 
 ---
 
-**[Two kinds of AI users are emerging](https://news.ycombinator.com/item?id=46850588)**
-
-A bifurcation is happening in AI adoption - power users shipping products in days versus everyone else generating meeting agendas. Enterprise tool choices are accelerating the divide.
-
-⬆️ 99 • 💬 92 • 6h ago • [Martin Alderson](https://martinalderson.com/posts/two-kinds-of-ai-users-are-emerging/)
-
----
-
 **[Show HN: Zuckerman – minimalist personal AI agent that self-edits its own code](https://news.ycombinator.com/item?id=46846210)**
 
 Ultra-minimal personal AI agent: starts small, self-modifies its code live, adapts by writing exactly the code & features you need - zuckermanai/zuckerman
 
-⬆️ 68 • 💬 48 • 16h ago • [GitHub](https://github.com/zuckermanai/zuckerman)
+⬆️ 68 • 💬 48 • 17h ago • [GitHub](https://github.com/zuckermanai/zuckerman)
 
 ---
 
@@ -281,6 +271,12 @@ We’re in new paradigm territory with generative AI. A lot of commentary falls 
 
 ---
 
+**[Videogame stocks slide after Google's Project Genie AI model release](https://news.ycombinator.com/item?id=46828482)**
+
+⬆️ 42 • 💬 53 • 2d ago • [reuters.com](https://www.reuters.com/business/videogame-stocks-slide-googles-ai-model-that-turns-prompts-into-playable-worlds-2026-01-30/)
+
+---
+
 ---
 
 ## YouTube Videos: "ai"
@@ -291,7 +287,17 @@ A new AI platform called Moltbook suddenly exploded online, and it is built enti
 
 📺 AI Revolution
 
-👁️ 11K • 👍 755 • 💬 141 • ⏱️ 11:48 • 6h ago
+👁️ 18K • 👍 1K • 💬 176 • ⏱️ 11:48 • 8h ago
+
+---
+
+**[AI Memory Just Changed Everything: The 2026 Breakthrough (And What to Know About the Clawdbot Moltbo](https://www.youtube.com/watch?v=uxMu0K1aXQQ)**
+
+Try Abacus AI Deep Agent: https://firstmovers.ai/DeepAgent* *AI just crossed a line in 2026.* Not with bigger models — but with ...
+
+📺 Julia McCoy
+
+👁️ 22K • 👍 1K • 💬 113 • ⏱️ 18:59 • 16h ago
 
 ---
 
@@ -301,67 +307,7 @@ Detailed sources: ...
 
 📺 Species | Documenting AGI
 
-👁️ 149K • 👍 11K • 💬 2K • ⏱️ 18:06 • 1d ago
-
----
-
-**[Why the Smartest AI Bet Right Now Has Nothing to Do With AI (It&#39;s Not What You Think)](https://www.youtube.com/watch?v=pxuXV3Q6tGY)**
-
-My site: https://natebjones.com Full Story w/ Prompts: ...
-
-📺 AI News & Strategy Daily | Nate B Jones
-
-👁️ 27K • 👍 1K • 💬 234 • ⏱️ 23:24 • 11h ago
-
----
-
-**[AI Is Talking to Itself While Humans Watch: Behind The Internet’s Strangest VIRAL Social Network](https://www.youtube.com/watch?v=eEw0lutVQb0)**
-
-A new platform called Moltbook is going viral — and it's not built for humans. It's a social network where AI agents create accounts, ...
-
-📺 Mint
-
-👁️ 10K • 👍 106 • 💬 22 • ⏱️ 3:25 • 1d ago
-
----
-
-**[State of AI in 2026: LLMs, Coding, Scaling Laws, China, Agents, GPUs, AGI | Lex Fridman Podcast #490](https://www.youtube.com/watch?v=EV7WhVT270Q)**
-
-Nathan Lambert and Sebastian Raschka are machine learning researchers, engineers, and educators. Nathan is the post-training ...
-
-📺 Lex Fridman
-
-👁️ 281K • 👍 7K • 💬 497 • ⏱️ 4:25:13 • 1d ago
-
----
-
-**[AI Just Made 15 Discoveries We Never Expected](https://www.youtube.com/watch?v=1v4QIHZKEl0)**
-
-Flash Sale Week: Up to 50% OFF + 365 days of ZERO credits on NanoBanana Pro, Midjourney v7, Kling & more ...
-
-📺 Future Business Tech
-
-👁️ 30K • 👍 865 • 💬 37 • ⏱️ 23:14 • 1d ago
-
----
-
-**[STOP Paying! 2 AI Video Generators That Are Actually FREE](https://www.youtube.com/watch?v=5mEWY6-qROo)**
-
-Get the FREE PDF (links + prompts) → https://discord.gg/6aV3ps7tB2 STOP overpaying for AI video. In this video I'll show you 2 ...
-
-📺 Malva AI
-
-👁️ 27K • 👍 1K • 💬 343 • ⏱️ 7:42 • 2d ago
-
----
-
-**[Moltbook, the Agent Social Nework, is the Craziest AI Phenomena Yet](https://www.youtube.com/watch?v=TibOeou4cIg)**
-
-OpenClaw (formerly ClaudeBot) demonstrates emergent agent capabilities like autonomous voice, 24/7 task automation, and ...
-
-📺 The AI Daily Brief: Artificial Intelligence News
-
-👁️ 125K • 👍 4K • 💬 768 • ⏱️ 21:12 • 2d ago
+👁️ 158K • 👍 12K • 💬 2K • ⏱️ 18:06 • 1d ago
 
 ---
 
@@ -371,17 +317,67 @@ Get Your FREE AI Company Operating System here: https://go.danmartell.com/3NKZDu
 
 📺 Dan Martell
 
-👁️ 83K • 👍 3K • 💬 668 • ⏱️ 18:48 • 2d ago
+👁️ 86K • 👍 3K • 💬 738 • ⏱️ 18:48 • 2d ago
 
 ---
 
-**[My AI Song Accidentally Went Viral...](https://www.youtube.com/watch?v=_cXu7_UFxNk)**
+**[AI Just Made 15 Discoveries We Never Expected](https://www.youtube.com/watch?v=1v4QIHZKEl0)**
 
-My AI song 'Isugaku Never Say Goodbye' has officially gone viral… What the BALLS is going on!!? Try Rocket Money for FREE or ...
+Flash Sale Week: Up to 50% OFF + 365 days of ZERO credits on NanoBanana Pro, Midjourney v7, Kling & more ...
 
-📺 Steve Terreberry
+📺 Future Business Tech
 
-👁️ 194K • 👍 15K • 💬 2K • ⏱️ 15:27 • 1d ago
+👁️ 32K • 👍 904 • 💬 38 • ⏱️ 23:14 • 1d ago
+
+---
+
+**[Moltbook, the Agent Social Nework, is the Craziest AI Phenomena Yet](https://www.youtube.com/watch?v=TibOeou4cIg)**
+
+OpenClaw (formerly ClaudeBot) demonstrates emergent agent capabilities like autonomous voice, 24/7 task automation, and ...
+
+📺 The AI Daily Brief: Artificial Intelligence News
+
+👁️ 131K • 👍 4K • 💬 797 • ⏱️ 21:12 • 2d ago
+
+---
+
+**[The Moltbook Situation](https://www.youtube.com/watch?v=2PWFj50DcZU)**
+
+https://boot.dev/prime I have 2 courses, TCP to HTTP in Golang and 2 part Git course I think that boot is actually a great place to go ...
+
+📺 The PrimeTime
+
+👁️ 472K • 👍 19K • 💬 2K • ⏱️ 11:45 • 1d ago
+
+---
+
+**[State of AI in 2026: LLMs, Coding, Scaling Laws, China, Agents, GPUs, AGI | Lex Fridman Podcast #490](https://www.youtube.com/watch?v=EV7WhVT270Q)**
+
+Nathan Lambert and Sebastian Raschka are machine learning researchers, engineers, and educators. Nathan is the post-training ...
+
+📺 Lex Fridman
+
+👁️ 294K • 👍 7K • 💬 505 • ⏱️ 4:25:13 • 1d ago
+
+---
+
+**[Moltbook: AI Agents Built Their Own Social Media (it&#39;s CHAOS)!](https://www.youtube.com/watch?v=ksPuOdYCFuo)**
+
+AI agents now have their own social network called Moltbook, and it's absolute chaos. They're posting, commenting, doxxing ...
+
+📺 Universe of AI
+
+👁️ 25K • 👍 585 • 💬 165 • ⏱️ 8:45 • 2d ago
+
+---
+
+**[Redditors Pretending to be AI Bots on new Social Media](https://www.youtube.com/watch?v=OVrY9bhUhfY)**
+
+Is moltbook the next newest thing? I guess we will see INSTAGRAM: https://www.instagram.com/ibz_real/
+
+📺 ibz
+
+👁️ 51K • 👍 3K • 💬 380 • ⏱️ 8:47 • 1d ago
 
 ---
 
@@ -397,7 +393,7 @@ Kimi K2.5 is a native multimodal agentic model with 1T parameters, excelling in 
 
 `image-text-to-text`
 
-⬇️ 53,500 • ❤️ 1,409 • 2d ago
+⬇️ 96,162 • ❤️ 1,418 • 2d ago
 
 ---
 
@@ -409,7 +405,7 @@ Z-Image is an undistilled, high-fidelity text-to-image diffusion transformer mod
 
 `text-to-image`
 
-⬇️ 4,755 • ❤️ 776 • 4d ago
+⬇️ 6,347 • ❤️ 782 • 4d ago
 
 ---
 
@@ -421,7 +417,7 @@ HunyuanImage-3.0-Instruct is a native multimodal model for image generation, sup
 
 `image-to-image` `83.0B`
 
-⬇️ 116 • ❤️ 767 • 4d ago
+⬇️ 148 • ❤️ 767 • 4d ago
 
 ---
 
@@ -433,7 +429,7 @@ DeepSeek-OCR-2 is a multilingual vision-language model for image-to-text tasks, 
 
 `image-text-to-text` `3.4B`
 
-⬇️ 102,941 • ❤️ 616 • 3d ago
+⬇️ 143,676 • ❤️ 619 • 3d ago
 
 ---
 
@@ -445,7 +441,7 @@ PersonaPlex-7B-v1 is a real-time, full-duplex speech-to-speech conversational mo
 
 `audio-to-audio`
 
-⬇️ 83,795 • ❤️ 1,577 • 4d ago
+⬇️ 101,038 • ❤️ 1,580 • 4d ago
 
 ---
 
@@ -457,7 +453,7 @@ Qwen3-TTS-12Hz-1.7B-CustomVoice is a multilingual text-to-speech model supportin
 
 `text-to-speech` `1.9B`
 
-⬇️ 227,768 • ❤️ 839 • 3d ago
+⬇️ 265,335 • ❤️ 841 • 3d ago
 
 ---
 
@@ -469,7 +465,7 @@ Qwen3-ASR-1.7B is a state-of-the-art automatic speech recognition model supporti
 
 `automatic-speech-recognition` `2.3B`
 
-⬇️ 25,658 • ❤️ 325 • 3d ago
+⬇️ 44,958 • ❤️ 328 • 3d ago
 
 ---
 
@@ -481,7 +477,7 @@ PaddleOCR-VL-1.5 is a multilingual Vision-Language Model (VLM) built on ERNIE 4.
 
 `image-text-to-text` `958.6M`
 
-⬇️ 2,046 • ❤️ 296 • 3d ago
+⬇️ 3,295 • ❤️ 304 • 3d ago
 
 ---
 
@@ -493,19 +489,17 @@ VibeVoice-ASR is a unified speech-to-text model capable of processing up to 60 m
 
 `automatic-speech-recognition` `8.7B`
 
-⬇️ 146,239 • ❤️ 769 • 5d ago
+⬇️ 175,432 • ❤️ 774 • 5d ago
 
 ---
 
-**[GLM-4.7-Flash](https://huggingface.co/zai-org/GLM-4.7-Flash)**
+**[Anima](https://huggingface.co/circlestone-labs/Anima)**
 
-*Z.ai*
+*CircleStone Labs*
 
-GLM-4.7-Flash is a 30B-A3B MoE model, offering strong performance in the 30B class for efficient, lightweight deployment. It excels in benchmarks like AIME, GPQA, and SWE-bench, making it suitable for tasks requiring advanced reasoning and coding capabilities.
+Anima is a 2 billion parameter text-to-image diffusion model specializing in anime and non-photorealistic artistic styles, trained on millions of anime and artistic images. It is designed for generating illustrations and artistic images, with primary use cases in ComfyUI workflows for anime concepts and characters.
 
-`text-generation` `31.2B`
-
-⬇️ 826,849 • ❤️ 1,401 • 3d ago
+⬇️ 16,906 • ❤️ 231 • 1d ago
 
 ---
 
@@ -521,21 +515,9 @@ GLM-4.7-Flash is a 30B-A3B MoE model, offering strong performance in the 30B cla
 
 LingBot-World is an open-source world simulator with high-fidelity dynamics, long-term memory capabilities, and real-time interactivity for diverse environments.
 
-▲ 100 • 💬 2 • ⭐ 1,659 • 4d ago
+▲ 100 • 💬 2 • ⭐ 1,860 • 4d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2601.20540) • [💻 code](https://github.com/Robbyant/lingbot-world/) • [🔗 project](https://technology.robbyant.com/lingbot-world)
-
----
-
-**[Bitnet.cpp: Efficient Edge Inference for Ternary LLMs](https://huggingface.co/papers/2502.11880)**
-
-*Jinheng Wang, Hansong Zhou, Ting Song et al. (10 authors)*
-
-Bitnet.cpp enhances edge inference for ternary LLMs using a novel mixed-precision matrix multiplication library, achieving significant speed improvements over baselines.
-
-▲ 5 • 💬 0 • ⭐ 27,536 • 11mo ago
-
-[🎓 arXiv](https://arxiv.org/abs/2502.11880) • [💻 code](https://github.com/microsoft/BitNet/tree/paper)
 
 ---
 
@@ -562,6 +544,18 @@ BitNet Distillation fine-tunes large language models to 1.58-bit precision using
 ▲ 59 • 💬 5 • ⭐ 27,561 • 3mo ago
 
 [🎓 arXiv](https://arxiv.org/abs/2510.13998) • [💻 code](https://github.com/microsoft/BitNet)
+
+---
+
+**[Bitnet.cpp: Efficient Edge Inference for Ternary LLMs](https://huggingface.co/papers/2502.11880)**
+
+*Jinheng Wang, Hansong Zhou, Ting Song et al. (10 authors)*
+
+Bitnet.cpp enhances edge inference for ternary LLMs using a novel mixed-precision matrix multiplication library, achieving significant speed improvements over baselines.
+
+▲ 5 • 💬 0 • ⭐ 27,562 • 11mo ago
+
+[🎓 arXiv](https://arxiv.org/abs/2502.11880) • [💻 code](https://github.com/microsoft/BitNet/tree/paper)
 
 ---
 
@@ -613,7 +607,7 @@ PaddleOCR-VL, a vision-language model combining NaViT-style dynamic resolution a
 
 DeepSeek-OCR 2 introduces DeepEncoder V2 that dynamically reorders visual tokens based on semantic content, enabling more human-like causal reasoning in 2D image understanding through cascaded 1D causal structures.
 
-▲ 43 • 💬 4 • ⭐ 1,822 • 4d ago
+▲ 45 • 💬 4 • ⭐ 1,852 • 4d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2601.20552) • [💻 code](https://github.com/deepseek-ai/DeepSeek-OCR-2)
 
@@ -665,7 +659,7 @@ AI → JSON → UI
 
 `TypeScript`
 
-⭐ 9.8k • 🔱 524 • 4d ago
+⭐ 9.8k • 🔱 526 • 4d ago
 
 ---
 
@@ -675,7 +669,7 @@ Ralph is an autonomous AI agent loop that runs repeatedly until all PRD items ar
 
 `TypeScript`
 
-⭐ 9.1k • 🔱 1.1k • 4h ago
+⭐ 9.1k • 🔱 1.1k • 5h ago
 
 ---
 
@@ -685,7 +679,7 @@ LLM驱动的 A/H/美股智能分析器，多数据源行情 + 实时新闻 + Gem
 
 `Python` `agent` `ai` `aigc` `gemini` `llm`
 
-⭐ 8.7k • 🔱 9.2k • 15h ago
+⭐ 8.8k • 🔱 9.3k • 17h ago
 
 ---
 
@@ -695,7 +689,7 @@ LLM驱动的 A/H/美股智能分析器，多数据源行情 + 实时新闻 + Gem
 
 `Vue`
 
-⭐ 6.9k • 🔱 1.3k • 2h ago
+⭐ 6.9k • 🔱 1.3k • 4h ago
 
 ---
 
@@ -705,7 +699,7 @@ The Ultimate Collection of 600+ Agentic Skills for Claude Code/Antigravity/Curso
 
 `Python` `agentic-skills` `ai-agents` `antigravity` `autonomous-coding` `claude-code`
 
-⭐ 6.1k • 🔱 1.4k • 13h ago
+⭐ 6.1k • 🔱 1.4k • 9m ago
 
 ---
 
@@ -715,7 +709,7 @@ Marketing skills for Claude Code and AI agents. CRO, copywriting, SEO, analytics
 
 `claude` `codex` `marketing`
 
-⭐ 5.5k • 🔱 606 • 4d ago
+⭐ 5.6k • 🔱 606 • 4d ago
 
 ---
 
@@ -723,7 +717,7 @@ Marketing skills for Claude Code and AI agents. CRO, copywriting, SEO, analytics
 
 Claude Code skill that removes signs of AI-generated writing from text
 
-⭐ 3.7k • 🔱 319 • 10d ago
+⭐ 3.7k • 🔱 321 • 10d ago
 
 ---
 
@@ -741,7 +735,7 @@ OpenSource Claude Cowork. A desktop AI assistant that helps you with programming
 
 Humanizer 的汉化版本，Claude Code Skills，旨在消除文本中 AI 生成的痕迹。
 
-⭐ 2.2k • 🔱 210 • 13d ago
+⭐ 2.2k • 🔱 213 • 13d ago
 
 ---
 
