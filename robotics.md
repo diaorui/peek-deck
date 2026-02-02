@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-02-02T18:46:53.764032+00:00'
+updated: '2026-02-02T23:08:46.296826+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- social
-- videos
 - news
+- videos
+- social
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** February 02, 2026 at 18:46 UTC  
+**Last Updated:** February 02, 2026 at 23:08 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -36,7 +36,45 @@ Robotics research and industry news
 
 From RoboHub🤖 on 𝕏 (longer video/ads): https://x.com/XRoboHub/status/2017926788144579060
 
-8h ago
+12h ago
+
+---
+
+**[Gyro V2.4](https://www.reddit.com/r/robotics/comments/1qu9d74/gyro_v24/)**
+
+Hey everyone, A little while ago I posted a video of my Animatronic Head The response was way more positive than I expected, and honestly, I had a blast building it. So… I decided to keep going :D I’m now expanding the project into a complete torso. So far I’ve: Built a torso using PVC pipes combined with PLA parts Started working on the arms (still a work in progress) I’d love to hear any suggestions, ideas, or improvements you think could make this build even better, whether mechanical, electronic, or software-related. I’m also experimenting with a new feature that I think is pretty cool. Once I get it working reliably, I’ll post an update here. If you’re interested, I’ve published the model files (currently .3mf only) on GitHub: https://github.com/koenll23/gyro (files may be outdated and/or unoptimized, they just work. use at your own risk) Thanks for all the feedback so far, it’s been a huge motivation to keep going!
+
+1h ago
+
+---
+
+**[I tested a cheap ODrive 3.6 clone — setup, tuning, Arduino & CAN](https://www.reddit.com/r/robotics/comments/1qu5iap/i_tested_a_cheap_odrive_36_clone_setup_tuning/)**
+
+3h ago
+
+---
+
+**[Best tech design software to use for marine robotics/mechatronics?](https://www.reddit.com/r/robotics/comments/1qu8rug/best_tech_design_software_to_use_for_marine/)**
+
+Hi everyone I am currently in Grade 11 and taking a tech design course. My teacher is very lenient on which software we use. I want to use one that will be helpful for me in the future as I plan to go into Mechatronics/Marine Robotics. I also have a MacBook (I know that complicates things a bit) but my teacher also provides us with Windows laptops if need be. I’ve had some experience with OnShape in the past but I am definitely not a pro. Through my school board we also get the free versions of Fusion, AutoCAD, Inventor, and Revit. Below is the list of softwares we can choose from: - OnShape - Fusion (free) - AutoCAD (free) - Inventor (free) - Revit (free) - SketchUP - Mastercam - TinkerCAD I am currently deciding between Fusion and OnShape but let me know what you think is best!
+
+1h ago
+
+---
+
+**[Need help with a Yaskawa Motoman UP130](https://www.reddit.com/r/robotics/comments/1qu82tf/need_help_with_a_yaskawa_motoman_up130/)**
+
+I'm new to motoman robots and am running into an issue where I can't change the max disturbance value even though I'm in management mode. The cursor just jumps over the value. I'm trying to change this because the robot is constantly throwing an "invalid shock detection" whenever I try to move the manipulator. I tried searching through the documentation and can't find why it's doing this.
+
+1h ago
+
+---
+
+**[Top 12 Humanoid Robots of 2026](https://www.reddit.com/r/robotics/comments/1qtpupl/top_12_humanoid_robots_of_2026/)**
+
+A new industry guide breaks down the top 12 robots defining this era, from Tesla’s $30k Optimus Gen 2 to 1X’s NEO, which is finally shipping to homes. The list details the specs, pricing, and capabilities of the major players (including Boston Dynamics, Figure, and Unitree) as they shift from 'cool lab demos' to real-world labor in factories and living rooms.
+
+🔗 [Humanoid Robotics Technology](https://humanoidroboticstechnology.com/articles/top-12-humanoid-robots-of-2026/) • 14h ago
 
 ---
 
@@ -52,21 +90,13 @@ From DEEP Robotics on 𝕏: https://x.com/DeepRobotics_CN/status/201711442936065
 
 I live in India and in a day I see about 4 construction sites on my way to work . I quite often notice that we don't have Autonomous robots that carry heavy load from one place to another. People continue to use wheel barrow as a mode to carry heavy load. I do not know why we are not in a time where people can start using robots to carry heavy load. I am new to robotics and learning still about the mechanics and the business of it. I wanted to know if: 1) Is this the case in most countries? 2) Are people not using robots to carry heavy load due to extremely high costs? 3) Are these robots not as fast and efficient as they claim to be? 4) Is there no need in the first place? I would love to know your thoughts as to why we don't see as many robots carry heavy load in construction sites?
 
-14h ago
-
----
-
-**[Internships for the summer ?](https://www.reddit.com/r/robotics/comments/1qtrpu8/internships_for_the_summer/)**
-
-Im a mechatronics student with some experience in solidworks and ROS2 Does anybody know where somewhere with my skill set could apply, any research labs or universities or even companies that hire 2nd years?
-
-8h ago
+19h ago
 
 ---
 
 **[Robot camera with depth sensing + RGB, IMU, global shutter, RGB, IR for Jetson SDK](https://www.reddit.com/r/robotics/comments/1qtoqrc/robot_camera_with_depth_sensing_rgb_imu_global/)**
 
-11h ago
+15h ago
 
 ---
 
@@ -78,45 +108,15 @@ I hadn't seen the whole video yesterday when I posted it. From The Humanoid Hub 
 
 ---
 
-**[We’re open-sourcing our SO101 Parallel Jaw Gripper. It requires zero extra hardware and became a game-changer for our experiments.](https://www.reddit.com/r/robotics/comments/1qtb7n1/were_opensourcing_our_so101_parallel_jaw_gripper/)**
-
-Hi everyone, We are the team behind NormaCore, a unified toolkit designed to fix the fragmented workflow of building physical systems. While our goal is a complete ecosystem (unified API, visual tooling, and high-performance data pipelines), we believe in releasing early and often. Developer experience is at the core of our design philosophy. We got tired of hacking together disjointed tools, so we’re building a foundation that handles everything from complex robotics to distributed sensor networks. To kick off our open-source release cycle, we’re sharing the Parallel Jaw Gripper. It’s a part of a larger 7+1 DoF arm we are refining to bring high-end research robotics to makers and hobby projects. Fully 3D printed and SO101 compatible, the gripper features modular camera mounts and requires zero extra hardware assembly relies entirely on standard motor kit parts. We’d love your feedback on the design and the tooling behind it
-
-🔗 [GitHub](https://github.com/norma-core/norma-core/blob/main/hardware/pgripper/README.md) • 21h ago
-
----
-
-**[Problems with logic/coding](https://www.reddit.com/r/robotics/comments/1qtq31g/problems_with_logiccoding/)**
-
-I'm a college student new to robotics and I've been using Arduino for the past few weeks to get started however, I've run into several problems when it comes to the logic portion. I'm not sure if its because I'm not super experienced in coding but whenever I've finished the building portion (which is always the easiest part) I can't see to figure out what to do once i get to the part where I actually have to tell it what I want it to do (this is the void loop portion in arduino). I don't want to ask chatgpt either because I know it'll take away the learning portion for me (and because its wrong 90% of the time). Should I hone in on learning coding (c++ & python) for a bit before getting back into project building for the time being? I'm a bit unsure since everyone says that project building is where you learn the most but I've been stuck at beginner level projects for weeks due to my inability to figure out what to do for the code.
-
-9h ago
-
----
-
-**[Top 12 Humanoid Robots of 2026](https://www.reddit.com/r/robotics/comments/1qtpupl/top_12_humanoid_robots_of_2026/)**
-
-A new industry guide breaks down the top 12 robots defining this era, from Tesla’s $30k Optimus Gen 2 to 1X’s NEO, which is finally shipping to homes. The list details the specs, pricing, and capabilities of the major players (including Boston Dynamics, Figure, and Unitree) as they shift from 'cool lab demos' to real-world labor in factories and living rooms.
-
-🔗 [Humanoid Robotics Technology](https://humanoidroboticstechnology.com/articles/top-12-humanoid-robots-of-2026/) • 9h ago
-
----
-
-**[Robot camera with depth sensing + RGB, IMU, global shutter, RGB, IR for Jetson SDK](https://www.reddit.com/r/robotics/comments/1qtoqf6/robot_camera_with_depth_sensing_rgb_imu_global/)**
-
-Hey folks, what cameras do you use these days for robots that have depth sensing + RGB, IMU, global shutter, RGB, IR, and work with Jetson SDK? I was looking at D455, but is hard to find, and not sure if this is still going to be in business in 6m or so. The OAK-D and ZED seem next choices, but don't know about them, since are small companies. Please advice. Thanks in advance.
-
-11h ago
-
----
-
 ---
 
 ## Google News: "robotics"
 
-**[AI Robotics Investment Opportunities Extend Beyond Big Tech](https://www.etftrends.com/disruptive-technology-content-hub/ai-robotics-investment-opportunities-extend-beyond-big-tech/)**
+**[COMMENTARY: Teaching mathematics with coding and robotics can transform California math instruction](https://edsource.org/2026/california-math-framework-coding-robotics/750225)**
 
-ETF Trends • 3d ago
+A hands-on, integrated approach has the potential to transform math from a gatekeeper into a gateway for STEM opportunities for all students.
+
+EdSource • 17h ago
 
 ---
 
@@ -124,7 +124,7 @@ ETF Trends • 3d ago
 
 Carbon Robotics' Large Plant Model will allow farmers to kill new types of weeds without having to retrain the machines.
 
-TechCrunch • 3h ago
+TechCrunch • 8h ago
 
 ---
 
@@ -136,6 +136,20 @@ New Hampshire Public Radio • 1d ago
 
 ---
 
+**[AI Robotics Investment Opportunities Extend Beyond Big Tech](https://www.etftrends.com/disruptive-technology-content-hub/ai-robotics-investment-opportunities-extend-beyond-big-tech/)**
+
+ETF Trends • 3d ago
+
+---
+
+**[The Next Robotics Boom Is Healthcare (3 Stocks to Watch)](https://www.marketbeat.com/videos/the-next-robotics-boom-is-healthcare-3-stocks-to-watch/)**
+
+How robotics is being used in healthcare today, what’s driving growth in medical technology, and why investors are watching this space closely.
+
+MarketBeat • 3d ago
+
+---
+
 **[Elon Musk is stressing robots over cars. Here are three humanoid parts suppliers that Morgan Stanley recommends](https://www.cnbc.com/2026/02/01/musk-is-stressing-robots-over-cars-these-suppliers-make-humanoid-parts.html)**
 
 Morgan Stanley analysts highlight stocks of companies that sell specialized robotics parts.
@@ -144,19 +158,19 @@ CNBC • 1d ago
 
 ---
 
+**[When a robot topples: China’s Xpeng deals with fallout from humanoid’s plunge](https://www.scmp.com/tech/article/3342102/when-robot-topples-chinas-xpeng-deals-fallout-humanoids-public-plunge)**
+
+CEO draws parallel to toddlers learning to walk before they run, after Iron’s loss of balance becomes viral fodder.
+
+South China Morning Post • 12h ago
+
+---
+
 **[Video: New US humanoid robot navigates complex paths while walking and working](https://interestingengineering.com/ai-robotics/westwood-robotics-new-humanoid-robot)**
 
 Westwood Robotics unveils Themis Gen 2.5, a humanoid that can grasp objects while walking, redefining real-world mobile manipulation.
 
-Interesting Engineering • 7h ago
-
----
-
-**[‘Optimus chain’: Chinese suppliers form backbone of Tesla’s humanoid robot plans](https://www.scmp.com/tech/tech-trends/article/3341953/optimus-chain-chinese-suppliers-form-backbone-teslas-humanoid-robot-initiative)**
-
-Tesla’s pivot to producing humanoid robots is expected to engage a network of key Chinese component makers.
-
-South China Morning Post • 1d ago
+Interesting Engineering • 11h ago
 
 ---
 
@@ -164,7 +178,7 @@ South China Morning Post • 1d ago
 
 The job apocalypse is coming for all collars.
 
-Axios • 8h ago
+Axios • 13h ago
 
 ---
 
@@ -172,19 +186,7 @@ Axios • 8h ago
 
 SSE Steel Fabrication owner Mindy Núñez Airhart on growing a second-generation steel business in St. Bernard Parish — from post-Katrina rebuilding to robotics, AI and humanoid welding technology shaping the industry’s future.
 
-NOLA.com • 8h ago
-
----
-
-**[Serve Robotics vs. Teradyne: Which Robotics Stock Is the Better Buy?](https://www.zacks.com/stock/news/2825962/serve-robotics-vs-teradyne-which-robotics-stock-is-the-better-buy)**
-
-Zacks Investment Research • 3d ago
-
----
-
-**[Multi-agent AI and robots automate materials discovery in closed-loop lab system](https://phys.org/news/2026-01-multi-agent-ai-robots-automate.html)**
-
-Phys.org • 1d ago
+NOLA.com • 13h ago
 
 ---
 
@@ -198,17 +200,7 @@ XPENG just took a massive step forward in humanoid robotics. The New IRON robot 
 
 📺 DPCcars
 
-👁️ 11K • 👍 114 • 💬 30 • ⏱️ 1:21 • 1d ago
-
----
-
-**[World&#39;s New Fastest Humanoid Robot? #humanoidrobot #robots #robotics](https://www.youtube.com/watch?v=qbVdkRgsk5E)**
-
-The Shanghai-based robotics startup MirrorMe Technology claims its new bipedal robot is the world's fastest humanoid on two ...
-
-📺 Kalil 4.0
-
-👁️ 227 • 👍 13 • ⏱️ 0:36 • 1h ago
+👁️ 12K • 👍 127 • 💬 31 • ⏱️ 1:21 • 2d ago
 
 ---
 
@@ -218,7 +210,7 @@ Humanoid robotics just took a massive leap into the real world. Researchers in C
 
 📺 AI Revolution
 
-👁️ 134K • 👍 1K • 💬 297 • ⏱️ 14:25 • 2d ago
+👁️ 135K • 👍 1K • 💬 299 • ⏱️ 14:25 • 2d ago
 
 ---
 
@@ -228,17 +220,67 @@ China is deploying AI-powered robots to manage traffic and pedestrian flow in ci
 
 📺 NBC News
 
-👁️ 769K • 👍 7K • 💬 3K • ⏱️ 3:13 • 3d ago
+👁️ 778K • 👍 7K • 💬 3K • ⏱️ 3:13 • 3d ago
 
 ---
 
-**[Moya, customizable humanoid robot, makes debut in Shanghai, powered by DroidUp&#39;s latest tech](https://www.youtube.com/watch?v=AuTbHjCepxs)**
+**[World&#39;s New Fastest Humanoid Robot? #humanoidrobot #robots #robotics](https://www.youtube.com/watch?v=qbVdkRgsk5E)**
 
-Today in Shanghai, a humanoid robot named Moya makes her debut, smiling, nodding, making eye contact and walking naturally.
+The Shanghai-based robotics startup MirrorMe Technology claims its new bipedal robot is the world's fastest humanoid on two ...
 
-📺 ShanghaiEye魔都眼
+📺 Kalil 4.0
 
-👁️ 10K • 👍 308 • 💬 122 • ⏱️ 1:34 • 3d ago
+👁️ 2K • 👍 104 • 💬 4 • ⏱️ 0:36 • 6h ago
+
+---
+
+**[XPeng IRON Robot Falls Then Stands Back Up Live on Stage](https://www.youtube.com/watch?v=kMfcGfRO0R8)**
+
+XPeng just showed the world what real humanoid robot progress looks like. During a live public event, the IRON robot stumbled, ...
+
+📺 DPCcars
+
+👁️ 12K • 👍 77 • 💬 30 • ⏱️ 2:06 • 1d ago
+
+---
+
+**[Make Your Own Cute Dasai Mochi Robot🤖 | #ashwinprojects #AltiumStudentLab](https://www.youtube.com/watch?v=KsDxCDsoWMk)**
+
+Make Your Own Cute Dasai Mochi Robot   | #ashwinprojects #AltiumStudentLab Accelerate Your Career in Electronics Design ...
+
+📺 Ashwin Projects
+
+👁️ 479K • 👍 16K • 💬 90 • ⏱️ 1:49 • 5d ago
+
+---
+
+**[XPeng’s Robot Is Too Real  #ai](https://www.youtube.com/watch?v=c1mcD_ur6mo)**
+
+They had to cut it open just to prove it wasn't human. This is XPeng's Iron. A robot so realistic it sparked conspiracy theories.
+
+📺 By 2050
+
+👁️ 242K • 👍 3K • 💬 178 • ⏱️ 0:49 • 5d ago
+
+---
+
+**[This Is BRUTAL... Every Meta Weapon Now Getting NERFED | War Robots](https://www.youtube.com/watch?v=KLc0oPca2dg)**
+
+Brutal new Meta nerf. The top weapons in the game are getting bad nerfs. Boom, Pilium, acid shotguns and more. We have a ...
+
+📺 PREDATOR WR
+
+👁️ 7K • 👍 316 • 💬 116 • ⏱️ 14:07 • 10h ago
+
+---
+
+**[China’s LimX deploys 18 humanoid robots without human control](https://www.youtube.com/watch?v=a4HkHZfYy2c)**
+
+China's LimX Dynamics showcased 18 “Oli” humanoid robots activating, standing, and moving in coordination without direct ...
+
+📺 Interesting Engineering
+
+👁️ 51K • 👍 441 • 💬 55 • ⏱️ 1:37 • 6d ago
 
 ---
 
@@ -249,46 +291,6 @@ Hyundai is planning to place 30000 humanoid robots in its factories. We talked t
 📺 More Perfect Union
 
 👁️ 190K • 👍 16K • 💬 2K • ⏱️ 2:59 • 6d ago
-
----
-
-**[Make Your Own Cute Dasai Mochi Robot🤖 | #ashwinprojects #AltiumStudentLab](https://www.youtube.com/watch?v=KsDxCDsoWMk)**
-
-Make Your Own Cute Dasai Mochi Robot   | #ashwinprojects #AltiumStudentLab Accelerate Your Career in Electronics Design ...
-
-📺 Ashwin Projects
-
-👁️ 473K • 👍 16K • 💬 89 • ⏱️ 1:49 • 5d ago
-
----
-
-**[🤖⚡ When Robots Start Fixing Themselves… Humans Become the Threat 😱🏜️](https://www.youtube.com/watch?v=-o8PXq2GeT4)**
-
-In a scorched, dust-choked future , humans survive by relying on “safe” service robots —machines locked behind strict ...
-
-📺 ClipRift
-
-👁️ 346K • 👍 3K • 💬 15 • ⏱️ 0:56 • 3d ago
-
----
-
-**[🔬 Sony’s Microsurgery Robot Prototype: Scaled Hand Control, Auto Tool Swaps, and 4K Precision](https://www.youtube.com/watch?v=OsEDfzhhAiA)**
-
-This is Sony's prototype microsurgery assistance robot, designed for operations where human hands reach their physical limits.
-
-📺 Fact
-
-👁️ 19K • 👍 186 • 💬 5 • ⏱️ 0:06 • 1d ago
-
----
-
-**[XPeng’s Robot Is Too Real  #ai](https://www.youtube.com/watch?v=c1mcD_ur6mo)**
-
-They had to cut it open just to prove it wasn't human. This is XPeng's Iron. A robot so realistic it sparked conspiracy theories.
-
-📺 By 2050
-
-👁️ 213K • 👍 2K • 💬 161 • ⏱️ 0:49 • 4d ago
 
 ---
 
