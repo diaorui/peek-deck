@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-02-02T15:59:15.653807+00:00'
+updated: '2026-02-02T16:54:24.593017+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
+- news
 - social
 - videos
 - repositories
-- news
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** February 02, 2026 at 15:59 UTC  
+**Last Updated:** February 02, 2026 at 16:54 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -41,7 +41,7 @@ AI news, discussions, and developments
 
 India's latest budget mentions AI 11 times - highest ever. Key commitments: $90B data centre investments Tax holiday till 2047 for cloud providers Semiconductor Mission 2.0 for domestic chips Policy preference for "smaller, sector-specific models" 890+ GenAI startups active now, deep-tech funding up 78%. Analysis: https://onllm.dev/blog/3-budget-2026
 
-14h ago
+15h ago
 
 ---
 
@@ -49,7 +49,7 @@ India's latest budget mentions AI 11 times - highest ever. Key commitments: $90B
 
 I’ve been thinking a lot about AI storytelling tools lately, and something keeps bothering me. Most of them generate content, but nothing really persists. You get a story, you read it, and then it disappears. The next one has no memory of what came before. So I decided to run a small experiment. Instead of asking AI to write isolated children’s stories, I’m trying to build a system where a story world actually keeps evolving over time. The idea is that characters remember past events, relationships carry forward, and kids make choices that permanently shape what happens next. The AI’s role isn’t just to generate text, but to maintain continuity and grow the universe as it goes. In a way, it’s more like human and AI co-creating a living story world rather than consuming disposable stories. My hypothesis is that if kids actively participate in shaping a world by choosing paths, helping characters, and influencing outcomes, the stories will feel far more meaningful than static books or one-shot AI generations. Almost like a lightweight narrative universe that grows naturally. Right now there’s no product yet. The first step I’m taking is letting the AI simulate many rounds of “child-like” choices on its own to see if long-term story arcs, recurring characters, and emergent plotlines appear organically. If that shows promise, the next step will be inviting real kids to co-create. Some things I’m especially curious about: Will coherent long-term story structure emerge on its own? Will certain characters naturally become central over time? Will preferences shape each world’s tone and direction? Will participation increase emotional attachment to the stories? I’m planning to document this whole experiment publicly as I go. If anyone here has experience with agent systems, long-term memory in AI, emergent storytelling, or just thoughts about potential pitfalls, I’d really appreciate hearing them. I’ll share updates as the experiment progresses.
 
-6h ago
+7h ago
 
 ---
 
@@ -57,7 +57,7 @@ I’ve been thinking a lot about AI storytelling tools lately, and something kee
 
 Amazon says it is laying off 16,000 because of 'efficiency gains' from AI, but an economist says it will take time for firms that are adopting AI to see how their work flows change.
 
-🔗 [euronews](https://www.euronews.com/next/2026/02/02/did-ai-really-cause-job-losses-at-amazon-its-hard-to-tell-economist-says) • 5h ago
+🔗 [euronews](https://www.euronews.com/next/2026/02/02/did-ai-really-cause-job-losses-at-amazon-its-hard-to-tell-economist-says) • 6h ago
 
 ---
 
@@ -65,7 +65,7 @@ Amazon says it is laying off 16,000 because of 'efficiency gains' from AI, but a
 
 For years we have watched and read stories about evil Ai's and the threats they may pose, with AI characters such as Ultron, AM, HAL 9000, the Matrix etc. looking to kill/exploit humanity. There are countless stories with these kinds of villains. But we have also had good AI characters, including Data from Star Trek, WALL-E, Baymax, C3PO, Marvin the Paranoid Android. How do you think these depictions of AI in popular media is affecting the AI systems we are making today?
 
-17h ago
+18h ago
 
 ---
 
@@ -89,7 +89,7 @@ What moltbook is So essentially There is this open source AI bot called openclaw
 
 I subscribe to a few AI podcasts, but I wanted to know of any others that you can recommend. Not looking for anything too deep, in fact, prefer the ones that are lighter and an easy listen or watch. let me know your faves.
 
-22h ago
+23h ago
 
 ---
 
@@ -97,7 +97,7 @@ I subscribe to a few AI podcasts, but I wanted to know of any others that you ca
 
 So I just spent the better part of my Sunday asking Gemini to create an alternative reality where america existed in the same time as ancient Europe. I asked how Athens and Sparta would react if we just showed up with American fruits and vegetables. How the potato alone would revolutionize agriculture. I asked how they would react to our culture and everything you can think of. I learned that athens would love us. They'd be particularly fascinated with our bonds with animals. Sparta would want to destroy us and shut down like north korea but they'd secretly get ideas and probably try and domesticate wolves. Romans would want to dress us up in togas. All joking aside, I feel like I got a deep understanding of the culture and personal perspective of each ancient civilization. Imagine schools creating scenarios in AI where you have to negotiate peace talks between Rome and Carthage. Find common ground between Athens and Sparta. Debate ethics and law in the roman Senate. It would make history fun and engaging. What is everyone else's thoughts on this?
 
-13h ago
+14h ago
 
 ---
 
@@ -105,7 +105,7 @@ So I just spent the better part of my Sunday asking Gemini to create an alternat
 
 The b4 tool used by Linux kernel developers to help manage their patch workflow around contributions to the Linux kernel has been seeing work on a text user interface to help with AI agent assisted code reviews
 
-🔗 [phoronix.com](https://www.phoronix.com/news/Linux-b4-Tool-Dog-Feeding-AI) • 21h ago
+🔗 [phoronix.com](https://www.phoronix.com/news/Linux-b4-Tool-Dog-Feeding-AI) • 22h ago
 
 ---
 
@@ -123,7 +123,7 @@ So I was using LLM for studying advance language/framework/design topics. Whenev
 
 **[Move Fast, but Obey the Rules: China’s Vision for Dominating A.I.](https://www.nytimes.com/2026/02/02/business/china-ai-regulations.html)**
 
-The New York Times • 10h ago
+The New York Times • 11h ago
 
 ---
 
@@ -131,7 +131,7 @@ The New York Times • 10h ago
 
 Palantir's chief technology officer argues that artificial intelligence narratives mislead Americans, citing frontline experience to show AI empowers workers rather than replacing them.
 
-Fox News • 5h ago
+Fox News • 6h ago
 
 ---
 
@@ -139,7 +139,7 @@ Fox News • 5h ago
 
 Meeting AI’s power demands will require developers to use household energy resources, invest in emerging technology and be flexible in their grid demands, writes Ava Community Energy’s Olivia Vasquez.
 
-Utility Dive • 15m ago
+Utility Dive • 1h ago
 
 ---
 
@@ -147,7 +147,7 @@ Utility Dive • 15m ago
 
 Social media has been flooded with fake, AI-generated images and videos. But will the majority of users actually care?
 
-BBC • 9h ago
+BBC • 10h ago
 
 ---
 
@@ -155,7 +155,7 @@ BBC • 9h ago
 
 OpenClaw, formerly known as Clawdbot and Moltbot, has generated massive buzz from Silicon Valley to Beijing due to its impressive capabilities, but also its quirks and risks.
 
-CNBC • 6h ago
+CNBC • 7h ago
 
 ---
 
@@ -163,7 +163,7 @@ CNBC • 6h ago
 
 The job apocalypse is coming for all collars.
 
-Axios • 5h ago
+Axios • 6h ago
 
 ---
 
@@ -171,7 +171,7 @@ Axios • 5h ago
 
 The once-lauded director of Black Swan and The Wrestler has drowned himself in AI slop with an embarrassing new online series
 
-The Guardian • 3h ago
+The Guardian • 4h ago
 
 ---
 
@@ -179,7 +179,7 @@ The Guardian • 3h ago
 
 There is a growing fault line within Trump’s coalition over how aggressively to unleash a technology that is rapidly reshaping the economy and society.
 
-CNN • 5h ago
+CNN • 6h ago
 
 ---
 
@@ -187,7 +187,7 @@ CNN • 5h ago
 
 It's not too late to find opportunities in the AI megatrend.
 
-The Motley Fool • 8h ago
+The Motley Fool • 9h ago
 
 ---
 
@@ -195,7 +195,7 @@ The Motley Fool • 8h ago
 
 How many of the companies with recent layoffs are just using AI as an excuse?
 
-TechCrunch • 17h ago
+TechCrunch • 18h ago
 
 ---
 
@@ -207,7 +207,7 @@ TechCrunch • 17h ago
 
 A bifurcation is happening in AI adoption - power users shipping products in days versus everyone else generating meeting agendas. Enterprise tool choices are accelerating the divide.
 
-⬆️ 291 • 💬 273 • 16h ago • [Martin Alderson](https://martinalderson.com/posts/two-kinds-of-ai-users-are-emerging/)
+⬆️ 291 • 💬 273 • 17h ago • [Martin Alderson](https://martinalderson.com/posts/two-kinds-of-ai-users-are-emerging/)
 
 ---
 
@@ -231,7 +231,7 @@ New York mayor says terminating the ‘unusable’ bot will help close a budget 
 
 People familiar with Microsoft's plans say that the company moving to streamline or remove certain Copilot integrations across in-box apps like Notepad and Paint in 2026, after pushback from users.
 
-⬆️ 145 • 💬 202 • 4h ago • [Windows Central](https://www.windowscentral.com/microsoft/windows-11/microsoft-is-reevaluating-its-ai-efforts-on-windows-11-plans-to-reduce-copilot-integrations-and-evolve-recall)
+⬆️ 145 • 💬 202 • 5h ago • [Windows Central](https://www.windowscentral.com/microsoft/windows-11/microsoft-is-reevaluating-its-ai-efforts-on-windows-11-plans-to-reduce-copilot-integrations-and-evolve-recall)
 
 ---
 
@@ -263,7 +263,7 @@ Download TalkBits – Speak Naturally by Omar Muhammad Omar on the App Store. Se
 
 Two popular AI coding extensions with 1.5M installs secretly harvest your entire codebase and profile you. Both are still live in the marketplace.
 
-⬆️ 63 • 💬 50 • 2h ago • [koi.ai](https://www.koi.ai/blog/maliciouscorgi-the-cute-looking-ai-extensions-leaking-code-from-1-5-million-developers)
+⬆️ 63 • 💬 50 • 3h ago • [koi.ai](https://www.koi.ai/blog/maliciouscorgi-the-cute-looking-ai-extensions-leaking-code-from-1-5-million-developers)
 
 ---
 
@@ -291,7 +291,7 @@ A new AI platform called Moltbook suddenly exploded online, and it is built enti
 
 📺 AI Revolution
 
-👁️ 31K • 👍 2K • 💬 268 • ⏱️ 11:48 • 16h ago
+👁️ 31K • 👍 2K • 💬 268 • ⏱️ 11:48 • 17h ago
 
 ---
 
@@ -311,7 +311,7 @@ what. http://redd.it/1qr61q8 Plushies: https://www.makeship.com/shop/creator/pho
 
 📺 Phoenix SC
 
-👁️ 176K • 👍 13K • 💬 1K • ⏱️ 5:03 • 15h ago
+👁️ 176K • 👍 13K • 💬 1K • ⏱️ 5:03 • 16h ago
 
 ---
 
@@ -321,7 +321,7 @@ CHAPTERS ⤵ 00:00 The OpenClaw Controversy Begins 00:43 The Future of AI — Op
 
 📺 Dylan Curious
 
-👁️ 9K • 👍 537 • 💬 130 • ⏱️ 30:45 • 18h ago
+👁️ 9K • 👍 537 • 💬 130 • ⏱️ 30:45 • 19h ago
 
 ---
 
@@ -501,7 +501,7 @@ Step 3.5 Flash is an efficient, open-source MoE foundation model (11B active par
 
 `199.4B`
 
-⬇️ 44 • ❤️ 237 • 2h ago
+⬇️ 44 • ❤️ 237 • 3h ago
 
 ---
 
@@ -653,7 +653,7 @@ Browser automation CLI for AI agents
 
 `TypeScript`
 
-⭐ 12.2k • 🔱 678 • 6h ago
+⭐ 12.2k • 🔱 678 • 7h ago
 
 ---
 
@@ -673,7 +673,7 @@ Ralph is an autonomous AI agent loop that runs repeatedly until all PRD items ar
 
 `TypeScript`
 
-⭐ 9.1k • 🔱 1.1k • 14h ago
+⭐ 9.1k • 🔱 1.1k • 15h ago
 
 ---
 
@@ -683,7 +683,7 @@ LLM驱动的 A/H/美股智能分析器，多数据源行情 + 实时新闻 + Gem
 
 `Python` `agent` `ai` `aigc` `gemini` `llm`
 
-⭐ 8.9k • 🔱 9.4k • 1h ago
+⭐ 8.9k • 🔱 9.4k • 2h ago
 
 ---
 
@@ -693,7 +693,7 @@ LLM驱动的 A/H/美股智能分析器，多数据源行情 + 实时新闻 + Gem
 
 `Vue`
 
-⭐ 6.9k • 🔱 1.3k • 12h ago
+⭐ 6.9k • 🔱 1.3k • 13h ago
 
 ---
 
@@ -703,7 +703,7 @@ The Ultimate Collection of 600+ Agentic Skills for Claude Code/Antigravity/Curso
 
 `Python` `agentic-skills` `ai-agents` `antigravity` `autonomous-coding` `claude-code`
 
-⭐ 6.3k • 🔱 1.4k • 8h ago
+⭐ 6.3k • 🔱 1.4k • 9h ago
 
 ---
 

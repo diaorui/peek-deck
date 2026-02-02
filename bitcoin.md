@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-02-02T15:59:15.662123+00:00'
+updated: '2026-02-02T16:54:24.601390+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- social
-- videos
-- cryptocurrency
 - news
+- social
+- cryptocurrency
+- videos
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** February 02, 2026 at 15:59 UTC  
+**Last Updated:** February 02, 2026 at 16:54 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -81,7 +81,7 @@ Rank #1
 
 HODLHODLHODLHODLHODLHODLHODLHODLHODLHODLHODLHODLHODLHODLHODLHODLHODLHODLHODLHODLHODLHODLHODLHODLHODLHODLHODLHODLHODLHODLHODLHODLHODLHODLHODLHODLHODLHODLHODLHODLHODLHODLHODLHODLHODLHODLHODLHODLHODLHODLHODLHODLHODLHODLHODLHODLHODLHODLHODLHODLHODLHODLHODLHODLHODLHODLHODLHODL
 
-9h ago
+10h ago
 
 ---
 
@@ -89,7 +89,7 @@ HODLHODLHODLHODLHODLHODLHODLHODLHODLHODLHODLHODLHODLHODLHODLHODLHODLHODLHODLHODL
 
 It's because I bought some
 
-10h ago
+11h ago
 
 ---
 
@@ -97,7 +97,7 @@ It's because I bought some
 
 Bitcoin has broken below the $75K level, a key psychological and technical zone. This breakdown increases downside risk in the short term and may keep overall market sentiment cautious. Key considerations: Loss of momentum above $75K weakens bullish structure Liquidity may be targeted at lower support levels Altcoins could remain under pressure if BTC dominance stays elevated Market reaction to ETF flows and macro data is critical Until Bitcoin reclaims $75K with strong volume, this move should be treated as a risk-off signal, not a dip-buy confirmation. What levels are you watching next?
 
-12h ago
+13h ago
 
 ---
 
@@ -105,7 +105,7 @@ Bitcoin has broken below the $75K level, a key psychological and technical zone.
 
 Bought more at 94K, then again yesterday at 78K. Hands made out Adamantium forged in the fires of the bedrock below the abyss. Spewed forth on the shore and raised by wolves, fed by bears and ate with the giants. I'll see y'all at the end of the year 🥂
 
-12h ago
+13h ago
 
 ---
 
@@ -129,7 +129,7 @@ Spot crypto ETFs in the U.S. recorded one of their worst weeks. From Jan 26 to 3
 
 These prices are just to go to pass up on. Need to get my Roth involved
 
-11h ago
+12h ago
 
 ---
 
@@ -137,7 +137,7 @@ These prices are just to go to pass up on. Need to get my Roth involved
 
 But I see 25% discount plus more from the 100k. I feel in 5-10 years if btc ever crashes back to 100k from 200k+ people will see it as a good buying opportunity. DCA AND HODL for 5-10 years
 
-11h ago
+12h ago
 
 ---
 
@@ -145,7 +145,7 @@ But I see 25% discount plus more from the 100k. I feel in 5-10 years if btc ever
 
 Significant low volume node here at $73,200 - 74,200. Daily fair value gap $70,500 - 74,500. This FVG has been tapped previously and rallied strongly from here. I say we take out this latest low of $74,441.20 and we see one of the greatest liquidity grabs of all time; rallying towards the previous all time high. To put into perspective, there’s roughly $11 billion in cumulative short liquidation leverage sitting at $93,450 alone.
 
-10h ago
+11h ago
 
 ---
 
@@ -153,7 +153,7 @@ Significant low volume node here at $73,200 - 74,200. Daily fair value gap $70,5
 
 Not sure, I can see btc break 75k and 70k support . Your opinions please?
 
-4h ago
+5h ago
 
 ---
 
@@ -165,7 +165,7 @@ Not sure, I can see btc break 75k and 70k support . Your opinions please?
 
 Here is what happened this weekend and what it means for the crypto industry.
 
-CoinDesk • 13h ago
+CoinDesk • 14h ago
 
 ---
 
@@ -173,13 +173,13 @@ CoinDesk • 13h ago
 
 For a broadly positive start to a year, though, there are a striking number of caveats, extremes and oddities for skeptics to invoke.
 
-CNBC • 2h ago
+CNBC • 3h ago
 
 ---
 
 **[Bitcoin Selloff Knocks Strategy Stock](https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-02-02-2026/card/bitcoin-selloff-knocks-strategy-stock-NAipQNt3hkAEydQO4uFj?gaa_at=eafs&gaa_n=AWEtsqdODFPrRPeuxT0wJkBAAGwt27fOZVtgXtrq0AfYMhbaLNhiF62c-iXQ&gaa_ts=6980cd3e&gaa_sig=j9_k_zf6BW0UIcIxysJkxU2VbBleROX1mnwmYyQnVU6pc1XRi0gxIhxqSSSX0p4DVmlQ82kFnjaNMNrBNCoaXg%3D%3D)**
 
-The Wall Street Journal • 8h ago
+The Wall Street Journal • 9h ago
 
 ---
 
@@ -187,13 +187,13 @@ The Wall Street Journal • 8h ago
 
 Wall Street is on edge after Friday's sharp reversal ahead of a week defined by Trump's Fed pick, jobs data and more Big Tech earnings.
 
-Yahoo Finance • 19m ago
+Yahoo Finance • 1h ago
 
 ---
 
 **[Michael Saylor’s High-Stakes Bitcoin Bet Faces Fresh Strain](https://www.bloomberg.com/news/articles/2026-02-02/michael-saylor-s-high-stakes-bitcoin-bet-faces-fresh-strain)**
 
-Bloomberg • 54m ago
+Bloomberg • 1h ago
 
 ---
 
@@ -201,7 +201,7 @@ Bloomberg • 54m ago
 
 It was a relatively small purchase for the company, which now holds 713,502 bitcoin purchased at an average price of $76,052 each versus the current price of about $77,000.
 
-CoinDesk • 2h ago
+CoinDesk • 3h ago
 
 ---
 
@@ -209,7 +209,7 @@ CoinDesk • 2h ago
 
 Bitcoin fell as low as about $74,500 early Monday, dipping below Strategy's average purchase price of $76,052 per token.
 
-CNBC • 39m ago
+CNBC • 1h ago
 
 ---
 
@@ -225,7 +225,7 @@ The Block • 2d ago
 
 IBIT outperformed smaller tokens in 2026 despite Bitcoin's 12% YTD decline and a 38.5% drawdown from all-time highs. Read more on IBIT here.
 
-Seeking Alpha • 12h ago
+Seeking Alpha • 13h ago
 
 ---
 
@@ -279,7 +279,7 @@ Bitcoin plunged to a two-month low Thursday as risk-on assets broadly fell—and
 
 **[Single Bitcoin entity keeping BTC price suppressed below $90K](https://news.ycombinator.com/item?id=46812350)**
 
-⬆️ 1 • 💬 0 • 3d ago • [msn.com](https://www.msn.com/en-us/money/markets/single-bitcoin-entity-keeping-btc-price-suppressed-below-90k-analysis/ar-AA1VfVZb)
+⬆️ 1 • 💬 0 • 4d ago • [msn.com](https://www.msn.com/en-us/money/markets/single-bitcoin-entity-keeping-btc-price-suppressed-below-90k-analysis/ar-AA1VfVZb)
 
 ---
 
@@ -287,7 +287,7 @@ Bitcoin plunged to a two-month low Thursday as risk-on assets broadly fell—and
 
 20 years of Hacker News analyzed. 40M comments. 10,000 topics. What the tech community really thinks.
 
-⬆️ 4 • 💬 0 • 2d ago • [HN Zeitgeist](https://hn.mrzepa.com/)
+⬆️ 4 • 💬 0 • 3d ago • [HN Zeitgeist](https://hn.mrzepa.com/)
 
 ---
 
@@ -319,7 +319,7 @@ Seemed too good to be true.
 
 Death threats to them and family followed.
 
-⬆️ 3 • 💬 1 • 2h ago • [Bluesky Social](https://bsky.app/profile/gergely.pragmaticengineer.com/post/3mduva76yek27)
+⬆️ 3 • 💬 1 • 3h ago • [Bluesky Social](https://bsky.app/profile/gergely.pragmaticengineer.com/post/3mduva76yek27)
 
 ---
 
@@ -333,7 +333,7 @@ BYBIT: http://themoon.co/Bybit 10% DISCOUNT & $30000 BONUS Coinflare: https://th
 
 📺 The Moon Show
 
-👁️ 14K • 👍 935 • 💬 88 • ⏱️ 7:03 • 8h ago
+👁️ 14K • 👍 935 • 💬 88 • ⏱️ 7:03 • 9h ago
 
 ---
 
@@ -353,7 +353,7 @@ ClashPicks** Make Free Predictions on *ClashPicks* ▻ https://www.clashpicks.co
 
 📺 Savvy Finance
 
-👁️ 16K • 👍 493 • 💬 42 • ⏱️ 16:33 • 14h ago
+👁️ 16K • 👍 493 • 💬 42 • ⏱️ 16:33 • 15h ago
 
 ---
 
@@ -363,7 +363,7 @@ Bitcoin and crypto are in full crash mode. Prices are dumping, fear is extreme, 
 
 📺 Lark Davis
 
-👁️ 7K • 👍 543 • 💬 59 • ⏱️ 19:01 • 3h ago
+👁️ 7K • 👍 543 • 💬 59 • ⏱️ 19:01 • 4h ago
 
 ---
 
@@ -373,7 +373,7 @@ Bitcoin just dropped nearly 40% and the real reason has nothing to do with fear 
 
 📺 Simply Bitcoin
 
-👁️ 54K • 👍 3K • 💬 427 • ⏱️ 16:36 • 16h ago
+👁️ 54K • 👍 3K • 💬 427 • ⏱️ 16:36 • 17h ago
 
 ---
 
@@ -383,7 +383,7 @@ Bitcoin Just Confirmed a Bear Market Metals - I'm buying the dip Stocks need to 
 
 📺 Camel Finance
 
-👁️ 6K • 👍 674 • 💬 187 • ⏱️ 25:27 • 3h ago
+👁️ 6K • 👍 674 • 💬 187 • ⏱️ 25:27 • 4h ago
 
 ---
 
@@ -403,7 +403,7 @@ Follow me on X for my best content: http://www.X.com/AdamBLiv Transform Dormant 
 
 📺 Adam Livingston
 
-👁️ 9K • 👍 916 • 💬 166 • ⏱️ 18:34 • 17h ago
+👁️ 9K • 👍 916 • 💬 166 • ⏱️ 18:34 • 18h ago
 
 ---
 
