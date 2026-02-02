@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-02-02T10:46:08.483598+00:00'
+updated: '2026-02-02T11:36:37.387711+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- videos
-- social
-- cryptocurrency
 - news
+- videos
+- cryptocurrency
+- social
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** February 02, 2026 at 10:46 UTC  
+**Last Updated:** February 02, 2026 at 11:36 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -44,11 +44,11 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Chart
 
-**24h:** -0.5%  
-**7d:** -12.9%  
-**30d:** -15.0%  
-**90d:** -25.3%  
-**1y:** -23.3%  
+**24h:** -0.7%  
+**7d:** -12.7%  
+**30d:** -14.9%  
+**90d:** -25.2%  
+**1y:** -23.2%  
 
 ---
 
@@ -81,7 +81,7 @@ Rank #1
 
 It's because I bought some
 
-5h ago
+6h ago
 
 ---
 
@@ -89,7 +89,7 @@ It's because I bought some
 
 Bought more at 94K, then again yesterday at 78K. Hands made out Adamantium forged in the fires of the bedrock below the abyss. Spewed forth on the shore and raised by wolves, fed by bears and ate with the giants. I'll see y'all at the end of the year 🥂
 
-7h ago
+8h ago
 
 ---
 
@@ -101,41 +101,11 @@ Bitcoin has broken below the $75K level, a key psychological and technical zone.
 
 ---
 
-**[Who’s holding for at least 10 years?](https://www.reddit.com/r/Bitcoin/comments/1qtcqch/whos_holding_for_at_least_10_years/)**
-
-I’m curious about people’s time table to turning a profit or are you holding out hope that it will become the main currency? Me I’m waiting for at least 30 years before I pull out.
-
-12h ago
-
----
-
 **[Bitcoin ETFs Lose $1.5 Billion In A Week | BlackRock Contributes To $950M](https://www.reddit.com/r/Bitcoin/comments/1qtkhqj/bitcoin_etfs_lose_15_billion_in_a_week_blackrock/)**
 
 Spot crypto ETFs in the U.S. recorded one of their worst weeks. From Jan 26 to 30, 2026, spot Bitcoin ETFs bled $1.49 billion in net outflows.
 
-🔗 [Our Crypto Talk](https://web.ourcryptotalk.com/news/bitcoin-etfs-lose-one-and-a-half-billion) • 6h ago
-
----
-
-**[Buying a full coins worth of bitcoin ETFs tomorrow at market opening](https://www.reddit.com/r/Bitcoin/comments/1qtkult/buying_a_full_coins_worth_of_bitcoin_etfs/)**
-
-These prices are just to go to pass up on. Need to get my Roth involved
-
-6h ago
-
----
-
-**[Explaining Bitcoin like I am 5 years old.... Get to 1 BTC.](https://www.reddit.com/r/Bitcoin/comments/1qtahxx/explaining_bitcoin_like_i_am_5_years_old_get_to_1/)**
-
-13h ago
-
----
-
-**[paper hands see 75k and think it’s over.](https://www.reddit.com/r/Bitcoin/comments/1qtln6g/paper_hands_see_75k_and_think_its_over/)**
-
-But I see 25% discount plus more from the 100k. I feel in 5-10 years if btc ever crashes back to 100k from 200k+ people will see it as a good buying opportunity. DCA AND HODL for 5-10 years
-
-5h ago
+🔗 [Our Crypto Talk](https://web.ourcryptotalk.com/news/bitcoin-etfs-lose-one-and-a-half-billion) • 7h ago
 
 ---
 
@@ -147,11 +117,41 @@ HODLHODLHODLHODLHODLHODLHODLHODLHODLHODLHODLHODLHODLHODLHODLHODLHODLHODLHODLHODL
 
 ---
 
+**[Buying a full coins worth of bitcoin ETFs tomorrow at market opening](https://www.reddit.com/r/Bitcoin/comments/1qtkult/buying_a_full_coins_worth_of_bitcoin_etfs/)**
+
+These prices are just to go to pass up on. Need to get my Roth involved
+
+7h ago
+
+---
+
+**[Explaining Bitcoin like I am 5 years old.... Get to 1 BTC.](https://www.reddit.com/r/Bitcoin/comments/1qtahxx/explaining_bitcoin_like_i_am_5_years_old_get_to_1/)**
+
+14h ago
+
+---
+
+**[paper hands see 75k and think it’s over.](https://www.reddit.com/r/Bitcoin/comments/1qtln6g/paper_hands_see_75k_and_think_its_over/)**
+
+But I see 25% discount plus more from the 100k. I feel in 5-10 years if btc ever crashes back to 100k from 200k+ people will see it as a good buying opportunity. DCA AND HODL for 5-10 years
+
+6h ago
+
+---
+
 **[This is the greatest liquidity grab of all time AKA “The Big Long”](https://www.reddit.com/r/Bitcoin/comments/1qtlz4k/this_is_the_greatest_liquidity_grab_of_all_time/)**
 
 Significant low volume node here at $73,200 - 74,200. Daily fair value gap $70,500 - 74,500. This FVG has been tapped previously and rallied strongly from here. I say we take out this latest low of $74,441.20 and we see one of the greatest liquidity grabs of all time; rallying towards the previous all time high. To put into perspective, there’s roughly $11 billion in cumulative short liquidation leverage sitting at $93,450 alone.
 
-5h ago
+6h ago
+
+---
+
+**[Who’s holding for at least 10 years?](https://www.reddit.com/r/Bitcoin/comments/1qtcqch/whos_holding_for_at_least_10_years/)**
+
+I’m curious about people’s time table to turning a profit or are you holding out hope that it will become the main currency? Me I’m waiting for at least 30 years before I pull out.
+
+13h ago
 
 ---
 
@@ -163,24 +163,24 @@ Significant low volume node here at $73,200 - 74,200. Daily fair value gap $70,5
 
 Here is what happened this weekend and what it means for the crypto industry.
 
-CoinDesk • 8h ago
+CoinDesk • 9h ago
 
 ---
 
-**[U.S. stock futures fall after bitcoin’s weekend drop, as gold and silver’s sell-off may be bleeding into other markets](https://www.marketwatch.com/story/u-s-stock-futures-fall-along-with-bitcoin-and-oil-prices-21adfaf3?gaa_at=eafs&gaa_n=AWEtsqe6tmwfquW-p_cK7w7PvTsuL-uDZug8TPJY3xV-Zqe-71d2aYu_qGz-&gaa_ts=69807749&gaa_sig=O7uSIYuwKJCb9Q4O8xBkx-nmDJ5iuCwJAovbP1w2EPcLjm1DzRTbkMu0NOZ6olIWocyPJI3TMXl8Tha0HMM0ZA%3D%3D)**
+**[U.S. stock futures fall after bitcoin’s weekend drop, as gold and silver’s sell-off may be bleeding into other markets](https://www.marketwatch.com/story/u-s-stock-futures-fall-along-with-bitcoin-and-oil-prices-21adfaf3?gaa_at=eafs&gaa_n=AWEtsqeuHGoeyr_ITN6dBA2sGx7UTNtOwAg1UtgWEHPLk1OerzWg-34Xw3yE&gaa_ts=69808f4b&gaa_sig=DA_Qlo8xUufvK_CH0QY_NUD62k-Q7TV_uA8aZoCuk8mcyL9_CP3qzx5I8oIzrqLwPEppZNy5YQhqfhmebCd_Gg%3D%3D)**
 
-MarketWatch • 11h ago
+MarketWatch • 12h ago
 
 ---
 
-**[Bitcoin Stays Weak After Hitting 10-Month Low](https://www.barrons.com/livecoverage/stock-market-news-today-020226/card/bitcoin-stays-weak-after-hitting-10-month-low-PCbWLLXwDJ25kfO6TVQI?mod=bar_RHF&gaa_at=eafs&gaa_n=AWEtsqewgyoh7bHA15zpRfR6S0ItsbW3ngaf8vngVkMP-cHpKBW_aBNVKS-B&gaa_ts=69807749&gaa_sig=hbNFmtMXHUL7Wqkass8wwe24lTAaYyyOahDJZ1t9DLjCXmCiUrX6fAMEDz6uhRq7X82OBePZ7vNExC70OZh8_Q%3D%3D)**
+**[Bitcoin Stays Weak After Hitting 10-Month Low](https://www.barrons.com/livecoverage/stock-market-news-today-020226/card/bitcoin-stays-weak-after-hitting-10-month-low-PCbWLLXwDJ25kfO6TVQI?mod=bar_RHF&gaa_at=eafs&gaa_n=AWEtsqdE-B4QcMPd9ZOuwwruBXn80AIN5c6svHnNHAiyPXWTAsWa8TEAObsa&gaa_ts=69808f4b&gaa_sig=b1i5zp1etM7QFXWwZYkHXS8v3rmUcqb-AOZ1YeDT5XqngsIa4n55JqkEpPRduF6HJR1weigNMj00mqufIOLbXw%3D%3D)**
 
 Bitcoin inched higher but remained weak, continuing to trade below $80,000 after hitting a 10-month low overnight.
 The fall came alongside a steep selloff in precious metals and falls in U.S. stock futures.
 
 "Effectively, a deleveraging is happening, forcing traders to sell other assets to cover lo
 
-Barron's • 1h ago
+Barron's • 2h ago
 
 ---
 
@@ -188,7 +188,7 @@ Barron's • 1h ago
 
 More than 100 S&P 500 companies are due to report this week, including Amazon, Alphabet and Disney.
 
-CNBC • 11h ago
+CNBC • 14m ago
 
 ---
 
@@ -204,7 +204,7 @@ The Block • 2d ago
 
 Business News: Discover how early Bitcoin investments could have transformed your financial future. Learn about the extraordinary value of Bitcoin from its inception to today, including tales of lost fortunes and missed opportunities.
 
-Times of India • 20h ago
+The Times of India • 21h ago
 
 ---
 
@@ -216,19 +216,11 @@ Fortune • 2d ago
 
 ---
 
-**[Bitcoin wipeout erases entire Trump-era gains](https://www.telegraph.co.uk/business/2026/02/01/bitcoin-wipeout-erases-entire-trump-era-gains/)**
+**[Better Investment to Make in 2026 and Beyond: Bitcoin vs. iShares Bitcoin Trust](https://www.fool.com/investing/2026/01/31/better-investment-2026-beyond-bitcoin-ibit/)**
 
-Cryptocurrency tumbles as US president fuels geopolitical uncertainty
+Based on its monster past performance, it makes sense why investors are interested in Bitcoin.
 
-The Telegraph • 17h ago
-
----
-
-**[Bitcoin Faces Renewed Scrutiny Over Quantum Computing Threat](https://thedefiant.io/news/blockchains/bitcoin-quantum-computing-threat)**
-
-For years, warnings that quantum computers could “break Bitcoin” appeared in headlines and on social media, but many dismissed them as alarmism. Practical quantum machines capable of such attacks simply didn’t exist and the risks seemed far off.
-
-thedefiant.io • 17h ago
+The Motley Fool • 1d ago
 
 ---
 
@@ -237,6 +229,14 @@ thedefiant.io • 17h ago
 Warsh, a former central bank governor with deep establishment ties, has recently aligned with Trump’s push for lower rates.  Instead, a risk-off tone lingered over markets as the Warsh news circulated: stock fell and the dollar traded just off four-year lows.  With Bitcoin now down more than 30% from its October peak — and US spot ETFs posting their longest streak of monthly outflows since launching — traders appear unconvinced that either macro or policy signals offer much near-term relief.
 
 Yahoo Finance • 2d ago
+
+---
+
+**[Investors Pull Nearly $818 Million From Bitcoin ETFs as Cryptocurrency Tanks](https://finance.yahoo.com/news/investors-pull-nearly-818-million-174640067.html)**
+
+Bitcoin (CRYPTO: BTC) exchange-traded funds (ETFs) experienced a substantial one-day reversal last week. Investors pulled out nearly $818 million as Bitcoin’s price plummeted to a nine-month low. Data indicated that Bitcoin ETFs registered net daily outflows of $817.87 million on January 29. This pushed January into an overall negative zone. However, the cumulative net inflows since the inception of Bitcoin ETFs remained significant at $55.52 billion. The largest product by assets, BlackRock’s i
+
+Yahoo Finance • 1d ago
 
 ---
 
@@ -330,7 +330,7 @@ ClashPicks** Make Free Predictions on *ClashPicks* ▻ https://www.clashpicks.co
 
 📺 CryptosRUs
 
-👁️ 48K • 👍 2K • 💬 820 • ⏱️ 15:58 • 9h ago
+👁️ 48K • 👍 2K • 💬 820 • ⏱️ 15:58 • 10h ago
 
 ---
 
@@ -340,7 +340,7 @@ Let's provide a Bitcoin damage report. Into The Cryptoverse Premium: https://int
 
 📺 Benjamin Cowen
 
-👁️ 46K • 👍 4K • 💬 139 • ⏱️ 48:03 • 6h ago
+👁️ 46K • 👍 4K • 💬 139 • ⏱️ 48:03 • 7h ago
 
 ---
 
@@ -350,7 +350,7 @@ Bitcoin just dropped nearly 40% and the real reason has nothing to do with fear 
 
 📺 Simply Bitcoin
 
-👁️ 44K • 👍 2K • 💬 382 • ⏱️ 16:36 • 11h ago
+👁️ 44K • 👍 2K • 💬 382 • ⏱️ 16:36 • 12h ago
 
 ---
 
@@ -370,7 +370,7 @@ BYBIT: http://themoon.co/Bybit 10% DISCOUNT & $30000 BONUS Coinflare: https://th
 
 📺 Savvy Finance
 
-👁️ 12K • 👍 403 • 💬 38 • ⏱️ 16:33 • 9h ago
+👁️ 12K • 👍 403 • 💬 38 • ⏱️ 16:33 • 10h ago
 
 ---
 
@@ -380,7 +380,7 @@ Follow me on X for my best content: http://www.X.com/AdamBLiv Transform Dormant 
 
 📺 Adam Livingston
 
-👁️ 8K • 👍 789 • 💬 150 • ⏱️ 18:34 • 12h ago
+👁️ 8K • 👍 789 • 💬 150 • ⏱️ 18:34 • 13h ago
 
 ---
 
@@ -390,7 +390,7 @@ In today's crypto market update, Kyle Doops analyzes the Bitcoin crash in real t
 
 📺 Crypto Banter
 
-👁️ 7K • 👍 737 • 💬 13 • ⏱️ 34:46 • 2h ago
+👁️ 7K • 👍 737 • 💬 13 • ⏱️ 34:46 • 3h ago
 
 ---
 
@@ -410,7 +410,7 @@ EMERGENCY Bitcoin $68000 Incoming $6B GONE! MicroStrategy Era Ends? XRP XLM in F
 
 📺 CryptoWendyO
 
-👁️ 32K • 👍 2K • 💬 44 • ⏱️ 27:24 • 16h ago
+👁️ 32K • 👍 2K • 💬 44 • ⏱️ 27:24 • 17h ago
 
 ---
 
@@ -420,7 +420,7 @@ Is the Bitcoin bottom finally in, or is there still more downside ahead this cyc
 
 📺 EllioTrades
 
-👁️ 23K • 👍 1K • 💬 451 • ⏱️ 26:47 • 12h ago
+👁️ 23K • 👍 1K • 💬 451 • ⏱️ 26:47 • 13h ago
 
 ---
 

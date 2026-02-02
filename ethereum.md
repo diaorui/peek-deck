@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-02-02T10:46:08.489466+00:00'
+updated: '2026-02-02T11:36:37.393720+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- videos
-- social
-- cryptocurrency
 - news
+- videos
+- cryptocurrency
+- social
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** February 02, 2026 at 10:46 UTC  
+**Last Updated:** February 02, 2026 at 11:36 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -36,17 +36,17 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Price
 
-### $2,242.52
+### $2,257.72
 
 ---
 
 ## Ethereum Chart
 
-**24h:** -3.4%  
-**7d:** -23.9%  
-**30d:** -26.9%  
-**90d:** -32.7%  
-**1y:** -20.2%  
+**24h:** -4.6%  
+**7d:** -24.4%  
+**30d:** -27.4%  
+**90d:** -33.2%  
+**1y:** -20.7%  
 
 ---
 
@@ -72,7 +72,7 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-4h ago
+5h ago
 
 ---
 
@@ -80,13 +80,13 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 Re https://firefly.social/post/x/2018205196568944653 I actually don't think it's complicated. IMO the future of onchain mechanism design is mostly going to fit into one pattern: [something that looks like a prediction market] -> [something that looks like a capture-resistant, non-financialized preference-setting gadget] In other words: One layer that is maximally open and maximizes accountability (it's a market, anyone can buy and sell, if you make good decisions you win money if you make bad decisions you lose money) One layer that is decentralized and pluralistic, and that maximizes space for intrinsic motivation. This cannot be token-based, because token owners are not pluralistic, and anyone can buy in and get 51% of them. Votes here should be anonymous, ideally MACI'd to reduce risk of collusion. The prediction market is the correct way to do a "decentralized executive", because the most logical primitive for "accountability" in a permissionless concept is exactly that. Though sometimes you will want to keep it simple, and do a centralized executive at that layer instead: [replaceable centralized executive] -> [something that looks like a capture-resistant, non-financialized preference-setting gadget] Thinking in these two layers explicitly: (i) what is doing your execution, (ii) what is doing your preference-setting and is judging the executor(s), is best.
 
-4h ago
+5h ago
 
 ---
 
 **[Sold BTC into USDC (ERC20) now want to get back into BTC via WBTC. Best way to swap?](https://www.reddit.com/r/ethereum/comments/1qtmbfd/sold_btc_into_usdc_erc20_now_want_to_get_back/)**
 
-5h ago
+6h ago
 
 ---
 
@@ -152,7 +152,7 @@ It was some time ago that ETH went from proof of work to proof of stake. At the 
 
 Earlier in January, the Ethereum Foundation formally elevated post-quantum security to a strategic priority, creating a dedicated Post-Quantum team.
 
-CoinDesk • 19h ago
+CoinDesk • 20h ago
 
 ---
 
@@ -160,53 +160,31 @@ CoinDesk • 19h ago
 
 The Ethereum founder claims his strategy of betting against extreme market sentiment ‘usually makes money’ on Polymarket.
 
-Decrypt • 16h ago
+Decrypt • 17h ago
 
 ---
 
-**[Nearly $3 Billion Ethereum Selling Could Drive a 16% Crash](https://finance.yahoo.com/news/nearly-3-billion-ethereum-selling-191410702.html)**
+**[2 Reasons to Buy Ethereum Before July 2026](https://www.fool.com/investing/2026/02/02/2-reasons-to-buy-ethereum-before-july-2026/)**
 
-Ethereum faces heavy selling pressure as $2.8 billion whale distribution raises risks of a 16% price correction.
+Ethereum may be down, but it's not out. It could soar almost 50% based on two key catalysts.
 
-Yahoo Finance • 1d ago
-
----
-
-**[Bitcoin, XRP, Ethereum Fall on News of Kevin Warsh Fed Appointment.](https://www.barrons.com/articles/bitcoin-xrp-ethereum-crypto-today-954298d9?gaa_at=eafs&gaa_n=AWEtsqcFya2xSiyzm_vs3S2dsv5St5bCX514fnt99FU32iqpXKkG0cWz0rH_&gaa_ts=6980774b&gaa_sig=M7mIeSEQ1c5l1WVysqJUxRUTHEZI7pawyby3H6imWaeH70au4eJO_W3sWM17UpiCaBXjcaTUJCVf3DAXhvRjQg%3D%3D)**
-
-Barron's • 2d ago
+The Motley Fool • 1h ago
 
 ---
 
-**[AI Models Predict Ethereum, Solana, and XRP 2026 Prices—Which Altcoin Has the Biggest Upside?](https://finance.yahoo.com/news/ai-models-predict-ethereum-solana-193044962.html)**
+**[BitMine Immersion Can’t Stop Buying Ethereum as Crypto Prices Tank](https://finance.yahoo.com/news/bitmine-immersion-t-stop-buying-204823044.html)**
 
-Four major AI models have projected 2026 price targets for Ethereum (CRYPTO: ETH), Solana (CRYPTO: SOL), and XRP (CRYPTO: XRP). The forecasts range from conservative consolidation to triple-digit percentage gains, with each asset showing different upside potential based on adoption trends, network activity, and market positioning. Ethereum anchors institutional DeFi with mature Layer 2 networks, ... AI Models Predict Ethereum, Solana, and XRP 2026 Prices—Which Altcoin Has the Biggest Upside?
+BitMine Immersion continues to accumulate Ethereum amid price declines, following a treasury strategy inspired by Strategy.
 
 Yahoo Finance • 2d ago
 
 ---
 
-**[Why are Bitcoin, Ethereum and XRP Prices Crashing Today?](https://www.tradingview.com/news/coinpedia:b99ef7f8a094b:0-why-are-bitcoin-ethereum-and-xrp-prices-crashing-today/)**
+**[BitMine Immersion Wrestles With Ethereum Losses Concentration Risk And Leadership Shift](https://finance.yahoo.com/news/bitmine-immersion-wrestles-ethereum-losses-110825271.html)**
 
-The crypto market is facing a major sell-off today, with total market value dropping to $2.66 trillion, down more than 6% in the last 24 hours. Bitcoin, Ethereum, XRP and other major cryptocurrencies have all fallen sharply, wiping out nearly $500 billion from the market in just a few days.The bigg…
+BitMine Immersion Technologies (NYSEAM:BMNR) reports over US$6b in unrealized losses tied to rapid Ethereum accumulation and staking activity. The company has pursued an Ethereum heavy treasury approach, concentrating its exposure in a single crypto asset. President Erik Nelson has left the company during this period of financial strain, marking a significant leadership transition. These developments raise questions about BMNR's risk tolerance, treasury management approach, and future...
 
-TradingView • 1d ago
-
----
-
-**[Ethereum Supply Tightens With 45% of ETH Locked: Sygnum](https://thedefiant.io/news/research-and-opinion/ethereum-supply-tightens-with-45-of-eth-locked-sygnum)**
-
-ETF buying, staking and corporate holdings continue to reduce liquid ETH.
-
-thedefiant.io • 2d ago
-
----
-
-**[Better Crypto Buy: Bitcoin vs. Ethereum](https://www.fool.com/investing/2026/01/30/better-crypto-buy-bitcoin-vs-ethereum/)**
-
-For crypto investors, it's time to buy the dip on Bitcoin again.
-
-The Motley Fool • 3d ago
+Yahoo Finance • 28m ago
 
 ---
 
@@ -218,11 +196,33 @@ CoinDesk • 1d ago
 
 ---
 
-**[BitMine Immersion Can’t Stop Buying Ethereum as Crypto Prices Tank](https://finance.yahoo.com/news/bitmine-immersion-t-stop-buying-204823044.html)**
+**[Bitcoin, XRP, Ethereum Fall on News of Kevin Warsh Fed Appointment.](https://www.barrons.com/articles/bitcoin-xrp-ethereum-crypto-today-954298d9?gaa_at=eafs&gaa_n=AWEtsqcKLDCZrYlVLCTj_WnWizaa_5awvteKCSOUFawgIL-iojZiPiw6HU6x&gaa_ts=69808f4d&gaa_sig=lKrY-HxyNmcBfIYZroXbT-AlaLOshUuJNS_P3fMXr2Hexynfml98mgzW3ifPogyg5xyAeoaFYcj4PwjjYugE5A%3D%3D)**
 
-BitMine Immersion continues to accumulate Ethereum amid price declines, following a treasury strategy inspired by Strategy.
+Barron's • 2d ago
 
-Yahoo Finance • 2d ago
+---
+
+**[Ethereum Supply Tightens With 45% of ETH Locked: Sygnum](https://thedefiant.io/news/research-and-opinion/ethereum-supply-tightens-with-45-of-eth-locked-sygnum)**
+
+ETF buying, staking and corporate holdings continue to reduce liquid ETH.
+
+thedefiant.io • 2d ago
+
+---
+
+**[Why Solana, XRP, and Ethereum Could Lead the Next Crypto Rally](https://coinpedia.org/news/why-solana-xrp-and-ethereum-could-lead-the-next-crypto-rally/)**
+
+Banks at Davos are done watching from the sidelines. At this year's World Economic Forum, major financial institutions said they need crypto
+
+Coinpedia Fintech News • 2d ago
+
+---
+
+**[A sudden shift in Ethereum staking is draining billions from exchanges toward a new corporate elite](https://cryptoslate.com/how-staking-turned-ethereum-into-a-treasury-trade/)**
+
+Corporate Ethereum treasuries use staking to earn additional ETH, turning reserves into a compounding strategy instead of passive exposure.
+
+CryptoSlate • 17h ago
 
 ---
 
@@ -246,7 +246,7 @@ FREE TRAINING: https://www.bullmania.com EXCHANGES I USE (bybit, pionex): https:
 
 📺 Ivan on Tech
 
-👁️ 4K • 👍 369 • 💬 3 • ⏱️ 46:08 • 2h ago
+👁️ 4K • 👍 369 • 💬 3 • ⏱️ 46:08 • 3h ago
 
 ---
 
@@ -256,7 +256,7 @@ This video provides a professional Elliott Wave and technical analysis of Ethere
 
 📺 More Crypto Online
 
-👁️ 3K • 👍 229 • 💬 18 • ⏱️ 5:18 • 10h ago
+👁️ 3K • 👍 229 • 💬 18 • ⏱️ 5:18 • 11h ago
 
 ---
 
@@ -286,7 +286,7 @@ FREE TRAINING: https://www.bullmania.com EXCHANGES I USE (bybit, pionex): https:
 
 📺 Ivan on Tech
 
-👁️ 21K • 👍 2K • 💬 119 • ⏱️ 45:22 • 15h ago
+👁️ 21K • 👍 2K • 💬 119 • ⏱️ 45:22 • 16h ago
 
 ---
 
@@ -296,7 +296,7 @@ Want a free $30000 bonus + $20 just for signing up? Go here: ...
 
 📺 BitcoinHyper
 
-👁️ 11K • 👍 699 • 💬 68 • ⏱️ 55:54 • 13h ago
+👁️ 11K • 👍 699 • 💬 68 • ⏱️ 55:54 • 14h ago
 
 ---
 
@@ -306,7 +306,7 @@ After getting chopped up in ETH shorts over the past few months, I found a momen
 
 📺 Taiki Maeda
 
-👁️ 8K • 👍 429 • 💬 131 • ⏱️ 48:54 • 15h ago
+👁️ 8K • 👍 429 • 💬 131 • ⏱️ 48:54 • 16h ago
 
 ---
 
@@ -326,7 +326,7 @@ BITCOIN CRASH: The Reset Has Started (Prepare Now)!!! - Bitcoin News Today, Ethe
 
 📺 Crypto World
 
-👁️ 15K • 👍 458 • 💬 98 • ⏱️ 24:14 • 12h ago
+👁️ 15K • 👍 458 • 💬 98 • ⏱️ 24:14 • 13h ago
 
 ---
 
