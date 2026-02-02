@@ -3,7 +3,7 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-02-02T02:23:07.704646+00:00'
+updated: '2026-02-02T04:36:28.274285+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
@@ -18,7 +18,7 @@ data_types:
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** February 02, 2026 at 02:23 UTC  
+**Last Updated:** February 02, 2026 at 04:36 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,33 +38,33 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $77,000.00
+### $76,463.53
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** -2.3%  
-**7d:** -13.6%  
-**30d:** -15.7%  
-**90d:** -25.9%  
-**1y:** -24.0%  
+**24h:** -2.7%  
+**7d:** -14.3%  
+**30d:** -16.4%  
+**90d:** -26.5%  
+**1y:** -24.6%  
 
 ---
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1541.34B
+**Market Cap:** $1523.66B
 Rank #1
 
 **Circulating Supply:** 19,982,656 BTC
 95.2% of max
 
 **All-Time High:** $126,080.00
--38.8%
+-39.4%
 
 **All-Time Low:** $67.81
-+113662.0%
++112536.8%
 
 ---
 
@@ -79,7 +79,7 @@ Rank #1
 
 **[Explaining Bitcoin like I am 5 years old.... Get to 1 BTC.](https://www.reddit.com/r/Bitcoin/comments/1qtahxx/explaining_bitcoin_like_i_am_5_years_old_get_to_1/)**
 
-5h ago
+7h ago
 
 ---
 
@@ -87,15 +87,23 @@ Rank #1
 
 Told myself I'd buy if it dropped below 80k. So putting my money where my mouth and mind is. According to Murphys law we're now going to freefall.
 
-9h ago
+11h ago
 
 ---
 
-**[1 BTC Milestone](https://www.reddit.com/r/Bitcoin/comments/1qt2j6p/1_btc_milestone/)**
+**[Bitcoin Falls Below $75,000 – What It Means for the Market](https://www.reddit.com/r/Bitcoin/comments/1qtk4nq/bitcoin_falls_below_75000_what_it_means_for_the/)**
 
-https://preview.redd.it/vxv06n0opwgg1.png?width=609&format=png&auto=webp&s=72be41e44d7845ef9be6dcb6c03279feda689a0b Bought several dips including this one. Got to a full BTC finally. Doesn't feel as special as I thought I would when I started the journey in 2024. Still, I think it is a special moment for those who believe in BTC. Onwards to 2 BTC...
+Bitcoin has broken below the $75K level, a key psychological and technical zone. This breakdown increases downside risk in the short term and may keep overall market sentiment cautious. Key considerations: Loss of momentum above $75K weakens bullish structure Liquidity may be targeted at lower support levels Altcoins could remain under pressure if BTC dominance stays elevated Market reaction to ETF flows and macro data is critical Until Bitcoin reclaims $75K with strong volume, this move should be treated as a risk-off signal, not a dip-buy confirmation. What levels are you watching next?
 
-10h ago
+59m ago
+
+---
+
+**[All in at 110K](https://www.reddit.com/r/Bitcoin/comments/1qtk2r5/all_in_at_110k/)**
+
+Bought more at 94K, then again yesterday at 78K. Hands made out Adamantium forged in the fires of the bedrock below the abyss. Spewed forth on the shore and raised by wolves, fed by bears and ate with the giants. I'll see y'all at the end of the year 🥂
+
+1h ago
 
 ---
 
@@ -103,19 +111,27 @@ https://preview.redd.it/vxv06n0opwgg1.png?width=609&format=png&auto=webp&s=72be4
 
 I’m curious about people’s time table to turning a profit or are you holding out hope that it will become the main currency? Me I’m waiting for at least 30 years before I pull out.
 
-4h ago
+6h ago
+
+---
+
+**[1 BTC Milestone](https://www.reddit.com/r/Bitcoin/comments/1qt2j6p/1_btc_milestone/)**
+
+https://preview.redd.it/vxv06n0opwgg1.png?width=609&format=png&auto=webp&s=72be41e44d7845ef9be6dcb6c03279feda689a0b Bought several dips including this one. Got to a full BTC finally. Doesn't feel as special as I thought I would when I started the journey in 2024. Still, I think it is a special moment for those who believe in BTC. Onwards to 2 BTC...
+
+12h ago
 
 ---
 
 **[Wipe away those tears and just enjoy the ride](https://www.reddit.com/r/Bitcoin/comments/1qt42s7/wipe_away_those_tears_and_just_enjoy_the_ride/)**
 
-9h ago
+11h ago
 
 ---
 
 **[Just built the google map of Bitcoin Companies 📍](https://www.reddit.com/r/Bitcoin/comments/1qtef82/just_built_the_google_map_of_bitcoin_companies/)**
 
-2h ago
+5h ago
 
 ---
 
@@ -123,31 +139,15 @@ I’m curious about people’s time table to turning a profit or are you holding
 
 12 years ago, I explained Bitcoin was a solid choice for stress testing hardware. Too bad not many believed. https://www.reddit.com/r/overclocking/s/SBGEnzgZIn I have been around BTC since the first $30 moon on 2012. I still dabble in the game, and never became rich. Did buy a cheap condo with it and still refuse to sell my 2009 Buehl XB12R I paid a handsome 1 BTC for (at the conversion of $3300.) Always set aside some income for the future and investment. You can do better than I did.
 
-3h ago
-
----
-
-**[Bitcoin Miner](https://www.reddit.com/r/Bitcoin/comments/1qt51op/bitcoin_miner/)**
-
-Got my mining rig working overtime today!
-
-8h ago
-
----
-
-**[Enjoy the ride! First-timers vs bitcoin vets.](https://www.reddit.com/r/Bitcoin/comments/1qtavwl/enjoy_the_ride_firsttimers_vs_bitcoin_vets/)**
-
-https://preview.redd.it/ilwp5bbs7ygg1.png?width=691&format=png&auto=webp&s=14046d3266d012e7420d54c58ad387c7f18b1477 Don't sweat it!
-
 5h ago
 
 ---
 
-**[Hear Me Out](https://www.reddit.com/r/Bitcoin/comments/1qsuecx/hear_me_out/)**
+**[Bitcoin ETFs Lose $1.5 Billion In A Week | BlackRock Contributes To $950M](https://www.reddit.com/r/Bitcoin/comments/1qtkhqj/bitcoin_etfs_lose_15_billion_in_a_week_blackrock/)**
 
-Best Case Scenario - BTC will test 92K, if it breaks it will set a new ATH. Worst Case Scenario - If it loses 50K support, cheap BTC incoming. Regardless, in my experience (since 2015), unless you are an extremely smart person with excellent TA skills supported by a crystal ball, u cannot time the market. DCA, ignore your short term losses. Overall, you will make it. In 2017, I lost a significant amount of money. In 2021, I made a decent profit. I didn’t exit, continue to DCA. Thats my forever strategy that always pays on the long run. Ignore hopium and negative comments. Focus on your bag. Don’t FOMO, don’t panic sell. Aim for profits. Edit: This post is not intended to give anyone any advice. Also, this is not a price prediction. We are all responsible adults who can think and make decisions. This post is intended to provide reassurances to those that might feel worried. I am in no position to provide financial help and guidance. However, I can humbly share my own experiences to comfort new traders.
+Spot crypto ETFs in the U.S. recorded one of their worst weeks. From Jan 26 to 30, 2026, spot Bitcoin ETFs bled $1.49 billion in net outflows.
 
-16h ago
+🔗 [Our Crypto Talk](https://web.ourcryptotalk.com/news/bitcoin-etfs-lose-one-and-a-half-billion) • 41m ago
 
 ---
 
@@ -155,25 +155,11 @@ Best Case Scenario - BTC will test 92K, if it breaks it will set a new ATH. Wors
 
 ## Google News: "bitcoin"
 
-**[Bitcoin Price Drops Below $80,000 as New Buyers Rush to Accumulate](https://finance.yahoo.com/news/bitcoin-price-drops-below-80-174544304.html)**
+**['This is absolutely INSANE': Bitcoin’s weekend crash exposes the cracks beneath crypto’s latest boom](https://www.coindesk.com/markets/2026/02/01/this-is-absolutely-insane-bitcoin-s-weekend-crash-exposes-the-cracks-beneath-crypto-s-latest-boom)**
 
-Bitcoin price dipped below $80k as 335,000 new wallets signal rising adoption despite short-term BTC price weakness.
+Here is what happened this weekend and what it means for the crypto industry.
 
-Yahoo Finance • 1d ago
-
----
-
-**[U.S. stock futures mixed after bitcoin’s weekend drop, as gold and silver’s sell-off may be bleeding into other markets](https://www.marketwatch.com/story/u-s-stock-futures-fall-along-with-bitcoin-and-oil-prices-21adfaf3?gaa_at=eafs&gaa_n=AWEtsqez7V2ld2cGG5Ugs4ywA9uSb3sgYBmfz3UIpUcZpun8kvfcriEkhu__&gaa_ts=69800df0&gaa_sig=Bu_zAceITRfV_vc-2LWpJDmDycvxM-f5reJJEzC8BZ2zHH4E-9UAHwZ72dYrwvwH5qAGlgrfYaXpdLYd-2XgKQ%3D%3D)**
-
-MarketWatch • 3h ago
-
----
-
-**[Stock futures fall after silver, bitcoin sell off; questions loom over AI trade: Live updates](https://www.cnbc.com/2026/02/01/stock-market-today-live-updates.html)**
-
-More than 100 S&P 500 companies are due to report this week, including Amazon, Alphabet and Disney.
-
-CNBC • 2h ago
+CoinDesk • 2h ago
 
 ---
 
@@ -183,7 +169,7 @@ Forbes • 1d ago
 
 ---
 
-**[Bitcoin, XRP, Ethereum Fall on News of Kevin Warsh Fed Appointment.](https://www.barrons.com/articles/bitcoin-xrp-ethereum-crypto-today-954298d9?gaa_at=eafs&gaa_n=AWEtsqc2_huhr5FBVrBztJnPsomz4Rg-4XZlSOlfcaKXuy4M2Xhpe-rfcnzJ&gaa_ts=69800df0&gaa_sig=8qjr66Yl5JECKKRDFszjMKqpFyYDPMiUEvAe6rzk02r6IvnLufXY7fHzPCW-zobLMXiL0rg4QdvNqqh7UwHIHw%3D%3D)**
+**[Bitcoin, XRP, Ethereum Fall on News of Kevin Warsh Fed Appointment.](https://www.barrons.com/articles/bitcoin-xrp-ethereum-crypto-today-954298d9?gaa_at=eafs&gaa_n=AWEtsqcbWZvk5MNJJcgBdTWl2QzJA3ccbNiF6VCUyYltV5RDexMRXj0h7De6&gaa_ts=69802d33&gaa_sig=DA14pw-yuqoRxjDhl4-mmdBNQGua1zo-7_HIj-iKy429u7DzlZBliH_LbcFJl3thj2_3X3j92Lq_429t7YN9lA%3D%3D)**
 
 Barron's • 2d ago
 
@@ -205,17 +191,17 @@ The Block • 2d ago
 
 ---
 
-**[The Slide in Gold and Silver Sets Up a Test for Bitcoin](https://www.barrons.com/articles/the-slide-in-gold-and-silver-sets-up-a-test-for-bitcoin-2a9573b3?gaa_at=eafs&gaa_n=AWEtsqcAmUsPcT-jksPgK3X9lLumHUN0euxUitFOmzcyWTOOYR8l49HE_X1-&gaa_ts=69800df0&gaa_sig=w50isjidJeaNyLsxmjXSq_uu5g694hXVYNuoz1OL-f3PJncbYn0CnSrAc1EnUI-PyDIrpeU0WWJyXyQzseFDlQ%3D%3D)**
+**[U.S. stock futures fall after bitcoin’s weekend drop, as gold and silver’s sell-off may be bleeding into other markets](https://www.marketwatch.com/story/u-s-stock-futures-fall-along-with-bitcoin-and-oil-prices-21adfaf3?gaa_at=eafs&gaa_n=AWEtsqfVce96Dq_Yc28AqycWsjP4al2JY6i9nM0YIX9HjfTQrd5uVFZUcUOA&gaa_ts=69802d33&gaa_sig=0MKsUVdhfLTm_eDrLnGnCu_vhpcRzDpF1v329hn7emAahJ-gIu0gEakaxNXDHamIXs1Td8a7PtUethv-SOCjwA%3D%3D)**
 
-Barron's • 2d ago
+MarketWatch • 5h ago
 
 ---
 
-**[Bitcoin’s freefall approaches $80,000 as precious metals also tank](https://fortune.com/2026/01/30/bitcoin-price-today-ethereum-gold-silver-platinum-copper/)**
+**[If you bought just $1 of Bitcoin when it launched 17 years ago, how rich would you be today?](https://timesofindia.indiatimes.com/business/if-you-bought-just-1-of-bitcoin-when-it-launched-17-years-ago-how-rich-would-you-be-today/articleshow/127841336.cms)**
 
-The world’s largest cryptocurrency is down 2% over the past day while gold and silver have dropped 11% and 30%, respectively.
+Business News: Discover how early Bitcoin investments could have transformed your financial future. Learn about the extraordinary value of Bitcoin from its inception to today, including tales of lost fortunes and missed opportunities.
 
-Fortune • 2d ago
+Times of India • 14h ago
 
 ---
 
@@ -223,7 +209,23 @@ Fortune • 2d ago
 
 For years, warnings that quantum computers could “break Bitcoin” appeared in headlines and on social media, but many dismissed them as alarmism. Practical quantum machines capable of such attacks simply didn’t exist and the risks seemed far off.
 
-thedefiant.io • 9h ago
+thedefiant.io • 11h ago
+
+---
+
+**[Bitcoin sell-off pushes IBIT investor returns into the red — asset manager](https://www.tradingview.com/news/cointelegraph:e4b947009094b:0-bitcoin-sell-off-pushes-ibit-investor-returns-into-the-red-asset-manager/)**
+
+Bitcoin’s sharp decline over the weekend has likely pushed the aggregate investor position in the largest spot Bitcoin exchange-traded fund (ETF) into negative territory, underscoring the severity of the recent downturn.According to Bob Elliott, chief investment officer at asset manager Unlimited F…
+
+TradingView • 10h ago
+
+---
+
+**[Investors Pull Nearly $818 Million From Bitcoin ETFs as Cryptocurrency Tanks](https://finance.yahoo.com/news/investors-pull-nearly-818-million-174640067.html)**
+
+Bitcoin (CRYPTO: BTC) exchange-traded funds (ETFs) experienced a substantial one-day reversal last week. Investors pulled out nearly $818 million as Bitcoin’s price plummeted to a nine-month low. Data indicated that Bitcoin ETFs registered net daily outflows of $817.87 million on January 29. This pushed January into an overall negative zone. However, the cumulative net inflows since the inception of Bitcoin ETFs remained significant at $55.52 billion. The largest product by assets, BlackRock’s i
+
+Yahoo Finance • 1d ago
 
 ---
 
@@ -309,13 +311,33 @@ Transform HN comment threads into executive intelligence. AI analyzes discussion
 
 ## YouTube Videos: "bitcoin"
 
+**[The Bitcoin Super Cycle Is Over...](https://www.youtube.com/watch?v=1G1N_V-h1Ok)**
+
+ClashPicks** Make Free Predictions on *ClashPicks* ▻ https://www.clashpicks.com/ Follow ClashPicks' X ...
+
+📺 CryptosRUs
+
+👁️ 19K • 👍 2K • 💬 550 • ⏱️ 15:58 • 3h ago
+
+---
+
 **[Why Did Bitcoin Crash Below $80K?](https://www.youtube.com/watch?v=zBBEg7DP-Co)**
 
 Bitcoin just dropped nearly 40% and the real reason has nothing to do with fear or headlines. A $1B liquidation, Fed balance ...
 
 📺 Simply Bitcoin
 
-👁️ 10K • 👍 1K • 💬 192 • ⏱️ 16:36 • 3h ago
+👁️ 24K • 👍 2K • 💬 308 • ⏱️ 16:36 • 5h ago
+
+---
+
+**[Brace Up! Bitcoin&#39;s About to Pull a VERY Shocking Move&quot; - Tom Lee](https://www.youtube.com/watch?v=Fz8xdgyLKBE)**
+
+0:00 – Crypto's Hidden Crash After the October Peak 0:11 – The Biggest Deleveraging Event in Crypto History 0:32 – Over 2 ...
+
+📺 Savvy Finance
+
+👁️ 4K • 👍 243 • 💬 40 • ⏱️ 16:33 • 3h ago
 
 ---
 
@@ -325,37 +347,17 @@ Is the Bitcoin bottom finally in, or is there still more downside ahead this cyc
 
 📺 EllioTrades
 
-👁️ 10K • 👍 837 • 💬 287 • ⏱️ 26:47 • 4h ago
+👁️ 16K • 👍 1K • 💬 319 • ⏱️ 26:47 • 6h ago
 
 ---
 
-**[&quot;IT&#39;S OVER! This HUGE News Just SHATTERED All Expectations for 2026&quot; - Michael Saylor &amp; Raoul Pal](https://www.youtube.com/watch?v=WakKT4jGSRA)**
+**[Bitcoin Cliff Dwellers](https://www.youtube.com/watch?v=oH-uT70Qc6c)**
 
-The crypto market just suffered a brutal liquidity-driven unwind. Bitcoin, Ethereum, and major altcoins collapsed in a cascading ...
+Let's provide a Bitcoin damage report. Into The Cryptoverse Premium: https://intothecryptoverse.com You can use the link ...
 
-📺 Savvy Finance
+📺 Benjamin Cowen
 
-👁️ 13K • 👍 508 • 💬 29 • ⏱️ 17:25 • 9h ago
-
----
-
-**[How LOW Can Bitcoin &amp; Alts Go?!? w/ Jerry V. Hall](https://www.youtube.com/watch?v=W2lj5KjrUlk)**
-
-Today is a stable day ( so far) with bitcoin at 77k but alts dumping even more. Let's see just how low things have been...and why ...
-
-📺 Digital Asset News
-
-👁️ 11K • 👍 599 • 💬 119 • ⏱️ 40:04 • 7h ago
-
----
-
-**[The Actual Reason Bitcoin Is Crashing (you won&#39;t believe)](https://www.youtube.com/watch?v=rlvplss4VoM)**
-
-LIMITED TIME: ✓ Bitunix (no kyc, $10k bonus): https://www.bitunix.com/register?vipCode=AltcoinDaily 50% deposit bonus on ...
-
-📺 Altcoin Daily
-
-👁️ 105K • 👍 4K • 💬 476 • ⏱️ 9:24 • 1d ago
+👁️ 14K • 👍 2K • 💬 24 • ⏱️ 48:03 • 14m ago
 
 ---
 
@@ -365,7 +367,37 @@ EMERGENCY Bitcoin $68000 Incoming $6B GONE! MicroStrategy Era Ends? XRP XLM in F
 
 📺 CryptoWendyO
 
-👁️ 24K • 👍 2K • 💬 36 • ⏱️ 27:24 • 7h ago
+👁️ 27K • 👍 2K • 💬 41 • ⏱️ 27:24 • 9h ago
+
+---
+
+**[How LOW Can Bitcoin &amp; Alts Go?!? w/ Jerry V. Hall](https://www.youtube.com/watch?v=W2lj5KjrUlk)**
+
+Today is a stable day ( so far) with bitcoin at 77k but alts dumping even more. Let's see just how low things have been...and why ...
+
+📺 Digital Asset News
+
+👁️ 12K • 👍 629 • 💬 128 • ⏱️ 40:04 • 9h ago
+
+---
+
+**[The Actual Reason Bitcoin Is Crashing (you won&#39;t believe)](https://www.youtube.com/watch?v=rlvplss4VoM)**
+
+LIMITED TIME: ✓ Bitunix (no kyc, $10k bonus): https://www.bitunix.com/register?vipCode=AltcoinDaily 50% deposit bonus on ...
+
+📺 Altcoin Daily
+
+👁️ 108K • 👍 4K • 💬 465 • ⏱️ 9:24 • 1d ago
+
+---
+
+**[Cathie Explains How to Survive this Bitcoin Crash and Profit From It](https://www.youtube.com/watch?v=wj4DxQgPlt4)**
+
+My FREE Daily On-Chain Analysis & Crypto News In 5-Mins: https://www.cryptonutshell.com/subscribe You can NOW ...
+
+📺 Jamie Tree 
+
+👁️ 2K • 👍 67 • 💬 49 • ⏱️ 16:59 • 6h ago
 
 ---
 
@@ -375,37 +407,7 @@ When Will the Current U.S. Government Shutdown End?
 
 📺 CryptosRUs
 
-👁️ 77K • 👍 3K • 💬 1K • ⏱️ 11:12 • 1d ago
-
----
-
-**[Bank Collapse Incoming? Here’s What They’re Not Telling You](https://www.youtube.com/watch?v=soiGGvK5xBs)**
-
-Most people think banking is neutral until it isn't. When banks decide who gets access and who gets cut off, money stops being ...
-
-📺 Simply Bitcoin
-
-👁️ 19K • 👍 1K • 💬 173 • ⏱️ 12:21 • 10h ago
-
----
-
-**[Bitcoin... This Is What&#39;s Happening (HUGE SELLOFF)](https://www.youtube.com/watch?v=pSZzzelGpK8)**
-
-This isn't looking good iTrust Capital – $100 Bonus (Crypto IRA & Custody Accounts) ...
-
-📺 Aaron Bennett
-
-👁️ 34K • 👍 1K • 💬 376 • ⏱️ 10:16 • 22h ago
-
----
-
-**[EXPLAINED: Trump Just Crashed Gold, Silver, &amp; Bitcoin](https://www.youtube.com/watch?v=RS9uOBSp_iU)**
-
-Watch my free masterclass & get Market Briefs as a bonus: https://briefs.finance/gw1 My recommended tools*! *Please note: Yes ...
-
-📺 Minority Mindset
-
-👁️ 359K • 👍 12K • 💬 2K • ⏱️ 14:10 • 1d ago
+👁️ 78K • 👍 3K • 💬 1K • ⏱️ 11:12 • 1d ago
 
 ---
 
