@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-02-02T23:08:46.287146+00:00'
+updated: '2026-02-02T23:33:02.680361+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
 - news
-- videos
-- social
 - cryptocurrency
+- social
+- videos
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** February 02, 2026 at 23:08 UTC  
+**Last Updated:** February 02, 2026 at 23:33 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -79,7 +79,7 @@ Rank #1
 
 **[From laser eyes to serving fries](https://www.reddit.com/r/Bitcoin/comments/1qu2p0l/from_laser_eyes_to_serving_fries/)**
 
-4h ago
+5h ago
 
 ---
 
@@ -87,7 +87,7 @@ Rank #1
 
 Have been in a DCA program for around 3 years and with the dip I was finally able to get to 2. Was not projected to be there until late this year. Bitcoin is on sale! Go get yours (Yes, I know to not answer any DMs, this is not my first rodeo)
 
-7h ago
+8h ago
 
 ---
 
@@ -95,13 +95,13 @@ Have been in a DCA program for around 3 years and with the dip I was finally abl
 
 Some random at Bloomberg say it's going to 10k lol If that happens then I get a full coin or two https://www.dlnews.com/articles/markets/bitcoin-price-to-10000-as-markets-barrel-towards-crash/
 
-3h ago
+4h ago
 
 ---
 
 **[You’re not going to become wealthy through trading or diversification -- Bitcoin OG and ex-Google Vijay Boyapati](https://www.reddit.com/r/Bitcoin/comments/1qu6izm/youre_not_going_to_become_wealthy_through_trading/)**
 
-2h ago
+3h ago
 
 ---
 
@@ -109,7 +109,7 @@ Some random at Bloomberg say it's going to 10k lol If that happens then I get a 
 
 It's because I bought some
 
-17h ago
+18h ago
 
 ---
 
@@ -123,7 +123,7 @@ Bought more at 94K, then again yesterday at 78K. Hands made out Adamantium forge
 
 **[Thank you Cramer for the local bottom](https://www.reddit.com/r/Bitcoin/comments/1qtzryb/thank_you_cramer_for_the_local_bottom/)**
 
-6h ago
+7h ago
 
 ---
 
@@ -159,7 +159,7 @@ Spot crypto ETFs in the U.S. recorded one of their worst weeks. From Jan 26 to 3
 
 Here is what happened this weekend and what it means for the crypto industry.
 
-CoinDesk • 20h ago
+CoinDesk • 21h ago
 
 ---
 
@@ -181,7 +181,7 @@ Bloomberg • 8h ago
 
 It was a relatively small purchase for the company, which now holds 713,502 bitcoin purchased at an average price of $76,052 each versus the current price of about $77,000.
 
-CoinDesk • 9h ago
+CoinDesk • 10h ago
 
 ---
 
@@ -189,7 +189,7 @@ CoinDesk • 9h ago
 
 Bitcoin fell as low as about $74,500 early Monday, dipping below Strategy's average purchase price of $76,052 per token.
 
-CNBC • 7h ago
+CNBC • 8h ago
 
 ---
 
@@ -209,7 +209,7 @@ Bitcoin Magazine • 5h ago
 
 **[Why Gold Still May Hit $6,000; Bitcoin Tests Trump 2.0 Low](https://www.investors.com/news/gold-price-still-may-hit-6000-deutsche-bank-bitcoin-tests-trump-second-term-low/)**
 
-Investor's Business Daily • 7h ago
+Investor's Business Daily • 8h ago
 
 ---
 
@@ -319,7 +319,7 @@ Tom Lee, Fundstrat Global Advisors head of research and Fundstrat Capital CIO, j
 
 📺 CNBC Television
 
-👁️ 35K • 👍 548 • 💬 231 • ⏱️ 5:40 • 6h ago
+👁️ 35K • 👍 548 • 💬 231 • ⏱️ 5:40 • 7h ago
 
 ---
 
@@ -329,7 +329,7 @@ CHECK OUT MY LINKTREE FOR EXCHANGES I USE, BONUSES, FREE VIDEOS, AND MORE! https
 
 📺 My Financial Friend
 
-👁️ 13K • 👍 588 • 💬 214 • ⏱️ 16:29 • 6h ago
+👁️ 13K • 👍 588 • 💬 214 • ⏱️ 16:29 • 7h ago
 
 ---
 
@@ -359,7 +359,7 @@ Bitcoin just dropped nearly 40% and the real reason has nothing to do with fear 
 
 📺 Simply Bitcoin
 
-👁️ 65K • 👍 3K • 💬 486 • ⏱️ 16:36 • 23h ago
+👁️ 65K • 👍 3K • 💬 486 • ⏱️ 16:36 • 1d ago
 
 ---
 
@@ -369,7 +369,7 @@ Bitcoin just dropped nearly 40% and the real reason has nothing to do with fear 
 
 📺 Savvy Finance
 
-👁️ 20K • 👍 541 • 💬 41 • ⏱️ 16:33 • 21h ago
+👁️ 20K • 👍 541 • 💬 41 • ⏱️ 16:33 • 22h ago
 
 ---
 
@@ -379,7 +379,7 @@ Bitcoin #Crypto #Finance Bitcoin has plunged below $80000, kicking off a broader
 
 📺 The Wolf Of All Streets
 
-👁️ 28K • 👍 1K • 💬 292 • ⏱️ 1:03:42 • 7h ago
+👁️ 28K • 👍 1K • 💬 292 • ⏱️ 1:03:42 • 8h ago
 
 ---
 
@@ -399,7 +399,7 @@ Markets are opening the week under extreme stress after a disastrous weekend unw
 
 📺 Crypto Banter
 
-👁️ 26K • 👍 2K • 💬 77 • ⏱️ 35:58 • 7h ago
+👁️ 26K • 👍 2K • 💬 77 • ⏱️ 35:58 • 8h ago
 
 ---
 
@@ -409,7 +409,7 @@ BTC #Bitcoin #Cryptocurrency Join Michael Saylor for his unforgettable keynote a
 
 📺 Man Like Sanaan
 
-👁️ 4K • 👍 3K • 58m ago
+👁️ 4K • 👍 3K • 1h ago
 
 ---
 

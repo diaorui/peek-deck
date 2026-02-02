@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-02-02T23:08:46.278218+00:00'
+updated: '2026-02-02T23:33:02.671945+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
 - news
-- videos
 - social
 - repositories
+- videos
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** February 02, 2026 at 23:08 UTC  
+**Last Updated:** February 02, 2026 at 23:33 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -47,7 +47,7 @@ With the concerns raised over comments by Mozilla's new CEO with wanting to evol
 
 **[Elon Musk’s SpaceX to Combine With xAI Ahead of Mega IPO](https://www.reddit.com/r/artificial/comments/1qu88qf/elon_musks_spacex_to_combine_with_xai_ahead_of/)**
 
-🔗 [bloomberg.com](https://www.bloomberg.com/news/articles/2026-02-02/elon-musk-s-spacex-said-to-combine-with-xai-ahead-of-mega-ipo) • 1h ago
+🔗 [bloomberg.com](https://www.bloomberg.com/news/articles/2026-02-02/elon-musk-s-spacex-said-to-combine-with-xai-ahead-of-mega-ipo) • 2h ago
 
 ---
 
@@ -63,7 +63,7 @@ India's latest budget mentions AI 11 times - highest ever. Key commitments: $90B
 
 Amazon says it is laying off 16,000 because of 'efficiency gains' from AI, but an economist says it will take time for firms that are adopting AI to see how their work flows change.
 
-🔗 [euronews](https://www.euronews.com/next/2026/02/02/did-ai-really-cause-job-losses-at-amazon-its-hard-to-tell-economist-says) • 12h ago
+🔗 [euronews](https://www.euronews.com/next/2026/02/02/did-ai-really-cause-job-losses-at-amazon-its-hard-to-tell-economist-says) • 13h ago
 
 ---
 
@@ -127,7 +127,7 @@ The New York Times • 1h ago
 
 **[SpaceX acquires xAI as Musk looks to unify AI and space ambitions](https://www.reuters.com/business/musks-spacex-merge-with-xai-combined-valuation-125-trillion-bloomberg-news-2026-02-02/)**
 
-Reuters • 1h ago
+Reuters • 2h ago
 
 ---
 
@@ -135,7 +135,7 @@ Reuters • 1h ago
 
 NEW YORK (AP) — Elon Musk is joining his space exploration and artificial intelligence ventures into a single company before a massive planned initial public offering for the business later this year.
 
-WTOP • 18m ago
+WTOP • 42m ago
 
 ---
 
@@ -151,7 +151,7 @@ CNN • 13h ago
 
 Concerns about AI debt are billowing as tech giants rush to build the systems needed to fuel their ambitions.
 
-Axios • 21m ago
+Axios • 46m ago
 
 ---
 
@@ -175,13 +175,13 @@ Data Center Knowledge • 3h ago
 
 Palantir delivered the kind of fourth-quarter profitability that tends to quiet the nice-demo crowd – for at least a few hours
 
-qz.com • 33m ago
+qz.com • 58m ago
 
 ---
 
 **[Palantir’s stock surges as AI demand drives another record quarter](https://www.marketwatch.com/story/palantirs-stock-surges-as-ai-demand-drives-another-record-quarter-deb6b082?gaa_at=eafs&gaa_n=AWEtsqc5EZwimDDJlsiCAoeMWm8TuCD0D0DQ4-AWwTZ0kfbpc3FqchyNJ2nm&gaa_ts=698131de&gaa_sig=tVPp7J9HthpTJ5kDOx5qpDtsTxzr6X2Kv6lBtcZ4r3trjk8BoGB97zdwPB84MSKdJ47M-HVh3lh-Zv1tKluzGA%3D%3D)**
 
-MarketWatch • 1h ago
+MarketWatch • 2h ago
 
 ---
 
@@ -255,13 +255,13 @@ Exposed servers are being used for LLMjacking, creating malicious content and be
 
 **[We asked 15k European devs about jobs, salaries, and AI [pdf]](https://news.ycombinator.com/item?id=46857124)**
 
-⬆️ 44 • 💬 61 • 7h ago • [static.germantechjobs.de](https://static.germantechjobs.de/market-reports/European-Transparent-IT-Job-Market-Report-2025.pdf)
+⬆️ 44 • 💬 61 • 8h ago • [static.germantechjobs.de](https://static.germantechjobs.de/market-reports/European-Transparent-IT-Job-Market-Report-2025.pdf)
 
 ---
 
 **[Rural Americans are trying to hold back the tide of AI](https://news.ycombinator.com/item?id=46857082)**
 
-⬆️ 39 • 💬 42 • 7h ago • [wsj.com](https://www.wsj.com/politics/policy/these-rural-americans-are-trying-to-hold-back-the-tide-of-ai-66945306)
+⬆️ 39 • 💬 42 • 8h ago • [wsj.com](https://www.wsj.com/politics/policy/these-rural-americans-are-trying-to-hold-back-the-tide-of-ai-66945306)
 
 ---
 
@@ -313,7 +313,7 @@ A new AI platform called Moltbook suddenly exploded online, and it is built enti
 
 📺 AI Revolution
 
-👁️ 44K • 👍 2K • 💬 323 • ⏱️ 11:48 • 23h ago
+👁️ 44K • 👍 2K • 💬 323 • ⏱️ 11:48 • 1d ago
 
 ---
 
@@ -437,7 +437,7 @@ PersonaPlex-7B-v1 is a real-time, full-duplex speech-to-speech conversational mo
 
 `audio-to-audio`
 
-⬇️ 101,038 • ❤️ 1,593 • 4d ago
+⬇️ 101,038 • ❤️ 1,593 • 5d ago
 
 ---
 
@@ -495,7 +495,7 @@ Step 3.5 Flash is an efficient, open-source MoE foundation model (11B active par
 
 `199.4B`
 
-⬇️ 44 • ❤️ 289 • 9h ago
+⬇️ 44 • ❤️ 289 • 10h ago
 
 ---
 
@@ -688,7 +688,7 @@ LLM驱动的 A/H/美股智能分析器，多数据源行情 + 实时新闻 + Gem
 
 `Vue`
 
-⭐ 7.0k • 🔱 1.3k • 19h ago
+⭐ 7.0k • 🔱 1.3k • 20h ago
 
 ---
 
