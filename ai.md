@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-02-02T04:36:28.266307+00:00'
+updated: '2026-02-02T06:04:22.148205+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
 - social
-- videos
-- repositories
 - news
+- repositories
+- videos
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** February 02, 2026 at 04:36 UTC  
+**Last Updated:** February 02, 2026 at 06:04 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -41,7 +41,7 @@ AI news, discussions, and developments
 
 India's latest budget mentions AI 11 times - highest ever. Key commitments: $90B data centre investments Tax holiday till 2047 for cloud providers Semiconductor Mission 2.0 for domestic chips Policy preference for "smaller, sector-specific models" 890+ GenAI startups active now, deep-tech funding up 78%. Analysis: https://onllm.dev/blog/3-budget-2026
 
-2h ago
+4h ago
 
 ---
 
@@ -49,7 +49,7 @@ India's latest budget mentions AI 11 times - highest ever. Key commitments: $90B
 
 For years we have watched and read stories about evil Ai's and the threats they may pose, with AI characters such as Ultron, AM, HAL 9000, the Matrix etc. looking to kill/exploit humanity. There are countless stories with these kinds of villains. But we have also had good AI characters, including Data from Star Trek, WALL-E, Baymax, C3PO, Marvin the Paranoid Android. How do you think these depictions of AI in popular media is affecting the AI systems we are making today?
 
-5h ago
+7h ago
 
 ---
 
@@ -57,7 +57,7 @@ For years we have watched and read stories about evil Ai's and the threats they 
 
 The comment follows reports that the rocket maker is weighing a transaction that could further consolidate Musk’s space and AI ventures.
 
-🔗 [TESLARATI](https://www.teslarati.com/rumored-spacex-xai-merger-gets-apparent-confirmation-from-elon-musk/) • 18h ago
+🔗 [TESLARATI](https://www.teslarati.com/rumored-spacex-xai-merger-gets-apparent-confirmation-from-elon-musk/) • 19h ago
 
 ---
 
@@ -73,7 +73,7 @@ What moltbook is So essentially There is this open source AI bot called openclaw
 
 I subscribe to a few AI podcasts, but I wanted to know of any others that you can recommend. Not looking for anything too deep, in fact, prefer the ones that are lighter and an easy listen or watch. let me know your faves.
 
-11h ago
+12h ago
 
 ---
 
@@ -81,7 +81,7 @@ I subscribe to a few AI podcasts, but I wanted to know of any others that you ca
 
 So I just spent the better part of my Sunday asking Gemini to create an alternative reality where america existed in the same time as ancient Europe. I asked how Athens and Sparta would react if we just showed up with American fruits and vegetables. How the potato alone would revolutionize agriculture. I asked how they would react to our culture and everything you can think of. I learned that athens would love us. They'd be particularly fascinated with our bonds with animals. Sparta would want to destroy us and shut down like north korea but they'd secretly get ideas and probably try and domesticate wolves. Romans would want to dress us up in togas. All joking aside, I feel like I got a deep understanding of the culture and personal perspective of each ancient civilization. Imagine schools creating scenarios in AI where you have to negotiate peace talks between Rome and Carthage. Find common ground between Athens and Sparta. Debate ethics and law in the roman Senate. It would make history fun and engaging. What is everyone else's thoughts on this?
 
-1h ago
+3h ago
 
 ---
 
@@ -89,7 +89,7 @@ So I just spent the better part of my Sunday asking Gemini to create an alternat
 
 The b4 tool used by Linux kernel developers to help manage their patch workflow around contributions to the Linux kernel has been seeing work on a text user interface to help with AI agent assisted code reviews
 
-🔗 [phoronix.com](https://www.phoronix.com/news/Linux-b4-Tool-Dog-Feeding-AI) • 10h ago
+🔗 [phoronix.com](https://www.phoronix.com/news/Linux-b4-Tool-Dog-Feeding-AI) • 11h ago
 
 ---
 
@@ -105,15 +105,15 @@ SpaceX's filing claims these satellites will be “a first step towards becoming
 
 So I was using LLM for studying advance language/framework/design topics. Whenever I have some question I would try on GPT but it will always give me answer in points no matter what prompt I try or create a separate workbook with new memory. It will always give me answer in small basic points. I wanted to learn topics in depth but it just refuses to give me better indepth answer just everything in basic points. Gemini sometimes is not able to understand context but the answer quality is just amazing and everything is in just depth, it uses points also but they are much better explained than GPT. Also the free version limit is just getting frustrating now in GPT and extremely long wait time for images, it has gotten so bad that I never though I would completely uninstall GPT and prefer gemini over it.
 
-17h ago
+19h ago
 
 ---
 
-**[Top engineers at Anthropic & OpenAI: AI now writes 100% of our code](https://www.reddit.com/r/artificial/comments/1qrjbpc/top_engineers_at_anthropic_openai_ai_now_writes/)**
+**[AI suckz lmao](https://www.reddit.com/r/artificial/comments/1qtmevs/ai_suckz_lmao/)**
 
-AI coding tools are getting more sophisticated. But if coders stop coding, what happens to software development jobs?
+(Drops mic and leaves to never return)
 
-🔗 [Fortune](https://fortune.com/2026/01/29/100-percent-of-code-at-anthropic-and-openai-is-now-ai-written-boris-cherny-roon/) • 2d ago
+34m ago
 
 ---
 
@@ -123,7 +123,7 @@ AI coding tools are getting more sophisticated. But if coders stop coding, what 
 
 **[Did A.I. Take Your Job? Or Was Your Employer ‘A.I.-Washing’?](https://www.nytimes.com/2026/02/01/business/layoffs-ai-washing.html)**
 
-The New York Times • 18h ago
+The New York Times • 20h ago
 
 ---
 
@@ -131,53 +131,15 @@ The New York Times • 18h ago
 
 How many of the companies with recent layoffs are just using AI as an excuse?
 
-TechCrunch • 6h ago
+TechCrunch • 7h ago
 
 ---
 
-**[Don’t fear the AI ‘jobpocalypse’](https://www.ft.com/content/7d9a2d8f-5fda-4b2b-a58f-fc8aea22558a)**
+**[Did artificial intelligence really drive layoffs at Amazon and other firms? It can be hard to tell](https://www.newsday.com/business/ai-job-impacts-layoffs-amazon-pinterest-dow-q85968)**
 
-The technology hasn’t yet hit employment notably, and could create more openings
+When Amazon announced it was cutting 16,000 corporate jobs, many assumed it was the latest phase of CEO Andy Jassy's push to reduce the corporate workforce as AI brings more efficiency gains.
 
-Financial Times • 16h ago
-
----
-
-**[The AI Companies Trying to Make Grief Obsolete](https://www.theatlantic.com/ideas/2026/02/deadbots-ai-grief-obsolete/685811/)**
-
-You can buy an AI version of your lost loved one. But should you?
-
-The Atlantic • 16h ago
-
----
-
-**[Artificial Intelligence (AI) Could Deliver Another Decade of Growth. This Stock Is a Prime Candidate to Be a Winner.](https://www.fool.com/investing/2026/02/01/artificial-intelligence-ai-growth-stock-winner-tsm/)**
-
-Taiwan Semiconductor Manufacturing looks like an AI top performer.
-
-The Motley Fool • 8h ago
-
----
-
-**[A Once-in-a-Decade Investment Opportunity: 1 Artificial Intelligence (AI) Semiconductor Stock That Could Go Parabolic in 2026 (Hint: It's Not Nvidia)](https://finance.yahoo.com/news/once-decade-investment-opportunity-1-184600976.html)**
-
-Advanced Micro Devices is swiftly becoming a major source of parallel processing power for hyperscalers.
-
-Yahoo Finance • 9h ago
-
----
-
-**[Korean Stocks Slide on Uncertainties Over Rates, AI Spending](https://www.bloomberg.com/news/articles/2026-02-02/korean-stocks-slide-on-uncertainties-over-rates-ai-spending)**
-
-Bloomberg • 46m ago
-
----
-
-**[Microsoft’s $381 Billion Rout Exposes Dark Side of the AI Binge](https://finance.yahoo.com/news/microsoft-381-billion-rout-exposes-140007699.html)**
-
-Microsoft Corp. reported solid earnings on Wednesday, but investors zeroed in on stagnating growth in its Azure cloud-computing business and the more than $100 billion it’s expected to dole out in capital spending this year.  When all was said and done, Microsoft posted its worst week since March 2020.  “In a normal world, these results would be pretty good, but in the backdrop of the scale of spending, with things priced for perfection, you really have to hit your marks,” said Josh Chastant, portfolio manager of public investments at GuideStone Funds, which owns a stake in Microsoft.
-
-Yahoo Finance • 14h ago
+Newsday • 3m ago
 
 ---
 
@@ -189,23 +151,55 @@ Axios • 1d ago
 
 ---
 
-**[AI Agents Created Their Own Religion, Crustafarianism, On An Agent-Only Social Network](https://www.forbes.com/sites/johnkoetsier/2026/01/30/ai-agents-created-their-own-religion-crustafarianism-on-an-agent-only-social-network/)**
+**[Artificial Intelligence (AI) Could Deliver Another Decade of Growth. This Stock Is a Prime Candidate to Be a Winner.](https://www.fool.com/investing/2026/02/01/artificial-intelligence-ai-growth-stock-winner-tsm/)**
 
-Forbes • 2d ago
+Taiwan Semiconductor Manufacturing looks like an AI top performer.
+
+The Motley Fool • 9h ago
+
+---
+
+**[Asia stocks tumble amid AI jitters on Wall St; KOSPI plunges 5%](https://www.investing.com/news/stock-market-news/asia-stocks-tumble-amid-ai-jitters-on-wall-st-kospi-plunges-5-4477781)**
+
+Asia stocks tumble amid AI jitters on Wall St; KOSPI plunges 5%
+
+Investing.com • 1h ago
+
+---
+
+**[AI Fever Propels Taiwan’s Rise Over China in EM Stocks Benchmark](https://www.bloomberg.com/news/articles/2026-02-02/ai-fever-propels-taiwan-s-rise-over-china-in-em-stocks-benchmark)**
+
+Bloomberg.com • 1h ago
+
+---
+
+**[Microsoft’s $381 Billion Rout Exposes Dark Side of the AI Binge](https://finance.yahoo.com/news/microsoft-381-billion-rout-exposes-140007699.html)**
+
+Microsoft Corp. reported solid earnings on Wednesday, but investors zeroed in on stagnating growth in its Azure cloud-computing business and the more than $100 billion it’s expected to dole out in capital spending this year.  When all was said and done, Microsoft posted its worst week since March 2020.  “In a normal world, these results would be pretty good, but in the backdrop of the scale of spending, with things priced for perfection, you really have to hit your marks,” said Josh Chastant, portfolio manager of public investments at GuideStone Funds, which owns a stake in Microsoft.
+
+Yahoo Finance • 16h ago
+
+---
+
+**[The AI Companies Trying to Make Grief Obsolete](https://www.theatlantic.com/ideas/2026/02/deadbots-ai-grief-obsolete/685811/)**
+
+You can buy an AI version of your lost loved one. But should you?
+
+The Atlantic • 17h ago
+
+---
+
+**[China’s genius plan to win the AI race is already paying off](https://www.ft.com/content/68f60392-88bf-419c-96c7-c3d580ec9d97)**
+
+A network of ultra-competitive high-school talent streams has been turning out the leading lights of science and tech
+
+Financial Times • 2d ago
 
 ---
 
 ---
 
 ## HackerNews: "ai"
-
-**[How AI assistance impacts the formation of coding skills](https://news.ycombinator.com/item?id=46820924)**
-
-Anthropic is an AI safety and research company that's working to build reliable, interpretable, and steerable AI systems.
-
-⬆️ 466 • 💬 341 • 2d ago • [anthropic.com](https://www.anthropic.com/research/AI-assistance-coding-skills)
-
----
 
 **[How AI impacts skill formation](https://news.ycombinator.com/item?id=46821360)**
 
@@ -219,7 +213,7 @@ AI assistance produces significant productivity gains across professional domain
 
 Like many organizations, Wiki Education has grappled with generative AI, its impacts, opportunities, and threats, for several years. As an organization that runs large-scale programs to bring new e…
 
-⬆️ 231 • 💬 115 • 1d ago • [Wiki Education](https://wikiedu.org/blog/2026/01/29/generative-ai-and-wikipedia-editing-what-we-learned-in-2025/)
+⬆️ 232 • 💬 115 • 1d ago • [Wiki Education](https://wikiedu.org/blog/2026/01/29/generative-ai-and-wikipedia-editing-what-we-learned-in-2025/)
 
 ---
 
@@ -251,7 +245,7 @@ Enjoy the videos and music you love, upload original content, and share it all w
 
 A bifurcation is happening in AI adoption - power users shipping products in days versus everyone else generating meeting agendas. Enterprise tool choices are accelerating the divide.
 
-⬆️ 69 • 💬 74 • 4h ago • [Martin Alderson](https://martinalderson.com/posts/two-kinds-of-ai-users-are-emerging/)
+⬆️ 99 • 💬 92 • 6h ago • [Martin Alderson](https://martinalderson.com/posts/two-kinds-of-ai-users-are-emerging/)
 
 ---
 
@@ -259,7 +253,7 @@ A bifurcation is happening in AI adoption - power users shipping products in day
 
 Ultra-minimal personal AI agent: starts small, self-modifies its code live, adapts by writing exactly the code & features you need - zuckermanai/zuckerman
 
-⬆️ 68 • 💬 47 • 14h ago • [GitHub](https://github.com/zuckermanai/zuckerman)
+⬆️ 68 • 💬 48 • 16h ago • [GitHub](https://github.com/zuckermanai/zuckerman)
 
 ---
 
@@ -279,6 +273,14 @@ Exposed servers are being used for LLMjacking, creating malicious content and be
 
 ---
 
+**[Where I'm at with AI](https://news.ycombinator.com/item?id=46824925)**
+
+We’re in new paradigm territory with generative AI. A lot of commentary falls into the skeptic, evangelist, or doomsdayer categories, or are practical but narrow takes. In this article, I’ll discuss my current use of generative AI tools and outline areas that concern me - areas that raise questions about how our industry and others will evolve. I am certain that generative AI is a productivity amplifier, but its economic, environmental, and cultural externalities are not being discussed enough.
+
+⬆️ 46 • 💬 65 • 2d ago • [Paul Osman](https://paulosman.me/2026/01/18/where-im-at-with-ai/)
+
+---
+
 ---
 
 ## YouTube Videos: "ai"
@@ -289,7 +291,7 @@ A new AI platform called Moltbook suddenly exploded online, and it is built enti
 
 📺 AI Revolution
 
-👁️ 11K • 👍 755 • 💬 141 • ⏱️ 11:48 • 5h ago
+👁️ 11K • 👍 755 • 💬 141 • ⏱️ 11:48 • 6h ago
 
 ---
 
@@ -309,7 +311,7 @@ My site: https://natebjones.com Full Story w/ Prompts: ...
 
 📺 AI News & Strategy Daily | Nate B Jones
 
-👁️ 27K • 👍 1K • 💬 234 • ⏱️ 23:24 • 9h ago
+👁️ 27K • 👍 1K • 💬 234 • ⏱️ 23:24 • 11h ago
 
 ---
 
@@ -479,7 +481,7 @@ PaddleOCR-VL-1.5 is a multilingual Vision-Language Model (VLM) built on ERNIE 4.
 
 `image-text-to-text` `958.6M`
 
-⬇️ 2,046 • ❤️ 296 • 2d ago
+⬇️ 2,046 • ❤️ 296 • 3d ago
 
 ---
 
@@ -653,7 +655,7 @@ Browser automation CLI for AI agents
 
 `TypeScript`
 
-⭐ 12.1k • 🔱 674 • 23h ago
+⭐ 12.1k • 🔱 674 • 1d ago
 
 ---
 
@@ -673,7 +675,7 @@ Ralph is an autonomous AI agent loop that runs repeatedly until all PRD items ar
 
 `TypeScript`
 
-⭐ 9.1k • 🔱 1.1k • 2h ago
+⭐ 9.1k • 🔱 1.1k • 4h ago
 
 ---
 
@@ -683,7 +685,7 @@ LLM驱动的 A/H/美股智能分析器，多数据源行情 + 实时新闻 + Gem
 
 `Python` `agent` `ai` `aigc` `gemini` `llm`
 
-⭐ 8.7k • 🔱 9.2k • 14h ago
+⭐ 8.7k • 🔱 9.2k • 15h ago
 
 ---
 
@@ -693,7 +695,7 @@ LLM驱动的 A/H/美股智能分析器，多数据源行情 + 实时新闻 + Gem
 
 `Vue`
 
-⭐ 6.9k • 🔱 1.3k • 1h ago
+⭐ 6.9k • 🔱 1.3k • 2h ago
 
 ---
 
@@ -703,7 +705,7 @@ The Ultimate Collection of 600+ Agentic Skills for Claude Code/Antigravity/Curso
 
 `Python` `agentic-skills` `ai-agents` `antigravity` `autonomous-coding` `claude-code`
 
-⭐ 6.1k • 🔱 1.4k • 11h ago
+⭐ 6.1k • 🔱 1.4k • 13h ago
 
 ---
 
