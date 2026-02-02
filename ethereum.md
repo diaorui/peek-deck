@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-02-02T16:54:24.607426+00:00'
+updated: '2026-02-02T17:39:25.826455+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- news
 - social
-- cryptocurrency
 - videos
+- news
+- cryptocurrency
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** February 02, 2026 at 16:54 UTC  
+**Last Updated:** February 02, 2026 at 17:39 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -36,33 +36,33 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Price
 
-### $2,369.46
+### $2,368.71
 
 ---
 
 ## Ethereum Chart
 
-**24h:** +2.7%  
-**7d:** -21.8%  
-**30d:** -24.7%  
-**90d:** -30.7%  
-**1y:** -17.8%  
+**24h:** +0.5%  
+**7d:** -21.9%  
+**30d:** -24.9%  
+**90d:** -31.0%  
+**1y:** -18.1%  
 
 ---
 
 ## Ethereum Market Stats
 
-**Market Cap:** $280.84B
+**Market Cap:** $285.32B
 Rank #2
 
 **Circulating Supply:** 120,693,748 ETH
 No max supply
 
 **All-Time High:** $4,946.05
--53.0%
+-52.2%
 
 **All-Time Low:** $0.43
-+537291.0%
++545526.9%
 
 ---
 
@@ -72,13 +72,13 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-10h ago
+11h ago
 
 ---
 
 **[How a premature software standard has led to billions in losses](https://www.reddit.com/r/ethereum/comments/1qtw9fe/how_a_premature_software_standard_has_led_to/)**
 
-🔗 [hugo0.com](https://hugo0.com/blog/how-erc20-held-back-blockchain-payments-a-decade) • 2h ago
+🔗 [hugo0.com](https://hugo0.com/blog/how-erc20-held-back-blockchain-payments-a-decade) • 3h ago
 
 ---
 
@@ -86,13 +86,21 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 Re https://firefly.social/post/x/2018205196568944653 I actually don't think it's complicated. IMO the future of onchain mechanism design is mostly going to fit into one pattern: [something that looks like a prediction market] -> [something that looks like a capture-resistant, non-financialized preference-setting gadget] In other words: One layer that is maximally open and maximizes accountability (it's a market, anyone can buy and sell, if you make good decisions you win money if you make bad decisions you lose money) One layer that is decentralized and pluralistic, and that maximizes space for intrinsic motivation. This cannot be token-based, because token owners are not pluralistic, and anyone can buy in and get 51% of them. Votes here should be anonymous, ideally MACI'd to reduce risk of collusion. The prediction market is the correct way to do a "decentralized executive", because the most logical primitive for "accountability" in a permissionless concept is exactly that. Though sometimes you will want to keep it simple, and do a centralized executive at that layer instead: [replaceable centralized executive] -> [something that looks like a capture-resistant, non-financialized preference-setting gadget] Thinking in these two layers explicitly: (i) what is doing your execution, (ii) what is doing your preference-setting and is judging the executor(s), is best.
 
-10h ago
+11h ago
+
+---
+
+**[Staking](https://www.reddit.com/r/ethereum/comments/1qu0vj0/staking/)**
+
+Should I be staking 100% of my Ethereum? Can someone explain to me like im 5 what this means? Apologies if this type of post is not allowed, moderators.
+
+32m ago
 
 ---
 
 **[Sold BTC into USDC (ERC20) now want to get back into BTC via WBTC. Best way to swap?](https://www.reddit.com/r/ethereum/comments/1qtmbfd/sold_btc_into_usdc_erc20_now_want_to_get_back/)**
 
-11h ago
+12h ago
 
 ---
 
@@ -134,12 +142,6 @@ World News, Stories By EtherWorld, Technical Explainers, Client News & Updates, 
 
 ---
 
-**[Listening to Polymarket trades in real-time (open source, no third party)](https://www.reddit.com/r/ethereum/comments/1qs3l8c/listening_to_polymarket_trades_in_realtime_open/)**
-
-2d ago
-
----
-
 ---
 
 ## Google News: "ethereum"
@@ -152,11 +154,11 @@ CoinDesk • 1d ago
 
 ---
 
-**[Crypto Crash: Liquidations Top $2.5 Billion as Bitcoin, Ethereum and XRP Prices Plummet](https://decrypt.co/356557/crypto-crash-liquidations-2-5-billion-bitcoin-ethereum-xrp-plummet)**
+**[Ethereum Founder Vitalik Buterin Made $70K Betting Against 'Crazy Mode' on Polymarket](https://decrypt.co/356483/vitalik-buterin-made-70k-betting-against-crazy-mode-polymarket)**
 
-The crypto market's recent decline only accelerated Saturday, with Bitcoin falling to nearly $77,000 as liquidations piled up.
+The Ethereum founder claims his strategy of betting against extreme market sentiment ‘usually makes money’ on Polymarket.
 
-Decrypt • 1d ago
+Decrypt • 23h ago
 
 ---
 
@@ -164,7 +166,7 @@ Decrypt • 1d ago
 
 The adoption, technology, and regulation stars may all align for Ethereum this year.
 
-The Motley Fool • 2h ago
+The Motley Fool • 3h ago
 
 ---
 
@@ -172,35 +174,35 @@ The Motley Fool • 2h ago
 
 Motley Fool Press Release.
 
-The Globe and Mail • 6h ago
+The Globe and Mail • 7h ago
 
 ---
 
-**[2 Reasons to Buy Ethereum Before July 2026](https://www.fool.com/investing/2026/02/02/2-reasons-to-buy-ethereum-before-july-2026/)**
+**[Prediction: 2026 Will Be the Year of Ethereum (ETH)](https://www.theglobeandmail.com/investing/markets/markets-news/Motley%20Fool/37359906/prediction-2026-will-be-the-year-of-ethereum-eth/)**
 
-Ethereum may be down, but it's not out. It could soar almost 50% based on two key catalysts.
+Motley Fool Press Release.
 
-The Motley Fool • 6h ago
-
----
-
-**[BitMine Immersion Can’t Stop Buying Ethereum as Crypto Prices Tank](https://finance.yahoo.com/news/bitmine-immersion-t-stop-buying-204823044.html)**
-
-BitMine Immersion continues to accumulate Ethereum amid price declines, following a treasury strategy inspired by Strategy.
-
-Yahoo Finance • 2d ago
+The Globe and Mail • 3h ago
 
 ---
 
-**[Ethereum Falls 10% In Rout](https://www.investing.com/news/cryptocurrency-news/ethereum-falls-10-in-rout-4477776)**
+**[Tom Lee's BitMine Buys the Ethereum Dip, Even as Unrealized Losses Top $6 Billion](https://finance.yahoo.com/news/tom-lees-bitmine-buys-ethereum-162425009.html)**
 
-Ethereum Falls 10% In Rout
+Publicly traded Ethereum treasury BitMine Immersion Technologies is still buying as ETH plunges, despite the firm's growing losses.
 
-Investing.com • 13h ago
+Yahoo Finance • 1h ago
 
 ---
 
-**[Bitcoin, XRP, Ethereum Fall on News of Kevin Warsh Fed Appointment.](https://www.barrons.com/articles/bitcoin-xrp-ethereum-crypto-today-954298d9?gaa_at=eafs&gaa_n=AWEtsqfgyEVMvu69WskGhsUmC66woVtWec9eMvzX_L3XpSfq1D-J4r6CnY86&gaa_ts=6980cd40&gaa_sig=ly0ZNTFz4KuwSQR1i-bGjIRILroZm9z7hPupHA2wtDZarkBjNdtrVONb8MzNx4sRYPycE7cN5SCJTnWobC2SVw%3D%3D)**
+**[Ethereum Price $2,200 Collapse Raises Risk Of A Sub-$2K Spike](https://www.tradingview.com/news/newsbtc:7ac8323ae094b:0-ethereum-price-2-200-collapse-raises-risk-of-a-sub-2k-spike/)**
+
+Ethereum price started a major decline after it failed to clear $2,500. ETH is down 20% and is now struggling to stay above the $2,200 support.Ethereum Price Dips 20%Ethereum price failed to remain stable above $2,550 and started a major decline, like Bitcoin. ETH price traded below $2,400 to enter…
+
+TradingView • 14h ago
+
+---
+
+**[Bitcoin, XRP, Ethereum Fall on News of Kevin Warsh Fed Appointment.](https://www.barrons.com/articles/bitcoin-xrp-ethereum-crypto-today-954298d9?gaa_at=eafs&gaa_n=AWEtsqfDDKfR_9BxOQjHVBGMAbD-0KNIxaQ4PJsA2TgR6OUthiLM_7wPWaCC&gaa_ts=6980e4b1&gaa_sig=yVOMI2VhXawy1CROJhbFou1c4H7MUJiBMR-PobLlMlW62xrS38gckzOqWNfO-n1UD3wHohKSdBErKJ3RjoIl1Q%3D%3D)**
 
 Barron's • 2d ago
 
@@ -218,7 +220,7 @@ thedefiant.io • 2d ago
 
 Corporate Ethereum treasuries use staking to earn additional ETH, turning reserves into a compounding strategy instead of passive exposure.
 
-CryptoSlate • 22h ago
+CryptoSlate • 23h ago
 
 ---
 
@@ -232,17 +234,7 @@ This video provides a professional Elliott Wave and technical analysis of Ethere
 
 📺 More Crypto Online
 
-👁️ 1K • 👍 127 • 💬 3 • ⏱️ 4:10 • 3h ago
-
----
-
-**[BITCOIN AND ETH: LAST CHANCE TO RECOVER!!!! 🚨🚨🚨 (MicroStrategy REKT)](https://www.youtube.com/watch?v=bLiHfECZH3k)**
-
-FREE TRAINING: https://www.bullmania.com EXCHANGES I USE (bybit, pionex): https://www.bullmania.com/partners My ...
-
-📺 Ivan on Tech
-
-👁️ 17K • 👍 1K • 💬 128 • ⏱️ 46:08 • 6h ago
+👁️ 2K • 👍 167 • 💬 6 • ⏱️ 4:10 • 4h ago
 
 ---
 
@@ -252,7 +244,27 @@ FREE Daily On-Chain Analysis & Crypto News In 5-Mins: http://bit.ly/TheCryptoNut
 
 📺 Library Of Wealth
 
-👁️ 5K • 👍 132 • 💬 276 • ⏱️ 15:18 • 11h ago
+👁️ 6K • 👍 146 • 💬 286 • ⏱️ 15:18 • 12h ago
+
+---
+
+**[BITCOIN AND ETH: LAST CHANCE TO RECOVER!!!! 🚨🚨🚨 (MicroStrategy REKT)](https://www.youtube.com/watch?v=bLiHfECZH3k)**
+
+FREE TRAINING: https://www.bullmania.com EXCHANGES I USE (bybit, pionex): https://www.bullmania.com/partners My ...
+
+📺 Ivan on Tech
+
+👁️ 22K • 👍 1K • 💬 154 • ⏱️ 46:08 • 7h ago
+
+---
+
+**[🚨 Tom Lee: &quot;Bitcoin Won&#39;t SURVIVE 20 Years - Ethereum Takes Over SOON!&quot;](https://www.youtube.com/watch?v=PzhNsuwEyDw)**
+
+Tom Lee: "Bitcoin Won't SURVIVE 20 Years - Ethereum Takes Over SOON!" SHOCKING confession from Wall Street's Bitcoin bull ...
+
+📺 Market Crash Alerts
+
+👁️ 290 • 👍 7 • 💬 2 • ⏱️ 13:03 • 4h ago
 
 ---
 
@@ -262,7 +274,7 @@ ETHEREUM ETH PRICE PREDICTION 2026 Join the Premium Signal Group for trade setup
 
 📺 Cilinix Crypto
 
-👁️ 267 • 👍 12 • 💬 3 • ⏱️ 5:10 • 6h ago
+👁️ 367 • 👍 14 • 💬 3 • ⏱️ 5:10 • 7h ago
 
 ---
 
@@ -272,7 +284,17 @@ Free Milk Road Newsletters: ...
 
 📺 Milk Road
 
-👁️ 11K • 👍 295 • 💬 60 • ⏱️ 15:51 • 1d ago
+👁️ 12K • 👍 307 • 💬 60 • ⏱️ 15:51 • 1d ago
+
+---
+
+**[Bitcoin, Ethereum &amp; Altcoins DOWN BAD (NOW THIS!?)](https://www.youtube.com/watch?v=CxKURlwrfIM)**
+
+In today's video, we're breaking down why the pain for Bitcoin (BTC), Ethereum (ETH), and the broader Altcoin market might not ...
+
+📺 Discover Crypto
+
+👁️ 3K • 👍 313 • 💬 31 • ⏱️ 1:43:46 • 20m ago
 
 ---
 
@@ -282,17 +304,7 @@ My FREE Daily 5-Min Crypto Newsletter: https://www.cryptonutshell.com/subscribe 
 
 📺 Crypto Nutshell
 
-👁️ 21K • 👍 800 • 💬 150 • ⏱️ 21:16 • 1d ago
-
----
-
-**[Cathie Wood: “This Is WHEN The 2026 Bull Run Starts” [New Bitcoin &amp; Ethereum Prediction 2026]](https://www.youtube.com/watch?v=xsRdyWYOUJA)**
-
-Join UpTrade today - Your personal crypto broker: https://www.uptrade.au/ My FREE Daily 5-Min Crypto Newsletter: ...
-
-📺 Crypto Nutshell
-
-👁️ 19K • 👍 525 • 💬 84 • ⏱️ 16:36 • 2d ago
+👁️ 22K • 👍 807 • 💬 151 • ⏱️ 21:16 • 1d ago
 
 ---
 
@@ -302,17 +314,7 @@ This video provides a professional Elliott Wave and technical analysis of Ethere
 
 📺 More Crypto Online
 
-👁️ 4K • 👍 249 • 💬 19 • ⏱️ 5:18 • 16h ago
-
----
-
-**[BITCOIN AND ETH: HOW BAD IS THIS DUMP (when recovery) 🚨🚨🚨🚨🚨🚨](https://www.youtube.com/watch?v=YawcOhRcens)**
-
-FREE TRAINING: https://www.bullmania.com EXCHANGES I USE (bybit, pionex): https://www.bullmania.com/partners My ...
-
-📺 Ivan on Tech
-
-👁️ 23K • 👍 2K • 💬 136 • ⏱️ 45:22 • 21h ago
+👁️ 4K • 👍 249 • 💬 19 • ⏱️ 5:18 • 17h ago
 
 ---
 
@@ -322,7 +324,7 @@ After getting chopped up in ETH shorts over the past few months, I found a momen
 
 📺 Taiki Maeda
 
-👁️ 10K • 👍 552 • 💬 257 • ⏱️ 48:54 • 21h ago
+👁️ 10K • 👍 597 • 💬 262 • ⏱️ 48:54 • 22h ago
 
 ---
 
