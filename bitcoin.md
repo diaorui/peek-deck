@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-02-02T11:36:37.387711+00:00'
+updated: '2026-02-02T13:03:09.723407+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- news
-- videos
 - cryptocurrency
+- videos
 - social
+- news
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** February 02, 2026 at 11:36 UTC  
+**Last Updated:** February 02, 2026 at 13:03 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,33 +38,33 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $77,078.65
+### $78,185.47
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** -0.7%  
-**7d:** -12.7%  
-**30d:** -14.9%  
-**90d:** -25.2%  
-**1y:** -23.2%  
+**24h:** -0.3%  
+**7d:** -12.6%  
+**30d:** -14.8%  
+**90d:** -25.1%  
+**1y:** -23.1%  
 
 ---
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1549.95B
+**Market Cap:** $1557.01B
 Rank #1
 
 **Circulating Supply:** 19,982,656 BTC
 95.2% of max
 
 **All-Time High:** $126,080.00
--38.4%
+-38.2%
 
 **All-Time Low:** $67.81
-+114431.8%
++114753.3%
 
 ---
 
@@ -81,7 +81,7 @@ Rank #1
 
 It's because I bought some
 
-6h ago
+7h ago
 
 ---
 
@@ -89,7 +89,7 @@ It's because I bought some
 
 Bought more at 94K, then again yesterday at 78K. Hands made out Adamantium forged in the fires of the bedrock below the abyss. Spewed forth on the shore and raised by wolves, fed by bears and ate with the giants. I'll see y'all at the end of the year 🥂
 
-8h ago
+9h ago
 
 ---
 
@@ -97,15 +97,7 @@ Bought more at 94K, then again yesterday at 78K. Hands made out Adamantium forge
 
 Bitcoin has broken below the $75K level, a key psychological and technical zone. This breakdown increases downside risk in the short term and may keep overall market sentiment cautious. Key considerations: Loss of momentum above $75K weakens bullish structure Liquidity may be targeted at lower support levels Altcoins could remain under pressure if BTC dominance stays elevated Market reaction to ETF flows and macro data is critical Until Bitcoin reclaims $75K with strong volume, this move should be treated as a risk-off signal, not a dip-buy confirmation. What levels are you watching next?
 
-7h ago
-
----
-
-**[Bitcoin ETFs Lose $1.5 Billion In A Week | BlackRock Contributes To $950M](https://www.reddit.com/r/Bitcoin/comments/1qtkhqj/bitcoin_etfs_lose_15_billion_in_a_week_blackrock/)**
-
-Spot crypto ETFs in the U.S. recorded one of their worst weeks. From Jan 26 to 30, 2026, spot Bitcoin ETFs bled $1.49 billion in net outflows.
-
-🔗 [Our Crypto Talk](https://web.ourcryptotalk.com/news/bitcoin-etfs-lose-one-and-a-half-billion) • 7h ago
+9h ago
 
 ---
 
@@ -113,7 +105,15 @@ Spot crypto ETFs in the U.S. recorded one of their worst weeks. From Jan 26 to 3
 
 HODLHODLHODLHODLHODLHODLHODLHODLHODLHODLHODLHODLHODLHODLHODLHODLHODLHODLHODLHODLHODLHODLHODLHODLHODLHODLHODLHODLHODLHODLHODLHODLHODLHODLHODLHODLHODLHODLHODLHODLHODLHODLHODLHODLHODLHODLHODLHODLHODLHODLHODLHODLHODLHODLHODLHODLHODLHODLHODLHODLHODLHODLHODLHODLHODLHODLHODLHODL
 
-4h ago
+6h ago
+
+---
+
+**[Bitcoin ETFs Lose $1.5 Billion In A Week | BlackRock Contributes To $950M](https://www.reddit.com/r/Bitcoin/comments/1qtkhqj/bitcoin_etfs_lose_15_billion_in_a_week_blackrock/)**
+
+Spot crypto ETFs in the U.S. recorded one of their worst weeks. From Jan 26 to 30, 2026, spot Bitcoin ETFs bled $1.49 billion in net outflows.
+
+🔗 [Our Crypto Talk](https://web.ourcryptotalk.com/news/bitcoin-etfs-lose-one-and-a-half-billion) • 9h ago
 
 ---
 
@@ -121,13 +121,7 @@ HODLHODLHODLHODLHODLHODLHODLHODLHODLHODLHODLHODLHODLHODLHODLHODLHODLHODLHODLHODL
 
 These prices are just to go to pass up on. Need to get my Roth involved
 
-7h ago
-
----
-
-**[Explaining Bitcoin like I am 5 years old.... Get to 1 BTC.](https://www.reddit.com/r/Bitcoin/comments/1qtahxx/explaining_bitcoin_like_i_am_5_years_old_get_to_1/)**
-
-14h ago
+8h ago
 
 ---
 
@@ -135,7 +129,13 @@ These prices are just to go to pass up on. Need to get my Roth involved
 
 But I see 25% discount plus more from the 100k. I feel in 5-10 years if btc ever crashes back to 100k from 200k+ people will see it as a good buying opportunity. DCA AND HODL for 5-10 years
 
-6h ago
+8h ago
+
+---
+
+**[Explaining Bitcoin like I am 5 years old.... Get to 1 BTC.](https://www.reddit.com/r/Bitcoin/comments/1qtahxx/explaining_bitcoin_like_i_am_5_years_old_get_to_1/)**
+
+16h ago
 
 ---
 
@@ -143,7 +143,7 @@ But I see 25% discount plus more from the 100k. I feel in 5-10 years if btc ever
 
 Significant low volume node here at $73,200 - 74,200. Daily fair value gap $70,500 - 74,500. This FVG has been tapped previously and rallied strongly from here. I say we take out this latest low of $74,441.20 and we see one of the greatest liquidity grabs of all time; rallying towards the previous all time high. To put into perspective, there’s roughly $11 billion in cumulative short liquidation leverage sitting at $93,450 alone.
 
-6h ago
+7h ago
 
 ---
 
@@ -151,7 +151,7 @@ Significant low volume node here at $73,200 - 74,200. Daily fair value gap $70,5
 
 I’m curious about people’s time table to turning a profit or are you holding out hope that it will become the main currency? Me I’m waiting for at least 30 years before I pull out.
 
-13h ago
+14h ago
 
 ---
 
@@ -159,36 +159,43 @@ I’m curious about people’s time table to turning a profit or are you holding
 
 ## Google News: "bitcoin"
 
-**['This is absolutely INSANE': Bitcoin’s weekend crash exposes the cracks beneath crypto’s latest boom](https://www.coindesk.com/markets/2026/02/01/this-is-absolutely-insane-bitcoin-s-weekend-crash-exposes-the-cracks-beneath-crypto-s-latest-boom)**
+**[Bitcoin is under pressure after a brutal week. Here's why](https://www.cnbc.com/2026/02/02/bitcoin-btc-price-today-cryptocurrency.html)**
 
-Here is what happened this weekend and what it means for the crypto industry.
+Cryptocurrency markets fell as global equities and precious metals sold off while bitcoin liquidations exacerbated downside moves.
 
-CoinDesk • 9h ago
-
----
-
-**[U.S. stock futures fall after bitcoin’s weekend drop, as gold and silver’s sell-off may be bleeding into other markets](https://www.marketwatch.com/story/u-s-stock-futures-fall-along-with-bitcoin-and-oil-prices-21adfaf3?gaa_at=eafs&gaa_n=AWEtsqeuHGoeyr_ITN6dBA2sGx7UTNtOwAg1UtgWEHPLk1OerzWg-34Xw3yE&gaa_ts=69808f4b&gaa_sig=DA_Qlo8xUufvK_CH0QY_NUD62k-Q7TV_uA8aZoCuk8mcyL9_CP3qzx5I8oIzrqLwPEppZNy5YQhqfhmebCd_Gg%3D%3D)**
-
-MarketWatch • 12h ago
+CNBC • 2h ago
 
 ---
 
-**[Bitcoin Stays Weak After Hitting 10-Month Low](https://www.barrons.com/livecoverage/stock-market-news-today-020226/card/bitcoin-stays-weak-after-hitting-10-month-low-PCbWLLXwDJ25kfO6TVQI?mod=bar_RHF&gaa_at=eafs&gaa_n=AWEtsqdE-B4QcMPd9ZOuwwruBXn80AIN5c6svHnNHAiyPXWTAsWa8TEAObsa&gaa_ts=69808f4b&gaa_sig=b1i5zp1etM7QFXWwZYkHXS8v3rmUcqb-AOZ1YeDT5XqngsIa4n55JqkEpPRduF6HJR1weigNMj00mqufIOLbXw%3D%3D)**
+**[Who is Kevin Warsh: Trump's Fed chair nominee's return sparks bitcoin jitters over rates, balance sheet cuts](https://www.coindesk.com/policy/2026/01/30/who-is-kevin-warsh-here-is-what-trump-nominee-for-fed-chair-said-about-bitcoin-and-rates)**
 
-Bitcoin inched higher but remained weak, continuing to trade below $80,000 after hitting a 10-month low overnight.
-The fall came alongside a steep selloff in precious metals and falls in U.S. stock futures.
+Crypto investors fear tighter monetary policy under Warsh, who once called bitcoin ‘software pretending to be money’ but backed blockchain innovation.
 
-"Effectively, a deleveraging is happening, forcing traders to sell other assets to cover lo
-
-Barron's • 2h ago
+CoinDesk • 2d ago
 
 ---
 
-**[Stock futures fall after silver, bitcoin sell off; questions loom over AI trade: Live updates](https://www.cnbc.com/2026/02/01/stock-market-today-live-updates.html)**
+**[Trump’s Fed pick is spooking markets. Why stocks, Bitcoin, gold are reacting to Warsh.](https://www.msn.com/en-us/money/markets/trump-s-fed-pick-is-spooking-markets-why-stocks-bitcoin-gold-are-reacting-to-warsh/ar-AA1Vuzsz?ocid=finance-verthp-feeds)**
 
-More than 100 S&P 500 companies are due to report this week, including Amazon, Alphabet and Disney.
+MSN • 51m ago
 
-CNBC • 14m ago
+---
+
+**[As bitcoin falls toward $80K, here’s why Fed Chair Warsh may not be enough to revive the crypto](https://www.marketwatch.com/story/as-bitcoin-falls-toward-80k-heres-why-fed-chair-warsh-may-not-be-enough-to-revive-the-crypto-6fecb755?gaa_at=eafs&gaa_n=AWEtsqdfeH44-VI0KMZujk_BShgEobsEU6oRa4-9i6M2AL9fvXD6KhRo9PKw&gaa_ts=6980a3e5&gaa_sig=kaeyR9rTJmofMHyux4sf1YFzvCBIiTxXEZu4WCNNdrv9NOSmDxTZvpwcjCldL9Hom6KA9-4_-4mtrA6-1a6o4g%3D%3D)**
+
+MarketWatch • 2d ago
+
+---
+
+**[The Slide in Gold and Silver Sets Up a Test for Bitcoin](https://www.barrons.com/articles/the-slide-in-gold-and-silver-sets-up-a-test-for-bitcoin-2a9573b3?gaa_at=eafs&gaa_n=AWEtsqeZVzdcy5r0X3hm4nX9VkT5WJcKYonzqICRSr58GqvagvEhSbT0-V5X&gaa_ts=6980a3e5&gaa_sig=xIOoyEvEaTwIAk79ZyTBtdTIepAljuK9_8NEasOZwiMrUyjW0T9z7jTX60ovBFr0DUK5GDfAKHJr49sPBVQiDg%3D%3D)**
+
+Barron's • 2d ago
+
+---
+
+**[Gold Volatility Tops Bitcoin in Wildest Price Swings Since 2008](https://www.bloomberg.com/news/articles/2026-02-02/gold-volatility-tops-bitcoin-in-wildest-price-swings-since-2008)**
+
+Bloomberg.com • 3h ago
 
 ---
 
@@ -200,43 +207,23 @@ The Block • 2d ago
 
 ---
 
-**[If you bought just $1 of Bitcoin when it launched 17 years ago, how rich would you be today?](https://timesofindia.indiatimes.com/business/if-you-bought-just-1-of-bitcoin-when-it-launched-17-years-ago-how-rich-would-you-be-today/articleshow/127841336.cms)**
+**[U.S. stock futures fall after bitcoin’s weekend drop, as gold and silver’s sell-off may be bleeding into other markets](https://www.marketwatch.com/story/u-s-stock-futures-fall-along-with-bitcoin-and-oil-prices-21adfaf3?gaa_at=eafs&gaa_n=AWEtsqfF08ucmX-Tui_Q46pwAFzP9-PbPp-1QxcdvfwfPfCLoV4QBovoe9Yz&gaa_ts=6980a3e5&gaa_sig=g8iZfDXT3qcWXppqn48zEYKxhbFOq_IxLJOingGZDo4zDAbJUT_QYNMcQeg2D-5wO9TWR249zdUczCiScTXv8g%3D%3D)**
 
-Business News: Discover how early Bitcoin investments could have transformed your financial future. Learn about the extraordinary value of Bitcoin from its inception to today, including tales of lost fortunes and missed opportunities.
-
-The Times of India • 21h ago
+MarketWatch • 13h ago
 
 ---
 
-**[The crypto industry used to store Bitcoin in Swiss vaults. Now one firm is using vaults to hold gold instead](https://fortune.com/2026/01/30/the-crypto-industry-used-to-store-bitcoin-in-swiss-vaults-now-one-firm-is-using-vaults-to-hold-gold-instead/)**
+**[Stock futures fall after silver, bitcoin sell off; questions loom over AI trade: Live updates](https://www.cnbc.com/2026/02/01/stock-market-today-live-updates.html)**
 
-The CEO of Tether called the bunker ‘a James Bond kind of place.’
+More than 100 S&P 500 companies are due to report this week, including Amazon, Alphabet and Disney.
 
-Fortune • 2d ago
-
----
-
-**[Better Investment to Make in 2026 and Beyond: Bitcoin vs. iShares Bitcoin Trust](https://www.fool.com/investing/2026/01/31/better-investment-2026-beyond-bitcoin-ibit/)**
-
-Based on its monster past performance, it makes sense why investors are interested in Bitcoin.
-
-The Motley Fool • 1d ago
+CNBC • 19m ago
 
 ---
 
-**[Bitcoin Stuck in a Rut After Warsh Pick as ETFs Shed Billions](https://finance.yahoo.com/news/bitcoin-stuck-rut-warsh-pick-213531831.html)**
+**[U.S. Stock Futures Down as Bitcoin and Silver Slide Ahead of AMD and Big Tech Earnings](https://www.tipranks.com/news/u-s-stock-futures-slip-as-bitcoin-silver-slide-ahead-of-big-earnings-week)**
 
-Warsh, a former central bank governor with deep establishment ties, has recently aligned with Trump’s push for lower rates.  Instead, a risk-off tone lingered over markets as the Warsh news circulated: stock fell and the dollar traded just off four-year lows.  With Bitcoin now down more than 30% from its October peak — and US spot ETFs posting their longest streak of monthly outflows since launching — traders appear unconvinced that either macro or policy signals offer much near-term relief.
-
-Yahoo Finance • 2d ago
-
----
-
-**[Investors Pull Nearly $818 Million From Bitcoin ETFs as Cryptocurrency Tanks](https://finance.yahoo.com/news/investors-pull-nearly-818-million-174640067.html)**
-
-Bitcoin (CRYPTO: BTC) exchange-traded funds (ETFs) experienced a substantial one-day reversal last week. Investors pulled out nearly $818 million as Bitcoin’s price plummeted to a nine-month low. Data indicated that Bitcoin ETFs registered net daily outflows of $817.87 million on January 29. This pushed January into an overall negative zone. However, the cumulative net inflows since the inception of Bitcoin ETFs remained significant at $55.52 billion. The largest product by assets, BlackRock’s i
-
-Yahoo Finance • 1d ago
+TipRanks • 7h ago
 
 ---
 
@@ -247,14 +234,6 @@ Yahoo Finance • 1d ago
 **[Bitcoin Looks Set for Longest Monthly Losing Streak Since 2018](https://news.ycombinator.com/item?id=46838644)**
 
 ⬆️ 69 • 💬 79 • 1d ago • [bloomberg.com](https://www.bloomberg.com/news/articles/2026-01-30/bitcoin-btc-slides-toward-longest-monthly-losing-streak-since-2018)
-
----
-
-**["Bitcoin Jesus" Avoided Prison, Thanks to One of the "Friends of Trump"](https://news.ycombinator.com/item?id=46764787)**
-
-Billionaire fugitive Roger Ver was facing federal criminal charges until he sought the services of a select club of President Donald Trump’s former personal attorneys who have easy access to top Justice Department appointees.
-
-⬆️ 17 • 💬 0 • 6d ago • [ProPublica](https://www.propublica.org/article/bitcoin-jesus-roger-ver-tax-evasion-friends-of-trump)
 
 ---
 
@@ -270,7 +249,7 @@ A list of known attacks against Bitcoin / crypto asset owning entities that occu
 
 PoW + EVM cryptocurrency. 21M fixed supply, fair launch, no team, no foundation. Just code. - lumenyx-chain/lumenyx
 
-⬆️ 1 • 💬 0 • 1d ago • [GitHub](https://github.com/lumenyx-chain/lumenyx)
+⬆️ 1 • 💬 0 • 2d ago • [GitHub](https://github.com/lumenyx-chain/lumenyx)
 
 ---
 
@@ -320,9 +299,27 @@ On the other hand
 
 ---
 
+**[Ozow Announces New Crypto Payments Solution Powered by MoneyBadger](https://news.ycombinator.com/item?id=46799830)**
+
+Reporting on Fintech, Crypto, and Blockchain Activity in Africa
+
+⬆️ 1 • 💬 0 • 4d ago • [BitKE](https://bitcoinke.io/2026/01/ozow-announces-payments-solution-by-moneybadger/)
+
+---
+
 ---
 
 ## YouTube Videos: "bitcoin"
+
+**[BITCOIN: THIS IS THE MOMENT !!!!!](https://www.youtube.com/watch?v=KSHP6QcoiIM)**
+
+BYBIT: http://themoon.co/Bybit 10% DISCOUNT & $30000 BONUS Coinflare: https://themoon.co/CoinflareCarl Make your ...
+
+📺 The Moon Show
+
+👁️ 10K • 👍 763 • 💬 81 • ⏱️ 7:03 • 5h ago
+
+---
 
 **[The Bitcoin Super Cycle Is Over...](https://www.youtube.com/watch?v=1G1N_V-h1Ok)**
 
@@ -330,17 +327,7 @@ ClashPicks** Make Free Predictions on *ClashPicks* ▻ https://www.clashpicks.co
 
 📺 CryptosRUs
 
-👁️ 48K • 👍 2K • 💬 820 • ⏱️ 15:58 • 10h ago
-
----
-
-**[Bitcoin Cliff Dwellers](https://www.youtube.com/watch?v=oH-uT70Qc6c)**
-
-Let's provide a Bitcoin damage report. Into The Cryptoverse Premium: https://intothecryptoverse.com You can use the link ...
-
-📺 Benjamin Cowen
-
-👁️ 46K • 👍 4K • 💬 139 • ⏱️ 48:03 • 7h ago
+👁️ 55K • 👍 3K • 💬 907 • ⏱️ 15:58 • 12h ago
 
 ---
 
@@ -350,17 +337,7 @@ Bitcoin just dropped nearly 40% and the real reason has nothing to do with fear 
 
 📺 Simply Bitcoin
 
-👁️ 44K • 👍 2K • 💬 382 • ⏱️ 16:36 • 12h ago
-
----
-
-**[BITCOIN: OPEN TRADE NOW BEFORE IT’S TOO LATE !!!!!](https://www.youtube.com/watch?v=KSHP6QcoiIM)**
-
-BYBIT: http://themoon.co/Bybit 10% DISCOUNT & $30000 BONUS Coinflare: https://themoon.co/CoinflareCarl Make your ...
-
-📺 The Moon Show
-
-👁️ 4K • 👍 404 • 💬 65 • ⏱️ 7:03 • 3h ago
+👁️ 50K • 👍 3K • 💬 418 • ⏱️ 16:36 • 13h ago
 
 ---
 
@@ -370,7 +347,17 @@ BYBIT: http://themoon.co/Bybit 10% DISCOUNT & $30000 BONUS Coinflare: https://th
 
 📺 Savvy Finance
 
-👁️ 12K • 👍 403 • 💬 38 • ⏱️ 16:33 • 10h ago
+👁️ 14K • 👍 458 • 💬 42 • ⏱️ 16:33 • 11h ago
+
+---
+
+**[Bitcoin Cliff Dwellers](https://www.youtube.com/watch?v=oH-uT70Qc6c)**
+
+Let's provide a Bitcoin damage report. Into The Cryptoverse Premium: https://intothecryptoverse.com You can use the link ...
+
+📺 Benjamin Cowen
+
+👁️ 62K • 👍 5K • 💬 203 • ⏱️ 48:03 • 8h ago
 
 ---
 
@@ -380,17 +367,7 @@ Follow me on X for my best content: http://www.X.com/AdamBLiv Transform Dormant 
 
 📺 Adam Livingston
 
-👁️ 8K • 👍 789 • 💬 150 • ⏱️ 18:34 • 13h ago
-
----
-
-**[URGENT: Bitcoin Loses Critical Support! [How Low Will It Go?]](https://www.youtube.com/watch?v=4teHI529tYM)**
-
-In today's crypto market update, Kyle Doops analyzes the Bitcoin crash in real time. We move beyond the noise to focus on market ...
-
-📺 Crypto Banter
-
-👁️ 7K • 👍 737 • 💬 13 • ⏱️ 34:46 • 3h ago
+👁️ 8K • 👍 863 • 💬 156 • ⏱️ 18:34 • 14h ago
 
 ---
 
@@ -400,27 +377,37 @@ LIMITED TIME: ✓ Bitunix (no kyc, $10k bonus): https://www.bitunix.com/register
 
 📺 Altcoin Daily
 
-👁️ 113K • 👍 4K • 💬 481 • ⏱️ 9:24 • 1d ago
+👁️ 115K • 👍 4K • 💬 481 • ⏱️ 9:24 • 1d ago
 
 ---
 
-**[EMERGENCY Bitcoin $68,000 Incoming $6B GONE! MicroStrategy Era Ends? XRP XLM in FILES?](https://www.youtube.com/watch?v=xSLxgsBcX8M)**
+**[THE FINAL BITCOIN TRAP...](https://www.youtube.com/watch?v=Gq1f6QGzkIY)**
 
-EMERGENCY Bitcoin $68000 Incoming $6B GONE! MicroStrategy Era Ends? XRP XLM in FILES? It's been a really crazy 24 ...
+WEEX: https://www.weex.com/events/promo/usdtgiveaway-v2?vipCode=00dt 25% FEE DISCOUNT & GET FREE $25 ✓My ...
 
-📺 CryptoWendyO
+📺 Crypto Rover
 
-👁️ 32K • 👍 2K • 💬 44 • ⏱️ 27:24 • 17h ago
+👁️ 7K • 👍 567 • 💬 195 • ⏱️ 10:27 • 6h ago
 
 ---
 
-**[Is Bitcoin About To Bottom? (Market Update)](https://www.youtube.com/watch?v=6Z8XoVzp35E)**
+**[URGENT: Bitcoin Loses Critical Support! [How Low Will It Go?]](https://www.youtube.com/watch?v=4teHI529tYM)**
 
-Is the Bitcoin bottom finally in, or is there still more downside ahead this cycle? The appointment of a new Federal Reserve chair ...
+In today's crypto market update, Kyle Doops analyzes the Bitcoin crash in real time. We move beyond the noise to focus on market ...
 
-📺 EllioTrades
+📺 Crypto Banter
 
-👁️ 23K • 👍 1K • 💬 451 • ⏱️ 26:47 • 13h ago
+👁️ 14K • 👍 1K • 💬 26 • ⏱️ 34:46 • 5h ago
+
+---
+
+**[BITCOIN AND ETH: LAST CHANCE TO RECOVER!!!! 🚨🚨🚨 (MicroStrategy REKT)](https://www.youtube.com/watch?v=bLiHfECZH3k)**
+
+FREE TRAINING: https://www.bullmania.com EXCHANGES I USE (bybit, pionex): https://www.bullmania.com/partners My ...
+
+📺 Ivan on Tech
+
+👁️ 11K • 👍 984 • 💬 98 • ⏱️ 46:08 • 3h ago
 
 ---
 
