@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-02-03T13:03:49.997582+00:00'
+updated: '2026-02-03T14:25:52.531025+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- social
 - videos
 - news
+- social
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** February 03, 2026 at 13:03 UTC  
+**Last Updated:** February 03, 2026 at 14:25 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -36,7 +36,7 @@ Robotics research and industry news
 
 From RoboHub🤖 on 𝕏: https://x.com/XRoboHub/status/2018281195063419225 Previous post with MirrorMe robot dog at 13.4 m/s: https://www.reddit.com/r/robotics/comments/1pvek2r/the_black_panther_ii_robot_dog_hits_134_ms/
 
-2h ago
+3h ago
 
 ---
 
@@ -44,7 +44,7 @@ From RoboHub🤖 on 𝕏: https://x.com/XRoboHub/status/2018281195063419225 Prev
 
 Watch Marvelmind Boxie robots in a high-precision chase. Each autonomous robot uses two mobile beacons for ±2cm tracking. While the PID controller is still being tuned (causing some jerky movements), the positioning remains rock-solid. See the dashboard view vs. real-world drive. [00:00], [00:30].
 
-4h ago
+6h ago
 
 ---
 
@@ -52,7 +52,7 @@ Watch Marvelmind Boxie robots in a high-precision chase. Each autonomous robot u
 
 Asimov is an open-source humanoid we're building from scratch at Menlo Research. Legs, arms, and head developed in parallel. We're sharing how we got the legs walking. The rewards barely mattered. What worked was controlling what data the policy sees, when, and why. Our robot oscillated violently on startup. We tuned rewards for weeks. Nothing changed. Then we realized the policy was behaving like an underdamped control system, and the fix had nothing to do with rewards. We don't feed ground-truth linear velocity to the policy. On real hardware, you have an IMU that drifts and encoders that measure joint positions. Nothing else. If you train with perfect velocity, the policy learns to rely on data that won't exist at deployment. Motors are polled over CAN bus sequentially. Hip data is 6-9ms stale by the time ankle data arrives. We modeled this explicitly, matching the actual timing the policy will face on hardware. The actor only sees what real sensors provide (45 dimensions). The critic sees privileged info: Ground truth velocity, contact forces, toe positions. Asimov has passive spring-loaded toes with no encoder. The robot can't sense them. By exposing toe state to the critic, the policy learns to infer toe behavior from ankle positions and IMU readings. We borrowed most of our reward structure from Booster, Unitree, and MJLab. Made hardware-specific tweaks. No gait clock (Asimov has unusual kinematics, canted hips, backward-bending knees), asymmetric pose tolerances (ankles have only ±20° ROM), narrower stance penalties, air time rewards (the legs are 16kg and can achieve flight phase). Domain randomization was targeted, not broad. We randomized encoder calibration error, PD gains, toe stiffness, foot friction, observation delays. We didn't randomize body mass, link lengths, or gravity. Randomize what you know varies. Don't randomize what you've measured accurately. Next: terrain curriculum, velocity curriculum, full body integration (26-DOF+). Full post with observation tables, reward weights, and code: https://news.asimov.inc/p/teaching-a-humanoid-to-walk
 
-1h ago
+3h ago
 
 ---
 
@@ -68,13 +68,21 @@ From RoboHub🤖 on 𝕏 (longer video/ads): https://x.com/XRoboHub/status/20179
 
 Hey everyone, A little while ago I posted a video of my Animatronic Head The response was way more positive than I expected, and honestly, I had a blast building it. So… I decided to keep going :D I’m now expanding the project into a complete torso. So far I’ve: Built a torso using PVC pipes combined with PLA parts Started working on the arms (still a work in progress) I’d love to hear any suggestions, ideas, or improvements you think could make this build even better, whether mechanical, electronic, or software-related. I’m also experimenting with a new feature that I think is pretty cool. Once I get it working reliably, I’ll post an update here. If you’re interested, I’ve published the model files (currently .3mf only) on GitHub: https://github.com/koenll23/gyro (files may be outdated and/or unoptimized, they just work. use at your own risk) Thanks for all the feedback so far, it’s been a huge motivation to keep going!
 
-14h ago
+16h ago
+
+---
+
+**[PeppyOS: a simpler alternative to ROS 2 for experimentation and production](https://www.reddit.com/r/robotics/comments/1qus9oj/peppyos_a_simpler_alternative_to_ros_2_for/)**
+
+Hey everyone, Over the past few months I’ve been working on this project, a replacement for ROS 2 I started working on after spending 6 months with ROS 2. While ROS 2 is powerful, I often found myself fighting complexity when I just wanted a few nodes to communicate reliably or work with Gazeebo. That experience pushed me to explore a different approach: a much simpler stack, built with modern tooling, that’s easy to understand and still works at scale. The goal is that someone new can grasp the core ideas and become productive in about half an hour. The website walks through the concepts and setup step by step. For the moment all the examples are in Rust, but Python support is coming soon! I’d love to hear feedback from people working in robotics, especially what you find appealing or questionable about this approach.
+
+42m ago
 
 ---
 
 **[I tested a cheap ODrive 3.6 clone — setup, tuning, Arduino & CAN](https://www.reddit.com/r/robotics/comments/1qu5iap/i_tested_a_cheap_odrive_36_clone_setup_tuning/)**
 
-17h ago
+18h ago
 
 ---
 
@@ -82,7 +90,7 @@ Hey everyone, A little while ago I posted a video of my Animatronic Head The res
 
 Does it make sense to collect Egocentric Human Data using an iPhone when the camera FPS is variable and is even below 30?
 
-10h ago
+12h ago
 
 ---
 
@@ -90,7 +98,7 @@ Does it make sense to collect Egocentric Human Data using an iPhone when the cam
 
 I'm new to motoman robots and am running into an issue where I can't change the max disturbance value even though I'm in management mode. The cursor just jumps over the value. I'm trying to change this because the robot is constantly throwing an "invalid shock detection" whenever I try to move the manipulator. I tried searching through the documentation and can't find why it's doing this.
 
-15h ago
+17h ago
 
 ---
 
@@ -99,14 +107,6 @@ I'm new to motoman robots and am running into an issue where I can't change the 
 From DEEP Robotics on 𝕏: https://x.com/DeepRobotics_CN/status/2017114429360656740
 
 2d ago
-
----
-
-**[Why are there no Autonomous Mobile Robots in Construction Sites](https://www.reddit.com/r/robotics/comments/1qtklj3/why_are_there_no_autonomous_mobile_robots_in/)**
-
-I live in India and in a day I see about 4 construction sites on my way to work . I quite often notice that we don't have Autonomous robots that carry heavy load from one place to another. People continue to use wheel barrow as a mode to carry heavy load. I do not know why we are not in a time where people can start using robots to carry heavy load. I am new to robotics and learning still about the mechanics and the business of it. I wanted to know if: 1) Is this the case in most countries? 2) Are people not using robots to carry heavy load due to extremely high costs? 3) Are these robots not as fast and efficient as they claim to be? 4) Is there no need in the first place? I would love to know your thoughts as to why we don't see as many robots carry heavy load in construction sites?
-
-1d ago
 
 ---
 
@@ -126,7 +126,15 @@ EdSource • 1d ago
 
 From robotic fish to fully autonomous planting and harvesting systems, farming robots in China are defining a new frontier of intelligent agriculture.
 
-bgr.com • 18h ago
+bgr.com • 19h ago
+
+---
+
+**[New Berkshire Grey robot targets one of warehouse’s toughest tasks](https://www.stocktitan.net/news/BGRY/berkshire-grey-launches-scoop-tm-robotic-trailer-unloader-to-8ldw2mz76puk.html)**
+
+Dual-mode Scoop system bulk-unloads mixed parcels from messy trailers to raise dock throughput and cut volatility, with pilots now and production in 2026.
+
+Stock Titan • 1h ago
 
 ---
 
@@ -134,15 +142,7 @@ bgr.com • 18h ago
 
 Carbon Robotics' Large Plant Model will allow farmers to kill new types of weeds without having to retrain the machines.
 
-TechCrunch • 22h ago
-
----
-
-**[SoftBank, Fanuc turn to partners as robotics and AI merge](https://asia.nikkei.com/business/technology/artificial-intelligence/softbank-fanuc-turn-to-partners-as-robotics-and-ai-merge)**
-
-Japan's robotics industry struggles to catch up to physical AI technology
-
-Nikkei Asia • 15h ago
+TechCrunch • 23h ago
 
 ---
 
@@ -154,11 +154,19 @@ New Hampshire Public Radio • 1d ago
 
 ---
 
+**[SoftBank, Fanuc turn to partners as robotics and AI merge](https://asia.nikkei.com/business/technology/artificial-intelligence/softbank-fanuc-turn-to-partners-as-robotics-and-ai-merge)**
+
+Japan's robotics industry struggles to catch up to physical AI technology
+
+Nikkei Asia • 16h ago
+
+---
+
 **[Funding surge powers Chinese robotics firms as focus shifts to humanoid ‘brains’](https://www.scmp.com/tech/article/3342246/funding-surge-powers-chinese-robotics-firms-focus-shifts-humanoid-brains)**
 
 State-backed funds, Big Tech drive fresh capital into robotics companies, betting on operating systems that underpin humanoid intelligence.
 
-South China Morning Post • 1h ago
+South China Morning Post • 2h ago
 
 ---
 
@@ -166,7 +174,7 @@ South China Morning Post • 1h ago
 
 The job apocalypse is coming for all collars.
 
-Axios • 14h ago
+Axios • 16h ago
 
 ---
 
@@ -174,7 +182,7 @@ Axios • 14h ago
 
 Morgan Stanley analysts highlight stocks of companies that sell specialized robotics parts.
 
-CNBC • 1d ago
+CNBC • 2d ago
 
 ---
 
@@ -183,12 +191,6 @@ CNBC • 1d ago
 SSE Steel Fabrication owner Mindy Núñez Airhart on growing a second-generation steel business in St. Bernard Parish — from post-Katrina rebuilding to robotics, AI and humanoid welding technology shaping the industry’s future.
 
 NOLA.com • 1d ago
-
----
-
-**[A mathematical framework for optimizing robotic joints](https://techxplore.com/news/2026-02-mathematical-framework-optimizing-robotic-joints.html)**
-
-Tech Xplore • 17h ago
 
 ---
 
@@ -260,7 +262,7 @@ Last year, Helix showed that a single neural network could control a humanoid's 
 
 📺 Borunte Robot Lin 
 
-👁️ 1K • 👍 6 • ⏱️ 0:29 • 7h ago
+👁️ 1K • 👍 6 • ⏱️ 0:29 • 8h ago
 
 ---
 
@@ -288,7 +290,7 @@ Make Your Own Cute Dasai Mochi Robot   | #ashwinprojects #AltiumStudentLab Accel
 
 📺 BBC News
 
-👁️ 12K • 👍 123 • 💬 31 • ⏱️ 0:50 • 18h ago
+👁️ 12K • 👍 123 • 💬 31 • ⏱️ 0:50 • 19h ago
 
 ---
 

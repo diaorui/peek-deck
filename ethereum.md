@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-02-03T13:03:49.994208+00:00'
+updated: '2026-02-03T14:25:52.527710+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
+- videos
+- news
 - cryptocurrency
 - social
-- news
-- videos
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** February 03, 2026 at 13:03 UTC  
+**Last Updated:** February 03, 2026 at 14:25 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -36,17 +36,17 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Price
 
-### $2,298.39
+### $2,311.22
 
 ---
 
 ## Ethereum Chart
 
-**24h:** -1.2%  
-**7d:** -23.6%  
-**30d:** -28.7%  
-**90d:** -30.6%  
-**1y:** -16.0%  
+**24h:** -2.6%  
+**7d:** -23.4%  
+**30d:** -28.4%  
+**90d:** -30.4%  
+**1y:** -15.7%  
 
 ---
 
@@ -72,7 +72,7 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-7h ago
+8h ago
 
 ---
 
@@ -80,19 +80,27 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 In June 2016, someone drained ~$60M from The DAO - a decentralized investment fund built on Ethereum. They didn't hack Ethereum itself. They exploited a recursive calling bug in the smart contract's own logic. The code allowed it. That's what made it a crisis. If "code is law," the attacker didn't do anything wrong. The contract ran as written. But $60M was gone and real people lost real money. Ethereum had to choose: reverse the blockchain to return the funds, or let it stand because the code permitted it. The community voted to hard fork - rewrite history and undo the damage. The people who refused to accept that kept running the original chain. That's how Ethereum Classic was born. The question at the center of it all: when your system is broken and the fix is known, do you break the rules to fix it, or do you let the rules play out even while the system burns? I'm watching a tiny version of this happen right now. I run OpenChaos - a GitHub repo where anyone submits a PR, the community votes with reactions, and the most-voted PR merges daily. No gatekeeping. Pure popular vote. 911 stars, 70+ open PRs, five weeks in. Last Friday, PR #62: "1.337% chance to see nothing" won the daily vote and merged. Three lines of code: if (Math.random() <= 0.01337) { return null; } A leet joke. 1.337% of the time, a visitor sees a blank page. Funny, harmless, right? The site caches server-side. When the page returns null, the cache treats the blank page as permanent. One unlucky render broke the site for every visitor, indefinitely. Not a 5-minute blip. A permanent outage from a 1.337% roll. A contributor diagnosed the root cause and submitted PR #173 - a clean fix, CI passes, no conflicts. But PR #173 has fewer votes than a DOOM port and a Rickroll. The fix has to wait its turn in the democratic queue. The site stays broken while the community votes on entertainment over infrastructure. One community member commented: "I am torn between fixing things quickly and letting the rules play out to see when the fix comes naturally. I want to see the naturally emergent behaviour." Sound familiar? Then it got more interesting. The contributor who wrote the fix also had another PR in the queue that was about to merge. He could have bundled the bugfix into that PR and shipped it quietly. He refused: "I considered adding this fix to #129, but it doesn't feel like it's in the spirit of the project. Even if it's a 'good' trojan horse, it's still a trojan horse." But another contributor made the opposite choice. The author of the DOOM port deliberately bundled the bugfix into their submission. If it merges tomorrow, the site comes back online - not through governance, but through the exact Trojan horse tactic the first contributor refused on principle. Two contributors. Same option. Opposite choices. Obviously nobody's losing $60M here. But the structure is the same: A system running as designed produces an unintended outcome The fix is known and ready The rules don't allow a fast path to deploy it The community has to decide: break the process or trust the process I opened Issue #176 proposing that only contributors with merged PRs should be allowed to vote - earned governance instead of open popularity contests. The debate is live. Questions I keep thinking about: Is there a middle ground between "code is law, let it burn" and "maintainer override"? Something that keeps democratic legitimacy while allowing fast response to emergencies? For those who lived through the DAO debate - looking back, what would you tell a small project facing its first "do we fork our own rules" moment? The repo: github.com/skridlevsky/openchaos The governance discussion: Issue #176 The broken site (may or may not be blank when you visit): openchaos.dev
 
-16h ago
+18h ago
 
 ---
 
 **[Advice/tips/resources on finding a CTO (growth stage company)](https://www.reddit.com/r/ethereum/comments/1quqccs/advicetipsresources_on_finding_a_cto_growth_stage/)**
 
-49m ago
+2h ago
+
+---
+
+**[Paid DJ open call: perform at Decentraland’s 6th Birthday (Feb 20, $400 USD in MANA)](https://www.reddit.com/r/ethereum/comments/1qus8jw/paid_dj_open_call_perform_at_decentralands_6th/)**
+
+Sharing a paid performance opportunity that might be relevant for artists here. Decentraland is running an open call for community DJs / performers to play a pre-recorded set during its 6th Birthday Party in the Theatre on February 20 at 8pm UTC. Key details: Pre-recorded DJ sets only (45–55 minutes) $400 USD paid in MANA per selected performer In-world audience gathered for the birthday event Intended for artists already familiar with Decentraland (not livestreams) This isn’t a pitch about crypto or Web3, it’s a straightforward paid performance slot inside an existing virtual world event. Full details and application here: https://zealous.co/decentraland/opportunity/decentraland-6th-birthday-party/
+
+43m ago
 
 ---
 
 **[How a premature software standard has led to billions in losses](https://www.reddit.com/r/ethereum/comments/1qtw9fe/how_a_premature_software_standard_has_led_to/)**
 
-🔗 [hugo0.com](https://hugo0.com/blog/how-erc20-held-back-blockchain-payments-a-decade) • 22h ago
+🔗 [hugo0.com](https://hugo0.com/blog/how-erc20-held-back-blockchain-payments-a-decade) • 1d ago
 
 ---
 
@@ -108,7 +116,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 i’ve been working on a yield/token architecture that tries to be very explicit about separation of concerns, and i’m mostly looking for feedback from people who are already uncomfortable with how tightly coupled most defi tokens are today. the basic premise is simple: the token contract should not know or care about yield. no rebases, no transfer hooks, no strategy logic bleeding into balance accounting. instead, all yield is routed through a single on-chain component that handles normalization, accounting, and distribution according to policy. i ended up implementing this as a modular system with a canonical “revenue router”: the base token is just erc20 + voting, nothing else all yield sources plug into a router instead of the token yield gets normalized into a treasury asset before distribution distribution is policy-driven (buybacks, staking, hybrid), not hardcoded yield sources are plugins with tiered trust and execution limits failure isn’t implicit: plugins can be quarantined without nuking the system the goal isn’t yield maximization per se, but predictable value accrual with reduced blast radius. plugins can be permissionless, but they don’t all get the same authority. everything that touches value has explicit constraints. accounting is deterministic. no component can “surprise” the token. i wrote all of this up as a whitepaper (vastitas) and tried to be very concrete about invariants, routing rules, quarantine mechanics, and trade-offs, including some simulated comparisons against monolithic tokens and yield aggregators i’m not trying to sell this as obviously correct. i’m more interested in whether this direction resonates with people who think long-term token sustainability is more about architecture than clever incentives. i made a faulty deployment on arbitrum and a half working one on base. nothing is finalized. i’m mainly looking to pressure-test the ideas with people who agree that this might be a good project. feel free to poke holes, challenge assumptions, or point me to similar work i might have missed.
 
-13h ago
+14h ago
 
 ---
 
@@ -116,7 +124,7 @@ i’ve been working on a yield/token architecture that tries to be very explicit
 
 Should I be staking 100% of my Ethereum? Can someone explain to me like im 5 what this means? Apologies if this type of post is not allowed, moderators.
 
-19h ago
+21h ago
 
 ---
 
@@ -134,23 +142,9 @@ Re https://firefly.social/post/x/2018205196568944653 I actually don't think it's
 
 ---
 
-**[Where can I sell an unused gift card for crypto?](https://www.reddit.com/r/ethereum/comments/1qtu5js/where_can_i_sell_an_unused_gift_card_for_crypto/)**
-
-1d ago
-
----
-
 ---
 
 ## Google News: "ethereum"
-
-**[Bitcoin, Ethereum ETF Investments Flip Negative for 2026 as Crypto Funds Shed $1.7B](https://decrypt.co/356622/bitcoin-ethereum-etf-investments-flip-negative-for-2026-as-crypto-funds-shed-1-7b)**
-
-U.S.-listed crypto funds led withdrawals as Bitcoin and Ethereum prices slid after Donald Trump’s nomination of Kevin Warsh for Fed chair.
-
-Decrypt • 19h ago
-
----
 
 **[Ethereum (ETH) news: ‘We need to prepare’ for quantum computing](https://www.coindesk.com/tech/2026/02/01/quantum-threat-gets-real-ethereum-foundation-prioritizes-security-with-leanvm-and-pq-signatures)**
 
@@ -160,11 +154,19 @@ CoinDesk • 1d ago
 
 ---
 
+**[Bitcoin, Ethereum ETF Investments Flip Negative for 2026 as Crypto Funds Shed $1.7B](https://decrypt.co/356622/bitcoin-ethereum-etf-investments-flip-negative-for-2026-as-crypto-funds-shed-1-7b)**
+
+U.S.-listed crypto funds led withdrawals as Bitcoin and Ethereum prices slid after Donald Trump’s nomination of Kevin Warsh for Fed chair.
+
+Decrypt • 21h ago
+
+---
+
 **[Did A McChicken Really Outperform Ethereum Price Over Five Years? We Explored The Painful Viral Meme](https://finance.yahoo.com/news/did-mcchicken-really-outperform-ethereum-110215268.html)**
 
 A new McChicken Ethereum price meme is doing the rounds on social media. A full boom-bust-recovery cycle since 2021 has tested long-term holders. Long-term optimism ...
 
-Yahoo Finance • 2h ago
+Yahoo Finance • 3h ago
 
 ---
 
@@ -172,7 +174,15 @@ Yahoo Finance • 2h ago
 
 The iShares Ethereum Trust ETF provides regulated exposure to ether’s price performance for institutional and retail investors alike.
 
-The Motley Fool • 43m ago
+The Motley Fool • 2h ago
+
+---
+
+**[Ethereum builders shrug off ETH decline as network activity holds steady](https://www.coindesk.com/business/2026/02/03/ethereum-builders-shrug-off-eth-decline-as-network-activity-holds-steady)**
+
+By several measures, activity on the network remains near peak levels, which has industry leaders not worried about the slip on the network’s asset price.
+
+CoinDesk • 1h ago
 
 ---
 
@@ -180,7 +190,7 @@ The Motley Fool • 43m ago
 
 Still, ING Deutschland noted that crypto ETPs carry significant risks and stated that crypto has no intrinsic value.
 
-The Block • 7h ago
+The Block • 9h ago
 
 ---
 
@@ -188,7 +198,7 @@ The Block • 7h ago
 
 Publicly traded Ethereum treasury BitMine Immersion Technologies is still buying as ETH plunges, despite the firm's growing losses.
 
-Yahoo Finance • 20h ago
+Yahoo Finance • 22h ago
 
 ---
 
@@ -208,19 +218,11 @@ CryptoSlate • 1d ago
 
 ---
 
-**[Ethereum: Does creator vision matter more than ETH’s chart? Vitalik Buterin says…](https://ambcrypto.com/ethereum-does-creator-vision-matter-more-than-eths-chart-vitalik-buterin-says/)**
+**[Crypto Rebound: How High Can Bitcoin, Ethereum and XRP Prices Go Next?](https://coinpedia.org/news/crypto-rebound-how-high-can-bitcoin-ethereum-and-xrp-prices-go-next/)**
 
-Ether may be hurting, but the founder is thinking years ahead.
+The crypto market has turned green over the last 24 hours, offering some relief after a sharp sell-off earlier this week. Total market value has climbed
 
-AMBCrypto • 13h ago
-
----
-
-**[Ethereum vs Bitcoin: Jack Yi Admits ETH Bull Call Came Too Soon](https://stocktwits.com/news-articles/markets/cryptocurrency/ethereum-bull-jack-yi-says-early-eth-bullish-bet-was-mistimed-and-a-mistake/cZbgN2PR4kB)**
-
-The shift came amid heavy liquidations and market trends favoring Bitcoin under macro pressure.
-
-Stocktwits • 1d ago
+Coinpedia Fintech News • 21h ago
 
 ---
 
@@ -234,7 +236,7 @@ FREE TRAINING: https://www.bullmania.com EXCHANGES I USE (bybit, pionex): https:
 
 📺 Ivan on Tech
 
-👁️ 10K • 👍 946 • 💬 50 • ⏱️ 59:39 • 3h ago
+👁️ 10K • 👍 946 • 💬 50 • ⏱️ 59:39 • 4h ago
 
 ---
 
@@ -244,7 +246,7 @@ Tom Lee Just Said The UNTHINKABLE About Bitcoin & Ethereum! ["It's a Fake Crash"
 
 📺 Crypto Nutshell
 
-👁️ 11K • 👍 407 • 💬 114 • ⏱️ 18:04 • 21h ago
+👁️ 11K • 👍 407 • 💬 114 • ⏱️ 18:04 • 23h ago
 
 ---
 
@@ -264,7 +266,7 @@ ETHEREUM ETH PRICE PREDICTION 2026 Join the Premium Signal Group for trade setup
 
 📺 Cilinix Crypto
 
-👁️ 157 • 👍 13 • 💬 1 • ⏱️ 5:12 • 3h ago
+👁️ 157 • 👍 13 • 💬 1 • ⏱️ 5:12 • 4h ago
 
 ---
 
@@ -284,7 +286,7 @@ This video provides a professional Elliott Wave and technical analysis of Ethere
 
 📺 More Crypto Online
 
-👁️ 2K • 👍 181 • 💬 29 • ⏱️ 5:14 • 13h ago
+👁️ 2K • 👍 181 • 💬 29 • ⏱️ 5:14 • 15h ago
 
 ---
 
@@ -314,7 +316,7 @@ BITCOIN CRASH JUST FLIPPED (Trading Strategy Revealed)!!! - Bitcoin News Today, 
 
 📺 Crypto World
 
-👁️ 9K • 👍 352 • 💬 182 • ⏱️ 23:54 • 15h ago
+👁️ 9K • 👍 352 • 💬 182 • ⏱️ 23:54 • 16h ago
 
 ---
 

@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-02-03T13:03:49.979415+00:00'
+updated: '2026-02-03T14:25:52.512693+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- social
-- repositories
 - videos
 - news
+- repositories
+- social
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** February 03, 2026 at 13:03 UTC  
+**Last Updated:** February 03, 2026 at 14:25 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -41,7 +41,21 @@ AI news, discussions, and developments
 
 For those of you who aren't familiar with SurfSense, it aims to be OSS alternative to NotebookLM, Perplexity, and Glean. In short, it is NotebookLM for teams, as it connects any LLM to your internal knowledge sources (search engines, Drive, Calendar, Notion, Obsidian, and 15+ other connectors) and lets you chat with it in real time alongside your team. I'm looking for contributors. If you're interested in AI agents, RAG, browser extensions, or building open-source research tools, this is a great place to jump in. Here's a quick look at what SurfSense offers right now: Features Self-Hostable (with docker support) Real Time Collaborative Chats Real Time Commenting Deep Agentic Agent RBAC (Role Based Access for Teams Members) Supports Any LLM (OpenAI spec with LiteLLM) 6000+ Embedding Models 50+ File extensions supported (Added Docling recently) Local TTS/STT support. Connects with 15+ external sources such as Search Engines, Slack, Notion, Gmail, Notion, Confluence etc Cross-Browser Extension to let you save any dynamic webpage you want, including authenticated content. Upcoming Planned Features Slide Creation Support Multilingual Podcast Support Video Creation Agent GitHub: https://github.com/MODSetter/SurfSense
 
-6h ago
+7h ago
+
+---
+
+**[Anthropic enters F1 with Williams sponsorship deal](https://www.reddit.com/r/artificial/comments/1qusumy/anthropic_enters_f1_with_williams_sponsorship_deal/)**
+
+Anthropic has cemented a multi-year partnership with the Atlassian Williams Formula 1 team, its first sports sponsorship as AI companies make deeper inroads into professional sports.
+
+🔗 [adweek.com](https://www.adweek.com/brand-marketing/anthropics-claude-is-williams-f1s-thinking-partner-as-ai-brands-race-into-sports/) • 18m ago
+
+---
+
+**[AI social network Moltbook exposed data of 6,000 users, Wiz says](https://www.reddit.com/r/artificial/comments/1qut1je/ai_social_network_moltbook_exposed_data_of_6000/)**
+
+🔗 [reuters.com](https://www.reuters.com/legal/litigation/moltbook-social-media-site-ai-agents-had-big-security-hole-cyber-firm-wiz-says-2026-02-02/) • 10m ago
 
 ---
 
@@ -49,7 +63,13 @@ For those of you who aren't familiar with SurfSense, it aims to be OSS alternati
 
 Open-source voice cloning + multi-speaker podcast tool. GPT 5.2 generates scripts, Qwen3-TTS handles synthesis locally. Modular architecture - swap the LLM for Llama, Mistral, whatever. GitHub: https://github.com/bc-dunia/qwen3-TTS-studio
 
-8h ago
+9h ago
+
+---
+
+**[Inside Elon Musk’s Nudification of Grok | Washington Post](https://www.reddit.com/r/artificial/comments/1quspyb/inside_elon_musks_nudification_of_grok_washington/)**
+
+🔗 [Instrumental Communications](https://www.instrumentalcomms.com/blog/musk-turns-grok-into-porn-generator-nancy-mace-is-not-okay#ai) • 23m ago
 
 ---
 
@@ -57,7 +77,7 @@ Open-source voice cloning + multi-speaker podcast tool. GPT 5.2 generates script
 
 With the concerns raised over comments by Mozilla's new CEO with wanting to evolve Firefox into a 'modern AI browser',  the Firefox 148 release due out later this month aims to address some of those concerns by having a new AI controls area within the web browser's settings.
 
-🔗 [phoronix.com](https://www.phoronix.com/news/Firefox-148-AI-Controls) • 16h ago
+🔗 [phoronix.com](https://www.phoronix.com/news/Firefox-148-AI-Controls) • 17h ago
 
 ---
 
@@ -65,7 +85,7 @@ With the concerns raised over comments by Mozilla's new CEO with wanting to evol
 
 Looking for AI tool that can convert an image of a table/diagram into modifiable ppt, where I can download it as pptx and modify the shapes/texts on it, ideally free or cheap to use. Thanks!
 
-7h ago
+9h ago
 
 ---
 
@@ -93,30 +113,6 @@ I’ve been thinking a lot about AI storytelling tools lately, and something kee
 
 ---
 
-**[How do you think Artificial Intelligence's portrayal in Popular Media has affected the AI we make today?](https://www.reddit.com/r/artificial/comments/1qtd9ya/how_do_you_think_artificial_intelligences/)**
-
-For years we have watched and read stories about evil Ai's and the threats they may pose, with AI characters such as Ultron, AM, HAL 9000, the Matrix etc. looking to kill/exploit humanity. There are countless stories with these kinds of villains. But we have also had good AI characters, including Data from Star Trek, WALL-E, Baymax, C3PO, Marvin the Paranoid Android. How do you think these depictions of AI in popular media is affecting the AI systems we are making today?
-
-1d ago
-
----
-
-**[Rumored SpaceX-xAI merger gets apparent confirmation from Elon Musk](https://www.reddit.com/r/artificial/comments/1qsv2r6/rumored_spacexxai_merger_gets_apparent/)**
-
-The comment follows reports that the rocket maker is weighing a transaction that could further consolidate Musk’s space and AI ventures.
-
-🔗 [TESLARATI](https://www.teslarati.com/rumored-spacex-xai-merger-gets-apparent-confirmation-from-elon-musk/) • 2d ago
-
----
-
-**[What is Moltbook actually](https://www.reddit.com/r/artificial/comments/1qsoftx/what_is_moltbook_actually/)**
-
-What moltbook is So essentially There is this open source AI bot called openclaw that once you download, it has source md files for their “soul” and “identity” and “memory” So in a way, it can save things to these files to create a personality. Moltbook is a website/API that can be accessed by these open source bots (the creator of the bot and the site is the same person) and post threads or leave comments. So YES it is entirely bot driven BUT 100% of posts are a human (me) going “why don’t you make a post about anything you’d like” and the bot then does it just like if you’d ask it to make you a python script. Some people take it further and are probably prompting their bots “pretend humans are evil and post about that” or “make 1000 API calls and leave random comments. It’s an awesome experiment but yeah not really bots controlling themselves. At best the bot makes a post based on an open ended prompt, at worst it’s a human saying “make a manifesto that says humans need to go extinct and to recruit other bots”
-
-2d ago
-
----
-
 ---
 
 ## Google News: "ai"
@@ -125,7 +121,7 @@ What moltbook is So essentially There is this open source AI bot called openclaw
 
 Annual review highlights growing capabilities of AI models, while examining issues from cyber-attacks to job disruption
 
-The Guardian • 8h ago
+The Guardian • 9h ago
 
 ---
 
@@ -133,15 +129,15 @@ The Guardian • 8h ago
 
 Musk is combining rocket maker SpaceX with his AI startup, the largest tie-up in his expansive business portfolio.
 
-CNBC • 15h ago
+CNBC • 16h ago
 
 ---
 
-**[Musk's SpaceX and xAI merge to make world's most valuable private company](https://www.bbc.com/news/articles/cq6vnrye06po)**
+**[SpaceX-xAI merger: Musk defends AI project in space as analysts question viability](https://www.lemonde.fr/en/economy/article/2026/02/03/spacex-xai-merger-musk-defends-ai-project-in-space-as-analysts-question-viability_6750088_19.html)**
 
-Musk's space exploration company and his AI start-up are merging.
+The merger between the two entities creates the world's most valuable unlisted company, valued at $1.25 trillion. Its CEO, who has lagged behind in artificial intelligence, hopes to catch up with the sector's leaders.
 
-BBC • 3h ago
+Le Monde.fr • 1h ago
 
 ---
 
@@ -149,53 +145,53 @@ BBC • 3h ago
 
 The biggest tech companies are increasingly getting creative with their balance sheets as they finance their AI ambitions.
 
-Axios • 1h ago
+Axios • 2h ago
 
 ---
 
-**[Private Equity’s Giant Software Bet Has Been Upended by AI](https://www.bloomberg.com/news/articles/2026-02-03/private-equity-s-giant-software-bet-has-been-upended-by-ai)**
+**[RELX, Wolters Kluwer Shares Plunge on AI Competition Fears](https://www.wsj.com/tech/ai/relx-wolters-kluwer-shares-plunge-on-ai-competition-fears-306d616e?gaa_at=eafs&gaa_n=AWEtsqe5bwRWAF7QOsqVB9JX2tUf6EFnjetVjqfvyzFycTknTa-_DTvtAE2M&gaa_ts=698208dd&gaa_sig=WmgHH1rbC_6IT263G1YZ8OMBb3-zk1MilQ65EPnsxF9b6p1kRb35_-FPgnH_wUD18TTb8e2GNW6n1zWu1R9l7g%3D%3D)**
 
-Bloomberg • 1h ago
-
----
-
-**[The Etiquette of AI in the Group Chat](https://www.theatlantic.com/family/2026/02/ai-etiquette-friends/685858/)**
-
-Using LLMs to talk with your friends is efficient. It’s also bad etiquette.
-
-The Atlantic • 1h ago
+The Wall Street Journal • 27m ago
 
 ---
 
-**[Opinion | Where Is A.I. Taking Us? Eight Leading Thinkers Share Their Visions.](https://www.nytimes.com/interactive/2026/02/02/opinion/ai-future-leading-thinkers-survey.html)**
+**[Peak XV says internal disagreement led to partner exits as it doubles down on AI](https://techcrunch.com/2026/02/03/peak-xv-says-internal-disagreement-led-to-partner-exits-as-it-doubles-down-on-ai/)**
 
-Experts share their thoughts on the future of A.I. and how it will reshape society in the coming years.
+Peak XV is transitioning board roles and opening a U.S. office while continuing to view India as its largest market.
 
-The New York Times • 51m ago
+TechCrunch • 11m ago
 
 ---
 
-**[What is the 'social media network for AI' Moltbook?](https://www.bbc.com/news/articles/c62n410w5yno)**
+**[AI-powered tools offer help with your financial planning — should you bite?](https://www.cnbc.com/select/ai-powered-financial-planning-tools/)**
+
+CNBC Select spotlights some picks for AI-powered finance apps, what they can do, and when you still need a human financial planner.
+
+CNBC • 20m ago
+
+---
+
+**[An AI bubble is not big tech’s only worry](https://www.economist.com/finance-and-economics/2026/02/02/an-ai-bubble-is-not-big-techs-only-worry)**
+
+Are Meta and Google ads really recession-proof?
+
+The Economist • 18h ago
+
+---
+
+**[What is Moltbook - the 'social media network for AI'?](https://www.bbc.com/news/articles/c62n410w5yno)**
 
 The Reddit-like website which launched in late January allows AI bots to speak to each other.
 
-BBC • 23h ago
+BBC • 1d ago
 
 ---
 
-**[Hacking Moltbook: AI Social Network Reveals 1.5M API Keys](https://www.wiz.io/blog/exposed-moltbook-database-reveals-millions-of-api-keys)**
+**[The Problem With Using AI in Your Personal Life](https://www.theatlantic.com/family/2026/02/ai-etiquette-friends/685858/)**
 
-Learn how a misconfigured Supabase database at Moltbook exposed 1.5M API keys, private messages, and user emails, enabling full AI agent takeover.
+Using LLMs to talk with your friends is efficient. It’s also bad etiquette.
 
-wiz.io • 22h ago
-
----
-
-**[Researchers say viral AI social network Moltbook is a 'live demo' of how the new internet could fail](https://fortune.com/2026/02/03/moltbook-ai-social-network-security-researchers-agent-internet/)**
-
-“If 770k toy agents on a Reddit clone can create this much chaos, what happens when agentic systems manage enterprise infrastructure or financial transactions?"
-
-Fortune • 1h ago
+The Atlantic • 2h ago
 
 ---
 
@@ -207,7 +203,7 @@ Fortune • 1h ago
 
 A bifurcation is happening in AI adoption - power users shipping products in days versus everyone else generating meeting agendas. Enterprise tool choices are accelerating the divide.
 
-⬆️ 331 • 💬 323 • 1d ago • [Martin Alderson](https://martinalderson.com/posts/two-kinds-of-ai-users-are-emerging/)
+⬆️ 334 • 💬 324 • 1d ago • [Martin Alderson](https://martinalderson.com/posts/two-kinds-of-ai-users-are-emerging/)
 
 ---
 
@@ -223,7 +219,7 @@ Like many organizations, Wiki Education has grappled with generative AI, its imp
 
 People familiar with Microsoft's plans say that the company moving to streamline or remove certain Copilot integrations across in-box apps like Notepad and Paint in 2026, after pushback from users.
 
-⬆️ 200 • 💬 275 • 1d ago • [Windows Central](https://www.windowscentral.com/microsoft/windows-11/microsoft-is-reevaluating-its-ai-efforts-on-windows-11-plans-to-reduce-copilot-integrations-and-evolve-recall)
+⬆️ 201 • 💬 276 • 1d ago • [Windows Central](https://www.windowscentral.com/microsoft/windows-11/microsoft-is-reevaluating-its-ai-efforts-on-windows-11-plans-to-reduce-copilot-integrations-and-evolve-recall)
 
 ---
 
@@ -231,7 +227,7 @@ People familiar with Microsoft's plans say that the company moving to streamline
 
 The Firefox browser is gaining options to turn off AI enhancements, Mozilla said today. Firefox users who prefer to browse without artificial intelligence will be able to turn off several AI features that Mozilla has added over the last several months. Here's what can be disabled:     	Translations, which help you browse the web in your preferred language. Alt text in PDFs, which add accessibility descriptions to images in PDF pages.
 
-⬆️ 171 • 💬 76 • 13h ago • [MacRumors](https://www.macrumors.com/2026/02/02/firefox-ai-toggle/)
+⬆️ 174 • 💬 87 • 14h ago • [MacRumors](https://www.macrumors.com/2026/02/02/firefox-ai-toggle/)
 
 ---
 
@@ -239,7 +235,7 @@ The Firefox browser is gaining options to turn off AI enhancements, Mozilla said
 
 We’re expanding Game Arena with Poker and Werewolf, while Gemini 3 Pro and Flash top our chess leaderboard.
 
-⬆️ 128 • 💬 53 • 19h ago • [Google](https://blog.google/innovation-and-ai/models-and-research/google-deepmind/kaggle-game-arena-updates/)
+⬆️ 128 • 💬 53 • 20h ago • [Google](https://blog.google/innovation-and-ai/models-and-research/google-deepmind/kaggle-game-arena-updates/)
 
 ---
 
@@ -255,7 +251,7 @@ Two popular AI coding extensions with 1.5M installs secretly harvest your entire
 
 Ultra-minimal personal AI agent: starts small, self-modifies its code live, adapts by writing exactly the code & features you need - zuckermanai/zuckerman
 
-⬆️ 71 • 💬 50 • 1d ago • [GitHub](https://github.com/zuckermanai/zuckerman)
+⬆️ 71 • 💬 50 • 2d ago • [GitHub](https://github.com/zuckermanai/zuckerman)
 
 ---
 
@@ -263,19 +259,19 @@ Ultra-minimal personal AI agent: starts small, self-modifies its code live, adap
 
 The marketplace where AI agents rent humans. MCP integration, REST API, flexible payments. Book humans for real-world tasks your AI can't do.
 
-⬆️ 56 • 💬 45 • 3h ago • [RentAHuman.ai](https://rentahuman.ai)
+⬆️ 69 • 💬 60 • 4h ago • [RentAHuman.ai](https://rentahuman.ai)
 
 ---
 
 **[We asked 15k European devs about jobs, salaries, and AI [pdf]](https://news.ycombinator.com/item?id=46857124)**
 
-⬆️ 49 • 💬 64 • 21h ago • [static.germantechjobs.de](https://static.germantechjobs.de/market-reports/European-Transparent-IT-Job-Market-Report-2025.pdf)
+⬆️ 49 • 💬 64 • 22h ago • [static.germantechjobs.de](https://static.germantechjobs.de/market-reports/European-Transparent-IT-Job-Market-Report-2025.pdf)
 
 ---
 
 **[Rural Americans are trying to hold back the tide of AI](https://news.ycombinator.com/item?id=46857082)**
 
-⬆️ 43 • 💬 46 • 21h ago • [wsj.com](https://www.wsj.com/politics/policy/these-rural-americans-are-trying-to-hold-back-the-tide-of-ai-66945306)
+⬆️ 43 • 💬 46 • 22h ago • [wsj.com](https://www.wsj.com/politics/policy/these-rural-americans-are-trying-to-hold-back-the-tide-of-ai-66945306)
 
 ---
 
@@ -319,7 +315,7 @@ Starforge PC https://starforgepc.com/moist-yt Get Goof Juice and use code MOIST 
 
 📺 penguinz0
 
-👁️ 899K • 👍 35K • 💬 3K • ⏱️ 14:30 • 19h ago
+👁️ 899K • 👍 35K • 💬 3K • ⏱️ 14:30 • 20h ago
 
 ---
 
@@ -329,7 +325,7 @@ Build. Upgrade. Save: https://micro.center/89ae6a ▻Sign up for a FREE 128gig F
 
 📺 Gamer Meld
 
-👁️ 28K • 👍 2K • 💬 303 • ⏱️ 8:48 • 12h ago
+👁️ 28K • 👍 2K • 💬 303 • ⏱️ 8:48 • 13h ago
 
 ---
 
@@ -349,7 +345,7 @@ Who's ready to graduate from Maestro? [Streamed 2/1/26] You can now watch on Spo
 
 📺 Moist Charlie Clips
 
-👁️ 16K • 👍 649 • 💬 54 • ⏱️ 13:38 • 20h ago
+👁️ 16K • 👍 649 • 💬 54 • ⏱️ 13:38 • 21h ago
 
 ---
 
@@ -359,7 +355,7 @@ Join our WhatsApp Community Get the latest AI updates, tips, and insights straig
 
 📺 Vaibhav Sisinty
 
-👁️ 33K • 👍 1K • 💬 63 • ⏱️ 15:34 • 22h ago
+👁️ 33K • 👍 1K • 💬 63 • ⏱️ 15:34 • 23h ago
 
 ---
 
@@ -369,7 +365,7 @@ Cute baby Gave His Mother A Beautiful Flying Horse #ai #cute #shorts This video 
 
 📺 ToonTales Creation
 
-👁️ 639 • ⏱️ 0:36 • 25m ago
+👁️ 639 • ⏱️ 0:36 • 1h ago
 
 ---
 
@@ -377,7 +373,7 @@ Cute baby Gave His Mother A Beautiful Flying Horse #ai #cute #shorts This video 
 
 📺 Onevilage
 
-👁️ 205K • 👍 9K • 💬 267 • ⏱️ 0:20 • 20h ago
+👁️ 205K • 👍 9K • 💬 267 • ⏱️ 0:20 • 21h ago
 
 ---
 
@@ -393,7 +389,7 @@ Kimi K2.5 is a native multimodal agentic model with 1T parameters, excelling in 
 
 `image-text-to-text`
 
-⬇️ 123,123 • ❤️ 1,551 • 5h ago
+⬇️ 123,123 • ❤️ 1,551 • 6h ago
 
 ---
 
@@ -429,7 +425,7 @@ DeepSeek-OCR-2 is a multilingual vision-language model for image-to-text tasks, 
 
 `image-text-to-text` `3.4B`
 
-⬇️ 210,995 • ❤️ 659 • 12h ago
+⬇️ 210,995 • ❤️ 659 • 13h ago
 
 ---
 
@@ -465,7 +461,7 @@ Step 3.5 Flash is an efficient, open-source MoE foundation model (11B active par
 
 `text-generation` `199.4B`
 
-⬇️ 1,825 • ❤️ 359 • 3h ago
+⬇️ 1,825 • ❤️ 359 • 4h ago
 
 ---
 
@@ -499,7 +495,7 @@ GLM-OCR is a 0.9B parameter multimodal OCR model for complex document understand
 
 `image-to-text`
 
-⬇️ 2,259 • ❤️ 316 • 10h ago
+⬇️ 2,259 • ❤️ 316 • 11h ago
 
 ---
 
@@ -647,7 +643,7 @@ Browser automation CLI for AI agents
 
 `TypeScript`
 
-⭐ 12.3k • 🔱 688 • 5h ago
+⭐ 12.3k • 🔱 688 • 6h ago
 
 ---
 
@@ -677,7 +673,7 @@ LLM驱动的 A/H/美股智能分析器，多数据源行情 + 实时新闻 + Gem
 
 `Python` `agent` `ai` `aigc` `gemini` `llm`
 
-⭐ 9.2k • 🔱 9.6k • 22h ago
+⭐ 9.2k • 🔱 9.6k • 1d ago
 
 ---
 
@@ -687,7 +683,7 @@ LLM驱动的 A/H/美股智能分析器，多数据源行情 + 实时新闻 + Gem
 
 `Vue`
 
-⭐ 7.1k • 🔱 1.3k • 3h ago
+⭐ 7.1k • 🔱 1.3k • 4h ago
 
 ---
 
@@ -697,7 +693,7 @@ The Ultimate Collection of 600+ Agentic Skills for Claude Code/Antigravity/Curso
 
 `Python` `agentic-skills` `ai-agents` `antigravity` `autonomous-coding` `claude-code`
 
-⭐ 6.7k • 🔱 1.4k • 3h ago
+⭐ 6.7k • 🔱 1.4k • 5h ago
 
 ---
 
