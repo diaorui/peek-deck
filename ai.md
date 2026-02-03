@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-02-03T06:54:08.180307+00:00'
+updated: '2026-02-03T07:43:12.761705+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
 - videos
-- repositories
-- news
 - social
+- news
+- repositories
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** February 03, 2026 at 06:54 UTC  
+**Last Updated:** February 03, 2026 at 07:43 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -41,7 +41,7 @@ AI news, discussions, and developments
 
 Open-source voice cloning + multi-speaker podcast tool. GPT 5.2 generates scripts, Qwen3-TTS handles synthesis locally. Modular architecture - swap the LLM for Llama, Mistral, whatever. GitHub: https://github.com/bc-dunia/qwen3-TTS-studio
 
-2h ago
+3h ago
 
 ---
 
@@ -49,7 +49,7 @@ Open-source voice cloning + multi-speaker podcast tool. GPT 5.2 generates script
 
 With the concerns raised over comments by Mozilla's new CEO with wanting to evolve Firefox into a 'modern AI browser',  the Firefox 148 release due out later this month aims to address some of those concerns by having a new AI controls area within the web browser's settings.
 
-🔗 [phoronix.com](https://www.phoronix.com/news/Firefox-148-AI-Controls) • 9h ago
+🔗 [phoronix.com](https://www.phoronix.com/news/Firefox-148-AI-Controls) • 10h ago
 
 ---
 
@@ -57,7 +57,7 @@ With the concerns raised over comments by Mozilla's new CEO with wanting to evol
 
 Looking for AI tool that can convert an image of a table/diagram into modifiable ppt, where I can download it as pptx and modify the shapes/texts on it, ideally free or cheap to use. Thanks!
 
-1h ago
+2h ago
 
 ---
 
@@ -73,7 +73,7 @@ India's latest budget mentions AI 11 times - highest ever. Key commitments: $90B
 
 Amazon says it is laying off 16,000 because of 'efficiency gains' from AI, but an economist says it will take time for firms that are adopting AI to see how their work flows change.
 
-🔗 [euronews](https://www.euronews.com/next/2026/02/02/did-ai-really-cause-job-losses-at-amazon-its-hard-to-tell-economist-says) • 20h ago
+🔗 [euronews](https://www.euronews.com/next/2026/02/02/did-ai-really-cause-job-losses-at-amazon-its-hard-to-tell-economist-says) • 21h ago
 
 ---
 
@@ -125,7 +125,7 @@ I subscribe to a few AI podcasts, but I wanted to know of any others that you ca
 
 Moltbook might be fake, but even worse, it's dangerous to run on your personal computer, experts say.
 
-Fortune • 12h ago
+Fortune • 13h ago
 
 ---
 
@@ -139,7 +139,7 @@ BBC • 1d ago
 
 **[Publicis Says Account Wins, AI Demand Lift Top Line](https://www.wsj.com/business/earnings/publicis-says-account-wins-ai-demand-lift-top-line-1e003dca?gaa_at=eafs&gaa_n=AWEtsqeHF10yRAoWBoCPWk22NS-JDZLiwIIdIuWgYI6RkJxLh0sD1vMxL5l5&gaa_ts=69819efa&gaa_sig=BV5Bikj2GyPUEnzXi83B8Vp9RwnltJ0l8fLY8b-Do99aBx0oaETesYL9V1x_4ASJxt9KgDehtoPsv7C6dAg20A%3D%3D)**
 
-The Wall Street Journal • 15m ago
+The Wall Street Journal • 1h ago
 
 ---
 
@@ -147,7 +147,7 @@ The Wall Street Journal • 15m ago
 
 Chief executive says French ad group is among sector’s few companies to have figured out how to scale the technology
 
-Financial Times • 23m ago
+Financial Times • 1h ago
 
 ---
 
@@ -155,13 +155,13 @@ Financial Times • 23m ago
 
 Annual review highlights growing capabilities of AI models, while examining issues from cyber-attacks to job disruption
 
-The Guardian • 1h ago
+The Guardian • 2h ago
 
 ---
 
 **[Elon Musk Merges SpaceX With His A.I. Start-Up xAI](https://www.nytimes.com/2026/02/02/technology/spacex-xai-deal.html)**
 
-The New York Times • 4h ago
+The New York Times • 5h ago
 
 ---
 
@@ -169,7 +169,7 @@ The New York Times • 4h ago
 
 Deal comes as Musk pursues plans for datacenters and solar-powered satellites in space to propel AI
 
-The Guardian • 7h ago
+The Guardian • 8h ago
 
 ---
 
@@ -177,7 +177,7 @@ The Guardian • 7h ago
 
 Musk is combining rocket maker SpaceX with his AI startup, the largest tie-up in his expansive business portfolio.
 
-CNBC • 9h ago
+CNBC • 10h ago
 
 ---
 
@@ -185,13 +185,13 @@ CNBC • 9h ago
 
 There is a growing fault line within Trump’s coalition over how aggressively to unleash a technology that is rapidly reshaping the economy and society.
 
-CNN • 20h ago
+CNN • 21h ago
 
 ---
 
 **[Palantir’s stock surges as AI demand drives another record quarter](https://www.marketwatch.com/story/palantirs-stock-surges-as-ai-demand-drives-another-record-quarter-deb6b082?gaa_at=eafs&gaa_n=AWEtsqc_GCXXexg9HwV40D0O91htgSRf9Z3xX3OUL92VoI7SD-YXUNZQl4IP&gaa_ts=69819efa&gaa_sig=BemtgG4qwBf2sV6u6Iln7pENRgVixWbHdrnPav1AKj8tGQSUc7NGeHwZ1wI4J1xQk2R60WFHIOuRtSHioWGayA%3D%3D)**
 
-MarketWatch • 9h ago
+MarketWatch • 10h ago
 
 ---
 
@@ -243,7 +243,7 @@ We’re expanding Game Arena with Poker and Werewolf, while Gemini 3 Pro and Fla
 
 Two popular AI coding extensions with 1.5M installs secretly harvest your entire codebase and profile you. Both are still live in the marketplace.
 
-⬆️ 90 • 💬 86 • 17h ago • [koi.ai](https://www.koi.ai/blog/maliciouscorgi-the-cute-looking-ai-extensions-leaking-code-from-1-5-million-developers)
+⬆️ 90 • 💬 86 • 18h ago • [koi.ai](https://www.koi.ai/blog/maliciouscorgi-the-cute-looking-ai-extensions-leaking-code-from-1-5-million-developers)
 
 ---
 
@@ -257,13 +257,13 @@ Ultra-minimal personal AI agent: starts small, self-modifies its code live, adap
 
 **[We asked 15k European devs about jobs, salaries, and AI [pdf]](https://news.ycombinator.com/item?id=46857124)**
 
-⬆️ 46 • 💬 61 • 15h ago • [static.germantechjobs.de](https://static.germantechjobs.de/market-reports/European-Transparent-IT-Job-Market-Report-2025.pdf)
+⬆️ 46 • 💬 61 • 16h ago • [static.germantechjobs.de](https://static.germantechjobs.de/market-reports/European-Transparent-IT-Job-Market-Report-2025.pdf)
 
 ---
 
 **[Rural Americans are trying to hold back the tide of AI](https://news.ycombinator.com/item?id=46857082)**
 
-⬆️ 41 • 💬 45 • 15h ago • [wsj.com](https://www.wsj.com/politics/policy/these-rural-americans-are-trying-to-hold-back-the-tide-of-ai-66945306)
+⬆️ 41 • 💬 45 • 16h ago • [wsj.com](https://www.wsj.com/politics/policy/these-rural-americans-are-trying-to-hold-back-the-tide-of-ai-66945306)
 
 ---
 
@@ -325,7 +325,7 @@ GET MY FREE GUIDE: *The Content Creator's AI Blueprint: From 25 Hours to 5 Minut
 
 📺 Julia McCoy
 
-👁️ 19K • 👍 1K • 💬 221 • ⏱️ 11:03 • 13h ago
+👁️ 19K • 👍 1K • 💬 221 • ⏱️ 11:03 • 14h ago
 
 ---
 
@@ -335,7 +335,7 @@ A social media experiment called "Moltbook" popped up over the weekend. Think of
 
 📺 KTLA 5
 
-👁️ 3K • 👍 55 • 💬 18 • ⏱️ 2:38 • 11h ago
+👁️ 3K • 👍 55 • 💬 18 • ⏱️ 2:38 • 12h ago
 
 ---
 
@@ -355,7 +355,7 @@ CNBC's Deirdre Bosa reports on news regarding AI autonomy.
 
 📺 CNBC Television
 
-👁️ 13K • 👍 203 • 💬 133 • ⏱️ 3:25 • 13h ago
+👁️ 13K • 👍 203 • 💬 133 • ⏱️ 3:25 • 14h ago
 
 ---
 
@@ -365,7 +365,7 @@ Want to make money and save time with AI? Get AI Coaching, Support & Courses ...
 
 📺 Julian Goldie SEO
 
-👁️ 494 • 👍 16 • 💬 4 • ⏱️ 18:17 • 5h ago
+👁️ 494 • 👍 16 • 💬 4 • ⏱️ 18:17 • 6h ago
 
 ---
 
@@ -375,7 +375,7 @@ Build. Upgrade. Save: https://micro.center/89ae6a ▻Sign up for a FREE 128gig F
 
 📺 Gamer Meld
 
-👁️ 17K • 👍 1K • 💬 210 • ⏱️ 8:48 • 5h ago
+👁️ 17K • 👍 1K • 💬 210 • ⏱️ 8:48 • 6h ago
 
 ---
 
@@ -427,7 +427,7 @@ DeepSeek-OCR-2 is a multilingual vision-language model for image-to-text tasks, 
 
 `image-text-to-text` `3.4B`
 
-⬇️ 143,676 • ❤️ 651 • 6h ago
+⬇️ 143,676 • ❤️ 651 • 7h ago
 
 ---
 
@@ -463,7 +463,7 @@ Step 3.5 Flash is an efficient, open-source MoE foundation model (11B active par
 
 `199.4B`
 
-⬇️ 44 • ❤️ 337 • 3h ago
+⬇️ 44 • ❤️ 337 • 4h ago
 
 ---
 
@@ -513,7 +513,7 @@ Qwen3-TTS-12Hz-1.7B-CustomVoice is a multilingual text-to-speech model supportin
 
 LingBot-World is an open-source world simulator with high-fidelity dynamics, long-term memory capabilities, and real-time interactivity for diverse environments.
 
-▲ 107 • 💬 2 • ⭐ 2,155 • 5d ago
+▲ 107 • 💬 2 • ⭐ 2,155 • 6d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2601.20540) • [💻 code](https://github.com/Robbyant/lingbot-world/) • [🔗 project](https://technology.robbyant.com/lingbot-world)
 
@@ -647,7 +647,7 @@ Browser automation CLI for AI agents
 
 `TypeScript`
 
-⭐ 12.3k • 🔱 685 • 8m ago
+⭐ 12.3k • 🔱 685 • 57m ago
 
 ---
 
@@ -677,7 +677,7 @@ LLM驱动的 A/H/美股智能分析器，多数据源行情 + 实时新闻 + Gem
 
 `Python` `agent` `ai` `aigc` `gemini` `llm`
 
-⭐ 9.0k • 🔱 9.5k • 16h ago
+⭐ 9.0k • 🔱 9.5k • 17h ago
 
 ---
 
@@ -697,7 +697,7 @@ The Ultimate Collection of 600+ Agentic Skills for Claude Code/Antigravity/Curso
 
 `Python` `agentic-skills` `ai-agents` `antigravity` `autonomous-coding` `claude-code`
 
-⭐ 6.5k • 🔱 1.4k • 7m ago
+⭐ 6.5k • 🔱 1.4k • 56m ago
 
 ---
 

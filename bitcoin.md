@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-02-03T06:54:08.188628+00:00'
+updated: '2026-02-03T07:43:12.770102+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- videos
 - cryptocurrency
-- news
+- videos
 - social
+- news
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** February 03, 2026 at 06:54 UTC  
+**Last Updated:** February 03, 2026 at 07:43 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -79,7 +79,7 @@ Rank #1
 
 **[You’re not going to become wealthy through trading or diversification -- Bitcoin OG and ex-Google Vijay Boyapati](https://www.reddit.com/r/Bitcoin/comments/1qu6izm/youre_not_going_to_become_wealthy_through_trading/)**
 
-10h ago
+11h ago
 
 ---
 
@@ -87,13 +87,13 @@ Rank #1
 
 Some random at Bloomberg say it's going to 10k lol If that happens then I get a full coin or two https://www.dlnews.com/articles/markets/bitcoin-price-to-10000-as-markets-barrel-towards-crash/
 
-11h ago
+12h ago
 
 ---
 
 **[From laser eyes to serving fries](https://www.reddit.com/r/Bitcoin/comments/1qu2p0l/from_laser_eyes_to_serving_fries/)**
 
-12h ago
+13h ago
 
 ---
 
@@ -101,7 +101,7 @@ Some random at Bloomberg say it's going to 10k lol If that happens then I get a 
 
 Have been in a DCA program for around 3 years and with the dip I was finally able to get to 2. Was not projected to be there until late this year. Bitcoin is on sale! Go get yours (Yes, I know to not answer any DMs, this is not my first rodeo)
 
-15h ago
+16h ago
 
 ---
 
@@ -109,7 +109,7 @@ Have been in a DCA program for around 3 years and with the dip I was finally abl
 
 I just bought 0.83 BTC to get my third coin. I am so thrilled
 
-19h ago
+20h ago
 
 ---
 
@@ -117,13 +117,13 @@ I just bought 0.83 BTC to get my third coin. I am so thrilled
 
 The way I see it is now is pretty good time to start a dca for the next 4 years, so here goes nothing. To start I'm only gonna do like $150 a month.. cheers boys and gals
 
-9h ago
+10h ago
 
 ---
 
 **[Thank you Cramer for the local bottom](https://www.reddit.com/r/Bitcoin/comments/1qtzryb/thank_you_cramer_for_the_local_bottom/)**
 
-14h ago
+15h ago
 
 ---
 
@@ -131,7 +131,7 @@ The way I see it is now is pretty good time to start a dca for the next 4 years,
 
 Please utilize this sticky thread for all general Bitcoin discussions! If you see posts on the front page or /r/Bitcoin/new which are better suited for this daily discussion thread, please help out by directing the OP to this thread instead. Thank you! If you don't get an answer to your question, you can try phrasing it differently or commenting again tomorrow. Please check the previous discussion thread for unanswered questions.
 
-50m ago
+1h ago
 
 ---
 
@@ -147,7 +147,7 @@ It's because I bought some
 
 Dear diary, I'm taking a hiatus from thinking about BTC for a while. The internet doesn't feel right at the moment. I'm tired of being pulled in every direction. Everyone is trying to tell me what to think. I think any amount of contact with any of these spaces is just mentally exhausting me. I didn't join the movement for everyone to tell me what to think. I'm sure most of the things I see aren't even real. Gonna block a lot of BTC related stuff from my internet feeds. Need to focus my energy on more important things. Took up drawing recently. I've spent 15 hours on this piece of art so far. Feels like a better use of time. ta ta.
 
-12h ago
+13h ago
 
 ---
 
@@ -167,7 +167,7 @@ CNBC • 20h ago
 
 The move concentrates crypto exposure across Musk’s businesses, with energy company Tesla’s among the top public holders of the asset.
 
-CoinDesk • 1h ago
+CoinDesk • 2h ago
 
 ---
 
@@ -175,7 +175,7 @@ CoinDesk • 1h ago
 
 Wall Street traders are grappling with sharp swings in precious metals, bitcoin is hovering at its lowest level since April and there are lingering nerves about technology stocks.
 
-CNN • 15h ago
+CNN • 16h ago
 
 ---
 
@@ -183,13 +183,13 @@ CNN • 15h ago
 
 For a broadly positive start to a year, though, there are a striking number of caveats, extremes and oddities for skeptics to invoke.
 
-CNBC • 17h ago
+CNBC • 18h ago
 
 ---
 
 **[Bitcoin Selloff Knocks Strategy Stock](https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-02-02-2026/card/bitcoin-selloff-knocks-strategy-stock-NAipQNt3hkAEydQO4uFj?gaa_at=eafs&gaa_n=AWEtsqeI1vJr-A3xBCkRiCKtw_ZRkQzQraWLYDCdo1xTeIqNgeLZqxljaMGc&gaa_ts=69819ef4&gaa_sig=7_2PEyo_g1WSVmp4TM9V02cjeU4Ap0dJxcskiKXabbciiivCq_Bm5y7n_kvGxr9n2E8nsCZ6mZX1q6FzxDDGHQ%3D%3D)**
 
-The Wall Street Journal • 23h ago
+The Wall Street Journal • 1d ago
 
 ---
 
@@ -197,19 +197,19 @@ The Wall Street Journal • 23h ago
 
 The U.S. government has finalized the forfeiture of over $400 million in cryptocurrency, cash, and property linked to Helix, a major darknet bitcoin mixer, following the conviction of its operator, Larry Dean Harmon.
 
-Bitcoin Magazine • 9h ago
+Bitcoin Magazine • 10h ago
 
 ---
 
 **[Why Gold Still May Hit $6,000; Bitcoin Tests Trump 2.0 Low](https://www.investors.com/news/gold-price-still-may-hit-6000-deutsche-bank-bitcoin-tests-trump-second-term-low/)**
 
-Investor's Business Daily • 15h ago
+Investor's Business Daily • 16h ago
 
 ---
 
 **[Michael Saylor’s High-Stakes Bitcoin Bet Faces Fresh Strain](https://www.bloomberg.com/news/articles/2026-02-02/michael-saylor-s-high-stakes-bitcoin-bet-faces-fresh-strain)**
 
-Bloomberg • 15h ago
+Bloomberg • 16h ago
 
 ---
 
@@ -225,7 +225,7 @@ CoinDesk • 2d ago
 
 Bitcoin fell as low as about $74,500 early Monday, dipping below Strategy's average purchase price of $76,052 per token.
 
-CNBC • 15h ago
+CNBC • 16h ago
 
 ---
 
@@ -287,7 +287,7 @@ Bitcoin plunged to a two-month low Thursday as risk-on assets broadly fell—and
 
 On-chain data revealed that a wallet linked to the token's deployer removed $2.5 million in liquidity, prompting accusations of a possible rug pull.
 
-⬆️ 7 • 💬 12 • 10h ago • [coindesk.com](https://www.coindesk.com/markets/2026/01/13/former-bitcoin-mayor-eric-adams-faces-usd3-million-rugpull-allegation-after-issuing-nyc-coin)
+⬆️ 7 • 💬 12 • 11h ago • [coindesk.com](https://www.coindesk.com/markets/2026/01/13/former-bitcoin-mayor-eric-adams-faces-usd3-million-rugpull-allegation-after-issuing-nyc-coin)
 
 ---
 
@@ -319,7 +319,7 @@ Tom Lee, Fundstrat Global Advisors head of research and Fundstrat Capital CIO, j
 
 📺 CNBC Television
 
-👁️ 65K • 👍 718 • 💬 607 • ⏱️ 5:40 • 14h ago
+👁️ 65K • 👍 718 • 💬 607 • ⏱️ 5:40 • 15h ago
 
 ---
 
@@ -329,7 +329,7 @@ In this solo episode, Anthony Pompliano explores a key question facing investors
 
 📺 Anthony Pompliano
 
-👁️ 37K • 👍 1K • 💬 75 • ⏱️ 22:42 • 8h ago
+👁️ 37K • 👍 1K • 💬 75 • ⏱️ 22:42 • 9h ago
 
 ---
 
@@ -339,7 +339,7 @@ LIMITED TIME: ✓ Bitunix (no kyc, $10k bonus): https://www.bitunix.com/register
 
 📺 Altcoin Daily
 
-👁️ 41K • 👍 2K • 💬 178 • ⏱️ 10:56 • 7h ago
+👁️ 41K • 👍 2K • 💬 178 • ⏱️ 10:56 • 8h ago
 
 ---
 
@@ -349,7 +349,7 @@ After Donald Trump's new Federal Reserve chair sent shockwaves through markets a
 
 📺 EllioTrades
 
-👁️ 10K • 👍 1K • 💬 187 • ⏱️ 51:26 • 8h ago
+👁️ 10K • 👍 1K • 💬 187 • ⏱️ 51:26 • 9h ago
 
 ---
 
@@ -359,7 +359,7 @@ Let's talk about Bitcoin and the beauty of mathematics! Into The Cryptoverse Pre
 
 📺 Benjamin Cowen
 
-👁️ 7K • 👍 792 • 💬 54 • ⏱️ 6:11 • 2h ago
+👁️ 7K • 👍 792 • 💬 54 • ⏱️ 6:11 • 3h ago
 
 ---
 
@@ -369,7 +369,7 @@ CHECK OUT MY LINKTREE FOR EXCHANGES I USE, BONUSES, FREE VIDEOS, AND MORE! https
 
 📺 My Financial Friend
 
-👁️ 17K • 👍 644 • 💬 256 • ⏱️ 16:29 • 14h ago
+👁️ 17K • 👍 644 • 💬 256 • ⏱️ 16:29 • 15h ago
 
 ---
 
@@ -409,7 +409,7 @@ WEEX: https://cryptokid.io/WEEX-Bonus UP TO $30000 ❎ LeveX: https://levex.com/
 
 📺 Crypto Kid
 
-👁️ 6K • 👍 506 • 💬 172 • ⏱️ 8:52 • 8h ago
+👁️ 6K • 👍 506 • 💬 172 • ⏱️ 8:52 • 9h ago
 
 ---
 

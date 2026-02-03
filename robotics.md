@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-02-03T06:54:08.197811+00:00'
+updated: '2026-02-03T07:43:12.779315+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
 - videos
-- news
 - social
+- news
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** February 03, 2026 at 06:54 UTC  
+**Last Updated:** February 03, 2026 at 07:43 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -36,7 +36,7 @@ Robotics research and industry news
 
 From RoboHub🤖 on 𝕏 (longer video/ads): https://x.com/XRoboHub/status/2017926788144579060
 
-20h ago
+21h ago
 
 ---
 
@@ -44,7 +44,7 @@ From RoboHub🤖 on 𝕏 (longer video/ads): https://x.com/XRoboHub/status/20179
 
 Hey everyone, A little while ago I posted a video of my Animatronic Head The response was way more positive than I expected, and honestly, I had a blast building it. So… I decided to keep going :D I’m now expanding the project into a complete torso. So far I’ve: Built a torso using PVC pipes combined with PLA parts Started working on the arms (still a work in progress) I’d love to hear any suggestions, ideas, or improvements you think could make this build even better, whether mechanical, electronic, or software-related. I’m also experimenting with a new feature that I think is pretty cool. Once I get it working reliably, I’ll post an update here. If you’re interested, I’ve published the model files (currently .3mf only) on GitHub: https://github.com/koenll23/gyro (files may be outdated and/or unoptimized, they just work. use at your own risk) Thanks for all the feedback so far, it’s been a huge motivation to keep going!
 
-8h ago
+9h ago
 
 ---
 
@@ -58,7 +58,7 @@ Hey everyone, A little while ago I posted a video of my Animatronic Head The res
 
 Does it make sense to collect Egocentric Human Data using an iPhone when the camera FPS is variable and is even below 30?
 
-4h ago
+5h ago
 
 ---
 
@@ -74,7 +74,7 @@ Hi everyone I am currently in Grade 11 and taking a tech design course. My teach
 
 I'm new to motoman robots and am running into an issue where I can't change the max disturbance value even though I'm in management mode. The cursor just jumps over the value. I'm trying to change this because the robot is constantly throwing an "invalid shock detection" whenever I try to move the manipulator. I tried searching through the documentation and can't find why it's doing this.
 
-9h ago
+10h ago
 
 ---
 
@@ -90,7 +90,7 @@ From DEEP Robotics on 𝕏: https://x.com/DeepRobotics_CN/status/201711442936065
 
 Im a mechatronics student with some experience in solidworks and ROS2 Does anybody know where somewhere with my skill set could apply, any research labs or universities or even companies that hire 2nd years?
 
-20h ago
+21h ago
 
 ---
 
@@ -126,7 +126,7 @@ EdSource • 1d ago
 
 Carbon Robotics' Large Plant Model will allow farmers to kill new types of weeds without having to retrain the machines.
 
-TechCrunch • 15h ago
+TechCrunch • 16h ago
 
 ---
 
@@ -150,7 +150,7 @@ New Hampshire Public Radio • 1d ago
 
 BURNHAM — The Juniata Valley YMCA pool in Burnham looked less like a swimming facility and more like a testing ground for young engineers as Mifflin County High School held its annual Underwater Robotics Competition recently. Now in its 10th year, the event brought student-built machines from the Lewistown school to life beneath the surface, […]
 
-lewistownsentinel.com • 37m ago
+lewistownsentinel.com • 1h ago
 
 ---
 
@@ -158,7 +158,7 @@ lewistownsentinel.com • 37m ago
 
 The job apocalypse is coming for all collars.
 
-Axios • 14h ago
+Axios • 15h ago
 
 ---
 
@@ -174,7 +174,7 @@ CNBC • 1d ago
 
 SSE Steel Fabrication owner Mindy Núñez Airhart on growing a second-generation steel business in St. Bernard Parish — from post-Katrina rebuilding to robotics, AI and humanoid welding technology shaping the industry’s future.
 
-NOLA.com • 20h ago
+NOLA.com • 21h ago
 
 ---
 
@@ -190,7 +190,7 @@ The Robot Report • 2d ago
 
 Westwood Robotics unveils Themis Gen 2.5, a humanoid that can grasp objects while walking, redefining real-world mobile manipulation.
 
-Interesting Engineering • 19h ago
+Interesting Engineering • 20h ago
 
 ---
 
@@ -254,7 +254,7 @@ The Shanghai-based robotics startup MirrorMe Technology claims its new bipedal r
 
 📺 Kalil 4.0
 
-👁️ 3K • 👍 143 • 💬 8 • ⏱️ 0:36 • 13h ago
+👁️ 3K • 👍 143 • 💬 8 • ⏱️ 0:36 • 14h ago
 
 ---
 
@@ -262,7 +262,7 @@ The Shanghai-based robotics startup MirrorMe Technology claims its new bipedal r
 
 📺 BBC News
 
-👁️ 9K • 👍 107 • 💬 29 • ⏱️ 0:50 • 12h ago
+👁️ 9K • 👍 107 • 💬 29 • ⏱️ 0:50 • 13h ago
 
 ---
 
