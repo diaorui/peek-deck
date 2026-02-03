@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-02-03T17:29:18.021483+00:00'
+updated: '2026-02-03T18:30:07.372135+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
 - social
 - videos
-- cryptocurrency
 - news
+- cryptocurrency
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** February 03, 2026 at 17:29 UTC  
+**Last Updated:** February 03, 2026 at 18:30 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,17 +38,17 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $76,500.00
+### $74,086.34
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** -3.5%  
-**7d:** -15.0%  
-**30d:** -19.4%  
-**90d:** -25.2%  
-**1y:** -22.4%  
+**24h:** -5.3%  
+**7d:** -16.9%  
+**30d:** -21.2%  
+**90d:** -26.9%  
+**1y:** -24.1%  
 
 ---
 
@@ -77,9 +77,17 @@ Rank #1
 
 ## Reddit: r/Bitcoin
 
+**[For those of us that bought at ATH only, what are your thoughts during this dip?](https://www.reddit.com/r/Bitcoin/comments/1qumb98/for_those_of_us_that_bought_at_ath_only_what_are/)**
+
+I learned a lesson financially in that I just have to be patient. I'm -30% or so right now and it feels pretty bad sometimes at night when I think about it and can't sleep like right now. I honestly have no more spare cash to buy this dip without looking reckless in front of family. I can't panic sell but that means I have to tolerate a negative return for the foreseeable future. If I would have DCA for the last 52 weeks of the year I would have been much better prepared for this dip. All the answers I got on reddit were to buy whenever you can and not try to time the market. But in doing so I have no clear exit strategy now. I could sell as soon as we get back to the last ATH and just be done with trying to make a better future for myself. But if that takes years, then its years of agonizing wait that culminate in nothing but my money back. Don't know what to do to make myself feel better. Anyone else in a similar situation with some advice?
+
+10h ago
+
+---
+
 **[They're buying the dip](https://www.reddit.com/r/Bitcoin/comments/1qus9zl/theyre_buying_the_dip/)**
 
-3h ago
+4h ago
 
 ---
 
@@ -87,31 +95,15 @@ Rank #1
 
 Everyone talks about Bitcoin in terms of price: “Next ATH?” “Bull run when?” But the more time I spend learning about Bitcoin, the more I feel price is the least interesting part. Bitcoin makes you question things most of us never do: Why can money be printed infinitely? Why does inflation quietly punish savers? Why do we trust systems we can’t verify? Bitcoin doesn’t promise profits. It offers an alternative. Yes, it’s volatile. Yes, it’s risky. Yes, it’s still early and messy. But so was the internet. Some people buy Bitcoin to flip it. Some buy it as a hedge. Some just want an exit from a system that keeps changing the rules. Curious to know: Do you see Bitcoin as money, store of value, or just speculation? What made you take it seriously (or reject it)? Genuine discussion only — not here to shill or predict prices.
 
-5h ago
+6h ago
 
 ---
 
-**[For those of us that bought at ATH only, what are your thoughts during this dip?](https://www.reddit.com/r/Bitcoin/comments/1qumb98/for_those_of_us_that_bought_at_ath_only_what_are/)**
+**[Dang bitcoins falling again](https://www.reddit.com/r/Bitcoin/comments/1quz965/dang_bitcoins_falling_again/)**
 
-I learned a lesson financially in that I just have to be patient. I'm -30% or so right now and it feels pretty bad sometimes at night when I think about it and can't sleep like right now. I honestly have no more spare cash to buy this dip without looking reckless in front of family. I can't panic sell but that means I have to tolerate a negative return for the foreseeable future. If I would have DCA for the last 52 weeks of the year I would have been much better prepared for this dip. All the answers I got on reddit were to buy whenever you can and not try to time the market. But in doing so I have no clear exit strategy now. I could sell as soon as we get back to the last ATH and just be done with trying to make a better future for myself. But if that takes years, then its years of agonizing wait that culminate in nothing but my money back. Don't know what to do to make myself feel better. Anyone else in a similar situation with some advice?
+I bought btc at 118k, 114k, and 112k. its almost 20% of my whole portfolio , I cant dca much now because of the situation. I have extra but i dont want to increase it further since Im in fear what should i do? if your in my position what you will do? please dont be biased if you are a fan of btc. give me realistic plan and opinion
 
-9h ago
-
----
-
-**[JUST IN: 🇺🇸 SEC Chair Paul Atkins says “the time is right to allow” crypto into 401(k) retirement accounts.](https://www.reddit.com/r/Bitcoin/comments/1qumeby/just_in_sec_chair_paul_atkins_says_the_time_is/)**
-
-JUST IN: 🇺🇸 SEC Chair Paul Atkins says “the time is right to allow” crypto into 401(k) retirement accounts.
-
-🔗 [youtube.com](https://youtube.com/watch?v=nMIKY5Ct6lQ&si=rPNH8-4tGJQsGJN1) • 9h ago
-
----
-
-**[Regarding Bitcoin volatility and drawdown](https://www.reddit.com/r/Bitcoin/comments/1qupveh/regarding_bitcoin_volatility_and_drawdown/)**
-
-If Bitcoin used to be an asset with a vol. of 80 and drawdowns of -80% from its all-time high, If we know that for the last 2-3 years Bitcoin has had a vol. of 40, wouldn't it be normal to expect a drawdown of -40% from its all-time high? That's precisely the drop we've seen from 126k to 75k, a -40%
-
-5h ago
+25m ago
 
 ---
 
@@ -119,7 +111,23 @@ If Bitcoin used to be an asset with a vol. of 80 and drawdowns of -80% from its 
 
 I’ve been watching bitcoin since $5000 back in 2017, and bought only a $1000, but I lost it by trying to trading and fees. Then it crashed, shot up again and was afraid of it. Saw it hit that low $4000s and didn’t think it would come back. Could have paid off all my loans if I wasn’t afraid to invest. Very cautious persons Two years ago I bought again, and then last year. I’m only up by $2000, and the feeing of selling is there again. I will not succumb to it again. If it drops, I will buy more. But damn that fear is tough. Just hold and buy more 🫡
 
-1h ago
+3h ago
+
+---
+
+**[JUST IN: 🇺🇸 SEC Chair Paul Atkins says “the time is right to allow” crypto into 401(k) retirement accounts.](https://www.reddit.com/r/Bitcoin/comments/1qumeby/just_in_sec_chair_paul_atkins_says_the_time_is/)**
+
+JUST IN: 🇺🇸 SEC Chair Paul Atkins says “the time is right to allow” crypto into 401(k) retirement accounts.
+
+🔗 [youtube.com](https://youtube.com/watch?v=nMIKY5Ct6lQ&si=rPNH8-4tGJQsGJN1) • 10h ago
+
+---
+
+**[Regarding Bitcoin volatility and drawdown](https://www.reddit.com/r/Bitcoin/comments/1qupveh/regarding_bitcoin_volatility_and_drawdown/)**
+
+If Bitcoin used to be an asset with a vol. of 80 and drawdowns of -80% from its all-time high, If we know that for the last 2-3 years Bitcoin has had a vol. of 40, wouldn't it be normal to expect a drawdown of -40% from its all-time high? That's precisely the drop we've seen from 126k to 75k, a -40%
+
+6h ago
 
 ---
 
@@ -127,7 +135,7 @@ I’ve been watching bitcoin since $5000 back in 2017, and bought only a $1000, 
 
 Why sell BTC when you can hold it in self custody using a hardware wallet (cold storage), or put it to work safely? Selling Bitcoin at this point doesn’t make sense to me. If you have spare cash, buying more looks like the better move.
 
-4h ago
+5h ago
 
 ---
 
@@ -135,21 +143,13 @@ Why sell BTC when you can hold it in self custody using a hardware wallet (cold 
 
 Some random at Bloomberg say it's going to 10k lol If that happens then I get a full coin or two https://www.dlnews.com/articles/markets/bitcoin-price-to-10000-as-markets-barrel-towards-crash/
 
-22h ago
+23h ago
 
 ---
 
 **[From laser eyes to serving fries](https://www.reddit.com/r/Bitcoin/comments/1qu2p0l/from_laser_eyes_to_serving_fries/)**
 
-23h ago
-
----
-
-**[How do you usually approach Bitcoin after sharp pullbacks?](https://www.reddit.com/r/Bitcoin/comments/1qurrj9/how_do_you_usually_approach_bitcoin_after_sharp/)**
-
-After a sharp move down, I notice people tend to split into two camps: some see it as an opportunity, others prefer to wait and see if volatility continues. Rather than focusing on short term price predictions, I’m curious about process. In past pullbacks, what factors have you personally found most useful for deciding whether to stay patient or start paying closer attention again? Do you look at things like broader market conditions, on-chain data, sentiment, or do you mostly ignore short-term moves altogether?
-
-4h ago
+1d ago
 
 ---
 
@@ -165,17 +165,11 @@ CNBC • 1d ago
 
 ---
 
-**[Bernstein analyst says bitcoin could bottom out at $60,000, but expects its “most consequential cycle” after that](https://sherwood.news/crypto/bernstein-analyst-says-bitcoin-could-bottom-out-at-usd60-000-but-expects-its/)**
+**[One of the Dumbest Schemes on Wall Street Might Finally Be Falling Apart](https://slate.com/technology/2026/02/bitcoin-crypto-treasury-wall-street-microstrategy.html)**
 
-“This is not a ‘bull market correction’ or ‘a dip.’ It is a full-bore, 2022-like, Leonardo-DiCaprio-in-The-Revenant-style crypto winter,” Bitwise...
+Crypto treasury companies quietly crept into index funds and retirement accounts. This collapse is good news for all of us.
 
-Sherwood News • 2h ago
-
----
-
-**[Michael Saylor’s High-Stakes Bitcoin Bet Faces Fresh Strain](https://www.bloomberg.com/news/articles/2026-02-02/michael-saylor-s-high-stakes-bitcoin-bet-faces-fresh-strain)**
-
-Bloomberg • 1d ago
+Slate • 1h ago
 
 ---
 
@@ -187,11 +181,27 @@ CNBC • 1d ago
 
 ---
 
-**[One of the Dumbest Schemes on Wall Street Might Finally Be Falling Apart](https://slate.com/technology/2026/02/bitcoin-crypto-treasury-wall-street-microstrategy.html)**
+**[Why Michael Saylor Still Says Buy Bitcoin and Hold?](https://finance.yahoo.com/news/why-michael-saylor-still-says-165353001.html)**
 
-Crypto treasury companies quietly crept into index funds and retirement accounts. This collapse is good news for all of us.
+Michael Saylor backs continued Bitcoin buying during recent price declines. The move reflects a clear stance on long-term value rather than short-term price action. The company’s approach demonstrates discipline amid volatility and highlights a strategy built on accumulation rather than market timing. Michael Saylor Reaffirms Bitcoin Buy-and-Hold Strategy Michael Saylor reaffirmed his commitment to keep
 
-Slate • 15m ago
+Yahoo Finance • 1h ago
+
+---
+
+**[Bitcoin price news: BTC is falling again while gold and silver bull markets resume](https://www.coindesk.com/markets/2026/02/03/bitcoin-bounce-fails-with-price-falling-back-below-usd77-000-while-precious-metals-renew-surge)**
+
+Silver is higher by nearly 15% on Tuesday, while gold is nearing $5,000 per ounce after a 6.5% gain.
+
+CoinDesk • 2h ago
+
+---
+
+**[Prediction: Bitcoin Will Hit $100,000 in 2026](https://www.fool.com/investing/2026/02/03/prediction-bitcoin-will-hit-100000-in-2026/)**
+
+Bitcoin is already down double digits this year.
+
+The Motley Fool • 58m ago
 
 ---
 
@@ -199,37 +209,27 @@ Slate • 15m ago
 
 In the worst case scenario, crypto miners could go bankrupt and the metals market could plummet if bitcoin keeps falling, Michael Burry said.
 
-Business Insider • 1h ago
-
----
-
-**[Gold Is Skyrocketing, While Bitcoin Is Down 33%. Should Investors of the Leading Crypto Be Worried?](https://www.fool.com/investing/2026/02/03/gold-skyrocketing-bitcoin-down-investor-worry/)**
-
-The performance divergence of these two unique assets is on full display.
-
-The Motley Fool • 4h ago
-
----
-
-**[Gold prices, bitcoin slide lower: What's driving these sell-offs](https://finance.yahoo.com/video/gold-prices-bitcoin-slide-lower-223000043.html)**
-
-Both bitcoin (BTC-USD) and gold prices (GC=F) continue to slide from their record highs: bitcoin falling to a 10-month low and currently hovering above $78,000 per token, gold dips $4,700 per ounce as the metals sell-off extends. Bitwise Head of Research Ryan Rasmussen takes a look at the price dynamics fueling these price trends and driving these sell-offs for commodities and crypto assets. Bitwise operates several of its own bitcoin (BITB, BITC, BTOP) and crypto (BITQ, BITW) exchange-traded funds (ETFs). Also catch Ryan Rasmussen share his outlook on bitcoin as it navigates a bear market. To watch more expert insights and analysis on the latest market action, check out more&nbsp;Market Domination.
-
-Yahoo Finance • 18h ago
+Business Insider • 2h ago
 
 ---
 
 **[Even In Warsh’s World, Bitcoin Will Be Dumped for Gold](https://www.bloomberg.com/opinion/articles/2026-02-02/even-in-warsh-s-world-bitcoin-will-be-dumped-for-gold)**
 
-Bloomberg • 22h ago
+Bloomberg • 23h ago
 
 ---
 
-**[ING opens retail access to Bitcoin, Ethereum, Solana ETPs in Germany](https://www.theblock.co/post/388120/ing-bitcoin-ethereum-solana-etps)**
+**[Bitcoin Selloff Knocks Strategy Stock](https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-02-02-2026/card/bitcoin-selloff-knocks-strategy-stock-NAipQNt3hkAEydQO4uFj?gaa_at=eafs&gaa_n=AWEtsqffHCQ2IJJ3cr-qE9KT2bTbrYOfDgSKFonzuxewAM5n0Bug8ylAkY39&gaa_ts=69824216&gaa_sig=00uQJ2PmOWrSQnVH4oX0AshJjkU7pLlvg4nk-abaFffx-zmJOoLpHPXokdlj4DOSItRCPFlfgQUjNHMP9J3ljw%3D%3D)**
 
-Still, ING Deutschland noted that crypto ETPs carry significant risks and stated that crypto has no intrinsic value.
+The Wall Street Journal • 1d ago
 
-The Block • 12h ago
+---
+
+**[Stock market today: Dow, S&P 500, Nasdaq whipsaw higher as gold, bitcoin see big swings amid earnings flood](https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-nasdaq-whipsaw-higher-as-gold-bitcoin-see-big-swings-amid-earnings-flood-002413129.html)**
+
+Wall Street is on edge after Friday's sharp reversal ahead of a week defined by Trump's Fed pick, jobs data and more Big Tech earnings.
+
+Yahoo Finance • 22h ago
 
 ---
 
@@ -247,7 +247,7 @@ The Block • 12h ago
 
 Cryptocurrency markets fell as global equities and precious metals sold off while bitcoin liquidations exacerbated downside moves.
 
-⬆️ 3 • 💬 0 • 2h ago • [CNBC](https://www.cnbc.com/2026/02/02/bitcoin-btc-price-today-cryptocurrency.html)
+⬆️ 3 • 💬 0 • 3h ago • [CNBC](https://www.cnbc.com/2026/02/02/bitcoin-btc-price-today-cryptocurrency.html)
 
 ---
 
@@ -299,7 +299,7 @@ Bitcoin plunged to a two-month low Thursday as risk-on assets broadly fell—and
 
 On-chain data revealed that a wallet linked to the token's deployer removed $2.5 million in liquidity, prompting accusations of a possible rug pull.
 
-⬆️ 11 • 💬 12 • 20h ago • [coindesk.com](https://www.coindesk.com/markets/2026/01/13/former-bitcoin-mayor-eric-adams-faces-usd3-million-rugpull-allegation-after-issuing-nyc-coin)
+⬆️ 12 • 💬 12 • 21h ago • [coindesk.com](https://www.coindesk.com/markets/2026/01/13/former-bitcoin-mayor-eric-adams-faces-usd3-million-rugpull-allegation-after-issuing-nyc-coin)
 
 ---
 
@@ -343,7 +343,7 @@ LeveX: https://levex.com/r/CryptoKid MEMBER UPDATES LIKE THIS TWEET FROM CHRIS .
 
 📺 Crypto Kid
 
-👁️ 4K • 👍 495 • 💬 142 • ⏱️ 5:08 • 4h ago
+👁️ 4K • 👍 495 • 💬 142 • ⏱️ 5:08 • 5h ago
 
 ---
 
@@ -353,7 +353,7 @@ Bitcoin what now.
 
 📺 MMCrypto
 
-👁️ 21K • 👍 3K • 💬 395 • ⏱️ 13:00 • 4h ago
+👁️ 21K • 👍 3K • 💬 395 • ⏱️ 13:00 • 5h ago
 
 ---
 
@@ -373,7 +373,7 @@ LIMITED TIME: ✓ Bitunix (no kyc, $10k bonus): https://www.bitunix.com/register
 
 📺 Altcoin Daily
 
-👁️ 75K • 👍 3K • 💬 619 • ⏱️ 10:56 • 18h ago
+👁️ 75K • 👍 3K • 💬 619 • ⏱️ 10:56 • 19h ago
 
 ---
 
@@ -393,7 +393,7 @@ Let's talk about Bitcoin and the beauty of mathematics! Into The Cryptoverse Pre
 
 📺 Benjamin Cowen
 
-👁️ 36K • 👍 2K • 💬 123 • ⏱️ 6:11 • 13h ago
+👁️ 36K • 👍 2K • 💬 123 • ⏱️ 6:11 • 14h ago
 
 ---
 
@@ -413,7 +413,7 @@ WEEX: https://www.weex.com/events/promo/usdtgiveaway-v2?vipCode=00dt 25% FEE DIS
 
 📺 Crypto Rover
 
-👁️ 8K • 👍 550 • 💬 357 • ⏱️ 11:51 • 9h ago
+👁️ 8K • 👍 550 • 💬 357 • ⏱️ 11:51 • 10h ago
 
 ---
 
