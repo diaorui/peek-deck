@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-02-03T02:13:08.834787+00:00'
+updated: '2026-02-03T04:26:51.562663+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- videos
-- news
 - cryptocurrency
 - social
+- videos
+- news
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** February 03, 2026 at 02:13 UTC  
+**Last Updated:** February 03, 2026 at 04:26 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -36,23 +36,23 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Price
 
-### $2,331.58
+### $2,341.92
 
 ---
 
 ## Ethereum Chart
 
-**24h:** +4.1%  
-**7d:** -22.6%  
-**30d:** -27.7%  
-**90d:** -29.7%  
-**1y:** -14.9%  
+**24h:** +6.3%  
+**7d:** -22.4%  
+**30d:** -27.5%  
+**90d:** -29.5%  
+**1y:** -14.6%  
 
 ---
 
 ## Ethereum Market Stats
 
-**Market Cap:** $282.44B
+**Market Cap:** $282.30B
 Rank #2
 
 **Circulating Supply:** 120,693,657 ETH
@@ -62,7 +62,7 @@ No max supply
 -52.8%
 
 **All-Time Low:** $0.43
-+539085.5%
++539406.5%
 
 ---
 
@@ -72,7 +72,7 @@ No max supply
 
 In June 2016, someone drained ~$60M from The DAO - a decentralized investment fund built on Ethereum. They didn't hack Ethereum itself. They exploited a recursive calling bug in the smart contract's own logic. The code allowed it. That's what made it a crisis. If "code is law," the attacker didn't do anything wrong. The contract ran as written. But $60M was gone and real people lost real money. Ethereum had to choose: reverse the blockchain to return the funds, or let it stand because the code permitted it. The community voted to hard fork - rewrite history and undo the damage. The people who refused to accept that kept running the original chain. That's how Ethereum Classic was born. The question at the center of it all: when your system is broken and the fix is known, do you break the rules to fix it, or do you let the rules play out even while the system burns? I'm watching a tiny version of this happen right now. I run OpenChaos - a GitHub repo where anyone submits a PR, the community votes with reactions, and the most-voted PR merges daily. No gatekeeping. Pure popular vote. 911 stars, 70+ open PRs, five weeks in. Last Friday, PR #62: "1.337% chance to see nothing" won the daily vote and merged. Three lines of code: if (Math.random() <= 0.01337) { return null; } A leet joke. 1.337% of the time, a visitor sees a blank page. Funny, harmless, right? The site caches server-side. When the page returns null, the cache treats the blank page as permanent. One unlucky render broke the site for every visitor, indefinitely. Not a 5-minute blip. A permanent outage from a 1.337% roll. A contributor diagnosed the root cause and submitted PR #173 - a clean fix, CI passes, no conflicts. But PR #173 has fewer votes than a DOOM port and a Rickroll. The fix has to wait its turn in the democratic queue. The site stays broken while the community votes on entertainment over infrastructure. One community member commented: "I am torn between fixing things quickly and letting the rules play out to see when the fix comes naturally. I want to see the naturally emergent behaviour." Sound familiar? Then it got more interesting. The contributor who wrote the fix also had another PR in the queue that was about to merge. He could have bundled the bugfix into that PR and shipped it quietly. He refused: "I considered adding this fix to #129, but it doesn't feel like it's in the spirit of the project. Even if it's a 'good' trojan horse, it's still a trojan horse." But another contributor made the opposite choice. The author of the DOOM port deliberately bundled the bugfix into their submission. If it merges tomorrow, the site comes back online - not through governance, but through the exact Trojan horse tactic the first contributor refused on principle. Two contributors. Same option. Opposite choices. Obviously nobody's losing $60M here. But the structure is the same: A system running as designed produces an unintended outcome The fix is known and ready The rules don't allow a fast path to deploy it The community has to decide: break the process or trust the process I opened Issue #176 proposing that only contributors with merged PRs should be allowed to vote - earned governance instead of open popularity contests. The debate is live. Questions I keep thinking about: Is there a middle ground between "code is law, let it burn" and "maintainer override"? Something that keeps democratic legitimacy while allowing fast response to emergencies? For those who lived through the DAO debate - looking back, what would you tell a small project facing its first "do we fork our own rules" moment? The repo: github.com/skridlevsky/openchaos The governance discussion: Issue #176 The broken site (may or may not be blank when you visit): openchaos.dev
 
-5h ago
+8h ago
 
 ---
 
@@ -80,13 +80,13 @@ In June 2016, someone drained ~$60M from The DAO - a decentralized investment fu
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-20h ago
+22h ago
 
 ---
 
 **[How a premature software standard has led to billions in losses](https://www.reddit.com/r/ethereum/comments/1qtw9fe/how_a_premature_software_standard_has_led_to/)**
 
-🔗 [hugo0.com](https://hugo0.com/blog/how-erc20-held-back-blockchain-payments-a-decade) • 11h ago
+🔗 [hugo0.com](https://hugo0.com/blog/how-erc20-held-back-blockchain-payments-a-decade) • 14h ago
 
 ---
 
@@ -94,7 +94,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 i’ve been working on a yield/token architecture that tries to be very explicit about separation of concerns, and i’m mostly looking for feedback from people who are already uncomfortable with how tightly coupled most defi tokens are today. the basic premise is simple: the token contract should not know or care about yield. no rebases, no transfer hooks, no strategy logic bleeding into balance accounting. instead, all yield is routed through a single on-chain component that handles normalization, accounting, and distribution according to policy. i ended up implementing this as a modular system with a canonical “revenue router”: the base token is just erc20 + voting, nothing else all yield sources plug into a router instead of the token yield gets normalized into a treasury asset before distribution distribution is policy-driven (buybacks, staking, hybrid), not hardcoded yield sources are plugins with tiered trust and execution limits failure isn’t implicit: plugins can be quarantined without nuking the system the goal isn’t yield maximization per se, but predictable value accrual with reduced blast radius. plugins can be permissionless, but they don’t all get the same authority. everything that touches value has explicit constraints. accounting is deterministic. no component can “surprise” the token. i wrote all of this up as a whitepaper (vastitas) and tried to be very concrete about invariants, routing rules, quarantine mechanics, and trade-offs, including some simulated comparisons against monolithic tokens and yield aggregators i’m not trying to sell this as obviously correct. i’m more interested in whether this direction resonates with people who think long-term token sustainability is more about architecture than clever incentives. i made a faulty deployment on arbitrum and a half working one on base. nothing is finalized. i’m mainly looking to pressure-test the ideas with people who agree that this might be a good project. feel free to poke holes, challenge assumptions, or point me to similar work i might have missed.
 
-2h ago
+4h ago
 
 ---
 
@@ -102,7 +102,7 @@ i’ve been working on a yield/token architecture that tries to be very explicit
 
 Should I be staking 100% of my Ethereum? Can someone explain to me like im 5 what this means? Apologies if this type of post is not allowed, moderators.
 
-9h ago
+11h ago
 
 ---
 
@@ -110,19 +110,19 @@ Should I be staking 100% of my Ethereum? Can someone explain to me like im 5 wha
 
 Re https://firefly.social/post/x/2018205196568944653 I actually don't think it's complicated. IMO the future of onchain mechanism design is mostly going to fit into one pattern: [something that looks like a prediction market] -> [something that looks like a capture-resistant, non-financialized preference-setting gadget] In other words: One layer that is maximally open and maximizes accountability (it's a market, anyone can buy and sell, if you make good decisions you win money if you make bad decisions you lose money) One layer that is decentralized and pluralistic, and that maximizes space for intrinsic motivation. This cannot be token-based, because token owners are not pluralistic, and anyone can buy in and get 51% of them. Votes here should be anonymous, ideally MACI'd to reduce risk of collusion. The prediction market is the correct way to do a "decentralized executive", because the most logical primitive for "accountability" in a permissionless concept is exactly that. Though sometimes you will want to keep it simple, and do a centralized executive at that layer instead: [replaceable centralized executive] -> [something that looks like a capture-resistant, non-financialized preference-setting gadget] Thinking in these two layers explicitly: (i) what is doing your execution, (ii) what is doing your preference-setting and is judging the executor(s), is best.
 
-19h ago
+22h ago
 
 ---
 
 **[Sold BTC into USDC (ERC20) now want to get back into BTC via WBTC. Best way to swap?](https://www.reddit.com/r/ethereum/comments/1qtmbfd/sold_btc_into_usdc_erc20_now_want_to_get_back/)**
 
-20h ago
+23h ago
 
 ---
 
 **[Where can I sell an unused gift card for crypto?](https://www.reddit.com/r/ethereum/comments/1qtu5js/where_can_i_sell_an_unused_gift_card_for_crypto/)**
 
-13h ago
+15h ago
 
 ---
 
@@ -150,15 +150,23 @@ We've seen about 10 years of people trying to do content incentivization in cryp
 
 Publicly traded Ethereum treasury BitMine Immersion Technologies is still buying as ETH plunges, despite the firm's growing losses.
 
-Yahoo Finance • 9h ago
+Yahoo Finance • 12h ago
 
 ---
 
-**[Ethereum (ETH) news: ‘We need to prepare’ for quantum computing](https://www.coindesk.com/tech/2026/02/01/quantum-threat-gets-real-ethereum-foundation-prioritizes-security-with-leanvm-and-pq-signatures)**
+**[Here is why Ethereum's ‘brutal stumble’ looks exactly like the start of the last bull run: Asia Morning Briefing](https://www.coindesk.com/markets/2026/02/03/here-is-why-ethereum-s-brutal-stumble-looks-exactly-like-the-start-of-the-last-bull-run-asia-morning-briefing)**
 
-Earlier in January, the Ethereum Foundation formally elevated post-quantum security to a strategic priority, creating a dedicated Post-Quantum team.
+Crypto could be getting ready to gallop as the year of the horse sets up a fresh run higher across ETH, BTC, and other digital assets.
 
-CoinDesk • 1d ago
+CoinDesk • 1h ago
+
+---
+
+**[Prediction: 2026 Will Be the Year of Ethereum (ETH)](https://finance.yahoo.com/news/prediction-2026-ethereum-eth-142300297.html)**
+
+The adoption, technology, and regulation stars may all align for Ethereum this year.
+
+Yahoo Finance • 14h ago
 
 ---
 
@@ -166,15 +174,15 @@ CoinDesk • 1d ago
 
 Tom Lee faces criticism after Ethereum's price fell below $2,200, missing his $7,000 target, as traders question his crypto forecasts.
 
-CCN.com • 10h ago
+CCN.com • 12h ago
 
 ---
 
-**[A sudden shift in Ethereum staking is draining billions from exchanges toward a new corporate elite](https://cryptoslate.com/how-staking-turned-ethereum-into-a-treasury-trade/)**
+**[Ethereum Price $2,200 Collapse Raises Risk Of A Sub-$2K Spike](https://www.tradingview.com/news/newsbtc:7ac8323ae094b:0-ethereum-price-2-200-collapse-raises-risk-of-a-sub-2k-spike/)**
 
-Corporate Ethereum treasuries use staking to earn additional ETH, turning reserves into a compounding strategy instead of passive exposure.
+Ethereum price started a major decline after it failed to clear $2,500. ETH is down 20% and is now struggling to stay above the $2,200 support.Ethereum Price Dips 20%Ethereum price failed to remain stable above $2,550 and started a major decline, like Bitcoin. ETH price traded below $2,400 to enter…
 
-CryptoSlate • 1d ago
+TradingView • 1d ago
 
 ---
 
@@ -186,11 +194,11 @@ thedefiant.io • 3d ago
 
 ---
 
-**[Ethereum vs Bitcoin: Jack Yi Admits ETH Bull Call Came Too Soon](https://stocktwits.com/news-articles/markets/cryptocurrency/ethereum-bull-jack-yi-says-early-eth-bullish-bet-was-mistimed-and-a-mistake/cZbgN2PR4kB)**
+**[A sudden shift in Ethereum staking is draining billions from exchanges toward a new corporate elite](https://cryptoslate.com/how-staking-turned-ethereum-into-a-treasury-trade/)**
 
-The shift came amid heavy liquidations and market trends favoring Bitcoin under macro pressure.
+Corporate Ethereum treasuries use staking to earn additional ETH, turning reserves into a compounding strategy instead of passive exposure.
 
-Stocktwits • 15h ago
+CryptoSlate • 1d ago
 
 ---
 
@@ -198,31 +206,23 @@ Stocktwits • 15h ago
 
 Ether may be hurting, but the founder is thinking years ahead.
 
-AMBCrypto • 3h ago
+AMBCrypto • 5h ago
 
 ---
 
-**[Why are Bitcoin, Ethereum and XRP Prices Crashing Today?](https://www.tradingview.com/news/coinpedia:b99ef7f8a094b:0-why-are-bitcoin-ethereum-and-xrp-prices-crashing-today/)**
+**[Ethereum vs Bitcoin: Jack Yi Admits ETH Bull Call Came Too Soon](https://stocktwits.com/news-articles/markets/cryptocurrency/ethereum-bull-jack-yi-says-early-eth-bullish-bet-was-mistimed-and-a-mistake/cZbgN2PR4kB)**
 
-The crypto market is facing a major sell-off today, with total market value dropping to $2.66 trillion, down more than 6% in the last 24 hours. Bitcoin, Ethereum, XRP and other major cryptocurrencies have all fallen sharply, wiping out nearly $500 billion from the market in just a few days.The bigg…
+The shift came amid heavy liquidations and market trends favoring Bitcoin under macro pressure.
 
-TradingView • 1d ago
+Stocktwits • 17h ago
 
 ---
 
-**[Crypto Crash: Liquidations Top $2.5 Billion as Bitcoin, Ethereum and XRP Prices Plummet](https://finance.yahoo.com/news/crypto-crash-liquidations-top-2-203516968.html)**
+**[Crypto Crash: Liquidations Top $2.5 Billion as Bitcoin, Ethereum and XRP Prices Plummet](https://decrypt.co/356557/crypto-crash-liquidations-2-5-billion-bitcoin-ethereum-xrp-plummet)**
 
 The crypto market's recent decline only accelerated Saturday, with Bitcoin falling to nearly $77,000 as liquidations piled up.
 
-Yahoo Finance • 2d ago
-
----
-
-**[Crypto Rebound: How High Can Bitcoin, Ethereum and XRP Prices Go Next?](https://coinpedia.org/news/crypto-rebound-how-high-can-bitcoin-ethereum-and-xrp-prices-go-next/)**
-
-The crypto market has turned green over the last 24 hours, offering some relief after a sharp sell-off earlier this week. Total market value has climbed
-
-Coinpedia Fintech News • 8h ago
+Decrypt • 2d ago
 
 ---
 
@@ -236,17 +236,17 @@ Tom Lee Just Said The UNTHINKABLE About Bitcoin & Ethereum! ["It's a Fake Crash"
 
 📺 Crypto Nutshell
 
-👁️ 8K • 👍 346 • 💬 49 • ⏱️ 18:04 • 10h ago
+👁️ 9K • 👍 375 • 💬 50 • ⏱️ 18:04 • 13h ago
 
 ---
 
-**[Ethereum Elliott Wave Update – Key Resistance Levels Ahead](https://www.youtube.com/watch?v=zCCN5NIzpqk)**
+**[🚨 Tom Lee: &quot;Bitcoin Won&#39;t SURVIVE 20 Years - Ethereum Takes Over SOON!&quot;](https://www.youtube.com/watch?v=PzhNsuwEyDw)**
 
-This video provides a professional Elliott Wave and technical analysis of Ethereum (ETH), focusing on market structure, major ...
+Tom Lee: "Bitcoin Won't SURVIVE 20 Years - Ethereum Takes Over SOON!" SHOCKING confession from Wall Street's Bitcoin bull ...
 
-📺 More Crypto Online
+📺 Market Crash Alerts
 
-👁️ 893 • 👍 110 • 💬 9 • ⏱️ 5:14 • 2h ago
+👁️ 1K • 👍 16 • 💬 6 • ⏱️ 13:03 • 15h ago
 
 ---
 
@@ -256,17 +256,17 @@ BITCOIN CRASH JUST FLIPPED (Trading Strategy Revealed)!!! - Bitcoin News Today, 
 
 📺 Crypto World
 
-👁️ 5K • 👍 255 • 💬 75 • ⏱️ 23:54 • 4h ago
+👁️ 6K • 👍 293 • 💬 138 • ⏱️ 23:54 • 6h ago
 
 ---
 
-**[Ethereum Elliott Wave Update – Key Resistance Levels Ahead](https://www.youtube.com/watch?v=fEyNvRFi_OA)**
+**[Ethereum Elliott Wave Update – Key Resistance Levels Ahead](https://www.youtube.com/watch?v=zCCN5NIzpqk)**
 
 This video provides a professional Elliott Wave and technical analysis of Ethereum (ETH), focusing on market structure, major ...
 
 📺 More Crypto Online
 
-👁️ 3K • 👍 218 • 💬 6 • ⏱️ 4:10 • 13h ago
+👁️ 1K • 👍 134 • 💬 11 • ⏱️ 5:14 • 5h ago
 
 ---
 
@@ -276,27 +276,7 @@ Free Milk Road Newsletters: ...
 
 📺 Milk Road
 
-👁️ 13K • 👍 336 • 💬 31 • ⏱️ 15:51 • 1d ago
-
----
-
-**[Tom Lee Drops HUGE Warning About 2026 | The Bull Run Has CHANGED](https://www.youtube.com/watch?v=3dh-JR2mdzA)**
-
-FREE Daily On-Chain Analysis & Crypto News In 5-Mins: http://bit.ly/TheCryptoNutshell Watch The FULL Interview: "Tom ...
-
-📺 Library Of Wealth
-
-👁️ 7K • 👍 157 • 💬 202 • ⏱️ 15:18 • 20h ago
-
----
-
-**[BITCOIN AND ETH: LAST CHANCE TO RECOVER!!!! 🚨🚨🚨 (MicroStrategy REKT)](https://www.youtube.com/watch?v=bLiHfECZH3k)**
-
-FREE TRAINING: https://www.bullmania.com EXCHANGES I USE (bybit, pionex): https://www.bullmania.com/partners My ...
-
-📺 Ivan on Tech
-
-👁️ 27K • 👍 2K • 💬 171 • ⏱️ 46:08 • 16h ago
+👁️ 13K • 👍 337 • 💬 30 • ⏱️ 15:51 • 1d ago
 
 ---
 
@@ -306,7 +286,37 @@ After getting chopped up in ETH shorts over the past few months, I found a momen
 
 📺 Taiki Maeda
 
-👁️ 12K • 👍 678 • 💬 186 • ⏱️ 48:54 • 1d ago
+👁️ 13K • 👍 690 • 💬 189 • ⏱️ 48:54 • 1d ago
+
+---
+
+**[BITCOIN AND ETH: LAST CHANCE TO RECOVER!!!! 🚨🚨🚨 (MicroStrategy REKT)](https://www.youtube.com/watch?v=bLiHfECZH3k)**
+
+FREE TRAINING: https://www.bullmania.com EXCHANGES I USE (bybit, pionex): https://www.bullmania.com/partners My ...
+
+📺 Ivan on Tech
+
+👁️ 27K • 👍 2K • 💬 171 • ⏱️ 46:08 • 18h ago
+
+---
+
+**[Ethereum Elliott Wave Update – Key Resistance Levels Ahead](https://www.youtube.com/watch?v=fEyNvRFi_OA)**
+
+This video provides a professional Elliott Wave and technical analysis of Ethereum (ETH), focusing on market structure, major ...
+
+📺 More Crypto Online
+
+👁️ 3K • 👍 219 • 💬 6 • ⏱️ 4:10 • 15h ago
+
+---
+
+**[Tom Lee Drops HUGE Warning About 2026 | The Bull Run Has CHANGED](https://www.youtube.com/watch?v=3dh-JR2mdzA)**
+
+FREE Daily On-Chain Analysis & Crypto News In 5-Mins: http://bit.ly/TheCryptoNutshell Watch The FULL Interview: "Tom ...
+
+📺 Library Of Wealth
+
+👁️ 7K • 👍 158 • 💬 202 • ⏱️ 15:18 • 23h ago
 
 ---
 
@@ -316,17 +326,7 @@ My FREE Daily 5-Min Crypto Newsletter: https://www.cryptonutshell.com/subscribe 
 
 📺 Crypto Nutshell
 
-👁️ 22K • 👍 831 • 💬 115 • ⏱️ 21:16 • 1d ago
-
----
-
-**[Why Ethereum Could Drop Below $2,100 – Urgent Alert](https://www.youtube.com/watch?v=5cKFju6wwhQ)**
-
-Get $450 Off Our New AI Indicators: https://tradeconfidentportal.io/indic... Join Trade Confident: Get 25% Off Your 1st Month: ...
-
-📺 Trade Confident
-
-👁️ 273 • 👍 26 • 💬 4 • ⏱️ 6:14 • 6h ago
+👁️ 23K • 👍 832 • 💬 115 • ⏱️ 21:16 • 1d ago
 
 ---
 

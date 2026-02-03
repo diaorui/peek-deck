@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-02-03T02:13:08.829600+00:00'
+updated: '2026-02-03T04:26:51.556711+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- videos
-- news
 - cryptocurrency
 - social
+- videos
+- news
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** February 03, 2026 at 02:13 UTC  
+**Last Updated:** February 03, 2026 at 04:26 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,15 +38,15 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $78,835.51
+### $78,530.69
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** +3.0%  
+**24h:** +3.9%  
 **7d:** -12.0%  
-**30d:** -16.6%  
+**30d:** -16.5%  
 **90d:** -22.6%  
 **1y:** -19.7%  
 
@@ -54,17 +54,17 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1573.27B
+**Market Cap:** $1569.48B
 Rank #1
 
 **Circulating Supply:** 19,982,656 BTC
 95.2% of max
 
 **All-Time High:** $126,080.00
--37.6%
+-37.7%
 
 **All-Time Low:** $67.81
-+115868.1%
++115673.5%
 
 ---
 
@@ -79,6 +79,12 @@ Rank #1
 
 **[From laser eyes to serving fries](https://www.reddit.com/r/Bitcoin/comments/1qu2p0l/from_laser_eyes_to_serving_fries/)**
 
+10h ago
+
+---
+
+**[You’re not going to become wealthy through trading or diversification -- Bitcoin OG and ex-Google Vijay Boyapati](https://www.reddit.com/r/Bitcoin/comments/1qu6izm/youre_not_going_to_become_wealthy_through_trading/)**
+
 8h ago
 
 ---
@@ -87,7 +93,7 @@ Rank #1
 
 Some random at Bloomberg say it's going to 10k lol If that happens then I get a full coin or two https://www.dlnews.com/articles/markets/bitcoin-price-to-10000-as-markets-barrel-towards-crash/
 
-6h ago
+9h ago
 
 ---
 
@@ -95,13 +101,7 @@ Some random at Bloomberg say it's going to 10k lol If that happens then I get a 
 
 Have been in a DCA program for around 3 years and with the dip I was finally able to get to 2. Was not projected to be there until late this year. Bitcoin is on sale! Go get yours (Yes, I know to not answer any DMs, this is not my first rodeo)
 
-10h ago
-
----
-
-**[You’re not going to become wealthy through trading or diversification -- Bitcoin OG and ex-Google Vijay Boyapati](https://www.reddit.com/r/Bitcoin/comments/1qu6izm/youre_not_going_to_become_wealthy_through_trading/)**
-
-5h ago
+13h ago
 
 ---
 
@@ -109,7 +109,21 @@ Have been in a DCA program for around 3 years and with the dip I was finally abl
 
 The way I see it is now is pretty good time to start a dca for the next 4 years, so here goes nothing. To start I'm only gonna do like $150 a month.. cheers boys and gals
 
-5h ago
+7h ago
+
+---
+
+**[Thank you Cramer for the local bottom](https://www.reddit.com/r/Bitcoin/comments/1qtzryb/thank_you_cramer_for_the_local_bottom/)**
+
+11h ago
+
+---
+
+**[Lost 25k in a month. And happy af](https://www.reddit.com/r/Bitcoin/comments/1qtsmxz/lost_25k_in_a_month_and_happy_af/)**
+
+I just bought 0.83 BTC to get my third coin. I am so thrilled
+
+16h ago
 
 ---
 
@@ -117,13 +131,7 @@ The way I see it is now is pretty good time to start a dca for the next 4 years,
 
 It's because I bought some
 
-20h ago
-
----
-
-**[Thank you Cramer for the local bottom](https://www.reddit.com/r/Bitcoin/comments/1qtzryb/thank_you_cramer_for_the_local_bottom/)**
-
-9h ago
+22h ago
 
 ---
 
@@ -131,21 +139,13 @@ It's because I bought some
 
 Bought more at 94K, then again yesterday at 78K. Hands made out Adamantium forged in the fires of the bedrock below the abyss. Spewed forth on the shore and raised by wolves, fed by bears and ate with the giants. I'll see y'all at the end of the year 🥂
 
-22h ago
+1d ago
 
 ---
 
 **[Crazy thoughts](https://www.reddit.com/r/Bitcoin/comments/1qtvdt1/crazy_thoughts/)**
 
 With love, respectfully, from a fellow soldier: Don’t buy Bitcoin if you don’t plan to hold it for 5 years. Don’t check the price every 5 minutes. Once per week is fine. Once every day is a lot. Don’t have an emotional reaction to every Reddit post or piece of news immediately after it’s published. Everything will be okay as long as you don’t invest money you can’t afford to lose and you have a long term time horizon. If you did gamble away money you need, I’m very sorry. Consider this pain a learning opportunity. The world is crazy right now. Volatility is the new normal. Be smart, and fucking chill out.
-
-12h ago
-
----
-
-**[Last chance to buy below 80k?](https://www.reddit.com/r/Bitcoin/comments/1qtspj3/last_chance_to_buy_below_80k/)**
-
-Not sure, I can see btc break 75k and 70k support . Your opinions please?
 
 14h ago
 
@@ -155,71 +155,77 @@ Not sure, I can see btc break 75k and 70k support . Your opinions please?
 
 ## Google News: "bitcoin"
 
-**[Crypto market volatility triggers $2.5 billion in bitcoin liquidations](https://www.reuters.com/markets/wealth/crypto-market-volatility-triggers-25-billion-bitcoin-liquidations-2026-02-02/)**
+**[Bitcoin is coming off a brutal week. Here's what's happening](https://www.cnbc.com/2026/02/02/bitcoin-btc-price-today-cryptocurrency.html)**
 
-Reuters • 5h ago
+Cryptocurrency markets fell as global equities and precious metals sold off while bitcoin liquidations exacerbated downside moves.
+
+CNBC • 17h ago
 
 ---
 
 **[Even In Warsh’s World, Bitcoin Will Be Dumped for Gold](https://www.bloomberg.com/opinion/articles/2026-02-02/even-in-warsh-s-world-bitcoin-will-be-dumped-for-gold)**
 
-Bloomberg.com • 7h ago
-
----
-
-**[Erratic behavior in bitcoin, silver and memory stocks threatens to unnerve bull market](https://www.cnbc.com/2026/02/02/erratic-behavior-in-bitcoin-silver-and-memory-stocks-threatens-to-unnerve-bull-market.html)**
-
-For a broadly positive start to a year, though, there are a striking number of caveats, extremes and oddities for skeptics to invoke.
-
-CNBC • 12h ago
-
----
-
-**[Bitcoin Selloff Knocks Strategy Stock](https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-02-02-2026/card/bitcoin-selloff-knocks-strategy-stock-NAipQNt3hkAEydQO4uFj?gaa_at=eafs&gaa_n=AWEtsqe5RlplW88QQ4_4CYhI8HdLTPhUq09Brat9_eeShexTBqKkmmVLjuHE&gaa_ts=69815ca0&gaa_sig=h1sZnV4vR1sa6ylbifbwY1ds5rGlu4XAr2PRWKZdyhzLvTXa2316dUqjUEUUj6s_ciQ4iai9uW7-quWvEx42Zw%3D%3D)**
-
-The Wall Street Journal • 18h ago
-
----
-
-**[Stock market today: Dow, S&P 500, Nasdaq jump to kick off February as gold, silver, bitcoin remain volatile](https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-nasdaq-jump-to-kick-off-february-as-gold-silver-bitcoin-remain-volatile-210457932.html)**
-
-Wall Street is on edge after Friday's sharp reversal ahead of a week defined by Trump's Fed pick, jobs data, and more Big Tech earnings.
-
-Yahoo Finance • 5h ago
-
----
-
-**[Why Gold Still May Hit $6,000; Bitcoin Tests Trump 2.0 Low](https://www.investors.com/news/gold-price-still-may-hit-6000-deutsche-bank-bitcoin-tests-trump-second-term-low/)**
-
-Investor's Business Daily • 10h ago
-
----
-
-**[Big Banks Are Loading up on Bitcoin. Should Individual Investors Do the Same?](https://www.nasdaq.com/articles/big-banks-are-loading-bitcoin-should-individual-investors-do-same)**
-
-Key PointsBitcoin’s price has tumbled over the past year.
-
-Nasdaq • 6h ago
-
----
-
-**[Big Banks Are Loading up on Bitcoin. Should Individual Investors Do the Same?](https://www.fool.com/investing/2026/02/02/big-banks-are-loading-up-on-bitcoin-should-individ/)**
-
-The world's top cryptocurrency could still have a bright future.
-
-The Motley Fool • 7h ago
-
----
-
-**[Big banks are loading up on Bitcoin. Should individual investors do the same?](https://www.msn.com/en-us/money/topstocks/big-banks-are-loading-up-on-bitcoin-should-individual-investors-do-the-same/ar-AA1VwgUc?ocid=finance-verthp-feeds)**
-
-MSN • 5h ago
+Bloomberg • 9h ago
 
 ---
 
 **[Michael Saylor’s High-Stakes Bitcoin Bet Faces Fresh Strain](https://www.bloomberg.com/news/articles/2026-02-02/michael-saylor-s-high-stakes-bitcoin-bet-faces-fresh-strain)**
 
-Bloomberg.com • 11h ago
+Bloomberg • 13h ago
+
+---
+
+**[Michael Saylor's Strategy Is Now Underwater on Bitcoin. Is The Dam Breaking Open?](https://finance.yahoo.com/news/michael-saylors-strategy-now-underwater-164428720.html)**
+
+Strategy's Bitcoin treasury faces unrealized losses amid a market downturn, raising questions about its long-term viability while analysts maintain optimism for substantial stock upside.
+
+Yahoo Finance • 11h ago
+
+---
+
+**[Strategy slides after bitcoin briefly dips below crypto firm's key breakeven level](https://www.cnbc.com/2026/02/02/strategy-slides-after-bitcoin-briefly-dips-below-crypto-firms-key-breakeven-level-.html)**
+
+Bitcoin fell as low as about $74,500 early Monday, dipping below Strategy's average purchase price of $76,052 per token.
+
+CNBC • 13h ago
+
+---
+
+**[Bitcoin's Fall, Why Now Is The Time For A Contrarian-Long IBIT Play (NASDAQ:IBIT)](https://seekingalpha.com/article/4864811-bitcoins-fall-why-now-is-the-time-for-a-contrarian-long-ibit-play)**
+
+IBIT outperformed smaller tokens in 2026 despite Bitcoin's 12% YTD decline and a 38.5% drawdown from all-time highs. Read more on IBIT here.
+
+Seeking Alpha • 1d ago
+
+---
+
+**[Argentine Crypto Fugitive With $56 Million in Bitcoin Arrested in Venezuela](https://bitcoinmagazine.com/news/crypto-fugitive-arrested-in-venezuela)**
+
+Rosa María González, a key figure in the collapse of Argentine crypto firm Generación Zoe, was arrested in Venezuela.
+
+Bitcoin Magazine • 10h ago
+
+---
+
+**[Why Gold Still May Hit $6,000; Bitcoin Tests Trump 2.0 Low](https://www.investors.com/news/gold-price-still-may-hit-6000-deutsche-bank-bitcoin-tests-trump-second-term-low/)**
+
+Investor's Business Daily • 13h ago
+
+---
+
+**[Better Buy in 2026: Bitcoin or Gold? The Answer Couldn't Be Clearer.](https://www.fool.com/investing/2026/01/25/better-buy-2026-bitcoin-gold-answer-couldnt-cleare/)**
+
+Bitcoin sank in 2025, even though conventional crypto wisdom suggests it should have had a great year.
+
+The Motley Fool • 8d ago
+
+---
+
+**[Crypto Investors Are Wondering When Bitcoin Prices Will Fall Into the 'Value Zone'](https://www.investopedia.com/crypto-investors-are-wondering-when-bitcoin-prices-will-fall-into-the-value-zone-btc-11896119)**
+
+Marginally good news and big bitcoin purchases have yet to move the cryptocurrency in a meaningfully positive direction.
+
+Investopedia • 3d ago
 
 ---
 
@@ -281,7 +287,7 @@ Bitcoin plunged to a two-month low Thursday as risk-on assets broadly fell—and
 
 On-chain data revealed that a wallet linked to the token's deployer removed $2.5 million in liquidity, prompting accusations of a possible rug pull.
 
-⬆️ 6 • 💬 11 • 5h ago • [coindesk.com](https://www.coindesk.com/markets/2026/01/13/former-bitcoin-mayor-eric-adams-faces-usd3-million-rugpull-allegation-after-issuing-nyc-coin)
+⬆️ 6 • 💬 12 • 7h ago • [coindesk.com](https://www.coindesk.com/markets/2026/01/13/former-bitcoin-mayor-eric-adams-faces-usd3-million-rugpull-allegation-after-issuing-nyc-coin)
 
 ---
 
@@ -307,83 +313,33 @@ Reporting on Fintech, Crypto, and Blockchain Activity in Africa
 
 ## YouTube Videos: "bitcoin"
 
-**[The Bitcoin Super Cycle Is Over...](https://www.youtube.com/watch?v=1G1N_V-h1Ok)**
-
-ClashPicks** Make Free Predictions on *ClashPicks* ▻ https://www.clashpicks.com/ Follow ClashPicks' X ...
-
-📺 CryptosRUs
-
-👁️ 66K • 👍 3K • 💬 888 • ⏱️ 15:58 • 1d ago
-
----
-
 **[All the pieces are in place for crypto to be bottoming right now, says Fundstrat&#39;s Tom Lee](https://www.youtube.com/watch?v=KEVE5LK8jwo)**
 
 Tom Lee, Fundstrat Global Advisors head of research and Fundstrat Capital CIO, joins 'Squawk Box' to discuss the latest market ...
 
 📺 CNBC Television
 
-👁️ 50K • 👍 641 • 💬 533 • ⏱️ 5:40 • 9h ago
+👁️ 58K • 👍 680 • 💬 540 • ⏱️ 5:40 • 12h ago
 
 ---
 
-**[Bitcoin... This Is What&#39;s Happening (HUGE SELLOFF)](https://www.youtube.com/watch?v=pSZzzelGpK8)**
+**[Is Bitcoin In A Bear Market?](https://www.youtube.com/watch?v=sAqttSAjmSA)**
 
-This isn't looking good iTrust Capital – $100 Bonus (Crypto IRA & Custody Accounts) ...
+In this solo episode, Anthony Pompliano explores a key question facing investors today: Is bitcoin in a bear market? He breaks ...
 
-📺 Aaron Bennett
+📺 Anthony Pompliano
 
-👁️ 39K • 👍 1K • 💬 368 • ⏱️ 10:16 • 1d ago
-
----
-
-**[The Actual Reason Bitcoin Is Crashing (you won&#39;t believe)](https://www.youtube.com/watch?v=rlvplss4VoM)**
-
-LIMITED TIME: ✓ Bitunix (no kyc, $10k bonus): https://www.bitunix.com/register?vipCode=AltcoinDaily 50% deposit bonus on ...
-
-📺 Altcoin Daily
-
-👁️ 124K • 👍 4K • 💬 480 • ⏱️ 9:24 • 2d ago
+👁️ 29K • 👍 1K • 💬 75 • ⏱️ 22:42 • 6h ago
 
 ---
 
-**[Why Did Bitcoin Crash Below $80K?](https://www.youtube.com/watch?v=zBBEg7DP-Co)**
+**[Bitcoin Reversal Starting Now? How High Can Crypto Pump](https://www.youtube.com/watch?v=bEWTL5Ao3oI)**
 
-Bitcoin just dropped nearly 40% and the real reason has nothing to do with fear or headlines. A $1B liquidation, Fed balance ...
+After Donald Trump's new Federal Reserve chair sent shockwaves through markets and triggered a Bitcoin crash, the key ...
 
-📺 Simply Bitcoin
+📺 EllioTrades
 
-👁️ 68K • 👍 3K • 💬 387 • ⏱️ 16:36 • 1d ago
-
----
-
-**[Bitcoin CRASHES To $74K As Global Chaos Erupts! Worst Yet To Come?](https://www.youtube.com/watch?v=NuwkpCNO1Wk)**
-
-Bitcoin #Crypto #Finance Bitcoin has plunged below $80000, kicking off a broader wave of selling as uncertainty ripples through ...
-
-📺 The Wolf Of All Streets
-
-👁️ 33K • 👍 1K • 💬 291 • ⏱️ 1:03:42 • 10h ago
-
----
-
-**[EXPLAINED: Trump Just Crashed Gold, Silver, &amp; Bitcoin](https://www.youtube.com/watch?v=RS9uOBSp_iU)**
-
-Watch my free masterclass & get Market Briefs as a bonus: https://briefs.finance/gw1 My recommended tools*! *Please note: Yes ...
-
-📺 Minority Mindset
-
-👁️ 412K • 👍 14K • 💬 2K • ⏱️ 14:10 • 2d ago
-
----
-
-**[BITCOIN: THIS IS THE MOMENT !!!!!](https://www.youtube.com/watch?v=KSHP6QcoiIM)**
-
-BYBIT: http://themoon.co/Bybit 10% DISCOUNT & $30000 BONUS Coinflare: https://themoon.co/CoinflareCarl Make your ...
-
-📺 The Moon Show
-
-👁️ 22K • 👍 1K • 💬 91 • ⏱️ 7:03 • 18h ago
+👁️ 8K • 👍 1K • 💬 118 • ⏱️ 51:26 • 5h ago
 
 ---
 
@@ -393,17 +349,67 @@ CHECK OUT MY LINKTREE FOR EXCHANGES I USE, BONUSES, FREE VIDEOS, AND MORE! https
 
 📺 My Financial Friend
 
-👁️ 16K • 👍 630 • 💬 198 • ⏱️ 16:29 • 10h ago
+👁️ 16K • 👍 639 • 💬 198 • ⏱️ 16:29 • 12h ago
 
 ---
 
-**[Is Bitcoin About To Bottom? (Market Update)](https://www.youtube.com/watch?v=6Z8XoVzp35E)**
+**[The Bitcoin Super Cycle Is Over...](https://www.youtube.com/watch?v=1G1N_V-h1Ok)**
 
-Is the Bitcoin bottom finally in, or is there still more downside ahead this cycle? The appointment of a new Federal Reserve chair ...
+ClashPicks** Make Free Predictions on *ClashPicks* ▻ https://www.clashpicks.com/ Follow ClashPicks' X ...
 
-📺 EllioTrades
+📺 CryptosRUs
 
-👁️ 30K • 👍 2K • 💬 391 • ⏱️ 26:47 • 1d ago
+👁️ 67K • 👍 3K • 💬 888 • ⏱️ 15:58 • 1d ago
+
+---
+
+**[Brace Up! Bitcoin&#39;s About to Pull a VERY Shocking Move&quot; - Tom Lee](https://www.youtube.com/watch?v=Fz8xdgyLKBE)**
+
+0:00 – Crypto's Hidden Crash After the October Peak 0:11 – The Biggest Deleveraging Event in Crypto History 0:32 – Over 2 ...
+
+📺 Savvy Finance
+
+👁️ 21K • 👍 543 • 💬 38 • ⏱️ 16:33 • 1d ago
+
+---
+
+**[The Actual Reason Bitcoin Is Crashing (you won&#39;t believe)](https://www.youtube.com/watch?v=rlvplss4VoM)**
+
+LIMITED TIME: ✓ Bitunix (no kyc, $10k bonus): https://www.bitunix.com/register?vipCode=AltcoinDaily 50% deposit bonus on ...
+
+📺 Altcoin Daily
+
+👁️ 125K • 👍 4K • 💬 477 • ⏱️ 9:24 • 2d ago
+
+---
+
+**[Crypto Investors Are In SERIOUS Trouble (Tom Lee &amp; Raoul Pal)](https://www.youtube.com/watch?v=KVKyHOtnSfI)**
+
+LIMITED TIME: ✓ Bitunix (no kyc, $10k bonus): https://www.bitunix.com/register?vipCode=AltcoinDaily 50% deposit bonus on ...
+
+📺 Altcoin Daily
+
+👁️ 26K • 👍 2K • 💬 149 • ⏱️ 10:56 • 5h ago
+
+---
+
+**[Why Did Bitcoin Crash Below $80K?](https://www.youtube.com/watch?v=zBBEg7DP-Co)**
+
+Bitcoin just dropped nearly 40% and the real reason has nothing to do with fear or headlines. A $1B liquidation, Fed balance ...
+
+📺 Simply Bitcoin
+
+👁️ 69K • 👍 3K • 💬 388 • ⏱️ 16:36 • 1d ago
+
+---
+
+**[Bitcoin CRASHES To $74K As Global Chaos Erupts! Worst Yet To Come?](https://www.youtube.com/watch?v=NuwkpCNO1Wk)**
+
+Bitcoin #Crypto #Finance Bitcoin has plunged below $80000, kicking off a broader wave of selling as uncertainty ripples through ...
+
+📺 The Wolf Of All Streets
+
+👁️ 35K • 👍 2K • 💬 293 • ⏱️ 1:03:42 • 13h ago
 
 ---
 
