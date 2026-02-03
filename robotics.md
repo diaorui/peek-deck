@@ -3,13 +3,13 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-02-03T10:41:14.280479+00:00'
+updated: '2026-02-03T11:35:40.828574+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- news
 - social
+- news
 - videos
 ---
 
@@ -17,7 +17,7 @@ data_types:
 
 Robotics research and industry news
 
-**Last Updated:** February 03, 2026 at 10:41 UTC  
+**Last Updated:** February 03, 2026 at 11:35 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -32,11 +32,27 @@ Robotics research and industry news
 
 ## Reddit: r/robotics
 
+**[MirrorMe claims the world’s fastest humanoid at 10m/s (22.4 mph - 36 km/h)](https://www.reddit.com/r/robotics/comments/1quomj5/mirrorme_claims_the_worlds_fastest_humanoid_at/)**
+
+From RoboHub🤖 on 𝕏: https://x.com/XRoboHub/status/2018281195063419225 Previous post with MirrorMe robot dog at 13.4 m/s: https://www.reddit.com/r/robotics/comments/1pvek2r/the_black_panther_ii_robot_dog_hits_134_ms/
+
+57m ago
+
+---
+
 **[Autonomous robots chasing: very precise tracking (two mobile beacons on each robot), but unpolished PID](https://www.reddit.com/r/robotics/comments/1qum705/autonomous_robots_chasing_very_precise_tracking/)**
 
 Watch Marvelmind Boxie robots in a high-precision chase. Each autonomous robot uses two mobile beacons for ±2cm tracking. While the PID controller is still being tuned (causing some jerky movements), the positioning remains rock-solid. See the dashboard view vs. real-world drive. [00:00], [00:30].
 
-2h ago
+3h ago
+
+---
+
+**[Gyro V2.4](https://www.reddit.com/r/robotics/comments/1qu9d74/gyro_v24/)**
+
+Hey everyone, A little while ago I posted a video of my Animatronic Head The response was way more positive than I expected, and honestly, I had a blast building it. So… I decided to keep going :D I’m now expanding the project into a complete torso. So far I’ve: Built a torso using PVC pipes combined with PLA parts Started working on the arms (still a work in progress) I’d love to hear any suggestions, ideas, or improvements you think could make this build even better, whether mechanical, electronic, or software-related. I’m also experimenting with a new feature that I think is pretty cool. Once I get it working reliably, I’ll post an update here. If you’re interested, I’ve published the model files (currently .3mf only) on GitHub: https://github.com/koenll23/gyro (files may be outdated and/or unoptimized, they just work. use at your own risk) Thanks for all the feedback so far, it’s been a huge motivation to keep going!
+
+13h ago
 
 ---
 
@@ -48,25 +64,17 @@ From RoboHub🤖 on 𝕏 (longer video/ads): https://x.com/XRoboHub/status/20179
 
 ---
 
-**[Gyro V2.4](https://www.reddit.com/r/robotics/comments/1qu9d74/gyro_v24/)**
+**[We trained a locomotion policy that got our humanoid robot Asimov to walk](https://www.reddit.com/r/robotics/comments/1qupdmn/we_trained_a_locomotion_policy_that_got_our/)**
 
-Hey everyone, A little while ago I posted a video of my Animatronic Head The response was way more positive than I expected, and honestly, I had a blast building it. So… I decided to keep going :D I’m now expanding the project into a complete torso. So far I’ve: Built a torso using PVC pipes combined with PLA parts Started working on the arms (still a work in progress) I’d love to hear any suggestions, ideas, or improvements you think could make this build even better, whether mechanical, electronic, or software-related. I’m also experimenting with a new feature that I think is pretty cool. Once I get it working reliably, I’ll post an update here. If you’re interested, I’ve published the model files (currently .3mf only) on GitHub: https://github.com/koenll23/gyro (files may be outdated and/or unoptimized, they just work. use at your own risk) Thanks for all the feedback so far, it’s been a huge motivation to keep going!
+Asimov is an open-source humanoid we're building from scratch at Menlo Research. Legs, arms, and head developed in parallel. We're sharing how we got the legs walking. The rewards barely mattered. What worked was controlling what data the policy sees, when, and why. Our robot oscillated violently on startup. We tuned rewards for weeks. Nothing changed. Then we realized the policy was behaving like an underdamped control system, and the fix had nothing to do with rewards. We don't feed ground-truth linear velocity to the policy. On real hardware, you have an IMU that drifts and encoders that measure joint positions. Nothing else. If you train with perfect velocity, the policy learns to rely on data that won't exist at deployment. Motors are polled over CAN bus sequentially. Hip data is 6-9ms stale by the time ankle data arrives. We modeled this explicitly, matching the actual timing the policy will face on hardware. The actor only sees what real sensors provide (45 dimensions). The critic sees privileged info: Ground truth velocity, contact forces, toe positions. Asimov has passive spring-loaded toes with no encoder. The robot can't sense them. By exposing toe state to the critic, the policy learns to infer toe behavior from ankle positions and IMU readings. We borrowed most of our reward structure from Booster, Unitree, and MJLab. Made hardware-specific tweaks. No gait clock (Asimov has unusual kinematics, canted hips, backward-bending knees), asymmetric pose tolerances (ankles have only ±20° ROM), narrower stance penalties, air time rewards (the legs are 16kg and can achieve flight phase). Domain randomization was targeted, not broad. We randomized encoder calibration error, PD gains, toe stiffness, foot friction, observation delays. We didn't randomize body mass, link lengths, or gravity. Randomize what you know varies. Don't randomize what you've measured accurately. Next: terrain curriculum, velocity curriculum, full body integration (26-DOF+). Full post with observation tables, reward weights, and code: https://news.asimov.inc/p/teaching-a-humanoid-to-walk
 
-12h ago
-
----
-
-**[Hey need anyone to guide or advice me plz](https://www.reddit.com/r/robotics/comments/1qun57i/hey_need_anyone_to_guide_or_advice_me_plz/)**
-
-Hey I'm in my final year of ECE and I'm stuck with a lot of stuff I'm not understanding what should I learn and from where etc , I love control system, robotics embedded etc I also wanT to learn aiml , computer vision.. Currently learnt backend development etc I'm not focussed on any one thing I'm very confused I need a expert advice, I can't go to any agency or smtg Can anyone help me out to figure this situation and like where how focus can led me a job internship or smtg I want to build , work on projects etc
-
-1h ago
+13m ago
 
 ---
 
 **[I tested a cheap ODrive 3.6 clone — setup, tuning, Arduino & CAN](https://www.reddit.com/r/robotics/comments/1qu5iap/i_tested_a_cheap_odrive_36_clone_setup_tuning/)**
 
-14h ago
+15h ago
 
 ---
 
@@ -74,7 +82,7 @@ Hey I'm in my final year of ECE and I'm stuck with a lot of stuff I'm not unders
 
 Does it make sense to collect Egocentric Human Data using an iPhone when the camera FPS is variable and is even below 30?
 
-8h ago
+9h ago
 
 ---
 
@@ -82,7 +90,7 @@ Does it make sense to collect Egocentric Human Data using an iPhone when the cam
 
 Hi everyone I am currently in Grade 11 and taking a tech design course. My teacher is very lenient on which software we use. I want to use one that will be helpful for me in the future as I plan to go into Mechatronics/Marine Robotics. I also have a MacBook (I know that complicates things a bit) but my teacher also provides us with Windows laptops if need be. I’ve had some experience with OnShape in the past but I am definitely not a pro. Through my school board we also get the free versions of Fusion, AutoCAD, Inventor, and Revit. Below is the list of softwares we can choose from: - OnShape - Fusion (free) - AutoCAD (free) - Inventor (free) - Revit (free) - SketchUP - Mastercam - TinkerCAD I am currently deciding between Fusion and OnShape but let me know what you think is best!
 
-12h ago
+13h ago
 
 ---
 
@@ -90,7 +98,7 @@ Hi everyone I am currently in Grade 11 and taking a tech design course. My teach
 
 I'm new to motoman robots and am running into an issue where I can't change the max disturbance value even though I'm in management mode. The cursor just jumps over the value. I'm trying to change this because the robot is constantly throwing an "invalid shock detection" whenever I try to move the manipulator. I tried searching through the documentation and can't find why it's doing this.
 
-13h ago
+14h ago
 
 ---
 
@@ -98,15 +106,7 @@ I'm new to motoman robots and am running into an issue where I can't change the 
 
 From DEEP Robotics on 𝕏: https://x.com/DeepRobotics_CN/status/2017114429360656740
 
-1d ago
-
----
-
-**[Internships for the summer ?](https://www.reddit.com/r/robotics/comments/1qtrpu8/internships_for_the_summer/)**
-
-Im a mechatronics student with some experience in solidworks and ROS2 Does anybody know where somewhere with my skill set could apply, any research labs or universities or even companies that hire 2nd years?
-
-23h ago
+2d ago
 
 ---
 
@@ -114,11 +114,11 @@ Im a mechatronics student with some experience in solidworks and ROS2 Does anybo
 
 ## Google News: "robotics"
 
-**[COMMENTARY: Teaching mathematics with coding and robotics can transform California math instruction](https://edsource.org/2026/california-math-framework-coding-robotics/750225)**
+**[China's Farming Robots Are A Lot More Than Just Fancy Tractors](https://www.bgr.com/2087592/china-farming-robots/)**
 
-A hands-on, integrated approach has the potential to transform math from a gatekeeper into a gateway for STEM opportunities for all students.
+From robotic fish to fully autonomous planting and harvesting systems, farming robots in China are defining a new frontier of intelligent agriculture.
 
-EdSource • 1d ago
+bgr.com • 16h ago
 
 ---
 
@@ -126,7 +126,7 @@ EdSource • 1d ago
 
 Carbon Robotics' Large Plant Model will allow farmers to kill new types of weeds without having to retrain the machines.
 
-TechCrunch • 19h ago
+TechCrunch • 20h ago
 
 ---
 
@@ -134,7 +134,7 @@ TechCrunch • 19h ago
 
 Japan's robotics industry struggles to catch up to physical AI technology
 
-Nikkei Asia • 12h ago
+Nikkei Asia • 13h ago
 
 ---
 
@@ -146,19 +146,11 @@ New Hampshire Public Radio • 1d ago
 
 ---
 
-**[Robotics, for better or for worse](https://opinion.inquirer.net/189405/robotics-for-better-or-for-worse)**
-
-United States President Donald Trump recently signed an executive order assuring the global dominance of the US in artificial intelligence through deregulation and the preemption of state AI laws.
-
-Inquirer.net • 1d ago
-
----
-
 **[Students make splash at annual underwater robotics competition](https://www.lewistownsentinel.com/news/local-news/2026/02/students-make-splash-at-annual-underwater-robotics-competition/)**
 
 BURNHAM — The Juniata Valley YMCA pool in Burnham looked less like a swimming facility and more like a testing ground for young engineers as Mifflin County High School held its annual Underwater Robotics Competition recently. Now in its 10th year, the event brought student-built machines from the Lewistown school to life beneath the surface, […]
 
-lewistownsentinel.com • 4h ago
+lewistownsentinel.com • 5h ago
 
 ---
 
@@ -188,7 +180,15 @@ NOLA.com • 1d ago
 
 **[A mathematical framework for optimizing robotic joints](https://techxplore.com/news/2026-02-mathematical-framework-optimizing-robotic-joints.html)**
 
-Tech Xplore • 14h ago
+Tech Xplore • 15h ago
+
+---
+
+**[Smart drones and robots backed by German military track radioactive waste in minutes](https://interestingengineering.com/ai-robotics/ai-drone-scan-radioactive-waste)**
+
+Researchers in Germany have developed smart autonomous drones and robots that can locate radioactive material in minutes using AI and sensors.
+
+Interesting Engineering • 15h ago
 
 ---
 
@@ -212,7 +212,7 @@ XPENG just took a massive step forward in humanoid robotics. The New IRON robot 
 
 📺 Unitree Robotics
 
-👁️ 8K • 👍 566 • 💬 89 • ⏱️ 0:45 • 23h ago
+👁️ 8K • 👍 566 • 💬 89 • ⏱️ 0:45 • 1d ago
 
 ---
 
@@ -270,7 +270,7 @@ Hyundai is planning to place 30000 humanoid robots in its factories. We talked t
 
 📺 BBC News
 
-👁️ 11K • 👍 115 • 💬 31 • ⏱️ 0:50 • 16h ago
+👁️ 11K • 👍 115 • 💬 31 • ⏱️ 0:50 • 17h ago
 
 ---
 
