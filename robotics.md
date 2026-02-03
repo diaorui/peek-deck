@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-02-03T07:43:12.779315+00:00'
+updated: '2026-02-03T08:39:28.894262+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
 - videos
-- social
 - news
+- social
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** February 03, 2026 at 07:43 UTC  
+**Last Updated:** February 03, 2026 at 08:39 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -32,11 +32,19 @@ Robotics research and industry news
 
 ## Reddit: r/robotics
 
+**[Autonomous robots chasing: very precise tracking (two mobile beacons on each robot), but unpolished PID](https://www.reddit.com/r/robotics/comments/1qum705/autonomous_robots_chasing_very_precise_tracking/)**
+
+Watch Marvelmind Boxie robots in a high-precision chase. Each autonomous robot uses two mobile beacons for ±2cm tracking. While the PID controller is still being tuned (causing some jerky movements), the positioning remains rock-solid. See the dashboard view vs. real-world drive. [00:00], [00:30].
+
+34m ago
+
+---
+
 **[An automated AI restaurant just opened in Hangzhou, it’s actually serving up "wok hei" and bowls of noodles without a single human chef](https://www.reddit.com/r/robotics/comments/1qtr9da/an_automated_ai_restaurant_just_opened_in/)**
 
 From RoboHub🤖 on 𝕏 (longer video/ads): https://x.com/XRoboHub/status/2017926788144579060
 
-21h ago
+22h ago
 
 ---
 
@@ -44,13 +52,13 @@ From RoboHub🤖 on 𝕏 (longer video/ads): https://x.com/XRoboHub/status/20179
 
 Hey everyone, A little while ago I posted a video of my Animatronic Head The response was way more positive than I expected, and honestly, I had a blast building it. So… I decided to keep going :D I’m now expanding the project into a complete torso. So far I’ve: Built a torso using PVC pipes combined with PLA parts Started working on the arms (still a work in progress) I’d love to hear any suggestions, ideas, or improvements you think could make this build even better, whether mechanical, electronic, or software-related. I’m also experimenting with a new feature that I think is pretty cool. Once I get it working reliably, I’ll post an update here. If you’re interested, I’ve published the model files (currently .3mf only) on GitHub: https://github.com/koenll23/gyro (files may be outdated and/or unoptimized, they just work. use at your own risk) Thanks for all the feedback so far, it’s been a huge motivation to keep going!
 
-9h ago
+10h ago
 
 ---
 
 **[I tested a cheap ODrive 3.6 clone — setup, tuning, Arduino & CAN](https://www.reddit.com/r/robotics/comments/1qu5iap/i_tested_a_cheap_odrive_36_clone_setup_tuning/)**
 
-11h ago
+12h ago
 
 ---
 
@@ -58,7 +66,7 @@ Hey everyone, A little while ago I posted a video of my Animatronic Head The res
 
 Does it make sense to collect Egocentric Human Data using an iPhone when the camera FPS is variable and is even below 30?
 
-5h ago
+6h ago
 
 ---
 
@@ -66,7 +74,7 @@ Does it make sense to collect Egocentric Human Data using an iPhone when the cam
 
 Hi everyone I am currently in Grade 11 and taking a tech design course. My teacher is very lenient on which software we use. I want to use one that will be helpful for me in the future as I plan to go into Mechatronics/Marine Robotics. I also have a MacBook (I know that complicates things a bit) but my teacher also provides us with Windows laptops if need be. I’ve had some experience with OnShape in the past but I am definitely not a pro. Through my school board we also get the free versions of Fusion, AutoCAD, Inventor, and Revit. Below is the list of softwares we can choose from: - OnShape - Fusion (free) - AutoCAD (free) - Inventor (free) - Revit (free) - SketchUP - Mastercam - TinkerCAD I am currently deciding between Fusion and OnShape but let me know what you think is best!
 
-9h ago
+10h ago
 
 ---
 
@@ -74,7 +82,7 @@ Hi everyone I am currently in Grade 11 and taking a tech design course. My teach
 
 I'm new to motoman robots and am running into an issue where I can't change the max disturbance value even though I'm in management mode. The cursor just jumps over the value. I'm trying to change this because the robot is constantly throwing an "invalid shock detection" whenever I try to move the manipulator. I tried searching through the documentation and can't find why it's doing this.
 
-10h ago
+11h ago
 
 ---
 
@@ -98,15 +106,7 @@ Im a mechatronics student with some experience in solidworks and ROS2 Does anybo
 
 A new industry guide breaks down the top 12 robots defining this era, from Tesla’s $30k Optimus Gen 2 to 1X’s NEO, which is finally shipping to homes. The list details the specs, pricing, and capabilities of the major players (including Boston Dynamics, Figure, and Unitree) as they shift from 'cool lab demos' to real-world labor in factories and living rooms.
 
-🔗 [Humanoid Robotics Technology](https://humanoidroboticstechnology.com/articles/top-12-humanoid-robots-of-2026/) • 22h ago
-
----
-
-**[Why are there no Autonomous Mobile Robots in Construction Sites](https://www.reddit.com/r/robotics/comments/1qtklj3/why_are_there_no_autonomous_mobile_robots_in/)**
-
-I live in India and in a day I see about 4 construction sites on my way to work . I quite often notice that we don't have Autonomous robots that carry heavy load from one place to another. People continue to use wheel barrow as a mode to carry heavy load. I do not know why we are not in a time where people can start using robots to carry heavy load. I am new to robotics and learning still about the mechanics and the business of it. I wanted to know if: 1) Is this the case in most countries? 2) Are people not using robots to carry heavy load due to extremely high costs? 3) Are these robots not as fast and efficient as they claim to be? 4) Is there no need in the first place? I would love to know your thoughts as to why we don't see as many robots carry heavy load in construction sites?
-
-1d ago
+🔗 [Humanoid Robotics Technology](https://humanoidroboticstechnology.com/articles/top-12-humanoid-robots-of-2026/) • 23h ago
 
 ---
 
@@ -126,7 +126,7 @@ EdSource • 1d ago
 
 Carbon Robotics' Large Plant Model will allow farmers to kill new types of weeds without having to retrain the machines.
 
-TechCrunch • 16h ago
+TechCrunch • 17h ago
 
 ---
 
@@ -134,7 +134,7 @@ TechCrunch • 16h ago
 
 Japan's robotics industry struggles to catch up to physical AI technology
 
-Nikkei Asia • 9h ago
+Nikkei Asia • 10h ago
 
 ---
 
@@ -143,14 +143,6 @@ Nikkei Asia • 9h ago
 FIRST's board of directors says it has hired a law firm to review Kamen's ties to Epstein, days after newly released documents show the two men shared a relationship over a number of years.
 
 New Hampshire Public Radio • 1d ago
-
----
-
-**[Students make splash at annual underwater robotics competition](https://www.lewistownsentinel.com/news/local-news/2026/02/students-make-splash-at-annual-underwater-robotics-competition/)**
-
-BURNHAM — The Juniata Valley YMCA pool in Burnham looked less like a swimming facility and more like a testing ground for young engineers as Mifflin County High School held its annual Underwater Robotics Competition recently. Now in its 10th year, the event brought student-built machines from the Lewistown school to life beneath the surface, […]
-
-lewistownsentinel.com • 1h ago
 
 ---
 
@@ -174,15 +166,21 @@ CNBC • 1d ago
 
 SSE Steel Fabrication owner Mindy Núñez Airhart on growing a second-generation steel business in St. Bernard Parish — from post-Katrina rebuilding to robotics, AI and humanoid welding technology shaping the industry’s future.
 
-NOLA.com • 21h ago
+NOLA.com • 22h ago
 
 ---
 
-**[Top 10 robotics developments of January 2026](https://www.therobotreport.com/top-10-robotics-developments-of-january-2026/)**
+**[A mathematical framework for optimizing robotic joints](https://techxplore.com/news/2026-02-mathematical-framework-optimizing-robotic-joints.html)**
 
-CES kicked off robotics news for January 2026, and the momentum continued with companies hitting milestones and debuting new systems.
+Tech Xplore • 12h ago
 
-The Robot Report • 2d ago
+---
+
+**[Lake Stevens robotics team receives world recognition](https://www.heraldnet.com/news/lake-stevens-robotics-team-receives-world-recognition/)**
+
+Team Arsenic took second place at the recent ROBO-BASH in Bellingham, earning fifth place in the world.
+
+Everett Herald • 3d ago
 
 ---
 
@@ -254,7 +252,7 @@ The Shanghai-based robotics startup MirrorMe Technology claims its new bipedal r
 
 📺 Kalil 4.0
 
-👁️ 3K • 👍 143 • 💬 8 • ⏱️ 0:36 • 14h ago
+👁️ 3K • 👍 143 • 💬 8 • ⏱️ 0:36 • 15h ago
 
 ---
 
@@ -262,7 +260,7 @@ The Shanghai-based robotics startup MirrorMe Technology claims its new bipedal r
 
 📺 BBC News
 
-👁️ 9K • 👍 107 • 💬 29 • ⏱️ 0:50 • 13h ago
+👁️ 9K • 👍 107 • 💬 29 • ⏱️ 0:50 • 14h ago
 
 ---
 

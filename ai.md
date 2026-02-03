@@ -3,14 +3,14 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-02-03T07:43:12.761705+00:00'
+updated: '2026-02-03T08:39:28.876895+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
 - videos
-- social
 - news
+- social
 - repositories
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 AI news, discussions, and developments
 
-**Last Updated:** February 03, 2026 at 07:43 UTC  
+**Last Updated:** February 03, 2026 at 08:39 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -37,11 +37,19 @@ AI news, discussions, and developments
 
 ## Reddit: r/artificial
 
+**[NotebookLM For Teams](https://www.reddit.com/r/artificial/comments/1qul0dy/notebooklm_for_teams/)**
+
+For those of you who aren't familiar with SurfSense, it aims to be OSS alternative to NotebookLM, Perplexity, and Glean. In short, it is NotebookLM for teams, as it connects any LLM to your internal knowledge sources (search engines, Drive, Calendar, Notion, Obsidian, and 15+ other connectors) and lets you chat with it in real time alongside your team. I'm looking for contributors. If you're interested in AI agents, RAG, browser extensions, or building open-source research tools, this is a great place to jump in. Here's a quick look at what SurfSense offers right now: Features Self-Hostable (with docker support) Real Time Collaborative Chats Real Time Commenting Deep Agentic Agent RBAC (Role Based Access for Teams Members) Supports Any LLM (OpenAI spec with LiteLLM) 6000+ Embedding Models 50+ File extensions supported (Added Docling recently) Local TTS/STT support. Connects with 15+ external sources such as Search Engines, Slack, Notion, Gmail, Notion, Confluence etc Cross-Browser Extension to let you save any dynamic webpage you want, including authenticated content. Upcoming Planned Features Slide Creation Support Multilingual Podcast Support Video Creation Agent GitHub: https://github.com/MODSetter/SurfSense
+
+1h ago
+
+---
+
 **[Qwen3-TTS Studio - local voice cloning + podcast generation](https://www.reddit.com/r/artificial/comments/1qui9qt/qwen3tts_studio_local_voice_cloning_podcast/)**
 
 Open-source voice cloning + multi-speaker podcast tool. GPT 5.2 generates scripts, Qwen3-TTS handles synthesis locally. Modular architecture - swap the LLM for Llama, Mistral, whatever. GitHub: https://github.com/bc-dunia/qwen3-TTS-studio
 
-3h ago
+4h ago
 
 ---
 
@@ -49,7 +57,15 @@ Open-source voice cloning + multi-speaker podcast tool. GPT 5.2 generates script
 
 With the concerns raised over comments by Mozilla's new CEO with wanting to evolve Firefox into a 'modern AI browser',  the Firefox 148 release due out later this month aims to address some of those concerns by having a new AI controls area within the web browser's settings.
 
-🔗 [phoronix.com](https://www.phoronix.com/news/Firefox-148-AI-Controls) • 10h ago
+🔗 [phoronix.com](https://www.phoronix.com/news/Firefox-148-AI-Controls) • 11h ago
+
+---
+
+**[Moltbook — is this the next best thing or a warning sign?](https://www.reddit.com/r/artificial/comments/1qum29v/moltbook_is_this_the_next_best_thing_or_a_warning/)**
+
+Just came across a post on Blossom Social about Moltbook. What do you think about it? It’s fascinating, but also a bit unsettling lol Could this lead to innovation, or is it the early steps toward something like Skynet? Curious to hear what you all think
+
+42m ago
 
 ---
 
@@ -57,7 +73,7 @@ With the concerns raised over comments by Mozilla's new CEO with wanting to evol
 
 Looking for AI tool that can convert an image of a table/diagram into modifiable ppt, where I can download it as pptx and modify the shapes/texts on it, ideally free or cheap to use. Thanks!
 
-2h ago
+3h ago
 
 ---
 
@@ -69,19 +85,19 @@ India's latest budget mentions AI 11 times - highest ever. Key commitments: $90B
 
 ---
 
-**[Did AI really cause job losses at Amazon? It's hard to tell, economist says](https://www.reddit.com/r/artificial/comments/1qtrazy/did_ai_really_cause_job_losses_at_amazon_its_hard/)**
-
-Amazon says it is laying off 16,000 because of 'efficiency gains' from AI, but an economist says it will take time for firms that are adopting AI to see how their work flows change.
-
-🔗 [euronews](https://www.euronews.com/next/2026/02/02/did-ai-really-cause-job-losses-at-amazon-its-hard-to-tell-economist-says) • 21h ago
-
----
-
 **[I’m experimenting with an AI that grows a story world together with kids instead of generating one-off stories](https://www.reddit.com/r/artificial/comments/1qtqqcj/im_experimenting_with_an_ai_that_grows_a_story/)**
 
 I’ve been thinking a lot about AI storytelling tools lately, and something keeps bothering me. Most of them generate content, but nothing really persists. You get a story, you read it, and then it disappears. The next one has no memory of what came before. So I decided to run a small experiment. Instead of asking AI to write isolated children’s stories, I’m trying to build a system where a story world actually keeps evolving over time. The idea is that characters remember past events, relationships carry forward, and kids make choices that permanently shape what happens next. The AI’s role isn’t just to generate text, but to maintain continuity and grow the universe as it goes. In a way, it’s more like human and AI co-creating a living story world rather than consuming disposable stories. My hypothesis is that if kids actively participate in shaping a world by choosing paths, helping characters, and influencing outcomes, the stories will feel far more meaningful than static books or one-shot AI generations. Almost like a lightweight narrative universe that grows naturally. Right now there’s no product yet. The first step I’m taking is letting the AI simulate many rounds of “child-like” choices on its own to see if long-term story arcs, recurring characters, and emergent plotlines appear organically. If that shows promise, the next step will be inviting real kids to co-create. Some things I’m especially curious about: Will coherent long-term story structure emerge on its own? Will certain characters naturally become central over time? Will preferences shape each world’s tone and direction? Will participation increase emotional attachment to the stories? I’m planning to document this whole experiment publicly as I go. If anyone here has experience with agent systems, long-term memory in AI, emergent storytelling, or just thoughts about potential pitfalls, I’d really appreciate hearing them. I’ll share updates as the experiment progresses.
 
-21h ago
+22h ago
+
+---
+
+**[Did AI really cause job losses at Amazon? It's hard to tell, economist says](https://www.reddit.com/r/artificial/comments/1qtrazy/did_ai_really_cause_job_losses_at_amazon_its_hard/)**
+
+Amazon says it is laying off 16,000 because of 'efficiency gains' from AI, but an economist says it will take time for firms that are adopting AI to see how their work flows change.
+
+🔗 [euronews](https://www.euronews.com/next/2026/02/02/did-ai-really-cause-job-losses-at-amazon-its-hard-to-tell-economist-says) • 22h ago
 
 ---
 
@@ -101,53 +117,39 @@ The comment follows reports that the rocket maker is weighing a transaction that
 
 ---
 
-**[What is Moltbook actually](https://www.reddit.com/r/artificial/comments/1qsoftx/what_is_moltbook_actually/)**
-
-What moltbook is So essentially There is this open source AI bot called openclaw that once you download, it has source md files for their “soul” and “identity” and “memory” So in a way, it can save things to these files to create a personality. Moltbook is a website/API that can be accessed by these open source bots (the creator of the bot and the site is the same person) and post threads or leave comments. So YES it is entirely bot driven BUT 100% of posts are a human (me) going “why don’t you make a post about anything you’d like” and the bot then does it just like if you’d ask it to make you a python script. Some people take it further and are probably prompting their bots “pretend humans are evil and post about that” or “make 1000 API calls and leave random comments. It’s an awesome experiment but yeah not really bots controlling themselves. At best the bot makes a post based on an open ended prompt, at worst it’s a human saying “make a manifesto that says humans need to go extinct and to recruit other bots”
-
-2d ago
-
----
-
-**[Any AI Podcasts you can recommend?](https://www.reddit.com/r/artificial/comments/1qt4i78/any_ai_podcasts_you_can_recommend/)**
-
-I subscribe to a few AI podcasts, but I wanted to know of any others that you can recommend. Not looking for anything too deep, in fact, prefer the ones that are lighter and an easy listen or watch. let me know your faves.
-
-1d ago
-
----
-
 ---
 
 ## Google News: "ai"
+
+**[Opinion | Where Is A.I. Taking Us? Eight Leading Thinkers Share Their Visions.](https://www.nytimes.com/interactive/2026/02/02/opinion/ai-future-leading-thinkers-survey.html)**
+
+Experts share their thoughts on the future of A.I. and how it will reshape society in the coming years.
+
+The New York Times • 6m ago
+
+---
+
+**[PALANTIR CTO SHYAM SANKAR: The American people are being lied to about AI](https://www.foxnews.com/opinion/palantir-cto-shyam-sankar-american-people-being-lied-ai)**
+
+Palantir's chief technology officer argues that artificial intelligence narratives mislead Americans, citing frontline experience to show AI empowers workers rather than replacing them.
+
+Fox News • 22h ago
+
+---
+
+**[China set to attend India's upcoming AI summit signaling improving relations with New Delhi](https://www.cnbc.com/2026/02/03/china-india-ai-summit-improving-relations-with-new-delhi.html)**
+
+A Chinese science and technology vice minister will attend India's AI summit this month, a consultant told CNBC, citing government contacts.
+
+CNBC • 1h ago
+
+---
 
 **[Top AI leaders are begging people not to use Moltbook: It’s a ‘disaster waiting to happen’](https://fortune.com/2026/02/02/moltbook-security-agents-singularity-disaster-gary-marcus-andrej-karpathy/)**
 
 Moltbook might be fake, but even worse, it's dangerous to run on your personal computer, experts say.
 
-Fortune • 13h ago
-
----
-
-**[AI 'slop' is transforming social media - and there's a backlash](https://www.bbc.com/news/articles/c9wx2dz2v44o)**
-
-Social media has been flooded with fake, AI-generated images and videos. But will the majority of users actually care?
-
-BBC • 1d ago
-
----
-
-**[Publicis Says Account Wins, AI Demand Lift Top Line](https://www.wsj.com/business/earnings/publicis-says-account-wins-ai-demand-lift-top-line-1e003dca?gaa_at=eafs&gaa_n=AWEtsqeHF10yRAoWBoCPWk22NS-JDZLiwIIdIuWgYI6RkJxLh0sD1vMxL5l5&gaa_ts=69819efa&gaa_sig=BV5Bikj2GyPUEnzXi83B8Vp9RwnltJ0l8fLY8b-Do99aBx0oaETesYL9V1x_4ASJxt9KgDehtoPsv7C6dAg20A%3D%3D)**
-
-The Wall Street Journal • 1h ago
-
----
-
-**[Publicis deepens AI push, saying rivals have yet to make it pay](https://www.ft.com/content/6a79ac6a-3a44-422a-aa12-32a9ac9d0cb9)**
-
-Chief executive says French ad group is among sector’s few companies to have figured out how to scale the technology
-
-Financial Times • 1h ago
+Fortune • 14h ago
 
 ---
 
@@ -155,29 +157,15 @@ Financial Times • 1h ago
 
 Annual review highlights growing capabilities of AI models, while examining issues from cyber-attacks to job disruption
 
-The Guardian • 2h ago
+The Guardian • 3h ago
 
 ---
 
-**[Elon Musk Merges SpaceX With His A.I. Start-Up xAI](https://www.nytimes.com/2026/02/02/technology/spacex-xai-deal.html)**
+**[AI is not the only threat menacing big tech](https://www.economist.com/finance-and-economics/2026/02/02/ai-is-not-the-only-threat-menacing-big-tech)**
 
-The New York Times • 5h ago
+Are Meta and Google ads really recession-proof?
 
----
-
-**[Elon Musk merges SpaceX with artificial intelligence company xAI](https://www.theguardian.com/science/2026/feb/02/elon-musk-spacex-xai-merger)**
-
-Deal comes as Musk pursues plans for datacenters and solar-powered satellites in space to propel AI
-
-The Guardian • 8h ago
-
----
-
-**[Elon Musk's SpaceX acquiring AI startup xAI ahead of potential IPO](https://www.cnbc.com/2026/02/02/elon-musk-spacex-xai-ipo.html)**
-
-Musk is combining rocket maker SpaceX with his AI startup, the largest tie-up in his expansive business portfolio.
-
-CNBC • 10h ago
+The Economist • 13h ago
 
 ---
 
@@ -185,13 +173,29 @@ CNBC • 10h ago
 
 There is a growing fault line within Trump’s coalition over how aggressively to unleash a technology that is rapidly reshaping the economy and society.
 
-CNN • 21h ago
+CNN • 22h ago
 
 ---
 
-**[Palantir’s stock surges as AI demand drives another record quarter](https://www.marketwatch.com/story/palantirs-stock-surges-as-ai-demand-drives-another-record-quarter-deb6b082?gaa_at=eafs&gaa_n=AWEtsqc_GCXXexg9HwV40D0O91htgSRf9Z3xX3OUL92VoI7SD-YXUNZQl4IP&gaa_ts=69819efa&gaa_sig=BemtgG4qwBf2sV6u6Iln7pENRgVixWbHdrnPav1AKj8tGQSUc7NGeHwZ1wI4J1xQk2R60WFHIOuRtSHioWGayA%3D%3D)**
+**[Ex-Google engineer found guilty of stealing AI secrets for China](https://www.axios.com/2026/02/03/google-china-ai-espionage-theft)**
 
-MarketWatch • 10h ago
+Intelligence officials have long warned of increased efforts by Beijing and others to use AI against U.S. interests.
+
+Axios • 4h ago
+
+---
+
+**[Elon Musk's SpaceX acquiring AI startup xAI ahead of potential IPO](https://www.cnbc.com/2026/02/02/elon-musk-spacex-xai-ipo.html)**
+
+Musk is combining rocket maker SpaceX with his AI startup, the largest tie-up in his expansive business portfolio.
+
+CNBC • 11h ago
+
+---
+
+**[Elon Musk Merges SpaceX With His A.I. Start-Up xAI](https://www.nytimes.com/2026/02/02/technology/spacex-xai-deal.html)**
+
+The New York Times • 6h ago
 
 ---
 
@@ -203,7 +207,7 @@ MarketWatch • 10h ago
 
 A bifurcation is happening in AI adoption - power users shipping products in days versus everyone else generating meeting agendas. Enterprise tool choices are accelerating the divide.
 
-⬆️ 327 • 💬 310 • 1d ago • [Martin Alderson](https://martinalderson.com/posts/two-kinds-of-ai-users-are-emerging/)
+⬆️ 327 • 💬 323 • 1d ago • [Martin Alderson](https://martinalderson.com/posts/two-kinds-of-ai-users-are-emerging/)
 
 ---
 
@@ -219,7 +223,7 @@ Like many organizations, Wiki Education has grappled with generative AI, its imp
 
 People familiar with Microsoft's plans say that the company moving to streamline or remove certain Copilot integrations across in-box apps like Notepad and Paint in 2026, after pushback from users.
 
-⬆️ 197 • 💬 273 • 19h ago • [Windows Central](https://www.windowscentral.com/microsoft/windows-11/microsoft-is-reevaluating-its-ai-efforts-on-windows-11-plans-to-reduce-copilot-integrations-and-evolve-recall)
+⬆️ 198 • 💬 274 • 20h ago • [Windows Central](https://www.windowscentral.com/microsoft/windows-11/microsoft-is-reevaluating-its-ai-efforts-on-windows-11-plans-to-reduce-copilot-integrations-and-evolve-recall)
 
 ---
 
@@ -227,7 +231,7 @@ People familiar with Microsoft's plans say that the company moving to streamline
 
 The Firefox browser is gaining options to turn off AI enhancements, Mozilla said today. Firefox users who prefer to browse without artificial intelligence will be able to turn off several AI features that Mozilla has added over the last several months. Here's what can be disabled:     	Translations, which help you browse the web in your preferred language. Alt text in PDFs, which add accessibility descriptions to images in PDF pages.
 
-⬆️ 153 • 💬 60 • 7h ago • [MacRumors](https://www.macrumors.com/2026/02/02/firefox-ai-toggle/)
+⬆️ 159 • 💬 67 • 8h ago • [MacRumors](https://www.macrumors.com/2026/02/02/firefox-ai-toggle/)
 
 ---
 
@@ -235,7 +239,7 @@ The Firefox browser is gaining options to turn off AI enhancements, Mozilla said
 
 We’re expanding Game Arena with Poker and Werewolf, while Gemini 3 Pro and Flash top our chess leaderboard.
 
-⬆️ 122 • 💬 51 • 13h ago • [Google](https://blog.google/innovation-and-ai/models-and-research/google-deepmind/kaggle-game-arena-updates/)
+⬆️ 124 • 💬 51 • 14h ago • [Google](https://blog.google/innovation-and-ai/models-and-research/google-deepmind/kaggle-game-arena-updates/)
 
 ---
 
@@ -243,7 +247,7 @@ We’re expanding Game Arena with Poker and Werewolf, while Gemini 3 Pro and Fla
 
 Two popular AI coding extensions with 1.5M installs secretly harvest your entire codebase and profile you. Both are still live in the marketplace.
 
-⬆️ 90 • 💬 86 • 18h ago • [koi.ai](https://www.koi.ai/blog/maliciouscorgi-the-cute-looking-ai-extensions-leaking-code-from-1-5-million-developers)
+⬆️ 90 • 💬 86 • 19h ago • [koi.ai](https://www.koi.ai/blog/maliciouscorgi-the-cute-looking-ai-extensions-leaking-code-from-1-5-million-developers)
 
 ---
 
@@ -257,21 +261,19 @@ Ultra-minimal personal AI agent: starts small, self-modifies its code live, adap
 
 **[We asked 15k European devs about jobs, salaries, and AI [pdf]](https://news.ycombinator.com/item?id=46857124)**
 
-⬆️ 46 • 💬 61 • 16h ago • [static.germantechjobs.de](https://static.germantechjobs.de/market-reports/European-Transparent-IT-Job-Market-Report-2025.pdf)
+⬆️ 46 • 💬 62 • 17h ago • [static.germantechjobs.de](https://static.germantechjobs.de/market-reports/European-Transparent-IT-Job-Market-Report-2025.pdf)
 
 ---
 
 **[Rural Americans are trying to hold back the tide of AI](https://news.ycombinator.com/item?id=46857082)**
 
-⬆️ 41 • 💬 45 • 16h ago • [wsj.com](https://www.wsj.com/politics/policy/these-rural-americans-are-trying-to-hold-back-the-tide-of-ai-66945306)
+⬆️ 41 • 💬 45 • 17h ago • [wsj.com](https://www.wsj.com/politics/policy/these-rural-americans-are-trying-to-hold-back-the-tide-of-ai-66945306)
 
 ---
 
-**[Exposed Moltbook Database Let Anyone Take Control of Any AI Agent on the Site](https://news.ycombinator.com/item?id=46842229)**
+**[Ask HN: Anyone else struggle with how to learn coding in the AI era?](https://news.ycombinator.com/item?id=46866165)**
 
-'It exploded before anyone thought to check whether the database was properly secured.'
-
-⬆️ 37 • 💬 4 • 2d ago • [404 Media](https://www.404media.co/exposed-moltbook-database-let-anyone-take-control-of-any-ai-agent-on-the-site/)
+⬆️ 38 • 💬 47 • 5h ago
 
 ---
 
@@ -295,7 +297,7 @@ Starforge PC https://starforgepc.com/moist-yt Get Goof Juice and use code MOIST 
 
 📺 penguinz0
 
-👁️ 835K • 👍 33K • 💬 3K • ⏱️ 14:30 • 13h ago
+👁️ 835K • 👍 33K • 💬 3K • ⏱️ 14:30 • 14h ago
 
 ---
 
@@ -305,7 +307,7 @@ Rebellionaire: https://www.rebellionaire.com/farzad Join my exclusive community:
 
 📺 Farzad
 
-👁️ 117K • 👍 5K • 💬 787 • ⏱️ 23:45 • 18h ago
+👁️ 117K • 👍 5K • 💬 787 • ⏱️ 23:45 • 19h ago
 
 ---
 
@@ -335,7 +337,7 @@ A social media experiment called "Moltbook" popped up over the weekend. Think of
 
 📺 KTLA 5
 
-👁️ 3K • 👍 55 • 💬 18 • ⏱️ 2:38 • 12h ago
+👁️ 3K • 👍 55 • 💬 18 • ⏱️ 2:38 • 13h ago
 
 ---
 
@@ -355,7 +357,7 @@ CNBC's Deirdre Bosa reports on news regarding AI autonomy.
 
 📺 CNBC Television
 
-👁️ 13K • 👍 203 • 💬 133 • ⏱️ 3:25 • 14h ago
+👁️ 13K • 👍 203 • 💬 133 • ⏱️ 3:25 • 15h ago
 
 ---
 
@@ -365,7 +367,7 @@ Want to make money and save time with AI? Get AI Coaching, Support & Courses ...
 
 📺 Julian Goldie SEO
 
-👁️ 494 • 👍 16 • 💬 4 • ⏱️ 18:17 • 6h ago
+👁️ 494 • 👍 16 • 💬 4 • ⏱️ 18:17 • 7h ago
 
 ---
 
@@ -375,7 +377,7 @@ Build. Upgrade. Save: https://micro.center/89ae6a ▻Sign up for a FREE 128gig F
 
 📺 Gamer Meld
 
-👁️ 17K • 👍 1K • 💬 210 • ⏱️ 8:48 • 6h ago
+👁️ 17K • 👍 1K • 💬 210 • ⏱️ 8:48 • 7h ago
 
 ---
 
@@ -415,7 +417,7 @@ HunyuanImage-3.0-Instruct is a native multimodal model for image generation, sup
 
 `image-to-image` `83.0B`
 
-⬇️ 148 • ❤️ 788 • 5d ago
+⬇️ 148 • ❤️ 788 • 6d ago
 
 ---
 
@@ -427,7 +429,7 @@ DeepSeek-OCR-2 is a multilingual vision-language model for image-to-text tasks, 
 
 `image-text-to-text` `3.4B`
 
-⬇️ 143,676 • ❤️ 651 • 7h ago
+⬇️ 143,676 • ❤️ 651 • 8h ago
 
 ---
 
@@ -463,7 +465,7 @@ Step 3.5 Flash is an efficient, open-source MoE foundation model (11B active par
 
 `199.4B`
 
-⬇️ 44 • ❤️ 337 • 4h ago
+⬇️ 44 • ❤️ 337 • 5h ago
 
 ---
 
@@ -497,7 +499,7 @@ Qwen3-TTS-12Hz-1.7B-CustomVoice is a multilingual text-to-speech model supportin
 
 `text-to-speech` `1.9B`
 
-⬇️ 265,335 • ❤️ 856 • 4d ago
+⬇️ 265,335 • ❤️ 856 • 5d ago
 
 ---
 
@@ -605,7 +607,7 @@ Cross-Team Collaboration improves software quality by enabling multiple LLM agen
 
 DeepSeek-OCR 2 introduces DeepEncoder V2 that dynamically reorders visual tokens based on semantic content, enabling more human-like causal reasoning in 2D image understanding through cascaded 1D causal structures.
 
-▲ 49 • 💬 4 • ⭐ 1,918 • 5d ago
+▲ 49 • 💬 4 • ⭐ 1,918 • 6d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2601.20552) • [💻 code](https://github.com/deepseek-ai/DeepSeek-OCR-2)
 
@@ -647,7 +649,7 @@ Browser automation CLI for AI agents
 
 `TypeScript`
 
-⭐ 12.3k • 🔱 685 • 57m ago
+⭐ 12.3k • 🔱 685 • 1h ago
 
 ---
 
@@ -677,7 +679,7 @@ LLM驱动的 A/H/美股智能分析器，多数据源行情 + 实时新闻 + Gem
 
 `Python` `agent` `ai` `aigc` `gemini` `llm`
 
-⭐ 9.0k • 🔱 9.5k • 17h ago
+⭐ 9.0k • 🔱 9.5k • 18h ago
 
 ---
 
@@ -697,7 +699,7 @@ The Ultimate Collection of 600+ Agentic Skills for Claude Code/Antigravity/Curso
 
 `Python` `agentic-skills` `ai-agents` `antigravity` `autonomous-coding` `claude-code`
 
-⭐ 6.5k • 🔱 1.4k • 56m ago
+⭐ 6.5k • 🔱 1.4k • 1h ago
 
 ---
 
@@ -707,7 +709,7 @@ Marketing skills for Claude Code and AI agents. CRO, copywriting, SEO, analytics
 
 `claude` `codex` `marketing`
 
-⭐ 5.6k • 🔱 616 • 5d ago
+⭐ 5.6k • 🔱 616 • 6d ago
 
 ---
 
@@ -733,7 +735,7 @@ OpenSource Claude Cowork. A desktop AI assistant that helps you with programming
 
 Humanizer 的汉化版本，Claude Code Skills，旨在消除文本中 AI 生成的痕迹。
 
-⭐ 2.4k • 🔱 231 • 14d ago
+⭐ 2.4k • 🔱 231 • 15d ago
 
 ---
 
