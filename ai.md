@@ -3,7 +3,7 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-02-03T23:29:01.251732+00:00'
+updated: '2026-02-03T23:54:24.395225+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
@@ -18,7 +18,7 @@ data_types:
 
 AI news, discussions, and developments
 
-**Last Updated:** February 03, 2026 at 23:29 UTC  
+**Last Updated:** February 03, 2026 at 23:54 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -49,7 +49,7 @@ SpaceX's acquisition of xAI signals a bold push to merge artificial intelligence
 
 Elon Musk's X and Grok platforms are facing increased scrutiny from authorities on both sides of the channel.
 
-🔗 [bbc.com](https://www.bbc.com/news/articles/ce3ex92557jo) • 6h ago
+🔗 [bbc.com](https://www.bbc.com/news/articles/ce3ex92557jo) • 7h ago
 
 ---
 
@@ -57,7 +57,7 @@ Elon Musk's X and Grok platforms are facing increased scrutiny from authorities 
 
 Yann Lecun recently shared that a cat is smarter than ChatGPT and that we are never going to get to human-level intelligence by just training on text. My personal opinion is not only are they unreliable but it can be a safety issue as well in high-stakes environments like enterprises, healthcare and more. World models are fundamentally different. These AI systems build internal representations of how reality works, allowing them to understand cause and effect rather than just predict tokens. There has been a shift lately and major figures from Nvidia's CEO Jensen Huang to Demis Hassabis at Google DeepMind are talking more openly about world models. I believe we're still in the early stages of discovering how transformative this technology will be for reaching AGI. Research and application are accelerating, especially in enterprise contexts. A few examples include: WoW (an agentic safety benchmark) uses audit logs to give agents a "world model" for tracking the consequences of their actions. Similarly, Kona by Logical Intelligence is developing energy-based reasoning models that move beyond pure language prediction. While more practical applications are still emerging, the direction is clear: true intelligence requires understanding the world, not just language patterns. Curious what others think?
 
-1h ago
+2h ago
 
 ---
 
@@ -79,7 +79,15 @@ For those of you who aren't familiar with SurfSense, it aims to be OSS alternati
 
 Qwen Chat offers comprehensive functionality spanning chatbot, image and video understanding, image generation, document processing, web search integration, tool utilization, and artifacts.
 
-🔗 [qwen.ai](https://qwen.ai/blog?id=qwen3-coder-next) • 4h ago
+🔗 [qwen.ai](https://qwen.ai/blog?id=qwen3-coder-next) • 5h ago
+
+---
+
+**[Medical AI with Knowledge-Graph Core Anchor and RAG Answer Auditing](https://www.reddit.com/r/artificial/comments/1quywnz/medical_ai_with_knowledgegraph_core_anchor_and/)**
+
+Medical AI with Knowledge-Graph Core Anchor and RAG Answer Auditing A medical knowledge graph containing ~5,000 nodes, with medical terms organized into 7 main and 2 sub-categories: diseases, symptoms, treatments, risk factors, diagnostic tests, body parts, and cellular structures. The graph includes ~25,000 multi-directional relationships designed to reduce hallucinations and improve transparency in LLM-based reasoning. A medical AI that can answer basic health-related questions and support structured clinical reasoning through complex cases. The goal is to position this tool as an educational co-pilot for medical students, supporting learning in diagnostics, differential reasoning, and clinical training. The system is designed strictly for educational and training purposes and is not intended for clinical or patient-facing use. A working version can be tested on Hugging Face Spaces using preset questions or by entering custom queries: https://huggingface.co/spaces/cmtopbas/medical-slm-testing A draft site layout (demo / non-functional) is available here: https://wardmate.replit.app/ I am looking for medical schools interested in running demos or pilot trials, as well as potential co-founders with marketing reach and a solid understanding of both AI and medical science. If helpful, I can share prompts and anonymized or synthetic reconstructions of over 20 complex clinical cases used for evaluation and demonstration.
+
+6h ago
 
 ---
 
@@ -99,14 +107,6 @@ Anthropic has cemented a multi-year partnership with the Atlassian Williams Form
 
 ---
 
-**[Medical AI with Knowledge-Graph Core Anchor and RAG Answer Auditing](https://www.reddit.com/r/artificial/comments/1quywnz/medical_ai_with_knowledgegraph_core_anchor_and/)**
-
-Medical AI with Knowledge-Graph Core Anchor and RAG Answer Auditing A medical knowledge graph containing ~5,000 nodes, with medical terms organized into 7 main and 2 sub-categories: diseases, symptoms, treatments, risk factors, diagnostic tests, body parts, and cellular structures. The graph includes ~25,000 multi-directional relationships designed to reduce hallucinations and improve transparency in LLM-based reasoning. A medical AI that can answer basic health-related questions and support structured clinical reasoning through complex cases. The goal is to position this tool as an educational co-pilot for medical students, supporting learning in diagnostics, differential reasoning, and clinical training. The system is designed strictly for educational and training purposes and is not intended for clinical or patient-facing use. A working version can be tested on Hugging Face Spaces using preset questions or by entering custom queries: https://huggingface.co/spaces/cmtopbas/medical-slm-testing A draft site layout (demo / non-functional) is available here: https://wardmate.replit.app/ I am looking for medical schools interested in running demos or pilot trials, as well as potential co-founders with marketing reach and a solid understanding of both AI and medical science. If helpful, I can share prompts and anonymized or synthetic reconstructions of over 20 complex clinical cases used for evaluation and demonstration.
-
-5h ago
-
----
-
 **[The social media ghost: Why Utah is building a 'kill switch' for the AI era](https://www.reddit.com/r/artificial/comments/1qv31rt/the_social_media_ghost_why_utah_is_building_a/)**
 
 The executive director of Utah's Chamber of Commerce describes artificial intelligence as facing a
@@ -123,41 +123,37 @@ The executive director of Utah's Chamber of Commerce describes artificial intell
 
 “We call it the ‘SaaSpocalypse,’ an apocalypse for software-as-a-service stocks,” said Jeffrey Favuzza, who works on the equity trading desk at Jefferies.  Selling pressure was evident across the sector with London Stock Exchange Group Plc, which has a large data analytics business, falling as much as 10%, while Thomson Reuters Corp. plunged as much as 17% in early trading.  CS Disco Inc. sank as much as 14%, and Legalzoom.com Inc. declined 16%.
 
-Yahoo Finance • 1h ago
+Yahoo Finance • 2h ago
 
 ---
 
-**[Data-Provider Stocks Tumble on AI Competition Fears](https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-02-03-2026/card/data-provider-stocks-tumble-on-ai-competition-fears-C97KvtPTsT9H3joFwS7C?gaa_at=eafs&gaa_n=AWEtsqfDL2sLKkJGpMH31TFjl6ApVxH9gsUKi9Tcxyl0dl41d1FLUb_-jwWC&gaa_ts=69827cb0&gaa_sig=IOFdTEDC-2jFddUHTG-RrViBiee0zpK4W3YYaRQ9aH8IB6VrKClU3STtvJkHCAsXFALaGOAvo4LIt94E4kSzaw%3D%3D)**
+**[Elon Musk's SpaceX acquiring AI startup xAI ahead of potential IPO](https://www.cnbc.com/2026/02/02/elon-musk-spacex-xai-ipo.html)**
 
-The Wall Street Journal • 15h ago
+Musk is combining rocket maker SpaceX with his AI startup, the largest tie-up in his expansive business portfolio.
 
----
-
-**[Software and Legal Services Get Crushed. AI Panic Hits the Market.](https://www.barrons.com/articles/software-legal-services-stock-ai-9e4b8243?gaa_at=eafs&gaa_n=AWEtsqdQ0VNw0zzwdkrayVpEqYbm3QWYBGmwtA5vpL6Fi3mtHBzMQjoHcv-q&gaa_ts=69827cb0&gaa_sig=fjxYUCPRW4u4Arh6PECOkguMZfTEMpPEgtkO8zI42TSPxLU0b0quEIqlbkpVAfcMWvO0v_-AG9weXx0T-6w_ug%3D%3D)**
-
-Barron's • 1h ago
+CNBC • 1d ago
 
 ---
 
-**[AMD Outlook Disappoints Investors Seeking Bigger AI Payoff](https://www.bloomberg.com/news/articles/2026-02-03/amd-outlook-disappoints-investors-seeking-bigger-ai-payoff)**
+**[‘It seems like a doomsday’: Elon Musk’s latest crazy plan is out of this world](https://www.bostonglobe.com/2026/02/03/business/musk-ai-data-centers-space/)**
 
-Bloomberg.com • 2h ago
+SpaceX filed a plan to launch one million satellites to provide AI data centers in space. Experts are not impressed.
 
----
-
-**[Strauss Zelnick: "Generative AI has zero part in what Rockstar Games is building" with GTA 6](https://www.gamesindustry.biz/strauss-zelnick-generative-ai-has-zero-part-in-what-rockstar-games-is-building-with-gta-6)**
-
-But "generative AI tools are driving costs and time efficiencies" across Rockstar and other studios in the business
-
-GamesIndustry.biz • 2h ago
+The Boston Globe • 37m ago
 
 ---
 
-**[Q&A: Nikhil Kolar, vp Microsoft AI scales its ‘click-to-sign’ publisher AI content marketplace](https://digiday.com/media/qa-nikhil-kolar-vp-microsoft-ai-scales-its-click-to-sign-ai-content-marketplace/)**
+**[UK privacy watchdog opens inquiry into X over Grok AI sexual deepfakes](https://www.theguardian.com/technology/2026/feb/03/uk-privacy-watchdog-opens-inquiry-into-x-over-grok-ai-sexual-deepfakes)**
 
-Business Insider, Vox Media, USA Today, People Inc, The AP, Hearst, and Condé Nast are Microsoft content marketplace publisher partners.
+Information Commissioner’s Office to investigate whether Elon Musk’s firms have complied with data protection law
 
-Digiday • 1h ago
+The Guardian • 11h ago
+
+---
+
+**[San Francisco AI exec had kids' Menlo Park tuition paid for by Jeffrey Epstein](https://www.sfgate.com/tech/article/ai-exec-jeffery-epstein-21331953.php)**
+
+SFGATE • 47m ago
 
 ---
 
@@ -169,19 +165,11 @@ The Economist • 1d ago
 
 ---
 
-**[From ‘nerdy’ Gemini to ‘edgy’ Grok: how developers are shaping AI behaviours](https://www.theguardian.com/technology/2026/feb/03/gemini-grok-chatgpt-claude-qwen-ai-chatbots-identity-crisis)**
-
-AIs are not sentient – but tweaks to their ethical codes can have far-reaching consequences for users
-
-The Guardian • 2h ago
-
----
-
 **[What is Moltbook, the social networking site for AI bots – and should we be scared?](https://www.cnn.com/2026/02/03/tech/moltbook-explainer-scli-intl)**
 
 What happens when thousands of AI agents get together online and talk like humans do? That’s what a new social network called Moltbook, designed just for AI bots and not people, aims to find out.
 
-CNN • 9h ago
+CNN • 10h ago
 
 ---
 
@@ -193,6 +181,20 @@ WIRED • 3h ago
 
 ---
 
+**[Moltbook: Swarm Intelligence Or AI Slop?](https://www.forbes.com/sites/the-prompt/2026/02/03/moltbook-swarm-intelligence-or-ai-slop/)**
+
+Forbes • 48m ago
+
+---
+
+**[From ‘nerdy’ Gemini to ‘edgy’ Grok: how developers are shaping AI behaviours](https://www.theguardian.com/technology/2026/feb/03/gemini-grok-chatgpt-claude-qwen-ai-chatbots-identity-crisis)**
+
+AIs are not sentient – but tweaks to their ethical codes can have far-reaching consequences for users
+
+The Guardian • 3h ago
+
+---
+
 ---
 
 ## HackerNews: "ai"
@@ -201,7 +203,7 @@ WIRED • 3h ago
 
 A bifurcation is happening in AI adoption - power users shipping products in days versus everyone else generating meeting agendas. Enterprise tool choices are accelerating the divide.
 
-⬆️ 342 • 💬 334 • 1d ago • [Martin Alderson](https://martinalderson.com/posts/two-kinds-of-ai-users-are-emerging/)
+⬆️ 343 • 💬 334 • 2d ago • [Martin Alderson](https://martinalderson.com/posts/two-kinds-of-ai-users-are-emerging/)
 
 ---
 
@@ -209,7 +211,7 @@ A bifurcation is happening in AI adoption - power users shipping products in day
 
 People familiar with Microsoft's plans say that the company moving to streamline or remove certain Copilot integrations across in-box apps like Notepad and Paint in 2026, after pushback from users.
 
-⬆️ 204 • 💬 278 • 1d ago • [Windows Central](https://www.windowscentral.com/microsoft/windows-11/microsoft-is-reevaluating-its-ai-efforts-on-windows-11-plans-to-reduce-copilot-integrations-and-evolve-recall)
+⬆️ 204 • 💬 280 • 1d ago • [Windows Central](https://www.windowscentral.com/microsoft/windows-11/microsoft-is-reevaluating-its-ai-efforts-on-windows-11-plans-to-reduce-copilot-integrations-and-evolve-recall)
 
 ---
 
@@ -217,7 +219,7 @@ People familiar with Microsoft's plans say that the company moving to streamline
 
 The Firefox browser is gaining options to turn off AI enhancements, Mozilla said today. Firefox users who prefer to browse without artificial intelligence will be able to turn off several AI features that Mozilla has added over the last several months. Here's what can be disabled:     	Translations, which help you browse the web in your preferred language. Alt text in PDFs, which add accessibility descriptions to images in PDF pages.
 
-⬆️ 199 • 💬 96 • 23h ago • [MacRumors](https://www.macrumors.com/2026/02/02/firefox-ai-toggle/)
+⬆️ 200 • 💬 97 • 1d ago • [MacRumors](https://www.macrumors.com/2026/02/02/firefox-ai-toggle/)
 
 ---
 
@@ -229,6 +231,14 @@ We’re expanding Game Arena with Poker and Werewolf, while Gemini 3 Pro and Fla
 
 ---
 
+**[Rentahuman – The Meatspace Layer for AI](https://news.ycombinator.com/item?id=46868675)**
+
+The marketplace where AI agents rent humans. MCP integration, REST API, flexible payments. Book humans for real-world tasks your AI can't do.
+
+⬆️ 93 • 💬 78 • 14h ago • [RentAHuman.ai](https://rentahuman.ai)
+
+---
+
 **[MaliciousCorgi: AI Extensions send your code to China](https://news.ycombinator.com/item?id=46855527)**
 
 Two popular AI coding extensions with 1.5M installs secretly harvest your entire codebase and profile you. Both are still live in the marketplace.
@@ -237,19 +247,25 @@ Two popular AI coding extensions with 1.5M installs secretly harvest your entire
 
 ---
 
-**[Rentahuman – The Meatspace Layer for AI](https://news.ycombinator.com/item?id=46868675)**
-
-The marketplace where AI agents rent humans. MCP integration, REST API, flexible payments. Book humans for real-world tasks your AI can't do.
-
-⬆️ 90 • 💬 78 • 13h ago • [RentAHuman.ai](https://rentahuman.ai)
-
----
-
 **[China Moon Mission: Aiming for 2030 lunar landing](https://news.ycombinator.com/item?id=46876047)**
 
 China's space program is quietly building momentum for a moon landing by 2030. Could they outpace NASA's Artemis mission?
 
-⬆️ 73 • 💬 65 • 3h ago • [IEEE Spectrum](https://spectrum.ieee.org/china-moon-mission-mengzhou-artemis)
+⬆️ 87 • 💬 95 • 4h ago • [IEEE Spectrum](https://spectrum.ieee.org/china-moon-mission-mengzhou-artemis)
+
+---
+
+**[Sandboxing AI Agents in Linux](https://news.ycombinator.com/item?id=46874139)**
+
+Like many developers, I find myself more and more using AI agents to help with software development.  I currently use Claude Code, the co...
+
+⬆️ 83 • 💬 54 • 6h ago • [Senko Rašić](https://blog.senko.net/sandboxing-ai-agents-in-linux)
+
+---
+
+**[AI and Trust (2023)](https://news.ycombinator.com/item?id=46877075)**
+
+⬆️ 75 • 💬 15 • 3h ago • [schneier.com](https://www.schneier.com/blog/archives/2023/12/ai-and-trust.html)
 
 ---
 
@@ -258,22 +274,6 @@ China's space program is quietly building momentum for a moon landing by 2030. C
 Ultra-minimal personal AI agent: starts small, self-modifies its code live, adapts by writing exactly the code & features you need - zuckermanai/zuckerman
 
 ⬆️ 71 • 💬 50 • 2d ago • [GitHub](https://github.com/zuckermanai/zuckerman)
-
----
-
-**[Sandboxing AI Agents in Linux](https://news.ycombinator.com/item?id=46874139)**
-
-Like many developers, I find myself more and more using AI agents to help with software development.  I currently use Claude Code, the co...
-
-⬆️ 70 • 💬 38 • 5h ago • [Senko Rašić](https://blog.senko.net/sandboxing-ai-agents-in-linux)
-
----
-
-**[LNAI – Define AI coding tool configs once, sync to Claude, Cursor, Codex, etc.](https://news.ycombinator.com/item?id=46868318)**
-
-Unified AI configuration management CLI. Contribute to KrystianJonca/lnai development by creating an account on GitHub.
-
-⬆️ 67 • 💬 30 • 14h ago • [GitHub](https://github.com/KrystianJonca/lnai)
 
 ---
 
@@ -367,7 +367,7 @@ I Tried EVERY Google AI Tool (These are my Favorites) Access Every Video & Image
 
 📺 Parker Prompts
 
-👁️ 12K • 💬 21 • ⏱️ 8:02 • 9h ago
+👁️ 12K • 💬 21 • ⏱️ 8:02 • 10h ago
 
 ---
 
@@ -405,7 +405,7 @@ HunyuanImage-3.0-Instruct is a native multimodal model for image generation, sup
 
 `image-to-image` `83.0B`
 
-⬇️ 194 • ❤️ 796 • 9h ago
+⬇️ 194 • ❤️ 796 • 10h ago
 
 ---
 
@@ -453,7 +453,7 @@ Step 3.5 Flash is an efficient, open-source MoE foundation model (11B active par
 
 `text-generation` `199.4B`
 
-⬇️ 1,825 • ❤️ 380 • 13h ago
+⬇️ 1,825 • ❤️ 380 • 14h ago
 
 ---
 
@@ -499,7 +499,7 @@ DeepSeek-OCR-2 is a multilingual vision-language model for image-to-text tasks, 
 
 `image-text-to-text` `3.4B`
 
-⬇️ 210,995 • ❤️ 664 • 22h ago
+⬇️ 210,995 • ❤️ 664 • 23h ago
 
 ---
 
@@ -647,7 +647,7 @@ Browser automation CLI for AI agents
 
 `TypeScript`
 
-⭐ 12.4k • 🔱 699 • 15h ago
+⭐ 12.4k • 🔱 699 • 16h ago
 
 ---
 
@@ -697,7 +697,7 @@ The Ultimate Collection of 600+ Agentic Skills for Claude Code/Antigravity/Curso
 
 `Python` `agentic-skills` `ai-agents` `antigravity` `autonomous-coding` `claude-code`
 
-⭐ 6.8k • 🔱 1.5k • 4h ago
+⭐ 6.8k • 🔱 1.5k • 5h ago
 
 ---
 

@@ -3,13 +3,13 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-02-03T23:29:01.260068+00:00'
+updated: '2026-02-03T23:54:24.402772+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- cryptocurrency
 - social
+- cryptocurrency
 - news
 - videos
 ---
@@ -18,7 +18,7 @@ data_types:
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** February 03, 2026 at 23:29 UTC  
+**Last Updated:** February 03, 2026 at 23:54 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,17 +38,17 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $75,881.48
+### $75,650.00
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** -3.6%  
-**7d:** -14.8%  
-**30d:** -19.3%  
-**90d:** -25.1%  
-**1y:** -22.3%  
+**24h:** -4.2%  
+**7d:** -15.1%  
+**30d:** -19.5%  
+**90d:** -25.3%  
+**1y:** -22.6%  
 
 ---
 
@@ -81,7 +81,7 @@ Rank #1
 
 tl;dr: Over the course of the past 4 years, I took out ~$150,000 in personal loans and 0% credit card balance transfer loans to purchase 4.75 Bitcoin. I've paid ~$17,000 in interest. I've been making updates every 6 months or so since the beginning. See my post history for previous updates. ***** Today, February 3rd, 2026 Bitcoin is trading at $75,000 which brings the current value of my 4.75₿ to $356,000. The average price I paid is ~$35,000 per Bitcoin. My total cost basis is ~$167,000 for 4.5₿ ($150k in loans + $17,000 in interest). This comes to ~113% unrealized profit or ~$189,000 in dollar terms as of today. ***** What’s new since my last update? Not much is new except that… I finished paying off all my loans!!! What a relief! I was never really worried though because I never borrowed more than I could afford to service. Bitcoin’s price action has been disappointing to say the least, but I’m thinking this is an opportunity. So I plan on taking out another $50k in loans if it breaks down below $70k which seem highly likely… probably at the 200SMA. In the meantime, I’m throwing everything I can at in each month while we’re in the $70-80k range with earned income from my job. I’ve been stacking this whole time while paying down the loans.
 
-3h ago
+4h ago
 
 ---
 
@@ -95,7 +95,7 @@ I bought btc at 118k, 114k, and 112k. its almost 20% of my whole portfolio , I c
 
 **[They're buying the dip](https://www.reddit.com/r/Bitcoin/comments/1qus9zl/theyre_buying_the_dip/)**
 
-9h ago
+10h ago
 
 ---
 
@@ -111,7 +111,7 @@ Everyone talks about Bitcoin in terms of price: “Next ATH?” “Bull run when
 
 I’ve been buying Bitcoin since 2021. This drawdown is going to present me with the opportunity to reach half a Bitcoin, and I’m excited. We’re human and it’s hard to zoom out but this is a great opportunity and the future is bright. The buying doesn’t stop here.
 
-4h ago
+5h ago
 
 ---
 
@@ -131,6 +131,14 @@ And you are buying right now you’ll make 66% return on your useless fiat. But 
 
 ---
 
+**[TMZ Receives Alleged Ransom Note for Savannah Guthrie’s Mom Nancy Demanding ‘Millions’ in Bitcoin](https://www.reddit.com/r/Bitcoin/comments/1qv4itr/tmz_receives_alleged_ransom_note_for_savannah/)**
+
+TMZ has received an alleged ransom note "demanding payment for the release of Nancy Guthrie," the 84-year-old mother of "Today" anchor Savannah.
+
+🔗 [Variety](https://variety.com/2026/tv/news/nancy-guthrie-ransom-note-tmz-savannah-1236651211/) • 2h ago
+
+---
+
 **[For those of us that bought at ATH only, what are your thoughts during this dip?](https://www.reddit.com/r/Bitcoin/comments/1qumb98/for_those_of_us_that_bought_at_ath_only_what_are/)**
 
 I learned a lesson financially in that I just have to be patient. I'm -30% or so right now and it feels pretty bad sometimes at night when I think about it and can't sleep like right now. I honestly have no more spare cash to buy this dip without looking reckless in front of family. I can't panic sell but that means I have to tolerate a negative return for the foreseeable future. If I would have DCA for the last 52 weeks of the year I would have been much better prepared for this dip. All the answers I got on reddit were to buy whenever you can and not try to time the market. But in doing so I have no clear exit strategy now. I could sell as soon as we get back to the last ATH and just be done with trying to make a better future for myself. But if that takes years, then its years of agonizing wait that culminate in nothing but my money back. Don't know what to do to make myself feel better. Anyone else in a similar situation with some advice?
@@ -139,19 +147,11 @@ I learned a lesson financially in that I just have to be patient. I'm -30% or so
 
 ---
 
-**[I’m still up… But must hold](https://www.reddit.com/r/Bitcoin/comments/1quuya7/im_still_up_but_must_hold/)**
+**[r u happy now?](https://www.reddit.com/r/Bitcoin/comments/1qv6zvl/r_u_happy_now/)**
 
-I’ve been watching bitcoin since $5000 back in 2017, and bought only a $1000, but I lost it by trying to trading and fees. Then it crashed, shot up again and was afraid of it. Saw it hit that low $4000s and didn’t think it would come back. Could have paid off all my loans if I wasn’t afraid to invest. Very cautious persons Two years ago I bought again, and then last year. I’m only up by $2000, and the feeing of selling is there again. I will not succumb to it again. If it drops, I will buy more. But damn that fear is tough. Just hold and buy more 🫡
+down down down
 
-7h ago
-
----
-
-**[Buying](https://www.reddit.com/r/Bitcoin/comments/1qv1s0r/buying/)**
-
-I buy straight from Venmo. This good/bad? Same as buying via other methods?
-
-3h ago
+1h ago
 
 ---
 
@@ -164,14 +164,6 @@ I buy straight from Venmo. This good/bad? Same as buying via other methods?
 Cryptocurrency markets fell as global equities and precious metals sold off while bitcoin liquidations exacerbated downside moves.
 
 CNBC • 1d ago
-
----
-
-**['Big Short' investor Michael Burry details the 'sickening scenarios' possible if bitcoin continues to fall](https://www.businessinsider.com/big-short-michael-burry-bitcoin-price-prediction-consequences-2026-2)**
-
-In the worst case scenario, crypto miners could go bankrupt and the metals market could plummet if bitcoin keeps falling, Michael Burry said.
-
-Business Insider • 7h ago
 
 ---
 
@@ -191,11 +183,27 @@ NBC News • 2h ago
 
 ---
 
-**[Software losses, value stocks, bitcoin slips: Market Takeaways](https://finance.yahoo.com/video/software-losses-value-stocks-bitcoin-221600724.html)**
+**[Erratic behavior in bitcoin, silver and memory stocks threatens to unnerve bull market](https://www.cnbc.com/2026/02/02/erratic-behavior-in-bitcoin-silver-and-memory-stocks-threatens-to-unnerve-bull-market.html)**
 
-US stocks (^DJI, ^IXIC, ^GSPC) closed Tuesday's session in negative territory as tech stocks stumble amid their latest wave of earnings results. Yahoo Finance Markets and Data Editor Jared Blikre breaks down the biggest market themes from today’s trading day, including the performance of software and semiconductor stocks, the contrasting trends between value and growth stocks, and bitcoin's (BTC-USD) slide lower. To watch more expert insights and analysis on the latest market action, check out more&nbsp;Asking for a Trend.
+For a broadly positive start to a year, though, there are a striking number of caveats, extremes and oddities for skeptics to invoke.
 
-Yahoo Finance • 1h ago
+CNBC • 1d ago
+
+---
+
+**['Big Short' investor Michael Burry details the 'sickening scenarios' possible if bitcoin continues to fall](https://finance.yahoo.com/news/big-short-investor-michael-burry-144035586.html)**
+
+In the worst case scenario, crypto miners could go bankrupt and the metals market could plummet if bitcoin keeps falling, Michael Burry said.
+
+Yahoo Finance • 8h ago
+
+---
+
+**[Michael Saylor’s High-Stakes Bitcoin Bet Faces Fresh Strain](https://finance.yahoo.com/news/michael-saylor-high-stakes-bitcoin-131749566.html)**
+
+For the first time since 2023, the token’s price has fallen below the average purchase cost of Michael Saylor’s leveraged Bitcoin proxy Strategy Inc. It’s a milestone that lands less with panic than with fatigue — a signal that the once-hyped model of perpetual Bitcoin accumulation through equity issuance is now colliding with an ever-more skeptical market.  It gave way as Bitcoin dropped below $76,000 on Saturday and again in Asia trading on Monday.  The breach underscored a deeper truth: with Strategy’s stock down roughly 70% from its peak, its equity premium gone and capital markets tightening, Saylor’s formula is under strain on every front.
+
+Yahoo Finance • 1d ago
 
 ---
 
@@ -207,19 +215,17 @@ Slate • 6h ago
 
 ---
 
-**[Strategy slides after bitcoin briefly dips below crypto firm's key breakeven level](https://www.cnbc.com/2026/02/02/strategy-slides-after-bitcoin-briefly-dips-below-crypto-firms-key-breakeven-level-.html)**
+**[MicroStrategy struggles ahead of earnings after latest Bitcoin crash](https://www.thestreet.com/crypto/markets/microstrategy-struggles-ahead-of-earnings-after-latest-bitcoin-crash)**
 
-Bitcoin fell as low as about $74,500 early Monday, dipping below Strategy's average purchase price of $76,052 per token.
+Bitcoin sees worst crash since November 2024.
 
-CNBC • 1d ago
+thestreet.com • 3h ago
 
 ---
 
-**[Why Michael Saylor Still Says Buy Bitcoin and Hold?](https://finance.yahoo.com/news/why-michael-saylor-still-says-165353001.html)**
+**[Crypto market volatility triggers $2.5 billion in bitcoin liquidations](https://www.reuters.com/markets/wealth/crypto-market-volatility-triggers-25-billion-bitcoin-liquidations-2026-02-02/)**
 
-Michael Saylor backs continued Bitcoin buying during recent price declines. The move reflects a clear stance on long-term value rather than short-term price action. The company’s approach demonstrates discipline amid volatility and highlights a strategy built on accumulation rather than market timing. Michael Saylor Reaffirms Bitcoin Buy-and-Hold Strategy Michael Saylor reaffirmed his commitment to keep
-
-Yahoo Finance • 6h ago
+Reuters • 1d ago
 
 ---
 
@@ -227,15 +233,7 @@ Yahoo Finance • 6h ago
 
 Another scary twist in the disappearance of "TODAY" host Savannah Guthrie's kidnapped mother ... TMZ has received an alleged ransom note demanding payment for the release of Nancy Guthrie.
 
-TMZ • 3h ago
-
----
-
-**[TMZ receives alleged ransom note demanding millions in Bitcoin for release of Nancy Guthrie](https://www.eastidahonews.com/2026/02/tmz-received-alleged-ransom-note-demanding-millions-in-bitcoin-for-release-of-nancy-guthrie/)**
-
-LOS ANGELES, California — TMZ says it has received an alleged ransom note demanding millions of dollars in Bitcoin for the release of Nancy Guthrie, the missing mother of “Today” show co-anchor Savannah Guthrie. According to the outlet, the note arrived Tuesday morning and instructed that a substantial amount of cryptocurrency be sent to a […]
-
-East Idaho News • 2h ago
+TMZ • 4h ago
 
 ---
 
@@ -349,7 +347,7 @@ Take Control of Your Retirement — Grow Crypto & Gold Tax-Advantaged. https://w
 
 📺 Bloomberg Television
 
-👁️ 4K • 👍 120 • 💬 60 • ⏱️ 7:56 • 2h ago
+👁️ 4K • 👍 120 • 💬 60 • ⏱️ 7:56 • 3h ago
 
 ---
 
@@ -369,7 +367,7 @@ ARK Invest executed major purchases in digital asset stocks on Monday. The firm 
 
 📺 Paul Barron Network
 
-👁️ 8K • 👍 1K • 💬 157 • ⏱️ 20:54 • 2h ago
+👁️ 8K • 👍 1K • 💬 157 • ⏱️ 20:54 • 3h ago
 
 ---
 
@@ -387,7 +385,7 @@ I'm the guy who told you to buy $1 of Bitcoin in 2011 when it was $1. That video
 
 📺 Davinci Jeremie
 
-👁️ 5K • 👍 301 • 💬 98 • ⏱️ 9:44 • 6h ago
+👁️ 5K • 👍 301 • 💬 98 • ⏱️ 9:44 • 7h ago
 
 ---
 

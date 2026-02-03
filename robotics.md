@@ -3,7 +3,7 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-02-03T23:29:01.269438+00:00'
+updated: '2026-02-03T23:54:24.410728+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
@@ -17,7 +17,7 @@ data_types:
 
 Robotics research and industry news
 
-**Last Updated:** February 03, 2026 at 23:29 UTC  
+**Last Updated:** February 03, 2026 at 23:54 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -32,19 +32,19 @@ Robotics research and industry news
 
 ## Reddit: r/robotics
 
-**[MirrorMe claims the world’s fastest humanoid at 10m/s (22.4 mph - 36 km/h)](https://www.reddit.com/r/robotics/comments/1quomj5/mirrorme_claims_the_worlds_fastest_humanoid_at/)**
-
-From RoboHub🤖 on 𝕏: https://x.com/XRoboHub/status/2018281195063419225 Previous post with MirrorMe robot dog at 13.4 m/s: https://www.reddit.com/r/robotics/comments/1pvek2r/the_black_panther_ii_robot_dog_hits_134_ms/
-
-12h ago
-
----
-
 **[Joints made with rolling contact surfaces](https://www.reddit.com/r/robotics/comments/1quvbyp/joints_made_with_rolling_contact_surfaces/)**
 
 See this LINK. Cool article about a new design for robot joints that roll instead of pivoting like normal hinges. Seems like a very practical design that would be easy to make with 3D printing, and can be passive or motor-driven. The joints use specially shaped (non-circular) rolling surfaces that can be “programmed” to move in very specific ways. Compared to regular joints, these rolling joints can follow complex paths much more accurately The joints can also change how force is transmitted, giving more strength where it’s needed and more speed elsewhere. From this academic article:C.J. Decker, T.G. Chen, M.C. Yuen, & R.J. Wood, Noncircular rolling contact joints enable programmed behavior in robotic linkages, Proc. Natl. Acad. Sci. U.S.A. https://doi.org/10.1073/pnas.2521406123 (2026). The authors show that a joint designed this way can closely match the motion of a human knee, far better than standard hinges. They also build a robotic gripper that can lift over three times more weight than a similar gripper with ordinary joints.
 
-7h ago
+8h ago
+
+---
+
+**[MirrorMe claims the world’s fastest humanoid at 10m/s (22.4 mph - 36 km/h)](https://www.reddit.com/r/robotics/comments/1quomj5/mirrorme_claims_the_worlds_fastest_humanoid_at/)**
+
+From RoboHub🤖 on 𝕏: https://x.com/XRoboHub/status/2018281195063419225 Previous post with MirrorMe robot dog at 13.4 m/s: https://www.reddit.com/r/robotics/comments/1pvek2r/the_black_panther_ii_robot_dog_hits_134_ms/
+
+13h ago
 
 ---
 
@@ -52,7 +52,15 @@ See this LINK. Cool article about a new design for robot joints that roll instea
 
 F450 overall Drone weight - 976gram Motor - A2212 - 1400kv Esc-30A Prop - 8inch Battery - 3S, 3500mah Will it lift? Or should i go for 1000kv bldc motor
 
-3h ago
+4h ago
+
+---
+
+**[OpenClaw + RealSense + QWEN + ROS = Physical AI](https://www.reddit.com/r/robotics/comments/1qv7byt/openclaw_realsense_qwen_ros_physical_ai/)**
+
+Mind Blown! Have you heard about ClawdBot now called OpenClaw? It’s an open source personal AI assistant with over 150k stars on GitHub. I connected a RealSense camera to it and my robot started following me!
+
+51m ago
 
 ---
 
@@ -72,41 +80,33 @@ Watch Marvelmind Boxie robots in a high-precision chase. Each autonomous robot u
 
 ---
 
-**[When would I be able to build my own robot, similar to building a pc.](https://www.reddit.com/r/robotics/comments/1quuz5h/when_would_i_be_able_to_build_my_own_robot/)**
+**[ROS 2 DDS Understanding](https://www.reddit.com/r/robotics/comments/1qv8k8v/ros_2_dds_understanding/)**
 
-90s kids here, I love the way robotics is moving and was wondering when if I would be able to build my own robot as simply as assembling a PC. Is this possible in future? If yes? What would be the tentative timeline? Any educational guess.
+Hi, I’m noticing that lately the projects I’ve been working on in my lab involve connecting devices to one another or using the cloud. Today I discovered that ROS2 uses DDS like a distributed system and that robots can talk to one another freely through discovery when on the same domain over the same network. Any recommendations on supplemental learning for computer networking to understand all these things better? It still feels like black magic. I watched a video on how the internet works and it was cool but I’m sure there’s more to that.
 
-7h ago
-
----
-
-**[PeppyOS: a simpler alternative to ROS 2 for experimentation and production](https://www.reddit.com/r/robotics/comments/1qus9oj/peppyos_a_simpler_alternative_to_ros_2_for/)**
-
-Hey everyone, Over the past few months I’ve been working on this project, a replacement for ROS 2. While ROS 2 is powerful, I often found myself fighting complexity when I just wanted a few nodes to communicate reliably or work with the different tools ROS 2 offers. That experience pushed me to explore a different approach: a much simpler stack, built with modern tooling, that’s easy to understand and still works at scale. The goal is that someone new can grasp the core ideas and start writing robot nodes in about half an hour (no ROS 2 prior knowledge required). The website walks through the concepts and setup step by step. For the moment all the examples are in Rust, but Python support is coming soon! I’d love to hear feedback from people working in robotics, especially what you find appealing or questionable about this approach.
-
-9h ago
+1m ago
 
 ---
 
-**[Isaac sim simulation bag issue](https://www.reddit.com/r/robotics/comments/1qv3z6a/isaac_sim_simulation_bag_issue/)**
+**[IsaacLab/Sim: Need help getting this robot to move.](https://www.reddit.com/r/robotics/comments/1qv8h8y/isaaclabsim_need_help_getting_this_robot_to_move/)**
 
-2h ago
-
----
-
-**[Soft Robotics: SOFA vs…](https://www.reddit.com/r/robotics/comments/1qv2jpj/soft_robotics_sofa_vs/)**
-
-Hi all! I am starting a research activity about concentric tube robots, a continuum robot well known in literature with a lot of interests in fields like medical robotics and so on. My work will explore the modelling part using Cosserat Rod Theory to discretize it and the design of a proper control strategy. In the end, it should work in teleoperation to tease tissues and perform some tasks inside a patient, so I would like to simulate it. i did an academic project last year on SOFA introducing a liver model and a 3 tubes CTR using the BeamAdapter plugin (using the Kirchoff rod theory If I’m not wrong) trying to simulate the interaction between them and the contact forces arising, assuming a Nitinol made CTR. In truth, SOFA is good at this but it is not so spreaded around and I feel a lot isolate into my problems. Plus, there is not so much that I think can be done about introducing Cosserat and trying some reinforcement learning framework. But who knows? I would like to ask if anybody works in soft robotics and could suggest which is the best framework and where to study some useful material. I found also Matlab with SoRoSim and simscape: perhaps is it a good solution? Thank you!
-
-3h ago
+4m ago
 
 ---
 
-**[Inside a High School Robotics Competition](https://www.reddit.com/r/robotics/comments/1quz5nt/inside_a_high_school_robotics_competition/)**
+**[High Torque Motors?](https://www.reddit.com/r/robotics/comments/1qv80au/high_torque_motors/)**
 
-The film follows a high school VEX Robotics team competing at a world-qualifying event with teams from around the United States and other countries. Teams are responsible for building, programming, and repairing their robots under tight time constraints. In this case, the robots were built in roughly two and a half weeks, about half of a typical build cycle. Students take on different roles across the team, including driving, mechanical work, programming, and coordination. Between matches, teams adjust hardware, update autonomous routines, and review match performance. Communication within the team is emphasized as a necessary part of operating in a high-pressure environment. Alliance selection determines which teams advance to elimination rounds. The team featured is not initially selected and must wait through multiple rounds before being chosen as a replacement, allowing them to continue competing. The event is presented as part of a broader effort to introduce students to robotics, automation, and engineering skills.
+I’m working on building an Exo-Skeleton to my arm and then connecting these motors to a custom spool of Paracord (To fit the new motors) that when it retracts it tightens slack more and more up my arm. In theory it should allow me to lift more in that arm. (I’m not sure if those physics check out but it’s my first big project so we’ll see) but anyways, back to the post. I’m worried my current 030 DC motors will be too weak even with the gear box I built to increase the torque. So if anyone has any recommendations for where I can buy some strong motors like that it would be great. Thanks! (Also speed isn’t really a concern at the price of higher torque.)
 
-5h ago
+23m ago
+
+---
+
+**[Open Source teleops, navigation, slam, ai and configurable web ui for ROS2 legged robots.](https://www.reddit.com/r/robotics/comments/1qv7nd8/open_source_teleops_navigation_slam_ai_and/)**
+
+Hey r/robotics, I'm the founder of BotBot. For the past year we've been building a system we call BotBrain, and we just open-sourced it. The idea is pretty simple: we wanted one platform that works across different types of legged robots. Right now we support quadrupeds like the Unitree Go2, humanoids like the G1, and bipeds like the Direct Drive Tita. It's all ROS2 based, so adding your own robot should be easy. BotBrain handles the stuff that's annoying to set up every time. Nav2 and RTABMap for autonomous navigation, a web UI for control and monitoring, mission planning, health diagnostics, ai, configs and a bunch more. We also designed 3D-printable backpack to mount a Jetson and RealSense cameras, so you can get the whole thing running on your robot pretty quickly. It's MIT licensed and everything is on GitHub. Easy to add new robots and build plugins, extras... Github repo: https://github.com/botbotrobotics/BotBrain 1h autonomous navigation demo: https://www.youtube.com/watch?v=VBv4Y7lat8Y Happy to answer questions any of you may have and wed love to see what you build with BotBrain.
+
+38m ago
 
 ---
 
@@ -154,14 +154,6 @@ Nikkei Asia • 1d ago
 
 ---
 
-**[Slip Robotics Brings Autonomous Loading to More Routes with SlipLift](https://finance.yahoo.com/news/slip-robotics-brings-autonomous-loading-174200704.html)**
-
-ATLANTA, February 03, 2026--Slip Robotics announced SlipLift, a new platform designed to extend autonomous trailer loading and unloading beyond short-haul, high-frequency routes to heavier freight, regional distribution, and last mile delivery applications. SlipLift brings Slip’s hallmark speed, safety, and simplicity to a broader set of dock operations without requiring changes to facilities, trailers, or IT infrastructure.
-
-Yahoo Finance • 5h ago
-
----
-
 **[FedEx Launches Berkshire Grey’s Fully Autonomous Robotic Trailer Unloader for a Safer and Smarter Workplace](https://newsroom.fedex.com/newsroom/global-english/fedex-launches-berkshire-greys-fully-autonomous-robotic-trailer-unloader-to-create-a-safer-and-more-efficient-workplace)**
 
 The system will be deployed in calendar year 2026 following multi-year collaboration.
@@ -174,7 +166,7 @@ FedEx newsroom • 6h ago
 
 Moya, a humanoid robot unveiled in Shanghai, is designed to walk, smile, and interact like a human using embodied AI.
 
-Interesting Engineering • 9h ago
+Interesting Engineering • 10h ago
 
 ---
 
@@ -186,9 +178,17 @@ CNBC • 2d ago
 
 ---
 
+**[Funding surge powers Chinese robotics firms as focus shifts to humanoid ‘brains’](https://www.scmp.com/tech/article/3342246/funding-surge-powers-chinese-robotics-firms-focus-shifts-humanoid-brains)**
+
+State-backed funds, Big Tech drive fresh capital into robotics companies, betting on operating systems that underpin humanoid intelligence.
+
+South China Morning Post • 11h ago
+
+---
+
 **[Overland AI Raises $100 Million to Speed Up Use of Military Land Robots](https://www.bloomberg.com/news/articles/2026-02-03/overland-ai-raises-100m-to-speed-up-use-of-military-land-robots)**
 
-Bloomberg.com • 7h ago
+Bloomberg • 7h ago
 
 ---
 
@@ -252,7 +252,7 @@ Humanoid robotics just took a massive leap into the real world. Researchers in C
 
 📺 AI Revolution
 
-👁️ 137K • 👍 1K • 💬 277 • ⏱️ 14:25 • 3d ago
+👁️ 137K • 👍 1K • 💬 277 • ⏱️ 14:25 • 4d ago
 
 ---
 
@@ -280,7 +280,7 @@ This robotics stock is seeing some strong stock market support from institutions
 
 📺 MarketBeat
 
-👁️ 849 • 👍 14 • ⏱️ 0:47 • 3h ago
+👁️ 849 • 👍 14 • ⏱️ 0:47 • 4h ago
 
 ---
 
