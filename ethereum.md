@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-02-03T05:35:33.084595+00:00'
+updated: '2026-02-03T06:54:08.194577+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- news
-- cryptocurrency
-- social
 - videos
+- cryptocurrency
+- news
+- social
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** February 03, 2026 at 05:35 UTC  
+**Last Updated:** February 03, 2026 at 06:54 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -36,43 +36,51 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Price
 
-### $2,325.36
+### $2,322.11
 
 ---
 
 ## Ethereum Chart
 
-**24h:** +4.6%  
-**7d:** -22.7%  
-**30d:** -27.8%  
-**90d:** -29.8%  
-**1y:** -15.0%  
+**24h:** +3.9%  
+**7d:** -22.9%  
+**30d:** -28.0%  
+**90d:** -30.0%  
+**1y:** -15.2%  
 
 ---
 
 ## Ethereum Market Stats
 
-**Market Cap:** $282.30B
+**Market Cap:** $279.83B
 Rank #2
 
 **Circulating Supply:** 120,693,657 ETH
 No max supply
 
 **All-Time High:** $4,946.05
--52.8%
+-53.1%
 
 **All-Time Low:** $0.43
-+539406.5%
++535775.9%
 
 ---
 
 ## Reddit: r/ethereum
 
+**[Daily General Discussion February 03, 2026](https://www.reddit.com/r/ethereum/comments/1quk1p6/daily_general_discussion_february_03_2026/)**
+
+Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
+
+52m ago
+
+---
+
 **[In 2016, Ethereum faced "code is law" vs "fix the damage." Ten years later, I'm watching the same debate play out in a GitHub repo.](https://www.reddit.com/r/ethereum/comments/1qu6ahw/in_2016_ethereum_faced_code_is_law_vs_fix_the/)**
 
 In June 2016, someone drained ~$60M from The DAO - a decentralized investment fund built on Ethereum. They didn't hack Ethereum itself. They exploited a recursive calling bug in the smart contract's own logic. The code allowed it. That's what made it a crisis. If "code is law," the attacker didn't do anything wrong. The contract ran as written. But $60M was gone and real people lost real money. Ethereum had to choose: reverse the blockchain to return the funds, or let it stand because the code permitted it. The community voted to hard fork - rewrite history and undo the damage. The people who refused to accept that kept running the original chain. That's how Ethereum Classic was born. The question at the center of it all: when your system is broken and the fix is known, do you break the rules to fix it, or do you let the rules play out even while the system burns? I'm watching a tiny version of this happen right now. I run OpenChaos - a GitHub repo where anyone submits a PR, the community votes with reactions, and the most-voted PR merges daily. No gatekeeping. Pure popular vote. 911 stars, 70+ open PRs, five weeks in. Last Friday, PR #62: "1.337% chance to see nothing" won the daily vote and merged. Three lines of code: if (Math.random() <= 0.01337) { return null; } A leet joke. 1.337% of the time, a visitor sees a blank page. Funny, harmless, right? The site caches server-side. When the page returns null, the cache treats the blank page as permanent. One unlucky render broke the site for every visitor, indefinitely. Not a 5-minute blip. A permanent outage from a 1.337% roll. A contributor diagnosed the root cause and submitted PR #173 - a clean fix, CI passes, no conflicts. But PR #173 has fewer votes than a DOOM port and a Rickroll. The fix has to wait its turn in the democratic queue. The site stays broken while the community votes on entertainment over infrastructure. One community member commented: "I am torn between fixing things quickly and letting the rules play out to see when the fix comes naturally. I want to see the naturally emergent behaviour." Sound familiar? Then it got more interesting. The contributor who wrote the fix also had another PR in the queue that was about to merge. He could have bundled the bugfix into that PR and shipped it quietly. He refused: "I considered adding this fix to #129, but it doesn't feel like it's in the spirit of the project. Even if it's a 'good' trojan horse, it's still a trojan horse." But another contributor made the opposite choice. The author of the DOOM port deliberately bundled the bugfix into their submission. If it merges tomorrow, the site comes back online - not through governance, but through the exact Trojan horse tactic the first contributor refused on principle. Two contributors. Same option. Opposite choices. Obviously nobody's losing $60M here. But the structure is the same: A system running as designed produces an unintended outcome The fix is known and ready The rules don't allow a fast path to deploy it The community has to decide: break the process or trust the process I opened Issue #176 proposing that only contributors with merged PRs should be allowed to vote - earned governance instead of open popularity contests. The debate is live. Questions I keep thinking about: Is there a middle ground between "code is law, let it burn" and "maintainer override"? Something that keeps democratic legitimacy while allowing fast response to emergencies? For those who lived through the DAO debate - looking back, what would you tell a small project facing its first "do we fork our own rules" moment? The repo: github.com/skridlevsky/openchaos The governance discussion: Issue #176 The broken site (may or may not be blank when you visit): openchaos.dev
 
-9h ago
+10h ago
 
 ---
 
@@ -80,13 +88,13 @@ In June 2016, someone drained ~$60M from The DAO - a decentralized investment fu
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-23h ago
+1d ago
 
 ---
 
 **[How a premature software standard has led to billions in losses](https://www.reddit.com/r/ethereum/comments/1qtw9fe/how_a_premature_software_standard_has_led_to/)**
 
-🔗 [hugo0.com](https://hugo0.com/blog/how-erc20-held-back-blockchain-payments-a-decade) • 15h ago
+🔗 [hugo0.com](https://hugo0.com/blog/how-erc20-held-back-blockchain-payments-a-decade) • 16h ago
 
 ---
 
@@ -94,7 +102,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 i’ve been working on a yield/token architecture that tries to be very explicit about separation of concerns, and i’m mostly looking for feedback from people who are already uncomfortable with how tightly coupled most defi tokens are today. the basic premise is simple: the token contract should not know or care about yield. no rebases, no transfer hooks, no strategy logic bleeding into balance accounting. instead, all yield is routed through a single on-chain component that handles normalization, accounting, and distribution according to policy. i ended up implementing this as a modular system with a canonical “revenue router”: the base token is just erc20 + voting, nothing else all yield sources plug into a router instead of the token yield gets normalized into a treasury asset before distribution distribution is policy-driven (buybacks, staking, hybrid), not hardcoded yield sources are plugins with tiered trust and execution limits failure isn’t implicit: plugins can be quarantined without nuking the system the goal isn’t yield maximization per se, but predictable value accrual with reduced blast radius. plugins can be permissionless, but they don’t all get the same authority. everything that touches value has explicit constraints. accounting is deterministic. no component can “surprise” the token. i wrote all of this up as a whitepaper (vastitas) and tried to be very concrete about invariants, routing rules, quarantine mechanics, and trade-offs, including some simulated comparisons against monolithic tokens and yield aggregators i’m not trying to sell this as obviously correct. i’m more interested in whether this direction resonates with people who think long-term token sustainability is more about architecture than clever incentives. i made a faulty deployment on arbitrum and a half working one on base. nothing is finalized. i’m mainly looking to pressure-test the ideas with people who agree that this might be a good project. feel free to poke holes, challenge assumptions, or point me to similar work i might have missed.
 
-5h ago
+7h ago
 
 ---
 
@@ -102,7 +110,7 @@ i’ve been working on a yield/token architecture that tries to be very explicit
 
 Should I be staking 100% of my Ethereum? Can someone explain to me like im 5 what this means? Apologies if this type of post is not allowed, moderators.
 
-12h ago
+13h ago
 
 ---
 
@@ -110,7 +118,7 @@ Should I be staking 100% of my Ethereum? Can someone explain to me like im 5 wha
 
 Re https://firefly.social/post/x/2018205196568944653 I actually don't think it's complicated. IMO the future of onchain mechanism design is mostly going to fit into one pattern: [something that looks like a prediction market] -> [something that looks like a capture-resistant, non-financialized preference-setting gadget] In other words: One layer that is maximally open and maximizes accountability (it's a market, anyone can buy and sell, if you make good decisions you win money if you make bad decisions you lose money) One layer that is decentralized and pluralistic, and that maximizes space for intrinsic motivation. This cannot be token-based, because token owners are not pluralistic, and anyone can buy in and get 51% of them. Votes here should be anonymous, ideally MACI'd to reduce risk of collusion. The prediction market is the correct way to do a "decentralized executive", because the most logical primitive for "accountability" in a permissionless concept is exactly that. Though sometimes you will want to keep it simple, and do a centralized executive at that layer instead: [replaceable centralized executive] -> [something that looks like a capture-resistant, non-financialized preference-setting gadget] Thinking in these two layers explicitly: (i) what is doing your execution, (ii) what is doing your preference-setting and is judging the executor(s), is best.
 
-23h ago
+1d ago
 
 ---
 
@@ -122,7 +130,7 @@ Re https://firefly.social/post/x/2018205196568944653 I actually don't think it's
 
 **[Where can I sell an unused gift card for crypto?](https://www.reddit.com/r/ethereum/comments/1qtu5js/where_can_i_sell_an_unused_gift_card_for_crypto/)**
 
-16h ago
+18h ago
 
 ---
 
@@ -130,15 +138,7 @@ Re https://firefly.social/post/x/2018205196568944653 I actually don't think it's
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-1d ago
-
----
-
-**[How I would do creator coins](https://www.reddit.com/r/ethereum/comments/1qsysag/how_i_would_do_creator_coins/)**
-
-We've seen about 10 years of people trying to do content incentivization in crypto, from early-stage platforms like Bihu and Steemit, to BitClout in 2021, to Zora, to tipping features inside of decentralized social, and more. So far, I think we have not been very successful, and I think this is because the problem is fundamentally hard. First, my view of what the problem is. A major difference between doing "creator incentives" in the 00s vs doing them today, is that in the 00s, a primary problem was having not enough content at all. In the 20s, there's plenty of content, AI can generate an entire metaverse full of it for like $10. The problem is quality. And so your goal is not incentivizing content, it's surfacing good content. Personally, I think that the most successful example of creator incentives we've seen is Substack. To see why, take a look at the top 10: https://substack.com/leaderboard/technology/paid https://substack.com/leaderboard/culture/paid https://substack.com/leaderboard/world-politics/paid Now, you may disagree with many of these authors. But I have no doubt that: They are on the whole high quality, and contribute positively to the discussion They are mostly people who would not have been elevated without Substack's presence So Substack is genuinely surfacing high quality and pluralism. Now, we can compare to creator coin projects. I don't want to pick on a single one, because I think there's a failure mode of the entire category. For example: Top Zora creator coins: https://www.coingecko.com/en/categories/zora-creator-coins BitClout: https://www.businessofbusiness.com/articles/inside-the-rise-of-bitclout-a-crypto-based-social-network-influencers-andreessen-horowitz-sequoia/#:~:text=Most%20of%20the,about%20BitClout%E2%80%99s%20users Basically, the top 10 are people who already have very high social status, and who are often impressive but primarily for reasons other than the content they create. At the core, Substack is a simple subscription service: you pay $N per month, and you get to see the person's articles. But a big part of Substack's success is that they did not just set the mechanism and forget. Their launch process was very hands-on, deliberately seeding the platform with high-quality creators, based on a very particular vision of what kind of high-quality intellectual environment they wanted to foster, including giving selected people revenue guarantees. So now, let's get to one idea that I think could work (of course, coming up with new ideas is inherently a more speculative project than criticizing existing ones, and more prone to error). Create a DAO, that is not token-based. Instead, the inspiration should be Protocol Guild: there are N members, and they can (anonymously) vote new members in and out. If N gets above ~200, consider auto-splitting it. Importantly, do not try to make the DAO universal or even industry-wide. Instead, embrace the opinionatedness. Be okay with having a dominant type of content (long-form writing, music, short-form video, long-form video, fiction, educational...), and be okay with having a dominant style (eg. country or region of origin, political viewpoint, if within crypto which projects you're most friendly to...). Hand-pick the initial membership set, in order to maximize its alignment with the desired style. The goal is to have a group that is larger than one creator and can accumulate a public brand and collectively bargain to seek revenue opportunities, but at the same time small enough that internal governance is tractable. Now, here is where the tokens come in. In general, one of my hypotheses this decade is that a large portion of effective governance mechanisms will all have the form factor of "large number of people and bots participating in a prediction market, with the output oracle being a diverse set of people optimized for mission alignment and capture resistance". In this case, what we do is: anyone can become a creator and create a creator coin, and then, if they get admitted to a creator DAO, a portion of their proceeds from the DAO are used to burn their creator coins. This way, the token speculators are NOT participating in a recursive-speculation attention game backed only by itself. Instead, they are specifically being predictors of what new creators the high-value creator DAOs will be willing to accept. At the same time, they also provide a valuable service to the creator DAOs: they are helping surface promising creators for the DAOs to choose from. So the ultimate decider of who rises and falls is not speculators, but high-value content creators (we make the assumption that good creators are also good judges of quality, which seems often true). Individual speculators can stay in the game and thrive to the extent that they do a good job of predicting the creator DAOs' actions.
-
-1d ago
+2d ago
 
 ---
 
@@ -150,7 +150,7 @@ We've seen about 10 years of people trying to do content incentivization in cryp
 
 Publicly traded Ethereum treasury BitMine Immersion Technologies is still buying as ETH plunges, despite the firm's growing losses.
 
-Yahoo Finance • 13h ago
+Yahoo Finance • 14h ago
 
 ---
 
@@ -162,11 +162,19 @@ CoinDesk • 1d ago
 
 ---
 
-**[Ethereum Falls 10% In Selloff](https://www.investing.com/news/cryptocurrency-news/ethereum-falls-10-in-selloff-4477658)**
+**[Prediction: 2026 Will Be the Year of Ethereum (ETH)](https://finance.yahoo.com/news/prediction-2026-ethereum-eth-142300297.html)**
 
-Ethereum Falls 10% In Selloff
+The adoption, technology, and regulation stars may all align for Ethereum this year.
 
-Investing.com • 2d ago
+Yahoo Finance • 16h ago
+
+---
+
+**[Ethereum Falls 10% In Rout](https://www.investing.com/news/cryptocurrency-news/ethereum-falls-10-in-rout-4477776)**
+
+Ethereum Falls 10% In Rout
+
+Investing.com • 1d ago
 
 ---
 
@@ -190,7 +198,7 @@ CryptoSlate • 1d ago
 
 Ether may be hurting, but the founder is thinking years ahead.
 
-AMBCrypto • 6h ago
+AMBCrypto • 7h ago
 
 ---
 
@@ -198,31 +206,21 @@ AMBCrypto • 6h ago
 
 The shift came amid heavy liquidations and market trends favoring Bitcoin under macro pressure.
 
-Stocktwits • 18h ago
+Stocktwits • 20h ago
 
 ---
 
-**[Crypto Crash: Liquidations Top $2.5 Billion as Bitcoin, Ethereum and XRP Prices Plummet](https://decrypt.co/356557/crypto-crash-liquidations-2-5-billion-bitcoin-ethereum-xrp-plummet)**
+**[Ethereum Price Could Crash 16% Because of This Action](https://beincrypto.com/ethereum-selling-could-validate-price-crash/)**
 
-The crypto market's recent decline only accelerated Saturday, with Bitcoin falling to nearly $77,000 as liquidations piled up.
+Ethereum faces heavy selling pressure as $2.8 billion whale distribution raises risks of a 16% price correction.
 
-Decrypt • 2d ago
-
----
-
-**[Why are Bitcoin, Ethereum and XRP Prices Crashing Today?](https://www.tradingview.com/news/coinpedia:b99ef7f8a094b:0-why-are-bitcoin-ethereum-and-xrp-prices-crashing-today/)**
-
-The crypto market is facing a major sell-off today, with total market value dropping to $2.66 trillion, down more than 6% in the last 24 hours. Bitcoin, Ethereum, XRP and other major cryptocurrencies have all fallen sharply, wiping out nearly $500 billion from the market in just a few days.The bigg…
-
-TradingView • 1d ago
+BeInCrypto • 2d ago
 
 ---
 
-**[Crypto Rebound: How High Can Bitcoin, Ethereum and XRP Prices Go Next?](https://coinpedia.org/news/crypto-rebound-how-high-can-bitcoin-ethereum-and-xrp-prices-go-next/)**
+**[Ethereum Founder Vitalik Sold $ETH Again 😩](https://www.binance.com/en/square/post/35944641160874)**
 
-The crypto market has turned green over the last 24 hours, offering some relief after a sharp sell-off earlier this week. Total market value has climbed
-
-Coinpedia Fintech News • 12h ago
+Binance • 1h ago
 
 ---
 
@@ -236,17 +234,7 @@ Tom Lee Just Said The UNTHINKABLE About Bitcoin & Ethereum! ["It's a Fake Crash"
 
 📺 Crypto Nutshell
 
-👁️ 9K • 👍 375 • 💬 50 • ⏱️ 18:04 • 14h ago
-
----
-
-**[🚨 Tom Lee: &quot;Bitcoin Won&#39;t SURVIVE 20 Years - Ethereum Takes Over SOON!&quot;](https://www.youtube.com/watch?v=PzhNsuwEyDw)**
-
-Tom Lee: "Bitcoin Won't SURVIVE 20 Years - Ethereum Takes Over SOON!" SHOCKING confession from Wall Street's Bitcoin bull ...
-
-📺 Market Crash Alerts
-
-👁️ 1K • 👍 16 • 💬 6 • ⏱️ 13:03 • 16h ago
+👁️ 10K • 👍 388 • 💬 110 • ⏱️ 18:04 • 15h ago
 
 ---
 
@@ -256,7 +244,7 @@ BITCOIN CRASH JUST FLIPPED (Trading Strategy Revealed)!!! - Bitcoin News Today, 
 
 📺 Crypto World
 
-👁️ 6K • 👍 293 • 💬 138 • ⏱️ 23:54 • 7h ago
+👁️ 7K • 👍 322 • 💬 141 • ⏱️ 23:54 • 9h ago
 
 ---
 
@@ -266,7 +254,27 @@ This video provides a professional Elliott Wave and technical analysis of Ethere
 
 📺 More Crypto Online
 
-👁️ 1K • 👍 134 • 💬 11 • ⏱️ 5:14 • 6h ago
+👁️ 2K • 👍 153 • 💬 12 • ⏱️ 5:14 • 7h ago
+
+---
+
+**[&quot;Why I&#39;m Loading Up MASSIVELY In Ethereum Before MARCH&quot; - Tom Lee (4 WEEKS LEFT!)](https://www.youtube.com/watch?v=UjCE1TUJ4lI)**
+
+My FREE Daily On-Chain Analysis & Crypto News In 5-Mins: https://www.cryptonutshell.com/subscribe You can NOW ...
+
+📺 Jamie Tree 
+
+👁️ 4K • 👍 90 • 💬 21 • ⏱️ 18:25 • 2d ago
+
+---
+
+**[Why Ethereum Could Drop Below $2,100 – Urgent Alert](https://www.youtube.com/watch?v=5cKFju6wwhQ)**
+
+Get $450 Off Our New AI Indicators: https://tradeconfidentportal.io/indic... Join Trade Confident: Get 25% Off Your 1st Month: ...
+
+📺 Trade Confident
+
+👁️ 326 • 👍 27 • 💬 4 • ⏱️ 6:14 • 10h ago
 
 ---
 
@@ -276,7 +284,7 @@ Free Milk Road Newsletters: ...
 
 📺 Milk Road
 
-👁️ 13K • 👍 337 • 💬 30 • ⏱️ 15:51 • 1d ago
+👁️ 13K • 👍 342 • 💬 30 • ⏱️ 15:51 • 1d ago
 
 ---
 
@@ -286,17 +294,7 @@ After getting chopped up in ETH shorts over the past few months, I found a momen
 
 📺 Taiki Maeda
 
-👁️ 13K • 👍 690 • 💬 189 • ⏱️ 48:54 • 1d ago
-
----
-
-**[BITCOIN AND ETH: LAST CHANCE TO RECOVER!!!! 🚨🚨🚨 (MicroStrategy REKT)](https://www.youtube.com/watch?v=bLiHfECZH3k)**
-
-FREE TRAINING: https://www.bullmania.com EXCHANGES I USE (bybit, pionex): https://www.bullmania.com/partners My ...
-
-📺 Ivan on Tech
-
-👁️ 27K • 👍 2K • 💬 171 • ⏱️ 46:08 • 19h ago
+👁️ 13K • 👍 708 • 💬 191 • ⏱️ 48:54 • 1d ago
 
 ---
 
@@ -306,7 +304,7 @@ This video provides a professional Elliott Wave and technical analysis of Ethere
 
 📺 More Crypto Online
 
-👁️ 3K • 👍 219 • 💬 6 • ⏱️ 4:10 • 16h ago
+👁️ 3K • 👍 221 • 💬 6 • ⏱️ 4:10 • 17h ago
 
 ---
 
@@ -316,17 +314,17 @@ FREE Daily On-Chain Analysis & Crypto News In 5-Mins: http://bit.ly/TheCryptoNut
 
 📺 Library Of Wealth
 
-👁️ 7K • 👍 158 • 💬 202 • ⏱️ 15:18 • 1d ago
+👁️ 7K • 👍 160 • 💬 202 • ⏱️ 15:18 • 1d ago
 
 ---
 
-**[Tom Lee: This Is a Fake Sell-off! The Bull Run Continues By THIS Date](https://www.youtube.com/watch?v=af5DO4Y_8cc)**
+**[Ethereum Elliott Wave Update – Key Resistance Levels Ahead](https://www.youtube.com/watch?v=DUSA5M4i43M)**
 
-My FREE Daily 5-Min Crypto Newsletter: https://www.cryptonutshell.com/subscribe Cold Storage Wallet: ...
+This video provides a professional Elliott Wave and technical analysis of Ethereum (ETH), focusing on market structure, major ...
 
-📺 Crypto Nutshell
+📺 More Crypto Online
 
-👁️ 23K • 👍 832 • 💬 115 • ⏱️ 21:16 • 1d ago
+👁️ 4K • 👍 255 • 💬 19 • ⏱️ 5:18 • 1d ago
 
 ---
 
