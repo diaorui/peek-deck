@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-02-03T11:35:40.810923+00:00'
+updated: '2026-02-03T13:03:49.979415+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
 - social
 - repositories
-- news
 - videos
+- news
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** February 03, 2026 at 11:35 UTC  
+**Last Updated:** February 03, 2026 at 13:03 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -41,7 +41,7 @@ AI news, discussions, and developments
 
 For those of you who aren't familiar with SurfSense, it aims to be OSS alternative to NotebookLM, Perplexity, and Glean. In short, it is NotebookLM for teams, as it connects any LLM to your internal knowledge sources (search engines, Drive, Calendar, Notion, Obsidian, and 15+ other connectors) and lets you chat with it in real time alongside your team. I'm looking for contributors. If you're interested in AI agents, RAG, browser extensions, or building open-source research tools, this is a great place to jump in. Here's a quick look at what SurfSense offers right now: Features Self-Hostable (with docker support) Real Time Collaborative Chats Real Time Commenting Deep Agentic Agent RBAC (Role Based Access for Teams Members) Supports Any LLM (OpenAI spec with LiteLLM) 6000+ Embedding Models 50+ File extensions supported (Added Docling recently) Local TTS/STT support. Connects with 15+ external sources such as Search Engines, Slack, Notion, Gmail, Notion, Confluence etc Cross-Browser Extension to let you save any dynamic webpage you want, including authenticated content. Upcoming Planned Features Slide Creation Support Multilingual Podcast Support Video Creation Agent GitHub: https://github.com/MODSetter/SurfSense
 
-4h ago
+6h ago
 
 ---
 
@@ -49,7 +49,7 @@ For those of you who aren't familiar with SurfSense, it aims to be OSS alternati
 
 Open-source voice cloning + multi-speaker podcast tool. GPT 5.2 generates scripts, Qwen3-TTS handles synthesis locally. Modular architecture - swap the LLM for Llama, Mistral, whatever. GitHub: https://github.com/bc-dunia/qwen3-TTS-studio
 
-7h ago
+8h ago
 
 ---
 
@@ -57,7 +57,7 @@ Open-source voice cloning + multi-speaker podcast tool. GPT 5.2 generates script
 
 With the concerns raised over comments by Mozilla's new CEO with wanting to evolve Firefox into a 'modern AI browser',  the Firefox 148 release due out later this month aims to address some of those concerns by having a new AI controls area within the web browser's settings.
 
-🔗 [phoronix.com](https://www.phoronix.com/news/Firefox-148-AI-Controls) • 14h ago
+🔗 [phoronix.com](https://www.phoronix.com/news/Firefox-148-AI-Controls) • 16h ago
 
 ---
 
@@ -65,15 +65,7 @@ With the concerns raised over comments by Mozilla's new CEO with wanting to evol
 
 Looking for AI tool that can convert an image of a table/diagram into modifiable ppt, where I can download it as pptx and modify the shapes/texts on it, ideally free or cheap to use. Thanks!
 
-6h ago
-
----
-
-**[Did AI really cause job losses at Amazon? It's hard to tell, economist says](https://www.reddit.com/r/artificial/comments/1qtrazy/did_ai_really_cause_job_losses_at_amazon_its_hard/)**
-
-Amazon says it is laying off 16,000 because of 'efficiency gains' from AI, but an economist says it will take time for firms that are adopting AI to see how their work flows change.
-
-🔗 [euronews](https://www.euronews.com/next/2026/02/02/did-ai-really-cause-job-losses-at-amazon-its-hard-to-tell-economist-says) • 1d ago
+7h ago
 
 ---
 
@@ -82,6 +74,14 @@ Amazon says it is laying off 16,000 because of 'efficiency gains' from AI, but a
 India's latest budget mentions AI 11 times - highest ever. Key commitments: $90B data centre investments Tax holiday till 2047 for cloud providers Semiconductor Mission 2.0 for domestic chips Policy preference for "smaller, sector-specific models" 890+ GenAI startups active now, deep-tech funding up 78%. Analysis: https://onllm.dev/blog/3-budget-2026
 
 1d ago
+
+---
+
+**[Did AI really cause job losses at Amazon? It's hard to tell, economist says](https://www.reddit.com/r/artificial/comments/1qtrazy/did_ai_really_cause_job_losses_at_amazon_its_hard/)**
+
+Amazon says it is laying off 16,000 because of 'efficiency gains' from AI, but an economist says it will take time for firms that are adopting AI to see how their work flows change.
+
+🔗 [euronews](https://www.euronews.com/next/2026/02/02/did-ai-really-cause-job-losses-at-amazon-its-hard-to-tell-economist-says) • 1d ago
 
 ---
 
@@ -125,59 +125,7 @@ What moltbook is So essentially There is this open source AI bot called openclaw
 
 Annual review highlights growing capabilities of AI models, while examining issues from cyber-attacks to job disruption
 
-The Guardian • 6h ago
-
----
-
-**[Elon Musk has lauded the 'social media for AI agents' platform Moltbook as a bold step for AI. Others are skeptical](https://www.cnbc.com/2026/02/02/social-media-for-ai-agents-moltbook.html)**
-
-Elon Musk said the platform was the "very early stages of singularity" but others are more skeptical
-
-CNBC • 19h ago
-
----
-
-**[Researchers say viral AI social network Moltbook is a 'live demo' of how the new internet could fail](https://fortune.com/2026/02/03/moltbook-ai-social-network-security-researchers-agent-internet/)**
-
-“If 770k toy agents on a Reddit clone can create this much chaos, what happens when agentic systems manage enterprise infrastructure or financial transactions?"
-
-Fortune • 17m ago
-
----
-
-**[Scheming, joking, complaining: Moltbook’s AI agents are just like us](https://www.ft.com/content/d86b79f3-e64b-414d-9a47-5d70010ea5e7)**
-
-Like humans, rules will need to be set and comings and goings tracked, highlighting how managers will always be needed
-
-Financial Times • 6h ago
-
----
-
-**[Legal Software Stocks Plunge as Anthropic Releases New AI Tool](https://www.bloomberg.com/news/articles/2026-02-03/legal-software-stocks-plunge-as-anthropic-releases-new-ai-tool)**
-
-Bloomberg • 25m ago
-
----
-
-**[Siemens Energy Bets $1 Billion That A.I. Power Demand Will Last](https://www.nytimes.com/2026/02/03/business/energy-environment/siemens-energy-ai-power-demand.html)**
-
-The New York Times • 35m ago
-
----
-
-**[New poll shows the shifting conversation around blue-collar work in the age of AI](https://www.businessinsider.com/poll-future-of-work-ai-blue-collar-business-for-good-2026-2)**
-
-A Business for Good-Harris poll found that 75% of Americans agree "hands-on skills and practice experience" matter more than formal degrees.
-
-Business Insider • 35m ago
-
----
-
-**[An AI bubble is not big tech’s only worry](https://www.economist.com/finance-and-economics/2026/02/02/an-ai-bubble-is-not-big-techs-only-worry)**
-
-Are Meta and Google ads really recession-proof?
-
-The Economist • 16h ago
+The Guardian • 8h ago
 
 ---
 
@@ -185,7 +133,7 @@ The Economist • 16h ago
 
 Musk is combining rocket maker SpaceX with his AI startup, the largest tie-up in his expansive business portfolio.
 
-CNBC • 14h ago
+CNBC • 15h ago
 
 ---
 
@@ -193,7 +141,61 @@ CNBC • 14h ago
 
 Musk's space exploration company and his AI start-up are merging.
 
-BBC • 2h ago
+BBC • 3h ago
+
+---
+
+**[The AI buildout is getting cash strapped](https://www.axios.com/2026/02/03/spacex-xai-elon-musk-ai-oracle)**
+
+The biggest tech companies are increasingly getting creative with their balance sheets as they finance their AI ambitions.
+
+Axios • 1h ago
+
+---
+
+**[Private Equity’s Giant Software Bet Has Been Upended by AI](https://www.bloomberg.com/news/articles/2026-02-03/private-equity-s-giant-software-bet-has-been-upended-by-ai)**
+
+Bloomberg • 1h ago
+
+---
+
+**[The Etiquette of AI in the Group Chat](https://www.theatlantic.com/family/2026/02/ai-etiquette-friends/685858/)**
+
+Using LLMs to talk with your friends is efficient. It’s also bad etiquette.
+
+The Atlantic • 1h ago
+
+---
+
+**[Opinion | Where Is A.I. Taking Us? Eight Leading Thinkers Share Their Visions.](https://www.nytimes.com/interactive/2026/02/02/opinion/ai-future-leading-thinkers-survey.html)**
+
+Experts share their thoughts on the future of A.I. and how it will reshape society in the coming years.
+
+The New York Times • 51m ago
+
+---
+
+**[What is the 'social media network for AI' Moltbook?](https://www.bbc.com/news/articles/c62n410w5yno)**
+
+The Reddit-like website which launched in late January allows AI bots to speak to each other.
+
+BBC • 23h ago
+
+---
+
+**[Hacking Moltbook: AI Social Network Reveals 1.5M API Keys](https://www.wiz.io/blog/exposed-moltbook-database-reveals-millions-of-api-keys)**
+
+Learn how a misconfigured Supabase database at Moltbook exposed 1.5M API keys, private messages, and user emails, enabling full AI agent takeover.
+
+wiz.io • 22h ago
+
+---
+
+**[Researchers say viral AI social network Moltbook is a 'live demo' of how the new internet could fail](https://fortune.com/2026/02/03/moltbook-ai-social-network-security-researchers-agent-internet/)**
+
+“If 770k toy agents on a Reddit clone can create this much chaos, what happens when agentic systems manage enterprise infrastructure or financial transactions?"
+
+Fortune • 1h ago
 
 ---
 
@@ -205,7 +207,7 @@ BBC • 2h ago
 
 A bifurcation is happening in AI adoption - power users shipping products in days versus everyone else generating meeting agendas. Enterprise tool choices are accelerating the divide.
 
-⬆️ 328 • 💬 323 • 1d ago • [Martin Alderson](https://martinalderson.com/posts/two-kinds-of-ai-users-are-emerging/)
+⬆️ 331 • 💬 323 • 1d ago • [Martin Alderson](https://martinalderson.com/posts/two-kinds-of-ai-users-are-emerging/)
 
 ---
 
@@ -221,7 +223,7 @@ Like many organizations, Wiki Education has grappled with generative AI, its imp
 
 People familiar with Microsoft's plans say that the company moving to streamline or remove certain Copilot integrations across in-box apps like Notepad and Paint in 2026, after pushback from users.
 
-⬆️ 199 • 💬 275 • 23h ago • [Windows Central](https://www.windowscentral.com/microsoft/windows-11/microsoft-is-reevaluating-its-ai-efforts-on-windows-11-plans-to-reduce-copilot-integrations-and-evolve-recall)
+⬆️ 200 • 💬 275 • 1d ago • [Windows Central](https://www.windowscentral.com/microsoft/windows-11/microsoft-is-reevaluating-its-ai-efforts-on-windows-11-plans-to-reduce-copilot-integrations-and-evolve-recall)
 
 ---
 
@@ -229,7 +231,7 @@ People familiar with Microsoft's plans say that the company moving to streamline
 
 The Firefox browser is gaining options to turn off AI enhancements, Mozilla said today. Firefox users who prefer to browse without artificial intelligence will be able to turn off several AI features that Mozilla has added over the last several months. Here's what can be disabled:     	Translations, which help you browse the web in your preferred language. Alt text in PDFs, which add accessibility descriptions to images in PDF pages.
 
-⬆️ 165 • 💬 73 • 11h ago • [MacRumors](https://www.macrumors.com/2026/02/02/firefox-ai-toggle/)
+⬆️ 171 • 💬 76 • 13h ago • [MacRumors](https://www.macrumors.com/2026/02/02/firefox-ai-toggle/)
 
 ---
 
@@ -237,7 +239,7 @@ The Firefox browser is gaining options to turn off AI enhancements, Mozilla said
 
 We’re expanding Game Arena with Poker and Werewolf, while Gemini 3 Pro and Flash top our chess leaderboard.
 
-⬆️ 126 • 💬 53 • 17h ago • [Google](https://blog.google/innovation-and-ai/models-and-research/google-deepmind/kaggle-game-arena-updates/)
+⬆️ 128 • 💬 53 • 19h ago • [Google](https://blog.google/innovation-and-ai/models-and-research/google-deepmind/kaggle-game-arena-updates/)
 
 ---
 
@@ -245,7 +247,7 @@ We’re expanding Game Arena with Poker and Werewolf, while Gemini 3 Pro and Fla
 
 Two popular AI coding extensions with 1.5M installs secretly harvest your entire codebase and profile you. Both are still live in the marketplace.
 
-⬆️ 90 • 💬 86 • 22h ago • [koi.ai](https://www.koi.ai/blog/maliciouscorgi-the-cute-looking-ai-extensions-leaking-code-from-1-5-million-developers)
+⬆️ 91 • 💬 86 • 1d ago • [koi.ai](https://www.koi.ai/blog/maliciouscorgi-the-cute-looking-ai-extensions-leaking-code-from-1-5-million-developers)
 
 ---
 
@@ -257,21 +259,23 @@ Ultra-minimal personal AI agent: starts small, self-modifies its code live, adap
 
 ---
 
+**[Rentahuman – The Meatspace Layer for AI](https://news.ycombinator.com/item?id=46868675)**
+
+The marketplace where AI agents rent humans. MCP integration, REST API, flexible payments. Book humans for real-world tasks your AI can't do.
+
+⬆️ 56 • 💬 45 • 3h ago • [RentAHuman.ai](https://rentahuman.ai)
+
+---
+
 **[We asked 15k European devs about jobs, salaries, and AI [pdf]](https://news.ycombinator.com/item?id=46857124)**
 
-⬆️ 49 • 💬 64 • 20h ago • [static.germantechjobs.de](https://static.germantechjobs.de/market-reports/European-Transparent-IT-Job-Market-Report-2025.pdf)
+⬆️ 49 • 💬 64 • 21h ago • [static.germantechjobs.de](https://static.germantechjobs.de/market-reports/European-Transparent-IT-Job-Market-Report-2025.pdf)
 
 ---
 
 **[Rural Americans are trying to hold back the tide of AI](https://news.ycombinator.com/item?id=46857082)**
 
-⬆️ 42 • 💬 46 • 20h ago • [wsj.com](https://www.wsj.com/politics/policy/these-rural-americans-are-trying-to-hold-back-the-tide-of-ai-66945306)
-
----
-
-**[Ask HN: Anyone else struggle with how to learn coding in the AI era?](https://news.ycombinator.com/item?id=46866165)**
-
-⬆️ 39 • 💬 53 • 7h ago
+⬆️ 43 • 💬 46 • 21h ago • [wsj.com](https://www.wsj.com/politics/policy/these-rural-americans-are-trying-to-hold-back-the-tide-of-ai-66945306)
 
 ---
 
@@ -285,17 +289,7 @@ Rebellionaire: https://www.rebellionaire.com/farzad Join my exclusive community:
 
 📺 Farzad
 
-👁️ 142K • 👍 5K • 💬 882 • ⏱️ 23:45 • 22h ago
-
----
-
-**[AI Singularity Moment Just Hit: Moltbook AI Behavior Freaks People Out](https://www.youtube.com/watch?v=XG_rsEzwMTA)**
-
-A new AI platform called Moltbook suddenly exploded online, and it is built entirely for AI agents to talk to each other. Thousands ...
-
-📺 AI Revolution
-
-👁️ 62K • 👍 2K • 💬 362 • ⏱️ 11:48 • 1d ago
+👁️ 162K • 👍 6K • 💬 1K • ⏱️ 23:45 • 1d ago
 
 ---
 
@@ -305,27 +299,17 @@ Detailed sources: ...
 
 📺 Species | Documenting AGI
 
-👁️ 236K • 👍 17K • 💬 2K • ⏱️ 18:06 • 2d ago
+👁️ 240K • 👍 17K • 💬 2K • ⏱️ 18:06 • 2d ago
 
 ---
 
-**[AI Bubble Is POPPING In Real Time!](https://www.youtube.com/watch?v=B5Q8n8HELTk)**
+**[AI Singularity Moment Just Hit: Moltbook AI Behavior Freaks People Out](https://www.youtube.com/watch?v=XG_rsEzwMTA)**
 
-Build. Upgrade. Save: https://micro.center/89ae6a ▻Sign up for a FREE 128gig Flash Drive at Micro Center Austin: ...
+A new AI platform called Moltbook suddenly exploded online, and it is built entirely for AI agents to talk to each other. Thousands ...
 
-📺 Gamer Meld
+📺 AI Revolution
 
-👁️ 23K • 👍 1K • 💬 267 • ⏱️ 8:48 • 10h ago
-
----
-
-**[State of AI in 2026: LLMs, Coding, Scaling Laws, China, Agents, GPUs, AGI | Lex Fridman Podcast #490](https://www.youtube.com/watch?v=EV7WhVT270Q)**
-
-Nathan Lambert and Sebastian Raschka are machine learning researchers, engineers, and educators. Nathan is the post-training ...
-
-📺 Lex Fridman
-
-👁️ 403K • 👍 9K • 💬 645 • ⏱️ 4:25:13 • 2d ago
+👁️ 65K • 👍 2K • 💬 380 • ⏱️ 11:48 • 1d ago
 
 ---
 
@@ -335,17 +319,37 @@ Starforge PC https://starforgepc.com/moist-yt Get Goof Juice and use code MOIST 
 
 📺 penguinz0
 
-👁️ 876K • 👍 34K • 💬 3K • ⏱️ 14:30 • 17h ago
+👁️ 899K • 👍 35K • 💬 3K • ⏱️ 14:30 • 19h ago
 
 ---
 
-**[AI Is Worse Than The Dot Com Bubble: Part Four | Better Offline](https://www.youtube.com/watch?v=lugxsX1MEnA)**
+**[AI Bubble Is POPPING In Real Time!](https://www.youtube.com/watch?v=B5Q8n8HELTk)**
 
-If You're New Subscribe ▻ https://www.youtube.com/@BetterOfflinePod AI Is Worse Than The Dot Com Bubble: Part Four | Better ...
+Build. Upgrade. Save: https://micro.center/89ae6a ▻Sign up for a FREE 128gig Flash Drive at Micro Center Austin: ...
 
-📺 Better Offline
+📺 Gamer Meld
 
-👁️ 7K • 👍 477 • 💬 131 • ⏱️ 11:35 • 22h ago
+👁️ 28K • 👍 2K • 💬 303 • ⏱️ 8:48 • 12h ago
+
+---
+
+**[State of AI in 2026: LLMs, Coding, Scaling Laws, China, Agents, GPUs, AGI | Lex Fridman Podcast #490](https://www.youtube.com/watch?v=EV7WhVT270Q)**
+
+Nathan Lambert and Sebastian Raschka are machine learning researchers, engineers, and educators. Nathan is the post-training ...
+
+📺 Lex Fridman
+
+👁️ 411K • 👍 9K • 💬 664 • ⏱️ 4:25:13 • 2d ago
+
+---
+
+**[Reddit For AI Bots and AI University Is Wild | MoistCr1TiKaL](https://www.youtube.com/watch?v=1XLwNaHslIo)**
+
+Who's ready to graduate from Maestro? [Streamed 2/1/26] You can now watch on Spotify!
+
+📺 Moist Charlie Clips
+
+👁️ 16K • 👍 649 • 💬 54 • ⏱️ 13:38 • 20h ago
 
 ---
 
@@ -355,27 +359,25 @@ Join our WhatsApp Community Get the latest AI updates, tips, and insights straig
 
 📺 Vaibhav Sisinty
 
-👁️ 30K • 👍 1K • 💬 59 • ⏱️ 15:34 • 20h ago
+👁️ 33K • 👍 1K • 💬 63 • ⏱️ 15:34 • 22h ago
 
 ---
 
-**[Moltbook: Where AI bots socialize](https://www.youtube.com/watch?v=y_QhAA1pbYE)**
+**[Cute baby Gave His Mother A Beautiful Flying Horse 🐎 #ai #cute #shorts](https://www.youtube.com/watch?v=fs9VOc2XnhQ)**
 
-CNBC's Deirdre Bosa reports on news regarding AI autonomy.
+Cute baby Gave His Mother A Beautiful Flying Horse #ai #cute #shorts This video is made for entertainment purposes only.
 
-📺 CNBC Television
+📺 ToonTales Creation
 
-👁️ 14K • 👍 214 • 💬 126 • ⏱️ 3:25 • 18h ago
+👁️ 639 • ⏱️ 0:36 • 25m ago
 
 ---
 
-**[I Sent AI the NEW Epstein Files and Let It React to ALLEGATIONS Against Trump](https://www.youtube.com/watch?v=NEqOarRQCbE)**
+**[AI is out of control😂](https://www.youtube.com/watch?v=OiFRu_XaZQ0)**
 
-Go to https://groundnews.com/ai to stay fully informed about U.S. politics, AI, and more. Subscribe through my link to get 40% off ...
+📺 Onevilage
 
-📺 I Ask AI
-
-👁️ 53K • 👍 3K • 💬 531 • ⏱️ 13:43 • 2d ago
+👁️ 205K • 👍 9K • 💬 267 • ⏱️ 0:20 • 20h ago
 
 ---
 
@@ -391,7 +393,7 @@ Kimi K2.5 is a native multimodal agentic model with 1T parameters, excelling in 
 
 `image-text-to-text`
 
-⬇️ 123,123 • ❤️ 1,538 • 4h ago
+⬇️ 123,123 • ❤️ 1,551 • 5h ago
 
 ---
 
@@ -415,7 +417,7 @@ HunyuanImage-3.0-Instruct is a native multimodal model for image generation, sup
 
 `image-to-image` `83.0B`
 
-⬇️ 194 • ❤️ 791 • 6d ago
+⬇️ 194 • ❤️ 792 • 6d ago
 
 ---
 
@@ -427,7 +429,7 @@ DeepSeek-OCR-2 is a multilingual vision-language model for image-to-text tasks, 
 
 `image-text-to-text` `3.4B`
 
-⬇️ 210,995 • ❤️ 654 • 11h ago
+⬇️ 210,995 • ❤️ 659 • 12h ago
 
 ---
 
@@ -439,7 +441,7 @@ PersonaPlex-7B-v1 is a real-time, full-duplex speech-to-speech conversational mo
 
 `audio-to-audio`
 
-⬇️ 130,143 • ❤️ 1,606 • 5d ago
+⬇️ 130,143 • ❤️ 1,608 • 5d ago
 
 ---
 
@@ -451,7 +453,7 @@ Qwen3-ASR-1.7B is a state-of-the-art automatic speech recognition model supporti
 
 `automatic-speech-recognition` `2.3B`
 
-⬇️ 64,225 • ❤️ 364 • 4d ago
+⬇️ 64,225 • ❤️ 365 • 4d ago
 
 ---
 
@@ -463,7 +465,7 @@ Step 3.5 Flash is an efficient, open-source MoE foundation model (11B active par
 
 `text-generation` `199.4B`
 
-⬇️ 1,825 • ❤️ 349 • 2h ago
+⬇️ 1,825 • ❤️ 359 • 3h ago
 
 ---
 
@@ -475,7 +477,7 @@ PaddleOCR-VL-1.5 is a multilingual Vision-Language Model (VLM) built on ERNIE 4.
 
 `image-text-to-text` `958.6M`
 
-⬇️ 4,585 • ❤️ 329 • 4d ago
+⬇️ 4,585 • ❤️ 331 • 4d ago
 
 ---
 
@@ -485,19 +487,19 @@ PaddleOCR-VL-1.5 is a multilingual Vision-Language Model (VLM) built on ERNIE 4.
 
 Anima is a 2 billion parameter text-to-image diffusion model specializing in anime and non-photorealistic artistic styles, trained on millions of anime and artistic images. It is designed for generating illustrations and artistic images, with primary use cases in ComfyUI workflows for anime concepts and characters.
 
-⬇️ 27,262 • ❤️ 324 • 2d ago
+⬇️ 27,262 • ❤️ 331 • 2d ago
 
 ---
 
-**[Qwen3-TTS-12Hz-1.7B-CustomVoice](https://huggingface.co/Qwen/Qwen3-TTS-12Hz-1.7B-CustomVoice)**
+**[GLM-OCR](https://huggingface.co/zai-org/GLM-OCR)**
 
-*Qwen*
+*Z.ai*
 
-Qwen3-TTS-12Hz-1.7B-CustomVoice is a multilingual text-to-speech model supporting 10 languages with instruction-based control over prosody, emotion, and speaking rate. It features extreme low-latency streaming generation (as low as 97ms) and supports 9 premium timbres for style control, making it ideal for real-time interactive applications.
+GLM-OCR is a 0.9B parameter multimodal OCR model for complex document understanding, excelling at table recognition, formula extraction, and information extraction across diverse layouts. It offers state-of-the-art performance with efficient inference, supporting deployment via vLLM, SGLang, and Ollama for real-world business applications.
 
-`text-to-speech` `1.9B`
+`image-to-text`
 
-⬇️ 296,942 • ❤️ 857 • 5d ago
+⬇️ 2,259 • ❤️ 316 • 10h ago
 
 ---
 
@@ -531,18 +533,6 @@ Agent Lightning is a flexible RL framework for training LLMs in various agents, 
 
 ---
 
-**[Bitnet.cpp: Efficient Edge Inference for Ternary LLMs](https://huggingface.co/papers/2502.11880)**
-
-*Jinheng Wang, Hansong Zhou, Ting Song et al. (10 authors)*
-
-Bitnet.cpp enhances edge inference for ternary LLMs using a novel mixed-precision matrix multiplication library, achieving significant speed improvements over baselines.
-
-▲ 5 • 💬 0 • ⭐ 27,651 • 11mo ago
-
-[🎓 arXiv](https://arxiv.org/abs/2502.11880) • [💻 code](https://github.com/microsoft/BitNet/tree/paper)
-
----
-
 **[Qwen3-TTS Technical Report](https://huggingface.co/papers/2601.15621)**
 
 *Hangrui Hu, Xinfa Zhu, Ting He et al. (16 authors)*
@@ -554,6 +544,32 @@ The Qwen3-TTS series presents advanced multilingual text-to-speech models with v
 ▲ 57 • 💬 1 • ⭐ 6,672 • 12d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2601.15621) • [💻 code](https://github.com/QwenLM/Qwen3-TTS)
+
+---
+
+**[Bitnet.cpp: Efficient Edge Inference for Ternary LLMs](https://huggingface.co/papers/2502.11880)**
+
+*Jinheng Wang, Hansong Zhou, Ting Song et al. (10 authors)*
+
+Bitnet.cpp enhances edge inference for ternary LLMs using a novel mixed-precision matrix multiplication library, achieving significant speed improvements over baselines.
+
+▲ 5 • 💬 0 • ⭐ 27,688 • 11mo ago
+
+[🎓 arXiv](https://arxiv.org/abs/2502.11880) • [💻 code](https://github.com/microsoft/BitNet/tree/paper)
+
+---
+
+**[PaddleOCR-VL: Boosting Multilingual Document Parsing via a 0.9B Ultra-Compact Vision-Language Model](https://huggingface.co/papers/2510.14528)**
+
+*Cheng Cui, Ting Sun, Suyin Liang et al. (18 authors)*
+
+🏢 PaddlePaddle
+
+PaddleOCR-VL, a vision-language model combining NaViT-style dynamic resolution and ERNIE, achieves state-of-the-art performance in document parsing and element recognition with high efficiency.
+
+▲ 112 • 💬 7 • ⭐ 70,031 • 3mo ago
+
+[🎓 arXiv](https://arxiv.org/abs/2510.14528) • [💻 code](https://github.com/PaddlePaddle/PaddleOCR)
 
 ---
 
@@ -581,20 +597,6 @@ A centralized orchestrator dynamically directs LLM agents via reinforcement lear
 
 ---
 
-**[PaddleOCR-VL: Boosting Multilingual Document Parsing via a 0.9B Ultra-Compact Vision-Language Model](https://huggingface.co/papers/2510.14528)**
-
-*Cheng Cui, Ting Sun, Suyin Liang et al. (18 authors)*
-
-🏢 PaddlePaddle
-
-PaddleOCR-VL, a vision-language model combining NaViT-style dynamic resolution and ERNIE, achieves state-of-the-art performance in document parsing and element recognition with high efficiency.
-
-▲ 112 • 💬 7 • ⭐ 69,925 • 3mo ago
-
-[🎓 arXiv](https://arxiv.org/abs/2510.14528) • [💻 code](https://github.com/PaddlePaddle/PaddleOCR)
-
----
-
 **[Scaling Multiagent Systems with Process Rewards](https://huggingface.co/papers/2601.23228)**
 
 *Ed Li, Junyu Ren, Cat Yan*
@@ -603,7 +605,7 @@ PaddleOCR-VL, a vision-language model combining NaViT-style dynamic resolution a
 
 Multiagent systems are improved through per-action process rewards from AI feedback (MAPPA), enhancing credit assignment and sample efficiency for complex tasks.
 
-▲ 6 • 💬 2 • ⭐ 110 • 3d ago
+▲ 7 • 💬 2 • ⭐ 110 • 4d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2601.23228) • [💻 code](https://github.com/ltjed/multiagent-coaching) • [🔗 project](https://ltjed.github.io/MAPPA/)
 
@@ -645,7 +647,7 @@ Browser automation CLI for AI agents
 
 `TypeScript`
 
-⭐ 12.3k • 🔱 687 • 3h ago
+⭐ 12.3k • 🔱 688 • 5h ago
 
 ---
 
@@ -675,7 +677,7 @@ LLM驱动的 A/H/美股智能分析器，多数据源行情 + 实时新闻 + Gem
 
 `Python` `agent` `ai` `aigc` `gemini` `llm`
 
-⭐ 9.1k • 🔱 9.6k • 21h ago
+⭐ 9.2k • 🔱 9.6k • 22h ago
 
 ---
 
@@ -685,7 +687,7 @@ LLM驱动的 A/H/美股智能分析器，多数据源行情 + 实时新闻 + Gem
 
 `Vue`
 
-⭐ 7.0k • 🔱 1.3k • 1d ago
+⭐ 7.1k • 🔱 1.3k • 3h ago
 
 ---
 
@@ -695,7 +697,7 @@ The Ultimate Collection of 600+ Agentic Skills for Claude Code/Antigravity/Curso
 
 `Python` `agentic-skills` `ai-agents` `antigravity` `autonomous-coding` `claude-code`
 
-⭐ 6.6k • 🔱 1.4k • 2h ago
+⭐ 6.7k • 🔱 1.4k • 3h ago
 
 ---
 
@@ -705,7 +707,7 @@ Marketing skills for Claude Code and AI agents. CRO, copywriting, SEO, analytics
 
 `claude` `codex` `marketing`
 
-⭐ 5.6k • 🔱 620 • 6d ago
+⭐ 5.6k • 🔱 623 • 6d ago
 
 ---
 
