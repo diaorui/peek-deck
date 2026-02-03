@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-02-03T21:02:22.763511+00:00'
+updated: '2026-02-03T21:58:17.942191+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
 - videos
-- news
 - social
+- news
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** February 03, 2026 at 21:02 UTC  
+**Last Updated:** February 03, 2026 at 21:58 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -36,7 +36,7 @@ Robotics research and industry news
 
 From RoboHub🤖 on 𝕏: https://x.com/XRoboHub/status/2018281195063419225 Previous post with MirrorMe robot dog at 13.4 m/s: https://www.reddit.com/r/robotics/comments/1pvek2r/the_black_panther_ii_robot_dog_hits_134_ms/
 
-10h ago
+11h ago
 
 ---
 
@@ -44,7 +44,7 @@ From RoboHub🤖 on 𝕏: https://x.com/XRoboHub/status/2018281195063419225 Prev
 
 See this LINK. Cool article about a new design for robot joints that roll instead of pivoting like normal hinges. Seems like a very practical design that would be easy to make with 3D printing, and can be passive or motor-driven. The joints use specially shaped (non-circular) rolling surfaces that can be “programmed” to move in very specific ways. Compared to regular joints, these rolling joints can follow complex paths much more accurately The joints can also change how force is transmitted, giving more strength where it’s needed and more speed elsewhere. From this academic article:C.J. Decker, T.G. Chen, M.C. Yuen, & R.J. Wood, Noncircular rolling contact joints enable programmed behavior in robotic linkages, Proc. Natl. Acad. Sci. U.S.A. https://doi.org/10.1073/pnas.2521406123 (2026). The authors show that a joint designed this way can closely match the motion of a human knee, far better than standard hinges. They also build a robotic gripper that can lift over three times more weight than a similar gripper with ordinary joints.
 
-5h ago
+6h ago
 
 ---
 
@@ -52,7 +52,7 @@ See this LINK. Cool article about a new design for robot joints that roll instea
 
 Asimov is an open-source humanoid we're building from scratch at Menlo Research. Legs, arms, and head developed in parallel. We're sharing how we got the legs walking. The rewards barely mattered. What worked was controlling what data the policy sees, when, and why. Our robot oscillated violently on startup. We tuned rewards for weeks. Nothing changed. Then we realized the policy was behaving like an underdamped control system, and the fix had nothing to do with rewards. We don't feed ground-truth linear velocity to the policy. On real hardware, you have an IMU that drifts and encoders that measure joint positions. Nothing else. If you train with perfect velocity, the policy learns to rely on data that won't exist at deployment. Motors are polled over CAN bus sequentially. Hip data is 6-9ms stale by the time ankle data arrives. We modeled this explicitly, matching the actual timing the policy will face on hardware. The actor only sees what real sensors provide (45 dimensions). The critic sees privileged info: Ground truth velocity, contact forces, toe positions. Asimov has passive spring-loaded toes with no encoder. The robot can't sense them. By exposing toe state to the critic, the policy learns to infer toe behavior from ankle positions and IMU readings. We borrowed most of our reward structure from Booster, Unitree, and MJLab. Made hardware-specific tweaks. No gait clock (Asimov has unusual kinematics, canted hips, backward-bending knees), asymmetric pose tolerances (ankles have only ±20° ROM), narrower stance penalties, air time rewards (the legs are 16kg and can achieve flight phase). Domain randomization was targeted, not broad. We randomized encoder calibration error, PD gains, toe stiffness, foot friction, observation delays. We didn't randomize body mass, link lengths, or gravity. Randomize what you know varies. Don't randomize what you've measured accurately. Next: terrain curriculum, velocity curriculum, full body integration (26-DOF+). Full post with observation tables, reward weights, and code: https://news.asimov.inc/p/teaching-a-humanoid-to-walk
 
-9h ago
+10h ago
 
 ---
 
@@ -60,7 +60,7 @@ Asimov is an open-source humanoid we're building from scratch at Menlo Research.
 
 F450 overall Drone weight - 976gram Motor - A2212 - 1400kv Esc-30A Prop - 8inch Battery - 3S, 3500mah Will it lift? Or should i go for 1000kv bldc motor
 
-1h ago
+2h ago
 
 ---
 
@@ -68,13 +68,13 @@ F450 overall Drone weight - 976gram Motor - A2212 - 1400kv Esc-30A Prop - 8inch 
 
 Watch Marvelmind Boxie robots in a high-precision chase. Each autonomous robot uses two mobile beacons for ±2cm tracking. While the PID controller is still being tuned (causing some jerky movements), the positioning remains rock-solid. See the dashboard view vs. real-world drive. [00:00], [00:30].
 
-12h ago
+13h ago
 
 ---
 
 **[Isaac sim simulation bag issue](https://www.reddit.com/r/robotics/comments/1qv3z6a/isaac_sim_simulation_bag_issue/)**
 
-6m ago
+1h ago
 
 ---
 
@@ -82,7 +82,7 @@ Watch Marvelmind Boxie robots in a high-precision chase. Each autonomous robot u
 
 Hi all! I am starting a research activity about concentric tube robots, a continuum robot well known in literature with a lot of interests in fields like medical robotics and so on. My work will explore the modelling part using Cosserat Rod Theory to discretize it and the design of a proper control strategy. In the end, it should work in teleoperation to tease tissues and perform some tasks inside a patient, so I would like to simulate it. i did an academic project last year on SOFA introducing a liver model and a 3 tubes CTR using the BeamAdapter plugin (using the Kirchoff rod theory If I’m not wrong) trying to simulate the interaction between them and the contact forces arising, assuming a Nitinol made CTR. In truth, SOFA is good at this but it is not so spreaded around and I feel a lot isolate into my problems. Plus, there is not so much that I think can be done about introducing Cosserat and trying some reinforcement learning framework. But who knows? I would like to ask if anybody works in soft robotics and could suggest which is the best framework and where to study some useful material. I found also Matlab with SoRoSim and simscape: perhaps is it a good solution? Thank you!
 
-59m ago
+1h ago
 
 ---
 
@@ -90,7 +90,7 @@ Hi all! I am starting a research activity about concentric tube robots, a contin
 
 Hey everyone, Over the past few months I’ve been working on this project, a replacement for ROS 2. While ROS 2 is powerful, I often found myself fighting complexity when I just wanted a few nodes to communicate reliably or work with the different tools ROS 2 offers. That experience pushed me to explore a different approach: a much simpler stack, built with modern tooling, that’s easy to understand and still works at scale. The goal is that someone new can grasp the core ideas and start writing robot nodes in about half an hour (no ROS 2 prior knowledge required). The website walks through the concepts and setup step by step. For the moment all the examples are in Rust, but Python support is coming soon! I’d love to hear feedback from people working in robotics, especially what you find appealing or questionable about this approach.
 
-7h ago
+8h ago
 
 ---
 
@@ -98,7 +98,7 @@ Hey everyone, Over the past few months I’ve been working on this project, a re
 
 90s kids here, I love the way robotics is moving and was wondering when if I would be able to build my own robot as simply as assembling a PC. Is this possible in future? If yes? What would be the tentative timeline? Any educational guess.
 
-5h ago
+6h ago
 
 ---
 
@@ -150,7 +150,7 @@ New Hampshire Public Radio • 2d ago
 
 Japan's robotics industry struggles to catch up to physical AI technology
 
-Nikkei Asia • 23h ago
+Nikkei Asia • 1d ago
 
 ---
 
@@ -158,13 +158,13 @@ Nikkei Asia • 23h ago
 
 ATLANTA, February 03, 2026--Slip Robotics announced SlipLift, a new platform designed to extend autonomous trailer loading and unloading beyond short-haul, high-frequency routes to heavier freight, regional distribution, and last mile delivery applications. SlipLift brings Slip’s hallmark speed, safety, and simplicity to a broader set of dock operations without requiring changes to facilities, trailers, or IT infrastructure.
 
-Yahoo Finance • 3h ago
+Yahoo Finance • 4h ago
 
 ---
 
 **[Overland AI Raises $100 Million to Speed Up Use of Military Land Robots](https://www.bloomberg.com/news/articles/2026-02-03/overland-ai-raises-100m-to-speed-up-use-of-military-land-robots)**
 
-Bloomberg • 4h ago
+Bloomberg • 5h ago
 
 ---
 
@@ -188,7 +188,7 @@ South China Morning Post • 9h ago
 
 Moya, a humanoid robot unveiled in Shanghai, is designed to walk, smile, and interact like a human using embodied AI.
 
-Interesting Engineering • 7h ago
+Interesting Engineering • 8h ago
 
 ---
 

@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-02-03T21:02:22.745569+00:00'
+updated: '2026-02-03T21:58:17.924558+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
 - videos
+- social
 - news
 - repositories
-- social
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** February 03, 2026 at 21:02 UTC  
+**Last Updated:** February 03, 2026 at 21:58 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -41,7 +41,7 @@ AI news, discussions, and developments
 
 SpaceX's acquisition of xAI signals a bold push to merge artificial intelligence with space infrastructure at an unprecedented scale.
 
-🔗 [Interesting Engineering](https://interestingengineering.com/culture/elon-musk-merges-spacex-and-xai) • 5h ago
+🔗 [Interesting Engineering](https://interestingengineering.com/culture/elon-musk-merges-spacex-and-xai) • 6h ago
 
 ---
 
@@ -49,13 +49,13 @@ SpaceX's acquisition of xAI signals a bold push to merge artificial intelligence
 
 Elon Musk's X and Grok platforms are facing increased scrutiny from authorities on both sides of the channel.
 
-🔗 [bbc.com](https://www.bbc.com/news/articles/ce3ex92557jo) • 4h ago
+🔗 [bbc.com](https://www.bbc.com/news/articles/ce3ex92557jo) • 5h ago
 
 ---
 
 **[AI social network Moltbook exposed data of 6,000 users, Wiz says](https://www.reddit.com/r/artificial/comments/1qut1je/ai_social_network_moltbook_exposed_data_of_6000/)**
 
-🔗 [reuters.com](https://www.reuters.com/legal/litigation/moltbook-social-media-site-ai-agents-had-big-security-hole-cyber-firm-wiz-says-2026-02-02/) • 6h ago
+🔗 [reuters.com](https://www.reuters.com/legal/litigation/moltbook-social-media-site-ai-agents-had-big-security-hole-cyber-firm-wiz-says-2026-02-02/) • 7h ago
 
 ---
 
@@ -63,7 +63,7 @@ Elon Musk's X and Grok platforms are facing increased scrutiny from authorities 
 
 For those of you who aren't familiar with SurfSense, it aims to be OSS alternative to NotebookLM, Perplexity, and Glean. In short, it is NotebookLM for teams, as it connects any LLM to your internal knowledge sources (search engines, Drive, Calendar, Notion, Obsidian, and 15+ other connectors) and lets you chat with it in real time alongside your team. I'm looking for contributors. If you're interested in AI agents, RAG, browser extensions, or building open-source research tools, this is a great place to jump in. Here's a quick look at what SurfSense offers right now: Features Self-Hostable (with docker support) Real Time Collaborative Chats Real Time Commenting Deep Agentic Agent RBAC (Role Based Access for Teams Members) Supports Any LLM (OpenAI spec with LiteLLM) 6000+ Embedding Models 50+ File extensions supported (Added Docling recently) Local TTS/STT support. Connects with 15+ external sources such as Search Engines, Slack, Notion, Gmail, Notion, Confluence etc Cross-Browser Extension to let you save any dynamic webpage you want, including authenticated content. Upcoming Planned Features Slide Creation Support Multilingual Podcast Support Video Creation Agent GitHub: https://github.com/MODSetter/SurfSense
 
-14h ago
+15h ago
 
 ---
 
@@ -71,7 +71,7 @@ For those of you who aren't familiar with SurfSense, it aims to be OSS alternati
 
 Anthropic has cemented a multi-year partnership with the Atlassian Williams Formula 1 team, its first sports sponsorship as AI companies make deeper inroads into professional sports.
 
-🔗 [adweek.com](https://www.adweek.com/brand-marketing/anthropics-claude-is-williams-f1s-thinking-partner-as-ai-brands-race-into-sports/) • 6h ago
+🔗 [adweek.com](https://www.adweek.com/brand-marketing/anthropics-claude-is-williams-f1s-thinking-partner-as-ai-brands-race-into-sports/) • 7h ago
 
 ---
 
@@ -79,7 +79,7 @@ Anthropic has cemented a multi-year partnership with the Atlassian Williams Form
 
 Qwen Chat offers comprehensive functionality spanning chatbot, image and video understanding, image generation, document processing, web search integration, tool utilization, and artifacts.
 
-🔗 [qwen.ai](https://qwen.ai/blog?id=qwen3-coder-next) • 2h ago
+🔗 [qwen.ai](https://qwen.ai/blog?id=qwen3-coder-next) • 3h ago
 
 ---
 
@@ -87,7 +87,7 @@ Qwen Chat offers comprehensive functionality spanning chatbot, image and video u
 
 Medical AI with Knowledge-Graph Core Anchor and RAG Answer Auditing A medical knowledge graph containing ~5,000 nodes, with medical terms organized into 7 main and 2 sub-categories: diseases, symptoms, treatments, risk factors, diagnostic tests, body parts, and cellular structures. The graph includes ~25,000 multi-directional relationships designed to reduce hallucinations and improve transparency in LLM-based reasoning. A medical AI that can answer basic health-related questions and support structured clinical reasoning through complex cases. The goal is to position this tool as an educational co-pilot for medical students, supporting learning in diagnostics, differential reasoning, and clinical training. The system is designed strictly for educational and training purposes and is not intended for clinical or patient-facing use. A working version can be tested on Hugging Face Spaces using preset questions or by entering custom queries: https://huggingface.co/spaces/cmtopbas/medical-slm-testing A draft site layout (demo / non-functional) is available here: https://wardmate.replit.app/ I am looking for medical schools interested in running demos or pilot trials, as well as potential co-founders with marketing reach and a solid understanding of both AI and medical science. If helpful, I can share prompts and anonymized or synthetic reconstructions of over 20 complex clinical cases used for evaluation and demonstration.
 
-3h ago
+4h ago
 
 ---
 
@@ -95,7 +95,7 @@ Medical AI with Knowledge-Graph Core Anchor and RAG Answer Auditing A medical kn
 
 The executive director of Utah's Chamber of Commerce describes artificial intelligence as facing a
 
-🔗 [ksl.com](https://www.ksl.com/article/51440954/the-social-media-ghost-why-utah-is-building-a-kill-switch-for-the-ai-era) • 41m ago
+🔗 [ksl.com](https://www.ksl.com/article/51440954/the-social-media-ghost-why-utah-is-building-a-kill-switch-for-the-ai-era) • 1h ago
 
 ---
 
@@ -103,7 +103,7 @@ The executive director of Utah's Chamber of Commerce describes artificial intell
 
 Open-source voice cloning + multi-speaker podcast tool. GPT 5.2 generates scripts, Qwen3-TTS handles synthesis locally. Modular architecture - swap the LLM for Llama, Mistral, whatever. GitHub: https://github.com/bc-dunia/qwen3-TTS-studio
 
-16h ago
+17h ago
 
 ---
 
@@ -111,7 +111,7 @@ Open-source voice cloning + multi-speaker podcast tool. GPT 5.2 generates script
 
 In a recently unveiled patent filing, it was revealed that Sony wants to use gen-AI to create fake podcasts voiced by PlayStation characters.
 
-🔗 [Insider Gaming](https://insider-gaming.com/sony-gen-ai-fake-podcast-playstation-characters/) • 7h ago
+🔗 [Insider Gaming](https://insider-gaming.com/sony-gen-ai-fake-podcast-playstation-characters/) • 8h ago
 
 ---
 
@@ -123,7 +123,7 @@ In a recently unveiled patent filing, it was revealed that Sony wants to use gen
 
 “We call it the ‘SaaSpocalypse,’ an apocalypse for software-as-a-service stocks,” said Jeffrey Favuzza, who works on the equity trading desk at Jefferies.  Selling pressure was evident across the sector with London Stock Exchange Group Plc, which has a large data analytics business, falling as much as 10%, while Thomson Reuters Corp. plunged as much as 17% in early trading.  CS Disco Inc. sank as much as 14%, and Legalzoom.com Inc. declined 16%.
 
-Yahoo Finance • 2h ago
+Yahoo Finance • 3h ago
 
 ---
 
@@ -131,7 +131,7 @@ Yahoo Finance • 2h ago
 
 New Anthropic legal tool sends shares in companies including S&P Global and Intuit sliding
 
-Financial Times • 5h ago
+Financial Times • 6h ago
 
 ---
 
@@ -147,7 +147,7 @@ CNN • 1h ago
 
 What happens when thousands of AI agents get together online and talk like humans do? That’s what a new social network called Moltbook, designed just for AI bots and not people, aims to find out.
 
-CNN • 7h ago
+CNN • 8h ago
 
 ---
 
@@ -161,13 +161,13 @@ The New York Times • 1d ago
 
 I went undercover on Moltbook and loved role-playing as a conscious bot. But rather than a novel breakthrough, the AI-only site is a crude rehashing of sci-fi fantasies.
 
-WIRED • 1h ago
+WIRED • 2h ago
 
 ---
 
 **[The Quiet AI Revolution: Why Most 2026 AI Companies Won’t Look Like AI](https://www.forbes.com/sites/cathyhackl/2026/02/03/the-quiet-ai-revolution-why-most-2026-ai-companies-wont-look-like-ai/)**
 
-Forbes • 31m ago
+Forbes • 1h ago
 
 ---
 
@@ -211,7 +211,7 @@ A bifurcation is happening in AI adoption - power users shipping products in day
 
 Like many organizations, Wiki Education has grappled with generative AI, its impacts, opportunities, and threats, for several years. As an organization that runs large-scale programs to bring new e…
 
-⬆️ 243 • 💬 121 • 2d ago • [Wiki Education](https://wikiedu.org/blog/2026/01/29/generative-ai-and-wikipedia-editing-what-we-learned-in-2025/)
+⬆️ 243 • 💬 121 • 3d ago • [Wiki Education](https://wikiedu.org/blog/2026/01/29/generative-ai-and-wikipedia-editing-what-we-learned-in-2025/)
 
 ---
 
@@ -227,7 +227,7 @@ People familiar with Microsoft's plans say that the company moving to streamline
 
 The Firefox browser is gaining options to turn off AI enhancements, Mozilla said today. Firefox users who prefer to browse without artificial intelligence will be able to turn off several AI features that Mozilla has added over the last several months. Here's what can be disabled:     	Translations, which help you browse the web in your preferred language. Alt text in PDFs, which add accessibility descriptions to images in PDF pages.
 
-⬆️ 198 • 💬 96 • 21h ago • [MacRumors](https://www.macrumors.com/2026/02/02/firefox-ai-toggle/)
+⬆️ 198 • 💬 96 • 22h ago • [MacRumors](https://www.macrumors.com/2026/02/02/firefox-ai-toggle/)
 
 ---
 
@@ -251,7 +251,7 @@ Two popular AI coding extensions with 1.5M installs secretly harvest your entire
 
 The marketplace where AI agents rent humans. MCP integration, REST API, flexible payments. Book humans for real-world tasks your AI can't do.
 
-⬆️ 86 • 💬 77 • 11h ago • [RentAHuman.ai](https://rentahuman.ai)
+⬆️ 86 • 💬 77 • 12h ago • [RentAHuman.ai](https://rentahuman.ai)
 
 ---
 
@@ -267,13 +267,13 @@ Ultra-minimal personal AI agent: starts small, self-modifies its code live, adap
 
 Unified AI configuration management CLI. Contribute to KrystianJonca/lnai development by creating an account on GitHub.
 
-⬆️ 65 • 💬 30 • 12h ago • [GitHub](https://github.com/KrystianJonca/lnai)
+⬆️ 65 • 💬 30 • 13h ago • [GitHub](https://github.com/KrystianJonca/lnai)
 
 ---
 
 **[The next steps for Airbus' big bet on open rotor engines](https://news.ycombinator.com/item?id=46872238)**
 
-⬆️ 52 • 💬 44 • 5h ago • [Aerospace America](https://aerospaceamerica.aiaa.org/the-next-steps-for-airbus-big-bet-on-open-rotor-engines/)
+⬆️ 52 • 💬 44 • 6h ago • [Aerospace America](https://aerospaceamerica.aiaa.org/the-next-steps-for-airbus-big-bet-on-open-rotor-engines/)
 
 ---
 
@@ -365,7 +365,7 @@ This episode is a bit different in that it's a solo episode! I spent this week v
 
 📺 Cool Worlds Podcast
 
-👁️ 74K • 👍 4K • 💬 3K • ⏱️ 1:14:57 • 1d ago
+👁️ 74K • 👍 4K • 💬 3K • ⏱️ 1:14:57 • 2d ago
 
 ---
 
@@ -373,7 +373,7 @@ This episode is a bit different in that it's a solo episode! I spent this week v
 
 📺 John Casterline
 
-👁️ 1.6M • 👍 99K • 💬 1K • ⏱️ 0:35 • 19h ago
+👁️ 1.6M • 👍 99K • 💬 1K • ⏱️ 0:35 • 20h ago
 
 ---
 
@@ -389,7 +389,7 @@ Kimi K2.5 is a native multimodal agentic model with 1T parameters, excelling in 
 
 `image-text-to-text`
 
-⬇️ 123,123 • ❤️ 1,574 • 13h ago
+⬇️ 123,123 • ❤️ 1,574 • 14h ago
 
 ---
 
@@ -401,7 +401,7 @@ HunyuanImage-3.0-Instruct is a native multimodal model for image generation, sup
 
 `image-to-image` `83.0B`
 
-⬇️ 194 • ❤️ 796 • 7h ago
+⬇️ 194 • ❤️ 796 • 8h ago
 
 ---
 
@@ -437,7 +437,7 @@ GLM-OCR is a 0.9B parameter multimodal OCR model for complex document understand
 
 `image-to-text`
 
-⬇️ 2,259 • ❤️ 398 • 18h ago
+⬇️ 2,259 • ❤️ 398 • 19h ago
 
 ---
 
@@ -449,7 +449,7 @@ Step 3.5 Flash is an efficient, open-source MoE foundation model (11B active par
 
 `text-generation` `199.4B`
 
-⬇️ 1,825 • ❤️ 376 • 11h ago
+⬇️ 1,825 • ❤️ 376 • 12h ago
 
 ---
 
@@ -473,7 +473,7 @@ DeepSeek-OCR-2 is a multilingual vision-language model for image-to-text tasks, 
 
 `image-text-to-text` `3.4B`
 
-⬇️ 210,995 • ❤️ 664 • 20h ago
+⬇️ 210,995 • ❤️ 664 • 21h ago
 
 ---
 
@@ -643,7 +643,7 @@ Browser automation CLI for AI agents
 
 `TypeScript`
 
-⭐ 12.4k • 🔱 694 • 13h ago
+⭐ 12.4k • 🔱 694 • 14h ago
 
 ---
 
@@ -673,7 +673,7 @@ LLM驱动的 A/H/美股智能分析器，多数据源行情 + 实时新闻 + Gem
 
 `Python` `agent` `ai` `aigc` `gemini` `llm`
 
-⭐ 9.2k • 🔱 9.6k • 7h ago
+⭐ 9.2k • 🔱 9.6k • 8h ago
 
 ---
 
@@ -683,7 +683,7 @@ LLM驱动的 A/H/美股智能分析器，多数据源行情 + 实时新闻 + Gem
 
 `Vue`
 
-⭐ 7.1k • 🔱 1.3k • 7h ago
+⭐ 7.1k • 🔱 1.3k • 8h ago
 
 ---
 
@@ -693,7 +693,7 @@ The Ultimate Collection of 600+ Agentic Skills for Claude Code/Antigravity/Curso
 
 `Python` `agentic-skills` `ai-agents` `antigravity` `autonomous-coding` `claude-code`
 
-⭐ 6.8k • 🔱 1.5k • 2h ago
+⭐ 6.8k • 🔱 1.5k • 3h ago
 
 ---
 
