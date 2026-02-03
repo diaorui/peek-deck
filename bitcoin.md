@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-02-03T15:11:01.628150+00:00'
+updated: '2026-02-03T16:12:20.691268+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- news
-- videos
 - cryptocurrency
 - social
+- news
+- videos
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** February 03, 2026 at 15:11 UTC  
+**Last Updated:** February 03, 2026 at 16:12 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,17 +38,17 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $78,292.46
+### $77,976.54
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** -0.8%  
-**7d:** -12.3%  
-**30d:** -16.9%  
-**90d:** -22.9%  
-**1y:** -20.0%  
+**24h:** -1.9%  
+**7d:** -13.2%  
+**30d:** -17.7%  
+**90d:** -23.6%  
+**1y:** -20.8%  
 
 ---
 
@@ -81,7 +81,13 @@ Rank #1
 
 Everyone talks about Bitcoin in terms of price: “Next ATH?” “Bull run when?” But the more time I spend learning about Bitcoin, the more I feel price is the least interesting part. Bitcoin makes you question things most of us never do: Why can money be printed infinitely? Why does inflation quietly punish savers? Why do we trust systems we can’t verify? Bitcoin doesn’t promise profits. It offers an alternative. Yes, it’s volatile. Yes, it’s risky. Yes, it’s still early and messy. But so was the internet. Some people buy Bitcoin to flip it. Some buy it as a hedge. Some just want an exit from a system that keeps changing the rules. Curious to know: Do you see Bitcoin as money, store of value, or just speculation? What made you take it seriously (or reject it)? Genuine discussion only — not here to shill or predict prices.
 
-3h ago
+4h ago
+
+---
+
+**[They're buying the dip](https://www.reddit.com/r/Bitcoin/comments/1qus9zl/theyre_buying_the_dip/)**
+
+2h ago
 
 ---
 
@@ -89,7 +95,7 @@ Everyone talks about Bitcoin in terms of price: “Next ATH?” “Bull run when
 
 I learned a lesson financially in that I just have to be patient. I'm -30% or so right now and it feels pretty bad sometimes at night when I think about it and can't sleep like right now. I honestly have no more spare cash to buy this dip without looking reckless in front of family. I can't panic sell but that means I have to tolerate a negative return for the foreseeable future. If I would have DCA for the last 52 weeks of the year I would have been much better prepared for this dip. All the answers I got on reddit were to buy whenever you can and not try to time the market. But in doing so I have no clear exit strategy now. I could sell as soon as we get back to the last ATH and just be done with trying to make a better future for myself. But if that takes years, then its years of agonizing wait that culminate in nothing but my money back. Don't know what to do to make myself feel better. Anyone else in a similar situation with some advice?
 
-6h ago
+7h ago
 
 ---
 
@@ -97,7 +103,7 @@ I learned a lesson financially in that I just have to be patient. I'm -30% or so
 
 JUST IN: 🇺🇸 SEC Chair Paul Atkins says “the time is right to allow” crypto into 401(k) retirement accounts.
 
-🔗 [youtube.com](https://youtube.com/watch?v=nMIKY5Ct6lQ&si=rPNH8-4tGJQsGJN1) • 6h ago
+🔗 [youtube.com](https://youtube.com/watch?v=nMIKY5Ct6lQ&si=rPNH8-4tGJQsGJN1) • 7h ago
 
 ---
 
@@ -105,19 +111,13 @@ JUST IN: 🇺🇸 SEC Chair Paul Atkins says “the time is right to allow” cr
 
 Some random at Bloomberg say it's going to 10k lol If that happens then I get a full coin or two https://www.dlnews.com/articles/markets/bitcoin-price-to-10000-as-markets-barrel-towards-crash/
 
-19h ago
+20h ago
 
 ---
 
 **[From laser eyes to serving fries](https://www.reddit.com/r/Bitcoin/comments/1qu2p0l/from_laser_eyes_to_serving_fries/)**
 
-21h ago
-
----
-
-**[They're buying the dip](https://www.reddit.com/r/Bitcoin/comments/1qus9zl/theyre_buying_the_dip/)**
-
-1h ago
+22h ago
 
 ---
 
@@ -125,13 +125,7 @@ Some random at Bloomberg say it's going to 10k lol If that happens then I get a 
 
 If Bitcoin used to be an asset with a vol. of 80 and drawdowns of -80% from its all-time high, If we know that for the last 2-3 years Bitcoin has had a vol. of 40, wouldn't it be normal to expect a drawdown of -40% from its all-time high? That's precisely the drop we've seen from 126k to 75k, a -40%
 
-3h ago
-
----
-
-**[You’re not going to become wealthy through trading or diversification -- Bitcoin OG and ex-Google Vijay Boyapati](https://www.reddit.com/r/Bitcoin/comments/1qu6izm/youre_not_going_to_become_wealthy_through_trading/)**
-
-18h ago
+4h ago
 
 ---
 
@@ -139,15 +133,21 @@ If Bitcoin used to be an asset with a vol. of 80 and drawdowns of -80% from its 
 
 Why sell BTC when you can hold it in self custody using a hardware wallet (cold storage), or put it to work safely? Selling Bitcoin at this point doesn’t make sense to me. If you have spare cash, buying more looks like the better move.
 
-2h ago
+3h ago
 
 ---
 
-**[Finally got to 2 coins](https://www.reddit.com/r/Bitcoin/comments/1qtxw4m/finally_got_to_2_coins/)**
+**[I’m still up… But must hold](https://www.reddit.com/r/Bitcoin/comments/1quuya7/im_still_up_but_must_hold/)**
 
-Have been in a DCA program for around 3 years and with the dip I was finally able to get to 2. Was not projected to be there until late this year. Bitcoin is on sale! Go get yours (Yes, I know to not answer any DMs, this is not my first rodeo)
+I’ve been watching bitcoin since $5000 back in 2017, and bought only a $1000, but I lost it by trying to trading and fees. Then it crashed, shot up again and was afraid of it. Saw it hit that low $4000s and didn’t think it would come back. Could have paid off all my loans if I wasn’t afraid to invest. Very cautious persons Two years ago I bought again, and then last year. I’m only up by $2000, and the feeing of selling is there again. I will not succumb to it again. If it drops, I will buy more. But damn that fear is tough. Just hold and buy more 🫡
 
-23h ago
+42m ago
+
+---
+
+**[You’re not going to become wealthy through trading or diversification -- Bitcoin OG and ex-Google Vijay Boyapati](https://www.reddit.com/r/Bitcoin/comments/1qu6izm/youre_not_going_to_become_wealthy_through_trading/)**
+
+19h ago
 
 ---
 
@@ -163,17 +163,33 @@ CNBC • 1d ago
 
 ---
 
-**[Crypto market volatility triggers $2.5 billion in bitcoin liquidations](https://www.reuters.com/markets/wealth/crypto-market-volatility-triggers-25-billion-bitcoin-liquidations-2026-02-02/)**
+**['Big Short' investor Michael Burry details the 'sickening scenarios' possible if bitcoin continues to fall](https://www.businessinsider.com/big-short-michael-burry-bitcoin-price-prediction-consequences-2026-2)**
 
-Reuters • 18h ago
+In the worst case scenario, crypto miners could go bankrupt and the metals market could plummet if bitcoin keeps falling, Michael Burry said.
+
+Business Insider • 1h ago
 
 ---
 
-**[Tether launches open-source Bitcoin mining OS to challenge proprietary software](https://www.theblock.co/post/388176/tether-launches-open-source-bitcoin-mining-os-to-challenge-proprietary-software)**
+**[CoinDesk 20 Performance Update: Bitcoin (BTC) Trades Flat as Index Inches Lower](https://www.coindesk.com/coindesk-indices/2026/02/03/coindesk-20-performance-update-bitcoin-btc-trades-flat-as-index-inches-lower)**
 
-Tether has launched MiningOS, an open-source operating system for bitcoin mining as an alternative to proprietary software.
+Hedera (HBAR) declined 2% and Stellar (XLM) dropped 1.6%, leading the index lower from Monday.
 
-The Block • 3h ago
+CoinDesk • 1h ago
+
+---
+
+**[MicroStrategy (MSTR) Stock Barely Escapes Cost-Basis Scare — A 20% Price Swing Awaits?](https://finance.yahoo.com/news/microstrategy-mstr-stock-barely-escapes-150000880.html)**
+
+MicroStrategy stock is moving in lockstep with Bitcoin. With price trapped near key support, a 20% move could decide everything.
+
+Yahoo Finance • 1h ago
+
+---
+
+**[Why Gold Still May Hit $6,000; Bitcoin Tests Trump 2.0 Low](https://www.investors.com/news/gold-price-still-may-hit-6000-deutsche-bank-bitcoin-tests-trump-second-term-low/)**
+
+Investor's Business Daily • 1d ago
 
 ---
 
@@ -181,53 +197,35 @@ The Block • 3h ago
 
 The performance divergence of these two unique assets is on full display.
 
-Yahoo Finance • 2h ago
+Yahoo Finance • 3h ago
 
 ---
 
-**[Altcoins bounce from oversold levels despite broader market caution: Crypto Markets Today](https://www.coindesk.com/markets/2026/02/03/bitcoin-holds-key-support-as-extreme-fear-grips-traders-crypto-markets-today)**
+**[Even In Warsh’s World, Bitcoin Will Be Dumped for Gold](https://www.bloomberg.com/opinion/articles/2026-02-02/even-in-warsh-s-world-bitcoin-will-be-dumped-for-gold)**
 
-Crypto majors eased off overnight highs during Asia trading, with BTC price steady above a critical support zone even as investor sentiment remains deeply bearish.
-
-CoinDesk • 3h ago
+Bloomberg • 21h ago
 
 ---
 
-**[Michael Saylor’s High-Stakes Bitcoin Bet Faces Fresh Strain](https://www.bloomberg.com/news/articles/2026-02-02/michael-saylor-s-high-stakes-bitcoin-bet-faces-fresh-strain)**
+**[Michael Saylor’s Strategy sees bitcoin trade below the purchase price of its holdings](https://www.marketwatch.com/story/michael-saylors-bitcoin-holdings-briefly-went-underwater-2d63d929?gaa_at=eafs&gaa_n=AWEtsqfI9HK_ev3rK2r2dBD4eZERlZ1yZROFT4bd_ltcxbVgw8G7D7swHVDU&gaa_ts=698221cf&gaa_sig=Qk0q8nW77wq4eSUNld4GycM_zCt78Vi6Eu3P4WvW329fKT9BNIIqNAKbKvsF0hVYvosCn-Y9uULqjqVcFkaqwA%3D%3D)**
 
-Bloomberg • 1d ago
-
----
-
-**[Why Did Bitcoin Drop More Than 6% This Weekend?](https://www.nasdaq.com/articles/why-did-bitcoin-drop-more-6-weekend)**
-
-Key PointsBitcoin slumped this past weekend, along with precious metals and a range of risk assets.
-
-Nasdaq • 17h ago
+MarketWatch • 1d ago
 
 ---
 
-**[Why Bitcoin is in a bear market: Analyst points to 3 factors after currency swoons below $75,000](https://fortune.com/2026/02/02/why-bitcoin-is-in-a-bear-market/)**
+**[It’s been a weird few days on Wall Street](https://www.cnn.com/2026/02/02/investing/gold-silver-bitcoin-us-stock-market)**
 
-The original cryptocurrency recovered slightly on Monday.
+Wall Street traders are grappling with sharp swings in precious metals, bitcoin is hovering at its lowest level since April and there are lingering nerves about technology stocks.
 
-Fortune • 20h ago
-
----
-
-**[Epstein Files Show Bitcoin Links, Ripple Rivalries](https://bitbo.io/news/epstein-files-bitcoin-links/)**
-
-Newly released Epstein Files show Jeffrey Epstein’s financial proximity to early bitcoin funding channels and exposure to Ripple-Stellar rivalries, without evidence he was Satoshi Nakamoto or controlled the protocol.
-
-Bitbo • 8h ago
+CNN • 1d ago
 
 ---
 
-**[Better Investment to Make in 2026 and Beyond: Bitcoin vs. iShares Bitcoin Trust](https://www.fool.com/investing/2026/01/31/better-investment-2026-beyond-bitcoin-ibit/)**
+**[Erratic behavior in bitcoin, silver and memory stocks threatens to unnerve bull market](https://www.cnbc.com/2026/02/02/erratic-behavior-in-bitcoin-silver-and-memory-stocks-threatens-to-unnerve-bull-market.html)**
 
-Based on its monster past performance, it makes sense why investors are interested in Bitcoin.
+For a broadly positive start to a year, though, there are a striking number of caveats, extremes and oddities for skeptics to invoke.
 
-The Motley Fool • 3d ago
+CNBC • 1d ago
 
 ---
 
@@ -246,6 +244,14 @@ The Motley Fool • 3d ago
 A list of known attacks against Bitcoin / crypto asset owning entities that occurred in meatspace. - jlopp/physical-bitcoin-attacks
 
 ⬆️ 3 • 💬 0 • 6d ago • [GitHub](https://github.com/jlopp/physical-bitcoin-attacks)
+
+---
+
+**[Bitcoin is coming off a brutal week. Here's what's happening](https://news.ycombinator.com/item?id=46872153)**
+
+Cryptocurrency markets fell as global equities and precious metals sold off while bitcoin liquidations exacerbated downside moves.
+
+⬆️ 1 • 💬 0 • 45m ago • [CNBC](https://www.cnbc.com/2026/02/02/bitcoin-btc-price-today-cryptocurrency.html)
 
 ---
 
@@ -281,7 +287,7 @@ Bitcoin plunged to a two-month low Thursday as risk-on assets broadly fell—and
 
 20 years of Hacker News analyzed. 40M comments. 10,000 topics. What the tech community really thinks.
 
-⬆️ 4 • 💬 0 • 3d ago • [HN Zeitgeist](https://hn.mrzepa.com/)
+⬆️ 4 • 💬 0 • 4d ago • [HN Zeitgeist](https://hn.mrzepa.com/)
 
 ---
 
@@ -289,7 +295,7 @@ Bitcoin plunged to a two-month low Thursday as risk-on assets broadly fell—and
 
 On-chain data revealed that a wallet linked to the token's deployer removed $2.5 million in liquidity, prompting accusations of a possible rug pull.
 
-⬆️ 10 • 💬 12 • 18h ago • [coindesk.com](https://www.coindesk.com/markets/2026/01/13/former-bitcoin-mayor-eric-adams-faces-usd3-million-rugpull-allegation-after-issuing-nyc-coin)
+⬆️ 10 • 💬 12 • 19h ago • [coindesk.com](https://www.coindesk.com/markets/2026/01/13/former-bitcoin-mayor-eric-adams-faces-usd3-million-rugpull-allegation-after-issuing-nyc-coin)
 
 ---
 
@@ -303,14 +309,6 @@ On the other hand
 
 ---
 
-**[Ozow Announces New Crypto Payments Solution Powered by MoneyBadger](https://news.ycombinator.com/item?id=46799830)**
-
-Reporting on Fintech, Crypto, and Blockchain Activity in Africa
-
-⬆️ 1 • 💬 0 • 5d ago • [BitKE](https://bitcoinke.io/2026/01/ozow-announces-payments-solution-by-moneybadger/)
-
----
-
 ---
 
 ## YouTube Videos: "bitcoin"
@@ -321,7 +319,7 @@ LIMITED TIME: ✓ Bitunix (no kyc, $10k bonus): https://www.bitunix.com/register
 
 📺 Altcoin Daily
 
-👁️ 69K • 👍 3K • 💬 333 • ⏱️ 10:56 • 15h ago
+👁️ 69K • 👍 3K • 💬 333 • ⏱️ 10:56 • 16h ago
 
 ---
 
@@ -331,7 +329,7 @@ In this solo episode, Anthony Pompliano explores a key question facing investors
 
 📺 Anthony Pompliano
 
-👁️ 54K • 👍 2K • 💬 209 • ⏱️ 22:42 • 17h ago
+👁️ 54K • 👍 2K • 💬 209 • ⏱️ 22:42 • 18h ago
 
 ---
 
@@ -341,7 +339,7 @@ Let's talk about Bitcoin and the beauty of mathematics! Into The Cryptoverse Pre
 
 📺 Benjamin Cowen
 
-👁️ 30K • 👍 2K • 💬 117 • ⏱️ 6:11 • 10h ago
+👁️ 30K • 👍 2K • 💬 117 • ⏱️ 6:11 • 11h ago
 
 ---
 
@@ -351,7 +349,7 @@ CHECK OUT MY LINKTREE FOR EXCHANGES I USE, BONUSES, FREE VIDEOS, AND MORE! https
 
 📺 My Financial Friend
 
-👁️ 17K • 👍 649 • 💬 324 • ⏱️ 16:29 • 22h ago
+👁️ 17K • 👍 649 • 💬 324 • ⏱️ 16:29 • 23h ago
 
 ---
 
@@ -361,7 +359,7 @@ Asking for a Trend anchor, Josh Lipton breaks down the latest market news for Fe
 
 📺 Yahoo Finance
 
-👁️ 17K • 👍 229 • 💬 135 • ⏱️ 7:00 • 16h ago
+👁️ 17K • 👍 229 • 💬 135 • ⏱️ 7:00 • 17h ago
 
 ---
 
@@ -381,7 +379,7 @@ Tom Lee, Fundstrat Global Advisors head of research and Fundstrat Capital CIO, j
 
 📺 CNBC Television
 
-👁️ 75K • 👍 785 • 💬 654 • ⏱️ 5:40 • 22h ago
+👁️ 75K • 👍 785 • 💬 654 • ⏱️ 5:40 • 23h ago
 
 ---
 
@@ -391,7 +389,7 @@ After Donald Trump's new Federal Reserve chair sent shockwaves through markets a
 
 📺 EllioTrades
 
-👁️ 14K • 👍 1K • 💬 352 • ⏱️ 51:26 • 16h ago
+👁️ 14K • 👍 1K • 💬 352 • ⏱️ 51:26 • 17h ago
 
 ---
 
