@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-02-03T21:58:17.932965+00:00'
+updated: '2026-02-03T22:40:14.309648+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- videos
 - social
-- news
 - cryptocurrency
+- videos
+- news
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** February 03, 2026 at 21:58 UTC  
+**Last Updated:** February 03, 2026 at 22:40 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,33 +38,33 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $76,720.53
+### $75,881.48
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** -2.7%  
-**7d:** -14.0%  
-**30d:** -18.5%  
-**90d:** -24.4%  
-**1y:** -21.6%  
+**24h:** -3.6%  
+**7d:** -14.8%  
+**30d:** -19.3%  
+**90d:** -25.1%  
+**1y:** -22.3%  
 
 ---
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1497.23B
+**Market Cap:** $1515.15B
 Rank #1
 
 **Circulating Supply:** 19,982,656 BTC
 95.2% of max
 
 **All-Time High:** $126,080.00
--40.6%
+-39.8%
 
 **All-Time Low:** $67.81
-+110389.6%
++111820.1%
 
 ---
 
@@ -89,7 +89,13 @@ tl;dr: Over the course of the past 4 years, I took out ~$150,000 in personal loa
 
 I bought btc at 118k, 114k, and 112k. its almost 20% of my whole portfolio , I cant dca much now because of the situation. I have extra but i dont want to increase it further since Im in fear what should i do? if your in my position what you will do? please dont be biased if you are a fan of btc. give me realistic plan and opinion
 
-3h ago
+4h ago
+
+---
+
+**[They're buying the dip](https://www.reddit.com/r/Bitcoin/comments/1qus9zl/theyre_buying_the_dip/)**
+
+8h ago
 
 ---
 
@@ -109,17 +115,19 @@ I’ve been buying Bitcoin since 2021. This drawdown is going to present me with
 
 ---
 
-**[They're buying the dip](https://www.reddit.com/r/Bitcoin/comments/1qus9zl/theyre_buying_the_dip/)**
-
-8h ago
-
----
-
 **[In case y’all didn’t know, BTC is dead…again](https://www.reddit.com/r/Bitcoin/comments/1qv17mv/in_case_yall_didnt_know_btc_is_deadagain/)**
 
 Oh no! BTC is crashing out! BTC is dead again 😱 Whatever shall I do?!? I bought .0004 for $50 when BTC was at 126000 and now it’s only worth $29!!! I’m COOKED! Everyone knows you can’t buy a lambo for $29, BTC needs to GO UP to 1 million so I can buy one for $400! Seriously though, the little stacks of sats that were worth $500-$1000USD that have been recently devalued isn’t life changing money for most anyone. If everyone knows BTC spends 2 years in an upward cycle towards a halving and 2 years in a brief euphoric followed by downward cycle…why is everyone freaking out when apparently it’s on its usual downward way towards an eventual upside of $500k by 2028 thereby making all the diamond hand hundredaire peasants into thousandaire peasants? Remember kids, 1BTC=1BTC…some of us are just mad we can’t buy ‘enough’.
 
-2h ago
+3h ago
+
+---
+
+**[If bitcoin goes back to ATH.](https://www.reddit.com/r/Bitcoin/comments/1qv46tl/if_bitcoin_goes_back_to_ath/)**
+
+And you are buying right now you’ll make 66% return on your useless fiat. But no you’re scared and bitcoin is dead again.
+
+1h ago
 
 ---
 
@@ -127,7 +135,7 @@ Oh no! BTC is crashing out! BTC is dead again 😱 Whatever shall I do?!? I boug
 
 I learned a lesson financially in that I just have to be patient. I'm -30% or so right now and it feels pretty bad sometimes at night when I think about it and can't sleep like right now. I honestly have no more spare cash to buy this dip without looking reckless in front of family. I can't panic sell but that means I have to tolerate a negative return for the foreseeable future. If I would have DCA for the last 52 weeks of the year I would have been much better prepared for this dip. All the answers I got on reddit were to buy whenever you can and not try to time the market. But in doing so I have no clear exit strategy now. I could sell as soon as we get back to the last ATH and just be done with trying to make a better future for myself. But if that takes years, then its years of agonizing wait that culminate in nothing but my money back. Don't know what to do to make myself feel better. Anyone else in a similar situation with some advice?
 
-13h ago
+14h ago
 
 ---
 
@@ -135,15 +143,7 @@ I learned a lesson financially in that I just have to be patient. I'm -30% or so
 
 I’ve been watching bitcoin since $5000 back in 2017, and bought only a $1000, but I lost it by trying to trading and fees. Then it crashed, shot up again and was afraid of it. Saw it hit that low $4000s and didn’t think it would come back. Could have paid off all my loans if I wasn’t afraid to invest. Very cautious persons Two years ago I bought again, and then last year. I’m only up by $2000, and the feeing of selling is there again. I will not succumb to it again. If it drops, I will buy more. But damn that fear is tough. Just hold and buy more 🫡
 
-6h ago
-
----
-
-**[What do i do as a beginner](https://www.reddit.com/r/Bitcoin/comments/1qv04xa/what_do_i_do_as_a_beginner/)**
-
-I’m a beginner in crypto and Bitcoin, and I’m honestly confused about what to do next. I bought my first Bitcoin at around $83,000, then bought again at $89,000, $93,000, and $95,000 as the price kept going up. After that, the price dropped, and I kept buying on the way down at $89,000, $86,000, $83,000, $80,000, $79,000, $78,000, and $77,000. Now Bitcoin is around $74,000, and I’m not sure if I should keep investing more or stop for now. Am I doing DCA correctly, or am I just catching a falling knife? Looking for honest advice from more experienced people ? i know reddit is not best place to take advice but just want to learn more about bitcoin
-
-3h ago
+7h ago
 
 ---
 
@@ -151,7 +151,7 @@ I’m a beginner in crypto and Bitcoin, and I’m honestly confused about what t
 
 I buy straight from Venmo. This good/bad? Same as buying via other methods?
 
-2h ago
+3h ago
 
 ---
 
@@ -167,9 +167,19 @@ CNBC • 1d ago
 
 ---
 
-**[Crypto market volatility triggers $2.5 billion in bitcoin liquidations](https://www.reuters.com/markets/wealth/crypto-market-volatility-triggers-25-billion-bitcoin-liquidations-2026-02-02/)**
+**['Big Short' investor Michael Burry details the 'sickening scenarios' possible if bitcoin continues to fall](https://www.businessinsider.com/big-short-michael-burry-bitcoin-price-prediction-consequences-2026-2)**
 
-Reuters • 1d ago
+In the worst case scenario, crypto miners could go bankrupt and the metals market could plummet if bitcoin keeps falling, Michael Burry said.
+
+Business Insider • 6h ago
+
+---
+
+**[Bitcoin hits lowest level since 2024 and stocks stumble as AI and geopolitical nerves fray](https://www.cnn.com/2026/02/03/investing/us-stock-market-bitcoin)**
+
+A nervous mood swept through markets Tuesday as stocks stumbled and bitcoin slumped to its lowest level since November 2024.
+
+CNN • 2h ago
 
 ---
 
@@ -181,31 +191,11 @@ NBC News • 1h ago
 
 ---
 
-**[Erratic behavior in bitcoin, silver and memory stocks threatens to unnerve bull market](https://www.cnbc.com/2026/02/02/erratic-behavior-in-bitcoin-silver-and-memory-stocks-threatens-to-unnerve-bull-market.html)**
+**[Software losses, value stocks, bitcoin slips: Market Takeaways](https://finance.yahoo.com/video/software-losses-value-stocks-bitcoin-221600724.html)**
 
-For a broadly positive start to a year, though, there are a striking number of caveats, extremes and oddities for skeptics to invoke.
+US stocks (^DJI, ^IXIC, ^GSPC) closed Tuesday's session in negative territory as tech stocks stumble amid their latest wave of earnings results. Yahoo Finance Markets and Data Editor Jared Blikre breaks down the biggest market themes from today’s trading day, including the performance of software and semiconductor stocks, the contrasting trends between value and growth stocks, and bitcoin's (BTC-USD) slide lower. To watch more expert insights and analysis on the latest market action, check out more&nbsp;Asking for a Trend.
 
-CNBC • 1d ago
-
----
-
-**[Bitcoin Selloff Knocks Strategy Stock](https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-02-02-2026/card/bitcoin-selloff-knocks-strategy-stock-NAipQNt3hkAEydQO4uFj?gaa_at=eafs&gaa_n=AWEtsqeVK1RY37oVP3OKkGxDxZFcFmqxdlKlSyBVuUFpwLwOwCkSR3ACTw63&gaa_ts=698265ca&gaa_sig=pk3dwdhuefnRTV5kxIa2QJ5yZVGQ3qNH-1QcbetdVgmweUnGkKSj1FwgAYumEHzKEMtRL9FM6dZIZPStjO6Z5w%3D%3D)**
-
-The Wall Street Journal • 1d ago
-
----
-
-**[The bitcoin play in Musk's $1T SpaceX-xAI merger](https://uk.finance.yahoo.com/video/bitcoin-play-musks-1t-spacex-204805115.html)**
-
-Yahoo Finance UK • 1h ago
-
----
-
-**[Bernstein analyst says bitcoin could bottom out at $60,000, but expects its “most consequential cycle” after that](https://sherwood.news/crypto/bernstein-analyst-says-bitcoin-could-bottom-out-at-usd60-000-but-expects-its/)**
-
-“This is not a ‘bull market correction’ or ‘a dip.’ It is a full-bore, 2022-like, Leonardo-DiCaprio-in-The-Revenant-style crypto winter,” Bitwise...
-
-Sherwood News • 6h ago
+Yahoo Finance • 24m ago
 
 ---
 
@@ -213,7 +203,15 @@ Sherwood News • 6h ago
 
 Crypto treasury companies quietly crept into index funds and retirement accounts. This collapse is good news for all of us.
 
-Slate • 4h ago
+Slate • 5h ago
+
+---
+
+**[Strategy slides after bitcoin briefly dips below crypto firm's key breakeven level](https://www.cnbc.com/2026/02/02/strategy-slides-after-bitcoin-briefly-dips-below-crypto-firms-key-breakeven-level-.html)**
+
+Bitcoin fell as low as about $74,500 early Monday, dipping below Strategy's average purchase price of $76,052 per token.
+
+CNBC • 1d ago
 
 ---
 
@@ -225,11 +223,19 @@ Yahoo Finance • 5h ago
 
 ---
 
-**[Strategy slides after bitcoin briefly dips below crypto firm's key breakeven level](https://www.cnbc.com/2026/02/02/strategy-slides-after-bitcoin-briefly-dips-below-crypto-firms-key-breakeven-level-.html)**
+**[Alleged Ransom Note for Nancy Guthrie Kidnapping Demands Millions in Bitcoin](https://www.tmz.com/2026/02/03/nancy-guthrie-alleged-ransom-note-bitcoin-millions/)**
 
-Bitcoin fell as low as about $74,500 early Monday, dipping below Strategy's average purchase price of $76,052 per token.
+Another scary twist in the disappearance of "TODAY" host Savannah Guthrie's kidnapped mother ... TMZ has received an alleged ransom note demanding payment for the release of Nancy Guthrie.
 
-CNBC • 1d ago
+TMZ • 2h ago
+
+---
+
+**[TMZ receives alleged ransom note demanding millions in Bitcoin for release of Nancy Guthrie](https://www.eastidahonews.com/2026/02/tmz-received-alleged-ransom-note-demanding-millions-in-bitcoin-for-release-of-nancy-guthrie/)**
+
+LOS ANGELES, California — TMZ says it has received an alleged ransom note demanding millions of dollars in Bitcoin for the release of Nancy Guthrie, the missing mother of “Today” show co-anchor Savannah Guthrie. According to the outlet, the note arrived Tuesday morning and instructed that a substantial amount of cryptocurrency be sent to a […]
+
+East Idaho News • 1h ago
 
 ---
 
@@ -247,7 +253,7 @@ CNBC • 1d ago
 
 Cryptocurrency markets fell as global equities and precious metals sold off while bitcoin liquidations exacerbated downside moves.
 
-⬆️ 3 • 💬 0 • 6h ago • [CNBC](https://www.cnbc.com/2026/02/02/bitcoin-btc-price-today-cryptocurrency.html)
+⬆️ 3 • 💬 0 • 7h ago • [CNBC](https://www.cnbc.com/2026/02/02/bitcoin-btc-price-today-cryptocurrency.html)
 
 ---
 
@@ -317,49 +323,71 @@ Reporting on Fintech, Crypto, and Blockchain Activity in Africa
 
 ## YouTube Videos: "bitcoin"
 
-**[Why Luke Gromen sold his bitcoin (and didn’t buy back…yet)](https://www.youtube.com/watch?v=Re-QftD90b4)**
-
-📺 Natalie Brunell
-
-👁️ 13K • 👍 306 • 💬 36 • ⏱️ 1:33 • 23h ago
-
----
-
-**[The Actual Reason Bitcoin Is Crashing (you won&#39;t believe)](https://www.youtube.com/watch?v=rlvplss4VoM)**
+**[Crypto Investors Are In SERIOUS Trouble (Tom Lee &amp; Raoul Pal)](https://www.youtube.com/watch?v=KVKyHOtnSfI)**
 
 LIMITED TIME: ✓ Bitunix (no kyc, $10k bonus): https://www.bitunix.com/register?vipCode=AltcoinDaily 50% deposit bonus on ...
 
 📺 Altcoin Daily
 
-👁️ 128K • 👍 4K • 💬 480 • ⏱️ 9:24 • 2d ago
+👁️ 89K • 👍 3K • 💬 792 • ⏱️ 10:56 • 23h ago
 
 ---
 
-**[Is Bitcoin In A Bear Market?](https://www.youtube.com/watch?v=sAqttSAjmSA)**
+**[&quot;This Means TROUBLE! Exact Reason Why Bitcoin Is Dumping HARD&quot; - Larry Lepard](https://www.youtube.com/watch?v=yIY-Emupe6k)**
 
-In this solo episode, Anthony Pompliano explores a key question facing investors today: Is bitcoin in a bear market? He breaks ...
+Take Control of Your Retirement — Grow Crypto & Gold Tax-Advantaged. https://www.itrustcapital.com/go/savvy-finance If you're ...
 
-📺 Anthony Pompliano
+📺 Savvy Finance
 
-👁️ 61K • 👍 2K • 💬 210 • ⏱️ 22:42 • 23h ago
-
----
-
-**[Cheese is the new Bitcoin#shorts](https://www.youtube.com/watch?v=JpoEG3kAWRY)**
-
-📺 CineRealm
-
-👁️ 1.7M • 👍 75K • 💬 211 • ⏱️ 1:13 • 1d ago
+👁️ 7K • 👍 348 • 💬 34 • ⏱️ 19:30 • 5h ago
 
 ---
 
-**[Bitcoin Cliff Dwellers](https://www.youtube.com/watch?v=oH-uT70Qc6c)**
+**[Bitcoin could keep falling, Novogratz says](https://www.youtube.com/watch?v=6odRJdjwET4)**
 
-Let's provide a Bitcoin damage report. Into The Cryptoverse Premium: https://intothecryptoverse.com You can use the link ...
+"Bitcoin was not supposed to act like this," Michael Novogratz, founder and CEO of Galaxy Digital, says while discussing the ...
 
-📺 Benjamin Cowen
+📺 Bloomberg Television
 
-👁️ 101K • 👍 7K • 💬 292 • ⏱️ 48:03 • 1d ago
+👁️ 4K • 👍 120 • 💬 60 • ⏱️ 7:56 • 2h ago
+
+---
+
+**[This Target is When Bitcoin &amp; Crypto Bounces...](https://www.youtube.com/watch?v=PFbF8ijLMU0)**
+
+Today, let's examine Bitcoin's charts and metrics, as well as the latest Macro and Crypto news. Additionally, a look at the latest ...
+
+📺 CryptosRUs
+
+👁️ 23K • 👍 1K • 💬 205 • ⏱️ 42:17 • 7h ago
+
+---
+
+**[Cathie Wood Buys Fear📉Crypto Market Crash Update](https://www.youtube.com/watch?v=Rwnwmg0F9T8)**
+
+ARK Invest executed major purchases in digital asset stocks on Monday. The firm acquired over $44 million worth of shares ...
+
+📺 Paul Barron Network
+
+👁️ 8K • 👍 1K • 💬 157 • ⏱️ 20:54 • 2h ago
+
+---
+
+**[Why Luke Gromen sold his bitcoin (and didn’t buy back…yet)](https://www.youtube.com/watch?v=Re-QftD90b4)**
+
+📺 Natalie Brunell
+
+👁️ 14K • 👍 324 • 💬 35 • ⏱️ 1:33 • 1d ago
+
+---
+
+**[Bitcoin Crash! 5th Time for me! — Here&#39;s What I&#39;m Doing](https://www.youtube.com/watch?v=bVZRCET1wKQ)**
+
+I'm the guy who told you to buy $1 of Bitcoin in 2011 when it was $1. That video went viral with millions of views. I've been through ...
+
+📺 Davinci Jeremie
+
+👁️ 5K • 👍 301 • 💬 98 • ⏱️ 9:44 • 5h ago
 
 ---
 
@@ -369,45 +397,27 @@ Bitcoin just dropped nearly 40% and the real reason has nothing to do with fear 
 
 📺 Simply Bitcoin
 
-👁️ 73K • 👍 3K • 💬 454 • ⏱️ 16:36 • 1d ago
+👁️ 74K • 👍 3K • 💬 457 • ⏱️ 16:36 • 1d ago
 
 ---
 
-**[Bitcoin, Ethereum &amp; Altcoins DOWN BAD (NOW THIS!?)](https://www.youtube.com/watch?v=CxKURlwrfIM)**
+**[It Started: Trump Just ‘Broke’ The Federal Reserve – Gold, Silver, Bitcoin Collapses](https://www.youtube.com/watch?v=93x3SlywzIM)**
 
-In today's video, we're breaking down why the pain for Bitcoin (BTC), Ethereum (ETH), and the broader Altcoin market might not ...
+To try out Rocket Money today and unlock more features with premium, head to: https://rocketmoney.com/graham - Let's discuss ...
 
-📺 Discover Crypto
+📺 Graham Stephan
 
-👁️ 9K • 👍 476 • 💬 207 • ⏱️ 1:43:46 • 1d ago
-
----
-
-**[Prepare For Bitcoin’s BIGGEST DUMP EVER (Then watch what happens next)](https://www.youtube.com/watch?v=zeu5yJER2i8)**
-
-Prepare for one more BIG CRYPTO CRASH… and then this. ⭐ Follow Altcoin Daily on X: https://twitter.com/AltcoinDaily ...
-
-📺 Altcoin Daily
-
-👁️ 88K • 👍 4K • 💬 367 • ⏱️ 13:49 • 1d ago
+👁️ 524K • 👍 16K • 💬 4K • ⏱️ 15:22 • 1d ago
 
 ---
 
-**[INSANE BITCOIN WEEKLY INDICATOR TELLS ALL! (CAN YOU HANDLE IT?!) #crypto #cryptocurrency #bitcoin](https://www.youtube.com/watch?v=Fo1EizjXTgU)**
+**[Bitcoin: The Beauty of Mathematics (Part 67)](https://www.youtube.com/watch?v=ebaaqMIoQUc)**
 
-📺 CryptoWendyO
+Let's talk about Bitcoin and the beauty of mathematics! Into The Cryptoverse Premium (Use code ITC50 for 50% off your first month ...
 
-👁️ 13K • 👍 686 • 💬 59 • ⏱️ 1:43 • 1d ago
+📺 Benjamin Cowen
 
----
-
-**[Brace Up! Bitcoin&#39;s About to Pull a VERY Shocking Move&quot; - Tom Lee](https://www.youtube.com/watch?v=Fz8xdgyLKBE)**
-
-0:00 – Crypto's Hidden Crash After the October Peak 0:11 – The Biggest Deleveraging Event in Crypto History 0:32 – Over 2 ...
-
-📺 Savvy Finance
-
-👁️ 23K • 👍 557 • 💬 41 • ⏱️ 16:33 • 1d ago
+👁️ 42K • 👍 2K • 💬 129 • ⏱️ 6:11 • 18h ago
 
 ---
 
