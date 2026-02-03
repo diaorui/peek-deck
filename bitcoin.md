@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-02-03T09:43:14.869943+00:00'
+updated: '2026-02-03T10:41:14.271337+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
 - cryptocurrency
 - news
-- videos
 - social
+- videos
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** February 03, 2026 at 09:43 UTC  
+**Last Updated:** February 03, 2026 at 10:41 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -81,19 +81,19 @@ Rank #1
 
 Some random at Bloomberg say it's going to 10k lol If that happens then I get a full coin or two https://www.dlnews.com/articles/markets/bitcoin-price-to-10000-as-markets-barrel-towards-crash/
 
-14h ago
+15h ago
 
 ---
 
 **[From laser eyes to serving fries](https://www.reddit.com/r/Bitcoin/comments/1qu2p0l/from_laser_eyes_to_serving_fries/)**
 
-15h ago
+16h ago
 
 ---
 
 **[You’re not going to become wealthy through trading or diversification -- Bitcoin OG and ex-Google Vijay Boyapati](https://www.reddit.com/r/Bitcoin/comments/1qu6izm/youre_not_going_to_become_wealthy_through_trading/)**
 
-13h ago
+14h ago
 
 ---
 
@@ -101,7 +101,7 @@ Some random at Bloomberg say it's going to 10k lol If that happens then I get a 
 
 I learned a lesson financially in that I just have to be patient. I'm -30% or so right now and it feels pretty bad sometimes at night when I think about it and can't sleep like right now. I honestly have no more spare cash to buy this dip without looking reckless in front of family. I can't panic sell but that means I have to tolerate a negative return for the foreseeable future. If I would have DCA for the last 52 weeks of the year I would have been much better prepared for this dip. All the answers I got on reddit were to buy whenever you can and not try to time the market. But in doing so I have no clear exit strategy now. I could sell as soon as we get back to the last ATH and just be done with trying to make a better future for myself. But if that takes years, then its years of agonizing wait that culminate in nothing but my money back. Don't know what to do to make myself feel better. Anyone else in a similar situation with some advice?
 
-1h ago
+2h ago
 
 ---
 
@@ -109,7 +109,7 @@ I learned a lesson financially in that I just have to be patient. I'm -30% or so
 
 Have been in a DCA program for around 3 years and with the dip I was finally able to get to 2. Was not projected to be there until late this year. Bitcoin is on sale! Go get yours (Yes, I know to not answer any DMs, this is not my first rodeo)
 
-18h ago
+19h ago
 
 ---
 
@@ -117,7 +117,7 @@ Have been in a DCA program for around 3 years and with the dip I was finally abl
 
 JUST IN: 🇺🇸 SEC Chair Paul Atkins says “the time is right to allow” crypto into 401(k) retirement accounts.
 
-🔗 [youtube.com](https://youtube.com/watch?v=nMIKY5Ct6lQ&si=rPNH8-4tGJQsGJN1) • 1h ago
+🔗 [youtube.com](https://youtube.com/watch?v=nMIKY5Ct6lQ&si=rPNH8-4tGJQsGJN1) • 2h ago
 
 ---
 
@@ -125,7 +125,7 @@ JUST IN: 🇺🇸 SEC Chair Paul Atkins says “the time is right to allow” cr
 
 Please utilize this sticky thread for all general Bitcoin discussions! If you see posts on the front page or /r/Bitcoin/new which are better suited for this daily discussion thread, please help out by directing the OP to this thread instead. Thank you! If you don't get an answer to your question, you can try phrasing it differently or commenting again tomorrow. Please check the previous discussion thread for unanswered questions.
 
-3h ago
+4h ago
 
 ---
 
@@ -133,13 +133,13 @@ Please utilize this sticky thread for all general Bitcoin discussions! If you se
 
 The way I see it is now is pretty good time to start a dca for the next 4 years, so here goes nothing. To start I'm only gonna do like $150 a month.. cheers boys and gals
 
-12h ago
+13h ago
 
 ---
 
 **[Thank you Cramer for the local bottom](https://www.reddit.com/r/Bitcoin/comments/1qtzryb/thank_you_cramer_for_the_local_bottom/)**
 
-17h ago
+18h ago
 
 ---
 
@@ -147,7 +147,7 @@ The way I see it is now is pretty good time to start a dca for the next 4 years,
 
 This piece is written for the narrow window between recognition and repricing. It explains why the market feels constrained now, why familiar signals no longer resolve price action, and why March represents the point where this ambiguity hardens into structure. What follows is not a forecast and not a thesis you can verify later without cost. The value of this text lies in when it is read. Once the divergence becomes obvious, the orientation it offers will no longer be available at this price or at all. Read it as access to the phase before consensus arrives.
 
-🔗 [thecoherenceledger.substack.com](https://thecoherenceledger.substack.com/p/the-bond-yield-divergence) • 7h ago
+🔗 [thecoherenceledger.substack.com](https://thecoherenceledger.substack.com/p/the-bond-yield-divergence) • 8h ago
 
 ---
 
@@ -165,13 +165,13 @@ CoinDesk • 1d ago
 
 **[Bitcoin's Historical Patterns Suggest Potential Price Decline](https://www.binance.com/en/square/post/35950192001249)**
 
-Binance • 1h ago
+Binance • 2h ago
 
 ---
 
 **[Michael Saylor’s High-Stakes Bitcoin Bet Faces Fresh Strain](https://www.bloomberg.com/news/articles/2026-02-02/michael-saylor-s-high-stakes-bitcoin-bet-faces-fresh-strain)**
 
-Bloomberg.com • 18h ago
+Bloomberg.com • 19h ago
 
 ---
 
@@ -179,7 +179,7 @@ Bloomberg.com • 18h ago
 
 Strategy's Bitcoin treasury faces unrealized losses amid a market downturn, raising questions about its long-term viability while analysts maintain optimism for substantial stock upside.
 
-Yahoo Finance • 16h ago
+Yahoo Finance • 17h ago
 
 ---
 
@@ -187,7 +187,7 @@ Yahoo Finance • 16h ago
 
 Bitcoin fell as low as about $74,500 early Monday, dipping below Strategy's average purchase price of $76,052 per token.
 
-CNBC • 18h ago
+CNBC • 19h ago
 
 ---
 
@@ -195,7 +195,7 @@ CNBC • 18h ago
 
 For a broadly positive start to a year, though, there are a striking number of caveats, extremes and oddities for skeptics to invoke.
 
-CNBC • 20h ago
+CNBC • 21h ago
 
 ---
 
@@ -209,13 +209,13 @@ The Wall Street Journal • 1d ago
 
 Wall Street traders are grappling with sharp swings in precious metals, bitcoin is hovering at its lowest level since April and there are lingering nerves about technology stocks.
 
-CNN • 18h ago
+CNN • 19h ago
 
 ---
 
 **[Why Gold Still May Hit $6,000; Bitcoin Tests Trump 2.0 Low](https://www.investors.com/news/gold-price-still-may-hit-6000-deutsche-bank-bitcoin-tests-trump-second-term-low/)**
 
-Investor's Business Daily • 18h ago
+Investor's Business Daily • 19h ago
 
 ---
 
@@ -285,7 +285,7 @@ Bitcoin plunged to a two-month low Thursday as risk-on assets broadly fell—and
 
 On-chain data revealed that a wallet linked to the token's deployer removed $2.5 million in liquidity, prompting accusations of a possible rug pull.
 
-⬆️ 8 • 💬 12 • 13h ago • [coindesk.com](https://www.coindesk.com/markets/2026/01/13/former-bitcoin-mayor-eric-adams-faces-usd3-million-rugpull-allegation-after-issuing-nyc-coin)
+⬆️ 8 • 💬 12 • 14h ago • [coindesk.com](https://www.coindesk.com/markets/2026/01/13/former-bitcoin-mayor-eric-adams-faces-usd3-million-rugpull-allegation-after-issuing-nyc-coin)
 
 ---
 
@@ -317,7 +317,7 @@ Tom Lee, Fundstrat Global Advisors head of research and Fundstrat Capital CIO, j
 
 📺 CNBC Television
 
-👁️ 69K • 👍 741 • 💬 622 • ⏱️ 5:40 • 17h ago
+👁️ 69K • 👍 741 • 💬 622 • ⏱️ 5:40 • 18h ago
 
 ---
 
@@ -327,7 +327,7 @@ In this solo episode, Anthony Pompliano explores a key question facing investors
 
 📺 Anthony Pompliano
 
-👁️ 44K • 👍 1K • 💬 75 • ⏱️ 22:42 • 11h ago
+👁️ 44K • 👍 1K • 💬 75 • ⏱️ 22:42 • 12h ago
 
 ---
 
@@ -337,7 +337,7 @@ Let's talk about Bitcoin and the beauty of mathematics! Into The Cryptoverse Pre
 
 📺 Benjamin Cowen
 
-👁️ 16K • 👍 1K • 💬 69 • ⏱️ 6:11 • 5h ago
+👁️ 16K • 👍 1K • 💬 69 • ⏱️ 6:11 • 6h ago
 
 ---
 
@@ -347,7 +347,7 @@ LIMITED TIME: ✓ Bitunix (no kyc, $10k bonus): https://www.bitunix.com/register
 
 📺 Altcoin Daily
 
-👁️ 53K • 👍 2K • 💬 189 • ⏱️ 10:56 • 10h ago
+👁️ 53K • 👍 2K • 💬 189 • ⏱️ 10:56 • 11h ago
 
 ---
 
@@ -357,7 +357,7 @@ After Donald Trump's new Federal Reserve chair sent shockwaves through markets a
 
 📺 EllioTrades
 
-👁️ 12K • 👍 1K • 💬 180 • ⏱️ 51:26 • 11h ago
+👁️ 12K • 👍 1K • 💬 180 • ⏱️ 51:26 • 12h ago
 
 ---
 
@@ -387,7 +387,7 @@ CHECK OUT MY LINKTREE FOR EXCHANGES I USE, BONUSES, FREE VIDEOS, AND MORE! https
 
 📺 My Financial Friend
 
-👁️ 17K • 👍 645 • 💬 252 • ⏱️ 16:29 • 17h ago
+👁️ 17K • 👍 645 • 💬 252 • ⏱️ 16:29 • 18h ago
 
 ---
 
@@ -395,7 +395,7 @@ CHECK OUT MY LINKTREE FOR EXCHANGES I USE, BONUSES, FREE VIDEOS, AND MORE! https
 
 📺 Natalie Brunell
 
-👁️ 9K • 👍 230 • 💬 122 • ⏱️ 1:33 • 11h ago
+👁️ 9K • 👍 230 • 💬 122 • ⏱️ 1:33 • 12h ago
 
 ---
 
