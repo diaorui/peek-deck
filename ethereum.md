@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-02-03T19:28:23.271913+00:00'
+updated: '2026-02-03T20:01:43.005898+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- social
-- news
-- cryptocurrency
 - videos
+- news
+- social
+- cryptocurrency
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** February 03, 2026 at 19:28 UTC  
+**Last Updated:** February 03, 2026 at 20:01 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -36,33 +36,33 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Price
 
-### $2,132.63
+### $2,211.38
 
 ---
 
 ## Ethereum Chart
 
-**24h:** -8.4%  
-**7d:** -29.0%  
-**30d:** -33.7%  
-**90d:** -35.6%  
-**1y:** -22.0%  
+**24h:** -5.7%  
+**7d:** -26.7%  
+**30d:** -31.5%  
+**90d:** -33.4%  
+**1y:** -19.4%  
 
 ---
 
 ## Ethereum Market Stats
 
-**Market Cap:** $269.21B
+**Market Cap:** $266.27B
 Rank #2
 
 **Circulating Supply:** 120,693,657 ETH
 No max supply
 
 **All-Time High:** $4,946.05
--55.0%
+-55.4%
 
 **All-Time Low:** $0.43
-+514118.9%
++509176.4%
 
 ---
 
@@ -72,7 +72,7 @@ No max supply
 
 There have recently been some discussions on the ongoing role of L2s in the Ethereum ecosystem, especially in the face of two facts: L2s' progress to stage 2 (and, secondarily, on interop) has been far slower and more difficult than originally expected L1 itself is scaling, fees are very low, and gaslimits are projected to increase greatly in 2026 Both of these facts, for their own separate reasons, mean that the original vision of L2s and their role in Ethereum no longer makes sense, and we need a new path. First, let us recap the original vision. Ethereum needs to scale. The definition of "Ethereum scaling" is the existence of large quantities of block space that is backed by the full faith and credit of Ethereum - that is, block space where, if you do things (including with ETH) inside that block space, your activities are guaranteed to be valid, uncensored, unreverted, untouched, as long as Ethereum itself functions. If you create a 10000 TPS EVM where its connection to L1 is mediated by a multisig bridge, then you are not scaling Ethereum. This vision no longer makes sense. L1 does not need L2s to be "branded shards", because L1 is itself scaling. And L2s are not able or willing to satisfy the properties that a true "branded shard" would require. I've even seen at least one explicitly saying that they may never want to go beyond stage 1, not just for technical reasons around ZK-EVM safety, but also because their customers' regulatory needs require them to have ultimate control. This may be doing the right thing for your customers. But it should be obvious that if you are doing this, then you are not "scaling Ethereum" in the sense meant by the rollup-centric roadmap. But that's fine! it's fine because Ethereum itself is now scaling directly on L1, with large planned increases to its gas limit this year and the years ahead. We should stop thinking about L2s as literally being "branded shards" of Ethereum, with the social status and responsibilities that this entails. Instead, we can think of L2s as being a full spectrum, which includes both chains backed by the full faith and credit of Ethereum with various unique properties (eg. not just EVM), as well as a whole array of options at different levels of connection to Ethereum, that each person (or bot) is free to care about or not care about depending on their needs. What would I do today if I were an L2? Identify a value add other than "scaling". Examples: (i) non-EVM specialized features/VMs around privacy, (ii) efficiency specialized around a particular application, (iii) truly extreme levels of scaling that even a greatly expanded L1 will not do, (iv) a totally different design for non-financial applications, eg. social, identity, AI, (v) ultra-low-latency and other sequencing properties, (vi) maybe built-in oracles or decentralized dispute resolution or other "non-computationally-verifiable" features Be stage 1 at the minimum (otherwise you really are just a separate L1 with a bridge, and you should just call yourself that) if you're doing things with ETH or other ethereum-issued assets Support maximum interoperability with Ethereum, though this will differ for each one (eg. what if you're not EVM, or even not financial?) From Ethereum's side, over the past few months I've become more convinced of the value of the native rollup precompile, particuarly once we have enshrined ZK-EVM proofs that we need anyway to scale L1. This is a precompile that verifies a ZK-EVM proof, and it's "part of Ethereum", so (i) it auto-upgrades along with Ethereum, and (ii) if the precompile has a bug, Ethereum will hard-fork to fix the bug. The native rollup precompile would make full, security-council-free, EVM verification accessible. We should spend much more time working out how to design it in such a way that if your L2 is "EVM plus other stuff", then the native rollup precompile would verify the EVM, and you only have to bring your own prover for the "other stuff" (eg. Stylus). This might involve a canonical way of exposing a lookup table between contract call inputs and outputs, and letting you provide your own values to the lookup table (that you would prove separately). This would make it easy to have safe, strong, trustless interoperability with Ethereum. It also enables synchronous composability (see: https://ethresear.ch/t/combining-preconfirmations-with-based-rollups-for-synchronous-composability/23863 and https://ethresear.ch/t/synchronous-composability-between-rollups-via-realtime-proving/23998 ). And from there, it's each L2's choice exactly what they want to build. Don't just "extend L1", figure out something new to add. This of course means that some will add things that are trust-dependent, or backdoored, or otherwise insecure; this is unavoidable in a permissionless ecosystem where developers have freedom. Our job should make to make it clear to users what guarantees they have, and to build up the strongest Ethereum that we can.
 
-3h ago
+4h ago
 
 ---
 
@@ -80,7 +80,7 @@ There have recently been some discussions on the ongoing role of L2s in the Ethe
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-13h ago
+14h ago
 
 ---
 
@@ -102,7 +102,7 @@ In June 2016, someone drained ~$60M from The DAO - a decentralized investment fu
 
 Sharing a paid performance opportunity that might be relevant for artists here. Decentraland is running an open call for community DJs / performers to play a pre-recorded set during its 6th Birthday Party in the Theatre on February 20 at 8pm UTC. Key details: Pre-recorded DJ sets only (45–55 minutes) $400 USD paid in MANA per selected performer In-world audience gathered for the birthday event Intended for artists already familiar with Decentraland (not livestreams) This isn’t a pitch about crypto or Web3, it’s a straightforward paid performance slot inside an existing virtual world event. Full details and application here: https://zealous.co/decentraland/opportunity/decentraland-6th-birthday-party/
 
-5h ago
+6h ago
 
 ---
 
@@ -130,7 +130,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 i’ve been working on a yield/token architecture that tries to be very explicit about separation of concerns, and i’m mostly looking for feedback from people who are already uncomfortable with how tightly coupled most defi tokens are today. the basic premise is simple: the token contract should not know or care about yield. no rebases, no transfer hooks, no strategy logic bleeding into balance accounting. instead, all yield is routed through a single on-chain component that handles normalization, accounting, and distribution according to policy. i ended up implementing this as a modular system with a canonical “revenue router”: the base token is just erc20 + voting, nothing else all yield sources plug into a router instead of the token yield gets normalized into a treasury asset before distribution distribution is policy-driven (buybacks, staking, hybrid), not hardcoded yield sources are plugins with tiered trust and execution limits failure isn’t implicit: plugins can be quarantined without nuking the system the goal isn’t yield maximization per se, but predictable value accrual with reduced blast radius. plugins can be permissionless, but they don’t all get the same authority. everything that touches value has explicit constraints. accounting is deterministic. no component can “surprise” the token. i wrote all of this up as a whitepaper (vastitas) and tried to be very concrete about invariants, routing rules, quarantine mechanics, and trade-offs, including some simulated comparisons against monolithic tokens and yield aggregators i’m not trying to sell this as obviously correct. i’m more interested in whether this direction resonates with people who think long-term token sustainability is more about architecture than clever incentives. i made a faulty deployment on arbitrum and a half working one on base. nothing is finalized. i’m mainly looking to pressure-test the ideas with people who agree that this might be a good project. feel free to poke holes, challenge assumptions, or point me to similar work i might have missed.
 
-19h ago
+20h ago
 
 ---
 
@@ -146,22 +146,6 @@ Should I be staking 100% of my Ethereum? Can someone explain to me like im 5 wha
 
 ## Google News: "ethereum"
 
-**[Tom Lee's BitMine Buys the Ethereum Dip, Even as Unrealized Losses Top $6 Billion](https://finance.yahoo.com/news/tom-lees-bitmine-buys-ethereum-162425009.html)**
-
-Publicly traded Ethereum treasury BitMine Immersion Technologies is still buying as ETH plunges, despite the firm's growing losses.
-
-Yahoo Finance • 1d ago
-
----
-
-**[Bitcoin, Ethereum ETF Investments Flip Negative for 2026 as Crypto Funds Shed $1.7B](https://decrypt.co/356622/bitcoin-ethereum-etf-investments-flip-negative-for-2026-as-crypto-funds-shed-1-7b)**
-
-U.S.-listed crypto funds led withdrawals as Bitcoin and Ethereum prices slid after Donald Trump’s nomination of Kevin Warsh for Fed chair.
-
-Decrypt • 1d ago
-
----
-
 **['You are not scaling Ethereum': Vitalik Buterin issues a blunt reality check to the biggest crypto networks](https://www.coindesk.com/business/2026/02/03/you-are-not-scaling-ethereum-vitalik-buterin-issues-a-blunt-reality-check-to-the-biggest-crypto-networks)**
 
 The roadmap in place doesn't make as much sense because progress among layer-2s toward later stages of decentralization has been slower and more difficult, and Ethereum itself is now scaling directly on layer-1.
@@ -170,11 +154,35 @@ CoinDesk • 2h ago
 
 ---
 
-**[Vitalik Buterin reevaluates Ethereum's rollup-centric roadmap, arguing L2s decentralized 'far slower' while base layer advanced](https://www.theblock.co/post/388285/vitalik-buterin-reevaluates-rollup-centric-roadmap-arguing-l2s-decentralized-far-slower-while-ethereum-base-layer-advanced?utm_source=news.xml&utm_medium=rss)**
+**[Tom Lee's BitMine Buys the Ethereum Dip, Even as Unrealized Losses Top $6 Billion](https://finance.yahoo.com/news/tom-lees-bitmine-buys-ethereum-162425009.html)**
 
-Buterin previously championed a "rollup-centric" roadmap that would scale Ethereum through a network of branded shards.
+Publicly traded Ethereum treasury BitMine Immersion Technologies is still buying as ETH plunges, despite the firm's growing losses.
 
-The Block • 2h ago
+Yahoo Finance • 1d ago
+
+---
+
+**[🚨Bitcoin and Ethereum lose amid weakening sentiments on Wall Street](https://www.xtb.com/int/market-analysis/news-and-research/bitcoin-and-ethereum-lose-amid-weakening-sentiments-on-wall-street)**
+
+&#x0D;&#x0A;Amid&#x20;the&#x20;correction&#x20;on&#x20;Wall&#x20;Street,&#x20;Bitcoin&#x20;has&#x20;slipped&#x20;to&#x20;&#x24;76,000,&#x20;and&#x20;even&#x20;more&#x20;than&#x20;&#x24;560&#x20;million&#x20;in&#x20;positive&#x20;net&#x20;inflows&#x20;yesterday&#x20;has&#x20;not&#x20;managed&#x20;to&#x20;slow&#x20;the&#x20;decline.&#x20;The&#x20;RSI...
+
+XTB.com • 2h ago
+
+---
+
+**[The Daily: Bitwise CIO on the 'Leonardo-DiCaprio-in-The-Revenant-style crypto winter,' Vitalik reconsiders Ethereum's rollup-centric roadmap, and more](https://www.theblock.co/post/388329/the-daily-bitwise-cio-on-the-leonardo-dicaprio-in-the-revenant-style-crypto-winter-vitalik-reconsiders-ethereums-rollup-centric-roadmap-and-more?utm_source=news.xml&utm_medium=rss)**
+
+The following article is adapted from The Block’s newsletter, The Daily, which comes out on weekday afternoons.
+
+The Block • 27m ago
+
+---
+
+**[Dogecoin falls 7% as risk-off trade hits Ethereum tied tokens](https://www.coindesk.com/markets/2026/02/04/dogecoin-falls-7-as-risk-off-trade-hits-ethereum-tied-tokens)**
+
+The sell-off was driven by risk-off positioning and heavy derivatives speculation, with futures volume surging even as spot trading declined.
+
+CoinDesk • 23m ago
 
 ---
 
@@ -202,27 +210,19 @@ The Motley Fool • 5h ago
 
 ---
 
-**[Ethereum Price $2,200 Collapse Raises Risk Of A Sub-$2K Spike](https://www.tradingview.com/news/newsbtc:7ac8323ae094b:0-ethereum-price-2-200-collapse-raises-risk-of-a-sub-2k-spike/)**
+**[Bitcoin, Ethereum ETF Investments Flip Negative for 2026 as Crypto Funds Shed $1.7B](https://decrypt.co/356622/bitcoin-ethereum-etf-investments-flip-negative-for-2026-as-crypto-funds-shed-1-7b)**
 
-Ethereum price started a major decline after it failed to clear $2,500. ETH is down 20% and is now struggling to stay above the $2,200 support.Ethereum Price Dips 20%Ethereum price failed to remain stable above $2,550 and started a major decline, like Bitcoin. ETH price traded below $2,400 to enter…
+U.S.-listed crypto funds led withdrawals as Bitcoin and Ethereum prices slid after Donald Trump’s nomination of Kevin Warsh for Fed chair.
 
-TradingView • 1d ago
-
----
-
-**[Crypto Crash: Liquidations Top $2.5 Billion as Bitcoin, Ethereum and XRP Prices Plummet](https://decrypt.co/356557/crypto-crash-liquidations-2-5-billion-bitcoin-ethereum-xrp-plummet)**
-
-The crypto market's recent decline only accelerated Saturday, with Bitcoin falling to nearly $77,000 as liquidations piled up.
-
-Decrypt • 2d ago
+Decrypt • 1d ago
 
 ---
 
-**[Why Are Bitcoin, Ethereum and XRP Prices Going Down Today Again?](https://coinpedia.org/news/why-are-bitcoin-ethereum-and-xrp-prices-going-down-today-again/)**
+**[One Fund Discloses $9 Million Ethereum ETF Exit as Crypto Market Downturn Worsens](https://finance.yahoo.com/news/one-fund-discloses-9-million-124014692.html)**
 
-After a brief recovery yesterday, the crypto market has turned red again. On Monday, prices moved higher after comments from US President Donald Trump,
+The iShares Ethereum Trust ETF provides regulated exposure to ether’s price performance for institutional and retail investors alike.
 
-Coinpedia Fintech News • 3h ago
+Yahoo Finance • 7h ago
 
 ---
 
@@ -236,17 +236,17 @@ Free Milk Road Newsletters: ...
 
 📺 Milk Road
 
-👁️ 15K • 👍 364 • 💬 33 • ⏱️ 15:51 • 2d ago
+👁️ 15K • 👍 367 • 💬 36 • ⏱️ 15:51 • 2d ago
 
 ---
 
-**[BITCOIN AND ETH: BULLS HAVE A CHANCE HERE!!! 🚨🚨🚨 (ISM)](https://www.youtube.com/watch?v=pdpUrzqUSZ0)**
+**[Ethereum Elliott Wave Update – Key Resistance Levels Ahead](https://www.youtube.com/watch?v=ZMK-98Y8N1I)**
 
-FREE TRAINING: https://www.bullmania.com EXCHANGES I USE (bybit, pionex): https://www.bullmania.com/partners My ...
+This video provides a professional Elliott Wave and technical analysis of Ethereum (ETH), focusing on market structure, major ...
 
-📺 Ivan on Tech
+📺 More Crypto Online
 
-👁️ 19K • 👍 1K • 💬 91 • ⏱️ 59:39 • 9h ago
+👁️ 3K • 👍 199 • 💬 19 • ⏱️ 5:48 • 6h ago
 
 ---
 
@@ -256,7 +256,7 @@ Tom Lee Just Said The UNTHINKABLE About Bitcoin & Ethereum! ["It's a Fake Crash"
 
 📺 Crypto Nutshell
 
-👁️ 11K • 👍 414 • 💬 115 • ⏱️ 18:04 • 1d ago
+👁️ 11K • 👍 419 • 💬 116 • ⏱️ 18:04 • 1d ago
 
 ---
 
@@ -266,7 +266,57 @@ After getting chopped up in ETH shorts over the past few months, I found a momen
 
 📺 Taiki Maeda
 
-👁️ 15K • 👍 771 • 💬 215 • ⏱️ 48:54 • 2d ago
+👁️ 15K • 👍 787 • 💬 216 • ⏱️ 48:54 • 2d ago
+
+---
+
+**[BITCOIN AND ETH: HOW BAD IS THIS DUMP (when recovery) 🚨🚨🚨🚨🚨🚨](https://www.youtube.com/watch?v=YawcOhRcens)**
+
+FREE TRAINING: https://www.bullmania.com EXCHANGES I USE (bybit, pionex): https://www.bullmania.com/partners My ...
+
+📺 Ivan on Tech
+
+👁️ 23K • 👍 2K • 💬 126 • ⏱️ 45:22 • 2d ago
+
+---
+
+**[BITCOIN CRASH JUST FLIPPED (Trading Strategy Revealed)!!! - Bitcoin News Today, Ethereum &amp; Altcoins](https://www.youtube.com/watch?v=ObRvo0J4ygM)**
+
+BITCOIN CRASH JUST FLIPPED (Trading Strategy Revealed)!!! - Bitcoin News Today, Ethereum & Altcoins *Toobit* ...
+
+📺 Crypto World
+
+👁️ 10K • 👍 370 • 💬 505 • ⏱️ 23:54 • 22h ago
+
+---
+
+**[Why Bitcoin, ETH &amp; Altcoins Are CRASHING HARD](https://www.youtube.com/watch?v=-rrpLsrAr9Q)**
+
+Nick Valdez looks at the latest market crash with the next level Bitcoin MUST hold for support! Join Our Trading Group Discord ...
+
+📺 Discover Crypto
+
+👁️ 26K • 👍 832 • 💬 182 • ⏱️ 4:28 • 2d ago
+
+---
+
+**[BITCOIN CRASH: The Reset Has Started (Prepare Now)!!! - Bitcoin News Today, Ethereum &amp; Altcoins](https://www.youtube.com/watch?v=965Ua9hPGww)**
+
+BITCOIN CRASH: The Reset Has Started (Prepare Now)!!! - Bitcoin News Today, Ethereum & Altcoins *Toobit* ...
+
+📺 Crypto World
+
+👁️ 19K • 👍 518 • 💬 157 • ⏱️ 24:14 • 1d ago
+
+---
+
+**[Ethereum Elliott Wave Update – Key Resistance Levels Ahead](https://www.youtube.com/watch?v=jWTDD2LCsQY)**
+
+This video provides a professional Elliott Wave and technical analysis of Ethereum (ETH), focusing on market structure, major ...
+
+📺 More Crypto Online
+
+👁️ 5K • 👍 246 • 💬 9 • ⏱️ 8:33 • 2d ago
 
 ---
 
@@ -277,56 +327,6 @@ FREE TRAINING: https://www.bullmania.com EXCHANGES I USE (bybit, pionex): https:
 📺 Ivan on Tech
 
 👁️ 28K • 👍 2K • 💬 213 • ⏱️ 46:08 • 1d ago
-
----
-
-**[BITCOIN CRASH JUST FLIPPED (Trading Strategy Revealed)!!! - Bitcoin News Today, Ethereum &amp; Altcoins](https://www.youtube.com/watch?v=ObRvo0J4ygM)**
-
-BITCOIN CRASH JUST FLIPPED (Trading Strategy Revealed)!!! - Bitcoin News Today, Ethereum & Altcoins *Toobit* ...
-
-📺 Crypto World
-
-👁️ 10K • 👍 366 • 💬 500 • ⏱️ 23:54 • 21h ago
-
----
-
-**[Ethereum Elliott Wave Update – Key Resistance Levels Ahead](https://www.youtube.com/watch?v=zCCN5NIzpqk)**
-
-This video provides a professional Elliott Wave and technical analysis of Ethereum (ETH), focusing on market structure, major ...
-
-📺 More Crypto Online
-
-👁️ 3K • 👍 180 • 💬 29 • ⏱️ 5:14 • 20h ago
-
----
-
-**[Ethereum Elliott Wave Update – Key Resistance Levels Ahead](https://www.youtube.com/watch?v=DUSA5M4i43M)**
-
-This video provides a professional Elliott Wave and technical analysis of Ethereum (ETH), focusing on market structure, major ...
-
-📺 More Crypto Online
-
-👁️ 4K • 👍 256 • 💬 19 • ⏱️ 5:18 • 1d ago
-
----
-
-**[Bitcoin, Ethereum &amp; Altcoins DOWN BAD (NOW THIS!?)](https://www.youtube.com/watch?v=CxKURlwrfIM)**
-
-In today's video, we're breaking down why the pain for Bitcoin (BTC), Ethereum (ETH), and the broader Altcoin market might not ...
-
-📺 Discover Crypto
-
-👁️ 9K • 👍 477 • 💬 167 • ⏱️ 1:43:46 • 1d ago
-
----
-
-**[Tom Lee Drops HUGE Warning About 2026 | The Bull Run Has CHANGED](https://www.youtube.com/watch?v=3dh-JR2mdzA)**
-
-FREE Daily On-Chain Analysis & Crypto News In 5-Mins: http://bit.ly/TheCryptoNutshell Watch The FULL Interview: "Tom ...
-
-📺 Library Of Wealth
-
-👁️ 7K • 👍 165 • 💬 201 • ⏱️ 15:18 • 1d ago
 
 ---
 
