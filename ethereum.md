@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-02-03T22:40:14.315506+00:00'
+updated: '2026-02-03T23:29:01.266227+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- social
 - cryptocurrency
-- videos
+- social
 - news
+- videos
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** February 03, 2026 at 22:40 UTC  
+**Last Updated:** February 03, 2026 at 23:29 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -80,13 +80,13 @@ There have recently been some discussions on the ongoing role of L2s in the Ethe
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-16h ago
+17h ago
 
 ---
 
 **[Effect-TS library for EVM frontends](https://www.reddit.com/r/ethereum/comments/1quxszt/effectts_library_for_evm_frontends/)**
 
-5h ago
+6h ago
 
 ---
 
@@ -94,13 +94,13 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 Sharing a paid performance opportunity that might be relevant for artists here. Decentraland is running an open call for community DJs / performers to play a pre-recorded set during its 6th Birthday Party in the Theatre on February 20 at 8pm UTC. Key details: Pre-recorded DJ sets only (45–55 minutes) $400 USD paid in MANA per selected performer In-world audience gathered for the birthday event Intended for artists already familiar with Decentraland (not livestreams) This isn’t a pitch about crypto or Web3, it’s a straightforward paid performance slot inside an existing virtual world event. Full details and application here: https://zealous.co/decentraland/opportunity/decentraland-6th-birthday-party/
 
-8h ago
+9h ago
 
 ---
 
 **[ZK (Zero knowledge) proof for SHA-256: 312-byte proof, ~18µs verification](https://www.reddit.com/r/ethereum/comments/1qv2hzp/zk_zero_knowledge_proof_for_sha256_312byte_proof/)**
 
-2h ago
+3h ago
 
 ---
 
@@ -114,7 +114,7 @@ In June 2016, someone drained ~$60M from The DAO - a decentralized investment fu
 
 **[Advice/tips/resources on finding a CTO (growth stage company)](https://www.reddit.com/r/ethereum/comments/1quqccs/advicetipsresources_on_finding_a_cto_growth_stage/)**
 
-10h ago
+11h ago
 
 ---
 
@@ -122,7 +122,7 @@ In June 2016, someone drained ~$60M from The DAO - a decentralized investment fu
 
 i’ve been working on a yield/token architecture that tries to be very explicit about separation of concerns, and i’m mostly looking for feedback from people who are already uncomfortable with how tightly coupled most defi tokens are today. the basic premise is simple: the token contract should not know or care about yield. no rebases, no transfer hooks, no strategy logic bleeding into balance accounting. instead, all yield is routed through a single on-chain component that handles normalization, accounting, and distribution according to policy. i ended up implementing this as a modular system with a canonical “revenue router”: the base token is just erc20 + voting, nothing else all yield sources plug into a router instead of the token yield gets normalized into a treasury asset before distribution distribution is policy-driven (buybacks, staking, hybrid), not hardcoded yield sources are plugins with tiered trust and execution limits failure isn’t implicit: plugins can be quarantined without nuking the system the goal isn’t yield maximization per se, but predictable value accrual with reduced blast radius. plugins can be permissionless, but they don’t all get the same authority. everything that touches value has explicit constraints. accounting is deterministic. no component can “surprise” the token. i wrote all of this up as a whitepaper (vastitas) and tried to be very concrete about invariants, routing rules, quarantine mechanics, and trade-offs, including some simulated comparisons against monolithic tokens and yield aggregators i’m not trying to sell this as obviously correct. i’m more interested in whether this direction resonates with people who think long-term token sustainability is more about architecture than clever incentives. i made a faulty deployment on arbitrum and a half working one on base. nothing is finalized. i’m mainly looking to pressure-test the ideas with people who agree that this might be a good project. feel free to poke holes, challenge assumptions, or point me to similar work i might have missed.
 
-22h ago
+23h ago
 
 ---
 
@@ -148,7 +148,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 The roadmap in place doesn't make as much sense because progress among layer-2s toward later stages of decentralization has been slower and more difficult, and Ethereum itself is now scaling directly on layer-1.
 
-CoinDesk • 5h ago
+CoinDesk • 6h ago
 
 ---
 
@@ -156,7 +156,7 @@ CoinDesk • 5h ago
 
 Buterin previously championed a "rollup-centric" roadmap that would scale Ethereum through a network of branded shards.
 
-The Block • 5h ago
+The Block • 6h ago
 
 ---
 
@@ -164,7 +164,7 @@ The Block • 5h ago
 
 The Ethereum co-founder argues for a pivot from the rollup-centric roadmap, citing progress made towards scaling the base layer.
 
-thedefiant.io • 2h ago
+thedefiant.io • 3h ago
 
 ---
 
@@ -172,7 +172,7 @@ thedefiant.io • 2h ago
 
 &amp;nbsp&#x3B;&#x0D;&#x0A;&#x0D;&#x0A;&#x0D;&#x0A;&#x0D;&#x0A;&#x09;The&#x20;U.S.&#x20;technology&#x20;sector&#x20;is&#x20;seeing&#x20;a&#x20;sharp&#x20;sell-off&#x20;today,&#x20;pushing&#x20;the&#x20;Nasdaq&#x20;100&#x20;down&#x20;more&#x20;than&#x20;2&#x25;.&#x20;S&amp;amp&#x3B;P&#x20;500&#x20;futures&#x20;&#x28;US500&#x29;&#x20;are&#x20;off&#x20;by&#x20;nearly&#x20;1.7&#x25;,&#x20;slipping&#x20;t...
 
-XTB.com • 2h ago
+XTB.com • 3h ago
 
 ---
 
@@ -234,7 +234,7 @@ This video provides a professional Elliott Wave and technical analysis of Ethere
 
 📺 More Crypto Online
 
-👁️ 3K • 👍 200 • 💬 17 • ⏱️ 5:48 • 9h ago
+👁️ 3K • 👍 200 • 💬 17 • ⏱️ 5:48 • 10h ago
 
 ---
 
@@ -264,7 +264,7 @@ FREE TRAINING: https://www.bullmania.com EXCHANGES I USE (bybit, pionex): https:
 
 📺 Ivan on Tech
 
-👁️ 23K • 👍 1K • 💬 105 • ⏱️ 59:39 • 12h ago
+👁️ 23K • 👍 1K • 💬 105 • ⏱️ 59:39 • 13h ago
 
 ---
 
@@ -324,7 +324,7 @@ LIMITED TIME: ✓ Bitunix (no kyc, $10k bonus): https://www.bitunix.com/register
 
 📺 Altcoin Daily
 
-👁️ 89K • 👍 3K • 💬 792 • ⏱️ 10:56 • 23h ago
+👁️ 89K • 👍 3K • 💬 792 • ⏱️ 10:56 • 1d ago
 
 ---
 
