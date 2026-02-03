@@ -3,14 +3,14 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-02-03T14:25:52.512693+00:00'
+updated: '2026-02-03T15:11:01.619581+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- videos
 - news
 - repositories
+- videos
 - social
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 AI news, discussions, and developments
 
-**Last Updated:** February 03, 2026 at 14:25 UTC  
+**Last Updated:** February 03, 2026 at 15:11 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -41,7 +41,7 @@ AI news, discussions, and developments
 
 For those of you who aren't familiar with SurfSense, it aims to be OSS alternative to NotebookLM, Perplexity, and Glean. In short, it is NotebookLM for teams, as it connects any LLM to your internal knowledge sources (search engines, Drive, Calendar, Notion, Obsidian, and 15+ other connectors) and lets you chat with it in real time alongside your team. I'm looking for contributors. If you're interested in AI agents, RAG, browser extensions, or building open-source research tools, this is a great place to jump in. Here's a quick look at what SurfSense offers right now: Features Self-Hostable (with docker support) Real Time Collaborative Chats Real Time Commenting Deep Agentic Agent RBAC (Role Based Access for Teams Members) Supports Any LLM (OpenAI spec with LiteLLM) 6000+ Embedding Models 50+ File extensions supported (Added Docling recently) Local TTS/STT support. Connects with 15+ external sources such as Search Engines, Slack, Notion, Gmail, Notion, Confluence etc Cross-Browser Extension to let you save any dynamic webpage you want, including authenticated content. Upcoming Planned Features Slide Creation Support Multilingual Podcast Support Video Creation Agent GitHub: https://github.com/MODSetter/SurfSense
 
-7h ago
+8h ago
 
 ---
 
@@ -49,13 +49,13 @@ For those of you who aren't familiar with SurfSense, it aims to be OSS alternati
 
 Anthropic has cemented a multi-year partnership with the Atlassian Williams Formula 1 team, its first sports sponsorship as AI companies make deeper inroads into professional sports.
 
-🔗 [adweek.com](https://www.adweek.com/brand-marketing/anthropics-claude-is-williams-f1s-thinking-partner-as-ai-brands-race-into-sports/) • 18m ago
+🔗 [adweek.com](https://www.adweek.com/brand-marketing/anthropics-claude-is-williams-f1s-thinking-partner-as-ai-brands-race-into-sports/) • 1h ago
 
 ---
 
 **[AI social network Moltbook exposed data of 6,000 users, Wiz says](https://www.reddit.com/r/artificial/comments/1qut1je/ai_social_network_moltbook_exposed_data_of_6000/)**
 
-🔗 [reuters.com](https://www.reuters.com/legal/litigation/moltbook-social-media-site-ai-agents-had-big-security-hole-cyber-firm-wiz-says-2026-02-02/) • 10m ago
+🔗 [reuters.com](https://www.reuters.com/legal/litigation/moltbook-social-media-site-ai-agents-had-big-security-hole-cyber-firm-wiz-says-2026-02-02/) • 55m ago
 
 ---
 
@@ -63,13 +63,13 @@ Anthropic has cemented a multi-year partnership with the Atlassian Williams Form
 
 Open-source voice cloning + multi-speaker podcast tool. GPT 5.2 generates scripts, Qwen3-TTS handles synthesis locally. Modular architecture - swap the LLM for Llama, Mistral, whatever. GitHub: https://github.com/bc-dunia/qwen3-TTS-studio
 
-9h ago
+10h ago
 
 ---
 
 **[Inside Elon Musk’s Nudification of Grok | Washington Post](https://www.reddit.com/r/artificial/comments/1quspyb/inside_elon_musks_nudification_of_grok_washington/)**
 
-🔗 [Instrumental Communications](https://www.instrumentalcomms.com/blog/musk-turns-grok-into-porn-generator-nancy-mace-is-not-okay#ai) • 23m ago
+🔗 [Instrumental Communications](https://www.instrumentalcomms.com/blog/musk-turns-grok-into-porn-generator-nancy-mace-is-not-okay#ai) • 1h ago
 
 ---
 
@@ -77,7 +77,7 @@ Open-source voice cloning + multi-speaker podcast tool. GPT 5.2 generates script
 
 With the concerns raised over comments by Mozilla's new CEO with wanting to evolve Firefox into a 'modern AI browser',  the Firefox 148 release due out later this month aims to address some of those concerns by having a new AI controls area within the web browser's settings.
 
-🔗 [phoronix.com](https://www.phoronix.com/news/Firefox-148-AI-Controls) • 17h ago
+🔗 [phoronix.com](https://www.phoronix.com/news/Firefox-148-AI-Controls) • 18h ago
 
 ---
 
@@ -121,7 +121,7 @@ I’ve been thinking a lot about AI storytelling tools lately, and something kee
 
 Annual review highlights growing capabilities of AI models, while examining issues from cyber-attacks to job disruption
 
-The Guardian • 9h ago
+The Guardian • 10h ago
 
 ---
 
@@ -129,7 +129,7 @@ The Guardian • 9h ago
 
 Musk is combining rocket maker SpaceX with his AI startup, the largest tie-up in his expansive business portfolio.
 
-CNBC • 16h ago
+CNBC • 17h ago
 
 ---
 
@@ -145,13 +145,13 @@ Le Monde.fr • 1h ago
 
 The biggest tech companies are increasingly getting creative with their balance sheets as they finance their AI ambitions.
 
-Axios • 2h ago
+Axios • 3h ago
 
 ---
 
 **[RELX, Wolters Kluwer Shares Plunge on AI Competition Fears](https://www.wsj.com/tech/ai/relx-wolters-kluwer-shares-plunge-on-ai-competition-fears-306d616e?gaa_at=eafs&gaa_n=AWEtsqe5bwRWAF7QOsqVB9JX2tUf6EFnjetVjqfvyzFycTknTa-_DTvtAE2M&gaa_ts=698208dd&gaa_sig=WmgHH1rbC_6IT263G1YZ8OMBb3-zk1MilQ65EPnsxF9b6p1kRb35_-FPgnH_wUD18TTb8e2GNW6n1zWu1R9l7g%3D%3D)**
 
-The Wall Street Journal • 27m ago
+The Wall Street Journal • 1h ago
 
 ---
 
@@ -159,7 +159,7 @@ The Wall Street Journal • 27m ago
 
 Peak XV is transitioning board roles and opening a U.S. office while continuing to view India as its largest market.
 
-TechCrunch • 11m ago
+TechCrunch • 56m ago
 
 ---
 
@@ -167,7 +167,7 @@ TechCrunch • 11m ago
 
 CNBC Select spotlights some picks for AI-powered finance apps, what they can do, and when you still need a human financial planner.
 
-CNBC • 20m ago
+CNBC • 1h ago
 
 ---
 
@@ -175,7 +175,7 @@ CNBC • 20m ago
 
 Are Meta and Google ads really recession-proof?
 
-The Economist • 18h ago
+The Economist • 19h ago
 
 ---
 
@@ -191,7 +191,7 @@ BBC • 1d ago
 
 Using LLMs to talk with your friends is efficient. It’s also bad etiquette.
 
-The Atlantic • 2h ago
+The Atlantic • 3h ago
 
 ---
 
@@ -227,7 +227,7 @@ People familiar with Microsoft's plans say that the company moving to streamline
 
 The Firefox browser is gaining options to turn off AI enhancements, Mozilla said today. Firefox users who prefer to browse without artificial intelligence will be able to turn off several AI features that Mozilla has added over the last several months. Here's what can be disabled:     	Translations, which help you browse the web in your preferred language. Alt text in PDFs, which add accessibility descriptions to images in PDF pages.
 
-⬆️ 174 • 💬 87 • 14h ago • [MacRumors](https://www.macrumors.com/2026/02/02/firefox-ai-toggle/)
+⬆️ 174 • 💬 87 • 15h ago • [MacRumors](https://www.macrumors.com/2026/02/02/firefox-ai-toggle/)
 
 ---
 
@@ -235,7 +235,7 @@ The Firefox browser is gaining options to turn off AI enhancements, Mozilla said
 
 We’re expanding Game Arena with Poker and Werewolf, while Gemini 3 Pro and Flash top our chess leaderboard.
 
-⬆️ 128 • 💬 53 • 20h ago • [Google](https://blog.google/innovation-and-ai/models-and-research/google-deepmind/kaggle-game-arena-updates/)
+⬆️ 128 • 💬 53 • 21h ago • [Google](https://blog.google/innovation-and-ai/models-and-research/google-deepmind/kaggle-game-arena-updates/)
 
 ---
 
@@ -259,19 +259,19 @@ Ultra-minimal personal AI agent: starts small, self-modifies its code live, adap
 
 The marketplace where AI agents rent humans. MCP integration, REST API, flexible payments. Book humans for real-world tasks your AI can't do.
 
-⬆️ 69 • 💬 60 • 4h ago • [RentAHuman.ai](https://rentahuman.ai)
+⬆️ 69 • 💬 60 • 5h ago • [RentAHuman.ai](https://rentahuman.ai)
 
 ---
 
 **[We asked 15k European devs about jobs, salaries, and AI [pdf]](https://news.ycombinator.com/item?id=46857124)**
 
-⬆️ 49 • 💬 64 • 22h ago • [static.germantechjobs.de](https://static.germantechjobs.de/market-reports/European-Transparent-IT-Job-Market-Report-2025.pdf)
+⬆️ 49 • 💬 64 • 23h ago • [static.germantechjobs.de](https://static.germantechjobs.de/market-reports/European-Transparent-IT-Job-Market-Report-2025.pdf)
 
 ---
 
 **[Rural Americans are trying to hold back the tide of AI](https://news.ycombinator.com/item?id=46857082)**
 
-⬆️ 43 • 💬 46 • 22h ago • [wsj.com](https://www.wsj.com/politics/policy/these-rural-americans-are-trying-to-hold-back-the-tide-of-ai-66945306)
+⬆️ 43 • 💬 46 • 23h ago • [wsj.com](https://www.wsj.com/politics/policy/these-rural-americans-are-trying-to-hold-back-the-tide-of-ai-66945306)
 
 ---
 
@@ -279,13 +279,23 @@ The marketplace where AI agents rent humans. MCP integration, REST API, flexible
 
 ## YouTube Videos: "ai"
 
+**[Every Essential AI Video Generation Skill in 2026](https://www.youtube.com/watch?v=t6NT9VpWS1w)**
+
+Access Every AI Video & Image Model in OpenArt https://roboverse-ai.com/AI-Video-Skills In this video, I break down the five ...
+
+📺 Roboverse
+
+👁️ 4K • 💬 7 • ⏱️ 19:21 • 1h ago
+
+---
+
 **[5 AI CEOs Just Said The Same Thing](https://www.youtube.com/watch?v=kMivoKHHkxQ)**
 
 Rebellionaire: https://www.rebellionaire.com/farzad Join my exclusive community: https://farzad.fm Buy Matic: ...
 
 📺 Farzad
 
-👁️ 162K • 👍 6K • 💬 1K • ⏱️ 23:45 • 1d ago
+👁️ 181K • 👍 7K • 💬 1K • ⏱️ 23:45 • 1d ago
 
 ---
 
@@ -295,7 +305,7 @@ Detailed sources: ...
 
 📺 Species | Documenting AGI
 
-👁️ 240K • 👍 17K • 💬 2K • ⏱️ 18:06 • 2d ago
+👁️ 246K • 👍 17K • 💬 2K • ⏱️ 18:06 • 2d ago
 
 ---
 
@@ -305,7 +315,7 @@ A new AI platform called Moltbook suddenly exploded online, and it is built enti
 
 📺 AI Revolution
 
-👁️ 65K • 👍 2K • 💬 380 • ⏱️ 11:48 • 1d ago
+👁️ 68K • 👍 3K • 💬 389 • ⏱️ 11:48 • 1d ago
 
 ---
 
@@ -315,17 +325,7 @@ Starforge PC https://starforgepc.com/moist-yt Get Goof Juice and use code MOIST 
 
 📺 penguinz0
 
-👁️ 899K • 👍 35K • 💬 3K • ⏱️ 14:30 • 20h ago
-
----
-
-**[AI Bubble Is POPPING In Real Time!](https://www.youtube.com/watch?v=B5Q8n8HELTk)**
-
-Build. Upgrade. Save: https://micro.center/89ae6a ▻Sign up for a FREE 128gig Flash Drive at Micro Center Austin: ...
-
-📺 Gamer Meld
-
-👁️ 28K • 👍 2K • 💬 303 • ⏱️ 8:48 • 13h ago
+👁️ 920K • 👍 35K • 💬 3K • ⏱️ 14:30 • 21h ago
 
 ---
 
@@ -335,17 +335,7 @@ Nathan Lambert and Sebastian Raschka are machine learning researchers, engineers
 
 📺 Lex Fridman
 
-👁️ 411K • 👍 9K • 💬 664 • ⏱️ 4:25:13 • 2d ago
-
----
-
-**[Reddit For AI Bots and AI University Is Wild | MoistCr1TiKaL](https://www.youtube.com/watch?v=1XLwNaHslIo)**
-
-Who's ready to graduate from Maestro? [Streamed 2/1/26] You can now watch on Spotify!
-
-📺 Moist Charlie Clips
-
-👁️ 16K • 👍 649 • 💬 54 • ⏱️ 13:38 • 21h ago
+👁️ 417K • 👍 9K • 💬 670 • ⏱️ 4:25:13 • 2d ago
 
 ---
 
@@ -355,17 +345,27 @@ Join our WhatsApp Community Get the latest AI updates, tips, and insights straig
 
 📺 Vaibhav Sisinty
 
-👁️ 33K • 👍 1K • 💬 63 • ⏱️ 15:34 • 23h ago
+👁️ 36K • 👍 1K • 💬 65 • ⏱️ 15:34 • 1d ago
 
 ---
 
-**[Cute baby Gave His Mother A Beautiful Flying Horse 🐎 #ai #cute #shorts](https://www.youtube.com/watch?v=fs9VOc2XnhQ)**
+**[Reddit For AI Bots and AI University Is Wild | MoistCr1TiKaL](https://www.youtube.com/watch?v=1XLwNaHslIo)**
 
-Cute baby Gave His Mother A Beautiful Flying Horse #ai #cute #shorts This video is made for entertainment purposes only.
+Who's ready to graduate from Maestro? [Streamed 2/1/26] You can now watch on Spotify!
 
-📺 ToonTales Creation
+📺 Moist Charlie Clips
 
-👁️ 639 • ⏱️ 0:36 • 1h ago
+👁️ 17K • 👍 648 • 💬 56 • ⏱️ 13:38 • 22h ago
+
+---
+
+**[Moltbook: Where AI bots socialize](https://www.youtube.com/watch?v=y_QhAA1pbYE)**
+
+CNBC's Deirdre Bosa reports on news regarding AI autonomy.
+
+📺 CNBC Television
+
+👁️ 15K • 👍 232 • 💬 116 • ⏱️ 3:25 • 22h ago
 
 ---
 
@@ -373,7 +373,7 @@ Cute baby Gave His Mother A Beautiful Flying Horse #ai #cute #shorts This video 
 
 📺 Onevilage
 
-👁️ 205K • 👍 9K • 💬 267 • ⏱️ 0:20 • 21h ago
+👁️ 232K • 👍 10K • 💬 285 • ⏱️ 0:20 • 22h ago
 
 ---
 
@@ -389,7 +389,7 @@ Kimi K2.5 is a native multimodal agentic model with 1T parameters, excelling in 
 
 `image-text-to-text`
 
-⬇️ 123,123 • ❤️ 1,551 • 6h ago
+⬇️ 123,123 • ❤️ 1,558 • 7h ago
 
 ---
 
@@ -401,7 +401,7 @@ Z-Image is an undistilled, high-fidelity text-to-image diffusion transformer mod
 
 `text-to-image`
 
-⬇️ 8,280 • ❤️ 816 • 5d ago
+⬇️ 8,280 • ❤️ 819 • 6d ago
 
 ---
 
@@ -413,19 +413,7 @@ HunyuanImage-3.0-Instruct is a native multimodal model for image generation, sup
 
 `image-to-image` `83.0B`
 
-⬇️ 194 • ❤️ 792 • 6d ago
-
----
-
-**[DeepSeek-OCR-2](https://huggingface.co/deepseek-ai/DeepSeek-OCR-2)**
-
-*DeepSeek*
-
-DeepSeek-OCR-2 is a multilingual vision-language model for image-to-text tasks, excelling at document understanding and OCR with dynamic resolution support for high-fidelity text extraction and conversion to formats like Markdown.
-
-`image-text-to-text` `3.4B`
-
-⬇️ 210,995 • ❤️ 659 • 13h ago
+⬇️ 194 • ❤️ 794 • 1h ago
 
 ---
 
@@ -437,7 +425,19 @@ PersonaPlex-7B-v1 is a real-time, full-duplex speech-to-speech conversational mo
 
 `audio-to-audio`
 
-⬇️ 130,143 • ❤️ 1,608 • 5d ago
+⬇️ 130,143 • ❤️ 1,612 • 5d ago
+
+---
+
+**[DeepSeek-OCR-2](https://huggingface.co/deepseek-ai/DeepSeek-OCR-2)**
+
+*DeepSeek*
+
+DeepSeek-OCR-2 is a multilingual vision-language model for image-to-text tasks, excelling at document understanding and OCR with dynamic resolution support for high-fidelity text extraction and conversion to formats like Markdown.
+
+`image-text-to-text` `3.4B`
+
+⬇️ 210,995 • ❤️ 661 • 14h ago
 
 ---
 
@@ -449,7 +449,7 @@ Qwen3-ASR-1.7B is a state-of-the-art automatic speech recognition model supporti
 
 `automatic-speech-recognition` `2.3B`
 
-⬇️ 64,225 • ❤️ 365 • 4d ago
+⬇️ 64,225 • ❤️ 367 • 4d ago
 
 ---
 
@@ -461,29 +461,7 @@ Step 3.5 Flash is an efficient, open-source MoE foundation model (11B active par
 
 `text-generation` `199.4B`
 
-⬇️ 1,825 • ❤️ 359 • 4h ago
-
----
-
-**[PaddleOCR-VL-1.5](https://huggingface.co/PaddlePaddle/PaddleOCR-VL-1.5)**
-
-*PaddlePaddle*
-
-PaddleOCR-VL-1.5 is a multilingual Vision-Language Model (VLM) built on ERNIE 4.5, designed for robust in-the-wild document parsing. It excels at multi-task OCR, including layout analysis, table and chart recognition, formula extraction, and text spotting across various languages.
-
-`image-text-to-text` `958.6M`
-
-⬇️ 4,585 • ❤️ 331 • 4d ago
-
----
-
-**[Anima](https://huggingface.co/circlestone-labs/Anima)**
-
-*CircleStone Labs*
-
-Anima is a 2 billion parameter text-to-image diffusion model specializing in anime and non-photorealistic artistic styles, trained on millions of anime and artistic images. It is designed for generating illustrations and artistic images, with primary use cases in ComfyUI workflows for anime concepts and characters.
-
-⬇️ 27,262 • ❤️ 331 • 2d ago
+⬇️ 1,825 • ❤️ 366 • 5h ago
 
 ---
 
@@ -495,7 +473,29 @@ GLM-OCR is a 0.9B parameter multimodal OCR model for complex document understand
 
 `image-to-text`
 
-⬇️ 2,259 • ❤️ 316 • 11h ago
+⬇️ 2,259 • ❤️ 354 • 12h ago
+
+---
+
+**[Anima](https://huggingface.co/circlestone-labs/Anima)**
+
+*CircleStone Labs*
+
+Anima is a 2 billion parameter text-to-image diffusion model specializing in anime and non-photorealistic artistic styles, trained on millions of anime and artistic images. It is designed for generating illustrations and artistic images, with primary use cases in ComfyUI workflows for anime concepts and characters.
+
+⬇️ 27,262 • ❤️ 336 • 2d ago
+
+---
+
+**[PaddleOCR-VL-1.5](https://huggingface.co/PaddlePaddle/PaddleOCR-VL-1.5)**
+
+*PaddlePaddle*
+
+PaddleOCR-VL-1.5 is a multilingual Vision-Language Model (VLM) built on ERNIE 4.5, designed for robust in-the-wild document parsing. It excels at multi-task OCR, including layout analysis, table and chart recognition, formula extraction, and text spotting across various languages.
+
+`image-text-to-text` `958.6M`
+
+⬇️ 4,585 • ❤️ 332 • 4d ago
 
 ---
 
@@ -511,7 +511,7 @@ GLM-OCR is a 0.9B parameter multimodal OCR model for complex document understand
 
 LingBot-World is an open-source world simulator with high-fidelity dynamics, long-term memory capabilities, and real-time interactivity for diverse environments.
 
-▲ 107 • 💬 2 • ⭐ 2,155 • 6d ago
+▲ 107 • 💬 2 • ⭐ 2,279 • 6d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2601.20540) • [💻 code](https://github.com/Robbyant/lingbot-world/) • [🔗 project](https://technology.robbyant.com/lingbot-world)
 
@@ -552,6 +552,18 @@ Bitnet.cpp enhances edge inference for ternary LLMs using a novel mixed-precisio
 ▲ 5 • 💬 0 • ⭐ 27,688 • 11mo ago
 
 [🎓 arXiv](https://arxiv.org/abs/2502.11880) • [💻 code](https://github.com/microsoft/BitNet/tree/paper)
+
+---
+
+**[Multi-Agent Software Development through Cross-Team Collaboration](https://huggingface.co/papers/2406.08979)**
+
+*Zhuoyun Du, Chen Qian, Wei Liu et al. (8 authors)*
+
+Cross-Team Collaboration improves software quality by enabling multiple LLM agent teams to propose and communicate decisions.
+
+▲ 1 • 💬 0 • ⭐ 29,680 • 20mo ago
+
+[🎓 arXiv](https://arxiv.org/abs/2406.08979) • [💻 code](https://github.com/OpenBMB/ChatDev)
 
 ---
 
@@ -601,35 +613,21 @@ A centralized orchestrator dynamically directs LLM agents via reinforcement lear
 
 Multiagent systems are improved through per-action process rewards from AI feedback (MAPPA), enhancing credit assignment and sample efficiency for complex tasks.
 
-▲ 7 • 💬 2 • ⭐ 110 • 4d ago
+▲ 7 • 💬 2 • ⭐ 160 • 4d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2601.23228) • [💻 code](https://github.com/ltjed/multiagent-coaching) • [🔗 project](https://ltjed.github.io/MAPPA/)
 
 ---
 
-**[Multi-Agent Software Development through Cross-Team Collaboration](https://huggingface.co/papers/2406.08979)**
+**[Vision-DeepResearch: Incentivizing DeepResearch Capability in Multimodal Large Language Models](https://huggingface.co/papers/2601.22060)**
 
-*Zhuoyun Du, Chen Qian, Wei Liu et al. (8 authors)*
+*Wenxuan Huang, Yu Zeng, Qiuchen Wang et al. (15 authors)*
 
-Cross-Team Collaboration improves software quality by enabling multiple LLM agent teams to propose and communicate decisions.
+Vision-DeepResearch introduces a multimodal deep-research paradigm enabling multi-turn, multi-entity, and multi-scale visual and textual search with deep-research capabilities integrated through cold-start supervision and reinforcement learning.
 
-▲ 1 • 💬 0 • ⭐ 29,489 • 20mo ago
+▲ 116 • 💬 2 • ⭐ 69 • 5d ago
 
-[🎓 arXiv](https://arxiv.org/abs/2406.08979) • [💻 code](https://github.com/OpenBMB/ChatDev)
-
----
-
-**[DeepSeek-OCR 2: Visual Causal Flow](https://huggingface.co/papers/2601.20552)**
-
-*Haoran Wei, Yaofeng Sun, Yukun Li*
-
-🏢 DeepSeek
-
-DeepSeek-OCR 2 introduces DeepEncoder V2 that dynamically reorders visual tokens based on semantic content, enabling more human-like causal reasoning in 2D image understanding through cascaded 1D causal structures.
-
-▲ 49 • 💬 4 • ⭐ 1,918 • 6d ago
-
-[🎓 arXiv](https://arxiv.org/abs/2601.20552) • [💻 code](https://github.com/deepseek-ai/DeepSeek-OCR-2)
+[🎓 arXiv](https://arxiv.org/abs/2601.22060) • [💻 code](https://github.com/Osilly/Vision-DeepResearch) • [🔗 project](https://osilly.github.io/Vision-DeepResearch/)
 
 ---
 
@@ -643,7 +641,7 @@ Browser automation CLI for AI agents
 
 `TypeScript`
 
-⭐ 12.3k • 🔱 688 • 6h ago
+⭐ 12.4k • 🔱 692 • 7h ago
 
 ---
 
@@ -663,7 +661,7 @@ Ralph is an autonomous AI agent loop that runs repeatedly until all PRD items ar
 
 `TypeScript`
 
-⭐ 9.2k • 🔱 1.1k • 1d ago
+⭐ 9.3k • 🔱 1.1k • 1d ago
 
 ---
 
@@ -673,7 +671,7 @@ LLM驱动的 A/H/美股智能分析器，多数据源行情 + 实时新闻 + Gem
 
 `Python` `agent` `ai` `aigc` `gemini` `llm`
 
-⭐ 9.2k • 🔱 9.6k • 1d ago
+⭐ 9.2k • 🔱 9.6k • 1h ago
 
 ---
 
@@ -683,7 +681,7 @@ LLM驱动的 A/H/美股智能分析器，多数据源行情 + 实时新闻 + Gem
 
 `Vue`
 
-⭐ 7.1k • 🔱 1.3k • 4h ago
+⭐ 7.1k • 🔱 1.3k • 1h ago
 
 ---
 
@@ -693,7 +691,7 @@ The Ultimate Collection of 600+ Agentic Skills for Claude Code/Antigravity/Curso
 
 `Python` `agentic-skills` `ai-agents` `antigravity` `autonomous-coding` `claude-code`
 
-⭐ 6.7k • 🔱 1.4k • 5h ago
+⭐ 6.7k • 🔱 1.5k • 5h ago
 
 ---
 
@@ -703,7 +701,7 @@ Marketing skills for Claude Code and AI agents. CRO, copywriting, SEO, analytics
 
 `claude` `codex` `marketing`
 
-⭐ 5.6k • 🔱 623 • 6d ago
+⭐ 5.7k • 🔱 625 • 6d ago
 
 ---
 
@@ -729,7 +727,7 @@ OpenSource Claude Cowork. A desktop AI assistant that helps you with programming
 
 Humanizer 的汉化版本，Claude Code Skills，旨在消除文本中 AI 生成的痕迹。
 
-⭐ 2.4k • 🔱 233 • 15d ago
+⭐ 2.4k • 🔱 235 • 15d ago
 
 ---
 

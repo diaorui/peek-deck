@@ -3,13 +3,13 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-02-03T14:25:52.531025+00:00'
+updated: '2026-02-03T15:11:01.637503+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- videos
 - news
+- videos
 - social
 ---
 
@@ -17,7 +17,7 @@ data_types:
 
 Robotics research and industry news
 
-**Last Updated:** February 03, 2026 at 14:25 UTC  
+**Last Updated:** February 03, 2026 at 15:11 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -36,7 +36,7 @@ Robotics research and industry news
 
 From RoboHub🤖 on 𝕏: https://x.com/XRoboHub/status/2018281195063419225 Previous post with MirrorMe robot dog at 13.4 m/s: https://www.reddit.com/r/robotics/comments/1pvek2r/the_black_panther_ii_robot_dog_hits_134_ms/
 
-3h ago
+4h ago
 
 ---
 
@@ -44,7 +44,7 @@ From RoboHub🤖 on 𝕏: https://x.com/XRoboHub/status/2018281195063419225 Prev
 
 Watch Marvelmind Boxie robots in a high-precision chase. Each autonomous robot uses two mobile beacons for ±2cm tracking. While the PID controller is still being tuned (causing some jerky movements), the positioning remains rock-solid. See the dashboard view vs. real-world drive. [00:00], [00:30].
 
-6h ago
+7h ago
 
 ---
 
@@ -68,7 +68,7 @@ From RoboHub🤖 on 𝕏 (longer video/ads): https://x.com/XRoboHub/status/20179
 
 Hey everyone, A little while ago I posted a video of my Animatronic Head The response was way more positive than I expected, and honestly, I had a blast building it. So… I decided to keep going :D I’m now expanding the project into a complete torso. So far I’ve: Built a torso using PVC pipes combined with PLA parts Started working on the arms (still a work in progress) I’d love to hear any suggestions, ideas, or improvements you think could make this build even better, whether mechanical, electronic, or software-related. I’m also experimenting with a new feature that I think is pretty cool. Once I get it working reliably, I’ll post an update here. If you’re interested, I’ve published the model files (currently .3mf only) on GitHub: https://github.com/koenll23/gyro (files may be outdated and/or unoptimized, they just work. use at your own risk) Thanks for all the feedback so far, it’s been a huge motivation to keep going!
 
-16h ago
+17h ago
 
 ---
 
@@ -76,13 +76,13 @@ Hey everyone, A little while ago I posted a video of my Animatronic Head The res
 
 Hey everyone, Over the past few months I’ve been working on this project, a replacement for ROS 2 I started working on after spending 6 months with ROS 2. While ROS 2 is powerful, I often found myself fighting complexity when I just wanted a few nodes to communicate reliably or work with Gazeebo. That experience pushed me to explore a different approach: a much simpler stack, built with modern tooling, that’s easy to understand and still works at scale. The goal is that someone new can grasp the core ideas and become productive in about half an hour. The website walks through the concepts and setup step by step. For the moment all the examples are in Rust, but Python support is coming soon! I’d love to hear feedback from people working in robotics, especially what you find appealing or questionable about this approach.
 
-42m ago
+1h ago
 
 ---
 
 **[I tested a cheap ODrive 3.6 clone — setup, tuning, Arduino & CAN](https://www.reddit.com/r/robotics/comments/1qu5iap/i_tested_a_cheap_odrive_36_clone_setup_tuning/)**
 
-18h ago
+19h ago
 
 ---
 
@@ -126,7 +126,7 @@ EdSource • 1d ago
 
 From robotic fish to fully autonomous planting and harvesting systems, farming robots in China are defining a new frontier of intelligent agriculture.
 
-bgr.com • 19h ago
+bgr.com • 20h ago
 
 ---
 
@@ -134,7 +134,7 @@ bgr.com • 19h ago
 
 Dual-mode Scoop system bulk-unloads mixed parcels from messy trailers to raise dock throughput and cut volatility, with pilots now and production in 2026.
 
-Stock Titan • 1h ago
+Stock Titan • 2h ago
 
 ---
 
@@ -142,7 +142,7 @@ Stock Titan • 1h ago
 
 Carbon Robotics' Large Plant Model will allow farmers to kill new types of weeds without having to retrain the machines.
 
-TechCrunch • 23h ago
+TechCrunch • 1d ago
 
 ---
 
@@ -158,7 +158,7 @@ New Hampshire Public Radio • 1d ago
 
 Japan's robotics industry struggles to catch up to physical AI technology
 
-Nikkei Asia • 16h ago
+Nikkei Asia • 17h ago
 
 ---
 
@@ -166,7 +166,7 @@ Nikkei Asia • 16h ago
 
 State-backed funds, Big Tech drive fresh capital into robotics companies, betting on operating systems that underpin humanoid intelligence.
 
-South China Morning Post • 2h ago
+South China Morning Post • 3h ago
 
 ---
 
@@ -204,17 +204,7 @@ XPENG just took a massive step forward in humanoid robotics. The New IRON robot 
 
 📺 DPCcars
 
-👁️ 14K • 👍 136 • 💬 34 • ⏱️ 1:21 • 2d ago
-
----
-
-**[Moya, customizable humanoid robot, makes debut in Shanghai, powered by DroidUp&#39;s latest tech](https://www.youtube.com/watch?v=AuTbHjCepxs)**
-
-Today in Shanghai, a humanoid robot named Moya makes her debut, smiling, nodding, making eye contact and walking naturally.
-
-📺 ShanghaiEye魔都眼
-
-👁️ 13K • 👍 412 • 💬 167 • ⏱️ 1:34 • 3d ago
+👁️ 14K • 👍 138 • 💬 34 • ⏱️ 1:21 • 2d ago
 
 ---
 
@@ -224,7 +214,7 @@ China is deploying AI-powered robots to manage traffic and pedestrian flow in ci
 
 📺 NBC News
 
-👁️ 783K • 👍 7K • 💬 3K • ⏱️ 3:13 • 4d ago
+👁️ 785K • 👍 7K • 💬 3K • ⏱️ 3:13 • 4d ago
 
 ---
 
@@ -234,7 +224,7 @@ XPeng just showed the world what real humanoid robot progress looks like. During
 
 📺 DPCcars
 
-👁️ 17K • 👍 89 • 💬 35 • ⏱️ 2:06 • 1d ago
+👁️ 18K • 👍 90 • 💬 35 • ⏱️ 2:06 • 1d ago
 
 ---
 
@@ -244,25 +234,7 @@ Humanoid robotics just took a massive leap into the real world. Researchers in C
 
 📺 AI Revolution
 
-👁️ 136K • 👍 1K • 💬 275 • ⏱️ 14:25 • 3d ago
-
----
-
-**[Introducing Helix 02](https://www.youtube.com/watch?v=lQsvTrRTBRs)**
-
-Last year, Helix showed that a single neural network could control a humanoid's upper body from pixels. Today, Helix 02 extends ...
-
-📺 Figure
-
-👁️ 225K • 👍 12K • 💬 2K • ⏱️ 3:37 • 6d ago
-
----
-
-**[Drag-and-drop welding robot.#industrial #welding #robot #spraying #stamping](https://www.youtube.com/watch?v=d3yh6_jgSl8)**
-
-📺 Borunte Robot Lin 
-
-👁️ 1K • 👍 6 • ⏱️ 0:29 • 8h ago
+👁️ 137K • 👍 1K • 💬 275 • ⏱️ 14:25 • 3d ago
 
 ---
 
@@ -272,7 +244,7 @@ Did China just develop the world's most realistic android yet? The Shanghai-base
 
 📺 Kalil 4.0
 
-👁️ 13K • 👍 323 • 💬 42 • ⏱️ 0:48 • 2d ago
+👁️ 13K • 👍 324 • 💬 42 • ⏱️ 0:48 • 2d ago
 
 ---
 
@@ -282,7 +254,7 @@ Make Your Own Cute Dasai Mochi Robot   | #ashwinprojects #AltiumStudentLab Accel
 
 📺 Ashwin Projects
 
-👁️ 489K • 👍 17K • 💬 94 • ⏱️ 1:49 • 6d ago
+👁️ 492K • 👍 17K • 💬 95 • ⏱️ 1:49 • 6d ago
 
 ---
 
@@ -290,7 +262,37 @@ Make Your Own Cute Dasai Mochi Robot   | #ashwinprojects #AltiumStudentLab Accel
 
 📺 BBC News
 
-👁️ 12K • 👍 123 • 💬 31 • ⏱️ 0:50 • 19h ago
+👁️ 13K • 👍 126 • 💬 33 • ⏱️ 0:50 • 20h ago
+
+---
+
+**[30 million won humanoid robot for sale at Seoul’s supermarket](https://www.youtube.com/watch?v=qHpFZ3f2a_E)**
+
+You can watch this video at https://koreanow.com Copyright(C) Unauthorized use, distribution, and employment of AI-based tools ...
+
+📺 KOREA NOW
+
+👁️ 2K • 👍 69 • 💬 11 • ⏱️ 1:54 • 8h ago
+
+---
+
+**[This Robot Produces Speech the Human Way 😮](https://www.youtube.com/watch?v=L0M5fs_phpA)**
+
+This Robot Produces Speech the Human Way This system generates speech using physical movement rather than digital ...
+
+📺 MrScoopz
+
+👁️ 3.0M • 👍 16K • 💬 1K • ⏱️ 0:05 • 2d ago
+
+---
+
+**[Humanoid Robot Eats and...](https://www.youtube.com/watch?v=nQtjKJs7APA)**
+
+Funny Sora AI Video.
+
+📺 DK PalmEarth
+
+👁️ 32K • 👍 92 • ⏱️ 0:10 • 4d ago
 
 ---
 

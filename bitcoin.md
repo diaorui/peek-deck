@@ -3,13 +3,13 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-02-03T14:25:52.521542+00:00'
+updated: '2026-02-03T15:11:01.628150+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- videos
 - news
+- videos
 - cryptocurrency
 - social
 ---
@@ -18,7 +18,7 @@ data_types:
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** February 03, 2026 at 14:25 UTC  
+**Last Updated:** February 03, 2026 at 15:11 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -54,17 +54,17 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1563.92B
+**Market Cap:** $1545.63B
 Rank #1
 
 **Circulating Supply:** 19,982,656 BTC
 95.2% of max
 
 **All-Time High:** $126,080.00
--37.9%
+-38.6%
 
 **All-Time Low:** $67.81
-+115313.7%
++114144.2%
 
 ---
 
@@ -81,7 +81,7 @@ Rank #1
 
 Everyone talks about Bitcoin in terms of price: “Next ATH?” “Bull run when?” But the more time I spend learning about Bitcoin, the more I feel price is the least interesting part. Bitcoin makes you question things most of us never do: Why can money be printed infinitely? Why does inflation quietly punish savers? Why do we trust systems we can’t verify? Bitcoin doesn’t promise profits. It offers an alternative. Yes, it’s volatile. Yes, it’s risky. Yes, it’s still early and messy. But so was the internet. Some people buy Bitcoin to flip it. Some buy it as a hedge. Some just want an exit from a system that keeps changing the rules. Curious to know: Do you see Bitcoin as money, store of value, or just speculation? What made you take it seriously (or reject it)? Genuine discussion only — not here to shill or predict prices.
 
-2h ago
+3h ago
 
 ---
 
@@ -111,13 +111,13 @@ Some random at Bloomberg say it's going to 10k lol If that happens then I get a 
 
 **[From laser eyes to serving fries](https://www.reddit.com/r/Bitcoin/comments/1qu2p0l/from_laser_eyes_to_serving_fries/)**
 
-20h ago
+21h ago
 
 ---
 
 **[They're buying the dip](https://www.reddit.com/r/Bitcoin/comments/1qus9zl/theyre_buying_the_dip/)**
 
-41m ago
+1h ago
 
 ---
 
@@ -125,7 +125,7 @@ Some random at Bloomberg say it's going to 10k lol If that happens then I get a 
 
 If Bitcoin used to be an asset with a vol. of 80 and drawdowns of -80% from its all-time high, If we know that for the last 2-3 years Bitcoin has had a vol. of 40, wouldn't it be normal to expect a drawdown of -40% from its all-time high? That's precisely the drop we've seen from 126k to 75k, a -40%
 
-2h ago
+3h ago
 
 ---
 
@@ -139,7 +139,7 @@ If Bitcoin used to be an asset with a vol. of 80 and drawdowns of -80% from its 
 
 Why sell BTC when you can hold it in self custody using a hardware wallet (cold storage), or put it to work safely? Selling Bitcoin at this point doesn’t make sense to me. If you have spare cash, buying more looks like the better move.
 
-1h ago
+2h ago
 
 ---
 
@@ -173,7 +173,7 @@ Reuters • 18h ago
 
 Tether has launched MiningOS, an open-source operating system for bitcoin mining as an alternative to proprietary software.
 
-The Block • 2h ago
+The Block • 3h ago
 
 ---
 
@@ -181,7 +181,7 @@ The Block • 2h ago
 
 The performance divergence of these two unique assets is on full display.
 
-Yahoo Finance • 1h ago
+Yahoo Finance • 2h ago
 
 ---
 
@@ -189,13 +189,13 @@ Yahoo Finance • 1h ago
 
 Crypto majors eased off overnight highs during Asia trading, with BTC price steady above a critical support zone even as investor sentiment remains deeply bearish.
 
-CoinDesk • 2h ago
+CoinDesk • 3h ago
 
 ---
 
 **[Michael Saylor’s High-Stakes Bitcoin Bet Faces Fresh Strain](https://www.bloomberg.com/news/articles/2026-02-02/michael-saylor-s-high-stakes-bitcoin-bet-faces-fresh-strain)**
 
-Bloomberg • 23h ago
+Bloomberg • 1d ago
 
 ---
 
@@ -203,7 +203,7 @@ Bloomberg • 23h ago
 
 Key PointsBitcoin slumped this past weekend, along with precious metals and a range of risk assets.
 
-Nasdaq • 16h ago
+Nasdaq • 17h ago
 
 ---
 
@@ -211,7 +211,7 @@ Nasdaq • 16h ago
 
 The original cryptocurrency recovered slightly on Monday.
 
-Fortune • 19h ago
+Fortune • 20h ago
 
 ---
 
@@ -219,7 +219,7 @@ Fortune • 19h ago
 
 Newly released Epstein Files show Jeffrey Epstein’s financial proximity to early bitcoin funding channels and exposure to Ripple-Stellar rivalries, without evidence he was Satoshi Nakamoto or controlled the protocol.
 
-Bitbo • 7h ago
+Bitbo • 8h ago
 
 ---
 
@@ -259,7 +259,7 @@ PoW + EVM cryptocurrency. 21M fixed supply, fair launch, no team, no foundation.
 
 **[Bitcoin's Quantum Computing Threat](https://news.ycombinator.com/item?id=46824834)**
 
-⬆️ 1 • 💬 0 • 3d ago • [bmpro.substack.com](https://bmpro.substack.com/p/bitcoins-quantum-computing-threat)
+⬆️ 1 • 💬 0 • 4d ago • [bmpro.substack.com](https://bmpro.substack.com/p/bitcoins-quantum-computing-threat)
 
 ---
 
@@ -289,7 +289,7 @@ Bitcoin plunged to a two-month low Thursday as risk-on assets broadly fell—and
 
 On-chain data revealed that a wallet linked to the token's deployer removed $2.5 million in liquidity, prompting accusations of a possible rug pull.
 
-⬆️ 10 • 💬 12 • 17h ago • [coindesk.com](https://www.coindesk.com/markets/2026/01/13/former-bitcoin-mayor-eric-adams-faces-usd3-million-rugpull-allegation-after-issuing-nyc-coin)
+⬆️ 10 • 💬 12 • 18h ago • [coindesk.com](https://www.coindesk.com/markets/2026/01/13/former-bitcoin-mayor-eric-adams-faces-usd3-million-rugpull-allegation-after-issuing-nyc-coin)
 
 ---
 
@@ -321,7 +321,7 @@ LIMITED TIME: ✓ Bitunix (no kyc, $10k bonus): https://www.bitunix.com/register
 
 📺 Altcoin Daily
 
-👁️ 61K • 👍 3K • 💬 218 • ⏱️ 10:56 • 15h ago
+👁️ 69K • 👍 3K • 💬 333 • ⏱️ 10:56 • 15h ago
 
 ---
 
@@ -331,57 +331,17 @@ In this solo episode, Anthony Pompliano explores a key question facing investors
 
 📺 Anthony Pompliano
 
-👁️ 49K • 👍 2K • 💬 74 • ⏱️ 22:42 • 16h ago
+👁️ 54K • 👍 2K • 💬 209 • ⏱️ 22:42 • 17h ago
 
 ---
 
-**[Bitcoin Reversal Starting Now? How High Can Crypto Pump](https://www.youtube.com/watch?v=bEWTL5Ao3oI)**
+**[Bitcoin: The Beauty of Mathematics (Part 67)](https://www.youtube.com/watch?v=ebaaqMIoQUc)**
 
-After Donald Trump's new Federal Reserve chair sent shockwaves through markets and triggered a Bitcoin crash, the key ...
+Let's talk about Bitcoin and the beauty of mathematics! Into The Cryptoverse Premium (Use code ITC50 for 50% off your first month ...
 
-📺 EllioTrades
+📺 Benjamin Cowen
 
-👁️ 13K • 👍 1K • 💬 217 • ⏱️ 51:26 • 15h ago
-
----
-
-**[It Started: Trump Just ‘Broke’ The Federal Reserve – Gold, Silver, Bitcoin Collapses](https://www.youtube.com/watch?v=93x3SlywzIM)**
-
-To try out Rocket Money today and unlock more features with premium, head to: https://rocketmoney.com/graham - Let's discuss ...
-
-📺 Graham Stephan
-
-👁️ 415K • 👍 13K • 💬 1K • ⏱️ 15:22 • 17h ago
-
----
-
-**[Brace Up! Bitcoin&#39;s About to Pull a VERY Shocking Move&quot; - Tom Lee](https://www.youtube.com/watch?v=Fz8xdgyLKBE)**
-
-0:00 – Crypto's Hidden Crash After the October Peak 0:11 – The Biggest Deleveraging Event in Crypto History 0:32 – Over 2 ...
-
-📺 Savvy Finance
-
-👁️ 22K • 👍 550 • 💬 40 • ⏱️ 16:33 • 1d ago
-
----
-
-**[This Crypto Dump Might Not Be Over! [THIS Bitcoin Level Is Next]](https://www.youtube.com/watch?v=wH_TJGl2vvc)**
-
-Bitcoin took a serious hit and this move might not be over yet. In this video, Sheldon breaks down the latest Bitcoin price action ...
-
-📺 Crypto Banter
-
-👁️ 3K • 👍 374 • 💬 17 • ⏱️ 34:56 • 3h ago
-
----
-
-**[All the pieces are in place for crypto to be bottoming right now, says Fundstrat&#39;s Tom Lee](https://www.youtube.com/watch?v=KEVE5LK8jwo)**
-
-Tom Lee, Fundstrat Global Advisors head of research and Fundstrat Capital CIO, joins 'Squawk Box' to discuss the latest market ...
-
-📺 CNBC Television
-
-👁️ 72K • 👍 764 • 💬 648 • ⏱️ 5:40 • 22h ago
+👁️ 30K • 👍 2K • 💬 117 • ⏱️ 6:11 • 10h ago
 
 ---
 
@@ -391,17 +351,47 @@ CHECK OUT MY LINKTREE FOR EXCHANGES I USE, BONUSES, FREE VIDEOS, AND MORE! https
 
 📺 My Financial Friend
 
-👁️ 17K • 👍 649 • 💬 292 • ⏱️ 16:29 • 22h ago
+👁️ 17K • 👍 649 • 💬 324 • ⏱️ 16:29 • 22h ago
 
 ---
 
-**[The Actual Reason Bitcoin Is Crashing (you won&#39;t believe)](https://www.youtube.com/watch?v=rlvplss4VoM)**
+**[Bitcoin has plunged, but this analyst thinks it could hit $1,000,000](https://www.youtube.com/watch?v=UjtvjSW6mLs)**
 
-LIMITED TIME: ✓ Bitunix (no kyc, $10k bonus): https://www.bitunix.com/register?vipCode=AltcoinDaily 50% deposit bonus on ...
+Asking for a Trend anchor, Josh Lipton breaks down the latest market news for February 2, 2026. Stocks rose to start February ...
 
-📺 Altcoin Daily
+📺 Yahoo Finance
 
-👁️ 126K • 👍 4K • 💬 477 • ⏱️ 9:24 • 2d ago
+👁️ 17K • 👍 229 • 💬 135 • ⏱️ 7:00 • 16h ago
+
+---
+
+**[Brace Up! Bitcoin&#39;s About to Pull a VERY Shocking Move&quot; - Tom Lee](https://www.youtube.com/watch?v=Fz8xdgyLKBE)**
+
+0:00 – Crypto's Hidden Crash After the October Peak 0:11 – The Biggest Deleveraging Event in Crypto History 0:32 – Over 2 ...
+
+📺 Savvy Finance
+
+👁️ 22K • 👍 554 • 💬 40 • ⏱️ 16:33 • 1d ago
+
+---
+
+**[All the pieces are in place for crypto to be bottoming right now, says Fundstrat&#39;s Tom Lee](https://www.youtube.com/watch?v=KEVE5LK8jwo)**
+
+Tom Lee, Fundstrat Global Advisors head of research and Fundstrat Capital CIO, joins 'Squawk Box' to discuss the latest market ...
+
+📺 CNBC Television
+
+👁️ 75K • 👍 785 • 💬 654 • ⏱️ 5:40 • 22h ago
+
+---
+
+**[Bitcoin Reversal Starting Now? How High Can Crypto Pump](https://www.youtube.com/watch?v=bEWTL5Ao3oI)**
+
+After Donald Trump's new Federal Reserve chair sent shockwaves through markets and triggered a Bitcoin crash, the key ...
+
+📺 EllioTrades
+
+👁️ 14K • 👍 1K • 💬 352 • ⏱️ 51:26 • 16h ago
 
 ---
 
@@ -411,7 +401,17 @@ Bitcoin just dropped nearly 40% and the real reason has nothing to do with fear 
 
 📺 Simply Bitcoin
 
-👁️ 71K • 👍 3K • 💬 427 • ⏱️ 16:36 • 1d ago
+👁️ 72K • 👍 3K • 💬 431 • ⏱️ 16:36 • 1d ago
+
+---
+
+**[The Actual Reason Bitcoin Is Crashing (you won&#39;t believe)](https://www.youtube.com/watch?v=rlvplss4VoM)**
+
+LIMITED TIME: ✓ Bitunix (no kyc, $10k bonus): https://www.bitunix.com/register?vipCode=AltcoinDaily 50% deposit bonus on ...
+
+📺 Altcoin Daily
+
+👁️ 127K • 👍 4K • 💬 480 • ⏱️ 9:24 • 2d ago
 
 ---
 
