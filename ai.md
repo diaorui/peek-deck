@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-02-04T06:55:10.645120+00:00'
+updated: '2026-02-04T07:44:32.820033+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
 - social
+- news
 - videos
 - repositories
-- news
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** February 04, 2026 at 06:55 UTC  
+**Last Updated:** February 04, 2026 at 07:44 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -41,7 +41,7 @@ AI news, discussions, and developments
 
 Elon Musk's X and Grok platforms are facing increased scrutiny from authorities on both sides of the channel.
 
-🔗 [bbc.com](https://www.bbc.com/news/articles/ce3ex92557jo) • 14h ago
+🔗 [bbc.com](https://www.bbc.com/news/articles/ce3ex92557jo) • 15h ago
 
 ---
 
@@ -49,7 +49,7 @@ Elon Musk's X and Grok platforms are facing increased scrutiny from authorities 
 
 SpaceX's acquisition of xAI signals a bold push to merge artificial intelligence with space infrastructure at an unprecedented scale.
 
-🔗 [Interesting Engineering](https://interestingengineering.com/culture/elon-musk-merges-spacex-and-xai) • 15h ago
+🔗 [Interesting Engineering](https://interestingengineering.com/culture/elon-musk-merges-spacex-and-xai) • 16h ago
 
 ---
 
@@ -57,7 +57,7 @@ SpaceX's acquisition of xAI signals a bold push to merge artificial intelligence
 
 Yann Lecun recently shared that a cat is smarter than ChatGPT and that we are never going to get to human-level intelligence by just training on text. My personal opinion is not only are they unreliable but it can be a safety issue as well in high-stakes environments like enterprises, healthcare and more. World models are fundamentally different. These AI systems build internal representations of how reality works, allowing them to understand cause and effect rather than just predict tokens. There has been a shift lately and major figures from Nvidia's CEO Jensen Huang to Demis Hassabis at Google DeepMind are talking more openly about world models. I believe we're still in the early stages of discovering how transformative this technology will be for reaching AGI. Research and application are accelerating, especially in enterprise contexts. A few examples include: WoW (an agentic safety benchmark) uses audit logs to give agents a "world model" for tracking the consequences of their actions. Similarly, Kona by Logical Intelligence is developing energy-based reasoning models that move beyond pure language prediction. While more practical applications are still emerging, the direction is clear: true intelligence requires understanding the world, not just language patterns. Curious what others think?
 
-9h ago
+10h ago
 
 ---
 
@@ -65,13 +65,13 @@ Yann Lecun recently shared that a cat is smarter than ChatGPT and that we are ne
 
 I need something that can properly output strict and consistent JSON structure. Our outputs tend to be ~8000 characters ~2000 tokens, was using Gemini-3-flash-preview and Gemini 3 pro but Gemini really likes to go off the rails and hallucinate, a little bit. If you have used a model that outputs strict and consistent JSON structure, let me know. we've tried adjusting everything with gemini but still end up getting hallucinations and many people online say they have the same problem
 
-3h ago
+4h ago
 
 ---
 
 **[AI social network Moltbook exposed data of 6,000 users, Wiz says](https://www.reddit.com/r/artificial/comments/1qut1je/ai_social_network_moltbook_exposed_data_of_6000/)**
 
-🔗 [reuters.com](https://www.reuters.com/legal/litigation/moltbook-social-media-site-ai-agents-had-big-security-hole-cyber-firm-wiz-says-2026-02-02/) • 16h ago
+🔗 [reuters.com](https://www.reuters.com/legal/litigation/moltbook-social-media-site-ai-agents-had-big-security-hole-cyber-firm-wiz-says-2026-02-02/) • 17h ago
 
 ---
 
@@ -79,7 +79,7 @@ I need something that can properly output strict and consistent JSON structure. 
 
 Qwen Chat offers comprehensive functionality spanning chatbot, image and video understanding, image generation, document processing, web search integration, tool utilization, and artifacts.
 
-🔗 [qwen.ai](https://qwen.ai/blog?id=qwen3-coder-next) • 12h ago
+🔗 [qwen.ai](https://qwen.ai/blog?id=qwen3-coder-next) • 13h ago
 
 ---
 
@@ -103,7 +103,7 @@ Medical AI with Knowledge-Graph Core Anchor and RAG Answer Auditing A medical kn
 
 Anthropic has cemented a multi-year partnership with the Atlassian Williams Formula 1 team, its first sports sponsorship as AI companies make deeper inroads into professional sports.
 
-🔗 [adweek.com](https://www.adweek.com/brand-marketing/anthropics-claude-is-williams-f1s-thinking-partner-as-ai-brands-race-into-sports/) • 16h ago
+🔗 [adweek.com](https://www.adweek.com/brand-marketing/anthropics-claude-is-williams-f1s-thinking-partner-as-ai-brands-race-into-sports/) • 17h ago
 
 ---
 
@@ -111,7 +111,7 @@ Anthropic has cemented a multi-year partnership with the Atlassian Williams Form
 
 Two Researchers on What 4-Year-Olds Can Do But Tech Companies Can’t
 
-🔗 [zocalopublicsquare.org](https://www.zocalopublicsquare.org/will-ai-kill-imaginary-friends/) • 9h ago
+🔗 [zocalopublicsquare.org](https://www.zocalopublicsquare.org/will-ai-kill-imaginary-friends/) • 10h ago
 
 ---
 
@@ -123,7 +123,7 @@ Two Researchers on What 4-Year-Olds Can Do But Tech Companies Can’t
 
 “We call it the ‘SaaSpocalypse,’ an apocalypse for software-as-a-service stocks,” said Jeffrey Favuzza, who works on the equity trading desk at Jefferies.  Selling pressure was evident across the sector with London Stock Exchange Group Plc, which has a large data analytics business, falling as much as 10%, while Thomson Reuters Corp. plunged as much as 17% in early trading.  CS Disco Inc. sank as much as 14%, and Legalzoom.com Inc. declined 16%.
 
-Yahoo Finance • 41m ago
+Yahoo Finance • 1h ago
 
 ---
 
@@ -131,13 +131,13 @@ Yahoo Finance • 41m ago
 
 Wall Street's fears around artificial intelligence-driven disruption affecting software companies have made their way into Asia.
 
-CNBC • 1h ago
+CNBC • 2h ago
 
 ---
 
 **[What You Need to Know About the AI Models Rattling Markets](https://www.wsj.com/tech/ai/what-you-need-to-know-about-the-ai-models-rattling-markets-42ee512e?gaa_at=eafs&gaa_n=AWEtsqfRS6IE6yROvsr-9OWgiR9roHUBnUMM-Sj1H4ZILA4bhp52FXbSKADL&gaa_ts=6982f0b5&gaa_sig=pEIXpho7RhDx4SoEyv_v0D0kDEzktMm5wi27olxe8YAX7_WTgSoXkNPBOBKHb8nvLvjCsL7AlTSIf4iQw92Ocw%3D%3D)**
 
-The Wall Street Journal • 7h ago
+The Wall Street Journal • 8h ago
 
 ---
 
@@ -145,7 +145,7 @@ The Wall Street Journal • 7h ago
 
 Using LLMs to talk with your friends is efficient. It’s also bad etiquette.
 
-The Atlantic • 18h ago
+The Atlantic • 19h ago
 
 ---
 
@@ -153,19 +153,19 @@ The Atlantic • 18h ago
 
 Five months after OpenAI and Nvidia announced a $100 billion deal, no contract has been signed and no money has changed hands.
 
-CNBC • 8h ago
+CNBC • 9h ago
 
 ---
 
 **[Nvidia AI chip sales to China stalled by US security review, FT reports](https://www.reuters.com/world/china/nvidia-ai-chip-sales-china-stalled-by-us-security-review-ft-reports-2026-02-04/)**
 
-Reuters • 3h ago
+Reuters • 4h ago
 
 ---
 
 **[Nvidia's Huang dismisses fears AI will replace software tools as stock selloff deepens](https://www.reuters.com/business/nvidias-huang-dismisses-fears-ai-will-replace-software-tools-stock-selloff-2026-02-04/)**
 
-Reuters • 5m ago
+Reuters • 54m ago
 
 ---
 
@@ -173,7 +173,7 @@ Reuters • 5m ago
 
 UiPath (NYSE:PATH) has turned profitable while expanding its work with major U.S. government agencies. The company is deepening automation and AI deployments at the U.S. Coast Guard, Veterans Administration, and Social Security Administration. UiPath is positioning its platform for emerging agentic AI, aiming to be a core tool for complex, automated workflows. UiPath is making this turn to profitability at a time when its share price sits at $12.15 and the stock has seen a 23.5% decline...
 
-Yahoo Finance • 1h ago
+Yahoo Finance • 2h ago
 
 ---
 
@@ -181,7 +181,7 @@ Yahoo Finance • 1h ago
 
 While U.S.-China AI competition has focused on intelligence, businesses in China have a different benchmark for choosing AI tools.
 
-CNBC • 33m ago
+CNBC • 1h ago
 
 ---
 
@@ -189,7 +189,7 @@ CNBC • 33m ago
 
 Although economists have generally downplayed the impact of artificial intelligence on jobs, some employers are highlighting their adoption of AI.
 
-CBS News • 8h ago
+CBS News • 9h ago
 
 ---
 
@@ -233,7 +233,7 @@ We’re expanding Game Arena with Poker and Werewolf, while Gemini 3 Pro and Fla
 
 China's space program is quietly building momentum for a moon landing by 2030. Could they outpace NASA's Artemis mission?
 
-⬆️ 129 • 💬 143 • 11h ago • [IEEE Spectrum](https://spectrum.ieee.org/china-moon-mission-mengzhou-artemis)
+⬆️ 129 • 💬 143 • 12h ago • [IEEE Spectrum](https://spectrum.ieee.org/china-moon-mission-mengzhou-artemis)
 
 ---
 
@@ -241,7 +241,7 @@ China's space program is quietly building momentum for a moon landing by 2030. C
 
 The marketplace where AI agents rent humans. MCP integration, REST API, flexible payments. Book humans for real-world tasks your AI can't do.
 
-⬆️ 112 • 💬 90 • 21h ago • [RentAHuman.ai](https://rentahuman.ai)
+⬆️ 112 • 💬 90 • 22h ago • [RentAHuman.ai](https://rentahuman.ai)
 
 ---
 
@@ -249,7 +249,7 @@ The marketplace where AI agents rent humans. MCP integration, REST API, flexible
 
 Like many developers, I find myself more and more using AI agents to help with software development.  I currently use Claude Code, the co...
 
-⬆️ 99 • 💬 63 • 13h ago • [Senko Rašić](https://blog.senko.net/sandboxing-ai-agents-in-linux)
+⬆️ 99 • 💬 63 • 14h ago • [Senko Rašić](https://blog.senko.net/sandboxing-ai-agents-in-linux)
 
 ---
 
@@ -269,7 +269,7 @@ Two popular AI coding extensions with 1.5M installs secretly harvest your entire
 
 **[Anthropic AI tool sparks selloff from software to broader market](https://news.ycombinator.com/item?id=46876720)**
 
-⬆️ 75 • 💬 58 • 10h ago • [bloomberg.com](https://www.bloomberg.com/news/articles/2026-02-03/legal-software-stocks-plunge-as-anthropic-releases-new-ai-tool)
+⬆️ 75 • 💬 58 • 11h ago • [bloomberg.com](https://www.bloomberg.com/news/articles/2026-02-03/legal-software-stocks-plunge-as-anthropic-releases-new-ai-tool)
 
 ---
 
@@ -283,7 +283,7 @@ Starforge PC https://starforgepc.com/moist-yt Get Goof Juice and use code MOIST 
 
 📺 penguinz0
 
-👁️ 209K • 👍 16K • 💬 2K • ⏱️ 8:34 • 4h ago
+👁️ 209K • 👍 16K • 💬 2K • ⏱️ 8:34 • 5h ago
 
 ---
 
@@ -293,7 +293,7 @@ FormerNetworkExec #CallMeChato #moltbook Moltbook will rule the world. Thanks fo
 
 📺 Call me Chato
 
-👁️ 4K • 👍 773 • 💬 164 • ⏱️ 8:37 • 6h ago
+👁️ 4K • 👍 773 • 💬 164 • ⏱️ 8:37 • 7h ago
 
 ---
 
@@ -303,7 +303,7 @@ Live from the Cisco AI Summit, Chuck Robbins, Chair & CEO of Cisco and Jensen Hu
 
 📺 Cisco
 
-👁️ 7.7M • 👍 4K • ⏱️ 52:06 • 2h ago
+👁️ 7.7M • 👍 4K • ⏱️ 52:06 • 3h ago
 
 ---
 
@@ -323,7 +323,7 @@ Moltbook, a social media platform for AI agents to interact, is growing. The Ver
 
 📺 CBS News
 
-👁️ 5K • 👍 76 • 💬 21 • ⏱️ 3:36 • 16h ago
+👁️ 5K • 👍 76 • 💬 21 • ⏱️ 3:36 • 17h ago
 
 ---
 
@@ -353,7 +353,7 @@ Krystal and Saagar discuss AI bots plotting humans downfall. Sign up for a PREMI
 
 📺 Breaking Points
 
-👁️ 147K • 👍 4K • 💬 1K • ⏱️ 21:21 • 10h ago
+👁️ 147K • 👍 4K • 💬 1K • ⏱️ 21:21 • 11h ago
 
 ---
 
@@ -373,7 +373,7 @@ The Lonski Group President John Lonski discusses the Fed's rate cut strategy and
 
 📺 Fox Business
 
-👁️ 3K • 👍 66 • 💬 38 • ⏱️ 4:07 • 13h ago
+👁️ 3K • 👍 66 • 💬 38 • ⏱️ 4:07 • 14h ago
 
 ---
 
@@ -389,7 +389,7 @@ Kimi K2.5 is a native multimodal agentic model with 1T parameters, excelling in 
 
 `image-text-to-text`
 
-⬇️ 123,123 • ❤️ 1,613 • 23h ago
+⬇️ 123,123 • ❤️ 1,613 • 1d ago
 
 ---
 
@@ -401,7 +401,7 @@ HunyuanImage-3.0-Instruct is a native multimodal model for image generation, sup
 
 `image-to-image` `83.0B`
 
-⬇️ 194 • ❤️ 807 • 17h ago
+⬇️ 194 • ❤️ 807 • 18h ago
 
 ---
 
@@ -437,7 +437,7 @@ Step 3.5 Flash is an efficient, open-source MoE foundation model (11B active par
 
 `text-generation` `199.4B`
 
-⬇️ 1,825 • ❤️ 394 • 21h ago
+⬇️ 1,825 • ❤️ 394 • 22h ago
 
 ---
 
@@ -511,7 +511,7 @@ DeepSeek-OCR-2 is a multilingual vision-language model for image-to-text tasks, 
 
 LingBot-World is an open-source world simulator with high-fidelity dynamics, long-term memory capabilities, and real-time interactivity for diverse environments.
 
-▲ 109 • 💬 2 • ⭐ 2,336 • 6d ago
+▲ 109 • 💬 2 • ⭐ 2,336 • 7d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2601.20540) • [💻 code](https://github.com/Robbyant/lingbot-world/) • [🔗 project](https://technology.robbyant.com/lingbot-world)
 
@@ -671,7 +671,7 @@ LLM驱动的 A/H/美股智能分析器，多数据源行情 + 实时新闻 + Gem
 
 `Python` `agent` `ai` `aigc` `gemini` `llm`
 
-⭐ 9.3k • 🔱 9.7k • 17h ago
+⭐ 9.3k • 🔱 9.7k • 18h ago
 
 ---
 
@@ -681,7 +681,7 @@ The Ultimate Collection of 600+ Agentic Skills for Claude Code/Antigravity/Curso
 
 `Python` `agentic-skills` `ai-agents` `antigravity` `autonomous-coding` `claude-code`
 
-⭐ 7.0k • 🔱 1.5k • 8m ago
+⭐ 7.0k • 🔱 1.5k • 57m ago
 
 ---
 
@@ -691,7 +691,7 @@ Marketing skills for Claude Code and AI agents. CRO, copywriting, SEO, analytics
 
 `claude` `codex` `marketing`
 
-⭐ 5.7k • 🔱 630 • 5h ago
+⭐ 5.7k • 🔱 630 • 6h ago
 
 ---
 

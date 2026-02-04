@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-02-04T06:55:10.662666+00:00'
+updated: '2026-02-04T07:44:32.838341+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
 - social
-- videos
 - news
+- videos
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** February 04, 2026 at 06:55 UTC  
+**Last Updated:** February 04, 2026 at 07:44 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -36,7 +36,7 @@ Robotics research and industry news
 
 The drone has six mmWave radars to sense power lines from any direction, all connected to a Raspberry Pi. Based on these detections, the desired velocity (from a pilot or autonomous system) then gets modified to guide the drone around the power line. Everything runs in real time on the Pi with ROS2 middleware and PX4 flight stack. If you're interested, you can check out the paper: https://arxiv.org/abs/2602.03229, or the full video with voice-over: https://www.youtube.com/watch?v=rJW3eEC-5Ao
 
-2h ago
+3h ago
 
 ---
 
@@ -44,7 +44,7 @@ The drone has six mmWave radars to sense power lines from any direction, all con
 
 Mind Blown! Have you heard about ClawdBot now called OpenClaw? It’s an open source personal AI assistant with over 150k stars on GitHub. I connected a RealSense camera to it and my robot started following me!
 
-7h ago
+8h ago
 
 ---
 
@@ -52,7 +52,7 @@ Mind Blown! Have you heard about ClawdBot now called OpenClaw? It’s an open so
 
 See this LINK. Cool article about a new design for robot joints that roll instead of pivoting like normal hinges. Seems like a very practical design that would be easy to make with 3D printing, and can be passive or motor-driven. The joints use specially shaped (non-circular) rolling surfaces that can be “programmed” to move in very specific ways. Compared to regular joints, these rolling joints can follow complex paths much more accurately The joints can also change how force is transmitted, giving more strength where it’s needed and more speed elsewhere. From this academic article:C.J. Decker, T.G. Chen, M.C. Yuen, & R.J. Wood, Noncircular rolling contact joints enable programmed behavior in robotic linkages, Proc. Natl. Acad. Sci. U.S.A. https://doi.org/10.1073/pnas.2521406123 (2026). The authors show that a joint designed this way can closely match the motion of a human knee, far better than standard hinges. They also build a robotic gripper that can lift over three times more weight than a similar gripper with ordinary joints.
 
-15h ago
+16h ago
 
 ---
 
@@ -60,7 +60,7 @@ See this LINK. Cool article about a new design for robot joints that roll instea
 
 Brooks argues that the real bottleneck is still physical interaction with the world. Humans don’t just copy motions when they pick something up. They constantly sense force, adjust grip, and adapt in ways that are hard to formalize or capture in data. Many current systems learn from vision or teleoperation, but that misses what happens at the point of contact. His view isn’t that automation can’t help. It’s that value today comes from supporting humans around these tasks rather than replacing them. Reducing walking, lifting, and strain is achievable now, while true human-level grasping remains a long-term challenge.
 
-5h ago
+6h ago
 
 ---
 
@@ -68,13 +68,13 @@ Brooks argues that the real bottleneck is still physical interaction with the wo
 
 From RoboHub🤖 on 𝕏: https://x.com/XRoboHub/status/2018281195063419225 Previous post with MirrorMe robot dog at 13.4 m/s: https://www.reddit.com/r/robotics/comments/1pvek2r/the_black_panther_ii_robot_dog_hits_134_ms/
 
-20h ago
+21h ago
 
 ---
 
 **[Final jet engine scale model design](https://www.reddit.com/r/robotics/comments/1qvfmy1/final_jet_engine_scale_model_design/)**
 
-1h ago
+2h ago
 
 ---
 
@@ -90,7 +90,7 @@ Not sure where else to rant and have people understand where I am coming from. B
 
 F450 overall Drone weight - 976gram Motor - A2212 - 1400kv Esc-30A Prop - 8inch Battery - 3S, 3500mah Will it lift? Or should i go for 1000kv bldc motor
 
-11h ago
+12h ago
 
 ---
 
@@ -98,7 +98,7 @@ F450 overall Drone weight - 976gram Motor - A2212 - 1400kv Esc-30A Prop - 8inch 
 
 Asimov is an open-source humanoid we're building from scratch at Menlo Research. Legs, arms, and head developed in parallel. We're sharing how we got the legs walking. The rewards barely mattered. What worked was controlling what data the policy sees, when, and why. Our robot oscillated violently on startup. We tuned rewards for weeks. Nothing changed. Then we realized the policy was behaving like an underdamped control system, and the fix had nothing to do with rewards. We don't feed ground-truth linear velocity to the policy. On real hardware, you have an IMU that drifts and encoders that measure joint positions. Nothing else. If you train with perfect velocity, the policy learns to rely on data that won't exist at deployment. Motors are polled over CAN bus sequentially. Hip data is 6-9ms stale by the time ankle data arrives. We modeled this explicitly, matching the actual timing the policy will face on hardware. The actor only sees what real sensors provide (45 dimensions). The critic sees privileged info: Ground truth velocity, contact forces, toe positions. Asimov has passive spring-loaded toes with no encoder. The robot can't sense them. By exposing toe state to the critic, the policy learns to infer toe behavior from ankle positions and IMU readings. We borrowed most of our reward structure from Booster, Unitree, and MJLab. Made hardware-specific tweaks. No gait clock (Asimov has unusual kinematics, canted hips, backward-bending knees), asymmetric pose tolerances (ankles have only ±20° ROM), narrower stance penalties, air time rewards (the legs are 16kg and can achieve flight phase). Domain randomization was targeted, not broad. We randomized encoder calibration error, PD gains, toe stiffness, foot friction, observation delays. We didn't randomize body mass, link lengths, or gravity. Randomize what you know varies. Don't randomize what you've measured accurately. Next: terrain curriculum, velocity curriculum, full body integration (26-DOF+). Full post with observation tables, reward weights, and code: https://news.asimov.inc/p/teaching-a-humanoid-to-walk
 
-19h ago
+20h ago
 
 ---
 
@@ -106,7 +106,7 @@ Asimov is an open-source humanoid we're building from scratch at Menlo Research.
 
 Hey r/robotics, I'm the founder of BotBot. For the past year we've been building a system we call BotBrain, and we just open-sourced it. The idea is pretty simple: we wanted one platform that works across different types of legged robots. Right now we support quadrupeds like the Unitree Go2, humanoids like the G1, and bipeds like the Direct Drive Tita. It's all ROS2 based, so adding your own robot should be easy. BotBrain handles the stuff that's annoying to set up every time. Nav2 and RTABMap for autonomous navigation, a web UI for control and monitoring, mission planning, health diagnostics, ai, configs and a bunch more. We also designed 3D-printable backpack to mount a Jetson and RealSense cameras, so you can get the whole thing running on your robot pretty quickly. It's MIT licensed and everything is on GitHub. Easy to add new robots and build plugins, extras... Github repo: https://github.com/botbotrobotics/BotBrain 1h autonomous navigation demo: https://www.youtube.com/watch?v=VBv4Y7lat8Y Happy to answer questions any of you may have and wed love to see what you build with BotBrain.
 
-7h ago
+8h ago
 
 ---
 
@@ -134,7 +134,7 @@ TechCrunch • 1d ago
 
 Partner Content: Robotics is forcing a fundamental rethink of AI compute, data, and systems design
 
-theregister.com • 14h ago
+theregister.com • 15h ago
 
 ---
 
@@ -166,7 +166,7 @@ Interesting Engineering • 17h ago
 
 SERV sees rising delivery volumes as autonomous sidewalk robots gain wider acceptance with restaurants and consumers.
 
-Yahoo Finance • 17h ago
+Yahoo Finance • 18h ago
 
 ---
 
@@ -174,7 +174,7 @@ Yahoo Finance • 17h ago
 
 State-backed funds, Big Tech drive fresh capital into robotics companies, betting on operating systems that underpin humanoid intelligence.
 
-South China Morning Post • 18h ago
+South China Morning Post • 19h ago
 
 ---
 
@@ -182,13 +182,13 @@ South China Morning Post • 18h ago
 
 The system will be deployed in calendar year 2026 following multi-year collaboration.
 
-FedEx newsroom • 13h ago
+FedEx newsroom • 14h ago
 
 ---
 
 **[Overland AI Raises $100 Million to Speed Up Use of Military Land Robots](https://www.bloomberg.com/news/articles/2026-02-03/overland-ai-raises-100m-to-speed-up-use-of-military-land-robots)**
 
-Bloomberg.com • 14h ago
+Bloomberg.com • 15h ago
 
 ---
 
@@ -262,7 +262,7 @@ This robotic mouth is designed to replicate how real human lips move while speak
 
 📺 Facts TV 91
 
-👁️ 29K • 👍 297 • 💬 12 • ⏱️ 0:06 • 5h ago
+👁️ 29K • 👍 297 • 💬 12 • ⏱️ 0:06 • 6h ago
 
 ---
 
