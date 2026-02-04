@@ -3,14 +3,14 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-02-04T07:44:32.828776+00:00'
+updated: '2026-02-04T08:43:24.135634+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- social
-- news
 - videos
+- news
+- social
 - cryptocurrency
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** February 04, 2026 at 07:44 UTC  
+**Last Updated:** February 04, 2026 at 08:43 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,17 +38,17 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $76,745.30
+### $76,298.24
 
 ---
 
 ## Bitcoin Chart
 
 **24h:** -2.6%  
-**7d:** -9.4%  
-**30d:** -18.2%  
-**90d:** -26.1%  
-**1y:** -20.7%  
+**7d:** -9.9%  
+**30d:** -18.6%  
+**90d:** -26.4%  
+**1y:** -21.0%  
 
 ---
 
@@ -81,7 +81,7 @@ Rank #1
 
 down down down
 
-8h ago
+9h ago
 
 ---
 
@@ -89,7 +89,7 @@ down down down
 
 And you are buying right now you’ll make 66% return on your useless fiat. But no you’re scared and bitcoin is dead again.
 
-10h ago
+11h ago
 
 ---
 
@@ -97,15 +97,13 @@ And you are buying right now you’ll make 66% return on your useless fiat. But 
 
 tl;dr: Over the course of the past 4 years, I took out ~$150,000 in personal loans and 0% credit card balance transfer loans to purchase 4.75 Bitcoin. I've paid ~$17,000 in interest. I've been making updates every 6 months or so since the beginning. See my post history for previous updates. ***** Today, February 3rd, 2026 Bitcoin is trading at $75,000 which brings the current value of my 4.75₿ to $356,000. The average price I paid is ~$35,000 per Bitcoin. My total cost basis is ~$167,000 for 4.5₿ ($150k in loans + $17,000 in interest). This comes to ~113% unrealized profit or ~$189,000 in dollar terms as of today. ***** What’s new since my last update? Not much is new except that… I finished paying off all my loans!!! What a relief! I was never really worried though because I never borrowed more than I could afford to service. Bitcoin’s price action has been disappointing to say the least, but I’m thinking this is an opportunity. So I plan on taking out another $50k in loans if it breaks down below $70k which seem highly likely… probably at the 200SMA. In the meantime, I’m throwing everything I can at in each month while we’re in the $70-80k range with earned income from my job. I’ve been stacking this whole time while paying down the loans.
 
-11h ago
+12h ago
 
 ---
 
-**[In case y’all didn’t know, BTC is dead…again](https://www.reddit.com/r/Bitcoin/comments/1qv17mv/in_case_yall_didnt_know_btc_is_deadagain/)**
+**[Sometimes I don`t](https://www.reddit.com/r/Bitcoin/comments/1qvh12n/sometimes_i_dont/)**
 
-Oh no! BTC is crashing out! BTC is dead again 😱 Whatever shall I do?!? I bought .0004 for $50 when BTC was at 126000 and now it’s only worth $29!!! I’m COOKED! Everyone knows you can’t buy a lambo for $29, BTC needs to GO UP to 1 million so I can buy one for $400! Seriously though, the little stacks of sats that were worth $500-$1000USD that have been recently devalued isn’t life changing money for most anyone. If everyone knows BTC spends 2 years in an upward cycle towards a halving and 2 years in a brief euphoric followed by downward cycle…why is everyone freaking out when apparently it’s on its usual downward way towards an eventual upside of $500k by 2028 thereby making all the diamond hand hundredaire peasants into thousandaire peasants? Remember kids, 1BTC=1BTC…some of us are just mad we can’t buy ‘enough’.
-
-12h ago
+2h ago
 
 ---
 
@@ -113,7 +111,7 @@ Oh no! BTC is crashing out! BTC is dead again 😱 Whatever shall I do?!? I boug
 
 I bought btc at 118k, 114k, and 112k. its almost 20% of my whole portfolio , I cant dca much now because of the situation. I have extra but i dont want to increase it further since Im in fear what should i do? if your in my position what you will do? please dont be biased if you are a fan of btc. give me realistic plan and opinion
 
-13h ago
+14h ago
 
 ---
 
@@ -129,27 +127,27 @@ I’ve been buying Bitcoin since 2021. This drawdown is going to present me with
 
 advice to people who panics when market goes down is to DCA on a daily and stack aside for large purchase on big dips.
 
-8h ago
+9h ago
 
 ---
 
 **[Kevin Warsh (New Fed Chair) Understands BUT Underestimates Bitcoin](https://www.reddit.com/r/Bitcoin/comments/1qvbelm/kevin_warsh_new_fed_chair_understands_but/)**
 
-5h ago
+6h ago
 
 ---
 
-**[They're buying the dip](https://www.reddit.com/r/Bitcoin/comments/1qus9zl/theyre_buying_the_dip/)**
+**[In case y’all didn’t know, BTC is dead…again](https://www.reddit.com/r/Bitcoin/comments/1qv17mv/in_case_yall_didnt_know_btc_is_deadagain/)**
 
-18h ago
+Oh no! BTC is crashing out! BTC is dead again 😱 Whatever shall I do?!? I bought .0004 for $50 when BTC was at 126000 and now it’s only worth $29!!! I’m COOKED! Everyone knows you can’t buy a lambo for $29, BTC needs to GO UP to 1 million so I can buy one for $400! Seriously though, the little stacks of sats that were worth $500-$1000USD that have been recently devalued isn’t life changing money for most anyone. If everyone knows BTC spends 2 years in an upward cycle towards a halving and 2 years in a brief euphoric followed by downward cycle…why is everyone freaking out when apparently it’s on its usual downward way towards an eventual upside of $500k by 2028 thereby making all the diamond hand hundredaire peasants into thousandaire peasants? Remember kids, 1BTC=1BTC…some of us are just mad we can’t buy ‘enough’.
+
+13h ago
 
 ---
 
-**[Bought Bitcoin near the top and it’s been dumping ever since – what would you do?](https://www.reddit.com/r/Bitcoin/comments/1qv5n6b/bought_bitcoin_near_the_top_and_its_been_dumping/)**
+**[The US Government is a ZOMBIE Company: They MUST Debase the Currency](https://www.reddit.com/r/Bitcoin/comments/1qvbvra/the_us_government_is_a_zombie_company_they_must/)**
 
-I bought Bitcoin at what turned out to be a terrible time and it’s been going downhill pretty much ever since. I entered around ~$122k average and I’m now down roughly 37% (about -$1k unrealised). I know BTC is volatile and I wasn’t planning to day trade, but seeing it bleed like this definitely messes with your head. Genuinely curious what the community thinks: • Would you hold long term, DCA, or cut losses in this situation? • For those more experienced: what are the main reasons BTC has been falling recently? • Macro? • Rates? • ETFs / institutions? • Just a normal cycle correction? Not panic selling (yet), just trying to understand whether this is: 1. normal BTC behaviour and noise 2. a longer-term shift I should be paying attention to Any perspective appreciated — especially from people who’ve been through previous cycles.
-
-9h ago
+6h ago
 
 ---
 
@@ -157,73 +155,31 @@ I bought Bitcoin at what turned out to be a terrible time and it’s been going 
 
 ## Google News: "bitcoin"
 
+**[Bitcoin hits lowest level since 2024 and stocks stumble as AI and geopolitical nerves fray](https://www.cnn.com/2026/02/03/investing/us-stock-market-bitcoin)**
+
+A nervous mood swept through markets Tuesday as stocks stumbled and bitcoin slumped to its lowest level since November 2024.
+
+CNN • 12h ago
+
+---
+
 **[Michael Burry Warns of Cascading Effects From Bitcoin Plunge](https://www.bloomberg.com/news/articles/2026-02-03/michael-burry-warns-of-cascading-effects-from-bitcoin-plunge)**
 
-Bloomberg.com • 7h ago
+Bloomberg.com • 8h ago
 
 ---
 
-**[‘Big Short’ investor Michael Burry warns bitcoin plunge could trigger $1 billion gold, silver sell-off](https://finance.yahoo.com/news/big-short-investor-michael-burry-231654075.html)**
+**[Bitcoin ETF outflows deepen as ether and XRP funds quietly attract inflows](https://www.coindesk.com/markets/2026/02/04/bitcoin-etf-outflows-deepen-as-ether-and-xrp-funds-quietly-attract-inflows)**
 
-Burry said crypto losses may have forced institutions to liquidate precious metals as bitcoin slid below $73,000.
-
-Yahoo Finance • 8h ago
-
----
-
-**["Big Short" Michael Burry flags “death spiral” after silver liquidations beat bitcoin](https://www.coindesk.com/markets/2026/02/04/big-short-michael-burry-flags-death-spiral-after-silver-liquidations-beat-bitcoin)**
-
-Tokenized silver futures logged one of the largest wipeouts across crypto markets, overtaking the usual leaders bitcoin and ether.
-
-CoinDesk • 2h ago
-
----
-
-**[Bitcoin briefly breaks below $73,000 to lowest since November 2024 as heavy selling resumes](https://www.cnbc.com/2026/02/03/bitcoin-price-today.html)**
-
-Bitcoin fell below $73,000 on Tuesday as investors sold the asset to hedge against heightened geopolitical and economic uncertainties.
-
-CNBC • 12h ago
-
----
-
-**[Why Bitcoin’s Defense of $76,000 Matters for MicroStrategy’s Q4 Earnings Narrative](https://finance.yahoo.com/news/why-bitcoin-defense-76-000-053947266.html)**
-
-Bitcoin $76,000 supportStrategy earnings Bitcoin impactMicroStrategy Bitcoin holdingsMSTR earnings Q4 2025Bitcoin fair value accounting
-
-Yahoo Finance • 2h ago
-
----
-
-**[ETF that feasts on carnage in bitcoin-holder Strategy hits record high](https://www.coindesk.com/markets/2026/02/04/etf-that-feasts-on-carnage-in-bitcoin-holder-strategy-hits-record-high)**
-
-Leveraged anti-strategy ETFs are booming as shares in the bitcoin holder slide.
+The flows are indicative of a growing split in how investors are positioning across major crypto assets during the latest bout of market volatility.
 
 CoinDesk • 1h ago
 
 ---
 
-**[Alleged Ransom Note for Nancy Guthrie Kidnapping Demands Millions in Bitcoin](https://www.tmz.com/2026/02/03/nancy-guthrie-alleged-ransom-note-bitcoin-millions/)**
+**[Bitcoin: Finally The Crash Is Here](https://www.forbes.com/sites/digital-assets/2026/02/02/bitcoin-finally-the-crash-is-here/)**
 
-Another scary twist in the disappearance of "TODAY" host Savannah Guthrie's kidnapped mother ... TMZ has received an alleged ransom note demanding payment for the release of Nancy Guthrie.
-
-TMZ • 11h ago
-
----
-
-**[TMZ receives alleged ransom note demanding millions in Bitcoin for release of Nancy Guthrie](https://www.eastidahonews.com/2026/02/tmz-received-alleged-ransom-note-demanding-millions-in-bitcoin-for-release-of-nancy-guthrie/)**
-
-LOS ANGELES, California — TMZ says it has received an alleged ransom note demanding millions of dollars in Bitcoin for the release of Nancy Guthrie, the missing mother of “Today” show co-anchor Savannah Guthrie. According to the outlet, the note arrived Tuesday morning and instructed that a substantial amount of cryptocurrency be sent to a […]
-
-East Idaho News • 10h ago
-
----
-
-**[Alleged Ransom Note For Savannah Guthrie's Mom Demands Hefty Sum In Bitcoin](https://www.yahoo.com/news/articles/alleged-ransom-note-savannah-guthries-220843007.html)**
-
-An alleged ransom note for Nancy Guthrie, mother of "Today" host Savannah Guthrie, has emerged, demanding something surprising.
-
-Yahoo • 9h ago
+Forbes • 1d ago
 
 ---
 
@@ -231,7 +187,45 @@ Yahoo • 9h ago
 
 Crypto treasury companies quietly crept into index funds and retirement accounts. This collapse is good news for all of us.
 
-Slate • 14h ago
+Slate • 15h ago
+
+---
+
+**[Alleged Ransom Note for Nancy Guthrie Kidnapping Demands Millions in Bitcoin](https://www.tmz.com/2026/02/03/nancy-guthrie-alleged-ransom-note-bitcoin-millions/)**
+
+Another scary twist in the disappearance of "TODAY" host Savannah Guthrie's kidnapped mother ... TMZ has received an alleged ransom note demanding payment for the release of Nancy Guthrie.
+
+TMZ • 12h ago
+
+---
+
+**[Alleged Ransom Note For Savannah Guthrie's Mom Demands Hefty Sum In Bitcoin](https://www.yahoo.com/news/articles/alleged-ransom-note-savannah-guthries-220843007.html)**
+
+An alleged ransom note for Nancy Guthrie, mother of "Today" host Savannah Guthrie, has emerged, demanding something surprising.
+
+Yahoo • 10h ago
+
+---
+
+**[TMZ receives alleged ransom note demanding millions in Bitcoin for release of Nancy Guthrie](https://www.eastidahonews.com/2026/02/tmz-received-alleged-ransom-note-demanding-millions-in-bitcoin-for-release-of-nancy-guthrie/)**
+
+LOS ANGELES, California — TMZ says it has received an alleged ransom note demanding millions of dollars in Bitcoin for the release of Nancy Guthrie, the missing mother of “Today” show co-anchor Savannah Guthrie. According to the outlet, the note arrived Tuesday morning and instructed that a substantial amount of cryptocurrency be sent to a […]
+
+East Idaho News • 11h ago
+
+---
+
+**[Crypto Bros Nauseated After Realizing Bitcoin Itself Was Funded by Jeffrey Epstein](https://futurism.com/future-society/cryptocurrency-jeffrey-epstein-bitcoin)**
+
+The crypto community is reeling from the discovery that Epstein was a huge backer of early Bitcoin efforts.
+
+Futurism • 13h ago
+
+---
+
+**[Bitcoin Falls Again, Dropping Below $80,000. What to Know.](https://www.barrons.com/articles/bitcoin-price-news-gold-silver-trump-fed-warsh-db35f5ad?gaa_at=eafs&gaa_n=AWEtsqf6JCd-CPApXL9Xy_NRXORL9epJ3ZbU4rxbjEACKekhu4Lk6Q9tomuh&gaa_ts=69830a18&gaa_sig=VfJkhIqtZoB27e2YiXIyvM05wKZBPLkzvyq9sSXKBFYoTMi2VCI7HD5fEufBZre6c6uI_vmkxIU7vxaL9P4HTQ%3D%3D)**
+
+Barron's • 3d ago
 
 ---
 
@@ -249,7 +243,7 @@ Slate • 14h ago
 
 Cryptocurrency markets fell as global equities and precious metals sold off while bitcoin liquidations exacerbated downside moves.
 
-⬆️ 3 • 💬 0 • 16h ago • [CNBC](https://www.cnbc.com/2026/02/02/bitcoin-btc-price-today-cryptocurrency.html)
+⬆️ 3 • 💬 0 • 17h ago • [CNBC](https://www.cnbc.com/2026/02/02/bitcoin-btc-price-today-cryptocurrency.html)
 
 ---
 
@@ -325,7 +319,7 @@ Reporting on Fintech, Crypto, and Blockchain Activity in Africa
 
 📺 Bloomberg Television
 
-👁️ 29K • 👍 368 • 💬 253 • ⏱️ 7:56 • 11h ago
+👁️ 29K • 👍 368 • 💬 253 • ⏱️ 7:56 • 12h ago
 
 ---
 
@@ -345,7 +339,7 @@ Gold and silver just erased trillions in days while Bitcoin gets blamed for vola
 
 📺 Simply Bitcoin
 
-👁️ 19K • 👍 1K • 💬 270 • ⏱️ 13:11 • 9h ago
+👁️ 19K • 👍 1K • 💬 270 • ⏱️ 13:11 • 10h ago
 
 ---
 
@@ -355,7 +349,7 @@ Make Free Predictions on *ClashPicks* ▻ https://www.clashpicks.com/ Follow Cla
 
 📺 CryptosRUs
 
-👁️ 17K • 👍 982 • 💬 535 • ⏱️ 10:35 • 6h ago
+👁️ 17K • 👍 982 • 💬 535 • ⏱️ 10:35 • 7h ago
 
 ---
 
@@ -365,7 +359,7 @@ Take Control of Your Retirement — Grow Crypto & Gold Tax-Advantaged. https://w
 
 📺 Savvy Finance
 
-👁️ 12K • 👍 470 • 💬 32 • ⏱️ 19:30 • 14h ago
+👁️ 12K • 👍 470 • 💬 32 • ⏱️ 19:30 • 15h ago
 
 ---
 
@@ -385,7 +379,7 @@ This Is Where I Go Heavy on Bitcoin ❤️ Josh New Discord [JOIN NOW] ▻ https
 
 📺 Stocks with Josh
 
-👁️ 10K • 👍 313 • 💬 58 • ⏱️ 0:55 • 11h ago
+👁️ 10K • 👍 313 • 💬 58 • ⏱️ 0:55 • 12h ago
 
 ---
 

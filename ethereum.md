@@ -3,14 +3,14 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-02-04T07:44:32.835016+00:00'
+updated: '2026-02-04T08:43:24.140804+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- social
-- news
 - videos
+- news
+- social
 - cryptocurrency
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** February 04, 2026 at 07:44 UTC  
+**Last Updated:** February 04, 2026 at 08:43 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -36,17 +36,17 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Price
 
-### $2,278.81
+### $2,286.66
 
 ---
 
 ## Ethereum Chart
 
-**24h:** -2.1%  
+**24h:** -0.7%  
 **7d:** -19.4%  
 **30d:** -30.9%  
-**90d:** -33.8%  
-**1y:** -18.3%  
+**90d:** -33.7%  
+**1y:** -18.2%  
 
 ---
 
@@ -72,7 +72,7 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-1h ago
+2h ago
 
 ---
 
@@ -80,7 +80,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 There have recently been some discussions on the ongoing role of L2s in the Ethereum ecosystem, especially in the face of two facts: L2s' progress to stage 2 (and, secondarily, on interop) has been far slower and more difficult than originally expected L1 itself is scaling, fees are very low, and gaslimits are projected to increase greatly in 2026 Both of these facts, for their own separate reasons, mean that the original vision of L2s and their role in Ethereum no longer makes sense, and we need a new path. First, let us recap the original vision. Ethereum needs to scale. The definition of "Ethereum scaling" is the existence of large quantities of block space that is backed by the full faith and credit of Ethereum - that is, block space where, if you do things (including with ETH) inside that block space, your activities are guaranteed to be valid, uncensored, unreverted, untouched, as long as Ethereum itself functions. If you create a 10000 TPS EVM where its connection to L1 is mediated by a multisig bridge, then you are not scaling Ethereum. This vision no longer makes sense. L1 does not need L2s to be "branded shards", because L1 is itself scaling. And L2s are not able or willing to satisfy the properties that a true "branded shard" would require. I've even seen at least one explicitly saying that they may never want to go beyond stage 1, not just for technical reasons around ZK-EVM safety, but also because their customers' regulatory needs require them to have ultimate control. This may be doing the right thing for your customers. But it should be obvious that if you are doing this, then you are not "scaling Ethereum" in the sense meant by the rollup-centric roadmap. But that's fine! it's fine because Ethereum itself is now scaling directly on L1, with large planned increases to its gas limit this year and the years ahead. We should stop thinking about L2s as literally being "branded shards" of Ethereum, with the social status and responsibilities that this entails. Instead, we can think of L2s as being a full spectrum, which includes both chains backed by the full faith and credit of Ethereum with various unique properties (eg. not just EVM), as well as a whole array of options at different levels of connection to Ethereum, that each person (or bot) is free to care about or not care about depending on their needs. What would I do today if I were an L2? Identify a value add other than "scaling". Examples: (i) non-EVM specialized features/VMs around privacy, (ii) efficiency specialized around a particular application, (iii) truly extreme levels of scaling that even a greatly expanded L1 will not do, (iv) a totally different design for non-financial applications, eg. social, identity, AI, (v) ultra-low-latency and other sequencing properties, (vi) maybe built-in oracles or decentralized dispute resolution or other "non-computationally-verifiable" features Be stage 1 at the minimum (otherwise you really are just a separate L1 with a bridge, and you should just call yourself that) if you're doing things with ETH or other ethereum-issued assets Support maximum interoperability with Ethereum, though this will differ for each one (eg. what if you're not EVM, or even not financial?) From Ethereum's side, over the past few months I've become more convinced of the value of the native rollup precompile, particuarly once we have enshrined ZK-EVM proofs that we need anyway to scale L1. This is a precompile that verifies a ZK-EVM proof, and it's "part of Ethereum", so (i) it auto-upgrades along with Ethereum, and (ii) if the precompile has a bug, Ethereum will hard-fork to fix the bug. The native rollup precompile would make full, security-council-free, EVM verification accessible. We should spend much more time working out how to design it in such a way that if your L2 is "EVM plus other stuff", then the native rollup precompile would verify the EVM, and you only have to bring your own prover for the "other stuff" (eg. Stylus). This might involve a canonical way of exposing a lookup table between contract call inputs and outputs, and letting you provide your own values to the lookup table (that you would prove separately). This would make it easy to have safe, strong, trustless interoperability with Ethereum. It also enables synchronous composability (see: https://ethresear.ch/t/combining-preconfirmations-with-based-rollups-for-synchronous-composability/23863 and https://ethresear.ch/t/synchronous-composability-between-rollups-via-realtime-proving/23998 ). And from there, it's each L2's choice exactly what they want to build. Don't just "extend L1", figure out something new to add. This of course means that some will add things that are trust-dependent, or backdoored, or otherwise insecure; this is unavoidable in a permissionless ecosystem where developers have freedom. Our job should make to make it clear to users what guarantees they have, and to build up the strongest Ethereum that we can.
 
-16h ago
+17h ago
 
 ---
 
@@ -92,15 +92,15 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 ---
 
-**[Effect-TS library for EVM frontends](https://www.reddit.com/r/ethereum/comments/1quxszt/effectts_library_for_evm_frontends/)**
+**[ZK (Zero knowledge) proof for SHA-256: 312-byte proof, ~18µs verification](https://www.reddit.com/r/ethereum/comments/1qv2hzp/zk_zero_knowledge_proof_for_sha256_312byte_proof/)**
 
-14h ago
+12h ago
 
 ---
 
-**[ZK (Zero knowledge) proof for SHA-256: 312-byte proof, ~18µs verification](https://www.reddit.com/r/ethereum/comments/1qv2hzp/zk_zero_knowledge_proof_for_sha256_312byte_proof/)**
+**[Effect-TS library for EVM frontends](https://www.reddit.com/r/ethereum/comments/1quxszt/effectts_library_for_evm_frontends/)**
 
-11h ago
+15h ago
 
 ---
 
@@ -108,7 +108,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 Sharing a paid performance opportunity that might be relevant for artists here. Decentraland is running an open call for community DJs / performers to play a pre-recorded set during its 6th Birthday Party in the Theatre on February 20 at 8pm UTC. Key details: Pre-recorded DJ sets only (45–55 minutes) $400 USD paid in MANA per selected performer In-world audience gathered for the birthday event Intended for artists already familiar with Decentraland (not livestreams) This isn’t a pitch about crypto or Web3, it’s a straightforward paid performance slot inside an existing virtual world event. Full details and application here: https://zealous.co/decentraland/opportunity/decentraland-6th-birthday-party/
 
-18h ago
+19h ago
 
 ---
 
@@ -120,17 +120,17 @@ In June 2016, someone drained ~$60M from The DAO - a decentralized investment fu
 
 ---
 
+**[How a premature software standard has led to billions in losses](https://www.reddit.com/r/ethereum/comments/1qtw9fe/how_a_premature_software_standard_has_led_to/)**
+
+🔗 [hugo0.com](https://hugo0.com/blog/how-erc20-held-back-blockchain-payments-a-decade) • 1d ago
+
+---
+
 **[a whitepaper on a yield-focused dao](https://www.reddit.com/r/ethereum/comments/1qubsh4/a_whitepaper_on_a_yieldfocused_dao/)**
 
 i’ve been working on a yield/token architecture that tries to be very explicit about separation of concerns, and i’m mostly looking for feedback from people who are already uncomfortable with how tightly coupled most defi tokens are today. the basic premise is simple: the token contract should not know or care about yield. no rebases, no transfer hooks, no strategy logic bleeding into balance accounting. instead, all yield is routed through a single on-chain component that handles normalization, accounting, and distribution according to policy. i ended up implementing this as a modular system with a canonical “revenue router”: the base token is just erc20 + voting, nothing else all yield sources plug into a router instead of the token yield gets normalized into a treasury asset before distribution distribution is policy-driven (buybacks, staking, hybrid), not hardcoded yield sources are plugins with tiered trust and execution limits failure isn’t implicit: plugins can be quarantined without nuking the system the goal isn’t yield maximization per se, but predictable value accrual with reduced blast radius. plugins can be permissionless, but they don’t all get the same authority. everything that touches value has explicit constraints. accounting is deterministic. no component can “surprise” the token. i wrote all of this up as a whitepaper (vastitas) and tried to be very concrete about invariants, routing rules, quarantine mechanics, and trade-offs, including some simulated comparisons against monolithic tokens and yield aggregators i’m not trying to sell this as obviously correct. i’m more interested in whether this direction resonates with people who think long-term token sustainability is more about architecture than clever incentives. i made a faulty deployment on arbitrum and a half working one on base. nothing is finalized. i’m mainly looking to pressure-test the ideas with people who agree that this might be a good project. feel free to poke holes, challenge assumptions, or point me to similar work i might have missed.
 
 1d ago
-
----
-
-**[How a premature software standard has led to billions in losses](https://www.reddit.com/r/ethereum/comments/1qtw9fe/how_a_premature_software_standard_has_led_to/)**
-
-🔗 [hugo0.com](https://hugo0.com/blog/how-erc20-held-back-blockchain-payments-a-decade) • 1d ago
 
 ---
 
@@ -146,11 +146,19 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 ## Google News: "ethereum"
 
+**[Vitalik Buterin reevaluates Ethereum's rollup-centric roadmap, arguing L2s decentralized 'far slower' while base layer advanced](https://www.theblock.co/post/388285/vitalik-buterin-reevaluates-rollup-centric-roadmap-arguing-l2s-decentralized-far-slower-while-ethereum-base-layer-advanced)**
+
+Buterin previously championed a "rollup-centric" roadmap that would scale Ethereum through a network of branded shards.
+
+The Block • 15h ago
+
+---
+
 **['You are not scaling Ethereum': Vitalik Buterin issues a blunt reality check to the biggest crypto networks](https://www.coindesk.com/business/2026/02/03/you-are-not-scaling-ethereum-vitalik-buterin-issues-a-blunt-reality-check-to-the-biggest-crypto-networks)**
 
 The roadmap in place doesn't make as much sense because progress among layer-2s toward later stages of decentralization has been slower and more difficult, and Ethereum itself is now scaling directly on layer-1.
 
-CoinDesk • 14h ago
+CoinDesk • 15h ago
 
 ---
 
@@ -158,55 +166,23 @@ CoinDesk • 14h ago
 
 Some layer-2 networks have made concessions when it comes to decentralization, Buterin said, and shouldn’t be “branded” as extensions of Ethereum.
 
-Decrypt • 8h ago
+Decrypt • 9h ago
 
 ---
 
-**[Vitalik Buterin reevaluates Ethereum's rollup-centric roadmap, arguing L2s decentralized 'far slower' while base layer advanced](https://www.theblock.co/post/388285/vitalik-buterin-reevaluates-rollup-centric-roadmap-arguing-l2s-decentralized-far-slower-while-ethereum-base-layer-advanced)**
+**[Bitcoin, Ethereum continue plunge — and experts warn of more pain to come](https://finance.yahoo.com/news/bitcoin-ethereum-continue-plunge-experts-215357559.html)**
 
-Buterin previously championed a "rollup-centric" roadmap that would scale Ethereum through a network of branded shards.
+Bitcoin and Ethereum plunged further on Tuesday. The two biggest digital coins are now well below their all-time highs. Experts have signalled that the crypto market could continue to drop.
 
-The Block • 14h ago
-
----
-
-**[BMNR news: Tom Lee says BitMine’s $6 billion ether paper loss is “by design"](https://www.coindesk.com/markets/2026/02/04/tom-lee-says-bitmine-s-usd6-billion-ether-paper-loss-is-by-design)**
-
-The firm said unrealized losses are expected in a downturn, arguing its ethereum-heavy balance sheet is designed to track and outperform ETH over a full market cycle.
-
-CoinDesk • 3h ago
+Yahoo Finance • 10h ago
 
 ---
 
-**[Prediction: 2026 Will Be the Year of Ethereum (ETH)](https://finance.yahoo.com/news/prediction-2026-ethereum-eth-142300297.html)**
+**[Tom Lee's BitMine Buys the Ethereum Dip, Even as Unrealized Losses Top $6 Billion](https://finance.yahoo.com/news/tom-lees-bitmine-buys-ethereum-162425009.html)**
 
-The adoption, technology, and regulation stars may all align for Ethereum this year.
+Publicly traded Ethereum treasury BitMine Immersion Technologies is still buying as ETH plunges, despite the firm's growing losses.
 
 Yahoo Finance • 1d ago
-
----
-
-**[ING opens retail access to Bitcoin, Ethereum, Solana ETPs in Germany](https://www.theblock.co/post/388120/ing-bitcoin-ethereum-solana-etps)**
-
-Still, ING Deutschland noted that crypto ETPs carry significant risks and stated that crypto has no intrinsic value.
-
-The Block • 1d ago
-
----
-
-**[Bitcoin, Ethereum ETF Investments Flip Negative for 2026 as Crypto Funds Shed $1.7B](https://decrypt.co/356622/bitcoin-ethereum-etf-investments-flip-negative-for-2026-as-crypto-funds-shed-1-7b)**
-
-U.S.-listed crypto funds led withdrawals as Bitcoin and Ethereum prices slid after Donald Trump’s nomination of Kevin Warsh for Fed chair.
-
-Decrypt • 1d ago
-
----
-
-**[Why Are Bitcoin, Ethereum and XRP Prices Going Down Today Again?](https://coinpedia.org/news/why-are-bitcoin-ethereum-and-xrp-prices-going-down-today-again/)**
-
-After a brief recovery yesterday, the crypto market has turned red again. On Monday, prices moved higher after comments from US President Donald Trump,
-
-Coinpedia • 15h ago
 
 ---
 
@@ -226,6 +202,30 @@ Sherwood News • 1d ago
 
 ---
 
+**[Ethereum Price Recovery Runs Into A Wall, Decline Risk Returns](https://www.tradingview.com/news/newsbtc:4d0ac60d3094b:0-ethereum-price-recovery-runs-into-a-wall-decline-risk-returns/)**
+
+Ethereum price extended its decline below $2,220 and $2,200. ETH is now attempting to recover from $2,000 but faces many hurdles near $2,250.Ethereum Price Faces ResistanceEthereum price failed to remain stable above $2,320 and extended losses, like Bitcoin. ETH price traded below $2,220 to enter a…
+
+TradingView • 5h ago
+
+---
+
+**[Ethereum Falls 10% In Rout](https://www.investing.com/news/cryptocurrency-news/ethereum-falls-10-in-rout-4477776)**
+
+Ethereum Falls 10% In Rout
+
+Investing.com • 2d ago
+
+---
+
+**[3 Things Investors Need to Know About Ethereum Classic in 2026](https://www.fool.com/investing/2026/02/03/3-things-investors-need-to-know-about-ethereum-cla/)**
+
+Ethereum and Ethereum Classic started as one blockchain, but their paths and performance have diverged over the past decade.
+
+The Motley Fool • 18h ago
+
+---
+
 ---
 
 ## YouTube Videos: "ethereum"
@@ -236,7 +236,7 @@ Bitcoin's dip below $75000 is something David Siemer calls a "buying opportunity
 
 📺 Schwab Network
 
-👁️ 5K • 👍 91 • 💬 59 • ⏱️ 6:37 • 6h ago
+👁️ 5K • 👍 91 • 💬 59 • ⏱️ 6:37 • 7h ago
 
 ---
 
@@ -246,7 +246,7 @@ JACOB'S Whop - Discover The Alpha, Join The VIP Group Today - https://whop.com/o
 
 📺 Jacob Crypto Bury
 
-👁️ 166 • 👍 5 • 💬 24 • ⏱️ 4:54 • 11h ago
+👁️ 166 • 👍 5 • 💬 24 • ⏱️ 4:54 • 12h ago
 
 ---
 
@@ -256,7 +256,7 @@ BITCOIN DUMP IS A TRAP (New $200k Trade)!!!! - Bitcoin News Today, Ethereum & Al
 
 📺 Crypto World
 
-👁️ 9K • 👍 389 • 💬 179 • ⏱️ 20:19 • 9h ago
+👁️ 9K • 👍 389 • 💬 179 • ⏱️ 20:19 • 10h ago
 
 ---
 
@@ -276,7 +276,7 @@ This video provides a professional Elliott Wave and technical analysis of Ethere
 
 📺 More Crypto Online
 
-👁️ 3K • 👍 226 • 💬 8 • ⏱️ 4:02 • 12h ago
+👁️ 3K • 👍 226 • 💬 8 • ⏱️ 4:02 • 13h ago
 
 ---
 
@@ -296,7 +296,7 @@ WEEX EXCHANGE | NO KYC | 50% deposit Bonus | Up To $30000 In Bonus https://www.w
 
 📺 TMG Trades
 
-👁️ 2K • 👍 138 • 💬 49 • ⏱️ 10:53 • 16h ago
+👁️ 2K • 👍 138 • 💬 49 • ⏱️ 10:53 • 17h ago
 
 ---
 
@@ -316,7 +316,7 @@ There's a common narrative in crypto that SWIFT is behind, that it's scrambling 
 
 📺 Crypto Canvas 
 
-👁️ 481 • 👍 60 • 💬 15 • ⏱️ 15:56 • 13h ago
+👁️ 481 • 👍 60 • 💬 15 • ⏱️ 15:56 • 14h ago
 
 ---
 
@@ -326,7 +326,7 @@ This video provides a professional Elliott Wave and technical analysis of Ethere
 
 📺 More Crypto Online
 
-👁️ 4K • 👍 204 • 💬 16 • ⏱️ 5:48 • 18h ago
+👁️ 4K • 👍 204 • 💬 16 • ⏱️ 5:48 • 19h ago
 
 ---
 

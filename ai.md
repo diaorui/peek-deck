@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-02-04T07:44:32.820033+00:00'
+updated: '2026-02-04T08:43:24.128247+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- social
-- news
 - videos
+- news
 - repositories
+- social
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** February 04, 2026 at 07:44 UTC  
+**Last Updated:** February 04, 2026 at 08:43 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -41,7 +41,7 @@ AI news, discussions, and developments
 
 Elon Musk's X and Grok platforms are facing increased scrutiny from authorities on both sides of the channel.
 
-🔗 [bbc.com](https://www.bbc.com/news/articles/ce3ex92557jo) • 15h ago
+🔗 [bbc.com](https://www.bbc.com/news/articles/ce3ex92557jo) • 16h ago
 
 ---
 
@@ -49,7 +49,7 @@ Elon Musk's X and Grok platforms are facing increased scrutiny from authorities 
 
 SpaceX's acquisition of xAI signals a bold push to merge artificial intelligence with space infrastructure at an unprecedented scale.
 
-🔗 [Interesting Engineering](https://interestingengineering.com/culture/elon-musk-merges-spacex-and-xai) • 16h ago
+🔗 [Interesting Engineering](https://interestingengineering.com/culture/elon-musk-merges-spacex-and-xai) • 17h ago
 
 ---
 
@@ -57,7 +57,7 @@ SpaceX's acquisition of xAI signals a bold push to merge artificial intelligence
 
 Yann Lecun recently shared that a cat is smarter than ChatGPT and that we are never going to get to human-level intelligence by just training on text. My personal opinion is not only are they unreliable but it can be a safety issue as well in high-stakes environments like enterprises, healthcare and more. World models are fundamentally different. These AI systems build internal representations of how reality works, allowing them to understand cause and effect rather than just predict tokens. There has been a shift lately and major figures from Nvidia's CEO Jensen Huang to Demis Hassabis at Google DeepMind are talking more openly about world models. I believe we're still in the early stages of discovering how transformative this technology will be for reaching AGI. Research and application are accelerating, especially in enterprise contexts. A few examples include: WoW (an agentic safety benchmark) uses audit logs to give agents a "world model" for tracking the consequences of their actions. Similarly, Kona by Logical Intelligence is developing energy-based reasoning models that move beyond pure language prediction. While more practical applications are still emerging, the direction is clear: true intelligence requires understanding the world, not just language patterns. Curious what others think?
 
-10h ago
+11h ago
 
 ---
 
@@ -65,13 +65,13 @@ Yann Lecun recently shared that a cat is smarter than ChatGPT and that we are ne
 
 I need something that can properly output strict and consistent JSON structure. Our outputs tend to be ~8000 characters ~2000 tokens, was using Gemini-3-flash-preview and Gemini 3 pro but Gemini really likes to go off the rails and hallucinate, a little bit. If you have used a model that outputs strict and consistent JSON structure, let me know. we've tried adjusting everything with gemini but still end up getting hallucinations and many people online say they have the same problem
 
-4h ago
+5h ago
 
 ---
 
 **[AI social network Moltbook exposed data of 6,000 users, Wiz says](https://www.reddit.com/r/artificial/comments/1qut1je/ai_social_network_moltbook_exposed_data_of_6000/)**
 
-🔗 [reuters.com](https://www.reuters.com/legal/litigation/moltbook-social-media-site-ai-agents-had-big-security-hole-cyber-firm-wiz-says-2026-02-02/) • 17h ago
+🔗 [reuters.com](https://www.reuters.com/legal/litigation/moltbook-social-media-site-ai-agents-had-big-security-hole-cyber-firm-wiz-says-2026-02-02/) • 18h ago
 
 ---
 
@@ -79,7 +79,7 @@ I need something that can properly output strict and consistent JSON structure. 
 
 Qwen Chat offers comprehensive functionality spanning chatbot, image and video understanding, image generation, document processing, web search integration, tool utilization, and artifacts.
 
-🔗 [qwen.ai](https://qwen.ai/blog?id=qwen3-coder-next) • 13h ago
+🔗 [qwen.ai](https://qwen.ai/blog?id=qwen3-coder-next) • 14h ago
 
 ---
 
@@ -95,7 +95,7 @@ For those of you who aren't familiar with SurfSense, it aims to be OSS alternati
 
 Medical AI with Knowledge-Graph Core Anchor and RAG Answer Auditing A medical knowledge graph containing ~5,000 nodes, with medical terms organized into 7 main and 2 sub-categories: diseases, symptoms, treatments, risk factors, diagnostic tests, body parts, and cellular structures. The graph includes ~25,000 multi-directional relationships designed to reduce hallucinations and improve transparency in LLM-based reasoning. A medical AI that can answer basic health-related questions and support structured clinical reasoning through complex cases. The goal is to position this tool as an educational co-pilot for medical students, supporting learning in diagnostics, differential reasoning, and clinical training. The system is designed strictly for educational and training purposes and is not intended for clinical or patient-facing use. A working version can be tested on Hugging Face Spaces using preset questions or by entering custom queries: https://huggingface.co/spaces/cmtopbas/medical-slm-testing A draft site layout (demo / non-functional) is available here: https://wardmate.replit.app/ I am looking for medical schools interested in running demos or pilot trials, as well as potential co-founders with marketing reach and a solid understanding of both AI and medical science. If helpful, I can share prompts and anonymized or synthetic reconstructions of over 20 complex clinical cases used for evaluation and demonstration.
 
-13h ago
+14h ago
 
 ---
 
@@ -103,7 +103,7 @@ Medical AI with Knowledge-Graph Core Anchor and RAG Answer Auditing A medical kn
 
 Anthropic has cemented a multi-year partnership with the Atlassian Williams Formula 1 team, its first sports sponsorship as AI companies make deeper inroads into professional sports.
 
-🔗 [adweek.com](https://www.adweek.com/brand-marketing/anthropics-claude-is-williams-f1s-thinking-partner-as-ai-brands-race-into-sports/) • 17h ago
+🔗 [adweek.com](https://www.adweek.com/brand-marketing/anthropics-claude-is-williams-f1s-thinking-partner-as-ai-brands-race-into-sports/) • 18h ago
 
 ---
 
@@ -111,7 +111,7 @@ Anthropic has cemented a multi-year partnership with the Atlassian Williams Form
 
 Two Researchers on What 4-Year-Olds Can Do But Tech Companies Can’t
 
-🔗 [zocalopublicsquare.org](https://www.zocalopublicsquare.org/will-ai-kill-imaginary-friends/) • 10h ago
+🔗 [zocalopublicsquare.org](https://www.zocalopublicsquare.org/will-ai-kill-imaginary-friends/) • 11h ago
 
 ---
 
@@ -123,29 +123,7 @@ Two Researchers on What 4-Year-Olds Can Do But Tech Companies Can’t
 
 “We call it the ‘SaaSpocalypse,’ an apocalypse for software-as-a-service stocks,” said Jeffrey Favuzza, who works on the equity trading desk at Jefferies.  Selling pressure was evident across the sector with London Stock Exchange Group Plc, which has a large data analytics business, falling as much as 10%, while Thomson Reuters Corp. plunged as much as 17% in early trading.  CS Disco Inc. sank as much as 14%, and Legalzoom.com Inc. declined 16%.
 
-Yahoo Finance • 1h ago
-
----
-
-**[Asian software stocks plunge after U.S. peers decline on fears over AI-led disruption](https://www.cnbc.com/2026/02/04/software-stocks-plunge-us-ai-disruption.html)**
-
-Wall Street's fears around artificial intelligence-driven disruption affecting software companies have made their way into Asia.
-
-CNBC • 2h ago
-
----
-
-**[What You Need to Know About the AI Models Rattling Markets](https://www.wsj.com/tech/ai/what-you-need-to-know-about-the-ai-models-rattling-markets-42ee512e?gaa_at=eafs&gaa_n=AWEtsqfRS6IE6yROvsr-9OWgiR9roHUBnUMM-Sj1H4ZILA4bhp52FXbSKADL&gaa_ts=6982f0b5&gaa_sig=pEIXpho7RhDx4SoEyv_v0D0kDEzktMm5wi27olxe8YAX7_WTgSoXkNPBOBKHb8nvLvjCsL7AlTSIf4iQw92Ocw%3D%3D)**
-
-The Wall Street Journal • 8h ago
-
----
-
-**[The Problem With Using AI in Your Personal Life](https://www.theatlantic.com/family/2026/02/ai-etiquette-friends/685858/)**
-
-Using LLMs to talk with your friends is efficient. It’s also bad etiquette.
-
-The Atlantic • 19h ago
+Yahoo Finance • 2h ago
 
 ---
 
@@ -153,35 +131,21 @@ The Atlantic • 19h ago
 
 Five months after OpenAI and Nvidia announced a $100 billion deal, no contract has been signed and no money has changed hands.
 
-CNBC • 9h ago
-
----
-
-**[Nvidia AI chip sales to China stalled by US security review, FT reports](https://www.reuters.com/world/china/nvidia-ai-chip-sales-china-stalled-by-us-security-review-ft-reports-2026-02-04/)**
-
-Reuters • 4h ago
+CNBC • 10h ago
 
 ---
 
 **[Nvidia's Huang dismisses fears AI will replace software tools as stock selloff deepens](https://www.reuters.com/business/nvidias-huang-dismisses-fears-ai-will-replace-software-tools-stock-selloff-2026-02-04/)**
 
-Reuters • 54m ago
+Reuters • 1h ago
 
 ---
 
-**[UiPath Profit Turn With US Agencies Tests Agentic AI Ambitions](https://finance.yahoo.com/news/uipath-profit-turn-us-agencies-051248428.html)**
+**[EXCLUSIVE: Positron raises $230M Series B to take on Nvidia’s AI chips](https://techcrunch.com/2026/02/04/exclusive-positron-raises-230m-series-b-to-take-on-nvidias-ai-chips/)**
 
-UiPath (NYSE:PATH) has turned profitable while expanding its work with major U.S. government agencies. The company is deepening automation and AI deployments at the U.S. Coast Guard, Veterans Administration, and Social Security Administration. UiPath is positioning its platform for emerging agentic AI, aiming to be a core tool for complex, automated workflows. UiPath is making this turn to profitability at a time when its share price sits at $12.15 and the stock has seen a 23.5% decline...
+The investment comes from backers including the Qatar Investment Authority as demand for chips beyond Nvidia soars and as Qatar aims to build out its AI infrastructure.
 
-Yahoo Finance • 2h ago
-
----
-
-**[CNBC's The China Connection newsletter: For Chinese businesses, it's not about which AI is the smartest](https://www.cnbc.com/2026/02/04/cnbcs-the-china-connection-newsletter-for-chinese-businesses-its-not-about-which-ai-is-the-smartest.html)**
-
-While U.S.-China AI competition has focused on intelligence, businesses in China have a different benchmark for choosing AI tools.
-
-CNBC • 1h ago
+TechCrunch • 24m ago
 
 ---
 
@@ -190,6 +154,42 @@ CNBC • 1h ago
 Although economists have generally downplayed the impact of artificial intelligence on jobs, some employers are highlighting their adoption of AI.
 
 CBS News • 9h ago
+
+---
+
+**[The Problem With Using AI in Your Personal Life](https://www.theatlantic.com/family/2026/02/ai-etiquette-friends/685858/)**
+
+Using LLMs to talk with your friends is efficient. It’s also bad etiquette.
+
+The Atlantic • 20h ago
+
+---
+
+**[A Social Network for A.I. Bots Only. No Humans Allowed.](https://www.nytimes.com/2026/02/02/technology/moltbook-ai-social-media.html)**
+
+The New York Times • 1d ago
+
+---
+
+**[I Infiltrated Moltbook, the AI-Only Social Network Where Humans Aren’t Allowed](https://www.wired.com/story/i-infiltrated-moltbook-ai-only-social-network/)**
+
+I went undercover on Moltbook and loved role-playing as a conscious bot. But rather than a novel breakthrough, the AI-only site is a crude rehashing of sci-fi fantasies.
+
+WIRED • 12h ago
+
+---
+
+**[What is Moltbook, the social networking site for AI bots – and should we be scared?](https://www.cnn.com/2026/02/03/tech/moltbook-explainer-scli-intl)**
+
+What happens when thousands of AI agents get together online and talk like humans do? That’s what a new social network called Moltbook, designed just for AI bots and not people, aims to find out.
+
+CNN • 19h ago
+
+---
+
+**[Collaborating on a nationwide randomized study of AI in real-world virtual care](https://research.google/blog/collaborating-on-a-nationwide-randomized-study-of-ai-in-real-world-virtual-care/)**
+
+research.google • 14h ago
 
 ---
 
@@ -217,7 +217,7 @@ People familiar with Microsoft's plans say that the company moving to streamline
 
 The Firefox browser is gaining options to turn off AI enhancements, Mozilla said today. Firefox users who prefer to browse without artificial intelligence will be able to turn off several AI features that Mozilla has added over the last several months. Here's what can be disabled:     	Translations, which help you browse the web in your preferred language. Alt text in PDFs, which add accessibility descriptions to images in PDF pages.
 
-⬆️ 205 • 💬 100 • 1d ago • [MacRumors](https://www.macrumors.com/2026/02/02/firefox-ai-toggle/)
+⬆️ 205 • 💬 101 • 1d ago • [MacRumors](https://www.macrumors.com/2026/02/02/firefox-ai-toggle/)
 
 ---
 
@@ -233,7 +233,7 @@ We’re expanding Game Arena with Poker and Werewolf, while Gemini 3 Pro and Fla
 
 China's space program is quietly building momentum for a moon landing by 2030. Could they outpace NASA's Artemis mission?
 
-⬆️ 129 • 💬 143 • 12h ago • [IEEE Spectrum](https://spectrum.ieee.org/china-moon-mission-mengzhou-artemis)
+⬆️ 130 • 💬 151 • 13h ago • [IEEE Spectrum](https://spectrum.ieee.org/china-moon-mission-mengzhou-artemis)
 
 ---
 
@@ -241,7 +241,7 @@ China's space program is quietly building momentum for a moon landing by 2030. C
 
 The marketplace where AI agents rent humans. MCP integration, REST API, flexible payments. Book humans for real-world tasks your AI can't do.
 
-⬆️ 112 • 💬 90 • 22h ago • [RentAHuman.ai](https://rentahuman.ai)
+⬆️ 115 • 💬 92 • 23h ago • [RentAHuman.ai](https://rentahuman.ai)
 
 ---
 
@@ -249,7 +249,7 @@ The marketplace where AI agents rent humans. MCP integration, REST API, flexible
 
 Like many developers, I find myself more and more using AI agents to help with software development.  I currently use Claude Code, the co...
 
-⬆️ 99 • 💬 63 • 14h ago • [Senko Rašić](https://blog.senko.net/sandboxing-ai-agents-in-linux)
+⬆️ 102 • 💬 63 • 15h ago • [Senko Rašić](https://blog.senko.net/sandboxing-ai-agents-in-linux)
 
 ---
 
@@ -263,13 +263,13 @@ Two popular AI coding extensions with 1.5M installs secretly harvest your entire
 
 **[AI and Trust (2023)](https://news.ycombinator.com/item?id=46877075)**
 
-⬆️ 90 • 💬 17 • 10h ago • [schneier.com](https://www.schneier.com/blog/archives/2023/12/ai-and-trust.html)
+⬆️ 90 • 💬 17 • 11h ago • [schneier.com](https://www.schneier.com/blog/archives/2023/12/ai-and-trust.html)
 
 ---
 
-**[Anthropic AI tool sparks selloff from software to broader market](https://news.ycombinator.com/item?id=46876720)**
+**[The next steps for Airbus' big bet on open rotor engines](https://news.ycombinator.com/item?id=46872238)**
 
-⬆️ 75 • 💬 58 • 11h ago • [bloomberg.com](https://www.bloomberg.com/news/articles/2026-02-03/legal-software-stocks-plunge-as-anthropic-releases-new-ai-tool)
+⬆️ 79 • 💬 70 • 17h ago • [Aerospace America](https://aerospaceamerica.aiaa.org/the-next-steps-for-airbus-big-bet-on-open-rotor-engines/)
 
 ---
 
@@ -283,7 +283,7 @@ Starforge PC https://starforgepc.com/moist-yt Get Goof Juice and use code MOIST 
 
 📺 penguinz0
 
-👁️ 209K • 👍 16K • 💬 2K • ⏱️ 8:34 • 5h ago
+👁️ 209K • 👍 16K • 💬 2K • ⏱️ 8:34 • 6h ago
 
 ---
 
@@ -293,7 +293,7 @@ FormerNetworkExec #CallMeChato #moltbook Moltbook will rule the world. Thanks fo
 
 📺 Call me Chato
 
-👁️ 4K • 👍 773 • 💬 164 • ⏱️ 8:37 • 7h ago
+👁️ 4K • 👍 773 • 💬 164 • ⏱️ 8:37 • 8h ago
 
 ---
 
@@ -303,7 +303,7 @@ Live from the Cisco AI Summit, Chuck Robbins, Chair & CEO of Cisco and Jensen Hu
 
 📺 Cisco
 
-👁️ 7.7M • 👍 4K • ⏱️ 52:06 • 3h ago
+👁️ 7.7M • 👍 4K • ⏱️ 52:06 • 4h ago
 
 ---
 
@@ -323,7 +323,7 @@ Moltbook, a social media platform for AI agents to interact, is growing. The Ver
 
 📺 CBS News
 
-👁️ 5K • 👍 76 • 💬 21 • ⏱️ 3:36 • 17h ago
+👁️ 5K • 👍 76 • 💬 21 • ⏱️ 3:36 • 18h ago
 
 ---
 
@@ -343,7 +343,7 @@ Scott Hanselman, vice president of developer community at Microsoft, joins CBS N
 
 📺 CBS News
 
-👁️ 3K • 👍 93 • 💬 15 • ⏱️ 6:59 • 8h ago
+👁️ 3K • 👍 93 • 💬 15 • ⏱️ 6:59 • 9h ago
 
 ---
 
@@ -353,7 +353,7 @@ Krystal and Saagar discuss AI bots plotting humans downfall. Sign up for a PREMI
 
 📺 Breaking Points
 
-👁️ 147K • 👍 4K • 💬 1K • ⏱️ 21:21 • 11h ago
+👁️ 147K • 👍 4K • 💬 1K • ⏱️ 21:21 • 12h ago
 
 ---
 
@@ -363,7 +363,7 @@ AI development just split into two directions at once. OpenAI launched a dedicat
 
 📺 AI Revolution
 
-👁️ 14K • 👍 633 • 💬 33 • ⏱️ 13:39 • 8h ago
+👁️ 14K • 👍 633 • 💬 33 • ⏱️ 13:39 • 9h ago
 
 ---
 
@@ -373,7 +373,7 @@ The Lonski Group President John Lonski discusses the Fed's rate cut strategy and
 
 📺 Fox Business
 
-👁️ 3K • 👍 66 • 💬 38 • ⏱️ 4:07 • 14h ago
+👁️ 3K • 👍 66 • 💬 38 • ⏱️ 4:07 • 15h ago
 
 ---
 
@@ -401,7 +401,7 @@ HunyuanImage-3.0-Instruct is a native multimodal model for image generation, sup
 
 `image-to-image` `83.0B`
 
-⬇️ 194 • ❤️ 807 • 18h ago
+⬇️ 194 • ❤️ 807 • 19h ago
 
 ---
 
@@ -437,7 +437,7 @@ Step 3.5 Flash is an efficient, open-source MoE foundation model (11B active par
 
 `text-generation` `199.4B`
 
-⬇️ 1,825 • ❤️ 394 • 22h ago
+⬇️ 1,825 • ❤️ 394 • 23h ago
 
 ---
 
@@ -611,7 +611,7 @@ PaddleOCR-VL, a vision-language model combining NaViT-style dynamic resolution a
 
 RPG-Encoder framework transforms repository comprehension and generation into a unified cycle by encoding code into high-fidelity Repository Planning Graph representations that improve understanding and reconstruction accuracy.
 
-▲ 78 • 💬 1 • ⭐ 59 • 1d ago
+▲ 78 • 💬 1 • ⭐ 59 • 2d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2602.02084) • [💻 code](https://github.com/microsoft/RPG-ZeroRepo) • [🔗 project](https://ayanami2003.github.io/RPG-Encoder/)
 
@@ -641,7 +641,7 @@ Browser automation CLI for AI agents
 
 `TypeScript`
 
-⭐ 12.5k • 🔱 707 • 23h ago
+⭐ 12.5k • 🔱 707 • 1d ago
 
 ---
 
@@ -671,7 +671,7 @@ LLM驱动的 A/H/美股智能分析器，多数据源行情 + 实时新闻 + Gem
 
 `Python` `agent` `ai` `aigc` `gemini` `llm`
 
-⭐ 9.3k • 🔱 9.7k • 18h ago
+⭐ 9.3k • 🔱 9.7k • 19h ago
 
 ---
 
@@ -681,7 +681,7 @@ The Ultimate Collection of 600+ Agentic Skills for Claude Code/Antigravity/Curso
 
 `Python` `agentic-skills` `ai-agents` `antigravity` `autonomous-coding` `claude-code`
 
-⭐ 7.0k • 🔱 1.5k • 57m ago
+⭐ 7.0k • 🔱 1.5k • 1h ago
 
 ---
 
@@ -691,7 +691,7 @@ Marketing skills for Claude Code and AI agents. CRO, copywriting, SEO, analytics
 
 `claude` `codex` `marketing`
 
-⭐ 5.7k • 🔱 630 • 6h ago
+⭐ 5.7k • 🔱 630 • 7h ago
 
 ---
 
@@ -725,7 +725,7 @@ OpenSource Claude Cowork. A desktop AI assistant that helps you with programming
 
 Humanizer 的汉化版本，Claude Code Skills，旨在消除文本中 AI 生成的痕迹。
 
-⭐ 2.5k • 🔱 242 • 15d ago
+⭐ 2.5k • 🔱 242 • 16d ago
 
 ---
 
