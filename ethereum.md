@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-02-04T16:09:22.720706+00:00'
+updated: '2026-02-04T17:25:04.476462+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- news
 - social
-- videos
 - cryptocurrency
+- news
+- videos
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** February 04, 2026 at 16:09 UTC  
+**Last Updated:** February 04, 2026 at 17:25 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -36,33 +36,33 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Price
 
-### $2,148.21
+### $2,128.70
 
 ---
 
 ## Ethereum Chart
 
-**24h:** -2.1%  
-**7d:** -23.9%  
-**30d:** -34.8%  
-**90d:** -37.5%  
-**1y:** -22.8%  
+**24h:** +0.2%  
+**7d:** -24.6%  
+**30d:** -35.4%  
+**90d:** -38.0%  
+**1y:** -23.5%  
 
 ---
 
 ## Ethereum Market Stats
 
-**Market Cap:** $261.67B
+**Market Cap:** $256.60B
 Rank #2
 
 **Circulating Supply:** 120,693,577 ETH
 No max supply
 
 **All-Time High:** $4,946.05
--56.2%
+-57.1%
 
 **All-Time Low:** $0.43
-+499861.9%
++489766.7%
 
 ---
 
@@ -72,7 +72,7 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-10h ago
+11h ago
 
 ---
 
@@ -80,7 +80,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 The long-term technical vision for Ethereum is undergoing a significant correction. : Get all the latest crypto news at Sandmark
 
-🔗 [Sandmark](https://www.sandmark.com/news/top-news/buterin-reframes-ethereum-strategy-scaling-focus-returns-base-layer?utm_medium=referral&utm_source=redbot&utm_campaign=redbot-ww-en-brand) • 2h ago
+🔗 [Sandmark](https://www.sandmark.com/news/top-news/buterin-reframes-ethereum-strategy-scaling-focus-returns-base-layer?utm_medium=referral&utm_source=redbot&utm_campaign=redbot-ww-en-brand) • 3h ago
 
 ---
 
@@ -88,7 +88,7 @@ The long-term technical vision for Ethereum is undergoing a significant correcti
 
 I’d like a more technical and realistic analysis of Ethereum and how things are changing and growing. Please let me know if you know a good podcast or YouTube channel that does this. Thank you.
 
-1h ago
+3h ago
 
 ---
 
@@ -104,7 +104,7 @@ There have recently been some discussions on the ongoing role of L2s in the Ethe
 
 Been away from Ethereum from some time and would like to jump onboard again. It seems to me neutral opensource software will become increasingly relevant due to the changing world order and Ethereum will play a significant role. I'm particularly interested in how Ethereum can be used for daily payments via stablecoins. I would like to know if anyone is working on (1) on-chain oracles for currency exchange-rates and (2) stablecoins for developing nation currencies. My aim is to understand what kind of on-chain infrastructure needs to be there to enable normal people to transparently use Ethereum to pay for their morning coffee. Happy to discuss!
 
-5h ago
+6h ago
 
 ---
 
@@ -118,13 +118,13 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 **[ZK (Zero knowledge) proof for SHA-256: 312-byte proof, ~18µs verification](https://www.reddit.com/r/ethereum/comments/1qv2hzp/zk_zero_knowledge_proof_for_sha256_312byte_proof/)**
 
-20h ago
+21h ago
 
 ---
 
 **[Effect-TS library for EVM frontends](https://www.reddit.com/r/ethereum/comments/1quxszt/effectts_library_for_evm_frontends/)**
 
-22h ago
+1d ago
 
 ---
 
@@ -152,15 +152,7 @@ In June 2016, someone drained ~$60M from The DAO - a decentralized investment fu
 
 Based on data from prediction markets, Ethereum will have a tough climb this year.
 
-The Motley Fool • 3h ago
-
----
-
-**[Vitalik Buterin reevaluates Ethereum's rollup-centric roadmap, arguing L2s decentralized 'far slower' while base layer advanced](https://www.theblock.co/post/388285/vitalik-buterin-reevaluates-rollup-centric-roadmap-arguing-l2s-decentralized-far-slower-while-ethereum-base-layer-advanced)**
-
-Buterin previously championed a "rollup-centric" roadmap that would scale Ethereum through a network of branded shards.
-
-The Block • 23h ago
+The Motley Fool • 5h ago
 
 ---
 
@@ -168,29 +160,45 @@ The Block • 23h ago
 
 The roadmap in place doesn't make as much sense because progress among layer-2s toward later stages of decentralization has been slower and more difficult, and Ethereum itself is now scaling directly on layer-1.
 
-CoinDesk • 22h ago
+CoinDesk • 1d ago
 
 ---
 
-**['We Need a New Path': Ethereum Founder Vitalik Buterin Rips Up L2-Focused Roadmap](https://decrypt.co/356841/we-need-new-path-ethereum-founder-vitalik-buterin-rips-up-l2-focused-roadmap)**
+**[Vitalik Buterin reevaluates Ethereum's rollup-centric roadmap, arguing L2s decentralized 'far slower' while base layer advanced](https://www.theblock.co/post/388285/vitalik-buterin-reevaluates-rollup-centric-roadmap-arguing-l2s-decentralized-far-slower-while-ethereum-base-layer-advanced)**
 
-Some layer-2 networks have made concessions when it comes to decentralization, Buterin said, and shouldn’t be “branded” as extensions of Ethereum.
+Buterin previously championed a "rollup-centric" roadmap that would scale Ethereum through a network of branded shards.
 
-Decrypt • 17h ago
-
----
-
-**[Bitcoin, Ethereum continue plunge — and experts warn of more pain to come](https://finance.yahoo.com/news/bitcoin-ethereum-continue-plunge-experts-215357559.html)**
-
-Bitcoin and Ethereum plunged further on Tuesday. The two biggest digital coins are now well below their all-time highs. Experts have signalled that the crypto market could continue to drop.
-
-Yahoo Finance • 18h ago
+The Block • 1d ago
 
 ---
 
-**[Bitcoin, XRP, Ethereum Drop. Why Cryptos Are Under Pressure Today.](https://www.barrons.com/articles/bitcoin-xrp-ethereum-cryptos-gold-9051820f?gaa_at=eafs&gaa_n=AWEtsqc2m9oBPl0b7nbOTxOysC_v340EOJIsfDpwMbFm9O7YvWUnWxWlIZM-&gaa_ts=6983729a&gaa_sig=6P5UIizzIwKRQ_oIA1vsKeBAIEiQepZL377FLe1Jp6FLMrrc9BK8QZYIHCaR__CB63QqSFZ8lJsyDYevXi3sQA%3D%3D)**
+**[Crypto networks responds after Vitalik Buterin told them they 'no longer makes sense' for Ethereum](https://www.coindesk.com/business/2026/02/04/from-ethereum-s-sidekick-to-standalone-stars-how-vitalik-buterin-s-latest-pivot-is-forcing-layer-2s-to-grow-up)**
 
-Barron's • 4h ago
+Leaders across the layer-2 space don't see this moment as an existential threat, but rather that Ethereum’s progress is forcing them to clarify their purpose.
+
+CoinDesk • 35m ago
+
+---
+
+**[UBS CEO Details Crypto Plans Following Report of Bitcoin, Ethereum Trading for Wealthy Clients](https://finance.yahoo.com/news/ubs-ceo-details-crypto-plans-170149786.html)**
+
+Publicly traded Swiss bank UBS is working on plans to offer digital assets trading and tokenized service offerings for users, its CEO said.
+
+Yahoo Finance • 23m ago
+
+---
+
+**[Polkadot developer unfazed by slow start for smart contract launch. ‘Our focus doesn’t waver‘](https://www.dlnews.com/articles/defi/polkadot-adds-smart-contracts-to-entice-ethereum-developers/)**
+
+Polkadot now supports smart contracts. They can be created using Ethereum compatible tooling.  The hope is Polkadot can entice Ethereum developers.
+
+dlnews.com • 7m ago
+
+---
+
+**[Bitcoin, XRP, Ethereum Drop. Why Cryptos Are Under Pressure Today.](https://www.barrons.com/articles/bitcoin-xrp-ethereum-cryptos-gold-9051820f?gaa_at=eafs&gaa_n=AWEtsqcIL7oJevhWjCtNnWx8zccfQQrvEIkof47ebNhM8t00vGfN5z7jsh-v&gaa_ts=69838459&gaa_sig=0DQlFRkCQU-ejPxTPlNGj4l_kyS6mLn2uQ2XzFmx7h_cCb0Z294Xxyo3dohr7lPZtIB_YLKHjKqPcuGrfyB3YQ%3D%3D)**
+
+Barron's • 6h ago
 
 ---
 
@@ -206,23 +214,15 @@ Sherwood News • 1d ago
 
 Ethereum price extended its decline below $2,220 and $2,200. ETH is now attempting to recover from $2,000 but faces many hurdles near $2,250.Ethereum Price Faces ResistanceEthereum price failed to remain stable above $2,320 and extended losses, like Bitcoin. ETH price traded below $2,220 to enter a…
 
-TradingView • 12h ago
+TradingView • 14h ago
 
 ---
 
-**[Ethereum Falls 10% In Rout](https://www.investing.com/news/cryptocurrency-news/ethereum-falls-10-in-rout-4477776)**
+**[Tom Lee: Bitcoin, Ethereum Got Hit Hard, But The Bottom Is Close](https://finance.yahoo.com/news/tom-lee-bitcoin-ethereum-got-143113947.html)**
 
-Ethereum Falls 10% In Rout
+The crypto selloff has been deeper than anticipated, but Tom Lee sees price and timing align for a potential bottom. Crypto Selloff Deeper Than Expected… In a CNBC Squawk Box interview on Monday, Lee, head of research at Fundstrat Global Advisors and CIO of Fundstrat Capital, said crypto's recent decline exceeded expectations despite solid fundamentals. He attributed the weakness to risk appetite rotating into gold and silver, which surged early in the year and sparked fear of missing out. Don't
 
-Investing.com • 2d ago
-
----
-
-**[Ethereum vs Bitcoin: Jack Yi Admits ETH Bull Call Came Too Soon](https://stocktwits.com/news-articles/markets/cryptocurrency/ethereum-bull-jack-yi-says-early-eth-bullish-bet-was-mistimed-and-a-mistake/cZbgN2PR4kB)**
-
-The shift came amid heavy liquidations and market trends favoring Bitcoin under macro pressure.
-
-Stocktwits • 2d ago
+Yahoo Finance • 2h ago
 
 ---
 
@@ -236,17 +236,27 @@ Ethereum has experienced multiple major pullbacks throughout its history and eve
 
 📺 The Value Thinker
 
-👁️ 1K • 👍 209 • 💬 88 • ⏱️ 22:38 • 3h ago
+👁️ 3K • 👍 403 • 💬 122 • ⏱️ 22:38 • 4h ago
 
 ---
 
-**[BITCOIN AND ETH: TRYING TO BOUNCE!!!!! 🚨🚨🚨 (Vitalik kills L2s)](https://www.youtube.com/watch?v=md6nK4g8c4U)**
+**[Ethereum in Trouble… Vitalik Confirms It (BAD)](https://www.youtube.com/watch?v=qjcex76my3Q)**
 
-FREE TRAINING: https://www.bullmania.com EXCHANGES I USE (bybit, pionex): https://www.bullmania.com/partners My ...
+Is the Ethereum dream dead? Vitalik Buterin just dropped a bombshell that has the entire crypto community reeling. For years ...
 
-📺 Ivan on Tech
+📺 Discover Crypto
 
-👁️ 12K • 👍 1K • 💬 45 • ⏱️ 50:26 • 6h ago
+👁️ 3K • 👍 277 • 💬 67 • ⏱️ 1:21:03 • 27m ago
+
+---
+
+**[&quot;My Warning For ALL Small Crypto Holders In February&quot;: Tom Lee | Ethereum Price 2026](https://www.youtube.com/watch?v=K52Ev_G1YwQ)**
+
+My FREE Daily On-Chain Analysis & Crypto News In 5-Mins: https://www.cryptonutshell.com/subscribe You can NOW ...
+
+📺 Jamie Tree 
+
+👁️ 392 • 👍 27 • 💬 40 • ⏱️ 18:33 • 2h ago
 
 ---
 
@@ -256,7 +266,27 @@ Bitcoin's dip below $75000 is something David Siemer calls a "buying opportunity
 
 📺 Schwab Network
 
-👁️ 10K • 👍 136 • 💬 16 • ⏱️ 6:37 • 15h ago
+👁️ 11K • 👍 147 • 💬 17 • ⏱️ 6:37 • 16h ago
+
+---
+
+**[BITCOIN AND ETH: TRYING TO BOUNCE!!!!! 🚨🚨🚨 (Vitalik kills L2s)](https://www.youtube.com/watch?v=md6nK4g8c4U)**
+
+FREE TRAINING: https://www.bullmania.com EXCHANGES I USE (bybit, pionex): https://www.bullmania.com/partners My ...
+
+📺 Ivan on Tech
+
+👁️ 15K • 👍 1K • 💬 89 • ⏱️ 50:26 • 7h ago
+
+---
+
+**[Ethereum Elliott Wave Update – Key Resistance Levels Ahead](https://www.youtube.com/watch?v=gr2qmfL1H1w)**
+
+This video provides a professional Elliott Wave and technical analysis of Ethereum (ETH), focusing on market structure, major ...
+
+📺 More Crypto Online
+
+👁️ 823 • 👍 112 • 💬 7 • ⏱️ 4:15 • 1h ago
 
 ---
 
@@ -266,7 +296,7 @@ Ask and you shall receive... or maybe just complain a lot and then the informati
 
 📺 The Modern Investor
 
-👁️ 4K • 👍 619 • 💬 248 • ⏱️ 29:04 • 4h ago
+👁️ 6K • 👍 735 • 💬 291 • ⏱️ 29:04 • 6h ago
 
 ---
 
@@ -276,27 +306,7 @@ JACOB'S Whop - Discover The Alpha, Join The VIP Group Today - https://whop.com/o
 
 📺 Jacob Crypto Bury
 
-👁️ 323 • 👍 6 • 💬 47 • ⏱️ 4:54 • 20h ago
-
----
-
-**[Crypto Investors Are In SERIOUS Trouble (Tom Lee &amp; Raoul Pal)](https://www.youtube.com/watch?v=KVKyHOtnSfI)**
-
-LIMITED TIME: ✓ Bitunix (no kyc, $10k bonus): https://www.bitunix.com/register?vipCode=AltcoinDaily 50% deposit bonus on ...
-
-📺 Altcoin Daily
-
-👁️ 105K • 👍 3K • 💬 694 • ⏱️ 10:56 • 1d ago
-
----
-
-**[BULLISH PATTERN FORMING!🚨 (Ethereum Price Prediction 2026)](https://www.youtube.com/watch?v=RgcpoJNpX7U)**
-
-ETHEREUM ETH PRICE PREDICTION 2026 Join the Premium Signal Group for trade setups, mentorship & a community ...
-
-📺 Cilinix Crypto
-
-👁️ 184 • 👍 10 • 💬 2 • ⏱️ 4:29 • 6h ago
+👁️ 373 • 👍 6 • 💬 47 • ⏱️ 4:54 • 21h ago
 
 ---
 
@@ -306,7 +316,7 @@ This video provides a professional Elliott Wave and technical analysis of Ethere
 
 📺 More Crypto Online
 
-👁️ 4K • 👍 242 • 💬 8 • ⏱️ 4:02 • 20h ago
+👁️ 4K • 👍 246 • 💬 8 • ⏱️ 4:02 • 21h ago
 
 ---
 
@@ -316,17 +326,7 @@ Tom Lee Just Said The UNTHINKABLE About Bitcoin & Ethereum! ["It's a Fake Crash"
 
 📺 Crypto Nutshell
 
-👁️ 13K • 👍 442 • 💬 51 • ⏱️ 18:04 • 2d ago
-
----
-
-**[Ethereum Elliott Wave Update – Key Resistance Levels Ahead](https://www.youtube.com/watch?v=ZMK-98Y8N1I)**
-
-This video provides a professional Elliott Wave and technical analysis of Ethereum (ETH), focusing on market structure, major ...
-
-📺 More Crypto Online
-
-👁️ 4K • 👍 205 • 💬 17 • ⏱️ 5:48 • 1d ago
+👁️ 13K • 👍 448 • 💬 52 • ⏱️ 18:04 • 2d ago
 
 ---
 
