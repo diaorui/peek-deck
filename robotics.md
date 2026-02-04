@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-02-04T10:39:18.346017+00:00'
+updated: '2026-02-04T11:34:25.662593+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- news
-- social
 - videos
+- social
+- news
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** February 04, 2026 at 10:39 UTC  
+**Last Updated:** February 04, 2026 at 11:34 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -36,7 +36,23 @@ Robotics research and industry news
 
 The drone has six mmWave radars to sense power lines from any direction, all connected to a Raspberry Pi. Based on these detections, the desired velocity (from a pilot or autonomous system) then gets modified to guide the drone around the power line. Everything runs in real time on the Pi with ROS2 middleware and PX4 flight stack. If you're interested, you can check out the paper: https://arxiv.org/abs/2602.03229, or the full video with voice-over: https://www.youtube.com/watch?v=rJW3eEC-5Ao
 
-6h ago
+7h ago
+
+---
+
+**[HumanX: Toward Agile and Generalizable Humanoid Interaction Skills from Human Videos (Paper and project page)](https://www.reddit.com/r/robotics/comments/1qvkoyn/humanx_toward_agile_and_generalizable_humanoid/)**
+
+Paper: https://arxiv.org/abs/2602.02473 Project Page: https://wyhuai.github.io/human-x/ From Yinhuai on 𝕏: https://x.com/NliGjvJbycSeD6t/status/2018713031157465495 Previous post: An Unitree trained to play basketball and the first human block against a humanoid: https://www.reddit.com/r/robotics/comments/1p2w932/an_unitree_trained_to_play_basketball_and_the/
+
+1h ago
+
+---
+
+**[Day 135 of building Asimov, an open-source humanoid. Assembling the upper body now, speaker and other components going in](https://www.reddit.com/r/robotics/comments/1qvluxh/day_135_of_building_asimov_an_opensource_humanoid/)**
+
+Asimov is an open-source humanoid robot. We open-sourced the leg design and XML files for simulation. It's built with off-the-shelf components and 3D-printable parts. All files and parts are here: https://github.com/asimovinc/asimov-v0
+
+19m ago
 
 ---
 
@@ -44,15 +60,7 @@ The drone has six mmWave radars to sense power lines from any direction, all con
 
 Mind Blown! Have you heard about ClawdBot now called OpenClaw? It’s an open source personal AI assistant with over 150k stars on GitHub. I connected a RealSense camera to it and my robot started following me!
 
-11h ago
-
----
-
-**[Joints made with rolling contact surfaces](https://www.reddit.com/r/robotics/comments/1quvbyp/joints_made_with_rolling_contact_surfaces/)**
-
-See this LINK. Cool article about a new design for robot joints that roll instead of pivoting like normal hinges. Seems like a very practical design that would be easy to make with 3D printing, and can be passive or motor-driven. The joints use specially shaped (non-circular) rolling surfaces that can be “programmed” to move in very specific ways. Compared to regular joints, these rolling joints can follow complex paths much more accurately The joints can also change how force is transmitted, giving more strength where it’s needed and more speed elsewhere. From this academic article:C.J. Decker, T.G. Chen, M.C. Yuen, & R.J. Wood, Noncircular rolling contact joints enable programmed behavior in robotic linkages, Proc. Natl. Acad. Sci. U.S.A. https://doi.org/10.1073/pnas.2521406123 (2026). The authors show that a joint designed this way can closely match the motion of a human knee, far better than standard hinges. They also build a robotic gripper that can lift over three times more weight than a similar gripper with ordinary joints.
-
-18h ago
+12h ago
 
 ---
 
@@ -60,13 +68,29 @@ See this LINK. Cool article about a new design for robot joints that roll instea
 
 Brooks argues that the real bottleneck is still physical interaction with the world. Humans don’t just copy motions when they pick something up. They constantly sense force, adjust grip, and adapt in ways that are hard to formalize or capture in data. Many current systems learn from vision or teleoperation, but that misses what happens at the point of contact. His view isn’t that automation can’t help. It’s that value today comes from supporting humans around these tasks rather than replacing them. Reducing walking, lifting, and strain is achievable now, while true human-level grasping remains a long-term challenge.
 
-9h ago
+10h ago
+
+---
+
+**[Joints made with rolling contact surfaces](https://www.reddit.com/r/robotics/comments/1quvbyp/joints_made_with_rolling_contact_surfaces/)**
+
+See this LINK. Cool article about a new design for robot joints that roll instead of pivoting like normal hinges. Seems like a very practical design that would be easy to make with 3D printing, and can be passive or motor-driven. The joints use specially shaped (non-circular) rolling surfaces that can be “programmed” to move in very specific ways. Compared to regular joints, these rolling joints can follow complex paths much more accurately The joints can also change how force is transmitted, giving more strength where it’s needed and more speed elsewhere. From this academic article:C.J. Decker, T.G. Chen, M.C. Yuen, & R.J. Wood, Noncircular rolling contact joints enable programmed behavior in robotic linkages, Proc. Natl. Acad. Sci. U.S.A. https://doi.org/10.1073/pnas.2521406123 (2026). The authors show that a joint designed this way can closely match the motion of a human knee, far better than standard hinges. They also build a robotic gripper that can lift over three times more weight than a similar gripper with ordinary joints.
+
+19h ago
+
+---
+
+**[NASA's Perseverance rover completes the first AI-planned drive on Mars](https://www.reddit.com/r/robotics/comments/1qvj2cv/nasas_perseverance_rover_completes_the_first/)**
+
+History was made this week as NASA’s Perseverance rover completed its first-ever drive planned entirely by artificial intelligence. Instead of waiting for human drivers on Earth to chart every move, the rover used onboard AI to scan the terrain, identify hazards, and calculate its own safe path for over 450 meters (1,400 ft). This shift from remote control to true autonomy is the breakthrough needed to explore deep-space worlds where real-time communication is impossible.
+
+🔗 [ScienceDaily](https://www.sciencedaily.com/releases/2026/01/260131084555.htm) • 3h ago
 
 ---
 
 **[Final jet engine scale model design](https://www.reddit.com/r/robotics/comments/1qvfmy1/final_jet_engine_scale_model_design/)**
 
-5h ago
+6h ago
 
 ---
 
@@ -82,31 +106,7 @@ From RoboHub🤖 on 𝕏: https://x.com/XRoboHub/status/2018281195063419225 Prev
 
 Not sure where else to rant and have people understand where I am coming from. But here it goes - I am a master's student in mechanical engineering, specializing in robotics. I entered with an existing research idea in mind, given that I have completed 2 years of undergraduate research in this lab. At first, I was able to work on my existing idea, especially since it was novel. But then came Trump's funding cuts, and my school/lab was essentially out of funds (and because my PI bought the Unitree G1 complete package lol). I lost my funding, and research now is pretty restricted. With that, I have been advised to start preliminary research in a completely different field. I did try to return to my prior research, but I received negative feedback. There was a strong sense coming from my PI that I should do research in human-robot interaction (HRI). I spoke to some peers in the lab, and from the sounds of it, I was pushed to do research in this area of robotics mainly so that I can work on a novel idea and get NSF funding (ideally) for the lab, depending on the proposal, since this area of robotics has been getting alot of traction lately due to safety concerns. Although I do have a pretty interesting/novel idea in this field (and I would be more than happy to chat with anyone about it), I sort of dread it. I've been delaying research on this topic because working on it isn't exciting, and the work itself steers me into an industrial field separate from my dreams. To top it off, I hate our weekly lab meetings (where we present our week's work and what we plan to do the following week). It's been about 4 months since I first explained my work (pertaining to Trust in HRI), and almost every meeting ends with my PI saying he doesn't understand the topic of trust. I figured I was the issue in explaining it, but all my peers understood it and found it extremely interesting. The first thing they asked, as well, was whether I transferred to a PhD program. Mainly due to the fact that master's research typically deals with the applications of PhD research, while PhDs focus on completely novel ideas. However, my work has involved complete reformulations / new formulations of statistical means that PhD students would focus on. I spent many sleepless nights reading many statistical textbooks and so on. I even spent nearly a month reading psychology papers to better understand human Trust on the human level (spoiler, psychologists appear to barely understand it as well). In the end, though, it does not matter how hard or how much I work on this topic because if my PI doesn't approve of it, then I cannot complete my thesis, which feels like a punch to the throat. Fortunately, I have a second-round interview with ASML and a backup secured internship with NASA, so that might help steer me back onto my ideal path or open new doors for research. But the next year of research sounds like it'll suck... Wishing I had a separate hot topic to research that the PI would at least somewhat understand and approve of. It's the least I can ask for after doing 6+ hours a day of unpaid research :') P.S. Sorry if this rant was scattered. Brain still in overdrive from school.
 
-5h ago
-
----
-
-**[NASA's Perseverance rover completes the first AI-planned drive on Mars](https://www.reddit.com/r/robotics/comments/1qvj2cv/nasas_perseverance_rover_completes_the_first/)**
-
-History was made this week as NASA’s Perseverance rover completed its first-ever drive planned entirely by artificial intelligence. Instead of waiting for human drivers on Earth to chart every move, the rover used onboard AI to scan the terrain, identify hazards, and calculate its own safe path for over 450 meters (1,400 ft). This shift from remote control to true autonomy is the breakthrough needed to explore deep-space worlds where real-time communication is impossible.
-
-🔗 [ScienceDaily](https://www.sciencedaily.com/releases/2026/01/260131084555.htm) • 2h ago
-
----
-
-**[Need help!!](https://www.reddit.com/r/robotics/comments/1qv1ymt/need_help/)**
-
-F450 overall Drone weight - 976gram Motor - A2212 - 1400kv Esc-30A Prop - 8inch Battery - 3S, 3500mah Will it lift? Or should i go for 1000kv bldc motor
-
-14h ago
-
----
-
-**[We trained a locomotion policy that got our humanoid robot Asimov to walk](https://www.reddit.com/r/robotics/comments/1qupdmn/we_trained_a_locomotion_policy_that_got_our/)**
-
-Asimov is an open-source humanoid we're building from scratch at Menlo Research. Legs, arms, and head developed in parallel. We're sharing how we got the legs walking. The rewards barely mattered. What worked was controlling what data the policy sees, when, and why. Our robot oscillated violently on startup. We tuned rewards for weeks. Nothing changed. Then we realized the policy was behaving like an underdamped control system, and the fix had nothing to do with rewards. We don't feed ground-truth linear velocity to the policy. On real hardware, you have an IMU that drifts and encoders that measure joint positions. Nothing else. If you train with perfect velocity, the policy learns to rely on data that won't exist at deployment. Motors are polled over CAN bus sequentially. Hip data is 6-9ms stale by the time ankle data arrives. We modeled this explicitly, matching the actual timing the policy will face on hardware. The actor only sees what real sensors provide (45 dimensions). The critic sees privileged info: Ground truth velocity, contact forces, toe positions. Asimov has passive spring-loaded toes with no encoder. The robot can't sense them. By exposing toe state to the critic, the policy learns to infer toe behavior from ankle positions and IMU readings. We borrowed most of our reward structure from Booster, Unitree, and MJLab. Made hardware-specific tweaks. No gait clock (Asimov has unusual kinematics, canted hips, backward-bending knees), asymmetric pose tolerances (ankles have only ±20° ROM), narrower stance penalties, air time rewards (the legs are 16kg and can achieve flight phase). Domain randomization was targeted, not broad. We randomized encoder calibration error, PD gains, toe stiffness, foot friction, observation delays. We didn't randomize body mass, link lengths, or gravity. Randomize what you know varies. Don't randomize what you've measured accurately. Next: terrain curriculum, velocity curriculum, full body integration (26-DOF+). Full post with observation tables, reward weights, and code: https://news.asimov.inc/p/teaching-a-humanoid-to-walk
-
-23h ago
+6h ago
 
 ---
 
@@ -114,11 +114,11 @@ Asimov is an open-source humanoid we're building from scratch at Menlo Research.
 
 ## Google News: "robotics"
 
-**[COMMENTARY: Teaching mathematics with coding and robotics can transform California math instruction](https://edsource.org/2026/california-math-framework-coding-robotics/750225)**
+**[Funding surge powers Chinese robotics firms as focus shifts to humanoid ‘brains’](https://www.scmp.com/tech/article/3342246/funding-surge-powers-chinese-robotics-firms-focus-shifts-humanoid-brains)**
 
-A hands-on, integrated approach has the potential to transform math from a gatekeeper into a gateway for STEM opportunities for all students.
+State-backed funds, Big Tech drive fresh capital into robotics companies, betting on operating systems that underpin humanoid intelligence.
 
-EdSource • 2d ago
+South China Morning Post • 23h ago
 
 ---
 
@@ -130,19 +130,11 @@ TechCrunch • 1d ago
 
 ---
 
-**[SoftBank, Fanuc turn to partners as robotics and AI merge](https://asia.nikkei.com/business/technology/artificial-intelligence/softbank-fanuc-turn-to-partners-as-robotics-and-ai-merge)**
-
-Japan's robotics industry struggles to catch up to physical AI technology
-
-Nikkei Asia • 1d ago
-
----
-
 **[Robotics is forcing a fundamental rethink of AI compute, data, and systems design](https://www.theregister.com/2026/02/03/robotics-ai-infrastructure-next/)**
 
 Partner Content: Robotics is forcing a fundamental rethink of AI compute, data, and systems design
 
-theregister.com • 18h ago
+theregister.com • 19h ago
 
 ---
 
@@ -158,7 +150,7 @@ New Hampshire Public Radio • 2d ago
 
 Moya, a humanoid robot unveiled in Shanghai, is designed to walk, smile, and interact like a human using embodied AI.
 
-Interesting Engineering • 20h ago
+Interesting Engineering • 21h ago
 
 ---
 
@@ -166,29 +158,35 @@ Interesting Engineering • 20h ago
 
 The system will be deployed in calendar year 2026 following multi-year collaboration.
 
-FedEx newsroom • 17h ago
-
----
-
-**[Funding surge powers Chinese robotics firms as focus shifts to humanoid ‘brains’](https://www.scmp.com/tech/article/3342246/funding-surge-powers-chinese-robotics-firms-focus-shifts-humanoid-brains)**
-
-State-backed funds, Big Tech drive fresh capital into robotics companies, betting on operating systems that underpin humanoid intelligence.
-
-South China Morning Post • 22h ago
+FedEx newsroom • 18h ago
 
 ---
 
 **[A programmable, Lego-like material for robots emulates life's flexibility](https://techxplore.com/news/2026-02-programmable-lego-material-robots-emulates.html)**
 
-Tech Xplore • 13h ago
+Tech Xplore • 14h ago
 
 ---
 
-**[Is Delivery Volume Growth Showing Strong Adoption for Serve Robotics?](https://finance.yahoo.com/news/delivery-volume-growth-showing-strong-134100652.html)**
+**[Elon Musk is stressing robots over cars. Here are three humanoid parts suppliers that Morgan Stanley recommends](https://www.cnbc.com/2026/02/01/musk-is-stressing-robots-over-cars-these-suppliers-make-humanoid-parts.html)**
 
-SERV sees rising delivery volumes as autonomous sidewalk robots gain wider acceptance with restaurants and consumers.
+Morgan Stanley analysts highlight stocks of companies that sell specialized robotics parts.
 
-Yahoo Finance • 20h ago
+CNBC • 2d ago
+
+---
+
+**[portable humanoid robot uses antenna eyebrows and light animations to express emotions](https://www.designboom.com/technology/portable-humanoid-robot-antenna-eyebrows-light-animations-sprout-fauna-robotics/)**
+
+sprout by fauna robotics is a portable humanoid robot that uses its antenna eyebrows and light animations to express emotions.
+
+Designboom • 9m ago
+
+---
+
+**[Should Food Delivery Robots Be Allowed In Wicker Park And Logan Square? Alderman Wants Input](https://blockclubchicago.org/2026/02/03/should-food-delivery-robots-be-allowed-in-wicker-park-and-logan-square-alderman-wants-input/)**
+
+Block Club Chicago • 14h ago
 
 ---
 
@@ -262,7 +260,7 @@ This robotic mouth is designed to replicate how real human lips move while speak
 
 📺 Facts TV 91
 
-👁️ 43K • 👍 329 • 💬 12 • ⏱️ 0:06 • 9h ago
+👁️ 43K • 👍 329 • 💬 12 • ⏱️ 0:06 • 10h ago
 
 ---
 

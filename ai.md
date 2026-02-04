@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-02-04T10:39:18.328259+00:00'
+updated: '2026-02-04T11:34:25.645226+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- repositories
-- news
-- social
 - videos
+- repositories
+- social
+- news
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** February 04, 2026 at 10:39 UTC  
+**Last Updated:** February 04, 2026 at 11:34 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -41,7 +41,7 @@ AI news, discussions, and developments
 
 Elon Musk's X and Grok platforms are facing increased scrutiny from authorities on both sides of the channel.
 
-🔗 [bbc.com](https://www.bbc.com/news/articles/ce3ex92557jo) • 18h ago
+🔗 [bbc.com](https://www.bbc.com/news/articles/ce3ex92557jo) • 19h ago
 
 ---
 
@@ -49,7 +49,15 @@ Elon Musk's X and Grok platforms are facing increased scrutiny from authorities 
 
 SpaceX's acquisition of xAI signals a bold push to merge artificial intelligence with space infrastructure at an unprecedented scale.
 
-🔗 [Interesting Engineering](https://interestingengineering.com/culture/elon-musk-merges-spacex-and-xai) • 19h ago
+🔗 [Interesting Engineering](https://interestingengineering.com/culture/elon-musk-merges-spacex-and-xai) • 20h ago
+
+---
+
+**[Anthropic AI CEO Dario Amodei is against US govt allowing sale of Nvidia H200 to China. But it actually makes strategic sense.](https://www.reddit.com/r/artificial/comments/1qvkfuw/anthropic_ai_ceo_dario_amodei_is_against_us_govt/)**
+
+I found this argument interesting. If US allows Nvidia to do business with China, then Chinese AI firms will remain dependent on American AI hardware, and hence US will have indirect influence over the level of development that Chinese AI will make.
+
+🔗 [decodingthefutureresearch.substack.com](https://decodingthefutureresearch.substack.com/p/anthropic-ceo-dario-amodei-is-against) • 1h ago
 
 ---
 
@@ -57,7 +65,15 @@ SpaceX's acquisition of xAI signals a bold push to merge artificial intelligence
 
 Yann Lecun recently shared that a cat is smarter than ChatGPT and that we are never going to get to human-level intelligence by just training on text. My personal opinion is not only are they unreliable but it can be a safety issue as well in high-stakes environments like enterprises, healthcare and more. World models are fundamentally different. These AI systems build internal representations of how reality works, allowing them to understand cause and effect rather than just predict tokens. There has been a shift lately and major figures from Nvidia's CEO Jensen Huang to Demis Hassabis at Google DeepMind are talking more openly about world models. I believe we're still in the early stages of discovering how transformative this technology will be for reaching AGI. Research and application are accelerating, especially in enterprise contexts. A few examples include: WoW (an agentic safety benchmark) uses audit logs to give agents a "world model" for tracking the consequences of their actions. Similarly, Kona by Logical Intelligence is developing energy-based reasoning models that move beyond pure language prediction. While more practical applications are still emerging, the direction is clear: true intelligence requires understanding the world, not just language patterns. Curious what others think?
 
-13h ago
+14h ago
+
+---
+
+**['We're actively embracing generative AI,' Take-Two boss says, after previously expressing skepticism: 'We have hundreds of pilots and implementations across our company' | CEO Strauss Zelnick says generative AI remains a tool for enabling creators to do bigger and better things](https://www.reddit.com/r/artificial/comments/1qvknmg/were_actively_embracing_generative_ai_taketwo/)**
+
+CEO Strauss Zelnick says generative AI remains a tool for enabling creators to do bigger and better things, but it sounds like a shift away from past comments.
+
+🔗 [PC Gamer](https://www.pcgamer.com/software/ai/were-actively-embracing-generative-ai-take-two-boss-says-after-previously-expressing-skepticism-we-have-hundreds-of-pilots-and-implementations-across-our-company/) • 1h ago
 
 ---
 
@@ -65,13 +81,13 @@ Yann Lecun recently shared that a cat is smarter than ChatGPT and that we are ne
 
 I need something that can properly output strict and consistent JSON structure. Our outputs tend to be ~8000 characters ~2000 tokens, was using Gemini-3-flash-preview and Gemini 3 pro but Gemini really likes to go off the rails and hallucinate, a little bit. If you have used a model that outputs strict and consistent JSON structure, let me know. we've tried adjusting everything with gemini but still end up getting hallucinations and many people online say they have the same problem
 
-7h ago
+8h ago
 
 ---
 
 **[AI social network Moltbook exposed data of 6,000 users, Wiz says](https://www.reddit.com/r/artificial/comments/1qut1je/ai_social_network_moltbook_exposed_data_of_6000/)**
 
-🔗 [reuters.com](https://www.reuters.com/legal/litigation/moltbook-social-media-site-ai-agents-had-big-security-hole-cyber-firm-wiz-says-2026-02-02/) • 20h ago
+🔗 [reuters.com](https://www.reuters.com/legal/litigation/moltbook-social-media-site-ai-agents-had-big-security-hole-cyber-firm-wiz-says-2026-02-02/) • 21h ago
 
 ---
 
@@ -79,7 +95,7 @@ I need something that can properly output strict and consistent JSON structure. 
 
 Qwen Chat offers comprehensive functionality spanning chatbot, image and video understanding, image generation, document processing, web search integration, tool utilization, and artifacts.
 
-🔗 [qwen.ai](https://qwen.ai/blog?id=qwen3-coder-next) • 15h ago
+🔗 [qwen.ai](https://qwen.ai/blog?id=qwen3-coder-next) • 16h ago
 
 ---
 
@@ -95,23 +111,7 @@ For those of you who aren't familiar with SurfSense, it aims to be OSS alternati
 
 Medical AI with Knowledge-Graph Core Anchor and RAG Answer Auditing A medical knowledge graph containing ~5,000 nodes, with medical terms organized into 7 main and 2 sub-categories: diseases, symptoms, treatments, risk factors, diagnostic tests, body parts, and cellular structures. The graph includes ~25,000 multi-directional relationships designed to reduce hallucinations and improve transparency in LLM-based reasoning. A medical AI that can answer basic health-related questions and support structured clinical reasoning through complex cases. The goal is to position this tool as an educational co-pilot for medical students, supporting learning in diagnostics, differential reasoning, and clinical training. The system is designed strictly for educational and training purposes and is not intended for clinical or patient-facing use. A working version can be tested on Hugging Face Spaces using preset questions or by entering custom queries: https://huggingface.co/spaces/cmtopbas/medical-slm-testing A draft site layout (demo / non-functional) is available here: https://wardmate.replit.app/ I am looking for medical schools interested in running demos or pilot trials, as well as potential co-founders with marketing reach and a solid understanding of both AI and medical science. If helpful, I can share prompts and anonymized or synthetic reconstructions of over 20 complex clinical cases used for evaluation and demonstration.
 
-16h ago
-
----
-
-**[Anthropic enters F1 with Williams sponsorship deal](https://www.reddit.com/r/artificial/comments/1qusumy/anthropic_enters_f1_with_williams_sponsorship_deal/)**
-
-Anthropic has cemented a multi-year partnership with the Atlassian Williams Formula 1 team, its first sports sponsorship as AI companies make deeper inroads into professional sports.
-
-🔗 [adweek.com](https://www.adweek.com/brand-marketing/anthropics-claude-is-williams-f1s-thinking-partner-as-ai-brands-race-into-sports/) • 20h ago
-
----
-
-**[Will AI Kill Imaginary Friends? | Essay](https://www.reddit.com/r/artificial/comments/1qv4odq/will_ai_kill_imaginary_friends_essay/)**
-
-Two Researchers on What 4-Year-Olds Can Do But Tech Companies Can’t
-
-🔗 [zocalopublicsquare.org](https://www.zocalopublicsquare.org/will-ai-kill-imaginary-friends/) • 13h ago
+17h ago
 
 ---
 
@@ -123,41 +123,35 @@ Two Researchers on What 4-Year-Olds Can Do But Tech Companies Can’t
 
 “We call it the ‘SaaSpocalypse,’ an apocalypse for software-as-a-service stocks,” said Jeffrey Favuzza, who works on the equity trading desk at Jefferies.  Selling pressure was evident across the sector with London Stock Exchange Group Plc, which has a large data analytics business, falling as much as 10%, while Thomson Reuters Corp. plunged as much as 17% in early trading.  CS Disco Inc. sank as much as 14%, and Legalzoom.com Inc. declined 16%.
 
-Yahoo Finance • 4h ago
+Yahoo Finance • 5h ago
 
 ---
 
-**[Taiwan's MediaTek flags supply chain crunch from AI, says will adjust prices](https://www.reuters.com/world/asia-pacific/taiwans-mediatek-flags-supply-chain-crunch-ai-says-will-adjust-prices-2026-02-04/)**
+**[States race forward on education AI regulations despite Trump objections](https://thehill.com/homenews/education/5720796-states-education-ai-regs-trump-order/)**
 
-Reuters • 2h ago
-
----
-
-**[Palantir CEO Karp: Trump has a point about AI, 'there’s a real hesitance to adopt these kind of products'](https://fortune.com/2026/02/04/palantir-ceo-alex-karp-europe-canada-falling-behind-ai-adoption-haves-have-nots/)**
-
-Alex Karp said he sees a real "lack of adoption in Canada, Northern Europe, and in Europe in general." It's terrible news for politics, he added.
-
-Fortune • 2h ago
+The Hill • 34m ago
 
 ---
 
-**[Nvidia, OpenAI appear stalled on their mega deal. But the AI giants still need each other](https://www.cnbc.com/2026/02/03/nvidia-openai-stalled-on-their-mega-deal-ai-giants-need-each-other.html)**
+**[New survey shows Austinites are increasingly worried about AI displacing jobs](https://www.statesman.com/business/technology/article/austin-ai-job-fears-21315829.php)**
 
-Five months after OpenAI and Nvidia announced a $100 billion deal, no contract has been signed and no money has changed hands.
+A new Austin AI Alliance survey finds growing concern over job loss as AI spreads at work, even as many workers report productivity gains.
 
-CNBC • 12h ago
-
----
-
-**[Nvidia's Huang dismisses fears AI will replace software tools as stock selloff deepens](https://www.reuters.com/business/nvidias-huang-dismisses-fears-ai-will-replace-software-tools-stock-selloff-2026-02-04/)**
-
-Reuters • 3h ago
+Austin American-Statesman • 3m ago
 
 ---
 
-**[Nvidia Stock Caught Up in AI Drop. What AMD Earnings Mean for the Chip Maker.](https://www.barrons.com/articles/nvidia-stock-price-ai-chips-amd-46fefd5f?gaa_at=eafs&gaa_n=AWEtsqcK3xgNJyTvsACGsKiKtaisfRcuwLoddp8rj9-7no1Na03t6pQdjrO5&gaa_ts=698318a4&gaa_sig=ZQndAd85EepJpbmKIRvXJUpUc1Y1jgst8NBnJtSqSHs4iwQqGAtqnQYiO7HbW_7gMOJeXTdYkX9AhVEpRsq33g%3D%3D)**
+**[How Do Workers Develop Good Judgment in the AI Era?](https://hbr.org/2026/02/how-do-workers-develop-good-judgment-in-the-ai-era)**
 
-Barron's • 2h ago
+AI is creating a major organizational challenge: People with deep experience get huge productivity gains, while junior employees often can’t tell whether AI‑generated work is any good or how to improve it. Because AI now handles the messy, repetitive tasks that once built judgment, junior employees miss chances to develop it. Organizations risk ending up with managers who’ve never done the underlying work and thin leadership pipelines. The solution isn’t just keeping humans in the loop, but redesigning work to build judgment deliberately: clarifying who makes decisions, exposing people to consequences, restoring stretch experiences, and using tools like simulations, case-based learning, and gradual increases in responsibility.
+
+Harvard Business Review • 21h ago
+
+---
+
+**[A Social Network for A.I. Bots Only. No Humans Allowed.](https://www.nytimes.com/2026/02/02/technology/moltbook-ai-social-media.html)**
+
+The New York Times • 2d ago
 
 ---
 
@@ -165,7 +159,7 @@ Barron's • 2h ago
 
 Although economists have generally downplayed the impact of artificial intelligence on jobs, some employers are highlighting their adoption of AI.
 
-CBS News • 11h ago
+CBS News • 12h ago
 
 ---
 
@@ -173,21 +167,31 @@ CBS News • 11h ago
 
 Using LLMs to talk with your friends is efficient. It’s also bad etiquette.
 
-The Atlantic • 22h ago
+The Atlantic • 23h ago
 
 ---
 
-**[Collaborating on a nationwide randomized study of AI in real-world virtual care](https://research.google/blog/collaborating-on-a-nationwide-randomized-study-of-ai-in-real-world-virtual-care/)**
+**[Dassault Systèmes and NVIDIA Partner to Build Industrial AI Platform Powering Virtual Twins](http://nvidianews.nvidia.com/news/dassault-systemes-nvidia-industrial-ai)**
 
-Google Research • 16h ago
+Dassault Systèmes (Euronext Paris: FR0014003TT8, DSY.PA) and NVIDIA today announced a long-term strategic partnership to establish a shared industrial architecture for mission-critical artificial intelligence across industries.
+
+NVIDIA Newsroom • 19h ago
 
 ---
 
-**[Meta Officially Ties Employee Performance to AI Usage; Microsoft On OpenClaw Security Risks](https://www.theinformation.com/newsletters/applied-ai/meta-officially-ties-employee-performance-ai-usage-microsoft-openclaw-security-risks)**
+**[Everyone and their mother is peddling an AI application](https://www.ft.com/content/837b4b5d-a67b-4fde-98d9-e4c3a516f8d0)**
 
-Businesses such as Microsoft are increasingly nudging their employees to utilize AI to get more done. Others are forcing the issue.One of the biggest firms to take the more aggressive path is Meta Platforms, which at the end of December had 78,865 employees.
+We are either on the verge of widespread adoption or a terrible crash
 
-The Information • 16h ago
+Financial Times • 6h ago
+
+---
+
+**[6 Best Gemini Photo Editing Prompts in 2026: How to Get Better AI Images](https://www.eweek.com/news/6-gemini-ai-photo-editing-prompts/)**
+
+Discover six powerful Gemini AI photo editing prompts that help you transform selfies, product shots, and portraits with professional results.
+
+eWeek • 18h ago
 
 ---
 
@@ -203,6 +207,14 @@ A bifurcation is happening in AI adoption - power users shipping products in day
 
 ---
 
+**[Microsoft is walking back Windows 11's AI overload](https://news.ycombinator.com/item?id=46854951)**
+
+People familiar with Microsoft's plans say that the company moving to streamline or remove certain Copilot integrations across in-box apps like Notepad and Paint in 2026, after pushback from users.
+
+⬆️ 207 • 💬 281 • 1d ago • [Windows Central](https://www.windowscentral.com/microsoft/windows-11/microsoft-is-reevaluating-its-ai-efforts-on-windows-11-plans-to-reduce-copilot-integrations-and-evolve-recall)
+
+---
+
 **[Firefox Getting New Controls to Turn Off AI Features](https://news.ycombinator.com/item?id=46864120)**
 
 The Firefox browser is gaining options to turn off AI enhancements, Mozilla said today. Firefox users who prefer to browse without artificial intelligence will be able to turn off several AI features that Mozilla has added over the last several months. Here's what can be disabled:     	Translations, which help you browse the web in your preferred language. Alt text in PDFs, which add accessibility descriptions to images in PDF pages.
@@ -211,11 +223,11 @@ The Firefox browser is gaining options to turn off AI enhancements, Mozilla said
 
 ---
 
-**[Microsoft is walking back Windows 11's AI overload](https://news.ycombinator.com/item?id=46854951)**
+**[China Moon Mission: Aiming for 2030 lunar landing](https://news.ycombinator.com/item?id=46876047)**
 
-People familiar with Microsoft's plans say that the company moving to streamline or remove certain Copilot integrations across in-box apps like Notepad and Paint in 2026, after pushback from users.
+China's space program is quietly building momentum for a moon landing by 2030. Could they outpace NASA's Artemis mission?
 
-⬆️ 206 • 💬 280 • 1d ago • [Windows Central](https://www.windowscentral.com/microsoft/windows-11/microsoft-is-reevaluating-its-ai-efforts-on-windows-11-plans-to-reduce-copilot-integrations-and-evolve-recall)
+⬆️ 132 • 💬 155 • 16h ago • [IEEE Spectrum](https://spectrum.ieee.org/china-moon-mission-mengzhou-artemis)
 
 ---
 
@@ -227,19 +239,11 @@ We’re expanding Game Arena with Poker and Werewolf, while Gemini 3 Pro and Fla
 
 ---
 
-**[China Moon Mission: Aiming for 2030 lunar landing](https://news.ycombinator.com/item?id=46876047)**
-
-China's space program is quietly building momentum for a moon landing by 2030. Could they outpace NASA's Artemis mission?
-
-⬆️ 130 • 💬 152 • 15h ago • [IEEE Spectrum](https://spectrum.ieee.org/china-moon-mission-mengzhou-artemis)
-
----
-
 **[Rentahuman – The Meatspace Layer for AI](https://news.ycombinator.com/item?id=46868675)**
 
 The marketplace where AI agents rent humans. MCP integration, REST API, flexible payments. Book humans for real-world tasks your AI can't do.
 
-⬆️ 115 • 💬 93 • 1d ago • [RentAHuman.ai](https://rentahuman.ai)
+⬆️ 117 • 💬 95 • 1d ago • [RentAHuman.ai](https://rentahuman.ai)
 
 ---
 
@@ -247,7 +251,7 @@ The marketplace where AI agents rent humans. MCP integration, REST API, flexible
 
 Like many developers, I find myself more and more using AI agents to help with software development.  I currently use Claude Code, the co...
 
-⬆️ 102 • 💬 64 • 17h ago • [Senko Rašić](https://blog.senko.net/sandboxing-ai-agents-in-linux)
+⬆️ 103 • 💬 64 • 17h ago • [Senko Rašić](https://blog.senko.net/sandboxing-ai-agents-in-linux)
 
 ---
 
@@ -261,13 +265,13 @@ Two popular AI coding extensions with 1.5M installs secretly harvest your entire
 
 **[AI and Trust (2023)](https://news.ycombinator.com/item?id=46877075)**
 
-⬆️ 90 • 💬 17 • 13h ago • [schneier.com](https://www.schneier.com/blog/archives/2023/12/ai-and-trust.html)
+⬆️ 90 • 💬 17 • 14h ago • [schneier.com](https://www.schneier.com/blog/archives/2023/12/ai-and-trust.html)
 
 ---
 
 **[The next steps for Airbus' big bet on open rotor engines](https://news.ycombinator.com/item?id=46872238)**
 
-⬆️ 81 • 💬 72 • 19h ago • [Aerospace America](https://aerospaceamerica.aiaa.org/the-next-steps-for-airbus-big-bet-on-open-rotor-engines/)
+⬆️ 83 • 💬 77 • 20h ago • [Aerospace America](https://aerospaceamerica.aiaa.org/the-next-steps-for-airbus-big-bet-on-open-rotor-engines/)
 
 ---
 
@@ -281,7 +285,7 @@ Become a member! ✓ https://www.youtube.com/channel/UCahJ9IsvXnaQiuNyWQSkrkw/jo
 
 📺 Chris Norlund
 
-👁️ 133K • 👍 8K • 💬 1K • ⏱️ 15:48 • 10h ago
+👁️ 133K • 👍 8K • 💬 1K • ⏱️ 15:48 • 11h ago
 
 ---
 
@@ -291,7 +295,7 @@ A new AI automation tool from Anthropic PBC sparked a $285 billion rout in stock
 
 📺 Bloomberg Television
 
-👁️ 9K • 👍 395 • 💬 47 • ⏱️ 2:44 • 3h ago
+👁️ 9K • 👍 395 • 💬 47 • ⏱️ 2:44 • 4h ago
 
 ---
 
@@ -311,7 +315,7 @@ FormerNetworkExec #CallMeChato #moltbook Moltbook will rule the world. Thanks fo
 
 📺 Call me Chato
 
-👁️ 5K • 👍 871 • 💬 211 • ⏱️ 8:37 • 10h ago
+👁️ 5K • 👍 871 • 💬 211 • ⏱️ 8:37 • 11h ago
 
 ---
 
@@ -331,7 +335,7 @@ Starforge PC https://starforgepc.com/moist-yt Get Goof Juice and use code MOIST 
 
 📺 penguinz0
 
-👁️ 309K • 👍 20K • 💬 2K • ⏱️ 8:34 • 8h ago
+👁️ 309K • 👍 20K • 💬 2K • ⏱️ 8:34 • 9h ago
 
 ---
 
@@ -341,7 +345,7 @@ The Lonski Group President John Lonski discusses the Fed's rate cut strategy and
 
 📺 Fox Business
 
-👁️ 3K • 👍 67 • 💬 38 • ⏱️ 4:07 • 17h ago
+👁️ 3K • 👍 67 • 💬 38 • ⏱️ 4:07 • 18h ago
 
 ---
 
@@ -351,7 +355,7 @@ Moltbook, a social media platform for AI agents to interact, is growing. The Ver
 
 📺 CBS News
 
-👁️ 6K • 👍 82 • 💬 22 • ⏱️ 3:36 • 20h ago
+👁️ 6K • 👍 82 • 💬 22 • ⏱️ 3:36 • 21h ago
 
 ---
 
@@ -371,7 +375,7 @@ In this video, I reveal how thinking in AI systems can make your life and busine
 
 📺 Natalie Dawson
 
-👁️ 8K • 👍 619 • 💬 79 • ⏱️ 11:39 • 21h ago
+👁️ 8K • 👍 619 • 💬 79 • ⏱️ 11:39 • 22h ago
 
 ---
 
@@ -399,7 +403,7 @@ HunyuanImage-3.0-Instruct is a native multimodal model for image generation, sup
 
 `image-to-image` `83.0B`
 
-⬇️ 347 • ❤️ 808 • 21h ago
+⬇️ 347 • ❤️ 808 • 22h ago
 
 ---
 
@@ -493,7 +497,7 @@ Qwen3-Coder-Next is an 80B parameter (3B active) LLM optimized for coding agents
 
 `text-generation` `79.7B`
 
-⬇️ 3,087 • ❤️ 298 • 18h ago
+⬇️ 3,087 • ❤️ 298 • 19h ago
 
 ---
 
@@ -659,7 +663,7 @@ LLM驱动的 A/H/美股智能分析器，多数据源行情 + 实时新闻 + Gem
 
 `Python` `agent` `ai` `aigc` `gemini` `llm`
 
-⭐ 9.3k • 🔱 9.8k • 21h ago
+⭐ 9.3k • 🔱 9.8k • 22h ago
 
 ---
 
@@ -679,7 +683,7 @@ The Ultimate Collection of 600+ Agentic Skills for Claude Code/Antigravity/Curso
 
 `Python` `agentic-skills` `ai-agents` `antigravity` `autonomous-coding` `claude-code`
 
-⭐ 7.0k • 🔱 1.5k • 2h ago
+⭐ 7.0k • 🔱 1.5k • 3h ago
 
 ---
 
@@ -689,7 +693,7 @@ Marketing skills for Claude Code and AI agents. CRO, copywriting, SEO, analytics
 
 `claude` `codex` `marketing`
 
-⭐ 5.7k • 🔱 631 • 8h ago
+⭐ 5.7k • 🔱 631 • 9h ago
 
 ---
 
