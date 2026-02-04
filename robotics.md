@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-02-04T09:45:31.037468+00:00'
+updated: '2026-02-04T10:39:18.346017+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
 - news
-- videos
 - social
+- videos
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** February 04, 2026 at 09:45 UTC  
+**Last Updated:** February 04, 2026 at 10:39 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -36,7 +36,7 @@ Robotics research and industry news
 
 The drone has six mmWave radars to sense power lines from any direction, all connected to a Raspberry Pi. Based on these detections, the desired velocity (from a pilot or autonomous system) then gets modified to guide the drone around the power line. Everything runs in real time on the Pi with ROS2 middleware and PX4 flight stack. If you're interested, you can check out the paper: https://arxiv.org/abs/2602.03229, or the full video with voice-over: https://www.youtube.com/watch?v=rJW3eEC-5Ao
 
-5h ago
+6h ago
 
 ---
 
@@ -44,7 +44,7 @@ The drone has six mmWave radars to sense power lines from any direction, all con
 
 Mind Blown! Have you heard about ClawdBot now called OpenClaw? It’s an open source personal AI assistant with over 150k stars on GitHub. I connected a RealSense camera to it and my robot started following me!
 
-10h ago
+11h ago
 
 ---
 
@@ -60,13 +60,13 @@ See this LINK. Cool article about a new design for robot joints that roll instea
 
 Brooks argues that the real bottleneck is still physical interaction with the world. Humans don’t just copy motions when they pick something up. They constantly sense force, adjust grip, and adapt in ways that are hard to formalize or capture in data. Many current systems learn from vision or teleoperation, but that misses what happens at the point of contact. His view isn’t that automation can’t help. It’s that value today comes from supporting humans around these tasks rather than replacing them. Reducing walking, lifting, and strain is achievable now, while true human-level grasping remains a long-term challenge.
 
-8h ago
+9h ago
 
 ---
 
 **[Final jet engine scale model design](https://www.reddit.com/r/robotics/comments/1qvfmy1/final_jet_engine_scale_model_design/)**
 
-4h ago
+5h ago
 
 ---
 
@@ -74,7 +74,7 @@ Brooks argues that the real bottleneck is still physical interaction with the wo
 
 From RoboHub🤖 on 𝕏: https://x.com/XRoboHub/status/2018281195063419225 Previous post with MirrorMe robot dog at 13.4 m/s: https://www.reddit.com/r/robotics/comments/1pvek2r/the_black_panther_ii_robot_dog_hits_134_ms/
 
-23h ago
+1d ago
 
 ---
 
@@ -82,7 +82,7 @@ From RoboHub🤖 on 𝕏: https://x.com/XRoboHub/status/2018281195063419225 Prev
 
 Not sure where else to rant and have people understand where I am coming from. But here it goes - I am a master's student in mechanical engineering, specializing in robotics. I entered with an existing research idea in mind, given that I have completed 2 years of undergraduate research in this lab. At first, I was able to work on my existing idea, especially since it was novel. But then came Trump's funding cuts, and my school/lab was essentially out of funds (and because my PI bought the Unitree G1 complete package lol). I lost my funding, and research now is pretty restricted. With that, I have been advised to start preliminary research in a completely different field. I did try to return to my prior research, but I received negative feedback. There was a strong sense coming from my PI that I should do research in human-robot interaction (HRI). I spoke to some peers in the lab, and from the sounds of it, I was pushed to do research in this area of robotics mainly so that I can work on a novel idea and get NSF funding (ideally) for the lab, depending on the proposal, since this area of robotics has been getting alot of traction lately due to safety concerns. Although I do have a pretty interesting/novel idea in this field (and I would be more than happy to chat with anyone about it), I sort of dread it. I've been delaying research on this topic because working on it isn't exciting, and the work itself steers me into an industrial field separate from my dreams. To top it off, I hate our weekly lab meetings (where we present our week's work and what we plan to do the following week). It's been about 4 months since I first explained my work (pertaining to Trust in HRI), and almost every meeting ends with my PI saying he doesn't understand the topic of trust. I figured I was the issue in explaining it, but all my peers understood it and found it extremely interesting. The first thing they asked, as well, was whether I transferred to a PhD program. Mainly due to the fact that master's research typically deals with the applications of PhD research, while PhDs focus on completely novel ideas. However, my work has involved complete reformulations / new formulations of statistical means that PhD students would focus on. I spent many sleepless nights reading many statistical textbooks and so on. I even spent nearly a month reading psychology papers to better understand human Trust on the human level (spoiler, psychologists appear to barely understand it as well). In the end, though, it does not matter how hard or how much I work on this topic because if my PI doesn't approve of it, then I cannot complete my thesis, which feels like a punch to the throat. Fortunately, I have a second-round interview with ASML and a backup secured internship with NASA, so that might help steer me back onto my ideal path or open new doors for research. But the next year of research sounds like it'll suck... Wishing I had a separate hot topic to research that the PI would at least somewhat understand and approve of. It's the least I can ask for after doing 6+ hours a day of unpaid research :') P.S. Sorry if this rant was scattered. Brain still in overdrive from school.
 
-4h ago
+5h ago
 
 ---
 
@@ -90,7 +90,7 @@ Not sure where else to rant and have people understand where I am coming from. B
 
 History was made this week as NASA’s Perseverance rover completed its first-ever drive planned entirely by artificial intelligence. Instead of waiting for human drivers on Earth to chart every move, the rover used onboard AI to scan the terrain, identify hazards, and calculate its own safe path for over 450 meters (1,400 ft). This shift from remote control to true autonomy is the breakthrough needed to explore deep-space worlds where real-time communication is impossible.
 
-🔗 [ScienceDaily](https://www.sciencedaily.com/releases/2026/01/260131084555.htm) • 1h ago
+🔗 [ScienceDaily](https://www.sciencedaily.com/releases/2026/01/260131084555.htm) • 2h ago
 
 ---
 
@@ -106,7 +106,7 @@ F450 overall Drone weight - 976gram Motor - A2212 - 1400kv Esc-30A Prop - 8inch 
 
 Asimov is an open-source humanoid we're building from scratch at Menlo Research. Legs, arms, and head developed in parallel. We're sharing how we got the legs walking. The rewards barely mattered. What worked was controlling what data the policy sees, when, and why. Our robot oscillated violently on startup. We tuned rewards for weeks. Nothing changed. Then we realized the policy was behaving like an underdamped control system, and the fix had nothing to do with rewards. We don't feed ground-truth linear velocity to the policy. On real hardware, you have an IMU that drifts and encoders that measure joint positions. Nothing else. If you train with perfect velocity, the policy learns to rely on data that won't exist at deployment. Motors are polled over CAN bus sequentially. Hip data is 6-9ms stale by the time ankle data arrives. We modeled this explicitly, matching the actual timing the policy will face on hardware. The actor only sees what real sensors provide (45 dimensions). The critic sees privileged info: Ground truth velocity, contact forces, toe positions. Asimov has passive spring-loaded toes with no encoder. The robot can't sense them. By exposing toe state to the critic, the policy learns to infer toe behavior from ankle positions and IMU readings. We borrowed most of our reward structure from Booster, Unitree, and MJLab. Made hardware-specific tweaks. No gait clock (Asimov has unusual kinematics, canted hips, backward-bending knees), asymmetric pose tolerances (ankles have only ±20° ROM), narrower stance penalties, air time rewards (the legs are 16kg and can achieve flight phase). Domain randomization was targeted, not broad. We randomized encoder calibration error, PD gains, toe stiffness, foot friction, observation delays. We didn't randomize body mass, link lengths, or gravity. Randomize what you know varies. Don't randomize what you've measured accurately. Next: terrain curriculum, velocity curriculum, full body integration (26-DOF+). Full post with observation tables, reward weights, and code: https://news.asimov.inc/p/teaching-a-humanoid-to-walk
 
-22h ago
+23h ago
 
 ---
 
@@ -142,7 +142,7 @@ Nikkei Asia • 1d ago
 
 Partner Content: Robotics is forcing a fundamental rethink of AI compute, data, and systems design
 
-theregister.com • 17h ago
+theregister.com • 18h ago
 
 ---
 
@@ -158,7 +158,7 @@ New Hampshire Public Radio • 2d ago
 
 Moya, a humanoid robot unveiled in Shanghai, is designed to walk, smile, and interact like a human using embodied AI.
 
-Interesting Engineering • 19h ago
+Interesting Engineering • 20h ago
 
 ---
 
@@ -166,7 +166,7 @@ Interesting Engineering • 19h ago
 
 The system will be deployed in calendar year 2026 following multi-year collaboration.
 
-FedEx newsroom • 16h ago
+FedEx newsroom • 17h ago
 
 ---
 
@@ -174,13 +174,13 @@ FedEx newsroom • 16h ago
 
 State-backed funds, Big Tech drive fresh capital into robotics companies, betting on operating systems that underpin humanoid intelligence.
 
-South China Morning Post • 21h ago
+South China Morning Post • 22h ago
 
 ---
 
 **[A programmable, Lego-like material for robots emulates life's flexibility](https://techxplore.com/news/2026-02-programmable-lego-material-robots-emulates.html)**
 
-Tech Xplore • 12h ago
+Tech Xplore • 13h ago
 
 ---
 
@@ -262,7 +262,7 @@ This robotic mouth is designed to replicate how real human lips move while speak
 
 📺 Facts TV 91
 
-👁️ 43K • 👍 329 • 💬 12 • ⏱️ 0:06 • 8h ago
+👁️ 43K • 👍 329 • 💬 12 • ⏱️ 0:06 • 9h ago
 
 ---
 

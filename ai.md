@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-02-04T09:45:31.019374+00:00'
+updated: '2026-02-04T10:39:18.328259+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
 - repositories
 - news
-- videos
 - social
+- videos
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** February 04, 2026 at 09:45 UTC  
+**Last Updated:** February 04, 2026 at 10:39 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -41,7 +41,7 @@ AI news, discussions, and developments
 
 Elon Musk's X and Grok platforms are facing increased scrutiny from authorities on both sides of the channel.
 
-🔗 [bbc.com](https://www.bbc.com/news/articles/ce3ex92557jo) • 17h ago
+🔗 [bbc.com](https://www.bbc.com/news/articles/ce3ex92557jo) • 18h ago
 
 ---
 
@@ -49,7 +49,7 @@ Elon Musk's X and Grok platforms are facing increased scrutiny from authorities 
 
 SpaceX's acquisition of xAI signals a bold push to merge artificial intelligence with space infrastructure at an unprecedented scale.
 
-🔗 [Interesting Engineering](https://interestingengineering.com/culture/elon-musk-merges-spacex-and-xai) • 18h ago
+🔗 [Interesting Engineering](https://interestingengineering.com/culture/elon-musk-merges-spacex-and-xai) • 19h ago
 
 ---
 
@@ -57,7 +57,7 @@ SpaceX's acquisition of xAI signals a bold push to merge artificial intelligence
 
 Yann Lecun recently shared that a cat is smarter than ChatGPT and that we are never going to get to human-level intelligence by just training on text. My personal opinion is not only are they unreliable but it can be a safety issue as well in high-stakes environments like enterprises, healthcare and more. World models are fundamentally different. These AI systems build internal representations of how reality works, allowing them to understand cause and effect rather than just predict tokens. There has been a shift lately and major figures from Nvidia's CEO Jensen Huang to Demis Hassabis at Google DeepMind are talking more openly about world models. I believe we're still in the early stages of discovering how transformative this technology will be for reaching AGI. Research and application are accelerating, especially in enterprise contexts. A few examples include: WoW (an agentic safety benchmark) uses audit logs to give agents a "world model" for tracking the consequences of their actions. Similarly, Kona by Logical Intelligence is developing energy-based reasoning models that move beyond pure language prediction. While more practical applications are still emerging, the direction is clear: true intelligence requires understanding the world, not just language patterns. Curious what others think?
 
-12h ago
+13h ago
 
 ---
 
@@ -65,13 +65,13 @@ Yann Lecun recently shared that a cat is smarter than ChatGPT and that we are ne
 
 I need something that can properly output strict and consistent JSON structure. Our outputs tend to be ~8000 characters ~2000 tokens, was using Gemini-3-flash-preview and Gemini 3 pro but Gemini really likes to go off the rails and hallucinate, a little bit. If you have used a model that outputs strict and consistent JSON structure, let me know. we've tried adjusting everything with gemini but still end up getting hallucinations and many people online say they have the same problem
 
-6h ago
+7h ago
 
 ---
 
 **[AI social network Moltbook exposed data of 6,000 users, Wiz says](https://www.reddit.com/r/artificial/comments/1qut1je/ai_social_network_moltbook_exposed_data_of_6000/)**
 
-🔗 [reuters.com](https://www.reuters.com/legal/litigation/moltbook-social-media-site-ai-agents-had-big-security-hole-cyber-firm-wiz-says-2026-02-02/) • 19h ago
+🔗 [reuters.com](https://www.reuters.com/legal/litigation/moltbook-social-media-site-ai-agents-had-big-security-hole-cyber-firm-wiz-says-2026-02-02/) • 20h ago
 
 ---
 
@@ -95,7 +95,7 @@ For those of you who aren't familiar with SurfSense, it aims to be OSS alternati
 
 Medical AI with Knowledge-Graph Core Anchor and RAG Answer Auditing A medical knowledge graph containing ~5,000 nodes, with medical terms organized into 7 main and 2 sub-categories: diseases, symptoms, treatments, risk factors, diagnostic tests, body parts, and cellular structures. The graph includes ~25,000 multi-directional relationships designed to reduce hallucinations and improve transparency in LLM-based reasoning. A medical AI that can answer basic health-related questions and support structured clinical reasoning through complex cases. The goal is to position this tool as an educational co-pilot for medical students, supporting learning in diagnostics, differential reasoning, and clinical training. The system is designed strictly for educational and training purposes and is not intended for clinical or patient-facing use. A working version can be tested on Hugging Face Spaces using preset questions or by entering custom queries: https://huggingface.co/spaces/cmtopbas/medical-slm-testing A draft site layout (demo / non-functional) is available here: https://wardmate.replit.app/ I am looking for medical schools interested in running demos or pilot trials, as well as potential co-founders with marketing reach and a solid understanding of both AI and medical science. If helpful, I can share prompts and anonymized or synthetic reconstructions of over 20 complex clinical cases used for evaluation and demonstration.
 
-15h ago
+16h ago
 
 ---
 
@@ -103,7 +103,7 @@ Medical AI with Knowledge-Graph Core Anchor and RAG Answer Auditing A medical kn
 
 Anthropic has cemented a multi-year partnership with the Atlassian Williams Formula 1 team, its first sports sponsorship as AI companies make deeper inroads into professional sports.
 
-🔗 [adweek.com](https://www.adweek.com/brand-marketing/anthropics-claude-is-williams-f1s-thinking-partner-as-ai-brands-race-into-sports/) • 19h ago
+🔗 [adweek.com](https://www.adweek.com/brand-marketing/anthropics-claude-is-williams-f1s-thinking-partner-as-ai-brands-race-into-sports/) • 20h ago
 
 ---
 
@@ -111,7 +111,7 @@ Anthropic has cemented a multi-year partnership with the Atlassian Williams Form
 
 Two Researchers on What 4-Year-Olds Can Do But Tech Companies Can’t
 
-🔗 [zocalopublicsquare.org](https://www.zocalopublicsquare.org/will-ai-kill-imaginary-friends/) • 12h ago
+🔗 [zocalopublicsquare.org](https://www.zocalopublicsquare.org/will-ai-kill-imaginary-friends/) • 13h ago
 
 ---
 
@@ -123,13 +123,13 @@ Two Researchers on What 4-Year-Olds Can Do But Tech Companies Can’t
 
 “We call it the ‘SaaSpocalypse,’ an apocalypse for software-as-a-service stocks,” said Jeffrey Favuzza, who works on the equity trading desk at Jefferies.  Selling pressure was evident across the sector with London Stock Exchange Group Plc, which has a large data analytics business, falling as much as 10%, while Thomson Reuters Corp. plunged as much as 17% in early trading.  CS Disco Inc. sank as much as 14%, and Legalzoom.com Inc. declined 16%.
 
-Yahoo Finance • 3h ago
+Yahoo Finance • 4h ago
 
 ---
 
 **[Taiwan's MediaTek flags supply chain crunch from AI, says will adjust prices](https://www.reuters.com/world/asia-pacific/taiwans-mediatek-flags-supply-chain-crunch-ai-says-will-adjust-prices-2026-02-04/)**
 
-Reuters • 1h ago
+Reuters • 2h ago
 
 ---
 
@@ -137,7 +137,7 @@ Reuters • 1h ago
 
 Alex Karp said he sees a real "lack of adoption in Canada, Northern Europe, and in Europe in general." It's terrible news for politics, he added.
 
-Fortune • 1h ago
+Fortune • 2h ago
 
 ---
 
@@ -145,19 +145,19 @@ Fortune • 1h ago
 
 Five months after OpenAI and Nvidia announced a $100 billion deal, no contract has been signed and no money has changed hands.
 
-CNBC • 11h ago
+CNBC • 12h ago
 
 ---
 
 **[Nvidia's Huang dismisses fears AI will replace software tools as stock selloff deepens](https://www.reuters.com/business/nvidias-huang-dismisses-fears-ai-will-replace-software-tools-stock-selloff-2026-02-04/)**
 
-Reuters • 2h ago
+Reuters • 3h ago
 
 ---
 
 **[Nvidia Stock Caught Up in AI Drop. What AMD Earnings Mean for the Chip Maker.](https://www.barrons.com/articles/nvidia-stock-price-ai-chips-amd-46fefd5f?gaa_at=eafs&gaa_n=AWEtsqcK3xgNJyTvsACGsKiKtaisfRcuwLoddp8rj9-7no1Na03t6pQdjrO5&gaa_ts=698318a4&gaa_sig=ZQndAd85EepJpbmKIRvXJUpUc1Y1jgst8NBnJtSqSHs4iwQqGAtqnQYiO7HbW_7gMOJeXTdYkX9AhVEpRsq33g%3D%3D)**
 
-Barron's • 1h ago
+Barron's • 2h ago
 
 ---
 
@@ -173,13 +173,13 @@ CBS News • 11h ago
 
 Using LLMs to talk with your friends is efficient. It’s also bad etiquette.
 
-The Atlantic • 21h ago
+The Atlantic • 22h ago
 
 ---
 
 **[Collaborating on a nationwide randomized study of AI in real-world virtual care](https://research.google/blog/collaborating-on-a-nationwide-randomized-study-of-ai-in-real-world-virtual-care/)**
 
-Google Research • 15h ago
+Google Research • 16h ago
 
 ---
 
@@ -187,7 +187,7 @@ Google Research • 15h ago
 
 Businesses such as Microsoft are increasingly nudging their employees to utilize AI to get more done. Others are forcing the issue.One of the biggest firms to take the more aggressive path is Meta Platforms, which at the end of December had 78,865 employees.
 
-The Information • 15h ago
+The Information • 16h ago
 
 ---
 
@@ -231,7 +231,7 @@ We’re expanding Game Arena with Poker and Werewolf, while Gemini 3 Pro and Fla
 
 China's space program is quietly building momentum for a moon landing by 2030. Could they outpace NASA's Artemis mission?
 
-⬆️ 130 • 💬 152 • 14h ago • [IEEE Spectrum](https://spectrum.ieee.org/china-moon-mission-mengzhou-artemis)
+⬆️ 130 • 💬 152 • 15h ago • [IEEE Spectrum](https://spectrum.ieee.org/china-moon-mission-mengzhou-artemis)
 
 ---
 
@@ -247,7 +247,7 @@ The marketplace where AI agents rent humans. MCP integration, REST API, flexible
 
 Like many developers, I find myself more and more using AI agents to help with software development.  I currently use Claude Code, the co...
 
-⬆️ 102 • 💬 64 • 16h ago • [Senko Rašić](https://blog.senko.net/sandboxing-ai-agents-in-linux)
+⬆️ 102 • 💬 64 • 17h ago • [Senko Rašić](https://blog.senko.net/sandboxing-ai-agents-in-linux)
 
 ---
 
@@ -261,13 +261,13 @@ Two popular AI coding extensions with 1.5M installs secretly harvest your entire
 
 **[AI and Trust (2023)](https://news.ycombinator.com/item?id=46877075)**
 
-⬆️ 90 • 💬 17 • 12h ago • [schneier.com](https://www.schneier.com/blog/archives/2023/12/ai-and-trust.html)
+⬆️ 90 • 💬 17 • 13h ago • [schneier.com](https://www.schneier.com/blog/archives/2023/12/ai-and-trust.html)
 
 ---
 
 **[The next steps for Airbus' big bet on open rotor engines](https://news.ycombinator.com/item?id=46872238)**
 
-⬆️ 81 • 💬 72 • 18h ago • [Aerospace America](https://aerospaceamerica.aiaa.org/the-next-steps-for-airbus-big-bet-on-open-rotor-engines/)
+⬆️ 81 • 💬 72 • 19h ago • [Aerospace America](https://aerospaceamerica.aiaa.org/the-next-steps-for-airbus-big-bet-on-open-rotor-engines/)
 
 ---
 
@@ -281,7 +281,7 @@ Become a member! ✓ https://www.youtube.com/channel/UCahJ9IsvXnaQiuNyWQSkrkw/jo
 
 📺 Chris Norlund
 
-👁️ 133K • 👍 8K • 💬 1K • ⏱️ 15:48 • 9h ago
+👁️ 133K • 👍 8K • 💬 1K • ⏱️ 15:48 • 10h ago
 
 ---
 
@@ -291,7 +291,7 @@ A new AI automation tool from Anthropic PBC sparked a $285 billion rout in stock
 
 📺 Bloomberg Television
 
-👁️ 9K • 👍 395 • 💬 47 • ⏱️ 2:44 • 2h ago
+👁️ 9K • 👍 395 • 💬 47 • ⏱️ 2:44 • 3h ago
 
 ---
 
@@ -311,7 +311,7 @@ FormerNetworkExec #CallMeChato #moltbook Moltbook will rule the world. Thanks fo
 
 📺 Call me Chato
 
-👁️ 5K • 👍 871 • 💬 211 • ⏱️ 8:37 • 9h ago
+👁️ 5K • 👍 871 • 💬 211 • ⏱️ 8:37 • 10h ago
 
 ---
 
@@ -321,7 +321,7 @@ Live from the Cisco AI Summit, Chuck Robbins, Chair & CEO of Cisco and Jensen Hu
 
 📺 Cisco
 
-👁️ 7.8M • 👍 4K • ⏱️ 52:06 • 5h ago
+👁️ 7.8M • 👍 4K • ⏱️ 52:06 • 6h ago
 
 ---
 
@@ -331,7 +331,7 @@ Starforge PC https://starforgepc.com/moist-yt Get Goof Juice and use code MOIST 
 
 📺 penguinz0
 
-👁️ 309K • 👍 20K • 💬 2K • ⏱️ 8:34 • 7h ago
+👁️ 309K • 👍 20K • 💬 2K • ⏱️ 8:34 • 8h ago
 
 ---
 
@@ -341,7 +341,7 @@ The Lonski Group President John Lonski discusses the Fed's rate cut strategy and
 
 📺 Fox Business
 
-👁️ 3K • 👍 67 • 💬 38 • ⏱️ 4:07 • 16h ago
+👁️ 3K • 👍 67 • 💬 38 • ⏱️ 4:07 • 17h ago
 
 ---
 
@@ -351,7 +351,7 @@ Moltbook, a social media platform for AI agents to interact, is growing. The Ver
 
 📺 CBS News
 
-👁️ 6K • 👍 82 • 💬 22 • ⏱️ 3:36 • 19h ago
+👁️ 6K • 👍 82 • 💬 22 • ⏱️ 3:36 • 20h ago
 
 ---
 
@@ -371,7 +371,7 @@ In this video, I reveal how thinking in AI systems can make your life and busine
 
 📺 Natalie Dawson
 
-👁️ 8K • 👍 619 • 💬 79 • ⏱️ 11:39 • 20h ago
+👁️ 8K • 👍 619 • 💬 79 • ⏱️ 11:39 • 21h ago
 
 ---
 
@@ -399,7 +399,7 @@ HunyuanImage-3.0-Instruct is a native multimodal model for image generation, sup
 
 `image-to-image` `83.0B`
 
-⬇️ 347 • ❤️ 808 • 20h ago
+⬇️ 347 • ❤️ 808 • 21h ago
 
 ---
 
@@ -493,7 +493,7 @@ Qwen3-Coder-Next is an 80B parameter (3B active) LLM optimized for coding agents
 
 `text-generation` `79.7B`
 
-⬇️ 3,087 • ❤️ 298 • 17h ago
+⬇️ 3,087 • ❤️ 298 • 18h ago
 
 ---
 
@@ -623,7 +623,7 @@ RPG-Encoder framework transforms repository comprehension and generation into a 
 
 A novel Causal Forcing method addresses the architectural gap in distilling bidirectional video diffusion models into autoregressive models by using AR teachers for ODE initialization, significantly improving video generation performance.
 
-▲ 22 • 💬 2 • ⭐ 188 • 1d ago
+▲ 22 • 💬 2 • ⭐ 188 • 2d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2602.02214) • [💻 code](https://github.com/thu-ml/Causal-Forcing) • [🔗 project](https://thu-ml.github.io/CausalForcing.github.io/)
 
@@ -659,7 +659,7 @@ LLM驱动的 A/H/美股智能分析器，多数据源行情 + 实时新闻 + Gem
 
 `Python` `agent` `ai` `aigc` `gemini` `llm`
 
-⭐ 9.3k • 🔱 9.8k • 20h ago
+⭐ 9.3k • 🔱 9.8k • 21h ago
 
 ---
 
@@ -679,7 +679,7 @@ The Ultimate Collection of 600+ Agentic Skills for Claude Code/Antigravity/Curso
 
 `Python` `agentic-skills` `ai-agents` `antigravity` `autonomous-coding` `claude-code`
 
-⭐ 7.0k • 🔱 1.5k • 1h ago
+⭐ 7.0k • 🔱 1.5k • 2h ago
 
 ---
 
@@ -705,7 +705,7 @@ Claude Code skill that removes signs of AI-generated writing from text
 
 Elevate your AI research writing, no more tedious polishing ✨ 
 
-⭐ 2.8k • 🔱 239 • 1d ago
+⭐ 2.8k • 🔱 239 • 2d ago
 
 ---
 

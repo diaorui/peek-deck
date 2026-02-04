@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-02-04T09:45:31.034179+00:00'
+updated: '2026-02-04T10:39:18.342806+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- news
-- videos
-- social
 - cryptocurrency
+- news
+- social
+- videos
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** February 04, 2026 at 09:45 UTC  
+**Last Updated:** February 04, 2026 at 10:39 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -72,7 +72,7 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-3h ago
+4h ago
 
 ---
 
@@ -88,7 +88,7 @@ There have recently been some discussions on the ongoing role of L2s in the Ethe
 
 This might sound like a stupid question, but it is something that I can't get my head around. There seems to be this common belief that in the (obviously inevitable) case Ethereum will one day explode into the world and gain momentum as THE new defi, smart contract, dapp, financial infrastructure and so on (sorry, I really don't know that much about the depths of Ethereums usability but I am very much intrigued by it), more and more people and institutions will use the blockchain for mentioned and other usecases. Everybody seems to believe that this will inevitably lead to an explosion in the price of ETH. But please, someone educate me: the underlying token is not really involved into all of the use cases of the Blockchain, right? You need some ETH for the gas fees, that I understand. But those fees keep getting lower and lower. So why would the price rise? Out of popularity? Does more usage need more ETH to be staked for security,, leading to scarcity? How does demand rise if you don't really need the token? The vague answer GPT gives me doesn't reay enlighten me that much, so please ELI5 someone, I am eager to learn (and obviously wanna know that my stack of ETH will inevitably get more valuable).
 
-8m ago
+1h ago
 
 ---
 
@@ -102,13 +102,13 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 **[ZK (Zero knowledge) proof for SHA-256: 312-byte proof, ~18µs verification](https://www.reddit.com/r/ethereum/comments/1qv2hzp/zk_zero_knowledge_proof_for_sha256_312byte_proof/)**
 
-13h ago
+14h ago
 
 ---
 
 **[Effect-TS library for EVM frontends](https://www.reddit.com/r/ethereum/comments/1quxszt/effectts_library_for_evm_frontends/)**
 
-16h ago
+17h ago
 
 ---
 
@@ -166,7 +166,7 @@ Yahoo Finance • 1h ago
 
 The roadmap in place doesn't make as much sense because progress among layer-2s toward later stages of decentralization has been slower and more difficult, and Ethereum itself is now scaling directly on layer-1.
 
-CoinDesk • 16h ago
+CoinDesk • 17h ago
 
 ---
 
@@ -174,7 +174,7 @@ CoinDesk • 16h ago
 
 Ethereum no longer needs layer 2s like before, Buterin argues. The layer-1 blockchain is already scaling faster than anyone predicted.
 
-dlnews.com • 54m ago
+dlnews.com • 1h ago
 
 ---
 
@@ -190,7 +190,7 @@ Sherwood News • 1d ago
 
 Ethereum price extended its decline below $2,220 and $2,200. ETH is now attempting to recover from $2,000 but faces many hurdles near $2,250.Ethereum Price Faces ResistanceEthereum price failed to remain stable above $2,320 and extended losses, like Bitcoin. ETH price traded below $2,220 to enter a…
 
-TradingView • 6h ago
+TradingView • 7h ago
 
 ---
 
@@ -198,7 +198,7 @@ TradingView • 6h ago
 
 Ethereum and Ethereum Classic started as one blockchain, but their paths and performance have diverged over the past decade.
 
-The Motley Fool • 19h ago
+The Motley Fool • 20h ago
 
 ---
 
@@ -206,7 +206,7 @@ The Motley Fool • 19h ago
 
 After a brief recovery yesterday, the crypto market has turned red again. On Monday, prices moved higher after comments from US President Donald Trump,
 
-Coinpedia • 17h ago
+Coinpedia • 18h ago
 
 ---
 
@@ -222,7 +222,7 @@ Investing.com • 2d ago
 
 Are whale alerts creating more fear than insight in today’s crypto markets?
 
-AMBCrypto • 7h ago
+AMBCrypto • 8h ago
 
 ---
 
@@ -236,7 +236,7 @@ Bitcoin's dip below $75000 is something David Siemer calls a "buying opportunity
 
 📺 Schwab Network
 
-👁️ 8K • 👍 105 • 💬 60 • ⏱️ 6:37 • 8h ago
+👁️ 8K • 👍 105 • 💬 60 • ⏱️ 6:37 • 9h ago
 
 ---
 
@@ -246,7 +246,7 @@ This video provides a professional Elliott Wave and technical analysis of Ethere
 
 📺 More Crypto Online
 
-👁️ 3K • 👍 235 • 💬 8 • ⏱️ 4:02 • 14h ago
+👁️ 3K • 👍 235 • 💬 8 • ⏱️ 4:02 • 15h ago
 
 ---
 
@@ -256,7 +256,7 @@ JACOB'S Whop - Discover The Alpha, Join The VIP Group Today - https://whop.com/o
 
 📺 Jacob Crypto Bury
 
-👁️ 228 • 👍 5 • 💬 38 • ⏱️ 4:54 • 13h ago
+👁️ 228 • 👍 5 • 💬 38 • ⏱️ 4:54 • 14h ago
 
 ---
 
@@ -296,7 +296,7 @@ This video provides a professional Elliott Wave and technical analysis of Ethere
 
 📺 More Crypto Online
 
-👁️ 4K • 👍 206 • 💬 17 • ⏱️ 5:48 • 20h ago
+👁️ 4K • 👍 206 • 💬 17 • ⏱️ 5:48 • 21h ago
 
 ---
 
@@ -306,7 +306,7 @@ Hier Handle ich Kryptowährungen!! Bitunix (Instant VIP LVL 3 und 20% Deposit Zu
 
 📺 Krypto Trading & Investing
 
-👁️ 4K • 👍 769 • 💬 129 • ⏱️ 16:53 • 4h ago
+👁️ 4K • 👍 769 • 💬 129 • ⏱️ 16:53 • 5h ago
 
 ---
 
@@ -316,7 +316,7 @@ BITCOIN DUMP IS A TRAP (New $200k Trade)!!!! - Bitcoin News Today, Ethereum & Al
 
 📺 Crypto World
 
-👁️ 10K • 👍 422 • 💬 205 • ⏱️ 20:19 • 11h ago
+👁️ 10K • 👍 422 • 💬 205 • ⏱️ 20:19 • 12h ago
 
 ---
 
@@ -326,7 +326,7 @@ WEEX EXCHANGE | NO KYC | 50% deposit Bonus | Up To $30000 In Bonus https://www.w
 
 📺 TMG Trades
 
-👁️ 2K • 👍 145 • 💬 72 • ⏱️ 10:53 • 18h ago
+👁️ 2K • 👍 145 • 💬 72 • ⏱️ 10:53 • 19h ago
 
 ---
 
