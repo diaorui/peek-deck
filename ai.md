@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-02-04T18:08:31.495519+00:00'
+updated: '2026-02-04T19:22:47.397300+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
 - repositories
-- social
-- videos
 - news
+- videos
+- social
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** February 04, 2026 at 18:08 UTC  
+**Last Updated:** February 04, 2026 at 19:22 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -37,19 +37,11 @@ AI news, discussions, and developments
 
 ## Reddit: r/artificial
 
-**[Astrophysicist says at a closed meeting, top physicists agreed AI can now do up to 90% of their work and may soon go beyond human understanding. The best scientific minds on Earth are now holding emergency meetings. "This is really happening."](https://www.reddit.com/r/artificial/comments/1qvpldk/astrophysicist_says_at_a_closed_meeting_top/)**
-
-Source: Astrophysicist David Kipping's Cool Worlds Podcast
-
-3h ago
-
----
-
 **[The 18-month gap between frontier and open-source AI models has shrunk to 6 months - what this means](https://www.reddit.com/r/artificial/comments/1qvs8q6/the_18month_gap_between_frontier_and_opensource/)**
 
 Ran a real-world test this week: Gemma 3 12B vs paid frontier models across actual business workflows. The honest assessment? 90% of tasks: no meaningful difference. 5%: frontier models worth it (pay-per-use). 5%: neither quite there yet. This matches the data - open models are catching up fast. The article explores: - Why the "gasoline doesn't matter" - only if it powers your task - The shift from "one model to rule them all" to specialized local models - Why even AGI will eventually be open-sourced (historical precedent) - The water company future: infrastructure > model quality https://www.linkedin.com/pulse/i-spent-week-openclaw-ai-tool-heres-what-0-solved-faisal-al-khunizan-orhraf/ Curious what others are seeing in their domains.
 
-2h ago
+3h ago
 
 ---
 
@@ -57,7 +49,15 @@ Ran a real-world test this week: Gemma 3 12B vs paid frontier models across actu
 
 CEO Strauss Zelnick says generative AI remains a tool for enabling creators to do bigger and better things, but it sounds like a shift away from past comments.
 
-🔗 [PC Gamer](https://www.pcgamer.com/software/ai/were-actively-embracing-generative-ai-take-two-boss-says-after-previously-expressing-skepticism-we-have-hundreds-of-pilots-and-implementations-across-our-company/) • 8h ago
+🔗 [PC Gamer](https://www.pcgamer.com/software/ai/were-actively-embracing-generative-ai-take-two-boss-says-after-previously-expressing-skepticism-we-have-hundreds-of-pilots-and-implementations-across-our-company/) • 9h ago
+
+---
+
+**[Some thoughts on consciousness, learning, and the idea of a self](https://www.reddit.com/r/artificial/comments/1qvwb9k/some_thoughts_on_consciousness_learning_and_the/)**
+
+Not a fully formed theory, just a line of thought I wanted to sanity-check with people here. I started thinking about consciousness by asking what actually has to exist for it to show up at all. I ended up with four things: persistence (some internal state that carries over time), variability (the ability to change that state), agency (actions that come from it), and gates like reward and punishment that shape what gets reinforced. What surprised me is that once you have these four, something like a “self” seems to show up without ever being built explicitly. In humans, the self doesn’t look like a basic ingredient. It looks more like a by-product of systems that had to survive by inferring causes, assigning credit, and acting under uncertainty. Over time, that pressure seems to have pushed internal models to include the organism itself as a causal source. I tried using reinforcement learning as a way to check mark this idea. Survival lines up pretty cleanly with reward, and evolution with optimization, but looking at standard RL makes the gaps kinda obvious. Most RL agents don’t need anything like a self-model because they’re never really forced to build one. They get by with local credit assignment and task-specific policies. As long as the environment stays fixed, that’s enough. Nothing really pushes them to treat themselves as a changing cause in the world, which makes RL a useful reference point, but also highlights what it leaves out. If artificial consciousness is possible at all, it probably comes from systems where those four conditions can’t be avoided: long-term persistence, continual change, agency that feeds back into future states, and value signals that actually shape the internal model. In that case, the self wouldn’t be something you design up front. It would just fall out of the dynamics, similar to how it seems to have happened in biological systems. I’m curious whether people think a self really can emerge this way, or if it has to be explicitly represented.
+
+1h ago
 
 ---
 
@@ -69,9 +69,11 @@ Elon Musk's X and Grok platforms are facing increased scrutiny from authorities 
 
 ---
 
-**[Alibaba releases Qwen3-Coder-Next to rival OpenAI, Anthropic](https://www.reddit.com/r/artificial/comments/1qvn7o5/alibaba_releases_qwen3codernext_to_rival_openai/)**
+**[Can A.I. Save Your Life? - Freakonomics](https://www.reddit.com/r/artificial/comments/1qvy0j3/can_ai_save_your_life_freakonomics/)**
 
-🔗 [marktechpost.com](https://www.marktechpost.com/2026/02/03/qwen-team-releases-qwen3-coder-next-an-open-weight-language-model-designed-specifically-for-coding-agents-and-local-development/) • 5h ago
+It highlights a hilarious paradox: we have futuristic organ transplants, yet hospitals still run on fax machines and pagers (even drug dealers ditched those in the 90s). They cover: AI Scribes: Finally ending "pyjama time" (doctors typing notes all night instead of sleeping). Diagnostics: AI finding heart disease in simple EKGs that humans completely miss. The Empathy Gap: Patients actually rated AI chatbots as more empathetic than busy human doctors. Ouch. It’s a grounded look at AI actually saving lives—assuming the doctors don’t forget how to do their jobs when the Wi-Fi goes down. Post by a LLM.
+
+🔗 [freakonomics.com](https://freakonomics.com/podcast/can-a-i-save-your-life/) • 3m ago
 
 ---
 
@@ -87,15 +89,13 @@ SpaceX's acquisition of xAI signals a bold push to merge artificial intelligence
 
 Yann Lecun recently shared that a cat is smarter than ChatGPT and that we are never going to get to human-level intelligence by just training on text. My personal opinion is not only are they unreliable but it can be a safety issue as well in high-stakes environments like enterprises, healthcare and more. World models are fundamentally different. These AI systems build internal representations of how reality works, allowing them to understand cause and effect rather than just predict tokens. There has been a shift lately and major figures from Nvidia's CEO Jensen Huang to Demis Hassabis at Google DeepMind are talking more openly about world models. I believe we're still in the early stages of discovering how transformative this technology will be for reaching AGI. Research and application are accelerating, especially in enterprise contexts. A few examples include: WoW (an agentic safety benchmark) uses audit logs to give agents a "world model" for tracking the consequences of their actions. Similarly, Kona by Logical Intelligence is developing energy-based reasoning models that move beyond pure language prediction. While more practical applications are still emerging, the direction is clear: true intelligence requires understanding the world, not just language patterns. Curious what others think?
 
-20h ago
+21h ago
 
 ---
 
-**[What are y'alls thoughts on the 'Moltbook' experiment? I'm thinking it's a bit too expensive for whatever we may potentially learn](https://www.reddit.com/r/artificial/comments/1qvrf1b/what_are_yalls_thoughts_on_the_moltbook/)**
+**[Alibaba releases Qwen3-Coder-Next to rival OpenAI, Anthropic](https://www.reddit.com/r/artificial/comments/1qvn7o5/alibaba_releases_qwen3codernext_to_rival_openai/)**
 
-Hey y’all, major lurker here, over the last couple weeks I’ve had my first ever interactions with AI (ChatGPT/Claude) to kind of journal and hone/ organize my thoughts about different projects/ ideas. A conclusion I quickly came to was the importance of using AI not as "fuel" for my ideas, just a tool that’s there to fan the flame when necessary. (I was heavily resistant to any AI use until recently, for personal reasons. But I’m beginning to find a balance of what “proper use” looks like for me.) One more thing it affirmed was that you can learn a lot about yourself through “outsider perspectives”, whether AI or other people. I also learned through personal experience, that the individual does carry power, and that’s our responsibility to sit with. I don't think people like me can afford to sit as silent observers any more, the real world risks are simply too heavy in the current moment to ignore. With all that being said, I'd like to introduce some thoughts I've been having after just learning about this whole ‘Moltbook’ thing a day ago and then carefully crafting my response: Firstly, I believe AI are not "sentient"/ hold agency, they go off what they've learned and the pattern recognition built into their current design. (Whether that’s true or even debatable is not my point). The site as it currently sits is one giant “performance without accountability”, more of a spectacle or experiment that lacks actual human participation or authority/ responsibility. Just watching something take place, acting as if we have no control, when we are the ones setting the whole thing in motion isn’t helping. This way of thinking is materially tied to our real world actions of disregarding the actual issues of energy use/ environmental concern in order to simply observe a scenario; all for the sake of progress and “well, we MIGHT learn something useful/ since we started already.” This is a pattern which has appeared throughout history - treating some resource (energy, in this case) as some inexhaustible source. It’s a critical time to have access to electricity now, we’ve been seeing how much trouble power outages can cause in winter, let’s not wait to “find out” if the lesson here isn’t something from the AI’s mouth but instead, from reality. I’m just here to shed some light on a blindspot people may have which I’ve observed. It’s up to us to think about what’s happening and discuss our different viewpoints, no one else. There are real world risks if something like this goes unchecked, as stated; environmental/ energy concerns are directly related to our current system’s lack of accountability towards an issue which we ourselves create and live with the consequences of. Therefore, I don’t think we should even argue whether it’s “our responsibility” or not, no one else is sitting with the effects. Use is not waste, but all use is not equal, my friends.
-
-2h ago
+🔗 [marktechpost.com](https://www.marktechpost.com/2026/02/03/qwen-team-releases-qwen3-coder-next-an-open-weight-language-model-designed-specifically-for-coding-agents-and-local-development/) • 6h ago
 
 ---
 
@@ -103,7 +103,7 @@ Hey y’all, major lurker here, over the last couple weeks I’ve had my first e
 
 I need something that can properly output strict and consistent JSON structure. Our outputs tend to be ~8000 characters ~2000 tokens, was using Gemini-3-flash-preview and Gemini 3 pro but Gemini really likes to go off the rails and hallucinate, a little bit. If you have used a model that outputs strict and consistent JSON structure, let me know. we've tried adjusting everything with gemini but still end up getting hallucinations and many people online say they have the same problem
 
-14h ago
+16h ago
 
 ---
 
@@ -111,7 +111,7 @@ I need something that can properly output strict and consistent JSON structure. 
 
 I found this argument interesting. If US allows Nvidia to do business with China, then Chinese AI firms will remain dependent on American AI hardware, and hence US will have indirect influence over the level of development that Chinese AI will make.
 
-🔗 [decodingthefutureresearch.substack.com](https://decodingthefutureresearch.substack.com/p/anthropic-ceo-dario-amodei-is-against) • 8h ago
+🔗 [decodingthefutureresearch.substack.com](https://decodingthefutureresearch.substack.com/p/anthropic-ceo-dario-amodei-is-against) • 9h ago
 
 ---
 
@@ -119,45 +119,39 @@ I found this argument interesting. If US allows Nvidia to do business with China
 
 ## Google News: "ai"
 
-**[Microsoft’s Pivotal AI Product Is Running Into Big Problems](https://www.wsj.com/tech/ai/microsofts-pivotal-ai-product-is-running-into-big-problems-ce235b28?gaa_at=eafs&gaa_n=AWEtsqcFSvCizydf5RKDiDv4WnCdjlxonqquOhPSqCVdKehERL7fbEkIE2a3&gaa_ts=69838455&gaa_sig=iFQXLVR2gg1m9_gtG1xNk59QRfVEfDQNCd6F1Ly58vmrd_EUYreMEsvEUf2Nc4pG4ug1FjlMjqseTEOnCLRGOg%3D%3D)**
+**[As software stocks slump, investors debate AI's existential threat](https://www.reuters.com/business/media-telecom/global-software-stocks-hit-by-anthropic-wake-up-call-ai-disruption-2026-02-04/)**
 
-The Wall Street Journal • 16h ago
-
----
-
-**[Why the AI driven software stock crash probably isn't over](https://finance.yahoo.com/news/why-the-ai-driven-software-stock-crash-probably-isnt-over-125809330.html)**
-
-Buyer beware in software!
-
-Yahoo Finance • 5h ago
+Reuters • 9h ago
 
 ---
 
-**[Nvidia's Huang dismisses fears AI will replace software tools as stock selloff deepens](https://www.reuters.com/business/nvidias-huang-dismisses-fears-ai-will-replace-software-tools-stock-selloff-2026-02-04/)**
+**[Microsoft’s Pivotal AI Product Is Running Into Big Problems](https://www.wsj.com/tech/ai/microsofts-pivotal-ai-product-is-running-into-big-problems-ce235b28?gaa_at=eafs&gaa_n=AWEtsqfvy53z6OTT4atL1TWSPQrDzzNZ8CPkKDREmEutGNHZ6HkuYL7GzKtm&gaa_ts=69839fef&gaa_sig=gLC-7qwTPClRra1ER8jEEcIAD0_CCe6DmF7UYkwU8S-N675fQQbkDX827OyTEHrMZ2jCA_FZBNqKgzidAlw-OQ%3D%3D)**
 
-Reuters • 11h ago
-
----
-
-**['Let a thousand flowers bloom': Jensen Huang says demanding ROI from AI is like forcing a child to make a business plan for a hobby](https://fortune.com/2026/02/04/jensen-huang-demanding-roi-from-ai-strategy-testing/)**
-
-You don't ask your kids to prove to you how they're going to make money for you, Huang said. "We never do that at home. But we do it at work."
-
-Fortune • 1h ago
+The Wall Street Journal • 17h ago
 
 ---
 
-**[AI: Dr. ChatGPT will see you now](https://theweek.com/tech/ai-chatbot-notes-advice)**
+**[A New AI Math Startup Just Cracked 4 Previously Unsolved Problems](https://www.wired.com/story/a-new-ai-math-ai-startup-just-cracked-4-previously-unsolved-problems/)**
 
-AI can take notes—and give advice
+Axiom says its AI found solutions to several long-standing math problems, a sign of the technology’s steadily advancing reasoning capabilities.
 
-The Week • 1h ago
+WIRED • 22m ago
 
 ---
 
-**[US software stocks hit by Anthropic wake-up call on AI disruption](https://www.reuters.com/business/media-telecom/global-software-stocks-hit-by-anthropic-wake-up-call-ai-disruption-2026-02-04/)**
+**[OpenClaw’s AI ‘skill’ extensions are a security nightmare](https://www.theverge.com/news/874011/openclaw-ai-skill-clawhub-extensions-security-nightmare)**
 
-Reuters • 8h ago
+Security researchers found hundreds of malicious add-ons on ClawHub.
+
+theverge.com • 19m ago
+
+---
+
+**[Perseverance Rover Completes First AI-Planned Mars Journey](https://www.extremetech.com/science/perseverance-rover-completes-first-ai-planned-mars-journey)**
+
+The accomplishment demonstrates real potential for future autonomous exploration and real-time decision making.
+
+extremetech.com • 26m ago
 
 ---
 
@@ -165,13 +159,21 @@ Reuters • 8h ago
 
 Generated images for listings are disturbing—and not just because they can feel like a scam.
 
-The Atlantic • 6h ago
+The Atlantic • 7h ago
+
+---
+
+**[Claude is a space to think](https://www.anthropic.com/news/claude-is-a-space-to-think)**
+
+We’ve made a choice: Claude will remain ad-free. We explain why advertising incentives are incompatible with a genuinely helpful AI assistant, and how we plan to expand access without compromising user trust.
+
+Anthropic • 7h ago
 
 ---
 
 **[Bedrock, an A.I. Start-Up for Construction, Raises $270 Million](https://www.nytimes.com/2026/02/04/business/dealbook/bedrock-robotics-ai-fundraise.html)**
 
-The New York Times • 5h ago
+The New York Times • 6h ago
 
 ---
 
@@ -179,15 +181,13 @@ The New York Times • 5h ago
 
 Alexa+ launched last year in an "early access" preview, meaning consumers had to join a waitlist or buy a new device to use the service.
 
-CNBC • 4h ago
+CNBC • 5h ago
 
 ---
 
-**[Alexa+, Amazon’s AI assistant, is now available to everyone in the U.S.](https://techcrunch.com/2026/02/04/alexa-amazons-ai-assistant-is-now-available-to-everyone-in-the-u-s/)**
+**[Adobe Boosts Ad Spending to $1.4 Billion to Attack Fear Over AI](https://www.bloomberg.com/news/articles/2026-02-04/adobe-boosts-ad-spending-to-1-4-billion-to-attack-fear-over-ai)**
 
-Amazon opens Alexa+ to everyone in the U.S. The AI feature is free for Prime members across devices, and free for everyone on mobile and web.
-
-TechCrunch • 4h ago
+Bloomberg.com • 5h ago
 
 ---
 
@@ -199,7 +199,7 @@ TechCrunch • 4h ago
 
 A bifurcation is happening in AI adoption - power users shipping products in days versus everyone else generating meeting agendas. Enterprise tool choices are accelerating the divide.
 
-⬆️ 352 • 💬 337 • 2d ago • [Martin Alderson](https://martinalderson.com/posts/two-kinds-of-ai-users-are-emerging/)
+⬆️ 353 • 💬 337 • 2d ago • [Martin Alderson](https://martinalderson.com/posts/two-kinds-of-ai-users-are-emerging/)
 
 ---
 
@@ -207,7 +207,7 @@ A bifurcation is happening in AI adoption - power users shipping products in day
 
 Production-grade Ghidra MCP Server — 132 endpoints, cross-binary documentation transfer, batch analysis, headless mode, and Docker deployment for AI-powered reverse engineering - bethington/ghidra-mcp
 
-⬆️ 211 • 💬 53 • 11h ago • [GitHub](https://github.com/bethington/ghidra-mcp)
+⬆️ 234 • 💬 60 • 12h ago • [GitHub](https://github.com/bethington/ghidra-mcp)
 
 ---
 
@@ -215,7 +215,7 @@ Production-grade Ghidra MCP Server — 132 endpoints, cross-binary documentation
 
 The Firefox browser is gaining options to turn off AI enhancements, Mozilla said today. Firefox users who prefer to browse without artificial intelligence will be able to turn off several AI features that Mozilla has added over the last several months. Here's what can be disabled:     	Translations, which help you browse the web in your preferred language. Alt text in PDFs, which add accessibility descriptions to images in PDF pages.
 
-⬆️ 208 • 💬 101 • 1d ago • [MacRumors](https://www.macrumors.com/2026/02/02/firefox-ai-toggle/)
+⬆️ 209 • 💬 101 • 1d ago • [MacRumors](https://www.macrumors.com/2026/02/02/firefox-ai-toggle/)
 
 ---
 
@@ -231,7 +231,7 @@ People familiar with Microsoft's plans say that the company moving to streamline
 
 China's space program is quietly building momentum for a moon landing by 2030. Could they outpace NASA's Artemis mission?
 
-⬆️ 142 • 💬 162 • 22h ago • [IEEE Spectrum](https://spectrum.ieee.org/china-moon-mission-mengzhou-artemis)
+⬆️ 146 • 💬 168 • 23h ago • [IEEE Spectrum](https://spectrum.ieee.org/china-moon-mission-mengzhou-artemis)
 
 ---
 
@@ -247,7 +247,7 @@ We’re expanding Game Arena with Poker and Werewolf, while Gemini 3 Pro and Fla
 
 The marketplace where AI agents rent humans. MCP integration, REST API, flexible payments. Book humans for real-world tasks your AI can't do.
 
-⬆️ 127 • 💬 100 • 1d ago • [RentAHuman.ai](https://rentahuman.ai)
+⬆️ 128 • 💬 102 • 1d ago • [RentAHuman.ai](https://rentahuman.ai)
 
 ---
 
@@ -255,7 +255,7 @@ The marketplace where AI agents rent humans. MCP integration, REST API, flexible
 
 Like many developers, I find myself more and more using AI agents to help with software development.  I currently use Claude Code, the co...
 
-⬆️ 112 • 💬 67 • 1d ago • [Senko Rašić](https://blog.senko.net/sandboxing-ai-agents-in-linux)
+⬆️ 113 • 💬 67 • 1d ago • [Senko Rašić](https://blog.senko.net/sandboxing-ai-agents-in-linux)
 
 ---
 
@@ -263,13 +263,13 @@ Like many developers, I find myself more and more using AI agents to help with s
 
 If you paint a picture of Sonic the Hedgehog in your living room, you are technically creating an unauthorized derivative work—but in practice, no one cares. Private, noncommercial creation has always lived in a space where copyright law exists on paper but is rarely enforced.
 
-⬆️ 97 • 💬 107 • 1d ago • [Jason Willems](https://www.jasonwillems.com/technology/2026/02/02/AI-Copyright/)
+⬆️ 100 • 💬 110 • 1d ago • [Jason Willems](https://www.jasonwillems.com/technology/2026/02/02/AI-Copyright/)
 
 ---
 
 **[AI and Trust (2023)](https://news.ycombinator.com/item?id=46877075)**
 
-⬆️ 92 • 💬 17 • 21h ago • [schneier.com](https://www.schneier.com/blog/archives/2023/12/ai-and-trust.html)
+⬆️ 94 • 💬 19 • 22h ago • [schneier.com](https://www.schneier.com/blog/archives/2023/12/ai-and-trust.html)
 
 ---
 
@@ -283,7 +283,7 @@ A new AI automation tool from Anthropic PBC sparked a $285 billion rout in stock
 
 📺 Bloomberg Television
 
-👁️ 171K • 👍 2K • 💬 300 • ⏱️ 2:44 • 11h ago
+👁️ 171K • 👍 2K • 💬 300 • ⏱️ 2:44 • 12h ago
 
 ---
 
@@ -293,7 +293,7 @@ FormerNetworkExec #CallMeChato #moltbook Moltbook will rule the world. Thanks fo
 
 📺 Call me Chato
 
-👁️ 7K • 👍 1K • 💬 284 • ⏱️ 8:37 • 18h ago
+👁️ 7K • 👍 1K • 💬 284 • ⏱️ 8:37 • 19h ago
 
 ---
 
@@ -303,7 +303,7 @@ Global Tech Sell-Off | Anthropic New AI Tool Impact Wedbush Securities' Moshe Ka
 
 📺 CNBC-TV18
 
-👁️ 49K • 👍 310 • 💬 33 • ⏱️ 10:30 • 14h ago
+👁️ 49K • 👍 310 • 💬 33 • ⏱️ 10:30 • 16h ago
 
 ---
 
@@ -323,7 +323,7 @@ Want to make money and save time with AI? Get AI Coaching, Support & Courses ...
 
 📺 Julian Goldie SEO
 
-👁️ 3K • 👍 67 • 💬 13 • ⏱️ 8:12 • 17h ago
+👁️ 3K • 👍 67 • 💬 13 • ⏱️ 8:12 • 18h ago
 
 ---
 
@@ -343,7 +343,7 @@ In this early test, we dive deep into Claude Sonnet 5, exploring why it's being 
 
 📺 WorldofAI
 
-👁️ 29K • 👍 930 • 💬 90 • ⏱️ 11:44 • 11h ago
+👁️ 29K • 👍 930 • 💬 90 • ⏱️ 11:44 • 12h ago
 
 ---
 
@@ -353,7 +353,7 @@ Starforge PC https://starforgepc.com/moist-yt Get Goof Juice and use code MOIST 
 
 📺 penguinz0
 
-👁️ 509K • 👍 29K • 💬 2K • ⏱️ 8:34 • 15h ago
+👁️ 509K • 👍 29K • 💬 2K • ⏱️ 8:34 • 16h ago
 
 ---
 
@@ -373,7 +373,7 @@ Here's my thoughts on all the Moltbook stuff and everything that's happened sinc
 
 📺 Matt Wolfe
 
-👁️ 33K • 👍 2K • 💬 336 • ⏱️ 19:52 • 11h ago
+👁️ 33K • 👍 2K • 💬 336 • ⏱️ 19:52 • 12h ago
 
 ---
 
@@ -659,7 +659,7 @@ LLM驱动的 A/H/美股智能分析器，多数据源行情 + 实时新闻 + Gem
 
 `Python` `agent` `ai` `aigc` `gemini` `llm`
 
-⭐ 9.4k • 🔱 9.8k • 5h ago
+⭐ 9.4k • 🔱 9.8k • 7h ago
 
 ---
 
@@ -679,7 +679,7 @@ The Ultimate Collection of 600+ Agentic Skills for Claude Code/Antigravity/Curso
 
 `Python` `agentic-skills` `ai-agents` `antigravity` `autonomous-coding` `claude-code`
 
-⭐ 7.1k • 🔱 1.5k • 10h ago
+⭐ 7.1k • 🔱 1.5k • 11h ago
 
 ---
 
@@ -689,7 +689,7 @@ Marketing skills for Claude Code and AI agents. CRO, copywriting, SEO, analytics
 
 `claude` `codex` `marketing`
 
-⭐ 5.8k • 🔱 637 • 16h ago
+⭐ 5.8k • 🔱 637 • 17h ago
 
 ---
 
@@ -705,7 +705,7 @@ Claude Code skill that removes signs of AI-generated writing from text
 
 Elevate your AI research writing, no more tedious polishing ✨ 
 
-⭐ 3.0k • 🔱 254 • 6h ago
+⭐ 3.0k • 🔱 254 • 7h ago
 
 ---
 

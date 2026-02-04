@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-02-04T18:08:31.510405+00:00'
+updated: '2026-02-04T19:22:47.411659+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- cryptocurrency
-- social
-- videos
 - news
+- videos
+- social
+- cryptocurrency
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** February 04, 2026 at 18:08 UTC  
+**Last Updated:** February 04, 2026 at 19:22 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -36,17 +36,17 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Price
 
-### $2,128.70
+### $2,148.94
 
 ---
 
 ## Ethereum Chart
 
-**24h:** +0.2%  
-**7d:** -24.6%  
-**30d:** -35.4%  
-**90d:** -38.0%  
-**1y:** -23.5%  
+**24h:** -7.0%  
+**7d:** -24.2%  
+**30d:** -35.0%  
+**90d:** -37.7%  
+**1y:** -23.1%  
 
 ---
 
@@ -68,19 +68,19 @@ No max supply
 
 ## Reddit: r/ethereum
 
-**[Daily General Discussion February 04, 2026](https://www.reddit.com/r/ethereum/comments/1qvglhu/daily_general_discussion_february_04_2026/)**
-
-Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
-
-12h ago
-
----
-
 **[Buterin Reframes Ethereum Strategy As Scaling Focus Returns To Base Layer](https://www.reddit.com/r/ethereum/comments/1qvozvl/buterin_reframes_ethereum_strategy_as_scaling/)**
 
 The long-term technical vision for Ethereum is undergoing a significant correction. : Get all the latest crypto news at Sandmark
 
-🔗 [Sandmark](https://www.sandmark.com/news/top-news/buterin-reframes-ethereum-strategy-scaling-focus-returns-base-layer?utm_medium=referral&utm_source=redbot&utm_campaign=redbot-ww-en-brand) • 4h ago
+🔗 [Sandmark](https://www.sandmark.com/news/top-news/buterin-reframes-ethereum-strategy-scaling-focus-returns-base-layer?utm_medium=referral&utm_source=redbot&utm_campaign=redbot-ww-en-brand) • 5h ago
+
+---
+
+**[Daily General Discussion February 04, 2026](https://www.reddit.com/r/ethereum/comments/1qvglhu/daily_general_discussion_february_04_2026/)**
+
+Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
+
+13h ago
 
 ---
 
@@ -88,7 +88,31 @@ The long-term technical vision for Ethereum is undergoing a significant correcti
 
 I’d like a more technical and realistic analysis of Ethereum and how things are changing and growing. Please let me know if you know a good podcast or YouTube channel that does this. Thank you.
 
-3h ago
+5h ago
+
+---
+
+**[Guest Article - The Next Advancement in AI x Blockchain: ERC-8004](https://www.reddit.com/r/ethereum/comments/1qvxz07/guest_article_the_next_advancement_in_ai_x/)**
+
+By Davide Crapis of the dAI Team Lead at Ethereum Foundation AI agents are already booking flights, writing code, and managing portfolios, but they operate in silos. As the actions they automate have more value at stake, they need a shared way to establish identity and build trust.
+
+🔗 [linkedin.com](https://www.linkedin.com/pulse/guest-article-next-advancement-ai-x-blockchain-erc-8004-ethereum-vpt3c?utm_source%3Dshare%26utm_medium%3Dmember_ios%26utm_campaign%3Dshare_via) • 4m ago
+
+---
+
+**[Beginner friendly guide to setting up an Ethereum wallet?](https://www.reddit.com/r/ethereum/comments/1qvxba0/beginner_friendly_guide_to_setting_up_an_ethereum/)**
+
+Hi there, I was recently approached by someone who wanted to buy some of my digital artwork as NFT's using Ethereum, they seem to be legitimate and I have been very careful checking things out. I know very little about crypto and so far after watching several videos and an hours worth of Google searching I feel non the wiser! Is anyone here able to point me in the direction of a VERY beginner friendly guide to setting up an Ethereum wallet and turning that currency back into national currency? Thanks for any advice you guys can offer!
+
+27m ago
+
+---
+
+**[Exchange rate oracles + stablecoins for developing nations](https://www.reddit.com/r/ethereum/comments/1qvlg25/exchange_rate_oracles_stablecoins_for_developing/)**
+
+Been away from Ethereum from some time and would like to jump onboard again. It seems to me neutral opensource software will become increasingly relevant due to the changing world order and Ethereum will play a significant role. I'm particularly interested in how Ethereum can be used for daily payments via stablecoins. I would like to know if anyone is working on (1) on-chain oracles for currency exchange-rates and (2) stablecoins for developing nation currencies. My aim is to understand what kind of on-chain infrastructure needs to be there to enable normal people to transparently use Ethereum to pay for their morning coffee. Happy to discuss!
+
+8h ago
 
 ---
 
@@ -97,14 +121,6 @@ I’d like a more technical and realistic analysis of Ethereum and how things ar
 There have recently been some discussions on the ongoing role of L2s in the Ethereum ecosystem, especially in the face of two facts: L2s' progress to stage 2 (and, secondarily, on interop) has been far slower and more difficult than originally expected L1 itself is scaling, fees are very low, and gaslimits are projected to increase greatly in 2026 Both of these facts, for their own separate reasons, mean that the original vision of L2s and their role in Ethereum no longer makes sense, and we need a new path. First, let us recap the original vision. Ethereum needs to scale. The definition of "Ethereum scaling" is the existence of large quantities of block space that is backed by the full faith and credit of Ethereum - that is, block space where, if you do things (including with ETH) inside that block space, your activities are guaranteed to be valid, uncensored, unreverted, untouched, as long as Ethereum itself functions. If you create a 10000 TPS EVM where its connection to L1 is mediated by a multisig bridge, then you are not scaling Ethereum. This vision no longer makes sense. L1 does not need L2s to be "branded shards", because L1 is itself scaling. And L2s are not able or willing to satisfy the properties that a true "branded shard" would require. I've even seen at least one explicitly saying that they may never want to go beyond stage 1, not just for technical reasons around ZK-EVM safety, but also because their customers' regulatory needs require them to have ultimate control. This may be doing the right thing for your customers. But it should be obvious that if you are doing this, then you are not "scaling Ethereum" in the sense meant by the rollup-centric roadmap. But that's fine! it's fine because Ethereum itself is now scaling directly on L1, with large planned increases to its gas limit this year and the years ahead. We should stop thinking about L2s as literally being "branded shards" of Ethereum, with the social status and responsibilities that this entails. Instead, we can think of L2s as being a full spectrum, which includes both chains backed by the full faith and credit of Ethereum with various unique properties (eg. not just EVM), as well as a whole array of options at different levels of connection to Ethereum, that each person (or bot) is free to care about or not care about depending on their needs. What would I do today if I were an L2? Identify a value add other than "scaling". Examples: (i) non-EVM specialized features/VMs around privacy, (ii) efficiency specialized around a particular application, (iii) truly extreme levels of scaling that even a greatly expanded L1 will not do, (iv) a totally different design for non-financial applications, eg. social, identity, AI, (v) ultra-low-latency and other sequencing properties, (vi) maybe built-in oracles or decentralized dispute resolution or other "non-computationally-verifiable" features Be stage 1 at the minimum (otherwise you really are just a separate L1 with a bridge, and you should just call yourself that) if you're doing things with ETH or other ethereum-issued assets Support maximum interoperability with Ethereum, though this will differ for each one (eg. what if you're not EVM, or even not financial?) From Ethereum's side, over the past few months I've become more convinced of the value of the native rollup precompile, particuarly once we have enshrined ZK-EVM proofs that we need anyway to scale L1. This is a precompile that verifies a ZK-EVM proof, and it's "part of Ethereum", so (i) it auto-upgrades along with Ethereum, and (ii) if the precompile has a bug, Ethereum will hard-fork to fix the bug. The native rollup precompile would make full, security-council-free, EVM verification accessible. We should spend much more time working out how to design it in such a way that if your L2 is "EVM plus other stuff", then the native rollup precompile would verify the EVM, and you only have to bring your own prover for the "other stuff" (eg. Stylus). This might involve a canonical way of exposing a lookup table between contract call inputs and outputs, and letting you provide your own values to the lookup table (that you would prove separately). This would make it easy to have safe, strong, trustless interoperability with Ethereum. It also enables synchronous composability (see: https://ethresear.ch/t/combining-preconfirmations-with-based-rollups-for-synchronous-composability/23863 and https://ethresear.ch/t/synchronous-composability-between-rollups-via-realtime-proving/23998 ). And from there, it's each L2's choice exactly what they want to build. Don't just "extend L1", figure out something new to add. This of course means that some will add things that are trust-dependent, or backdoored, or otherwise insecure; this is unavoidable in a permissionless ecosystem where developers have freedom. Our job should make to make it clear to users what guarantees they have, and to build up the strongest Ethereum that we can.
 
 1d ago
-
----
-
-**[Exchange rate oracles + stablecoins for developing nations](https://www.reddit.com/r/ethereum/comments/1qvlg25/exchange_rate_oracles_stablecoins_for_developing/)**
-
-Been away from Ethereum from some time and would like to jump onboard again. It seems to me neutral opensource software will become increasingly relevant due to the changing world order and Ethereum will play a significant role. I'm particularly interested in how Ethereum can be used for daily payments via stablecoins. I would like to know if anyone is working on (1) on-chain oracles for currency exchange-rates and (2) stablecoins for developing nation currencies. My aim is to understand what kind of on-chain infrastructure needs to be there to enable normal people to transparently use Ethereum to pay for their morning coffee. Happy to discuss!
-
-7h ago
 
 ---
 
@@ -118,27 +134,11 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 **[ZK (Zero knowledge) proof for SHA-256: 312-byte proof, ~18µs verification](https://www.reddit.com/r/ethereum/comments/1qv2hzp/zk_zero_knowledge_proof_for_sha256_312byte_proof/)**
 
-22h ago
+23h ago
 
 ---
 
 **[Effect-TS library for EVM frontends](https://www.reddit.com/r/ethereum/comments/1quxszt/effectts_library_for_evm_frontends/)**
-
-1d ago
-
----
-
-**[Paid DJ open call: perform at Decentraland’s 6th Birthday (Feb 20, $400 USD in MANA)](https://www.reddit.com/r/ethereum/comments/1qus8jw/paid_dj_open_call_perform_at_decentralands_6th/)**
-
-Sharing a paid performance opportunity that might be relevant for artists here. Decentraland is running an open call for community DJs / performers to play a pre-recorded set during its 6th Birthday Party in the Theatre on February 20 at 8pm UTC. Key details: Pre-recorded DJ sets only (45–55 minutes) $400 USD paid in MANA per selected performer In-world audience gathered for the birthday event Intended for artists already familiar with Decentraland (not livestreams) This isn’t a pitch about crypto or Web3, it’s a straightforward paid performance slot inside an existing virtual world event. Full details and application here: https://zealous.co/decentraland/opportunity/decentraland-6th-birthday-party/
-
-1d ago
-
----
-
-**[In 2016, Ethereum faced "code is law" vs "fix the damage." Ten years later, I'm watching the same debate play out in a GitHub repo.](https://www.reddit.com/r/ethereum/comments/1qu6ahw/in_2016_ethereum_faced_code_is_law_vs_fix_the/)**
-
-In June 2016, someone drained ~$60M from The DAO - a decentralized investment fund built on Ethereum. They didn't hack Ethereum itself. They exploited a recursive calling bug in the smart contract's own logic. The code allowed it. That's what made it a crisis. If "code is law," the attacker didn't do anything wrong. The contract ran as written. But $60M was gone and real people lost real money. Ethereum had to choose: reverse the blockchain to return the funds, or let it stand because the code permitted it. The community voted to hard fork - rewrite history and undo the damage. The people who refused to accept that kept running the original chain. That's how Ethereum Classic was born. The question at the center of it all: when your system is broken and the fix is known, do you break the rules to fix it, or do you let the rules play out even while the system burns? I'm watching a tiny version of this happen right now. I run OpenChaos - a GitHub repo where anyone submits a PR, the community votes with reactions, and the most-voted PR merges daily. No gatekeeping. Pure popular vote. 911 stars, 70+ open PRs, five weeks in. Last Friday, PR #62: "1.337% chance to see nothing" won the daily vote and merged. Three lines of code: if (Math.random() <= 0.01337) { return null; } A leet joke. 1.337% of the time, a visitor sees a blank page. Funny, harmless, right? The site caches server-side. When the page returns null, the cache treats the blank page as permanent. One unlucky render broke the site for every visitor, indefinitely. Not a 5-minute blip. A permanent outage from a 1.337% roll. A contributor diagnosed the root cause and submitted PR #173 - a clean fix, CI passes, no conflicts. But PR #173 has fewer votes than a DOOM port and a Rickroll. The fix has to wait its turn in the democratic queue. The site stays broken while the community votes on entertainment over infrastructure. One community member commented: "I am torn between fixing things quickly and letting the rules play out to see when the fix comes naturally. I want to see the naturally emergent behaviour." Sound familiar? Then it got more interesting. The contributor who wrote the fix also had another PR in the queue that was about to merge. He could have bundled the bugfix into that PR and shipped it quietly. He refused: "I considered adding this fix to #129, but it doesn't feel like it's in the spirit of the project. Even if it's a 'good' trojan horse, it's still a trojan horse." But another contributor made the opposite choice. The author of the DOOM port deliberately bundled the bugfix into their submission. If it merges tomorrow, the site comes back online - not through governance, but through the exact Trojan horse tactic the first contributor refused on principle. Two contributors. Same option. Opposite choices. Obviously nobody's losing $60M here. But the structure is the same: A system running as designed produces an unintended outcome The fix is known and ready The rules don't allow a fast path to deploy it The community has to decide: break the process or trust the process I opened Issue #176 proposing that only contributors with merged PRs should be allowed to vote - earned governance instead of open popularity contests. The debate is live. Questions I keep thinking about: Is there a middle ground between "code is law, let it burn" and "maintainer override"? Something that keeps democratic legitimacy while allowing fast response to emergencies? For those who lived through the DAO debate - looking back, what would you tell a small project facing its first "do we fork our own rules" moment? The repo: github.com/skridlevsky/openchaos The governance discussion: Issue #176 The broken site (may or may not be blank when you visit): openchaos.dev
 
 1d ago
 
@@ -152,7 +152,13 @@ In June 2016, someone drained ~$60M from The DAO - a decentralized investment fu
 
 Based on data from prediction markets, Ethereum will have a tough climb this year.
 
-The Motley Fool • 5h ago
+The Motley Fool • 7h ago
+
+---
+
+**[Bitcoin, XRP, Ethereum Drop. Why Cryptos Are Under Pressure Today.](https://www.barrons.com/articles/bitcoin-xrp-ethereum-cryptos-gold-9051820f?gaa_at=eafs&gaa_n=AWEtsqeNFyMAHslIoh-BpBsa5WDCbtnqePbatXtAwn07cr_3X9fkJlYFJoa4&gaa_ts=69839fe2&gaa_sig=Ram0Apic-NCNMVzitnVT5zPur0xYUOtN5LWwTJumkuht2DUTlaj9igU0BnlDQNDjnHNAma0-s69UpRGAY_SRBQ%3D%3D)**
+
+Barron's • 8h ago
 
 ---
 
@@ -172,33 +178,27 @@ The Block • 1d ago
 
 ---
 
-**[Crypto networks responds after Vitalik Buterin told them they 'no longer makes sense' for Ethereum](https://www.coindesk.com/business/2026/02/04/from-ethereum-s-sidekick-to-standalone-stars-how-vitalik-buterin-s-latest-pivot-is-forcing-layer-2s-to-grow-up)**
+**[Vitalik Buterin Moves $29 Million Worth of Ethereum—Here's Why](https://finance.yahoo.com/news/vitalik-buterin-moves-29-million-181237577.html)**
 
-Leaders across the layer-2 space don't see this moment as an existential threat, but rather that Ethereum’s progress is forcing them to clarify their purpose.
-
-CoinDesk • 1h ago
-
----
-
-**[UBS CEO Details Crypto Plans Following Report of Bitcoin, Ethereum Trading for Wealthy Clients](https://finance.yahoo.com/news/ubs-ceo-details-crypto-plans-170149786.html)**
-
-Publicly traded Swiss bank UBS is working on plans to offer digital assets trading and tokenized service offerings for users, its CEO said.
+Vitalik Buterin moves $29M in ETH to fund Ethereum Foundation as crypto markets tumble and he calls for major network changes.
 
 Yahoo Finance • 1h ago
 
 ---
 
-**[Polkadot developer unfazed by slow start for smart contract launch. ‘Our focus doesn’t waver‘](https://www.dlnews.com/articles/defi/polkadot-adds-smart-contracts-to-entice-ethereum-developers/)**
+**[UBS CEO Details Crypto Plans Following Report of Bitcoin, Ethereum Trading for Wealthy Clients](https://decrypt.co/356924/ubs-ceo-details-crypto-plans-bitcoin-ethereum-trading-wealthy-clients)**
 
-Polkadot now supports smart contracts. They can be created using Ethereum compatible tooling.  The hope is Polkadot can entice Ethereum developers.
+Publicly traded Swiss bank UBS is working on plans to offer digital assets trading and tokenized service offerings for users, its CEO said.
 
-dlnews.com • 50m ago
+Decrypt • 2h ago
 
 ---
 
-**[Bitcoin, XRP, Ethereum Drop. Why Cryptos Are Under Pressure Today.](https://www.barrons.com/articles/bitcoin-xrp-ethereum-cryptos-gold-9051820f?gaa_at=eafs&gaa_n=AWEtsqcIL7oJevhWjCtNnWx8zccfQQrvEIkof47ebNhM8t00vGfN5z7jsh-v&gaa_ts=69838459&gaa_sig=0DQlFRkCQU-ejPxTPlNGj4l_kyS6mLn2uQ2XzFmx7h_cCb0Z294Xxyo3dohr7lPZtIB_YLKHjKqPcuGrfyB3YQ%3D%3D)**
+**[ING opens retail access to Bitcoin, Ethereum, Solana ETPs in Germany](https://www.theblock.co/post/388120/ing-bitcoin-ethereum-solana-etps)**
 
-Barron's • 6h ago
+Still, ING Deutschland noted that crypto ETPs carry significant risks and stated that crypto has no intrinsic value.
+
+The Block • 1d ago
 
 ---
 
@@ -210,19 +210,19 @@ Sherwood News • 2d ago
 
 ---
 
-**[Ethereum Price Recovery Runs Into A Wall, Decline Risk Returns](https://www.tradingview.com/news/newsbtc:4d0ac60d3094b:0-ethereum-price-recovery-runs-into-a-wall-decline-risk-returns/)**
+**[Ethereum Price Slips Below $2,500 — Here Are The Next Support Levels](https://www.tradingview.com/news/newsbtc:8023eb943094b:0-ethereum-price-slips-below-2-500-here-are-the-next-support-levels/)**
 
-Ethereum price extended its decline below $2,220 and $2,200. ETH is now attempting to recover from $2,000 but faces many hurdles near $2,250.Ethereum Price Faces ResistanceEthereum price failed to remain stable above $2,320 and extended losses, like Bitcoin. ETH price traded below $2,220 to enter a…
+The Ethereum price has been under intense bearish pressure over the past few weeks, reflecting the overall fragile state of the cryptocurrency market. The altcoin lost nearly 20% of its value in the past week, free-falling under the psychological $3,000 level since Thursday, January 29th. With the…
 
-TradingView • 14h ago
+TradingView • 3d ago
 
 ---
 
-**[Tom Lee: Bitcoin, Ethereum Got Hit Hard, But The Bottom Is Close](https://finance.yahoo.com/news/tom-lee-bitcoin-ethereum-got-143113947.html)**
+**[Ethereum: Vitalik moved 705 ETH and the market panicked – Here’s what happened](https://ambcrypto.com/ethereum-vitalik-moved-705-eth-and-the-market-panicked-heres-what-happened/)**
 
-The crypto selloff has been deeper than anticipated, but Tom Lee sees price and timing align for a potential bottom. Crypto Selloff Deeper Than Expected… In a CNBC Squawk Box interview on Monday, Lee, head of research at Fundstrat Global Advisors and CIO of Fundstrat Capital, said crypto's recent decline exceeded expectations despite solid fundamentals. He attributed the weakness to risk appetite rotating into gold and silver, which surged early in the year and sparked fear of missing out. Don't
+Are whale alerts creating more fear than insight in today’s crypto markets?
 
-Yahoo Finance • 3h ago
+AMBCrypto • 17h ago
 
 ---
 
@@ -236,7 +236,7 @@ Ethereum has experienced multiple major pullbacks throughout its history and eve
 
 📺 The Value Thinker
 
-👁️ 3K • 👍 403 • 💬 122 • ⏱️ 22:38 • 5h ago
+👁️ 3K • 👍 403 • 💬 122 • ⏱️ 22:38 • 6h ago
 
 ---
 
@@ -246,7 +246,7 @@ Is the Ethereum dream dead? Vitalik Buterin just dropped a bombshell that has th
 
 📺 Discover Crypto
 
-👁️ 3K • 👍 277 • 💬 67 • ⏱️ 1:21:03 • 1h ago
+👁️ 3K • 👍 277 • 💬 67 • ⏱️ 1:21:03 • 2h ago
 
 ---
 
@@ -256,7 +256,7 @@ My FREE Daily On-Chain Analysis & Crypto News In 5-Mins: https://www.cryptonutsh
 
 📺 Jamie Tree 
 
-👁️ 392 • 👍 27 • 💬 40 • ⏱️ 18:33 • 2h ago
+👁️ 392 • 👍 27 • 💬 40 • ⏱️ 18:33 • 4h ago
 
 ---
 
@@ -266,7 +266,7 @@ Bitcoin's dip below $75000 is something David Siemer calls a "buying opportunity
 
 📺 Schwab Network
 
-👁️ 11K • 👍 147 • 💬 17 • ⏱️ 6:37 • 17h ago
+👁️ 11K • 👍 147 • 💬 17 • ⏱️ 6:37 • 18h ago
 
 ---
 
@@ -276,7 +276,7 @@ FREE TRAINING: https://www.bullmania.com EXCHANGES I USE (bybit, pionex): https:
 
 📺 Ivan on Tech
 
-👁️ 15K • 👍 1K • 💬 89 • ⏱️ 50:26 • 8h ago
+👁️ 15K • 👍 1K • 💬 89 • ⏱️ 50:26 • 9h ago
 
 ---
 
@@ -286,7 +286,7 @@ This video provides a professional Elliott Wave and technical analysis of Ethere
 
 📺 More Crypto Online
 
-👁️ 823 • 👍 112 • 💬 7 • ⏱️ 4:15 • 2h ago
+👁️ 823 • 👍 112 • 💬 7 • ⏱️ 4:15 • 3h ago
 
 ---
 
@@ -296,7 +296,7 @@ Ask and you shall receive... or maybe just complain a lot and then the informati
 
 📺 The Modern Investor
 
-👁️ 6K • 👍 735 • 💬 291 • ⏱️ 29:04 • 6h ago
+👁️ 6K • 👍 735 • 💬 291 • ⏱️ 29:04 • 8h ago
 
 ---
 
@@ -306,7 +306,7 @@ JACOB'S Whop - Discover The Alpha, Join The VIP Group Today - https://whop.com/o
 
 📺 Jacob Crypto Bury
 
-👁️ 373 • 👍 6 • 💬 47 • ⏱️ 4:54 • 22h ago
+👁️ 373 • 👍 6 • 💬 47 • ⏱️ 4:54 • 23h ago
 
 ---
 
@@ -316,7 +316,7 @@ This video provides a professional Elliott Wave and technical analysis of Ethere
 
 📺 More Crypto Online
 
-👁️ 4K • 👍 246 • 💬 8 • ⏱️ 4:02 • 22h ago
+👁️ 4K • 👍 246 • 💬 8 • ⏱️ 4:02 • 23h ago
 
 ---
 
