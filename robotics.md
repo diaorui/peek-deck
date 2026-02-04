@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-02-04T23:29:23.593638+00:00'
+updated: '2026-02-04T23:54:39.653763+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- videos
 - news
 - social
+- videos
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** February 04, 2026 at 23:29 UTC  
+**Last Updated:** February 04, 2026 at 23:54 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -36,7 +36,13 @@ Robotics research and industry news
 
 From Olivier Duchenne on 𝕏: https://x.com/inventorOli/status/2018719028462657922 And Guillaume Lample on 𝕏: "Mistral robotics team is hiring. Join us!": https://x.com/GuillaumeLample/status/2018719626578796665
 
-11h ago
+12h ago
+
+---
+
+**[The Ability Hand: The Fastest Touch-Sensitive Bionic Hand in the World](https://www.reddit.com/r/robotics/comments/1qw456t/the_ability_hand_the_fastest_touchsensitive/)**
+
+48m ago
 
 ---
 
@@ -44,7 +50,7 @@ From Olivier Duchenne on 𝕏: https://x.com/inventorOli/status/2018719028462657
 
 Hi everyone! I’m excited to finally share a project I’ve been working on for the past 2 years. I developed the entire ecosystem from scratch: from the initial mechanical design and fabrication to the electronics and the full software architecture. My main goal was to build a robot that is as user-friendly as possible. Fabrication and hardware Design on Solidworks Maker 3D printed on an Ender 3 V2 and a Bambu Lab X1C 2 parts for the case are cut with a laser cutter (in a Fab-Lab) Materials : PLA, PETG, TPU, ABS, PC and plywood Electronics NVIDIA Jetson Orin Nano : handles the communication with the cameras and the controller 3 Arduino nano, one in each part of the robot (front, middle and back). They interface with the sensors and actuators. Teensy 4.1: Handles the IMU with SPI communication. Acts as a bridge between the Arduino and the Jetson : Communicates by I2C with Arduino Reads and publishes directly on topics with micro-ROS. Controller is a Legion GO. I used it to have physical joystick, touch sensitive screen, with easy to use driver (thanks to Windows 11). The physical Joy an button are detected like a real Xbox controller. Software ROS 2 Humble and Ubuntu 22 on the Jetson. Windows 11 on the Legion Go. Python for the Legion Go and Jetson. C++ (Arduino) for the Teensy and the Nanos. The user interface on the legion go is developed using Pygame. Sensors 2 MIPI CSI cameras (one has night vision). 1 BNO085 and 1 MPU 6050 for the IMU. 5 distance sensors (Time Of flight sensors) sensors for temperature, touch sensitivity, tension, current, etc. Actuators 12 Lynxmotion LSS V2 servos. Within the weight and dimensions of my robot, it's not the best solution (Slightly underpowered), but I made the choice to focus on user experience and a professional product appearance instead of mobility for this robot. 3 standart 90g servomoteurs for the moving parts in the Head 4 fans for cooling, LEDs, laser, Swappable Batteries and Alimentation Wired alimentation is possible with classic jack connector Swappable DIY batteries : 5S1P 21700 with Molicel P42A Custom 3D printed case If you want to see more of the robot in action, I have a longer video here: https://youtu.be/xeyl0i7DunE?si=ifOYklHHlQlqF0qz Feel free to ask me anything about the build, I’ll be happy to answer your questions!
 
-8h ago
+9h ago
 
 ---
 
@@ -104,45 +110,13 @@ Mind Blown! Have you heard about ClawdBot now called OpenClaw? It’s an open so
 
 ---
 
-**[Rodney Brooks on why humans still do the grasping](https://www.reddit.com/r/robotics/comments/1qvab5h/rodney_brooks_on_why_humans_still_do_the_grasping/)**
-
-Brooks argues that the real bottleneck is still physical interaction with the world. Humans don’t just copy motions when they pick something up. They constantly sense force, adjust grip, and adapt in ways that are hard to formalize or capture in data. Many current systems learn from vision or teleoperation, but that misses what happens at the point of contact. His view isn’t that automation can’t help. It’s that value today comes from supporting humans around these tasks rather than replacing them. Reducing walking, lifting, and strain is achievable now, while true human-level grasping remains a long-term challenge.
-
-22h ago
-
----
-
 ---
 
 ## Google News: "robotics"
 
 **[Bedrock, an A.I. Start-Up for Construction, Raises $270 Million](https://www.nytimes.com/2026/02/04/business/dealbook/bedrock-robotics-ai-fundraise.html)**
 
-The New York Times • 7h ago
-
----
-
-**[Robotics Will Break AI infrastructure: Here’s What Comes Next](https://www.nextplatform.com/2026/02/03/robotics-will-break-ai-infrastructure-heres-what-comes-next/)**
-
-SPONSORED CONTENT  Physical AI and robotics are moving from the lab to the real world – and the cost of getting it wrong is no longer theoretical. With
-
-The Next Platform • 1d ago
-
----
-
-**[Bedrock Robotics’ $270M Series B paves the way for operator-less excavators](https://www.therobotreport.com/bedrock-robotics-270m-series-b-paves-way-operator-less-excavators/)**
-
-Bedrock Robotics has raised money to scale autonomous construction fleets, tackling labor shortages with operator-less machines.
-
-The Robot Report • 2h ago
-
----
-
-**[Funding surge powers Chinese robotics firms as focus shifts to humanoid ‘brains’](https://www.scmp.com/tech/article/3342246/funding-surge-powers-chinese-robotics-firms-focus-shifts-humanoid-brains)**
-
-State-backed funds, Big Tech drive fresh capital into robotics companies, betting on operating systems that underpin humanoid intelligence.
-
-South China Morning Post • 1d ago
+The New York Times • 10h ago
 
 ---
 
@@ -162,11 +136,11 @@ MacRumors • 11h ago
 
 ---
 
-**[SoftBank, Fanuc turn to partners as robotics and AI merge](https://asia.nikkei.com/business/technology/artificial-intelligence/softbank-fanuc-turn-to-partners-as-robotics-and-ai-merge)**
+**[DigiKey warehouse hosting robotics tournament, hopes to build strong robotics community in Thief River Falls](https://www.grandforksherald.com/news/minnesota/digikey-warehouse-hosting-robotics-tournament-hopes-to-build-strong-robotics-community-in-thief-river-falls)**
 
-Japan's robotics industry struggles to catch up to physical AI technology
+A VEX V5 Robotics champion will be crowned at DigiKey on Feb. 6, where 200 students and 38 teams will compete.
 
-Nikkei Asia • 2d ago
+Grand Forks Herald • 50m ago
 
 ---
 
@@ -178,19 +152,39 @@ New Hampshire Public Radio • 3d ago
 
 ---
 
-**[COMMENTARY: Teaching mathematics with coding and robotics can transform California math instruction](https://edsource.org/2026/california-math-framework-coding-robotics/750225)**
+**[How FDNY is using robots in firefighting](https://abc7ny.com/post/fdny-using-robotics-protect-new-yorkers-improve-job-safety-fighting-fires/18542442/)**
 
-A hands-on, integrated approach has the potential to transform math from a gatekeeper into a gateway for STEM opportunities for all students.
+From drones to robotic dogs, New York City's fire department is equipped with the latest high-tech devices with remarkable autonomous capabilities.
 
-EdSource • 2d ago
+ABC7 New York • 3h ago
 
 ---
 
-**[Robots descend into lava tubes to prepare for future Moon bases](https://www.sciencedaily.com/releases/2026/02/260201231259.htm)**
+**[Sam Altman On Elon Musk, Donald Trump, Robotics, Fatherhood And More](https://www.forbes.com/sites/richardnieva/2026/02/04/sam-altman-on-elon-musk-donald-trump-robotics-fatherhood-and-more/)**
 
-Hidden lava tunnels on the Moon and Mars could one day shelter human explorers, offering natural protection from radiation and space debris. A European research team has unveiled a bold new mission concept that uses three different robots working together to explore these extreme underground environments autonomously. Recently tested in the volcanic caves of Lanzarote, the system maps cave entrances, deploys sensors, lowers a scout rover, and creates detailed 3D maps of the interior.
+Forbes • 12h ago
 
-ScienceDaily • 2d ago
+---
+
+**[China unveils world’s first 'biomimetic AI robot' that smiles, winks](https://interestingengineering.com/ai-robotics/shanghai-unveils-moya-humanoid-robot)**
+
+Moya, a humanoid robot unveiled in Shanghai, is designed to walk, smile, and interact like a human using embodied AI.
+
+Interesting Engineering • 1d ago
+
+---
+
+**[AI-powered robots are coming for trade jobs](https://www.politico.com/newsletters/digital-future-daily/2026/02/04/ai-powered-robots-are-coming-for-trade-jobs-00765584)**
+
+Politico • 2h ago
+
+---
+
+**[Elon Musk is stressing robots over cars. Here are three humanoid parts suppliers that Morgan Stanley recommends](https://www.cnbc.com/2026/02/01/musk-is-stressing-robots-over-cars-these-suppliers-make-humanoid-parts.html)**
+
+Morgan Stanley analysts highlight stocks of companies that sell specialized robotics parts.
+
+CNBC • 3d ago
 
 ---
 
@@ -214,7 +208,7 @@ Chinese researchers have taught a Unitree G1 humanoid robot how to ride a skateb
 
 📺 Kalil 4.0
 
-👁️ 882 • 👍 41 • 💬 4 • ⏱️ 0:46 • 3h ago
+👁️ 882 • 👍 41 • 💬 4 • ⏱️ 0:46 • 4h ago
 
 ---
 
@@ -254,7 +248,7 @@ Humanoid robotics just took a massive leap into the real world. Researchers in C
 
 📺 AI Revolution
 
-👁️ 138K • 👍 1K • 💬 282 • ⏱️ 14:25 • 4d ago
+👁️ 138K • 👍 1K • 💬 282 • ⏱️ 14:25 • 5d ago
 
 ---
 
@@ -264,7 +258,7 @@ This robotic mouth is designed to replicate how real human lips move while speak
 
 📺 Facts TV 91
 
-👁️ 67K • 👍 442 • 💬 19 • ⏱️ 0:06 • 21h ago
+👁️ 67K • 👍 442 • 💬 19 • ⏱️ 0:06 • 22h ago
 
 ---
 

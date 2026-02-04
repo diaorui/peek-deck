@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-02-04T23:29:23.590426+00:00'
+updated: '2026-02-04T23:54:39.650624+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- videos
 - news
-- social
 - cryptocurrency
+- videos
+- social
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** February 04, 2026 at 23:29 UTC  
+**Last Updated:** February 04, 2026 at 23:54 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -36,17 +36,17 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Price
 
-### $2,105.22
+### $2,158.23
 
 ---
 
 ## Ethereum Chart
 
-**24h:** -3.2%  
-**7d:** -23.3%  
-**30d:** -34.3%  
-**90d:** -37.0%  
-**1y:** -22.3%  
+**24h:** -3.8%  
+**7d:** -23.6%  
+**30d:** -34.5%  
+**90d:** -37.2%  
+**1y:** -22.5%  
 
 ---
 
@@ -72,7 +72,15 @@ No max supply
 
 The long-term technical vision for Ethereum is undergoing a significant correction. : Get all the latest crypto news at Sandmark
 
-🔗 [Sandmark](https://www.sandmark.com/news/top-news/buterin-reframes-ethereum-strategy-scaling-focus-returns-base-layer?utm_medium=referral&utm_source=redbot&utm_campaign=redbot-ww-en-brand) • 9h ago
+🔗 [Sandmark](https://www.sandmark.com/news/top-news/buterin-reframes-ethereum-strategy-scaling-focus-returns-base-layer?utm_medium=referral&utm_source=redbot&utm_campaign=redbot-ww-en-brand) • 10h ago
+
+---
+
+**[When will property be tokenizated and placed onto the Ethereum Blockchain??](https://www.reddit.com/r/ethereum/comments/1qw2vg9/when_will_property_be_tokenizated_and_placed_onto/)**
+
+Fellow Dudes! Does any one know when exactly real world assets such as property will be tokenizated and placed onto the Ethereum Blockchain?? and what countries have put in the necessary frame work to make this all legal and workable?? So that I could just buy up new property in a different country to me, then that property is turned into a ERC20 token kept in my wallet, and this is all recognised and legal and a financial product? also I know that the price of ETH has dropped heaps,.but this is when you buy more (not investment advice) 😑 cheers.
+
+1h ago
 
 ---
 
@@ -94,15 +102,7 @@ I’d like a more technical and realistic analysis of Ethereum and how things ar
 
 **[Reframing Layer 2s: spectrum of trust models instead of “Ethereum scaling”](https://www.reddit.com/r/ethereum/comments/1qw043z/reframing_layer_2s_spectrum_of_trust_models/)**
 
-2h ago
-
----
-
-**[When will property be tokenizated and placed onto the Ethereum Blockchain??](https://www.reddit.com/r/ethereum/comments/1qw2vg9/when_will_property_be_tokenizated_and_placed_onto/)**
-
-Fellow Dudes! Does any one know when exactly real world assets such as property will be tokenizated and placed onto the Ethereum Blockchain?? and what countries have put in the necessary frame work to make this all legal and workable?? So that I could just buy up new property in a different country to me, then that property is turned into a ERC20 token kept in my wallet, and this is all recognised and legal and a financial product? also I know that the price of ETH has dropped heaps,.but this is when you buy more (not investment advice) 😑 cheers.
-
-1h ago
+3h ago
 
 ---
 
@@ -110,7 +110,7 @@ Fellow Dudes! Does any one know when exactly real world assets such as property 
 
 Hi all, as the title says, I transferred Ethereum to an external wallet about 9 years ago that I want to return to Coinbase. Worth over $200 today. Coinbase sent me to etherscan, where I can view the record and details of the transfer… however I still have no idea how to recover it. Clicking on the receiving address just shows me more details. I don’t actually recall the site at all. I do have a secret seed that i wrote down all those years ago… any advice? I would hate to just let it go, but this has been bothering me for years. Thanks for any help!
 
-3h ago
+4h ago
 
 ---
 
@@ -134,7 +134,7 @@ By Davide Crapis of the dAI Team Lead at Ethereum Foundation AI agents are alrea
 
 Been away from Ethereum from some time and would like to jump onboard again. It seems to me neutral opensource software will become increasingly relevant due to the changing world order and Ethereum will play a significant role. I'm particularly interested in how Ethereum can be used for daily payments via stablecoins. I would like to know if anyone is working on (1) on-chain oracles for currency exchange-rates and (2) stablecoins for developing nation currencies. My aim is to understand what kind of on-chain infrastructure needs to be there to enable normal people to transparently use Ethereum to pay for their morning coffee. Happy to discuss!
 
-12h ago
+13h ago
 
 ---
 
@@ -154,29 +154,7 @@ There have recently been some discussions on the ongoing role of L2s in the Ethe
 
 Leaders across the layer-2 space don't see this moment as an existential threat, but rather that Ethereum’s progress is forcing them to clarify their purpose.
 
-CoinDesk • 6h ago
-
----
-
-**[Vitalik Buterin reevaluates Ethereum's rollup-centric roadmap, arguing L2s decentralized 'far slower' while base layer advanced](https://www.theblock.co/post/388285/vitalik-buterin-reevaluates-rollup-centric-roadmap-arguing-l2s-decentralized-far-slower-while-ethereum-base-layer-advanced)**
-
-Buterin previously championed a "rollup-centric" roadmap that would scale Ethereum through a network of branded shards.
-
-The Block • 1d ago
-
----
-
-**[Vitalik Buterin Moves $29 Million Worth of Ethereum—Here's Why](https://decrypt.co/356914/vitalik-buterin-moves-29-million-worth-of-ethereum-heres-why)**
-
-Vitalik Buterin moves 14,000 ETH worth $29M to support Ethereum Foundation during "mild austerity" period. His now hold 227K ETH.
-
-Decrypt • 5h ago
-
----
-
-**[Bitcoin, XRP, Ethereum Drop. Why Cryptos Are Under Pressure Today.](https://www.barrons.com/articles/bitcoin-xrp-ethereum-cryptos-gold-9051820f?gaa_at=eafs&gaa_n=AWEtsqc50hpEQ9ndbWHokMpitevwEK5h3UrijtMfPjGMudKT_NCgNnhndv1V&gaa_ts=6983cbdc&gaa_sig=Lt4HgGofOIib1yoDgaLfjPPQCHn7HaGUp0ucHqnuaa4nDkOMQKLfvz0L3fk3-oydsB2SJ9NAtBNNjS-VEv0g0Q%3D%3D)**
-
-Barron's • 1h ago
+CoinDesk • 7h ago
 
 ---
 
@@ -188,6 +166,28 @@ The Motley Fool • 11h ago
 
 ---
 
+**[Tom Lee: Bitcoin, Ethereum Got Hit Hard, But The Bottom Is Close](https://finance.yahoo.com/news/tom-lee-bitcoin-ethereum-got-143113947.html)**
+
+The crypto selloff has been deeper than anticipated, but Tom Lee sees price and timing align for a potential bottom. Crypto Selloff Deeper Than Expected… In a CNBC Squawk Box interview on Monday, Lee, head of research at Fundstrat Global Advisors and CIO of Fundstrat Capital, said crypto's recent decline exceeded expectations despite solid fundamentals. He attributed the weakness to risk appetite rotating into gold and silver, which surged early in the year and sparked fear of missing out. Don't
+
+Yahoo Finance • 9h ago
+
+---
+
+**[Bitcoin, XRP, Ethereum Drop. Why Cryptos Are Under Pressure Today.](https://www.barrons.com/articles/bitcoin-xrp-ethereum-cryptos-gold-9051820f?gaa_at=eafs&gaa_n=AWEtsqfyKP6anNIcFpnOPYkRgPRtkwuNnYdJPaMJ2hO4baeaGqB98Ynzv3_3&gaa_ts=6983dfa9&gaa_sig=IND6e2bWa6zt5LkVGJznqSytm5ofKaQndnRosNG2dYqf7_5NBjs2uHVkWvx-L2-4hO9b6_TNMpm1MINmgtoVGA%3D%3D)**
+
+Barron's • 2h ago
+
+---
+
+**[Tom Lee's BitMine Ethereum Gambit Close To Being 'Worst Trade Ever,' Says Ross Gerber As Company Faces Billions In Paper Losses](https://finance.yahoo.com/news/tom-lees-bitmine-ethereum-gambit-213109519.html)**
+
+Renowned investor Ross Gerber slammed BitMine Immersion Technologies Inc.‘s (NYSE:BMNR) strategy on Sunday amid massive unrealized losses on its Ethereum (CRYPTO: ETH) position. Will BitMine’s Strategy Backfire? The CEO of Gerber Kawasaki Wealth and Investment Management said the ETH bet by Tom Lee’s company could well turn out to be the “worst trade ever.” BitMine’s ETH holdings were valued at approximately $8.98 billion, according to data from DropsTab. Having poured $15.65 billion into these
+
+Yahoo Finance • 1d ago
+
+---
+
 **[BitMine acquires more ethereum despite being underwater amid token’s price decline](https://sherwood.news/crypto/bitmine-acquires-more-ethereum-despite-being-underwater-amid-tokens-price/)**
 
 CEO Tom Lee believes “the price of ETH is not reflective of the high utility of ETH and its role as the future of finance.”...
@@ -196,35 +196,35 @@ Sherwood News • 2d ago
 
 ---
 
-**[Ethereum: Vitalik moved 705 ETH and the market panicked – Here’s what happened](https://ambcrypto.com/ethereum-vitalik-moved-705-eth-and-the-market-panicked-heres-what-happened/)**
+**[Tom Lee’s BitMine is now down $6 billion on Ethereum (ether) bets](https://www.coindesk.com/markets/2026/02/01/bitmine-s-ether-bet-is-now-usd6-billion-in-paper-loss)**
 
-Are whale alerts creating more fear than insight in today’s crypto markets?
+The firm’s recent ETH purchases came just ahead of a sharp market slide, pushing unrealized losses past $6 billion as liquidity thinned and liquidations picked up.
 
-AMBCrypto • 21h ago
-
----
-
-**[Bitmine Immersion Technologies (BMNR) Announces ETH Holdings Reach 4.285 Million Tokens, and Total Crypto and Total Cash Holdings of $10.7 Billion](https://www.prnewswire.com/news-releases/bitmine-immersion-technologies-bmnr-announces-eth-holdings-reach-4-285-million-tokens-and-total-crypto-and-total-cash-holdings-of-10-7-billion-302676048.html)**
-
-Bitmine staked ETH stands at 2,873,459 and MAVAN staking solution on track to launch Q1 2026 Bitmine now owns 3.55% of the ETH token supply, over 70% of the...
-
-PR Newswire • 2d ago
+CoinDesk • 3d ago
 
 ---
 
-**[Ethereum Active Addresses Near ATH Despite Price Plunge](https://bitcoinist.com/ethereum-active-addresses-near-all-time-high-price/)**
+**[Ethereum Price Slips Below $2,500 — Here Are The Next Support Levels](https://www.tradingview.com/news/newsbtc:8023eb943094b:0-ethereum-price-slips-below-2-500-here-are-the-next-support-levels/)**
 
-On-chain data shows the Active Addresses indicator has shot up for Ethereum even as the cryptocurrency's price has witnessed a drawdown.
+The Ethereum price has been under intense bearish pressure over the past few weeks, reflecting the overall fragile state of the cryptocurrency market. The altcoin lost nearly 20% of its value in the past week, free-falling under the psychological $3,000 level since Thursday, January 29th. With the…
 
-Bitcoinist.com • 13h ago
+TradingView • 3d ago
 
 ---
 
-**[Ethereum Slips Into High-Risk Territory Below $2.3K Despite Rising Network Activity](https://financefeeds.com/ethereum-slip-into-high-risk-territory-below-2-3k/)**
+**[Ethereum Falls 10% In Rout](https://www.investing.com/news/cryptocurrency-news/ethereum-falls-10-in-rout-4477776)**
 
-Ethereum has dropped below the $2,300 level to trade around $2,264, entering a historically vulnerable zone amid heightened on-chain activity
+Ethereum Falls 10% In Rout
 
-FinanceFeeds • 8h ago
+Investing.com • 2d ago
+
+---
+
+**[Ethereum vs Bitcoin: Jack Yi Admits ETH Bull Call Came Too Soon](https://stocktwits.com/news-articles/markets/cryptocurrency/ethereum-bull-jack-yi-says-early-eth-bullish-bet-was-mistimed-and-a-mistake/cZbgN2PR4kB)**
+
+The shift came amid heavy liquidations and market trends favoring Bitcoin under macro pressure.
+
+Stocktwits • 2d ago
 
 ---
 
@@ -288,7 +288,7 @@ Get $450 Off Our New AI Indicators: https://tradeconfidentportal.io/indic... Joi
 
 📺 Trade Confident
 
-👁️ 120 • 👍 9 • 💬 23 • ⏱️ 5:53 • 2h ago
+👁️ 120 • 👍 9 • 💬 23 • ⏱️ 5:53 • 3h ago
 
 ---
 
