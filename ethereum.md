@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-02-04T22:54:57.166129+00:00'
+updated: '2026-02-04T23:29:23.590426+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- cryptocurrency
-- social
 - videos
 - news
+- social
+- cryptocurrency
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** February 04, 2026 at 22:54 UTC  
+**Last Updated:** February 04, 2026 at 23:29 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -80,7 +80,7 @@ The long-term technical vision for Ethereum is undergoing a significant correcti
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-16h ago
+17h ago
 
 ---
 
@@ -88,7 +88,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 I’d like a more technical and realistic analysis of Ethereum and how things are changing and growing. Please let me know if you know a good podcast or YouTube channel that does this. Thank you.
 
-8h ago
+9h ago
 
 ---
 
@@ -102,7 +102,7 @@ I’d like a more technical and realistic analysis of Ethereum and how things ar
 
 Fellow Dudes! Does any one know when exactly real world assets such as property will be tokenizated and placed onto the Ethereum Blockchain?? and what countries have put in the necessary frame work to make this all legal and workable?? So that I could just buy up new property in a different country to me, then that property is turned into a ERC20 token kept in my wallet, and this is all recognised and legal and a financial product? also I know that the price of ETH has dropped heaps,.but this is when you buy more (not investment advice) 😑 cheers.
 
-38m ago
+1h ago
 
 ---
 
@@ -126,7 +126,7 @@ Hi there, I was recently approached by someone who wanted to buy some of my digi
 
 By Davide Crapis of the dAI Team Lead at Ethereum Foundation AI agents are already booking flights, writing code, and managing portfolios, but they operate in silos. As the actions they automate have more value at stake, they need a shared way to establish identity and build trust.
 
-🔗 [linkedin.com](https://www.linkedin.com/pulse/guest-article-next-advancement-ai-x-blockchain-erc-8004-ethereum-vpt3c?utm_source%3Dshare%26utm_medium%3Dmember_ios%26utm_campaign%3Dshare_via) • 3h ago
+🔗 [linkedin.com](https://www.linkedin.com/pulse/guest-article-next-advancement-ai-x-blockchain-erc-8004-ethereum-vpt3c?utm_source%3Dshare%26utm_medium%3Dmember_ios%26utm_campaign%3Dshare_via) • 4h ago
 
 ---
 
@@ -170,7 +170,7 @@ The Block • 1d ago
 
 Vitalik Buterin moves 14,000 ETH worth $29M to support Ethereum Foundation during "mild austerity" period. His now hold 227K ETH.
 
-Decrypt • 4h ago
+Decrypt • 5h ago
 
 ---
 
@@ -184,7 +184,7 @@ Barron's • 1h ago
 
 Based on data from prediction markets, Ethereum will have a tough climb this year.
 
-The Motley Fool • 10h ago
+The Motley Fool • 11h ago
 
 ---
 
@@ -200,7 +200,7 @@ Sherwood News • 2d ago
 
 Are whale alerts creating more fear than insight in today’s crypto markets?
 
-AMBCrypto • 20h ago
+AMBCrypto • 21h ago
 
 ---
 
@@ -216,7 +216,7 @@ PR Newswire • 2d ago
 
 On-chain data shows the Active Addresses indicator has shot up for Ethereum even as the cryptocurrency's price has witnessed a drawdown.
 
-Bitcoinist.com • 12h ago
+Bitcoinist.com • 13h ago
 
 ---
 
@@ -224,7 +224,7 @@ Bitcoinist.com • 12h ago
 
 Ethereum has dropped below the $2,300 level to trade around $2,264, entering a historically vulnerable zone amid heightened on-chain activity
 
-FinanceFeeds • 7h ago
+FinanceFeeds • 8h ago
 
 ---
 
@@ -238,7 +238,7 @@ Ethereum has experienced multiple major pullbacks throughout its history and eve
 
 📺 The Value Thinker
 
-👁️ 8K • 👍 675 • 💬 177 • ⏱️ 22:38 • 9h ago
+👁️ 8K • 👍 675 • 💬 177 • ⏱️ 22:38 • 10h ago
 
 ---
 
@@ -248,7 +248,7 @@ This video provides a professional Elliott Wave and technical analysis of Ethere
 
 📺 More Crypto Online
 
-👁️ 3K • 👍 215 • 💬 6 • ⏱️ 4:15 • 6h ago
+👁️ 3K • 👍 215 • 💬 6 • ⏱️ 4:15 • 7h ago
 
 ---
 
@@ -258,7 +258,7 @@ Is the Ethereum dream dead? Vitalik Buterin just dropped a bombshell that has th
 
 📺 Discover Crypto
 
-👁️ 7K • 👍 389 • 💬 389 • ⏱️ 1:21:03 • 5h ago
+👁️ 7K • 👍 389 • 💬 389 • ⏱️ 1:21:03 • 6h ago
 
 ---
 
@@ -268,7 +268,7 @@ RIPPLE XRPL ANNOUNCEMENT COULD CHANGE EVERYTHING. ETHEREUM WAS JUST SAVED BY VIT
 
 📺 CryptoWendyO
 
-👁️ 1K • 👍 147 • 💬 3 • ⏱️ 4:18 • 53m ago
+👁️ 1K • 👍 147 • 💬 3 • ⏱️ 4:18 • 1h ago
 
 ---
 
@@ -278,7 +278,7 @@ My FREE Daily On-Chain Analysis & Crypto News In 5-Mins: https://www.cryptonutsh
 
 📺 Jamie Tree 
 
-👁️ 1K • 👍 61 • 💬 291 • ⏱️ 18:33 • 7h ago
+👁️ 1K • 👍 61 • 💬 291 • ⏱️ 18:33 • 8h ago
 
 ---
 
@@ -298,7 +298,7 @@ BITCOIN CRASH: The Double Dip Trap (BE WARNED)!!! - Bitcoin News Today, Ethereum
 
 📺 Crypto World
 
-👁️ 5K • 👍 282 • 💬 226 • ⏱️ 25:48 • 3h ago
+👁️ 5K • 👍 282 • 💬 226 • ⏱️ 25:48 • 4h ago
 
 ---
 
@@ -308,7 +308,7 @@ Bitcoin's dip below $75000 is something David Siemer calls a "buying opportunity
 
 📺 Schwab Network
 
-👁️ 13K • 👍 166 • 💬 25 • ⏱️ 6:37 • 21h ago
+👁️ 13K • 👍 166 • 💬 25 • ⏱️ 6:37 • 22h ago
 
 ---
 
@@ -318,7 +318,7 @@ LIMITED TIME: ✓ Bitunix (no kyc, $10k bonus): https://www.bitunix.com/register
 
 📺 Altcoin Daily
 
-👁️ 116K • 👍 4K • 💬 753 • ⏱️ 10:56 • 1d ago
+👁️ 116K • 👍 4K • 💬 753 • ⏱️ 10:56 • 2d ago
 
 ---
 

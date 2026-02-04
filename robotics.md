@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-02-04T22:54:57.169329+00:00'
+updated: '2026-02-04T23:29:23.593638+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- social
 - videos
 - news
+- social
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** February 04, 2026 at 22:54 UTC  
+**Last Updated:** February 04, 2026 at 23:29 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -52,7 +52,7 @@ Hi everyone! I’m excited to finally share a project I’ve been working on for
 
 Asimov is an open-source humanoid robot. We open-sourced the leg design and XML files for simulation. It's built with off-the-shelf components and 3D-printable parts. All files and parts are here: https://github.com/asimovinc/asimov-v0
 
-11h ago
+12h ago
 
 ---
 
@@ -60,7 +60,7 @@ Asimov is an open-source humanoid robot. We open-sourced the leg design and XML 
 
 The drone has six mmWave radars to sense power lines from any direction, all connected to a Raspberry Pi. Based on these detections, the desired velocity (from a pilot or autonomous system) then gets modified to guide the drone around the power line. Everything runs in real time on the Pi with ROS2 middleware and PX4 flight stack. If you're interested, you can check out the paper: https://arxiv.org/abs/2602.03229, or the full video with voice-over: https://www.youtube.com/watch?v=rJW3eEC-5Ao
 
-18h ago
+19h ago
 
 ---
 
@@ -68,7 +68,7 @@ The drone has six mmWave radars to sense power lines from any direction, all con
 
 Paper: https://arxiv.org/abs/2602.02473 Project Page: https://wyhuai.github.io/human-x/ From Yinhuai on 𝕏: https://x.com/NliGjvJbycSeD6t/status/2018713031157465495 Previous post: An Unitree trained to play basketball and the first human block against a humanoid: https://www.reddit.com/r/robotics/comments/1p2w932/an_unitree_trained_to_play_basketball_and_the/
 
-12h ago
+13h ago
 
 ---
 
@@ -76,7 +76,7 @@ Paper: https://arxiv.org/abs/2602.02473 Project Page: https://wyhuai.github.io/h
 
 Hey all! I’m currently working as a caregiver for a friend of mine who bought an Amber B1 robotic arm and he is looking to sell it, but we aren’t sure where to sell something niche like this. If anyone is interested in it, or has some help and guidance, we are eager to hear! Here is a message he wrote about this. Hey guys, I’m looking to sell an AMBER B1 modular 7-axis robotic arm that I had originally purchased in hopes of gaining greater independence. In 2006, at the age of 16, I sustained a spinal cord injury while racing motocross, resulting in paralysis from the neck down. Since then, I’ve become a strong advocate for self-reliance and have continually pursued ways to live as independently as possible. My goal with the AMBER B1 arm was to mount it to my power wheelchair—which I operate using a chin control—and develop a system that would allow me to perform basic daily tasks such as preparing food and drinks, feeding myself, brushing my teeth, and shaving. Ultimately, I wanted to reduce the level of assistance I needed from caregivers and family, and build confidence in my ability to manage life on my own. This particular arm was the only one I found within my budget at the time. While I was able to have it physically mounted to my wheelchair, I unfortunately lacked the technical expertise and support needed to bring my vision to life. Ideally, I had hoped to create a system where the chair and arm could be controlled remotely, functioning as a kind of robotic assistant. Despite the challenges, I’ve successfully designed and built several assistive devices—including a powered wheel for my manual chair, a custom gantry crane lift for bed transfers, a standing frame, and a computer workstation. I work professionally as a graphic designer, specializing in motocross graphics. However, when it comes to coding, robotics, and advanced programming, I’ve hit a wall. The robotic arm has less than one hour of use and has been sitting idle in its box. I’d much rather see it go to someone who can put it to meaningful use rather than let it continue to collect dust. If you're interested or know someone who could benefit from it, please feel free to reach out.
 
-33m ago
+1h ago
 
 ---
 
@@ -84,7 +84,7 @@ Hey all! I’m currently working as a caregiver for a friend of mine who bought 
 
 Yesterday, I connected a RealSense camera to OpenClaw and maybe demonstrated the first ROS-powered physical AI robot on the platform. Today, I added teleop (remote control) and AI missions without writing a line of code!
 
-2h ago
+3h ago
 
 ---
 
@@ -92,7 +92,7 @@ Yesterday, I connected a RealSense camera to OpenClaw and maybe demonstrated the
 
 Hi everyone, I am working on my undergraduate capstone project in Robotics and CS at WPI. We are researching robotics middleware & PL, and would like to get a picture of what users like and don't like about what's out there. We personally were often really frustrated using ROS. For being industry standard it's pretty annoying to get set up with most robots, let alone switch between using robots. I think its fine as a communication protocol but can be really limited in other areas. I know a lot of people make alternatives or add-ons to fix a lot of ROS's issues but it doesn't seem like they get much use. If you have 5-15 minutes, please also consider helping us out and filling out our survey, we’d appreciate your input. Link: https://forms.gle/78HyK2pyuXCE2Pqx6
 
-1h ago
+2h ago
 
 ---
 
@@ -100,7 +100,7 @@ Hi everyone, I am working on my undergraduate capstone project in Robotics and C
 
 Mind Blown! Have you heard about ClawdBot now called OpenClaw? It’s an open source personal AI assistant with over 150k stars on GitHub. I connected a RealSense camera to it and my robot started following me!
 
-23h ago
+1d ago
 
 ---
 
@@ -108,7 +108,7 @@ Mind Blown! Have you heard about ClawdBot now called OpenClaw? It’s an open so
 
 Brooks argues that the real bottleneck is still physical interaction with the world. Humans don’t just copy motions when they pick something up. They constantly sense force, adjust grip, and adapt in ways that are hard to formalize or capture in data. Many current systems learn from vision or teleoperation, but that misses what happens at the point of contact. His view isn’t that automation can’t help. It’s that value today comes from supporting humans around these tasks rather than replacing them. Reducing walking, lifting, and strain is achievable now, while true human-level grasping remains a long-term challenge.
 
-21h ago
+22h ago
 
 ---
 
@@ -134,7 +134,7 @@ The Next Platform • 1d ago
 
 Bedrock Robotics has raised money to scale autonomous construction fleets, tackling labor shortages with operator-less machines.
 
-The Robot Report • 1h ago
+The Robot Report • 2h ago
 
 ---
 
@@ -158,7 +158,7 @@ TechCrunch • 2d ago
 
 Apple today announced a new Education Hub in Bengaluru as part of an expanded effort to provide technical training and skills development for employees across its supply chain in India. Apple said the new Apple Education Hub in Bengaluru will serve as a centralized training and coordination facility for supplier employees in India, marking the company's first education hub of its kind in the country.
 
-MacRumors • 10h ago
+MacRumors • 11h ago
 
 ---
 
@@ -244,7 +244,7 @@ Tesla's Optimus Gen 2 demonstrates its advanced low-latency tracking and tactile
 
 📺 Batya Feuer
 
-👁️ 610 • 👍 20 • 💬 1 • ⏱️ 0:25 • 2h ago
+👁️ 610 • 👍 20 • 💬 1 • ⏱️ 0:25 • 3h ago
 
 ---
 

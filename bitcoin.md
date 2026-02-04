@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-02-04T22:54:57.159869+00:00'
+updated: '2026-02-04T23:29:23.584321+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- cryptocurrency
-- social
 - videos
 - news
+- social
+- cryptocurrency
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** February 04, 2026 at 22:54 UTC  
+**Last Updated:** February 04, 2026 at 23:29 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -93,13 +93,13 @@ Rank #1
 
 Bitcoin ponzi finally dead now. With this post I've completed the ritual.
 
-5h ago
+6h ago
 
 ---
 
 **[Bitcoin](https://www.reddit.com/r/Bitcoin/comments/1qvxdx6/bitcoin/)**
 
-3h ago
+4h ago
 
 ---
 
@@ -107,7 +107,7 @@ Bitcoin ponzi finally dead now. With this post I've completed the ritual.
 
 Relax. Keep buying on schedule and check back in, in a couple of years. You'll laugh at yourself for being worried.
 
-5h ago
+6h ago
 
 ---
 
@@ -121,7 +121,7 @@ With all the recent volatility, macro noise, and people getting jumpy again, I k
 
 **[Sometimes I don`t](https://www.reddit.com/r/Bitcoin/comments/1qvh12n/sometimes_i_dont/)**
 
-16h ago
+17h ago
 
 ---
 
@@ -137,7 +137,7 @@ I hope this is way more better. enjoy pain, pain zone, max pain.
 
 Crypto life is hard to explain sometimes 😅
 
-5h ago
+6h ago
 
 ---
 
@@ -155,7 +155,7 @@ I have absolutely no fiat left to buy more. F*ck sh*t.
 
 **[Bitcoin-Led Crypto Rout Erases Nearly $500 Billion in a Week](https://www.bloomberg.com/news/articles/2026-02-04/bitcoin-led-crypto-rout-erases-nearly-half-a-trillion-in-a-week)**
 
-Bloomberg • 7h ago
+Bloomberg • 8h ago
 
 ---
 
@@ -163,7 +163,7 @@ Bloomberg • 7h ago
 
 In a Substack post Monday, Burry argued that the original cryptocurrency, which has fallen 40% since peaking in October, has been exposed as a purely speculative asset, failing to take off as a debasement hedge similar to precious metals.  Additional drops, he said, would push Bitcoin miners toward bankruptcy.  Bitcoin has failed to respond to typical drivers like dollar weakness or geopolitical risk, unlike gold and silver which rallied to records as global tensions fueled fears about dollar debasement.
 
-Yahoo Finance • 9h ago
+Yahoo Finance • 10h ago
 
 ---
 
@@ -171,13 +171,13 @@ Yahoo Finance • 9h ago
 
 Michael Burry warns Bitcoin could face a “death spiral,” pressuring corporate holders, miners, and crypto stocks.
 
-Seeking Alpha • 12h ago
+Seeking Alpha • 13h ago
 
 ---
 
 **[‘Big Short’ investor Michael Burry warns bitcoin plunge could trigger $1 billion gold, silver selloff](https://www.coindesk.com/markets/2026/02/03/the-big-short-investor-michael-burry-warns-bitcoin-plunge-could-trigger-usd1b-gold-silver-sell-off)**
 
-CoinDesk • 23h ago
+CoinDesk • 1d ago
 
 ---
 
@@ -193,7 +193,7 @@ The Motley Fool • 3h ago
 
 The following article is adapted from The Block’s newsletter, The Daily, which comes out on weekday afternoons.
 
-The Block • 3h ago
+The Block • 4h ago
 
 ---
 
@@ -213,7 +213,7 @@ Forbes • 2d ago
 
 TMZ and an Arizona news outlet reported receiving the ransom letter.
 
-Fortune • 3h ago
+Fortune • 4h ago
 
 ---
 
@@ -239,7 +239,7 @@ TMZ • 1d ago
 
 Crypto treasury companies quietly crept into index funds and retirement accounts. This collapse is good news for all of us.
 
-⬆️ 4 • 💬 1 • 13h ago • [Slate Magazine](https://slate.com/technology/2026/02/bitcoin-crypto-treasury-wall-street-microstrategy.html)
+⬆️ 4 • 💬 1 • 14h ago • [Slate Magazine](https://slate.com/technology/2026/02/bitcoin-crypto-treasury-wall-street-microstrategy.html)
 
 ---
 
@@ -247,7 +247,7 @@ Crypto treasury companies quietly crept into index funds and retirement accounts
 
 453+ bitcoin treasuries. 3.94M BTC+ BTC tracked on-chain. From Shrimp to Sovereign.
 
-⬆️ 4 • 💬 0 • 9h ago • [bitcoincompanies.co](https://bitcoincompanies.co/)
+⬆️ 4 • 💬 0 • 10h ago • [bitcoincompanies.co](https://bitcoincompanies.co/)
 
 ---
 
@@ -255,7 +255,7 @@ Crypto treasury companies quietly crept into index funds and retirement accounts
 
 Bitcoin behaves more like an "ATM" during uncertain times, with investors quickly selling it to raise cash.
 
-⬆️ 3 • 💬 0 • 6h ago • [coindesk.com](https://www.coindesk.com/markets/2026/01/24/here-s-why-bitcoin-s-is-failing-its-role-as-a-safe-haven-versus-gold)
+⬆️ 3 • 💬 0 • 7h ago • [coindesk.com](https://www.coindesk.com/markets/2026/01/24/here-s-why-bitcoin-s-is-failing-its-role-as-a-safe-haven-versus-gold)
 
 ---
 
@@ -311,7 +311,7 @@ LIMITED TIME: ✓ Bitunix (no kyc, $10k bonus): https://www.bitunix.com/register
 
 📺 Altcoin Daily
 
-👁️ 116K • 👍 4K • 💬 753 • ⏱️ 10:56 • 1d ago
+👁️ 116K • 👍 4K • 💬 753 • ⏱️ 10:56 • 2d ago
 
 ---
 
@@ -321,7 +321,7 @@ Make Free Predictions on *ClashPicks* ▻ https://www.clashpicks.com/ Follow Cla
 
 📺 CryptosRUs
 
-👁️ 29K • 👍 1K • 💬 785 • ⏱️ 10:35 • 21h ago
+👁️ 29K • 👍 1K • 💬 785 • ⏱️ 10:35 • 22h ago
 
 ---
 
@@ -331,7 +331,7 @@ In this critical market update, Chief Market Strategist Gareth Soloway breaks do
 
 📺 Gareth Soloway
 
-👁️ 63K • 👍 5K • 💬 651 • ⏱️ 12:58 • 9h ago
+👁️ 63K • 👍 5K • 💬 651 • ⏱️ 12:58 • 10h ago
 
 ---
 
@@ -371,7 +371,7 @@ In a must watch heated debate U.S. Treasury Secretary defends the Strategic Bitc
 
 📺 Simply Bitcoin
 
-👁️ 9K • 👍 479 • 💬 225 • ⏱️ 1:22:31 • 3h ago
+👁️ 9K • 👍 479 • 💬 225 • ⏱️ 1:22:31 • 4h ago
 
 ---
 
@@ -401,7 +401,7 @@ ISM Above 50: A Finally Bullish Signal for Bitcoin #Crypto #Bitcoin #ISM #crypto
 
 📺 Crypto Banter
 
-👁️ 5K • 👍 94 • 💬 5 • ⏱️ 1:24 • 14h ago
+👁️ 5K • 👍 94 • 💬 5 • ⏱️ 1:24 • 15h ago
 
 ---
 
