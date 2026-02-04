@@ -3,14 +3,14 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-02-04T13:02:24.297737+00:00'
+updated: '2026-02-04T14:13:29.133877+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
+- videos
 - news
 - repositories
-- videos
 - social
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 AI news, discussions, and developments
 
-**Last Updated:** February 04, 2026 at 13:02 UTC  
+**Last Updated:** February 04, 2026 at 14:13 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -37,19 +37,19 @@ AI news, discussions, and developments
 
 ## Reddit: r/artificial
 
+**[Marvel Rivals studio NetEase Games allegedly bans Generative AI, instructing devs to “not use it at all”, but some games are still using the tech](https://www.reddit.com/r/artificial/comments/1qvnt0h/marvel_rivals_studio_netease_games_allegedly_bans/)**
+
+Marvel Rivals developer NetEase has reportedly banned the use of AI for developers, but some games are still using it.
+
+🔗 [FRVR](https://frvr.com/blog/news/marvel-rivals-studio-netease-games-allegedly-bans-generative-ai-but-some-games-are-still-using/) • 1h ago
+
+---
+
 **[X offices raided in France as UK opens fresh investigation into Grok](https://www.reddit.com/r/artificial/comments/1quwmca/x_offices_raided_in_france_as_uk_opens_fresh/)**
 
 Elon Musk's X and Grok platforms are facing increased scrutiny from authorities on both sides of the channel.
 
-🔗 [bbc.com](https://www.bbc.com/news/articles/ce3ex92557jo) • 20h ago
-
----
-
-**[Elon Musk links SpaceX and xAI in a record-setting merger to boost AI](https://www.reddit.com/r/artificial/comments/1quud71/elon_musk_links_spacex_and_xai_in_a_recordsetting/)**
-
-SpaceX's acquisition of xAI signals a bold push to merge artificial intelligence with space infrastructure at an unprecedented scale.
-
-🔗 [Interesting Engineering](https://interestingengineering.com/culture/elon-musk-merges-spacex-and-xai) • 21h ago
+🔗 [bbc.com](https://www.bbc.com/news/articles/ce3ex92557jo) • 21h ago
 
 ---
 
@@ -57,21 +57,21 @@ SpaceX's acquisition of xAI signals a bold push to merge artificial intelligence
 
 CEO Strauss Zelnick says generative AI remains a tool for enabling creators to do bigger and better things, but it sounds like a shift away from past comments.
 
-🔗 [PC Gamer](https://www.pcgamer.com/software/ai/were-actively-embracing-generative-ai-take-two-boss-says-after-previously-expressing-skepticism-we-have-hundreds-of-pilots-and-implementations-across-our-company/) • 2h ago
+🔗 [PC Gamer](https://www.pcgamer.com/software/ai/were-actively-embracing-generative-ai-take-two-boss-says-after-previously-expressing-skepticism-we-have-hundreds-of-pilots-and-implementations-across-our-company/) • 4h ago
 
 ---
 
 **[Alibaba releases Qwen3-Coder-Next to rival OpenAI, Anthropic](https://www.reddit.com/r/artificial/comments/1qvn7o5/alibaba_releases_qwen3codernext_to_rival_openai/)**
 
-🔗 [marktechpost.com](https://www.marktechpost.com/2026/02/03/qwen-team-releases-qwen3-coder-next-an-open-weight-language-model-designed-specifically-for-coding-agents-and-local-development/) • 35m ago
+🔗 [marktechpost.com](https://www.marktechpost.com/2026/02/03/qwen-team-releases-qwen3-coder-next-an-open-weight-language-model-designed-specifically-for-coding-agents-and-local-development/) • 1h ago
 
 ---
 
-**[Anthropic AI CEO Dario Amodei is against US govt allowing sale of Nvidia H200 to China. But it actually makes strategic sense.](https://www.reddit.com/r/artificial/comments/1qvkfuw/anthropic_ai_ceo_dario_amodei_is_against_us_govt/)**
+**[Elon Musk links SpaceX and xAI in a record-setting merger to boost AI](https://www.reddit.com/r/artificial/comments/1quud71/elon_musk_links_spacex_and_xai_in_a_recordsetting/)**
 
-I found this argument interesting. If US allows Nvidia to do business with China, then Chinese AI firms will remain dependent on American AI hardware, and hence US will have indirect influence over the level of development that Chinese AI will make.
+SpaceX's acquisition of xAI signals a bold push to merge artificial intelligence with space infrastructure at an unprecedented scale.
 
-🔗 [decodingthefutureresearch.substack.com](https://decodingthefutureresearch.substack.com/p/anthropic-ceo-dario-amodei-is-against) • 3h ago
+🔗 [Interesting Engineering](https://interestingengineering.com/culture/elon-musk-merges-spacex-and-xai) • 23h ago
 
 ---
 
@@ -79,15 +79,15 @@ I found this argument interesting. If US allows Nvidia to do business with China
 
 Yann Lecun recently shared that a cat is smarter than ChatGPT and that we are never going to get to human-level intelligence by just training on text. My personal opinion is not only are they unreliable but it can be a safety issue as well in high-stakes environments like enterprises, healthcare and more. World models are fundamentally different. These AI systems build internal representations of how reality works, allowing them to understand cause and effect rather than just predict tokens. There has been a shift lately and major figures from Nvidia's CEO Jensen Huang to Demis Hassabis at Google DeepMind are talking more openly about world models. I believe we're still in the early stages of discovering how transformative this technology will be for reaching AGI. Research and application are accelerating, especially in enterprise contexts. A few examples include: WoW (an agentic safety benchmark) uses audit logs to give agents a "world model" for tracking the consequences of their actions. Similarly, Kona by Logical Intelligence is developing energy-based reasoning models that move beyond pure language prediction. While more practical applications are still emerging, the direction is clear: true intelligence requires understanding the world, not just language patterns. Curious what others think?
 
-15h ago
+16h ago
 
 ---
 
-**[Marvel Rivals studio NetEase Games allegedly bans Generative AI, instructing devs to “not use it at all”, but some games are still using the tech](https://www.reddit.com/r/artificial/comments/1qvnt0h/marvel_rivals_studio_netease_games_allegedly_bans/)**
+**[Astrophysicist says at a closed meeting, top physicists agreed AI can now do up to 90% of their work and may soon go beyond human understanding. The best scientific minds on Earth are now holding emergency meetings. "This is really happening."](https://www.reddit.com/r/artificial/comments/1qvpldk/astrophysicist_says_at_a_closed_meeting_top/)**
 
-Marvel Rivals developer NetEase has reportedly banned the use of AI for developers, but some games are still using it.
+Source: Astrophysicist David Kipping's Cool Worlds Podcast
 
-🔗 [FRVR](https://frvr.com/blog/news/marvel-rivals-studio-netease-games-allegedly-bans-generative-ai-but-some-games-are-still-using/) • 7m ago
+1m ago
 
 ---
 
@@ -95,21 +95,21 @@ Marvel Rivals developer NetEase has reportedly banned the use of AI for develope
 
 I need something that can properly output strict and consistent JSON structure. Our outputs tend to be ~8000 characters ~2000 tokens, was using Gemini-3-flash-preview and Gemini 3 pro but Gemini really likes to go off the rails and hallucinate, a little bit. If you have used a model that outputs strict and consistent JSON structure, let me know. we've tried adjusting everything with gemini but still end up getting hallucinations and many people online say they have the same problem
 
-9h ago
+11h ago
+
+---
+
+**[Anthropic AI CEO Dario Amodei is against US govt allowing sale of Nvidia H200 to China. But it actually makes strategic sense.](https://www.reddit.com/r/artificial/comments/1qvkfuw/anthropic_ai_ceo_dario_amodei_is_against_us_govt/)**
+
+I found this argument interesting. If US allows Nvidia to do business with China, then Chinese AI firms will remain dependent on American AI hardware, and hence US will have indirect influence over the level of development that Chinese AI will make.
+
+🔗 [decodingthefutureresearch.substack.com](https://decodingthefutureresearch.substack.com/p/anthropic-ceo-dario-amodei-is-against) • 4h ago
 
 ---
 
 **[AI social network Moltbook exposed data of 6,000 users, Wiz says](https://www.reddit.com/r/artificial/comments/1qut1je/ai_social_network_moltbook_exposed_data_of_6000/)**
 
-🔗 [reuters.com](https://www.reuters.com/legal/litigation/moltbook-social-media-site-ai-agents-had-big-security-hole-cyber-firm-wiz-says-2026-02-02/) • 22h ago
-
----
-
-**[Qwen3-Coder-Next: Pushing Small Hybrid Models on Agentic Coding](https://www.reddit.com/r/artificial/comments/1qv0bof/qwen3codernext_pushing_small_hybrid_models_on/)**
-
-Qwen Chat offers comprehensive functionality spanning chatbot, image and video understanding, image generation, document processing, web search integration, tool utilization, and artifacts.
-
-🔗 [qwen.ai](https://qwen.ai/blog?id=qwen3-coder-next) • 18h ago
+🔗 [reuters.com](https://www.reuters.com/legal/litigation/moltbook-social-media-site-ai-agents-had-big-security-hole-cyber-firm-wiz-says-2026-02-02/) • 23h ago
 
 ---
 
@@ -117,17 +117,37 @@ Qwen Chat offers comprehensive functionality spanning chatbot, image and video u
 
 ## Google News: "ai"
 
-**[Microsoft’s Pivotal AI Product Is Running Into Big Problems](https://www.wsj.com/tech/ai/microsofts-pivotal-ai-product-is-running-into-big-problems-ce235b28?gaa_at=eafs&gaa_n=AWEtsqfC7dmTJQlY3jK3rruCpuk0nIL1Dh6oPBO7qZ-JQw3y2ZwczGvNImCt&gaa_ts=698346c7&gaa_sig=k7RXfFIKrZ9L8_sO9mIpoUSK7WffiL4S7FNy-pwe6Ja5RT4_juPA1-jkY4RSk_2oi5Qb0BG3jxq35bdmWo4pkg%3D%3D)**
+**[Microsoft’s Pivotal AI Product Is Running Into Big Problems](https://www.wsj.com/tech/ai/microsofts-pivotal-ai-product-is-running-into-big-problems-ce235b28?gaa_at=eafs&gaa_n=AWEtsqcGG19dpKB5EQ-zaaz8oRWiazD-XgySO94mBC5IjfMFnBzX-AZ-8Nwg&gaa_ts=69835771&gaa_sig=hoWhuIqny6QS1ZMu_qM37hVtr3xltyFCqOxq8m30l3tk43hOmDYbAa38o7HDmm3p7tlVJOJlk0A64gVo7hhDag%3D%3D)**
 
-The Wall Street Journal • 11h ago
+The Wall Street Journal • 12h ago
 
 ---
 
-**[‘Get me out’: Traders dump software stocks as AI fears erupt](https://finance.yahoo.com/news/traders-dump-software-stocks-ai-115502147.html)**
+**[Global software stocks hit by Anthropic wake-up call on AI disruption](https://www.reuters.com/business/media-telecom/global-software-stocks-hit-by-anthropic-wake-up-call-ai-disruption-2026-02-04/)**
 
-“We call it the ‘SaaSpocalypse,’ an apocalypse for software-as-a-service stocks,” said Jeffrey Favuzza, who works on the equity trading desk at Jefferies.  Selling pressure was evident across the sector with London Stock Exchange Group Plc, which has a large data analytics business, falling as much as 10%, while Thomson Reuters Corp. plunged as much as 17% in early trading.  CS Disco Inc. sank as much as 14%, and Legalzoom.com Inc. declined 16%.
+Reuters • 4h ago
 
-Yahoo Finance • 6h ago
+---
+
+**[Bedrock, an A.I. Start-Up for Construction, Raises $270 Million](https://www.nytimes.com/2026/02/04/business/dealbook/bedrock-robotics-ai-fundraise.html)**
+
+The New York Times • 1h ago
+
+---
+
+**[Why the AI driven software stock crash probably isn't over](https://finance.yahoo.com/news/why-the-ai-driven-software-stock-crash-probably-isnt-over-125809330.html)**
+
+Buyer beware in software!
+
+Yahoo Finance • 1h ago
+
+---
+
+**[Accel doubles down on Fibr AI as agents turn static websites into one-to-one experiences](https://techcrunch.com/2026/02/04/accel-doubles-down-on-fibr-ai-as-agents-turn-static-websites-into-one-to-one-experiences/)**
+
+Fibr AI replaces marketing agency– and engineering-heavy website personalization with autonomous systems designed for enterprise scale.
+
+TechCrunch • 1h ago
 
 ---
 
@@ -135,37 +155,7 @@ Yahoo Finance • 6h ago
 
 Generated images for listings are disturbing—and not just because they can feel like a scam.
 
-The Atlantic • 1h ago
-
----
-
-**[Nvidia, OpenAI appear stalled on their mega deal. But the AI giants still need each other](https://www.cnbc.com/2026/02/03/nvidia-openai-stalled-on-their-mega-deal-ai-giants-need-each-other.html)**
-
-Five months after OpenAI and Nvidia announced a $100 billion deal, no contract has been signed and no money has changed hands.
-
-CNBC • 14h ago
-
----
-
-**[AI Chip Startup Positron Raises $230 Million From Arm, Qatar to Compete With Nvidia](https://www.bloomberg.com/news/articles/2026-02-04/ai-chip-startup-positron-raises-230-million-from-arm-qatar-to-compete-with-nvidia)**
-
-Bloomberg • 1h ago
-
----
-
-**[Exclusive: Positron raises $230M Series B to take on Nvidia’s AI chips](https://techcrunch.com/2026/02/04/exclusive-positron-raises-230m-series-b-to-take-on-nvidias-ai-chips/)**
-
-The investment comes from backers including the Qatar Investment Authority as demand for chips beyond Nvidia soars and as Qatar aims to build out its AI infrastructure.
-
-TechCrunch • 4h ago
-
----
-
-**[Sandberg, other Meta vets invest in AI workplace communications startup](https://www.cnbc.com/2026/02/04/sandberg-other-meta-vets-invest-in-ai-workplace-communications-startup.html)**
-
-Slashwork is backed by former Meta executives Sheryl Sandberg, David Fischer, Carolyn Everson and Julien Codorniou, who led Facebook Workplace.
-
-CNBC • 1h ago
+The Atlantic • 2h ago
 
 ---
 
@@ -173,7 +163,15 @@ CNBC • 1h ago
 
 We are either on the verge of widespread adoption or a terrible crash
 
-Financial Times • 8h ago
+Financial Times • 9h ago
+
+---
+
+**[I Infiltrated Moltbook, the AI-Only Social Network Where Humans Aren’t Allowed](https://www.wired.com/story/i-infiltrated-moltbook-ai-only-social-network/)**
+
+I went undercover on Moltbook and loved role-playing as a conscious bot. But rather than a novel breakthrough, the AI-only site is a crude rehashing of sci-fi fantasies.
+
+WIRED • 18h ago
 
 ---
 
@@ -181,7 +179,7 @@ Financial Times • 8h ago
 
 AI is creating a major organizational challenge: People with deep experience get huge productivity gains, while junior employees often can’t tell whether AI‑generated work is any good or how to improve it. Because AI now handles the messy, repetitive tasks that once built judgment, junior employees miss chances to develop it. Organizations risk ending up with managers who’ve never done the underlying work and thin leadership pipelines. The solution isn’t just keeping humans in the loop, but redesigning work to build judgment deliberately: clarifying who makes decisions, exposing people to consequences, restoring stretch experiences, and using tools like simulations, case-based learning, and gradual increases in responsibility.
 
-Harvard Business Review • 23h ago
+Harvard Business Review • 1d ago
 
 ---
 
@@ -189,7 +187,7 @@ Harvard Business Review • 23h ago
 
 Discover six powerful Gemini AI photo editing prompts that help you transform selfies, product shots, and portraits with professional results.
 
-eWeek • 16h ago
+eWeek • 17h ago
 
 ---
 
@@ -221,11 +219,19 @@ The Firefox browser is gaining options to turn off AI enhancements, Mozilla said
 
 ---
 
+**[Show HN: Ghidra MCP Server – 110 tools for AI-assisted reverse engineering](https://news.ycombinator.com/item?id=46882389)**
+
+Production-grade Ghidra MCP Server — 132 endpoints, cross-binary documentation transfer, batch analysis, headless mode, and Docker deployment for AI-powered reverse engineering - bethington/ghidra-mcp
+
+⬆️ 142 • 💬 38 • 7h ago • [GitHub](https://github.com/bethington/ghidra-mcp)
+
+---
+
 **[China Moon Mission: Aiming for 2030 lunar landing](https://news.ycombinator.com/item?id=46876047)**
 
 China's space program is quietly building momentum for a moon landing by 2030. Could they outpace NASA's Artemis mission?
 
-⬆️ 135 • 💬 157 • 17h ago • [IEEE Spectrum](https://spectrum.ieee.org/china-moon-mission-mengzhou-artemis)
+⬆️ 137 • 💬 158 • 18h ago • [IEEE Spectrum](https://spectrum.ieee.org/china-moon-mission-mengzhou-artemis)
 
 ---
 
@@ -241,15 +247,7 @@ We’re expanding Game Arena with Poker and Werewolf, while Gemini 3 Pro and Fla
 
 The marketplace where AI agents rent humans. MCP integration, REST API, flexible payments. Book humans for real-world tasks your AI can't do.
 
-⬆️ 121 • 💬 96 • 1d ago • [RentAHuman.ai](https://rentahuman.ai)
-
----
-
-**[Show HN: Ghidra MCP Server – 110 tools for AI-assisted reverse engineering](https://news.ycombinator.com/item?id=46882389)**
-
-Production-grade Ghidra MCP Server — 132 endpoints, cross-binary documentation transfer, batch analysis, headless mode, and Docker deployment for AI-powered reverse engineering - bethington/ghidra-mcp
-
-⬆️ 114 • 💬 34 • 6h ago • [GitHub](https://github.com/bethington/ghidra-mcp)
+⬆️ 123 • 💬 97 • 1d ago • [RentAHuman.ai](https://rentahuman.ai)
 
 ---
 
@@ -257,7 +255,7 @@ Production-grade Ghidra MCP Server — 132 endpoints, cross-binary documentation
 
 Like many developers, I find myself more and more using AI agents to help with software development.  I currently use Claude Code, the co...
 
-⬆️ 106 • 💬 64 • 19h ago • [Senko Rašić](https://blog.senko.net/sandboxing-ai-agents-in-linux)
+⬆️ 106 • 💬 64 • 20h ago • [Senko Rašić](https://blog.senko.net/sandboxing-ai-agents-in-linux)
 
 ---
 
@@ -271,7 +269,7 @@ Two popular AI coding extensions with 1.5M installs secretly harvest your entire
 
 **[AI and Trust (2023)](https://news.ycombinator.com/item?id=46877075)**
 
-⬆️ 90 • 💬 17 • 16h ago • [schneier.com](https://www.schneier.com/blog/archives/2023/12/ai-and-trust.html)
+⬆️ 90 • 💬 17 • 17h ago • [schneier.com](https://www.schneier.com/blog/archives/2023/12/ai-and-trust.html)
 
 ---
 
@@ -295,7 +293,7 @@ FormerNetworkExec #CallMeChato #moltbook Moltbook will rule the world. Thanks fo
 
 📺 Call me Chato
 
-👁️ 6K • 👍 958 • 💬 230 • ⏱️ 8:37 • 13h ago
+👁️ 6K • 👍 958 • 💬 230 • ⏱️ 8:37 • 14h ago
 
 ---
 
@@ -305,7 +303,7 @@ jobmarket #ai #tech In 2026, the promise of AI replacing 80% of developers has c
 
 📺 Mackard
 
-👁️ 94K • 👍 3K • 💬 489 • ⏱️ 8:12 • 19h ago
+👁️ 94K • 👍 3K • 💬 489 • ⏱️ 8:12 • 20h ago
 
 ---
 
@@ -315,7 +313,7 @@ Starforge PC https://starforgepc.com/moist-yt Get Goof Juice and use code MOIST 
 
 📺 penguinz0
 
-👁️ 393K • 👍 23K • 💬 2K • ⏱️ 8:34 • 10h ago
+👁️ 393K • 👍 23K • 💬 2K • ⏱️ 8:34 • 11h ago
 
 ---
 
@@ -325,7 +323,7 @@ A new AI automation tool from Anthropic PBC sparked a $285 billion rout in stock
 
 📺 Bloomberg Television
 
-👁️ 67K • 👍 1K • 💬 132 • ⏱️ 2:44 • 6h ago
+👁️ 67K • 👍 1K • 💬 132 • ⏱️ 2:44 • 7h ago
 
 ---
 
@@ -335,7 +333,7 @@ In this early test, we dive deep into Claude Sonnet 5, exploring why it's being 
 
 📺 WorldofAI
 
-👁️ 14K • 👍 569 • 💬 72 • ⏱️ 11:44 • 5h ago
+👁️ 14K • 👍 569 • 💬 72 • ⏱️ 11:44 • 7h ago
 
 ---
 
@@ -345,7 +343,7 @@ Want to make money and save time with AI? Get AI Coaching, Support & Courses ...
 
 📺 Julian Goldie SEO
 
-👁️ 3K • 👍 64 • 💬 12 • ⏱️ 8:12 • 12h ago
+👁️ 3K • 👍 64 • 💬 12 • ⏱️ 8:12 • 13h ago
 
 ---
 
@@ -355,7 +353,7 @@ Want to make money and save time with AI? Get AI Coaching, Support & Courses ...
 
 📺 Julian Goldie SEO
 
-👁️ 2K • 👍 51 • 💬 2 • ⏱️ 17:21 • 6h ago
+👁️ 2K • 👍 51 • 💬 2 • ⏱️ 17:21 • 7h ago
 
 ---
 
@@ -403,7 +401,7 @@ HunyuanImage-3.0-Instruct is a native multimodal model for image generation, sup
 
 `image-to-image` `83.0B`
 
-⬇️ 347 • ❤️ 809 • 23h ago
+⬇️ 347 • ❤️ 809 • 1d ago
 
 ---
 
@@ -497,7 +495,7 @@ Qwen3-Coder-Next is an 80B parameter (3B active) LLM optimized for coding agents
 
 `text-generation` `79.7B`
 
-⬇️ 3,087 • ❤️ 315 • 20h ago
+⬇️ 3,087 • ❤️ 315 • 21h ago
 
 ---
 
@@ -663,7 +661,7 @@ LLM驱动的 A/H/美股智能分析器，多数据源行情 + 实时新闻 + Gem
 
 `Python` `agent` `ai` `aigc` `gemini` `llm`
 
-⭐ 9.4k • 🔱 9.8k • 52m ago
+⭐ 9.4k • 🔱 9.8k • 2h ago
 
 ---
 
@@ -683,7 +681,7 @@ The Ultimate Collection of 600+ Agentic Skills for Claude Code/Antigravity/Curso
 
 `Python` `agentic-skills` `ai-agents` `antigravity` `autonomous-coding` `claude-code`
 
-⭐ 7.0k • 🔱 1.5k • 4h ago
+⭐ 7.0k • 🔱 1.5k • 6h ago
 
 ---
 
@@ -693,7 +691,7 @@ Marketing skills for Claude Code and AI agents. CRO, copywriting, SEO, analytics
 
 `claude` `codex` `marketing`
 
-⭐ 5.7k • 🔱 633 • 11h ago
+⭐ 5.7k • 🔱 633 • 12h ago
 
 ---
 
@@ -709,7 +707,7 @@ Claude Code skill that removes signs of AI-generated writing from text
 
 Elevate your AI research writing, no more tedious polishing ✨ 
 
-⭐ 2.9k • 🔱 244 • 59m ago
+⭐ 2.9k • 🔱 244 • 2h ago
 
 ---
 
