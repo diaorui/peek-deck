@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-02-04T22:30:29.699737+00:00'
+updated: '2026-02-04T22:54:57.151388+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- videos
 - repositories
-- news
 - social
+- videos
+- news
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** February 04, 2026 at 22:30 UTC  
+**Last Updated:** February 04, 2026 at 22:54 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -41,7 +41,7 @@ AI news, discussions, and developments
 
 Ran a real-world test this week: Gemma 3 12B vs paid frontier models across actual business workflows. The honest assessment? 90% of tasks: no meaningful difference. 5%: frontier models worth it (pay-per-use). 5%: neither quite there yet. This matches the data - open models are catching up fast. The article explores: - Why the "gasoline doesn't matter" - only if it powers your task - The shift from "one model to rule them all" to specialized local models - Why even AGI will eventually be open-sourced (historical precedent) - The water company future: infrastructure > model quality https://www.linkedin.com/posts/azizme_activity-7424774668034842624-v1-2?utm_source=share&utm_medium=member_desktop&rcm=ACoAACX_HOcBcpTEWJ3cXyVbVqKJsi39tDHJLFY Curious what others are seeing in their domains.
 
-6h ago
+7h ago
 
 ---
 
@@ -79,7 +79,7 @@ It highlights a hilarious paradox: we have futuristic organ transplants, yet hos
 
 I found this argument interesting. If US allows Nvidia to do business with China, then Chinese AI firms will remain dependent on American AI hardware, and hence US will have indirect influence over the level of development that Chinese AI will make.
 
-🔗 [decodingthefutureresearch.substack.com](https://decodingthefutureresearch.substack.com/p/anthropic-ceo-dario-amodei-is-against) • 12h ago
+🔗 [decodingthefutureresearch.substack.com](https://decodingthefutureresearch.substack.com/p/anthropic-ceo-dario-amodei-is-against) • 13h ago
 
 ---
 
@@ -135,13 +135,13 @@ CNBC • 17h ago
 
 **[Broadcom, Nvidia shares rise on surging Google capital expenditures for AI](https://news.google.com/rss/articles/CBMidEFVX3lxTE5qMmxVa2VxZWRrczFfT2tDWTFzcExKN3V5ekY0QUM3V0xjdGR1NFluOUZCdmZRUEVZWHpxdS1vbUE1RXhvdjhvd183bFNOWnVucktvamlJTk1Yd21BcFRkbU1EWFlFQXR2amsyMEQ2WnRISFpD0gF6QVVfeXFMUGVuQkZGbDZaTEpMOGliN2xSQnNmV1ZKR2MyanJueExCT2NCQ25FMTRJZ2RZZUJ1TzJoVVpBQ1NTbThzc0pCZVJjb09XS3I2UkxUcFZnN3F1aENvVWZwNUlaTzlnSHVoSko2bGpPR1NFY0Q4NzMyX2JSN3c?oc=5)**
 
-CNBC • 34m ago
+CNBC • 59m ago
 
 ---
 
 **[China Ramps Up Energy Boom Flagged by Musk as Key to AI Race](https://www.bloomberg.com/news/articles/2026-02-04/china-ramps-up-energy-boom-flagged-by-musk-as-key-to-ai-race)**
 
-Bloomberg • 30m ago
+Bloomberg • 54m ago
 
 ---
 
@@ -149,7 +149,7 @@ Bloomberg • 30m ago
 
 The two-year-old startup confirms that it closed a Series A led by Lightspeed at $1 billion valuation.
 
-TechCrunch • 51m ago
+TechCrunch • 1h ago
 
 ---
 
@@ -173,7 +173,7 @@ The Atlantic • 10h ago
 
 New AI-powered tools reduce time and cost of software development, threatening industries from law to advertising
 
-Financial Times • 5h ago
+Financial Times • 6h ago
 
 ---
 
@@ -207,7 +207,7 @@ A bifurcation is happening in AI adoption - power users shipping products in day
 
 Production-grade Ghidra MCP Server — 132 endpoints, cross-binary documentation transfer, batch analysis, headless mode, and Docker deployment for AI-powered reverse engineering - bethington/ghidra-mcp
 
-⬆️ 254 • 💬 63 • 15h ago • [GitHub](https://github.com/bethington/ghidra-mcp)
+⬆️ 254 • 💬 63 • 16h ago • [GitHub](https://github.com/bethington/ghidra-mcp)
 
 ---
 
@@ -295,7 +295,7 @@ Become a member! ✓ https://www.youtube.com/channel/UCahJ9IsvXnaQiuNyWQSkrkw/jo
 
 📺 Chris Norlund
 
-👁️ 174K • 👍 10K • 💬 2K • ⏱️ 15:48 • 22h ago
+👁️ 174K • 👍 10K • 💬 2K • ⏱️ 15:48 • 23h ago
 
 ---
 
@@ -345,7 +345,7 @@ Here's my thoughts on all the Moltbook stuff and everything that's happened sinc
 
 📺 Matt Wolfe
 
-👁️ 47K • 👍 2K • 💬 414 • ⏱️ 19:52 • 15h ago
+👁️ 47K • 👍 2K • 💬 414 • ⏱️ 19:52 • 16h ago
 
 ---
 
@@ -587,7 +587,7 @@ Bitnet.cpp enhances edge inference for ternary LLMs using a novel mixed-precisio
 
 The Qwen3-TTS series presents advanced multilingual text-to-speech models with voice cloning and controllable speech generation capabilities, utilizing dual-track LM architecture and specialized speech tokenizers for efficient streaming synthesis.
 
-▲ 57 • 💬 1 • ⭐ 6,804 • 13d ago
+▲ 57 • 💬 1 • ⭐ 6,804 • 14d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2601.15621) • [💻 code](https://github.com/QwenLM/Qwen3-TTS)
 
@@ -693,7 +693,7 @@ Marketing skills for Claude Code and AI agents. CRO, copywriting, SEO, analytics
 
 `claude` `codex` `marketing`
 
-⭐ 5.8k • 🔱 641 • 20h ago
+⭐ 5.8k • 🔱 641 • 21h ago
 
 ---
 

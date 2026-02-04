@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-02-04T22:30:29.707950+00:00'
+updated: '2026-02-04T22:54:57.159869+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- videos
-- news
 - cryptocurrency
 - social
+- videos
+- news
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** February 04, 2026 at 22:30 UTC  
+**Last Updated:** February 04, 2026 at 22:54 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -79,13 +79,13 @@ Rank #1
 
 **[I'm not fucking selling](https://www.reddit.com/r/Bitcoin/comments/1qvtn6n/im_not_fucking_selling/)**
 
-5h ago
+6h ago
 
 ---
 
 **[These dips are a blessing, it just gives a chance to buy more](https://www.reddit.com/r/Bitcoin/comments/1qvwqgs/these_dips_are_a_blessing_it_just_gives_a_chance/)**
 
-3h ago
+4h ago
 
 ---
 
@@ -115,7 +115,7 @@ Relax. Keep buying on schedule and check back in, in a couple of years. You'll l
 
 With all the recent volatility, macro noise, and people getting jumpy again, I keep seeing the 60k level mentioned like it’s inevitable. Rate uncertainty, weak risk appetite, miners selling a bit, and everyone suddenly turning cautious doesn’t help. At the same time, every dip lately feels like it gets bought faster than people expect. Feels less like panic and more like the market trying to find its footing. Tbh i don't know anymore sometimes I just laugh it off lol hahhah
 
-5h ago
+6h ago
 
 ---
 
@@ -129,7 +129,7 @@ With all the recent volatility, macro noise, and people getting jumpy again, I k
 
 I hope this is way more better. enjoy pain, pain zone, max pain.
 
-12h ago
+13h ago
 
 ---
 
@@ -145,7 +145,7 @@ Crypto life is hard to explain sometimes 😅
 
 I have absolutely no fiat left to buy more. F*ck sh*t.
 
-5h ago
+6h ago
 
 ---
 
@@ -185,7 +185,7 @@ CoinDesk • 23h ago
 
 The world's top cryptocurrency is down but not out.
 
-The Motley Fool • 2h ago
+The Motley Fool • 3h ago
 
 ---
 
@@ -269,7 +269,7 @@ Cryptocurrency markets fell as global equities and precious metals sold off whil
 
 **[Show HN: GrahamBell – This is what Bitcoin mining looked like in 2009](https://news.ycombinator.com/item?id=46885212)**
 
-⬆️ 2 • 💬 0 • 9h ago
+⬆️ 2 • 💬 0 • 10h ago
 
 ---
 
@@ -351,7 +351,7 @@ Raoul Pal reveals why Bitcoin is trading at a massive discount to global liquidi
 
 📺 Money Talks
 
-👁️ 2K • 👍 88 • 💬 198 • ⏱️ 9:50 • 3h ago
+👁️ 2K • 👍 88 • 💬 198 • ⏱️ 9:50 • 4h ago
 
 ---
 
@@ -361,7 +361,7 @@ Bitcoin has slipped into bear-market territory — but this drawdown doesn't loo
 
 📺 Swan Bitcoin
 
-👁️ 78K • 👍 3K • 💬 636 • ⏱️ 14:42 • 23h ago
+👁️ 78K • 👍 3K • 💬 636 • ⏱️ 14:42 • 1d ago
 
 ---
 
@@ -381,7 +381,7 @@ Bitcoin bull market was weak, so will the bear market be shallow? PlanB website:
 
 📺 PlanB
 
-👁️ 31K • 👍 3K • 💬 3K • ⏱️ 4:37 • 8h ago
+👁️ 31K • 👍 3K • 💬 3K • ⏱️ 4:37 • 9h ago
 
 ---
 
@@ -391,7 +391,7 @@ Asking for a Trend anchor, Josh Lipton breaks down the latest market news for Fe
 
 📺 Yahoo Finance
 
-👁️ 32K • 👍 353 • 💬 126 • ⏱️ 7:00 • 1d ago
+👁️ 32K • 👍 353 • 💬 126 • ⏱️ 7:00 • 2d ago
 
 ---
 

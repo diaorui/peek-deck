@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-02-04T22:30:29.713855+00:00'
+updated: '2026-02-04T22:54:57.166129+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- videos
-- news
 - cryptocurrency
 - social
+- videos
+- news
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** February 04, 2026 at 22:30 UTC  
+**Last Updated:** February 04, 2026 at 22:54 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -72,7 +72,7 @@ No max supply
 
 The long-term technical vision for Ethereum is undergoing a significant correction. : Get all the latest crypto news at Sandmark
 
-🔗 [Sandmark](https://www.sandmark.com/news/top-news/buterin-reframes-ethereum-strategy-scaling-focus-returns-base-layer?utm_medium=referral&utm_source=redbot&utm_campaign=redbot-ww-en-brand) • 8h ago
+🔗 [Sandmark](https://www.sandmark.com/news/top-news/buterin-reframes-ethereum-strategy-scaling-focus-returns-base-layer?utm_medium=referral&utm_source=redbot&utm_campaign=redbot-ww-en-brand) • 9h ago
 
 ---
 
@@ -94,7 +94,7 @@ I’d like a more technical and realistic analysis of Ethereum and how things ar
 
 **[Reframing Layer 2s: spectrum of trust models instead of “Ethereum scaling”](https://www.reddit.com/r/ethereum/comments/1qw043z/reframing_layer_2s_spectrum_of_trust_models/)**
 
-1h ago
+2h ago
 
 ---
 
@@ -102,7 +102,7 @@ I’d like a more technical and realistic analysis of Ethereum and how things ar
 
 Fellow Dudes! Does any one know when exactly real world assets such as property will be tokenizated and placed onto the Ethereum Blockchain?? and what countries have put in the necessary frame work to make this all legal and workable?? So that I could just buy up new property in a different country to me, then that property is turned into a ERC20 token kept in my wallet, and this is all recognised and legal and a financial product? also I know that the price of ETH has dropped heaps,.but this is when you buy more (not investment advice) 😑 cheers.
 
-13m ago
+38m ago
 
 ---
 
@@ -118,7 +118,7 @@ Hi all, as the title says, I transferred Ethereum to an external wallet about 9 
 
 Hi there, I was recently approached by someone who wanted to buy some of my digital artwork as NFT's using Ethereum, they seem to be legitimate and I have been very careful checking things out. I know very little about crypto and so far after watching several videos and an hours worth of Google searching I feel non the wiser! Is anyone here able to point me in the direction of a VERY beginner friendly guide to setting up an Ethereum wallet and turning that currency back into national currency? Thanks for any advice you guys can offer!
 
-3h ago
+4h ago
 
 ---
 
@@ -134,7 +134,7 @@ By Davide Crapis of the dAI Team Lead at Ethereum Foundation AI agents are alrea
 
 Been away from Ethereum from some time and would like to jump onboard again. It seems to me neutral opensource software will become increasingly relevant due to the changing world order and Ethereum will play a significant role. I'm particularly interested in how Ethereum can be used for daily payments via stablecoins. I would like to know if anyone is working on (1) on-chain oracles for currency exchange-rates and (2) stablecoins for developing nation currencies. My aim is to understand what kind of on-chain infrastructure needs to be there to enable normal people to transparently use Ethereum to pay for their morning coffee. Happy to discuss!
 
-11h ago
+12h ago
 
 ---
 
@@ -154,7 +154,7 @@ There have recently been some discussions on the ongoing role of L2s in the Ethe
 
 Leaders across the layer-2 space don't see this moment as an existential threat, but rather that Ethereum’s progress is forcing them to clarify their purpose.
 
-CoinDesk • 5h ago
+CoinDesk • 6h ago
 
 ---
 
@@ -268,7 +268,7 @@ RIPPLE XRPL ANNOUNCEMENT COULD CHANGE EVERYTHING. ETHEREUM WAS JUST SAVED BY VIT
 
 📺 CryptoWendyO
 
-👁️ 1K • 👍 147 • 💬 3 • ⏱️ 4:18 • 29m ago
+👁️ 1K • 👍 147 • 💬 3 • ⏱️ 4:18 • 53m ago
 
 ---
 
@@ -288,7 +288,7 @@ Get $450 Off Our New AI Indicators: https://tradeconfidentportal.io/indic... Joi
 
 📺 Trade Confident
 
-👁️ 120 • 👍 9 • 💬 23 • ⏱️ 5:53 • 1h ago
+👁️ 120 • 👍 9 • 💬 23 • ⏱️ 5:53 • 2h ago
 
 ---
 
