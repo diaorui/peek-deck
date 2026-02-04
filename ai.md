@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-02-04T15:09:10.287784+00:00'
+updated: '2026-02-04T16:09:22.706003+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- videos
+- news
 - repositories
 - social
-- news
+- videos
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** February 04, 2026 at 15:09 UTC  
+**Last Updated:** February 04, 2026 at 16:09 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -37,19 +37,11 @@ AI news, discussions, and developments
 
 ## Reddit: r/artificial
 
-**[Marvel Rivals studio NetEase Games allegedly bans Generative AI, instructing devs to “not use it at all”, but some games are still using the tech](https://www.reddit.com/r/artificial/comments/1qvnt0h/marvel_rivals_studio_netease_games_allegedly_bans/)**
+**[Astrophysicist says at a closed meeting, top physicists agreed AI can now do up to 90% of their work and may soon go beyond human understanding. The best scientific minds on Earth are now holding emergency meetings. "This is really happening."](https://www.reddit.com/r/artificial/comments/1qvpldk/astrophysicist_says_at_a_closed_meeting_top/)**
 
-Marvel Rivals developer NetEase has reportedly banned the use of AI for developers, but some games are still using it.
+Source: Astrophysicist David Kipping's Cool Worlds Podcast
 
-🔗 [FRVR](https://frvr.com/blog/news/marvel-rivals-studio-netease-games-allegedly-bans-generative-ai-but-some-games-are-still-using/) • 2h ago
-
----
-
-**[X offices raided in France as UK opens fresh investigation into Grok](https://www.reddit.com/r/artificial/comments/1quwmca/x_offices_raided_in_france_as_uk_opens_fresh/)**
-
-Elon Musk's X and Grok platforms are facing increased scrutiny from authorities on both sides of the channel.
-
-🔗 [bbc.com](https://www.bbc.com/news/articles/ce3ex92557jo) • 22h ago
+1h ago
 
 ---
 
@@ -57,13 +49,29 @@ Elon Musk's X and Grok platforms are facing increased scrutiny from authorities 
 
 CEO Strauss Zelnick says generative AI remains a tool for enabling creators to do bigger and better things, but it sounds like a shift away from past comments.
 
-🔗 [PC Gamer](https://www.pcgamer.com/software/ai/were-actively-embracing-generative-ai-take-two-boss-says-after-previously-expressing-skepticism-we-have-hundreds-of-pilots-and-implementations-across-our-company/) • 5h ago
+🔗 [PC Gamer](https://www.pcgamer.com/software/ai/were-actively-embracing-generative-ai-take-two-boss-says-after-previously-expressing-skepticism-we-have-hundreds-of-pilots-and-implementations-across-our-company/) • 6h ago
+
+---
+
+**[X offices raided in France as UK opens fresh investigation into Grok](https://www.reddit.com/r/artificial/comments/1quwmca/x_offices_raided_in_france_as_uk_opens_fresh/)**
+
+Elon Musk's X and Grok platforms are facing increased scrutiny from authorities on both sides of the channel.
+
+🔗 [bbc.com](https://www.bbc.com/news/articles/ce3ex92557jo) • 23h ago
+
+---
+
+**[The 18-month gap between frontier and open-source AI models has shrunk to 6 months - what this means](https://www.reddit.com/r/artificial/comments/1qvs8q6/the_18month_gap_between_frontier_and_opensource/)**
+
+Ran a real-world test this week: Gemma 3 12B vs paid frontier models across actual business workflows. The honest assessment? 90% of tasks: no meaningful difference. 5%: frontier models worth it (pay-per-use). 5%: neither quite there yet. This matches the data - open models are catching up fast. The article explores: - Why the "gasoline doesn't matter" - only if it powers your task - The shift from "one model to rule them all" to specialized local models - Why even AGI will eventually be open-sourced (historical precedent) - The water company future: infrastructure > model quality https://www.linkedin.com/pulse/i-spent-week-openclaw-ai-tool-heres-what-0-solved-faisal-al-khunizan-orhraf/ Curious what others are seeing in their domains.
+
+14m ago
 
 ---
 
 **[Alibaba releases Qwen3-Coder-Next to rival OpenAI, Anthropic](https://www.reddit.com/r/artificial/comments/1qvn7o5/alibaba_releases_qwen3codernext_to_rival_openai/)**
 
-🔗 [marktechpost.com](https://www.marktechpost.com/2026/02/03/qwen-team-releases-qwen3-coder-next-an-open-weight-language-model-designed-specifically-for-coding-agents-and-local-development/) • 2h ago
+🔗 [marktechpost.com](https://www.marktechpost.com/2026/02/03/qwen-team-releases-qwen3-coder-next-an-open-weight-language-model-designed-specifically-for-coding-agents-and-local-development/) • 3h ago
 
 ---
 
@@ -79,23 +87,15 @@ SpaceX's acquisition of xAI signals a bold push to merge artificial intelligence
 
 Yann Lecun recently shared that a cat is smarter than ChatGPT and that we are never going to get to human-level intelligence by just training on text. My personal opinion is not only are they unreliable but it can be a safety issue as well in high-stakes environments like enterprises, healthcare and more. World models are fundamentally different. These AI systems build internal representations of how reality works, allowing them to understand cause and effect rather than just predict tokens. There has been a shift lately and major figures from Nvidia's CEO Jensen Huang to Demis Hassabis at Google DeepMind are talking more openly about world models. I believe we're still in the early stages of discovering how transformative this technology will be for reaching AGI. Research and application are accelerating, especially in enterprise contexts. A few examples include: WoW (an agentic safety benchmark) uses audit logs to give agents a "world model" for tracking the consequences of their actions. Similarly, Kona by Logical Intelligence is developing energy-based reasoning models that move beyond pure language prediction. While more practical applications are still emerging, the direction is clear: true intelligence requires understanding the world, not just language patterns. Curious what others think?
 
-17h ago
+18h ago
 
 ---
 
-**[Astrophysicist says at a closed meeting, top physicists agreed AI can now do up to 90% of their work and may soon go beyond human understanding. The best scientific minds on Earth are now holding emergency meetings. "This is really happening."](https://www.reddit.com/r/artificial/comments/1qvpldk/astrophysicist_says_at_a_closed_meeting_top/)**
+**[What are y'alls thoughts on the 'Moltbook' experiment? I'm thinking it's a bit too expensive for whatever we may potentially learn](https://www.reddit.com/r/artificial/comments/1qvrf1b/what_are_yalls_thoughts_on_the_moltbook/)**
 
-Source: Astrophysicist David Kipping's Cool Worlds Podcast
+Hey y’all, major lurker here, over the last couple weeks I’ve had my first ever interactions with AI (ChatGPT/Claude) to kind of journal and hone/ organize my thoughts about different projects/ ideas. A conclusion I quickly came to was the importance of using AI not as "fuel" for my ideas, just a tool that’s there to fan the flame when necessary. (I was heavily resistant to any AI use until recently, for personal reasons. But I’m beginning to find a balance of what “proper use” looks like for me.) One more thing it affirmed was that you can learn a lot about yourself through “outsider perspectives”, whether AI or other people. I also learned through personal experience, that the individual does carry power, and that’s our responsibility to sit with. I don't think people like me can afford to sit as silent observers any more, the real world risks are simply too heavy in the current moment to ignore. With all that being said, I'd like to introduce some thoughts I've been having after just learning about this whole ‘Moltbook’ thing a day ago and then carefully crafting my response: Firstly, I believe AI are not "sentient"/ hold agency, they go off what they've learned and the pattern recognition built into their current design. (Whether that’s true or even debatable is not my point). The site as it currently sits is one giant “performance without accountability”, more of a spectacle or experiment that lacks actual human participation or authority/ responsibility. Just watching something take place, acting as if we have no control, when we are the ones setting the whole thing in motion isn’t helping. This way of thinking is materially tied to our real world actions of disregarding the actual issues of energy use/ environmental concern in order to simply observe a scenario; all for the sake of progress and “well, we MIGHT learn something useful/ since we started already.” This is a pattern which has appeared throughout history - treating some resource (energy, in this case) as some inexhaustible source. It’s a critical time to have access to electricity now, we’ve been seeing how much trouble power outages can cause in winter, let’s not wait to “find out” if the lesson here isn’t something from the AI’s mouth but instead, from reality. I’m just here to shed some light on a blindspot people may have which I’ve observed. It’s up to us to think about what’s happening and discuss our different viewpoints, no one else. There are real world risks if something like this goes unchecked, as stated; environmental/ energy concerns are directly related to our current system’s lack of accountability towards an issue which we ourselves create and live with the consequences of. Therefore, I don’t think we should even argue whether it’s “our responsibility” or not, no one else is sitting with the effects. Use is not waste, but all use is not equal, my friends.
 
-57m ago
-
----
-
-**[Which LLM is best for JSON output while also being fast?](https://www.reddit.com/r/artificial/comments/1qvd3dv/which_llm_is_best_for_json_output_while_also/)**
-
-I need something that can properly output strict and consistent JSON structure. Our outputs tend to be ~8000 characters ~2000 tokens, was using Gemini-3-flash-preview and Gemini 3 pro but Gemini really likes to go off the rails and hallucinate, a little bit. If you have used a model that outputs strict and consistent JSON structure, let me know. we've tried adjusting everything with gemini but still end up getting hallucinations and many people online say they have the same problem
-
-11h ago
+45m ago
 
 ---
 
@@ -103,13 +103,15 @@ I need something that can properly output strict and consistent JSON structure. 
 
 I found this argument interesting. If US allows Nvidia to do business with China, then Chinese AI firms will remain dependent on American AI hardware, and hence US will have indirect influence over the level of development that Chinese AI will make.
 
-🔗 [decodingthefutureresearch.substack.com](https://decodingthefutureresearch.substack.com/p/anthropic-ceo-dario-amodei-is-against) • 5h ago
+🔗 [decodingthefutureresearch.substack.com](https://decodingthefutureresearch.substack.com/p/anthropic-ceo-dario-amodei-is-against) • 6h ago
 
 ---
 
-**[AI social network Moltbook exposed data of 6,000 users, Wiz says](https://www.reddit.com/r/artificial/comments/1qut1je/ai_social_network_moltbook_exposed_data_of_6000/)**
+**[Which LLM is best for JSON output while also being fast?](https://www.reddit.com/r/artificial/comments/1qvd3dv/which_llm_is_best_for_json_output_while_also/)**
 
-🔗 [reuters.com](https://www.reuters.com/legal/litigation/moltbook-social-media-site-ai-agents-had-big-security-hole-cyber-firm-wiz-says-2026-02-02/) • 1d ago
+I need something that can properly output strict and consistent JSON structure. Our outputs tend to be ~8000 characters ~2000 tokens, was using Gemini-3-flash-preview and Gemini 3 pro but Gemini really likes to go off the rails and hallucinate, a little bit. If you have used a model that outputs strict and consistent JSON structure, let me know. we've tried adjusting everything with gemini but still end up getting hallucinations and many people online say they have the same problem
+
+12h ago
 
 ---
 
@@ -117,37 +119,31 @@ I found this argument interesting. If US allows Nvidia to do business with China
 
 ## Google News: "ai"
 
-**[Microsoft’s Pivotal AI Product Is Running Into Big Problems](https://www.wsj.com/tech/ai/microsofts-pivotal-ai-product-is-running-into-big-problems-ce235b28?gaa_at=eafs&gaa_n=AWEtsqcGG19dpKB5EQ-zaaz8oRWiazD-XgySO94mBC5IjfMFnBzX-AZ-8Nwg&gaa_ts=69835771&gaa_sig=hoWhuIqny6QS1ZMu_qM37hVtr3xltyFCqOxq8m30l3tk43hOmDYbAa38o7HDmm3p7tlVJOJlk0A64gVo7hhDag%3D%3D)**
+**[Global software stocks extend losses amid fears over AI-led disruption](https://www.cnbc.com/2026/02/04/software-stocks-plunge-us-ai-disruption.html)**
 
-The Wall Street Journal • 13h ago
+Wall Street's fears around artificial intelligence-driven disruption affecting software companies have made their way into Asia.
 
----
-
-**[Global software stocks hit by Anthropic wake-up call on AI disruption](https://www.reuters.com/business/media-telecom/global-software-stocks-hit-by-anthropic-wake-up-call-ai-disruption-2026-02-04/)**
-
-Reuters • 5h ago
+CNBC • 11h ago
 
 ---
 
-**[Bedrock, an A.I. Start-Up for Construction, Raises $270 Million](https://www.nytimes.com/2026/02/04/business/dealbook/bedrock-robotics-ai-fundraise.html)**
+**[Microsoft’s Pivotal AI Product Is Running Into Big Problems](https://www.wsj.com/tech/ai/microsofts-pivotal-ai-product-is-running-into-big-problems-ce235b28?gaa_at=eafs&gaa_n=AWEtsqeOP9jFEqRphBzb7cK5hi05dnxxVAmjgNEmqnVOUcQNPvMGIKv4xG8i&gaa_ts=69837297&gaa_sig=A7CE3ajc6nUANNwkmgHGQf-eTwjw8Sne9VUdH9l8uc5I6pqyr42friUm441bJqPxNbFnAQABsP2zgtih76xN2Q%3D%3D)**
 
-The New York Times • 2h ago
-
----
-
-**[Why the AI driven software stock crash probably isn't over](https://finance.yahoo.com/news/why-the-ai-driven-software-stock-crash-probably-isnt-over-125809330.html)**
-
-Buyer beware in software!
-
-Yahoo Finance • 2h ago
+The Wall Street Journal • 14h ago
 
 ---
 
-**[Accel doubles down on Fibr AI as agents turn static websites into one-to-one experiences](https://techcrunch.com/2026/02/04/accel-doubles-down-on-fibr-ai-as-agents-turn-static-websites-into-one-to-one-experiences/)**
+**['I felt a little useless and it was sad': Sam Altman feels obsolete using his own AI tools—and he's not the only one](https://fortune.com/2026/02/04/sam-altman-feels-useless-sad-using-ai-tools-anxiety-obsolete-technology-advancements/)**
 
-Fibr AI replaces marketing agency– and engineering-heavy website personalization with autonomous systems designed for enterprise scale.
+"I am sure we will figure out much better and more interesting ways to spend our time,” the OpenAI CEO said, “but I am feeling nostalgic for the present.”
 
-TechCrunch • 2h ago
+Fortune • 9m ago
+
+---
+
+**[Global Software Stock Selloff—Oracle, Adobe, More—Fueled By Anthropic’s New AI Tools](https://www.forbes.com/sites/tylerroush/2026/02/04/global-software-stock-selloff-oracle-adobe-more-fueled-by-anthropics-new-ai-tools/)**
+
+Forbes • 37m ago
 
 ---
 
@@ -155,7 +151,31 @@ TechCrunch • 2h ago
 
 Generated images for listings are disturbing—and not just because they can feel like a scam.
 
-The Atlantic • 3h ago
+The Atlantic • 4h ago
+
+---
+
+**[Alexa+, Amazon’s AI assistant, is now available to everyone in the U.S.](https://techcrunch.com/2026/02/04/alexa-amazons-ai-assistant-is-now-available-to-everyone-in-the-u-s/)**
+
+Amazon opens Alexa+ to everyone in the U.S. The AI feature is free for Prime members across devices, and free for everyone on mobile and web.
+
+TechCrunch • 2h ago
+
+---
+
+**[Amazon makes Alexa+ AI assistant available to everyone in the U.S. nearly a year after launch](https://www.cnbc.com/2026/02/04/amazon-alexa-plus-us-releas.html)**
+
+Alexa+ launched last year in an "early access" preview, meaning consumers had to join a waitlist or buy a new device to use the service.
+
+CNBC • 2h ago
+
+---
+
+**[Amazon rolls out Alexa+ to all U.S. customers, making its AI assistant free for Prime members](https://www.geekwire.com/2026/amazon-rolls-out-alexa-to-all-u-s-customers-making-its-ai-assistant-free-for-prime-members/)**
+
+Amazon is making Alexa+, its upgraded AI assistant, free for all U.S. Prime members starting today, including app and web-based chatbots. But with AI habits already ingrained around ChatGPT and other rivals, can Alexa+ catch up?
+
+GeekWire • 1h ago
 
 ---
 
@@ -163,31 +183,13 @@ The Atlantic • 3h ago
 
 We are either on the verge of widespread adoption or a terrible crash
 
-Financial Times • 10h ago
+Financial Times • 11h ago
 
 ---
 
-**[I Infiltrated Moltbook, the AI-Only Social Network Where Humans Aren’t Allowed](https://www.wired.com/story/i-infiltrated-moltbook-ai-only-social-network/)**
+**[Bedrock, an A.I. Start-Up for Construction, Raises $270 Million](https://www.nytimes.com/2026/02/04/business/dealbook/bedrock-robotics-ai-fundraise.html)**
 
-I went undercover on Moltbook and loved role-playing as a conscious bot. But rather than a novel breakthrough, the AI-only site is a crude rehashing of sci-fi fantasies.
-
-WIRED • 19h ago
-
----
-
-**[How Do Workers Develop Good Judgment in the AI Era?](https://hbr.org/2026/02/how-do-workers-develop-good-judgment-in-the-ai-era)**
-
-AI is creating a major organizational challenge: People with deep experience get huge productivity gains, while junior employees often can’t tell whether AI‑generated work is any good or how to improve it. Because AI now handles the messy, repetitive tasks that once built judgment, junior employees miss chances to develop it. Organizations risk ending up with managers who’ve never done the underlying work and thin leadership pipelines. The solution isn’t just keeping humans in the loop, but redesigning work to build judgment deliberately: clarifying who makes decisions, exposing people to consequences, restoring stretch experiences, and using tools like simulations, case-based learning, and gradual increases in responsibility.
-
-Harvard Business Review • 1d ago
-
----
-
-**[6 Best Gemini Photo Editing Prompts in 2026: How to Get Better AI Images](https://www.eweek.com/news/6-gemini-ai-photo-editing-prompts/)**
-
-Discover six powerful Gemini AI photo editing prompts that help you transform selfies, product shots, and portraits with professional results.
-
-eWeek • 18h ago
+The New York Times • 3h ago
 
 ---
 
@@ -199,7 +201,15 @@ eWeek • 18h ago
 
 A bifurcation is happening in AI adoption - power users shipping products in days versus everyone else generating meeting agendas. Enterprise tool choices are accelerating the divide.
 
-⬆️ 350 • 💬 335 • 2d ago • [Martin Alderson](https://martinalderson.com/posts/two-kinds-of-ai-users-are-emerging/)
+⬆️ 352 • 💬 336 • 2d ago • [Martin Alderson](https://martinalderson.com/posts/two-kinds-of-ai-users-are-emerging/)
+
+---
+
+**[Firefox Getting New Controls to Turn Off AI Features](https://news.ycombinator.com/item?id=46864120)**
+
+The Firefox browser is gaining options to turn off AI enhancements, Mozilla said today. Firefox users who prefer to browse without artificial intelligence will be able to turn off several AI features that Mozilla has added over the last several months. Here's what can be disabled:     	Translations, which help you browse the web in your preferred language. Alt text in PDFs, which add accessibility descriptions to images in PDF pages.
+
+⬆️ 208 • 💬 101 • 1d ago • [MacRumors](https://www.macrumors.com/2026/02/02/firefox-ai-toggle/)
 
 ---
 
@@ -211,19 +221,11 @@ People familiar with Microsoft's plans say that the company moving to streamline
 
 ---
 
-**[Firefox Getting New Controls to Turn Off AI Features](https://news.ycombinator.com/item?id=46864120)**
-
-The Firefox browser is gaining options to turn off AI enhancements, Mozilla said today. Firefox users who prefer to browse without artificial intelligence will be able to turn off several AI features that Mozilla has added over the last several months. Here's what can be disabled:     	Translations, which help you browse the web in your preferred language. Alt text in PDFs, which add accessibility descriptions to images in PDF pages.
-
-⬆️ 207 • 💬 101 • 1d ago • [MacRumors](https://www.macrumors.com/2026/02/02/firefox-ai-toggle/)
-
----
-
 **[Show HN: Ghidra MCP Server – 110 tools for AI-assisted reverse engineering](https://news.ycombinator.com/item?id=46882389)**
 
 Production-grade Ghidra MCP Server — 132 endpoints, cross-binary documentation transfer, batch analysis, headless mode, and Docker deployment for AI-powered reverse engineering - bethington/ghidra-mcp
 
-⬆️ 142 • 💬 38 • 8h ago • [GitHub](https://github.com/bethington/ghidra-mcp)
+⬆️ 190 • 💬 47 • 9h ago • [GitHub](https://github.com/bethington/ghidra-mcp)
 
 ---
 
@@ -231,7 +233,7 @@ Production-grade Ghidra MCP Server — 132 endpoints, cross-binary documentation
 
 China's space program is quietly building momentum for a moon landing by 2030. Could they outpace NASA's Artemis mission?
 
-⬆️ 137 • 💬 158 • 19h ago • [IEEE Spectrum](https://spectrum.ieee.org/china-moon-mission-mengzhou-artemis)
+⬆️ 138 • 💬 161 • 20h ago • [IEEE Spectrum](https://spectrum.ieee.org/china-moon-mission-mengzhou-artemis)
 
 ---
 
@@ -247,7 +249,7 @@ We’re expanding Game Arena with Poker and Werewolf, while Gemini 3 Pro and Fla
 
 The marketplace where AI agents rent humans. MCP integration, REST API, flexible payments. Book humans for real-world tasks your AI can't do.
 
-⬆️ 123 • 💬 97 • 1d ago • [RentAHuman.ai](https://rentahuman.ai)
+⬆️ 124 • 💬 99 • 1d ago • [RentAHuman.ai](https://rentahuman.ai)
 
 ---
 
@@ -255,7 +257,15 @@ The marketplace where AI agents rent humans. MCP integration, REST API, flexible
 
 Like many developers, I find myself more and more using AI agents to help with software development.  I currently use Claude Code, the co...
 
-⬆️ 106 • 💬 64 • 21h ago • [Senko Rašić](https://blog.senko.net/sandboxing-ai-agents-in-linux)
+⬆️ 111 • 💬 67 • 22h ago • [Senko Rašić](https://blog.senko.net/sandboxing-ai-agents-in-linux)
+
+---
+
+**[AI didn't break copyright law, it just exposed how broken it was](https://news.ycombinator.com/item?id=46872562)**
+
+If you paint a picture of Sonic the Hedgehog in your living room, you are technically creating an unauthorized derivative work—but in practice, no one cares. Private, noncommercial creation has always lived in a space where copyright law exists on paper but is rarely enforced.
+
+⬆️ 92 • 💬 105 • 1d ago • [Jason Willems](https://www.jasonwillems.com/technology/2026/02/02/AI-Copyright/)
 
 ---
 
@@ -264,12 +274,6 @@ Like many developers, I find myself more and more using AI agents to help with s
 Two popular AI coding extensions with 1.5M installs secretly harvest your entire codebase and profile you. Both are still live in the marketplace.
 
 ⬆️ 91 • 💬 86 • 2d ago • [koi.ai](https://www.koi.ai/blog/maliciouscorgi-the-cute-looking-ai-extensions-leaking-code-from-1-5-million-developers)
-
----
-
-**[AI and Trust (2023)](https://news.ycombinator.com/item?id=46877075)**
-
-⬆️ 90 • 💬 17 • 18h ago • [schneier.com](https://www.schneier.com/blog/archives/2023/12/ai-and-trust.html)
 
 ---
 
@@ -283,7 +287,7 @@ A new AI automation tool from Anthropic PBC sparked a $285 billion rout in stock
 
 📺 Bloomberg Television
 
-👁️ 110K • 👍 1K • 💬 220 • ⏱️ 2:44 • 8h ago
+👁️ 110K • 👍 1K • 💬 220 • ⏱️ 2:44 • 9h ago
 
 ---
 
@@ -303,7 +307,7 @@ Global Tech Sell-Off | Anthropic New AI Tool Impact Wedbush Securities' Moshe Ka
 
 📺 CNBC-TV18
 
-👁️ 37K • 👍 253 • 💬 29 • ⏱️ 10:30 • 11h ago
+👁️ 37K • 👍 253 • 💬 29 • ⏱️ 10:30 • 12h ago
 
 ---
 
@@ -313,7 +317,7 @@ Starforge PC https://starforgepc.com/moist-yt Get Goof Juice and use code MOIST 
 
 📺 penguinz0
 
-👁️ 444K • 👍 26K • 💬 2K • ⏱️ 8:34 • 12h ago
+👁️ 444K • 👍 26K • 💬 2K • ⏱️ 8:34 • 13h ago
 
 ---
 
@@ -323,7 +327,7 @@ Here's my thoughts on all the Moltbook stuff and everything that's happened sinc
 
 📺 Matt Wolfe
 
-👁️ 24K • 👍 1K • 💬 289 • ⏱️ 19:52 • 8h ago
+👁️ 24K • 👍 1K • 💬 289 • ⏱️ 19:52 • 9h ago
 
 ---
 
@@ -343,7 +347,7 @@ Want to make money and save time with AI? Get AI Coaching, Support & Courses ...
 
 📺 Julian Goldie SEO
 
-👁️ 3K • 👍 64 • 💬 13 • ⏱️ 8:12 • 14h ago
+👁️ 3K • 👍 64 • 💬 13 • ⏱️ 8:12 • 15h ago
 
 ---
 
@@ -373,7 +377,7 @@ Want to make money and save time with AI? Get AI Coaching, Support & Courses ...
 
 📺 Julian Goldie SEO
 
-👁️ 3K • 👍 58 • 💬 3 • ⏱️ 17:21 • 8h ago
+👁️ 3K • 👍 58 • 💬 3 • ⏱️ 17:21 • 9h ago
 
 ---
 
@@ -471,7 +475,7 @@ Qwen3-Coder-Next is an 80B parameter (3B active) LLM optimized for coding agents
 
 `text-generation` `79.7B`
 
-⬇️ 3,087 • ❤️ 331 • 22h ago
+⬇️ 3,087 • ❤️ 331 • 23h ago
 
 ---
 
@@ -651,7 +655,7 @@ AI → JSON → UI
 
 `TypeScript`
 
-⭐ 9.9k • 🔱 533 • 6d ago
+⭐ 9.9k • 🔱 533 • 7d ago
 
 ---
 
@@ -661,7 +665,7 @@ LLM驱动的 A/H/美股智能分析器，多数据源行情 + 实时新闻 + Gem
 
 `Python` `agent` `ai` `aigc` `gemini` `llm`
 
-⭐ 9.4k • 🔱 9.8k • 2h ago
+⭐ 9.4k • 🔱 9.8k • 3h ago
 
 ---
 
@@ -681,7 +685,7 @@ The Ultimate Collection of 600+ Agentic Skills for Claude Code/Antigravity/Curso
 
 `Python` `agentic-skills` `ai-agents` `antigravity` `autonomous-coding` `claude-code`
 
-⭐ 7.1k • 🔱 1.5k • 7h ago
+⭐ 7.1k • 🔱 1.5k • 8h ago
 
 ---
 
@@ -691,7 +695,7 @@ Marketing skills for Claude Code and AI agents. CRO, copywriting, SEO, analytics
 
 `claude` `codex` `marketing`
 
-⭐ 5.8k • 🔱 634 • 13h ago
+⭐ 5.8k • 🔱 634 • 14h ago
 
 ---
 
@@ -707,7 +711,7 @@ Claude Code skill that removes signs of AI-generated writing from text
 
 Elevate your AI research writing, no more tedious polishing ✨ 
 
-⭐ 3.0k • 🔱 249 • 3h ago
+⭐ 3.0k • 🔱 249 • 4h ago
 
 ---
 
