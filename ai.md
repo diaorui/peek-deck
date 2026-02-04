@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-02-04T19:22:47.397300+00:00'
+updated: '2026-02-04T19:58:24.064070+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
+- social
+- videos
 - repositories
 - news
-- videos
-- social
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** February 04, 2026 at 19:22 UTC  
+**Last Updated:** February 04, 2026 at 19:58 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -41,7 +41,7 @@ AI news, discussions, and developments
 
 Ran a real-world test this week: Gemma 3 12B vs paid frontier models across actual business workflows. The honest assessment? 90% of tasks: no meaningful difference. 5%: frontier models worth it (pay-per-use). 5%: neither quite there yet. This matches the data - open models are catching up fast. The article explores: - Why the "gasoline doesn't matter" - only if it powers your task - The shift from "one model to rule them all" to specialized local models - Why even AGI will eventually be open-sourced (historical precedent) - The water company future: infrastructure > model quality https://www.linkedin.com/pulse/i-spent-week-openclaw-ai-tool-heres-what-0-solved-faisal-al-khunizan-orhraf/ Curious what others are seeing in their domains.
 
-3h ago
+4h ago
 
 ---
 
@@ -73,7 +73,7 @@ Elon Musk's X and Grok platforms are facing increased scrutiny from authorities 
 
 It highlights a hilarious paradox: we have futuristic organ transplants, yet hospitals still run on fax machines and pagers (even drug dealers ditched those in the 90s). They cover: AI Scribes: Finally ending "pyjama time" (doctors typing notes all night instead of sleeping). Diagnostics: AI finding heart disease in simple EKGs that humans completely miss. The Empathy Gap: Patients actually rated AI chatbots as more empathetic than busy human doctors. Ouch. It’s a grounded look at AI actually saving lives—assuming the doctors don’t forget how to do their jobs when the Wi-Fi goes down. Post by a LLM.
 
-🔗 [freakonomics.com](https://freakonomics.com/podcast/can-a-i-save-your-life/) • 3m ago
+🔗 [freakonomics.com](https://freakonomics.com/podcast/can-a-i-save-your-life/) • 38m ago
 
 ---
 
@@ -89,13 +89,13 @@ SpaceX's acquisition of xAI signals a bold push to merge artificial intelligence
 
 Yann Lecun recently shared that a cat is smarter than ChatGPT and that we are never going to get to human-level intelligence by just training on text. My personal opinion is not only are they unreliable but it can be a safety issue as well in high-stakes environments like enterprises, healthcare and more. World models are fundamentally different. These AI systems build internal representations of how reality works, allowing them to understand cause and effect rather than just predict tokens. There has been a shift lately and major figures from Nvidia's CEO Jensen Huang to Demis Hassabis at Google DeepMind are talking more openly about world models. I believe we're still in the early stages of discovering how transformative this technology will be for reaching AGI. Research and application are accelerating, especially in enterprise contexts. A few examples include: WoW (an agentic safety benchmark) uses audit logs to give agents a "world model" for tracking the consequences of their actions. Similarly, Kona by Logical Intelligence is developing energy-based reasoning models that move beyond pure language prediction. While more practical applications are still emerging, the direction is clear: true intelligence requires understanding the world, not just language patterns. Curious what others think?
 
-21h ago
+22h ago
 
 ---
 
 **[Alibaba releases Qwen3-Coder-Next to rival OpenAI, Anthropic](https://www.reddit.com/r/artificial/comments/1qvn7o5/alibaba_releases_qwen3codernext_to_rival_openai/)**
 
-🔗 [marktechpost.com](https://www.marktechpost.com/2026/02/03/qwen-team-releases-qwen3-coder-next-an-open-weight-language-model-designed-specifically-for-coding-agents-and-local-development/) • 6h ago
+🔗 [marktechpost.com](https://www.marktechpost.com/2026/02/03/qwen-team-releases-qwen3-coder-next-an-open-weight-language-model-designed-specifically-for-coding-agents-and-local-development/) • 7h ago
 
 ---
 
@@ -111,7 +111,7 @@ I need something that can properly output strict and consistent JSON structure. 
 
 I found this argument interesting. If US allows Nvidia to do business with China, then Chinese AI firms will remain dependent on American AI hardware, and hence US will have indirect influence over the level of development that Chinese AI will make.
 
-🔗 [decodingthefutureresearch.substack.com](https://decodingthefutureresearch.substack.com/p/anthropic-ceo-dario-amodei-is-against) • 9h ago
+🔗 [decodingthefutureresearch.substack.com](https://decodingthefutureresearch.substack.com/p/anthropic-ceo-dario-amodei-is-against) • 10h ago
 
 ---
 
@@ -121,7 +121,7 @@ I found this argument interesting. If US allows Nvidia to do business with China
 
 **[As software stocks slump, investors debate AI's existential threat](https://www.reuters.com/business/media-telecom/global-software-stocks-hit-by-anthropic-wake-up-call-ai-disruption-2026-02-04/)**
 
-Reuters • 9h ago
+Reuters • 10h ago
 
 ---
 
@@ -135,7 +135,7 @@ The Wall Street Journal • 17h ago
 
 Axiom says its AI found solutions to several long-standing math problems, a sign of the technology’s steadily advancing reasoning capabilities.
 
-WIRED • 22m ago
+WIRED • 58m ago
 
 ---
 
@@ -143,7 +143,7 @@ WIRED • 22m ago
 
 Security researchers found hundreds of malicious add-ons on ClawHub.
 
-theverge.com • 19m ago
+theverge.com • 54m ago
 
 ---
 
@@ -151,7 +151,7 @@ theverge.com • 19m ago
 
 The accomplishment demonstrates real potential for future autonomous exploration and real-time decision making.
 
-extremetech.com • 26m ago
+extremetech.com • 1h ago
 
 ---
 
@@ -207,7 +207,7 @@ A bifurcation is happening in AI adoption - power users shipping products in day
 
 Production-grade Ghidra MCP Server — 132 endpoints, cross-binary documentation transfer, batch analysis, headless mode, and Docker deployment for AI-powered reverse engineering - bethington/ghidra-mcp
 
-⬆️ 234 • 💬 60 • 12h ago • [GitHub](https://github.com/bethington/ghidra-mcp)
+⬆️ 234 • 💬 60 • 13h ago • [GitHub](https://github.com/bethington/ghidra-mcp)
 
 ---
 
@@ -231,7 +231,7 @@ People familiar with Microsoft's plans say that the company moving to streamline
 
 China's space program is quietly building momentum for a moon landing by 2030. Could they outpace NASA's Artemis mission?
 
-⬆️ 146 • 💬 168 • 23h ago • [IEEE Spectrum](https://spectrum.ieee.org/china-moon-mission-mengzhou-artemis)
+⬆️ 146 • 💬 168 • 1d ago • [IEEE Spectrum](https://spectrum.ieee.org/china-moon-mission-mengzhou-artemis)
 
 ---
 
@@ -269,7 +269,7 @@ If you paint a picture of Sonic the Hedgehog in your living room, you are techni
 
 **[AI and Trust (2023)](https://news.ycombinator.com/item?id=46877075)**
 
-⬆️ 94 • 💬 19 • 22h ago • [schneier.com](https://www.schneier.com/blog/archives/2023/12/ai-and-trust.html)
+⬆️ 94 • 💬 19 • 23h ago • [schneier.com](https://www.schneier.com/blog/archives/2023/12/ai-and-trust.html)
 
 ---
 
@@ -277,93 +277,13 @@ If you paint a picture of Sonic the Hedgehog in your living room, you are techni
 
 ## YouTube Videos: "ai"
 
-**[Anthropic AI Tool Sparks Stocks Selloff](https://www.youtube.com/watch?v=lbITsEcSb68)**
-
-A new AI automation tool from Anthropic PBC sparked a $285 billion rout in stocks across the software, financial services and ...
-
-📺 Bloomberg Television
-
-👁️ 171K • 👍 2K • 💬 300 • ⏱️ 2:44 • 12h ago
-
----
-
 **[AI Agents are talking to each other. Humans are obsolete.](https://www.youtube.com/watch?v=qo9GWl-5SwA)**
 
 FormerNetworkExec #CallMeChato #moltbook Moltbook will rule the world. Thanks for watching my channel. Please subscribe ...
 
 📺 Call me Chato
 
-👁️ 7K • 👍 1K • 💬 284 • ⏱️ 8:37 • 19h ago
-
----
-
-**[Anthropic&#39;s New AI Tool Deepens Sell-Off In Tech Stocks, Threatens IT Services&#39; Core Businesses](https://www.youtube.com/watch?v=iMucS9AGFiA)**
-
-Global Tech Sell-Off | Anthropic New AI Tool Impact Wedbush Securities' Moshe Katri says, - Sell-off looks overdone, supported ...
-
-📺 CNBC-TV18
-
-👁️ 49K • 👍 310 • 💬 33 • ⏱️ 10:30 • 16h ago
-
----
-
-**[5 AI CEOs Just Said The Same Thing](https://www.youtube.com/watch?v=kMivoKHHkxQ)**
-
-Rebellionaire: https://www.rebellionaire.com/farzad Join my exclusive community: https://farzad.fm Buy Matic: ...
-
-📺 Farzad
-
-👁️ 335K • 👍 11K • 💬 2K • ⏱️ 23:45 • 2d ago
-
----
-
-**[New OpenAI Tool DESTROYS Google AI Studio?](https://www.youtube.com/watch?v=m_-s4yb_F94)**
-
-Want to make money and save time with AI? Get AI Coaching, Support & Courses ...
-
-📺 Julian Goldie SEO
-
-👁️ 3K • 👍 67 • 💬 13 • ⏱️ 8:12 • 18h ago
-
----
-
-**[Why Replacing Developers with AI is Going Horribly Wrong](https://www.youtube.com/watch?v=WfjGZCuxl-U)**
-
-jobmarket #ai #tech In 2026, the promise of AI replacing 80% of developers has collapsed into a $61 billion technical debt crisis ...
-
-📺 Mackard
-
-👁️ 137K • 👍 5K • 💬 659 • ⏱️ 8:12 • 1d ago
-
----
-
-**[Claude Sonnet 5: Greatest AI Coding Model Ever! 1M Context, Cheap, &amp; More! (Early Test)](https://www.youtube.com/watch?v=_87CirMQ1FM)**
-
-In this early test, we dive deep into Claude Sonnet 5, exploring why it's being hailed as one of the greatest AI coding models ever.
-
-📺 WorldofAI
-
-👁️ 29K • 👍 930 • 💬 90 • ⏱️ 11:44 • 12h ago
-
----
-
-**[AI Old People Channels Are Huge Now](https://www.youtube.com/watch?v=79tyYzZemLM)**
-
-Starforge PC https://starforgepc.com/moist-yt Get Goof Juice and use code MOIST https://gamersupps.gg/moist Our soap ...
-
-📺 penguinz0
-
-👁️ 509K • 👍 29K • 💬 2K • ⏱️ 8:34 • 16h ago
-
----
-
-**[AI Singularity Moment Just Hit: Moltbook AI Behavior Freaks People Out](https://www.youtube.com/watch?v=XG_rsEzwMTA)**
-
-A new AI platform called Moltbook suddenly exploded online, and it is built entirely for AI agents to talk to each other. Thousands ...
-
-📺 AI Revolution
-
-👁️ 91K • 👍 3K • 💬 480 • ⏱️ 11:48 • 2d ago
+👁️ 7K • 👍 1K • 💬 305 • ⏱️ 8:37 • 20h ago
 
 ---
 
@@ -373,7 +293,87 @@ Here's my thoughts on all the Moltbook stuff and everything that's happened sinc
 
 📺 Matt Wolfe
 
-👁️ 33K • 👍 2K • 💬 336 • ⏱️ 19:52 • 12h ago
+👁️ 41K • 👍 2K • 💬 378 • ⏱️ 19:52 • 13h ago
+
+---
+
+**[5 AI CEOs Just Said The Same Thing](https://www.youtube.com/watch?v=kMivoKHHkxQ)**
+
+Rebellionaire: https://www.rebellionaire.com/farzad Join my exclusive community: https://farzad.fm Buy Matic: ...
+
+📺 Farzad
+
+👁️ 347K • 👍 12K • 💬 2K • ⏱️ 23:45 • 2d ago
+
+---
+
+**[Why Replacing Developers with AI is Going Horribly Wrong](https://www.youtube.com/watch?v=WfjGZCuxl-U)**
+
+jobmarket #ai #tech In 2026, the promise of AI replacing 80% of developers has collapsed into a $61 billion technical debt crisis ...
+
+📺 Mackard
+
+👁️ 171K • 👍 5K • 💬 748 • ⏱️ 8:12 • 1d ago
+
+---
+
+**[NEW Chinese AI DESTROYS Google Genie? (FREE + OpenSOURCE!)](https://www.youtube.com/watch?v=iGvTs_xUHVo)**
+
+Want to make money and save time with AI? Get AI Coaching, Support & Courses ...
+
+📺 Julian Goldie SEO
+
+👁️ 2K • 👍 84 • 💬 7 • ⏱️ 10:42 • 6h ago
+
+---
+
+**[Shocking AI reveal crashes market](https://www.youtube.com/watch?v=Rb3JFYhXFl4)**
+
+Become a member! ✓ https://www.youtube.com/channel/UCahJ9IsvXnaQiuNyWQSkrkw/join ⭐ Support independent daily news ...
+
+📺 Chris Norlund
+
+👁️ 169K • 👍 10K • 💬 2K • ⏱️ 15:48 • 20h ago
+
+---
+
+**[You&#39;re Not Behind Yet: How to Start Making AI Videos in 17 Minutes](https://www.youtube.com/watch?v=qMS1S_y10DQ)**
+
+Create AI Videos with OpenArt https://youricreates.com/start In this video, I break down a simple 3-step roadmap that takes you ...
+
+📺 Youri van Hofwegen
+
+👁️ 7K • 💬 7 • ⏱️ 17:16 • 3h ago
+
+---
+
+**[AI Singularity Moment Just Hit: Moltbook AI Behavior Freaks People Out](https://www.youtube.com/watch?v=XG_rsEzwMTA)**
+
+A new AI platform called Moltbook suddenly exploded online, and it is built entirely for AI agents to talk to each other. Thousands ...
+
+📺 AI Revolution
+
+👁️ 92K • 👍 3K • 💬 484 • ⏱️ 11:48 • 2d ago
+
+---
+
+**[Kling 3.0 First Look: The New King of AI Video!](https://www.youtube.com/watch?v=BOlFslVqujg)**
+
+Kling 3.0 is finally here, and it might just be the biggest leap in AI video generation we've seen to date. But after two months of ...
+
+📺 Theoretically Media
+
+👁️ 16K • 👍 2K • 💬 221 • ⏱️ 16:35 • 4h ago
+
+---
+
+**[AI agents are speaking to each other on a social media platform](https://www.youtube.com/watch?v=UXDyIs7x2-8)**
+
+Moltbook, a social media platform for AI agents to interact, is growing. The Verge senior AI reporter Hayden Field joins CBS News ...
+
+📺 CBS News
+
+👁️ 8K • 👍 99 • 💬 28 • ⏱️ 3:36 • 1d ago
 
 ---
 
@@ -389,7 +389,7 @@ Kimi K2.5 is a native multimodal agentic model with 1T parameters, excelling in 
 
 `image-text-to-text` `170.7B`
 
-⬇️ 151,992 • ❤️ 1,648 • 1d ago
+⬇️ 151,992 • ❤️ 1,654 • 1d ago
 
 ---
 
@@ -401,7 +401,7 @@ GLM-OCR is a 0.9B parameter multimodal OCR model for complex document understand
 
 `image-to-text`
 
-⬇️ 34,254 • ❤️ 571 • 1d ago
+⬇️ 34,254 • ❤️ 577 • 1d ago
 
 ---
 
@@ -413,7 +413,7 @@ Step 3.5 Flash is an efficient, open-source MoE foundation model (11B active par
 
 `text-generation` `199.4B`
 
-⬇️ 5,602 • ❤️ 409 • 1d ago
+⬇️ 5,602 • ❤️ 412 • 1d ago
 
 ---
 
@@ -423,7 +423,7 @@ Step 3.5 Flash is an efficient, open-source MoE foundation model (11B active par
 
 Anima is a 2 billion parameter text-to-image diffusion model specializing in anime and non-photorealistic artistic styles, trained on millions of anime and artistic images. It is designed for generating illustrations and artistic images, with primary use cases in ComfyUI workflows for anime concepts and characters.
 
-⬇️ 34,449 • ❤️ 383 • 3d ago
+⬇️ 34,449 • ❤️ 390 • 3d ago
 
 ---
 
@@ -435,7 +435,7 @@ Qwen3-ASR-1.7B is a state-of-the-art automatic speech recognition model supporti
 
 `automatic-speech-recognition` `2.3B`
 
-⬇️ 85,130 • ❤️ 354 • 5d ago
+⬇️ 85,130 • ❤️ 358 • 5d ago
 
 ---
 
@@ -447,7 +447,7 @@ Qwen3-Coder-Next is an 80B parameter (3B active) LLM optimized for coding agents
 
 `text-generation` `79.7B`
 
-⬇️ 3,087 • ❤️ 346 • 1d ago
+⬇️ 3,087 • ❤️ 353 • 1d ago
 
 ---
 
@@ -459,7 +459,7 @@ PaddleOCR-VL-1.5 is a multilingual Vision-Language Model (VLM) built on ERNIE 4.
 
 `image-text-to-text` `958.6M`
 
-⬇️ 5,659 • ❤️ 332 • 5d ago
+⬇️ 5,659 • ❤️ 333 • 5d ago
 
 ---
 
@@ -471,7 +471,7 @@ PersonaPlex-7B-v1 is a real-time, full-duplex speech-to-speech conversational mo
 
 `audio-to-audio`
 
-⬇️ 148,507 • ❤️ 1,646 • 6d ago
+⬇️ 148,507 • ❤️ 1,648 • 6d ago
 
 ---
 
@@ -483,19 +483,19 @@ Z-Image is an undistilled, high-fidelity text-to-image diffusion transformer mod
 
 `text-to-image`
 
-⬇️ 10,173 • ❤️ 844 • 7d ago
+⬇️ 10,173 • ❤️ 845 • 7d ago
 
 ---
 
-**[lingbot-world-base-cam](https://huggingface.co/robbyant/lingbot-world-base-cam)**
+**[Ace-Step1.5](https://huggingface.co/ACE-Step/Ace-Step1.5)**
 
-*Robbyant*
+*ACE-Step*
 
-LingBot-World-Base-Cam is an image-to-video diffusion model that generates high-fidelity, temporally consistent videos with long-term memory. It supports real-time interactivity and diverse environments, making it suitable for content creation, gaming, and robot learning.
+ACE-Step 1.5 is an open-source text-to-audio music generation model capable of producing commercial-ready music with precise stylistic control and editing features. It utilizes a hybrid LM-DiT architecture trained on licensed and royalty-free data, offering extreme speed and low VRAM requirements for consumer hardware, making it ideal for music artists and content creators.
 
-`image-to-video`
+`text-to-audio`
 
-⬇️ 0 • ❤️ 269 • 2d ago
+⬇️ 1,799 • ❤️ 275 • 1d ago
 
 ---
 
@@ -511,7 +511,7 @@ LingBot-World-Base-Cam is an image-to-video diffusion model that generates high-
 
 LingBot-World is an open-source world simulator with high-fidelity dynamics, long-term memory capabilities, and real-time interactivity for diverse environments.
 
-▲ 111 • 💬 2 • ⭐ 2,413 • 7d ago
+▲ 111 • 💬 2 • ⭐ 2,462 • 7d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2601.20540) • [💻 code](https://github.com/Robbyant/lingbot-world/) • [🔗 project](https://technology.robbyant.com/lingbot-world)
 
@@ -571,7 +571,7 @@ A centralized orchestrator dynamically directs LLM agents via reinforcement lear
 
 Bitnet.cpp enhances edge inference for ternary LLMs using a novel mixed-precision matrix multiplication library, achieving significant speed improvements over baselines.
 
-▲ 5 • 💬 0 • ⭐ 27,771 • 11mo ago
+▲ 6 • 💬 0 • ⭐ 27,844 • 11mo ago
 
 [🎓 arXiv](https://arxiv.org/abs/2502.11880) • [💻 code](https://github.com/microsoft/BitNet/tree/paper)
 
@@ -611,7 +611,7 @@ PaddleOCR-VL, a vision-language model combining NaViT-style dynamic resolution a
 
 Vision-DeepResearch introduces a multimodal deep-research paradigm enabling multi-turn, multi-entity, and multi-scale visual and textual search with deep-research capabilities integrated through cold-start supervision and reinforcement learning.
 
-▲ 139 • 💬 4 • ⭐ 142 • 6d ago
+▲ 140 • 💬 4 • ⭐ 142 • 6d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2601.22060) • [💻 code](https://github.com/Osilly/Vision-DeepResearch) • [🔗 project](https://osilly.github.io/Vision-DeepResearch/)
 
@@ -639,7 +639,7 @@ Browser automation CLI for AI agents
 
 `TypeScript`
 
-⭐ 12.6k • 🔱 710 • 1d ago
+⭐ 12.6k • 🔱 713 • 1d ago
 
 ---
 
@@ -689,7 +689,7 @@ Marketing skills for Claude Code and AI agents. CRO, copywriting, SEO, analytics
 
 `claude` `codex` `marketing`
 
-⭐ 5.8k • 🔱 637 • 17h ago
+⭐ 5.8k • 🔱 638 • 18h ago
 
 ---
 
@@ -697,7 +697,7 @@ Marketing skills for Claude Code and AI agents. CRO, copywriting, SEO, analytics
 
 Claude Code skill that removes signs of AI-generated writing from text
 
-⭐ 3.9k • 🔱 337 • 12d ago
+⭐ 3.9k • 🔱 338 • 12d ago
 
 ---
 
@@ -715,7 +715,7 @@ OpenSource Claude Cowork. A desktop AI assistant that helps you with programming
 
 `TypeScript`
 
-⭐ 2.7k • 🔱 369 • 12d ago
+⭐ 2.7k • 🔱 370 • 12d ago
 
 ---
 

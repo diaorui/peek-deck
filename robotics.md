@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-02-04T19:22:47.414850+00:00'
+updated: '2026-02-04T19:58:24.081537+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- news
-- videos
 - social
+- videos
+- news
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** February 04, 2026 at 19:22 UTC  
+**Last Updated:** February 04, 2026 at 19:58 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -36,7 +36,7 @@ Robotics research and industry news
 
 From Olivier Duchenne on 𝕏: https://x.com/inventorOli/status/2018719028462657922 And Guillaume Lample on 𝕏: "Mistral robotics team is hiring. Join us!": https://x.com/GuillaumeLample/status/2018719626578796665
 
-7h ago
+8h ago
 
 ---
 
@@ -52,7 +52,7 @@ Asimov is an open-source humanoid robot. We open-sourced the leg design and XML 
 
 Hi everyone! I’m excited to finally share a project I’ve been working on for the past 2 years. I developed the entire ecosystem from scratch: from the initial mechanical design and fabrication to the electronics and the full software architecture. My main goal was to build a robot that is as user-friendly as possible. Fabrication and hardware Design on Solidworks Maker 3D printed on an Ender 3 V2 and a Bambu Lab X1C 2 parts for the case are cut with a laser cutter (in a Fab-Lab) Materials : PLA, PETG, TPU, ABS, PC and plywood Electronics NVIDIA Jetson Orin Nano : handles the communication with the cameras and the controller 3 Arduino nano, one in each part of the robot (front, middle and back). They interface with the sensors and actuators. Teensy 4.1: Handles the IMU with SPI communication. Acts as a bridge between the Arduino and the Jetson : Communicates by I2C with Arduino Reads and publishes directly on topics with micro-ROS. Controller is a Legion GO. I used it to have physical joystick, touch sensitive screen, with easy to use driver (thanks to Windows 11). The physical Joy an button are detected like a real Xbox controller. Software ROS 2 Humble and Ubuntu 22 on the Jetson. Windows 11 on the Legion Go. Python for the Legion Go and Jetson. C++ (Arduino) for the Teensy and the Nanos. The user interface on the legion go is developed using Pygame. Sensors 2 MIPI CSI cameras (one has night vision). 1 BNO085 and 1 MPU 6050 for the IMU. 5 distance sensors (Time Of flight sensors) sensors for temperature, touch sensitivity, tension, current, etc. Actuators 12 Lynxmotion LSS V2 servos. Within the weight and dimensions of my robot, it's not the best solution (Slightly underpowered), but I made the choice to focus on user experience and a professional product appearance instead of mobility for this robot. 3 standart 90g servomoteurs for the moving parts in the Head 4 fans for cooling, LEDs, laser, Swappable Batteries and Alimentation Wired alimentation is possible with classic jack connector Swappable DIY batteries : 5S1P 21700 with Molicel P42A Custom 3D printed case If you want to see more of the robot in action, I have a longer video here: https://youtu.be/xeyl0i7DunE?si=ifOYklHHlQlqF0qz Feel free to ask me anything about the build, I’ll be happy to answer your questions!
 
-4h ago
+5h ago
 
 ---
 
@@ -60,7 +60,7 @@ Hi everyone! I’m excited to finally share a project I’ve been working on for
 
 The drone has six mmWave radars to sense power lines from any direction, all connected to a Raspberry Pi. Based on these detections, the desired velocity (from a pilot or autonomous system) then gets modified to guide the drone around the power line. Everything runs in real time on the Pi with ROS2 middleware and PX4 flight stack. If you're interested, you can check out the paper: https://arxiv.org/abs/2602.03229, or the full video with voice-over: https://www.youtube.com/watch?v=rJW3eEC-5Ao
 
-14h ago
+15h ago
 
 ---
 
@@ -92,7 +92,7 @@ Mind Blown! Have you heard about ClawdBot now called OpenClaw? It’s an open so
 
 Not sure where else to rant and have people understand where I am coming from. But here it goes - I am a master's student in mechanical engineering, specializing in robotics. I entered with an existing research idea in mind, given that I have completed 2 years of undergraduate research in this lab. At first, I was able to work on my existing idea, especially since it was novel. But then came Trump's funding cuts, and my school/lab was essentially out of funds (and because my PI bought the Unitree G1 complete package lol). I lost my funding, and research now is pretty restricted. With that, I have been advised to start preliminary research in a completely different field. I did try to return to my prior research, but I received negative feedback. There was a strong sense coming from my PI that I should do research in human-robot interaction (HRI). I spoke to some peers in the lab, and from the sounds of it, I was pushed to do research in this area of robotics mainly so that I can work on a novel idea and get NSF funding (ideally) for the lab, depending on the proposal, since this area of robotics has been getting alot of traction lately due to safety concerns. Although I do have a pretty interesting/novel idea in this field (and I would be more than happy to chat with anyone about it), I sort of dread it. I've been delaying research on this topic because working on it isn't exciting, and the work itself steers me into an industrial field separate from my dreams. To top it off, I hate our weekly lab meetings (where we present our week's work and what we plan to do the following week). It's been about 4 months since I first explained my work (pertaining to Trust in HRI), and almost every meeting ends with my PI saying he doesn't understand the topic of trust. I figured I was the issue in explaining it, but all my peers understood it and found it extremely interesting. The first thing they asked, as well, was whether I transferred to a PhD program. Mainly due to the fact that master's research typically deals with the applications of PhD research, while PhDs focus on completely novel ideas. However, my work has involved complete reformulations / new formulations of statistical means that PhD students would focus on. I spent many sleepless nights reading many statistical textbooks and so on. I even spent nearly a month reading psychology papers to better understand human Trust on the human level (spoiler, psychologists appear to barely understand it as well). In the end, though, it does not matter how hard or how much I work on this topic because if my PI doesn't approve of it, then I cannot complete my thesis, which feels like a punch to the throat. Fortunately, I have a second-round interview with ASML and a backup secured internship with NASA, so that might help steer me back onto my ideal path or open new doors for research. But the next year of research sounds like it'll suck... Wishing I had a separate hot topic to research that the PI would at least somewhat understand and approve of. It's the least I can ask for after doing 6+ hours a day of unpaid research :') P.S. Sorry if this rant was scattered. Brain still in overdrive from school.
 
-14h ago
+15h ago
 
 ---
 
@@ -132,7 +132,7 @@ The Next Platform • 1d ago
 
 ETM said its TFM technology enables OEMs to simplify mechanical designs, reduce costs, and achieve performance benchmarks.
 
-The Robot Report • 3h ago
+The Robot Report • 4h ago
 
 ---
 
@@ -202,37 +202,17 @@ XPENG just took a massive step forward in humanoid robotics. The New IRON robot 
 
 📺 DPCcars
 
-👁️ 18K • 👍 161 • 💬 35 • ⏱️ 1:21 • 3d ago
+👁️ 18K • 👍 163 • 💬 35 • ⏱️ 1:21 • 3d ago
 
 ---
 
-**[XPeng IRON Robot Falls Then Stands Back Up Live on Stage](https://www.youtube.com/watch?v=kMfcGfRO0R8)**
+**[🤖 The G1 Robot Can Now Skateboard like a Real Person! #humanoidrobot #unitreeg1 #robot #robotics](https://www.youtube.com/watch?v=s7qtup_lgPM)**
 
-XPeng just showed the world what real humanoid robot progress looks like. During a live public event, the IRON robot stumbled, ...
+Chinese researchers have taught a Unitree G1 humanoid robot how to ride a skateboard with a new physics-aware control system ...
 
-📺 DPCcars
+📺 Kalil 4.0
 
-👁️ 26K • 👍 115 • 💬 44 • ⏱️ 2:06 • 3d ago
-
----
-
-**[30 million won humanoid robot for sale at Seoul’s supermarket](https://www.youtube.com/watch?v=qHpFZ3f2a_E)**
-
-You can watch this video at https://koreanow.com Copyright(C) Unauthorized use, distribution, and employment of AI-based tools ...
-
-📺 KOREA NOW
-
-👁️ 4K • 👍 91 • 💬 22 • ⏱️ 1:54 • 1d ago
-
----
-
-**[SSLC IT Chapter 6: The World of Robots | LED, Buzzer | Practical | Xylem SSLC](https://www.youtube.com/watch?v=csQEZkNlb2Q)**
-
-sslc #xylemsslc #sslcpublicexam #sslcit Xylem New Year Offer Live Now !! Join Asthra Batch, Use Coupon Code "NY15", ...
-
-📺 Xylem SSLC
-
-👁️ 245K • 👍 9K • 💬 676 • ⏱️ 23:34 • 4d ago
+👁️ 335 • 👍 9 • ⏱️ 0:46 • 16m ago
 
 ---
 
@@ -242,7 +222,27 @@ This robotic mouth is designed to replicate how real human lips move while speak
 
 📺 Facts TV 91
 
-👁️ 65K • 👍 431 • 💬 17 • ⏱️ 0:06 • 17h ago
+👁️ 67K • 👍 437 • 💬 17 • ⏱️ 0:06 • 18h ago
+
+---
+
+**[30 million won humanoid robot for sale at Seoul’s supermarket](https://www.youtube.com/watch?v=qHpFZ3f2a_E)**
+
+You can watch this video at https://koreanow.com Copyright(C) Unauthorized use, distribution, and employment of AI-based tools ...
+
+📺 KOREA NOW
+
+👁️ 4K • 👍 92 • 💬 23 • ⏱️ 1:54 • 1d ago
+
+---
+
+**[XPeng IRON Robot Falls Then Stands Back Up Live on Stage](https://www.youtube.com/watch?v=kMfcGfRO0R8)**
+
+XPeng just showed the world what real humanoid robot progress looks like. During a live public event, the IRON robot stumbled, ...
+
+📺 DPCcars
+
+👁️ 27K • 👍 119 • 💬 44 • ⏱️ 2:06 • 3d ago
 
 ---
 
@@ -252,7 +252,37 @@ China is deploying AI-powered robots to manage traffic and pedestrian flow in ci
 
 📺 NBC News
 
-👁️ 788K • 👍 7K • 💬 3K • ⏱️ 3:13 • 5d ago
+👁️ 790K • 👍 7K • 💬 3K • ⏱️ 3:13 • 5d ago
+
+---
+
+**[Figure Just DROPPED the Most ADVANCED AI ROBOT BRAIN  — Meet Helix 02](https://www.youtube.com/watch?v=MdN7RvdeSsA)**
+
+Figure has just unveiled Helix 02, the most advanced AI robot brain the company has ever created — and it's a massive leap for ...
+
+📺 The AI Nexus
+
+👁️ 11K • 👍 328 • 💬 40 • ⏱️ 16:11 • 4d ago
+
+---
+
+**[Trump and Elon Musk’s reaction to seeing this ROBOT with a basketball](https://www.youtube.com/watch?v=kBJNVASwve8)**
+
+La reacción de Trump y Musk al ver a este ROBOT con la pelota de baloncesto.   特朗普和马斯克看到这个拿着篮球的机器人时的 ...
+
+📺 mundo tendencias
+
+👁️ 207K • 👍 2K • 💬 32 • ⏱️ 0:08 • 5d ago
+
+---
+
+**[🔬 Sony’s Microsurgery Robot Prototype: Scaled Hand Control, Auto Tool Swaps, and 4K Precision](https://www.youtube.com/watch?v=OsEDfzhhAiA)**
+
+This is Sony's prototype microsurgery assistance robot, designed for operations where human hands reach their physical limits.
+
+📺 Fact
+
+👁️ 23K • 👍 216 • 💬 7 • ⏱️ 0:06 • 3d ago
 
 ---
 
@@ -263,32 +293,6 @@ Humanoid robotics just took a massive leap into the real world. Researchers in C
 📺 AI Revolution
 
 👁️ 138K • 👍 1K • 💬 282 • ⏱️ 14:25 • 4d ago
-
----
-
-**[Drag-and-drop welding robot.#industrial #welding #robot #spraying #stamping](https://www.youtube.com/watch?v=yOXhsjonNHk)**
-
-📺 Lin of Brant robot 
-
-👁️ 25K • 👍 76 • ⏱️ 0:19 • 4d ago
-
----
-
-**[Tesla Optimus robot will allow for amazing abundance. #fyp #viral #tesla #optimus #teslarobot](https://www.youtube.com/watch?v=CPDqiFW1AhI)**
-
-📺 Tesla Owners Silicon Valley
-
-👁️ 2.7M • 👍 76K • 💬 1K • ⏱️ 0:40 • 2d ago
-
----
-
-**[No One Is Using This Right Now... Smuta Stryx Is INSANE Now - COOKS Kaji Campers | War Robots](https://www.youtube.com/watch?v=WrAHOQY-t8U)**
-
-Smuta Stryx is terrifying. I havent used the Smuta in awhile. But the other day an enemy player cooked me with them. So now I feel ...
-
-📺 PREDATOR WR
-
-👁️ 3K • 👍 215 • 💬 35 • ⏱️ 13:56 • 6h ago
 
 ---
 

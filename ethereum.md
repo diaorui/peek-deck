@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-02-04T19:22:47.411659+00:00'
+updated: '2026-02-04T19:58:24.078387+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- news
-- videos
 - social
+- videos
 - cryptocurrency
+- news
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** February 04, 2026 at 19:22 UTC  
+**Last Updated:** February 04, 2026 at 19:58 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -52,17 +52,17 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Market Stats
 
-**Market Cap:** $256.60B
+**Market Cap:** $262.16B
 Rank #2
 
 **Circulating Supply:** 120,693,577 ETH
 No max supply
 
 **All-Time High:** $4,946.05
--57.1%
+-56.0%
 
 **All-Time Low:** $0.43
-+489766.7%
++502395.5%
 
 ---
 
@@ -72,7 +72,7 @@ No max supply
 
 The long-term technical vision for Ethereum is undergoing a significant correction. : Get all the latest crypto news at Sandmark
 
-🔗 [Sandmark](https://www.sandmark.com/news/top-news/buterin-reframes-ethereum-strategy-scaling-focus-returns-base-layer?utm_medium=referral&utm_source=redbot&utm_campaign=redbot-ww-en-brand) • 5h ago
+🔗 [Sandmark](https://www.sandmark.com/news/top-news/buterin-reframes-ethereum-strategy-scaling-focus-returns-base-layer?utm_medium=referral&utm_source=redbot&utm_campaign=redbot-ww-en-brand) • 6h ago
 
 ---
 
@@ -96,7 +96,7 @@ I’d like a more technical and realistic analysis of Ethereum and how things ar
 
 By Davide Crapis of the dAI Team Lead at Ethereum Foundation AI agents are already booking flights, writing code, and managing portfolios, but they operate in silos. As the actions they automate have more value at stake, they need a shared way to establish identity and build trust.
 
-🔗 [linkedin.com](https://www.linkedin.com/pulse/guest-article-next-advancement-ai-x-blockchain-erc-8004-ethereum-vpt3c?utm_source%3Dshare%26utm_medium%3Dmember_ios%26utm_campaign%3Dshare_via) • 4m ago
+🔗 [linkedin.com](https://www.linkedin.com/pulse/guest-article-next-advancement-ai-x-blockchain-erc-8004-ethereum-vpt3c?utm_source%3Dshare%26utm_medium%3Dmember_ios%26utm_campaign%3Dshare_via) • 40m ago
 
 ---
 
@@ -104,7 +104,7 @@ By Davide Crapis of the dAI Team Lead at Ethereum Foundation AI agents are alrea
 
 Hi there, I was recently approached by someone who wanted to buy some of my digital artwork as NFT's using Ethereum, they seem to be legitimate and I have been very careful checking things out. I know very little about crypto and so far after watching several videos and an hours worth of Google searching I feel non the wiser! Is anyone here able to point me in the direction of a VERY beginner friendly guide to setting up an Ethereum wallet and turning that currency back into national currency? Thanks for any advice you guys can offer!
 
-27m ago
+1h ago
 
 ---
 
@@ -112,7 +112,7 @@ Hi there, I was recently approached by someone who wanted to buy some of my digi
 
 Been away from Ethereum from some time and would like to jump onboard again. It seems to me neutral opensource software will become increasingly relevant due to the changing world order and Ethereum will play a significant role. I'm particularly interested in how Ethereum can be used for daily payments via stablecoins. I would like to know if anyone is working on (1) on-chain oracles for currency exchange-rates and (2) stablecoins for developing nation currencies. My aim is to understand what kind of on-chain infrastructure needs to be there to enable normal people to transparently use Ethereum to pay for their morning coffee. Happy to discuss!
 
-8h ago
+9h ago
 
 ---
 
@@ -236,47 +236,7 @@ Ethereum has experienced multiple major pullbacks throughout its history and eve
 
 📺 The Value Thinker
 
-👁️ 3K • 👍 403 • 💬 122 • ⏱️ 22:38 • 6h ago
-
----
-
-**[Ethereum in Trouble… Vitalik Confirms It (BAD)](https://www.youtube.com/watch?v=qjcex76my3Q)**
-
-Is the Ethereum dream dead? Vitalik Buterin just dropped a bombshell that has the entire crypto community reeling. For years ...
-
-📺 Discover Crypto
-
-👁️ 3K • 👍 277 • 💬 67 • ⏱️ 1:21:03 • 2h ago
-
----
-
-**[&quot;My Warning For ALL Small Crypto Holders In February&quot;: Tom Lee | Ethereum Price 2026](https://www.youtube.com/watch?v=K52Ev_G1YwQ)**
-
-My FREE Daily On-Chain Analysis & Crypto News In 5-Mins: https://www.cryptonutshell.com/subscribe You can NOW ...
-
-📺 Jamie Tree 
-
-👁️ 392 • 👍 27 • 💬 40 • ⏱️ 18:33 • 4h ago
-
----
-
-**[David Siemer Outlines Bitcoin and Ethereum&#39;s Paths Back to Record Highs](https://www.youtube.com/watch?v=sxj1YbCv2GQ)**
-
-Bitcoin's dip below $75000 is something David Siemer calls a "buying opportunity." He sees promise in the crypto space long-term ...
-
-📺 Schwab Network
-
-👁️ 11K • 👍 147 • 💬 17 • ⏱️ 6:37 • 18h ago
-
----
-
-**[BITCOIN AND ETH: TRYING TO BOUNCE!!!!! 🚨🚨🚨 (Vitalik kills L2s)](https://www.youtube.com/watch?v=md6nK4g8c4U)**
-
-FREE TRAINING: https://www.bullmania.com EXCHANGES I USE (bybit, pionex): https://www.bullmania.com/partners My ...
-
-📺 Ivan on Tech
-
-👁️ 15K • 👍 1K • 💬 89 • ⏱️ 50:26 • 9h ago
+👁️ 6K • 👍 569 • 💬 153 • ⏱️ 22:38 • 7h ago
 
 ---
 
@@ -286,7 +246,37 @@ This video provides a professional Elliott Wave and technical analysis of Ethere
 
 📺 More Crypto Online
 
-👁️ 823 • 👍 112 • 💬 7 • ⏱️ 4:15 • 3h ago
+👁️ 2K • 👍 188 • 💬 6 • ⏱️ 4:15 • 3h ago
+
+---
+
+**[BITCOIN CRASH: The Double Dip Trap (BE WARNED)!!! - Bitcoin News Today, Ethereum &amp; Altcoins](https://www.youtube.com/watch?v=p2qm_gaKqho)**
+
+BITCOIN CRASH: The Double Dip Trap (BE WARNED)!!! - Bitcoin News Today, Ethereum & Altcoins *Bitunix* ...
+
+📺 Crypto World
+
+👁️ 2K • 👍 129 • 💬 30 • ⏱️ 25:48 • 1h ago
+
+---
+
+**[David Siemer Outlines Bitcoin and Ethereum&#39;s Paths Back to Record Highs](https://www.youtube.com/watch?v=sxj1YbCv2GQ)**
+
+Bitcoin's dip below $75000 is something David Siemer calls a "buying opportunity." He sees promise in the crypto space long-term ...
+
+📺 Schwab Network
+
+👁️ 12K • 👍 153 • 💬 21 • ⏱️ 6:37 • 18h ago
+
+---
+
+**[&quot;My Warning For ALL Small Crypto Holders In February&quot;: Tom Lee | Ethereum Price 2026](https://www.youtube.com/watch?v=K52Ev_G1YwQ)**
+
+My FREE Daily On-Chain Analysis & Crypto News In 5-Mins: https://www.cryptonutshell.com/subscribe You can NOW ...
+
+📺 Jamie Tree 
+
+👁️ 858 • 👍 40 • 💬 204 • ⏱️ 18:33 • 4h ago
 
 ---
 
@@ -296,27 +286,17 @@ Ask and you shall receive... or maybe just complain a lot and then the informati
 
 📺 The Modern Investor
 
-👁️ 6K • 👍 735 • 💬 291 • ⏱️ 29:04 • 8h ago
+👁️ 8K • 👍 799 • 💬 395 • ⏱️ 29:04 • 8h ago
 
 ---
 
-**[ETHEREUM CRASH Alert! (Ethereum Price Prediction 2026)](https://www.youtube.com/watch?v=RRTBEPAZK34)**
+**[Crypto Investors Are In SERIOUS Trouble (Tom Lee &amp; Raoul Pal)](https://www.youtube.com/watch?v=KVKyHOtnSfI)**
 
-JACOB'S Whop - Discover The Alpha, Join The VIP Group Today - https://whop.com/onchainacademy - Best Exchange I've Ever ...
+LIMITED TIME: ✓ Bitunix (no kyc, $10k bonus): https://www.bitunix.com/register?vipCode=AltcoinDaily 50% deposit bonus on ...
 
-📺 Jacob Crypto Bury
+📺 Altcoin Daily
 
-👁️ 373 • 👍 6 • 💬 47 • ⏱️ 4:54 • 23h ago
-
----
-
-**[Ethereum Elliott Wave Update – Key Resistance Levels Ahead](https://www.youtube.com/watch?v=50rkmhAPvSI)**
-
-This video provides a professional Elliott Wave and technical analysis of Ethereum (ETH), focusing on market structure, major ...
-
-📺 More Crypto Online
-
-👁️ 4K • 👍 246 • 💬 8 • ⏱️ 4:02 • 23h ago
+👁️ 112K • 👍 3K • 💬 743 • ⏱️ 10:56 • 1d ago
 
 ---
 
@@ -326,7 +306,27 @@ Tom Lee Just Said The UNTHINKABLE About Bitcoin & Ethereum! ["It's a Fake Crash"
 
 📺 Crypto Nutshell
 
-👁️ 13K • 👍 448 • 💬 52 • ⏱️ 18:04 • 2d ago
+👁️ 13K • 👍 450 • 💬 53 • ⏱️ 18:04 • 2d ago
+
+---
+
+**[BULLISH PATTERN FORMING!🚨 (Ethereum Price Prediction 2026)](https://www.youtube.com/watch?v=RgcpoJNpX7U)**
+
+ETHEREUM ETH PRICE PREDICTION 2026 Join the Premium Signal Group for trade setups, mentorship & a community ...
+
+📺 Cilinix Crypto
+
+👁️ 369 • 👍 15 • 💬 25 • ⏱️ 4:29 • 10h ago
+
+---
+
+**[Ethereum Elliott Wave Update – Key Resistance Levels Ahead](https://www.youtube.com/watch?v=50rkmhAPvSI)**
+
+This video provides a professional Elliott Wave and technical analysis of Ethereum (ETH), focusing on market structure, major ...
+
+📺 More Crypto Online
+
+👁️ 4K • 👍 248 • 💬 8 • ⏱️ 4:02 • 1d ago
 
 ---
 
