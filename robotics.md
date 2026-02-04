@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-02-04T20:46:38.991340+00:00'
+updated: '2026-02-04T21:34:17.519255+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
 - social
-- videos
 - news
+- videos
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** February 04, 2026 at 20:46 UTC  
+**Last Updated:** February 04, 2026 at 21:34 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -36,7 +36,7 @@ Robotics research and industry news
 
 From Olivier Duchenne on 𝕏: https://x.com/inventorOli/status/2018719028462657922 And Guillaume Lample on 𝕏: "Mistral robotics team is hiring. Join us!": https://x.com/GuillaumeLample/status/2018719626578796665
 
-9h ago
+10h ago
 
 ---
 
@@ -44,7 +44,7 @@ From Olivier Duchenne on 𝕏: https://x.com/inventorOli/status/2018719028462657
 
 Asimov is an open-source humanoid robot. We open-sourced the leg design and XML files for simulation. It's built with off-the-shelf components and 3D-printable parts. All files and parts are here: https://github.com/asimovinc/asimov-v0
 
-9h ago
+10h ago
 
 ---
 
@@ -60,7 +60,7 @@ Hi everyone! I’m excited to finally share a project I’ve been working on for
 
 The drone has six mmWave radars to sense power lines from any direction, all connected to a Raspberry Pi. Based on these detections, the desired velocity (from a pilot or autonomous system) then gets modified to guide the drone around the power line. Everything runs in real time on the Pi with ROS2 middleware and PX4 flight stack. If you're interested, you can check out the paper: https://arxiv.org/abs/2602.03229, or the full video with voice-over: https://www.youtube.com/watch?v=rJW3eEC-5Ao
 
-16h ago
+17h ago
 
 ---
 
@@ -68,7 +68,7 @@ The drone has six mmWave radars to sense power lines from any direction, all con
 
 Paper: https://arxiv.org/abs/2602.02473 Project Page: https://wyhuai.github.io/human-x/ From Yinhuai on 𝕏: https://x.com/NliGjvJbycSeD6t/status/2018713031157465495 Previous post: An Unitree trained to play basketball and the first human block against a humanoid: https://www.reddit.com/r/robotics/comments/1p2w932/an_unitree_trained_to_play_basketball_and_the/
 
-10h ago
+11h ago
 
 ---
 
@@ -76,7 +76,7 @@ Paper: https://arxiv.org/abs/2602.02473 Project Page: https://wyhuai.github.io/h
 
 Yesterday, I connected a RealSense camera to OpenClaw and maybe demonstrated the first ROS-powered physical AI robot on the platform. Today, I added teleop (remote control) and AI missions without writing a line of code!
 
-51m ago
+1h ago
 
 ---
 
@@ -84,7 +84,7 @@ Yesterday, I connected a RealSense camera to OpenClaw and maybe demonstrated the
 
 Mind Blown! Have you heard about ClawdBot now called OpenClaw? It’s an open source personal AI assistant with over 150k stars on GitHub. I connected a RealSense camera to it and my robot started following me!
 
-21h ago
+22h ago
 
 ---
 
@@ -92,7 +92,7 @@ Mind Blown! Have you heard about ClawdBot now called OpenClaw? It’s an open so
 
 Brooks argues that the real bottleneck is still physical interaction with the world. Humans don’t just copy motions when they pick something up. They constantly sense force, adjust grip, and adapt in ways that are hard to formalize or capture in data. Many current systems learn from vision or teleoperation, but that misses what happens at the point of contact. His view isn’t that automation can’t help. It’s that value today comes from supporting humans around these tasks rather than replacing them. Reducing walking, lifting, and strain is achievable now, while true human-level grasping remains a long-term challenge.
 
-19h ago
+20h ago
 
 ---
 
@@ -100,7 +100,7 @@ Brooks argues that the real bottleneck is still physical interaction with the wo
 
 Not sure where else to rant and have people understand where I am coming from. But here it goes - I am a master's student in mechanical engineering, specializing in robotics. I entered with an existing research idea in mind, given that I have completed 2 years of undergraduate research in this lab. At first, I was able to work on my existing idea, especially since it was novel. But then came Trump's funding cuts, and my school/lab was essentially out of funds (and because my PI bought the Unitree G1 complete package lol). I lost my funding, and research now is pretty restricted. With that, I have been advised to start preliminary research in a completely different field. I did try to return to my prior research, but I received negative feedback. There was a strong sense coming from my PI that I should do research in human-robot interaction (HRI). I spoke to some peers in the lab, and from the sounds of it, I was pushed to do research in this area of robotics mainly so that I can work on a novel idea and get NSF funding (ideally) for the lab, depending on the proposal, since this area of robotics has been getting alot of traction lately due to safety concerns. Although I do have a pretty interesting/novel idea in this field (and I would be more than happy to chat with anyone about it), I sort of dread it. I've been delaying research on this topic because working on it isn't exciting, and the work itself steers me into an industrial field separate from my dreams. To top it off, I hate our weekly lab meetings (where we present our week's work and what we plan to do the following week). It's been about 4 months since I first explained my work (pertaining to Trust in HRI), and almost every meeting ends with my PI saying he doesn't understand the topic of trust. I figured I was the issue in explaining it, but all my peers understood it and found it extremely interesting. The first thing they asked, as well, was whether I transferred to a PhD program. Mainly due to the fact that master's research typically deals with the applications of PhD research, while PhDs focus on completely novel ideas. However, my work has involved complete reformulations / new formulations of statistical means that PhD students would focus on. I spent many sleepless nights reading many statistical textbooks and so on. I even spent nearly a month reading psychology papers to better understand human Trust on the human level (spoiler, psychologists appear to barely understand it as well). In the end, though, it does not matter how hard or how much I work on this topic because if my PI doesn't approve of it, then I cannot complete my thesis, which feels like a punch to the throat. Fortunately, I have a second-round interview with ASML and a backup secured internship with NASA, so that might help steer me back onto my ideal path or open new doors for research. But the next year of research sounds like it'll suck... Wishing I had a separate hot topic to research that the PI would at least somewhat understand and approve of. It's the least I can ask for after doing 6+ hours a day of unpaid research :') P.S. Sorry if this rant was scattered. Brain still in overdrive from school.
 
-15h ago
+16h ago
 
 ---
 
@@ -108,7 +108,7 @@ Not sure where else to rant and have people understand where I am coming from. B
 
 Don't have an exact project drawn out yet, but I've been looking into the main rotary actuator providers. Price differences are obvious, but want to hear from those who have used product from multiple vendors. Any not perform as advertised? are less durable? no support?
 
-59m ago
+1h ago
 
 ---
 
@@ -150,7 +150,7 @@ TechCrunch • 2d ago
 
 Apple today announced a new Education Hub in Bengaluru as part of an expanded effort to provide technical training and skills development for employees across its supply chain in India. Apple said the new Apple Education Hub in Bengaluru will serve as a centralized training and coordination facility for supplier employees in India, marking the company's first education hub of its kind in the country.
 
-MacRumors • 8h ago
+MacRumors • 9h ago
 
 ---
 
@@ -158,7 +158,7 @@ MacRumors • 8h ago
 
 From drones to robotic dogs, New York City's fire department is equipped with the latest high-tech devices with remarkable autonomous capabilities.
 
-ABC7 New York • 43m ago
+ABC7 New York • 1h ago
 
 ---
 
@@ -166,7 +166,7 @@ ABC7 New York • 43m ago
 
 According to Precedence Research, humanoid robotics is advancing rapidly, with key companies leading the charge toward mass production and real-world deployments. Tesla, Boston Dynamics, and Figure AI are at the forefront of this transformation, focusing on building general-purpose humanoid robots, with significant funding and operational goals. These companies are not only innovating in design but are also gearing up for large-scale production, making humanoid robots a reality for various secto
 
-Yahoo Finance • 5h ago
+Yahoo Finance • 6h ago
 
 ---
 
@@ -224,7 +224,7 @@ This robotic mouth is designed to replicate how real human lips move while speak
 
 📺 Facts TV 91
 
-👁️ 67K • 👍 437 • 💬 17 • ⏱️ 0:06 • 19h ago
+👁️ 67K • 👍 437 • 💬 17 • ⏱️ 0:06 • 20h ago
 
 ---
 

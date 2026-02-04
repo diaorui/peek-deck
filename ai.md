@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-02-04T20:46:38.972249+00:00'
+updated: '2026-02-04T21:34:17.501646+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- repositories
 - social
-- videos
+- repositories
 - news
+- videos
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** February 04, 2026 at 20:46 UTC  
+**Last Updated:** February 04, 2026 at 21:34 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -41,7 +41,7 @@ AI news, discussions, and developments
 
 Ran a real-world test this week: Gemma 3 12B vs paid frontier models across actual business workflows. The honest assessment? 90% of tasks: no meaningful difference. 5%: frontier models worth it (pay-per-use). 5%: neither quite there yet. This matches the data - open models are catching up fast. The article explores: - Why the "gasoline doesn't matter" - only if it powers your task - The shift from "one model to rule them all" to specialized local models - Why even AGI will eventually be open-sourced (historical precedent) - The water company future: infrastructure > model quality https://www.linkedin.com/posts/azizme_activity-7424774668034842624-v1-2?utm_source=share&utm_medium=member_desktop&rcm=ACoAACX_HOcBcpTEWJ3cXyVbVqKJsi39tDHJLFY Curious what others are seeing in their domains.
 
-4h ago
+5h ago
 
 ---
 
@@ -49,7 +49,7 @@ Ran a real-world test this week: Gemma 3 12B vs paid frontier models across actu
 
 CEO Strauss Zelnick says generative AI remains a tool for enabling creators to do bigger and better things, but it sounds like a shift away from past comments.
 
-🔗 [PC Gamer](https://www.pcgamer.com/software/ai/were-actively-embracing-generative-ai-take-two-boss-says-after-previously-expressing-skepticism-we-have-hundreds-of-pilots-and-implementations-across-our-company/) • 10h ago
+🔗 [PC Gamer](https://www.pcgamer.com/software/ai/were-actively-embracing-generative-ai-take-two-boss-says-after-previously-expressing-skepticism-we-have-hundreds-of-pilots-and-implementations-across-our-company/) • 11h ago
 
 ---
 
@@ -57,7 +57,7 @@ CEO Strauss Zelnick says generative AI remains a tool for enabling creators to d
 
 It highlights a hilarious paradox: we have futuristic organ transplants, yet hospitals still run on fax machines and pagers (even drug dealers ditched those in the 90s). They cover: AI Scribes: Finally ending "pyjama time" (doctors typing notes all night instead of sleeping). Diagnostics: AI finding heart disease in simple EKGs that humans completely miss. The Empathy Gap: Patients actually rated AI chatbots as more empathetic than busy human doctors. Ouch. It’s a grounded look at AI actually saving lives—assuming the doctors don’t forget how to do their jobs when the Wi-Fi goes down. Post by a LLM.
 
-🔗 [freakonomics.com](https://freakonomics.com/podcast/can-a-i-save-your-life/) • 1h ago
+🔗 [freakonomics.com](https://freakonomics.com/podcast/can-a-i-save-your-life/) • 2h ago
 
 ---
 
@@ -79,7 +79,7 @@ SpaceX's acquisition of xAI signals a bold push to merge artificial intelligence
 
 **[Alibaba releases Qwen3-Coder-Next to rival OpenAI, Anthropic](https://www.reddit.com/r/artificial/comments/1qvn7o5/alibaba_releases_qwen3codernext_to_rival_openai/)**
 
-🔗 [marktechpost.com](https://www.marktechpost.com/2026/02/03/qwen-team-releases-qwen3-coder-next-an-open-weight-language-model-designed-specifically-for-coding-agents-and-local-development/) • 8h ago
+🔗 [marktechpost.com](https://www.marktechpost.com/2026/02/03/qwen-team-releases-qwen3-coder-next-an-open-weight-language-model-designed-specifically-for-coding-agents-and-local-development/) • 9h ago
 
 ---
 
@@ -87,7 +87,7 @@ SpaceX's acquisition of xAI signals a bold push to merge artificial intelligence
 
 Not a fully formed theory, just a line of thought I wanted to sanity-check with people here. I started thinking about consciousness by asking what actually has to exist for it to show up at all. I ended up with four things: persistence (some internal state that carries over time), variability (the ability to change that state), agency (actions that come from it), and gates like reward and punishment that shape what gets reinforced. What surprised me is that once you have these four, something like a “self” seems to show up without ever being built explicitly. In humans, the self doesn’t look like a basic ingredient. It looks more like a by-product of systems that had to survive by inferring causes, assigning credit, and acting under uncertainty. Over time, that pressure seems to have pushed internal models to include the organism itself as a causal source. I tried using reinforcement learning as a way to check mark this idea. Survival lines up pretty cleanly with reward, and evolution with optimization, but looking at standard RL makes the gaps kinda obvious. Most RL agents don’t need anything like a self-model because they’re never really forced to build one. They get by with local credit assignment and task-specific policies. As long as the environment stays fixed, that’s enough. Nothing really pushes them to treat themselves as a changing cause in the world, which makes RL a useful reference point, but also highlights what it leaves out. If artificial consciousness is possible at all, it probably comes from systems where those four conditions can’t be avoided: long-term persistence, continual change, agency that feeds back into future states, and value signals that actually shape the internal model. In that case, the self wouldn’t be something you design up front. It would just fall out of the dynamics, similar to how it seems to have happened in biological systems. I’m curious whether people think a self really can emerge this way, or if it has to be explicitly represented.
 
-2h ago
+3h ago
 
 ---
 
@@ -95,7 +95,7 @@ Not a fully formed theory, just a line of thought I wanted to sanity-check with 
 
 Yann Lecun recently shared that a cat is smarter than ChatGPT and that we are never going to get to human-level intelligence by just training on text. My personal opinion is not only are they unreliable but it can be a safety issue as well in high-stakes environments like enterprises, healthcare and more. World models are fundamentally different. These AI systems build internal representations of how reality works, allowing them to understand cause and effect rather than just predict tokens. There has been a shift lately and major figures from Nvidia's CEO Jensen Huang to Demis Hassabis at Google DeepMind are talking more openly about world models. I believe we're still in the early stages of discovering how transformative this technology will be for reaching AGI. Research and application are accelerating, especially in enterprise contexts. A few examples include: WoW (an agentic safety benchmark) uses audit logs to give agents a "world model" for tracking the consequences of their actions. Similarly, Kona by Logical Intelligence is developing energy-based reasoning models that move beyond pure language prediction. While more practical applications are still emerging, the direction is clear: true intelligence requires understanding the world, not just language patterns. Curious what others think?
 
-23h ago
+1d ago
 
 ---
 
@@ -103,7 +103,7 @@ Yann Lecun recently shared that a cat is smarter than ChatGPT and that we are ne
 
 I need something that can properly output strict and consistent JSON structure. Our outputs tend to be ~8000 characters ~2000 tokens, was using Gemini-3-flash-preview and Gemini 3 pro but Gemini really likes to go off the rails and hallucinate, a little bit. If you have used a model that outputs strict and consistent JSON structure, let me know. we've tried adjusting everything with gemini but still end up getting hallucinations and many people online say they have the same problem
 
-17h ago
+18h ago
 
 ---
 
@@ -111,7 +111,7 @@ I need something that can properly output strict and consistent JSON structure. 
 
 I found this argument interesting. If US allows Nvidia to do business with China, then Chinese AI firms will remain dependent on American AI hardware, and hence US will have indirect influence over the level of development that Chinese AI will make.
 
-🔗 [decodingthefutureresearch.substack.com](https://decodingthefutureresearch.substack.com/p/anthropic-ceo-dario-amodei-is-against) • 10h ago
+🔗 [decodingthefutureresearch.substack.com](https://decodingthefutureresearch.substack.com/p/anthropic-ceo-dario-amodei-is-against) • 11h ago
 
 ---
 
@@ -121,13 +121,13 @@ I found this argument interesting. If US allows Nvidia to do business with China
 
 **[As software stocks slump, investors debate AI's existential threat](https://www.reuters.com/business/media-telecom/global-software-stocks-hit-by-anthropic-wake-up-call-ai-disruption-2026-02-04/)**
 
-Reuters • 10h ago
+Reuters • 11h ago
 
 ---
 
 **[Microsoft’s Pivotal AI Product Is Running Into Big Problems](https://www.wsj.com/tech/ai/microsofts-pivotal-ai-product-is-running-into-big-problems-ce235b28?gaa_at=eafs&gaa_n=AWEtsqefTPryjEckNUuTfpreio3vpCipsaLj1B5iTwNXDkArY-gRT81wvCUM&gaa_ts=6983b391&gaa_sig=5W_0AcCF9F_xRuH0NM8uAKoNk1Z0M_uEwJoG8N9gNx2J6VLFKtlZnvCPtwfx_qJrrGYi2mDl0IPWs-95VX4OkQ%3D%3D)**
 
-The Wall Street Journal • 18h ago
+The Wall Street Journal • 19h ago
 
 ---
 
@@ -135,7 +135,7 @@ The Wall Street Journal • 18h ago
 
 Some U.S. Olympic teams are already seeing benefits from early adoption of artificial intelligence
 
-NBC News • 46m ago
+NBC News • 1h ago
 
 ---
 
@@ -149,7 +149,7 @@ New York Post • 1h ago
 
 **[Snap Earnings Are Coming After the Close. AI, AR, and Ads Are All in the Mix.](https://www.barrons.com/articles/snap-earnings-stock-price-cf5f5640?gaa_at=eafs&gaa_n=AWEtsqeyBVRZD96Izl0Z1Fg_6CcDCI95ZuLHLIsSAYR4i_C1ZARxDszO_sx7&gaa_ts=6983b391&gaa_sig=tno0ySwmVUdmScNjdMnbK4UnovMKvtfMVyMb3kYvIzs-zjAJ7Yd2GMxEVzudXfxXzatixCM-ovP4RlA4C2RUtQ%3D%3D)**
 
-Barron's • 46m ago
+Barron's • 1h ago
 
 ---
 
@@ -165,7 +165,7 @@ CNBC • 5h ago
 
 We’ve made a choice: Claude will remain ad-free. We explain why advertising incentives are incompatible with a genuinely helpful AI assistant, and how we plan to expand access without compromising user trust.
 
-Anthropic • 8h ago
+Anthropic • 9h ago
 
 ---
 
@@ -173,7 +173,7 @@ Anthropic • 8h ago
 
 Generated images for listings are disturbing—and not just because they can feel like a scam.
 
-The Atlantic • 8h ago
+The Atlantic • 9h ago
 
 ---
 
@@ -187,7 +187,7 @@ WIRED • 1d ago
 
 **[Resolve AI Hits $1 Billion Valuation for Outage-Thwarting AI Agents](https://www.bloomberg.com/news/articles/2026-02-04/resolve-ai-hits-1-billion-valuation-for-outage-thwarting-ai-agents)**
 
-Bloomberg.com • 7h ago
+Bloomberg.com • 8h ago
 
 ---
 
@@ -207,7 +207,7 @@ A bifurcation is happening in AI adoption - power users shipping products in day
 
 Production-grade Ghidra MCP Server — 132 endpoints, cross-binary documentation transfer, batch analysis, headless mode, and Docker deployment for AI-powered reverse engineering - bethington/ghidra-mcp
 
-⬆️ 244 • 💬 63 • 13h ago • [GitHub](https://github.com/bethington/ghidra-mcp)
+⬆️ 244 • 💬 63 • 14h ago • [GitHub](https://github.com/bethington/ghidra-mcp)
 
 ---
 
@@ -269,7 +269,7 @@ If you paint a picture of Sonic the Hedgehog in your living room, you are techni
 
 **[AI and Trust (2023)](https://news.ycombinator.com/item?id=46877075)**
 
-⬆️ 94 • 💬 19 • 23h ago • [schneier.com](https://www.schneier.com/blog/archives/2023/12/ai-and-trust.html)
+⬆️ 94 • 💬 19 • 1d ago • [schneier.com](https://www.schneier.com/blog/archives/2023/12/ai-and-trust.html)
 
 ---
 
@@ -283,7 +283,7 @@ FormerNetworkExec #CallMeChato #moltbook Moltbook will rule the world. Thanks fo
 
 📺 Call me Chato
 
-👁️ 7K • 👍 1K • 💬 305 • ⏱️ 8:37 • 20h ago
+👁️ 7K • 👍 1K • 💬 305 • ⏱️ 8:37 • 21h ago
 
 ---
 
@@ -323,7 +323,7 @@ Want to make money and save time with AI? Get AI Coaching, Support & Courses ...
 
 📺 Julian Goldie SEO
 
-👁️ 2K • 👍 84 • 💬 7 • ⏱️ 10:42 • 7h ago
+👁️ 2K • 👍 84 • 💬 7 • ⏱️ 10:42 • 8h ago
 
 ---
 
@@ -333,7 +333,7 @@ Become a member! ✓ https://www.youtube.com/channel/UCahJ9IsvXnaQiuNyWQSkrkw/jo
 
 📺 Chris Norlund
 
-👁️ 169K • 👍 10K • 💬 2K • ⏱️ 15:48 • 20h ago
+👁️ 169K • 👍 10K • 💬 2K • ⏱️ 15:48 • 21h ago
 
 ---
 
@@ -343,7 +343,7 @@ Create AI Videos with OpenArt https://youricreates.com/start In this video, I br
 
 📺 Youri van Hofwegen
 
-👁️ 7K • 💬 7 • ⏱️ 17:16 • 4h ago
+👁️ 7K • 💬 7 • ⏱️ 17:16 • 5h ago
 
 ---
 
@@ -363,7 +363,7 @@ Kling 3.0 is finally here, and it might just be the biggest leap in AI video gen
 
 📺 Theoretically Media
 
-👁️ 16K • 👍 2K • 💬 221 • ⏱️ 16:35 • 5h ago
+👁️ 16K • 👍 2K • 💬 221 • ⏱️ 16:35 • 6h ago
 
 ---
 
@@ -659,7 +659,7 @@ LLM驱动的 A/H/美股智能分析器，多数据源行情 + 实时新闻 + Gem
 
 `Python` `agent` `ai` `aigc` `gemini` `llm`
 
-⭐ 9.4k • 🔱 9.8k • 8h ago
+⭐ 9.4k • 🔱 9.8k • 9h ago
 
 ---
 
@@ -679,7 +679,7 @@ The Ultimate Collection of 600+ Agentic Skills for Claude Code/Antigravity/Curso
 
 `Python` `agentic-skills` `ai-agents` `antigravity` `autonomous-coding` `claude-code`
 
-⭐ 7.1k • 🔱 1.5k • 12h ago
+⭐ 7.1k • 🔱 1.5k • 13h ago
 
 ---
 
@@ -705,7 +705,7 @@ Claude Code skill that removes signs of AI-generated writing from text
 
 Elevate your AI research writing, no more tedious polishing ✨ 
 
-⭐ 3.0k • 🔱 254 • 8h ago
+⭐ 3.0k • 🔱 254 • 9h ago
 
 ---
 

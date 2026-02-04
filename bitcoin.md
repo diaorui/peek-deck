@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-02-04T20:46:38.979928+00:00'
+updated: '2026-02-04T21:34:17.510050+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- cryptocurrency
 - social
-- videos
 - news
+- cryptocurrency
+- videos
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** February 04, 2026 at 20:46 UTC  
+**Last Updated:** February 04, 2026 at 21:34 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -87,7 +87,7 @@ Rank #1
 
 Bitcoin ponzi finally dead now. With this post I've completed the ritual.
 
-3h ago
+4h ago
 
 ---
 
@@ -101,7 +101,7 @@ I hope this is way more better. enjoy pain, pain zone, max pain.
 
 **[Sometimes I don`t](https://www.reddit.com/r/Bitcoin/comments/1qvh12n/sometimes_i_dont/)**
 
-14h ago
+15h ago
 
 ---
 
@@ -121,7 +121,7 @@ With all the recent volatility, macro noise, and people getting jumpy again, I k
 
 **[Bitcoin](https://www.reddit.com/r/Bitcoin/comments/1qvxdx6/bitcoin/)**
 
-1h ago
+2h ago
 
 ---
 
@@ -129,7 +129,7 @@ With all the recent volatility, macro noise, and people getting jumpy again, I k
 
 Relax. Keep buying on schedule and check back in, in a couple of years. You'll laugh at yourself for being worried.
 
-3h ago
+4h ago
 
 ---
 
@@ -137,7 +137,7 @@ Relax. Keep buying on schedule and check back in, in a couple of years. You'll l
 
 🫡
 
-3h ago
+4h ago
 
 ---
 
@@ -145,7 +145,7 @@ Relax. Keep buying on schedule and check back in, in a couple of years. You'll l
 
 Crypto life is hard to explain sometimes 😅
 
-3h ago
+4h ago
 
 ---
 
@@ -157,7 +157,7 @@ Crypto life is hard to explain sometimes 😅
 
 Michael Burry warns Bitcoin could face a “death spiral,” pressuring corporate holders, miners, and crypto stocks.
 
-Seeking Alpha • 10h ago
+Seeking Alpha • 11h ago
 
 ---
 
@@ -165,7 +165,7 @@ Seeking Alpha • 10h ago
 
 Tokenized silver futures logged one of the largest wipeouts across crypto markets, overtaking the usual leaders bitcoin and ether.
 
-CoinDesk • 15h ago
+CoinDesk • 16h ago
 
 ---
 
@@ -173,7 +173,7 @@ CoinDesk • 15h ago
 
 Michael Burry said bitcoin’s slide below $73,000 may have forced institutions to sell up to $1 billion in gold and silver to cover losses.
 
-Bitbo • 9h ago
+Bitbo • 10h ago
 
 ---
 
@@ -189,7 +189,7 @@ CNBC • 2d ago
 
 Bitcoin developer Luke Dashjr urged Blockstream CEO Adam Back to step down following a new release of files related to Jeffrey Epstein.
 
-Yahoo Finance • 1h ago
+Yahoo Finance • 2h ago
 
 ---
 
@@ -205,13 +205,13 @@ CNN • 1d ago
 
 Bitcoin also tumbled around 5% to its lowest level since President Donald Trump's victory in November 2024.
 
-NBC News • 23h ago
+NBC News • 1d ago
 
 ---
 
 **[Bitcoin Falls Below $73,000](https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-02-04-2026/card/bitcoin-falls-below-73-000-qa0DGgMIgEfkZ5g0NypY?gaa_at=eafs&gaa_n=AWEtsqdTD6aSUzwa7bTepEzyU6cqoTUXEA_XZjoVZG9G7qMuOaWMThMkgA8A&gaa_ts=6983b393&gaa_sig=YiJYvBak-Jvjw2BM8MEApiKYbS3570OdqxFhm6AvdcrRtL1Ng2_4c1D5Oqab9Tb0NqIvaJsJMjdS3Q6U7Tlj9Q%3D%3D)**
 
-The Wall Street Journal • 1h ago
+The Wall Street Journal • 2h ago
 
 ---
 
@@ -243,7 +243,7 @@ x.com • 7h ago
 
 Crypto treasury companies quietly crept into index funds and retirement accounts. This collapse is good news for all of us.
 
-⬆️ 4 • 💬 1 • 11h ago • [Slate Magazine](https://slate.com/technology/2026/02/bitcoin-crypto-treasury-wall-street-microstrategy.html)
+⬆️ 4 • 💬 1 • 12h ago • [Slate Magazine](https://slate.com/technology/2026/02/bitcoin-crypto-treasury-wall-street-microstrategy.html)
 
 ---
 
@@ -251,7 +251,7 @@ Crypto treasury companies quietly crept into index funds and retirement accounts
 
 453+ bitcoin treasuries. 3.94M BTC+ BTC tracked on-chain. From Shrimp to Sovereign.
 
-⬆️ 4 • 💬 0 • 7h ago • [bitcoincompanies.co](https://bitcoincompanies.co/)
+⬆️ 4 • 💬 0 • 8h ago • [bitcoincompanies.co](https://bitcoincompanies.co/)
 
 ---
 
@@ -259,7 +259,7 @@ Crypto treasury companies quietly crept into index funds and retirement accounts
 
 Bitcoin behaves more like an "ATM" during uncertain times, with investors quickly selling it to raise cash.
 
-⬆️ 3 • 💬 0 • 4h ago • [coindesk.com](https://www.coindesk.com/markets/2026/01/24/here-s-why-bitcoin-s-is-failing-its-role-as-a-safe-haven-versus-gold)
+⬆️ 3 • 💬 0 • 5h ago • [coindesk.com](https://www.coindesk.com/markets/2026/01/24/here-s-why-bitcoin-s-is-failing-its-role-as-a-safe-haven-versus-gold)
 
 ---
 
@@ -273,7 +273,7 @@ Cryptocurrency markets fell as global equities and precious metals sold off whil
 
 **[Show HN: GrahamBell – This is what Bitcoin mining looked like in 2009](https://news.ycombinator.com/item?id=46885212)**
 
-⬆️ 2 • 💬 0 • 7h ago
+⬆️ 2 • 💬 0 • 8h ago
 
 ---
 
@@ -295,7 +295,7 @@ PoW + EVM cryptocurrency. 21M fixed supply, fair launch, no team, no foundation.
 
 Bitcoin plunged to a two-month low Thursday as risk-on assets broadly fell—and even gold and silver gave up earlier gains.
 
-⬆️ 1 • 💬 0 • 5d ago • [Decrypt](https://decrypt.co/356330/bitcoin-2-month-low-gold-stocks-give-up-gains-crypto-liquidations-800m)
+⬆️ 1 • 💬 0 • 6d ago • [Decrypt](https://decrypt.co/356330/bitcoin-2-month-low-gold-stocks-give-up-gains-crypto-liquidations-800m)
 
 ---
 
@@ -325,7 +325,7 @@ BIGGEST CRYPTO DUMP EVER HAPPENING NOW! (What Comes Next?) ✓ Bitunix (no kyc, 
 
 📺 Altcoin Daily
 
-👁️ 55K • 👍 3K • 💬 436 • ⏱️ 10:14 • 22h ago
+👁️ 55K • 👍 3K • 💬 436 • ⏱️ 10:14 • 23h ago
 
 ---
 
@@ -355,7 +355,7 @@ In recent years, institutions have gone all in on Bitcoin. At first glance, this
 
 📺 Coin Bureau
 
-👁️ 33K • 👍 2K • 💬 243 • ⏱️ 20:52 • 6h ago
+👁️ 33K • 👍 2K • 💬 243 • ⏱️ 20:52 • 7h ago
 
 ---
 
@@ -365,7 +365,7 @@ Let's provide a Bitcoin damage report. Into The Cryptoverse Premium: https://int
 
 📺 Benjamin Cowen
 
-👁️ 53K • 👍 4K • 💬 163 • ⏱️ 56:53 • 15h ago
+👁️ 53K • 👍 4K • 💬 163 • ⏱️ 56:53 • 16h ago
 
 ---
 
@@ -385,7 +385,7 @@ Make Free Predictions on *ClashPicks* ▻ https://www.clashpicks.com/ Follow Cla
 
 📺 CryptosRUs
 
-👁️ 29K • 👍 1K • 💬 773 • ⏱️ 10:35 • 19h ago
+👁️ 29K • 👍 1K • 💬 773 • ⏱️ 10:35 • 20h ago
 
 ---
 
