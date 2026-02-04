@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-02-04T17:25:04.470355+00:00'
+updated: '2026-02-04T18:08:31.504080+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- social
 - cryptocurrency
-- news
+- social
 - videos
+- news
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** February 04, 2026 at 17:25 UTC  
+**Last Updated:** February 04, 2026 at 18:08 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -81,7 +81,7 @@ Rank #1
 
 I hope this is way more better. enjoy pain, pain zone, max pain.
 
-7h ago
+8h ago
 
 ---
 
@@ -95,13 +95,13 @@ I hope this is way more better. enjoy pain, pain zone, max pain.
 
 I bought, I sold too early, I tried to “be smart,” I tried to time dips… and every cycle I ended up watching price run without me. The worst part wasn’t even the money — it was realizing I keep trading my conviction for emotions. Fear when it drops. FOMO when it pumps. Then I tell myself “next time I’ll hold,” and I still fold the moment it gets uncomfortable. Now we’re back in that zone again. Red candles, scary headlines, people doomposting, and my brain is screaming “get out before it gets worse.” So I’m posting this as a reminder to myself: this is literally the moment I always regret later. If I really believe BTC is a long-term thing, then short-term pain is part of the deal. This time I’m keeping it simple: I’m holding, and I’m stacking what I can. No hero trades. No panic sells. No trying to be a genius for one week. I’ve already regretted not holding for five years. I’m not doing that again.
 
-8h ago
+9h ago
 
 ---
 
 **[I'm not fucking selling](https://www.reddit.com/r/Bitcoin/comments/1qvtn6n/im_not_fucking_selling/)**
 
-39m ago
+1h ago
 
 ---
 
@@ -109,7 +109,7 @@ I bought, I sold too early, I tried to “be smart,” I tried to time dips… a
 
 tl;dr: Over the course of the past 4 years, I took out ~$150,000 in personal loans and 0% credit card balance transfer loans to purchase 4.75 Bitcoin. I've paid ~$17,000 in interest. I've been making updates every 6 months or so since the beginning. See my post history for previous updates. ***** Today, February 3rd, 2026 Bitcoin is trading at $75,000 which brings the current value of my 4.75₿ to $356,000. The average price I paid is ~$35,000 per Bitcoin. My total cost basis is ~$167,000 for 4.5₿ ($150k in loans + $17,000 in interest). This comes to ~113% unrealized profit or ~$189,000 in dollar terms as of today. ***** What’s new since my last update? Not much is new except that… I finished paying off all my loans!!! What a relief! I was never really worried though because I never borrowed more than I could afford to service. Bitcoin’s price action has been disappointing to say the least, but I’m thinking this is an opportunity. So I plan on taking out another $50k in loans if it breaks down below $70k which seem highly likely… probably at the 200SMA. In the meantime, I’m throwing everything I can at in each month while we’re in the $70-80k range with earned income from my job. I’ve been stacking this whole time while paying down the loans.
 
-21h ago
+22h ago
 
 ---
 
@@ -125,7 +125,7 @@ There will be a dip which will hit the bottom. So if you want to get btc for tha
 
 Bitcoin ponzi finally dead now. With this post I've completed the ritual.
 
-22m ago
+1h ago
 
 ---
 
@@ -133,7 +133,7 @@ Bitcoin ponzi finally dead now. With this post I've completed the ritual.
 
 The amount of posts having melt downs is really bothering me. Welcome to crypto. Stop losing your shit and just accept what’s happening. Everyone has been predicting this crash for a very long time. Hold.
 
-8h ago
+9h ago
 
 ---
 
@@ -141,7 +141,7 @@ The amount of posts having melt downs is really bothering me. Welcome to crypto.
 
 down down down
 
-18h ago
+19h ago
 
 ---
 
@@ -149,7 +149,7 @@ down down down
 
 I’m a regular Joe with his share of problems. I just want to thank some people of this subreddit, especially the ones writing nasty or provocative comments, you guys have build my pirate Bitcoin mindset, which is the one that holds me firm to my Bitcoin ship every shorn and makes me ignore the noise. During the last storm I was able to buy more at 73k, not much tbh, I usually buy (since 2021) 100-300$ month or sometimes after more time cause I said I’ve got my share of problems, but I’ll never sell. I don’t need any guru, YouTuber or tiktoker or crystal ball signal screamer, I feel the sea now. Thank you guys, and fuck off scammers.
 
-5h ago
+6h ago
 
 ---
 
@@ -161,7 +161,7 @@ I’m a regular Joe with his share of problems. I just want to thank some people
 
 In a Substack post Monday, Burry argued that the original cryptocurrency, which has fallen 40% since peaking in October, has been exposed as a purely speculative asset, failing to take off as a debasement hedge similar to precious metals.  Additional drops, he said, would push Bitcoin miners toward bankruptcy.  Bitcoin has failed to respond to typical drivers like dollar weakness or geopolitical risk, unlike gold and silver which rallied to records as global tensions fueled fears about dollar debasement.
 
-Yahoo Finance • 4h ago
+Yahoo Finance • 5h ago
 
 ---
 
@@ -169,7 +169,7 @@ Yahoo Finance • 4h ago
 
 Michael Burry warns Bitcoin could face a “death spiral,” pressuring corporate holders, miners, and crypto stocks.
 
-Seeking Alpha • 6h ago
+Seeking Alpha • 7h ago
 
 ---
 
@@ -185,7 +185,7 @@ CoinDesk • 12h ago
 
 The nomination of Kevin Warsh as Fed chair was the latest in a long line of hits absorbed by bitcoin in recent months.
 
-Business Insider • 6h ago
+Business Insider • 7h ago
 
 ---
 
@@ -193,7 +193,7 @@ Business Insider • 6h ago
 
 A nervous mood swept through markets Tuesday as stocks stumbled and bitcoin slumped to its lowest level since November 2024.
 
-CNN • 21h ago
+CNN • 22h ago
 
 ---
 
@@ -209,7 +209,7 @@ NBC News • 20h ago
 
 US stock futures (ES=F, NQ=F, YM=F) are mixed in Wednesday's pre-market trading after yesterday's sell-off in software stocks. Advanced Micro Devices (AMD) shares continue to fall despite reporting fourth quarter results that beat Wall Street's earnings and revenue estimates. Bitcoin (BTC-USD) has fallen to its lowest level since November 2024, now hovering just a notch above $75,000 per token. To watch more expert insights and analysis on the latest market action, check out more&nbsp;Morning Brief.
 
-Yahoo Finance • 3h ago
+Yahoo Finance • 4h ago
 
 ---
 
@@ -243,7 +243,7 @@ thestreet.com • 21h ago
 
 **[Bitcoin Looks Set for Longest Monthly Losing Streak Since 2018](https://news.ycombinator.com/item?id=46838644)**
 
-⬆️ 69 • 💬 83 • 3d ago • [bloomberg.com](https://www.bloomberg.com/news/articles/2026-01-30/bitcoin-btc-slides-toward-longest-monthly-losing-streak-since-2018)
+⬆️ 69 • 💬 83 • 4d ago • [bloomberg.com](https://www.bloomberg.com/news/articles/2026-01-30/bitcoin-btc-slides-toward-longest-monthly-losing-streak-since-2018)
 
 ---
 
@@ -251,7 +251,7 @@ thestreet.com • 21h ago
 
 Crypto treasury companies quietly crept into index funds and retirement accounts. This collapse is good news for all of us.
 
-⬆️ 4 • 💬 1 • 8h ago • [Slate Magazine](https://slate.com/technology/2026/02/bitcoin-crypto-treasury-wall-street-microstrategy.html)
+⬆️ 4 • 💬 1 • 9h ago • [Slate Magazine](https://slate.com/technology/2026/02/bitcoin-crypto-treasury-wall-street-microstrategy.html)
 
 ---
 
@@ -259,7 +259,7 @@ Crypto treasury companies quietly crept into index funds and retirement accounts
 
 453+ bitcoin treasuries. 3.94M BTC+ BTC tracked on-chain. From Shrimp to Sovereign.
 
-⬆️ 4 • 💬 0 • 4h ago • [bitcoincompanies.co](https://bitcoincompanies.co/)
+⬆️ 4 • 💬 0 • 5h ago • [bitcoincompanies.co](https://bitcoincompanies.co/)
 
 ---
 
@@ -267,7 +267,7 @@ Crypto treasury companies quietly crept into index funds and retirement accounts
 
 Bitcoin behaves more like an "ATM" during uncertain times, with investors quickly selling it to raise cash.
 
-⬆️ 3 • 💬 0 • 59m ago • [coindesk.com](https://www.coindesk.com/markets/2026/01/24/here-s-why-bitcoin-s-is-failing-its-role-as-a-safe-haven-versus-gold)
+⬆️ 3 • 💬 0 • 1h ago • [coindesk.com](https://www.coindesk.com/markets/2026/01/24/here-s-why-bitcoin-s-is-failing-its-role-as-a-safe-haven-versus-gold)
 
 ---
 
@@ -281,7 +281,7 @@ Cryptocurrency markets fell as global equities and precious metals sold off whil
 
 **[Show HN: GrahamBell – This is what Bitcoin mining looked like in 2009](https://news.ycombinator.com/item?id=46885212)**
 
-⬆️ 2 • 💬 0 • 4h ago
+⬆️ 2 • 💬 0 • 5h ago
 
 ---
 
@@ -333,7 +333,7 @@ Make Free Predictions on *ClashPicks* ▻ https://www.clashpicks.com/ Follow Cla
 
 📺 CryptosRUs
 
-👁️ 28K • 👍 1K • 💬 759 • ⏱️ 10:35 • 15h ago
+👁️ 28K • 👍 1K • 💬 759 • ⏱️ 10:35 • 16h ago
 
 ---
 
@@ -343,7 +343,7 @@ BIGGEST CRYPTO DUMP EVER HAPPENING NOW! (What Comes Next?) ✓ Bitunix (no kyc, 
 
 📺 Altcoin Daily
 
-👁️ 51K • 👍 3K • 💬 398 • ⏱️ 10:14 • 19h ago
+👁️ 51K • 👍 3K • 💬 398 • ⏱️ 10:14 • 20h ago
 
 ---
 
@@ -373,7 +373,7 @@ I AM NOT A FINANCIAL ADVISOR. ALL VIDEOS IS FOR ENTERTAINTMENT PURPOSE; AND I AM
 
 📺 Satoshi Stacker
 
-👁️ 14K • 👍 691 • 💬 89 • ⏱️ 7:33 • 10h ago
+👁️ 14K • 👍 691 • 💬 89 • ⏱️ 7:33 • 11h ago
 
 ---
 
@@ -383,7 +383,7 @@ In recent years, institutions have gone all in on Bitcoin. At first glance, this
 
 📺 Coin Bureau
 
-👁️ 12K • 👍 1K • 💬 149 • ⏱️ 20:52 • 3h ago
+👁️ 12K • 👍 1K • 💬 149 • ⏱️ 20:52 • 4h ago
 
 ---
 
@@ -393,7 +393,7 @@ WEEX: https://www.weex.com/events/promo/usdtgiveaway-v2?vipCode=00dt 25% FEE DIS
 
 📺 Crypto Rover
 
-👁️ 10K • 👍 663 • 💬 260 • ⏱️ 11:48 • 9h ago
+👁️ 10K • 👍 663 • 💬 260 • ⏱️ 11:48 • 10h ago
 
 ---
 
@@ -403,7 +403,7 @@ WEEX: https://www.weex.com/events/promo/usdtgiveaway-v2?vipCode=00dt 25% FEE DIS
 
 📺 Bloomberg Television
 
-👁️ 39K • 👍 432 • 💬 280 • ⏱️ 7:56 • 20h ago
+👁️ 39K • 👍 432 • 💬 280 • ⏱️ 7:56 • 21h ago
 
 ---
 

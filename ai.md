@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-02-04T17:25:04.461757+00:00'
+updated: '2026-02-04T18:08:31.495519+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
 - repositories
 - social
-- news
 - videos
+- news
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** February 04, 2026 at 17:25 UTC  
+**Last Updated:** February 04, 2026 at 18:08 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -49,7 +49,7 @@ Source: Astrophysicist David Kipping's Cool Worlds Podcast
 
 Ran a real-world test this week: Gemma 3 12B vs paid frontier models across actual business workflows. The honest assessment? 90% of tasks: no meaningful difference. 5%: frontier models worth it (pay-per-use). 5%: neither quite there yet. This matches the data - open models are catching up fast. The article explores: - Why the "gasoline doesn't matter" - only if it powers your task - The shift from "one model to rule them all" to specialized local models - Why even AGI will eventually be open-sourced (historical precedent) - The water company future: infrastructure > model quality https://www.linkedin.com/pulse/i-spent-week-openclaw-ai-tool-heres-what-0-solved-faisal-al-khunizan-orhraf/ Curious what others are seeing in their domains.
 
-1h ago
+2h ago
 
 ---
 
@@ -57,7 +57,7 @@ Ran a real-world test this week: Gemma 3 12B vs paid frontier models across actu
 
 CEO Strauss Zelnick says generative AI remains a tool for enabling creators to do bigger and better things, but it sounds like a shift away from past comments.
 
-🔗 [PC Gamer](https://www.pcgamer.com/software/ai/were-actively-embracing-generative-ai-take-two-boss-says-after-previously-expressing-skepticism-we-have-hundreds-of-pilots-and-implementations-across-our-company/) • 7h ago
+🔗 [PC Gamer](https://www.pcgamer.com/software/ai/were-actively-embracing-generative-ai-take-two-boss-says-after-previously-expressing-skepticism-we-have-hundreds-of-pilots-and-implementations-across-our-company/) • 8h ago
 
 ---
 
@@ -71,7 +71,7 @@ Elon Musk's X and Grok platforms are facing increased scrutiny from authorities 
 
 **[Alibaba releases Qwen3-Coder-Next to rival OpenAI, Anthropic](https://www.reddit.com/r/artificial/comments/1qvn7o5/alibaba_releases_qwen3codernext_to_rival_openai/)**
 
-🔗 [marktechpost.com](https://www.marktechpost.com/2026/02/03/qwen-team-releases-qwen3-coder-next-an-open-weight-language-model-designed-specifically-for-coding-agents-and-local-development/) • 4h ago
+🔗 [marktechpost.com](https://www.marktechpost.com/2026/02/03/qwen-team-releases-qwen3-coder-next-an-open-weight-language-model-designed-specifically-for-coding-agents-and-local-development/) • 5h ago
 
 ---
 
@@ -87,7 +87,7 @@ SpaceX's acquisition of xAI signals a bold push to merge artificial intelligence
 
 Yann Lecun recently shared that a cat is smarter than ChatGPT and that we are never going to get to human-level intelligence by just training on text. My personal opinion is not only are they unreliable but it can be a safety issue as well in high-stakes environments like enterprises, healthcare and more. World models are fundamentally different. These AI systems build internal representations of how reality works, allowing them to understand cause and effect rather than just predict tokens. There has been a shift lately and major figures from Nvidia's CEO Jensen Huang to Demis Hassabis at Google DeepMind are talking more openly about world models. I believe we're still in the early stages of discovering how transformative this technology will be for reaching AGI. Research and application are accelerating, especially in enterprise contexts. A few examples include: WoW (an agentic safety benchmark) uses audit logs to give agents a "world model" for tracking the consequences of their actions. Similarly, Kona by Logical Intelligence is developing energy-based reasoning models that move beyond pure language prediction. While more practical applications are still emerging, the direction is clear: true intelligence requires understanding the world, not just language patterns. Curious what others think?
 
-19h ago
+20h ago
 
 ---
 
@@ -111,7 +111,7 @@ I need something that can properly output strict and consistent JSON structure. 
 
 I found this argument interesting. If US allows Nvidia to do business with China, then Chinese AI firms will remain dependent on American AI hardware, and hence US will have indirect influence over the level of development that Chinese AI will make.
 
-🔗 [decodingthefutureresearch.substack.com](https://decodingthefutureresearch.substack.com/p/anthropic-ceo-dario-amodei-is-against) • 7h ago
+🔗 [decodingthefutureresearch.substack.com](https://decodingthefutureresearch.substack.com/p/anthropic-ceo-dario-amodei-is-against) • 8h ago
 
 ---
 
@@ -121,7 +121,7 @@ I found this argument interesting. If US allows Nvidia to do business with China
 
 **[Microsoft’s Pivotal AI Product Is Running Into Big Problems](https://www.wsj.com/tech/ai/microsofts-pivotal-ai-product-is-running-into-big-problems-ce235b28?gaa_at=eafs&gaa_n=AWEtsqcFSvCizydf5RKDiDv4WnCdjlxonqquOhPSqCVdKehERL7fbEkIE2a3&gaa_ts=69838455&gaa_sig=iFQXLVR2gg1m9_gtG1xNk59QRfVEfDQNCd6F1Ly58vmrd_EUYreMEsvEUf2Nc4pG4ug1FjlMjqseTEOnCLRGOg%3D%3D)**
 
-The Wall Street Journal • 15h ago
+The Wall Street Journal • 16h ago
 
 ---
 
@@ -129,13 +129,13 @@ The Wall Street Journal • 15h ago
 
 Buyer beware in software!
 
-Yahoo Finance • 4h ago
+Yahoo Finance • 5h ago
 
 ---
 
 **[Nvidia's Huang dismisses fears AI will replace software tools as stock selloff deepens](https://www.reuters.com/business/nvidias-huang-dismisses-fears-ai-will-replace-software-tools-stock-selloff-2026-02-04/)**
 
-Reuters • 10h ago
+Reuters • 11h ago
 
 ---
 
@@ -143,7 +143,7 @@ Reuters • 10h ago
 
 You don't ask your kids to prove to you how they're going to make money for you, Huang said. "We never do that at home. But we do it at work."
 
-Fortune • 36m ago
+Fortune • 1h ago
 
 ---
 
@@ -151,13 +151,13 @@ Fortune • 36m ago
 
 AI can take notes—and give advice
 
-The Week • 43m ago
+The Week • 1h ago
 
 ---
 
 **[US software stocks hit by Anthropic wake-up call on AI disruption](https://www.reuters.com/business/media-telecom/global-software-stocks-hit-by-anthropic-wake-up-call-ai-disruption-2026-02-04/)**
 
-Reuters • 7h ago
+Reuters • 8h ago
 
 ---
 
@@ -165,13 +165,13 @@ Reuters • 7h ago
 
 Generated images for listings are disturbing—and not just because they can feel like a scam.
 
-The Atlantic • 5h ago
+The Atlantic • 6h ago
 
 ---
 
 **[Bedrock, an A.I. Start-Up for Construction, Raises $270 Million](https://www.nytimes.com/2026/02/04/business/dealbook/bedrock-robotics-ai-fundraise.html)**
 
-The New York Times • 4h ago
+The New York Times • 5h ago
 
 ---
 
@@ -179,7 +179,7 @@ The New York Times • 4h ago
 
 Alexa+ launched last year in an "early access" preview, meaning consumers had to join a waitlist or buy a new device to use the service.
 
-CNBC • 3h ago
+CNBC • 4h ago
 
 ---
 
@@ -187,7 +187,7 @@ CNBC • 3h ago
 
 Amazon opens Alexa+ to everyone in the U.S. The AI feature is free for Prime members across devices, and free for everyone on mobile and web.
 
-TechCrunch • 3h ago
+TechCrunch • 4h ago
 
 ---
 
@@ -207,7 +207,7 @@ A bifurcation is happening in AI adoption - power users shipping products in day
 
 Production-grade Ghidra MCP Server — 132 endpoints, cross-binary documentation transfer, batch analysis, headless mode, and Docker deployment for AI-powered reverse engineering - bethington/ghidra-mcp
 
-⬆️ 211 • 💬 53 • 10h ago • [GitHub](https://github.com/bethington/ghidra-mcp)
+⬆️ 211 • 💬 53 • 11h ago • [GitHub](https://github.com/bethington/ghidra-mcp)
 
 ---
 
@@ -231,7 +231,7 @@ People familiar with Microsoft's plans say that the company moving to streamline
 
 China's space program is quietly building momentum for a moon landing by 2030. Could they outpace NASA's Artemis mission?
 
-⬆️ 142 • 💬 162 • 21h ago • [IEEE Spectrum](https://spectrum.ieee.org/china-moon-mission-mengzhou-artemis)
+⬆️ 142 • 💬 162 • 22h ago • [IEEE Spectrum](https://spectrum.ieee.org/china-moon-mission-mengzhou-artemis)
 
 ---
 
@@ -239,7 +239,7 @@ China's space program is quietly building momentum for a moon landing by 2030. C
 
 We’re expanding Game Arena with Poker and Werewolf, while Gemini 3 Pro and Flash top our chess leaderboard.
 
-⬆️ 131 • 💬 54 • 1d ago • [Google](https://blog.google/innovation-and-ai/models-and-research/google-deepmind/kaggle-game-arena-updates/)
+⬆️ 131 • 💬 54 • 2d ago • [Google](https://blog.google/innovation-and-ai/models-and-research/google-deepmind/kaggle-game-arena-updates/)
 
 ---
 
@@ -255,7 +255,7 @@ The marketplace where AI agents rent humans. MCP integration, REST API, flexible
 
 Like many developers, I find myself more and more using AI agents to help with software development.  I currently use Claude Code, the co...
 
-⬆️ 112 • 💬 67 • 23h ago • [Senko Rašić](https://blog.senko.net/sandboxing-ai-agents-in-linux)
+⬆️ 112 • 💬 67 • 1d ago • [Senko Rašić](https://blog.senko.net/sandboxing-ai-agents-in-linux)
 
 ---
 
@@ -269,7 +269,7 @@ If you paint a picture of Sonic the Hedgehog in your living room, you are techni
 
 **[AI and Trust (2023)](https://news.ycombinator.com/item?id=46877075)**
 
-⬆️ 92 • 💬 17 • 20h ago • [schneier.com](https://www.schneier.com/blog/archives/2023/12/ai-and-trust.html)
+⬆️ 92 • 💬 17 • 21h ago • [schneier.com](https://www.schneier.com/blog/archives/2023/12/ai-and-trust.html)
 
 ---
 
@@ -283,7 +283,7 @@ A new AI automation tool from Anthropic PBC sparked a $285 billion rout in stock
 
 📺 Bloomberg Television
 
-👁️ 171K • 👍 2K • 💬 300 • ⏱️ 2:44 • 10h ago
+👁️ 171K • 👍 2K • 💬 300 • ⏱️ 2:44 • 11h ago
 
 ---
 
@@ -293,7 +293,7 @@ FormerNetworkExec #CallMeChato #moltbook Moltbook will rule the world. Thanks fo
 
 📺 Call me Chato
 
-👁️ 7K • 👍 1K • 💬 284 • ⏱️ 8:37 • 17h ago
+👁️ 7K • 👍 1K • 💬 284 • ⏱️ 8:37 • 18h ago
 
 ---
 
@@ -323,7 +323,7 @@ Want to make money and save time with AI? Get AI Coaching, Support & Courses ...
 
 📺 Julian Goldie SEO
 
-👁️ 3K • 👍 67 • 💬 13 • ⏱️ 8:12 • 16h ago
+👁️ 3K • 👍 67 • 💬 13 • ⏱️ 8:12 • 17h ago
 
 ---
 
@@ -333,7 +333,7 @@ jobmarket #ai #tech In 2026, the promise of AI replacing 80% of developers has c
 
 📺 Mackard
 
-👁️ 137K • 👍 5K • 💬 659 • ⏱️ 8:12 • 23h ago
+👁️ 137K • 👍 5K • 💬 659 • ⏱️ 8:12 • 1d ago
 
 ---
 
@@ -343,7 +343,7 @@ In this early test, we dive deep into Claude Sonnet 5, exploring why it's being 
 
 📺 WorldofAI
 
-👁️ 29K • 👍 930 • 💬 90 • ⏱️ 11:44 • 10h ago
+👁️ 29K • 👍 930 • 💬 90 • ⏱️ 11:44 • 11h ago
 
 ---
 
@@ -353,7 +353,7 @@ Starforge PC https://starforgepc.com/moist-yt Get Goof Juice and use code MOIST 
 
 📺 penguinz0
 
-👁️ 509K • 👍 29K • 💬 2K • ⏱️ 8:34 • 14h ago
+👁️ 509K • 👍 29K • 💬 2K • ⏱️ 8:34 • 15h ago
 
 ---
 
@@ -373,7 +373,7 @@ Here's my thoughts on all the Moltbook stuff and everything that's happened sinc
 
 📺 Matt Wolfe
 
-👁️ 33K • 👍 2K • 💬 336 • ⏱️ 19:52 • 10h ago
+👁️ 33K • 👍 2K • 💬 336 • ⏱️ 19:52 • 11h ago
 
 ---
 
@@ -679,7 +679,7 @@ The Ultimate Collection of 600+ Agentic Skills for Claude Code/Antigravity/Curso
 
 `Python` `agentic-skills` `ai-agents` `antigravity` `autonomous-coding` `claude-code`
 
-⭐ 7.1k • 🔱 1.5k • 9h ago
+⭐ 7.1k • 🔱 1.5k • 10h ago
 
 ---
 
@@ -689,7 +689,7 @@ Marketing skills for Claude Code and AI agents. CRO, copywriting, SEO, analytics
 
 `claude` `codex` `marketing`
 
-⭐ 5.8k • 🔱 637 • 15h ago
+⭐ 5.8k • 🔱 637 • 16h ago
 
 ---
 
@@ -705,7 +705,7 @@ Claude Code skill that removes signs of AI-generated writing from text
 
 Elevate your AI research writing, no more tedious polishing ✨ 
 
-⭐ 3.0k • 🔱 254 • 5h ago
+⭐ 3.0k • 🔱 254 • 6h ago
 
 ---
 

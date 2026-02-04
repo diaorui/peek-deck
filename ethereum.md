@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-02-04T17:25:04.476462+00:00'
+updated: '2026-02-04T18:08:31.510405+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- social
 - cryptocurrency
-- news
+- social
 - videos
+- news
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** February 04, 2026 at 17:25 UTC  
+**Last Updated:** February 04, 2026 at 18:08 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -72,7 +72,7 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-11h ago
+12h ago
 
 ---
 
@@ -80,7 +80,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 The long-term technical vision for Ethereum is undergoing a significant correction. : Get all the latest crypto news at Sandmark
 
-🔗 [Sandmark](https://www.sandmark.com/news/top-news/buterin-reframes-ethereum-strategy-scaling-focus-returns-base-layer?utm_medium=referral&utm_source=redbot&utm_campaign=redbot-ww-en-brand) • 3h ago
+🔗 [Sandmark](https://www.sandmark.com/news/top-news/buterin-reframes-ethereum-strategy-scaling-focus-returns-base-layer?utm_medium=referral&utm_source=redbot&utm_campaign=redbot-ww-en-brand) • 4h ago
 
 ---
 
@@ -104,7 +104,7 @@ There have recently been some discussions on the ongoing role of L2s in the Ethe
 
 Been away from Ethereum from some time and would like to jump onboard again. It seems to me neutral opensource software will become increasingly relevant due to the changing world order and Ethereum will play a significant role. I'm particularly interested in how Ethereum can be used for daily payments via stablecoins. I would like to know if anyone is working on (1) on-chain oracles for currency exchange-rates and (2) stablecoins for developing nation currencies. My aim is to understand what kind of on-chain infrastructure needs to be there to enable normal people to transparently use Ethereum to pay for their morning coffee. Happy to discuss!
 
-6h ago
+7h ago
 
 ---
 
@@ -118,7 +118,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 **[ZK (Zero knowledge) proof for SHA-256: 312-byte proof, ~18µs verification](https://www.reddit.com/r/ethereum/comments/1qv2hzp/zk_zero_knowledge_proof_for_sha256_312byte_proof/)**
 
-21h ago
+22h ago
 
 ---
 
@@ -176,7 +176,7 @@ The Block • 1d ago
 
 Leaders across the layer-2 space don't see this moment as an existential threat, but rather that Ethereum’s progress is forcing them to clarify their purpose.
 
-CoinDesk • 35m ago
+CoinDesk • 1h ago
 
 ---
 
@@ -184,7 +184,7 @@ CoinDesk • 35m ago
 
 Publicly traded Swiss bank UBS is working on plans to offer digital assets trading and tokenized service offerings for users, its CEO said.
 
-Yahoo Finance • 23m ago
+Yahoo Finance • 1h ago
 
 ---
 
@@ -192,7 +192,7 @@ Yahoo Finance • 23m ago
 
 Polkadot now supports smart contracts. They can be created using Ethereum compatible tooling.  The hope is Polkadot can entice Ethereum developers.
 
-dlnews.com • 7m ago
+dlnews.com • 50m ago
 
 ---
 
@@ -206,7 +206,7 @@ Barron's • 6h ago
 
 CEO Tom Lee believes “the price of ETH is not reflective of the high utility of ETH and its role as the future of finance.”...
 
-Sherwood News • 1d ago
+Sherwood News • 2d ago
 
 ---
 
@@ -222,7 +222,7 @@ TradingView • 14h ago
 
 The crypto selloff has been deeper than anticipated, but Tom Lee sees price and timing align for a potential bottom. Crypto Selloff Deeper Than Expected… In a CNBC Squawk Box interview on Monday, Lee, head of research at Fundstrat Global Advisors and CIO of Fundstrat Capital, said crypto's recent decline exceeded expectations despite solid fundamentals. He attributed the weakness to risk appetite rotating into gold and silver, which surged early in the year and sparked fear of missing out. Don't
 
-Yahoo Finance • 2h ago
+Yahoo Finance • 3h ago
 
 ---
 
@@ -236,7 +236,7 @@ Ethereum has experienced multiple major pullbacks throughout its history and eve
 
 📺 The Value Thinker
 
-👁️ 3K • 👍 403 • 💬 122 • ⏱️ 22:38 • 4h ago
+👁️ 3K • 👍 403 • 💬 122 • ⏱️ 22:38 • 5h ago
 
 ---
 
@@ -246,7 +246,7 @@ Is the Ethereum dream dead? Vitalik Buterin just dropped a bombshell that has th
 
 📺 Discover Crypto
 
-👁️ 3K • 👍 277 • 💬 67 • ⏱️ 1:21:03 • 27m ago
+👁️ 3K • 👍 277 • 💬 67 • ⏱️ 1:21:03 • 1h ago
 
 ---
 
@@ -266,7 +266,7 @@ Bitcoin's dip below $75000 is something David Siemer calls a "buying opportunity
 
 📺 Schwab Network
 
-👁️ 11K • 👍 147 • 💬 17 • ⏱️ 6:37 • 16h ago
+👁️ 11K • 👍 147 • 💬 17 • ⏱️ 6:37 • 17h ago
 
 ---
 
@@ -276,7 +276,7 @@ FREE TRAINING: https://www.bullmania.com EXCHANGES I USE (bybit, pionex): https:
 
 📺 Ivan on Tech
 
-👁️ 15K • 👍 1K • 💬 89 • ⏱️ 50:26 • 7h ago
+👁️ 15K • 👍 1K • 💬 89 • ⏱️ 50:26 • 8h ago
 
 ---
 
@@ -286,7 +286,7 @@ This video provides a professional Elliott Wave and technical analysis of Ethere
 
 📺 More Crypto Online
 
-👁️ 823 • 👍 112 • 💬 7 • ⏱️ 4:15 • 1h ago
+👁️ 823 • 👍 112 • 💬 7 • ⏱️ 4:15 • 2h ago
 
 ---
 
@@ -306,7 +306,7 @@ JACOB'S Whop - Discover The Alpha, Join The VIP Group Today - https://whop.com/o
 
 📺 Jacob Crypto Bury
 
-👁️ 373 • 👍 6 • 💬 47 • ⏱️ 4:54 • 21h ago
+👁️ 373 • 👍 6 • 💬 47 • ⏱️ 4:54 • 22h ago
 
 ---
 
@@ -316,7 +316,7 @@ This video provides a professional Elliott Wave and technical analysis of Ethere
 
 📺 More Crypto Online
 
-👁️ 4K • 👍 246 • 💬 8 • ⏱️ 4:02 • 21h ago
+👁️ 4K • 👍 246 • 💬 8 • ⏱️ 4:02 • 22h ago
 
 ---
 
