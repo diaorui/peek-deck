@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-02-04T14:13:29.142341+00:00'
+updated: '2026-02-04T15:09:10.296232+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
 - videos
-- news
 - social
 - cryptocurrency
+- news
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** February 04, 2026 at 14:13 UTC  
+**Last Updated:** February 04, 2026 at 15:09 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -54,17 +54,17 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1519.73B
+**Market Cap:** $1483.57B
 Rank #1
 
 **Circulating Supply:** 19,982,656 BTC
 95.2% of max
 
 **All-Time High:** $126,080.00
--39.7%
+-41.0%
 
 **All-Time Low:** $67.81
-+112048.7%
++109526.9%
 
 ---
 
@@ -79,7 +79,7 @@ Rank #1
 
 **[Sometimes I don`t](https://www.reddit.com/r/Bitcoin/comments/1qvh12n/sometimes_i_dont/)**
 
-7h ago
+8h ago
 
 ---
 
@@ -87,7 +87,7 @@ Rank #1
 
 tl;dr: Over the course of the past 4 years, I took out ~$150,000 in personal loans and 0% credit card balance transfer loans to purchase 4.75 Bitcoin. I've paid ~$17,000 in interest. I've been making updates every 6 months or so since the beginning. See my post history for previous updates. ***** Today, February 3rd, 2026 Bitcoin is trading at $75,000 which brings the current value of my 4.75₿ to $356,000. The average price I paid is ~$35,000 per Bitcoin. My total cost basis is ~$167,000 for 4.5₿ ($150k in loans + $17,000 in interest). This comes to ~113% unrealized profit or ~$189,000 in dollar terms as of today. ***** What’s new since my last update? Not much is new except that… I finished paying off all my loans!!! What a relief! I was never really worried though because I never borrowed more than I could afford to service. Bitcoin’s price action has been disappointing to say the least, but I’m thinking this is an opportunity. So I plan on taking out another $50k in loans if it breaks down below $70k which seem highly likely… probably at the 200SMA. In the meantime, I’m throwing everything I can at in each month while we’re in the $70-80k range with earned income from my job. I’ve been stacking this whole time while paying down the loans.
 
-18h ago
+19h ago
 
 ---
 
@@ -95,7 +95,7 @@ tl;dr: Over the course of the past 4 years, I took out ~$150,000 in personal loa
 
 I hope this is way more better. enjoy pain, pain zone, max pain.
 
-4h ago
+5h ago
 
 ---
 
@@ -103,7 +103,7 @@ I hope this is way more better. enjoy pain, pain zone, max pain.
 
 I bought, I sold too early, I tried to “be smart,” I tried to time dips… and every cycle I ended up watching price run without me. The worst part wasn’t even the money — it was realizing I keep trading my conviction for emotions. Fear when it drops. FOMO when it pumps. Then I tell myself “next time I’ll hold,” and I still fold the moment it gets uncomfortable. Now we’re back in that zone again. Red candles, scary headlines, people doomposting, and my brain is screaming “get out before it gets worse.” So I’m posting this as a reminder to myself: this is literally the moment I always regret later. If I really believe BTC is a long-term thing, then short-term pain is part of the deal. This time I’m keeping it simple: I’m holding, and I’m stacking what I can. No hero trades. No panic sells. No trying to be a genius for one week. I’ve already regretted not holding for five years. I’m not doing that again.
 
-5h ago
+6h ago
 
 ---
 
@@ -111,7 +111,7 @@ I bought, I sold too early, I tried to “be smart,” I tried to time dips… a
 
 The amount of posts having melt downs is really bothering me. Welcome to crypto. Stop losing your shit and just accept what’s happening. Everyone has been predicting this crash for a very long time. Hold.
 
-5h ago
+6h ago
 
 ---
 
@@ -119,7 +119,7 @@ The amount of posts having melt downs is really bothering me. Welcome to crypto.
 
 down down down
 
-15h ago
+16h ago
 
 ---
 
@@ -127,7 +127,7 @@ down down down
 
 And you are buying right now you’ll make 66% return on your useless fiat. But no you’re scared and bitcoin is dead again.
 
-17h ago
+18h ago
 
 ---
 
@@ -143,7 +143,7 @@ There will be a dip which will hit the bottom. So if you want to get btc for tha
 
 I bought btc at 118k, 114k, and 112k. its almost 20% of my whole portfolio , I cant dca much now because of the situation. I have extra but i dont want to increase it further since Im in fear what should i do? if your in my position what you will do? please dont be biased if you are a fan of btc. give me realistic plan and opinion
 
-20h ago
+21h ago
 
 ---
 
@@ -151,7 +151,7 @@ I bought btc at 118k, 114k, and 112k. its almost 20% of my whole portfolio , I c
 
 I’m a regular Joe with his share of problems. I just want to thank some people of this subreddit, especially the ones writing nasty or provocative comments, you guys have build my pirate Bitcoin mindset, which is the one that holds me firm to my Bitcoin ship every shorn and makes me ignore the noise. During the last storm I was able to buy more at 73k, not much tbh, I usually buy (since 2021) 100-300$ month or sometimes after more time cause I said I’ve got my share of problems, but I’ll never sell. I don’t need any guru, YouTuber or tiktoker or crystal ball signal screamer, I feel the sea now. Thank you guys, and fuck off scammers.
 
-2h ago
+3h ago
 
 ---
 
@@ -163,7 +163,7 @@ I’m a regular Joe with his share of problems. I just want to thank some people
 
 In a Substack post Monday, Burry argued that the original cryptocurrency, which has fallen 40% since peaking in October, has been exposed as a purely speculative asset, failing to take off as a debasement hedge similar to precious metals.  Additional drops, he said, would push Bitcoin miners toward bankruptcy.  Bitcoin has failed to respond to typical drivers like dollar weakness or geopolitical risk, unlike gold and silver which rallied to records as global tensions fueled fears about dollar debasement.
 
-Yahoo Finance • 1h ago
+Yahoo Finance • 2h ago
 
 ---
 
@@ -171,7 +171,7 @@ Yahoo Finance • 1h ago
 
 Famed investor Michael Burry has warned that Bitcoin (BTC) could face deeper losses, with risks spreading across the broader crypto market. In a recent Substack pos...
 
-TipRanks • 25m ago
+TipRanks • 1h ago
 
 ---
 
@@ -179,7 +179,7 @@ TipRanks • 25m ago
 
 Michael Burry warns Bitcoin could face a “death spiral,” pressuring corporate holders, miners, and crypto stocks.
 
-Seeking Alpha • 3h ago
+Seeking Alpha • 4h ago
 
 ---
 
@@ -195,7 +195,7 @@ CNBC • 19h ago
 
 A nervous mood swept through markets Tuesday as stocks stumbled and bitcoin slumped to its lowest level since November 2024.
 
-CNN • 18h ago
+CNN • 19h ago
 
 ---
 
@@ -203,7 +203,7 @@ CNN • 18h ago
 
 Bitcoin also tumbled around 5% to its lowest level since President Donald Trump's victory in November 2024.
 
-NBC News • 16h ago
+NBC News • 17h ago
 
 ---
 
@@ -219,7 +219,7 @@ CNBC • 2d ago
 
 Crypto treasury companies quietly crept into index funds and retirement accounts. This collapse is good news for all of us.
 
-Slate • 20h ago
+Slate • 21h ago
 
 ---
 
@@ -235,7 +235,7 @@ Yahoo Finance • 1d ago
 
 Bitcoin sees worst crash since November 2024.
 
-thestreet.com • 17h ago
+thestreet.com • 18h ago
 
 ---
 
@@ -253,7 +253,7 @@ thestreet.com • 17h ago
 
 Crypto treasury companies quietly crept into index funds and retirement accounts. This collapse is good news for all of us.
 
-⬆️ 4 • 💬 1 • 5h ago • [Slate Magazine](https://slate.com/technology/2026/02/bitcoin-crypto-treasury-wall-street-microstrategy.html)
+⬆️ 4 • 💬 1 • 6h ago • [Slate Magazine](https://slate.com/technology/2026/02/bitcoin-crypto-treasury-wall-street-microstrategy.html)
 
 ---
 
@@ -261,7 +261,7 @@ Crypto treasury companies quietly crept into index funds and retirement accounts
 
 453+ bitcoin treasuries. 3.94M BTC+ BTC tracked on-chain. From Shrimp to Sovereign.
 
-⬆️ 3 • 💬 0 • 1h ago • [bitcoincompanies.co](https://bitcoincompanies.co/)
+⬆️ 3 • 💬 0 • 2h ago • [bitcoincompanies.co](https://bitcoincompanies.co/)
 
 ---
 
@@ -269,13 +269,13 @@ Crypto treasury companies quietly crept into index funds and retirement accounts
 
 Cryptocurrency markets fell as global equities and precious metals sold off while bitcoin liquidations exacerbated downside moves.
 
-⬆️ 3 • 💬 0 • 22h ago • [CNBC](https://www.cnbc.com/2026/02/02/bitcoin-btc-price-today-cryptocurrency.html)
+⬆️ 3 • 💬 0 • 23h ago • [CNBC](https://www.cnbc.com/2026/02/02/bitcoin-btc-price-today-cryptocurrency.html)
 
 ---
 
 **[Show HN: GrahamBell – This is what Bitcoin mining looked like in 2009](https://news.ycombinator.com/item?id=46885212)**
 
-⬆️ 2 • 💬 0 • 1h ago
+⬆️ 2 • 💬 0 • 2h ago
 
 ---
 
@@ -289,7 +289,7 @@ PoW + EVM cryptocurrency. 21M fixed supply, fair launch, no team, no foundation.
 
 **[Bitcoin's Quantum Computing Threat](https://news.ycombinator.com/item?id=46824834)**
 
-⬆️ 1 • 💬 0 • 4d ago • [bmpro.substack.com](https://bmpro.substack.com/p/bitcoins-quantum-computing-threat)
+⬆️ 1 • 💬 0 • 5d ago • [bmpro.substack.com](https://bmpro.substack.com/p/bitcoins-quantum-computing-threat)
 
 ---
 
@@ -319,13 +319,13 @@ Bitcoin plunged to a two-month low Thursday as risk-on assets broadly fell—and
 
 ## YouTube Videos: "bitcoin"
 
-**[Bitcoin could keep falling, Novogratz says](https://www.youtube.com/watch?v=6odRJdjwET4)**
+**[Bitcoin Dropped to $73,000 Today...](https://www.youtube.com/watch?v=TXb40Ik3_QY)**
 
-"Bitcoin was not supposed to act like this," Michael Novogratz, founder and CEO of Galaxy Digital, says while discussing the ...
+Make Free Predictions on *ClashPicks* ▻ https://www.clashpicks.com/ Follow ClashPicks' X ▻ https://x.com/ClashPicks ...
 
-📺 Bloomberg Television
+📺 CryptosRUs
 
-👁️ 36K • 👍 407 • 💬 271 • ⏱️ 7:56 • 17h ago
+👁️ 26K • 👍 1K • 💬 717 • ⏱️ 10:35 • 13h ago
 
 ---
 
@@ -335,27 +335,27 @@ LIMITED TIME: ✓ Bitunix (no kyc, $10k bonus): https://www.bitunix.com/register
 
 📺 Altcoin Daily
 
-👁️ 104K • 👍 3K • 💬 687 • ⏱️ 10:56 • 1d ago
+👁️ 105K • 👍 3K • 💬 694 • ⏱️ 10:56 • 1d ago
 
 ---
 
-**[Bitcoin Crashing? New Report Says Not for Long!](https://www.youtube.com/watch?v=6UNvkljXrdU)**
+**[DARKEST Moment in Crypto HAPPENING NOW!!](https://www.youtube.com/watch?v=iGTA-9-49JI)**
 
-Gold and silver just erased trillions in days while Bitcoin gets blamed for volatility. The business cycle is turning, inflation fears are ...
+BIGGEST CRYPTO DUMP EVER HAPPENING NOW! (What Comes Next?) ✓ Bitunix (no kyc, $10000 bonus): ...
 
-📺 Simply Bitcoin
+📺 Altcoin Daily
 
-👁️ 24K • 👍 2K • 💬 290 • ⏱️ 13:11 • 15h ago
+👁️ 48K • 👍 3K • 💬 383 • ⏱️ 10:14 • 17h ago
 
 ---
 
-**[Bitcoin Dropped to $73,000 Today...](https://www.youtube.com/watch?v=TXb40Ik3_QY)**
+**[This Bitcoin Bear Market is Different—Here&#39;s Why](https://www.youtube.com/watch?v=xYa9crv9zNQ)**
 
-Make Free Predictions on *ClashPicks* ▻ https://www.clashpicks.com/ Follow ClashPicks' X ▻ https://x.com/ClashPicks ...
+Bitcoin has slipped into bear-market territory — but this drawdown doesn't look like the ones we remember. As gold and silver ...
 
-📺 CryptosRUs
+📺 Swan Bitcoin
 
-👁️ 25K • 👍 1K • 💬 690 • ⏱️ 10:35 • 12h ago
+👁️ 62K • 👍 2K • 💬 534 • ⏱️ 14:42 • 16h ago
 
 ---
 
@@ -365,57 +365,57 @@ Asking for a Trend anchor, Josh Lipton breaks down the latest market news for Fe
 
 📺 Yahoo Finance
 
-👁️ 27K • 👍 312 • 💬 101 • ⏱️ 7:00 • 1d ago
+👁️ 28K • 👍 325 • 💬 111 • ⏱️ 7:00 • 1d ago
 
 ---
 
-**[HUGE Bitcoin Reversal Incoming But Not Before This!](https://www.youtube.com/watch?v=RBq_I1dX770)**
+**[THE BIGGEST BITCOIN WHALE JUST GAVE US A MASSIVE WARNING](https://www.youtube.com/watch?v=Yy1S6ugc39k)**
 
-Bitcoin is still showing signs of weakness, and in this video Sheldon explains why the dump may not be over yet. Instead of ...
+I AM NOT A FINANCIAL ADVISOR. ALL VIDEOS IS FOR ENTERTAINTMENT PURPOSE; AND I AM DOCUMENTING MY OWN ...
 
-📺 Crypto Banter
+📺 Satoshi Stacker
 
-👁️ 4K • 👍 429 • 💬 16 • ⏱️ 37:24 • 3h ago
-
----
-
-**[Is Bitcoin In A Bear Market?](https://www.youtube.com/watch?v=sAqttSAjmSA)**
-
-In this solo episode, Anthony Pompliano explores a key question facing investors today: Is bitcoin in a bear market? He breaks ...
-
-📺 Anthony Pompliano
-
-👁️ 71K • 👍 2K • 💬 241 • ⏱️ 22:42 • 1d ago
+👁️ 11K • 👍 644 • 💬 61 • ⏱️ 7:33 • 8h ago
 
 ---
 
-**[ISM Above 50: A Finally Bullish Signal for Bitcoin](https://www.youtube.com/watch?v=fFLQibDtS8w)**
+**[Bitcoin 4- Year Cycle: Tom Lee and Dan Morehead Explain](https://www.youtube.com/watch?v=wzkU5pELBTM)**
 
-ISM Above 50: A Finally Bullish Signal for Bitcoin #Crypto #Bitcoin #ISM #cryptomanran #RanNeuner #macroeconomics ...
+At the Ondo Conference, Tom Lee and Dan Morehead sit down to discuss what comes next for crypto, including the four-year ...
 
-📺 Crypto Banter
+📺 Fundstrat
 
-👁️ 2K • 👍 51 • ⏱️ 1:24 • 6h ago
-
----
-
-**[All the pieces are in place for crypto to be bottoming right now, says Fundstrat&#39;s Tom Lee](https://www.youtube.com/watch?v=KEVE5LK8jwo)**
-
-Tom Lee, Fundstrat Global Advisors head of research and Fundstrat Capital CIO, joins 'Squawk Box' to discuss the latest market ...
-
-📺 CNBC Television
-
-👁️ 94K • 👍 877 • 💬 658 • ⏱️ 5:40 • 1d ago
+👁️ 37K • 👍 908 • ⏱️ 31:41 • 20h ago
 
 ---
 
-**[Novogratz sees a “seller’s virus” in crypto after Bitcoin drop#shorts #crypto #bitcoin](https://www.youtube.com/watch?v=nGAOm3oNcJ8)**
+**[Bitcoin could keep falling, Novogratz says](https://www.youtube.com/watch?v=6odRJdjwET4)**
 
-Galaxy Digital is seeing its stock under pressure. CEO Mike Novogratz tells Bloomberg that Bitcoin's recent pullback reflects a ...
+"Bitcoin was not supposed to act like this," Michael Novogratz, founder and CEO of Galaxy Digital, says while discussing the ...
 
 📺 Bloomberg Television
 
-👁️ 7K • 👍 60 • 💬 24 • ⏱️ 0:59 • 18h ago
+👁️ 37K • 👍 421 • 💬 276 • ⏱️ 7:56 • 18h ago
+
+---
+
+**[Alleged Ransom Note for Nancy Guthrie Kidnapping Demands Millions in Bitcoin](https://www.youtube.com/watch?v=xwI1mQ3ahNk)**
+
+The Pima County Sheriff's Department released a statement after TMZ received an alleged ransom note tied to the reported ...
+
+📺 TMZ
+
+👁️ 12K • 👍 276 • 💬 48 • ⏱️ 0:54 • 16h ago
+
+---
+
+**[BITCOIN: THE FINAL TRAP... (Prepare NOW)](https://www.youtube.com/watch?v=vzaxy3Nep7s)**
+
+WEEX: https://www.weex.com/events/promo/usdtgiveaway-v2?vipCode=00dt 25% FEE DISCOUNT & GET FREE $25 ✓My ...
+
+📺 Crypto Rover
+
+👁️ 8K • 👍 602 • 💬 156 • ⏱️ 11:48 • 7h ago
 
 ---
 
