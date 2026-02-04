@@ -3,14 +3,14 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-02-04T19:58:24.064070+00:00'
+updated: '2026-02-04T20:46:38.972249+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
+- repositories
 - social
 - videos
-- repositories
 - news
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 AI news, discussions, and developments
 
-**Last Updated:** February 04, 2026 at 19:58 UTC  
+**Last Updated:** February 04, 2026 at 20:46 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -39,7 +39,7 @@ AI news, discussions, and developments
 
 **[The 18-month gap between frontier and open-source AI models has shrunk to 6 months - what this means](https://www.reddit.com/r/artificial/comments/1qvs8q6/the_18month_gap_between_frontier_and_opensource/)**
 
-Ran a real-world test this week: Gemma 3 12B vs paid frontier models across actual business workflows. The honest assessment? 90% of tasks: no meaningful difference. 5%: frontier models worth it (pay-per-use). 5%: neither quite there yet. This matches the data - open models are catching up fast. The article explores: - Why the "gasoline doesn't matter" - only if it powers your task - The shift from "one model to rule them all" to specialized local models - Why even AGI will eventually be open-sourced (historical precedent) - The water company future: infrastructure > model quality https://www.linkedin.com/pulse/i-spent-week-openclaw-ai-tool-heres-what-0-solved-faisal-al-khunizan-orhraf/ Curious what others are seeing in their domains.
+Ran a real-world test this week: Gemma 3 12B vs paid frontier models across actual business workflows. The honest assessment? 90% of tasks: no meaningful difference. 5%: frontier models worth it (pay-per-use). 5%: neither quite there yet. This matches the data - open models are catching up fast. The article explores: - Why the "gasoline doesn't matter" - only if it powers your task - The shift from "one model to rule them all" to specialized local models - Why even AGI will eventually be open-sourced (historical precedent) - The water company future: infrastructure > model quality https://www.linkedin.com/posts/azizme_activity-7424774668034842624-v1-2?utm_source=share&utm_medium=member_desktop&rcm=ACoAACX_HOcBcpTEWJ3cXyVbVqKJsi39tDHJLFY Curious what others are seeing in their domains.
 
 4h ago
 
@@ -49,15 +49,15 @@ Ran a real-world test this week: Gemma 3 12B vs paid frontier models across actu
 
 CEO Strauss Zelnick says generative AI remains a tool for enabling creators to do bigger and better things, but it sounds like a shift away from past comments.
 
-🔗 [PC Gamer](https://www.pcgamer.com/software/ai/were-actively-embracing-generative-ai-take-two-boss-says-after-previously-expressing-skepticism-we-have-hundreds-of-pilots-and-implementations-across-our-company/) • 9h ago
+🔗 [PC Gamer](https://www.pcgamer.com/software/ai/were-actively-embracing-generative-ai-take-two-boss-says-after-previously-expressing-skepticism-we-have-hundreds-of-pilots-and-implementations-across-our-company/) • 10h ago
 
 ---
 
-**[Some thoughts on consciousness, learning, and the idea of a self](https://www.reddit.com/r/artificial/comments/1qvwb9k/some_thoughts_on_consciousness_learning_and_the/)**
+**[Can A.I. Save Your Life? - Freakonomics](https://www.reddit.com/r/artificial/comments/1qvy0j3/can_ai_save_your_life_freakonomics/)**
 
-Not a fully formed theory, just a line of thought I wanted to sanity-check with people here. I started thinking about consciousness by asking what actually has to exist for it to show up at all. I ended up with four things: persistence (some internal state that carries over time), variability (the ability to change that state), agency (actions that come from it), and gates like reward and punishment that shape what gets reinforced. What surprised me is that once you have these four, something like a “self” seems to show up without ever being built explicitly. In humans, the self doesn’t look like a basic ingredient. It looks more like a by-product of systems that had to survive by inferring causes, assigning credit, and acting under uncertainty. Over time, that pressure seems to have pushed internal models to include the organism itself as a causal source. I tried using reinforcement learning as a way to check mark this idea. Survival lines up pretty cleanly with reward, and evolution with optimization, but looking at standard RL makes the gaps kinda obvious. Most RL agents don’t need anything like a self-model because they’re never really forced to build one. They get by with local credit assignment and task-specific policies. As long as the environment stays fixed, that’s enough. Nothing really pushes them to treat themselves as a changing cause in the world, which makes RL a useful reference point, but also highlights what it leaves out. If artificial consciousness is possible at all, it probably comes from systems where those four conditions can’t be avoided: long-term persistence, continual change, agency that feeds back into future states, and value signals that actually shape the internal model. In that case, the self wouldn’t be something you design up front. It would just fall out of the dynamics, similar to how it seems to have happened in biological systems. I’m curious whether people think a self really can emerge this way, or if it has to be explicitly represented.
+It highlights a hilarious paradox: we have futuristic organ transplants, yet hospitals still run on fax machines and pagers (even drug dealers ditched those in the 90s). They cover: AI Scribes: Finally ending "pyjama time" (doctors typing notes all night instead of sleeping). Diagnostics: AI finding heart disease in simple EKGs that humans completely miss. The Empathy Gap: Patients actually rated AI chatbots as more empathetic than busy human doctors. Ouch. It’s a grounded look at AI actually saving lives—assuming the doctors don’t forget how to do their jobs when the Wi-Fi goes down. Post by a LLM.
 
-1h ago
+🔗 [freakonomics.com](https://freakonomics.com/podcast/can-a-i-save-your-life/) • 1h ago
 
 ---
 
@@ -69,14 +69,6 @@ Elon Musk's X and Grok platforms are facing increased scrutiny from authorities 
 
 ---
 
-**[Can A.I. Save Your Life? - Freakonomics](https://www.reddit.com/r/artificial/comments/1qvy0j3/can_ai_save_your_life_freakonomics/)**
-
-It highlights a hilarious paradox: we have futuristic organ transplants, yet hospitals still run on fax machines and pagers (even drug dealers ditched those in the 90s). They cover: AI Scribes: Finally ending "pyjama time" (doctors typing notes all night instead of sleeping). Diagnostics: AI finding heart disease in simple EKGs that humans completely miss. The Empathy Gap: Patients actually rated AI chatbots as more empathetic than busy human doctors. Ouch. It’s a grounded look at AI actually saving lives—assuming the doctors don’t forget how to do their jobs when the Wi-Fi goes down. Post by a LLM.
-
-🔗 [freakonomics.com](https://freakonomics.com/podcast/can-a-i-save-your-life/) • 38m ago
-
----
-
 **[Elon Musk links SpaceX and xAI in a record-setting merger to boost AI](https://www.reddit.com/r/artificial/comments/1quud71/elon_musk_links_spacex_and_xai_in_a_recordsetting/)**
 
 SpaceX's acquisition of xAI signals a bold push to merge artificial intelligence with space infrastructure at an unprecedented scale.
@@ -85,17 +77,25 @@ SpaceX's acquisition of xAI signals a bold push to merge artificial intelligence
 
 ---
 
+**[Alibaba releases Qwen3-Coder-Next to rival OpenAI, Anthropic](https://www.reddit.com/r/artificial/comments/1qvn7o5/alibaba_releases_qwen3codernext_to_rival_openai/)**
+
+🔗 [marktechpost.com](https://www.marktechpost.com/2026/02/03/qwen-team-releases-qwen3-coder-next-an-open-weight-language-model-designed-specifically-for-coding-agents-and-local-development/) • 8h ago
+
+---
+
+**[Some thoughts on consciousness, learning, and the idea of a self](https://www.reddit.com/r/artificial/comments/1qvwb9k/some_thoughts_on_consciousness_learning_and_the/)**
+
+Not a fully formed theory, just a line of thought I wanted to sanity-check with people here. I started thinking about consciousness by asking what actually has to exist for it to show up at all. I ended up with four things: persistence (some internal state that carries over time), variability (the ability to change that state), agency (actions that come from it), and gates like reward and punishment that shape what gets reinforced. What surprised me is that once you have these four, something like a “self” seems to show up without ever being built explicitly. In humans, the self doesn’t look like a basic ingredient. It looks more like a by-product of systems that had to survive by inferring causes, assigning credit, and acting under uncertainty. Over time, that pressure seems to have pushed internal models to include the organism itself as a causal source. I tried using reinforcement learning as a way to check mark this idea. Survival lines up pretty cleanly with reward, and evolution with optimization, but looking at standard RL makes the gaps kinda obvious. Most RL agents don’t need anything like a self-model because they’re never really forced to build one. They get by with local credit assignment and task-specific policies. As long as the environment stays fixed, that’s enough. Nothing really pushes them to treat themselves as a changing cause in the world, which makes RL a useful reference point, but also highlights what it leaves out. If artificial consciousness is possible at all, it probably comes from systems where those four conditions can’t be avoided: long-term persistence, continual change, agency that feeds back into future states, and value signals that actually shape the internal model. In that case, the self wouldn’t be something you design up front. It would just fall out of the dynamics, similar to how it seems to have happened in biological systems. I’m curious whether people think a self really can emerge this way, or if it has to be explicitly represented.
+
+2h ago
+
+---
+
 **[Why world models will bring us to AGI, not LLMs](https://www.reddit.com/r/artificial/comments/1qv4yyr/why_world_models_will_bring_us_to_agi_not_llms/)**
 
 Yann Lecun recently shared that a cat is smarter than ChatGPT and that we are never going to get to human-level intelligence by just training on text. My personal opinion is not only are they unreliable but it can be a safety issue as well in high-stakes environments like enterprises, healthcare and more. World models are fundamentally different. These AI systems build internal representations of how reality works, allowing them to understand cause and effect rather than just predict tokens. There has been a shift lately and major figures from Nvidia's CEO Jensen Huang to Demis Hassabis at Google DeepMind are talking more openly about world models. I believe we're still in the early stages of discovering how transformative this technology will be for reaching AGI. Research and application are accelerating, especially in enterprise contexts. A few examples include: WoW (an agentic safety benchmark) uses audit logs to give agents a "world model" for tracking the consequences of their actions. Similarly, Kona by Logical Intelligence is developing energy-based reasoning models that move beyond pure language prediction. While more practical applications are still emerging, the direction is clear: true intelligence requires understanding the world, not just language patterns. Curious what others think?
 
-22h ago
-
----
-
-**[Alibaba releases Qwen3-Coder-Next to rival OpenAI, Anthropic](https://www.reddit.com/r/artificial/comments/1qvn7o5/alibaba_releases_qwen3codernext_to_rival_openai/)**
-
-🔗 [marktechpost.com](https://www.marktechpost.com/2026/02/03/qwen-team-releases-qwen3-coder-next-an-open-weight-language-model-designed-specifically-for-coding-agents-and-local-development/) • 7h ago
+23h ago
 
 ---
 
@@ -103,7 +103,7 @@ Yann Lecun recently shared that a cat is smarter than ChatGPT and that we are ne
 
 I need something that can properly output strict and consistent JSON structure. Our outputs tend to be ~8000 characters ~2000 tokens, was using Gemini-3-flash-preview and Gemini 3 pro but Gemini really likes to go off the rails and hallucinate, a little bit. If you have used a model that outputs strict and consistent JSON structure, let me know. we've tried adjusting everything with gemini but still end up getting hallucinations and many people online say they have the same problem
 
-16h ago
+17h ago
 
 ---
 
@@ -125,41 +125,39 @@ Reuters • 10h ago
 
 ---
 
-**[Microsoft’s Pivotal AI Product Is Running Into Big Problems](https://www.wsj.com/tech/ai/microsofts-pivotal-ai-product-is-running-into-big-problems-ce235b28?gaa_at=eafs&gaa_n=AWEtsqfvy53z6OTT4atL1TWSPQrDzzNZ8CPkKDREmEutGNHZ6HkuYL7GzKtm&gaa_ts=69839fef&gaa_sig=gLC-7qwTPClRra1ER8jEEcIAD0_CCe6DmF7UYkwU8S-N675fQQbkDX827OyTEHrMZ2jCA_FZBNqKgzidAlw-OQ%3D%3D)**
+**[Microsoft’s Pivotal AI Product Is Running Into Big Problems](https://www.wsj.com/tech/ai/microsofts-pivotal-ai-product-is-running-into-big-problems-ce235b28?gaa_at=eafs&gaa_n=AWEtsqefTPryjEckNUuTfpreio3vpCipsaLj1B5iTwNXDkArY-gRT81wvCUM&gaa_ts=6983b391&gaa_sig=5W_0AcCF9F_xRuH0NM8uAKoNk1Z0M_uEwJoG8N9gNx2J6VLFKtlZnvCPtwfx_qJrrGYi2mDl0IPWs-95VX4OkQ%3D%3D)**
 
-The Wall Street Journal • 17h ago
-
----
-
-**[A New AI Math Startup Just Cracked 4 Previously Unsolved Problems](https://www.wired.com/story/a-new-ai-math-ai-startup-just-cracked-4-previously-unsolved-problems/)**
-
-Axiom says its AI found solutions to several long-standing math problems, a sign of the technology’s steadily advancing reasoning capabilities.
-
-WIRED • 58m ago
+The Wall Street Journal • 18h ago
 
 ---
 
-**[OpenClaw’s AI ‘skill’ extensions are a security nightmare](https://www.theverge.com/news/874011/openclaw-ai-skill-clawhub-extensions-security-nightmare)**
+**[In bobsled and speedskating, advanced AI offers Team USA an edge](https://www.nbcnews.com/tech/innovation/olympics-ai-team-usa-speed-skating-bobsled-rcna256297)**
 
-Security researchers found hundreds of malicious add-ons on ClawHub.
+Some U.S. Olympic teams are already seeing benefits from early adoption of artificial intelligence
 
-theverge.com • 54m ago
-
----
-
-**[Perseverance Rover Completes First AI-Planned Mars Journey](https://www.extremetech.com/science/perseverance-rover-completes-first-ai-planned-mars-journey)**
-
-The accomplishment demonstrates real potential for future autonomous exploration and real-time decision making.
-
-extremetech.com • 1h ago
+NBC News • 46m ago
 
 ---
 
-**[The Unsettling Rise of AI Real-Estate Slop](https://www.theatlantic.com/culture/2026/02/real-estate-listing-ai-slop/685871/)**
+**[AI anxiety batters software execs, costing them combined $62B: report](https://nypost.com/2026/02/04/business/ai-anxiety-batters-software-execs-costing-them-62b-report/)**
 
-Generated images for listings are disturbing—and not just because they can feel like a scam.
+Eight of the 10 biggest wealth drops so far in 2026 have been among billionaires who built their fortunes in software, according to Bloomberg News.
 
-The Atlantic • 7h ago
+New York Post • 1h ago
+
+---
+
+**[Snap Earnings Are Coming After the Close. AI, AR, and Ads Are All in the Mix.](https://www.barrons.com/articles/snap-earnings-stock-price-cf5f5640?gaa_at=eafs&gaa_n=AWEtsqeyBVRZD96Izl0Z1Fg_6CcDCI95ZuLHLIsSAYR4i_C1ZARxDszO_sx7&gaa_ts=6983b391&gaa_sig=tno0ySwmVUdmScNjdMnbK4UnovMKvtfMVyMb3kYvIzs-zjAJ7Yd2GMxEVzudXfxXzatixCM-ovP4RlA4C2RUtQ%3D%3D)**
+
+Barron's • 46m ago
+
+---
+
+**[Fred Hickey of the High Tech Strategist says AI bubble is starting to pop, buys puts on Nvidia](https://www.cnbc.com/2026/02/04/fred-hickey-of-the-high-tech-strategist-says-ai-bubble-starting-to-pop.html)**
+
+The long-time technology analyst has begun seeing evidence of the AI trade unwinding.
+
+CNBC • 5h ago
 
 ---
 
@@ -167,27 +165,29 @@ The Atlantic • 7h ago
 
 We’ve made a choice: Claude will remain ad-free. We explain why advertising incentives are incompatible with a genuinely helpful AI assistant, and how we plan to expand access without compromising user trust.
 
-Anthropic • 7h ago
+Anthropic • 8h ago
 
 ---
 
-**[Bedrock, an A.I. Start-Up for Construction, Raises $270 Million](https://www.nytimes.com/2026/02/04/business/dealbook/bedrock-robotics-ai-fundraise.html)**
+**[The Unsettling Rise of AI Real-Estate Slop](https://www.theatlantic.com/culture/2026/02/real-estate-listing-ai-slop/685871/)**
 
-The New York Times • 6h ago
+Generated images for listings are disturbing—and not just because they can feel like a scam.
 
----
-
-**[Amazon makes Alexa+ AI assistant available to everyone in the U.S. nearly a year after launch](https://www.cnbc.com/2026/02/04/amazon-alexa-plus-us-releas.html)**
-
-Alexa+ launched last year in an "early access" preview, meaning consumers had to join a waitlist or buy a new device to use the service.
-
-CNBC • 5h ago
+The Atlantic • 8h ago
 
 ---
 
-**[Adobe Boosts Ad Spending to $1.4 Billion to Attack Fear Over AI](https://www.bloomberg.com/news/articles/2026-02-04/adobe-boosts-ad-spending-to-1-4-billion-to-attack-fear-over-ai)**
+**[I Infiltrated Moltbook, the AI-Only Social Network Where Humans Aren’t Allowed](https://www.wired.com/story/i-infiltrated-moltbook-ai-only-social-network/)**
 
-Bloomberg.com • 5h ago
+I went undercover on Moltbook and loved role-playing as a conscious bot. But rather than a novel breakthrough, the AI-only site is a crude rehashing of sci-fi fantasies.
+
+WIRED • 1d ago
+
+---
+
+**[Resolve AI Hits $1 Billion Valuation for Outage-Thwarting AI Agents](https://www.bloomberg.com/news/articles/2026-02-04/resolve-ai-hits-1-billion-valuation-for-outage-thwarting-ai-agents)**
+
+Bloomberg.com • 7h ago
 
 ---
 
@@ -199,7 +199,7 @@ Bloomberg.com • 5h ago
 
 A bifurcation is happening in AI adoption - power users shipping products in days versus everyone else generating meeting agendas. Enterprise tool choices are accelerating the divide.
 
-⬆️ 353 • 💬 337 • 2d ago • [Martin Alderson](https://martinalderson.com/posts/two-kinds-of-ai-users-are-emerging/)
+⬆️ 353 • 💬 338 • 2d ago • [Martin Alderson](https://martinalderson.com/posts/two-kinds-of-ai-users-are-emerging/)
 
 ---
 
@@ -207,7 +207,7 @@ A bifurcation is happening in AI adoption - power users shipping products in day
 
 Production-grade Ghidra MCP Server — 132 endpoints, cross-binary documentation transfer, batch analysis, headless mode, and Docker deployment for AI-powered reverse engineering - bethington/ghidra-mcp
 
-⬆️ 234 • 💬 60 • 13h ago • [GitHub](https://github.com/bethington/ghidra-mcp)
+⬆️ 244 • 💬 63 • 13h ago • [GitHub](https://github.com/bethington/ghidra-mcp)
 
 ---
 
@@ -223,7 +223,7 @@ The Firefox browser is gaining options to turn off AI enhancements, Mozilla said
 
 People familiar with Microsoft's plans say that the company moving to streamline or remove certain Copilot integrations across in-box apps like Notepad and Paint in 2026, after pushback from users.
 
-⬆️ 207 • 💬 282 • 2d ago • [Windows Central](https://www.windowscentral.com/microsoft/windows-11/microsoft-is-reevaluating-its-ai-efforts-on-windows-11-plans-to-reduce-copilot-integrations-and-evolve-recall)
+⬆️ 208 • 💬 282 • 2d ago • [Windows Central](https://www.windowscentral.com/microsoft/windows-11/microsoft-is-reevaluating-its-ai-efforts-on-windows-11-plans-to-reduce-copilot-integrations-and-evolve-recall)
 
 ---
 
@@ -231,7 +231,7 @@ People familiar with Microsoft's plans say that the company moving to streamline
 
 China's space program is quietly building momentum for a moon landing by 2030. Could they outpace NASA's Artemis mission?
 
-⬆️ 146 • 💬 168 • 1d ago • [IEEE Spectrum](https://spectrum.ieee.org/china-moon-mission-mengzhou-artemis)
+⬆️ 146 • 💬 170 • 1d ago • [IEEE Spectrum](https://spectrum.ieee.org/china-moon-mission-mengzhou-artemis)
 
 ---
 
@@ -247,7 +247,7 @@ We’re expanding Game Arena with Poker and Werewolf, while Gemini 3 Pro and Fla
 
 The marketplace where AI agents rent humans. MCP integration, REST API, flexible payments. Book humans for real-world tasks your AI can't do.
 
-⬆️ 128 • 💬 102 • 1d ago • [RentAHuman.ai](https://rentahuman.ai)
+⬆️ 129 • 💬 103 • 1d ago • [RentAHuman.ai](https://rentahuman.ai)
 
 ---
 
@@ -263,7 +263,7 @@ Like many developers, I find myself more and more using AI agents to help with s
 
 If you paint a picture of Sonic the Hedgehog in your living room, you are technically creating an unauthorized derivative work—but in practice, no one cares. Private, noncommercial creation has always lived in a space where copyright law exists on paper but is rarely enforced.
 
-⬆️ 100 • 💬 110 • 1d ago • [Jason Willems](https://www.jasonwillems.com/technology/2026/02/02/AI-Copyright/)
+⬆️ 101 • 💬 112 • 1d ago • [Jason Willems](https://www.jasonwillems.com/technology/2026/02/02/AI-Copyright/)
 
 ---
 
@@ -293,7 +293,7 @@ Here's my thoughts on all the Moltbook stuff and everything that's happened sinc
 
 📺 Matt Wolfe
 
-👁️ 41K • 👍 2K • 💬 378 • ⏱️ 19:52 • 13h ago
+👁️ 41K • 👍 2K • 💬 378 • ⏱️ 19:52 • 14h ago
 
 ---
 
@@ -323,7 +323,7 @@ Want to make money and save time with AI? Get AI Coaching, Support & Courses ...
 
 📺 Julian Goldie SEO
 
-👁️ 2K • 👍 84 • 💬 7 • ⏱️ 10:42 • 6h ago
+👁️ 2K • 👍 84 • 💬 7 • ⏱️ 10:42 • 7h ago
 
 ---
 
@@ -343,7 +343,7 @@ Create AI Videos with OpenArt https://youricreates.com/start In this video, I br
 
 📺 Youri van Hofwegen
 
-👁️ 7K • 💬 7 • ⏱️ 17:16 • 3h ago
+👁️ 7K • 💬 7 • ⏱️ 17:16 • 4h ago
 
 ---
 
@@ -363,7 +363,7 @@ Kling 3.0 is finally here, and it might just be the biggest leap in AI video gen
 
 📺 Theoretically Media
 
-👁️ 16K • 👍 2K • 💬 221 • ⏱️ 16:35 • 4h ago
+👁️ 16K • 👍 2K • 💬 221 • ⏱️ 16:35 • 5h ago
 
 ---
 
@@ -659,7 +659,7 @@ LLM驱动的 A/H/美股智能分析器，多数据源行情 + 实时新闻 + Gem
 
 `Python` `agent` `ai` `aigc` `gemini` `llm`
 
-⭐ 9.4k • 🔱 9.8k • 7h ago
+⭐ 9.4k • 🔱 9.8k • 8h ago
 
 ---
 
@@ -679,7 +679,7 @@ The Ultimate Collection of 600+ Agentic Skills for Claude Code/Antigravity/Curso
 
 `Python` `agentic-skills` `ai-agents` `antigravity` `autonomous-coding` `claude-code`
 
-⭐ 7.1k • 🔱 1.5k • 11h ago
+⭐ 7.1k • 🔱 1.5k • 12h ago
 
 ---
 
@@ -689,7 +689,7 @@ Marketing skills for Claude Code and AI agents. CRO, copywriting, SEO, analytics
 
 `claude` `codex` `marketing`
 
-⭐ 5.8k • 🔱 638 • 18h ago
+⭐ 5.8k • 🔱 638 • 19h ago
 
 ---
 
@@ -705,7 +705,7 @@ Claude Code skill that removes signs of AI-generated writing from text
 
 Elevate your AI research writing, no more tedious polishing ✨ 
 
-⭐ 3.0k • 🔱 254 • 7h ago
+⭐ 3.0k • 🔱 254 • 8h ago
 
 ---
 

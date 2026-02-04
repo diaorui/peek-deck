@@ -3,14 +3,14 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-02-04T19:58:24.072464+00:00'
+updated: '2026-02-04T20:46:38.979928+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
+- cryptocurrency
 - social
 - videos
-- cryptocurrency
 - news
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** February 04, 2026 at 19:58 UTC  
+**Last Updated:** February 04, 2026 at 20:46 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,17 +38,17 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $74,075.23
+### $73,882.24
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** -4.2%  
-**7d:** -13.4%  
-**30d:** -21.8%  
-**90d:** -29.3%  
-**1y:** -24.1%  
+**24h:** -3.4%  
+**7d:** -13.1%  
+**30d:** -21.5%  
+**90d:** -29.0%  
+**1y:** -23.8%  
 
 ---
 
@@ -79,7 +79,7 @@ Rank #1
 
 **[I'm not fucking selling](https://www.reddit.com/r/Bitcoin/comments/1qvtn6n/im_not_fucking_selling/)**
 
-3h ago
+4h ago
 
 ---
 
@@ -87,7 +87,7 @@ Rank #1
 
 Bitcoin ponzi finally dead now. With this post I've completed the ritual.
 
-2h ago
+3h ago
 
 ---
 
@@ -95,21 +95,19 @@ Bitcoin ponzi finally dead now. With this post I've completed the ritual.
 
 I hope this is way more better. enjoy pain, pain zone, max pain.
 
-10h ago
-
----
-
-**[I’ve regretted selling BTC for 5 years. Not doing it again.](https://www.reddit.com/r/Bitcoin/comments/1qvj8yy/ive_regretted_selling_btc_for_5_years_not_doing/)**
-
-I bought, I sold too early, I tried to “be smart,” I tried to time dips… and every cycle I ended up watching price run without me. The worst part wasn’t even the money — it was realizing I keep trading my conviction for emotions. Fear when it drops. FOMO when it pumps. Then I tell myself “next time I’ll hold,” and I still fold the moment it gets uncomfortable. Now we’re back in that zone again. Red candles, scary headlines, people doomposting, and my brain is screaming “get out before it gets worse.” So I’m posting this as a reminder to myself: this is literally the moment I always regret later. If I really believe BTC is a long-term thing, then short-term pain is part of the deal. This time I’m keeping it simple: I’m holding, and I’m stacking what I can. No hero trades. No panic sells. No trying to be a genius for one week. I’ve already regretted not holding for five years. I’m not doing that again.
-
 11h ago
 
 ---
 
 **[Sometimes I don`t](https://www.reddit.com/r/Bitcoin/comments/1qvh12n/sometimes_i_dont/)**
 
-13h ago
+14h ago
+
+---
+
+**[These dips are a blessing, it just gives a chance to buy more](https://www.reddit.com/r/Bitcoin/comments/1qvwqgs/these_dips_are_a_blessing_it_just_gives_a_chance/)**
+
+2h ago
 
 ---
 
@@ -117,7 +115,13 @@ I bought, I sold too early, I tried to “be smart,” I tried to time dips… a
 
 With all the recent volatility, macro noise, and people getting jumpy again, I keep seeing the 60k level mentioned like it’s inevitable. Rate uncertainty, weak risk appetite, miners selling a bit, and everyone suddenly turning cautious doesn’t help. At the same time, every dip lately feels like it gets bought faster than people expect. Feels less like panic and more like the market trying to find its footing. Tbh i don't know anymore sometimes I just laugh it off lol hahhah
 
-3h ago
+4h ago
+
+---
+
+**[Bitcoin](https://www.reddit.com/r/Bitcoin/comments/1qvxdx6/bitcoin/)**
+
+1h ago
 
 ---
 
@@ -125,7 +129,15 @@ With all the recent volatility, macro noise, and people getting jumpy again, I k
 
 Relax. Keep buying on schedule and check back in, in a couple of years. You'll laugh at yourself for being worried.
 
-2h ago
+3h ago
+
+---
+
+**[This](https://www.reddit.com/r/Bitcoin/comments/1qvuaon/this/)**
+
+🫡
+
+3h ago
 
 ---
 
@@ -133,23 +145,7 @@ Relax. Keep buying on schedule and check back in, in a couple of years. You'll l
 
 Crypto life is hard to explain sometimes 😅
 
-2h ago
-
----
-
-**[I have the answer to everybodys ultimate question](https://www.reddit.com/r/Bitcoin/comments/1qvo5ay/i_have_the_answer_to_everybodys_ultimate_question/)**
-
-There will be a dip which will hit the bottom. So if you want to get btc for that price you just need to keep buying every single dip. This is the only way to 100% buy the bottom. Jokes aside, every dipbuy will lower your average (if you entered the market this past year). Keep buying as price goes down and you'll end with more and more btc. 4 years ago I haven't sold any and it was the right choice even if it was a difficult one. The more time passes the easier it gets, btc is too big to fail now let's be honest.
-
-6h ago
-
----
-
-**[4 Year Update: I Took Out $150,000 in Personal Loans to Buy Bitcoin!](https://www.reddit.com/r/Bitcoin/comments/1qv21wc/4_year_update_i_took_out_150000_in_personal_loans/)**
-
-tl;dr: Over the course of the past 4 years, I took out ~$150,000 in personal loans and 0% credit card balance transfer loans to purchase 4.75 Bitcoin. I've paid ~$17,000 in interest. I've been making updates every 6 months or so since the beginning. See my post history for previous updates. ***** Today, February 3rd, 2026 Bitcoin is trading at $75,000 which brings the current value of my 4.75₿ to $356,000. The average price I paid is ~$35,000 per Bitcoin. My total cost basis is ~$167,000 for 4.5₿ ($150k in loans + $17,000 in interest). This comes to ~113% unrealized profit or ~$189,000 in dollar terms as of today. ***** What’s new since my last update? Not much is new except that… I finished paying off all my loans!!! What a relief! I was never really worried though because I never borrowed more than I could afford to service. Bitcoin’s price action has been disappointing to say the least, but I’m thinking this is an opportunity. So I plan on taking out another $50k in loans if it breaks down below $70k which seem highly likely… probably at the 200SMA. In the meantime, I’m throwing everything I can at in each month while we’re in the $70-80k range with earned income from my job. I’ve been stacking this whole time while paying down the loans.
-
-1d ago
+3h ago
 
 ---
 
@@ -157,67 +153,43 @@ tl;dr: Over the course of the past 4 years, I took out ~$150,000 in personal loa
 
 ## Google News: "bitcoin"
 
-**[Bitcoin is having a bad year as price tumbles to fresh lows today: Why does crypto keep falling in 2026?](https://www.fastcompany.com/91486633/bitcoin-price-falling-again-today-what-is-happening-with-crypto-2026)**
-
-The world's most popular cryptocurrency has seen its value shrink amid a confluence of vexing factors. Here's what to know.
-
-Fast Company • 4h ago
-
----
-
-**[Michael Burry Warns of Cascading Effects From Bitcoin Plunge](https://finance.yahoo.com/news/michael-burry-warns-cascading-effects-001910407.html)**
-
-In a Substack post Monday, Burry argued that the original cryptocurrency, which has fallen 40% since peaking in October, has been exposed as a purely speculative asset, failing to take off as a debasement hedge similar to precious metals.  Additional drops, he said, would push Bitcoin miners toward bankruptcy.  Bitcoin has failed to respond to typical drivers like dollar weakness or geopolitical risk, unlike gold and silver which rallied to records as global tensions fueled fears about dollar debasement.
-
-Yahoo Finance • 6h ago
-
----
-
 **[Michael Burry warns Bitcoin selloff could trigger a “death spiral” - report (GBTC:NYSEARCA)](https://seekingalpha.com/news/4546827-michael-burry-warns-bitcoin-selloff-could-trigger-a-death-spiral---report)**
 
 Michael Burry warns Bitcoin could face a “death spiral,” pressuring corporate holders, miners, and crypto stocks.
 
-Seeking Alpha • 9h ago
+Seeking Alpha • 10h ago
 
 ---
 
-**[Michael Burry issues bitcoin warning, AMD stock falls hard](https://finance.yahoo.com/video/michael-burry-issues-bitcoin-warning-181318676.html)**
+**["Big Short" Michael Burry flags “death spiral” after silver liquidations beat bitcoin](https://www.coindesk.com/markets/2026/02/04/big-short-michael-burry-flags-death-spiral-after-silver-liquidations-beat-bitcoin)**
 
-Yahoo Finance Senior Producer John Hyland tracks Wednesday's top moving stocks and biggest market stories in this Market Minute. The Bureau of Labor Statistics (BLS) announced it will release jobs data on Wednesday, Feb. 11, and the Consumer Price Index (CPI) on Friday, Feb. 13. AMD (AMD) stock is seeing its biggest decline since 2018. Yum! Brands (YUM) missed quarterly earnings estimates, but posted revenue that was better than expected. Investor Michael Burry issued a warning about "lasting damage" from bitcoin's (BTC-USD) decline. Stay up to date on the latest market action, minute-by-minute, with Yahoo Finance's Market Minute.
+Tokenized silver futures logged one of the largest wipeouts across crypto markets, overtaking the usual leaders bitcoin and ether.
+
+CoinDesk • 15h ago
+
+---
+
+**[Michael Burry Says Bitcoin Drop May Spur Metals Selloff](https://bitbo.io/news/burry-bitcoin-metals-selloff/)**
+
+Michael Burry said bitcoin’s slide below $73,000 may have forced institutions to sell up to $1 billion in gold and silver to cover losses.
+
+Bitbo • 9h ago
+
+---
+
+**[Bitcoin is coming off a brutal week. Here's what's happening](https://www.cnbc.com/2026/02/02/bitcoin-btc-price-today-cryptocurrency.html)**
+
+Cryptocurrency markets fell as global equities and precious metals sold off while bitcoin liquidations exacerbated downside moves.
+
+CNBC • 2d ago
+
+---
+
+**[Early Bitcoin Dev Calls on Adam Back to Resign After Epstein Files Revelations](https://finance.yahoo.com/news/early-bitcoin-dev-calls-adam-192200587.html)**
+
+Bitcoin developer Luke Dashjr urged Blockstream CEO Adam Back to step down following a new release of files related to Jeffrey Epstein.
 
 Yahoo Finance • 1h ago
-
----
-
-**[Is Bitcoin seeing the end of the ‘Tinkerbell effect?' – Deutsche Bank](https://seekingalpha.com/news/4547296-is-bitcoin-seeing-the-end-of-the-tinkerbell-effect-deutsche-bank)**
-
-Bitcoin price plunge: Deutsche Bank on BTC’s shift from speculation to institutional asset, ETF outflows, Fed risks & regulation.
-
-Seeking Alpha • 2h ago
-
----
-
-**[Alleged Ransom Note for Nancy Guthrie Kidnapping Demands Millions in Bitcoin](https://www.tmz.com/2026/02/03/nancy-guthrie-alleged-ransom-note-bitcoin-millions/)**
-
-Another scary twist in the disappearance of "TODAY" host Savannah Guthrie's kidnapped mother ... TMZ has received an alleged ransom note demanding payment for the release of Nancy Guthrie.
-
-TMZ • 1d ago
-
----
-
-**[Alleged Ransom Note For Savannah Guthrie's Mom Demands Hefty Sum In Bitcoin](https://www.yahoo.com/news/articles/alleged-ransom-note-savannah-guthries-220843007.html)**
-
-An alleged ransom note for Nancy Guthrie, mother of "Today" host Savannah Guthrie, has emerged, demanding something surprising.
-
-Yahoo • 21h ago
-
----
-
-**[Bitcoin demand in Nancy Guthrie disappearance shows how crypto is becoming a more frequent feature of physical crimes](https://fortune.com/2026/02/04/bitcoin-demand-in-nancy-guthrie-disappearance/)**
-
-TMZ and an Arizona news outlet reported receiving the ransom letter.
-
-Fortune • 54m ago
 
 ---
 
@@ -225,15 +197,35 @@ Fortune • 54m ago
 
 A nervous mood swept through markets Tuesday as stocks stumbled and bitcoin slumped to its lowest level since November 2024.
 
-CNN • 23h ago
+CNN • 1d ago
 
 ---
 
-**[Software sell-off, AMD earnings, bitcoin drops: 3 Things](https://finance.yahoo.com/video/software-sell-off-amd-earnings-140322858.html)**
+**[Stocks and bitcoin sink as investors dump software company shares](https://www.nbcnews.com/business/markets/stocks-bitcoin-sink-investors-dump-software-company-shares-rcna257302)**
 
-US stock futures (ES=F, NQ=F, YM=F) are mixed in Wednesday's pre-market trading after yesterday's sell-off in software stocks. Advanced Micro Devices (AMD) shares continue to fall despite reporting fourth quarter results that beat Wall Street's earnings and revenue estimates. Bitcoin (BTC-USD) has fallen to its lowest level since November 2024, now hovering just a notch above $75,000 per token. To watch more expert insights and analysis on the latest market action, check out more&nbsp;Morning Brief.
+Bitcoin also tumbled around 5% to its lowest level since President Donald Trump's victory in November 2024.
 
-Yahoo Finance • 5h ago
+NBC News • 23h ago
+
+---
+
+**[Bitcoin Falls Below $73,000](https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-02-04-2026/card/bitcoin-falls-below-73-000-qa0DGgMIgEfkZ5g0NypY?gaa_at=eafs&gaa_n=AWEtsqdTD6aSUzwa7bTepEzyU6cqoTUXEA_XZjoVZG9G7qMuOaWMThMkgA8A&gaa_ts=6983b393&gaa_sig=YiJYvBak-Jvjw2BM8MEApiKYbS3570OdqxFhm6AvdcrRtL1Ng2_4c1D5Oqab9Tb0NqIvaJsJMjdS3Q6U7Tlj9Q%3D%3D)**
+
+The Wall Street Journal • 1h ago
+
+---
+
+**[One of the Dumbest Schemes on Wall Street Might Finally Be Falling Apart](https://slate.com/technology/2026/02/bitcoin-crypto-treasury-wall-street-microstrategy.html)**
+
+Crypto treasury companies quietly crept into index funds and retirement accounts. This collapse is good news for all of us.
+
+Slate • 1d ago
+
+---
+
+**[If you want to get me a birthday gift, buy some bitcoin for yourself.](https://x.com/saylor/status/2019043884152840596)**
+
+x.com • 7h ago
 
 ---
 
@@ -251,7 +243,7 @@ Yahoo Finance • 5h ago
 
 Crypto treasury companies quietly crept into index funds and retirement accounts. This collapse is good news for all of us.
 
-⬆️ 4 • 💬 1 • 10h ago • [Slate Magazine](https://slate.com/technology/2026/02/bitcoin-crypto-treasury-wall-street-microstrategy.html)
+⬆️ 4 • 💬 1 • 11h ago • [Slate Magazine](https://slate.com/technology/2026/02/bitcoin-crypto-treasury-wall-street-microstrategy.html)
 
 ---
 
@@ -267,7 +259,7 @@ Crypto treasury companies quietly crept into index funds and retirement accounts
 
 Bitcoin behaves more like an "ATM" during uncertain times, with investors quickly selling it to raise cash.
 
-⬆️ 3 • 💬 0 • 3h ago • [coindesk.com](https://www.coindesk.com/markets/2026/01/24/here-s-why-bitcoin-s-is-failing-its-role-as-a-safe-haven-versus-gold)
+⬆️ 3 • 💬 0 • 4h ago • [coindesk.com](https://www.coindesk.com/markets/2026/01/24/here-s-why-bitcoin-s-is-failing-its-role-as-a-safe-haven-versus-gold)
 
 ---
 
@@ -333,7 +325,7 @@ BIGGEST CRYPTO DUMP EVER HAPPENING NOW! (What Comes Next?) ✓ Bitunix (no kyc, 
 
 📺 Altcoin Daily
 
-👁️ 55K • 👍 3K • 💬 436 • ⏱️ 10:14 • 21h ago
+👁️ 55K • 👍 3K • 💬 436 • ⏱️ 10:14 • 22h ago
 
 ---
 
@@ -343,7 +335,7 @@ Bitcoin bull market was weak, so will the bear market be shallow? PlanB website:
 
 📺 PlanB
 
-👁️ 24K • 👍 2K • 💬 3K • ⏱️ 4:37 • 6h ago
+👁️ 24K • 👍 2K • 💬 3K • ⏱️ 4:37 • 7h ago
 
 ---
 
@@ -353,7 +345,7 @@ Bitcoin bull market was weak, so will the bear market be shallow? PlanB website:
 
 📺 Bloomberg Television
 
-👁️ 41K • 👍 447 • 💬 307 • ⏱️ 7:56 • 23h ago
+👁️ 41K • 👍 447 • 💬 307 • ⏱️ 7:56 • 1d ago
 
 ---
 
@@ -363,7 +355,7 @@ In recent years, institutions have gone all in on Bitcoin. At first glance, this
 
 📺 Coin Bureau
 
-👁️ 33K • 👍 2K • 💬 243 • ⏱️ 20:52 • 5h ago
+👁️ 33K • 👍 2K • 💬 243 • ⏱️ 20:52 • 6h ago
 
 ---
 
@@ -373,7 +365,7 @@ Let's provide a Bitcoin damage report. Into The Cryptoverse Premium: https://int
 
 📺 Benjamin Cowen
 
-👁️ 53K • 👍 4K • 💬 163 • ⏱️ 56:53 • 14h ago
+👁️ 53K • 👍 4K • 💬 163 • ⏱️ 56:53 • 15h ago
 
 ---
 
@@ -383,7 +375,7 @@ Bitcoin has slipped into bear-market territory — but this drawdown doesn't loo
 
 📺 Swan Bitcoin
 
-👁️ 74K • 👍 3K • 💬 584 • ⏱️ 14:42 • 21h ago
+👁️ 74K • 👍 3K • 💬 584 • ⏱️ 14:42 • 22h ago
 
 ---
 
@@ -393,7 +385,7 @@ Make Free Predictions on *ClashPicks* ▻ https://www.clashpicks.com/ Follow Cla
 
 📺 CryptosRUs
 
-👁️ 29K • 👍 1K • 💬 773 • ⏱️ 10:35 • 18h ago
+👁️ 29K • 👍 1K • 💬 773 • ⏱️ 10:35 • 19h ago
 
 ---
 

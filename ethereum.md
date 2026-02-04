@@ -3,14 +3,14 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-02-04T19:58:24.078387+00:00'
+updated: '2026-02-04T20:46:38.986538+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
+- cryptocurrency
 - social
 - videos
-- cryptocurrency
 - news
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** February 04, 2026 at 19:58 UTC  
+**Last Updated:** February 04, 2026 at 20:46 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -36,17 +36,17 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Price
 
-### $2,148.94
+### $2,164.92
 
 ---
 
 ## Ethereum Chart
 
-**24h:** -7.0%  
-**7d:** -24.2%  
-**30d:** -35.0%  
-**90d:** -37.7%  
-**1y:** -23.1%  
+**24h:** -4.9%  
+**7d:** -23.0%  
+**30d:** -34.0%  
+**90d:** -36.7%  
+**1y:** -22.0%  
 
 ---
 
@@ -80,7 +80,7 @@ The long-term technical vision for Ethereum is undergoing a significant correcti
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-13h ago
+14h ago
 
 ---
 
@@ -88,15 +88,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 I’d like a more technical and realistic analysis of Ethereum and how things are changing and growing. Please let me know if you know a good podcast or YouTube channel that does this. Thank you.
 
-5h ago
-
----
-
-**[Guest Article - The Next Advancement in AI x Blockchain: ERC-8004](https://www.reddit.com/r/ethereum/comments/1qvxz07/guest_article_the_next_advancement_in_ai_x/)**
-
-By Davide Crapis of the dAI Team Lead at Ethereum Foundation AI agents are already booking flights, writing code, and managing portfolios, but they operate in silos. As the actions they automate have more value at stake, they need a shared way to establish identity and build trust.
-
-🔗 [linkedin.com](https://www.linkedin.com/pulse/guest-article-next-advancement-ai-x-blockchain-erc-8004-ethereum-vpt3c?utm_source%3Dshare%26utm_medium%3Dmember_ios%26utm_campaign%3Dshare_via) • 40m ago
+6h ago
 
 ---
 
@@ -105,6 +97,28 @@ By Davide Crapis of the dAI Team Lead at Ethereum Foundation AI agents are alrea
 Hi there, I was recently approached by someone who wanted to buy some of my digital artwork as NFT's using Ethereum, they seem to be legitimate and I have been very careful checking things out. I know very little about crypto and so far after watching several videos and an hours worth of Google searching I feel non the wiser! Is anyone here able to point me in the direction of a VERY beginner friendly guide to setting up an Ethereum wallet and turning that currency back into national currency? Thanks for any advice you guys can offer!
 
 1h ago
+
+---
+
+**[Reframing Layer 2s: spectrum of trust models instead of “Ethereum scaling”](https://www.reddit.com/r/ethereum/comments/1qw043z/reframing_layer_2s_spectrum_of_trust_models/)**
+
+11m ago
+
+---
+
+**[Trouble finding my Ethereum I transferred long ago](https://www.reddit.com/r/ethereum/comments/1qvyb1d/trouble_finding_my_ethereum_i_transferred_long_ago/)**
+
+Hi all, as the title says, I transferred Ethereum to an external wallet about 9 years ago that I want to return to Coinbase. Worth over $200 today. Coinbase sent me to etherscan, where I can view the record and details of the transfer… however I still have no idea how to recover it. Clicking on the receiving address just shows me more details. I don’t actually recall the site at all. I do have a secret seed that i wrote down all those years ago… any advice? I would hate to just let it go, but this has been bothering me for years. Thanks for any help!
+
+1h ago
+
+---
+
+**[Guest Article - The Next Advancement in AI x Blockchain: ERC-8004](https://www.reddit.com/r/ethereum/comments/1qvxz07/guest_article_the_next_advancement_in_ai_x/)**
+
+By Davide Crapis of the dAI Team Lead at Ethereum Foundation AI agents are already booking flights, writing code, and managing portfolios, but they operate in silos. As the actions they automate have more value at stake, they need a shared way to establish identity and build trust.
+
+🔗 [linkedin.com](https://www.linkedin.com/pulse/guest-article-next-advancement-ai-x-blockchain-erc-8004-ethereum-vpt3c?utm_source%3Dshare%26utm_medium%3Dmember_ios%26utm_campaign%3Dshare_via) • 1h ago
 
 ---
 
@@ -132,18 +146,6 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 ---
 
-**[ZK (Zero knowledge) proof for SHA-256: 312-byte proof, ~18µs verification](https://www.reddit.com/r/ethereum/comments/1qv2hzp/zk_zero_knowledge_proof_for_sha256_312byte_proof/)**
-
-23h ago
-
----
-
-**[Effect-TS library for EVM frontends](https://www.reddit.com/r/ethereum/comments/1quxszt/effectts_library_for_evm_frontends/)**
-
-1d ago
-
----
-
 ---
 
 ## Google News: "ethereum"
@@ -152,13 +154,13 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 Based on data from prediction markets, Ethereum will have a tough climb this year.
 
-The Motley Fool • 7h ago
+The Motley Fool • 8h ago
 
 ---
 
-**[Bitcoin, XRP, Ethereum Drop. Why Cryptos Are Under Pressure Today.](https://www.barrons.com/articles/bitcoin-xrp-ethereum-cryptos-gold-9051820f?gaa_at=eafs&gaa_n=AWEtsqeNFyMAHslIoh-BpBsa5WDCbtnqePbatXtAwn07cr_3X9fkJlYFJoa4&gaa_ts=69839fe2&gaa_sig=Ram0Apic-NCNMVzitnVT5zPur0xYUOtN5LWwTJumkuht2DUTlaj9igU0BnlDQNDjnHNAma0-s69UpRGAY_SRBQ%3D%3D)**
+**[Bitcoin, XRP, Ethereum Drop. Why Cryptos Are Under Pressure Today.](https://www.barrons.com/articles/bitcoin-xrp-ethereum-cryptos-gold-9051820f?gaa_at=eafs&gaa_n=AWEtsqd9ugDNvvjtiqoOoX74QP0g4K2__Jq0NKs-r-ou4XybavFn2_JXsOFM&gaa_ts=6983b395&gaa_sig=Nnwlr-hb444pV8xus1p_0489qZd6xws9I5CEoVjWMJtzYgPPIMvQ9lWJQQ7coIc6Rlzb-gx83J9E4srPYVTYxg%3D%3D)**
 
-Barron's • 8h ago
+Barron's • 9h ago
 
 ---
 
@@ -178,17 +180,9 @@ The Block • 1d ago
 
 ---
 
-**[Vitalik Buterin Moves $29 Million Worth of Ethereum—Here's Why](https://finance.yahoo.com/news/vitalik-buterin-moves-29-million-181237577.html)**
+**[Vitalik Buterin Moves $29 Million Worth of Ethereum—Here's Why](https://decrypt.co/356914/vitalik-buterin-moves-29-million-worth-of-ethereum-heres-why)**
 
-Vitalik Buterin moves $29M in ETH to fund Ethereum Foundation as crypto markets tumble and he calls for major network changes.
-
-Yahoo Finance • 1h ago
-
----
-
-**[UBS CEO Details Crypto Plans Following Report of Bitcoin, Ethereum Trading for Wealthy Clients](https://decrypt.co/356924/ubs-ceo-details-crypto-plans-bitcoin-ethereum-trading-wealthy-clients)**
-
-Publicly traded Swiss bank UBS is working on plans to offer digital assets trading and tokenized service offerings for users, its CEO said.
+Vitalik Buterin moves 14,000 ETH worth $29M to support Ethereum Foundation during "mild austerity" period. His now hold 227K ETH.
 
 Decrypt • 2h ago
 
@@ -210,19 +204,25 @@ Sherwood News • 2d ago
 
 ---
 
-**[Ethereum Price Slips Below $2,500 — Here Are The Next Support Levels](https://www.tradingview.com/news/newsbtc:8023eb943094b:0-ethereum-price-slips-below-2-500-here-are-the-next-support-levels/)**
-
-The Ethereum price has been under intense bearish pressure over the past few weeks, reflecting the overall fragile state of the cryptocurrency market. The altcoin lost nearly 20% of its value in the past week, free-falling under the psychological $3,000 level since Thursday, January 29th. With the…
-
-TradingView • 3d ago
-
----
-
 **[Ethereum: Vitalik moved 705 ETH and the market panicked – Here’s what happened](https://ambcrypto.com/ethereum-vitalik-moved-705-eth-and-the-market-panicked-heres-what-happened/)**
 
 Are whale alerts creating more fear than insight in today’s crypto markets?
 
-AMBCrypto • 17h ago
+AMBCrypto • 18h ago
+
+---
+
+**[Bitmine Immersion Technologies (BMNR) Announces ETH Holdings Reach 4.285 Million Tokens, and Total Crypto and Total Cash Holdings of $10.7 Billion](https://www.prnewswire.com/news-releases/bitmine-immersion-technologies-bmnr-announces-eth-holdings-reach-4-285-million-tokens-and-total-crypto-and-total-cash-holdings-of-10-7-billion-302676048.html)**
+
+Bitmine staked ETH stands at 2,873,459 and MAVAN staking solution on track to launch Q1 2026 Bitmine now owns 3.55% of the ETH token supply, over 70% of the...
+
+PR Newswire • 2d ago
+
+---
+
+**[Bit Digital Highlights Shift to Ethereum and AI Infrastructure](https://www.tipranks.com/news/company-announcements/bit-digital-highlights-shift-to-ethereum-and-ai-infrastructure)**
+
+TipRanks • 8h ago
 
 ---
 
@@ -246,7 +246,7 @@ This video provides a professional Elliott Wave and technical analysis of Ethere
 
 📺 More Crypto Online
 
-👁️ 2K • 👍 188 • 💬 6 • ⏱️ 4:15 • 3h ago
+👁️ 2K • 👍 188 • 💬 6 • ⏱️ 4:15 • 4h ago
 
 ---
 
@@ -266,7 +266,7 @@ Bitcoin's dip below $75000 is something David Siemer calls a "buying opportunity
 
 📺 Schwab Network
 
-👁️ 12K • 👍 153 • 💬 21 • ⏱️ 6:37 • 18h ago
+👁️ 12K • 👍 153 • 💬 21 • ⏱️ 6:37 • 19h ago
 
 ---
 
@@ -276,7 +276,7 @@ My FREE Daily On-Chain Analysis & Crypto News In 5-Mins: https://www.cryptonutsh
 
 📺 Jamie Tree 
 
-👁️ 858 • 👍 40 • 💬 204 • ⏱️ 18:33 • 4h ago
+👁️ 858 • 👍 40 • 💬 204 • ⏱️ 18:33 • 5h ago
 
 ---
 
@@ -286,7 +286,7 @@ Ask and you shall receive... or maybe just complain a lot and then the informati
 
 📺 The Modern Investor
 
-👁️ 8K • 👍 799 • 💬 395 • ⏱️ 29:04 • 8h ago
+👁️ 8K • 👍 799 • 💬 395 • ⏱️ 29:04 • 9h ago
 
 ---
 
@@ -316,7 +316,7 @@ ETHEREUM ETH PRICE PREDICTION 2026 Join the Premium Signal Group for trade setup
 
 📺 Cilinix Crypto
 
-👁️ 369 • 👍 15 • 💬 25 • ⏱️ 4:29 • 10h ago
+👁️ 369 • 👍 15 • 💬 25 • ⏱️ 4:29 • 11h ago
 
 ---
 

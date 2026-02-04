@@ -3,7 +3,7 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-02-04T19:58:24.081537+00:00'
+updated: '2026-02-04T20:46:38.991340+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
@@ -17,7 +17,7 @@ data_types:
 
 Robotics research and industry news
 
-**Last Updated:** February 04, 2026 at 19:58 UTC  
+**Last Updated:** February 04, 2026 at 20:46 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -36,7 +36,7 @@ Robotics research and industry news
 
 From Olivier Duchenne on 𝕏: https://x.com/inventorOli/status/2018719028462657922 And Guillaume Lample on 𝕏: "Mistral robotics team is hiring. Join us!": https://x.com/GuillaumeLample/status/2018719626578796665
 
-8h ago
+9h ago
 
 ---
 
@@ -44,7 +44,7 @@ From Olivier Duchenne on 𝕏: https://x.com/inventorOli/status/2018719028462657
 
 Asimov is an open-source humanoid robot. We open-sourced the leg design and XML files for simulation. It's built with off-the-shelf components and 3D-printable parts. All files and parts are here: https://github.com/asimovinc/asimov-v0
 
-8h ago
+9h ago
 
 ---
 
@@ -52,7 +52,7 @@ Asimov is an open-source humanoid robot. We open-sourced the leg design and XML 
 
 Hi everyone! I’m excited to finally share a project I’ve been working on for the past 2 years. I developed the entire ecosystem from scratch: from the initial mechanical design and fabrication to the electronics and the full software architecture. My main goal was to build a robot that is as user-friendly as possible. Fabrication and hardware Design on Solidworks Maker 3D printed on an Ender 3 V2 and a Bambu Lab X1C 2 parts for the case are cut with a laser cutter (in a Fab-Lab) Materials : PLA, PETG, TPU, ABS, PC and plywood Electronics NVIDIA Jetson Orin Nano : handles the communication with the cameras and the controller 3 Arduino nano, one in each part of the robot (front, middle and back). They interface with the sensors and actuators. Teensy 4.1: Handles the IMU with SPI communication. Acts as a bridge between the Arduino and the Jetson : Communicates by I2C with Arduino Reads and publishes directly on topics with micro-ROS. Controller is a Legion GO. I used it to have physical joystick, touch sensitive screen, with easy to use driver (thanks to Windows 11). The physical Joy an button are detected like a real Xbox controller. Software ROS 2 Humble and Ubuntu 22 on the Jetson. Windows 11 on the Legion Go. Python for the Legion Go and Jetson. C++ (Arduino) for the Teensy and the Nanos. The user interface on the legion go is developed using Pygame. Sensors 2 MIPI CSI cameras (one has night vision). 1 BNO085 and 1 MPU 6050 for the IMU. 5 distance sensors (Time Of flight sensors) sensors for temperature, touch sensitivity, tension, current, etc. Actuators 12 Lynxmotion LSS V2 servos. Within the weight and dimensions of my robot, it's not the best solution (Slightly underpowered), but I made the choice to focus on user experience and a professional product appearance instead of mobility for this robot. 3 standart 90g servomoteurs for the moving parts in the Head 4 fans for cooling, LEDs, laser, Swappable Batteries and Alimentation Wired alimentation is possible with classic jack connector Swappable DIY batteries : 5S1P 21700 with Molicel P42A Custom 3D printed case If you want to see more of the robot in action, I have a longer video here: https://youtu.be/xeyl0i7DunE?si=ifOYklHHlQlqF0qz Feel free to ask me anything about the build, I’ll be happy to answer your questions!
 
-5h ago
+6h ago
 
 ---
 
@@ -60,7 +60,7 @@ Hi everyone! I’m excited to finally share a project I’ve been working on for
 
 The drone has six mmWave radars to sense power lines from any direction, all connected to a Raspberry Pi. Based on these detections, the desired velocity (from a pilot or autonomous system) then gets modified to guide the drone around the power line. Everything runs in real time on the Pi with ROS2 middleware and PX4 flight stack. If you're interested, you can check out the paper: https://arxiv.org/abs/2602.03229, or the full video with voice-over: https://www.youtube.com/watch?v=rJW3eEC-5Ao
 
-15h ago
+16h ago
 
 ---
 
@@ -68,15 +68,15 @@ The drone has six mmWave radars to sense power lines from any direction, all con
 
 Paper: https://arxiv.org/abs/2602.02473 Project Page: https://wyhuai.github.io/human-x/ From Yinhuai on 𝕏: https://x.com/NliGjvJbycSeD6t/status/2018713031157465495 Previous post: An Unitree trained to play basketball and the first human block against a humanoid: https://www.reddit.com/r/robotics/comments/1p2w932/an_unitree_trained_to_play_basketball_and_the/
 
-9h ago
+10h ago
 
 ---
 
-**[Rodney Brooks on why humans still do the grasping](https://www.reddit.com/r/robotics/comments/1qvab5h/rodney_brooks_on_why_humans_still_do_the_grasping/)**
+**[Added OpenClaw-powered Missions to my Robot](https://www.reddit.com/r/robotics/comments/1qvz05e/added_openclawpowered_missions_to_my_robot/)**
 
-Brooks argues that the real bottleneck is still physical interaction with the world. Humans don’t just copy motions when they pick something up. They constantly sense force, adjust grip, and adapt in ways that are hard to formalize or capture in data. Many current systems learn from vision or teleoperation, but that misses what happens at the point of contact. His view isn’t that automation can’t help. It’s that value today comes from supporting humans around these tasks rather than replacing them. Reducing walking, lifting, and strain is achievable now, while true human-level grasping remains a long-term challenge.
+Yesterday, I connected a RealSense camera to OpenClaw and maybe demonstrated the first ROS-powered physical AI robot on the platform. Today, I added teleop (remote control) and AI missions without writing a line of code!
 
-18h ago
+51m ago
 
 ---
 
@@ -84,7 +84,15 @@ Brooks argues that the real bottleneck is still physical interaction with the wo
 
 Mind Blown! Have you heard about ClawdBot now called OpenClaw? It’s an open source personal AI assistant with over 150k stars on GitHub. I connected a RealSense camera to it and my robot started following me!
 
-20h ago
+21h ago
+
+---
+
+**[Rodney Brooks on why humans still do the grasping](https://www.reddit.com/r/robotics/comments/1qvab5h/rodney_brooks_on_why_humans_still_do_the_grasping/)**
+
+Brooks argues that the real bottleneck is still physical interaction with the world. Humans don’t just copy motions when they pick something up. They constantly sense force, adjust grip, and adapt in ways that are hard to formalize or capture in data. Many current systems learn from vision or teleoperation, but that misses what happens at the point of contact. His view isn’t that automation can’t help. It’s that value today comes from supporting humans around these tasks rather than replacing them. Reducing walking, lifting, and strain is achievable now, while true human-level grasping remains a long-term challenge.
+
+19h ago
 
 ---
 
@@ -96,17 +104,11 @@ Not sure where else to rant and have people understand where I am coming from. B
 
 ---
 
-**[Joints made with rolling contact surfaces](https://www.reddit.com/r/robotics/comments/1quvbyp/joints_made_with_rolling_contact_surfaces/)**
+**[Robstride vs CubeMars vs MyActuator vs?](https://www.reddit.com/r/robotics/comments/1qvyrvp/robstride_vs_cubemars_vs_myactuator_vs/)**
 
-See this LINK. Cool article about a new design for robot joints that roll instead of pivoting like normal hinges. Seems like a very practical design that would be easy to make with 3D printing, and can be passive or motor-driven. The joints use specially shaped (non-circular) rolling surfaces that can be “programmed” to move in very specific ways. Compared to regular joints, these rolling joints can follow complex paths much more accurately The joints can also change how force is transmitted, giving more strength where it’s needed and more speed elsewhere. From this academic article:C.J. Decker, T.G. Chen, M.C. Yuen, & R.J. Wood, Noncircular rolling contact joints enable programmed behavior in robotic linkages, Proc. Natl. Acad. Sci. U.S.A. https://doi.org/10.1073/pnas.2521406123 (2026). The authors show that a joint designed this way can closely match the motion of a human knee, far better than standard hinges. They also build a robotic gripper that can lift over three times more weight than a similar gripper with ordinary joints.
+Don't have an exact project drawn out yet, but I've been looking into the main rotary actuator providers. Price differences are obvious, but want to hear from those who have used product from multiple vendors. Any not perform as advertised? are less durable? no support?
 
-1d ago
-
----
-
-**[Final jet engine scale model design](https://www.reddit.com/r/robotics/comments/1qvfmy1/final_jet_engine_scale_model_design/)**
-
-14h ago
+59m ago
 
 ---
 
@@ -116,7 +118,7 @@ See this LINK. Cool article about a new design for robot joints that roll instea
 
 **[Bedrock, an A.I. Start-Up for Construction, Raises $270 Million](https://www.nytimes.com/2026/02/04/business/dealbook/bedrock-robotics-ai-fundraise.html)**
 
-The New York Times • 6h ago
+The New York Times • 5h ago
 
 ---
 
@@ -125,14 +127,6 @@ The New York Times • 6h ago
 SPONSORED CONTENT  Physical AI and robotics are moving from the lab to the real world – and the cost of getting it wrong is no longer theoretical. With
 
 The Next Platform • 1d ago
-
----
-
-**[ETM brings its transverse flux motor technology to robotics](https://www.therobotreport.com/etm-brings-its-transverse-flux-motor-technology-to-robotics/)**
-
-ETM said its TFM technology enables OEMs to simplify mechanical designs, reduce costs, and achieve performance benchmarks.
-
-The Robot Report • 4h ago
 
 ---
 
@@ -152,19 +146,27 @@ TechCrunch • 2d ago
 
 ---
 
-**[Humanoid Robotics Market in 2026 Transformative Trends and Technological Advancements](https://finance.yahoo.com/news/humanoid-robotics-market-2026-transformative-151500387.html)**
-
-According to Precedence Research, humanoid robotics is advancing rapidly, with key companies leading the charge toward mass production and real-world deployments. Tesla, Boston Dynamics, and Figure AI are at the forefront of this transformation, focusing on building general-purpose humanoid robots, with significant funding and operational goals. These companies are not only innovating in design but are also gearing up for large-scale production, making humanoid robots a reality for various secto
-
-Yahoo Finance • 4h ago
-
----
-
 **[Apple Teaching Swift and Robotics Across Its India Supply Chain](https://www.macrumors.com/2026/02/04/apple-teaching-swift-and-robotics-in-india/)**
 
 Apple today announced a new Education Hub in Bengaluru as part of an expanded effort to provide technical training and skills development for employees across its supply chain in India. Apple said the new Apple Education Hub in Bengaluru will serve as a centralized training and coordination facility for supplier employees in India, marking the company's first education hub of its kind in the country.
 
-MacRumors • 7h ago
+MacRumors • 8h ago
+
+---
+
+**[FDNY using robotics to protect New Yorkers, improve job safety in fighting fires](https://abc7ny.com/post/fdny-using-robotics-protect-new-yorkers-improve-job-safety-fighting-fires/18542442/)**
+
+From drones to robotic dogs, New York City's fire department is equipped with the latest high-tech devices with remarkable autonomous capabilities.
+
+ABC7 New York • 43m ago
+
+---
+
+**[Humanoid Robotics Market in 2026 Transformative Trends and Technological Advancements](https://finance.yahoo.com/news/humanoid-robotics-market-2026-transformative-151500387.html)**
+
+According to Precedence Research, humanoid robotics is advancing rapidly, with key companies leading the charge toward mass production and real-world deployments. Tesla, Boston Dynamics, and Figure AI are at the forefront of this transformation, focusing on building general-purpose humanoid robots, with significant funding and operational goals. These companies are not only innovating in design but are also gearing up for large-scale production, making humanoid robots a reality for various secto
+
+Yahoo Finance • 5h ago
 
 ---
 
@@ -202,7 +204,7 @@ XPENG just took a massive step forward in humanoid robotics. The New IRON robot 
 
 📺 DPCcars
 
-👁️ 18K • 👍 163 • 💬 35 • ⏱️ 1:21 • 3d ago
+👁️ 18K • 👍 163 • 💬 35 • ⏱️ 1:21 • 4d ago
 
 ---
 
@@ -212,7 +214,7 @@ Chinese researchers have taught a Unitree G1 humanoid robot how to ride a skateb
 
 📺 Kalil 4.0
 
-👁️ 335 • 👍 9 • ⏱️ 0:46 • 16m ago
+👁️ 335 • 👍 9 • ⏱️ 0:46 • 1h ago
 
 ---
 
@@ -222,7 +224,7 @@ This robotic mouth is designed to replicate how real human lips move while speak
 
 📺 Facts TV 91
 
-👁️ 67K • 👍 437 • 💬 17 • ⏱️ 0:06 • 18h ago
+👁️ 67K • 👍 437 • 💬 17 • ⏱️ 0:06 • 19h ago
 
 ---
 
