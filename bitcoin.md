@@ -3,13 +3,13 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-02-04T08:43:24.135634+00:00'
+updated: '2026-02-04T09:45:31.028034+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- videos
 - news
+- videos
 - social
 - cryptocurrency
 ---
@@ -18,7 +18,7 @@ data_types:
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** February 04, 2026 at 08:43 UTC  
+**Last Updated:** February 04, 2026 at 09:45 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -44,27 +44,27 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Chart
 
-**24h:** -2.6%  
-**7d:** -9.9%  
-**30d:** -18.6%  
-**90d:** -26.4%  
-**1y:** -21.0%  
+**24h:** -2.5%  
+**7d:** -10.1%  
+**30d:** -18.8%  
+**90d:** -26.6%  
+**1y:** -21.2%  
 
 ---
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1529.54B
+**Market Cap:** $1519.22B
 Rank #1
 
 **Circulating Supply:** 19,982,656 BTC
 95.2% of max
 
 **All-Time High:** $126,080.00
--39.3%
+-39.7%
 
 **All-Time Low:** $67.81
-+112842.0%
++112031.0%
 
 ---
 
@@ -81,15 +81,7 @@ Rank #1
 
 down down down
 
-9h ago
-
----
-
-**[If bitcoin goes back to ATH.](https://www.reddit.com/r/Bitcoin/comments/1qv46tl/if_bitcoin_goes_back_to_ath/)**
-
-And you are buying right now you’ll make 66% return on your useless fiat. But no you’re scared and bitcoin is dead again.
-
-11h ago
+10h ago
 
 ---
 
@@ -97,13 +89,13 @@ And you are buying right now you’ll make 66% return on your useless fiat. But 
 
 tl;dr: Over the course of the past 4 years, I took out ~$150,000 in personal loans and 0% credit card balance transfer loans to purchase 4.75 Bitcoin. I've paid ~$17,000 in interest. I've been making updates every 6 months or so since the beginning. See my post history for previous updates. ***** Today, February 3rd, 2026 Bitcoin is trading at $75,000 which brings the current value of my 4.75₿ to $356,000. The average price I paid is ~$35,000 per Bitcoin. My total cost basis is ~$167,000 for 4.5₿ ($150k in loans + $17,000 in interest). This comes to ~113% unrealized profit or ~$189,000 in dollar terms as of today. ***** What’s new since my last update? Not much is new except that… I finished paying off all my loans!!! What a relief! I was never really worried though because I never borrowed more than I could afford to service. Bitcoin’s price action has been disappointing to say the least, but I’m thinking this is an opportunity. So I plan on taking out another $50k in loans if it breaks down below $70k which seem highly likely… probably at the 200SMA. In the meantime, I’m throwing everything I can at in each month while we’re in the $70-80k range with earned income from my job. I’ve been stacking this whole time while paying down the loans.
 
-12h ago
+14h ago
 
 ---
 
 **[Sometimes I don`t](https://www.reddit.com/r/Bitcoin/comments/1qvh12n/sometimes_i_dont/)**
 
-2h ago
+3h ago
 
 ---
 
@@ -111,7 +103,15 @@ tl;dr: Over the course of the past 4 years, I took out ~$150,000 in personal loa
 
 I bought btc at 118k, 114k, and 112k. its almost 20% of my whole portfolio , I cant dca much now because of the situation. I have extra but i dont want to increase it further since Im in fear what should i do? if your in my position what you will do? please dont be biased if you are a fan of btc. give me realistic plan and opinion
 
-14h ago
+15h ago
+
+---
+
+**[If bitcoin goes back to ATH.](https://www.reddit.com/r/Bitcoin/comments/1qv46tl/if_bitcoin_goes_back_to_ath/)**
+
+And you are buying right now you’ll make 66% return on your useless fiat. But no you’re scared and bitcoin is dead again.
+
+12h ago
 
 ---
 
@@ -119,7 +119,7 @@ I bought btc at 118k, 114k, and 112k. its almost 20% of my whole portfolio , I c
 
 I’ve been buying Bitcoin since 2021. This drawdown is going to present me with the opportunity to reach half a Bitcoin, and I’m excited. We’re human and it’s hard to zoom out but this is a great opportunity and the future is bright. The buying doesn’t stop here.
 
-13h ago
+15h ago
 
 ---
 
@@ -127,13 +127,13 @@ I’ve been buying Bitcoin since 2021. This drawdown is going to present me with
 
 advice to people who panics when market goes down is to DCA on a daily and stack aside for large purchase on big dips.
 
-9h ago
+10h ago
 
 ---
 
 **[Kevin Warsh (New Fed Chair) Understands BUT Underestimates Bitcoin](https://www.reddit.com/r/Bitcoin/comments/1qvbelm/kevin_warsh_new_fed_chair_understands_but/)**
 
-6h ago
+7h ago
 
 ---
 
@@ -141,13 +141,13 @@ advice to people who panics when market goes down is to DCA on a daily and stack
 
 Oh no! BTC is crashing out! BTC is dead again 😱 Whatever shall I do?!? I bought .0004 for $50 when BTC was at 126000 and now it’s only worth $29!!! I’m COOKED! Everyone knows you can’t buy a lambo for $29, BTC needs to GO UP to 1 million so I can buy one for $400! Seriously though, the little stacks of sats that were worth $500-$1000USD that have been recently devalued isn’t life changing money for most anyone. If everyone knows BTC spends 2 years in an upward cycle towards a halving and 2 years in a brief euphoric followed by downward cycle…why is everyone freaking out when apparently it’s on its usual downward way towards an eventual upside of $500k by 2028 thereby making all the diamond hand hundredaire peasants into thousandaire peasants? Remember kids, 1BTC=1BTC…some of us are just mad we can’t buy ‘enough’.
 
-13h ago
+14h ago
 
 ---
 
 **[The US Government is a ZOMBIE Company: They MUST Debase the Currency](https://www.reddit.com/r/Bitcoin/comments/1qvbvra/the_us_government_is_a_zombie_company_they_must/)**
 
-6h ago
+7h ago
 
 ---
 
@@ -155,31 +155,57 @@ Oh no! BTC is crashing out! BTC is dead again 😱 Whatever shall I do?!? I boug
 
 ## Google News: "bitcoin"
 
-**[Bitcoin hits lowest level since 2024 and stocks stumble as AI and geopolitical nerves fray](https://www.cnn.com/2026/02/03/investing/us-stock-market-bitcoin)**
+**[Bitcoin briefly breaks below $73,000 to lowest since November 2024 as heavy selling resumes](https://www.cnbc.com/2026/02/03/bitcoin-price-today.html)**
 
-A nervous mood swept through markets Tuesday as stocks stumbled and bitcoin slumped to its lowest level since November 2024.
+Bitcoin fell below $73,000 on Tuesday as investors sold the asset to hedge against heightened geopolitical and economic uncertainties.
 
-CNN • 12h ago
+CNBC • 14h ago
 
 ---
 
 **[Michael Burry Warns of Cascading Effects From Bitcoin Plunge](https://www.bloomberg.com/news/articles/2026-02-03/michael-burry-warns-of-cascading-effects-from-bitcoin-plunge)**
 
-Bloomberg.com • 8h ago
+Bloomberg.com • 9h ago
 
 ---
 
-**[Bitcoin ETF outflows deepen as ether and XRP funds quietly attract inflows](https://www.coindesk.com/markets/2026/02/04/bitcoin-etf-outflows-deepen-as-ether-and-xrp-funds-quietly-attract-inflows)**
+**[‘Big Short’ investor Michael Burry warns bitcoin plunge could trigger $1 billion gold, silver selloff](https://finance.yahoo.com/news/big-short-investor-michael-burry-231654075.html)**
 
-The flows are indicative of a growing split in how investors are positioning across major crypto assets during the latest bout of market volatility.
+Burry said crypto losses may have forced institutions to liquidate precious metals as bitcoin slid below $73,000.
 
-CoinDesk • 1h ago
+Yahoo Finance • 10h ago
 
 ---
 
-**[Bitcoin: Finally The Crash Is Here](https://www.forbes.com/sites/digital-assets/2026/02/02/bitcoin-finally-the-crash-is-here/)**
+**["Big Short" Michael Burry flags “death spiral” after silver liquidations beat bitcoin](https://www.coindesk.com/markets/2026/02/04/big-short-michael-burry-flags-death-spiral-after-silver-liquidations-beat-bitcoin)**
 
-Forbes • 1d ago
+Tokenized silver futures logged one of the largest wipeouts across crypto markets, overtaking the usual leaders bitcoin and ether.
+
+CoinDesk • 4h ago
+
+---
+
+**[Bitcoin hits lowest level since 2024 and stocks stumble as AI and geopolitical nerves fray](https://www.cnn.com/2026/02/03/investing/us-stock-market-bitcoin)**
+
+A nervous mood swept through markets Tuesday as stocks stumbled and bitcoin slumped to its lowest level since November 2024.
+
+CNN • 13h ago
+
+---
+
+**[Stocks and bitcoin sink as investors dump software company shares](https://www.nbcnews.com/business/markets/stocks-bitcoin-sink-investors-dump-software-company-shares-rcna257302)**
+
+Bitcoin also tumbled around 5% to its lowest level since President Donald Trump's victory in November 2024.
+
+NBC News • 12h ago
+
+---
+
+**[Erratic behavior in bitcoin, silver and memory stocks threatens to unnerve bull market](https://www.cnbc.com/2026/02/02/erratic-behavior-in-bitcoin-silver-and-memory-stocks-threatens-to-unnerve-bull-market.html)**
+
+For a broadly positive start to a year, though, there are a striking number of caveats, extremes and oddities for skeptics to invoke.
+
+CNBC • 1d ago
 
 ---
 
@@ -187,7 +213,7 @@ Forbes • 1d ago
 
 Crypto treasury companies quietly crept into index funds and retirement accounts. This collapse is good news for all of us.
 
-Slate • 15h ago
+Slate • 16h ago
 
 ---
 
@@ -195,7 +221,7 @@ Slate • 15h ago
 
 Another scary twist in the disappearance of "TODAY" host Savannah Guthrie's kidnapped mother ... TMZ has received an alleged ransom note demanding payment for the release of Nancy Guthrie.
 
-TMZ • 12h ago
+TMZ • 14h ago
 
 ---
 
@@ -203,29 +229,7 @@ TMZ • 12h ago
 
 An alleged ransom note for Nancy Guthrie, mother of "Today" host Savannah Guthrie, has emerged, demanding something surprising.
 
-Yahoo • 10h ago
-
----
-
-**[TMZ receives alleged ransom note demanding millions in Bitcoin for release of Nancy Guthrie](https://www.eastidahonews.com/2026/02/tmz-received-alleged-ransom-note-demanding-millions-in-bitcoin-for-release-of-nancy-guthrie/)**
-
-LOS ANGELES, California — TMZ says it has received an alleged ransom note demanding millions of dollars in Bitcoin for the release of Nancy Guthrie, the missing mother of “Today” show co-anchor Savannah Guthrie. According to the outlet, the note arrived Tuesday morning and instructed that a substantial amount of cryptocurrency be sent to a […]
-
-East Idaho News • 11h ago
-
----
-
-**[Crypto Bros Nauseated After Realizing Bitcoin Itself Was Funded by Jeffrey Epstein](https://futurism.com/future-society/cryptocurrency-jeffrey-epstein-bitcoin)**
-
-The crypto community is reeling from the discovery that Epstein was a huge backer of early Bitcoin efforts.
-
-Futurism • 13h ago
-
----
-
-**[Bitcoin Falls Again, Dropping Below $80,000. What to Know.](https://www.barrons.com/articles/bitcoin-price-news-gold-silver-trump-fed-warsh-db35f5ad?gaa_at=eafs&gaa_n=AWEtsqf6JCd-CPApXL9Xy_NRXORL9epJ3ZbU4rxbjEACKekhu4Lk6Q9tomuh&gaa_ts=69830a18&gaa_sig=VfJkhIqtZoB27e2YiXIyvM05wKZBPLkzvyq9sSXKBFYoTMi2VCI7HD5fEufBZre6c6uI_vmkxIU7vxaL9P4HTQ%3D%3D)**
-
-Barron's • 3d ago
+Yahoo • 11h ago
 
 ---
 
@@ -243,7 +247,15 @@ Barron's • 3d ago
 
 Cryptocurrency markets fell as global equities and precious metals sold off while bitcoin liquidations exacerbated downside moves.
 
-⬆️ 3 • 💬 0 • 17h ago • [CNBC](https://www.cnbc.com/2026/02/02/bitcoin-btc-price-today-cryptocurrency.html)
+⬆️ 3 • 💬 0 • 18h ago • [CNBC](https://www.cnbc.com/2026/02/02/bitcoin-btc-price-today-cryptocurrency.html)
+
+---
+
+**[The Bitcoin Perpetual Motion Machine Is Starting to Sputter](https://news.ycombinator.com/item?id=46883382)**
+
+Crypto treasury companies quietly crept into index funds and retirement accounts. This collapse is good news for all of us.
+
+⬆️ 2 • 💬 0 • 41m ago • [Slate Magazine](https://slate.com/technology/2026/02/bitcoin-crypto-treasury-wall-street-microstrategy.html)
 
 ---
 
@@ -301,17 +313,19 @@ On the other hand
 
 ---
 
-**[Ozow Announces New Crypto Payments Solution Powered by MoneyBadger](https://news.ycombinator.com/item?id=46799830)**
-
-Reporting on Fintech, Crypto, and Blockchain Activity in Africa
-
-⬆️ 1 • 💬 0 • 6d ago • [BitKE](https://bitcoinke.io/2026/01/ozow-announces-payments-solution-by-moneybadger/)
-
----
-
 ---
 
 ## YouTube Videos: "bitcoin"
+
+**[Bitcoin Dropped to $73,000 Today...](https://www.youtube.com/watch?v=TXb40Ik3_QY)**
+
+Make Free Predictions on *ClashPicks* ▻ https://www.clashpicks.com/ Follow ClashPicks' X ▻ https://x.com/ClashPicks ...
+
+📺 CryptosRUs
+
+👁️ 22K • 👍 1K • 💬 590 • ⏱️ 10:35 • 8h ago
+
+---
 
 **[Bitcoin could keep falling, Novogratz says](https://www.youtube.com/watch?v=6odRJdjwET4)**
 
@@ -319,7 +333,7 @@ Reporting on Fintech, Crypto, and Blockchain Activity in Africa
 
 📺 Bloomberg Television
 
-👁️ 29K • 👍 368 • 💬 253 • ⏱️ 7:56 • 12h ago
+👁️ 33K • 👍 394 • 💬 265 • ⏱️ 7:56 • 13h ago
 
 ---
 
@@ -329,7 +343,7 @@ LIMITED TIME: ✓ Bitunix (no kyc, $10k bonus): https://www.bitunix.com/register
 
 📺 Altcoin Daily
 
-👁️ 99K • 👍 3K • 💬 680 • ⏱️ 10:56 • 1d ago
+👁️ 101K • 👍 3K • 💬 687 • ⏱️ 10:56 • 1d ago
 
 ---
 
@@ -339,27 +353,27 @@ Gold and silver just erased trillions in days while Bitcoin gets blamed for vola
 
 📺 Simply Bitcoin
 
-👁️ 19K • 👍 1K • 💬 270 • ⏱️ 13:11 • 10h ago
+👁️ 22K • 👍 2K • 💬 281 • ⏱️ 13:11 • 11h ago
 
 ---
 
-**[Bitcoin Dropped to $73,000 Today...](https://www.youtube.com/watch?v=TXb40Ik3_QY)**
+**[Bitcoin, Ethereum &amp; Altcoins DOWN BAD (NOW THIS!?)](https://www.youtube.com/watch?v=CxKURlwrfIM)**
 
-Make Free Predictions on *ClashPicks* ▻ https://www.clashpicks.com/ Follow ClashPicks' X ▻ https://x.com/ClashPicks ...
+In today's video, we're breaking down why the pain for Bitcoin (BTC), Ethereum (ETH), and the broader Altcoin market might not ...
 
-📺 CryptosRUs
+📺 Discover Crypto
 
-👁️ 17K • 👍 982 • 💬 535 • ⏱️ 10:35 • 7h ago
+👁️ 9K • 👍 479 • 💬 86 • ⏱️ 1:43:46 • 1d ago
 
 ---
 
-**[&quot;This Means TROUBLE! Exact Reason Why Bitcoin Is Dumping HARD&quot; - Larry Lepard](https://www.youtube.com/watch?v=yIY-Emupe6k)**
+**[This Bitcoin Bear Market is Different—Here&#39;s Why](https://www.youtube.com/watch?v=xYa9crv9zNQ)**
 
-Take Control of Your Retirement — Grow Crypto & Gold Tax-Advantaged. https://www.itrustcapital.com/go/savvy-finance If you're ...
+Bitcoin has slipped into bear-market territory — but this drawdown doesn't look like the ones we remember. As gold and silver ...
 
-📺 Savvy Finance
+📺 Swan Bitcoin
 
-👁️ 12K • 👍 470 • 💬 32 • ⏱️ 19:30 • 15h ago
+👁️ 49K • 👍 2K • 💬 462 • ⏱️ 14:42 • 11h ago
 
 ---
 
@@ -369,27 +383,17 @@ Asking for a Trend anchor, Josh Lipton breaks down the latest market news for Fe
 
 📺 Yahoo Finance
 
-👁️ 25K • 👍 290 • 💬 95 • ⏱️ 7:00 • 1d ago
+👁️ 26K • 👍 294 • 💬 95 • ⏱️ 7:00 • 1d ago
 
 ---
 
-**[This Is Where I Go Heavy on Bitcoin 🧠📉](https://www.youtube.com/watch?v=eub9Rhf6yQ8)**
+**[Novogratz sees a “seller’s virus” in crypto after Bitcoin drop#shorts #crypto #bitcoin](https://www.youtube.com/watch?v=nGAOm3oNcJ8)**
 
-This Is Where I Go Heavy on Bitcoin ❤️ Josh New Discord [JOIN NOW] ▻ https://stockswithjosh.com/ Trading View - Using ...
+Galaxy Digital is seeing its stock under pressure. CEO Mike Novogratz tells Bloomberg that Bitcoin's recent pullback reflects a ...
 
-📺 Stocks with Josh
+📺 Bloomberg Television
 
-👁️ 10K • 👍 313 • 💬 58 • ⏱️ 0:55 • 12h ago
-
----
-
-**[All the pieces are in place for crypto to be bottoming right now, says Fundstrat&#39;s Tom Lee](https://www.youtube.com/watch?v=KEVE5LK8jwo)**
-
-Tom Lee, Fundstrat Global Advisors head of research and Fundstrat Capital CIO, joins 'Squawk Box' to discuss the latest market ...
-
-📺 CNBC Television
-
-👁️ 91K • 👍 867 • 💬 647 • ⏱️ 5:40 • 1d ago
+👁️ 6K • 👍 56 • 💬 23 • ⏱️ 0:59 • 13h ago
 
 ---
 
@@ -399,17 +403,17 @@ In this solo episode, Anthony Pompliano explores a key question facing investors
 
 📺 Anthony Pompliano
 
-👁️ 69K • 👍 2K • 💬 243 • ⏱️ 22:42 • 1d ago
+👁️ 70K • 👍 2K • 💬 242 • ⏱️ 22:42 • 1d ago
 
 ---
 
-**[Why Did Bitcoin Crash Below $80K?](https://www.youtube.com/watch?v=zBBEg7DP-Co)**
+**[This Is Where I Go Heavy on Bitcoin 🧠📉](https://www.youtube.com/watch?v=eub9Rhf6yQ8)**
 
-Bitcoin just dropped nearly 40% and the real reason has nothing to do with fear or headlines. A $1B liquidation, Fed balance ...
+This Is Where I Go Heavy on Bitcoin ❤️ Josh New Discord [JOIN NOW] ▻ https://stockswithjosh.com/ Trading View - Using ...
 
-📺 Simply Bitcoin
+📺 Stocks with Josh
 
-👁️ 75K • 👍 3K • 💬 418 • ⏱️ 16:36 • 2d ago
+👁️ 11K • 👍 329 • 💬 60 • ⏱️ 0:55 • 13h ago
 
 ---
 
