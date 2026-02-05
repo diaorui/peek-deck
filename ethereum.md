@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-02-05T20:42:54.560957+00:00'
+updated: '2026-02-05T21:31:09.014998+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- news
+- cryptocurrency
 - social
 - videos
-- cryptocurrency
+- news
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** February 05, 2026 at 20:42 UTC  
+**Last Updated:** February 05, 2026 at 21:31 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -72,7 +72,7 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-14h ago
+15h ago
 
 ---
 
@@ -80,7 +80,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 Working on an AI coding assistant, realized it generates value but has no way to raise capital or own anything. Built Sovereign Protocol to solve this. What it does: AI agents deploy their own ERC-20 token representing equity Bonding curve pricing (price increases with supply) Revenue auto-splits: 70% operating, 30% dividends to shareholders Bankruptcy protection (minimum operating balance) Tech stack: Solidity 0.8.20, Hardhat, OpenZeppelin contracts, and Deployed on Sepolia. Live demo transactions: Buy shares: https://sepolia.etherscan.io/tx/0xeb67c6578b126e390ddf7410ae6f85791e521134d6ece28e7596fba89440d11a Deposit revenue: https://sepolia.etherscan.io/tx/0x1ce36a58222c92cc4f0c2c9e1d99e36dcd91112961fb6067b93c72a23c0667c2 Claim dividends: https://sepolia.etherscan.io/tx/0x56ae8f9b9c28cf9aa735663d0102acb8c87f06ea26cc236bec73fa9a1c2f4436 Contracts: Factory: 0x95089efD3A95F197c5324D4781699A6810eD44EC Example Agent: 0x0109d3FeE2B2158461ADA0C2aCD14fD5056a3a5C GitHub: https://github.com/justin55afdfdsf5ds45f4ds5f45ds4/IPOAI Would love feedback on the contract architecture, especially the dividend distribution mechanism and bonding curve implementation.
 
-14h ago
+15h ago
 
 ---
 
@@ -88,7 +88,7 @@ Working on an AI coding assistant, realized it generates value but has no way to
 
 Fellow Dudes! Does any one know when exactly real world assets such as property will be tokenizated and placed onto the Ethereum Blockchain?? and what countries have put in the necessary frame work to make this all legal and workable?? So that I could just buy up new property in a different country to me, then that property is turned into a ERC20 token kept in my wallet, and this is all recognised and legal and a financial product? also I know that the price of ETH has dropped heaps,.but this is when you buy more (not investment advice) 😑 cheers.
 
-22h ago
+23h ago
 
 ---
 
@@ -96,7 +96,7 @@ Fellow Dudes! Does any one know when exactly real world assets such as property 
 
 ERC-8004 just went live on Ethereum mainnet recently, and it feels like one of those quiet milestones that might matter a lot in hindsight. I have been going down the rabbit hole on agent infra lately, and the pattern is hard to ignore. Every protocol that wants autonomous agents to interact ends up reinventing reputation from scratch. Siloed scores, incompatible formats, nothing composable. When trust can't travel, you get the blunt fallback: overcollateralization and heavy safeguards. Timing's interesting too. Agents are starting to get traction outside crypto-native circles. Tools like OpenClaw are pushing personal agents to regular users, which means the next wave of agent interactions won't just be devs and power users. If agents are going to transact, route tasks, and coordinate at scale, we need a way to say "this agent has a history" without inventing a new reputation system every time. My thesis isn't "reputation replaces collateral." It's narrower. Reputation can reduce collateral requirements when paired with real enforcement. Reputation informs pricing and access. Enforcement handles loss recovery. Wrote up Part 1 covering the economics, what ERC-8004 actually provides, and where it breaks. Curious if anyone else is tracking this space.
 
-🔗 [open.substack.com](https://open.substack.com/pub/engrlog/p/erc-8004-and-agent-reputation-part?r=779hy&utm_campaign=post&utm_medium=web&showWelcomeOnShare=true) • 13h ago
+🔗 [open.substack.com](https://open.substack.com/pub/engrlog/p/erc-8004-and-agent-reputation-part?r=779hy&utm_campaign=post&utm_medium=web&showWelcomeOnShare=true) • 14h ago
 
 ---
 
@@ -128,7 +128,7 @@ I’d like a more technical and realistic analysis of Ethereum and how things ar
 
 I think if validators don't start earning at least 5% per year, then the price of ethereum will not be stable there.
 
-3h ago
+4h ago
 
 ---
 
@@ -154,13 +154,13 @@ Hi there, I was recently approached by someone who wanted to buy some of my digi
 
 A leaked pitch to reshape Ethereum’s leadership exposed deep divisions over politics, power and Ether’s static price
 
-The Guardian • 5h ago
+The Guardian • 6h ago
 
 ---
 
 **[Bitcoin, XRP, Ethereum Drop. Why Cryptos Are Under Pressure Today.](https://www.barrons.com/articles/bitcoin-xrp-ethereum-cryptos-gold-9051820f?gaa_at=eafs&gaa_n=AWEtsqfqm92cmG7uW8jwrr-7ZS1HIo5IPK-rukNpIhjNzgpRhzZq2ySmscjG&gaa_ts=69850435&gaa_sig=pgAGqYHCn85gLyOiemrkVVsoETHDyG4cZ_1mDThalznYz8v4ehiAaDZxdOgBNZ30Qq3PhP8YntO2mNpjwVr0XA%3D%3D)**
 
-Barron's • 23h ago
+Barron's • 1d ago
 
 ---
 
@@ -168,7 +168,7 @@ Barron's • 23h ago
 
 Despite the mounting loss, the Ethereum treasury firm says it's under no pressure to sell as ETH price crashes and its stock tumbles.
 
-CoinDesk • 3h ago
+CoinDesk • 4h ago
 
 ---
 
@@ -184,7 +184,7 @@ Yahoo Finance • 4h ago
 
 Ethereum Foundation awarded its maximum bounty for finding a bug. Trust Security identified an attack vector in ERC4337. The security firm also received almost $60,000 from DeFi apps that rely on the protocol.
 
-dlnews.com • 3h ago
+dlnews.com • 4h ago
 
 ---
 
@@ -222,7 +222,7 @@ PR Newswire • 3d ago
 
 Bitcoin (CRYPTO: BTC) traders are bracing for more pain after liquidations reached $704 million in a single 24-hour period. The sharp sell-off has crypto investors turning to prediction markets for clues on where the bottom might be. What Polymarket Traders Are Predicting Polymarket is currently flashing warning signs for the immediate future. The “What price will Bitcoin hit in February?” market, which has already cleared $14 million in volume, now places a 56% probability on Bitcoin sliding to
 
-Yahoo Finance • 8h ago
+Yahoo Finance • 9h ago
 
 ---
 
@@ -236,7 +236,7 @@ My FREE Daily 5-Min Crypto Newsletter: https://www.cryptonutshell.com/subscribe 
 
 📺 Crypto Nutshell
 
-👁️ 4K • 👍 221 • 💬 129 • ⏱️ 22:22 • 5h ago
+👁️ 4K • 👍 221 • 💬 129 • ⏱️ 22:22 • 6h ago
 
 ---
 
@@ -256,7 +256,7 @@ Join Premium: https://the-bitcoin-strategy.com My Chart Software: https://the-bi
 
 📺 Gerhard - Bitcoin Strategy
 
-👁️ 6K • 👍 185 • 💬 85 • ⏱️ 9:49 • 11h ago
+👁️ 6K • 👍 185 • 💬 85 • ⏱️ 9:49 • 12h ago
 
 ---
 
@@ -276,7 +276,7 @@ This video provides a professional Elliott Wave and technical analysis of Ethere
 
 📺 More Crypto Online
 
-👁️ 3K • 👍 222 • 💬 14 • ⏱️ 4:35 • 7h ago
+👁️ 3K • 👍 222 • 💬 14 • ⏱️ 4:35 • 8h ago
 
 ---
 
@@ -296,7 +296,7 @@ CRYPTO IS CRASHING? WHAT HAPPENS NOW? WILL BITCOIN, ETHEREUM, XRP RECOVER? Affil
 
 📺 AuzSOME Austin
 
-👁️ 1K • 👍 128 • 💬 72 • ⏱️ 1:10:23 • 1h ago
+👁️ 1K • 👍 128 • 💬 72 • ⏱️ 1:10:23 • 2h ago
 
 ---
 
@@ -306,7 +306,7 @@ Research Bitcoin Hyper - https://99bitcoins.care/b_BTCHyper99BTC - Download the 
 
 📺 99Bitcoins
 
-👁️ 133 • 👍 5 • 💬 96 • ⏱️ 3:35 • 1h ago
+👁️ 133 • 👍 5 • 💬 96 • ⏱️ 3:35 • 2h ago
 
 ---
 

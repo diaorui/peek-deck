@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-02-05T20:42:54.564137+00:00'
+updated: '2026-02-05T21:31:09.018205+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- news
 - social
 - videos
+- news
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** February 05, 2026 at 20:42 UTC  
+**Last Updated:** February 05, 2026 at 21:31 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -36,7 +36,7 @@ Robotics research and industry news
 
 From RoboHub🤖 on 𝕏: https://x.com/XRoboHub/status/2019135928384778288
 
-10h ago
+11h ago
 
 ---
 
@@ -44,13 +44,13 @@ From RoboHub🤖 on 𝕏: https://x.com/XRoboHub/status/2019135928384778288
 
 Felt so excited to see the robot I've been working on getting this much attention. Guess I need to step up my UX game though :/
 
-5h ago
+6h ago
 
 ---
 
 **[The Ability Hand: The Fastest Touch-Sensitive Bionic Hand in the World](https://www.reddit.com/r/robotics/comments/1qw456t/the_ability_hand_the_fastest_touchsensitive/)**
 
-21h ago
+22h ago
 
 ---
 
@@ -58,7 +58,7 @@ Felt so excited to see the robot I've been working on getting this much attentio
 
 V1 of my home sentry wake up alarm! Had a lot of fun taking apart this old orbee blaster! Leveraging the absolutely horrendous voltage hungry L298N. I setup a simple circuit leveraging ESP as a microcontroller sending a PMW signal through a single dc motor. ESP receives and transcribes information via Streaming packets over UDP. My pi4 sends packets via a web interface ( created it but can’t attach the image, where you can set a simple timer based on time zone). Additionally for some safety haha - put my pi4 over tail net with a simple UfW firewall to block random devices from finding port22 - also made sure that ESP only accepts packets sent from my pi IP! Let me know if you guys want to see it in action 🪦
 
-12h ago
+13h ago
 
 ---
 
@@ -66,7 +66,7 @@ V1 of my home sentry wake up alarm! Had a lot of fun taking apart this old orbee
 
 Is there an IOS/Android app, which allows video and IMU data recording in synchronisation? I used Sensor Logger but it only provides timestamps for IMU, but not for image frames.
 
-9m ago
+57m ago
 
 ---
 
@@ -74,7 +74,7 @@ Is there an IOS/Android app, which allows video and IMU data recording in synchr
 
 Hy everyone! I'll be quick, I want to build this: Full video: https://www.youtube.com/watch?v=Rh7JuL3PRSY Well, not that specifically. I want to build a cart-pole system, starting with a single inverted pendulum and maybe expanding to a double inverted pendulum later if I can get the first one balancing reliably. For actuation I want to use a BLDC motor with an encoder and a proper driver, so I can turn it into a brushless servo that drives the cart along a rail using a timing belt. I know that could also be done with a stepper motor, and I’m aware of the general components needed (motor + encoder + driver + controller), but I specifically want to do it with a BLDC and learn how to handle it. The cart won't be very heavy (maybe 1-2 kg), so I don't need super high torque, but enough to speed up and slow down cleanly during balancing. What motor should I use? Im planning on using a Teensy or an ESP32 as the controller, but what encoder/driver do you recommend? Thanks in advance!
 
-43m ago
+1h ago
 
 ---
 
@@ -90,13 +90,13 @@ From Olivier Duchenne on 𝕏: https://x.com/inventorOli/status/2018719028462657
 
 I am designing this thing named Pollux - it is a marine autonomous surface vehicle that follows the swimmer in open waters and stays in a range of 1-2m. If needed, it can pull the person back to the beach. This is the preliminary design. Estimate lenght is 110 cm. Eventually I think of releasing the design as open hardware. https://preview.redd.it/5xdcb7hnhmhg1.png?width=570&format=png&auto=webp&s=3ce8cc813144fe8895dc899ffdc139480696ecff
 
-13h ago
+14h ago
 
 ---
 
 **[Getting into robotics at 28](https://www.reddit.com/r/robotics/comments/1qwsvnl/getting_into_robotics_at_28/)**
 
-2h ago
+3h ago
 
 ---
 
@@ -104,7 +104,7 @@ I am designing this thing named Pollux - it is a marine autonomous surface vehic
 
 We're running an RTOS Ask‑Me‑Anything session and wanted to bring it to the embedded community here. If you work with RTOSes—or are just RTOS‑curious—I'd love to hear your questions. Whether you're dealing with: ✅Edge performance ✅Security ✅Functional safety ✅Interoperability ✅POSIX ✅OS Roadmap ✅Career advice and more. We're happy to dive in. Our Product Management Director Louay Abdelkader and the QNX team offer deep expertise not only in QNX, but also across a wide range of embedded platforms—including Linux, ROS, Android, Zephyr, and more. Bring your questions and hear what’s on the minds of fellow developers. No slides, no sales pitch: just engineers helping engineers. Join the conversation and get a chance to win a Raspberry Pi 5. Your questions answered live! 🎥 Live Q&A + Short Demo + Contest and Raspberry Pi Prizes. Register NOW https://qnx.software/en/campaigns/rtos-ask-me-anything?utm_medium=website&utm_source=web_page&utm_campaign=fy26-q4_qnx_rtos-ask-me-anything_wb&utm_content=ayad-embedded-sub-reddit https://preview.redd.it/7nrxy4sqrphg1.png?width=1024&format=png&auto=webp&s=a5b027f25cb0afb465d36035290d598933650656
 
-2h ago
+3h ago
 
 ---
 
@@ -198,7 +198,7 @@ Humanoid robots just entered a new phase of realism. In Shanghai, DroidUp reveal
 
 📺 AI Revolution
 
-👁️ 84K • 👍 2K • 💬 487 • ⏱️ 13:31 • 21h ago
+👁️ 84K • 👍 2K • 💬 487 • ⏱️ 13:31 • 22h ago
 
 ---
 
