@@ -3,7 +3,7 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-02-05T22:57:37.584211+00:00'
+updated: '2026-02-05T23:31:45.582145+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
@@ -18,7 +18,7 @@ data_types:
 
 AI news, discussions, and developments
 
-**Last Updated:** February 05, 2026 at 22:57 UTC  
+**Last Updated:** February 05, 2026 at 23:31 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -41,7 +41,7 @@ AI news, discussions, and developments
 
 Women in rural communities describe trauma of moderating violent and pornographic content for global tech companies
 
-🔗 [the Guardian](https://www.theguardian.com/global-development/2026/feb/05/in-the-end-you-feel-blank-indias-female-workers-watching-hours-of-abusive-content-to-train-ai) • 12h ago
+🔗 [the Guardian](https://www.theguardian.com/global-development/2026/feb/05/in-the-end-you-feel-blank-indias-female-workers-watching-hours-of-abusive-content-to-train-ai) • 13h ago
 
 ---
 
@@ -49,21 +49,7 @@ Women in rural communities describe trauma of moderating violent and pornographi
 
 I ran a small real-world test today with two kids (ages 8 and 11) using a long-running AI story world I’ve been experimenting with. Instead of one-shot story generation, the system maintains a persistent world state where choices carry over and shape future events. I let them pick the setting — they chose a Minecraft × Harry Potter mashup where they play wizards trying to defeat the Ender Dragon. One thing that made a huge difference: I used their real names as the characters, and the story started in their actual school. The engine generated story text and illustrations each round. They made all the choices. After about 10 rounds, they were constantly laughing, debating which option to pick, and building on each other’s ideas. It felt much more like co-creating a world than listening to a story. When I told them it was bedtime, they didn’t want to stop. They kept asking what would happen next. A few observations that surprised me: Personalization seemed to matter more than anything else. Once it became their world, emotional investment was instant. Although I designed it as a single-player experience, co-play emerged naturally. The shared decision-making and social dynamic massively increased engagement. Both ages stayed fully engaged the whole time. I expected the younger one to drop off sooner, but the persistent world kept them both hooked. One issue I noticed: my “re-immersion” mechanic (an in-world character emotionally reconnecting players after breaks instead of a dry recap) triggered too frequently between consecutive rounds. The repetition was noticeable. This looks like a simple trigger tuning problem (should probably only fire after longer gaps). What I haven’t tested yet: – Whether kids can reconnect naturally after a real multi-hour break – Whether they can retell the story in a coherent way – Whether they’ll come back unprompted the next day The earlier stress tests showed that constraint mechanisms help keep long-running narratives technically coherent. What this small user test suggests is that coherence itself isn’t what kids consciously care about — but it seems to be the infrastructure that makes personalization, consequence, and agency feel real. Curious if others working on long-horizon agents, narrative systems, or co-creative AI have seen similar effects around personalization and persistence.
 
-7h ago
-
----
-
-**[Latest Elon interview with Dwarkesh & Stripe - with summary](https://www.reddit.com/r/artificial/comments/1qwvgxb/latest_elon_interview_with_dwarkesh_stripe_with/)**
-
-Watch Less, Learn More. Get instant AI-powered summaries of your favorite YouTube videos.
-
-🔗 [Tuberizer](https://share.tuberizer.com?videoId=BYXbuik3dgA) • 3h ago
-
----
-
-**[Do the pros and cons of AI change under an autocratic regime? How?](https://www.reddit.com/r/artificial/comments/1qwuxb8/do_the_pros_and_cons_of_ai_change_under_an/)**
-
-3h ago
+8h ago
 
 ---
 
@@ -83,7 +69,7 @@ Ran a real-world test this week: Gemma 3 12B vs paid frontier models across actu
 
 **[Simple Machine Learning Testing Tools Guide](https://www.reddit.com/r/artificial/comments/1qwbjhx/simple_machine_learning_testing_tools_guide/)**
 
-🔗 [aivolut.com](https://aivolut.com/blog/simple-machine-learning-testing-tools-guide/) • 18h ago
+🔗 [aivolut.com](https://aivolut.com/blog/simple-machine-learning-testing-tools-guide/) • 19h ago
 
 ---
 
@@ -111,6 +97,22 @@ I found this argument interesting. If US allows Nvidia to do business with China
 
 ---
 
+**[X offices raided in France as UK opens fresh investigation into Grok](https://www.reddit.com/r/artificial/comments/1quwmca/x_offices_raided_in_france_as_uk_opens_fresh/)**
+
+Elon Musk's X and Grok platforms are facing increased scrutiny from authorities on both sides of the channel.
+
+🔗 [bbc.com](https://www.bbc.com/news/articles/ce3ex92557jo) • 2d ago
+
+---
+
+**[Elon Musk links SpaceX and xAI in a record-setting merger to boost AI](https://www.reddit.com/r/artificial/comments/1quud71/elon_musk_links_spacex_and_xai_in_a_recordsetting/)**
+
+SpaceX's acquisition of xAI signals a bold push to merge artificial intelligence with space infrastructure at an unprecedented scale.
+
+🔗 [Interesting Engineering](https://interestingengineering.com/culture/elon-musk-merges-spacex-and-xai) • 2d ago
+
+---
+
 ---
 
 ## Google News: "ai"
@@ -127,15 +129,15 @@ OpenAI • 15h ago
 
 OpenAI launched Frontier, a new platform designed for enterprises to build and deploy agents while treating them like human employees.
 
-TechCrunch • 4h ago
+TechCrunch • 5h ago
 
 ---
 
-**[OpenAI responds to Claude Cowork with its own platform to help build, deploy, and manage AI agents](https://www.computerworld.com/article/4128310/openai-responds-to-claude-cowork-with-its-own-platform-to-help-build-deploy-and-manage-ai-agents.html)**
+**[AI companies want you to stop chatting with bots and start managing them](https://arstechnica.com/information-technology/2026/02/ai-companies-want-you-to-stop-chatting-with-bots-and-start-managing-them/)**
 
-Frontier gives agents the same skills people need, creating AI coworkers that work across the business to close the AI opportunity gap between early leaders and everyone else, the company says. Analysts are impressed.
+Claude Opus 4.6 and OpenAI Frontier pitch a future of supervising AI agents.
 
-Computerworld • 51m ago
+Ars Technica • 43m ago
 
 ---
 
@@ -147,11 +149,9 @@ cnn.com • 5h ago
 
 ---
 
-**[Anthropic launches Claude Opus 4.6 as AI moves toward a 'vibe working' era](https://www.cnbc.com/2026/02/05/anthropic-claude-opus-4-6-vibe-working.html)**
+**[Anthropic Releases New Model That’s Adept at Financial Research](https://www.bloomberg.com/news/articles/2026-02-05/anthropic-updates-ai-model-to-field-more-complex-financial-research)**
 
-Anthropic's latest AI model is better at coding, sustaining tasks for longer and creating high-quality professional work.
-
-CNBC • 5h ago
+Bloomberg • 5h ago
 
 ---
 
@@ -163,27 +163,33 @@ ABC News • 1h ago
 
 ---
 
-**[Amazon Boosts Spending Far Ahead of Estimates on AI Build-Out](https://www.bloomberg.com/news/articles/2026-02-05/amazon-boosts-spending-far-ahead-of-estimates-on-ai-build-out)**
+**[Reddit looks to AI search as its next big opportunity](https://techcrunch.com/2026/02/05/reddit-looks-to-ai-search-as-its-next-big-opportunity/)**
 
-Bloomberg.com • 1h ago
+Reddit says its search business, including AI answers, is an "enormous" opportunity.
 
----
-
-**[Amazon Shares Sink as Company Boosts AI Spending by Nearly 60%](https://www.wsj.com/business/earnings/amazon-earnings-q4-2025-amzn-stock-996e5cc2?gaa_at=eafs&gaa_n=AWEtsqfVuiOixslhd1n6JhcNzOqkn-Ebu8K4BbXc3LYBfJl11i-BFa_Q9q2d&gaa_ts=69851d18&gaa_sig=_WrawOXGCrB2q_hg47YxVXda6o-EqwK-RpGBLs0YRRdBE7w47fVWv9Dwn7-Q4kcqns6O4jTW3r2bXpqN_n_pNg%3D%3D)**
-
-The Wall Street Journal • 54m ago
+TechCrunch • 11m ago
 
 ---
 
-**[Amazon Plans to Spend $200 Billion on A.I. and Other Projects This Year](https://www.nytimes.com/2026/02/05/technology/amazon-200-billion-ai.html)**
+**[Amazon Says It Will Spend $200 Billion This Year on AI Build-Out](https://www.bloomberg.com/news/articles/2026-02-05/amazon-boosts-spending-far-ahead-of-estimates-on-ai-build-out)**
 
-The New York Times • 54m ago
+Bloomberg • 1h ago
 
 ---
 
-**[Bitcoin Miner Iren Deepens To Tumble On Q2 Miss, AI Services Pick Up](https://www.investors.com/news/iren-earnings-q2-2026-bitcoin-miner-ai-artificial-intelligence-iren-stock/)**
+**[Amazon plans to spend big on AI but shares slump](https://www.bbc.com/news/articles/c150e144we3o)**
 
-Investor's Business Daily • 1h ago
+Shares in the tech giant fell in after hours trade as investors appeared wary of the sector's big spending plans.
+
+BBC • 1h ago
+
+---
+
+**[Amazon and Google are winning the AI capex race — but what’s the prize?](https://finance.yahoo.com/news/amazon-google-winning-ai-capex-224311682.html)**
+
+In 2026, Amazon plans to spend $200 billion in capex. Google is just behind at $175 billion to $185 billion. It's a lot of money!
+
+Yahoo Finance • 48m ago
 
 ---
 
@@ -195,7 +201,7 @@ Investor's Business Daily • 1h ago
 
 SaaS is the most profitable business model on Earth.1 It’s easy to understand why: build once, sell the same thing again ad infinitum, and don’t suffer any marginal costs on more sales. I have been writing software for more than half my life. In the last year itself, I’ve talked to hundreds of founders and operators in SF, from preseed to Series E companies. AI is bringing an existential threat to a lot of B2B SaaS executives: How to keep asking customers for renewal, when every customer feels they can get something better built with vibe-coded AI products? And the market is pricing it in. Morgan Stanley’s SaaS basket has lagged the Nasdaq by 40 points since December. HubSpot and Klaviyo are down ~30%. Analysts are writing notes titled “No Reasons to Own” software stocks. The market is reflecting our new reality (Source: Bloomberg) Whenever I bring a new friend to the Salesforce Park, they are in absolute awe. And, the meme remains true that no one even knows what Salesforce does. Whatever they’re doing, they’re clearly earning enough revenue to purchase multiple blocks in SF. ↩
 
-⬆️ 482 • 💬 704 • 1d ago • [N’s Blog](https://nmn.gl/blog/ai-killing-b2b-saas)
+⬆️ 483 • 💬 706 • 1d ago • [N’s Blog](https://nmn.gl/blog/ai-killing-b2b-saas)
 
 ---
 
@@ -207,17 +213,17 @@ Production-grade Ghidra MCP Server — 132 endpoints, cross-binary documentation
 
 ---
 
+**[My AI Adoption Journey](https://news.ycombinator.com/item?id=46903558)**
+
+⬆️ 221 • 💬 65 • 4h ago • [Mitchell Hashimoto](https://mitchellh.com/writing/my-ai-adoption-journey)
+
+---
+
 **[Firefox Getting New Controls to Turn Off AI Features](https://news.ycombinator.com/item?id=46864120)**
 
 The Firefox browser is gaining options to turn off AI enhancements, Mozilla said today. Firefox users who prefer to browse without artificial intelligence will be able to turn off several AI features that Mozilla has added over the last several months. Here's what can be disabled:     	Translations, which help you browse the web in your preferred language. Alt text in PDFs, which add accessibility descriptions to images in PDF pages.
 
 ⬆️ 212 • 💬 102 • 2d ago • [MacRumors](https://www.macrumors.com/2026/02/02/firefox-ai-toggle/)
-
----
-
-**[My AI Adoption Journey](https://news.ycombinator.com/item?id=46903558)**
-
-⬆️ 171 • 💬 52 • 3h ago • [Mitchell Hashimoto](https://mitchellh.com/writing/my-ai-adoption-journey)
 
 ---
 
@@ -249,7 +255,7 @@ Like many developers, I find myself more and more using AI agents to help with s
 
 If you paint a picture of Sonic the Hedgehog in your living room, you are technically creating an unauthorized derivative work—but in practice, no one cares. Private, noncommercial creation has always lived in a space where copyright law exists on paper but is rarely enforced.
 
-⬆️ 115 • 💬 133 • 2d ago • [Jason Willems](https://www.jasonwillems.com/technology/2026/02/02/AI-Copyright/)
+⬆️ 115 • 💬 135 • 2d ago • [Jason Willems](https://www.jasonwillems.com/technology/2026/02/02/AI-Copyright/)
 
 ---
 
@@ -275,7 +281,7 @@ Humanoid robots just entered a new phase of realism. In Shanghai, DroidUp reveal
 
 📺 AI Revolution
 
-👁️ 91K • 👍 2K • 💬 511 • ⏱️ 13:31 • 23h ago
+👁️ 91K • 👍 2K • 💬 511 • ⏱️ 13:31 • 1d ago
 
 ---
 
@@ -305,7 +311,7 @@ Want to make money and save time with AI? Get AI Coaching, Support & Courses ...
 
 📺 Julian Goldie SEO
 
-👁️ 4K • 👍 67 • 💬 9 • ⏱️ 8:53 • 13h ago
+👁️ 4K • 👍 67 • 💬 9 • ⏱️ 8:53 • 14h ago
 
 ---
 
@@ -325,7 +331,7 @@ Anthropic is updating its AI model, Claude Opus 4.6, to carry out financial rese
 
 📺 Bloomberg Television
 
-👁️ 8K • 👍 232 • 💬 27 • ⏱️ 3:25 • 3h ago
+👁️ 8K • 👍 232 • 💬 27 • ⏱️ 3:25 • 4h ago
 
 ---
 
@@ -405,7 +411,7 @@ MiniCPM-o 4.5 is a 9B parameter multimodal LLM excelling in vision, speech, and 
 
 `any-to-any` `9.4B`
 
-⬇️ 1,002 • ❤️ 492 • 5h ago
+⬇️ 1,002 • ❤️ 492 • 6h ago
 
 ---
 
@@ -429,7 +435,7 @@ Step 3.5 Flash is an efficient, open-source MoE foundation model (11B active par
 
 `text-generation` `199.4B`
 
-⬇️ 8,686 • ❤️ 447 • 12h ago
+⬇️ 8,686 • ❤️ 447 • 13h ago
 
 ---
 
@@ -485,7 +491,7 @@ PaddleOCR-VL-1.5 is a multilingual Vision-Language Model (VLM) built on ERNIE 4.
 
 Voxtral-Mini-4B-Realtime-2602 is a 4B-parameter, multilingual speech-to-text model offering near-offline accuracy with <500ms latency. It features a streaming architecture for real-time applications like voice assistants and live subtitling, optimized for on-device deployment.
 
-⬇️ 477 • ❤️ 268 • 12h ago
+⬇️ 477 • ❤️ 268 • 13h ago
 
 ---
 
@@ -671,7 +677,7 @@ The Ultimate Collection of 600+ Agentic Skills for Claude Code/Antigravity/Curso
 
 `Python` `agentic-skills` `ai-agents` `antigravity` `autonomous-coding` `claude-code`
 
-⭐ 7.4k • 🔱 1.6k • 14h ago
+⭐ 7.4k • 🔱 1.6k • 15h ago
 
 ---
 

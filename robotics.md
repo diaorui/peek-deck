@@ -3,7 +3,7 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-02-05T22:57:37.601889+00:00'
+updated: '2026-02-05T23:31:45.599804+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
@@ -17,7 +17,7 @@ data_types:
 
 Robotics research and industry news
 
-**Last Updated:** February 05, 2026 at 22:57 UTC  
+**Last Updated:** February 05, 2026 at 23:31 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -36,7 +36,7 @@ Robotics research and industry news
 
 From RoboHub🤖 on 𝕏: https://x.com/XRoboHub/status/2019135928384778288
 
-12h ago
+13h ago
 
 ---
 
@@ -44,13 +44,21 @@ From RoboHub🤖 on 𝕏: https://x.com/XRoboHub/status/2019135928384778288
 
 Felt so excited to see the robot I've been working on getting this much attention. Guess I need to step up my UX game though :/
 
-7h ago
+8h ago
 
 ---
 
 **[The Ability Hand: The Fastest Touch-Sensitive Bionic Hand in the World](https://www.reddit.com/r/robotics/comments/1qw456t/the_ability_hand_the_fastest_touchsensitive/)**
 
-23h ago
+1d ago
+
+---
+
+**[👋 HelloRL: A modular Reinforcement Learning framework for robotics, that makes it easy to go from Actor Critic, to PPO and TD3. This is the first release from my robot intelligence lab.](https://www.reddit.com/r/robotics/comments/1qx0we1/hellorl_a_modular_reinforcement_learning/)**
+
+I learned RL recently, but was unsatisfied with the frameworks available, so a month ago I reached out on here with some ideas and got some great feedback, which has led me to today publishing my library, HelloRL, a modular framework that makes it super easy to go from Actor Critic to TD3. Here is the intro from the repo readme: Why is RL usually so hard? RL algorithms are all similar, but they also have unique implementation details and subtle differences. Every RL framework implements each algorithm from scratch, reproducing many of the same steps across hundreds of lines of code, but with minor implementation differences along the way. Trying to swap between them and keep your code working can be a nightmare. If you want to experiment with a new idea on top of Actor Critic, and then try it on a PPO implementation, you would have to spend hours integrating, and hope you didn’t make a mistake. It's a minefield -- it's so easy to trip yourself up and get something wrong without realising. Introducing HelloRL HelloRL flips this on its head, with a single train function and swappable modules, to build and mix together any RL algorithm easily. HelloRL: A modular library for Reinforcement Learning Built around a single train function that covers every popular algorithm, from discrete online policies like Actor Critic, to continuous offline policies like TD3. Swap modules in and out to mix algorithms together. Go from online to offline learning with just a few easy changes. Follow along with the provided notebooks to make sure you got it right. Build your own custom modules and validate your ideas quickly. https://github.com/i10e-lab/HelloRL Please leave a star ⭐ if you like it.
+
+🔗 [GitHub](https://github.com/i10e-lab/HelloRL) • 19m ago
 
 ---
 
@@ -58,7 +66,7 @@ Felt so excited to see the robot I've been working on getting this much attentio
 
 V1 of my home sentry wake up alarm! Had a lot of fun taking apart this old orbee blaster! Leveraging the absolutely horrendous voltage hungry L298N. I setup a simple circuit leveraging ESP as a microcontroller sending a PMW signal through a single dc motor. ESP receives and transcribes information via Streaming packets over UDP. My pi4 sends packets via a web interface ( created it but can’t attach the image, where you can set a simple timer based on time zone). Additionally for some safety haha - put my pi4 over tail net with a simple UfW firewall to block random devices from finding port22 - also made sure that ESP only accepts packets sent from my pi IP! Let me know if you guys want to see it in action 🪦
 
-14h ago
+15h ago
 
 ---
 
@@ -74,7 +82,7 @@ From Olivier Duchenne on 𝕏: https://x.com/inventorOli/status/2018719028462657
 
 Hy everyone! I'll be quick, I want to build this: Full video: https://www.youtube.com/watch?v=Rh7JuL3PRSY Well, not that specifically. I want to build a cart-pole system, starting with a single inverted pendulum and maybe expanding to a double inverted pendulum later if I can get the first one balancing reliably. For actuation I want to use a BLDC motor with an encoder and a proper driver, so I can turn it into a brushless servo that drives the cart along a rail using a timing belt. I know that could also be done with a stepper motor, and I’m aware of the general components needed (motor + encoder + driver + controller), but I specifically want to do it with a BLDC and learn how to handle it. The cart won't be very heavy (maybe 1-2 kg), so I don't need super high torque, but enough to speed up and slow down cleanly during balancing. What motor should I use? Im planning on using a Teensy or an ESP32 as the controller, but what encoder/driver do you recommend? Thanks in advance!
 
-2h ago
+3h ago
 
 ---
 
@@ -88,7 +96,7 @@ I am designing this thing named Pollux - it is a marine autonomous surface vehic
 
 **[Getting into robotics at 28](https://www.reddit.com/r/robotics/comments/1qwsvnl/getting_into_robotics_at_28/)**
 
-4h ago
+5h ago
 
 ---
 
@@ -97,14 +105,6 @@ I am designing this thing named Pollux - it is a marine autonomous surface vehic
 We're running an RTOS Ask‑Me‑Anything session and wanted to bring it to the embedded community here. If you work with RTOSes—or are just RTOS‑curious—I'd love to hear your questions. Whether you're dealing with: ✅Edge performance ✅Security ✅Functional safety ✅Interoperability ✅POSIX ✅OS Roadmap ✅Career advice and more. We're happy to dive in. Our Product Management Director Louay Abdelkader and the QNX team offer deep expertise not only in QNX, but also across a wide range of embedded platforms—including Linux, ROS, Android, Zephyr, and more. Bring your questions and hear what’s on the minds of fellow developers. No slides, no sales pitch: just engineers helping engineers. Join the conversation and get a chance to win a Raspberry Pi 5. Your questions answered live! 🎥 Live Q&A + Short Demo + Contest and Raspberry Pi Prizes. Register NOW https://qnx.software/en/campaigns/rtos-ask-me-anything?utm_medium=website&utm_source=web_page&utm_campaign=fy26-q4_qnx_rtos-ask-me-anything_wb&utm_content=ayad-embedded-sub-reddit https://preview.redd.it/7nrxy4sqrphg1.png?width=1024&format=png&auto=webp&s=a5b027f25cb0afb465d36035290d598933650656
 
 5h ago
-
----
-
-**[Integrated Actuator Selection.](https://www.reddit.com/r/robotics/comments/1qwkdvn/integrated_actuator_selection/)**
-
-Hello, We are trying to develop a holonomic (swerve drive) AMR with a maximum payload of 200 kg. We want to use ros2_control for this robot. Can anyone suggest some budget integrated actuators ( motor+gearbox+encoder) and controllers we can use easily with ROS2? We have found Maxon motors and controllers to be too expensive. This will be used to carry auto parts. Should we include a mechanical brake or electromsgnetic brake with the wheels for safety?
-
-10h ago
 
 ---
 
@@ -128,14 +128,6 @@ The Next Platform • 2d ago
 
 ---
 
-**[Web Summit Qatar startups raise $205 million as the summit wraps up](https://www.euronews.com/next/2026/02/04/web-summit-qatar-startups-raise-205m-as-ai-and-robotics-shape-the-future-of-tech)**
-
-Companies at Web Summit Qatar have collectively raised more than $28 billion (€23.7bn) over the past year, highlighting the sheer weight of innovation in the room.
-
-Euronews.com • 1d ago
-
----
-
 **[Carbon Robotics built an AI model that detects and identifies plants](https://techcrunch.com/2026/02/02/carbon-robotics-built-an-ai-model-that-detects-and-identifies-plants/)**
 
 Carbon Robotics' Large Plant Model will allow farmers to kill new types of weeds without having to retrain the machines.
@@ -148,7 +140,7 @@ TechCrunch • 3d ago
 
 Moya, a humanoid robot unveiled in Shanghai, is designed to walk, smile, and interact like a human using embodied AI.
 
-Interesting Engineering • 18h ago
+Interesting Engineering • 1h ago
 
 ---
 
@@ -160,11 +152,11 @@ South China Morning Post • 2d ago
 
 ---
 
-**[This Video of Hilariously Slow Robots Putting Olive Oil in a Bag Is Actually Pretty Impressive](https://gizmodo.com/this-video-of-hilariously-slow-robots-putting-olive-oil-in-a-bag-is-actually-pretty-impressive-2000718202)**
+**[ChatGPT sucks at being a real robot](https://www.vox.com/technology/476657/chatgpt-mit-csail-tesla-humanoid-robot)**
 
-Robots that can actually do things are not slick yet, and it's a relief when robotics companies don't hide from that.
+﻿Science fiction promised us humanoids. Do we even want them?
 
-Gizmodo • 7h ago
+vox.com • 12h ago
 
 ---
 
@@ -184,6 +176,14 @@ MacRumors • 1d ago
 
 ---
 
+**[China's Farming Robots Are A Lot More Than Just Fancy Tractors](https://www.bgr.com/2087592/china-farming-robots/)**
+
+From robotic fish to fully autonomous planting and harvesting systems, farming robots in China are defining a new frontier of intelligent agriculture.
+
+bgr.com • 3d ago
+
+---
+
 **[Sam Altman On Elon Musk, Donald Trump, Robotics, Fatherhood And More](https://www.forbes.com/sites/richardnieva/2026/02/04/sam-altman-on-elon-musk-donald-trump-robotics-fatherhood-and-more/)**
 
 Forbes • 1d ago
@@ -200,7 +200,7 @@ Humanoid robots just entered a new phase of realism. In Shanghai, DroidUp reveal
 
 📺 AI Revolution
 
-👁️ 91K • 👍 2K • 💬 511 • ⏱️ 13:31 • 23h ago
+👁️ 91K • 👍 2K • 💬 511 • ⏱️ 13:31 • 1d ago
 
 ---
 
@@ -270,7 +270,7 @@ In this video, I introduce the concept of bus servo motors. These can be a very 
 
 📺 Kitajima
 
-👁️ 938 • 👍 15 • ⏱️ 0:41 • 5h ago
+👁️ 938 • 👍 15 • ⏱️ 0:41 • 6h ago
 
 ---
 
