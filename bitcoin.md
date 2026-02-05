@@ -3,13 +3,13 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-02-05T11:09:22.399135+00:00'
+updated: '2026-02-05T11:57:23.960094+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- social
 - videos
+- social
 - news
 - cryptocurrency
 ---
@@ -18,7 +18,7 @@ data_types:
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** February 05, 2026 at 11:09 UTC  
+**Last Updated:** February 05, 2026 at 11:57 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -54,17 +54,17 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1419.90B
+**Market Cap:** $1403.80B
 Rank #1
 
-**Circulating Supply:** 19,984,643 BTC
+**Circulating Supply:** 19,984,712 BTC
 95.2% of max
 
 **All-Time High:** $126,080.00
--43.5%
+-44.3%
 
 **All-Time Low:** $67.81
-+105021.7%
++103381.8%
 
 ---
 
@@ -97,19 +97,19 @@ I got into Bitcoin 6 months ago when it was at 108k. I was looking at the charts
 
 Yes, BTC has fallen around 40% from its all time high. But do you know what else has fallen even further? The US Dollar! Since 1980, the purchasing power of $1 USD has fallen by 74.55% Yet unlike BTC, there is never a new ATH, never a time in the future where $1 USD will buy you more than it did 4 years prior. To anyone who thinks BTC is “dead” because of a temporary fall in value, ask yourself this, what is endless quantitative easing and money printing doing to the value of your fiat money? There is a fixed 21 million BTC cap, there will never be a cap on how many dollars are in circulation…
 
-8h ago
+9h ago
 
 ---
 
 **[I'm not fucking selling](https://www.reddit.com/r/Bitcoin/comments/1qvtn6n/im_not_fucking_selling/)**
 
-18h ago
+19h ago
 
 ---
 
 **[These dips are a blessing, it just gives a chance to buy more](https://www.reddit.com/r/Bitcoin/comments/1qvwqgs/these_dips_are_a_blessing_it_just_gives_a_chance/)**
 
-16h ago
+17h ago
 
 ---
 
@@ -125,7 +125,7 @@ Bitcoin ponzi finally dead now. With this post I've completed the ritual.
 
 No, you wouldn’t. Markets like this are a reminder that 99% of people wouldn’t have had the fortitude to hold through the dips from $900 to $200, from $20k to $3k, from $60k to $16k, and so on. If you genuinely believe BTC is destined to become a leading store of value, then you should be thrilled that your DCA currently secures you more sats on each purchase.
 
-3h ago
+4h ago
 
 ---
 
@@ -133,7 +133,7 @@ No, you wouldn’t. Markets like this are a reminder that 99% of people wouldn�
 
 I've never seen this sub get this freaked out, or is it just me?
 
-6h ago
+7h ago
 
 ---
 
@@ -141,7 +141,7 @@ I've never seen this sub get this freaked out, or is it just me?
 
 It’s really that easy.
 
-6h ago
+7h ago
 
 ---
 
@@ -149,7 +149,7 @@ It’s really that easy.
 
 As the title says, it's my first Bear Market. Been DCAing monthly for over a year now (which in hindsight, doesnt look like the best entry point but oh well). Since then, I've been all-in on BTC as long-term savings. Now I'm buying every 5k dip, trying to get my avg buy down under 100k. That said, a part of me is really nervous that this might not go like previous bear and bull markets and that we won't go up from here as we did precious cycles. Was that also on your minds on precious bears or am I actually rightfully worried? Learnt my lesson tho, soon as new ATH comes, I'm selling a portion to diversify and expand my portfolio.
 
-2h ago
+3h ago
 
 ---
 
@@ -169,7 +169,7 @@ Yahoo Finance • 2h ago
 
 Bitcoin sank after Treasury Secretary Bessent said banks would not bail out crypto.
 
-Yahoo Finance • 8h ago
+Yahoo Finance • 9h ago
 
 ---
 
@@ -189,7 +189,7 @@ CNN • 1d ago
 
 **[Global Markets Mixed After Tech Selloff; Bitcoin Hits 16-Month Low](https://www.wsj.com/finance/global-markets-mixed-after-tech-selloff-bitcoin-hits-16-month-low-fb459627?gaa_at=eafs&gaa_n=AWEtsqd-UVfoTYXUGjYJ-k9D5EhM3UzaePcubYNRiiKlOZCQ8OxUvqvHzalQ&gaa_ts=69847dc6&gaa_sig=6NvFnesNGjcRp7uEzjG6bgA0uv3KDomCOEu6ucexlnC5DMYDFPtlcFO0Rb0XkIru42xc0W5tl_WRvAxbZbU-gg%3D%3D)**
 
-The Wall Street Journal • 58m ago
+The Wall Street Journal • 1h ago
 
 ---
 
@@ -205,7 +205,7 @@ Fortune • 16h ago
 
 The search for 84-year-old Nancy Guthrie has escalated after TMZ reported receiving an alleged ransom note demanding millions in Bitcoin, complete with a deadline, threats of harm, and a verified wallet address.
 
-Bitcoin Magazine • 14h ago
+Bitcoin Magazine • 15h ago
 
 ---
 
@@ -227,7 +227,7 @@ Al Jazeera • 5h ago
 
 **[If you want to get me a birthday gift, buy some bitcoin for yourself.](https://x.com/saylor/status/2019043884152840596)**
 
-x.com • 21h ago
+x.com • 22h ago
 
 ---
 
@@ -253,7 +253,7 @@ Crypto treasury companies quietly crept into index funds and retirement accounts
 
 Bitcoin behaves more like an "ATM" during uncertain times, with investors quickly selling it to raise cash.
 
-⬆️ 4 • 💬 0 • 18h ago • [coindesk.com](https://www.coindesk.com/markets/2026/01/24/here-s-why-bitcoin-s-is-failing-its-role-as-a-safe-haven-versus-gold)
+⬆️ 4 • 💬 0 • 19h ago • [coindesk.com](https://www.coindesk.com/markets/2026/01/24/here-s-why-bitcoin-s-is-failing-its-role-as-a-safe-haven-versus-gold)
 
 ---
 
@@ -261,7 +261,7 @@ Bitcoin behaves more like an "ATM" during uncertain times, with investors quickl
 
 453+ bitcoin treasuries. 3.94M BTC+ BTC tracked on-chain. From Shrimp to Sovereign.
 
-⬆️ 4 • 💬 0 • 22h ago • [bitcoincompanies.co](https://bitcoincompanies.co/)
+⬆️ 4 • 💬 0 • 23h ago • [bitcoincompanies.co](https://bitcoincompanies.co/)
 
 ---
 
@@ -275,7 +275,7 @@ Cryptocurrency markets fell as global equities and precious metals sold off whil
 
 **[Show HN: GrahamBell – This is what Bitcoin mining looked like in 2009](https://news.ycombinator.com/item?id=46885212)**
 
-⬆️ 2 • 💬 0 • 22h ago
+⬆️ 2 • 💬 0 • 23h ago
 
 ---
 
@@ -317,7 +317,7 @@ Why is bitcoin crashing right now? The total crypto market value fell to about $
 
 📺 Ricky Gutierrez
 
-👁️ 11K • 👍 512 • 💬 197 • ⏱️ 12:35 • 7h ago
+👁️ 14K • 👍 580 • 💬 176 • ⏱️ 12:35 • 8h ago
 
 ---
 
@@ -327,17 +327,7 @@ Make Free Predictions on *ClashPicks* ▻ https://www.clashpicks.com/ Follow Cla
 
 📺 CryptosRUs
 
-👁️ 29K • 👍 1K • 💬 487 • ⏱️ 10:36 • 8h ago
-
----
-
-**[&quot;Now We Know Why They Crashed Bitcoin On Purpose&quot; - Raoul Pal Update](https://www.youtube.com/watch?v=febqPVU1XnI)**
-
-Raoul Pal reveals why Bitcoin is trading at a massive discount to global liquidity — and why it should be at $140000 right now.
-
-📺 Money Talks
-
-👁️ 15K • 👍 273 • 💬 265 • ⏱️ 9:50 • 16h ago
+👁️ 34K • 👍 1K • 💬 571 • ⏱️ 10:36 • 9h ago
 
 ---
 
@@ -347,7 +337,7 @@ Let's talk about Bitcoin and the current crash. Into The Cryptoverse Premium (Us
 
 📺 Benjamin Cowen
 
-👁️ 27K • 👍 3K • 💬 312 • ⏱️ 23:49 • 5h ago
+👁️ 55K • 👍 4K • 💬 472 • ⏱️ 23:49 • 6h ago
 
 ---
 
@@ -357,17 +347,7 @@ CNBC's MacKenzie Sigalos reports on the latest in the bitcoin sell-off.
 
 📺 CNBC Television
 
-👁️ 22K • 👍 221 • 💬 66 • ⏱️ 1:42 • 11h ago
-
----
-
-**[Why the Bitcoin Narrative Is Shifting Right Now](https://www.youtube.com/watch?v=bZfsLFGz4hE)**
-
-Jeff Park is a Partner & Chief Investment Officer at ProCap Financial. In this conversation, we discuss bitcoin's recent drawdown ...
-
-📺 Anthony Pompliano
-
-👁️ 43K • 👍 2K • 💬 46 • ⏱️ 37:08 • 13h ago
+👁️ 26K • 👍 250 • 💬 80 • ⏱️ 1:42 • 12h ago
 
 ---
 
@@ -377,17 +357,37 @@ Bitcoin dumped as the Epstein files hit and the reaction exposed more than just 
 
 📺 Simply Bitcoin
 
-👁️ 25K • 👍 2K • 💬 339 • ⏱️ 23:22 • 11h ago
+👁️ 27K • 👍 2K • 💬 290 • ⏱️ 23:22 • 12h ago
 
 ---
 
-**[Crypto Investors Are In SERIOUS Trouble (Tom Lee &amp; Raoul Pal)](https://www.youtube.com/watch?v=KVKyHOtnSfI)**
+**[&quot;Now We Know Why They Crashed Bitcoin On Purpose&quot; - Raoul Pal Update](https://www.youtube.com/watch?v=febqPVU1XnI)**
 
-LIMITED TIME: ✓ Bitunix (no kyc, $10k bonus): https://www.bitunix.com/register?vipCode=AltcoinDaily 50% deposit bonus on ...
+Raoul Pal reveals why Bitcoin is trading at a massive discount to global liquidity — and why it should be at $140000 right now.
 
-📺 Altcoin Daily
+📺 Money Talks
 
-👁️ 127K • 👍 4K • 💬 771 • ⏱️ 10:56 • 2d ago
+👁️ 16K • 👍 286 • 💬 214 • ⏱️ 9:50 • 17h ago
+
+---
+
+**[Bitcoin Bear Market Will END ON THIS DATE (SOONER THAN YOU THINK)](https://www.youtube.com/watch?v=xcRNR3c2EI0)**
+
+Nick Valdez checks some very encouraging sign on when the Bitcoin bear market may be coming to an end! After looking at the ...
+
+📺 Discover Crypto
+
+👁️ 13K • 👍 476 • 💬 99 • ⏱️ 4:00 • 11h ago
+
+---
+
+**[I’m Genuinely Worried About Crypto.](https://www.youtube.com/watch?v=5dwoB6Q24tI)**
+
+Bitcoin has officially erased its post-election gains, but the real alarming sign is who is leading the sell-off. Long-dormant "OG" ...
+
+📺 Crypto Banter
+
+👁️ 36K • 👍 2K • 💬 213 • ⏱️ 32:09 • 20h ago
 
 ---
 
@@ -397,17 +397,17 @@ Make Free Predictions on *ClashPicks* ▻ https://www.clashpicks.com/ Follow Cla
 
 📺 CryptosRUs
 
-👁️ 32K • 👍 1K • 💬 914 • ⏱️ 10:35 • 1d ago
+👁️ 32K • 👍 1K • 💬 602 • ⏱️ 10:35 • 1d ago
 
 ---
 
-**[Bitcoin Bottom Signal? Tom Lee + Bitwise Say Crypto Winter Is Ending (Next Stop 85K)](https://www.youtube.com/watch?v=xm8o6vPFfCQ)**
+**[BITCOIN DUMP EXPLAINED... (time to buy?)](https://www.youtube.com/watch?v=nVdIZk5oN0Y)**
 
-Bitcoin bottom signal might be flashing right now. Bitwise CIO Matt Hougan suggests we've been in a “crypto winter” longer than ...
+WEEX: https://www.weex.com/events/promo/usdtgiveaway-v2?vipCode=00dt 25% FEE DISCOUNT & GET FREE $25 ✓My ...
 
-📺 CryptosRus Extra
+📺 Crypto Rover
 
-👁️ 4K • 👍 192 • 💬 164 • ⏱️ 8:52 • 10h ago
+👁️ 6K • 👍 556 • 💬 306 • ⏱️ 11:57 • 4h ago
 
 ---
 
