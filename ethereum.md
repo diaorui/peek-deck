@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-02-05T02:09:21.151608+00:00'
+updated: '2026-02-05T04:27:12.458990+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- cryptocurrency
 - videos
-- social
 - news
+- social
+- cryptocurrency
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** February 05, 2026 at 02:09 UTC  
+**Last Updated:** February 05, 2026 at 04:27 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -36,51 +36,51 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Price
 
-### $2,154.60
+### $2,097.72
 
 ---
 
 ## Ethereum Chart
 
-**24h:** -6.3%  
-**7d:** -21.0%  
-**30d:** -32.5%  
-**90d:** -37.2%  
-**1y:** -20.4%  
+**24h:** -7.0%  
+**7d:** -22.3%  
+**30d:** -33.6%  
+**90d:** -38.3%  
+**1y:** -21.7%  
 
 ---
 
 ## Ethereum Market Stats
 
-**Market Cap:** $256.81B
+**Market Cap:** $253.60B
 Rank #2
 
 **Circulating Supply:** 120,693,508 ETH
 No max supply
 
 **All-Time High:** $4,946.05
--57.0%
+-57.6%
 
 **All-Time Low:** $0.43
-+490903.0%
++484099.0%
 
 ---
 
 ## Reddit: r/ethereum
 
-**[Buterin Reframes Ethereum Strategy As Scaling Focus Returns To Base Layer](https://www.reddit.com/r/ethereum/comments/1qvozvl/buterin_reframes_ethereum_strategy_as_scaling/)**
-
-The long-term technical vision for Ethereum is undergoing a significant correction. : Get all the latest crypto news at Sandmark
-
-🔗 [Sandmark](https://www.sandmark.com/news/top-news/buterin-reframes-ethereum-strategy-scaling-focus-returns-base-layer?utm_medium=referral&utm_source=redbot&utm_campaign=redbot-ww-en-brand) • 12h ago
-
----
-
 **[When will property be tokenizated and placed onto the Ethereum Blockchain??](https://www.reddit.com/r/ethereum/comments/1qw2vg9/when_will_property_be_tokenizated_and_placed_onto/)**
 
 Fellow Dudes! Does any one know when exactly real world assets such as property will be tokenizated and placed onto the Ethereum Blockchain?? and what countries have put in the necessary frame work to make this all legal and workable?? So that I could just buy up new property in a different country to me, then that property is turned into a ERC20 token kept in my wallet, and this is all recognised and legal and a financial product? also I know that the price of ETH has dropped heaps,.but this is when you buy more (not investment advice) 😑 cheers.
 
-3h ago
+6h ago
+
+---
+
+**[Buterin Reframes Ethereum Strategy As Scaling Focus Returns To Base Layer](https://www.reddit.com/r/ethereum/comments/1qvozvl/buterin_reframes_ethereum_strategy_as_scaling/)**
+
+The long-term technical vision for Ethereum is undergoing a significant correction. : Get all the latest crypto news at Sandmark
+
+🔗 [Sandmark](https://www.sandmark.com/news/top-news/buterin-reframes-ethereum-strategy-scaling-focus-returns-base-layer?utm_medium=referral&utm_source=redbot&utm_campaign=redbot-ww-en-brand) • 14h ago
 
 ---
 
@@ -88,7 +88,7 @@ Fellow Dudes! Does any one know when exactly real world assets such as property 
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-20h ago
+22h ago
 
 ---
 
@@ -96,13 +96,13 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 I’d like a more technical and realistic analysis of Ethereum and how things are changing and growing. Please let me know if you know a good podcast or YouTube channel that does this. Thank you.
 
-11h ago
+14h ago
 
 ---
 
 **[Reframing Layer 2s: spectrum of trust models instead of “Ethereum scaling”](https://www.reddit.com/r/ethereum/comments/1qw043z/reframing_layer_2s_spectrum_of_trust_models/)**
 
-5h ago
+7h ago
 
 ---
 
@@ -110,7 +110,7 @@ I’d like a more technical and realistic analysis of Ethereum and how things ar
 
 Hi all, as the title says, I transferred Ethereum to an external wallet about 9 years ago that I want to return to Coinbase. Worth over $200 today. Coinbase sent me to etherscan, where I can view the record and details of the transfer… however I still have no idea how to recover it. Clicking on the receiving address just shows me more details. I don’t actually recall the site at all. I do have a secret seed that i wrote down all those years ago… any advice? I would hate to just let it go, but this has been bothering me for years. Thanks for any help!
 
-6h ago
+8h ago
 
 ---
 
@@ -118,7 +118,7 @@ Hi all, as the title says, I transferred Ethereum to an external wallet about 9 
 
 Hi there, I was recently approached by someone who wanted to buy some of my digital artwork as NFT's using Ethereum, they seem to be legitimate and I have been very careful checking things out. I know very little about crypto and so far after watching several videos and an hours worth of Google searching I feel non the wiser! Is anyone here able to point me in the direction of a VERY beginner friendly guide to setting up an Ethereum wallet and turning that currency back into national currency? Thanks for any advice you guys can offer!
 
-7h ago
+9h ago
 
 ---
 
@@ -126,7 +126,7 @@ Hi there, I was recently approached by someone who wanted to buy some of my digi
 
 By Davide Crapis of the dAI Team Lead at Ethereum Foundation AI agents are already booking flights, writing code, and managing portfolios, but they operate in silos. As the actions they automate have more value at stake, they need a shared way to establish identity and build trust.
 
-🔗 [linkedin.com](https://www.linkedin.com/pulse/guest-article-next-advancement-ai-x-blockchain-erc-8004-ethereum-vpt3c?utm_source%3Dshare%26utm_medium%3Dmember_ios%26utm_campaign%3Dshare_via) • 6h ago
+🔗 [linkedin.com](https://www.linkedin.com/pulse/guest-article-next-advancement-ai-x-blockchain-erc-8004-ethereum-vpt3c?utm_source%3Dshare%26utm_medium%3Dmember_ios%26utm_campaign%3Dshare_via) • 9h ago
 
 ---
 
@@ -134,7 +134,7 @@ By Davide Crapis of the dAI Team Lead at Ethereum Foundation AI agents are alrea
 
 Been away from Ethereum from some time and would like to jump onboard again. It seems to me neutral opensource software will become increasingly relevant due to the changing world order and Ethereum will play a significant role. I'm particularly interested in how Ethereum can be used for daily payments via stablecoins. I would like to know if anyone is working on (1) on-chain oracles for currency exchange-rates and (2) stablecoins for developing nation currencies. My aim is to understand what kind of on-chain infrastructure needs to be there to enable normal people to transparently use Ethereum to pay for their morning coffee. Happy to discuss!
 
-15h ago
+17h ago
 
 ---
 
@@ -154,23 +154,7 @@ There have recently been some discussions on the ongoing role of L2s in the Ethe
 
 Leaders across the layer-2 space don't see this moment as an existential threat, but rather that Ethereum’s progress is forcing them to clarify their purpose.
 
-CoinDesk • 9h ago
-
----
-
-**[Vitalik Buterin reevaluates Ethereum's rollup-centric roadmap, arguing L2s decentralized 'far slower' while base layer advanced](https://www.theblock.co/post/388285/vitalik-buterin-reevaluates-rollup-centric-roadmap-arguing-l2s-decentralized-far-slower-while-ethereum-base-layer-advanced)**
-
-Buterin previously championed a "rollup-centric" roadmap that would scale Ethereum through a network of branded shards.
-
-The Block • 1d ago
-
----
-
-**[Vitalik Buterin Moves $29 Million Worth of Ethereum—Here's Why](https://decrypt.co/356914/vitalik-buterin-moves-29-million-worth-of-ethereum-heres-why)**
-
-Vitalik Buterin moves 14,000 ETH worth $29M to support Ethereum Foundation during "mild austerity" period. His now hold 227K ETH.
-
-Decrypt • 7h ago
+CoinDesk • 11h ago
 
 ---
 
@@ -178,7 +162,13 @@ Decrypt • 7h ago
 
 Based on data from prediction markets, Ethereum will have a tough climb this year.
 
-The Motley Fool • 13h ago
+The Motley Fool • 16h ago
+
+---
+
+**[Bitcoin, XRP, Ethereum Drop. Why Cryptos Are Under Pressure Today.](https://www.barrons.com/articles/bitcoin-xrp-ethereum-cryptos-gold-9051820f?gaa_at=eafs&gaa_n=AWEtsqeIjIvujPa7wgRc7cif_9q0Iufz5SGBDkXgoK2axGiAZRwL0o8X9B4o&gaa_ts=69841f86&gaa_sig=Luis5k-wL5eKJGqB36RuHE-yzhOpgExqqT6g01f-IzqhgMIwx-nMceXuJE4wn2rK2gpcFvdNMY5ZTp6HwsHeJA%3D%3D)**
+
+Barron's • 6h ago
 
 ---
 
@@ -186,13 +176,7 @@ The Motley Fool • 13h ago
 
 Ethereum ETH $2 254 24h volatility: 0.9% Market cap: $271.87 B Vol. 24h: $46.92 B treasury firm Bitmine has seen its BMNR stock decline sharply amid a broader market downtrend. Based on the current price of Ethereum, Bitmine now faces roughly $6 billion in unrealized losses. Chairman Tom Lee defended ...
 
-Yahoo Finance • 14h ago
-
----
-
-**[Bitcoin, XRP, Ethereum Drop. Why Cryptos Are Under Pressure Today.](https://www.barrons.com/articles/bitcoin-xrp-ethereum-cryptos-gold-9051820f?gaa_at=eafs&gaa_n=AWEtsqdamLsuvRnz_jMm40n-OFsMQL-HySXbd9l0efpV8phm_D1OMX_0tOdT&gaa_ts=6983ff3b&gaa_sig=fplUkfjdPnxfEXpRgMZmOKFlVTvsAcvc3445QDmLbUQUN4mN3ssHyk6cF1SxFfsQnm9VRkRJaBdEVaRzFrkiwg%3D%3D)**
-
-Barron's • 4h ago
+Yahoo Finance • 16h ago
 
 ---
 
@@ -204,11 +188,17 @@ Sherwood News • 2d ago
 
 ---
 
-**[Ethereum Price Recovery Runs Into A Wall, Decline Risk Returns](https://www.tradingview.com/news/newsbtc:4d0ac60d3094b:0-ethereum-price-recovery-runs-into-a-wall-decline-risk-returns/)**
+**[Bit Digital Highlights Shift to Ethereum and AI Infrastructure](https://www.tipranks.com/news/company-announcements/bit-digital-highlights-shift-to-ethereum-and-ai-infrastructure)**
 
-Ethereum price extended its decline below $2,220 and $2,200. ETH is now attempting to recover from $2,000 but faces many hurdles near $2,250.Ethereum Price Faces ResistanceEthereum price failed to remain stable above $2,320 and extended losses, like Bitcoin. ETH price traded below $2,220 to enter a…
+TipRanks • 16h ago
 
-TradingView • 22h ago
+---
+
+**[Ethereum Price Slips Below $2,500 — Here Are The Next Support Levels](https://www.tradingview.com/news/newsbtc:8023eb943094b:0-ethereum-price-slips-below-2-500-here-are-the-next-support-levels/)**
+
+The Ethereum price has been under intense bearish pressure over the past few weeks, reflecting the overall fragile state of the cryptocurrency market. The altcoin lost nearly 20% of its value in the past week, free-falling under the psychological $3,000 level since Thursday, January 29th. With the…
+
+TradingView • 3d ago
 
 ---
 
@@ -220,11 +210,19 @@ AMBCrypto • 1d ago
 
 ---
 
-**[Ethereum Falls 10% In Rout](https://www.investing.com/news/cryptocurrency-news/ethereum-falls-10-in-rout-4477776)**
+**[Why Is Cathie Wood Buying More BitMine As Ethereum Plummets? Ark Invest Doubles Down as Tom Lee Defends Strategy](https://finance.yahoo.com/news/why-cathie-wood-buying-more-123215468.html)**
 
-Ethereum Falls 10% In Rout
+Cathie Wood’s ARK Invest added more than $44 million in crypto-linked equities, including BitMine, Robinhood, and Circle. BitMine chairman Tom Lee defended the firm’s Ethereum ...
 
-Investing.com • 2d ago
+Yahoo Finance • 15h ago
+
+---
+
+**[Why are Bitcoin, Ethereum and XRP Prices Still Crashing Today?](https://coinpedia.org/news/why-are-bitcoin-ethereum-and-xrp-prices-still-crashing-today/)**
+
+Major cryptocurrencies remained under pressure on Tuesday, as a Bitcoin-led selloff dragged the broader digital asset market lower. The total crypto
+
+Coinpedia • 13h ago
 
 ---
 
@@ -238,7 +236,7 @@ Ethereum has experienced multiple major pullbacks throughout its history and eve
 
 📺 The Value Thinker
 
-👁️ 10K • 👍 807 • 💬 193 • ⏱️ 22:38 • 13h ago
+👁️ 11K • 👍 872 • 💬 197 • ⏱️ 22:38 • 15h ago
 
 ---
 
@@ -248,7 +246,7 @@ My FREE Daily On-Chain Analysis & Crypto News In 5-Mins: https://www.cryptonutsh
 
 📺 Jamie Tree 
 
-👁️ 2K • 👍 67 • 💬 257 • ⏱️ 18:33 • 10h ago
+👁️ 2K • 👍 70 • 💬 257 • ⏱️ 18:33 • 13h ago
 
 ---
 
@@ -258,7 +256,7 @@ This video provides a professional Elliott Wave and technical analysis of Ethere
 
 📺 More Crypto Online
 
-👁️ 1K • 👍 139 • 💬 27 • ⏱️ 6:13 • 2h ago
+👁️ 2K • 👍 158 • 💬 28 • ⏱️ 6:13 • 5h ago
 
 ---
 
@@ -268,7 +266,7 @@ This video provides a professional Elliott Wave and technical analysis of Ethere
 
 📺 More Crypto Online
 
-👁️ 4K • 👍 223 • 💬 6 • ⏱️ 4:15 • 10h ago
+👁️ 4K • 👍 223 • 💬 6 • ⏱️ 4:15 • 12h ago
 
 ---
 
@@ -278,37 +276,7 @@ Is the Ethereum dream dead? Vitalik Buterin just dropped a bombshell that has th
 
 📺 Discover Crypto
 
-👁️ 8K • 👍 412 • 💬 322 • ⏱️ 1:21:03 • 9h ago
-
----
-
-**[RIPPLE XRPL Announcement Could Change EVERYTHING! ETHEREUM Was Just SAVED by Vitalik!](https://www.youtube.com/watch?v=qLH8ey3vYkM)**
-
-RIPPLE XRPL ANNOUNCEMENT COULD CHANGE EVERYTHING. ETHEREUM WAS JUST SAVED BY VITALIK! Ripples XRPL ...
-
-📺 CryptoWendyO
-
-👁️ 9K • 👍 774 • 💬 37 • ⏱️ 4:18 • 4h ago
-
----
-
-**[LIVE: Bitcoin Will Replace Gold - Ethereum Is the New Silver?! — CEO JPMorgan Jamie Dimon &amp; TRUMP](https://www.youtube.com/watch?v=Cbp674bkB2I)**
-
-Today, Donald Trump and JPMorgan are both sounding the alarm - and when political power and Wall Street warnings line up, ...
-
-📺 Our Power - Бунтарский Английский
-
-👁️ 5K • 👍 5K • 1h ago
-
----
-
-**[Crypto Investors Are In SERIOUS Trouble (Tom Lee &amp; Raoul Pal)](https://www.youtube.com/watch?v=KVKyHOtnSfI)**
-
-LIMITED TIME: ✓ Bitunix (no kyc, $10k bonus): https://www.bitunix.com/register?vipCode=AltcoinDaily 50% deposit bonus on ...
-
-📺 Altcoin Daily
-
-👁️ 121K • 👍 4K • 💬 758 • ⏱️ 10:56 • 2d ago
+👁️ 8K • 👍 418 • 💬 314 • ⏱️ 1:21:03 • 11h ago
 
 ---
 
@@ -318,7 +286,27 @@ Bitcoin's dip below $75000 is something David Siemer calls a "buying opportunity
 
 📺 Schwab Network
 
-👁️ 14K • 👍 176 • 💬 27 • ⏱️ 6:37 • 1d ago
+👁️ 15K • 👍 184 • 💬 27 • ⏱️ 6:37 • 1d ago
+
+---
+
+**[Crypto Investors Are In SERIOUS Trouble (Tom Lee &amp; Raoul Pal)](https://www.youtube.com/watch?v=KVKyHOtnSfI)**
+
+LIMITED TIME: ✓ Bitunix (no kyc, $10k bonus): https://www.bitunix.com/register?vipCode=AltcoinDaily 50% deposit bonus on ...
+
+📺 Altcoin Daily
+
+👁️ 123K • 👍 4K • 💬 765 • ⏱️ 10:56 • 2d ago
+
+---
+
+**[RIPPLE XRPL Announcement Could Change EVERYTHING! ETHEREUM Was Just SAVED by Vitalik!](https://www.youtube.com/watch?v=qLH8ey3vYkM)**
+
+RIPPLE XRPL ANNOUNCEMENT COULD CHANGE EVERYTHING. ETHEREUM WAS JUST SAVED BY VITALIK! Ripples XRPL ...
+
+📺 CryptoWendyO
+
+👁️ 13K • 👍 907 • 💬 39 • ⏱️ 4:18 • 6h ago
 
 ---
 
@@ -328,7 +316,17 @@ BITCOIN CRASH: The Double Dip Trap (BE WARNED)!!! - Bitcoin News Today, Ethereum
 
 📺 Crypto World
 
-👁️ 9K • 👍 362 • 💬 297 • ⏱️ 25:48 • 7h ago
+👁️ 11K • 👍 385 • 💬 301 • ⏱️ 25:48 • 9h ago
+
+---
+
+**[We Just Got EARTH SHATTERING Ethereum News XRP DeFi Is Coming MAJOR Gold And Silver Update](https://www.youtube.com/watch?v=sit3fzWSrMQ)**
+
+Ask and you shall receive... or maybe just complain a lot and then the information will fall into your lap. That one makes a bit more ...
+
+📺 The Modern Investor
+
+👁️ 9K • 👍 860 • 💬 495 • ⏱️ 29:04 • 17h ago
 
 ---
 
