@@ -3,13 +3,13 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-02-05T22:29:15.662407+00:00'
+updated: '2026-02-05T22:57:37.601889+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- news
 - social
+- news
 - videos
 ---
 
@@ -17,7 +17,7 @@ data_types:
 
 Robotics research and industry news
 
-**Last Updated:** February 05, 2026 at 22:29 UTC  
+**Last Updated:** February 05, 2026 at 22:57 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -82,7 +82,7 @@ Hy everyone! I'll be quick, I want to build this: Full video: https://www.youtub
 
 I am designing this thing named Pollux - it is a marine autonomous surface vehicle that follows the swimmer in open waters and stays in a range of 1-2m. If needed, it can pull the person back to the beach. This is the preliminary design. Estimate lenght is 110 cm. Eventually I think of releasing the design as open hardware. https://preview.redd.it/5xdcb7hnhmhg1.png?width=570&format=png&auto=webp&s=3ce8cc813144fe8895dc899ffdc139480696ecff
 
-15h ago
+16h ago
 
 ---
 
@@ -96,7 +96,7 @@ I am designing this thing named Pollux - it is a marine autonomous surface vehic
 
 We're running an RTOS Ask‑Me‑Anything session and wanted to bring it to the embedded community here. If you work with RTOSes—or are just RTOS‑curious—I'd love to hear your questions. Whether you're dealing with: ✅Edge performance ✅Security ✅Functional safety ✅Interoperability ✅POSIX ✅OS Roadmap ✅Career advice and more. We're happy to dive in. Our Product Management Director Louay Abdelkader and the QNX team offer deep expertise not only in QNX, but also across a wide range of embedded platforms—including Linux, ROS, Android, Zephyr, and more. Bring your questions and hear what’s on the minds of fellow developers. No slides, no sales pitch: just engineers helping engineers. Join the conversation and get a chance to win a Raspberry Pi 5. Your questions answered live! 🎥 Live Q&A + Short Demo + Contest and Raspberry Pi Prizes. Register NOW https://qnx.software/en/campaigns/rtos-ask-me-anything?utm_medium=website&utm_source=web_page&utm_campaign=fy26-q4_qnx_rtos-ask-me-anything_wb&utm_content=ayad-embedded-sub-reddit https://preview.redd.it/7nrxy4sqrphg1.png?width=1024&format=png&auto=webp&s=a5b027f25cb0afb465d36035290d598933650656
 
-4h ago
+5h ago
 
 ---
 
@@ -104,7 +104,7 @@ We're running an RTOS Ask‑Me‑Anything session and wanted to bring it to the 
 
 Hello, We are trying to develop a holonomic (swerve drive) AMR with a maximum payload of 200 kg. We want to use ros2_control for this robot. Can anyone suggest some budget integrated actuators ( motor+gearbox+encoder) and controllers we can use easily with ROS2? We have found Maxon motors and controllers to be too expensive. This will be used to carry auto parts. Should we include a mechanical brake or electromsgnetic brake with the wheels for safety?
 
-9h ago
+10h ago
 
 ---
 
@@ -164,7 +164,7 @@ South China Morning Post • 2d ago
 
 Robots that can actually do things are not slick yet, and it's a relief when robotics companies don't hide from that.
 
-Gizmodo • 6h ago
+Gizmodo • 7h ago
 
 ---
 

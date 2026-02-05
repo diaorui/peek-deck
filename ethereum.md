@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-02-05T22:29:15.659261+00:00'
+updated: '2026-02-05T22:57:37.598695+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- news
-- social
 - videos
 - cryptocurrency
+- news
+- social
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** February 05, 2026 at 22:29 UTC  
+**Last Updated:** February 05, 2026 at 22:57 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -80,7 +80,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 https://etherscan.io/tx/0xaab90d00abf065e4158852a64c809b8921d109e997bd3790cb471aadfa57f4e0 I've been waiting for this transaction for almost an hour (trying to transfer from Newton to TrustWallet). There seem to be hundreds of transactions from the same address that I don't recognize. Have I been hacked?
 
-45m ago
+1h ago
 
 ---
 
@@ -88,7 +88,7 @@ https://etherscan.io/tx/0xaab90d00abf065e4158852a64c809b8921d109e997bd3790cb471a
 
 I’m looking to move some USDC over to Hyperliquid but I’m a bit stuck on the best way to do it. Could anyone explain in simple terms how the bridge works? I’ve heard you need to use a cross-chain bridge, but not sure which one is reliable and doesn’t charge too much in gas.
 
-6m ago
+35m ago
 
 ---
 
@@ -210,7 +210,7 @@ Barron's • 1d ago
 
 New York City, New York, February 5th, 2026, ChainwireCertora, the full-stack security assurance platform trusted by the most...
 
-markets.businessinsider.com • 7h ago
+markets.businessinsider.com • 8h ago
 
 ---
 
@@ -260,7 +260,7 @@ This video provides a professional Elliott Wave and technical analysis of Ethere
 
 📺 More Crypto Online
 
-👁️ 4K • 👍 319 • 💬 13 • ⏱️ 6:23 • 4h ago
+👁️ 4K • 👍 319 • 💬 13 • ⏱️ 6:23 • 5h ago
 
 ---
 
@@ -270,7 +270,7 @@ BITCOIN CRASH TODAY: It's Finally Happening (Urgent)!!! - Bitcoin News Today, Et
 
 📺 Crypto World
 
-👁️ 13K • 👍 458 • 💬 290 • ⏱️ 24:32 • 7h ago
+👁️ 13K • 👍 458 • 💬 290 • ⏱️ 24:32 • 8h ago
 
 ---
 
@@ -300,7 +300,7 @@ This video provides a professional Elliott Wave and technical analysis of Ethere
 
 📺 More Crypto Online
 
-👁️ 4K • 👍 223 • 💬 14 • ⏱️ 4:35 • 9h ago
+👁️ 4K • 👍 223 • 💬 14 • ⏱️ 4:35 • 10h ago
 
 ---
 
@@ -320,7 +320,7 @@ Im certain that no one saw this coming. Ethereum might be in a more different sp
 
 📺 The Modern Investor
 
-👁️ 7K • 👍 682 • 💬 508 • ⏱️ 25:12 • 10h ago
+👁️ 7K • 👍 682 • 💬 508 • ⏱️ 25:12 • 11h ago
 
 ---
 
@@ -330,7 +330,7 @@ FREE TRAINING: https://www.bullmania.com EXCHANGES I USE (bybit, pionex): https:
 
 📺 Ivan on Tech
 
-👁️ 26K • 👍 2K • 💬 200 • ⏱️ 49:06 • 12h ago
+👁️ 26K • 👍 2K • 💬 200 • ⏱️ 49:06 • 13h ago
 
 ---
 

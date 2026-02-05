@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-02-05T22:29:15.653322+00:00'
+updated: '2026-02-05T22:57:37.592696+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- news
-- social
 - videos
 - cryptocurrency
+- news
+- social
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** February 05, 2026 at 22:29 UTC  
+**Last Updated:** February 05, 2026 at 22:57 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -87,7 +87,7 @@ Rank #1
 
 Seriously, this subreddit needs to learn to think critically. Stop simping for BTC just out of principle and start treating it like a financial asset, not a religion. The echo chamber is getting exhausting. Don't get me wrong, I’m a heavy BTC holder. But man, every time I open this sub I start doubting my investment. Why does most of the talk here sound like a Karen’s inspirational Facebook feed? For almost any other asset, people actually discuss fundamentals, critique trends and analyze risks. Here? It’s mostly nutballs posting motivational quotes and proverbs like I’m at a cult recruitment meeting. geez.
 
-4h ago
+5h ago
 
 ---
 
@@ -95,7 +95,7 @@ Seriously, this subreddit needs to learn to think critically. Stop simping for B
 
 I had like 1.2 btc which I bought in 2021 when price was at like 30k usd. Then it rallied to 69k and I didn’t sell anything because I was greedy. When it fell all the way 25k USD again I was sad that I didn’t take profits. This bullrun when Bitcoin was at like 125k I really was about to sell but didn’t because I was greedy again. I didn’t want to make the mistake that I did last bullrun so I sold everything at 105k usd and now im quite happy with my decision. People here slaughter you for selling your coins and not holding or they say why not just sell like half of it. I rather sell everything and hope to find a good entry point again. So see you guys in the next bullrun. All my profits will be saved to buy bitcoin when it crashes all the way down, I hope I can time the bottom as good as I can. I will put every fiat I have now into bitcoin again and hope to have more than 2 full coins next bullrun. Don’t insult me please
 
-3h ago
+4h ago
 
 ---
 
@@ -103,7 +103,7 @@ I had like 1.2 btc which I bought in 2021 when price was at like 30k usd. Then i
 
 Next dip buy will be 55k. lol. Who else is buying?
 
-6h ago
+7h ago
 
 ---
 
@@ -133,7 +133,7 @@ This is my 3rd bear market so far. These are the things that I learned the hard 
 
 Entered the market today with a Bitcoin purchase worth $28K at a price of $69K. While short-term volatility and minor corrections are always part of the journey, I remain confident in the broader structure and long-term strength of Bitcoin. Even if the market retraces slightly, I don’t anticipate any significant drop below the $53K zone. This phase is about smart accumulation, patience, and conviction rather than reacting to every small movement. Opportunities like this are meant to be taken, not watched from the sidelines. Staying focused on the long-term vision, holding through the noise, and trusting the process. Strong hands, clear strategy, and zero panic. Holding steady for what’s ahead. HODL.
 
-8h ago
+9h ago
 
 ---
 
@@ -141,7 +141,7 @@ Entered the market today with a Bitcoin purchase worth $28K at a price of $69K. 
 
 We reached 63.1k my dudes from an ATH of 126.2k. Wish I had more money to buy this tasty dip
 
-1h ago
+2h ago
 
 ---
 
@@ -149,7 +149,7 @@ We reached 63.1k my dudes from an ATH of 126.2k. Wish I had more money to buy th
 
 I am shocked. After all that”store of value”, “new reserve currency “, “limited supply of 21 M coins” and all the rest…people still sell.
 
-1h ago
+2h ago
 
 ---
 
@@ -161,7 +161,7 @@ I am shocked. After all that”store of value”, “new reserve currency “, �
 
 Bitcoin is acting weird. The world’s most famous cryptocurrency has tumbled 44% from its October peak, falling below $70,000 Thursday for the first time in 15 months.
 
-cnn.com • 8h ago
+cnn.com • 9h ago
 
 ---
 
@@ -181,7 +181,7 @@ CoinDesk • 8h ago
 
 Social media users falsely claimed that emails from the latest Epstein file dump prove that the disgraced sex offender was in fact Satoshi Nakamoto, the creator of Bitcoin whose real identity remains…
 
-France 24 • 1h ago
+France 24 • 2h ago
 
 ---
 
@@ -195,7 +195,7 @@ Fortune • 1d ago
 
 **[JPMorgan says bitcoin's lower volatility relative to gold might make it 'more attractive' in long term](https://www.coindesk.com/markets/2026/02/05/jpmorgan-says-bitcoin-s-lower-volatility-relative-to-gold-might-make-it-more-attractive-in-long-term)**
 
-CoinDesk • 1h ago
+CoinDesk • 2h ago
 
 ---
 
@@ -251,7 +251,7 @@ Bergen Record • 3h ago
 
 Some market watchers have suggested $70,000 is a key level to watch and a break below that could lead bitcoin to decline further.
 
-⬆️ 26 • 💬 1 • 2h ago • [CNBC](https://www.cnbc.com/2026/02/05/bitcoin-price-today-70000-in-focus.html)
+⬆️ 26 • 💬 1 • 3h ago • [CNBC](https://www.cnbc.com/2026/02/05/bitcoin-price-today-70000-in-focus.html)
 
 ---
 
@@ -317,7 +317,7 @@ Bitcoin #Crypto #Finance Welcome to Market Mavericks , where fast paced market a
 
 📺 The Wolf Of All Streets
 
-👁️ 8K • 👍 752 • 💬 262 • ⏱️ 29:11 • 1h ago
+👁️ 8K • 👍 752 • 💬 262 • ⏱️ 29:11 • 2h ago
 
 ---
 
@@ -327,7 +327,7 @@ Bitcoin and crypto continue to crash — here's why moving your crypto off excha
 
 📺 EllioTrades
 
-👁️ 12K • 👍 1K • 💬 568 • ⏱️ 13:04 • 3h ago
+👁️ 12K • 👍 1K • 💬 568 • ⏱️ 13:04 • 4h ago
 
 ---
 
@@ -337,7 +337,7 @@ Today, let's examine Bitcoin's charts and metrics, as well as the latest Macro a
 
 📺 CryptosRUs
 
-👁️ 49K • 👍 2K • 💬 976 • ⏱️ 1:05:23 • 6h ago
+👁️ 49K • 👍 2K • 💬 976 • ⏱️ 1:05:23 • 7h ago
 
 ---
 
@@ -347,7 +347,7 @@ Crypto “hoarding” strategies are under pressure as Bitcoin dips below key le
 
 📺 Valuetainment
 
-👁️ 154K • 👍 3K • 💬 1K • ⏱️ 15:37 • 6h ago
+👁️ 154K • 👍 3K • 💬 1K • ⏱️ 15:37 • 7h ago
 
 ---
 
@@ -357,7 +357,7 @@ Bitcoin has fallen below $70000, raising questions about whether a crypto winter
 
 📺 Yahoo Finance
 
-👁️ 14K • 👍 263 • 💬 207 • ⏱️ 4:27 • 4h ago
+👁️ 14K • 👍 263 • 💬 207 • ⏱️ 4:27 • 5h ago
 
 ---
 
@@ -367,7 +367,7 @@ Come look into the next BIG move in crypto & metals! All LIVE analysis, charting
 
 📺 Tom Crown
 
-👁️ 18K • 👍 1K • 5h ago
+👁️ 18K • 👍 1K • 6h ago
 
 ---
 
@@ -387,7 +387,7 @@ Bitcoin tumbled well below $70000 as the unwinding of leveraged bets and broader
 
 📺 Bloomberg Television
 
-👁️ 13K • 👍 230 • 💬 251 • ⏱️ 3:14 • 3h ago
+👁️ 13K • 👍 230 • 💬 251 • ⏱️ 3:14 • 4h ago
 
 ---
 

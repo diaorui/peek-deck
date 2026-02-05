@@ -3,14 +3,14 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-02-05T22:29:15.645020+00:00'
+updated: '2026-02-05T22:57:37.584211+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- news
 - social
 - repositories
+- news
 - videos
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 AI news, discussions, and developments
 
-**Last Updated:** February 05, 2026 at 22:29 UTC  
+**Last Updated:** February 05, 2026 at 22:57 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -41,7 +41,7 @@ AI news, discussions, and developments
 
 Women in rural communities describe trauma of moderating violent and pornographic content for global tech companies
 
-🔗 [the Guardian](https://www.theguardian.com/global-development/2026/feb/05/in-the-end-you-feel-blank-indias-female-workers-watching-hours-of-abusive-content-to-train-ai) • 11h ago
+🔗 [the Guardian](https://www.theguardian.com/global-development/2026/feb/05/in-the-end-you-feel-blank-indias-female-workers-watching-hours-of-abusive-content-to-train-ai) • 12h ago
 
 ---
 
@@ -57,7 +57,7 @@ I ran a small real-world test today with two kids (ages 8 and 11) using a long-r
 
 Watch Less, Learn More. Get instant AI-powered summaries of your favorite YouTube videos.
 
-🔗 [Tuberizer](https://share.tuberizer.com?videoId=BYXbuik3dgA) • 2h ago
+🔗 [Tuberizer](https://share.tuberizer.com?videoId=BYXbuik3dgA) • 3h ago
 
 ---
 
@@ -83,7 +83,7 @@ Ran a real-world test this week: Gemma 3 12B vs paid frontier models across actu
 
 **[Simple Machine Learning Testing Tools Guide](https://www.reddit.com/r/artificial/comments/1qwbjhx/simple_machine_learning_testing_tools_guide/)**
 
-🔗 [aivolut.com](https://aivolut.com/blog/simple-machine-learning-testing-tools-guide/) • 17h ago
+🔗 [aivolut.com](https://aivolut.com/blog/simple-machine-learning-testing-tools-guide/) • 18h ago
 
 ---
 
@@ -119,7 +119,7 @@ I found this argument interesting. If US allows Nvidia to do business with China
 
 OpenAI Frontier is an enterprise platform for building, deploying, and managing AI agents with shared context, onboarding, permissions, and governance.
 
-OpenAI • 14h ago
+OpenAI • 15h ago
 
 ---
 
@@ -135,7 +135,7 @@ TechCrunch • 4h ago
 
 Frontier gives agents the same skills people need, creating AI coworkers that work across the business to close the AI opportunity gap between early leaders and everyone else, the company says. Analysts are impressed.
 
-Computerworld • 22m ago
+Computerworld • 51m ago
 
 ---
 
@@ -143,7 +143,7 @@ Computerworld • 22m ago
 
 Anthropic’s Cowork AI assistant sent shockwaves through Wall Street this week over concerns it could replace specialized software packages, such as for legal or financial analysis. Now Anthropic is improving the model behind that tool to make it better for office and coding work.
 
-cnn.com • 4h ago
+cnn.com • 5h ago
 
 ---
 
@@ -151,7 +151,7 @@ cnn.com • 4h ago
 
 Anthropic's latest AI model is better at coding, sustaining tasks for longer and creating high-quality professional work.
 
-CNBC • 4h ago
+CNBC • 5h ago
 
 ---
 
@@ -159,7 +159,7 @@ CNBC • 4h ago
 
 The new tool adapts a workplace assistant for white-collar specific industries.
 
-ABC News • 42m ago
+ABC News • 1h ago
 
 ---
 
@@ -171,19 +171,19 @@ Bloomberg.com • 1h ago
 
 **[Amazon Shares Sink as Company Boosts AI Spending by Nearly 60%](https://www.wsj.com/business/earnings/amazon-earnings-q4-2025-amzn-stock-996e5cc2?gaa_at=eafs&gaa_n=AWEtsqfVuiOixslhd1n6JhcNzOqkn-Ebu8K4BbXc3LYBfJl11i-BFa_Q9q2d&gaa_ts=69851d18&gaa_sig=_WrawOXGCrB2q_hg47YxVXda6o-EqwK-RpGBLs0YRRdBE7w47fVWv9Dwn7-Q4kcqns6O4jTW3r2bXpqN_n_pNg%3D%3D)**
 
-The Wall Street Journal • 26m ago
+The Wall Street Journal • 54m ago
 
 ---
 
 **[Amazon Plans to Spend $200 Billion on A.I. and Other Projects This Year](https://www.nytimes.com/2026/02/05/technology/amazon-200-billion-ai.html)**
 
-The New York Times • 25m ago
+The New York Times • 54m ago
 
 ---
 
 **[Bitcoin Miner Iren Deepens To Tumble On Q2 Miss, AI Services Pick Up](https://www.investors.com/news/iren-earnings-q2-2026-bitcoin-miner-ai-artificial-intelligence-iren-stock/)**
 
-Investor's Business Daily • 33m ago
+Investor's Business Daily • 1h ago
 
 ---
 
@@ -325,7 +325,7 @@ Anthropic is updating its AI model, Claude Opus 4.6, to carry out financial rese
 
 📺 Bloomberg Television
 
-👁️ 8K • 👍 232 • 💬 27 • ⏱️ 3:25 • 2h ago
+👁️ 8K • 👍 232 • 💬 27 • ⏱️ 3:25 • 3h ago
 
 ---
 
@@ -335,7 +335,7 @@ In this video, I break down how to use Grok as a system for real time research, 
 
 📺 Parker Prompts
 
-👁️ 11K • 💬 8 • ⏱️ 6:08 • 8h ago
+👁️ 11K • 💬 8 • ⏱️ 6:08 • 9h ago
 
 ---
 
@@ -393,7 +393,7 @@ Kimi K2.5 is a native multimodal agentic model with 1T parameters, excelling in 
 
 `image-text-to-text` `170.7B`
 
-⬇️ 202,615 • ❤️ 1,737 • 18h ago
+⬇️ 202,615 • ❤️ 1,737 • 19h ago
 
 ---
 
@@ -577,7 +577,7 @@ Cross-Team Collaboration improves software quality by enabling multiple LLM agen
 
 The Qwen3-TTS series presents advanced multilingual text-to-speech models with voice cloning and controllable speech generation capabilities, utilizing dual-track LM architecture and specialized speech tokenizers for efficient streaming synthesis.
 
-▲ 58 • 💬 1 • ⭐ 6,939 • 14d ago
+▲ 58 • 💬 1 • ⭐ 6,939 • 15d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2601.15621) • [💻 code](https://github.com/QwenLM/Qwen3-TTS)
 
@@ -631,7 +631,7 @@ Browser automation CLI for AI agents
 
 `TypeScript`
 
-⭐ 12.8k • 🔱 726 • 15h ago
+⭐ 12.8k • 🔱 726 • 16h ago
 
 ---
 
@@ -641,7 +641,7 @@ AI → JSON → UI
 
 `TypeScript`
 
-⭐ 10.0k • 🔱 536 • 3h ago
+⭐ 10.0k • 🔱 536 • 4h ago
 
 ---
 
@@ -651,7 +651,7 @@ LLM驱动的 A/H/美股智能分析器，多数据源行情 + 实时新闻 + Gem
 
 `Python` `agent` `ai` `aigc` `gemini` `llm`
 
-⭐ 9.6k • 🔱 10.0k • 9h ago
+⭐ 9.6k • 🔱 10.0k • 10h ago
 
 ---
 
