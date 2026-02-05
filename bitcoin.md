@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-02-05T13:16:24.812550+00:00'
+updated: '2026-02-05T14:26:29.883866+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
 - news
-- videos
 - cryptocurrency
 - social
+- videos
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** February 05, 2026 at 13:16 UTC  
+**Last Updated:** February 05, 2026 at 14:26 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,33 +38,33 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $69,672.24
+### $69,751.96
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** -6.5%  
-**7d:** -17.5%  
-**30d:** -24.0%  
-**90d:** -32.2%  
-**1y:** -28.1%  
+**24h:** -5.5%  
+**7d:** -16.8%  
+**30d:** -23.3%  
+**90d:** -31.6%  
+**1y:** -27.5%  
 
 ---
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1403.80B
+**Market Cap:** $1391.59B
 Rank #1
 
-**Circulating Supply:** 19,984,712 BTC
+**Circulating Supply:** 19,984,734 BTC
 95.2% of max
 
 **All-Time High:** $126,080.00
--44.3%
+-44.6%
 
 **All-Time Low:** $67.81
-+103381.8%
++102858.3%
 
 ---
 
@@ -77,11 +77,19 @@ Rank #1
 
 ## Reddit: r/Bitcoin
 
+**[“I wish I’d bought when I first learnt about BTC, I’d be rich”](https://www.reddit.com/r/Bitcoin/comments/1qwf8zg/i_wish_id_bought_when_i_first_learnt_about_btc_id/)**
+
+No, you wouldn’t. Markets like this are a reminder that 99% of people wouldn’t have had the fortitude to hold through the dips from $900 to $200, from $20k to $3k, from $60k to $16k, and so on. If you genuinely believe BTC is destined to become a leading store of value, then you should be thrilled that your DCA currently secures you more sats on each purchase.
+
+6h ago
+
+---
+
 **[i never thought i’ll see the btc at 70k again lmaooo](https://www.reddit.com/r/Bitcoin/comments/1qwb2mg/i_never_thought_ill_see_the_btc_at_70k_again/)**
 
 AND IM STILL BUYING
 
-9h ago
+10h ago
 
 ---
 
@@ -89,7 +97,7 @@ AND IM STILL BUYING
 
 I've never seen this sub get this freaked out, or is it just me?
 
-8h ago
+9h ago
 
 ---
 
@@ -97,7 +105,7 @@ I've never seen this sub get this freaked out, or is it just me?
 
 Yes, BTC has fallen around 40% from its all time high. But do you know what else has fallen even further? The US Dollar! Since 1980, the purchasing power of $1 USD has fallen by 74.55% Yet unlike BTC, there is never a new ATH, never a time in the future where $1 USD will buy you more than it did 4 years prior. To anyone who thinks BTC is “dead” because of a temporary fall in value, ask yourself this, what is endless quantitative easing and money printing doing to the value of your fiat money? There is a fixed 21 million BTC cap, there will never be a cap on how many dollars are in circulation…
 
-10h ago
+11h ago
 
 ---
 
@@ -105,43 +113,21 @@ Yes, BTC has fallen around 40% from its all time high. But do you know what else
 
 I got into Bitcoin 6 months ago when it was at 108k. I was looking at the charts from previous years and I was kicking myself for not having been in earlier, at the beginning of the cycle. I told myself I would go "all-in" on the next real dip. And here we are! My mortgage refinancing was coming due this month. I took the opportunity to pull out 100k and invested it in BTC at 73.5k. To be continued in 10 years to see if I regret the move... Everything between now and then is just noise
 
-12h ago
+13h ago
 
 ---
 
-**[“I wish I’d bought when I first learnt about BTC, I’d be rich”](https://www.reddit.com/r/Bitcoin/comments/1qwf8zg/i_wish_id_bought_when_i_first_learnt_about_btc_id/)**
+**[Bought Bitcoin today worth $28K at a price of $69K. Short-term volatility is possible, but I don’t expect a move below $53K. Holding with conviction. HODL.](https://www.reddit.com/r/Bitcoin/comments/1qwlgdu/bought_bitcoin_today_worth_28k_at_a_price_of_69k/)**
 
-No, you wouldn’t. Markets like this are a reminder that 99% of people wouldn’t have had the fortitude to hold through the dips from $900 to $200, from $20k to $3k, from $60k to $16k, and so on. If you genuinely believe BTC is destined to become a leading store of value, then you should be thrilled that your DCA currently secures you more sats on each purchase.
+Entered the market today with a Bitcoin purchase worth $28K at a price of $69K. While short-term volatility and minor corrections are always part of the journey, I remain confident in the broader structure and long-term strength of Bitcoin. Even if the market retraces slightly, I don’t anticipate any significant drop below the $53K zone. This phase is about smart accumulation, patience, and conviction rather than reacting to every small movement. Opportunities like this are meant to be taken, not watched from the sidelines. Staying focused on the long-term vision, holding through the noise, and trusting the process. Strong hands, clear strategy, and zero panic. Holding steady for what’s ahead. HODL.
 
-5h ago
+50m ago
 
 ---
 
 **[I'm not fucking selling](https://www.reddit.com/r/Bitcoin/comments/1qvtn6n/im_not_fucking_selling/)**
 
-20h ago
-
----
-
-**[These dips are a blessing, it just gives a chance to buy more](https://www.reddit.com/r/Bitcoin/comments/1qvwqgs/these_dips_are_a_blessing_it_just_gives_a_chance/)**
-
-18h ago
-
----
-
-**[Bitcoin is dead...](https://www.reddit.com/r/Bitcoin/comments/1qvu3rz/bitcoin_is_dead/)**
-
-Bitcoin ponzi finally dead now. With this post I've completed the ritual.
-
-20h ago
-
----
-
-**[I liked btc at 25k so I like 70k. I liked btc at 120k so I like 70k.](https://www.reddit.com/r/Bitcoin/comments/1qwixjd/i_liked_btc_at_25k_so_i_like_70k_i_liked_btc_at/)**
-
-But for real, I buy every two weeks with my paycheck. A BTC lion doesn’t concern himself with the volatility of BTC men. Also I forgot where I saw it but my fav quote is “volatility is a blessing to the faithful”. I’ve been here a while, and will be here a long time. This drop is part of the game. For comparison- high beta cash flow tech assets like pltr orcl hood etc are all down precipitously too and around the same time. Right now we’re seeing an unwind of the margin/leverage trade that we’ve seen. It’ll all recover when it’s supposed to.
-
-1h ago
+21h ago
 
 ---
 
@@ -149,7 +135,21 @@ But for real, I buy every two weeks with my paycheck. A BTC lion doesn’t conce
 
 This is my first cycle. I started dca since early 2023 and didn't stop until it reaches 100k+. I managed to accumulate a bit bitcoin and I'm happy I kept dca in the past three years. But man these recent dumps are so painful. Every time open the account is a smaller number. My pnl still positive but it soon will turn red if any more dumps. I understand the vision and plan to hold it long term. But with that much on stake, with the next bull run seems so far away, I have to admit I'm weak. So I'm sincerely asking you who went through the pain before, how does that feel and how did you hodl through those tough days, so I can prepare myself. Thank you very much.
 
-4h ago
+5h ago
+
+---
+
+**[I liked btc at 25k so I like 70k. I liked btc at 120k so I like 70k.](https://www.reddit.com/r/Bitcoin/comments/1qwixjd/i_liked_btc_at_25k_so_i_like_70k_i_liked_btc_at/)**
+
+But for real, I buy every two weeks with my paycheck. A BTC lion doesn’t concern himself with the volatility of BTC men. Also I forgot where I saw it but my fav quote is “volatility is a blessing to the faithful”. I’ve been here a while, and will be here a long time. This drop is part of the game. For comparison- high beta cash flow tech assets like pltr orcl hood etc are all down precipitously too and around the same time. Right now we’re seeing an unwind of the margin/leverage trade that we’ve seen. It’ll all recover when it’s supposed to.
+
+2h ago
+
+---
+
+**[These dips are a blessing, it just gives a chance to buy more](https://www.reddit.com/r/Bitcoin/comments/1qvwqgs/these_dips_are_a_blessing_it_just_gives_a_chance/)**
+
+19h ago
 
 ---
 
@@ -157,77 +157,73 @@ This is my first cycle. I started dca since early 2023 and didn't stop until it 
 
 ## Google News: "bitcoin"
 
-**[Bitcoin Falls To Lowest Since 2024 As Multiple Headwinds Fuel Declines](https://www.forbes.com/sites/digital-assets/2026/02/04/bitcoin-falls-to-lowest-since-2024-as-multiple-headwinds-fuel-declines/)**
+**[Bitcoin briefly drops below $70,000 as sell-off continues](https://www.cnbc.com/2026/02/05/bitcoin-price-today-70000-in-focus.html)**
 
-Forbes • 15h ago
+Some market watchers have suggested $70,000 is a key level to watch and a break below that could lead bitcoin to decline further.
+
+CNBC • 2h ago
 
 ---
 
-**[Bitcoin sinks after Treasury Secretary Bessent says US government can't tell banks to bail out crypto](https://finance.yahoo.com/news/bitcoin-sinks-after-treasury-secretary-bessent-says-us-government-cant-tell-banks-to-bail-out-crypto-195504406.html)**
+**[Bitcoin sinks below $70,000 after Bessent says the US government can't tell banks to bail out crypto](https://finance.yahoo.com/news/bitcoin-sinks-below-70000-after-bessent-says-the-us-government-cant-tell-banks-to-bail-out-crypto-022333140.html)**
 
 Bitcoin sank after Treasury Secretary Bessent said banks would not bail out crypto.
 
-Yahoo Finance • 10h ago
+Yahoo Finance • 2h ago
 
 ---
 
-**[Move over Bitcoin: Kalshi and silver just ate your lunch](https://www.cnbc.com/2026/02/05/bitcoin-crypto-prediction-markets-kalshi-polymarket-silver.html)**
+**[Bitcoin Price Falls Further](https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-02-05-2026/card/bitcoin-price-falls-further-UWq5LgId9PAqVF2LrWQq?gaa_at=eafs&gaa_n=AWEtsqcJY4IyiLsPiiCCrLyh26PTo6HJudDZzCB2TKqETOYC27NcxvmPMASH&gaa_ts=6984abf4&gaa_sig=Zwv0ySceemKqo98zc5sX3vDP_2hksgV1BrbbtfSnZmZVuO3pt9NGMacV_puoHigyTnH9YVqC3LcEXWEurW93QQ%3D%3D)**
 
-CNBC's Steve Sedgwick reflects on the 'extraordinary' development of prediction markets like Kalshi betting on bitcoin's rout continuing.
-
-CNBC • 21m ago
+The Wall Street Journal • 4h ago
 
 ---
 
-**[Bitcoin demand in Nancy Guthrie disappearance shows how crypto is becoming a more frequent feature of physical crimes](https://fortune.com/2026/02/04/bitcoin-demand-in-nancy-guthrie-disappearance/)**
+**[Bitcoin Falls to $72,000 as Traders Navigate a ‘Crisis of Faith’](https://www.bloomberg.com/news/articles/2026-02-04/bitcoin-falls-to-72-000-as-traders-navigate-a-crisis-of-faith)**
 
-TMZ and an Arizona news outlet reported receiving the ransom letter.
-
-Fortune • 18h ago
+Bloomberg • 2h ago
 
 ---
 
-**[Alleged Bitcoin Ransom Deepens Mystery in Nancy Guthrie Disappearance](https://bitcoinmagazine.com/news/alleged-bitcoin-ransom-nancy-guthrie)**
+**[Gold’s massive outperformance leaves bitcoin looking more attractive over the long term, says JPMorgan strategist](https://www.marketwatch.com/story/golds-massive-outperformance-leaves-bitcoin-looking-more-attractive-over-the-long-term-says-jpmorgan-strategist-6e17689f?gaa_at=eafs&gaa_n=AWEtsqcpwqGVwhjhh3HvghBuSMUIrG_65SGkrkPD56EKxM5-F_S5DU3A7oPY&gaa_ts=6984abf4&gaa_sig=5VWhnleFbOjwUeSSlZjC6Qvkh4fFIzBKRm87GqYZONRbuAz-WdkgMy_sQ0s7Q2uOVxyhQFIlPKqx4tfEbkCl6A%3D%3D)**
 
-The search for 84-year-old Nancy Guthrie has escalated after TMZ reported receiving an alleged ransom note demanding millions in Bitcoin, complete with a deadline, threats of harm, and a verified wallet address.
-
-Bitcoin Magazine • 16h ago
+MarketWatch • 4h ago
 
 ---
 
-**[Alleged Ransom Note for Nancy Guthrie Kidnapping Demands Millions in Bitcoin](https://www.tmz.com/2026/02/03/nancy-guthrie-alleged-ransom-note-bitcoin-millions/)**
+**[Forbes Daily: Warnings Of A Bitcoin ‘Death Spiral’ As Price Continues To Drop](https://www.forbes.com/sites/daniellechemtob/2026/02/05/forbes-daily-warnings-of-a-bitcoin-death-spiral-as-price-continues-to-drop/)**
 
-Another scary twist in the disappearance of "TODAY" host Savannah Guthrie's kidnapped mother ... TMZ has received an alleged ransom note demanding payment for the release of Nancy Guthrie.
-
-TMZ • 1d ago
+Forbes • 1h ago
 
 ---
 
-**[Bitcoin Falls Below $73,000](https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-02-04-2026/card/bitcoin-falls-below-73-000-qa0DGgMIgEfkZ5g0NypY?gaa_at=eafs&gaa_n=AWEtsqchP1joqftfXiWIeFCAa_BQT1ymbU1hOuX1NiaqQSinuO066_HizQS4&gaa_ts=69849b86&gaa_sig=bpwxA8Rtq2KuRnjzJHfVCaWr5cKGCyj8bUydW6wh92f34odJCB4VW6BYqf54dDUHENfB-YwvVLg53W2RtxDs2w%3D%3D)**
+**[Bitcoin crashes below $70K, wiping out millions of dollars](https://www.thestreet.com/crypto/markets/bitcoin-crashes-to-70k-millions-of-dollars-wiped-out)**
 
-The Wall Street Journal • 1d ago
+Crypto positions worth over $950 million got wiped out within the last 24 hours.
 
----
-
-**[Bitcoin hits lowest level since 2024 and stocks stumble as AI and geopolitical nerves fray](https://www.cnn.com/2026/02/03/investing/us-stock-market-bitcoin)**
-
-A nervous mood swept through markets Tuesday as stocks stumbled and bitcoin slumped to its lowest level since November 2024.
-
-CNN • 1d ago
+thestreet.com • 2h ago
 
 ---
 
-**[Wall Street ticks lower before the bell and bitcoin slumps as markets sense broader risk](https://www.wral.com/news/ap/d4ed6-wall-street-ticks-lower-before-the-bell-and-bitcoin-slumps-as-markets-sense-broader-risk/)**
+**[Miners are being squeezed as bitcoin’s $70,000 price fails to cover $87,000 production costs](https://www.coindesk.com/markets/2026/02/05/bitcoin-trades-20-below-its-production-cost-as-miner-stress-intensifies)**
 
-Markets on Wall Street drifted lower before the opening bell while some technology selloffs continued and bitcoin sank to its lowest price in 15 months. Futures for the S&P 500 fell 0.1% early Thursday, while futures for the technology-heavy Nasdaq dipped 0.2%. Dow Jones Industrial futures were u...
+Bitcoin is now approximately 20% below its estimated average production cost, historically a feature of a bear market.
 
-WRAL • 21m ago
+CoinDesk • 3h ago
 
 ---
 
-**[If you want to get me a birthday gift, buy some bitcoin for yourself.](https://x.com/saylor/status/2019043884152840596)**
+**[Bitcoin price plunges to lowest since 2024 as investors pull out of crypto](https://uk.finance.yahoo.com/news/bitcoin-price-crypto-selloff-blackrock-etfs-100950693.html)**
 
-x.com • 23h ago
+Yahoo Finance UK • 4h ago
+
+---
+
+**[Bitcoin bleeds for second straight day, nearly grazes $72,000](https://www.cnbc.com/2026/02/04/bitcoin-bleeds-for-second-straight-day-nearly-grazes-72000.html)**
+
+Bitcoin sank as low as $72,096.20 on Wednesday, marking its second consecutive day breaking below the $73,000 level.
+
+CNBC • 18h ago
 
 ---
 
@@ -253,7 +249,7 @@ Crypto treasury companies quietly crept into index funds and retirement accounts
 
 Bitcoin behaves more like an "ATM" during uncertain times, with investors quickly selling it to raise cash.
 
-⬆️ 4 • 💬 0 • 20h ago • [coindesk.com](https://www.coindesk.com/markets/2026/01/24/here-s-why-bitcoin-s-is-failing-its-role-as-a-safe-haven-versus-gold)
+⬆️ 4 • 💬 0 • 22h ago • [coindesk.com](https://www.coindesk.com/markets/2026/01/24/here-s-why-bitcoin-s-is-failing-its-role-as-a-safe-haven-versus-gold)
 
 ---
 
@@ -317,7 +313,7 @@ Why is bitcoin crashing right now? The total crypto market value fell to about $
 
 📺 Ricky Gutierrez
 
-👁️ 14K • 👍 580 • 💬 176 • ⏱️ 12:35 • 9h ago
+👁️ 17K • 👍 657 • 💬 248 • ⏱️ 12:35 • 10h ago
 
 ---
 
@@ -327,7 +323,7 @@ Make Free Predictions on *ClashPicks* ▻ https://www.clashpicks.com/ Follow Cla
 
 📺 CryptosRUs
 
-👁️ 34K • 👍 1K • 💬 571 • ⏱️ 10:36 • 10h ago
+👁️ 38K • 👍 2K • 💬 1K • ⏱️ 10:36 • 11h ago
 
 ---
 
@@ -337,27 +333,17 @@ Let's talk about Bitcoin and the current crash. Into The Cryptoverse Premium (Us
 
 📺 Benjamin Cowen
 
-👁️ 55K • 👍 4K • 💬 472 • ⏱️ 23:49 • 7h ago
+👁️ 74K • 👍 5K • 💬 626 • ⏱️ 23:49 • 8h ago
 
 ---
 
-**[&#39;Big Short&#39; investor Michael Burry warns of death spiral ahead for bitcoin](https://www.youtube.com/watch?v=WWd2BMFPhEs)**
+**[Bitcoin Is In A Free Fall](https://www.youtube.com/watch?v=AFs9O7Y6QME)**
 
-CNBC's MacKenzie Sigalos reports on the latest in the bitcoin sell-off.
+https://democratizedprime.pxf.io/c/2406113/3755092/37696 Enter to win $25k USDC with Democratized Prime while earning ~9% ...
 
-📺 CNBC Television
+📺 Aaron Bennett
 
-👁️ 26K • 👍 250 • 💬 80 • ⏱️ 1:42 • 13h ago
-
----
-
-**[Did Bitcoin Epstein Itself?!](https://www.youtube.com/watch?v=DVBDIrYTbHM)**
-
-Bitcoin dumped as the Epstein files hit and the reaction exposed more than just markets. Power, money, institutions, and influence ...
-
-📺 Simply Bitcoin
-
-👁️ 27K • 👍 2K • 💬 290 • ⏱️ 23:22 • 13h ago
+👁️ 7K • 👍 637 • 💬 556 • ⏱️ 13:47 • 3h ago
 
 ---
 
@@ -367,7 +353,47 @@ Raoul Pal reveals why Bitcoin is trading at a massive discount to global liquidi
 
 📺 Money Talks
 
-👁️ 16K • 👍 286 • 💬 214 • ⏱️ 9:50 • 18h ago
+👁️ 18K • 👍 304 • 💬 286 • ⏱️ 9:50 • 19h ago
+
+---
+
+**[Did Bitcoin Epstein Itself?!](https://www.youtube.com/watch?v=DVBDIrYTbHM)**
+
+Bitcoin dumped as the Epstein files hit and the reaction exposed more than just markets. Power, money, institutions, and influence ...
+
+📺 Simply Bitcoin
+
+👁️ 30K • 👍 3K • 💬 757 • ⏱️ 23:22 • 14h ago
+
+---
+
+**[&#39;Big Short&#39; investor Michael Burry warns of death spiral ahead for bitcoin](https://www.youtube.com/watch?v=WWd2BMFPhEs)**
+
+CNBC's MacKenzie Sigalos reports on the latest in the bitcoin sell-off.
+
+📺 CNBC Television
+
+👁️ 31K • 👍 282 • 💬 85 • ⏱️ 1:42 • 14h ago
+
+---
+
+**[Why the Bitcoin Narrative Is Shifting Right Now](https://www.youtube.com/watch?v=bZfsLFGz4hE)**
+
+Jeff Park is a Partner & Chief Investment Officer at ProCap Financial. In this conversation, we discuss bitcoin's recent drawdown ...
+
+📺 Anthony Pompliano
+
+👁️ 52K • 👍 2K • 💬 122 • ⏱️ 37:08 • 16h ago
+
+---
+
+**[BITCOIN... THIS IS BAD... BUT YOU NEED TO SEE THIS CHART](https://www.youtube.com/watch?v=u_Q_tzaHMEw)**
+
+I AM NOT A FINANCIAL ADVISOR. ALL VIDEOS IS FOR ENTERTAINTMENT PURPOSE; AND I AM DOCUMENTING MY OWN ...
+
+📺 Satoshi Stacker
+
+👁️ 12K • 👍 724 • 💬 110 • ⏱️ 13:42 • 7h ago
 
 ---
 
@@ -377,37 +403,7 @@ Nick Valdez checks some very encouraging sign on when the Bitcoin bear market ma
 
 📺 Discover Crypto
 
-👁️ 13K • 👍 476 • 💬 99 • ⏱️ 4:00 • 13h ago
-
----
-
-**[I’m Genuinely Worried About Crypto.](https://www.youtube.com/watch?v=5dwoB6Q24tI)**
-
-Bitcoin has officially erased its post-election gains, but the real alarming sign is who is leading the sell-off. Long-dormant "OG" ...
-
-📺 Crypto Banter
-
-👁️ 36K • 👍 2K • 💬 213 • ⏱️ 32:09 • 22h ago
-
----
-
-**[Bitcoin Dropped to $73,000 Today...](https://www.youtube.com/watch?v=TXb40Ik3_QY)**
-
-Make Free Predictions on *ClashPicks* ▻ https://www.clashpicks.com/ Follow ClashPicks' X ▻ https://x.com/ClashPicks ...
-
-📺 CryptosRUs
-
-👁️ 32K • 👍 1K • 💬 602 • ⏱️ 10:35 • 1d ago
-
----
-
-**[BITCOIN DUMP EXPLAINED... (time to buy?)](https://www.youtube.com/watch?v=nVdIZk5oN0Y)**
-
-WEEX: https://www.weex.com/events/promo/usdtgiveaway-v2?vipCode=00dt 25% FEE DISCOUNT & GET FREE $25 ✓My ...
-
-📺 Crypto Rover
-
-👁️ 6K • 👍 556 • 💬 306 • ⏱️ 11:57 • 5h ago
+👁️ 14K • 👍 524 • 💬 531 • ⏱️ 4:00 • 14h ago
 
 ---
 
