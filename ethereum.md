@@ -3,14 +3,14 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-02-05T14:26:29.889926+00:00'
+updated: '2026-02-05T15:10:24.842828+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
 - news
-- cryptocurrency
 - social
+- cryptocurrency
 - videos
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** February 05, 2026 at 14:26 UTC  
+**Last Updated:** February 05, 2026 at 15:10 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -72,7 +72,7 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-8h ago
+9h ago
 
 ---
 
@@ -126,7 +126,7 @@ I’d like a more technical and realistic analysis of Ethereum and how things ar
 
 **[Reframing Layer 2s: spectrum of trust models instead of “Ethereum scaling”](https://www.reddit.com/r/ethereum/comments/1qw043z/reframing_layer_2s_spectrum_of_trust_models/)**
 
-17h ago
+18h ago
 
 ---
 
@@ -134,7 +134,7 @@ I’d like a more technical and realistic analysis of Ethereum and how things ar
 
 Hi all, as the title says, I transferred Ethereum to an external wallet about 9 years ago that I want to return to Coinbase. Worth over $200 today. Coinbase sent me to etherscan, where I can view the record and details of the transfer… however I still have no idea how to recover it. Clicking on the receiving address just shows me more details. I don’t actually recall the site at all. I do have a secret seed that i wrote down all those years ago… any advice? I would hate to just let it go, but this has been bothering me for years. Thanks for any help!
 
-18h ago
+19h ago
 
 ---
 
@@ -142,7 +142,7 @@ Hi all, as the title says, I transferred Ethereum to an external wallet about 9 
 
 Hi there, I was recently approached by someone who wanted to buy some of my digital artwork as NFT's using Ethereum, they seem to be legitimate and I have been very careful checking things out. I know very little about crypto and so far after watching several videos and an hours worth of Google searching I feel non the wiser! Is anyone here able to point me in the direction of a VERY beginner friendly guide to setting up an Ethereum wallet and turning that currency back into national currency? Thanks for any advice you guys can offer!
 
-19h ago
+20h ago
 
 ---
 
@@ -154,13 +154,13 @@ Hi there, I was recently approached by someone who wanted to buy some of my digi
 
 Leaders across the layer-2 space don't see this moment as an existential threat, but rather that Ethereum’s progress is forcing them to clarify their purpose.
 
-CoinDesk • 21h ago
+CoinDesk • 22h ago
 
 ---
 
 **[Bitcoin, XRP, Ethereum Drop. Why Cryptos Are Under Pressure Today.](https://www.barrons.com/articles/bitcoin-xrp-ethereum-cryptos-gold-9051820f?gaa_at=eafs&gaa_n=AWEtsqej84aRcPtMR0wjt2qjsSrgGsrED5dvboyP5Vnm6G3DmnDOSMK3JAN7&gaa_ts=6984abf6&gaa_sig=31VEpVh-bEmxqr3KFYVT6ejL3-wy4PbVnbIWwHo9dXcFyBdm6Hzfz0F3OV5V0Nrnxpzv2_TJntPL6g4IA_tq3g%3D%3D)**
 
-Barron's • 16h ago
+Barron's • 17h ago
 
 ---
 
@@ -182,7 +182,7 @@ Yahoo Finance • 1d ago
 
 Ethereum transfer counts hit record highs, but historical data suggests this may be another warning sign in February.
 
-Yahoo Finance • 1h ago
+Yahoo Finance • 2h ago
 
 ---
 
@@ -222,7 +222,7 @@ Sherwood News • 2d ago
 
 Ethereum remains under heavy pressure, struggling to hold above the $2,300 level as selling dominates across the broader crypto market. After weeks of weakening structure, price action has failed to attract sustained demand, prompting many analysts to warn that further downside may still lie ahead…
 
-TradingView • 7h ago
+TradingView • 8h ago
 
 ---
 
@@ -236,7 +236,7 @@ Join Premium: https://the-bitcoin-strategy.com My Chart Software: https://the-bi
 
 📺 Gerhard - Bitcoin Strategy
 
-👁️ 3K • 👍 140 • 💬 34 • ⏱️ 9:49 • 5h ago
+👁️ 3K • 👍 140 • 💬 34 • ⏱️ 9:49 • 6h ago
 
 ---
 
@@ -246,7 +246,7 @@ This video provides a professional Elliott Wave and technical analysis of Ethere
 
 📺 More Crypto Online
 
-👁️ 1K • 👍 148 • 💬 18 • ⏱️ 4:35 • 1h ago
+👁️ 1K • 👍 148 • 💬 18 • ⏱️ 4:35 • 2h ago
 
 ---
 
@@ -256,7 +256,7 @@ RIPPLE XRPL ANNOUNCEMENT COULD CHANGE EVERYTHING. ETHEREUM WAS JUST SAVED BY VIT
 
 📺 CryptoWendyO
 
-👁️ 18K • 👍 1K • 💬 96 • ⏱️ 4:18 • 16h ago
+👁️ 18K • 👍 1K • 💬 96 • ⏱️ 4:18 • 17h ago
 
 ---
 
@@ -276,7 +276,7 @@ ETHEREUM ETH PRICE PREDICTION 2026 Join the Premium Signal Group for trade setup
 
 📺 Cilinix Crypto
 
-👁️ 215 • 👍 14 • 💬 48 • ⏱️ 4:37 • 4h ago
+👁️ 215 • 👍 14 • 💬 48 • ⏱️ 4:37 • 5h ago
 
 ---
 
@@ -286,7 +286,7 @@ I told you price had to test the lows before moving back up. BTC, ETH, SOL — a
 
 📺 Davinci Jeremie
 
-👁️ 10K • 👍 440 • 💬 119 • ⏱️ 8:24 • 20h ago
+👁️ 10K • 👍 440 • 💬 119 • ⏱️ 8:24 • 21h ago
 
 ---
 
@@ -306,7 +306,7 @@ This video provides a professional Elliott Wave and technical analysis of Ethere
 
 📺 More Crypto Online
 
-👁️ 4K • 👍 216 • 💬 24 • ⏱️ 6:13 • 14h ago
+👁️ 4K • 👍 216 • 💬 24 • ⏱️ 6:13 • 15h ago
 
 ---
 
@@ -316,7 +316,7 @@ FREE TRAINING: https://www.bullmania.com EXCHANGES I USE (bybit, pionex): https:
 
 📺 Ivan on Tech
 
-👁️ 21K • 👍 1K • 💬 128 • ⏱️ 47:11 • 18h ago
+👁️ 21K • 👍 1K • 💬 128 • ⏱️ 47:11 • 19h ago
 
 ---
 
@@ -326,7 +326,7 @@ ALL TRADING PLATFORMS CRYPTO :- https://india.delta.exchange/?code=JFWJTR LIFE C
 
 📺 Vibe With Sahil
 
-👁️ 4K • 👍 331 • 45m ago
+👁️ 4K • 👍 331 • 1h ago
 
 ---
 

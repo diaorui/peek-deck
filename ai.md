@@ -3,14 +3,14 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-02-05T14:26:29.875287+00:00'
+updated: '2026-02-05T15:10:24.828582+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
 - news
-- videos
 - social
+- videos
 - repositories
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 AI news, discussions, and developments
 
-**Last Updated:** February 05, 2026 at 14:26 UTC  
+**Last Updated:** February 05, 2026 at 15:10 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -41,7 +41,7 @@ AI news, discussions, and developments
 
 Women in rural communities describe trauma of moderating violent and pornographic content for global tech companies
 
-🔗 [the Guardian](https://www.theguardian.com/global-development/2026/feb/05/in-the-end-you-feel-blank-indias-female-workers-watching-hours-of-abusive-content-to-train-ai) • 3h ago
+🔗 [the Guardian](https://www.theguardian.com/global-development/2026/feb/05/in-the-end-you-feel-blank-indias-female-workers-watching-hours-of-abusive-content-to-train-ai) • 4h ago
 
 ---
 
@@ -49,7 +49,7 @@ Women in rural communities describe trauma of moderating violent and pornographi
 
 Ran a real-world test this week: Gemma 3 12B vs paid frontier models across actual business workflows. The honest assessment? 90% of tasks: no meaningful difference. 5%: frontier models worth it (pay-per-use). 5%: neither quite there yet. This matches the data - open models are catching up fast. The article explores: - Why the "gasoline doesn't matter" - only if it powers your task - The shift from "one model to rule them all" to specialized local models - Why even AGI will eventually be open-sourced (historical precedent) - The water company future: infrastructure > model quality https://www.linkedin.com/posts/azizme_activity-7424774668034842624-v1-2?utm_source=share&utm_medium=member_desktop&rcm=ACoAACX_HOcBcpTEWJ3cXyVbVqKJsi39tDHJLFY Curious what others are seeing in their domains.
 
-22h ago
+23h ago
 
 ---
 
@@ -61,7 +61,7 @@ Ran a real-world test this week: Gemma 3 12B vs paid frontier models across actu
 
 **[Simple Machine Learning Testing Tools Guide](https://www.reddit.com/r/artificial/comments/1qwbjhx/simple_machine_learning_testing_tools_guide/)**
 
-🔗 [aivolut.com](https://aivolut.com/blog/simple-machine-learning-testing-tools-guide/) • 9h ago
+🔗 [aivolut.com](https://aivolut.com/blog/simple-machine-learning-testing-tools-guide/) • 10h ago
 
 ---
 
@@ -101,7 +101,7 @@ I found this argument interesting. If US allows Nvidia to do business with China
 
 SpaceX's acquisition of xAI signals a bold push to merge artificial intelligence with space infrastructure at an unprecedented scale.
 
-🔗 [Interesting Engineering](https://interestingengineering.com/culture/elon-musk-merges-spacex-and-xai) • 1d ago
+🔗 [Interesting Engineering](https://interestingengineering.com/culture/elon-musk-merges-spacex-and-xai) • 2d ago
 
 ---
 
@@ -121,7 +121,7 @@ Yann Lecun recently shared that a cat is smarter than ChatGPT and that we are ne
 
 Women in rural communities describe trauma of moderating violent and pornographic content for global tech companies
 
-The Guardian • 2h ago
+The Guardian • 3h ago
 
 ---
 
@@ -129,13 +129,13 @@ The Guardian • 2h ago
 
 Anthropic just launched a new AI tool that could replace dozens of software tools. And Wall Street is panicked.
 
-cnn.com • 20h ago
+cnn.com • 21h ago
 
 ---
 
 **[OpenAI Unveils Platform to Help Companies Deploy ‘AI Coworkers’](https://www.bloomberg.com/news/articles/2026-02-05/openai-unveils-platform-to-help-companies-deploy-ai-coworkers)**
 
-Bloomberg • 26m ago
+Bloomberg • 1h ago
 
 ---
 
@@ -143,19 +143,19 @@ Bloomberg • 26m ago
 
 OpenAI is stepping up its push into enterprise services as rivals gain ground.
 
-Axios • 25m ago
+Axios • 1h ago
 
 ---
 
 **[OpenAI Unveils Frontier, a Product for Building ‘AI Co-Workers’](https://www.wsj.com/articles/openai-unveils-frontier-a-product-for-building-ai-co-workers-a013784c?gaa_at=eafs&gaa_n=AWEtsqcMGHN8NShLAE_C4pKNGoGIV24OX2y9IhbYEnxWLFPyGZ7RQ5hJyQ3j&gaa_ts=6984abf3&gaa_sig=lPvrhNrssKeQl5MSZUd1Jmz-PWpxsOYHVBgtaWYDZ1-yO5oP2RpA63iiIuVQN22Fgc0CeQO5et9oH8AnK8qrwQ%3D%3D)**
 
-The Wall Street Journal • 26m ago
+The Wall Street Journal • 1h ago
 
 ---
 
 **[New York legislation requires disclosure on AI-generated performers in advertising and strengthens post-mortem publicity rights](https://www.reuters.com/legal/legalindustry/new-york-legislation-requires-disclosure-ai-generated-performers-advertising--pracin-2026-02-05/)**
 
-Reuters • 20m ago
+Reuters • 1h ago
 
 ---
 
@@ -163,7 +163,7 @@ Reuters • 20m ago
 
 Wolfe Research's $115 price target implies upside of more than 25% for shares of Zoom Communications.
 
-CNBC • 46m ago
+CNBC • 1h ago
 
 ---
 
@@ -171,7 +171,7 @@ CNBC • 46m ago
 
 Signs of its effects are already starting to peek through
 
-Financial Times • 9h ago
+Financial Times • 10h ago
 
 ---
 
@@ -179,13 +179,13 @@ Financial Times • 9h ago
 
 The search giant's proposed capex spend for 2026 exceeds that of its hyperscalers peers.
 
-CNBC • 13h ago
+CNBC • 14h ago
 
 ---
 
 **[Google Leans Hard Into Its AI-Winner Status](https://www.wsj.com/tech/ai/google-leans-hard-into-its-ai-winner-status-6111835e?gaa_at=eafs&gaa_n=AWEtsqcjgsfy-aFsvEsMh8DjD_cMn0DhPVHbaPMXPIMlMjplswGVaN3mdIvw&gaa_ts=6984abf3&gaa_sig=TVKikOC36tzVsWh7_DbQeZ3IjEmTkhn8AeNE9YUvBe844hQRLD-NaRZD7tEbENHrsCCM0ybGY5cQMc9CyRivgQ%3D%3D)**
 
-The Wall Street Journal • 3h ago
+The Wall Street Journal • 4h ago
 
 ---
 
@@ -197,7 +197,7 @@ The Wall Street Journal • 3h ago
 
 SaaS is the most profitable business model on Earth.1 It’s easy to understand why: build once, sell the same thing again ad infinitum, and don’t suffer any marginal costs on more sales. I have been writing software for more than half my life. In the last year itself, I’ve talked to hundreds of founders and operators in SF, from preseed to Series E companies. AI is bringing an existential threat to a lot of B2B SaaS executives: How to keep asking customers for renewal, when every customer feels they can get something better built with vibe-coded AI products? And the market is pricing it in. Morgan Stanley’s SaaS basket has lagged the Nasdaq by 40 points since December. HubSpot and Klaviyo are down ~30%. Analysts are writing notes titled “No Reasons to Own” software stocks. The market is reflecting our new reality (Source: Bloomberg) Whenever I bring a new friend to the Salesforce Park, they are in absolute awe. And, the meme remains true that no one even knows what Salesforce does. Whatever they’re doing, they’re clearly earning enough revenue to purchase multiple blocks in SF. ↩
 
-⬆️ 399 • 💬 623 • 21h ago • [N’s Blog](https://nmn.gl/blog/ai-killing-b2b-saas)
+⬆️ 399 • 💬 623 • 22h ago • [N’s Blog](https://nmn.gl/blog/ai-killing-b2b-saas)
 
 ---
 
@@ -279,7 +279,7 @@ Palantir CTO Shyam Sankar explains how Americans can leverage the use of AI, how
 
 📺 Fox Business
 
-👁️ 27K • 👍 518 • 💬 200 • ⏱️ 4:22 • 18h ago
+👁️ 27K • 👍 518 • 💬 200 • ⏱️ 4:22 • 19h ago
 
 ---
 
@@ -299,7 +299,7 @@ Want to make money and save time with AI? Get AI Coaching, Support & Courses ...
 
 📺 Julian Goldie SEO
 
-👁️ 875 • 👍 26 • 💬 6 • ⏱️ 8:53 • 5h ago
+👁️ 875 • 👍 26 • 💬 6 • ⏱️ 8:53 • 6h ago
 
 ---
 
@@ -369,7 +369,7 @@ Learn 50+ Years of Economics in Only 7 Weeks, by applying here: https://www.stev
 
 📺 ProfSteveKeen
 
-👁️ 36K • 👍 2K • 💬 328 • ⏱️ 13:16 • 19h ago
+👁️ 36K • 👍 2K • 💬 328 • ⏱️ 13:16 • 20h ago
 
 ---
 
@@ -385,7 +385,7 @@ Kimi K2.5 is a native multimodal agentic model with 1T parameters, excelling in 
 
 `image-text-to-text` `170.7B`
 
-⬇️ 202,615 • ❤️ 1,713 • 10h ago
+⬇️ 202,615 • ❤️ 1,713 • 11h ago
 
 ---
 
@@ -443,7 +443,7 @@ MiniCPM-o 4.5 is a 9B parameter multimodal LLM excelling in vision, speech, and 
 
 `any-to-any` `9.4B`
 
-⬇️ 1,002 • ❤️ 388 • 8h ago
+⬇️ 1,002 • ❤️ 388 • 9h ago
 
 ---
 
@@ -637,7 +637,7 @@ Browser automation CLI for AI agents
 
 `TypeScript`
 
-⭐ 12.7k • 🔱 722 • 7h ago
+⭐ 12.7k • 🔱 722 • 8h ago
 
 ---
 
@@ -647,7 +647,7 @@ AI → JSON → UI
 
 `TypeScript`
 
-⭐ 10.0k • 🔱 536 • 3h ago
+⭐ 10.0k • 🔱 536 • 4h ago
 
 ---
 
@@ -657,7 +657,7 @@ LLM驱动的 A/H/美股智能分析器，多数据源行情 + 实时新闻 + Gem
 
 `Python` `agent` `ai` `aigc` `gemini` `llm`
 
-⭐ 9.5k • 🔱 10.0k • 1h ago
+⭐ 9.5k • 🔱 10.0k • 2h ago
 
 ---
 
@@ -677,7 +677,7 @@ The Ultimate Collection of 600+ Agentic Skills for Claude Code/Antigravity/Curso
 
 `Python` `agentic-skills` `ai-agents` `antigravity` `autonomous-coding` `claude-code`
 
-⭐ 7.3k • 🔱 1.5k • 5h ago
+⭐ 7.3k • 🔱 1.5k • 6h ago
 
 ---
 
