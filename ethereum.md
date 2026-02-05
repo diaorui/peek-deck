@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-02-05T17:25:38.867225+00:00'
+updated: '2026-02-05T18:11:09.816215+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- news
-- cryptocurrency
 - social
 - videos
+- news
+- cryptocurrency
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** February 05, 2026 at 17:25 UTC  
+**Last Updated:** February 05, 2026 at 18:11 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -72,7 +72,7 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-11h ago
+12h ago
 
 ---
 
@@ -80,7 +80,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 I think if validators don't start earning at least 5% per year, then the price of ethereum will not be stable there.
 
-17m ago
+1h ago
 
 ---
 
@@ -134,7 +134,7 @@ I’d like a more technical and realistic analysis of Ethereum and how things ar
 
 **[Reframing Layer 2s: spectrum of trust models instead of “Ethereum scaling”](https://www.reddit.com/r/ethereum/comments/1qw043z/reframing_layer_2s_spectrum_of_trust_models/)**
 
-20h ago
+21h ago
 
 ---
 
@@ -142,7 +142,7 @@ I’d like a more technical and realistic analysis of Ethereum and how things ar
 
 Hi there, I was recently approached by someone who wanted to buy some of my digital artwork as NFT's using Ethereum, they seem to be legitimate and I have been very careful checking things out. I know very little about crypto and so far after watching several videos and an hours worth of Google searching I feel non the wiser! Is anyone here able to point me in the direction of a VERY beginner friendly guide to setting up an Ethereum wallet and turning that currency back into national currency? Thanks for any advice you guys can offer!
 
-22h ago
+23h ago
 
 ---
 
@@ -152,7 +152,7 @@ Hi there, I was recently approached by someone who wanted to buy some of my digi
 
 **[Bitcoin, XRP, Ethereum Drop. Why Cryptos Are Under Pressure Today.](https://www.barrons.com/articles/bitcoin-xrp-ethereum-cryptos-gold-9051820f?gaa_at=eafs&gaa_n=AWEtsqdsN5PqlZUG9uVjGTRos9Ejq119E7sOPhZFBpgc5Vi7uOtSNH43k9ez&gaa_ts=6984d58f&gaa_sig=1TIt2B3Ot5joENuBcH8S4yrsmYNXbeRArgdqOP5OvG6XnCfbsKm03t9AeWzYboi7kEOM8Zzef0pouBeqBRZMGA%3D%3D)**
 
-Barron's • 19h ago
+Barron's • 20h ago
 
 ---
 
@@ -168,7 +168,7 @@ The Motley Fool • 1d ago
 
 A leaked pitch to reshape Ethereum’s leadership exposed deep divisions over politics, power and Ether’s static price
 
-The Guardian • 2h ago
+The Guardian • 3h ago
 
 ---
 
@@ -184,7 +184,7 @@ CoinDesk • 1d ago
 
 Despite the mounting loss, the Ethereum treasury firm says it's under no pressure to sell as ETH price crashes and its stock tumbles.
 
-CoinDesk • 3m ago
+CoinDesk • 49m ago
 
 ---
 
@@ -198,7 +198,7 @@ Binance • 1d ago
 
 Why crypto is falling? Bitcoin price tests $70K, XRP below $1.40, ETH at $2,068. $775M liquidated as Fed hawkishness and institutional outflows hammer markets.
 
-Finance Magnates • 6h ago
+Finance Magnates • 7h ago
 
 ---
 
@@ -212,7 +212,7 @@ Nasdaq • 1d ago
 
 **[Ethereum Falls 10% In Bearish Trade](https://www.investing.com/news/cryptocurrency-news/ethereum-falls-10-in-bearish-trade-4488338)**
 
-Investing.com • 1h ago
+Investing.com • 2h ago
 
 ---
 
@@ -220,7 +220,7 @@ Investing.com • 1h ago
 
 Ethereum remains under heavy pressure, struggling to hold above the $2,300 level as selling dominates across the broader crypto market. After weeks of weakening structure, price action has failed to attract sustained demand, prompting many analysts to warn that further downside may still lie ahead…
 
-TradingView • 10h ago
+TradingView • 11h ago
 
 ---
 
@@ -244,7 +244,7 @@ Join Premium: https://the-bitcoin-strategy.com My Chart Software: https://the-bi
 
 📺 Gerhard - Bitcoin Strategy
 
-👁️ 4K • 👍 173 • 💬 62 • ⏱️ 9:49 • 8h ago
+👁️ 4K • 👍 173 • 💬 62 • ⏱️ 9:49 • 9h ago
 
 ---
 
@@ -254,7 +254,7 @@ This video provides a professional Elliott Wave and technical analysis of Ethere
 
 📺 More Crypto Online
 
-👁️ 2K • 👍 216 • 💬 12 • ⏱️ 4:35 • 4h ago
+👁️ 2K • 👍 216 • 💬 12 • ⏱️ 4:35 • 5h ago
 
 ---
 
@@ -264,7 +264,7 @@ BITCOIN CRASH TODAY: It's Finally Happening (Urgent)!!! - Bitcoin News Today, Et
 
 📺 Crypto World
 
-👁️ 4K • 👍 264 • 💬 123 • ⏱️ 24:32 • 2h ago
+👁️ 4K • 👍 264 • 💬 123 • ⏱️ 24:32 • 3h ago
 
 ---
 
@@ -274,7 +274,7 @@ Im certain that no one saw this coming. Ethereum might be in a more different sp
 
 📺 The Modern Investor
 
-👁️ 5K • 👍 605 • 💬 383 • ⏱️ 25:12 • 5h ago
+👁️ 5K • 👍 605 • 💬 383 • ⏱️ 25:12 • 6h ago
 
 ---
 
@@ -294,7 +294,7 @@ FREE TRAINING: https://www.bullmania.com EXCHANGES I USE (bybit, pionex): https:
 
 📺 Ivan on Tech
 
-👁️ 22K • 👍 1K • 💬 130 • ⏱️ 47:11 • 21h ago
+👁️ 22K • 👍 1K • 💬 130 • ⏱️ 47:11 • 22h ago
 
 ---
 
@@ -304,7 +304,7 @@ ETHEREUM ETH PRICE PREDICTION 2026 Join the Premium Signal Group for trade setup
 
 📺 Cilinix Crypto
 
-👁️ 323 • 👍 15 • 💬 99 • ⏱️ 4:37 • 7h ago
+👁️ 323 • 👍 15 • 💬 99 • ⏱️ 4:37 • 8h ago
 
 ---
 
@@ -324,7 +324,7 @@ I told you price had to test the lows before moving back up. BTC, ETH, SOL — a
 
 📺 Davinci Jeremie
 
-👁️ 10K • 👍 454 • 💬 149 • ⏱️ 8:24 • 23h ago
+👁️ 10K • 👍 454 • 💬 149 • ⏱️ 8:24 • 1d ago
 
 ---
 

@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-02-05T17:25:38.861216+00:00'
+updated: '2026-02-05T18:11:09.810997+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- news
-- cryptocurrency
 - social
 - videos
+- news
+- cryptocurrency
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** February 05, 2026 at 17:25 UTC  
+**Last Updated:** February 05, 2026 at 18:11 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -79,7 +79,7 @@ Rank #1
 
 **[Buy Signal?](https://www.reddit.com/r/Bitcoin/comments/1qwm2j1/buy_signal/)**
 
-3h ago
+4h ago
 
 ---
 
@@ -87,7 +87,7 @@ Rank #1
 
 This is my 3rd bear market so far. These are the things that I learned the hard way. -BTC will always go lower than you think it will. - leverage is not bad if you only use 10% or less of your stack and are willing to cough up another 10% to not get liquidated. - there are relief rallies along the way down. Just ignore them and please don’t buy into them. - pick up a hobby like running, swimming, maybe even traveling. This helps clear the cortisol and reduce stress. It works. -Don’t listen to social media, X, or your favorite YouTuber. Everyone at this moment is wrong and knows absolutely nothing. Instead enjoy art, food, family time, fitness, music, movies. -Remember why you invested in Bitcoin in the first place. This is not a 2,5,10 year investment, I plan to leave my coinage to my children I’m thinking 50-60 years. -Remember to buy what you can when you can at new 52 week lows. It might still fall lower but at least you didn’t buy into tops or fake outs. - move in silence. Hope this helps. I’m stacking from $80k down. My first buy was $4,000 and I have bought all the way up to $110,000. I take out BTC backed loans and use margin. It’s scary but don’t let greed take over have a plan write it down and stick to it. Don’t allow the little voice in your head to act on greed just be smart and everything will work out.
 
-2h ago
+3h ago
 
 ---
 
@@ -95,7 +95,7 @@ This is my 3rd bear market so far. These are the things that I learned the hard 
 
 Entered the market today with a Bitcoin purchase worth $28K at a price of $69K. While short-term volatility and minor corrections are always part of the journey, I remain confident in the broader structure and long-term strength of Bitcoin. Even if the market retraces slightly, I don’t anticipate any significant drop below the $53K zone. This phase is about smart accumulation, patience, and conviction rather than reacting to every small movement. Opportunities like this are meant to be taken, not watched from the sidelines. Staying focused on the long-term vision, holding through the noise, and trusting the process. Strong hands, clear strategy, and zero panic. Holding steady for what’s ahead. HODL.
 
-3h ago
+4h ago
 
 ---
 
@@ -103,7 +103,7 @@ Entered the market today with a Bitcoin purchase worth $28K at a price of $69K. 
 
 No, you wouldn’t. Markets like this are a reminder that 99% of people wouldn’t have had the fortitude to hold through the dips from $900 to $200, from $20k to $3k, from $60k to $16k, and so on. If you genuinely believe BTC is destined to become a leading store of value, then you should be thrilled that your DCA currently secures you more sats on each purchase.
 
-9h ago
+10h ago
 
 ---
 
@@ -111,7 +111,7 @@ No, you wouldn’t. Markets like this are a reminder that 99% of people wouldn�
 
 This is my first cycle. I started dca since early 2023 and didn't stop until it reaches 100k+. I managed to accumulate a bit bitcoin and I'm happy I kept dca in the past three years. But man these recent dumps are so painful. Every time open the account is a smaller number. My pnl still positive but it soon will turn red if any more dumps. I understand the vision and plan to hold it long term. But with that much on stake, with the next bull run seems so far away, I have to admit I'm weak. So I'm sincerely asking you who went through the pain before, how does that feel and how did you hodl through those tough days, so I can prepare myself. Thank you very much.
 
-8h ago
+9h ago
 
 ---
 
@@ -119,7 +119,7 @@ This is my first cycle. I started dca since early 2023 and didn't stop until it 
 
 Next dip buy will be 55k. lol. Who else is buying?
 
-1h ago
+2h ago
 
 ---
 
@@ -143,7 +143,7 @@ Btc is melting down sooooo bad What you guys up to ? Holding or already sold?
 
 I got into Bitcoin 6 months ago when it was at 108k. I was looking at the charts from previous years and I was kicking myself for not having been in earlier, at the beginning of the cycle. I told myself I would go "all-in" on the next real dip. And here we are! My mortgage refinancing was coming due this month. I took the opportunity to pull out 100k and invested it in BTC at 73.5k. To be continued in 10 years to see if I regret the move... Everything between now and then is just noise
 
-16h ago
+17h ago
 
 ---
 
@@ -151,7 +151,7 @@ I got into Bitcoin 6 months ago when it was at 108k. I was looking at the charts
 
 AND IM STILL BUYING
 
-13h ago
+14h ago
 
 ---
 
@@ -163,7 +163,7 @@ AND IM STILL BUYING
 
 Bitcoin is acting weird. The world’s most famous cryptocurrency has tumbled 44% from its October peak, falling below $70,000 Thursday for the first time in 15 months.
 
-CNN • 3h ago
+CNN • 4h ago
 
 ---
 
@@ -171,13 +171,13 @@ CNN • 3h ago
 
 Bitcoin sank after Treasury Secretary Bessent said banks would not bail out crypto.
 
-Yahoo Finance • 5h ago
+Yahoo Finance • 6h ago
 
 ---
 
 **[Strategy’s sinking stock puts the policy of ‘don’t ever sell your bitcoin’ to the test](https://www.marketwatch.com/story/strategys-sinking-stock-puts-the-policy-of-dont-ever-sell-your-bitcoin-to-the-test-fde478ea?gaa_at=eafs&gaa_n=AWEtsqelKCgZ7qjx1NBGnQuCykgvXQvmQKjDj_MAPk4kQ2SspCGUtAC9Koah&gaa_ts=6984d58c&gaa_sig=GtaePA4Rkg5L3OEMdBePeHgAvBRJB5PgJQOGl2oT8aoI9nxJhYcIIvjTCdkWgY1K0la9VFe8X3acGrRTcfXkuA%3D%3D)**
 
-MarketWatch • 20m ago
+MarketWatch • 1h ago
 
 ---
 
@@ -185,7 +185,7 @@ MarketWatch • 20m ago
 
 TMZ and an Arizona news outlet reported receiving the ransom letter.
 
-Fortune • 22h ago
+Fortune • 23h ago
 
 ---
 
@@ -193,7 +193,7 @@ Fortune • 22h ago
 
 The search for 84-year-old Nancy Guthrie has escalated after TMZ reported receiving an alleged ransom note demanding millions in Bitcoin, complete with a deadline, threats of harm, and a verified wallet address.
 
-Bitcoin Magazine • 20h ago
+Bitcoin Magazine • 21h ago
 
 ---
 
@@ -231,7 +231,7 @@ PYMNTS.com • 8h ago
 
 Wall Street is looking to Amazon with high hopes after a rough week in tech, as silver plunges again and bitcoin drops toward $70,000.
 
-Yahoo Finance • 35m ago
+Yahoo Finance • 1h ago
 
 ---
 
@@ -241,7 +241,7 @@ Yahoo Finance • 35m ago
 
 **[Bitcoin Looks Set for Longest Monthly Losing Streak Since 2018](https://news.ycombinator.com/item?id=46838644)**
 
-⬆️ 70 • 💬 84 • 4d ago • [bloomberg.com](https://www.bloomberg.com/news/articles/2026-01-30/bitcoin-btc-slides-toward-longest-monthly-losing-streak-since-2018)
+⬆️ 70 • 💬 84 • 5d ago • [bloomberg.com](https://www.bloomberg.com/news/articles/2026-01-30/bitcoin-btc-slides-toward-longest-monthly-losing-streak-since-2018)
 
 ---
 
@@ -321,7 +321,7 @@ Why is bitcoin crashing right now? The total crypto market value fell to about $
 
 📺 Ricky Gutierrez
 
-👁️ 23K • 👍 722 • 💬 296 • ⏱️ 12:35 • 13h ago
+👁️ 23K • 👍 722 • 💬 296 • ⏱️ 12:35 • 14h ago
 
 ---
 
@@ -331,7 +331,7 @@ Today, let's examine Bitcoin's charts and metrics, as well as the latest Macro a
 
 📺 CryptosRUs
 
-👁️ 14K • 👍 1K • 💬 564 • ⏱️ 1:05:23 • 1h ago
+👁️ 14K • 👍 1K • 💬 564 • ⏱️ 1:05:23 • 2h ago
 
 ---
 
@@ -341,7 +341,7 @@ https://democratizedprime.pxf.io/c/2406113/3755092/37696 Enter to win $25k USDC 
 
 📺 Aaron Bennett
 
-👁️ 16K • 👍 942 • 💬 737 • ⏱️ 13:47 • 6h ago
+👁️ 16K • 👍 942 • 💬 737 • ⏱️ 13:47 • 7h ago
 
 ---
 
@@ -351,7 +351,7 @@ Make Free Predictions on *ClashPicks* ▻ https://www.clashpicks.com/ Follow Cla
 
 📺 CryptosRUs
 
-👁️ 42K • 👍 2K • 💬 1K • ⏱️ 10:36 • 14h ago
+👁️ 42K • 👍 2K • 💬 1K • ⏱️ 10:36 • 15h ago
 
 ---
 
@@ -361,7 +361,7 @@ Crypto “hoarding” strategies are under pressure as Bitcoin dips below key le
 
 📺 Valuetainment
 
-👁️ 25K • 👍 1K • 💬 543 • ⏱️ 15:37 • 1h ago
+👁️ 25K • 👍 1K • 💬 543 • ⏱️ 15:37 • 2h ago
 
 ---
 
@@ -371,7 +371,7 @@ Raoul Pal reveals why Bitcoin is trading at a massive discount to global liquidi
 
 📺 Money Talks
 
-👁️ 21K • 👍 329 • 💬 308 • ⏱️ 9:50 • 22h ago
+👁️ 21K • 👍 329 • 💬 308 • ⏱️ 9:50 • 23h ago
 
 ---
 
@@ -381,7 +381,7 @@ Bitcoin capitulation, alts rekt, stocks danger, here's what you need to know! Su
 
 📺 Lark Davis
 
-👁️ 9K • 👍 583 • 💬 176 • ⏱️ 17:48 • 4h ago
+👁️ 9K • 👍 583 • 💬 176 • ⏱️ 17:48 • 5h ago
 
 ---
 
@@ -391,7 +391,7 @@ CNBC's MacKenzie Sigalos reports on the latest in the bitcoin sell-off.
 
 📺 CNBC Television
 
-👁️ 38K • 👍 411 • 💬 109 • ⏱️ 1:42 • 17h ago
+👁️ 38K • 👍 411 • 💬 109 • ⏱️ 1:42 • 18h ago
 
 ---
 
@@ -401,7 +401,7 @@ Nick Valdez checks some very encouraging sign on when the Bitcoin bear market ma
 
 📺 Discover Crypto
 
-👁️ 16K • 👍 560 • 💬 555 • ⏱️ 4:00 • 17h ago
+👁️ 16K • 👍 560 • 💬 555 • ⏱️ 4:00 • 18h ago
 
 ---
 
@@ -411,7 +411,7 @@ Bitcoin is in freefall. After a devastating 45% drop from the $126000 all-time h
 
 📺 Discover Crypto
 
-👁️ 7K • 👍 464 • 💬 4 • ⏱️ 1:26:20 • 21m ago
+👁️ 7K • 👍 464 • 💬 4 • ⏱️ 1:26:20 • 1h ago
 
 ---
 

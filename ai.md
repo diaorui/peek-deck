@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-02-05T17:25:38.852494+00:00'
+updated: '2026-02-05T18:11:09.803520+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- news
-- repositories
 - social
 - videos
+- news
+- repositories
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** February 05, 2026 at 17:25 UTC  
+**Last Updated:** February 05, 2026 at 18:11 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -41,7 +41,7 @@ AI news, discussions, and developments
 
 Women in rural communities describe trauma of moderating violent and pornographic content for global tech companies
 
-🔗 [the Guardian](https://www.theguardian.com/global-development/2026/feb/05/in-the-end-you-feel-blank-indias-female-workers-watching-hours-of-abusive-content-to-train-ai) • 6h ago
+🔗 [the Guardian](https://www.theguardian.com/global-development/2026/feb/05/in-the-end-you-feel-blank-indias-female-workers-watching-hours-of-abusive-content-to-train-ai) • 7h ago
 
 ---
 
@@ -49,7 +49,7 @@ Women in rural communities describe trauma of moderating violent and pornographi
 
 I ran a small real-world test today with two kids (ages 8 and 11) using a long-running AI story world I’ve been experimenting with. Instead of one-shot story generation, the system maintains a persistent world state where choices carry over and shape future events. I let them pick the setting — they chose a Minecraft × Harry Potter mashup where they play wizards trying to defeat the Ender Dragon. One thing that made a huge difference: I used their real names as the characters, and the story started in their actual school. The engine generated story text and illustrations each round. They made all the choices. After about 10 rounds, they were constantly laughing, debating which option to pick, and building on each other’s ideas. It felt much more like co-creating a world than listening to a story. When I told them it was bedtime, they didn’t want to stop. They kept asking what would happen next. A few observations that surprised me: Personalization seemed to matter more than anything else. Once it became their world, emotional investment was instant. Although I designed it as a single-player experience, co-play emerged naturally. The shared decision-making and social dynamic massively increased engagement. Both ages stayed fully engaged the whole time. I expected the younger one to drop off sooner, but the persistent world kept them both hooked. One issue I noticed: my “re-immersion” mechanic (an in-world character emotionally reconnecting players after breaks instead of a dry recap) triggered too frequently between consecutive rounds. The repetition was noticeable. This looks like a simple trigger tuning problem (should probably only fire after longer gaps). What I haven’t tested yet: – Whether kids can reconnect naturally after a real multi-hour break – Whether they can retell the story in a coherent way – Whether they’ll come back unprompted the next day The earlier stress tests showed that constraint mechanisms help keep long-running narratives technically coherent. What this small user test suggests is that coherence itself isn’t what kids consciously care about — but it seems to be the infrastructure that makes personalization, consequence, and agency feel real. Curious if others working on long-horizon agents, narrative systems, or co-creative AI have seen similar effects around personalization and persistence.
 
-1h ago
+2h ago
 
 ---
 
@@ -57,7 +57,7 @@ I ran a small real-world test today with two kids (ages 8 and 11) using a long-r
 
 On Rentahuman.ai, AI agents can hire people for real-world tasks, from holding signs to picking up packages. It sounds absurd, but it shows what happens when language models stop just talking and start taking action.
 
-🔗 [The Decoder](https://the-decoder.com/a-new-platform-lets-ai-agents-pay-humans-to-do-the-real-world-work-they-cant/) • 1h ago
+🔗 [The Decoder](https://the-decoder.com/a-new-platform-lets-ai-agents-pay-humans-to-do-the-real-world-work-they-cant/) • 2h ago
 
 ---
 
@@ -77,7 +77,7 @@ Ran a real-world test this week: Gemma 3 12B vs paid frontier models across actu
 
 **[Simple Machine Learning Testing Tools Guide](https://www.reddit.com/r/artificial/comments/1qwbjhx/simple_machine_learning_testing_tools_guide/)**
 
-🔗 [aivolut.com](https://aivolut.com/blog/simple-machine-learning-testing-tools-guide/) • 12h ago
+🔗 [aivolut.com](https://aivolut.com/blog/simple-machine-learning-testing-tools-guide/) • 13h ago
 
 ---
 
@@ -121,13 +121,13 @@ I found this argument interesting. If US allows Nvidia to do business with China
 
 OpenAI Frontier is an enterprise platform for building, deploying, and managing AI agents with shared context, onboarding, permissions, and governance.
 
-OpenAI • 9h ago
+OpenAI • 10h ago
 
 ---
 
 **[Google Leans Hard Into Its AI-Winner Status](https://www.wsj.com/tech/ai/google-leans-hard-into-its-ai-winner-status-6111835e?gaa_at=eafs&gaa_n=AWEtsqdLh3U62TQW_Q5czQDPc-KUBr66zKa2LHCX8rSL9MVtukVLMVOrjQBc&gaa_ts=6984d5f9&gaa_sig=XRrVIiSbyWSQwIK0tr1nlcwlFHbcTWtQ453JX3LYM9FDfPo-URG6rESN57vhOu6wOjcQQAKpaXxR5Hfb7MYy8g%3D%3D)**
 
-The Wall Street Journal • 6h ago
+The Wall Street Journal • 7h ago
 
 ---
 
@@ -135,7 +135,7 @@ The Wall Street Journal • 6h ago
 
 Most institutional investors say AI is a key part of their investment research process.
 
-Axios • 30m ago
+Axios • 1h ago
 
 ---
 
@@ -143,7 +143,7 @@ Axios • 30m ago
 
 US stocks were lower Thursday, continuing a recent patch of volatility, as Wall Street grappled with persistent nerves about artificial intelligence and economic data showed the labor market weakened over the past two months.
 
-CNN • 1h ago
+CNN • 2h ago
 
 ---
 
@@ -151,7 +151,7 @@ CNN • 1h ago
 
 Financial markets tumbled Feb. 5 on fears about AI and the economy.
 
-USA Today • 26m ago
+USA Today • 1h ago
 
 ---
 
@@ -159,7 +159,7 @@ USA Today • 26m ago
 
 A new message board for artificial intelligence agents has prompted some strange conversations, and existential questions about the inner lives of bots.
 
-NPR • 20h ago
+NPR • 21h ago
 
 ---
 
@@ -167,7 +167,7 @@ NPR • 20h ago
 
 The search giant's proposed capex spend for 2026 exceeds that of its hyperscalers peers.
 
-CNBC • 16h ago
+CNBC • 17h ago
 
 ---
 
@@ -189,7 +189,7 @@ The Guardian • 2h ago
 
 Major League Baseball players have agreed to let a tech company create AI characters of themselves that can chat and interact with fans.
 
-ESPN • 1h ago
+ESPN • 2h ago
 
 ---
 
@@ -241,7 +241,7 @@ The marketplace where AI agents rent humans. MCP integration, REST API, flexible
 
 We’re expanding Game Arena with Poker and Werewolf, while Gemini 3 Pro and Flash top our chess leaderboard.
 
-⬆️ 132 • 💬 54 • 2d ago • [Google](https://blog.google/innovation-and-ai/models-and-research/google-deepmind/kaggle-game-arena-updates/)
+⬆️ 132 • 💬 54 • 3d ago • [Google](https://blog.google/innovation-and-ai/models-and-research/google-deepmind/kaggle-game-arena-updates/)
 
 ---
 
@@ -249,7 +249,7 @@ We’re expanding Game Arena with Poker and Werewolf, while Gemini 3 Pro and Fla
 
 Like many developers, I find myself more and more using AI agents to help with software development.  I currently use Claude Code, the co...
 
-⬆️ 115 • 💬 67 • 1d ago • [Senko Rašić](https://blog.senko.net/sandboxing-ai-agents-in-linux)
+⬆️ 115 • 💬 67 • 2d ago • [Senko Rašić](https://blog.senko.net/sandboxing-ai-agents-in-linux)
 
 ---
 
@@ -293,7 +293,7 @@ Palantir CTO Shyam Sankar explains how Americans can leverage the use of AI, how
 
 📺 Fox Business
 
-👁️ 29K • 👍 567 • 💬 210 • ⏱️ 4:22 • 21h ago
+👁️ 29K • 👍 567 • 💬 210 • ⏱️ 4:22 • 22h ago
 
 ---
 
@@ -303,7 +303,7 @@ Want to make money and save time with AI? Get AI Coaching, Support & Courses ...
 
 📺 Julian Goldie SEO
 
-👁️ 2K • 👍 47 • 💬 7 • ⏱️ 8:53 • 8h ago
+👁️ 2K • 👍 47 • 💬 7 • ⏱️ 8:53 • 9h ago
 
 ---
 
@@ -331,7 +331,7 @@ Go to https://sintra.ai/intech or use code INTECH to get an exclusive 72% off al
 
 📺 AI Lukman Musa
 
-👁️ 21K • 👍 5K • 💬 317 • ⏱️ 18:50 • 2h ago
+👁️ 21K • 👍 5K • 💬 317 • ⏱️ 18:50 • 3h ago
 
 ---
 
@@ -341,7 +341,7 @@ AI Cinematic Magic, Hollywood Style. Steal my $100M filmmaking playbook for AI i
 
 📺 The AI Filmmaking Advantage
 
-👁️ 4K • 👍 118 • 💬 27 • ⏱️ 2:28 • 15h ago
+👁️ 4K • 👍 118 • 💬 27 • ⏱️ 2:28 • 16h ago
 
 ---
 
@@ -351,7 +351,7 @@ In this video, I break down how to use Grok as a system for real time research, 
 
 📺 Parker Prompts
 
-👁️ 7K • 💬 8 • ⏱️ 6:08 • 3h ago
+👁️ 7K • 💬 8 • ⏱️ 6:08 • 4h ago
 
 ---
 
@@ -361,7 +361,7 @@ Monkey steals food to feed his two hungry babies #ai #baby #monkey.
 
 📺 MrMonkeyBoy
 
-👁️ 488K • 👍 8K • 💬 12 • ⏱️ 0:39 • 4h ago
+👁️ 488K • 👍 8K • 💬 12 • ⏱️ 0:39 • 5h ago
 
 ---
 
@@ -387,7 +387,7 @@ Kimi K2.5 is a native multimodal agentic model with 1T parameters, excelling in 
 
 `image-text-to-text` `170.7B`
 
-⬇️ 202,615 • ❤️ 1,727 • 13h ago
+⬇️ 202,615 • ❤️ 1,727 • 14h ago
 
 ---
 
@@ -423,7 +423,7 @@ Step 3.5 Flash is an efficient, open-source MoE foundation model (11B active par
 
 `text-generation` `199.4B`
 
-⬇️ 8,686 • ❤️ 441 • 6h ago
+⬇️ 8,686 • ❤️ 441 • 7h ago
 
 ---
 
@@ -445,7 +445,7 @@ MiniCPM-o 4.5 is a 9B parameter multimodal LLM excelling in vision, speech, and 
 
 `any-to-any` `9.4B`
 
-⬇️ 1,002 • ❤️ 396 • 20m ago
+⬇️ 1,002 • ❤️ 396 • 1h ago
 
 ---
 
@@ -491,7 +491,7 @@ PaddleOCR-VL-1.5 is a multilingual Vision-Language Model (VLM) built on ERNIE 4.
 
 Voxtral-Mini-4B-Realtime-2602 is a 4B-parameter, multilingual speech-to-text model offering near-offline accuracy with <500ms latency. It features a streaming architecture for real-time applications like voice assistants and live subtitling, optimized for on-device deployment.
 
-⬇️ 477 • ❤️ 242 • 7h ago
+⬇️ 477 • ❤️ 242 • 8h ago
 
 ---
 
@@ -637,7 +637,7 @@ Browser automation CLI for AI agents
 
 `TypeScript`
 
-⭐ 12.7k • 🔱 722 • 10h ago
+⭐ 12.7k • 🔱 722 • 11h ago
 
 ---
 
@@ -657,7 +657,7 @@ LLM驱动的 A/H/美股智能分析器，多数据源行情 + 实时新闻 + Gem
 
 `Python` `agent` `ai` `aigc` `gemini` `llm`
 
-⭐ 9.6k • 🔱 10.0k • 4h ago
+⭐ 9.6k • 🔱 10.0k • 5h ago
 
 ---
 
@@ -677,7 +677,7 @@ The Ultimate Collection of 600+ Agentic Skills for Claude Code/Antigravity/Curso
 
 `Python` `agentic-skills` `ai-agents` `antigravity` `autonomous-coding` `claude-code`
 
-⭐ 7.3k • 🔱 1.6k • 8h ago
+⭐ 7.3k • 🔱 1.6k • 9h ago
 
 ---
 
