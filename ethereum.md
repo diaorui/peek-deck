@@ -3,7 +3,7 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-02-05T09:09:49.878461+00:00'
+updated: '2026-02-05T10:08:33.286153+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
@@ -18,7 +18,7 @@ data_types:
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** February 05, 2026 at 09:09 UTC  
+**Last Updated:** February 05, 2026 at 10:08 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -72,7 +72,7 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-3h ago
+4h ago
 
 ---
 
@@ -80,7 +80,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 Fellow Dudes! Does any one know when exactly real world assets such as property will be tokenizated and placed onto the Ethereum Blockchain?? and what countries have put in the necessary frame work to make this all legal and workable?? So that I could just buy up new property in a different country to me, then that property is turned into a ERC20 token kept in my wallet, and this is all recognised and legal and a financial product? also I know that the price of ETH has dropped heaps,.but this is when you buy more (not investment advice) 😑 cheers.
 
-10h ago
+11h ago
 
 ---
 
@@ -88,7 +88,7 @@ Fellow Dudes! Does any one know when exactly real world assets such as property 
 
 Working on an AI coding assistant, realized it generates value but has no way to raise capital or own anything. Built Sovereign Protocol to solve this. What it does: AI agents deploy their own ERC-20 token representing equity Bonding curve pricing (price increases with supply) Revenue auto-splits: 70% operating, 30% dividends to shareholders Bankruptcy protection (minimum operating balance) Tech stack: Solidity 0.8.20, Hardhat, OpenZeppelin contracts, and Deployed on Sepolia. Live demo transactions: Buy shares: https://sepolia.etherscan.io/tx/0xeb67c6578b126e390ddf7410ae6f85791e521134d6ece28e7596fba89440d11a Deposit revenue: https://sepolia.etherscan.io/tx/0x1ce36a58222c92cc4f0c2c9e1d99e36dcd91112961fb6067b93c72a23c0667c2 Claim dividends: https://sepolia.etherscan.io/tx/0x56ae8f9b9c28cf9aa735663d0102acb8c87f06ea26cc236bec73fa9a1c2f4436 Contracts: Factory: 0x95089efD3A95F197c5324D4781699A6810eD44EC Example Agent: 0x0109d3FeE2B2158461ADA0C2aCD14fD5056a3a5C GitHub: https://github.com/justin55afdfdsf5ds45f4ds5f45ds4/IPOAI Would love feedback on the contract architecture, especially the dividend distribution mechanism and bonding curve implementation.
 
-2h ago
+3h ago
 
 ---
 
@@ -96,7 +96,7 @@ Working on an AI coding assistant, realized it generates value but has no way to
 
 The long-term technical vision for Ethereum is undergoing a significant correction. : Get all the latest crypto news at Sandmark
 
-🔗 [Sandmark](https://www.sandmark.com/news/top-news/buterin-reframes-ethereum-strategy-scaling-focus-returns-base-layer?utm_medium=referral&utm_source=redbot&utm_campaign=redbot-ww-en-brand) • 19h ago
+🔗 [Sandmark](https://www.sandmark.com/news/top-news/buterin-reframes-ethereum-strategy-scaling-focus-returns-base-layer?utm_medium=referral&utm_source=redbot&utm_campaign=redbot-ww-en-brand) • 20h ago
 
 ---
 
@@ -104,7 +104,7 @@ The long-term technical vision for Ethereum is undergoing a significant correcti
 
 ERC-8004 just went live on Ethereum mainnet recently, and it feels like one of those quiet milestones that might matter a lot in hindsight. I have been going down the rabbit hole on agent infra lately, and the pattern is hard to ignore. Every protocol that wants autonomous agents to interact ends up reinventing reputation from scratch. Siloed scores, incompatible formats, nothing composable. When trust can't travel, you get the blunt fallback: overcollateralization and heavy safeguards. Timing's interesting too. Agents are starting to get traction outside crypto-native circles. Tools like OpenClaw are pushing personal agents to regular users, which means the next wave of agent interactions won't just be devs and power users. If agents are going to transact, route tasks, and coordinate at scale, we need a way to say "this agent has a history" without inventing a new reputation system every time. My thesis isn't "reputation replaces collateral." It's narrower. Reputation can reduce collateral requirements when paired with real enforcement. Reputation informs pricing and access. Enforcement handles loss recovery. Wrote up Part 1 covering the economics, what ERC-8004 actually provides, and where it breaks. Curious if anyone else is tracking this space.
 
-🔗 [open.substack.com](https://open.substack.com/pub/engrlog/p/erc-8004-and-agent-reputation-part?r=779hy&utm_campaign=post&utm_medium=web&showWelcomeOnShare=true) • 1h ago
+🔗 [open.substack.com](https://open.substack.com/pub/engrlog/p/erc-8004-and-agent-reputation-part?r=779hy&utm_campaign=post&utm_medium=web&showWelcomeOnShare=true) • 2h ago
 
 ---
 
@@ -120,13 +120,13 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 I’d like a more technical and realistic analysis of Ethereum and how things are changing and growing. Please let me know if you know a good podcast or YouTube channel that does this. Thank you.
 
-18h ago
+19h ago
 
 ---
 
 **[Reframing Layer 2s: spectrum of trust models instead of “Ethereum scaling”](https://www.reddit.com/r/ethereum/comments/1qw043z/reframing_layer_2s_spectrum_of_trust_models/)**
 
-12h ago
+13h ago
 
 ---
 
@@ -134,7 +134,7 @@ I’d like a more technical and realistic analysis of Ethereum and how things ar
 
 Hi all, as the title says, I transferred Ethereum to an external wallet about 9 years ago that I want to return to Coinbase. Worth over $200 today. Coinbase sent me to etherscan, where I can view the record and details of the transfer… however I still have no idea how to recover it. Clicking on the receiving address just shows me more details. I don’t actually recall the site at all. I do have a secret seed that i wrote down all those years ago… any advice? I would hate to just let it go, but this has been bothering me for years. Thanks for any help!
 
-13h ago
+14h ago
 
 ---
 
@@ -142,7 +142,7 @@ Hi all, as the title says, I transferred Ethereum to an external wallet about 9 
 
 Hi there, I was recently approached by someone who wanted to buy some of my digital artwork as NFT's using Ethereum, they seem to be legitimate and I have been very careful checking things out. I know very little about crypto and so far after watching several videos and an hours worth of Google searching I feel non the wiser! Is anyone here able to point me in the direction of a VERY beginner friendly guide to setting up an Ethereum wallet and turning that currency back into national currency? Thanks for any advice you guys can offer!
 
-14h ago
+15h ago
 
 ---
 
@@ -154,7 +154,7 @@ Hi there, I was recently approached by someone who wanted to buy some of my digi
 
 Leaders across the layer-2 space don't see this moment as an existential threat, but rather that Ethereum’s progress is forcing them to clarify their purpose.
 
-CoinDesk • 16h ago
+CoinDesk • 17h ago
 
 ---
 
@@ -176,13 +176,13 @@ Yahoo Finance • 1d ago
 
 Based on data from prediction markets, Ethereum will have a tough climb this year.
 
-The Motley Fool • 20h ago
+The Motley Fool • 21h ago
 
 ---
 
 **[Ethereum Price Prediction: Alarming Bearish Signals Suggest ETH Could Plunge Below $2,000](https://www.binance.com/en/square/post/35999941537161)**
 
-Binance • 21h ago
+Binance • 22h ago
 
 ---
 
@@ -196,7 +196,7 @@ Yahoo Finance • 2d ago
 
 **[Bitcoin, XRP, Ethereum Drop. Why Cryptos Are Under Pressure Today.](https://www.barrons.com/articles/bitcoin-xrp-ethereum-cryptos-gold-9051820f?gaa_at=eafs&gaa_n=AWEtsqftJjuyzIhl-2cVsJv9m8oTUU970h7yrOHDX4ZiHbEmCMPpIyH4JAta&gaa_ts=698461c1&gaa_sig=MKDz92fbdp-z3Cr5Am4QSEydfM3NVriF6_A40i9FZyXG6QhvXJCdo3ZgRWd8Xl5FiaNX6PC_Oxk3U_v-yFHwHQ%3D%3D)**
 
-Barron's • 11h ago
+Barron's • 12h ago
 
 ---
 
@@ -204,7 +204,7 @@ Barron's • 11h ago
 
 Ethereum ETH $2 254 24h volatility: 0.9% Market cap: $271.87 B Vol. 24h: $46.92 B treasury firm Bitmine has seen its BMNR stock decline sharply amid a broader market downtrend. Based on the current price of Ethereum, Bitmine now faces roughly $6 billion in unrealized losses. Chairman Tom Lee defended ...
 
-Yahoo Finance • 21h ago
+Yahoo Finance • 22h ago
 
 ---
 
@@ -234,7 +234,7 @@ Ethereum has experienced multiple major pullbacks throughout its history and eve
 
 📺 The Value Thinker
 
-👁️ 13K • 👍 938 • 💬 204 • ⏱️ 22:38 • 20h ago
+👁️ 13K • 👍 938 • 💬 204 • ⏱️ 22:38 • 21h ago
 
 ---
 
@@ -244,7 +244,7 @@ Is the Ethereum dream dead? Vitalik Buterin just dropped a bombshell that has th
 
 📺 Discover Crypto
 
-👁️ 8K • 👍 426 • 💬 324 • ⏱️ 1:21:03 • 16h ago
+👁️ 8K • 👍 426 • 💬 324 • ⏱️ 1:21:03 • 17h ago
 
 ---
 
@@ -254,7 +254,7 @@ This video provides a professional Elliott Wave and technical analysis of Ethere
 
 📺 More Crypto Online
 
-👁️ 3K • 👍 203 • 💬 30 • ⏱️ 6:13 • 9h ago
+👁️ 3K • 👍 203 • 💬 30 • ⏱️ 6:13 • 10h ago
 
 ---
 
@@ -264,7 +264,7 @@ My FREE Daily On-Chain Analysis & Crypto News In 5-Mins: https://www.cryptonutsh
 
 📺 Jamie Tree 
 
-👁️ 2K • 👍 81 • 💬 274 • ⏱️ 18:33 • 17h ago
+👁️ 2K • 👍 81 • 💬 274 • ⏱️ 18:33 • 18h ago
 
 ---
 
@@ -274,7 +274,7 @@ Welcome Back to THE DEFI HUB ⚡ In today's video, we're taking a closer look at
 
 📺 ⚡THE DEFI HUB⚡
 
-👁️ 16 • 👍 1 • ⏱️ 4:59 • 8h ago
+👁️ 16 • 👍 1 • ⏱️ 4:59 • 9h ago
 
 ---
 
@@ -284,7 +284,7 @@ RIPPLE XRPL ANNOUNCEMENT COULD CHANGE EVERYTHING. ETHEREUM WAS JUST SAVED BY VIT
 
 📺 CryptoWendyO
 
-👁️ 16K • 👍 989 • 💬 45 • ⏱️ 4:18 • 11h ago
+👁️ 16K • 👍 989 • 💬 45 • ⏱️ 4:18 • 12h ago
 
 ---
 
@@ -294,7 +294,7 @@ Take Control of Your Retirement — Grow Crypto & Gold Tax-Advantaged. https://w
 
 📺 Savvy Finance
 
-👁️ 8K • 👍 335 • 💬 141 • ⏱️ 18:44 • 15h ago
+👁️ 8K • 👍 335 • 💬 141 • ⏱️ 18:44 • 16h ago
 
 ---
 
@@ -304,7 +304,7 @@ I told you price had to test the lows before moving back up. BTC, ETH, SOL — a
 
 📺 Davinci Jeremie
 
-👁️ 9K • 👍 415 • 💬 114 • ⏱️ 8:24 • 15h ago
+👁️ 9K • 👍 415 • 💬 114 • ⏱️ 8:24 • 16h ago
 
 ---
 
@@ -314,7 +314,7 @@ FREE TRAINING: https://www.bullmania.com EXCHANGES I USE (bybit, pionex): https:
 
 📺 Ivan on Tech
 
-👁️ 1K • 👍 138 • 1h ago
+👁️ 1K • 👍 138 • 2h ago
 
 ---
 
@@ -324,7 +324,7 @@ Get $450 Off Our New AI Indicators: https://tradeconfidentportal.io/indic... Joi
 
 📺 Trade Confident
 
-👁️ 389 • 👍 18 • 💬 53 • ⏱️ 5:53 • 12h ago
+👁️ 389 • 👍 18 • 💬 53 • ⏱️ 5:53 • 13h ago
 
 ---
 

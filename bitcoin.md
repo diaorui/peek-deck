@@ -3,7 +3,7 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-02-05T09:09:49.872507+00:00'
+updated: '2026-02-05T10:08:33.280004+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
@@ -18,7 +18,7 @@ data_types:
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** February 05, 2026 at 09:09 UTC  
+**Last Updated:** February 05, 2026 at 10:08 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -81,7 +81,7 @@ Rank #1
 
 AND IM STILL BUYING
 
-5h ago
+6h ago
 
 ---
 
@@ -89,7 +89,7 @@ AND IM STILL BUYING
 
 Yes, BTC has fallen around 40% from its all time high. But do you know what else has fallen even further? The US Dollar! Since 1980, the purchasing power of $1 USD has fallen by 74.55% Yet unlike BTC, there is never a new ATH, never a time in the future where $1 USD will buy you more than it did 4 years prior. To anyone who thinks BTC is “dead” because of a temporary fall in value, ask yourself this, what is endless quantitative easing and money printing doing to the value of your fiat money? There is a fixed 21 million BTC cap, there will never be a cap on how many dollars are in circulation…
 
-6h ago
+7h ago
 
 ---
 
@@ -97,19 +97,19 @@ Yes, BTC has fallen around 40% from its all time high. But do you know what else
 
 I got into Bitcoin 6 months ago when it was at 108k. I was looking at the charts from previous years and I was kicking myself for not having been in earlier, at the beginning of the cycle. I told myself I would go "all-in" on the next real dip. And here we are! My mortgage refinancing was coming due this month. I took the opportunity to pull out 100k and invested it in BTC at 73.5k. To be continued in 10 years to see if I regret the move... Everything between now and then is just noise
 
-8h ago
+9h ago
 
 ---
 
 **[I'm not fucking selling](https://www.reddit.com/r/Bitcoin/comments/1qvtn6n/im_not_fucking_selling/)**
 
-16h ago
+17h ago
 
 ---
 
 **[These dips are a blessing, it just gives a chance to buy more](https://www.reddit.com/r/Bitcoin/comments/1qvwqgs/these_dips_are_a_blessing_it_just_gives_a_chance/)**
 
-14h ago
+15h ago
 
 ---
 
@@ -117,7 +117,7 @@ I got into Bitcoin 6 months ago when it was at 108k. I was looking at the charts
 
 Bitcoin ponzi finally dead now. With this post I've completed the ritual.
 
-16h ago
+17h ago
 
 ---
 
@@ -125,7 +125,7 @@ Bitcoin ponzi finally dead now. With this post I've completed the ritual.
 
 No, you wouldn’t. Markets like this are a reminder that 99% of people wouldn’t have had the fortitude to hold through the dips from $900 to $200, from $20k to $3k, from $60k to $16k, and so on. If you genuinely believe BTC is destined to become a leading store of value, then you should be thrilled that your DCA currently secures you more sats on each purchase.
 
-1h ago
+2h ago
 
 ---
 
@@ -133,7 +133,7 @@ No, you wouldn’t. Markets like this are a reminder that 99% of people wouldn�
 
 I've never seen this sub get this freaked out, or is it just me?
 
-4h ago
+5h ago
 
 ---
 
@@ -141,7 +141,7 @@ I've never seen this sub get this freaked out, or is it just me?
 
 It’s really that easy.
 
-4h ago
+5h ago
 
 ---
 
@@ -149,7 +149,7 @@ It’s really that easy.
 
 I mean chill out. If you are not homeless and have a job to cover your rent it's not a big deal. Like why is everyone suddenly giving me vibes of the The Great Depression. I mean like come on there is not an asset like btc that will ever exist. In case it wouldn't be volatile, all the Warren Buffet fanboys would have already bought their fair share. I feel like people should chill out more like I personally feel the whole year has been black Friday so far. And I don't really care what politicians do, BTC is decentralized.... Legal Disclaimer: No investment Advice!
 
-10h ago
+11h ago
 
 ---
 
@@ -161,7 +161,7 @@ I mean chill out. If you are not homeless and have a job to cover your rent it's
 
 The world’s largest cryptocurrency is extending a downward spiral that has seen it shed more than 42% from its peak in October last year.  Bitcoin fell as low as $71,540 in Asia trading Thursday.  “The market is currently navigating a ‘crisis of faith,’” said Shiliang Tang, managing partner of Monarq Asset Management.
 
-Yahoo Finance • 6h ago
+Yahoo Finance • 7h ago
 
 ---
 
@@ -169,7 +169,7 @@ Yahoo Finance • 6h ago
 
 Shares have retreated in Asia on heavy selling of technology stocks, while the price of bitcoin fell as much as 8%
 
-ABC News • 33m ago
+ABC News • 1h ago
 
 ---
 
@@ -177,7 +177,7 @@ ABC News • 33m ago
 
 US Senator Brad Sherman asked Treasury Secretary Scott Bessent if the government would “bail out Bitcoin.”  A confused Bessent said he didn’t have the power to instruct banks to buy crypto.  Democrats have criticised the new administration’s pro-crypto policies.
 
-dlnews.com • 12h ago
+dlnews.com • 13h ago
 
 ---
 
@@ -185,7 +185,7 @@ dlnews.com • 12h ago
 
 Bitcoin sank after Treasury Secretary Bessent said banks would not bail out crypto.
 
-Yahoo Finance • 13h ago
+Yahoo Finance • 14h ago
 
 ---
 
@@ -193,7 +193,7 @@ Yahoo Finance • 13h ago
 
 As bitcoin's (BTC-USD) price continues to fall, Treasury Secretary Scott Bessent had a heated back-and-forth with Congressman Brad Sherman (D-CA) during a House Financial Services Committee hearing about the possibility of a bailout for the cryptocurrency.
 
-Yahoo Finance • 16h ago
+Yahoo Finance • 17h ago
 
 ---
 
@@ -201,7 +201,7 @@ Yahoo Finance • 16h ago
 
 The world's most popular cryptocurrency has fallen nearly 20 percent in value since the start of 2026.
 
-Al Jazeera • 3h ago
+Al Jazeera • 4h ago
 
 ---
 
@@ -219,13 +219,13 @@ Barron's • 2d ago
 
 **[Bitcoin, XRP, Ethereum Drop. Why Cryptos Are Under Pressure Today.](https://www.barrons.com/articles/bitcoin-xrp-ethereum-cryptos-gold-9051820f?gaa_at=eafs&gaa_n=AWEtsqeuP34ssY-Cb4hVxBEP2d-ROv-TbJ3w5kP6jlNidArSHX59XOsTIzrQ&gaa_ts=698461bf&gaa_sig=_Qxqj9pIljjt6-_oGRLHvxWeg3Lo0sJBGlXo5vkxN7EsUFJibEkfqWKvRIPWM3jTavuMnxRgJfetQCccJy5ITQ%3D%3D)**
 
-Barron's • 11h ago
+Barron's • 12h ago
 
 ---
 
 **[If you want to get me a birthday gift, buy some bitcoin for yourself.](https://x.com/saylor/status/2019043884152840596)**
 
-x.com • 19h ago
+x.com • 20h ago
 
 ---
 
@@ -251,7 +251,7 @@ Crypto treasury companies quietly crept into index funds and retirement accounts
 
 Bitcoin behaves more like an "ATM" during uncertain times, with investors quickly selling it to raise cash.
 
-⬆️ 4 • 💬 0 • 16h ago • [coindesk.com](https://www.coindesk.com/markets/2026/01/24/here-s-why-bitcoin-s-is-failing-its-role-as-a-safe-haven-versus-gold)
+⬆️ 4 • 💬 0 • 17h ago • [coindesk.com](https://www.coindesk.com/markets/2026/01/24/here-s-why-bitcoin-s-is-failing-its-role-as-a-safe-haven-versus-gold)
 
 ---
 
@@ -259,7 +259,7 @@ Bitcoin behaves more like an "ATM" during uncertain times, with investors quickl
 
 453+ bitcoin treasuries. 3.94M BTC+ BTC tracked on-chain. From Shrimp to Sovereign.
 
-⬆️ 4 • 💬 0 • 20h ago • [bitcoincompanies.co](https://bitcoincompanies.co/)
+⬆️ 4 • 💬 0 • 21h ago • [bitcoincompanies.co](https://bitcoincompanies.co/)
 
 ---
 
@@ -273,7 +273,7 @@ Cryptocurrency markets fell as global equities and precious metals sold off whil
 
 **[Show HN: GrahamBell – This is what Bitcoin mining looked like in 2009](https://news.ycombinator.com/item?id=46885212)**
 
-⬆️ 2 • 💬 0 • 20h ago
+⬆️ 2 • 💬 0 • 21h ago
 
 ---
 
@@ -315,7 +315,7 @@ Why is bitcoin crashing right now? The total crypto market value fell to about $
 
 📺 Ricky Gutierrez
 
-👁️ 11K • 👍 512 • 💬 197 • ⏱️ 12:35 • 5h ago
+👁️ 11K • 👍 512 • 💬 197 • ⏱️ 12:35 • 6h ago
 
 ---
 
@@ -325,7 +325,7 @@ Make Free Predictions on *ClashPicks* ▻ https://www.clashpicks.com/ Follow Cla
 
 📺 CryptosRUs
 
-👁️ 29K • 👍 1K • 💬 487 • ⏱️ 10:36 • 6h ago
+👁️ 29K • 👍 1K • 💬 487 • ⏱️ 10:36 • 7h ago
 
 ---
 
@@ -335,7 +335,7 @@ Raoul Pal reveals why Bitcoin is trading at a massive discount to global liquidi
 
 📺 Money Talks
 
-👁️ 15K • 👍 273 • 💬 265 • ⏱️ 9:50 • 14h ago
+👁️ 15K • 👍 273 • 💬 265 • ⏱️ 9:50 • 15h ago
 
 ---
 
@@ -345,7 +345,7 @@ Let's talk about Bitcoin and the current crash. Into The Cryptoverse Premium (Us
 
 📺 Benjamin Cowen
 
-👁️ 27K • 👍 3K • 💬 312 • ⏱️ 23:49 • 3h ago
+👁️ 27K • 👍 3K • 💬 312 • ⏱️ 23:49 • 4h ago
 
 ---
 
@@ -355,7 +355,7 @@ CNBC's MacKenzie Sigalos reports on the latest in the bitcoin sell-off.
 
 📺 CNBC Television
 
-👁️ 22K • 👍 221 • 💬 66 • ⏱️ 1:42 • 9h ago
+👁️ 22K • 👍 221 • 💬 66 • ⏱️ 1:42 • 10h ago
 
 ---
 
@@ -365,7 +365,7 @@ Jeff Park is a Partner & Chief Investment Officer at ProCap Financial. In this c
 
 📺 Anthony Pompliano
 
-👁️ 43K • 👍 2K • 💬 46 • ⏱️ 37:08 • 11h ago
+👁️ 43K • 👍 2K • 💬 46 • ⏱️ 37:08 • 12h ago
 
 ---
 
@@ -375,7 +375,7 @@ Bitcoin dumped as the Epstein files hit and the reaction exposed more than just 
 
 📺 Simply Bitcoin
 
-👁️ 25K • 👍 2K • 💬 339 • ⏱️ 23:22 • 9h ago
+👁️ 25K • 👍 2K • 💬 339 • ⏱️ 23:22 • 10h ago
 
 ---
 
@@ -405,7 +405,7 @@ Bitcoin bottom signal might be flashing right now. Bitwise CIO Matt Hougan sugge
 
 📺 CryptosRus Extra
 
-👁️ 4K • 👍 192 • 💬 164 • ⏱️ 8:52 • 8h ago
+👁️ 4K • 👍 192 • 💬 164 • ⏱️ 8:52 • 9h ago
 
 ---
 
