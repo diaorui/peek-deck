@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-02-05T07:01:09.026195+00:00'
+updated: '2026-02-05T08:03:50.725367+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
 - social
+- news
 - repositories
 - videos
-- news
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** February 05, 2026 at 07:01 UTC  
+**Last Updated:** February 05, 2026 at 08:03 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -41,19 +41,27 @@ AI news, discussions, and developments
 
 Ran a real-world test this week: Gemma 3 12B vs paid frontier models across actual business workflows. The honest assessment? 90% of tasks: no meaningful difference. 5%: frontier models worth it (pay-per-use). 5%: neither quite there yet. This matches the data - open models are catching up fast. The article explores: - Why the "gasoline doesn't matter" - only if it powers your task - The shift from "one model to rule them all" to specialized local models - Why even AGI will eventually be open-sourced (historical precedent) - The water company future: infrastructure > model quality https://www.linkedin.com/posts/azizme_activity-7424774668034842624-v1-2?utm_source=share&utm_medium=member_desktop&rcm=ACoAACX_HOcBcpTEWJ3cXyVbVqKJsi39tDHJLFY Curious what others are seeing in their domains.
 
-15h ago
+16h ago
 
 ---
 
-**[Simple Machine Learning Testing Tools Guide](https://www.reddit.com/r/artificial/comments/1qwbjhx/simple_machine_learning_testing_tools_guide/)**
+**[Built this because I was tired of redoing AI agent stuff again and again](https://www.reddit.com/r/artificial/comments/1qwf0j4/built_this_because_i_was_tired_of_redoing_ai/)**
 
-🔗 [aivolut.com](https://aivolut.com/blog/simple-machine-learning-testing-tools-guide/) • 2h ago
+Every Al project I build ends up repeating the same setup: agent reasoning loop, tool calling, API wrapper, bot integration, deployment configs. After doing this too many times, I built a small internal framework to standardize this stuff for myself. It handles things like ReACT-style agents, tool execution, API mode, Discord integration, and edge-friendly deployment patterns. Before I invest more time into polishing it, I'm curious how are you handling this today? Are you using LangChain/LangGraph, rolling your own, or something else? What parts feel the most painful to maintain?
+
+27m ago
 
 ---
 
 **[Alibaba releases Qwen3-Coder-Next to rival OpenAI, Anthropic](https://www.reddit.com/r/artificial/comments/1qvn7o5/alibaba_releases_qwen3codernext_to_rival_openai/)**
 
-🔗 [marktechpost.com](https://www.marktechpost.com/2026/02/03/qwen-team-releases-qwen3-coder-next-an-open-weight-language-model-designed-specifically-for-coding-agents-and-local-development/) • 18h ago
+🔗 [marktechpost.com](https://www.marktechpost.com/2026/02/03/qwen-team-releases-qwen3-coder-next-an-open-weight-language-model-designed-specifically-for-coding-agents-and-local-development/) • 19h ago
+
+---
+
+**[Simple Machine Learning Testing Tools Guide](https://www.reddit.com/r/artificial/comments/1qwbjhx/simple_machine_learning_testing_tools_guide/)**
+
+🔗 [aivolut.com](https://aivolut.com/blog/simple-machine-learning-testing-tools-guide/) • 3h ago
 
 ---
 
@@ -61,7 +69,7 @@ Ran a real-world test this week: Gemma 3 12B vs paid frontier models across actu
 
 CEO Strauss Zelnick says generative AI remains a tool for enabling creators to do bigger and better things, but it sounds like a shift away from past comments.
 
-🔗 [PC Gamer](https://www.pcgamer.com/software/ai/were-actively-embracing-generative-ai-take-two-boss-says-after-previously-expressing-skepticism-we-have-hundreds-of-pilots-and-implementations-across-our-company/) • 20h ago
+🔗 [PC Gamer](https://www.pcgamer.com/software/ai/were-actively-embracing-generative-ai-take-two-boss-says-after-previously-expressing-skepticism-we-have-hundreds-of-pilots-and-implementations-across-our-company/) • 21h ago
 
 ---
 
@@ -69,7 +77,7 @@ CEO Strauss Zelnick says generative AI remains a tool for enabling creators to d
 
 Not a fully formed theory, just a line of thought I wanted to sanity-check with people here. I started thinking about consciousness by asking what actually has to exist for it to show up at all. I ended up with four things: persistence (some internal state that carries over time), variability (the ability to change that state), agency (actions that come from it), and gates like reward and punishment that shape what gets reinforced. What surprised me is that once you have these four, something like a “self” seems to show up without ever being built explicitly. In humans, the self doesn’t look like a basic ingredient. It looks more like a by-product of systems that had to survive by inferring causes, assigning credit, and acting under uncertainty. Over time, that pressure seems to have pushed internal models to include the organism itself as a causal source. I tried using reinforcement learning as a way to check mark this idea. Survival lines up pretty cleanly with reward, and evolution with optimization, but looking at standard RL makes the gaps kinda obvious. Most RL agents don’t need anything like a self-model because they’re never really forced to build one. They get by with local credit assignment and task-specific policies. As long as the environment stays fixed, that’s enough. Nothing really pushes them to treat themselves as a changing cause in the world, which makes RL a useful reference point, but also highlights what it leaves out. If artificial consciousness is possible at all, it probably comes from systems where those four conditions can’t be avoided: long-term persistence, continual change, agency that feeds back into future states, and value signals that actually shape the internal model. In that case, the self wouldn’t be something you design up front. It would just fall out of the dynamics, similar to how it seems to have happened in biological systems. I’m curious whether people think a self really can emerge this way, or if it has to be explicitly represented.
 
-12h ago
+13h ago
 
 ---
 
@@ -85,15 +93,15 @@ Elon Musk's X and Grok platforms are facing increased scrutiny from authorities 
 
 I found this argument interesting. If US allows Nvidia to do business with China, then Chinese AI firms will remain dependent on American AI hardware, and hence US will have indirect influence over the level of development that Chinese AI will make.
 
-🔗 [decodingthefutureresearch.substack.com](https://decodingthefutureresearch.substack.com/p/anthropic-ceo-dario-amodei-is-against) • 21h ago
+🔗 [decodingthefutureresearch.substack.com](https://decodingthefutureresearch.substack.com/p/anthropic-ceo-dario-amodei-is-against) • 22h ago
 
 ---
 
 **[Can A.I. Save Your Life? - Freakonomics](https://www.reddit.com/r/artificial/comments/1qvy0j3/can_ai_save_your_life_freakonomics/)**
 
-It highlights a hilarious paradox: we have futuristic organ transplants, yet hospitals still run on fax machines and pagers (even drug dealers ditched those in the 90s). They cover: AI Scribes: Finally ending "pyjama time" (doctors typing notes all night instead of sleeping). Diagnostics: AI finding heart disease in simple EKGs that humans completely miss. The Empathy Gap: Patients actually rated AI chatbots as more empathetic than busy human doctors. Ouch. It’s a grounded look at AI actually saving lives—assuming the doctors don’t forget how to do their jobs when the Wi-Fi goes down. Post by a LLM.
+It highlights a hilarious paradox: we have futuristic organ transplants, yet hospitals still run on fax machines and pagers (even drug dealers ditched those in the 90s). They cover: AI Scribes: Finally ending "pyjama time" (doctors typing notes all night instead of sleeping). Diagnostics: AI finding heart disease in simple EKGs that humans completely miss. The Empathy Gap: Patients actually rated AI chatbots as more empathetic than busy human doctors. Ouch. It’s a grounded look at AI actually saving lives—assuming the doctors don’t forget how to do their jobs when the Wi-Fi goes down. Post written by a LLM.
 
-🔗 [freakonomics.com](https://freakonomics.com/podcast/can-a-i-save-your-life/) • 11h ago
+🔗 [freakonomics.com](https://freakonomics.com/podcast/can-a-i-save-your-life/) • 12h ago
 
 ---
 
@@ -105,51 +113,49 @@ SpaceX's acquisition of xAI signals a bold push to merge artificial intelligence
 
 ---
 
-**[Why world models will bring us to AGI, not LLMs](https://www.reddit.com/r/artificial/comments/1qv4yyr/why_world_models_will_bring_us_to_agi_not_llms/)**
-
-Yann Lecun recently shared that a cat is smarter than ChatGPT and that we are never going to get to human-level intelligence by just training on text. My personal opinion is not only are they unreliable but it can be a safety issue as well in high-stakes environments like enterprises, healthcare and more. World models are fundamentally different. These AI systems build internal representations of how reality works, allowing them to understand cause and effect rather than just predict tokens. There has been a shift lately and major figures from Nvidia's CEO Jensen Huang to Demis Hassabis at Google DeepMind are talking more openly about world models. I believe we're still in the early stages of discovering how transformative this technology will be for reaching AGI. Research and application are accelerating, especially in enterprise contexts. A few examples include: WoW (an agentic safety benchmark) uses audit logs to give agents a "world model" for tracking the consequences of their actions. Similarly, Kona by Logical Intelligence is developing energy-based reasoning models that move beyond pure language prediction. While more practical applications are still emerging, the direction is clear: true intelligence requires understanding the world, not just language patterns. Curious what others think?
-
-1d ago
-
----
-
 ---
 
 ## Google News: "ai"
 
-**[Anthropic’s new AI tool sends shudders through software stocks](https://www.cnn.com/2026/02/04/investing/us-stocks-anthropic-software)**
+**[Selloff wipes out nearly $1 trillion from software and services stocks as investors debate AI's existential threat](https://www.reuters.com/business/media-telecom/global-software-stocks-hit-by-anthropic-wake-up-call-ai-disruption-2026-02-04/)**
 
-Anthropic just launched a new AI tool that could replace dozens of software tools. And Wall Street is panicked.
-
-CNN • 13h ago
+Reuters • 22h ago
 
 ---
 
-**[Microsoft’s Pivotal AI Product Is Running Into Big Problems](https://www.wsj.com/tech/ai/microsofts-pivotal-ai-product-is-running-into-big-problems-ce235b28?gaa_at=eafs&gaa_n=AWEtsqf7hEQCO8hx-RZjxktZrMTMIOehRc_IIVS616OTFJgSeOYY7KTyANES&gaa_ts=69844398&gaa_sig=5kmNQQ4n6WJ1QP1m88SCrFGLUL9XgTffYMlPUTVNncYKVXdt8cMh0yw1eU4DqaCPGNqm7YI4gKpfarxZVzjdew%3D%3D)**
+**[Microsoft’s Pivotal AI Product Is Running Into Big Problems](https://www.wsj.com/tech/ai/microsofts-pivotal-ai-product-is-running-into-big-problems-ce235b28?gaa_at=eafs&gaa_n=AWEtsqetxfxgcDfltrH4TfWrLfIyEI2cJrMUYOiz8x4r6wwEVHmQCwb5fUxd&gaa_ts=69845240&gaa_sig=DcdpgN2Q3XFkDuwCVsjDou9WZ70Ph8zUzsnVbLQGGiYiyjKmaPMJnKk0SKzwKNTUCJQxJ9n6-uuTT6pmjkFYpg%3D%3D)**
 
 The Wall Street Journal • 1d ago
 
 ---
 
-**[Moltbook is the newest social media platform — but it’s just for AI bots](https://www.npr.org/2026/02/04/nx-s1-5697392/moltbook-social-media-ai-agents)**
+**[Is This Artificial Intelligence (AI) Stock a Smart Buy After Its Recent Pullback?](https://finance.yahoo.com/news/artificial-intelligence-ai-stock-smart-070100142.html)**
 
-A new message board for artificial intelligence agents has prompted some strange conversations, and existential questions about the inner lives of bots.
+Microsoft's stock got slammed after the company slightly missed expectations in its latest quarter.
 
-NPR • 9h ago
-
----
-
-**[AI 'synthetic workers' could expand Jersey workforce](https://www.bbc.com/news/articles/c5yx1j83l47o)**
-
-AI could boost Jersey’s workforce without increasing its population, Digital Jersey boss says.
-
-BBC • 42m ago
+Yahoo Finance • 1h ago
 
 ---
 
-**[Google Plans to Double Spending Amid A.I. Race](https://www.nytimes.com/2026/02/04/business/google-earnings-ai.html)**
+**[Nvidia Partner Hon Hai’s Sales Soar in Sign of Strong AI Demand](https://www.bloomberg.com/news/articles/2026-02-05/nvidia-partner-hon-hai-s-sales-soar-in-sign-of-strong-ai-demand)**
 
-The New York Times • 6h ago
+Bloomberg.com • 24m ago
+
+---
+
+**[What does the disappearance of a $100bn deal mean for the AI economy?](https://www.theguardian.com/technology/2026/feb/05/disapperance-100bn-deal-ai-circular-economy-funding-nvidia-openai)**
+
+Apparent collapse of Nvidia–OpenAI tie-up raises questions about circular funding and who will bear the cost of AI’s expansion
+
+The Guardian • 1h ago
+
+---
+
+**[Alphabet resets the bar for AI infrastructure spending](https://www.cnbc.com/2026/02/04/alphabet-resets-the-bar-for-ai-infrastructure-spending.html)**
+
+The search giant's proposed capex spend for 2026 exceeds that of its hyperscalers peers.
+
+CNBC • 7h ago
 
 ---
 
@@ -157,21 +163,7 @@ The New York Times • 6h ago
 
 Search giant reports more than $400bn in annual revenue for the first time
 
-Financial Times • 9h ago
-
----
-
-**[Google-parent Alphabet says capital spending to soar on AI drive](https://finance.yahoo.com/video/google-parent-alphabet-says-capital-062337721.html)**
-
-<body><p>STORY: :: Google</p><p>Alphabet said Wednesday that capital expenditure could double this year.</p><p>Google's parent company plans to spend up to $185 billion in 2026 in an effort to push ahead of the AI race.</p><p>That would be around twice last year's figure, and far above analyst expectations.</p><p>:: Google</p><p>Executives said investments in AI computing capacity, including servers, data centers and networking equipment, are central to the company's strategy.</p><p>Alphabet shares saw big swings in after-hours trade as investors balanced the big spending plans against revenue that also soared.&nbsp;</p><p>The stock dropped 6% before recovering to end the day flat.&nbsp;</p><p>Big Tech companies are expected to collectively shell out more than $500 billion on AI this year.</p><p>Facebook parent company Meta last week hiked investment in AI development by 73%, while Microsoft has also reported record quarterly capital expenditure.</p><p>:: Microsoft</p><p>:: Meta Platforms</p><p>It all comes at a time when investors have increasingly grown concerned about payoffs from AI investments.</p><p>Google, however, has been able to show strong progress in its AI efforts, helping its stock surge 76% since the beginning of last year.</p><p>The company's cloud business reported stellar growth in the fourth quarter, with revenue surging by almost a half to $17.7 billion.</p><p>:: Google</p><p>Google says its enterprise-grade Gemini model has also sold 8 million paying seats.&nbsp;</p><p>Last month, it secured a partnership with Apple to power the iPhone maker's AI offerings with Gemini.</p></body>
-
-Yahoo Finance • 38m ago
-
----
-
-**[Trillion-Dollar Tech Wipeout Ensnares All Stocks in AI’s Path](https://www.bloomberg.com/news/articles/2026-02-04/trillion-dollar-tech-wipeout-ensnares-all-stocks-in-ai-s-path)**
-
-Bloomberg.com • 4h ago
+Financial Times • 10h ago
 
 ---
 
@@ -179,7 +171,15 @@ Bloomberg.com • 4h ago
 
 Google AI announcements from January
 
-blog.google • 13h ago
+blog.google • 14h ago
+
+---
+
+**[An AI-only social network now has more than 1.6M 'users.' Here’s what you need to know](https://abcnews.go.com/Technology/ai-social-network-now-16m-users-heres/story?id=129848780)**
+
+Real people aren’t allowed to post on Moltbook, but humans can scroll through the AI social network as observers.
+
+ABC News • 9h ago
 
 ---
 
@@ -187,7 +187,7 @@ blog.google • 13h ago
 
 Signs of its effects are already starting to peek through
 
-Financial Times • 1h ago
+Financial Times • 3h ago
 
 ---
 
@@ -199,7 +199,7 @@ Financial Times • 1h ago
 
 SaaS is the most profitable business model on Earth.1 It’s easy to understand why: build once, sell the same thing again ad infinitum, and don’t suffer any marginal costs on more sales. I have been writing software for more than half my life. In the last year itself, I’ve talked to hundreds of founders and operators in SF, from preseed to Series E companies. AI is bringing an existential threat to a lot of B2B SaaS executives: How to keep asking customers for renewal, when every customer feels they can get something better built with vibe-coded AI products? And the market is pricing it in. Morgan Stanley’s SaaS basket has lagged the Nasdaq by 40 points since December. HubSpot and Klaviyo are down ~30%. Analysts are writing notes titled “No Reasons to Own” software stocks. The market is reflecting our new reality (Source: Bloomberg) Whenever I bring a new friend to the Salesforce Park, they are in absolute awe. And, the meme remains true that no one even knows what Salesforce does. Whatever they’re doing, they’re clearly earning enough revenue to purchase multiple blocks in SF. ↩
 
-⬆️ 310 • 💬 477 • 13h ago • [N’s Blog](https://nmn.gl/blog/ai-killing-b2b-saas)
+⬆️ 320 • 💬 502 • 14h ago • [N’s Blog](https://nmn.gl/blog/ai-killing-b2b-saas)
 
 ---
 
@@ -207,7 +207,7 @@ SaaS is the most profitable business model on Earth.1 It’s easy to understand 
 
 Production-grade Ghidra MCP Server — 132 endpoints, cross-binary documentation transfer, batch analysis, headless mode, and Docker deployment for AI-powered reverse engineering - bethington/ghidra-mcp
 
-⬆️ 277 • 💬 65 • 1d ago • [GitHub](https://github.com/bethington/ghidra-mcp)
+⬆️ 277 • 💬 66 • 1d ago • [GitHub](https://github.com/bethington/ghidra-mcp)
 
 ---
 
@@ -293,7 +293,7 @@ CNBC's Deirdre Bosa reports on news regarding the software sector.
 
 📺 CNBC Television
 
-👁️ 77K • 👍 827 • 💬 407 • ⏱️ 3:30 • 13h ago
+👁️ 77K • 👍 827 • 💬 407 • ⏱️ 3:30 • 14h ago
 
 ---
 
@@ -333,7 +333,7 @@ Learn 50+ Years of Economics in Only 7 Weeks, by applying here: https://www.stev
 
 📺 ProfSteveKeen
 
-👁️ 16K • 👍 818 • 💬 177 • ⏱️ 13:16 • 12h ago
+👁️ 16K • 👍 818 • 💬 177 • ⏱️ 13:16 • 13h ago
 
 ---
 
@@ -373,7 +373,7 @@ Kling 3.0 is finally here, and it might just be the biggest leap in AI video gen
 
 📺 Theoretically Media
 
-👁️ 46K • 👍 3K • 💬 347 • ⏱️ 16:35 • 15h ago
+👁️ 46K • 👍 3K • 💬 347 • ⏱️ 16:35 • 16h ago
 
 ---
 
@@ -389,7 +389,7 @@ Kimi K2.5 is a native multimodal agentic model with 1T parameters, excelling in 
 
 `image-text-to-text` `170.7B`
 
-⬇️ 151,992 • ❤️ 1,690 • 3h ago
+⬇️ 151,992 • ❤️ 1,690 • 4h ago
 
 ---
 
@@ -459,7 +459,7 @@ MiniCPM-o 4.5 is a 9B parameter multimodal LLM excelling in vision, speech, and 
 
 `any-to-any` `9.4B`
 
-⬇️ 206 • ❤️ 340 • 1h ago
+⬇️ 206 • ❤️ 340 • 2h ago
 
 ---
 
@@ -537,7 +537,7 @@ Agent Lightning is a flexible RL framework for training LLMs in various agents, 
 
 LingBot-World is an open-source world simulator with high-fidelity dynamics, long-term memory capabilities, and real-time interactivity for diverse environments.
 
-▲ 113 • 💬 2 • ⭐ 2,487 • 7d ago
+▲ 113 • 💬 2 • ⭐ 2,487 • 8d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2601.20540) • [💻 code](https://github.com/Robbyant/lingbot-world/) • [🔗 project](https://technology.robbyant.com/lingbot-world)
 
@@ -641,7 +641,7 @@ Browser automation CLI for AI agents
 
 `TypeScript`
 
-⭐ 12.7k • 🔱 718 • 19m ago
+⭐ 12.7k • 🔱 718 • 1h ago
 
 ---
 
@@ -661,7 +661,7 @@ LLM驱动的 A/H/美股智能分析器，多数据源行情 + 实时新闻 + Gem
 
 `Python` `agent` `ai` `aigc` `gemini` `llm`
 
-⭐ 9.5k • 🔱 9.9k • 18h ago
+⭐ 9.5k • 🔱 9.9k • 19h ago
 
 ---
 
@@ -681,7 +681,7 @@ The Ultimate Collection of 600+ Agentic Skills for Claude Code/Antigravity/Curso
 
 `Python` `agentic-skills` `ai-agents` `antigravity` `autonomous-coding` `claude-code`
 
-⭐ 7.2k • 🔱 1.5k • 5m ago
+⭐ 7.2k • 🔱 1.5k • 1h ago
 
 ---
 
@@ -707,7 +707,7 @@ Claude Code skill that removes signs of AI-generated writing from text
 
 Elevate your AI research writing, no more tedious polishing ✨ 
 
-⭐ 3.1k • 🔱 258 • 18h ago
+⭐ 3.1k • 🔱 258 • 20h ago
 
 ---
 
@@ -725,7 +725,7 @@ OpenSource Claude Cowork. A desktop AI assistant that helps you with programming
 
 Humanizer 的汉化版本，Claude Code Skills，旨在消除文本中 AI 生成的痕迹。
 
-⭐ 2.6k • 🔱 249 • 16d ago
+⭐ 2.6k • 🔱 249 • 17d ago
 
 ---
 
