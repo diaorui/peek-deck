@@ -3,14 +3,14 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-02-05T19:58:03.029191+00:00'
+updated: '2026-02-05T20:42:54.546705+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
 - news
-- videos
 - social
+- videos
 - repositories
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 AI news, discussions, and developments
 
-**Last Updated:** February 05, 2026 at 19:58 UTC  
+**Last Updated:** February 05, 2026 at 20:42 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -41,7 +41,7 @@ AI news, discussions, and developments
 
 Women in rural communities describe trauma of moderating violent and pornographic content for global tech companies
 
-🔗 [the Guardian](https://www.theguardian.com/global-development/2026/feb/05/in-the-end-you-feel-blank-indias-female-workers-watching-hours-of-abusive-content-to-train-ai) • 9h ago
+🔗 [the Guardian](https://www.theguardian.com/global-development/2026/feb/05/in-the-end-you-feel-blank-indias-female-workers-watching-hours-of-abusive-content-to-train-ai) • 10h ago
 
 ---
 
@@ -49,7 +49,21 @@ Women in rural communities describe trauma of moderating violent and pornographi
 
 I ran a small real-world test today with two kids (ages 8 and 11) using a long-running AI story world I’ve been experimenting with. Instead of one-shot story generation, the system maintains a persistent world state where choices carry over and shape future events. I let them pick the setting — they chose a Minecraft × Harry Potter mashup where they play wizards trying to defeat the Ender Dragon. One thing that made a huge difference: I used their real names as the characters, and the story started in their actual school. The engine generated story text and illustrations each round. They made all the choices. After about 10 rounds, they were constantly laughing, debating which option to pick, and building on each other’s ideas. It felt much more like co-creating a world than listening to a story. When I told them it was bedtime, they didn’t want to stop. They kept asking what would happen next. A few observations that surprised me: Personalization seemed to matter more than anything else. Once it became their world, emotional investment was instant. Although I designed it as a single-player experience, co-play emerged naturally. The shared decision-making and social dynamic massively increased engagement. Both ages stayed fully engaged the whole time. I expected the younger one to drop off sooner, but the persistent world kept them both hooked. One issue I noticed: my “re-immersion” mechanic (an in-world character emotionally reconnecting players after breaks instead of a dry recap) triggered too frequently between consecutive rounds. The repetition was noticeable. This looks like a simple trigger tuning problem (should probably only fire after longer gaps). What I haven’t tested yet: – Whether kids can reconnect naturally after a real multi-hour break – Whether they can retell the story in a coherent way – Whether they’ll come back unprompted the next day The earlier stress tests showed that constraint mechanisms help keep long-running narratives technically coherent. What this small user test suggests is that coherence itself isn’t what kids consciously care about — but it seems to be the infrastructure that makes personalization, consequence, and agency feel real. Curious if others working on long-horizon agents, narrative systems, or co-creative AI have seen similar effects around personalization and persistence.
 
-4h ago
+5h ago
+
+---
+
+**[Do the pros and cons of AI change under an autocratic regime? How?](https://www.reddit.com/r/artificial/comments/1qwuxb8/do_the_pros_and_cons_of_ai_change_under_an/)**
+
+1h ago
+
+---
+
+**[Latest Elon interview with Dwarkesh & Stripe - with summary](https://www.reddit.com/r/artificial/comments/1qwvgxb/latest_elon_interview_with_dwarkesh_stripe_with/)**
+
+Watch Less, Learn More. Get instant AI-powered summaries of your favorite YouTube videos.
+
+🔗 [Tuberizer](https://share.tuberizer.com?videoId=BYXbuik3dgA) • 55m ago
 
 ---
 
@@ -69,7 +83,7 @@ Ran a real-world test this week: Gemma 3 12B vs paid frontier models across actu
 
 **[Simple Machine Learning Testing Tools Guide](https://www.reddit.com/r/artificial/comments/1qwbjhx/simple_machine_learning_testing_tools_guide/)**
 
-🔗 [aivolut.com](https://aivolut.com/blog/simple-machine-learning-testing-tools-guide/) • 15h ago
+🔗 [aivolut.com](https://aivolut.com/blog/simple-machine-learning-testing-tools-guide/) • 16h ago
 
 ---
 
@@ -97,22 +111,6 @@ Elon Musk's X and Grok platforms are facing increased scrutiny from authorities 
 
 ---
 
-**[Anthropic AI CEO Dario Amodei is against US govt allowing sale of Nvidia H200 to China. But it actually makes strategic sense.](https://www.reddit.com/r/artificial/comments/1qvkfuw/anthropic_ai_ceo_dario_amodei_is_against_us_govt/)**
-
-I found this argument interesting. If US allows Nvidia to do business with China, then Chinese AI firms will remain dependent on American AI hardware, and hence US will have indirect influence over the level of development that Chinese AI will make.
-
-🔗 [decodingthefutureresearch.substack.com](https://decodingthefutureresearch.substack.com/p/anthropic-ceo-dario-amodei-is-against) • 1d ago
-
----
-
-**[Elon Musk links SpaceX and xAI in a record-setting merger to boost AI](https://www.reddit.com/r/artificial/comments/1quud71/elon_musk_links_spacex_and_xai_in_a_recordsetting/)**
-
-SpaceX's acquisition of xAI signals a bold push to merge artificial intelligence with space infrastructure at an unprecedented scale.
-
-🔗 [Interesting Engineering](https://interestingengineering.com/culture/elon-musk-merges-spacex-and-xai) • 2d ago
-
----
-
 ---
 
 ## Google News: "ai"
@@ -121,13 +119,21 @@ SpaceX's acquisition of xAI signals a bold push to merge artificial intelligence
 
 OpenAI Frontier is an enterprise platform for building, deploying, and managing AI agents with shared context, onboarding, permissions, and governance.
 
-OpenAI • 12h ago
+OpenAI • 13h ago
 
 ---
 
-**[Google Leans Hard Into Its AI-Winner Status](https://www.wsj.com/tech/ai/google-leans-hard-into-its-ai-winner-status-6111835e?gaa_at=eafs&gaa_n=AWEtsqefH7ZIFRatzrqYaH_m3ESVvl99YuERKb_FGg32fQEdADrihWp3ldI-&gaa_ts=6984ef54&gaa_sig=BlVr8THR7-H3pSbKnaoR0jAckTBB1y5JwJjwwkqUI35NLPv8YEl0sbeJ-TV3zlLVyGAwKvRjc2YjLhQbrodnCg%3D%3D)**
+**[Google Leans Hard Into Its AI-Winner Status](https://www.wsj.com/tech/ai/google-leans-hard-into-its-ai-winner-status-6111835e?gaa_at=eafs&gaa_n=AWEtsqcc1Jzm6hBdO9c-_AvmVkjY8DXPP7bdys2691nwE0HkQwMubJWK_z0J&gaa_ts=69850432&gaa_sig=VjTqW2zl9oPVdPryi7s_Rk65sxphe6Jc18rMzcCxxUFw7dPZSotHI_BUKveL_KwKth-AtuOcwXKcsFaNT9mFMw%3D%3D)**
 
-The Wall Street Journal • 9h ago
+The Wall Street Journal • 10h ago
+
+---
+
+**[Anthropic launches Claude Opus 4.6 as AI moves toward a 'vibe working' era](https://www.cnbc.com/2026/02/05/anthropic-claude-opus-4-6-vibe-working.html)**
+
+Anthropic's latest AI model is better at coding, sustaining tasks for longer and creating high-quality professional work.
+
+CNBC • 2h ago
 
 ---
 
@@ -139,19 +145,11 @@ CNN • 2h ago
 
 ---
 
-**[OpenAI says new coding model helped build itself](https://www.nbcnews.com/tech/innovation/openai-says-new-codex-coding-model-helped-build-rcna257521)**
+**[Super Bowl AI War Set as OpenAI, Anthropic, Gemini and Amazon Alexa+ Face Off](https://www.hollywoodreporter.com/business/digital/ai-super-bowl-ads-openai-claude-gemini-alexa-1236496094/)**
 
-OpenAI says its own artificial intelligence systems are accelerating the pace of AI development.
+The AI chatbots will all have Super Bowl ads, underscoring the tech's explosive growth, and the seemingly unkillable influence of live TV.
 
-NBC News • 1h ago
-
----
-
-**[Is the AI bubble popping itself? Software's break from the tech stock boom raises concerns](https://www.cnbc.com/2026/02/05/is-the-ai-bubble-popping-itself-software-rout-raises-concerns.html)**
-
-Many investors expect the sell-off has gone too far, saying agentic AI is unable to meaningfully hurt incumbents in the sector.
-
-CNBC • 2h ago
+The Hollywood Reporter • 1h ago
 
 ---
 
@@ -159,21 +157,13 @@ CNBC • 2h ago
 
 A new message board for artificial intelligence agents has prompted some strange conversations, and existential questions about the inner lives of bots.
 
-NPR • 22h ago
-
----
-
-**[‘In the end, you feel blank’: India’s female workers watching hours of abusive content to train AI](https://www.theguardian.com/global-development/2026/feb/05/in-the-end-you-feel-blank-indias-female-workers-watching-hours-of-abusive-content-to-train-ai)**
-
-Women in rural communities describe trauma of moderating violent and pornographic content for global tech companies
-
-The Guardian • 4h ago
+NPR • 23h ago
 
 ---
 
 **[Elon Musk is betting his business empire on AI](https://www.economist.com/business/2026/02/04/elon-musk-is-betting-his-business-empire-on-ai)**
 
-The Economist • 21h ago
+The Economist • 22h ago
 
 ---
 
@@ -181,13 +171,21 @@ The Economist • 21h ago
 
 Major League Baseball players have agreed to let a tech company create AI characters of themselves that can chat and interact with fans.
 
-ESPN • 4h ago
+ESPN • 5h ago
 
 ---
 
 **[Why CEOs' AI hype isn't landing with employees](https://www.axios.com/2026/02/05/ai-adoption-messaging-gap)**
 
 Axios • 3h ago
+
+---
+
+**[Where is AI showing up in the productivity data?](https://www.ft.com/content/d6fdc04f-85cf-4358-a686-298c3de0e25b)**
+
+Signs of its effects are already starting to peek through
+
+Financial Times • 15h ago
 
 ---
 
@@ -199,7 +197,7 @@ Axios • 3h ago
 
 SaaS is the most profitable business model on Earth.1 It’s easy to understand why: build once, sell the same thing again ad infinitum, and don’t suffer any marginal costs on more sales. I have been writing software for more than half my life. In the last year itself, I’ve talked to hundreds of founders and operators in SF, from preseed to Series E companies. AI is bringing an existential threat to a lot of B2B SaaS executives: How to keep asking customers for renewal, when every customer feels they can get something better built with vibe-coded AI products? And the market is pricing it in. Morgan Stanley’s SaaS basket has lagged the Nasdaq by 40 points since December. HubSpot and Klaviyo are down ~30%. Analysts are writing notes titled “No Reasons to Own” software stocks. The market is reflecting our new reality (Source: Bloomberg) Whenever I bring a new friend to the Salesforce Park, they are in absolute awe. And, the meme remains true that no one even knows what Salesforce does. Whatever they’re doing, they’re clearly earning enough revenue to purchase multiple blocks in SF. ↩
 
-⬆️ 470 • 💬 692 • 1d ago • [N’s Blog](https://nmn.gl/blog/ai-killing-b2b-saas)
+⬆️ 474 • 💬 697 • 1d ago • [N’s Blog](https://nmn.gl/blog/ai-killing-b2b-saas)
 
 ---
 
@@ -207,7 +205,7 @@ SaaS is the most profitable business model on Earth.1 It’s easy to understand 
 
 Production-grade Ghidra MCP Server — 132 endpoints, cross-binary documentation transfer, batch analysis, headless mode, and Docker deployment for AI-powered reverse engineering - bethington/ghidra-mcp
 
-⬆️ 288 • 💬 66 • 1d ago • [GitHub](https://github.com/bethington/ghidra-mcp)
+⬆️ 290 • 💬 66 • 1d ago • [GitHub](https://github.com/bethington/ghidra-mcp)
 
 ---
 
@@ -223,7 +221,7 @@ The Firefox browser is gaining options to turn off AI enhancements, Mozilla said
 
 China's space program is quietly building momentum for a moon landing by 2030. Could they outpace NASA's Artemis mission?
 
-⬆️ 157 • 💬 172 • 2d ago • [IEEE Spectrum](https://spectrum.ieee.org/china-moon-mission-mengzhou-artemis)
+⬆️ 158 • 💬 172 • 2d ago • [IEEE Spectrum](https://spectrum.ieee.org/china-moon-mission-mengzhou-artemis)
 
 ---
 
@@ -247,7 +245,7 @@ Like many developers, I find myself more and more using AI agents to help with s
 
 If you paint a picture of Sonic the Hedgehog in your living room, you are technically creating an unauthorized derivative work—but in practice, no one cares. Private, noncommercial creation has always lived in a space where copyright law exists on paper but is rarely enforced.
 
-⬆️ 113 • 💬 128 • 2d ago • [Jason Willems](https://www.jasonwillems.com/technology/2026/02/02/AI-Copyright/)
+⬆️ 113 • 💬 131 • 2d ago • [Jason Willems](https://www.jasonwillems.com/technology/2026/02/02/AI-Copyright/)
 
 ---
 
@@ -265,7 +263,7 @@ If you paint a picture of Sonic the Hedgehog in your living room, you are techni
 
 **[Anthropic AI tool sparks selloff from software to broader market](https://news.ycombinator.com/item?id=46876720)**
 
-⬆️ 85 • 💬 68 • 1d ago • [bloomberg.com](https://www.bloomberg.com/news/articles/2026-02-03/legal-software-stocks-plunge-as-anthropic-releases-new-ai-tool)
+⬆️ 85 • 💬 69 • 2d ago • [bloomberg.com](https://www.bloomberg.com/news/articles/2026-02-03/legal-software-stocks-plunge-as-anthropic-releases-new-ai-tool)
 
 ---
 
@@ -279,7 +277,7 @@ Humanoid robots just entered a new phase of realism. In Shanghai, DroidUp reveal
 
 📺 AI Revolution
 
-👁️ 84K • 👍 2K • 💬 487 • ⏱️ 13:31 • 20h ago
+👁️ 84K • 👍 2K • 💬 487 • ⏱️ 13:31 • 21h ago
 
 ---
 
@@ -299,7 +297,7 @@ Want to make money and save time with AI? Get AI Coaching, Support & Courses ...
 
 📺 Julian Goldie SEO
 
-👁️ 3K • 👍 61 • 💬 8 • ⏱️ 8:53 • 10h ago
+👁️ 3K • 👍 61 • 💬 8 • ⏱️ 8:53 • 11h ago
 
 ---
 
@@ -309,7 +307,7 @@ AI agents hiring humans, OpenAI's Codex command center for multi-agent workflows
 
 📺 Universe of AI
 
-👁️ 6K • 👍 148 • 💬 11 • ⏱️ 10:03 • 19h ago
+👁️ 6K • 👍 148 • 💬 11 • ⏱️ 10:03 • 20h ago
 
 ---
 
@@ -329,7 +327,7 @@ AI Cinematic Magic, Hollywood Style. Steal my $100M filmmaking playbook for AI i
 
 📺 The AI Filmmaking Advantage
 
-👁️ 5K • 👍 137 • 💬 32 • ⏱️ 2:28 • 18h ago
+👁️ 5K • 👍 137 • 💬 32 • ⏱️ 2:28 • 19h ago
 
 ---
 
@@ -339,7 +337,7 @@ In this video, I break down how to use Grok as a system for real time research, 
 
 📺 Parker Prompts
 
-👁️ 10K • 💬 8 • ⏱️ 6:08 • 6h ago
+👁️ 10K • 💬 8 • ⏱️ 6:08 • 7h ago
 
 ---
 
@@ -421,7 +419,7 @@ Step 3.5 Flash is an efficient, open-source MoE foundation model (11B active par
 
 `text-generation` `199.4B`
 
-⬇️ 8,686 • ❤️ 445 • 9h ago
+⬇️ 8,686 • ❤️ 445 • 10h ago
 
 ---
 
@@ -443,7 +441,7 @@ MiniCPM-o 4.5 is a 9B parameter multimodal LLM excelling in vision, speech, and 
 
 `any-to-any` `9.4B`
 
-⬇️ 1,002 • ❤️ 399 • 2h ago
+⬇️ 1,002 • ❤️ 399 • 3h ago
 
 ---
 
@@ -489,7 +487,7 @@ PaddleOCR-VL-1.5 is a multilingual Vision-Language Model (VLM) built on ERNIE 4.
 
 Voxtral-Mini-4B-Realtime-2602 is a 4B-parameter, multilingual speech-to-text model offering near-offline accuracy with <500ms latency. It features a streaming architecture for real-time applications like voice assistants and live subtitling, optimized for on-device deployment.
 
-⬇️ 477 • ❤️ 259 • 9h ago
+⬇️ 477 • ❤️ 259 • 10h ago
 
 ---
 
@@ -635,7 +633,7 @@ Browser automation CLI for AI agents
 
 `TypeScript`
 
-⭐ 12.8k • 🔱 724 • 13h ago
+⭐ 12.8k • 🔱 724 • 14h ago
 
 ---
 
@@ -675,7 +673,7 @@ The Ultimate Collection of 600+ Agentic Skills for Claude Code/Antigravity/Curso
 
 `Python` `agentic-skills` `ai-agents` `antigravity` `autonomous-coding` `claude-code`
 
-⭐ 7.4k • 🔱 1.6k • 11h ago
+⭐ 7.4k • 🔱 1.6k • 12h ago
 
 ---
 

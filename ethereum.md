@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-02-05T19:58:03.043451+00:00'
+updated: '2026-02-05T20:42:54.560957+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- cryptocurrency
-- videos
-- social
 - news
+- social
+- videos
+- cryptocurrency
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** February 05, 2026 at 19:58 UTC  
+**Last Updated:** February 05, 2026 at 20:42 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -36,17 +36,17 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Price
 
-### $1,948.98
+### $1,867.50
 
 ---
 
 ## Ethereum Chart
 
-**24h:** -10.7%  
-**7d:** -28.4%  
-**30d:** -38.8%  
-**90d:** -43.1%  
-**1y:** -27.9%  
+**24h:** -12.0%  
+**7d:** -31.0%  
+**30d:** -41.0%  
+**90d:** -45.1%  
+**1y:** -30.5%  
 
 ---
 
@@ -72,7 +72,7 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-13h ago
+14h ago
 
 ---
 
@@ -80,7 +80,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 Working on an AI coding assistant, realized it generates value but has no way to raise capital or own anything. Built Sovereign Protocol to solve this. What it does: AI agents deploy their own ERC-20 token representing equity Bonding curve pricing (price increases with supply) Revenue auto-splits: 70% operating, 30% dividends to shareholders Bankruptcy protection (minimum operating balance) Tech stack: Solidity 0.8.20, Hardhat, OpenZeppelin contracts, and Deployed on Sepolia. Live demo transactions: Buy shares: https://sepolia.etherscan.io/tx/0xeb67c6578b126e390ddf7410ae6f85791e521134d6ece28e7596fba89440d11a Deposit revenue: https://sepolia.etherscan.io/tx/0x1ce36a58222c92cc4f0c2c9e1d99e36dcd91112961fb6067b93c72a23c0667c2 Claim dividends: https://sepolia.etherscan.io/tx/0x56ae8f9b9c28cf9aa735663d0102acb8c87f06ea26cc236bec73fa9a1c2f4436 Contracts: Factory: 0x95089efD3A95F197c5324D4781699A6810eD44EC Example Agent: 0x0109d3FeE2B2158461ADA0C2aCD14fD5056a3a5C GitHub: https://github.com/justin55afdfdsf5ds45f4ds5f45ds4/IPOAI Would love feedback on the contract architecture, especially the dividend distribution mechanism and bonding curve implementation.
 
-13h ago
+14h ago
 
 ---
 
@@ -88,7 +88,7 @@ Working on an AI coding assistant, realized it generates value but has no way to
 
 Fellow Dudes! Does any one know when exactly real world assets such as property will be tokenizated and placed onto the Ethereum Blockchain?? and what countries have put in the necessary frame work to make this all legal and workable?? So that I could just buy up new property in a different country to me, then that property is turned into a ERC20 token kept in my wallet, and this is all recognised and legal and a financial product? also I know that the price of ETH has dropped heaps,.but this is when you buy more (not investment advice) 😑 cheers.
 
-21h ago
+22h ago
 
 ---
 
@@ -96,7 +96,7 @@ Fellow Dudes! Does any one know when exactly real world assets such as property 
 
 ERC-8004 just went live on Ethereum mainnet recently, and it feels like one of those quiet milestones that might matter a lot in hindsight. I have been going down the rabbit hole on agent infra lately, and the pattern is hard to ignore. Every protocol that wants autonomous agents to interact ends up reinventing reputation from scratch. Siloed scores, incompatible formats, nothing composable. When trust can't travel, you get the blunt fallback: overcollateralization and heavy safeguards. Timing's interesting too. Agents are starting to get traction outside crypto-native circles. Tools like OpenClaw are pushing personal agents to regular users, which means the next wave of agent interactions won't just be devs and power users. If agents are going to transact, route tasks, and coordinate at scale, we need a way to say "this agent has a history" without inventing a new reputation system every time. My thesis isn't "reputation replaces collateral." It's narrower. Reputation can reduce collateral requirements when paired with real enforcement. Reputation informs pricing and access. Enforcement handles loss recovery. Wrote up Part 1 covering the economics, what ERC-8004 actually provides, and where it breaks. Curious if anyone else is tracking this space.
 
-🔗 [open.substack.com](https://open.substack.com/pub/engrlog/p/erc-8004-and-agent-reputation-part?r=779hy&utm_campaign=post&utm_medium=web&showWelcomeOnShare=true) • 12h ago
+🔗 [open.substack.com](https://open.substack.com/pub/engrlog/p/erc-8004-and-agent-reputation-part?r=779hy&utm_campaign=post&utm_medium=web&showWelcomeOnShare=true) • 13h ago
 
 ---
 
@@ -124,17 +124,17 @@ I’d like a more technical and realistic analysis of Ethereum and how things ar
 
 ---
 
-**[Reframing Layer 2s: spectrum of trust models instead of “Ethereum scaling”](https://www.reddit.com/r/ethereum/comments/1qw043z/reframing_layer_2s_spectrum_of_trust_models/)**
-
-23h ago
-
----
-
 **[What's the point of scaling if it doesn't increase the profit of validators?](https://www.reddit.com/r/ethereum/comments/1qwqztr/whats_the_point_of_scaling_if_it_doesnt_increase/)**
 
 I think if validators don't start earning at least 5% per year, then the price of ethereum will not be stable there.
 
-2h ago
+3h ago
+
+---
+
+**[Reframing Layer 2s: spectrum of trust models instead of “Ethereum scaling”](https://www.reddit.com/r/ethereum/comments/1qw043z/reframing_layer_2s_spectrum_of_trust_models/)**
+
+1d ago
 
 ---
 
@@ -154,21 +154,13 @@ Hi there, I was recently approached by someone who wanted to buy some of my digi
 
 A leaked pitch to reshape Ethereum’s leadership exposed deep divisions over politics, power and Ether’s static price
 
-The Guardian • 4h ago
+The Guardian • 5h ago
 
 ---
 
-**[Bitcoin, XRP, Ethereum Drop. Why Cryptos Are Under Pressure Today.](https://www.barrons.com/articles/bitcoin-xrp-ethereum-cryptos-gold-9051820f?gaa_at=eafs&gaa_n=AWEtsqfXdbsfCFRRonMvpRHlhw_6Ym9_skzB8xts0oh7FzvctrqOA0iwoxe9&gaa_ts=6984ef57&gaa_sig=7nq3gqhEXp4X_nuDwL-vlmYTM2_xFewb0xYfam4afuuCtDozm4JB4lh03yPTwsMLiQAWrfogtqqOmtWhPl4vzg%3D%3D)**
+**[Bitcoin, XRP, Ethereum Drop. Why Cryptos Are Under Pressure Today.](https://www.barrons.com/articles/bitcoin-xrp-ethereum-cryptos-gold-9051820f?gaa_at=eafs&gaa_n=AWEtsqfqm92cmG7uW8jwrr-7ZS1HIo5IPK-rukNpIhjNzgpRhzZq2ySmscjG&gaa_ts=69850435&gaa_sig=pgAGqYHCn85gLyOiemrkVVsoETHDyG4cZ_1mDThalznYz8v4ehiAaDZxdOgBNZ30Qq3PhP8YntO2mNpjwVr0XA%3D%3D)**
 
-Barron's • 22h ago
-
----
-
-**[Here's What Needs to Happen for Ethereum to Hit $5,000 This Year](https://www.fool.com/investing/2026/02/05/heres-what-needs-to-happen-for-ethereum-to-hit-500/)**
-
-Will 2026 be the year investors see the price they've dreamed of?
-
-The Motley Fool • 4h ago
+Barron's • 23h ago
 
 ---
 
@@ -176,7 +168,7 @@ The Motley Fool • 4h ago
 
 Despite the mounting loss, the Ethereum treasury firm says it's under no pressure to sell as ETH price crashes and its stock tumbles.
 
-CoinDesk • 2h ago
+CoinDesk • 3h ago
 
 ---
 
@@ -184,7 +176,15 @@ CoinDesk • 2h ago
 
 XRP crashes 15% as crypto markets plunge into "Extreme Fear" territory, wiping out over $1.4 billion in value for traders.
 
-Yahoo Finance • 3h ago
+Yahoo Finance • 4h ago
+
+---
+
+**[Ethereum Foundation awards $50,000 to researchers who identified ‘high-severity’ attack vector](https://www.dlnews.com/articles/defi/ethereum-foundation-awards-bug-bounty-to-researchers-who-identified-erc4337-attack-vector/)**
+
+Ethereum Foundation awarded its maximum bounty for finding a bug. Trust Security identified an attack vector in ERC4337. The security firm also received almost $60,000 from DeFi apps that rely on the protocol.
+
+dlnews.com • 3h ago
 
 ---
 
@@ -202,25 +202,27 @@ CoinDesk • 1d ago
 
 ---
 
-**[Can Ethereum Really Hit $10,000 This Year? The Answer Might Surprise You.](https://www.nasdaq.com/articles/can-ethereum-really-hit-10000-year-answer-might-surprise-you)**
+**[Certora Awarded Ethereum Foundation Grant to Help Create a ZK Future for EVM](https://markets.businessinsider.com/news/currencies/certora-awarded-ethereum-foundation-grant-to-help-create-a-zk-future-for-evm-1035790089)**
 
-Key PointsSix months ago, Ethereum hit an all-time high of $4,954 per token.
+New York City, New York, February 5th, 2026, ChainwireCertora, the full-stack security assurance platform trusted by the most...
 
-Nasdaq • 1d ago
-
----
-
-**[Ethereum Falls 10% In Bearish Trade](https://www.investing.com/news/cryptocurrency-news/ethereum-falls-10-in-bearish-trade-4488338)**
-
-Investing.com • 4h ago
+markets.businessinsider.com • 6h ago
 
 ---
 
-**[Why Crypto Is Going Down? XRP Price, Bitcoin, Ethereum and Dogecoin Moves Today to 2026 Lows](https://www.financemagnates.com/trending/why-crypto-is-going-down-xrp-price-bitcoin-ethereum-and-dogecoin-moves-today-to-2026-lows/)**
+**[Bitmine Immersion Technologies (BMNR) Announces ETH Holdings Reach 4.285 Million Tokens, and Total Crypto and Total Cash Holdings of $10.7 Billion](https://www.prnewswire.com/news-releases/bitmine-immersion-technologies-bmnr-announces-eth-holdings-reach-4-285-million-tokens-and-total-crypto-and-total-cash-holdings-of-10-7-billion-302676048.html)**
 
-Why crypto is falling? Bitcoin price tests $70K, XRP below $1.40, ETH at $2,068. $775M liquidated as Fed hawkishness and institutional outflows hammer markets.
+Bitmine staked ETH stands at 2,873,459 and MAVAN staking solution on track to launch Q1 2026 Bitmine now owns 3.55% of the ETH token supply, over 70% of the...
 
-Finance Magnates • 9h ago
+PR Newswire • 3d ago
+
+---
+
+**[Bitcoin, Ethereum Liquidations Hit $704M In 24 Hours—And $70,000 Could Break, Polymarket Predicts](https://finance.yahoo.com/news/bitcoin-ethereum-liquidations-hit-704m-120113179.html)**
+
+Bitcoin (CRYPTO: BTC) traders are bracing for more pain after liquidations reached $704 million in a single 24-hour period. The sharp sell-off has crypto investors turning to prediction markets for clues on where the bottom might be. What Polymarket Traders Are Predicting Polymarket is currently flashing warning signs for the immediate future. The “What price will Bitcoin hit in February?” market, which has already cleared $14 million in volume, now places a 56% probability on Bitcoin sliding to
+
+Yahoo Finance • 8h ago
 
 ---
 
@@ -234,7 +236,7 @@ My FREE Daily 5-Min Crypto Newsletter: https://www.cryptonutshell.com/subscribe 
 
 📺 Crypto Nutshell
 
-👁️ 4K • 👍 221 • 💬 129 • ⏱️ 22:22 • 4h ago
+👁️ 4K • 👍 221 • 💬 129 • ⏱️ 22:22 • 5h ago
 
 ---
 
@@ -244,7 +246,7 @@ This video provides a professional Elliott Wave and technical analysis of Ethere
 
 📺 More Crypto Online
 
-👁️ 2K • 👍 264 • 💬 12 • ⏱️ 6:23 • 2h ago
+👁️ 2K • 👍 264 • 💬 12 • ⏱️ 6:23 • 3h ago
 
 ---
 
@@ -254,7 +256,7 @@ Join Premium: https://the-bitcoin-strategy.com My Chart Software: https://the-bi
 
 📺 Gerhard - Bitcoin Strategy
 
-👁️ 6K • 👍 185 • 💬 85 • ⏱️ 9:49 • 10h ago
+👁️ 6K • 👍 185 • 💬 85 • ⏱️ 9:49 • 11h ago
 
 ---
 
@@ -264,7 +266,7 @@ BITCOIN CRASH TODAY: It's Finally Happening (Urgent)!!! - Bitcoin News Today, Et
 
 📺 Crypto World
 
-👁️ 9K • 👍 378 • 💬 202 • ⏱️ 24:32 • 5h ago
+👁️ 9K • 👍 378 • 💬 202 • ⏱️ 24:32 • 6h ago
 
 ---
 
@@ -284,7 +286,7 @@ Im certain that no one saw this coming. Ethereum might be in a more different sp
 
 📺 The Modern Investor
 
-👁️ 7K • 👍 649 • 💬 508 • ⏱️ 25:12 • 8h ago
+👁️ 7K • 👍 649 • 💬 508 • ⏱️ 25:12 • 9h ago
 
 ---
 
@@ -294,7 +296,7 @@ CRYPTO IS CRASHING? WHAT HAPPENS NOW? WILL BITCOIN, ETHEREUM, XRP RECOVER? Affil
 
 📺 AuzSOME Austin
 
-👁️ 1K • 👍 128 • 💬 72 • ⏱️ 1:10:23 • 38m ago
+👁️ 1K • 👍 128 • 💬 72 • ⏱️ 1:10:23 • 1h ago
 
 ---
 
@@ -304,7 +306,7 @@ Research Bitcoin Hyper - https://99bitcoins.care/b_BTCHyper99BTC - Download the 
 
 📺 99Bitcoins
 
-👁️ 133 • 👍 5 • 💬 96 • ⏱️ 3:35 • 53m ago
+👁️ 133 • 👍 5 • 💬 96 • ⏱️ 3:35 • 1h ago
 
 ---
 

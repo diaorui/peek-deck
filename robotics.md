@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-02-05T19:58:03.046629+00:00'
+updated: '2026-02-05T20:42:54.564137+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
 - news
-- videos
 - social
+- videos
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** February 05, 2026 at 19:58 UTC  
+**Last Updated:** February 05, 2026 at 20:42 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -36,7 +36,7 @@ Robotics research and industry news
 
 From RoboHub🤖 on 𝕏: https://x.com/XRoboHub/status/2019135928384778288
 
-9h ago
+10h ago
 
 ---
 
@@ -44,13 +44,13 @@ From RoboHub🤖 on 𝕏: https://x.com/XRoboHub/status/2019135928384778288
 
 Felt so excited to see the robot I've been working on getting this much attention. Guess I need to step up my UX game though :/
 
-4h ago
+5h ago
 
 ---
 
 **[The Ability Hand: The Fastest Touch-Sensitive Bionic Hand in the World](https://www.reddit.com/r/robotics/comments/1qw456t/the_ability_hand_the_fastest_touchsensitive/)**
 
-20h ago
+21h ago
 
 ---
 
@@ -58,7 +58,23 @@ Felt so excited to see the robot I've been working on getting this much attentio
 
 V1 of my home sentry wake up alarm! Had a lot of fun taking apart this old orbee blaster! Leveraging the absolutely horrendous voltage hungry L298N. I setup a simple circuit leveraging ESP as a microcontroller sending a PMW signal through a single dc motor. ESP receives and transcribes information via Streaming packets over UDP. My pi4 sends packets via a web interface ( created it but can’t attach the image, where you can set a simple timer based on time zone). Additionally for some safety haha - put my pi4 over tail net with a simple UfW firewall to block random devices from finding port22 - also made sure that ESP only accepts packets sent from my pi IP! Let me know if you guys want to see it in action 🪦
 
-11h ago
+12h ago
+
+---
+
+**[Egocentric Data Collection](https://www.reddit.com/r/robotics/comments/1qwwq5n/egocentric_data_collection/)**
+
+Is there an IOS/Android app, which allows video and IMU data recording in synchronisation? I used Sensor Logger but it only provides timestamps for IMU, but not for image frames.
+
+9m ago
+
+---
+
+**[What BLDM should I use for my cart-pole proyect?](https://www.reddit.com/r/robotics/comments/1qwvs8m/what_bldm_should_i_use_for_my_cartpole_proyect/)**
+
+Hy everyone! I'll be quick, I want to build this: Full video: https://www.youtube.com/watch?v=Rh7JuL3PRSY Well, not that specifically. I want to build a cart-pole system, starting with a single inverted pendulum and maybe expanding to a double inverted pendulum later if I can get the first one balancing reliably. For actuation I want to use a BLDC motor with an encoder and a proper driver, so I can turn it into a brushless servo that drives the cart along a rail using a timing belt. I know that could also be done with a stepper motor, and I’m aware of the general components needed (motor + encoder + driver + controller), but I specifically want to do it with a BLDC and learn how to handle it. The cart won't be very heavy (maybe 1-2 kg), so I don't need super high torque, but enough to speed up and slow down cleanly during balancing. What motor should I use? Im planning on using a Teensy or an ESP32 as the controller, but what encoder/driver do you recommend? Thanks in advance!
+
+43m ago
 
 ---
 
@@ -80,7 +96,7 @@ I am designing this thing named Pollux - it is a marine autonomous surface vehic
 
 **[Getting into robotics at 28](https://www.reddit.com/r/robotics/comments/1qwsvnl/getting_into_robotics_at_28/)**
 
-1h ago
+2h ago
 
 ---
 
@@ -89,22 +105,6 @@ I am designing this thing named Pollux - it is a marine autonomous surface vehic
 We're running an RTOS Ask‑Me‑Anything session and wanted to bring it to the embedded community here. If you work with RTOSes—or are just RTOS‑curious—I'd love to hear your questions. Whether you're dealing with: ✅Edge performance ✅Security ✅Functional safety ✅Interoperability ✅POSIX ✅OS Roadmap ✅Career advice and more. We're happy to dive in. Our Product Management Director Louay Abdelkader and the QNX team offer deep expertise not only in QNX, but also across a wide range of embedded platforms—including Linux, ROS, Android, Zephyr, and more. Bring your questions and hear what’s on the minds of fellow developers. No slides, no sales pitch: just engineers helping engineers. Join the conversation and get a chance to win a Raspberry Pi 5. Your questions answered live! 🎥 Live Q&A + Short Demo + Contest and Raspberry Pi Prizes. Register NOW https://qnx.software/en/campaigns/rtos-ask-me-anything?utm_medium=website&utm_source=web_page&utm_campaign=fy26-q4_qnx_rtos-ask-me-anything_wb&utm_content=ayad-embedded-sub-reddit https://preview.redd.it/7nrxy4sqrphg1.png?width=1024&format=png&auto=webp&s=a5b027f25cb0afb465d36035290d598933650656
 
 2h ago
-
----
-
-**[Integrated Actuator Selection.](https://www.reddit.com/r/robotics/comments/1qwkdvn/integrated_actuator_selection/)**
-
-Hello, We are trying to develop a holonomic (swerve drive) AMR with a maximum payload of 200 kg. We want to use ros2_control for this robot. Can anyone suggest some budget integrated actuators ( motor+gearbox+encoder) and controllers we can use easily with ROS2? We have found Maxon motors and controllers to be too expensive. This will be used to carry auto parts. Should we include a mechanical brake or electromsgnetic brake with the wheels for safety?
-
-7h ago
-
----
-
-**[My custom quadruped ecosystem: 2 years of work on mechanics, electronics, and ROS 2 software.](https://www.reddit.com/r/robotics/comments/1qvqbug/my_custom_quadruped_ecosystem_2_years_of_work_on/)**
-
-Hi everyone! I’m excited to finally share a project I’ve been working on for the past 2 years. I developed the entire ecosystem from scratch: from the initial mechanical design and fabrication to the electronics and the full software architecture. My main goal was to build a robot that is as user-friendly as possible. Fabrication and hardware Design on Solidworks Maker 3D printed on an Ender 3 V2 and a Bambu Lab X1C 2 parts for the case are cut with a laser cutter (in a Fab-Lab) Materials : PLA, PETG, TPU, ABS, PC and plywood Electronics NVIDIA Jetson Orin Nano : handles the communication with the cameras and the controller 3 Arduino nano, one in each part of the robot (front, middle and back). They interface with the sensors and actuators. Teensy 4.1: Handles the IMU with SPI communication. Acts as a bridge between the Arduino and the Jetson : Communicates by I2C with Arduino Reads and publishes directly on topics with micro-ROS. Controller is a Legion GO. I used it to have physical joystick, touch sensitive screen, with easy to use driver (thanks to Windows 11). The physical Joy an button are detected like a real Xbox controller. Software ROS 2 Humble and Ubuntu 22 on the Jetson. Windows 11 on the Legion Go. Python for the Legion Go and Jetson. C++ (Arduino) for the Teensy and the Nanos. The user interface on the legion go is developed using Pygame. Sensors 2 MIPI CSI cameras (one has night vision). 1 BNO085 and 1 MPU 6050 for the IMU. 5 distance sensors (Time Of flight sensors) sensors for temperature, touch sensitivity, tension, current, etc. Actuators 12 Lynxmotion LSS V2 servos. Within the weight and dimensions of my robot, it's not the best solution (Slightly underpowered), but I made the choice to focus on user experience and a professional product appearance instead of mobility for this robot. 3 standart 90g servomoteurs for the moving parts in the Head 4 fans for cooling, LEDs, laser, Swappable Batteries and Alimentation Wired alimentation is possible with classic jack connector Swappable DIY batteries : 5S1P 21700 with Molicel P42A Custom 3D printed case If you want to see more of the robot in action, I have a longer video here: https://youtu.be/xeyl0i7DunE?si=ifOYklHHlQlqF0qz Feel free to ask me anything about the build, I’ll be happy to answer your questions!
-
-1d ago
 
 ---
 
@@ -128,14 +128,6 @@ The Next Platform • 2d ago
 
 ---
 
-**[World’s first ‘biomimetic AI robot’ debuts in Shanghai](https://www.scmp.com/video/china/3342129/worlds-first-fully-biomimetic-embodied-intelligent-robot-debuts-shanghai)**
-
-The world&rsquo;s first &ldquo;fully biomimetic embodied intelligent robot&rdquo; debuted in Shanghai on January 30, 2026. The company behind the robot, DroidUp, claims the human-like…
-
-South China Morning Post • 3d ago
-
----
-
 **[Carbon Robotics built an AI model that detects and identifies plants](https://techcrunch.com/2026/02/02/carbon-robotics-built-an-ai-model-that-detects-and-identifies-plants/)**
 
 Carbon Robotics' Large Plant Model will allow farmers to kill new types of weeds without having to retrain the machines.
@@ -144,11 +136,11 @@ TechCrunch • 3d ago
 
 ---
 
-**[Apple Teaching Swift and Robotics Across Its India Supply Chain](https://www.macrumors.com/2026/02/04/apple-teaching-swift-and-robotics-in-india/)**
+**[World’s first ‘biomimetic AI robot’ debuts in Shanghai](https://www.scmp.com/video/china/3342129/worlds-first-fully-biomimetic-embodied-intelligent-robot-debuts-shanghai)**
 
-Apple today announced a new Education Hub in Bengaluru as part of an expanded effort to provide technical training and skills development for employees across its supply chain in India. Apple said the new Apple Education Hub in Bengaluru will serve as a centralized training and coordination facility for supplier employees in India, marking the company's first education hub of its kind in the country.
+The world&rsquo;s first &ldquo;fully biomimetic embodied intelligent robot&rdquo; debuted in Shanghai on January 30, 2026. The company behind the robot, DroidUp, claims the human-like…
 
-MacRumors • 1d ago
+South China Morning Post • 3d ago
 
 ---
 
@@ -168,25 +160,31 @@ bgr.com • 3d ago
 
 ---
 
+**[Apple Teaching Swift and Robotics Across Its India Supply Chain](https://www.macrumors.com/2026/02/04/apple-teaching-swift-and-robotics-in-india/)**
+
+Apple today announced a new Education Hub in Bengaluru as part of an expanded effort to provide technical training and skills development for employees across its supply chain in India. Apple said the new Apple Education Hub in Bengaluru will serve as a centralized training and coordination facility for supplier employees in India, marking the company's first education hub of its kind in the country.
+
+MacRumors • 1d ago
+
+---
+
 **[Sam Altman On Elon Musk, Donald Trump, Robotics, Fatherhood And More](https://www.forbes.com/sites/richardnieva/2026/02/04/sam-altman-on-elon-musk-donald-trump-robotics-fatherhood-and-more/)**
 
 Forbes • 1d ago
 
 ---
 
-**[China unveils world’s first 'biomimetic AI robot' that smiles, winks](https://interestingengineering.com/ai-robotics/shanghai-unveils-moya-humanoid-robot)**
+**[FedEx Launches Berkshire Grey’s Fully Autonomous Robotic Trailer Unloader for a Safer and Smarter Workplace](https://newsroom.fedex.com/newsroom/global-english/fedex-launches-berkshire-greys-fully-autonomous-robotic-trailer-unloader-to-create-a-safer-and-more-efficient-workplace)**
 
-Moya, a humanoid robot unveiled in Shanghai, is designed to walk, smile, and interact like a human using embodied AI.
+The system will be deployed in calendar year 2026 following multi-year collaboration.
 
-Interesting Engineering • 15h ago
+FedEx newsroom • 2d ago
 
 ---
 
-**[The robots we deserve](https://www.vox.com/technology/476657/chatgpt-mit-csail-tesla-humanoid-robot)**
+**[AI-powered robots are coming for trade jobs](https://www.politico.com/newsletters/digital-future-daily/2026/02/04/ai-powered-robots-are-coming-for-trade-jobs-00765584)**
 
-﻿Science fiction promised us humanoids. Do we even want them?
-
-vox.com • 8h ago
+Politico • 23h ago
 
 ---
 
@@ -200,7 +198,7 @@ Humanoid robots just entered a new phase of realism. In Shanghai, DroidUp reveal
 
 📺 AI Revolution
 
-👁️ 84K • 👍 2K • 💬 487 • ⏱️ 13:31 • 20h ago
+👁️ 84K • 👍 2K • 💬 487 • ⏱️ 13:31 • 21h ago
 
 ---
 
@@ -210,7 +208,7 @@ XPENG just took a massive step forward in humanoid robotics. The New IRON robot 
 
 📺 DPCcars
 
-👁️ 20K • 👍 178 • 💬 37 • ⏱️ 1:21 • 4d ago
+👁️ 20K • 👍 178 • 💬 37 • ⏱️ 1:21 • 5d ago
 
 ---
 
@@ -270,7 +268,7 @@ Tesla's Optimus Gen 2 demonstrates its advanced low-latency tracking and tactile
 
 📺 Batya Feuer
 
-👁️ 4K • 👍 52 • 💬 6 • ⏱️ 0:25 • 23h ago
+👁️ 4K • 👍 52 • 💬 6 • ⏱️ 0:25 • 1d ago
 
 ---
 
