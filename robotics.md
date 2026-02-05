@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-02-05T10:08:33.289466+00:00'
+updated: '2026-02-05T11:09:22.408566+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- news
 - social
 - videos
+- news
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** February 05, 2026 at 10:08 UTC  
+**Last Updated:** February 05, 2026 at 11:09 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -34,7 +34,15 @@ Robotics research and industry news
 
 **[The Ability Hand: The Fastest Touch-Sensitive Bionic Hand in the World](https://www.reddit.com/r/robotics/comments/1qw456t/the_ability_hand_the_fastest_touchsensitive/)**
 
-11h ago
+12h ago
+
+---
+
+**[EngineAI's AGIBOTs on display at a Shaolin temple](https://www.reddit.com/r/robotics/comments/1qwhegg/engineais_agibots_on_display_at_a_shaolin_temple/)**
+
+From RoboHub🤖 on 𝕏: https://x.com/XRoboHub/status/2019135928384778288
+
+1h ago
 
 ---
 
@@ -42,7 +50,7 @@ Robotics research and industry news
 
 From Olivier Duchenne on 𝕏: https://x.com/inventorOli/status/2018719028462657922 And Guillaume Lample on 𝕏: "Mistral robotics team is hiring. Join us!": https://x.com/GuillaumeLample/status/2018719626578796665
 
-22h ago
+23h ago
 
 ---
 
@@ -50,7 +58,7 @@ From Olivier Duchenne on 𝕏: https://x.com/inventorOli/status/2018719028462657
 
 I am designing this thing named Pollux - it is a marine autonomous surface vehicle that follows the swimmer in open waters and stays in a range of 1-2m. If needed, it can pull the person back to the beach. This is the preliminary design. Estimate lenght is 110 cm. Eventually I think of releasing the design as open hardware. https://preview.redd.it/5xdcb7hnhmhg1.png?width=570&format=png&auto=webp&s=3ce8cc813144fe8895dc899ffdc139480696ecff
 
-3h ago
+4h ago
 
 ---
 
@@ -58,15 +66,15 @@ I am designing this thing named Pollux - it is a marine autonomous surface vehic
 
 Hi everyone! I’m excited to finally share a project I’ve been working on for the past 2 years. I developed the entire ecosystem from scratch: from the initial mechanical design and fabrication to the electronics and the full software architecture. My main goal was to build a robot that is as user-friendly as possible. Fabrication and hardware Design on Solidworks Maker 3D printed on an Ender 3 V2 and a Bambu Lab X1C 2 parts for the case are cut with a laser cutter (in a Fab-Lab) Materials : PLA, PETG, TPU, ABS, PC and plywood Electronics NVIDIA Jetson Orin Nano : handles the communication with the cameras and the controller 3 Arduino nano, one in each part of the robot (front, middle and back). They interface with the sensors and actuators. Teensy 4.1: Handles the IMU with SPI communication. Acts as a bridge between the Arduino and the Jetson : Communicates by I2C with Arduino Reads and publishes directly on topics with micro-ROS. Controller is a Legion GO. I used it to have physical joystick, touch sensitive screen, with easy to use driver (thanks to Windows 11). The physical Joy an button are detected like a real Xbox controller. Software ROS 2 Humble and Ubuntu 22 on the Jetson. Windows 11 on the Legion Go. Python for the Legion Go and Jetson. C++ (Arduino) for the Teensy and the Nanos. The user interface on the legion go is developed using Pygame. Sensors 2 MIPI CSI cameras (one has night vision). 1 BNO085 and 1 MPU 6050 for the IMU. 5 distance sensors (Time Of flight sensors) sensors for temperature, touch sensitivity, tension, current, etc. Actuators 12 Lynxmotion LSS V2 servos. Within the weight and dimensions of my robot, it's not the best solution (Slightly underpowered), but I made the choice to focus on user experience and a professional product appearance instead of mobility for this robot. 3 standart 90g servomoteurs for the moving parts in the Head 4 fans for cooling, LEDs, laser, Swappable Batteries and Alimentation Wired alimentation is possible with classic jack connector Swappable DIY batteries : 5S1P 21700 with Molicel P42A Custom 3D printed case If you want to see more of the robot in action, I have a longer video here: https://youtu.be/xeyl0i7DunE?si=ifOYklHHlQlqF0qz Feel free to ask me anything about the build, I’ll be happy to answer your questions!
 
-19h ago
+20h ago
 
 ---
 
 **[Serial Bus Servo Adapter failing to work with STS3215 bought from RoboCraze (by SmartElex)](https://www.reddit.com/r/robotics/comments/1qwaqcl/serial_bus_servo_adapter_failing_to_work_with/)**
 
-I have 2 Serial Bus Servo Adapter. One is from Waveshare and another is from SmartElex (Ordered from Robocraze recently) I am trying to setup motors, if I use the one from Waveshare, I see ~/Desktop$ lerobot-setup-motors --robot.type=so100_follower --robot.port=/dev/ttyACM0 Connect the controller board to the 'gripper' motor only and press enter. 'gripper' motor id set to 6 Connect the controller board to the 'wrist_roll' motor only and press enter. If I use the one from SmartElex, I see ~/Desktop$ lerobot-setup-motors --robot.type=so100_follower --robot.port=/dev/ttyACM0 Connect the controller board to the 'gripper' motor only and press enter. Traceback (most recent call last): File "/home/singhalkarun/miniforge3/envs/lerobot/bin/lerobot-setup-motors", line 6, in <module> sys.exit(main()) File "/home/singhalkarun/miniforge3/envs/lerobot/lib/python3.10/site-packages/lerobot/scripts/lerobot_setup_motors.py", line 88, in main setup_motors() File "/home/singhalkarun/miniforge3/envs/lerobot/lib/python3.10/site-packages/draccus/argparsing.py", line 225, in wrapper_inner response = fn(cfg, *args, **kwargs) File "/home/singhalkarun/miniforge3/envs/lerobot/lib/python3.10/site-packages/lerobot/scripts/lerobot_setup_motors.py", line 84, in setup_motors device.setup_motors() File "/home/singhalkarun/miniforge3/envs/lerobot/lib/python3.10/site-packages/lerobot/robots/so_follower/so_follower.py", line 175, in setup_motors self.bus.setup_motor(motor) File "/home/singhalkarun/miniforge3/envs/lerobot/lib/python3.10/site-packages/lerobot/motors/motors_bus.py", line 513, in setup_motor initial_baudrate, initial_id = self._find_single_motor(motor) File "/home/singhalkarun/miniforge3/envs/lerobot/lib/python3.10/site-packages/lerobot/motors/feetech/feetech.py", line 172, in _find_single_motor return self._find_single_motor_p0(motor, initial_baudrate) File "/home/singhalkarun/miniforge3/envs/lerobot/lib/python3.10/site-packages/lerobot/motors/feetech/feetech.py", line 196, in _find_single_motor_p0 raise RuntimeError(f"Motor '{motor}' (model '{model}') was not found. Make sure it is connected.") RuntimeError: Motor 'gripper' (model 'sts3215') was not found. Make sure it is connected. Here are links to both of them: Waveshare - https://www.waveshare.com/bus-servo-adapter-a.htm?srsltid=AfmBOorDAxdg-X46PhHTnRk2xVX1xfO0SGSX9FUYJrWPGJI7Lwsv8RAo SmartElex (from Robocraze) - https://robocraze.com/products/smartelex-serial-bus-servo-driver-board-integrates-servo-power-supply-and-control-circuit?srsltid=AfmBOoqP4-ieEPdL8TR6ygbetmpKOUb6lq0zvQDFiO2GzbQn7VLhyPME Other Information for SmartElex Board which is failing to work: Power is working fine, I can see red light on the board as power is attached and I can also see red light on motor as it is attached to the board I am using STS3215 Servos https://preview.redd.it/jfgpptd5mlhg1.jpg?width=3024&format=pjpg&auto=webp&s=d7dbd882c7b717d9997f31caa41d62c4a8238185
+[Solved] - https://www.reddit.com/r/robotics/comments/1qwaqcl/comment/o3ovu8u/ I have 2 Serial Bus Servo Adapter. One is from Waveshare and another is from SmartElex (Ordered from Robocraze recently) I am trying to setup motors, if I use the one from Waveshare, I see ~/Desktop$ lerobot-setup-motors --robot.type=so100_follower --robot.port=/dev/ttyACM0 Connect the controller board to the 'gripper' motor only and press enter. 'gripper' motor id set to 6 Connect the controller board to the 'wrist_roll' motor only and press enter. If I use the one from SmartElex, I see ~/Desktop$ lerobot-setup-motors --robot.type=so100_follower --robot.port=/dev/ttyACM0 Connect the controller board to the 'gripper' motor only and press enter. Traceback (most recent call last): File "/home/singhalkarun/miniforge3/envs/lerobot/bin/lerobot-setup-motors", line 6, in <module> sys.exit(main()) File "/home/singhalkarun/miniforge3/envs/lerobot/lib/python3.10/site-packages/lerobot/scripts/lerobot_setup_motors.py", line 88, in main setup_motors() File "/home/singhalkarun/miniforge3/envs/lerobot/lib/python3.10/site-packages/draccus/argparsing.py", line 225, in wrapper_inner response = fn(cfg, *args, **kwargs) File "/home/singhalkarun/miniforge3/envs/lerobot/lib/python3.10/site-packages/lerobot/scripts/lerobot_setup_motors.py", line 84, in setup_motors device.setup_motors() File "/home/singhalkarun/miniforge3/envs/lerobot/lib/python3.10/site-packages/lerobot/robots/so_follower/so_follower.py", line 175, in setup_motors self.bus.setup_motor(motor) File "/home/singhalkarun/miniforge3/envs/lerobot/lib/python3.10/site-packages/lerobot/motors/motors_bus.py", line 513, in setup_motor initial_baudrate, initial_id = self._find_single_motor(motor) File "/home/singhalkarun/miniforge3/envs/lerobot/lib/python3.10/site-packages/lerobot/motors/feetech/feetech.py", line 172, in _find_single_motor return self._find_single_motor_p0(motor, initial_baudrate) File "/home/singhalkarun/miniforge3/envs/lerobot/lib/python3.10/site-packages/lerobot/motors/feetech/feetech.py", line 196, in _find_single_motor_p0 raise RuntimeError(f"Motor '{motor}' (model '{model}') was not found. Make sure it is connected.") RuntimeError: Motor 'gripper' (model 'sts3215') was not found. Make sure it is connected. Here are links to both of them: Waveshare - https://www.waveshare.com/bus-servo-adapter-a.htm?srsltid=AfmBOorDAxdg-X46PhHTnRk2xVX1xfO0SGSX9FUYJrWPGJI7Lwsv8RAo SmartElex (from Robocraze) - https://robocraze.com/products/smartelex-serial-bus-servo-driver-board-integrates-servo-power-supply-and-control-circuit?srsltid=AfmBOoqP4-ieEPdL8TR6ygbetmpKOUb6lq0zvQDFiO2GzbQn7VLhyPME Other Information for SmartElex Board which is failing to work: Power is working fine, I can see red light on the board as power is attached and I can also see red light on motor as it is attached to the board I am using STS3215 Servos https://preview.redd.it/jfgpptd5mlhg1.jpg?width=3024&format=pjpg&auto=webp&s=d7dbd882c7b717d9997f31caa41d62c4a8238185
 
-6h ago
+7h ago
 
 ---
 
@@ -74,7 +82,7 @@ I have 2 Serial Bus Servo Adapter. One is from Waveshare and another is from Sma
 
 Asimov is an open-source humanoid robot. We open-sourced the leg design and XML files for simulation. It's built with off-the-shelf components and 3D-printable parts. All files and parts are here: https://github.com/asimovinc/asimov-v0
 
-22h ago
+23h ago
 
 ---
 
@@ -82,15 +90,7 @@ Asimov is an open-source humanoid robot. We open-sourced the leg design and XML 
 
 V1 of my home sentry wake up alarm! Had a lot of fun taking apart this old orbee blaster! Leveraging the absolutely horrendous voltage hungry L298N. I setup a simple circuit leveraging ESP as a microcontroller sending a PMW signal through a single dc motor. ESP receives and transcribes information via Streaming packets over UDP. My pi4 sends packets via a web interface ( created it but can’t attach the image, where you can set a simple timer based on time zone). Additionally for some safety haha - put my pi4 over tail net with a simple UfW firewall to block random devices from finding port22 - also made sure that ESP only accepts packets sent from my pi IP! Let me know if you guys want to see it in action 🪦
 
-1h ago
-
----
-
-**[I built a drone with six radars that refuses to hit power lines](https://www.reddit.com/r/robotics/comments/1qvercu/i_built_a_drone_with_six_radars_that_refuses_to/)**
-
-The drone has six mmWave radars to sense power lines from any direction, all connected to a Raspberry Pi. Based on these detections, the desired velocity (from a pilot or autonomous system) then gets modified to guide the drone around the power line. Everything runs in real time on the Pi with ROS2 middleware and PX4 flight stack. If you're interested, you can check out the paper: https://arxiv.org/abs/2602.03229, or the full video with voice-over: https://www.youtube.com/watch?v=rJW3eEC-5Ao
-
-1d ago
+2h ago
 
 ---
 
@@ -102,11 +102,11 @@ Paper: https://arxiv.org/abs/2602.02473 Project Page: https://wyhuai.github.io/h
 
 ---
 
-**[Added OpenClaw-powered Missions to my Robot](https://www.reddit.com/r/robotics/comments/1qvz05e/added_openclawpowered_missions_to_my_robot/)**
+**[Where to sell robotic arm (Amber B1)](https://www.reddit.com/r/robotics/comments/1qw2zhh/where_to_sell_robotic_arm_amber_b1/)**
 
-Yesterday, I connected a RealSense camera to OpenClaw and maybe demonstrated the first ROS-powered physical AI robot on the platform. Today, I added teleop (remote control) and AI missions without writing a line of code!
+Hey all! I’m currently working as a caregiver for a friend of mine who bought an Amber B1 robotic arm and he is looking to sell it, but we aren’t sure where to sell something niche like this. If anyone is interested in it, or has some help and guidance, we are eager to hear! Here is a message he wrote about this. Hey guys, I’m looking to sell an AMBER B1 modular 7-axis robotic arm that I had originally purchased in hopes of gaining greater independence. In 2006, at the age of 16, I sustained a spinal cord injury while racing motocross, resulting in paralysis from the neck down. Since then, I’ve become a strong advocate for self-reliance and have continually pursued ways to live as independently as possible. My goal with the AMBER B1 arm was to mount it to my power wheelchair—which I operate using a chin control—and develop a system that would allow me to perform basic daily tasks such as preparing food and drinks, feeding myself, brushing my teeth, and shaving. Ultimately, I wanted to reduce the level of assistance I needed from caregivers and family, and build confidence in my ability to manage life on my own. This particular arm was the only one I found within my budget at the time. While I was able to have it physically mounted to my wheelchair, I unfortunately lacked the technical expertise and support needed to bring my vision to life. Ideally, I had hoped to create a system where the chair and arm could be controlled remotely, functioning as a kind of robotic assistant. Despite the challenges, I’ve successfully designed and built several assistive devices—including a powered wheel for my manual chair, a custom gantry crane lift for bed transfers, a standing frame, and a computer workstation. I work professionally as a graphic designer, specializing in motocross graphics. However, when it comes to coding, robotics, and advanced programming, I’ve hit a wall. The robotic arm has less than one hour of use and has been sitting idle in its box. I’d much rather see it go to someone who can put it to meaningful use rather than let it continue to collect dust. If you're interested or know someone who could benefit from it, please feel free to reach out.
 
-14h ago
+12h ago
 
 ---
 
@@ -116,15 +116,29 @@ Yesterday, I connected a RealSense camera to OpenClaw and maybe demonstrated the
 
 **[Bedrock, an A.I. Start-Up for Construction, Raises $270 Million](https://www.nytimes.com/2026/02/04/business/dealbook/bedrock-robotics-ai-fundraise.html)**
 
-The New York Times • 18h ago
+The New York Times • 19h ago
 
 ---
 
-**[Robotics Will Break AI infrastructure: Here’s What Comes Next](https://www.nextplatform.com/2026/02/03/robotics-will-break-ai-infrastructure-heres-what-comes-next/)**
+**[ETM brings its transverse flux motor technology to robotics](https://www.therobotreport.com/etm-brings-its-transverse-flux-motor-technology-to-robotics/)**
 
-SPONSORED CONTENT  Physical AI and robotics are moving from the lab to the real world – and the cost of getting it wrong is no longer theoretical. With
+ETM said its TFM technology enables OEMs to simplify mechanical designs, reduce costs, and achieve performance benchmarks.
 
-The Next Platform • 1d ago
+The Robot Report • 19h ago
+
+---
+
+**[Russia And Ukraine Employ Ground Robots To Support Aerial Drone War](https://www.forbes.com/sites/vikrammittal/2026/02/05/russia-and-ukraine-employ-ground-robots-to-support-aerial-drone-war/)**
+
+Forbes • 24m ago
+
+---
+
+**[Robotics is forcing a fundamental rethink of AI compute, data, and systems design](https://www.theregister.com/2026/02/03/robotics-ai-infrastructure-next/)**
+
+Partner Content: Robotics is forcing a fundamental rethink of AI compute, data, and systems design
+
+theregister.com • 1d ago
 
 ---
 
@@ -136,11 +150,11 @@ TechCrunch • 2d ago
 
 ---
 
-**[Funding surge powers Chinese robotics firms as focus shifts to humanoid ‘brains’](https://www.scmp.com/tech/article/3342246/funding-surge-powers-chinese-robotics-firms-focus-shifts-humanoid-brains)**
+**[World’s first ‘biomimetic AI robot’ debuts in Shanghai](https://www.scmp.com/video/china/3342129/worlds-first-fully-biomimetic-embodied-intelligent-robot-debuts-shanghai)**
 
-State-backed funds, Big Tech drive fresh capital into robotics companies, betting on operating systems that underpin humanoid intelligence.
+The world&rsquo;s first &ldquo;fully biomimetic embodied intelligent robot&rdquo; debuted in Shanghai on January 30, 2026. The company behind the robot, DroidUp, claims the human-like…
 
-South China Morning Post • 1d ago
+South China Morning Post • 2d ago
 
 ---
 
@@ -152,17 +166,19 @@ Nikkei Asia • 2d ago
 
 ---
 
+**[China's Farming Robots Are A Lot More Than Just Fancy Tractors](https://www.bgr.com/2087592/china-farming-robots/)**
+
+From robotic fish to fully autonomous planting and harvesting systems, farming robots in China are defining a new frontier of intelligent agriculture.
+
+bgr.com • 2d ago
+
+---
+
 **[Apple Teaching Swift and Robotics Across Its India Supply Chain](https://www.macrumors.com/2026/02/04/apple-teaching-swift-and-robotics-in-india/)**
 
 Apple today announced a new Education Hub in Bengaluru as part of an expanded effort to provide technical training and skills development for employees across its supply chain in India. Apple said the new Apple Education Hub in Bengaluru will serve as a centralized training and coordination facility for supplier employees in India, marking the company's first education hub of its kind in the country.
 
-MacRumors • 21h ago
-
----
-
-**[Sam Altman On Elon Musk, Donald Trump, Robotics, Fatherhood And More](https://www.forbes.com/sites/richardnieva/2026/02/04/sam-altman-on-elon-musk-donald-trump-robotics-fatherhood-and-more/)**
-
-Forbes • 22h ago
+MacRumors • 22h ago
 
 ---
 
@@ -171,22 +187,6 @@ Forbes • 22h ago
 A hands-on, integrated approach has the potential to transform math from a gatekeeper into a gateway for STEM opportunities for all students.
 
 EdSource • 3d ago
-
----
-
-**[Robots descend into lava tubes to prepare for future Moon bases](https://www.sciencedaily.com/releases/2026/02/260201231259.htm)**
-
-Hidden lava tunnels on the Moon and Mars could one day shelter human explorers, offering natural protection from radiation and space debris. A European research team has unveiled a bold new mission concept that uses three different robots working together to explore these extreme underground environments autonomously. Recently tested in the volcanic caves of Lanzarote, the system maps cave entrances, deploys sensors, lowers a scout rover, and creates detailed 3D maps of the interior.
-
-ScienceDaily • 3d ago
-
----
-
-**[China unveils world’s first 'biomimetic AI robot' that smiles, winks](https://interestingengineering.com/ai-robotics/shanghai-unveils-moya-humanoid-robot)**
-
-Moya, a humanoid robot unveiled in Shanghai, is designed to walk, smile, and interact like a human using embodied AI.
-
-Interesting Engineering • 5h ago
 
 ---
 
@@ -200,7 +200,7 @@ Humanoid robots just entered a new phase of realism. In Shanghai, DroidUp reveal
 
 📺 AI Revolution
 
-👁️ 47K • 👍 1K • 💬 311 • ⏱️ 13:31 • 10h ago
+👁️ 47K • 👍 1K • 💬 311 • ⏱️ 13:31 • 11h ago
 
 ---
 
@@ -210,7 +210,7 @@ Chinese researchers have taught a Unitree G1 humanoid robot how to ride a skateb
 
 📺 Kalil 4.0
 
-👁️ 2K • 👍 59 • 💬 6 • ⏱️ 0:46 • 14h ago
+👁️ 2K • 👍 59 • 💬 6 • ⏱️ 0:46 • 15h ago
 
 ---
 
@@ -220,7 +220,7 @@ Tesla's Optimus Gen 2 demonstrates its advanced low-latency tracking and tactile
 
 📺 Batya Feuer
 
-👁️ 2K • 👍 46 • 💬 6 • ⏱️ 0:25 • 13h ago
+👁️ 2K • 👍 46 • 💬 6 • ⏱️ 0:25 • 14h ago
 
 ---
 
