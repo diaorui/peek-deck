@@ -3,13 +3,13 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-02-05T19:13:51.309972+00:00'
+updated: '2026-02-05T19:58:03.046629+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- videos
 - news
+- videos
 - social
 ---
 
@@ -17,7 +17,7 @@ data_types:
 
 Robotics research and industry news
 
-**Last Updated:** February 05, 2026 at 19:13 UTC  
+**Last Updated:** February 05, 2026 at 19:58 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -44,7 +44,7 @@ From RoboHub🤖 on 𝕏: https://x.com/XRoboHub/status/2019135928384778288
 
 Felt so excited to see the robot I've been working on getting this much attention. Guess I need to step up my UX game though :/
 
-3h ago
+4h ago
 
 ---
 
@@ -58,7 +58,7 @@ Felt so excited to see the robot I've been working on getting this much attentio
 
 V1 of my home sentry wake up alarm! Had a lot of fun taking apart this old orbee blaster! Leveraging the absolutely horrendous voltage hungry L298N. I setup a simple circuit leveraging ESP as a microcontroller sending a PMW signal through a single dc motor. ESP receives and transcribes information via Streaming packets over UDP. My pi4 sends packets via a web interface ( created it but can’t attach the image, where you can set a simple timer based on time zone). Additionally for some safety haha - put my pi4 over tail net with a simple UfW firewall to block random devices from finding port22 - also made sure that ESP only accepts packets sent from my pi IP! Let me know if you guys want to see it in action 🪦
 
-10h ago
+11h ago
 
 ---
 
@@ -74,13 +74,13 @@ From Olivier Duchenne on 𝕏: https://x.com/inventorOli/status/2018719028462657
 
 I am designing this thing named Pollux - it is a marine autonomous surface vehicle that follows the swimmer in open waters and stays in a range of 1-2m. If needed, it can pull the person back to the beach. This is the preliminary design. Estimate lenght is 110 cm. Eventually I think of releasing the design as open hardware. https://preview.redd.it/5xdcb7hnhmhg1.png?width=570&format=png&auto=webp&s=3ce8cc813144fe8895dc899ffdc139480696ecff
 
-12h ago
+13h ago
 
 ---
 
 **[Getting into robotics at 28](https://www.reddit.com/r/robotics/comments/1qwsvnl/getting_into_robotics_at_28/)**
 
-59m ago
+1h ago
 
 ---
 
@@ -88,7 +88,7 @@ I am designing this thing named Pollux - it is a marine autonomous surface vehic
 
 We're running an RTOS Ask‑Me‑Anything session and wanted to bring it to the embedded community here. If you work with RTOSes—or are just RTOS‑curious—I'd love to hear your questions. Whether you're dealing with: ✅Edge performance ✅Security ✅Functional safety ✅Interoperability ✅POSIX ✅OS Roadmap ✅Career advice and more. We're happy to dive in. Our Product Management Director Louay Abdelkader and the QNX team offer deep expertise not only in QNX, but also across a wide range of embedded platforms—including Linux, ROS, Android, Zephyr, and more. Bring your questions and hear what’s on the minds of fellow developers. No slides, no sales pitch: just engineers helping engineers. Join the conversation and get a chance to win a Raspberry Pi 5. Your questions answered live! 🎥 Live Q&A + Short Demo + Contest and Raspberry Pi Prizes. Register NOW https://qnx.software/en/campaigns/rtos-ask-me-anything?utm_medium=website&utm_source=web_page&utm_campaign=fy26-q4_qnx_rtos-ask-me-anything_wb&utm_content=ayad-embedded-sub-reddit https://preview.redd.it/7nrxy4sqrphg1.png?width=1024&format=png&auto=webp&s=a5b027f25cb0afb465d36035290d598933650656
 
-1h ago
+2h ago
 
 ---
 
@@ -96,7 +96,7 @@ We're running an RTOS Ask‑Me‑Anything session and wanted to bring it to the 
 
 Hello, We are trying to develop a holonomic (swerve drive) AMR with a maximum payload of 200 kg. We want to use ros2_control for this robot. Can anyone suggest some budget integrated actuators ( motor+gearbox+encoder) and controllers we can use easily with ROS2? We have found Maxon motors and controllers to be too expensive. This will be used to carry auto parts. Should we include a mechanical brake or electromsgnetic brake with the wheels for safety?
 
-6h ago
+7h ago
 
 ---
 
@@ -178,7 +178,7 @@ Forbes • 1d ago
 
 Moya, a humanoid robot unveiled in Shanghai, is designed to walk, smile, and interact like a human using embodied AI.
 
-Interesting Engineering • 14h ago
+Interesting Engineering • 15h ago
 
 ---
 
@@ -200,17 +200,17 @@ Humanoid robots just entered a new phase of realism. In Shanghai, DroidUp reveal
 
 📺 AI Revolution
 
-👁️ 72K • 👍 2K • 💬 456 • ⏱️ 13:31 • 19h ago
+👁️ 84K • 👍 2K • 💬 487 • ⏱️ 13:31 • 20h ago
 
 ---
 
-**[XPeng IRON Robot Falls Then Stands Back Up Live on Stage](https://www.youtube.com/watch?v=kMfcGfRO0R8)**
+**[XPENG IRON Humanoid Robot Stuns Public With First Real World Appearance](https://www.youtube.com/watch?v=StiJLVlXY4o)**
 
-XPeng just showed the world what real humanoid robot progress looks like. During a live public event, the IRON robot stumbled, ...
+XPENG just took a massive step forward in humanoid robotics. The New IRON robot has officially made its first public appearance, ...
 
 📺 DPCcars
 
-👁️ 32K • 👍 132 • 💬 47 • ⏱️ 2:06 • 4d ago
+👁️ 20K • 👍 178 • 💬 37 • ⏱️ 1:21 • 4d ago
 
 ---
 
@@ -224,13 +224,13 @@ Humanoid robotics just took a massive leap into the real world. Researchers in C
 
 ---
 
-**[Moya, customizable humanoid robot, makes debut in Shanghai, powered by DroidUp&#39;s latest tech](https://www.youtube.com/watch?v=AuTbHjCepxs)**
+**[XPeng IRON Robot Falls Then Stands Back Up Live on Stage](https://www.youtube.com/watch?v=kMfcGfRO0R8)**
 
-Today in Shanghai, a humanoid robot named Moya makes her debut, smiling, nodding, making eye contact and walking naturally.
+XPeng just showed the world what real humanoid robot progress looks like. During a live public event, the IRON robot stumbled, ...
 
-📺 ShanghaiEye魔都眼
+📺 DPCcars
 
-👁️ 83K • 👍 944 • 💬 584 • ⏱️ 1:34 • 6d ago
+👁️ 32K • 👍 135 • 💬 47 • ⏱️ 2:06 • 4d ago
 
 ---
 
@@ -240,7 +240,7 @@ China is deploying AI-powered robots to manage traffic and pedestrian flow in ci
 
 📺 NBC News
 
-👁️ 797K • 👍 7K • 💬 3K • ⏱️ 3:13 • 6d ago
+👁️ 798K • 👍 7K • 💬 3K • ⏱️ 3:13 • 6d ago
 
 ---
 
@@ -250,7 +250,7 @@ Credits: IShowSpeed Live ishowspeed started beefing with an ai robot on stream a
 
 📺 WClipMedia
 
-👁️ 570K • 👍 4K • 💬 24 • ⏱️ 0:26 • 1d ago
+👁️ 577K • 👍 4K • 💬 24 • ⏱️ 0:26 • 2d ago
 
 ---
 
@@ -260,7 +260,7 @@ You can watch this video at https://koreanow.com Copyright(C) Unauthorized use, 
 
 📺 KOREA NOW
 
-👁️ 4K • 👍 101 • 💬 25 • ⏱️ 1:54 • 2d ago
+👁️ 4K • 👍 102 • 💬 26 • ⏱️ 1:54 • 2d ago
 
 ---
 
@@ -270,7 +270,7 @@ Tesla's Optimus Gen 2 demonstrates its advanced low-latency tracking and tactile
 
 📺 Batya Feuer
 
-👁️ 4K • 👍 48 • 💬 6 • ⏱️ 0:25 • 22h ago
+👁️ 4K • 👍 52 • 💬 6 • ⏱️ 0:25 • 23h ago
 
 ---
 
@@ -280,17 +280,17 @@ This robotic mouth is designed to replicate how real human lips move while speak
 
 📺 Facts TV 91
 
-👁️ 70K • 👍 471 • 💬 22 • ⏱️ 0:06 • 1d ago
+👁️ 71K • 👍 473 • 💬 22 • ⏱️ 0:06 • 1d ago
 
 ---
 
-**[Elon Musk&#39;s Tesla Bot Gen 4 Reveal New Announcement, Optimus Gen 3 Production Line Here!](https://www.youtube.com/watch?v=bP6UCiUjE-g)**
+**[🔬 Sony’s Microsurgery Robot Prototype: Scaled Hand Control, Auto Tool Swaps, and 4K Precision](https://www.youtube.com/watch?v=OsEDfzhhAiA)**
 
-Elon Musk's Tesla Bot Gen 4 Reveal New Announcement, Optimus Gen 3 Production Line Here! Elon Musk reveals explosive ...
+This is Sony's prototype microsurgery assistance robot, designed for operations where human hands reach their physical limits.
 
-📺 TESLA CAR WORLD
+📺 Fact
 
-👁️ 30K • 👍 518 • 💬 113 • ⏱️ 8:00 • 6d ago
+👁️ 23K • 👍 216 • 💬 7 • ⏱️ 0:06 • 4d ago
 
 ---
 
