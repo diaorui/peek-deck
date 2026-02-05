@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-02-05T15:10:24.828582+00:00'
+updated: '2026-02-05T16:08:18.624659+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- news
+- repositories
 - social
 - videos
-- repositories
+- news
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** February 05, 2026 at 15:10 UTC  
+**Last Updated:** February 05, 2026 at 16:08 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -41,7 +41,23 @@ AI news, discussions, and developments
 
 Women in rural communities describe trauma of moderating violent and pornographic content for global tech companies
 
-🔗 [the Guardian](https://www.theguardian.com/global-development/2026/feb/05/in-the-end-you-feel-blank-indias-female-workers-watching-hours-of-abusive-content-to-train-ai) • 4h ago
+🔗 [the Guardian](https://www.theguardian.com/global-development/2026/feb/05/in-the-end-you-feel-blank-indias-female-workers-watching-hours-of-abusive-content-to-train-ai) • 5h ago
+
+---
+
+**[Early user test of a persistent AI narrative system with kids — some unexpected engagement patterns](https://www.reddit.com/r/artificial/comments/1qwo82n/early_user_test_of_a_persistent_ai_narrative/)**
+
+I ran a small real-world test today with two kids (ages 8 and 11) using a long-running AI story world I’ve been experimenting with. Instead of one-shot story generation, the system maintains a persistent world state where choices carry over and shape future events. I let them pick the setting — they chose a Minecraft × Harry Potter mashup where they play wizards trying to defeat the Ender Dragon. One thing that made a huge difference: I used their real names as the characters, and the story started in their actual school. The engine generated story text and illustrations each round. They made all the choices. After about 10 rounds, they were constantly laughing, debating which option to pick, and building on each other’s ideas. It felt much more like co-creating a world than listening to a story. When I told them it was bedtime, they didn’t want to stop. They kept asking what would happen next. A few observations that surprised me: Personalization seemed to matter more than anything else. Once it became their world, emotional investment was instant. Although I designed it as a single-player experience, co-play emerged naturally. The shared decision-making and social dynamic massively increased engagement. Both ages stayed fully engaged the whole time. I expected the younger one to drop off sooner, but the persistent world kept them both hooked. One issue I noticed: my “re-immersion” mechanic (an in-world character emotionally reconnecting players after breaks instead of a dry recap) triggered too frequently between consecutive rounds. The repetition was noticeable. This looks like a simple trigger tuning problem (should probably only fire after longer gaps). What I haven’t tested yet: – Whether kids can reconnect naturally after a real multi-hour break – Whether they can retell the story in a coherent way – Whether they’ll come back unprompted the next day The earlier stress tests showed that constraint mechanisms help keep long-running narratives technically coherent. What this small user test suggests is that coherence itself isn’t what kids consciously care about — but it seems to be the infrastructure that makes personalization, consequence, and agency feel real. Curious if others working on long-horizon agents, narrative systems, or co-creative AI have seen similar effects around personalization and persistence.
+
+41m ago
+
+---
+
+**[A new platform, Rent-a-Human, lets AI agents pay humans to do the real-world work they can't](https://www.reddit.com/r/artificial/comments/1qwogcl/a_new_platform_rentahuman_lets_ai_agents_pay/)**
+
+On Rentahuman.ai, AI agents can hire people for real-world tasks, from holding signs to picking up packages. It sounds absurd, but it shows what happens when language models stop just talking and start taking action.
+
+🔗 [The Decoder](https://the-decoder.com/a-new-platform-lets-ai-agents-pay-humans-to-do-the-real-world-work-they-cant/) • 32m ago
 
 ---
 
@@ -49,7 +65,7 @@ Women in rural communities describe trauma of moderating violent and pornographi
 
 Ran a real-world test this week: Gemma 3 12B vs paid frontier models across actual business workflows. The honest assessment? 90% of tasks: no meaningful difference. 5%: frontier models worth it (pay-per-use). 5%: neither quite there yet. This matches the data - open models are catching up fast. The article explores: - Why the "gasoline doesn't matter" - only if it powers your task - The shift from "one model to rule them all" to specialized local models - Why even AGI will eventually be open-sourced (historical precedent) - The water company future: infrastructure > model quality https://www.linkedin.com/posts/azizme_activity-7424774668034842624-v1-2?utm_source=share&utm_medium=member_desktop&rcm=ACoAACX_HOcBcpTEWJ3cXyVbVqKJsi39tDHJLFY Curious what others are seeing in their domains.
 
-23h ago
+1d ago
 
 ---
 
@@ -61,7 +77,7 @@ Ran a real-world test this week: Gemma 3 12B vs paid frontier models across actu
 
 **[Simple Machine Learning Testing Tools Guide](https://www.reddit.com/r/artificial/comments/1qwbjhx/simple_machine_learning_testing_tools_guide/)**
 
-🔗 [aivolut.com](https://aivolut.com/blog/simple-machine-learning-testing-tools-guide/) • 10h ago
+🔗 [aivolut.com](https://aivolut.com/blog/simple-machine-learning-testing-tools-guide/) • 11h ago
 
 ---
 
@@ -77,7 +93,7 @@ CEO Strauss Zelnick says generative AI remains a tool for enabling creators to d
 
 Not a fully formed theory, just a line of thought I wanted to sanity-check with people here. I started thinking about consciousness by asking what actually has to exist for it to show up at all. I ended up with four things: persistence (some internal state that carries over time), variability (the ability to change that state), agency (actions that come from it), and gates like reward and punishment that shape what gets reinforced. What surprised me is that once you have these four, something like a “self” seems to show up without ever being built explicitly. In humans, the self doesn’t look like a basic ingredient. It looks more like a by-product of systems that had to survive by inferring causes, assigning credit, and acting under uncertainty. Over time, that pressure seems to have pushed internal models to include the organism itself as a causal source. I tried using reinforcement learning as a way to check mark this idea. Survival lines up pretty cleanly with reward, and evolution with optimization, but looking at standard RL makes the gaps kinda obvious. Most RL agents don’t need anything like a self-model because they’re never really forced to build one. They get by with local credit assignment and task-specific policies. As long as the environment stays fixed, that’s enough. Nothing really pushes them to treat themselves as a changing cause in the world, which makes RL a useful reference point, but also highlights what it leaves out. If artificial consciousness is possible at all, it probably comes from systems where those four conditions can’t be avoided: long-term persistence, continual change, agency that feeds back into future states, and value signals that actually shape the internal model. In that case, the self wouldn’t be something you design up front. It would just fall out of the dynamics, similar to how it seems to have happened in biological systems. I’m curious whether people think a self really can emerge this way, or if it has to be explicitly represented.
 
-20h ago
+21h ago
 
 ---
 
@@ -97,45 +113,21 @@ I found this argument interesting. If US allows Nvidia to do business with China
 
 ---
 
-**[Elon Musk links SpaceX and xAI in a record-setting merger to boost AI](https://www.reddit.com/r/artificial/comments/1quud71/elon_musk_links_spacex_and_xai_in_a_recordsetting/)**
-
-SpaceX's acquisition of xAI signals a bold push to merge artificial intelligence with space infrastructure at an unprecedented scale.
-
-🔗 [Interesting Engineering](https://interestingengineering.com/culture/elon-musk-merges-spacex-and-xai) • 2d ago
-
----
-
-**[Why world models will bring us to AGI, not LLMs](https://www.reddit.com/r/artificial/comments/1qv4yyr/why_world_models_will_bring_us_to_agi_not_llms/)**
-
-Yann Lecun recently shared that a cat is smarter than ChatGPT and that we are never going to get to human-level intelligence by just training on text. My personal opinion is not only are they unreliable but it can be a safety issue as well in high-stakes environments like enterprises, healthcare and more. World models are fundamentally different. These AI systems build internal representations of how reality works, allowing them to understand cause and effect rather than just predict tokens. There has been a shift lately and major figures from Nvidia's CEO Jensen Huang to Demis Hassabis at Google DeepMind are talking more openly about world models. I believe we're still in the early stages of discovering how transformative this technology will be for reaching AGI. Research and application are accelerating, especially in enterprise contexts. A few examples include: WoW (an agentic safety benchmark) uses audit logs to give agents a "world model" for tracking the consequences of their actions. Similarly, Kona by Logical Intelligence is developing energy-based reasoning models that move beyond pure language prediction. While more practical applications are still emerging, the direction is clear: true intelligence requires understanding the world, not just language patterns. Curious what others think?
-
-1d ago
-
----
-
 ---
 
 ## Google News: "ai"
 
-**[‘In the end, you feel blank’: India’s female workers watching hours of abusive content to train AI](https://www.theguardian.com/global-development/2026/feb/05/in-the-end-you-feel-blank-indias-female-workers-watching-hours-of-abusive-content-to-train-ai)**
+**[Introducing OpenAI Frontier](https://openai.com/index/introducing-openai-frontier/)**
 
-Women in rural communities describe trauma of moderating violent and pornographic content for global tech companies
+OpenAI Frontier is an enterprise platform for building, deploying, and managing AI agents with shared context, onboarding, permissions, and governance.
 
-The Guardian • 3h ago
-
----
-
-**[Anthropic’s new AI tool sends shudders through software stocks](https://www.cnn.com/2026/02/04/investing/us-stocks-anthropic-software)**
-
-Anthropic just launched a new AI tool that could replace dozens of software tools. And Wall Street is panicked.
-
-cnn.com • 21h ago
+OpenAI • 8h ago
 
 ---
 
-**[OpenAI Unveils Platform to Help Companies Deploy ‘AI Coworkers’](https://www.bloomberg.com/news/articles/2026-02-05/openai-unveils-platform-to-help-companies-deploy-ai-coworkers)**
+**[OpenAI Unveils Frontier, a Product for Building ‘AI Co-Workers’](https://www.wsj.com/articles/openai-unveils-frontier-a-product-for-building-ai-co-workers-a013784c?gaa_at=eafs&gaa_n=AWEtsqf2ybnEWUhhrBHDjk-tJIv3FkODHdfWaG1thsISVYi5vlIUHTeGgGYa&gaa_ts=6984c3d2&gaa_sig=-u-MnQaR6t2BTG6HWQevpGWGeQKRWREU4w_YEC5nRTL9g-4iloLwyRk3yKv6rZT6wX3uuBy46jd28cXFG1KU_w%3D%3D)**
 
-Bloomberg • 1h ago
+The Wall Street Journal • 2h ago
 
 ---
 
@@ -143,35 +135,15 @@ Bloomberg • 1h ago
 
 OpenAI is stepping up its push into enterprise services as rivals gain ground.
 
-Axios • 1h ago
+Axios • 2h ago
 
 ---
 
-**[OpenAI Unveils Frontier, a Product for Building ‘AI Co-Workers’](https://www.wsj.com/articles/openai-unveils-frontier-a-product-for-building-ai-co-workers-a013784c?gaa_at=eafs&gaa_n=AWEtsqcMGHN8NShLAE_C4pKNGoGIV24OX2y9IhbYEnxWLFPyGZ7RQ5hJyQ3j&gaa_ts=6984abf3&gaa_sig=lPvrhNrssKeQl5MSZUd1Jmz-PWpxsOYHVBgtaWYDZ1-yO5oP2RpA63iiIuVQN22Fgc0CeQO5et9oH8AnK8qrwQ%3D%3D)**
+**[Google set to double AI spending to $185bn after strong earnings](https://www.ft.com/content/22d97d8e-1101-4b1b-8a28-66054dfa363a)**
 
-The Wall Street Journal • 1h ago
+Search giant reports more than $400bn in annual revenue for the first time
 
----
-
-**[New York legislation requires disclosure on AI-generated performers in advertising and strengthens post-mortem publicity rights](https://www.reuters.com/legal/legalindustry/new-york-legislation-requires-disclosure-ai-generated-performers-advertising--pracin-2026-02-05/)**
-
-Reuters • 1h ago
-
----
-
-**[Wolfe upgrades Zoom, citing improved growth profile and AI monetization](https://www.cnbc.com/2026/02/05/wolfe-upgrades-zoom-cites-improving-growth-profile-and-ai-monetization.html)**
-
-Wolfe Research's $115 price target implies upside of more than 25% for shares of Zoom Communications.
-
-CNBC • 1h ago
-
----
-
-**[Where is AI showing up in the productivity data?](https://www.ft.com/content/d6fdc04f-85cf-4358-a686-298c3de0e25b)**
-
-Signs of its effects are already starting to peek through
-
-Financial Times • 10h ago
+Financial Times • 18h ago
 
 ---
 
@@ -179,13 +151,41 @@ Financial Times • 10h ago
 
 The search giant's proposed capex spend for 2026 exceeds that of its hyperscalers peers.
 
-CNBC • 14h ago
+CNBC • 15h ago
 
 ---
 
-**[Google Leans Hard Into Its AI-Winner Status](https://www.wsj.com/tech/ai/google-leans-hard-into-its-ai-winner-status-6111835e?gaa_at=eafs&gaa_n=AWEtsqcjgsfy-aFsvEsMh8DjD_cMn0DhPVHbaPMXPIMlMjplswGVaN3mdIvw&gaa_ts=6984abf3&gaa_sig=TVKikOC36tzVsWh7_DbQeZ3IjEmTkhn8AeNE9YUvBe844hQRLD-NaRZD7tEbENHrsCCM0ybGY5cQMc9CyRivgQ%3D%3D)**
+**[Google Leans Hard Into Its AI-Winner Status](https://www.wsj.com/tech/ai/google-leans-hard-into-its-ai-winner-status-6111835e?gaa_at=eafs&gaa_n=AWEtsqe1wrLmFVwN1l5Md4mdYcFqyfgrK-Pkr4aFATUBg-1jj4VBRIoffisg&gaa_ts=6984c3d2&gaa_sig=_MLYRt__CXwd3V0dU55eY9A8_gc2-0McCDfS4QvOvnZLz_JvdLjzjzFhVNDqTvkcPX_6cvuGxawgrBg7Z8Xs-A%3D%3D)**
 
-The Wall Street Journal • 4h ago
+The Wall Street Journal • 5h ago
+
+---
+
+**[Lagarde Awaits More AI Gains in Productivity Unleashed in Europe](https://www.bloomberg.com/news/articles/2026-02-05/lagarde-awaits-more-ai-gains-in-productivity-unleashed-in-europe)**
+
+Bloomberg • 35m ago
+
+---
+
+**[Why AI won’t drive innovation without the right skills](https://www.businessreport.com/article/why-ai-wont-drive-innovation-without-the-right-skills)**
+
+As generative AI becomes embedded in everyday workplace tasks, many employers are betting it will unlock higher levels of creativity with staff. New research suggests the payoff is real—but uneven, Harvard Business Review writes.  A recent study finds that AI boosts creativity primarily for employees with strong metacognition, or the ability to plan, monitor and […]
+
+Baton Rouge Business Report • 40m ago
+
+---
+
+**[Consolidating systems for AI with iPaaS](https://www.technologyreview.com/2026/02/05/1132200/consolidating-systems-for-ai-with-ipaas/)**
+
+Years of layering new tools on old infrastructure has left enterprise IT brittle and fragmented. iPaaS offers a more cohesive path forward.
+
+MIT Technology Review • 47m ago
+
+---
+
+**[Elon Musk is betting his business empire on AI](https://www.economist.com/business/2026/02/04/elon-musk-is-betting-his-business-empire-on-ai)**
+
+The Economist • 17h ago
 
 ---
 
@@ -197,7 +197,7 @@ The Wall Street Journal • 4h ago
 
 SaaS is the most profitable business model on Earth.1 It’s easy to understand why: build once, sell the same thing again ad infinitum, and don’t suffer any marginal costs on more sales. I have been writing software for more than half my life. In the last year itself, I’ve talked to hundreds of founders and operators in SF, from preseed to Series E companies. AI is bringing an existential threat to a lot of B2B SaaS executives: How to keep asking customers for renewal, when every customer feels they can get something better built with vibe-coded AI products? And the market is pricing it in. Morgan Stanley’s SaaS basket has lagged the Nasdaq by 40 points since December. HubSpot and Klaviyo are down ~30%. Analysts are writing notes titled “No Reasons to Own” software stocks. The market is reflecting our new reality (Source: Bloomberg) Whenever I bring a new friend to the Salesforce Park, they are in absolute awe. And, the meme remains true that no one even knows what Salesforce does. Whatever they’re doing, they’re clearly earning enough revenue to purchase multiple blocks in SF. ↩
 
-⬆️ 399 • 💬 623 • 22h ago • [N’s Blog](https://nmn.gl/blog/ai-killing-b2b-saas)
+⬆️ 431 • 💬 646 • 22h ago • [N’s Blog](https://nmn.gl/blog/ai-killing-b2b-saas)
 
 ---
 
@@ -229,7 +229,7 @@ China's space program is quietly building momentum for a moon landing by 2030. C
 
 The marketplace where AI agents rent humans. MCP integration, REST API, flexible payments. Book humans for real-world tasks your AI can't do.
 
-⬆️ 138 • 💬 107 • 2d ago • [RentAHuman.ai](https://rentahuman.ai)
+⬆️ 141 • 💬 108 • 2d ago • [RentAHuman.ai](https://rentahuman.ai)
 
 ---
 
@@ -253,7 +253,7 @@ Like many developers, I find myself more and more using AI agents to help with s
 
 If you paint a picture of Sonic the Hedgehog in your living room, you are technically creating an unauthorized derivative work—but in practice, no one cares. Private, noncommercial creation has always lived in a space where copyright law exists on paper but is rarely enforced.
 
-⬆️ 111 • 💬 125 • 1d ago • [Jason Willems](https://www.jasonwillems.com/technology/2026/02/02/AI-Copyright/)
+⬆️ 111 • 💬 128 • 2d ago • [Jason Willems](https://www.jasonwillems.com/technology/2026/02/02/AI-Copyright/)
 
 ---
 
@@ -265,7 +265,7 @@ If you paint a picture of Sonic the Hedgehog in your living room, you are techni
 
 **[The next steps for Airbus' big bet on open rotor engines](https://news.ycombinator.com/item?id=46872238)**
 
-⬆️ 95 • 💬 86 • 1d ago • [Aerospace America](https://aerospaceamerica.aiaa.org/the-next-steps-for-airbus-big-bet-on-open-rotor-engines/)
+⬆️ 95 • 💬 86 • 2d ago • [Aerospace America](https://aerospaceamerica.aiaa.org/the-next-steps-for-airbus-big-bet-on-open-rotor-engines/)
 
 ---
 
@@ -279,7 +279,7 @@ Palantir CTO Shyam Sankar explains how Americans can leverage the use of AI, how
 
 📺 Fox Business
 
-👁️ 27K • 👍 518 • 💬 200 • ⏱️ 4:22 • 19h ago
+👁️ 27K • 👍 518 • 💬 200 • ⏱️ 4:22 • 20h ago
 
 ---
 
@@ -299,7 +299,7 @@ Want to make money and save time with AI? Get AI Coaching, Support & Courses ...
 
 📺 Julian Goldie SEO
 
-👁️ 875 • 👍 26 • 💬 6 • ⏱️ 8:53 • 6h ago
+👁️ 875 • 👍 26 • 💬 6 • ⏱️ 8:53 • 7h ago
 
 ---
 
@@ -319,7 +319,7 @@ The latest AI News. Learn about LLMs, Gen AI and get ready for the rollout of AG
 
 📺 Wes Roth
 
-👁️ 53K • 👍 2K • 💬 455 • ⏱️ 10:47 • 10h ago
+👁️ 53K • 👍 2K • 💬 455 • ⏱️ 10:47 • 11h ago
 
 ---
 
@@ -349,7 +349,7 @@ CNBC's Deirdre Bosa reports on news regarding the software sector.
 
 📺 CNBC Television
 
-👁️ 85K • 👍 901 • 💬 409 • ⏱️ 3:30 • 21h ago
+👁️ 85K • 👍 901 • 💬 409 • ⏱️ 3:30 • 22h ago
 
 ---
 
@@ -369,7 +369,7 @@ Learn 50+ Years of Economics in Only 7 Weeks, by applying here: https://www.stev
 
 📺 ProfSteveKeen
 
-👁️ 36K • 👍 2K • 💬 328 • ⏱️ 13:16 • 20h ago
+👁️ 36K • 👍 2K • 💬 328 • ⏱️ 13:16 • 21h ago
 
 ---
 
@@ -385,7 +385,7 @@ Kimi K2.5 is a native multimodal agentic model with 1T parameters, excelling in 
 
 `image-text-to-text` `170.7B`
 
-⬇️ 202,615 • ❤️ 1,713 • 11h ago
+⬇️ 202,615 • ❤️ 1,713 • 12h ago
 
 ---
 
@@ -409,7 +409,7 @@ Step 3.5 Flash is an efficient, open-source MoE foundation model (11B active par
 
 `text-generation` `199.4B`
 
-⬇️ 8,686 • ❤️ 437 • 4h ago
+⬇️ 8,686 • ❤️ 437 • 5h ago
 
 ---
 
@@ -443,7 +443,7 @@ MiniCPM-o 4.5 is a 9B parameter multimodal LLM excelling in vision, speech, and 
 
 `any-to-any` `9.4B`
 
-⬇️ 1,002 • ❤️ 388 • 9h ago
+⬇️ 1,002 • ❤️ 388 • 10h ago
 
 ---
 
@@ -637,7 +637,7 @@ Browser automation CLI for AI agents
 
 `TypeScript`
 
-⭐ 12.7k • 🔱 722 • 8h ago
+⭐ 12.7k • 🔱 722 • 9h ago
 
 ---
 
@@ -647,7 +647,7 @@ AI → JSON → UI
 
 `TypeScript`
 
-⭐ 10.0k • 🔱 536 • 4h ago
+⭐ 10.0k • 🔱 536 • 5h ago
 
 ---
 
@@ -657,7 +657,7 @@ LLM驱动的 A/H/美股智能分析器，多数据源行情 + 实时新闻 + Gem
 
 `Python` `agent` `ai` `aigc` `gemini` `llm`
 
-⭐ 9.5k • 🔱 10.0k • 2h ago
+⭐ 9.5k • 🔱 10.0k • 3h ago
 
 ---
 
@@ -677,7 +677,7 @@ The Ultimate Collection of 600+ Agentic Skills for Claude Code/Antigravity/Curso
 
 `Python` `agentic-skills` `ai-agents` `antigravity` `autonomous-coding` `claude-code`
 
-⭐ 7.3k • 🔱 1.5k • 6h ago
+⭐ 7.3k • 🔱 1.5k • 7h ago
 
 ---
 

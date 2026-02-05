@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-02-05T15:10:24.845990+00:00'
+updated: '2026-02-05T16:08:18.643043+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- news
 - social
 - videos
+- news
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** February 05, 2026 at 15:10 UTC  
+**Last Updated:** February 05, 2026 at 16:08 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -36,13 +36,21 @@ Robotics research and industry news
 
 From RoboHub🤖 on 𝕏: https://x.com/XRoboHub/status/2019135928384778288
 
-5h ago
+6h ago
+
+---
+
+**[Robotics engineer meets UX problems](https://www.reddit.com/r/robotics/comments/1qwo57d/robotics_engineer_meets_ux_problems/)**
+
+Felt so excited to see the robot I've been working on getting this much attention. Guess I need to step up my UX game though :/
+
+44m ago
 
 ---
 
 **[The Ability Hand: The Fastest Touch-Sensitive Bionic Hand in the World](https://www.reddit.com/r/robotics/comments/1qw456t/the_ability_hand_the_fastest_touchsensitive/)**
 
-16h ago
+17h ago
 
 ---
 
@@ -54,11 +62,27 @@ From Olivier Duchenne on 𝕏: https://x.com/inventorOli/status/2018719028462657
 
 ---
 
+**[V1 Wake up Sentry alarm](https://www.reddit.com/r/robotics/comments/1qwfqz1/v1_wake_up_sentry_alarm/)**
+
+V1 of my home sentry wake up alarm! Had a lot of fun taking apart this old orbee blaster! Leveraging the absolutely horrendous voltage hungry L298N. I setup a simple circuit leveraging ESP as a microcontroller sending a PMW signal through a single dc motor. ESP receives and transcribes information via Streaming packets over UDP. My pi4 sends packets via a web interface ( created it but can’t attach the image, where you can set a simple timer based on time zone). Additionally for some safety haha - put my pi4 over tail net with a simple UfW firewall to block random devices from finding port22 - also made sure that ESP only accepts packets sent from my pi IP! Let me know if you guys want to see it in action 🪦
+
+7h ago
+
+---
+
 **[My ongoing project (I) - marine support drone](https://www.reddit.com/r/robotics/comments/1qwe6xv/my_ongoing_project_i_marine_support_drone/)**
 
 I am designing this thing named Pollux - it is a marine autonomous surface vehicle that follows the swimmer in open waters and stays in a range of 1-2m. If needed, it can pull the person back to the beach. This is the preliminary design. Estimate lenght is 110 cm. Eventually I think of releasing the design as open hardware. https://preview.redd.it/5xdcb7hnhmhg1.png?width=570&format=png&auto=webp&s=3ce8cc813144fe8895dc899ffdc139480696ecff
 
-8h ago
+9h ago
+
+---
+
+**[Physical AI, simulation, and real-time reasoning in autonomous trucking](https://www.reddit.com/r/robotics/comments/1qwn2ji/physical_ai_simulation_and_realtime_reasoning_in/)**
+
+A lot of autonomous driving conversations focus on cars and sensors, but trucks feel more like robots that just happen to live on highways. Waabi is building its autonomy system with that in mind. Instead of modifying older self-driving stacks, they started from scratch and built a system that’s meant to work across different trucks and sensor setups. The idea is to avoid locking the software to a single vehicle configuration.
+
+🔗 [Automate](https://www.automate.org/ai/industry-insights/waabis-long-haul-raquel-urtasun-on-the-future-of-autonomy) • 1h ago
 
 ---
 
@@ -66,15 +90,7 @@ I am designing this thing named Pollux - it is a marine autonomous surface vehic
 
 Hello, We are trying to develop a holonomic (swerve drive) AMR with a maximum payload of 200 kg. We want to use ros2_control for this robot. Can anyone suggest some budget integrated actuators ( motor+gearbox+encoder) and controllers we can use easily with ROS2? We have found Maxon motors and controllers to be too expensive. This will be used to carry auto parts. Should we include a mechanical brake or electromsgnetic brake with the wheels for safety?
 
-2h ago
-
----
-
-**[V1 Wake up Sentry alarm](https://www.reddit.com/r/robotics/comments/1qwfqz1/v1_wake_up_sentry_alarm/)**
-
-V1 of my home sentry wake up alarm! Had a lot of fun taking apart this old orbee blaster! Leveraging the absolutely horrendous voltage hungry L298N. I setup a simple circuit leveraging ESP as a microcontroller sending a PMW signal through a single dc motor. ESP receives and transcribes information via Streaming packets over UDP. My pi4 sends packets via a web interface ( created it but can’t attach the image, where you can set a simple timer based on time zone). Additionally for some safety haha - put my pi4 over tail net with a simple UfW firewall to block random devices from finding port22 - also made sure that ESP only accepts packets sent from my pi IP! Let me know if you guys want to see it in action 🪦
-
-6h ago
+3h ago
 
 ---
 
@@ -90,23 +106,7 @@ Hi everyone! I’m excited to finally share a project I’ve been working on for
 
 [Solved] - https://www.reddit.com/r/robotics/comments/1qwaqcl/comment/o3ovu8u/ I have 2 Serial Bus Servo Adapter. One is from Waveshare and another is from SmartElex (Ordered from Robocraze recently) I am trying to setup motors, if I use the one from Waveshare, I see ~/Desktop$ lerobot-setup-motors --robot.type=so100_follower --robot.port=/dev/ttyACM0 Connect the controller board to the 'gripper' motor only and press enter. 'gripper' motor id set to 6 Connect the controller board to the 'wrist_roll' motor only and press enter. If I use the one from SmartElex, I see ~/Desktop$ lerobot-setup-motors --robot.type=so100_follower --robot.port=/dev/ttyACM0 Connect the controller board to the 'gripper' motor only and press enter. Traceback (most recent call last): File "/home/singhalkarun/miniforge3/envs/lerobot/bin/lerobot-setup-motors", line 6, in <module> sys.exit(main()) File "/home/singhalkarun/miniforge3/envs/lerobot/lib/python3.10/site-packages/lerobot/scripts/lerobot_setup_motors.py", line 88, in main setup_motors() File "/home/singhalkarun/miniforge3/envs/lerobot/lib/python3.10/site-packages/draccus/argparsing.py", line 225, in wrapper_inner response = fn(cfg, *args, **kwargs) File "/home/singhalkarun/miniforge3/envs/lerobot/lib/python3.10/site-packages/lerobot/scripts/lerobot_setup_motors.py", line 84, in setup_motors device.setup_motors() File "/home/singhalkarun/miniforge3/envs/lerobot/lib/python3.10/site-packages/lerobot/robots/so_follower/so_follower.py", line 175, in setup_motors self.bus.setup_motor(motor) File "/home/singhalkarun/miniforge3/envs/lerobot/lib/python3.10/site-packages/lerobot/motors/motors_bus.py", line 513, in setup_motor initial_baudrate, initial_id = self._find_single_motor(motor) File "/home/singhalkarun/miniforge3/envs/lerobot/lib/python3.10/site-packages/lerobot/motors/feetech/feetech.py", line 172, in _find_single_motor return self._find_single_motor_p0(motor, initial_baudrate) File "/home/singhalkarun/miniforge3/envs/lerobot/lib/python3.10/site-packages/lerobot/motors/feetech/feetech.py", line 196, in _find_single_motor_p0 raise RuntimeError(f"Motor '{motor}' (model '{model}') was not found. Make sure it is connected.") RuntimeError: Motor 'gripper' (model 'sts3215') was not found. Make sure it is connected. Here are links to both of them: Waveshare - https://www.waveshare.com/bus-servo-adapter-a.htm?srsltid=AfmBOorDAxdg-X46PhHTnRk2xVX1xfO0SGSX9FUYJrWPGJI7Lwsv8RAo SmartElex (from Robocraze) - https://robocraze.com/products/smartelex-serial-bus-servo-driver-board-integrates-servo-power-supply-and-control-circuit?srsltid=AfmBOoqP4-ieEPdL8TR6ygbetmpKOUb6lq0zvQDFiO2GzbQn7VLhyPME Other Information for SmartElex Board which is failing to work: Power is working fine, I can see red light on the board as power is attached and I can also see red light on motor as it is attached to the board I am using STS3215 Servos https://preview.redd.it/jfgpptd5mlhg1.jpg?width=3024&format=pjpg&auto=webp&s=d7dbd882c7b717d9997f31caa41d62c4a8238185
 
-11h ago
-
----
-
-**[Day 135 of building Asimov, an open-source humanoid. Assembling the upper body now, speaker and other components going in](https://www.reddit.com/r/robotics/comments/1qvluxh/day_135_of_building_asimov_an_opensource_humanoid/)**
-
-Asimov is an open-source humanoid robot. We open-sourced the leg design and XML files for simulation. It's built with off-the-shelf components and 3D-printable parts. All files and parts are here: https://github.com/asimovinc/asimov-v0
-
-1d ago
-
----
-
-**[Added OpenClaw-powered Missions to my Robot](https://www.reddit.com/r/robotics/comments/1qvz05e/added_openclawpowered_missions_to_my_robot/)**
-
-Yesterday, I connected a RealSense camera to OpenClaw and maybe demonstrated the first ROS-powered physical AI robot on the platform. Today, I added teleop (remote control) and AI missions without writing a line of code!
-
-19h ago
+12h ago
 
 ---
 
@@ -116,7 +116,7 @@ Yesterday, I connected a RealSense camera to OpenClaw and maybe demonstrated the
 
 **[Bedrock, an A.I. Start-Up for Construction, Raises $270 Million](https://www.nytimes.com/2026/02/04/business/dealbook/bedrock-robotics-ai-fundraise.html)**
 
-The New York Times • 23h ago
+The New York Times • 1d ago
 
 ---
 
@@ -124,15 +124,7 @@ The New York Times • 23h ago
 
 ETM said its TFM technology enables OEMs to simplify mechanical designs, reduce costs, and achieve performance benchmarks.
 
-The Robot Report • 23h ago
-
----
-
-**[The robots we deserve](https://www.vox.com/technology/476657/chatgpt-mit-csail-tesla-humanoid-robot)**
-
-﻿Science fiction promised us humanoids. Do we even want them?
-
-vox.com • 4h ago
+The Robot Report • 1d ago
 
 ---
 
@@ -140,7 +132,23 @@ vox.com • 4h ago
 
 MedOS, which the Stanford-Princeton AI Coscientist Team is building from data from multiple sources, is designed to facilitate robot aid in clinical settings.
 
-The Robot Report • 1h ago
+The Robot Report • 2h ago
+
+---
+
+**[Robotics is forcing a fundamental rethink of AI compute, data, and systems design](https://www.theregister.com/2026/02/03/robotics-ai-infrastructure-next/)**
+
+Partner Content: Robotics is forcing a fundamental rethink of AI compute, data, and systems design
+
+theregister.com • 2d ago
+
+---
+
+**[World’s first ‘biomimetic AI robot’ debuts in Shanghai](https://www.scmp.com/video/china/3342129/worlds-first-fully-biomimetic-embodied-intelligent-robot-debuts-shanghai)**
+
+The world&rsquo;s first &ldquo;fully biomimetic embodied intelligent robot&rdquo; debuted in Shanghai on January 30, 2026. The company behind the robot, DroidUp, claims the human-like…
+
+South China Morning Post • 3d ago
 
 ---
 
@@ -152,6 +160,22 @@ TechCrunch • 3d ago
 
 ---
 
+**[SoftBank, Fanuc turn to partners as robotics and AI merge](https://asia.nikkei.com/business/technology/artificial-intelligence/softbank-fanuc-turn-to-partners-as-robotics-and-ai-merge)**
+
+Japan's robotics industry struggles to catch up to physical AI technology
+
+Nikkei Asia • 2d ago
+
+---
+
+**[China's Farming Robots Are A Lot More Than Just Fancy Tractors](https://www.bgr.com/2087592/china-farming-robots/)**
+
+From robotic fish to fully autonomous planting and harvesting systems, farming robots in China are defining a new frontier of intelligent agriculture.
+
+bgr.com • 2d ago
+
+---
+
 **[Apple Teaching Swift and Robotics Across Its India Supply Chain](https://www.macrumors.com/2026/02/04/apple-teaching-swift-and-robotics-in-india/)**
 
 Apple today announced a new Education Hub in Bengaluru as part of an expanded effort to provide technical training and skills development for employees across its supply chain in India. Apple said the new Apple Education Hub in Bengaluru will serve as a centralized training and coordination facility for supplier employees in India, marking the company's first education hub of its kind in the country.
@@ -160,35 +184,11 @@ MacRumors • 1d ago
 
 ---
 
-**[China unveils world’s first 'biomimetic AI robot' that smiles, winks](https://interestingengineering.com/ai-robotics/shanghai-unveils-moya-humanoid-robot)**
+**[COMMENTARY: Teaching mathematics with coding and robotics can transform California math instruction](https://edsource.org/2026/california-math-framework-coding-robotics/750225)**
 
-Moya, a humanoid robot unveiled in Shanghai, is designed to walk, smile, and interact like a human using embodied AI.
+A hands-on, integrated approach has the potential to transform math from a gatekeeper into a gateway for STEM opportunities for all students.
 
-Interesting Engineering • 10h ago
-
----
-
-**[Duke Robotics Announces Launch of AEROTRACE™ - AI-Powered Advanced Aerial Monitoring and Intelligence Solution](https://finance.yahoo.com/news/duke-robotics-announces-launch-aerotrace-133000393.html)**
-
-An AI-Enabled Aerial Intelligence Solution Delivering Actionable Insights for Infrastructure Monitoring New Offering Complements Duke’s Robotic Insulator Cleaning Solutions While Expanding Its Infrastructure Intelligence Capabilities Fort Lauderdale, FL, Feb. 05, 2026 (GLOBE NEWSWIRE) -- Duke Robotics Corp. (OTCQB: DUKR) (“Duke Robotics” or the “Company”), a leader in advanced robotics and drone-based solutions for civilian and defense markets, today announced the launch of AEROTRACE™1, a new ae
-
-Yahoo Finance • 1h ago
-
----
-
-**[Humanoid robots: The vendors, integrators and software players](https://www.fierce-network.com/wireless/humanoid-robots-vendors-integrators-and-software-players)**
-
-Tesla said that it wants to produce 1 million humanoid robots annually by 2030Humanoid robot vendors abound in the spaceHumanoid rob | Humanoid robots will be a fixture on factory floors within a few years, so we look at the players in the market, including Tesla, Agibot and NEURA.
-
-Fierce Network • 21h ago
-
----
-
-**[Opentrons Accelerates the Enablement of AI-Based Laboratory Robotics with NVIDIA](https://www.businesswire.com/news/home/20260205776615/en/Opentrons-Accelerates-the-Enablement-of-AI-Based-Laboratory-Robotics-with-NVIDIA)**
-
-Opentrons Labworks Inc., a laboratory robotics company enabling AI-driven autonomous science, is accelerating the development and deployment of physical AI-e...
-
-Business Wire • 2h ago
+EdSource • 3d ago
 
 ---
 
@@ -202,7 +202,7 @@ Humanoid robots just entered a new phase of realism. In Shanghai, DroidUp reveal
 
 📺 AI Revolution
 
-👁️ 62K • 👍 2K • 💬 389 • ⏱️ 13:31 • 15h ago
+👁️ 62K • 👍 2K • 💬 389 • ⏱️ 13:31 • 16h ago
 
 ---
 
@@ -232,7 +232,7 @@ Tesla's Optimus Gen 2 demonstrates its advanced low-latency tracking and tactile
 
 📺 Batya Feuer
 
-👁️ 4K • 👍 48 • 💬 6 • ⏱️ 0:25 • 18h ago
+👁️ 4K • 👍 48 • 💬 6 • ⏱️ 0:25 • 19h ago
 
 ---
 
@@ -252,7 +252,7 @@ XPeng just showed the world what real humanoid robot progress looks like. During
 
 📺 DPCcars
 
-👁️ 31K • 👍 131 • 💬 47 • ⏱️ 2:06 • 3d ago
+👁️ 31K • 👍 131 • 💬 47 • ⏱️ 2:06 • 4d ago
 
 ---
 
@@ -292,7 +292,7 @@ This is Sony's prototype microsurgery assistance robot, designed for operations 
 
 📺 Fact
 
-👁️ 23K • 👍 216 • 💬 7 • ⏱️ 0:06 • 3d ago
+👁️ 23K • 👍 216 • 💬 7 • ⏱️ 0:06 • 4d ago
 
 ---
 
