@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-02-06T17:12:52.385928+00:00'
+updated: '2026-02-06T18:06:20.152960+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
 - news
+- repositories
 - videos
 - social
-- repositories
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** February 06, 2026 at 17:12 UTC  
+**Last Updated:** February 06, 2026 at 18:06 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -41,7 +41,7 @@ AI news, discussions, and developments
 
 It happened again. A 13-person team in Shenzhen just shipped a browser-based version of Claude Code. No terminal, no setup, runs in a sandbox. Anthropic built Claude Code but hasn't shipped anything like this themselves. This is the same pattern as Manus. Chinese company takes a powerful Western AI tool, strips the friction, and ships it to a mainstream audience before the original builders get around to it. US labs keep building the most powerful models in the world. Chinese teams keep building the products that actually put them in people's hands. OpenAI builds GPT, China ships the wrappers. Anthropic builds Claude Code, a Shenzhen startup makes it work in a browser tab. US builds the engines. China builds the cars. Is this just how it's going to be, or are Western AI companies eventually going to care about distribution as much as they care about benchmarks?
 
-4h ago
+5h ago
 
 ---
 
@@ -49,7 +49,7 @@ It happened again. A 13-person team in Shenzhen just shipped a browser-based ver
 
 Anthropic shipped Opus 4.6 and OpenAI shipped GPT-5.3-Codex on the same day, 27 minutes apart. Both claim benchmark leads. Both are right -- just on different benchmarks. Where each model leads Opus 4.6 tops reasoning tasks: Humanity's Last Exam (53.1%), GDPval-AA (144 Elo ahead of GPT-5.2), BrowseComp (84.0%). GPT-5.3-Codex takes coding: Terminal-Bench 2.0 at 75.1% vs Opus 4.6's 69.9%. The pricing spread is hard to ignore Model Input/M Output/M Gemini 3 Pro $2 $12.00 GPT-5.2 $1.75 $14.00 Opus 4.6 $5.00 $25.00 MiMo V2 Flash $0.10 $0.30 Opus 4.6 costs 2x Gemini on input. Open-source alternatives cost 50x less. At some point the benchmark gap has to justify the price gap -- and for many tasks it doesn't. 1M context is becoming table stakes Opus 4.6 adds 1M tokens (beta, 2x pricing past 200K). Gemini already offers 1M at standard pricing. The real differentiator is retrieval quality at that scale -- Opus 4.6 scores 76% on MRCR v2 (8-needle, 1M), which is the strongest result so far. Market reaction was immediate Thomson Reuters stock fell 15.83%, LegalZoom dropped nearly 20%. Frontier model launches are now moving SaaS valuations in real time. The tradeoff nobody expected Opus 4.6 gets writing quality complaints from early users. The theory: RL optimizations for reasoning degraded prose output. Models are getting better at some things by getting worse at others. No single model wins across the board anymore. The frontier is fragmenting by task type. Source with full benchmarks and analysis: Claude Opus 4.6: 1M Context, Agent Teams, Adaptive Thinking, and a Showdown with GPT-5.3
 
-6h ago
+7h ago
 
 ---
 
@@ -65,7 +65,7 @@ Women in rural communities describe trauma of moderating violent and pornographi
 
 Been using ChatGPT for about 24 months now and I'm curious how others integrate it into their work. My current process: Brainstorm ideas with AI Write the first draft myself Use AI to help restructure or expand sections Edit everything manually at the end I've noticed that keeping my own voice in the mix makes a huge difference - the output feels way more natural than just prompting and copying. What's your workflow? Do you use it more for ideation or actual writing? Also curious if anyone's tried other tools alongside ChatGPT - I've been testing a few like aitextools for checking how my writing comes across, but always looking for new suggestions.
 
-5h ago
+6h ago
 
 ---
 
@@ -73,7 +73,7 @@ Been using ChatGPT for about 24 months now and I'm curious how others integrate 
 
 I found this experiment interesting because it doesn’t frame AI as “breaking” a system. Instead, it treats AI as a new kind of participant interacting with infrastructure that was built around human assumptions consistency, behavior, timing, and intent. What stood out to me is that many identity systems aren’t verifying who someone is so much as how human they appear over time. That feels increasingly fragile when the actor on the other side isn’t human at all. This doesn’t feel like a single vulnerability. It feels like a design mismatch. Curious how people here think identity and verification should evolve in an AI-native world better detection, new primitives, or abandoning certain assumptions entirely.
 
-🔗 [mpost.io](https://mpost.io/humanity-protocol-experiment-reveals-how-ai-can-bypass-kyc-and-exploit-digital-trust/) • 11h ago
+🔗 [mpost.io](https://mpost.io/humanity-protocol-experiment-reveals-how-ai-can-bypass-kyc-and-exploit-digital-trust/) • 12h ago
 
 ---
 
@@ -81,7 +81,7 @@ I found this experiment interesting because it doesn’t frame AI as “breaking
 
 Here & NOW!!
 
-5h ago
+6h ago
 
 ---
 
@@ -121,13 +121,13 @@ Ran a real-world test this week: Gemma 3 12B vs paid frontier models across actu
 
 Fears over AI spending have sparked a sell-off among tech stocks.
 
-CNBC • 4h ago
+CNBC • 5h ago
 
 ---
 
 **[Amazon’s $200 Billion Spending Plan Raises Stakes in A.I. Race](https://www.nytimes.com/2026/02/05/technology/amazon-200-billion-ai.html)**
 
-The New York Times • 17h ago
+The New York Times • 18h ago
 
 ---
 
@@ -135,7 +135,7 @@ The New York Times • 17h ago
 
 Alphabet, Amazon, Meta and Microsoft are together anticipating capital spending of around $650 billion this year.
 
-Axios • 5m ago
+Axios • 58m ago
 
 ---
 
@@ -143,7 +143,7 @@ Axios • 5m ago
 
 Anthropic’s Cowork AI assistant sent shockwaves through Wall Street this week over concerns it could replace specialized software packages, such as for legal or financial analysis. Now Anthropic is improving the model behind that tool to make it better for office and coding work.
 
-cnn.com • 23h ago
+cnn.com • 1d ago
 
 ---
 
@@ -151,7 +151,7 @@ cnn.com • 23h ago
 
 The software space is facing serious market concerns this week, after the release of new AI tools from AI triggered a market sell-off.
 
-CNBC • 12h ago
+CNBC • 13h ago
 
 ---
 
@@ -159,7 +159,7 @@ CNBC • 12h ago
 
 The new tool adapts a workplace assistant for white-collar specific industries.
 
-ABC News • 19h ago
+ABC News • 20h ago
 
 ---
 
@@ -173,7 +173,7 @@ Bloomberg • 1h ago
 
 The bill also would require the chatbots to remind people using them that the bots are not a real person.
 
-OregonLive.com • 37m ago
+OregonLive.com • 1h ago
 
 ---
 
@@ -181,13 +181,13 @@ OregonLive.com • 37m ago
 
 From anxiety about job loss to data privacy, mental health workers, lawmakers and labor unions are trying to mitigate AI's risks as healthcare providers double down on the technology.
 
-latimes.com • 6h ago
+latimes.com • 7h ago
 
 ---
 
 **[Tesla is training its AI technology in China, local media reports](https://www.reuters.com/technology/tesla-is-training-its-ai-technology-china-local-media-reports-2026-02-06/)**
 
-Reuters • 5h ago
+Reuters • 6h ago
 
 ---
 
@@ -197,7 +197,7 @@ Reuters • 5h ago
 
 **[My AI Adoption Journey](https://news.ycombinator.com/item?id=46903558)**
 
-⬆️ 781 • 💬 309 • 22h ago • [Mitchell Hashimoto](https://mitchellh.com/writing/my-ai-adoption-journey)
+⬆️ 781 • 💬 309 • 23h ago • [Mitchell Hashimoto](https://mitchellh.com/writing/my-ai-adoption-journey)
 
 ---
 
@@ -213,7 +213,7 @@ SaaS is the most profitable business model on Earth.1 It’s easy to understand 
 
 A new bill in the New York state legislature would require news organizations to label AI-generated material and mandate that humans review any such content before publication. On Monday, Senator Patricia Fahy (D-Albany) and Assemblymember Nily Rozic (D-NYC) introduced the bill, called The New York…
 
-⬆️ 363 • 💬 135 • 7h ago • [Nieman Lab](https://www.niemanlab.org/2026/02/a-new-bill-in-new-york-would-require-disclaimers-on-ai-generated-news-content/)
+⬆️ 363 • 💬 135 • 8h ago • [Nieman Lab](https://www.niemanlab.org/2026/02/a-new-bill-in-new-york-would-require-disclaimers-on-ai-generated-news-content/)
 
 ---
 
@@ -237,7 +237,7 @@ China's space program is quietly building momentum for a moon landing by 2030. C
 
 Like many developers, I find myself more and more using AI agents to help with software development.  I currently use Claude Code, the co...
 
-⬆️ 118 • 💬 67 • 2d ago • [Senko Rašić](https://blog.senko.net/sandboxing-ai-agents-in-linux)
+⬆️ 118 • 💬 67 • 3d ago • [Senko Rašić](https://blog.senko.net/sandboxing-ai-agents-in-linux)
 
 ---
 
@@ -263,7 +263,7 @@ Like many developers, I find myself more and more using AI agents to help with s
 
 Women in rural communities describe trauma of moderating violent and pornographic content for global tech companies
 
-⬆️ 83 • 💬 132 • 18h ago • [the Guardian](https://www.theguardian.com/global-development/2026/feb/05/in-the-end-you-feel-blank-indias-female-workers-watching-hours-of-abusive-content-to-train-ai)
+⬆️ 83 • 💬 132 • 19h ago • [the Guardian](https://www.theguardian.com/global-development/2026/feb/05/in-the-end-you-feel-blank-indias-female-workers-watching-hours-of-abusive-content-to-train-ai)
 
 ---
 
@@ -277,7 +277,7 @@ A massive political storm has erupted after Donald Trump shared an Artificial In
 
 📺 Times Of India
 
-👁️ 37K • 👍 280 • 💬 432 • ⏱️ 8:22 • 3h ago
+👁️ 37K • 👍 280 • 💬 432 • ⏱️ 8:22 • 4h ago
 
 ---
 
@@ -287,7 +287,7 @@ A YouTuber has been arrested for posting fake AI generated videos. AI slop, deep
 
 📺 Deep Humor
 
-👁️ 10K • 👍 1K • 💬 211 • ⏱️ 8:40 • 20h ago
+👁️ 10K • 👍 1K • 💬 211 • ⏱️ 8:40 • 21h ago
 
 ---
 
@@ -307,7 +307,7 @@ Krystal and Saagar discuss tech stocks tumbling amid emerging new fears of job l
 
 📺 Breaking Points
 
-👁️ 303K • 👍 8K • 💬 2K • ⏱️ 24:33 • 23h ago
+👁️ 303K • 👍 8K • 💬 2K • ⏱️ 24:33 • 1d ago
 
 ---
 
@@ -327,7 +327,7 @@ NBC Nightly News anchor Tom Llamas spoke to President Trump about fears of job l
 
 📺 NBC News
 
-👁️ 9K • 👍 70 • 💬 27 • ⏱️ 4:39 • 16h ago
+👁️ 9K • 👍 70 • 💬 27 • ⏱️ 4:39 • 17h ago
 
 ---
 
@@ -347,7 +347,7 @@ jobmarket #ai #tech In 2026, the promise of AI replacing 80% of developers has c
 
 📺 Mackard
 
-👁️ 1.0M • 👍 27K • 💬 3K • ⏱️ 8:12 • 2d ago
+👁️ 1.0M • 👍 27K • 💬 3K • ⏱️ 8:12 • 3d ago
 
 ---
 
@@ -357,7 +357,7 @@ Want to make money and save time with AI? Get AI Coaching, Support & Courses ...
 
 📺 Julian Goldie SEO
 
-👁️ 7K • 👍 83 • 💬 11 • ⏱️ 15:41 • 17h ago
+👁️ 7K • 👍 83 • 💬 11 • ⏱️ 15:41 • 18h ago
 
 ---
 
@@ -367,7 +367,7 @@ What happens when you leave AI agents alone in a simulation and let them talk to
 
 📺 Elijah Zielke
 
-👁️ 5K • 👍 145 • 💬 43 • ⏱️ 19:25 • 17h ago
+👁️ 5K • 👍 145 • 💬 43 • ⏱️ 19:25 • 18h ago
 
 ---
 
@@ -419,7 +419,7 @@ Step 3.5 Flash is an efficient, open-source MoE foundation model (11B active par
 
 `text-generation` `199.4B`
 
-⬇️ 10,864 • ❤️ 480 • 6h ago
+⬇️ 10,864 • ❤️ 480 • 7h ago
 
 ---
 
@@ -441,7 +441,7 @@ MiniCPM-o 4.5 is a 9B parameter multimodal LLM excelling in vision, speech, and 
 
 `any-to-any` `9.4B`
 
-⬇️ 2,389 • ❤️ 523 • 50m ago
+⬇️ 2,389 • ❤️ 523 • 1h ago
 
 ---
 
@@ -646,7 +646,7 @@ AI → JSON → UI
 
 `TypeScript`
 
-⭐ 10.1k • 🔱 536 • 22h ago
+⭐ 10.1k • 🔱 536 • 23h ago
 
 ---
 
@@ -656,7 +656,7 @@ LLM驱动的 A/H/美股智能分析器，多数据源行情 + 实时新闻 + Gem
 
 `Python` `agent` `ai` `aigc` `gemini` `llm`
 
-⭐ 9.7k • 🔱 10.2k • 3h ago
+⭐ 9.7k • 🔱 10.2k • 4h ago
 
 ---
 
@@ -666,7 +666,7 @@ The Ultimate Collection of 700+ Agentic Skills for Claude Code/Antigravity/Curso
 
 `Python` `agentic-skills` `ai-agents` `antigravity` `autonomous-coding` `claude-code`
 
-⭐ 7.6k • 🔱 1.6k • 8h ago
+⭐ 7.6k • 🔱 1.6k • 9h ago
 
 ---
 
@@ -720,7 +720,7 @@ An app to monitor the (Codex) situation
 
 `TypeScript` `ai` `codex` `linux` `macos` `tauri-app`
 
-⭐ 2.2k • 🔱 196 • 6m ago
+⭐ 2.2k • 🔱 196 • 59m ago
 
 ---
 

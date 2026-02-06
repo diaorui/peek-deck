@@ -3,7 +3,7 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-02-06T17:12:52.400098+00:00'
+updated: '2026-02-06T18:06:20.165809+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
@@ -18,7 +18,7 @@ data_types:
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** February 06, 2026 at 17:12 UTC  
+**Last Updated:** February 06, 2026 at 18:06 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -72,7 +72,7 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-11h ago
+12h ago
 
 ---
 
@@ -80,7 +80,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 Hey everyone, I keep running into the same issue when trying to move ETH between chains. I want to swap real native ETH, not wrapped versions, and I would rather avoid centralized bridges if possible. I am also hoping for something simple and fast, with no accounts and no long setup or verification process. Does anything like this actually exist today, or is it still mostly theoretical? I would appreciate hearing from anyone who has real experience with this. Thanks.
 
-4h ago
+5h ago
 
 ---
 
@@ -88,7 +88,7 @@ Hey everyone, I keep running into the same issue when trying to move ETH between
 
 Vitalik: role of L2s has changed, Hegotá upgrade headliner proposals, Lido v3 live
 
-🔗 [Ethereal news](https://ethereal.news/ethereal-news-weekly-10/) • 3h ago
+🔗 [Ethereal news](https://ethereal.news/ethereal-news-weekly-10/) • 4h ago
 
 ---
 
@@ -96,7 +96,7 @@ Vitalik: role of L2s has changed, Hegotá upgrade headliner proposals, Lido v3 l
 
 Good morning, could anyone recommend some good reading material to learn more about the Ethereum blockchain and smart contract development/deployment? I'm an IT professional, so even fairly technical material is fine, but I'd like to have a good overview first before moving on to the development side of things.
 
-10h ago
+11h ago
 
 ---
 
@@ -112,13 +112,13 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 https://etherscan.io/tx/0xaab90d00abf065e4158852a64c809b8921d109e997bd3790cb471aadfa57f4e0 I've been waiting for this transaction for almost an hour (trying to transfer from Newton to TrustWallet). There seem to be hundreds of transactions from the same address that I don't recognize. Have I been hacked? Update: It's fixed now, just had to wait a couple hours.
 
-19h ago
+20h ago
 
 ---
 
 **[Incorrect Aave Transaction History list](https://www.reddit.com/r/ethereum/comments/1qwsgej/incorrect_aave_transaction_history_list/)**
 
-23h ago
+1d ago
 
 ---
 
@@ -162,7 +162,7 @@ The Guardian • 1d ago
 
 Despite the mounting loss, the Ethereum treasury firm says it's under no pressure to sell as ETH price crashes and its stock tumbles.
 
-CoinDesk • 23h ago
+CoinDesk • 1d ago
 
 ---
 
@@ -170,7 +170,7 @@ CoinDesk • 23h ago
 
 Bit Digital Inc (NASDAQ:BTBT) has reported its January Ethereum treasury and staking metrics, including details on its crypto holdings and its equity stake in WhiteFiber. As of January 31, the company held approximately 155,239.4 ether. Based on a closing Ethereum price of about $2,449,...
 
-Yahoo Finance • 1h ago
+Yahoo Finance • 2h ago
 
 ---
 
@@ -198,7 +198,7 @@ CoinDesk • 2d ago
 
 Buy the fear or sell the fear? Inside Ethereum trader’s dilemma.
 
-AMBCrypto • 21h ago
+AMBCrypto • 22h ago
 
 ---
 
@@ -214,7 +214,7 @@ CoinMarketCap • 1d ago
 
 Crypto Bitcoin Price Crash: Bitcoin and major altcoins plunge as crypto market loses $900B, driven by liquidations, ETF outflows and macroeconomic uncertainty.
 
-The Sunday Guardian • 23h ago
+The Sunday Guardian • 1d ago
 
 ---
 
@@ -234,7 +234,7 @@ This video provides a professional Elliott Wave and technical analysis of Ethere
 
 📺 More Crypto Online
 
-👁️ 5K • 👍 309 • 💬 60 • ⏱️ 5:12 • 7h ago
+👁️ 5K • 👍 309 • 💬 60 • ⏱️ 5:12 • 8h ago
 
 ---
 
@@ -254,7 +254,7 @@ Uhh... so... is anyone else getting that strange feeling that something big is a
 
 📺 Money Rules - Investing Tips 
 
-👁️ 3K • 👍 673 • 💬 204 • ⏱️ 13:13 • 2h ago
+👁️ 3K • 👍 673 • 💬 204 • ⏱️ 13:13 • 3h ago
 
 ---
 
@@ -264,7 +264,7 @@ This video provides a professional Elliott Wave and technical analysis of Ethere
 
 📺 More Crypto Online
 
-👁️ 993 • 👍 114 • 💬 3 • ⏱️ 3:53 • 1h ago
+👁️ 993 • 👍 114 • 💬 3 • ⏱️ 3:53 • 2h ago
 
 ---
 
@@ -284,7 +284,7 @@ Take Control of Your Retirement — Grow Crypto & Gold Tax-Advantaged. https://w
 
 📺 Savvy Finance
 
-👁️ 7K • 👍 317 • 💬 9 • ⏱️ 20:57 • 17h ago
+👁️ 7K • 👍 317 • 💬 9 • ⏱️ 20:57 • 18h ago
 
 ---
 
@@ -294,7 +294,7 @@ ETHEREUM ETH PRICE PREDICTION 2026 Join the Premium Signal Group for trade setup
 
 📺 Cilinix Crypto
 
-👁️ 254 • 👍 13 • 💬 2 • ⏱️ 4:44 • 7h ago
+👁️ 254 • 👍 13 • 💬 2 • ⏱️ 4:44 • 8h ago
 
 ---
 
@@ -304,7 +304,7 @@ This video provides a professional Elliott Wave and technical analysis of Ethere
 
 📺 More Crypto Online
 
-👁️ 4K • 👍 203 • 💬 38 • ⏱️ 6:13 • 17h ago
+👁️ 4K • 👍 203 • 💬 38 • ⏱️ 6:13 • 18h ago
 
 ---
 
@@ -314,7 +314,7 @@ Where does Bitcoin find its bottom? This past week we've seen a significant Bitc
 
 📺 VirtualBacon
 
-👁️ 40K • 👍 2K • 💬 582 • ⏱️ 49:08 • 19h ago
+👁️ 40K • 👍 2K • 💬 582 • ⏱️ 49:08 • 20h ago
 
 ---
 

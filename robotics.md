@@ -3,7 +3,7 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-02-06T17:12:52.403257+00:00'
+updated: '2026-02-06T18:06:20.168673+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
@@ -17,7 +17,7 @@ data_types:
 
 Robotics research and industry news
 
-**Last Updated:** February 06, 2026 at 17:12 UTC  
+**Last Updated:** February 06, 2026 at 18:06 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -36,7 +36,7 @@ Robotics research and industry news
 
 From CyberRobo on 𝕏: https://x.com/CyberRobooo/status/2019598569909743755
 
-7h ago
+8h ago
 
 ---
 
@@ -66,7 +66,7 @@ From RoboHub🤖 on 𝕏: https://x.com/XRoboHub/status/2019135928384778288
 
 A new 2026 market report highlights a massive shift toward mass production, led by giants like Tesla (aiming for 1 million Optimus units), Boston Dynamics, and Figure AI. From logistics and healthcare to customer-facing retail, general-purpose humanoids are becoming an operational reality.
 
-🔗 [GlobeNewswire News Room](https://www.globenewswire.com/news-release/2026/02/04/3232234/0/en/Humanoid-Robotics-Market-in-2026-Transformative-Trends-and-Technological-Advancements.html) • 6h ago
+🔗 [GlobeNewswire News Room](https://www.globenewswire.com/news-release/2026/02/04/3232234/0/en/Humanoid-Robotics-Market-in-2026-Transformative-Trends-and-Technological-Advancements.html) • 7h ago
 
 ---
 
@@ -74,7 +74,7 @@ A new 2026 market report highlights a massive shift toward mass production, led 
 
 Cartwheel Robotics shutting down is a reminder of how misaligned capital can be. Great teams struggle for funding while massive checks keep flowing elsewhere. Scott’s advice hits home: “No money is better than the wrong money.” https://preview.redd.it/ov7omrf40vhg1.png?width=716&format=png&auto=webp&s=b0ce7c7ceaa4607cfdc5de89775cfcddf883c3fe
 
-5h ago
+6h ago
 
 ---
 
@@ -82,13 +82,13 @@ Cartwheel Robotics shutting down is a reminder of how misaligned capital can be.
 
 Hello guys I bought this jetson orin super developer kit. Using it for a fully automated robot I am building. Right now I am ordering the parts and want to use a Lidar L-1 and 2 cameras Oak-D pro from luxonis. However I am running into an issue the Lidar requires 12 volt so I cant power that through the jetson the cameras are fine to plug in the usb ports. But reading the manual the usb ports are only rated for up to 0.9 A while the cameras can take up to 2A under heavy load. Luxonis provides a usb splitter where one can be for power and one for data. Now my issue is finding a good reliable and affordable PDB or any other solution that can split the power coming from my battery into the lidar jetson and the 2 cameras.
 
-9h ago
+10h ago
 
 ---
 
 **[Alve-x robot arm](https://www.reddit.com/r/robotics/comments/1qx3two/alvex_robot_arm/)**
 
-15h ago
+16h ago
 
 ---
 
@@ -104,7 +104,7 @@ Standard servos are dumb (no feedback). Smart servos are expensive and require c
 
 Took a long break, but I’m back working on my Metalhead dog robot. Here’s a short video. Still reprinting some parts, but progress is finally happening again. Video is reversed for visual effect — this is actually a teardown. Any thoughts or suggestions are welcome.
 
-🔗 [youtube.com](https://youtube.com/shorts/l7a4Yfauo5Q?si=ivTumi5yYCQA7SB2) • 14h ago
+🔗 [youtube.com](https://youtube.com/shorts/l7a4Yfauo5Q?si=ivTumi5yYCQA7SB2) • 15h ago
 
 ---
 
@@ -146,7 +146,7 @@ The Robot Report • 2d ago
 
 The bills seek to establish a National Commission on Robotics and restrict humanoid imports for U.S. security and competitiveness.
 
-The Robot Report • 3h ago
+The Robot Report • 4h ago
 
 ---
 
@@ -170,7 +170,7 @@ The Next Platform • 3d ago
 
 Firms are working to make the motors that drive robots more efficient and cheaper.
 
-BBC • 17h ago
+BBC • 18h ago
 
 ---
 
@@ -216,7 +216,7 @@ Ue Ao Ming tonans 1 shotting titans. I was told that tonans are terrible and the
 
 📺 PREDATOR WR
 
-👁️ 3K • 👍 228 • 💬 40 • ⏱️ 16:16 • 4h ago
+👁️ 3K • 👍 228 • 💬 40 • ⏱️ 16:16 • 5h ago
 
 ---
 
@@ -254,7 +254,7 @@ This robotic mouth is designed to replicate how real human lips move while speak
 
 📺 Tesla Owners Silicon Valley
 
-👁️ 16K • 👍 663 • 💬 28 • ⏱️ 0:40 • 20h ago
+👁️ 16K • 👍 663 • 💬 28 • ⏱️ 0:40 • 21h ago
 
 ---
 
@@ -282,7 +282,7 @@ Crea tu Web con la IA aquí: https://hostinger.com/inteligencia (Usa el cupón I
 
 📺 Inteligencia Artificial
 
-👁️ 38K • 👍 2K • 💬 89 • ⏱️ 13:44 • 22h ago
+👁️ 38K • 👍 2K • 💬 89 • ⏱️ 13:44 • 23h ago
 
 ---
 
