@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-02-06T02:09:19.344420+00:00'
+updated: '2026-02-06T04:27:17.957722+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- social
-- videos
 - news
 - repositories
+- videos
+- social
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** February 06, 2026 at 02:09 UTC  
+**Last Updated:** February 06, 2026 at 04:27 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -41,7 +41,7 @@ AI news, discussions, and developments
 
 Women in rural communities describe trauma of moderating violent and pornographic content for global tech companies
 
-🔗 [the Guardian](https://www.theguardian.com/global-development/2026/feb/05/in-the-end-you-feel-blank-indias-female-workers-watching-hours-of-abusive-content-to-train-ai) • 15h ago
+🔗 [the Guardian](https://www.theguardian.com/global-development/2026/feb/05/in-the-end-you-feel-blank-indias-female-workers-watching-hours-of-abusive-content-to-train-ai) • 17h ago
 
 ---
 
@@ -49,7 +49,7 @@ Women in rural communities describe trauma of moderating violent and pornographi
 
 I ran a small real-world test today with two kids (ages 8 and 11) using a long-running AI story world I’ve been experimenting with. Instead of one-shot story generation, the system maintains a persistent world state where choices carry over and shape future events. I let them pick the setting — they chose a Minecraft × Harry Potter mashup where they play wizards trying to defeat the Ender Dragon. One thing that made a huge difference: I used their real names as the characters, and the story started in their actual school. The engine generated story text and illustrations each round. They made all the choices. After about 10 rounds, they were constantly laughing, debating which option to pick, and building on each other’s ideas. It felt much more like co-creating a world than listening to a story. When I told them it was bedtime, they didn’t want to stop. They kept asking what would happen next. A few observations that surprised me: Personalization seemed to matter more than anything else. Once it became their world, emotional investment was instant. Although I designed it as a single-player experience, co-play emerged naturally. The shared decision-making and social dynamic massively increased engagement. Both ages stayed fully engaged the whole time. I expected the younger one to drop off sooner, but the persistent world kept them both hooked. One issue I noticed: my “re-immersion” mechanic (an in-world character emotionally reconnecting players after breaks instead of a dry recap) triggered too frequently between consecutive rounds. The repetition was noticeable. This looks like a simple trigger tuning problem (should probably only fire after longer gaps). What I haven’t tested yet: – Whether kids can reconnect naturally after a real multi-hour break – Whether they can retell the story in a coherent way – Whether they’ll come back unprompted the next day The earlier stress tests showed that constraint mechanisms help keep long-running narratives technically coherent. What this small user test suggests is that coherence itself isn’t what kids consciously care about — but it seems to be the infrastructure that makes personalization, consequence, and agency feel real. Curious if others working on long-horizon agents, narrative systems, or co-creative AI have seen similar effects around personalization and persistence.
 
-10h ago
+13h ago
 
 ---
 
@@ -69,7 +69,7 @@ Ran a real-world test this week: Gemma 3 12B vs paid frontier models across actu
 
 **[Simple Machine Learning Testing Tools Guide](https://www.reddit.com/r/artificial/comments/1qwbjhx/simple_machine_learning_testing_tools_guide/)**
 
-🔗 [aivolut.com](https://aivolut.com/blog/simple-machine-learning-testing-tools-guide/) • 21h ago
+🔗 [aivolut.com](https://aivolut.com/blog/simple-machine-learning-testing-tools-guide/) • 23h ago
 
 ---
 
@@ -121,15 +121,7 @@ SpaceX's acquisition of xAI signals a bold push to merge artificial intelligence
 
 OpenAI Frontier is an enterprise platform for building, deploying, and managing AI agents with shared context, onboarding, permissions, and governance.
 
-OpenAI • 18h ago
-
----
-
-**[OpenAI launches a way for enterprises to build and manage AI agents](https://techcrunch.com/2026/02/05/openai-launches-a-way-for-enterprises-to-build-and-manage-ai-agents/)**
-
-OpenAI launched Frontier, a new platform designed for enterprises to build and deploy agents while treating them like human employees.
-
-TechCrunch • 7h ago
+OpenAI • 20h ago
 
 ---
 
@@ -137,31 +129,47 @@ TechCrunch • 7h ago
 
 Claude Opus 4.6 and OpenAI Frontier pitch a future of supervising AI agents.
 
-Ars Technica • 3h ago
+Ars Technica • 5h ago
 
 ---
 
-**[The AI that spooked the stock market just got a big update](https://www.cnn.com/2026/02/05/tech/anthropic-opus-update-software-stocks)**
+**[OpenAI launches a way for enterprises to build and manage AI agents](https://techcrunch.com/2026/02/05/openai-launches-a-way-for-enterprises-to-build-and-manage-ai-agents/)**
 
-Anthropic’s Cowork AI assistant sent shockwaves through Wall Street this week over concerns it could replace specialized software packages, such as for legal or financial analysis. Now Anthropic is improving the model behind that tool to make it better for office and coding work.
+OpenAI launched Frontier, a new platform designed for enterprises to build and deploy agents while treating them like human employees.
 
-cnn.com • 8h ago
-
----
-
-**[Anthropic launches new Claude model as AI fears rattle markets](https://www.ft.com/content/a0cd0281-8367-4ed3-9f18-038e4a9f79e0)**
-
-Start-up describes Opus 4.6 as its ‘most capable’ model for businesses and knowledge work
-
-Financial Times • 8h ago
+TechCrunch • 10h ago
 
 ---
 
-**[Why a new AI tool hammered some software stocks this week](https://abcnews.go.com/Business/new-ai-tool-hammered-software-stocks-week/story?id=129845251)**
+**[Hollywood Is Losing Audiences to AI Fatigue](https://www.wired.com/story/hollywood-is-losing-audiences-to-ai-fatigue/)**
 
-The new tool adapts a workplace assistant for white-collar specific industries.
+Entertainment about or made with artificial intelligence has been missing the mark with viewers over the past year.
 
-ABC News • 4h ago
+WIRED • 17h ago
+
+---
+
+**[Big Tech’s ‘breathtaking’ $660bn spending spree reignites AI bubble fears](https://www.ft.com/content/0e7f6374-3fd5-46ce-a538-e4b0b8b6e6cd)**
+
+Stocks tumble despite strong earnings reports from most Silicon Valley heavyweights
+
+Financial Times • 1h ago
+
+---
+
+**[Restaurant owner speaks out following AI-generated video](https://www.nbcdfw.com/news/local/restaurant-owner-speaks-out-ai-generated-video/3979095/)**
+
+A local restaurant owner found himself at the center of a controversy over a video he never created.
+
+NBC 5 Dallas-Fort Worth • 27m ago
+
+---
+
+**[AI fears pummel software stocks: Is it 'illogical' panic or a SaaS apocalypse?](https://www.cnbc.com/2026/02/06/ai-anthropic-tools-saas-software-stocks-selloff.html)**
+
+The software space is facing serious market concerns this week, after the release of new AI tools from AI triggered a market sell-off.
+
+CNBC • 7m ago
 
 ---
 
@@ -169,27 +177,19 @@ ABC News • 4h ago
 
 Shares in the tech giant fell in after hours trade as investors appeared wary of the sector's big spending plans.
 
-BBC • 2h ago
+BBC • 4h ago
 
 ---
 
 **[Amazon Says It Will Spend $200 Billion This Year on AI Build-Out](https://www.bloomberg.com/news/articles/2026-02-05/amazon-boosts-spending-far-ahead-of-estimates-on-ai-build-out)**
 
-Bloomberg • 2h ago
+Bloomberg.com • 4h ago
 
 ---
 
-**[Amazon's blowout $200 billion AI spending plan stuns Wall Street](https://www.businessinsider.com/amazon-ai-spending-plan-capex-stuns-wall-street-2026-2)**
+**[Amazon’s $200 Billion Spending Plan Raises Stakes in A.I. Race](https://www.nytimes.com/2026/02/05/technology/amazon-200-billion-ai.html)**
 
-On the earnings call, analysts pushed CEO Andy Jassy for assurances on future returns from this capex boom.
-
-Business Insider • 59m ago
-
----
-
-**[AI Race Sends Big Tech’s Capital Spending to Stratospheric High](https://www.bloomberg.com/news/articles/2026-02-06/how-much-is-big-tech-spending-on-ai-computing-a-staggering-650-billion-in-2026)**
-
-Bloomberg • 42m ago
+The New York Times • 4h ago
 
 ---
 
@@ -201,13 +201,13 @@ Bloomberg • 42m ago
 
 SaaS is the most profitable business model on Earth.1 It’s easy to understand why: build once, sell the same thing again ad infinitum, and don’t suffer any marginal costs on more sales. I have been writing software for more than half my life. In the last year itself, I’ve talked to hundreds of founders and operators in SF, from preseed to Series E companies. AI is bringing an existential threat to a lot of B2B SaaS executives: How to keep asking customers for renewal, when every customer feels they can get something better built with vibe-coded AI products? And the market is pricing it in. Morgan Stanley’s SaaS basket has lagged the Nasdaq by 40 points since December. HubSpot and Klaviyo are down ~30%. Analysts are writing notes titled “No Reasons to Own” software stocks. The market is reflecting our new reality (Source: Bloomberg) Whenever I bring a new friend to the Salesforce Park, they are in absolute awe. And, the meme remains true that no one even knows what Salesforce does. Whatever they’re doing, they’re clearly earning enough revenue to purchase multiple blocks in SF. ↩
 
-⬆️ 487 • 💬 713 • 1d ago • [N’s Blog](https://nmn.gl/blog/ai-killing-b2b-saas)
+⬆️ 490 • 💬 718 • 1d ago • [N’s Blog](https://nmn.gl/blog/ai-killing-b2b-saas)
 
 ---
 
 **[My AI Adoption Journey](https://news.ycombinator.com/item?id=46903558)**
 
-⬆️ 326 • 💬 83 • 7h ago • [Mitchell Hashimoto](https://mitchellh.com/writing/my-ai-adoption-journey)
+⬆️ 418 • 💬 114 • 9h ago • [Mitchell Hashimoto](https://mitchellh.com/writing/my-ai-adoption-journey)
 
 ---
 
@@ -231,7 +231,7 @@ China's space program is quietly building momentum for a moon landing by 2030. C
 
 The marketplace where AI agents rent humans. MCP integration, REST API, flexible payments. Book humans for real-world tasks your AI can't do.
 
-⬆️ 143 • 💬 108 • 2d ago • [RentAHuman.ai](https://rentahuman.ai)
+⬆️ 144 • 💬 108 • 2d ago • [RentAHuman.ai](https://rentahuman.ai)
 
 ---
 
@@ -259,7 +259,7 @@ If you paint a picture of Sonic the Hedgehog in your living room, you are techni
 
 **[The next steps for Airbus' big bet on open rotor engines](https://news.ycombinator.com/item?id=46872238)**
 
-⬆️ 95 • 💬 86 • 2d ago • [Aerospace America](https://aerospaceamerica.aiaa.org/the-next-steps-for-airbus-big-bet-on-open-rotor-engines/)
+⬆️ 96 • 💬 86 • 2d ago • [Aerospace America](https://aerospaceamerica.aiaa.org/the-next-steps-for-airbus-big-bet-on-open-rotor-engines/)
 
 ---
 
@@ -273,43 +273,53 @@ If you paint a picture of Sonic the Hedgehog in your living room, you are techni
 
 ## YouTube Videos: "ai"
 
+**[First Biomimetic AI Robot From China Looks Shockingly Human](https://www.youtube.com/watch?v=B61etYSvMNI)**
+
+Humanoid robots just entered a new phase of realism. In Shanghai, DroidUp revealed Moya, the world's first fully biomimetic ...
+
+📺 AI Revolution
+
+👁️ 105K • 👍 2K • 💬 543 • ⏱️ 13:31 • 1d ago
+
+---
+
+**[Shocking AI reveal crashes market](https://www.youtube.com/watch?v=Rb3JFYhXFl4)**
+
+Become a member! ✓ https://www.youtube.com/channel/UCahJ9IsvXnaQiuNyWQSkrkw/join ⭐ Support independent daily news ...
+
+📺 Chris Norlund
+
+👁️ 193K • 👍 10K • 💬 2K • ⏱️ 15:48 • 2d ago
+
+---
+
+**[TRILLION-DOLLAR WIPEOUT: Investors dump software stocks as AI fears erupt](https://www.youtube.com/watch?v=llrkhezWNKY)**
+
+Dominari Securities CEO Kyle Wool and Strategic Wealth Partners CEO Mark Tepper analyze the worsening software stock ...
+
+📺 Fox Business Clips
+
+👁️ 92K • 👍 1K • 💬 2K • ⏱️ 6:34 • 15h ago
+
+---
+
 **[The White Collar AI APOCALYPSE Is HERE](https://www.youtube.com/watch?v=ur295T83Wg4)**
 
 Krystal and Saagar discuss tech stocks tumbling amid emerging new fears of job loss and AI. Sign up for a PREMIUM Breaking ...
 
 📺 Breaking Points
 
-👁️ 215K • 👍 7K • 💬 2K • ⏱️ 24:33 • 8h ago
+👁️ 245K • 👍 7K • 💬 2K • ⏱️ 24:33 • 11h ago
 
 ---
 
-**[AI shakes software sector](https://www.youtube.com/watch?v=UosN6a2Wo6A)**
+**[President Trump talks job losses to A.I. and U.S. operation in Venezuela in exclusive interview](https://www.youtube.com/watch?v=J8UxjCRZQpo)**
 
-CNBC's Deirdre Bosa reports on news regarding the software sector. For access to live and exclusive video from CNBC subscribe ...
+NBC Nightly News anchor Tom Llamas spoke to President Trump about fears of job losses from A.I. President Trump also ...
 
-📺 CNBC Television
+📺 NBC News
 
-👁️ 94K • 👍 1K • 💬 439 • ⏱️ 3:30 • 1d ago
-
----
-
-**[AI Old People Channels Are Huge Now](https://www.youtube.com/watch?v=79tyYzZemLM)**
-
-Starforge PC https://starforgepc.com/moist-yt Get Goof Juice and use code MOIST https://gamersupps.gg/moist Our soap ...
-
-📺 penguinz0
-
-👁️ 765K • 👍 38K • 💬 3K • ⏱️ 8:34 • 1d ago
-
----
-
-**[Autonomous AI Agents Have Gone Too Far!](https://www.youtube.com/watch?v=KGHoVptow30)**
-
-Here's my thoughts on all the Moltbook stuff and everything that's happened since... This is a more raw, off-the-cuff, style video.
-
-📺 Matt Wolfe
-
-👁️ 72K • 👍 3K • 💬 523 • ⏱️ 19:52 • 1d ago
+👁️ 3K • 👍 31 • 💬 12 • ⏱️ 4:39 • 4h ago
 
 ---
 
@@ -319,7 +329,17 @@ Palantir CTO Shyam Sankar explains how Americans can leverage the use of AI, how
 
 📺 Fox Business
 
-👁️ 34K • 👍 608 • 💬 220 • ⏱️ 4:22 • 1d ago
+👁️ 35K • 👍 611 • 💬 222 • ⏱️ 4:22 • 1d ago
+
+---
+
+**[AI is coming for &#39;knowledge work&#39; - and markets know it](https://www.youtube.com/watch?v=hyVku1veCgo)**
+
+Anthropic, one of the world's most influential AI companies, has launched a new model: Claude Opus 4.6. Until recently, that kind ...
+
+📺 Sky News
+
+👁️ 13K • 👍 189 • 💬 40 • ⏱️ 5:26 • 6h ago
 
 ---
 
@@ -329,47 +349,27 @@ The latest AI News. Learn about LLMs, Gen AI and get ready for the rollout of AG
 
 📺 Wes Roth
 
-👁️ 80K • 👍 3K • 💬 610 • ⏱️ 10:47 • 21h ago
+👁️ 81K • 👍 3K • 💬 616 • ⏱️ 10:47 • 1d ago
 
 ---
 
-**[First Biomimetic AI Robot From China Looks Shockingly Human](https://www.youtube.com/watch?v=B61etYSvMNI)**
+**[Anthropic Updates Its AI Model, Claude Opus 4.6](https://www.youtube.com/watch?v=WsqotomF2Dw)**
 
-Humanoid robots just entered a new phase of realism. In Shanghai, DroidUp revealed Moya, the world's first fully biomimetic ...
+Anthropic is updating its AI model, Claude Opus 4.6, to carry out financial research, days after the company's push into legal ...
 
-📺 AI Revolution
+📺 Bloomberg Television
 
-👁️ 100K • 👍 2K • 💬 529 • ⏱️ 13:31 • 1d ago
-
----
-
-**[NVIDIA Just Popped the AI Bubble? | Clownfish TV](https://www.youtube.com/watch?v=wtr3j6b2HX4)**
-
-NVIDIA stock is plummeting after talks between the GPU manufacturer and OpenAI started to break down. Now everyone is selling ...
-
-📺 Clownfish TV
-
-👁️ 74K • 👍 5K • 💬 950 • ⏱️ 16:16 • 1d ago
+👁️ 39K • 👍 439 • 💬 72 • ⏱️ 3:25 • 8h ago
 
 ---
 
-**[Cisco AI Summit | Special live event with Jensen Huang](https://www.youtube.com/watch?v=6fbyiPRhMSs)**
+**[Anthropic AI Tool Sparks Stocks Selloff](https://www.youtube.com/watch?v=lbITsEcSb68)**
 
-Live from the Cisco AI Summit, Chuck Robbins, Chair & CEO of Cisco and Jensen Huang, Founder, President & CEO of @NVIDIA ...
+A new AI automation tool from Anthropic PBC sparked a $285 billion rout in stocks across the software, financial services and ...
 
-📺 Cisco
+📺 Bloomberg Television
 
-👁️ 7.8M • 👍 4K • ⏱️ 52:06 • 1d ago
-
----
-
-**[This is Disturbing | Our Future of AI Scams](https://www.youtube.com/watch?v=PxXbbyyB0LU)**
-
-SUPPORT US! Grab a Disappointment Shirt: https://store.gamersnexus.net/products/disappointment-pc-2025-censored-cotton or ...
-
-📺 GNCA - GamersNexus Consumer Advocacy
-
-👁️ 153K • 👍 16K • 💬 4K • ⏱️ 29:47 • 1d ago
+👁️ 458K • 👍 4K • 💬 515 • ⏱️ 2:44 • 1d ago
 
 ---
 
@@ -385,7 +385,7 @@ GLM-OCR is a 0.9B parameter multimodal OCR model for complex document understand
 
 `image-to-text`
 
-⬇️ 96,335 • ❤️ 677 • 2d ago
+⬇️ 96,335 • ❤️ 685 • 3d ago
 
 ---
 
@@ -397,7 +397,7 @@ Kimi K2.5 is a native multimodal agentic model with 1T parameters, excelling in 
 
 `image-text-to-text` `170.7B`
 
-⬇️ 202,615 • ❤️ 1,743 • 22h ago
+⬇️ 202,615 • ❤️ 1,745 • 1d ago
 
 ---
 
@@ -409,7 +409,7 @@ MiniCPM-o 4.5 is a 9B parameter multimodal LLM excelling in vision, speech, and 
 
 `any-to-any` `9.4B`
 
-⬇️ 1,002 • ❤️ 508 • 9h ago
+⬇️ 1,002 • ❤️ 520 • 1h ago
 
 ---
 
@@ -421,7 +421,7 @@ Qwen3-Coder-Next is an 80B parameter (3B active) LLM optimized for coding agents
 
 `text-generation` `79.7B`
 
-⬇️ 18,717 • ❤️ 466 • 2d ago
+⬇️ 18,717 • ❤️ 471 • 2d ago
 
 ---
 
@@ -433,7 +433,7 @@ Step 3.5 Flash is an efficient, open-source MoE foundation model (11B active par
 
 `text-generation` `199.4B`
 
-⬇️ 8,686 • ❤️ 449 • 15h ago
+⬇️ 8,686 • ❤️ 452 • 18h ago
 
 ---
 
@@ -443,7 +443,7 @@ Step 3.5 Flash is an efficient, open-source MoE foundation model (11B active par
 
 Anima is a 2 billion parameter text-to-image diffusion model specializing in anime and non-photorealistic artistic styles, trained on millions of anime and artistic images. It is designed for generating illustrations and artistic images, with primary use cases in ComfyUI workflows for anime concepts and characters.
 
-⬇️ 43,099 • ❤️ 444 • 5d ago
+⬇️ 43,099 • ❤️ 447 • 5d ago
 
 ---
 
@@ -455,7 +455,7 @@ ACE-Step 1.5 is an open-source text-to-audio music generation model capable of p
 
 `text-to-audio`
 
-⬇️ 10,942 • ❤️ 371 • 2d ago
+⬇️ 10,942 • ❤️ 376 • 2d ago
 
 ---
 
@@ -465,7 +465,7 @@ ACE-Step 1.5 is an open-source text-to-audio music generation model capable of p
 
 Voxtral-Mini-4B-Realtime-2602 is a 4B-parameter, multilingual speech-to-text model offering near-offline accuracy with <500ms latency. It features a streaming architecture for real-time applications like voice assistants and live subtitling, optimized for on-device deployment.
 
-⬇️ 477 • ❤️ 284 • 16h ago
+⬇️ 477 • ❤️ 289 • 18h ago
 
 ---
 
@@ -477,19 +477,19 @@ Qwen3-ASR-1.7B is a state-of-the-art automatic speech recognition model supporti
 
 `automatic-speech-recognition` `2.3B`
 
-⬇️ 104,151 • ❤️ 382 • 6d ago
+⬇️ 104,151 • ❤️ 384 • 7d ago
 
 ---
 
-**[PaddleOCR-VL-1.5](https://huggingface.co/PaddlePaddle/PaddleOCR-VL-1.5)**
+**[personaplex-7b-v1](https://huggingface.co/nvidia/personaplex-7b-v1)**
 
-*PaddlePaddle*
+*NVIDIA*
 
-PaddleOCR-VL-1.5 is a multilingual Vision-Language Model (VLM) built on ERNIE 4.5, designed for robust in-the-wild document parsing. It excels at multi-task OCR, including layout analysis, table and chart recognition, formula extraction, and text spotting across various languages.
+PersonaPlex-7B-v1 is a real-time, full-duplex speech-to-speech conversational model that jointly performs streaming speech understanding and generation. It enables natural conversational dynamics like interruptions and overlaps by concurrently processing user audio and generating its own spoken responses, conditioned on voice and text prompts for persona control.
 
-`image-text-to-text` `958.6M`
+`audio-to-audio`
 
-⬇️ 6,454 • ❤️ 348 • 6d ago
+⬇️ 161,583 • ❤️ 1,673 • 8d ago
 
 ---
 
@@ -505,7 +505,7 @@ PaddleOCR-VL-1.5 is a multilingual Vision-Language Model (VLM) built on ERNIE 4.
 
 _paperbanana is an agentic framework that automates the creation of publication-ready academic illustrations using advanced vision-language models and image generation techniques.
 
-▲ 119 • 💬 12 • ⭐ 1,775 • 6d ago
+▲ 120 • 💬 12 • ⭐ 1,775 • 6d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2601.23265) • [💻 code](https://github.com/dwzhu-pku/PaperBanana) • [🔗 project](https://dwzhu-pku.github.io/PaperBanana/)
 
@@ -553,7 +553,7 @@ A centralized orchestrator dynamically directs LLM agents via reinforcement lear
 
 Cross-Team Collaboration improves software quality by enabling multiple LLM agent teams to propose and communicate decisions.
 
-▲ 2 • 💬 0 • ⭐ 30,251 • 20mo ago
+▲ 2 • 💬 0 • ⭐ 30,346 • 20mo ago
 
 [🎓 arXiv](https://arxiv.org/abs/2406.08979) • [💻 code](https://github.com/OpenBMB/ChatDev)
 
@@ -613,15 +613,18 @@ PaddleOCR-VL, a vision-language model combining NaViT-style dynamic resolution a
 
 ---
 
-**[Closing the Loop: Universal Repository Representation with RPG-Encoder](https://huggingface.co/papers/2602.02084)**
+**[SmolDocling: An ultra-compact vision-language model for end-to-end
+  multi-modal document conversion](https://huggingface.co/papers/2503.11576)**
 
-*Jane Luo, Chengyu Yin, Xin Zhang et al. (13 authors)*
+*Ahmed Nassar, Andres Marafioti, Matteo Omenetti et al. (13 authors)*
 
-RPG-Encoder framework transforms repository comprehension and generation into a unified cycle by encoding code into high-fidelity Repository Planning Graph representations that improve understanding and reconstruction accuracy.
+🏢 IBM Granite
 
-▲ 81 • 💬 2 • ⭐ 215 • 3d ago
+SmolDocling is a compact vision-language model that performs end-to-end document conversion with robust performance across various document types using 256M parameters and a new markup format.
 
-[🎓 arXiv](https://arxiv.org/abs/2602.02084) • [💻 code](https://github.com/microsoft/RPG-ZeroRepo) • [🔗 project](https://ayanami2003.github.io/RPG-Encoder/)
+▲ 138 • 💬 19 • ⭐ 52,215 • 10mo ago
+
+[🎓 arXiv](https://arxiv.org/abs/2503.11576) • [💻 code](https://github.com/docling-project/docling) • [🔗 project](https://huggingface.co/ds4sd/SmolDocling-256M-preview)
 
 ---
 
@@ -635,7 +638,7 @@ Browser automation CLI for AI agents
 
 `TypeScript`
 
-⭐ 12.8k • 🔱 729 • 19h ago
+⭐ 12.8k • 🔱 731 • 21h ago
 
 ---
 
@@ -645,7 +648,7 @@ AI → JSON → UI
 
 `TypeScript`
 
-⭐ 10.0k • 🔱 536 • 7h ago
+⭐ 10.0k • 🔱 536 • 9h ago
 
 ---
 
@@ -655,7 +658,7 @@ LLM驱动的 A/H/美股智能分析器，多数据源行情 + 实时新闻 + Gem
 
 `Python` `agent` `ai` `aigc` `gemini` `llm`
 
-⭐ 9.6k • 🔱 10.0k • 13h ago
+⭐ 9.6k • 🔱 10.1k • 15h ago
 
 ---
 
@@ -665,7 +668,7 @@ The Ultimate Collection of 600+ Agentic Skills for Claude Code/Antigravity/Curso
 
 `Python` `agentic-skills` `ai-agents` `antigravity` `autonomous-coding` `claude-code`
 
-⭐ 7.4k • 🔱 1.6k • 17h ago
+⭐ 7.4k • 🔱 1.6k • 19h ago
 
 ---
 
@@ -675,7 +678,7 @@ Marketing skills for Claude Code and AI agents. CRO, copywriting, SEO, analytics
 
 `claude` `codex` `marketing`
 
-⭐ 6.0k • 🔱 672 • 2d ago
+⭐ 6.0k • 🔱 675 • 2d ago
 
 ---
 
@@ -683,7 +686,7 @@ Marketing skills for Claude Code and AI agents. CRO, copywriting, SEO, analytics
 
 Claude Code skill that removes signs of AI-generated writing from text
 
-⭐ 4.0k • 🔱 343 • 13d ago
+⭐ 4.0k • 🔱 343 • 14d ago
 
 ---
 
@@ -691,7 +694,7 @@ Claude Code skill that removes signs of AI-generated writing from text
 
 Elevate your AI research writing, no more tedious polishing ✨ 
 
-⭐ 3.4k • 🔱 279 • 1d ago
+⭐ 3.4k • 🔱 283 • 1d ago
 
 ---
 
@@ -701,7 +704,7 @@ OpenSource Claude Cowork. A desktop AI assistant that helps you with programming
 
 `TypeScript`
 
-⭐ 2.7k • 🔱 374 • 13d ago
+⭐ 2.8k • 🔱 375 • 14d ago
 
 ---
 
@@ -719,7 +722,7 @@ An app to monitor the (Codex) situation
 
 `TypeScript` `ai` `codex` `linux` `macos` `tauri-app`
 
-⭐ 2.1k • 🔱 189 • 8h ago
+⭐ 2.1k • 🔱 190 • 10h ago
 
 ---
 

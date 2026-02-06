@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-02-06T02:09:19.362489+00:00'
+updated: '2026-02-06T04:27:17.975606+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- social
-- videos
 - news
+- videos
+- social
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** February 06, 2026 at 02:09 UTC  
+**Last Updated:** February 06, 2026 at 04:27 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -36,7 +36,7 @@ Robotics research and industry news
 
 From RoboHub🤖 on 𝕏: https://x.com/XRoboHub/status/2019135928384778288
 
-16h ago
+18h ago
 
 ---
 
@@ -44,19 +44,19 @@ From RoboHub🤖 on 𝕏: https://x.com/XRoboHub/status/2019135928384778288
 
 Felt so excited to see the robot I've been working on getting this much attention. Guess I need to step up my UX game though :/
 
-10h ago
+13h ago
 
 ---
 
 **[Alve-x robot arm](https://www.reddit.com/r/robotics/comments/1qx3two/alvex_robot_arm/)**
 
-50m ago
+3h ago
 
 ---
 
 **[Ball-and-Socket… But for Locomotion, Enchanted Tools](https://www.reddit.com/r/robotics/comments/1qx3nuo/ballandsocket_but_for_locomotion_enchanted_tools/)**
 
-57m ago
+3h ago
 
 ---
 
@@ -70,13 +70,13 @@ Felt so excited to see the robot I've been working on getting this much attentio
 
 I learned RL recently, but was unsatisfied with the frameworks available, so a month ago I reached out on here with some ideas and got some great feedback, which has led me to today publishing my library, HelloRL, a modular framework that makes it super easy to go from Actor Critic to TD3. Here is the intro from the repo readme: Why is RL usually so hard? RL algorithms are all similar, but they also have unique implementation details and subtle differences. Every RL framework implements each algorithm from scratch, reproducing many of the same steps across hundreds of lines of code, but with minor implementation differences along the way. Trying to swap between them and keep your code working can be a nightmare. If you want to experiment with a new idea on top of Actor Critic, and then try it on a PPO implementation, you would have to spend hours integrating, and hope you didn’t make a mistake. It's a minefield -- it's so easy to trip yourself up and get something wrong without realising. Introducing HelloRL HelloRL flips this on its head, with a single train function and swappable modules, to build and mix together any RL algorithm easily. HelloRL: A modular library for Reinforcement Learning Built around a single train function that covers every popular algorithm, from discrete online policies like Actor Critic, to continuous offline policies like TD3. Swap modules in and out to mix algorithms together. Go from online to offline learning with just a few easy changes. Follow along with the provided notebooks to make sure you got it right. Build your own custom modules and validate your ideas quickly. https://github.com/i10e-lab/HelloRL Please leave a star ⭐ if you like it.
 
-🔗 [GitHub](https://github.com/i10e-lab/HelloRL) • 2h ago
+🔗 [GitHub](https://github.com/i10e-lab/HelloRL) • 5h ago
 
 ---
 
 **[Getting into robotics at 28](https://www.reddit.com/r/robotics/comments/1qwsvnl/getting_into_robotics_at_28/)**
 
-7h ago
+10h ago
 
 ---
 
@@ -84,7 +84,7 @@ I learned RL recently, but was unsatisfied with the frameworks available, so a m
 
 V1 of my home sentry wake up alarm! Had a lot of fun taking apart this old orbee blaster! Leveraging the absolutely horrendous voltage hungry L298N. I setup a simple circuit leveraging ESP as a microcontroller sending a PMW signal through a single dc motor. ESP receives and transcribes information via Streaming packets over UDP. My pi4 sends packets via a web interface ( created it but can’t attach the image, where you can set a simple timer based on time zone). Additionally for some safety haha - put my pi4 over tail net with a simple UfW firewall to block random devices from finding port22 - also made sure that ESP only accepts packets sent from my pi IP! Let me know if you guys want to see it in action 🪦
 
-17h ago
+20h ago
 
 ---
 
@@ -100,7 +100,7 @@ From Olivier Duchenne on 𝕏: https://x.com/inventorOli/status/2018719028462657
 
 Hy everyone! I'll be quick, I want to build this: Full video: https://www.youtube.com/watch?v=Rh7JuL3PRSY Well, not that specifically. I want to build a cart-pole system, starting with a single inverted pendulum and maybe expanding to a double inverted pendulum later if I can get the first one balancing reliably. For actuation I want to use a BLDC motor with an encoder and a proper driver, so I can turn it into a brushless servo that drives the cart along a rail using a timing belt. I know that could also be done with a stepper motor, and I’m aware of the general components needed (motor + encoder + driver + controller), but I specifically want to do it with a BLDC and learn how to handle it. The cart won't be very heavy (maybe 1-2 kg), so I don't need super high torque, but enough to speed up and slow down cleanly during balancing. What motor should I use? Im planning on using a Teensy or an ESP32 as the controller, but what encoder/driver do you recommend? Thanks in advance!
 
-6h ago
+8h ago
 
 ---
 
@@ -108,51 +108,33 @@ Hy everyone! I'll be quick, I want to build this: Full video: https://www.youtub
 
 ## Google News: "robotics"
 
+**[China is running the EV playbook on humanoid robots — and it’s working](https://restofworld.org/2026/china-humanoid-robots-unitree-agibot-tesla-optimus/)**
+
+Rest of World • 19h ago
+
+---
+
+**[ChatGPT sucks at being a real robot](https://www.vox.com/technology/476657/chatgpt-mit-csail-tesla-humanoid-robot)**
+
+﻿Science fiction promised us humanoids. Do we even want them?
+
+vox.com • 17h ago
+
+---
+
+**[I'm a 25-year-old founder who loves robots but too many humanoids are militant and creepy-looking. Things need to change—just look at Elon Musk](https://fortune.com/2026/02/05/25-year-old-robotics-founder-says-too-many-creepy-militant-look-at-elon-musk/)**
+
+Who’s raising our robots? Teaching social norms in the age of humanoid robots.
+
+Fortune • 13h ago
+
+---
+
 **[ETM brings its transverse flux motor technology to robotics](https://www.therobotreport.com/etm-brings-its-transverse-flux-motor-technology-to-robotics/)**
 
 ETM said its TFM technology enables OEMs to simplify mechanical designs, reduce costs, and achieve performance benchmarks.
 
 The Robot Report • 1d ago
-
----
-
-**[China unveils world’s first 'biomimetic AI robot' that smiles, winks](https://interestingengineering.com/ai-robotics/shanghai-unveils-moya-humanoid-robot)**
-
-Moya, a humanoid robot unveiled in Shanghai, is designed to walk, smile, and interact like a human using embodied AI.
-
-Interesting Engineering • 4h ago
-
----
-
-**[This Video of Hilariously Slow Robots Putting Olive Oil in a Bag Is Actually Pretty Impressive](https://gizmodo.com/this-video-of-hilariously-slow-robots-putting-olive-oil-in-a-bag-is-actually-pretty-impressive-2000718202)**
-
-Robots that can actually do things are not slick yet, and it's a relief when robotics companies don't hide from that.
-
-Gizmodo • 10h ago
-
----
-
-**[Robotics Will Break AI infrastructure: Here’s What Comes Next](https://www.nextplatform.com/2026/02/03/robotics-will-break-ai-infrastructure-heres-what-comes-next/)**
-
-SPONSORED CONTENT  Physical AI and robotics are moving from the lab to the real world – and the cost of getting it wrong is no longer theoretical. With
-
-The Next Platform • 2d ago
-
----
-
-**[Web Summit Qatar startups raise $205 million as the summit wraps up](https://www.euronews.com/next/2026/02/04/web-summit-qatar-startups-raise-205m-as-ai-and-robotics-shape-the-future-of-tech)**
-
-Companies at Web Summit Qatar have collectively raised more than $28 billion (€23.7bn) over the past year, highlighting the sheer weight of innovation in the room.
-
-Euronews.com • 1d ago
-
----
-
-**[Carbon Robotics built an AI model that detects and identifies plants](https://techcrunch.com/2026/02/02/carbon-robotics-built-an-ai-model-that-detects-and-identifies-plants/)**
-
-Carbon Robotics' Large Plant Model will allow farmers to kill new types of weeds without having to retrain the machines.
-
-TechCrunch • 3d ago
 
 ---
 
@@ -166,23 +148,39 @@ Politico • 1d ago
 
 Firms are working to make the motors that drive robots more efficient and cheaper.
 
-BBC • 2h ago
+BBC • 4h ago
 
 ---
 
-**[SoftBank, Fanuc turn to partners as robotics and AI merge](https://asia.nikkei.com/business/technology/artificial-intelligence/softbank-fanuc-turn-to-partners-as-robotics-and-ai-merge)**
+**[House lawmakers lay groundwork to create robotics commission](https://fedscoop.com/robotics-commission-commerce-department-legislation/)**
 
-Japan's robotics industry struggles to catch up to physical AI technology
+The potential independent, temporary commission is part of a bipartisan effort meant to better inform future legislation, the Trump administration and relevant federal agencies.
 
-Nikkei Asia • 3d ago
+FedScoop • 8h ago
 
 ---
 
-**[Apple Teaching Swift and Robotics Across Its India Supply Chain](https://www.macrumors.com/2026/02/04/apple-teaching-swift-and-robotics-in-india/)**
+**[Walmart to add automation, robotics to Louisiana distribution center](https://www.supplychaindive.com/news/walmart-automation-robotics-opelousas-louisiana-distribution-center/811025/)**
 
-Apple today announced a new Education Hub in Bengaluru as part of an expanded effort to provide technical training and skills development for employees across its supply chain in India. Apple said the new Apple Education Hub in Bengaluru will serve as a centralized training and coordination facility for supplier employees in India, marking the company's first education hub of its kind in the country.
+The retailer’s $330 million investment, slated to start this year, is part of a larger effort to upgrade all 42 of its regional distribution facilities.
 
-MacRumors • 1d ago
+Supply Chain Dive • 13h ago
+
+---
+
+**[My neighborhood is pushing back against sidewalk delivery robots. The fight’s coming to your town next](https://www.fastcompany.com/91486773/sidewalk-delivery-robots-coco-serve-chicago-backlash)**
+
+A dispatch from the bucolic Chicago neighborhood that's the latest battleground between tech and cities over food delivery robots.
+
+Fast Company • 18h ago
+
+---
+
+**[Faraday Future Launches Three Series of Robot Products in Las Vegas at the Annual NADA Show, Aiming to Become the First U.S. Company to Deliver Both Humanoid and Bionic Robots](https://finance.yahoo.com/news/faraday-future-launches-three-series-042100434.html)**
+
+LAS VEGAS, February 05, 2026--Please replace the release dated Feb. 4, 2026 with the following corrected version due to revisions to the first subheadline. It should read:
+
+Yahoo Finance • 1d ago
 
 ---
 
@@ -196,7 +194,7 @@ Humanoid robots just entered a new phase of realism. In Shanghai, DroidUp reveal
 
 📺 AI Revolution
 
-👁️ 100K • 👍 2K • 💬 529 • ⏱️ 13:31 • 1d ago
+👁️ 105K • 👍 2K • 💬 543 • ⏱️ 13:31 • 1d ago
 
 ---
 
@@ -206,7 +204,7 @@ XPeng just showed the world what real humanoid robot progress looks like. During
 
 📺 DPCcars
 
-👁️ 33K • 👍 139 • 💬 47 • ⏱️ 2:06 • 4d ago
+👁️ 33K • 👍 140 • 💬 47 • ⏱️ 2:06 • 4d ago
 
 ---
 
@@ -216,7 +214,7 @@ XPENG just took a massive step forward in humanoid robotics. The New IRON robot 
 
 📺 DPCcars
 
-👁️ 21K • 👍 182 • 💬 37 • ⏱️ 1:21 • 5d ago
+👁️ 21K • 👍 183 • 💬 37 • ⏱️ 1:21 • 5d ago
 
 ---
 
@@ -236,27 +234,17 @@ Crea tu Web con la IA aquí: https://hostinger.com/inteligencia (Usa el cupón I
 
 📺 Inteligencia Artificial
 
-👁️ 22K • 👍 1K • 💬 62 • ⏱️ 13:44 • 7h ago
+👁️ 26K • 👍 1K • 💬 67 • ⏱️ 13:44 • 9h ago
 
 ---
 
-**[China rolls out robot cops in cities to push humanoid robots in daily life](https://www.youtube.com/watch?v=NavsugcHgAo)**
+**[Moya, customizable humanoid robot, makes debut in Shanghai, powered by DroidUp&#39;s latest tech](https://www.youtube.com/watch?v=AuTbHjCepxs)**
 
-China is deploying AI-powered robots to manage traffic and pedestrian flow in cities. NBC News' Janis Mackey Frayer explains ...
+Today in Shanghai, a humanoid robot named Moya makes her debut, smiling, nodding, making eye contact and walking naturally.
 
-📺 NBC News
+📺 ShanghaiEye魔都眼
 
-👁️ 801K • 👍 7K • 💬 3K • ⏱️ 3:13 • 6d ago
-
----
-
-**[ChatGPT in a kids robot does exactly what experts warned.](https://www.youtube.com/watch?v=LF4o4Z01Q0I)**
-
-AI in a kids toy does what experts warned. Can we trust AI? Get Inside AI's exclusive Nord VPN deal here: ...
-
-📺 InsideAI
-
-👁️ 723K • 👍 31K • 💬 5K • ⏱️ 15:47 • 5d ago
+👁️ 99K • 👍 1K • 💬 613 • ⏱️ 1:34 • 6d ago
 
 ---
 
@@ -266,7 +254,15 @@ Credits: IShowSpeed Live ishowspeed started beefing with an ai robot on stream a
 
 📺 WClipMedia
 
-👁️ 600K • 👍 4K • 💬 24 • ⏱️ 0:26 • 2d ago
+👁️ 606K • 👍 4K • 💬 24 • ⏱️ 0:26 • 2d ago
+
+---
+
+**[Drag-and-drop welding robot.#industrial #welding #robot #spraying #stamping](https://www.youtube.com/watch?v=lsVNGP4LfPA)**
+
+📺 Lin of Brant robot 
+
+👁️ 30K • 👍 93 • 💬 1 • ⏱️ 0:22 • 4d ago
 
 ---
 
