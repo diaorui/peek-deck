@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-02-06T09:43:57.016126+00:00'
+updated: '2026-02-06T10:40:46.776691+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
+- news
 - social
 - videos
-- news
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** February 06, 2026 at 09:43 UTC  
+**Last Updated:** February 06, 2026 at 10:40 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -34,7 +34,7 @@ Robotics research and industry news
 
 **[Ball-and-Socket… But for Locomotion, Enchanted Tools](https://www.reddit.com/r/robotics/comments/1qx3nuo/ballandsocket_but_for_locomotion_enchanted_tools/)**
 
-8h ago
+9h ago
 
 ---
 
@@ -42,7 +42,7 @@ Robotics research and industry news
 
 From RoboHub🤖 on 𝕏: https://x.com/XRoboHub/status/2019135928384778288
 
-23h ago
+1d ago
 
 ---
 
@@ -50,7 +50,7 @@ From RoboHub🤖 on 𝕏: https://x.com/XRoboHub/status/2019135928384778288
 
 Felt so excited to see the robot I've been working on getting this much attention. Guess I need to step up my UX game though :/
 
-18h ago
+19h ago
 
 ---
 
@@ -58,7 +58,7 @@ Felt so excited to see the robot I've been working on getting this much attentio
 
 Standard servos are dumb (no feedback). Smart servos are expensive and require complex wiring. ​I wanted a middle ground, so I upgraded the standard MG996R. ​ I integrated a 14-bit magnetic encoder inside the case. The killer feature? It communicates everything through the original 3-wire servo cable. No extra wires, no custom connectors. It is a true drop-in replacement. ​ ​Resolution: 14-bit (~0.02° precision). ​Feedback: 360° Absolute Position. ​Interface: Bidirectional data over the single Signal wire. ​Form Factor: Identical to stock MG996R. ​I need a sanity check from the community: ​Is the "no extra wires" feature a major selling point for you? ​What would be a fair price for this "Smart MG996R" to make it worth buying over a Dynamixel?
 
-35m ago
+1h ago
 
 ---
 
@@ -66,13 +66,13 @@ Standard servos are dumb (no feedback). Smart servos are expensive and require c
 
 Hello guys I bought this jetson orin super developer kit. Using it for a fully automated robot I am building. Right now I am ordering the parts and want to use a Lidar L-1 and 2 cameras Oak-D pro from luxonis. However I am running into an issue the Lidar requires 12 volt so I cant power that through the jetson the cameras are fine to plug in the usb ports. But reading the manual the usb ports are only rated for up to 0.9 A while the cameras can take up to 2A under heavy load. Luxonis provides a usb splitter where one can be for power and one for data. Now my issue is finding a good reliable and affordable PDB or any other solution that can split the power coming from my battery into the lidar jetson and the 2 cameras.
 
-1h ago
+2h ago
 
 ---
 
 **[Alve-x robot arm](https://www.reddit.com/r/robotics/comments/1qx3two/alvex_robot_arm/)**
 
-8h ago
+9h ago
 
 ---
 
@@ -86,7 +86,7 @@ Hello guys I bought this jetson orin super developer kit. Using it for a fully a
 
 I learned RL recently, but was unsatisfied with the frameworks available, so a month ago I reached out on here with some ideas and got some great feedback, which has led me to today publishing my library, HelloRL, a modular framework that makes it super easy to go from Actor Critic to TD3. Here is the intro from the repo readme: Why is RL usually so hard? RL algorithms are all similar, but they also have unique implementation details and subtle differences. Every RL framework implements each algorithm from scratch, reproducing many of the same steps across hundreds of lines of code, but with minor implementation differences along the way. Trying to swap between them and keep your code working can be a nightmare. If you want to experiment with a new idea on top of Actor Critic, and then try it on a PPO implementation, you would have to spend hours integrating, and hope you didn’t make a mistake. It's a minefield -- it's so easy to trip yourself up and get something wrong without realising. Introducing HelloRL HelloRL flips this on its head, with a single train function and swappable modules, to build and mix together any RL algorithm easily. HelloRL: A modular library for Reinforcement Learning Built around a single train function that covers every popular algorithm, from discrete online policies like Actor Critic, to continuous offline policies like TD3. Swap modules in and out to mix algorithms together. Go from online to offline learning with just a few easy changes. Follow along with the provided notebooks to make sure you got it right. Build your own custom modules and validate your ideas quickly. https://github.com/i10e-lab/HelloRL Please leave a star ⭐ if you like it.
 
-🔗 [GitHub](https://github.com/i10e-lab/HelloRL) • 10h ago
+🔗 [GitHub](https://github.com/i10e-lab/HelloRL) • 11h ago
 
 ---
 
@@ -94,13 +94,13 @@ I learned RL recently, but was unsatisfied with the frameworks available, so a m
 
 Took a long break, but I’m back working on my Metalhead dog robot. Here’s a short video. Still reprinting some parts, but progress is finally happening again. Video is reversed for visual effect — this is actually a teardown. Any thoughts or suggestions are welcome.
 
-🔗 [youtube.com](https://youtube.com/shorts/l7a4Yfauo5Q?si=ivTumi5yYCQA7SB2) • 7h ago
+🔗 [youtube.com](https://youtube.com/shorts/l7a4Yfauo5Q?si=ivTumi5yYCQA7SB2) • 8h ago
 
 ---
 
 **[Getting into robotics at 28](https://www.reddit.com/r/robotics/comments/1qwsvnl/getting_into_robotics_at_28/)**
 
-15h ago
+16h ago
 
 ---
 
@@ -120,7 +120,7 @@ The Robot Report • 1d ago
 
 Robots that can actually do things are not slick yet, and it's a relief when robotics companies don't hide from that.
 
-Gizmodo • 18h ago
+Gizmodo • 19h ago
 
 ---
 
@@ -134,7 +134,7 @@ Rest of World • 1d ago
 
 Who’s raising our robots? Teaching social norms in the age of humanoid robots.
 
-Fortune • 19h ago
+Fortune • 20h ago
 
 ---
 
@@ -142,7 +142,7 @@ Fortune • 19h ago
 
 The retailer’s $330 million investment, slated to start this year, is part of a larger effort to upgrade all 42 of its regional distribution facilities.
 
-Supply Chain Dive • 18h ago
+Supply Chain Dive • 19h ago
 
 ---
 
@@ -150,7 +150,7 @@ Supply Chain Dive • 18h ago
 
 Mordor Intelligence, a global leader in market research and advisory services, reports that the service robotics market size is valued at USD 86.02 billion in 2026 and is projected to reach USD 209.72 billion by 2031, registering a strong 19.51% CAGR during the forecast period.
 
-Yahoo Finance • 1h ago
+Yahoo Finance • 2h ago
 
 ---
 
@@ -158,7 +158,7 @@ Yahoo Finance • 1h ago
 
 Firms are working to make the motors that drive robots more efficient and cheaper.
 
-BBC • 9h ago
+BBC • 10h ago
 
 ---
 
@@ -166,7 +166,7 @@ BBC • 9h ago
 
 The potential independent, temporary commission is part of a bipartisan effort meant to better inform future legislation, the Trump administration and relevant federal agencies.
 
-FedScoop • 13h ago
+FedScoop • 14h ago
 
 ---
 
@@ -174,7 +174,7 @@ FedScoop • 13h ago
 
 A dispatch from the bucolic Chicago neighborhood that's the latest battleground between tech and cities over food delivery robots.
 
-Fast Company • 23h ago
+Fast Company • 1d ago
 
 ---
 
@@ -182,7 +182,7 @@ Fast Company • 23h ago
 
 In a reversal of trade dynamics over cutting-edge silicon, China holds the cards in robotics manufacturing.
 
-Tom's Hardware • 20h ago
+Tom's Hardware • 21h ago
 
 ---
 
@@ -236,7 +236,7 @@ Crea tu Web con la IA aquí: https://hostinger.com/inteligencia (Usa el cupón I
 
 📺 Inteligencia Artificial
 
-👁️ 31K • 👍 1K • 💬 77 • ⏱️ 13:44 • 14h ago
+👁️ 31K • 👍 1K • 💬 77 • ⏱️ 13:44 • 15h ago
 
 ---
 
@@ -272,7 +272,7 @@ Credits: IShowSpeed Live ishowspeed started beefing with an ai robot on stream a
 
 📺 Tesla Owners Silicon Valley
 
-👁️ 11K • 👍 506 • 💬 16 • ⏱️ 0:40 • 12h ago
+👁️ 11K • 👍 506 • 💬 16 • ⏱️ 0:40 • 13h ago
 
 ---
 
