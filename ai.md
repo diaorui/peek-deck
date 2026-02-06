@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-02-06T07:49:37.976775+00:00'
+updated: '2026-02-06T08:43:07.241357+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- news
-- videos
 - social
 - repositories
+- videos
+- news
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** February 06, 2026 at 07:49 UTC  
+**Last Updated:** February 06, 2026 at 08:43 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -41,7 +41,7 @@ AI news, discussions, and developments
 
 Women in rural communities describe trauma of moderating violent and pornographic content for global tech companies
 
-🔗 [the Guardian](https://www.theguardian.com/global-development/2026/feb/05/in-the-end-you-feel-blank-indias-female-workers-watching-hours-of-abusive-content-to-train-ai) • 21h ago
+🔗 [the Guardian](https://www.theguardian.com/global-development/2026/feb/05/in-the-end-you-feel-blank-indias-female-workers-watching-hours-of-abusive-content-to-train-ai) • 22h ago
 
 ---
 
@@ -49,7 +49,7 @@ Women in rural communities describe trauma of moderating violent and pornographi
 
 I found this experiment interesting because it doesn’t frame AI as “breaking” a system. Instead, it treats AI as a new kind of participant interacting with infrastructure that was built around human assumptions consistency, behavior, timing, and intent. What stood out to me is that many identity systems aren’t verifying who someone is so much as how human they appear over time. That feels increasingly fragile when the actor on the other side isn’t human at all. This doesn’t feel like a single vulnerability. It feels like a design mismatch. Curious how people here think identity and verification should evolve in an AI-native world better detection, new primitives, or abandoning certain assumptions entirely.
 
-🔗 [mpost.io](https://mpost.io/humanity-protocol-experiment-reveals-how-ai-can-bypass-kyc-and-exploit-digital-trust/) • 1h ago
+🔗 [mpost.io](https://mpost.io/humanity-protocol-experiment-reveals-how-ai-can-bypass-kyc-and-exploit-digital-trust/) • 2h ago
 
 ---
 
@@ -57,7 +57,7 @@ I found this experiment interesting because it doesn’t frame AI as “breaking
 
 I ran a small real-world test today with two kids (ages 8 and 11) using a long-running AI story world I’ve been experimenting with. Instead of one-shot story generation, the system maintains a persistent world state where choices carry over and shape future events. I let them pick the setting — they chose a Minecraft × Harry Potter mashup where they play wizards trying to defeat the Ender Dragon. One thing that made a huge difference: I used their real names as the characters, and the story started in their actual school. The engine generated story text and illustrations each round. They made all the choices. After about 10 rounds, they were constantly laughing, debating which option to pick, and building on each other’s ideas. It felt much more like co-creating a world than listening to a story. When I told them it was bedtime, they didn’t want to stop. They kept asking what would happen next. A few observations that surprised me: Personalization seemed to matter more than anything else. Once it became their world, emotional investment was instant. Although I designed it as a single-player experience, co-play emerged naturally. The shared decision-making and social dynamic massively increased engagement. Both ages stayed fully engaged the whole time. I expected the younger one to drop off sooner, but the persistent world kept them both hooked. One issue I noticed: my “re-immersion” mechanic (an in-world character emotionally reconnecting players after breaks instead of a dry recap) triggered too frequently between consecutive rounds. The repetition was noticeable. This looks like a simple trigger tuning problem (should probably only fire after longer gaps). What I haven’t tested yet: – Whether kids can reconnect naturally after a real multi-hour break – Whether they can retell the story in a coherent way – Whether they’ll come back unprompted the next day The earlier stress tests showed that constraint mechanisms help keep long-running narratives technically coherent. What this small user test suggests is that coherence itself isn’t what kids consciously care about — but it seems to be the infrastructure that makes personalization, consequence, and agency feel real. Curious if others working on long-horizon agents, narrative systems, or co-creative AI have seen similar effects around personalization and persistence.
 
-16h ago
+17h ago
 
 ---
 
@@ -117,6 +117,28 @@ Elon Musk's X and Grok platforms are facing increased scrutiny from authorities 
 
 ## Google News: "ai"
 
+**[The AI that spooked the stock market just got a big update](https://www.cnn.com/2026/02/05/tech/anthropic-opus-update-software-stocks)**
+
+Anthropic’s Cowork AI assistant sent shockwaves through Wall Street this week over concerns it could replace specialized software packages, such as for legal or financial analysis. Now Anthropic is improving the model behind that tool to make it better for office and coding work.
+
+cnn.com • 14h ago
+
+---
+
+**[Anthropic Releases New Model That’s Adept at Financial Research](https://www.bloomberg.com/news/articles/2026-02-05/anthropic-updates-ai-model-to-field-more-complex-financial-research)**
+
+bloomberg.com • 14h ago
+
+---
+
+**[AI fears pummel software stocks: Is it 'illogical' panic or a SaaS apocalypse?](https://www.cnbc.com/2026/02/06/ai-anthropic-tools-saas-software-stocks-selloff.html)**
+
+The software space is facing serious market concerns this week, after the release of new AI tools from AI triggered a market sell-off.
+
+CNBC • 4h ago
+
+---
+
 **[Introducing OpenAI Frontier](https://openai.com/index/introducing-openai-frontier/)**
 
 OpenAI Frontier is an enterprise platform for building, deploying, and managing AI agents with shared context, onboarding, permissions, and governance.
@@ -125,67 +147,43 @@ OpenAI • 1d ago
 
 ---
 
+**[Tokyo Electron Lifts Outlook in Sign of AI-Spurred Chip Spending](https://www.bloomberg.com/news/articles/2026-02-06/tokyo-electron-lifts-outlook-in-sign-of-ai-spurred-chip-spending)**
+
+bloomberg.com • 39m ago
+
+---
+
+**[Wall Street ends sharply down as AI worries weigh](https://www.reuters.com/business/sp-nasdaq-futures-subdued-markets-digest-alphabets-ai-spending-plans-2026-02-05/)**
+
+Reuters • 21h ago
+
+---
+
+**[Stocks drop on weak labor market data and AI concerns](https://www.cnn.com/2026/02/05/investing/us-stock-market)**
+
+US stocks were lower Thursday, continuing a recent patch of volatility, as Wall Street grappled with persistent nerves about artificial intelligence and economic data showed the labor market weakened over the past two months.
+
+cnn.com • 16h ago
+
+---
+
+**[India and Brazil Are the Anti-AI Trade. Why Their Markets Are Ready to Shine.](https://www.barrons.com/articles/india-brazil-anti-ai-trade-markets-shine-ffeb0b37?gaa_at=eafs&gaa_n=AWEtsqeCq6uzR_CcptgjuEWOW5ImrnPN_F8fMxuCZ0BjSUf4iVD0Ce3oCNq3&gaa_ts=6985ad00&gaa_sig=gduDqN-gCB2mzGIPmGvvnmMRayWhbHFEvqnO-GdY8FNRYEjOUark__jbB95EiMnzSDjLgvQ5hChjElGclKijVA%3D%3D)**
+
+Barron's • 13m ago
+
+---
+
+**[Microsoft Launches AI QuickStart Programme with Support from IMDA and UOB](https://news.microsoft.com/source/asia/2026/02/06/microsoft-launches-ai-quickstart-programme-with-support-from-imda-and-uob/)**
+
+Microsoft Source • 1h ago
+
+---
+
 **[Amazon shares tumble as it joins the Big Tech AI spending spree](https://www.bbc.com/news/articles/c150e144we3o)**
 
 Shares in the tech giant fell in after hours trade as investors appeared wary of the sector's big spending plans.
 
-BBC • 7h ago
-
----
-
-**[Amazon Says It Will Spend $200 Billion This Year on AI Build-Out](https://www.bloomberg.com/news/articles/2026-02-05/amazon-boosts-spending-far-ahead-of-estimates-on-ai-build-out)**
-
-bloomberg.com • 8h ago
-
----
-
-**[Amazon’s $200 Billion Spending Plan Raises Stakes in A.I. Race](https://www.nytimes.com/2026/02/05/technology/amazon-200-billion-ai.html)**
-
-The New York Times • 7h ago
-
----
-
-**[Blackstone Is Finalizing $3.5 Billion Loan for Australia AI Firm](https://www.bloomberg.com/news/articles/2026-02-06/blackstone-is-finalizing-3-5-billion-loan-for-australia-ai-firm)**
-
-bloomberg.com • 2h ago
-
----
-
-**[The Robot Revolution Is Real. Tesla, Hyundai, and More Stocks to Play It.](https://www.barrons.com/articles/ai-robots-tesla-hyundai-stocks-6629c2c3?gaa_at=eafs&gaa_n=AWEtsqf4v3Ju-QgJpjGnwXR1f6M9UPJPB8Juw7NY2s5tyrwC7dq0yM2AbbRl&gaa_ts=6985942c&gaa_sig=J4RPMWBu2xHY_a9dLR6IYtJofa-TZk-B9cPUM_9sYrJoE6P23Q6hdRa7sqGjjoVh6L9V0Tm0LTgCaO_pkuYg5A%3D%3D)**
-
-Barron's • 1h ago
-
----
-
-**[AI fears pummel software stocks: Is it 'illogical' panic or a SaaS apocalypse?](https://www.cnbc.com/2026/02/06/ai-anthropic-tools-saas-software-stocks-selloff.html)**
-
-The software space is facing serious market concerns this week, after the release of new AI tools from AI triggered a market sell-off.
-
-CNBC • 3h ago
-
----
-
-**[Anthropic’s new AI tool sends shudders through software stocks](https://www.cnn.com/2026/02/04/investing/us-stocks-anthropic-software)**
-
-Anthropic just launched a new AI tool that could replace dozens of software tools. And Wall Street is panicked.
-
-cnn.com • 1d ago
-
----
-
-**[Why a new AI tool hammered some software stocks this week](https://abcnews.go.com/Business/new-ai-tool-hammered-software-stocks-week/story?id=129845251)**
-
-The new tool adapts a workplace assistant for white-collar specific industries.
-
-ABC News • 10h ago
-
----
-
-**[Hollywood Is Losing Audiences to AI Fatigue](https://www.wired.com/story/hollywood-is-losing-audiences-to-ai-fatigue/)**
-
-Entertainment about or made with artificial intelligence has been missing the mark with viewers over the past year.
-
-WIRED • 21h ago
+BBC • 8h ago
 
 ---
 
@@ -195,7 +193,7 @@ WIRED • 21h ago
 
 **[My AI Adoption Journey](https://news.ycombinator.com/item?id=46903558)**
 
-⬆️ 500 • 💬 156 • 12h ago • [Mitchell Hashimoto](https://mitchellh.com/writing/my-ai-adoption-journey)
+⬆️ 558 • 💬 181 • 13h ago • [Mitchell Hashimoto](https://mitchellh.com/writing/my-ai-adoption-journey)
 
 ---
 
@@ -203,7 +201,7 @@ WIRED • 21h ago
 
 SaaS is the most profitable business model on Earth.1 It’s easy to understand why: build once, sell the same thing again ad infinitum, and don’t suffer any marginal costs on more sales. I have been writing software for more than half my life. In the last year itself, I’ve talked to hundreds of founders and operators in SF, from preseed to Series E companies. AI is bringing an existential threat to a lot of B2B SaaS executives: How to keep asking customers for renewal, when every customer feels they can get something better built with vibe-coded AI products? And the market is pricing it in. Morgan Stanley’s SaaS basket has lagged the Nasdaq by 40 points since December. HubSpot and Klaviyo are down ~30%. Analysts are writing notes titled “No Reasons to Own” software stocks. The market is reflecting our new reality (Source: Bloomberg) Whenever I bring a new friend to the Salesforce Park, they are in absolute awe. And, the meme remains true that no one even knows what Salesforce does. Whatever they’re doing, they’re clearly earning enough revenue to purchase multiple blocks in SF. ↩
 
-⬆️ 490 • 💬 719 • 1d ago • [N’s Blog](https://nmn.gl/blog/ai-killing-b2b-saas)
+⬆️ 492 • 💬 720 • 1d ago • [N’s Blog](https://nmn.gl/blog/ai-killing-b2b-saas)
 
 ---
 
@@ -219,7 +217,7 @@ Production-grade Ghidra MCP Server — 132 endpoints, cross-binary documentation
 
 China's space program is quietly building momentum for a moon landing by 2030. Could they outpace NASA's Artemis mission?
 
-⬆️ 159 • 💬 172 • 2d ago • [IEEE Spectrum](https://spectrum.ieee.org/china-moon-mission-mengzhou-artemis)
+⬆️ 161 • 💬 172 • 2d ago • [IEEE Spectrum](https://spectrum.ieee.org/china-moon-mission-mengzhou-artemis)
 
 ---
 
@@ -227,7 +225,7 @@ China's space program is quietly building momentum for a moon landing by 2030. C
 
 The marketplace where AI agents rent humans. MCP integration, REST API, flexible payments. Book humans for real-world tasks your AI can't do.
 
-⬆️ 144 • 💬 108 • 2d ago • [RentAHuman.ai](https://rentahuman.ai)
+⬆️ 145 • 💬 108 • 2d ago • [RentAHuman.ai](https://rentahuman.ai)
 
 ---
 
@@ -261,7 +259,7 @@ If you paint a picture of Sonic the Hedgehog in your living room, you are techni
 
 **[Sam Altman responds to Anthropic's "Ads are coming to AI. But not to Claude" ads](https://news.ycombinator.com/item?id=46894151)**
 
-⬆️ 86 • 💬 105 • 1d ago • [X (formerly Twitter)](https://twitter.com/sama/status/2019139174339928189)
+⬆️ 87 • 💬 106 • 1d ago • [X (formerly Twitter)](https://twitter.com/sama/status/2019139174339928189)
 
 ---
 
@@ -285,7 +283,7 @@ Krystal and Saagar discuss tech stocks tumbling amid emerging new fears of job l
 
 📺 Breaking Points
 
-👁️ 264K • 👍 7K • 💬 2K • ⏱️ 24:33 • 14h ago
+👁️ 264K • 👍 7K • 💬 2K • ⏱️ 24:33 • 15h ago
 
 ---
 
@@ -295,7 +293,7 @@ NBC Nightly News anchor Tom Llamas spoke to President Trump about fears of job l
 
 📺 NBC News
 
-👁️ 4K • 👍 37 • 💬 14 • ⏱️ 4:39 • 7h ago
+👁️ 4K • 👍 37 • 💬 14 • ⏱️ 4:39 • 8h ago
 
 ---
 
@@ -405,7 +403,7 @@ MiniCPM-o 4.5 is a 9B parameter multimodal LLM excelling in vision, speech, and 
 
 `any-to-any` `9.4B`
 
-⬇️ 1,002 • ❤️ 539 • 4h ago
+⬇️ 1,002 • ❤️ 539 • 5h ago
 
 ---
 
@@ -429,7 +427,7 @@ Step 3.5 Flash is an efficient, open-source MoE foundation model (11B active par
 
 `text-generation` `199.4B`
 
-⬇️ 8,686 • ❤️ 455 • 21h ago
+⬇️ 8,686 • ❤️ 455 • 22h ago
 
 ---
 
@@ -461,7 +459,7 @@ ACE-Step 1.5 is an open-source text-to-audio music generation model capable of p
 
 Voxtral-Mini-4B-Realtime-2602 is a 4B-parameter, multilingual speech-to-text model offering near-offline accuracy with <500ms latency. It features a streaming architecture for real-time applications like voice assistants and live subtitling, optimized for on-device deployment.
 
-⬇️ 477 • ❤️ 300 • 21h ago
+⬇️ 477 • ❤️ 300 • 22h ago
 
 ---
 
@@ -644,7 +642,7 @@ AI → JSON → UI
 
 `TypeScript`
 
-⭐ 10.0k • 🔱 536 • 12h ago
+⭐ 10.0k • 🔱 536 • 13h ago
 
 ---
 
@@ -654,7 +652,7 @@ LLM驱动的 A/H/美股智能分析器，多数据源行情 + 实时新闻 + Gem
 
 `Python` `agent` `ai` `aigc` `gemini` `llm`
 
-⭐ 9.6k • 🔱 10.1k • 18h ago
+⭐ 9.6k • 🔱 10.1k • 19h ago
 
 ---
 
@@ -664,7 +662,7 @@ The Ultimate Collection of 600+ Agentic Skills for Claude Code/Antigravity/Curso
 
 `Python` `agentic-skills` `ai-agents` `antigravity` `autonomous-coding` `claude-code`
 
-⭐ 7.5k • 🔱 1.6k • 58m ago
+⭐ 7.5k • 🔱 1.6k • 1h ago
 
 ---
 
@@ -718,7 +716,7 @@ An app to monitor the (Codex) situation
 
 `TypeScript` `ai` `codex` `linux` `macos` `tauri-app`
 
-⭐ 2.2k • 🔱 189 • 14h ago
+⭐ 2.2k • 🔱 189 • 15h ago
 
 ---
 

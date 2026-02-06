@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-02-06T07:49:37.991286+00:00'
+updated: '2026-02-06T08:43:07.255731+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- news
+- social
 - cryptocurrency
 - videos
-- social
+- news
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** February 06, 2026 at 07:49 UTC  
+**Last Updated:** February 06, 2026 at 08:43 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -36,17 +36,17 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Price
 
-### $1,916.49
+### $1,882.65
 
 ---
 
 ## Ethereum Chart
 
-**24h:** -8.4%  
-**7d:** -22.0%  
-**30d:** -38.5%  
-**90d:** -46.7%  
-**1y:** -27.1%  
+**24h:** -11.9%  
+**7d:** -23.4%  
+**30d:** -39.6%  
+**90d:** -47.6%  
+**1y:** -28.4%  
 
 ---
 
@@ -72,7 +72,15 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-1h ago
+2h ago
+
+---
+
+**[Ethereum / Solidity good lyrics](https://www.reddit.com/r/ethereum/comments/1qxa1xp/ethereum_solidity_good_lyrics/)**
+
+Good morning, could anyone recommend some good reading material to learn more about the Ethereum blockchain and smart contract development/deployment? I'm an IT professional, so even fairly technical material is fine, but I'd like to have a good overview first before moving on to the development side of things.
+
+2h ago
 
 ---
 
@@ -89,14 +97,6 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 https://etherscan.io/tx/0xaab90d00abf065e4158852a64c809b8921d109e997bd3790cb471aadfa57f4e0 I've been waiting for this transaction for almost an hour (trying to transfer from Newton to TrustWallet). There seem to be hundreds of transactions from the same address that I don't recognize. Have I been hacked? Update: It's fixed now, just had to wait a couple hours.
 
 10h ago
-
----
-
-**[Ethereum / Solidity good lyrics](https://www.reddit.com/r/ethereum/comments/1qxa1xp/ethereum_solidity_good_lyrics/)**
-
-Good morning, could anyone recommend some good reading material to learn more about the Ethereum blockchain and smart contract development/deployment? I'm an IT professional, so even fairly technical material is fine, but I'd like to have a good overview first before moving on to the development side of things.
-
-1h ago
 
 ---
 
@@ -156,15 +156,7 @@ I’d like a more technical and realistic analysis of Ethereum and how things ar
 
 A leaked pitch to reshape Ethereum’s leadership exposed deep divisions over politics, power and Ether’s static price
 
-The Guardian • 16h ago
-
----
-
-**[Why Is Cathie Wood Buying More BitMine As Ethereum Plummets? Ark Invest Doubles Down as Tom Lee Defends Strategy](https://finance.yahoo.com/news/why-cathie-wood-buying-more-123215468.html)**
-
-Cathie Wood’s ARK Invest added more than $44 million in crypto-linked equities, including BitMine, Robinhood, and Circle. BitMine chairman Tom Lee defended the firm’s Ethereum ...
-
-Yahoo Finance • 1d ago
+The Guardian • 17h ago
 
 ---
 
@@ -172,15 +164,15 @@ Yahoo Finance • 1d ago
 
 Despite the mounting loss, the Ethereum treasury firm says it's under no pressure to sell as ETH price crashes and its stock tumbles.
 
-CoinDesk • 14h ago
+CoinDesk • 15h ago
 
 ---
 
-**[BitMine Stock Plummets 9% as $7 Billion Ethereum “Hole” Spooks Investors](https://www.tipranks.com/news/bitmine-stock-plummets-9-as-7-billion-ethereum-hole-spooks-investors)**
+**[Should You Invest $2,500 in Ethereum, or Shiba Inu?](https://finance.yahoo.com/news/invest-2-500-ethereum-shiba-063500625.html)**
 
-The sell-off in BitMine Immersion Technologies ($BMNR) intensified today as the stock dropped 8.6% to reach $18.56, extending a brutal monthly slide that has wiped ...
+One of these chains is shipping upgrades, and the other is dead in the water.
 
-TipRanks • 15h ago
+Yahoo Finance • 2h ago
 
 ---
 
@@ -188,13 +180,21 @@ TipRanks • 15h ago
 
 One of these chains is shipping upgrades, and the other is dead in the water.
 
-The Motley Fool • 1h ago
+The Motley Fool • 2h ago
 
 ---
 
-**[Bitcoin, XRP, Ethereum Drop. Why Cryptos Are Under Pressure Today.](https://www.barrons.com/articles/bitcoin-xrp-ethereum-cryptos-gold-9051820f?gaa_at=eafs&gaa_n=AWEtsqdK3K9NaUWOjsnhcZQZPlTtE_NunUbmoMY-9cLVsT12qcEOnVU43o5Z&gaa_ts=69859431&gaa_sig=Kkh7BS05Y1U_xAYlxHSnxi0meIEQR0uWwBHGdxGR9Bsdx409ZPdwKkgTJfl0w83YDq-PevAT5RzdXhrHrjBA6w%3D%3D)**
+**[Bitcoin, XRP, Ethereum Drop. Why Cryptos Are Under Pressure Today.](https://www.barrons.com/articles/bitcoin-xrp-ethereum-cryptos-gold-9051820f?gaa_at=eafs&gaa_n=AWEtsqcq-tUQ0w1qprkrVqwxNjC5DqJgfmVpwbelb3QY2oxFyHw9kWcXMOQk&gaa_ts=6985ad03&gaa_sig=k84uTA4XE-GFRjEm2s2r7LNBrh0B4Ls-8Qiwh9sjRCb6bshKx1HRn1NZ0gljcDR1z-ScPquOMP7WTYfUA0dX1w%3D%3D)**
 
 Barron's • 1d ago
+
+---
+
+**[XRP Leads Crypto Losses as Ethereum, Dogecoin Prices Crater Alongside Bitcoin](https://decrypt.co/357044/xrp-leads-crypto-losses-ethereum-dogecoin-crater-bitcoin)**
+
+XRP has plunged 15% on the day as crypto markets turn bearish, with Ethereum, Dogecoin, and Solana also sinking alongside Bitcoin.
+
+Decrypt • 16h ago
 
 ---
 
@@ -206,25 +206,25 @@ financemagnates.com • 21h ago
 
 ---
 
-**[XRP Leads Crypto Losses as Ethereum, Dogecoin Prices Crater Alongside Bitcoin](https://decrypt.co/357044/xrp-leads-crypto-losses-ethereum-dogecoin-crater-bitcoin)**
-
-XRP has plunged 15% on the day as crypto markets turn bearish, with Ethereum, Dogecoin, and Solana also sinking alongside Bitcoin.
-
-Decrypt • 15h ago
-
----
-
 **[Ethereum Price Prediction: Alarming Bearish Signals Suggest ETH Could Plunge Below $2,000](https://www.binance.com/en/square/post/35999941537161)**
 
 Binance • 1d ago
 
 ---
 
-**[How Buying Ethereum Today Could 10x Your Net Worth](https://finance.yahoo.com/news/buying-ethereum-today-could-10x-210500420.html)**
+**[Crypto networks respond after Vitalik Buterin told them they 'no longer makes sense' for Ethereum](https://www.coindesk.com/business/2026/02/04/from-ethereum-s-sidekick-to-standalone-stars-how-vitalik-buterin-s-latest-pivot-is-forcing-layer-2s-to-grow-up)**
 
-The world's second-largest cryptocurrency still has a bright future.
+Leaders across the layer-2 space don't see this moment as an existential threat, but rather that Ethereum’s progress is forcing them to clarify their purpose.
 
-Yahoo Finance • 10h ago
+CoinDesk • 1d ago
+
+---
+
+**[Vitalik Buterin Moves $29 Million Worth of Ethereum—Here's Why](https://decrypt.co/356914/vitalik-buterin-moves-29-million-worth-of-ethereum-heres-why)**
+
+Vitalik Buterin moves 14,000 ETH worth $29M to support Ethereum Foundation during "mild austerity" period. His now hold 227K ETH.
+
+Decrypt • 1d ago
 
 ---
 
@@ -238,7 +238,7 @@ My FREE Daily 5-Min Crypto Newsletter: https://www.cryptonutshell.com/subscribe 
 
 📺 Crypto Nutshell
 
-👁️ 11K • 👍 349 • 💬 143 • ⏱️ 22:22 • 16h ago
+👁️ 11K • 👍 349 • 💬 143 • ⏱️ 22:22 • 17h ago
 
 ---
 
@@ -248,7 +248,7 @@ This video provides a professional Elliott Wave and technical analysis of Ethere
 
 📺 More Crypto Online
 
-👁️ 3K • 👍 179 • 💬 20 • ⏱️ 6:13 • 7h ago
+👁️ 3K • 👍 179 • 💬 20 • ⏱️ 6:13 • 8h ago
 
 ---
 
@@ -258,7 +258,7 @@ Join Premium: https://the-bitcoin-strategy.com My Chart Software: https://the-bi
 
 📺 Gerhard - Bitcoin Strategy
 
-👁️ 8K • 👍 208 • 💬 68 • ⏱️ 9:49 • 22h ago
+👁️ 8K • 👍 208 • 💬 68 • ⏱️ 9:49 • 23h ago
 
 ---
 
@@ -268,7 +268,7 @@ THIS IS HUGE FOR ETHEREUM FEBRUARY 5.
 
 📺 Overkill Trading
 
-👁️ 1K • 👍 75 • 💬 8 • ⏱️ 2:52 • 5h ago
+👁️ 1K • 👍 75 • 💬 8 • ⏱️ 2:52 • 6h ago
 
 ---
 
@@ -278,7 +278,7 @@ BITCOIN CRASH TODAY: It's Finally Happening (Urgent)!!! - Bitcoin News Today, Et
 
 📺 Crypto World
 
-👁️ 20K • 👍 520 • 💬 177 • ⏱️ 24:32 • 17h ago
+👁️ 20K • 👍 520 • 💬 177 • ⏱️ 24:32 • 18h ago
 
 ---
 
@@ -288,7 +288,7 @@ Where does Bitcoin find its bottom? This past week we've seen a significant Bitc
 
 📺 VirtualBacon
 
-👁️ 28K • 👍 1K • 💬 538 • ⏱️ 49:08 • 9h ago
+👁️ 28K • 👍 1K • 💬 538 • ⏱️ 49:08 • 10h ago
 
 ---
 
@@ -308,7 +308,7 @@ Research Bitcoin Hyper - https://99bitcoins.care/b_BTCHyper99BTC - Download the 
 
 📺 99Bitcoins
 
-👁️ 610 • 👍 7 • 💬 67 • ⏱️ 3:35 • 12h ago
+👁️ 610 • 👍 7 • 💬 67 • ⏱️ 3:35 • 13h ago
 
 ---
 

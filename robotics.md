@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-02-06T07:49:37.994452+00:00'
+updated: '2026-02-06T08:43:07.258968+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- news
-- videos
 - social
+- videos
+- news
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** February 06, 2026 at 07:49 UTC  
+**Last Updated:** February 06, 2026 at 08:43 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -34,7 +34,7 @@ Robotics research and industry news
 
 **[Ball-and-Socket… But for Locomotion, Enchanted Tools](https://www.reddit.com/r/robotics/comments/1qx3nuo/ballandsocket_but_for_locomotion_enchanted_tools/)**
 
-6h ago
+7h ago
 
 ---
 
@@ -42,7 +42,7 @@ Robotics research and industry news
 
 From RoboHub🤖 on 𝕏: https://x.com/XRoboHub/status/2019135928384778288
 
-21h ago
+22h ago
 
 ---
 
@@ -50,13 +50,21 @@ From RoboHub🤖 on 𝕏: https://x.com/XRoboHub/status/2019135928384778288
 
 Felt so excited to see the robot I've been working on getting this much attention. Guess I need to step up my UX game though :/
 
-16h ago
+17h ago
+
+---
+
+**[Power management in jetson](https://www.reddit.com/r/robotics/comments/1qxblxi/power_management_in_jetson/)**
+
+Hello guys I bought this jetson orin super developer kit. Using it for a fully automated robot I am building. Right now I am ordering the parts and want to use a Lidar L-1 and 2 cameras Oak-D pro from luxonis. However I am running into an issue the Lidar requires 12 volt so I cant power that through the jetson the cameras are fine to plug in the usb ports. But reading the manual the usb ports are only rated for up to 0.9 A while the cameras can take up to 2A under heavy load. Luxonis provides a usb splitter where one can be for power and one for data. Now my issue is finding a good reliable and affordable PDB or any other solution that can split the power coming from my battery into the lidar jetson and the 2 cameras.
+
+49m ago
 
 ---
 
 **[Alve-x robot arm](https://www.reddit.com/r/robotics/comments/1qx3two/alvex_robot_arm/)**
 
-6h ago
+7h ago
 
 ---
 
@@ -70,7 +78,7 @@ Felt so excited to see the robot I've been working on getting this much attentio
 
 I learned RL recently, but was unsatisfied with the frameworks available, so a month ago I reached out on here with some ideas and got some great feedback, which has led me to today publishing my library, HelloRL, a modular framework that makes it super easy to go from Actor Critic to TD3. Here is the intro from the repo readme: Why is RL usually so hard? RL algorithms are all similar, but they also have unique implementation details and subtle differences. Every RL framework implements each algorithm from scratch, reproducing many of the same steps across hundreds of lines of code, but with minor implementation differences along the way. Trying to swap between them and keep your code working can be a nightmare. If you want to experiment with a new idea on top of Actor Critic, and then try it on a PPO implementation, you would have to spend hours integrating, and hope you didn’t make a mistake. It's a minefield -- it's so easy to trip yourself up and get something wrong without realising. Introducing HelloRL HelloRL flips this on its head, with a single train function and swappable modules, to build and mix together any RL algorithm easily. HelloRL: A modular library for Reinforcement Learning Built around a single train function that covers every popular algorithm, from discrete online policies like Actor Critic, to continuous offline policies like TD3. Swap modules in and out to mix algorithms together. Go from online to offline learning with just a few easy changes. Follow along with the provided notebooks to make sure you got it right. Build your own custom modules and validate your ideas quickly. https://github.com/i10e-lab/HelloRL Please leave a star ⭐ if you like it.
 
-🔗 [GitHub](https://github.com/i10e-lab/HelloRL) • 8h ago
+🔗 [GitHub](https://github.com/i10e-lab/HelloRL) • 9h ago
 
 ---
 
@@ -78,27 +86,19 @@ I learned RL recently, but was unsatisfied with the frameworks available, so a m
 
 Took a long break, but I’m back working on my Metalhead dog robot. Here’s a short video. Still reprinting some parts, but progress is finally happening again. Video is reversed for visual effect — this is actually a teardown. Any thoughts or suggestions are welcome.
 
-🔗 [youtube.com](https://youtube.com/shorts/l7a4Yfauo5Q?si=ivTumi5yYCQA7SB2) • 5h ago
+🔗 [youtube.com](https://youtube.com/shorts/l7a4Yfauo5Q?si=ivTumi5yYCQA7SB2) • 6h ago
 
 ---
 
 **[Getting into robotics at 28](https://www.reddit.com/r/robotics/comments/1qwsvnl/getting_into_robotics_at_28/)**
 
-13h ago
+14h ago
 
 ---
 
 **[V1 Wake up Sentry alarm](https://www.reddit.com/r/robotics/comments/1qwfqz1/v1_wake_up_sentry_alarm/)**
 
 V1 of my home sentry wake up alarm! Had a lot of fun taking apart this old orbee blaster! Leveraging the absolutely horrendous voltage hungry L298N. I setup a simple circuit leveraging ESP as a microcontroller sending a PMW signal through a single dc motor. ESP receives and transcribes information via Streaming packets over UDP. My pi4 sends packets via a web interface ( created it but can’t attach the image, where you can set a simple timer based on time zone). Additionally for some safety haha - put my pi4 over tail net with a simple UfW firewall to block random devices from finding port22 - also made sure that ESP only accepts packets sent from my pi IP! Let me know if you guys want to see it in action 🪦
-
-23h ago
-
----
-
-**[My ongoing project (I) - marine support drone](https://www.reddit.com/r/robotics/comments/1qwe6xv/my_ongoing_project_i_marine_support_drone/)**
-
-I am designing this thing named Pollux - it is a marine autonomous surface vehicle that follows the swimmer in open waters and stays in a range of 1-2m. If needed, it can pull the person back to the beach. This is the preliminary design. Estimate lenght is 110 cm. Eventually I think of releasing the design as open hardware. https://preview.redd.it/5xdcb7hnhmhg1.png?width=570&format=png&auto=webp&s=3ce8cc813144fe8895dc899ffdc139480696ecff
 
 1d ago
 
@@ -108,11 +108,11 @@ I am designing this thing named Pollux - it is a marine autonomous surface vehic
 
 ## Google News: "robotics"
 
-**[ETM brings its transverse flux motor technology to robotics](https://www.therobotreport.com/etm-brings-its-transverse-flux-motor-technology-to-robotics/)**
+**[China unveils world’s first 'biomimetic AI robot' that smiles, winks](https://interestingengineering.com/ai-robotics/shanghai-unveils-moya-humanoid-robot)**
 
-ETM said its TFM technology enables OEMs to simplify mechanical designs, reduce costs, and achieve performance benchmarks.
+Moya, a humanoid robot unveiled in Shanghai, is designed to walk, smile, and interact like a human using embodied AI.
 
-The Robot Report • 1d ago
+Interesting Engineering • 10h ago
 
 ---
 
@@ -124,28 +124,6 @@ The Next Platform • 2d ago
 
 ---
 
-**[Walmart to add automation, robotics to Louisiana distribution center](https://www.supplychaindive.com/news/walmart-automation-robotics-opelousas-louisiana-distribution-center/811025/)**
-
-The retailer’s $330 million investment, slated to start this year, is part of a larger effort to upgrade all 42 of its regional distribution facilities.
-
-Supply Chain Dive • 16h ago
-
----
-
-**[Making robots useful and affordable will need better motors](https://www.bbc.com/news/articles/c5y46356zzyo)**
-
-Firms are working to make the motors that drive robots more efficient and cheaper.
-
-BBC • 7h ago
-
----
-
-**[AI-powered robots are coming for trade jobs](https://www.politico.com/newsletters/digital-future-daily/2026/02/04/ai-powered-robots-are-coming-for-trade-jobs-00765584)**
-
-Politico • 1d ago
-
----
-
 **[Funding surge powers Chinese robotics firms as focus shifts to humanoid ‘brains’](https://www.scmp.com/tech/article/3342246/funding-surge-powers-chinese-robotics-firms-focus-shifts-humanoid-brains)**
 
 State-backed funds, Big Tech drive fresh capital into robotics companies, betting on operating systems that underpin humanoid intelligence.
@@ -154,17 +132,33 @@ South China Morning Post • 2d ago
 
 ---
 
-**[ChatGPT sucks at being a real robot](https://www.vox.com/technology/476657/chatgpt-mit-csail-tesla-humanoid-robot)**
+**[ETM brings its transverse flux motor technology to robotics](https://www.therobotreport.com/etm-brings-its-transverse-flux-motor-technology-to-robotics/)**
 
-﻿Science fiction promised us humanoids. Do we even want them?
+ETM said its TFM technology enables OEMs to simplify mechanical designs, reduce costs, and achieve performance benchmarks.
 
-vox.com • 20h ago
+The Robot Report • 1d ago
 
 ---
 
-**[China is running the EV playbook on humanoid robots — and it’s working](https://restofworld.org/2026/china-humanoid-robots-unitree-agibot-tesla-optimus/)**
+**[Walmart to add automation, robotics to Louisiana distribution center](https://www.supplychaindive.com/news/walmart-automation-robotics-opelousas-louisiana-distribution-center/811025/)**
 
-Rest of World • 22h ago
+The retailer’s $330 million investment, slated to start this year, is part of a larger effort to upgrade all 42 of its regional distribution facilities.
+
+Supply Chain Dive • 17h ago
+
+---
+
+**[Making robots useful and affordable will need better motors](https://www.bbc.com/news/articles/c5y46356zzyo)**
+
+Firms are working to make the motors that drive robots more efficient and cheaper.
+
+BBC • 8h ago
+
+---
+
+**[AI-powered robots are coming for trade jobs](https://www.politico.com/newsletters/digital-future-daily/2026/02/04/ai-powered-robots-are-coming-for-trade-jobs-00765584)**
+
+Politico • 1d ago
 
 ---
 
@@ -181,6 +175,14 @@ Nikkei Asia • 3d ago
 Apple today announced a new Education Hub in Bengaluru as part of an expanded effort to provide technical training and skills development for employees across its supply chain in India. Apple said the new Apple Education Hub in Bengaluru will serve as a centralized training and coordination facility for supplier employees in India, marking the company's first education hub of its kind in the country.
 
 MacRumors • 1d ago
+
+---
+
+**[Web Summit Qatar startups raise $205 million as the summit wraps up](https://www.euronews.com/next/2026/02/04/web-summit-qatar-startups-raise-205m-as-ai-and-robotics-shape-the-future-of-tech)**
+
+Companies at Web Summit Qatar have collectively raised more than $28 billion (€23.7bn) over the past year, highlighting the sheer weight of innovation in the room.
+
+Euronews.com • 1d ago
 
 ---
 
@@ -224,7 +226,7 @@ Crea tu Web con la IA aquí: https://hostinger.com/inteligencia (Usa el cupón I
 
 📺 Inteligencia Artificial
 
-👁️ 29K • 👍 1K • 💬 73 • ⏱️ 13:44 • 12h ago
+👁️ 29K • 👍 1K • 💬 73 • ⏱️ 13:44 • 13h ago
 
 ---
 
