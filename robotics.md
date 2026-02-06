@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-02-06T21:32:26.160706+00:00'
+updated: '2026-02-06T22:26:10.068536+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- news
 - videos
 - social
+- news
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** February 06, 2026 at 21:32 UTC  
+**Last Updated:** February 06, 2026 at 22:26 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -36,13 +36,13 @@ Robotics research and industry news
 
 From CyberRobo on 𝕏: https://x.com/CyberRobooo/status/2019598569909743755
 
-11h ago
+12h ago
 
 ---
 
 **[Ball-and-Socket… But for Locomotion, Enchanted Tools](https://www.reddit.com/r/robotics/comments/1qx3nuo/ballandsocket_but_for_locomotion_enchanted_tools/)**
 
-20h ago
+21h ago
 
 ---
 
@@ -58,7 +58,7 @@ Hello everyone! Recently I tried to test the SmolVLA model from a paper that Hug
 
 Cartwheel Robotics shutting down is a reminder of how misaligned capital can be. Great teams struggle for funding while massive checks keep flowing elsewhere. Scott’s advice hits home: “No money is better than the wrong money.” https://preview.redd.it/ov7omrf40vhg1.png?width=716&format=png&auto=webp&s=b0ce7c7ceaa4607cfdc5de89775cfcddf883c3fe
 
-10h ago
+11h ago
 
 ---
 
@@ -70,11 +70,19 @@ Felt so excited to see the robot I've been working on getting this much attentio
 
 ---
 
+**[Open-source CI gate + offline debug packets (seeking pilot teams or hobbyist creators)](https://www.reddit.com/r/robotics/comments/1qxt7da/opensource_ci_gate_offline_debug_packets_seeking/)**
+
+Hey everyone — I’m a CS student working on an open-source tool called PF Gate that is supposed to be a supplement to the process of robotics debugging. If you run sims/log replays and deals with “it worked yesterday / what changed?” regressions, PF Gate sits in CI and turns a run into: deterministic PASS / WARN / FAIL / QUARANTINE (CI-friendly exit codes) JUnit output so results show up directly in CI UI an offline report.html “debug packet” auditable receipts explaining exactly why it flagged a run (plus policy + artifact hashes for provenance) diff-as-gate mode so CI failures include regression context vs a baseline It runs locally/in CI (no log upload). If you already have your own logs (rosbags/MCAP/custom), the idea is to adapt them into a canonical trace.jsonl (adapter guide included). This is just a fun project to me. I hope that this can be of help to anyone. Thank you in advance for checking it out, and if you have any questions feel free to DM me.
+
+🔗 [GitHub](https://github.com/QPFAI/PF-Gate) • 1h ago
+
+---
+
 **[ROS News for the Week of February 2nd, 2026](https://www.reddit.com/r/robotics/comments/1qxs0dx/ros_news_for_the_week_of_february_2nd_2026/)**
 
 ROS News for the Week of February 2nd, 2026            Big news, ROSCon Croatia is go! The event is scheduled for late March. Reach out to @destogl for more information. Our friends at InOrbit have an event tonight in Mountain view and our SG ROS Meetup will happen on the 10th. Towards the end of the month we have a very special joint PX4 / ROS By-The-Bay Meetup sheduled.             URDF Kitchen is a GUI-based tool that allows you to load mesh files for robot parts, mark connection points, and ...
 
-🔗 [Open Robotics Discourse](https://discourse.openrobotics.org/t/ros-news-for-the-week-of-february-2nd-2026/52379) • 1h ago
+🔗 [Open Robotics Discourse](https://discourse.openrobotics.org/t/ros-news-for-the-week-of-february-2nd-2026/52379) • 2h ago
 
 ---
 
@@ -82,7 +90,7 @@ ROS News for the Week of February 2nd, 2026            Big news, ROSCon Croatia 
 
 A new 2026 market report highlights a massive shift toward mass production, led by giants like Tesla (aiming for 1 million Optimus units), Boston Dynamics, and Figure AI. From logistics and healthcare to customer-facing retail, general-purpose humanoids are becoming an operational reality.
 
-🔗 [GlobeNewswire News Room](https://www.globenewswire.com/news-release/2026/02/04/3232234/0/en/Humanoid-Robotics-Market-in-2026-Transformative-Trends-and-Technological-Advancements.html) • 10h ago
+🔗 [GlobeNewswire News Room](https://www.globenewswire.com/news-release/2026/02/04/3232234/0/en/Humanoid-Robotics-Market-in-2026-Transformative-Trends-and-Technological-Advancements.html) • 11h ago
 
 ---
 
@@ -96,15 +104,7 @@ From RoboHub🤖 on 𝕏: https://x.com/XRoboHub/status/2019135928384778288
 
 **[Alve-x robot arm](https://www.reddit.com/r/robotics/comments/1qx3two/alvex_robot_arm/)**
 
-20h ago
-
----
-
-**[Power management in jetson](https://www.reddit.com/r/robotics/comments/1qxblxi/power_management_in_jetson/)**
-
-Hello guys I bought this jetson orin super developer kit. Using it for a fully automated robot I am building. Right now I am ordering the parts and want to use a Lidar L-1 and 2 cameras Oak-D pro from luxonis. However I am running into an issue the Lidar requires 12 volt so I cant power that through the jetson the cameras are fine to plug in the usb ports. But reading the manual the usb ports are only rated for up to 0.9 A while the cameras can take up to 2A under heavy load. Luxonis provides a usb splitter where one can be for power and one for data. Now my issue is finding a good reliable and affordable PDB or any other solution that can split the power coming from my battery into the lidar jetson and the 2 cameras.
-
-13h ago
+21h ago
 
 ---
 
@@ -118,11 +118,11 @@ Rest of World • 1d ago
 
 ---
 
-**[This Video of Hilariously Slow Robots Putting Olive Oil in a Bag Is Actually Pretty Impressive](https://gizmodo.com/this-video-of-hilariously-slow-robots-putting-olive-oil-in-a-bag-is-actually-pretty-impressive-2000718202)**
+**[Watch: Humanoid robots work together using the same AI 'brain'](https://www.euronews.com/next/2026/02/05/watch-humanoid-robots-work-together-using-the-same-ai-brain)**
 
-Robots that can actually do things are not slick yet, and it's a relief when robotics companies don't hide from that.
+Until now, humanoid robots have largely worked on their own. A new AI system is designed to run them together.
 
-Gizmodo • 1d ago
+Euronews.com • 1d ago
 
 ---
 
@@ -142,6 +142,30 @@ The Robot Report • 2d ago
 
 ---
 
+**[SoLA Robotics SOLA CON 2026](https://www.yahoo.com/lifestyle/articles/sola-robotics-sola-con-2026-191033647.html)**
+
+Gayle Anderson previews the upcoming SOLA CON 2026 event. SoLA Robotics is hosting this Saturday, February 7th, 2026, event. SoLA Robotics (South LA Robotics) is a Gardena-based, community-focused non...
+
+Yahoo • 3h ago
+
+---
+
+**[Robot development, from actuators to AI](https://www.therobotreport.com/robot-development-from-actuators-ai-mauerer/)**
+
+The Robot Report Podcast's guests this week are Marco Mauerer from maxon motor and David Koelle of Charles River Analytics.
+
+The Robot Report • 46m ago
+
+---
+
+**[How ADR and Intel went underground with edge AI](https://www.therobotreport.com/how-adr-intel-go-underground-edge-ai/)**
+
+Mat Allan, the co-founder and CTO of ADR, explains how its collaboration with Intel has helped mining automation.
+
+The Robot Report • 1h ago
+
+---
+
 **[Walmart to add automation, robotics to Louisiana distribution center](https://www.supplychaindive.com/news/walmart-automation-robotics-opelousas-louisiana-distribution-center/811025/)**
 
 The retailer’s $330 million investment, slated to start this year, is part of a larger effort to upgrade all 42 of its regional distribution facilities.
@@ -152,7 +176,7 @@ Supply Chain Dive • 1d ago
 
 **[AI-powered robots are coming for trade jobs](https://www.politico.com/newsletters/digital-future-daily/2026/02/04/ai-powered-robots-are-coming-for-trade-jobs-00765584)**
 
-Politico • 1d ago
+Politico • 2d ago
 
 ---
 
@@ -160,29 +184,7 @@ Politico • 1d ago
 
 Firms are working to make the motors that drive robots more efficient and cheaper.
 
-BBC • 21h ago
-
----
-
-**[Sam Altman On Elon Musk, Donald Trump, Robotics, Fatherhood And More](https://www.forbes.com/sites/richardnieva/2026/02/04/sam-altman-on-elon-musk-donald-trump-robotics-fatherhood-and-more/)**
-
-Forbes • 2d ago
-
----
-
-**[Apple Teaching Swift and Robotics Across Its India Supply Chain](https://www.macrumors.com/2026/02/04/apple-teaching-swift-and-robotics-in-india/)**
-
-Apple today announced a new Education Hub in Bengaluru as part of an expanded effort to provide technical training and skills development for employees across its supply chain in India. Apple said the new Apple Education Hub in Bengaluru will serve as a centralized training and coordination facility for supplier employees in India, marking the company's first education hub of its kind in the country.
-
-MacRumors • 2d ago
-
----
-
-**[Funding surge powers Chinese robotics firms as focus shifts to humanoid ‘brains’](https://www.scmp.com/tech/article/3342246/funding-surge-powers-chinese-robotics-firms-focus-shifts-humanoid-brains)**
-
-State-backed funds, Big Tech drive fresh capital into robotics companies, betting on operating systems that underpin humanoid intelligence.
-
-South China Morning Post • 3d ago
+BBC • 22h ago
 
 ---
 
@@ -274,7 +276,7 @@ Ue Ao Ming tonans 1 shotting titans. I was told that tonans are terrible and the
 
 📺 PREDATOR WR
 
-👁️ 6K • 👍 321 • 💬 47 • ⏱️ 16:16 • 8h ago
+👁️ 6K • 👍 321 • 💬 47 • ⏱️ 16:16 • 9h ago
 
 ---
 

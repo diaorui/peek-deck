@@ -3,14 +3,14 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-02-06T21:32:26.151592+00:00'
+updated: '2026-02-06T22:26:10.059283+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- news
 - videos
 - social
+- news
 - cryptocurrency
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** February 06, 2026 at 21:32 UTC  
+**Last Updated:** February 06, 2026 at 22:26 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,17 +38,17 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $70,403.60
+### $70,257.51
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** +12.0%  
-**7d:** -10.0%  
-**30d:** -22.2%  
-**90d:** -32.4%  
-**1y:** -26.5%  
+**24h:** +12.6%  
+**7d:** -10.3%  
+**30d:** -22.4%  
+**90d:** -32.6%  
+**1y:** -26.7%  
 
 ---
 
@@ -77,6 +77,12 @@ Rank #1
 
 ## Reddit: r/Bitcoin
 
+**[We are so back](https://www.reddit.com/r/Bitcoin/comments/1qxpeyz/we_are_so_back/)**
+
+4h ago
+
+---
+
 **[$69,420](https://www.reddit.com/r/Bitcoin/comments/1qxpmac/69420/)**
 
 Yes I finally captured it!
@@ -86,6 +92,12 @@ Yes I finally captured it!
 ---
 
 **[Thats the spirit](https://www.reddit.com/r/Bitcoin/comments/1qxfq4n/thats_the_spirit/)**
+
+10h ago
+
+---
+
+**[Are ya winning, son?](https://www.reddit.com/r/Bitcoin/comments/1qxgezi/are_ya_winning_son/)**
 
 9h ago
 
@@ -103,41 +115,7 @@ I accumulated 1.18 more and bought a total of 1.60 BTC today. I had been patient
 
 Thanks. God bless you all
 
-8h ago
-
----
-
-**[Don't buy bitcoin](https://www.reddit.com/r/Bitcoin/comments/1qxip3i/dont_buy_bitcoin/)**
-
-7h ago
-
----
-
-**[We are so back](https://www.reddit.com/r/Bitcoin/comments/1qxpeyz/we_are_so_back/)**
-
-3h ago
-
----
-
-**[I can't do this anymore. I'm selling everything. Goodbye.](https://www.reddit.com/r/Bitcoin/comments/1qx0c87/i_cant_do_this_anymore_im_selling_everything/)**
-
-I am selling my car. I am selling my house. I am selling my extra kidney. I am selling my wife's jewelry (don't tell her). TO BUY MORE BITCOIN. You guys are actually pathetic. You see a little 30% correction from the $125k top and you start crying for the SEC? You start begging for a refund? This is the Great Filtering. This is where the tourists get sent back to the fiat mines to work for the rest of their lives. Look at the volume. Look at the wallet addresses. BlackRock isn't selling. Larry Fink isn't selling. I AM NOT SELLING. We are flushing out the weak hands so we can soar to $250k in 2027 without you. I hope you sold. I hope you panicked. I’ll be waving at you from the Citadel while you’re stuck using CBDCs to buy bug paste. WE ARE SO BACK. 🚀💎🙌
-
-22h ago
-
----
-
-**[Are ya winning, son?](https://www.reddit.com/r/Bitcoin/comments/1qxgezi/are_ya_winning_son/)**
-
-8h ago
-
----
-
-**["THE BOTTOM IS IN!!!!"](https://www.reddit.com/r/Bitcoin/comments/1qxp0qb/the_bottom_is_in/)**
-
-another Psyopanime gem.
-
-3h ago
+9h ago
 
 ---
 
@@ -149,37 +127,37 @@ So bitcoin is going back up today Friday. Wonder why? Hmmm🤔 It seems that the
 
 ---
 
+**[Don't buy bitcoin](https://www.reddit.com/r/Bitcoin/comments/1qxip3i/dont_buy_bitcoin/)**
+
+8h ago
+
+---
+
+**["THE BOTTOM IS IN!!!!"](https://www.reddit.com/r/Bitcoin/comments/1qxp0qb/the_bottom_is_in/)**
+
+another Psyopanime gem.
+
+4h ago
+
+---
+
+**[I can't do this anymore. I'm selling everything. Goodbye.](https://www.reddit.com/r/Bitcoin/comments/1qx0c87/i_cant_do_this_anymore_im_selling_everything/)**
+
+I am selling my car. I am selling my house. I am selling my extra kidney. I am selling my wife's jewelry (don't tell her). TO BUY MORE BITCOIN. You guys are actually pathetic. You see a little 30% correction from the $125k top and you start crying for the SEC? You start begging for a refund? This is the Great Filtering. This is where the tourists get sent back to the fiat mines to work for the rest of their lives. Look at the volume. Look at the wallet addresses. BlackRock isn't selling. Larry Fink isn't selling. I AM NOT SELLING. We are flushing out the weak hands so we can soar to $250k in 2027 without you. I hope you sold. I hope you panicked. I’ll be waving at you from the Citadel while you’re stuck using CBDCs to buy bug paste. WE ARE SO BACK. 🚀💎🙌 UPDATE: I am literally shaking. My wife actually packed her bags and left with the kids when we were at $63k because I wouldn't sell. She said she's done. Since she walked out the door, Bitcoin pumped to $70k. She sold the bottom of our marriage. I held. The market has spoken.
+
+23h ago
+
+---
+
 ---
 
 ## Google News: "bitcoin"
 
-**[No, but seriously: What’s going on with bitcoin?](https://www.cnn.com/2026/02/05/investing/bitcoin-price)**
+**[Bitcoin gets slashed in half. What's behind the crypto's existential crisis](https://www.cnbc.com/2026/02/06/bitcoin-gets-slashed-in-half-whats-behind-the-cryptos-existential-crisis.html)**
 
-Bitcoin is acting weird. The world’s most famous cryptocurrency has tumbled 44% from its October peak, falling below $70,000 Thursday for the first time in 15 months.
+Bitcoin nearly grazed $60,000 on Thursday as investors shied away from the asset due to growing concerns over its utility.
 
-cnn.com • 1d ago
-
----
-
-**[Your bitcoin investment may have been based on an illusion](https://www.marketwatch.com/story/your-bitcoin-investment-may-have-been-based-on-an-illusion-de2e3fad?gaa_at=eafs&gaa_n=AWEtsqeSJw7fqdHpGkZcttihep91I6WoA1qjxNd5S2rAgyzV2iclNqn4AduQ&gaa_ts=69865462&gaa_sig=h3V75XmjWB5XmRfpMQ6PB5WYAQkWRflylhzVY_8xt-yxPkoI1bCNuLiiFFIRGsNvzcLBQU7jk_oIssQj1neApQ%3D%3D)**
-
-MarketWatch • 3h ago
-
----
-
-**[Bitcoin claws back above $70,000 after worst day since FTX crash](https://fortune.com/2026/02/06/bitcoin-claws-back-above-70000-after-worst-day-since-ftx-crash/)**
-
-The original cryptocurrency swung down below $60,000 only to jolt back up.
-
-Fortune • 2h ago
-
----
-
-**[California man arrested for sending texts to Guthrie family asking for bitcoin during missing mother case](https://www.foxnews.com/us/california-man-arrested-sending-texts-guthrie-family-asking-bitcoin-during-missing-mother-case)**
-
-California man accused of sending fake ransom note to extort bitcoin from Savannah Guthrie's family as her 84-year-old mother Nancy remains missing from Tucson home.
-
-Fox News • 22h ago
+CNBC • 5h ago
 
 ---
 
@@ -187,19 +165,13 @@ Fox News • 22h ago
 
 The man allegedly used an app to create a fake phone number to text the family, according to a federal complaint.
 
-ABC7 Los Angeles • 22h ago
-
----
-
-**[The Kidnappers Of Savannah Guthrie's Mom Want Bitcoin—But It’s Not As Anonymous As Many Think](https://www.forbes.com/sites/martinadilicosa/2026/02/06/the-kidnappers-of-savannah-guthries-mom-want-bitcoin-but-its-not-as-anonymous-as-many-think/)**
-
-Forbes • 1h ago
+ABC7 Los Angeles • 23h ago
 
 ---
 
 **[Strategy's Saylor Touts 'Crypto President' As Bitcoin Plunges](https://www.investors.com/news/strategy-earnings-q4-bitcoin-price-mstr-plunge-michael-saylor/)**
 
-Investor's Business Daily • 22h ago
+Investor's Business Daily • 23h ago
 
 ---
 
@@ -207,21 +179,53 @@ Investor's Business Daily • 22h ago
 
 Michael Saylor reinforces commitment to bitcoin and quantum security on Q4 earnings call.
 
-CoinDesk • 11h ago
+CoinDesk • 12h ago
 
 ---
 
-**[Strategy, BitMine, Coinbase Shares Chart Major Rebound as Bitcoin Stabilizes](https://finance.yahoo.com/news/strategy-bitmine-coinbase-shares-chart-183230481.html)**
+**[The Daily: Strategy’s safe unless BTC falls to $8K, Charles Hoskinson’s down over $3B in crypto, Bithumb mistakenly sends bitcoin to users, and more](https://finance.yahoo.com/news/daily-strategy-ok-unless-btc-190328460.html)**
 
-Strategy (MSTR), BitMine (BMNR), and Coinbase (COIN) helped lead the crypto stock rebound as Bitcoin bounced back from a dip near $60K.
+The following article is adapted from The Block’s newsletter, The Daily, which comes out on weekday afternoons.
 
-Yahoo Finance • 2h ago
+Yahoo Finance • 3h ago
 
 ---
 
 **[JPMorgan says bitcoin's lower volatility relative to gold might make it 'more attractive' in long term](https://www.coindesk.com/markets/2026/02/05/jpmorgan-says-bitcoin-s-lower-volatility-relative-to-gold-might-make-it-more-attractive-in-long-term)**
 
 CoinDesk • 1d ago
+
+---
+
+**[Bitcoin Price To $266,000? JPMorgan Sees BTC More Attractive Than Gold Long Term](https://finance.yahoo.com/news/bitcoin-price-266-000-jpmorgan-123718896.html)**
+
+JPMorgan says Bitcoin looks more attractive than gold long term. The bank has predicted $266,000 as a long-term benchmark. Near-term pressure remains. Bitcoin’s long-term appeal ...
+
+Yahoo Finance • 9h ago
+
+---
+
+**[JPMorgan revisits Bitcoin forecast after crash](https://www.thestreet.com/crypto/markets/jpmorgan-revisits-bitcoin-forecast-after-crash)**
+
+Bitcoin is trading around $65,000 right now.
+
+thestreet.com • 1d ago
+
+---
+
+**[Bithumb Accidentally Sends Large Amounts of Bitcoin to Users, Triggers Price Crash Amid Market Selloff](https://bitcoinmagazine.com/news/bithumb-accidentally-sends-bitcoin-users)**
+
+Bithumb reportedly made a mistake that led to the accidental deposit of large amounts of Bitcoin to various users.
+
+Bitcoin Magazine • 5h ago
+
+---
+
+**[Bithumb mistakenly sends bitcoin to users, causing 'temporarily fluctuation' in BTC price on exchange](https://www.theblock.co/post/388850/bithumb-mistakenly-sends-bitcoin-to-some-users-causing-temporarily-fluctuation-in-btc-price-on-exchange)**
+
+Some recipients reportedly sold the coins before the exchange's "internal control system and promptly restricted transactions."
+
+The Block • 6h ago
 
 ---
 
@@ -253,7 +257,7 @@ Some market watchers have suggested $70,000 is a key level to watch and a break 
 
 Bitcoin outlook turns bearish as Pivotus’ Richard Farr targets BTC at $0 and Michael Burry warns of a “death spiral.” Get the risks and key levels now.
 
-⬆️ 52 • 💬 61 • 20h ago • [Seeking Alpha](https://seekingalpha.com/news/4547997-bitcoin-s-price-target-at-zero)
+⬆️ 52 • 💬 61 • 21h ago • [Seeking Alpha](https://seekingalpha.com/news/4547997-bitcoin-s-price-target-at-zero)
 
 ---
 
@@ -313,7 +317,7 @@ Take your personal data back with Incogni! Use code GRAHAM at the link below and
 
 📺 Graham Stephan
 
-👁️ 500K • 👍 18K • 💬 7K • ⏱️ 16:11 • 21h ago
+👁️ 500K • 👍 18K • 💬 7K • ⏱️ 16:11 • 22h ago
 
 ---
 
@@ -323,7 +327,7 @@ In this interview, Bitcoin OG Samson Mow shares his view on why Bitcoin keeps fa
 
 📺 Cointelegraph
 
-👁️ 4K • 👍 259 • 💬 80 • ⏱️ 19:09 • 4h ago
+👁️ 4K • 👍 259 • 💬 80 • ⏱️ 19:09 • 5h ago
 
 ---
 
@@ -333,7 +337,7 @@ One of the biggest crypto crashes in history! Here is what happened, why and my 
 
 📺 Thomas Kralow
 
-👁️ 19K • 👍 979 • 💬 66 • ⏱️ 11:51 • 8h ago
+👁️ 19K • 👍 979 • 💬 66 • ⏱️ 11:51 • 9h ago
 
 ---
 
@@ -353,7 +357,7 @@ Tether co-founder William Quigley weighs in on the recent selloff in cryptocurre
 
 📺 Bloomberg Television
 
-👁️ 79K • 👍 710 • 💬 307 • ⏱️ 5:40 • 23h ago
+👁️ 79K • 👍 710 • 💬 307 • ⏱️ 5:40 • 1d ago
 
 ---
 
@@ -363,7 +367,7 @@ Bitcoin drops to insane oversold levels, but why? Here's the theory BITUNIX TRAD
 
 📺 Lark Davis
 
-👁️ 25K • 👍 1K • 💬 210 • ⏱️ 21:46 • 9h ago
+👁️ 25K • 👍 1K • 💬 210 • ⏱️ 21:46 • 10h ago
 
 ---
 
@@ -373,7 +377,7 @@ LIMITED TIME: ✓ Bitunix (no kyc, $10k bonus): https://www.bitunix.com/register
 
 📺 Altcoin Daily
 
-👁️ 9K • 👍 317 • 💬 86 • ⏱️ 1:10 • 7h ago
+👁️ 9K • 👍 317 • 💬 86 • ⏱️ 1:10 • 8h ago
 
 ---
 
@@ -383,7 +387,7 @@ Make Free Predictions on *ClashPicks* ▻ https://www.clashpicks.com/ Follow Cla
 
 📺 CryptosRUs
 
-👁️ 62K • 👍 2K • 💬 2K • ⏱️ 11:07 • 20h ago
+👁️ 62K • 👍 2K • 💬 2K • ⏱️ 11:07 • 21h ago
 
 ---
 
@@ -403,7 +407,7 @@ Let's dubiously speculate on the price of #Bitcoin! Into The Cryptoverse Premium
 
 📺 Benjamin Cowen
 
-👁️ 54K • 👍 4K • 💬 308 • ⏱️ 36:47 • 4h ago
+👁️ 54K • 👍 4K • 💬 308 • ⏱️ 36:47 • 5h ago
 
 ---
 
