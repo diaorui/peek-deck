@@ -3,14 +3,14 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-02-06T05:37:39.350530+00:00'
+updated: '2026-02-06T06:57:12.460592+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
+- repositories
 - videos
 - news
-- repositories
 - social
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 AI news, discussions, and developments
 
-**Last Updated:** February 06, 2026 at 05:37 UTC  
+**Last Updated:** February 06, 2026 at 06:57 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -41,7 +41,15 @@ AI news, discussions, and developments
 
 Women in rural communities describe trauma of moderating violent and pornographic content for global tech companies
 
-🔗 [the Guardian](https://www.theguardian.com/global-development/2026/feb/05/in-the-end-you-feel-blank-indias-female-workers-watching-hours-of-abusive-content-to-train-ai) • 19h ago
+🔗 [the Guardian](https://www.theguardian.com/global-development/2026/feb/05/in-the-end-you-feel-blank-indias-female-workers-watching-hours-of-abusive-content-to-train-ai) • 20h ago
+
+---
+
+**[An experiment tested whether AI can pass human identity verification systems](https://www.reddit.com/r/artificial/comments/1qx9pws/an_experiment_tested_whether_ai_can_pass_human/)**
+
+I found this experiment interesting because it doesn’t frame AI as “breaking” a system. Instead, it treats AI as a new kind of participant interacting with infrastructure that was built around human assumptions consistency, behavior, timing, and intent. What stood out to me is that many identity systems aren’t verifying who someone is so much as how human they appear over time. That feels increasingly fragile when the actor on the other side isn’t human at all. This doesn’t feel like a single vulnerability. It feels like a design mismatch. Curious how people here think identity and verification should evolve in an AI-native world better detection, new primitives, or abandoning certain assumptions entirely.
+
+🔗 [mpost.io](https://mpost.io/humanity-protocol-experiment-reveals-how-ai-can-bypass-kyc-and-exploit-digital-trust/) • 53m ago
 
 ---
 
@@ -49,7 +57,7 @@ Women in rural communities describe trauma of moderating violent and pornographi
 
 I ran a small real-world test today with two kids (ages 8 and 11) using a long-running AI story world I’ve been experimenting with. Instead of one-shot story generation, the system maintains a persistent world state where choices carry over and shape future events. I let them pick the setting — they chose a Minecraft × Harry Potter mashup where they play wizards trying to defeat the Ender Dragon. One thing that made a huge difference: I used their real names as the characters, and the story started in their actual school. The engine generated story text and illustrations each round. They made all the choices. After about 10 rounds, they were constantly laughing, debating which option to pick, and building on each other’s ideas. It felt much more like co-creating a world than listening to a story. When I told them it was bedtime, they didn’t want to stop. They kept asking what would happen next. A few observations that surprised me: Personalization seemed to matter more than anything else. Once it became their world, emotional investment was instant. Although I designed it as a single-player experience, co-play emerged naturally. The shared decision-making and social dynamic massively increased engagement. Both ages stayed fully engaged the whole time. I expected the younger one to drop off sooner, but the persistent world kept them both hooked. One issue I noticed: my “re-immersion” mechanic (an in-world character emotionally reconnecting players after breaks instead of a dry recap) triggered too frequently between consecutive rounds. The repetition was noticeable. This looks like a simple trigger tuning problem (should probably only fire after longer gaps). What I haven’t tested yet: – Whether kids can reconnect naturally after a real multi-hour break – Whether they can retell the story in a coherent way – Whether they’ll come back unprompted the next day The earlier stress tests showed that constraint mechanisms help keep long-running narratives technically coherent. What this small user test suggests is that coherence itself isn’t what kids consciously care about — but it seems to be the infrastructure that makes personalization, consequence, and agency feel real. Curious if others working on long-horizon agents, narrative systems, or co-creative AI have seen similar effects around personalization and persistence.
 
-14h ago
+15h ago
 
 ---
 
@@ -105,14 +113,6 @@ Elon Musk's X and Grok platforms are facing increased scrutiny from authorities 
 
 ---
 
-**[Elon Musk links SpaceX and xAI in a record-setting merger to boost AI](https://www.reddit.com/r/artificial/comments/1quud71/elon_musk_links_spacex_and_xai_in_a_recordsetting/)**
-
-SpaceX's acquisition of xAI signals a bold push to merge artificial intelligence with space infrastructure at an unprecedented scale.
-
-🔗 [Interesting Engineering](https://interestingengineering.com/culture/elon-musk-merges-spacex-and-xai) • 2d ago
-
----
-
 ---
 
 ## Google News: "ai"
@@ -121,39 +121,7 @@ SpaceX's acquisition of xAI signals a bold push to merge artificial intelligence
 
 OpenAI Frontier is an enterprise platform for building, deploying, and managing AI agents with shared context, onboarding, permissions, and governance.
 
-OpenAI • 21h ago
-
----
-
-**[Hollywood Is Losing Audiences to AI Fatigue](https://www.wired.com/story/hollywood-is-losing-audiences-to-ai-fatigue/)**
-
-Entertainment about or made with artificial intelligence has been missing the mark with viewers over the past year.
-
-WIRED • 19h ago
-
----
-
-**[AI fears pummel software stocks: Is it 'illogical' panic or a SaaS apocalypse?](https://www.cnbc.com/2026/02/06/ai-anthropic-tools-saas-software-stocks-selloff.html)**
-
-The software space is facing serious market concerns this week, after the release of new AI tools from AI triggered a market sell-off.
-
-CNBC • 1h ago
-
----
-
-**[Microsoft AI CEO says vibe coding is making software easier to replace](https://www.businessinsider.com/microsoft-ai-ceo-vibe-coding-software-replace-apps-mustafa-suleyman-2026-2)**
-
-Microsoft AI CEO says vibe coding is lowering the barrier to building apps, raising questions about how defensible software will be.
-
-Business Insider • 35m ago
-
----
-
-**[WTF is the IAB’s AI Accountability for Publishers Act (and what happens next)?](https://digiday.com/media/wtf-is-the-iabs-ai-accountability-for-publishers-act-and-what-happens-next/)**
-
-IAB introduced a draft bill to make AI companies pay for scraping publisher content. How it differs from copyright law, and what comes next.
-
-Digiday • 34m ago
+OpenAI • 23h ago
 
 ---
 
@@ -161,33 +129,63 @@ Digiday • 34m ago
 
 Shares in the tech giant fell in after hours trade as investors appeared wary of the sector's big spending plans.
 
-BBC • 5h ago
+BBC • 6h ago
 
 ---
 
 **[Amazon Says It Will Spend $200 Billion This Year on AI Build-Out](https://www.bloomberg.com/news/articles/2026-02-05/amazon-boosts-spending-far-ahead-of-estimates-on-ai-build-out)**
 
-Bloomberg.com • 5h ago
+bloomberg.com • 7h ago
 
 ---
 
 **[Amazon’s $200 Billion Spending Plan Raises Stakes in A.I. Race](https://www.nytimes.com/2026/02/05/technology/amazon-200-billion-ai.html)**
 
-The New York Times • 5h ago
+The New York Times • 7h ago
 
 ---
 
-**[Google Leans Hard Into Its AI-Winner Status](https://www.wsj.com/tech/ai/google-leans-hard-into-its-ai-winner-status-6111835e?gaa_at=eafs&gaa_n=AWEtsqc-7aamBAeYHdOL3gHEpDWVvptnm56jNdliTWUrcaUiOgvLmRQvS9qP&gaa_ts=6985818a&gaa_sig=T_3gF1SEaWSDfGZd5oaRrP6ANbybne0WoKruurRrcSQ7t4WLHPbPJkKVmPCh4R_DLmvWtbzXDNUoYyjTrL51bg%3D%3D)**
+**[Blackstone Is Finalizing $3.5 Billion Loan for Australia AI Firm](https://www.bloomberg.com/news/articles/2026-02-06/blackstone-is-finalizing-3-5-billion-loan-for-australia-ai-firm)**
 
-The Wall Street Journal • 19h ago
+bloomberg.com • 1h ago
 
 ---
 
-**[Why comparisons between AI and human intelligence miss the point](https://theconversation.com/why-comparisons-between-ai-and-human-intelligence-miss-the-point-274621)**
+**[The Robot Revolution Is Real. Tesla, Hyundai, and More Stocks to Play It.](https://www.barrons.com/articles/ai-robots-tesla-hyundai-stocks-6629c2c3?gaa_at=eafs&gaa_n=AWEtsqf4v3Ju-QgJpjGnwXR1f6M9UPJPB8Juw7NY2s5tyrwC7dq0yM2AbbRl&gaa_ts=6985942c&gaa_sig=J4RPMWBu2xHY_a9dLR6IYtJofa-TZk-B9cPUM_9sYrJoE6P23Q6hdRa7sqGjjoVh6L9V0Tm0LTgCaO_pkuYg5A%3D%3D)**
 
-Human intelligence is social and embodied – but AI is very different.
+Barron's • 57m ago
 
-The Conversation • 6h ago
+---
+
+**[AI fears pummel software stocks: Is it 'illogical' panic or a SaaS apocalypse?](https://www.cnbc.com/2026/02/06/ai-anthropic-tools-saas-software-stocks-selloff.html)**
+
+The software space is facing serious market concerns this week, after the release of new AI tools from AI triggered a market sell-off.
+
+CNBC • 2h ago
+
+---
+
+**[Anthropic’s new AI tool sends shudders through software stocks](https://www.cnn.com/2026/02/04/investing/us-stocks-anthropic-software)**
+
+Anthropic just launched a new AI tool that could replace dozens of software tools. And Wall Street is panicked.
+
+cnn.com • 1d ago
+
+---
+
+**[Why a new AI tool hammered some software stocks this week](https://abcnews.go.com/Business/new-ai-tool-hammered-software-stocks-week/story?id=129845251)**
+
+The new tool adapts a workplace assistant for white-collar specific industries.
+
+ABC News • 9h ago
+
+---
+
+**[Hollywood Is Losing Audiences to AI Fatigue](https://www.wired.com/story/hollywood-is-losing-audiences-to-ai-fatigue/)**
+
+Entertainment about or made with artificial intelligence has been missing the mark with viewers over the past year.
+
+WIRED • 20h ago
 
 ---
 
@@ -195,17 +193,17 @@ The Conversation • 6h ago
 
 ## HackerNews: "ai"
 
+**[My AI Adoption Journey](https://news.ycombinator.com/item?id=46903558)**
+
+⬆️ 500 • 💬 156 • 11h ago • [Mitchell Hashimoto](https://mitchellh.com/writing/my-ai-adoption-journey)
+
+---
+
 **[AI is killing B2B SaaS](https://news.ycombinator.com/item?id=46888441)**
 
 SaaS is the most profitable business model on Earth.1 It’s easy to understand why: build once, sell the same thing again ad infinitum, and don’t suffer any marginal costs on more sales. I have been writing software for more than half my life. In the last year itself, I’ve talked to hundreds of founders and operators in SF, from preseed to Series E companies. AI is bringing an existential threat to a lot of B2B SaaS executives: How to keep asking customers for renewal, when every customer feels they can get something better built with vibe-coded AI products? And the market is pricing it in. Morgan Stanley’s SaaS basket has lagged the Nasdaq by 40 points since December. HubSpot and Klaviyo are down ~30%. Analysts are writing notes titled “No Reasons to Own” software stocks. The market is reflecting our new reality (Source: Bloomberg) Whenever I bring a new friend to the Salesforce Park, they are in absolute awe. And, the meme remains true that no one even knows what Salesforce does. Whatever they’re doing, they’re clearly earning enough revenue to purchase multiple blocks in SF. ↩
 
-⬆️ 490 • 💬 718 • 1d ago • [N’s Blog](https://nmn.gl/blog/ai-killing-b2b-saas)
-
----
-
-**[My AI Adoption Journey](https://news.ycombinator.com/item?id=46903558)**
-
-⬆️ 462 • 💬 131 • 10h ago • [Mitchell Hashimoto](https://mitchellh.com/writing/my-ai-adoption-journey)
+⬆️ 490 • 💬 719 • 1d ago • [N’s Blog](https://nmn.gl/blog/ai-killing-b2b-saas)
 
 ---
 
@@ -213,7 +211,7 @@ SaaS is the most profitable business model on Earth.1 It’s easy to understand 
 
 Production-grade Ghidra MCP Server — 132 endpoints, cross-binary documentation transfer, batch analysis, headless mode, and Docker deployment for AI-powered reverse engineering - bethington/ghidra-mcp
 
-⬆️ 292 • 💬 66 • 1d ago • [GitHub](https://github.com/bethington/ghidra-mcp)
+⬆️ 292 • 💬 66 • 2d ago • [GitHub](https://github.com/bethington/ghidra-mcp)
 
 ---
 
@@ -277,7 +275,27 @@ Humanoid robots just entered a new phase of realism. In Shanghai, DroidUp reveal
 
 📺 AI Revolution
 
-👁️ 105K • 👍 2K • 💬 543 • ⏱️ 13:31 • 1d ago
+👁️ 110K • 👍 3K • 💬 562 • ⏱️ 13:31 • 1d ago
+
+---
+
+**[The White Collar AI APOCALYPSE Is HERE](https://www.youtube.com/watch?v=ur295T83Wg4)**
+
+Krystal and Saagar discuss tech stocks tumbling amid emerging new fears of job loss and AI. Sign up for a PREMIUM Breaking ...
+
+📺 Breaking Points
+
+👁️ 264K • 👍 7K • 💬 2K • ⏱️ 24:33 • 13h ago
+
+---
+
+**[President Trump talks job losses to A.I. and U.S. operation in Venezuela in exclusive interview](https://www.youtube.com/watch?v=J8UxjCRZQpo)**
+
+NBC Nightly News anchor Tom Llamas spoke to President Trump about fears of job losses from A.I. President Trump also ...
+
+📺 NBC News
+
+👁️ 4K • 👍 37 • 💬 14 • ⏱️ 4:39 • 6h ago
 
 ---
 
@@ -297,27 +315,7 @@ Dominari Securities CEO Kyle Wool and Strategic Wealth Partners CEO Mark Tepper 
 
 📺 Fox Business Clips
 
-👁️ 92K • 👍 1K • 💬 2K • ⏱️ 6:34 • 16h ago
-
----
-
-**[The White Collar AI APOCALYPSE Is HERE](https://www.youtube.com/watch?v=ur295T83Wg4)**
-
-Krystal and Saagar discuss tech stocks tumbling amid emerging new fears of job loss and AI. Sign up for a PREMIUM Breaking ...
-
-📺 Breaking Points
-
-👁️ 245K • 👍 7K • 💬 2K • ⏱️ 24:33 • 12h ago
-
----
-
-**[President Trump talks job losses to A.I. and U.S. operation in Venezuela in exclusive interview](https://www.youtube.com/watch?v=J8UxjCRZQpo)**
-
-NBC Nightly News anchor Tom Llamas spoke to President Trump about fears of job losses from A.I. President Trump also ...
-
-📺 NBC News
-
-👁️ 3K • 👍 31 • 💬 12 • ⏱️ 4:39 • 5h ago
+👁️ 95K • 👍 1K • 💬 2K • ⏱️ 6:34 • 18h ago
 
 ---
 
@@ -327,17 +325,17 @@ Palantir CTO Shyam Sankar explains how Americans can leverage the use of AI, how
 
 📺 Fox Business
 
-👁️ 35K • 👍 611 • 💬 222 • ⏱️ 4:22 • 1d ago
+👁️ 35K • 👍 615 • 💬 198 • ⏱️ 4:22 • 1d ago
 
 ---
 
-**[AI is coming for &#39;knowledge work&#39; - and markets know it](https://www.youtube.com/watch?v=hyVku1veCgo)**
+**[Why Replacing Developers with AI is Going Horribly Wrong](https://www.youtube.com/watch?v=WfjGZCuxl-U)**
 
-Anthropic, one of the world's most influential AI companies, has launched a new model: Claude Opus 4.6. Until recently, that kind ...
+jobmarket #ai #tech In 2026, the promise of AI replacing 80% of developers has collapsed into a $61 billion technical debt crisis ...
 
-📺 Sky News
+📺 Mackard
 
-👁️ 13K • 👍 189 • 💬 40 • ⏱️ 5:26 • 7h ago
+👁️ 867K • 👍 23K • 💬 3K • ⏱️ 8:12 • 2d ago
 
 ---
 
@@ -347,17 +345,7 @@ The latest AI News. Learn about LLMs, Gen AI and get ready for the rollout of AG
 
 📺 Wes Roth
 
-👁️ 81K • 👍 3K • 💬 616 • ⏱️ 10:47 • 1d ago
-
----
-
-**[Anthropic Updates Its AI Model, Claude Opus 4.6](https://www.youtube.com/watch?v=WsqotomF2Dw)**
-
-Anthropic is updating its AI model, Claude Opus 4.6, to carry out financial research, days after the company's push into legal ...
-
-📺 Bloomberg Television
-
-👁️ 39K • 👍 439 • 💬 72 • ⏱️ 3:25 • 10h ago
+👁️ 82K • 👍 3K • 💬 584 • ⏱️ 10:47 • 1d ago
 
 ---
 
@@ -367,7 +355,17 @@ A new AI automation tool from Anthropic PBC sparked a $285 billion rout in stock
 
 📺 Bloomberg Television
 
-👁️ 458K • 👍 4K • 💬 515 • ⏱️ 2:44 • 1d ago
+👁️ 462K • 👍 4K • 💬 519 • ⏱️ 2:44 • 2d ago
+
+---
+
+**[Autonomous AI Agents Have Gone Too Far!](https://www.youtube.com/watch?v=KGHoVptow30)**
+
+Here's my thoughts on all the Moltbook stuff and everything that's happened since... This is a more raw, off-the-cuff, style video.
+
+📺 Matt Wolfe
+
+👁️ 74K • 👍 3K • 💬 527 • ⏱️ 19:52 • 2d ago
 
 ---
 
@@ -383,7 +381,7 @@ GLM-OCR is a 0.9B parameter multimodal OCR model for complex document understand
 
 `image-to-text`
 
-⬇️ 96,335 • ❤️ 685 • 3d ago
+⬇️ 96,335 • ❤️ 693 • 3d ago
 
 ---
 
@@ -395,7 +393,7 @@ Kimi K2.5 is a native multimodal agentic model with 1T parameters, excelling in 
 
 `image-text-to-text` `170.7B`
 
-⬇️ 202,615 • ❤️ 1,745 • 1d ago
+⬇️ 202,615 • ❤️ 1,748 • 1d ago
 
 ---
 
@@ -407,7 +405,7 @@ MiniCPM-o 4.5 is a 9B parameter multimodal LLM excelling in vision, speech, and 
 
 `any-to-any` `9.4B`
 
-⬇️ 1,002 • ❤️ 520 • 2h ago
+⬇️ 1,002 • ❤️ 539 • 3h ago
 
 ---
 
@@ -419,7 +417,7 @@ Qwen3-Coder-Next is an 80B parameter (3B active) LLM optimized for coding agents
 
 `text-generation` `79.7B`
 
-⬇️ 18,717 • ❤️ 471 • 2d ago
+⬇️ 18,717 • ❤️ 475 • 2d ago
 
 ---
 
@@ -431,7 +429,7 @@ Step 3.5 Flash is an efficient, open-source MoE foundation model (11B active par
 
 `text-generation` `199.4B`
 
-⬇️ 8,686 • ❤️ 452 • 19h ago
+⬇️ 8,686 • ❤️ 455 • 20h ago
 
 ---
 
@@ -441,7 +439,7 @@ Step 3.5 Flash is an efficient, open-source MoE foundation model (11B active par
 
 Anima is a 2 billion parameter text-to-image diffusion model specializing in anime and non-photorealistic artistic styles, trained on millions of anime and artistic images. It is designed for generating illustrations and artistic images, with primary use cases in ComfyUI workflows for anime concepts and characters.
 
-⬇️ 43,099 • ❤️ 447 • 5d ago
+⬇️ 43,099 • ❤️ 449 • 5d ago
 
 ---
 
@@ -453,7 +451,7 @@ ACE-Step 1.5 is an open-source text-to-audio music generation model capable of p
 
 `text-to-audio`
 
-⬇️ 10,942 • ❤️ 376 • 2d ago
+⬇️ 10,942 • ❤️ 384 • 2d ago
 
 ---
 
@@ -463,7 +461,7 @@ ACE-Step 1.5 is an open-source text-to-audio music generation model capable of p
 
 Voxtral-Mini-4B-Realtime-2602 is a 4B-parameter, multilingual speech-to-text model offering near-offline accuracy with <500ms latency. It features a streaming architecture for real-time applications like voice assistants and live subtitling, optimized for on-device deployment.
 
-⬇️ 477 • ❤️ 289 • 19h ago
+⬇️ 477 • ❤️ 300 • 20h ago
 
 ---
 
@@ -475,7 +473,7 @@ Qwen3-ASR-1.7B is a state-of-the-art automatic speech recognition model supporti
 
 `automatic-speech-recognition` `2.3B`
 
-⬇️ 104,151 • ❤️ 384 • 7d ago
+⬇️ 104,151 • ❤️ 387 • 7d ago
 
 ---
 
@@ -487,7 +485,7 @@ PersonaPlex-7B-v1 is a real-time, full-duplex speech-to-speech conversational mo
 
 `audio-to-audio`
 
-⬇️ 161,583 • ❤️ 1,673 • 8d ago
+⬇️ 161,583 • ❤️ 1,675 • 8d ago
 
 ---
 
@@ -503,7 +501,7 @@ PersonaPlex-7B-v1 is a real-time, full-duplex speech-to-speech conversational mo
 
 _paperbanana is an agentic framework that automates the creation of publication-ready academic illustrations using advanced vision-language models and image generation techniques.
 
-▲ 120 • 💬 12 • ⭐ 1,775 • 6d ago
+▲ 121 • 💬 12 • ⭐ 1,962 • 6d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2601.23265) • [💻 code](https://github.com/dwzhu-pku/PaperBanana) • [🔗 project](https://dwzhu-pku.github.io/PaperBanana/)
 
@@ -579,7 +577,7 @@ LingBot-World is an open-source world simulator with high-fidelity dynamics, lon
 
 The Qwen3-TTS series presents advanced multilingual text-to-speech models with voice cloning and controllable speech generation capabilities, utilizing dual-track LM architecture and specialized speech tokenizers for efficient streaming synthesis.
 
-▲ 58 • 💬 1 • ⭐ 6,939 • 15d ago
+▲ 58 • 💬 1 • ⭐ 6,969 • 15d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2601.15621) • [💻 code](https://github.com/QwenLM/Qwen3-TTS)
 
@@ -636,7 +634,7 @@ Browser automation CLI for AI agents
 
 `TypeScript`
 
-⭐ 12.8k • 🔱 731 • 22h ago
+⭐ 12.8k • 🔱 732 • 1d ago
 
 ---
 
@@ -646,7 +644,7 @@ AI → JSON → UI
 
 `TypeScript`
 
-⭐ 10.0k • 🔱 536 • 10h ago
+⭐ 10.0k • 🔱 536 • 12h ago
 
 ---
 
@@ -656,7 +654,7 @@ LLM驱动的 A/H/美股智能分析器，多数据源行情 + 实时新闻 + Gem
 
 `Python` `agent` `ai` `aigc` `gemini` `llm`
 
-⭐ 9.6k • 🔱 10.1k • 16h ago
+⭐ 9.6k • 🔱 10.1k • 18h ago
 
 ---
 
@@ -666,7 +664,7 @@ The Ultimate Collection of 600+ Agentic Skills for Claude Code/Antigravity/Curso
 
 `Python` `agentic-skills` `ai-agents` `antigravity` `autonomous-coding` `claude-code`
 
-⭐ 7.4k • 🔱 1.6k • 21h ago
+⭐ 7.5k • 🔱 1.6k • 5m ago
 
 ---
 
@@ -676,7 +674,7 @@ Marketing skills for Claude Code and AI agents. CRO, copywriting, SEO, analytics
 
 `claude` `codex` `marketing`
 
-⭐ 6.0k • 🔱 675 • 2d ago
+⭐ 6.0k • 🔱 680 • 2d ago
 
 ---
 
@@ -684,7 +682,7 @@ Marketing skills for Claude Code and AI agents. CRO, copywriting, SEO, analytics
 
 Claude Code skill that removes signs of AI-generated writing from text
 
-⭐ 4.0k • 🔱 343 • 14d ago
+⭐ 4.0k • 🔱 344 • 14d ago
 
 ---
 
@@ -692,7 +690,7 @@ Claude Code skill that removes signs of AI-generated writing from text
 
 Elevate your AI research writing, no more tedious polishing ✨ 
 
-⭐ 3.4k • 🔱 283 • 1d ago
+⭐ 3.5k • 🔱 287 • 1d ago
 
 ---
 
@@ -720,7 +718,7 @@ An app to monitor the (Codex) situation
 
 `TypeScript` `ai` `codex` `linux` `macos` `tauri-app`
 
-⭐ 2.1k • 🔱 190 • 12h ago
+⭐ 2.2k • 🔱 189 • 13h ago
 
 ---
 
