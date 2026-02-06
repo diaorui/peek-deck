@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-02-06T22:26:10.059283+00:00'
+updated: '2026-02-06T22:50:46.994077+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- videos
-- social
 - news
+- social
 - cryptocurrency
+- videos
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** February 06, 2026 at 22:26 UTC  
+**Last Updated:** February 06, 2026 at 22:50 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -87,7 +87,7 @@ Rank #1
 
 Yes I finally captured it!
 
-3h ago
+4h ago
 
 ---
 
@@ -99,7 +99,7 @@ Yes I finally captured it!
 
 **[Are ya winning, son?](https://www.reddit.com/r/Bitcoin/comments/1qxgezi/are_ya_winning_son/)**
 
-9h ago
+10h ago
 
 ---
 
@@ -107,7 +107,7 @@ Yes I finally captured it!
 
 I accumulated 1.18 more and bought a total of 1.60 BTC today. I had been patiently waiting for a pullback in the $66,000–$70,000 range, and the opportunity finally presented itself. If the market corrects further, I’m prepared to add more around the $53,000 level as well. This is a personal, well-considered decision aligned with my financial position. Even in an extreme downside scenario, it would not materially impact me. I’m not recommending this to anyone—cryptocurrency remains highly volatile and risky. This approach is only suitable for those who can tolerate significant risk and are financially comfortable even in the event of a loss. Despite widespread bearish predictions ranging from $16K to $10K, I’m sticking to my own strategy and long-term conviction. Having already achieved returns far exceeding my current investment through futures and forex, I’m comfortable taking this calculated exposure. Staying disciplined, focused, and patient. Good luck to everyone.
 
-8h ago
+9h ago
 
 ---
 
@@ -123,7 +123,7 @@ Thanks. God bless you all
 
 So bitcoin is going back up today Friday. Wonder why? Hmmm🤔 It seems that the manipulators are back at it, pumping up btc to get you thinking is on its way back up. Friday’s afternoon they usually start to sell again and Sundays it is usually negative for btc. With the fear index the way it is and the economy, some see btc going to 58,000 even up to the 38,000. Too many retail keep falling for the pump and dump, they don’t buy when is down and once they see the pump they start to buy to find out in a few hours or days they are under and sell at a loss. Buy and hold long term specially when the market is as volatile as it is since end 25 beginning 2026. Stop selling at a loss and stay the course. 👍🏼
 
-5h ago
+6h ago
 
 ---
 
@@ -145,7 +145,7 @@ another Psyopanime gem.
 
 I am selling my car. I am selling my house. I am selling my extra kidney. I am selling my wife's jewelry (don't tell her). TO BUY MORE BITCOIN. You guys are actually pathetic. You see a little 30% correction from the $125k top and you start crying for the SEC? You start begging for a refund? This is the Great Filtering. This is where the tourists get sent back to the fiat mines to work for the rest of their lives. Look at the volume. Look at the wallet addresses. BlackRock isn't selling. Larry Fink isn't selling. I AM NOT SELLING. We are flushing out the weak hands so we can soar to $250k in 2027 without you. I hope you sold. I hope you panicked. I’ll be waving at you from the Citadel while you’re stuck using CBDCs to buy bug paste. WE ARE SO BACK. 🚀💎🙌 UPDATE: I am literally shaking. My wife actually packed her bags and left with the kids when we were at $63k because I wouldn't sell. She said she's done. Since she walked out the door, Bitcoin pumped to $70k. She sold the bottom of our marriage. I held. The market has spoken.
 
-23h ago
+1d ago
 
 ---
 
@@ -201,7 +201,7 @@ CoinDesk • 1d ago
 
 JPMorgan says Bitcoin looks more attractive than gold long term. The bank has predicted $266,000 as a long-term benchmark. Near-term pressure remains. Bitcoin’s long-term appeal ...
 
-Yahoo Finance • 9h ago
+Yahoo Finance • 10h ago
 
 ---
 
@@ -217,7 +217,7 @@ thestreet.com • 1d ago
 
 Bithumb reportedly made a mistake that led to the accidental deposit of large amounts of Bitcoin to various users.
 
-Bitcoin Magazine • 5h ago
+Bitcoin Magazine • 6h ago
 
 ---
 
@@ -225,7 +225,7 @@ Bitcoin Magazine • 5h ago
 
 Some recipients reportedly sold the coins before the exchange's "internal control system and promptly restricted transactions."
 
-The Block • 6h ago
+The Block • 7h ago
 
 ---
 
@@ -327,7 +327,7 @@ In this interview, Bitcoin OG Samson Mow shares his view on why Bitcoin keeps fa
 
 📺 Cointelegraph
 
-👁️ 4K • 👍 259 • 💬 80 • ⏱️ 19:09 • 5h ago
+👁️ 4K • 👍 259 • 💬 80 • ⏱️ 19:09 • 6h ago
 
 ---
 
@@ -347,7 +347,7 @@ Bitcoin #Crypto #Finance Bitcoin's sudden collapse may have come from a hidden s
 
 📺 The Wolf Of All Streets
 
-👁️ 30K • 👍 2K • 💬 337 • ⏱️ 24:28 • 7h ago
+👁️ 30K • 👍 2K • 💬 337 • ⏱️ 24:28 • 8h ago
 
 ---
 
@@ -407,7 +407,7 @@ Let's dubiously speculate on the price of #Bitcoin! Into The Cryptoverse Premium
 
 📺 Benjamin Cowen
 
-👁️ 54K • 👍 4K • 💬 308 • ⏱️ 36:47 • 5h ago
+👁️ 54K • 👍 4K • 💬 308 • ⏱️ 36:47 • 6h ago
 
 ---
 

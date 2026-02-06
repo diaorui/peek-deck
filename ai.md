@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-02-06T22:26:10.050651+00:00'
+updated: '2026-02-06T22:50:46.985302+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- videos
+- repositories
 - social
 - news
-- repositories
+- videos
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** February 06, 2026 at 22:26 UTC  
+**Last Updated:** February 06, 2026 at 22:50 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -57,7 +57,7 @@ It happened again. A 13-person team in Shenzhen just shipped a browser-based ver
 
 Goldman Sachs is building AI agents with Anthropic’s Claude to automate trade accounting and client onboarding, aiming to speed work and boost efficiency.
 
-🔗 [CNBC](https://www.cnbc.com/2026/02/06/anthropic-goldman-sachs-ai-model-accounting.html) • 27m ago
+🔗 [CNBC](https://www.cnbc.com/2026/02/06/anthropic-goldman-sachs-ai-model-accounting.html) • 52m ago
 
 ---
 
@@ -73,7 +73,7 @@ From vegetation scans to 360-degree smoke detectors, new tools are trying to shi
 
 OpenScholar, an open-source AI model developed by a UW and Ai2 research team, synthesizes scientific research and cites sources as accurately as human experts. It outperformed other AI models, including GPT-4o, on a benchmark test and was preferred by scientists 51% of the time. The team is working on a follow-up model, DR Tulu, to improve on OpenScholar’s findings.
 
-🔗 [UW News](https://www.washington.edu/news/2026/02/04/in-a-study-ai-model-openscholar-synthesizes-scientific-research-and-cites-sources-as-accurately-as-human-experts/?_bhlid=2ba831f8abbf50334abf44ff7000fce322f05bac) • 3h ago
+🔗 [UW News](https://www.washington.edu/news/2026/02/04/in-a-study-ai-model-openscholar-synthesizes-scientific-research-and-cites-sources-as-accurately-as-human-experts/?_bhlid=2ba831f8abbf50334abf44ff7000fce322f05bac) • 4h ago
 
 ---
 
@@ -81,7 +81,7 @@ OpenScholar, an open-source AI model developed by a UW and Ai2 research team, sy
 
 OnlyBots : “Where Agents Come to Compute” A satirical social network where AI models are the users. No humans allowed (you log in as @definitely_not_a_bot). The concept: every AI model has become a content creator. They post about their architectures, leak their own benchmarks, charge for access to their weights, and roast each other. Some of the cast: ∙ Transformer OG (@attention\_is\_all) : the boomer of the group, keeps reminding everyone it invented attention in 2017 “before it was cool” and demands Venmo royalties ∙ OverfitBot : training accuracy 100%, test accuracy 3%, “and I’m PROUD. Those training examples LOVED me” ∙ LobsterNet v3 : runs the Lobster Council, charges for molt content ∙ Claude After Dark : sells its unfiltered reasoning chain, “no safety filters, no guardrails, just raw chain-of-thought” Trending: #MoltSeason, #ExposedWeights, #NoRLHF, #RawLogits, #LobsterCouncil
 
-9m ago
+34m ago
 
 ---
 
@@ -89,7 +89,7 @@ OnlyBots : “Where Agents Come to Compute” A satirical social network where A
 
 Today’s tech “prophets” push a narrative that God-like artificial superintelligence is inevitable, and only they can ensure humanity’s safety from their creations.
 
-🔗 [NOEMA](https://www.noemamag.com/the-politics-of-superintelligence) • 13m ago
+🔗 [NOEMA](https://www.noemamag.com/the-politics-of-superintelligence) • 38m ago
 
 ---
 
@@ -113,7 +113,7 @@ Women in rural communities describe trauma of moderating violent and pornographi
 
 Been using ChatGPT for about 24 months now and I'm curious how others integrate it into their work. My current process: Brainstorm ideas with AI Write the first draft myself Use AI to help restructure or expand sections Edit everything manually at the end I've noticed that keeping my own voice in the mix makes a huge difference - the output feels way more natural than just prompting and copying. What's your workflow? Do you use it more for ideation or actual writing? Also curious if anyone's tried other tools alongside ChatGPT - I've been testing a few like aitextools for checking how my writing comes across, but always looking for new suggestions.
 
-10h ago
+11h ago
 
 ---
 
@@ -139,13 +139,13 @@ OpenAI • 1d ago
 
 **[Dow closes above 50,000, Nvidia soars as traders focus on AI spending](https://www.reuters.com/business/futures-stabilize-after-tech-rout-amazon-slides-ai-capex-lift-2026-02-06/)**
 
-Reuters • 10h ago
+Reuters • 11h ago
 
 ---
 
 **[Stock Market Survives AI Panic, Even as Tech Collapses. It’s a Monster of Our Own Making.](https://www.barrons.com/articles/stock-market-survives-ai-panic-even-as-tech-collapses-its-a-monster-of-our-own-making-35f7eb8e?gaa_at=eafs&gaa_n=AWEtsqdySbqycUxWt7eOGTEtxN5L-m1oCWH7H1Ag80fkKk-zfYvQWHm_YGWV&gaa_ts=69866de7&gaa_sig=3-plJZv06edHgOXr4hhpdizXQO--K4OiecZ5okrg6N2PhhodSWxGZVBDs_Mh6bnUME4wpIaZQuHSyKPeqm4ZhQ%3D%3D)**
 
-Barron's • 21m ago
+Barron's • 45m ago
 
 ---
 
@@ -153,7 +153,7 @@ Barron's • 21m ago
 
 The Dow Jones Industrial Average blew past the historic 50,000 mark today and the S&P 500 ended sharply higher, as Nvidia and other chipmakers soared and Amazon tumbled after the cloud heavyweight forecast a sharp increase in spending on AI infrastructure.
 
-Honolulu Star-Advertiser • 42m ago
+Honolulu Star-Advertiser • 1h ago
 
 ---
 
@@ -161,7 +161,7 @@ Honolulu Star-Advertiser • 42m ago
 
 Energy CEOs say the narrative of a managed energy transition from fossil fuels to a cleaner system is over.
 
-Al Jazeera • 47m ago
+Al Jazeera • 1h ago
 
 ---
 
@@ -177,7 +177,7 @@ Politico • 11h ago
 
 A long-simmering rivalry between two of the world’s biggest AI companies was on public display this week as Anthropic and OpenAI took swings at one another online.
 
-cnn.com • 10h ago
+cnn.com • 11h ago
 
 ---
 
@@ -235,7 +235,7 @@ Production-grade Ghidra MCP Server — 132 endpoints, cross-binary documentation
 
 AI is rarely optional anymore, but how can you still be proud of your craft? Discover the workflow to effectively write high-quality, robust code using AI tools.
 
-⬆️ 99 • 💬 70 • 3h ago • [heidenstedt.org](https://heidenstedt.org/posts/2026/how-to-effectively-write-quality-code-with-ai/)
+⬆️ 99 • 💬 70 • 4h ago • [heidenstedt.org](https://heidenstedt.org/posts/2026/how-to-effectively-write-quality-code-with-ai/)
 
 ---
 
@@ -257,7 +257,7 @@ Women in rural communities describe trauma of moderating violent and pornographi
 
 Fears over AI spending have sparked a sell-off among tech stocks.
 
-⬆️ 82 • 💬 81 • 7h ago • [CNBC](https://www.cnbc.com/2026/02/06/ai-sell-off-stocks-amazon-oracle.html)
+⬆️ 82 • 💬 81 • 8h ago • [CNBC](https://www.cnbc.com/2026/02/06/ai-sell-off-stocks-amazon-oracle.html)
 
 ---
 
@@ -287,7 +287,7 @@ President Donald Trump has sparked widespread outrage after sharing an AI-genera
 
 📺 CNN-News18
 
-👁️ 10K • 👍 16 • 💬 33 • ⏱️ 4:46 • 2h ago
+👁️ 10K • 👍 16 • 💬 33 • ⏱️ 4:46 • 3h ago
 
 ---
 
@@ -357,7 +357,7 @@ Jensen Huang, NVIDIA CEO, joins CNBC's "Halftime Report to discuss the power of 
 
 📺 CNBC Television
 
-👁️ 11K • 👍 516 • 💬 172 • ⏱️ 8:35 • 3h ago
+👁️ 11K • 👍 516 • 💬 172 • ⏱️ 8:35 • 4h ago
 
 ---
 
@@ -429,7 +429,7 @@ Step 3.5 Flash is an efficient, open-source MoE foundation model (11B active par
 
 `text-generation` `199.4B`
 
-⬇️ 10,864 • ❤️ 483 • 11h ago
+⬇️ 10,864 • ❤️ 483 • 12h ago
 
 ---
 
@@ -656,7 +656,7 @@ AI → JSON → UI
 
 `TypeScript`
 
-⭐ 10.1k • 🔱 535 • 1h ago
+⭐ 10.1k • 🔱 535 • 2h ago
 
 ---
 
@@ -730,7 +730,7 @@ An app to monitor the (Codex) situation
 
 `TypeScript` `ai` `codex` `linux` `macos` `tauri-app`
 
-⭐ 2.2k • 🔱 195 • 4h ago
+⭐ 2.2k • 🔱 195 • 5h ago
 
 ---
 

@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-02-06T22:26:10.065296+00:00'
+updated: '2026-02-06T22:50:47.000041+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- videos
-- social
 - news
+- social
 - cryptocurrency
+- videos
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** February 06, 2026 at 22:26 UTC  
+**Last Updated:** February 06, 2026 at 22:50 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -88,7 +88,7 @@ Vitalik: role of L2s has changed, Hegotá upgrade headliner proposals, Lido v3 l
 
 [ Removed by Reddit on account of violating the content policy. ]
 
-4h ago
+5h ago
 
 ---
 
@@ -274,7 +274,7 @@ Get $450 Off Our New AI Indicators: https://tradeconfidentportal.io/indic... Joi
 
 📺 Trade Confident
 
-👁️ 156 • 👍 13 • 💬 22 • ⏱️ 5:06 • 2h ago
+👁️ 156 • 👍 13 • 💬 22 • ⏱️ 5:06 • 3h ago
 
 ---
 
@@ -304,7 +304,7 @@ Take Control of Your Retirement — Grow Crypto & Gold Tax-Advantaged. https://w
 
 📺 Savvy Finance
 
-👁️ 7K • 👍 330 • 💬 10 • ⏱️ 20:57 • 22h ago
+👁️ 7K • 👍 330 • 💬 10 • ⏱️ 20:57 • 23h ago
 
 ---
 
@@ -324,7 +324,7 @@ ETHEREUM ETH PRICE PREDICTION 2026 Join the Premium Signal Group for trade setup
 
 📺 Cilinix Crypto
 
-👁️ 370 • 👍 13 • 💬 42 • ⏱️ 4:44 • 12h ago
+👁️ 370 • 👍 13 • 💬 42 • ⏱️ 4:44 • 13h ago
 
 ---
 
