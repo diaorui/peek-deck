@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-02-06T22:50:47.000041+00:00'
+updated: '2026-02-06T23:27:26.589003+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- news
 - social
-- cryptocurrency
+- news
 - videos
+- cryptocurrency
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** February 06, 2026 at 22:50 UTC  
+**Last Updated:** February 06, 2026 at 23:27 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,11 +42,11 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** +12.7%  
-**7d:** -16.2%  
-**30d:** -33.9%  
-**90d:** -42.7%  
-**1y:** -21.6%  
+**24h:** +10.1%  
+**7d:** -15.9%  
+**30d:** -33.7%  
+**90d:** -42.5%  
+**1y:** -21.4%  
 
 ---
 
@@ -72,7 +72,7 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-16h ago
+17h ago
 
 ---
 
@@ -80,7 +80,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 Vitalik: role of L2s has changed, Hegotá upgrade headliner proposals, Lido v3 live
 
-🔗 [Ethereal news](https://ethereal.news/ethereal-news-weekly-10/) • 9h ago
+🔗 [Ethereal news](https://ethereal.news/ethereal-news-weekly-10/) • 10h ago
 
 ---
 
@@ -88,7 +88,7 @@ Vitalik: role of L2s has changed, Hegotá upgrade headliner proposals, Lido v3 l
 
 [ Removed by Reddit on account of violating the content policy. ]
 
-5h ago
+6h ago
 
 ---
 
@@ -96,7 +96,7 @@ Vitalik: role of L2s has changed, Hegotá upgrade headliner proposals, Lido v3 l
 
 Good morning, could anyone recommend some good reading material to learn more about the Ethereum blockchain and smart contract development/deployment? I'm an IT professional, so even fairly technical material is fine, but I'd like to have a good overview first before moving on to the development side of things.
 
-16h ago
+17h ago
 
 ---
 
@@ -158,6 +158,14 @@ The Guardian • 1d ago
 
 ---
 
+**[Why Is Cathie Wood Buying More BitMine As Ethereum Plummets? Ark Invest Doubles Down as Tom Lee Defends Strategy](https://finance.yahoo.com/news/why-cathie-wood-buying-more-123215468.html)**
+
+Cathie Wood’s ARK Invest added more than $44 million in crypto-linked equities, including BitMine, Robinhood, and Circle. BitMine chairman Tom Lee defended the firm’s Ethereum ...
+
+Yahoo Finance • 2d ago
+
+---
+
 **[Ethereum (ETH) news: BitMine (BMNR) faces $8 billion paper loss on ether holdings](https://www.coindesk.com/business/2026/02/05/tom-lee-s-bitmine-now-usd8-billion-underwater-as-ether-tumbles-below-usd2-000)**
 
 Despite the mounting loss, the Ethereum treasury firm says it's under no pressure to sell as ETH price crashes and its stock tumbles.
@@ -166,11 +174,11 @@ CoinDesk • 1d ago
 
 ---
 
-**[Coinbase's Crypto-Backed Loans Notch Record Liquidations Amid Bitcoin, Ethereum Plunge](https://finance.yahoo.com/news/coinbases-crypto-backed-loans-notch-191912655.html)**
+**[BitMine Stock Plummets 9% as $7 Billion Ethereum “Hole” Spooks Investors](https://www.tipranks.com/news/bitmine-stock-plummets-9-as-7-billion-ethereum-hole-spooks-investors)**
 
-Coinbase customers faced losses in fresh ways through the exchange’s crypto-backed lending product as Bitcoin and Ethereum tumbled this week.
+The sell-off in BitMine Immersion Technologies ($BMNR) intensified today as the stock dropped 8.6% to reach $18.56, extending a brutal monthly slide that has wiped ...
 
-Yahoo Finance • 3h ago
+TipRanks • 1d ago
 
 ---
 
@@ -182,7 +190,7 @@ Nasdaq • 1d ago
 
 ---
 
-**[Bitcoin, XRP, Ethereum Drop. Why Cryptos Are Under Pressure Today.](https://www.barrons.com/articles/bitcoin-xrp-ethereum-cryptos-gold-9051820f?gaa_at=eafs&gaa_n=AWEtsqdALxHd7hnrXQBIAZ5C34WLj9fTa65AYipDRNcvjsLgXF9lgDsXXx38&gaa_ts=69866deb&gaa_sig=YNq_zW_qjNojLoGxvpKonWWBTO5sula-5zznj47VpmcDtzoRa5lnRUvKhAyELSkAmPNsYIiw_NzjoG1Yfc87fg%3D%3D)**
+**[Bitcoin, XRP, Ethereum Drop. Why Cryptos Are Under Pressure Today.](https://www.barrons.com/articles/bitcoin-xrp-ethereum-cryptos-gold-9051820f?gaa_at=eafs&gaa_n=AWEtsqe7ARMuVUpScVec5NXkoouIl_V-2gDWFhMLpvgc5q5Kc7rbnpbNhhfw&gaa_ts=69867c48&gaa_sig=ItqgZzxrsqvDX6kosTlTOXjs2yjmszkkC_593xlxjTvrXKZ3ZklLMJ70H3ecHYGYoVgefHXMH1m_k3c_4yr1kw%3D%3D)**
 
 Barron's • 2d ago
 
@@ -194,25 +202,19 @@ Binance • 2d ago
 
 ---
 
-**[Crypto networks respond after Vitalik Buterin told them they 'no longer makes sense' for Ethereum](https://www.coindesk.com/business/2026/02/04/from-ethereum-s-sidekick-to-standalone-stars-how-vitalik-buterin-s-latest-pivot-is-forcing-layer-2s-to-grow-up)**
+**[Tom Lee: Bitcoin, Ethereum Got Hit Hard, But The Bottom Is Close](https://finance.yahoo.com/news/tom-lee-bitcoin-ethereum-got-143113947.html)**
 
-Leaders across the layer-2 space don't see this moment as an existential threat, but rather that Ethereum’s progress is forcing them to clarify their purpose.
+The crypto selloff has been deeper than anticipated, but Tom Lee sees price and timing align for a potential bottom. Crypto Selloff Deeper Than Expected… In a CNBC Squawk Box interview on Monday, Lee, head of research at Fundstrat Global Advisors and CIO of Fundstrat Capital, said crypto's recent decline exceeded expectations despite solid fundamentals. He attributed the weakness to risk appetite rotating into gold and silver, which surged early in the year and sparked fear of missing out. Don't
 
-CoinDesk • 2d ago
-
----
-
-**[Is This the Beginning of the End for Ethereum Layer-2s? Vitalik Buterin Thinks the Story Is Changing](https://www.binance.com/en/square/post/36004102865578)**
-
-Binance • 2d ago
+Yahoo Finance • 2d ago
 
 ---
 
-**[Vitalik Buterin Moves $29 Million Worth of Ethereum—Here's Why](https://decrypt.co/356914/vitalik-buterin-moves-29-million-worth-of-ethereum-heres-why)**
+**[Coinbase's Crypto-Backed Loans Notch Record Liquidations Amid Bitcoin, Ethereum Plunge](https://decrypt.co/357265/coinbases-loans-record-liquidations-bitcoin-ethereum-plunge)**
 
-Vitalik Buterin moves 14,000 ETH worth $29M to support Ethereum Foundation during "mild austerity" period. His now hold 227K ETH.
+Coinbase customers faced losses in fresh ways through the exchange’s crypto-backed lending product as Bitcoin and Ethereum tumbled this week.
 
-Decrypt • 2d ago
+Decrypt • 4h ago
 
 ---
 
@@ -220,7 +222,7 @@ Decrypt • 2d ago
 
 Prices are climbing back up after the biggest crypto crash since 2022.
 
-Mashable • 4h ago
+Mashable • 5h ago
 
 ---
 
@@ -234,7 +236,7 @@ One of the biggest crypto crashes in history! Here is what happened, why and my 
 
 📺 Thomas Kralow
 
-👁️ 19K • 👍 979 • 💬 66 • ⏱️ 11:51 • 9h ago
+👁️ 19K • 👍 979 • 💬 66 • ⏱️ 11:51 • 10h ago
 
 ---
 
@@ -244,7 +246,7 @@ Uhh... so... is anyone else getting that strange feeling that something big is a
 
 📺 Money Rules - Investing Tips 
 
-👁️ 8K • 👍 1K • 💬 320 • ⏱️ 13:13 • 7h ago
+👁️ 8K • 👍 1K • 💬 320 • ⏱️ 13:13 • 8h ago
 
 ---
 
@@ -264,7 +266,7 @@ This video provides a professional Elliott Wave and technical analysis of Ethere
 
 📺 More Crypto Online
 
-👁️ 3K • 👍 198 • 💬 6 • ⏱️ 3:53 • 6h ago
+👁️ 3K • 👍 198 • 💬 6 • ⏱️ 3:53 • 7h ago
 
 ---
 
@@ -294,7 +296,7 @@ This video provides a professional Elliott Wave and technical analysis of Ethere
 
 📺 More Crypto Online
 
-👁️ 6K • 👍 316 • 💬 32 • ⏱️ 5:12 • 12h ago
+👁️ 6K • 👍 316 • 💬 32 • ⏱️ 5:12 • 13h ago
 
 ---
 

@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-02-06T22:50:47.003208+00:00'
+updated: '2026-02-06T23:27:26.592139+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- social
 - news
 - videos
+- social
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** February 06, 2026 at 22:50 UTC  
+**Last Updated:** February 06, 2026 at 23:27 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -36,13 +36,13 @@ Robotics research and industry news
 
 From CyberRobo on 𝕏: https://x.com/CyberRobooo/status/2019598569909743755
 
-12h ago
+13h ago
 
 ---
 
 **[Ball-and-Socket… But for Locomotion, Enchanted Tools](https://www.reddit.com/r/robotics/comments/1qx3nuo/ballandsocket_but_for_locomotion_enchanted_tools/)**
 
-21h ago
+22h ago
 
 ---
 
@@ -50,7 +50,7 @@ From CyberRobo on 𝕏: https://x.com/CyberRobooo/status/2019598569909743755
 
 Hello everyone! Recently I tried to test the SmolVLA model from a paper that HuggingFace published, that uses relatively small VLA model for Imitation Learning on a SO-101 arm. They have a library called LeRobot that has a lot of stuff to handle robots. First I tried to run a pretrained model, which didn't work. Then I tried finetuning the model on a dataset that I collected. I gradually moved from 30 episodes to 120 with a simple task of picking up a cube and putting it in the designated place. The robot still can't solve the task at all and frankly does not improve with the increase in data amount. So my question is the following: have anybody experimented with LeRobot + smolvla + SO-101? What is your experience? Did you manage to run it? Basically, how much more time can I expect to sink into this or should I switch to another model, or from a robot to a simulator first, or something else?
 
-6h ago
+7h ago
 
 ---
 
@@ -58,7 +58,7 @@ Hello everyone! Recently I tried to test the SmolVLA model from a paper that Hug
 
 Cartwheel Robotics shutting down is a reminder of how misaligned capital can be. Great teams struggle for funding while massive checks keep flowing elsewhere. Scott’s advice hits home: “No money is better than the wrong money.” https://preview.redd.it/ov7omrf40vhg1.png?width=716&format=png&auto=webp&s=b0ce7c7ceaa4607cfdc5de89775cfcddf883c3fe
 
-11h ago
+12h ago
 
 ---
 
@@ -72,7 +72,7 @@ Felt so excited to see the robot I've been working on getting this much attentio
 
 **[Open-source CI gate + offline debug packets (seeking pilot teams or hobbyist creators)](https://www.reddit.com/r/robotics/comments/1qxt7da/opensource_ci_gate_offline_debug_packets_seeking/)**
 
-Hey everyone — I’m a CS student working on an open-source tool called PF Gate that is supposed to be a supplement to the process of robotics debugging. If you run sims/log replays and deals with “it worked yesterday / what changed?” regressions, PF Gate sits in CI and turns a run into: deterministic PASS / WARN / FAIL / QUARANTINE (CI-friendly exit codes) JUnit output so results show up directly in CI UI an offline report.html “debug packet” auditable receipts explaining exactly why it flagged a run (plus policy + artifact hashes for provenance) diff-as-gate mode so CI failures include regression context vs a baseline It runs locally/in CI (no log upload). If you already have your own logs (rosbags/MCAP/custom), the idea is to adapt them into a canonical trace.jsonl (adapter guide included). This is just a fun project to me. I hope that this can be of help to anyone. Thank you in advance for checking it out, and if you have any questions feel free to DM me.
+Hey everyone — I’m a CS student working on an open-source tool called PF Gate that is supposed to be a supplement to the process of robotics debugging. If you run sims/log replays and deal with “it worked yesterday / what changed?” regressions, PF Gate sits in CI and turns a run into: deterministic PASS / WARN / FAIL / QUARANTINE (CI-friendly exit codes) JUnit output so results show up directly in CI UI an offline report.html “debug packet” auditable receipts explaining exactly why it flagged a run (plus policy + artifact hashes for provenance) diff-as-gate mode so CI failures include regression context vs a baseline It runs locally/in CI (no log upload). If you already have your own logs (rosbags/MCAP/custom), the idea is to adapt them into a canonical trace.jsonl (adapter guide included). This is just a fun project to me. I hope that this can be of help to anyone. Thank you in advance for checking it out, and if you have any questions feel free to DM me. If you do use it, I would love feedback on what worked and what didn’t. Thank y’all!
 
 🔗 [GitHub](https://github.com/QPFAI/PF-Gate) • 2h ago
 
@@ -82,7 +82,7 @@ Hey everyone — I’m a CS student working on an open-source tool called PF Gat
 
 ROS News for the Week of February 2nd, 2026            Big news, ROSCon Croatia is go! The event is scheduled for late March. Reach out to @destogl for more information. Our friends at InOrbit have an event tonight in Mountain view and our SG ROS Meetup will happen on the 10th. Towards the end of the month we have a very special joint PX4 / ROS By-The-Bay Meetup sheduled.             URDF Kitchen is a GUI-based tool that allows you to load mesh files for robot parts, mark connection points, and ...
 
-🔗 [Open Robotics Discourse](https://discourse.openrobotics.org/t/ros-news-for-the-week-of-february-2nd-2026/52379) • 2h ago
+🔗 [Open Robotics Discourse](https://discourse.openrobotics.org/t/ros-news-for-the-week-of-february-2nd-2026/52379) • 3h ago
 
 ---
 
@@ -104,7 +104,7 @@ From RoboHub🤖 on 𝕏: https://x.com/XRoboHub/status/2019135928384778288
 
 **[Alve-x robot arm](https://www.reddit.com/r/robotics/comments/1qx3two/alvex_robot_arm/)**
 
-21h ago
+22h ago
 
 ---
 
@@ -146,7 +146,7 @@ The Robot Report • 2d ago
 
 Gayle Anderson previews the upcoming SOLA CON 2026 event. SoLA Robotics is hosting this Saturday, February 7th, 2026, event. SoLA Robotics (South LA Robotics) is a Gardena-based, community-focused non...
 
-Yahoo • 3h ago
+Yahoo • 4h ago
 
 ---
 
@@ -162,7 +162,7 @@ The Robot Report • 1h ago
 
 Mat Allan, the co-founder and CTO of ADR, explains how its collaboration with Intel has helped mining automation.
 
-The Robot Report • 1h ago
+The Robot Report • 2h ago
 
 ---
 
@@ -174,17 +174,19 @@ Supply Chain Dive • 1d ago
 
 ---
 
-**[AI-powered robots are coming for trade jobs](https://www.politico.com/newsletters/digital-future-daily/2026/02/04/ai-powered-robots-are-coming-for-trade-jobs-00765584)**
-
-Politico • 2d ago
-
----
-
 **[Making robots useful and affordable will need better motors](https://www.bbc.com/news/articles/c5y46356zzyo)**
 
 Firms are working to make the motors that drive robots more efficient and cheaper.
 
-BBC • 22h ago
+BBC • 23h ago
+
+---
+
+**[Funding surge powers Chinese robotics firms as focus shifts to humanoid ‘brains’](https://www.scmp.com/tech/article/3342246/funding-surge-powers-chinese-robotics-firms-focus-shifts-humanoid-brains)**
+
+State-backed funds, Big Tech drive fresh capital into robotics companies, betting on operating systems that underpin humanoid intelligence.
+
+South China Morning Post • 3d ago
 
 ---
 
@@ -198,7 +200,7 @@ Humanoid robots just entered a new phase of realism. In Shanghai, DroidUp reveal
 
 📺 AI Revolution
 
-👁️ 140K • 👍 3K • 💬 649 • ⏱️ 13:31 • 1d ago
+👁️ 140K • 👍 3K • 💬 649 • ⏱️ 13:31 • 2d ago
 
 ---
 
@@ -276,7 +278,7 @@ Ue Ao Ming tonans 1 shotting titans. I was told that tonans are terrible and the
 
 📺 PREDATOR WR
 
-👁️ 6K • 👍 321 • 💬 47 • ⏱️ 16:16 • 9h ago
+👁️ 6K • 👍 321 • 💬 47 • ⏱️ 16:16 • 10h ago
 
 ---
 

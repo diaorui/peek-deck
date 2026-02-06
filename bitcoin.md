@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-02-06T22:50:46.994077+00:00'
+updated: '2026-02-06T23:27:26.583128+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- news
 - social
-- cryptocurrency
+- news
 - videos
+- cryptocurrency
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** February 06, 2026 at 22:50 UTC  
+**Last Updated:** February 06, 2026 at 23:27 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,17 +38,17 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $70,257.51
+### $71,444.00
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** +12.6%  
-**7d:** -10.3%  
-**30d:** -22.4%  
-**90d:** -32.6%  
-**1y:** -26.7%  
+**24h:** +11.0%  
+**7d:** -10.4%  
+**30d:** -22.5%  
+**90d:** -32.7%  
+**1y:** -26.8%  
 
 ---
 
@@ -77,9 +77,15 @@ Rank #1
 
 ## Reddit: r/Bitcoin
 
+**[People who bought bitcoin at $61k yesterday](https://www.reddit.com/r/Bitcoin/comments/1qxw35n/people_who_bought_bitcoin_at_61k_yesterday/)**
+
+56m ago
+
+---
+
 **[We are so back](https://www.reddit.com/r/Bitcoin/comments/1qxpeyz/we_are_so_back/)**
 
-4h ago
+5h ago
 
 ---
 
@@ -87,13 +93,13 @@ Rank #1
 
 Yes I finally captured it!
 
-4h ago
+5h ago
 
 ---
 
 **[Thats the spirit](https://www.reddit.com/r/Bitcoin/comments/1qxfq4n/thats_the_spirit/)**
 
-10h ago
+11h ago
 
 ---
 
@@ -115,7 +121,7 @@ I accumulated 1.18 more and bought a total of 1.60 BTC today. I had been patient
 
 Thanks. God bless you all
 
-9h ago
+10h ago
 
 ---
 
@@ -127,25 +133,17 @@ So bitcoin is going back up today Friday. Wonder why? Hmmm🤔 It seems that the
 
 ---
 
+**[This Is How We Beat The Boomers](https://www.reddit.com/r/Bitcoin/comments/1qxizbv/this_is_how_we_beat_the_boomers/)**
+
+Welcome to the part of the cycle where all the boomers who joined the hype train get scared and exit then it goes to 250k and the same thing happens again 😁 🙌
+
+9h ago
+
+---
+
 **[Don't buy bitcoin](https://www.reddit.com/r/Bitcoin/comments/1qxip3i/dont_buy_bitcoin/)**
 
-8h ago
-
----
-
-**["THE BOTTOM IS IN!!!!"](https://www.reddit.com/r/Bitcoin/comments/1qxp0qb/the_bottom_is_in/)**
-
-another Psyopanime gem.
-
-4h ago
-
----
-
-**[I can't do this anymore. I'm selling everything. Goodbye.](https://www.reddit.com/r/Bitcoin/comments/1qx0c87/i_cant_do_this_anymore_im_selling_everything/)**
-
-I am selling my car. I am selling my house. I am selling my extra kidney. I am selling my wife's jewelry (don't tell her). TO BUY MORE BITCOIN. You guys are actually pathetic. You see a little 30% correction from the $125k top and you start crying for the SEC? You start begging for a refund? This is the Great Filtering. This is where the tourists get sent back to the fiat mines to work for the rest of their lives. Look at the volume. Look at the wallet addresses. BlackRock isn't selling. Larry Fink isn't selling. I AM NOT SELLING. We are flushing out the weak hands so we can soar to $250k in 2027 without you. I hope you sold. I hope you panicked. I’ll be waving at you from the Citadel while you’re stuck using CBDCs to buy bug paste. WE ARE SO BACK. 🚀💎🙌 UPDATE: I am literally shaking. My wife actually packed her bags and left with the kids when we were at $63k because I wouldn't sell. She said she's done. Since she walked out the door, Bitcoin pumped to $70k. She sold the bottom of our marriage. I held. The market has spoken.
-
-1d ago
+9h ago
 
 ---
 
@@ -153,11 +151,11 @@ I am selling my car. I am selling my house. I am selling my extra kidney. I am s
 
 ## Google News: "bitcoin"
 
-**[Bitcoin gets slashed in half. What's behind the crypto's existential crisis](https://www.cnbc.com/2026/02/06/bitcoin-gets-slashed-in-half-whats-behind-the-cryptos-existential-crisis.html)**
+**[No, but seriously: What’s going on with bitcoin?](https://www.cnn.com/2026/02/05/investing/bitcoin-price)**
 
-Bitcoin nearly grazed $60,000 on Thursday as investors shied away from the asset due to growing concerns over its utility.
+Bitcoin is acting weird. The world’s most famous cryptocurrency has tumbled 44% from its October peak, falling below $70,000 Thursday for the first time in 15 months.
 
-CNBC • 5h ago
+cnn.com • 1d ago
 
 ---
 
@@ -165,13 +163,21 @@ CNBC • 5h ago
 
 The man allegedly used an app to create a fake phone number to text the family, according to a federal complaint.
 
-ABC7 Los Angeles • 23h ago
+ABC7 Los Angeles • 1d ago
 
 ---
 
-**[Strategy's Saylor Touts 'Crypto President' As Bitcoin Plunges](https://www.investors.com/news/strategy-earnings-q4-bitcoin-price-mstr-plunge-michael-saylor/)**
+**[How Bitcoin’s Volatility Is Testing Crypto’s Appeal](https://www.bloomberg.com/news/articles/2026-02-06/bitcoin-selloff-explained-what-triggered-the-crypto-selloff-and-what-comes-next)**
 
-Investor's Business Daily • 23h ago
+bloomberg.com • 2h ago
+
+---
+
+**[Bitcoin Giant Strategy Records $12.4 Billion Q4 Loss as MSTR Shares Hit 18-Month Low](https://finance.yahoo.com/news/bitcoin-giant-strategy-records-12-220010445.html)**
+
+Michael Saylor called his firm a “digital fortress," but leading Bitcoin treasury Strategy has taken some serious hits in recent months.
+
+Yahoo Finance • 1d ago
 
 ---
 
@@ -179,53 +185,39 @@ Investor's Business Daily • 23h ago
 
 Michael Saylor reinforces commitment to bitcoin and quantum security on Q4 earnings call.
 
-CoinDesk • 12h ago
+CoinDesk • 13h ago
 
 ---
 
-**[The Daily: Strategy’s safe unless BTC falls to $8K, Charles Hoskinson’s down over $3B in crypto, Bithumb mistakenly sends bitcoin to users, and more](https://finance.yahoo.com/news/daily-strategy-ok-unless-btc-190328460.html)**
+**[MSTY’s 102% Yield Collapses Alongside Bitcoin’s Meltdown](https://finance.yahoo.com/news/msty-102-yield-collapses-alongside-201927137.html)**
 
-The following article is adapted from The Block’s newsletter, The Daily, which comes out on weekday afternoons.
+The YieldMax MSTR Option Income Strategy ETF (NYSEARCA:MSTY) is delivering what appears to be an absurd dividend yield, but the mechanics behind those payments reveal a high-risk strategy tied directly to Bitcoin’s volatile price action. With Bitcoin down 41% from its January 2025 peak of $109,358 to $64,050 as of February 6, 2026, the sustainability ... MSTY’s 102% Yield Collapses Alongside Bitcoin’s Meltdown
 
 Yahoo Finance • 3h ago
+
+---
+
+**[Dow Jones Futures Rise As Bitcoin Bounces; Amazon Tumbles On Huge Capital Spending](https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-bitcoin-dives-amazon-earnings-capital-spending/)**
+
+Investor's Business Daily • 12h ago
+
+---
+
+**[Stock Market Today: Nasdaq Futures Slip; Bitcoin Price Steadies After Rocky Week — Live Updates](https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-02-06-2026?gaa_at=eafs&gaa_n=AWEtsqfxG0tj_Cki8Y1UOeiIDpnreINd39ZaXS1q5vZeLAEGVYDmMfBqlAiU&gaa_ts=69867c46&gaa_sig=EnBkEB5klss2VH8X4X72Y-hXnIxrGa-0a-hAeyGwyulOf6-zTaDwDsExsq4blqcZ_j7rCX31hGt9NP-OGMo4cg%3D%3D)**
+
+The Wall Street Journal • 10h ago
+
+---
+
+**[Stocks, bitcoin regain some ground along with precious metals](https://www.reuters.com/world/china/global-markets-wrapup-1pix-2026-02-06/)**
+
+Reuters • 22h ago
 
 ---
 
 **[JPMorgan says bitcoin's lower volatility relative to gold might make it 'more attractive' in long term](https://www.coindesk.com/markets/2026/02/05/jpmorgan-says-bitcoin-s-lower-volatility-relative-to-gold-might-make-it-more-attractive-in-long-term)**
 
 CoinDesk • 1d ago
-
----
-
-**[Bitcoin Price To $266,000? JPMorgan Sees BTC More Attractive Than Gold Long Term](https://finance.yahoo.com/news/bitcoin-price-266-000-jpmorgan-123718896.html)**
-
-JPMorgan says Bitcoin looks more attractive than gold long term. The bank has predicted $266,000 as a long-term benchmark. Near-term pressure remains. Bitcoin’s long-term appeal ...
-
-Yahoo Finance • 10h ago
-
----
-
-**[JPMorgan revisits Bitcoin forecast after crash](https://www.thestreet.com/crypto/markets/jpmorgan-revisits-bitcoin-forecast-after-crash)**
-
-Bitcoin is trading around $65,000 right now.
-
-thestreet.com • 1d ago
-
----
-
-**[Bithumb Accidentally Sends Large Amounts of Bitcoin to Users, Triggers Price Crash Amid Market Selloff](https://bitcoinmagazine.com/news/bithumb-accidentally-sends-bitcoin-users)**
-
-Bithumb reportedly made a mistake that led to the accidental deposit of large amounts of Bitcoin to various users.
-
-Bitcoin Magazine • 6h ago
-
----
-
-**[Bithumb mistakenly sends bitcoin to users, causing 'temporarily fluctuation' in BTC price on exchange](https://www.theblock.co/post/388850/bithumb-mistakenly-sends-bitcoin-to-some-users-causing-temporarily-fluctuation-in-btc-price-on-exchange)**
-
-Some recipients reportedly sold the coins before the exchange's "internal control system and promptly restricted transactions."
-
-The Block • 7h ago
 
 ---
 
@@ -257,7 +249,7 @@ Some market watchers have suggested $70,000 is a key level to watch and a break 
 
 Bitcoin outlook turns bearish as Pivotus’ Richard Farr targets BTC at $0 and Michael Burry warns of a “death spiral.” Get the risks and key levels now.
 
-⬆️ 52 • 💬 61 • 21h ago • [Seeking Alpha](https://seekingalpha.com/news/4547997-bitcoin-s-price-target-at-zero)
+⬆️ 52 • 💬 62 • 22h ago • [Seeking Alpha](https://seekingalpha.com/news/4547997-bitcoin-s-price-target-at-zero)
 
 ---
 
@@ -317,7 +309,7 @@ Take your personal data back with Incogni! Use code GRAHAM at the link below and
 
 📺 Graham Stephan
 
-👁️ 500K • 👍 18K • 💬 7K • ⏱️ 16:11 • 22h ago
+👁️ 500K • 👍 18K • 💬 7K • ⏱️ 16:11 • 23h ago
 
 ---
 
@@ -337,7 +329,7 @@ One of the biggest crypto crashes in history! Here is what happened, why and my 
 
 📺 Thomas Kralow
 
-👁️ 19K • 👍 979 • 💬 66 • ⏱️ 11:51 • 9h ago
+👁️ 19K • 👍 979 • 💬 66 • ⏱️ 11:51 • 10h ago
 
 ---
 
@@ -367,7 +359,7 @@ Bitcoin drops to insane oversold levels, but why? Here's the theory BITUNIX TRAD
 
 📺 Lark Davis
 
-👁️ 25K • 👍 1K • 💬 210 • ⏱️ 21:46 • 10h ago
+👁️ 25K • 👍 1K • 💬 210 • ⏱️ 21:46 • 11h ago
 
 ---
 
@@ -377,7 +369,7 @@ LIMITED TIME: ✓ Bitunix (no kyc, $10k bonus): https://www.bitunix.com/register
 
 📺 Altcoin Daily
 
-👁️ 9K • 👍 317 • 💬 86 • ⏱️ 1:10 • 8h ago
+👁️ 9K • 👍 317 • 💬 86 • ⏱️ 1:10 • 9h ago
 
 ---
 
@@ -387,7 +379,7 @@ Make Free Predictions on *ClashPicks* ▻ https://www.clashpicks.com/ Follow Cla
 
 📺 CryptosRUs
 
-👁️ 62K • 👍 2K • 💬 2K • ⏱️ 11:07 • 21h ago
+👁️ 62K • 👍 2K • 💬 2K • ⏱️ 11:07 • 22h ago
 
 ---
 
