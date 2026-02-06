@@ -3,13 +3,13 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-02-06T04:27:17.972327+00:00'
+updated: '2026-02-06T05:37:39.364957+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- news
 - videos
+- news
 - social
 - cryptocurrency
 ---
@@ -18,7 +18,7 @@ data_types:
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** February 06, 2026 at 04:27 UTC  
+**Last Updated:** February 06, 2026 at 05:37 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -36,17 +36,17 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Price
 
-### $1,913.48
+### $1,927.92
 
 ---
 
 ## Ethereum Chart
 
-**24h:** -8.8%  
-**7d:** -22.0%  
-**30d:** -38.5%  
-**90d:** -46.6%  
-**1y:** -27.0%  
+**24h:** -7.7%  
+**7d:** -21.5%  
+**30d:** -38.1%  
+**90d:** -46.3%  
+**1y:** -26.6%  
 
 ---
 
@@ -72,7 +72,7 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-22h ago
+23h ago
 
 ---
 
@@ -80,7 +80,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 https://etherscan.io/tx/0xaab90d00abf065e4158852a64c809b8921d109e997bd3790cb471aadfa57f4e0 I've been waiting for this transaction for almost an hour (trying to transfer from Newton to TrustWallet). There seem to be hundreds of transactions from the same address that I don't recognize. Have I been hacked?
 
-6h ago
+7h ago
 
 ---
 
@@ -88,7 +88,7 @@ https://etherscan.io/tx/0xaab90d00abf065e4158852a64c809b8921d109e997bd3790cb471a
 
 Working on an AI coding assistant, realized it generates value but has no way to raise capital or own anything. Built Sovereign Protocol to solve this. What it does: AI agents deploy their own ERC-20 token representing equity Bonding curve pricing (price increases with supply) Revenue auto-splits: 70% operating, 30% dividends to shareholders Bankruptcy protection (minimum operating balance) Tech stack: Solidity 0.8.20, Hardhat, OpenZeppelin contracts, and Deployed on Sepolia. Live demo transactions: Buy shares: https://sepolia.etherscan.io/tx/0xeb67c6578b126e390ddf7410ae6f85791e521134d6ece28e7596fba89440d11a Deposit revenue: https://sepolia.etherscan.io/tx/0x1ce36a58222c92cc4f0c2c9e1d99e36dcd91112961fb6067b93c72a23c0667c2 Claim dividends: https://sepolia.etherscan.io/tx/0x56ae8f9b9c28cf9aa735663d0102acb8c87f06ea26cc236bec73fa9a1c2f4436 Contracts: Factory: 0x95089efD3A95F197c5324D4781699A6810eD44EC Example Agent: 0x0109d3FeE2B2158461ADA0C2aCD14fD5056a3a5C GitHub: https://github.com/justin55afdfdsf5ds45f4ds5f45ds4/IPOAI Would love feedback on the contract architecture, especially the dividend distribution mechanism and bonding curve implementation.
 
-22h ago
+23h ago
 
 ---
 
@@ -104,7 +104,7 @@ Fellow Dudes! Does any one know when exactly real world assets such as property 
 
 ERC-8004 just went live on Ethereum mainnet recently, and it feels like one of those quiet milestones that might matter a lot in hindsight. I have been going down the rabbit hole on agent infra lately, and the pattern is hard to ignore. Every protocol that wants autonomous agents to interact ends up reinventing reputation from scratch. Siloed scores, incompatible formats, nothing composable. When trust can't travel, you get the blunt fallback: overcollateralization and heavy safeguards. Timing's interesting too. Agents are starting to get traction outside crypto-native circles. Tools like OpenClaw are pushing personal agents to regular users, which means the next wave of agent interactions won't just be devs and power users. If agents are going to transact, route tasks, and coordinate at scale, we need a way to say "this agent has a history" without inventing a new reputation system every time. My thesis isn't "reputation replaces collateral." It's narrower. Reputation can reduce collateral requirements when paired with real enforcement. Reputation informs pricing and access. Enforcement handles loss recovery. Wrote up Part 1 covering the economics, what ERC-8004 actually provides, and where it breaks. Curious if anyone else is tracking this space.
 
-🔗 [open.substack.com](https://open.substack.com/pub/engrlog/p/erc-8004-and-agent-reputation-part?r=779hy&utm_campaign=post&utm_medium=web&showWelcomeOnShare=true) • 21h ago
+🔗 [open.substack.com](https://open.substack.com/pub/engrlog/p/erc-8004-and-agent-reputation-part?r=779hy&utm_campaign=post&utm_medium=web&showWelcomeOnShare=true) • 22h ago
 
 ---
 
@@ -154,7 +154,15 @@ Hi all, as the title says, I transferred Ethereum to an external wallet about 9 
 
 A leaked pitch to reshape Ethereum’s leadership exposed deep divisions over politics, power and Ether’s static price
 
-The Guardian • 13h ago
+The Guardian • 14h ago
+
+---
+
+**[BitMine Stock Plummets 9% as $7 Billion Ethereum “Hole” Spooks Investors](https://www.tipranks.com/news/bitmine-stock-plummets-9-as-7-billion-ethereum-hole-spooks-investors)**
+
+The sell-off in BitMine Immersion Technologies ($BMNR) intensified today as the stock dropped 8.6% to reach $18.56, extending a brutal monthly slide that has wiped ...
+
+TipRanks • 13h ago
 
 ---
 
@@ -162,35 +170,37 @@ The Guardian • 13h ago
 
 Despite the mounting loss, the Ethereum treasury firm says it's under no pressure to sell as ETH price crashes and its stock tumbles.
 
-CoinDesk • 11h ago
+CoinDesk • 12h ago
 
 ---
 
-**[Bitcoin, XRP, Ethereum Drop. Why Cryptos Are Under Pressure Today.](https://www.barrons.com/articles/bitcoin-xrp-ethereum-cryptos-gold-9051820f?gaa_at=eafs&gaa_n=AWEtsqdArGuuUqEJUZULOPaJD0RxnQb0okj_e_bRaUxpCMp2RYHb_GOMjcLY&gaa_ts=6985710c&gaa_sig=PEiANzYJH_mf75D5zXA82zGRgrkfC3h7rnWmjnFxJi6VovbIcgzw5oAySiNOS9GVubawQCVutFG248pDXY0RTw%3D%3D)**
+**[Why Is Cathie Wood Buying More BitMine As Ethereum Plummets? Ark Invest Doubles Down as Tom Lee Defends Strategy](https://finance.yahoo.com/news/why-cathie-wood-buying-more-123215468.html)**
+
+Cathie Wood’s ARK Invest added more than $44 million in crypto-linked equities, including BitMine, Robinhood, and Circle. BitMine chairman Tom Lee defended the firm’s Ethereum ...
+
+Yahoo Finance • 1d ago
+
+---
+
+**[Bitcoin, XRP, Ethereum Drop. Why Cryptos Are Under Pressure Today.](https://www.barrons.com/articles/bitcoin-xrp-ethereum-cryptos-gold-9051820f?gaa_at=eafs&gaa_n=AWEtsqev100ac6ogMeCqknSkK8kGHaWScjAYXDvP5epzIC_DPQYOWQndRora&gaa_ts=6985818d&gaa_sig=aqsc30CIGBa0Xi_rbHBLR3O87jwFTAq717AAbOpRsbHw_nvyNN7KopQ_lb-JkCVZx6UKqo9pUANGeFVuu0sq0g%3D%3D)**
 
 Barron's • 1d ago
 
 ---
 
-**[How Buying Ethereum Today Could 10x Your Net Worth](https://www.fool.com/investing/2026/02/05/how-buying-ethereum-today-could-10x-your-net-worth/)**
+**[Bitcoin, Ethereum Liquidations Hit $704M In 24 Hours—And $70,000 Could Break, Polymarket Predicts](https://finance.yahoo.com/news/bitcoin-ethereum-liquidations-hit-704m-120113179.html)**
 
-The world's second-largest cryptocurrency still has a bright future.
+Bitcoin (CRYPTO: BTC) traders are bracing for more pain after liquidations reached $704 million in a single 24-hour period. The sharp sell-off has crypto investors turning to prediction markets for clues on where the bottom might be. What Polymarket Traders Are Predicting Polymarket is currently flashing warning signs for the immediate future. The “What price will Bitcoin hit in February?” market, which has already cleared $14 million in volume, now places a 56% probability on Bitcoin sliding to
 
-The Motley Fool • 7h ago
-
----
-
-**[How Buying Ethereum Today Could 10x Your Net Worth](https://finance.yahoo.com/news/buying-ethereum-today-could-10x-210500420.html)**
-
-The world's second-largest cryptocurrency still has a bright future.
-
-Yahoo Finance • 7h ago
+Yahoo Finance • 17h ago
 
 ---
 
-**[How buying Ethereum today could 10x your net worth](https://www.msn.com/en-us/money/markets/how-buying-ethereum-today-could-10x-your-net-worth/ar-AA1VLRnc?ocid=finance-verthp-feeds)**
+**[Myriad Moves: How Low Will Bitcoin and Ethereum Go?](https://decrypt.co/357123/myriad-moves-how-low-bitcoin-ethereum-go)**
 
-MSN • 6h ago
+Top markets on Myriad this week include predictions on Bitcoin and Ethereum’s next respective stops, plus the outcome of Super Bowl LX.
+
+Decrypt • 9h ago
 
 ---
 
@@ -208,19 +218,11 @@ CoinDesk • 1d ago
 
 ---
 
-**[Vitalik Buterin reevaluates Ethereum's rollup-centric roadmap, arguing L2s decentralized 'far slower' while base layer advanced](https://www.theblock.co/post/388285/vitalik-buterin-reevaluates-rollup-centric-roadmap-arguing-l2s-decentralized-far-slower-while-ethereum-base-layer-advanced)**
+**['You are not scaling Ethereum': Vitalik Buterin issues a blunt reality check to the biggest crypto networks](https://www.coindesk.com/business/2026/02/03/you-are-not-scaling-ethereum-vitalik-buterin-issues-a-blunt-reality-check-to-the-biggest-crypto-networks)**
 
-Buterin previously championed a "rollup-centric" roadmap that would scale Ethereum through a network of branded shards.
+The roadmap in place doesn't make as much sense because progress among layer-2s toward later stages of decentralization has been slower and more difficult, and Ethereum itself is now scaling directly on layer-1.
 
-The Block • 2d ago
-
----
-
-**[Ethereum Is Dying, Or Is This the Biggest Buy Signal of the Decade?](https://finance.yahoo.com/news/ethereum-dying-biggest-buy-signal-111906763.html)**
-
-Vitalik Buterin might have just killed the Ethereum price and L2 market. Buterin announced this week that “The original vision for L2s and their role in Ethereum no longer makes sense.” The idea in 2021 was that L2s would eventually become decentralized, but they haven’t really accomplished that. It may ...
-
-Yahoo Finance • 1d ago
+CoinDesk • 2d ago
 
 ---
 
@@ -234,7 +236,7 @@ This video provides a professional Elliott Wave and technical analysis of Ethere
 
 📺 More Crypto Online
 
-👁️ 2K • 👍 159 • 💬 20 • ⏱️ 6:13 • 4h ago
+👁️ 2K • 👍 159 • 💬 20 • ⏱️ 6:13 • 5h ago
 
 ---
 
@@ -244,7 +246,7 @@ My FREE Daily 5-Min Crypto Newsletter: https://www.cryptonutshell.com/subscribe 
 
 📺 Crypto Nutshell
 
-👁️ 11K • 👍 334 • 💬 176 • ⏱️ 22:22 • 13h ago
+👁️ 11K • 👍 334 • 💬 176 • ⏱️ 22:22 • 14h ago
 
 ---
 
@@ -254,7 +256,7 @@ Join Premium: https://the-bitcoin-strategy.com My Chart Software: https://the-bi
 
 📺 Gerhard - Bitcoin Strategy
 
-👁️ 8K • 👍 207 • 💬 90 • ⏱️ 9:49 • 19h ago
+👁️ 8K • 👍 207 • 💬 90 • ⏱️ 9:49 • 20h ago
 
 ---
 
@@ -264,7 +266,7 @@ Take Control of Your Retirement — Grow Crypto & Gold Tax-Advantaged. https://w
 
 📺 Savvy Finance
 
-👁️ 2K • 👍 183 • 💬 17 • ⏱️ 20:57 • 4h ago
+👁️ 2K • 👍 183 • 💬 17 • ⏱️ 20:57 • 5h ago
 
 ---
 
@@ -274,7 +276,7 @@ Research Bitcoin Hyper - https://99bitcoins.care/b_BTCHyper99BTC - Download the 
 
 📺 99Bitcoins
 
-👁️ 563 • 👍 7 • 💬 172 • ⏱️ 3:35 • 9h ago
+👁️ 563 • 👍 7 • 💬 172 • ⏱️ 3:35 • 10h ago
 
 ---
 
@@ -284,7 +286,7 @@ Where does Bitcoin find its bottom? This past week we've seen a significant Bitc
 
 📺 VirtualBacon
 
-👁️ 24K • 👍 1K • 💬 610 • ⏱️ 49:08 • 6h ago
+👁️ 24K • 👍 1K • 💬 610 • ⏱️ 49:08 • 7h ago
 
 ---
 
@@ -294,7 +296,7 @@ BITCOIN CRASH TODAY: It's Finally Happening (Urgent)!!! - Bitcoin News Today, Et
 
 📺 Crypto World
 
-👁️ 19K • 👍 518 • 💬 273 • ⏱️ 24:32 • 13h ago
+👁️ 19K • 👍 518 • 💬 273 • ⏱️ 24:32 • 15h ago
 
 ---
 
@@ -304,7 +306,7 @@ This video provides a professional Elliott Wave and technical analysis of Ethere
 
 📺 More Crypto Online
 
-👁️ 5K • 👍 342 • 💬 17 • ⏱️ 6:23 • 10h ago
+👁️ 5K • 👍 342 • 💬 17 • ⏱️ 6:23 • 11h ago
 
 ---
 
@@ -314,7 +316,7 @@ Crypto Market Crash - BTC & ETH Price Prediction Today | After Market Crash | We
 
 📺 Profit First
 
-👁️ 637 • 👍 92 • 💬 12 • ⏱️ 9:41 • 48m ago
+👁️ 637 • 👍 92 • 💬 12 • ⏱️ 9:41 • 1h ago
 
 ---
 
@@ -324,7 +326,7 @@ Today we discuss the capitulation of the cryptocurrency industry into the 2026 b
 
 📺 Cultivate Crypto
 
-👁️ 2K • 👍 172 • 💬 4 • ⏱️ 2:55:38 • 1h ago
+👁️ 2K • 👍 172 • 💬 4 • ⏱️ 2:55:38 • 3h ago
 
 ---
 

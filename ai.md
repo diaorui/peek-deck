@@ -3,14 +3,14 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-02-06T04:27:17.957722+00:00'
+updated: '2026-02-06T05:37:39.350530+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
+- videos
 - news
 - repositories
-- videos
 - social
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 AI news, discussions, and developments
 
-**Last Updated:** February 06, 2026 at 04:27 UTC  
+**Last Updated:** February 06, 2026 at 05:37 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -41,7 +41,7 @@ AI news, discussions, and developments
 
 Women in rural communities describe trauma of moderating violent and pornographic content for global tech companies
 
-🔗 [the Guardian](https://www.theguardian.com/global-development/2026/feb/05/in-the-end-you-feel-blank-indias-female-workers-watching-hours-of-abusive-content-to-train-ai) • 17h ago
+🔗 [the Guardian](https://www.theguardian.com/global-development/2026/feb/05/in-the-end-you-feel-blank-indias-female-workers-watching-hours-of-abusive-content-to-train-ai) • 19h ago
 
 ---
 
@@ -49,7 +49,7 @@ Women in rural communities describe trauma of moderating violent and pornographi
 
 I ran a small real-world test today with two kids (ages 8 and 11) using a long-running AI story world I’ve been experimenting with. Instead of one-shot story generation, the system maintains a persistent world state where choices carry over and shape future events. I let them pick the setting — they chose a Minecraft × Harry Potter mashup where they play wizards trying to defeat the Ender Dragon. One thing that made a huge difference: I used their real names as the characters, and the story started in their actual school. The engine generated story text and illustrations each round. They made all the choices. After about 10 rounds, they were constantly laughing, debating which option to pick, and building on each other’s ideas. It felt much more like co-creating a world than listening to a story. When I told them it was bedtime, they didn’t want to stop. They kept asking what would happen next. A few observations that surprised me: Personalization seemed to matter more than anything else. Once it became their world, emotional investment was instant. Although I designed it as a single-player experience, co-play emerged naturally. The shared decision-making and social dynamic massively increased engagement. Both ages stayed fully engaged the whole time. I expected the younger one to drop off sooner, but the persistent world kept them both hooked. One issue I noticed: my “re-immersion” mechanic (an in-world character emotionally reconnecting players after breaks instead of a dry recap) triggered too frequently between consecutive rounds. The repetition was noticeable. This looks like a simple trigger tuning problem (should probably only fire after longer gaps). What I haven’t tested yet: – Whether kids can reconnect naturally after a real multi-hour break – Whether they can retell the story in a coherent way – Whether they’ll come back unprompted the next day The earlier stress tests showed that constraint mechanisms help keep long-running narratives technically coherent. What this small user test suggests is that coherence itself isn’t what kids consciously care about — but it seems to be the infrastructure that makes personalization, consequence, and agency feel real. Curious if others working on long-horizon agents, narrative systems, or co-creative AI have seen similar effects around personalization and persistence.
 
-13h ago
+14h ago
 
 ---
 
@@ -69,7 +69,7 @@ Ran a real-world test this week: Gemma 3 12B vs paid frontier models across actu
 
 **[Simple Machine Learning Testing Tools Guide](https://www.reddit.com/r/artificial/comments/1qwbjhx/simple_machine_learning_testing_tools_guide/)**
 
-🔗 [aivolut.com](https://aivolut.com/blog/simple-machine-learning-testing-tools-guide/) • 23h ago
+🔗 [aivolut.com](https://aivolut.com/blog/simple-machine-learning-testing-tools-guide/) • 1d ago
 
 ---
 
@@ -121,23 +121,7 @@ SpaceX's acquisition of xAI signals a bold push to merge artificial intelligence
 
 OpenAI Frontier is an enterprise platform for building, deploying, and managing AI agents with shared context, onboarding, permissions, and governance.
 
-OpenAI • 20h ago
-
----
-
-**[AI companies want you to stop chatting with bots and start managing them](https://arstechnica.com/information-technology/2026/02/ai-companies-want-you-to-stop-chatting-with-bots-and-start-managing-them/)**
-
-Claude Opus 4.6 and OpenAI Frontier pitch a future of supervising AI agents.
-
-Ars Technica • 5h ago
-
----
-
-**[OpenAI launches a way for enterprises to build and manage AI agents](https://techcrunch.com/2026/02/05/openai-launches-a-way-for-enterprises-to-build-and-manage-ai-agents/)**
-
-OpenAI launched Frontier, a new platform designed for enterprises to build and deploy agents while treating them like human employees.
-
-TechCrunch • 10h ago
+OpenAI • 21h ago
 
 ---
 
@@ -145,23 +129,7 @@ TechCrunch • 10h ago
 
 Entertainment about or made with artificial intelligence has been missing the mark with viewers over the past year.
 
-WIRED • 17h ago
-
----
-
-**[Big Tech’s ‘breathtaking’ $660bn spending spree reignites AI bubble fears](https://www.ft.com/content/0e7f6374-3fd5-46ce-a538-e4b0b8b6e6cd)**
-
-Stocks tumble despite strong earnings reports from most Silicon Valley heavyweights
-
-Financial Times • 1h ago
-
----
-
-**[Restaurant owner speaks out following AI-generated video](https://www.nbcdfw.com/news/local/restaurant-owner-speaks-out-ai-generated-video/3979095/)**
-
-A local restaurant owner found himself at the center of a controversy over a video he never created.
-
-NBC 5 Dallas-Fort Worth • 27m ago
+WIRED • 19h ago
 
 ---
 
@@ -169,7 +137,23 @@ NBC 5 Dallas-Fort Worth • 27m ago
 
 The software space is facing serious market concerns this week, after the release of new AI tools from AI triggered a market sell-off.
 
-CNBC • 7m ago
+CNBC • 1h ago
+
+---
+
+**[Microsoft AI CEO says vibe coding is making software easier to replace](https://www.businessinsider.com/microsoft-ai-ceo-vibe-coding-software-replace-apps-mustafa-suleyman-2026-2)**
+
+Microsoft AI CEO says vibe coding is lowering the barrier to building apps, raising questions about how defensible software will be.
+
+Business Insider • 35m ago
+
+---
+
+**[WTF is the IAB’s AI Accountability for Publishers Act (and what happens next)?](https://digiday.com/media/wtf-is-the-iabs-ai-accountability-for-publishers-act-and-what-happens-next/)**
+
+IAB introduced a draft bill to make AI companies pay for scraping publisher content. How it differs from copyright law, and what comes next.
+
+Digiday • 34m ago
 
 ---
 
@@ -177,19 +161,33 @@ CNBC • 7m ago
 
 Shares in the tech giant fell in after hours trade as investors appeared wary of the sector's big spending plans.
 
-BBC • 4h ago
+BBC • 5h ago
 
 ---
 
 **[Amazon Says It Will Spend $200 Billion This Year on AI Build-Out](https://www.bloomberg.com/news/articles/2026-02-05/amazon-boosts-spending-far-ahead-of-estimates-on-ai-build-out)**
 
-Bloomberg.com • 4h ago
+Bloomberg.com • 5h ago
 
 ---
 
 **[Amazon’s $200 Billion Spending Plan Raises Stakes in A.I. Race](https://www.nytimes.com/2026/02/05/technology/amazon-200-billion-ai.html)**
 
-The New York Times • 4h ago
+The New York Times • 5h ago
+
+---
+
+**[Google Leans Hard Into Its AI-Winner Status](https://www.wsj.com/tech/ai/google-leans-hard-into-its-ai-winner-status-6111835e?gaa_at=eafs&gaa_n=AWEtsqc-7aamBAeYHdOL3gHEpDWVvptnm56jNdliTWUrcaUiOgvLmRQvS9qP&gaa_ts=6985818a&gaa_sig=T_3gF1SEaWSDfGZd5oaRrP6ANbybne0WoKruurRrcSQ7t4WLHPbPJkKVmPCh4R_DLmvWtbzXDNUoYyjTrL51bg%3D%3D)**
+
+The Wall Street Journal • 19h ago
+
+---
+
+**[Why comparisons between AI and human intelligence miss the point](https://theconversation.com/why-comparisons-between-ai-and-human-intelligence-miss-the-point-274621)**
+
+Human intelligence is social and embodied – but AI is very different.
+
+The Conversation • 6h ago
 
 ---
 
@@ -207,7 +205,7 @@ SaaS is the most profitable business model on Earth.1 It’s easy to understand 
 
 **[My AI Adoption Journey](https://news.ycombinator.com/item?id=46903558)**
 
-⬆️ 418 • 💬 114 • 9h ago • [Mitchell Hashimoto](https://mitchellh.com/writing/my-ai-adoption-journey)
+⬆️ 462 • 💬 131 • 10h ago • [Mitchell Hashimoto](https://mitchellh.com/writing/my-ai-adoption-journey)
 
 ---
 
@@ -215,7 +213,7 @@ SaaS is the most profitable business model on Earth.1 It’s easy to understand 
 
 Production-grade Ghidra MCP Server — 132 endpoints, cross-binary documentation transfer, batch analysis, headless mode, and Docker deployment for AI-powered reverse engineering - bethington/ghidra-mcp
 
-⬆️ 291 • 💬 66 • 1d ago • [GitHub](https://github.com/bethington/ghidra-mcp)
+⬆️ 292 • 💬 66 • 1d ago • [GitHub](https://github.com/bethington/ghidra-mcp)
 
 ---
 
@@ -299,7 +297,7 @@ Dominari Securities CEO Kyle Wool and Strategic Wealth Partners CEO Mark Tepper 
 
 📺 Fox Business Clips
 
-👁️ 92K • 👍 1K • 💬 2K • ⏱️ 6:34 • 15h ago
+👁️ 92K • 👍 1K • 💬 2K • ⏱️ 6:34 • 16h ago
 
 ---
 
@@ -309,7 +307,7 @@ Krystal and Saagar discuss tech stocks tumbling amid emerging new fears of job l
 
 📺 Breaking Points
 
-👁️ 245K • 👍 7K • 💬 2K • ⏱️ 24:33 • 11h ago
+👁️ 245K • 👍 7K • 💬 2K • ⏱️ 24:33 • 12h ago
 
 ---
 
@@ -319,7 +317,7 @@ NBC Nightly News anchor Tom Llamas spoke to President Trump about fears of job l
 
 📺 NBC News
 
-👁️ 3K • 👍 31 • 💬 12 • ⏱️ 4:39 • 4h ago
+👁️ 3K • 👍 31 • 💬 12 • ⏱️ 4:39 • 5h ago
 
 ---
 
@@ -339,7 +337,7 @@ Anthropic, one of the world's most influential AI companies, has launched a new 
 
 📺 Sky News
 
-👁️ 13K • 👍 189 • 💬 40 • ⏱️ 5:26 • 6h ago
+👁️ 13K • 👍 189 • 💬 40 • ⏱️ 5:26 • 7h ago
 
 ---
 
@@ -359,7 +357,7 @@ Anthropic is updating its AI model, Claude Opus 4.6, to carry out financial rese
 
 📺 Bloomberg Television
 
-👁️ 39K • 👍 439 • 💬 72 • ⏱️ 3:25 • 8h ago
+👁️ 39K • 👍 439 • 💬 72 • ⏱️ 3:25 • 10h ago
 
 ---
 
@@ -409,7 +407,7 @@ MiniCPM-o 4.5 is a 9B parameter multimodal LLM excelling in vision, speech, and 
 
 `any-to-any` `9.4B`
 
-⬇️ 1,002 • ❤️ 520 • 1h ago
+⬇️ 1,002 • ❤️ 520 • 2h ago
 
 ---
 
@@ -433,7 +431,7 @@ Step 3.5 Flash is an efficient, open-source MoE foundation model (11B active par
 
 `text-generation` `199.4B`
 
-⬇️ 8,686 • ❤️ 452 • 18h ago
+⬇️ 8,686 • ❤️ 452 • 19h ago
 
 ---
 
@@ -465,7 +463,7 @@ ACE-Step 1.5 is an open-source text-to-audio music generation model capable of p
 
 Voxtral-Mini-4B-Realtime-2602 is a 4B-parameter, multilingual speech-to-text model offering near-offline accuracy with <500ms latency. It features a streaming architecture for real-time applications like voice assistants and live subtitling, optimized for on-device deployment.
 
-⬇️ 477 • ❤️ 289 • 18h ago
+⬇️ 477 • ❤️ 289 • 19h ago
 
 ---
 
@@ -638,7 +636,7 @@ Browser automation CLI for AI agents
 
 `TypeScript`
 
-⭐ 12.8k • 🔱 731 • 21h ago
+⭐ 12.8k • 🔱 731 • 22h ago
 
 ---
 
@@ -648,7 +646,7 @@ AI → JSON → UI
 
 `TypeScript`
 
-⭐ 10.0k • 🔱 536 • 9h ago
+⭐ 10.0k • 🔱 536 • 10h ago
 
 ---
 
@@ -658,7 +656,7 @@ LLM驱动的 A/H/美股智能分析器，多数据源行情 + 实时新闻 + Gem
 
 `Python` `agent` `ai` `aigc` `gemini` `llm`
 
-⭐ 9.6k • 🔱 10.1k • 15h ago
+⭐ 9.6k • 🔱 10.1k • 16h ago
 
 ---
 
@@ -668,7 +666,7 @@ The Ultimate Collection of 600+ Agentic Skills for Claude Code/Antigravity/Curso
 
 `Python` `agentic-skills` `ai-agents` `antigravity` `autonomous-coding` `claude-code`
 
-⭐ 7.4k • 🔱 1.6k • 19h ago
+⭐ 7.4k • 🔱 1.6k • 21h ago
 
 ---
 
@@ -722,7 +720,7 @@ An app to monitor the (Codex) situation
 
 `TypeScript` `ai` `codex` `linux` `macos` `tauri-app`
 
-⭐ 2.1k • 🔱 190 • 10h ago
+⭐ 2.1k • 🔱 190 • 12h ago
 
 ---
 

@@ -3,13 +3,13 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-02-06T04:27:17.975606+00:00'
+updated: '2026-02-06T05:37:39.368100+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- news
 - videos
+- news
 - social
 ---
 
@@ -17,7 +17,7 @@ data_types:
 
 Robotics research and industry news
 
-**Last Updated:** February 06, 2026 at 04:27 UTC  
+**Last Updated:** February 06, 2026 at 05:37 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -36,7 +36,7 @@ Robotics research and industry news
 
 From RoboHub🤖 on 𝕏: https://x.com/XRoboHub/status/2019135928384778288
 
-18h ago
+19h ago
 
 ---
 
@@ -44,19 +44,19 @@ From RoboHub🤖 on 𝕏: https://x.com/XRoboHub/status/2019135928384778288
 
 Felt so excited to see the robot I've been working on getting this much attention. Guess I need to step up my UX game though :/
 
-13h ago
+14h ago
 
 ---
 
 **[Alve-x robot arm](https://www.reddit.com/r/robotics/comments/1qx3two/alvex_robot_arm/)**
 
-3h ago
+4h ago
 
 ---
 
 **[Ball-and-Socket… But for Locomotion, Enchanted Tools](https://www.reddit.com/r/robotics/comments/1qx3nuo/ballandsocket_but_for_locomotion_enchanted_tools/)**
 
-3h ago
+4h ago
 
 ---
 
@@ -70,13 +70,13 @@ Felt so excited to see the robot I've been working on getting this much attentio
 
 I learned RL recently, but was unsatisfied with the frameworks available, so a month ago I reached out on here with some ideas and got some great feedback, which has led me to today publishing my library, HelloRL, a modular framework that makes it super easy to go from Actor Critic to TD3. Here is the intro from the repo readme: Why is RL usually so hard? RL algorithms are all similar, but they also have unique implementation details and subtle differences. Every RL framework implements each algorithm from scratch, reproducing many of the same steps across hundreds of lines of code, but with minor implementation differences along the way. Trying to swap between them and keep your code working can be a nightmare. If you want to experiment with a new idea on top of Actor Critic, and then try it on a PPO implementation, you would have to spend hours integrating, and hope you didn’t make a mistake. It's a minefield -- it's so easy to trip yourself up and get something wrong without realising. Introducing HelloRL HelloRL flips this on its head, with a single train function and swappable modules, to build and mix together any RL algorithm easily. HelloRL: A modular library for Reinforcement Learning Built around a single train function that covers every popular algorithm, from discrete online policies like Actor Critic, to continuous offline policies like TD3. Swap modules in and out to mix algorithms together. Go from online to offline learning with just a few easy changes. Follow along with the provided notebooks to make sure you got it right. Build your own custom modules and validate your ideas quickly. https://github.com/i10e-lab/HelloRL Please leave a star ⭐ if you like it.
 
-🔗 [GitHub](https://github.com/i10e-lab/HelloRL) • 5h ago
+🔗 [GitHub](https://github.com/i10e-lab/HelloRL) • 6h ago
 
 ---
 
 **[Getting into robotics at 28](https://www.reddit.com/r/robotics/comments/1qwsvnl/getting_into_robotics_at_28/)**
 
-10h ago
+11h ago
 
 ---
 
@@ -84,7 +84,7 @@ I learned RL recently, but was unsatisfied with the frameworks available, so a m
 
 V1 of my home sentry wake up alarm! Had a lot of fun taking apart this old orbee blaster! Leveraging the absolutely horrendous voltage hungry L298N. I setup a simple circuit leveraging ESP as a microcontroller sending a PMW signal through a single dc motor. ESP receives and transcribes information via Streaming packets over UDP. My pi4 sends packets via a web interface ( created it but can’t attach the image, where you can set a simple timer based on time zone). Additionally for some safety haha - put my pi4 over tail net with a simple UfW firewall to block random devices from finding port22 - also made sure that ESP only accepts packets sent from my pi IP! Let me know if you guys want to see it in action 🪦
 
-20h ago
+21h ago
 
 ---
 
@@ -100,35 +100,13 @@ From Olivier Duchenne on 𝕏: https://x.com/inventorOli/status/2018719028462657
 
 Hy everyone! I'll be quick, I want to build this: Full video: https://www.youtube.com/watch?v=Rh7JuL3PRSY Well, not that specifically. I want to build a cart-pole system, starting with a single inverted pendulum and maybe expanding to a double inverted pendulum later if I can get the first one balancing reliably. For actuation I want to use a BLDC motor with an encoder and a proper driver, so I can turn it into a brushless servo that drives the cart along a rail using a timing belt. I know that could also be done with a stepper motor, and I’m aware of the general components needed (motor + encoder + driver + controller), but I specifically want to do it with a BLDC and learn how to handle it. The cart won't be very heavy (maybe 1-2 kg), so I don't need super high torque, but enough to speed up and slow down cleanly during balancing. What motor should I use? Im planning on using a Teensy or an ESP32 as the controller, but what encoder/driver do you recommend? Thanks in advance!
 
-8h ago
+9h ago
 
 ---
 
 ---
 
 ## Google News: "robotics"
-
-**[China is running the EV playbook on humanoid robots — and it’s working](https://restofworld.org/2026/china-humanoid-robots-unitree-agibot-tesla-optimus/)**
-
-Rest of World • 19h ago
-
----
-
-**[ChatGPT sucks at being a real robot](https://www.vox.com/technology/476657/chatgpt-mit-csail-tesla-humanoid-robot)**
-
-﻿Science fiction promised us humanoids. Do we even want them?
-
-vox.com • 17h ago
-
----
-
-**[I'm a 25-year-old founder who loves robots but too many humanoids are militant and creepy-looking. Things need to change—just look at Elon Musk](https://fortune.com/2026/02/05/25-year-old-robotics-founder-says-too-many-creepy-militant-look-at-elon-musk/)**
-
-Who’s raising our robots? Teaching social norms in the age of humanoid robots.
-
-Fortune • 13h ago
-
----
 
 **[ETM brings its transverse flux motor technology to robotics](https://www.therobotreport.com/etm-brings-its-transverse-flux-motor-technology-to-robotics/)**
 
@@ -138,9 +116,27 @@ The Robot Report • 1d ago
 
 ---
 
-**[AI-powered robots are coming for trade jobs](https://www.politico.com/newsletters/digital-future-daily/2026/02/04/ai-powered-robots-are-coming-for-trade-jobs-00765584)**
+**[China unveils world’s first 'biomimetic AI robot' that smiles, winks](https://interestingengineering.com/ai-robotics/shanghai-unveils-moya-humanoid-robot)**
 
-Politico • 1d ago
+Moya, a humanoid robot unveiled in Shanghai, is designed to walk, smile, and interact like a human using embodied AI.
+
+Interesting Engineering • 7h ago
+
+---
+
+**[This Video of Hilariously Slow Robots Putting Olive Oil in a Bag Is Actually Pretty Impressive](https://gizmodo.com/this-video-of-hilariously-slow-robots-putting-olive-oil-in-a-bag-is-actually-pretty-impressive-2000718202)**
+
+Robots that can actually do things are not slick yet, and it's a relief when robotics companies don't hide from that.
+
+Gizmodo • 14h ago
+
+---
+
+**[ChatGPT sucks at being a real robot](https://www.vox.com/technology/476657/chatgpt-mit-csail-tesla-humanoid-robot)**
+
+﻿Science fiction promised us humanoids. Do we even want them?
+
+vox.com • 18h ago
 
 ---
 
@@ -148,7 +144,7 @@ Politico • 1d ago
 
 Firms are working to make the motors that drive robots more efficient and cheaper.
 
-BBC • 4h ago
+BBC • 5h ago
 
 ---
 
@@ -156,7 +152,7 @@ BBC • 4h ago
 
 The potential independent, temporary commission is part of a bipartisan effort meant to better inform future legislation, the Trump administration and relevant federal agencies.
 
-FedScoop • 8h ago
+FedScoop • 9h ago
 
 ---
 
@@ -164,7 +160,7 @@ FedScoop • 8h ago
 
 The retailer’s $330 million investment, slated to start this year, is part of a larger effort to upgrade all 42 of its regional distribution facilities.
 
-Supply Chain Dive • 13h ago
+Supply Chain Dive • 14h ago
 
 ---
 
@@ -172,15 +168,23 @@ Supply Chain Dive • 13h ago
 
 A dispatch from the bucolic Chicago neighborhood that's the latest battleground between tech and cities over food delivery robots.
 
-Fast Company • 18h ago
+Fast Company • 19h ago
 
 ---
 
-**[Faraday Future Launches Three Series of Robot Products in Las Vegas at the Annual NADA Show, Aiming to Become the First U.S. Company to Deliver Both Humanoid and Bionic Robots](https://finance.yahoo.com/news/faraday-future-launches-three-series-042100434.html)**
+**[Tesla's robotics ambitions rest on the knife-edge of US-China trade relations due to its supply chain — the majority of critical materials and suppliers are located in China](https://www.tomshardware.com/tech-industry/teslas-robotics-ambitions-rest-on-the-knife-edge-of-us-china-trade-relations-due-to-its-supply-chain-the-majority-of-critical-materials-and-suppliers-are-located-in-china)**
 
-LAS VEGAS, February 05, 2026--Please replace the release dated Feb. 4, 2026 with the following corrected version due to revisions to the first subheadline. It should read:
+In a reversal of trade dynamics over cutting-edge silicon, China holds the cards in robotics manufacturing.
 
-Yahoo Finance • 1d ago
+Tom's Hardware • 16h ago
+
+---
+
+**[AgriFood Signals: UAE's Kitopi nabs $50m, new Defra investments in UK ag, Carbon Robotics launches AI model](https://agfundernews.com/agrifood-signals-uaes-kitopi-nabs-50m-new-defra-investments-in-uk-ag-carbon-robotics-launches-ai-model)**
+
+The UK's Defra will invest further funds into its Farming Innovation Programme, Carbon Robotics unveils AI to identify plants.
+
+AgFunderNews • 8h ago
 
 ---
 
@@ -234,7 +238,7 @@ Crea tu Web con la IA aquí: https://hostinger.com/inteligencia (Usa el cupón I
 
 📺 Inteligencia Artificial
 
-👁️ 26K • 👍 1K • 💬 67 • ⏱️ 13:44 • 9h ago
+👁️ 26K • 👍 1K • 💬 67 • ⏱️ 13:44 • 10h ago
 
 ---
 
