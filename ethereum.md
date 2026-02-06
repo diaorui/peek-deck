@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-02-06T15:08:40.498056+00:00'
+updated: '2026-02-06T16:05:37.066133+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- news
 - social
-- videos
+- news
 - cryptocurrency
+- videos
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** February 06, 2026 at 15:08 UTC  
+**Last Updated:** February 06, 2026 at 16:05 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -36,17 +36,17 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Price
 
-### $1,946.36
+### $1,973.07
 
 ---
 
 ## Ethereum Chart
 
-**24h:** -1.0%  
-**7d:** -20.9%  
-**30d:** -37.6%  
-**90d:** -45.9%  
-**1y:** -26.0%  
+**24h:** +1.8%  
+**7d:** -18.8%  
+**30d:** -36.0%  
+**90d:** -44.5%  
+**1y:** -24.1%  
 
 ---
 
@@ -72,7 +72,7 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-9h ago
+10h ago
 
 ---
 
@@ -80,7 +80,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 Hey everyone, I keep running into the same issue when trying to move ETH between chains. I want to swap real native ETH, not wrapped versions, and I would rather avoid centralized bridges if possible. I am also hoping for something simple and fast, with no accounts and no long setup or verification process. Does anything like this actually exist today, or is it still mostly theoretical? I would appreciate hearing from anyone who has real experience with this. Thanks.
 
-2h ago
+3h ago
 
 ---
 
@@ -88,7 +88,7 @@ Hey everyone, I keep running into the same issue when trying to move ETH between
 
 Vitalik: role of L2s has changed, Hegotá upgrade headliner proposals, Lido v3 live
 
-🔗 [Ethereal news](https://ethereal.news/ethereal-news-weekly-10/) • 1h ago
+🔗 [Ethereal news](https://ethereal.news/ethereal-news-weekly-10/) • 2h ago
 
 ---
 
@@ -96,7 +96,7 @@ Vitalik: role of L2s has changed, Hegotá upgrade headliner proposals, Lido v3 l
 
 Good morning, could anyone recommend some good reading material to learn more about the Ethereum blockchain and smart contract development/deployment? I'm an IT professional, so even fairly technical material is fine, but I'd like to have a good overview first before moving on to the development side of things.
 
-8h ago
+9h ago
 
 ---
 
@@ -112,13 +112,13 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 https://etherscan.io/tx/0xaab90d00abf065e4158852a64c809b8921d109e997bd3790cb471aadfa57f4e0 I've been waiting for this transaction for almost an hour (trying to transfer from Newton to TrustWallet). There seem to be hundreds of transactions from the same address that I don't recognize. Have I been hacked? Update: It's fixed now, just had to wait a couple hours.
 
-17h ago
+18h ago
 
 ---
 
 **[Incorrect Aave Transaction History list](https://www.reddit.com/r/ethereum/comments/1qwsgej/incorrect_aave_transaction_history_list/)**
 
-21h ago
+22h ago
 
 ---
 
@@ -170,35 +170,27 @@ Yahoo Finance • 2d ago
 
 Despite the mounting loss, the Ethereum treasury firm says it's under no pressure to sell as ETH price crashes and its stock tumbles.
 
-CoinDesk • 21h ago
+CoinDesk • 22h ago
 
 ---
 
-**[Tom Lee's BitMine Hits 7-Month Stock Low as Ethereum Paper Losses Reach $8 Billion](https://decrypt.co/357114/tom-lee-bitmine-7-month-stock-low-ethereum-paper-losses-8-billion)**
+**[BitMine Stock Plummets 9% as $7 Billion Ethereum “Hole” Spooks Investors](https://www.tipranks.com/news/bitmine-stock-plummets-9-as-7-billion-ethereum-hole-spooks-investors)**
 
-Shares in publicly traded Ethereum treasury firm BitMine Immersion Technologies have fallen to a seven-month low as unrealized losses mount.
+The sell-off in BitMine Immersion Technologies ($BMNR) intensified today as the stock dropped 8.6% to reach $18.56, extending a brutal monthly slide that has wiped ...
 
-Decrypt • 20h ago
-
----
-
-**[Bit Digital details January Ethereum holdings and staking metrics](https://ca.finance.yahoo.com/news/bit-digital-details-january-ethereum-133800013.html)**
-
-Bit Digital Inc (NASDAQ:BTBT) has reported its January Ethereum treasury and staking metrics, including details on its crypto holdings and its equity stake in WhiteFiber. As of January 31, 2026, the company held approximately 155,239.4 ether. Based on a closing Ethereum price of about...
-
-Yahoo! Finance Canada • 1h ago
-
----
-
-**[Bitcoin, XRP, Ethereum Drop. Why Cryptos Are Under Pressure Today.](https://www.barrons.com/articles/bitcoin-xrp-ethereum-cryptos-gold-9051820f?gaa_at=eafs&gaa_n=AWEtsqdquArWDCB_ef08yUEC0kDaD-qk6sG69WDgk825ILivp4DeZgE231TF&gaa_ts=6985fa3b&gaa_sig=3lNW2tXz2FgSmnL-1cUcmKzpEp2IAVqSVJviDfyiRoc9kMzKqID0IAuxDyVyIi9e455XebXUgniuvscqa8K_xQ%3D%3D)**
-
-Barron's • 1d ago
+TipRanks • 1d ago
 
 ---
 
 **[Ethereum Price Prediction: Alarming Bearish Signals Suggest ETH Could Plunge Below $2,000](https://www.binance.com/en/square/post/35999941537161)**
 
 Binance • 2d ago
+
+---
+
+**[Bitcoin, XRP, Ethereum Drop. Why Cryptos Are Under Pressure Today.](https://www.barrons.com/articles/bitcoin-xrp-ethereum-cryptos-gold-9051820f?gaa_at=eafs&gaa_n=AWEtsqdbSzLBCOGZmuFzGiFI92aX82wTrIiIErc4F9x585OyImaKOq2ACpN8&gaa_ts=698614ba&gaa_sig=cFReOcceoWl_uX-nVCE2cejciNOKnc9Ie-i5DNzhpJuvcTkxMFITCbHCWn6cZRgsRJlfrcuKYON6sAR5asQsPw%3D%3D)**
+
+Barron's • 1d ago
 
 ---
 
@@ -210,19 +202,27 @@ CoinDesk • 1d ago
 
 ---
 
-**[Vitalik Buterin Moves $29 Million Worth of Ethereum—Here's Why](https://decrypt.co/356914/vitalik-buterin-moves-29-million-worth-of-ethereum-heres-why)**
+**[Ethereum at 3-year low against Bitcoin? – History says THIS comes next…](https://ambcrypto.com/ethereum-at-3-year-low-against-bitcoin-history-says-this-comes-next/)**
 
-Vitalik Buterin moves 14,000 ETH worth $29M to support Ethereum Foundation during "mild austerity" period. His now hold 227K ETH.
+Buy the fear or sell the fear? Inside Ethereum trader’s dilemma.
 
-Decrypt • 1d ago
+AMBCrypto • 20h ago
 
 ---
 
-**[Ethereum Is Dying, Or Is This the Biggest Buy Signal of the Decade?](https://finance.yahoo.com/news/ethereum-dying-biggest-buy-signal-111906763.html)**
+**[XRP Sentiment Remains Strong as Bitcoin and Ethereum Turn Bearish](https://coinmarketcap.com/academy/article/xrp-sentiment-remains-strong-as-bitcoin-and-ethereum-turn-bearish)**
 
-Vitalik Buterin might have just killed the Ethereum price and L2 market. Buterin announced this week that “The original vision for L2s and their role in Ethereum no longer makes sense.” The idea in 2021 was that L2s would eventually become decentralized, but they haven’t really accomplished that. It may ...
+Santiment's Positive/Negative sentiment indicator measures the ratio of positive to negative social media mentions for a crypto asset.
 
-Yahoo Finance • 2d ago
+CoinMarketCap • 1d ago
+
+---
+
+**[Why is Crypto Crashing Today? Bitcoin, Ethereum, XRP, Solana Plunge $900 Billion in 22 Days | Explained](https://sundayguardianlive.com/business/why-is-crypto-crashing-today-bitcoin-ethereum-xrp-solana-plunge-as-market-loses-900-billion-in-22-days-explained-168590/)**
+
+Crypto Bitcoin Price Crash: Bitcoin and major altcoins plunge as crypto market loses $900B, driven by liquidations, ETF outflows and macroeconomic uncertainty.
+
+The Sunday Guardian • 22h ago
 
 ---
 
@@ -236,7 +236,7 @@ This video provides a professional Elliott Wave and technical analysis of Ethere
 
 📺 More Crypto Online
 
-👁️ 4K • 👍 288 • 💬 37 • ⏱️ 5:12 • 5h ago
+👁️ 4K • 👍 288 • 💬 37 • ⏱️ 5:12 • 6h ago
 
 ---
 
@@ -246,7 +246,7 @@ Uhh... so... is anyone else getting that strange feeling that something big is a
 
 📺 Money Rules - Investing Tips 
 
-👁️ 490 • 👍 108 • 💬 22 • ⏱️ 13:13 • 16m ago
+👁️ 490 • 👍 108 • 💬 22 • ⏱️ 13:13 • 1h ago
 
 ---
 
@@ -256,7 +256,7 @@ My FREE Daily 5-Min Crypto Newsletter: https://www.cryptonutshell.com/subscribe 
 
 📺 Crypto Nutshell
 
-👁️ 13K • 👍 386 • 💬 151 • ⏱️ 22:22 • 23h ago
+👁️ 13K • 👍 386 • 💬 151 • ⏱️ 22:22 • 1d ago
 
 ---
 
@@ -266,7 +266,7 @@ ETHEREUM ETH PRICE PREDICTION 2026 Join the Premium Signal Group for trade setup
 
 📺 Cilinix Crypto
 
-👁️ 191 • 👍 13 • 💬 2 • ⏱️ 4:44 • 5h ago
+👁️ 191 • 👍 13 • 💬 2 • ⏱️ 4:44 • 6h ago
 
 ---
 
@@ -276,7 +276,7 @@ Take Control of Your Retirement — Grow Crypto & Gold Tax-Advantaged. https://w
 
 📺 Savvy Finance
 
-👁️ 6K • 👍 301 • 💬 9 • ⏱️ 20:57 • 15h ago
+👁️ 6K • 👍 301 • 💬 9 • ⏱️ 20:57 • 16h ago
 
 ---
 
@@ -286,7 +286,7 @@ This video provides a professional Elliott Wave and technical analysis of Ethere
 
 📺 More Crypto Online
 
-👁️ 4K • 👍 204 • 💬 38 • ⏱️ 6:13 • 15h ago
+👁️ 4K • 👍 204 • 💬 38 • ⏱️ 6:13 • 16h ago
 
 ---
 
@@ -306,7 +306,7 @@ This video provides a professional Elliott Wave and technical analysis of Ethere
 
 📺 More Crypto Online
 
-👁️ 5K • 👍 343 • 💬 31 • ⏱️ 6:23 • 21h ago
+👁️ 5K • 👍 343 • 💬 31 • ⏱️ 6:23 • 22h ago
 
 ---
 
@@ -326,7 +326,7 @@ Where does Bitcoin find its bottom? This past week we've seen a significant Bitc
 
 📺 VirtualBacon
 
-👁️ 38K • 👍 2K • 💬 578 • ⏱️ 49:08 • 17h ago
+👁️ 38K • 👍 2K • 💬 578 • ⏱️ 49:08 • 18h ago
 
 ---
 
