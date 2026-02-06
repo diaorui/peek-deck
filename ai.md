@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-02-06T06:57:12.460592+00:00'
+updated: '2026-02-06T07:49:37.976775+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- repositories
-- videos
 - news
+- videos
 - social
+- repositories
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** February 06, 2026 at 06:57 UTC  
+**Last Updated:** February 06, 2026 at 07:49 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -41,7 +41,7 @@ AI news, discussions, and developments
 
 Women in rural communities describe trauma of moderating violent and pornographic content for global tech companies
 
-🔗 [the Guardian](https://www.theguardian.com/global-development/2026/feb/05/in-the-end-you-feel-blank-indias-female-workers-watching-hours-of-abusive-content-to-train-ai) • 20h ago
+🔗 [the Guardian](https://www.theguardian.com/global-development/2026/feb/05/in-the-end-you-feel-blank-indias-female-workers-watching-hours-of-abusive-content-to-train-ai) • 21h ago
 
 ---
 
@@ -49,7 +49,7 @@ Women in rural communities describe trauma of moderating violent and pornographi
 
 I found this experiment interesting because it doesn’t frame AI as “breaking” a system. Instead, it treats AI as a new kind of participant interacting with infrastructure that was built around human assumptions consistency, behavior, timing, and intent. What stood out to me is that many identity systems aren’t verifying who someone is so much as how human they appear over time. That feels increasingly fragile when the actor on the other side isn’t human at all. This doesn’t feel like a single vulnerability. It feels like a design mismatch. Curious how people here think identity and verification should evolve in an AI-native world better detection, new primitives, or abandoning certain assumptions entirely.
 
-🔗 [mpost.io](https://mpost.io/humanity-protocol-experiment-reveals-how-ai-can-bypass-kyc-and-exploit-digital-trust/) • 53m ago
+🔗 [mpost.io](https://mpost.io/humanity-protocol-experiment-reveals-how-ai-can-bypass-kyc-and-exploit-digital-trust/) • 1h ago
 
 ---
 
@@ -57,7 +57,7 @@ I found this experiment interesting because it doesn’t frame AI as “breaking
 
 I ran a small real-world test today with two kids (ages 8 and 11) using a long-running AI story world I’ve been experimenting with. Instead of one-shot story generation, the system maintains a persistent world state where choices carry over and shape future events. I let them pick the setting — they chose a Minecraft × Harry Potter mashup where they play wizards trying to defeat the Ender Dragon. One thing that made a huge difference: I used their real names as the characters, and the story started in their actual school. The engine generated story text and illustrations each round. They made all the choices. After about 10 rounds, they were constantly laughing, debating which option to pick, and building on each other’s ideas. It felt much more like co-creating a world than listening to a story. When I told them it was bedtime, they didn’t want to stop. They kept asking what would happen next. A few observations that surprised me: Personalization seemed to matter more than anything else. Once it became their world, emotional investment was instant. Although I designed it as a single-player experience, co-play emerged naturally. The shared decision-making and social dynamic massively increased engagement. Both ages stayed fully engaged the whole time. I expected the younger one to drop off sooner, but the persistent world kept them both hooked. One issue I noticed: my “re-immersion” mechanic (an in-world character emotionally reconnecting players after breaks instead of a dry recap) triggered too frequently between consecutive rounds. The repetition was noticeable. This looks like a simple trigger tuning problem (should probably only fire after longer gaps). What I haven’t tested yet: – Whether kids can reconnect naturally after a real multi-hour break – Whether they can retell the story in a coherent way – Whether they’ll come back unprompted the next day The earlier stress tests showed that constraint mechanisms help keep long-running narratives technically coherent. What this small user test suggests is that coherence itself isn’t what kids consciously care about — but it seems to be the infrastructure that makes personalization, consequence, and agency feel real. Curious if others working on long-horizon agents, narrative systems, or co-creative AI have seen similar effects around personalization and persistence.
 
-15h ago
+16h ago
 
 ---
 
@@ -121,7 +121,7 @@ Elon Musk's X and Grok platforms are facing increased scrutiny from authorities 
 
 OpenAI Frontier is an enterprise platform for building, deploying, and managing AI agents with shared context, onboarding, permissions, and governance.
 
-OpenAI • 23h ago
+OpenAI • 1d ago
 
 ---
 
@@ -129,13 +129,13 @@ OpenAI • 23h ago
 
 Shares in the tech giant fell in after hours trade as investors appeared wary of the sector's big spending plans.
 
-BBC • 6h ago
+BBC • 7h ago
 
 ---
 
 **[Amazon Says It Will Spend $200 Billion This Year on AI Build-Out](https://www.bloomberg.com/news/articles/2026-02-05/amazon-boosts-spending-far-ahead-of-estimates-on-ai-build-out)**
 
-bloomberg.com • 7h ago
+bloomberg.com • 8h ago
 
 ---
 
@@ -147,13 +147,13 @@ The New York Times • 7h ago
 
 **[Blackstone Is Finalizing $3.5 Billion Loan for Australia AI Firm](https://www.bloomberg.com/news/articles/2026-02-06/blackstone-is-finalizing-3-5-billion-loan-for-australia-ai-firm)**
 
-bloomberg.com • 1h ago
+bloomberg.com • 2h ago
 
 ---
 
 **[The Robot Revolution Is Real. Tesla, Hyundai, and More Stocks to Play It.](https://www.barrons.com/articles/ai-robots-tesla-hyundai-stocks-6629c2c3?gaa_at=eafs&gaa_n=AWEtsqf4v3Ju-QgJpjGnwXR1f6M9UPJPB8Juw7NY2s5tyrwC7dq0yM2AbbRl&gaa_ts=6985942c&gaa_sig=J4RPMWBu2xHY_a9dLR6IYtJofa-TZk-B9cPUM_9sYrJoE6P23Q6hdRa7sqGjjoVh6L9V0Tm0LTgCaO_pkuYg5A%3D%3D)**
 
-Barron's • 57m ago
+Barron's • 1h ago
 
 ---
 
@@ -161,7 +161,7 @@ Barron's • 57m ago
 
 The software space is facing serious market concerns this week, after the release of new AI tools from AI triggered a market sell-off.
 
-CNBC • 2h ago
+CNBC • 3h ago
 
 ---
 
@@ -177,7 +177,7 @@ cnn.com • 1d ago
 
 The new tool adapts a workplace assistant for white-collar specific industries.
 
-ABC News • 9h ago
+ABC News • 10h ago
 
 ---
 
@@ -185,7 +185,7 @@ ABC News • 9h ago
 
 Entertainment about or made with artificial intelligence has been missing the mark with viewers over the past year.
 
-WIRED • 20h ago
+WIRED • 21h ago
 
 ---
 
@@ -195,7 +195,7 @@ WIRED • 20h ago
 
 **[My AI Adoption Journey](https://news.ycombinator.com/item?id=46903558)**
 
-⬆️ 500 • 💬 156 • 11h ago • [Mitchell Hashimoto](https://mitchellh.com/writing/my-ai-adoption-journey)
+⬆️ 500 • 💬 156 • 12h ago • [Mitchell Hashimoto](https://mitchellh.com/writing/my-ai-adoption-journey)
 
 ---
 
@@ -285,7 +285,7 @@ Krystal and Saagar discuss tech stocks tumbling amid emerging new fears of job l
 
 📺 Breaking Points
 
-👁️ 264K • 👍 7K • 💬 2K • ⏱️ 24:33 • 13h ago
+👁️ 264K • 👍 7K • 💬 2K • ⏱️ 24:33 • 14h ago
 
 ---
 
@@ -295,7 +295,7 @@ NBC Nightly News anchor Tom Llamas spoke to President Trump about fears of job l
 
 📺 NBC News
 
-👁️ 4K • 👍 37 • 💬 14 • ⏱️ 4:39 • 6h ago
+👁️ 4K • 👍 37 • 💬 14 • ⏱️ 4:39 • 7h ago
 
 ---
 
@@ -315,7 +315,7 @@ Dominari Securities CEO Kyle Wool and Strategic Wealth Partners CEO Mark Tepper 
 
 📺 Fox Business Clips
 
-👁️ 95K • 👍 1K • 💬 2K • ⏱️ 6:34 • 18h ago
+👁️ 95K • 👍 1K • 💬 2K • ⏱️ 6:34 • 19h ago
 
 ---
 
@@ -405,7 +405,7 @@ MiniCPM-o 4.5 is a 9B parameter multimodal LLM excelling in vision, speech, and 
 
 `any-to-any` `9.4B`
 
-⬇️ 1,002 • ❤️ 539 • 3h ago
+⬇️ 1,002 • ❤️ 539 • 4h ago
 
 ---
 
@@ -429,7 +429,7 @@ Step 3.5 Flash is an efficient, open-source MoE foundation model (11B active par
 
 `text-generation` `199.4B`
 
-⬇️ 8,686 • ❤️ 455 • 20h ago
+⬇️ 8,686 • ❤️ 455 • 21h ago
 
 ---
 
@@ -461,7 +461,7 @@ ACE-Step 1.5 is an open-source text-to-audio music generation model capable of p
 
 Voxtral-Mini-4B-Realtime-2602 is a 4B-parameter, multilingual speech-to-text model offering near-offline accuracy with <500ms latency. It features a streaming architecture for real-time applications like voice assistants and live subtitling, optimized for on-device deployment.
 
-⬇️ 477 • ❤️ 300 • 20h ago
+⬇️ 477 • ❤️ 300 • 21h ago
 
 ---
 
@@ -563,7 +563,7 @@ Cross-Team Collaboration improves software quality by enabling multiple LLM agen
 
 LingBot-World is an open-source world simulator with high-fidelity dynamics, long-term memory capabilities, and real-time interactivity for diverse environments.
 
-▲ 116 • 💬 2 • ⭐ 2,551 • 8d ago
+▲ 116 • 💬 2 • ⭐ 2,551 • 9d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2601.20540) • [💻 code](https://github.com/Robbyant/lingbot-world/) • [🔗 project](https://technology.robbyant.com/lingbot-world)
 
@@ -664,7 +664,7 @@ The Ultimate Collection of 600+ Agentic Skills for Claude Code/Antigravity/Curso
 
 `Python` `agentic-skills` `ai-agents` `antigravity` `autonomous-coding` `claude-code`
 
-⭐ 7.5k • 🔱 1.6k • 5m ago
+⭐ 7.5k • 🔱 1.6k • 58m ago
 
 ---
 
@@ -708,7 +708,7 @@ OpenSource Claude Cowork. A desktop AI assistant that helps you with programming
 
 Humanizer 的汉化版本，Claude Code Skills，旨在消除文本中 AI 生成的痕迹。
 
-⭐ 2.6k • 🔱 251 • 17d ago
+⭐ 2.6k • 🔱 251 • 18d ago
 
 ---
 
@@ -718,7 +718,7 @@ An app to monitor the (Codex) situation
 
 `TypeScript` `ai` `codex` `linux` `macos` `tauri-app`
 
-⭐ 2.2k • 🔱 189 • 13h ago
+⭐ 2.2k • 🔱 189 • 14h ago
 
 ---
 

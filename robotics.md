@@ -3,13 +3,13 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-02-06T06:57:12.478595+00:00'
+updated: '2026-02-06T07:49:37.994452+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- videos
 - news
+- videos
 - social
 ---
 
@@ -17,7 +17,7 @@ data_types:
 
 Robotics research and industry news
 
-**Last Updated:** February 06, 2026 at 06:57 UTC  
+**Last Updated:** February 06, 2026 at 07:49 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -34,7 +34,7 @@ Robotics research and industry news
 
 **[Ball-and-Socket… But for Locomotion, Enchanted Tools](https://www.reddit.com/r/robotics/comments/1qx3nuo/ballandsocket_but_for_locomotion_enchanted_tools/)**
 
-5h ago
+6h ago
 
 ---
 
@@ -42,7 +42,7 @@ Robotics research and industry news
 
 From RoboHub🤖 on 𝕏: https://x.com/XRoboHub/status/2019135928384778288
 
-20h ago
+21h ago
 
 ---
 
@@ -50,13 +50,13 @@ From RoboHub🤖 on 𝕏: https://x.com/XRoboHub/status/2019135928384778288
 
 Felt so excited to see the robot I've been working on getting this much attention. Guess I need to step up my UX game though :/
 
-15h ago
+16h ago
 
 ---
 
 **[Alve-x robot arm](https://www.reddit.com/r/robotics/comments/1qx3two/alvex_robot_arm/)**
 
-5h ago
+6h ago
 
 ---
 
@@ -70,7 +70,7 @@ Felt so excited to see the robot I've been working on getting this much attentio
 
 I learned RL recently, but was unsatisfied with the frameworks available, so a month ago I reached out on here with some ideas and got some great feedback, which has led me to today publishing my library, HelloRL, a modular framework that makes it super easy to go from Actor Critic to TD3. Here is the intro from the repo readme: Why is RL usually so hard? RL algorithms are all similar, but they also have unique implementation details and subtle differences. Every RL framework implements each algorithm from scratch, reproducing many of the same steps across hundreds of lines of code, but with minor implementation differences along the way. Trying to swap between them and keep your code working can be a nightmare. If you want to experiment with a new idea on top of Actor Critic, and then try it on a PPO implementation, you would have to spend hours integrating, and hope you didn’t make a mistake. It's a minefield -- it's so easy to trip yourself up and get something wrong without realising. Introducing HelloRL HelloRL flips this on its head, with a single train function and swappable modules, to build and mix together any RL algorithm easily. HelloRL: A modular library for Reinforcement Learning Built around a single train function that covers every popular algorithm, from discrete online policies like Actor Critic, to continuous offline policies like TD3. Swap modules in and out to mix algorithms together. Go from online to offline learning with just a few easy changes. Follow along with the provided notebooks to make sure you got it right. Build your own custom modules and validate your ideas quickly. https://github.com/i10e-lab/HelloRL Please leave a star ⭐ if you like it.
 
-🔗 [GitHub](https://github.com/i10e-lab/HelloRL) • 7h ago
+🔗 [GitHub](https://github.com/i10e-lab/HelloRL) • 8h ago
 
 ---
 
@@ -78,13 +78,13 @@ I learned RL recently, but was unsatisfied with the frameworks available, so a m
 
 Took a long break, but I’m back working on my Metalhead dog robot. Here’s a short video. Still reprinting some parts, but progress is finally happening again. Video is reversed for visual effect — this is actually a teardown. Any thoughts or suggestions are welcome.
 
-🔗 [youtube.com](https://youtube.com/shorts/l7a4Yfauo5Q?si=ivTumi5yYCQA7SB2) • 4h ago
+🔗 [youtube.com](https://youtube.com/shorts/l7a4Yfauo5Q?si=ivTumi5yYCQA7SB2) • 5h ago
 
 ---
 
 **[Getting into robotics at 28](https://www.reddit.com/r/robotics/comments/1qwsvnl/getting_into_robotics_at_28/)**
 
-12h ago
+13h ago
 
 ---
 
@@ -92,7 +92,7 @@ Took a long break, but I’m back working on my Metalhead dog robot. Here’s a 
 
 V1 of my home sentry wake up alarm! Had a lot of fun taking apart this old orbee blaster! Leveraging the absolutely horrendous voltage hungry L298N. I setup a simple circuit leveraging ESP as a microcontroller sending a PMW signal through a single dc motor. ESP receives and transcribes information via Streaming packets over UDP. My pi4 sends packets via a web interface ( created it but can’t attach the image, where you can set a simple timer based on time zone). Additionally for some safety haha - put my pi4 over tail net with a simple UfW firewall to block random devices from finding port22 - also made sure that ESP only accepts packets sent from my pi IP! Let me know if you guys want to see it in action 🪦
 
-22h ago
+23h ago
 
 ---
 
@@ -128,7 +128,7 @@ The Next Platform • 2d ago
 
 The retailer’s $330 million investment, slated to start this year, is part of a larger effort to upgrade all 42 of its regional distribution facilities.
 
-Supply Chain Dive • 15h ago
+Supply Chain Dive • 16h ago
 
 ---
 
@@ -136,7 +136,7 @@ Supply Chain Dive • 15h ago
 
 Firms are working to make the motors that drive robots more efficient and cheaper.
 
-BBC • 6h ago
+BBC • 7h ago
 
 ---
 
@@ -158,13 +158,13 @@ South China Morning Post • 2d ago
 
 ﻿Science fiction promised us humanoids. Do we even want them?
 
-vox.com • 19h ago
+vox.com • 20h ago
 
 ---
 
 **[China is running the EV playbook on humanoid robots — and it’s working](https://restofworld.org/2026/china-humanoid-robots-unitree-agibot-tesla-optimus/)**
 
-Rest of World • 21h ago
+Rest of World • 22h ago
 
 ---
 
@@ -224,7 +224,7 @@ Crea tu Web con la IA aquí: https://hostinger.com/inteligencia (Usa el cupón I
 
 📺 Inteligencia Artificial
 
-👁️ 29K • 👍 1K • 💬 73 • ⏱️ 13:44 • 11h ago
+👁️ 29K • 👍 1K • 💬 73 • ⏱️ 13:44 • 12h ago
 
 ---
 

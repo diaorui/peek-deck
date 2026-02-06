@@ -3,14 +3,14 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-02-06T06:57:12.475189+00:00'
+updated: '2026-02-06T07:49:37.991286+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- videos
-- cryptocurrency
 - news
+- cryptocurrency
+- videos
 - social
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** February 06, 2026 at 06:57 UTC  
+**Last Updated:** February 06, 2026 at 07:49 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -72,7 +72,7 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-56m ago
+1h ago
 
 ---
 
@@ -88,7 +88,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 https://etherscan.io/tx/0xaab90d00abf065e4158852a64c809b8921d109e997bd3790cb471aadfa57f4e0 I've been waiting for this transaction for almost an hour (trying to transfer from Newton to TrustWallet). There seem to be hundreds of transactions from the same address that I don't recognize. Have I been hacked? Update: It's fixed now, just had to wait a couple hours.
 
-9h ago
+10h ago
 
 ---
 
@@ -96,7 +96,7 @@ https://etherscan.io/tx/0xaab90d00abf065e4158852a64c809b8921d109e997bd3790cb471a
 
 Good morning, could anyone recommend some good reading material to learn more about the Ethereum blockchain and smart contract development/deployment? I'm an IT professional, so even fairly technical material is fine, but I'd like to have a good overview first before moving on to the development side of things.
 
-35m ago
+1h ago
 
 ---
 
@@ -120,7 +120,7 @@ Working on an AI coding assistant, realized it generates value but has no way to
 
 ERC-8004 just went live on Ethereum mainnet recently, and it feels like one of those quiet milestones that might matter a lot in hindsight. I have been going down the rabbit hole on agent infra lately, and the pattern is hard to ignore. Every protocol that wants autonomous agents to interact ends up reinventing reputation from scratch. Siloed scores, incompatible formats, nothing composable. When trust can't travel, you get the blunt fallback: overcollateralization and heavy safeguards. Timing's interesting too. Agents are starting to get traction outside crypto-native circles. Tools like OpenClaw are pushing personal agents to regular users, which means the next wave of agent interactions won't just be devs and power users. If agents are going to transact, route tasks, and coordinate at scale, we need a way to say "this agent has a history" without inventing a new reputation system every time. My thesis isn't "reputation replaces collateral." It's narrower. Reputation can reduce collateral requirements when paired with real enforcement. Reputation informs pricing and access. Enforcement handles loss recovery. Wrote up Part 1 covering the economics, what ERC-8004 actually provides, and where it breaks. Curious if anyone else is tracking this space.
 
-🔗 [open.substack.com](https://open.substack.com/pub/engrlog/p/erc-8004-and-agent-reputation-part?r=779hy&utm_campaign=post&utm_medium=web&showWelcomeOnShare=true) • 23h ago
+🔗 [open.substack.com](https://open.substack.com/pub/engrlog/p/erc-8004-and-agent-reputation-part?r=779hy&utm_campaign=post&utm_medium=web&showWelcomeOnShare=true) • 1d ago
 
 ---
 
@@ -156,7 +156,7 @@ I’d like a more technical and realistic analysis of Ethereum and how things ar
 
 A leaked pitch to reshape Ethereum’s leadership exposed deep divisions over politics, power and Ether’s static price
 
-The Guardian • 15h ago
+The Guardian • 16h ago
 
 ---
 
@@ -172,7 +172,7 @@ Yahoo Finance • 1d ago
 
 Despite the mounting loss, the Ethereum treasury firm says it's under no pressure to sell as ETH price crashes and its stock tumbles.
 
-CoinDesk • 13h ago
+CoinDesk • 14h ago
 
 ---
 
@@ -188,7 +188,7 @@ TipRanks • 15h ago
 
 One of these chains is shipping upgrades, and the other is dead in the water.
 
-The Motley Fool • 42m ago
+The Motley Fool • 1h ago
 
 ---
 
@@ -202,7 +202,7 @@ Barron's • 1d ago
 
 Why crypto is falling? Bitcoin price tests $70K, XRP below $1.40, ETH at $2,068. $775M liquidated as Fed hawkishness and institutional outflows hammer markets.
 
-financemagnates.com • 20h ago
+financemagnates.com • 21h ago
 
 ---
 
@@ -210,7 +210,7 @@ financemagnates.com • 20h ago
 
 XRP has plunged 15% on the day as crypto markets turn bearish, with Ethereum, Dogecoin, and Solana also sinking alongside Bitcoin.
 
-Decrypt • 14h ago
+Decrypt • 15h ago
 
 ---
 
@@ -224,7 +224,7 @@ Binance • 1d ago
 
 The world's second-largest cryptocurrency still has a bright future.
 
-Yahoo Finance • 9h ago
+Yahoo Finance • 10h ago
 
 ---
 
@@ -238,7 +238,7 @@ My FREE Daily 5-Min Crypto Newsletter: https://www.cryptonutshell.com/subscribe 
 
 📺 Crypto Nutshell
 
-👁️ 11K • 👍 349 • 💬 143 • ⏱️ 22:22 • 15h ago
+👁️ 11K • 👍 349 • 💬 143 • ⏱️ 22:22 • 16h ago
 
 ---
 
@@ -258,7 +258,7 @@ Join Premium: https://the-bitcoin-strategy.com My Chart Software: https://the-bi
 
 📺 Gerhard - Bitcoin Strategy
 
-👁️ 8K • 👍 208 • 💬 68 • ⏱️ 9:49 • 21h ago
+👁️ 8K • 👍 208 • 💬 68 • ⏱️ 9:49 • 22h ago
 
 ---
 
@@ -268,7 +268,7 @@ THIS IS HUGE FOR ETHEREUM FEBRUARY 5.
 
 📺 Overkill Trading
 
-👁️ 1K • 👍 75 • 💬 8 • ⏱️ 2:52 • 4h ago
+👁️ 1K • 👍 75 • 💬 8 • ⏱️ 2:52 • 5h ago
 
 ---
 
@@ -278,7 +278,7 @@ BITCOIN CRASH TODAY: It's Finally Happening (Urgent)!!! - Bitcoin News Today, Et
 
 📺 Crypto World
 
-👁️ 20K • 👍 520 • 💬 177 • ⏱️ 24:32 • 16h ago
+👁️ 20K • 👍 520 • 💬 177 • ⏱️ 24:32 • 17h ago
 
 ---
 
@@ -288,7 +288,7 @@ Where does Bitcoin find its bottom? This past week we've seen a significant Bitc
 
 📺 VirtualBacon
 
-👁️ 28K • 👍 1K • 💬 538 • ⏱️ 49:08 • 8h ago
+👁️ 28K • 👍 1K • 💬 538 • ⏱️ 49:08 • 9h ago
 
 ---
 
@@ -308,7 +308,7 @@ Research Bitcoin Hyper - https://99bitcoins.care/b_BTCHyper99BTC - Download the 
 
 📺 99Bitcoins
 
-👁️ 610 • 👍 7 • 💬 67 • ⏱️ 3:35 • 11h ago
+👁️ 610 • 👍 7 • 💬 67 • ⏱️ 3:35 • 12h ago
 
 ---
 
