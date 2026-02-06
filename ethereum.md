@@ -3,14 +3,14 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-02-06T19:13:45.266551+00:00'
+updated: '2026-02-06T19:55:39.617703+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- social
 - cryptocurrency
 - videos
+- social
 - news
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** February 06, 2026 at 19:13 UTC  
+**Last Updated:** February 06, 2026 at 19:55 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -80,7 +80,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 As the crypto winter (bearmarket) is coming and i haven't planned to sell my ethereum, I'm willing to stake it, the problem is that i'm not interested in running a node because i'm having less than 32 ETH in my portfolio, what's the best way to do it without headache/maximizing APR? Thanks for advices
 
-1h ago
+2h ago
 
 ---
 
@@ -88,7 +88,7 @@ As the crypto winter (bearmarket) is coming and i haven't planned to sell my eth
 
 Hey everyone, I keep running into the same issue when trying to move ETH between chains. I want to swap real native ETH, not wrapped versions, and I would rather avoid centralized bridges if possible. I am also hoping for something simple and fast, with no accounts and no long setup or verification process. Does anything like this actually exist today, or is it still mostly theoretical? I would appreciate hearing from anyone who has real experience with this. Thanks.
 
-6h ago
+7h ago
 
 ---
 
@@ -96,7 +96,7 @@ Hey everyone, I keep running into the same issue when trying to move ETH between
 
 Vitalik: role of L2s has changed, Hegotá upgrade headliner proposals, Lido v3 live
 
-🔗 [Ethereal news](https://ethereal.news/ethereal-news-weekly-10/) • 5h ago
+🔗 [Ethereal news](https://ethereal.news/ethereal-news-weekly-10/) • 6h ago
 
 ---
 
@@ -104,7 +104,7 @@ Vitalik: role of L2s has changed, Hegotá upgrade headliner proposals, Lido v3 l
 
 It’s sad to say but we are definitely in a bear market. Tom Lee remains very bullish and his narrative makes a lot of sense. Once clarity hits and financial institutions start going wild on the blockchain chain ethereum should benefit from it. How long do you think this downturn will last? If you’re are here Tom please give us hope.
 
-1h ago
+2h ago
 
 ---
 
@@ -112,7 +112,7 @@ It’s sad to say but we are definitely in a bear market. Tom Lee remains very b
 
 [ Removed by Reddit on account of violating the content policy. ]
 
-1h ago
+2h ago
 
 ---
 
@@ -120,7 +120,7 @@ It’s sad to say but we are definitely in a bear market. Tom Lee remains very b
 
 Good morning, could anyone recommend some good reading material to learn more about the Ethereum blockchain and smart contract development/deployment? I'm an IT professional, so even fairly technical material is fine, but I'd like to have a good overview first before moving on to the development side of things.
 
-12h ago
+13h ago
 
 ---
 
@@ -136,7 +136,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 https://etherscan.io/tx/0xaab90d00abf065e4158852a64c809b8921d109e997bd3790cb471aadfa57f4e0 I've been waiting for this transaction for almost an hour (trying to transfer from Newton to TrustWallet). There seem to be hundreds of transactions from the same address that I don't recognize. Have I been hacked? Update: It's fixed now, just had to wait a couple hours.
 
-21h ago
+22h ago
 
 ---
 
@@ -244,7 +244,7 @@ Uhh... so... is anyone else getting that strange feeling that something big is a
 
 📺 Money Rules - Investing Tips 
 
-👁️ 5K • 👍 976 • 💬 405 • ⏱️ 13:13 • 4h ago
+👁️ 5K • 👍 976 • 💬 405 • ⏱️ 13:13 • 5h ago
 
 ---
 
@@ -294,7 +294,7 @@ Take Control of Your Retirement — Grow Crypto & Gold Tax-Advantaged. https://w
 
 📺 Savvy Finance
 
-👁️ 7K • 👍 325 • 💬 10 • ⏱️ 20:57 • 19h ago
+👁️ 7K • 👍 325 • 💬 10 • ⏱️ 20:57 • 20h ago
 
 ---
 
@@ -304,7 +304,7 @@ ETHEREUM ETH PRICE PREDICTION 2026 Join the Premium Signal Group for trade setup
 
 📺 Cilinix Crypto
 
-👁️ 331 • 👍 13 • 💬 10 • ⏱️ 4:44 • 9h ago
+👁️ 331 • 👍 13 • 💬 10 • ⏱️ 4:44 • 10h ago
 
 ---
 
@@ -314,7 +314,7 @@ This video provides a professional Elliott Wave and technical analysis of Ethere
 
 📺 More Crypto Online
 
-👁️ 4K • 👍 204 • 💬 30 • ⏱️ 6:13 • 19h ago
+👁️ 4K • 👍 204 • 💬 30 • ⏱️ 6:13 • 20h ago
 
 ---
 

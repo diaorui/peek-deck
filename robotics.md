@@ -3,13 +3,13 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-02-06T19:13:45.269687+00:00'
+updated: '2026-02-06T19:55:39.620865+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- social
 - videos
+- social
 - news
 ---
 
@@ -17,7 +17,7 @@ data_types:
 
 Robotics research and industry news
 
-**Last Updated:** February 06, 2026 at 19:13 UTC  
+**Last Updated:** February 06, 2026 at 19:55 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -50,7 +50,7 @@ From CyberRobo on 𝕏: https://x.com/CyberRobooo/status/2019598569909743755
 
 Hello everyone! Recently I tried to test the SmolVLA model from a paper that HuggingFace published, that uses relatively small VLA model for Imitation Learning on a SO-101 arm. They have a library called LeRobot that has a lot of stuff to handle robots. First I tried to run a pretrained model, which didn't work. Then I tried finetuning the model on a dataset that I collected. I gradually moved from 30 episodes to 120 with a simple task of picking up a cube and putting it in the designated place. The robot still can't solve the task at all and frankly does not improve with the increase in data amount. So my question is the following: have anybody experimented with LeRobot + smolvla + SO-101? What is your experience? Did you manage to run it? Basically, how much more time can I expect to sink into this or should I switch to another model, or from a robot to a simulator first, or something else?
 
-2h ago
+3h ago
 
 ---
 
@@ -66,7 +66,7 @@ Felt so excited to see the robot I've been working on getting this much attentio
 
 Cartwheel Robotics shutting down is a reminder of how misaligned capital can be. Great teams struggle for funding while massive checks keep flowing elsewhere. Scott’s advice hits home: “No money is better than the wrong money.” https://preview.redd.it/ov7omrf40vhg1.png?width=716&format=png&auto=webp&s=b0ce7c7ceaa4607cfdc5de89775cfcddf883c3fe
 
-7h ago
+8h ago
 
 ---
 
@@ -74,7 +74,7 @@ Cartwheel Robotics shutting down is a reminder of how misaligned capital can be.
 
 A new 2026 market report highlights a massive shift toward mass production, led by giants like Tesla (aiming for 1 million Optimus units), Boston Dynamics, and Figure AI. From logistics and healthcare to customer-facing retail, general-purpose humanoids are becoming an operational reality.
 
-🔗 [GlobeNewswire News Room](https://www.globenewswire.com/news-release/2026/02/04/3232234/0/en/Humanoid-Robotics-Market-in-2026-Transformative-Trends-and-Technological-Advancements.html) • 8h ago
+🔗 [GlobeNewswire News Room](https://www.globenewswire.com/news-release/2026/02/04/3232234/0/en/Humanoid-Robotics-Market-in-2026-Transformative-Trends-and-Technological-Advancements.html) • 9h ago
 
 ---
 
@@ -88,7 +88,7 @@ From RoboHub🤖 on 𝕏: https://x.com/XRoboHub/status/2019135928384778288
 
 **[Alve-x robot arm](https://www.reddit.com/r/robotics/comments/1qx3two/alvex_robot_arm/)**
 
-17h ago
+18h ago
 
 ---
 
@@ -96,7 +96,7 @@ From RoboHub🤖 on 𝕏: https://x.com/XRoboHub/status/2019135928384778288
 
 Hello guys I bought this jetson orin super developer kit. Using it for a fully automated robot I am building. Right now I am ordering the parts and want to use a Lidar L-1 and 2 cameras Oak-D pro from luxonis. However I am running into an issue the Lidar requires 12 volt so I cant power that through the jetson the cameras are fine to plug in the usb ports. But reading the manual the usb ports are only rated for up to 0.9 A while the cameras can take up to 2A under heavy load. Luxonis provides a usb splitter where one can be for power and one for data. Now my issue is finding a good reliable and affordable PDB or any other solution that can split the power coming from my battery into the lidar jetson and the 2 cameras.
 
-11h ago
+12h ago
 
 ---
 
@@ -104,7 +104,7 @@ Hello guys I bought this jetson orin super developer kit. Using it for a fully a
 
 Took a long break, but I’m back working on my Metalhead dog robot. Here’s a short video. Still reprinting some parts, but progress is finally happening again. Video is reversed for visual effect — this is actually a teardown. Any thoughts or suggestions are welcome.
 
-🔗 [youtube.com](https://youtube.com/shorts/l7a4Yfauo5Q?si=ivTumi5yYCQA7SB2) • 16h ago
+🔗 [youtube.com](https://youtube.com/shorts/l7a4Yfauo5Q?si=ivTumi5yYCQA7SB2) • 17h ago
 
 ---
 
@@ -122,7 +122,7 @@ Rest of World • 1d ago
 
 After failing to deliver its promised "Tesla killer" EV, Faraday Future is hoping it's robot has what it takes to finally pull ahead of Elon.
 
-Electrek • 6h ago
+Electrek • 7h ago
 
 ---
 
@@ -246,7 +246,7 @@ AI in a kids toy does what experts warned. Can we trust AI? Get Inside AI's excl
 
 📺 InsideAI
 
-👁️ 749K • 👍 32K • 💬 5K • ⏱️ 15:47 • 5d ago
+👁️ 749K • 👍 32K • 💬 5K • ⏱️ 15:47 • 6d ago
 
 ---
 
@@ -266,7 +266,7 @@ Credits: IShowSpeed Live ishowspeed started beefing with an ai robot on stream a
 
 📺 WClipMedia
 
-👁️ 620K • 👍 4K • 💬 24 • ⏱️ 0:26 • 2d ago
+👁️ 620K • 👍 4K • 💬 24 • ⏱️ 0:26 • 3d ago
 
 ---
 
@@ -282,7 +282,7 @@ Credits: IShowSpeed Live ishowspeed started beefing with an ai robot on stream a
 
 📺 Tesla Owners Silicon Valley
 
-👁️ 18K • 👍 700 • 💬 29 • ⏱️ 0:40 • 22h ago
+👁️ 18K • 👍 700 • 💬 29 • ⏱️ 0:40 • 23h ago
 
 ---
 

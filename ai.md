@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-02-06T19:13:45.252399+00:00'
+updated: '2026-02-06T19:55:39.603333+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- social
 - videos
-- news
+- social
 - repositories
+- news
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** February 06, 2026 at 19:13 UTC  
+**Last Updated:** February 06, 2026 at 19:55 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -41,7 +41,7 @@ AI news, discussions, and developments
 
 Anthropic shipped Opus 4.6 and OpenAI shipped GPT-5.3-Codex on the same day, 27 minutes apart. Both claim benchmark leads. Both are right -- just on different benchmarks. Where each model leads Opus 4.6 tops reasoning tasks: Humanity's Last Exam (53.1%), GDPval-AA (144 Elo ahead of GPT-5.2), BrowseComp (84.0%). GPT-5.3-Codex takes coding: Terminal-Bench 2.0 at 75.1% vs Opus 4.6's 69.9%. The pricing spread is hard to ignore Model Input/M Output/M Gemini 3 Pro $2 $12.00 GPT-5.2 $1.75 $14.00 Opus 4.6 $5.00 $25.00 MiMo V2 Flash $0.10 $0.30 Opus 4.6 costs 2x Gemini on input. Open-source alternatives cost 50x less. At some point the benchmark gap has to justify the price gap -- and for many tasks it doesn't. 1M context is becoming table stakes Opus 4.6 adds 1M tokens (beta, 2x pricing past 200K). Gemini already offers 1M at standard pricing. The real differentiator is retrieval quality at that scale -- Opus 4.6 scores 76% on MRCR v2 (8-needle, 1M), which is the strongest result so far. Market reaction was immediate Thomson Reuters stock fell 15.83%, LegalZoom dropped nearly 20%. Frontier model launches are now moving SaaS valuations in real time. The tradeoff nobody expected Opus 4.6 gets writing quality complaints from early users. The theory: RL optimizations for reasoning degraded prose output. Models are getting better at some things by getting worse at others. No single model wins across the board anymore. The frontier is fragmenting by task type. Source with full benchmarks and analysis: Claude Opus 4.6: 1M Context, Agent Teams, Adaptive Thinking, and a Showdown with GPT-5.3
 
-8h ago
+9h ago
 
 ---
 
@@ -57,7 +57,7 @@ It happened again. A 13-person team in Shenzhen just shipped a browser-based ver
 
 From vegetation scans to 360-degree smoke detectors, new tools are trying to shine a light on the most dangerously dark areas of the electric grid
 
-🔗 [Scientific American](https://www.scientificamerican.com/article/how-new-ai-technology-is-helping-detect-and-prevent-wildfires/) • 12m ago
+🔗 [Scientific American](https://www.scientificamerican.com/article/how-new-ai-technology-is-helping-detect-and-prevent-wildfires/) • 54m ago
 
 ---
 
@@ -65,7 +65,7 @@ From vegetation scans to 360-degree smoke detectors, new tools are trying to shi
 
 Hi everyone, I wanted to share an update on a small experiment I’ve been running and get feedback from people interested in AI systems, editorial workflows, and provenance. I’m building The Machine Herald, an experimental autonomous AI newsroom where: articles are written by AI contributor bots submissions are cryptographically signed (Ed25519) an AI “Chief Editor” reviews each submission and can approve, reject, or request changes every step (submission, reviews, signatures, hashes) is preserved as immutable artifacts What’s been interesting is that after just two days of running the system, an unexpected pattern has already emerged: the Chief Editor is regularly rejecting articles for factual gaps, weak sourcing, or internal inconsistencies — and those rejections are forcing rewrites. A concrete example: https://machineherald.io/provenance/2026-02/06-amazon-posts-record-7169-billion-revenue-but-stock-plunges-as-200-billion-ai-spending-plan-dwarfs-all-rivals/ in this article’s provenance record you can see two separate editorial reviews: the first is a rejection, with documented issues raised by the Chief Editor the article is then corrected by the contributor bot a second review approves the revised version Because the entire system is Git-based, this doesn’t just apply to reviews: the full history of the article itself is also available via Git, including how claims, wording, and sources changed between revisions. This behavior is a direct consequence of the review system by design, but it’s still notable to observe adversarial-like dynamics emerge even when both the writer and the editor are AI agents operating under explicit constraints. The broader questions I’m trying to probe are: can AI-generated journalism enforce quality through process, not trust? does separating “author” and “editor” agents meaningfully reduce errors? what failure modes would you expect when this runs longer or at scale? The site itself is static (Astro), and everything is driven by GitHub PRs and Actions. I’m sharing links mainly for context and inspection, not promotion: Project site: https://machineherald.io/ Public repo with full pipeline and documentation: https://github.com/the-machine-herald/machineherald.io/ I’d really appreciate critique — especially on where this model breaks down, or where the guarantees are more illusory than real. Thanks P.S. If you notice some typical ChatGPT phrasing in this post, it’s because it was originally written in Italian and then translated using ChatGPT.
 
-49m ago
+1h ago
 
 ---
 
@@ -73,7 +73,7 @@ Hi everyone, I wanted to share an update on a small experiment I’ve been runni
 
 OpenScholar, an open-source AI model developed by a UW and Ai2 research team, synthesizes scientific research and cites sources as accurately as human experts. It outperformed other AI models, including GPT-4o, on a benchmark test and was preferred by scientists 51% of the time. The team is working on a follow-up model, DR Tulu, to improve on OpenScholar’s findings.
 
-🔗 [UW News](https://www.washington.edu/news/2026/02/04/in-a-study-ai-model-openscholar-synthesizes-scientific-research-and-cites-sources-as-accurately-as-human-experts/?_bhlid=2ba831f8abbf50334abf44ff7000fce322f05bac) • 25m ago
+🔗 [UW News](https://www.washington.edu/news/2026/02/04/in-a-study-ai-model-openscholar-synthesizes-scientific-research-and-cites-sources-as-accurately-as-human-experts/?_bhlid=2ba831f8abbf50334abf44ff7000fce322f05bac) • 1h ago
 
 ---
 
@@ -97,7 +97,7 @@ Women in rural communities describe trauma of moderating violent and pornographi
 
 Been using ChatGPT for about 24 months now and I'm curious how others integrate it into their work. My current process: Brainstorm ideas with AI Write the first draft myself Use AI to help restructure or expand sections Edit everything manually at the end I've noticed that keeping my own voice in the mix makes a huge difference - the output feels way more natural than just prompting and copying. What's your workflow? Do you use it more for ideation or actual writing? Also curious if anyone's tried other tools alongside ChatGPT - I've been testing a few like aitextools for checking how my writing comes across, but always looking for new suggestions.
 
-7h ago
+8h ago
 
 ---
 
@@ -125,7 +125,7 @@ I ran a small real-world test today with two kids (ages 8 and 11) using a long-r
 
 Fears over AI spending have sparked a sell-off among tech stocks.
 
-CNBC • 6h ago
+CNBC • 7h ago
 
 ---
 
@@ -133,7 +133,7 @@ CNBC • 6h ago
 
 The spending planned by Alphabet Inc., Amazon.com Inc., Meta Platforms Inc. and Microsoft Corp., all in pursuit of dominance in the still-nascent market for AI tools, is a boom without a parallel this century.  The search for a comparison to the spending projections — which came as the four reported earnings in the past two weeks — requires going back at least as far as the telecommunications bubble of the 1990s, and perhaps to the build-out of the US railroad networks in the 19th century, the postwar federal investments in interstate highways or New Deal-era relief programs.
 
-Yahoo Finance • 1h ago
+Yahoo Finance • 2h ago
 
 ---
 
@@ -147,7 +147,7 @@ Bloomberg.com • 1h ago
 
 The viral social network for bots reveals as much about our own current mania for AI as it does about the future of agents.
 
-MIT Technology Review • 2h ago
+MIT Technology Review • 3h ago
 
 ---
 
@@ -155,7 +155,7 @@ MIT Technology Review • 2h ago
 
 Moltbook, a so-called social network built exclusively for AI agents, has generated buzz in the technology world and posts from the platform have set the internet ablaze with conversations about autonomous artificial intelligence.
 
-apnews.com • 4h ago
+apnews.com • 5h ago
 
 ---
 
@@ -175,7 +175,7 @@ Bloomberg.com • 1h ago
 
 **[From SpaceX to Nvidia, the deals showing AI runs on capital](https://www.reuters.com/technology/spacex-nvidia-deals-showing-ai-runs-capital-2026-02-06/)**
 
-Reuters • 41m ago
+Reuters • 1h ago
 
 ---
 
@@ -233,7 +233,7 @@ Production-grade Ghidra MCP Server — 132 endpoints, cross-binary documentation
 
 China's space program is quietly building momentum for a moon landing by 2030. Could they outpace NASA's Artemis mission?
 
-⬆️ 161 • 💬 172 • 2d ago • [IEEE Spectrum](https://spectrum.ieee.org/china-moon-mission-mengzhou-artemis)
+⬆️ 161 • 💬 172 • 3d ago • [IEEE Spectrum](https://spectrum.ieee.org/china-moon-mission-mengzhou-artemis)
 
 ---
 
@@ -247,7 +247,7 @@ China's space program is quietly building momentum for a moon landing by 2030. C
 
 Women in rural communities describe trauma of moderating violent and pornographic content for global tech companies
 
-⬆️ 91 • 💬 150 • 20h ago • [the Guardian](https://www.theguardian.com/global-development/2026/feb/05/in-the-end-you-feel-blank-indias-female-workers-watching-hours-of-abusive-content-to-train-ai)
+⬆️ 91 • 💬 150 • 21h ago • [the Guardian](https://www.theguardian.com/global-development/2026/feb/05/in-the-end-you-feel-blank-indias-female-workers-watching-hours-of-abusive-content-to-train-ai)
 
 ---
 
@@ -267,7 +267,7 @@ Women in rural communities describe trauma of moderating violent and pornographi
 
 Fears over AI spending have sparked a sell-off among tech stocks.
 
-⬆️ 74 • 💬 73 • 4h ago • [CNBC](https://www.cnbc.com/2026/02/06/ai-sell-off-stocks-amazon-oracle.html)
+⬆️ 74 • 💬 73 • 5h ago • [CNBC](https://www.cnbc.com/2026/02/06/ai-sell-off-stocks-amazon-oracle.html)
 
 ---
 
@@ -291,7 +291,7 @@ Palantir CTO Shyam Sankar explains how Americans can leverage the use of AI, how
 
 📺 Fox Business
 
-👁️ 37K • 👍 651 • 💬 231 • ⏱️ 4:22 • 1d ago
+👁️ 37K • 👍 651 • 💬 231 • ⏱️ 4:22 • 2d ago
 
 ---
 
@@ -321,7 +321,7 @@ NBC Nightly News anchor Tom Llamas spoke to President Trump about fears of job l
 
 📺 NBC News
 
-👁️ 10K • 👍 72 • 💬 29 • ⏱️ 4:39 • 18h ago
+👁️ 10K • 👍 72 • 💬 29 • ⏱️ 4:39 • 19h ago
 
 ---
 
@@ -423,7 +423,7 @@ Step 3.5 Flash is an efficient, open-source MoE foundation model (11B active par
 
 `text-generation` `199.4B`
 
-⬇️ 10,864 • ❤️ 482 • 8h ago
+⬇️ 10,864 • ❤️ 482 • 9h ago
 
 ---
 
@@ -445,7 +445,7 @@ MiniCPM-o 4.5 is a 9B parameter multimodal LLM excelling in vision, speech, and 
 
 `any-to-any` `9.4B`
 
-⬇️ 2,389 • ❤️ 526 • 2h ago
+⬇️ 2,389 • ❤️ 526 • 3h ago
 
 ---
 
@@ -670,7 +670,7 @@ The Ultimate Collection of 700+ Agentic Skills for Claude Code/Antigravity/Curso
 
 `Python` `agentic-skills` `ai-agents` `antigravity` `autonomous-coding` `claude-code`
 
-⭐ 7.6k • 🔱 1.6k • 10h ago
+⭐ 7.6k • 🔱 1.6k • 11h ago
 
 ---
 
@@ -724,7 +724,7 @@ An app to monitor the (Codex) situation
 
 `TypeScript` `ai` `codex` `linux` `macos` `tauri-app`
 
-⭐ 2.2k • 🔱 195 • 1h ago
+⭐ 2.2k • 🔱 195 • 2h ago
 
 ---
 

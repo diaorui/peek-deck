@@ -3,14 +3,14 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-02-06T19:13:45.260655+00:00'
+updated: '2026-02-06T19:55:39.611795+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- social
 - cryptocurrency
 - videos
+- social
 - news
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** February 06, 2026 at 19:13 UTC  
+**Last Updated:** February 06, 2026 at 19:55 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -87,7 +87,7 @@ Rank #1
 
 Thanks. God bless you all
 
-5h ago
+6h ago
 
 ---
 
@@ -101,13 +101,13 @@ Thanks. God bless you all
 
 I am selling my car. I am selling my house. I am selling my extra kidney. I am selling my wife's jewelry (don't tell her). TO BUY MORE BITCOIN. You guys are actually pathetic. You see a little 30% correction from the $125k top and you start crying for the SEC? You start begging for a refund? This is the Great Filtering. This is where the tourists get sent back to the fiat mines to work for the rest of their lives. Look at the volume. Look at the wallet addresses. BlackRock isn't selling. Larry Fink isn't selling. I AM NOT SELLING. We are flushing out the weak hands so we can soar to $250k in 2027 without you. I hope you sold. I hope you panicked. I’ll be waving at you from the Citadel while you’re stuck using CBDCs to buy bug paste. WE ARE SO BACK. 🚀💎🙌
 
-20h ago
+21h ago
 
 ---
 
 **[Are ya winning, son?](https://www.reddit.com/r/Bitcoin/comments/1qxgezi/are_ya_winning_son/)**
 
-6h ago
+7h ago
 
 ---
 
@@ -121,7 +121,7 @@ I am selling my car. I am selling my house. I am selling my extra kidney. I am s
 
 I accumulated 1.18 more and bought a total of 1.60 BTC today. I had been patiently waiting for a pullback in the $66,000–$70,000 range, and the opportunity finally presented itself. If the market corrects further, I’m prepared to add more around the $53,000 level as well. This is a personal, well-considered decision aligned with my financial position. Even in an extreme downside scenario, it would not materially impact me. I’m not recommending this to anyone—cryptocurrency remains highly volatile and risky. This approach is only suitable for those who can tolerate significant risk and are financially comfortable even in the event of a loss. Despite widespread bearish predictions ranging from $16K to $10K, I’m sticking to my own strategy and long-term conviction. Having already achieved returns far exceeding my current investment through futures and forex, I’m comfortable taking this calculated exposure. Staying disciplined, focused, and patient. Good luck to everyone.
 
-5h ago
+6h ago
 
 ---
 
@@ -129,13 +129,13 @@ I accumulated 1.18 more and bought a total of 1.60 BTC today. I had been patient
 
 So bitcoin is going back up today Friday. Wonder why? Hmmm🤔 It seems that the manipulators are back at it, pumping up btc to get you thinking is on its way back up. Friday’s afternoon they usually start to sell again and Sundays it is usually negative for btc. With the fear index the way it is and the economy, some see btc going to 58,000 even up to the 38,000. Too many retail keep falling for the pump and dump, they don’t buy when is down and once they see the pump they start to buy to find out in a few hours or days they are under and sell at a loss. Buy and hold long term specially when the market is as volatile as it is since end 25 beginning 2026. Stop selling at a loss and stay the course. 👍🏼
 
-2h ago
+3h ago
 
 ---
 
 **[We are so back](https://www.reddit.com/r/Bitcoin/comments/1qxpeyz/we_are_so_back/)**
 
-54m ago
+1h ago
 
 ---
 
@@ -169,7 +169,7 @@ Bithumbs 2,000 BTC Error: Won Intended Cryptocurrency exchange mistakenly sent 2
 
 An internal reward distribution mistake briefly sent bitcoin prices sharply lower on South Korea’s Bithumb exchange after users were mistakenly credited with large phantom balances.
 
-CoinDesk • 2h ago
+CoinDesk • 3h ago
 
 ---
 
@@ -177,7 +177,7 @@ CoinDesk • 2h ago
 
 Bithumb reportedly made a mistake that led to the accidental deposit of large amounts of Bitcoin to various users.
 
-Bitcoin Magazine • 2h ago
+Bitcoin Magazine • 3h ago
 
 ---
 
@@ -185,7 +185,7 @@ Bitcoin Magazine • 2h ago
 
 The original cryptocurrency swung down below $60,000 only to jolt back up.
 
-Fortune • 35m ago
+Fortune • 1h ago
 
 ---
 
@@ -193,7 +193,7 @@ Fortune • 35m ago
 
 California man accused of sending fake ransom note to extort bitcoin from Savannah Guthrie's family as her 84-year-old mother Nancy remains missing from Tucson home.
 
-Fox News • 19h ago
+Fox News • 20h ago
 
 ---
 
@@ -209,7 +209,7 @@ ABC7 Los Angeles • 20h ago
 
 Ransom notes for Savannah Guthrie's mom demanded millions in Bitcoin. Here's why criminals like it.
 
-USA Today • 3h ago
+USA Today • 4h ago
 
 ---
 
@@ -223,7 +223,7 @@ Investor's Business Daily • 20h ago
 
 Michael Saylor reinforces commitment to bitcoin and quantum security on Q4 earnings call.
 
-CoinDesk • 8h ago
+CoinDesk • 9h ago
 
 ---
 
@@ -247,7 +247,7 @@ CoinDesk • 8h ago
 
 Some market watchers have suggested $70,000 is a key level to watch and a break below that could lead bitcoin to decline further.
 
-⬆️ 58 • 💬 1 • 23h ago • [CNBC](https://www.cnbc.com/2026/02/05/bitcoin-price-today-70000-in-focus.html)
+⬆️ 58 • 💬 1 • 1d ago • [CNBC](https://www.cnbc.com/2026/02/05/bitcoin-price-today-70000-in-focus.html)
 
 ---
 
@@ -255,7 +255,7 @@ Some market watchers have suggested $70,000 is a key level to watch and a break 
 
 Bitcoin outlook turns bearish as Pivotus’ Richard Farr targets BTC at $0 and Michael Burry warns of a “death spiral.” Get the risks and key levels now.
 
-⬆️ 52 • 💬 60 • 17h ago • [Seeking Alpha](https://seekingalpha.com/news/4547997-bitcoin-s-price-target-at-zero)
+⬆️ 52 • 💬 60 • 18h ago • [Seeking Alpha](https://seekingalpha.com/news/4547997-bitcoin-s-price-target-at-zero)
 
 ---
 
@@ -325,7 +325,7 @@ Bitcoin #Crypto #Finance Bitcoin's sudden collapse may have come from a hidden s
 
 📺 The Wolf Of All Streets
 
-👁️ 22K • 👍 1K • 💬 308 • ⏱️ 24:28 • 4h ago
+👁️ 22K • 👍 1K • 💬 308 • ⏱️ 24:28 • 5h ago
 
 ---
 
@@ -335,7 +335,7 @@ In this interview, Bitcoin OG Samson Mow shares his view on why Bitcoin keeps fa
 
 📺 Cointelegraph
 
-👁️ 865 • 👍 63 • 💬 16 • ⏱️ 19:09 • 2h ago
+👁️ 865 • 👍 63 • 💬 16 • ⏱️ 19:09 • 3h ago
 
 ---
 
@@ -365,7 +365,7 @@ Bitcoin drops to insane oversold levels, but why? Here's the theory BITUNIX TRAD
 
 📺 Lark Davis
 
-👁️ 21K • 👍 1K • 💬 188 • ⏱️ 21:46 • 6h ago
+👁️ 21K • 👍 1K • 💬 188 • ⏱️ 21:46 • 7h ago
 
 ---
 
@@ -385,7 +385,7 @@ Bitcoin's dramatic selloff continues as the world's biggest cryptocurrency wipes
 
 📺 Bloomberg Podcasts
 
-👁️ 46K • 👍 895 • 💬 614 • ⏱️ 9:11 • 19h ago
+👁️ 46K • 👍 895 • 💬 614 • ⏱️ 9:11 • 20h ago
 
 ---
 
