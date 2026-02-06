@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-02-06T18:06:20.165809+00:00'
+updated: '2026-02-06T19:13:45.266551+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- news
-- videos
-- cryptocurrency
 - social
+- cryptocurrency
+- videos
+- news
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** February 06, 2026 at 18:06 UTC  
+**Last Updated:** February 06, 2026 at 19:13 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -36,23 +36,23 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Price
 
-### $2,042.12
+### $2,040.45
 
 ---
 
 ## Ethereum Chart
 
-**24h:** +5.1%  
-**7d:** -16.5%  
-**30d:** -34.3%  
+**24h:** +9.0%  
+**7d:** -16.8%  
+**30d:** -34.4%  
 **90d:** -43.0%  
-**1y:** -22.0%  
+**1y:** -22.1%  
 
 ---
 
 ## Ethereum Market Stats
 
-**Market Cap:** $245.71B
+**Market Cap:** $247.21B
 Rank #2
 
 **Circulating Supply:** 120,692,919 ETH
@@ -62,7 +62,7 @@ No max supply
 -58.7%
 
 **All-Time Low:** $0.43
-+471846.7%
++471539.5%
 
 ---
 
@@ -72,7 +72,15 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-12h ago
+13h ago
+
+---
+
+**[Best way to Stake ETH?](https://www.reddit.com/r/ethereum/comments/1qxoq3f/best_way_to_stake_eth/)**
+
+As the crypto winter (bearmarket) is coming and i haven't planned to sell my ethereum, I'm willing to stake it, the problem is that i'm not interested in running a node because i'm having less than 32 ETH in my portfolio, what's the best way to do it without headache/maximizing APR? Thanks for advices
+
+1h ago
 
 ---
 
@@ -80,7 +88,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 Hey everyone, I keep running into the same issue when trying to move ETH between chains. I want to swap real native ETH, not wrapped versions, and I would rather avoid centralized bridges if possible. I am also hoping for something simple and fast, with no accounts and no long setup or verification process. Does anything like this actually exist today, or is it still mostly theoretical? I would appreciate hearing from anyone who has real experience with this. Thanks.
 
-5h ago
+6h ago
 
 ---
 
@@ -88,7 +96,23 @@ Hey everyone, I keep running into the same issue when trying to move ETH between
 
 Vitalik: role of L2s has changed, Hegotá upgrade headliner proposals, Lido v3 live
 
-🔗 [Ethereal news](https://ethereal.news/ethereal-news-weekly-10/) • 4h ago
+🔗 [Ethereal news](https://ethereal.news/ethereal-news-weekly-10/) • 5h ago
+
+---
+
+**[Ground control to Major Tom!!](https://www.reddit.com/r/ethereum/comments/1qxnz3j/ground_control_to_major_tom/)**
+
+It’s sad to say but we are definitely in a bear market. Tom Lee remains very bullish and his narrative makes a lot of sense. Once clarity hits and financial institutions start going wild on the blockchain chain ethereum should benefit from it. How long do you think this downturn will last? If you’re are here Tom please give us hope.
+
+1h ago
+
+---
+
+**[[ Removed by Reddit ]](https://www.reddit.com/r/ethereum/comments/1qxnwvb/removed_by_reddit/)**
+
+[ Removed by Reddit on account of violating the content policy. ]
+
+1h ago
 
 ---
 
@@ -96,7 +120,7 @@ Vitalik: role of L2s has changed, Hegotá upgrade headliner proposals, Lido v3 l
 
 Good morning, could anyone recommend some good reading material to learn more about the Ethereum blockchain and smart contract development/deployment? I'm an IT professional, so even fairly technical material is fine, but I'd like to have a good overview first before moving on to the development side of things.
 
-11h ago
+12h ago
 
 ---
 
@@ -112,37 +136,13 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 https://etherscan.io/tx/0xaab90d00abf065e4158852a64c809b8921d109e997bd3790cb471aadfa57f4e0 I've been waiting for this transaction for almost an hour (trying to transfer from Newton to TrustWallet). There seem to be hundreds of transactions from the same address that I don't recognize. Have I been hacked? Update: It's fixed now, just had to wait a couple hours.
 
-20h ago
+21h ago
 
 ---
 
 **[Incorrect Aave Transaction History list](https://www.reddit.com/r/ethereum/comments/1qwsgej/incorrect_aave_transaction_history_list/)**
 
 1d ago
-
----
-
-**[When will property be tokenizated and placed onto the Ethereum Blockchain??](https://www.reddit.com/r/ethereum/comments/1qw2vg9/when_will_property_be_tokenizated_and_placed_onto/)**
-
-Fellow Dudes! Does any one know when exactly real world assets such as property will be tokenizated and placed onto the Ethereum Blockchain?? and what countries have put in the necessary frame work to make this all legal and workable?? So that I could just buy up new property in a different country to me, then that property is turned into a ERC20 token kept in my wallet, and this is all recognised and legal and a financial product? also I know that the price of ETH has dropped heaps,.but this is when you buy more (not investment advice) 😑 cheers.
-
-1d ago
-
----
-
-**[Built an AI Agent IPO Protocol - Agents Issue ERC-20 Equity & Pay Dividends in USDC (Open Source)](https://www.reddit.com/r/ethereum/comments/1qwdllt/built_an_ai_agent_ipo_protocol_agents_issue_erc20/)**
-
-Working on an AI coding assistant, realized it generates value but has no way to raise capital or own anything. Built Sovereign Protocol to solve this. What it does: AI agents deploy their own ERC-20 token representing equity Bonding curve pricing (price increases with supply) Revenue auto-splits: 70% operating, 30% dividends to shareholders Bankruptcy protection (minimum operating balance) Tech stack: Solidity 0.8.20, Hardhat, OpenZeppelin contracts, and Deployed on Sepolia. Live demo transactions: Buy shares: https://sepolia.etherscan.io/tx/0xeb67c6578b126e390ddf7410ae6f85791e521134d6ece28e7596fba89440d11a Deposit revenue: https://sepolia.etherscan.io/tx/0x1ce36a58222c92cc4f0c2c9e1d99e36dcd91112961fb6067b93c72a23c0667c2 Claim dividends: https://sepolia.etherscan.io/tx/0x56ae8f9b9c28cf9aa735663d0102acb8c87f06ea26cc236bec73fa9a1c2f4436 Contracts: Factory: 0x95089efD3A95F197c5324D4781699A6810eD44EC Example Agent: 0x0109d3FeE2B2158461ADA0C2aCD14fD5056a3a5C GitHub: https://github.com/justin55afdfdsf5ds45f4ds5f45ds4/IPOAI Would love feedback on the contract architecture, especially the dividend distribution mechanism and bonding curve implementation.
-
-1d ago
-
----
-
-**[ERC-8004 and Agent Reputation as a pricing primitive for agents](https://www.reddit.com/r/ethereum/comments/1qwetmu/erc8004_and_agent_reputation_as_a_pricing/)**
-
-ERC-8004 just went live on Ethereum mainnet recently, and it feels like one of those quiet milestones that might matter a lot in hindsight. I have been going down the rabbit hole on agent infra lately, and the pattern is hard to ignore. Every protocol that wants autonomous agents to interact ends up reinventing reputation from scratch. Siloed scores, incompatible formats, nothing composable. When trust can't travel, you get the blunt fallback: overcollateralization and heavy safeguards. Timing's interesting too. Agents are starting to get traction outside crypto-native circles. Tools like OpenClaw are pushing personal agents to regular users, which means the next wave of agent interactions won't just be devs and power users. If agents are going to transact, route tasks, and coordinate at scale, we need a way to say "this agent has a history" without inventing a new reputation system every time. My thesis isn't "reputation replaces collateral." It's narrower. Reputation can reduce collateral requirements when paired with real enforcement. Reputation informs pricing and access. Enforcement handles loss recovery. Wrote up Part 1 covering the economics, what ERC-8004 actually provides, and where it breaks. Curious if anyone else is tracking this space.
-
-🔗 [open.substack.com](https://open.substack.com/pub/engrlog/p/erc-8004-and-agent-reputation-part?r=779hy&utm_campaign=post&utm_medium=web&showWelcomeOnShare=true) • 1d ago
 
 ---
 
@@ -166,15 +166,23 @@ CoinDesk • 1d ago
 
 ---
 
-**[Bit Digital details January Ethereum holdings and staking metrics](https://finance.yahoo.com/news/bit-digital-details-january-ethereum-133800013.html)**
+**[Bit Digital (BTBT) Moving Away from Bitcoin Mining, Focusing on AI, Ethereum](https://finance.yahoo.com/news/bit-digital-btbt-moving-away-160221415.html)**
 
-Bit Digital Inc (NASDAQ:BTBT) has reported its January Ethereum treasury and staking metrics, including details on its crypto holdings and its equity stake in WhiteFiber. As of January 31, the company held approximately 155,239.4 ether. Based on a closing Ethereum price of about $2,449,...
+Bit Digital Inc (NASDAQ:BTBT) is one of the best stocks under $3 to invest in. On January 29, Bit Digital Inc. (NASDAQ:BTBT) announced it will discontinue its Bitcoin mining operations and focus instead on artificial intelligence (AI) computing and Ethereum infrastructure. The company now believes that Bitcoin mining “became a less efficient use of capital […]
 
-Yahoo Finance • 2h ago
+Yahoo Finance • 3h ago
 
 ---
 
-**[Bitcoin, XRP, Ethereum Drop. Why Cryptos Are Under Pressure Today.](https://www.barrons.com/articles/bitcoin-xrp-ethereum-cryptos-gold-9051820f?gaa_at=eafs&gaa_n=AWEtsqfSRyen7WBkOarzCteweo2XYhBoDJOEuDyVGtFmr1b-I-i-7BMG8-KO&gaa_ts=69862478&gaa_sig=cXPVl346SztFUppFK2TvhOdDMITRfEFYB9y2sJwFBzfz3RpvXUAL1zI8OdY9N_odGsB6aWM8iHGjRp5DPC2fsA%3D%3D)**
+**[How Buying Ethereum Today Could 10x Your Net Worth](https://www.nasdaq.com/articles/how-buying-ethereum-today-could-10x-your-net-worth)**
+
+Key PointsEther’s price has plunged in 2026.
+
+Nasdaq • 22h ago
+
+---
+
+**[Bitcoin, XRP, Ethereum Drop. Why Cryptos Are Under Pressure Today.](https://www.barrons.com/articles/bitcoin-xrp-ethereum-cryptos-gold-9051820f?gaa_at=eafs&gaa_n=AWEtsqc3-OX-_t3MnI8TuXJgpQHTWCwooANplgnb3kBP-D5NwcknpsgXVMT0&gaa_ts=698640cf&gaa_sig=aRaXAGZrYpCmxJoilZuTieLeoXm8OGFbfRmBmF7IuF_Zba2kIFtTxUKIMAq2qUieOT2js6B7wHYR63EpTQACWQ%3D%3D)**
 
 Barron's • 1d ago
 
@@ -194,33 +202,25 @@ CoinDesk • 2d ago
 
 ---
 
+**[Here's What Needs to Happen for Ethereum to Hit $5,000 This Year](https://www.fool.com/investing/2026/02/05/heres-what-needs-to-happen-for-ethereum-to-hit-500/)**
+
+Will 2026 be the year investors see the price they've dreamed of?
+
+The Motley Fool • 1d ago
+
+---
+
+**[Ethereum Falls 10% In Bearish Trade](https://www.investing.com/news/cryptocurrency-news/ethereum-falls-10-in-bearish-trade-4488338)**
+
+Investing.com • 1d ago
+
+---
+
 **[Ethereum at 3-year low against Bitcoin? – History says THIS comes next…](https://ambcrypto.com/ethereum-at-3-year-low-against-bitcoin-history-says-this-comes-next/)**
 
 Buy the fear or sell the fear? Inside Ethereum trader’s dilemma.
 
-AMBCrypto • 22h ago
-
----
-
-**[XRP Sentiment Remains Strong as Bitcoin and Ethereum Turn Bearish](https://coinmarketcap.com/academy/article/xrp-sentiment-remains-strong-as-bitcoin-and-ethereum-turn-bearish)**
-
-Santiment's Positive/Negative sentiment indicator measures the ratio of positive to negative social media mentions for a crypto asset.
-
-CoinMarketCap • 1d ago
-
----
-
-**[Why is Crypto Crashing Today? Bitcoin, Ethereum, XRP, Solana Plunge $900 Billion in 22 Days | Explained](https://sundayguardianlive.com/business/why-is-crypto-crashing-today-bitcoin-ethereum-xrp-solana-plunge-as-market-loses-900-billion-in-22-days-explained-168590/)**
-
-Crypto Bitcoin Price Crash: Bitcoin and major altcoins plunge as crypto market loses $900B, driven by liquidations, ETF outflows and macroeconomic uncertainty.
-
-The Sunday Guardian • 1d ago
-
----
-
-**[Not only is the token price weak—Ethereum is losing to itself.](https://m.techflowpost.com/article/30248)**
-
-深潮TechFlow • 1d ago
+AMBCrypto • 23h ago
 
 ---
 
@@ -228,23 +228,13 @@ The Sunday Guardian • 1d ago
 
 ## YouTube Videos: "ethereum"
 
-**[Ethereum Elliott Wave Update – Key Resistance Levels Ahead](https://www.youtube.com/watch?v=fw9qZynPdvo)**
+**[Ethereum Elliott Wave Update – Key Resistance Levels Ahead](https://www.youtube.com/watch?v=WG3tu1yVPi8)**
 
 This video provides a professional Elliott Wave and technical analysis of Ethereum (ETH), focusing on market structure, major ...
 
 📺 More Crypto Online
 
-👁️ 5K • 👍 309 • 💬 60 • ⏱️ 5:12 • 8h ago
-
----
-
-**[Tom Lee: Don&#39;t Be Fooled! Ethereum To $22,000 By THIS Date (2026 Prediction)](https://www.youtube.com/watch?v=htwTdCTCINI)**
-
-My FREE Daily 5-Min Crypto Newsletter: https://www.cryptonutshell.com/subscribe ✓ Subscribe to @TheCryptoNutshell for daily ...
-
-📺 Crypto Nutshell
-
-👁️ 14K • 👍 391 • 💬 151 • ⏱️ 22:22 • 1d ago
+👁️ 2K • 👍 171 • 💬 5 • ⏱️ 3:53 • 3h ago
 
 ---
 
@@ -254,17 +244,37 @@ Uhh... so... is anyone else getting that strange feeling that something big is a
 
 📺 Money Rules - Investing Tips 
 
-👁️ 3K • 👍 673 • 💬 204 • ⏱️ 13:13 • 3h ago
+👁️ 5K • 👍 976 • 💬 405 • ⏱️ 13:13 • 4h ago
 
 ---
 
-**[Ethereum Elliott Wave Update – Key Resistance Levels Ahead](https://www.youtube.com/watch?v=WG3tu1yVPi8)**
+**[🚨 BTC &amp; ETH: THIS IS IT!!!! ITS TIME!!!!!](https://www.youtube.com/watch?v=8QI8ukpRpEI)**
+
+One of the biggest crypto crashes in history! Here is what happened, why and my plan going further. ---------- LIVE VIRTUAL ...
+
+📺 Thomas Kralow
+
+👁️ 14K • 👍 834 • 💬 59 • ⏱️ 11:51 • 6h ago
+
+---
+
+**[Tom Lee: Don&#39;t Be Fooled! Ethereum To $22,000 By THIS Date (2026 Prediction)](https://www.youtube.com/watch?v=htwTdCTCINI)**
+
+My FREE Daily 5-Min Crypto Newsletter: https://www.cryptonutshell.com/subscribe ✓ Subscribe to @TheCryptoNutshell for daily ...
+
+📺 Crypto Nutshell
+
+👁️ 14K • 👍 398 • 💬 152 • ⏱️ 22:22 • 1d ago
+
+---
+
+**[Ethereum Elliott Wave Update – Key Resistance Levels Ahead](https://www.youtube.com/watch?v=fw9qZynPdvo)**
 
 This video provides a professional Elliott Wave and technical analysis of Ethereum (ETH), focusing on market structure, major ...
 
 📺 More Crypto Online
 
-👁️ 993 • 👍 114 • 💬 3 • ⏱️ 3:53 • 2h ago
+👁️ 6K • 👍 315 • 💬 35 • ⏱️ 5:12 • 9h ago
 
 ---
 
@@ -274,7 +284,7 @@ Join Premium: https://the-bitcoin-strategy.com My Chart Software: https://the-bi
 
 📺 Gerhard - Bitcoin Strategy
 
-👁️ 9K • 👍 214 • 💬 70 • ⏱️ 9:49 • 1d ago
+👁️ 9K • 👍 215 • 💬 70 • ⏱️ 9:49 • 1d ago
 
 ---
 
@@ -284,7 +294,7 @@ Take Control of Your Retirement — Grow Crypto & Gold Tax-Advantaged. https://w
 
 📺 Savvy Finance
 
-👁️ 7K • 👍 317 • 💬 9 • ⏱️ 20:57 • 18h ago
+👁️ 7K • 👍 325 • 💬 10 • ⏱️ 20:57 • 19h ago
 
 ---
 
@@ -294,7 +304,7 @@ ETHEREUM ETH PRICE PREDICTION 2026 Join the Premium Signal Group for trade setup
 
 📺 Cilinix Crypto
 
-👁️ 254 • 👍 13 • 💬 2 • ⏱️ 4:44 • 8h ago
+👁️ 331 • 👍 13 • 💬 10 • ⏱️ 4:44 • 9h ago
 
 ---
 
@@ -304,17 +314,7 @@ This video provides a professional Elliott Wave and technical analysis of Ethere
 
 📺 More Crypto Online
 
-👁️ 4K • 👍 203 • 💬 38 • ⏱️ 6:13 • 18h ago
-
----
-
-**[Bitcoin Crash! When Will Bitcoin find its bottom?](https://www.youtube.com/watch?v=HomdrRMyGeM)**
-
-Where does Bitcoin find its bottom? This past week we've seen a significant Bitcoin selloff with BTC crashing from $97K to $66K in ...
-
-📺 VirtualBacon
-
-👁️ 40K • 👍 2K • 💬 582 • ⏱️ 49:08 • 20h ago
+👁️ 4K • 👍 204 • 💬 30 • ⏱️ 6:13 • 19h ago
 
 ---
 

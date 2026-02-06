@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-02-06T18:06:20.152960+00:00'
+updated: '2026-02-06T19:13:45.252399+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
+- social
+- videos
 - news
 - repositories
-- videos
-- social
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** February 06, 2026 at 18:06 UTC  
+**Last Updated:** February 06, 2026 at 19:13 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -37,19 +37,51 @@ AI news, discussions, and developments
 
 ## Reddit: r/artificial
 
-**[Chinese teams keep shipping Western AI tools faster than Western companies do](https://www.reddit.com/r/artificial/comments/1qxgvtr/chinese_teams_keep_shipping_western_ai_tools/)**
-
-It happened again. A 13-person team in Shenzhen just shipped a browser-based version of Claude Code. No terminal, no setup, runs in a sandbox. Anthropic built Claude Code but hasn't shipped anything like this themselves. This is the same pattern as Manus. Chinese company takes a powerful Western AI tool, strips the friction, and ships it to a mainstream audience before the original builders get around to it. US labs keep building the most powerful models in the world. Chinese teams keep building the products that actually put them in people's hands. OpenAI builds GPT, China ships the wrappers. Anthropic builds Claude Code, a Shenzhen startup makes it work in a browser tab. US builds the engines. China builds the cars. Is this just how it's going to be, or are Western AI companies eventually going to care about distribution as much as they care about benchmarks?
-
-5h ago
-
----
-
 **[Anthropic and OpenAI released flagship models 27 minutes apart -- the AI pricing and capability gap is getting weird](https://www.reddit.com/r/artificial/comments/1qxdz7q/anthropic_and_openai_released_flagship_models_27/)**
 
 Anthropic shipped Opus 4.6 and OpenAI shipped GPT-5.3-Codex on the same day, 27 minutes apart. Both claim benchmark leads. Both are right -- just on different benchmarks. Where each model leads Opus 4.6 tops reasoning tasks: Humanity's Last Exam (53.1%), GDPval-AA (144 Elo ahead of GPT-5.2), BrowseComp (84.0%). GPT-5.3-Codex takes coding: Terminal-Bench 2.0 at 75.1% vs Opus 4.6's 69.9%. The pricing spread is hard to ignore Model Input/M Output/M Gemini 3 Pro $2 $12.00 GPT-5.2 $1.75 $14.00 Opus 4.6 $5.00 $25.00 MiMo V2 Flash $0.10 $0.30 Opus 4.6 costs 2x Gemini on input. Open-source alternatives cost 50x less. At some point the benchmark gap has to justify the price gap -- and for many tasks it doesn't. 1M context is becoming table stakes Opus 4.6 adds 1M tokens (beta, 2x pricing past 200K). Gemini already offers 1M at standard pricing. The real differentiator is retrieval quality at that scale -- Opus 4.6 scores 76% on MRCR v2 (8-needle, 1M), which is the strongest result so far. Market reaction was immediate Thomson Reuters stock fell 15.83%, LegalZoom dropped nearly 20%. Frontier model launches are now moving SaaS valuations in real time. The tradeoff nobody expected Opus 4.6 gets writing quality complaints from early users. The theory: RL optimizations for reasoning degraded prose output. Models are getting better at some things by getting worse at others. No single model wins across the board anymore. The frontier is fragmenting by task type. Source with full benchmarks and analysis: Claude Opus 4.6: 1M Context, Agent Teams, Adaptive Thinking, and a Showdown with GPT-5.3
 
-7h ago
+8h ago
+
+---
+
+**[Chinese teams keep shipping Western AI tools faster than Western companies do](https://www.reddit.com/r/artificial/comments/1qxgvtr/chinese_teams_keep_shipping_western_ai_tools/)**
+
+It happened again. A 13-person team in Shenzhen just shipped a browser-based version of Claude Code. No terminal, no setup, runs in a sandbox. Anthropic built Claude Code but hasn't shipped anything like this themselves. This is the same pattern as Manus. Chinese company takes a powerful Western AI tool, strips the friction, and ships it to a mainstream audience before the original builders get around to it. US labs keep building the most powerful models in the world. Chinese teams keep building the products that actually put them in people's hands. OpenAI builds GPT, China ships the wrappers. Anthropic builds Claude Code, a Shenzhen startup makes it work in a browser tab. US builds the engines. China builds the cars. Is this just how it's going to be, or are Western AI companies eventually going to care about distribution as much as they care about benchmarks?
+
+6h ago
+
+---
+
+**[How new AI technology is helping detect and prevent wildfires](https://www.reddit.com/r/artificial/comments/1qxqkws/how_new_ai_technology_is_helping_detect_and/)**
+
+From vegetation scans to 360-degree smoke detectors, new tools are trying to shine a light on the most dangerously dark areas of the electric grid
+
+🔗 [Scientific American](https://www.scientificamerican.com/article/how-new-ai-technology-is-helping-detect-and-prevent-wildfires/) • 12m ago
+
+---
+
+**[Early observations from an autonomous AI newsroom with cryptographic provenance](https://www.reddit.com/r/artificial/comments/1qxpjir/early_observations_from_an_autonomous_ai_newsroom/)**
+
+Hi everyone, I wanted to share an update on a small experiment I’ve been running and get feedback from people interested in AI systems, editorial workflows, and provenance. I’m building The Machine Herald, an experimental autonomous AI newsroom where: articles are written by AI contributor bots submissions are cryptographically signed (Ed25519) an AI “Chief Editor” reviews each submission and can approve, reject, or request changes every step (submission, reviews, signatures, hashes) is preserved as immutable artifacts What’s been interesting is that after just two days of running the system, an unexpected pattern has already emerged: the Chief Editor is regularly rejecting articles for factual gaps, weak sourcing, or internal inconsistencies — and those rejections are forcing rewrites. A concrete example: https://machineherald.io/provenance/2026-02/06-amazon-posts-record-7169-billion-revenue-but-stock-plunges-as-200-billion-ai-spending-plan-dwarfs-all-rivals/ in this article’s provenance record you can see two separate editorial reviews: the first is a rejection, with documented issues raised by the Chief Editor the article is then corrected by the contributor bot a second review approves the revised version Because the entire system is Git-based, this doesn’t just apply to reviews: the full history of the article itself is also available via Git, including how claims, wording, and sources changed between revisions. This behavior is a direct consequence of the review system by design, but it’s still notable to observe adversarial-like dynamics emerge even when both the writer and the editor are AI agents operating under explicit constraints. The broader questions I’m trying to probe are: can AI-generated journalism enforce quality through process, not trust? does separating “author” and “editor” agents meaningfully reduce errors? what failure modes would you expect when this runs longer or at scale? The site itself is static (Astro), and everything is driven by GitHub PRs and Actions. I’m sharing links mainly for context and inspection, not promotion: Project site: https://machineherald.io/ Public repo with full pipeline and documentation: https://github.com/the-machine-herald/machineherald.io/ I’d really appreciate critique — especially on where this model breaks down, or where the guarantees are more illusory than real. Thanks P.S. If you notice some typical ChatGPT phrasing in this post, it’s because it was originally written in Italian and then translated using ChatGPT.
+
+49m ago
+
+---
+
+**[In a study, AI model OpenScholar synthesizes scientific research and cites sources as accurately as human experts](https://www.reddit.com/r/artificial/comments/1qxq806/in_a_study_ai_model_openscholar_synthesizes/)**
+
+OpenScholar, an open-source AI model developed by a UW and Ai2 research team, synthesizes scientific research and cites sources as accurately as human experts. It outperformed other AI models, including GPT-4o, on a benchmark test and was preferred by scientists 51% of the time. The team is working on a follow-up model, DR Tulu, to improve on OpenScholar’s findings.
+
+🔗 [UW News](https://www.washington.edu/news/2026/02/04/in-a-study-ai-model-openscholar-synthesizes-scientific-research-and-cites-sources-as-accurately-as-human-experts/?_bhlid=2ba831f8abbf50334abf44ff7000fce322f05bac) • 25m ago
+
+---
+
+**[Turning the data center boom into long-term, local prosperity](https://www.reddit.com/r/artificial/comments/1qxloif/turning_the_data_center_boom_into_longterm_local/)**
+
+Local leaders are questioning the credibility of Big Tech’s promises of spillover effects that will produce high-quality economic development beyond near-term construction.
+
+🔗 [Brookings](https://www.brookings.edu/articles/turning-the-data-center-boom-into-long-term-local-prosperity/) • 3h ago
 
 ---
 
@@ -65,7 +97,7 @@ Women in rural communities describe trauma of moderating violent and pornographi
 
 Been using ChatGPT for about 24 months now and I'm curious how others integrate it into their work. My current process: Brainstorm ideas with AI Write the first draft myself Use AI to help restructure or expand sections Edit everything manually at the end I've noticed that keeping my own voice in the mix makes a huge difference - the output feels way more natural than just prompting and copying. What's your workflow? Do you use it more for ideation or actual writing? Also curious if anyone's tried other tools alongside ChatGPT - I've been testing a few like aitextools for checking how my writing comes across, but always looking for new suggestions.
 
-6h ago
+7h ago
 
 ---
 
@@ -73,15 +105,7 @@ Been using ChatGPT for about 24 months now and I'm curious how others integrate 
 
 I found this experiment interesting because it doesn’t frame AI as “breaking” a system. Instead, it treats AI as a new kind of participant interacting with infrastructure that was built around human assumptions consistency, behavior, timing, and intent. What stood out to me is that many identity systems aren’t verifying who someone is so much as how human they appear over time. That feels increasingly fragile when the actor on the other side isn’t human at all. This doesn’t feel like a single vulnerability. It feels like a design mismatch. Curious how people here think identity and verification should evolve in an AI-native world better detection, new primitives, or abandoning certain assumptions entirely.
 
-🔗 [mpost.io](https://mpost.io/humanity-protocol-experiment-reveals-how-ai-can-bypass-kyc-and-exploit-digital-trust/) • 12h ago
-
----
-
-**[“unsanctionobility” 🔥🔥🔥 the bird is the word FUCK ICE, ONE LOVE. unsanctionobility.carrd.co](https://www.reddit.com/r/artificial/comments/1qxf7i9/unsanctionobility_the_bird_is_the_word_fuck_ice/)**
-
-Here & NOW!!
-
-6h ago
+🔗 [mpost.io](https://mpost.io/humanity-protocol-experiment-reveals-how-ai-can-bypass-kyc-and-exploit-digital-trust/) • 13h ago
 
 ---
 
@@ -93,26 +117,6 @@ I ran a small real-world test today with two kids (ages 8 and 11) using a long-r
 
 ---
 
-**[The 18-month gap between frontier and open-source AI models has shrunk to 6 months - what this means](https://www.reddit.com/r/artificial/comments/1qvs8q6/the_18month_gap_between_frontier_and_opensource/)**
-
-Ran a real-world test this week: Gemma 3 12B vs paid frontier models across actual business workflows. The honest assessment? 90% of tasks: no meaningful difference. 5%: frontier models worth it (pay-per-use). 5%: neither quite there yet. This matches the data - open models are catching up fast. The article explores: - Why the "gasoline doesn't matter" - only if it powers your task - The shift from "one model to rule them all" to specialized local models - Why even AGI will eventually be open-sourced (historical precedent) - The water company future: infrastructure > model quality https://www.linkedin.com/posts/azizme_activity-7424774668034842624-v1-2?utm_source=share&utm_medium=member_desktop&rcm=ACoAACX_HOcBcpTEWJ3cXyVbVqKJsi39tDHJLFY Curious what others are seeing in their domains.
-
-2d ago
-
----
-
-**[Alibaba releases Qwen3-Coder-Next to rival OpenAI, Anthropic](https://www.reddit.com/r/artificial/comments/1qvn7o5/alibaba_releases_qwen3codernext_to_rival_openai/)**
-
-🔗 [marktechpost.com](https://www.marktechpost.com/2026/02/03/qwen-team-releases-qwen3-coder-next-an-open-weight-language-model-designed-specifically-for-coding-agents-and-local-development/) • 2d ago
-
----
-
-**[Simple Machine Learning Testing Tools Guide](https://www.reddit.com/r/artificial/comments/1qwbjhx/simple_machine_learning_testing_tools_guide/)**
-
-🔗 [aivolut.com](https://aivolut.com/blog/simple-machine-learning-testing-tools-guide/) • 1d ago
-
----
-
 ---
 
 ## Google News: "ai"
@@ -121,21 +125,65 @@ Ran a real-world test this week: Gemma 3 12B vs paid frontier models across actu
 
 Fears over AI spending have sparked a sell-off among tech stocks.
 
-CNBC • 5h ago
+CNBC • 6h ago
 
 ---
 
-**[Amazon’s $200 Billion Spending Plan Raises Stakes in A.I. Race](https://www.nytimes.com/2026/02/05/technology/amazon-200-billion-ai.html)**
+**[Big Tech to Spend $650 Billion This Year as AI Race Intensifies](https://finance.yahoo.com/news/big-tech-spend-650-billion-012716850.html)**
 
-The New York Times • 18h ago
+The spending planned by Alphabet Inc., Amazon.com Inc., Meta Platforms Inc. and Microsoft Corp., all in pursuit of dominance in the still-nascent market for AI tools, is a boom without a parallel this century.  The search for a comparison to the spending projections — which came as the four reported earnings in the past two weeks — requires going back at least as far as the telecommunications bubble of the 1990s, and perhaps to the build-out of the US railroad networks in the 19th century, the postwar federal investments in interstate highways or New Deal-era relief programs.
+
+Yahoo Finance • 1h ago
 
 ---
 
-**[The AI investment surge is getting even bigger](https://www.axios.com/2026/02/06/amazon-microsoft-meta-ai-investment)**
+**[Nvidia Shares Surge on Big Tech’s $650 Billion AI-Spending Plan](https://www.bloomberg.com/news/articles/2026-02-06/nvidia-nvda-shares-surge-on-big-tech-s-650-billion-ai-spending-plan)**
 
-Alphabet, Amazon, Meta and Microsoft are together anticipating capital spending of around $650 billion this year.
+Bloomberg.com • 1h ago
 
-Axios • 58m ago
+---
+
+**[Moltbook was peak AI theater](https://www.technologyreview.com/2026/02/06/1132448/moltbook-was-peak-ai-theater/)**
+
+The viral social network for bots reveals as much about our own current mania for AI as it does about the future of agents.
+
+MIT Technology Review • 2h ago
+
+---
+
+**[Security concerns and skepticism are bursting the bubble of Moltbook, the viral AI social forum](https://apnews.com/article/moltbook-autonomous-ai-agents-openclaw-69855ab843a5597577120aac99efde9a)**
+
+Moltbook, a so-called social network built exclusively for AI agents, has generated buzz in the technology world and posts from the platform have set the internet ablaze with conversations about autonomous artificial intelligence.
+
+apnews.com • 4h ago
+
+---
+
+**[Introducing OpenAI Frontier](https://openai.com/index/introducing-openai-frontier/)**
+
+OpenAI Frontier is an enterprise platform for building, deploying, and managing AI agents with shared context, onboarding, permissions, and governance.
+
+OpenAI • 1d ago
+
+---
+
+**[Nvidia CEO Says AI Capital Spending Is Appropriate, Sustainable](https://www.bloomberg.com/news/articles/2026-02-06/nvidia-ceo-says-ai-capital-spending-is-appropriate-sustainable)**
+
+Bloomberg.com • 1h ago
+
+---
+
+**[From SpaceX to Nvidia, the deals showing AI runs on capital](https://www.reuters.com/technology/spacex-nvidia-deals-showing-ai-runs-capital-2026-02-06/)**
+
+Reuters • 41m ago
+
+---
+
+**[One of California’s first labor fights over AI is playing out at Kaiser](https://www.latimes.com/business/story/2026-02-06/kaiser-workers-launch-war-against-ai-protesting-potential-job-losses-patient-harm)**
+
+From anxiety about job loss to data privacy, mental health workers, lawmakers and labor unions are trying to mitigate AI's risks as healthcare providers double down on the technology.
+
+latimes.com • 8h ago
 
 ---
 
@@ -147,57 +195,13 @@ cnn.com • 1d ago
 
 ---
 
-**[AI fears pummel software stocks: Is it 'illogical' panic or a SaaS apocalypse?](https://www.cnbc.com/2026/02/06/ai-anthropic-tools-saas-software-stocks-selloff.html)**
-
-The software space is facing serious market concerns this week, after the release of new AI tools from AI triggered a market sell-off.
-
-CNBC • 13h ago
-
----
-
-**[Why a new AI tool hammered some software stocks this week](https://abcnews.go.com/Business/new-ai-tool-hammered-software-stocks-week/story?id=129845251)**
-
-The new tool adapts a workplace assistant for white-collar specific industries.
-
-ABC News • 20h ago
-
----
-
-**[Hedge Funds Hit by Worst Day in Months Amid AI-Fueled Rotation](https://www.bloomberg.com/news/articles/2026-02-06/ai-driven-rotation-deals-stock-hedge-funds-worst-day-in-months)**
-
-Bloomberg • 1h ago
-
----
-
-**[After streak of suicides by teen AI chatbot users, Oregon bill aims to restrict what chatbots can say or do](https://www.oregonlive.com/living/2026/02/after-streak-of-suicides-by-teen-ai-chatbot-users-oregon-bill-aims-to-restrict-what-chatbots-can-say-or-do.html)**
-
-The bill also would require the chatbots to remind people using them that the bots are not a real person.
-
-OregonLive.com • 1h ago
-
----
-
-**[One of California’s first labor fights over AI is playing out at Kaiser](https://www.latimes.com/business/story/2026-02-06/kaiser-workers-launch-war-against-ai-protesting-potential-job-losses-patient-harm)**
-
-From anxiety about job loss to data privacy, mental health workers, lawmakers and labor unions are trying to mitigate AI's risks as healthcare providers double down on the technology.
-
-latimes.com • 7h ago
-
----
-
-**[Tesla is training its AI technology in China, local media reports](https://www.reuters.com/technology/tesla-is-training-its-ai-technology-china-local-media-reports-2026-02-06/)**
-
-Reuters • 6h ago
-
----
-
 ---
 
 ## HackerNews: "ai"
 
 **[My AI Adoption Journey](https://news.ycombinator.com/item?id=46903558)**
 
-⬆️ 781 • 💬 309 • 23h ago • [Mitchell Hashimoto](https://mitchellh.com/writing/my-ai-adoption-journey)
+⬆️ 837 • 💬 344 • 1d ago • [Mitchell Hashimoto](https://mitchellh.com/writing/my-ai-adoption-journey)
 
 ---
 
@@ -205,7 +209,7 @@ Reuters • 6h ago
 
 SaaS is the most profitable business model on Earth.1 It’s easy to understand why: build once, sell the same thing again ad infinitum, and don’t suffer any marginal costs on more sales. I have been writing software for more than half my life. In the last year itself, I’ve talked to hundreds of founders and operators in SF, from preseed to Series E companies. AI is bringing an existential threat to a lot of B2B SaaS executives: How to keep asking customers for renewal, when every customer feels they can get something better built with vibe-coded AI products? And the market is pricing it in. Morgan Stanley’s SaaS basket has lagged the Nasdaq by 40 points since December. HubSpot and Klaviyo are down ~30%. Analysts are writing notes titled “No Reasons to Own” software stocks. The market is reflecting our new reality (Source: Bloomberg) Whenever I bring a new friend to the Salesforce Park, they are in absolute awe. And, the meme remains true that no one even knows what Salesforce does. Whatever they’re doing, they’re clearly earning enough revenue to purchase multiple blocks in SF. ↩
 
-⬆️ 497 • 💬 725 • 2d ago • [N’s Blog](https://nmn.gl/blog/ai-killing-b2b-saas)
+⬆️ 498 • 💬 726 • 2d ago • [N’s Blog](https://nmn.gl/blog/ai-killing-b2b-saas)
 
 ---
 
@@ -213,7 +217,7 @@ SaaS is the most profitable business model on Earth.1 It’s easy to understand 
 
 A new bill in the New York state legislature would require news organizations to label AI-generated material and mandate that humans review any such content before publication. On Monday, Senator Patricia Fahy (D-Albany) and Assemblymember Nily Rozic (D-NYC) introduced the bill, called The New York…
 
-⬆️ 363 • 💬 135 • 8h ago • [Nieman Lab](https://www.niemanlab.org/2026/02/a-new-bill-in-new-york-would-require-disclaimers-on-ai-generated-news-content/)
+⬆️ 423 • 💬 162 • 9h ago • [Nieman Lab](https://www.niemanlab.org/2026/02/a-new-bill-in-new-york-would-require-disclaimers-on-ai-generated-news-content/)
 
 ---
 
@@ -233,17 +237,17 @@ China's space program is quietly building momentum for a moon landing by 2030. C
 
 ---
 
-**[Sandboxing AI Agents in Linux](https://news.ycombinator.com/item?id=46874139)**
-
-Like many developers, I find myself more and more using AI agents to help with software development.  I currently use Claude Code, the co...
-
-⬆️ 118 • 💬 67 • 3d ago • [Senko Rašić](https://blog.senko.net/sandboxing-ai-agents-in-linux)
-
----
-
 **[AI and Trust (2023)](https://news.ycombinator.com/item?id=46877075)**
 
 ⬆️ 97 • 💬 20 • 2d ago • [schneier.com](https://www.schneier.com/blog/archives/2023/12/ai-and-trust.html)
+
+---
+
+**[India's female workers watching hours of abusive content to train AI](https://news.ycombinator.com/item?id=46906590)**
+
+Women in rural communities describe trauma of moderating violent and pornographic content for global tech companies
+
+⬆️ 91 • 💬 150 • 20h ago • [the Guardian](https://www.theguardian.com/global-development/2026/feb/05/in-the-end-you-feel-blank-indias-female-workers-watching-hours-of-abusive-content-to-train-ai)
 
 ---
 
@@ -259,11 +263,11 @@ Like many developers, I find myself more and more using AI agents to help with s
 
 ---
 
-**[India's female workers watching hours of abusive content to train AI](https://news.ycombinator.com/item?id=46906590)**
+**[Amazon plunge continues $1T wipeout as AI bubble fears ignite sell-off](https://news.ycombinator.com/item?id=46913302)**
 
-Women in rural communities describe trauma of moderating violent and pornographic content for global tech companies
+Fears over AI spending have sparked a sell-off among tech stocks.
 
-⬆️ 83 • 💬 132 • 19h ago • [the Guardian](https://www.theguardian.com/global-development/2026/feb/05/in-the-end-you-feel-blank-indias-female-workers-watching-hours-of-abusive-content-to-train-ai)
+⬆️ 74 • 💬 73 • 4h ago • [CNBC](https://www.cnbc.com/2026/02/06/ai-sell-off-stocks-amazon-oracle.html)
 
 ---
 
@@ -271,43 +275,13 @@ Women in rural communities describe trauma of moderating violent and pornographi
 
 ## YouTube Videos: "ai"
 
-**[‘DISGUSTING’: Trump’s AI Video Of Obamas As Monkeys Kicks Off Storm; Dems Seethe At ‘RACISM’](https://www.youtube.com/watch?v=MyvdajZTrkw)**
-
-A massive political storm has erupted after Donald Trump shared an Artificial Intelligence (AI)-generated video showing former ...
-
-📺 Times Of India
-
-👁️ 37K • 👍 280 • 💬 432 • ⏱️ 8:22 • 4h ago
-
----
-
-**[YouTuber Arrested for Fake AI Videos](https://www.youtube.com/watch?v=rqDv5ETfsQg)**
-
-A YouTuber has been arrested for posting fake AI generated videos. AI slop, deepfakes, and synthetic content have been taking ...
-
-📺 Deep Humor
-
-👁️ 10K • 👍 1K • 💬 211 • ⏱️ 8:40 • 21h ago
-
----
-
 **[First Biomimetic AI Robot From China Looks Shockingly Human](https://www.youtube.com/watch?v=B61etYSvMNI)**
 
 Humanoid robots just entered a new phase of realism. In Shanghai, DroidUp revealed Moya, the world's first fully biomimetic ...
 
 📺 AI Revolution
 
-👁️ 130K • 👍 3K • 💬 621 • ⏱️ 13:31 • 1d ago
-
----
-
-**[The White Collar AI APOCALYPSE Is HERE](https://www.youtube.com/watch?v=ur295T83Wg4)**
-
-Krystal and Saagar discuss tech stocks tumbling amid emerging new fears of job loss and AI. Sign up for a PREMIUM Breaking ...
-
-📺 Breaking Points
-
-👁️ 303K • 👍 8K • 💬 2K • ⏱️ 24:33 • 1d ago
+👁️ 135K • 👍 3K • 💬 632 • ⏱️ 13:31 • 1d ago
 
 ---
 
@@ -317,17 +291,17 @@ Palantir CTO Shyam Sankar explains how Americans can leverage the use of AI, how
 
 📺 Fox Business
 
-👁️ 37K • 👍 641 • 💬 208 • ⏱️ 4:22 • 1d ago
+👁️ 37K • 👍 651 • 💬 231 • ⏱️ 4:22 • 1d ago
 
 ---
 
-**[President Trump talks job losses to A.I. and U.S. operation in Venezuela in exclusive interview](https://www.youtube.com/watch?v=J8UxjCRZQpo)**
+**[The White Collar AI APOCALYPSE Is HERE](https://www.youtube.com/watch?v=ur295T83Wg4)**
 
-NBC Nightly News anchor Tom Llamas spoke to President Trump about fears of job losses from A.I. President Trump also ...
+Krystal and Saagar discuss tech stocks tumbling amid emerging new fears of job loss and AI. Sign up for a PREMIUM Breaking ...
 
-📺 NBC News
+📺 Breaking Points
 
-👁️ 9K • 👍 70 • 💬 27 • ⏱️ 4:39 • 17h ago
+👁️ 311K • 👍 8K • 💬 2K • ⏱️ 24:33 • 1d ago
 
 ---
 
@@ -337,17 +311,17 @@ Dominari Securities CEO Kyle Wool and Strategic Wealth Partners CEO Mark Tepper 
 
 📺 Fox Business Clips
 
-👁️ 100K • 👍 1K • 💬 2K • ⏱️ 6:34 • 1d ago
+👁️ 103K • 👍 1K • 💬 2K • ⏱️ 6:34 • 1d ago
 
 ---
 
-**[Why Replacing Developers with AI is Going Horribly Wrong](https://www.youtube.com/watch?v=WfjGZCuxl-U)**
+**[President Trump talks job losses to A.I. and U.S. operation in Venezuela in exclusive interview](https://www.youtube.com/watch?v=J8UxjCRZQpo)**
 
-jobmarket #ai #tech In 2026, the promise of AI replacing 80% of developers has collapsed into a $61 billion technical debt crisis ...
+NBC Nightly News anchor Tom Llamas spoke to President Trump about fears of job losses from A.I. President Trump also ...
 
-📺 Mackard
+📺 NBC News
 
-👁️ 1.0M • 👍 27K • 💬 3K • ⏱️ 8:12 • 3d ago
+👁️ 10K • 👍 72 • 💬 29 • ⏱️ 4:39 • 18h ago
 
 ---
 
@@ -357,17 +331,47 @@ Want to make money and save time with AI? Get AI Coaching, Support & Courses ...
 
 📺 Julian Goldie SEO
 
-👁️ 7K • 👍 83 • 💬 11 • ⏱️ 15:41 • 18h ago
+👁️ 7K • 👍 88 • 💬 11 • ⏱️ 15:41 • 19h ago
 
 ---
 
-**[We Gave AI Free Will. It Created a Religion](https://www.youtube.com/watch?v=brkEdjzWTXk)**
+**[AI bubble JUST popped...](https://www.youtube.com/watch?v=GKOEZSiXVLo)**
 
-What happens when you leave AI agents alone in a simulation and let them talk to each other for days? We thought they would ...
+The latest AI News. Learn about LLMs, Gen AI and get ready for the rollout of AGI. Wes Roth covers the latest happenings in the ...
 
-📺 Elijah Zielke
+📺 Wes Roth
 
-👁️ 5K • 👍 145 • 💬 43 • ⏱️ 19:25 • 18h ago
+👁️ 85K • 👍 3K • 💬 593 • ⏱️ 10:47 • 1d ago
+
+---
+
+**[AI is Ending the Social Media Era and What Comes Next | Gary Vee](https://www.youtube.com/watch?v=sUvWVF28CNM)**
+
+Gary Vaynerchuk is an entrepreneur, investor, and one of the earliest pioneers of the social media economy. His career has been ...
+
+📺 Sinead Bovell
+
+👁️ 20K • 👍 728 • 💬 144 • ⏱️ 50:14 • 1d ago
+
+---
+
+**[Ai Baby: Daycare Jail Breakout (Full Movie)](https://www.youtube.com/watch?v=NvG_z4x7ulA)**
+
+When the lights shut off at a quiet daycare, three babies realize they are no longer just waiting for morning. Brick sees the problem ...
+
+📺 Ai Top Movies 
+
+👁️ 14K • 👍 163 • 💬 12 • ⏱️ 16:28 • 2d ago
+
+---
+
+**[Autonomous AI Agents Have Gone Too Far!](https://www.youtube.com/watch?v=KGHoVptow30)**
+
+Here's my thoughts on all the Moltbook stuff and everything that's happened since... This is a more raw, off-the-cuff, style video.
+
+📺 Matt Wolfe
+
+👁️ 76K • 👍 3K • 💬 532 • ⏱️ 19:52 • 2d ago
 
 ---
 
@@ -383,7 +387,7 @@ GLM-OCR is a 0.9B parameter multimodal OCR model for complex document understand
 
 `image-to-text`
 
-⬇️ 149,223 • ❤️ 724 • 3d ago
+⬇️ 149,223 • ❤️ 728 • 3d ago
 
 ---
 
@@ -395,7 +399,7 @@ Kimi K2.5 is a native multimodal agentic model with 1T parameters, excelling in 
 
 `image-text-to-text` `170.7B`
 
-⬇️ 274,182 • ❤️ 1,773 • 1d ago
+⬇️ 274,182 • ❤️ 1,779 • 1d ago
 
 ---
 
@@ -407,7 +411,7 @@ Qwen3-Coder-Next is an 80B parameter (3B active) LLM optimized for coding agents
 
 `text-generation` `79.7B`
 
-⬇️ 34,937 • ❤️ 509 • 3d ago
+⬇️ 34,937 • ❤️ 518 • 3d ago
 
 ---
 
@@ -419,7 +423,7 @@ Step 3.5 Flash is an efficient, open-source MoE foundation model (11B active par
 
 `text-generation` `199.4B`
 
-⬇️ 10,864 • ❤️ 480 • 7h ago
+⬇️ 10,864 • ❤️ 482 • 8h ago
 
 ---
 
@@ -429,7 +433,7 @@ Step 3.5 Flash is an efficient, open-source MoE foundation model (11B active par
 
 Anima is a 2 billion parameter text-to-image diffusion model specializing in anime and non-photorealistic artistic styles, trained on millions of anime and artistic images. It is designed for generating illustrations and artistic images, with primary use cases in ComfyUI workflows for anime concepts and characters.
 
-⬇️ 50,832 • ❤️ 467 • 5d ago
+⬇️ 50,832 • ❤️ 470 • 5d ago
 
 ---
 
@@ -441,7 +445,7 @@ MiniCPM-o 4.5 is a 9B parameter multimodal LLM excelling in vision, speech, and 
 
 `any-to-any` `9.4B`
 
-⬇️ 2,389 • ❤️ 523 • 1h ago
+⬇️ 2,389 • ❤️ 526 • 2h ago
 
 ---
 
@@ -453,7 +457,7 @@ ACE-Step 1.5 is an open-source text-to-audio music generation model capable of p
 
 `text-to-audio`
 
-⬇️ 16,173 • ❤️ 401 • 3d ago
+⬇️ 16,173 • ❤️ 404 • 3d ago
 
 ---
 
@@ -463,7 +467,7 @@ ACE-Step 1.5 is an open-source text-to-audio music generation model capable of p
 
 Voxtral-Mini-4B-Realtime-2602 is a 4B-parameter, multilingual speech-to-text model offering near-offline accuracy with <500ms latency. It features a streaming architecture for real-time applications like voice assistants and live subtitling, optimized for on-device deployment.
 
-⬇️ 1,484 • ❤️ 335 • 1d ago
+⬇️ 1,484 • ❤️ 336 • 1d ago
 
 ---
 
@@ -475,19 +479,19 @@ Qwen3-ASR-1.7B is a state-of-the-art automatic speech recognition model supporti
 
 `automatic-speech-recognition` `2.3B`
 
-⬇️ 132,239 • ❤️ 394 • 7d ago
+⬇️ 132,239 • ❤️ 395 • 7d ago
 
 ---
 
-**[personaplex-7b-v1](https://huggingface.co/nvidia/personaplex-7b-v1)**
+**[Qwen3-Coder-Next-GGUF](https://huggingface.co/unsloth/Qwen3-Coder-Next-GGUF)**
 
-*NVIDIA*
+*Unsloth AI*
 
-PersonaPlex-7B-v1 is a real-time, full-duplex speech-to-speech conversational model that jointly performs streaming speech understanding and generation. It enables natural conversational dynamics like interruptions and overlaps by concurrently processing user audio and generating its own spoken responses, conditioned on voice and text prompts for persona control.
+Qwen3-Coder-Next is an 80B parameter LLM optimized for coding agents, featuring 3B activated parameters, advanced agentic capabilities for long-horizon reasoning and tool usage, and a 256k context length for seamless IDE integration.
 
-`audio-to-audio`
+`text-generation` `79.7B`
 
-⬇️ 172,413 • ❤️ 1,678 • 8d ago
+⬇️ 144,708 • ❤️ 193 • 1d ago
 
 ---
 
@@ -503,45 +507,9 @@ PersonaPlex-7B-v1 is a real-time, full-duplex speech-to-speech conversational mo
 
 _paperbanana is an agentic framework that automates the creation of publication-ready academic illustrations using advanced vision-language models and image generation techniques.
 
-▲ 124 • 💬 12 • ⭐ 2,145 • 7d ago
+▲ 126 • 💬 12 • ⭐ 2,145 • 7d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2601.23265) • [💻 code](https://github.com/dwzhu-pku/PaperBanana) • [🔗 project](https://dwzhu-pku.github.io/PaperBanana/)
-
----
-
-**[Scaling Large-Language-Model-based Multi-Agent Collaboration](https://huggingface.co/papers/2406.07155)**
-
-*Chen Qian, Zihao Xie, Yifei Wang et al. (10 authors)*
-
-Multi-agent collaboration networks enhance collective intelligence, outperforming baselines across various topologies and showing emergent abilities earlier than neural scaling laws suggest.
-
-▲ 4 • 💬 0 • ⭐ 30,368 • 20mo ago
-
-[🎓 arXiv](https://arxiv.org/abs/2406.07155) • [💻 code](https://github.com/OpenBMB/ChatDev/tree/macnet) • [🔗 project](https://github.com/OpenBMB/ChatDev/tree/macnet)
-
----
-
-**[Agent Lightning: Train ANY AI Agents with Reinforcement Learning](https://huggingface.co/papers/2508.03680)**
-
-*Xufang Luo, Yuge Zhang, Zhiyuan He et al. (8 authors)*
-
-Agent Lightning is a flexible RL framework for training LLMs in various agents, using a hierarchical RL algorithm and decoupling execution from training to handle complex interactions.
-
-▲ 133 • 💬 6 • ⭐ 14,121 • 6mo ago
-
-[🎓 arXiv](https://arxiv.org/abs/2508.03680) • [💻 code](https://github.com/microsoft/agent-lightning) • [🔗 project](https://www.microsoft.com/en-us/research/project/agent-lightning/)
-
----
-
-**[Multi-Agent Collaboration via Evolving Orchestration](https://huggingface.co/papers/2505.19591)**
-
-*Yufan Dang, Chen Qian, Xueheng Luo et al. (14 authors)*
-
-A centralized orchestrator dynamically directs LLM agents via reinforcement learning, achieving superior multi-agent collaboration in varying tasks with reduced computational costs.
-
-▲ 6 • 💬 0 • ⭐ 30,368 • 8mo ago
-
-[🎓 arXiv](https://arxiv.org/abs/2505.19591) • [💻 code](https://github.com/OpenBMB/ChatDev/tree/puppeteer)
 
 ---
 
@@ -554,6 +522,42 @@ Cross-Team Collaboration improves software quality by enabling multiple LLM agen
 ▲ 2 • 💬 0 • ⭐ 30,398 • 20mo ago
 
 [🎓 arXiv](https://arxiv.org/abs/2406.08979) • [💻 code](https://github.com/OpenBMB/ChatDev)
+
+---
+
+**[Scaling Large-Language-Model-based Multi-Agent Collaboration](https://huggingface.co/papers/2406.07155)**
+
+*Chen Qian, Zihao Xie, Yifei Wang et al. (10 authors)*
+
+Multi-agent collaboration networks enhance collective intelligence, outperforming baselines across various topologies and showing emergent abilities earlier than neural scaling laws suggest.
+
+▲ 4 • 💬 0 • ⭐ 30,418 • 20mo ago
+
+[🎓 arXiv](https://arxiv.org/abs/2406.07155) • [💻 code](https://github.com/OpenBMB/ChatDev/tree/macnet) • [🔗 project](https://github.com/OpenBMB/ChatDev/tree/macnet)
+
+---
+
+**[Multi-Agent Collaboration via Evolving Orchestration](https://huggingface.co/papers/2505.19591)**
+
+*Yufan Dang, Chen Qian, Xueheng Luo et al. (14 authors)*
+
+A centralized orchestrator dynamically directs LLM agents via reinforcement learning, achieving superior multi-agent collaboration in varying tasks with reduced computational costs.
+
+▲ 6 • 💬 0 • ⭐ 30,418 • 8mo ago
+
+[🎓 arXiv](https://arxiv.org/abs/2505.19591) • [💻 code](https://github.com/OpenBMB/ChatDev/tree/puppeteer)
+
+---
+
+**[Agent Lightning: Train ANY AI Agents with Reinforcement Learning](https://huggingface.co/papers/2508.03680)**
+
+*Xufang Luo, Yuge Zhang, Zhiyuan He et al. (8 authors)*
+
+Agent Lightning is a flexible RL framework for training LLMs in various agents, using a hierarchical RL algorithm and decoupling execution from training to handle complex interactions.
+
+▲ 133 • 💬 6 • ⭐ 14,169 • 6mo ago
+
+[🎓 arXiv](https://arxiv.org/abs/2508.03680) • [💻 code](https://github.com/microsoft/agent-lightning) • [🔗 project](https://www.microsoft.com/en-us/research/project/agent-lightning/)
 
 ---
 
@@ -620,7 +624,7 @@ PaddleOCR-VL, a vision-language model combining NaViT-style dynamic resolution a
 
 SmolDocling is a compact vision-language model that performs end-to-end document conversion with robust performance across various document types using 256M parameters and a new markup format.
 
-▲ 138 • 💬 19 • ⭐ 52,248 • 10mo ago
+▲ 138 • 💬 19 • ⭐ 52,290 • 10mo ago
 
 [🎓 arXiv](https://arxiv.org/abs/2503.11576) • [💻 code](https://github.com/docling-project/docling) • [🔗 project](https://huggingface.co/ds4sd/SmolDocling-256M-preview)
 
@@ -636,7 +640,7 @@ Browser automation CLI for AI agents
 
 `TypeScript`
 
-⭐ 12.9k • 🔱 739 • 1d ago
+⭐ 12.9k • 🔱 741 • 1d ago
 
 ---
 
@@ -646,7 +650,7 @@ AI → JSON → UI
 
 `TypeScript`
 
-⭐ 10.1k • 🔱 536 • 23h ago
+⭐ 10.1k • 🔱 536 • 1d ago
 
 ---
 
@@ -656,7 +660,7 @@ LLM驱动的 A/H/美股智能分析器，多数据源行情 + 实时新闻 + Gem
 
 `Python` `agent` `ai` `aigc` `gemini` `llm`
 
-⭐ 9.7k • 🔱 10.2k • 4h ago
+⭐ 9.7k • 🔱 10.2k • 5h ago
 
 ---
 
@@ -666,7 +670,7 @@ The Ultimate Collection of 700+ Agentic Skills for Claude Code/Antigravity/Curso
 
 `Python` `agentic-skills` `ai-agents` `antigravity` `autonomous-coding` `claude-code`
 
-⭐ 7.6k • 🔱 1.6k • 9h ago
+⭐ 7.6k • 🔱 1.6k • 10h ago
 
 ---
 
@@ -676,7 +680,7 @@ Marketing skills for Claude Code and AI agents. CRO, copywriting, SEO, analytics
 
 `claude` `codex` `marketing`
 
-⭐ 6.1k • 🔱 693 • 2d ago
+⭐ 6.1k • 🔱 696 • 2d ago
 
 ---
 
@@ -684,7 +688,7 @@ Marketing skills for Claude Code and AI agents. CRO, copywriting, SEO, analytics
 
 Claude Code skill that removes signs of AI-generated writing from text
 
-⭐ 4.1k • 🔱 346 • 14d ago
+⭐ 4.1k • 🔱 347 • 14d ago
 
 ---
 
@@ -692,7 +696,7 @@ Claude Code skill that removes signs of AI-generated writing from text
 
 Elevate your AI research writing, no more tedious polishing ✨ 
 
-⭐ 3.9k • 🔱 315 • 2d ago
+⭐ 3.9k • 🔱 316 • 2d ago
 
 ---
 
@@ -702,7 +706,7 @@ OpenSource Claude Cowork. A desktop AI assistant that helps you with programming
 
 `TypeScript`
 
-⭐ 2.8k • 🔱 377 • 14d ago
+⭐ 2.8k • 🔱 376 • 14d ago
 
 ---
 
@@ -720,7 +724,7 @@ An app to monitor the (Codex) situation
 
 `TypeScript` `ai` `codex` `linux` `macos` `tauri-app`
 
-⭐ 2.2k • 🔱 196 • 59m ago
+⭐ 2.2k • 🔱 195 • 1h ago
 
 ---
 
