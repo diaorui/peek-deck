@@ -3,7 +3,7 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-02-06T08:43:07.255731+00:00'
+updated: '2026-02-06T09:43:57.012921+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
@@ -18,7 +18,7 @@ data_types:
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** February 06, 2026 at 08:43 UTC  
+**Last Updated:** February 06, 2026 at 09:43 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -36,33 +36,33 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Price
 
-### $1,882.65
+### $1,913.24
 
 ---
 
 ## Ethereum Chart
 
-**24h:** -11.9%  
-**7d:** -23.4%  
-**30d:** -39.6%  
-**90d:** -47.6%  
-**1y:** -28.4%  
+**24h:** -8.8%  
+**7d:** -22.2%  
+**30d:** -38.7%  
+**90d:** -46.8%  
+**1y:** -27.3%  
 
 ---
 
 ## Ethereum Market Stats
 
-**Market Cap:** $231.19B
+**Market Cap:** $230.10B
 Rank #2
 
 **Circulating Supply:** 120,692,919 ETH
 No max supply
 
 **All-Time High:** $4,946.05
--61.3%
+-61.5%
 
 **All-Time Low:** $0.43
-+442230.9%
++440048.4%
 
 ---
 
@@ -72,7 +72,7 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-2h ago
+3h ago
 
 ---
 
@@ -80,7 +80,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 Good morning, could anyone recommend some good reading material to learn more about the Ethereum blockchain and smart contract development/deployment? I'm an IT professional, so even fairly technical material is fine, but I'd like to have a good overview first before moving on to the development side of things.
 
-2h ago
+3h ago
 
 ---
 
@@ -96,7 +96,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 https://etherscan.io/tx/0xaab90d00abf065e4158852a64c809b8921d109e997bd3790cb471aadfa57f4e0 I've been waiting for this transaction for almost an hour (trying to transfer from Newton to TrustWallet). There seem to be hundreds of transactions from the same address that I don't recognize. Have I been hacked? Update: It's fixed now, just had to wait a couple hours.
 
-10h ago
+12h ago
 
 ---
 
@@ -156,7 +156,7 @@ I’d like a more technical and realistic analysis of Ethereum and how things ar
 
 A leaked pitch to reshape Ethereum’s leadership exposed deep divisions over politics, power and Ether’s static price
 
-The Guardian • 17h ago
+The Guardian • 18h ago
 
 ---
 
@@ -164,27 +164,11 @@ The Guardian • 17h ago
 
 Despite the mounting loss, the Ethereum treasury firm says it's under no pressure to sell as ETH price crashes and its stock tumbles.
 
-CoinDesk • 15h ago
+CoinDesk • 16h ago
 
 ---
 
-**[Should You Invest $2,500 in Ethereum, or Shiba Inu?](https://finance.yahoo.com/news/invest-2-500-ethereum-shiba-063500625.html)**
-
-One of these chains is shipping upgrades, and the other is dead in the water.
-
-Yahoo Finance • 2h ago
-
----
-
-**[Should You Invest $2,500 in Ethereum, or Shiba Inu?](https://www.fool.com/investing/2026/02/06/should-you-invest-2500-in-ethereum-or-shiba-inu/)**
-
-One of these chains is shipping upgrades, and the other is dead in the water.
-
-The Motley Fool • 2h ago
-
----
-
-**[Bitcoin, XRP, Ethereum Drop. Why Cryptos Are Under Pressure Today.](https://www.barrons.com/articles/bitcoin-xrp-ethereum-cryptos-gold-9051820f?gaa_at=eafs&gaa_n=AWEtsqcq-tUQ0w1qprkrVqwxNjC5DqJgfmVpwbelb3QY2oxFyHw9kWcXMOQk&gaa_ts=6985ad03&gaa_sig=k84uTA4XE-GFRjEm2s2r7LNBrh0B4Ls-8Qiwh9sjRCb6bshKx1HRn1NZ0gljcDR1z-ScPquOMP7WTYfUA0dX1w%3D%3D)**
+**[Bitcoin, XRP, Ethereum Drop. Why Cryptos Are Under Pressure Today.](https://www.barrons.com/articles/bitcoin-xrp-ethereum-cryptos-gold-9051820f?gaa_at=eafs&gaa_n=AWEtsqdzI5skLtXp6pYySWp4j0w4ahmSernS-y2CFwps9um5YGZn9azeONtt&gaa_ts=6985bb4c&gaa_sig=C15gT6Hb2A30ibUwz2Z0GzWtApYR1xeGMI-RsEowwcmEbF7S3-fGHEUgFD6NbMdAGbsIIGaNeFpvenXD368XDA%3D%3D)**
 
 Barron's • 1d ago
 
@@ -194,7 +178,7 @@ Barron's • 1d ago
 
 XRP has plunged 15% on the day as crypto markets turn bearish, with Ethereum, Dogecoin, and Solana also sinking alongside Bitcoin.
 
-Decrypt • 16h ago
+Decrypt • 17h ago
 
 ---
 
@@ -202,7 +186,7 @@ Decrypt • 16h ago
 
 Why crypto is falling? Bitcoin price tests $70K, XRP below $1.40, ETH at $2,068. $775M liquidated as Fed hawkishness and institutional outflows hammer markets.
 
-financemagnates.com • 21h ago
+financemagnates.com • 23h ago
 
 ---
 
@@ -228,6 +212,22 @@ Decrypt • 1d ago
 
 ---
 
+**[Ethereum Is Dying, Or Is This the Biggest Buy Signal of the Decade?](https://finance.yahoo.com/news/ethereum-dying-biggest-buy-signal-111906763.html)**
+
+Vitalik Buterin might have just killed the Ethereum price and L2 market. Buterin announced this week that “The original vision for L2s and their role in Ethereum no longer makes sense.” The idea in 2021 was that L2s would eventually become decentralized, but they haven’t really accomplished that. It may ...
+
+Yahoo Finance • 1d ago
+
+---
+
+**[Should You Invest $2,500 in Ethereum, or Shiba Inu?](https://www.fool.com/investing/2026/02/06/should-you-invest-2500-in-ethereum-or-shiba-inu/)**
+
+One of these chains is shipping upgrades, and the other is dead in the water.
+
+The Motley Fool • 3h ago
+
+---
+
 ---
 
 ## YouTube Videos: "ethereum"
@@ -238,7 +238,7 @@ My FREE Daily 5-Min Crypto Newsletter: https://www.cryptonutshell.com/subscribe 
 
 📺 Crypto Nutshell
 
-👁️ 11K • 👍 349 • 💬 143 • ⏱️ 22:22 • 17h ago
+👁️ 12K • 👍 364 • 💬 144 • ⏱️ 22:22 • 18h ago
 
 ---
 
@@ -248,7 +248,7 @@ This video provides a professional Elliott Wave and technical analysis of Ethere
 
 📺 More Crypto Online
 
-👁️ 3K • 👍 179 • 💬 20 • ⏱️ 6:13 • 8h ago
+👁️ 4K • 👍 199 • 💬 23 • ⏱️ 6:13 • 9h ago
 
 ---
 
@@ -258,27 +258,7 @@ Join Premium: https://the-bitcoin-strategy.com My Chart Software: https://the-bi
 
 📺 Gerhard - Bitcoin Strategy
 
-👁️ 8K • 👍 208 • 💬 68 • ⏱️ 9:49 • 23h ago
-
----
-
-**[THIS IS HUGE FOR ETHEREUM 🚨 FEBRUARY 5](https://www.youtube.com/watch?v=eiKJWCQrOKQ)**
-
-THIS IS HUGE FOR ETHEREUM FEBRUARY 5.
-
-📺 Overkill Trading
-
-👁️ 1K • 👍 75 • 💬 8 • ⏱️ 2:52 • 6h ago
-
----
-
-**[BITCOIN CRASH TODAY: It&#39;s Finally Happening (Urgent)!!! - Bitcoin News Today, Ethereum &amp; Altcoins](https://www.youtube.com/watch?v=aCiYOP2KFTw)**
-
-BITCOIN CRASH TODAY: It's Finally Happening (Urgent)!!! - Bitcoin News Today, Ethereum & Altcoins *Bitunix* ...
-
-📺 Crypto World
-
-👁️ 20K • 👍 520 • 💬 177 • ⏱️ 24:32 • 18h ago
+👁️ 9K • 👍 212 • 💬 68 • ⏱️ 9:49 • 1d ago
 
 ---
 
@@ -288,27 +268,27 @@ Where does Bitcoin find its bottom? This past week we've seen a significant Bitc
 
 📺 VirtualBacon
 
-👁️ 28K • 👍 1K • 💬 538 • ⏱️ 49:08 • 10h ago
+👁️ 32K • 👍 2K • 💬 553 • ⏱️ 49:08 • 11h ago
 
 ---
 
-**[&quot;My Warning For ALL Small Crypto Holders In February&quot;: Tom Lee | Ethereum Price 2026](https://www.youtube.com/watch?v=K52Ev_G1YwQ)**
+**[THIS IS HUGE FOR ETHEREUM 🚨 FEBRUARY 5](https://www.youtube.com/watch?v=eiKJWCQrOKQ)**
 
-My FREE Daily On-Chain Analysis & Crypto News In 5-Mins: https://www.cryptonutshell.com/subscribe You can NOW ...
+THIS IS HUGE FOR ETHEREUM FEBRUARY 5.
 
-📺 Jamie Tree 
+📺 Overkill Trading
 
-👁️ 3K • 👍 91 • 💬 169 • ⏱️ 18:33 • 1d ago
+👁️ 2K • 👍 86 • 💬 42 • ⏱️ 2:52 • 7h ago
 
 ---
 
-**[HUGE Crypto CRASH, BITCOIN, XRP, ETHEREUM Price Prediction (IMPORTANT!!)](https://www.youtube.com/watch?v=GEvMvkf_Gwo)**
+**[BITCOIN CRASH TODAY: It&#39;s Finally Happening (Urgent)!!! - Bitcoin News Today, Ethereum &amp; Altcoins](https://www.youtube.com/watch?v=aCiYOP2KFTw)**
 
-Research Bitcoin Hyper - https://99bitcoins.care/b_BTCHyper99BTC - Download the Best FREE Non-Custodial Crypto Wallet of ...
+BITCOIN CRASH TODAY: It's Finally Happening (Urgent)!!! - Bitcoin News Today, Ethereum & Altcoins *Bitunix* ...
 
-📺 99Bitcoins
+📺 Crypto World
 
-👁️ 610 • 👍 7 • 💬 67 • ⏱️ 3:35 • 13h ago
+👁️ 21K • 👍 531 • 💬 178 • ⏱️ 24:32 • 19h ago
 
 ---
 
@@ -318,7 +298,17 @@ I told you price had to test the lows before moving back up. BTC, ETH, SOL — a
 
 📺 Davinci Jeremie
 
-👁️ 12K • 👍 493 • 💬 140 • ⏱️ 8:24 • 1d ago
+👁️ 12K • 👍 497 • 💬 141 • ⏱️ 8:24 • 1d ago
+
+---
+
+**[NO ONE IS LEAVING Ethereum Just Got Some Heavy News Solana, PENGU  &amp; Bitcoin Holders Might Get Happy](https://www.youtube.com/watch?v=caeEuPCsp8Q)**
+
+Im certain that no one saw this coming. Ethereum might be in a more different spot than we were previously led to believe.
+
+📺 The Modern Investor
+
+👁️ 8K • 👍 729 • 💬 260 • ⏱️ 25:12 • 22h ago
 
 ---
 
@@ -329,6 +319,16 @@ Ethereum has experienced multiple major pullbacks throughout its history and eve
 📺 The Value Thinker
 
 👁️ 16K • 👍 1K • 💬 209 • ⏱️ 22:38 • 1d ago
+
+---
+
+**[Ethereum Elliott Wave Update – Key Resistance Levels Ahead](https://www.youtube.com/watch?v=30e1X0ac6kA)**
+
+This video provides a professional Elliott Wave and technical analysis of Ethereum (ETH), focusing on market structure, major ...
+
+📺 More Crypto Online
+
+👁️ 5K • 👍 343 • 💬 17 • ⏱️ 6:23 • 16h ago
 
 ---
 

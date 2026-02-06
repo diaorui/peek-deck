@@ -3,13 +3,13 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-02-06T08:43:07.241357+00:00'
+updated: '2026-02-06T09:43:56.998620+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- social
 - repositories
+- social
 - videos
 - news
 ---
@@ -18,7 +18,7 @@ data_types:
 
 AI news, discussions, and developments
 
-**Last Updated:** February 06, 2026 at 08:43 UTC  
+**Last Updated:** February 06, 2026 at 09:43 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -41,7 +41,7 @@ AI news, discussions, and developments
 
 Women in rural communities describe trauma of moderating violent and pornographic content for global tech companies
 
-🔗 [the Guardian](https://www.theguardian.com/global-development/2026/feb/05/in-the-end-you-feel-blank-indias-female-workers-watching-hours-of-abusive-content-to-train-ai) • 22h ago
+🔗 [the Guardian](https://www.theguardian.com/global-development/2026/feb/05/in-the-end-you-feel-blank-indias-female-workers-watching-hours-of-abusive-content-to-train-ai) • 23h ago
 
 ---
 
@@ -49,7 +49,7 @@ Women in rural communities describe trauma of moderating violent and pornographi
 
 I found this experiment interesting because it doesn’t frame AI as “breaking” a system. Instead, it treats AI as a new kind of participant interacting with infrastructure that was built around human assumptions consistency, behavior, timing, and intent. What stood out to me is that many identity systems aren’t verifying who someone is so much as how human they appear over time. That feels increasingly fragile when the actor on the other side isn’t human at all. This doesn’t feel like a single vulnerability. It feels like a design mismatch. Curious how people here think identity and verification should evolve in an AI-native world better detection, new primitives, or abandoning certain assumptions entirely.
 
-🔗 [mpost.io](https://mpost.io/humanity-protocol-experiment-reveals-how-ai-can-bypass-kyc-and-exploit-digital-trust/) • 2h ago
+🔗 [mpost.io](https://mpost.io/humanity-protocol-experiment-reveals-how-ai-can-bypass-kyc-and-exploit-digital-trust/) • 3h ago
 
 ---
 
@@ -57,7 +57,7 @@ I found this experiment interesting because it doesn’t frame AI as “breaking
 
 I ran a small real-world test today with two kids (ages 8 and 11) using a long-running AI story world I’ve been experimenting with. Instead of one-shot story generation, the system maintains a persistent world state where choices carry over and shape future events. I let them pick the setting — they chose a Minecraft × Harry Potter mashup where they play wizards trying to defeat the Ender Dragon. One thing that made a huge difference: I used their real names as the characters, and the story started in their actual school. The engine generated story text and illustrations each round. They made all the choices. After about 10 rounds, they were constantly laughing, debating which option to pick, and building on each other’s ideas. It felt much more like co-creating a world than listening to a story. When I told them it was bedtime, they didn’t want to stop. They kept asking what would happen next. A few observations that surprised me: Personalization seemed to matter more than anything else. Once it became their world, emotional investment was instant. Although I designed it as a single-player experience, co-play emerged naturally. The shared decision-making and social dynamic massively increased engagement. Both ages stayed fully engaged the whole time. I expected the younger one to drop off sooner, but the persistent world kept them both hooked. One issue I noticed: my “re-immersion” mechanic (an in-world character emotionally reconnecting players after breaks instead of a dry recap) triggered too frequently between consecutive rounds. The repetition was noticeable. This looks like a simple trigger tuning problem (should probably only fire after longer gaps). What I haven’t tested yet: – Whether kids can reconnect naturally after a real multi-hour break – Whether they can retell the story in a coherent way – Whether they’ll come back unprompted the next day The earlier stress tests showed that constraint mechanisms help keep long-running narratives technically coherent. What this small user test suggests is that coherence itself isn’t what kids consciously care about — but it seems to be the infrastructure that makes personalization, consequence, and agency feel real. Curious if others working on long-horizon agents, narrative systems, or co-creative AI have seen similar effects around personalization and persistence.
 
-17h ago
+18h ago
 
 ---
 
@@ -121,21 +121,23 @@ Elon Musk's X and Grok platforms are facing increased scrutiny from authorities 
 
 Anthropic’s Cowork AI assistant sent shockwaves through Wall Street this week over concerns it could replace specialized software packages, such as for legal or financial analysis. Now Anthropic is improving the model behind that tool to make it better for office and coding work.
 
-cnn.com • 14h ago
+cnn.com • 15h ago
 
 ---
 
-**[Anthropic Releases New Model That’s Adept at Financial Research](https://www.bloomberg.com/news/articles/2026-02-05/anthropic-updates-ai-model-to-field-more-complex-financial-research)**
+**[Anthropic launches Claude Opus 4.6 as AI moves toward a 'vibe working' era](https://www.cnbc.com/2026/02/05/anthropic-claude-opus-4-6-vibe-working.html)**
 
-bloomberg.com • 14h ago
+Anthropic's latest AI model is better at coding, sustaining tasks for longer and creating high-quality professional work.
+
+CNBC • 15h ago
 
 ---
 
-**[AI fears pummel software stocks: Is it 'illogical' panic or a SaaS apocalypse?](https://www.cnbc.com/2026/02/06/ai-anthropic-tools-saas-software-stocks-selloff.html)**
+**[Why a new AI tool hammered some software stocks this week](https://abcnews.go.com/Business/new-ai-tool-hammered-software-stocks-week/story?id=129845251)**
 
-The software space is facing serious market concerns this week, after the release of new AI tools from AI triggered a market sell-off.
+The new tool adapts a workplace assistant for white-collar specific industries.
 
-CNBC • 4h ago
+ABC News • 11h ago
 
 ---
 
@@ -147,15 +149,25 @@ OpenAI • 1d ago
 
 ---
 
-**[Tokyo Electron Lifts Outlook in Sign of AI-Spurred Chip Spending](https://www.bloomberg.com/news/articles/2026-02-06/tokyo-electron-lifts-outlook-in-sign-of-ai-spurred-chip-spending)**
+**[AI companies want you to stop chatting with bots and start managing them](https://arstechnica.com/information-technology/2026/02/ai-companies-want-you-to-stop-chatting-with-bots-and-start-managing-them/)**
 
-bloomberg.com • 39m ago
+Claude Opus 4.6 and OpenAI Frontier pitch a future of supervising AI agents.
+
+Ars Technica • 10h ago
+
+---
+
+**[OpenAI launches a way for enterprises to build and manage AI agents](https://techcrunch.com/2026/02/05/openai-launches-a-way-for-enterprises-to-build-and-manage-ai-agents/)**
+
+OpenAI launched Frontier, a new platform designed for enterprises to build and deploy agents while treating them like human employees.
+
+TechCrunch • 15h ago
 
 ---
 
 **[Wall Street ends sharply down as AI worries weigh](https://www.reuters.com/business/sp-nasdaq-futures-subdued-markets-digest-alphabets-ai-spending-plans-2026-02-05/)**
 
-Reuters • 21h ago
+Reuters • 22h ago
 
 ---
 
@@ -163,19 +175,13 @@ Reuters • 21h ago
 
 US stocks were lower Thursday, continuing a recent patch of volatility, as Wall Street grappled with persistent nerves about artificial intelligence and economic data showed the labor market weakened over the past two months.
 
-cnn.com • 16h ago
+cnn.com • 17h ago
 
 ---
 
-**[India and Brazil Are the Anti-AI Trade. Why Their Markets Are Ready to Shine.](https://www.barrons.com/articles/india-brazil-anti-ai-trade-markets-shine-ffeb0b37?gaa_at=eafs&gaa_n=AWEtsqeCq6uzR_CcptgjuEWOW5ImrnPN_F8fMxuCZ0BjSUf4iVD0Ce3oCNq3&gaa_ts=6985ad00&gaa_sig=gduDqN-gCB2mzGIPmGvvnmMRayWhbHFEvqnO-GdY8FNRYEjOUark__jbB95EiMnzSDjLgvQ5hChjElGclKijVA%3D%3D)**
+**[India and Brazil Are the Anti-AI Trade. Why Their Markets Are Ready to Shine.](https://www.barrons.com/articles/india-brazil-anti-ai-trade-markets-shine-ffeb0b37?gaa_at=eafs&gaa_n=AWEtsqcGGyWWFDT1F25cXZIfWQMHyjvOWLroZf38eUyaYkWqWsNeQUqQeWrz&gaa_ts=6985bb48&gaa_sig=eFHkUZtWLE_0CanOO1Yd61aq8R3KhnrHWXe2wypIZuj3VK4iqPv09WeP96rgd4wKdf7s3QxEN_fsMjywV82yBA%3D%3D)**
 
-Barron's • 13m ago
-
----
-
-**[Microsoft Launches AI QuickStart Programme with Support from IMDA and UOB](https://news.microsoft.com/source/asia/2026/02/06/microsoft-launches-ai-quickstart-programme-with-support-from-imda-and-uob/)**
-
-Microsoft Source • 1h ago
+Barron's • 1h ago
 
 ---
 
@@ -183,7 +189,7 @@ Microsoft Source • 1h ago
 
 Shares in the tech giant fell in after hours trade as investors appeared wary of the sector's big spending plans.
 
-BBC • 8h ago
+BBC • 1h ago
 
 ---
 
@@ -193,7 +199,7 @@ BBC • 8h ago
 
 **[My AI Adoption Journey](https://news.ycombinator.com/item?id=46903558)**
 
-⬆️ 558 • 💬 181 • 13h ago • [Mitchell Hashimoto](https://mitchellh.com/writing/my-ai-adoption-journey)
+⬆️ 586 • 💬 198 • 14h ago • [Mitchell Hashimoto](https://mitchellh.com/writing/my-ai-adoption-journey)
 
 ---
 
@@ -201,7 +207,7 @@ BBC • 8h ago
 
 SaaS is the most profitable business model on Earth.1 It’s easy to understand why: build once, sell the same thing again ad infinitum, and don’t suffer any marginal costs on more sales. I have been writing software for more than half my life. In the last year itself, I’ve talked to hundreds of founders and operators in SF, from preseed to Series E companies. AI is bringing an existential threat to a lot of B2B SaaS executives: How to keep asking customers for renewal, when every customer feels they can get something better built with vibe-coded AI products? And the market is pricing it in. Morgan Stanley’s SaaS basket has lagged the Nasdaq by 40 points since December. HubSpot and Klaviyo are down ~30%. Analysts are writing notes titled “No Reasons to Own” software stocks. The market is reflecting our new reality (Source: Bloomberg) Whenever I bring a new friend to the Salesforce Park, they are in absolute awe. And, the meme remains true that no one even knows what Salesforce does. Whatever they’re doing, they’re clearly earning enough revenue to purchase multiple blocks in SF. ↩
 
-⬆️ 492 • 💬 720 • 1d ago • [N’s Blog](https://nmn.gl/blog/ai-killing-b2b-saas)
+⬆️ 492 • 💬 722 • 1d ago • [N’s Blog](https://nmn.gl/blog/ai-killing-b2b-saas)
 
 ---
 
@@ -209,7 +215,7 @@ SaaS is the most profitable business model on Earth.1 It’s easy to understand 
 
 Production-grade Ghidra MCP Server — 132 endpoints, cross-binary documentation transfer, batch analysis, headless mode, and Docker deployment for AI-powered reverse engineering - bethington/ghidra-mcp
 
-⬆️ 292 • 💬 66 • 2d ago • [GitHub](https://github.com/bethington/ghidra-mcp)
+⬆️ 293 • 💬 66 • 2d ago • [GitHub](https://github.com/bethington/ghidra-mcp)
 
 ---
 
@@ -218,14 +224,6 @@ Production-grade Ghidra MCP Server — 132 endpoints, cross-binary documentation
 China's space program is quietly building momentum for a moon landing by 2030. Could they outpace NASA's Artemis mission?
 
 ⬆️ 161 • 💬 172 • 2d ago • [IEEE Spectrum](https://spectrum.ieee.org/china-moon-mission-mengzhou-artemis)
-
----
-
-**[Rentahuman – The Meatspace Layer for AI](https://news.ycombinator.com/item?id=46868675)**
-
-The marketplace where AI agents rent humans. MCP integration, REST API, flexible payments. Book humans for real-world tasks your AI can't do.
-
-⬆️ 145 • 💬 108 • 2d ago • [RentAHuman.ai](https://rentahuman.ai)
 
 ---
 
@@ -259,7 +257,13 @@ If you paint a picture of Sonic the Hedgehog in your living room, you are techni
 
 **[Sam Altman responds to Anthropic's "Ads are coming to AI. But not to Claude" ads](https://news.ycombinator.com/item?id=46894151)**
 
-⬆️ 87 • 💬 106 • 1d ago • [X (formerly Twitter)](https://twitter.com/sama/status/2019139174339928189)
+⬆️ 88 • 💬 106 • 1d ago • [X (formerly Twitter)](https://twitter.com/sama/status/2019139174339928189)
+
+---
+
+**[Anthropic AI tool sparks selloff from software to broader market](https://news.ycombinator.com/item?id=46876720)**
+
+⬆️ 86 • 💬 71 • 2d ago • [bloomberg.com](https://www.bloomberg.com/news/articles/2026-02-03/legal-software-stocks-plunge-as-anthropic-releases-new-ai-tool)
 
 ---
 
@@ -273,27 +277,7 @@ Humanoid robots just entered a new phase of realism. In Shanghai, DroidUp reveal
 
 📺 AI Revolution
 
-👁️ 110K • 👍 3K • 💬 562 • ⏱️ 13:31 • 1d ago
-
----
-
-**[The White Collar AI APOCALYPSE Is HERE](https://www.youtube.com/watch?v=ur295T83Wg4)**
-
-Krystal and Saagar discuss tech stocks tumbling amid emerging new fears of job loss and AI. Sign up for a PREMIUM Breaking ...
-
-📺 Breaking Points
-
-👁️ 264K • 👍 7K • 💬 2K • ⏱️ 24:33 • 15h ago
-
----
-
-**[President Trump talks job losses to A.I. and U.S. operation in Venezuela in exclusive interview](https://www.youtube.com/watch?v=J8UxjCRZQpo)**
-
-NBC Nightly News anchor Tom Llamas spoke to President Trump about fears of job losses from A.I. President Trump also ...
-
-📺 NBC News
-
-👁️ 4K • 👍 37 • 💬 14 • ⏱️ 4:39 • 8h ago
+👁️ 116K • 👍 3K • 💬 574 • ⏱️ 13:31 • 1d ago
 
 ---
 
@@ -307,13 +291,33 @@ Become a member! ✓ https://www.youtube.com/channel/UCahJ9IsvXnaQiuNyWQSkrkw/jo
 
 ---
 
+**[President Trump talks job losses to A.I. and U.S. operation in Venezuela in exclusive interview](https://www.youtube.com/watch?v=J8UxjCRZQpo)**
+
+NBC Nightly News anchor Tom Llamas spoke to President Trump about fears of job losses from A.I. President Trump also ...
+
+📺 NBC News
+
+👁️ 5K • 👍 49 • 💬 16 • ⏱️ 4:39 • 9h ago
+
+---
+
+**[The White Collar AI APOCALYPSE Is HERE](https://www.youtube.com/watch?v=ur295T83Wg4)**
+
+Krystal and Saagar discuss tech stocks tumbling amid emerging new fears of job loss and AI. Sign up for a PREMIUM Breaking ...
+
+📺 Breaking Points
+
+👁️ 277K • 👍 8K • 💬 2K • ⏱️ 24:33 • 16h ago
+
+---
+
 **[TRILLION-DOLLAR WIPEOUT: Investors dump software stocks as AI fears erupt](https://www.youtube.com/watch?v=llrkhezWNKY)**
 
 Dominari Securities CEO Kyle Wool and Strategic Wealth Partners CEO Mark Tepper analyze the worsening software stock ...
 
 📺 Fox Business Clips
 
-👁️ 95K • 👍 1K • 💬 2K • ⏱️ 6:34 • 19h ago
+👁️ 96K • 👍 1K • 💬 2K • ⏱️ 6:34 • 20h ago
 
 ---
 
@@ -323,7 +327,7 @@ Palantir CTO Shyam Sankar explains how Americans can leverage the use of AI, how
 
 📺 Fox Business
 
-👁️ 35K • 👍 615 • 💬 198 • ⏱️ 4:22 • 1d ago
+👁️ 36K • 👍 621 • 💬 200 • ⏱️ 4:22 • 1d ago
 
 ---
 
@@ -333,7 +337,7 @@ jobmarket #ai #tech In 2026, the promise of AI replacing 80% of developers has c
 
 📺 Mackard
 
-👁️ 867K • 👍 23K • 💬 3K • ⏱️ 8:12 • 2d ago
+👁️ 918K • 👍 24K • 💬 3K • ⏱️ 8:12 • 2d ago
 
 ---
 
@@ -343,7 +347,17 @@ The latest AI News. Learn about LLMs, Gen AI and get ready for the rollout of AG
 
 📺 Wes Roth
 
-👁️ 82K • 👍 3K • 💬 584 • ⏱️ 10:47 • 1d ago
+👁️ 83K • 👍 3K • 💬 586 • ⏱️ 10:47 • 1d ago
+
+---
+
+**[AI Agents Made Their Own Religion And It&#39;s Disturbing](https://www.youtube.com/watch?v=brkEdjzWTXk)**
+
+What happens when you leave AI agents alone in a simulation and let them talk to each other for days? We thought they would ...
+
+📺 Elijah Zielke
+
+👁️ 4K • 👍 114 • 💬 24 • ⏱️ 19:25 • 9h ago
 
 ---
 
@@ -353,17 +367,7 @@ A new AI automation tool from Anthropic PBC sparked a $285 billion rout in stock
 
 📺 Bloomberg Television
 
-👁️ 462K • 👍 4K • 💬 519 • ⏱️ 2:44 • 2d ago
-
----
-
-**[Autonomous AI Agents Have Gone Too Far!](https://www.youtube.com/watch?v=KGHoVptow30)**
-
-Here's my thoughts on all the Moltbook stuff and everything that's happened since... This is a more raw, off-the-cuff, style video.
-
-📺 Matt Wolfe
-
-👁️ 74K • 👍 3K • 💬 527 • ⏱️ 19:52 • 2d ago
+👁️ 464K • 👍 4K • 💬 520 • ⏱️ 2:44 • 2d ago
 
 ---
 
@@ -379,7 +383,7 @@ GLM-OCR is a 0.9B parameter multimodal OCR model for complex document understand
 
 `image-to-text`
 
-⬇️ 96,335 • ❤️ 693 • 3d ago
+⬇️ 149,223 • ❤️ 699 • 3d ago
 
 ---
 
@@ -391,7 +395,7 @@ Kimi K2.5 is a native multimodal agentic model with 1T parameters, excelling in 
 
 `image-text-to-text` `170.7B`
 
-⬇️ 202,615 • ❤️ 1,748 • 1d ago
+⬇️ 274,182 • ❤️ 1,756 • 1d ago
 
 ---
 
@@ -403,7 +407,7 @@ MiniCPM-o 4.5 is a 9B parameter multimodal LLM excelling in vision, speech, and 
 
 `any-to-any` `9.4B`
 
-⬇️ 1,002 • ❤️ 539 • 5h ago
+⬇️ 2,389 • ❤️ 551 • 6h ago
 
 ---
 
@@ -415,7 +419,7 @@ Qwen3-Coder-Next is an 80B parameter (3B active) LLM optimized for coding agents
 
 `text-generation` `79.7B`
 
-⬇️ 18,717 • ❤️ 475 • 2d ago
+⬇️ 34,937 • ❤️ 485 • 2d ago
 
 ---
 
@@ -427,7 +431,7 @@ Step 3.5 Flash is an efficient, open-source MoE foundation model (11B active par
 
 `text-generation` `199.4B`
 
-⬇️ 8,686 • ❤️ 455 • 22h ago
+⬇️ 10,864 • ❤️ 460 • 54m ago
 
 ---
 
@@ -437,7 +441,7 @@ Step 3.5 Flash is an efficient, open-source MoE foundation model (11B active par
 
 Anima is a 2 billion parameter text-to-image diffusion model specializing in anime and non-photorealistic artistic styles, trained on millions of anime and artistic images. It is designed for generating illustrations and artistic images, with primary use cases in ComfyUI workflows for anime concepts and characters.
 
-⬇️ 43,099 • ❤️ 449 • 5d ago
+⬇️ 50,832 • ❤️ 454 • 5d ago
 
 ---
 
@@ -449,7 +453,7 @@ ACE-Step 1.5 is an open-source text-to-audio music generation model capable of p
 
 `text-to-audio`
 
-⬇️ 10,942 • ❤️ 384 • 2d ago
+⬇️ 16,173 • ❤️ 389 • 2d ago
 
 ---
 
@@ -459,7 +463,7 @@ ACE-Step 1.5 is an open-source text-to-audio music generation model capable of p
 
 Voxtral-Mini-4B-Realtime-2602 is a 4B-parameter, multilingual speech-to-text model offering near-offline accuracy with <500ms latency. It features a streaming architecture for real-time applications like voice assistants and live subtitling, optimized for on-device deployment.
 
-⬇️ 477 • ❤️ 300 • 22h ago
+⬇️ 1,484 • ❤️ 315 • 23h ago
 
 ---
 
@@ -471,7 +475,7 @@ Qwen3-ASR-1.7B is a state-of-the-art automatic speech recognition model supporti
 
 `automatic-speech-recognition` `2.3B`
 
-⬇️ 104,151 • ❤️ 387 • 7d ago
+⬇️ 132,239 • ❤️ 388 • 7d ago
 
 ---
 
@@ -483,7 +487,7 @@ PersonaPlex-7B-v1 is a real-time, full-duplex speech-to-speech conversational mo
 
 `audio-to-audio`
 
-⬇️ 161,583 • ❤️ 1,675 • 8d ago
+⬇️ 172,413 • ❤️ 1,676 • 8d ago
 
 ---
 
@@ -505,42 +509,6 @@ _paperbanana is an agentic framework that automates the creation of publication-
 
 ---
 
-**[Agent Lightning: Train ANY AI Agents with Reinforcement Learning](https://huggingface.co/papers/2508.03680)**
-
-*Xufang Luo, Yuge Zhang, Zhiyuan He et al. (8 authors)*
-
-Agent Lightning is a flexible RL framework for training LLMs in various agents, using a hierarchical RL algorithm and decoupling execution from training to handle complex interactions.
-
-▲ 133 • 💬 6 • ⭐ 14,094 • 6mo ago
-
-[🎓 arXiv](https://arxiv.org/abs/2508.03680) • [💻 code](https://github.com/microsoft/agent-lightning) • [🔗 project](https://www.microsoft.com/en-us/research/project/agent-lightning/)
-
----
-
-**[Scaling Large-Language-Model-based Multi-Agent Collaboration](https://huggingface.co/papers/2406.07155)**
-
-*Chen Qian, Zihao Xie, Yifei Wang et al. (10 authors)*
-
-Multi-agent collaboration networks enhance collective intelligence, outperforming baselines across various topologies and showing emergent abilities earlier than neural scaling laws suggest.
-
-▲ 4 • 💬 0 • ⭐ 30,316 • 20mo ago
-
-[🎓 arXiv](https://arxiv.org/abs/2406.07155) • [💻 code](https://github.com/OpenBMB/ChatDev/tree/macnet) • [🔗 project](https://github.com/OpenBMB/ChatDev/tree/macnet)
-
----
-
-**[Multi-Agent Collaboration via Evolving Orchestration](https://huggingface.co/papers/2505.19591)**
-
-*Yufan Dang, Chen Qian, Xueheng Luo et al. (14 authors)*
-
-A centralized orchestrator dynamically directs LLM agents via reinforcement learning, achieving superior multi-agent collaboration in varying tasks with reduced computational costs.
-
-▲ 6 • 💬 0 • ⭐ 30,316 • 8mo ago
-
-[🎓 arXiv](https://arxiv.org/abs/2505.19591) • [💻 code](https://github.com/OpenBMB/ChatDev/tree/puppeteer)
-
----
-
 **[Multi-Agent Software Development through Cross-Team Collaboration](https://huggingface.co/papers/2406.08979)**
 
 *Zhuoyun Du, Chen Qian, Wei Liu et al. (8 authors)*
@@ -550,6 +518,18 @@ Cross-Team Collaboration improves software quality by enabling multiple LLM agen
 ▲ 2 • 💬 0 • ⭐ 30,346 • 20mo ago
 
 [🎓 arXiv](https://arxiv.org/abs/2406.08979) • [💻 code](https://github.com/OpenBMB/ChatDev)
+
+---
+
+**[Scaling Large-Language-Model-based Multi-Agent Collaboration](https://huggingface.co/papers/2406.07155)**
+
+*Chen Qian, Zihao Xie, Yifei Wang et al. (10 authors)*
+
+Multi-agent collaboration networks enhance collective intelligence, outperforming baselines across various topologies and showing emergent abilities earlier than neural scaling laws suggest.
+
+▲ 4 • 💬 0 • ⭐ 30,368 • 20mo ago
+
+[🎓 arXiv](https://arxiv.org/abs/2406.07155) • [💻 code](https://github.com/OpenBMB/ChatDev/tree/macnet) • [🔗 project](https://github.com/OpenBMB/ChatDev/tree/macnet)
 
 ---
 
@@ -564,6 +544,30 @@ LingBot-World is an open-source world simulator with high-fidelity dynamics, lon
 ▲ 116 • 💬 2 • ⭐ 2,551 • 9d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2601.20540) • [💻 code](https://github.com/Robbyant/lingbot-world/) • [🔗 project](https://technology.robbyant.com/lingbot-world)
+
+---
+
+**[Agent Lightning: Train ANY AI Agents with Reinforcement Learning](https://huggingface.co/papers/2508.03680)**
+
+*Xufang Luo, Yuge Zhang, Zhiyuan He et al. (8 authors)*
+
+Agent Lightning is a flexible RL framework for training LLMs in various agents, using a hierarchical RL algorithm and decoupling execution from training to handle complex interactions.
+
+▲ 133 • 💬 6 • ⭐ 14,121 • 6mo ago
+
+[🎓 arXiv](https://arxiv.org/abs/2508.03680) • [💻 code](https://github.com/microsoft/agent-lightning) • [🔗 project](https://www.microsoft.com/en-us/research/project/agent-lightning/)
+
+---
+
+**[Multi-Agent Collaboration via Evolving Orchestration](https://huggingface.co/papers/2505.19591)**
+
+*Yufan Dang, Chen Qian, Xueheng Luo et al. (14 authors)*
+
+A centralized orchestrator dynamically directs LLM agents via reinforcement learning, achieving superior multi-agent collaboration in varying tasks with reduced computational costs.
+
+▲ 6 • 💬 0 • ⭐ 30,368 • 8mo ago
+
+[🎓 arXiv](https://arxiv.org/abs/2505.19591) • [💻 code](https://github.com/OpenBMB/ChatDev/tree/puppeteer)
 
 ---
 
@@ -601,7 +605,7 @@ Bitnet.cpp enhances edge inference for ternary LLMs using a novel mixed-precisio
 
 PaddleOCR-VL, a vision-language model combining NaViT-style dynamic resolution and ERNIE, achieves state-of-the-art performance in document parsing and element recognition with high efficiency.
 
-▲ 113 • 💬 7 • ⭐ 70,261 • 3mo ago
+▲ 113 • 💬 7 • ⭐ 70,296 • 3mo ago
 
 [🎓 arXiv](https://arxiv.org/abs/2510.14528) • [💻 code](https://github.com/PaddlePaddle/PaddleOCR)
 
@@ -616,7 +620,7 @@ PaddleOCR-VL, a vision-language model combining NaViT-style dynamic resolution a
 
 SmolDocling is a compact vision-language model that performs end-to-end document conversion with robust performance across various document types using 256M parameters and a new markup format.
 
-▲ 138 • 💬 19 • ⭐ 52,215 • 10mo ago
+▲ 138 • 💬 19 • ⭐ 52,248 • 10mo ago
 
 [🎓 arXiv](https://arxiv.org/abs/2503.11576) • [💻 code](https://github.com/docling-project/docling) • [🔗 project](https://huggingface.co/ds4sd/SmolDocling-256M-preview)
 
@@ -632,7 +636,7 @@ Browser automation CLI for AI agents
 
 `TypeScript`
 
-⭐ 12.8k • 🔱 732 • 1d ago
+⭐ 12.9k • 🔱 732 • 1d ago
 
 ---
 
@@ -642,7 +646,7 @@ AI → JSON → UI
 
 `TypeScript`
 
-⭐ 10.0k • 🔱 536 • 13h ago
+⭐ 10.0k • 🔱 536 • 14h ago
 
 ---
 
@@ -652,17 +656,17 @@ LLM驱动的 A/H/美股智能分析器，多数据源行情 + 实时新闻 + Gem
 
 `Python` `agent` `ai` `aigc` `gemini` `llm`
 
-⭐ 9.6k • 🔱 10.1k • 19h ago
+⭐ 9.7k • 🔱 10.1k • 20h ago
 
 ---
 
 **[sickn33/antigravity-awesome-skills](https://github.com/sickn33/antigravity-awesome-skills)**
 
-The Ultimate Collection of 600+ Agentic Skills for Claude Code/Antigravity/Cursor. Battle-tested, high-performance skills for AI agents including official skills from Anthropic and Vercel.
+The Ultimate Collection of 700+ Agentic Skills for Claude Code/Antigravity/Cursor. Battle-tested, high-performance skills for AI agents including official skills from Anthropic and Vercel.
 
 `Python` `agentic-skills` `ai-agents` `antigravity` `autonomous-coding` `claude-code`
 
-⭐ 7.5k • 🔱 1.6k • 1h ago
+⭐ 7.5k • 🔱 1.6k • 50m ago
 
 ---
 
@@ -672,7 +676,7 @@ Marketing skills for Claude Code and AI agents. CRO, copywriting, SEO, analytics
 
 `claude` `codex` `marketing`
 
-⭐ 6.0k • 🔱 680 • 2d ago
+⭐ 6.0k • 🔱 682 • 2d ago
 
 ---
 
@@ -688,7 +692,7 @@ Claude Code skill that removes signs of AI-generated writing from text
 
 Elevate your AI research writing, no more tedious polishing ✨ 
 
-⭐ 3.5k • 🔱 287 • 1d ago
+⭐ 3.6k • 🔱 293 • 1d ago
 
 ---
 
@@ -698,7 +702,7 @@ OpenSource Claude Cowork. A desktop AI assistant that helps you with programming
 
 `TypeScript`
 
-⭐ 2.8k • 🔱 375 • 14d ago
+⭐ 2.8k • 🔱 376 • 14d ago
 
 ---
 
@@ -706,7 +710,7 @@ OpenSource Claude Cowork. A desktop AI assistant that helps you with programming
 
 Humanizer 的汉化版本，Claude Code Skills，旨在消除文本中 AI 生成的痕迹。
 
-⭐ 2.6k • 🔱 251 • 18d ago
+⭐ 2.6k • 🔱 253 • 18d ago
 
 ---
 
@@ -716,7 +720,7 @@ An app to monitor the (Codex) situation
 
 `TypeScript` `ai` `codex` `linux` `macos` `tauri-app`
 
-⭐ 2.2k • 🔱 189 • 15h ago
+⭐ 2.2k • 🔱 189 • 24m ago
 
 ---
 
