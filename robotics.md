@@ -3,13 +3,13 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-02-06T23:27:26.592139+00:00'
+updated: '2026-02-06T23:51:52.355764+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- news
 - videos
+- news
 - social
 ---
 
@@ -17,7 +17,7 @@ data_types:
 
 Robotics research and industry news
 
-**Last Updated:** February 06, 2026 at 23:27 UTC  
+**Last Updated:** February 06, 2026 at 23:51 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -74,7 +74,7 @@ Felt so excited to see the robot I've been working on getting this much attentio
 
 Hey everyone — I’m a CS student working on an open-source tool called PF Gate that is supposed to be a supplement to the process of robotics debugging. If you run sims/log replays and deal with “it worked yesterday / what changed?” regressions, PF Gate sits in CI and turns a run into: deterministic PASS / WARN / FAIL / QUARANTINE (CI-friendly exit codes) JUnit output so results show up directly in CI UI an offline report.html “debug packet” auditable receipts explaining exactly why it flagged a run (plus policy + artifact hashes for provenance) diff-as-gate mode so CI failures include regression context vs a baseline It runs locally/in CI (no log upload). If you already have your own logs (rosbags/MCAP/custom), the idea is to adapt them into a canonical trace.jsonl (adapter guide included). This is just a fun project to me. I hope that this can be of help to anyone. Thank you in advance for checking it out, and if you have any questions feel free to DM me. If you do use it, I would love feedback on what worked and what didn’t. Thank y’all!
 
-🔗 [GitHub](https://github.com/QPFAI/PF-Gate) • 2h ago
+🔗 [GitHub](https://github.com/QPFAI/PF-Gate) • 3h ago
 
 ---
 
@@ -90,7 +90,7 @@ ROS News for the Week of February 2nd, 2026            Big news, ROSCon Croatia 
 
 A new 2026 market report highlights a massive shift toward mass production, led by giants like Tesla (aiming for 1 million Optimus units), Boston Dynamics, and Figure AI. From logistics and healthcare to customer-facing retail, general-purpose humanoids are becoming an operational reality.
 
-🔗 [GlobeNewswire News Room](https://www.globenewswire.com/news-release/2026/02/04/3232234/0/en/Humanoid-Robotics-Market-in-2026-Transformative-Trends-and-Technological-Advancements.html) • 12h ago
+🔗 [GlobeNewswire News Room](https://www.globenewswire.com/news-release/2026/02/04/3232234/0/en/Humanoid-Robotics-Market-in-2026-Transformative-Trends-and-Technological-Advancements.html) • 13h ago
 
 ---
 
@@ -154,7 +154,7 @@ Yahoo • 4h ago
 
 The Robot Report Podcast's guests this week are Marco Mauerer from maxon motor and David Koelle of Charles River Analytics.
 
-The Robot Report • 1h ago
+The Robot Report • 2h ago
 
 ---
 
@@ -200,7 +200,7 @@ Humanoid robots just entered a new phase of realism. In Shanghai, DroidUp reveal
 
 📺 AI Revolution
 
-👁️ 140K • 👍 3K • 💬 649 • ⏱️ 13:31 • 2d ago
+👁️ 144K • 👍 3K • 💬 656 • ⏱️ 13:31 • 2d ago
 
 ---
 
@@ -210,17 +210,7 @@ XPENG just took a massive step forward in humanoid robotics. The New IRON robot 
 
 📺 DPCcars
 
-👁️ 21K • 👍 189 • 💬 39 • ⏱️ 1:21 • 6d ago
-
----
-
-**[China’s New Shape Shifting AI Robot Walks on Water, Flies and Swims](https://www.youtube.com/watch?v=nLKj1gvJzWI)**
-
-Humanoid robotics just took a massive leap into the real world. Researchers in China revealed GrowHR, a soft shape shifting ...
-
-📺 AI Revolution
-
-👁️ 140K • 👍 1K • 💬 283 • ⏱️ 14:25 • 6d ago
+👁️ 22K • 👍 189 • 💬 40 • ⏱️ 1:21 • 6d ago
 
 ---
 
@@ -230,7 +220,7 @@ XPeng just showed the world what real humanoid robot progress looks like. During
 
 📺 DPCcars
 
-👁️ 35K • 👍 148 • 💬 50 • ⏱️ 2:06 • 5d ago
+👁️ 36K • 👍 149 • 💬 50 • ⏱️ 2:06 • 5d ago
 
 ---
 
@@ -240,7 +230,7 @@ AI in a kids toy does what experts warned. Can we trust AI? Get Inside AI's excl
 
 📺 InsideAI
 
-👁️ 753K • 👍 32K • 💬 5K • ⏱️ 15:47 • 6d ago
+👁️ 756K • 👍 32K • 💬 5K • ⏱️ 15:47 • 6d ago
 
 ---
 
@@ -254,13 +244,23 @@ Credits: IShowSpeed Live ishowspeed started beefing with an ai robot on stream a
 
 ---
 
+**[ROBOT FAILS AT CES 2026 When the robot had one job... #RobotFail #funny](https://www.youtube.com/watch?v=uWeL84NvWXw)**
+
+Not all the robots at CES were behaving this year. In this video, witness a hilarious robotics fail with an AI robot and a casino robot ...
+
+📺 Tinker Forward
+
+👁️ 450 • 👍 14 • ⏱️ 1:30 • 1h ago
+
+---
+
 **[A Robotic Mouth That Speaks Like a Human 😳](https://www.youtube.com/watch?v=x6M2gCzUTJM)**
 
 This robotic mouth is designed to replicate how real human lips move while speaking. Using actuators and soft materials, it copies ...
 
 📺 Facts TV 91
 
-👁️ 75K • 👍 496 • 💬 33 • ⏱️ 0:06 • 2d ago
+👁️ 75K • 👍 498 • 💬 33 • ⏱️ 0:06 • 2d ago
 
 ---
 
@@ -272,23 +272,23 @@ This robotic mouth is designed to replicate how real human lips move while speak
 
 ---
 
+**[This Robot Produces Speech the Human Way 😮](https://www.youtube.com/watch?v=L0M5fs_phpA)**
+
+This Robot Produces Speech the Human Way This system generates speech using physical movement rather than digital ...
+
+📺 MrScoopz
+
+👁️ 5.3M • 👍 30K • 💬 1K • ⏱️ 0:05 • 5d ago
+
+---
+
 **[These Are The &#39;Worst&#39; Titan Weapons In War Robots...? Tonans Ao Ming Is Ridiculous | 1 Shot](https://www.youtube.com/watch?v=7ZoQSvY4VuM)**
 
 Ue Ao Ming tonans 1 shotting titans. I was told that tonans are terrible and the worst titan weapons in the game. So I want to push ...
 
 📺 PREDATOR WR
 
-👁️ 6K • 👍 321 • 💬 47 • ⏱️ 16:16 • 10h ago
-
----
-
-**[He probado los robots más avanzados de China: ya toman decisiones 🤖🧠](https://www.youtube.com/watch?v=wgeP1l1CNvE)**
-
-Crea tu Web con la IA aquí: https://hostinger.com/inteligencia (Usa el cupón INTELIGENCIA para un 10% descuento) Descuento ...
-
-📺 Inteligencia Artificial
-
-👁️ 42K • 👍 2K • 💬 97 • ⏱️ 13:44 • 1d ago
+👁️ 8K • 👍 356 • 💬 55 • ⏱️ 16:16 • 10h ago
 
 ---
 

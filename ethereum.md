@@ -3,14 +3,14 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-02-06T23:27:26.589003+00:00'
+updated: '2026-02-06T23:51:52.352553+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
+- videos
 - social
 - news
-- videos
 - cryptocurrency
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** February 06, 2026 at 23:27 UTC  
+**Last Updated:** February 06, 2026 at 23:51 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -52,17 +52,17 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Market Stats
 
-**Market Cap:** $248.22B
+**Market Cap:** $249.10B
 Rank #2
 
 **Circulating Supply:** 120,692,919 ETH
 No max supply
 
 **All-Time High:** $4,946.05
--58.4%
+-58.3%
 
 **All-Time Low:** $0.43
-+474802.9%
++476736.1%
 
 ---
 
@@ -236,7 +236,7 @@ One of the biggest crypto crashes in history! Here is what happened, why and my 
 
 📺 Thomas Kralow
 
-👁️ 19K • 👍 979 • 💬 66 • ⏱️ 11:51 • 10h ago
+👁️ 22K • 👍 1K • 💬 71 • ⏱️ 11:51 • 10h ago
 
 ---
 
@@ -246,27 +246,7 @@ Uhh... so... is anyone else getting that strange feeling that something big is a
 
 📺 Money Rules - Investing Tips 
 
-👁️ 8K • 👍 1K • 💬 320 • ⏱️ 13:13 • 8h ago
-
----
-
-**[Tom Lee: Don&#39;t Be Fooled! Ethereum To $22,000 By THIS Date (2026 Prediction)](https://www.youtube.com/watch?v=htwTdCTCINI)**
-
-My FREE Daily 5-Min Crypto Newsletter: https://www.cryptonutshell.com/subscribe ✓ Subscribe to @TheCryptoNutshell for daily ...
-
-📺 Crypto Nutshell
-
-👁️ 15K • 👍 403 • 💬 152 • ⏱️ 22:22 • 1d ago
-
----
-
-**[Ethereum Elliott Wave Update – Key Resistance Levels Ahead](https://www.youtube.com/watch?v=WG3tu1yVPi8)**
-
-This video provides a professional Elliott Wave and technical analysis of Ethereum (ETH), focusing on market structure, major ...
-
-📺 More Crypto Online
-
-👁️ 3K • 👍 198 • 💬 6 • ⏱️ 3:53 • 7h ago
+👁️ 9K • 👍 1K • 💬 331 • ⏱️ 13:13 • 9h ago
 
 ---
 
@@ -276,7 +256,47 @@ Get $450 Off Our New AI Indicators: https://tradeconfidentportal.io/indic... Joi
 
 📺 Trade Confident
 
-👁️ 156 • 👍 13 • 💬 22 • ⏱️ 5:06 • 3h ago
+👁️ 282 • 👍 18 • 💬 1 • ⏱️ 5:06 • 4h ago
+
+---
+
+**[Tom Lee: Don&#39;t Be Fooled! Ethereum To $22,000 By THIS Date (2026 Prediction)](https://www.youtube.com/watch?v=htwTdCTCINI)**
+
+My FREE Daily 5-Min Crypto Newsletter: https://www.cryptonutshell.com/subscribe ✓ Subscribe to @TheCryptoNutshell for daily ...
+
+📺 Crypto Nutshell
+
+👁️ 15K • 👍 410 • 💬 153 • ⏱️ 22:22 • 1d ago
+
+---
+
+**[Ethereum Elliott Wave Update – Key Resistance Levels Ahead](https://www.youtube.com/watch?v=WG3tu1yVPi8)**
+
+This video provides a professional Elliott Wave and technical analysis of Ethereum (ETH), focusing on market structure, major ...
+
+📺 More Crypto Online
+
+👁️ 3K • 👍 216 • 💬 7 • ⏱️ 3:53 • 7h ago
+
+---
+
+**[BITCOIN CRASH OVER: My $5 Million Trading Strategy!!! - Bitcoin News Today, Ethereum &amp; Altcoins](https://www.youtube.com/watch?v=YbXiedpTjeA)**
+
+BITCOIN CRASH OVER: My $5 Million Trading Strategy!!! - Bitcoin News Today, Ethereum & Altcoins *Bitunix* ...
+
+📺 Crypto World
+
+👁️ 1K • 👍 138 • 💬 56 • ⏱️ 22:22 • 59m ago
+
+---
+
+**[LIVE: Bitcoin Will Replace Gold - Ethereum Is the New Silver?! — CEO JPMorgan Jamie Dimon &amp; TRUMP](https://www.youtube.com/watch?v=RTvhZo2D7DY)**
+
+Today, Donald Trump and JPMorgan are both sounding the alarm - and when political power and Wall Street warnings line up, ...
+
+📺 BDCricTime Bulletin
+
+👁️ 949 • 👍 2K • 12m ago
 
 ---
 
@@ -296,7 +316,7 @@ This video provides a professional Elliott Wave and technical analysis of Ethere
 
 📺 More Crypto Online
 
-👁️ 6K • 👍 316 • 💬 32 • ⏱️ 5:12 • 13h ago
+👁️ 6K • 👍 317 • 💬 32 • ⏱️ 5:12 • 13h ago
 
 ---
 
@@ -306,27 +326,7 @@ Take Control of Your Retirement — Grow Crypto & Gold Tax-Advantaged. https://w
 
 📺 Savvy Finance
 
-👁️ 7K • 👍 330 • 💬 10 • ⏱️ 20:57 • 23h ago
-
----
-
-**[RIPPLE XRPL Announcement Could Change EVERYTHING! ETHEREUM Was Just SAVED by Vitalik!](https://www.youtube.com/watch?v=qLH8ey3vYkM)**
-
-RIPPLE XRPL ANNOUNCEMENT COULD CHANGE EVERYTHING. ETHEREUM WAS JUST SAVED BY VITALIK! Ripples XRPL ...
-
-📺 CryptoWendyO
-
-👁️ 20K • 👍 1K • 💬 107 • ⏱️ 4:18 • 2d ago
-
----
-
-**[WILL ETH CRASH AGAIN?🚨 (Ethereum Price Prediction 2026)](https://www.youtube.com/watch?v=SKs9XJbXL_s)**
-
-ETHEREUM ETH PRICE PREDICTION 2026 Join the Premium Signal Group for trade setups, mentorship & a community ...
-
-📺 Cilinix Crypto
-
-👁️ 370 • 👍 13 • 💬 42 • ⏱️ 4:44 • 13h ago
+👁️ 7K • 👍 333 • 💬 10 • ⏱️ 20:57 • 1d ago
 
 ---
 

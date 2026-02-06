@@ -3,14 +3,14 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-02-06T23:27:26.583128+00:00'
+updated: '2026-02-06T23:51:52.346434+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
+- videos
 - social
 - news
-- videos
 - cryptocurrency
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** February 06, 2026 at 23:27 UTC  
+**Last Updated:** February 06, 2026 at 23:51 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -54,17 +54,17 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1407.11B
+**Market Cap:** $1411.23B
 Rank #1
 
-**Circulating Supply:** 19,985,290 BTC
+**Circulating Supply:** 19,985,306 BTC
 95.2% of max
 
 **All-Time High:** $126,080.00
--44.2%
+-44.0%
 
 **All-Time Low:** $67.81
-+103656.1%
++104107.3%
 
 ---
 
@@ -79,7 +79,7 @@ Rank #1
 
 **[People who bought bitcoin at $61k yesterday](https://www.reddit.com/r/Bitcoin/comments/1qxw35n/people_who_bought_bitcoin_at_61k_yesterday/)**
 
-56m ago
+1h ago
 
 ---
 
@@ -105,7 +105,7 @@ Yes I finally captured it!
 
 **[Are ya winning, son?](https://www.reddit.com/r/Bitcoin/comments/1qxgezi/are_ya_winning_son/)**
 
-10h ago
+11h ago
 
 ---
 
@@ -113,7 +113,7 @@ Yes I finally captured it!
 
 I accumulated 1.18 more and bought a total of 1.60 BTC today. I had been patiently waiting for a pullback in the $66,000–$70,000 range, and the opportunity finally presented itself. If the market corrects further, I’m prepared to add more around the $53,000 level as well. This is a personal, well-considered decision aligned with my financial position. Even in an extreme downside scenario, it would not materially impact me. I’m not recommending this to anyone—cryptocurrency remains highly volatile and risky. This approach is only suitable for those who can tolerate significant risk and are financially comfortable even in the event of a loss. Despite widespread bearish predictions ranging from $16K to $10K, I’m sticking to my own strategy and long-term conviction. Having already achieved returns far exceeding my current investment through futures and forex, I’m comfortable taking this calculated exposure. Staying disciplined, focused, and patient. Good luck to everyone.
 
-9h ago
+10h ago
 
 ---
 
@@ -129,7 +129,7 @@ Thanks. God bless you all
 
 So bitcoin is going back up today Friday. Wonder why? Hmmm🤔 It seems that the manipulators are back at it, pumping up btc to get you thinking is on its way back up. Friday’s afternoon they usually start to sell again and Sundays it is usually negative for btc. With the fear index the way it is and the economy, some see btc going to 58,000 even up to the 38,000. Too many retail keep falling for the pump and dump, they don’t buy when is down and once they see the pump they start to buy to find out in a few hours or days they are under and sell at a loss. Buy and hold long term specially when the market is as volatile as it is since end 25 beginning 2026. Stop selling at a loss and stay the course. 👍🏼
 
-6h ago
+7h ago
 
 ---
 
@@ -211,7 +211,7 @@ The Wall Street Journal • 10h ago
 
 **[Stocks, bitcoin regain some ground along with precious metals](https://www.reuters.com/world/china/global-markets-wrapup-1pix-2026-02-06/)**
 
-Reuters • 22h ago
+Reuters • 23h ago
 
 ---
 
@@ -309,7 +309,7 @@ Take your personal data back with Incogni! Use code GRAHAM at the link below and
 
 📺 Graham Stephan
 
-👁️ 500K • 👍 18K • 💬 7K • ⏱️ 16:11 • 23h ago
+👁️ 514K • 👍 18K • 💬 7K • ⏱️ 16:11 • 23h ago
 
 ---
 
@@ -319,7 +319,7 @@ In this interview, Bitcoin OG Samson Mow shares his view on why Bitcoin keeps fa
 
 📺 Cointelegraph
 
-👁️ 4K • 👍 259 • 💬 80 • ⏱️ 19:09 • 6h ago
+👁️ 9K • 👍 386 • 💬 101 • ⏱️ 19:09 • 7h ago
 
 ---
 
@@ -329,7 +329,7 @@ One of the biggest crypto crashes in history! Here is what happened, why and my 
 
 📺 Thomas Kralow
 
-👁️ 19K • 👍 979 • 💬 66 • ⏱️ 11:51 • 10h ago
+👁️ 22K • 👍 1K • 💬 71 • ⏱️ 11:51 • 10h ago
 
 ---
 
@@ -339,27 +339,27 @@ Bitcoin #Crypto #Finance Bitcoin's sudden collapse may have come from a hidden s
 
 📺 The Wolf Of All Streets
 
-👁️ 30K • 👍 2K • 💬 337 • ⏱️ 24:28 • 8h ago
+👁️ 35K • 👍 2K • 💬 395 • ⏱️ 24:28 • 9h ago
 
 ---
 
-**[Tether Co-Founder Weighs In on Bitcoin Selloff](https://www.youtube.com/watch?v=EbYaU0Yde5Q)**
+**[This is typical volatility for bitcoin, says SkyBridge&#39;s Scaramucci](https://www.youtube.com/watch?v=PxHIJlojXTg)**
 
-Tether co-founder William Quigley weighs in on the recent selloff in cryptocurrencies. Speaking on "Bloomberg The Close," ...
+CNBC's “Closing Bell Overtime” team discusses cryptocurrencies, bitcoin's volatile week and more with Anthony Scaramucci, ...
 
-📺 Bloomberg Television
+📺 CNBC Television
 
-👁️ 79K • 👍 710 • 💬 307 • ⏱️ 5:40 • 1d ago
+👁️ 4K • 👍 82 • 💬 116 • ⏱️ 4:14 • 1h ago
 
 ---
 
-**[The Bitcoin Crash Wasn’t Random… Here’s Why](https://www.youtube.com/watch?v=GNIO5ippvRk)**
+**[Bitcoin Flash Crash to $60,000 Was the Best Buy Signal in Years](https://www.youtube.com/watch?v=iwYBNTGBJfA)**
 
-Bitcoin drops to insane oversold levels, but why? Here's the theory BITUNIX TRADE THE TOP COINS (available everywhere) ...
+Today, let's examine Bitcoin's charts and metrics, as well as the latest Macro and Crypto news. Additionally, a look at the latest ...
 
-📺 Lark Davis
+📺 CryptosRUs
 
-👁️ 25K • 👍 1K • 💬 210 • ⏱️ 21:46 • 11h ago
+👁️ 31K • 👍 2K • 💬 330 • ⏱️ 32:01 • 8h ago
 
 ---
 
@@ -369,7 +369,27 @@ LIMITED TIME: ✓ Bitunix (no kyc, $10k bonus): https://www.bitunix.com/register
 
 📺 Altcoin Daily
 
-👁️ 9K • 👍 317 • 💬 86 • ⏱️ 1:10 • 9h ago
+👁️ 11K • 👍 344 • 💬 87 • ⏱️ 1:10 • 9h ago
+
+---
+
+**[🚨 CRYPTO CRASH OVER?! Updated Bitcoin Price Prediction!](https://www.youtube.com/watch?v=Fm2FbYpc1vQ)**
+
+CRYPTO CRASH OVER?! Updated Bitcoin Price Prediction! Is the crypto crash finally over? I'm sharing my updated Bitcoin price ...
+
+📺 Tim Warren
+
+👁️ 5K • 👍 433 • 💬 84 • ⏱️ 10:33 • 5h ago
+
+---
+
+**[WATCH THIS BEFORE BITCOIN DROPS BELOW $70,000...](https://www.youtube.com/watch?v=M_AG6vLOeyE)**
+
+Why is bitcoin crashing right now? The total crypto market value fell to about $2.54 trillion, down over 3% in 24 hours, according to ...
+
+📺 Ricky Gutierrez
+
+👁️ 44K • 👍 835 • 💬 289 • ⏱️ 12:35 • 1d ago
 
 ---
 
@@ -380,26 +400,6 @@ Make Free Predictions on *ClashPicks* ▻ https://www.clashpicks.com/ Follow Cla
 📺 CryptosRUs
 
 👁️ 62K • 👍 2K • 💬 2K • ⏱️ 11:07 • 22h ago
-
----
-
-**[WATCH THIS BEFORE BITCOIN DROPS BELOW $70,000...](https://www.youtube.com/watch?v=M_AG6vLOeyE)**
-
-Why is bitcoin crashing right now? The total crypto market value fell to about $2.54 trillion, down over 3% in 24 hours, according to ...
-
-📺 Ricky Gutierrez
-
-👁️ 44K • 👍 834 • 💬 289 • ⏱️ 12:35 • 1d ago
-
----
-
-**[Bitcoin: Dubious Speculation](https://www.youtube.com/watch?v=eAzoXY1GfIo)**
-
-Let's dubiously speculate on the price of #Bitcoin! Into The Cryptoverse Premium (Use code ITC50 for 50% off your first month!)
-
-📺 Benjamin Cowen
-
-👁️ 54K • 👍 4K • 💬 308 • ⏱️ 36:47 • 6h ago
 
 ---
 

@@ -3,14 +3,14 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-02-06T23:27:26.575124+00:00'
+updated: '2026-02-06T23:51:52.337557+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- news
 - videos
 - repositories
+- news
 - social
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 AI news, discussions, and developments
 
-**Last Updated:** February 06, 2026 at 23:27 UTC  
+**Last Updated:** February 06, 2026 at 23:51 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -81,7 +81,7 @@ From vegetation scans to 360-degree smoke detectors, new tools are trying to shi
 
 OpenScholar, an open-source AI model developed by a UW and Ai2 research team, synthesizes scientific research and cites sources as accurately as human experts. It outperformed other AI models, including GPT-4o, on a benchmark test and was preferred by scientists 51% of the time. The team is working on a follow-up model, DR Tulu, to improve on OpenScholar’s findings.
 
-🔗 [UW News](https://www.washington.edu/news/2026/02/04/in-a-study-ai-model-openscholar-synthesizes-scientific-research-and-cites-sources-as-accurately-as-human-experts/?_bhlid=2ba831f8abbf50334abf44ff7000fce322f05bac) • 4h ago
+🔗 [UW News](https://www.washington.edu/news/2026/02/04/in-a-study-ai-model-openscholar-synthesizes-scientific-research-and-cites-sources-as-accurately-as-human-experts/?_bhlid=2ba831f8abbf50334abf44ff7000fce322f05bac) • 5h ago
 
 ---
 
@@ -113,7 +113,7 @@ OnlyBots : “Where Agents Come to Compute” A satirical social network where A
 
 Been using ChatGPT for about 24 months now and I'm curious how others integrate it into their work. My current process: Brainstorm ideas with AI Write the first draft myself Use AI to help restructure or expand sections Edit everything manually at the end I've noticed that keeping my own voice in the mix makes a huge difference - the output feels way more natural than just prompting and copying. What's your workflow? Do you use it more for ideation or actual writing? Also curious if anyone's tried other tools alongside ChatGPT - I've been testing a few like aitextools for checking how my writing comes across, but always looking for new suggestions.
 
-11h ago
+12h ago
 
 ---
 
@@ -141,7 +141,7 @@ OpenAI • 1d ago
 
 Kwan headlined the THR x Autodesk AI and Independent Filmmaking panel in partnership with the Berggruen Institute with Joseph Gordon-Levitt, Noah Segan, Janet Yang and Autodesk’s Matthew Sivertson.
 
-The Hollywood Reporter • 40m ago
+The Hollywood Reporter • 1h ago
 
 ---
 
@@ -149,7 +149,7 @@ The Hollywood Reporter • 40m ago
 
 Through the 2026 Winter Olympics, Google's Kate Johnson hopes that folks understand that AI Mode will allow them to ask longer and deeper questions.
 
-USA Today • 18m ago
+USA Today • 42m ago
 
 ---
 
@@ -157,7 +157,7 @@ USA Today • 18m ago
 
 Alphabet, Microsoft, Amazon, and Meta are on track to spend between $635 billion and $665 billion in their respective 2026 fiscal years.
 
-Yahoo Finance • 6h ago
+Yahoo Finance • 7h ago
 
 ---
 
@@ -181,7 +181,7 @@ latimes.com • 12h ago
 
 A long-simmering rivalry between two of the world’s biggest AI companies was on public display this week as Anthropic and OpenAI took swings at one another online.
 
-cnn.com • 11h ago
+cnn.com • 12h ago
 
 ---
 
@@ -239,7 +239,7 @@ Production-grade Ghidra MCP Server — 132 endpoints, cross-binary documentation
 
 AI is rarely optional anymore, but how can you still be proud of your craft? Discover the workflow to effectively write high-quality, robust code using AI tools.
 
-⬆️ 120 • 💬 88 • 4h ago • [heidenstedt.org](https://heidenstedt.org/posts/2026/how-to-effectively-write-quality-code-with-ai/)
+⬆️ 120 • 💬 88 • 5h ago • [heidenstedt.org](https://heidenstedt.org/posts/2026/how-to-effectively-write-quality-code-with-ai/)
 
 ---
 
@@ -261,7 +261,7 @@ Women in rural communities describe trauma of moderating violent and pornographi
 
 Fears over AI spending have sparked a sell-off among tech stocks.
 
-⬆️ 84 • 💬 82 • 8h ago • [CNBC](https://www.cnbc.com/2026/02/06/ai-sell-off-stocks-amazon-oracle.html)
+⬆️ 84 • 💬 82 • 9h ago • [CNBC](https://www.cnbc.com/2026/02/06/ai-sell-off-stocks-amazon-oracle.html)
 
 ---
 
@@ -291,7 +291,7 @@ President Donald Trump has sparked widespread outrage after sharing an AI-genera
 
 📺 CNN-News18
 
-👁️ 10K • 👍 16 • 💬 33 • ⏱️ 4:46 • 3h ago
+👁️ 28K • 👍 49 • 💬 126 • ⏱️ 4:46 • 4h ago
 
 ---
 
@@ -301,27 +301,7 @@ Humanoid robots just entered a new phase of realism. In Shanghai, DroidUp reveal
 
 📺 AI Revolution
 
-👁️ 140K • 👍 3K • 💬 649 • ⏱️ 13:31 • 2d ago
-
----
-
-**[TRILLION-DOLLAR WIPEOUT: Investors dump software stocks as AI fears erupt](https://www.youtube.com/watch?v=llrkhezWNKY)**
-
-Dominari Securities CEO Kyle Wool and Strategic Wealth Partners CEO Mark Tepper analyze the worsening software stock ...
-
-📺 Fox Business Clips
-
-👁️ 107K • 👍 1K • 💬 2K • ⏱️ 6:34 • 1d ago
-
----
-
-**[The Two Best AI Models/Enemies Just Got Released Simultaneously](https://www.youtube.com/watch?v=1PxEziv5XIU)**
-
-The two models that you will hear discussed for at least the next two months - Claude Opus 4.6 and GPT 5.3 Codex - just got ...
-
-📺 AI Explained
-
-👁️ 17K • 👍 1K • 💬 158 • ⏱️ 19:50 • 6h ago
+👁️ 144K • 👍 3K • 💬 656 • ⏱️ 13:31 • 2d ago
 
 ---
 
@@ -331,37 +311,47 @@ Krystal and Saagar discuss tech stocks tumbling amid emerging new fears of job l
 
 📺 Breaking Points
 
-👁️ 318K • 👍 8K • 💬 2K • ⏱️ 24:33 • 1d ago
+👁️ 323K • 👍 9K • 💬 2K • ⏱️ 24:33 • 1d ago
 
 ---
 
-**[American people are &#39;BEING LIED TO&#39; about AI — Palantir&#39;s CTO explains why](https://www.youtube.com/watch?v=WEiWObNw6ho)**
+**[🚨ALARMING! An AI Just Wiped Out $285B From The Financial Markets…🔥](https://www.youtube.com/watch?v=lRwduk14uHY)**
 
-Palantir CTO Shyam Sankar explains how Americans can leverage the use of AI, how the company helps the military and the ...
+1. Get 90% OFF A Course Today: https://www.neilmccoyward.com/courses 2. My Investment Portfolio Join THOUSANDS of ...
 
-📺 Fox Business
+📺 Neil McCoy-Ward
 
-👁️ 37K • 👍 656 • 💬 233 • ⏱️ 4:22 • 2d ago
-
----
-
-**[NEW Claude AI Plugins Update Changed The World 🤯](https://www.youtube.com/watch?v=hNMlUu-SFq8)**
-
-Want to make money and save time with AI? Get AI Coaching, Support & Courses ...
-
-📺 Julian Goldie SEO
-
-👁️ 8K • 👍 89 • 💬 12 • ⏱️ 15:41 • 23h ago
+👁️ 47K • 👍 4K • 💬 490 • ⏱️ 19:58 • 8h ago
 
 ---
 
-**[Nvidia CEO Jensen Huang: AI is going to fundamentally change how we compute everything](https://www.youtube.com/watch?v=P9dX_ek_6yY)**
+**[$1 Trillion Gone | The AI Stock Market Collapse](https://www.youtube.com/watch?v=L1-3z25pxq4)**
 
-Jensen Huang, NVIDIA CEO, joins CNBC's "Halftime Report to discuss the power of Artificial Intelligence and where he sees the ...
+TRILLION in Tech Stocks ERASED. Investors Are Panicking! For the boys: https://www.aiupdate.ai Here's What It Means for Your ...
 
-📺 CNBC Television
+📺 Mark Savant
 
-👁️ 11K • 👍 516 • 💬 172 • ⏱️ 8:35 • 4h ago
+👁️ 1K • 👍 64 • 💬 47 • ⏱️ 16:34 • 4h ago
+
+---
+
+**[TRILLION-DOLLAR WIPEOUT: Investors dump software stocks as AI fears erupt](https://www.youtube.com/watch?v=llrkhezWNKY)**
+
+Dominari Securities CEO Kyle Wool and Strategic Wealth Partners CEO Mark Tepper analyze the worsening software stock ...
+
+📺 Fox Business Clips
+
+👁️ 110K • 👍 1K • 💬 2K • ⏱️ 6:34 • 1d ago
+
+---
+
+**[New AI Experiment Just Went Horribly Wrong](https://www.youtube.com/watch?v=zfhy2iWYIZE)**
+
+An AI experiment meant for agents, not humans, was abruptly shut down. What happened inside Moltbook raises serious ...
+
+📺 INSPIRED
+
+👁️ 18K • 👍 2K • 💬 226 • ⏱️ 35:05 • 2d ago
 
 ---
 
@@ -371,17 +361,27 @@ NBC Nightly News anchor Tom Llamas spoke to President Trump about fears of job l
 
 📺 NBC News
 
-👁️ 12K • 👍 74 • 💬 30 • ⏱️ 4:39 • 23h ago
+👁️ 13K • 👍 79 • 💬 32 • ⏱️ 4:39 • 23h ago
 
 ---
 
-**[How will AI transform the workforce?](https://www.youtube.com/watch?v=EM8kS8u77QA)**
+**[Nvidia CEO Jensen Huang: AI is going to fundamentally change how we compute everything](https://www.youtube.com/watch?v=P9dX_ek_6yY)**
 
-CBS News business analyst Jill Schlesinger talks about how companies are using artificial intelligence, the discussion around the ...
+Jensen Huang, NVIDIA CEO, joins CNBC's "Halftime Report to discuss the power of Artificial Intelligence and where he sees the ...
 
-📺 CBS News
+📺 CNBC Television
 
-👁️ 4K • 👍 54 • 💬 29 • ⏱️ 4:30 • 1d ago
+👁️ 38K • 👍 824 • 💬 249 • ⏱️ 8:35 • 5h ago
+
+---
+
+**[The Two Best AI Models/Enemies Just Got Released Simultaneously](https://www.youtube.com/watch?v=1PxEziv5XIU)**
+
+The two models that you will hear discussed for at least the next two months - Claude Opus 4.6 and GPT 5.3 Codex - just got ...
+
+📺 AI Explained
+
+👁️ 26K • 👍 2K • 💬 200 • ⏱️ 19:50 • 6h ago
 
 ---
 
@@ -397,7 +397,7 @@ GLM-OCR is a 0.9B parameter multimodal OCR model for complex document understand
 
 `image-to-text`
 
-⬇️ 149,223 • ❤️ 733 • 3d ago
+⬇️ 149,223 • ❤️ 735 • 3d ago
 
 ---
 
@@ -409,7 +409,7 @@ Kimi K2.5 is a native multimodal agentic model with 1T parameters, excelling in 
 
 `image-text-to-text` `170.7B`
 
-⬇️ 274,182 • ❤️ 1,782 • 1d ago
+⬇️ 274,182 • ❤️ 1,784 • 1d ago
 
 ---
 
@@ -421,7 +421,7 @@ Qwen3-Coder-Next is an 80B parameter (3B active) LLM optimized for coding agents
 
 `text-generation` `79.7B`
 
-⬇️ 34,937 • ❤️ 521 • 3d ago
+⬇️ 34,937 • ❤️ 526 • 3d ago
 
 ---
 
@@ -433,7 +433,7 @@ Step 3.5 Flash is an efficient, open-source MoE foundation model (11B active par
 
 `text-generation` `199.4B`
 
-⬇️ 10,864 • ❤️ 483 • 12h ago
+⬇️ 10,864 • ❤️ 486 • 13h ago
 
 ---
 
@@ -443,7 +443,7 @@ Step 3.5 Flash is an efficient, open-source MoE foundation model (11B active par
 
 Anima is a 2 billion parameter text-to-image diffusion model specializing in anime and non-photorealistic artistic styles, trained on millions of anime and artistic images. It is designed for generating illustrations and artistic images, with primary use cases in ComfyUI workflows for anime concepts and characters.
 
-⬇️ 50,832 • ❤️ 473 • 5d ago
+⬇️ 50,832 • ❤️ 475 • 5d ago
 
 ---
 
@@ -455,7 +455,7 @@ MiniCPM-o 4.5 is a 9B parameter multimodal LLM excelling in vision, speech, and 
 
 `any-to-any` `9.4B`
 
-⬇️ 2,389 • ❤️ 527 • 7h ago
+⬇️ 2,389 • ❤️ 532 • 7h ago
 
 ---
 
@@ -477,7 +477,7 @@ ACE-Step 1.5 is an open-source text-to-audio music generation model capable of p
 
 Voxtral-Mini-4B-Realtime-2602 is a 4B-parameter, multilingual speech-to-text model offering near-offline accuracy with <500ms latency. It features a streaming architecture for real-time applications like voice assistants and live subtitling, optimized for on-device deployment.
 
-⬇️ 1,484 • ❤️ 339 • 1d ago
+⬇️ 1,484 • ❤️ 343 • 1d ago
 
 ---
 
@@ -501,7 +501,7 @@ Qwen3-Coder-Next is an 80B parameter LLM optimized for coding agents, featuring 
 
 `text-generation` `79.7B`
 
-⬇️ 144,708 • ❤️ 195 • 1d ago
+⬇️ 144,708 • ❤️ 196 • 1d ago
 
 ---
 
@@ -517,21 +517,9 @@ Qwen3-Coder-Next is an 80B parameter LLM optimized for coding agents, featuring 
 
 _paperbanana is an agentic framework that automates the creation of publication-ready academic illustrations using advanced vision-language models and image generation techniques.
 
-▲ 127 • 💬 12 • ⭐ 2,145 • 7d ago
+▲ 129 • 💬 12 • ⭐ 2,145 • 7d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2601.23265) • [💻 code](https://github.com/dwzhu-pku/PaperBanana) • [🔗 project](https://dwzhu-pku.github.io/PaperBanana/)
-
----
-
-**[Multi-Agent Software Development through Cross-Team Collaboration](https://huggingface.co/papers/2406.08979)**
-
-*Zhuoyun Du, Chen Qian, Wei Liu et al. (8 authors)*
-
-Cross-Team Collaboration improves software quality by enabling multiple LLM agent teams to propose and communicate decisions.
-
-▲ 2 • 💬 0 • ⭐ 30,398 • 20mo ago
-
-[🎓 arXiv](https://arxiv.org/abs/2406.08979) • [💻 code](https://github.com/OpenBMB/ChatDev)
 
 ---
 
@@ -568,6 +556,18 @@ Agent Lightning is a flexible RL framework for training LLMs in various agents, 
 ▲ 133 • 💬 6 • ⭐ 14,169 • 6mo ago
 
 [🎓 arXiv](https://arxiv.org/abs/2508.03680) • [💻 code](https://github.com/microsoft/agent-lightning) • [🔗 project](https://www.microsoft.com/en-us/research/project/agent-lightning/)
+
+---
+
+**[Multi-Agent Software Development through Cross-Team Collaboration](https://huggingface.co/papers/2406.08979)**
+
+*Zhuoyun Du, Chen Qian, Wei Liu et al. (8 authors)*
+
+Cross-Team Collaboration improves software quality by enabling multiple LLM agent teams to propose and communicate decisions.
+
+▲ 2 • 💬 0 • ⭐ 30,424 • 20mo ago
+
+[🎓 arXiv](https://arxiv.org/abs/2406.08979) • [💻 code](https://github.com/OpenBMB/ChatDev)
 
 ---
 
@@ -650,7 +650,7 @@ Browser automation CLI for AI agents
 
 `TypeScript`
 
-⭐ 13.0k • 🔱 741 • 4h ago
+⭐ 13.0k • 🔱 742 • 4h ago
 
 ---
 
@@ -660,7 +660,7 @@ AI → JSON → UI
 
 `TypeScript`
 
-⭐ 10.1k • 🔱 535 • 2h ago
+⭐ 10.1k • 🔱 535 • 3h ago
 
 ---
 
@@ -690,7 +690,7 @@ Marketing skills for Claude Code and AI agents. CRO, copywriting, SEO, analytics
 
 `claude` `codex` `marketing`
 
-⭐ 6.1k • 🔱 698 • 2d ago
+⭐ 6.2k • 🔱 701 • 2d ago
 
 ---
 
@@ -698,7 +698,7 @@ Marketing skills for Claude Code and AI agents. CRO, copywriting, SEO, analytics
 
 Claude Code skill that removes signs of AI-generated writing from text
 
-⭐ 4.1k • 🔱 347 • 14d ago
+⭐ 4.1k • 🔱 348 • 14d ago
 
 ---
 
@@ -706,7 +706,7 @@ Claude Code skill that removes signs of AI-generated writing from text
 
 Elevate your AI research writing, no more tedious polishing ✨ 
 
-⭐ 3.9k • 🔱 317 • 2d ago
+⭐ 4.0k • 🔱 318 • 2d ago
 
 ---
 
@@ -734,7 +734,7 @@ An app to monitor the (Codex) situation
 
 `TypeScript` `ai` `codex` `linux` `macos` `tauri-app`
 
-⭐ 2.2k • 🔱 195 • 5h ago
+⭐ 2.2k • 🔱 196 • 6h ago
 
 ---
 
