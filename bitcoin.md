@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-02-06T19:55:39.611795+00:00'
+updated: '2026-02-06T20:37:12.748058+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- cryptocurrency
-- videos
 - social
 - news
+- cryptocurrency
+- videos
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** February 06, 2026 at 19:55 UTC  
+**Last Updated:** February 06, 2026 at 20:37 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,17 +38,17 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $69,766.16
+### $70,403.60
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** +9.7%  
-**7d:** -11.3%  
-**30d:** -23.3%  
-**90d:** -33.4%  
-**1y:** -27.5%  
+**24h:** +12.0%  
+**7d:** -10.0%  
+**30d:** -22.2%  
+**90d:** -32.4%  
+**1y:** -26.5%  
 
 ---
 
@@ -77,7 +77,23 @@ Rank #1
 
 ## Reddit: r/Bitcoin
 
+**[$69,420](https://www.reddit.com/r/Bitcoin/comments/1qxpmac/69420/)**
+
+Yes I finally captured it!
+
+2h ago
+
+---
+
 **[Thats the spirit](https://www.reddit.com/r/Bitcoin/comments/1qxfq4n/thats_the_spirit/)**
+
+8h ago
+
+---
+
+**[Bought 28k worth at 69k and 78k worth at 67k.](https://www.reddit.com/r/Bitcoin/comments/1qxhmiq/bought_28k_worth_at_69k_and_78k_worth_at_67k/)**
+
+I accumulated 1.18 more and bought a total of 1.60 BTC today. I had been patiently waiting for a pullback in the $66,000–$70,000 range, and the opportunity finally presented itself. If the market corrects further, I’m prepared to add more around the $53,000 level as well. This is a personal, well-considered decision aligned with my financial position. Even in an extreme downside scenario, it would not materially impact me. I’m not recommending this to anyone—cryptocurrency remains highly volatile and risky. This approach is only suitable for those who can tolerate significant risk and are financially comfortable even in the event of a loss. Despite widespread bearish predictions ranging from $16K to $10K, I’m sticking to my own strategy and long-term conviction. Having already achieved returns far exceeding my current investment through futures and forex, I’m comfortable taking this calculated exposure. Staying disciplined, focused, and patient. Good luck to everyone.
 
 7h ago
 
@@ -87,13 +103,19 @@ Rank #1
 
 Thanks. God bless you all
 
-6h ago
+7h ago
 
 ---
 
 **[Don't buy bitcoin](https://www.reddit.com/r/Bitcoin/comments/1qxip3i/dont_buy_bitcoin/)**
 
-5h ago
+6h ago
+
+---
+
+**[We are so back](https://www.reddit.com/r/Bitcoin/comments/1qxpeyz/we_are_so_back/)**
+
+2h ago
 
 ---
 
@@ -107,21 +129,15 @@ I am selling my car. I am selling my house. I am selling my extra kidney. I am s
 
 **[Are ya winning, son?](https://www.reddit.com/r/Bitcoin/comments/1qxgezi/are_ya_winning_son/)**
 
-7h ago
+8h ago
 
 ---
 
-**[HOLD GUYS💎](https://www.reddit.com/r/Bitcoin/comments/1qwz9oe/hold_guys/)**
+**["THE BOTTOM IS IN!!!!"](https://www.reddit.com/r/Bitcoin/comments/1qxp0qb/the_bottom_is_in/)**
 
-21h ago
+another Psyopanime gem.
 
----
-
-**[Bought 28k worth at 69k and 78k worth at 67k.](https://www.reddit.com/r/Bitcoin/comments/1qxhmiq/bought_28k_worth_at_69k_and_78k_worth_at_67k/)**
-
-I accumulated 1.18 more and bought a total of 1.60 BTC today. I had been patiently waiting for a pullback in the $66,000–$70,000 range, and the opportunity finally presented itself. If the market corrects further, I’m prepared to add more around the $53,000 level as well. This is a personal, well-considered decision aligned with my financial position. Even in an extreme downside scenario, it would not materially impact me. I’m not recommending this to anyone—cryptocurrency remains highly volatile and risky. This approach is only suitable for those who can tolerate significant risk and are financially comfortable even in the event of a loss. Despite widespread bearish predictions ranging from $16K to $10K, I’m sticking to my own strategy and long-term conviction. Having already achieved returns far exceeding my current investment through futures and forex, I’m comfortable taking this calculated exposure. Staying disciplined, focused, and patient. Good luck to everyone.
-
-6h ago
+2h ago
 
 ---
 
@@ -129,19 +145,7 @@ I accumulated 1.18 more and bought a total of 1.60 BTC today. I had been patient
 
 So bitcoin is going back up today Friday. Wonder why? Hmmm🤔 It seems that the manipulators are back at it, pumping up btc to get you thinking is on its way back up. Friday’s afternoon they usually start to sell again and Sundays it is usually negative for btc. With the fear index the way it is and the economy, some see btc going to 58,000 even up to the 38,000. Too many retail keep falling for the pump and dump, they don’t buy when is down and once they see the pump they start to buy to find out in a few hours or days they are under and sell at a loss. Buy and hold long term specially when the market is as volatile as it is since end 25 beginning 2026. Stop selling at a loss and stay the course. 👍🏼
 
-3h ago
-
----
-
-**[We are so back](https://www.reddit.com/r/Bitcoin/comments/1qxpeyz/we_are_so_back/)**
-
-1h ago
-
----
-
-**[The bear brings out the best in us. Credits to PsyOp Anime for this absolute banger](https://www.reddit.com/r/Bitcoin/comments/1qxidjz/the_bear_brings_out_the_best_in_us_credits_to/)**
-
-5h ago
+4h ago
 
 ---
 
@@ -157,27 +161,9 @@ cnn.com • 1d ago
 
 ---
 
-**[Bithumb's 2,000 BTC Error: Won Intended](https://www.chosun.com/english/market-money-en/2026/02/06/FQJZKV7BHNHYHPEOB5IF4NU6Z4/)**
+**[Your bitcoin investment may have been based on an illusion](https://www.marketwatch.com/story/your-bitcoin-investment-may-have-been-based-on-an-illusion-de2e3fad?gaa_at=eafs&gaa_n=AWEtsqeSJw7fqdHpGkZcttihep91I6WoA1qjxNd5S2rAgyzV2iclNqn4AduQ&gaa_ts=69865462&gaa_sig=h3V75XmjWB5XmRfpMQ6PB5WYAQkWRflylhzVY_8xt-yxPkoI1bCNuLiiFFIRGsNvzcLBQU7jk_oIssQj1neApQ%3D%3D)**
 
-Bithumbs 2,000 BTC Error: Won Intended Cryptocurrency exchange mistakenly sent 2,000 Bitcoins instead of 2,000 won during promotional event, causing market fluctuations and investigations
-
-조선일보 • 2h ago
-
----
-
-**[Bitcoin crashed to $55,000 on Bithumb after exchange accidentally airdropped users 2,000 BTC](https://www.coindesk.com/business/2026/02/06/bitcoin-crashed-to-usd55-000-on-bithumb-after-exchange-accidentally-airdropped-users-2-000-btc)**
-
-An internal reward distribution mistake briefly sent bitcoin prices sharply lower on South Korea’s Bithumb exchange after users were mistakenly credited with large phantom balances.
-
-CoinDesk • 3h ago
-
----
-
-**[Bithumb Accidentally Sends Large Amounts of Bitcoin to Users, Triggers Price Crash Amid Market Selloff](https://bitcoinmagazine.com/news/bithumb-accidentally-sends-bitcoin-users)**
-
-Bithumb reportedly made a mistake that led to the accidental deposit of large amounts of Bitcoin to various users.
-
-Bitcoin Magazine • 3h ago
+MarketWatch • 2h ago
 
 ---
 
@@ -193,7 +179,7 @@ Fortune • 1h ago
 
 California man accused of sending fake ransom note to extort bitcoin from Savannah Guthrie's family as her 84-year-old mother Nancy remains missing from Tucson home.
 
-Fox News • 20h ago
+Fox News • 21h ago
 
 ---
 
@@ -201,21 +187,19 @@ Fox News • 20h ago
 
 The man allegedly used an app to create a fake phone number to text the family, according to a federal complaint.
 
-ABC7 Los Angeles • 20h ago
+ABC7 Los Angeles • 21h ago
 
 ---
 
-**[The Guthries' ransom demand is in Bitcoins for a reason](https://www.usatoday.com/story/money/personalfinance/2026/02/05/bitcoins-criminals-trace-guthrie/88531802007/)**
+**[The Kidnappers Of Savannah Guthrie's Mom Want Bitcoin—But It’s Not As Anonymous As Many Think](https://www.forbes.com/sites/martinadilicosa/2026/02/06/the-kidnappers-of-savannah-guthries-mom-want-bitcoin-but-its-not-as-anonymous-as-many-think/)**
 
-Ransom notes for Savannah Guthrie's mom demanded millions in Bitcoin. Here's why criminals like it.
-
-USA Today • 4h ago
+Forbes • 14m ago
 
 ---
 
 **[Strategy's Saylor Touts 'Crypto President' As Bitcoin Plunges](https://www.investors.com/news/strategy-earnings-q4-bitcoin-price-mstr-plunge-michael-saylor/)**
 
-Investor's Business Daily • 20h ago
+Investor's Business Daily • 21h ago
 
 ---
 
@@ -223,7 +207,21 @@ Investor's Business Daily • 20h ago
 
 Michael Saylor reinforces commitment to bitcoin and quantum security on Q4 earnings call.
 
-CoinDesk • 9h ago
+CoinDesk • 10h ago
+
+---
+
+**[Strategy, BitMine, Coinbase Shares Chart Major Rebound as Bitcoin Stabilizes](https://finance.yahoo.com/news/strategy-bitmine-coinbase-shares-chart-183230481.html)**
+
+Strategy (MSTR), BitMine (BMNR), and Coinbase (COIN) helped lead the crypto stock rebound as Bitcoin bounced back from a dip near $60K.
+
+Yahoo Finance • 2h ago
+
+---
+
+**[JPMorgan says bitcoin's lower volatility relative to gold might make it 'more attractive' in long term](https://www.coindesk.com/markets/2026/02/05/jpmorgan-says-bitcoin-s-lower-volatility-relative-to-gold-might-make-it-more-attractive-in-long-term)**
+
+CoinDesk • 23h ago
 
 ---
 
@@ -255,7 +253,7 @@ Some market watchers have suggested $70,000 is a key level to watch and a break 
 
 Bitcoin outlook turns bearish as Pivotus’ Richard Farr targets BTC at $0 and Michael Burry warns of a “death spiral.” Get the risks and key levels now.
 
-⬆️ 52 • 💬 60 • 18h ago • [Seeking Alpha](https://seekingalpha.com/news/4547997-bitcoin-s-price-target-at-zero)
+⬆️ 52 • 💬 61 • 19h ago • [Seeking Alpha](https://seekingalpha.com/news/4547997-bitcoin-s-price-target-at-zero)
 
 ---
 
@@ -315,7 +313,7 @@ Take your personal data back with Incogni! Use code GRAHAM at the link below and
 
 📺 Graham Stephan
 
-👁️ 480K • 👍 17K • 💬 6K • ⏱️ 16:11 • 19h ago
+👁️ 480K • 👍 17K • 💬 6K • ⏱️ 16:11 • 20h ago
 
 ---
 
@@ -325,7 +323,7 @@ Bitcoin #Crypto #Finance Bitcoin's sudden collapse may have come from a hidden s
 
 📺 The Wolf Of All Streets
 
-👁️ 22K • 👍 1K • 💬 308 • ⏱️ 24:28 • 5h ago
+👁️ 22K • 👍 1K • 💬 308 • ⏱️ 24:28 • 6h ago
 
 ---
 
@@ -345,7 +343,7 @@ One of the biggest crypto crashes in history! Here is what happened, why and my 
 
 📺 Thomas Kralow
 
-👁️ 14K • 👍 834 • 💬 59 • ⏱️ 11:51 • 6h ago
+👁️ 14K • 👍 834 • 💬 59 • ⏱️ 11:51 • 7h ago
 
 ---
 
@@ -355,7 +353,7 @@ Make Free Predictions on *ClashPicks* ▻ https://www.clashpicks.com/ Follow Cla
 
 📺 CryptosRUs
 
-👁️ 61K • 👍 2K • 💬 2K • ⏱️ 11:07 • 18h ago
+👁️ 61K • 👍 2K • 💬 2K • ⏱️ 11:07 • 19h ago
 
 ---
 
@@ -365,7 +363,7 @@ Bitcoin drops to insane oversold levels, but why? Here's the theory BITUNIX TRAD
 
 📺 Lark Davis
 
-👁️ 21K • 👍 1K • 💬 188 • ⏱️ 21:46 • 7h ago
+👁️ 21K • 👍 1K • 💬 188 • ⏱️ 21:46 • 8h ago
 
 ---
 
@@ -375,7 +373,7 @@ LIMITED TIME: ✓ Bitunix (no kyc, $10k bonus): https://www.bitunix.com/register
 
 📺 Altcoin Daily
 
-👁️ 7K • 👍 287 • 💬 37 • ⏱️ 1:10 • 5h ago
+👁️ 7K • 👍 287 • 💬 37 • ⏱️ 1:10 • 6h ago
 
 ---
 

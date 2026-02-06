@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-02-06T19:55:39.620865+00:00'
+updated: '2026-02-06T20:37:12.756384+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- videos
 - social
 - news
+- videos
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** February 06, 2026 at 19:55 UTC  
+**Last Updated:** February 06, 2026 at 20:37 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -36,13 +36,13 @@ Robotics research and industry news
 
 From CyberRobo on 𝕏: https://x.com/CyberRobooo/status/2019598569909743755
 
-9h ago
+10h ago
 
 ---
 
 **[Ball-and-Socket… But for Locomotion, Enchanted Tools](https://www.reddit.com/r/robotics/comments/1qx3nuo/ballandsocket_but_for_locomotion_enchanted_tools/)**
 
-18h ago
+19h ago
 
 ---
 
@@ -50,7 +50,15 @@ From CyberRobo on 𝕏: https://x.com/CyberRobooo/status/2019598569909743755
 
 Hello everyone! Recently I tried to test the SmolVLA model from a paper that HuggingFace published, that uses relatively small VLA model for Imitation Learning on a SO-101 arm. They have a library called LeRobot that has a lot of stuff to handle robots. First I tried to run a pretrained model, which didn't work. Then I tried finetuning the model on a dataset that I collected. I gradually moved from 30 episodes to 120 with a simple task of picking up a cube and putting it in the designated place. The robot still can't solve the task at all and frankly does not improve with the increase in data amount. So my question is the following: have anybody experimented with LeRobot + smolvla + SO-101? What is your experience? Did you manage to run it? Basically, how much more time can I expect to sink into this or should I switch to another model, or from a robot to a simulator first, or something else?
 
-3h ago
+4h ago
+
+---
+
+**[Cartwheel Robotics Shutdown- What Do You Think?](https://www.reddit.com/r/robotics/comments/1qxf32f/cartwheel_robotics_shutdown_what_do_you_think/)**
+
+Cartwheel Robotics shutting down is a reminder of how misaligned capital can be. Great teams struggle for funding while massive checks keep flowing elsewhere. Scott’s advice hits home: “No money is better than the wrong money.” https://preview.redd.it/ov7omrf40vhg1.png?width=716&format=png&auto=webp&s=b0ce7c7ceaa4607cfdc5de89775cfcddf883c3fe
+
+9h ago
 
 ---
 
@@ -62,11 +70,11 @@ Felt so excited to see the robot I've been working on getting this much attentio
 
 ---
 
-**[Cartwheel Robotics Shutdown- What Do You Think?](https://www.reddit.com/r/robotics/comments/1qxf32f/cartwheel_robotics_shutdown_what_do_you_think/)**
+**[ROS News for the Week of February 2nd, 2026](https://www.reddit.com/r/robotics/comments/1qxs0dx/ros_news_for_the_week_of_february_2nd_2026/)**
 
-Cartwheel Robotics shutting down is a reminder of how misaligned capital can be. Great teams struggle for funding while massive checks keep flowing elsewhere. Scott’s advice hits home: “No money is better than the wrong money.” https://preview.redd.it/ov7omrf40vhg1.png?width=716&format=png&auto=webp&s=b0ce7c7ceaa4607cfdc5de89775cfcddf883c3fe
+ROS News for the Week of February 2nd, 2026            Big news, ROSCon Croatia is go! The event is scheduled for late March. Reach out to @destogl for more information. Our friends at InOrbit have an event tonight in Mountain view and our SG ROS Meetup will happen on the 10th. Towards the end of the month we have a very special joint PX4 / ROS By-The-Bay Meetup sheduled.             URDF Kitchen is a GUI-based tool that allows you to load mesh files for robot parts, mark connection points, and ...
 
-8h ago
+🔗 [Open Robotics Discourse](https://discourse.openrobotics.org/t/ros-news-for-the-week-of-february-2nd-2026/52379) • 43m ago
 
 ---
 
@@ -74,7 +82,7 @@ Cartwheel Robotics shutting down is a reminder of how misaligned capital can be.
 
 A new 2026 market report highlights a massive shift toward mass production, led by giants like Tesla (aiming for 1 million Optimus units), Boston Dynamics, and Figure AI. From logistics and healthcare to customer-facing retail, general-purpose humanoids are becoming an operational reality.
 
-🔗 [GlobeNewswire News Room](https://www.globenewswire.com/news-release/2026/02/04/3232234/0/en/Humanoid-Robotics-Market-in-2026-Transformative-Trends-and-Technological-Advancements.html) • 9h ago
+🔗 [GlobeNewswire News Room](https://www.globenewswire.com/news-release/2026/02/04/3232234/0/en/Humanoid-Robotics-Market-in-2026-Transformative-Trends-and-Technological-Advancements.html) • 10h ago
 
 ---
 
@@ -88,7 +96,7 @@ From RoboHub🤖 on 𝕏: https://x.com/XRoboHub/status/2019135928384778288
 
 **[Alve-x robot arm](https://www.reddit.com/r/robotics/comments/1qx3two/alvex_robot_arm/)**
 
-18h ago
+19h ago
 
 ---
 
@@ -97,14 +105,6 @@ From RoboHub🤖 on 𝕏: https://x.com/XRoboHub/status/2019135928384778288
 Hello guys I bought this jetson orin super developer kit. Using it for a fully automated robot I am building. Right now I am ordering the parts and want to use a Lidar L-1 and 2 cameras Oak-D pro from luxonis. However I am running into an issue the Lidar requires 12 volt so I cant power that through the jetson the cameras are fine to plug in the usb ports. But reading the manual the usb ports are only rated for up to 0.9 A while the cameras can take up to 2A under heavy load. Luxonis provides a usb splitter where one can be for power and one for data. Now my issue is finding a good reliable and affordable PDB or any other solution that can split the power coming from my battery into the lidar jetson and the 2 cameras.
 
 12h ago
-
----
-
-**[Back to working on my Metalhead robot after a long break](https://www.reddit.com/r/robotics/comments/1qx5e4g/back_to_working_on_my_metalhead_robot_after_a/)**
-
-Took a long break, but I’m back working on my Metalhead dog robot. Here’s a short video. Still reprinting some parts, but progress is finally happening again. Video is reversed for visual effect — this is actually a teardown. Any thoughts or suggestions are welcome.
-
-🔗 [youtube.com](https://youtube.com/shorts/l7a4Yfauo5Q?si=ivTumi5yYCQA7SB2) • 17h ago
 
 ---
 
@@ -118,11 +118,11 @@ Rest of World • 1d ago
 
 ---
 
-**[If it’s good enough for Tesla: Faraday Future pivots to humanoid robots](https://electrek.co/2026/02/06/if-its-good-enough-for-tesla-faraday-future-pivots-to-humanoid-robots/)**
+**[This Video of Hilariously Slow Robots Putting Olive Oil in a Bag Is Actually Pretty Impressive](https://gizmodo.com/this-video-of-hilariously-slow-robots-putting-olive-oil-in-a-bag-is-actually-pretty-impressive-2000718202)**
 
-After failing to deliver its promised "Tesla killer" EV, Faraday Future is hoping it's robot has what it takes to finally pull ahead of Elon.
+Robots that can actually do things are not slick yet, and it's a relief when robotics companies don't hide from that.
 
-Electrek • 7h ago
+Gizmodo • 1d ago
 
 ---
 
@@ -160,7 +160,7 @@ Politico • 1d ago
 
 Firms are working to make the motors that drive robots more efficient and cheaper.
 
-BBC • 19h ago
+BBC • 20h ago
 
 ---
 
@@ -226,7 +226,7 @@ XPENG just took a massive step forward in humanoid robotics. The New IRON robot 
 
 📺 DPCcars
 
-👁️ 21K • 👍 189 • 💬 38 • ⏱️ 1:21 • 5d ago
+👁️ 21K • 👍 189 • 💬 38 • ⏱️ 1:21 • 6d ago
 
 ---
 
@@ -236,7 +236,7 @@ Ue Ao Ming tonans 1 shotting titans. I was told that tonans are terrible and the
 
 📺 PREDATOR WR
 
-👁️ 5K • 👍 278 • 💬 33 • ⏱️ 16:16 • 6h ago
+👁️ 5K • 👍 278 • 💬 33 • ⏱️ 16:16 • 7h ago
 
 ---
 

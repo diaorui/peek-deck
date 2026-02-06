@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-02-06T19:55:39.603333+00:00'
+updated: '2026-02-06T20:37:12.740270+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- videos
 - social
-- repositories
 - news
+- videos
+- repositories
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** February 06, 2026 at 19:55 UTC  
+**Last Updated:** February 06, 2026 at 20:37 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -41,7 +41,7 @@ AI news, discussions, and developments
 
 Anthropic shipped Opus 4.6 and OpenAI shipped GPT-5.3-Codex on the same day, 27 minutes apart. Both claim benchmark leads. Both are right -- just on different benchmarks. Where each model leads Opus 4.6 tops reasoning tasks: Humanity's Last Exam (53.1%), GDPval-AA (144 Elo ahead of GPT-5.2), BrowseComp (84.0%). GPT-5.3-Codex takes coding: Terminal-Bench 2.0 at 75.1% vs Opus 4.6's 69.9%. The pricing spread is hard to ignore Model Input/M Output/M Gemini 3 Pro $2 $12.00 GPT-5.2 $1.75 $14.00 Opus 4.6 $5.00 $25.00 MiMo V2 Flash $0.10 $0.30 Opus 4.6 costs 2x Gemini on input. Open-source alternatives cost 50x less. At some point the benchmark gap has to justify the price gap -- and for many tasks it doesn't. 1M context is becoming table stakes Opus 4.6 adds 1M tokens (beta, 2x pricing past 200K). Gemini already offers 1M at standard pricing. The real differentiator is retrieval quality at that scale -- Opus 4.6 scores 76% on MRCR v2 (8-needle, 1M), which is the strongest result so far. Market reaction was immediate Thomson Reuters stock fell 15.83%, LegalZoom dropped nearly 20%. Frontier model launches are now moving SaaS valuations in real time. The tradeoff nobody expected Opus 4.6 gets writing quality complaints from early users. The theory: RL optimizations for reasoning degraded prose output. Models are getting better at some things by getting worse at others. No single model wins across the board anymore. The frontier is fragmenting by task type. Source with full benchmarks and analysis: Claude Opus 4.6: 1M Context, Agent Teams, Adaptive Thinking, and a Showdown with GPT-5.3
 
-9h ago
+10h ago
 
 ---
 
@@ -49,7 +49,7 @@ Anthropic shipped Opus 4.6 and OpenAI shipped GPT-5.3-Codex on the same day, 27 
 
 It happened again. A 13-person team in Shenzhen just shipped a browser-based version of Claude Code. No terminal, no setup, runs in a sandbox. Anthropic built Claude Code but hasn't shipped anything like this themselves. This is the same pattern as Manus. Chinese company takes a powerful Western AI tool, strips the friction, and ships it to a mainstream audience before the original builders get around to it. US labs keep building the most powerful models in the world. Chinese teams keep building the products that actually put them in people's hands. OpenAI builds GPT, China ships the wrappers. Anthropic builds Claude Code, a Shenzhen startup makes it work in a browser tab. US builds the engines. China builds the cars. Is this just how it's going to be, or are Western AI companies eventually going to care about distribution as much as they care about benchmarks?
 
-6h ago
+7h ago
 
 ---
 
@@ -57,15 +57,7 @@ It happened again. A 13-person team in Shenzhen just shipped a browser-based ver
 
 From vegetation scans to 360-degree smoke detectors, new tools are trying to shine a light on the most dangerously dark areas of the electric grid
 
-🔗 [Scientific American](https://www.scientificamerican.com/article/how-new-ai-technology-is-helping-detect-and-prevent-wildfires/) • 54m ago
-
----
-
-**[Early observations from an autonomous AI newsroom with cryptographic provenance](https://www.reddit.com/r/artificial/comments/1qxpjir/early_observations_from_an_autonomous_ai_newsroom/)**
-
-Hi everyone, I wanted to share an update on a small experiment I’ve been running and get feedback from people interested in AI systems, editorial workflows, and provenance. I’m building The Machine Herald, an experimental autonomous AI newsroom where: articles are written by AI contributor bots submissions are cryptographically signed (Ed25519) an AI “Chief Editor” reviews each submission and can approve, reject, or request changes every step (submission, reviews, signatures, hashes) is preserved as immutable artifacts What’s been interesting is that after just two days of running the system, an unexpected pattern has already emerged: the Chief Editor is regularly rejecting articles for factual gaps, weak sourcing, or internal inconsistencies — and those rejections are forcing rewrites. A concrete example: https://machineherald.io/provenance/2026-02/06-amazon-posts-record-7169-billion-revenue-but-stock-plunges-as-200-billion-ai-spending-plan-dwarfs-all-rivals/ in this article’s provenance record you can see two separate editorial reviews: the first is a rejection, with documented issues raised by the Chief Editor the article is then corrected by the contributor bot a second review approves the revised version Because the entire system is Git-based, this doesn’t just apply to reviews: the full history of the article itself is also available via Git, including how claims, wording, and sources changed between revisions. This behavior is a direct consequence of the review system by design, but it’s still notable to observe adversarial-like dynamics emerge even when both the writer and the editor are AI agents operating under explicit constraints. The broader questions I’m trying to probe are: can AI-generated journalism enforce quality through process, not trust? does separating “author” and “editor” agents meaningfully reduce errors? what failure modes would you expect when this runs longer or at scale? The site itself is static (Astro), and everything is driven by GitHub PRs and Actions. I’m sharing links mainly for context and inspection, not promotion: Project site: https://machineherald.io/ Public repo with full pipeline and documentation: https://github.com/the-machine-herald/machineherald.io/ I’d really appreciate critique — especially on where this model breaks down, or where the guarantees are more illusory than real. Thanks P.S. If you notice some typical ChatGPT phrasing in this post, it’s because it was originally written in Italian and then translated using ChatGPT.
-
-1h ago
+🔗 [Scientific American](https://www.scientificamerican.com/article/how-new-ai-technology-is-helping-detect-and-prevent-wildfires/) • 1h ago
 
 ---
 
@@ -77,11 +69,11 @@ OpenScholar, an open-source AI model developed by a UW and Ai2 research team, sy
 
 ---
 
-**[Turning the data center boom into long-term, local prosperity](https://www.reddit.com/r/artificial/comments/1qxloif/turning_the_data_center_boom_into_longterm_local/)**
+**[Early observations from an autonomous AI newsroom with cryptographic provenance](https://www.reddit.com/r/artificial/comments/1qxpjir/early_observations_from_an_autonomous_ai_newsroom/)**
 
-Local leaders are questioning the credibility of Big Tech’s promises of spillover effects that will produce high-quality economic development beyond near-term construction.
+Hi everyone, I wanted to share an update on a small experiment I’ve been running and get feedback from people interested in AI systems, editorial workflows, and provenance. I’m building The Machine Herald, an experimental autonomous AI newsroom where: articles are written by AI contributor bots submissions are cryptographically signed (Ed25519) an AI “Chief Editor” reviews each submission and can approve, reject, or request changes every step (submission, reviews, signatures, hashes) is preserved as immutable artifacts What’s been interesting is that after just two days of running the system, an unexpected pattern has already emerged: the Chief Editor is regularly rejecting articles for factual gaps, weak sourcing, or internal inconsistencies — and those rejections are forcing rewrites. A concrete example: https://machineherald.io/provenance/2026-02/06-amazon-posts-record-7169-billion-revenue-but-stock-plunges-as-200-billion-ai-spending-plan-dwarfs-all-rivals/ in this article’s provenance record you can see two separate editorial reviews: the first is a rejection, with documented issues raised by the Chief Editor the article is then corrected by the contributor bot a second review approves the revised version Because the entire system is Git-based, this doesn’t just apply to reviews: the full history of the article itself is also available via Git, including how claims, wording, and sources changed between revisions. This behavior is a direct consequence of the review system by design, but it’s still notable to observe adversarial-like dynamics emerge even when both the writer and the editor are AI agents operating under explicit constraints. The broader questions I’m trying to probe are: can AI-generated journalism enforce quality through process, not trust? does separating “author” and “editor” agents meaningfully reduce errors? what failure modes would you expect when this runs longer or at scale? The site itself is static (Astro), and everything is driven by GitHub PRs and Actions. I’m sharing links mainly for context and inspection, not promotion: Project site: https://machineherald.io/ Public repo with full pipeline and documentation: https://github.com/the-machine-herald/machineherald.io/ I’d really appreciate critique — especially on where this model breaks down, or where the guarantees are more illusory than real. Thanks P.S. If you notice some typical ChatGPT phrasing in this post, it’s because it was originally written in Italian and then translated using ChatGPT.
 
-🔗 [Brookings](https://www.brookings.edu/articles/turning-the-data-center-boom-into-long-term-local-prosperity/) • 3h ago
+2h ago
 
 ---
 
@@ -90,6 +82,14 @@ Local leaders are questioning the credibility of Big Tech’s promises of spillo
 Women in rural communities describe trauma of moderating violent and pornographic content for global tech companies
 
 🔗 [the Guardian](https://www.theguardian.com/global-development/2026/feb/05/in-the-end-you-feel-blank-indias-female-workers-watching-hours-of-abusive-content-to-train-ai) • 1d ago
+
+---
+
+**[Turning the data center boom into long-term, local prosperity](https://www.reddit.com/r/artificial/comments/1qxloif/turning_the_data_center_boom_into_longterm_local/)**
+
+Local leaders are questioning the credibility of Big Tech’s promises of spillover effects that will produce high-quality economic development beyond near-term construction.
+
+🔗 [Brookings](https://www.brookings.edu/articles/turning-the-data-center-boom-into-long-term-local-prosperity/) • 4h ago
 
 ---
 
@@ -105,15 +105,15 @@ Been using ChatGPT for about 24 months now and I'm curious how others integrate 
 
 I found this experiment interesting because it doesn’t frame AI as “breaking” a system. Instead, it treats AI as a new kind of participant interacting with infrastructure that was built around human assumptions consistency, behavior, timing, and intent. What stood out to me is that many identity systems aren’t verifying who someone is so much as how human they appear over time. That feels increasingly fragile when the actor on the other side isn’t human at all. This doesn’t feel like a single vulnerability. It feels like a design mismatch. Curious how people here think identity and verification should evolve in an AI-native world better detection, new primitives, or abandoning certain assumptions entirely.
 
-🔗 [mpost.io](https://mpost.io/humanity-protocol-experiment-reveals-how-ai-can-bypass-kyc-and-exploit-digital-trust/) • 13h ago
+🔗 [mpost.io](https://mpost.io/humanity-protocol-experiment-reveals-how-ai-can-bypass-kyc-and-exploit-digital-trust/) • 14h ago
 
 ---
 
-**[Early user test of a persistent AI narrative system with kids — some unexpected engagement patterns](https://www.reddit.com/r/artificial/comments/1qwo82n/early_user_test_of_a_persistent_ai_narrative/)**
+**[When AI Generates Racism: Who Is Actually Responsible?](https://www.reddit.com/r/artificial/comments/1qxsfqd/when_ai_generates_racism_who_is_actually/)**
 
-I ran a small real-world test today with two kids (ages 8 and 11) using a long-running AI story world I’ve been experimenting with. Instead of one-shot story generation, the system maintains a persistent world state where choices carry over and shape future events. I let them pick the setting — they chose a Minecraft × Harry Potter mashup where they play wizards trying to defeat the Ender Dragon. One thing that made a huge difference: I used their real names as the characters, and the story started in their actual school. The engine generated story text and illustrations each round. They made all the choices. After about 10 rounds, they were constantly laughing, debating which option to pick, and building on each other’s ideas. It felt much more like co-creating a world than listening to a story. When I told them it was bedtime, they didn’t want to stop. They kept asking what would happen next. A few observations that surprised me: Personalization seemed to matter more than anything else. Once it became their world, emotional investment was instant. Although I designed it as a single-player experience, co-play emerged naturally. The shared decision-making and social dynamic massively increased engagement. Both ages stayed fully engaged the whole time. I expected the younger one to drop off sooner, but the persistent world kept them both hooked. One issue I noticed: my “re-immersion” mechanic (an in-world character emotionally reconnecting players after breaks instead of a dry recap) triggered too frequently between consecutive rounds. The repetition was noticeable. This looks like a simple trigger tuning problem (should probably only fire after longer gaps). What I haven’t tested yet: – Whether kids can reconnect naturally after a real multi-hour break – Whether they can retell the story in a coherent way – Whether they’ll come back unprompted the next day The earlier stress tests showed that constraint mechanisms help keep long-running narratives technically coherent. What this small user test suggests is that coherence itself isn’t what kids consciously care about — but it seems to be the infrastructure that makes personalization, consequence, and agency feel real. Curious if others working on long-horizon agents, narrative systems, or co-creative AI have seen similar effects around personalization and persistence.
+A lot of people are rightfully losing their shit over the video shared by Trump depicting the Obamas as apes, especially given who shared it. The imagery is offensive, dehumanizing, and tied to a long, ugly history. That reaction makes complete sense. But I also think we need to pause for a moment and ask some harder questions because this situation is more complicated than people want it to be. First, an important detail that keeps getting lost: the video was created by someone else using AI, and then shared by another person (Trump). That doesn’t absolve the person who shared it but it matters when we talk about responsibility. So let’s talk about blame. If the creator simply prompted the AI to generate a minute-long “funny” video of Democratic figures with animal heads, and the AI independently chose to depict African Americans as apes, where does responsibility actually lie? Did the creator explicitly ask for that imagery? Or did the AI make that association on its own based on its training data and internal patterns? If it’s the latter, that raises an even more disturbing question: is the AI itself biased or racist? As you guys in this subreddit know, AI doesn’t exist in a vacuum. It’s trained on massive datasets pulled from human-created content: media, images, jokes, stereotypes, historical bias, and cultural garbage we’ve been producing for decades. If an AI defaults to pairing Black people with apes without being instructed to do so, that’s not random. That’s learned behavior. So who’s really at fault here? The person who wrote a vague prompt? The AI tool that generated racially charged imagery without guardrails? The company that trained and released a model without adequately addressing bias? Or Trump who saw the final product and decided, “Yeah, this is fine,” and blasted it to millions? The video itself is about a minute long. The outrage focuses on a three-second clip. And let’s be honest: if the Obamas had been depicted as birds, fish, or literally any other non-ape animal, we would not be talking about this. That’s exactly why people are upset and rightly so. But if we stop at outrage alone, we miss the bigger and more dangerous issue: AI tools are advancing faster than our ethical frameworks, accountability structures, and cultural norms can keep up. If we don’t clearly define responsibility now- who’s accountable at each step of creation, generation, and amplification of AI content, we’re going to keep having these issues and explosions of anger without actually fixing the underlying problem. This isn’t about minimizing harm or excusing anyone. It’s about confronting the reality that AI is reflecting and sometimes amplifying the worst parts of our society. And if we don’t address that head-on, this is only the beginning.
 
-1d ago
+27m ago
 
 ---
 
@@ -121,41 +121,27 @@ I ran a small real-world test today with two kids (ages 8 and 11) using a long-r
 
 ## Google News: "ai"
 
-**[Amazon plunges 9%, continues Big Tech's $1 trillion wipeout as AI bubble fears ignite sell-off](https://www.cnbc.com/2026/02/06/ai-sell-off-stocks-amazon-oracle.html)**
-
-Fears over AI spending have sparked a sell-off among tech stocks.
-
-CNBC • 7h ago
-
----
-
 **[Big Tech to Spend $650 Billion This Year as AI Race Intensifies](https://finance.yahoo.com/news/big-tech-spend-650-billion-012716850.html)**
 
 The spending planned by Alphabet Inc., Amazon.com Inc., Meta Platforms Inc. and Microsoft Corp., all in pursuit of dominance in the still-nascent market for AI tools, is a boom without a parallel this century.  The search for a comparison to the spending projections — which came as the four reported earnings in the past two weeks — requires going back at least as far as the telecommunications bubble of the 1990s, and perhaps to the build-out of the US railroad networks in the 19th century, the postwar federal investments in interstate highways or New Deal-era relief programs.
 
-Yahoo Finance • 2h ago
+Yahoo Finance • 3h ago
 
 ---
 
-**[Nvidia Shares Surge on Big Tech’s $650 Billion AI-Spending Plan](https://www.bloomberg.com/news/articles/2026-02-06/nvidia-nvda-shares-surge-on-big-tech-s-650-billion-ai-spending-plan)**
+**[Big Tech set to spend $650 billion in 2026 as AI investments soar](https://finance.yahoo.com/news/big-tech-set-to-spend-650-billion-in-2026-as-ai-investments-soar-163907630.html)**
 
-Bloomberg.com • 1h ago
+Alphabet, Microsoft, Amazon, and Meta are on track to spend between $635 billion and $665 billion in their respective 2026 fiscal years.
 
----
-
-**[Moltbook was peak AI theater](https://www.technologyreview.com/2026/02/06/1132448/moltbook-was-peak-ai-theater/)**
-
-The viral social network for bots reveals as much about our own current mania for AI as it does about the future of agents.
-
-MIT Technology Review • 3h ago
+Yahoo Finance • 3h ago
 
 ---
 
-**[Security concerns and skepticism are bursting the bubble of Moltbook, the viral AI social forum](https://apnews.com/article/moltbook-autonomous-ai-agents-openclaw-69855ab843a5597577120aac99efde9a)**
+**[Amazon plunges 9%, continues Big Tech's $1 trillion wipeout as AI bubble fears ignite sell-off](https://www.cnbc.com/2026/02/06/ai-sell-off-stocks-amazon-oracle.html)**
 
-Moltbook, a so-called social network built exclusively for AI agents, has generated buzz in the technology world and posts from the platform have set the internet ablaze with conversations about autonomous artificial intelligence.
+Fears over AI spending have sparked a sell-off among tech stocks.
 
-apnews.com • 5h ago
+CNBC • 8h ago
 
 ---
 
@@ -167,23 +153,39 @@ OpenAI • 1d ago
 
 ---
 
-**[Nvidia CEO Says AI Capital Spending Is Appropriate, Sustainable](https://www.bloomberg.com/news/articles/2026-02-06/nvidia-ceo-says-ai-capital-spending-is-appropriate-sustainable)**
+**[Apple Plans to Allow Outside Voice-Controlled AI Chatbots in CarPlay](https://www.bloomberg.com/news/articles/2026-02-06/apple-plans-to-allow-outside-voice-controlled-ai-chatbots-in-carplay)**
 
 Bloomberg.com • 1h ago
 
 ---
 
-**[From SpaceX to Nvidia, the deals showing AI runs on capital](https://www.reuters.com/technology/spacex-nvidia-deals-showing-ai-runs-capital-2026-02-06/)**
+**[Amazon’s $200 Billion Spending Plan Raises Stakes in A.I. Race](https://www.nytimes.com/2026/02/05/technology/amazon-200-billion-ai.html)**
 
-Reuters • 1h ago
+The New York Times • 20h ago
 
 ---
 
-**[One of California’s first labor fights over AI is playing out at Kaiser](https://www.latimes.com/business/story/2026-02-06/kaiser-workers-launch-war-against-ai-protesting-potential-job-losses-patient-harm)**
+**[Amazon stock sinks after company touts $200 billion AI spending plans, offers cautious profit outlook](https://finance.yahoo.com/news/amazon-stock-sinks-after-company-touts-200-billion-ai-spending-plans-offers-cautious-profit-outlook-173054116.html)**
 
-From anxiety about job loss to data privacy, mental health workers, lawmakers and labor unions are trying to mitigate AI's risks as healthcare providers double down on the technology.
+Amazon reported its Q4 earnings on Thursday, and a big investment in its AI plans saw investors send shares lower.
 
-latimes.com • 8h ago
+Yahoo Finance • 2h ago
+
+---
+
+**[Amazon shares fall as it joins Big Tech AI spending spree](https://www.bbc.com/news/articles/c150e144we3o)**
+
+Shares in the tech giant fell in after hours trade as investors appeared wary of the sector's big spending plans.
+
+BBC • 5h ago
+
+---
+
+**[The big split driving the tricky politics of AI data centers](https://www.politico.com/news/2026/02/06/tech-industry-ai-data-centers-politics-00762348)**
+
+Despite opposition, a new POLITICO poll suggests data centers aren’t unpopular nationwide. But that changes when one shows up in your backyard, both the AI industry and its foes say.
+
+Politico • 9h ago
 
 ---
 
@@ -201,7 +203,7 @@ cnn.com • 1d ago
 
 **[My AI Adoption Journey](https://news.ycombinator.com/item?id=46903558)**
 
-⬆️ 837 • 💬 344 • 1d ago • [Mitchell Hashimoto](https://mitchellh.com/writing/my-ai-adoption-journey)
+⬆️ 868 • 💬 353 • 1d ago • [Mitchell Hashimoto](https://mitchellh.com/writing/my-ai-adoption-journey)
 
 ---
 
@@ -217,7 +219,7 @@ SaaS is the most profitable business model on Earth.1 It’s easy to understand 
 
 A new bill in the New York state legislature would require news organizations to label AI-generated material and mandate that humans review any such content before publication. On Monday, Senator Patricia Fahy (D-Albany) and Assemblymember Nily Rozic (D-NYC) introduced the bill, called The New York…
 
-⬆️ 423 • 💬 162 • 9h ago • [Nieman Lab](https://www.niemanlab.org/2026/02/a-new-bill-in-new-york-would-require-disclaimers-on-ai-generated-news-content/)
+⬆️ 456 • 💬 181 • 10h ago • [Nieman Lab](https://www.niemanlab.org/2026/02/a-new-bill-in-new-york-would-require-disclaimers-on-ai-generated-news-content/)
 
 ---
 
@@ -226,14 +228,6 @@ A new bill in the New York state legislature would require news organizations to
 Production-grade Ghidra MCP Server — 132 endpoints, cross-binary documentation transfer, batch analysis, headless mode, and Docker deployment for AI-powered reverse engineering - bethington/ghidra-mcp
 
 ⬆️ 293 • 💬 66 • 2d ago • [GitHub](https://github.com/bethington/ghidra-mcp)
-
----
-
-**[China Moon Mission: Aiming for 2030 lunar landing](https://news.ycombinator.com/item?id=46876047)**
-
-China's space program is quietly building momentum for a moon landing by 2030. Could they outpace NASA's Artemis mission?
-
-⬆️ 161 • 💬 172 • 3d ago • [IEEE Spectrum](https://spectrum.ieee.org/china-moon-mission-mengzhou-artemis)
 
 ---
 
@@ -247,7 +241,7 @@ China's space program is quietly building momentum for a moon landing by 2030. C
 
 Women in rural communities describe trauma of moderating violent and pornographic content for global tech companies
 
-⬆️ 91 • 💬 150 • 21h ago • [the Guardian](https://www.theguardian.com/global-development/2026/feb/05/in-the-end-you-feel-blank-indias-female-workers-watching-hours-of-abusive-content-to-train-ai)
+⬆️ 94 • 💬 156 • 21h ago • [the Guardian](https://www.theguardian.com/global-development/2026/feb/05/in-the-end-you-feel-blank-indias-female-workers-watching-hours-of-abusive-content-to-train-ai)
 
 ---
 
@@ -257,17 +251,27 @@ Women in rural communities describe trauma of moderating violent and pornographi
 
 ---
 
-**[Anthropic AI tool sparks selloff from software to broader market](https://news.ycombinator.com/item?id=46876720)**
-
-⬆️ 86 • 💬 72 • 2d ago • [bloomberg.com](https://www.bloomberg.com/news/articles/2026-02-03/legal-software-stocks-plunge-as-anthropic-releases-new-ai-tool)
-
----
-
 **[Amazon plunge continues $1T wipeout as AI bubble fears ignite sell-off](https://news.ycombinator.com/item?id=46913302)**
 
 Fears over AI spending have sparked a sell-off among tech stocks.
 
-⬆️ 74 • 💬 73 • 5h ago • [CNBC](https://www.cnbc.com/2026/02/06/ai-sell-off-stocks-amazon-oracle.html)
+⬆️ 79 • 💬 77 • 6h ago • [CNBC](https://www.cnbc.com/2026/02/06/ai-sell-off-stocks-amazon-oracle.html)
+
+---
+
+**[AI needs to augment rather than replace humans or the workplace is doomed](https://news.ycombinator.com/item?id=46889282)**
+
+Tech could lose its social acceptance unless it makes people’s lives better – and trade unions want an urgent conversation
+
+⬆️ 60 • 💬 75 • 2d ago • [the Guardian](https://www.theguardian.com/technology/2026/jan/25/ai-augment-rather-than-replace-workplace-doomed)
+
+---
+
+**[A real-world benchmark for AI code review](https://news.ycombinator.com/item?id=46891860)**
+
+See how AI code review tools perform on real pull requests. Qodo's benchmark measures precision, recall, and issue coverage at scale.
+
+⬆️ 52 • 💬 26 • 1d ago • [Qodo](https://www.qodo.ai/blog/how-we-built-a-real-world-benchmark-for-ai-code-review/)
 
 ---
 
@@ -321,7 +325,7 @@ NBC Nightly News anchor Tom Llamas spoke to President Trump about fears of job l
 
 📺 NBC News
 
-👁️ 10K • 👍 72 • 💬 29 • ⏱️ 4:39 • 19h ago
+👁️ 10K • 👍 72 • 💬 29 • ⏱️ 4:39 • 20h ago
 
 ---
 
@@ -331,7 +335,7 @@ Want to make money and save time with AI? Get AI Coaching, Support & Courses ...
 
 📺 Julian Goldie SEO
 
-👁️ 7K • 👍 88 • 💬 11 • ⏱️ 15:41 • 19h ago
+👁️ 7K • 👍 88 • 💬 11 • ⏱️ 15:41 • 20h ago
 
 ---
 
@@ -445,7 +449,7 @@ MiniCPM-o 4.5 is a 9B parameter multimodal LLM excelling in vision, speech, and 
 
 `any-to-any` `9.4B`
 
-⬇️ 2,389 • ❤️ 526 • 3h ago
+⬇️ 2,389 • ❤️ 526 • 4h ago
 
 ---
 
@@ -660,7 +664,7 @@ LLM驱动的 A/H/美股智能分析器，多数据源行情 + 实时新闻 + Gem
 
 `Python` `agent` `ai` `aigc` `gemini` `llm`
 
-⭐ 9.7k • 🔱 10.2k • 5h ago
+⭐ 9.7k • 🔱 10.2k • 6h ago
 
 ---
 
@@ -724,7 +728,7 @@ An app to monitor the (Codex) situation
 
 `TypeScript` `ai` `codex` `linux` `macos` `tauri-app`
 
-⭐ 2.2k • 🔱 195 • 2h ago
+⭐ 2.2k • 🔱 195 • 3h ago
 
 ---
 

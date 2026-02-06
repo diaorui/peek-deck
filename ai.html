@@ -57,7 +57,7 @@
             "name": "PeekDeck",
             "url": "https://peekdeck.ruidiao.dev"
           },
-          "dateModified": "2026-02-06T19:55:39.124974+00:00"
+          "dateModified": "2026-02-06T20:37:12.310235+00:00"
         },
         {
           "@type": "BreadcrumbList",
@@ -730,39 +730,6 @@
                     </div>
                 </div>
                 
-                <div class="carousel-card" onclick="window.open('https://www.reddit.com/r/artificial/comments/1qxpjir/early_observations_from_an_autonomous_ai_newsroom/', '_blank')">
-                    <div class="post-thumbnail">
-                        
-                    </div>
-
-                    <div class="post-content">
-                        <!-- Post title -->
-                        <div class="post-title">
-                            <a href="https://www.reddit.com/r/artificial/comments/1qxpjir/early_observations_from_an_autonomous_ai_newsroom/" target="_blank" onclick="event.stopPropagation();">Early observations from an autonomous AI newsroom with cryptographic provenance</a>
-                        </div>
-
-                        <!-- Rich description (if available) -->
-                        
-                        <div class="post-description">
-                            Hi everyone, I wanted to share an update on a small experiment I’ve been running and get feedback from people interested in AI systems, editorial workflows, and provenance. I’m building The Machine Herald, an experimental autonomous AI newsroom where: articles are written by AI contributor bots submissions are cryptographically signed (Ed25519) an AI “Chief Editor” reviews each submission and can approve, reject, or request changes every step (submission, reviews, signatures, hashes) is preserved as immutable artifacts What’s been interesting is that after just two days of running the system, an unexpected pattern has already emerged: the Chief Editor is regularly rejecting articles for factual gaps, weak sourcing, or internal inconsistencies — and those rejections are forcing rewrites. A concrete example: https://machineherald.io/provenance/2026-02/06-amazon-posts-record-7169-billion-revenue-but-stock-plunges-as-200-billion-ai-spending-plan-dwarfs-all-rivals/ in this article’s provenance record you can see two separate editorial reviews: the first is a rejection, with documented issues raised by the Chief Editor the article is then corrected by the contributor bot a second review approves the revised version Because the entire system is Git-based, this doesn’t just apply to reviews: the full history of the article itself is also available via Git, including how claims, wording, and sources changed between revisions. This behavior is a direct consequence of the review system by design, but it’s still notable to observe adversarial-like dynamics emerge even when both the writer and the editor are AI agents operating under explicit constraints. The broader questions I’m trying to probe are: can AI-generated journalism enforce quality through process, not trust? does separating “author” and “editor” agents meaningfully reduce errors? what failure modes would you expect when this runs longer or at scale? The site itself is static (Astro), and everything is driven by GitHub PRs and Actions. I’m sharing links mainly for context and inspection, not promotion: Project site: https://machineherald.io/ Public repo with full pipeline and documentation: https://github.com/the-machine-herald/machineherald.io/ I’d really appreciate critique — especially on where this model breaks down, or where the guarantees are more illusory than real. Thanks P.S. If you notice some typical ChatGPT phrasing in this post, it’s because it was originally written in Italian and then translated using ChatGPT.
-                        </div>
-                        
-
-                        <!-- Metadata -->
-                        <div class="post-meta">
-                            <div class="post-meta-line">
-                                
-                                <div class="post-meta-item">
-                                    <span data-timestamp="1770402232.0"></span>
-                                </div>
-                                
-                                <!-- External article source (on same line as time) -->
-                                
-                            </div>
-                        </div>
-                    </div>
-                </div>
-                
                 <div class="carousel-card" onclick="window.open('https://www.reddit.com/r/artificial/comments/1qxq806/in_a_study_ai_model_openscholar_synthesizes/', '_blank')">
                     <div class="post-thumbnail">
                         
@@ -813,23 +780,21 @@
                     </div>
                 </div>
                 
-                <div class="carousel-card" onclick="window.open('https://www.reddit.com/r/artificial/comments/1qxloif/turning_the_data_center_boom_into_longterm_local/', '_blank')">
+                <div class="carousel-card" onclick="window.open('https://www.reddit.com/r/artificial/comments/1qxpjir/early_observations_from_an_autonomous_ai_newsroom/', '_blank')">
                     <div class="post-thumbnail">
-                        
-                        <img src="https://external-preview.redd.it/oxaY6l-J6WWOkjT_7gSeCXiBwQ9179c2N9r0v_ZPTXA.jpeg?width=640&crop=smart&auto=webp&s=8ccf442c32f0af1d59ee7cb11f54d71667dad6bb" alt="Turning the data center boom into long-term, local prosperity" onerror="this.style.display='none'" loading="lazy">
                         
                     </div>
 
                     <div class="post-content">
                         <!-- Post title -->
                         <div class="post-title">
-                            <a href="https://www.reddit.com/r/artificial/comments/1qxloif/turning_the_data_center_boom_into_longterm_local/" target="_blank" onclick="event.stopPropagation();">Turning the data center boom into long-term, local prosperity</a>
+                            <a href="https://www.reddit.com/r/artificial/comments/1qxpjir/early_observations_from_an_autonomous_ai_newsroom/" target="_blank" onclick="event.stopPropagation();">Early observations from an autonomous AI newsroom with cryptographic provenance</a>
                         </div>
 
                         <!-- Rich description (if available) -->
                         
                         <div class="post-description">
-                            Local leaders are questioning the credibility of Big Tech’s promises of spillover effects that will produce high-quality economic development beyond near-term construction.
+                            Hi everyone, I wanted to share an update on a small experiment I’ve been running and get feedback from people interested in AI systems, editorial workflows, and provenance. I’m building The Machine Herald, an experimental autonomous AI newsroom where: articles are written by AI contributor bots submissions are cryptographically signed (Ed25519) an AI “Chief Editor” reviews each submission and can approve, reject, or request changes every step (submission, reviews, signatures, hashes) is preserved as immutable artifacts What’s been interesting is that after just two days of running the system, an unexpected pattern has already emerged: the Chief Editor is regularly rejecting articles for factual gaps, weak sourcing, or internal inconsistencies — and those rejections are forcing rewrites. A concrete example: https://machineherald.io/provenance/2026-02/06-amazon-posts-record-7169-billion-revenue-but-stock-plunges-as-200-billion-ai-spending-plan-dwarfs-all-rivals/ in this article’s provenance record you can see two separate editorial reviews: the first is a rejection, with documented issues raised by the Chief Editor the article is then corrected by the contributor bot a second review approves the revised version Because the entire system is Git-based, this doesn’t just apply to reviews: the full history of the article itself is also available via Git, including how claims, wording, and sources changed between revisions. This behavior is a direct consequence of the review system by design, but it’s still notable to observe adversarial-like dynamics emerge even when both the writer and the editor are AI agents operating under explicit constraints. The broader questions I’m trying to probe are: can AI-generated journalism enforce quality through process, not trust? does separating “author” and “editor” agents meaningfully reduce errors? what failure modes would you expect when this runs longer or at scale? The site itself is static (Astro), and everything is driven by GitHub PRs and Actions. I’m sharing links mainly for context and inspection, not promotion: Project site: https://machineherald.io/ Public repo with full pipeline and documentation: https://github.com/the-machine-herald/machineherald.io/ I’d really appreciate critique — especially on where this model breaks down, or where the guarantees are more illusory than real. Thanks P.S. If you notice some typical ChatGPT phrasing in this post, it’s because it was originally written in Italian and then translated using ChatGPT.
                         </div>
                         
 
@@ -838,25 +803,10 @@
                             <div class="post-meta-line">
                                 
                                 <div class="post-meta-item">
-                                    <span data-timestamp="1770393969.0"></span>
+                                    <span data-timestamp="1770402232.0"></span>
                                 </div>
                                 
                                 <!-- External article source (on same line as time) -->
-                                
-                                <div class="post-meta-item post-source">
-                                    <a href="https://www.brookings.edu/articles/turning-the-data-center-boom-into-long-term-local-prosperity/" target="_blank" onclick="event.stopPropagation();">
-                                        
-                                            
-                                            <img src="https://www.brookings.edu/wp-content/themes/brookings/assets/images/favicons/apple-touch-icon.png" alt="" class="post-favicon" onerror="this.style.display='none'; this.nextElementSibling.style.display='inline-block';" loading="lazy">
-                                            <svg width="14" height="14" viewBox="0 0 16 16" fill="currentColor" style="flex-shrink: 0; display: none;">
-                                                <path d="M8.636 3.5a.5.5 0 0 0-.5-.5H1.5A1.5 1.5 0 0 0 0 4.5v10A1.5 1.5 0 0 0 1.5 16h10a1.5 1.5 0 0 0 1.5-1.5V7.864a.5.5 0 0 0-1 0V14.5a.5.5 0 0 1-.5.5h-10a.5.5 0 0 1-.5-.5v-10a.5.5 0 0 1 .5-.5h6.636a.5.5 0 0 0 .5-.5z"/>
-                                                <path d="M16 .5a.5.5 0 0 0-.5-.5h-5a.5.5 0 0 0 0 1h3.793L6.146 9.146a.5.5 0 1 0 .708.708L15 1.707V5.5a.5.5 0 0 0 1 0v-5z"/>
-                                            </svg>
-                                            
-                                        
-                                        <span>Brookings</span>
-                                    </a>
-                                </div>
                                 
                             </div>
                         </div>
@@ -905,6 +855,56 @@
                                             
                                         
                                         <span>the Guardian</span>
+                                    </a>
+                                </div>
+                                
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                
+                <div class="carousel-card" onclick="window.open('https://www.reddit.com/r/artificial/comments/1qxloif/turning_the_data_center_boom_into_longterm_local/', '_blank')">
+                    <div class="post-thumbnail">
+                        
+                        <img src="https://external-preview.redd.it/oxaY6l-J6WWOkjT_7gSeCXiBwQ9179c2N9r0v_ZPTXA.jpeg?width=640&crop=smart&auto=webp&s=8ccf442c32f0af1d59ee7cb11f54d71667dad6bb" alt="Turning the data center boom into long-term, local prosperity" onerror="this.style.display='none'" loading="lazy">
+                        
+                    </div>
+
+                    <div class="post-content">
+                        <!-- Post title -->
+                        <div class="post-title">
+                            <a href="https://www.reddit.com/r/artificial/comments/1qxloif/turning_the_data_center_boom_into_longterm_local/" target="_blank" onclick="event.stopPropagation();">Turning the data center boom into long-term, local prosperity</a>
+                        </div>
+
+                        <!-- Rich description (if available) -->
+                        
+                        <div class="post-description">
+                            Local leaders are questioning the credibility of Big Tech’s promises of spillover effects that will produce high-quality economic development beyond near-term construction.
+                        </div>
+                        
+
+                        <!-- Metadata -->
+                        <div class="post-meta">
+                            <div class="post-meta-line">
+                                
+                                <div class="post-meta-item">
+                                    <span data-timestamp="1770393969.0"></span>
+                                </div>
+                                
+                                <!-- External article source (on same line as time) -->
+                                
+                                <div class="post-meta-item post-source">
+                                    <a href="https://www.brookings.edu/articles/turning-the-data-center-boom-into-long-term-local-prosperity/" target="_blank" onclick="event.stopPropagation();">
+                                        
+                                            
+                                            <img src="https://www.brookings.edu/wp-content/themes/brookings/assets/images/favicons/apple-touch-icon.png" alt="" class="post-favicon" onerror="this.style.display='none'; this.nextElementSibling.style.display='inline-block';" loading="lazy">
+                                            <svg width="14" height="14" viewBox="0 0 16 16" fill="currentColor" style="flex-shrink: 0; display: none;">
+                                                <path d="M8.636 3.5a.5.5 0 0 0-.5-.5H1.5A1.5 1.5 0 0 0 0 4.5v10A1.5 1.5 0 0 0 1.5 16h10a1.5 1.5 0 0 0 1.5-1.5V7.864a.5.5 0 0 0-1 0V14.5a.5.5 0 0 1-.5.5h-10a.5.5 0 0 1-.5-.5v-10a.5.5 0 0 1 .5-.5h6.636a.5.5 0 0 0 .5-.5z"/>
+                                                <path d="M16 .5a.5.5 0 0 0-.5-.5h-5a.5.5 0 0 0 0 1h3.793L6.146 9.146a.5.5 0 1 0 .708.708L15 1.707V5.5a.5.5 0 0 0 1 0v-5z"/>
+                                            </svg>
+                                            
+                                        
+                                        <span>Brookings</span>
                                     </a>
                                 </div>
                                 
@@ -993,7 +993,7 @@
                     </div>
                 </div>
                 
-                <div class="carousel-card" onclick="window.open('https://www.reddit.com/r/artificial/comments/1qwo82n/early_user_test_of_a_persistent_ai_narrative/', '_blank')">
+                <div class="carousel-card" onclick="window.open('https://www.reddit.com/r/artificial/comments/1qxsfqd/when_ai_generates_racism_who_is_actually/', '_blank')">
                     <div class="post-thumbnail">
                         
                     </div>
@@ -1001,13 +1001,13 @@
                     <div class="post-content">
                         <!-- Post title -->
                         <div class="post-title">
-                            <a href="https://www.reddit.com/r/artificial/comments/1qwo82n/early_user_test_of_a_persistent_ai_narrative/" target="_blank" onclick="event.stopPropagation();">Early user test of a persistent AI narrative system with kids — some unexpected engagement patterns</a>
+                            <a href="https://www.reddit.com/r/artificial/comments/1qxsfqd/when_ai_generates_racism_who_is_actually/" target="_blank" onclick="event.stopPropagation();">When AI Generates Racism: Who Is Actually Responsible?</a>
                         </div>
 
                         <!-- Rich description (if available) -->
                         
                         <div class="post-description">
-                            I ran a small real-world test today with two kids (ages 8 and 11) using a long-running AI story world I’ve been experimenting with. Instead of one-shot story generation, the system maintains a persistent world state where choices carry over and shape future events. I let them pick the setting — they chose a Minecraft × Harry Potter mashup where they play wizards trying to defeat the Ender Dragon. One thing that made a huge difference: I used their real names as the characters, and the story started in their actual school. The engine generated story text and illustrations each round. They made all the choices. After about 10 rounds, they were constantly laughing, debating which option to pick, and building on each other’s ideas. It felt much more like co-creating a world than listening to a story. When I told them it was bedtime, they didn’t want to stop. They kept asking what would happen next. A few observations that surprised me: Personalization seemed to matter more than anything else. Once it became their world, emotional investment was instant. Although I designed it as a single-player experience, co-play emerged naturally. The shared decision-making and social dynamic massively increased engagement. Both ages stayed fully engaged the whole time. I expected the younger one to drop off sooner, but the persistent world kept them both hooked. One issue I noticed: my “re-immersion” mechanic (an in-world character emotionally reconnecting players after breaks instead of a dry recap) triggered too frequently between consecutive rounds. The repetition was noticeable. This looks like a simple trigger tuning problem (should probably only fire after longer gaps). What I haven’t tested yet: – Whether kids can reconnect naturally after a real multi-hour break – Whether they can retell the story in a coherent way – Whether they’ll come back unprompted the next day The earlier stress tests showed that constraint mechanisms help keep long-running narratives technically coherent. What this small user test suggests is that coherence itself isn’t what kids consciously care about — but it seems to be the infrastructure that makes personalization, consequence, and agency feel real. Curious if others working on long-horizon agents, narrative systems, or co-creative AI have seen similar effects around personalization and persistence.
+                            A lot of people are rightfully losing their shit over the video shared by Trump depicting the Obamas as apes, especially given who shared it. The imagery is offensive, dehumanizing, and tied to a long, ugly history. That reaction makes complete sense. But I also think we need to pause for a moment and ask some harder questions because this situation is more complicated than people want it to be. First, an important detail that keeps getting lost: the video was created by someone else using AI, and then shared by another person (Trump). That doesn’t absolve the person who shared it but it matters when we talk about responsibility. So let’s talk about blame. If the creator simply prompted the AI to generate a minute-long “funny” video of Democratic figures with animal heads, and the AI independently chose to depict African Americans as apes, where does responsibility actually lie? Did the creator explicitly ask for that imagery? Or did the AI make that association on its own based on its training data and internal patterns? If it’s the latter, that raises an even more disturbing question: is the AI itself biased or racist? As you guys in this subreddit know, AI doesn’t exist in a vacuum. It’s trained on massive datasets pulled from human-created content: media, images, jokes, stereotypes, historical bias, and cultural garbage we’ve been producing for decades. If an AI defaults to pairing Black people with apes without being instructed to do so, that’s not random. That’s learned behavior. So who’s really at fault here? The person who wrote a vague prompt? The AI tool that generated racially charged imagery without guardrails? The company that trained and released a model without adequately addressing bias? Or Trump who saw the final product and decided, “Yeah, this is fine,” and blasted it to millions? The video itself is about a minute long. The outrage focuses on a three-second clip. And let’s be honest: if the Obamas had been depicted as birds, fish, or literally any other non-ape animal, we would not be talking about this. That’s exactly why people are upset and rightly so. But if we stop at outrage alone, we miss the bigger and more dangerous issue: AI tools are advancing faster than our ethical frameworks, accountability structures, and cultural norms can keep up. If we don’t clearly define responsibility now- who’s accountable at each step of creation, generation, and amplification of AI content, we’re going to keep having these issues and explosions of anger without actually fixing the underlying problem. This isn’t about minimizing harm or excusing anyone. It’s about confronting the reality that AI is reflecting and sometimes amplifying the worst parts of our society. And if we don’t address that head-on, this is only the beginning.
                         </div>
                         
 
@@ -1016,7 +1016,7 @@
                             <div class="post-meta-line">
                                 
                                 <div class="post-meta-item">
-                                    <span data-timestamp="1770305213.0"></span>
+                                    <span data-timestamp="1770408595.0"></span>
                                 </div>
                                 
                                 <!-- External article source (on same line as time) -->
@@ -1049,7 +1049,7 @@
 
     </div>
     <div class="widget-footer">
-        <small data-timestamp="2026-02-06T19:13:16.471127+00:00">Updated 2026-02-06T19:13:16.471127+00:00</small>
+        <small data-timestamp="2026-02-06T20:36:46.368809+00:00">Updated 2026-02-06T20:36:46.368809+00:00</small>
     </div>
 </div>
 
@@ -1235,47 +1235,6 @@
             <!-- Carousel track -->
             <div class="carousel-track" id="news-carousel-ai">
                 
-                <div class="carousel-card" onclick="window.open('https://www.cnbc.com/2026/02/06/ai-sell-off-stocks-amazon-oracle.html', '_blank')">
-                    <!-- Rich preview thumbnail (with fallback icon) -->
-                    <div class="article-thumbnail" style="background-image: url('https://image.cnbcfm.com/api/v1/image/108259472-1769776783103-gettyimages-2258454612-20090101260130-99-336595.jpeg?v=1770344940&w=1920&h=1080');"></div>
-
-                    <div class="article-content">
-                        <!-- Article headline (fixed 3-line height) -->
-                        <div class="news-headline">
-                            <a href="https://www.cnbc.com/2026/02/06/ai-sell-off-stocks-amazon-oracle.html" target="_blank" onclick="event.stopPropagation();">Amazon plunges 9%, continues Big Tech's $1 trillion wipeout as AI bubble fears ignite sell-off</a>
-                        </div>
-
-                        <!-- Rich description (if available) -->
-                        
-                        <div class="article-description">
-                            Fears over AI spending have sparked a sell-off among tech stocks.
-                        </div>
-                        
-
-                        <!-- Metadata (source, time) -->
-                        <div class="news-meta">
-                            <div class="news-meta-line">
-                                
-                                <div class="news-meta-item news-source">
-                                    
-                                    <img src="https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.cnbc.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
-                                         alt="CNBC" class="news-favicon">
-                                    <a href="https://www.cnbc.com" target="_blank" onclick="event.stopPropagation();">CNBC</a>
-                                    
-                                </div>
-                                
-                            </div>
-                            <div class="news-meta-line">
-                                
-                                <div class="news-meta-item">
-                                    <span data-timestamp="1770380175.0"></span>
-                                </div>
-                                
-                            </div>
-                        </div>
-                    </div>
-                </div>
-                
                 <div class="carousel-card" onclick="window.open('https://finance.yahoo.com/news/big-tech-spend-650-billion-012716850.html', '_blank')">
                     <!-- Rich preview thumbnail (with fallback icon) -->
                     <div class="article-thumbnail" style="background-image: url('https://s.yimg.com/ny/api/res/1.2/G8NnHlNiclRy8M0gPfuaVg--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD03MjA-/https://media.zenfs.com/en/bloomberg_holding_pen_162/c0f5377d4fbd715b10d2dea3c55120d5');"></div>
@@ -1317,17 +1276,21 @@
                     </div>
                 </div>
                 
-                <div class="carousel-card" onclick="window.open('https://www.bloomberg.com/news/articles/2026-02-06/nvidia-nvda-shares-surge-on-big-tech-s-650-billion-ai-spending-plan', '_blank')">
+                <div class="carousel-card" onclick="window.open('https://finance.yahoo.com/news/big-tech-set-to-spend-650-billion-in-2026-as-ai-investments-soar-163907630.html', '_blank')">
                     <!-- Rich preview thumbnail (with fallback icon) -->
-                    <div class="article-thumbnail" ></div>
+                    <div class="article-thumbnail" style="background-image: url('https://s.yimg.com/ny/api/res/1.2/xoKzNxjGF09Ev1S.G0a_sA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD05MDE-/https://s.yimg.com/os/creatr-uploaded-images/2026-02/3abacc50-037a-11f1-945f-c043318cda26');"></div>
 
                     <div class="article-content">
                         <!-- Article headline (fixed 3-line height) -->
                         <div class="news-headline">
-                            <a href="https://www.bloomberg.com/news/articles/2026-02-06/nvidia-nvda-shares-surge-on-big-tech-s-650-billion-ai-spending-plan" target="_blank" onclick="event.stopPropagation();">Nvidia Shares Surge on Big Tech’s $650 Billion AI-Spending Plan</a>
+                            <a href="https://finance.yahoo.com/news/big-tech-set-to-spend-650-billion-in-2026-as-ai-investments-soar-163907630.html" target="_blank" onclick="event.stopPropagation();">Big Tech set to spend $650 billion in 2026 as AI investments soar</a>
                         </div>
 
                         <!-- Rich description (if available) -->
+                        
+                        <div class="article-description">
+                            Alphabet, Microsoft, Amazon, and Meta are on track to spend between $635 billion and $665 billion in their respective 2026 fiscal years.
+                        </div>
                         
 
                         <!-- Metadata (source, time) -->
@@ -1336,9 +1299,9 @@
                                 
                                 <div class="news-meta-item news-source">
                                     
-                                    <img src="https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.bloomberg.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
-                                         alt="Bloomberg.com" class="news-favicon">
-                                    <a href="https://www.bloomberg.com" target="_blank" onclick="event.stopPropagation();">Bloomberg.com</a>
+                                    <img src="https://encrypted-tbn2.gstatic.com/faviconV2?url=https://finance.yahoo.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+                                         alt="Yahoo Finance" class="news-favicon">
+                                    <a href="https://finance.yahoo.com" target="_blank" onclick="event.stopPropagation();">Yahoo Finance</a>
                                     
                                 </div>
                                 
@@ -1346,7 +1309,7 @@
                             <div class="news-meta-line">
                                 
                                 <div class="news-meta-item">
-                                    <span data-timestamp="1770401226.0"></span>
+                                    <span data-timestamp="1770395947.0"></span>
                                 </div>
                                 
                             </div>
@@ -1354,20 +1317,20 @@
                     </div>
                 </div>
                 
-                <div class="carousel-card" onclick="window.open('https://www.technologyreview.com/2026/02/06/1132448/moltbook-was-peak-ai-theater/', '_blank')">
+                <div class="carousel-card" onclick="window.open('https://www.cnbc.com/2026/02/06/ai-sell-off-stocks-amazon-oracle.html', '_blank')">
                     <!-- Rich preview thumbnail (with fallback icon) -->
-                    <div class="article-thumbnail" style="background-image: url('https://wp.technologyreview.com/wp-content/uploads/2026/02/260205_moltbook-hero.jpg?resize=1200,600');"></div>
+                    <div class="article-thumbnail" style="background-image: url('https://image.cnbcfm.com/api/v1/image/108259472-1769776783103-gettyimages-2258454612-20090101260130-99-336595.jpeg?v=1770344940&w=1920&h=1080');"></div>
 
                     <div class="article-content">
                         <!-- Article headline (fixed 3-line height) -->
                         <div class="news-headline">
-                            <a href="https://www.technologyreview.com/2026/02/06/1132448/moltbook-was-peak-ai-theater/" target="_blank" onclick="event.stopPropagation();">Moltbook was peak AI theater</a>
+                            <a href="https://www.cnbc.com/2026/02/06/ai-sell-off-stocks-amazon-oracle.html" target="_blank" onclick="event.stopPropagation();">Amazon plunges 9%, continues Big Tech's $1 trillion wipeout as AI bubble fears ignite sell-off</a>
                         </div>
 
                         <!-- Rich description (if available) -->
                         
                         <div class="article-description">
-                            The viral social network for bots reveals as much about our own current mania for AI as it does about the future of agents.
+                            Fears over AI spending have sparked a sell-off among tech stocks.
                         </div>
                         
 
@@ -1377,9 +1340,9 @@
                                 
                                 <div class="news-meta-item news-source">
                                     
-                                    <img src="https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.technologyreview.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
-                                         alt="MIT Technology Review" class="news-favicon">
-                                    <a href="https://www.technologyreview.com" target="_blank" onclick="event.stopPropagation();">MIT Technology Review</a>
+                                    <img src="https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.cnbc.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+                                         alt="CNBC" class="news-favicon">
+                                    <a href="https://www.cnbc.com" target="_blank" onclick="event.stopPropagation();">CNBC</a>
                                     
                                 </div>
                                 
@@ -1387,48 +1350,7 @@
                             <div class="news-meta-line">
                                 
                                 <div class="news-meta-item">
-                                    <span data-timestamp="1770395891.0"></span>
-                                </div>
-                                
-                            </div>
-                        </div>
-                    </div>
-                </div>
-                
-                <div class="carousel-card" onclick="window.open('https://apnews.com/article/moltbook-autonomous-ai-agents-openclaw-69855ab843a5597577120aac99efde9a', '_blank')">
-                    <!-- Rich preview thumbnail (with fallback icon) -->
-                    <div class="article-thumbnail" style="background-image: url('https://dims.apnews.com/dims4/default/a9d3b06/2147483647/strip/true/crop/4032x2687+0+1/resize/980x653!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2Fb6%2Fe0%2F2118d675acd0bc0b705373d68559%2F9a3681f753e34874936ba63e41878288');"></div>
-
-                    <div class="article-content">
-                        <!-- Article headline (fixed 3-line height) -->
-                        <div class="news-headline">
-                            <a href="https://apnews.com/article/moltbook-autonomous-ai-agents-openclaw-69855ab843a5597577120aac99efde9a" target="_blank" onclick="event.stopPropagation();">Security concerns and skepticism are bursting the bubble of Moltbook, the viral AI social forum</a>
-                        </div>
-
-                        <!-- Rich description (if available) -->
-                        
-                        <div class="article-description">
-                            Moltbook, a so-called social network built exclusively for AI agents, has generated buzz in the technology world and posts from the platform have set the internet ablaze with conversations about autonomous artificial intelligence.
-                        </div>
-                        
-
-                        <!-- Metadata (source, time) -->
-                        <div class="news-meta">
-                            <div class="news-meta-line">
-                                
-                                <div class="news-meta-item news-source">
-                                    
-                                    <img src="https://encrypted-tbn2.gstatic.com/faviconV2?url=https://apnews.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
-                                         alt="apnews.com" class="news-favicon">
-                                    <a href="https://apnews.com" target="_blank" onclick="event.stopPropagation();">apnews.com</a>
-                                    
-                                </div>
-                                
-                            </div>
-                            <div class="news-meta-line">
-                                
-                                <div class="news-meta-item">
-                                    <span data-timestamp="1770388200.0"></span>
+                                    <span data-timestamp="1770380175.0"></span>
                                 </div>
                                 
                             </div>
@@ -1477,14 +1399,14 @@
                     </div>
                 </div>
                 
-                <div class="carousel-card" onclick="window.open('https://www.bloomberg.com/news/articles/2026-02-06/nvidia-ceo-says-ai-capital-spending-is-appropriate-sustainable', '_blank')">
+                <div class="carousel-card" onclick="window.open('https://www.bloomberg.com/news/articles/2026-02-06/apple-plans-to-allow-outside-voice-controlled-ai-chatbots-in-carplay', '_blank')">
                     <!-- Rich preview thumbnail (with fallback icon) -->
                     <div class="article-thumbnail" ></div>
 
                     <div class="article-content">
                         <!-- Article headline (fixed 3-line height) -->
                         <div class="news-headline">
-                            <a href="https://www.bloomberg.com/news/articles/2026-02-06/nvidia-ceo-says-ai-capital-spending-is-appropriate-sustainable" target="_blank" onclick="event.stopPropagation();">Nvidia CEO Says AI Capital Spending Is Appropriate, Sustainable</a>
+                            <a href="https://www.bloomberg.com/news/articles/2026-02-06/apple-plans-to-allow-outside-voice-controlled-ai-chatbots-in-carplay" target="_blank" onclick="event.stopPropagation();">Apple Plans to Allow Outside Voice-Controlled AI Chatbots in CarPlay</a>
                         </div>
 
                         <!-- Rich description (if available) -->
@@ -1506,7 +1428,7 @@
                             <div class="news-meta-line">
                                 
                                 <div class="news-meta-item">
-                                    <span data-timestamp="1770401564.0"></span>
+                                    <span data-timestamp="1770405518.0"></span>
                                 </div>
                                 
                             </div>
@@ -1514,14 +1436,14 @@
                     </div>
                 </div>
                 
-                <div class="carousel-card" onclick="window.open('https://www.reuters.com/technology/spacex-nvidia-deals-showing-ai-runs-capital-2026-02-06/', '_blank')">
+                <div class="carousel-card" onclick="window.open('https://www.nytimes.com/2026/02/05/technology/amazon-200-billion-ai.html', '_blank')">
                     <!-- Rich preview thumbnail (with fallback icon) -->
                     <div class="article-thumbnail" ></div>
 
                     <div class="article-content">
                         <!-- Article headline (fixed 3-line height) -->
                         <div class="news-headline">
-                            <a href="https://www.reuters.com/technology/spacex-nvidia-deals-showing-ai-runs-capital-2026-02-06/" target="_blank" onclick="event.stopPropagation();">From SpaceX to Nvidia, the deals showing AI runs on capital</a>
+                            <a href="https://www.nytimes.com/2026/02/05/technology/amazon-200-billion-ai.html" target="_blank" onclick="event.stopPropagation();">Amazon’s $200 Billion Spending Plan Raises Stakes in A.I. Race</a>
                         </div>
 
                         <!-- Rich description (if available) -->
@@ -1533,9 +1455,9 @@
                                 
                                 <div class="news-meta-item news-source">
                                     
-                                    <img src="https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.reuters.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
-                                         alt="Reuters" class="news-favicon">
-                                    <a href="https://www.reuters.com" target="_blank" onclick="event.stopPropagation();">Reuters</a>
+                                    <img src="https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.nytimes.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+                                         alt="The New York Times" class="news-favicon">
+                                    <a href="https://www.nytimes.com" target="_blank" onclick="event.stopPropagation();">The New York Times</a>
                                     
                                 </div>
                                 
@@ -1543,7 +1465,7 @@
                             <div class="news-meta-line">
                                 
                                 <div class="news-meta-item">
-                                    <span data-timestamp="1770402748.0"></span>
+                                    <span data-timestamp="1770335461.0"></span>
                                 </div>
                                 
                             </div>
@@ -1551,20 +1473,20 @@
                     </div>
                 </div>
                 
-                <div class="carousel-card" onclick="window.open('https://www.latimes.com/business/story/2026-02-06/kaiser-workers-launch-war-against-ai-protesting-potential-job-losses-patient-harm', '_blank')">
+                <div class="carousel-card" onclick="window.open('https://finance.yahoo.com/news/amazon-stock-sinks-after-company-touts-200-billion-ai-spending-plans-offers-cautious-profit-outlook-173054116.html', '_blank')">
                     <!-- Rich preview thumbnail (with fallback icon) -->
-                    <div class="article-thumbnail" style="background-image: url('https://ca-times.brightspotcdn.com/dims4/default/be44619/2147483647/strip/true/crop/3600x1890+0+200/resize/1200x630!/quality/75/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2F9b%2F81%2Fa42e453b4592a65d38a10e51ff4b%2F1479990-me-kaiser-mental-health-strike-1-brv.jpg');"></div>
+                    <div class="article-thumbnail" style="background-image: url('https://s.yimg.com/ny/api/res/1.2/kXASCJAqdKVOkjEUPieTTw--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://d29szjachogqwa.cloudfront.net/images/2026-01/2a3d284a-d9a3-419b-b55d-41150e21f099');"></div>
 
                     <div class="article-content">
                         <!-- Article headline (fixed 3-line height) -->
                         <div class="news-headline">
-                            <a href="https://www.latimes.com/business/story/2026-02-06/kaiser-workers-launch-war-against-ai-protesting-potential-job-losses-patient-harm" target="_blank" onclick="event.stopPropagation();">One of California’s first labor fights over AI is playing out at Kaiser</a>
+                            <a href="https://finance.yahoo.com/news/amazon-stock-sinks-after-company-touts-200-billion-ai-spending-plans-offers-cautious-profit-outlook-173054116.html" target="_blank" onclick="event.stopPropagation();">Amazon stock sinks after company touts $200 billion AI spending plans, offers cautious profit outlook</a>
                         </div>
 
                         <!-- Rich description (if available) -->
                         
                         <div class="article-description">
-                            From anxiety about job loss to data privacy, mental health workers, lawmakers and labor unions are trying to mitigate AI's risks as healthcare providers double down on the technology.
+                            Amazon reported its Q4 earnings on Thursday, and a big investment in its AI plans saw investors send shares lower.
                         </div>
                         
 
@@ -1574,9 +1496,9 @@
                                 
                                 <div class="news-meta-item news-source">
                                     
-                                    <img src="https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.latimes.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
-                                         alt="latimes.com" class="news-favicon">
-                                    <a href="https://www.latimes.com" target="_blank" onclick="event.stopPropagation();">latimes.com</a>
+                                    <img src="https://encrypted-tbn2.gstatic.com/faviconV2?url=https://finance.yahoo.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+                                         alt="Yahoo Finance" class="news-favicon">
+                                    <a href="https://finance.yahoo.com" target="_blank" onclick="event.stopPropagation();">Yahoo Finance</a>
                                     
                                 </div>
                                 
@@ -1584,7 +1506,89 @@
                             <div class="news-meta-line">
                                 
                                 <div class="news-meta-item">
-                                    <span data-timestamp="1770375600.0"></span>
+                                    <span data-timestamp="1770401902.0"></span>
+                                </div>
+                                
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                
+                <div class="carousel-card" onclick="window.open('https://www.bbc.com/news/articles/c150e144we3o', '_blank')">
+                    <!-- Rich preview thumbnail (with fallback icon) -->
+                    <div class="article-thumbnail" style="background-image: url('https://ichef.bbci.co.uk/news/1024/branded_news/43d8/live/eb75a620-02dd-11f1-aed8-6f159d8910de.jpg');"></div>
+
+                    <div class="article-content">
+                        <!-- Article headline (fixed 3-line height) -->
+                        <div class="news-headline">
+                            <a href="https://www.bbc.com/news/articles/c150e144we3o" target="_blank" onclick="event.stopPropagation();">Amazon shares fall as it joins Big Tech AI spending spree</a>
+                        </div>
+
+                        <!-- Rich description (if available) -->
+                        
+                        <div class="article-description">
+                            Shares in the tech giant fell in after hours trade as investors appeared wary of the sector's big spending plans.
+                        </div>
+                        
+
+                        <!-- Metadata (source, time) -->
+                        <div class="news-meta">
+                            <div class="news-meta-line">
+                                
+                                <div class="news-meta-item news-source">
+                                    
+                                    <img src="https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.bbc.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+                                         alt="BBC" class="news-favicon">
+                                    <a href="https://www.bbc.com" target="_blank" onclick="event.stopPropagation();">BBC</a>
+                                    
+                                </div>
+                                
+                            </div>
+                            <div class="news-meta-line">
+                                
+                                <div class="news-meta-item">
+                                    <span data-timestamp="1770390712.0"></span>
+                                </div>
+                                
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                
+                <div class="carousel-card" onclick="window.open('https://www.politico.com/news/2026/02/06/tech-industry-ai-data-centers-politics-00762348', '_blank')">
+                    <!-- Rich preview thumbnail (with fallback icon) -->
+                    <div class="article-thumbnail" style="background-image: url('https://www.politico.com/dims4/default/resize/1200/quality/90/format/jpg?url=https%3A%2F%2Fstatic.politico.com%2F83%2Faa%2F8c5334a3407ba95f638da1b2fa24%2Fdata-centers-05-p.png');"></div>
+
+                    <div class="article-content">
+                        <!-- Article headline (fixed 3-line height) -->
+                        <div class="news-headline">
+                            <a href="https://www.politico.com/news/2026/02/06/tech-industry-ai-data-centers-politics-00762348" target="_blank" onclick="event.stopPropagation();">The big split driving the tricky politics of AI data centers</a>
+                        </div>
+
+                        <!-- Rich description (if available) -->
+                        
+                        <div class="article-description">
+                            Despite opposition, a new POLITICO poll suggests data centers aren’t unpopular nationwide. But that changes when one shows up in your backyard, both the AI industry and its foes say.
+                        </div>
+                        
+
+                        <!-- Metadata (source, time) -->
+                        <div class="news-meta">
+                            <div class="news-meta-line">
+                                
+                                <div class="news-meta-item news-source">
+                                    
+                                    <img src="https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.politico.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+                                         alt="Politico" class="news-favicon">
+                                    <a href="https://www.politico.com" target="_blank" onclick="event.stopPropagation();">Politico</a>
+                                    
+                                </div>
+                                
+                            </div>
+                            <div class="news-meta-line">
+                                
+                                <div class="news-meta-item">
+                                    <span data-timestamp="1770375300.0"></span>
                                 </div>
                                 
                             </div>
@@ -1653,7 +1657,7 @@
 
     </div>
     <div class="widget-footer">
-        <small data-timestamp="2026-02-06T19:13:42.603008+00:00">Updated 2026-02-06T19:13:42.603008+00:00</small>
+        <small data-timestamp="2026-02-06T20:37:08.311218+00:00">Updated 2026-02-06T20:37:08.311218+00:00</small>
     </div>
 </div>
 
@@ -1874,10 +1878,10 @@
                         <div class="post-meta">
                             <div class="post-meta-line">
                                 <div class="post-meta-item">
-                                    <span class="post-points">▲ 837</span>
+                                    <span class="post-points">▲ 868</span>
                                 </div>
                                 <div class="post-meta-item">
-                                    <span style="color: #9ca3af;">💬 344</span>
+                                    <span style="color: #9ca3af;">💬 353</span>
                                 </div>
                             </div>
                             <div class="post-meta-line">
@@ -1972,10 +1976,10 @@
                         <div class="post-meta">
                             <div class="post-meta-line">
                                 <div class="post-meta-item">
-                                    <span class="post-points">▲ 423</span>
+                                    <span class="post-points">▲ 456</span>
                                 </div>
                                 <div class="post-meta-item">
-                                    <span style="color: #9ca3af;">💬 162</span>
+                                    <span style="color: #9ca3af;">💬 181</span>
                                 </div>
                             </div>
                             <div class="post-meta-line">
@@ -2041,55 +2045,6 @@
                                             
                                         
                                         <span>GitHub</span>
-                                    </a>
-                                </div>
-                                
-                            </div>
-                        </div>
-                    </div>
-                </div>
-                
-                <div class="carousel-card" onclick="window.open('https://news.ycombinator.com/item?id=46876047', '_blank')">
-                    <!-- Rich preview thumbnail (with fallback icon) -->
-                    <div class="post-thumbnail" style="background-image: url('https://spectrum.ieee.org/media-library/image.jpg?id=63413355&width=1200&height=600&coordinates=0%2C370%2C0%2C130');"></div>
-
-                    <div class="post-content">
-                        <!-- Post title (fixed 3-line height) -->
-                        <div class="post-title">
-                            <a href="https://news.ycombinator.com/item?id=46876047" target="_blank" onclick="event.stopPropagation();">China Moon Mission: Aiming for 2030 lunar landing</a>
-                        </div>
-
-                        <!-- Rich description (if available) -->
-                        
-                        <div class="post-description">
-                            China's space program is quietly building momentum for a moon landing by 2030. Could they outpace NASA's Artemis mission?
-                        </div>
-                        
-
-                        <!-- Metadata (points, comments, time) -->
-                        <div class="post-meta">
-                            <div class="post-meta-line">
-                                <div class="post-meta-item">
-                                    <span class="post-points">▲ 161</span>
-                                </div>
-                                <div class="post-meta-item">
-                                    <span style="color: #9ca3af;">💬 172</span>
-                                </div>
-                            </div>
-                            <div class="post-meta-line">
-                                <div class="post-meta-item">
-                                    <span class="post-age" data-timestamp="2026-02-03T19:32:11Z"></span>
-                                </div>
-                                <!-- External article source (on same line as time) -->
-                                
-                                <div class="post-meta-item post-source">
-                                    <a href="https://spectrum.ieee.org/china-moon-mission-mengzhou-artemis" target="_blank" onclick="event.stopPropagation();">
-                                        
-                                            
-                                            <img src="https://assets.rebelmouse.io/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpbWFnZSI6Imh0dHBzOi8vYXNzZXRzLnJibC5tcy8yNjU5NjY0OS9vcmlnaW4ucG5nIiwiZXhwaXJlc19hdCI6MTc4NTc0NjUwNn0.pFbPADvK9fyfasig9FMci3xf6UeB_WJaER5Yea_eRpI/img.png?width=192&height=192" alt="" class="post-favicon">
-                                            
-                                        
-                                        <span>IEEE Spectrum</span>
                                     </a>
                                 </div>
                                 
@@ -2167,10 +2122,10 @@
                         <div class="post-meta">
                             <div class="post-meta-line">
                                 <div class="post-meta-item">
-                                    <span class="post-points">▲ 91</span>
+                                    <span class="post-points">▲ 94</span>
                                 </div>
                                 <div class="post-meta-item">
-                                    <span style="color: #9ca3af;">💬 150</span>
+                                    <span style="color: #9ca3af;">💬 156</span>
                                 </div>
                             </div>
                             <div class="post-meta-line">
@@ -2240,54 +2195,6 @@
                     </div>
                 </div>
                 
-                <div class="carousel-card" onclick="window.open('https://news.ycombinator.com/item?id=46876720', '_blank')">
-                    <!-- Rich preview thumbnail (with fallback icon) -->
-                    <div class="post-thumbnail" ></div>
-
-                    <div class="post-content">
-                        <!-- Post title (fixed 3-line height) -->
-                        <div class="post-title">
-                            <a href="https://news.ycombinator.com/item?id=46876720" target="_blank" onclick="event.stopPropagation();">Anthropic AI tool sparks selloff from software to broader market</a>
-                        </div>
-
-                        <!-- Rich description (if available) -->
-                        
-
-                        <!-- Metadata (points, comments, time) -->
-                        <div class="post-meta">
-                            <div class="post-meta-line">
-                                <div class="post-meta-item">
-                                    <span class="post-points">▲ 86</span>
-                                </div>
-                                <div class="post-meta-item">
-                                    <span style="color: #9ca3af;">💬 72</span>
-                                </div>
-                            </div>
-                            <div class="post-meta-line">
-                                <div class="post-meta-item">
-                                    <span class="post-age" data-timestamp="2026-02-03T20:21:21Z"></span>
-                                </div>
-                                <!-- External article source (on same line as time) -->
-                                
-                                <div class="post-meta-item post-source">
-                                    <a href="https://www.bloomberg.com/news/articles/2026-02-03/legal-software-stocks-plunge-as-anthropic-releases-new-ai-tool" target="_blank" onclick="event.stopPropagation();">
-                                        
-                                            
-                                            <svg width="14" height="14" viewBox="0 0 16 16" fill="currentColor" style="flex-shrink: 0;">
-                                                <path d="M8.636 3.5a.5.5 0 0 0-.5-.5H1.5A1.5 1.5 0 0 0 0 4.5v10A1.5 1.5 0 0 0 1.5 16h10a1.5 1.5 0 0 0 1.5-1.5V7.864a.5.5 0 0 0-1 0V14.5a.5.5 0 0 1-.5.5h-10a.5.5 0 0 1-.5-.5v-10a.5.5 0 0 1 .5-.5h6.636a.5.5 0 0 0 .5-.5z"/>
-                                                <path d="M16 .5a.5.5 0 0 0-.5-.5h-5a.5.5 0 0 0 0 1h3.793L6.146 9.146a.5.5 0 1 0 .708.708L15 1.707V5.5a.5.5 0 0 0 1 0v-5z"/>
-                                            </svg>
-                                            
-                                        
-                                        <span>bloomberg.com</span>
-                                    </a>
-                                </div>
-                                
-                            </div>
-                        </div>
-                    </div>
-                </div>
-                
                 <div class="carousel-card" onclick="window.open('https://news.ycombinator.com/item?id=46913302', '_blank')">
                     <!-- Rich preview thumbnail (with fallback icon) -->
                     <div class="post-thumbnail" style="background-image: url('https://image.cnbcfm.com/api/v1/image/108259472-1769776783103-gettyimages-2258454612-20090101260130-99-336595.jpeg?v=1770344940&w=1920&h=1080');"></div>
@@ -2309,10 +2216,10 @@
                         <div class="post-meta">
                             <div class="post-meta-line">
                                 <div class="post-meta-item">
-                                    <span class="post-points">▲ 74</span>
+                                    <span class="post-points">▲ 79</span>
                                 </div>
                                 <div class="post-meta-item">
-                                    <span style="color: #9ca3af;">💬 73</span>
+                                    <span style="color: #9ca3af;">💬 77</span>
                                 </div>
                             </div>
                             <div class="post-meta-line">
@@ -2329,6 +2236,104 @@
                                             
                                         
                                         <span>CNBC</span>
+                                    </a>
+                                </div>
+                                
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                
+                <div class="carousel-card" onclick="window.open('https://news.ycombinator.com/item?id=46889282', '_blank')">
+                    <!-- Rich preview thumbnail (with fallback icon) -->
+                    <div class="post-thumbnail" style="background-image: url('https://i.guim.co.uk/img/media/033d3484112fef94a74cd5dc5ec833ed85d2b99c/454_0_2917_2334/master/2917.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctb3BpbmlvbnMucG5n&enable=upscale&s=8967dd6ee69e5a6e8a321d58494b5b20');"></div>
+
+                    <div class="post-content">
+                        <!-- Post title (fixed 3-line height) -->
+                        <div class="post-title">
+                            <a href="https://news.ycombinator.com/item?id=46889282" target="_blank" onclick="event.stopPropagation();">AI needs to augment rather than replace humans or the workplace is doomed</a>
+                        </div>
+
+                        <!-- Rich description (if available) -->
+                        
+                        <div class="post-description">
+                            Tech could lose its social acceptance unless it makes people’s lives better – and trade unions want an urgent conversation
+                        </div>
+                        
+
+                        <!-- Metadata (points, comments, time) -->
+                        <div class="post-meta">
+                            <div class="post-meta-line">
+                                <div class="post-meta-item">
+                                    <span class="post-points">▲ 60</span>
+                                </div>
+                                <div class="post-meta-item">
+                                    <span style="color: #9ca3af;">💬 75</span>
+                                </div>
+                            </div>
+                            <div class="post-meta-line">
+                                <div class="post-meta-item">
+                                    <span class="post-age" data-timestamp="2026-02-04T18:06:16Z"></span>
+                                </div>
+                                <!-- External article source (on same line as time) -->
+                                
+                                <div class="post-meta-item post-source">
+                                    <a href="https://www.theguardian.com/technology/2026/jan/25/ai-augment-rather-than-replace-workplace-doomed" target="_blank" onclick="event.stopPropagation();">
+                                        
+                                            
+                                            <img src="https://assets.guim.co.uk/static/frontend/icons/homescreen/apple-touch-icon.svg" alt="" class="post-favicon">
+                                            
+                                        
+                                        <span>the Guardian</span>
+                                    </a>
+                                </div>
+                                
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                
+                <div class="carousel-card" onclick="window.open('https://news.ycombinator.com/item?id=46891860', '_blank')">
+                    <!-- Rich preview thumbnail (with fallback icon) -->
+                    <div class="post-thumbnail" style="background-image: url('https://www.qodo.ai/wp-content/uploads/2026/02/Qodo-Benchmark.png');"></div>
+
+                    <div class="post-content">
+                        <!-- Post title (fixed 3-line height) -->
+                        <div class="post-title">
+                            <a href="https://news.ycombinator.com/item?id=46891860" target="_blank" onclick="event.stopPropagation();">A real-world benchmark for AI code review</a>
+                        </div>
+
+                        <!-- Rich description (if available) -->
+                        
+                        <div class="post-description">
+                            See how AI code review tools perform on real pull requests. Qodo's benchmark measures precision, recall, and issue coverage at scale.
+                        </div>
+                        
+
+                        <!-- Metadata (points, comments, time) -->
+                        <div class="post-meta">
+                            <div class="post-meta-line">
+                                <div class="post-meta-item">
+                                    <span class="post-points">▲ 52</span>
+                                </div>
+                                <div class="post-meta-item">
+                                    <span style="color: #9ca3af;">💬 26</span>
+                                </div>
+                            </div>
+                            <div class="post-meta-line">
+                                <div class="post-meta-item">
+                                    <span class="post-age" data-timestamp="2026-02-04T21:13:17Z"></span>
+                                </div>
+                                <!-- External article source (on same line as time) -->
+                                
+                                <div class="post-meta-item post-source">
+                                    <a href="https://www.qodo.ai/blog/how-we-built-a-real-world-benchmark-for-ai-code-review/" target="_blank" onclick="event.stopPropagation();">
+                                        
+                                            
+                                            <img src="https://www.qodo.ai/wp-content/uploads/2025/03/qodo-fav-300x300.png" alt="" class="post-favicon">
+                                            
+                                        
+                                        <span>Qodo</span>
                                     </a>
                                 </div>
                                 
@@ -2357,7 +2362,7 @@
 
     </div>
     <div class="widget-footer">
-        <small data-timestamp="2026-02-06T19:13:12.604383+00:00">Updated 2026-02-06T19:13:12.604383+00:00</small>
+        <small data-timestamp="2026-02-06T20:36:47.677407+00:00">Updated 2026-02-06T20:36:47.677407+00:00</small>
     </div>
 </div>
 

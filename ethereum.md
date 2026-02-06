@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-02-06T19:55:39.617703+00:00'
+updated: '2026-02-06T20:37:12.753476+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- cryptocurrency
-- videos
 - social
 - news
+- cryptocurrency
+- videos
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** February 06, 2026 at 19:55 UTC  
+**Last Updated:** February 06, 2026 at 20:37 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -36,17 +36,17 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Price
 
-### $2,040.45
+### $2,053.09
 
 ---
 
 ## Ethereum Chart
 
-**24h:** +9.0%  
-**7d:** -16.8%  
-**30d:** -34.4%  
-**90d:** -43.0%  
-**1y:** -22.1%  
+**24h:** +12.6%  
+**7d:** -15.0%  
+**30d:** -33.0%  
+**90d:** -41.9%  
+**1y:** -20.5%  
 
 ---
 
@@ -68,14 +68,6 @@ No max supply
 
 ## Reddit: r/ethereum
 
-**[Daily General Discussion February 06, 2026](https://www.reddit.com/r/ethereum/comments/1qx9o40/daily_general_discussion_february_06_2026/)**
-
-Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
-
-13h ago
-
----
-
 **[Best way to Stake ETH?](https://www.reddit.com/r/ethereum/comments/1qxoq3f/best_way_to_stake_eth/)**
 
 As the crypto winter (bearmarket) is coming and i haven't planned to sell my ethereum, I'm willing to stake it, the problem is that i'm not interested in running a node because i'm having less than 32 ETH in my portfolio, what's the best way to do it without headache/maximizing APR? Thanks for advices
@@ -84,11 +76,19 @@ As the crypto winter (bearmarket) is coming and i haven't planned to sell my eth
 
 ---
 
+**[Daily General Discussion February 06, 2026](https://www.reddit.com/r/ethereum/comments/1qx9o40/daily_general_discussion_february_06_2026/)**
+
+Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
+
+14h ago
+
+---
+
 **[Best way to swap native ETH across chains?](https://www.reddit.com/r/ethereum/comments/1qxg728/best_way_to_swap_native_eth_across_chains/)**
 
 Hey everyone, I keep running into the same issue when trying to move ETH between chains. I want to swap real native ETH, not wrapped versions, and I would rather avoid centralized bridges if possible. I am also hoping for something simple and fast, with no accounts and no long setup or verification process. Does anything like this actually exist today, or is it still mostly theoretical? I would appreciate hearing from anyone who has real experience with this. Thanks.
 
-7h ago
+8h ago
 
 ---
 
@@ -96,7 +96,7 @@ Hey everyone, I keep running into the same issue when trying to move ETH between
 
 Vitalik: role of L2s has changed, Hegotá upgrade headliner proposals, Lido v3 live
 
-🔗 [Ethereal news](https://ethereal.news/ethereal-news-weekly-10/) • 6h ago
+🔗 [Ethereal news](https://ethereal.news/ethereal-news-weekly-10/) • 7h ago
 
 ---
 
@@ -104,7 +104,7 @@ Vitalik: role of L2s has changed, Hegotá upgrade headliner proposals, Lido v3 l
 
 It’s sad to say but we are definitely in a bear market. Tom Lee remains very bullish and his narrative makes a lot of sense. Once clarity hits and financial institutions start going wild on the blockchain chain ethereum should benefit from it. How long do you think this downturn will last? If you’re are here Tom please give us hope.
 
-2h ago
+3h ago
 
 ---
 
@@ -112,7 +112,7 @@ It’s sad to say but we are definitely in a bear market. Tom Lee remains very b
 
 [ Removed by Reddit on account of violating the content policy. ]
 
-2h ago
+3h ago
 
 ---
 
@@ -120,7 +120,7 @@ It’s sad to say but we are definitely in a bear market. Tom Lee remains very b
 
 Good morning, could anyone recommend some good reading material to learn more about the Ethereum blockchain and smart contract development/deployment? I'm an IT professional, so even fairly technical material is fine, but I'd like to have a good overview first before moving on to the development side of things.
 
-13h ago
+14h ago
 
 ---
 
@@ -166,11 +166,33 @@ CoinDesk • 1d ago
 
 ---
 
-**[Bit Digital (BTBT) Moving Away from Bitcoin Mining, Focusing on AI, Ethereum](https://finance.yahoo.com/news/bit-digital-btbt-moving-away-160221415.html)**
+**[Bitcoin, XRP, Ethereum Drop. Why Cryptos Are Under Pressure Today.](https://www.barrons.com/articles/bitcoin-xrp-ethereum-cryptos-gold-9051820f?gaa_at=eafs&gaa_n=AWEtsqehBvZmz5lSDbgN9n5_X085tya7OaQ18lnXqt3Lw_7D1pUYRGdW7y_j&gaa_ts=69865464&gaa_sig=iAsZSpDRijoQkLWcReBJAR4I-7YiKjDjf-t1TmuOZ3zxE49NRXTIK0HyKUfPdiXel1VAxsQqc2evFz19o6zR-w%3D%3D)**
 
-Bit Digital Inc (NASDAQ:BTBT) is one of the best stocks under $3 to invest in. On January 29, Bit Digital Inc. (NASDAQ:BTBT) announced it will discontinue its Bitcoin mining operations and focus instead on artificial intelligence (AI) computing and Ethereum infrastructure. The company now believes that Bitcoin mining “became a less efficient use of capital […]
+Barron's • 1d ago
 
-Yahoo Finance • 3h ago
+---
+
+**[XRP Leads Crypto Losses as Ethereum, Dogecoin Prices Crater Alongside Bitcoin](https://finance.yahoo.com/news/xrp-leads-crypto-losses-ethereum-163551506.html)**
+
+XRP crashes 15% as crypto markets plunge into "Extreme Fear" territory, wiping out over $1.4 billion in value for traders.
+
+Yahoo Finance • 1d ago
+
+---
+
+**[Crypto prices on Friday: Bitcoin, Ethereum and more tick upward](https://mashable.com/article/crypto-bitcoin-ethereum-prices-tick-upward-friday-2-6-2026)**
+
+Prices are climbing back up after the biggest crypto crash since 2022.
+
+Mashable • 3h ago
+
+---
+
+**[Coinbase's Crypto-Backed Loans Notch Record Liquidations Amid Bitcoin, Ethereum Plunge](https://finance.yahoo.com/news/coinbases-crypto-backed-loans-notch-191912655.html)**
+
+Coinbase customers faced losses in fresh ways through the exchange’s crypto-backed lending product as Bitcoin and Ethereum tumbled this week.
+
+Yahoo Finance • 1h ago
 
 ---
 
@@ -178,13 +200,7 @@ Yahoo Finance • 3h ago
 
 Key PointsEther’s price has plunged in 2026.
 
-Nasdaq • 22h ago
-
----
-
-**[Bitcoin, XRP, Ethereum Drop. Why Cryptos Are Under Pressure Today.](https://www.barrons.com/articles/bitcoin-xrp-ethereum-cryptos-gold-9051820f?gaa_at=eafs&gaa_n=AWEtsqc3-OX-_t3MnI8TuXJgpQHTWCwooANplgnb3kBP-D5NwcknpsgXVMT0&gaa_ts=698640cf&gaa_sig=aRaXAGZrYpCmxJoilZuTieLeoXm8OGFbfRmBmF7IuF_Zba2kIFtTxUKIMAq2qUieOT2js6B7wHYR63EpTQACWQ%3D%3D)**
-
-Barron's • 1d ago
+Nasdaq • 23h ago
 
 ---
 
@@ -210,20 +226,6 @@ The Motley Fool • 1d ago
 
 ---
 
-**[Ethereum Falls 10% In Bearish Trade](https://www.investing.com/news/cryptocurrency-news/ethereum-falls-10-in-bearish-trade-4488338)**
-
-Investing.com • 1d ago
-
----
-
-**[Ethereum at 3-year low against Bitcoin? – History says THIS comes next…](https://ambcrypto.com/ethereum-at-3-year-low-against-bitcoin-history-says-this-comes-next/)**
-
-Buy the fear or sell the fear? Inside Ethereum trader’s dilemma.
-
-AMBCrypto • 23h ago
-
----
-
 ---
 
 ## YouTube Videos: "ethereum"
@@ -234,7 +236,7 @@ This video provides a professional Elliott Wave and technical analysis of Ethere
 
 📺 More Crypto Online
 
-👁️ 2K • 👍 171 • 💬 5 • ⏱️ 3:53 • 3h ago
+👁️ 2K • 👍 171 • 💬 5 • ⏱️ 3:53 • 4h ago
 
 ---
 
@@ -254,7 +256,7 @@ One of the biggest crypto crashes in history! Here is what happened, why and my 
 
 📺 Thomas Kralow
 
-👁️ 14K • 👍 834 • 💬 59 • ⏱️ 11:51 • 6h ago
+👁️ 14K • 👍 834 • 💬 59 • ⏱️ 11:51 • 7h ago
 
 ---
 
@@ -274,7 +276,7 @@ This video provides a professional Elliott Wave and technical analysis of Ethere
 
 📺 More Crypto Online
 
-👁️ 6K • 👍 315 • 💬 35 • ⏱️ 5:12 • 9h ago
+👁️ 6K • 👍 315 • 💬 35 • ⏱️ 5:12 • 10h ago
 
 ---
 
