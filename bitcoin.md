@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-02-06T20:37:12.748058+00:00'
+updated: '2026-02-06T21:32:26.151592+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- social
 - news
-- cryptocurrency
 - videos
+- social
+- cryptocurrency
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** February 06, 2026 at 20:37 UTC  
+**Last Updated:** February 06, 2026 at 21:32 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -54,17 +54,17 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1399.58B
+**Market Cap:** $1407.11B
 Rank #1
 
-**Circulating Supply:** 19,985,237 BTC
+**Circulating Supply:** 19,985,290 BTC
 95.2% of max
 
 **All-Time High:** $126,080.00
--44.6%
+-44.2%
 
 **All-Time Low:** $67.81
-+102849.4%
++103656.1%
 
 ---
 
@@ -81,13 +81,13 @@ Rank #1
 
 Yes I finally captured it!
 
-2h ago
+3h ago
 
 ---
 
 **[Thats the spirit](https://www.reddit.com/r/Bitcoin/comments/1qxfq4n/thats_the_spirit/)**
 
-8h ago
+9h ago
 
 ---
 
@@ -95,7 +95,7 @@ Yes I finally captured it!
 
 I accumulated 1.18 more and bought a total of 1.60 BTC today. I had been patiently waiting for a pullback in the $66,000–$70,000 range, and the opportunity finally presented itself. If the market corrects further, I’m prepared to add more around the $53,000 level as well. This is a personal, well-considered decision aligned with my financial position. Even in an extreme downside scenario, it would not materially impact me. I’m not recommending this to anyone—cryptocurrency remains highly volatile and risky. This approach is only suitable for those who can tolerate significant risk and are financially comfortable even in the event of a loss. Despite widespread bearish predictions ranging from $16K to $10K, I’m sticking to my own strategy and long-term conviction. Having already achieved returns far exceeding my current investment through futures and forex, I’m comfortable taking this calculated exposure. Staying disciplined, focused, and patient. Good luck to everyone.
 
-7h ago
+8h ago
 
 ---
 
@@ -103,19 +103,19 @@ I accumulated 1.18 more and bought a total of 1.60 BTC today. I had been patient
 
 Thanks. God bless you all
 
-7h ago
+8h ago
 
 ---
 
 **[Don't buy bitcoin](https://www.reddit.com/r/Bitcoin/comments/1qxip3i/dont_buy_bitcoin/)**
 
-6h ago
+7h ago
 
 ---
 
 **[We are so back](https://www.reddit.com/r/Bitcoin/comments/1qxpeyz/we_are_so_back/)**
 
-2h ago
+3h ago
 
 ---
 
@@ -123,7 +123,7 @@ Thanks. God bless you all
 
 I am selling my car. I am selling my house. I am selling my extra kidney. I am selling my wife's jewelry (don't tell her). TO BUY MORE BITCOIN. You guys are actually pathetic. You see a little 30% correction from the $125k top and you start crying for the SEC? You start begging for a refund? This is the Great Filtering. This is where the tourists get sent back to the fiat mines to work for the rest of their lives. Look at the volume. Look at the wallet addresses. BlackRock isn't selling. Larry Fink isn't selling. I AM NOT SELLING. We are flushing out the weak hands so we can soar to $250k in 2027 without you. I hope you sold. I hope you panicked. I’ll be waving at you from the Citadel while you’re stuck using CBDCs to buy bug paste. WE ARE SO BACK. 🚀💎🙌
 
-21h ago
+22h ago
 
 ---
 
@@ -137,7 +137,7 @@ I am selling my car. I am selling my house. I am selling my extra kidney. I am s
 
 another Psyopanime gem.
 
-2h ago
+3h ago
 
 ---
 
@@ -145,7 +145,7 @@ another Psyopanime gem.
 
 So bitcoin is going back up today Friday. Wonder why? Hmmm🤔 It seems that the manipulators are back at it, pumping up btc to get you thinking is on its way back up. Friday’s afternoon they usually start to sell again and Sundays it is usually negative for btc. With the fear index the way it is and the economy, some see btc going to 58,000 even up to the 38,000. Too many retail keep falling for the pump and dump, they don’t buy when is down and once they see the pump they start to buy to find out in a few hours or days they are under and sell at a loss. Buy and hold long term specially when the market is as volatile as it is since end 25 beginning 2026. Stop selling at a loss and stay the course. 👍🏼
 
-4h ago
+5h ago
 
 ---
 
@@ -163,7 +163,7 @@ cnn.com • 1d ago
 
 **[Your bitcoin investment may have been based on an illusion](https://www.marketwatch.com/story/your-bitcoin-investment-may-have-been-based-on-an-illusion-de2e3fad?gaa_at=eafs&gaa_n=AWEtsqeSJw7fqdHpGkZcttihep91I6WoA1qjxNd5S2rAgyzV2iclNqn4AduQ&gaa_ts=69865462&gaa_sig=h3V75XmjWB5XmRfpMQ6PB5WYAQkWRflylhzVY_8xt-yxPkoI1bCNuLiiFFIRGsNvzcLBQU7jk_oIssQj1neApQ%3D%3D)**
 
-MarketWatch • 2h ago
+MarketWatch • 3h ago
 
 ---
 
@@ -171,7 +171,7 @@ MarketWatch • 2h ago
 
 The original cryptocurrency swung down below $60,000 only to jolt back up.
 
-Fortune • 1h ago
+Fortune • 2h ago
 
 ---
 
@@ -179,7 +179,7 @@ Fortune • 1h ago
 
 California man accused of sending fake ransom note to extort bitcoin from Savannah Guthrie's family as her 84-year-old mother Nancy remains missing from Tucson home.
 
-Fox News • 21h ago
+Fox News • 22h ago
 
 ---
 
@@ -187,19 +187,19 @@ Fox News • 21h ago
 
 The man allegedly used an app to create a fake phone number to text the family, according to a federal complaint.
 
-ABC7 Los Angeles • 21h ago
+ABC7 Los Angeles • 22h ago
 
 ---
 
 **[The Kidnappers Of Savannah Guthrie's Mom Want Bitcoin—But It’s Not As Anonymous As Many Think](https://www.forbes.com/sites/martinadilicosa/2026/02/06/the-kidnappers-of-savannah-guthries-mom-want-bitcoin-but-its-not-as-anonymous-as-many-think/)**
 
-Forbes • 14m ago
+Forbes • 1h ago
 
 ---
 
 **[Strategy's Saylor Touts 'Crypto President' As Bitcoin Plunges](https://www.investors.com/news/strategy-earnings-q4-bitcoin-price-mstr-plunge-michael-saylor/)**
 
-Investor's Business Daily • 21h ago
+Investor's Business Daily • 22h ago
 
 ---
 
@@ -207,7 +207,7 @@ Investor's Business Daily • 21h ago
 
 Michael Saylor reinforces commitment to bitcoin and quantum security on Q4 earnings call.
 
-CoinDesk • 10h ago
+CoinDesk • 11h ago
 
 ---
 
@@ -221,7 +221,7 @@ Yahoo Finance • 2h ago
 
 **[JPMorgan says bitcoin's lower volatility relative to gold might make it 'more attractive' in long term](https://www.coindesk.com/markets/2026/02/05/jpmorgan-says-bitcoin-s-lower-volatility-relative-to-gold-might-make-it-more-attractive-in-long-term)**
 
-CoinDesk • 23h ago
+CoinDesk • 1d ago
 
 ---
 
@@ -253,7 +253,7 @@ Some market watchers have suggested $70,000 is a key level to watch and a break 
 
 Bitcoin outlook turns bearish as Pivotus’ Richard Farr targets BTC at $0 and Michael Burry warns of a “death spiral.” Get the risks and key levels now.
 
-⬆️ 52 • 💬 61 • 19h ago • [Seeking Alpha](https://seekingalpha.com/news/4547997-bitcoin-s-price-target-at-zero)
+⬆️ 52 • 💬 61 • 20h ago • [Seeking Alpha](https://seekingalpha.com/news/4547997-bitcoin-s-price-target-at-zero)
 
 ---
 
@@ -313,17 +313,7 @@ Take your personal data back with Incogni! Use code GRAHAM at the link below and
 
 📺 Graham Stephan
 
-👁️ 480K • 👍 17K • 💬 6K • ⏱️ 16:11 • 20h ago
-
----
-
-**[The REAL Reason Bitcoin COLLAPSED? (Not What You Think)](https://www.youtube.com/watch?v=Hpe0oSJ5L3k)**
-
-Bitcoin #Crypto #Finance Bitcoin's sudden collapse may have come from a hidden structural pressure, not panic or on chain ...
-
-📺 The Wolf Of All Streets
-
-👁️ 22K • 👍 1K • 💬 308 • ⏱️ 24:28 • 6h ago
+👁️ 500K • 👍 18K • 💬 7K • ⏱️ 16:11 • 21h ago
 
 ---
 
@@ -333,7 +323,7 @@ In this interview, Bitcoin OG Samson Mow shares his view on why Bitcoin keeps fa
 
 📺 Cointelegraph
 
-👁️ 865 • 👍 63 • 💬 16 • ⏱️ 19:09 • 3h ago
+👁️ 4K • 👍 259 • 💬 80 • ⏱️ 19:09 • 4h ago
 
 ---
 
@@ -343,17 +333,27 @@ One of the biggest crypto crashes in history! Here is what happened, why and my 
 
 📺 Thomas Kralow
 
-👁️ 14K • 👍 834 • 💬 59 • ⏱️ 11:51 • 7h ago
+👁️ 19K • 👍 979 • 💬 66 • ⏱️ 11:51 • 8h ago
 
 ---
 
-**[Bitcoin Just Had a FLASH DUMP](https://www.youtube.com/watch?v=mizRhiz3S3U)**
+**[The REAL Reason Bitcoin COLLAPSED? (Not What You Think)](https://www.youtube.com/watch?v=Hpe0oSJ5L3k)**
 
-Make Free Predictions on *ClashPicks* ▻ https://www.clashpicks.com/ Follow ClashPicks' X ▻ https://x.com/ClashPicks ...
+Bitcoin #Crypto #Finance Bitcoin's sudden collapse may have come from a hidden structural pressure, not panic or on chain ...
 
-📺 CryptosRUs
+📺 The Wolf Of All Streets
 
-👁️ 61K • 👍 2K • 💬 2K • ⏱️ 11:07 • 19h ago
+👁️ 30K • 👍 2K • 💬 337 • ⏱️ 24:28 • 7h ago
+
+---
+
+**[Tether Co-Founder Weighs In on Bitcoin Selloff](https://www.youtube.com/watch?v=EbYaU0Yde5Q)**
+
+Tether co-founder William Quigley weighs in on the recent selloff in cryptocurrencies. Speaking on "Bloomberg The Close," ...
+
+📺 Bloomberg Television
+
+👁️ 79K • 👍 710 • 💬 307 • ⏱️ 5:40 • 23h ago
 
 ---
 
@@ -363,7 +363,7 @@ Bitcoin drops to insane oversold levels, but why? Here's the theory BITUNIX TRAD
 
 📺 Lark Davis
 
-👁️ 21K • 👍 1K • 💬 188 • ⏱️ 21:46 • 8h ago
+👁️ 25K • 👍 1K • 💬 210 • ⏱️ 21:46 • 9h ago
 
 ---
 
@@ -373,37 +373,37 @@ LIMITED TIME: ✓ Bitunix (no kyc, $10k bonus): https://www.bitunix.com/register
 
 📺 Altcoin Daily
 
-👁️ 7K • 👍 287 • 💬 37 • ⏱️ 1:10 • 6h ago
+👁️ 9K • 👍 317 • 💬 86 • ⏱️ 1:10 • 7h ago
 
 ---
 
-**[Nobel Laureate Paul Krugman Calls Bitcoin &#39;Total Bust&#39;](https://www.youtube.com/watch?v=6uGoAaov9lU)**
+**[Bitcoin Just Had a FLASH DUMP](https://www.youtube.com/watch?v=mizRhiz3S3U)**
 
-Bitcoin's dramatic selloff continues as the world's biggest cryptocurrency wipes out all gains it has made since President Donald ...
+Make Free Predictions on *ClashPicks* ▻ https://www.clashpicks.com/ Follow ClashPicks' X ▻ https://x.com/ClashPicks ...
 
-📺 Bloomberg Podcasts
+📺 CryptosRUs
 
-👁️ 46K • 👍 895 • 💬 614 • ⏱️ 9:11 • 20h ago
-
----
-
-**[“A TIDAL WAVE Of Selling” - Bitcoin Drop Fuels Crypto Crash PANIC](https://www.youtube.com/watch?v=empuP22n2hA)**
-
-Crypto “hoarding” strategies are under pressure as Bitcoin dips below key levels, hitting companies like Strategy that stockpile ...
-
-📺 Valuetainment
-
-👁️ 295K • 👍 5K • 💬 31K • ⏱️ 15:37 • 1d ago
+👁️ 62K • 👍 2K • 💬 2K • ⏱️ 11:07 • 20h ago
 
 ---
 
-**[XRP Did WHAT with Bitcoin?!😭 (The Dark Truth)](https://www.youtube.com/watch?v=ZscPGE0LpYc)**
+**[WATCH THIS BEFORE BITCOIN DROPS BELOW $70,000...](https://www.youtube.com/watch?v=M_AG6vLOeyE)**
 
-ツFollow me on My REAL Instagram @TradeshipUniversity and DM "CRYPTO" for Automated Trading!
+Why is bitcoin crashing right now? The total crypto market value fell to about $2.54 trillion, down over 3% in 24 hours, according to ...
 
-📺 Crypto Cam
+📺 Ricky Gutierrez
 
-👁️ 67K • 👍 1K • 💬 68 • ⏱️ 0:27 • 1d ago
+👁️ 44K • 👍 834 • 💬 289 • ⏱️ 12:35 • 1d ago
+
+---
+
+**[Bitcoin: Dubious Speculation](https://www.youtube.com/watch?v=eAzoXY1GfIo)**
+
+Let's dubiously speculate on the price of #Bitcoin! Into The Cryptoverse Premium (Use code ITC50 for 50% off your first month!)
+
+📺 Benjamin Cowen
+
+👁️ 54K • 👍 4K • 💬 308 • ⏱️ 36:47 • 4h ago
 
 ---
 

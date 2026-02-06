@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-02-06T20:37:12.756384+00:00'
+updated: '2026-02-06T21:32:26.160706+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- social
 - news
 - videos
+- social
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** February 06, 2026 at 20:37 UTC  
+**Last Updated:** February 06, 2026 at 21:32 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -36,13 +36,13 @@ Robotics research and industry news
 
 From CyberRobo on 𝕏: https://x.com/CyberRobooo/status/2019598569909743755
 
-10h ago
+11h ago
 
 ---
 
 **[Ball-and-Socket… But for Locomotion, Enchanted Tools](https://www.reddit.com/r/robotics/comments/1qx3nuo/ballandsocket_but_for_locomotion_enchanted_tools/)**
 
-19h ago
+20h ago
 
 ---
 
@@ -50,7 +50,7 @@ From CyberRobo on 𝕏: https://x.com/CyberRobooo/status/2019598569909743755
 
 Hello everyone! Recently I tried to test the SmolVLA model from a paper that HuggingFace published, that uses relatively small VLA model for Imitation Learning on a SO-101 arm. They have a library called LeRobot that has a lot of stuff to handle robots. First I tried to run a pretrained model, which didn't work. Then I tried finetuning the model on a dataset that I collected. I gradually moved from 30 episodes to 120 with a simple task of picking up a cube and putting it in the designated place. The robot still can't solve the task at all and frankly does not improve with the increase in data amount. So my question is the following: have anybody experimented with LeRobot + smolvla + SO-101? What is your experience? Did you manage to run it? Basically, how much more time can I expect to sink into this or should I switch to another model, or from a robot to a simulator first, or something else?
 
-4h ago
+5h ago
 
 ---
 
@@ -58,7 +58,7 @@ Hello everyone! Recently I tried to test the SmolVLA model from a paper that Hug
 
 Cartwheel Robotics shutting down is a reminder of how misaligned capital can be. Great teams struggle for funding while massive checks keep flowing elsewhere. Scott’s advice hits home: “No money is better than the wrong money.” https://preview.redd.it/ov7omrf40vhg1.png?width=716&format=png&auto=webp&s=b0ce7c7ceaa4607cfdc5de89775cfcddf883c3fe
 
-9h ago
+10h ago
 
 ---
 
@@ -74,7 +74,7 @@ Felt so excited to see the robot I've been working on getting this much attentio
 
 ROS News for the Week of February 2nd, 2026            Big news, ROSCon Croatia is go! The event is scheduled for late March. Reach out to @destogl for more information. Our friends at InOrbit have an event tonight in Mountain view and our SG ROS Meetup will happen on the 10th. Towards the end of the month we have a very special joint PX4 / ROS By-The-Bay Meetup sheduled.             URDF Kitchen is a GUI-based tool that allows you to load mesh files for robot parts, mark connection points, and ...
 
-🔗 [Open Robotics Discourse](https://discourse.openrobotics.org/t/ros-news-for-the-week-of-february-2nd-2026/52379) • 43m ago
+🔗 [Open Robotics Discourse](https://discourse.openrobotics.org/t/ros-news-for-the-week-of-february-2nd-2026/52379) • 1h ago
 
 ---
 
@@ -96,7 +96,7 @@ From RoboHub🤖 on 𝕏: https://x.com/XRoboHub/status/2019135928384778288
 
 **[Alve-x robot arm](https://www.reddit.com/r/robotics/comments/1qx3two/alvex_robot_arm/)**
 
-19h ago
+20h ago
 
 ---
 
@@ -104,7 +104,7 @@ From RoboHub🤖 on 𝕏: https://x.com/XRoboHub/status/2019135928384778288
 
 Hello guys I bought this jetson orin super developer kit. Using it for a fully automated robot I am building. Right now I am ordering the parts and want to use a Lidar L-1 and 2 cameras Oak-D pro from luxonis. However I am running into an issue the Lidar requires 12 volt so I cant power that through the jetson the cameras are fine to plug in the usb ports. But reading the manual the usb ports are only rated for up to 0.9 A while the cameras can take up to 2A under heavy load. Luxonis provides a usb splitter where one can be for power and one for data. Now my issue is finding a good reliable and affordable PDB or any other solution that can split the power coming from my battery into the lidar jetson and the 2 cameras.
 
-12h ago
+13h ago
 
 ---
 
@@ -160,7 +160,7 @@ Politico • 1d ago
 
 Firms are working to make the motors that drive robots more efficient and cheaper.
 
-BBC • 20h ago
+BBC • 21h ago
 
 ---
 
@@ -196,27 +196,7 @@ Humanoid robots just entered a new phase of realism. In Shanghai, DroidUp reveal
 
 📺 AI Revolution
 
-👁️ 135K • 👍 3K • 💬 632 • ⏱️ 13:31 • 1d ago
-
----
-
-**[XPeng IRON Robot Falls Then Stands Back Up Live on Stage](https://www.youtube.com/watch?v=kMfcGfRO0R8)**
-
-XPeng just showed the world what real humanoid robot progress looks like. During a live public event, the IRON robot stumbled, ...
-
-📺 DPCcars
-
-👁️ 35K • 👍 148 • 💬 49 • ⏱️ 2:06 • 5d ago
-
----
-
-**[China’s New Shape Shifting AI Robot Walks on Water, Flies and Swims](https://www.youtube.com/watch?v=nLKj1gvJzWI)**
-
-Humanoid robotics just took a massive leap into the real world. Researchers in China revealed GrowHR, a soft shape shifting ...
-
-📺 AI Revolution
-
-👁️ 139K • 👍 1K • 💬 283 • ⏱️ 14:25 • 6d ago
+👁️ 140K • 👍 3K • 💬 649 • ⏱️ 13:31 • 1d ago
 
 ---
 
@@ -226,17 +206,27 @@ XPENG just took a massive step forward in humanoid robotics. The New IRON robot 
 
 📺 DPCcars
 
-👁️ 21K • 👍 189 • 💬 38 • ⏱️ 1:21 • 6d ago
+👁️ 21K • 👍 189 • 💬 39 • ⏱️ 1:21 • 6d ago
 
 ---
 
-**[These Are The &#39;Worst&#39; Titan Weapons In War Robots...? Tonans Ao Ming Is Ridiculous | 1 Shot](https://www.youtube.com/watch?v=7ZoQSvY4VuM)**
+**[China’s New Shape Shifting AI Robot Walks on Water, Flies and Swims](https://www.youtube.com/watch?v=nLKj1gvJzWI)**
 
-Ue Ao Ming tonans 1 shotting titans. I was told that tonans are terrible and the worst titan weapons in the game. So I want to push ...
+Humanoid robotics just took a massive leap into the real world. Researchers in China revealed GrowHR, a soft shape shifting ...
 
-📺 PREDATOR WR
+📺 AI Revolution
 
-👁️ 5K • 👍 278 • 💬 33 • ⏱️ 16:16 • 7h ago
+👁️ 140K • 👍 1K • 💬 283 • ⏱️ 14:25 • 6d ago
+
+---
+
+**[XPeng IRON Robot Falls Then Stands Back Up Live on Stage](https://www.youtube.com/watch?v=kMfcGfRO0R8)**
+
+XPeng just showed the world what real humanoid robot progress looks like. During a live public event, the IRON robot stumbled, ...
+
+📺 DPCcars
+
+👁️ 35K • 👍 148 • 💬 50 • ⏱️ 2:06 • 5d ago
 
 ---
 
@@ -246,17 +236,7 @@ AI in a kids toy does what experts warned. Can we trust AI? Get Inside AI's excl
 
 📺 InsideAI
 
-👁️ 749K • 👍 32K • 💬 5K • ⏱️ 15:47 • 6d ago
-
----
-
-**[A Robotic Mouth That Speaks Like a Human 😳](https://www.youtube.com/watch?v=x6M2gCzUTJM)**
-
-This robotic mouth is designed to replicate how real human lips move while speaking. Using actuators and soft materials, it copies ...
-
-📺 Facts TV 91
-
-👁️ 74K • 👍 499 • 💬 32 • ⏱️ 0:06 • 2d ago
+👁️ 753K • 👍 32K • 💬 5K • ⏱️ 15:47 • 6d ago
 
 ---
 
@@ -266,7 +246,17 @@ Credits: IShowSpeed Live ishowspeed started beefing with an ai robot on stream a
 
 📺 WClipMedia
 
-👁️ 620K • 👍 4K • 💬 24 • ⏱️ 0:26 • 3d ago
+👁️ 621K • 👍 4K • 💬 24 • ⏱️ 0:26 • 3d ago
+
+---
+
+**[A Robotic Mouth That Speaks Like a Human 😳](https://www.youtube.com/watch?v=x6M2gCzUTJM)**
+
+This robotic mouth is designed to replicate how real human lips move while speaking. Using actuators and soft materials, it copies ...
+
+📺 Facts TV 91
+
+👁️ 75K • 👍 496 • 💬 33 • ⏱️ 0:06 • 2d ago
 
 ---
 
@@ -278,11 +268,23 @@ Credits: IShowSpeed Live ishowspeed started beefing with an ai robot on stream a
 
 ---
 
-**[Tesla Robot handles upside down popcorn. It’s crazy how much these will change everything.](https://www.youtube.com/watch?v=PlEGwoJmon8)**
+**[These Are The &#39;Worst&#39; Titan Weapons In War Robots...? Tonans Ao Ming Is Ridiculous | 1 Shot](https://www.youtube.com/watch?v=7ZoQSvY4VuM)**
 
-📺 Tesla Owners Silicon Valley
+Ue Ao Ming tonans 1 shotting titans. I was told that tonans are terrible and the worst titan weapons in the game. So I want to push ...
 
-👁️ 18K • 👍 700 • 💬 29 • ⏱️ 0:40 • 23h ago
+📺 PREDATOR WR
+
+👁️ 6K • 👍 321 • 💬 47 • ⏱️ 16:16 • 8h ago
+
+---
+
+**[He probado los robots más avanzados de China: ya toman decisiones 🤖🧠](https://www.youtube.com/watch?v=wgeP1l1CNvE)**
+
+Crea tu Web con la IA aquí: https://hostinger.com/inteligencia (Usa el cupón INTELIGENCIA para un 10% descuento) Descuento ...
+
+📺 Inteligencia Artificial
+
+👁️ 42K • 👍 2K • 💬 97 • ⏱️ 13:44 • 1d ago
 
 ---
 

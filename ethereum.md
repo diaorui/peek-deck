@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-02-06T20:37:12.753476+00:00'
+updated: '2026-02-06T21:32:26.157521+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- social
 - news
-- cryptocurrency
 - videos
+- social
+- cryptocurrency
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** February 06, 2026 at 20:37 UTC  
+**Last Updated:** February 06, 2026 at 21:32 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -52,17 +52,17 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Market Stats
 
-**Market Cap:** $247.21B
+**Market Cap:** $248.22B
 Rank #2
 
 **Circulating Supply:** 120,692,919 ETH
 No max supply
 
 **All-Time High:** $4,946.05
--58.7%
+-58.4%
 
 **All-Time Low:** $0.43
-+471539.5%
++474802.9%
 
 ---
 
@@ -72,7 +72,7 @@ No max supply
 
 As the crypto winter (bearmarket) is coming and i haven't planned to sell my ethereum, I'm willing to stake it, the problem is that i'm not interested in running a node because i'm having less than 32 ETH in my portfolio, what's the best way to do it without headache/maximizing APR? Thanks for advices
 
-2h ago
+3h ago
 
 ---
 
@@ -80,7 +80,7 @@ As the crypto winter (bearmarket) is coming and i haven't planned to sell my eth
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-14h ago
+15h ago
 
 ---
 
@@ -88,7 +88,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 Hey everyone, I keep running into the same issue when trying to move ETH between chains. I want to swap real native ETH, not wrapped versions, and I would rather avoid centralized bridges if possible. I am also hoping for something simple and fast, with no accounts and no long setup or verification process. Does anything like this actually exist today, or is it still mostly theoretical? I would appreciate hearing from anyone who has real experience with this. Thanks.
 
-8h ago
+9h ago
 
 ---
 
@@ -96,7 +96,7 @@ Hey everyone, I keep running into the same issue when trying to move ETH between
 
 Vitalik: role of L2s has changed, Hegotá upgrade headliner proposals, Lido v3 live
 
-🔗 [Ethereal news](https://ethereal.news/ethereal-news-weekly-10/) • 7h ago
+🔗 [Ethereal news](https://ethereal.news/ethereal-news-weekly-10/) • 8h ago
 
 ---
 
@@ -104,7 +104,7 @@ Vitalik: role of L2s has changed, Hegotá upgrade headliner proposals, Lido v3 l
 
 It’s sad to say but we are definitely in a bear market. Tom Lee remains very bullish and his narrative makes a lot of sense. Once clarity hits and financial institutions start going wild on the blockchain chain ethereum should benefit from it. How long do you think this downturn will last? If you’re are here Tom please give us hope.
 
-3h ago
+4h ago
 
 ---
 
@@ -112,7 +112,7 @@ It’s sad to say but we are definitely in a bear market. Tom Lee remains very b
 
 [ Removed by Reddit on account of violating the content policy. ]
 
-3h ago
+4h ago
 
 ---
 
@@ -120,7 +120,7 @@ It’s sad to say but we are definitely in a bear market. Tom Lee remains very b
 
 Good morning, could anyone recommend some good reading material to learn more about the Ethereum blockchain and smart contract development/deployment? I'm an IT professional, so even fairly technical material is fine, but I'd like to have a good overview first before moving on to the development side of things.
 
-14h ago
+15h ago
 
 ---
 
@@ -136,7 +136,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 https://etherscan.io/tx/0xaab90d00abf065e4158852a64c809b8921d109e997bd3790cb471aadfa57f4e0 I've been waiting for this transaction for almost an hour (trying to transfer from Newton to TrustWallet). There seem to be hundreds of transactions from the same address that I don't recognize. Have I been hacked? Update: It's fixed now, just had to wait a couple hours.
 
-22h ago
+23h ago
 
 ---
 
@@ -168,7 +168,7 @@ CoinDesk • 1d ago
 
 **[Bitcoin, XRP, Ethereum Drop. Why Cryptos Are Under Pressure Today.](https://www.barrons.com/articles/bitcoin-xrp-ethereum-cryptos-gold-9051820f?gaa_at=eafs&gaa_n=AWEtsqehBvZmz5lSDbgN9n5_X085tya7OaQ18lnXqt3Lw_7D1pUYRGdW7y_j&gaa_ts=69865464&gaa_sig=iAsZSpDRijoQkLWcReBJAR4I-7YiKjDjf-t1TmuOZ3zxE49NRXTIK0HyKUfPdiXel1VAxsQqc2evFz19o6zR-w%3D%3D)**
 
-Barron's • 1d ago
+Barron's • 2d ago
 
 ---
 
@@ -184,7 +184,7 @@ Yahoo Finance • 1d ago
 
 Prices are climbing back up after the biggest crypto crash since 2022.
 
-Mashable • 3h ago
+Mashable • 4h ago
 
 ---
 
@@ -192,7 +192,7 @@ Mashable • 3h ago
 
 Coinbase customers faced losses in fresh ways through the exchange’s crypto-backed lending product as Bitcoin and Ethereum tumbled this week.
 
-Yahoo Finance • 1h ago
+Yahoo Finance • 2h ago
 
 ---
 
@@ -200,7 +200,7 @@ Yahoo Finance • 1h ago
 
 Key PointsEther’s price has plunged in 2026.
 
-Nasdaq • 23h ago
+Nasdaq • 1d ago
 
 ---
 
@@ -230,13 +230,13 @@ The Motley Fool • 1d ago
 
 ## YouTube Videos: "ethereum"
 
-**[Ethereum Elliott Wave Update – Key Resistance Levels Ahead](https://www.youtube.com/watch?v=WG3tu1yVPi8)**
+**[🚨 BTC &amp; ETH: THIS IS IT!!!! ITS TIME!!!!!](https://www.youtube.com/watch?v=8QI8ukpRpEI)**
 
-This video provides a professional Elliott Wave and technical analysis of Ethereum (ETH), focusing on market structure, major ...
+One of the biggest crypto crashes in history! Here is what happened, why and my plan going further. ---------- LIVE VIRTUAL ...
 
-📺 More Crypto Online
+📺 Thomas Kralow
 
-👁️ 2K • 👍 171 • 💬 5 • ⏱️ 3:53 • 4h ago
+👁️ 19K • 👍 979 • 💬 66 • ⏱️ 11:51 • 8h ago
 
 ---
 
@@ -246,17 +246,7 @@ Uhh... so... is anyone else getting that strange feeling that something big is a
 
 📺 Money Rules - Investing Tips 
 
-👁️ 5K • 👍 976 • 💬 405 • ⏱️ 13:13 • 5h ago
-
----
-
-**[🚨 BTC &amp; ETH: THIS IS IT!!!! ITS TIME!!!!!](https://www.youtube.com/watch?v=8QI8ukpRpEI)**
-
-One of the biggest crypto crashes in history! Here is what happened, why and my plan going further. ---------- LIVE VIRTUAL ...
-
-📺 Thomas Kralow
-
-👁️ 14K • 👍 834 • 💬 59 • ⏱️ 11:51 • 7h ago
+👁️ 8K • 👍 1K • 💬 320 • ⏱️ 13:13 • 6h ago
 
 ---
 
@@ -266,17 +256,27 @@ My FREE Daily 5-Min Crypto Newsletter: https://www.cryptonutshell.com/subscribe 
 
 📺 Crypto Nutshell
 
-👁️ 14K • 👍 398 • 💬 152 • ⏱️ 22:22 • 1d ago
+👁️ 15K • 👍 403 • 💬 152 • ⏱️ 22:22 • 1d ago
 
 ---
 
-**[Ethereum Elliott Wave Update – Key Resistance Levels Ahead](https://www.youtube.com/watch?v=fw9qZynPdvo)**
+**[Ethereum Elliott Wave Update – Key Resistance Levels Ahead](https://www.youtube.com/watch?v=WG3tu1yVPi8)**
 
 This video provides a professional Elliott Wave and technical analysis of Ethereum (ETH), focusing on market structure, major ...
 
 📺 More Crypto Online
 
-👁️ 6K • 👍 315 • 💬 35 • ⏱️ 5:12 • 10h ago
+👁️ 3K • 👍 198 • 💬 6 • ⏱️ 3:53 • 5h ago
+
+---
+
+**[The Ethereum Bottom ISN&#39;T In Yet.](https://www.youtube.com/watch?v=zFcWMpTYIQA)**
+
+Get $450 Off Our New AI Indicators: https://tradeconfidentportal.io/indic... Join Trade Confident: Get 25% Off Your 1st Month: ...
+
+📺 Trade Confident
+
+👁️ 156 • 👍 13 • 💬 22 • ⏱️ 5:06 • 1h ago
 
 ---
 
@@ -286,7 +286,17 @@ Join Premium: https://the-bitcoin-strategy.com My Chart Software: https://the-bi
 
 📺 Gerhard - Bitcoin Strategy
 
-👁️ 9K • 👍 215 • 💬 70 • ⏱️ 9:49 • 1d ago
+👁️ 9K • 👍 217 • 💬 47 • ⏱️ 9:49 • 1d ago
+
+---
+
+**[Ethereum Elliott Wave Update – Key Resistance Levels Ahead](https://www.youtube.com/watch?v=fw9qZynPdvo)**
+
+This video provides a professional Elliott Wave and technical analysis of Ethereum (ETH), focusing on market structure, major ...
+
+📺 More Crypto Online
+
+👁️ 6K • 👍 316 • 💬 32 • ⏱️ 5:12 • 11h ago
 
 ---
 
@@ -296,7 +306,17 @@ Take Control of Your Retirement — Grow Crypto & Gold Tax-Advantaged. https://w
 
 📺 Savvy Finance
 
-👁️ 7K • 👍 325 • 💬 10 • ⏱️ 20:57 • 20h ago
+👁️ 7K • 👍 330 • 💬 10 • ⏱️ 20:57 • 21h ago
+
+---
+
+**[RIPPLE XRPL Announcement Could Change EVERYTHING! ETHEREUM Was Just SAVED by Vitalik!](https://www.youtube.com/watch?v=qLH8ey3vYkM)**
+
+RIPPLE XRPL ANNOUNCEMENT COULD CHANGE EVERYTHING. ETHEREUM WAS JUST SAVED BY VITALIK! Ripples XRPL ...
+
+📺 CryptoWendyO
+
+👁️ 20K • 👍 1K • 💬 107 • ⏱️ 4:18 • 1d ago
 
 ---
 
@@ -306,27 +326,7 @@ ETHEREUM ETH PRICE PREDICTION 2026 Join the Premium Signal Group for trade setup
 
 📺 Cilinix Crypto
 
-👁️ 331 • 👍 13 • 💬 10 • ⏱️ 4:44 • 10h ago
-
----
-
-**[Ethereum Elliott Wave Update – Key Resistance Levels Ahead](https://www.youtube.com/watch?v=7ofMQM7sO_Q)**
-
-This video provides a professional Elliott Wave and technical analysis of Ethereum (ETH), focusing on market structure, major ...
-
-📺 More Crypto Online
-
-👁️ 4K • 👍 204 • 💬 30 • ⏱️ 6:13 • 20h ago
-
----
-
-**[Ethereum After Major Pullbacks: Navigating ETH’s Recovery | BMNR Update](https://www.youtube.com/watch?v=AiYCaUPIK0o)**
-
-Ethereum has experienced multiple major pullbacks throughout its history and every recovery followed a recognizable pattern.
-
-📺 The Value Thinker
-
-👁️ 17K • 👍 1K • 💬 211 • ⏱️ 22:38 • 2d ago
+👁️ 370 • 👍 13 • 💬 42 • ⏱️ 4:44 • 11h ago
 
 ---
 
