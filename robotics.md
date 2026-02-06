@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-02-06T16:05:37.069333+00:00'
+updated: '2026-02-06T17:12:52.403257+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- social
 - news
 - videos
+- social
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** February 06, 2026 at 16:05 UTC  
+**Last Updated:** February 06, 2026 at 17:12 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -36,13 +36,13 @@ Robotics research and industry news
 
 From CyberRobo on 𝕏: https://x.com/CyberRobooo/status/2019598569909743755
 
-6h ago
+7h ago
 
 ---
 
 **[Ball-and-Socket… But for Locomotion, Enchanted Tools](https://www.reddit.com/r/robotics/comments/1qx3nuo/ballandsocket_but_for_locomotion_enchanted_tools/)**
 
-14h ago
+16h ago
 
 ---
 
@@ -66,7 +66,7 @@ From RoboHub🤖 on 𝕏: https://x.com/XRoboHub/status/2019135928384778288
 
 A new 2026 market report highlights a massive shift toward mass production, led by giants like Tesla (aiming for 1 million Optimus units), Boston Dynamics, and Figure AI. From logistics and healthcare to customer-facing retail, general-purpose humanoids are becoming an operational reality.
 
-🔗 [GlobeNewswire News Room](https://www.globenewswire.com/news-release/2026/02/04/3232234/0/en/Humanoid-Robotics-Market-in-2026-Transformative-Trends-and-Technological-Advancements.html) • 5h ago
+🔗 [GlobeNewswire News Room](https://www.globenewswire.com/news-release/2026/02/04/3232234/0/en/Humanoid-Robotics-Market-in-2026-Transformative-Trends-and-Technological-Advancements.html) • 6h ago
 
 ---
 
@@ -74,7 +74,7 @@ A new 2026 market report highlights a massive shift toward mass production, led 
 
 Cartwheel Robotics shutting down is a reminder of how misaligned capital can be. Great teams struggle for funding while massive checks keep flowing elsewhere. Scott’s advice hits home: “No money is better than the wrong money.” https://preview.redd.it/ov7omrf40vhg1.png?width=716&format=png&auto=webp&s=b0ce7c7ceaa4607cfdc5de89775cfcddf883c3fe
 
-4h ago
+5h ago
 
 ---
 
@@ -82,13 +82,13 @@ Cartwheel Robotics shutting down is a reminder of how misaligned capital can be.
 
 Hello guys I bought this jetson orin super developer kit. Using it for a fully automated robot I am building. Right now I am ordering the parts and want to use a Lidar L-1 and 2 cameras Oak-D pro from luxonis. However I am running into an issue the Lidar requires 12 volt so I cant power that through the jetson the cameras are fine to plug in the usb ports. But reading the manual the usb ports are only rated for up to 0.9 A while the cameras can take up to 2A under heavy load. Luxonis provides a usb splitter where one can be for power and one for data. Now my issue is finding a good reliable and affordable PDB or any other solution that can split the power coming from my battery into the lidar jetson and the 2 cameras.
 
-8h ago
+9h ago
 
 ---
 
 **[Alve-x robot arm](https://www.reddit.com/r/robotics/comments/1qx3two/alvex_robot_arm/)**
 
-14h ago
+15h ago
 
 ---
 
@@ -96,7 +96,7 @@ Hello guys I bought this jetson orin super developer kit. Using it for a fully a
 
 Standard servos are dumb (no feedback). Smart servos are expensive and require complex wiring. ​I wanted a middle ground, so I upgraded the standard MG996R. ​ I integrated a 14-bit magnetic encoder inside the case. The killer feature? It communicates everything through the original 3-wire servo cable. No extra wires, no custom connectors. It is a true drop-in replacement. ​ ​Resolution: 14-bit (~0.02° precision). ​Feedback: 360° Absolute Position. ​Interface: Bidirectional data over the single Signal wire. ​Form Factor: Identical to stock MG996R. ​I need a sanity check from the community: ​Is the "no extra wires" feature a major selling point for you? ​What would be a fair price for this "Smart MG996R" to make it worth buying over a Dynamixel?
 
-6h ago
+8h ago
 
 ---
 
@@ -104,7 +104,7 @@ Standard servos are dumb (no feedback). Smart servos are expensive and require c
 
 Took a long break, but I’m back working on my Metalhead dog robot. Here’s a short video. Still reprinting some parts, but progress is finally happening again. Video is reversed for visual effect — this is actually a teardown. Any thoughts or suggestions are welcome.
 
-🔗 [youtube.com](https://youtube.com/shorts/l7a4Yfauo5Q?si=ivTumi5yYCQA7SB2) • 13h ago
+🔗 [youtube.com](https://youtube.com/shorts/l7a4Yfauo5Q?si=ivTumi5yYCQA7SB2) • 14h ago
 
 ---
 
@@ -112,17 +112,17 @@ Took a long break, but I’m back working on my Metalhead dog robot. Here’s a 
 
 ## Google News: "robotics"
 
-**[Robotics Will Break AI infrastructure: Here’s What Comes Next](https://www.nextplatform.com/2026/02/03/robotics-will-break-ai-infrastructure-heres-what-comes-next/)**
-
-SPONSORED CONTENT  Physical AI and robotics are moving from the lab to the real world – and the cost of getting it wrong is no longer theoretical. With
-
-The Next Platform • 3d ago
-
----
-
 **[China is running the EV playbook on humanoid robots — and it’s working](https://restofworld.org/2026/china-humanoid-robots-unitree-agibot-tesla-optimus/)**
 
 Rest of World • 1d ago
+
+---
+
+**[Watch: Humanoid robots work together using the same AI 'brain'](https://www.euronews.com/next/2026/02/05/watch-humanoid-robots-work-together-using-the-same-ai-brain)**
+
+Until now, humanoid robots have largely worked on their own. A new AI system is designed to run them together.
+
+Euronews.com • 1d ago
 
 ---
 
@@ -146,7 +146,7 @@ The Robot Report • 2d ago
 
 The bills seek to establish a National Commission on Robotics and restrict humanoid imports for U.S. security and competitiveness.
 
-The Robot Report • 2h ago
+The Robot Report • 3h ago
 
 ---
 
@@ -158,11 +158,19 @@ Supply Chain Dive • 1d ago
 
 ---
 
+**[Robotics Will Break AI infrastructure: Here’s What Comes Next](https://www.nextplatform.com/2026/02/03/robotics-will-break-ai-infrastructure-heres-what-comes-next/)**
+
+SPONSORED CONTENT  Physical AI and robotics are moving from the lab to the real world – and the cost of getting it wrong is no longer theoretical. With
+
+The Next Platform • 3d ago
+
+---
+
 **[Making robots useful and affordable will need better motors](https://www.bbc.com/news/articles/c5y46356zzyo)**
 
 Firms are working to make the motors that drive robots more efficient and cheaper.
 
-BBC • 16h ago
+BBC • 17h ago
 
 ---
 
@@ -178,14 +186,6 @@ Forbes • 2d ago
 
 ---
 
-**[Apple Teaching Swift and Robotics Across Its India Supply Chain](https://www.macrumors.com/2026/02/04/apple-teaching-swift-and-robotics-in-india/)**
-
-Apple today announced a new Education Hub in Bengaluru as part of an expanded effort to provide technical training and skills development for employees across its supply chain in India. Apple said the new Apple Education Hub in Bengaluru will serve as a centralized training and coordination facility for supplier employees in India, marking the company's first education hub of its kind in the country.
-
-MacRumors • 2d ago
-
----
-
 ---
 
 ## YouTube Videos: "robotics"
@@ -196,33 +196,7 @@ Humanoid robots just entered a new phase of realism. In Shanghai, DroidUp reveal
 
 📺 AI Revolution
 
-👁️ 126K • 👍 3K • 💬 602 • ⏱️ 13:31 • 1d ago
-
----
-
-**[Most Lifelike Robot Yet? #robots #robotics #humanoidrobot #airobot #technology](https://www.youtube.com/watch?v=A22D5SBL8ig)**
-
-Did China just develop the world's most realistic android yet? The Shanghai-based startup DroidUp just introduced its first ...
-
-📺 Kalil 4.0
-
-👁️ 38K • 👍 641 • 💬 106 • ⏱️ 0:48 • 5d ago
-
----
-
-**[Drag-and-drop welding robot.#industrial #welding #robot #spraying #stamping](https://www.youtube.com/watch?v=-8-Ed2ZxIBk)**
-
-📺 Borunte Robot Lin 
-
-👁️ 1K • 👍 6 • ⏱️ 0:22 • 1d ago
-
----
-
-**[Drag-and-drop welding robot.#industrial #welding #robot #spraying #stamping](https://www.youtube.com/watch?v=ckAI3kE__Cs)**
-
-📺 Borunte Robot Lin 
-
-👁️ 1K • 👍 9 • ⏱️ 0:21 • 10h ago
+👁️ 130K • 👍 3K • 💬 621 • ⏱️ 13:31 • 1d ago
 
 ---
 
@@ -236,53 +210,79 @@ Humanoid robotics just took a massive leap into the real world. Researchers in C
 
 ---
 
+**[These Are The &#39;Worst&#39; Titan Weapons In War Robots...? Tonans Ao Ming Is Ridiculous | 1 Shot](https://www.youtube.com/watch?v=7ZoQSvY4VuM)**
+
+Ue Ao Ming tonans 1 shotting titans. I was told that tonans are terrible and the worst titan weapons in the game. So I want to push ...
+
+📺 PREDATOR WR
+
+👁️ 3K • 👍 228 • 💬 40 • ⏱️ 16:16 • 4h ago
+
+---
+
+**[XPENG IRON Humanoid Robot Stuns Public With First Real World Appearance](https://www.youtube.com/watch?v=StiJLVlXY4o)**
+
+XPENG just took a massive step forward in humanoid robotics. The New IRON robot has officially made its first public appearance, ...
+
+📺 DPCcars
+
+👁️ 21K • 👍 188 • 💬 38 • ⏱️ 1:21 • 5d ago
+
+---
+
 **[ChatGPT in a kids robot does exactly what experts warned.](https://www.youtube.com/watch?v=LF4o4Z01Q0I)**
 
 AI in a kids toy does what experts warned. Can we trust AI? Get Inside AI's exclusive Nord VPN deal here: ...
 
 📺 InsideAI
 
-👁️ 740K • 👍 32K • 💬 5K • ⏱️ 15:47 • 5d ago
+👁️ 744K • 👍 32K • 💬 5K • ⏱️ 15:47 • 5d ago
 
 ---
 
-**[70 lakh rupees Robotic hand 💪 | #hand #robotics #technology #america #shorts](https://www.youtube.com/watch?v=_-aTZdf_u5U)**
+**[A Robotic Mouth That Speaks Like a Human 😳](https://www.youtube.com/watch?v=x6M2gCzUTJM)**
 
-70 lakh rupees Robotic hand | #hand #robotics #technology #america #shorts.
+This robotic mouth is designed to replicate how real human lips move while speaking. Using actuators and soft materials, it copies ...
 
-📺 Brain with Gyan
+📺 Facts TV 91
 
-👁️ 31K • 👍 180 • 💬 1 • ⏱️ 0:24 • 2d ago
-
----
-
-**[100 RPM Motorized Lever and MCL | 45434A Atomic | Robot Rundown](https://www.youtube.com/watch?v=Trr_rTE7YSs)**
-
-100 RPM Motorized Lever and MCL | 45434A Atomic | Robot Rundown This video is presented in partnership with the Robotics ...
-
-📺 FUN Robotics Network
-
-👁️ 3K • 👍 82 • 💬 7 • ⏱️ 1:31 • 15h ago
+👁️ 74K • 👍 497 • 💬 29 • ⏱️ 0:06 • 2d ago
 
 ---
 
-**[30 million won humanoid robot for sale at Seoul’s supermarket](https://www.youtube.com/watch?v=qHpFZ3f2a_E)**
+**[Tesla Robot handles upside down popcorn. It’s crazy how much these will change everything.](https://www.youtube.com/watch?v=PlEGwoJmon8)**
 
-You can watch this video at https://koreanow.com Copyright(C) Unauthorized use, distribution, and employment of AI-based tools ...
+📺 Tesla Owners Silicon Valley
 
-📺 KOREA NOW
-
-👁️ 5K • 👍 103 • 💬 26 • ⏱️ 1:54 • 3d ago
+👁️ 16K • 👍 663 • 💬 28 • ⏱️ 0:40 • 20h ago
 
 ---
 
-**[These Weapons Are Insufferable In TDM (War Robots)](https://www.youtube.com/watch?v=17cGGKNV_-E)**
+**[Drag-and-drop welding robot.#industrial #welding #robot #spraying #stamping](https://www.youtube.com/watch?v=lsVNGP4LfPA)**
 
-In this video I ranted about the Boom Bash and Pow weapons in TDM. https://wr.my.games/Wolfblood7.
+📺 Lin of Brant robot 
 
-📺 Wolfblood7
+👁️ 30K • 👍 93 • 💬 1 • ⏱️ 0:22 • 4d ago
 
-👁️ 5K • 👍 425 • 💬 242 • ⏱️ 7:09 • 1d ago
+---
+
+**[IShowSpeed Started Beefing with an AI Robot on Stream 😂](https://www.youtube.com/watch?v=8ga7WPMN6GE)**
+
+Credits: IShowSpeed Live ishowspeed started beefing with an ai robot on stream after the robot responded back with ...
+
+📺 WClipMedia
+
+👁️ 619K • 👍 4K • 💬 24 • ⏱️ 0:26 • 2d ago
+
+---
+
+**[He probado los robots más avanzados de China: ya toman decisiones 🤖🧠](https://www.youtube.com/watch?v=wgeP1l1CNvE)**
+
+Crea tu Web con la IA aquí: https://hostinger.com/inteligencia (Usa el cupón INTELIGENCIA para un 10% descuento) Descuento ...
+
+📺 Inteligencia Artificial
+
+👁️ 38K • 👍 2K • 💬 89 • ⏱️ 13:44 • 22h ago
 
 ---
 
