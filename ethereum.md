@@ -3,14 +3,14 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-02-06T11:35:12.379721+00:00'
+updated: '2026-02-06T13:02:41.778589+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- cryptocurrency
 - videos
 - social
+- cryptocurrency
 - news
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** February 06, 2026 at 11:35 UTC  
+**Last Updated:** February 06, 2026 at 13:02 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -43,26 +43,26 @@ Live Ethereum monitoring dashboard
 ## Ethereum Chart
 
 **24h:** -6.3%  
-**7d:** -21.2%  
-**30d:** -37.9%  
-**90d:** -46.1%  
-**1y:** -26.3%  
+**7d:** -21.8%  
+**30d:** -38.3%  
+**90d:** -46.5%  
+**1y:** -26.8%  
 
 ---
 
 ## Ethereum Market Stats
 
-**Market Cap:** $230.10B
+**Market Cap:** $231.76B
 Rank #2
 
 **Circulating Supply:** 120,692,919 ETH
 No max supply
 
 **All-Time High:** $4,946.05
--61.5%
+-61.2%
 
 **All-Time Low:** $0.43
-+440048.4%
++443397.3%
 
 ---
 
@@ -72,7 +72,15 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-5h ago
+7h ago
+
+---
+
+**[Best way to swap native ETH across chains?](https://www.reddit.com/r/ethereum/comments/1qxg728/best_way_to_swap_native_eth_across_chains/)**
+
+Hey everyone, I keep running into the same issue when trying to move ETH between chains. I want to swap real native ETH, not wrapped versions, and I would rather avoid centralized bridges if possible. I am also hoping for something simple and fast, with no accounts and no long setup or verification process. Does anything like this actually exist today, or is it still mostly theoretical? I would appreciate hearing from anyone who has real experience with this. Thanks.
+
+38m ago
 
 ---
 
@@ -80,7 +88,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 Good morning, could anyone recommend some good reading material to learn more about the Ethereum blockchain and smart contract development/deployment? I'm an IT professional, so even fairly technical material is fine, but I'd like to have a good overview first before moving on to the development side of things.
 
-5h ago
+6h ago
 
 ---
 
@@ -96,7 +104,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 https://etherscan.io/tx/0xaab90d00abf065e4158852a64c809b8921d109e997bd3790cb471aadfa57f4e0 I've been waiting for this transaction for almost an hour (trying to transfer from Newton to TrustWallet). There seem to be hundreds of transactions from the same address that I don't recognize. Have I been hacked? Update: It's fixed now, just had to wait a couple hours.
 
-13h ago
+15h ago
 
 ---
 
@@ -140,14 +148,6 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 ---
 
-**[Best podcast for actual Ethereum updates - NOT PRICE](https://www.reddit.com/r/ethereum/comments/1qvprfd/best_podcast_for_actual_ethereum_updates_not_price/)**
-
-I’d like a more technical and realistic analysis of Ethereum and how things are changing and growing. Please let me know if you know a good podcast or YouTube channel that does this. Thank you.
-
-1d ago
-
----
-
 ---
 
 ## Google News: "ethereum"
@@ -156,7 +156,7 @@ I’d like a more technical and realistic analysis of Ethereum and how things ar
 
 A leaked pitch to reshape Ethereum’s leadership exposed deep divisions over politics, power and Ether’s static price
 
-The Guardian • 20h ago
+The Guardian • 22h ago
 
 ---
 
@@ -164,11 +164,11 @@ The Guardian • 20h ago
 
 Despite the mounting loss, the Ethereum treasury firm says it's under no pressure to sell as ETH price crashes and its stock tumbles.
 
-CoinDesk • 18h ago
+CoinDesk • 19h ago
 
 ---
 
-**[Bitcoin, XRP, Ethereum Drop. Why Cryptos Are Under Pressure Today.](https://www.barrons.com/articles/bitcoin-xrp-ethereum-cryptos-gold-9051820f?gaa_at=eafs&gaa_n=AWEtsqc9RM4zLhhEioYs5Qm2idkBn6UIPBpNpf70D8hlML7z_oiO1lM7CgAT&gaa_ts=6985d55a&gaa_sig=gh1LXqzTr5L4x5QlnmyA1IdSUDYuIJYdX9n79vTxGfzfEebaBIKTpPg9HmTHYKJnUCl9rH9RdVltDWLPq9fbSA%3D%3D)**
+**[Bitcoin, XRP, Ethereum Drop. Why Cryptos Are Under Pressure Today.](https://www.barrons.com/articles/bitcoin-xrp-ethereum-cryptos-gold-9051820f?gaa_at=eafs&gaa_n=AWEtsqfg3NZq3fMvhcCnSTqXNLo2UV6p5EPF_S5lyTFK3UolBY5E6WH1fzJj&gaa_ts=6985e9da&gaa_sig=OkjduG-RIwoW5O6z3MAIxwKmrZ9f1C3nRnitjbodivmfIENAygkoXRGDh_TqskaI4ctKr1dnTCoKAsiluDYvyg%3D%3D)**
 
 Barron's • 1d ago
 
@@ -178,29 +178,15 @@ Barron's • 1d ago
 
 XRP has plunged 15% on the day as crypto markets turn bearish, with Ethereum, Dogecoin, and Solana also sinking alongside Bitcoin.
 
-Decrypt • 18h ago
+Decrypt • 20h ago
 
 ---
 
-**[Why Crypto Is Going Down? XRP Price, Bitcoin, Ethereum and Dogecoin Moves Today to 2026 Lows](https://www.financemagnates.com/trending/why-crypto-is-going-down-xrp-price-bitcoin-ethereum-and-dogecoin-moves-today-to-2026-lows/)**
+**[Bitcoin, Ethereum Liquidations Hit $704M In 24 Hours—And $70,000 Could Break, Polymarket Predicts](https://finance.yahoo.com/news/bitcoin-ethereum-liquidations-hit-704m-120113179.html)**
 
-Why crypto is falling? Bitcoin price tests $70K, XRP below $1.40, ETH at $2,068. $775M liquidated as Fed hawkishness and institutional outflows hammer markets.
+Bitcoin (CRYPTO: BTC) traders are bracing for more pain after liquidations reached $704 million in a single 24-hour period. The sharp sell-off has crypto investors turning to prediction markets for clues on where the bottom might be. What Polymarket Traders Are Predicting Polymarket is currently flashing warning signs for the immediate future. The “What price will Bitcoin hit in February?” market, which has already cleared $14 million in volume, now places a 56% probability on Bitcoin sliding to
 
-financemagnates.com • 1d ago
-
----
-
-**[Ethereum Price Prediction: Alarming Bearish Signals Suggest ETH Could Plunge Below $2,000](https://www.binance.com/en/square/post/35999941537161)**
-
-Binance • 2d ago
-
----
-
-**[How Buying Ethereum Today Could 10x Your Net Worth](https://finance.yahoo.com/news/buying-ethereum-today-could-10x-210500420.html)**
-
-The world's second-largest cryptocurrency still has a bright future.
-
-Yahoo Finance • 14h ago
+Yahoo Finance • 1d ago
 
 ---
 
@@ -208,15 +194,7 @@ Yahoo Finance • 14h ago
 
 Key PointsSix months ago, Ethereum hit an all-time high of $4,954 per token.
 
-Nasdaq • 1d ago
-
----
-
-**[Here's What Needs to Happen for Ethereum to Hit $5,000 This Year](https://www.fool.com/investing/2026/02/05/heres-what-needs-to-happen-for-ethereum-to-hit-500/)**
-
-Will 2026 be the year investors see the price they've dreamed of?
-
-The Motley Fool • 19h ago
+Nasdaq • 2d ago
 
 ---
 
@@ -225,6 +203,30 @@ The Motley Fool • 19h ago
 Leaders across the layer-2 space don't see this moment as an existential threat, but rather that Ethereum’s progress is forcing them to clarify their purpose.
 
 CoinDesk • 1d ago
+
+---
+
+**[Vitalik Buterin reevaluates Ethereum's rollup-centric roadmap, arguing L2s decentralized 'far slower' while base layer advanced](https://www.theblock.co/post/388285/vitalik-buterin-reevaluates-rollup-centric-roadmap-arguing-l2s-decentralized-far-slower-while-ethereum-base-layer-advanced)**
+
+Buterin previously championed a "rollup-centric" roadmap that would scale Ethereum through a network of branded shards.
+
+The Block • 2d ago
+
+---
+
+**[Ethereum Price Sinks Below $2,000 as Founder Vitalik Buterin and Whales Torch the Floor](https://www.tipranks.com/news/ethereum-price-sinks-below-2000-as-founder-vitalik-buterin-and-whales-torch-the-floor)**
+
+Ethereum (ETH-USD) is currently the focus of a major market exit, with the price sinking to around $1,950 and losing nearly 8% in a single day. While the rest of</p...
+
+TipRanks • 19h ago
+
+---
+
+**[Crypto Treasuries Fall Deeply Underwater as Bitcoin, Ethereum and Solana Dive](https://decrypt.co/357130/crypto-treasury-underwater-bitcoin-ethereum-solana-dive)**
+
+Prominent publicly traded crypto treasury firms are underwater on their holdings as Bitcoin and Ethereum keep falling.
+
+Decrypt • 14h ago
 
 ---
 
@@ -238,7 +240,7 @@ My FREE Daily 5-Min Crypto Newsletter: https://www.cryptonutshell.com/subscribe 
 
 📺 Crypto Nutshell
 
-👁️ 12K • 👍 364 • 💬 144 • ⏱️ 22:22 • 20h ago
+👁️ 13K • 👍 375 • 💬 148 • ⏱️ 22:22 • 21h ago
 
 ---
 
@@ -248,7 +250,27 @@ This video provides a professional Elliott Wave and technical analysis of Ethere
 
 📺 More Crypto Online
 
-👁️ 4K • 👍 199 • 💬 23 • ⏱️ 6:13 • 11h ago
+👁️ 4K • 👍 203 • 💬 23 • ⏱️ 6:13 • 13h ago
+
+---
+
+**[“This Crash Might Be the Setup Most Crypto Holders Are Missing&quot; – Matt Hougan](https://www.youtube.com/watch?v=gMUdNWz4eaI)**
+
+Take Control of Your Retirement — Grow Crypto & Gold Tax-Advantaged. https://www.itrustcapital.com/go/savvy-finance If you're ...
+
+📺 Savvy Finance
+
+👁️ 5K • 👍 288 • 💬 8 • ⏱️ 20:57 • 13h ago
+
+---
+
+**[WILL ETH CRASH AGAIN?🚨 (Ethereum Price Prediction 2026)](https://www.youtube.com/watch?v=SKs9XJbXL_s)**
+
+ETHEREUM ETH PRICE PREDICTION 2026 Join the Premium Signal Group for trade setups, mentorship & a community ...
+
+📺 Cilinix Crypto
+
+👁️ 120 • 👍 11 • 💬 2 • ⏱️ 4:44 • 3h ago
 
 ---
 
@@ -258,7 +280,7 @@ Join Premium: https://the-bitcoin-strategy.com My Chart Software: https://the-bi
 
 📺 Gerhard - Bitcoin Strategy
 
-👁️ 9K • 👍 212 • 💬 68 • ⏱️ 9:49 • 1d ago
+👁️ 9K • 👍 212 • 💬 69 • ⏱️ 9:49 • 1d ago
 
 ---
 
@@ -268,27 +290,7 @@ Where does Bitcoin find its bottom? This past week we've seen a significant Bitc
 
 📺 VirtualBacon
 
-👁️ 32K • 👍 2K • 💬 553 • ⏱️ 49:08 • 13h ago
-
----
-
-**[THIS IS HUGE FOR ETHEREUM 🚨 FEBRUARY 5](https://www.youtube.com/watch?v=eiKJWCQrOKQ)**
-
-THIS IS HUGE FOR ETHEREUM FEBRUARY 5.
-
-📺 Overkill Trading
-
-👁️ 2K • 👍 86 • 💬 42 • ⏱️ 2:52 • 9h ago
-
----
-
-**[BITCOIN CRASH TODAY: It&#39;s Finally Happening (Urgent)!!! - Bitcoin News Today, Ethereum &amp; Altcoins](https://www.youtube.com/watch?v=aCiYOP2KFTw)**
-
-BITCOIN CRASH TODAY: It's Finally Happening (Urgent)!!! - Bitcoin News Today, Ethereum & Altcoins *Bitunix* ...
-
-📺 Crypto World
-
-👁️ 21K • 👍 531 • 💬 178 • ⏱️ 24:32 • 21h ago
+👁️ 36K • 👍 2K • 💬 579 • ⏱️ 49:08 • 15h ago
 
 ---
 
@@ -298,27 +300,7 @@ I told you price had to test the lows before moving back up. BTC, ETH, SOL — a
 
 📺 Davinci Jeremie
 
-👁️ 12K • 👍 497 • 💬 141 • ⏱️ 8:24 • 1d ago
-
----
-
-**[NO ONE IS LEAVING Ethereum Just Got Some Heavy News Solana, PENGU  &amp; Bitcoin Holders Might Get Happy](https://www.youtube.com/watch?v=caeEuPCsp8Q)**
-
-Im certain that no one saw this coming. Ethereum might be in a more different spot than we were previously led to believe.
-
-📺 The Modern Investor
-
-👁️ 8K • 👍 729 • 💬 260 • ⏱️ 25:12 • 1d ago
-
----
-
-**[Ethereum After Major Pullbacks: Navigating ETH’s Recovery | BMNR Update](https://www.youtube.com/watch?v=AiYCaUPIK0o)**
-
-Ethereum has experienced multiple major pullbacks throughout its history and every recovery followed a recognizable pattern.
-
-📺 The Value Thinker
-
-👁️ 16K • 👍 1K • 💬 209 • ⏱️ 22:38 • 1d ago
+👁️ 12K • 👍 499 • 💬 143 • ⏱️ 8:24 • 1d ago
 
 ---
 
@@ -328,7 +310,27 @@ This video provides a professional Elliott Wave and technical analysis of Ethere
 
 📺 More Crypto Online
 
-👁️ 5K • 👍 343 • 💬 17 • ⏱️ 6:23 • 17h ago
+👁️ 5K • 👍 343 • 💬 17 • ⏱️ 6:23 • 19h ago
+
+---
+
+**[Ethereum After Major Pullbacks: Navigating ETH’s Recovery | BMNR Update](https://www.youtube.com/watch?v=AiYCaUPIK0o)**
+
+Ethereum has experienced multiple major pullbacks throughout its history and every recovery followed a recognizable pattern.
+
+📺 The Value Thinker
+
+👁️ 17K • 👍 1K • 💬 211 • ⏱️ 22:38 • 2d ago
+
+---
+
+**[David Siemer Outlines Bitcoin and Ethereum&#39;s Paths Back to Record Highs](https://www.youtube.com/watch?v=sxj1YbCv2GQ)**
+
+Bitcoin's dip below $75000 is something David Siemer calls a "buying opportunity." He sees promise in the crypto space long-term ...
+
+📺 Schwab Network
+
+👁️ 21K • 👍 235 • 💬 36 • ⏱️ 6:37 • 2d ago
 
 ---
 
