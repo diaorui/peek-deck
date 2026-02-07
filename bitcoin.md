@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-02-07T13:44:18.768728+00:00'
+updated: '2026-02-07T14:28:06.097299+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
 - news
 - social
-- cryptocurrency
 - videos
+- cryptocurrency
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** February 07, 2026 at 13:44 UTC  
+**Last Updated:** February 07, 2026 at 14:28 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,33 +38,33 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $69,180.39
+### $69,034.49
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** +2.7%  
-**7d:** -10.0%  
-**30d:** -23.5%  
-**90d:** -34.8%  
-**1y:** -28.2%  
+**24h:** +0.7%  
+**7d:** -10.2%  
+**30d:** -23.6%  
+**90d:** -34.9%  
+**1y:** -28.4%  
 
 ---
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1355.35B
+**Market Cap:** $1378.11B
 Rank #1
 
-**Circulating Supply:** 19,985,390 BTC
+**Circulating Supply:** 19,985,675 BTC
 95.2% of max
 
 **All-Time High:** $126,080.00
--46.2%
+-45.3%
 
 **All-Time Low:** $67.81
-+99849.9%
++101615.1%
 
 ---
 
@@ -77,23 +77,17 @@ Rank #1
 
 ## Reddit: r/Bitcoin
 
-**[Look babe, bitcoin went up 9% today](https://www.reddit.com/r/Bitcoin/comments/1qy03oz/look_babe_bitcoin_went_up_9_today/)**
+**[Are you scared to hodl ?](https://www.reddit.com/r/Bitcoin/comments/1qy6el1/are_you_scared_to_hodl/)**
 
-12h ago
+​
+
+8h ago
 
 ---
 
 **[I’m honestly enjoying the Bitcoin hate right now.](https://www.reddit.com/r/Bitcoin/comments/1qy202k/im_honestly_enjoying_the_bitcoin_hate_right_now/)**
 
 I’m in multiple investment groups with very sharp people, and the skepticism is louder than I’ve heard it in a long time. Even my resident conspiracy-theorist cousin has re-emerged with “proof.” Who knew This was exactly the sentiment we needed, when I thought I’d never again see prices at these levels 😂
-
-10h ago
-
----
-
-**[I unconsciously panic-bought today.](https://www.reddit.com/r/Bitcoin/comments/1qy0sws/i_unconsciously_panicbought_today/)**
-
-I got paid today. I get paid every two weeks. I just spent my entire check on bitcoin again. Got it at 63-66ish I believe. I’ve been catching the falling knives. Bought at 80, 77, 73, 63. I am ready to catch the falling knife at 60, 50, 40, and 30. Last cycle I was scared. Uncertain. This cycle, once I saw 63k and my friends asking what was going on, I went UNCONSCIOUS. I automatically panic bought with my entire check. I didn’t think. Just did. And I will be continuing to throw every check in until 30k. I’m not going to wait for a lower price. Even though “we all know” it’s going below 60k, that didn’t stop me from lump summing the entire check at 63-66. I don’t care. I don’t care because US dollars do not matter. The only thing that matters is how much bitcoin you have. I love the bear because when we are at the bottom, it’s only the real ones left. The ones that actually understand. During the bull, this sub is filled with pure nonsense. I’m glad the bear is here so I can enjoy Bitcoin Reddit again. EDIT: I am VERY surprised to see the hate. Tourists must still be here. What happened to this sub?
 
 11h ago
 
@@ -107,13 +101,25 @@ I got paid today. I get paid every two weeks. I just spent my entire check on bi
 
 **[We are so back](https://www.reddit.com/r/Bitcoin/comments/1qxpeyz/we_are_so_back/)**
 
-19h ago
+20h ago
 
 ---
 
-**[Are you scared to hodl ?](https://www.reddit.com/r/Bitcoin/comments/1qy6el1/are_you_scared_to_hodl/)**
+**[Look babe, bitcoin went up 9% today](https://www.reddit.com/r/Bitcoin/comments/1qy03oz/look_babe_bitcoin_went_up_9_today/)**
 
-​
+13h ago
+
+---
+
+**[Whales are accumulating](https://www.reddit.com/r/Bitcoin/comments/1qycpon/whales_are_accumulating/)**
+
+If you see blockchain activity whales are clearly accumulating taking BTC outside exchanges. It seems this is contrarian to people saying that BTC will bottom around 45k-55k. I believe (and hope) that bottom is in and the liquidation of this week has been a great opportunity to accumulate, decrease btc availability on exchanges and bring price to 100k +
+
+1h ago
+
+---
+
+**[Bitcoin price right now](https://www.reddit.com/r/Bitcoin/comments/1qy7gsr/bitcoin_price_right_now/)**
 
 7h ago
 
@@ -123,13 +129,15 @@ I got paid today. I get paid every two weeks. I just spent my entire check on bi
 
 Yes I finally captured it!
 
-19h ago
+20h ago
 
 ---
 
-**[Bitcoin price right now](https://www.reddit.com/r/Bitcoin/comments/1qy7gsr/bitcoin_price_right_now/)**
+**[Bitcoin up: I should’ve bought before, on the next big drop I’m definitely buying. Bitcoin down: It’s all a scam anyways, I’m glad I never bought.](https://www.reddit.com/r/Bitcoin/comments/1qycxzo/bitcoin_up_i_shouldve_bought_before_on_the_next/)**
 
-6h ago
+Basically
+
+1h ago
 
 ---
 
@@ -139,33 +147,44 @@ Yes I finally captured it!
 
 ---
 
-**[Thanks for the opportunity to buy at 61K.](https://www.reddit.com/r/Bitcoin/comments/1qxhgy9/thanks_for_the_opportunity_to_buy_at_61k/)**
-
-Thanks. God bless you all
-
-1d ago
-
----
-
 ---
 
 ## Google News: "bitcoin"
 
-**[Bitcoin Drops to Lowest Price Since Trump Was Elected as Crypto Faces Slump](https://www.nytimes.com/2026/02/05/technology/bitcoin-price-drop-crypto-market.html)**
+**[Bitcoin gets slashed in half. What's behind the crypto's existential crisis](https://www.cnbc.com/2026/02/06/bitcoin-gets-slashed-in-half-whats-behind-the-cryptos-existential-crisis.html)**
 
-The New York Times • 1d ago
+Bitcoin nearly grazed $60,000 on Thursday as investors shied away from the asset due to growing concerns over its utility.
+
+CNBC • 21h ago
 
 ---
 
-**[Everyone's Calling $59K as Bitcoin's Bottom. Here's Why They're Probably Wrong.](https://www.binance.com/en/square/post/289054124354626)**
+**[S Korean crypto firm accidentally pays out $40bn in bitcoin](https://www.bbc.com/news/articles/cz6y62nzjxxo)**
 
-Binance • 3h ago
+The company quickly realised its mistake and managed to recover virtually all the missing tokens from customers.
+
+BBC • 31m ago
+
+---
+
+**[South Korean crypto firm accidentally sends $44 billion in bitcoin to
+users](https://www.cnbc.com/2026/02/07/south-korean-crypto-firm-accidentally-sends-out-44-billion-in-bitcoin.html)**
+
+The move triggered a sharp selloff on the Bithumb exchange. The company apologized for the mistake.
+
+CNBC • 4h ago
+
+---
+
+**[Crypto Exchange to Reimburse Some Users After $40 Billion Error](https://www.bloomberg.com/news/articles/2026-02-07/crypto-exchange-to-reimburse-some-users-after-40-billion-error)**
+
+Bloomberg • 2h ago
 
 ---
 
 **[The Kidnappers Of Savannah Guthrie's Mom Want Bitcoin—But It’s Not As Anonymous As Many Think](https://www.forbes.com/sites/martinadilicosa/2026/02/06/the-kidnappers-of-savannah-guthries-mom-want-bitcoin-but-its-not-as-anonymous-as-many-think/)**
 
-Forbes • 17h ago
+Forbes • 18h ago
 
 ---
 
@@ -185,11 +204,9 @@ cnn.com • 1d ago
 
 ---
 
-**[Strategy CEO: Bitcoin would need to plunge to $8,000 before balance sheet issues](https://www.theblock.co/post/388774/strategy-ceo-bitcoin-q4-earnings-call)**
+**[Strategy's Saylor Touts 'Crypto President' As Bitcoin Plunges](https://www.investors.com/news/strategy-earnings-q4-bitcoin-price-mstr-plunge-michael-saylor/)**
 
-Executive Chairman Michael Saylor also addressed quantum computing concerns in bitcoin, framing them as 'horrible FUD.'
-
-The Block • 1d ago
+Investor's Business Daily • 1d ago
 
 ---
 
@@ -197,32 +214,15 @@ The Block • 1d ago
 
 Strategy (MSTR) is moving to take a more active role in preparing Bitcoin for potential future threats from quantum computing.
 
-Bitcoin Magazine • 20h ago
+Bitcoin Magazine • 21h ago
 
 ---
 
-**[Jim Cramer Sets Bitcoin 'Line In The Sand,' Urges Michael Saylor To Act Before Strategy's Q4 Earnings](https://finance.yahoo.com/news/jim-cramer-sets-bitcoin-line-160111156.html)**
+**[Strategy CEO: Bitcoin would need to plunge to $8,000 before balance sheet issues](https://www.theblock.co/post/388774/strategy-ceo-bitcoin-q4-earnings-call)**
 
-Popular market commentator and TV personality Jim Cramer made a rather dramatic plea to Strategy Inc. (NASDAQ:MSTR) Chair Michael Saylor on Tuesday, urging him to act and stop Bitcoin’s (CRYPTO: BTC) decline. Cramer’s Proposal To Saylor In an X post, Cramer suggested Saylor issue a zero-coupon convertible bond to limit Bitcoin’s downside at $73,802, a level he described as the “line in the sand.” “Strategy’s earnings depend upon it, and what will you talk about when you report on Thursday. Let’s
+Executive Chairman Michael Saylor also addressed quantum computing concerns in bitcoin, framing them as 'horrible FUD.'
 
-Yahoo Finance • 1d ago
-
----
-
-**[South Korean crypto firm accidentally sends $44 billion in bitcoin to
-users](https://www.cnbc.com/2026/02/07/south-korean-crypto-firm-accidentally-sends-out-44-billion-in-bitcoin.html)**
-
-The move triggered a sharp selloff on the Bithumb exchange. The company apologized for the mistake.
-
-CNBC • 3h ago
-
----
-
-**[Crypto firm accidentally sends $40 bn in bitcoin to users](https://www.france24.com/en/live-news/20260207-crypto-firm-accidentally-sends-40-bn-in-bitcoin-to-users)**
-
-A South Korean cryptocurrency exchange apologised on Saturday after mistakenly transferring more than $40 billion worth of bitcoin to users, which briefly prompted a selloff on the platform.
-
-France 24 • 7h ago
+The Block • 1d ago
 
 ---
 
@@ -300,7 +300,7 @@ Cryptocurrency markets fell as global equities and precious metals sold off whil
 
 SE050 Hardware Bitcoin Wallet - Self-sovereign Bitcoin wallet powered by NXP SE050 secure element - 0xdeadbeefnetwork/sigil-web
 
-⬆️ 2 • 💬 1 • 6h ago • [GitHub](https://github.com/0xdeadbeefnetwork/sigil-web)
+⬆️ 2 • 💬 1 • 7h ago • [GitHub](https://github.com/0xdeadbeefnetwork/sigil-web)
 
 ---
 
@@ -314,27 +314,7 @@ Take your personal data back with Incogni! Use code GRAHAM at the link below and
 
 📺 Graham Stephan
 
-👁️ 546K • 👍 19K • 💬 6K • ⏱️ 16:11 • 1d ago
-
----
-
-**[Is This The END Of Bitcoin?](https://www.youtube.com/watch?v=P3ZnGfRADcA)**
-
-Bitcoin has been in a free-fall the past few months. At one point yesterday, it had fallen 50% from all-time highs. Everyone is ...
-
-📺 From The Desk Of Anthony Pompliano
-
-👁️ 29K • 👍 1K • 💬 225 • ⏱️ 9:43 • 15h ago
-
----
-
-**[BITCOIN WARNING ($39K)](https://www.youtube.com/watch?v=8rjH5qsABXk)**
-
-Bitcoin's record volatility is sending shockwaves through the crypto market—are we nearing the bottom? Get the latest crypto news ...
-
-📺 Discover Crypto
-
-👁️ 13K • 👍 140 • 💬 28 • ⏱️ 0:26 • 18h ago
+👁️ 552K • 👍 19K • 💬 6K • ⏱️ 16:11 • 1d ago
 
 ---
 
@@ -344,7 +324,37 @@ Bitcoin plunges as crypto markets lose trillions, sparking debate over whether B
 
 📺 Valuetainment
 
-👁️ 111K • 👍 2K • 💬 925 • ⏱️ 14:38 • 16h ago
+👁️ 118K • 👍 3K • 💬 12K • ⏱️ 14:38 • 16h ago
+
+---
+
+**[Is This The END Of Bitcoin?](https://www.youtube.com/watch?v=P3ZnGfRADcA)**
+
+Bitcoin has been in a free-fall the past few months. At one point yesterday, it had fallen 50% from all-time highs. Everyone is ...
+
+📺 From The Desk Of Anthony Pompliano
+
+👁️ 32K • 👍 2K • 💬 217 • ⏱️ 9:43 • 16h ago
+
+---
+
+**[🚨 BTC &amp; ETH: THIS IS IT!!!! ITS TIME!!!!!](https://www.youtube.com/watch?v=8QI8ukpRpEI)**
+
+One of the biggest crypto crashes in history! Here is what happened, why and my plan going further. ---------- LIVE VIRTUAL ...
+
+📺 Thomas Kralow
+
+👁️ 31K • 👍 1K • 💬 71 • ⏱️ 11:51 • 1d ago
+
+---
+
+**[BITCOIN WARNING ($39K)](https://www.youtube.com/watch?v=8rjH5qsABXk)**
+
+Bitcoin's record volatility is sending shockwaves through the crypto market—are we nearing the bottom? Get the latest crypto news ...
+
+📺 Discover Crypto
+
+👁️ 14K • 👍 145 • 💬 29 • ⏱️ 0:26 • 19h ago
 
 ---
 
@@ -358,13 +368,33 @@ MEXC: Trade with Ultra-low trading fees Sign up: https://www.mexc.com/register?i
 
 ---
 
-**[Bitcoin Just Had a FLASH DUMP](https://www.youtube.com/watch?v=mizRhiz3S3U)**
+**[Bitcoin price falls below $70K. How much further could it drop?](https://www.youtube.com/watch?v=ysRWyZlc5F4)**
 
-Make Free Predictions on *ClashPicks* ▻ https://www.clashpicks.com/ Follow ClashPicks' X ▻ https://x.com/ClashPicks ...
+Bitcoin has fallen below $70000, raising questions about whether a crypto winter is underway. Yahoo Finance's Jared Blikre and ...
 
-📺 CryptosRUs
+📺 Yahoo Finance
 
-👁️ 63K • 👍 2K • 💬 1K • ⏱️ 11:07 • 1d ago
+👁️ 78K • 👍 577 • 💬 603 • ⏱️ 4:27 • 1d ago
+
+---
+
+**[This is typical volatility for bitcoin, says SkyBridge&#39;s Scaramucci](https://www.youtube.com/watch?v=PxHIJlojXTg)**
+
+CNBC's “Closing Bell Overtime” team discusses cryptocurrencies, bitcoin's volatile week and more with Anthony Scaramucci, ...
+
+📺 CNBC Television
+
+👁️ 27K • 👍 276 • 💬 309 • ⏱️ 4:14 • 16h ago
+
+---
+
+**[BITCOIN IN TROUBLE !!!](https://www.youtube.com/watch?v=paB23MhHyUA)**
+
+BYBIT: http://themoon.co/Bybit 10% DISCOUNT & $30000 BONUS Phemex: https://themoon.co/phemex1200 Claim Up to ...
+
+📺 The Moon Show
+
+👁️ 9K • 👍 664 • 💬 40 • ⏱️ 6:39 • 4h ago
 
 ---
 
@@ -374,35 +404,7 @@ https://democratizedprime.pxf.io/c/2406113/3755092/37696 Enter to win $25k USDC 
 
 📺 Aaron Bennett
 
-👁️ 36K • 👍 1K • 💬 827 • ⏱️ 13:47 • 2d ago
-
----
-
-**[Bitcoin Touches $67,000. How Much Lower Can it Go?](https://www.youtube.com/watch?v=pwxruun7QFc)**
-
-Bitcoin tumbled well below $70000 as the unwinding of leveraged bets and broader market turbulence deepened a selloff that's ...
-
-📺 Bloomberg Television
-
-👁️ 60K • 👍 425 • 💬 431 • ⏱️ 3:14 • 1d ago
-
----
-
-**[DID JEFF INVENT BITCOIN?](https://www.youtube.com/watch?v=D2rbPG_Ncnw)**
-
-Did Jeffrey invent Bitcoin? This viral theory is blowing up across crypto circles, so we break it down, separate facts from fiction, and ...
-
-📺 Discover Crypto
-
-👁️ 56K • 👍 905 • 💬 98 • ⏱️ 2:44 • 2d ago
-
----
-
-**[Short term vs Long term investments. #icebergandco #jeweler #crypto #watches #bitcoin](https://www.youtube.com/watch?v=yvmYt4UYE_Q)**
-
-📺 Moshe Iceberg
-
-👁️ 778 • 👍 18 • 💬 1 • ⏱️ 1:00 • 17h ago
+👁️ 36K • 👍 1K • 💬 822 • ⏱️ 13:47 • 2d ago
 
 ---
 
