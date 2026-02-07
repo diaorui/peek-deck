@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-02-07T21:27:11.703288+00:00'
+updated: '2026-02-07T21:51:21.355601+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
+- cryptocurrency
 - news
 - social
 - videos
-- cryptocurrency
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** February 07, 2026 at 21:27 UTC  
+**Last Updated:** February 07, 2026 at 21:51 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -81,7 +81,7 @@ Rank #1
 
 HODL strong through the storms; the future rewards the patient. 🚀 🙌
 
-3h ago
+4h ago
 
 ---
 
@@ -89,13 +89,13 @@ HODL strong through the storms; the future rewards the patient. 🚀 🙌
 
 If you see blockchain activity whales are clearly accumulating taking BTC outside exchanges. It seems this is contrarian to people saying that BTC will bottom around 45k-55k. I believe (and hope) that bottom is in and the liquidation of this week has been a great opportunity to accumulate, decrease btc availability on exchanges and bring price to 100k +
 
-8h ago
+9h ago
 
 ---
 
 **[People who bought bitcoin at $61k yesterday](https://www.reddit.com/r/Bitcoin/comments/1qxw35n/people_who_bought_bitcoin_at_61k_yesterday/)**
 
-22h ago
+23h ago
 
 ---
 
@@ -103,7 +103,7 @@ If you see blockchain activity whales are clearly accumulating taking BTC outsid
 
 My mother barely uses Facebook and has zero interest in technology or finance. Yet here we are: she asked me to help her buy Bitcoin. Over the past months, I’ve talked a lot about Bitcoin at home — why I believe in it, my long-term goals, scarcity, adoption, etc. I guess at some point it clicked for her. The problem is… now I’m scared. Even though I truly believe in Bitcoin’s future, I’m afraid of a few things: What if things don’t go as expected? What if she doesn’t live long enough to really see the benefits of this investment? What if she can’t mentally handle the volatility and panic during big drawdowns? This feels very different from investing my own money. If Bitcoin drops 50%, I can handle it. If her money drops 50%, that’s a different emotional weight. I don’t want to be irresponsible or turn into “that guy” who convinced a family member to invest and then regrets it forever. So I’m asking those of you who’ve been here longer or have more life experience: What would you do in my position?
 
-4h ago
+5h ago
 
 ---
 
@@ -125,7 +125,7 @@ My mother barely uses Facebook and has zero interest in technology or finance. Y
 
 Basically
 
-8h ago
+9h ago
 
 ---
 
@@ -145,7 +145,7 @@ Basically
 
 I’m in multiple investment groups with very sharp people, and the skepticism is louder than I’ve heard it in a long time. Even my resident conspiracy-theorist cousin has re-emerged with “proof.” Who knew This was exactly the sentiment we needed, when I thought I’d never again see prices at these levels 😂
 
-18h ago
+19h ago
 
 ---
 
@@ -191,13 +191,13 @@ The Motley Fool • 2h ago
 
 **[THIS IS WHY BITCOIN DROPPED FROM $126,000 TO $60,000.](https://www.binance.com/en/square/post/289157197537154)**
 
-Binance • 3h ago
+Binance • 4h ago
 
 ---
 
 **[Bitcoin Wiped Out Below $60K — Here’s What Really Broke the Market](https://www.binance.com/en/square/post/289171187884241)**
 
-Binance • 2h ago
+Binance • 3h ago
 
 ---
 
@@ -205,7 +205,7 @@ Binance • 2h ago
 
 Cryptocurrency transactions are often thought to be anonymous and untraceable. That's a misconception, experts tell CBS News.
 
-cbsnews.com • 22h ago
+cbsnews.com • 23h ago
 
 ---
 
@@ -285,7 +285,7 @@ Bitcoin behaves more like an "ATM" during uncertain times, with investors quickl
 
 Bithumb, Korea's second-largest cryptocurrency exchange, mistakenly credited users with Bitcoin worth approximately 260 billion won ($195 million), instead of the modest number of reward points or Bitcoin that it had intended to distribute.
 
-⬆️ 3 • 💬 0 • 3h ago • [koreajoongangdaily.joins.com](https://koreajoongangdaily.joins.com/news/2026-02-07/business/finance/Crypto-exchange-Bithumb-mistakenly-hands-out-195M-in-Bitcoin-to-users-in-Random-Box-giveaway/2518495)
+⬆️ 3 • 💬 0 • 4h ago • [koreajoongangdaily.joins.com](https://koreajoongangdaily.joins.com/news/2026-02-07/business/finance/Crypto-exchange-Bithumb-mistakenly-hands-out-195M-in-Bitcoin-to-users-in-Random-Box-giveaway/2518495)
 
 ---
 
@@ -333,7 +333,7 @@ Bitcoin plunges as crypto markets lose trillions, sparking debate over whether B
 
 📺 Valuetainment
 
-👁️ 143K • 👍 3K • 💬 12K • ⏱️ 14:38 • 23h ago
+👁️ 143K • 👍 3K • 💬 12K • ⏱️ 14:38 • 1d ago
 
 ---
 

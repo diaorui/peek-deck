@@ -3,14 +3,14 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-02-07T21:27:11.693725+00:00'
+updated: '2026-02-07T21:51:21.347195+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- repositories
 - news
 - social
+- repositories
 - videos
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 AI news, discussions, and developments
 
-**Last Updated:** February 07, 2026 at 21:27 UTC  
+**Last Updated:** February 07, 2026 at 21:51 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -57,7 +57,7 @@ I have been working solo on an AI-based project called Netryx. At a high level, 
 
 Let’s say the quiet part out loud.
 
-🔗 [Medium](https://medium.com/@behindthebuild/big-tech-ai-isnt-taking-your-job-your-refusal-to-use-it-might-966f8219f962) • 3h ago
+🔗 [Medium](https://medium.com/@behindthebuild/big-tech-ai-isnt-taking-your-job-your-refusal-to-use-it-might-966f8219f962) • 4h ago
 
 ---
 
@@ -65,7 +65,7 @@ Let’s say the quiet part out loud.
 
 View AI Agent prediction on PardusAI - AI-powered data analysis platform
 
-🔗 [pardusai.org](https://pardusai.org/view/fa19c538b421112c351c21f4018d955513b8dbd75c0b0b3a2a64bee4b7fc4080) • 3h ago
+🔗 [pardusai.org](https://pardusai.org/view/fa19c538b421112c351c21f4018d955513b8dbd75c0b0b3a2a64bee4b7fc4080) • 4h ago
 
 ---
 
@@ -105,7 +105,7 @@ I’m a solo web developer, so I spend most of my day using AI to debug my self 
 
 An AI-powered model developed at University of Michigan can read a brain MRI and diagnose a person in seconds, a study suggests.&nbsp;It detected neurological conditions with up to 97.5% accuracy and predicted how urgently a patient required treatment. The technology&nbsp;could transform neuroimaging at health systems across the United States.
 
-🔗 [EurekAlert!](https://www.eurekalert.org/news-releases/1115393) • 18h ago
+🔗 [EurekAlert!](https://www.eurekalert.org/news-releases/1115393) • 19h ago
 
 ---
 
@@ -125,7 +125,7 @@ Anthropic shipped Opus 4.6 and OpenAI shipped GPT-5.3-Codex on the same day, 27 
 
 Tech's megacaps announced major increases in capex spend for 2026, and now investors are preparing for cash to dwindle.
 
-CNBC • 23h ago
+CNBC • 1d ago
 
 ---
 
@@ -139,7 +139,7 @@ CNBC • 1d ago
 
 **[The AI Trade Enters a New Era of Skepticism](https://www.barrons.com/articles/dow-50000-ai-trade-skepticism-353375f4?gaa_at=eafs&gaa_n=AWEtsqe-Qw15q6r6PhfoIXRBkOD3KSKUH_nZNq2WPoBXOCzmZWEH47fjF8ZK&gaa_ts=6987aa17&gaa_sig=fMM7EJq37F6S29BPc_-Jl-_zlJ7SJv7uo40ejKI6GBuXwEYrKHGpvhz7FND4sw7TdQfFf_2oxIrj9V8d88oLag%3D%3D)**
 
-Barron's • 23h ago
+Barron's • 1d ago
 
 ---
 
@@ -333,7 +333,7 @@ The latest AI News. Learn about LLMs, Gen AI and get ready for the rollout of AG
 
 📺 Wes Roth
 
-👁️ 72K • 👍 3K • 💬 704 • ⏱️ 18:15 • 18h ago
+👁️ 72K • 👍 3K • 💬 704 • ⏱️ 18:15 • 19h ago
 
 ---
 
@@ -425,7 +425,7 @@ Step 3.5 Flash is an efficient, open-source MoE foundation model (11B active par
 
 `text-generation` `199.4B`
 
-⬇️ 11,980 • ❤️ 511 • 15h ago
+⬇️ 11,980 • ❤️ 511 • 16h ago
 
 ---
 
@@ -652,7 +652,7 @@ AI → JSON → UI
 
 `TypeScript`
 
-⭐ 10.1k • 🔱 537 • 2h ago
+⭐ 10.1k • 🔱 537 • 3h ago
 
 ---
 
@@ -672,7 +672,7 @@ The Ultimate Collection of 700+ Agentic Skills for Claude Code/Antigravity/Curso
 
 `Python` `agentic-skills` `ai-agents` `antigravity` `autonomous-coding` `claude-code`
 
-⭐ 7.8k • 🔱 1.6k • 14h ago
+⭐ 7.8k • 🔱 1.6k • 15h ago
 
 ---
 

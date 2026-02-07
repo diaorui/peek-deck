@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-02-07T21:27:11.709583+00:00'
+updated: '2026-02-07T21:51:21.361552+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
+- cryptocurrency
 - news
 - social
 - videos
-- cryptocurrency
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** February 07, 2026 at 21:27 UTC  
+**Last Updated:** February 07, 2026 at 21:51 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -134,7 +134,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 https://etherscan.io/tx/0xaab90d00abf065e4158852a64c809b8921d109e997bd3790cb471aadfa57f4e0 I've been waiting for this transaction for almost an hour (trying to transfer from Newton to TrustWallet). There seem to be hundreds of transactions from the same address that I don't recognize. Have I been hacked? Update: It's fixed now, just had to wait a couple hours.
 
-1d ago
+2d ago
 
 ---
 
@@ -214,7 +214,7 @@ Mashable • 1d ago
 
 **[Bitcoin, XRP, Ethereum Drop. Why Cryptos Are Under Pressure Today.](https://www.barrons.com/articles/bitcoin-xrp-ethereum-cryptos-gold-9051820f?gaa_at=eafs&gaa_n=AWEtsqf2Y5J1VlbsrdqiJqX7ijLxub5e0EejG7iGMyxYZe6fkSYEh2LKrpM9&gaa_ts=6987aa1b&gaa_sig=qCrDaYvoUEQ70eCOG3OtmiPOdhR1S_HYZebxCyu3gkPgXa-lMC0KV9yqpB_DHtnoVXy9CUC9xoH0j5lkNDQ_OA%3D%3D)**
 
-Barron's • 2d ago
+Barron's • 3d ago
 
 ---
 
@@ -296,7 +296,7 @@ This video provides a professional Elliott Wave and technical analysis of Ethere
 
 📺 More Crypto Online
 
-👁️ 3K • 👍 194 • 💬 14 • ⏱️ 4:02 • 20h ago
+👁️ 3K • 👍 194 • 💬 14 • ⏱️ 4:02 • 21h ago
 
 ---
 

@@ -3,7 +3,7 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-02-07T21:27:11.712809+00:00'
+updated: '2026-02-07T21:51:21.364763+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
@@ -17,7 +17,7 @@ data_types:
 
 Robotics research and industry news
 
-**Last Updated:** February 07, 2026 at 21:27 UTC  
+**Last Updated:** February 07, 2026 at 21:51 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -98,7 +98,7 @@ Just pushed an update to casadi-on-gpu that lets you generate CUDA kernels direc
 
 I’m working with the UR12E and trying to send movement commands from a desktop. currently using ROS/moveit. I’m creating paths on RViz and they are valid. When pressing “execute” the arm doesn’t move. Sometimes there are errors regarding tolerances (which I’m looking into) and other times it doesn’t return an error, but tells me the movement is planned. previous culprits have been the ros joint controller / ros scaled joint controller (scaled is now being used). has anyone faced similar issues? Keen to be pointed to some places in docs to understand further.
 
-11h ago
+12h ago
 
 ---
 
@@ -106,7 +106,7 @@ I’m working with the UR12E and trying to send movement commands from a desktop
 
 Hey everyone, I'm working with an MKS ODrive Mini (firmware v0.5.1, based on ODrive v3.6) with an onboard AS5047P absolute SPI encoder and an Eagle Power 90kV BLDC motor. I've successfully calibrated the motor and can reliably enter closed-loop control mode manually, but I'm running into issues when trying to make it enter closed-loop automatically on startup. What Works: Manual calibration completes successfully Manual closed-loop entry works perfectly every time: ​ odrv0.axis0.error = 0 odrv0.axis0.requested_state = 8 # CLOSED_LOOP_CONTROL # Motor enters closed-loop with no errors The Problem: When I enable startup_closed_loop_control = True, the ODrive immediately throws an OVERSPEED error on power-up and fails to enter closed-loop mode. Current Configuration: # Encoder (AS5047P on GPIO7) odrv0.axis0.encoder.config.mode = 257 # ABS_SPI odrv0.axis0.encoder.config.cpr = 16384 odrv0.axis0.encoder.config.abs_spi_cs_gpio_pin = 7 odrv0.axis0.encoder.config.pre_calibrated = True odrv0.axis0.encoder.config.bandwidth = 100 # Motor odrv0.axis0.motor.config.pre_calibrated = True # Controller odrv0.axis0.controller.config.control_mode = 3 # POSITION_CONTROL odrv0.axis0.controller.config.input_mode = 1 # PASSTHROUGH odrv0.axis0.controller.config.vel_limit = 100 odrv0.axis0.controller.config.circular_setpoints = True # Startup odrv0.axis0.config.startup_motor_calibration = False odrv0.axis0.config.startup_encoder_offset_calibration = False odrv0.axis0.config.startup_encoder_index_search = False odrv0.axis0.config.startup_closed_loop_control = True # This causes OVERSPEED Errors on Startup: AxisError.CONTROLLER_FAILED MotorError.CONTROL_DEADLINE_MISSED ControllerError.OVERSPEED What I've Tried: Increased vel_limit from 50 to 100 to 200 - still fails Reduced encoder bandwidth from 1000 to 100 to 50 - still fails Enabled circular_setpoints to avoid position tracking issues Verified encoder mode is set to ABS_SPI (257) Confirmed all calibrations are marked as pre_calibrated = True Suspected Issue: I believe there's a race condition where the controller tries to enter closed-loop mode before the AS5047P SPI encoder has fully initialized and is providing stable readings, causing a spurious high velocity reading that triggers the overspeed protection. Questions: Is there a way to add a startup delay before startup_closed_loop_control executes? Are there specific encoder settings for the AS5047P on the MKS ODrive Mini that I'm missing? Is this a known firmware limitation with SPI encoders on ODrive v3.6-based boards? Should I consider updating the firmware, or is there a configuration workaround? Workaround: I can use a Teensy 4.1 with CAN bus to send the closed-loop command after a 3-second delay, which works perfectly. But I'd prefer the ODrive to handle this autonomously if possible. Any help would be greatly appreciated! Has anyone successfully used startup_closed_loop_control with an AS5047P encoder? Hardware: MKS ODrive Mini V1.0 Firmware: 0.5.1 (based on ODrive v3.6-56V) Encoder: AS5047P (onboard, SPI) Motor: Eagle Power 90kV BLDC Voltage: 8V-56V (running 3S-13S safe) EDIT: For anyone finding this later - the Teensy/microcontroller solution with a startup delay works flawlessly. Yes i used claude to summarize this (im a backend dev dont have much experience with robotics just wanted tot try it out)
 
-14h ago
+15h ago
 
 ---
 
@@ -148,7 +148,7 @@ The Robot Report • 3d ago
 
 "We just need enough time to build the AI and robots to not go bankrupt before then."
 
-Fortune • 2h ago
+Fortune • 3h ago
 
 ---
 
@@ -178,7 +178,7 @@ The Guardian • 1d ago
 
 **[AI-powered robots are coming for trade jobs](https://www.politico.com/newsletters/digital-future-daily/2026/02/04/ai-powered-robots-are-coming-for-trade-jobs-00765584)**
 
-Politico • 2d ago
+Politico • 3d ago
 
 ---
 
@@ -220,7 +220,7 @@ Capybara's golden robot lion was sabotaged by Brianna before the big competition
 
 📺 CapyEscapes
 
-👁️ 29K • 👍 961 • 💬 106 • ⏱️ 0:59 • 9h ago
+👁️ 29K • 👍 961 • 💬 106 • ⏱️ 0:59 • 10h ago
 
 ---
 
@@ -278,7 +278,7 @@ War Robots Gameplay: Sonic Ammit - actually insane build! My War Robots Creator 
 
 📺 Manni-Gaming
 
-👁️ 5K • 👍 323 • 💬 61 • ⏱️ 14:50 • 11h ago
+👁️ 5K • 👍 323 • 💬 61 • ⏱️ 14:50 • 12h ago
 
 ---
 
