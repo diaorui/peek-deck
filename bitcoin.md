@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-02-07T06:03:49.196287+00:00'
+updated: '2026-02-07T07:09:02.669599+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
 - cryptocurrency
 - videos
-- social
 - news
+- social
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** February 07, 2026 at 06:03 UTC  
+**Last Updated:** February 07, 2026 at 07:09 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,33 +38,33 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $70,999.00
+### $68,552.27
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** +8.7%  
-**7d:** -7.9%  
-**30d:** -21.7%  
-**90d:** -33.3%  
-**1y:** -26.6%  
+**24h:** +5.3%  
+**7d:** -11.0%  
+**30d:** -24.3%  
+**90d:** -35.5%  
+**1y:** -29.0%  
 
 ---
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1419.60B
+**Market Cap:** $1376.86B
 Rank #1
 
 **Circulating Supply:** 19,985,390 BTC
 95.2% of max
 
 **All-Time High:** $126,080.00
--43.5%
+-45.7%
 
 **All-Time Low:** $67.81
-+104986.3%
++100938.2%
 
 ---
 
@@ -77,29 +77,15 @@ Rank #1
 
 ## Reddit: r/Bitcoin
 
-**[People who bought bitcoin at $61k yesterday](https://www.reddit.com/r/Bitcoin/comments/1qxw35n/people_who_bought_bitcoin_at_61k_yesterday/)**
-
-7h ago
-
----
-
-**[We are so back](https://www.reddit.com/r/Bitcoin/comments/1qxpeyz/we_are_so_back/)**
-
-11h ago
-
----
-
-**[$69,420](https://www.reddit.com/r/Bitcoin/comments/1qxpmac/69420/)**
-
-Yes I finally captured it!
-
-11h ago
-
----
-
 **[Look babe, bitcoin went up 9% today](https://www.reddit.com/r/Bitcoin/comments/1qy03oz/look_babe_bitcoin_went_up_9_today/)**
 
-4h ago
+5h ago
+
+---
+
+**[People who bought bitcoin at $61k yesterday](https://www.reddit.com/r/Bitcoin/comments/1qxw35n/people_who_bought_bitcoin_at_61k_yesterday/)**
+
+8h ago
 
 ---
 
@@ -107,7 +93,13 @@ Yes I finally captured it!
 
 I got paid today. I get paid every two weeks. I just spent my entire check on bitcoin again. Got it at 63-66ish I believe. I’ve been catching the falling knives. Bought at 80, 77, 73, 63. I am ready to catch the falling knife at 60, 50, 40, and 30. Last cycle I was scared. Uncertain. This cycle, once I saw 63k and my friends asking what was going on, I went UNCONSCIOUS. I automatically panic bought with my entire check. I didn’t think. Just did. And I will be continuing to throw every check in until 30k. I’m not going to wait for a lower price. Even though “we all know” it’s going below 60k, that didn’t stop me from lump summing the entire check at 63-66. I don’t care. I don’t care because US dollars do not matter. The only thing that matters is how much bitcoin you have. I love the bear because when we are at the bottom, it’s only the real ones left. The ones that actually understand. During the bull, this sub is filled with pure nonsense. I’m glad the bear is here so I can enjoy Bitcoin Reddit again. EDIT: I am VERY surprised to see the hate. Tourists must still be here. What happened to this sub?
 
-4h ago
+5h ago
+
+---
+
+**[We are so back](https://www.reddit.com/r/Bitcoin/comments/1qxpeyz/we_are_so_back/)**
+
+12h ago
 
 ---
 
@@ -115,13 +107,21 @@ I got paid today. I get paid every two weeks. I just spent my entire check on bi
 
 I’m in multiple investment groups with very sharp people, and the skepticism is louder than I’ve heard it in a long time. Even my resident conspiracy-theorist cousin has re-emerged with “proof.” Who knew This was exactly the sentiment we needed, when I thought I’d never again see prices at these levels 😂
 
-3h ago
+4h ago
+
+---
+
+**[$69,420](https://www.reddit.com/r/Bitcoin/comments/1qxpmac/69420/)**
+
+Yes I finally captured it!
+
+12h ago
 
 ---
 
 **[Thats the spirit](https://www.reddit.com/r/Bitcoin/comments/1qxfq4n/thats_the_spirit/)**
 
-18h ago
+19h ago
 
 ---
 
@@ -129,13 +129,13 @@ I’m in multiple investment groups with very sharp people, and the skepticism i
 
 Thanks. God bless you all
 
-16h ago
+17h ago
 
 ---
 
 **[Don't buy bitcoin](https://www.reddit.com/r/Bitcoin/comments/1qxip3i/dont_buy_bitcoin/)**
 
-15h ago
+16h ago
 
 ---
 
@@ -143,7 +143,7 @@ Thanks. God bless you all
 
 I accumulated 1.18 more and bought a total of 1.60 BTC today. I had been patiently waiting for a pullback in the $66,000–$70,000 range, and the opportunity finally presented itself. If the market corrects further, I’m prepared to add more around the $53,000 level as well. This is a personal, well-considered decision aligned with my financial position. Even in an extreme downside scenario, it would not materially impact me. I’m not recommending this to anyone—cryptocurrency remains highly volatile and risky. This approach is only suitable for those who can tolerate significant risk and are financially comfortable even in the event of a loss. Despite widespread bearish predictions ranging from $16K to $10K, I’m sticking to my own strategy and long-term conviction. Having already achieved returns far exceeding my current investment through futures and forex, I’m comfortable taking this calculated exposure. Staying disciplined, focused, and patient. Good luck to everyone.
 
-16h ago
+17h ago
 
 ---
 
@@ -163,35 +163,27 @@ ABC7 Los Angeles • 1d ago
 
 Cryptocurrency transactions are often thought to be anonymous and untraceable. That's a misconception, experts tell CBS News.
 
-cbsnews.com • 7h ago
+cbsnews.com • 8h ago
 
 ---
 
 **[The Kidnappers Of Savannah Guthrie's Mom Want Bitcoin—But It’s Not As Anonymous As Many Think](https://www.forbes.com/sites/martinadilicosa/2026/02/06/the-kidnappers-of-savannah-guthries-mom-want-bitcoin-but-its-not-as-anonymous-as-many-think/)**
 
-Forbes • 9h ago
+Forbes • 10h ago
 
 ---
 
-**[Bitcoin price climbs Friday, but can it continue? Experts are skeptical.](https://mashable.com/article/will-bitcoin-cryptocurrency-continue-to-rebound-after-friday-2-6-2026)**
+**[Prediction: Bitcoin Will Be Worth $850,000 in 10 Years](https://finance.yahoo.com/news/prediction-bitcoin-worth-850-000-053500983.html)**
 
-We explore the latest ups and downs (mostly downs) in the crypto market.
+Hitting this mark implies lower returns going forward, which is a reasonable expectation.
 
-Mashable • 9h ago
-
----
-
-**[How Bitcoin’s Volatility Is Testing Crypto’s Appeal](https://www.bloomberg.com/news/articles/2026-02-06/bitcoin-selloff-explained-what-triggered-the-crypto-selloff-and-what-comes-next)**
-
-bloomberg.com • 8h ago
+Yahoo Finance • 1h ago
 
 ---
 
-**[South Korean Crypto Exchange Accidentally Gave Away $95 Billion in Bitcoin](https://finance.yahoo.com/news/south-korean-crypto-exchange-accidentally-174618936.html)**
+**[Crypto firm accidentally sends $44 billion in bitcoins to users](https://www.reuters.com/world/asia-pacific/crypto-firm-accidentally-sends-44-billion-bitcoins-users-2026-02-07/)**
 
-The error was quickly corrected, but not before Bithumb users sold off billions in Bitcoin, temporarily crashing its listed price.
-
-Yahoo Finance • 12h ago
+Reuters • 4h ago
 
 ---
 
@@ -199,29 +191,39 @@ Yahoo Finance • 12h ago
 
 Some recipients reportedly sold the coins before the exchange's "internal control system and promptly restricted transactions."
 
-The Block • 14h ago
+The Block • 15h ago
 
 ---
 
-**[Bithumb Accidentally Sends Large Amounts of Bitcoin to Users, Triggers Price Crash Amid Market Selloff](https://bitcoinmagazine.com/news/bithumb-accidentally-sends-bitcoin-users)**
+**[Crypto firm accidentally sends $40 bn in bitcoin to users](https://finance.yahoo.com/news/crypto-firm-accidentally-sends-40-055054321.html)**
 
-Bithumb reportedly made a mistake that led to the accidental deposit of large amounts of Bitcoin to various users.
+A South Korean cryptocurrency exchange apologised on Saturday after mistakenly transferring more than $40 billion worth of bitcoin to users, which briefly prompted a selloff on the platform.Bithumb said it accidentally sent 620,000 bitcoins, currently worth more than $40 billion, and blocked trading and withdrawals for the 695 affected users within 35 minutes after the error occurred on Friday.
 
-Bitcoin Magazine • 13h ago
-
----
-
-**[Your bitcoin investment may have been based on an illusion](https://www.marketwatch.com/story/your-bitcoin-investment-may-have-been-based-on-an-illusion-de2e3fad?gaa_at=eafs&gaa_n=AWEtsqeMd4MTBoKGOFpCLYuevyVTAvVD4Zojb6gnCgiabt2ThX7G1-Zj0RCL&gaa_ts=6986d08b&gaa_sig=nFSCH7BYhS3gNMoZe1mUw-qWxh8Hoj5Lr_FTt3TsudGgXyahQUZLaRK-bVaFa30BzrEXfxFkCsGHdv7Z6THYlA%3D%3D)**
-
-MarketWatch • 11h ago
+Yahoo Finance • 1h ago
 
 ---
 
-**[Bitcoin whales and ETFs are baling out of the market; UBS warns: ‘Crypto is not an asset’](https://finance.yahoo.com/news/bitcoin-whales-etfs-baling-market-115027199.html)**
+**[Bitcoin price climbs Friday, but can it continue? Experts are skeptical.](https://mashable.com/article/will-bitcoin-cryptocurrency-continue-to-rebound-after-friday-2-6-2026)**
+
+We explore the latest ups and downs (mostly downs) in the crypto market.
+
+Mashable • 1d ago
+
+---
+
+**[Bitcoin whales and ETFs are baling out of the market; UBS warns: ‘Crypto is not an asset’](https://fortune.com/2026/02/06/bitcoin-price-whales-etf-baling-out-ubs-crypto-is-not-an-asset/)**
 
 “We see few bullish indicators that suggest we may be approaching the bottom,” Jefferies analyst Andrew Moss says.
 
-Yahoo Finance • 18h ago
+Fortune • 19h ago
+
+---
+
+**[Michael Saylor Under Fire After Claiming Bitcoin Will Surge To $10M Tomorrow If ‘People Agreed With Him'](https://finance.yahoo.com/news/michael-saylor-under-fire-claiming-120215693.html)**
+
+Michael Saylor’s $10 million Bitcoin claim sparks backlash. It comes as Strategy’s losses deepen as Bitcoin price slides. Whether Saylor will sell Bitcoin remains possible. ...
+
+Yahoo Finance • 1d ago
 
 ---
 
@@ -313,7 +315,17 @@ Take your personal data back with Incogni! Use code GRAHAM at the link below and
 
 📺 Graham Stephan
 
-👁️ 531K • 👍 19K • 💬 7K • ⏱️ 16:11 • 1d ago
+👁️ 538K • 👍 19K • 💬 6K • ⏱️ 16:11 • 1d ago
+
+---
+
+**[Is This The END Of Bitcoin?](https://www.youtube.com/watch?v=P3ZnGfRADcA)**
+
+Bitcoin has been in a free-fall the past few months. At one point yesterday, it had fallen 50% from all-time highs. Everyone is ...
+
+📺 From The Desk Of Anthony Pompliano
+
+👁️ 24K • 👍 1K • 💬 157 • ⏱️ 9:43 • 9h ago
 
 ---
 
@@ -323,27 +335,7 @@ CNBC's “Closing Bell Overtime” team discusses cryptocurrencies, bitcoin's vo
 
 📺 CNBC Television
 
-👁️ 17K • 👍 187 • 💬 160 • ⏱️ 4:14 • 8h ago
-
----
-
-**[🚨 BTC &amp; ETH: THIS IS IT!!!! ITS TIME!!!!!](https://www.youtube.com/watch?v=8QI8ukpRpEI)**
-
-One of the biggest crypto crashes in history! Here is what happened, why and my plan going further. ---------- LIVE VIRTUAL ...
-
-📺 Thomas Kralow
-
-👁️ 26K • 👍 1K • 💬 107 • ⏱️ 11:51 • 16h ago
-
----
-
-**[Is Bitcoin Dead?](https://www.youtube.com/watch?v=X8IBAatr0Q0)**
-
-Bitcoin didn't die when the price crashed. What died is the illusion that money ever worked the way we were told. This breakdown ...
-
-📺 Simply Bitcoin
-
-👁️ 5K • 👍 629 • 💬 112 • ⏱️ 13:18 • 5h ago
+👁️ 21K • 👍 219 • 💬 154 • ⏱️ 4:14 • 9h ago
 
 ---
 
@@ -353,37 +345,17 @@ LIMITED TIME: ✓ Bitunix (no kyc, $10k bonus): https://www.bitunix.com/register
 
 📺 Altcoin Daily
 
-👁️ 13K • 👍 384 • 💬 67 • ⏱️ 1:10 • 16h ago
+👁️ 14K • 👍 400 • 💬 44 • ⏱️ 1:10 • 17h ago
 
 ---
 
-**[Samson Mow On Why Bitcoin Keeps Falling and When the Rebound May Come](https://www.youtube.com/watch?v=5VaqkszkWp8)**
+**[🚨 BTC &amp; ETH: THIS IS IT!!!! ITS TIME!!!!!](https://www.youtube.com/watch?v=8QI8ukpRpEI)**
 
-In this interview, Bitcoin OG Samson Mow shares his view on why Bitcoin keeps falling, what's driving recent market sell-offs, and ...
+One of the biggest crypto crashes in history! Here is what happened, why and my plan going further. ---------- LIVE VIRTUAL ...
 
-📺 Cointelegraph
+📺 Thomas Kralow
 
-👁️ 15K • 👍 481 • 💬 96 • ⏱️ 19:09 • 13h ago
-
----
-
-**[🚨 CRYPTO CRASH OVER?! Updated Bitcoin Price Prediction!](https://www.youtube.com/watch?v=Fm2FbYpc1vQ)**
-
-CRYPTO CRASH OVER?! Updated Bitcoin Price Prediction! Is the crypto crash finally over? I'm sharing my updated Bitcoin price ...
-
-📺 Tim Warren
-
-👁️ 7K • 👍 511 • 💬 166 • ⏱️ 10:33 • 12h ago
-
----
-
-**[I sold all my crypto except BTC and ETH #shorts](https://www.youtube.com/watch?v=n04GsxMFzCU)**
-
-If you're Ethereum, Bitcoin, or any digital payment systems, if you don't have power, you got nothing. What I did recently is I sold ...
-
-📺 Kevin O'Leary
-
-👁️ 5K • 👍 173 • 💬 22 • ⏱️ 0:57 • 6h ago
+👁️ 27K • 👍 1K • 💬 79 • ⏱️ 11:51 • 18h ago
 
 ---
 
@@ -393,15 +365,47 @@ Bitcoin #Crypto #Finance Bitcoin's sudden collapse may have come from a hidden s
 
 📺 The Wolf Of All Streets
 
-👁️ 40K • 👍 2K • 💬 458 • ⏱️ 24:28 • 15h ago
+👁️ 41K • 👍 2K • 💬 437 • ⏱️ 24:28 • 16h ago
 
 ---
 
-**[Short term vs Long term investments. #icebergandco #jeweler #crypto #watches #bitcoin](https://www.youtube.com/watch?v=yvmYt4UYE_Q)**
+**[Samson Mow On Why Bitcoin Keeps Falling and When the Rebound May Come](https://www.youtube.com/watch?v=5VaqkszkWp8)**
 
-📺 Moshe Iceberg
+In this interview, Bitcoin OG Samson Mow shares his view on why Bitcoin keeps falling, what's driving recent market sell-offs, and ...
 
-👁️ 653 • 👍 18 • ⏱️ 1:00 • 10h ago
+📺 Cointelegraph
+
+👁️ 16K • 👍 508 • 💬 100 • ⏱️ 19:09 • 14h ago
+
+---
+
+**[Bitcoin Just Had a FLASH DUMP](https://www.youtube.com/watch?v=mizRhiz3S3U)**
+
+Make Free Predictions on *ClashPicks* ▻ https://www.clashpicks.com/ Follow ClashPicks' X ▻ https://x.com/ClashPicks ...
+
+📺 CryptosRUs
+
+👁️ 63K • 👍 2K • 💬 1K • ⏱️ 11:07 • 1d ago
+
+---
+
+**[XRP Did WHAT with Bitcoin?!😭 (The Dark Truth)](https://www.youtube.com/watch?v=ZscPGE0LpYc)**
+
+ツFollow me on My REAL Instagram @TradeshipUniversity and DM "CRYPTO" for Automated Trading!
+
+📺 Crypto Cam
+
+👁️ 72K • 👍 1K • 💬 71 • ⏱️ 0:27 • 2d ago
+
+---
+
+**[WARNING: BITCOIN COULD MAKE NEW LOWS SOON?!?](https://www.youtube.com/watch?v=55jNfDY2SoY)**
+
+The markets added $1.2 trillion in market cap today, now is this a good time to buy the dip or are we going to crash again? Here is ...
+
+📺 Ricky Gutierrez
+
+👁️ 7K • 👍 361 • 💬 151 • ⏱️ 12:15 • 6h ago
 
 ---
 
