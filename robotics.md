@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-02-07T07:51:48.672718+00:00'
+updated: '2026-02-07T08:34:03.861441+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- news
 - social
 - videos
+- news
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** February 07, 2026 at 07:51 UTC  
+**Last Updated:** February 07, 2026 at 08:34 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -36,7 +36,15 @@ Robotics research and industry news
 
 From CyberRobo on 𝕏: https://x.com/CyberRobooo/status/2019598569909743755
 
-21h ago
+22h ago
+
+---
+
+**[Birthday gift ideas for boyfriend (CS senior + humanoid robotics, practical not flashy)](https://www.reddit.com/r/robotics/comments/1qy80pk/birthday_gift_ideas_for_boyfriend_cs_senior/)**
+
+My boyfriend is a computer science major and is about to graduate. He’s really into robotics, especially humanoid robots, and he currently works in a research lab where they’re building a humanoid that can catch objects. Most of what I see him doing is simulation and coding work on his computer. Last year I got him an Arduino kit, and he already has a toolkit, but he doesn’t really use either one much on his own (as far as I see). He’s pretty thrifty and values practicality over “cool” gadgets. For context, he uses a Mac and has a portable monitor that fits in his backpack. He doesn’t currently use an external keyboard or mouse, but I don’t think he cares much about those. I want to get him something he’ll genuinely use in his future work. Since he mostly works in teams through his lab/club (not solo at-home build projects), I’m not looking for another kit. Any gift ideas from people in CS/robotics, or partners of people in this field, that are truly useful and not gimmicky? Thank you!!
+
+36m ago
 
 ---
 
@@ -44,7 +52,7 @@ From CyberRobo on 𝕏: https://x.com/CyberRobooo/status/2019598569909743755
 
 Just pushed an update to casadi-on-gpu that lets you generate CUDA kernels directly from CasADi and call them from C++, PyTorch, or CuPy. Useful for MPC, sampling, system ID, and robotics pipelines at scale.
 
-7h ago
+8h ago
 
 ---
 
@@ -66,7 +74,7 @@ Hey everyone, I'm working with an MKS ODrive Mini (firmware v0.5.1, based on ODr
 
 Hello everyone! Recently I tried to test the SmolVLA model from a paper that HuggingFace published, that uses relatively small VLA model for Imitation Learning on a SO-101 arm. They have a library called LeRobot that has a lot of stuff to handle robots. First I tried to run a pretrained model, which didn't work. Then I tried finetuning the model on a dataset that I collected. I gradually moved from 30 episodes to 120 with a simple task of picking up a cube and putting it in the designated place. The robot still can't solve the task at all and frankly does not improve with the increase in data amount. So my question is the following: have anybody experimented with LeRobot + smolvla + SO-101? What is your experience? Did you manage to run it? Basically, how much more time can I expect to sink into this or should I switch to another model, or from a robot to a simulator first, or something else?
 
-15h ago
+16h ago
 
 ---
 
@@ -74,7 +82,7 @@ Hello everyone! Recently I tried to test the SmolVLA model from a paper that Hug
 
 Cartwheel Robotics shutting down is a reminder of how misaligned capital can be. Great teams struggle for funding while massive checks keep flowing elsewhere. Scott’s advice hits home: “No money is better than the wrong money.” https://preview.redd.it/ov7omrf40vhg1.png?width=716&format=png&auto=webp&s=b0ce7c7ceaa4607cfdc5de89775cfcddf883c3fe
 
-20h ago
+21h ago
 
 ---
 
@@ -98,21 +106,21 @@ Hey everyone — I’m a CS student working on an open-source tool called PF Gat
 
 ROS News for the Week of February 2nd, 2026            Big news, ROSCon Croatia is go! The event is scheduled for late March. Reach out to @destogl for more information. Our friends at InOrbit have an event tonight in Mountain view and our SG ROS Meetup will happen on the 10th. Towards the end of the month we have a very special joint PX4 / ROS By-The-Bay Meetup sheduled.             URDF Kitchen is a GUI-based tool that allows you to load mesh files for robot parts, mark connection points, and ...
 
-🔗 [Open Robotics Discourse](https://discourse.openrobotics.org/t/ros-news-for-the-week-of-february-2nd-2026/52379) • 11h ago
-
----
-
-**[Humanoid Robotics Market in 2026 Transformative Trends and Technological Advancements](https://www.reddit.com/r/robotics/comments/1qxe7rq/humanoid_robotics_market_in_2026_transformative/)**
-
-A new 2026 market report highlights a massive shift toward mass production, led by giants like Tesla (aiming for 1 million Optimus units), Boston Dynamics, and Figure AI. From logistics and healthcare to customer-facing retail, general-purpose humanoids are becoming an operational reality.
-
-🔗 [GlobeNewswire News Room](https://www.globenewswire.com/news-release/2026/02/04/3232234/0/en/Humanoid-Robotics-Market-in-2026-Transformative-Trends-and-Technological-Advancements.html) • 21h ago
+🔗 [Open Robotics Discourse](https://discourse.openrobotics.org/t/ros-news-for-the-week-of-february-2nd-2026/52379) • 12h ago
 
 ---
 
 ---
 
 ## Google News: "robotics"
+
+**[ETM brings its transverse flux motor technology to robotics](https://www.therobotreport.com/etm-brings-its-transverse-flux-motor-technology-to-robotics/)**
+
+ETM said its TFM technology enables OEMs to simplify mechanical designs, reduce costs, and achieve performance benchmarks.
+
+The Robot Report • 2d ago
+
+---
 
 **[China is running the EV playbook on humanoid robots — and it’s working](https://restofworld.org/2026/china-humanoid-robots-unitree-agibot-tesla-optimus/)**
 
@@ -128,19 +136,11 @@ Electrek • 19h ago
 
 ---
 
-**[I'm a 25-year-old founder who loves robots but too many humanoids are militant and creepy-looking. Things need to change—just look at Elon Musk](https://fortune.com/2026/02/05/25-year-old-robotics-founder-says-too-many-creepy-militant-look-at-elon-musk/)**
+**['Biomimetic AI Robot' Debuts In China (And It's As Creepy As It Sounds)](https://www.slashgear.com/2094573/biomimetic-ai-robot-moya-china-reveal/)**
 
-Who’s raising our robots? Teaching social norms in the age of humanoid robots.
+Moya, DroidUp’s new biomimetic robot looks and feels uncannily human, with warm skin and subtle facial expressions, making it as creepy as it is advanced.
 
-Fortune • 1d ago
-
----
-
-**[ETM brings its transverse flux motor technology to robotics](https://www.therobotreport.com/etm-brings-its-transverse-flux-motor-technology-to-robotics/)**
-
-ETM said its TFM technology enables OEMs to simplify mechanical designs, reduce costs, and achieve performance benchmarks.
-
-The Robot Report • 2d ago
+SlashGear • 7h ago
 
 ---
 
@@ -156,15 +156,7 @@ Supply Chain Dive • 1d ago
 
 At its new Stone Mountain, Georgia, facility, Roomba-like robots shuffle between stacks, another adds shipping labels while another arranges packages in pallets
 
-The Guardian • 19h ago
-
----
-
-**["Robots Need Your Body": New Site Lets AI Rent Human Labour](https://www.ndtv.com/feature/robots-need-your-body-new-site-lets-ai-rent-human-labour-10960601)**
-
-Rentahuman.ai is a new marketplace where AI software acts as the employer, hiring humans to perform physical "real-world" tasks, effectively turning people into an on-demand service layer for autonomous agents.
-
-NDTV • 17h ago
+The Guardian • 20h ago
 
 ---
 
@@ -176,6 +168,14 @@ BBC • 1d ago
 
 ---
 
+**[Soft robots can now be 3D printed to move exactly as designed](https://interestingengineering.com/ai-robotics/harvard-3d-printing-soft-robots-shape-morphing)**
+
+Harvard engineers 3D print soft robots with built-in air channels that bend and change shape predictably when inflated.
+
+Interesting Engineering • 12h ago
+
+---
+
 **[Apple Teaching Swift and Robotics Across Its India Supply Chain](https://www.macrumors.com/2026/02/04/apple-teaching-swift-and-robotics-in-india/)**
 
 Apple today announced a new Education Hub in Bengaluru as part of an expanded effort to provide technical training and skills development for employees across its supply chain in India. Apple said the new Apple Education Hub in Bengaluru will serve as a centralized training and coordination facility for supplier employees in India, marking the company's first education hub of its kind in the country.
@@ -184,11 +184,9 @@ MacRumors • 2d ago
 
 ---
 
-**[Soft robots can now be 3D printed to move exactly as designed](https://interestingengineering.com/ai-robotics/harvard-3d-printing-soft-robots-shape-morphing)**
+**[Sam Altman On Elon Musk, Donald Trump, Robotics, Fatherhood And More](https://www.forbes.com/sites/richardnieva/2026/02/04/sam-altman-on-elon-musk-donald-trump-robotics-fatherhood-and-more/)**
 
-Harvard engineers 3D print soft robots with built-in air channels that bend and change shape predictably when inflated.
-
-Interesting Engineering • 11h ago
+Forbes • 2d ago
 
 ---
 

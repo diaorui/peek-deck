@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-02-07T07:51:48.663202+00:00'
+updated: '2026-02-07T08:34:03.852319+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
+- cryptocurrency
+- videos
 - news
 - social
-- videos
-- cryptocurrency
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** February 07, 2026 at 07:51 UTC  
+**Last Updated:** February 07, 2026 at 08:34 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,17 +38,17 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $68,552.27
+### $68,481.98
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** +5.3%  
-**7d:** -11.0%  
-**30d:** -24.3%  
-**90d:** -35.5%  
-**1y:** -29.0%  
+**24h:** +4.2%  
+**7d:** -10.8%  
+**30d:** -24.2%  
+**90d:** -35.4%  
+**1y:** -28.9%  
 
 ---
 
@@ -79,13 +79,13 @@ Rank #1
 
 **[Look babe, bitcoin went up 9% today](https://www.reddit.com/r/Bitcoin/comments/1qy03oz/look_babe_bitcoin_went_up_9_today/)**
 
-6h ago
+7h ago
 
 ---
 
 **[People who bought bitcoin at $61k yesterday](https://www.reddit.com/r/Bitcoin/comments/1qxw35n/people_who_bought_bitcoin_at_61k_yesterday/)**
 
-9h ago
+10h ago
 
 ---
 
@@ -99,7 +99,7 @@ I got paid today. I get paid every two weeks. I just spent my entire check on bi
 
 **[We are so back](https://www.reddit.com/r/Bitcoin/comments/1qxpeyz/we_are_so_back/)**
 
-13h ago
+14h ago
 
 ---
 
@@ -115,13 +115,21 @@ I’m in multiple investment groups with very sharp people, and the skepticism i
 
 Yes I finally captured it!
 
-13h ago
+14h ago
 
 ---
 
 **[Thats the spirit](https://www.reddit.com/r/Bitcoin/comments/1qxfq4n/thats_the_spirit/)**
 
-19h ago
+20h ago
+
+---
+
+**[Are you scared to hodl ?](https://www.reddit.com/r/Bitcoin/comments/1qy6el1/are_you_scared_to_hodl/)**
+
+​
+
+2h ago
 
 ---
 
@@ -129,19 +137,11 @@ Yes I finally captured it!
 
 Thanks. God bless you all
 
-18h ago
+19h ago
 
 ---
 
 **[Don't buy bitcoin](https://www.reddit.com/r/Bitcoin/comments/1qxip3i/dont_buy_bitcoin/)**
-
-17h ago
-
----
-
-**[Bought 28k worth at 69k and 78k worth at 67k.](https://www.reddit.com/r/Bitcoin/comments/1qxhmiq/bought_28k_worth_at_69k_and_78k_worth_at_67k/)**
-
-I accumulated 1.18 more and bought a total of 1.60 BTC today. I had been patiently waiting for a pullback in the $66,000–$70,000 range, and the opportunity finally presented itself. If the market corrects further, I’m prepared to add more around the $53,000 level as well. This is a personal, well-considered decision aligned with my financial position. Even in an extreme downside scenario, it would not materially impact me. I’m not recommending this to anyone—cryptocurrency remains highly volatile and risky. This approach is only suitable for those who can tolerate significant risk and are financially comfortable even in the event of a loss. Despite widespread bearish predictions ranging from $16K to $10K, I’m sticking to my own strategy and long-term conviction. Having already achieved returns far exceeding my current investment through futures and forex, I’m comfortable taking this calculated exposure. Staying disciplined, focused, and patient. Good luck to everyone.
 
 18h ago
 
@@ -151,63 +151,17 @@ I accumulated 1.18 more and bought a total of 1.60 BTC today. I had been patient
 
 ## Google News: "bitcoin"
 
-**[Nancy Guthrie latest: Derrick Callella of Torrance, California arrested for demanding Bitcoin ransom from family](https://abc7.com/post/nancy-guthrie-latest-derrick-callella-california-arrested-demanding-bitcoin-ransom-family/18549247/)**
-
-The man allegedly used an app to create a fake phone number to text the family, according to a federal complaint.
-
-ABC7 Los Angeles • 1d ago
-
----
-
-**[Purported ransom note for Savannah Guthrie's mom demanded payment in bitcoin. Could it be tracked?](https://www.cbsnews.com/news/savannah-guthrie-mom-nancy-ransom-note-bitcoin-what-to-know/)**
-
-Cryptocurrency transactions are often thought to be anonymous and untraceable. That's a misconception, experts tell CBS News.
-
-cbsnews.com • 9h ago
-
----
-
-**[The Kidnappers Of Savannah Guthrie's Mom Want Bitcoin—But It’s Not As Anonymous As Many Think](https://www.forbes.com/sites/martinadilicosa/2026/02/06/the-kidnappers-of-savannah-guthries-mom-want-bitcoin-but-its-not-as-anonymous-as-many-think/)**
-
-Forbes • 11h ago
-
----
-
-**[Prediction: Bitcoin Will Be Worth $850,000 in 10 Years](https://finance.yahoo.com/news/prediction-bitcoin-worth-850-000-053500983.html)**
-
-Hitting this mark implies lower returns going forward, which is a reasonable expectation.
-
-Yahoo Finance • 2h ago
-
----
-
-**[Crypto firm accidentally sends $44 billion in bitcoins to users](https://www.reuters.com/world/asia-pacific/crypto-firm-accidentally-sends-44-billion-bitcoins-users-2026-02-07/)**
-
-Reuters • 4h ago
-
----
-
-**[Bithumb mistakenly sends bitcoin to users, causing 'temporarily fluctuation' in BTC price on exchange](https://www.theblock.co/post/388850/bithumb-mistakenly-sends-bitcoin-to-some-users-causing-temporarily-fluctuation-in-btc-price-on-exchange)**
-
-Some recipients reportedly sold the coins before the exchange's "internal control system and promptly restricted transactions."
-
-The Block • 16h ago
-
----
-
-**[Crypto firm accidentally sends $40 bn in bitcoin to users](https://finance.yahoo.com/news/crypto-firm-accidentally-sends-40-055054321.html)**
-
-A South Korean cryptocurrency exchange apologised on Saturday after mistakenly transferring more than $40 billion worth of bitcoin to users, which briefly prompted a selloff on the platform.Bithumb said it accidentally sent 620,000 bitcoins, currently worth more than $40 billion, and blocked trading and withdrawals for the 695 affected users within 35 minutes after the error occurred on Friday.
-
-Yahoo Finance • 2h ago
-
----
-
 **[Bitcoin price climbs Friday, but can it continue? Experts are skeptical.](https://mashable.com/article/will-bitcoin-cryptocurrency-continue-to-rebound-after-friday-2-6-2026)**
 
 We explore the latest ups and downs (mostly downs) in the crypto market.
 
 Mashable • 1d ago
+
+---
+
+**[The Kidnappers Of Savannah Guthrie's Mom Want Bitcoin—But It’s Not As Anonymous As Many Think](https://www.forbes.com/sites/martinadilicosa/2026/02/06/the-kidnappers-of-savannah-guthries-mom-want-bitcoin-but-its-not-as-anonymous-as-many-think/)**
+
+Forbes • 12h ago
 
 ---
 
@@ -219,11 +173,55 @@ Fortune • 20h ago
 
 ---
 
-**[Michael Saylor Under Fire After Claiming Bitcoin Will Surge To $10M Tomorrow If ‘People Agreed With Him'](https://finance.yahoo.com/news/michael-saylor-under-fire-claiming-120215693.html)**
+**[Your bitcoin investment may have been based on an illusion](https://www.marketwatch.com/story/your-bitcoin-investment-may-have-been-based-on-an-illusion-de2e3fad?gaa_at=eafs&gaa_n=AWEtsqfCBM2xTS8ottxkJ6hDO9VR3BuGxhWCeT9CdO97Pro1YLCF2aWXQyOI&gaa_ts=6986fc69&gaa_sig=kW1hPiQhDaAtkudBJ7sEgiNUKQT3X35XxyMNjEGb3s7n-kKteS4ThhHhzCyUVyNv_R54ztpncDm11CiRrFdRSg%3D%3D)**
 
-Michael Saylor’s $10 million Bitcoin claim sparks backlash. It comes as Strategy’s losses deepen as Bitcoin price slides. Whether Saylor will sell Bitcoin remains possible. ...
+MarketWatch • 14h ago
+
+---
+
+**[Robert Kiyosaki Sells Bitcoin and Gold as Crypto Market Loses $750B](https://finance.yahoo.com/news/robert-kiyosaki-sells-bitcoin-gold-082248681.html)**
+
+Veteran trader Robert Kiyosaki has revealed that he sold portions of his Bitcoin BTC $68 133 24h volatility: 0.1% Market cap: $1.36 T Vol. 24h: $161.99 B and gold holdings, despite previously making bullish predictions. The announcement comes as Bitcoin’s price continues to slide toward the $64,000 level. After sharing ...
 
 Yahoo Finance • 1d ago
+
+---
+
+**[Bitcoin Dive Puts Strategy Under Water, Facing Do-Or-Die Choice](https://www.investors.com/news/bitcoin-price-strategy-earnings-mstr-stock-convertible-debt/)**
+
+Investor's Business Daily • 1d ago
+
+---
+
+**[Strategy ($MSTR) Soars 25% as Bitcoin Rebounds](https://bitcoinmagazine.com/markets/strategy-soars-as-bitcoin-rebounds)**
+
+Strategy ($MSTR) surged sharply Friday, lifting more than 25% at times.
+
+Bitcoin Magazine • 14h ago
+
+---
+
+**[Strategy CEO: Bitcoin would need to plunge to $8,000 before balance sheet issues](https://www.theblock.co/post/388774/strategy-ceo-bitcoin-q4-earnings-call)**
+
+Executive Chairman Michael Saylor also addressed quantum computing concerns in bitcoin, framing them as 'horrible FUD.'
+
+The Block • 1d ago
+
+---
+
+**[South Korean Crypto Exchange Accidentally Gave Away $95 Billion in Bitcoin](https://finance.yahoo.com/news/south-korean-crypto-exchange-accidentally-174618936.html)**
+
+The error was quickly corrected, but not before Bithumb users sold off billions in Bitcoin, temporarily crashing its listed price.
+
+Yahoo Finance • 14h ago
+
+---
+
+**[Bithumb Accidentally Sends Large Amounts of Bitcoin to Users, Triggers Price Crash Amid Market Selloff](https://bitcoinmagazine.com/news/bithumb-accidentally-sends-bitcoin-users)**
+
+Bithumb reportedly made a mistake that led to the accidental deposit of large amounts of Bitcoin to various users.
+
+Bitcoin Magazine • 15h ago
 
 ---
 
@@ -297,11 +295,11 @@ Cryptocurrency markets fell as global equities and precious metals sold off whil
 
 ---
 
-**[Show HN: Lumenyx – Bitcoin scarcity and full EVM, CPU mining, zero premine](https://news.ycombinator.com/item?id=46836087)**
+**[Show HN: Bitcoin wallet on NXP SE050 secure element, Tor-only open source](https://news.ycombinator.com/item?id=46921951)**
 
-PoW + EVM cryptocurrency. 21M fixed supply, fair launch, no team, no foundation. Just code. - lumenyx-chain/lumenyx
+SE050 Hardware Bitcoin Wallet - Self-sovereign Bitcoin wallet powered by NXP SE050 secure element - 0xdeadbeefnetwork/sigil-web
 
-⬆️ 1 • 💬 0 • 6d ago • [GitHub](https://github.com/lumenyx-chain/lumenyx)
+⬆️ 2 • 💬 1 • 1h ago • [GitHub](https://github.com/0xdeadbeefnetwork/sigil-web)
 
 ---
 
@@ -325,7 +323,7 @@ Bitcoin has been in a free-fall the past few months. At one point yesterday, it 
 
 📺 From The Desk Of Anthony Pompliano
 
-👁️ 24K • 👍 1K • 💬 157 • ⏱️ 9:43 • 9h ago
+👁️ 24K • 👍 1K • 💬 157 • ⏱️ 9:43 • 10h ago
 
 ---
 
@@ -335,7 +333,7 @@ CNBC's “Closing Bell Overtime” team discusses cryptocurrencies, bitcoin's vo
 
 📺 CNBC Television
 
-👁️ 21K • 👍 219 • 💬 154 • ⏱️ 4:14 • 9h ago
+👁️ 21K • 👍 219 • 💬 154 • ⏱️ 4:14 • 10h ago
 
 ---
 
@@ -345,7 +343,7 @@ LIMITED TIME: ✓ Bitunix (no kyc, $10k bonus): https://www.bitunix.com/register
 
 📺 Altcoin Daily
 
-👁️ 14K • 👍 400 • 💬 44 • ⏱️ 1:10 • 17h ago
+👁️ 14K • 👍 400 • 💬 44 • ⏱️ 1:10 • 18h ago
 
 ---
 
@@ -355,7 +353,7 @@ One of the biggest crypto crashes in history! Here is what happened, why and my 
 
 📺 Thomas Kralow
 
-👁️ 27K • 👍 1K • 💬 79 • ⏱️ 11:51 • 18h ago
+👁️ 27K • 👍 1K • 💬 79 • ⏱️ 11:51 • 19h ago
 
 ---
 
@@ -365,7 +363,7 @@ Bitcoin #Crypto #Finance Bitcoin's sudden collapse may have come from a hidden s
 
 📺 The Wolf Of All Streets
 
-👁️ 41K • 👍 2K • 💬 437 • ⏱️ 24:28 • 17h ago
+👁️ 41K • 👍 2K • 💬 437 • ⏱️ 24:28 • 18h ago
 
 ---
 
@@ -405,7 +403,7 @@ The markets added $1.2 trillion in market cap today, now is this a good time to 
 
 📺 Ricky Gutierrez
 
-👁️ 7K • 👍 361 • 💬 151 • ⏱️ 12:15 • 7h ago
+👁️ 7K • 👍 361 • 💬 151 • ⏱️ 12:15 • 8h ago
 
 ---
 

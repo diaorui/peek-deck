@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-02-07T07:51:48.669416+00:00'
+updated: '2026-02-07T08:34:03.858243+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
+- cryptocurrency
+- videos
 - news
 - social
-- videos
-- cryptocurrency
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** February 07, 2026 at 07:51 UTC  
+**Last Updated:** February 07, 2026 at 08:34 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,11 +42,11 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** +8.7%  
-**7d:** -10.3%  
-**30d:** -34.1%  
-**90d:** -42.8%  
-**1y:** -22.8%  
+**24h:** +5.7%  
+**7d:** -10.7%  
+**30d:** -34.3%  
+**90d:** -43.1%  
+**1y:** -23.1%  
 
 ---
 
@@ -72,7 +72,7 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-1h ago
+2h ago
 
 ---
 
@@ -88,7 +88,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 Vitalik: role of L2s has changed, Hegotá upgrade headliner proposals, Lido v3 live
 
-🔗 [Ethereal news](https://ethereal.news/ethereal-news-weekly-10/) • 18h ago
+🔗 [Ethereal news](https://ethereal.news/ethereal-news-weekly-10/) • 19h ago
 
 ---
 
@@ -96,7 +96,7 @@ Vitalik: role of L2s has changed, Hegotá upgrade headliner proposals, Lido v3 l
 
 im jef, and im honestly just starting to get into crypto, trying to understand how all of this works and whether it’s something i could realistically learn and grow into over time. i don’t come from money, im just a student juggling school, responsibilities, and everyday expenses, so I don’t have much to risk or experiment with, which is why im looking for advice more than anything else. i’ve been reading, watching, and asking around, but it still feels overwhelming, and i know im inexperienced and probably missing a lot of important basics. At the same time, a part of me thinks this could be a real opportunity if i approach it carefully, stay patient, and learn from people who actually know what they’re doing. im not chasing quick profits or hype, i just want guidance on how to start smart, avoid obvious mistakes, and figure out if someone like me, broke, still studying, and learning as i go, i might have a genuine chance at building something small but meaningful through crypto in the long run. could anyone give advise?
 
-3h ago
+4h ago
 
 ---
 
@@ -104,7 +104,7 @@ im jef, and im honestly just starting to get into crypto, trying to understand h
 
 [ Removed by Reddit on account of violating the content policy. ]
 
-14h ago
+15h ago
 
 ---
 
@@ -150,6 +150,14 @@ Fellow Dudes! Does any one know when exactly real world assets such as property 
 
 ## Google News: "ethereum"
 
+**[ENS Labs scraps Namechain L2, shifts ENSv2 fully to Ethereum mainnet](https://www.theblock.co/post/388932/ens-labs-scraps-namechain-l2-shifts-ensv2-fully-ethereum-mainnet)**
+
+ENS Labs is canceling the launch of the Namechain Layer 2, which began development in 2024 to support the forthcoming ENSv2 update.
+
+The Block • 10h ago
+
+---
+
 **[How cryptocurrency’s second largest coin missed out on the industry’s boom](https://www.theguardian.com/technology/2026/feb/05/cryptocurrency-ethereum-bitcoin-industry)**
 
 A leaked pitch to reshape Ethereum’s leadership exposed deep divisions over politics, power and Ether’s static price
@@ -158,19 +166,11 @@ The Guardian • 1d ago
 
 ---
 
-**[How Buying Ethereum Today Could 10x Your Net Worth](https://www.fool.com/investing/2026/02/05/how-buying-ethereum-today-could-10x-your-net-worth/)**
+**[How Buying Ethereum Today Could 10x Your Net Worth](https://www.nasdaq.com/articles/how-buying-ethereum-today-could-10x-your-net-worth)**
 
-The world's second-largest cryptocurrency still has a bright future.
+Key PointsEther’s price has plunged in 2026.
 
-The Motley Fool • 1d ago
-
----
-
-**[ENS Labs scraps Namechain L2, shifts ENSv2 fully to Ethereum mainnet](https://www.theblock.co/post/388932/ens-labs-scraps-namechain-l2-shifts-ensv2-fully-ethereum-mainnet)**
-
-ENS Labs is canceling the launch of the Namechain Layer 2, which began development in 2024 to support the forthcoming ENSv2 update.
-
-The Block • 9h ago
+Nasdaq • 1d ago
 
 ---
 
@@ -196,31 +196,33 @@ Yahoo Finance • 2d ago
 
 ---
 
-**[Bitcoin, XRP, Ethereum Drop. Why Cryptos Are Under Pressure Today.](https://www.barrons.com/articles/bitcoin-xrp-ethereum-cryptos-gold-9051820f?gaa_at=eafs&gaa_n=AWEtsqcNSwx0VbSAhPPcw2R2vsf24IYn4FNj3eagv-ZHcWR17zSKKbR-iDqV&gaa_ts=6986e87c&gaa_sig=Gf22QnbAK4zm7GlQAfrk9Dy5zf-gD1KpSxJ3K-OBiCFudUI2Dmj2edjv8L-pHKjkn6TYW2BpGxSJk7T15ntcxA%3D%3D)**
+**[Bitcoin, XRP, Ethereum Drop. Why Cryptos Are Under Pressure Today.](https://www.barrons.com/articles/bitcoin-xrp-ethereum-cryptos-gold-9051820f?gaa_at=eafs&gaa_n=AWEtsqdxK3NtdBfU5BxXMetqQwlAc_wxWl5IRBAMpdfRL52qafo1HP1V4OSC&gaa_ts=6986fc6b&gaa_sig=jVuwJES-sZpiIGyG6EkqD2deEs_I2ffoYdBHTAdY1VPREycVAWg-7wIanc8JgHQGSNOjSxZ5D7vluWiT0TyfQA%3D%3D)**
 
 Barron's • 2d ago
 
 ---
 
-**[XRP Leads Crypto Losses as Ethereum, Dogecoin Prices Crater Alongside Bitcoin](https://finance.yahoo.com/news/xrp-leads-crypto-losses-ethereum-163551506.html)**
+**[Here's What Needs to Happen for Ethereum to Hit $5,000 This Year](https://www.fool.com/investing/2026/02/05/heres-what-needs-to-happen-for-ethereum-to-hit-500/)**
 
-XRP crashes 15% as crypto markets plunge into "Extreme Fear" territory, wiping out over $1.4 billion in value for traders.
+Will 2026 be the year investors see the price they've dreamed of?
 
-Yahoo Finance • 1d ago
-
----
-
-**[Why Crypto Is Going Down? XRP Price, Bitcoin, Ethereum and Dogecoin Moves Today to 2026 Lows](https://www.financemagnates.com/trending/why-crypto-is-going-down-xrp-price-bitcoin-ethereum-and-dogecoin-moves-today-to-2026-lows/)**
-
-Why crypto is falling? Bitcoin price tests $70K, XRP below $1.40, ETH at $2,068. $775M liquidated as Fed hawkishness and institutional outflows hammer markets.
-
-financemagnates.com • 1d ago
+The Motley Fool • 1d ago
 
 ---
 
-**[Ethereum Price Prediction: Alarming Bearish Signals Suggest ETH Could Plunge Below $2,000](https://www.binance.com/en/square/post/35999941537161)**
+**[Ethereum at 3-year low against Bitcoin? – History says THIS comes next…](https://ambcrypto.com/ethereum-at-3-year-low-against-bitcoin-history-says-this-comes-next/)**
 
-Binance • 2d ago
+Buy the fear or sell the fear? Inside Ethereum trader’s dilemma.
+
+AMBCrypto • 1d ago
+
+---
+
+**[Bitcoin, Ethereum continue plunge — and experts warn of more pain to come](https://www.dlnews.com/articles/markets/bitcoin-and-ethereum-could-drop-further-experts-say/)**
+
+Bitcoin and Ethereum plunged further on Tuesday.  The two biggest digital coins are now well below their all-time highs.  Experts have signalled that the crypto market could continue to drop.
+
+dlnews.com • 3d ago
 
 ---
 
@@ -234,7 +236,7 @@ One of the biggest crypto crashes in history! Here is what happened, why and my 
 
 📺 Thomas Kralow
 
-👁️ 27K • 👍 1K • 💬 79 • ⏱️ 11:51 • 18h ago
+👁️ 27K • 👍 1K • 💬 79 • ⏱️ 11:51 • 19h ago
 
 ---
 
@@ -244,7 +246,7 @@ Uhh... so... is anyone else getting that strange feeling that something big is a
 
 📺 Money Rules - Investing Tips 
 
-👁️ 11K • 👍 1K • 💬 291 • ⏱️ 13:13 • 16h ago
+👁️ 11K • 👍 1K • 💬 291 • ⏱️ 13:13 • 17h ago
 
 ---
 
@@ -264,7 +266,7 @@ Tom Lee, Fundstrat, joins 'Closing Bell' to discuss the state of crypto markets,
 
 📺 CNBC Television
 
-👁️ 38K • 👍 528 • 💬 288 • ⏱️ 3:53 • 10h ago
+👁️ 38K • 👍 528 • 💬 288 • ⏱️ 3:53 • 11h ago
 
 ---
 
@@ -294,7 +296,7 @@ BITCOIN CRASH OVER: My $5 Million Trading Strategy!!! - Bitcoin News Today, Ethe
 
 📺 Crypto World
 
-👁️ 7K • 👍 330 • 💬 107 • ⏱️ 22:22 • 8h ago
+👁️ 7K • 👍 330 • 💬 107 • ⏱️ 22:22 • 9h ago
 
 ---
 
