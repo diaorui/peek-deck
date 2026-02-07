@@ -3,14 +3,14 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-02-07T19:24:47.550632+00:00'
+updated: '2026-02-07T19:45:25.464722+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- news
-- cryptocurrency
 - social
+- cryptocurrency
+- news
 - videos
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** February 07, 2026 at 19:24 UTC  
+**Last Updated:** February 07, 2026 at 19:45 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,11 +42,11 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** +1.5%  
-**7d:** -7.6%  
-**30d:** -32.0%  
-**90d:** -41.1%  
-**1y:** -20.4%  
+**24h:** +1.4%  
+**7d:** -8.1%  
+**30d:** -32.4%  
+**90d:** -41.4%  
+**1y:** -20.8%  
 
 ---
 
@@ -73,6 +73,12 @@ No max supply
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
 13h ago
+
+---
+
+**[We're building an open-source archive of the earliest Ethereum smart contracts (2015-2017) — looking for contributors](https://www.reddit.com/r/ethereum/comments/1qymum3/were_building_an_opensource_archive_of_the/)**
+
+20m ago
 
 ---
 
@@ -138,14 +144,6 @@ https://etherscan.io/tx/0xaab90d00abf065e4158852a64c809b8921d109e997bd3790cb471a
 
 ---
 
-**[When will property be tokenizated and placed onto the Ethereum Blockchain??](https://www.reddit.com/r/ethereum/comments/1qw2vg9/when_will_property_be_tokenizated_and_placed_onto/)**
-
-Fellow Dudes! Does any one know when exactly real world assets such as property will be tokenizated and placed onto the Ethereum Blockchain?? and what countries have put in the necessary frame work to make this all legal and workable?? So that I could just buy up new property in a different country to me, then that property is turned into a ERC20 token kept in my wallet, and this is all recognised and legal and a financial product? also I know that the price of ETH has dropped heaps,.but this is when you buy more (not investment advice) 😑 cheers.
-
-2d ago
-
----
-
 ---
 
 ## Google News: "ethereum"
@@ -158,11 +156,25 @@ The Block • 21h ago
 
 ---
 
-**[How cryptocurrency’s second largest coin missed out on the industry’s boom](https://www.theguardian.com/technology/2026/feb/05/cryptocurrency-ethereum-bitcoin-industry)**
+**[Bitcoin, Ethereum Liquidations Hit $704M In 24 Hours—And $70,000 Could Break, Polymarket Predicts](https://finance.yahoo.com/news/bitcoin-ethereum-liquidations-hit-704m-120113179.html)**
 
-A leaked pitch to reshape Ethereum’s leadership exposed deep divisions over politics, power and Ether’s static price
+Bitcoin (CRYPTO: BTC) traders are bracing for more pain after liquidations reached $704 million in a single 24-hour period. The sharp sell-off has crypto investors turning to prediction markets for clues on where the bottom might be. What Polymarket Traders Are Predicting Polymarket is currently flashing warning signs for the immediate future. The “What price will Bitcoin hit in February?” market, which has already cleared $14 million in volume, now places a 56% probability on Bitcoin sliding to
 
-The Guardian • 2d ago
+Yahoo Finance • 2d ago
+
+---
+
+**[Bitcoin, XRP, Ethereum Drop. Why Cryptos Are Under Pressure Today.](https://www.barrons.com/articles/bitcoin-xrp-ethereum-cryptos-gold-9051820f?gaa_at=eafs&gaa_n=AWEtsqcQ68r4ekPSXDPUvq_UYr-ZQl5HHjenzcip7HvTfniOqkpLoUMfu7P9&gaa_ts=698799c1&gaa_sig=FIcnBLxSJxr1RLRC06rFRWaQFWikfSBaJkar1ZrqDLo7M-12oov7H10XW0ch6L5YSHrd1icluQJfeTHao6yfPg%3D%3D)**
+
+Barron's • 2d ago
+
+---
+
+**[Coinbase's Crypto-Backed Loans Notch Record Liquidations Amid Bitcoin, Ethereum Plunge](https://decrypt.co/357265/coinbases-loans-record-liquidations-bitcoin-ethereum-plunge)**
+
+Coinbase customers faced losses in fresh ways through the exchange’s crypto-backed lending product as Bitcoin and Ethereum tumbled this week.
+
+Decrypt • 1d ago
 
 ---
 
@@ -190,6 +202,14 @@ TipRanks • 2d ago
 
 ---
 
+**[How cryptocurrency’s second largest coin missed out on the industry’s boom](https://www.theguardian.com/technology/2026/feb/05/cryptocurrency-ethereum-bitcoin-industry)**
+
+A leaked pitch to reshape Ethereum’s leadership exposed deep divisions over politics, power and Ether’s static price
+
+The Guardian • 2d ago
+
+---
+
 **[How Buying Ethereum Today Could 10x Your Net Worth](https://www.nasdaq.com/articles/how-buying-ethereum-today-could-10x-your-net-worth)**
 
 Key PointsEther’s price has plunged in 2026.
@@ -198,31 +218,11 @@ Nasdaq • 1d ago
 
 ---
 
-**[Coinbase's Crypto-Backed Loans Notch Record Liquidations Amid Bitcoin, Ethereum Plunge](https://decrypt.co/357265/coinbases-loans-record-liquidations-bitcoin-ethereum-plunge)**
+**[Here's What Needs to Happen for Ethereum to Hit $5,000 This Year](https://www.fool.com/investing/2026/02/05/heres-what-needs-to-happen-for-ethereum-to-hit-500/)**
 
-Coinbase customers faced losses in fresh ways through the exchange’s crypto-backed lending product as Bitcoin and Ethereum tumbled this week.
+Will 2026 be the year investors see the price they've dreamed of?
 
-Decrypt • 1d ago
-
----
-
-**[Ethereum Price Prediction: Alarming Bearish Signals Suggest ETH Could Plunge Below $2,000](https://www.binance.com/en/square/post/35999941537161)**
-
-Binance • 3d ago
-
----
-
-**[Crypto prices on Friday: Bitcoin, Ethereum and more tick upward](https://mashable.com/article/crypto-bitcoin-ethereum-prices-tick-upward-friday-2-6-2026)**
-
-Prices are climbing back up after the biggest crypto crash since 2022.
-
-Mashable • 1d ago
-
----
-
-**[Bitcoin, XRP, Ethereum Drop. Why Cryptos Are Under Pressure Today.](https://www.barrons.com/articles/bitcoin-xrp-ethereum-cryptos-gold-9051820f?gaa_at=eafs&gaa_n=AWEtsqePlgleYRCA6AMYoYwR_2-JnkZPuIuqRSvzfIm1JZ39Egmt8dk6fXrZ&gaa_ts=698789de&gaa_sig=WHAVKhK40IviloesNbrmhyBOkZnD_KzfwufFEWRBkC623QjRafPqYYBwktG3bfnmpxVUkFIEoevBdCU-_tl0CQ%3D%3D)**
-
-Barron's • 2d ago
+The Motley Fool • 2d ago
 
 ---
 
@@ -286,7 +286,7 @@ This video provides a professional Elliott Wave and technical analysis of Ethere
 
 📺 More Crypto Online
 
-👁️ 3K • 👍 192 • 💬 14 • ⏱️ 4:02 • 18h ago
+👁️ 3K • 👍 192 • 💬 14 • ⏱️ 4:02 • 19h ago
 
 ---
 

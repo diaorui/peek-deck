@@ -3,14 +3,14 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-02-07T19:24:47.545327+00:00'
+updated: '2026-02-07T19:45:25.458614+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- news
-- cryptocurrency
 - social
+- cryptocurrency
+- news
 - videos
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** February 07, 2026 at 19:24 UTC  
+**Last Updated:** February 07, 2026 at 19:45 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,17 +38,17 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $69,508.59
+### $69,509.47
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** -1.7%  
-**7d:** -9.5%  
-**30d:** -23.1%  
-**90d:** -34.4%  
-**1y:** -27.9%  
+**24h:** -1.0%  
+**7d:** -9.8%  
+**30d:** -23.3%  
+**90d:** -34.6%  
+**1y:** -28.1%  
 
 ---
 
@@ -77,25 +77,33 @@ Rank #1
 
 ## Reddit: r/Bitcoin
 
+**[HODLing BTC](https://www.reddit.com/r/Bitcoin/comments/1qyk286/hodling_btc/)**
+
+HODL strong through the storms; the future rewards the patient. 🚀 🙌
+
+2h ago
+
+---
+
 **[Whales are accumulating](https://www.reddit.com/r/Bitcoin/comments/1qycpon/whales_are_accumulating/)**
 
 If you see blockchain activity whales are clearly accumulating taking BTC outside exchanges. It seems this is contrarian to people saying that BTC will bottom around 45k-55k. I believe (and hope) that bottom is in and the liquidation of this week has been a great opportunity to accumulate, decrease btc availability on exchanges and bring price to 100k +
 
-6h ago
+7h ago
 
 ---
 
 **[People who bought bitcoin at $61k yesterday](https://www.reddit.com/r/Bitcoin/comments/1qxw35n/people_who_bought_bitcoin_at_61k_yesterday/)**
 
-20h ago
+21h ago
 
 ---
 
-**[HODLing BTC](https://www.reddit.com/r/Bitcoin/comments/1qyk286/hodling_btc/)**
+**[My mom wants to buy Bitcoin after listening to me… and now I’m scared](https://www.reddit.com/r/Bitcoin/comments/1qyiloo/my_mom_wants_to_buy_bitcoin_after_listening_to_me/)**
 
-HODL strong through the storms; the future rewards the patient. 🚀 🙌
+My mother barely uses Facebook and has zero interest in technology or finance. Yet here we are: she asked me to help her buy Bitcoin. Over the past months, I’ve talked a lot about Bitcoin at home — why I believe in it, my long-term goals, scarcity, adoption, etc. I guess at some point it clicked for her. The problem is… now I’m scared. Even though I truly believe in Bitcoin’s future, I’m afraid of a few things: What if things don’t go as expected? What if she doesn’t live long enough to really see the benefits of this investment? What if she can’t mentally handle the volatility and panic during big drawdowns? This feels very different from investing my own money. If Bitcoin drops 50%, I can handle it. If her money drops 50%, that’s a different emotional weight. I don’t want to be irresponsible or turn into “that guy” who convinced a family member to invest and then regrets it forever. So I’m asking those of you who’ve been here longer or have more life experience: What would you do in my position?
 
-1h ago
+3h ago
 
 ---
 
@@ -107,11 +115,17 @@ HODL strong through the storms; the future rewards the patient. 🚀 🙌
 
 ---
 
-**[My mom wants to buy Bitcoin after listening to me… and now I’m scared](https://www.reddit.com/r/Bitcoin/comments/1qyiloo/my_mom_wants_to_buy_bitcoin_after_listening_to_me/)**
+**[Buy The dip](https://www.reddit.com/r/Bitcoin/comments/1qygmls/buy_the_dip/)**
 
-My mother barely uses Facebook and has zero interest in technology or finance. Yet here we are: she asked me to help her buy Bitcoin. Over the past months, I’ve talked a lot about Bitcoin at home — why I believe in it, my long-term goals, scarcity, adoption, etc. I guess at some point it clicked for her. The problem is… now I’m scared. Even though I truly believe in Bitcoin’s future, I’m afraid of a few things: What if things don’t go as expected? What if she doesn’t live long enough to really see the benefits of this investment? What if she can’t mentally handle the volatility and panic during big drawdowns? This feels very different from investing my own money. If Bitcoin drops 50%, I can handle it. If her money drops 50%, that’s a different emotional weight. I don’t want to be irresponsible or turn into “that guy” who convinced a family member to invest and then regrets it forever. So I’m asking those of you who’ve been here longer or have more life experience: What would you do in my position?
+4h ago
 
-2h ago
+---
+
+**[Bitcoin up: I should’ve bought before, on the next big drop I’m definitely buying. Bitcoin down: It’s all a scam anyways, I’m glad I never bought.](https://www.reddit.com/r/Bitcoin/comments/1qycxzo/bitcoin_up_i_shouldve_bought_before_on_the_next/)**
+
+Basically
+
+6h ago
 
 ---
 
@@ -127,51 +141,17 @@ My mother barely uses Facebook and has zero interest in technology or finance. Y
 
 ---
 
-**[Buy The dip](https://www.reddit.com/r/Bitcoin/comments/1qygmls/buy_the_dip/)**
-
-3h ago
-
----
-
-**[Bitcoin up: I should’ve bought before, on the next big drop I’m definitely buying. Bitcoin down: It’s all a scam anyways, I’m glad I never bought.](https://www.reddit.com/r/Bitcoin/comments/1qycxzo/bitcoin_up_i_shouldve_bought_before_on_the_next/)**
-
-Basically
-
-6h ago
-
----
-
 **[I’m honestly enjoying the Bitcoin hate right now.](https://www.reddit.com/r/Bitcoin/comments/1qy202k/im_honestly_enjoying_the_bitcoin_hate_right_now/)**
 
 I’m in multiple investment groups with very sharp people, and the skepticism is louder than I’ve heard it in a long time. Even my resident conspiracy-theorist cousin has re-emerged with “proof.” Who knew This was exactly the sentiment we needed, when I thought I’d never again see prices at these levels 😂
 
-16h ago
+17h ago
 
 ---
 
 ---
 
 ## Google News: "bitcoin"
-
-**[Trump promised a crypto revolution. So why is bitcoin crashing?](https://www.npr.org/2026/02/07/nx-s1-5704279/trump-crypto-bitcoin-winter)**
-
-Trump got elected promising to usher in a crypto revolution. More than a year later, bitcoin's price has come tumbling down. What happened?
-
-NPR • 9h ago
-
----
-
-**[Bitcoin To Fall To $54K? Veteran Trader Questions Whether Strategy Investors Can Hold On](https://uk.finance.yahoo.com/news/bitcoin-fall-54k-veteran-trader-164602291.html)**
-
-Yahoo Finance UK • 2h ago
-
----
-
-**[THIS IS WHY BITCOIN DUMPED NON STOP FROM $126,000 TO $60,000.](https://www.binance.com/en/square/post/289135238428545)**
-
-Binance • 3h ago
-
----
 
 **[S Korean crypto firm accidentally pays out $40bn in bitcoin](https://www.bbc.com/news/articles/cz6y62nzjxxo)**
 
@@ -181,12 +161,9 @@ BBC • 5h ago
 
 ---
 
-**[South Korean crypto firm accidentally sends $44 billion in bitcoin to
-users](https://www.cnbc.com/2026/02/07/south-korean-crypto-firm-accidentally-sends-out-44-billion-in-bitcoin.html)**
+**[South Korean crypto firm accidentally sends $44 billion in bitcoins to users](https://www.reuters.com/world/asia-pacific/crypto-firm-accidentally-sends-44-billion-bitcoins-users-2026-02-07/)**
 
-The move triggered a sharp selloff on the Bithumb exchange. The company apologized for the mistake.
-
-CNBC • 9h ago
+Reuters • 16h ago
 
 ---
 
@@ -198,9 +175,33 @@ Yahoo Finance • 1d ago
 
 ---
 
-**[The Kidnappers Of Savannah Guthrie's Mom Want Bitcoin—But It’s Not As Anonymous As Many Think](https://www.forbes.com/sites/martinadilicosa/2026/02/06/the-kidnappers-of-savannah-guthries-mom-want-bitcoin-but-its-not-as-anonymous-as-many-think/)**
+**[Bitcoin price climbs Friday, but can it continue? Experts are skeptical.](https://mashable.com/article/will-bitcoin-cryptocurrency-continue-to-rebound-after-friday-2-6-2026)**
 
-Forbes • 23h ago
+We explore the latest ups and downs (mostly downs) in the crypto market.
+
+Mashable • 22h ago
+
+---
+
+**[Can Bitcoin Benefit From Artificial Intelligence?](https://www.fool.com/investing/2026/02/07/can-bitcoin-benefit-from-artificial-intelligence/)**
+
+It's possible, but it won't happen tomorrow.
+
+The Motley Fool • 40m ago
+
+---
+
+**[Bitcoin To Fall To $54K? Veteran Trader Questions Whether Strategy Investors Can Hold On](https://uk.finance.yahoo.com/news/bitcoin-fall-54k-veteran-trader-164602291.html)**
+
+Yahoo Finance UK • 2h ago
+
+---
+
+**[Purported ransom note for Savannah Guthrie's mom demanded payment in bitcoin. Could it be tracked?](https://www.cbsnews.com/news/savannah-guthrie-mom-nancy-ransom-note-bitcoin-what-to-know/)**
+
+Cryptocurrency transactions are often thought to be anonymous and untraceable. That's a misconception, experts tell CBS News.
+
+cbsnews.com • 21h ago
 
 ---
 
@@ -212,15 +213,15 @@ The Block • 1d ago
 
 ---
 
-**[Michael Saylor Under Fire After Claiming Bitcoin Will Surge To $10M Tomorrow If ‘People Agreed With Him'](https://finance.yahoo.com/news/michael-saylor-under-fire-claiming-120215693.html)**
+**[Strategy stock rallies amid bitcoin losses, Stellantis plunges](https://finance.yahoo.com/video/strategy-stock-rallies-amid-bitcoin-143327192.html)**
 
-Michael Saylor’s $10 million Bitcoin claim sparks backlash. It comes as Strategy’s losses deepen as Bitcoin price slides. Whether Saylor will sell Bitcoin remains possible. ...
+Morning Brief Host Julie Hyman and Yahoo Finance Markets and Data Editor Jared Blikre track several of the day's top trending stock tickers, including Strategy (MSTR) rallying in Friday's pre-market after being dragged lower as bitcoin (BTC-USD) tumbled below $70,000 per token, shares of US automaker Stellantis (STLA) plunging as it looks to write down $26 billion in charges, and Reddit stock (RDDT) getting a lift on its earnings results and $1 billion share buyback program. To watch more expert insights and analysis on the latest market action, check out more&nbsp;Morning Brief.
 
-Yahoo Finance • 2d ago
+Yahoo Finance • 1d ago
 
 ---
 
-**[Bitcoin Booster’s $12 Billion Loss Headlines Crypto’s Worst Day Since 2022 Crash](https://www.wsj.com/finance/currencies/strategy-earnings-fourth-2025-33688dab?gaa_at=eafs&gaa_n=AWEtsqep0fM7t0iEO5WiPNmGsP_8lpBf5AOLltAC-yMZNa-5GwUxahYtwfsr&gaa_ts=698789db&gaa_sig=nQQb4ZUVyslVWn-rWelsxUeQOzOpc6azgzMMjVDZXOUFCUi8q9Gxb7ItID9-FG_raFUYzAVIU285fJQfo9QWjw%3D%3D)**
+**[Bitcoin Booster’s $12 Billion Loss Headlines Crypto’s Worst Day Since 2022 Crash](https://www.wsj.com/finance/currencies/strategy-earnings-fourth-2025-33688dab?gaa_at=eafs&gaa_n=AWEtsqfXo5irlVTJBLuGdVjUPDuIXfZoi2yFXLk851k4xRylB_hXZliFPVVA&gaa_ts=698799bf&gaa_sig=23UGJeQJVs9dTGJwrM46z7dV8TY5PA_aPi7M0IM57QkhCKLTTtDRT5IV7SoaTowYzgNFN1_Do-8EBVbQC0903w%3D%3D)**
 
 The Wall Street Journal • 1d ago
 
@@ -298,11 +299,9 @@ SE050 Hardware Bitcoin Wallet - Self-sovereign Bitcoin wallet powered by NXP SE0
 
 ---
 
-**[Bithumb mistakenly hands out $195M in Bitcoin to users in 'Random Box' giveaway](https://news.ycombinator.com/item?id=46925668)**
+**[South Korean crypto firm accidentally sends $44B in bitcoins to users](https://news.ycombinator.com/item?id=46926461)**
 
-Bithumb, Korea's second-largest cryptocurrency exchange, mistakenly credited users with Bitcoin worth approximately 260 billion won ($195 million), instead of the modest number of reward points or Bitcoin that it had intended to distribute.
-
-⬆️ 2 • 💬 0 • 1h ago • [koreajoongangdaily.joins.com](https://koreajoongangdaily.joins.com/news/2026-02-07/business/finance/Crypto-exchange-Bithumb-mistakenly-hands-out-195M-in-Bitcoin-to-users-in-Random-Box-giveaway/2518495)
+⬆️ 2 • 💬 0 • 49m ago • [reuters.com](https://www.reuters.com/world/asia-pacific/crypto-firm-accidentally-sends-44-billion-bitcoins-users-2026-02-07/)
 
 ---
 
@@ -336,7 +335,7 @@ Bitcoin just did EXACTLY what I said it would do Trade LIVE with me for $5 - a Y
 
 📺 Ross Givens
 
-👁️ 13K • 👍 681 • 💬 1K • ⏱️ 8:28 • 21h ago
+👁️ 13K • 👍 681 • 💬 1K • ⏱️ 8:28 • 22h ago
 
 ---
 

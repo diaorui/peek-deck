@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-02-07T19:24:47.537862+00:00'
+updated: '2026-02-07T19:45:25.450218+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- news
 - social
-- videos
 - repositories
+- news
+- videos
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** February 07, 2026 at 19:24 UTC  
+**Last Updated:** February 07, 2026 at 19:45 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -57,15 +57,23 @@ I have been working solo on an AI-based project called Netryx. At a high level, 
 
 Let’s say the quiet part out loud.
 
-🔗 [Medium](https://medium.com/@behindthebuild/big-tech-ai-isnt-taking-your-job-your-refusal-to-use-it-might-966f8219f962) • 1h ago
+🔗 [Medium](https://medium.com/@behindthebuild/big-tech-ai-isnt-taking-your-job-your-refusal-to-use-it-might-966f8219f962) • 2h ago
 
 ---
 
 **[[WARNING] Kimi.com (ok computer + other agents) CRYPTO STEALING MALWARE](https://www.reddit.com/r/artificial/comments/1qyjktt/warning_kimicom_ok_computer_other_agents_crypto/)**
 
-Update to my previous post. Went back to extract everything and found some super sketchy stuff. For anyone that uses kimi through the chat interface: One of Kimi’s browser automation scripts uses a dark web library with crypto stealing malware: https://github.com/dnnyngyen/kimi-agent-internals/blob/main/source-code/browser_guard.py Btw: Hash verification using shell tools on 3 separate accounts. It didnt produce anything in chat, it walked over its actual file system contents. The exact ones across 4 different modes on 3 different accounts. In the repo you’ll also find 6 system prompts (Base Chat, OK Computer, Docs, Sheets, Slides, Websites), 38 tool schemas, 4 skill folders (DOCX, XLSX, PDF, WebApp), runtime source code (browser automation, kernel server, Jupyter kernel), and container architecture. Please stay safe!!!
+One of Kimi’s browser automation scripts uses a dark web library with crypto stealing malware: https://github.com/dnnyngyen/kimi-agent-internals/blob/main/source-code/browser_guard.py
 
 2h ago
+
+---
+
+**[AI Trajectories Through 2030: Analysis of Four Plausible Futures](https://www.reddit.com/r/artificial/comments/1qyjrtc/ai_trajectories_through_2030_analysis_of_four/)**
+
+View AI Agent prediction on PardusAI - AI-powered data analysis platform
+
+🔗 [pardusai.org](https://pardusai.org/view/fa19c538b421112c351c21f4018d955513b8dbd75c0b0b3a2a64bee4b7fc4080) • 2h ago
 
 ---
 
@@ -77,27 +85,11 @@ Goldman Sachs is building AI agents with Anthropic’s Claude to automate trade 
 
 ---
 
-**[AI Trajectories Through 2030: Analysis of Four Plausible Futures](https://www.reddit.com/r/artificial/comments/1qyjrtc/ai_trajectories_through_2030_analysis_of_four/)**
-
-View AI Agent prediction on PardusAI - AI-powered data analysis platform
-
-🔗 [pardusai.org](https://pardusai.org/view/fa19c538b421112c351c21f4018d955513b8dbd75c0b0b3a2a64bee4b7fc4080) • 1h ago
-
----
-
 **[AI is my peacekeeper, saving my sanity in step-parenting.](https://www.reddit.com/r/artificial/comments/1qyf5ag/ai_is_my_peacekeeper_saving_my_sanity_in/)**
 
 I’m a solo web developer, so I spend most of my day using AI to debug my self made chaos , or manage my homelab as a fun side project. Or mess around with Arduino or 3D printing MCP servers. But recently, I asked Gemini for help with the hardest stack I’ve ever had to manage: a household with an extremely disrespectful 19 year old stepson. I am married with two step kids, the other is 15 and somewhat on the autistic spectrum. I've been in this family for for 7 years, married for 2. Their real dad bailed on them before I arrived and fell in love with my Soul Mate and best friend. If you’ve been there, you know the drill. The constant attitude, the tension between siblings, and the emotional toll it takes on your marriage. My wife and I were fed up, but every time we tried to talk to him, it devolved into a circular argument or a shouting match. He wouldn't understand, can't see our perspective, and continues to shit everything up. It was draining the life out of us. I decided to treat the conflict like a "System Architecture" problem and used Gemini to help us navigate it. Here’s how it changed the game for us. Sorry, not sorry, but I did use Gemini to summarise these shenanigans for me, as it really is a complex topic with emotions involved on my side. For what it's worth, I am very real and raw with Gemini in what I say about my family. As a 39 year old, I deeply understand the privacy issues, especially when ... Well, 90s kids don't trust the system... Which amazed me that I was doing this, telling Ai about this, but it shows how frustrated and desperate I was, to tell Google, of all companies, who removed their "do no evil" sign... Well... Anyway... Here it is: The "Logic Buffer": When you're angry, you say things that trigger defensiveness. The AI helped me translate raw frustration into firm, calm, adult-to-adult boundaries. I voice chat Gemini and it helped me work through some difficult thoughts. The Unified Front: It helped my wife and me build a literal Meeting Plan. It gave us roles, ideas, "anchor phrases" to use when things got heated, and a strategy to stay aligned so we couldn't be "divided and conquered." The "Adult Choice" Framework: It shifted the dynamic from us "punishing" a kid to us "managing a household of adults." The AI scripted an ultimatum that wasn't a threat, but a choice: You can be a respectful member of this house, or you can choose to find a living situation that better fits your current attitude. Emotional Outsourcing: It took the mental load of "What do I say?" and turned it into a checklist. We walked into that room feeling like a professional team with a script, rather than two exhausted parents winging it. The result? The most productive, calm, and clear conversation we’ve ever had with him. No yelling. No "what-abouts." Just clear boundaries and a path forward. I see a lot of talk about AI taking jobs, but for me, it’s giving me my home back. It’s like having a high-level consultant for your personal life who doesn’t get tired, emotional, or biased. Has anyone else used LLMs for "Soft Skills" or family mediation? It feels like a total superpower for conflict resolution. _ Me again, I asked it for some examples.. here it is raw from AI again: Example 1: The "Translation" (Emotional to Logical) The Chaos: I wanted to tell him, "You're being a lazy, entitled brat and you're making your mother miserable." The AI Refinement: "We value having you here, but the current lack of respect for the household peace is unsustainable. We are moving to an adult-to-adult living agreement where respect is the 'rent' for staying in this home." Example 2: The "Anchor Phrase" for High-Conflict The Chaos: Usually, he’d say something rude, I’d get defensive, and we’d yell for 20 minutes. The AI Solution: It gave us an "Anchor Phrase." Whenever he tried to derail the talk, we simply said: "We aren't here to argue about the past; we are here to decide if you can meet the standards of this house moving forward." Having that script prevented the "emotional hijack" that usually ruins these talks. Example 3: Managing the "Unified Front" The Chaos: In the past, he’d wait until I was in the workshop and then give his mom a hard time, or vice versa. The AI Plan: The AI helped us set a "Veto Rule." If he asks one of us something, the answer is always: "I’ll discuss that with [Alice/Partner] and we will get back to you together." It shut down the "divide and conquer" tactic instantly. Thanks for enjoying the chaos with me. I sincerely hope other families use this to their advantage. I have been very impressed with the assistance. The meetings have been way more productive. I imagine there will be more issues in the future, but the relief and support I received from AI has already made a huge difference in this young man's attitude, my wife's mental health, his brother's Daily life and... Yeah, definitely my own. I sleep way better now. Still tough, but I know I have support now.
 
-4h ago
-
----
-
-**[Anthropic and OpenAI released flagship models 27 minutes apart -- the AI pricing and capability gap is getting weird](https://www.reddit.com/r/artificial/comments/1qxdz7q/anthropic_and_openai_released_flagship_models_27/)**
-
-Anthropic shipped Opus 4.6 and OpenAI shipped GPT-5.3-Codex on the same day, 27 minutes apart. Both claim benchmark leads. Both are right -- just on different benchmarks. Where each model leads Opus 4.6 tops reasoning tasks: Humanity's Last Exam (53.1%), GDPval-AA (144 Elo ahead of GPT-5.2), BrowseComp (84.0%). GPT-5.3-Codex takes coding: Terminal-Bench 2.0 at 75.1% vs Opus 4.6's 69.9%. The pricing spread is hard to ignore Model Input/M Output/M Gemini 3 Pro $2 $12.00 GPT-5.2 $1.75 $14.00 Opus 4.6 $5.00 $25.00 MiMo V2 Flash $0.10 $0.30 Opus 4.6 costs 2x Gemini on input. Open-source alternatives cost 50x less. At some point the benchmark gap has to justify the price gap -- and for many tasks it doesn't. 1M context is becoming table stakes Opus 4.6 adds 1M tokens (beta, 2x pricing past 200K). Gemini already offers 1M at standard pricing. The real differentiator is retrieval quality at that scale -- Opus 4.6 scores 76% on MRCR v2 (8-needle, 1M), which is the strongest result so far. Market reaction was immediate Thomson Reuters stock fell 15.83%, LegalZoom dropped nearly 20%. Frontier model launches are now moving SaaS valuations in real time. The tradeoff nobody expected Opus 4.6 gets writing quality complaints from early users. The theory: RL optimizations for reasoning degraded prose output. Models are getting better at some things by getting worse at others. No single model wins across the board anymore. The frontier is fragmenting by task type. GPT-5.3-Codex pricing has not been disclosed at time of writing. Gemini offers 1M context at standard pricing; Claude charges 2x for prompts exceeding 200K tokens. Source with full benchmarks and analysis: Claude Opus 4.6: 1M Context, Agent Teams, Adaptive Thinking, and a Showdown with GPT-5.3
-
-1d ago
+5h ago
 
 ---
 
@@ -106,6 +98,14 @@ Anthropic shipped Opus 4.6 and OpenAI shipped GPT-5.3-Codex on the same day, 27 
 An AI-powered model developed at University of Michigan can read a brain MRI and diagnose a person in seconds, a study suggests.&nbsp;It detected neurological conditions with up to 97.5% accuracy and predicted how urgently a patient required treatment. The technology&nbsp;could transform neuroimaging at health systems across the United States.
 
 🔗 [EurekAlert!](https://www.eurekalert.org/news-releases/1115393) • 16h ago
+
+---
+
+**[Anthropic and OpenAI released flagship models 27 minutes apart -- the AI pricing and capability gap is getting weird](https://www.reddit.com/r/artificial/comments/1qxdz7q/anthropic_and_openai_released_flagship_models_27/)**
+
+Anthropic shipped Opus 4.6 and OpenAI shipped GPT-5.3-Codex on the same day, 27 minutes apart. Both claim benchmark leads. Both are right -- just on different benchmarks. Where each model leads Opus 4.6 tops reasoning tasks: Humanity's Last Exam (53.1%), GDPval-AA (144 Elo ahead of GPT-5.2), BrowseComp (84.0%). GPT-5.3-Codex takes coding: Terminal-Bench 2.0 at 75.1% vs Opus 4.6's 69.9%. The pricing spread is hard to ignore Model Input/M Output/M Gemini 3 Pro $2 $12.00 GPT-5.2 $1.75 $14.00 Opus 4.6 $5.00 $25.00 MiMo V2 Flash $0.10 $0.30 Opus 4.6 costs 2x Gemini on input. Open-source alternatives cost 50x less. At some point the benchmark gap has to justify the price gap -- and for many tasks it doesn't. 1M context is becoming table stakes Opus 4.6 adds 1M tokens (beta, 2x pricing past 200K). Gemini already offers 1M at standard pricing. The real differentiator is retrieval quality at that scale -- Opus 4.6 scores 76% on MRCR v2 (8-needle, 1M), which is the strongest result so far. Market reaction was immediate Thomson Reuters stock fell 15.83%, LegalZoom dropped nearly 20%. Frontier model launches are now moving SaaS valuations in real time. The tradeoff nobody expected Opus 4.6 gets writing quality complaints from early users. The theory: RL optimizations for reasoning degraded prose output. Models are getting better at some things by getting worse at others. No single model wins across the board anymore. The frontier is fragmenting by task type. GPT-5.3-Codex pricing has not been disclosed at time of writing. Gemini offers 1M context at standard pricing; Claude charges 2x for prompts exceeding 200K tokens. Source with full benchmarks and analysis: Claude Opus 4.6: 1M Context, Agent Teams, Adaptive Thinking, and a Showdown with GPT-5.3
+
+1d ago
 
 ---
 
@@ -121,31 +121,15 @@ It happened again. A 13-person team in Shenzhen just shipped a browser-based ver
 
 ## Google News: "ai"
 
-**[Tech AI spending may approach $700 billion this year, but the blow to cash raises red flags](https://www.cnbc.com/2026/02/06/google-microsoft-meta-amazon-ai-cash.html)**
+**[Amazon leads Big Tech’s $1 trillion wipeout as AI bubble fears ignite sell-off](https://www.cnbc.com/2026/02/06/ai-sell-off-stocks-amazon-oracle.html)**
 
-Tech's megacaps announced major increases in capex spend for 2026, and now investors are preparing for cash to dwindle.
+Fears over AI spending have sparked a sell-off among tech stocks.
 
-CNBC • 21h ago
-
----
-
-**[Big Tech’s ‘breathtaking’ $660bn spending spree reignites AI bubble fears](https://www.ft.com/content/0e7f6374-3fd5-46ce-a538-e4b0b8b6e6cd)**
-
-Stocks tumble despite strong earnings reports from most Silicon Valley heavyweights
-
-Financial Times • 1d ago
+CNBC • 1d ago
 
 ---
 
-**[A New Gilded Age: Big Tech goes on a $600 billion AI spending splurge](https://www.businessinsider.com/amazon-google-meta-microsoft-boost-ai-spending-stocks-2026-2)**
-
-Big Tech's capital expenditures soar with Amazon, Google, Meta, and Microsoft at the forefront, ushering a new era of AI infrastructure spending.
-
-Business Insider • 1d ago
-
----
-
-**[Here’s Where AI Is Tearing Through Corporate America](https://www.wsj.com/tech/ai/ai-software-business-stock-market-4b17b432?gaa_at=eafs&gaa_n=AWEtsqeyj4RQ-9quOoJ7314IBL4ZEqMJX7WElFGAv0q_Z_ba22nDLu5nz0Wb&gaa_ts=698789d9&gaa_sig=hl9jF58ofOalXCF15EtpdtGn6V3-OFbqspUtuMlW6JRvKdel4H6D19v_-7UGXosay2YX01cWS0L9NNRzWBamMA%3D%3D)**
+**[Here’s Where AI Is Tearing Through Corporate America](https://www.wsj.com/tech/ai/ai-software-business-stock-market-4b17b432?gaa_at=eafs&gaa_n=AWEtsqc2i1IyDn1p0lKeBDjVYpateHE3dpii_uzNiWwXCHikmulAJIA0XKwG&gaa_ts=698799be&gaa_sig=ScbBIeRJ07ktPBWUfGBNXN1DcbxlgDzJxu4YzjL5exUA3ExtMW7zD5K3BpSDBCqMBhaZnNwfG8R6acEdbVT0hg%3D%3D)**
 
 The Wall Street Journal • 17h ago
 
@@ -159,11 +143,11 @@ Axios • 9h ago
 
 ---
 
-**[AI fears pummel software stocks: Is it 'illogical' panic or a SaaS apocalypse?](https://www.cnbc.com/2026/02/06/ai-anthropic-tools-saas-software-stocks-selloff.html)**
+**[AI leaders argue software will adapt – not die – but valuations are stretched](https://www.foxbusiness.com/technology/ai-leaders-argue-software-adapt-not-die-valuations-stretched)**
 
-The software space is facing serious market concerns this week, after the release of new AI tools from AI triggered a market sell-off.
+Major tech companies lost $1 trillion in a market sell-off this week, sending chills across tech industry. However, I unicorn founders believe valuations will normalize.
 
-CNBC • 1d ago
+Fox Business • 1h ago
 
 ---
 
@@ -175,9 +159,31 @@ The Washington Post • 1h ago
 
 ---
 
+**[This AI Stock Could Be One of the Most Valuable in the World by 2027](https://finance.yahoo.com/news/ai-stock-could-one-most-190900911.html)**
+
+Alphabet is already one of the most valuable companies in the world, but it's betting big on being the biggest artificial intelligence (AI) company as well.
+
+Yahoo Finance • 36m ago
+
+---
+
+**[Tech’s AI Push Risks a Bond Market Blowback: Credit Weekly](https://www.bloomberg.com/news/articles/2026-02-07/tech-s-ai-push-risks-a-bond-blowback-amzn-googl-msft-orcl)**
+
+Bloomberg.com • 43m ago
+
+---
+
+**[Elon Musk warns the U.S. is '1,000% going to go bankrupt' unless AI and robotics save the economy from crushing debt](https://fortune.com/2026/02/07/elon-musk-us-bankruptcy-ai-robotics-economic-growth-national-debt-crisis/)**
+
+"We just need enough time to build the AI and robots to not go bankrupt before then."
+
+Fortune • 57m ago
+
+---
+
 **[New study uses Neanderthals to demonstrate gap between generative AI and scholarly knowledge](https://phys.org/news/2026-02-neanderthals-gap-generative-ai-scholarly.html)**
 
-Phys.org • 22h ago
+Phys.org • 23h ago
 
 ---
 
@@ -186,14 +192,6 @@ Phys.org • 22h ago
 The viral social network for bots reveals as much about our own current mania for AI as it does about the future of agents.
 
 MIT Technology Review • 1d ago
-
----
-
-**[AI companions are reshaping teen emotional bonds](https://www.foxnews.com/tech/ai-companions-reshaping-teen-emotional-bonds)**
-
-Jim Steyer of Common Sense Media is warning that artificial intelligence companion tools "are not safe for kids under 18" as interactions turn personal.
-
-Fox News • 7h ago
 
 ---
 
@@ -211,7 +209,7 @@ Fox News • 7h ago
 
 A new bill in the New York state legislature would require news organizations to label AI-generated material and mandate that humans review any such content before publication. On Monday, Senator Patricia Fahy (D-Albany) and Assemblymember Nily Rozic (D-NYC) introduced the bill, called The New York…
 
-⬆️ 553 • 💬 231 • 1d ago • [Nieman Lab](https://www.niemanlab.org/2026/02/a-new-bill-in-new-york-would-require-disclaimers-on-ai-generated-news-content/)
+⬆️ 553 • 💬 232 • 1d ago • [Nieman Lab](https://www.niemanlab.org/2026/02/a-new-bill-in-new-york-would-require-disclaimers-on-ai-generated-news-content/)
 
 ---
 
@@ -219,7 +217,7 @@ A new bill in the New York state legislature would require news organizations to
 
 AI is rarely optional anymore, but how can you still be proud of your craft? Discover the workflow to effectively write high-quality, robust code using AI tools.
 
-⬆️ 308 • 💬 274 • 1d ago • [heidenstedt.org](https://heidenstedt.org/posts/2026/how-to-effectively-write-quality-code-with-ai/)
+⬆️ 308 • 💬 275 • 1d ago • [heidenstedt.org](https://heidenstedt.org/posts/2026/how-to-effectively-write-quality-code-with-ai/)
 
 ---
 
@@ -227,7 +225,7 @@ AI is rarely optional anymore, but how can you still be proud of your craft? Dis
 
 A minimal, secure Python interpreter written in Rust for use by AI - pydantic/monty
 
-⬆️ 281 • 💬 150 • 22h ago • [GitHub](https://github.com/pydantic/monty)
+⬆️ 286 • 💬 153 • 22h ago • [GitHub](https://github.com/pydantic/monty)
 
 ---
 
@@ -235,7 +233,15 @@ A minimal, secure Python interpreter written in Rust for use by AI - pydantic/mo
 
 Women in rural communities describe trauma of moderating violent and pornographic content for global tech companies
 
-⬆️ 120 • 💬 194 • 1d ago • [the Guardian](https://www.theguardian.com/global-development/2026/feb/05/in-the-end-you-feel-blank-indias-female-workers-watching-hours-of-abusive-content-to-train-ai)
+⬆️ 121 • 💬 198 • 1d ago • [the Guardian](https://www.theguardian.com/global-development/2026/feb/05/in-the-end-you-feel-blank-indias-female-workers-watching-hours-of-abusive-content-to-train-ai)
+
+---
+
+**[The AI boom is causing shortages everywhere else](https://news.ycombinator.com/item?id=46922969)**
+
+The hundreds of billions of dollars being spent by tech companies on AI projects are diverting resources from other parts of the economy.
+
+⬆️ 108 • 💬 136 • 8h ago • [The Washington Post](https://www.washingtonpost.com/technology/2026/02/07/ai-spending-economy-shortages/)
 
 ---
 
@@ -261,19 +267,11 @@ Fears over AI spending have sparked a sell-off among tech stocks.
 
 ---
 
-**[The AI boom is causing shortages everywhere else](https://news.ycombinator.com/item?id=46922969)**
-
-The hundreds of billions of dollars being spent by tech companies on AI projects are diverting resources from other parts of the economy.
-
-⬆️ 64 • 💬 61 • 8h ago • [The Washington Post](https://www.washingtonpost.com/technology/2026/02/07/ai-spending-economy-shortages/)
-
----
-
 **[Man who videotaped himself BASE jumping in Yosemite arrested, says it was AI](https://news.ycombinator.com/item?id=46916961)**
 
 A California man is facing a criminal charge for allegedly BASE jumping off Glacier Point in Yosemite National Park during the federal government shutdown last year.
 
-⬆️ 53 • 💬 89 • 1d ago • [Los Angeles Times](https://www.latimes.com/california/story/2026-02-05/man-videotaped-himself-base-jumping-in-yosemite-federal-officials-say-he-says-it-was-ai)
+⬆️ 53 • 💬 90 • 1d ago • [Los Angeles Times](https://www.latimes.com/california/story/2026-02-05/man-videotaped-himself-base-jumping-in-yosemite-federal-officials-say-he-says-it-was-ai)
 
 ---
 
@@ -377,7 +375,7 @@ How to Create AI Influencer For FREE ! Hyper Realistic AI Influencer How to Crea
 
 📺 GR Editz
 
-👁️ 2K • 👍 127 • 💬 17 • ⏱️ 4:30 • 16h ago
+👁️ 2K • 👍 127 • 💬 17 • ⏱️ 4:30 • 17h ago
 
 ---
 
@@ -429,7 +427,7 @@ Step 3.5 Flash is an efficient, open-source MoE foundation model (11B active par
 
 `text-generation` `199.4B`
 
-⬇️ 11,980 • ❤️ 508 • 13h ago
+⬇️ 11,980 • ❤️ 508 • 14h ago
 
 ---
 
@@ -451,7 +449,7 @@ MiniCPM-o 4.5 is a 9B parameter multimodal LLM excelling in vision, speech, and 
 
 `any-to-any` `9.4B`
 
-⬇️ 5,568 • ❤️ 581 • 2h ago
+⬇️ 5,568 • ❤️ 581 • 3h ago
 
 ---
 
@@ -656,7 +654,7 @@ AI → JSON → UI
 
 `TypeScript`
 
-⭐ 10.1k • 🔱 537 • 52m ago
+⭐ 10.1k • 🔱 537 • 1h ago
 
 ---
 
@@ -676,7 +674,7 @@ The Ultimate Collection of 700+ Agentic Skills for Claude Code/Antigravity/Curso
 
 `Python` `agentic-skills` `ai-agents` `antigravity` `autonomous-coding` `claude-code`
 
-⭐ 7.8k • 🔱 1.6k • 12h ago
+⭐ 7.8k • 🔱 1.6k • 13h ago
 
 ---
 
