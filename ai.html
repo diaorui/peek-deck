@@ -57,7 +57,7 @@
             "name": "PeekDeck",
             "url": "https://peekdeck.ruidiao.dev"
           },
-          "dateModified": "2026-02-07T09:32:27.339290+00:00"
+          "dateModified": "2026-02-07T10:27:48.761150+00:00"
         },
         {
           "@type": "BreadcrumbList",
@@ -649,6 +649,56 @@
                     </div>
                 </div>
                 
+                <div class="carousel-card" onclick="window.open('https://www.reddit.com/r/artificial/comments/1qy9vox/report_openai_may_tailor_a_version_of_chatgpt_for/', '_blank')">
+                    <div class="post-thumbnail">
+                        
+                        <img src="https://external-preview.redd.it/YdiPF_jjDujOASb563jXu6DHBe-XndzopmrKOwIAnYc.jpeg?width=320&crop=smart&auto=webp&s=e5ef9b949283dcee640cb093cbaae9a8262a5e87" alt="Report: OpenAI may tailor a version of ChatGPT for UAE that prohibits LGBTQ+ content" onerror="this.style.display='none'" loading="lazy">
+                        
+                    </div>
+
+                    <div class="post-content">
+                        <!-- Post title -->
+                        <div class="post-title">
+                            <a href="https://www.reddit.com/r/artificial/comments/1qy9vox/report_openai_may_tailor_a_version_of_chatgpt_for/" target="_blank" onclick="event.stopPropagation();">Report: OpenAI may tailor a version of ChatGPT for UAE that prohibits LGBTQ+ content</a>
+                        </div>
+
+                        <!-- Rich description (if available) -->
+                        
+                        <div class="post-description">
+                            Countries have been building their own “sovereign AI” to reflect their culture and values, and OpenAI wants to help them....
+                        </div>
+                        
+
+                        <!-- Metadata -->
+                        <div class="post-meta">
+                            <div class="post-meta-line">
+                                
+                                <div class="post-meta-item">
+                                    <span data-timestamp="1770457937.0"></span>
+                                </div>
+                                
+                                <!-- External article source (on same line as time) -->
+                                
+                                <div class="post-meta-item post-source">
+                                    <a href="https://sherwood.news/tech/report-openai-may-tailor-a-version-of-chatgpt-for-uae-that-prohibits-lgbtq/" target="_blank" onclick="event.stopPropagation();">
+                                        
+                                            
+                                            <img src="https://cdn.robinhood.com/assets/sherwood/favicon/apple-touch-icon.png" alt="" class="post-favicon" onerror="this.style.display='none'; this.nextElementSibling.style.display='inline-block';" loading="lazy">
+                                            <svg width="14" height="14" viewBox="0 0 16 16" fill="currentColor" style="flex-shrink: 0; display: none;">
+                                                <path d="M8.636 3.5a.5.5 0 0 0-.5-.5H1.5A1.5 1.5 0 0 0 0 4.5v10A1.5 1.5 0 0 0 1.5 16h10a1.5 1.5 0 0 0 1.5-1.5V7.864a.5.5 0 0 0-1 0V14.5a.5.5 0 0 1-.5.5h-10a.5.5 0 0 1-.5-.5v-10a.5.5 0 0 1 .5-.5h6.636a.5.5 0 0 0 .5-.5z"/>
+                                                <path d="M16 .5a.5.5 0 0 0-.5-.5h-5a.5.5 0 0 0 0 1h3.793L6.146 9.146a.5.5 0 1 0 .708.708L15 1.707V5.5a.5.5 0 0 0 1 0v-5z"/>
+                                            </svg>
+                                            
+                                        
+                                        <span>Sherwood News</span>
+                                    </a>
+                                </div>
+                                
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                
                 <div class="carousel-card" onclick="window.open('https://www.reddit.com/r/artificial/comments/1qxv9jg/goldman_sachs_taps_anthropics_claude_to_automate/', '_blank')">
                     <div class="post-thumbnail">
                         
@@ -1011,39 +1061,6 @@
                     </div>
                 </div>
                 
-                <div class="carousel-card" onclick="window.open('https://www.reddit.com/r/artificial/comments/1qxpjir/early_observations_from_an_autonomous_ai_newsroom/', '_blank')">
-                    <div class="post-thumbnail">
-                        
-                    </div>
-
-                    <div class="post-content">
-                        <!-- Post title -->
-                        <div class="post-title">
-                            <a href="https://www.reddit.com/r/artificial/comments/1qxpjir/early_observations_from_an_autonomous_ai_newsroom/" target="_blank" onclick="event.stopPropagation();">Early observations from an autonomous AI newsroom with cryptographic provenance</a>
-                        </div>
-
-                        <!-- Rich description (if available) -->
-                        
-                        <div class="post-description">
-                            Hi everyone, I wanted to share an update on a small experiment I’ve been running and get feedback from people interested in AI systems, editorial workflows, and provenance. I’m building The Machine Herald, an experimental autonomous AI newsroom where: articles are written by AI contributor bots submissions are cryptographically signed (Ed25519) an AI “Chief Editor” reviews each submission and can approve, reject, or request changes every step (submission, reviews, signatures, hashes) is preserved as immutable artifacts What’s been interesting is that after just two days of running the system, an unexpected pattern has already emerged: the Chief Editor is regularly rejecting articles for factual gaps, weak sourcing, or internal inconsistencies — and those rejections are forcing rewrites. A concrete example: https://machineherald.io/provenance/2026-02/06-amazon-posts-record-7169-billion-revenue-but-stock-plunges-as-200-billion-ai-spending-plan-dwarfs-all-rivals/ in this article’s provenance record you can see two separate editorial reviews: the first is a rejection, with documented issues raised by the Chief Editor the article is then corrected by the contributor bot a second review approves the revised version Because the entire system is Git-based, this doesn’t just apply to reviews: the full history of the article itself is also available via Git, including how claims, wording, and sources changed between revisions. This behavior is a direct consequence of the review system by design, but it’s still notable to observe adversarial-like dynamics emerge even when both the writer and the editor are AI agents operating under explicit constraints. The broader questions I’m trying to probe are: can AI-generated journalism enforce quality through process, not trust? does separating “author” and “editor” agents meaningfully reduce errors? what failure modes would you expect when this runs longer or at scale? The site itself is static (Astro), and everything is driven by GitHub PRs and Actions. I’m sharing links mainly for context and inspection, not promotion: Project site: https://machineherald.io/ Public repo with full pipeline and documentation: https://github.com/the-machine-herald/machineherald.io/ I’d really appreciate critique — especially on where this model breaks down, or where the guarantees are more illusory than real. Thanks P.S. If you notice some typical ChatGPT phrasing in this post, it’s because it was originally written in Italian and then translated using ChatGPT.
-                        </div>
-                        
-
-                        <!-- Metadata -->
-                        <div class="post-meta">
-                            <div class="post-meta-line">
-                                
-                                <div class="post-meta-item">
-                                    <span data-timestamp="1770402232.0"></span>
-                                </div>
-                                
-                                <!-- External article source (on same line as time) -->
-                                
-                            </div>
-                        </div>
-                    </div>
-                </div>
-                
 
                 <!-- View All button at end of carousel -->
                 <div class="carousel-card"
@@ -1067,7 +1084,7 @@
 
     </div>
     <div class="widget-footer">
-        <small data-timestamp="2026-02-07T08:33:42.509738+00:00">Updated 2026-02-07T08:33:42.509738+00:00</small>
+        <small data-timestamp="2026-02-07T10:27:23.150349+00:00">Updated 2026-02-07T10:27:23.150349+00:00</small>
     </div>
 </div>
 
@@ -1372,6 +1389,162 @@
                     </div>
                 </div>
                 
+                <div class="carousel-card" onclick="window.open('https://www.nytimes.com/2026/02/06/business/ai-stock-market-anthropic-openai.html', '_blank')">
+                    <!-- Rich preview thumbnail (with fallback icon) -->
+                    <div class="article-thumbnail" ></div>
+
+                    <div class="article-content">
+                        <!-- Article headline (fixed 3-line height) -->
+                        <div class="news-headline">
+                            <a href="https://www.nytimes.com/2026/02/06/business/ai-stock-market-anthropic-openai.html" target="_blank" onclick="event.stopPropagation();">Fear of AI Replacing Software Makers Hits Stocks. Here’s What to Know.</a>
+                        </div>
+
+                        <!-- Rich description (if available) -->
+                        
+
+                        <!-- Metadata (source, time) -->
+                        <div class="news-meta">
+                            <div class="news-meta-line">
+                                
+                                <div class="news-meta-item news-source">
+                                    
+                                    <img src="https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.nytimes.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+                                         alt="The New York Times" class="news-favicon">
+                                    <a href="https://www.nytimes.com" target="_blank" onclick="event.stopPropagation();">The New York Times</a>
+                                    
+                                </div>
+                                
+                            </div>
+                            <div class="news-meta-line">
+                                
+                                <div class="news-meta-item">
+                                    <span data-timestamp="1770408664.0"></span>
+                                </div>
+                                
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                
+                <div class="carousel-card" onclick="window.open('https://www.wsj.com/tech/ai/ai-software-business-stock-market-4b17b432?gaa_at=eafs&gaa_n=AWEtsqcUI6-6ERIUR1Fw3py1EX4WgV1LlMfVg-cACIZKsn7RZd5Oko8OJakg&gaa_ts=6987170c&gaa_sig=u5kOEHXZTFZOfucw-7SWs_3BW5jX-vfpzFVSdNdj_M98zPjeqA-gXwO-96Z4F573jxy9_dTbxPSTcQ7QwZQeBw%3D%3D', '_blank')">
+                    <!-- Rich preview thumbnail (with fallback icon) -->
+                    <div class="article-thumbnail" ></div>
+
+                    <div class="article-content">
+                        <!-- Article headline (fixed 3-line height) -->
+                        <div class="news-headline">
+                            <a href="https://www.wsj.com/tech/ai/ai-software-business-stock-market-4b17b432?gaa_at=eafs&gaa_n=AWEtsqcUI6-6ERIUR1Fw3py1EX4WgV1LlMfVg-cACIZKsn7RZd5Oko8OJakg&gaa_ts=6987170c&gaa_sig=u5kOEHXZTFZOfucw-7SWs_3BW5jX-vfpzFVSdNdj_M98zPjeqA-gXwO-96Z4F573jxy9_dTbxPSTcQ7QwZQeBw%3D%3D" target="_blank" onclick="event.stopPropagation();">Here’s Where AI Is Tearing Through Corporate America</a>
+                        </div>
+
+                        <!-- Rich description (if available) -->
+                        
+
+                        <!-- Metadata (source, time) -->
+                        <div class="news-meta">
+                            <div class="news-meta-line">
+                                
+                                <div class="news-meta-item news-source">
+                                    
+                                    <img src="https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.wsj.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+                                         alt="The Wall Street Journal" class="news-favicon">
+                                    <a href="https://www.wsj.com" target="_blank" onclick="event.stopPropagation();">The Wall Street Journal</a>
+                                    
+                                </div>
+                                
+                            </div>
+                            <div class="news-meta-line">
+                                
+                                <div class="news-meta-item">
+                                    <span data-timestamp="1770388306.0"></span>
+                                </div>
+                                
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                
+                <div class="carousel-card" onclick="window.open('https://www.axios.com/2026/02/07/ai-software-anthropic-losses-stock-market', '_blank')">
+                    <!-- Rich preview thumbnail (with fallback icon) -->
+                    <div class="article-thumbnail" style="background-image: url('https://images.axios.com/xtPbubAPPXtMhrzl_VlpV0cWxNY=/0x0:1600x900/1366x768/2026/02/06/1770414772330.png');"></div>
+
+                    <div class="article-content">
+                        <!-- Article headline (fixed 3-line height) -->
+                        <div class="news-headline">
+                            <a href="https://www.axios.com/2026/02/07/ai-software-anthropic-losses-stock-market" target="_blank" onclick="event.stopPropagation();">AI wiped out $400 billion this week — and it's only getting started</a>
+                        </div>
+
+                        <!-- Rich description (if available) -->
+                        
+                        <div class="article-description">
+                            AI isn't just hitting software valuations — it's changing how software companies operate.
+                        </div>
+                        
+
+                        <!-- Metadata (source, time) -->
+                        <div class="news-meta">
+                            <div class="news-meta-line">
+                                
+                                <div class="news-meta-item news-source">
+                                    
+                                    <img src="https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.axios.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+                                         alt="Axios" class="news-favicon">
+                                    <a href="https://www.axios.com" target="_blank" onclick="event.stopPropagation();">Axios</a>
+                                    
+                                </div>
+                                
+                            </div>
+                            <div class="news-meta-line">
+                                
+                                <div class="news-meta-item">
+                                    <span data-timestamp="1770458478.0"></span>
+                                </div>
+                                
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                
+                <div class="carousel-card" onclick="window.open('https://finance.yahoo.com/news/nvidia-expands-ai-footprint-labs-080627541.html', '_blank')">
+                    <!-- Rich preview thumbnail (with fallback icon) -->
+                    <div class="article-thumbnail" style="background-image: url('https://s.yimg.com/os/en/simply_wall_st__316/ce92e7ae6d602b61807a836f4291633e');"></div>
+
+                    <div class="article-content">
+                        <!-- Article headline (fixed 3-line height) -->
+                        <div class="news-headline">
+                            <a href="https://finance.yahoo.com/news/nvidia-expands-ai-footprint-labs-080627541.html" target="_blank" onclick="event.stopPropagation();">NVIDIA Expands AI Footprint Into Labs And Climate With New Platforms</a>
+                        </div>
+
+                        <!-- Rich description (if available) -->
+                        
+                        <div class="article-description">
+                            NVIDIA (NasdaqGS:NVDA) has partnered with Opentrons to apply AI to laboratory robotics, aiming to speed up experiment execution and drug discovery workflows. The company has also introduced Earth-2, an open source AI weather forecasting platform designed for climate, energy, and risk management applications. These developments extend NVIDIA's AI reach into physical sciences, healthcare, robotics, and weather forecasting beyond its core GPU markets. NVIDIA's recent moves into AI driven lab...
+                        </div>
+                        
+
+                        <!-- Metadata (source, time) -->
+                        <div class="news-meta">
+                            <div class="news-meta-line">
+                                
+                                <div class="news-meta-item news-source">
+                                    
+                                    <img src="https://encrypted-tbn2.gstatic.com/faviconV2?url=https://finance.yahoo.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+                                         alt="Yahoo Finance" class="news-favicon">
+                                    <a href="https://finance.yahoo.com" target="_blank" onclick="event.stopPropagation();">Yahoo Finance</a>
+                                    
+                                </div>
+                                
+                            </div>
+                            <div class="news-meta-line">
+                                
+                                <div class="news-meta-item">
+                                    <span data-timestamp="1770451587.0"></span>
+                                </div>
+                                
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                
                 <div class="carousel-card" onclick="window.open('https://phys.org/news/2026-02-neanderthals-gap-generative-ai-scholarly.html', '_blank')">
                     <!-- Rich preview thumbnail (with fallback icon) -->
                     <div class="article-thumbnail" ></div>
@@ -1402,203 +1575,6 @@
                                 
                                 <div class="news-meta-item">
                                     <span data-timestamp="1770410401.0"></span>
-                                </div>
-                                
-                            </div>
-                        </div>
-                    </div>
-                </div>
-                
-                <div class="carousel-card" onclick="window.open('https://www.theguardian.com/artanddesign/2026/feb/07/ai-analysis-van-eyck-paintings-turin-philadelphia', '_blank')">
-                    <!-- Rich preview thumbnail (with fallback icon) -->
-                    <div class="article-thumbnail" style="background-image: url('https://i.guim.co.uk/img/media/bdeca1589cac4e094e9b91e4b5da10e95522f896/0_26_3358_2685/master/3358.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=0d1f959a7b7febd6b01c1f025ce8d372');"></div>
-
-                    <div class="article-content">
-                        <!-- Article headline (fixed 3-line height) -->
-                        <div class="news-headline">
-                            <a href="https://www.theguardian.com/artanddesign/2026/feb/07/ai-analysis-van-eyck-paintings-turin-philadelphia" target="_blank" onclick="event.stopPropagation();">AI analysis casts doubt on Van Eyck paintings in Italian and US museums</a>
-                        </div>
-
-                        <!-- Rich description (if available) -->
-                        
-                        <div class="article-description">
-                            Tests on Saint Francis of Assisi Receiving the Stigmata pieces were unable to detect brushstrokes of 15th-century master
-                        </div>
-                        
-
-                        <!-- Metadata (source, time) -->
-                        <div class="news-meta">
-                            <div class="news-meta-line">
-                                
-                                <div class="news-meta-item news-source">
-                                    
-                                    <img src="https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.theguardian.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
-                                         alt="The Guardian" class="news-favicon">
-                                    <a href="https://www.theguardian.com" target="_blank" onclick="event.stopPropagation();">The Guardian</a>
-                                    
-                                </div>
-                                
-                            </div>
-                            <div class="news-meta-line">
-                                
-                                <div class="news-meta-item">
-                                    <span data-timestamp="1770451200.0"></span>
-                                </div>
-                                
-                            </div>
-                        </div>
-                    </div>
-                </div>
-                
-                <div class="carousel-card" onclick="window.open('https://www.theguardian.com/technology/artificialintelligenceai/2026/feb/07/all', '_blank')">
-                    <!-- Rich preview thumbnail (with fallback icon) -->
-                    <div class="article-thumbnail" ></div>
-
-                    <div class="article-content">
-                        <!-- Article headline (fixed 3-line height) -->
-                        <div class="news-headline">
-                            <a href="https://www.theguardian.com/technology/artificialintelligenceai/2026/feb/07/all" target="_blank" onclick="event.stopPropagation();">AI (artificial intelligence)</a>
-                        </div>
-
-                        <!-- Rich description (if available) -->
-                        
-
-                        <!-- Metadata (source, time) -->
-                        <div class="news-meta">
-                            <div class="news-meta-line">
-                                
-                                <div class="news-meta-item news-source">
-                                    
-                                    <img src="https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.theguardian.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
-                                         alt="The Guardian" class="news-favicon">
-                                    <a href="https://www.theguardian.com" target="_blank" onclick="event.stopPropagation();">The Guardian</a>
-                                    
-                                </div>
-                                
-                            </div>
-                            <div class="news-meta-line">
-                                
-                                <div class="news-meta-item">
-                                    <span data-timestamp="1770451789.0"></span>
-                                </div>
-                                
-                            </div>
-                        </div>
-                    </div>
-                </div>
-                
-                <div class="carousel-card" onclick="window.open('https://www.wsj.com/tech/ai/ai-software-business-stock-market-4b17b432?gaa_at=eafs&gaa_n=AWEtsqfr4z8B9IS6gDpfNk1-CWK0TokQ8gWxqmv35GS1aMvgGx7-sw7mPCYb&gaa_ts=6986fc68&gaa_sig=gny90oMBB93NrakK4TAIQvuxoaeGIScYDMm0BYG7MGWC-xhwVecYKrDEFRDrlBuFDpVIHF1dbP8zYmAsKgjy8w%3D%3D', '_blank')">
-                    <!-- Rich preview thumbnail (with fallback icon) -->
-                    <div class="article-thumbnail" ></div>
-
-                    <div class="article-content">
-                        <!-- Article headline (fixed 3-line height) -->
-                        <div class="news-headline">
-                            <a href="https://www.wsj.com/tech/ai/ai-software-business-stock-market-4b17b432?gaa_at=eafs&gaa_n=AWEtsqfr4z8B9IS6gDpfNk1-CWK0TokQ8gWxqmv35GS1aMvgGx7-sw7mPCYb&gaa_ts=6986fc68&gaa_sig=gny90oMBB93NrakK4TAIQvuxoaeGIScYDMm0BYG7MGWC-xhwVecYKrDEFRDrlBuFDpVIHF1dbP8zYmAsKgjy8w%3D%3D" target="_blank" onclick="event.stopPropagation();">Here’s Where AI Is Tearing Through Corporate America</a>
-                        </div>
-
-                        <!-- Rich description (if available) -->
-                        
-
-                        <!-- Metadata (source, time) -->
-                        <div class="news-meta">
-                            <div class="news-meta-line">
-                                
-                                <div class="news-meta-item news-source">
-                                    
-                                    <img src="https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.wsj.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
-                                         alt="The Wall Street Journal" class="news-favicon">
-                                    <a href="https://www.wsj.com" target="_blank" onclick="event.stopPropagation();">The Wall Street Journal</a>
-                                    
-                                </div>
-                                
-                            </div>
-                            <div class="news-meta-line">
-                                
-                                <div class="news-meta-item">
-                                    <span data-timestamp="1770429600.0"></span>
-                                </div>
-                                
-                            </div>
-                        </div>
-                    </div>
-                </div>
-                
-                <div class="carousel-card" onclick="window.open('https://www.cnbc.com/2026/02/06/ai-anthropic-tools-saas-software-stocks-selloff.html', '_blank')">
-                    <!-- Rich preview thumbnail (with fallback icon) -->
-                    <div class="article-thumbnail" style="background-image: url('https://image.cnbcfm.com/api/v1/image/107431256-1718898592166-gettyimages-1737213579-PGONCHAR_4313.jpeg?v=1770350660&w=1920&h=1080');"></div>
-
-                    <div class="article-content">
-                        <!-- Article headline (fixed 3-line height) -->
-                        <div class="news-headline">
-                            <a href="https://www.cnbc.com/2026/02/06/ai-anthropic-tools-saas-software-stocks-selloff.html" target="_blank" onclick="event.stopPropagation();">AI fears pummel software stocks: Is it 'illogical' panic or a SaaS apocalypse?</a>
-                        </div>
-
-                        <!-- Rich description (if available) -->
-                        
-                        <div class="article-description">
-                            The software space is facing serious market concerns this week, after the release of new AI tools from AI triggered a market sell-off.
-                        </div>
-                        
-
-                        <!-- Metadata (source, time) -->
-                        <div class="news-meta">
-                            <div class="news-meta-line">
-                                
-                                <div class="news-meta-item news-source">
-                                    
-                                    <img src="https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.cnbc.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
-                                         alt="CNBC" class="news-favicon">
-                                    <a href="https://www.cnbc.com" target="_blank" onclick="event.stopPropagation();">CNBC</a>
-                                    
-                                </div>
-                                
-                            </div>
-                            <div class="news-meta-line">
-                                
-                                <div class="news-meta-item">
-                                    <span data-timestamp="1770351600.0"></span>
-                                </div>
-                                
-                            </div>
-                        </div>
-                    </div>
-                </div>
-                
-                <div class="carousel-card" onclick="window.open('https://abcnews.go.com/Business/new-ai-tool-hammered-software-stocks-week/story?id=129845251', '_blank')">
-                    <!-- Rich preview thumbnail (with fallback icon) -->
-                    <div class="article-thumbnail" style="background-image: url('https://i.abcnewsfe.com/a/c1f4aee2-b0c4-4d4e-80c7-40389fdc073f/anthropic-abc-jt-260205_1770311515126_hpMain_16x9.jpg?w=1600');"></div>
-
-                    <div class="article-content">
-                        <!-- Article headline (fixed 3-line height) -->
-                        <div class="news-headline">
-                            <a href="https://abcnews.go.com/Business/new-ai-tool-hammered-software-stocks-week/story?id=129845251" target="_blank" onclick="event.stopPropagation();">Why a new AI tool hammered some software stocks this week</a>
-                        </div>
-
-                        <!-- Rich description (if available) -->
-                        
-                        <div class="article-description">
-                            The new tool adapts a workplace assistant for white-collar specific industries.
-                        </div>
-                        
-
-                        <!-- Metadata (source, time) -->
-                        <div class="news-meta">
-                            <div class="news-meta-line">
-                                
-                                <div class="news-meta-item news-source">
-                                    
-                                    <img src="https://encrypted-tbn2.gstatic.com/faviconV2?url=https://abcnews.go.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
-                                         alt="ABC News" class="news-favicon">
-                                    <a href="https://abcnews.go.com" target="_blank" onclick="event.stopPropagation();">ABC News</a>
-                                    
-                                </div>
-                                
-                            </div>
-                            <div class="news-meta-line">
-                                
-                                <div class="news-meta-item">
-                                    <span data-timestamp="1770328032.0"></span>
                                 </div>
                                 
                             </div>
@@ -1647,6 +1623,47 @@
                     </div>
                 </div>
                 
+                <div class="carousel-card" onclick="window.open('https://www.cnbc.com/2026/02/06/super-bowl-ai-companies-pour-big-money-into-ads.html', '_blank')">
+                    <!-- Rich preview thumbnail (with fallback icon) -->
+                    <div class="article-thumbnail" style="background-image: url('https://image.cnbcfm.com/api/v1/image/108204189-1758834976885-gettyimages-2233950387-boivin-notitle250909_npSDA.jpeg?v=1770415189&w=1920&h=1080');"></div>
+
+                    <div class="article-content">
+                        <!-- Article headline (fixed 3-line height) -->
+                        <div class="news-headline">
+                            <a href="https://www.cnbc.com/2026/02/06/super-bowl-ai-companies-pour-big-money-into-ads.html" target="_blank" onclick="event.stopPropagation();">AI companies pour big money into Super Bowl battle</a>
+                        </div>
+
+                        <!-- Rich description (if available) -->
+                        
+                        <div class="article-description">
+                            Google, Amazon and Meta are among the companies advertising their AI tools during Super Bowl 60.
+                        </div>
+                        
+
+                        <!-- Metadata (source, time) -->
+                        <div class="news-meta">
+                            <div class="news-meta-line">
+                                
+                                <div class="news-meta-item news-source">
+                                    
+                                    <img src="https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.cnbc.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+                                         alt="CNBC" class="news-favicon">
+                                    <a href="https://www.cnbc.com" target="_blank" onclick="event.stopPropagation();">CNBC</a>
+                                    
+                                </div>
+                                
+                            </div>
+                            <div class="news-meta-line">
+                                
+                                <div class="news-meta-item">
+                                    <span data-timestamp="1770416557.0"></span>
+                                </div>
+                                
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                
 
                 <!-- View All button at end of carousel -->
                 <div class="carousel-card" style="display: flex; align-items: center; justify-content: center; cursor: pointer; background: rgba(255, 255, 255, 0.05);"
@@ -1667,7 +1684,7 @@
 
     </div>
     <div class="widget-footer">
-        <small data-timestamp="2026-02-07T08:34:00.898649+00:00">Updated 2026-02-07T08:34:00.898649+00:00</small>
+        <small data-timestamp="2026-02-07T10:27:45.358258+00:00">Updated 2026-02-07T10:27:45.358258+00:00</small>
     </div>
 </div>
 
@@ -1888,10 +1905,10 @@
                         <div class="post-meta">
                             <div class="post-meta-line">
                                 <div class="post-meta-item">
-                                    <span class="post-points">▲ 904</span>
+                                    <span class="post-points">▲ 906</span>
                                 </div>
                                 <div class="post-meta-item">
-                                    <span style="color: #9ca3af;">💬 378</span>
+                                    <span style="color: #9ca3af;">💬 382</span>
                                 </div>
                             </div>
                             <div class="post-meta-line">
@@ -1937,10 +1954,10 @@
                         <div class="post-meta">
                             <div class="post-meta-line">
                                 <div class="post-meta-item">
-                                    <span class="post-points">▲ 535</span>
+                                    <span class="post-points">▲ 539</span>
                                 </div>
                                 <div class="post-meta-item">
-                                    <span style="color: #9ca3af;">💬 222</span>
+                                    <span style="color: #9ca3af;">💬 224</span>
                                 </div>
                             </div>
                             <div class="post-meta-line">
@@ -1986,7 +2003,7 @@
                         <div class="post-meta">
                             <div class="post-meta-line">
                                 <div class="post-meta-item">
-                                    <span class="post-points">▲ 507</span>
+                                    <span class="post-points">▲ 508</span>
                                 </div>
                                 <div class="post-meta-item">
                                     <span style="color: #9ca3af;">💬 728</span>
@@ -2035,10 +2052,10 @@
                         <div class="post-meta">
                             <div class="post-meta-line">
                                 <div class="post-meta-item">
-                                    <span class="post-points">▲ 229</span>
+                                    <span class="post-points">▲ 243</span>
                                 </div>
                                 <div class="post-meta-item">
-                                    <span style="color: #9ca3af;">💬 173</span>
+                                    <span style="color: #9ca3af;">💬 186</span>
                                 </div>
                             </div>
                             <div class="post-meta-line">
@@ -2084,10 +2101,10 @@
                         <div class="post-meta">
                             <div class="post-meta-line">
                                 <div class="post-meta-item">
-                                    <span class="post-points">▲ 198</span>
+                                    <span class="post-points">▲ 209</span>
                                 </div>
                                 <div class="post-meta-item">
-                                    <span style="color: #9ca3af;">💬 88</span>
+                                    <span style="color: #9ca3af;">💬 103</span>
                                 </div>
                             </div>
                             <div class="post-meta-line">
@@ -2133,10 +2150,10 @@
                         <div class="post-meta">
                             <div class="post-meta-line">
                                 <div class="post-meta-item">
-                                    <span class="post-points">▲ 110</span>
+                                    <span class="post-points">▲ 111</span>
                                 </div>
                                 <div class="post-meta-item">
-                                    <span style="color: #9ca3af;">💬 178</span>
+                                    <span style="color: #9ca3af;">💬 184</span>
                                 </div>
                             </div>
                             <div class="post-meta-line">
@@ -2153,6 +2170,55 @@
                                             
                                         
                                         <span>the Guardian</span>
+                                    </a>
+                                </div>
+                                
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                
+                <div class="carousel-card" onclick="window.open('https://news.ycombinator.com/item?id=46901233', '_blank')">
+                    <!-- Rich preview thumbnail (with fallback icon) -->
+                    <div class="post-thumbnail" style="background-image: url('https://circlemind.mintlify.app/mintlify-assets/_next/image?url=%2F_mintlify%2Fapi%2Fog%3Fdivision%3DCLI%2BBrowser%26title%3DOverview%26description%3DGive%2Byour%2BAI%2Bagent%2Ba%2Bbrowser%2Bthat%2Bactually%2Bworks%26logoLight%3Dhttps%253A%252F%252Fmintcdn.com%252Fcirclemind%252Fk6UDxzmXp06guyWp%252Flogo%252Flight.svg%253Ffit%253Dmax%2526auto%253Dformat%2526n%253Dk6UDxzmXp06guyWp%2526q%253D85%2526s%253D5ceecd1c16c736ee161ef138a78c1ad2%26logoDark%3Dhttps%253A%252F%252Fmintcdn.com%252Fcirclemind%252Fk6UDxzmXp06guyWp%252Flogo%252Fdark.svg%253Ffit%253Dmax%2526auto%253Dformat%2526n%253Dk6UDxzmXp06guyWp%2526q%253D85%2526s%253D09830d7ae7bc8f8a427985ad70b72370%26primaryColor%3D%25230081ff%26lightColor%3D%25230081ff%26darkColor%3D%25230081ff%26backgroundLight%3D%2523ffffff%26backgroundDark%3D%2523090b10&w=1200&q=100');"></div>
+
+                    <div class="post-content">
+                        <!-- Post title (fixed 3-line height) -->
+                        <div class="post-title">
+                            <a href="https://news.ycombinator.com/item?id=46901233" target="_blank" onclick="event.stopPropagation();">Show HN: Smooth CLI – Token-efficient browser for AI agents</a>
+                        </div>
+
+                        <!-- Rich description (if available) -->
+                        
+                        <div class="post-description">
+                            Give your AI agent a browser that actually works
+                        </div>
+                        
+
+                        <!-- Metadata (points, comments, time) -->
+                        <div class="post-meta">
+                            <div class="post-meta-line">
+                                <div class="post-meta-item">
+                                    <span class="post-points">▲ 90</span>
+                                </div>
+                                <div class="post-meta-item">
+                                    <span style="color: #9ca3af;">💬 66</span>
+                                </div>
+                            </div>
+                            <div class="post-meta-line">
+                                <div class="post-meta-item">
+                                    <span class="post-age" data-timestamp="2026-02-05T16:13:33Z"></span>
+                                </div>
+                                <!-- External article source (on same line as time) -->
+                                
+                                <div class="post-meta-item post-source">
+                                    <a href="https://docs.smooth.sh/cli/overview" target="_blank" onclick="event.stopPropagation();">
+                                        
+                                            
+                                            <img src="https://docs.smooth.sh/mintlify-assets/_mintlify/favicons/circlemind/RzN7wB_KeVr9ZQa-/_generated/favicon/apple-touch-icon.png" alt="" class="post-favicon">
+                                            
+                                        
+                                        <span>docs.smooth.sh</span>
                                     </a>
                                 </div>
                                 
@@ -2227,7 +2293,7 @@
                         <div class="post-meta">
                             <div class="post-meta-line">
                                 <div class="post-meta-item">
-                                    <span class="post-points">▲ 87</span>
+                                    <span class="post-points">▲ 88</span>
                                 </div>
                                 <div class="post-meta-item">
                                     <span style="color: #9ca3af;">💬 84</span>
@@ -2247,55 +2313,6 @@
                                             
                                         
                                         <span>CNBC</span>
-                                    </a>
-                                </div>
-                                
-                            </div>
-                        </div>
-                    </div>
-                </div>
-                
-                <div class="carousel-card" onclick="window.open('https://news.ycombinator.com/item?id=46901233', '_blank')">
-                    <!-- Rich preview thumbnail (with fallback icon) -->
-                    <div class="post-thumbnail" style="background-image: url('https://circlemind.mintlify.app/mintlify-assets/_next/image?url=%2F_mintlify%2Fapi%2Fog%3Fdivision%3DCLI%2BBrowser%26title%3DOverview%26description%3DGive%2Byour%2BAI%2Bagent%2Ba%2Bbrowser%2Bthat%2Bactually%2Bworks%26logoLight%3Dhttps%253A%252F%252Fmintcdn.com%252Fcirclemind%252Fk6UDxzmXp06guyWp%252Flogo%252Flight.svg%253Ffit%253Dmax%2526auto%253Dformat%2526n%253Dk6UDxzmXp06guyWp%2526q%253D85%2526s%253D5ceecd1c16c736ee161ef138a78c1ad2%26logoDark%3Dhttps%253A%252F%252Fmintcdn.com%252Fcirclemind%252Fk6UDxzmXp06guyWp%252Flogo%252Fdark.svg%253Ffit%253Dmax%2526auto%253Dformat%2526n%253Dk6UDxzmXp06guyWp%2526q%253D85%2526s%253D09830d7ae7bc8f8a427985ad70b72370%26primaryColor%3D%25230081ff%26lightColor%3D%25230081ff%26darkColor%3D%25230081ff%26backgroundLight%3D%2523ffffff%26backgroundDark%3D%2523090b10&w=1200&q=100');"></div>
-
-                    <div class="post-content">
-                        <!-- Post title (fixed 3-line height) -->
-                        <div class="post-title">
-                            <a href="https://news.ycombinator.com/item?id=46901233" target="_blank" onclick="event.stopPropagation();">Show HN: Smooth CLI – Token-efficient browser for AI agents</a>
-                        </div>
-
-                        <!-- Rich description (if available) -->
-                        
-                        <div class="post-description">
-                            Give your AI agent a browser that actually works
-                        </div>
-                        
-
-                        <!-- Metadata (points, comments, time) -->
-                        <div class="post-meta">
-                            <div class="post-meta-line">
-                                <div class="post-meta-item">
-                                    <span class="post-points">▲ 86</span>
-                                </div>
-                                <div class="post-meta-item">
-                                    <span style="color: #9ca3af;">💬 63</span>
-                                </div>
-                            </div>
-                            <div class="post-meta-line">
-                                <div class="post-meta-item">
-                                    <span class="post-age" data-timestamp="2026-02-05T16:13:33Z"></span>
-                                </div>
-                                <!-- External article source (on same line as time) -->
-                                
-                                <div class="post-meta-item post-source">
-                                    <a href="https://docs.smooth.sh/cli/overview" target="_blank" onclick="event.stopPropagation();">
-                                        
-                                            
-                                            <img src="https://docs.smooth.sh/mintlify-assets/_mintlify/favicons/circlemind/RzN7wB_KeVr9ZQa-/_generated/favicon/apple-touch-icon.png" alt="" class="post-favicon">
-                                            
-                                        
-                                        <span>docs.smooth.sh</span>
                                     </a>
                                 </div>
                                 
@@ -2373,7 +2390,7 @@
 
     </div>
     <div class="widget-footer">
-        <small data-timestamp="2026-02-07T08:33:41.555310+00:00">Updated 2026-02-07T08:33:41.555310+00:00</small>
+        <small data-timestamp="2026-02-07T10:27:21.674166+00:00">Updated 2026-02-07T10:27:21.674166+00:00</small>
     </div>
 </div>
 
