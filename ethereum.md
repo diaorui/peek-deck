@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-02-07T17:52:45.515628+00:00'
+updated: '2026-02-07T18:37:35.713404+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
+- videos
 - cryptocurrency
 - social
 - news
-- videos
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** February 07, 2026 at 17:52 UTC  
+**Last Updated:** February 07, 2026 at 18:37 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -36,33 +36,33 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Price
 
-### $2,051.80
+### $2,097.97
 
 ---
 
 ## Ethereum Chart
 
-**24h:** +0.3%  
-**7d:** -9.5%  
-**30d:** -33.5%  
-**90d:** -42.3%  
-**1y:** -22.1%  
+**24h:** +1.5%  
+**7d:** -7.6%  
+**30d:** -32.0%  
+**90d:** -41.1%  
+**1y:** -20.4%  
 
 ---
 
 ## Ethereum Market Stats
 
-**Market Cap:** $247.60B
+**Market Cap:** $252.54B
 Rank #2
 
 **Circulating Supply:** 120,692,655 ETH
 No max supply
 
 **All-Time High:** $4,946.05
--58.5%
+-57.7%
 
 **All-Time Low:** $0.43
-+473976.1%
++483565.5%
 
 ---
 
@@ -72,7 +72,7 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-11h ago
+12h ago
 
 ---
 
@@ -96,7 +96,7 @@ Vitalik: role of L2s has changed, Hegotá upgrade headliner proposals, Lido v3 l
 
 im jef, and im honestly just starting to get into crypto, trying to understand how all of this works and whether it’s something i could realistically learn and grow into over time. i don’t come from money, im just a student juggling school, responsibilities, and everyday expenses, so I don’t have much to risk or experiment with, which is why im looking for advice more than anything else. i’ve been reading, watching, and asking around, but it still feels overwhelming, and i know im inexperienced and probably missing a lot of important basics. At the same time, a part of me thinks this could be a real opportunity if i approach it carefully, stay patient, and learn from people who actually know what they’re doing. im not chasing quick profits or hype, i just want guidance on how to start smart, avoid obvious mistakes, and figure out if someone like me, broke, still studying, and learning as i go, i might have a genuine chance at building something small but meaningful through crypto in the long run. could anyone give advise?
 
-13h ago
+14h ago
 
 ---
 
@@ -134,7 +134,7 @@ https://etherscan.io/tx/0xaab90d00abf065e4158852a64c809b8921d109e997bd3790cb471a
 
 **[Incorrect Aave Transaction History list](https://www.reddit.com/r/ethereum/comments/1qwsgej/incorrect_aave_transaction_history_list/)**
 
-1d ago
+2d ago
 
 ---
 
@@ -154,7 +154,7 @@ Fellow Dudes! Does any one know when exactly real world assets such as property 
 
 ENS Labs is canceling the launch of the Namechain Layer 2, which began development in 2024 to support the forthcoming ENSv2 update.
 
-The Block • 19h ago
+The Block • 20h ago
 
 ---
 
@@ -178,7 +178,7 @@ CoinDesk • 2d ago
 
 BitMine Immersion Technologies, ticker NYSEAM:BMNR, is reporting nearly $8b in unrealized losses tied to its Ethereum holdings after a sharp pullback in ETH prices. The company continues to frame its large Ethereum position and staking operations as part of a long term treasury approach, while continuing to accumulate ETH. Recent executive turnover, including the amicable separation of President Erik Nelson, is adding another layer of uncertainty for shareholders during heightened crypto...
 
-Yahoo Finance • 45m ago
+Yahoo Finance • 1h ago
 
 ---
 
@@ -202,7 +202,7 @@ Nasdaq • 1d ago
 
 Coinbase customers faced losses in fresh ways through the exchange’s crypto-backed lending product as Bitcoin and Ethereum tumbled this week.
 
-Decrypt • 22h ago
+Decrypt • 23h ago
 
 ---
 
@@ -220,7 +220,7 @@ Mashable • 1d ago
 
 ---
 
-**[Bitcoin, XRP, Ethereum Drop. Why Cryptos Are Under Pressure Today.](https://www.barrons.com/articles/bitcoin-xrp-ethereum-cryptos-gold-9051820f?gaa_at=eafs&gaa_n=AWEtsqdEOdZfY5fJqqSKzoPx3_bTg7fUmzj4c6FNAEg8zuS3RtQ_KQNmQMsV&gaa_ts=69877979&gaa_sig=8zLXmcEtI0N6XLFmHxtef-HPMoYhtijstB4NKZZ8U2xmVEVN6c_IXfMvP4so2yeUNIPT-Yx9W2g1N7QiRMIqTA%3D%3D)**
+**[Bitcoin, XRP, Ethereum Drop. Why Cryptos Are Under Pressure Today.](https://www.barrons.com/articles/bitcoin-xrp-ethereum-cryptos-gold-9051820f?gaa_at=eafs&gaa_n=AWEtsqePlgleYRCA6AMYoYwR_2-JnkZPuIuqRSvzfIm1JZ39Egmt8dk6fXrZ&gaa_ts=698789de&gaa_sig=WHAVKhK40IviloesNbrmhyBOkZnD_KzfwufFEWRBkC623QjRafPqYYBwktG3bfnmpxVUkFIEoevBdCU-_tl0CQ%3D%3D)**
 
 Barron's • 2d ago
 
@@ -236,7 +236,7 @@ Tom Lee, Fundstrat, joins 'Closing Bell' to discuss the state of crypto markets,
 
 📺 CNBC Television
 
-👁️ 52K • 👍 655 • 💬 312 • ⏱️ 3:53 • 20h ago
+👁️ 56K • 👍 675 • 💬 333 • ⏱️ 3:53 • 21h ago
 
 ---
 
@@ -256,7 +256,7 @@ ETHEREUM ETH PRICE PREDICTION 2026 Join the Premium Signal Group for trade setup
 
 📺 Cilinix Crypto
 
-👁️ 288 • 👍 19 • 💬 7 • ⏱️ 5:23 • 7h ago
+👁️ 399 • 👍 23 • 💬 6 • ⏱️ 5:23 • 8h ago
 
 ---
 
@@ -266,7 +266,7 @@ My FREE Daily 5-Min Crypto Newsletter: https://www.cryptonutshell.com/subscribe 
 
 📺 Crypto Nutshell
 
-👁️ 17K • 👍 468 • 💬 155 • ⏱️ 22:22 • 2d ago
+👁️ 17K • 👍 474 • 💬 156 • ⏱️ 22:22 • 2d ago
 
 ---
 
@@ -276,7 +276,7 @@ One of the biggest crypto crashes in history! Here is what happened, why and my 
 
 📺 Thomas Kralow
 
-👁️ 33K • 👍 1K • 💬 72 • ⏱️ 11:51 • 1d ago
+👁️ 34K • 👍 1K • 💬 74 • ⏱️ 11:51 • 1d ago
 
 ---
 
@@ -286,7 +286,17 @@ This video provides a professional Elliott Wave and technical analysis of Ethere
 
 📺 More Crypto Online
 
-👁️ 3K • 👍 190 • 💬 14 • ⏱️ 4:02 • 17h ago
+👁️ 3K • 👍 192 • 💬 14 • ⏱️ 4:02 • 17h ago
+
+---
+
+**[Vitalik Buterin’s Ethereum Strategy Shift Validates Kaspa’s Vision!](https://www.youtube.com/watch?v=Ok1i6lgU_Yo)**
+
+Tangem 20% off + $10 in Bitcoin ➡️➡️ Use codes "NYEXTRA26" & "CRYPTOCREW" UNTIL March 2nd!
+
+📺 Your Crypto Crew
+
+👁️ 389 • 👍 69 • 💬 23 • ⏱️ 12:26 • 3h ago
 
 ---
 
@@ -296,27 +306,7 @@ BITCOIN CRASH OVER: My $5 Million Trading Strategy!!! - Bitcoin News Today, Ethe
 
 📺 Crypto World
 
-👁️ 10K • 👍 422 • 💬 137 • ⏱️ 22:22 • 18h ago
-
----
-
-**[Is It FK&#39;ing Over For Ethereum? ⚠️ ETH Crypto Token Analysis](https://www.youtube.com/watch?v=80hmk4Zds2A)**
-
-Join Premium: https://the-bitcoin-strategy.com My Chart Software: https://the-bitcoin-strategy.com/tradingview My Hardware Wallet: ...
-
-📺 Gerhard - Bitcoin Strategy
-
-👁️ 10K • 👍 224 • 💬 49 • ⏱️ 9:49 • 2d ago
-
----
-
-**[Live Crypto Trading | Bitcoin Live Trading Intelligent trader | 7 Feb | #btc #eth #cryptotrading](https://www.youtube.com/watch?v=ocdtX_CdFGk)**
-
-Account Open From Here - Delta India - (CRYPTO BROKER) https://india.delta.exchange/?code=intelligenttrader After Opening ...
-
-📺 Intelligent Trader
-
-👁️ 5K • 👍 540 • 3h ago
+👁️ 10K • 👍 437 • 💬 233 • ⏱️ 22:22 • 19h ago
 
 ---
 
@@ -326,7 +316,17 @@ Take Control of Your Retirement — Grow Crypto & Gold Tax-Advantaged. https://w
 
 📺 Savvy Finance
 
-👁️ 8K • 👍 344 • 💬 11 • ⏱️ 20:57 • 1d ago
+👁️ 8K • 👍 343 • 💬 11 • ⏱️ 20:57 • 1d ago
+
+---
+
+**[Is It FK&#39;ing Over For Ethereum? ⚠️ ETH Crypto Token Analysis](https://www.youtube.com/watch?v=80hmk4Zds2A)**
+
+Join Premium: https://the-bitcoin-strategy.com My Chart Software: https://the-bitcoin-strategy.com/tradingview My Hardware Wallet: ...
+
+📺 Gerhard - Bitcoin Strategy
+
+👁️ 10K • 👍 225 • 💬 49 • ⏱️ 9:49 • 2d ago
 
 ---
 
