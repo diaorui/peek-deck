@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-02-07T18:37:35.707352+00:00'
+updated: '2026-02-07T19:24:47.545327+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- videos
+- news
 - cryptocurrency
 - social
-- news
+- videos
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** February 07, 2026 at 18:37 UTC  
+**Last Updated:** February 07, 2026 at 19:24 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -95,7 +95,7 @@ If you see blockchain activity whales are clearly accumulating taking BTC outsid
 
 HODL strong through the storms; the future rewards the patient. 🚀 🙌
 
-58m ago
+1h ago
 
 ---
 
@@ -103,7 +103,7 @@ HODL strong through the storms; the future rewards the patient. 🚀 🙌
 
 ​
 
-12h ago
+13h ago
 
 ---
 
@@ -111,7 +111,7 @@ HODL strong through the storms; the future rewards the patient. 🚀 🙌
 
 My mother barely uses Facebook and has zero interest in technology or finance. Yet here we are: she asked me to help her buy Bitcoin. Over the past months, I’ve talked a lot about Bitcoin at home — why I believe in it, my long-term goals, scarcity, adoption, etc. I guess at some point it clicked for her. The problem is… now I’m scared. Even though I truly believe in Bitcoin’s future, I’m afraid of a few things: What if things don’t go as expected? What if she doesn’t live long enough to really see the benefits of this investment? What if she can’t mentally handle the volatility and panic during big drawdowns? This feels very different from investing my own money. If Bitcoin drops 50%, I can handle it. If her money drops 50%, that’s a different emotional weight. I don’t want to be irresponsible or turn into “that guy” who convinced a family member to invest and then regrets it forever. So I’m asking those of you who’ve been here longer or have more life experience: What would you do in my position?
 
-1h ago
+2h ago
 
 ---
 
@@ -123,7 +123,7 @@ My mother barely uses Facebook and has zero interest in technology or finance. Y
 
 **[Look babe, bitcoin went up 9% today](https://www.reddit.com/r/Bitcoin/comments/1qy03oz/look_babe_bitcoin_went_up_9_today/)**
 
-17h ago
+18h ago
 
 ---
 
@@ -137,7 +137,7 @@ My mother barely uses Facebook and has zero interest in technology or finance. Y
 
 Basically
 
-5h ago
+6h ago
 
 ---
 
@@ -145,7 +145,7 @@ Basically
 
 I’m in multiple investment groups with very sharp people, and the skepticism is louder than I’ve heard it in a long time. Even my resident conspiracy-theorist cousin has re-emerged with “proof.” Who knew This was exactly the sentiment we needed, when I thought I’d never again see prices at these levels 😂
 
-15h ago
+16h ago
 
 ---
 
@@ -157,19 +157,19 @@ I’m in multiple investment groups with very sharp people, and the skepticism i
 
 Trump got elected promising to usher in a crypto revolution. More than a year later, bitcoin's price has come tumbling down. What happened?
 
-NPR • 8h ago
+NPR • 9h ago
 
 ---
 
 **[Bitcoin To Fall To $54K? Veteran Trader Questions Whether Strategy Investors Can Hold On](https://uk.finance.yahoo.com/news/bitcoin-fall-54k-veteran-trader-164602291.html)**
 
-Yahoo Finance UK • 1h ago
+Yahoo Finance UK • 2h ago
 
 ---
 
 **[THIS IS WHY BITCOIN DUMPED NON STOP FROM $126,000 TO $60,000.](https://www.binance.com/en/square/post/289135238428545)**
 
-Binance • 2h ago
+Binance • 3h ago
 
 ---
 
@@ -177,7 +177,7 @@ Binance • 2h ago
 
 The company quickly realised its mistake and managed to recover virtually all the missing tokens from customers.
 
-BBC • 4h ago
+BBC • 5h ago
 
 ---
 
@@ -186,7 +186,7 @@ users](https://www.cnbc.com/2026/02/07/south-korean-crypto-firm-accidentally-sen
 
 The move triggered a sharp selloff on the Bithumb exchange. The company apologized for the mistake.
 
-CNBC • 8h ago
+CNBC • 9h ago
 
 ---
 
@@ -200,7 +200,7 @@ Yahoo Finance • 1d ago
 
 **[The Kidnappers Of Savannah Guthrie's Mom Want Bitcoin—But It’s Not As Anonymous As Many Think](https://www.forbes.com/sites/martinadilicosa/2026/02/06/the-kidnappers-of-savannah-guthries-mom-want-bitcoin-but-its-not-as-anonymous-as-many-think/)**
 
-Forbes • 22h ago
+Forbes • 23h ago
 
 ---
 
@@ -294,7 +294,7 @@ Cryptocurrency markets fell as global equities and precious metals sold off whil
 
 SE050 Hardware Bitcoin Wallet - Self-sovereign Bitcoin wallet powered by NXP SE050 secure element - 0xdeadbeefnetwork/sigil-web
 
-⬆️ 2 • 💬 1 • 11h ago • [GitHub](https://github.com/0xdeadbeefnetwork/sigil-web)
+⬆️ 2 • 💬 1 • 12h ago • [GitHub](https://github.com/0xdeadbeefnetwork/sigil-web)
 
 ---
 
@@ -326,7 +326,7 @@ Bitcoin has been in a free-fall the past few months. At one point yesterday, it 
 
 📺 From The Desk Of Anthony Pompliano
 
-👁️ 37K • 👍 2K • 💬 272 • ⏱️ 9:43 • 20h ago
+👁️ 37K • 👍 2K • 💬 272 • ⏱️ 9:43 • 21h ago
 
 ---
 
@@ -356,7 +356,7 @@ BYBIT: http://themoon.co/Bybit 10% DISCOUNT & $30000 BONUS Phemex: https://themo
 
 📺 The Moon Show
 
-👁️ 17K • 👍 901 • 💬 71 • ⏱️ 6:39 • 8h ago
+👁️ 17K • 👍 901 • 💬 71 • ⏱️ 6:39 • 9h ago
 
 ---
 
@@ -376,7 +376,7 @@ Bitcoin's record volatility is sending shockwaves through the crypto market—ar
 
 📺 Discover Crypto
 
-👁️ 16K • 👍 160 • 💬 35 • ⏱️ 0:26 • 23h ago
+👁️ 16K • 👍 160 • 💬 35 • ⏱️ 0:26 • 1d ago
 
 ---
 
@@ -386,7 +386,7 @@ Bitcoin insane price collapse, but where is the bottom for BTC? BITUNIX TRADE TH
 
 📺 Lark Davis
 
-👁️ 5K • 👍 501 • 💬 82 • ⏱️ 14:26 • 3h ago
+👁️ 5K • 👍 501 • 💬 82 • ⏱️ 14:26 • 4h ago
 
 ---
 
@@ -406,7 +406,7 @@ CNBC's “Closing Bell Overtime” team discusses cryptocurrencies, bitcoin's vo
 
 📺 CNBC Television
 
-👁️ 31K • 👍 299 • 💬 334 • ⏱️ 4:14 • 20h ago
+👁️ 31K • 👍 299 • 💬 334 • ⏱️ 4:14 • 21h ago
 
 ---
 

@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-02-07T18:37:35.698739+00:00'
+updated: '2026-02-07T19:24:47.537862+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- repositories
-- videos
-- social
 - news
+- social
+- videos
+- repositories
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** February 07, 2026 at 18:37 UTC  
+**Last Updated:** February 07, 2026 at 19:24 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -41,7 +41,7 @@ AI news, discussions, and developments
 
 Countries have been building their own “sovereign AI” to reflect their culture and values, and OpenAI wants to help them....
 
-🔗 [Sherwood News](https://sherwood.news/tech/report-openai-may-tailor-a-version-of-chatgpt-for-uae-that-prohibits-lgbtq/) • 8h ago
+🔗 [Sherwood News](https://sherwood.news/tech/report-openai-may-tailor-a-version-of-chatgpt-for-uae-that-prohibits-lgbtq/) • 9h ago
 
 ---
 
@@ -49,7 +49,7 @@ Countries have been building their own “sovereign AI” to reflect their cultu
 
 I have been working solo on an AI-based project called Netryx. At a high level, it takes a street-level photo and attempts to determine the exact GPS coordinates where the image was taken. Not a city guess or a heatmap. The actual location, down to meters. If the system cannot verify the result with high confidence, it returns nothing. That behavior is intentional. Most AI geolocation tools will confidently give an answer even when they are wrong. Netryx is designed to fail closed. No verification means no output. Conceptually, it works in two stages. An AI model first narrows down likely areas based on visual features, either globally or within a user-defined region. A separate verification step then compares candidates against real street-level imagery. If verification fails, the result is discarded. This means it is not magic and not globally omniscient. The system requires pre-mapped street-level coverage to verify locations. Think of it as an AI-assisted visual index of physical space. As a test, I mapped roughly 5 square kilometers of Paris and fed in a random street photo from within that area. It identified the exact intersection in under three minutes. A few clarifications upfront: • It is not open source right now due to obvious privacy and abuse risks • It requires prior street-level coverage to return results • AI proposes candidates, verification gates all outputs • I am not interested in locating people from social media photos I am posting this here to get perspective from the security community. From a defensive angle, this shows how much location data AI can extract from ordinary images. From an offensive angle, the risks are clear. For those working in cybersecurity or AI security: where do you think the line is between a legitimate AI-powered OSINT capability and something that should not exist?
 
-11h ago
+12h ago
 
 ---
 
@@ -65,7 +65,7 @@ Let’s say the quiet part out loud.
 
 Update to my previous post. Went back to extract everything and found some super sketchy stuff. For anyone that uses kimi through the chat interface: One of Kimi’s browser automation scripts uses a dark web library with crypto stealing malware: https://github.com/dnnyngyen/kimi-agent-internals/blob/main/source-code/browser_guard.py Btw: Hash verification using shell tools on 3 separate accounts. It didnt produce anything in chat, it walked over its actual file system contents. The exact ones across 4 different modes on 3 different accounts. In the repo you’ll also find 6 system prompts (Base Chat, OK Computer, Docs, Sheets, Slides, Websites), 38 tool schemas, 4 skill folders (DOCX, XLSX, PDF, WebApp), runtime source code (browser automation, kernel server, Jupyter kernel), and container architecture. Please stay safe!!!
 
-1h ago
+2h ago
 
 ---
 
@@ -73,7 +73,7 @@ Update to my previous post. Went back to extract everything and found some super
 
 Goldman Sachs is building AI agents with Anthropic’s Claude to automate trade accounting and client onboarding, aiming to speed work and boost efficiency.
 
-🔗 [CNBC](https://www.cnbc.com/2026/02/06/anthropic-goldman-sachs-ai-model-accounting.html) • 20h ago
+🔗 [CNBC](https://www.cnbc.com/2026/02/06/anthropic-goldman-sachs-ai-model-accounting.html) • 21h ago
 
 ---
 
@@ -105,7 +105,7 @@ Anthropic shipped Opus 4.6 and OpenAI shipped GPT-5.3-Codex on the same day, 27 
 
 An AI-powered model developed at University of Michigan can read a brain MRI and diagnose a person in seconds, a study suggests.&nbsp;It detected neurological conditions with up to 97.5% accuracy and predicted how urgently a patient required treatment. The technology&nbsp;could transform neuroimaging at health systems across the United States.
 
-🔗 [EurekAlert!](https://www.eurekalert.org/news-releases/1115393) • 15h ago
+🔗 [EurekAlert!](https://www.eurekalert.org/news-releases/1115393) • 16h ago
 
 ---
 
@@ -125,7 +125,7 @@ It happened again. A 13-person team in Shenzhen just shipped a browser-based ver
 
 Tech's megacaps announced major increases in capex spend for 2026, and now investors are preparing for cash to dwindle.
 
-CNBC • 20h ago
+CNBC • 21h ago
 
 ---
 
@@ -147,7 +147,7 @@ Business Insider • 1d ago
 
 **[Here’s Where AI Is Tearing Through Corporate America](https://www.wsj.com/tech/ai/ai-software-business-stock-market-4b17b432?gaa_at=eafs&gaa_n=AWEtsqeyj4RQ-9quOoJ7314IBL4ZEqMJX7WElFGAv0q_Z_ba22nDLu5nz0Wb&gaa_ts=698789d9&gaa_sig=hl9jF58ofOalXCF15EtpdtGn6V3-OFbqspUtuMlW6JRvKdel4H6D19v_-7UGXosay2YX01cWS0L9NNRzWBamMA%3D%3D)**
 
-The Wall Street Journal • 16h ago
+The Wall Street Journal • 17h ago
 
 ---
 
@@ -155,7 +155,7 @@ The Wall Street Journal • 16h ago
 
 AI isn't just hitting software valuations — it's changing how software companies operate.
 
-Axios • 8h ago
+Axios • 9h ago
 
 ---
 
@@ -177,7 +177,7 @@ The Washington Post • 1h ago
 
 **[New study uses Neanderthals to demonstrate gap between generative AI and scholarly knowledge](https://phys.org/news/2026-02-neanderthals-gap-generative-ai-scholarly.html)**
 
-Phys.org • 21h ago
+Phys.org • 22h ago
 
 ---
 
@@ -193,7 +193,7 @@ MIT Technology Review • 1d ago
 
 Jim Steyer of Common Sense Media is warning that artificial intelligence companion tools "are not safe for kids under 18" as interactions turn personal.
 
-Fox News • 6h ago
+Fox News • 7h ago
 
 ---
 
@@ -203,7 +203,7 @@ Fox News • 6h ago
 
 **[My AI Adoption Journey](https://news.ycombinator.com/item?id=46903558)**
 
-⬆️ 925 • 💬 395 • 1d ago • [Mitchell Hashimoto](https://mitchellh.com/writing/my-ai-adoption-journey)
+⬆️ 925 • 💬 395 • 2d ago • [Mitchell Hashimoto](https://mitchellh.com/writing/my-ai-adoption-journey)
 
 ---
 
@@ -219,7 +219,7 @@ A new bill in the New York state legislature would require news organizations to
 
 AI is rarely optional anymore, but how can you still be proud of your craft? Discover the workflow to effectively write high-quality, robust code using AI tools.
 
-⬆️ 308 • 💬 274 • 23h ago • [heidenstedt.org](https://heidenstedt.org/posts/2026/how-to-effectively-write-quality-code-with-ai/)
+⬆️ 308 • 💬 274 • 1d ago • [heidenstedt.org](https://heidenstedt.org/posts/2026/how-to-effectively-write-quality-code-with-ai/)
 
 ---
 
@@ -227,7 +227,7 @@ AI is rarely optional anymore, but how can you still be proud of your craft? Dis
 
 A minimal, secure Python interpreter written in Rust for use by AI - pydantic/monty
 
-⬆️ 281 • 💬 150 • 21h ago • [GitHub](https://github.com/pydantic/monty)
+⬆️ 281 • 💬 150 • 22h ago • [GitHub](https://github.com/pydantic/monty)
 
 ---
 
@@ -265,7 +265,7 @@ Fears over AI spending have sparked a sell-off among tech stocks.
 
 The hundreds of billions of dollars being spent by tech companies on AI projects are diverting resources from other parts of the economy.
 
-⬆️ 64 • 💬 61 • 7h ago • [The Washington Post](https://www.washingtonpost.com/technology/2026/02/07/ai-spending-economy-shortages/)
+⬆️ 64 • 💬 61 • 8h ago • [The Washington Post](https://www.washingtonpost.com/technology/2026/02/07/ai-spending-economy-shortages/)
 
 ---
 
@@ -273,7 +273,7 @@ The hundreds of billions of dollars being spent by tech companies on AI projects
 
 A California man is facing a criminal charge for allegedly BASE jumping off Glacier Point in Yosemite National Park during the federal government shutdown last year.
 
-⬆️ 53 • 💬 89 • 23h ago • [Los Angeles Times](https://www.latimes.com/california/story/2026-02-05/man-videotaped-himself-base-jumping-in-yosemite-federal-officials-say-he-says-it-was-ai)
+⬆️ 53 • 💬 89 • 1d ago • [Los Angeles Times](https://www.latimes.com/california/story/2026-02-05/man-videotaped-himself-base-jumping-in-yosemite-federal-officials-say-he-says-it-was-ai)
 
 ---
 
@@ -287,7 +287,7 @@ Create AI Influencers using Higgsfield https://youricreates.com/Higgsfield-AI In
 
 📺 Youri van Hofwegen
 
-👁️ 4K • 💬 6 • ⏱️ 8:07 • 2h ago
+👁️ 4K • 💬 6 • ⏱️ 8:07 • 3h ago
 
 ---
 
@@ -317,7 +317,7 @@ Some companies are using artificial intelligence in their advertisements that wi
 
 📺 NBC News
 
-👁️ 2K • 👍 16 • 💬 11 • ⏱️ 5:26 • 15h ago
+👁️ 2K • 👍 16 • 💬 11 • ⏱️ 5:26 • 16h ago
 
 ---
 
@@ -337,7 +337,7 @@ Jensen Huang, NVIDIA CEO, joins CNBC's "Halftime Report to discuss the power of 
 
 📺 CNBC Television
 
-👁️ 115K • 👍 1K • 💬 399 • ⏱️ 8:35 • 23h ago
+👁️ 115K • 👍 1K • 💬 399 • ⏱️ 8:35 • 1d ago
 
 ---
 
@@ -357,7 +357,7 @@ Moya, a humanoid robot unveiled in Shanghai, China by robotics company DroidUp, 
 
 📺 Technical Guru G 2.0
 
-👁️ 7K • 👍 46 • 💬 5 • ⏱️ 0:09 • 9h ago
+👁️ 7K • 👍 46 • 💬 5 • ⏱️ 0:09 • 10h ago
 
 ---
 
@@ -367,7 +367,7 @@ I turned my AI Influencer into a realistic on-camera personality using Kling 3.0
 
 📺 Grow with Dani
 
-👁️ 3K • 👍 226 • 💬 9 • ⏱️ 10:56 • 19h ago
+👁️ 3K • 👍 226 • 💬 9 • ⏱️ 10:56 • 20h ago
 
 ---
 
@@ -429,7 +429,7 @@ Step 3.5 Flash is an efficient, open-source MoE foundation model (11B active par
 
 `text-generation` `199.4B`
 
-⬇️ 11,980 • ❤️ 508 • 12h ago
+⬇️ 11,980 • ❤️ 508 • 13h ago
 
 ---
 
@@ -646,7 +646,7 @@ Browser automation CLI for AI agents
 
 `TypeScript`
 
-⭐ 13.1k • 🔱 755 • 23h ago
+⭐ 13.1k • 🔱 755 • 1d ago
 
 ---
 
@@ -656,7 +656,7 @@ AI → JSON → UI
 
 `TypeScript`
 
-⭐ 10.1k • 🔱 537 • 5m ago
+⭐ 10.1k • 🔱 537 • 52m ago
 
 ---
 
@@ -666,7 +666,7 @@ LLM驱动的 A/H/美股智能分析器，多数据源行情 + 实时新闻 + Gem
 
 `Python` `agent` `ai` `aigc` `gemini` `llm`
 
-⭐ 9.8k • 🔱 10.3k • 4h ago
+⭐ 9.8k • 🔱 10.3k • 5h ago
 
 ---
 
@@ -676,7 +676,7 @@ The Ultimate Collection of 700+ Agentic Skills for Claude Code/Antigravity/Curso
 
 `Python` `agentic-skills` `ai-agents` `antigravity` `autonomous-coding` `claude-code`
 
-⭐ 7.8k • 🔱 1.6k • 11h ago
+⭐ 7.8k • 🔱 1.6k • 12h ago
 
 ---
 
