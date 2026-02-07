@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-02-07T21:51:21.361552+00:00'
+updated: '2026-02-07T22:28:18.596320+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
 - cryptocurrency
 - news
-- social
 - videos
+- social
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** February 07, 2026 at 21:51 UTC  
+**Last Updated:** February 07, 2026 at 22:28 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -36,17 +36,17 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Price
 
-### $2,109.65
+### $2,101.31
 
 ---
 
 ## Ethereum Chart
 
-**24h:** +2.6%  
-**7d:** -7.1%  
-**30d:** -31.6%  
-**90d:** -40.8%  
-**1y:** -20.0%  
+**24h:** +1.4%  
+**7d:** -7.8%  
+**30d:** -32.2%  
+**90d:** -41.2%  
+**1y:** -20.6%  
 
 ---
 
@@ -72,13 +72,13 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-15h ago
+16h ago
 
 ---
 
 **[We're building an open-source archive of the earliest Ethereum smart contracts (2015-2017) — looking for contributors](https://www.reddit.com/r/ethereum/comments/1qymum3/were_building_an_opensource_archive_of_the/)**
 
-2h ago
+3h ago
 
 ---
 
@@ -102,7 +102,7 @@ Vitalik: role of L2s has changed, Hegotá upgrade headliner proposals, Lido v3 l
 
 im jef, and im honestly just starting to get into crypto, trying to understand how all of this works and whether it’s something i could realistically learn and grow into over time. i don’t come from money, im just a student juggling school, responsibilities, and everyday expenses, so I don’t have much to risk or experiment with, which is why im looking for advice more than anything else. i’ve been reading, watching, and asking around, but it still feels overwhelming, and i know im inexperienced and probably missing a lot of important basics. At the same time, a part of me thinks this could be a real opportunity if i approach it carefully, stay patient, and learn from people who actually know what they’re doing. im not chasing quick profits or hype, i just want guidance on how to start smart, avoid obvious mistakes, and figure out if someone like me, broke, still studying, and learning as i go, i might have a genuine chance at building something small but meaningful through crypto in the long run. could anyone give advise?
 
-17h ago
+18h ago
 
 ---
 
@@ -152,39 +152,15 @@ https://etherscan.io/tx/0xaab90d00abf065e4158852a64c809b8921d109e997bd3790cb471a
 
 ENS Labs is canceling the launch of the Namechain Layer 2, which began development in 2024 to support the forthcoming ENSv2 update.
 
-The Block • 23h ago
+The Block • 1d ago
 
 ---
 
-**[Coinbase's Crypto-Backed Loans Notch Record Liquidations Amid Bitcoin, Ethereum Plunge](https://decrypt.co/357265/coinbases-loans-record-liquidations-bitcoin-ethereum-plunge)**
+**[How Buying Ethereum Today Could 10x Your Net Worth](https://www.fool.com/investing/2026/02/05/how-buying-ethereum-today-could-10x-your-net-worth/)**
 
-Coinbase customers faced losses in fresh ways through the exchange’s crypto-backed lending product as Bitcoin and Ethereum tumbled this week.
+The world's second-largest cryptocurrency still has a bright future.
 
-Decrypt • 1d ago
-
----
-
-**[Ethereum (ETH) news: BitMine (BMNR) faces $8 billion paper loss on ether holdings](https://www.coindesk.com/business/2026/02/05/tom-lee-s-bitmine-now-usd8-billion-underwater-as-ether-tumbles-below-usd2-000)**
-
-Despite the mounting loss, the Ethereum treasury firm says it's under no pressure to sell as ETH price crashes and its stock tumbles.
-
-CoinDesk • 2d ago
-
----
-
-**[BitMine Ethereum Treasury Losses And Leadership Changes Put BMNR Under Scrutiny](https://finance.yahoo.com/news/bitmine-ethereum-treasury-losses-leadership-170707091.html)**
-
-BitMine Immersion Technologies, ticker NYSEAM:BMNR, is reporting nearly $8b in unrealized losses tied to its Ethereum holdings after a sharp pullback in ETH prices. The company continues to frame its large Ethereum position and staking operations as part of a long term treasury approach, while continuing to accumulate ETH. Recent executive turnover, including the amicable separation of President Erik Nelson, is adding another layer of uncertainty for shareholders during heightened crypto...
-
-Yahoo Finance • 4h ago
-
----
-
-**[BitMine Stock Plummets 9% as $7 Billion Ethereum “Hole” Spooks Investors](https://www.tipranks.com/news/bitmine-stock-plummets-9-as-7-billion-ethereum-hole-spooks-investors)**
-
-The sell-off in BitMine Immersion Technologies ($BMNR) intensified today as the stock dropped 8.6% to reach $18.56, extending a brutal monthly slide that has wiped ...
-
-TipRanks • 2d ago
+The Motley Fool • 2d ago
 
 ---
 
@@ -196,11 +172,49 @@ The Guardian • 2d ago
 
 ---
 
-**[How Buying Ethereum Today Could 10x Your Net Worth](https://www.nasdaq.com/articles/how-buying-ethereum-today-could-10x-your-net-worth)**
+**[Bitcoin, Ethereum Liquidations Hit $704M In 24 Hours—And $70,000 Could Break, Polymarket Predicts](https://finance.yahoo.com/news/bitcoin-ethereum-liquidations-hit-704m-120113179.html)**
 
-Key PointsEther’s price has plunged in 2026.
+Bitcoin (CRYPTO: BTC) traders are bracing for more pain after liquidations reached $704 million in a single 24-hour period. The sharp sell-off has crypto investors turning to prediction markets for clues on where the bottom might be. What Polymarket Traders Are Predicting Polymarket is currently flashing warning signs for the immediate future. The “What price will Bitcoin hit in February?” market, which has already cleared $14 million in volume, now places a 56% probability on Bitcoin sliding to
 
-Nasdaq • 2d ago
+Yahoo Finance • 2d ago
+
+---
+
+**[Ethereum (ETH) news: BitMine (BMNR) faces $8 billion paper loss on ether holdings](https://www.coindesk.com/business/2026/02/05/tom-lee-s-bitmine-now-usd8-billion-underwater-as-ether-tumbles-below-usd2-000)**
+
+Despite the mounting loss, the Ethereum treasury firm says it's under no pressure to sell as ETH price crashes and its stock tumbles.
+
+CoinDesk • 2d ago
+
+---
+
+**[BitMine’s Ethereum Bet Meets MAVAN Pivot And Leadership Questions](https://finance.yahoo.com/news/bitmine-ethereum-bet-meets-mavan-061024980.html)**
+
+BitMine Immersion Technologies (NYSEAM:BMNR) is carrying over US$6b in unrealized losses tied to large Ethereum holdings after buying aggressively during a market downturn. The company is moving ahead with its Made in America Validator Network, or MAVAN, which is intended to turn those holdings into an income producing staking infrastructure business. Public criticism from industry peers and the recent departure of President Erik Nelson have put extra attention on BitMine’s treasury choices...
+
+Yahoo Finance • 2d ago
+
+---
+
+**[BitMine Stock Plummets 9% as $7 Billion Ethereum “Hole” Spooks Investors](https://www.tipranks.com/news/bitmine-stock-plummets-9-as-7-billion-ethereum-hole-spooks-investors)**
+
+The sell-off in BitMine Immersion Technologies ($BMNR) intensified today as the stock dropped 8.6% to reach $18.56, extending a brutal monthly slide that has wiped ...
+
+TipRanks • 2d ago
+
+---
+
+**[Coinbase's Crypto-Backed Loans Notch Record Liquidations Amid Bitcoin, Ethereum Plunge](https://decrypt.co/357265/coinbases-loans-record-liquidations-bitcoin-ethereum-plunge)**
+
+Coinbase customers faced losses in fresh ways through the exchange’s crypto-backed lending product as Bitcoin and Ethereum tumbled this week.
+
+Decrypt • 1d ago
+
+---
+
+**[Bitcoin, XRP, Ethereum Drop. Why Cryptos Are Under Pressure Today.](https://www.barrons.com/articles/bitcoin-xrp-ethereum-cryptos-gold-9051820f?gaa_at=eafs&gaa_n=AWEtsqf0vH-qJX8FPoB0QriBkUCZG8yMtt2UkFBknI4ubGMFG8vzIo2djWUh&gaa_ts=6987bff1&gaa_sig=GIUbBGXTpcJk9HMrN6Pv5d7T3ZScJW2OMxj8QZhwZgIgoRPYhSbYPCF-PwHHhkNgiY7Gv_LFvXijJBp0BLdvPQ%3D%3D)**
+
+Barron's • 3d ago
 
 ---
 
@@ -209,20 +223,6 @@ Nasdaq • 2d ago
 Prices are climbing back up after the biggest crypto crash since 2022.
 
 Mashable • 1d ago
-
----
-
-**[Bitcoin, XRP, Ethereum Drop. Why Cryptos Are Under Pressure Today.](https://www.barrons.com/articles/bitcoin-xrp-ethereum-cryptos-gold-9051820f?gaa_at=eafs&gaa_n=AWEtsqf2Y5J1VlbsrdqiJqX7ijLxub5e0EejG7iGMyxYZe6fkSYEh2LKrpM9&gaa_ts=6987aa1b&gaa_sig=qCrDaYvoUEQ70eCOG3OtmiPOdhR1S_HYZebxCyu3gkPgXa-lMC0KV9yqpB_DHtnoVXy9CUC9xoH0j5lkNDQ_OA%3D%3D)**
-
-Barron's • 3d ago
-
----
-
-**[Here's What Needs to Happen for Ethereum to Hit $5,000 This Year](https://www.fool.com/investing/2026/02/05/heres-what-needs-to-happen-for-ethereum-to-hit-500/)**
-
-Will 2026 be the year investors see the price they've dreamed of?
-
-The Motley Fool • 2d ago
 
 ---
 
@@ -276,7 +276,7 @@ ETHEREUM ETH PRICE PREDICTION 2026 Join the Premium Signal Group for trade setup
 
 📺 Cilinix Crypto
 
-👁️ 542 • 👍 27 • 💬 5 • ⏱️ 5:23 • 11h ago
+👁️ 542 • 👍 27 • 💬 5 • ⏱️ 5:23 • 12h ago
 
 ---
 
@@ -306,7 +306,7 @@ Tangem 20% off + $10 in Bitcoin ➡️➡️ Use codes "NYEXTRA26" & "CRYPTOCREW
 
 📺 Your Crypto Crew
 
-👁️ 647 • 👍 99 • 💬 42 • ⏱️ 12:26 • 6h ago
+👁️ 647 • 👍 99 • 💬 42 • ⏱️ 12:26 • 7h ago
 
 ---
 
@@ -326,7 +326,7 @@ BITCOIN CRASH OVER: My $5 Million Trading Strategy!!! - Bitcoin News Today, Ethe
 
 📺 Crypto World
 
-👁️ 11K • 👍 448 • 💬 237 • ⏱️ 22:22 • 22h ago
+👁️ 11K • 👍 448 • 💬 237 • ⏱️ 22:22 • 23h ago
 
 ---
 
