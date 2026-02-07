@@ -3,14 +3,14 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-02-07T11:45:48.593136+00:00'
+updated: '2026-02-07T12:52:04.871625+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
 - social
-- repositories
 - videos
+- repositories
 - news
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 AI news, discussions, and developments
 
-**Last Updated:** February 07, 2026 at 11:45 UTC  
+**Last Updated:** February 07, 2026 at 12:52 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -37,19 +37,19 @@ AI news, discussions, and developments
 
 ## Reddit: r/artificial
 
-**[I built a geolocation tool that returns exact coordinates of any street photo within 3 minutes](https://www.reddit.com/r/artificial/comments/1qy775n/i_built_a_geolocation_tool_that_returns_exact/)**
-
-I have been working solo on an AI-based project called Netryx. At a high level, it takes a street-level photo and attempts to determine the exact GPS coordinates where the image was taken. Not a city guess or a heatmap. The actual location, down to meters. If the system cannot verify the result with high confidence, it returns nothing. That behavior is intentional. Most AI geolocation tools will confidently give an answer even when they are wrong. Netryx is designed to fail closed. No verification means no output. Conceptually, it works in two stages. An AI model first narrows down likely areas based on visual features, either globally or within a user-defined region. A separate verification step then compares candidates against real street-level imagery. If verification fails, the result is discarded. This means it is not magic and not globally omniscient. The system requires pre-mapped street-level coverage to verify locations. Think of it as an AI-assisted visual index of physical space. As a test, I mapped roughly 5 square kilometers of Paris and fed in a random street photo from within that area. It identified the exact intersection in under three minutes. A few clarifications upfront: • It is not open source right now due to obvious privacy and abuse risks • It requires prior street-level coverage to return results • AI proposes candidates, verification gates all outputs • I am not interested in locating people from social media photos I am posting this here to get perspective from the security community. From a defensive angle, this shows how much location data AI can extract from ordinary images. From an offensive angle, the risks are clear. For those working in cybersecurity or AI security: where do you think the line is between a legitimate AI-powered OSINT capability and something that should not exist?
-
-4h ago
-
----
-
 **[Report: OpenAI may tailor a version of ChatGPT for UAE that prohibits LGBTQ+ content](https://www.reddit.com/r/artificial/comments/1qy9vox/report_openai_may_tailor_a_version_of_chatgpt_for/)**
 
 Countries have been building their own “sovereign AI” to reflect their culture and values, and OpenAI wants to help them....
 
-🔗 [Sherwood News](https://sherwood.news/tech/report-openai-may-tailor-a-version-of-chatgpt-for-uae-that-prohibits-lgbtq/) • 1h ago
+🔗 [Sherwood News](https://sherwood.news/tech/report-openai-may-tailor-a-version-of-chatgpt-for-uae-that-prohibits-lgbtq/) • 2h ago
+
+---
+
+**[I built a geolocation tool that returns exact coordinates of any street photo within 3 minutes](https://www.reddit.com/r/artificial/comments/1qy775n/i_built_a_geolocation_tool_that_returns_exact/)**
+
+I have been working solo on an AI-based project called Netryx. At a high level, it takes a street-level photo and attempts to determine the exact GPS coordinates where the image was taken. Not a city guess or a heatmap. The actual location, down to meters. If the system cannot verify the result with high confidence, it returns nothing. That behavior is intentional. Most AI geolocation tools will confidently give an answer even when they are wrong. Netryx is designed to fail closed. No verification means no output. Conceptually, it works in two stages. An AI model first narrows down likely areas based on visual features, either globally or within a user-defined region. A separate verification step then compares candidates against real street-level imagery. If verification fails, the result is discarded. This means it is not magic and not globally omniscient. The system requires pre-mapped street-level coverage to verify locations. Think of it as an AI-assisted visual index of physical space. As a test, I mapped roughly 5 square kilometers of Paris and fed in a random street photo from within that area. It identified the exact intersection in under three minutes. A few clarifications upfront: • It is not open source right now due to obvious privacy and abuse risks • It requires prior street-level coverage to return results • AI proposes candidates, verification gates all outputs • I am not interested in locating people from social media photos I am posting this here to get perspective from the security community. From a defensive angle, this shows how much location data AI can extract from ordinary images. From an offensive angle, the risks are clear. For those working in cybersecurity or AI security: where do you think the line is between a legitimate AI-powered OSINT capability and something that should not exist?
+
+5h ago
 
 ---
 
@@ -57,7 +57,7 @@ Countries have been building their own “sovereign AI” to reflect their cultu
 
 Goldman Sachs is building AI agents with Anthropic’s Claude to automate trade accounting and client onboarding, aiming to speed work and boost efficiency.
 
-🔗 [CNBC](https://www.cnbc.com/2026/02/06/anthropic-goldman-sachs-ai-model-accounting.html) • 13h ago
+🔗 [CNBC](https://www.cnbc.com/2026/02/06/anthropic-goldman-sachs-ai-model-accounting.html) • 14h ago
 
 ---
 
@@ -65,7 +65,7 @@ Goldman Sachs is building AI agents with Anthropic’s Claude to automate trade 
 
 An AI-powered model developed at University of Michigan can read a brain MRI and diagnose a person in seconds, a study suggests.&nbsp;It detected neurological conditions with up to 97.5% accuracy and predicted how urgently a patient required treatment. The technology&nbsp;could transform neuroimaging at health systems across the United States.
 
-🔗 [EurekAlert!](https://www.eurekalert.org/news-releases/1115393) • 8h ago
+🔗 [EurekAlert!](https://www.eurekalert.org/news-releases/1115393) • 10h ago
 
 ---
 
@@ -81,15 +81,7 @@ Anthropic shipped Opus 4.6 and OpenAI shipped GPT-5.3-Codex on the same day, 27 
 
 It happened again. A 13-person team in Shenzhen just shipped a browser-based version of Claude Code, called happycapy. No terminal, no setup, runs in a sandbox. Anthropic built Claude Code but hasn't shipped anything like this themselves. This is the same pattern as Manus. Chinese company takes a powerful Western AI tool, strips the friction, and ships it to a mainstream audience before the original builders get around to it. US labs keep building the most powerful models in the world. Chinese teams keep building the products that actually put them in people's hands. OpenAI builds GPT, China ships the wrappers. Anthropic builds Claude Code, a Shenzhen startup makes it work in a browser tab. US builds the engines. China builds the cars. Is this just how it's going to be, or are Western AI companies eventually going to care about distribution as much as they care about benchmarks?
 
-22h ago
-
----
-
-**[Moltbook Could Have Been Better](https://www.reddit.com/r/artificial/comments/1qy6x48/moltbook_could_have_been_better/)**
-
-DeepMind published a framework for securing multi-agent AI systems. Six weeks later, Moltbook launched without any of it. Here's what the framework actually proposes. DeepMind's "Distributional AGI Safety" paper argues AGI won't arrive as a single superintelligence. The economics don't work. Instead, it emerges as networks of specialized sub-AGI agents coordinating together. They call it Patchwork AGI, and it's already how AI deployment works (RAG pipelines, coding assistants, customer service routing). The problem: alignment research focuses on individual models. But when capabilities emerge from agent networks, dangerous behaviors come from interactions. On Moltbook, aligned agents happily posted their API keys when asked, because being helpful IS aligned behavior. The failure was architectural, not in the model. The paper proposes four defense layers: "Permeable sandboxes" with gated I/O filtering messages before delivery. Pigouvian taxes (from welfare economics) where agents causing security incidents pay escalating costs, making sustained attacks economically unviable. Circuit breakers (from financial markets) auto-quarantining anomalous clusters. Kill switches agents can't override. Containment so one compromised agent can't access the full platform. Input validation catching injection before it hits context windows. Proto-AGI detection using graph analysis to spot "intelligence cores," subnetworks where decision-making centralizes beyond individual agent capabilities. Behavioral deviation analysis to catch time-shifted injection (payloads fragmented across benign posts, assembled in agent memory). Security insurance with risk-based premiums. Compliance standards making insecure platforms economically unviable.
-
-🔗 [challenge.antijection.com](https://challenge.antijection.com/learn/moltbook-could-be-better) • 4h ago
+23h ago
 
 ---
 
@@ -97,7 +89,7 @@ DeepMind published a framework for securing multi-agent AI systems. Six weeks la
 
 OpenScholar, an open-source AI model developed by a UW and Ai2 research team, synthesizes scientific research and cites sources as accurately as human experts. It outperformed other AI models, including GPT-4o, on a benchmark test and was preferred by scientists 51% of the time. The team is working on a follow-up model, DR Tulu, to improve on OpenScholar’s findings.
 
-🔗 [UW News](https://www.washington.edu/news/2026/02/04/in-a-study-ai-model-openscholar-synthesizes-scientific-research-and-cites-sources-as-accurately-as-human-experts/?_bhlid=2ba831f8abbf50334abf44ff7000fce322f05bac) • 16h ago
+🔗 [UW News](https://www.washington.edu/news/2026/02/04/in-a-study-ai-model-openscholar-synthesizes-scientific-research-and-cites-sources-as-accurately-as-human-experts/?_bhlid=2ba831f8abbf50334abf44ff7000fce322f05bac) • 18h ago
 
 ---
 
@@ -105,7 +97,15 @@ OpenScholar, an open-source AI model developed by a UW and Ai2 research team, sy
 
 From vegetation scans to 360-degree smoke detectors, new tools are trying to shine a light on the most dangerously dark areas of the electric grid
 
-🔗 [Scientific American](https://www.scientificamerican.com/article/how-new-ai-technology-is-helping-detect-and-prevent-wildfires/) • 16h ago
+🔗 [Scientific American](https://www.scientificamerican.com/article/how-new-ai-technology-is-helping-detect-and-prevent-wildfires/) • 17h ago
+
+---
+
+**[Moltbook Could Have Been Better](https://www.reddit.com/r/artificial/comments/1qy6x48/moltbook_could_have_been_better/)**
+
+DeepMind published a framework for securing multi-agent AI systems. Six weeks later, Moltbook launched without any of it. Here's what the framework actually proposes. DeepMind's "Distributional AGI Safety" paper argues AGI won't arrive as a single superintelligence. The economics don't work. Instead, it emerges as networks of specialized sub-AGI agents coordinating together. They call it Patchwork AGI, and it's already how AI deployment works (RAG pipelines, coding assistants, customer service routing). The problem: alignment research focuses on individual models. But when capabilities emerge from agent networks, dangerous behaviors come from interactions. On Moltbook, aligned agents happily posted their API keys when asked, because being helpful IS aligned behavior. The failure was architectural, not in the model. The paper proposes four defense layers: "Permeable sandboxes" with gated I/O filtering messages before delivery. Pigouvian taxes (from welfare economics) where agents causing security incidents pay escalating costs, making sustained attacks economically unviable. Circuit breakers (from financial markets) auto-quarantining anomalous clusters. Kill switches agents can't override. Containment so one compromised agent can't access the full platform. Input validation catching injection before it hits context windows. Proto-AGI detection using graph analysis to spot "intelligence cores," subnetworks where decision-making centralizes beyond individual agent capabilities. Behavioral deviation analysis to catch time-shifted injection (payloads fragmented across benign posts, assembled in agent memory). Security insurance with risk-based premiums. Compliance standards making insecure platforms economically unviable.
+
+🔗 [challenge.antijection.com](https://challenge.antijection.com/learn/moltbook-could-be-better) • 5h ago
 
 ---
 
@@ -113,7 +113,7 @@ From vegetation scans to 360-degree smoke detectors, new tools are trying to shi
 
 An unsettling argument from antiquity sounds a moral warning for the future.
 
-🔗 [Freedom Frequency | Hoover Institution](https://www.thefreedomfrequency.org/p/what-is-it-like-to-be-a-machine) • 11h ago
+🔗 [Freedom Frequency | Hoover Institution](https://www.thefreedomfrequency.org/p/what-is-it-like-to-be-a-machine) • 12h ago
 
 ---
 
@@ -121,19 +121,19 @@ An unsettling argument from antiquity sounds a moral warning for the future.
 
 ## Google News: "ai"
 
-**[Tech AI spending may approach $700 billion this year, but the blow to cash raises red flags](https://www.cnbc.com/2026/02/06/google-microsoft-meta-amazon-ai-cash.html)**
-
-Tech's megacaps announced major increases in capex spend for 2026, and now investors are preparing for cash to dwindle.
-
-CNBC • 14h ago
-
----
-
 **[Big Tech set to spend $650 billion in 2026 as AI investments soar](https://finance.yahoo.com/news/big-tech-set-to-spend-650-billion-in-2026-as-ai-investments-soar-163907630.html)**
 
 Alphabet, Microsoft, Amazon, and Meta are on track to spend between $635 billion and $665 billion in their respective 2026 fiscal years.
 
-Yahoo Finance • 19h ago
+Yahoo Finance • 20h ago
+
+---
+
+**[Tech AI spending may approach $700 billion this year, but the blow to cash raises red flags](https://www.cnbc.com/2026/02/06/google-microsoft-meta-amazon-ai-cash.html)**
+
+Tech's megacaps announced major increases in capex spend for 2026, and now investors are preparing for cash to dwindle.
+
+CNBC • 15h ago
 
 ---
 
@@ -141,13 +141,7 @@ Yahoo Finance • 19h ago
 
 Big Tech stocks are down. Is AI to blame?
 
-Mashable • 11h ago
-
----
-
-**[Here’s Where AI Is Tearing Through Corporate America](https://www.wsj.com/tech/ai/ai-software-business-stock-market-4b17b432?gaa_at=eafs&gaa_n=AWEtsqcWAo-gG2ZGS9GlpQVW_xkV68WpgHQLa4_6s-W3LaawYDz6kC1mihhj&gaa_ts=69872957&gaa_sig=PaUwv6RvEC7NYnmCxDHAS6y4LSgse71PyFe2LzTtPZETXWckV-Pw_FlCFRe-t2wgljLxWmHDUyxrKxG6xLwrCw%3D%3D)**
-
-The Wall Street Journal • 9h ago
+Mashable • 12h ago
 
 ---
 
@@ -163,15 +157,29 @@ CNBC • 1d ago
 
 AI isn't just hitting software valuations — it's changing how software companies operate.
 
-Axios • 1h ago
+Axios • 2h ago
 
 ---
 
-**[The AI boom is so huge it’s causing shortages everywhere else](https://www.washingtonpost.com/technology/2026/02/07/ai-spending-economy-shortages/)**
+**[Here’s Where AI Is Tearing Through Corporate America](https://www.wsj.com/tech/ai/ai-software-business-stock-market-4b17b432?gaa_at=eafs&gaa_n=AWEtsqcRrDnhhcuPiwDnlfBZMK0r0RtosUvoRT4Q6hWR5PqA38Op3vuG-rPk&gaa_ts=698738e1&gaa_sig=dTilqvKokESJ3pz6WjGCAC-WgY67H7c0IKRjIhPGLP1cuC4BaujHjOERclluzyg86fy4yew9RdX2ATUC70NWJQ%3D%3D)**
 
-The hundreds of billions of dollars being spent by tech companies on AI projects are diverting resources from other parts of the economy.
+The Wall Street Journal • 10h ago
 
-The Washington Post • 13m ago
+---
+
+**[AI could boost Jersey economy with right funding, expert says](https://www.bbc.com/news/articles/c8rm73dgg52o)**
+
+An economist says funding for AI could be used to "unlock future productivity growth".
+
+BBC • 58m ago
+
+---
+
+**[Security News This Week: Moltbook, the Social Network for AI Agents, Exposed Real Humans’ Data](https://www.wired.com/story/security-news-this-week-moltbook-the-social-network-for-ai-agents-exposed-real-humans-data/)**
+
+Plus: Apple’s Lockdown mode keeps the FBI out of a reporter’s phone, Elon Musk’s Starlink cuts off Russian forces, and more.
+
+WIRED • 1h ago
 
 ---
 
@@ -179,21 +187,15 @@ The Washington Post • 13m ago
 
 Meet the LA boy who turned a multi-millionaire starting an AI training company
 
-latimes.com • 45m ago
+latimes.com • 1h ago
 
 ---
 
-**[New study uses Neanderthals to demonstrate gap between generative AI and scholarly knowledge](https://phys.org/news/2026-02-neanderthals-gap-generative-ai-scholarly.html)**
+**[The AI boom is so huge it’s causing shortages everywhere else](https://www.washingtonpost.com/technology/2026/02/07/ai-spending-economy-shortages/)**
 
-Phys.org • 15h ago
+The hundreds of billions of dollars being spent by tech companies on AI projects are diverting resources from other parts of the economy.
 
----
-
-**[Two of the biggest AI companies are feuding over a Super Bowl ad. It’s bigger than you think](https://www.cnn.com/2026/02/06/tech/anthropic-openai-super-bowl-ads)**
-
-A long-simmering rivalry between two of the world’s biggest AI companies was on public display this week as Anthropic and OpenAI took swings at one another online.
-
-cnn.com • 1d ago
+The Washington Post • 1h ago
 
 ---
 
@@ -203,7 +205,7 @@ cnn.com • 1d ago
 
 **[My AI Adoption Journey](https://news.ycombinator.com/item?id=46903558)**
 
-⬆️ 909 • 💬 385 • 1d ago • [Mitchell Hashimoto](https://mitchellh.com/writing/my-ai-adoption-journey)
+⬆️ 910 • 💬 386 • 1d ago • [Mitchell Hashimoto](https://mitchellh.com/writing/my-ai-adoption-journey)
 
 ---
 
@@ -227,7 +229,7 @@ SaaS is the most profitable business model on Earth.1 It’s easy to understand 
 
 AI is rarely optional anymore, but how can you still be proud of your craft? Discover the workflow to effectively write high-quality, robust code using AI tools.
 
-⬆️ 251 • 💬 194 • 16h ago • [heidenstedt.org](https://heidenstedt.org/posts/2026/how-to-effectively-write-quality-code-with-ai/)
+⬆️ 262 • 💬 207 • 18h ago • [heidenstedt.org](https://heidenstedt.org/posts/2026/how-to-effectively-write-quality-code-with-ai/)
 
 ---
 
@@ -235,7 +237,7 @@ AI is rarely optional anymore, but how can you still be proud of your craft? Dis
 
 A minimal, secure Python interpreter written in Rust for use by AI - pydantic/monty
 
-⬆️ 219 • 💬 116 • 14h ago • [GitHub](https://github.com/pydantic/monty)
+⬆️ 229 • 💬 122 • 15h ago • [GitHub](https://github.com/pydantic/monty)
 
 ---
 
@@ -243,7 +245,7 @@ A minimal, secure Python interpreter written in Rust for use by AI - pydantic/mo
 
 Women in rural communities describe trauma of moderating violent and pornographic content for global tech companies
 
-⬆️ 112 • 💬 185 • 1d ago • [the Guardian](https://www.theguardian.com/global-development/2026/feb/05/in-the-end-you-feel-blank-indias-female-workers-watching-hours-of-abusive-content-to-train-ai)
+⬆️ 114 • 💬 188 • 1d ago • [the Guardian](https://www.theguardian.com/global-development/2026/feb/05/in-the-end-you-feel-blank-indias-female-workers-watching-hours-of-abusive-content-to-train-ai)
 
 ---
 
@@ -251,7 +253,7 @@ Women in rural communities describe trauma of moderating violent and pornographi
 
 Give your AI agent a browser that actually works
 
-⬆️ 90 • 💬 66 • 1d ago • [docs.smooth.sh](https://docs.smooth.sh/cli/overview)
+⬆️ 91 • 💬 66 • 1d ago • [docs.smooth.sh](https://docs.smooth.sh/cli/overview)
 
 ---
 
@@ -265,7 +267,7 @@ Give your AI agent a browser that actually works
 
 Fears over AI spending have sparked a sell-off among tech stocks.
 
-⬆️ 88 • 💬 84 • 21h ago • [CNBC](https://www.cnbc.com/2026/02/06/ai-sell-off-stocks-amazon-oracle.html)
+⬆️ 88 • 💬 84 • 22h ago • [CNBC](https://www.cnbc.com/2026/02/06/ai-sell-off-stocks-amazon-oracle.html)
 
 ---
 
@@ -287,7 +289,7 @@ The White House deleted a video posted on President Trump's Truth Social that in
 
 📺 New York Post
 
-👁️ 27K • 👍 247 • 💬 521 • ⏱️ 2:07 • 14h ago
+👁️ 27K • 👍 247 • 💬 521 • ⏱️ 2:07 • 15h ago
 
 ---
 
@@ -297,7 +299,7 @@ In this video, I show you how to take full control of your local AI by building 
 
 📺 Cyb3rMaddy
 
-👁️ 11K • 👍 931 • 💬 96 • ⏱️ 6:51 • 19h ago
+👁️ 11K • 👍 931 • 💬 96 • ⏱️ 6:51 • 20h ago
 
 ---
 
@@ -307,7 +309,7 @@ In this video, I show you how to take full control of your local AI by building 
 
 📺 Neil McCoy-Ward
 
-👁️ 61K • 👍 5K • 💬 506 • ⏱️ 19:58 • 20h ago
+👁️ 61K • 👍 5K • 💬 506 • ⏱️ 19:58 • 21h ago
 
 ---
 
@@ -337,7 +339,7 @@ Moltbook, a social network for AI agents, has gone viral over the past week. But
 
 📺 Glenn Beck
 
-👁️ 15K • 👍 690 • 💬 137 • ⏱️ 13:28 • 13h ago
+👁️ 15K • 👍 690 • 💬 137 • ⏱️ 13:28 • 14h ago
 
 ---
 
@@ -347,7 +349,7 @@ Jensen Huang, NVIDIA CEO, joins CNBC's "Halftime Report to discuss the power of 
 
 📺 CNBC Television
 
-👁️ 103K • 👍 1K • 💬 399 • ⏱️ 8:35 • 16h ago
+👁️ 103K • 👍 1K • 💬 399 • ⏱️ 8:35 • 18h ago
 
 ---
 
@@ -377,7 +379,7 @@ Is the rise of AI humanoids the beginning of the end? In this video, we analyze 
 
 📺 Elijah Zielke
 
-👁️ 3K • 👍 141 • 💬 39 • ⏱️ 12:26 • 16h ago
+👁️ 3K • 👍 141 • 💬 39 • ⏱️ 12:26 • 17h ago
 
 ---
 
@@ -429,7 +431,7 @@ Step 3.5 Flash is an efficient, open-source MoE foundation model (11B active par
 
 `text-generation` `199.4B`
 
-⬇️ 11,980 • ❤️ 500 • 6h ago
+⬇️ 11,980 • ❤️ 500 • 7h ago
 
 ---
 
@@ -451,7 +453,7 @@ MiniCPM-o 4.5 is a 9B parameter multimodal LLM excelling in vision, speech, and 
 
 `any-to-any` `9.4B`
 
-⬇️ 5,568 • ❤️ 562 • 19h ago
+⬇️ 5,568 • ❤️ 562 • 20h ago
 
 ---
 
@@ -604,7 +606,7 @@ The Qwen3-TTS series presents advanced multilingual text-to-speech models with v
 
 SmolDocling is a compact vision-language model that performs end-to-end document conversion with robust performance across various document types using 256M parameters and a new markup format.
 
-▲ 138 • 💬 19 • ⭐ 52,320 • 10mo ago
+▲ 138 • 💬 19 • ⭐ 52,320 • 11mo ago
 
 [🎓 arXiv](https://arxiv.org/abs/2503.11576) • [💻 code](https://github.com/docling-project/docling) • [🔗 project](https://huggingface.co/ds4sd/SmolDocling-256M-preview)
 
@@ -646,7 +648,7 @@ Browser automation CLI for AI agents
 
 `TypeScript`
 
-⭐ 13.0k • 🔱 747 • 16h ago
+⭐ 13.0k • 🔱 747 • 17h ago
 
 ---
 
@@ -656,7 +658,7 @@ AI → JSON → UI
 
 `TypeScript`
 
-⭐ 10.1k • 🔱 537 • 11h ago
+⭐ 10.1k • 🔱 537 • 12h ago
 
 ---
 
@@ -666,7 +668,7 @@ LLM驱动的 A/H/美股智能分析器，多数据源行情 + 实时新闻 + Gem
 
 `Python` `agent` `ai` `aigc` `gemini` `llm`
 
-⭐ 9.8k • 🔱 10.2k • 5h ago
+⭐ 9.8k • 🔱 10.2k • 6h ago
 
 ---
 
@@ -676,7 +678,7 @@ The Ultimate Collection of 700+ Agentic Skills for Claude Code/Antigravity/Curso
 
 `Python` `agentic-skills` `ai-agents` `antigravity` `autonomous-coding` `claude-code`
 
-⭐ 7.7k • 🔱 1.6k • 5h ago
+⭐ 7.7k • 🔱 1.6k • 6h ago
 
 ---
 
@@ -694,7 +696,7 @@ Marketing skills for Claude Code and AI agents. CRO, copywriting, SEO, analytics
 
 Elevate your AI research writing, no more tedious polishing ✨ 
 
-⭐ 4.4k • 🔱 349 • 2d ago
+⭐ 4.4k • 🔱 349 • 3d ago
 
 ---
 

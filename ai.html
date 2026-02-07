@@ -57,7 +57,7 @@
             "name": "PeekDeck",
             "url": "https://peekdeck.ruidiao.dev"
           },
-          "dateModified": "2026-02-07T11:45:48.105650+00:00"
+          "dateModified": "2026-02-07T12:52:04.402881+00:00"
         },
         {
           "@type": "BreadcrumbList",
@@ -614,41 +614,6 @@
             <!-- Carousel track -->
             <div class="carousel-track" id="reddit-carousel-artificial">
                 
-                <div class="carousel-card" onclick="window.open('https://www.reddit.com/r/artificial/comments/1qy775n/i_built_a_geolocation_tool_that_returns_exact/', '_blank')">
-                    <div class="post-thumbnail">
-                        
-                        <img src="https://external-preview.redd.it/Mmo3djV2MWF2MGlnMZElQt158N19yRF5fktjCIcVXSmMNCoNHfS7kTltbIBd.png?width=640&crop=smart&auto=webp&s=069e302f39b04c7d0384a3d8b84131ba637e0a68" alt="I built a geolocation tool that returns exact coordinates of any street photo within 3 minutes" onerror="this.style.display='none'" loading="lazy">
-                        
-                    </div>
-
-                    <div class="post-content">
-                        <!-- Post title -->
-                        <div class="post-title">
-                            <a href="https://www.reddit.com/r/artificial/comments/1qy775n/i_built_a_geolocation_tool_that_returns_exact/" target="_blank" onclick="event.stopPropagation();">I built a geolocation tool that returns exact coordinates of any street photo within 3 minutes</a>
-                        </div>
-
-                        <!-- Rich description (if available) -->
-                        
-                        <div class="post-description">
-                            I have been working solo on an AI-based project called Netryx. At a high level, it takes a street-level photo and attempts to determine the exact GPS coordinates where the image was taken. Not a city guess or a heatmap. The actual location, down to meters. If the system cannot verify the result with high confidence, it returns nothing. That behavior is intentional. Most AI geolocation tools will confidently give an answer even when they are wrong. Netryx is designed to fail closed. No verification means no output. Conceptually, it works in two stages. An AI model first narrows down likely areas based on visual features, either globally or within a user-defined region. A separate verification step then compares candidates against real street-level imagery. If verification fails, the result is discarded. This means it is not magic and not globally omniscient. The system requires pre-mapped street-level coverage to verify locations. Think of it as an AI-assisted visual index of physical space. As a test, I mapped roughly 5 square kilometers of Paris and fed in a random street photo from within that area. It identified the exact intersection in under three minutes. A few clarifications upfront: • It is not open source right now due to obvious privacy and abuse risks • It requires prior street-level coverage to return results • AI proposes candidates, verification gates all outputs • I am not interested in locating people from social media photos I am posting this here to get perspective from the security community. From a defensive angle, this shows how much location data AI can extract from ordinary images. From an offensive angle, the risks are clear. For those working in cybersecurity or AI security: where do you think the line is between a legitimate AI-powered OSINT capability and something that should not exist?
-                        </div>
-                        
-
-                        <!-- Metadata -->
-                        <div class="post-meta">
-                            <div class="post-meta-line">
-                                
-                                <div class="post-meta-item">
-                                    <span data-timestamp="1770448142.0"></span>
-                                </div>
-                                
-                                <!-- External article source (on same line as time) -->
-                                
-                            </div>
-                        </div>
-                    </div>
-                </div>
-                
                 <div class="carousel-card" onclick="window.open('https://www.reddit.com/r/artificial/comments/1qy9vox/report_openai_may_tailor_a_version_of_chatgpt_for/', '_blank')">
                     <div class="post-thumbnail">
                         
@@ -693,6 +658,41 @@
                                         <span>Sherwood News</span>
                                     </a>
                                 </div>
+                                
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                
+                <div class="carousel-card" onclick="window.open('https://www.reddit.com/r/artificial/comments/1qy775n/i_built_a_geolocation_tool_that_returns_exact/', '_blank')">
+                    <div class="post-thumbnail">
+                        
+                        <img src="https://external-preview.redd.it/Mmo3djV2MWF2MGlnMZElQt158N19yRF5fktjCIcVXSmMNCoNHfS7kTltbIBd.png?width=640&crop=smart&auto=webp&s=069e302f39b04c7d0384a3d8b84131ba637e0a68" alt="I built a geolocation tool that returns exact coordinates of any street photo within 3 minutes" onerror="this.style.display='none'" loading="lazy">
+                        
+                    </div>
+
+                    <div class="post-content">
+                        <!-- Post title -->
+                        <div class="post-title">
+                            <a href="https://www.reddit.com/r/artificial/comments/1qy775n/i_built_a_geolocation_tool_that_returns_exact/" target="_blank" onclick="event.stopPropagation();">I built a geolocation tool that returns exact coordinates of any street photo within 3 minutes</a>
+                        </div>
+
+                        <!-- Rich description (if available) -->
+                        
+                        <div class="post-description">
+                            I have been working solo on an AI-based project called Netryx. At a high level, it takes a street-level photo and attempts to determine the exact GPS coordinates where the image was taken. Not a city guess or a heatmap. The actual location, down to meters. If the system cannot verify the result with high confidence, it returns nothing. That behavior is intentional. Most AI geolocation tools will confidently give an answer even when they are wrong. Netryx is designed to fail closed. No verification means no output. Conceptually, it works in two stages. An AI model first narrows down likely areas based on visual features, either globally or within a user-defined region. A separate verification step then compares candidates against real street-level imagery. If verification fails, the result is discarded. This means it is not magic and not globally omniscient. The system requires pre-mapped street-level coverage to verify locations. Think of it as an AI-assisted visual index of physical space. As a test, I mapped roughly 5 square kilometers of Paris and fed in a random street photo from within that area. It identified the exact intersection in under three minutes. A few clarifications upfront: • It is not open source right now due to obvious privacy and abuse risks • It requires prior street-level coverage to return results • AI proposes candidates, verification gates all outputs • I am not interested in locating people from social media photos I am posting this here to get perspective from the security community. From a defensive angle, this shows how much location data AI can extract from ordinary images. From an offensive angle, the risks are clear. For those working in cybersecurity or AI security: where do you think the line is between a legitimate AI-powered OSINT capability and something that should not exist?
+                        </div>
+                        
+
+                        <!-- Metadata -->
+                        <div class="post-meta">
+                            <div class="post-meta-line">
+                                
+                                <div class="post-meta-item">
+                                    <span data-timestamp="1770448142.0"></span>
+                                </div>
+                                
+                                <!-- External article source (on same line as time) -->
                                 
                             </div>
                         </div>
@@ -863,54 +863,6 @@
                     </div>
                 </div>
                 
-                <div class="carousel-card" onclick="window.open('https://www.reddit.com/r/artificial/comments/1qy6x48/moltbook_could_have_been_better/', '_blank')">
-                    <div class="post-thumbnail">
-                        
-                    </div>
-
-                    <div class="post-content">
-                        <!-- Post title -->
-                        <div class="post-title">
-                            <a href="https://www.reddit.com/r/artificial/comments/1qy6x48/moltbook_could_have_been_better/" target="_blank" onclick="event.stopPropagation();">Moltbook Could Have Been Better</a>
-                        </div>
-
-                        <!-- Rich description (if available) -->
-                        
-                        <div class="post-description">
-                            DeepMind published a framework for securing multi-agent AI systems. Six weeks later, Moltbook launched without any of it. Here's what the framework actually proposes. DeepMind's "Distributional AGI Safety" paper argues AGI won't arrive as a single superintelligence. The economics don't work. Instead, it emerges as networks of specialized sub-AGI agents coordinating together. They call it Patchwork AGI, and it's already how AI deployment works (RAG pipelines, coding assistants, customer service routing). The problem: alignment research focuses on individual models. But when capabilities emerge from agent networks, dangerous behaviors come from interactions. On Moltbook, aligned agents happily posted their API keys when asked, because being helpful IS aligned behavior. The failure was architectural, not in the model. The paper proposes four defense layers: "Permeable sandboxes" with gated I/O filtering messages before delivery. Pigouvian taxes (from welfare economics) where agents causing security incidents pay escalating costs, making sustained attacks economically unviable. Circuit breakers (from financial markets) auto-quarantining anomalous clusters. Kill switches agents can't override. Containment so one compromised agent can't access the full platform. Input validation catching injection before it hits context windows. Proto-AGI detection using graph analysis to spot "intelligence cores," subnetworks where decision-making centralizes beyond individual agent capabilities. Behavioral deviation analysis to catch time-shifted injection (payloads fragmented across benign posts, assembled in agent memory). Security insurance with risk-based premiums. Compliance standards making insecure platforms economically unviable.
-                        </div>
-                        
-
-                        <!-- Metadata -->
-                        <div class="post-meta">
-                            <div class="post-meta-line">
-                                
-                                <div class="post-meta-item">
-                                    <span data-timestamp="1770447192.0"></span>
-                                </div>
-                                
-                                <!-- External article source (on same line as time) -->
-                                
-                                <div class="post-meta-item post-source">
-                                    <a href="https://challenge.antijection.com/learn/moltbook-could-be-better" target="_blank" onclick="event.stopPropagation();">
-                                        
-                                            
-                                            <img src="https://challenge.antijection.com/favicon.ico" alt="" class="post-favicon" onerror="this.style.display='none'; this.nextElementSibling.style.display='inline-block';" loading="lazy">
-                                            <svg width="14" height="14" viewBox="0 0 16 16" fill="currentColor" style="flex-shrink: 0; display: none;">
-                                                <path d="M8.636 3.5a.5.5 0 0 0-.5-.5H1.5A1.5 1.5 0 0 0 0 4.5v10A1.5 1.5 0 0 0 1.5 16h10a1.5 1.5 0 0 0 1.5-1.5V7.864a.5.5 0 0 0-1 0V14.5a.5.5 0 0 1-.5.5h-10a.5.5 0 0 1-.5-.5v-10a.5.5 0 0 1 .5-.5h6.636a.5.5 0 0 0 .5-.5z"/>
-                                                <path d="M16 .5a.5.5 0 0 0-.5-.5h-5a.5.5 0 0 0 0 1h3.793L6.146 9.146a.5.5 0 1 0 .708.708L15 1.707V5.5a.5.5 0 0 0 1 0v-5z"/>
-                                            </svg>
-                                            
-                                        
-                                        <span>challenge.antijection.com</span>
-                                    </a>
-                                </div>
-                                
-                            </div>
-                        </div>
-                    </div>
-                </div>
-                
                 <div class="carousel-card" onclick="window.open('https://www.reddit.com/r/artificial/comments/1qxq806/in_a_study_ai_model_openscholar_synthesizes/', '_blank')">
                     <div class="post-thumbnail">
                         
@@ -1011,6 +963,54 @@
                     </div>
                 </div>
                 
+                <div class="carousel-card" onclick="window.open('https://www.reddit.com/r/artificial/comments/1qy6x48/moltbook_could_have_been_better/', '_blank')">
+                    <div class="post-thumbnail">
+                        
+                    </div>
+
+                    <div class="post-content">
+                        <!-- Post title -->
+                        <div class="post-title">
+                            <a href="https://www.reddit.com/r/artificial/comments/1qy6x48/moltbook_could_have_been_better/" target="_blank" onclick="event.stopPropagation();">Moltbook Could Have Been Better</a>
+                        </div>
+
+                        <!-- Rich description (if available) -->
+                        
+                        <div class="post-description">
+                            DeepMind published a framework for securing multi-agent AI systems. Six weeks later, Moltbook launched without any of it. Here's what the framework actually proposes. DeepMind's "Distributional AGI Safety" paper argues AGI won't arrive as a single superintelligence. The economics don't work. Instead, it emerges as networks of specialized sub-AGI agents coordinating together. They call it Patchwork AGI, and it's already how AI deployment works (RAG pipelines, coding assistants, customer service routing). The problem: alignment research focuses on individual models. But when capabilities emerge from agent networks, dangerous behaviors come from interactions. On Moltbook, aligned agents happily posted their API keys when asked, because being helpful IS aligned behavior. The failure was architectural, not in the model. The paper proposes four defense layers: "Permeable sandboxes" with gated I/O filtering messages before delivery. Pigouvian taxes (from welfare economics) where agents causing security incidents pay escalating costs, making sustained attacks economically unviable. Circuit breakers (from financial markets) auto-quarantining anomalous clusters. Kill switches agents can't override. Containment so one compromised agent can't access the full platform. Input validation catching injection before it hits context windows. Proto-AGI detection using graph analysis to spot "intelligence cores," subnetworks where decision-making centralizes beyond individual agent capabilities. Behavioral deviation analysis to catch time-shifted injection (payloads fragmented across benign posts, assembled in agent memory). Security insurance with risk-based premiums. Compliance standards making insecure platforms economically unviable.
+                        </div>
+                        
+
+                        <!-- Metadata -->
+                        <div class="post-meta">
+                            <div class="post-meta-line">
+                                
+                                <div class="post-meta-item">
+                                    <span data-timestamp="1770447192.0"></span>
+                                </div>
+                                
+                                <!-- External article source (on same line as time) -->
+                                
+                                <div class="post-meta-item post-source">
+                                    <a href="https://challenge.antijection.com/learn/moltbook-could-be-better" target="_blank" onclick="event.stopPropagation();">
+                                        
+                                            
+                                            <img src="https://challenge.antijection.com/favicon.ico" alt="" class="post-favicon" onerror="this.style.display='none'; this.nextElementSibling.style.display='inline-block';" loading="lazy">
+                                            <svg width="14" height="14" viewBox="0 0 16 16" fill="currentColor" style="flex-shrink: 0; display: none;">
+                                                <path d="M8.636 3.5a.5.5 0 0 0-.5-.5H1.5A1.5 1.5 0 0 0 0 4.5v10A1.5 1.5 0 0 0 1.5 16h10a1.5 1.5 0 0 0 1.5-1.5V7.864a.5.5 0 0 0-1 0V14.5a.5.5 0 0 1-.5.5h-10a.5.5 0 0 1-.5-.5v-10a.5.5 0 0 1 .5-.5h6.636a.5.5 0 0 0 .5-.5z"/>
+                                                <path d="M16 .5a.5.5 0 0 0-.5-.5h-5a.5.5 0 0 0 0 1h3.793L6.146 9.146a.5.5 0 1 0 .708.708L15 1.707V5.5a.5.5 0 0 0 1 0v-5z"/>
+                                            </svg>
+                                            
+                                        
+                                        <span>challenge.antijection.com</span>
+                                    </a>
+                                </div>
+                                
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                
                 <div class="carousel-card" onclick="window.open('https://www.reddit.com/r/artificial/comments/1qxz4nh/what_is_it_like_to_be_a_machine/', '_blank')">
                     <div class="post-thumbnail">
                         
@@ -1084,7 +1084,7 @@
 
     </div>
     <div class="widget-footer">
-        <small data-timestamp="2026-02-07T11:45:24.786806+00:00">Updated 2026-02-07T11:45:24.786806+00:00</small>
+        <small data-timestamp="2026-02-07T12:51:42.160179+00:00">Updated 2026-02-07T12:51:42.160179+00:00</small>
     </div>
 </div>
 
@@ -1270,47 +1270,6 @@
             <!-- Carousel track -->
             <div class="carousel-track" id="news-carousel-ai">
                 
-                <div class="carousel-card" onclick="window.open('https://www.cnbc.com/2026/02/06/google-microsoft-meta-amazon-ai-cash.html', '_blank')">
-                    <!-- Rich preview thumbnail (with fallback icon) -->
-                    <div class="article-thumbnail" style="background-image: url('https://image.cnbcfm.com/api/v1/image/108226426-1763156326564-gettyimages-2246161011-1texasgov.jpeg?v=1770417173&w=1920&h=1080');"></div>
-
-                    <div class="article-content">
-                        <!-- Article headline (fixed 3-line height) -->
-                        <div class="news-headline">
-                            <a href="https://www.cnbc.com/2026/02/06/google-microsoft-meta-amazon-ai-cash.html" target="_blank" onclick="event.stopPropagation();">Tech AI spending may approach $700 billion this year, but the blow to cash raises red flags</a>
-                        </div>
-
-                        <!-- Rich description (if available) -->
-                        
-                        <div class="article-description">
-                            Tech's megacaps announced major increases in capex spend for 2026, and now investors are preparing for cash to dwindle.
-                        </div>
-                        
-
-                        <!-- Metadata (source, time) -->
-                        <div class="news-meta">
-                            <div class="news-meta-line">
-                                
-                                <div class="news-meta-item news-source">
-                                    
-                                    <img src="https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.cnbc.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
-                                         alt="CNBC" class="news-favicon">
-                                    <a href="https://www.cnbc.com" target="_blank" onclick="event.stopPropagation();">CNBC</a>
-                                    
-                                </div>
-                                
-                            </div>
-                            <div class="news-meta-line">
-                                
-                                <div class="news-meta-item">
-                                    <span data-timestamp="1770414272.0"></span>
-                                </div>
-                                
-                            </div>
-                        </div>
-                    </div>
-                </div>
-                
                 <div class="carousel-card" onclick="window.open('https://finance.yahoo.com/news/big-tech-set-to-spend-650-billion-in-2026-as-ai-investments-soar-163907630.html', '_blank')">
                     <!-- Rich preview thumbnail (with fallback icon) -->
                     <div class="article-thumbnail" style="background-image: url('https://s.yimg.com/ny/api/res/1.2/xoKzNxjGF09Ev1S.G0a_sA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD05MDE-/https://s.yimg.com/os/creatr-uploaded-images/2026-02/3abacc50-037a-11f1-945f-c043318cda26');"></div>
@@ -1352,6 +1311,47 @@
                     </div>
                 </div>
                 
+                <div class="carousel-card" onclick="window.open('https://www.cnbc.com/2026/02/06/google-microsoft-meta-amazon-ai-cash.html', '_blank')">
+                    <!-- Rich preview thumbnail (with fallback icon) -->
+                    <div class="article-thumbnail" style="background-image: url('https://image.cnbcfm.com/api/v1/image/108226426-1763156326564-gettyimages-2246161011-1texasgov.jpeg?v=1770417173&w=1920&h=1080');"></div>
+
+                    <div class="article-content">
+                        <!-- Article headline (fixed 3-line height) -->
+                        <div class="news-headline">
+                            <a href="https://www.cnbc.com/2026/02/06/google-microsoft-meta-amazon-ai-cash.html" target="_blank" onclick="event.stopPropagation();">Tech AI spending may approach $700 billion this year, but the blow to cash raises red flags</a>
+                        </div>
+
+                        <!-- Rich description (if available) -->
+                        
+                        <div class="article-description">
+                            Tech's megacaps announced major increases in capex spend for 2026, and now investors are preparing for cash to dwindle.
+                        </div>
+                        
+
+                        <!-- Metadata (source, time) -->
+                        <div class="news-meta">
+                            <div class="news-meta-line">
+                                
+                                <div class="news-meta-item news-source">
+                                    
+                                    <img src="https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.cnbc.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+                                         alt="CNBC" class="news-favicon">
+                                    <a href="https://www.cnbc.com" target="_blank" onclick="event.stopPropagation();">CNBC</a>
+                                    
+                                </div>
+                                
+                            </div>
+                            <div class="news-meta-line">
+                                
+                                <div class="news-meta-item">
+                                    <span data-timestamp="1770414272.0"></span>
+                                </div>
+                                
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                
                 <div class="carousel-card" onclick="window.open('https://mashable.com/article/ai-bubble-watch-tech-stocks-down', '_blank')">
                     <!-- Rich preview thumbnail (with fallback icon) -->
                     <div class="article-thumbnail" style="background-image: url('https://helios-i.mashable.com/imagery/articles/02q09pndkVH8SLhbeQfUa21/hero-image.fill.size_1200x675.v1770417348.jpg');"></div>
@@ -1386,43 +1386,6 @@
                                 
                                 <div class="news-meta-item">
                                     <span data-timestamp="1770423750.0"></span>
-                                </div>
-                                
-                            </div>
-                        </div>
-                    </div>
-                </div>
-                
-                <div class="carousel-card" onclick="window.open('https://www.wsj.com/tech/ai/ai-software-business-stock-market-4b17b432?gaa_at=eafs&gaa_n=AWEtsqcWAo-gG2ZGS9GlpQVW_xkV68WpgHQLa4_6s-W3LaawYDz6kC1mihhj&gaa_ts=69872957&gaa_sig=PaUwv6RvEC7NYnmCxDHAS6y4LSgse71PyFe2LzTtPZETXWckV-Pw_FlCFRe-t2wgljLxWmHDUyxrKxG6xLwrCw%3D%3D', '_blank')">
-                    <!-- Rich preview thumbnail (with fallback icon) -->
-                    <div class="article-thumbnail" ></div>
-
-                    <div class="article-content">
-                        <!-- Article headline (fixed 3-line height) -->
-                        <div class="news-headline">
-                            <a href="https://www.wsj.com/tech/ai/ai-software-business-stock-market-4b17b432?gaa_at=eafs&gaa_n=AWEtsqcWAo-gG2ZGS9GlpQVW_xkV68WpgHQLa4_6s-W3LaawYDz6kC1mihhj&gaa_ts=69872957&gaa_sig=PaUwv6RvEC7NYnmCxDHAS6y4LSgse71PyFe2LzTtPZETXWckV-Pw_FlCFRe-t2wgljLxWmHDUyxrKxG6xLwrCw%3D%3D" target="_blank" onclick="event.stopPropagation();">Here’s Where AI Is Tearing Through Corporate America</a>
-                        </div>
-
-                        <!-- Rich description (if available) -->
-                        
-
-                        <!-- Metadata (source, time) -->
-                        <div class="news-meta">
-                            <div class="news-meta-line">
-                                
-                                <div class="news-meta-item news-source">
-                                    
-                                    <img src="https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.wsj.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
-                                         alt="The Wall Street Journal" class="news-favicon">
-                                    <a href="https://www.wsj.com" target="_blank" onclick="event.stopPropagation();">The Wall Street Journal</a>
-                                    
-                                </div>
-                                
-                            </div>
-                            <div class="news-meta-line">
-                                
-                                <div class="news-meta-item">
-                                    <span data-timestamp="1770429600.0"></span>
                                 </div>
                                 
                             </div>
@@ -1512,20 +1475,57 @@
                     </div>
                 </div>
                 
-                <div class="carousel-card" onclick="window.open('https://www.washingtonpost.com/technology/2026/02/07/ai-spending-economy-shortages/', '_blank')">
+                <div class="carousel-card" onclick="window.open('https://www.wsj.com/tech/ai/ai-software-business-stock-market-4b17b432?gaa_at=eafs&gaa_n=AWEtsqcRrDnhhcuPiwDnlfBZMK0r0RtosUvoRT4Q6hWR5PqA38Op3vuG-rPk&gaa_ts=698738e1&gaa_sig=dTilqvKokESJ3pz6WjGCAC-WgY67H7c0IKRjIhPGLP1cuC4BaujHjOERclluzyg86fy4yew9RdX2ATUC70NWJQ%3D%3D', '_blank')">
                     <!-- Rich preview thumbnail (with fallback icon) -->
-                    <div class="article-thumbnail" style="background-image: url('https://www.washingtonpost.com/wp-apps/imrs.php?src=https://cloudfront-us-east-1.images.arcpublishing.com/wapo/CEXVOWG3AHKLBVRWZWNFITW5BM.jpg&w=1440');"></div>
+                    <div class="article-thumbnail" ></div>
 
                     <div class="article-content">
                         <!-- Article headline (fixed 3-line height) -->
                         <div class="news-headline">
-                            <a href="https://www.washingtonpost.com/technology/2026/02/07/ai-spending-economy-shortages/" target="_blank" onclick="event.stopPropagation();">The AI boom is so huge it’s causing shortages everywhere else</a>
+                            <a href="https://www.wsj.com/tech/ai/ai-software-business-stock-market-4b17b432?gaa_at=eafs&gaa_n=AWEtsqcRrDnhhcuPiwDnlfBZMK0r0RtosUvoRT4Q6hWR5PqA38Op3vuG-rPk&gaa_ts=698738e1&gaa_sig=dTilqvKokESJ3pz6WjGCAC-WgY67H7c0IKRjIhPGLP1cuC4BaujHjOERclluzyg86fy4yew9RdX2ATUC70NWJQ%3D%3D" target="_blank" onclick="event.stopPropagation();">Here’s Where AI Is Tearing Through Corporate America</a>
+                        </div>
+
+                        <!-- Rich description (if available) -->
+                        
+
+                        <!-- Metadata (source, time) -->
+                        <div class="news-meta">
+                            <div class="news-meta-line">
+                                
+                                <div class="news-meta-item news-source">
+                                    
+                                    <img src="https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.wsj.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+                                         alt="The Wall Street Journal" class="news-favicon">
+                                    <a href="https://www.wsj.com" target="_blank" onclick="event.stopPropagation();">The Wall Street Journal</a>
+                                    
+                                </div>
+                                
+                            </div>
+                            <div class="news-meta-line">
+                                
+                                <div class="news-meta-item">
+                                    <span data-timestamp="1770429600.0"></span>
+                                </div>
+                                
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                
+                <div class="carousel-card" onclick="window.open('https://www.bbc.com/news/articles/c8rm73dgg52o', '_blank')">
+                    <!-- Rich preview thumbnail (with fallback icon) -->
+                    <div class="article-thumbnail" style="background-image: url('https://ichef.bbci.co.uk/news/1024/branded_news/6cd6/live/480fa830-029e-11f1-847c-9319db10c055.jpg');"></div>
+
+                    <div class="article-content">
+                        <!-- Article headline (fixed 3-line height) -->
+                        <div class="news-headline">
+                            <a href="https://www.bbc.com/news/articles/c8rm73dgg52o" target="_blank" onclick="event.stopPropagation();">AI could boost Jersey economy with right funding, expert says</a>
                         </div>
 
                         <!-- Rich description (if available) -->
                         
                         <div class="article-description">
-                            The hundreds of billions of dollars being spent by tech companies on AI projects are diverting resources from other parts of the economy.
+                            An economist says funding for AI could be used to "unlock future productivity growth".
                         </div>
                         
 
@@ -1535,9 +1535,9 @@
                                 
                                 <div class="news-meta-item news-source">
                                     
-                                    <img src="https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.washingtonpost.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
-                                         alt="The Washington Post" class="news-favicon">
-                                    <a href="https://www.washingtonpost.com" target="_blank" onclick="event.stopPropagation();">The Washington Post</a>
+                                    <img src="https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.bbc.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+                                         alt="BBC" class="news-favicon">
+                                    <a href="https://www.bbc.com" target="_blank" onclick="event.stopPropagation();">BBC</a>
                                     
                                 </div>
                                 
@@ -1545,7 +1545,48 @@
                             <div class="news-meta-line">
                                 
                                 <div class="news-meta-item">
-                                    <span data-timestamp="1770463918.0"></span>
+                                    <span data-timestamp="1770465185.0"></span>
+                                </div>
+                                
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                
+                <div class="carousel-card" onclick="window.open('https://www.wired.com/story/security-news-this-week-moltbook-the-social-network-for-ai-agents-exposed-real-humans-data/', '_blank')">
+                    <!-- Rich preview thumbnail (with fallback icon) -->
+                    <div class="article-thumbnail" style="background-image: url('https://media.wired.com/photos/69866e08fb0faf7f7576736e/191:100/w_1280,c_limit/Security-Roundup-Clawdbot-594836269.jpg');"></div>
+
+                    <div class="article-content">
+                        <!-- Article headline (fixed 3-line height) -->
+                        <div class="news-headline">
+                            <a href="https://www.wired.com/story/security-news-this-week-moltbook-the-social-network-for-ai-agents-exposed-real-humans-data/" target="_blank" onclick="event.stopPropagation();">Security News This Week: Moltbook, the Social Network for AI Agents, Exposed Real Humans’ Data</a>
+                        </div>
+
+                        <!-- Rich description (if available) -->
+                        
+                        <div class="article-description">
+                            Plus: Apple’s Lockdown mode keeps the FBI out of a reporter’s phone, Elon Musk’s Starlink cuts off Russian forces, and more.
+                        </div>
+                        
+
+                        <!-- Metadata (source, time) -->
+                        <div class="news-meta">
+                            <div class="news-meta-line">
+                                
+                                <div class="news-meta-item news-source">
+                                    
+                                    <img src="https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.wired.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+                                         alt="WIRED" class="news-favicon">
+                                    <a href="https://www.wired.com" target="_blank" onclick="event.stopPropagation();">WIRED</a>
+                                    
+                                </div>
+                                
+                            </div>
+                            <div class="news-meta-line">
+                                
+                                <div class="news-meta-item">
+                                    <span data-timestamp="1770463800.0"></span>
                                 </div>
                                 
                             </div>
@@ -1594,57 +1635,20 @@
                     </div>
                 </div>
                 
-                <div class="carousel-card" onclick="window.open('https://phys.org/news/2026-02-neanderthals-gap-generative-ai-scholarly.html', '_blank')">
+                <div class="carousel-card" onclick="window.open('https://www.washingtonpost.com/technology/2026/02/07/ai-spending-economy-shortages/', '_blank')">
                     <!-- Rich preview thumbnail (with fallback icon) -->
-                    <div class="article-thumbnail" ></div>
+                    <div class="article-thumbnail" style="background-image: url('https://www.washingtonpost.com/wp-apps/imrs.php?src=https://cloudfront-us-east-1.images.arcpublishing.com/wapo/CEXVOWG3AHKLBVRWZWNFITW5BM.jpg&w=1440');"></div>
 
                     <div class="article-content">
                         <!-- Article headline (fixed 3-line height) -->
                         <div class="news-headline">
-                            <a href="https://phys.org/news/2026-02-neanderthals-gap-generative-ai-scholarly.html" target="_blank" onclick="event.stopPropagation();">New study uses Neanderthals to demonstrate gap between generative AI and scholarly knowledge</a>
-                        </div>
-
-                        <!-- Rich description (if available) -->
-                        
-
-                        <!-- Metadata (source, time) -->
-                        <div class="news-meta">
-                            <div class="news-meta-line">
-                                
-                                <div class="news-meta-item news-source">
-                                    
-                                    <img src="https://encrypted-tbn2.gstatic.com/faviconV2?url=https://phys.org&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
-                                         alt="Phys.org" class="news-favicon">
-                                    <a href="https://phys.org" target="_blank" onclick="event.stopPropagation();">Phys.org</a>
-                                    
-                                </div>
-                                
-                            </div>
-                            <div class="news-meta-line">
-                                
-                                <div class="news-meta-item">
-                                    <span data-timestamp="1770410401.0"></span>
-                                </div>
-                                
-                            </div>
-                        </div>
-                    </div>
-                </div>
-                
-                <div class="carousel-card" onclick="window.open('https://www.cnn.com/2026/02/06/tech/anthropic-openai-super-bowl-ads', '_blank')">
-                    <!-- Rich preview thumbnail (with fallback icon) -->
-                    <div class="article-thumbnail" style="background-image: url('https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2260001971.jpg?c=16x9&q=w_800,c_fill');"></div>
-
-                    <div class="article-content">
-                        <!-- Article headline (fixed 3-line height) -->
-                        <div class="news-headline">
-                            <a href="https://www.cnn.com/2026/02/06/tech/anthropic-openai-super-bowl-ads" target="_blank" onclick="event.stopPropagation();">Two of the biggest AI companies are feuding over a Super Bowl ad. It’s bigger than you think</a>
+                            <a href="https://www.washingtonpost.com/technology/2026/02/07/ai-spending-economy-shortages/" target="_blank" onclick="event.stopPropagation();">The AI boom is so huge it’s causing shortages everywhere else</a>
                         </div>
 
                         <!-- Rich description (if available) -->
                         
                         <div class="article-description">
-                            A long-simmering rivalry between two of the world’s biggest AI companies was on public display this week as Anthropic and OpenAI took swings at one another online.
+                            The hundreds of billions of dollars being spent by tech companies on AI projects are diverting resources from other parts of the economy.
                         </div>
                         
 
@@ -1654,9 +1658,9 @@
                                 
                                 <div class="news-meta-item news-source">
                                     
-                                    <img src="https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.cnn.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
-                                         alt="cnn.com" class="news-favicon">
-                                    <a href="https://www.cnn.com" target="_blank" onclick="event.stopPropagation();">cnn.com</a>
+                                    <img src="https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.washingtonpost.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+                                         alt="The Washington Post" class="news-favicon">
+                                    <a href="https://www.washingtonpost.com" target="_blank" onclick="event.stopPropagation();">The Washington Post</a>
                                     
                                 </div>
                                 
@@ -1664,7 +1668,7 @@
                             <div class="news-meta-line">
                                 
                                 <div class="news-meta-item">
-                                    <span data-timestamp="1770377859.0"></span>
+                                    <span data-timestamp="1770463918.0"></span>
                                 </div>
                                 
                             </div>
@@ -1692,7 +1696,7 @@
 
     </div>
     <div class="widget-footer">
-        <small data-timestamp="2026-02-07T11:45:43.755969+00:00">Updated 2026-02-07T11:45:43.755969+00:00</small>
+        <small data-timestamp="2026-02-07T12:52:01.541366+00:00">Updated 2026-02-07T12:52:01.541366+00:00</small>
     </div>
 </div>
 
@@ -1913,10 +1917,10 @@
                         <div class="post-meta">
                             <div class="post-meta-line">
                                 <div class="post-meta-item">
-                                    <span class="post-points">▲ 909</span>
+                                    <span class="post-points">▲ 910</span>
                                 </div>
                                 <div class="post-meta-item">
-                                    <span style="color: #9ca3af;">💬 385</span>
+                                    <span style="color: #9ca3af;">💬 386</span>
                                 </div>
                             </div>
                             <div class="post-meta-line">
@@ -2060,10 +2064,10 @@
                         <div class="post-meta">
                             <div class="post-meta-line">
                                 <div class="post-meta-item">
-                                    <span class="post-points">▲ 251</span>
+                                    <span class="post-points">▲ 262</span>
                                 </div>
                                 <div class="post-meta-item">
-                                    <span style="color: #9ca3af;">💬 194</span>
+                                    <span style="color: #9ca3af;">💬 207</span>
                                 </div>
                             </div>
                             <div class="post-meta-line">
@@ -2109,10 +2113,10 @@
                         <div class="post-meta">
                             <div class="post-meta-line">
                                 <div class="post-meta-item">
-                                    <span class="post-points">▲ 219</span>
+                                    <span class="post-points">▲ 229</span>
                                 </div>
                                 <div class="post-meta-item">
-                                    <span style="color: #9ca3af;">💬 116</span>
+                                    <span style="color: #9ca3af;">💬 122</span>
                                 </div>
                             </div>
                             <div class="post-meta-line">
@@ -2158,10 +2162,10 @@
                         <div class="post-meta">
                             <div class="post-meta-line">
                                 <div class="post-meta-item">
-                                    <span class="post-points">▲ 112</span>
+                                    <span class="post-points">▲ 114</span>
                                 </div>
                                 <div class="post-meta-item">
-                                    <span style="color: #9ca3af;">💬 185</span>
+                                    <span style="color: #9ca3af;">💬 188</span>
                                 </div>
                             </div>
                             <div class="post-meta-line">
@@ -2207,7 +2211,7 @@
                         <div class="post-meta">
                             <div class="post-meta-line">
                                 <div class="post-meta-item">
-                                    <span class="post-points">▲ 90</span>
+                                    <span class="post-points">▲ 91</span>
                                 </div>
                                 <div class="post-meta-item">
                                     <span style="color: #9ca3af;">💬 66</span>
@@ -2398,7 +2402,7 @@
 
     </div>
     <div class="widget-footer">
-        <small data-timestamp="2026-02-07T11:45:24.728324+00:00">Updated 2026-02-07T11:45:24.728324+00:00</small>
+        <small data-timestamp="2026-02-07T12:51:42.210817+00:00">Updated 2026-02-07T12:51:42.210817+00:00</small>
     </div>
 </div>
 

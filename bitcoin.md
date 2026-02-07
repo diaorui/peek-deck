@@ -3,7 +3,7 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-02-07T11:45:48.601753+00:00'
+updated: '2026-02-07T12:52:04.880047+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
@@ -18,7 +18,7 @@ data_types:
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** February 07, 2026 at 11:45 UTC  
+**Last Updated:** February 07, 2026 at 12:52 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,17 +38,17 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $67,933.69
+### $69,180.39
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** +1.9%  
-**7d:** -11.8%  
-**30d:** -25.0%  
-**90d:** -36.1%  
-**1y:** -29.7%  
+**24h:** +2.7%  
+**7d:** -10.0%  
+**30d:** -23.5%  
+**90d:** -34.8%  
+**1y:** -28.2%  
 
 ---
 
@@ -79,7 +79,7 @@ Rank #1
 
 **[Look babe, bitcoin went up 9% today](https://www.reddit.com/r/Bitcoin/comments/1qy03oz/look_babe_bitcoin_went_up_9_today/)**
 
-10h ago
+11h ago
 
 ---
 
@@ -87,7 +87,7 @@ Rank #1
 
 I’m in multiple investment groups with very sharp people, and the skepticism is louder than I’ve heard it in a long time. Even my resident conspiracy-theorist cousin has re-emerged with “proof.” Who knew This was exactly the sentiment we needed, when I thought I’d never again see prices at these levels 😂
 
-9h ago
+10h ago
 
 ---
 
@@ -95,19 +95,19 @@ I’m in multiple investment groups with very sharp people, and the skepticism i
 
 I got paid today. I get paid every two weeks. I just spent my entire check on bitcoin again. Got it at 63-66ish I believe. I’ve been catching the falling knives. Bought at 80, 77, 73, 63. I am ready to catch the falling knife at 60, 50, 40, and 30. Last cycle I was scared. Uncertain. This cycle, once I saw 63k and my friends asking what was going on, I went UNCONSCIOUS. I automatically panic bought with my entire check. I didn’t think. Just did. And I will be continuing to throw every check in until 30k. I’m not going to wait for a lower price. Even though “we all know” it’s going below 60k, that didn’t stop me from lump summing the entire check at 63-66. I don’t care. I don’t care because US dollars do not matter. The only thing that matters is how much bitcoin you have. I love the bear because when we are at the bottom, it’s only the real ones left. The ones that actually understand. During the bull, this sub is filled with pure nonsense. I’m glad the bear is here so I can enjoy Bitcoin Reddit again. EDIT: I am VERY surprised to see the hate. Tourists must still be here. What happened to this sub?
 
-9h ago
+11h ago
 
 ---
 
 **[People who bought bitcoin at $61k yesterday](https://www.reddit.com/r/Bitcoin/comments/1qxw35n/people_who_bought_bitcoin_at_61k_yesterday/)**
 
-13h ago
+14h ago
 
 ---
 
 **[We are so back](https://www.reddit.com/r/Bitcoin/comments/1qxpeyz/we_are_so_back/)**
 
-17h ago
+18h ago
 
 ---
 
@@ -115,7 +115,7 @@ I got paid today. I get paid every two weeks. I just spent my entire check on bi
 
 ​
 
-5h ago
+6h ago
 
 ---
 
@@ -123,19 +123,19 @@ I got paid today. I get paid every two weeks. I just spent my entire check on bi
 
 Yes I finally captured it!
 
-17h ago
-
----
-
-**[Thats the spirit](https://www.reddit.com/r/Bitcoin/comments/1qxfq4n/thats_the_spirit/)**
-
-23h ago
+18h ago
 
 ---
 
 **[Bitcoin price right now](https://www.reddit.com/r/Bitcoin/comments/1qy7gsr/bitcoin_price_right_now/)**
 
-4h ago
+5h ago
+
+---
+
+**[Thats the spirit](https://www.reddit.com/r/Bitcoin/comments/1qxfq4n/thats_the_spirit/)**
+
+1d ago
 
 ---
 
@@ -143,7 +143,7 @@ Yes I finally captured it!
 
 Thanks. God bless you all
 
-22h ago
+23h ago
 
 ---
 
@@ -151,17 +151,21 @@ Thanks. God bless you all
 
 ## Google News: "bitcoin"
 
-**[No, but seriously: What’s going on with bitcoin?](https://www.cnn.com/2026/02/05/investing/bitcoin-price)**
+**[Bitcoin Drops to Lowest Price Since Trump Was Elected as Crypto Faces Slump](https://www.nytimes.com/2026/02/05/technology/bitcoin-price-drop-crypto-market.html)**
 
-Bitcoin is acting weird. The world’s most famous cryptocurrency has tumbled 44% from its October peak, falling below $70,000 Thursday for the first time in 15 months.
+The New York Times • 1d ago
 
-cnn.com • 1d ago
+---
+
+**[Everyone's Calling $59K as Bitcoin's Bottom. Here's Why They're Probably Wrong.](https://www.binance.com/en/square/post/289054124354626)**
+
+Binance • 2h ago
 
 ---
 
 **[The Kidnappers Of Savannah Guthrie's Mom Want Bitcoin—But It’s Not As Anonymous As Many Think](https://www.forbes.com/sites/martinadilicosa/2026/02/06/the-kidnappers-of-savannah-guthries-mom-want-bitcoin-but-its-not-as-anonymous-as-many-think/)**
 
-Forbes • 15h ago
+Forbes • 16h ago
 
 ---
 
@@ -193,15 +197,15 @@ The Block • 1d ago
 
 Strategy (MSTR) is moving to take a more active role in preparing Bitcoin for potential future threats from quantum computing.
 
-Bitcoin Magazine • 18h ago
+Bitcoin Magazine • 19h ago
 
 ---
 
-**[Bitcoin is falling and taking Strategy down with it](https://finance.yahoo.com/news/bitcoin-is-falling-and-taking-strategy-down-with-it-110059690.html)**
+**[Jim Cramer Sets Bitcoin 'Line In The Sand,' Urges Michael Saylor To Act Before Strategy's Q4 Earnings](https://finance.yahoo.com/news/jim-cramer-sets-bitcoin-line-160111156.html)**
 
-The excitement crypto drew from the tech world is being redirected to the AI trade, which is acting like a wrecking ball to software assets.
+Popular market commentator and TV personality Jim Cramer made a rather dramatic plea to Strategy Inc. (NASDAQ:MSTR) Chair Michael Saylor on Tuesday, urging him to act and stop Bitcoin’s (CRYPTO: BTC) decline. Cramer’s Proposal To Saylor In an X post, Cramer suggested Saylor issue a zero-coupon convertible bond to limit Bitcoin’s downside at $73,802, a level he described as the “line in the sand.” “Strategy’s earnings depend upon it, and what will you talk about when you report on Thursday. Let’s
 
-Yahoo Finance • 22h ago
+Yahoo Finance • 1d ago
 
 ---
 
@@ -210,7 +214,7 @@ users](https://www.cnbc.com/2026/02/07/south-korean-crypto-firm-accidentally-sen
 
 The move triggered a sharp selloff on the Bithumb exchange. The company apologized for the mistake.
 
-CNBC • 1h ago
+CNBC • 2h ago
 
 ---
 
@@ -218,15 +222,7 @@ CNBC • 1h ago
 
 A South Korean cryptocurrency exchange apologised on Saturday after mistakenly transferring more than $40 billion worth of bitcoin to users, which briefly prompted a selloff on the platform.
 
-France 24 • 5h ago
-
----
-
-**[Bithumb Accidentally Sends Large Amounts of Bitcoin to Users, Triggers Price Crash Amid Market Selloff](https://bitcoinmagazine.com/news/bithumb-accidentally-sends-bitcoin-users)**
-
-Bithumb reportedly made a mistake that led to the accidental deposit of large amounts of Bitcoin to various users.
-
-Bitcoin Magazine • 19h ago
+France 24 • 7h ago
 
 ---
 
@@ -258,7 +254,7 @@ Some market watchers have suggested $70,000 is a key level to watch and a break 
 
 Bitcoin outlook turns bearish as Pivotus’ Richard Farr targets BTC at $0 and Michael Burry warns of a “death spiral.” Get the risks and key levels now.
 
-⬆️ 52 • 💬 66 • 1d ago • [Seeking Alpha](https://seekingalpha.com/news/4547997-bitcoin-s-price-target-at-zero)
+⬆️ 53 • 💬 66 • 1d ago • [Seeking Alpha](https://seekingalpha.com/news/4547997-bitcoin-s-price-target-at-zero)
 
 ---
 
@@ -288,7 +284,7 @@ Bitcoin behaves more like an "ATM" during uncertain times, with investors quickl
 
 **[Show HN: GrahamBell – This is what Bitcoin mining looked like in 2009](https://news.ycombinator.com/item?id=46885212)**
 
-⬆️ 3 • 💬 0 • 2d ago
+⬆️ 3 • 💬 0 • 3d ago
 
 ---
 
@@ -304,7 +300,7 @@ Cryptocurrency markets fell as global equities and precious metals sold off whil
 
 SE050 Hardware Bitcoin Wallet - Self-sovereign Bitcoin wallet powered by NXP SE050 secure element - 0xdeadbeefnetwork/sigil-web
 
-⬆️ 2 • 💬 1 • 4h ago • [GitHub](https://github.com/0xdeadbeefnetwork/sigil-web)
+⬆️ 2 • 💬 1 • 5h ago • [GitHub](https://github.com/0xdeadbeefnetwork/sigil-web)
 
 ---
 
@@ -328,7 +324,7 @@ Bitcoin has been in a free-fall the past few months. At one point yesterday, it 
 
 📺 From The Desk Of Anthony Pompliano
 
-👁️ 29K • 👍 1K • 💬 225 • ⏱️ 9:43 • 13h ago
+👁️ 29K • 👍 1K • 💬 225 • ⏱️ 9:43 • 14h ago
 
 ---
 
@@ -338,7 +334,7 @@ Bitcoin's record volatility is sending shockwaves through the crypto market—ar
 
 📺 Discover Crypto
 
-👁️ 13K • 👍 140 • 💬 28 • ⏱️ 0:26 • 16h ago
+👁️ 13K • 👍 140 • 💬 28 • ⏱️ 0:26 • 17h ago
 
 ---
 
@@ -348,7 +344,7 @@ Bitcoin plunges as crypto markets lose trillions, sparking debate over whether B
 
 📺 Valuetainment
 
-👁️ 111K • 👍 2K • 💬 925 • ⏱️ 14:38 • 14h ago
+👁️ 111K • 👍 2K • 💬 925 • ⏱️ 14:38 • 15h ago
 
 ---
 
@@ -406,7 +402,7 @@ Did Jeffrey invent Bitcoin? This viral theory is blowing up across crypto circle
 
 📺 Moshe Iceberg
 
-👁️ 778 • 👍 18 • 💬 1 • ⏱️ 1:00 • 15h ago
+👁️ 778 • 👍 18 • 💬 1 • ⏱️ 1:00 • 16h ago
 
 ---
 
