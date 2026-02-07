@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-02-07T22:28:18.590370+00:00'
+updated: '2026-02-07T22:56:56.002553+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- cryptocurrency
+- social
 - news
 - videos
-- social
+- cryptocurrency
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** February 07, 2026 at 22:28 UTC  
+**Last Updated:** February 07, 2026 at 22:56 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -54,17 +54,17 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1389.86B
+**Market Cap:** $1386.60B
 Rank #1
 
-**Circulating Supply:** 19,985,768 BTC
+**Circulating Supply:** 19,985,843 BTC
 95.2% of max
 
 **All-Time High:** $126,080.00
--44.8%
+-45.0%
 
 **All-Time Low:** $67.81
-+102569.2%
++102213.8%
 
 ---
 
@@ -81,7 +81,7 @@ Rank #1
 
 HODL strong through the storms; the future rewards the patient. 🚀 🙌
 
-4h ago
+5h ago
 
 ---
 
@@ -89,13 +89,13 @@ HODL strong through the storms; the future rewards the patient. 🚀 🙌
 
 If you see blockchain activity whales are clearly accumulating taking BTC outside exchanges. It seems this is contrarian to people saying that BTC will bottom around 45k-55k. I believe (and hope) that bottom is in and the liquidation of this week has been a great opportunity to accumulate, decrease btc availability on exchanges and bring price to 100k +
 
-9h ago
+10h ago
 
 ---
 
 **[People who bought bitcoin at $61k yesterday](https://www.reddit.com/r/Bitcoin/comments/1qxw35n/people_who_bought_bitcoin_at_61k_yesterday/)**
 
-23h ago
+1d ago
 
 ---
 
@@ -109,7 +109,7 @@ If you see blockchain activity whales are clearly accumulating taking BTC outsid
 
 My mother barely uses Facebook and has zero interest in technology or finance. Yet here we are: she asked me to help her buy Bitcoin. Over the past months, I’ve talked a lot about Bitcoin at home — why I believe in it, my long-term goals, scarcity, adoption, etc. I guess at some point it clicked for her. The problem is… now I’m scared. Even though I truly believe in Bitcoin’s future, I’m afraid of a few things: What if things don’t go as expected? What if she doesn’t live long enough to really see the benefits of this investment? What if she can’t mentally handle the volatility and panic during big drawdowns? This feels very different from investing my own money. If Bitcoin drops 50%, I can handle it. If her money drops 50%, that’s a different emotional weight. I don’t want to be irresponsible or turn into “that guy” who convinced a family member to invest and then regrets it forever. So I’m asking those of you who’ve been here longer or have more life experience: What would you do in my position?
 
-5h ago
+6h ago
 
 ---
 
@@ -125,7 +125,7 @@ My mother barely uses Facebook and has zero interest in technology or finance. Y
 
 Basically
 
-9h ago
+10h ago
 
 ---
 
@@ -145,7 +145,7 @@ Basically
 
 Yup u heard it here First Ladies n gents. Bought $200 worth of btc during this dip. Safe to say we're holding till the moon 😎
 
-3h ago
+4h ago
 
 ---
 
@@ -157,7 +157,7 @@ Yup u heard it here First Ladies n gents. Bought $200 worth of btc during this d
 
 The company quickly realised its mistake and managed to recover virtually all the missing tokens from customers.
 
-BBC • 8h ago
+BBC • 9h ago
 
 ---
 
@@ -190,7 +190,7 @@ cnn.com • 2d ago
 
 The Justice Department's release of millions of files related to Jeffrey Epstein has unearthed some wild Bitcoin and crypto stories.
 
-Yahoo Finance • 1h ago
+Yahoo Finance • 2h ago
 
 ---
 
@@ -268,7 +268,7 @@ Crypto treasury companies quietly crept into index funds and retirement accounts
 
 **[South Korean crypto firm accidentally sends $44B in bitcoins to users](https://news.ycombinator.com/item?id=46926461)**
 
-⬆️ 4 • 💬 0 • 3h ago • [reuters.com](https://www.reuters.com/world/asia-pacific/crypto-firm-accidentally-sends-44-billion-bitcoins-users-2026-02-07/)
+⬆️ 4 • 💬 0 • 4h ago • [reuters.com](https://www.reuters.com/world/asia-pacific/crypto-firm-accidentally-sends-44-billion-bitcoins-users-2026-02-07/)
 
 ---
 
@@ -292,7 +292,7 @@ Bitcoin behaves more like an "ATM" during uncertain times, with investors quickl
 
 Bithumb, Korea's second-largest cryptocurrency exchange, mistakenly credited users with Bitcoin worth approximately 260 billion won ($195 million), instead of the modest number of reward points or Bitcoin that it had intended to distribute.
 
-⬆️ 3 • 💬 0 • 4h ago • [koreajoongangdaily.joins.com](https://koreajoongangdaily.joins.com/news/2026-02-07/business/finance/Crypto-exchange-Bithumb-mistakenly-hands-out-195M-in-Bitcoin-to-users-in-Random-Box-giveaway/2518495)
+⬆️ 3 • 💬 0 • 5h ago • [koreajoongangdaily.joins.com](https://koreajoongangdaily.joins.com/news/2026-02-07/business/finance/Crypto-exchange-Bithumb-mistakenly-hands-out-195M-in-Bitcoin-to-users-in-Random-Box-giveaway/2518495)
 
 ---
 
@@ -320,7 +320,7 @@ Take your personal data back with Incogni! Use code GRAHAM at the link below and
 
 📺 Graham Stephan
 
-👁️ 580K • 👍 20K • 💬 6K • ⏱️ 16:11 • 1d ago
+👁️ 587K • 👍 20K • 💬 6K • ⏱️ 16:11 • 1d ago
 
 ---
 
@@ -330,7 +330,7 @@ Bitcoin has been in a free-fall the past few months. At one point yesterday, it 
 
 📺 From The Desk Of Anthony Pompliano
 
-👁️ 39K • 👍 2K • 💬 280 • ⏱️ 9:43 • 1d ago
+👁️ 41K • 👍 2K • 💬 312 • ⏱️ 9:43 • 1d ago
 
 ---
 
@@ -340,7 +340,7 @@ Bitcoin plunges as crypto markets lose trillions, sparking debate over whether B
 
 📺 Valuetainment
 
-👁️ 143K • 👍 3K • 💬 12K • ⏱️ 14:38 • 1d ago
+👁️ 150K • 👍 3K • 💬 12K • ⏱️ 14:38 • 1d ago
 
 ---
 
@@ -350,7 +350,7 @@ https://democratizedprime.pxf.io/c/2406113/3755092/37696 Enter to win $25k USDC 
 
 📺 Aaron Bennett
 
-👁️ 36K • 👍 1K • 💬 816 • ⏱️ 13:47 • 2d ago
+👁️ 36K • 👍 1K • 💬 814 • ⏱️ 13:47 • 2d ago
 
 ---
 
@@ -360,27 +360,17 @@ Today, let's examine Bitcoin's charts and metrics, as well as the latest Macro a
 
 📺 CryptosRUs
 
-👁️ 38K • 👍 2K • 💬 370 • ⏱️ 32:01 • 1d ago
+👁️ 38K • 👍 2K • 💬 371 • ⏱️ 32:01 • 1d ago
 
 ---
 
-**[Bitcoin price falls below $70K. How much further could it drop?](https://www.youtube.com/watch?v=ysRWyZlc5F4)**
+**[BITCOIN WARNING ($39K)](https://www.youtube.com/watch?v=8rjH5qsABXk)**
 
-Bitcoin has fallen below $70000, raising questions about whether a crypto winter is underway. Yahoo Finance's Jared Blikre and ...
+Bitcoin's record volatility is sending shockwaves through the crypto market—are we nearing the bottom? Get the latest crypto news ...
 
-📺 Yahoo Finance
+📺 Discover Crypto
 
-👁️ 85K • 👍 594 • 💬 597 • ⏱️ 4:27 • 2d ago
-
----
-
-**[Is This the End of Bitcoin?](https://www.youtube.com/watch?v=CnL0ANTt2_8)**
-
-Bitcoin insane price collapse, but where is the bottom for BTC? BITUNIX TRADE THE TOP COINS (available everywhere) ...
-
-📺 Lark Davis
-
-👁️ 10K • 👍 636 • 💬 100 • ⏱️ 14:26 • 7h ago
+👁️ 19K • 👍 177 • 💬 114 • ⏱️ 0:26 • 1d ago
 
 ---
 
@@ -390,27 +380,37 @@ CNBC's “Closing Bell Overtime” team discusses cryptocurrencies, bitcoin's vo
 
 📺 CNBC Television
 
-👁️ 33K • 👍 308 • 💬 336 • ⏱️ 4:14 • 1d ago
+👁️ 34K • 👍 311 • 💬 356 • ⏱️ 4:14 • 1d ago
 
 ---
 
-**[DID JEFF INVENT BITCOIN?](https://www.youtube.com/watch?v=D2rbPG_Ncnw)**
+**[Is This the End of Bitcoin?](https://www.youtube.com/watch?v=CnL0ANTt2_8)**
 
-Did Jeffrey invent Bitcoin? This viral theory is blowing up across crypto circles, so we break it down, separate facts from fiction, and ...
+Bitcoin insane price collapse, but where is the bottom for BTC? BITUNIX TRADE THE TOP COINS (available everywhere) ...
 
-📺 Discover Crypto
+📺 Lark Davis
 
-👁️ 113K • 👍 2K • 💬 135 • ⏱️ 2:44 • 2d ago
+👁️ 13K • 👍 729 • 💬 111 • ⏱️ 14:26 • 7h ago
 
 ---
 
-**[Tether Co-Founder Weighs In on Bitcoin Selloff](https://www.youtube.com/watch?v=EbYaU0Yde5Q)**
+**[WATCH THIS BEFORE BITCOIN DROPS BELOW $70,000...](https://www.youtube.com/watch?v=M_AG6vLOeyE)**
 
-Tether co-founder William Quigley weighs in on the recent selloff in cryptocurrencies. Speaking on "Bloomberg The Close," ...
+Why is bitcoin crashing right now? The total crypto market value fell to about $2.54 trillion, down over 3% in 24 hours, according to ...
 
-📺 Bloomberg Television
+📺 Ricky Gutierrez
 
-👁️ 86K • 👍 793 • 💬 280 • ⏱️ 5:40 • 2d ago
+👁️ 44K • 👍 837 • 💬 276 • ⏱️ 12:35 • 2d ago
+
+---
+
+**[BITCOIN: EMERGENCY UPDATE!!! ⚠️ #BTC Price Prediction &amp; Crypto Crash News Today](https://www.youtube.com/watch?v=L-p4TRu-xx4)**
+
+MEXC: Trade with Ultra-low trading fees Sign up: https://www.mexc.com/register?inviteCode=mexc-RT1M (must use this link) ...
+
+📺 Road To $1 Million USD
+
+👁️ 8K • 👍 243 • 💬 65 • ⏱️ 8:50 • 2d ago
 
 ---
 

@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-02-07T22:28:18.596320+00:00'
+updated: '2026-02-07T22:56:56.008434+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- cryptocurrency
+- social
 - news
 - videos
-- social
+- cryptocurrency
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** February 07, 2026 at 22:28 UTC  
+**Last Updated:** February 07, 2026 at 22:56 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -52,17 +52,17 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Market Stats
 
-**Market Cap:** $253.23B
+**Market Cap:** $252.25B
 Rank #2
 
 **Circulating Supply:** 120,692,655 ETH
 No max supply
 
 **All-Time High:** $4,946.05
--57.4%
+-57.8%
 
 **All-Time Low:** $0.43
-+486066.8%
++482355.3%
 
 ---
 
@@ -230,13 +230,13 @@ Mashable • 1d ago
 
 ## YouTube Videos: "ethereum"
 
-**[I Think Something Insane Is About To Happen To Bitcoin And Ethereum But No One Is Seeing The Signs](https://www.youtube.com/watch?v=edXKNl2JR_s)**
+**[Ethereum Elliott Wave Update – Key Resistance Levels Ahead](https://www.youtube.com/watch?v=H_Y7-M-mSto)**
 
-Uhh... so... is anyone else getting that strange feeling that something big is about to go down in the crypto market. We've seen tons ...
+This video provides a professional Elliott Wave and technical analysis of Ethereum (ETH), focusing on market structure, major ...
 
-📺 Money Rules - Investing Tips 
+📺 More Crypto Online
 
-👁️ 13K • 👍 2K • 💬 307 • ⏱️ 13:13 • 1d ago
+👁️ 1K • 👍 155 • 💬 6 • ⏱️ 4:56 • 2h ago
 
 ---
 
@@ -246,7 +246,17 @@ Tom Lee, Fundstrat, joins 'Closing Bell' to discuss the state of crypto markets,
 
 📺 CNBC Television
 
-👁️ 59K • 👍 699 • 💬 349 • ⏱️ 3:53 • 1d ago
+👁️ 62K • 👍 718 • 💬 353 • ⏱️ 3:53 • 1d ago
+
+---
+
+**[BITCOIN &amp; ALTCOINS: New Targets Confirmed (Prepare Now)!!! - Bitcoin News Today, Ethereum &amp; Altcoins](https://www.youtube.com/watch?v=5dz7kqlC6mQ)**
+
+BITCOIN & ALTCOINS: New Targets Confirmed (Prepare Now)!!! - Bitcoin News Today, Ethereum & Altcoins *Bitunix* ...
+
+📺 Crypto World
+
+👁️ 2K • 👍 121 • 💬 36 • ⏱️ 17:07 • 1h ago
 
 ---
 
@@ -256,17 +266,7 @@ My FREE Daily 5-Min Crypto Newsletter: https://www.cryptonutshell.com/subscribe 
 
 📺 Crypto Nutshell
 
-👁️ 17K • 👍 478 • 💬 156 • ⏱️ 22:22 • 2d ago
-
----
-
-**[🚨 BTC &amp; ETH: THIS IS IT!!!! ITS TIME!!!!!](https://www.youtube.com/watch?v=8QI8ukpRpEI)**
-
-One of the biggest crypto crashes in history! Here is what happened, why and my plan going further. ---------- LIVE VIRTUAL ...
-
-📺 Thomas Kralow
-
-👁️ 35K • 👍 1K • 💬 75 • ⏱️ 11:51 • 1d ago
+👁️ 18K • 👍 482 • 💬 156 • ⏱️ 22:22 • 2d ago
 
 ---
 
@@ -276,7 +276,27 @@ ETHEREUM ETH PRICE PREDICTION 2026 Join the Premium Signal Group for trade setup
 
 📺 Cilinix Crypto
 
-👁️ 542 • 👍 27 • 💬 5 • ⏱️ 5:23 • 12h ago
+👁️ 642 • 👍 28 • 💬 5 • ⏱️ 5:23 • 12h ago
+
+---
+
+**[🚨 BTC &amp; ETH: THIS IS IT!!!! ITS TIME!!!!!](https://www.youtube.com/watch?v=8QI8ukpRpEI)**
+
+One of the biggest crypto crashes in history! Here is what happened, why and my plan going further. ---------- LIVE VIRTUAL ...
+
+📺 Thomas Kralow
+
+👁️ 36K • 👍 1K • 💬 78 • ⏱️ 11:51 • 1d ago
+
+---
+
+**[I Think Something Insane Is About To Happen To Bitcoin And Ethereum But No One Is Seeing The Signs](https://www.youtube.com/watch?v=edXKNl2JR_s)**
+
+Uhh... so... is anyone else getting that strange feeling that something big is about to go down in the crypto market. We've seen tons ...
+
+📺 Money Rules - Investing Tips 
+
+👁️ 13K • 👍 2K • 💬 304 • ⏱️ 13:13 • 1d ago
 
 ---
 
@@ -286,7 +306,7 @@ Take Control of Your Retirement — Grow Crypto & Gold Tax-Advantaged. https://w
 
 📺 Savvy Finance
 
-👁️ 8K • 👍 343 • 💬 11 • ⏱️ 20:57 • 1d ago
+👁️ 8K • 👍 343 • 💬 12 • ⏱️ 20:57 • 1d ago
 
 ---
 
@@ -296,7 +316,7 @@ This video provides a professional Elliott Wave and technical analysis of Ethere
 
 📺 More Crypto Online
 
-👁️ 3K • 👍 194 • 💬 14 • ⏱️ 4:02 • 21h ago
+👁️ 4K • 👍 195 • 💬 14 • ⏱️ 4:02 • 22h ago
 
 ---
 
@@ -306,27 +326,7 @@ Tangem 20% off + $10 in Bitcoin ➡️➡️ Use codes "NYEXTRA26" & "CRYPTOCREW
 
 📺 Your Crypto Crew
 
-👁️ 647 • 👍 99 • 💬 42 • ⏱️ 12:26 • 7h ago
-
----
-
-**[Is It FK&#39;ing Over For Ethereum? ⚠️ ETH Crypto Token Analysis](https://www.youtube.com/watch?v=80hmk4Zds2A)**
-
-Join Premium: https://the-bitcoin-strategy.com My Chart Software: https://the-bitcoin-strategy.com/tradingview My Hardware Wallet: ...
-
-📺 Gerhard - Bitcoin Strategy
-
-👁️ 10K • 👍 225 • 💬 49 • ⏱️ 9:49 • 2d ago
-
----
-
-**[BITCOIN CRASH OVER: My $5 Million Trading Strategy!!! - Bitcoin News Today, Ethereum &amp; Altcoins](https://www.youtube.com/watch?v=YbXiedpTjeA)**
-
-BITCOIN CRASH OVER: My $5 Million Trading Strategy!!! - Bitcoin News Today, Ethereum & Altcoins *Bitunix* ...
-
-📺 Crypto World
-
-👁️ 11K • 👍 448 • 💬 237 • ⏱️ 22:22 • 23h ago
+👁️ 894 • 👍 111 • 💬 39 • ⏱️ 12:26 • 7h ago
 
 ---
 

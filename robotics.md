@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-02-07T22:28:18.599520+00:00'
+updated: '2026-02-07T22:56:56.011571+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- social
 - news
 - videos
+- social
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** February 07, 2026 at 22:28 UTC  
+**Last Updated:** February 07, 2026 at 22:56 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -58,7 +58,7 @@ From CyberRobo on 𝕏: https://x.com/CyberRobooo/status/2019598569909743755
 
 **[It dance better than me for sure…](https://www.reddit.com/r/robotics/comments/1qykdxw/it_dance_better_than_me_for_sure/)**
 
-4h ago
+5h ago
 
 ---
 
@@ -74,7 +74,7 @@ There is the popular argument for why having a humanoid robot would be the best 
 
 Hi everyone, I’m planning to build a self-balancing robot and I wanted to share the parts I currently have before moving forward. Parts I have: Arduino Nano (ATmega328P) MPU6050 (accelerometer + gyroscope) TB6612FNG dual motor driver DC motors (3–6 V) Battery pack ~8 V, 2600 mAh 2× electrolytic capacitors (1000 µF, 16 V) Wheels and a rigid homemade chassis The goal is to make a robot that can balance itself upright using these components. I’m still in the early stages and would appreciate any general advice or things to watch out for when building a self-balancing robot with this kind of setup. Thanks!
 
-3h ago
+4h ago
 
 ---
 
@@ -82,7 +82,7 @@ Hi everyone, I’m planning to build a self-balancing robot and I wanted to shar
 
 Once again, Boston Dynamics just leaving everyone in the dust. Watch all the chinese copycats try to do the same thing. https://www.youtube.com/watch?v=UNorxwlZlFk
 
-6m ago
+35m ago
 
 ---
 
@@ -98,7 +98,7 @@ My boyfriend is a computer science major and is about to graduate. He’s really
 
 Just pushed an update to casadi-on-gpu that lets you generate CUDA kernels directly from CasADi and call them from C++, PyTorch, or CuPy. Useful for MPC, sampling, system ID, and robotics pipelines at scale.
 
-22h ago
+23h ago
 
 ---
 
@@ -106,7 +106,7 @@ Just pushed an update to casadi-on-gpu that lets you generate CUDA kernels direc
 
 I’m working with the UR12E and trying to send movement commands from a desktop. currently using ROS/moveit. I’m creating paths on RViz and they are valid. When pressing “execute” the arm doesn’t move. Sometimes there are errors regarding tolerances (which I’m looking into) and other times it doesn’t return an error, but tells me the movement is planned. previous culprits have been the ros joint controller / ros scaled joint controller (scaled is now being used). has anyone faced similar issues? Keen to be pointed to some places in docs to understand further.
 
-12h ago
+13h ago
 
 ---
 
@@ -126,7 +126,7 @@ The Robot Report • 3d ago
 
 "We just need enough time to build the AI and robots to not go bankrupt before then."
 
-Yahoo Finance • 3h ago
+Yahoo Finance • 4h ago
 
 ---
 
@@ -200,7 +200,17 @@ Humanoid robots just entered a new phase of realism. In Shanghai, DroidUp reveal
 
 📺 AI Revolution
 
-👁️ 181K • 👍 4K • 💬 791 • ⏱️ 13:31 • 2d ago
+👁️ 186K • 👍 4K • 💬 807 • ⏱️ 13:31 • 2d ago
+
+---
+
+**[Atlas Airborne Robot Shows the Final Evolution of Boston Dynamics](https://www.youtube.com/watch?v=IjRjKwZhYCQ)**
+
+The Atlas Airborne Robot takes one final research run as Boston Dynamics pushes humanoid robot control to its absolute limit.
+
+📺 DPCcars
+
+👁️ 531 • 👍 25 • 💬 2 • ⏱️ 2:45 • 3h ago
 
 ---
 
@@ -210,7 +220,7 @@ Humanoid robots just entered a new phase of realism. In Shanghai, DroidUp reveal
 
 📺 Unitree Robotics
 
-👁️ 127K • 👍 1K • 💬 149 • ⏱️ 0:45 • 5d ago
+👁️ 129K • 👍 1K • 💬 150 • ⏱️ 0:45 • 5d ago
 
 ---
 
@@ -220,55 +230,7 @@ Capybara's golden robot lion was sabotaged by Brianna before the big competition
 
 📺 CapyEscapes
 
-👁️ 29K • 👍 961 • 💬 106 • ⏱️ 0:59 • 10h ago
-
----
-
-**[Yann LeCun Just Called Out the Entire Robotics Industry](https://www.youtube.com/watch?v=ArG8GiIHmjE)**
-
-Checkout Free Community: - https://www.skool.com/theaigridcommunity Follow Me on Twitter https://twitter.com/TheAiGrid ...
-
-📺 TheAIGRID
-
-👁️ 20K • 👍 612 • 💬 196 • ⏱️ 13:22 • 4d ago
-
----
-
-**[A Robotic Mouth That Speaks Like a Human 😳](https://www.youtube.com/watch?v=x6M2gCzUTJM)**
-
-This robotic mouth is designed to replicate how real human lips move while speaking. Using actuators and soft materials, it copies ...
-
-📺 Facts TV 91
-
-👁️ 77K • 👍 511 • 💬 36 • ⏱️ 0:06 • 3d ago
-
----
-
-**[Tesla Robot handles upside down popcorn. It’s crazy how much these will change everything.](https://www.youtube.com/watch?v=PlEGwoJmon8)**
-
-📺 Tesla Owners Silicon Valley
-
-👁️ 38K • 👍 1K • 💬 49 • ⏱️ 0:40 • 2d ago
-
----
-
-**[Robot Mower with Vision? Navimow i2 AWD 2026 is INSANE!](https://www.youtube.com/watch?v=R0J2RMvFZ5I)**
-
-Join me in Paris for the LAUNCH of the Next Gen living robotic lawn mower from Navimow - The i2 AWD! This smart home ...
-
-📺 Matt Talks Tech
-
-👁️ 5K • 👍 599 • 💬 13 • ⏱️ 6:41 • 1d ago
-
----
-
-**[This Robot Produces Speech the Human Way 😮](https://www.youtube.com/watch?v=L0M5fs_phpA)**
-
-This Robot Produces Speech the Human Way This system generates speech using physical movement rather than digital ...
-
-📺 MrScoopz
-
-👁️ 6.9M • 👍 40K • 💬 2K • ⏱️ 0:05 • 6d ago
+👁️ 30K • 👍 985 • 💬 109 • ⏱️ 0:59 • 11h ago
 
 ---
 
@@ -278,7 +240,37 @@ War Robots Gameplay: Sonic Ammit - actually insane build! My War Robots Creator 
 
 📺 Manni-Gaming
 
-👁️ 5K • 👍 323 • 💬 61 • ⏱️ 14:50 • 12h ago
+👁️ 6K • 👍 347 • 💬 67 • ⏱️ 14:50 • 13h ago
+
+---
+
+**[Shaolin monks team up with humanoid robots in kung fu class](https://www.youtube.com/watch?v=mt3929HlbIk)**
+
+A new "class" has arrived at the Shaolin Temple in central China's Henan Province, where humanoid robots teamed up with ...
+
+📺 CGTN
+
+👁️ 40K • 👍 403 • 💬 45 • ⏱️ 0:19 • 15h ago
+
+---
+
+**[A Robotic Mouth That Speaks Like a Human 😳](https://www.youtube.com/watch?v=x6M2gCzUTJM)**
+
+This robotic mouth is designed to replicate how real human lips move while speaking. Using actuators and soft materials, it copies ...
+
+📺 Facts TV 91
+
+👁️ 78K • 👍 513 • 💬 36 • ⏱️ 0:06 • 3d ago
+
+---
+
+**[This Robot Produces Speech the Human Way 😮](https://www.youtube.com/watch?v=L0M5fs_phpA)**
+
+This Robot Produces Speech the Human Way This system generates speech using physical movement rather than digital ...
+
+📺 MrScoopz
+
+👁️ 7.1M • 👍 41K • 💬 2K • ⏱️ 0:05 • 6d ago
 
 ---
 
@@ -288,7 +280,15 @@ MirrorMe launched the humanoid robot — Bolt — on Monday, achieving a peak ru
 
 📺 CnEVPost
 
-👁️ 34K • 👍 333 • 💬 83 • ⏱️ 1:09 • 4d ago
+👁️ 35K • 👍 335 • 💬 83 • ⏱️ 1:09 • 4d ago
+
+---
+
+**[Drag-and-drop welding robot.#industrial #welding #robot #spraying #stamping](https://www.youtube.com/watch?v=-8-Ed2ZxIBk)**
+
+📺 Borunte Robot Lin 
+
+👁️ 15K • 👍 38 • ⏱️ 0:22 • 2d ago
 
 ---
 

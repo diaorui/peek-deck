@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-02-07T22:28:18.581837+00:00'
+updated: '2026-02-07T22:56:55.994262+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- social
 - repositories
 - news
 - videos
+- social
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** February 07, 2026 at 22:28 UTC  
+**Last Updated:** February 07, 2026 at 22:56 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -41,7 +41,7 @@ AI news, discussions, and developments
 
 Countries have been building their own “sovereign AI” to reflect their culture and values, and OpenAI wants to help them....
 
-🔗 [Sherwood News](https://sherwood.news/tech/report-openai-may-tailor-a-version-of-chatgpt-for-uae-that-prohibits-lgbtq/) • 12h ago
+🔗 [Sherwood News](https://sherwood.news/tech/report-openai-may-tailor-a-version-of-chatgpt-for-uae-that-prohibits-lgbtq/) • 13h ago
 
 ---
 
@@ -65,7 +65,7 @@ Hey fam, Been grinding on BrainAPI, this open-source thing that turns messy even
 
 Let’s say the quiet part out loud.
 
-🔗 [Medium](https://medium.com/@behindthebuild/big-tech-ai-isnt-taking-your-job-your-refusal-to-use-it-might-966f8219f962) • 4h ago
+🔗 [Medium](https://medium.com/@behindthebuild/big-tech-ai-isnt-taking-your-job-your-refusal-to-use-it-might-966f8219f962) • 5h ago
 
 ---
 
@@ -73,7 +73,7 @@ Let’s say the quiet part out loud.
 
 View AI Agent prediction on PardusAI - AI-powered data analysis platform
 
-🔗 [pardusai.org](https://pardusai.org/view/fa19c538b421112c351c21f4018d955513b8dbd75c0b0b3a2a64bee4b7fc4080) • 4h ago
+🔗 [pardusai.org](https://pardusai.org/view/fa19c538b421112c351c21f4018d955513b8dbd75c0b0b3a2a64bee4b7fc4080) • 5h ago
 
 ---
 
@@ -113,7 +113,7 @@ I’m a solo web developer, so I spend most of my day using AI to debug my self 
 
 An AI-powered model developed at University of Michigan can read a brain MRI and diagnose a person in seconds, a study suggests.&nbsp;It detected neurological conditions with up to 97.5% accuracy and predicted how urgently a patient required treatment. The technology&nbsp;could transform neuroimaging at health systems across the United States.
 
-🔗 [EurekAlert!](https://www.eurekalert.org/news-releases/1115393) • 19h ago
+🔗 [EurekAlert!](https://www.eurekalert.org/news-releases/1115393) • 20h ago
 
 ---
 
@@ -243,7 +243,7 @@ The hundreds of billions of dollars being spent by tech companies on AI projects
 
 Women in rural communities describe trauma of moderating violent and pornographic content for global tech companies
 
-⬆️ 122 • 💬 198 • 1d ago • [the Guardian](https://www.theguardian.com/global-development/2026/feb/05/in-the-end-you-feel-blank-indias-female-workers-watching-hours-of-abusive-content-to-train-ai)
+⬆️ 122 • 💬 198 • 2d ago • [the Guardian](https://www.theguardian.com/global-development/2026/feb/05/in-the-end-you-feel-blank-indias-female-workers-watching-hours-of-abusive-content-to-train-ai)
 
 ---
 
@@ -281,43 +281,33 @@ A California man is facing a criminal charge for allegedly BASE jumping off Glac
 
 ## YouTube Videos: "ai"
 
-**[🚨ALARMING! An AI Just Wiped Out $285B From The Financial Markets…🔥](https://www.youtube.com/watch?v=lRwduk14uHY)**
-
-1. Get 90% OFF A Course Today: https://www.neilmccoyward.com/courses 2. My Investment Portfolio Join THOUSANDS of ...
-
-📺 Neil McCoy-Ward
-
-👁️ 65K • 👍 5K • 💬 579 • ⏱️ 19:58 • 1d ago
-
----
-
 **[Trump Posts Shocking AI Video Showing the Obamas as Apes](https://www.youtube.com/watch?v=V86R2ZJPXzI)**
 
 The White House deleted a video posted on President Trump's Truth Social that included a clip depicting former President Barack ...
 
 📺 New York Post
 
-👁️ 38K • 👍 294 • 💬 597 • ⏱️ 2:07 • 1d ago
+👁️ 40K • 👍 297 • 💬 603 • ⏱️ 2:07 • 1d ago
 
 ---
 
-**[EXACTLY How to Start Making AI Influencers and get RICH](https://www.youtube.com/watch?v=UTcTcgum1-U)**
+**[STOP Paying! Unlimited AI Video (No Credit Limits) - Kling 3.0](https://www.youtube.com/watch?v=fEBFDMSpBr0)**
 
-Create AI Influencers using Higgsfield https://youricreates.com/Higgsfield-AI In this video, I break down how AI influencers are ...
+Try Kling 3.0 with UNLIMITED video generations → https://higgsfield.ai/kling-3.0/?utm_source=MalvaA Get the FREE PDF ...
 
-📺 Youri van Hofwegen
+📺 Malva AI
 
-👁️ 7K • 💬 6 • ⏱️ 8:07 • 6h ago
+👁️ 3K • 👍 206 • 💬 110 • ⏱️ 8:03 • 10h ago
 
 ---
 
-**[First Biomimetic AI Robot From China Looks Shockingly Human](https://www.youtube.com/watch?v=B61etYSvMNI)**
+**[🚨ALARMING! An AI Just Wiped Out $285B From The Financial Markets…🔥](https://www.youtube.com/watch?v=lRwduk14uHY)**
 
-Humanoid robots just entered a new phase of realism. In Shanghai, DroidUp revealed Moya, the world's first fully biomimetic ...
+1. Get 90% OFF A Course Today: https://www.neilmccoyward.com/courses 2. My Investment Portfolio Join THOUSANDS of ...
 
-📺 AI Revolution
+📺 Neil McCoy-Ward
 
-👁️ 181K • 👍 4K • 💬 791 • ⏱️ 13:31 • 2d ago
+👁️ 66K • 👍 5K • 💬 586 • ⏱️ 19:58 • 1d ago
 
 ---
 
@@ -327,7 +317,27 @@ AI coding just entered a new phase of competition. In the same week, OpenAI unve
 
 📺 AI Revolution
 
-👁️ 20K • 👍 611 • 💬 31 • ⏱️ 13:09 • 23h ago
+👁️ 22K • 👍 634 • 💬 33 • ⏱️ 13:09 • 23h ago
+
+---
+
+**[‘DISGUSTING’: Trump’s AI Video Of Obamas As Monkeys Kicks Off Storm; Dems Seethe At ‘RACISM’](https://www.youtube.com/watch?v=MyvdajZTrkw)**
+
+A massive political storm has erupted after Donald Trump shared an Artificial Intelligence (AI)-generated video showing former ...
+
+📺 Times Of India
+
+👁️ 284K • 👍 813 • 💬 1K • ⏱️ 8:22 • 1d ago
+
+---
+
+**[First Biomimetic AI Robot From China Looks Shockingly Human](https://www.youtube.com/watch?v=B61etYSvMNI)**
+
+Humanoid robots just entered a new phase of realism. In Shanghai, DroidUp revealed Moya, the world's first fully biomimetic ...
+
+📺 AI Revolution
+
+👁️ 186K • 👍 4K • 💬 807 • ⏱️ 13:31 • 2d ago
 
 ---
 
@@ -337,7 +347,7 @@ The latest AI News. Learn about LLMs, Gen AI and get ready for the rollout of AG
 
 📺 Wes Roth
 
-👁️ 72K • 👍 3K • 💬 704 • ⏱️ 18:15 • 19h ago
+👁️ 77K • 👍 3K • 💬 731 • ⏱️ 18:15 • 20h ago
 
 ---
 
@@ -347,7 +357,17 @@ Krystal and Saagar discuss tech stocks tumbling amid emerging new fears of job l
 
 📺 Breaking Points
 
-👁️ 352K • 👍 10K • 💬 2K • ⏱️ 24:33 • 2d ago
+👁️ 355K • 👍 10K • 💬 2K • ⏱️ 24:33 • 2d ago
+
+---
+
+**[I Paid Bakeries $5000 To Recreate AI Wedding Cakes!](https://www.youtube.com/watch?v=HAJEFOZpXMo)**
+
+Can real-life bakers beat AI Slop? Lets find out! ▻ Subscribe: https://www.youtube.com/@RosannaPansino?sub_confirmation=1 ...
+
+📺 Rosanna Pansino
+
+👁️ 48K • 👍 4K • 💬 297 • ⏱️ 25:43 • 7h ago
 
 ---
 
@@ -357,27 +377,7 @@ Jensen Huang, NVIDIA CEO, joins CNBC's "Halftime Report to discuss the power of 
 
 📺 CNBC Television
 
-👁️ 119K • 👍 2K • 💬 413 • ⏱️ 8:35 • 1d ago
-
----
-
-**[The Two Best AI Models/Enemies Just Got Released Simultaneously](https://www.youtube.com/watch?v=1PxEziv5XIU)**
-
-The two models that you will hear discussed for at least the next two months - Claude Opus 4.6 and GPT 5.3 Codex - just got ...
-
-📺 AI Explained
-
-👁️ 53K • 👍 2K • 💬 294 • ⏱️ 19:50 • 1d ago
-
----
-
-**[How AI is helping her speak again!](https://www.youtube.com/watch?v=-ANej33sbOQ)**
-
-This is an amazing use of AI! evolving.ai on IG #ai #technology #advancements #medical ✰ ABOUT ME ✰ I'm Dr. Myro ...
-
-📺 Doctor Myro
-
-👁️ 395K • 👍 15K • 💬 650 • ⏱️ 0:44 • 1d ago
+👁️ 122K • 👍 2K • 💬 428 • ⏱️ 8:35 • 1d ago
 
 ---
 
@@ -393,7 +393,7 @@ GLM-OCR is a 0.9B parameter multimodal OCR model for complex document understand
 
 `image-to-text`
 
-⬇️ 204,109 • ❤️ 772 • 4d ago
+⬇️ 204,109 • ❤️ 779 • 4d ago
 
 ---
 
@@ -405,7 +405,7 @@ Qwen3-Coder-Next is an 80B parameter (3B active) LLM optimized for coding agents
 
 `text-generation` `79.7B`
 
-⬇️ 53,491 • ❤️ 577 • 4d ago
+⬇️ 53,491 • ❤️ 582 • 4d ago
 
 ---
 
@@ -417,7 +417,7 @@ Kimi K2.5 is a native multimodal agentic model with 1T parameters, excelling in 
 
 `image-text-to-text` `170.7B`
 
-⬇️ 335,220 • ❤️ 1,813 • 2d ago
+⬇️ 335,220 • ❤️ 1,819 • 2d ago
 
 ---
 
@@ -429,7 +429,7 @@ Step 3.5 Flash is an efficient, open-source MoE foundation model (11B active par
 
 `text-generation` `199.4B`
 
-⬇️ 11,980 • ❤️ 511 • 16h ago
+⬇️ 11,980 • ❤️ 511 • 17h ago
 
 ---
 
@@ -439,7 +439,7 @@ Step 3.5 Flash is an efficient, open-source MoE foundation model (11B active par
 
 Anima is a 2 billion parameter text-to-image diffusion model specializing in anime and non-photorealistic artistic styles, trained on millions of anime and artistic images. It is designed for generating illustrations and artistic images, with primary use cases in ComfyUI workflows for anime concepts and characters.
 
-⬇️ 60,581 • ❤️ 498 • 6d ago
+⬇️ 60,581 • ❤️ 499 • 6d ago
 
 ---
 
@@ -451,7 +451,7 @@ MiniCPM-o 4.5 is a 9B parameter multimodal LLM excelling in vision, speech, and 
 
 `any-to-any` `9.4B`
 
-⬇️ 5,568 • ❤️ 582 • 6h ago
+⬇️ 5,568 • ❤️ 584 • 6h ago
 
 ---
 
@@ -463,7 +463,7 @@ ACE-Step 1.5 is an open-source text-to-audio music generation model capable of p
 
 `text-to-audio`
 
-⬇️ 19,901 • ❤️ 430 • 4d ago
+⬇️ 19,901 • ❤️ 432 • 4d ago
 
 ---
 
@@ -473,7 +473,7 @@ ACE-Step 1.5 is an open-source text-to-audio music generation model capable of p
 
 Voxtral-Mini-4B-Realtime-2602 is a 4B-parameter, multilingual speech-to-text model offering near-offline accuracy with <500ms latency. It features a streaming architecture for real-time applications like voice assistants and live subtitling, optimized for on-device deployment.
 
-⬇️ 2,093 • ❤️ 363 • 2d ago
+⬇️ 2,093 • ❤️ 364 • 2d ago
 
 ---
 
@@ -485,7 +485,7 @@ Qwen3-Coder-Next is an 80B parameter LLM optimized for coding agents, featuring 
 
 `text-generation` `79.7B`
 
-⬇️ 166,132 • ❤️ 206 • 2d ago
+⬇️ 166,132 • ❤️ 207 • 2d ago
 
 ---
 
@@ -513,7 +513,7 @@ Intern-S1-Pro is a trillion-scale MoE multimodal scientific reasoning model, exc
 
 _paperbanana is an agentic framework that automates the creation of publication-ready academic illustrations using advanced vision-language models and image generation techniques.
 
-▲ 137 • 💬 12 • ⭐ 2,267 • 8d ago
+▲ 137 • 💬 12 • ⭐ 2,322 • 8d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2601.23265) • [💻 code](https://github.com/dwzhu-pku/PaperBanana) • [🔗 project](https://dwzhu-pku.github.io/PaperBanana/)
 
@@ -589,7 +589,7 @@ LingBot-World is an open-source world simulator with high-fidelity dynamics, lon
 
 The Qwen3-TTS series presents advanced multilingual text-to-speech models with voice cloning and controllable speech generation capabilities, utilizing dual-track LM architecture and specialized speech tokenizers for efficient streaming synthesis.
 
-▲ 60 • 💬 1 • ⭐ 7,069 • 16d ago
+▲ 60 • 💬 1 • ⭐ 7,113 • 17d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2601.15621) • [💻 code](https://github.com/QwenLM/Qwen3-TTS)
 
@@ -646,7 +646,7 @@ Browser automation CLI for AI agents
 
 `TypeScript`
 
-⭐ 13.1k • 🔱 755 • 1d ago
+⭐ 13.1k • 🔱 756 • 1d ago
 
 ---
 
@@ -656,7 +656,7 @@ AI → JSON → UI
 
 `TypeScript`
 
-⭐ 10.1k • 🔱 537 • 3h ago
+⭐ 10.1k • 🔱 537 • 4h ago
 
 ---
 
@@ -676,7 +676,7 @@ The Ultimate Collection of 700+ Agentic Skills for Claude Code/Antigravity/Curso
 
 `Python` `agentic-skills` `ai-agents` `antigravity` `autonomous-coding` `claude-code`
 
-⭐ 7.8k • 🔱 1.6k • 15h ago
+⭐ 7.8k • 🔱 1.6k • 16h ago
 
 ---
 
@@ -686,7 +686,7 @@ Marketing skills for Claude Code and AI agents. CRO, copywriting, SEO, analytics
 
 `claude` `codex` `marketing`
 
-⭐ 6.5k • 🔱 734 • 3d ago
+⭐ 6.5k • 🔱 736 • 3d ago
 
 ---
 
