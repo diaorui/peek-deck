@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-02-07T20:28:26.863437+00:00'
+updated: '2026-02-07T20:55:07.936523+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- social
+- videos
 - repositories
 - news
-- videos
+- social
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** February 07, 2026 at 20:28 UTC  
+**Last Updated:** February 07, 2026 at 20:55 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -41,7 +41,7 @@ AI news, discussions, and developments
 
 Countries have been building their own “sovereign AI” to reflect their culture and values, and OpenAI wants to help them....
 
-🔗 [Sherwood News](https://sherwood.news/tech/report-openai-may-tailor-a-version-of-chatgpt-for-uae-that-prohibits-lgbtq/) • 10h ago
+🔗 [Sherwood News](https://sherwood.news/tech/report-openai-may-tailor-a-version-of-chatgpt-for-uae-that-prohibits-lgbtq/) • 11h ago
 
 ---
 
@@ -57,7 +57,15 @@ I have been working solo on an AI-based project called Netryx. At a high level, 
 
 Let’s say the quiet part out loud.
 
-🔗 [Medium](https://medium.com/@behindthebuild/big-tech-ai-isnt-taking-your-job-your-refusal-to-use-it-might-966f8219f962) • 2h ago
+🔗 [Medium](https://medium.com/@behindthebuild/big-tech-ai-isnt-taking-your-job-your-refusal-to-use-it-might-966f8219f962) • 3h ago
+
+---
+
+**[AI Trajectories Through 2030: Analysis of Four Plausible Futures](https://www.reddit.com/r/artificial/comments/1qyjrtc/ai_trajectories_through_2030_analysis_of_four/)**
+
+View AI Agent prediction on PardusAI - AI-powered data analysis platform
+
+🔗 [pardusai.org](https://pardusai.org/view/fa19c538b421112c351c21f4018d955513b8dbd75c0b0b3a2a64bee4b7fc4080) • 3h ago
 
 ---
 
@@ -69,11 +77,11 @@ One of Kimi’s browser automation scripts uses a dark web library with crypto s
 
 ---
 
-**[AI Trajectories Through 2030: Analysis of Four Plausible Futures](https://www.reddit.com/r/artificial/comments/1qyjrtc/ai_trajectories_through_2030_analysis_of_four/)**
+**[Roast my OSS AI memory graph engine > feedback on MVP?](https://www.reddit.com/r/artificial/comments/1qyoehj/roast_my_oss_ai_memory_graph_engine_feedback_on/)**
 
-View AI Agent prediction on PardusAI - AI-powered data analysis platform
+Hey fam, Been grinding on BrainAPI, this open-source thing that turns messy event logs into a smart knowledge graph for AI agents and rec systems. Think: feed it user clicks/buys/chats, it builds a precise map with cause-effect attribution (no BS hallucinations), then your AI retrieves fast AF for spot-on suggestions. Right now: Core APIs for saving/processing data -> works for CRM member matches/social networks (one user already using it for automated matches). Fast retrieval But ingestion? Slow as hell (10-30 min on small datasets) cuz of heavy LLM chains for precision. Trade-off for that "holy grail" accuracy, but yeah, it's a pain, optimizing soon. Repo: https://github.com/Lumen-Labs/brainapi2 What's the vibe? Bugs? Missing features? Use cases for ecom or agents? Roast it hard, I'm not fragile. If it slaps, star/fork. Building in public, hit me with thoughts!
 
-🔗 [pardusai.org](https://pardusai.org/view/fa19c538b421112c351c21f4018d955513b8dbd75c0b0b3a2a64bee4b7fc4080) • 2h ago
+29m ago
 
 ---
 
@@ -97,7 +105,7 @@ I’m a solo web developer, so I spend most of my day using AI to debug my self 
 
 An AI-powered model developed at University of Michigan can read a brain MRI and diagnose a person in seconds, a study suggests.&nbsp;It detected neurological conditions with up to 97.5% accuracy and predicted how urgently a patient required treatment. The technology&nbsp;could transform neuroimaging at health systems across the United States.
 
-🔗 [EurekAlert!](https://www.eurekalert.org/news-releases/1115393) • 17h ago
+🔗 [EurekAlert!](https://www.eurekalert.org/news-releases/1115393) • 18h ago
 
 ---
 
@@ -109,17 +117,17 @@ Anthropic shipped Opus 4.6 and OpenAI shipped GPT-5.3-Codex on the same day, 27 
 
 ---
 
-**[Chinese teams keep shipping Western AI tools faster than Western companies do](https://www.reddit.com/r/artificial/comments/1qxgvtr/chinese_teams_keep_shipping_western_ai_tools/)**
-
-It happened again. A 13-person team in Shenzhen just shipped a browser-based version of Claude Code, called happycapy. No terminal, no setup, runs in a sandbox. Anthropic built Claude Code but hasn't shipped anything like this themselves. This is the same pattern as Manus. Chinese company takes a powerful Western AI tool, strips the friction, and ships it to a mainstream audience before the original builders get around to it. US labs keep building the most powerful models in the world. Chinese teams keep building the products that actually put them in people's hands. OpenAI builds GPT, China ships the wrappers. Anthropic builds Claude Code, a Shenzhen startup makes it work in a browser tab. US builds the engines. China builds the cars. Is this just how it's going to be, or are Western AI companies eventually going to care about distribution as much as they care about benchmarks?
-
-1d ago
-
----
-
 ---
 
 ## Google News: "ai"
+
+**[Tech AI spending may approach $700 billion this year, but the blow to cash raises red flags](https://www.cnbc.com/2026/02/06/google-microsoft-meta-amazon-ai-cash.html)**
+
+Tech's megacaps announced major increases in capex spend for 2026, and now investors are preparing for cash to dwindle.
+
+CNBC • 23h ago
+
+---
 
 **[Amazon leads Big Tech’s $1 trillion wipeout as AI bubble fears ignite sell-off](https://www.cnbc.com/2026/02/06/ai-sell-off-stocks-amazon-oracle.html)**
 
@@ -129,7 +137,21 @@ CNBC • 1d ago
 
 ---
 
-**[Here’s Where AI Is Tearing Through Corporate America](https://www.wsj.com/tech/ai/ai-software-business-stock-market-4b17b432?gaa_at=eafs&gaa_n=AWEtsqc2i1IyDn1p0lKeBDjVYpateHE3dpii_uzNiWwXCHikmulAJIA0XKwG&gaa_ts=698799be&gaa_sig=ScbBIeRJ07ktPBWUfGBNXN1DcbxlgDzJxu4YzjL5exUA3ExtMW7zD5K3BpSDBCqMBhaZnNwfG8R6acEdbVT0hg%3D%3D)**
+**[The AI Trade Enters a New Era of Skepticism](https://www.barrons.com/articles/dow-50000-ai-trade-skepticism-353375f4?gaa_at=eafs&gaa_n=AWEtsqe-Qw15q6r6PhfoIXRBkOD3KSKUH_nZNq2WPoBXOCzmZWEH47fjF8ZK&gaa_ts=6987aa17&gaa_sig=fMM7EJq37F6S29BPc_-Jl-_zlJ7SJv7uo40ejKI6GBuXwEYrKHGpvhz7FND4sw7TdQfFf_2oxIrj9V8d88oLag%3D%3D)**
+
+Barron's • 23h ago
+
+---
+
+**[The AI boom is so huge it’s causing shortages everywhere else](https://www.washingtonpost.com/technology/2026/02/07/ai-spending-economy-shortages/)**
+
+The hundreds of billions of dollars being spent by tech companies on AI projects are diverting resources from other parts of the economy.
+
+The Washington Post • 2h ago
+
+---
+
+**[Here’s Where AI Is Tearing Through Corporate America](https://www.wsj.com/tech/ai/ai-software-business-stock-market-4b17b432?gaa_at=eafs&gaa_n=AWEtsqdox3JIApEhtN8eD7XlvGef5BkcQctaVKSAjB-Xl5L_Zb0pcRGHD507&gaa_ts=6987aa17&gaa_sig=8Rs_HLq8Sra9GknNBZA-FrKAS25EZtN5d92MzDg3U76CkGyRhyiR3nTl4FmKnM6RMwesPZPOxOE2k_G-2OhH1Q%3D%3D)**
 
 The Wall Street Journal • 18h ago
 
@@ -143,19 +165,11 @@ Axios • 10h ago
 
 ---
 
-**[AI leaders argue software will adapt – not die – but valuations are stretched](https://www.foxbusiness.com/technology/ai-leaders-argue-software-adapt-not-die-valuations-stretched)**
+**[AI fears pummel software stocks: Is it 'illogical' panic or a SaaS apocalypse?](https://www.cnbc.com/2026/02/06/ai-anthropic-tools-saas-software-stocks-selloff.html)**
 
-Major tech companies lost $1 trillion in a market sell-off this week, sending chills across tech industry. However, I unicorn founders believe valuations will normalize.
+The software space is facing serious market concerns this week, after the release of new AI tools from AI triggered a market sell-off.
 
-Fox Business • 1h ago
-
----
-
-**[The AI boom is so huge it’s causing shortages everywhere else](https://www.washingtonpost.com/technology/2026/02/07/ai-spending-economy-shortages/)**
-
-The hundreds of billions of dollars being spent by tech companies on AI projects are diverting resources from other parts of the economy.
-
-The Washington Post • 2h ago
+CNBC • 1d ago
 
 ---
 
@@ -173,25 +187,9 @@ Bloomberg.com • 1h ago
 
 ---
 
-**[Elon Musk warns the U.S. is '1,000% going to go bankrupt' unless AI and robotics save the economy from crushing debt](https://fortune.com/2026/02/07/elon-musk-us-bankruptcy-ai-robotics-economic-growth-national-debt-crisis/)**
-
-"We just need enough time to build the AI and robots to not go bankrupt before then."
-
-Fortune • 1h ago
-
----
-
 **[New study uses Neanderthals to demonstrate gap between generative AI and scholarly knowledge](https://phys.org/news/2026-02-neanderthals-gap-generative-ai-scholarly.html)**
 
-Phys.org • 23h ago
-
----
-
-**[Moltbook was peak AI theater](https://www.technologyreview.com/2026/02/06/1132448/moltbook-was-peak-ai-theater/)**
-
-The viral social network for bots reveals as much about our own current mania for AI as it does about the future of agents.
-
-MIT Technology Review • 1d ago
+Phys.org • 1d ago
 
 ---
 
@@ -209,7 +207,7 @@ MIT Technology Review • 1d ago
 
 A new bill in the New York state legislature would require news organizations to label AI-generated material and mandate that humans review any such content before publication. On Monday, Senator Patricia Fahy (D-Albany) and Assemblymember Nily Rozic (D-NYC) introduced the bill, called The New York…
 
-⬆️ 553 • 💬 232 • 1d ago • [Nieman Lab](https://www.niemanlab.org/2026/02/a-new-bill-in-new-york-would-require-disclaimers-on-ai-generated-news-content/)
+⬆️ 554 • 💬 232 • 1d ago • [Nieman Lab](https://www.niemanlab.org/2026/02/a-new-bill-in-new-york-would-require-disclaimers-on-ai-generated-news-content/)
 
 ---
 
@@ -217,7 +215,7 @@ A new bill in the New York state legislature would require news organizations to
 
 AI is rarely optional anymore, but how can you still be proud of your craft? Discover the workflow to effectively write high-quality, robust code using AI tools.
 
-⬆️ 308 • 💬 275 • 1d ago • [heidenstedt.org](https://heidenstedt.org/posts/2026/how-to-effectively-write-quality-code-with-ai/)
+⬆️ 310 • 💬 278 • 1d ago • [heidenstedt.org](https://heidenstedt.org/posts/2026/how-to-effectively-write-quality-code-with-ai/)
 
 ---
 
@@ -225,15 +223,7 @@ AI is rarely optional anymore, but how can you still be proud of your craft? Dis
 
 A minimal, secure Python interpreter written in Rust for use by AI - pydantic/monty
 
-⬆️ 286 • 💬 153 • 23h ago • [GitHub](https://github.com/pydantic/monty)
-
----
-
-**[India's female workers watching hours of abusive content to train AI](https://news.ycombinator.com/item?id=46906590)**
-
-Women in rural communities describe trauma of moderating violent and pornographic content for global tech companies
-
-⬆️ 121 • 💬 198 • 1d ago • [the Guardian](https://www.theguardian.com/global-development/2026/feb/05/in-the-end-you-feel-blank-indias-female-workers-watching-hours-of-abusive-content-to-train-ai)
+⬆️ 292 • 💬 156 • 23h ago • [GitHub](https://github.com/pydantic/monty)
 
 ---
 
@@ -241,7 +231,15 @@ Women in rural communities describe trauma of moderating violent and pornographi
 
 The hundreds of billions of dollars being spent by tech companies on AI projects are diverting resources from other parts of the economy.
 
-⬆️ 108 • 💬 136 • 9h ago • [The Washington Post](https://www.washingtonpost.com/technology/2026/02/07/ai-spending-economy-shortages/)
+⬆️ 160 • 💬 199 • 9h ago • [The Washington Post](https://www.washingtonpost.com/technology/2026/02/07/ai-spending-economy-shortages/)
+
+---
+
+**[India's female workers watching hours of abusive content to train AI](https://news.ycombinator.com/item?id=46906590)**
+
+Women in rural communities describe trauma of moderating violent and pornographic content for global tech companies
+
+⬆️ 122 • 💬 198 • 1d ago • [the Guardian](https://www.theguardian.com/global-development/2026/feb/05/in-the-end-you-feel-blank-indias-female-workers-watching-hours-of-abusive-content-to-train-ai)
 
 ---
 
@@ -263,7 +261,7 @@ Give your AI agent a browser that actually works
 
 Fears over AI spending have sparked a sell-off among tech stocks.
 
-⬆️ 88 • 💬 84 • 1d ago • [CNBC](https://www.cnbc.com/2026/02/06/ai-sell-off-stocks-amazon-oracle.html)
+⬆️ 88 • 💬 87 • 1d ago • [CNBC](https://www.cnbc.com/2026/02/06/ai-sell-off-stocks-amazon-oracle.html)
 
 ---
 
@@ -271,7 +269,7 @@ Fears over AI spending have sparked a sell-off among tech stocks.
 
 A California man is facing a criminal charge for allegedly BASE jumping off Glacier Point in Yosemite National Park during the federal government shutdown last year.
 
-⬆️ 53 • 💬 90 • 1d ago • [Los Angeles Times](https://www.latimes.com/california/story/2026-02-05/man-videotaped-himself-base-jumping-in-yosemite-federal-officials-say-he-says-it-was-ai)
+⬆️ 54 • 💬 90 • 1d ago • [Los Angeles Times](https://www.latimes.com/california/story/2026-02-05/man-videotaped-himself-base-jumping-in-yosemite-federal-officials-say-he-says-it-was-ai)
 
 ---
 
@@ -279,23 +277,33 @@ A California man is facing a criminal charge for allegedly BASE jumping off Glac
 
 ## YouTube Videos: "ai"
 
-**[EXACTLY How to Start Making AI Influencers and get RICH](https://www.youtube.com/watch?v=UTcTcgum1-U)**
-
-Create AI Influencers using Higgsfield https://youricreates.com/Higgsfield-AI In this video, I break down how AI influencers are ...
-
-📺 Youri van Hofwegen
-
-👁️ 4K • 💬 6 • ⏱️ 8:07 • 4h ago
-
----
-
 **[🚨ALARMING! An AI Just Wiped Out $285B From The Financial Markets…🔥](https://www.youtube.com/watch?v=lRwduk14uHY)**
 
 1. Get 90% OFF A Course Today: https://www.neilmccoyward.com/courses 2. My Investment Portfolio Join THOUSANDS of ...
 
 📺 Neil McCoy-Ward
 
-👁️ 64K • 👍 5K • 💬 575 • ⏱️ 19:58 • 1d ago
+👁️ 65K • 👍 5K • 💬 579 • ⏱️ 19:58 • 1d ago
+
+---
+
+**[Trump Posts Shocking AI Video Showing the Obamas as Apes](https://www.youtube.com/watch?v=V86R2ZJPXzI)**
+
+The White House deleted a video posted on President Trump's Truth Social that included a clip depicting former President Barack ...
+
+📺 New York Post
+
+👁️ 38K • 👍 294 • 💬 597 • ⏱️ 2:07 • 23h ago
+
+---
+
+**[EXACTLY How to Start Making AI Influencers and get RICH](https://www.youtube.com/watch?v=UTcTcgum1-U)**
+
+Create AI Influencers using Higgsfield https://youricreates.com/Higgsfield-AI In this video, I break down how AI influencers are ...
+
+📺 Youri van Hofwegen
+
+👁️ 7K • 💬 6 • ⏱️ 8:07 • 4h ago
 
 ---
 
@@ -305,17 +313,27 @@ Humanoid robots just entered a new phase of realism. In Shanghai, DroidUp reveal
 
 📺 AI Revolution
 
-👁️ 175K • 👍 4K • 💬 777 • ⏱️ 13:31 • 2d ago
+👁️ 181K • 👍 4K • 💬 791 • ⏱️ 13:31 • 2d ago
 
 ---
 
-**[Some companies using AI in their Super Bowl advertisements](https://www.youtube.com/watch?v=606abND7MVk)**
+**[OpenAI&#39;s New GPT 5.3 Shocks Anthropic As Opus 4.6 Strikes Back (AI War Explodes)](https://www.youtube.com/watch?v=ydW6Io2T4ho)**
 
-Some companies are using artificial intelligence in their advertisements that will play during the Super Bowl. NBC News' Kate ...
+AI coding just entered a new phase of competition. In the same week, OpenAI unveiled GPT-5.3-Codex, a faster, more capable ...
 
-📺 NBC News
+📺 AI Revolution
 
-👁️ 2K • 👍 16 • 💬 11 • ⏱️ 5:26 • 17h ago
+👁️ 20K • 👍 611 • 💬 31 • ⏱️ 13:09 • 21h ago
+
+---
+
+**[not good for OPENCLAW](https://www.youtube.com/watch?v=ceEUO_i7aW4)**
+
+The latest AI News. Learn about LLMs, Gen AI and get ready for the rollout of AGI. Wes Roth covers the latest happenings in the ...
+
+📺 Wes Roth
+
+👁️ 72K • 👍 3K • 💬 704 • ⏱️ 18:15 • 18h ago
 
 ---
 
@@ -325,7 +343,7 @@ Krystal and Saagar discuss tech stocks tumbling amid emerging new fears of job l
 
 📺 Breaking Points
 
-👁️ 348K • 👍 10K • 💬 2K • ⏱️ 24:33 • 2d ago
+👁️ 352K • 👍 10K • 💬 2K • ⏱️ 24:33 • 2d ago
 
 ---
 
@@ -335,47 +353,27 @@ Jensen Huang, NVIDIA CEO, joins CNBC's "Halftime Report to discuss the power of 
 
 📺 CNBC Television
 
-👁️ 115K • 👍 1K • 💬 399 • ⏱️ 8:35 • 1d ago
+👁️ 119K • 👍 2K • 💬 413 • ⏱️ 8:35 • 1d ago
 
 ---
 
-**[President Trump talks job losses to A.I. and U.S. operation in Venezuela in exclusive interview](https://www.youtube.com/watch?v=J8UxjCRZQpo)**
+**[The Two Best AI Models/Enemies Just Got Released Simultaneously](https://www.youtube.com/watch?v=1PxEziv5XIU)**
 
-NBC Nightly News anchor Tom Llamas spoke to President Trump about fears of job losses from A.I. President Trump also ...
+The two models that you will hear discussed for at least the next two months - Claude Opus 4.6 and GPT 5.3 Codex - just got ...
 
-📺 NBC News
+📺 AI Explained
 
-👁️ 22K • 👍 101 • 💬 95 • ⏱️ 4:39 • 1d ago
-
----
-
-**[Moya, a humanoid robot #MoyaRobot #HumanoidRobot #DroidUp #AI #China #Smart #Tech](https://www.youtube.com/watch?v=ukAGlmOHmNY)**
-
-Moya, a humanoid robot unveiled in Shanghai, China by robotics company DroidUp, can walk, make eye contact, smile, and show ...
-
-📺 Technical Guru G 2.0
-
-👁️ 7K • 👍 46 • 💬 5 • ⏱️ 0:09 • 11h ago
+👁️ 53K • 👍 2K • 💬 294 • ⏱️ 19:50 • 1d ago
 
 ---
 
-**[I Turned My AI Influencer Into a Real Person (Kling 3.0 + Higgsfield)](https://www.youtube.com/watch?v=rT6AIilIzjA)**
+**[How AI is helping her speak again!](https://www.youtube.com/watch?v=-ANej33sbOQ)**
 
-I turned my AI Influencer into a realistic on-camera personality using Kling 3.0 inside Higgsfield — and in this step-by-step Kling ...
+This is an amazing use of AI! evolving.ai on IG #ai #technology #advancements #medical ✰ ABOUT ME ✰ I'm Dr. Myro ...
 
-📺 Grow with Dani
+📺 Doctor Myro
 
-👁️ 3K • 👍 226 • 💬 9 • ⏱️ 10:56 • 21h ago
-
----
-
-**[How to Create AI Influencer For FREE ! Hyper Realistic AI Influencer](https://www.youtube.com/watch?v=257tp5FNMyA)**
-
-How to Create AI Influencer For FREE ! Hyper Realistic AI Influencer How to Create AI Influencer For FREE ! Create an AI ...
-
-📺 GR Editz
-
-👁️ 2K • 👍 127 • 💬 17 • ⏱️ 4:30 • 17h ago
+👁️ 395K • 👍 15K • 💬 650 • ⏱️ 0:44 • 23h ago
 
 ---
 
@@ -391,7 +389,7 @@ GLM-OCR is a 0.9B parameter multimodal OCR model for complex document understand
 
 `image-to-text`
 
-⬇️ 204,109 • ❤️ 768 • 4d ago
+⬇️ 204,109 • ❤️ 772 • 4d ago
 
 ---
 
@@ -403,7 +401,7 @@ Qwen3-Coder-Next is an 80B parameter (3B active) LLM optimized for coding agents
 
 `text-generation` `79.7B`
 
-⬇️ 53,491 • ❤️ 572 • 4d ago
+⬇️ 53,491 • ❤️ 577 • 4d ago
 
 ---
 
@@ -415,7 +413,7 @@ Kimi K2.5 is a native multimodal agentic model with 1T parameters, excelling in 
 
 `image-text-to-text` `170.7B`
 
-⬇️ 335,220 • ❤️ 1,808 • 2d ago
+⬇️ 335,220 • ❤️ 1,813 • 2d ago
 
 ---
 
@@ -427,7 +425,7 @@ Step 3.5 Flash is an efficient, open-source MoE foundation model (11B active par
 
 `text-generation` `199.4B`
 
-⬇️ 11,980 • ❤️ 508 • 14h ago
+⬇️ 11,980 • ❤️ 511 • 15h ago
 
 ---
 
@@ -437,7 +435,7 @@ Step 3.5 Flash is an efficient, open-source MoE foundation model (11B active par
 
 Anima is a 2 billion parameter text-to-image diffusion model specializing in anime and non-photorealistic artistic styles, trained on millions of anime and artistic images. It is designed for generating illustrations and artistic images, with primary use cases in ComfyUI workflows for anime concepts and characters.
 
-⬇️ 60,581 • ❤️ 497 • 6d ago
+⬇️ 60,581 • ❤️ 498 • 6d ago
 
 ---
 
@@ -449,7 +447,7 @@ MiniCPM-o 4.5 is a 9B parameter multimodal LLM excelling in vision, speech, and 
 
 `any-to-any` `9.4B`
 
-⬇️ 5,568 • ❤️ 581 • 4h ago
+⬇️ 5,568 • ❤️ 582 • 4h ago
 
 ---
 
@@ -471,7 +469,7 @@ ACE-Step 1.5 is an open-source text-to-audio music generation model capable of p
 
 Voxtral-Mini-4B-Realtime-2602 is a 4B-parameter, multilingual speech-to-text model offering near-offline accuracy with <500ms latency. It features a streaming architecture for real-time applications like voice assistants and live subtitling, optimized for on-device deployment.
 
-⬇️ 2,093 • ❤️ 361 • 2d ago
+⬇️ 2,093 • ❤️ 363 • 2d ago
 
 ---
 
@@ -483,7 +481,7 @@ Qwen3-Coder-Next is an 80B parameter LLM optimized for coding agents, featuring 
 
 `text-generation` `79.7B`
 
-⬇️ 166,132 • ❤️ 205 • 2d ago
+⬇️ 166,132 • ❤️ 206 • 2d ago
 
 ---
 
@@ -511,7 +509,7 @@ Intern-S1-Pro is a trillion-scale MoE multimodal scientific reasoning model, exc
 
 _paperbanana is an agentic framework that automates the creation of publication-ready academic illustrations using advanced vision-language models and image generation techniques.
 
-▲ 136 • 💬 12 • ⭐ 2,267 • 8d ago
+▲ 137 • 💬 12 • ⭐ 2,267 • 8d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2601.23265) • [💻 code](https://github.com/dwzhu-pku/PaperBanana) • [🔗 project](https://dwzhu-pku.github.io/PaperBanana/)
 
@@ -654,7 +652,7 @@ AI → JSON → UI
 
 `TypeScript`
 
-⭐ 10.1k • 🔱 537 • 1h ago
+⭐ 10.1k • 🔱 537 • 2h ago
 
 ---
 
@@ -674,7 +672,7 @@ The Ultimate Collection of 700+ Agentic Skills for Claude Code/Antigravity/Curso
 
 `Python` `agentic-skills` `ai-agents` `antigravity` `autonomous-coding` `claude-code`
 
-⭐ 7.8k • 🔱 1.6k • 13h ago
+⭐ 7.8k • 🔱 1.6k • 14h ago
 
 ---
 
@@ -684,7 +682,7 @@ Marketing skills for Claude Code and AI agents. CRO, copywriting, SEO, analytics
 
 `claude` `codex` `marketing`
 
-⭐ 6.5k • 🔱 732 • 3d ago
+⭐ 6.5k • 🔱 734 • 3d ago
 
 ---
 
@@ -700,7 +698,7 @@ Elevate your AI research writing, no more tedious polishing ✨
 
 Claude Code skill that removes signs of AI-generated writing from text
 
-⭐ 4.3k • 🔱 356 • 15d ago
+⭐ 4.3k • 🔱 358 • 15d ago
 
 ---
 
@@ -728,7 +726,7 @@ PaperBanana: Automating Academic Illustration For AI Scientists
 
 `JavaScript`
 
-⭐ 2.3k • 🔱 104 • 4d ago
+⭐ 2.3k • 🔱 106 • 4d ago
 
 ---
 

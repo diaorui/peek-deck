@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-02-07T20:28:26.877976+00:00'
+updated: '2026-02-07T20:55:07.950740+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
+- videos
+- news
 - cryptocurrency
 - social
-- news
-- videos
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** February 07, 2026 at 20:28 UTC  
+**Last Updated:** February 07, 2026 at 20:55 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -36,33 +36,33 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Price
 
-### $2,097.97
+### $2,109.65
 
 ---
 
 ## Ethereum Chart
 
-**24h:** +1.4%  
-**7d:** -8.1%  
-**30d:** -32.4%  
-**90d:** -41.4%  
-**1y:** -20.8%  
+**24h:** +2.6%  
+**7d:** -7.1%  
+**30d:** -31.6%  
+**90d:** -40.8%  
+**1y:** -20.0%  
 
 ---
 
 ## Ethereum Market Stats
 
-**Market Cap:** $252.54B
+**Market Cap:** $253.23B
 Rank #2
 
 **Circulating Supply:** 120,692,655 ETH
 No max supply
 
 **All-Time High:** $4,946.05
--57.7%
+-57.4%
 
 **All-Time Low:** $0.43
-+483565.5%
++486066.8%
 
 ---
 
@@ -156,20 +156,6 @@ The Block • 22h ago
 
 ---
 
-**[Bitcoin, Ethereum Liquidations Hit $704M In 24 Hours—And $70,000 Could Break, Polymarket Predicts](https://finance.yahoo.com/news/bitcoin-ethereum-liquidations-hit-704m-120113179.html)**
-
-Bitcoin (CRYPTO: BTC) traders are bracing for more pain after liquidations reached $704 million in a single 24-hour period. The sharp sell-off has crypto investors turning to prediction markets for clues on where the bottom might be. What Polymarket Traders Are Predicting Polymarket is currently flashing warning signs for the immediate future. The “What price will Bitcoin hit in February?” market, which has already cleared $14 million in volume, now places a 56% probability on Bitcoin sliding to
-
-Yahoo Finance • 2d ago
-
----
-
-**[Bitcoin, XRP, Ethereum Drop. Why Cryptos Are Under Pressure Today.](https://www.barrons.com/articles/bitcoin-xrp-ethereum-cryptos-gold-9051820f?gaa_at=eafs&gaa_n=AWEtsqcQ68r4ekPSXDPUvq_UYr-ZQl5HHjenzcip7HvTfniOqkpLoUMfu7P9&gaa_ts=698799c1&gaa_sig=FIcnBLxSJxr1RLRC06rFRWaQFWikfSBaJkar1ZrqDLo7M-12oov7H10XW0ch6L5YSHrd1icluQJfeTHao6yfPg%3D%3D)**
-
-Barron's • 2d ago
-
----
-
 **[Coinbase's Crypto-Backed Loans Notch Record Liquidations Amid Bitcoin, Ethereum Plunge](https://decrypt.co/357265/coinbases-loans-record-liquidations-bitcoin-ethereum-plunge)**
 
 Coinbase customers faced losses in fresh ways through the exchange’s crypto-backed lending product as Bitcoin and Ethereum tumbled this week.
@@ -218,6 +204,20 @@ Nasdaq • 1d ago
 
 ---
 
+**[Crypto prices on Friday: Bitcoin, Ethereum and more tick upward](https://mashable.com/article/crypto-bitcoin-ethereum-prices-tick-upward-friday-2-6-2026)**
+
+Prices are climbing back up after the biggest crypto crash since 2022.
+
+Mashable • 1d ago
+
+---
+
+**[Bitcoin, XRP, Ethereum Drop. Why Cryptos Are Under Pressure Today.](https://www.barrons.com/articles/bitcoin-xrp-ethereum-cryptos-gold-9051820f?gaa_at=eafs&gaa_n=AWEtsqf2Y5J1VlbsrdqiJqX7ijLxub5e0EejG7iGMyxYZe6fkSYEh2LKrpM9&gaa_ts=6987aa1b&gaa_sig=qCrDaYvoUEQ70eCOG3OtmiPOdhR1S_HYZebxCyu3gkPgXa-lMC0KV9yqpB_DHtnoVXy9CUC9xoH0j5lkNDQ_OA%3D%3D)**
+
+Barron's • 2d ago
+
+---
+
 **[Here's What Needs to Happen for Ethereum to Hit $5,000 This Year](https://www.fool.com/investing/2026/02/05/heres-what-needs-to-happen-for-ethereum-to-hit-500/)**
 
 Will 2026 be the year investors see the price they've dreamed of?
@@ -230,33 +230,23 @@ The Motley Fool • 2d ago
 
 ## YouTube Videos: "ethereum"
 
-**[Fundstrat&#39;s Tom Lee: Crypto looks like it is bottoming now](https://www.youtube.com/watch?v=Fh8djni6jHU)**
-
-Tom Lee, Fundstrat, joins 'Closing Bell' to discuss the state of crypto markets, Bitmine's business and much more.
-
-📺 CNBC Television
-
-👁️ 56K • 👍 675 • 💬 333 • ⏱️ 3:53 • 23h ago
-
----
-
 **[I Think Something Insane Is About To Happen To Bitcoin And Ethereum But No One Is Seeing The Signs](https://www.youtube.com/watch?v=edXKNl2JR_s)**
 
 Uhh... so... is anyone else getting that strange feeling that something big is about to go down in the crypto market. We've seen tons ...
 
 📺 Money Rules - Investing Tips 
 
-👁️ 13K • 👍 2K • 💬 312 • ⏱️ 13:13 • 1d ago
+👁️ 13K • 👍 2K • 💬 307 • ⏱️ 13:13 • 1d ago
 
 ---
 
-**[WHY ETH MAY CRASH AGAIN🚨 (Ethereum Price Prediction 2026)](https://www.youtube.com/watch?v=P4mMFFYwyRs)**
+**[Fundstrat&#39;s Tom Lee: Crypto looks like it is bottoming now](https://www.youtube.com/watch?v=Fh8djni6jHU)**
 
-ETHEREUM ETH PRICE PREDICTION 2026 Join the Premium Signal Group for trade setups, mentorship & a community ...
+Tom Lee, Fundstrat, joins 'Closing Bell' to discuss the state of crypto markets, Bitmine's business and much more.
 
-📺 Cilinix Crypto
+📺 CNBC Television
 
-👁️ 399 • 👍 23 • 💬 6 • ⏱️ 5:23 • 10h ago
+👁️ 59K • 👍 699 • 💬 349 • ⏱️ 3:53 • 23h ago
 
 ---
 
@@ -266,7 +256,7 @@ My FREE Daily 5-Min Crypto Newsletter: https://www.cryptonutshell.com/subscribe 
 
 📺 Crypto Nutshell
 
-👁️ 17K • 👍 474 • 💬 156 • ⏱️ 22:22 • 2d ago
+👁️ 17K • 👍 478 • 💬 156 • ⏱️ 22:22 • 2d ago
 
 ---
 
@@ -276,37 +266,17 @@ One of the biggest crypto crashes in history! Here is what happened, why and my 
 
 📺 Thomas Kralow
 
-👁️ 34K • 👍 1K • 💬 74 • ⏱️ 11:51 • 1d ago
+👁️ 35K • 👍 1K • 💬 75 • ⏱️ 11:51 • 1d ago
 
 ---
 
-**[Ethereum Elliott Wave Update – Key Resistance Levels Ahead](https://www.youtube.com/watch?v=D2BM_0CFcxQ)**
+**[WHY ETH MAY CRASH AGAIN🚨 (Ethereum Price Prediction 2026)](https://www.youtube.com/watch?v=P4mMFFYwyRs)**
 
-This video provides a professional Elliott Wave and technical analysis of Ethereum (ETH), focusing on market structure, major ...
+ETHEREUM ETH PRICE PREDICTION 2026 Join the Premium Signal Group for trade setups, mentorship & a community ...
 
-📺 More Crypto Online
+📺 Cilinix Crypto
 
-👁️ 3K • 👍 192 • 💬 14 • ⏱️ 4:02 • 19h ago
-
----
-
-**[Vitalik Buterin’s Ethereum Strategy Shift Validates Kaspa’s Vision!](https://www.youtube.com/watch?v=Ok1i6lgU_Yo)**
-
-Tangem 20% off + $10 in Bitcoin ➡️➡️ Use codes "NYEXTRA26" & "CRYPTOCREW" UNTIL March 2nd!
-
-📺 Your Crypto Crew
-
-👁️ 389 • 👍 69 • 💬 23 • ⏱️ 12:26 • 5h ago
-
----
-
-**[BITCOIN CRASH OVER: My $5 Million Trading Strategy!!! - Bitcoin News Today, Ethereum &amp; Altcoins](https://www.youtube.com/watch?v=YbXiedpTjeA)**
-
-BITCOIN CRASH OVER: My $5 Million Trading Strategy!!! - Bitcoin News Today, Ethereum & Altcoins *Bitunix* ...
-
-📺 Crypto World
-
-👁️ 10K • 👍 437 • 💬 233 • ⏱️ 22:22 • 21h ago
+👁️ 542 • 👍 27 • 💬 5 • ⏱️ 5:23 • 10h ago
 
 ---
 
@@ -320,6 +290,26 @@ Take Control of Your Retirement — Grow Crypto & Gold Tax-Advantaged. https://w
 
 ---
 
+**[Ethereum Elliott Wave Update – Key Resistance Levels Ahead](https://www.youtube.com/watch?v=D2BM_0CFcxQ)**
+
+This video provides a professional Elliott Wave and technical analysis of Ethereum (ETH), focusing on market structure, major ...
+
+📺 More Crypto Online
+
+👁️ 3K • 👍 194 • 💬 14 • ⏱️ 4:02 • 20h ago
+
+---
+
+**[Vitalik Buterin’s Ethereum Strategy Shift Validates Kaspa’s Vision!](https://www.youtube.com/watch?v=Ok1i6lgU_Yo)**
+
+Tangem 20% off + $10 in Bitcoin ➡️➡️ Use codes "NYEXTRA26" & "CRYPTOCREW" UNTIL March 2nd!
+
+📺 Your Crypto Crew
+
+👁️ 647 • 👍 99 • 💬 42 • ⏱️ 12:26 • 5h ago
+
+---
+
 **[Is It FK&#39;ing Over For Ethereum? ⚠️ ETH Crypto Token Analysis](https://www.youtube.com/watch?v=80hmk4Zds2A)**
 
 Join Premium: https://the-bitcoin-strategy.com My Chart Software: https://the-bitcoin-strategy.com/tradingview My Hardware Wallet: ...
@@ -327,6 +317,16 @@ Join Premium: https://the-bitcoin-strategy.com My Chart Software: https://the-bi
 📺 Gerhard - Bitcoin Strategy
 
 👁️ 10K • 👍 225 • 💬 49 • ⏱️ 9:49 • 2d ago
+
+---
+
+**[BITCOIN CRASH OVER: My $5 Million Trading Strategy!!! - Bitcoin News Today, Ethereum &amp; Altcoins](https://www.youtube.com/watch?v=YbXiedpTjeA)**
+
+BITCOIN CRASH OVER: My $5 Million Trading Strategy!!! - Bitcoin News Today, Ethereum & Altcoins *Bitunix* ...
+
+📺 Crypto World
+
+👁️ 11K • 👍 448 • 💬 237 • ⏱️ 22:22 • 22h ago
 
 ---
 

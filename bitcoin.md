@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-02-07T20:28:26.872042+00:00'
+updated: '2026-02-07T20:55:07.944851+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
+- videos
+- news
 - cryptocurrency
 - social
-- news
-- videos
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** February 07, 2026 at 20:28 UTC  
+**Last Updated:** February 07, 2026 at 20:55 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -45,26 +45,26 @@ Live Bitcoin monitoring dashboard
 ## Bitcoin Chart
 
 **24h:** -1.0%  
-**7d:** -9.8%  
-**30d:** -23.3%  
-**90d:** -34.6%  
-**1y:** -28.1%  
+**7d:** -9.4%  
+**30d:** -23.0%  
+**90d:** -34.4%  
+**1y:** -27.8%  
 
 ---
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1387.75B
+**Market Cap:** $1389.86B
 Rank #1
 
 **Circulating Supply:** 19,985,768 BTC
 95.2% of max
 
 **All-Time High:** $126,080.00
--44.9%
+-44.8%
 
 **All-Time Low:** $67.81
-+102399.6%
++102569.2%
 
 ---
 
@@ -81,7 +81,7 @@ Rank #1
 
 HODL strong through the storms; the future rewards the patient. 🚀 🙌
 
-2h ago
+3h ago
 
 ---
 
@@ -89,13 +89,13 @@ HODL strong through the storms; the future rewards the patient. 🚀 🙌
 
 If you see blockchain activity whales are clearly accumulating taking BTC outside exchanges. It seems this is contrarian to people saying that BTC will bottom around 45k-55k. I believe (and hope) that bottom is in and the liquidation of this week has been a great opportunity to accumulate, decrease btc availability on exchanges and bring price to 100k +
 
-7h ago
+8h ago
 
 ---
 
 **[People who bought bitcoin at $61k yesterday](https://www.reddit.com/r/Bitcoin/comments/1qxw35n/people_who_bought_bitcoin_at_61k_yesterday/)**
 
-21h ago
+22h ago
 
 ---
 
@@ -103,7 +103,13 @@ If you see blockchain activity whales are clearly accumulating taking BTC outsid
 
 My mother barely uses Facebook and has zero interest in technology or finance. Yet here we are: she asked me to help her buy Bitcoin. Over the past months, I’ve talked a lot about Bitcoin at home — why I believe in it, my long-term goals, scarcity, adoption, etc. I guess at some point it clicked for her. The problem is… now I’m scared. Even though I truly believe in Bitcoin’s future, I’m afraid of a few things: What if things don’t go as expected? What if she doesn’t live long enough to really see the benefits of this investment? What if she can’t mentally handle the volatility and panic during big drawdowns? This feels very different from investing my own money. If Bitcoin drops 50%, I can handle it. If her money drops 50%, that’s a different emotional weight. I don’t want to be irresponsible or turn into “that guy” who convinced a family member to invest and then regrets it forever. So I’m asking those of you who’ve been here longer or have more life experience: What would you do in my position?
 
-3h ago
+4h ago
+
+---
+
+**[Buy The dip](https://www.reddit.com/r/Bitcoin/comments/1qygmls/buy_the_dip/)**
+
+5h ago
 
 ---
 
@@ -115,17 +121,11 @@ My mother barely uses Facebook and has zero interest in technology or finance. Y
 
 ---
 
-**[Buy The dip](https://www.reddit.com/r/Bitcoin/comments/1qygmls/buy_the_dip/)**
-
-5h ago
-
----
-
 **[Bitcoin up: I should’ve bought before, on the next big drop I’m definitely buying. Bitcoin down: It’s all a scam anyways, I’m glad I never bought.](https://www.reddit.com/r/Bitcoin/comments/1qycxzo/bitcoin_up_i_shouldve_bought_before_on_the_next/)**
 
 Basically
 
-7h ago
+8h ago
 
 ---
 
@@ -145,7 +145,7 @@ Basically
 
 I’m in multiple investment groups with very sharp people, and the skepticism is louder than I’ve heard it in a long time. Even my resident conspiracy-theorist cousin has re-emerged with “proof.” Who knew This was exactly the sentiment we needed, when I thought I’d never again see prices at these levels 😂
 
-17h ago
+18h ago
 
 ---
 
@@ -175,11 +175,9 @@ Yahoo Finance • 1d ago
 
 ---
 
-**[Bitcoin price climbs Friday, but can it continue? Experts are skeptical.](https://mashable.com/article/will-bitcoin-cryptocurrency-continue-to-rebound-after-friday-2-6-2026)**
+**[Bitcoin loses Trump-era gains as crypto market volatility signals uncertainty](https://www.reuters.com/business/bitcoin-loses-trump-era-gains-crypto-market-volatility-signals-uncertainty-2026-02-07/)**
 
-We explore the latest ups and downs (mostly downs) in the crypto market.
-
-Mashable • 23h ago
+Reuters • 9h ago
 
 ---
 
@@ -191,9 +189,15 @@ The Motley Fool • 1h ago
 
 ---
 
-**[Bitcoin To Fall To $54K? Veteran Trader Questions Whether Strategy Investors Can Hold On](https://uk.finance.yahoo.com/news/bitcoin-fall-54k-veteran-trader-164602291.html)**
+**[THIS IS WHY BITCOIN DROPPED FROM $126,000 TO $60,000.](https://www.binance.com/en/square/post/289157197537154)**
 
-Yahoo Finance UK • 3h ago
+Binance • 3h ago
+
+---
+
+**[Bitcoin Wiped Out Below $60K — Here’s What Really Broke the Market](https://www.binance.com/en/square/post/289171187884241)**
+
+Binance • 2h ago
 
 ---
 
@@ -201,7 +205,7 @@ Yahoo Finance UK • 3h ago
 
 Cryptocurrency transactions are often thought to be anonymous and untraceable. That's a misconception, experts tell CBS News.
 
-cbsnews.com • 21h ago
+cbsnews.com • 22h ago
 
 ---
 
@@ -218,12 +222,6 @@ The Block • 1d ago
 Morning Brief Host Julie Hyman and Yahoo Finance Markets and Data Editor Jared Blikre track several of the day's top trending stock tickers, including Strategy (MSTR) rallying in Friday's pre-market after being dragged lower as bitcoin (BTC-USD) tumbled below $70,000 per token, shares of US automaker Stellantis (STLA) plunging as it looks to write down $26 billion in charges, and Reddit stock (RDDT) getting a lift on its earnings results and $1 billion share buyback program. To watch more expert insights and analysis on the latest market action, check out more&nbsp;Morning Brief.
 
 Yahoo Finance • 1d ago
-
----
-
-**[Bitcoin Booster’s $12 Billion Loss Headlines Crypto’s Worst Day Since 2022 Crash](https://www.wsj.com/finance/currencies/strategy-earnings-fourth-2025-33688dab?gaa_at=eafs&gaa_n=AWEtsqfXo5irlVTJBLuGdVjUPDuIXfZoi2yFXLk851k4xRylB_hXZliFPVVA&gaa_ts=698799bf&gaa_sig=23UGJeQJVs9dTGJwrM46z7dV8TY5PA_aPi7M0IM57QkhCKLTTtDRT5IV7SoaTowYzgNFN1_Do-8EBVbQC0903w%3D%3D)**
-
-The Wall Street Journal • 1d ago
 
 ---
 
@@ -277,6 +275,20 @@ Bitcoin behaves more like an "ATM" during uncertain times, with investors quickl
 
 ---
 
+**[South Korean crypto firm accidentally sends $44B in bitcoins to users](https://news.ycombinator.com/item?id=46926461)**
+
+⬆️ 3 • 💬 0 • 1h ago • [reuters.com](https://www.reuters.com/world/asia-pacific/crypto-firm-accidentally-sends-44-billion-bitcoins-users-2026-02-07/)
+
+---
+
+**[Bithumb mistakenly hands out $195M in Bitcoin to users in 'Random Box' giveaway](https://news.ycombinator.com/item?id=46925668)**
+
+Bithumb, Korea's second-largest cryptocurrency exchange, mistakenly credited users with Bitcoin worth approximately 260 billion won ($195 million), instead of the modest number of reward points or Bitcoin that it had intended to distribute.
+
+⬆️ 3 • 💬 0 • 3h ago • [koreajoongangdaily.joins.com](https://koreajoongangdaily.joins.com/news/2026-02-07/business/finance/Crypto-exchange-Bithumb-mistakenly-hands-out-195M-in-Bitcoin-to-users-in-Random-Box-giveaway/2518495)
+
+---
+
 **[Show HN: GrahamBell – This is what Bitcoin mining looked like in 2009](https://news.ycombinator.com/item?id=46885212)**
 
 ⬆️ 3 • 💬 0 • 3d ago
@@ -291,20 +303,6 @@ Cryptocurrency markets fell as global equities and precious metals sold off whil
 
 ---
 
-**[Show HN: Bitcoin wallet on NXP SE050 secure element, Tor-only open source](https://news.ycombinator.com/item?id=46921951)**
-
-SE050 Hardware Bitcoin Wallet - Self-sovereign Bitcoin wallet powered by NXP SE050 secure element - 0xdeadbeefnetwork/sigil-web
-
-⬆️ 2 • 💬 1 • 13h ago • [GitHub](https://github.com/0xdeadbeefnetwork/sigil-web)
-
----
-
-**[South Korean crypto firm accidentally sends $44B in bitcoins to users](https://news.ycombinator.com/item?id=46926461)**
-
-⬆️ 2 • 💬 0 • 1h ago • [reuters.com](https://www.reuters.com/world/asia-pacific/crypto-firm-accidentally-sends-44-billion-bitcoins-users-2026-02-07/)
-
----
-
 ---
 
 ## YouTube Videos: "bitcoin"
@@ -315,7 +313,7 @@ Take your personal data back with Incogni! Use code GRAHAM at the link below and
 
 📺 Graham Stephan
 
-👁️ 569K • 👍 20K • 💬 6K • ⏱️ 16:11 • 1d ago
+👁️ 580K • 👍 20K • 💬 6K • ⏱️ 16:11 • 1d ago
 
 ---
 
@@ -325,67 +323,17 @@ Bitcoin has been in a free-fall the past few months. At one point yesterday, it 
 
 📺 From The Desk Of Anthony Pompliano
 
-👁️ 37K • 👍 2K • 💬 272 • ⏱️ 9:43 • 22h ago
+👁️ 39K • 👍 2K • 💬 280 • ⏱️ 9:43 • 22h ago
 
 ---
 
-**[Bitcoin Hit $60,000 Exactly Like I Warned… Here’s What Happens NEXT](https://www.youtube.com/watch?v=uhq8dVsbdYs)**
+**[“$2 Trillion LOST In Crypto” - Bitcoin &amp; XRP Wobble As CRYPTO CRASH Fears Grow](https://www.youtube.com/watch?v=_bT0NBL2hfk)**
 
-Bitcoin just did EXACTLY what I said it would do Trade LIVE with me for $5 - a Youtube only special: If you want live trading ...
+Bitcoin plunges as crypto markets lose trillions, sparking debate over whether BTC is truly an inflation hedge or just another risk ...
 
-📺 Ross Givens
+📺 Valuetainment
 
-👁️ 13K • 👍 681 • 💬 1K • ⏱️ 8:28 • 22h ago
-
----
-
-**[Bitcoin Is CRASHING Now People Are Losing EVERYTHING](https://www.youtube.com/watch?v=7fg0A5W2D3s)**
-
-Bitcoin is crashing — and now people are losing everything. In this video, we break down what's happening in the crypto market, ...
-
-📺 Jay Reed
-
-👁️ 136K • 👍 5K • 💬 18K • ⏱️ 16:32 • 1d ago
-
----
-
-**[BITCOIN IN TROUBLE !!!](https://www.youtube.com/watch?v=paB23MhHyUA)**
-
-BYBIT: http://themoon.co/Bybit 10% DISCOUNT & $30000 BONUS Phemex: https://themoon.co/phemex1200 Claim Up to ...
-
-📺 The Moon Show
-
-👁️ 17K • 👍 901 • 💬 71 • ⏱️ 6:39 • 10h ago
-
----
-
-**[Bitcoin price falls below $70K. How much further could it drop?](https://www.youtube.com/watch?v=ysRWyZlc5F4)**
-
-Bitcoin has fallen below $70000, raising questions about whether a crypto winter is underway. Yahoo Finance's Jared Blikre and ...
-
-📺 Yahoo Finance
-
-👁️ 83K • 👍 585 • 💬 605 • ⏱️ 4:27 • 2d ago
-
----
-
-**[BITCOIN WARNING ($39K)](https://www.youtube.com/watch?v=8rjH5qsABXk)**
-
-Bitcoin's record volatility is sending shockwaves through the crypto market—are we nearing the bottom? Get the latest crypto news ...
-
-📺 Discover Crypto
-
-👁️ 16K • 👍 160 • 💬 35 • ⏱️ 0:26 • 1d ago
-
----
-
-**[Is This the End of Bitcoin?](https://www.youtube.com/watch?v=CnL0ANTt2_8)**
-
-Bitcoin insane price collapse, but where is the bottom for BTC? BITUNIX TRADE THE TOP COINS (available everywhere) ...
-
-📺 Lark Davis
-
-👁️ 5K • 👍 501 • 💬 82 • ⏱️ 14:26 • 5h ago
+👁️ 143K • 👍 3K • 💬 12K • ⏱️ 14:38 • 23h ago
 
 ---
 
@@ -399,13 +347,63 @@ https://democratizedprime.pxf.io/c/2406113/3755092/37696 Enter to win $25k USDC 
 
 ---
 
+**[Bitcoin Flash Crash to $60,000 Was the Best Buy Signal in Years](https://www.youtube.com/watch?v=iwYBNTGBJfA)**
+
+Today, let's examine Bitcoin's charts and metrics, as well as the latest Macro and Crypto news. Additionally, a look at the latest ...
+
+📺 CryptosRUs
+
+👁️ 38K • 👍 2K • 💬 370 • ⏱️ 32:01 • 1d ago
+
+---
+
+**[Bitcoin price falls below $70K. How much further could it drop?](https://www.youtube.com/watch?v=ysRWyZlc5F4)**
+
+Bitcoin has fallen below $70000, raising questions about whether a crypto winter is underway. Yahoo Finance's Jared Blikre and ...
+
+📺 Yahoo Finance
+
+👁️ 85K • 👍 594 • 💬 597 • ⏱️ 4:27 • 2d ago
+
+---
+
+**[Is This the End of Bitcoin?](https://www.youtube.com/watch?v=CnL0ANTt2_8)**
+
+Bitcoin insane price collapse, but where is the bottom for BTC? BITUNIX TRADE THE TOP COINS (available everywhere) ...
+
+📺 Lark Davis
+
+👁️ 10K • 👍 636 • 💬 100 • ⏱️ 14:26 • 5h ago
+
+---
+
 **[This is typical volatility for bitcoin, says SkyBridge&#39;s Scaramucci](https://www.youtube.com/watch?v=PxHIJlojXTg)**
 
 CNBC's “Closing Bell Overtime” team discusses cryptocurrencies, bitcoin's volatile week and more with Anthony Scaramucci, ...
 
 📺 CNBC Television
 
-👁️ 31K • 👍 299 • 💬 334 • ⏱️ 4:14 • 22h ago
+👁️ 33K • 👍 308 • 💬 336 • ⏱️ 4:14 • 22h ago
+
+---
+
+**[DID JEFF INVENT BITCOIN?](https://www.youtube.com/watch?v=D2rbPG_Ncnw)**
+
+Did Jeffrey invent Bitcoin? This viral theory is blowing up across crypto circles, so we break it down, separate facts from fiction, and ...
+
+📺 Discover Crypto
+
+👁️ 113K • 👍 2K • 💬 135 • ⏱️ 2:44 • 2d ago
+
+---
+
+**[Tether Co-Founder Weighs In on Bitcoin Selloff](https://www.youtube.com/watch?v=EbYaU0Yde5Q)**
+
+Tether co-founder William Quigley weighs in on the recent selloff in cryptocurrencies. Speaking on "Bloomberg The Close," ...
+
+📺 Bloomberg Television
+
+👁️ 86K • 👍 793 • 💬 280 • ⏱️ 5:40 • 1d ago
 
 ---
 
