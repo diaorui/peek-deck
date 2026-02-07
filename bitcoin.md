@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-02-07T14:54:23.143733+00:00'
+updated: '2026-02-07T15:26:42.172212+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
 - news
-- social
-- videos
 - cryptocurrency
+- videos
+- social
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** February 07, 2026 at 14:54 UTC  
+**Last Updated:** February 07, 2026 at 15:26 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -81,7 +81,7 @@ Rank #1
 
 ​
 
-8h ago
+9h ago
 
 ---
 
@@ -101,13 +101,13 @@ I’m in multiple investment groups with very sharp people, and the skepticism i
 
 **[We are so back](https://www.reddit.com/r/Bitcoin/comments/1qxpeyz/we_are_so_back/)**
 
-20h ago
+21h ago
 
 ---
 
 **[Look babe, bitcoin went up 9% today](https://www.reddit.com/r/Bitcoin/comments/1qy03oz/look_babe_bitcoin_went_up_9_today/)**
 
-13h ago
+14h ago
 
 ---
 
@@ -121,7 +121,7 @@ If you see blockchain activity whales are clearly accumulating taking BTC outsid
 
 **[Bitcoin price right now](https://www.reddit.com/r/Bitcoin/comments/1qy7gsr/bitcoin_price_right_now/)**
 
-7h ago
+8h ago
 
 ---
 
@@ -129,7 +129,7 @@ If you see blockchain activity whales are clearly accumulating taking BTC outsid
 
 Yes I finally captured it!
 
-20h ago
+21h ago
 
 ---
 
@@ -155,7 +155,7 @@ Basically
 
 Bitcoin nearly grazed $60,000 on Thursday as investors shied away from the asset due to growing concerns over its utility.
 
-CNBC • 21h ago
+CNBC • 22h ago
 
 ---
 
@@ -163,7 +163,7 @@ CNBC • 21h ago
 
 The company quickly realised its mistake and managed to recover virtually all the missing tokens from customers.
 
-BBC • 57m ago
+BBC • 1h ago
 
 ---
 
@@ -172,7 +172,7 @@ users](https://www.cnbc.com/2026/02/07/south-korean-crypto-firm-accidentally-sen
 
 The move triggered a sharp selloff on the Bithumb exchange. The company apologized for the mistake.
 
-CNBC • 4h ago
+CNBC • 5h ago
 
 ---
 
@@ -184,7 +184,7 @@ Bloomberg • 3h ago
 
 **[The Kidnappers Of Savannah Guthrie's Mom Want Bitcoin—But It’s Not As Anonymous As Many Think](https://www.forbes.com/sites/martinadilicosa/2026/02/06/the-kidnappers-of-savannah-guthries-mom-want-bitcoin-but-its-not-as-anonymous-as-many-think/)**
 
-Forbes • 18h ago
+Forbes • 19h ago
 
 ---
 
@@ -214,7 +214,7 @@ Investor's Business Daily • 1d ago
 
 Strategy (MSTR) is moving to take a more active role in preparing Bitcoin for potential future threats from quantum computing.
 
-Bitcoin Magazine • 21h ago
+Bitcoin Magazine • 22h ago
 
 ---
 
@@ -238,7 +238,7 @@ The Block • 1d ago
 
 **[Bitcoin tumbles below $70k, wiping out gains since Trump 2024 win](https://news.ycombinator.com/item?id=46900497)**
 
-⬆️ 68 • 💬 63 • 1d ago • [reuters.com](https://www.reuters.com/business/bitcoin-slumps-with-key-70000-level-sight-2026-02-05/)
+⬆️ 68 • 💬 63 • 2d ago • [reuters.com](https://www.reuters.com/business/bitcoin-slumps-with-key-70000-level-sight-2026-02-05/)
 
 ---
 
@@ -292,7 +292,7 @@ Bitcoin behaves more like an "ATM" during uncertain times, with investors quickl
 
 Cryptocurrency markets fell as global equities and precious metals sold off while bitcoin liquidations exacerbated downside moves.
 
-⬆️ 3 • 💬 0 • 3d ago • [CNBC](https://www.cnbc.com/2026/02/02/bitcoin-btc-price-today-cryptocurrency.html)
+⬆️ 3 • 💬 0 • 4d ago • [CNBC](https://www.cnbc.com/2026/02/02/bitcoin-btc-price-today-cryptocurrency.html)
 
 ---
 
@@ -300,7 +300,7 @@ Cryptocurrency markets fell as global equities and precious metals sold off whil
 
 SE050 Hardware Bitcoin Wallet - Self-sovereign Bitcoin wallet powered by NXP SE050 secure element - 0xdeadbeefnetwork/sigil-web
 
-⬆️ 2 • 💬 1 • 7h ago • [GitHub](https://github.com/0xdeadbeefnetwork/sigil-web)
+⬆️ 2 • 💬 1 • 8h ago • [GitHub](https://github.com/0xdeadbeefnetwork/sigil-web)
 
 ---
 
@@ -334,7 +334,7 @@ Bitcoin has been in a free-fall the past few months. At one point yesterday, it 
 
 📺 From The Desk Of Anthony Pompliano
 
-👁️ 32K • 👍 2K • 💬 217 • ⏱️ 9:43 • 16h ago
+👁️ 32K • 👍 2K • 💬 217 • ⏱️ 9:43 • 17h ago
 
 ---
 
@@ -354,7 +354,7 @@ Bitcoin's record volatility is sending shockwaves through the crypto market—ar
 
 📺 Discover Crypto
 
-👁️ 14K • 👍 145 • 💬 29 • ⏱️ 0:26 • 19h ago
+👁️ 14K • 👍 145 • 💬 29 • ⏱️ 0:26 • 20h ago
 
 ---
 
@@ -384,7 +384,7 @@ CNBC's “Closing Bell Overtime” team discusses cryptocurrencies, bitcoin's vo
 
 📺 CNBC Television
 
-👁️ 27K • 👍 276 • 💬 309 • ⏱️ 4:14 • 16h ago
+👁️ 27K • 👍 276 • 💬 309 • ⏱️ 4:14 • 17h ago
 
 ---
 
@@ -394,7 +394,7 @@ BYBIT: http://themoon.co/Bybit 10% DISCOUNT & $30000 BONUS Phemex: https://themo
 
 📺 The Moon Show
 
-👁️ 9K • 👍 664 • 💬 40 • ⏱️ 6:39 • 4h ago
+👁️ 9K • 👍 664 • 💬 40 • ⏱️ 6:39 • 5h ago
 
 ---
 

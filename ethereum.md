@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-02-07T14:54:23.149665+00:00'
+updated: '2026-02-07T15:26:42.178586+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
 - news
-- social
-- videos
 - cryptocurrency
+- videos
+- social
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** February 07, 2026 at 14:54 UTC  
+**Last Updated:** February 07, 2026 at 15:26 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -72,7 +72,7 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-8h ago
+9h ago
 
 ---
 
@@ -80,7 +80,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 in the last 7days or in the upcoming 7 days, are you thinking buying more eherium?
 
-1h ago
+2h ago
 
 ---
 
@@ -104,7 +104,7 @@ Vitalik: role of L2s has changed, Hegotá upgrade headliner proposals, Lido v3 l
 
 im jef, and im honestly just starting to get into crypto, trying to understand how all of this works and whether it’s something i could realistically learn and grow into over time. i don’t come from money, im just a student juggling school, responsibilities, and everyday expenses, so I don’t have much to risk or experiment with, which is why im looking for advice more than anything else. i’ve been reading, watching, and asking around, but it still feels overwhelming, and i know im inexperienced and probably missing a lot of important basics. At the same time, a part of me thinks this could be a real opportunity if i approach it carefully, stay patient, and learn from people who actually know what they’re doing. im not chasing quick profits or hype, i just want guidance on how to start smart, avoid obvious mistakes, and figure out if someone like me, broke, still studying, and learning as i go, i might have a genuine chance at building something small but meaningful through crypto in the long run. could anyone give advise?
 
-10h ago
+11h ago
 
 ---
 
@@ -112,7 +112,7 @@ im jef, and im honestly just starting to get into crypto, trying to understand h
 
 [ Removed by Reddit on account of violating the content policy. ]
 
-21h ago
+22h ago
 
 ---
 
@@ -154,7 +154,7 @@ https://etherscan.io/tx/0xaab90d00abf065e4158852a64c809b8921d109e997bd3790cb471a
 
 ENS Labs is canceling the launch of the Namechain Layer 2, which began development in 2024 to support the forthcoming ENSv2 update.
 
-The Block • 16h ago
+The Block • 17h ago
 
 ---
 
@@ -162,7 +162,7 @@ The Block • 16h ago
 
 A leaked pitch to reshape Ethereum’s leadership exposed deep divisions over politics, power and Ether’s static price
 
-The Guardian • 1d ago
+The Guardian • 2d ago
 
 ---
 
@@ -170,7 +170,7 @@ The Guardian • 1d ago
 
 Here's why giving up on Ethereum and Solana now would be a mistake.
 
-The Motley Fool • 2h ago
+The Motley Fool • 3h ago
 
 ---
 
@@ -186,7 +186,7 @@ Yahoo Finance • 1d ago
 
 Coinbase customers faced losses in fresh ways through the exchange’s crypto-backed lending product as Bitcoin and Ethereum tumbled this week.
 
-Decrypt • 19h ago
+Decrypt • 20h ago
 
 ---
 
@@ -236,7 +236,7 @@ Tom Lee, Fundstrat, joins 'Closing Bell' to discuss the state of crypto markets,
 
 📺 CNBC Television
 
-👁️ 48K • 👍 636 • 💬 310 • ⏱️ 3:53 • 17h ago
+👁️ 48K • 👍 636 • 💬 310 • ⏱️ 3:53 • 18h ago
 
 ---
 
@@ -256,7 +256,7 @@ ETHEREUM ETH PRICE PREDICTION 2026 Join the Premium Signal Group for trade setup
 
 📺 Cilinix Crypto
 
-👁️ 207 • 👍 16 • 💬 5 • ⏱️ 5:23 • 4h ago
+👁️ 207 • 👍 16 • 💬 5 • ⏱️ 5:23 • 5h ago
 
 ---
 
@@ -266,7 +266,7 @@ My FREE Daily 5-Min Crypto Newsletter: https://www.cryptonutshell.com/subscribe 
 
 📺 Crypto Nutshell
 
-👁️ 17K • 👍 463 • 💬 155 • ⏱️ 22:22 • 1d ago
+👁️ 17K • 👍 463 • 💬 155 • ⏱️ 22:22 • 2d ago
 
 ---
 

@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-02-07T14:54:23.152921+00:00'
+updated: '2026-02-07T15:26:42.181982+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
 - news
-- social
 - videos
+- social
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** February 07, 2026 at 14:54 UTC  
+**Last Updated:** February 07, 2026 at 15:26 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -36,7 +36,7 @@ Robotics research and industry news
 
 Pantograph website: https://pantograph.com/ Pantograph on 𝕏: http://x.com/pantographPBC
 
-2h ago
+3h ago
 
 ---
 
@@ -52,7 +52,7 @@ From CyberRobo on 𝕏: https://x.com/CyberRobooo/status/2019598569909743755
 
 There is the popular argument for why having a humanoid robot would be the best way to do things: "because the environment is human shaped/designed for humans." However, why are we assuming it would be necessarily harder to redesign the environment so a simpler non-humanoid robot can make use of it rather than recreating the entire human body and all its complexities in robot form while trying to make it suitable to many different varying environments? Also, this argument implies the environment is exclusively human shaped, meaning a machine with human shapes and function is the only way forward in order for it traverse and interact with the environment, but this is not true. For instance, a flat floor, which is designed for human use, also allows use by a non-humanoid robot with wheels.
 
-2h ago
+3h ago
 
 ---
 
@@ -60,7 +60,7 @@ There is the popular argument for why having a humanoid robot would be the best 
 
 My boyfriend is a computer science major and is about to graduate. He’s really into robotics, especially humanoid robots, and he currently works in a research lab where they’re building a humanoid that can catch objects. Most of what I see him doing is simulation and coding work on his computer. Last year I got him an Arduino kit, and he already has a toolkit, but he doesn’t really use either one much on his own (as far as I see). He’s pretty thrifty and values practicality over “cool” gadgets. For context, he uses a Mac and has a portable monitor that fits in his backpack. He doesn’t currently use an external keyboard or mouse, but I don’t think he cares much about those. I want to get him something he’ll genuinely use in his future work. Since he mostly works in teams through his lab/club (not solo at-home build projects), I’m not looking for another kit. Any gift ideas from people in CS/robotics, or partners of people in this field, that are truly useful and not gimmicky? Thank you!!
 
-6h ago
+7h ago
 
 ---
 
@@ -68,7 +68,7 @@ My boyfriend is a computer science major and is about to graduate. He’s really
 
 Just pushed an update to casadi-on-gpu that lets you generate CUDA kernels directly from CasADi and call them from C++, PyTorch, or CuPy. Useful for MPC, sampling, system ID, and robotics pipelines at scale.
 
-14h ago
+15h ago
 
 ---
 
@@ -146,7 +146,7 @@ The Robot Report • 2d ago
 
 The retailer’s $330 million investment, slated to start this year, is part of a larger effort to upgrade all 42 of its regional distribution facilities.
 
-Supply Chain Dive • 1d ago
+Supply Chain Dive • 2d ago
 
 ---
 
@@ -182,7 +182,7 @@ BBC • 1d ago
 
 **[Robots that keep moving when flipped? Sea star tube feet offer a blueprint](https://techxplore.com/news/2026-02-robots-flipped-sea-star-tube.html)**
 
-Tech Xplore • 54m ago
+Tech Xplore • 1h ago
 
 ---
 
