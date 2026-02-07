@@ -3,13 +3,13 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-02-07T15:49:42.553926+00:00'
+updated: '2026-02-07T16:32:26.009413+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- videos
 - news
+- videos
 - social
 ---
 
@@ -17,7 +17,7 @@ data_types:
 
 Robotics research and industry news
 
-**Last Updated:** February 07, 2026 at 15:49 UTC  
+**Last Updated:** February 07, 2026 at 16:32 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -36,7 +36,7 @@ Robotics research and industry news
 
 Pantograph website: https://pantograph.com/ Pantograph on 𝕏: http://x.com/pantographPBC
 
-3h ago
+4h ago
 
 ---
 
@@ -52,7 +52,7 @@ From CyberRobo on 𝕏: https://x.com/CyberRobooo/status/2019598569909743755
 
 There is the popular argument for why having a humanoid robot would be the best way to do things: "because the environment is human shaped/designed for humans." However, why are we assuming it would be necessarily harder to redesign the environment so a simpler non-humanoid robot can make use of it rather than recreating the entire human body and all its complexities in robot form while trying to make it suitable to many different varying environments? Also, this argument implies the environment is exclusively human shaped, meaning a machine with human shapes and function is the only way forward in order for it traverse and interact with the environment, but this is not true. For instance, a flat floor, which is designed for human use, also allows use by a non-humanoid robot with wheels.
 
-3h ago
+4h ago
 
 ---
 
@@ -60,7 +60,7 @@ There is the popular argument for why having a humanoid robot would be the best 
 
 My boyfriend is a computer science major and is about to graduate. He’s really into robotics, especially humanoid robots, and he currently works in a research lab where they’re building a humanoid that can catch objects. Most of what I see him doing is simulation and coding work on his computer. Last year I got him an Arduino kit, and he already has a toolkit, but he doesn’t really use either one much on his own (as far as I see). He’s pretty thrifty and values practicality over “cool” gadgets. For context, he uses a Mac and has a portable monitor that fits in his backpack. He doesn’t currently use an external keyboard or mouse, but I don’t think he cares much about those. I want to get him something he’ll genuinely use in his future work. Since he mostly works in teams through his lab/club (not solo at-home build projects), I’m not looking for another kit. Any gift ideas from people in CS/robotics, or partners of people in this field, that are truly useful and not gimmicky? Thank you!!
 
-7h ago
+8h ago
 
 ---
 
@@ -68,7 +68,7 @@ My boyfriend is a computer science major and is about to graduate. He’s really
 
 Just pushed an update to casadi-on-gpu that lets you generate CUDA kernels directly from CasADi and call them from C++, PyTorch, or CuPy. Useful for MPC, sampling, system ID, and robotics pipelines at scale.
 
-15h ago
+16h ago
 
 ---
 
@@ -76,7 +76,7 @@ Just pushed an update to casadi-on-gpu that lets you generate CUDA kernels direc
 
 I’m working with the UR12E and trying to send movement commands from a desktop. currently using ROS/moveit. I’m creating paths on RViz and they are valid. When pressing “execute” the arm doesn’t move. Sometimes there are errors regarding tolerances (which I’m looking into) and other times it doesn’t return an error, but tells me the movement is planned. previous culprits have been the ros joint controller / ros scaled joint controller (scaled is now being used). has anyone faced similar issues? Keen to be pointed to some places in docs to understand further.
 
-6h ago
+7h ago
 
 ---
 
@@ -98,7 +98,7 @@ Hey everyone, I'm working with an MKS ODrive Mini (firmware v0.5.1, based on ODr
 
 Hello everyone! Recently I tried to test the SmolVLA model from a paper that HuggingFace published, that uses relatively small VLA model for Imitation Learning on a SO-101 arm. They have a library called LeRobot that has a lot of stuff to handle robots. First I tried to run a pretrained model, which didn't work. Then I tried finetuning the model on a dataset that I collected. I gradually moved from 30 episodes to 120 with a simple task of picking up a cube and putting it in the designated place. The robot still can't solve the task at all and frankly does not improve with the increase in data amount. So my question is the following: have anybody experimented with LeRobot + smolvla + SO-101? What is your experience? Did you manage to run it? Basically, how much more time can I expect to sink into this or should I switch to another model, or from a robot to a simulator first, or something else?
 
-23h ago
+1d ago
 
 ---
 
@@ -122,7 +122,7 @@ Rest of World • 2d ago
 
 **[China Is Going All-In to Beat the U.S. on Humanoid Robots](https://www.wsj.com/tech/china-is-going-all-in-to-beat-the-u-s-on-humanoid-robots-b9c434d2?gaa_at=eafs&gaa_n=AWEtsqdED-ep-MH8aA1_GDOh-TvWLxh4FJ5mFpM89W8k0xfUbCVhnvHgExK0&gaa_ts=69876282&gaa_sig=Qn__ydEuOA5qmCqSwOG0InJCJj7ateOsw7bWZnCJq8Dg8JsD5ajH2_PRvA3VH92VU0UocHMNV0PimL4iDjdugg%3D%3D)**
 
-The Wall Street Journal • 5h ago
+The Wall Street Journal • 6h ago
 
 ---
 
@@ -198,7 +198,7 @@ Humanoid robots just entered a new phase of realism. In Shanghai, DroidUp reveal
 
 📺 AI Revolution
 
-👁️ 167K • 👍 4K • 💬 697 • ⏱️ 13:31 • 2d ago
+👁️ 171K • 👍 4K • 💬 728 • ⏱️ 13:31 • 2d ago
 
 ---
 
@@ -208,17 +208,27 @@ Checkout Free Community: - https://www.skool.com/theaigridcommunity Follow Me on
 
 📺 TheAIGRID
 
-👁️ 19K • 👍 597 • 💬 193 • ⏱️ 13:22 • 4d ago
+👁️ 19K • 👍 599 • 💬 194 • ⏱️ 13:22 • 4d ago
 
 ---
 
-**[XPENG IRON Humanoid Robot Stuns Public With First Real World Appearance](https://www.youtube.com/watch?v=StiJLVlXY4o)**
+**[World&#39;s First: Unitree Humanoid Robot Autonomous Walking Challenge in −47.4°C Extreme Cold](https://www.youtube.com/watch?v=SX4WKUHAP4E)**
 
-XPENG just took a massive step forward in humanoid robotics. The New IRON robot has officially made its first public appearance, ...
+47.4°C, 130000 steps, 89.75°E, 47.21°N… On the extremely cold snowfields of Altay, the birthplace of human skiing, Unitree's ...
 
-📺 DPCcars
+📺 Unitree Robotics
 
-👁️ 23K • 👍 202 • 💬 42 • ⏱️ 1:21 • 6d ago
+👁️ 122K • 👍 1K • 💬 143 • ⏱️ 0:45 • 5d ago
+
+---
+
+**[Capybara Rebuilds a Robot Lion After Sabotage vs Brianna! 🦁🤖 #capybara](https://www.youtube.com/watch?v=Pwu7G4jC3FA)**
+
+Capybara's golden robot lion was sabotaged by Brianna before the big competition! But Cappy didn't give up — he rebuilt ...
+
+📺 CapyEscapes
+
+👁️ 16K • 👍 773 • 💬 77 • ⏱️ 0:59 • 5h ago
 
 ---
 
@@ -228,7 +238,7 @@ Did China just develop the world's most realistic android yet? The Shanghai-base
 
 📺 Kalil 4.0
 
-👁️ 40K • 👍 698 • 💬 115 • ⏱️ 0:48 • 6d ago
+👁️ 40K • 👍 704 • 💬 118 • ⏱️ 0:48 • 6d ago
 
 ---
 
@@ -248,17 +258,17 @@ MirrorMe launched the humanoid robot — Bolt — on Monday, achieving a peak ru
 
 📺 CnEVPost
 
-👁️ 33K • 👍 313 • 💬 80 • ⏱️ 1:09 • 4d ago
+👁️ 33K • 👍 315 • 💬 82 • ⏱️ 1:09 • 4d ago
 
 ---
 
-**[Capybara Rebuilds a Robot Lion After Sabotage vs Brianna! 🦁🤖 #capybara](https://www.youtube.com/watch?v=Pwu7G4jC3FA)**
+**[XPENG IRON Humanoid Robot Stuns Public With First Real World Appearance](https://www.youtube.com/watch?v=StiJLVlXY4o)**
 
-Capybara's golden robot lion was sabotaged by Brianna before the big competition! But Cappy didn't give up — he rebuilt ...
+XPENG just took a massive step forward in humanoid robotics. The New IRON robot has officially made its first public appearance, ...
 
-📺 CapyEscapes
+📺 DPCcars
 
-👁️ 9K • 👍 494 • 💬 54 • ⏱️ 0:59 • 4h ago
+👁️ 23K • 👍 204 • 💬 45 • ⏱️ 1:21 • 6d ago
 
 ---
 
@@ -266,7 +276,7 @@ Capybara's golden robot lion was sabotaged by Brianna before the big competition
 
 📺 ChicOnChain
 
-👁️ 691 • 👍 8 • ⏱️ 1:00 • 11h ago
+👁️ 962 • 👍 10 • ⏱️ 1:00 • 12h ago
 
 ---
 
@@ -276,17 +286,7 @@ This Robot Produces Speech the Human Way This system generates speech using phys
 
 📺 MrScoopz
 
-👁️ 6.2M • 👍 36K • 💬 2K • ⏱️ 0:05 • 6d ago
-
----
-
-**[ROBOT FAILS AT CES 2026 When the robot had one job... #RobotFail #funny](https://www.youtube.com/watch?v=uWeL84NvWXw)**
-
-Not all the robots at CES were behaving this year. In this video, witness a hilarious robotics fail with an AI robot and a casino robot ...
-
-📺 Tinker Forward
-
-👁️ 1K • 👍 25 • ⏱️ 1:30 • 17h ago
+👁️ 6.4M • 👍 37K • 💬 2K • ⏱️ 0:05 • 6d ago
 
 ---
 

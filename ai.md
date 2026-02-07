@@ -3,14 +3,14 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-02-07T15:49:42.535942+00:00'
+updated: '2026-02-07T16:32:25.992179+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- videos
 - news
 - repositories
+- videos
 - social
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 AI news, discussions, and developments
 
-**Last Updated:** February 07, 2026 at 15:49 UTC  
+**Last Updated:** February 07, 2026 at 16:32 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -41,7 +41,7 @@ AI news, discussions, and developments
 
 Countries have been building their own “sovereign AI” to reflect their culture and values, and OpenAI wants to help them....
 
-🔗 [Sherwood News](https://sherwood.news/tech/report-openai-may-tailor-a-version-of-chatgpt-for-uae-that-prohibits-lgbtq/) • 5h ago
+🔗 [Sherwood News](https://sherwood.news/tech/report-openai-may-tailor-a-version-of-chatgpt-for-uae-that-prohibits-lgbtq/) • 6h ago
 
 ---
 
@@ -49,7 +49,7 @@ Countries have been building their own “sovereign AI” to reflect their cultu
 
 I have been working solo on an AI-based project called Netryx. At a high level, it takes a street-level photo and attempts to determine the exact GPS coordinates where the image was taken. Not a city guess or a heatmap. The actual location, down to meters. If the system cannot verify the result with high confidence, it returns nothing. That behavior is intentional. Most AI geolocation tools will confidently give an answer even when they are wrong. Netryx is designed to fail closed. No verification means no output. Conceptually, it works in two stages. An AI model first narrows down likely areas based on visual features, either globally or within a user-defined region. A separate verification step then compares candidates against real street-level imagery. If verification fails, the result is discarded. This means it is not magic and not globally omniscient. The system requires pre-mapped street-level coverage to verify locations. Think of it as an AI-assisted visual index of physical space. As a test, I mapped roughly 5 square kilometers of Paris and fed in a random street photo from within that area. It identified the exact intersection in under three minutes. A few clarifications upfront: • It is not open source right now due to obvious privacy and abuse risks • It requires prior street-level coverage to return results • AI proposes candidates, verification gates all outputs • I am not interested in locating people from social media photos I am posting this here to get perspective from the security community. From a defensive angle, this shows how much location data AI can extract from ordinary images. From an offensive angle, the risks are clear. For those working in cybersecurity or AI security: where do you think the line is between a legitimate AI-powered OSINT capability and something that should not exist?
 
-8h ago
+9h ago
 
 ---
 
@@ -57,7 +57,7 @@ I have been working solo on an AI-based project called Netryx. At a high level, 
 
 Goldman Sachs is building AI agents with Anthropic’s Claude to automate trade accounting and client onboarding, aiming to speed work and boost efficiency.
 
-🔗 [CNBC](https://www.cnbc.com/2026/02/06/anthropic-goldman-sachs-ai-model-accounting.html) • 17h ago
+🔗 [CNBC](https://www.cnbc.com/2026/02/06/anthropic-goldman-sachs-ai-model-accounting.html) • 18h ago
 
 ---
 
@@ -65,7 +65,7 @@ Goldman Sachs is building AI agents with Anthropic’s Claude to automate trade 
 
 I’m a solo web developer, so I spend most of my day using AI to debug my self made chaos , or manage my homelab as a fun side project. Or mess around with Arduino or 3D printing MCP servers. But recently, I asked Gemini for help with the hardest stack I’ve ever had to manage: a household with an extremely disrespectful 19 year old stepson. I am married with two step kids, the other is 15 and somewhat on the autistic spectrum. I've been in this family for for 7 years, married for 2. Their real dad bailed on them before I arrived and fell in love with my Soul Mate and best friend. If you’ve been there, you know the drill. The constant attitude, the tension between siblings, and the emotional toll it takes on your marriage. My wife and I were fed up, but every time we tried to talk to him, it devolved into a circular argument or a shouting match. He wouldn't understand, can't see our perspective, and continues to shit everything up. It was draining the life out of us. I decided to treat the conflict like a "System Architecture" problem and used Gemini to help us navigate it. Here’s how it changed the game for us. Sorry, not sorry, but I did use Gemini to summarise these shenanigans for me, as it really is a complex topic with emotions involved on my side. For what it's worth, I am very real and raw with Gemini in what I say about my family. As a 39 year old, I deeply understand the privacy issues, especially when ... Well, 90s kids don't trust the system... Which amazed me that I was doing this, telling Ai about this, but it shows how frustrated and desperate I was, to tell Google, of all companies, who removed their "do no evil" sign... Well... Anyway... Here it is: The "Logic Buffer": When you're angry, you say things that trigger defensiveness. The AI helped me translate raw frustration into firm, calm, adult-to-adult boundaries. I voice chat Gemini and it helped me work through some difficult thoughts. The Unified Front: It helped my wife and me build a literal Meeting Plan. It gave us roles, ideas, "anchor phrases" to use when things got heated, and a strategy to stay aligned so we couldn't be "divided and conquered." The "Adult Choice" Framework: It shifted the dynamic from us "punishing" a kid to us "managing a household of adults." The AI scripted an ultimatum that wasn't a threat, but a choice: You can be a respectful member of this house, or you can choose to find a living situation that better fits your current attitude. Emotional Outsourcing: It took the mental load of "What do I say?" and turned it into a checklist. We walked into that room feeling like a professional team with a script, rather than two exhausted parents winging it. The result? The most productive, calm, and clear conversation we’ve ever had with him. No yelling. No "what-abouts." Just clear boundaries and a path forward. I see a lot of talk about AI taking jobs, but for me, it’s giving me my home back. It’s like having a high-level consultant for your personal life who doesn’t get tired, emotional, or biased. Has anyone else used LLMs for "Soft Skills" or family mediation? It feels like a total superpower for conflict resolution. _ Me again, I asked it for some examples.. here it is raw from AI again: Example 1: The "Translation" (Emotional to Logical) The Chaos: I wanted to tell him, "You're being a lazy, entitled brat and you're making your mother miserable." The AI Refinement: "We value having you here, but the current lack of respect for the household peace is unsustainable. We are moving to an adult-to-adult living agreement where respect is the 'rent' for staying in this home." Example 2: The "Anchor Phrase" for High-Conflict The Chaos: Usually, he’d say something rude, I’d get defensive, and we’d yell for 20 minutes. The AI Solution: It gave us an "Anchor Phrase." Whenever he tried to derail the talk, we simply said: "We aren't here to argue about the past; we are here to decide if you can meet the standards of this house moving forward." Having that script prevented the "emotional hijack" that usually ruins these talks. Example 3: Managing the "Unified Front" The Chaos: In the past, he’d wait until I was in the workshop and then give his mom a hard time, or vice versa. The AI Plan: The AI helped us set a "Veto Rule." If he asks one of us something, the answer is always: "I’ll discuss that with [Alice/Partner] and we will get back to you together." It shut down the "divide and conquer" tactic instantly. Thanks for enjoying the chaos with me. I sincerely hope other families use this to their advantage. I have been very impressed with the assistance. The meetings have been way more productive. I imagine there will be more issues in the future, but the relief and support I received from AI has already made a huge difference in this young man's attitude, my wife's mental health, his brother's Daily life and... Yeah, definitely my own. I sleep way better now. Still tough, but I know I have support now.
 
-1h ago
+2h ago
 
 ---
 
@@ -73,7 +73,7 @@ I’m a solo web developer, so I spend most of my day using AI to debug my self 
 
 An AI-powered model developed at University of Michigan can read a brain MRI and diagnose a person in seconds, a study suggests.&nbsp;It detected neurological conditions with up to 97.5% accuracy and predicted how urgently a patient required treatment. The technology&nbsp;could transform neuroimaging at health systems across the United States.
 
-🔗 [EurekAlert!](https://www.eurekalert.org/news-releases/1115393) • 12h ago
+🔗 [EurekAlert!](https://www.eurekalert.org/news-releases/1115393) • 13h ago
 
 ---
 
@@ -105,7 +105,7 @@ OpenScholar, an open-source AI model developed by a UW and Ai2 research team, sy
 
 From vegetation scans to 360-degree smoke detectors, new tools are trying to shine a light on the most dangerously dark areas of the electric grid
 
-🔗 [Scientific American](https://www.scientificamerican.com/article/how-new-ai-technology-is-helping-detect-and-prevent-wildfires/) • 20h ago
+🔗 [Scientific American](https://www.scientificamerican.com/article/how-new-ai-technology-is-helping-detect-and-prevent-wildfires/) • 21h ago
 
 ---
 
@@ -147,7 +147,7 @@ Yahoo Finance • 23h ago
 
 **[Here’s Where AI Is Tearing Through Corporate America](https://www.wsj.com/tech/ai/ai-software-business-stock-market-4b17b432?gaa_at=eafs&gaa_n=AWEtsqclrQKg_Sr9Nd3GcJ_g9UazqOEn-qcPzVu3sqnoKWvSnVVbJKeEIZCu&gaa_ts=6987627d&gaa_sig=GXIHslPEuAHWLe6kUGcM-ZULHx5ljy1d4iz6P-jbzW4NfwolUPDbaEL1E3Gx4BlV90h9xjEL0CFL4rRjXfPYqw%3D%3D)**
 
-The Wall Street Journal • 14h ago
+The Wall Street Journal • 15h ago
 
 ---
 
@@ -155,7 +155,7 @@ The Wall Street Journal • 14h ago
 
 AI isn't just hitting software valuations — it's changing how software companies operate.
 
-Axios • 5h ago
+Axios • 6h ago
 
 ---
 
@@ -171,7 +171,7 @@ CNBC • 1d ago
 
 SpaceX’s acquisition of xAI creates business worth $1.25tn but whether premise behind deal will work is questioned
 
-The Guardian • 1h ago
+The Guardian • 2h ago
 
 ---
 
@@ -179,7 +179,7 @@ The Guardian • 1h ago
 
 In a new interview, the journalist Yi-Ling Liu argues the AI arms race between the United States and China risks becoming a self-fulfilling prophecy.
 
-Politico • 49m ago
+Politico • 1h ago
 
 ---
 
@@ -193,7 +193,7 @@ Phys.org • 19h ago
 
 The hundreds of billions of dollars being spent by tech companies on AI projects are diverting resources from other parts of the economy.
 
-The Washington Post • 1h ago
+The Washington Post • 2h ago
 
 ---
 
@@ -227,7 +227,7 @@ SaaS is the most profitable business model on Earth.1 It’s easy to understand 
 
 AI is rarely optional anymore, but how can you still be proud of your craft? Discover the workflow to effectively write high-quality, robust code using AI tools.
 
-⬆️ 290 • 💬 246 • 20h ago • [heidenstedt.org](https://heidenstedt.org/posts/2026/how-to-effectively-write-quality-code-with-ai/)
+⬆️ 290 • 💬 246 • 21h ago • [heidenstedt.org](https://heidenstedt.org/posts/2026/how-to-effectively-write-quality-code-with-ai/)
 
 ---
 
@@ -235,7 +235,7 @@ AI is rarely optional anymore, but how can you still be proud of your craft? Dis
 
 A minimal, secure Python interpreter written in Rust for use by AI - pydantic/monty
 
-⬆️ 265 • 💬 142 • 18h ago • [GitHub](https://github.com/pydantic/monty)
+⬆️ 265 • 💬 142 • 19h ago • [GitHub](https://github.com/pydantic/monty)
 
 ---
 
@@ -251,7 +251,7 @@ Women in rural communities describe trauma of moderating violent and pornographi
 
 Give your AI agent a browser that actually works
 
-⬆️ 93 • 💬 70 • 1d ago • [docs.smooth.sh](https://docs.smooth.sh/cli/overview)
+⬆️ 93 • 💬 70 • 2d ago • [docs.smooth.sh](https://docs.smooth.sh/cli/overview)
 
 ---
 
@@ -281,13 +281,23 @@ Tech could lose its social acceptance unless it makes people’s lives better �
 
 ## YouTube Videos: "ai"
 
+**[EXACTLY How to Start Making AI Influencers and get RICH](https://www.youtube.com/watch?v=UTcTcgum1-U)**
+
+Create AI Influencers using Higgsfield https://youricreates.com/Higgsfield-AI In this video, I break down how AI influencers are ...
+
+📺 Youri van Hofwegen
+
+👁️ 2K • 💬 2 • ⏱️ 8:07 • 31m ago
+
+---
+
 **[Trump Posts Shocking AI Video Showing the Obamas as Apes](https://www.youtube.com/watch?v=V86R2ZJPXzI)**
 
 The White House deleted a video posted on President Trump's Truth Social that included a clip depicting former President Barack ...
 
 📺 New York Post
 
-👁️ 30K • 👍 254 • 💬 541 • ⏱️ 2:07 • 18h ago
+👁️ 32K • 👍 270 • 💬 555 • ⏱️ 2:07 • 19h ago
 
 ---
 
@@ -297,7 +307,7 @@ The White House deleted a video posted on President Trump's Truth Social that in
 
 📺 Neil McCoy-Ward
 
-👁️ 63K • 👍 5K • 💬 522 • ⏱️ 19:58 • 1d ago
+👁️ 64K • 👍 5K • 💬 528 • ⏱️ 19:58 • 1d ago
 
 ---
 
@@ -307,7 +317,7 @@ Humanoid robots just entered a new phase of realism. In Shanghai, DroidUp reveal
 
 📺 AI Revolution
 
-👁️ 167K • 👍 4K • 💬 697 • ⏱️ 13:31 • 2d ago
+👁️ 171K • 👍 4K • 💬 728 • ⏱️ 13:31 • 2d ago
 
 ---
 
@@ -317,17 +327,27 @@ Krystal and Saagar discuss tech stocks tumbling amid emerging new fears of job l
 
 📺 Breaking Points
 
-👁️ 341K • 👍 9K • 💬 2K • ⏱️ 24:33 • 1d ago
+👁️ 344K • 👍 10K • 💬 2K • ⏱️ 24:33 • 1d ago
 
 ---
 
-**[President Trump talks job losses to A.I. and U.S. operation in Venezuela in exclusive interview](https://www.youtube.com/watch?v=J8UxjCRZQpo)**
+**[Some companies using AI in their Super Bowl advertisements](https://www.youtube.com/watch?v=606abND7MVk)**
 
-NBC Nightly News anchor Tom Llamas spoke to President Trump about fears of job losses from A.I. President Trump also ...
+Some companies are using artificial intelligence in their advertisements that will play during the Super Bowl. NBC News' Kate ...
 
 📺 NBC News
 
-👁️ 19K • 👍 91 • 💬 70 • ⏱️ 4:39 • 1d ago
+👁️ 2K • 👍 16 • 💬 10 • ⏱️ 5:26 • 13h ago
+
+---
+
+**[AI News: The AI Launch That Crashed The Market](https://www.youtube.com/watch?v=xdp8bulnidY)**
+
+Here's the AI News you probably missed this week. Try Perplexity Comet browser for free today - https://www.perplexity.ai/comet In ...
+
+📺 Matt Wolfe
+
+👁️ 39K • 👍 2K • 💬 106 • ⏱️ 29:39 • 20h ago
 
 ---
 
@@ -337,17 +357,17 @@ Jensen Huang, NVIDIA CEO, joins CNBC's "Halftime Report to discuss the power of 
 
 📺 CNBC Television
 
-👁️ 107K • 👍 1K • 💬 398 • ⏱️ 8:35 • 21h ago
+👁️ 110K • 👍 1K • 💬 405 • ⏱️ 8:35 • 21h ago
 
 ---
 
-**[I Turned My AI Influencer Into a Real Person (Kling 3.0 + Higgsfield)](https://www.youtube.com/watch?v=rT6AIilIzjA)**
+**[Cute baby gave his mother a beautiful flying horse 🐎 #ai #shorts #horse #shortsfeed](https://www.youtube.com/watch?v=D1-CLx2Q3ik)**
 
-I turned my AI Influencer into a realistic on-camera personality using Kling 3.0 inside Higgsfield — and in this step-by-step Kling ...
+Cute baby gave his mother a beautiful flying horse #ai #shorts #horse # shortsfeed.
 
-📺 Grow with Dani
+📺 ToonTales Creation
 
-👁️ 2K • 👍 149 • 💬 4 • ⏱️ 10:56 • 16h ago
+👁️ 7K • ⏱️ 0:22 • 3h ago
 
 ---
 
@@ -357,27 +377,7 @@ CNBC's Deirdre Bosa reports on news regarding the software sector. For access to
 
 📺 CNBC Television
 
-👁️ 106K • 👍 1K • 💬 424 • ⏱️ 3:30 • 2d ago
-
----
-
-**[The Two Best AI Models/Enemies Just Got Released Simultaneously](https://www.youtube.com/watch?v=1PxEziv5XIU)**
-
-The two models that you will hear discussed for at least the next two months - Claude Opus 4.6 and GPT 5.3 Codex - just got ...
-
-📺 AI Explained
-
-👁️ 47K • 👍 2K • 💬 279 • ⏱️ 19:50 • 22h ago
-
----
-
-**[How AI is helping her speak again!](https://www.youtube.com/watch?v=-ANej33sbOQ)**
-
-This is an amazing use of AI! evolving.ai on IG #ai #technology #advancements #medical ✰ ABOUT ME ✰ I'm Dr. Myro ...
-
-📺 Doctor Myro
-
-👁️ 308K • 👍 12K • 💬 530 • ⏱️ 0:44 • 18h ago
+👁️ 107K • 👍 1K • 💬 425 • ⏱️ 3:30 • 2d ago
 
 ---
 
@@ -393,7 +393,7 @@ GLM-OCR is a 0.9B parameter multimodal OCR model for complex document understand
 
 `image-to-text`
 
-⬇️ 204,109 • ❤️ 757 • 4d ago
+⬇️ 204,109 • ❤️ 761 • 4d ago
 
 ---
 
@@ -405,7 +405,7 @@ Qwen3-Coder-Next is an 80B parameter (3B active) LLM optimized for coding agents
 
 `text-generation` `79.7B`
 
-⬇️ 53,491 • ❤️ 560 • 3d ago
+⬇️ 53,491 • ❤️ 570 • 4d ago
 
 ---
 
@@ -417,7 +417,7 @@ Kimi K2.5 is a native multimodal agentic model with 1T parameters, excelling in 
 
 `image-text-to-text` `170.7B`
 
-⬇️ 335,220 • ❤️ 1,805 • 2d ago
+⬇️ 335,220 • ❤️ 1,806 • 2d ago
 
 ---
 
@@ -429,7 +429,7 @@ Step 3.5 Flash is an efficient, open-source MoE foundation model (11B active par
 
 `text-generation` `199.4B`
 
-⬇️ 11,980 • ❤️ 505 • 10h ago
+⬇️ 11,980 • ❤️ 506 • 10h ago
 
 ---
 
@@ -439,7 +439,7 @@ Step 3.5 Flash is an efficient, open-source MoE foundation model (11B active par
 
 Anima is a 2 billion parameter text-to-image diffusion model specializing in anime and non-photorealistic artistic styles, trained on millions of anime and artistic images. It is designed for generating illustrations and artistic images, with primary use cases in ComfyUI workflows for anime concepts and characters.
 
-⬇️ 60,581 • ❤️ 492 • 6d ago
+⬇️ 60,581 • ❤️ 496 • 6d ago
 
 ---
 
@@ -451,7 +451,7 @@ MiniCPM-o 4.5 is a 9B parameter multimodal LLM excelling in vision, speech, and 
 
 `any-to-any` `9.4B`
 
-⬇️ 5,568 • ❤️ 569 • 23h ago
+⬇️ 5,568 • ❤️ 577 • 6m ago
 
 ---
 
@@ -463,7 +463,7 @@ ACE-Step 1.5 is an open-source text-to-audio music generation model capable of p
 
 `text-to-audio`
 
-⬇️ 19,901 • ❤️ 424 • 4d ago
+⬇️ 19,901 • ❤️ 427 • 4d ago
 
 ---
 
@@ -473,7 +473,7 @@ ACE-Step 1.5 is an open-source text-to-audio music generation model capable of p
 
 Voxtral-Mini-4B-Realtime-2602 is a 4B-parameter, multilingual speech-to-text model offering near-offline accuracy with <500ms latency. It features a streaming architecture for real-time applications like voice assistants and live subtitling, optimized for on-device deployment.
 
-⬇️ 2,093 • ❤️ 354 • 2d ago
+⬇️ 2,093 • ❤️ 359 • 2d ago
 
 ---
 
@@ -485,7 +485,7 @@ Qwen3-Coder-Next is an 80B parameter LLM optimized for coding agents, featuring 
 
 `text-generation` `79.7B`
 
-⬇️ 166,132 • ❤️ 203 • 2d ago
+⬇️ 166,132 • ❤️ 204 • 2d ago
 
 ---
 
@@ -497,7 +497,7 @@ Intern-S1-Pro is a trillion-scale MoE multimodal scientific reasoning model, exc
 
 `image-text-to-text`
 
-⬇️ 7,351 • ❤️ 186 • 2d ago
+⬇️ 7,351 • ❤️ 189 • 2d ago
 
 ---
 
@@ -513,7 +513,7 @@ Intern-S1-Pro is a trillion-scale MoE multimodal scientific reasoning model, exc
 
 _paperbanana is an agentic framework that automates the creation of publication-ready academic illustrations using advanced vision-language models and image generation techniques.
 
-▲ 135 • 💬 12 • ⭐ 2,267 • 8d ago
+▲ 136 • 💬 12 • ⭐ 2,267 • 8d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2601.23265) • [💻 code](https://github.com/dwzhu-pku/PaperBanana) • [🔗 project](https://dwzhu-pku.github.io/PaperBanana/)
 
@@ -525,7 +525,7 @@ _paperbanana is an agentic framework that automates the creation of publication-
 
 Cross-Team Collaboration improves software quality by enabling multiple LLM agent teams to propose and communicate decisions.
 
-▲ 2 • 💬 0 • ⭐ 30,444 • 20mo ago
+▲ 3 • 💬 0 • ⭐ 30,444 • 20mo ago
 
 [🎓 arXiv](https://arxiv.org/abs/2406.08979) • [💻 code](https://github.com/OpenBMB/ChatDev)
 
@@ -575,7 +575,7 @@ A centralized orchestrator dynamically directs LLM agents via reinforcement lear
 
 LingBot-World is an open-source world simulator with high-fidelity dynamics, long-term memory capabilities, and real-time interactivity for diverse environments.
 
-▲ 117 • 💬 2 • ⭐ 2,616 • 10d ago
+▲ 119 • 💬 2 • ⭐ 2,616 • 10d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2601.20540) • [💻 code](https://github.com/Robbyant/lingbot-world/) • [🔗 project](https://technology.robbyant.com/lingbot-world)
 
@@ -595,18 +595,6 @@ The Qwen3-TTS series presents advanced multilingual text-to-speech models with v
 
 ---
 
-**[Bitnet.cpp: Efficient Edge Inference for Ternary LLMs](https://huggingface.co/papers/2502.11880)**
-
-*Jinheng Wang, Hansong Zhou, Ting Song et al. (10 authors)*
-
-Bitnet.cpp enhances edge inference for ternary LLMs using a novel mixed-precision matrix multiplication library, achieving significant speed improvements over baselines.
-
-▲ 6 • 💬 0 • ⭐ 27,974 • 11mo ago
-
-[🎓 arXiv](https://arxiv.org/abs/2502.11880) • [💻 code](https://github.com/microsoft/BitNet/tree/paper)
-
----
-
 **[SmolDocling: An ultra-compact vision-language model for end-to-end
   multi-modal document conversion](https://huggingface.co/papers/2503.11576)**
 
@@ -622,6 +610,18 @@ SmolDocling is a compact vision-language model that performs end-to-end document
 
 ---
 
+**[Bitnet.cpp: Efficient Edge Inference for Ternary LLMs](https://huggingface.co/papers/2502.11880)**
+
+*Jinheng Wang, Hansong Zhou, Ting Song et al. (10 authors)*
+
+Bitnet.cpp enhances edge inference for ternary LLMs using a novel mixed-precision matrix multiplication library, achieving significant speed improvements over baselines.
+
+▲ 6 • 💬 0 • ⭐ 28,000 • 11mo ago
+
+[🎓 arXiv](https://arxiv.org/abs/2502.11880) • [💻 code](https://github.com/microsoft/BitNet/tree/paper)
+
+---
+
 **[PaddleOCR-VL: Boosting Multilingual Document Parsing via a 0.9B Ultra-Compact Vision-Language Model](https://huggingface.co/papers/2510.14528)**
 
 *Cheng Cui, Ting Sun, Suyin Liang et al. (18 authors)*
@@ -630,7 +630,7 @@ SmolDocling is a compact vision-language model that performs end-to-end document
 
 PaddleOCR-VL, a vision-language model combining NaViT-style dynamic resolution and ERNIE, achieves state-of-the-art performance in document parsing and element recognition with high efficiency.
 
-▲ 113 • 💬 7 • ⭐ 70,330 • 3mo ago
+▲ 113 • 💬 7 • ⭐ 70,357 • 3mo ago
 
 [🎓 arXiv](https://arxiv.org/abs/2510.14528) • [💻 code](https://github.com/PaddlePaddle/PaddleOCR)
 
@@ -646,7 +646,7 @@ Browser automation CLI for AI agents
 
 `TypeScript`
 
-⭐ 13.1k • 🔱 748 • 20h ago
+⭐ 13.1k • 🔱 753 • 21h ago
 
 ---
 
@@ -656,7 +656,7 @@ AI → JSON → UI
 
 `TypeScript`
 
-⭐ 10.1k • 🔱 537 • 15h ago
+⭐ 10.1k • 🔱 537 • 16h ago
 
 ---
 
@@ -666,7 +666,7 @@ LLM驱动的 A/H/美股智能分析器，多数据源行情 + 实时新闻 + Gem
 
 `Python` `agent` `ai` `aigc` `gemini` `llm`
 
-⭐ 9.8k • 🔱 10.3k • 1h ago
+⭐ 9.8k • 🔱 10.3k • 2h ago
 
 ---
 
@@ -686,7 +686,7 @@ Marketing skills for Claude Code and AI agents. CRO, copywriting, SEO, analytics
 
 `claude` `codex` `marketing`
 
-⭐ 6.4k • 🔱 724 • 3d ago
+⭐ 6.4k • 🔱 729 • 3d ago
 
 ---
 
@@ -694,7 +694,7 @@ Marketing skills for Claude Code and AI agents. CRO, copywriting, SEO, analytics
 
 Elevate your AI research writing, no more tedious polishing ✨ 
 
-⭐ 4.5k • 🔱 352 • 3d ago
+⭐ 4.5k • 🔱 354 • 3d ago
 
 ---
 
@@ -702,7 +702,7 @@ Elevate your AI research writing, no more tedious polishing ✨
 
 Claude Code skill that removes signs of AI-generated writing from text
 
-⭐ 4.3k • 🔱 354 • 15d ago
+⭐ 4.3k • 🔱 355 • 15d ago
 
 ---
 
@@ -730,7 +730,7 @@ PaperBanana: Automating Academic Illustration For AI Scientists
 
 `JavaScript`
 
-⭐ 2.3k • 🔱 102 • 4d ago
+⭐ 2.3k • 🔱 103 • 4d ago
 
 ---
 

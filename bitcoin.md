@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-02-07T15:49:42.544535+00:00'
+updated: '2026-02-07T16:32:26.000359+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- videos
 - news
-- cryptocurrency
+- videos
 - social
+- cryptocurrency
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** February 07, 2026 at 15:49 UTC  
+**Last Updated:** February 07, 2026 at 16:32 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -54,17 +54,17 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1378.11B
+**Market Cap:** $1384.21B
 Rank #1
 
-**Circulating Supply:** 19,985,675 BTC
+**Circulating Supply:** 19,985,706 BTC
 95.2% of max
 
 **All-Time High:** $126,080.00
--45.3%
+-45.1%
 
 **All-Time Low:** $67.81
-+101615.1%
++102038.3%
 
 ---
 
@@ -81,13 +81,13 @@ Rank #1
 
 ​
 
-9h ago
+10h ago
 
 ---
 
 **[People who bought bitcoin at $61k yesterday](https://www.reddit.com/r/Bitcoin/comments/1qxw35n/people_who_bought_bitcoin_at_61k_yesterday/)**
 
-17h ago
+18h ago
 
 ---
 
@@ -101,13 +101,13 @@ If you see blockchain activity whales are clearly accumulating taking BTC outsid
 
 **[We are so back](https://www.reddit.com/r/Bitcoin/comments/1qxpeyz/we_are_so_back/)**
 
-21h ago
+22h ago
 
 ---
 
 **[Look babe, bitcoin went up 9% today](https://www.reddit.com/r/Bitcoin/comments/1qy03oz/look_babe_bitcoin_went_up_9_today/)**
 
-14h ago
+15h ago
 
 ---
 
@@ -129,7 +129,7 @@ Basically
 
 **[Bitcoin price right now](https://www.reddit.com/r/Bitcoin/comments/1qy7gsr/bitcoin_price_right_now/)**
 
-8h ago
+9h ago
 
 ---
 
@@ -145,7 +145,7 @@ Thank you everyone for the endless content about bitcoin price speculation. It�
 
 Yes I finally captured it!
 
-21h ago
+22h ago
 
 ---
 
@@ -163,7 +163,7 @@ Yahoo Finance • 17h ago
 
 **[The Kidnappers Of Savannah Guthrie's Mom Want Bitcoin—But It’s Not As Anonymous As Many Think](https://www.forbes.com/sites/martinadilicosa/2026/02/06/the-kidnappers-of-savannah-guthries-mom-want-bitcoin-but-its-not-as-anonymous-as-many-think/)**
 
-Forbes • 19h ago
+Forbes • 20h ago
 
 ---
 
@@ -172,7 +172,7 @@ users](https://www.cnbc.com/2026/02/07/south-korean-crypto-firm-accidentally-sen
 
 The move triggered a sharp selloff on the Bithumb exchange. The company apologized for the mistake.
 
-CNBC • 5h ago
+CNBC • 6h ago
 
 ---
 
@@ -180,7 +180,7 @@ CNBC • 5h ago
 
 The company quickly realised its mistake and managed to recover virtually all the missing tokens from customers.
 
-BBC • 1h ago
+BBC • 2h ago
 
 ---
 
@@ -188,7 +188,7 @@ BBC • 1h ago
 
 A South Korean cryptocurrency exchange apologised on Saturday after mistakenly transferring more than $40 billion worth of bitcoin to users, which briefly prompted a selloff on the platform.Bithumb said it accidentally sent 620,000 bitcoins, currently worth more than $40 billion, and blocked trading and withdrawals for the 695 affected users within 35 minutes after the error occurred on Friday.
 
-Yahoo Finance • 4h ago
+Yahoo Finance • 5h ago
 
 ---
 
@@ -196,7 +196,7 @@ Yahoo Finance • 4h ago
 
 Strategy (MSTR) is moving to take a more active role in preparing Bitcoin for potential future threats from quantum computing.
 
-Bitcoin Magazine • 22h ago
+Bitcoin Magazine • 23h ago
 
 ---
 
@@ -216,7 +216,7 @@ The Wall Street Journal • 1d ago
 
 **[Your bitcoin investment may have been based on an illusion](https://www.marketwatch.com/story/your-bitcoin-investment-may-have-been-based-on-an-illusion-de2e3fad?gaa_at=eafs&gaa_n=AWEtsqdd1pOqrjH1Gbfn9iYNYuZtE3dSmmCsR3DDpXUG7t1f7_R0rWtJDMbM&gaa_ts=6987627f&gaa_sig=02xefVOKffqKSsYkKXSUu31aTG_gJy_IO7BY4xGlaAzbI69OlsYuovc7KKdvhEPL9sZ2KY1vAQ6HhTuphLfPaw%3D%3D)**
 
-MarketWatch • 21h ago
+MarketWatch • 22h ago
 
 ---
 
@@ -224,7 +224,7 @@ MarketWatch • 21h ago
 
 Hitting this mark implies lower returns going forward, which is a reasonable expectation.
 
-The Motley Fool • 10h ago
+The Motley Fool • 11h ago
 
 ---
 
@@ -272,7 +272,7 @@ Crypto treasury companies quietly crept into index funds and retirement accounts
 
 Bitcoin behaves more like an "ATM" during uncertain times, with investors quickly selling it to raise cash.
 
-⬆️ 4 • 💬 0 • 2d ago • [coindesk.com](https://www.coindesk.com/markets/2026/01/24/here-s-why-bitcoin-s-is-failing-its-role-as-a-safe-haven-versus-gold)
+⬆️ 4 • 💬 0 • 3d ago • [coindesk.com](https://www.coindesk.com/markets/2026/01/24/here-s-why-bitcoin-s-is-failing-its-role-as-a-safe-haven-versus-gold)
 
 ---
 
@@ -302,7 +302,7 @@ Cryptocurrency markets fell as global equities and precious metals sold off whil
 
 SE050 Hardware Bitcoin Wallet - Self-sovereign Bitcoin wallet powered by NXP SE050 secure element - 0xdeadbeefnetwork/sigil-web
 
-⬆️ 2 • 💬 1 • 8h ago • [GitHub](https://github.com/0xdeadbeefnetwork/sigil-web)
+⬆️ 2 • 💬 1 • 9h ago • [GitHub](https://github.com/0xdeadbeefnetwork/sigil-web)
 
 ---
 
@@ -316,17 +316,7 @@ Take your personal data back with Incogni! Use code GRAHAM at the link below and
 
 📺 Graham Stephan
 
-👁️ 552K • 👍 19K • 💬 6K • ⏱️ 16:11 • 1d ago
-
----
-
-**[“$2 Trillion LOST In Crypto” - Bitcoin &amp; XRP Wobble As CRYPTO CRASH Fears Grow](https://www.youtube.com/watch?v=_bT0NBL2hfk)**
-
-Bitcoin plunges as crypto markets lose trillions, sparking debate over whether BTC is truly an inflation hedge or just another risk ...
-
-📺 Valuetainment
-
-👁️ 118K • 👍 3K • 💬 12K • ⏱️ 14:38 • 18h ago
+👁️ 560K • 👍 19K • 💬 6K • ⏱️ 16:11 • 1d ago
 
 ---
 
@@ -336,37 +326,17 @@ Bitcoin has been in a free-fall the past few months. At one point yesterday, it 
 
 📺 From The Desk Of Anthony Pompliano
 
-👁️ 32K • 👍 2K • 💬 217 • ⏱️ 9:43 • 17h ago
+👁️ 35K • 👍 2K • 💬 258 • ⏱️ 9:43 • 18h ago
 
 ---
 
-**[🚨 BTC &amp; ETH: THIS IS IT!!!! ITS TIME!!!!!](https://www.youtube.com/watch?v=8QI8ukpRpEI)**
+**[Bitcoin Is CRASHING Now People Are Losing EVERYTHING](https://www.youtube.com/watch?v=7fg0A5W2D3s)**
 
-One of the biggest crypto crashes in history! Here is what happened, why and my plan going further. ---------- LIVE VIRTUAL ...
+Bitcoin is crashing — and now people are losing everything. In this video, we break down what's happening in the crypto market, ...
 
-📺 Thomas Kralow
+📺 Jay Reed
 
-👁️ 31K • 👍 1K • 💬 71 • ⏱️ 11:51 • 1d ago
-
----
-
-**[BITCOIN WARNING ($39K)](https://www.youtube.com/watch?v=8rjH5qsABXk)**
-
-Bitcoin's record volatility is sending shockwaves through the crypto market—are we nearing the bottom? Get the latest crypto news ...
-
-📺 Discover Crypto
-
-👁️ 14K • 👍 145 • 💬 29 • ⏱️ 0:26 • 20h ago
-
----
-
-**[BITCOIN: EMERGENCY UPDATE!!! ⚠️ #BTC Price Prediction &amp; Crypto Crash News Today](https://www.youtube.com/watch?v=L-p4TRu-xx4)**
-
-MEXC: Trade with Ultra-low trading fees Sign up: https://www.mexc.com/register?inviteCode=mexc-RT1M (must use this link) ...
-
-📺 Road To $1 Million USD
-
-👁️ 8K • 👍 243 • 💬 65 • ⏱️ 8:50 • 1d ago
+👁️ 133K • 👍 5K • 💬 18K • ⏱️ 16:32 • 1d ago
 
 ---
 
@@ -376,17 +346,17 @@ Bitcoin has fallen below $70000, raising questions about whether a crypto winter
 
 📺 Yahoo Finance
 
-👁️ 78K • 👍 577 • 💬 603 • ⏱️ 4:27 • 1d ago
+👁️ 81K • 👍 580 • 💬 602 • ⏱️ 4:27 • 1d ago
 
 ---
 
-**[This is typical volatility for bitcoin, says SkyBridge&#39;s Scaramucci](https://www.youtube.com/watch?v=PxHIJlojXTg)**
+**[BITCOIN WARNING ($39K)](https://www.youtube.com/watch?v=8rjH5qsABXk)**
 
-CNBC's “Closing Bell Overtime” team discusses cryptocurrencies, bitcoin's volatile week and more with Anthony Scaramucci, ...
+Bitcoin's record volatility is sending shockwaves through the crypto market—are we nearing the bottom? Get the latest crypto news ...
 
-📺 CNBC Television
+📺 Discover Crypto
 
-👁️ 27K • 👍 276 • 💬 309 • ⏱️ 4:14 • 17h ago
+👁️ 15K • 👍 151 • 💬 31 • ⏱️ 0:26 • 21h ago
 
 ---
 
@@ -396,7 +366,27 @@ BYBIT: http://themoon.co/Bybit 10% DISCOUNT & $30000 BONUS Phemex: https://themo
 
 📺 The Moon Show
 
-👁️ 9K • 👍 664 • 💬 40 • ⏱️ 6:39 • 5h ago
+👁️ 14K • 👍 811 • 💬 52 • ⏱️ 6:39 • 6h ago
+
+---
+
+**[🚨 BTC &amp; ETH: THIS IS IT!!!! ITS TIME!!!!!](https://www.youtube.com/watch?v=8QI8ukpRpEI)**
+
+One of the biggest crypto crashes in history! Here is what happened, why and my plan going further. ---------- LIVE VIRTUAL ...
+
+📺 Thomas Kralow
+
+👁️ 33K • 👍 1K • 💬 72 • ⏱️ 11:51 • 1d ago
+
+---
+
+**[This is typical volatility for bitcoin, says SkyBridge&#39;s Scaramucci](https://www.youtube.com/watch?v=PxHIJlojXTg)**
+
+CNBC's “Closing Bell Overtime” team discusses cryptocurrencies, bitcoin's volatile week and more with Anthony Scaramucci, ...
+
+📺 CNBC Television
+
+👁️ 29K • 👍 286 • 💬 342 • ⏱️ 4:14 • 18h ago
 
 ---
 
@@ -406,7 +396,17 @@ https://democratizedprime.pxf.io/c/2406113/3755092/37696 Enter to win $25k USDC 
 
 📺 Aaron Bennett
 
-👁️ 36K • 👍 1K • 💬 822 • ⏱️ 13:47 • 2d ago
+👁️ 36K • 👍 1K • 💬 817 • ⏱️ 13:47 • 2d ago
+
+---
+
+**[DID JEFF INVENT BITCOIN?](https://www.youtube.com/watch?v=D2rbPG_Ncnw)**
+
+Did Jeffrey invent Bitcoin? This viral theory is blowing up across crypto circles, so we break it down, separate facts from fiction, and ...
+
+📺 Discover Crypto
+
+👁️ 80K • 👍 1K • 💬 113 • ⏱️ 2:44 • 2d ago
 
 ---
 

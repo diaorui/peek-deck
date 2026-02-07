@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-02-07T15:49:42.550573+00:00'
+updated: '2026-02-07T16:32:26.006235+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- videos
 - news
-- cryptocurrency
+- videos
 - social
+- cryptocurrency
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** February 07, 2026 at 15:49 UTC  
+**Last Updated:** February 07, 2026 at 16:32 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -52,17 +52,17 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Market Stats
 
-**Market Cap:** $246.69B
+**Market Cap:** $247.60B
 Rank #2
 
 **Circulating Supply:** 120,692,655 ETH
 No max supply
 
 **All-Time High:** $4,946.05
--58.7%
+-58.5%
 
 **All-Time Low:** $0.43
-+471996.8%
++473976.1%
 
 ---
 
@@ -72,7 +72,7 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-9h ago
+10h ago
 
 ---
 
@@ -96,7 +96,7 @@ Vitalik: role of L2s has changed, Hegotá upgrade headliner proposals, Lido v3 l
 
 im jef, and im honestly just starting to get into crypto, trying to understand how all of this works and whether it’s something i could realistically learn and grow into over time. i don’t come from money, im just a student juggling school, responsibilities, and everyday expenses, so I don’t have much to risk or experiment with, which is why im looking for advice more than anything else. i’ve been reading, watching, and asking around, but it still feels overwhelming, and i know im inexperienced and probably missing a lot of important basics. At the same time, a part of me thinks this could be a real opportunity if i approach it carefully, stay patient, and learn from people who actually know what they’re doing. im not chasing quick profits or hype, i just want guidance on how to start smart, avoid obvious mistakes, and figure out if someone like me, broke, still studying, and learning as i go, i might have a genuine chance at building something small but meaningful through crypto in the long run. could anyone give advise?
 
-11h ago
+12h ago
 
 ---
 
@@ -104,7 +104,7 @@ im jef, and im honestly just starting to get into crypto, trying to understand h
 
 [ Removed by Reddit on account of violating the content policy. ]
 
-22h ago
+23h ago
 
 ---
 
@@ -154,7 +154,7 @@ Fellow Dudes! Does any one know when exactly real world assets such as property 
 
 ENS Labs is canceling the launch of the Namechain Layer 2, which began development in 2024 to support the forthcoming ENSv2 update.
 
-The Block • 17h ago
+The Block • 18h ago
 
 ---
 
@@ -178,7 +178,7 @@ Nasdaq • 1d ago
 
 Coinbase customers faced losses in fresh ways through the exchange’s crypto-backed lending product as Bitcoin and Ethereum tumbled this week.
 
-Decrypt • 20h ago
+Decrypt • 21h ago
 
 ---
 
@@ -202,7 +202,7 @@ Yahoo Finance • 3d ago
 
 The sell-off in BitMine Immersion Technologies ($BMNR) intensified today as the stock dropped 8.6% to reach $18.56, extending a brutal monthly slide that has wiped ...
 
-TipRanks • 1d ago
+TipRanks • 2d ago
 
 ---
 
@@ -238,7 +238,7 @@ Tom Lee, Fundstrat, joins 'Closing Bell' to discuss the state of crypto markets,
 
 📺 CNBC Television
 
-👁️ 48K • 👍 636 • 💬 310 • ⏱️ 3:53 • 18h ago
+👁️ 52K • 👍 655 • 💬 312 • ⏱️ 3:53 • 19h ago
 
 ---
 
@@ -248,7 +248,7 @@ Uhh... so... is anyone else getting that strange feeling that something big is a
 
 📺 Money Rules - Investing Tips 
 
-👁️ 12K • 👍 2K • 💬 233 • ⏱️ 13:13 • 1d ago
+👁️ 13K • 👍 2K • 💬 312 • ⏱️ 13:13 • 1d ago
 
 ---
 
@@ -258,7 +258,7 @@ ETHEREUM ETH PRICE PREDICTION 2026 Join the Premium Signal Group for trade setup
 
 📺 Cilinix Crypto
 
-👁️ 207 • 👍 16 • 💬 5 • ⏱️ 5:23 • 5h ago
+👁️ 288 • 👍 19 • 💬 7 • ⏱️ 5:23 • 6h ago
 
 ---
 
@@ -268,17 +268,7 @@ My FREE Daily 5-Min Crypto Newsletter: https://www.cryptonutshell.com/subscribe 
 
 📺 Crypto Nutshell
 
-👁️ 17K • 👍 463 • 💬 155 • ⏱️ 22:22 • 2d ago
-
----
-
-**[Ethereum Elliott Wave Update – Key Resistance Levels Ahead](https://www.youtube.com/watch?v=D2BM_0CFcxQ)**
-
-This video provides a professional Elliott Wave and technical analysis of Ethereum (ETH), focusing on market structure, major ...
-
-📺 More Crypto Online
-
-👁️ 3K • 👍 185 • 💬 14 • ⏱️ 4:02 • 15h ago
+👁️ 17K • 👍 468 • 💬 155 • ⏱️ 22:22 • 2d ago
 
 ---
 
@@ -288,7 +278,17 @@ One of the biggest crypto crashes in history! Here is what happened, why and my 
 
 📺 Thomas Kralow
 
-👁️ 31K • 👍 1K • 💬 71 • ⏱️ 11:51 • 1d ago
+👁️ 33K • 👍 1K • 💬 72 • ⏱️ 11:51 • 1d ago
+
+---
+
+**[Ethereum Elliott Wave Update – Key Resistance Levels Ahead](https://www.youtube.com/watch?v=D2BM_0CFcxQ)**
+
+This video provides a professional Elliott Wave and technical analysis of Ethereum (ETH), focusing on market structure, major ...
+
+📺 More Crypto Online
+
+👁️ 3K • 👍 190 • 💬 14 • ⏱️ 4:02 • 15h ago
 
 ---
 
@@ -298,17 +298,7 @@ BITCOIN CRASH OVER: My $5 Million Trading Strategy!!! - Bitcoin News Today, Ethe
 
 📺 Crypto World
 
-👁️ 10K • 👍 413 • 💬 137 • ⏱️ 22:22 • 16h ago
-
----
-
-**[“This Crash Might Be the Setup Most Crypto Holders Are Missing&quot; – Matt Hougan](https://www.youtube.com/watch?v=gMUdNWz4eaI)**
-
-Take Control of Your Retirement — Grow Crypto & Gold Tax-Advantaged. https://www.itrustcapital.com/go/savvy-finance If you're ...
-
-📺 Savvy Finance
-
-👁️ 8K • 👍 343 • 💬 11 • ⏱️ 20:57 • 1d ago
+👁️ 10K • 👍 422 • 💬 137 • ⏱️ 22:22 • 17h ago
 
 ---
 
@@ -318,17 +308,27 @@ Join Premium: https://the-bitcoin-strategy.com My Chart Software: https://the-bi
 
 📺 Gerhard - Bitcoin Strategy
 
-👁️ 10K • 👍 223 • 💬 48 • ⏱️ 9:49 • 2d ago
+👁️ 10K • 👍 224 • 💬 49 • ⏱️ 9:49 • 2d ago
 
 ---
 
-**[The Ethereum Bottom ISN&#39;T In Yet.](https://www.youtube.com/watch?v=zFcWMpTYIQA)**
+**[Live Crypto Trading | Bitcoin Live Trading Intelligent trader | 7 Feb | #btc #eth #cryptotrading](https://www.youtube.com/watch?v=ocdtX_CdFGk)**
 
-Get $450 Off Our New AI Indicators: https://tradeconfidentportal.io/indic... Join Trade Confident: Get 25% Off Your 1st Month: ...
+Account Open From Here - Delta India - (CRYPTO BROKER) https://india.delta.exchange/?code=intelligenttrader After Opening ...
 
-📺 Trade Confident
+📺 Intelligent Trader
 
-👁️ 635 • 👍 22 • 💬 2 • ⏱️ 5:06 • 20h ago
+👁️ 5K • 👍 540 • 1h ago
+
+---
+
+**[“This Crash Might Be the Setup Most Crypto Holders Are Missing&quot; – Matt Hougan](https://www.youtube.com/watch?v=gMUdNWz4eaI)**
+
+Take Control of Your Retirement — Grow Crypto & Gold Tax-Advantaged. https://www.itrustcapital.com/go/savvy-finance If you're ...
+
+📺 Savvy Finance
+
+👁️ 8K • 👍 344 • 💬 11 • ⏱️ 20:57 • 1d ago
 
 ---
 
