@@ -3,13 +3,13 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-02-07T11:22:45.995955+00:00'
+updated: '2026-02-07T11:45:48.593136+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- repositories
 - social
+- repositories
 - videos
 - news
 ---
@@ -18,7 +18,7 @@ data_types:
 
 AI news, discussions, and developments
 
-**Last Updated:** February 07, 2026 at 11:22 UTC  
+**Last Updated:** February 07, 2026 at 11:45 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -113,7 +113,7 @@ From vegetation scans to 360-degree smoke detectors, new tools are trying to shi
 
 An unsettling argument from antiquity sounds a moral warning for the future.
 
-🔗 [Freedom Frequency | Hoover Institution](https://www.thefreedomfrequency.org/p/what-is-it-like-to-be-a-machine) • 10h ago
+🔗 [Freedom Frequency | Hoover Institution](https://www.thefreedomfrequency.org/p/what-is-it-like-to-be-a-machine) • 11h ago
 
 ---
 
@@ -121,11 +121,11 @@ An unsettling argument from antiquity sounds a moral warning for the future.
 
 ## Google News: "ai"
 
-**[Amazon leads Big Tech’s $1 trillion wipeout as AI bubble fears ignite sell-off](https://www.cnbc.com/2026/02/06/ai-sell-off-stocks-amazon-oracle.html)**
+**[Tech AI spending may approach $700 billion this year, but the blow to cash raises red flags](https://www.cnbc.com/2026/02/06/google-microsoft-meta-amazon-ai-cash.html)**
 
-Fears over AI spending have sparked a sell-off among tech stocks.
+Tech's megacaps announced major increases in capex spend for 2026, and now investors are preparing for cash to dwindle.
 
-CNBC • 23h ago
+CNBC • 14h ago
 
 ---
 
@@ -133,25 +133,29 @@ CNBC • 23h ago
 
 Alphabet, Microsoft, Amazon, and Meta are on track to spend between $635 billion and $665 billion in their respective 2026 fiscal years.
 
-Yahoo Finance • 18h ago
+Yahoo Finance • 19h ago
 
 ---
 
-**[Big Tech's $600 billion spending plans exacerbate investors' AI headache](https://www.reuters.com/business/global-software-data-firms-slide-ai-disruption-fears-compound-jitters-over-600-2026-02-06/)**
+**[AI bubble watch: Spooked market sparks $1 trillion Friday tech sell-off](https://mashable.com/article/ai-bubble-watch-tech-stocks-down)**
 
-Reuters • 1d ago
+Big Tech stocks are down. Is AI to blame?
 
----
-
-**[Fear of AI Replacing Software Makers Hits Stocks. Here’s What to Know.](https://www.nytimes.com/2026/02/06/business/ai-stock-market-anthropic-openai.html)**
-
-The New York Times • 15h ago
+Mashable • 11h ago
 
 ---
 
-**[Here’s Where AI Is Tearing Through Corporate America](https://www.wsj.com/tech/ai/ai-software-business-stock-market-4b17b432?gaa_at=eafs&gaa_n=AWEtsqcUI6-6ERIUR1Fw3py1EX4WgV1LlMfVg-cACIZKsn7RZd5Oko8OJakg&gaa_ts=6987170c&gaa_sig=u5kOEHXZTFZOfucw-7SWs_3BW5jX-vfpzFVSdNdj_M98zPjeqA-gXwO-96Z4F573jxy9_dTbxPSTcQ7QwZQeBw%3D%3D)**
+**[Here’s Where AI Is Tearing Through Corporate America](https://www.wsj.com/tech/ai/ai-software-business-stock-market-4b17b432?gaa_at=eafs&gaa_n=AWEtsqcWAo-gG2ZGS9GlpQVW_xkV68WpgHQLa4_6s-W3LaawYDz6kC1mihhj&gaa_ts=69872957&gaa_sig=PaUwv6RvEC7NYnmCxDHAS6y4LSgse71PyFe2LzTtPZETXWckV-Pw_FlCFRe-t2wgljLxWmHDUyxrKxG6xLwrCw%3D%3D)**
 
-The Wall Street Journal • 20h ago
+The Wall Street Journal • 9h ago
+
+---
+
+**[AI fears pummel software stocks: Is it 'illogical' panic or a SaaS apocalypse?](https://www.cnbc.com/2026/02/06/ai-anthropic-tools-saas-software-stocks-selloff.html)**
+
+The software space is facing serious market concerns this week, after the release of new AI tools from AI triggered a market sell-off.
+
+CNBC • 1d ago
 
 ---
 
@@ -163,17 +167,25 @@ Axios • 1h ago
 
 ---
 
-**[NVIDIA Expands AI Footprint Into Labs And Climate With New Platforms](https://finance.yahoo.com/news/nvidia-expands-ai-footprint-labs-080627541.html)**
+**[The AI boom is so huge it’s causing shortages everywhere else](https://www.washingtonpost.com/technology/2026/02/07/ai-spending-economy-shortages/)**
 
-NVIDIA (NasdaqGS:NVDA) has partnered with Opentrons to apply AI to laboratory robotics, aiming to speed up experiment execution and drug discovery workflows. The company has also introduced Earth-2, an open source AI weather forecasting platform designed for climate, energy, and risk management applications. These developments extend NVIDIA's AI reach into physical sciences, healthcare, robotics, and weather forecasting beyond its core GPU markets. NVIDIA's recent moves into AI driven lab...
+The hundreds of billions of dollars being spent by tech companies on AI projects are diverting resources from other parts of the economy.
 
-Yahoo Finance • 3h ago
+The Washington Post • 13m ago
+
+---
+
+**[AI’s latest 20-something billionaire got his start at L.A. garage sales](https://www.latimes.com/business/story/2026-02-07/how-la-garage-sales-launched-ais-latest-20-something-billionaire)**
+
+Meet the LA boy who turned a multi-millionaire starting an AI training company
+
+latimes.com • 45m ago
 
 ---
 
 **[New study uses Neanderthals to demonstrate gap between generative AI and scholarly knowledge](https://phys.org/news/2026-02-neanderthals-gap-generative-ai-scholarly.html)**
 
-Phys.org • 14h ago
+Phys.org • 15h ago
 
 ---
 
@@ -181,15 +193,7 @@ Phys.org • 14h ago
 
 A long-simmering rivalry between two of the world’s biggest AI companies was on public display this week as Anthropic and OpenAI took swings at one another online.
 
-cnn.com • 23h ago
-
----
-
-**[AI companies pour big money into Super Bowl battle](https://www.cnbc.com/2026/02/06/super-bowl-ai-companies-pour-big-money-into-ads.html)**
-
-Google, Amazon and Meta are among the companies advertising their AI tools during Super Bowl 60.
-
-CNBC • 13h ago
+cnn.com • 1d ago
 
 ---
 
@@ -199,7 +203,7 @@ CNBC • 13h ago
 
 **[My AI Adoption Journey](https://news.ycombinator.com/item?id=46903558)**
 
-⬆️ 906 • 💬 382 • 1d ago • [Mitchell Hashimoto](https://mitchellh.com/writing/my-ai-adoption-journey)
+⬆️ 909 • 💬 385 • 1d ago • [Mitchell Hashimoto](https://mitchellh.com/writing/my-ai-adoption-journey)
 
 ---
 
@@ -207,7 +211,7 @@ CNBC • 13h ago
 
 A new bill in the New York state legislature would require news organizations to label AI-generated material and mandate that humans review any such content before publication. On Monday, Senator Patricia Fahy (D-Albany) and Assemblymember Nily Rozic (D-NYC) introduced the bill, called The New York…
 
-⬆️ 539 • 💬 224 • 1d ago • [Nieman Lab](https://www.niemanlab.org/2026/02/a-new-bill-in-new-york-would-require-disclaimers-on-ai-generated-news-content/)
+⬆️ 541 • 💬 224 • 1d ago • [Nieman Lab](https://www.niemanlab.org/2026/02/a-new-bill-in-new-york-would-require-disclaimers-on-ai-generated-news-content/)
 
 ---
 
@@ -223,7 +227,7 @@ SaaS is the most profitable business model on Earth.1 It’s easy to understand 
 
 AI is rarely optional anymore, but how can you still be proud of your craft? Discover the workflow to effectively write high-quality, robust code using AI tools.
 
-⬆️ 243 • 💬 186 • 16h ago • [heidenstedt.org](https://heidenstedt.org/posts/2026/how-to-effectively-write-quality-code-with-ai/)
+⬆️ 251 • 💬 194 • 16h ago • [heidenstedt.org](https://heidenstedt.org/posts/2026/how-to-effectively-write-quality-code-with-ai/)
 
 ---
 
@@ -231,7 +235,7 @@ AI is rarely optional anymore, but how can you still be proud of your craft? Dis
 
 A minimal, secure Python interpreter written in Rust for use by AI - pydantic/monty
 
-⬆️ 209 • 💬 103 • 14h ago • [GitHub](https://github.com/pydantic/monty)
+⬆️ 219 • 💬 116 • 14h ago • [GitHub](https://github.com/pydantic/monty)
 
 ---
 
@@ -239,7 +243,7 @@ A minimal, secure Python interpreter written in Rust for use by AI - pydantic/mo
 
 Women in rural communities describe trauma of moderating violent and pornographic content for global tech companies
 
-⬆️ 111 • 💬 184 • 1d ago • [the Guardian](https://www.theguardian.com/global-development/2026/feb/05/in-the-end-you-feel-blank-indias-female-workers-watching-hours-of-abusive-content-to-train-ai)
+⬆️ 112 • 💬 185 • 1d ago • [the Guardian](https://www.theguardian.com/global-development/2026/feb/05/in-the-end-you-feel-blank-indias-female-workers-watching-hours-of-abusive-content-to-train-ai)
 
 ---
 
@@ -261,7 +265,7 @@ Give your AI agent a browser that actually works
 
 Fears over AI spending have sparked a sell-off among tech stocks.
 
-⬆️ 88 • 💬 84 • 20h ago • [CNBC](https://www.cnbc.com/2026/02/06/ai-sell-off-stocks-amazon-oracle.html)
+⬆️ 88 • 💬 84 • 21h ago • [CNBC](https://www.cnbc.com/2026/02/06/ai-sell-off-stocks-amazon-oracle.html)
 
 ---
 
@@ -283,7 +287,7 @@ The White House deleted a video posted on President Trump's Truth Social that in
 
 📺 New York Post
 
-👁️ 26K • 👍 242 • 💬 482 • ⏱️ 2:07 • 14h ago
+👁️ 27K • 👍 247 • 💬 521 • ⏱️ 2:07 • 14h ago
 
 ---
 
@@ -293,7 +297,7 @@ In this video, I show you how to take full control of your local AI by building 
 
 📺 Cyb3rMaddy
 
-👁️ 10K • 👍 887 • 💬 92 • ⏱️ 6:51 • 18h ago
+👁️ 11K • 👍 931 • 💬 96 • ⏱️ 6:51 • 19h ago
 
 ---
 
@@ -303,7 +307,7 @@ In this video, I show you how to take full control of your local AI by building 
 
 📺 Neil McCoy-Ward
 
-👁️ 60K • 👍 5K • 💬 493 • ⏱️ 19:58 • 20h ago
+👁️ 61K • 👍 5K • 💬 506 • ⏱️ 19:58 • 20h ago
 
 ---
 
@@ -313,7 +317,7 @@ Humanoid robots just entered a new phase of realism. In Shanghai, DroidUp reveal
 
 📺 AI Revolution
 
-👁️ 161K • 👍 3K • 💬 682 • ⏱️ 13:31 • 2d ago
+👁️ 164K • 👍 4K • 💬 687 • ⏱️ 13:31 • 2d ago
 
 ---
 
@@ -323,17 +327,17 @@ Krystal and Saagar discuss tech stocks tumbling amid emerging new fears of job l
 
 📺 Breaking Points
 
-👁️ 337K • 👍 9K • 💬 2K • ⏱️ 24:33 • 1d ago
+👁️ 339K • 👍 9K • 💬 2K • ⏱️ 24:33 • 1d ago
 
 ---
 
-**[President Trump talks job losses to A.I. and U.S. operation in Venezuela in exclusive interview](https://www.youtube.com/watch?v=J8UxjCRZQpo)**
+**[Is Moltbook PROOF that AI agents are PLOTTING against us?!](https://www.youtube.com/watch?v=WzWBcZd_59E)**
 
-NBC Nightly News anchor Tom Llamas spoke to President Trump about fears of job losses from A.I. President Trump also ...
+Moltbook, a social network for AI agents, has gone viral over the past week. But is it proof that AI agents are becoming conscious, ...
 
-📺 NBC News
+📺 Glenn Beck
 
-👁️ 17K • 👍 89 • 💬 40 • ⏱️ 4:39 • 1d ago
+👁️ 15K • 👍 690 • 💬 137 • ⏱️ 13:28 • 13h ago
 
 ---
 
@@ -343,27 +347,17 @@ Jensen Huang, NVIDIA CEO, joins CNBC's "Halftime Report to discuss the power of 
 
 📺 CNBC Television
 
-👁️ 98K • 👍 1K • 💬 359 • ⏱️ 8:35 • 16h ago
+👁️ 103K • 👍 1K • 💬 399 • ⏱️ 8:35 • 16h ago
 
 ---
 
-**[The Two Best AI Models/Enemies Just Got Released Simultaneously](https://www.youtube.com/watch?v=1PxEziv5XIU)**
+**[I&#39;m Buying This AI Stock As The Market Crashes (Here&#39;s Why)](https://www.youtube.com/watch?v=-zOE636nDpE)**
 
-The two models that you will hear discussed for at least the next two months - Claude Opus 4.6 and GPT 5.3 Codex - just got ...
+Protect your privacy and get 20% off DeleteMe at https://joindeleteme.com/SYMBOL20 AI stocks are crashing but #palantir ( #pltr ...
 
-📺 AI Explained
+📺 Ticker Symbol: YOU
 
-👁️ 43K • 👍 2K • 💬 267 • ⏱️ 19:50 • 18h ago
-
----
-
-**[This UNCENSORED AI Video Generator is Crazy Realistic ](https://www.youtube.com/watch?v=aUd2E9ayyTg)**
-
-Sora 2 and Veo 3 might be dominating the AI space right now, but the moment you try to generate certain content, you hit ...
-
-📺 Brain Project
-
-👁️ 4K • 👍 111 • 💬 11 • ⏱️ 7:10 • 1d ago
+👁️ 77K • 👍 4K • 💬 375 • ⏱️ 16:57 • 1d ago
 
 ---
 
@@ -374,6 +368,16 @@ CNBC's Deirdre Bosa reports on news regarding the software sector. For access to
 📺 CNBC Television
 
 👁️ 106K • 👍 1K • 💬 422 • ⏱️ 3:30 • 2d ago
+
+---
+
+**[A.I Humanoid Fulfills End Times Prophecy And It&#39;s Disturbing](https://www.youtube.com/watch?v=KmxZcqhvvgg)**
+
+Is the rise of AI humanoids the beginning of the end? In this video, we analyze a shocking new clip where an advanced AI ...
+
+📺 Elijah Zielke
+
+👁️ 3K • 👍 141 • 💬 39 • ⏱️ 12:26 • 16h ago
 
 ---
 
@@ -389,19 +393,7 @@ GLM-OCR is a 0.9B parameter multimodal OCR model for complex document understand
 
 `image-to-text`
 
-⬇️ 204,109 • ❤️ 747 • 4d ago
-
----
-
-**[Kimi-K2.5](https://huggingface.co/moonshotai/Kimi-K2.5)**
-
-*Moonshot AI*
-
-Kimi K2.5 is a native multimodal agentic model with 1T parameters, excelling in vision-language understanding and agentic tool use. Its key capabilities include generating code from visual inputs and orchestrating an agent swarm for complex task decomposition and parallel execution.
-
-`image-text-to-text` `170.7B`
-
-⬇️ 335,220 • ❤️ 1,797 • 2d ago
+⬇️ 204,109 • ❤️ 751 • 4d ago
 
 ---
 
@@ -413,7 +405,19 @@ Qwen3-Coder-Next is an 80B parameter (3B active) LLM optimized for coding agents
 
 `text-generation` `79.7B`
 
-⬇️ 53,491 • ❤️ 546 • 3d ago
+⬇️ 53,491 • ❤️ 554 • 3d ago
+
+---
+
+**[Kimi-K2.5](https://huggingface.co/moonshotai/Kimi-K2.5)**
+
+*Moonshot AI*
+
+Kimi K2.5 is a native multimodal agentic model with 1T parameters, excelling in vision-language understanding and agentic tool use. Its key capabilities include generating code from visual inputs and orchestrating an agent swarm for complex task decomposition and parallel execution.
+
+`image-text-to-text` `170.7B`
+
+⬇️ 335,220 • ❤️ 1,803 • 2d ago
 
 ---
 
@@ -425,7 +429,7 @@ Step 3.5 Flash is an efficient, open-source MoE foundation model (11B active par
 
 `text-generation` `199.4B`
 
-⬇️ 11,980 • ❤️ 496 • 5h ago
+⬇️ 11,980 • ❤️ 500 • 6h ago
 
 ---
 
@@ -447,7 +451,7 @@ MiniCPM-o 4.5 is a 9B parameter multimodal LLM excelling in vision, speech, and 
 
 `any-to-any` `9.4B`
 
-⬇️ 5,568 • ❤️ 559 • 19h ago
+⬇️ 5,568 • ❤️ 562 • 19h ago
 
 ---
 
@@ -459,7 +463,7 @@ ACE-Step 1.5 is an open-source text-to-audio music generation model capable of p
 
 `text-to-audio`
 
-⬇️ 19,901 • ❤️ 416 • 3d ago
+⬇️ 19,901 • ❤️ 419 • 4d ago
 
 ---
 
@@ -481,7 +485,7 @@ Qwen3-Coder-Next is an 80B parameter LLM optimized for coding agents, featuring 
 
 `text-generation` `79.7B`
 
-⬇️ 166,132 • ❤️ 203 • 2d ago
+⬇️ 166,132 • ❤️ 204 • 2d ago
 
 ---
 
@@ -642,7 +646,7 @@ Browser automation CLI for AI agents
 
 `TypeScript`
 
-⭐ 13.0k • 🔱 745 • 15h ago
+⭐ 13.0k • 🔱 747 • 16h ago
 
 ---
 
@@ -652,7 +656,7 @@ AI → JSON → UI
 
 `TypeScript`
 
-⭐ 10.1k • 🔱 536 • 11h ago
+⭐ 10.1k • 🔱 537 • 11h ago
 
 ---
 
@@ -672,7 +676,7 @@ The Ultimate Collection of 700+ Agentic Skills for Claude Code/Antigravity/Curso
 
 `Python` `agentic-skills` `ai-agents` `antigravity` `autonomous-coding` `claude-code`
 
-⭐ 7.7k • 🔱 1.6k • 4h ago
+⭐ 7.7k • 🔱 1.6k • 5h ago
 
 ---
 
@@ -682,7 +686,7 @@ Marketing skills for Claude Code and AI agents. CRO, copywriting, SEO, analytics
 
 `claude` `codex` `marketing`
 
-⭐ 6.3k • 🔱 717 • 3d ago
+⭐ 6.3k • 🔱 721 • 3d ago
 
 ---
 
@@ -690,7 +694,7 @@ Marketing skills for Claude Code and AI agents. CRO, copywriting, SEO, analytics
 
 Elevate your AI research writing, no more tedious polishing ✨ 
 
-⭐ 4.3k • 🔱 342 • 2d ago
+⭐ 4.4k • 🔱 349 • 2d ago
 
 ---
 
@@ -708,7 +712,7 @@ OpenSource Claude Cowork. A desktop AI assistant that helps you with programming
 
 `TypeScript`
 
-⭐ 2.8k • 🔱 376 • 15d ago
+⭐ 2.8k • 🔱 377 • 15d ago
 
 ---
 
@@ -720,13 +724,13 @@ Humanizer 的汉化版本，Claude Code Skills，旨在消除文本中 AI 生成
 
 ---
 
-**[Dimillian/CodexMonitor](https://github.com/Dimillian/CodexMonitor)**
+**[dwzhu-pku/PaperBanana](https://github.com/dwzhu-pku/PaperBanana)**
 
-An app to monitor the (Codex) situation
+PaperBanana: Automating Academic Illustration For AI Scientists
 
-`TypeScript` `ai` `codex` `linux` `macos` `tauri-app`
+`JavaScript`
 
-⭐ 2.3k • 🔱 201 • 3h ago
+⭐ 2.3k • 🔱 102 • 4d ago
 
 ---
 

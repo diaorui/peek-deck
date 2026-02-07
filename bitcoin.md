@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-02-07T11:22:46.004250+00:00'
+updated: '2026-02-07T11:45:48.601753+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- videos
 - social
-- news
 - cryptocurrency
+- videos
+- news
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** February 07, 2026 at 11:22 UTC  
+**Last Updated:** February 07, 2026 at 11:45 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,33 +38,33 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $68,116.06
+### $67,933.69
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** +2.3%  
-**7d:** -11.5%  
-**30d:** -24.8%  
-**90d:** -35.9%  
-**1y:** -29.4%  
+**24h:** +1.9%  
+**7d:** -11.8%  
+**30d:** -25.0%  
+**90d:** -36.1%  
+**1y:** -29.7%  
 
 ---
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1368.76B
+**Market Cap:** $1355.35B
 Rank #1
 
 **Circulating Supply:** 19,985,390 BTC
 95.2% of max
 
 **All-Time High:** $126,080.00
--45.7%
+-46.2%
 
 **All-Time Low:** $67.81
-+100832.0%
++99849.9%
 
 ---
 
@@ -83,17 +83,11 @@ Rank #1
 
 ---
 
-**[People who bought bitcoin at $61k yesterday](https://www.reddit.com/r/Bitcoin/comments/1qxw35n/people_who_bought_bitcoin_at_61k_yesterday/)**
-
-12h ago
-
----
-
 **[I’m honestly enjoying the Bitcoin hate right now.](https://www.reddit.com/r/Bitcoin/comments/1qy202k/im_honestly_enjoying_the_bitcoin_hate_right_now/)**
 
 I’m in multiple investment groups with very sharp people, and the skepticism is louder than I’ve heard it in a long time. Even my resident conspiracy-theorist cousin has re-emerged with “proof.” Who knew This was exactly the sentiment we needed, when I thought I’d never again see prices at these levels 😂
 
-8h ago
+9h ago
 
 ---
 
@@ -105,17 +99,15 @@ I got paid today. I get paid every two weeks. I just spent my entire check on bi
 
 ---
 
-**[We are so back](https://www.reddit.com/r/Bitcoin/comments/1qxpeyz/we_are_so_back/)**
+**[People who bought bitcoin at $61k yesterday](https://www.reddit.com/r/Bitcoin/comments/1qxw35n/people_who_bought_bitcoin_at_61k_yesterday/)**
 
-17h ago
+13h ago
 
 ---
 
-**[$69,420](https://www.reddit.com/r/Bitcoin/comments/1qxpmac/69420/)**
+**[We are so back](https://www.reddit.com/r/Bitcoin/comments/1qxpeyz/we_are_so_back/)**
 
-Yes I finally captured it!
-
-16h ago
+17h ago
 
 ---
 
@@ -123,7 +115,15 @@ Yes I finally captured it!
 
 ​
 
-4h ago
+5h ago
+
+---
+
+**[$69,420](https://www.reddit.com/r/Bitcoin/comments/1qxpmac/69420/)**
+
+Yes I finally captured it!
+
+17h ago
 
 ---
 
@@ -135,7 +135,7 @@ Yes I finally captured it!
 
 **[Bitcoin price right now](https://www.reddit.com/r/Bitcoin/comments/1qy7gsr/bitcoin_price_right_now/)**
 
-3h ago
+4h ago
 
 ---
 
@@ -156,14 +156,6 @@ Thanks. God bless you all
 Bitcoin is acting weird. The world’s most famous cryptocurrency has tumbled 44% from its October peak, falling below $70,000 Thursday for the first time in 15 months.
 
 cnn.com • 1d ago
-
----
-
-**[Bitcoin whales and ETFs are baling out of the market; UBS warns: ‘Crypto is not an asset’](https://fortune.com/2026/02/06/bitcoin-price-whales-etf-baling-out-ubs-crypto-is-not-an-asset/)**
-
-“We see few bullish indicators that suggest we may be approaching the bottom,” Jefferies analyst Andrew Moss says.
-
-Fortune • 23h ago
 
 ---
 
@@ -189,6 +181,14 @@ cnn.com • 1d ago
 
 ---
 
+**[Strategy CEO: Bitcoin would need to plunge to $8,000 before balance sheet issues](https://www.theblock.co/post/388774/strategy-ceo-bitcoin-q4-earnings-call)**
+
+Executive Chairman Michael Saylor also addressed quantum computing concerns in bitcoin, framing them as 'horrible FUD.'
+
+The Block • 1d ago
+
+---
+
 **[Michael Saylor Says Strategy ($MSTR) Will Lead Global Bitcoin Effort Against Quantum Threats](https://bitcoinmagazine.com/news/strategy-mstr-will-lead-bitcoin-effort)**
 
 Strategy (MSTR) is moving to take a more active role in preparing Bitcoin for potential future threats from quantum computing.
@@ -197,17 +197,20 @@ Bitcoin Magazine • 18h ago
 
 ---
 
-**[Bitcoin Booster’s $12 Billion Loss Headlines Crypto’s Worst Day Since 2022 Crash](https://www.wsj.com/finance/currencies/strategy-earnings-fourth-2025-33688dab?gaa_at=eafs&gaa_n=AWEtsqcST_s0tbNuYYKESOD8_V25BwEhTdOziVvBXI84uMm4fZYBNpDpQzoC&gaa_ts=6987170e&gaa_sig=J-ksjGqu9GurvhneuRTDV0BBf50a4xg7WScHjpSZoXz6UyZN3pC-J5NVnon5sOLpmTaiVJMPc3gP8SFzrDxbBA%3D%3D)**
+**[Bitcoin is falling and taking Strategy down with it](https://finance.yahoo.com/news/bitcoin-is-falling-and-taking-strategy-down-with-it-110059690.html)**
 
-The Wall Street Journal • 1d ago
+The excitement crypto drew from the tech world is being redirected to the AI trade, which is acting like a wrecking ball to software assets.
+
+Yahoo Finance • 22h ago
 
 ---
 
-**[How Bitcoin's Crash Battered Michael Saylor's Strategy, in 3 Charts](https://www.businessinsider.com/mstr-stock-price-bitcoin-crash-michael-saylor-strategy-losses-2026-2)**
+**[South Korean crypto firm accidentally sends $44 billion in bitcoin to
+users](https://www.cnbc.com/2026/02/07/south-korean-crypto-firm-accidentally-sends-out-44-billion-in-bitcoin.html)**
 
-Strategy, Michael Saylor's iconic bitcoin treasury, has seen its stock plunge and its cost basis for its bitcoin trove soar amid the token's bear market.
+The move triggered a sharp selloff on the Bithumb exchange. The company apologized for the mistake.
 
-Business Insider • 19h ago
+CNBC • 1h ago
 
 ---
 
@@ -223,7 +226,7 @@ France 24 • 5h ago
 
 Bithumb reportedly made a mistake that led to the accidental deposit of large amounts of Bitcoin to various users.
 
-Bitcoin Magazine • 18h ago
+Bitcoin Magazine • 19h ago
 
 ---
 
@@ -315,7 +318,7 @@ Take your personal data back with Incogni! Use code GRAHAM at the link below and
 
 📺 Graham Stephan
 
-👁️ 542K • 👍 19K • 💬 6K • ⏱️ 16:11 • 1d ago
+👁️ 546K • 👍 19K • 💬 6K • ⏱️ 16:11 • 1d ago
 
 ---
 
@@ -325,7 +328,7 @@ Bitcoin has been in a free-fall the past few months. At one point yesterday, it 
 
 📺 From The Desk Of Anthony Pompliano
 
-👁️ 27K • 👍 1K • 💬 176 • ⏱️ 9:43 • 13h ago
+👁️ 29K • 👍 1K • 💬 225 • ⏱️ 9:43 • 13h ago
 
 ---
 
@@ -335,37 +338,27 @@ Bitcoin's record volatility is sending shockwaves through the crypto market—ar
 
 📺 Discover Crypto
 
-👁️ 11K • 👍 133 • 💬 27 • ⏱️ 0:26 • 16h ago
+👁️ 13K • 👍 140 • 💬 28 • ⏱️ 0:26 • 16h ago
 
 ---
 
-**[Is Bitcoin Dead?](https://www.youtube.com/watch?v=X8IBAatr0Q0)**
+**[“$2 Trillion LOST In Crypto” - Bitcoin &amp; XRP Wobble As CRYPTO CRASH Fears Grow](https://www.youtube.com/watch?v=_bT0NBL2hfk)**
 
-Bitcoin didn't die when the price crashed. What died is the illusion that money ever worked the way we were told. This breakdown ...
+Bitcoin plunges as crypto markets lose trillions, sparking debate over whether BTC is truly an inflation hedge or just another risk ...
 
-📺 Simply Bitcoin
+📺 Valuetainment
 
-👁️ 11K • 👍 908 • 💬 214 • ⏱️ 13:18 • 10h ago
-
----
-
-**[This is typical volatility for bitcoin, says SkyBridge&#39;s Scaramucci](https://www.youtube.com/watch?v=PxHIJlojXTg)**
-
-CNBC's “Closing Bell Overtime” team discusses cryptocurrencies, bitcoin's volatile week and more with Anthony Scaramucci, ...
-
-📺 CNBC Television
-
-👁️ 23K • 👍 238 • 💬 160 • ⏱️ 4:14 • 13h ago
+👁️ 111K • 👍 2K • 💬 925 • ⏱️ 14:38 • 14h ago
 
 ---
 
-**[Bitcoin Is In A Free Fall](https://www.youtube.com/watch?v=AFs9O7Y6QME)**
+**[BITCOIN: EMERGENCY UPDATE!!! ⚠️ #BTC Price Prediction &amp; Crypto Crash News Today](https://www.youtube.com/watch?v=L-p4TRu-xx4)**
 
-https://democratizedprime.pxf.io/c/2406113/3755092/37696 Enter to win $25k USDC with Democratized Prime while earning ~9% ...
+MEXC: Trade with Ultra-low trading fees Sign up: https://www.mexc.com/register?inviteCode=mexc-RT1M (must use this link) ...
 
-📺 Aaron Bennett
+📺 Road To $1 Million USD
 
-👁️ 36K • 👍 1K • 💬 818 • ⏱️ 13:47 • 2d ago
+👁️ 8K • 👍 243 • 💬 65 • ⏱️ 8:50 • 1d ago
 
 ---
 
@@ -379,13 +372,33 @@ Make Free Predictions on *ClashPicks* ▻ https://www.clashpicks.com/ Follow Cla
 
 ---
 
+**[Bitcoin Is In A Free Fall](https://www.youtube.com/watch?v=AFs9O7Y6QME)**
+
+https://democratizedprime.pxf.io/c/2406113/3755092/37696 Enter to win $25k USDC with Democratized Prime while earning ~9% ...
+
+📺 Aaron Bennett
+
+👁️ 36K • 👍 1K • 💬 827 • ⏱️ 13:47 • 2d ago
+
+---
+
+**[Bitcoin Touches $67,000. How Much Lower Can it Go?](https://www.youtube.com/watch?v=pwxruun7QFc)**
+
+Bitcoin tumbled well below $70000 as the unwinding of leveraged bets and broader market turbulence deepened a selloff that's ...
+
+📺 Bloomberg Television
+
+👁️ 60K • 👍 425 • 💬 431 • ⏱️ 3:14 • 1d ago
+
+---
+
 **[DID JEFF INVENT BITCOIN?](https://www.youtube.com/watch?v=D2rbPG_Ncnw)**
 
 Did Jeffrey invent Bitcoin? This viral theory is blowing up across crypto circles, so we break it down, separate facts from fiction, and ...
 
 📺 Discover Crypto
 
-👁️ 46K • 👍 783 • 💬 94 • ⏱️ 2:44 • 2d ago
+👁️ 56K • 👍 905 • 💬 98 • ⏱️ 2:44 • 2d ago
 
 ---
 
@@ -394,16 +407,6 @@ Did Jeffrey invent Bitcoin? This viral theory is blowing up across crypto circle
 📺 Moshe Iceberg
 
 👁️ 778 • 👍 18 • 💬 1 • ⏱️ 1:00 • 15h ago
-
----
-
-**[WARNING: BITCOIN COULD MAKE NEW LOWS SOON?!?](https://www.youtube.com/watch?v=55jNfDY2SoY)**
-
-The markets added $1.2 trillion in market cap today, now is this a good time to buy the dip or are we going to crash again? Here is ...
-
-📺 Ricky Gutierrez
-
-👁️ 8K • 👍 389 • 💬 162 • ⏱️ 12:15 • 11h ago
 
 ---
 

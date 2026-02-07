@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-02-07T11:22:46.010150+00:00'
+updated: '2026-02-07T11:45:48.607776+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- videos
 - social
-- news
 - cryptocurrency
+- videos
+- news
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** February 07, 2026 at 11:22 UTC  
+**Last Updated:** February 07, 2026 at 11:45 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,27 +42,27 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** +4.2%  
-**7d:** -11.3%  
-**30d:** -34.8%  
-**90d:** -43.5%  
-**1y:** -23.6%  
+**24h:** +4.5%  
+**7d:** -11.5%  
+**30d:** -34.9%  
+**90d:** -43.6%  
+**1y:** -23.8%  
 
 ---
 
 ## Ethereum Market Stats
 
-**Market Cap:** $243.96B
+**Market Cap:** $242.49B
 Rank #2
 
 **Circulating Supply:** 120,692,655 ETH
 No max supply
 
 **All-Time High:** $4,946.05
--59.1%
+-59.4%
 
 **All-Time Low:** $0.43
-+466703.2%
++463763.1%
 
 ---
 
@@ -100,19 +100,19 @@ im jef, and im honestly just starting to get into crypto, trying to understand h
 
 ---
 
+**[[ Removed by Reddit ]](https://www.reddit.com/r/ethereum/comments/1qxnwvb/removed_by_reddit/)**
+
+[ Removed by Reddit on account of violating the content policy. ]
+
+18h ago
+
+---
+
 **[Ethereum / Solidity good lyrics](https://www.reddit.com/r/ethereum/comments/1qxa1xp/ethereum_solidity_good_lyrics/)**
 
 Good morning, could anyone recommend some good reading material to learn more about the Ethereum blockchain and smart contract development/deployment? I'm an IT professional, so even fairly technical material is fine, but I'd like to have a good overview first before moving on to the development side of things.
 
 1d ago
-
----
-
-**[[ Removed by Reddit ]](https://www.reddit.com/r/ethereum/comments/1qxnwvb/removed_by_reddit/)**
-
-[ Removed by Reddit on account of violating the content policy. ]
-
-17h ago
 
 ---
 
@@ -174,6 +174,14 @@ Yahoo Finance • 1d ago
 
 ---
 
+**[Coinbase's Crypto-Backed Loans Notch Record Liquidations Amid Bitcoin, Ethereum Plunge](https://decrypt.co/357265/coinbases-loans-record-liquidations-bitcoin-ethereum-plunge)**
+
+Coinbase customers faced losses in fresh ways through the exchange’s crypto-backed lending product as Bitcoin and Ethereum tumbled this week.
+
+Decrypt • 16h ago
+
+---
+
 **[Crypto networks respond after Vitalik Buterin told them they 'no longer makes sense' for Ethereum](https://www.coindesk.com/business/2026/02/04/from-ethereum-s-sidekick-to-standalone-stars-how-vitalik-buterin-s-latest-pivot-is-forcing-layer-2s-to-grow-up)**
 
 Leaders across the layer-2 space don't see this moment as an existential threat, but rather that Ethereum’s progress is forcing them to clarify their purpose.
@@ -198,31 +206,23 @@ Decrypt • 2d ago
 
 ---
 
-**[Coinbase's Crypto-Backed Loans Notch Record Liquidations Amid Bitcoin, Ethereum Plunge](https://decrypt.co/357265/coinbases-loans-record-liquidations-bitcoin-ethereum-plunge)**
-
-Coinbase customers faced losses in fresh ways through the exchange’s crypto-backed lending product as Bitcoin and Ethereum tumbled this week.
-
-Decrypt • 16h ago
-
----
-
 **[Ethereum Price Prediction: Alarming Bearish Signals Suggest ETH Could Plunge Below $2,000](https://www.binance.com/en/square/post/35999941537161)**
 
 Binance • 3d ago
 
 ---
 
-**[Bitcoin, XRP, Ethereum Drop. Why Cryptos Are Under Pressure Today.](https://www.barrons.com/articles/bitcoin-xrp-ethereum-cryptos-gold-9051820f?gaa_at=eafs&gaa_n=AWEtsqcF7mTU3kXayCOF0gIASds6H8DO_77YDBOuf9wxXeSjetFJRr4HN-6f&gaa_ts=69871710&gaa_sig=GP9FZCHcYKkEV8UZzzqfpjK5fu0Qk1g12j1XN3WdfwDAVHsDl1g2Gt6uKMA8m3r6VgMvdoJx_Jp-tET6UCTVBw%3D%3D)**
+**[Crypto prices on Friday: Bitcoin, Ethereum and more tick upward](https://mashable.com/article/crypto-bitcoin-ethereum-prices-tick-upward-friday-2-6-2026)**
 
-Barron's • 2d ago
+Prices are climbing back up after the biggest crypto crash since 2022.
+
+Mashable • 1d ago
 
 ---
 
-**[Here's What Needs to Happen for Ethereum to Hit $5,000 This Year](https://www.fool.com/investing/2026/02/05/heres-what-needs-to-happen-for-ethereum-to-hit-500/)**
+**[Bitcoin, XRP, Ethereum Drop. Why Cryptos Are Under Pressure Today.](https://www.barrons.com/articles/bitcoin-xrp-ethereum-cryptos-gold-9051820f?gaa_at=eafs&gaa_n=AWEtsqerMp_r-T6gxYvOtEaqI6J9MI3dAgeObr9QsoLRA4l2s7S7zmv7wwxc&gaa_ts=6987295a&gaa_sig=HJNzvzQXWoz0_aeWPQ1akVbIVDRoz4m7IvIhbGInRCtPAAAz6yC9C4qEvaX7weBnEpIOz7ug5x4-66v0iaWcDg%3D%3D)**
 
-Will 2026 be the year investors see the price they've dreamed of?
-
-The Motley Fool • 1d ago
+Barron's • 2d ago
 
 ---
 
@@ -236,7 +236,7 @@ One of the biggest crypto crashes in history! Here is what happened, why and my 
 
 📺 Thomas Kralow
 
-👁️ 28K • 👍 1K • 💬 83 • ⏱️ 11:51 • 22h ago
+👁️ 30K • 👍 1K • 💬 83 • ⏱️ 11:51 • 22h ago
 
 ---
 
@@ -246,7 +246,7 @@ Uhh... so... is anyone else getting that strange feeling that something big is a
 
 📺 Money Rules - Investing Tips 
 
-👁️ 12K • 👍 2K • 💬 229 • ⏱️ 13:13 • 20h ago
+👁️ 12K • 👍 2K • 💬 231 • ⏱️ 13:13 • 20h ago
 
 ---
 
@@ -256,7 +256,7 @@ This video provides a professional Elliott Wave and technical analysis of Ethere
 
 📺 More Crypto Online
 
-👁️ 2K • 👍 173 • 💬 19 • ⏱️ 4:02 • 10h ago
+👁️ 3K • 👍 179 • 💬 19 • ⏱️ 4:02 • 11h ago
 
 ---
 
@@ -266,7 +266,7 @@ Tom Lee, Fundstrat, joins 'Closing Bell' to discuss the state of crypto markets,
 
 📺 CNBC Television
 
-👁️ 42K • 👍 564 • 💬 295 • ⏱️ 3:53 • 14h ago
+👁️ 45K • 👍 596 • 💬 317 • ⏱️ 3:53 • 14h ago
 
 ---
 
@@ -276,7 +276,17 @@ My FREE Daily 5-Min Crypto Newsletter: https://www.cryptonutshell.com/subscribe 
 
 📺 Crypto Nutshell
 
-👁️ 16K • 👍 442 • 💬 153 • ⏱️ 22:22 • 1d ago
+👁️ 16K • 👍 449 • 💬 153 • ⏱️ 22:22 • 1d ago
+
+---
+
+**[WHY ETH MAY CRASH AGAIN🚨 (Ethereum Price Prediction 2026)](https://www.youtube.com/watch?v=P4mMFFYwyRs)**
+
+ETHEREUM ETH PRICE PREDICTION 2026 Join the Premium Signal Group for trade setups, mentorship & a community ...
+
+📺 Cilinix Crypto
+
+👁️ 85 • 👍 8 • 💬 4 • ⏱️ 5:23 • 1h ago
 
 ---
 
@@ -286,27 +296,7 @@ BITCOIN CRASH OVER: My $5 Million Trading Strategy!!! - Bitcoin News Today, Ethe
 
 📺 Crypto World
 
-👁️ 8K • 👍 364 • 💬 142 • ⏱️ 22:22 • 12h ago
-
----
-
-**[The Ethereum Bottom ISN&#39;T In Yet.](https://www.youtube.com/watch?v=zFcWMpTYIQA)**
-
-Get $450 Off Our New AI Indicators: https://tradeconfidentportal.io/indic... Join Trade Confident: Get 25% Off Your 1st Month: ...
-
-📺 Trade Confident
-
-👁️ 556 • 👍 20 • 💬 5 • ⏱️ 5:06 • 15h ago
-
----
-
-**[“This Crash Might Be the Setup Most Crypto Holders Are Missing&quot; – Matt Hougan](https://www.youtube.com/watch?v=gMUdNWz4eaI)**
-
-Take Control of Your Retirement — Grow Crypto & Gold Tax-Advantaged. https://www.itrustcapital.com/go/savvy-finance If you're ...
-
-📺 Savvy Finance
-
-👁️ 8K • 👍 336 • 💬 11 • ⏱️ 20:57 • 1d ago
+👁️ 9K • 👍 387 • 💬 146 • ⏱️ 22:22 • 12h ago
 
 ---
 
@@ -320,13 +310,23 @@ Join Premium: https://the-bitcoin-strategy.com My Chart Software: https://the-bi
 
 ---
 
-**[Bitcoin Crash! When Will Bitcoin find its bottom?](https://www.youtube.com/watch?v=HomdrRMyGeM)**
+**[“This Crash Might Be the Setup Most Crypto Holders Are Missing&quot; – Matt Hougan](https://www.youtube.com/watch?v=gMUdNWz4eaI)**
 
-Where does Bitcoin find its bottom? This past week we've seen a significant Bitcoin selloff with BTC crashing from $97K to $66K in ...
+Take Control of Your Retirement — Grow Crypto & Gold Tax-Advantaged. https://www.itrustcapital.com/go/savvy-finance If you're ...
 
-📺 VirtualBacon
+📺 Savvy Finance
 
-👁️ 44K • 👍 2K • 💬 434 • ⏱️ 49:08 • 1d ago
+👁️ 8K • 👍 339 • 💬 11 • ⏱️ 20:57 • 1d ago
+
+---
+
+**[The Ethereum Bottom ISN&#39;T In Yet.](https://www.youtube.com/watch?v=zFcWMpTYIQA)**
+
+Get $450 Off Our New AI Indicators: https://tradeconfidentportal.io/indic... Join Trade Confident: Get 25% Off Your 1st Month: ...
+
+📺 Trade Confident
+
+👁️ 582 • 👍 21 • 💬 5 • ⏱️ 5:06 • 16h ago
 
 ---
 
