@@ -3,14 +3,14 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-02-07T22:56:56.002553+00:00'
+updated: '2026-02-07T23:35:43.929431+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
+- videos
 - social
 - news
-- videos
 - cryptocurrency
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** February 07, 2026 at 22:56 UTC  
+**Last Updated:** February 07, 2026 at 23:35 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,17 +38,17 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $69,470.99
+### $69,440.68
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** -1.5%  
-**7d:** -9.7%  
-**30d:** -23.2%  
-**90d:** -34.6%  
-**1y:** -28.0%  
+**24h:** -1.2%  
+**7d:** -10.1%  
+**30d:** -23.6%  
+**90d:** -34.9%  
+**1y:** -28.3%  
 
 ---
 
@@ -77,6 +77,14 @@ Rank #1
 
 ## Reddit: r/Bitcoin
 
+**[Self-custody is becoming a trap for retail investors. There, I said it.](https://www.reddit.com/r/Bitcoin/comments/1qyqedd/selfcustody_is_becoming_a_trap_for_retail/)**
+
+We need to stop acting like it’s 2013. The "Not your keys, not your coins" mantra has become a dangerous dogma that’s causing more harm than good for the average person entering the space today. I’ve seen more people lose their life savings because of a lost seed phrase, a compromised hot wallet, or a $500 "safe" hardware device that they didn't know how to update, than people losing money on Top-Tier exchanges in the last 3 years. Here is the uncomfortable truth: User Error > Exchange Risk: For 90% of people, a regulated, multi-billion dollar exchange with 2FA, Biometrics, and Insurance is objectively safer than a piece of paper hidden under a mattress. The "Freedom" is a lie: You aren't "free" when you're terrified to send a test transaction because one typo means your money is gone forever. The UX of Wallets is trash: Until we have seamless account abstraction, telling a grandma to use a cold wallet is basically telling her to set her money on fire. Most of you are gatekeeping crypto by forcing 15-year-old security standards on a 2026 market. If we want mass adoption, we have to admit that centralized, secure platforms are the superior choice for the masses. Downvote me all you want, but you know I’m right. I’d rather have my funds insured on a pro-tier exchange than rely on my own ability not to lose a 12-word string for the next 20 years. Change my mind. Or tell me why you still enjoy the anxiety of being your own bank.
+
+1h ago
+
+---
+
 **[HODLing BTC](https://www.reddit.com/r/Bitcoin/comments/1qyk286/hodling_btc/)**
 
 HODL strong through the storms; the future rewards the patient. 🚀 🙌
@@ -101,7 +109,7 @@ If you see blockchain activity whales are clearly accumulating taking BTC outsid
 
 **[Buy The dip](https://www.reddit.com/r/Bitcoin/comments/1qygmls/buy_the_dip/)**
 
-7h ago
+8h ago
 
 ---
 
@@ -117,7 +125,7 @@ My mother barely uses Facebook and has zero interest in technology or finance. Y
 
 ​
 
-16h ago
+17h ago
 
 ---
 
@@ -129,23 +137,17 @@ Basically
 
 ---
 
-**[We are so back](https://www.reddit.com/r/Bitcoin/comments/1qxpeyz/we_are_so_back/)**
-
-1d ago
-
----
-
-**[Look babe, bitcoin went up 9% today](https://www.reddit.com/r/Bitcoin/comments/1qy03oz/look_babe_bitcoin_went_up_9_today/)**
-
-21h ago
-
----
-
 **[Bought my first piece of bitcoin](https://www.reddit.com/r/Bitcoin/comments/1qylwwo/bought_my_first_piece_of_bitcoin/)**
 
 Yup u heard it here First Ladies n gents. Bought $200 worth of btc during this dip. Safe to say we're holding till the moon 😎
 
 4h ago
+
+---
+
+**[We are so back](https://www.reddit.com/r/Bitcoin/comments/1qxpeyz/we_are_so_back/)**
+
+1d ago
 
 ---
 
@@ -166,7 +168,7 @@ users](https://www.cnbc.com/2026/02/07/south-korean-crypto-firm-accidentally-sen
 
 The move triggered a sharp selloff on the Bithumb exchange. The company apologized for the mistake.
 
-CNBC • 12h ago
+CNBC • 13h ago
 
 ---
 
@@ -178,11 +180,11 @@ Yahoo Finance • 1d ago
 
 ---
 
-**[No, but seriously: What’s going on with bitcoin?](https://www.cnn.com/2026/02/05/investing/bitcoin-price)**
+**[Trump promised a crypto revolution. So why is bitcoin crashing?](https://www.npr.org/2026/02/07/nx-s1-5704279/trump-crypto-bitcoin-winter)**
 
-Bitcoin is acting weird. The world’s most famous cryptocurrency has tumbled 44% from its October peak, falling below $70,000 Thursday for the first time in 15 months.
+Trump got elected promising to usher in a crypto revolution. More than a year later, bitcoin's price has come tumbling down. What happened?
 
-cnn.com • 2d ago
+NPR • 13h ago
 
 ---
 
@@ -194,19 +196,13 @@ Yahoo Finance • 2h ago
 
 ---
 
-**[Bitcoin price analysis: BTC is seeing accumulation across all cohorts, according to Glassnode](https://www.coindesk.com/markets/2026/02/06/broad-based-bitcoin-accumulation-emerges-after-sharp-capitulation)**
+**[Crypto Exchange Bithumb Mistakenly Sent $44 Billion Bitcoin to Users](https://www.theinformation.com/briefings/crypto-exchange-bithumb-mistakenly-sent-44-billion-bitcoin-users)**
 
-Glassnode data is showing buying across all cohorts of bitcoin holders.
+Bithumb, the second largest crypto exchange in South Korea, said it mistakenly gave away 620,000 bitcoin, worth about $44 billion, to users, and has recovered 99.7% of the money. 
 
-CoinDesk • 1h ago
+ Bithumb was planning to distribute cash rewards to users in Korean won during a promotional event on Friday, but mistakenly sent bitcoin instead. The exchange discovered its mistake within 20 minutes and blocked
 
----
-
-**[Can Bitcoin Benefit From Artificial Intelligence?](https://www.fool.com/investing/2026/02/07/can-bitcoin-benefit-from-artificial-intelligence/)**
-
-It's possible, but it won't happen tomorrow.
-
-The Motley Fool • 3h ago
+The Information • 1h ago
 
 ---
 
@@ -224,11 +220,17 @@ The Block • 1d ago
 
 ---
 
-**[Strategy stock rallies amid bitcoin losses, Stellantis plunges](https://finance.yahoo.com/video/strategy-stock-rallies-amid-bitcoin-143327192.html)**
+**[Michael Saylor Under Fire After Claiming Bitcoin Will Surge To $10M Tomorrow If ‘People Agreed With Him'](https://finance.yahoo.com/news/michael-saylor-under-fire-claiming-120215693.html)**
 
-Morning Brief Host Julie Hyman and Yahoo Finance Markets and Data Editor Jared Blikre track several of the day's top trending stock tickers, including Strategy (MSTR) rallying in Friday's pre-market after being dragged lower as bitcoin (BTC-USD) tumbled below $70,000 per token, shares of US automaker Stellantis (STLA) plunging as it looks to write down $26 billion in charges, and Reddit stock (RDDT) getting a lift on its earnings results and $1 billion share buyback program. To watch more expert insights and analysis on the latest market action, check out more&nbsp;Morning Brief.
+Michael Saylor’s $10 million Bitcoin claim sparks backlash. It comes as Strategy’s losses deepen as Bitcoin price slides. Whether Saylor will sell Bitcoin remains possible. ...
 
-Yahoo Finance • 1d ago
+Yahoo Finance • 2d ago
+
+---
+
+**[Strategy's Saylor Touts 'Crypto President' As Bitcoin Plunges](https://www.investors.com/news/strategy-earnings-q4-bitcoin-price-mstr-plunge-michael-saylor/)**
+
+Investor's Business Daily • 2d ago
 
 ---
 
@@ -292,7 +294,7 @@ Bitcoin behaves more like an "ATM" during uncertain times, with investors quickl
 
 Bithumb, Korea's second-largest cryptocurrency exchange, mistakenly credited users with Bitcoin worth approximately 260 billion won ($195 million), instead of the modest number of reward points or Bitcoin that it had intended to distribute.
 
-⬆️ 3 • 💬 0 • 5h ago • [koreajoongangdaily.joins.com](https://koreajoongangdaily.joins.com/news/2026-02-07/business/finance/Crypto-exchange-Bithumb-mistakenly-hands-out-195M-in-Bitcoin-to-users-in-Random-Box-giveaway/2518495)
+⬆️ 3 • 💬 0 • 6h ago • [koreajoongangdaily.joins.com](https://koreajoongangdaily.joins.com/news/2026-02-07/business/finance/Crypto-exchange-Bithumb-mistakenly-hands-out-195M-in-Bitcoin-to-users-in-Random-Box-giveaway/2518495)
 
 ---
 
@@ -390,7 +392,7 @@ Bitcoin insane price collapse, but where is the bottom for BTC? BITUNIX TRADE TH
 
 📺 Lark Davis
 
-👁️ 13K • 👍 729 • 💬 111 • ⏱️ 14:26 • 7h ago
+👁️ 13K • 👍 729 • 💬 111 • ⏱️ 14:26 • 8h ago
 
 ---
 

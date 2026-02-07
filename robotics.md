@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-02-07T22:56:56.011571+00:00'
+updated: '2026-02-07T23:35:43.938697+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- news
 - videos
 - social
+- news
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** February 07, 2026 at 22:56 UTC  
+**Last Updated:** February 07, 2026 at 23:35 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -36,7 +36,7 @@ Robotics research and industry news
 
 Pantograph website: https://pantograph.com/ Pantograph on 𝕏: http://x.com/pantographPBC
 
-10h ago
+11h ago
 
 ---
 
@@ -44,7 +44,15 @@ Pantograph website: https://pantograph.com/ Pantograph on 𝕏: http://x.com/pan
 
 The chest finally finished printing after 5 days of printing. I assembled it and so far it looks like this, i still have to build the right arm and mount them. I know it may not look that good but it’s my first time doing such a big project and i’m still learning.
 
-6h ago
+7h ago
+
+---
+
+**[Redesigning the environment for the robot may be cheaper and more efficient than redesigning the robot for the environment.](https://www.reddit.com/r/robotics/comments/1qyc1eb/redesigning_the_environment_for_the_robot_may_be/)**
+
+There is the popular argument for why having a humanoid robot would be the best way to do things: "because the environment is human shaped/designed for humans." However, why are we assuming it would be necessarily harder to redesign the environment so a simpler non-humanoid robot can make use of it rather than recreating the entire human body and all its complexities in robot form while trying to make it suitable to many different varying environments? Also, this argument implies the environment is exclusively human shaped, meaning a machine with human shapes and function is the only way forward in order for it traverse and interact with the environment, but this is not true. For instance, a flat floor, which is designed for human use, also allows use by a non-humanoid robot with wheels.
+
+11h ago
 
 ---
 
@@ -62,14 +70,6 @@ From CyberRobo on 𝕏: https://x.com/CyberRobooo/status/2019598569909743755
 
 ---
 
-**[Redesigning the environment for the robot may be cheaper and more efficient than redesigning the robot for the environment.](https://www.reddit.com/r/robotics/comments/1qyc1eb/redesigning_the_environment_for_the_robot_may_be/)**
-
-There is the popular argument for why having a humanoid robot would be the best way to do things: "because the environment is human shaped/designed for humans." However, why are we assuming it would be necessarily harder to redesign the environment so a simpler non-humanoid robot can make use of it rather than recreating the entire human body and all its complexities in robot form while trying to make it suitable to many different varying environments? Also, this argument implies the environment is exclusively human shaped, meaning a machine with human shapes and function is the only way forward in order for it traverse and interact with the environment, but this is not true. For instance, a flat floor, which is designed for human use, also allows use by a non-humanoid robot with wheels.
-
-10h ago
-
----
-
 **[Parts I Have for a Self-Balancing Robot Project](https://www.reddit.com/r/robotics/comments/1qym0yo/parts_i_have_for_a_selfbalancing_robot_project/)**
 
 Hi everyone, I’m planning to build a self-balancing robot and I wanted to share the parts I currently have before moving forward. Parts I have: Arduino Nano (ATmega328P) MPU6050 (accelerometer + gyroscope) TB6612FNG dual motor driver DC motors (3–6 V) Battery pack ~8 V, 2600 mAh 2× electrolytic capacitors (1000 µF, 16 V) Wheels and a rigid homemade chassis The goal is to make a robot that can balance itself upright using these components. I’m still in the early stages and would appreciate any general advice or things to watch out for when building a self-balancing robot with this kind of setup. Thanks!
@@ -82,7 +82,7 @@ Hi everyone, I’m planning to build a self-balancing robot and I wanted to shar
 
 Once again, Boston Dynamics just leaving everyone in the dust. Watch all the chinese copycats try to do the same thing. https://www.youtube.com/watch?v=UNorxwlZlFk
 
-35m ago
+1h ago
 
 ---
 
@@ -90,7 +90,7 @@ Once again, Boston Dynamics just leaving everyone in the dust. Watch all the chi
 
 My boyfriend is a computer science major and is about to graduate. He’s really into robotics, especially humanoid robots, and he currently works in a research lab where they’re building a humanoid that can catch objects. Most of what I see him doing is simulation and coding work on his computer. Last year I got him an Arduino kit, and he already has a toolkit, but he doesn’t really use either one much on his own (as far as I see). He’s pretty thrifty and values practicality over “cool” gadgets. For context, he uses a Mac and has a portable monitor that fits in his backpack. He doesn’t currently use an external keyboard or mouse, but I don’t think he cares much about those. I want to get him something he’ll genuinely use in his future work. Since he mostly works in teams through his lab/club (not solo at-home build projects), I’m not looking for another kit. Any gift ideas from people in CS/robotics, or partners of people in this field, that are truly useful and not gimmicky? Thank you!!
 
-14h ago
+15h ago
 
 ---
 
@@ -106,29 +106,13 @@ Just pushed an update to casadi-on-gpu that lets you generate CUDA kernels direc
 
 I’m working with the UR12E and trying to send movement commands from a desktop. currently using ROS/moveit. I’m creating paths on RViz and they are valid. When pressing “execute” the arm doesn’t move. Sometimes there are errors regarding tolerances (which I’m looking into) and other times it doesn’t return an error, but tells me the movement is planned. previous culprits have been the ros joint controller / ros scaled joint controller (scaled is now being used). has anyone faced similar issues? Keen to be pointed to some places in docs to understand further.
 
-13h ago
+14h ago
 
 ---
 
 ---
 
 ## Google News: "robotics"
-
-**[ETM brings its transverse flux motor technology to robotics](https://www.therobotreport.com/etm-brings-its-transverse-flux-motor-technology-to-robotics/)**
-
-ETM said its TFM technology enables OEMs to simplify mechanical designs, reduce costs, and achieve performance benchmarks.
-
-The Robot Report • 3d ago
-
----
-
-**[Elon Musk warns the U.S. is ‘1,000% going to go bankrupt’ unless AI and robotics save the economy from crushing debt](https://finance.yahoo.com/news/elon-musk-warns-u-1-184828930.html)**
-
-"We just need enough time to build the AI and robots to not go bankrupt before then."
-
-Yahoo Finance • 4h ago
-
----
 
 **[China is running the EV playbook on humanoid robots — and it’s working](https://restofworld.org/2026/china-humanoid-robots-unitree-agibot-tesla-optimus/)**
 
@@ -149,6 +133,14 @@ Interesting Engineering • 1d ago
 Who’s raising our robots? Teaching social norms in the age of humanoid robots.
 
 Fortune • 2d ago
+
+---
+
+**[ETM brings its transverse flux motor technology to robotics](https://www.therobotreport.com/etm-brings-its-transverse-flux-motor-technology-to-robotics/)**
+
+ETM said its TFM technology enables OEMs to simplify mechanical designs, reduce costs, and achieve performance benchmarks.
+
+The Robot Report • 3d ago
 
 ---
 
@@ -176,17 +168,25 @@ The Guardian • 1d ago
 
 ---
 
-**[ASUS IoT Introduces PE1000U Rugged Fanless DIN-Rail Industrial PC for AMR, Robotics, and Computer Vision](https://press.asus.com/news/press-releases/asus-iot-pe1000u-industrial-pc/)**
-
-ASUS IoT PE1000U: Rugged, fanless DIN-rail industrial PC with Intel Core Ultra Series 2. Ideal for AMR, robotics & computer vision at the edge! Subscribe to ASUS Pressroom for the latest tech updates!
-
-ASUS Pressroom • 2d ago
-
----
-
 **[AI-powered robots are coming for trade jobs](https://www.politico.com/newsletters/digital-future-daily/2026/02/04/ai-powered-robots-are-coming-for-trade-jobs-00765584)**
 
 Politico • 3d ago
+
+---
+
+**[Making robots useful and affordable will need better motors](https://www.bbc.com/news/articles/c5y46356zzyo)**
+
+Firms are working to make the motors that drive robots more efficient and cheaper.
+
+BBC • 1d ago
+
+---
+
+**[Elon Musk warns the U.S. is ‘1,000% going to go bankrupt’ unless AI and robotics save the economy from crushing debt](https://finance.yahoo.com/news/elon-musk-warns-u-1-184828930.html)**
+
+"We just need enough time to build the AI and robots to not go bankrupt before then."
+
+Yahoo Finance • 4h ago
 
 ---
 
@@ -200,7 +200,7 @@ Humanoid robots just entered a new phase of realism. In Shanghai, DroidUp reveal
 
 📺 AI Revolution
 
-👁️ 186K • 👍 4K • 💬 807 • ⏱️ 13:31 • 2d ago
+👁️ 186K • 👍 4K • 💬 807 • ⏱️ 13:31 • 3d ago
 
 ---
 
@@ -210,7 +210,7 @@ The Atlas Airborne Robot takes one final research run as Boston Dynamics pushes 
 
 📺 DPCcars
 
-👁️ 531 • 👍 25 • 💬 2 • ⏱️ 2:45 • 3h ago
+👁️ 531 • 👍 25 • 💬 2 • ⏱️ 2:45 • 4h ago
 
 ---
 
@@ -230,7 +230,7 @@ Capybara's golden robot lion was sabotaged by Brianna before the big competition
 
 📺 CapyEscapes
 
-👁️ 30K • 👍 985 • 💬 109 • ⏱️ 0:59 • 11h ago
+👁️ 30K • 👍 985 • 💬 109 • ⏱️ 0:59 • 12h ago
 
 ---
 
@@ -240,7 +240,7 @@ War Robots Gameplay: Sonic Ammit - actually insane build! My War Robots Creator 
 
 📺 Manni-Gaming
 
-👁️ 6K • 👍 347 • 💬 67 • ⏱️ 14:50 • 13h ago
+👁️ 6K • 👍 347 • 💬 67 • ⏱️ 14:50 • 14h ago
 
 ---
 
@@ -250,7 +250,7 @@ A new "class" has arrived at the Shaolin Temple in central China's Henan Provinc
 
 📺 CGTN
 
-👁️ 40K • 👍 403 • 💬 45 • ⏱️ 0:19 • 15h ago
+👁️ 40K • 👍 403 • 💬 45 • ⏱️ 0:19 • 16h ago
 
 ---
 
