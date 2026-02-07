@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-02-07T12:52:04.880047+00:00'
+updated: '2026-02-07T13:44:18.768728+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
+- news
 - social
 - cryptocurrency
 - videos
-- news
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** February 07, 2026 at 12:52 UTC  
+**Last Updated:** February 07, 2026 at 13:44 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -79,7 +79,7 @@ Rank #1
 
 **[Look babe, bitcoin went up 9% today](https://www.reddit.com/r/Bitcoin/comments/1qy03oz/look_babe_bitcoin_went_up_9_today/)**
 
-11h ago
+12h ago
 
 ---
 
@@ -101,13 +101,13 @@ I got paid today. I get paid every two weeks. I just spent my entire check on bi
 
 **[People who bought bitcoin at $61k yesterday](https://www.reddit.com/r/Bitcoin/comments/1qxw35n/people_who_bought_bitcoin_at_61k_yesterday/)**
 
-14h ago
+15h ago
 
 ---
 
 **[We are so back](https://www.reddit.com/r/Bitcoin/comments/1qxpeyz/we_are_so_back/)**
 
-18h ago
+19h ago
 
 ---
 
@@ -115,7 +115,7 @@ I got paid today. I get paid every two weeks. I just spent my entire check on bi
 
 ​
 
-6h ago
+7h ago
 
 ---
 
@@ -123,13 +123,13 @@ I got paid today. I get paid every two weeks. I just spent my entire check on bi
 
 Yes I finally captured it!
 
-18h ago
+19h ago
 
 ---
 
 **[Bitcoin price right now](https://www.reddit.com/r/Bitcoin/comments/1qy7gsr/bitcoin_price_right_now/)**
 
-5h ago
+6h ago
 
 ---
 
@@ -143,7 +143,7 @@ Yes I finally captured it!
 
 Thanks. God bless you all
 
-23h ago
+1d ago
 
 ---
 
@@ -159,13 +159,13 @@ The New York Times • 1d ago
 
 **[Everyone's Calling $59K as Bitcoin's Bottom. Here's Why They're Probably Wrong.](https://www.binance.com/en/square/post/289054124354626)**
 
-Binance • 2h ago
+Binance • 3h ago
 
 ---
 
 **[The Kidnappers Of Savannah Guthrie's Mom Want Bitcoin—But It’s Not As Anonymous As Many Think](https://www.forbes.com/sites/martinadilicosa/2026/02/06/the-kidnappers-of-savannah-guthries-mom-want-bitcoin-but-its-not-as-anonymous-as-many-think/)**
 
-Forbes • 16h ago
+Forbes • 17h ago
 
 ---
 
@@ -197,7 +197,7 @@ The Block • 1d ago
 
 Strategy (MSTR) is moving to take a more active role in preparing Bitcoin for potential future threats from quantum computing.
 
-Bitcoin Magazine • 19h ago
+Bitcoin Magazine • 20h ago
 
 ---
 
@@ -214,7 +214,7 @@ users](https://www.cnbc.com/2026/02/07/south-korean-crypto-firm-accidentally-sen
 
 The move triggered a sharp selloff on the Bithumb exchange. The company apologized for the mistake.
 
-CNBC • 2h ago
+CNBC • 3h ago
 
 ---
 
@@ -278,7 +278,7 @@ Bitcoin behaves more like an "ATM" during uncertain times, with investors quickl
 
 453+ bitcoin treasuries. 3.94M BTC+ BTC tracked on-chain. From Shrimp to Sovereign.
 
-⬆️ 4 • 💬 0 • 2d ago • [bitcoincompanies.co](https://bitcoincompanies.co/)
+⬆️ 4 • 💬 0 • 3d ago • [bitcoincompanies.co](https://bitcoincompanies.co/)
 
 ---
 
@@ -300,7 +300,7 @@ Cryptocurrency markets fell as global equities and precious metals sold off whil
 
 SE050 Hardware Bitcoin Wallet - Self-sovereign Bitcoin wallet powered by NXP SE050 secure element - 0xdeadbeefnetwork/sigil-web
 
-⬆️ 2 • 💬 1 • 5h ago • [GitHub](https://github.com/0xdeadbeefnetwork/sigil-web)
+⬆️ 2 • 💬 1 • 6h ago • [GitHub](https://github.com/0xdeadbeefnetwork/sigil-web)
 
 ---
 
@@ -324,7 +324,7 @@ Bitcoin has been in a free-fall the past few months. At one point yesterday, it 
 
 📺 From The Desk Of Anthony Pompliano
 
-👁️ 29K • 👍 1K • 💬 225 • ⏱️ 9:43 • 14h ago
+👁️ 29K • 👍 1K • 💬 225 • ⏱️ 9:43 • 15h ago
 
 ---
 
@@ -334,7 +334,7 @@ Bitcoin's record volatility is sending shockwaves through the crypto market—ar
 
 📺 Discover Crypto
 
-👁️ 13K • 👍 140 • 💬 28 • ⏱️ 0:26 • 17h ago
+👁️ 13K • 👍 140 • 💬 28 • ⏱️ 0:26 • 18h ago
 
 ---
 
@@ -344,7 +344,7 @@ Bitcoin plunges as crypto markets lose trillions, sparking debate over whether B
 
 📺 Valuetainment
 
-👁️ 111K • 👍 2K • 💬 925 • ⏱️ 14:38 • 15h ago
+👁️ 111K • 👍 2K • 💬 925 • ⏱️ 14:38 • 16h ago
 
 ---
 
@@ -402,7 +402,7 @@ Did Jeffrey invent Bitcoin? This viral theory is blowing up across crypto circle
 
 📺 Moshe Iceberg
 
-👁️ 778 • 👍 18 • 💬 1 • ⏱️ 1:00 • 16h ago
+👁️ 778 • 👍 18 • 💬 1 • ⏱️ 1:00 • 17h ago
 
 ---
 
