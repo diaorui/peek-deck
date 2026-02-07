@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-02-07T10:27:49.224953+00:00'
+updated: '2026-02-07T10:54:44.168156+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- videos
 - cryptocurrency
-- social
 - news
+- social
+- videos
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** February 07, 2026 at 10:27 UTC  
+**Last Updated:** February 07, 2026 at 10:54 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -85,7 +85,7 @@ Rank #1
 
 **[People who bought bitcoin at $61k yesterday](https://www.reddit.com/r/Bitcoin/comments/1qxw35n/people_who_bought_bitcoin_at_61k_yesterday/)**
 
-11h ago
+12h ago
 
 ---
 
@@ -93,7 +93,7 @@ Rank #1
 
 I’m in multiple investment groups with very sharp people, and the skepticism is louder than I’ve heard it in a long time. Even my resident conspiracy-theorist cousin has re-emerged with “proof.” Who knew This was exactly the sentiment we needed, when I thought I’d never again see prices at these levels 😂
 
-7h ago
+8h ago
 
 ---
 
@@ -101,7 +101,7 @@ I’m in multiple investment groups with very sharp people, and the skepticism i
 
 I got paid today. I get paid every two weeks. I just spent my entire check on bitcoin again. Got it at 63-66ish I believe. I’ve been catching the falling knives. Bought at 80, 77, 73, 63. I am ready to catch the falling knife at 60, 50, 40, and 30. Last cycle I was scared. Uncertain. This cycle, once I saw 63k and my friends asking what was going on, I went UNCONSCIOUS. I automatically panic bought with my entire check. I didn’t think. Just did. And I will be continuing to throw every check in until 30k. I’m not going to wait for a lower price. Even though “we all know” it’s going below 60k, that didn’t stop me from lump summing the entire check at 63-66. I don’t care. I don’t care because US dollars do not matter. The only thing that matters is how much bitcoin you have. I love the bear because when we are at the bottom, it’s only the real ones left. The ones that actually understand. During the bull, this sub is filled with pure nonsense. I’m glad the bear is here so I can enjoy Bitcoin Reddit again. EDIT: I am VERY surprised to see the hate. Tourists must still be here. What happened to this sub?
 
-8h ago
+9h ago
 
 ---
 
@@ -163,7 +163,7 @@ cnn.com • 1d ago
 
 “We see few bullish indicators that suggest we may be approaching the bottom,” Jefferies analyst Andrew Moss says.
 
-Fortune • 22h ago
+Fortune • 23h ago
 
 ---
 
@@ -215,7 +215,7 @@ Business Insider • 18h ago
 
 A South Korean cryptocurrency exchange apologised on Saturday after mistakenly transferring more than $40 billion worth of bitcoin to users, which briefly prompted a selloff on the platform.
 
-France 24 • 4h ago
+France 24 • 5h ago
 
 ---
 
@@ -223,7 +223,7 @@ France 24 • 4h ago
 
 Bithumb reportedly made a mistake that led to the accidental deposit of large amounts of Bitcoin to various users.
 
-Bitcoin Magazine • 17h ago
+Bitcoin Magazine • 18h ago
 
 ---
 
@@ -345,7 +345,7 @@ Bitcoin didn't die when the price crashed. What died is the illusion that money 
 
 📺 Simply Bitcoin
 
-👁️ 11K • 👍 908 • 💬 214 • ⏱️ 13:18 • 9h ago
+👁️ 11K • 👍 908 • 💬 214 • ⏱️ 13:18 • 10h ago
 
 ---
 

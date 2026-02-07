@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-02-07T10:27:49.230536+00:00'
+updated: '2026-02-07T10:54:44.174179+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- videos
 - cryptocurrency
-- social
 - news
+- social
+- videos
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** February 07, 2026 at 10:27 UTC  
+**Last Updated:** February 07, 2026 at 10:54 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -246,7 +246,7 @@ Uhh... so... is anyone else getting that strange feeling that something big is a
 
 📺 Money Rules - Investing Tips 
 
-👁️ 12K • 👍 2K • 💬 229 • ⏱️ 13:13 • 19h ago
+👁️ 12K • 👍 2K • 💬 229 • ⏱️ 13:13 • 20h ago
 
 ---
 
@@ -256,7 +256,7 @@ This video provides a professional Elliott Wave and technical analysis of Ethere
 
 📺 More Crypto Online
 
-👁️ 2K • 👍 173 • 💬 19 • ⏱️ 4:02 • 9h ago
+👁️ 2K • 👍 173 • 💬 19 • ⏱️ 4:02 • 10h ago
 
 ---
 
@@ -286,7 +286,7 @@ BITCOIN CRASH OVER: My $5 Million Trading Strategy!!! - Bitcoin News Today, Ethe
 
 📺 Crypto World
 
-👁️ 8K • 👍 364 • 💬 142 • ⏱️ 22:22 • 11h ago
+👁️ 8K • 👍 364 • 💬 142 • ⏱️ 22:22 • 12h ago
 
 ---
 
@@ -296,7 +296,7 @@ Get $450 Off Our New AI Indicators: https://tradeconfidentportal.io/indic... Joi
 
 📺 Trade Confident
 
-👁️ 556 • 👍 20 • 💬 5 • ⏱️ 5:06 • 14h ago
+👁️ 556 • 👍 20 • 💬 5 • ⏱️ 5:06 • 15h ago
 
 ---
 

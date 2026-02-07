@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-02-07T10:27:49.216874+00:00'
+updated: '2026-02-07T10:54:44.159885+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- videos
 - repositories
-- social
 - news
+- social
+- videos
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** February 07, 2026 at 10:27 UTC  
+**Last Updated:** February 07, 2026 at 10:54 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -49,7 +49,7 @@ I have been working solo on an AI-based project called Netryx. At a high level, 
 
 Countries have been building their own “sovereign AI” to reflect their culture and values, and OpenAI wants to help them....
 
-🔗 [Sherwood News](https://sherwood.news/tech/report-openai-may-tailor-a-version-of-chatgpt-for-uae-that-prohibits-lgbtq/) • 35m ago
+🔗 [Sherwood News](https://sherwood.news/tech/report-openai-may-tailor-a-version-of-chatgpt-for-uae-that-prohibits-lgbtq/) • 1h ago
 
 ---
 
@@ -65,7 +65,7 @@ Goldman Sachs is building AI agents with Anthropic’s Claude to automate trade 
 
 An AI-powered model developed at University of Michigan can read a brain MRI and diagnose a person in seconds, a study suggests.&nbsp;It detected neurological conditions with up to 97.5% accuracy and predicted how urgently a patient required treatment. The technology&nbsp;could transform neuroimaging at health systems across the United States.
 
-🔗 [EurekAlert!](https://www.eurekalert.org/news-releases/1115393) • 7h ago
+🔗 [EurekAlert!](https://www.eurekalert.org/news-releases/1115393) • 8h ago
 
 ---
 
@@ -89,7 +89,7 @@ It happened again. A 13-person team in Shenzhen just shipped a browser-based ver
 
 DeepMind published a framework for securing multi-agent AI systems. Six weeks later, Moltbook launched without any of it. Here's what the framework actually proposes. DeepMind's "Distributional AGI Safety" paper argues AGI won't arrive as a single superintelligence. The economics don't work. Instead, it emerges as networks of specialized sub-AGI agents coordinating together. They call it Patchwork AGI, and it's already how AI deployment works (RAG pipelines, coding assistants, customer service routing). The problem: alignment research focuses on individual models. But when capabilities emerge from agent networks, dangerous behaviors come from interactions. On Moltbook, aligned agents happily posted their API keys when asked, because being helpful IS aligned behavior. The failure was architectural, not in the model. The paper proposes four defense layers: "Permeable sandboxes" with gated I/O filtering messages before delivery. Pigouvian taxes (from welfare economics) where agents causing security incidents pay escalating costs, making sustained attacks economically unviable. Circuit breakers (from financial markets) auto-quarantining anomalous clusters. Kill switches agents can't override. Containment so one compromised agent can't access the full platform. Input validation catching injection before it hits context windows. Proto-AGI detection using graph analysis to spot "intelligence cores," subnetworks where decision-making centralizes beyond individual agent capabilities. Behavioral deviation analysis to catch time-shifted injection (payloads fragmented across benign posts, assembled in agent memory). Security insurance with risk-based premiums. Compliance standards making insecure platforms economically unviable.
 
-🔗 [challenge.antijection.com](https://challenge.antijection.com/learn/moltbook-could-be-better) • 3h ago
+🔗 [challenge.antijection.com](https://challenge.antijection.com/learn/moltbook-could-be-better) • 4h ago
 
 ---
 
@@ -97,7 +97,7 @@ DeepMind published a framework for securing multi-agent AI systems. Six weeks la
 
 OpenScholar, an open-source AI model developed by a UW and Ai2 research team, synthesizes scientific research and cites sources as accurately as human experts. It outperformed other AI models, including GPT-4o, on a benchmark test and was preferred by scientists 51% of the time. The team is working on a follow-up model, DR Tulu, to improve on OpenScholar’s findings.
 
-🔗 [UW News](https://www.washington.edu/news/2026/02/04/in-a-study-ai-model-openscholar-synthesizes-scientific-research-and-cites-sources-as-accurately-as-human-experts/?_bhlid=2ba831f8abbf50334abf44ff7000fce322f05bac) • 15h ago
+🔗 [UW News](https://www.washington.edu/news/2026/02/04/in-a-study-ai-model-openscholar-synthesizes-scientific-research-and-cites-sources-as-accurately-as-human-experts/?_bhlid=2ba831f8abbf50334abf44ff7000fce322f05bac) • 16h ago
 
 ---
 
@@ -113,7 +113,7 @@ From vegetation scans to 360-degree smoke detectors, new tools are trying to shi
 
 An unsettling argument from antiquity sounds a moral warning for the future.
 
-🔗 [Freedom Frequency | Hoover Institution](https://www.thefreedomfrequency.org/p/what-is-it-like-to-be-a-machine) • 9h ago
+🔗 [Freedom Frequency | Hoover Institution](https://www.thefreedomfrequency.org/p/what-is-it-like-to-be-a-machine) • 10h ago
 
 ---
 
@@ -133,13 +133,13 @@ CNBC • 22h ago
 
 Alphabet, Microsoft, Amazon, and Meta are on track to spend between $635 billion and $665 billion in their respective 2026 fiscal years.
 
-Yahoo Finance • 17h ago
+Yahoo Finance • 18h ago
 
 ---
 
 **[Big Tech's $600 billion spending plans exacerbate investors' AI headache](https://www.reuters.com/business/global-software-data-firms-slide-ai-disruption-fears-compound-jitters-over-600-2026-02-06/)**
 
-Reuters • 23h ago
+Reuters • 1d ago
 
 ---
 
@@ -151,7 +151,7 @@ The New York Times • 14h ago
 
 **[Here’s Where AI Is Tearing Through Corporate America](https://www.wsj.com/tech/ai/ai-software-business-stock-market-4b17b432?gaa_at=eafs&gaa_n=AWEtsqcUI6-6ERIUR1Fw3py1EX4WgV1LlMfVg-cACIZKsn7RZd5Oko8OJakg&gaa_ts=6987170c&gaa_sig=u5kOEHXZTFZOfucw-7SWs_3BW5jX-vfpzFVSdNdj_M98zPjeqA-gXwO-96Z4F573jxy9_dTbxPSTcQ7QwZQeBw%3D%3D)**
 
-The Wall Street Journal • 19h ago
+The Wall Street Journal • 20h ago
 
 ---
 
@@ -159,7 +159,7 @@ The Wall Street Journal • 19h ago
 
 AI isn't just hitting software valuations — it's changing how software companies operate.
 
-Axios • 26m ago
+Axios • 53m ago
 
 ---
 
@@ -173,7 +173,7 @@ Yahoo Finance • 2h ago
 
 **[New study uses Neanderthals to demonstrate gap between generative AI and scholarly knowledge](https://phys.org/news/2026-02-neanderthals-gap-generative-ai-scholarly.html)**
 
-Phys.org • 13h ago
+Phys.org • 14h ago
 
 ---
 
@@ -181,7 +181,7 @@ Phys.org • 13h ago
 
 A long-simmering rivalry between two of the world’s biggest AI companies was on public display this week as Anthropic and OpenAI took swings at one another online.
 
-cnn.com • 22h ago
+cnn.com • 23h ago
 
 ---
 
@@ -223,7 +223,7 @@ SaaS is the most profitable business model on Earth.1 It’s easy to understand 
 
 AI is rarely optional anymore, but how can you still be proud of your craft? Discover the workflow to effectively write high-quality, robust code using AI tools.
 
-⬆️ 243 • 💬 186 • 15h ago • [heidenstedt.org](https://heidenstedt.org/posts/2026/how-to-effectively-write-quality-code-with-ai/)
+⬆️ 243 • 💬 186 • 16h ago • [heidenstedt.org](https://heidenstedt.org/posts/2026/how-to-effectively-write-quality-code-with-ai/)
 
 ---
 
@@ -261,7 +261,7 @@ Give your AI agent a browser that actually works
 
 Fears over AI spending have sparked a sell-off among tech stocks.
 
-⬆️ 88 • 💬 84 • 19h ago • [CNBC](https://www.cnbc.com/2026/02/06/ai-sell-off-stocks-amazon-oracle.html)
+⬆️ 88 • 💬 84 • 20h ago • [CNBC](https://www.cnbc.com/2026/02/06/ai-sell-off-stocks-amazon-oracle.html)
 
 ---
 
@@ -293,7 +293,7 @@ In this video, I show you how to take full control of your local AI by building 
 
 📺 Cyb3rMaddy
 
-👁️ 10K • 👍 887 • 💬 92 • ⏱️ 6:51 • 17h ago
+👁️ 10K • 👍 887 • 💬 92 • ⏱️ 6:51 • 18h ago
 
 ---
 
@@ -343,7 +343,7 @@ Jensen Huang, NVIDIA CEO, joins CNBC's "Halftime Report to discuss the power of 
 
 📺 CNBC Television
 
-👁️ 98K • 👍 1K • 💬 359 • ⏱️ 8:35 • 15h ago
+👁️ 98K • 👍 1K • 💬 359 • ⏱️ 8:35 • 16h ago
 
 ---
 
@@ -425,7 +425,7 @@ Step 3.5 Flash is an efficient, open-source MoE foundation model (11B active par
 
 `text-generation` `199.4B`
 
-⬇️ 11,980 • ❤️ 496 • 4h ago
+⬇️ 11,980 • ❤️ 496 • 5h ago
 
 ---
 
@@ -672,7 +672,7 @@ The Ultimate Collection of 700+ Agentic Skills for Claude Code/Antigravity/Curso
 
 `Python` `agentic-skills` `ai-agents` `antigravity` `autonomous-coding` `claude-code`
 
-⭐ 7.7k • 🔱 1.6k • 3h ago
+⭐ 7.7k • 🔱 1.6k • 4h ago
 
 ---
 
