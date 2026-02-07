@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-02-07T16:32:25.992179+00:00'
+updated: '2026-02-07T17:27:37.872259+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
 - news
+- social
 - repositories
 - videos
-- social
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** February 07, 2026 at 16:32 UTC  
+**Last Updated:** February 07, 2026 at 17:27 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -41,7 +41,7 @@ AI news, discussions, and developments
 
 Countries have been building their own “sovereign AI” to reflect their culture and values, and OpenAI wants to help them....
 
-🔗 [Sherwood News](https://sherwood.news/tech/report-openai-may-tailor-a-version-of-chatgpt-for-uae-that-prohibits-lgbtq/) • 6h ago
+🔗 [Sherwood News](https://sherwood.news/tech/report-openai-may-tailor-a-version-of-chatgpt-for-uae-that-prohibits-lgbtq/) • 7h ago
 
 ---
 
@@ -49,7 +49,7 @@ Countries have been building their own “sovereign AI” to reflect their cultu
 
 I have been working solo on an AI-based project called Netryx. At a high level, it takes a street-level photo and attempts to determine the exact GPS coordinates where the image was taken. Not a city guess or a heatmap. The actual location, down to meters. If the system cannot verify the result with high confidence, it returns nothing. That behavior is intentional. Most AI geolocation tools will confidently give an answer even when they are wrong. Netryx is designed to fail closed. No verification means no output. Conceptually, it works in two stages. An AI model first narrows down likely areas based on visual features, either globally or within a user-defined region. A separate verification step then compares candidates against real street-level imagery. If verification fails, the result is discarded. This means it is not magic and not globally omniscient. The system requires pre-mapped street-level coverage to verify locations. Think of it as an AI-assisted visual index of physical space. As a test, I mapped roughly 5 square kilometers of Paris and fed in a random street photo from within that area. It identified the exact intersection in under three minutes. A few clarifications upfront: • It is not open source right now due to obvious privacy and abuse risks • It requires prior street-level coverage to return results • AI proposes candidates, verification gates all outputs • I am not interested in locating people from social media photos I am posting this here to get perspective from the security community. From a defensive angle, this shows how much location data AI can extract from ordinary images. From an offensive angle, the risks are clear. For those working in cybersecurity or AI security: where do you think the line is between a legitimate AI-powered OSINT capability and something that should not exist?
 
-9h ago
+10h ago
 
 ---
 
@@ -57,7 +57,15 @@ I have been working solo on an AI-based project called Netryx. At a high level, 
 
 Goldman Sachs is building AI agents with Anthropic’s Claude to automate trade accounting and client onboarding, aiming to speed work and boost efficiency.
 
-🔗 [CNBC](https://www.cnbc.com/2026/02/06/anthropic-goldman-sachs-ai-model-accounting.html) • 18h ago
+🔗 [CNBC](https://www.cnbc.com/2026/02/06/anthropic-goldman-sachs-ai-model-accounting.html) • 19h ago
+
+---
+
+**[[WARNING] Kimi.com (ok computer + other agents) CRYPTO STEALING MALWARE](https://www.reddit.com/r/artificial/comments/1qyjktt/warning_kimicom_ok_computer_other_agents_crypto/)**
+
+Update to my previous post. Went back to extract everything and found some super sketchy stuff. For anyone that uses kimi through the chat interface: One of Kimi’s browser automation scripts uses a dark web library with crypto stealing malware: https://github.com/dnnyngyen/kimi-agent-internals/blob/main/source-code/browser\_guard.py In the repo you’ll also find 6 system prompts (Base Chat, OK Computer, Docs, Sheets, Slides, Websites), 38 tool schemas, 4 skill folders (DOCX, XLSX, PDF, WebApp), runtime source code (browser automation, kernel server, Jupyter kernel), and container architecture. Please stay safe!!!
+
+6m ago
 
 ---
 
@@ -65,7 +73,7 @@ Goldman Sachs is building AI agents with Anthropic’s Claude to automate trade 
 
 I’m a solo web developer, so I spend most of my day using AI to debug my self made chaos , or manage my homelab as a fun side project. Or mess around with Arduino or 3D printing MCP servers. But recently, I asked Gemini for help with the hardest stack I’ve ever had to manage: a household with an extremely disrespectful 19 year old stepson. I am married with two step kids, the other is 15 and somewhat on the autistic spectrum. I've been in this family for for 7 years, married for 2. Their real dad bailed on them before I arrived and fell in love with my Soul Mate and best friend. If you’ve been there, you know the drill. The constant attitude, the tension between siblings, and the emotional toll it takes on your marriage. My wife and I were fed up, but every time we tried to talk to him, it devolved into a circular argument or a shouting match. He wouldn't understand, can't see our perspective, and continues to shit everything up. It was draining the life out of us. I decided to treat the conflict like a "System Architecture" problem and used Gemini to help us navigate it. Here’s how it changed the game for us. Sorry, not sorry, but I did use Gemini to summarise these shenanigans for me, as it really is a complex topic with emotions involved on my side. For what it's worth, I am very real and raw with Gemini in what I say about my family. As a 39 year old, I deeply understand the privacy issues, especially when ... Well, 90s kids don't trust the system... Which amazed me that I was doing this, telling Ai about this, but it shows how frustrated and desperate I was, to tell Google, of all companies, who removed their "do no evil" sign... Well... Anyway... Here it is: The "Logic Buffer": When you're angry, you say things that trigger defensiveness. The AI helped me translate raw frustration into firm, calm, adult-to-adult boundaries. I voice chat Gemini and it helped me work through some difficult thoughts. The Unified Front: It helped my wife and me build a literal Meeting Plan. It gave us roles, ideas, "anchor phrases" to use when things got heated, and a strategy to stay aligned so we couldn't be "divided and conquered." The "Adult Choice" Framework: It shifted the dynamic from us "punishing" a kid to us "managing a household of adults." The AI scripted an ultimatum that wasn't a threat, but a choice: You can be a respectful member of this house, or you can choose to find a living situation that better fits your current attitude. Emotional Outsourcing: It took the mental load of "What do I say?" and turned it into a checklist. We walked into that room feeling like a professional team with a script, rather than two exhausted parents winging it. The result? The most productive, calm, and clear conversation we’ve ever had with him. No yelling. No "what-abouts." Just clear boundaries and a path forward. I see a lot of talk about AI taking jobs, but for me, it’s giving me my home back. It’s like having a high-level consultant for your personal life who doesn’t get tired, emotional, or biased. Has anyone else used LLMs for "Soft Skills" or family mediation? It feels like a total superpower for conflict resolution. _ Me again, I asked it for some examples.. here it is raw from AI again: Example 1: The "Translation" (Emotional to Logical) The Chaos: I wanted to tell him, "You're being a lazy, entitled brat and you're making your mother miserable." The AI Refinement: "We value having you here, but the current lack of respect for the household peace is unsustainable. We are moving to an adult-to-adult living agreement where respect is the 'rent' for staying in this home." Example 2: The "Anchor Phrase" for High-Conflict The Chaos: Usually, he’d say something rude, I’d get defensive, and we’d yell for 20 minutes. The AI Solution: It gave us an "Anchor Phrase." Whenever he tried to derail the talk, we simply said: "We aren't here to argue about the past; we are here to decide if you can meet the standards of this house moving forward." Having that script prevented the "emotional hijack" that usually ruins these talks. Example 3: Managing the "Unified Front" The Chaos: In the past, he’d wait until I was in the workshop and then give his mom a hard time, or vice versa. The AI Plan: The AI helped us set a "Veto Rule." If he asks one of us something, the answer is always: "I’ll discuss that with [Alice/Partner] and we will get back to you together." It shut down the "divide and conquer" tactic instantly. Thanks for enjoying the chaos with me. I sincerely hope other families use this to their advantage. I have been very impressed with the assistance. The meetings have been way more productive. I imagine there will be more issues in the future, but the relief and support I received from AI has already made a huge difference in this young man's attitude, my wife's mental health, his brother's Daily life and... Yeah, definitely my own. I sleep way better now. Still tough, but I know I have support now.
 
-2h ago
+3h ago
 
 ---
 
@@ -73,7 +81,7 @@ I’m a solo web developer, so I spend most of my day using AI to debug my self 
 
 An AI-powered model developed at University of Michigan can read a brain MRI and diagnose a person in seconds, a study suggests.&nbsp;It detected neurological conditions with up to 97.5% accuracy and predicted how urgently a patient required treatment. The technology&nbsp;could transform neuroimaging at health systems across the United States.
 
-🔗 [EurekAlert!](https://www.eurekalert.org/news-releases/1115393) • 13h ago
+🔗 [EurekAlert!](https://www.eurekalert.org/news-releases/1115393) • 14h ago
 
 ---
 
@@ -97,7 +105,7 @@ It happened again. A 13-person team in Shenzhen just shipped a browser-based ver
 
 OpenScholar, an open-source AI model developed by a UW and Ai2 research team, synthesizes scientific research and cites sources as accurately as human experts. It outperformed other AI models, including GPT-4o, on a benchmark test and was preferred by scientists 51% of the time. The team is working on a follow-up model, DR Tulu, to improve on OpenScholar’s findings.
 
-🔗 [UW News](https://www.washington.edu/news/2026/02/04/in-a-study-ai-model-openscholar-synthesizes-scientific-research-and-cites-sources-as-accurately-as-human-experts/?_bhlid=2ba831f8abbf50334abf44ff7000fce322f05bac) • 21h ago
+🔗 [UW News](https://www.washington.edu/news/2026/02/04/in-a-study-ai-model-openscholar-synthesizes-scientific-research-and-cites-sources-as-accurately-as-human-experts/?_bhlid=2ba831f8abbf50334abf44ff7000fce322f05bac) • 22h ago
 
 ---
 
@@ -105,15 +113,7 @@ OpenScholar, an open-source AI model developed by a UW and Ai2 research team, sy
 
 From vegetation scans to 360-degree smoke detectors, new tools are trying to shine a light on the most dangerously dark areas of the electric grid
 
-🔗 [Scientific American](https://www.scientificamerican.com/article/how-new-ai-technology-is-helping-detect-and-prevent-wildfires/) • 21h ago
-
----
-
-**[What Is It Like to Be a Machine?](https://www.reddit.com/r/artificial/comments/1qxz4nh/what_is_it_like_to_be_a_machine/)**
-
-An unsettling argument from antiquity sounds a moral warning for the future.
-
-🔗 [Freedom Frequency | Hoover Institution](https://www.thefreedomfrequency.org/p/what-is-it-like-to-be-a-machine) • 15h ago
+🔗 [Scientific American](https://www.scientificamerican.com/article/how-new-ai-technology-is-helping-detect-and-prevent-wildfires/) • 22h ago
 
 ---
 
@@ -125,15 +125,7 @@ An unsettling argument from antiquity sounds a moral warning for the future.
 
 Tech's megacaps announced major increases in capex spend for 2026, and now investors are preparing for cash to dwindle.
 
-CNBC • 18h ago
-
----
-
-**[Amazon leads Big Tech’s $1 trillion wipeout as AI bubble fears ignite sell-off](https://www.cnbc.com/2026/02/06/ai-sell-off-stocks-amazon-oracle.html)**
-
-Fears over AI spending have sparked a sell-off among tech stocks.
-
-CNBC • 1d ago
+CNBC • 19h ago
 
 ---
 
@@ -141,11 +133,19 @@ CNBC • 1d ago
 
 Alphabet, Microsoft, Amazon, and Meta are on track to spend between $635 billion and $665 billion in their respective 2026 fiscal years.
 
-Yahoo Finance • 23h ago
+Yahoo Finance • 1d ago
 
 ---
 
-**[Here’s Where AI Is Tearing Through Corporate America](https://www.wsj.com/tech/ai/ai-software-business-stock-market-4b17b432?gaa_at=eafs&gaa_n=AWEtsqclrQKg_Sr9Nd3GcJ_g9UazqOEn-qcPzVu3sqnoKWvSnVVbJKeEIZCu&gaa_ts=6987627d&gaa_sig=GXIHslPEuAHWLe6kUGcM-ZULHx5ljy1d4iz6P-jbzW4NfwolUPDbaEL1E3Gx4BlV90h9xjEL0CFL4rRjXfPYqw%3D%3D)**
+**[Amazon shares fall as it joins Big Tech AI spending spree](https://www.bbc.com/news/articles/c150e144we3o)**
+
+Shares in the tech giant fell in after hours trade as investors appeared wary of the sector's big spending plans.
+
+BBC • 1d ago
+
+---
+
+**[Here’s Where AI Is Tearing Through Corporate America](https://www.wsj.com/tech/ai/ai-software-business-stock-market-4b17b432?gaa_at=eafs&gaa_n=AWEtsqfs13JTEJKjQto_fQ_oVinuqp8NeoxTqV2vXNtkjaqwevr0NsvmQoXF&gaa_ts=69877976&gaa_sig=_0o9kJ8fYnJRk48k5z225GDUrJgDRhIyW4qGi5lfWWwXjNIQzlDrWZDolv_5r9ZKJ0Xkq7d54eqRUIpW92IsWw%3D%3D)**
 
 The Wall Street Journal • 15h ago
 
@@ -155,7 +155,7 @@ The Wall Street Journal • 15h ago
 
 AI isn't just hitting software valuations — it's changing how software companies operate.
 
-Axios • 6h ago
+Axios • 7h ago
 
 ---
 
@@ -167,33 +167,33 @@ CNBC • 1d ago
 
 ---
 
-**[Why has Elon Musk merged his rocket company with his AI startup?](https://www.theguardian.com/technology/2026/feb/07/why-has-elon-musk-merged-his-rocket-company-with-his-ai-startup)**
+**[The AI boom is so huge it’s causing shortages everywhere else](https://www.washingtonpost.com/technology/2026/02/07/ai-spending-economy-shortages/)**
 
-SpaceX’s acquisition of xAI creates business worth $1.25tn but whether premise behind deal will work is questioned
+The hundreds of billions of dollars being spent by tech companies on AI projects are diverting resources from other parts of the economy.
 
-The Guardian • 2h ago
+The Washington Post • 34m ago
 
 ---
 
-**[‘A Self-Fulfilling Prophecy’: The Massive Risks of a US-China Fight on AI](https://www.politico.com/news/magazine/2026/02/07/china-usa-ai-race-interview-00769367)**
+**[Battle of the chatbots: Anthropic and OpenAI go head-to-head over ads in their AI products](https://www.theguardian.com/technology/2026/feb/07/ai-chatbots-anthropic-openai-claude-chatgpt)**
 
-In a new interview, the journalist Yi-Ling Liu argues the AI arms race between the United States and China risks becoming a self-fulfilling prophecy.
+New Anthropic campaign suggests other AI platforms will incorporate targeted ads in their chatbot conversations
 
-Politico • 1h ago
+The Guardian • 1h ago
+
+---
+
+**[Anthropic cofounder says studying the humanities will be 'more important than ever' in the age of AI](https://fortune.com/2026/02/07/anthropic-cofounder-daniela-amodei-humanities-majors-soft-skills-hiring-ai-stem/)**
+
+"The things that make us human will become much more important instead of much less important."
+
+Fortune • 8m ago
 
 ---
 
 **[New study uses Neanderthals to demonstrate gap between generative AI and scholarly knowledge](https://phys.org/news/2026-02-neanderthals-gap-generative-ai-scholarly.html)**
 
-Phys.org • 19h ago
-
----
-
-**[The AI boom is so huge it’s causing shortages everywhere else](https://www.washingtonpost.com/technology/2026/02/07/ai-spending-economy-shortages/)**
-
-The hundreds of billions of dollars being spent by tech companies on AI projects are diverting resources from other parts of the economy.
-
-The Washington Post • 2h ago
+Phys.org • 20h ago
 
 ---
 
@@ -203,7 +203,7 @@ The Washington Post • 2h ago
 
 **[My AI Adoption Journey](https://news.ycombinator.com/item?id=46903558)**
 
-⬆️ 919 • 💬 394 • 1d ago • [Mitchell Hashimoto](https://mitchellh.com/writing/my-ai-adoption-journey)
+⬆️ 923 • 💬 395 • 1d ago • [Mitchell Hashimoto](https://mitchellh.com/writing/my-ai-adoption-journey)
 
 ---
 
@@ -211,15 +211,7 @@ The Washington Post • 2h ago
 
 A new bill in the New York state legislature would require news organizations to label AI-generated material and mandate that humans review any such content before publication. On Monday, Senator Patricia Fahy (D-Albany) and Assemblymember Nily Rozic (D-NYC) introduced the bill, called The New York…
 
-⬆️ 547 • 💬 228 • 1d ago • [Nieman Lab](https://www.niemanlab.org/2026/02/a-new-bill-in-new-york-would-require-disclaimers-on-ai-generated-news-content/)
-
----
-
-**[AI is killing B2B SaaS](https://news.ycombinator.com/item?id=46888441)**
-
-SaaS is the most profitable business model on Earth.1 It’s easy to understand why: build once, sell the same thing again ad infinitum, and don’t suffer any marginal costs on more sales. I have been writing software for more than half my life. In the last year itself, I’ve talked to hundreds of founders and operators in SF, from preseed to Series E companies. AI is bringing an existential threat to a lot of B2B SaaS executives: How to keep asking customers for renewal, when every customer feels they can get something better built with vibe-coded AI products? And the market is pricing it in. Morgan Stanley’s SaaS basket has lagged the Nasdaq by 40 points since December. HubSpot and Klaviyo are down ~30%. Analysts are writing notes titled “No Reasons to Own” software stocks. The market is reflecting our new reality (Source: Bloomberg) Whenever I bring a new friend to the Salesforce Park, they are in absolute awe. And, the meme remains true that no one even knows what Salesforce does. Whatever they’re doing, they’re clearly earning enough revenue to purchase multiple blocks in SF. ↩
-
-⬆️ 511 • 💬 728 • 2d ago • [N’s Blog](https://nmn.gl/blog/ai-killing-b2b-saas)
+⬆️ 552 • 💬 229 • 1d ago • [Nieman Lab](https://www.niemanlab.org/2026/02/a-new-bill-in-new-york-would-require-disclaimers-on-ai-generated-news-content/)
 
 ---
 
@@ -227,7 +219,7 @@ SaaS is the most profitable business model on Earth.1 It’s easy to understand 
 
 AI is rarely optional anymore, but how can you still be proud of your craft? Discover the workflow to effectively write high-quality, robust code using AI tools.
 
-⬆️ 290 • 💬 246 • 21h ago • [heidenstedt.org](https://heidenstedt.org/posts/2026/how-to-effectively-write-quality-code-with-ai/)
+⬆️ 303 • 💬 264 • 22h ago • [heidenstedt.org](https://heidenstedt.org/posts/2026/how-to-effectively-write-quality-code-with-ai/)
 
 ---
 
@@ -235,7 +227,7 @@ AI is rarely optional anymore, but how can you still be proud of your craft? Dis
 
 A minimal, secure Python interpreter written in Rust for use by AI - pydantic/monty
 
-⬆️ 265 • 💬 142 • 19h ago • [GitHub](https://github.com/pydantic/monty)
+⬆️ 276 • 💬 145 • 20h ago • [GitHub](https://github.com/pydantic/monty)
 
 ---
 
@@ -243,7 +235,7 @@ A minimal, secure Python interpreter written in Rust for use by AI - pydantic/mo
 
 Women in rural communities describe trauma of moderating violent and pornographic content for global tech companies
 
-⬆️ 118 • 💬 192 • 1d ago • [the Guardian](https://www.theguardian.com/global-development/2026/feb/05/in-the-end-you-feel-blank-indias-female-workers-watching-hours-of-abusive-content-to-train-ai)
+⬆️ 120 • 💬 193 • 1d ago • [the Guardian](https://www.theguardian.com/global-development/2026/feb/05/in-the-end-you-feel-blank-indias-female-workers-watching-hours-of-abusive-content-to-train-ai)
 
 ---
 
@@ -251,7 +243,7 @@ Women in rural communities describe trauma of moderating violent and pornographi
 
 Give your AI agent a browser that actually works
 
-⬆️ 93 • 💬 70 • 2d ago • [docs.smooth.sh](https://docs.smooth.sh/cli/overview)
+⬆️ 94 • 💬 70 • 2d ago • [docs.smooth.sh](https://docs.smooth.sh/cli/overview)
 
 ---
 
@@ -277,6 +269,14 @@ Tech could lose its social acceptance unless it makes people’s lives better �
 
 ---
 
+**[The AI boom is causing shortages everywhere else](https://news.ycombinator.com/item?id=46922969)**
+
+The hundreds of billions of dollars being spent by tech companies on AI projects are diverting resources from other parts of the economy.
+
+⬆️ 58 • 💬 56 • 6h ago • [The Washington Post](https://www.washingtonpost.com/technology/2026/02/07/ai-spending-economy-shortages/)
+
+---
+
 ---
 
 ## YouTube Videos: "ai"
@@ -287,7 +287,7 @@ Create AI Influencers using Higgsfield https://youricreates.com/Higgsfield-AI In
 
 📺 Youri van Hofwegen
 
-👁️ 2K • 💬 2 • ⏱️ 8:07 • 31m ago
+👁️ 2K • 💬 2 • ⏱️ 8:07 • 1h ago
 
 ---
 
@@ -297,7 +297,7 @@ The White House deleted a video posted on President Trump's Truth Social that in
 
 📺 New York Post
 
-👁️ 32K • 👍 270 • 💬 555 • ⏱️ 2:07 • 19h ago
+👁️ 32K • 👍 270 • 💬 555 • ⏱️ 2:07 • 20h ago
 
 ---
 
@@ -327,7 +327,7 @@ Krystal and Saagar discuss tech stocks tumbling amid emerging new fears of job l
 
 📺 Breaking Points
 
-👁️ 344K • 👍 10K • 💬 2K • ⏱️ 24:33 • 1d ago
+👁️ 344K • 👍 10K • 💬 2K • ⏱️ 24:33 • 2d ago
 
 ---
 
@@ -337,7 +337,7 @@ Some companies are using artificial intelligence in their advertisements that wi
 
 📺 NBC News
 
-👁️ 2K • 👍 16 • 💬 10 • ⏱️ 5:26 • 13h ago
+👁️ 2K • 👍 16 • 💬 10 • ⏱️ 5:26 • 14h ago
 
 ---
 
@@ -347,7 +347,7 @@ Here's the AI News you probably missed this week. Try Perplexity Comet browser f
 
 📺 Matt Wolfe
 
-👁️ 39K • 👍 2K • 💬 106 • ⏱️ 29:39 • 20h ago
+👁️ 39K • 👍 2K • 💬 106 • ⏱️ 29:39 • 21h ago
 
 ---
 
@@ -357,7 +357,7 @@ Jensen Huang, NVIDIA CEO, joins CNBC's "Halftime Report to discuss the power of 
 
 📺 CNBC Television
 
-👁️ 110K • 👍 1K • 💬 405 • ⏱️ 8:35 • 21h ago
+👁️ 110K • 👍 1K • 💬 405 • ⏱️ 8:35 • 22h ago
 
 ---
 
@@ -367,7 +367,7 @@ Cute baby gave his mother a beautiful flying horse #ai #shorts #horse # shortsfe
 
 📺 ToonTales Creation
 
-👁️ 7K • ⏱️ 0:22 • 3h ago
+👁️ 7K • ⏱️ 0:22 • 4h ago
 
 ---
 
@@ -377,7 +377,7 @@ CNBC's Deirdre Bosa reports on news regarding the software sector. For access to
 
 📺 CNBC Television
 
-👁️ 107K • 👍 1K • 💬 425 • ⏱️ 3:30 • 2d ago
+👁️ 107K • 👍 1K • 💬 425 • ⏱️ 3:30 • 3d ago
 
 ---
 
@@ -429,7 +429,7 @@ Step 3.5 Flash is an efficient, open-source MoE foundation model (11B active par
 
 `text-generation` `199.4B`
 
-⬇️ 11,980 • ❤️ 506 • 10h ago
+⬇️ 11,980 • ❤️ 506 • 11h ago
 
 ---
 
@@ -451,7 +451,7 @@ MiniCPM-o 4.5 is a 9B parameter multimodal LLM excelling in vision, speech, and 
 
 `any-to-any` `9.4B`
 
-⬇️ 5,568 • ❤️ 577 • 6m ago
+⬇️ 5,568 • ❤️ 577 • 1h ago
 
 ---
 
@@ -646,7 +646,7 @@ Browser automation CLI for AI agents
 
 `TypeScript`
 
-⭐ 13.1k • 🔱 753 • 21h ago
+⭐ 13.1k • 🔱 753 • 22h ago
 
 ---
 
@@ -656,7 +656,7 @@ AI → JSON → UI
 
 `TypeScript`
 
-⭐ 10.1k • 🔱 537 • 16h ago
+⭐ 10.1k • 🔱 537 • 17h ago
 
 ---
 
@@ -666,7 +666,7 @@ LLM驱动的 A/H/美股智能分析器，多数据源行情 + 实时新闻 + Gem
 
 `Python` `agent` `ai` `aigc` `gemini` `llm`
 
-⭐ 9.8k • 🔱 10.3k • 2h ago
+⭐ 9.8k • 🔱 10.3k • 3h ago
 
 ---
 
@@ -676,7 +676,7 @@ The Ultimate Collection of 700+ Agentic Skills for Claude Code/Antigravity/Curso
 
 `Python` `agentic-skills` `ai-agents` `antigravity` `autonomous-coding` `claude-code`
 
-⭐ 7.7k • 🔱 1.6k • 9h ago
+⭐ 7.7k • 🔱 1.6k • 10h ago
 
 ---
 
