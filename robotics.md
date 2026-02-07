@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-02-07T10:54:44.177461+00:00'
+updated: '2026-02-07T11:22:46.013319+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- news
 - social
 - videos
+- news
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** February 07, 2026 at 10:54 UTC  
+**Last Updated:** February 07, 2026 at 11:22 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -44,7 +44,7 @@ From CyberRobo on 𝕏: https://x.com/CyberRobooo/status/2019598569909743755
 
 My boyfriend is a computer science major and is about to graduate. He’s really into robotics, especially humanoid robots, and he currently works in a research lab where they’re building a humanoid that can catch objects. Most of what I see him doing is simulation and coding work on his computer. Last year I got him an Arduino kit, and he already has a toolkit, but he doesn’t really use either one much on his own (as far as I see). He’s pretty thrifty and values practicality over “cool” gadgets. For context, he uses a Mac and has a portable monitor that fits in his backpack. He doesn’t currently use an external keyboard or mouse, but I don’t think he cares much about those. I want to get him something he’ll genuinely use in his future work. Since he mostly works in teams through his lab/club (not solo at-home build projects), I’m not looking for another kit. Any gift ideas from people in CS/robotics, or partners of people in this field, that are truly useful and not gimmicky? Thank you!!
 
-2h ago
+3h ago
 
 ---
 
@@ -140,7 +140,7 @@ Electrek • 22h ago
 
 Harvard engineers 3D print soft robots with built-in air channels that bend and change shape predictably when inflated.
 
-Interesting Engineering • 14h ago
+Interesting Engineering • 15h ago
 
 ---
 
@@ -164,7 +164,7 @@ Supply Chain Dive • 1d ago
 
 At its new Stone Mountain, Georgia, facility, Roomba-like robots shuffle between stacks, another adds shipping labels while another arranges packages in pallets
 
-The Guardian • 22h ago
+The Guardian • 23h ago
 
 ---
 

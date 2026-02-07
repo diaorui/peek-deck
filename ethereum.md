@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-02-07T10:54:44.174179+00:00'
+updated: '2026-02-07T11:22:46.010150+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- cryptocurrency
-- news
-- social
 - videos
+- social
+- news
+- cryptocurrency
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** February 07, 2026 at 10:54 UTC  
+**Last Updated:** February 07, 2026 at 11:22 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -72,7 +72,7 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-4h ago
+5h ago
 
 ---
 
@@ -88,7 +88,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 Vitalik: role of L2s has changed, Hegotá upgrade headliner proposals, Lido v3 live
 
-🔗 [Ethereal news](https://ethereal.news/ethereal-news-weekly-10/) • 21h ago
+🔗 [Ethereal news](https://ethereal.news/ethereal-news-weekly-10/) • 22h ago
 
 ---
 
@@ -96,7 +96,7 @@ Vitalik: role of L2s has changed, Hegotá upgrade headliner proposals, Lido v3 l
 
 im jef, and im honestly just starting to get into crypto, trying to understand how all of this works and whether it’s something i could realistically learn and grow into over time. i don’t come from money, im just a student juggling school, responsibilities, and everyday expenses, so I don’t have much to risk or experiment with, which is why im looking for advice more than anything else. i’ve been reading, watching, and asking around, but it still feels overwhelming, and i know im inexperienced and probably missing a lot of important basics. At the same time, a part of me thinks this could be a real opportunity if i approach it carefully, stay patient, and learn from people who actually know what they’re doing. im not chasing quick profits or hype, i just want guidance on how to start smart, avoid obvious mistakes, and figure out if someone like me, broke, still studying, and learning as i go, i might have a genuine chance at building something small but meaningful through crypto in the long run. could anyone give advise?
 
-6h ago
+7h ago
 
 ---
 
@@ -154,7 +154,7 @@ Fellow Dudes! Does any one know when exactly real world assets such as property 
 
 ENS Labs is canceling the launch of the Namechain Layer 2, which began development in 2024 to support the forthcoming ENSv2 update.
 
-The Block • 12h ago
+The Block • 13h ago
 
 ---
 
@@ -202,13 +202,13 @@ Decrypt • 2d ago
 
 Coinbase customers faced losses in fresh ways through the exchange’s crypto-backed lending product as Bitcoin and Ethereum tumbled this week.
 
-Decrypt • 15h ago
+Decrypt • 16h ago
 
 ---
 
 **[Ethereum Price Prediction: Alarming Bearish Signals Suggest ETH Could Plunge Below $2,000](https://www.binance.com/en/square/post/35999941537161)**
 
-Binance • 2d ago
+Binance • 3d ago
 
 ---
 
@@ -236,7 +236,7 @@ One of the biggest crypto crashes in history! Here is what happened, why and my 
 
 📺 Thomas Kralow
 
-👁️ 28K • 👍 1K • 💬 83 • ⏱️ 11:51 • 21h ago
+👁️ 28K • 👍 1K • 💬 83 • ⏱️ 11:51 • 22h ago
 
 ---
 
@@ -266,7 +266,7 @@ Tom Lee, Fundstrat, joins 'Closing Bell' to discuss the state of crypto markets,
 
 📺 CNBC Television
 
-👁️ 42K • 👍 564 • 💬 295 • ⏱️ 3:53 • 13h ago
+👁️ 42K • 👍 564 • 💬 295 • ⏱️ 3:53 • 14h ago
 
 ---
 

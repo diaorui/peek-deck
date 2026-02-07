@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-02-07T10:54:44.168156+00:00'
+updated: '2026-02-07T11:22:46.004250+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- cryptocurrency
-- news
-- social
 - videos
+- social
+- news
+- cryptocurrency
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** February 07, 2026 at 10:54 UTC  
+**Last Updated:** February 07, 2026 at 11:22 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -79,7 +79,7 @@ Rank #1
 
 **[Look babe, bitcoin went up 9% today](https://www.reddit.com/r/Bitcoin/comments/1qy03oz/look_babe_bitcoin_went_up_9_today/)**
 
-9h ago
+10h ago
 
 ---
 
@@ -107,7 +107,7 @@ I got paid today. I get paid every two weeks. I just spent my entire check on bi
 
 **[We are so back](https://www.reddit.com/r/Bitcoin/comments/1qxpeyz/we_are_so_back/)**
 
-16h ago
+17h ago
 
 ---
 
@@ -129,7 +129,7 @@ Yes I finally captured it!
 
 **[Thats the spirit](https://www.reddit.com/r/Bitcoin/comments/1qxfq4n/thats_the_spirit/)**
 
-22h ago
+23h ago
 
 ---
 
@@ -143,7 +143,7 @@ Yes I finally captured it!
 
 Thanks. God bless you all
 
-21h ago
+22h ago
 
 ---
 
@@ -169,7 +169,7 @@ Fortune • 23h ago
 
 **[The Kidnappers Of Savannah Guthrie's Mom Want Bitcoin—But It’s Not As Anonymous As Many Think](https://www.forbes.com/sites/martinadilicosa/2026/02/06/the-kidnappers-of-savannah-guthries-mom-want-bitcoin-but-its-not-as-anonymous-as-many-think/)**
 
-Forbes • 14h ago
+Forbes • 15h ago
 
 ---
 
@@ -193,7 +193,7 @@ cnn.com • 1d ago
 
 Strategy (MSTR) is moving to take a more active role in preparing Bitcoin for potential future threats from quantum computing.
 
-Bitcoin Magazine • 17h ago
+Bitcoin Magazine • 18h ago
 
 ---
 
@@ -207,7 +207,7 @@ The Wall Street Journal • 1d ago
 
 Strategy, Michael Saylor's iconic bitcoin treasury, has seen its stock plunge and its cost basis for its bitcoin trove soar amid the token's bear market.
 
-Business Insider • 18h ago
+Business Insider • 19h ago
 
 ---
 
@@ -301,7 +301,7 @@ Cryptocurrency markets fell as global equities and precious metals sold off whil
 
 SE050 Hardware Bitcoin Wallet - Self-sovereign Bitcoin wallet powered by NXP SE050 secure element - 0xdeadbeefnetwork/sigil-web
 
-⬆️ 2 • 💬 1 • 3h ago • [GitHub](https://github.com/0xdeadbeefnetwork/sigil-web)
+⬆️ 2 • 💬 1 • 4h ago • [GitHub](https://github.com/0xdeadbeefnetwork/sigil-web)
 
 ---
 
@@ -325,7 +325,7 @@ Bitcoin has been in a free-fall the past few months. At one point yesterday, it 
 
 📺 From The Desk Of Anthony Pompliano
 
-👁️ 27K • 👍 1K • 💬 176 • ⏱️ 9:43 • 12h ago
+👁️ 27K • 👍 1K • 💬 176 • ⏱️ 9:43 • 13h ago
 
 ---
 
@@ -335,7 +335,7 @@ Bitcoin's record volatility is sending shockwaves through the crypto market—ar
 
 📺 Discover Crypto
 
-👁️ 11K • 👍 133 • 💬 27 • ⏱️ 0:26 • 15h ago
+👁️ 11K • 👍 133 • 💬 27 • ⏱️ 0:26 • 16h ago
 
 ---
 
@@ -355,7 +355,7 @@ CNBC's “Closing Bell Overtime” team discusses cryptocurrencies, bitcoin's vo
 
 📺 CNBC Television
 
-👁️ 23K • 👍 238 • 💬 160 • ⏱️ 4:14 • 12h ago
+👁️ 23K • 👍 238 • 💬 160 • ⏱️ 4:14 • 13h ago
 
 ---
 
@@ -365,7 +365,7 @@ https://democratizedprime.pxf.io/c/2406113/3755092/37696 Enter to win $25k USDC 
 
 📺 Aaron Bennett
 
-👁️ 36K • 👍 1K • 💬 818 • ⏱️ 13:47 • 1d ago
+👁️ 36K • 👍 1K • 💬 818 • ⏱️ 13:47 • 2d ago
 
 ---
 
@@ -393,7 +393,7 @@ Did Jeffrey invent Bitcoin? This viral theory is blowing up across crypto circle
 
 📺 Moshe Iceberg
 
-👁️ 778 • 👍 18 • 💬 1 • ⏱️ 1:00 • 14h ago
+👁️ 778 • 👍 18 • 💬 1 • ⏱️ 1:00 • 15h ago
 
 ---
 
@@ -403,7 +403,7 @@ The markets added $1.2 trillion in market cap today, now is this a good time to 
 
 📺 Ricky Gutierrez
 
-👁️ 8K • 👍 389 • 💬 162 • ⏱️ 12:15 • 10h ago
+👁️ 8K • 👍 389 • 💬 162 • ⏱️ 12:15 • 11h ago
 
 ---
 

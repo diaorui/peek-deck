@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-02-07T10:54:44.159885+00:00'
+updated: '2026-02-07T11:22:45.995955+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
 - repositories
-- news
 - social
 - videos
+- news
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** February 07, 2026 at 10:54 UTC  
+**Last Updated:** February 07, 2026 at 11:22 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -41,7 +41,7 @@ AI news, discussions, and developments
 
 I have been working solo on an AI-based project called Netryx. At a high level, it takes a street-level photo and attempts to determine the exact GPS coordinates where the image was taken. Not a city guess or a heatmap. The actual location, down to meters. If the system cannot verify the result with high confidence, it returns nothing. That behavior is intentional. Most AI geolocation tools will confidently give an answer even when they are wrong. Netryx is designed to fail closed. No verification means no output. Conceptually, it works in two stages. An AI model first narrows down likely areas based on visual features, either globally or within a user-defined region. A separate verification step then compares candidates against real street-level imagery. If verification fails, the result is discarded. This means it is not magic and not globally omniscient. The system requires pre-mapped street-level coverage to verify locations. Think of it as an AI-assisted visual index of physical space. As a test, I mapped roughly 5 square kilometers of Paris and fed in a random street photo from within that area. It identified the exact intersection in under three minutes. A few clarifications upfront: • It is not open source right now due to obvious privacy and abuse risks • It requires prior street-level coverage to return results • AI proposes candidates, verification gates all outputs • I am not interested in locating people from social media photos I am posting this here to get perspective from the security community. From a defensive angle, this shows how much location data AI can extract from ordinary images. From an offensive angle, the risks are clear. For those working in cybersecurity or AI security: where do you think the line is between a legitimate AI-powered OSINT capability and something that should not exist?
 
-3h ago
+4h ago
 
 ---
 
@@ -57,7 +57,7 @@ Countries have been building their own “sovereign AI” to reflect their cultu
 
 Goldman Sachs is building AI agents with Anthropic’s Claude to automate trade accounting and client onboarding, aiming to speed work and boost efficiency.
 
-🔗 [CNBC](https://www.cnbc.com/2026/02/06/anthropic-goldman-sachs-ai-model-accounting.html) • 12h ago
+🔗 [CNBC](https://www.cnbc.com/2026/02/06/anthropic-goldman-sachs-ai-model-accounting.html) • 13h ago
 
 ---
 
@@ -81,7 +81,7 @@ Anthropic shipped Opus 4.6 and OpenAI shipped GPT-5.3-Codex on the same day, 27 
 
 It happened again. A 13-person team in Shenzhen just shipped a browser-based version of Claude Code, called happycapy. No terminal, no setup, runs in a sandbox. Anthropic built Claude Code but hasn't shipped anything like this themselves. This is the same pattern as Manus. Chinese company takes a powerful Western AI tool, strips the friction, and ships it to a mainstream audience before the original builders get around to it. US labs keep building the most powerful models in the world. Chinese teams keep building the products that actually put them in people's hands. OpenAI builds GPT, China ships the wrappers. Anthropic builds Claude Code, a Shenzhen startup makes it work in a browser tab. US builds the engines. China builds the cars. Is this just how it's going to be, or are Western AI companies eventually going to care about distribution as much as they care about benchmarks?
 
-21h ago
+22h ago
 
 ---
 
@@ -105,7 +105,7 @@ OpenScholar, an open-source AI model developed by a UW and Ai2 research team, sy
 
 From vegetation scans to 360-degree smoke detectors, new tools are trying to shine a light on the most dangerously dark areas of the electric grid
 
-🔗 [Scientific American](https://www.scientificamerican.com/article/how-new-ai-technology-is-helping-detect-and-prevent-wildfires/) • 15h ago
+🔗 [Scientific American](https://www.scientificamerican.com/article/how-new-ai-technology-is-helping-detect-and-prevent-wildfires/) • 16h ago
 
 ---
 
@@ -125,7 +125,7 @@ An unsettling argument from antiquity sounds a moral warning for the future.
 
 Fears over AI spending have sparked a sell-off among tech stocks.
 
-CNBC • 22h ago
+CNBC • 23h ago
 
 ---
 
@@ -145,7 +145,7 @@ Reuters • 1d ago
 
 **[Fear of AI Replacing Software Makers Hits Stocks. Here’s What to Know.](https://www.nytimes.com/2026/02/06/business/ai-stock-market-anthropic-openai.html)**
 
-The New York Times • 14h ago
+The New York Times • 15h ago
 
 ---
 
@@ -159,7 +159,7 @@ The Wall Street Journal • 20h ago
 
 AI isn't just hitting software valuations — it's changing how software companies operate.
 
-Axios • 53m ago
+Axios • 1h ago
 
 ---
 
@@ -167,7 +167,7 @@ Axios • 53m ago
 
 NVIDIA (NasdaqGS:NVDA) has partnered with Opentrons to apply AI to laboratory robotics, aiming to speed up experiment execution and drug discovery workflows. The company has also introduced Earth-2, an open source AI weather forecasting platform designed for climate, energy, and risk management applications. These developments extend NVIDIA's AI reach into physical sciences, healthcare, robotics, and weather forecasting beyond its core GPU markets. NVIDIA's recent moves into AI driven lab...
 
-Yahoo Finance • 2h ago
+Yahoo Finance • 3h ago
 
 ---
 
@@ -189,7 +189,7 @@ cnn.com • 23h ago
 
 Google, Amazon and Meta are among the companies advertising their AI tools during Super Bowl 60.
 
-CNBC • 12h ago
+CNBC • 13h ago
 
 ---
 
@@ -231,7 +231,7 @@ AI is rarely optional anymore, but how can you still be proud of your craft? Dis
 
 A minimal, secure Python interpreter written in Rust for use by AI - pydantic/monty
 
-⬆️ 209 • 💬 103 • 13h ago • [GitHub](https://github.com/pydantic/monty)
+⬆️ 209 • 💬 103 • 14h ago • [GitHub](https://github.com/pydantic/monty)
 
 ---
 
@@ -283,7 +283,7 @@ The White House deleted a video posted on President Trump's Truth Social that in
 
 📺 New York Post
 
-👁️ 26K • 👍 242 • 💬 482 • ⏱️ 2:07 • 13h ago
+👁️ 26K • 👍 242 • 💬 482 • ⏱️ 2:07 • 14h ago
 
 ---
 
@@ -303,7 +303,7 @@ In this video, I show you how to take full control of your local AI by building 
 
 📺 Neil McCoy-Ward
 
-👁️ 60K • 👍 5K • 💬 493 • ⏱️ 19:58 • 19h ago
+👁️ 60K • 👍 5K • 💬 493 • ⏱️ 19:58 • 20h ago
 
 ---
 
@@ -353,7 +353,7 @@ The two models that you will hear discussed for at least the next two months - C
 
 📺 AI Explained
 
-👁️ 43K • 👍 2K • 💬 267 • ⏱️ 19:50 • 17h ago
+👁️ 43K • 👍 2K • 💬 267 • ⏱️ 19:50 • 18h ago
 
 ---
 
@@ -447,7 +447,7 @@ MiniCPM-o 4.5 is a 9B parameter multimodal LLM excelling in vision, speech, and 
 
 `any-to-any` `9.4B`
 
-⬇️ 5,568 • ❤️ 559 • 18h ago
+⬇️ 5,568 • ❤️ 559 • 19h ago
 
 ---
 
@@ -652,7 +652,7 @@ AI → JSON → UI
 
 `TypeScript`
 
-⭐ 10.1k • 🔱 536 • 10h ago
+⭐ 10.1k • 🔱 536 • 11h ago
 
 ---
 
@@ -662,7 +662,7 @@ LLM驱动的 A/H/美股智能分析器，多数据源行情 + 实时新闻 + Gem
 
 `Python` `agent` `ai` `aigc` `gemini` `llm`
 
-⭐ 9.8k • 🔱 10.2k • 4h ago
+⭐ 9.8k • 🔱 10.2k • 5h ago
 
 ---
 
