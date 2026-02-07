@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-02-07T05:26:57.281665+00:00'
+updated: '2026-02-07T06:03:49.196287+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
+- cryptocurrency
+- videos
 - social
 - news
-- videos
-- cryptocurrency
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** February 07, 2026 at 05:26 UTC  
+**Last Updated:** February 07, 2026 at 06:03 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -79,7 +79,7 @@ Rank #1
 
 **[People who bought bitcoin at $61k yesterday](https://www.reddit.com/r/Bitcoin/comments/1qxw35n/people_who_bought_bitcoin_at_61k_yesterday/)**
 
-6h ago
+7h ago
 
 ---
 
@@ -107,7 +107,7 @@ Yes I finally captured it!
 
 I got paid today. I get paid every two weeks. I just spent my entire check on bitcoin again. Got it at 63-66ish I believe. I’ve been catching the falling knives. Bought at 80, 77, 73, 63. I am ready to catch the falling knife at 60, 50, 40, and 30. Last cycle I was scared. Uncertain. This cycle, once I saw 63k and my friends asking what was going on, I went UNCONSCIOUS. I automatically panic bought with my entire check. I didn’t think. Just did. And I will be continuing to throw every check in until 30k. I’m not going to wait for a lower price. Even though “we all know” it’s going below 60k, that didn’t stop me from lump summing the entire check at 63-66. I don’t care. I don’t care because US dollars do not matter. The only thing that matters is how much bitcoin you have. I love the bear because when we are at the bottom, it’s only the real ones left. The ones that actually understand. During the bull, this sub is filled with pure nonsense. I’m glad the bear is here so I can enjoy Bitcoin Reddit again. EDIT: I am VERY surprised to see the hate. Tourists must still be here. What happened to this sub?
 
-3h ago
+4h ago
 
 ---
 
@@ -115,13 +115,13 @@ I got paid today. I get paid every two weeks. I just spent my entire check on bi
 
 I’m in multiple investment groups with very sharp people, and the skepticism is louder than I’ve heard it in a long time. Even my resident conspiracy-theorist cousin has re-emerged with “proof.” Who knew This was exactly the sentiment we needed, when I thought I’d never again see prices at these levels 😂
 
-2h ago
+3h ago
 
 ---
 
 **[Thats the spirit](https://www.reddit.com/r/Bitcoin/comments/1qxfq4n/thats_the_spirit/)**
 
-17h ago
+18h ago
 
 ---
 
@@ -143,7 +143,7 @@ Thanks. God bless you all
 
 I accumulated 1.18 more and bought a total of 1.60 BTC today. I had been patiently waiting for a pullback in the $66,000–$70,000 range, and the opportunity finally presented itself. If the market corrects further, I’m prepared to add more around the $53,000 level as well. This is a personal, well-considered decision aligned with my financial position. Even in an extreme downside scenario, it would not materially impact me. I’m not recommending this to anyone—cryptocurrency remains highly volatile and risky. This approach is only suitable for those who can tolerate significant risk and are financially comfortable even in the event of a loss. Despite widespread bearish predictions ranging from $16K to $10K, I’m sticking to my own strategy and long-term conviction. Having already achieved returns far exceeding my current investment through futures and forex, I’m comfortable taking this calculated exposure. Staying disciplined, focused, and patient. Good luck to everyone.
 
-15h ago
+16h ago
 
 ---
 
@@ -163,7 +163,7 @@ ABC7 Los Angeles • 1d ago
 
 Cryptocurrency transactions are often thought to be anonymous and untraceable. That's a misconception, experts tell CBS News.
 
-cbsnews.com • 6h ago
+cbsnews.com • 7h ago
 
 ---
 
@@ -177,7 +177,7 @@ Forbes • 9h ago
 
 We explore the latest ups and downs (mostly downs) in the crypto market.
 
-Mashable • 8h ago
+Mashable • 9h ago
 
 ---
 
@@ -191,7 +191,7 @@ bloomberg.com • 8h ago
 
 The error was quickly corrected, but not before Bithumb users sold off billions in Bitcoin, temporarily crashing its listed price.
 
-Yahoo Finance • 11h ago
+Yahoo Finance • 12h ago
 
 ---
 
@@ -199,7 +199,7 @@ Yahoo Finance • 11h ago
 
 Some recipients reportedly sold the coins before the exchange's "internal control system and promptly restricted transactions."
 
-The Block • 13h ago
+The Block • 14h ago
 
 ---
 
@@ -207,13 +207,13 @@ The Block • 13h ago
 
 Bithumb reportedly made a mistake that led to the accidental deposit of large amounts of Bitcoin to various users.
 
-Bitcoin Magazine • 12h ago
+Bitcoin Magazine • 13h ago
 
 ---
 
 **[Your bitcoin investment may have been based on an illusion](https://www.marketwatch.com/story/your-bitcoin-investment-may-have-been-based-on-an-illusion-de2e3fad?gaa_at=eafs&gaa_n=AWEtsqeMd4MTBoKGOFpCLYuevyVTAvVD4Zojb6gnCgiabt2ThX7G1-Zj0RCL&gaa_ts=6986d08b&gaa_sig=nFSCH7BYhS3gNMoZe1mUw-qWxh8Hoj5Lr_FTt3TsudGgXyahQUZLaRK-bVaFa30BzrEXfxFkCsGHdv7Z6THYlA%3D%3D)**
 
-MarketWatch • 10h ago
+MarketWatch • 11h ago
 
 ---
 
@@ -221,7 +221,7 @@ MarketWatch • 10h ago
 
 “We see few bullish indicators that suggest we may be approaching the bottom,” Jefferies analyst Andrew Moss says.
 
-Yahoo Finance • 17h ago
+Yahoo Finance • 18h ago
 
 ---
 
@@ -323,7 +323,7 @@ CNBC's “Closing Bell Overtime” team discusses cryptocurrencies, bitcoin's vo
 
 📺 CNBC Television
 
-👁️ 17K • 👍 187 • 💬 160 • ⏱️ 4:14 • 7h ago
+👁️ 17K • 👍 187 • 💬 160 • ⏱️ 4:14 • 8h ago
 
 ---
 
@@ -343,7 +343,7 @@ Bitcoin didn't die when the price crashed. What died is the illusion that money 
 
 📺 Simply Bitcoin
 
-👁️ 5K • 👍 629 • 💬 112 • ⏱️ 13:18 • 4h ago
+👁️ 5K • 👍 629 • 💬 112 • ⏱️ 13:18 • 5h ago
 
 ---
 
@@ -353,7 +353,7 @@ LIMITED TIME: ✓ Bitunix (no kyc, $10k bonus): https://www.bitunix.com/register
 
 📺 Altcoin Daily
 
-👁️ 13K • 👍 384 • 💬 67 • ⏱️ 1:10 • 15h ago
+👁️ 13K • 👍 384 • 💬 67 • ⏱️ 1:10 • 16h ago
 
 ---
 
@@ -363,7 +363,7 @@ In this interview, Bitcoin OG Samson Mow shares his view on why Bitcoin keeps fa
 
 📺 Cointelegraph
 
-👁️ 15K • 👍 481 • 💬 96 • ⏱️ 19:09 • 12h ago
+👁️ 15K • 👍 481 • 💬 96 • ⏱️ 19:09 • 13h ago
 
 ---
 
@@ -373,7 +373,7 @@ CRYPTO CRASH OVER?! Updated Bitcoin Price Prediction! Is the crypto crash finall
 
 📺 Tim Warren
 
-👁️ 7K • 👍 511 • 💬 166 • ⏱️ 10:33 • 11h ago
+👁️ 7K • 👍 511 • 💬 166 • ⏱️ 10:33 • 12h ago
 
 ---
 
@@ -383,7 +383,7 @@ If you're Ethereum, Bitcoin, or any digital payment systems, if you don't have p
 
 📺 Kevin O'Leary
 
-👁️ 5K • 👍 173 • 💬 22 • ⏱️ 0:57 • 5h ago
+👁️ 5K • 👍 173 • 💬 22 • ⏱️ 0:57 • 6h ago
 
 ---
 
@@ -393,7 +393,7 @@ Bitcoin #Crypto #Finance Bitcoin's sudden collapse may have come from a hidden s
 
 📺 The Wolf Of All Streets
 
-👁️ 40K • 👍 2K • 💬 458 • ⏱️ 24:28 • 14h ago
+👁️ 40K • 👍 2K • 💬 458 • ⏱️ 24:28 • 15h ago
 
 ---
 
@@ -401,7 +401,7 @@ Bitcoin #Crypto #Finance Bitcoin's sudden collapse may have come from a hidden s
 
 📺 Moshe Iceberg
 
-👁️ 653 • 👍 18 • ⏱️ 1:00 • 9h ago
+👁️ 653 • 👍 18 • ⏱️ 1:00 • 10h ago
 
 ---
 

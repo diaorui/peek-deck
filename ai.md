@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-02-07T05:26:57.272829+00:00'
+updated: '2026-02-07T06:03:49.187423+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
+- repositories
+- videos
 - social
 - news
-- videos
-- repositories
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** February 07, 2026 at 05:26 UTC  
+**Last Updated:** February 07, 2026 at 06:03 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -41,7 +41,7 @@ AI news, discussions, and developments
 
 Goldman Sachs is building AI agents with Anthropic’s Claude to automate trade accounting and client onboarding, aiming to speed work and boost efficiency.
 
-🔗 [CNBC](https://www.cnbc.com/2026/02/06/anthropic-goldman-sachs-ai-model-accounting.html) • 7h ago
+🔗 [CNBC](https://www.cnbc.com/2026/02/06/anthropic-goldman-sachs-ai-model-accounting.html) • 8h ago
 
 ---
 
@@ -57,7 +57,7 @@ Anthropic shipped Opus 4.6 and OpenAI shipped GPT-5.3-Codex on the same day, 27 
 
 It happened again. A 13-person team in Shenzhen just shipped a browser-based version of Claude Code, called happycapy. No terminal, no setup, runs in a sandbox. Anthropic built Claude Code but hasn't shipped anything like this themselves. This is the same pattern as Manus. Chinese company takes a powerful Western AI tool, strips the friction, and ships it to a mainstream audience before the original builders get around to it. US labs keep building the most powerful models in the world. Chinese teams keep building the products that actually put them in people's hands. OpenAI builds GPT, China ships the wrappers. Anthropic builds Claude Code, a Shenzhen startup makes it work in a browser tab. US builds the engines. China builds the cars. Is this just how it's going to be, or are Western AI companies eventually going to care about distribution as much as they care about benchmarks?
 
-16h ago
+17h ago
 
 ---
 
@@ -65,7 +65,7 @@ It happened again. A 13-person team in Shenzhen just shipped a browser-based ver
 
 An AI-powered model developed at University of Michigan can read a brain MRI and diagnose a person in seconds, a study suggests.&nbsp;It detected neurological conditions with up to 97.5% accuracy and predicted how urgently a patient required treatment. The technology&nbsp;could transform neuroimaging at health systems across the United States.
 
-🔗 [EurekAlert!](https://www.eurekalert.org/news-releases/1115393) • 2h ago
+🔗 [EurekAlert!](https://www.eurekalert.org/news-releases/1115393) • 3h ago
 
 ---
 
@@ -73,7 +73,7 @@ An AI-powered model developed at University of Michigan can read a brain MRI and
 
 OpenScholar, an open-source AI model developed by a UW and Ai2 research team, synthesizes scientific research and cites sources as accurately as human experts. It outperformed other AI models, including GPT-4o, on a benchmark test and was preferred by scientists 51% of the time. The team is working on a follow-up model, DR Tulu, to improve on OpenScholar’s findings.
 
-🔗 [UW News](https://www.washington.edu/news/2026/02/04/in-a-study-ai-model-openscholar-synthesizes-scientific-research-and-cites-sources-as-accurately-as-human-experts/?_bhlid=2ba831f8abbf50334abf44ff7000fce322f05bac) • 10h ago
+🔗 [UW News](https://www.washington.edu/news/2026/02/04/in-a-study-ai-model-openscholar-synthesizes-scientific-research-and-cites-sources-as-accurately-as-human-experts/?_bhlid=2ba831f8abbf50334abf44ff7000fce322f05bac) • 11h ago
 
 ---
 
@@ -81,7 +81,7 @@ OpenScholar, an open-source AI model developed by a UW and Ai2 research team, sy
 
 From vegetation scans to 360-degree smoke detectors, new tools are trying to shine a light on the most dangerously dark areas of the electric grid
 
-🔗 [Scientific American](https://www.scientificamerican.com/article/how-new-ai-technology-is-helping-detect-and-prevent-wildfires/) • 10h ago
+🔗 [Scientific American](https://www.scientificamerican.com/article/how-new-ai-technology-is-helping-detect-and-prevent-wildfires/) • 11h ago
 
 ---
 
@@ -89,7 +89,7 @@ From vegetation scans to 360-degree smoke detectors, new tools are trying to shi
 
 An unsettling argument from antiquity sounds a moral warning for the future.
 
-🔗 [Freedom Frequency | Hoover Institution](https://www.thefreedomfrequency.org/p/what-is-it-like-to-be-a-machine) • 4h ago
+🔗 [Freedom Frequency | Hoover Institution](https://www.thefreedomfrequency.org/p/what-is-it-like-to-be-a-machine) • 5h ago
 
 ---
 
@@ -113,7 +113,7 @@ Women in rural communities describe trauma of moderating violent and pornographi
 
 I found this experiment interesting because it doesn’t frame AI as “breaking” a system. Instead, it treats AI as a new kind of participant interacting with infrastructure that was built around human assumptions consistency, behavior, timing, and intent. What stood out to me is that many identity systems aren’t verifying who someone is so much as how human they appear over time. That feels increasingly fragile when the actor on the other side isn’t human at all. This doesn’t feel like a single vulnerability. It feels like a design mismatch. Curious how people here think identity and verification should evolve in an AI-native world better detection, new primitives, or abandoning certain assumptions entirely.
 
-🔗 [mpost.io](https://mpost.io/humanity-protocol-experiment-reveals-how-ai-can-bypass-kyc-and-exploit-digital-trust/) • 23h ago
+🔗 [mpost.io](https://mpost.io/humanity-protocol-experiment-reveals-how-ai-can-bypass-kyc-and-exploit-digital-trust/) • 1d ago
 
 ---
 
@@ -157,7 +157,7 @@ OpenAI • 1d ago
 
 Barack Obama & Michelle Obama may be taking the high road as usual, but Trump can't seem to say the word "sorry"  after posting a vile video about the ex-First Couple
 
-Deadline • 46m ago
+Deadline • 1h ago
 
 ---
 
@@ -165,7 +165,7 @@ Deadline • 46m ago
 
 South Carolina Sen. Tim Scott calls the AI video shared by Donald Trump on Truth Social 'the most racist thing I've seen' from the White House.
 
-Greenville Online • 6h ago
+Greenville Online • 7h ago
 
 ---
 
@@ -173,7 +173,7 @@ Greenville Online • 6h ago
 
 The clip of the Obamas was edited into a minute of spliced footage promoting conspiracy theories, set to the song 'The Lion Sleeps Tonight.'
 
-Global News • 11h ago
+Global News • 12h ago
 
 ---
 
@@ -181,13 +181,13 @@ Global News • 11h ago
 
 ABC News’ Rebecca Jarvis speaks with Anthropic co-founder & president Daniela Amodei on responsible AI, risks for children, their first Super Bowl ad, leaving OpenAI, and the race to lead AI’s future.
 
-ABC News • 51m ago
+ABC News • 1h ago
 
 ---
 
 **[Here’s Where AI Is Tearing Through Corporate America](https://www.wsj.com/tech/ai/ai-software-business-stock-market-4b17b432?gaa_at=eafs&gaa_n=AWEtsqclN-AfCZDmkjjgbQzaKk3DjRd7onA33ma9-n0pyj4docldGHIyweWy&gaa_ts=6986d08a&gaa_sig=NsljIzGAYcW3qOz7yj0gOUimNy_-pneC-ih5O3Ihon-np7873TSL7g8Vgy0pnjylRNRUJOmH5nVg6S0G1Ebu6Q%3D%3D)**
 
-The Wall Street Journal • 15h ago
+The Wall Street Journal • 16h ago
 
 ---
 
@@ -213,7 +213,7 @@ CNBC • 1d ago
 
 A new bill in the New York state legislature would require news organizations to label AI-generated material and mandate that humans review any such content before publication. On Monday, Senator Patricia Fahy (D-Albany) and Assemblymember Nily Rozic (D-NYC) introduced the bill, called The New York…
 
-⬆️ 523 • 💬 220 • 19h ago • [Nieman Lab](https://www.niemanlab.org/2026/02/a-new-bill-in-new-york-would-require-disclaimers-on-ai-generated-news-content/)
+⬆️ 523 • 💬 220 • 20h ago • [Nieman Lab](https://www.niemanlab.org/2026/02/a-new-bill-in-new-york-would-require-disclaimers-on-ai-generated-news-content/)
 
 ---
 
@@ -237,7 +237,7 @@ Production-grade Ghidra MCP Server — 132 endpoints, cross-binary documentation
 
 AI is rarely optional anymore, but how can you still be proud of your craft? Discover the workflow to effectively write high-quality, robust code using AI tools.
 
-⬆️ 203 • 💬 149 • 10h ago • [heidenstedt.org](https://heidenstedt.org/posts/2026/how-to-effectively-write-quality-code-with-ai/)
+⬆️ 203 • 💬 149 • 11h ago • [heidenstedt.org](https://heidenstedt.org/posts/2026/how-to-effectively-write-quality-code-with-ai/)
 
 ---
 
@@ -267,7 +267,7 @@ Women in rural communities describe trauma of moderating violent and pornographi
 
 Fears over AI spending have sparked a sell-off among tech stocks.
 
-⬆️ 87 • 💬 83 • 14h ago • [CNBC](https://www.cnbc.com/2026/02/06/ai-sell-off-stocks-amazon-oracle.html)
+⬆️ 87 • 💬 83 • 15h ago • [CNBC](https://www.cnbc.com/2026/02/06/ai-sell-off-stocks-amazon-oracle.html)
 
 ---
 
@@ -289,7 +289,7 @@ Give your AI agent a browser that actually works
 
 📺 Neil McCoy-Ward
 
-👁️ 55K • 👍 4K • 💬 527 • ⏱️ 19:58 • 14h ago
+👁️ 55K • 👍 4K • 💬 527 • ⏱️ 19:58 • 15h ago
 
 ---
 
@@ -309,7 +309,7 @@ Jensen Huang, NVIDIA CEO, joins CNBC's "Halftime Report to discuss the power of 
 
 📺 CNBC Television
 
-👁️ 77K • 👍 1K • 💬 295 • ⏱️ 8:35 • 10h ago
+👁️ 77K • 👍 1K • 💬 295 • ⏱️ 8:35 • 11h ago
 
 ---
 
@@ -329,7 +329,7 @@ The two models that you will hear discussed for at least the next two months - C
 
 📺 AI Explained
 
-👁️ 37K • 👍 2K • 💬 246 • ⏱️ 19:50 • 12h ago
+👁️ 37K • 👍 2K • 💬 246 • ⏱️ 19:50 • 13h ago
 
 ---
 
@@ -349,7 +349,7 @@ Best AI Coding Tool is Base44 https://base44.pxf.io/c/6440076/2049275/25619?traf
 
 📺 Mikey No Code
 
-👁️ 10K • 💬 7 • ⏱️ 17:19 • 14h ago
+👁️ 10K • 💬 7 • ⏱️ 17:19 • 15h ago
 
 ---
 
@@ -379,7 +379,7 @@ A Brother Struggle For his Sister #ai #explore #shorts #puppy Experience this AI
 
 📺 Trend With AI
 
-👁️ 31K • 💬 3 • ⏱️ 0:38 • 15h ago
+👁️ 31K • 💬 3 • ⏱️ 0:38 • 16h ago
 
 ---
 
@@ -431,7 +431,7 @@ Step 3.5 Flash is an efficient, open-source MoE foundation model (11B active par
 
 `text-generation` `199.4B`
 
-⬇️ 10,864 • ❤️ 490 • 18h ago
+⬇️ 10,864 • ❤️ 490 • 19h ago
 
 ---
 
@@ -499,7 +499,7 @@ Qwen3-Coder-Next is an 80B parameter LLM optimized for coding agents, featuring 
 
 `text-generation` `79.7B`
 
-⬇️ 144,708 • ❤️ 198 • 1d ago
+⬇️ 144,708 • ❤️ 198 • 2d ago
 
 ---
 
@@ -658,7 +658,7 @@ AI → JSON → UI
 
 `TypeScript`
 
-⭐ 10.1k • 🔱 535 • 5h ago
+⭐ 10.1k • 🔱 535 • 6h ago
 
 ---
 
@@ -678,7 +678,7 @@ The Ultimate Collection of 700+ Agentic Skills for Claude Code/Antigravity/Curso
 
 `Python` `agentic-skills` `ai-agents` `antigravity` `autonomous-coding` `claude-code`
 
-⭐ 7.6k • 🔱 1.6k • 20h ago
+⭐ 7.6k • 🔱 1.6k • 21h ago
 
 ---
 
@@ -732,7 +732,7 @@ An app to monitor the (Codex) situation
 
 `TypeScript` `ai` `codex` `linux` `macos` `tauri-app`
 
-⭐ 2.2k • 🔱 196 • 11h ago
+⭐ 2.2k • 🔱 196 • 12h ago
 
 ---
 

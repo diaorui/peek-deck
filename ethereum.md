@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-02-07T05:26:57.287953+00:00'
+updated: '2026-02-07T06:03:49.202606+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
+- cryptocurrency
+- videos
 - social
 - news
-- videos
-- cryptocurrency
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** February 07, 2026 at 05:26 UTC  
+**Last Updated:** February 07, 2026 at 06:03 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -72,7 +72,7 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-23h ago
+1d ago
 
 ---
 
@@ -112,7 +112,7 @@ Good morning, could anyone recommend some good reading material to learn more ab
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-1d ago
+2d ago
 
 ---
 
@@ -170,7 +170,7 @@ The Motley Fool • 1d ago
 
 ENS Labs is canceling the launch of the Namechain Layer 2, which began development in 2024 to support the forthcoming ENSv2 update.
 
-The Block • 7h ago
+The Block • 8h ago
 
 ---
 
@@ -244,7 +244,7 @@ This video provides a professional Elliott Wave and technical analysis of Ethere
 
 📺 More Crypto Online
 
-👁️ 1K • 👍 114 • 💬 18 • ⏱️ 4:02 • 4h ago
+👁️ 1K • 👍 114 • 💬 18 • ⏱️ 4:02 • 5h ago
 
 ---
 
@@ -254,7 +254,7 @@ BITCOIN CRASH OVER: My $5 Million Trading Strategy!!! - Bitcoin News Today, Ethe
 
 📺 Crypto World
 
-👁️ 5K • 👍 285 • 💬 88 • ⏱️ 22:22 • 6h ago
+👁️ 5K • 👍 285 • 💬 88 • ⏱️ 22:22 • 7h ago
 
 ---
 
@@ -264,7 +264,7 @@ Uhh... so... is anyone else getting that strange feeling that something big is a
 
 📺 Money Rules - Investing Tips 
 
-👁️ 11K • 👍 1K • 💬 392 • ⏱️ 13:13 • 14h ago
+👁️ 11K • 👍 1K • 💬 392 • ⏱️ 13:13 • 15h ago
 
 ---
 
@@ -274,7 +274,7 @@ Get $450 Off Our New AI Indicators: https://tradeconfidentportal.io/indic... Joi
 
 📺 Trade Confident
 
-👁️ 483 • 👍 18 • 💬 5 • ⏱️ 5:06 • 9h ago
+👁️ 483 • 👍 18 • 💬 5 • ⏱️ 5:06 • 10h ago
 
 ---
 
@@ -314,7 +314,7 @@ This video provides a professional Elliott Wave and technical analysis of Ethere
 
 📺 More Crypto Online
 
-👁️ 4K • 👍 220 • 💬 7 • ⏱️ 3:53 • 13h ago
+👁️ 4K • 👍 220 • 💬 7 • ⏱️ 3:53 • 14h ago
 
 ---
 

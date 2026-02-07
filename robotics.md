@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-02-07T05:26:57.291205+00:00'
+updated: '2026-02-07T06:03:49.205899+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
+- videos
 - social
 - news
-- videos
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** February 07, 2026 at 05:26 UTC  
+**Last Updated:** February 07, 2026 at 06:03 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -36,7 +36,7 @@ Robotics research and industry news
 
 From CyberRobo on 𝕏: https://x.com/CyberRobooo/status/2019598569909743755
 
-19h ago
+20h ago
 
 ---
 
@@ -44,7 +44,7 @@ From CyberRobo on 𝕏: https://x.com/CyberRobooo/status/2019598569909743755
 
 Just pushed an update to casadi-on-gpu that lets you generate CUDA kernels directly from CasADi and call them from C++, PyTorch, or CuPy. Useful for MPC, sampling, system ID, and robotics pipelines at scale.
 
-5h ago
+6h ago
 
 ---
 
@@ -82,7 +82,7 @@ Felt so excited to see the robot I've been working on getting this much attentio
 
 Hey everyone — I’m a CS student working on an open-source tool called PF Gate that is supposed to be a supplement to the process of robotics debugging. If you run sims/log replays and deal with “it worked yesterday / what changed?” regressions, PF Gate sits in CI and turns a run into: deterministic PASS / WARN / FAIL / QUARANTINE (CI-friendly exit codes) JUnit output so results show up directly in CI UI an offline report.html “debug packet” auditable receipts explaining exactly why it flagged a run (plus policy + artifact hashes for provenance) diff-as-gate mode so CI failures include regression context vs a baseline It runs locally/in CI (no log upload). If you already have your own logs (rosbags/MCAP/custom), the idea is to adapt them into a canonical trace.jsonl (adapter guide included). This is just a fun project to me. I hope that this can be of help to anyone. Thank you in advance for checking it out, and if you have any questions feel free to DM me. If you do use it, I would love feedback on what worked and what didn’t. Thank y’all!
 
-🔗 [GitHub](https://github.com/QPFAI/PF-Gate) • 8h ago
+🔗 [GitHub](https://github.com/QPFAI/PF-Gate) • 9h ago
 
 ---
 
@@ -90,7 +90,7 @@ Hey everyone — I’m a CS student working on an open-source tool called PF Gat
 
 ROS News for the Week of February 2nd, 2026            Big news, ROSCon Croatia is go! The event is scheduled for late March. Reach out to @destogl for more information. Our friends at InOrbit have an event tonight in Mountain view and our SG ROS Meetup will happen on the 10th. Towards the end of the month we have a very special joint PX4 / ROS By-The-Bay Meetup sheduled.             URDF Kitchen is a GUI-based tool that allows you to load mesh files for robot parts, mark connection points, and ...
 
-🔗 [Open Robotics Discourse](https://discourse.openrobotics.org/t/ros-news-for-the-week-of-february-2nd-2026/52379) • 9h ago
+🔗 [Open Robotics Discourse](https://discourse.openrobotics.org/t/ros-news-for-the-week-of-february-2nd-2026/52379) • 10h ago
 
 ---
 
@@ -106,7 +106,7 @@ Hey guys, I'm not a robotics engineer. just a guy who got tired of watching some
 
 A new 2026 market report highlights a massive shift toward mass production, led by giants like Tesla (aiming for 1 million Optimus units), Boston Dynamics, and Figure AI. From logistics and healthcare to customer-facing retail, general-purpose humanoids are becoming an operational reality.
 
-🔗 [GlobeNewswire News Room](https://www.globenewswire.com/news-release/2026/02/04/3232234/0/en/Humanoid-Robotics-Market-in-2026-Transformative-Trends-and-Technological-Advancements.html) • 18h ago
+🔗 [GlobeNewswire News Room](https://www.globenewswire.com/news-release/2026/02/04/3232234/0/en/Humanoid-Robotics-Market-in-2026-Transformative-Trends-and-Technological-Advancements.html) • 19h ago
 
 ---
 
@@ -124,7 +124,7 @@ Rest of World • 1d ago
 
 After failing to deliver its promised "Tesla killer" EV, Faraday Future is hoping it's robot has what it takes to finally pull ahead of Elon.
 
-Electrek • 16h ago
+Electrek • 17h ago
 
 ---
 
@@ -156,7 +156,7 @@ Supply Chain Dive • 1d ago
 
 At its new Stone Mountain, Georgia, facility, Roomba-like robots shuffle between stacks, another adds shipping labels while another arranges packages in pallets
 
-The Guardian • 17h ago
+The Guardian • 18h ago
 
 ---
 
@@ -238,7 +238,7 @@ Not all the robots at CES were behaving this year. In this video, witness a hila
 
 📺 Tinker Forward
 
-👁️ 1K • 👍 24 • ⏱️ 1:30 • 6h ago
+👁️ 1K • 👍 24 • ⏱️ 1:30 • 7h ago
 
 ---
 
@@ -278,7 +278,7 @@ AI in a kids toy does what experts warned. Can we trust AI? Get Inside AI's excl
 
 📺 FUN Robotics Network
 
-👁️ 701 • 👍 26 • 💬 5 • ⏱️ 6:51 • 8h ago
+👁️ 701 • 👍 26 • 💬 5 • ⏱️ 6:51 • 9h ago
 
 ---
 
