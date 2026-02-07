@@ -3,7 +3,7 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-02-07T14:28:06.097299+00:00'
+updated: '2026-02-07T14:54:23.143733+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
@@ -18,7 +18,7 @@ data_types:
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** February 07, 2026 at 14:28 UTC  
+**Last Updated:** February 07, 2026 at 14:54 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -89,13 +89,13 @@ Rank #1
 
 I’m in multiple investment groups with very sharp people, and the skepticism is louder than I’ve heard it in a long time. Even my resident conspiracy-theorist cousin has re-emerged with “proof.” Who knew This was exactly the sentiment we needed, when I thought I’d never again see prices at these levels 😂
 
-11h ago
+12h ago
 
 ---
 
 **[People who bought bitcoin at $61k yesterday](https://www.reddit.com/r/Bitcoin/comments/1qxw35n/people_who_bought_bitcoin_at_61k_yesterday/)**
 
-15h ago
+16h ago
 
 ---
 
@@ -115,7 +115,7 @@ I’m in multiple investment groups with very sharp people, and the skepticism i
 
 If you see blockchain activity whales are clearly accumulating taking BTC outside exchanges. It seems this is contrarian to people saying that BTC will bottom around 45k-55k. I believe (and hope) that bottom is in and the liquidation of this week has been a great opportunity to accumulate, decrease btc availability on exchanges and bring price to 100k +
 
-1h ago
+2h ago
 
 ---
 
@@ -137,7 +137,7 @@ Yes I finally captured it!
 
 Basically
 
-1h ago
+2h ago
 
 ---
 
@@ -163,7 +163,7 @@ CNBC • 21h ago
 
 The company quickly realised its mistake and managed to recover virtually all the missing tokens from customers.
 
-BBC • 31m ago
+BBC • 57m ago
 
 ---
 
@@ -178,7 +178,7 @@ CNBC • 4h ago
 
 **[Crypto Exchange to Reimburse Some Users After $40 Billion Error](https://www.bloomberg.com/news/articles/2026-02-07/crypto-exchange-to-reimburse-some-users-after-40-billion-error)**
 
-Bloomberg • 2h ago
+Bloomberg • 3h ago
 
 ---
 
@@ -324,7 +324,7 @@ Bitcoin plunges as crypto markets lose trillions, sparking debate over whether B
 
 📺 Valuetainment
 
-👁️ 118K • 👍 3K • 💬 12K • ⏱️ 14:38 • 16h ago
+👁️ 118K • 👍 3K • 💬 12K • ⏱️ 14:38 • 17h ago
 
 ---
 
