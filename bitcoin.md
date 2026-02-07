@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-02-07T07:09:02.669599+00:00'
+updated: '2026-02-07T07:51:48.663202+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- cryptocurrency
-- videos
 - news
 - social
+- videos
+- cryptocurrency
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** February 07, 2026 at 07:09 UTC  
+**Last Updated:** February 07, 2026 at 07:51 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -79,13 +79,13 @@ Rank #1
 
 **[Look babe, bitcoin went up 9% today](https://www.reddit.com/r/Bitcoin/comments/1qy03oz/look_babe_bitcoin_went_up_9_today/)**
 
-5h ago
+6h ago
 
 ---
 
 **[People who bought bitcoin at $61k yesterday](https://www.reddit.com/r/Bitcoin/comments/1qxw35n/people_who_bought_bitcoin_at_61k_yesterday/)**
 
-8h ago
+9h ago
 
 ---
 
@@ -93,13 +93,13 @@ Rank #1
 
 I got paid today. I get paid every two weeks. I just spent my entire check on bitcoin again. Got it at 63-66ish I believe. I’ve been catching the falling knives. Bought at 80, 77, 73, 63. I am ready to catch the falling knife at 60, 50, 40, and 30. Last cycle I was scared. Uncertain. This cycle, once I saw 63k and my friends asking what was going on, I went UNCONSCIOUS. I automatically panic bought with my entire check. I didn’t think. Just did. And I will be continuing to throw every check in until 30k. I’m not going to wait for a lower price. Even though “we all know” it’s going below 60k, that didn’t stop me from lump summing the entire check at 63-66. I don’t care. I don’t care because US dollars do not matter. The only thing that matters is how much bitcoin you have. I love the bear because when we are at the bottom, it’s only the real ones left. The ones that actually understand. During the bull, this sub is filled with pure nonsense. I’m glad the bear is here so I can enjoy Bitcoin Reddit again. EDIT: I am VERY surprised to see the hate. Tourists must still be here. What happened to this sub?
 
-5h ago
+6h ago
 
 ---
 
 **[We are so back](https://www.reddit.com/r/Bitcoin/comments/1qxpeyz/we_are_so_back/)**
 
-12h ago
+13h ago
 
 ---
 
@@ -107,7 +107,7 @@ I got paid today. I get paid every two weeks. I just spent my entire check on bi
 
 I’m in multiple investment groups with very sharp people, and the skepticism is louder than I’ve heard it in a long time. Even my resident conspiracy-theorist cousin has re-emerged with “proof.” Who knew This was exactly the sentiment we needed, when I thought I’d never again see prices at these levels 😂
 
-4h ago
+5h ago
 
 ---
 
@@ -115,7 +115,7 @@ I’m in multiple investment groups with very sharp people, and the skepticism i
 
 Yes I finally captured it!
 
-12h ago
+13h ago
 
 ---
 
@@ -129,13 +129,13 @@ Yes I finally captured it!
 
 Thanks. God bless you all
 
-17h ago
+18h ago
 
 ---
 
 **[Don't buy bitcoin](https://www.reddit.com/r/Bitcoin/comments/1qxip3i/dont_buy_bitcoin/)**
 
-16h ago
+17h ago
 
 ---
 
@@ -143,7 +143,7 @@ Thanks. God bless you all
 
 I accumulated 1.18 more and bought a total of 1.60 BTC today. I had been patiently waiting for a pullback in the $66,000–$70,000 range, and the opportunity finally presented itself. If the market corrects further, I’m prepared to add more around the $53,000 level as well. This is a personal, well-considered decision aligned with my financial position. Even in an extreme downside scenario, it would not materially impact me. I’m not recommending this to anyone—cryptocurrency remains highly volatile and risky. This approach is only suitable for those who can tolerate significant risk and are financially comfortable even in the event of a loss. Despite widespread bearish predictions ranging from $16K to $10K, I’m sticking to my own strategy and long-term conviction. Having already achieved returns far exceeding my current investment through futures and forex, I’m comfortable taking this calculated exposure. Staying disciplined, focused, and patient. Good luck to everyone.
 
-17h ago
+18h ago
 
 ---
 
@@ -163,13 +163,13 @@ ABC7 Los Angeles • 1d ago
 
 Cryptocurrency transactions are often thought to be anonymous and untraceable. That's a misconception, experts tell CBS News.
 
-cbsnews.com • 8h ago
+cbsnews.com • 9h ago
 
 ---
 
 **[The Kidnappers Of Savannah Guthrie's Mom Want Bitcoin—But It’s Not As Anonymous As Many Think](https://www.forbes.com/sites/martinadilicosa/2026/02/06/the-kidnappers-of-savannah-guthries-mom-want-bitcoin-but-its-not-as-anonymous-as-many-think/)**
 
-Forbes • 10h ago
+Forbes • 11h ago
 
 ---
 
@@ -177,7 +177,7 @@ Forbes • 10h ago
 
 Hitting this mark implies lower returns going forward, which is a reasonable expectation.
 
-Yahoo Finance • 1h ago
+Yahoo Finance • 2h ago
 
 ---
 
@@ -191,7 +191,7 @@ Reuters • 4h ago
 
 Some recipients reportedly sold the coins before the exchange's "internal control system and promptly restricted transactions."
 
-The Block • 15h ago
+The Block • 16h ago
 
 ---
 
@@ -199,7 +199,7 @@ The Block • 15h ago
 
 A South Korean cryptocurrency exchange apologised on Saturday after mistakenly transferring more than $40 billion worth of bitcoin to users, which briefly prompted a selloff on the platform.Bithumb said it accidentally sent 620,000 bitcoins, currently worth more than $40 billion, and blocked trading and withdrawals for the 695 affected users within 35 minutes after the error occurred on Friday.
 
-Yahoo Finance • 1h ago
+Yahoo Finance • 2h ago
 
 ---
 
@@ -215,7 +215,7 @@ Mashable • 1d ago
 
 “We see few bullish indicators that suggest we may be approaching the bottom,” Jefferies analyst Andrew Moss says.
 
-Fortune • 19h ago
+Fortune • 20h ago
 
 ---
 
@@ -365,7 +365,7 @@ Bitcoin #Crypto #Finance Bitcoin's sudden collapse may have come from a hidden s
 
 📺 The Wolf Of All Streets
 
-👁️ 41K • 👍 2K • 💬 437 • ⏱️ 24:28 • 16h ago
+👁️ 41K • 👍 2K • 💬 437 • ⏱️ 24:28 • 17h ago
 
 ---
 
@@ -375,7 +375,7 @@ In this interview, Bitcoin OG Samson Mow shares his view on why Bitcoin keeps fa
 
 📺 Cointelegraph
 
-👁️ 16K • 👍 508 • 💬 100 • ⏱️ 19:09 • 14h ago
+👁️ 16K • 👍 508 • 💬 100 • ⏱️ 19:09 • 15h ago
 
 ---
 
@@ -405,7 +405,7 @@ The markets added $1.2 trillion in market cap today, now is this a good time to 
 
 📺 Ricky Gutierrez
 
-👁️ 7K • 👍 361 • 💬 151 • ⏱️ 12:15 • 6h ago
+👁️ 7K • 👍 361 • 💬 151 • ⏱️ 12:15 • 7h ago
 
 ---
 
