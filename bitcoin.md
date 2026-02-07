@@ -3,13 +3,13 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-02-07T08:34:03.852319+00:00'
+updated: '2026-02-07T09:32:27.811158+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- cryptocurrency
 - videos
+- cryptocurrency
 - news
 - social
 ---
@@ -18,7 +18,7 @@ data_types:
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** February 07, 2026 at 08:34 UTC  
+**Last Updated:** February 07, 2026 at 09:32 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -54,7 +54,7 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1376.86B
+**Market Cap:** $1368.76B
 Rank #1
 
 **Circulating Supply:** 19,985,390 BTC
@@ -64,7 +64,7 @@ Rank #1
 -45.7%
 
 **All-Time Low:** $67.81
-+100938.2%
++100832.0%
 
 ---
 
@@ -79,13 +79,13 @@ Rank #1
 
 **[Look babe, bitcoin went up 9% today](https://www.reddit.com/r/Bitcoin/comments/1qy03oz/look_babe_bitcoin_went_up_9_today/)**
 
-7h ago
+8h ago
 
 ---
 
 **[People who bought bitcoin at $61k yesterday](https://www.reddit.com/r/Bitcoin/comments/1qxw35n/people_who_bought_bitcoin_at_61k_yesterday/)**
 
-10h ago
+11h ago
 
 ---
 
@@ -93,13 +93,13 @@ Rank #1
 
 I got paid today. I get paid every two weeks. I just spent my entire check on bitcoin again. Got it at 63-66ish I believe. I’ve been catching the falling knives. Bought at 80, 77, 73, 63. I am ready to catch the falling knife at 60, 50, 40, and 30. Last cycle I was scared. Uncertain. This cycle, once I saw 63k and my friends asking what was going on, I went UNCONSCIOUS. I automatically panic bought with my entire check. I didn’t think. Just did. And I will be continuing to throw every check in until 30k. I’m not going to wait for a lower price. Even though “we all know” it’s going below 60k, that didn’t stop me from lump summing the entire check at 63-66. I don’t care. I don’t care because US dollars do not matter. The only thing that matters is how much bitcoin you have. I love the bear because when we are at the bottom, it’s only the real ones left. The ones that actually understand. During the bull, this sub is filled with pure nonsense. I’m glad the bear is here so I can enjoy Bitcoin Reddit again. EDIT: I am VERY surprised to see the hate. Tourists must still be here. What happened to this sub?
 
-6h ago
+7h ago
 
 ---
 
 **[We are so back](https://www.reddit.com/r/Bitcoin/comments/1qxpeyz/we_are_so_back/)**
 
-14h ago
+15h ago
 
 ---
 
@@ -107,7 +107,7 @@ I got paid today. I get paid every two weeks. I just spent my entire check on bi
 
 I’m in multiple investment groups with very sharp people, and the skepticism is louder than I’ve heard it in a long time. Even my resident conspiracy-theorist cousin has re-emerged with “proof.” Who knew This was exactly the sentiment we needed, when I thought I’d never again see prices at these levels 😂
 
-5h ago
+6h ago
 
 ---
 
@@ -115,13 +115,13 @@ I’m in multiple investment groups with very sharp people, and the skepticism i
 
 Yes I finally captured it!
 
-14h ago
+15h ago
 
 ---
 
 **[Thats the spirit](https://www.reddit.com/r/Bitcoin/comments/1qxfq4n/thats_the_spirit/)**
 
-20h ago
+21h ago
 
 ---
 
@@ -129,7 +129,7 @@ Yes I finally captured it!
 
 ​
 
-2h ago
+3h ago
 
 ---
 
@@ -137,13 +137,13 @@ Yes I finally captured it!
 
 Thanks. God bless you all
 
-19h ago
+20h ago
 
 ---
 
 **[Don't buy bitcoin](https://www.reddit.com/r/Bitcoin/comments/1qxip3i/dont_buy_bitcoin/)**
 
-18h ago
+19h ago
 
 ---
 
@@ -161,7 +161,7 @@ Mashable • 1d ago
 
 **[The Kidnappers Of Savannah Guthrie's Mom Want Bitcoin—But It’s Not As Anonymous As Many Think](https://www.forbes.com/sites/martinadilicosa/2026/02/06/the-kidnappers-of-savannah-guthries-mom-want-bitcoin-but-its-not-as-anonymous-as-many-think/)**
 
-Forbes • 12h ago
+Forbes • 13h ago
 
 ---
 
@@ -169,13 +169,13 @@ Forbes • 12h ago
 
 “We see few bullish indicators that suggest we may be approaching the bottom,” Jefferies analyst Andrew Moss says.
 
-Fortune • 20h ago
+Fortune • 21h ago
 
 ---
 
 **[Your bitcoin investment may have been based on an illusion](https://www.marketwatch.com/story/your-bitcoin-investment-may-have-been-based-on-an-illusion-de2e3fad?gaa_at=eafs&gaa_n=AWEtsqfCBM2xTS8ottxkJ6hDO9VR3BuGxhWCeT9CdO97Pro1YLCF2aWXQyOI&gaa_ts=6986fc69&gaa_sig=kW1hPiQhDaAtkudBJ7sEgiNUKQT3X35XxyMNjEGb3s7n-kKteS4ThhHhzCyUVyNv_R54ztpncDm11CiRrFdRSg%3D%3D)**
 
-MarketWatch • 14h ago
+MarketWatch • 15h ago
 
 ---
 
@@ -197,7 +197,7 @@ Investor's Business Daily • 1d ago
 
 Strategy ($MSTR) surged sharply Friday, lifting more than 25% at times.
 
-Bitcoin Magazine • 14h ago
+Bitcoin Magazine • 15h ago
 
 ---
 
@@ -213,7 +213,7 @@ The Block • 1d ago
 
 The error was quickly corrected, but not before Bithumb users sold off billions in Bitcoin, temporarily crashing its listed price.
 
-Yahoo Finance • 14h ago
+Yahoo Finance • 15h ago
 
 ---
 
@@ -221,7 +221,7 @@ Yahoo Finance • 14h ago
 
 Bithumb reportedly made a mistake that led to the accidental deposit of large amounts of Bitcoin to various users.
 
-Bitcoin Magazine • 15h ago
+Bitcoin Magazine • 16h ago
 
 ---
 
@@ -261,7 +261,7 @@ Bitcoin outlook turns bearish as Pivotus’ Richard Farr targets BTC at $0 and M
 
 Crypto treasury companies quietly crept into index funds and retirement accounts. This collapse is good news for all of us.
 
-⬆️ 4 • 💬 1 • 2d ago • [Slate Magazine](https://slate.com/technology/2026/02/bitcoin-crypto-treasury-wall-street-microstrategy.html)
+⬆️ 4 • 💬 1 • 3d ago • [Slate Magazine](https://slate.com/technology/2026/02/bitcoin-crypto-treasury-wall-street-microstrategy.html)
 
 ---
 
@@ -299,7 +299,7 @@ Cryptocurrency markets fell as global equities and precious metals sold off whil
 
 SE050 Hardware Bitcoin Wallet - Self-sovereign Bitcoin wallet powered by NXP SE050 secure element - 0xdeadbeefnetwork/sigil-web
 
-⬆️ 2 • 💬 1 • 1h ago • [GitHub](https://github.com/0xdeadbeefnetwork/sigil-web)
+⬆️ 2 • 💬 1 • 2h ago • [GitHub](https://github.com/0xdeadbeefnetwork/sigil-web)
 
 ---
 
@@ -313,7 +313,7 @@ Take your personal data back with Incogni! Use code GRAHAM at the link below and
 
 📺 Graham Stephan
 
-👁️ 538K • 👍 19K • 💬 6K • ⏱️ 16:11 • 1d ago
+👁️ 542K • 👍 19K • 💬 6K • ⏱️ 16:11 • 1d ago
 
 ---
 
@@ -323,7 +323,27 @@ Bitcoin has been in a free-fall the past few months. At one point yesterday, it 
 
 📺 From The Desk Of Anthony Pompliano
 
-👁️ 24K • 👍 1K • 💬 157 • ⏱️ 9:43 • 10h ago
+👁️ 27K • 👍 1K • 💬 176 • ⏱️ 9:43 • 11h ago
+
+---
+
+**[BITCOIN WARNING ($39K)](https://www.youtube.com/watch?v=8rjH5qsABXk)**
+
+Bitcoin's record volatility is sending shockwaves through the crypto market—are we nearing the bottom? Get the latest crypto news ...
+
+📺 Discover Crypto
+
+👁️ 11K • 👍 133 • 💬 27 • ⏱️ 0:26 • 14h ago
+
+---
+
+**[Is Bitcoin Dead?](https://www.youtube.com/watch?v=X8IBAatr0Q0)**
+
+Bitcoin didn't die when the price crashed. What died is the illusion that money ever worked the way we were told. This breakdown ...
+
+📺 Simply Bitcoin
+
+👁️ 11K • 👍 908 • 💬 214 • ⏱️ 13:18 • 8h ago
 
 ---
 
@@ -333,47 +353,17 @@ CNBC's “Closing Bell Overtime” team discusses cryptocurrencies, bitcoin's vo
 
 📺 CNBC Television
 
-👁️ 21K • 👍 219 • 💬 154 • ⏱️ 4:14 • 10h ago
+👁️ 23K • 👍 238 • 💬 160 • ⏱️ 4:14 • 11h ago
 
 ---
 
-**[How Low Will Bitcoin Go? #crypto](https://www.youtube.com/watch?v=2thd2iWud4s)**
+**[Bitcoin Is In A Free Fall](https://www.youtube.com/watch?v=AFs9O7Y6QME)**
 
-LIMITED TIME: ✓ Bitunix (no kyc, $10k bonus): https://www.bitunix.com/register?vipCode=AltcoinDaily 50% deposit bonus on ...
+https://democratizedprime.pxf.io/c/2406113/3755092/37696 Enter to win $25k USDC with Democratized Prime while earning ~9% ...
 
-📺 Altcoin Daily
+📺 Aaron Bennett
 
-👁️ 14K • 👍 400 • 💬 44 • ⏱️ 1:10 • 18h ago
-
----
-
-**[🚨 BTC &amp; ETH: THIS IS IT!!!! ITS TIME!!!!!](https://www.youtube.com/watch?v=8QI8ukpRpEI)**
-
-One of the biggest crypto crashes in history! Here is what happened, why and my plan going further. ---------- LIVE VIRTUAL ...
-
-📺 Thomas Kralow
-
-👁️ 27K • 👍 1K • 💬 79 • ⏱️ 11:51 • 19h ago
-
----
-
-**[The REAL Reason Bitcoin COLLAPSED? (Not What You Think)](https://www.youtube.com/watch?v=Hpe0oSJ5L3k)**
-
-Bitcoin #Crypto #Finance Bitcoin's sudden collapse may have come from a hidden structural pressure, not panic or on chain ...
-
-📺 The Wolf Of All Streets
-
-👁️ 41K • 👍 2K • 💬 437 • ⏱️ 24:28 • 18h ago
-
----
-
-**[Samson Mow On Why Bitcoin Keeps Falling and When the Rebound May Come](https://www.youtube.com/watch?v=5VaqkszkWp8)**
-
-In this interview, Bitcoin OG Samson Mow shares his view on why Bitcoin keeps falling, what's driving recent market sell-offs, and ...
-
-📺 Cointelegraph
-
-👁️ 16K • 👍 508 • 💬 100 • ⏱️ 19:09 • 15h ago
+👁️ 36K • 👍 1K • 💬 818 • ⏱️ 13:47 • 1d ago
 
 ---
 
@@ -387,13 +377,21 @@ Make Free Predictions on *ClashPicks* ▻ https://www.clashpicks.com/ Follow Cla
 
 ---
 
-**[XRP Did WHAT with Bitcoin?!😭 (The Dark Truth)](https://www.youtube.com/watch?v=ZscPGE0LpYc)**
+**[DID JEFF INVENT BITCOIN?](https://www.youtube.com/watch?v=D2rbPG_Ncnw)**
 
-ツFollow me on My REAL Instagram @TradeshipUniversity and DM "CRYPTO" for Automated Trading!
+Did Jeffrey invent Bitcoin? This viral theory is blowing up across crypto circles, so we break it down, separate facts from fiction, and ...
 
-📺 Crypto Cam
+📺 Discover Crypto
 
-👁️ 72K • 👍 1K • 💬 71 • ⏱️ 0:27 • 2d ago
+👁️ 46K • 👍 783 • 💬 94 • ⏱️ 2:44 • 2d ago
+
+---
+
+**[Short term vs Long term investments. #icebergandco #jeweler #crypto #watches #bitcoin](https://www.youtube.com/watch?v=yvmYt4UYE_Q)**
+
+📺 Moshe Iceberg
+
+👁️ 778 • 👍 18 • 💬 1 • ⏱️ 1:00 • 13h ago
 
 ---
 
@@ -403,7 +401,7 @@ The markets added $1.2 trillion in market cap today, now is this a good time to 
 
 📺 Ricky Gutierrez
 
-👁️ 7K • 👍 361 • 💬 151 • ⏱️ 12:15 • 8h ago
+👁️ 8K • 👍 389 • 💬 162 • ⏱️ 12:15 • 9h ago
 
 ---
 
