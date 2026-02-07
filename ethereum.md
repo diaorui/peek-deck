@@ -3,13 +3,13 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-02-07T19:45:25.464722+00:00'
+updated: '2026-02-07T20:28:26.877976+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- social
 - cryptocurrency
+- social
 - news
 - videos
 ---
@@ -18,7 +18,7 @@ data_types:
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** February 07, 2026 at 19:45 UTC  
+**Last Updated:** February 07, 2026 at 20:28 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -72,13 +72,13 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-13h ago
+14h ago
 
 ---
 
 **[We're building an open-source archive of the earliest Ethereum smart contracts (2015-2017) — looking for contributors](https://www.reddit.com/r/ethereum/comments/1qymum3/were_building_an_opensource_archive_of_the/)**
 
-20m ago
+1h ago
 
 ---
 
@@ -102,7 +102,7 @@ Vitalik: role of L2s has changed, Hegotá upgrade headliner proposals, Lido v3 l
 
 im jef, and im honestly just starting to get into crypto, trying to understand how all of this works and whether it’s something i could realistically learn and grow into over time. i don’t come from money, im just a student juggling school, responsibilities, and everyday expenses, so I don’t have much to risk or experiment with, which is why im looking for advice more than anything else. i’ve been reading, watching, and asking around, but it still feels overwhelming, and i know im inexperienced and probably missing a lot of important basics. At the same time, a part of me thinks this could be a real opportunity if i approach it carefully, stay patient, and learn from people who actually know what they’re doing. im not chasing quick profits or hype, i just want guidance on how to start smart, avoid obvious mistakes, and figure out if someone like me, broke, still studying, and learning as i go, i might have a genuine chance at building something small but meaningful through crypto in the long run. could anyone give advise?
 
-15h ago
+16h ago
 
 ---
 
@@ -152,7 +152,7 @@ https://etherscan.io/tx/0xaab90d00abf065e4158852a64c809b8921d109e997bd3790cb471a
 
 ENS Labs is canceling the launch of the Namechain Layer 2, which began development in 2024 to support the forthcoming ENSv2 update.
 
-The Block • 21h ago
+The Block • 22h ago
 
 ---
 
@@ -190,7 +190,7 @@ CoinDesk • 2d ago
 
 BitMine Immersion Technologies, ticker NYSEAM:BMNR, is reporting nearly $8b in unrealized losses tied to its Ethereum holdings after a sharp pullback in ETH prices. The company continues to frame its large Ethereum position and staking operations as part of a long term treasury approach, while continuing to accumulate ETH. Recent executive turnover, including the amicable separation of President Erik Nelson, is adding another layer of uncertainty for shareholders during heightened crypto...
 
-Yahoo Finance • 2h ago
+Yahoo Finance • 3h ago
 
 ---
 
@@ -236,7 +236,7 @@ Tom Lee, Fundstrat, joins 'Closing Bell' to discuss the state of crypto markets,
 
 📺 CNBC Television
 
-👁️ 56K • 👍 675 • 💬 333 • ⏱️ 3:53 • 22h ago
+👁️ 56K • 👍 675 • 💬 333 • ⏱️ 3:53 • 23h ago
 
 ---
 
@@ -256,7 +256,7 @@ ETHEREUM ETH PRICE PREDICTION 2026 Join the Premium Signal Group for trade setup
 
 📺 Cilinix Crypto
 
-👁️ 399 • 👍 23 • 💬 6 • ⏱️ 5:23 • 9h ago
+👁️ 399 • 👍 23 • 💬 6 • ⏱️ 5:23 • 10h ago
 
 ---
 
@@ -296,7 +296,7 @@ Tangem 20% off + $10 in Bitcoin ➡️➡️ Use codes "NYEXTRA26" & "CRYPTOCREW
 
 📺 Your Crypto Crew
 
-👁️ 389 • 👍 69 • 💬 23 • ⏱️ 12:26 • 4h ago
+👁️ 389 • 👍 69 • 💬 23 • ⏱️ 12:26 • 5h ago
 
 ---
 
@@ -306,7 +306,7 @@ BITCOIN CRASH OVER: My $5 Million Trading Strategy!!! - Bitcoin News Today, Ethe
 
 📺 Crypto World
 
-👁️ 10K • 👍 437 • 💬 233 • ⏱️ 22:22 • 20h ago
+👁️ 10K • 👍 437 • 💬 233 • ⏱️ 22:22 • 21h ago
 
 ---
 

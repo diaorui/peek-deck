@@ -3,7 +3,7 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-02-07T19:45:25.467912+00:00'
+updated: '2026-02-07T20:28:26.881270+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
@@ -17,7 +17,7 @@ data_types:
 
 Robotics research and industry news
 
-**Last Updated:** February 07, 2026 at 19:45 UTC  
+**Last Updated:** February 07, 2026 at 20:28 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -36,7 +36,7 @@ Robotics research and industry news
 
 Pantograph website: https://pantograph.com/ Pantograph on 𝕏: http://x.com/pantographPBC
 
-7h ago
+8h ago
 
 ---
 
@@ -44,7 +44,7 @@ Pantograph website: https://pantograph.com/ Pantograph on 𝕏: http://x.com/pan
 
 The chest finally finished printing after 5 days of printing. I assembled it and so far it looks like this, i still have to build the right arm and mount them. I know it may not look that good but it’s my first time doing such a big project and i’m still learning.
 
-3h ago
+4h ago
 
 ---
 
@@ -60,7 +60,7 @@ From CyberRobo on 𝕏: https://x.com/CyberRobooo/status/2019598569909743755
 
 There is the popular argument for why having a humanoid robot would be the best way to do things: "because the environment is human shaped/designed for humans." However, why are we assuming it would be necessarily harder to redesign the environment so a simpler non-humanoid robot can make use of it rather than recreating the entire human body and all its complexities in robot form while trying to make it suitable to many different varying environments? Also, this argument implies the environment is exclusively human shaped, meaning a machine with human shapes and function is the only way forward in order for it traverse and interact with the environment, but this is not true. For instance, a flat floor, which is designed for human use, also allows use by a non-humanoid robot with wheels.
 
-7h ago
+8h ago
 
 ---
 
@@ -68,7 +68,7 @@ There is the popular argument for why having a humanoid robot would be the best 
 
 My boyfriend is a computer science major and is about to graduate. He’s really into robotics, especially humanoid robots, and he currently works in a research lab where they’re building a humanoid that can catch objects. Most of what I see him doing is simulation and coding work on his computer. Last year I got him an Arduino kit, and he already has a toolkit, but he doesn’t really use either one much on his own (as far as I see). He’s pretty thrifty and values practicality over “cool” gadgets. For context, he uses a Mac and has a portable monitor that fits in his backpack. He doesn’t currently use an external keyboard or mouse, but I don’t think he cares much about those. I want to get him something he’ll genuinely use in his future work. Since he mostly works in teams through his lab/club (not solo at-home build projects), I’m not looking for another kit. Any gift ideas from people in CS/robotics, or partners of people in this field, that are truly useful and not gimmicky? Thank you!!
 
-11h ago
+12h ago
 
 ---
 
@@ -76,13 +76,13 @@ My boyfriend is a computer science major and is about to graduate. He’s really
 
 Hi everyone, I’m planning to build a self-balancing robot and I wanted to share the parts I currently have before moving forward. Parts I have: Arduino Nano (ATmega328P) MPU6050 (accelerometer + gyroscope) TB6612FNG dual motor driver DC motors (3–6 V) Battery pack ~8 V, 2600 mAh 2× electrolytic capacitors (1000 µF, 16 V) Wheels and a rigid homemade chassis The goal is to make a robot that can balance itself upright using these components. I’m still in the early stages and would appreciate any general advice or things to watch out for when building a self-balancing robot with this kind of setup. Thanks!
 
-52m ago
+1h ago
 
 ---
 
 **[It dance better than me for sure…](https://www.reddit.com/r/robotics/comments/1qykdxw/it_dance_better_than_me_for_sure/)**
 
-1h ago
+2h ago
 
 ---
 
@@ -90,7 +90,7 @@ Hi everyone, I’m planning to build a self-balancing robot and I wanted to shar
 
 Just pushed an update to casadi-on-gpu that lets you generate CUDA kernels directly from CasADi and call them from C++, PyTorch, or CuPy. Useful for MPC, sampling, system ID, and robotics pipelines at scale.
 
-19h ago
+20h ago
 
 ---
 
@@ -126,7 +126,7 @@ The Robot Report • 3d ago
 
 Qualcomm (QCOM) CFO and COO Akash Palkhiwala sits down with Market Domination Host Josh Lipton and Yahoo Finance Tech Editor Dan Howley to talk more about the role that the AI chipmaker envisions for itself in the robotics industry Also catch Akash Palkhiwala talk about Qualcomm's outlook on challenges for its handset phone division. To watch more expert insights and analysis on the latest market action, check out more&nbsp;Market Domination.
 
-Yahoo Finance • 44m ago
+Yahoo Finance • 1h ago
 
 ---
 
@@ -134,7 +134,7 @@ Yahoo Finance • 44m ago
 
 "We just need enough time to build the AI and robots to not go bankrupt before then."
 
-Fortune • 57m ago
+Fortune • 1h ago
 
 ---
 
@@ -156,7 +156,7 @@ Politico • 2d ago
 
 Seeed Studio is releasing an affordable and open source robotic arm design called the reBot Arm B601, complete with comprehensive software.
 
-Hackster.io • 5h ago
+Hackster.io • 6h ago
 
 ---
 
@@ -170,7 +170,7 @@ Rest of World • 2d ago
 
 Harvard engineers 3D print soft robots with built-in air channels that bend and change shape predictably when inflated.
 
-Interesting Engineering • 23h ago
+Interesting Engineering • 1d ago
 
 ---
 
@@ -200,7 +200,7 @@ GET MY FREE GUIDE: *The Content Creator's AI Blueprint: From 25 Hours to 5 Minut
 
 📺 Julia McCoy
 
-👁️ 5K • 👍 529 • 💬 98 • ⏱️ 17:32 • 4h ago
+👁️ 5K • 👍 529 • 💬 98 • ⏱️ 17:32 • 5h ago
 
 ---
 
@@ -220,7 +220,7 @@ XPENG just took a massive step forward in humanoid robotics. The New IRON robot 
 
 📺 DPCcars
 
-👁️ 23K • 👍 208 • 💬 45 • ⏱️ 1:21 • 6d ago
+👁️ 23K • 👍 208 • 💬 45 • ⏱️ 1:21 • 7d ago
 
 ---
 

@@ -3,13 +3,13 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-02-07T19:45:25.458614+00:00'
+updated: '2026-02-07T20:28:26.872042+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- social
 - cryptocurrency
+- social
 - news
 - videos
 ---
@@ -18,7 +18,7 @@ data_types:
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** February 07, 2026 at 19:45 UTC  
+**Last Updated:** February 07, 2026 at 20:28 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -111,13 +111,13 @@ My mother barely uses Facebook and has zero interest in technology or finance. Y
 
 ​
 
-13h ago
+14h ago
 
 ---
 
 **[Buy The dip](https://www.reddit.com/r/Bitcoin/comments/1qygmls/buy_the_dip/)**
 
-4h ago
+5h ago
 
 ---
 
@@ -125,7 +125,7 @@ My mother barely uses Facebook and has zero interest in technology or finance. Y
 
 Basically
 
-6h ago
+7h ago
 
 ---
 
@@ -137,7 +137,7 @@ Basically
 
 **[Look babe, bitcoin went up 9% today](https://www.reddit.com/r/Bitcoin/comments/1qy03oz/look_babe_bitcoin_went_up_9_today/)**
 
-18h ago
+19h ago
 
 ---
 
@@ -157,13 +157,13 @@ I’m in multiple investment groups with very sharp people, and the skepticism i
 
 The company quickly realised its mistake and managed to recover virtually all the missing tokens from customers.
 
-BBC • 5h ago
+BBC • 6h ago
 
 ---
 
 **[South Korean crypto firm accidentally sends $44 billion in bitcoins to users](https://www.reuters.com/world/asia-pacific/crypto-firm-accidentally-sends-44-billion-bitcoins-users-2026-02-07/)**
 
-Reuters • 16h ago
+Reuters • 17h ago
 
 ---
 
@@ -179,7 +179,7 @@ Yahoo Finance • 1d ago
 
 We explore the latest ups and downs (mostly downs) in the crypto market.
 
-Mashable • 22h ago
+Mashable • 23h ago
 
 ---
 
@@ -187,13 +187,13 @@ Mashable • 22h ago
 
 It's possible, but it won't happen tomorrow.
 
-The Motley Fool • 40m ago
+The Motley Fool • 1h ago
 
 ---
 
 **[Bitcoin To Fall To $54K? Veteran Trader Questions Whether Strategy Investors Can Hold On](https://uk.finance.yahoo.com/news/bitcoin-fall-54k-veteran-trader-164602291.html)**
 
-Yahoo Finance UK • 2h ago
+Yahoo Finance UK • 3h ago
 
 ---
 
@@ -241,7 +241,7 @@ The Wall Street Journal • 1d ago
 
 Some market watchers have suggested $70,000 is a key level to watch and a break below that could lead bitcoin to decline further.
 
-⬆️ 59 • 💬 1 • 1d ago • [CNBC](https://www.cnbc.com/2026/02/05/bitcoin-price-today-70000-in-focus.html)
+⬆️ 59 • 💬 1 • 2d ago • [CNBC](https://www.cnbc.com/2026/02/05/bitcoin-price-today-70000-in-focus.html)
 
 ---
 
@@ -295,13 +295,13 @@ Cryptocurrency markets fell as global equities and precious metals sold off whil
 
 SE050 Hardware Bitcoin Wallet - Self-sovereign Bitcoin wallet powered by NXP SE050 secure element - 0xdeadbeefnetwork/sigil-web
 
-⬆️ 2 • 💬 1 • 12h ago • [GitHub](https://github.com/0xdeadbeefnetwork/sigil-web)
+⬆️ 2 • 💬 1 • 13h ago • [GitHub](https://github.com/0xdeadbeefnetwork/sigil-web)
 
 ---
 
 **[South Korean crypto firm accidentally sends $44B in bitcoins to users](https://news.ycombinator.com/item?id=46926461)**
 
-⬆️ 2 • 💬 0 • 49m ago • [reuters.com](https://www.reuters.com/world/asia-pacific/crypto-firm-accidentally-sends-44-billion-bitcoins-users-2026-02-07/)
+⬆️ 2 • 💬 0 • 1h ago • [reuters.com](https://www.reuters.com/world/asia-pacific/crypto-firm-accidentally-sends-44-billion-bitcoins-users-2026-02-07/)
 
 ---
 
@@ -325,7 +325,7 @@ Bitcoin has been in a free-fall the past few months. At one point yesterday, it 
 
 📺 From The Desk Of Anthony Pompliano
 
-👁️ 37K • 👍 2K • 💬 272 • ⏱️ 9:43 • 21h ago
+👁️ 37K • 👍 2K • 💬 272 • ⏱️ 9:43 • 22h ago
 
 ---
 
@@ -355,7 +355,7 @@ BYBIT: http://themoon.co/Bybit 10% DISCOUNT & $30000 BONUS Phemex: https://themo
 
 📺 The Moon Show
 
-👁️ 17K • 👍 901 • 💬 71 • ⏱️ 6:39 • 9h ago
+👁️ 17K • 👍 901 • 💬 71 • ⏱️ 6:39 • 10h ago
 
 ---
 
@@ -385,7 +385,7 @@ Bitcoin insane price collapse, but where is the bottom for BTC? BITUNIX TRADE TH
 
 📺 Lark Davis
 
-👁️ 5K • 👍 501 • 💬 82 • ⏱️ 14:26 • 4h ago
+👁️ 5K • 👍 501 • 💬 82 • ⏱️ 14:26 • 5h ago
 
 ---
 
@@ -405,7 +405,7 @@ CNBC's “Closing Bell Overtime” team discusses cryptocurrencies, bitcoin's vo
 
 📺 CNBC Television
 
-👁️ 31K • 👍 299 • 💬 334 • ⏱️ 4:14 • 21h ago
+👁️ 31K • 👍 299 • 💬 334 • ⏱️ 4:14 • 22h ago
 
 ---
 
