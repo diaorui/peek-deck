@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-02-07T20:55:07.936523+00:00'
+updated: '2026-02-07T21:27:11.693725+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- videos
 - repositories
 - news
 - social
+- videos
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** February 07, 2026 at 20:55 UTC  
+**Last Updated:** February 07, 2026 at 21:27 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -49,7 +49,7 @@ Countries have been building their own “sovereign AI” to reflect their cultu
 
 I have been working solo on an AI-based project called Netryx. At a high level, it takes a street-level photo and attempts to determine the exact GPS coordinates where the image was taken. Not a city guess or a heatmap. The actual location, down to meters. If the system cannot verify the result with high confidence, it returns nothing. That behavior is intentional. Most AI geolocation tools will confidently give an answer even when they are wrong. Netryx is designed to fail closed. No verification means no output. Conceptually, it works in two stages. An AI model first narrows down likely areas based on visual features, either globally or within a user-defined region. A separate verification step then compares candidates against real street-level imagery. If verification fails, the result is discarded. This means it is not magic and not globally omniscient. The system requires pre-mapped street-level coverage to verify locations. Think of it as an AI-assisted visual index of physical space. As a test, I mapped roughly 5 square kilometers of Paris and fed in a random street photo from within that area. It identified the exact intersection in under three minutes. A few clarifications upfront: • It is not open source right now due to obvious privacy and abuse risks • It requires prior street-level coverage to return results • AI proposes candidates, verification gates all outputs • I am not interested in locating people from social media photos I am posting this here to get perspective from the security community. From a defensive angle, this shows how much location data AI can extract from ordinary images. From an offensive angle, the risks are clear. For those working in cybersecurity or AI security: where do you think the line is between a legitimate AI-powered OSINT capability and something that should not exist?
 
-13h ago
+14h ago
 
 ---
 
@@ -73,7 +73,7 @@ View AI Agent prediction on PardusAI - AI-powered data analysis platform
 
 One of Kimi’s browser automation scripts uses a dark web library with crypto stealing malware: https://github.com/dnnyngyen/kimi-agent-internals/blob/main/source-code/browser_guard.py
 
-3h ago
+4h ago
 
 ---
 
@@ -81,7 +81,7 @@ One of Kimi’s browser automation scripts uses a dark web library with crypto s
 
 Hey fam, Been grinding on BrainAPI, this open-source thing that turns messy event logs into a smart knowledge graph for AI agents and rec systems. Think: feed it user clicks/buys/chats, it builds a precise map with cause-effect attribution (no BS hallucinations), then your AI retrieves fast AF for spot-on suggestions. Right now: Core APIs for saving/processing data -> works for CRM member matches/social networks (one user already using it for automated matches). Fast retrieval But ingestion? Slow as hell (10-30 min on small datasets) cuz of heavy LLM chains for precision. Trade-off for that "holy grail" accuracy, but yeah, it's a pain, optimizing soon. Repo: https://github.com/Lumen-Labs/brainapi2 What's the vibe? Bugs? Missing features? Use cases for ecom or agents? Roast it hard, I'm not fragile. If it slaps, star/fork. Building in public, hit me with thoughts!
 
-29m ago
+1h ago
 
 ---
 
@@ -89,7 +89,7 @@ Hey fam, Been grinding on BrainAPI, this open-source thing that turns messy even
 
 Goldman Sachs is building AI agents with Anthropic’s Claude to automate trade accounting and client onboarding, aiming to speed work and boost efficiency.
 
-🔗 [CNBC](https://www.cnbc.com/2026/02/06/anthropic-goldman-sachs-ai-model-accounting.html) • 22h ago
+🔗 [CNBC](https://www.cnbc.com/2026/02/06/anthropic-goldman-sachs-ai-model-accounting.html) • 23h ago
 
 ---
 
@@ -97,7 +97,7 @@ Goldman Sachs is building AI agents with Anthropic’s Claude to automate trade 
 
 I’m a solo web developer, so I spend most of my day using AI to debug my self made chaos , or manage my homelab as a fun side project. Or mess around with Arduino or 3D printing MCP servers. But recently, I asked Gemini for help with the hardest stack I’ve ever had to manage: a household with an extremely disrespectful 19 year old stepson. I am married with two step kids, the other is 15 and somewhat on the autistic spectrum. I've been in this family for for 7 years, married for 2. Their real dad bailed on them before I arrived and fell in love with my Soul Mate and best friend. If you’ve been there, you know the drill. The constant attitude, the tension between siblings, and the emotional toll it takes on your marriage. My wife and I were fed up, but every time we tried to talk to him, it devolved into a circular argument or a shouting match. He wouldn't understand, can't see our perspective, and continues to shit everything up. It was draining the life out of us. I decided to treat the conflict like a "System Architecture" problem and used Gemini to help us navigate it. Here’s how it changed the game for us. Sorry, not sorry, but I did use Gemini to summarise these shenanigans for me, as it really is a complex topic with emotions involved on my side. For what it's worth, I am very real and raw with Gemini in what I say about my family. As a 39 year old, I deeply understand the privacy issues, especially when ... Well, 90s kids don't trust the system... Which amazed me that I was doing this, telling Ai about this, but it shows how frustrated and desperate I was, to tell Google, of all companies, who removed their "do no evil" sign... Well... Anyway... Here it is: The "Logic Buffer": When you're angry, you say things that trigger defensiveness. The AI helped me translate raw frustration into firm, calm, adult-to-adult boundaries. I voice chat Gemini and it helped me work through some difficult thoughts. The Unified Front: It helped my wife and me build a literal Meeting Plan. It gave us roles, ideas, "anchor phrases" to use when things got heated, and a strategy to stay aligned so we couldn't be "divided and conquered." The "Adult Choice" Framework: It shifted the dynamic from us "punishing" a kid to us "managing a household of adults." The AI scripted an ultimatum that wasn't a threat, but a choice: You can be a respectful member of this house, or you can choose to find a living situation that better fits your current attitude. Emotional Outsourcing: It took the mental load of "What do I say?" and turned it into a checklist. We walked into that room feeling like a professional team with a script, rather than two exhausted parents winging it. The result? The most productive, calm, and clear conversation we’ve ever had with him. No yelling. No "what-abouts." Just clear boundaries and a path forward. I see a lot of talk about AI taking jobs, but for me, it’s giving me my home back. It’s like having a high-level consultant for your personal life who doesn’t get tired, emotional, or biased. Has anyone else used LLMs for "Soft Skills" or family mediation? It feels like a total superpower for conflict resolution. _ Me again, I asked it for some examples.. here it is raw from AI again: Example 1: The "Translation" (Emotional to Logical) The Chaos: I wanted to tell him, "You're being a lazy, entitled brat and you're making your mother miserable." The AI Refinement: "We value having you here, but the current lack of respect for the household peace is unsustainable. We are moving to an adult-to-adult living agreement where respect is the 'rent' for staying in this home." Example 2: The "Anchor Phrase" for High-Conflict The Chaos: Usually, he’d say something rude, I’d get defensive, and we’d yell for 20 minutes. The AI Solution: It gave us an "Anchor Phrase." Whenever he tried to derail the talk, we simply said: "We aren't here to argue about the past; we are here to decide if you can meet the standards of this house moving forward." Having that script prevented the "emotional hijack" that usually ruins these talks. Example 3: Managing the "Unified Front" The Chaos: In the past, he’d wait until I was in the workshop and then give his mom a hard time, or vice versa. The AI Plan: The AI helped us set a "Veto Rule." If he asks one of us something, the answer is always: "I’ll discuss that with [Alice/Partner] and we will get back to you together." It shut down the "divide and conquer" tactic instantly. Thanks for enjoying the chaos with me. I sincerely hope other families use this to their advantage. I have been very impressed with the assistance. The meetings have been way more productive. I imagine there will be more issues in the future, but the relief and support I received from AI has already made a huge difference in this young man's attitude, my wife's mental health, his brother's Daily life and... Yeah, definitely my own. I sleep way better now. Still tough, but I know I have support now.
 
-6h ago
+7h ago
 
 ---
 
@@ -147,13 +147,13 @@ Barron's • 23h ago
 
 The hundreds of billions of dollars being spent by tech companies on AI projects are diverting resources from other parts of the economy.
 
-The Washington Post • 2h ago
+The Washington Post • 3h ago
 
 ---
 
 **[Here’s Where AI Is Tearing Through Corporate America](https://www.wsj.com/tech/ai/ai-software-business-stock-market-4b17b432?gaa_at=eafs&gaa_n=AWEtsqdox3JIApEhtN8eD7XlvGef5BkcQctaVKSAjB-Xl5L_Zb0pcRGHD507&gaa_ts=6987aa17&gaa_sig=8Rs_HLq8Sra9GknNBZA-FrKAS25EZtN5d92MzDg3U76CkGyRhyiR3nTl4FmKnM6RMwesPZPOxOE2k_G-2OhH1Q%3D%3D)**
 
-The Wall Street Journal • 18h ago
+The Wall Street Journal • 19h ago
 
 ---
 
@@ -161,7 +161,7 @@ The Wall Street Journal • 18h ago
 
 AI isn't just hitting software valuations — it's changing how software companies operate.
 
-Axios • 10h ago
+Axios • 11h ago
 
 ---
 
@@ -177,13 +177,13 @@ CNBC • 1d ago
 
 Alphabet is already one of the most valuable companies in the world, but it's betting big on being the biggest artificial intelligence (AI) company as well.
 
-Yahoo Finance • 1h ago
+Yahoo Finance • 2h ago
 
 ---
 
 **[Tech’s AI Push Risks a Bond Market Blowback: Credit Weekly](https://www.bloomberg.com/news/articles/2026-02-07/tech-s-ai-push-risks-a-bond-blowback-amzn-googl-msft-orcl)**
 
-Bloomberg.com • 1h ago
+Bloomberg.com • 2h ago
 
 ---
 
@@ -223,7 +223,7 @@ AI is rarely optional anymore, but how can you still be proud of your craft? Dis
 
 A minimal, secure Python interpreter written in Rust for use by AI - pydantic/monty
 
-⬆️ 292 • 💬 156 • 23h ago • [GitHub](https://github.com/pydantic/monty)
+⬆️ 292 • 💬 156 • 1d ago • [GitHub](https://github.com/pydantic/monty)
 
 ---
 
@@ -231,7 +231,7 @@ A minimal, secure Python interpreter written in Rust for use by AI - pydantic/mo
 
 The hundreds of billions of dollars being spent by tech companies on AI projects are diverting resources from other parts of the economy.
 
-⬆️ 160 • 💬 199 • 9h ago • [The Washington Post](https://www.washingtonpost.com/technology/2026/02/07/ai-spending-economy-shortages/)
+⬆️ 160 • 💬 199 • 10h ago • [The Washington Post](https://www.washingtonpost.com/technology/2026/02/07/ai-spending-economy-shortages/)
 
 ---
 
@@ -293,7 +293,7 @@ The White House deleted a video posted on President Trump's Truth Social that in
 
 📺 New York Post
 
-👁️ 38K • 👍 294 • 💬 597 • ⏱️ 2:07 • 23h ago
+👁️ 38K • 👍 294 • 💬 597 • ⏱️ 2:07 • 1d ago
 
 ---
 
@@ -303,7 +303,7 @@ Create AI Influencers using Higgsfield https://youricreates.com/Higgsfield-AI In
 
 📺 Youri van Hofwegen
 
-👁️ 7K • 💬 6 • ⏱️ 8:07 • 4h ago
+👁️ 7K • 💬 6 • ⏱️ 8:07 • 5h ago
 
 ---
 
@@ -323,7 +323,7 @@ AI coding just entered a new phase of competition. In the same week, OpenAI unve
 
 📺 AI Revolution
 
-👁️ 20K • 👍 611 • 💬 31 • ⏱️ 13:09 • 21h ago
+👁️ 20K • 👍 611 • 💬 31 • ⏱️ 13:09 • 22h ago
 
 ---
 
@@ -373,7 +373,7 @@ This is an amazing use of AI! evolving.ai on IG #ai #technology #advancements #m
 
 📺 Doctor Myro
 
-👁️ 395K • 👍 15K • 💬 650 • ⏱️ 0:44 • 23h ago
+👁️ 395K • 👍 15K • 💬 650 • ⏱️ 0:44 • 1d ago
 
 ---
 
@@ -447,7 +447,7 @@ MiniCPM-o 4.5 is a 9B parameter multimodal LLM excelling in vision, speech, and 
 
 `any-to-any` `9.4B`
 
-⬇️ 5,568 • ❤️ 582 • 4h ago
+⬇️ 5,568 • ❤️ 582 • 5h ago
 
 ---
 
@@ -662,7 +662,7 @@ LLM驱动的 A/H/美股智能分析器，多数据源行情 + 实时新闻 + Gem
 
 `Python` `agent` `ai` `aigc` `gemini` `llm`
 
-⭐ 9.8k • 🔱 10.3k • 6h ago
+⭐ 9.8k • 🔱 10.3k • 7h ago
 
 ---
 

@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-02-07T20:55:07.944851+00:00'
+updated: '2026-02-07T21:27:11.703288+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- videos
 - news
-- cryptocurrency
 - social
+- videos
+- cryptocurrency
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** February 07, 2026 at 20:55 UTC  
+**Last Updated:** February 07, 2026 at 21:27 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -109,7 +109,7 @@ My mother barely uses Facebook and has zero interest in technology or finance. Y
 
 **[Buy The dip](https://www.reddit.com/r/Bitcoin/comments/1qygmls/buy_the_dip/)**
 
-5h ago
+6h ago
 
 ---
 
@@ -117,7 +117,7 @@ My mother barely uses Facebook and has zero interest in technology or finance. Y
 
 ​
 
-14h ago
+15h ago
 
 ---
 
@@ -137,7 +137,7 @@ Basically
 
 **[Look babe, bitcoin went up 9% today](https://www.reddit.com/r/Bitcoin/comments/1qy03oz/look_babe_bitcoin_went_up_9_today/)**
 
-19h ago
+20h ago
 
 ---
 
@@ -157,13 +157,13 @@ I’m in multiple investment groups with very sharp people, and the skepticism i
 
 The company quickly realised its mistake and managed to recover virtually all the missing tokens from customers.
 
-BBC • 6h ago
+BBC • 7h ago
 
 ---
 
 **[South Korean crypto firm accidentally sends $44 billion in bitcoins to users](https://www.reuters.com/world/asia-pacific/crypto-firm-accidentally-sends-44-billion-bitcoins-users-2026-02-07/)**
 
-Reuters • 17h ago
+Reuters • 18h ago
 
 ---
 
@@ -177,7 +177,7 @@ Yahoo Finance • 1d ago
 
 **[Bitcoin loses Trump-era gains as crypto market volatility signals uncertainty](https://www.reuters.com/business/bitcoin-loses-trump-era-gains-crypto-market-volatility-signals-uncertainty-2026-02-07/)**
 
-Reuters • 9h ago
+Reuters • 10h ago
 
 ---
 
@@ -185,7 +185,7 @@ Reuters • 9h ago
 
 It's possible, but it won't happen tomorrow.
 
-The Motley Fool • 1h ago
+The Motley Fool • 2h ago
 
 ---
 
@@ -277,7 +277,7 @@ Bitcoin behaves more like an "ATM" during uncertain times, with investors quickl
 
 **[South Korean crypto firm accidentally sends $44B in bitcoins to users](https://news.ycombinator.com/item?id=46926461)**
 
-⬆️ 3 • 💬 0 • 1h ago • [reuters.com](https://www.reuters.com/world/asia-pacific/crypto-firm-accidentally-sends-44-billion-bitcoins-users-2026-02-07/)
+⬆️ 3 • 💬 0 • 2h ago • [reuters.com](https://www.reuters.com/world/asia-pacific/crypto-firm-accidentally-sends-44-billion-bitcoins-users-2026-02-07/)
 
 ---
 
@@ -323,7 +323,7 @@ Bitcoin has been in a free-fall the past few months. At one point yesterday, it 
 
 📺 From The Desk Of Anthony Pompliano
 
-👁️ 39K • 👍 2K • 💬 280 • ⏱️ 9:43 • 22h ago
+👁️ 39K • 👍 2K • 💬 280 • ⏱️ 9:43 • 23h ago
 
 ---
 
@@ -373,7 +373,7 @@ Bitcoin insane price collapse, but where is the bottom for BTC? BITUNIX TRADE TH
 
 📺 Lark Davis
 
-👁️ 10K • 👍 636 • 💬 100 • ⏱️ 14:26 • 5h ago
+👁️ 10K • 👍 636 • 💬 100 • ⏱️ 14:26 • 6h ago
 
 ---
 
@@ -383,7 +383,7 @@ CNBC's “Closing Bell Overtime” team discusses cryptocurrencies, bitcoin's vo
 
 📺 CNBC Television
 
-👁️ 33K • 👍 308 • 💬 336 • ⏱️ 4:14 • 22h ago
+👁️ 33K • 👍 308 • 💬 336 • ⏱️ 4:14 • 23h ago
 
 ---
 
