@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-02-07T17:27:37.872259+00:00'
+updated: '2026-02-07T17:52:45.501280+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- news
 - social
-- repositories
+- news
 - videos
+- repositories
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** February 07, 2026 at 17:27 UTC  
+**Last Updated:** February 07, 2026 at 17:52 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -41,7 +41,7 @@ AI news, discussions, and developments
 
 Countries have been building their own “sovereign AI” to reflect their culture and values, and OpenAI wants to help them....
 
-🔗 [Sherwood News](https://sherwood.news/tech/report-openai-may-tailor-a-version-of-chatgpt-for-uae-that-prohibits-lgbtq/) • 7h ago
+🔗 [Sherwood News](https://sherwood.news/tech/report-openai-may-tailor-a-version-of-chatgpt-for-uae-that-prohibits-lgbtq/) • 8h ago
 
 ---
 
@@ -65,7 +65,7 @@ Goldman Sachs is building AI agents with Anthropic’s Claude to automate trade 
 
 Update to my previous post. Went back to extract everything and found some super sketchy stuff. For anyone that uses kimi through the chat interface: One of Kimi’s browser automation scripts uses a dark web library with crypto stealing malware: https://github.com/dnnyngyen/kimi-agent-internals/blob/main/source-code/browser\_guard.py In the repo you’ll also find 6 system prompts (Base Chat, OK Computer, Docs, Sheets, Slides, Websites), 38 tool schemas, 4 skill folders (DOCX, XLSX, PDF, WebApp), runtime source code (browser automation, kernel server, Jupyter kernel), and container architecture. Please stay safe!!!
 
-6m ago
+31m ago
 
 ---
 
@@ -81,7 +81,7 @@ I’m a solo web developer, so I spend most of my day using AI to debug my self 
 
 An AI-powered model developed at University of Michigan can read a brain MRI and diagnose a person in seconds, a study suggests.&nbsp;It detected neurological conditions with up to 97.5% accuracy and predicted how urgently a patient required treatment. The technology&nbsp;could transform neuroimaging at health systems across the United States.
 
-🔗 [EurekAlert!](https://www.eurekalert.org/news-releases/1115393) • 14h ago
+🔗 [EurekAlert!](https://www.eurekalert.org/news-releases/1115393) • 15h ago
 
 ---
 
@@ -105,7 +105,7 @@ It happened again. A 13-person team in Shenzhen just shipped a browser-based ver
 
 OpenScholar, an open-source AI model developed by a UW and Ai2 research team, synthesizes scientific research and cites sources as accurately as human experts. It outperformed other AI models, including GPT-4o, on a benchmark test and was preferred by scientists 51% of the time. The team is working on a follow-up model, DR Tulu, to improve on OpenScholar’s findings.
 
-🔗 [UW News](https://www.washington.edu/news/2026/02/04/in-a-study-ai-model-openscholar-synthesizes-scientific-research-and-cites-sources-as-accurately-as-human-experts/?_bhlid=2ba831f8abbf50334abf44ff7000fce322f05bac) • 22h ago
+🔗 [UW News](https://www.washington.edu/news/2026/02/04/in-a-study-ai-model-openscholar-synthesizes-scientific-research-and-cites-sources-as-accurately-as-human-experts/?_bhlid=2ba831f8abbf50334abf44ff7000fce322f05bac) • 23h ago
 
 ---
 
@@ -125,7 +125,7 @@ From vegetation scans to 360-degree smoke detectors, new tools are trying to shi
 
 Tech's megacaps announced major increases in capex spend for 2026, and now investors are preparing for cash to dwindle.
 
-CNBC • 19h ago
+CNBC • 20h ago
 
 ---
 
@@ -171,7 +171,7 @@ CNBC • 1d ago
 
 The hundreds of billions of dollars being spent by tech companies on AI projects are diverting resources from other parts of the economy.
 
-The Washington Post • 34m ago
+The Washington Post • 59m ago
 
 ---
 
@@ -187,13 +187,13 @@ The Guardian • 1h ago
 
 "The things that make us human will become much more important instead of much less important."
 
-Fortune • 8m ago
+Fortune • 33m ago
 
 ---
 
 **[New study uses Neanderthals to demonstrate gap between generative AI and scholarly knowledge](https://phys.org/news/2026-02-neanderthals-gap-generative-ai-scholarly.html)**
 
-Phys.org • 20h ago
+Phys.org • 21h ago
 
 ---
 
@@ -219,7 +219,7 @@ A new bill in the New York state legislature would require news organizations to
 
 AI is rarely optional anymore, but how can you still be proud of your craft? Discover the workflow to effectively write high-quality, robust code using AI tools.
 
-⬆️ 303 • 💬 264 • 22h ago • [heidenstedt.org](https://heidenstedt.org/posts/2026/how-to-effectively-write-quality-code-with-ai/)
+⬆️ 303 • 💬 264 • 23h ago • [heidenstedt.org](https://heidenstedt.org/posts/2026/how-to-effectively-write-quality-code-with-ai/)
 
 ---
 
@@ -357,7 +357,7 @@ Jensen Huang, NVIDIA CEO, joins CNBC's "Halftime Report to discuss the power of 
 
 📺 CNBC Television
 
-👁️ 110K • 👍 1K • 💬 405 • ⏱️ 8:35 • 22h ago
+👁️ 110K • 👍 1K • 💬 405 • ⏱️ 8:35 • 23h ago
 
 ---
 
@@ -367,7 +367,7 @@ Cute baby gave his mother a beautiful flying horse #ai #shorts #horse # shortsfe
 
 📺 ToonTales Creation
 
-👁️ 7K • ⏱️ 0:22 • 4h ago
+👁️ 7K • ⏱️ 0:22 • 5h ago
 
 ---
 
@@ -429,7 +429,7 @@ Step 3.5 Flash is an efficient, open-source MoE foundation model (11B active par
 
 `text-generation` `199.4B`
 
-⬇️ 11,980 • ❤️ 506 • 11h ago
+⬇️ 11,980 • ❤️ 506 • 12h ago
 
 ---
 
@@ -676,7 +676,7 @@ The Ultimate Collection of 700+ Agentic Skills for Claude Code/Antigravity/Curso
 
 `Python` `agentic-skills` `ai-agents` `antigravity` `autonomous-coding` `claude-code`
 
-⭐ 7.7k • 🔱 1.6k • 10h ago
+⭐ 7.7k • 🔱 1.6k • 11h ago
 
 ---
 

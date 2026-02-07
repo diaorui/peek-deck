@@ -3,14 +3,14 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-02-07T17:27:37.886431+00:00'
+updated: '2026-02-07T17:52:45.515628+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- news
-- social
 - cryptocurrency
+- social
+- news
 - videos
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** February 07, 2026 at 17:27 UTC  
+**Last Updated:** February 07, 2026 at 17:52 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -178,7 +178,7 @@ CoinDesk • 2d ago
 
 BitMine Immersion Technologies, ticker NYSEAM:BMNR, is reporting nearly $8b in unrealized losses tied to its Ethereum holdings after a sharp pullback in ETH prices. The company continues to frame its large Ethereum position and staking operations as part of a long term treasury approach, while continuing to accumulate ETH. Recent executive turnover, including the amicable separation of President Erik Nelson, is adding another layer of uncertainty for shareholders during heightened crypto...
 
-Yahoo Finance • 20m ago
+Yahoo Finance • 45m ago
 
 ---
 
@@ -286,7 +286,7 @@ This video provides a professional Elliott Wave and technical analysis of Ethere
 
 📺 More Crypto Online
 
-👁️ 3K • 👍 190 • 💬 14 • ⏱️ 4:02 • 16h ago
+👁️ 3K • 👍 190 • 💬 14 • ⏱️ 4:02 • 17h ago
 
 ---
 
@@ -316,7 +316,7 @@ Account Open From Here - Delta India - (CRYPTO BROKER) https://india.delta.excha
 
 📺 Intelligent Trader
 
-👁️ 5K • 👍 540 • 2h ago
+👁️ 5K • 👍 540 • 3h ago
 
 ---
 

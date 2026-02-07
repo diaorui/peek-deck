@@ -3,14 +3,14 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-02-07T17:27:37.880543+00:00'
+updated: '2026-02-07T17:52:45.509719+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- news
-- social
 - cryptocurrency
+- social
+- news
 - videos
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** February 07, 2026 at 17:27 UTC  
+**Last Updated:** February 07, 2026 at 17:52 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -89,13 +89,13 @@ Rank #1
 
 If you see blockchain activity whales are clearly accumulating taking BTC outside exchanges. It seems this is contrarian to people saying that BTC will bottom around 45k-55k. I believe (and hope) that bottom is in and the liquidation of this week has been a great opportunity to accumulate, decrease btc availability on exchanges and bring price to 100k +
 
-4h ago
+5h ago
 
 ---
 
 **[People who bought bitcoin at $61k yesterday](https://www.reddit.com/r/Bitcoin/comments/1qxw35n/people_who_bought_bitcoin_at_61k_yesterday/)**
 
-18h ago
+19h ago
 
 ---
 
@@ -115,7 +115,7 @@ If you see blockchain activity whales are clearly accumulating taking BTC outsid
 
 Basically
 
-4h ago
+5h ago
 
 ---
 
@@ -123,7 +123,7 @@ Basically
 
 I’m in multiple investment groups with very sharp people, and the skepticism is louder than I’ve heard it in a long time. Even my resident conspiracy-theorist cousin has re-emerged with “proof.” Who knew This was exactly the sentiment we needed, when I thought I’d never again see prices at these levels 😂
 
-14h ago
+15h ago
 
 ---
 
@@ -137,7 +137,7 @@ I’m in multiple investment groups with very sharp people, and the skepticism i
 
 My mother barely uses Facebook and has zero interest in technology or finance. Yet here we are: she asked me to help her buy Bitcoin. Over the past months, I’ve talked a lot about Bitcoin at home — why I believe in it, my long-term goals, scarcity, adoption, etc. I guess at some point it clicked for her. The problem is… now I’m scared. Even though I truly believe in Bitcoin’s future, I’m afraid of a few things: What if things don’t go as expected? What if she doesn’t live long enough to really see the benefits of this investment? What if she can’t mentally handle the volatility and panic during big drawdowns? This feels very different from investing my own money. If Bitcoin drops 50%, I can handle it. If her money drops 50%, that’s a different emotional weight. I don’t want to be irresponsible or turn into “that guy” who convinced a family member to invest and then regrets it forever. So I’m asking those of you who’ve been here longer or have more life experience: What would you do in my position?
 
-43m ago
+1h ago
 
 ---
 
@@ -161,7 +161,7 @@ NPR • 7h ago
 
 **[Bitcoin To Fall To $54K? Veteran Trader Questions Whether Strategy Investors Can Hold On](https://uk.finance.yahoo.com/news/bitcoin-fall-54k-veteran-trader-164602291.html)**
 
-Yahoo Finance UK • 41m ago
+Yahoo Finance UK • 1h ago
 
 ---
 
@@ -304,7 +304,7 @@ SE050 Hardware Bitcoin Wallet - Self-sovereign Bitcoin wallet powered by NXP SE0
 
 A South Korean cryptocurrency exchange apologised on Saturday after mistakenly transferring more than $40 billion worth of bitcoin to users, which briefly prompted a selloff on the platform.Bithumb said it accidentally sent 620,000 bitcoins, currently worth more than $40 billion, and blocked trading and withdrawals for the 695 affected users within 35 minutes after the error occurred on Friday.
 
-⬆️ 2 • 💬 0 • 1h ago • [Yahoo Finance](https://finance.yahoo.com/news/crypto-firm-accidentally-sends-40-055054321.html)
+⬆️ 2 • 💬 0 • 2h ago • [Yahoo Finance](https://finance.yahoo.com/news/crypto-firm-accidentally-sends-40-055054321.html)
 
 ---
 
@@ -348,7 +348,7 @@ Bitcoin has fallen below $70000, raising questions about whether a crypto winter
 
 📺 Yahoo Finance
 
-👁️ 81K • 👍 580 • 💬 602 • ⏱️ 4:27 • 1d ago
+👁️ 81K • 👍 580 • 💬 602 • ⏱️ 4:27 • 2d ago
 
 ---
 
