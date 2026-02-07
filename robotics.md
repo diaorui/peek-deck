@@ -3,13 +3,13 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-02-07T15:26:42.181982+00:00'
+updated: '2026-02-07T15:49:42.553926+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- news
 - videos
+- news
 - social
 ---
 
@@ -17,7 +17,7 @@ data_types:
 
 Robotics research and industry news
 
-**Last Updated:** February 07, 2026 at 15:26 UTC  
+**Last Updated:** February 07, 2026 at 15:49 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -76,7 +76,7 @@ Just pushed an update to casadi-on-gpu that lets you generate CUDA kernels direc
 
 I’m working with the UR12E and trying to send movement commands from a desktop. currently using ROS/moveit. I’m creating paths on RViz and they are valid. When pressing “execute” the arm doesn’t move. Sometimes there are errors regarding tolerances (which I’m looking into) and other times it doesn’t return an error, but tells me the movement is planned. previous culprits have been the ros joint controller / ros scaled joint controller (scaled is now being used). has anyone faced similar issues? Keen to be pointed to some places in docs to understand further.
 
-5h ago
+6h ago
 
 ---
 
@@ -84,7 +84,7 @@ I’m working with the UR12E and trying to send movement commands from a desktop
 
 Hey everyone, I'm working with an MKS ODrive Mini (firmware v0.5.1, based on ODrive v3.6) with an onboard AS5047P absolute SPI encoder and an Eagle Power 90kV BLDC motor. I've successfully calibrated the motor and can reliably enter closed-loop control mode manually, but I'm running into issues when trying to make it enter closed-loop automatically on startup. What Works: Manual calibration completes successfully Manual closed-loop entry works perfectly every time: ​ odrv0.axis0.error = 0 odrv0.axis0.requested_state = 8 # CLOSED_LOOP_CONTROL # Motor enters closed-loop with no errors The Problem: When I enable startup_closed_loop_control = True, the ODrive immediately throws an OVERSPEED error on power-up and fails to enter closed-loop mode. Current Configuration: # Encoder (AS5047P on GPIO7) odrv0.axis0.encoder.config.mode = 257 # ABS_SPI odrv0.axis0.encoder.config.cpr = 16384 odrv0.axis0.encoder.config.abs_spi_cs_gpio_pin = 7 odrv0.axis0.encoder.config.pre_calibrated = True odrv0.axis0.encoder.config.bandwidth = 100 # Motor odrv0.axis0.motor.config.pre_calibrated = True # Controller odrv0.axis0.controller.config.control_mode = 3 # POSITION_CONTROL odrv0.axis0.controller.config.input_mode = 1 # PASSTHROUGH odrv0.axis0.controller.config.vel_limit = 100 odrv0.axis0.controller.config.circular_setpoints = True # Startup odrv0.axis0.config.startup_motor_calibration = False odrv0.axis0.config.startup_encoder_offset_calibration = False odrv0.axis0.config.startup_encoder_index_search = False odrv0.axis0.config.startup_closed_loop_control = True # This causes OVERSPEED Errors on Startup: AxisError.CONTROLLER_FAILED MotorError.CONTROL_DEADLINE_MISSED ControllerError.OVERSPEED What I've Tried: Increased vel_limit from 50 to 100 to 200 - still fails Reduced encoder bandwidth from 1000 to 100 to 50 - still fails Enabled circular_setpoints to avoid position tracking issues Verified encoder mode is set to ABS_SPI (257) Confirmed all calibrations are marked as pre_calibrated = True Suspected Issue: I believe there's a race condition where the controller tries to enter closed-loop mode before the AS5047P SPI encoder has fully initialized and is providing stable readings, causing a spurious high velocity reading that triggers the overspeed protection. Questions: Is there a way to add a startup delay before startup_closed_loop_control executes? Are there specific encoder settings for the AS5047P on the MKS ODrive Mini that I'm missing? Is this a known firmware limitation with SPI encoders on ODrive v3.6-based boards? Should I consider updating the firmware, or is there a configuration workaround? Workaround: I can use a Teensy 4.1 with CAN bus to send the closed-loop command after a 3-second delay, which works perfectly. But I'd prefer the ODrive to handle this autonomously if possible. Any help would be greatly appreciated! Has anyone successfully used startup_closed_loop_control with an AS5047P encoder? Hardware: MKS ODrive Mini V1.0 Firmware: 0.5.1 (based on ODrive v3.6-56V) Encoder: AS5047P (onboard, SPI) Motor: Eagle Power 90kV BLDC Voltage: 8V-56V (running 3S-13S safe) EDIT: For anyone finding this later - the Teensy/microcontroller solution with a startup delay works flawlessly. Yes i used claude to summarize this (im a backend dev dont have much experience with robotics just wanted tot try it out)
 
-8h ago
+9h ago
 
 ---
 
@@ -98,7 +98,7 @@ Hey everyone, I'm working with an MKS ODrive Mini (firmware v0.5.1, based on ODr
 
 Hello everyone! Recently I tried to test the SmolVLA model from a paper that HuggingFace published, that uses relatively small VLA model for Imitation Learning on a SO-101 arm. They have a library called LeRobot that has a lot of stuff to handle robots. First I tried to run a pretrained model, which didn't work. Then I tried finetuning the model on a dataset that I collected. I gradually moved from 30 episodes to 120 with a simple task of picking up a cube and putting it in the designated place. The robot still can't solve the task at all and frankly does not improve with the increase in data amount. So my question is the following: have anybody experimented with LeRobot + smolvla + SO-101? What is your experience? Did you manage to run it? Basically, how much more time can I expect to sink into this or should I switch to another model, or from a robot to a simulator first, or something else?
 
-22h ago
+23h ago
 
 ---
 
@@ -120,9 +120,9 @@ Rest of World • 2d ago
 
 ---
 
-**[China Is Going All-In to Beat the U.S. on Humanoid Robots](https://www.wsj.com/tech/china-is-going-all-in-to-beat-the-u-s-on-humanoid-robots-b9c434d2?gaa_at=eafs&gaa_n=AWEtsqeu_q56a8d6cCyuzsi26R6152tkJnv-I-JcPfAEiR9KRsvpi2zXOX6H&gaa_ts=69874f61&gaa_sig=h8u4IWrWzS7nNLUX0eZbta0GNtwOsUlBv2VbBh7xIAVtgaIYwmD_8oMgWN6i44CcYe5kUjRZcZTmXUPWWQCZBg%3D%3D)**
+**[China Is Going All-In to Beat the U.S. on Humanoid Robots](https://www.wsj.com/tech/china-is-going-all-in-to-beat-the-u-s-on-humanoid-robots-b9c434d2?gaa_at=eafs&gaa_n=AWEtsqdED-ep-MH8aA1_GDOh-TvWLxh4FJ5mFpM89W8k0xfUbCVhnvHgExK0&gaa_ts=69876282&gaa_sig=Qn__ydEuOA5qmCqSwOG0InJCJj7ateOsw7bWZnCJq8Dg8JsD5ajH2_PRvA3VH92VU0UocHMNV0PimL4iDjdugg%3D%3D)**
 
-The Wall Street Journal • 4h ago
+The Wall Street Journal • 5h ago
 
 ---
 
@@ -131,14 +131,6 @@ The Wall Street Journal • 4h ago
 Who’s raising our robots? Teaching social norms in the age of humanoid robots.
 
 Fortune • 2d ago
-
----
-
-**[ETM brings its transverse flux motor technology to robotics](https://www.therobotreport.com/etm-brings-its-transverse-flux-motor-technology-to-robotics/)**
-
-ETM said its TFM technology enables OEMs to simplify mechanical designs, reduce costs, and achieve performance benchmarks.
-
-The Robot Report • 2d ago
 
 ---
 
@@ -155,6 +147,14 @@ Supply Chain Dive • 2d ago
 At its new Stone Mountain, Georgia, facility, Roomba-like robots shuffle between stacks, another adds shipping labels while another arranges packages in pallets
 
 The Guardian • 1d ago
+
+---
+
+**[ETM brings its transverse flux motor technology to robotics](https://www.therobotreport.com/etm-brings-its-transverse-flux-motor-technology-to-robotics/)**
+
+ETM said its TFM technology enables OEMs to simplify mechanical designs, reduce costs, and achieve performance benchmarks.
+
+The Robot Report • 3d ago
 
 ---
 
@@ -180,9 +180,11 @@ BBC • 1d ago
 
 ---
 
-**[Robots that keep moving when flipped? Sea star tube feet offer a blueprint](https://techxplore.com/news/2026-02-robots-flipped-sea-star-tube.html)**
+**[This Robotics Stock Is Up 141% Over the Past Year. Can It Go Higher in 2026?](https://www.barchart.com/story/news/55174/this-robotics-stock-is-up-141-over-the-past-year-can-it-go-higher-in-2026)**
 
-Tech Xplore • 1h ago
+After an explosive 2025 rally, can Teradyne stock continue its climb this year?
+
+Barchart.com • 3d ago
 
 ---
 
@@ -256,7 +258,7 @@ Capybara's golden robot lion was sabotaged by Brianna before the big competition
 
 📺 CapyEscapes
 
-👁️ 9K • 👍 494 • 💬 54 • ⏱️ 0:59 • 3h ago
+👁️ 9K • 👍 494 • 💬 54 • ⏱️ 0:59 • 4h ago
 
 ---
 
@@ -264,7 +266,7 @@ Capybara's golden robot lion was sabotaged by Brianna before the big competition
 
 📺 ChicOnChain
 
-👁️ 691 • 👍 8 • ⏱️ 1:00 • 10h ago
+👁️ 691 • 👍 8 • ⏱️ 1:00 • 11h ago
 
 ---
 
@@ -284,7 +286,7 @@ Not all the robots at CES were behaving this year. In this video, witness a hila
 
 📺 Tinker Forward
 
-👁️ 1K • 👍 25 • ⏱️ 1:30 • 16h ago
+👁️ 1K • 👍 25 • ⏱️ 1:30 • 17h ago
 
 ---
 

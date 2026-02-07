@@ -3,14 +3,14 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-02-07T15:26:42.178586+00:00'
+updated: '2026-02-07T15:49:42.550573+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
+- videos
 - news
 - cryptocurrency
-- videos
 - social
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** February 07, 2026 at 15:26 UTC  
+**Last Updated:** February 07, 2026 at 15:49 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -36,14 +36,14 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Price
 
-### $2,021.95
+### $2,051.19
 
 ---
 
 ## Ethereum Chart
 
-**24h:** +3.3%  
-**7d:** -9.8%  
+**24h:** +0.6%  
+**7d:** -9.7%  
 **30d:** -33.6%  
 **90d:** -42.5%  
 **1y:** -22.3%  
@@ -73,14 +73,6 @@ No max supply
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
 9h ago
-
----
-
-**[are you buying now?](https://www.reddit.com/r/ethereum/comments/1qydb5d/are_you_buying_now/)**
-
-in the last 7days or in the upcoming 7 days, are you thinking buying more eherium?
-
-2h ago
 
 ---
 
@@ -146,6 +138,14 @@ https://etherscan.io/tx/0xaab90d00abf065e4158852a64c809b8921d109e997bd3790cb471a
 
 ---
 
+**[When will property be tokenizated and placed onto the Ethereum Blockchain??](https://www.reddit.com/r/ethereum/comments/1qw2vg9/when_will_property_be_tokenizated_and_placed_onto/)**
+
+Fellow Dudes! Does any one know when exactly real world assets such as property will be tokenizated and placed onto the Ethereum Blockchain?? and what countries have put in the necessary frame work to make this all legal and workable?? So that I could just buy up new property in a different country to me, then that property is turned into a ERC20 token kept in my wallet, and this is all recognised and legal and a financial product? also I know that the price of ETH has dropped heaps,.but this is when you buy more (not investment advice) 😑 cheers.
+
+2d ago
+
+---
+
 ---
 
 ## Google News: "ethereum"
@@ -166,19 +166,11 @@ The Guardian • 2d ago
 
 ---
 
-**[Ethereum and Solana Are Getting Hit Hard. Are These Top Cryptocurrencies Buys on the Dip?](https://www.fool.com/investing/2026/02/07/ethereum-and-solana-are-getting-hit-hard-are-these/)**
+**[How Buying Ethereum Today Could 10x Your Net Worth](https://www.nasdaq.com/articles/how-buying-ethereum-today-could-10x-your-net-worth)**
 
-Here's why giving up on Ethereum and Solana now would be a mistake.
+Key PointsEther’s price has plunged in 2026.
 
-The Motley Fool • 3h ago
-
----
-
-**[How Buying Ethereum Today Could 10x Your Net Worth](https://finance.yahoo.com/news/buying-ethereum-today-could-10x-210500420.html)**
-
-The world's second-largest cryptocurrency still has a bright future.
-
-Yahoo Finance • 1d ago
+Nasdaq • 1d ago
 
 ---
 
@@ -187,12 +179,6 @@ Yahoo Finance • 1d ago
 Coinbase customers faced losses in fresh ways through the exchange’s crypto-backed lending product as Bitcoin and Ethereum tumbled this week.
 
 Decrypt • 20h ago
-
----
-
-**[Tom Lee's BitMine Now $8 Billion Underwater as Ether Crashes Below $2,000](https://www.binance.com/en/square/post/36058998937305)**
-
-Binance • 1d ago
 
 ---
 
@@ -212,6 +198,20 @@ Yahoo Finance • 3d ago
 
 ---
 
+**[BitMine Stock Plummets 9% as $7 Billion Ethereum “Hole” Spooks Investors](https://www.tipranks.com/news/bitmine-stock-plummets-9-as-7-billion-ethereum-hole-spooks-investors)**
+
+The sell-off in BitMine Immersion Technologies ($BMNR) intensified today as the stock dropped 8.6% to reach $18.56, extending a brutal monthly slide that has wiped ...
+
+TipRanks • 1d ago
+
+---
+
+**[Ethereum Price Prediction: Alarming Bearish Signals Suggest ETH Could Plunge Below $2,000](https://www.binance.com/en/square/post/35999941537161)**
+
+Binance • 3d ago
+
+---
+
 **[Bitcoin, Ethereum Liquidations Hit $704M In 24 Hours—And $70,000 Could Break, Polymarket Predicts](https://finance.yahoo.com/news/bitcoin-ethereum-liquidations-hit-704m-120113179.html)**
 
 Bitcoin (CRYPTO: BTC) traders are bracing for more pain after liquidations reached $704 million in a single 24-hour period. The sharp sell-off has crypto investors turning to prediction markets for clues on where the bottom might be. What Polymarket Traders Are Predicting Polymarket is currently flashing warning signs for the immediate future. The “What price will Bitcoin hit in February?” market, which has already cleared $14 million in volume, now places a 56% probability on Bitcoin sliding to
@@ -220,9 +220,11 @@ Yahoo Finance • 2d ago
 
 ---
 
-**[Bitcoin, XRP, Ethereum Drop. Why Cryptos Are Under Pressure Today.](https://www.barrons.com/articles/bitcoin-xrp-ethereum-cryptos-gold-9051820f?gaa_at=eafs&gaa_n=AWEtsqcXpkn8a2vBGXf7PYNUUD_r89NOt0sD41fA6DNYcEn62s7_CAF0_9rz&gaa_ts=69874f60&gaa_sig=7kcyfA_O7RtH45535YQ3UUwS4ni2vXVPJR55Emh2XP0F8lFt9wBkdvQgRJI1MxqMFaV6qF0ti1bU71sRA24R0g%3D%3D)**
+**[Crypto Treasuries Fall Deeply Underwater as Bitcoin, Ethereum and Solana Dive](https://decrypt.co/357130/crypto-treasury-underwater-bitcoin-ethereum-solana-dive)**
 
-Barron's • 2d ago
+Prominent publicly traded crypto treasury firms are underwater on their holdings as Bitcoin and Ethereum keep falling.
+
+Decrypt • 1d ago
 
 ---
 
@@ -276,7 +278,7 @@ This video provides a professional Elliott Wave and technical analysis of Ethere
 
 📺 More Crypto Online
 
-👁️ 3K • 👍 185 • 💬 14 • ⏱️ 4:02 • 14h ago
+👁️ 3K • 👍 185 • 💬 14 • ⏱️ 4:02 • 15h ago
 
 ---
 
@@ -326,7 +328,7 @@ Get $450 Off Our New AI Indicators: https://tradeconfidentportal.io/indic... Joi
 
 📺 Trade Confident
 
-👁️ 635 • 👍 22 • 💬 2 • ⏱️ 5:06 • 19h ago
+👁️ 635 • 👍 22 • 💬 2 • ⏱️ 5:06 • 20h ago
 
 ---
 

@@ -3,14 +3,14 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-02-07T15:26:42.172212+00:00'
+updated: '2026-02-07T15:49:42.544535+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
+- videos
 - news
 - cryptocurrency
-- videos
 - social
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** February 07, 2026 at 15:26 UTC  
+**Last Updated:** February 07, 2026 at 15:49 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,17 +38,17 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $69,034.49
+### $69,601.44
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** +0.7%  
-**7d:** -10.2%  
-**30d:** -23.6%  
-**90d:** -34.9%  
-**1y:** -28.4%  
+**24h:** -0.8%  
+**7d:** -9.8%  
+**30d:** -23.3%  
+**90d:** -34.6%  
+**1y:** -28.1%  
 
 ---
 
@@ -85,17 +85,17 @@ Rank #1
 
 ---
 
-**[I’m honestly enjoying the Bitcoin hate right now.](https://www.reddit.com/r/Bitcoin/comments/1qy202k/im_honestly_enjoying_the_bitcoin_hate_right_now/)**
+**[People who bought bitcoin at $61k yesterday](https://www.reddit.com/r/Bitcoin/comments/1qxw35n/people_who_bought_bitcoin_at_61k_yesterday/)**
 
-I’m in multiple investment groups with very sharp people, and the skepticism is louder than I’ve heard it in a long time. Even my resident conspiracy-theorist cousin has re-emerged with “proof.” Who knew This was exactly the sentiment we needed, when I thought I’d never again see prices at these levels 😂
-
-12h ago
+17h ago
 
 ---
 
-**[People who bought bitcoin at $61k yesterday](https://www.reddit.com/r/Bitcoin/comments/1qxw35n/people_who_bought_bitcoin_at_61k_yesterday/)**
+**[Whales are accumulating](https://www.reddit.com/r/Bitcoin/comments/1qycpon/whales_are_accumulating/)**
 
-16h ago
+If you see blockchain activity whales are clearly accumulating taking BTC outside exchanges. It seems this is contrarian to people saying that BTC will bottom around 45k-55k. I believe (and hope) that bottom is in and the liquidation of this week has been a great opportunity to accumulate, decrease btc availability on exchanges and bring price to 100k +
+
+3h ago
 
 ---
 
@@ -111,17 +111,33 @@ I’m in multiple investment groups with very sharp people, and the skepticism i
 
 ---
 
-**[Whales are accumulating](https://www.reddit.com/r/Bitcoin/comments/1qycpon/whales_are_accumulating/)**
+**[I’m honestly enjoying the Bitcoin hate right now.](https://www.reddit.com/r/Bitcoin/comments/1qy202k/im_honestly_enjoying_the_bitcoin_hate_right_now/)**
 
-If you see blockchain activity whales are clearly accumulating taking BTC outside exchanges. It seems this is contrarian to people saying that BTC will bottom around 45k-55k. I believe (and hope) that bottom is in and the liquidation of this week has been a great opportunity to accumulate, decrease btc availability on exchanges and bring price to 100k +
+I’m in multiple investment groups with very sharp people, and the skepticism is louder than I’ve heard it in a long time. Even my resident conspiracy-theorist cousin has re-emerged with “proof.” Who knew This was exactly the sentiment we needed, when I thought I’d never again see prices at these levels 😂
 
-2h ago
+13h ago
+
+---
+
+**[Bitcoin up: I should’ve bought before, on the next big drop I’m definitely buying. Bitcoin down: It’s all a scam anyways, I’m glad I never bought.](https://www.reddit.com/r/Bitcoin/comments/1qycxzo/bitcoin_up_i_shouldve_bought_before_on_the_next/)**
+
+Basically
+
+3h ago
 
 ---
 
 **[Bitcoin price right now](https://www.reddit.com/r/Bitcoin/comments/1qy7gsr/bitcoin_price_right_now/)**
 
 8h ago
+
+---
+
+**[Thanks to everyone](https://www.reddit.com/r/Bitcoin/comments/1qye6l4/thanks_to_everyone/)**
+
+Thank you everyone for the endless content about bitcoin price speculation. It’s truly hilarious. $50k, $30k. $250k last cycle. Amazing stuff. Keep those crystal balls warm!
+
+2h ago
 
 ---
 
@@ -133,37 +149,21 @@ Yes I finally captured it!
 
 ---
 
-**[Bitcoin up: I should’ve bought before, on the next big drop I’m definitely buying. Bitcoin down: It’s all a scam anyways, I’m glad I never bought.](https://www.reddit.com/r/Bitcoin/comments/1qycxzo/bitcoin_up_i_shouldve_bought_before_on_the_next/)**
-
-Basically
-
-2h ago
-
----
-
-**[Thats the spirit](https://www.reddit.com/r/Bitcoin/comments/1qxfq4n/thats_the_spirit/)**
-
-1d ago
-
----
-
 ---
 
 ## Google News: "bitcoin"
 
-**[Bitcoin gets slashed in half. What's behind the crypto's existential crisis](https://www.cnbc.com/2026/02/06/bitcoin-gets-slashed-in-half-whats-behind-the-cryptos-existential-crisis.html)**
+**[What caused the massive Bitcoin crash? Clues point to a blow-up at Hong Kong hedge funds](https://finance.yahoo.com/news/caused-massive-bitcoin-crash-clues-224125613.html)**
 
-Bitcoin nearly grazed $60,000 on Thursday as investors shied away from the asset due to growing concerns over its utility.
+One crypto observer suspects a fund holding Bitcoin call options got wiped out, triggering a broader crash.
 
-CNBC • 22h ago
+Yahoo Finance • 17h ago
 
 ---
 
-**[S Korean crypto firm accidentally pays out $40bn in bitcoin](https://www.bbc.com/news/articles/cz6y62nzjxxo)**
+**[The Kidnappers Of Savannah Guthrie's Mom Want Bitcoin—But It’s Not As Anonymous As Many Think](https://www.forbes.com/sites/martinadilicosa/2026/02/06/the-kidnappers-of-savannah-guthries-mom-want-bitcoin-but-its-not-as-anonymous-as-many-think/)**
 
-The company quickly realised its mistake and managed to recover virtually all the missing tokens from customers.
-
-BBC • 1h ago
+Forbes • 19h ago
 
 ---
 
@@ -176,37 +176,19 @@ CNBC • 5h ago
 
 ---
 
-**[Crypto Exchange to Reimburse Some Users After $40 Billion Error](https://www.bloomberg.com/news/articles/2026-02-07/crypto-exchange-to-reimburse-some-users-after-40-billion-error)**
+**[S Korean crypto firm accidentally pays out $40bn in bitcoin](https://www.bbc.com/news/articles/cz6y62nzjxxo)**
 
-Bloomberg • 3h ago
+The company quickly realised its mistake and managed to recover virtually all the missing tokens from customers.
 
----
-
-**[The Kidnappers Of Savannah Guthrie's Mom Want Bitcoin—But It’s Not As Anonymous As Many Think](https://www.forbes.com/sites/martinadilicosa/2026/02/06/the-kidnappers-of-savannah-guthries-mom-want-bitcoin-but-its-not-as-anonymous-as-many-think/)**
-
-Forbes • 19h ago
+BBC • 1h ago
 
 ---
 
-**[Nancy Guthrie latest: Derrick Callella of Torrance, California arrested for demanding Bitcoin ransom from family](https://abc7.com/post/nancy-guthrie-latest-derrick-callella-california-arrested-demanding-bitcoin-ransom-family/18549247/)**
+**[Crypto firm accidentally sends $40 bn in bitcoin to users](https://finance.yahoo.com/news/crypto-firm-accidentally-sends-40-055054321.html)**
 
-The man allegedly used an app to create a fake phone number to text the family, according to a federal complaint.
+A South Korean cryptocurrency exchange apologised on Saturday after mistakenly transferring more than $40 billion worth of bitcoin to users, which briefly prompted a selloff on the platform.Bithumb said it accidentally sent 620,000 bitcoins, currently worth more than $40 billion, and blocked trading and withdrawals for the 695 affected users within 35 minutes after the error occurred on Friday.
 
-ABC7 Los Angeles • 1d ago
-
----
-
-**[Former FBI cybersecurity expert explains how Nancy Guthrie could be found via Bitcoin and Email](https://www.cnn.com/2026/02/06/us/video/former-fbi-cybersecurity-expert-explains-how-nancy-guthrie-could-be-found-via-bitcoin-and-email-lcl)**
-
-Former FBI counterintelligence operative and cybersecurity expert Eric O’Neill joins Laura Coates to explain how a Bitcoin ransom demand could still be traced by law enforcement.
-
-cnn.com • 1d ago
-
----
-
-**[Strategy's Saylor Touts 'Crypto President' As Bitcoin Plunges](https://www.investors.com/news/strategy-earnings-q4-bitcoin-price-mstr-plunge-michael-saylor/)**
-
-Investor's Business Daily • 1d ago
+Yahoo Finance • 4h ago
 
 ---
 
@@ -218,11 +200,31 @@ Bitcoin Magazine • 22h ago
 
 ---
 
-**[Strategy CEO: Bitcoin would need to plunge to $8,000 before balance sheet issues](https://www.theblock.co/post/388774/strategy-ceo-bitcoin-q4-earnings-call)**
+**[Strategy CEO: Bitcoin would need to plunge to $8,000 before balance sheet issues](https://finance.yahoo.com/news/strategy-ceo-bitcoin-plunge-8-060506707.html)**
 
 Executive Chairman Michael Saylor also addressed quantum computing concerns in bitcoin, framing them as 'horrible FUD.'
 
-The Block • 1d ago
+Yahoo Finance • 1d ago
+
+---
+
+**[Bitcoin Booster’s $12 Billion Loss Headlines Crypto’s Worst Day Since 2022 Crash](https://www.wsj.com/finance/currencies/strategy-earnings-fourth-2025-33688dab?gaa_at=eafs&gaa_n=AWEtsqcCbrl_dsLLsJf1ixy5TIa3KDm4F6psbI2dWQl1ypJ-HDgUrizu4Tuj&gaa_ts=6987627f&gaa_sig=u9cJvTC5kl0IMtTyaSJeGuowriDO2zyhNrBcRnJZTP8kA1cCDL1fABYbJ3WG8Qx9aoqMF5dJhXp6ZIEGRIGQ1Q%3D%3D)**
+
+The Wall Street Journal • 1d ago
+
+---
+
+**[Your bitcoin investment may have been based on an illusion](https://www.marketwatch.com/story/your-bitcoin-investment-may-have-been-based-on-an-illusion-de2e3fad?gaa_at=eafs&gaa_n=AWEtsqdd1pOqrjH1Gbfn9iYNYuZtE3dSmmCsR3DDpXUG7t1f7_R0rWtJDMbM&gaa_ts=6987627f&gaa_sig=02xefVOKffqKSsYkKXSUu31aTG_gJy_IO7BY4xGlaAzbI69OlsYuovc7KKdvhEPL9sZ2KY1vAQ6HhTuphLfPaw%3D%3D)**
+
+MarketWatch • 21h ago
+
+---
+
+**[Prediction: Bitcoin Will Be Worth $850,000 in 10 Years](https://www.fool.com/investing/2026/02/07/prediction-bitcoin-will-be-worth-850000-in-10-year/)**
+
+Hitting this mark implies lower returns going forward, which is a reasonable expectation.
+
+The Motley Fool • 10h ago
 
 ---
 
@@ -254,7 +256,7 @@ Some market watchers have suggested $70,000 is a key level to watch and a break 
 
 Bitcoin outlook turns bearish as Pivotus’ Richard Farr targets BTC at $0 and Michael Burry warns of a “death spiral.” Get the risks and key levels now.
 
-⬆️ 53 • 💬 66 • 1d ago • [Seeking Alpha](https://seekingalpha.com/news/4547997-bitcoin-s-price-target-at-zero)
+⬆️ 54 • 💬 66 • 1d ago • [Seeking Alpha](https://seekingalpha.com/news/4547997-bitcoin-s-price-target-at-zero)
 
 ---
 
@@ -324,7 +326,7 @@ Bitcoin plunges as crypto markets lose trillions, sparking debate over whether B
 
 📺 Valuetainment
 
-👁️ 118K • 👍 3K • 💬 12K • ⏱️ 14:38 • 17h ago
+👁️ 118K • 👍 3K • 💬 12K • ⏱️ 14:38 • 18h ago
 
 ---
 
