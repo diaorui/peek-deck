@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-02-08T21:29:03.512779+00:00'
+updated: '2026-02-08T21:53:32.359297+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
 - videos
-- news
-- social
 - repositories
+- social
+- news
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** February 08, 2026 at 21:29 UTC  
+**Last Updated:** February 08, 2026 at 21:53 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -41,7 +41,15 @@ AI news, discussions, and developments
 
 Just wanted to say thanks for the thoughtful discussion and feedback on my previous post. I did not expect that level of interest, and I appreciate how constructive most of the comments were. Based on a few requests, I put together a short demonstration showing the system applied to a deliberately difficult street-level image. No obvious landmarks, no readable signage, no metadata. The location was verified in under two minutes. I am still undecided on the long-term direction of this work. That said, if there are people here interested in collaborating from a research, defensive, or ethical perspective, I am open to conversations. That could mean validation, red-teaming anything else. Thanks again to the community for the earlier discussion. Happy to answer high-level questions and hear thoughts on where tools like this should and should not go.
 
-10h ago
+11h ago
+
+---
+
+**[AI companies spent $55.5M lobbying in 9 months. Their interpretability research teams are a fraction of that. I modeled the game theory of why opacity is the dominant strategy.](https://www.reddit.com/r/artificial/comments/1qzl6iz/ai_companies_spent_555m_lobbying_in_9_months/)**
+
+Refined view for 'Who benefits from opacity?' in Opacity as Strategy: How AI Companies Weaponize the Black Box
+
+🔗 [lightcap.ai](https://lightcap.ai/r/r_1770584351_56503c88af) • 34m ago
 
 ---
 
@@ -63,7 +71,7 @@ Countries have been building their own “sovereign AI” to reflect their cultu
 
 **[Nvidia CEO Says AI Capital Spending Is Appropriate, Sustainable](https://www.reddit.com/r/artificial/comments/1qyx57y/nvidia_ceo_says_ai_capital_spending_is/)**
 
-🔗 [bloomberg.com](https://www.bloomberg.com/news/articles/2026-02-06/nvidia-ceo-says-ai-capital-spending-is-appropriate-sustainable?srnd=phx-technology&leadSource=reddit_wall) • 18h ago
+🔗 [bloomberg.com](https://www.bloomberg.com/news/articles/2026-02-06/nvidia-ceo-says-ai-capital-spending-is-appropriate-sustainable?srnd=phx-technology&leadSource=reddit_wall) • 19h ago
 
 ---
 
@@ -83,14 +91,6 @@ I have been working solo on an AI-based project called Netryx. At a high level, 
 
 ---
 
-**[HUMANITY IS DOOMED](https://www.reddit.com/r/artificial/comments/1qzflg3/humanity_is_doomed/)**
-
-EVOLUTION is what has made humanity great so imagine what will happen to our brains and disposition when Ai keeps getting smarter and elons army of robots, as he claims, are more numerous then people. You will not even have to wipe your ass because a robot will do it for you. Because of the nature of it, ai will keep getting more inclusive and invasive and every day there will be more robots. That development will never be static it will always grow and the future of humanity is that our brains will start shrinking since we will not be using it and since people will not have jobs or anything to make them proud of themselves depression and misery will set in. The world is not static and ai and robots will become more and more invasive. So even though ai seems amazing and it is helpful today think about where it is taking us. There is no escape and no other possibility, with time humans will be nothing more then stupid lifeforms dependent on ai and robots for everything from wiping our ass to growing our food to making our entertainment and eventually ai will be so dominant that it will just wipe us out. We know where it starts but nobody knows where it will end. If we follow the science there is no other possibility. We Cannot put a time frame on this but the direction and evolutionary science is very clear that eventually humans will become stupid, unhappy, obsolete life forms. I am not religious but the devil always comes with false promises. Elon saying he wants to go to space to save humanity when in actuality he is robbing us of our future. Imagine a person who says don,t save because in the future you will not need money but fighting to receive a trillion dollar payoff when he is already the richest on the planet. How can anybody believe him? We already know that he is not a nice guy and did not think twice about all the people he hurt with his doge cuts for life saving aid. Then you have Trump who says he is making america great again by favoring the wealthy and russia, having his ice terrorize communities, making all our allies hate us, destroying american democracy and pushing for ai and robots. People please wake up we are the last bastion for humanity and we are being tempted, like the forbidden apple, because today Ai and robots seems so cool.
-
-3h ago
-
----
-
 **[Roast my OSS AI memory graph engine > feedback on MVP?](https://www.reddit.com/r/artificial/comments/1qyoehj/roast_my_oss_ai_memory_graph_engine_feedback_on/)**
 
 Hey fam, Been grinding on BrainAPI, this open-source thing that turns messy event logs into a smart knowledge graph for AI agents and rec systems. Think: feed it user clicks/buys/chats, it builds a precise map with cause-effect attribution (no BS hallucinations), then your AI retrieves fast AF for spot-on suggestions. Right now: Core APIs for saving/processing data -> works for CRM member matches/social networks (one user already using it for automated matches). Fast retrieval But ingestion? Slow as hell (10-30 min on small datasets) cuz of heavy LLM chains for precision. Trade-off for that "holy grail" accuracy, but yeah, it's a pain, optimizing soon. Repo: https://github.com/Lumen-Labs/brainapi2 What's the vibe? Bugs? Missing features? Use cases for ecom or agents? Roast it hard, I'm not fragile. If it slaps, star/fork. Building in public, hit me with thoughts!
@@ -99,19 +99,19 @@ Hey fam, Been grinding on BrainAPI, this open-source thing that turns messy even
 
 ---
 
+**[HUMANITY IS DOOMED](https://www.reddit.com/r/artificial/comments/1qzflg3/humanity_is_doomed/)**
+
+EVOLUTION is what has made humanity great so imagine what will happen to our brains and disposition when Ai keeps getting smarter and elons army of robots, as he claims, are more numerous then people. You will not even have to wipe your ass because a robot will do it for you. Because of the nature of it, ai will keep getting more inclusive and invasive and every day there will be more robots. That development will never be static it will always grow and the future of humanity is that our brains will start shrinking since we will not be using it and since people will not have jobs or anything to make them proud of themselves depression and misery will set in. The world is not static and ai and robots will become more and more invasive. So even though ai seems amazing and it is helpful today think about where it is taking us. There is no escape and no other possibility, with time humans will be nothing more then stupid lifeforms dependent on ai and robots for everything from wiping our ass to growing our food to making our entertainment and eventually ai will be so dominant that it will just wipe us out. We know where it starts but nobody knows where it will end. If we follow the science there is no other possibility. We Cannot put a time frame on this but the direction and evolutionary science is very clear that eventually humans will become stupid, unhappy, obsolete life forms. I am not religious but the devil always comes with false promises. Elon saying he wants to go to space to save humanity when in actuality he is robbing us of our future. Imagine a person who says don,t save because in the future you will not need money but fighting to receive a trillion dollar payoff when he is already the richest on the planet. How can anybody believe him? We already know that he is not a nice guy and did not think twice about all the people he hurt with his doge cuts for life saving aid. Then you have Trump who says he is making america great again by favoring the wealthy and russia, having his ice terrorize communities, making all our allies hate us, destroying american democracy and pushing for ai and robots. People please wake up we are the last bastion for humanity and we are being tempted, like the forbidden apple, because today Ai and robots seems so cool.
+
+4h ago
+
+---
+
 **[[WARNING] Kimi.com (ok computer + other agents) CRYPTO STEALING MALWARE](https://www.reddit.com/r/artificial/comments/1qyjktt/warning_kimicom_ok_computer_other_agents_crypto/)**
 
 One of Kimi’s browser automation scripts uses a dark web library with crypto stealing malware: https://github.com/dnnyngyen/kimi-agent-internals/blob/main/source-code/browser_guard.py
 
 1d ago
-
----
-
-**[Goldman Sachs taps Anthropic’s Claude to automate accounting, compliance roles](https://www.reddit.com/r/artificial/comments/1qxv9jg/goldman_sachs_taps_anthropics_claude_to_automate/)**
-
-Goldman Sachs is building AI agents with Anthropic’s Claude to automate trade accounting and client onboarding, aiming to speed work and boost efficiency.
-
-🔗 [CNBC](https://www.cnbc.com/2026/02/06/anthropic-goldman-sachs-ai-model-accounting.html) • 1d ago
 
 ---
 
@@ -133,41 +133,25 @@ The Washington Post • 1d ago
 
 ---
 
-**[Crypto.com places $70M bet on AI.com domain ahead of Super Bowl](https://techcrunch.com/2026/02/08/crypto-com-places-70m-bet-on-ai-com-domain-ahead-of-super-bowl/)**
+**[New York is considering two bills to rein in the AI industry](https://www.theverge.com/ai-artificial-intelligence/875501/new-york-is-considering-two-bills-to-rein-in-the-ai-industry)**
 
-The purchase rewrites the domain record books -- not that the crypto industry has ever been accused of restraint when it comes to spending.
+Slowing down the slop.
 
-TechCrunch • 1h ago
-
----
-
-**[Okay, I’m slightly less mad about that ‘Magnificent Ambersons’ AI project](https://www.yahoo.com/entertainment/movies/articles/okay-m-slightly-less-mad-193628787.html)**
-
-But this is still a bad idea.
-
-Yahoo • 1h ago
+theverge.com • 48m ago
 
 ---
 
-**[AI Fear Grips Wall Street as a New Stock Market Reality Sets In](https://www.bloomberg.com/news/articles/2026-02-08/ai-fear-grips-wall-street-as-a-new-stock-market-reality-sets-in)**
+**[Opinion | Congress Shouldn’t Stop AI Innovation](https://www.wsj.com/opinion/congress-shouldnt-stop-ai-innovation-a46a6dd2?gaa_at=eafs&gaa_n=AWEtsqeugX2hdlwpp6K-MkyZC6iULqGVR723BV73HH65UZJCZwiE02l-CM5n&gaa_ts=69890944&gaa_sig=RkaOX72nkz3V487iiVNvDa7ys58zpQPmuiEGSpI1LoZHDPMn7UrceUW1XyZqhsfwBQrumR7qlY0N92xPRd8rYw%3D%3D)**
 
-bloomberg.com • 7h ago
-
----
-
-**[Amazon shares fall as it joins Big Tech AI spending spree](https://www.bbc.com/news/articles/c150e144we3o)**
-
-Major firms collectively announce $650bn worth of investment in AI this week, rattling investors.
-
-BBC • 2d ago
+The Wall Street Journal • 57m ago
 
 ---
 
-**[Big Tech groups race to fund unprecedented $660bn AI spending spree](https://www.ft.com/content/d503afd5-1012-40f0-8f9d-620dcb39a9a2)**
+**[How to hedge a bubble, AI edition](https://www.economist.com/finance-and-economics/2026/02/08/how-to-hedge-a-bubble-ai-edition)**
 
-Executives face choice between cutting returns to shareholders, raiding reserves or tapping the markets
+Protecting your portfolio from a crash looks harder than ever
 
-Financial Times • 1h ago
+The Economist • 7h ago
 
 ---
 
@@ -179,6 +163,14 @@ Axios • 15h ago
 
 ---
 
+**[Moltbook was peak AI theater](https://www.technologyreview.com/2026/02/06/1132448/moltbook-was-peak-ai-theater/)**
+
+The viral social network for bots reveals as much about our own current mania for AI as it does about the future of agents.
+
+MIT Technology Review • 2d ago
+
+---
+
 **[US companies accused of ‘AI washing’ in citing artificial intelligence for job losses](https://www.theguardian.com/us-news/2026/feb/08/ai-washing-job-losses-artificial-intelligence)**
 
 While AI is having an impact on the workplace, experts suggest tariffs, overhiring during the pandemic and simply maximising profits may be bigger factors
@@ -187,11 +179,19 @@ The Guardian • 5h ago
 
 ---
 
-**[Moltbook was peak AI theater](https://www.technologyreview.com/2026/02/06/1132448/moltbook-was-peak-ai-theater/)**
+**[Goldman Sachs taps Anthropic’s Claude to automate accounting, compliance roles](https://www.cnbc.com/2026/02/06/anthropic-goldman-sachs-ai-model-accounting.html)**
 
-The viral social network for bots reveals as much about our own current mania for AI as it does about the future of agents.
+Goldman Sachs is building AI agents with Anthropic’s Claude to automate trade accounting and client onboarding, aiming to speed work and boost efficiency.
 
-MIT Technology Review • 2d ago
+CNBC • 2d ago
+
+---
+
+**[I turned myself into an AI-generated deathbot - here's what I found](https://www.bbc.com/news/articles/c93wjywz5p5o)**
+
+A Cardiff University researcher recreated her own voice using a deathbot - but found it strange.
+
+BBC • 14h ago
 
 ---
 
@@ -211,7 +211,7 @@ A new bill in the New York state legislature would require news organizations to
 
 The hundreds of billions of dollars being spent by tech companies on AI projects are diverting resources from other parts of the economy.
 
-⬆️ 382 • 💬 681 • 1d ago • [The Washington Post](https://www.washingtonpost.com/technology/2026/02/07/ai-spending-economy-shortages/)
+⬆️ 385 • 💬 683 • 1d ago • [The Washington Post](https://www.washingtonpost.com/technology/2026/02/07/ai-spending-economy-shortages/)
 
 ---
 
@@ -219,7 +219,7 @@ The hundreds of billions of dollars being spent by tech companies on AI projects
 
 You're using AI to be more productive. So why are you more exhausted than ever? The paradox every engineer needs to confront.
 
-⬆️ 361 • 💬 264 • 7h ago • [Siddhant Khare](https://siddhantkhare.com/writing/ai-fatigue-is-real)
+⬆️ 372 • 💬 270 • 7h ago • [Siddhant Khare](https://siddhantkhare.com/writing/ai-fatigue-is-real)
 
 ---
 
@@ -227,7 +227,7 @@ You're using AI to be more productive. So why are you more exhausted than ever? 
 
 AI is rarely optional anymore, but how can you still be proud of your craft? Discover the workflow to effectively write high-quality, robust code using AI tools.
 
-⬆️ 345 • 💬 301 • 2d ago • [heidenstedt.org](https://heidenstedt.org/posts/2026/how-to-effectively-write-quality-code-with-ai/)
+⬆️ 346 • 💬 301 • 2d ago • [heidenstedt.org](https://heidenstedt.org/posts/2026/how-to-effectively-write-quality-code-with-ai/)
 
 ---
 
@@ -235,7 +235,7 @@ AI is rarely optional anymore, but how can you still be proud of your craft? Dis
 
 A minimal, secure Python interpreter written in Rust for use by AI - pydantic/monty
 
-⬆️ 317 • 💬 164 • 2d ago • [GitHub](https://github.com/pydantic/monty)
+⬆️ 318 • 💬 164 • 2d ago • [GitHub](https://github.com/pydantic/monty)
 
 ---
 
@@ -243,7 +243,15 @@ A minimal, secure Python interpreter written in Rust for use by AI - pydantic/mo
 
 Contribute to localgpt-app/localgpt development by creating an account on GitHub.
 
-⬆️ 305 • 💬 143 • 20h ago • [GitHub](https://github.com/localgpt-app/localgpt)
+⬆️ 308 • 💬 144 • 20h ago • [GitHub](https://github.com/localgpt-app/localgpt)
+
+---
+
+**[Matchlock – Secures AI agent workloads with a Linux-based sandbox](https://news.ycombinator.com/item?id=46932343)**
+
+Matchlock secures AI agent workloads with a Linux-based sandbox. - jingkaihe/matchlock
+
+⬆️ 132 • 💬 55 • 13h ago • [GitHub](https://github.com/jingkaihe/matchlock)
 
 ---
 
@@ -252,14 +260,6 @@ Contribute to localgpt-app/localgpt development by creating an account on GitHub
 Women in rural communities describe trauma of moderating violent and pornographic content for global tech companies
 
 ⬆️ 130 • 💬 203 • 2d ago • [the Guardian](https://www.theguardian.com/global-development/2026/feb/05/in-the-end-you-feel-blank-indias-female-workers-watching-hours-of-abusive-content-to-train-ai)
-
----
-
-**[Matchlock – Secures AI agent workloads with a Linux-based sandbox](https://news.ycombinator.com/item?id=46932343)**
-
-Matchlock secures AI agent workloads with a Linux-based sandbox. - jingkaihe/matchlock
-
-⬆️ 126 • 💬 51 • 13h ago • [GitHub](https://github.com/jingkaihe/matchlock)
 
 ---
 
@@ -289,7 +289,7 @@ Become a member! ✓ https://www.youtube.com/channel/UCahJ9IsvXnaQiuNyWQSkrkw/jo
 
 📺 Chris Norlund
 
-👁️ 116K • 👍 7K • 💬 2K • ⏱️ 17:42 • 22h ago
+👁️ 116K • 👍 7K • 💬 2K • ⏱️ 17:42 • 23h ago
 
 ---
 
@@ -657,7 +657,7 @@ AI → JSON → UI
 
 `TypeScript`
 
-⭐ 10.1k • 🔱 538 • 20h ago
+⭐ 10.1k • 🔱 538 • 21h ago
 
 ---
 

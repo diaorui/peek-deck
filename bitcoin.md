@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-02-08T21:29:03.521076+00:00'
+updated: '2026-02-08T21:53:32.367872+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
 - videos
-- news
 - social
 - cryptocurrency
+- news
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** February 08, 2026 at 21:29 UTC  
+**Last Updated:** February 08, 2026 at 21:53 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -44,11 +44,11 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Chart
 
-**24h:** +2.2%  
-**7d:** -9.9%  
-**30d:** -21.5%  
-**90d:** -31.2%  
-**1y:** -26.4%  
+**24h:** +1.7%  
+**7d:** -10.4%  
+**30d:** -21.9%  
+**90d:** -31.6%  
+**1y:** -26.8%  
 
 ---
 
@@ -79,7 +79,23 @@ Rank #1
 
 **[Comforting my friend who bought BTC @ 120k](https://www.reddit.com/r/Bitcoin/comments/1qyt31t/comforting_my_friend_who_bought_btc_120k/)**
 
-21h ago
+22h ago
+
+---
+
+**[I just started my DCA journey](https://www.reddit.com/r/Bitcoin/comments/1qzjgtu/i_just_started_my_dca_journey/)**
+
+Im 39years old and unfortunately(or fortunately) because i had to renovate my house for last 3 years i didnt have any money to buy BTC.But i followed whole market for last 5 years with really small portofolio(less than 200€). Now i'm completely debt/loan free. Finally my 3 year bank loan ended friday,and i finally began my DCA journey into BTC at 66k. I guess im kinda lucky that it just had almost 50% drop. I know i can never time the market,and im mentally fully aware we can go back to 35-40k. The reason why i made this thread is because in my life i never talk about BTC so i guess i just wanted to share this with similar minded people
+
+1h ago
+
+---
+
+**[Largest Single Day Bitcoin Drawndowns in the past 10 years](https://www.reddit.com/r/Bitcoin/comments/1qzi46k/largest_single_day_bitcoin_drawndowns_in_the_past/)**
+
+Congratulations everyone on surviving the 8th biggest single day drawdown in the past 10 years. You all are legends!!!
+
+2h ago
 
 ---
 
@@ -95,7 +111,15 @@ The Fed's money printer never stops. Balance sheet still bloated at ~$6.5T, quie
 
 Guys, if you've been in this for 7-10 years, you see the same nonsense being spouted every single damn crash. BUY AND HODLATE.
 
-6h ago
+7h ago
+
+---
+
+**[Help!](https://www.reddit.com/r/Bitcoin/comments/1qzgooo/help/)**
+
+Hi everyone! Back in like 2013 or something My husband bought us some bitcoin. I think around $1000 worth, I can’t recall. Unfortunately since then he’s passed away (2018), and while I recall logging in to his wallet and changing the info to include myself and my email address after he passed away, I can’t recall where on earth any of this transpired. I do have the old laptop I did this on, and I hope that can help illuminate things for me so I can find it, but honestly I’m not sure where to begin looking. Back around those days, where would one access to their bitcoin? This was his thing back then, not mine so I have no idea where to start. Any ideas would be helpful.
+
+3h ago
 
 ---
 
@@ -111,23 +135,7 @@ Guys, if you've been in this for 7-10 years, you see the same nonsense being spo
 
 honestly, after holding since 2021, these dips barely even register anymore. i'm not even checking the charts as often as i used to. is that just me getting old and boring, or are other long-term holders feeling the same?
 
-14h ago
-
----
-
-**[Help!](https://www.reddit.com/r/Bitcoin/comments/1qzgooo/help/)**
-
-Hi everyone! Back in like 2013 or something My husband bought us some bitcoin. I think around $1000 worth, I can’t recall. Unfortunately since then he’s passed away (2018), and while I recall logging in to his wallet and changing the info to include myself and my email address after he passed away, I can’t recall where on earth any of this transpired. I do have the old laptop I did this on, and I hope that can help illuminate things for me so I can find it, but honestly I’m not sure where to begin looking. Back around those days, where would one access to their bitcoin? This was his thing back then, not mine so I have no idea where to start. Any ideas would be helpful.
-
-2h ago
-
----
-
-**[I just started my DCA journey](https://www.reddit.com/r/Bitcoin/comments/1qzjgtu/i_just_started_my_dca_journey/)**
-
-Im 39years old and unfortunately(or fortunately) because i had to renovate my house for last 3 years i didnt have any money to buy BTC.But i followed whole market for last 5 years with really small portofolio(less than 200€). Now i'm completely debt/loan free. Finally my 3 year bank loan ended friday,and i finally began my DCA journey into BTC at 66k. I guess im kinda lucky that it just had almost 50% drop. I know i can never time the market,and im mentally fully aware we can go back to 35-40k. The reason why i made this thread is because in my life i never talk about BTC so i guess i just wanted to share this with similar minded people
-
-1h ago
+15h ago
 
 ---
 
@@ -144,12 +152,6 @@ HODL strong through the storms; the future rewards the patient. 🚀 🙌
 Over the past year I have received 4 unknown deposits into my Trezor hardware wallet. Each deposit was in the amount of .0000033 bitcoin. Three were in January 2025 and one so far today. Any ideas what these are and should I be worried about my Trezor. It is a Trezor safe 3. Thanks for any help.
 
 15h ago
-
----
-
-**[The uncomfortable truth about following crypto experts](https://www.reddit.com/r/Bitcoin/comments/1qzb0ml/the_uncomfortable_truth_about_following_crypto/)**
-
-🔗 [X (formerly Twitter)](https://x.com/rustyshrink/status/2020307703353012477?s%3D12) • 6h ago
 
 ---
 
@@ -182,33 +184,11 @@ BBC • 1d ago
 
 ---
 
-**[Accidental 2,000 BTC Airdrop Crashes Bitcoin Price 10% on Bithumb](https://finance.yahoo.com/news/accidental-2-000-btc-airdrop-140730291.html)**
+**[South Korean Crypto Exchange Accidentally Gave Away $43 Billion in Bitcoin](https://finance.yahoo.com/news/south-korean-crypto-exchange-accidentally-174618936.html)**
 
-Bitcoin plunged 10% on Bithumb after an accidental 2,000 BTC airdrop triggered panic selling and liquidity shock.
+The error was quickly corrected, Bithumb said, but not before some users sold off their Bitcoin, temporarily crashing its listed price.
 
-Yahoo Finance • 2d ago
-
----
-
-**[Purported ransom note for Savannah Guthrie's mom demanded payment in bitcoin. Could it be tracked?](https://www.cbsnews.com/news/savannah-guthrie-mom-nancy-ransom-note-bitcoin-what-to-know/)**
-
-Cryptocurrency transactions are often thought to be anonymous and untraceable. That's a misconception, experts tell CBS News.
-
-cbsnews.com • 1d ago
-
----
-
-**[Nancy Guthrie latest: Derrick Callella of Torrance, California arrested for demanding Bitcoin ransom from family](https://abc7.com/post/nancy-guthrie-latest-derrick-callella-california-arrested-demanding-bitcoin-ransom-family/18549247/)**
-
-The man allegedly used an app to create a fake phone number to text the family, according to a federal complaint.
-
-ABC7 Los Angeles • 2d ago
-
----
-
-**[The Kidnappers Of Savannah Guthrie's Mom Want Bitcoin—But It’s Not As Anonymous As Many Think](https://www.forbes.com/sites/martinadilicosa/2026/02/06/the-kidnappers-of-savannah-guthries-mom-want-bitcoin-but-its-not-as-anonymous-as-many-think/)**
-
-Forbes • 2d ago
+Yahoo Finance • 1d ago
 
 ---
 
@@ -220,17 +200,39 @@ The Block • 2d ago
 
 ---
 
-**[Bitcoin Booster’s $12 Billion Loss Headlines Crypto’s Worst Day Since 2022 Crash](https://www.wsj.com/finance/currencies/strategy-earnings-fourth-2025-33688dab?gaa_at=eafs&gaa_n=AWEtsqdll0unxWcqmk7OwNEKtq7_h9x0XRhResqlKAtY0pop9ZSV7wy24PEh&gaa_ts=6988f5b4&gaa_sig=jO7zGK_uvoXYNgu8As_HAIdzCtCjv-AJt0S3kNbYWiNCf2yX84Dg-t3gbzsNjHKg1BJNT9HgGPwutwV2-8c24g%3D%3D)**
+**[Bitcoin Booster’s $12 Billion Loss Headlines Crypto’s Worst Day Since 2022 Crash](https://www.wsj.com/finance/currencies/strategy-earnings-fourth-2025-33688dab?gaa_at=eafs&gaa_n=AWEtsqcOCTlV4Iqjd2A13vzvRFJ7bj1Uumv4IDZPTKpvLdfsLUeCsenz7q7a&gaa_ts=69890946&gaa_sig=-NkthDy29yMK7VbirqJ9567cAGyRrGDTXWlK_iqAiQBc5yQFV3H3IbVEwRwkdF2FKqiSVNiX4xQl1A3Yfalwkg%3D%3D)**
 
 The Wall Street Journal • 2d ago
 
 ---
 
-**[Short-Seller Andrew Left Blasts Michael Saylor's 'Bitcoin Reactor' As Q4 Losses Mount: 'More Jargon...More Nonsense'](https://finance.yahoo.com/news/short-seller-andrew-left-blasts-023118483.html)**
+**[Strategy’s Record Bitcoin Loss Highlights Dual Role And Security Focus](https://finance.yahoo.com/news/strategy-record-bitcoin-loss-highlights-020534757.html)**
 
-Citron Research founder Andrew Left renewed his aggressive short campaign against Strategy Inc. (NASDAQ:MSTR) on Thursday, dismissing the company's complex financial architecture as "nonsense" after the firm reported a staggering $12.4 billion fourth-quarter loss. Jargon Vs. Reality The critique marks a sharp reversal for Left, who previously praised the company before it “completely detached from BTC fundamentals.” The dispute centers on Executive Chairman Michael Saylor's recent descriptions o
+Strategy (NasdaqGS:MSTR) reported one of the largest net losses ever recorded by a U.S. public company, driven by unrealized Bitcoin mark to market losses. The company highlighted that the loss stems primarily from accounting treatment of its sizable Bitcoin holdings rather than cash outflows. Management, including Michael Saylor and CEO Phong Le, reiterated a long term commitment to holding Bitcoin and pointed to significant cash reserves. Strategy also announced a Bitcoin security...
 
-Yahoo Finance • 18h ago
+Yahoo Finance • 1d ago
+
+---
+
+**[The Kidnappers Of Savannah Guthrie's Mom Want Bitcoin—But It’s Not As Anonymous As Many Think](https://www.forbes.com/sites/martinadilicosa/2026/02/06/the-kidnappers-of-savannah-guthries-mom-want-bitcoin-but-its-not-as-anonymous-as-many-think/)**
+
+Forbes • 2d ago
+
+---
+
+**[Nancy Guthrie latest: Derrick Callella of Torrance, California arrested for demanding Bitcoin ransom from family](https://abc7.com/post/nancy-guthrie-latest-derrick-callella-california-arrested-demanding-bitcoin-ransom-family/18549247/)**
+
+The man allegedly used an app to create a fake phone number to text the family, according to a federal complaint.
+
+ABC7 Los Angeles • 2d ago
+
+---
+
+**[Former FBI cybersecurity expert explains how Nancy Guthrie could be found via Bitcoin and Email](https://www.cnn.com/2026/02/06/us/video/former-fbi-cybersecurity-expert-explains-how-nancy-guthrie-could-be-found-via-bitcoin-and-email-lcl)**
+
+Former FBI counterintelligence operative and cybersecurity expert Eric O’Neill joins Laura Coates to explain how a Bitcoin ransom demand could still be traced by law enforcement.
+
+cnn.com • 2d ago
 
 ---
 
@@ -262,7 +264,7 @@ Bitcoin outlook turns bearish as Pivotus’ Richard Farr targets BTC at $0 and M
 
 **[Bitcoin tumbles below $70K, heavy losses in cryptocurrencies in last three weeks](https://news.ycombinator.com/item?id=46934165)**
 
-⬆️ 43 • 💬 61 • 7h ago • [bloomberg.com](https://www.bloomberg.com/news/articles/2026-02-05/bitcoin-drops-below-70-000-as-forced-deleveraging-accelerates)
+⬆️ 44 • 💬 61 • 8h ago • [bloomberg.com](https://www.bloomberg.com/news/articles/2026-02-05/bitcoin-drops-below-70-000-as-forced-deleveraging-accelerates)
 
 ---
 
@@ -276,7 +278,7 @@ Bitcoin outlook turns bearish as Pivotus’ Richard Farr targets BTC at $0 and M
 
 The crypto crash is coming — and the landing won’t be pretty
 
-⬆️ 5 • 💬 1 • 4h ago • [ft.com](https://www.ft.com/content/2b030926-2012-4446-b22d-e549e10e7086)
+⬆️ 5 • 💬 1 • 5h ago • [ft.com](https://www.ft.com/content/2b030926-2012-4446-b22d-e549e10e7086)
 
 ---
 
@@ -322,7 +324,7 @@ Nick Valdez checks the latest price action with Bitcoin. What if I said there ar
 
 📺 Discover Crypto
 
-👁️ 3K • 👍 174 • 💬 148 • ⏱️ 5:08 • 5h ago
+👁️ 3K • 👍 174 • 💬 148 • ⏱️ 5:08 • 6h ago
 
 ---
 
@@ -342,7 +344,7 @@ Bitcoin just posted its first ever $10000 daily drop, wiped out billions in liqu
 
 📺 Simply Bitcoin
 
-👁️ 27K • 👍 2K • 💬 237 • ⏱️ 16:01 • 21h ago
+👁️ 27K • 👍 2K • 💬 237 • ⏱️ 16:01 • 22h ago
 
 ---
 
@@ -392,7 +394,7 @@ Why did the world's largest asset class lose nearly $2 trillion in value so quic
 
 📺 Discover Crypto
 
-👁️ 5K • 👍 188 • 💬 117 • ⏱️ 7:32 • 23h ago
+👁️ 5K • 👍 188 • 💬 117 • ⏱️ 7:32 • 1d ago
 
 ---
 
@@ -402,7 +404,7 @@ Bitcoin plunges as crypto markets lose trillions, sparking debate over whether B
 
 📺 Valuetainment
 
-👁️ 199K • 👍 4K • 💬 12K • ⏱️ 14:38 • 1d ago
+👁️ 199K • 👍 4K • 💬 12K • ⏱️ 14:38 • 2d ago
 
 ---
 

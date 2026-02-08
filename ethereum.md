@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-02-08T21:29:03.527104+00:00'
+updated: '2026-02-08T21:53:32.373936+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
 - videos
-- news
 - social
 - cryptocurrency
+- news
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** February 08, 2026 at 21:29 UTC  
+**Last Updated:** February 08, 2026 at 21:53 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -36,17 +36,17 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Price
 
-### $2,109.76
+### $2,095.73
 
 ---
 
 ## Ethereum Chart
 
-**24h:** +0.6%  
-**7d:** -9.9%  
-**30d:** -31.5%  
-**90d:** -38.0%  
-**1y:** -19.6%  
+**24h:** -0.0%  
+**7d:** -10.8%  
+**30d:** -32.3%  
+**90d:** -38.7%  
+**1y:** -20.4%  
 
 ---
 
@@ -76,19 +76,19 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 ---
 
-**[Staking on coinbase or... ??](https://www.reddit.com/r/ethereum/comments/1qzfbqx/staking_on_coinbase_or/)**
-
-So I have some eth staked on coinbase but wondering how risky it is.. should I be looking somewhere else or is coinbase a good call? I don't answer private messages thanks
-
-3h ago
-
----
-
 **[Stock Trader’s Crypto Panic: Sell BTC/ETH at 70% Peak or HODL the Dip?](https://www.reddit.com/r/ethereum/comments/1qzhvbi/stock_traders_crypto_panic_sell_btceth_at_70_peak/)**
 
 Hey Redditors, I’m feeling pretty confused right now and could really use your collective wisdom: should I sell my Bitcoin and Ethereum, or should I hold tight through this volatility? I’ve been successfully trading stocks and options for over 20 years; everything from forex to commodities….but I finally decided to dip my toes into crypto for the first time late last year, thinking it was the next big diversification play for me. Here’s the deal: I bought in at Bitcoin around $82k USD and grabbed ETH at roughly $3,800 each. Fast forward to now in early February 2026, BTC’s hovering around $71k after some wild swings (dipped below $61k recently, now rebounding a bit), and ETH is sitting lower too amid all the “crypto winter” chatter, whale sells, ETF flows, and macro noise like Fed uncertainty and seasonal sell-offs. I’m down on paper, which stings after decades of stock market discipline, but I’ve seen cycles before; just not ones this intense! As a newbie to this space (stocks felt way more predictable), I’m torn: Cut losses and rotate back to traditional markets? HODL for the long-term upside with institutional adoption and potential QE boosts? Dollar-cost average down? Or maybe sell half and let the rest ride? What’s worked for you in similar spots, especially fellow stock vets who’ve crossed over? Thanks a ton!
 
 2h ago
+
+---
+
+**[Staking on coinbase or... ??](https://www.reddit.com/r/ethereum/comments/1qzfbqx/staking_on_coinbase_or/)**
+
+So I have some eth staked on coinbase but wondering how risky it is.. should I be looking somewhere else or is coinbase a good call? I don't answer private messages thanks
+
+4h ago
 
 ---
 
@@ -110,7 +110,7 @@ Non-custodial privacy protocol for anonymous ETH transactions. Break the on-chai
 
 **[I built the first fully on-chain, 100% decentralized, ETH-in ETH-out (no new token), skill based competitive gaming platform](https://www.reddit.com/r/ethereum/comments/1qz1wbo/i_built_the_first_fully_onchain_100_decentralized/)**
 
-14h ago
+15h ago
 
 ---
 
@@ -156,11 +156,19 @@ The Cool Down • 1d ago
 
 ---
 
-**[Crypto Treasuries Fall Deeply Underwater as Bitcoin, Ethereum and Solana Dive](https://decrypt.co/357130/crypto-treasury-underwater-bitcoin-ethereum-solana-dive)**
+**[With Ethereum Shifting Away From Rollups, These 6 Tokens Will Benefit](https://unchainedcrypto.com/ethereum-lets-go-of-the-rollup-story-here-are-the-6-tokens-that-benefit/)**
 
-Prominent publicly traded crypto treasury firms are underwater on their holdings as Bitcoin and Ethereum keep falling.
+Vitalik signals a shift away from the rollup-centric roadmap. We break down what it means for ETH, L2 tokens, and which models actually work.
 
-Decrypt • 2d ago
+unchainedcrypto.com • 1d ago
+
+---
+
+**[Tom Lee’s BitMine Adds Another $42 Million in Ethereum Despite Crypto Winter](https://finance.yahoo.com/news/tom-lee-bitmine-adds-another-210000254.html)**
+
+BitMine has expanded its Ethereum hodings by acquiring an additional 20,000 ETH for nearly $42 million this week.
+
+Yahoo Finance • 53m ago
 
 ---
 
@@ -172,11 +180,11 @@ The Guardian • 3d ago
 
 ---
 
-**[BitMine Ethereum Treasury Losses And Leadership Changes Put BMNR Under Scrutiny](https://finance.yahoo.com/news/bitmine-ethereum-treasury-losses-leadership-170707091.html)**
+**[Crypto prices on Friday: Bitcoin, Ethereum and more tick upward](https://mashable.com/article/crypto-bitcoin-ethereum-prices-tick-upward-friday-2-6-2026)**
 
-BitMine Immersion Technologies, ticker NYSEAM:BMNR, is reporting nearly $8b in unrealized losses tied to its Ethereum holdings after a sharp pullback in ETH prices. The company continues to frame its large Ethereum position and staking operations as part of a long term treasury approach, while continuing to accumulate ETH. Recent executive turnover, including the amicable separation of President Erik Nelson, is adding another layer of uncertainty for shareholders during heightened crypto...
+Prices are climbing back up after the biggest crypto crash since 2022.
 
-Yahoo Finance • 1d ago
+Mashable • 2d ago
 
 ---
 
@@ -188,27 +196,11 @@ The Block • 1d ago
 
 ---
 
-**[Crypto prices on Friday: Bitcoin, Ethereum and more tick upward](https://mashable.com/article/crypto-bitcoin-ethereum-prices-tick-upward-friday-2-6-2026)**
-
-Prices are climbing back up after the biggest crypto crash since 2022.
-
-Mashable • 2d ago
-
----
-
-**[Ethereum and Solana Are Getting Hit Hard. Are These Top Cryptocurrencies Buys on the Dip?](https://www.fool.com/investing/2026/02/07/ethereum-and-solana-are-getting-hit-hard-are-these/)**
+**[Ethereum and Solana Are Getting Hit Hard. Are These Top Cryptocurrencies Buys on the Dip?](https://finance.yahoo.com/news/ethereum-solana-getting-hit-hard-121600990.html)**
 
 Here's why giving up on Ethereum and Solana now would be a mistake.
 
-The Motley Fool • 1d ago
-
----
-
-**[How Buying Ethereum Today Could 10x Your Net Worth](https://finance.yahoo.com/news/buying-ethereum-today-could-10x-210500420.html)**
-
-The world's second-largest cryptocurrency still has a bright future.
-
-Yahoo Finance • 3d ago
+Yahoo Finance • 1d ago
 
 ---
 
@@ -220,11 +212,19 @@ AMBCrypto • 16h ago
 
 ---
 
-**[Ethereum’s Funding Rates Signal Sentiment Flip Across Major Exchanges](https://www.tradingview.com/news/newsbtc:626087f65094b:0-ethereum-s-funding-rates-signal-sentiment-flip-across-major-exchanges/)**
+**[Ethereum and Solana Are Getting Hit Hard. Are These Top Cryptocurrencies Buys on the Dip?](https://www.nasdaq.com/articles/ethereum-and-solana-are-getting-hit-hard-are-these-top-cryptocurrencies-buys-dip)**
 
-Ethereum (ETH) has declined noticeably over the past week, with price data from CoinMarketCap reporting a net 14% decline within this period. At the time of the most recent data, ETH is trading around $2,000, significantly lower than the past week’s level near $2,500. ETH Funding Rates Signal A Bul…
+Key PointsBoth Ethereum and Solana are down more than 34% for the year, and the sell-off appears to be intensifying.
 
-TradingView • 13h ago
+Nasdaq • 1d ago
+
+---
+
+**[The Vibes From the 'Davos for Degens' as Bitcoin and Ethereum Plummeted](https://decrypt.co/357315/vibes-davos-degens-bitcoin-ethereum-plummeted)**
+
+At a conference dedicated to the riskiest traders in finance, Miami's crypto scene appeared far different than during its pandemic-era boom.
+
+Decrypt • 5h ago
 
 ---
 
@@ -308,7 +308,7 @@ BITCOIN & ALTCOINS: New Targets Confirmed (Prepare Now)!!! - Bitcoin News Today,
 
 📺 Crypto World
 
-👁️ 14K • 👍 443 • 💬 253 • ⏱️ 17:07 • 23h ago
+👁️ 14K • 👍 443 • 💬 253 • ⏱️ 17:07 • 1d ago
 
 ---
 
@@ -318,7 +318,7 @@ BITCOIN & ALTCOINS: New Targets Confirmed (Prepare Now)!!! - Bitcoin News Today,
 
 📺 Journal du Coin
 
-👁️ 1K • 👍 139 • 💬 5 • ⏱️ 10:35 • 4h ago
+👁️ 1K • 👍 139 • 💬 5 • ⏱️ 10:35 • 5h ago
 
 ---
 
