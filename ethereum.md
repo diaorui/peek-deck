@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-02-08T18:38:40.910826+00:00'
+updated: '2026-02-08T19:26:54.793535+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- social
+- videos
 - cryptocurrency
 - news
-- videos
+- social
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** February 08, 2026 at 18:38 UTC  
+**Last Updated:** February 08, 2026 at 19:26 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -36,17 +36,17 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Price
 
-### $2,084.50
+### $2,109.76
 
 ---
 
 ## Ethereum Chart
 
-**24h:** -0.2%  
-**7d:** -10.8%  
-**30d:** -32.3%  
-**90d:** -38.7%  
-**1y:** -20.4%  
+**24h:** +0.5%  
+**7d:** -9.9%  
+**30d:** -31.6%  
+**90d:** -38.1%  
+**1y:** -19.6%  
 
 ---
 
@@ -72,7 +72,7 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-12h ago
+13h ago
 
 ---
 
@@ -80,7 +80,23 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 So I have some eth staked on coinbase but wondering how risky it is.. should I be looking somewhere else or is coinbase a good call? I don't answer private messages thanks
 
-57m ago
+1h ago
+
+---
+
+**[What I learned building an Optimism node and why binary matters.](https://www.reddit.com/r/ethereum/comments/1qzg7d1/what_i_learned_building_an_optimism_node_and_why/)**
+
+I manually architected a Dual-STACK Execution and Consensus Engine that bypasses the entire public RPC industry. Hardware; Managed a 4TB NVMe volume with 3.3TB Optimism state and a pruned L1 Reth/Lighthouse combo. I compiled Lighthouse and Reth from source after Optimism-specific codebase was deprecated mid-sync. I achieved 0ms IPC round trips by killing the dependency on Alchemy/Infura Ran into a few problems along the way. I tried to run a standard Ethereum binary on Optimism data. The node crashed because it saw a transaction type it didn't recognize (Type 126 which is an Optimism deposit) Standard Ethereum node thinks this is illegal data. To fix it, I identified that i needed a specialized OP-Stack aware version of Reth. I tracked down the Paradigm Reth Optimism binary. By switching to the op-reth binary i gave the node the dictionary it needed to translate those Type 126 deposits into valid blocks. I moved from a blind Ethereum node to a Super chain-aware engine. The Reth engine was idling. It had peers and a database, but it didn't know where the tip of the chain was, so it stayed at block 0. I realized a modern node was a Two-Part Machine. So I built the Lighthouse Consensus Client from source to be the "Driver" Instead of waiting weeks to download the chain from 2015 i used a Checkpoint Sync URL. I linked Lighthouse to Reth via the Engine API ()Port 8551/8552) using a shared JWT Secret. The moment Lighthouse found the "Truth" on the network, it handed the coordinates to Reth. The node immediately jumped from 0 to 21,800,000 and the 1.9TB of free space started filling with real history. The real nightmare scenario happened when I was syncing the snapshot data and because of a single transaction type the whole thing crashed. My sync was flying for about 15 hours and when I woke up to check it found it had stalled. It hit block 144,528215 where it encountered an Optimism-specific Type 126 Deposit transaction. Because I was running the standard Ethereum Reth binary instead of the specialized Op-Reth version from paradigm, the node literally didn't have the code to read it understand what type 126 transaction it was. This didn't just crash the sync, it left garbage data at the tip of my database, which blocked further progress until I swapped binary and manually forced a stage rewind to clear corruption. In the grand scheme of thing's it was a rookie mistake.
+
+1h ago
+
+---
+
+**[Stock Trader’s Crypto Panic: Sell BTC/ETH at 70% Peak or HODL the Dip?](https://www.reddit.com/r/ethereum/comments/1qzhvbi/stock_traders_crypto_panic_sell_btceth_at_70_peak/)**
+
+Hey Redditors, I’m feeling pretty confused right now and could really use your collective wisdom: should I sell my Bitcoin and Ethereum, or should I hold tight through this volatility? I’ve been successfully trading stocks and options for over 20 years; everything from forex to commodities….but I finally decided to dip my toes into crypto for the first time late last year, thinking it was the next big diversification play for me. Here’s the deal: I bought in at Bitcoin around $82k USD and grabbed ETH at roughly $3,800 each. Fast forward to now in early February 2026, BTC’s hovering around $71k after some wild swings (dipped below $61k recently, now rebounding a bit), and ETH is sitting lower too amid all the “crypto winter” chatter, whale sells, ETF flows, and macro noise like Fed uncertainty and seasonal sell-offs. I’m down on paper, which stings after decades of stock market discipline, but I’ve seen cycles before; just not ones this intense! As a newbie to this space (stocks felt way more predictable), I’m torn: Cut losses and rotate back to traditional markets? HODL for the long-term upside with institutional adoption and potential QE boosts? Dollar-cost average down? Or maybe sell half and let the rest ride? What’s worked for you in similar spots, especially fellow stock vets who’ve crossed over? Thanks a ton!
+
+12m ago
 
 ---
 
@@ -88,13 +104,13 @@ So I have some eth staked on coinbase but wondering how risky it is.. should I b
 
 Non-custodial privacy protocol for anonymous ETH transactions. Break the on-chain link using zero-knowledge proofs. Live on Ethereum mainnet.
 
-🔗 [Laundry Cash](https://ethlaundry.xyz) • 1h ago
+🔗 [Laundry Cash](https://ethlaundry.xyz) • 2h ago
 
 ---
 
 **[I built the first fully on-chain, 100% decentralized, ETH-in ETH-out (no new token), skill based competitive gaming platform](https://www.reddit.com/r/ethereum/comments/1qz1wbo/i_built_the_first_fully_onchain_100_decentralized/)**
 
-11h ago
+12h ago
 
 ---
 
@@ -108,7 +124,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 **[We're building an open-source archive of the earliest Ethereum smart contracts (2015-2017) — looking for contributors](https://www.reddit.com/r/ethereum/comments/1qymum3/were_building_an_opensource_archive_of_the/)**
 
-23h ago
+1d ago
 
 ---
 
@@ -128,22 +144,6 @@ Vitalik: role of L2s has changed, Hegotá upgrade headliner proposals, Lido v3 l
 
 ---
 
-**[Hello](https://www.reddit.com/r/ethereum/comments/1qy3w2u/hello/)**
-
-im jef, and im honestly just starting to get into crypto, trying to understand how all of this works and whether it’s something i could realistically learn and grow into over time. i don’t come from money, im just a student juggling school, responsibilities, and everyday expenses, so I don’t have much to risk or experiment with, which is why im looking for advice more than anything else. i’ve been reading, watching, and asking around, but it still feels overwhelming, and i know im inexperienced and probably missing a lot of important basics. At the same time, a part of me thinks this could be a real opportunity if i approach it carefully, stay patient, and learn from people who actually know what they’re doing. im not chasing quick profits or hype, i just want guidance on how to start smart, avoid obvious mistakes, and figure out if someone like me, broke, still studying, and learning as i go, i might have a genuine chance at building something small but meaningful through crypto in the long run. could anyone give advise?
-
-1d ago
-
----
-
-**[[ Removed by Reddit ]](https://www.reddit.com/r/ethereum/comments/1qxnwvb/removed_by_reddit/)**
-
-[ Removed by Reddit on account of violating the content policy. ]
-
-2d ago
-
----
-
 ---
 
 ## Google News: "ethereum"
@@ -156,11 +156,27 @@ The Cool Down • 1d ago
 
 ---
 
-**[With Ethereum Shifting Away From Rollups, These 6 Tokens Will Benefit](https://unchainedcrypto.com/ethereum-lets-go-of-the-rollup-story-here-are-the-6-tokens-that-benefit/)**
+**[How Buying Ethereum Today Could 10x Your Net Worth](https://www.nasdaq.com/articles/how-buying-ethereum-today-could-10x-your-net-worth)**
 
-Vitalik signals a shift away from the rollup-centric roadmap. We break down what it means for ETH, L2 tokens, and which models actually work.
+Key PointsEther’s price has plunged in 2026.
 
-unchainedcrypto.com • 1d ago
+Nasdaq • 2d ago
+
+---
+
+**[Ethereum Price Is Not Going To Keep Falling Forever, Analyst Says](https://www.tradingview.com/news/newsbtc:6ebc821a3094b:0-ethereum-price-is-not-going-to-keep-falling-forever-analyst-says/)**
+
+Ethereum’s recent sell-off has weighed heavily on sentiment after the price fell below the $2,000 level and pulled much of the altcoin market lower alongside it. The move has caused sweeping fear and caution among Ethereum traders. However, some analysts are of the notion that a bullish upside will…
+
+TradingView • 16h ago
+
+---
+
+**[Ethereum Rebounds from Lows, but ETF Flows Still Point to Caution](https://www.tipranks.com/news/can-ethereum-rebounds-from-lows-but-etf-flows-still-point-to-cautioncan)**
+
+Ethereum (ETH-USD) faced a tough week as selling pressure built up across the crypto market. Indeed, Ethereum fell more than 30% over the past week and briefly slid...
+
+TipRanks • 1d ago
 
 ---
 
@@ -169,6 +185,14 @@ unchainedcrypto.com • 1d ago
 A leaked pitch to reshape Ethereum’s leadership exposed deep divisions over politics, power and Ether’s static price
 
 The Guardian • 3d ago
+
+---
+
+**[BitMine Ethereum Treasury Losses And Leadership Changes Put BMNR Under Scrutiny](https://finance.yahoo.com/news/bitmine-ethereum-treasury-losses-leadership-170707091.html)**
+
+BitMine Immersion Technologies, ticker NYSEAM:BMNR, is reporting nearly $8b in unrealized losses tied to its Ethereum holdings after a sharp pullback in ETH prices. The company continues to frame its large Ethereum position and staking operations as part of a long term treasury approach, while continuing to accumulate ETH. Recent executive turnover, including the amicable separation of President Erik Nelson, is adding another layer of uncertainty for shareholders during heightened crypto...
+
+Yahoo Finance • 1d ago
 
 ---
 
@@ -196,35 +220,11 @@ The Motley Fool • 1d ago
 
 ---
 
-**[How Buying Ethereum Today Could 10x Your Net Worth](https://finance.yahoo.com/news/buying-ethereum-today-could-10x-210500420.html)**
-
-The world's second-largest cryptocurrency still has a bright future.
-
-Yahoo Finance • 2d ago
-
----
-
-**[Ethereum Price Is Not Going To Keep Falling Forever, Analyst Says](https://www.tradingview.com/news/newsbtc:6ebc821a3094b:0-ethereum-price-is-not-going-to-keep-falling-forever-analyst-says/)**
-
-Ethereum’s recent sell-off has weighed heavily on sentiment after the price fell below the $2,000 level and pulled much of the altcoin market lower alongside it. The move has caused sweeping fear and caution among Ethereum traders. However, some analysts are of the notion that a bullish upside will…
-
-TradingView • 15h ago
-
----
-
-**[Ethereum Weekly Price Forecast: Trend Research capitulates, BitMine's Thomas Lee sees a V-shaped recovery](https://www.fxstreet.com/cryptocurrencies/news/ethereum-weekly-price-forecast-trend-research-capitulates-bitmines-thomas-lee-sees-a-v-shaped-recovery-202602071422)**
-
-Ethereum (ETH) had one of its sharpest historic declines over the past 10 days, shedding 40% of its value and briefly sliding below $2,000.
-
-FXStreet • 1d ago
-
----
-
 **[Solana’s quiet takeover – Can SOL profit from the FUD around Ethereum?](https://ambcrypto.com/solanas-quiet-takeover-can-sol-profit-from-the-fud-around-ethereum/)**
 
 Solana may be outperforming Ethereum across key metrics right now.
 
-AMBCrypto • 13h ago
+AMBCrypto • 14h ago
 
 ---
 
@@ -238,7 +238,7 @@ ETHEREUM ETH PRICE PREDICTION 2026 Join the Premium Signal Group for trade setup
 
 📺 Cilinix Crypto
 
-👁️ 584 • 👍 19 • 💬 12 • ⏱️ 4:21 • 8h ago
+👁️ 584 • 👍 19 • 💬 12 • ⏱️ 4:21 • 9h ago
 
 ---
 
@@ -258,7 +258,7 @@ This video provides a professional Elliott Wave and technical analysis of Ethere
 
 📺 More Crypto Online
 
-👁️ 3K • 👍 208 • 💬 12 • ⏱️ 5:21 • 12h ago
+👁️ 3K • 👍 208 • 💬 12 • ⏱️ 5:21 • 13h ago
 
 ---
 
@@ -268,7 +268,7 @@ BITCOIN & ALTCOINS: New Targets Confirmed (Prepare Now)!!! - Bitcoin News Today,
 
 📺 Crypto World
 
-👁️ 13K • 👍 430 • 💬 227 • ⏱️ 17:07 • 20h ago
+👁️ 13K • 👍 430 • 💬 227 • ⏱️ 17:07 • 21h ago
 
 ---
 
@@ -308,7 +308,7 @@ This video provides a professional Elliott Wave and technical analysis of Ethere
 
 📺 More Crypto Online
 
-👁️ 4K • 👍 205 • 💬 11 • ⏱️ 4:56 • 22h ago
+👁️ 4K • 👍 205 • 💬 11 • ⏱️ 4:56 • 23h ago
 
 ---
 
@@ -318,7 +318,7 @@ L'exchange crypto le plus sérieux du marché, c'est lui. Régulé US & Europe, 
 
 📺 Crypto Mindset Podcast 
 
-👁️ 2K • 👍 164 • 💬 59 • ⏱️ 10:19 • 6h ago
+👁️ 2K • 👍 164 • 💬 59 • ⏱️ 10:19 • 7h ago
 
 ---
 

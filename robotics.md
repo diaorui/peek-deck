@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-02-08T18:38:40.914121+00:00'
+updated: '2026-02-08T19:26:54.796742+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- social
-- news
 - videos
+- news
+- social
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** February 08, 2026 at 18:38 UTC  
+**Last Updated:** February 08, 2026 at 19:26 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -34,7 +34,7 @@ Robotics research and industry news
 
 **[LeRobot's ACT running on my robotic arm](https://www.reddit.com/r/robotics/comments/1qz65ru/lerobots_act_running_on_my_robotic_arm/)**
 
-7h ago
+8h ago
 
 ---
 
@@ -46,11 +46,19 @@ Hi everyone 👋 I’ve just released CANgaroo v0.4.5, an actively maintained, o
 
 ---
 
+**[Teleop_xr – Modular WebXR solution for bimanual robot teleoperation](https://www.reddit.com/r/robotics/comments/1qzi0v4/teleop_xr_modular_webxr_solution_for_bimanual/)**
+
+Repository: https://github.com/qrafty-ai/teleop_xr Any suggestions are welcome! https://reddit.com/link/1qzi0v4/video/53dekrjlmbig1/player
+
+7m ago
+
+---
+
 **[New Subreddit for Robotics in Belgium](https://www.reddit.com/r/robotics/comments/1qzeixk/new_subreddit_for_robotics_in_belgium/)**
 
 Hi everyone! I recently started r/Robotics_BE, a space for robotics enthusiasts in Belgium to share ideas, projects, and passion for tech. Planning to organize some relaxed meetups for people to chat and collaborate, everyone interested in robotics is welcome! Would love to see this community grow and hear about your projects! https://preview.redd.it/4tod0lxpzaig1.png?width=1024&format=png&auto=webp&s=8546aec8130d68ebd075ecf282a0b70ca6844ecd
 
-1h ago
+2h ago
 
 ---
 
@@ -58,15 +66,7 @@ Hi everyone! I recently started r/Robotics_BE, a space for robotics enthusiasts 
 
 I built a web based realtime reinforcement learning robot using webassembly and websockets. The model is a mix of hierarchal policy in addition to soft actor critic (sac) to get feedback from bevy (game engine) about torque and position of all 13 different components (joints, etc..) You can see the robot learning in real time here https://robot.zeyaddeeb.com/ And read a bit more tech choices here: https://www.zeyaddeeb.com/blog/posts/basketball-learning-robot Boston Dynamics Atlas does not stand a chance against this fella after 6 months of training (i think?!).
 
-1h ago
-
----
-
-**[What is your opinion about this?](https://www.reddit.com/r/robotics/comments/1qz8nwz/what_is_your_opinion_about_this/)**
-
-Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.
-
-🔗 [youtube.com](https://www.youtube.com/watch?v=FqfTQFuSalY) • 5h ago
+2h ago
 
 ---
 
@@ -90,7 +90,15 @@ We've been working on a depth completion model called LingBot-Depth (paper: arxi
 
 Just out of curiosity, and because I plan to make my own 4 wheeled rover + LLM/VLA as a personal project, has building a robot as a personal project ever helped when applying for a job/position/interview? Thinking of taking the jump myself, but it is quite costly so wanted to hear your story before I take the dip. thanks all
 
-4h ago
+5h ago
+
+---
+
+**[What is your opinion about this?](https://www.reddit.com/r/robotics/comments/1qz8nwz/what_is_your_opinion_about_this/)**
+
+Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.
+
+🔗 [youtube.com](https://www.youtube.com/watch?v=FqfTQFuSalY) • 6h ago
 
 ---
 
@@ -98,15 +106,7 @@ Just out of curiosity, and because I plan to make my own 4 wheeled rover + LLM/V
 
 I’m a software engineer trying to move into robotics and autonomy. I understand high-level stuff (perception, planning, control) but I’m confused how this looks in real systems and not research slides. For example: what actually runs on the robot vs offboard? how tightly coupled are sensors + control code? is ROS really used in production or mostly research? I’m interested in recon / monitoring robots, just trying to learn from people who’ve done this for real.
 
-5h ago
-
----
-
-**[Printed and assembled the chest](https://www.reddit.com/r/robotics/comments/1qyi5la/printed_and_assembled_the_chest/)**
-
-The chest finally finished printing after 5 days of printing. I assembled it and so far it looks like this, i still have to build the right arm and mount them. I know it may not look that good but it’s my first time doing such a big project and i’m still learning.
-
-1d ago
+6h ago
 
 ---
 
@@ -114,11 +114,11 @@ The chest finally finished printing after 5 days of printing. I assembled it and
 
 ## Google News: "robotics"
 
-**[The Rapid Rise of Humanoid Robots](https://oilprice.com/Energy/Energy-General/The-Rapid-Rise-of-Humanoid-Robots.html)**
+**[Making robots useful and affordable will need better motors](https://www.bbc.com/news/articles/c5y46356zzyo)**
 
-Automakers including Tesla and Hyundai are investing heavily in humanoid robots as a long-term cost-saving strategy, even as questions remain over productivity, technical feasibility, and the risk of widespread job losses.
+Firms are working to make the motors that drive robots more efficient and cheaper.
 
-Crude Oil Prices Today | OilPrice.com • 20h ago
+BBC • 2d ago
 
 ---
 
@@ -127,6 +127,22 @@ Crude Oil Prices Today | OilPrice.com • 20h ago
 Union organizers are growing increasingly worried about a future in which AI-powered robots decimate blue collar labor.
 
 Futurism • 1d ago
+
+---
+
+**[The Rapid Rise of Humanoid Robots](https://oilprice.com/Energy/Energy-General/The-Rapid-Rise-of-Humanoid-Robots.html)**
+
+Automakers including Tesla and Hyundai are investing heavily in humanoid robots as a long-term cost-saving strategy, even as questions remain over productivity, technical feasibility, and the risk of widespread job losses.
+
+Crude Oil Prices Today | OilPrice.com • 21h ago
+
+---
+
+**[Boston Dynamics: building robots to do the jobs humans shouldn’t](https://interestingengineering.com/innovation/boston-dynamics-building-robots-to-do-the-jobs-humans-shouldnt)**
+
+Boston Dynamics’ Aya Durbin explains the engineering challenges behind deploying humanoid robots in messy, real-world settings.
+
+Interesting Engineering • 2d ago
 
 ---
 
@@ -142,7 +158,7 @@ Fortune • 3d ago
 
 Qualcomm (QCOM) CFO and COO Akash Palkhiwala sits down with Market Domination Host Josh Lipton and Yahoo Finance Tech Editor Dan Howley to talk more about the role that the AI chipmaker envisions for itself in the robotics industry Also catch Akash Palkhiwala talk about Qualcomm's outlook on challenges for its handset phone division. To watch more expert insights and analysis on the latest market action, check out more&nbsp;Market Domination.
 
-Yahoo Finance • 23h ago
+Yahoo Finance • 1d ago
 
 ---
 
@@ -160,33 +176,19 @@ ASUS Pressroom • 3d ago
 
 ---
 
-**[Making robots useful and affordable will need better motors](https://www.bbc.com/news/articles/c5y46356zzyo)**
-
-Firms are working to make the motors that drive robots more efficient and cheaper.
-
-BBC • 2d ago
-
----
-
 **[What the SpaceX acquisition of xAI means for industrial robotics](https://www.therobotreport.com/what-the-spacex-acquisition-xai-means-for-industrial-robotics/)**
 
 The consolidation of SpaceX and xAI could lead to more adaptive use of robots, data, and AI in manufacturing, says Flexxbotics' CEO.
 
-The Robot Report • 4h ago
+The Robot Report • 5h ago
 
 ---
 
-**[Why Do We Feel Empathy for Robots?](https://www.bloomberg.com/opinion/articles/2026-02-05/why-do-we-feel-empathy-for-robots)**
+**[Sumter High School AFJROTC Robotics Team makes strong debut at first competition](http://www.theitem.com/stories/sumter-high-school-afjrotc-robotics-team-makes-strong-debut-at-first-competition,439414)**
 
-Bloomberg.com • 2d ago
+SUBMITTED by sumter school district The Sumter High School AFJROTC Robotics Team proudly competed in its first official robotics competition on Jan. 22, marking an exciting milestone for a program more than a year in the making. This event was  &hellip;
 
----
-
-**[This Video of Hilariously Slow Robots Putting Olive Oil in a Bag Is Actually Pretty Impressive](https://gizmodo.com/this-video-of-hilariously-slow-robots-putting-olive-oil-in-a-bag-is-actually-pretty-impressive-2000718202)**
-
-Robots that can actually do things are not slick yet, and it's a relief when robotics companies don't hide from that.
-
-Gizmodo • 3d ago
+The Sumter Item • 1d ago
 
 ---
 
@@ -220,7 +222,7 @@ The Atlas Airborne Robot takes one final research run as Boston Dynamics pushes 
 
 📺 DPCcars
 
-👁️ 19K • 👍 190 • 💬 44 • ⏱️ 2:45 • 23h ago
+👁️ 19K • 👍 190 • 💬 44 • ⏱️ 2:45 • 1d ago
 
 ---
 
@@ -230,7 +232,7 @@ Pan Motor's Wuji Hand packs twenty fully actuated joints into a sub six hundred 
 
 📺 Deepen
 
-👁️ 20K • 👍 371 • 💬 9 • ⏱️ 0:19 • 16h ago
+👁️ 20K • 👍 371 • 💬 9 • ⏱️ 0:19 • 17h ago
 
 ---
 
@@ -268,7 +270,7 @@ shorts.
 
 📺 Fredo on TV
 
-👁️ 158K • 👍 17K • 💬 478 • ⏱️ 0:34 • 22h ago
+👁️ 158K • 👍 17K • 💬 478 • ⏱️ 0:34 • 23h ago
 
 ---
 
@@ -278,7 +280,7 @@ Robots That Move Without a Brain? Sea Star Locomotion Is Changing Robotics Forev
 
 📺 Future Lens Pi
 
-👁️ 5K • 💬 10 • ⏱️ 0:08 • 9h ago
+👁️ 5K • 💬 10 • ⏱️ 0:08 • 10h ago
 
 ---
 
