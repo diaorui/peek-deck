@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-02-08T17:54:44.681749+00:00'
+updated: '2026-02-08T18:38:40.896600+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
 - social
 - repositories
-- videos
 - news
+- videos
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** February 08, 2026 at 17:54 UTC  
+**Last Updated:** February 08, 2026 at 18:38 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -49,7 +49,7 @@ Just wanted to say thanks for the thoughtful discussion and feedback on my previ
 
 EVOLUTION is what has made humanity great so imagine what will happen to our brains and disposition when Ai keeps getting smarter and elons army of robots, as he claims, are more numerous then people. You will not even have to wipe your ass because a robot will do it for you. Because of the nature of it, ai will keep getting more inclusive and invasive and every day there will be more robots. That development will never be static it will always grow and the future of humanity is that our brains will start shrinking since we will not be using it and since people will not have jobs or anything to make them proud of themselves depression and misery will set in. The world is not static and ai and robots will become more and more invasive. So even though ai seems amazing and it is helpful today think about where it is taking us. There is no escape and no other possibility, with time humans will be nothing more then stupid lifeforms dependent on ai and robots for everything from wiping our ass to growing our food to making our entertainment and eventually ai will be so dominant that it will just wipe us out. We know where it starts but nobody knows where it will end. If we follow the science there is no other possibility. We Cannot put a time frame on this but the direction and evolutionary science is very clear that eventually humans will become stupid, unhappy, obsolete life forms. I am not religious but the devil always comes with false promises. Elon saying he wants to go to space to save humanity when in actuality he is robbing us of our future. Imagine a person who says don,t save because in the future you will not need money but fighting to receive a trillion dollar payoff when he is already the richest on the planet. How can anybody believe him? We already know that he is not a nice guy and did not think twice about all the people he hurt with his doge cuts for life saving aid. Then you have Trump who says he is making america great again by favoring the wealthy and russia, having his ice terrorize communities, making all our allies hate us, destroying american democracy and pushing for ai and robots. People please wake up we are the last bastion for humanity and we are being tempted, like the forbidden apple, because today Ai and robots seems so cool.
 
-3m ago
+47m ago
 
 ---
 
@@ -71,7 +71,7 @@ Countries have been building their own “sovereign AI” to reflect their cultu
 
 Every AI API provider gives you a snapshot of current usage. None of them show you trends over time, project when you will hit your limit, or let you compare across providers. I built onWatch to solve this. It runs in the background as a single Go binary, polls your configured providers every 60 seconds, stores everything locally in SQLite, and serves a web dashboard. What it shows you that providers do not: Usage history from 1 hour to 30 days Live countdowns to each quota reset Rate projections so you know if you will run out before the reset All providers side by side in one view Around 28 MB RAM, no dependencies, no telemetry, GPL-3.0. All data stays on your machine. https://onwatch.onllm.dev https://github.com/onllm-dev/onWatch
 
-7h ago
+8h ago
 
 ---
 
@@ -95,7 +95,7 @@ I have been working solo on an AI-based project called Netryx. At a high level, 
 
 Hey fam, Been grinding on BrainAPI, this open-source thing that turns messy event logs into a smart knowledge graph for AI agents and rec systems. Think: feed it user clicks/buys/chats, it builds a precise map with cause-effect attribution (no BS hallucinations), then your AI retrieves fast AF for spot-on suggestions. Right now: Core APIs for saving/processing data -> works for CRM member matches/social networks (one user already using it for automated matches). Fast retrieval But ingestion? Slow as hell (10-30 min on small datasets) cuz of heavy LLM chains for precision. Trade-off for that "holy grail" accuracy, but yeah, it's a pain, optimizing soon. Repo: https://github.com/Lumen-Labs/brainapi2 What's the vibe? Bugs? Missing features? Use cases for ecom or agents? Roast it hard, I'm not fragile. If it slaps, star/fork. Building in public, hit me with thoughts!
 
-21h ago
+22h ago
 
 ---
 
@@ -121,7 +121,7 @@ Goldman Sachs is building AI agents with Anthropic’s Claude to automate trade 
 
 **[Can AI Chatbots Write Emotionally Rich Romance Books?](https://www.nytimes.com/2026/02/08/business/ai-claude-romance-books.html)**
 
-The New York Times • 2h ago
+The New York Times • 3h ago
 
 ---
 
@@ -129,13 +129,13 @@ The New York Times • 2h ago
 
 The hundreds of billions of dollars being spent by tech companies on AI projects are diverting resources from other parts of the economy.
 
-The Washington Post • 23h ago
+The Washington Post • 1d ago
 
 ---
 
 **[A Critical AI Niche Is Dominated by One Little-Known Japanese Company](https://www.wsj.com/tech/a-critical-ai-niche-is-dominated-by-one-little-known-japanese-company-d9101853?gaa_at=eafs&gaa_n=AWEtsqdOHwHIh1Fww_Pcxq0o2hWnfmtrMsU6jVtOFR05duAckESDpoxiCpKr&gaa_ts=6988d147&gaa_sig=F8fJm3AzeqR-Qc7xCrbswIlWQd52QEhbqfqaT9Indfh-Fiyw4SBvnom88-Xb6d_2e_Pi4OaxSQUtcohjutaYGw%3D%3D)**
 
-The Wall Street Journal • 54m ago
+The Wall Street Journal • 1h ago
 
 ---
 
@@ -143,7 +143,7 @@ The Wall Street Journal • 54m ago
 
 AI isn't just hitting software valuations — it's changing how software companies operate.
 
-Axios • 16h ago
+Axios • 17h ago
 
 ---
 
@@ -175,7 +175,7 @@ BBC • 10h ago
 
 A growing collection of pocket-sized gadgets lets you record your meetings and extract value from them. Here are our favorites.
 
-WIRED • 5h ago
+WIRED • 6h ago
 
 ---
 
@@ -189,7 +189,7 @@ Yahoo Finance • 1d ago
 
 **[AI Fear Grips Wall Street as a New Stock Market Reality Sets In](https://www.bloomberg.com/news/articles/2026-02-08/ai-fear-grips-wall-street-as-a-new-stock-market-reality-sets-in)**
 
-Bloomberg.com • 3h ago
+Bloomberg.com • 4h ago
 
 ---
 
@@ -231,7 +231,7 @@ AI is rarely optional anymore, but how can you still be proud of your craft? Dis
 
 You're using AI to be more productive. So why are you more exhausted than ever? The paradox every engineer needs to confront.
 
-⬆️ 319 • 💬 245 • 3h ago • [Siddhant Khare](https://siddhantkhare.com/writing/ai-fatigue-is-real)
+⬆️ 319 • 💬 245 • 4h ago • [Siddhant Khare](https://siddhantkhare.com/writing/ai-fatigue-is-real)
 
 ---
 
@@ -247,7 +247,7 @@ A minimal, secure Python interpreter written in Rust for use by AI - pydantic/mo
 
 Contribute to localgpt-app/localgpt development by creating an account on GitHub.
 
-⬆️ 291 • 💬 140 • 16h ago • [GitHub](https://github.com/localgpt-app/localgpt)
+⬆️ 291 • 💬 140 • 17h ago • [GitHub](https://github.com/localgpt-app/localgpt)
 
 ---
 
@@ -263,7 +263,7 @@ Women in rural communities describe trauma of moderating violent and pornographi
 
 Matchlock secures AI agent workloads with a Linux-based sandbox. - jingkaihe/matchlock
 
-⬆️ 110 • 💬 43 • 9h ago • [GitHub](https://github.com/jingkaihe/matchlock)
+⬆️ 110 • 💬 43 • 10h ago • [GitHub](https://github.com/jingkaihe/matchlock)
 
 ---
 
@@ -285,7 +285,7 @@ Become a member! ✓ https://www.youtube.com/channel/UCahJ9IsvXnaQiuNyWQSkrkw/jo
 
 📺 Chris Norlund
 
-👁️ 112K • 👍 7K • 💬 1K • ⏱️ 17:42 • 19h ago
+👁️ 112K • 👍 7K • 💬 1K • ⏱️ 17:42 • 20h ago
 
 ---
 
@@ -295,7 +295,7 @@ Can you spot AI videos easily? #tech #ai #surfshark.
 
 📺 Surfshark Academy
 
-👁️ 5K • 👍 1K • 💬 39 • ⏱️ 1:17 • 2h ago
+👁️ 5K • 👍 1K • 💬 39 • ⏱️ 1:17 • 3h ago
 
 ---
 
@@ -325,7 +325,7 @@ Try Falcon HR1 -7b AI Model: https://chat.falconllm.tii.ae/ Technical blog: http
 
 📺 iDeviceHelp
 
-👁️ 2K • 👍 86 • 💬 6 • ⏱️ 3:26 • 4h ago
+👁️ 2K • 👍 86 • 💬 6 • ⏱️ 3:26 • 5h ago
 
 ---
 
@@ -335,7 +335,7 @@ Follow me here: Instagram ▻ https://www.instagram.com/sambucha X ▻ https://w
 
 📺 Sambucha
 
-👁️ 320K • 👍 25K • 💬 771 • ⏱️ 0:54 • 21h ago
+👁️ 320K • 👍 25K • 💬 771 • ⏱️ 0:54 • 22h ago
 
 ---
 
@@ -345,7 +345,7 @@ India's IT sector just got hit with its biggest shock in 4 months. The Nifty IT 
 
 📺 Mark Savant
 
-👁️ 19K • 👍 553 • 💬 266 • ⏱️ 18:25 • 20h ago
+👁️ 19K • 👍 553 • 💬 266 • ⏱️ 18:25 • 21h ago
 
 ---
 
@@ -355,7 +355,7 @@ Roblox released new AI updates and may have used AI to remake classic faces soon
 
 📺 greenlegocats123
 
-👁️ 37K • 👍 2K • 💬 524 • ⏱️ 9:03 • 8h ago
+👁️ 37K • 👍 2K • 💬 524 • ⏱️ 9:03 • 9h ago
 
 ---
 
@@ -663,7 +663,7 @@ LLM驱动的 A/H/美股智能分析器，多数据源行情 + 实时新闻 + Gem
 
 `Python` `agent` `ai` `aigc` `gemini` `llm`
 
-⭐ 9.9k • 🔱 10.4k • 7h ago
+⭐ 9.9k • 🔱 10.4k • 8h ago
 
 ---
 
@@ -673,7 +673,7 @@ The Ultimate Collection of 700+ Agentic Skills for Claude Code/Antigravity/Curso
 
 `Python` `agentic-skills` `ai-agents` `antigravity` `autonomous-coding` `claude-code`
 
-⭐ 7.9k • 🔱 1.6k • 7h ago
+⭐ 7.9k • 🔱 1.6k • 8h ago
 
 ---
 
@@ -709,7 +709,7 @@ OpenSource Claude Cowork. A desktop AI assistant that helps you with programming
 
 `TypeScript`
 
-⭐ 2.8k • 🔱 378 • 14h ago
+⭐ 2.8k • 🔱 378 • 15h ago
 
 ---
 

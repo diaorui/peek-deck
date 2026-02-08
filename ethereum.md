@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-02-08T17:54:44.695948+00:00'
+updated: '2026-02-08T18:38:40.910826+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
 - social
-- videos
-- news
 - cryptocurrency
+- news
+- videos
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** February 08, 2026 at 17:54 UTC  
+**Last Updated:** February 08, 2026 at 18:38 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -72,7 +72,7 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-11h ago
+12h ago
 
 ---
 
@@ -80,7 +80,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 So I have some eth staked on coinbase but wondering how risky it is.. should I be looking somewhere else or is coinbase a good call? I don't answer private messages thanks
 
-13m ago
+57m ago
 
 ---
 
@@ -88,7 +88,7 @@ So I have some eth staked on coinbase but wondering how risky it is.. should I b
 
 Non-custodial privacy protocol for anonymous ETH transactions. Break the on-chain link using zero-knowledge proofs. Live on Ethereum mainnet.
 
-🔗 [Laundry Cash](https://ethlaundry.xyz) • 41m ago
+🔗 [Laundry Cash](https://ethlaundry.xyz) • 1h ago
 
 ---
 
@@ -108,7 +108,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 **[We're building an open-source archive of the earliest Ethereum smart contracts (2015-2017) — looking for contributors](https://www.reddit.com/r/ethereum/comments/1qymum3/were_building_an_opensource_archive_of_the/)**
 
-22h ago
+23h ago
 
 ---
 
@@ -208,7 +208,7 @@ Yahoo Finance • 2d ago
 
 Ethereum’s recent sell-off has weighed heavily on sentiment after the price fell below the $2,000 level and pulled much of the altcoin market lower alongside it. The move has caused sweeping fear and caution among Ethereum traders. However, some analysts are of the notion that a bullish upside will…
 
-TradingView • 14h ago
+TradingView • 15h ago
 
 ---
 
@@ -224,7 +224,7 @@ FXStreet • 1d ago
 
 Solana may be outperforming Ethereum across key metrics right now.
 
-AMBCrypto • 12h ago
+AMBCrypto • 13h ago
 
 ---
 
@@ -238,7 +238,7 @@ ETHEREUM ETH PRICE PREDICTION 2026 Join the Premium Signal Group for trade setup
 
 📺 Cilinix Crypto
 
-👁️ 584 • 👍 19 • 💬 12 • ⏱️ 4:21 • 7h ago
+👁️ 584 • 👍 19 • 💬 12 • ⏱️ 4:21 • 8h ago
 
 ---
 
@@ -258,7 +258,7 @@ This video provides a professional Elliott Wave and technical analysis of Ethere
 
 📺 More Crypto Online
 
-👁️ 3K • 👍 208 • 💬 12 • ⏱️ 5:21 • 11h ago
+👁️ 3K • 👍 208 • 💬 12 • ⏱️ 5:21 • 12h ago
 
 ---
 
@@ -288,7 +288,7 @@ One of the biggest crypto crashes in history! Here is what happened, why and my 
 
 📺 Journal du Coin
 
-👁️ 396 • 👍 73 • ⏱️ 10:35 • 1h ago
+👁️ 396 • 👍 73 • ⏱️ 10:35 • 2h ago
 
 ---
 
@@ -308,7 +308,7 @@ This video provides a professional Elliott Wave and technical analysis of Ethere
 
 📺 More Crypto Online
 
-👁️ 4K • 👍 205 • 💬 11 • ⏱️ 4:56 • 21h ago
+👁️ 4K • 👍 205 • 💬 11 • ⏱️ 4:56 • 22h ago
 
 ---
 
@@ -318,7 +318,7 @@ L'exchange crypto le plus sérieux du marché, c'est lui. Régulé US & Europe, 
 
 📺 Crypto Mindset Podcast 
 
-👁️ 2K • 👍 164 • 💬 59 • ⏱️ 10:19 • 5h ago
+👁️ 2K • 👍 164 • 💬 59 • ⏱️ 10:19 • 6h ago
 
 ---
 

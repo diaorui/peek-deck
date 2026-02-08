@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-02-08T17:54:44.690023+00:00'
+updated: '2026-02-08T18:38:40.904941+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
 - social
-- videos
-- news
 - cryptocurrency
+- news
+- videos
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** February 08, 2026 at 17:54 UTC  
+**Last Updated:** February 08, 2026 at 18:38 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -79,7 +79,7 @@ Rank #1
 
 **[Comforting my friend who bought BTC @ 120k](https://www.reddit.com/r/Bitcoin/comments/1qyt31t/comforting_my_friend_who_bought_btc_120k/)**
 
-18h ago
+19h ago
 
 ---
 
@@ -87,7 +87,7 @@ Rank #1
 
 The Fed's money printer never stops. Balance sheet still bloated at ~$6.5T, quietly debasing your dollars while inflation eats savings. Bitcoin: fixed 21 million cap. No printing, no dilution, no central control. In a world of infinite fiat, Bitcoin is scarce, hard money - and the ultimate opt-out. Stack sats. The longer they print, the stronger the case for Bitcoin.
 
-6h ago
+7h ago
 
 ---
 
@@ -95,7 +95,7 @@ The Fed's money printer never stops. Balance sheet still bloated at ~$6.5T, quie
 
 Guys, if you've been in this for 7-10 years, you see the same nonsense being spouted every single damn crash. BUY AND HODLATE.
 
-3h ago
+4h ago
 
 ---
 
@@ -119,7 +119,7 @@ HODL strong through the storms; the future rewards the patient. 🚀 🙌
 
 Over the past year I have received 4 unknown deposits into my Trezor hardware wallet. Each deposit was in the amount of .0000033 bitcoin. Three were in January 2025 and one so far today. Any ideas what these are and should I be worried about my Trezor. It is a Trezor safe 3. Thanks for any help.
 
-11h ago
+12h ago
 
 ---
 
@@ -127,7 +127,7 @@ Over the past year I have received 4 unknown deposits into my Trezor hardware wa
 
 Guys, do you realize how much you regret not buying about ten years ago? Today, the price of BTC has been cut in half, and you’re hesitating between “the market is collapsing” or “the market will bounce back.” Buy either way—personally, that’s what I’m doing. I’m not saying the price will go back up. Of course I hope it will, but I honestly have no idea, and absolutely no one can know. I’d rather tell myself that I bought for nothing and lost some money than tell myself that I missed this opportunity a second time—especially when this time, I’m aware it might actually be one. (traduced from french by chatgpt)
 
-18h ago
+19h ago
 
 ---
 
@@ -135,13 +135,13 @@ Guys, do you realize how much you regret not buying about ten years ago? Today, 
 
 'Bitcoin Is Dead' is the best database of notable Bitcoin obituaries and skeptics on the Internet. View names, quotes, publications, source links, and more!
 
-🔗 [bitbo.io](https://bitbo.io/dead/) • 1h ago
+🔗 [bitbo.io](https://bitbo.io/dead/) • 2h ago
 
 ---
 
 **[The uncomfortable truth about following crypto experts](https://www.reddit.com/r/Bitcoin/comments/1qzb0ml/the_uncomfortable_truth_about_following_crypto/)**
 
-🔗 [X (formerly Twitter)](https://x.com/rustyshrink/status/2020307703353012477?s%3D12) • 2h ago
+🔗 [X (formerly Twitter)](https://x.com/rustyshrink/status/2020307703353012477?s%3D12) • 3h ago
 
 ---
 
@@ -161,7 +161,7 @@ Not financial advice weekly RSI below 30 and clear support approaching around th
 
 The “Bitcoin to $0” narrative is surging again. Market sentiment has flipped decisively bearish. Bullish credibility is weakening. “Every time I ask a Bitcoin true ...
 
-Yahoo Finance • 7h ago
+Yahoo Finance • 8h ago
 
 ---
 
@@ -208,7 +208,7 @@ Yahoo Finance • 1d ago
 
 BlackRock's Bitcoin fund hit record volumes on Thursday. Outflows from US crypto funds topped $434 million. Reasons for the crash are myriad.
 
-Yahoo Finance • 1d ago
+Yahoo Finance • 2d ago
 
 ---
 
@@ -268,7 +268,7 @@ Bitcoin outlook turns bearish as Pivotus’ Richard Farr targets BTC at $0 and M
 
 **[South Korean crypto firm accidentally sends $44B in bitcoins to users](https://news.ycombinator.com/item?id=46926461)**
 
-⬆️ 6 • 💬 0 • 22h ago • [reuters.com](https://www.reuters.com/world/asia-pacific/crypto-firm-accidentally-sends-44-billion-bitcoins-users-2026-02-07/)
+⬆️ 6 • 💬 0 • 23h ago • [reuters.com](https://www.reuters.com/world/asia-pacific/crypto-firm-accidentally-sends-44-billion-bitcoins-users-2026-02-07/)
 
 ---
 
@@ -276,7 +276,7 @@ Bitcoin outlook turns bearish as Pivotus’ Richard Farr targets BTC at $0 and M
 
 The crypto crash is coming — and the landing won’t be pretty
 
-⬆️ 5 • 💬 1 • 1h ago • [ft.com](https://www.ft.com/content/2b030926-2012-4446-b22d-e549e10e7086)
+⬆️ 5 • 💬 1 • 2h ago • [ft.com](https://www.ft.com/content/2b030926-2012-4446-b22d-e549e10e7086)
 
 ---
 
@@ -332,7 +332,7 @@ My Free Trading Course https://www.rt1m.com/free My Discord Server (FREE) https:
 
 📺 Road To $1 Million USD
 
-👁️ 8K • 👍 285 • 💬 87 • ⏱️ 8:29 • 18h ago
+👁️ 8K • 👍 285 • 💬 87 • ⏱️ 8:29 • 19h ago
 
 ---
 
@@ -372,7 +372,7 @@ IT'S RIGGED! What Happens Now? ✓ Bitunix (no kyc, $10000 bonus): https://www.b
 
 📺 Altcoin Daily
 
-👁️ 47K • 👍 2K • 💬 744 • ⏱️ 9:28 • 19h ago
+👁️ 47K • 👍 2K • 💬 744 • ⏱️ 9:28 • 20h ago
 
 ---
 
