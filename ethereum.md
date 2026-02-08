@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-02-08T09:31:46.817102+00:00'
+updated: '2026-02-08T10:29:01.904631+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
 - videos
-- social
 - news
 - cryptocurrency
+- social
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** February 08, 2026 at 09:31 UTC  
+**Last Updated:** February 08, 2026 at 10:29 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -36,17 +36,17 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Price
 
-### $2,100.34
+### $2,102.66
 
 ---
 
 ## Ethereum Chart
 
-**24h:** +5.5%  
-**7d:** -9.7%  
-**30d:** -31.4%  
-**90d:** -37.9%  
-**1y:** -19.5%  
+**24h:** +3.5%  
+**7d:** -10.8%  
+**30d:** -32.3%  
+**90d:** -38.7%  
+**1y:** -20.5%  
 
 ---
 
@@ -72,6 +72,12 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
+4h ago
+
+---
+
+**[I built the first fully on-chain, 100% decentralized, ETH-in ETH-out (no new token), skill based competitive gaming platform](https://www.reddit.com/r/ethereum/comments/1qz1wbo/i_built_the_first_fully_onchain_100_decentralized/)**
+
 3h ago
 
 ---
@@ -84,15 +90,9 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 ---
 
-**[I built the first fully on-chain, 100% decentralized, ETH-in ETH-out (no new token), skill based competitive gaming platform](https://www.reddit.com/r/ethereum/comments/1qz1wbo/i_built_the_first_fully_onchain_100_decentralized/)**
-
-2h ago
-
----
-
 **[We're building an open-source archive of the earliest Ethereum smart contracts (2015-2017) — looking for contributors](https://www.reddit.com/r/ethereum/comments/1qymum3/were_building_an_opensource_archive_of_the/)**
 
-14h ago
+15h ago
 
 ---
 
@@ -148,19 +148,35 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 ## Google News: "ethereum"
 
-**[ENS Labs scraps Namechain L2, shifts ENSv2 fully to Ethereum mainnet](https://www.theblock.co/post/388932/ens-labs-scraps-namechain-l2-shifts-ensv2-fully-ethereum-mainnet)**
-
-ENS Labs is canceling the launch of the Namechain Layer 2, which began development in 2024 to support the forthcoming ENSv2 update.
-
-The Block • 1d ago
-
----
-
 **[Ethereum makes game-changing decision that could change future of cryptocurrency: 'Poised to lead the way'](https://www.thecooldown.com/green-business/ethereum-cryptocurrency-sustainable-proof-of-stake/)**
 
 Ethereum's shift to a new cryptocurrency mining mechanism has demonstrated how the industry is changing its ways.
 
 The Cool Down • 18h ago
+
+---
+
+**[Coinbase's Crypto-Backed Loans Notch Record Liquidations Amid Bitcoin, Ethereum Plunge](https://decrypt.co/357265/coinbases-loans-record-liquidations-bitcoin-ethereum-plunge)**
+
+Coinbase customers faced losses in fresh ways through the exchange’s crypto-backed lending product as Bitcoin and Ethereum tumbled this week.
+
+Decrypt • 1d ago
+
+---
+
+**[Is This 1 Massively Undervalued Cryptocurrency a Screaming Buy for Investors With $5,000?](https://www.fool.com/investing/2026/02/08/is-this-1-massively-undervalued-cryptocurrency-a-s/)**
+
+Ethereum isn't being recognized for the improvements it's making.
+
+The Motley Fool • 1h ago
+
+---
+
+**[ENS Labs scraps Namechain L2, shifts ENSv2 fully to Ethereum mainnet](https://www.theblock.co/post/388932/ens-labs-scraps-namechain-l2-shifts-ensv2-fully-ethereum-mainnet)**
+
+ENS Labs is canceling the launch of the Namechain Layer 2, which began development in 2024 to support the forthcoming ENSv2 update.
+
+The Block • 1d ago
 
 ---
 
@@ -188,41 +204,27 @@ Nasdaq • 2d ago
 
 ---
 
-**[Ethereum (ETH) news: BitMine (BMNR) faces $8 billion paper loss on ether holdings](https://www.coindesk.com/business/2026/02/05/tom-lee-s-bitmine-now-usd8-billion-underwater-as-ether-tumbles-below-usd2-000)**
-
-Despite the mounting loss, the Ethereum treasury firm says it's under no pressure to sell as ETH price crashes and its stock tumbles.
-
-CoinDesk • 2d ago
-
----
-
-**[BitMine Ethereum Treasury Losses And Leadership Changes Put BMNR Under Scrutiny](https://finance.yahoo.com/news/bitmine-ethereum-treasury-losses-leadership-170707091.html)**
-
-BitMine Immersion Technologies, ticker NYSEAM:BMNR, is reporting nearly $8b in unrealized losses tied to its Ethereum holdings after a sharp pullback in ETH prices. The company continues to frame its large Ethereum position and staking operations as part of a long term treasury approach, while continuing to accumulate ETH. Recent executive turnover, including the amicable separation of President Erik Nelson, is adding another layer of uncertainty for shareholders during heightened crypto...
-
-Yahoo Finance • 16h ago
-
----
-
-**[Tom Lee's BitMine Now $8 Billion Underwater as Ether Crashes Below $2,000](https://www.binance.com/en/square/post/36058998937305)**
-
-Binance • 2d ago
-
----
-
 **[Ethereum Price Is Not Going To Keep Falling Forever, Analyst Says](https://www.tradingview.com/news/newsbtc:6ebc821a3094b:0-ethereum-price-is-not-going-to-keep-falling-forever-analyst-says/)**
 
 Ethereum’s recent sell-off has weighed heavily on sentiment after the price fell below the $2,000 level and pulled much of the altcoin market lower alongside it. The move has caused sweeping fear and caution among Ethereum traders. However, some analysts are of the notion that a bullish upside will…
 
-TradingView • 6h ago
+TradingView • 7h ago
 
 ---
 
-**[Bitcoin, Ethereum Liquidations Hit $704M In 24 Hours—And $70,000 Could Break, Polymarket Predicts](https://finance.yahoo.com/news/bitcoin-ethereum-liquidations-hit-704m-120113179.html)**
+**[Ethereum Weekly Price Forecast: Trend Research capitulates, BitMine's Thomas Lee sees a V-shaped recovery](https://www.fxstreet.com/cryptocurrencies/news/ethereum-weekly-price-forecast-trend-research-capitulates-bitmines-thomas-lee-sees-a-v-shaped-recovery-202602071422)**
 
-Bitcoin (CRYPTO: BTC) traders are bracing for more pain after liquidations reached $704 million in a single 24-hour period. The sharp sell-off has crypto investors turning to prediction markets for clues on where the bottom might be. What Polymarket Traders Are Predicting Polymarket is currently flashing warning signs for the immediate future. The “What price will Bitcoin hit in February?” market, which has already cleared $14 million in volume, now places a 56% probability on Bitcoin sliding to
+Ethereum (ETH) had one of its sharpest historic declines over the past 10 days, shedding 40% of its value and briefly sliding below $2,000.
 
-Yahoo Finance • 2d ago
+FXStreet • 20h ago
+
+---
+
+**[Solana’s quiet takeover – Can SOL profit from the FUD around Ethereum?](https://ambcrypto.com/solanas-quiet-takeover-can-sol-profit-from-the-fud-around-ethereum/)**
+
+Solana may be outperforming Ethereum across key metrics right now.
+
+AMBCrypto • 5h ago
 
 ---
 
@@ -236,7 +238,7 @@ This video provides a professional Elliott Wave and technical analysis of Ethere
 
 📺 More Crypto Online
 
-👁️ 954 • 👍 123 • 💬 15 • ⏱️ 5:21 • 3h ago
+👁️ 954 • 👍 123 • 💬 15 • ⏱️ 5:21 • 4h ago
 
 ---
 
@@ -246,7 +248,7 @@ This video provides a professional Elliott Wave and technical analysis of Ethere
 
 📺 More Crypto Online
 
-👁️ 3K • 👍 201 • 💬 10 • ⏱️ 4:56 • 13h ago
+👁️ 3K • 👍 201 • 💬 10 • ⏱️ 4:56 • 14h ago
 
 ---
 
@@ -256,7 +258,7 @@ BITCOIN & ALTCOINS: New Targets Confirmed (Prepare Now)!!! - Bitcoin News Today,
 
 📺 Crypto World
 
-👁️ 10K • 👍 367 • 💬 205 • ⏱️ 17:07 • 11h ago
+👁️ 10K • 👍 367 • 💬 205 • ⏱️ 17:07 • 12h ago
 
 ---
 
@@ -296,7 +298,7 @@ ETHEREUM ETH PRICE PREDICTION 2026 Join the Premium Signal Group for trade setup
 
 📺 Cilinix Crypto
 
-👁️ 851 • 👍 28 • 💬 8 • ⏱️ 5:23 • 23h ago
+👁️ 851 • 👍 28 • 💬 8 • ⏱️ 5:23 • 1d ago
 
 ---
 

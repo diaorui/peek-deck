@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-02-08T09:31:46.811187+00:00'
+updated: '2026-02-08T10:29:01.898736+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
 - videos
-- social
 - news
 - cryptocurrency
+- social
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** February 08, 2026 at 09:31 UTC  
+**Last Updated:** February 08, 2026 at 10:29 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -44,11 +44,11 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Chart
 
-**24h:** +3.6%  
-**7d:** -10.4%  
-**30d:** -21.9%  
-**90d:** -31.6%  
-**1y:** -26.8%  
+**24h:** +3.0%  
+**7d:** -11.1%  
+**30d:** -22.6%  
+**90d:** -32.1%  
+**1y:** -27.4%  
 
 ---
 
@@ -79,15 +79,7 @@ Rank #1
 
 **[Comforting my friend who bought BTC @ 120k](https://www.reddit.com/r/Bitcoin/comments/1qyt31t/comforting_my_friend_who_bought_btc_120k/)**
 
-9h ago
-
----
-
-**[HODLing BTC](https://www.reddit.com/r/Bitcoin/comments/1qyk286/hodling_btc/)**
-
-HODL strong through the storms; the future rewards the patient. 🚀 🙌
-
-15h ago
+10h ago
 
 ---
 
@@ -95,13 +87,29 @@ HODL strong through the storms; the future rewards the patient. 🚀 🙌
 
 Guys, do you realize how much you regret not buying about ten years ago? Today, the price of BTC has been cut in half, and you’re hesitating between “the market is collapsing” or “the market will bounce back.” Buy either way—personally, that’s what I’m doing. I’m not saying the price will go back up. Of course I hope it will, but I honestly have no idea, and absolutely no one can know. I’d rather tell myself that I bought for nothing and lost some money than tell myself that I missed this opportunity a second time—especially when this time, I’m aware it might actually be one. (traduced from french by chatgpt)
 
-10h ago
+11h ago
+
+---
+
+**[HODLing BTC](https://www.reddit.com/r/Bitcoin/comments/1qyk286/hodling_btc/)**
+
+HODL strong through the storms; the future rewards the patient. 🚀 🙌
+
+16h ago
 
 ---
 
 **[anyone else just kinda... numb to the dips at this point?](https://www.reddit.com/r/Bitcoin/comments/1qz1y2w/anyone_else_just_kinda_numb_to_the_dips_at_this/)**
 
 honestly, after holding since 2021, these dips barely even register anymore. i'm not even checking the charts as often as i used to. is that just me getting old and boring, or are other long-term holders feeling the same?
+
+3h ago
+
+---
+
+**[Bitcoin whales and ETFs are bailing out of the market; UBS warns: ‘Crypto is not an asset’ | Fortune](https://www.reddit.com/r/Bitcoin/comments/1qz3lld/bitcoin_whales_and_etfs_are_bailing_out_of_the/)**
+
+https://share.google/IVm4XmWSJ13M1cDwX
 
 2h ago
 
@@ -111,7 +119,15 @@ honestly, after holding since 2021, these dips barely even register anymore. i'm
 
 Not financial advice weekly RSIs below 30 and clear support approaching around the $50,000 level. I am borrowing against my 401(k) for the next 52 weeks to allow some capital upfront to take advantage of these prices. 6.75% interest paid back into my 401k after the 52 weeks which is a win-win for me. See you in five years.
 
-8h ago
+9h ago
+
+---
+
+**[Unknown deposits to Tezor hardware wallet](https://www.reddit.com/r/Bitcoin/comments/1qz0zty/unknown_deposits_to_tezor_hardware_wallet/)**
+
+Over the past year I have received 4 unknown deposits into my Trezor hardware wallet. Each deposit was in the amount of .0000033 bitcoin. Three were in January 2025 and one so far today. Any ideas what these are and should I be worried about my Trezor. It is a Trezor safe 3. Thanks for any help.
+
+4h ago
 
 ---
 
@@ -119,13 +135,13 @@ Not financial advice weekly RSIs below 30 and clear support approaching around t
 
 If you see blockchain activity whales are clearly accumulating taking BTC outside exchanges. It seems this is contrarian to people saying that BTC will bottom around 45k-55k. I believe (and hope) that bottom is in and the liquidation of this week has been a great opportunity to accumulate, decrease btc availability on exchanges and bring price to 100k +
 
-20h ago
+21h ago
 
 ---
 
 **[Buy The dip](https://www.reddit.com/r/Bitcoin/comments/1qygmls/buy_the_dip/)**
 
-18h ago
+19h ago
 
 ---
 
@@ -135,29 +151,15 @@ If you see blockchain activity whales are clearly accumulating taking BTC outsid
 
 ---
 
-**[My mom wants to buy Bitcoin after listening to me… and now I’m scared](https://www.reddit.com/r/Bitcoin/comments/1qyiloo/my_mom_wants_to_buy_bitcoin_after_listening_to_me/)**
-
-My mother barely uses Facebook and has zero interest in technology or finance. Yet here we are: she asked me to help her buy Bitcoin. Over the past months, I’ve talked a lot about Bitcoin at home — why I believe in it, my long-term goals, scarcity, adoption, etc. I guess at some point it clicked for her. The problem is… now I’m scared. Even though I truly believe in Bitcoin’s future, I’m afraid of a few things: What if things don’t go as expected? What if she doesn’t live long enough to really see the benefits of this investment? What if she can’t mentally handle the volatility and panic during big drawdowns? This feels very different from investing my own money. If Bitcoin drops 50%, I can handle it. If her money drops 50%, that’s a different emotional weight. I don’t want to be irresponsible or turn into “that guy” who convinced a family member to invest and then regrets it forever. So I’m asking those of you who’ve been here longer or have more life experience: What would you do in my position?
-
-16h ago
-
----
-
-**[Every few years the same sentiment](https://www.reddit.com/r/Bitcoin/comments/1qyrpap/every_few_years_the_same_sentiment/)**
-
-Just wanted to share my few as an observer. Have been observing bitcoin for many years. And after every price crash, there are the same questions: Is this the end of bitcoin? Was it all just a bubble? And after bitcoin regenerates, people regret not buying some. I find it amusing. I myself bought bitcoin this time, because I want to be a part of the party. Disclaimer: no financial advise from me 😄
-
-10h ago
-
----
-
 ---
 
 ## Google News: "bitcoin"
 
-**[Bitcoin loses Trump-era gains as crypto market volatility signals uncertainty](https://www.reuters.com/business/bitcoin-loses-trump-era-gains-crypto-market-volatility-signals-uncertainty-2026-02-07/)**
+**[Trump promised a crypto revolution. So why is bitcoin crashing?](https://www.npr.org/2026/02/07/nx-s1-5704279/trump-crypto-bitcoin-winter)**
 
-Reuters • 22h ago
+Trump got elected promising to usher in a crypto revolution. More than a year later, bitcoin's price has come tumbling down. What happened?
+
+NPR • 1d ago
 
 ---
 
@@ -166,7 +168,7 @@ users](https://www.cnbc.com/2026/02/07/south-korean-crypto-firm-accidentally-sen
 
 The move triggered a sharp selloff on the Bithumb exchange. The company apologized for the mistake.
 
-CNBC • 23h ago
+CNBC • 1d ago
 
 ---
 
@@ -174,7 +176,7 @@ CNBC • 23h ago
 
 The company quickly realised its mistake and managed to recover virtually all the missing tokens from customers.
 
-BBC • 19h ago
+BBC • 20h ago
 
 ---
 
@@ -186,19 +188,11 @@ Yahoo Finance • 1d ago
 
 ---
 
-**[3 Reasons Investors Need to Invest in Bitcoin](https://finance.yahoo.com/news/3-reasons-investors-invest-bitcoin-055000753.html)**
-
-There are quite a few reasons this asset is worth owning.
-
-Yahoo Finance • 3h ago
-
----
-
 **[El Salvador’s Bukele Approval Hits Record 91.9% Despite Tepid Bitcoin Adoption](https://www.yahoo.com/news/articles/el-salvador-bukele-approval-hits-073654194.html)**
 
 El Salvador President Nayib Bukele continues to command overwhelming public support, even as the country’s landmark Bitcoin policy shows limited traction among citizens. Key Takeaways: Bukele holds a ...
 
-Yahoo • 1h ago
+Yahoo • 2h ago
 
 ---
 
@@ -224,9 +218,17 @@ cnn.com • 2d ago
 
 ---
 
-**[Bitcoin Booster’s $12 Billion Loss Headlines Crypto’s Worst Day Since 2022 Crash](https://www.wsj.com/finance/currencies/strategy-earnings-fourth-2025-33688dab?gaa_at=eafs&gaa_n=AWEtsqf-FjiWsjbIuyE2IjH2zoMLgJxoJ7Roo8TOXZP6L_e2yl9ept932FWv&gaa_ts=69884eb8&gaa_sig=4Go_8RYKsG6CJeDJf9MQDsswoLSGQbHcSSWoB8qROH7YDDM60t7GOk2jrEhEPgMFL7V-fHFaXaLFlYJpOHonoA%3D%3D)**
+**[Bitcoin Booster’s $12 Billion Loss Headlines Crypto’s Worst Day Since 2022 Crash](https://www.wsj.com/finance/currencies/strategy-earnings-fourth-2025-33688dab?gaa_at=eafs&gaa_n=AWEtsqezdO5DZTwNNTqyZJjhl-eYDrH3IJH1BA9ZTMeJO1r1ufmSw3wKKug7&gaa_ts=698868d9&gaa_sig=NAY68L1v5c8oEvEk5UTdNU1NcjGXlXDIlqHqiWQDqgX1EY8vty3QKk6y5ZYCZNE8A4VBHWMpt7KdD7CrEbO0Hg%3D%3D)**
 
 The Wall Street Journal • 2d ago
+
+---
+
+**[Strategy CEO: Bitcoin would need to plunge to $8,000 before balance sheet issues](https://www.theblock.co/post/388774/strategy-ceo-bitcoin-q4-earnings-call)**
+
+Executive Chairman Michael Saylor also addressed quantum computing concerns in bitcoin, framing them as 'horrible FUD.'
+
+The Block • 2d ago
 
 ---
 
@@ -258,7 +260,7 @@ Bitcoin outlook turns bearish as Pivotus’ Richard Farr targets BTC at $0 and M
 
 **[South Korean crypto firm accidentally sends $44B in bitcoins to users](https://news.ycombinator.com/item?id=46926461)**
 
-⬆️ 5 • 💬 0 • 14h ago • [reuters.com](https://www.reuters.com/world/asia-pacific/crypto-firm-accidentally-sends-44-billion-bitcoins-users-2026-02-07/)
+⬆️ 5 • 💬 0 • 15h ago • [reuters.com](https://www.reuters.com/world/asia-pacific/crypto-firm-accidentally-sends-44-billion-bitcoins-users-2026-02-07/)
 
 ---
 
@@ -328,7 +330,7 @@ Why did the world's largest asset class lose nearly $2 trillion in value so quic
 
 📺 Discover Crypto
 
-👁️ 4K • 👍 158 • 💬 114 • ⏱️ 7:32 • 11h ago
+👁️ 4K • 👍 158 • 💬 114 • ⏱️ 7:32 • 12h ago
 
 ---
 
@@ -338,7 +340,7 @@ Bitcoin just posted its first ever $10000 daily drop, wiped out billions in liqu
 
 📺 Simply Bitcoin
 
-👁️ 19K • 👍 1K • 💬 217 • ⏱️ 16:01 • 9h ago
+👁️ 19K • 👍 1K • 💬 217 • ⏱️ 16:01 • 10h ago
 
 ---
 
@@ -348,7 +350,7 @@ My Free Trading Course https://www.rt1m.com/free My Discord Server (FREE) https:
 
 📺 Road To $1 Million USD
 
-👁️ 6K • 👍 244 • 💬 107 • ⏱️ 8:29 • 10h ago
+👁️ 6K • 👍 244 • 💬 107 • ⏱️ 8:29 • 11h ago
 
 ---
 
