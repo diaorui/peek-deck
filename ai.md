@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-02-08T10:29:01.890548+00:00'
+updated: '2026-02-08T10:56:27.303108+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
 - videos
 - news
-- repositories
 - social
+- repositories
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** February 08, 2026 at 10:29 UTC  
+**Last Updated:** February 08, 2026 at 10:56 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -47,7 +47,7 @@ Countries have been building their own “sovereign AI” to reflect their cultu
 
 **[Nvidia CEO Says AI Capital Spending Is Appropriate, Sustainable](https://www.reddit.com/r/artificial/comments/1qyx57y/nvidia_ceo_says_ai_capital_spending_is/)**
 
-🔗 [bloomberg.com](https://www.bloomberg.com/news/articles/2026-02-06/nvidia-ceo-says-ai-capital-spending-is-appropriate-sustainable?srnd=phx-technology&leadSource=reddit_wall) • 7h ago
+🔗 [bloomberg.com](https://www.bloomberg.com/news/articles/2026-02-06/nvidia-ceo-says-ai-capital-spending-is-appropriate-sustainable?srnd=phx-technology&leadSource=reddit_wall) • 8h ago
 
 ---
 
@@ -55,7 +55,7 @@ Countries have been building their own “sovereign AI” to reflect their cultu
 
 Every AI API provider gives you a snapshot of current usage. None of them show you trends over time, project when you will hit your limit, or let you compare across providers. I built onWatch to solve this. It runs in the background as a single Go binary, polls your configured providers every 60 seconds, stores everything locally in SQLite, and serves a web dashboard. What it shows you that providers do not: Usage history from 1 hour to 30 days Live countdowns to each quota reset Rate projections so you know if you will run out before the reset All providers side by side in one view Around 28 MB RAM, no dependencies, no telemetry, GPL-3.0. All data stays on your machine. https://onwatch.onllm.dev https://github.com/onllm-dev/onWatch
 
-19m ago
+46m ago
 
 ---
 
@@ -153,7 +153,7 @@ Fortune • 17h ago
 
 **[These A.I. Dreamers Don’t Fit the Stereotype](https://www.nytimes.com/2026/02/08/style/these-ai-dreamers-dont-fit-the-stereotype.html)**
 
-The New York Times • 28m ago
+The New York Times • 55m ago
 
 ---
 
@@ -161,7 +161,7 @@ The New York Times • 28m ago
 
 A Cardiff University researcher recreated her own voice using a deathbot - but found it strange.
 
-BBC • 2h ago
+BBC • 3h ago
 
 ---
 
@@ -289,7 +289,7 @@ Become a member! ✓ https://www.youtube.com/channel/UCahJ9IsvXnaQiuNyWQSkrkw/jo
 
 📺 Chris Norlund
 
-👁️ 87K • 👍 6K • 💬 1K • ⏱️ 17:42 • 11h ago
+👁️ 87K • 👍 6K • 💬 1K • ⏱️ 17:42 • 12h ago
 
 ---
 
@@ -359,7 +359,7 @@ Dr. Ed Weir, Former Government Insider, DISCUSSES the unseen repercussions of AI
 
 📺 Dr. Ed Weir, PhD, Former Social Security Manager
 
-👁️ 2K • 👍 186 • 💬 65 • ⏱️ 16:26 • 18h ago
+👁️ 2K • 👍 186 • 💬 65 • ⏱️ 16:26 • 19h ago
 
 ---
 
@@ -657,7 +657,7 @@ AI → JSON → UI
 
 `TypeScript`
 
-⭐ 10.1k • 🔱 537 • 9h ago
+⭐ 10.1k • 🔱 537 • 10h ago
 
 ---
 
@@ -667,7 +667,7 @@ LLM驱动的 A/H/美股智能分析器，多数据源行情 + 实时新闻 + Gem
 
 `Python` `agent` `ai` `aigc` `gemini` `llm`
 
-⭐ 9.9k • 🔱 10.4k • 3h ago
+⭐ 9.9k • 🔱 10.4k • 4h ago
 
 ---
 
@@ -677,7 +677,7 @@ The Ultimate Collection of 700+ Agentic Skills for Claude Code/Antigravity/Curso
 
 `Python` `agentic-skills` `ai-agents` `antigravity` `autonomous-coding` `claude-code`
 
-⭐ 7.8k • 🔱 1.6k • 3h ago
+⭐ 7.8k • 🔱 1.6k • 4h ago
 
 ---
 
