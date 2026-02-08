@@ -3,14 +3,14 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-02-08T11:27:05.590384+00:00'
+updated: '2026-02-08T11:47:33.870360+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- social
 - videos
 - news
+- social
 - cryptocurrency
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** February 08, 2026 at 11:27 UTC  
+**Last Updated:** February 08, 2026 at 11:47 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,33 +38,33 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $69,408.43
+### $70,777.00
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** +3.0%  
-**7d:** -11.1%  
-**30d:** -22.6%  
-**90d:** -32.1%  
-**1y:** -27.4%  
+**24h:** +2.8%  
+**7d:** -10.1%  
+**30d:** -21.7%  
+**90d:** -31.4%  
+**1y:** -26.5%  
 
 ---
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1407.43B
+**Market Cap:** $1415.38B
 Rank #1
 
-**Circulating Supply:** 19,986,062 BTC
+**Circulating Supply:** 19,986,090 BTC
 95.2% of max
 
 **All-Time High:** $126,080.00
--44.1%
+-43.8%
 
 **All-Time Low:** $67.81
-+103753.4%
++104335.9%
 
 ---
 
@@ -79,31 +79,7 @@ Rank #1
 
 **[Comforting my friend who bought BTC @ 120k](https://www.reddit.com/r/Bitcoin/comments/1qyt31t/comforting_my_friend_who_bought_btc_120k/)**
 
-11h ago
-
----
-
-**[Buy anyways](https://www.reddit.com/r/Bitcoin/comments/1qysc8s/buy_anyways/)**
-
-Guys, do you realize how much you regret not buying about ten years ago? Today, the price of BTC has been cut in half, and you’re hesitating between “the market is collapsing” or “the market will bounce back.” Buy either way—personally, that’s what I’m doing. I’m not saying the price will go back up. Of course I hope it will, but I honestly have no idea, and absolutely no one can know. I’d rather tell myself that I bought for nothing and lost some money than tell myself that I missed this opportunity a second time—especially when this time, I’m aware it might actually be one. (traduced from french by chatgpt)
-
 12h ago
-
----
-
-**[HODLing BTC](https://www.reddit.com/r/Bitcoin/comments/1qyk286/hodling_btc/)**
-
-HODL strong through the storms; the future rewards the patient. 🚀 🙌
-
-17h ago
-
----
-
-**[anyone else just kinda... numb to the dips at this point?](https://www.reddit.com/r/Bitcoin/comments/1qz1y2w/anyone_else_just_kinda_numb_to_the_dips_at_this/)**
-
-honestly, after holding since 2021, these dips barely even register anymore. i'm not even checking the charts as often as i used to. is that just me getting old and boring, or are other long-term holders feeling the same?
-
-4h ago
 
 ---
 
@@ -115,11 +91,35 @@ https://share.google/IVm4XmWSJ13M1cDwX
 
 ---
 
+**[HODLing BTC](https://www.reddit.com/r/Bitcoin/comments/1qyk286/hodling_btc/)**
+
+HODL strong through the storms; the future rewards the patient. 🚀 🙌
+
+18h ago
+
+---
+
+**[Buy anyways](https://www.reddit.com/r/Bitcoin/comments/1qysc8s/buy_anyways/)**
+
+Guys, do you realize how much you regret not buying about ten years ago? Today, the price of BTC has been cut in half, and you’re hesitating between “the market is collapsing” or “the market will bounce back.” Buy either way—personally, that’s what I’m doing. I’m not saying the price will go back up. Of course I hope it will, but I honestly have no idea, and absolutely no one can know. I’d rather tell myself that I bought for nothing and lost some money than tell myself that I missed this opportunity a second time—especially when this time, I’m aware it might actually be one. (traduced from french by chatgpt)
+
+12h ago
+
+---
+
+**[anyone else just kinda... numb to the dips at this point?](https://www.reddit.com/r/Bitcoin/comments/1qz1y2w/anyone_else_just_kinda_numb_to_the_dips_at_this/)**
+
+honestly, after holding since 2021, these dips barely even register anymore. i'm not even checking the charts as often as i used to. is that just me getting old and boring, or are other long-term holders feeling the same?
+
+4h ago
+
+---
+
 **[Borrowed against my 401k for BTC](https://www.reddit.com/r/Bitcoin/comments/1qyuld4/borrowed_against_my_401k_for_btc/)**
 
-Not financial advice weekly RSIs below 30 and clear support approaching around the $50,000 level. I am borrowing against my 401(k) for the next 52 weeks to allow some capital upfront to take advantage of these prices. 6.75% interest paid back into my 401k after the 52 weeks which is a win-win for me. See you in five years.
+Not financial advice weekly RSI below 30 and clear support approaching around the $50,000 level , I am borrowing against my 401(k) for the next 52 weeks to allow some capital upfront to take advantage of these prices. 6.75% interest paid back into my 401k after the 52 weeks which is a win-win for me. (Im my own employer) Small loan about 25-30% of my 401k - will be paid off by February 2027. Allowing me to capture the arbitrage gain of interest & a low risk capital loan. See you in five years.
 
-10h ago
+11h ago
 
 ---
 
@@ -135,7 +135,7 @@ Over the past year I have received 4 unknown deposits into my Trezor hardware wa
 
 If you see blockchain activity whales are clearly accumulating taking BTC outside exchanges. It seems this is contrarian to people saying that BTC will bottom around 45k-55k. I believe (and hope) that bottom is in and the liquidation of this week has been a great opportunity to accumulate, decrease btc availability on exchanges and bring price to 100k +
 
-22h ago
+23h ago
 
 ---
 
@@ -188,11 +188,17 @@ Yahoo Finance • 1d ago
 
 ---
 
-**[El Salvador’s Bukele Approval Hits Record 91.9% Despite Tepid Bitcoin Adoption](https://www.yahoo.com/news/articles/el-salvador-bukele-approval-hits-073654194.html)**
+**[How deep is this Bitcoin bear phase, and what direction could price move next?](https://www.binance.com/en/square/post/289388631019058)**
 
-El Salvador President Nayib Bukele continues to command overwhelming public support, even as the country’s landmark Bitcoin policy shows limited traction among citizens. Key Takeaways: Bukele holds a ...
+Binance • 2h ago
 
-Yahoo • 3h ago
+---
+
+**[Strategy CEO: Bitcoin would need to plunge to $8,000 before balance sheet issues](https://www.theblock.co/post/388774/strategy-ceo-bitcoin-q4-earnings-call)**
+
+Executive Chairman Michael Saylor also addressed quantum computing concerns in bitcoin, framing them as 'horrible FUD.'
+
+The Block • 2d ago
 
 ---
 
@@ -218,17 +224,11 @@ cnn.com • 2d ago
 
 ---
 
-**[Bitcoin Booster’s $12 Billion Loss Headlines Crypto’s Worst Day Since 2022 Crash](https://www.wsj.com/finance/currencies/strategy-earnings-fourth-2025-33688dab?gaa_at=eafs&gaa_n=AWEtsqezdO5DZTwNNTqyZJjhl-eYDrH3IJH1BA9ZTMeJO1r1ufmSw3wKKug7&gaa_ts=698868d9&gaa_sig=NAY68L1v5c8oEvEk5UTdNU1NcjGXlXDIlqHqiWQDqgX1EY8vty3QKk6y5ZYCZNE8A4VBHWMpt7KdD7CrEbO0Hg%3D%3D)**
+**[As Crash Deepens, Investors Say Bitcoin Is Headed for Zero Dollars](https://futurism.com/future-society/crash-bitcoin-headed-zero-dollars)**
 
-The Wall Street Journal • 2d ago
+Analysts aren't presumably hopeful about an imminent recovery of Bitcoin, with some expecting the absolute worst.
 
----
-
-**[Strategy CEO: Bitcoin would need to plunge to $8,000 before balance sheet issues](https://www.theblock.co/post/388774/strategy-ceo-bitcoin-q4-earnings-call)**
-
-Executive Chairman Michael Saylor also addressed quantum computing concerns in bitcoin, framing them as 'horrible FUD.'
-
-The Block • 2d ago
+Futurism • 1d ago
 
 ---
 
@@ -292,7 +292,7 @@ Bitcoin behaves more like an "ATM" during uncertain times, with investors quickl
 
 Bithumb, Korea's second-largest cryptocurrency exchange, mistakenly credited users with Bitcoin worth approximately 260 billion won ($195 million), instead of the modest number of reward points or Bitcoin that it had intended to distribute.
 
-⬆️ 3 • 💬 0 • 17h ago • [koreajoongangdaily.joins.com](https://koreajoongangdaily.joins.com/news/2026-02-07/business/finance/Crypto-exchange-Bithumb-mistakenly-hands-out-195M-in-Bitcoin-to-users-in-Random-Box-giveaway/2518495)
+⬆️ 3 • 💬 0 • 18h ago • [koreajoongangdaily.joins.com](https://koreajoongangdaily.joins.com/news/2026-02-07/business/finance/Crypto-exchange-Bithumb-mistakenly-hands-out-195M-in-Bitcoin-to-users-in-Random-Box-giveaway/2518495)
 
 ---
 
@@ -320,7 +320,7 @@ Take your personal data back with Incogni! Use code GRAHAM at the link below and
 
 📺 Graham Stephan
 
-👁️ 605K • 👍 20K • 💬 6K • ⏱️ 16:11 • 2d ago
+👁️ 608K • 👍 20K • 💬 6K • ⏱️ 16:11 • 2d ago
 
 ---
 
@@ -330,37 +330,7 @@ Why did the world's largest asset class lose nearly $2 trillion in value so quic
 
 📺 Discover Crypto
 
-👁️ 4K • 👍 158 • 💬 114 • ⏱️ 7:32 • 13h ago
-
----
-
-**[Bitcoin CRASHES $10K In a Day! Did the U.S. Buy the Dip?!](https://www.youtube.com/watch?v=Ha3RlPUQtj8)**
-
-Bitcoin just posted its first ever $10000 daily drop, wiped out billions in liquidations, then ripped back like nothing happened.
-
-📺 Simply Bitcoin
-
-👁️ 19K • 👍 1K • 💬 217 • ⏱️ 16:01 • 11h ago
-
----
-
-**[BITCOIN: CALM BEFORE THE STORM!!! #BTC Price Prediction &amp; Crypto Crash News Today](https://www.youtube.com/watch?v=sM4RCmM_HwE)**
-
-My Free Trading Course https://www.rt1m.com/free My Discord Server (FREE) https://discord.com/invite/jRAnCV9CTB ...
-
-📺 Road To $1 Million USD
-
-👁️ 6K • 👍 244 • 💬 107 • ⏱️ 8:29 • 12h ago
-
----
-
-**[“$2 Trillion LOST In Crypto” - Bitcoin &amp; XRP Wobble As CRYPTO CRASH Fears Grow](https://www.youtube.com/watch?v=_bT0NBL2hfk)**
-
-Bitcoin plunges as crypto markets lose trillions, sparking debate over whether BTC is truly an inflation hedge or just another risk ...
-
-📺 Valuetainment
-
-👁️ 178K • 👍 3K • 💬 12K • ⏱️ 14:38 • 1d ago
+👁️ 4K • 👍 162 • 💬 91 • ⏱️ 7:32 • 14h ago
 
 ---
 
@@ -370,7 +340,37 @@ Bitcoin has been in a free-fall the past few months. At one point yesterday, it 
 
 📺 From The Desk Of Anthony Pompliano
 
-👁️ 47K • 👍 2K • 💬 344 • ⏱️ 9:43 • 1d ago
+👁️ 48K • 👍 2K • 💬 351 • ⏱️ 9:43 • 1d ago
+
+---
+
+**[Bitcoin CRASHES $10K In a Day! Did the U.S. Buy the Dip?!](https://www.youtube.com/watch?v=Ha3RlPUQtj8)**
+
+Bitcoin just posted its first ever $10000 daily drop, wiped out billions in liquidations, then ripped back like nothing happened.
+
+📺 Simply Bitcoin
+
+👁️ 21K • 👍 2K • 💬 200 • ⏱️ 16:01 • 12h ago
+
+---
+
+**[WARNING: BITCOIN SAYS $37,000 COMING SOON?](https://www.youtube.com/watch?v=ZCCmIcUxvOk)**
+
+More speculation about the Bitcoin crash of 2026. The question everyone is asking is if Bitcoin is a good time to buy now or wait ...
+
+📺 Ricky Gutierrez
+
+👁️ 18K • 👍 799 • 💬 301 • ⏱️ 17:14 • 15h ago
+
+---
+
+**[“$2 Trillion LOST In Crypto” - Bitcoin &amp; XRP Wobble As CRYPTO CRASH Fears Grow](https://www.youtube.com/watch?v=_bT0NBL2hfk)**
+
+Bitcoin plunges as crypto markets lose trillions, sparking debate over whether BTC is truly an inflation hedge or just another risk ...
+
+📺 Valuetainment
+
+👁️ 181K • 👍 3K • 💬 12K • ⏱️ 14:38 • 1d ago
 
 ---
 
@@ -380,27 +380,7 @@ Bitcoin's record volatility is sending shockwaves through the crypto market—ar
 
 📺 Discover Crypto
 
-👁️ 22K • 👍 198 • 💬 83 • ⏱️ 0:26 • 1d ago
-
----
-
-**[Bitcoin Hit $60,000 Exactly Like I Warned… Here’s What Happens NEXT](https://www.youtube.com/watch?v=uhq8dVsbdYs)**
-
-Bitcoin just did EXACTLY what I said it would do Trade LIVE with me for $5 - a Youtube only special: If you want live trading ...
-
-📺 Ross Givens
-
-👁️ 16K • 👍 794 • 💬 993 • ⏱️ 8:28 • 1d ago
-
----
-
-**[Bitcoin Is CRASHING Now People Are Losing EVERYTHING](https://www.youtube.com/watch?v=7fg0A5W2D3s)**
-
-Bitcoin is crashing — and now people are losing everything. In this video, we break down what's happening in the crypto market, ...
-
-📺 Jay Reed
-
-👁️ 146K • 👍 6K • 💬 18K • ⏱️ 16:32 • 2d ago
+👁️ 23K • 👍 198 • 💬 83 • ⏱️ 0:26 • 1d ago
 
 ---
 
@@ -410,7 +390,27 @@ In this interview, Bitcoin OG Samson Mow shares his view on why Bitcoin keeps fa
 
 📺 Cointelegraph
 
-👁️ 25K • 👍 724 • 💬 135 • ⏱️ 19:09 • 1d ago
+👁️ 25K • 👍 736 • 💬 138 • ⏱️ 19:09 • 1d ago
+
+---
+
+**[BITCOIN: CALM BEFORE THE STORM!!! #BTC Price Prediction &amp; Crypto Crash News Today](https://www.youtube.com/watch?v=sM4RCmM_HwE)**
+
+My Free Trading Course https://www.rt1m.com/free My Discord Server (FREE) https://discord.com/invite/jRAnCV9CTB ...
+
+📺 Road To $1 Million USD
+
+👁️ 6K • 👍 258 • 💬 84 • ⏱️ 8:29 • 12h ago
+
+---
+
+**[Bitcoin Is CRASHING Now People Are Losing EVERYTHING](https://www.youtube.com/watch?v=7fg0A5W2D3s)**
+
+Bitcoin is crashing — and now people are losing everything. In this video, we break down what's happening in the crypto market, ...
+
+📺 Jay Reed
+
+👁️ 147K • 👍 6K • 💬 18K • ⏱️ 16:32 • 2d ago
 
 ---
 

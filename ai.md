@@ -3,14 +3,14 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-02-08T11:27:05.582104+00:00'
+updated: '2026-02-08T11:47:33.862076+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
+- videos
 - social
 - repositories
-- videos
 - news
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 AI news, discussions, and developments
 
-**Last Updated:** February 08, 2026 at 11:27 UTC  
+**Last Updated:** February 08, 2026 at 11:47 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -37,6 +37,14 @@ AI news, discussions, and developments
 
 ## Reddit: r/artificial
 
+**[I built a geolocation tool that can find exact coordinates of any image within 3 minutes [Tough demo 2]](https://www.reddit.com/r/artificial/comments/1qz5rz7/i_built_a_geolocation_tool_that_can_find_exact/)**
+
+Just wanted to say thanks for the thoughtful discussion and feedback on my previous post. I did not expect that level of interest, and I appreciate how constructive most of the comments were. Based on a few requests, I put together a short demonstration showing the system applied to a deliberately difficult street-level image. No obvious landmarks, no readable signage, no metadata. The location was verified in under two minutes. I am still undecided on the long-term direction of this work. That said, if there are people here interested in collaborating from a research, defensive, or ethical perspective, I am open to conversations. That could mean validation, red-teaming anything else. Thanks again to the community for the earlier discussion. Happy to answer high-level questions and hear thoughts on where tools like this should and should not go.
+
+1h ago
+
+---
+
 **[Report: OpenAI may tailor a version of ChatGPT for UAE that prohibits LGBTQ+ content](https://www.reddit.com/r/artificial/comments/1qy9vox/report_openai_may_tailor_a_version_of_chatgpt_for/)**
 
 Countries have been building their own “sovereign AI” to reflect their culture and values, and OpenAI wants to help them....
@@ -47,7 +55,7 @@ Countries have been building their own “sovereign AI” to reflect their cultu
 
 **[Nvidia CEO Says AI Capital Spending Is Appropriate, Sustainable](https://www.reddit.com/r/artificial/comments/1qyx57y/nvidia_ceo_says_ai_capital_spending_is/)**
 
-🔗 [bloomberg.com](https://www.bloomberg.com/news/articles/2026-02-06/nvidia-ceo-says-ai-capital-spending-is-appropriate-sustainable?srnd=phx-technology&leadSource=reddit_wall) • 8h ago
+🔗 [bloomberg.com](https://www.bloomberg.com/news/articles/2026-02-06/nvidia-ceo-says-ai-capital-spending-is-appropriate-sustainable?srnd=phx-technology&leadSource=reddit_wall) • 9h ago
 
 ---
 
@@ -71,7 +79,7 @@ I have been working solo on an AI-based project called Netryx. At a high level, 
 
 Let’s say the quiet part out loud.
 
-🔗 [Medium](https://medium.com/@behindthebuild/big-tech-ai-isnt-taking-your-job-your-refusal-to-use-it-might-966f8219f962) • 17h ago
+🔗 [Medium](https://medium.com/@behindthebuild/big-tech-ai-isnt-taking-your-job-your-refusal-to-use-it-might-966f8219f962) • 18h ago
 
 ---
 
@@ -107,14 +115,6 @@ An AI-powered model developed at University of Michigan can read a brain MRI and
 
 ---
 
-**[Anthropic and OpenAI released flagship models 27 minutes apart -- the AI pricing and capability gap is getting weird](https://www.reddit.com/r/artificial/comments/1qxdz7q/anthropic_and_openai_released_flagship_models_27/)**
-
-Anthropic shipped Opus 4.6 and OpenAI shipped GPT-5.3-Codex on the same day, 27 minutes apart. Both claim benchmark leads. Both are right -- just on different benchmarks. Where each model leads Opus 4.6 tops reasoning tasks: Humanity's Last Exam (53.1%), GDPval-AA (144 Elo ahead of GPT-5.2), BrowseComp (84.0%). GPT-5.3-Codex takes coding: Terminal-Bench 2.0 at 75.1% vs Opus 4.6's 69.9%. The pricing spread is hard to ignore Model Input/M Output/M Gemini 3 Pro $2 $12.00 GPT-5.2 $1.75 $14.00 Opus 4.6 $5.00 $25.00 MiMo V2 Flash $0.10 $0.30 Opus 4.6 costs 2x Gemini on input. Open-source alternatives cost 50x less. At some point the benchmark gap has to justify the price gap -- and for many tasks it doesn't. 1M context is becoming table stakes Opus 4.6 adds 1M tokens (beta, 2x pricing past 200K). Gemini already offers 1M at standard pricing. The real differentiator is retrieval quality at that scale -- Opus 4.6 scores 76% on MRCR v2 (8-needle, 1M), which is the strongest result so far. Market reaction was immediate Thomson Reuters stock fell 15.83%, LegalZoom dropped nearly 20%. Frontier model launches are now moving SaaS valuations in real time. The tradeoff nobody expected Opus 4.6 gets writing quality complaints from early users. The theory: RL optimizations for reasoning degraded prose output. Models are getting better at some things by getting worse at others. No single model wins across the board anymore. The frontier is fragmenting by task type. GPT-5.3-Codex pricing has not been disclosed at time of writing. Gemini offers 1M context at standard pricing; Claude charges 2x for prompts exceeding 200K tokens. Source with full benchmarks and analysis: Claude Opus 4.6: 1M Context, Agent Teams, Adaptive Thinking, and a Showdown with GPT-5.3
-
-2d ago
-
----
-
 ---
 
 ## Google News: "ai"
@@ -127,27 +127,11 @@ The Washington Post • 17h ago
 
 ---
 
-**[Amazon leads Big Tech’s $1 trillion wipeout as AI bubble fears ignite sell-off](https://www.cnbc.com/2026/02/06/ai-sell-off-stocks-amazon-oracle.html)**
+**[Why has Elon Musk merged his rocket company with his AI startup?](https://www.theguardian.com/technology/2026/feb/07/why-has-elon-musk-merged-his-rocket-company-with-his-ai-startup)**
 
-Fears over AI spending have sparked a sell-off among tech stocks.
+SpaceX’s acquisition of xAI creates business worth $1.25tn but whether premise behind deal will work is questioned
 
-CNBC • 1d ago
-
----
-
-**[Buyer Beware: The Market's AI Bubble Risk Just Got Even Bigger](https://seekingalpha.com/article/4867426-buyer-beware-markets-ai-bubble-risk-just-got-even-bigger)**
-
-A massive spending surge is quietly reshaping the market’s risk profile. One overlooked corner of the market could benefit enormously. See more here.
-
-Seeking Alpha • 23h ago
-
----
-
-**[Anthropic cofounder says studying the humanities will be 'more important than ever' in the age of AI](https://fortune.com/2026/02/07/anthropic-cofounder-daniela-amodei-humanities-majors-soft-skills-hiring-ai-stem/)**
-
-"The things that make us human will become much more important instead of much less important."
-
-Fortune • 18h ago
+The Guardian • 21h ago
 
 ---
 
@@ -157,19 +141,19 @@ The New York Times • 1h ago
 
 ---
 
-**[I turned myself into an AI-generated deathbot - here's what I found](https://www.bbc.com/news/articles/c93wjywz5p5o)**
+**[Super Bowl 2026: Inside the NFL's AI playbook](https://qz.com/super-bowl-ai-athlete-health-billion-dollar-business)**
 
-A Cardiff University researcher recreated her own voice using a deathbot - but found it strange.
+As the Super Bowl kicks off, the NFL’s AI-powered digital athlete program is quietly saving teams hundreds of millions by helping keep players on the field
 
-BBC • 3h ago
+qz.com • 45m ago
 
 ---
 
-**[Does Your AI Agent Give You Agency?](https://www.bloomberg.com/news/newsletters/2026-02-08/ai-will-face-a-backlash-if-people-don-t-trust-the-people-behind-it)**
+**[In the AI era, Mark Cuban, Mary Barra, and even Sam Altman have one tip for Gen Z: unplug and go analog](https://fortune.com/2026/02/08/business-leaders-embrace-human-intentionality-unplug-go-analog-gen-z-mark-cuban-mary-barra-sam-altman/)**
 
-Plus, Bitcoin’s rout, the end of football and the prospects for the world’s first trillionaire.
+While CEOs like Jensen Huang embrace an always-on mentality, other executives argue for being intentionally human—and unplugging from AI technology at times.
 
-Bloomberg.com • 2h ago
+Fortune • 42m ago
 
 ---
 
@@ -177,7 +161,7 @@ Bloomberg.com • 2h ago
 
 AI isn't just hitting software valuations — it's changing how software companies operate.
 
-Axios • 16h ago
+Axios • 14h ago
 
 ---
 
@@ -189,11 +173,27 @@ Politico • 20h ago
 
 ---
 
-**[Why has Elon Musk merged his rocket company with his AI startup?](https://www.theguardian.com/technology/2026/feb/07/why-has-elon-musk-merged-his-rocket-company-with-his-ai-startup)**
+**[Moltbook was peak AI theater](https://www.technologyreview.com/2026/02/06/1132448/moltbook-was-peak-ai-theater/)**
 
-SpaceX’s acquisition of xAI creates business worth $1.25tn but whether premise behind deal will work is questioned
+The viral social network for bots reveals as much about our own current mania for AI as it does about the future of agents.
 
-The Guardian • 21h ago
+MIT Technology Review • 1d ago
+
+---
+
+**[AI’s latest 20-something billionaire got his start at L.A. garage sales](https://www.latimes.com/business/story/2026-02-07/how-la-garage-sales-launched-ais-latest-20-something-billionaire)**
+
+Meet the LA boy who turned a multi-millionaire starting an AI training company
+
+latimes.com • 1d ago
+
+---
+
+**[I turned myself into an AI-generated deathbot - here's what I found](https://www.bbc.com/news/articles/c93wjywz5p5o)**
+
+A Cardiff University researcher recreated her own voice using a deathbot - but found it strange.
+
+BBC • 4h ago
 
 ---
 
@@ -203,7 +203,7 @@ The Guardian • 21h ago
 
 **[My AI Adoption Journey](https://news.ycombinator.com/item?id=46903558)**
 
-⬆️ 942 • 💬 396 • 2d ago • [Mitchell Hashimoto](https://mitchellh.com/writing/my-ai-adoption-journey)
+⬆️ 943 • 💬 396 • 2d ago • [Mitchell Hashimoto](https://mitchellh.com/writing/my-ai-adoption-journey)
 
 ---
 
@@ -211,7 +211,7 @@ The Guardian • 21h ago
 
 A new bill in the New York state legislature would require news organizations to label AI-generated material and mandate that humans review any such content before publication. On Monday, Senator Patricia Fahy (D-Albany) and Assemblymember Nily Rozic (D-NYC) introduced the bill, called The New York…
 
-⬆️ 567 • 💬 234 • 2d ago • [Nieman Lab](https://www.niemanlab.org/2026/02/a-new-bill-in-new-york-would-require-disclaimers-on-ai-generated-news-content/)
+⬆️ 568 • 💬 234 • 2d ago • [Nieman Lab](https://www.niemanlab.org/2026/02/a-new-bill-in-new-york-would-require-disclaimers-on-ai-generated-news-content/)
 
 ---
 
@@ -219,7 +219,7 @@ A new bill in the New York state legislature would require news organizations to
 
 The hundreds of billions of dollars being spent by tech companies on AI projects are diverting resources from other parts of the economy.
 
-⬆️ 347 • 💬 566 • 1d ago • [The Washington Post](https://www.washingtonpost.com/technology/2026/02/07/ai-spending-economy-shortages/)
+⬆️ 359 • 💬 596 • 1d ago • [The Washington Post](https://www.washingtonpost.com/technology/2026/02/07/ai-spending-economy-shortages/)
 
 ---
 
@@ -227,7 +227,7 @@ The hundreds of billions of dollars being spent by tech companies on AI projects
 
 AI is rarely optional anymore, but how can you still be proud of your craft? Discover the workflow to effectively write high-quality, robust code using AI tools.
 
-⬆️ 340 • 💬 294 • 1d ago • [heidenstedt.org](https://heidenstedt.org/posts/2026/how-to-effectively-write-quality-code-with-ai/)
+⬆️ 342 • 💬 295 • 1d ago • [heidenstedt.org](https://heidenstedt.org/posts/2026/how-to-effectively-write-quality-code-with-ai/)
 
 ---
 
@@ -243,7 +243,7 @@ A minimal, secure Python interpreter written in Rust for use by AI - pydantic/mo
 
 Contribute to localgpt-app/localgpt development by creating an account on GitHub.
 
-⬆️ 229 • 💬 92 • 10h ago • [GitHub](https://github.com/localgpt-app/localgpt)
+⬆️ 242 • 💬 118 • 10h ago • [GitHub](https://github.com/localgpt-app/localgpt)
 
 ---
 
@@ -259,7 +259,7 @@ Women in rural communities describe trauma of moderating violent and pornographi
 
 Give your AI agent a browser that actually works
 
-⬆️ 100 • 💬 71 • 2d ago • [docs.smooth.sh](https://docs.smooth.sh/cli/overview)
+⬆️ 101 • 💬 71 • 2d ago • [docs.smooth.sh](https://docs.smooth.sh/cli/overview)
 
 ---
 
@@ -289,7 +289,7 @@ Become a member! ✓ https://www.youtube.com/channel/UCahJ9IsvXnaQiuNyWQSkrkw/jo
 
 📺 Chris Norlund
 
-👁️ 87K • 👍 6K • 💬 1K • ⏱️ 17:42 • 12h ago
+👁️ 97K • 👍 6K • 💬 1K • ⏱️ 17:42 • 13h ago
 
 ---
 
@@ -299,67 +299,7 @@ Become a member! ✓ https://www.youtube.com/channel/UCahJ9IsvXnaQiuNyWQSkrkw/jo
 
 📺 Neil McCoy-Ward
 
-👁️ 69K • 👍 5K • 💬 609 • ⏱️ 19:58 • 1d ago
-
----
-
-**[Anthropic&#39;s New AI Just Changed Everything](https://www.youtube.com/watch?v=ZneWerxN-qU)**
-
-Today I break down Claude Opus 4.6, Anthropic's most advanced AI model that handles complex coding, deep analysis, and ...
-
-📺 Tech Unicorn
-
-👁️ 3K • 👍 63 • 💬 13 • ⏱️ 11:40 • 1d ago
-
----
-
-**[OpenAI&#39;s New GPT 5.3 Shocks Anthropic As Opus 4.6 Strikes Back (AI War Explodes)](https://www.youtube.com/watch?v=ydW6Io2T4ho)**
-
-AI coding just entered a new phase of competition. In the same week, OpenAI unveiled GPT-5.3-Codex, a faster, more capable ...
-
-📺 AI Revolution
-
-👁️ 28K • 👍 691 • 💬 39 • ⏱️ 13:09 • 1d ago
-
----
-
-**[The White Collar AI APOCALYPSE Is HERE](https://www.youtube.com/watch?v=ur295T83Wg4)**
-
-Krystal and Saagar discuss tech stocks tumbling amid emerging new fears of job loss and AI. Sign up for a PREMIUM Breaking ...
-
-📺 Breaking Points
-
-👁️ 364K • 👍 10K • 💬 2K • ⏱️ 24:33 • 2d ago
-
----
-
-**[This AI Feature Replaces Every Prompt You&#39;ve Ever Saved | Build Once, Use Forever](https://www.youtube.com/watch?v=hqiStqp6FL4)**
-
-Join our WhatsApp Community Get the latest AI updates, tips, and insights straight to your inbox: https://dub.sh/ai-updates-vs ...
-
-📺 Vaibhav Sisinty
-
-👁️ 58K • 👍 2K • 💬 55 • ⏱️ 10:30 • 1d ago
-
----
-
-**[Nvidia CEO Jensen Huang: AI is going to fundamentally change how we compute everything](https://www.youtube.com/watch?v=P9dX_ek_6yY)**
-
-Jensen Huang, NVIDIA CEO, joins CNBC's "Halftime Report to discuss the power of Artificial Intelligence and where he sees the ...
-
-📺 CNBC Television
-
-👁️ 137K • 👍 2K • 💬 405 • ⏱️ 8:35 • 1d ago
-
----
-
-**[They&#39;re Replacing Doctors and Hospital Workers with Robots and AI](https://www.youtube.com/watch?v=1Sz7KkqBcBU)**
-
-Dr. Ed Weir, Former Government Insider, DISCUSSES the unseen repercussions of AI and robots to 10s of millions of seniors, ...
-
-📺 Dr. Ed Weir, PhD, Former Social Security Manager
-
-👁️ 2K • 👍 186 • 💬 65 • ⏱️ 16:26 • 19h ago
+👁️ 70K • 👍 5K • 💬 572 • ⏱️ 19:58 • 1d ago
 
 ---
 
@@ -369,7 +309,67 @@ India's IT sector just got hit with its biggest shock in 4 months. The Nifty IT 
 
 📺 Mark Savant
 
-👁️ 12K • 👍 408 • 💬 188 • ⏱️ 18:25 • 14h ago
+👁️ 15K • 👍 454 • 💬 202 • ⏱️ 18:25 • 14h ago
+
+---
+
+**[OpenAI&#39;s New GPT 5.3 Shocks Anthropic As Opus 4.6 Strikes Back (AI War Explodes)](https://www.youtube.com/watch?v=ydW6Io2T4ho)**
+
+AI coding just entered a new phase of competition. In the same week, OpenAI unveiled GPT-5.3-Codex, a faster, more capable ...
+
+📺 AI Revolution
+
+👁️ 29K • 👍 705 • 💬 40 • ⏱️ 13:09 • 1d ago
+
+---
+
+**[Anthropic&#39;s New AI Just Changed Everything](https://www.youtube.com/watch?v=ZneWerxN-qU)**
+
+Today I break down Claude Opus 4.6, Anthropic's most advanced AI model that handles complex coding, deep analysis, and ...
+
+📺 Tech Unicorn
+
+👁️ 3K • 👍 63 • 💬 14 • ⏱️ 11:40 • 1d ago
+
+---
+
+**[The White Collar AI APOCALYPSE Is HERE](https://www.youtube.com/watch?v=ur295T83Wg4)**
+
+Krystal and Saagar discuss tech stocks tumbling amid emerging new fears of job loss and AI. Sign up for a PREMIUM Breaking ...
+
+📺 Breaking Points
+
+👁️ 365K • 👍 10K • 💬 2K • ⏱️ 24:33 • 2d ago
+
+---
+
+**[This AI Feature Replaces Every Prompt You&#39;ve Ever Saved | Build Once, Use Forever](https://www.youtube.com/watch?v=hqiStqp6FL4)**
+
+Join our WhatsApp Community Get the latest AI updates, tips, and insights straight to your inbox: https://dub.sh/ai-updates-vs ...
+
+📺 Vaibhav Sisinty
+
+👁️ 60K • 👍 2K • 💬 54 • ⏱️ 10:30 • 1d ago
+
+---
+
+**[President Trump talks job losses to A.I. and U.S. operation in Venezuela in exclusive interview](https://www.youtube.com/watch?v=J8UxjCRZQpo)**
+
+NBC Nightly News anchor Tom Llamas spoke to President Trump about fears of job losses from A.I. President Trump also ...
+
+📺 NBC News
+
+👁️ 36K • 👍 113 • 💬 116 • ⏱️ 4:39 • 2d ago
+
+---
+
+**[Nvidia CEO Jensen Huang: AI is going to fundamentally change how we compute everything](https://www.youtube.com/watch?v=P9dX_ek_6yY)**
+
+Jensen Huang, NVIDIA CEO, joins CNBC's "Halftime Report to discuss the power of Artificial Intelligence and where he sees the ...
+
+📺 CNBC Television
+
+👁️ 138K • 👍 2K • 💬 406 • ⏱️ 8:35 • 1d ago
 
 ---
 
@@ -379,7 +379,7 @@ The two models that you will hear discussed for at least the next two months - C
 
 📺 AI Explained
 
-👁️ 58K • 👍 3K • 💬 312 • ⏱️ 19:50 • 1d ago
+👁️ 59K • 👍 3K • 💬 313 • ⏱️ 19:50 • 1d ago
 
 ---
 
@@ -395,7 +395,7 @@ GLM-OCR is a 0.9B parameter multimodal OCR model for complex document understand
 
 `image-to-text`
 
-⬇️ 248,295 • ❤️ 794 • 5d ago
+⬇️ 248,295 • ❤️ 800 • 5d ago
 
 ---
 
@@ -407,7 +407,7 @@ Qwen3-Coder-Next is an 80B parameter (3B active) LLM optimized for coding agents
 
 `text-generation` `79.7B`
 
-⬇️ 76,632 • ❤️ 596 • 4d ago
+⬇️ 76,632 • ❤️ 597 • 4d ago
 
 ---
 
@@ -419,7 +419,7 @@ Kimi K2.5 is a native multimodal agentic model with 1T parameters, excelling in 
 
 `image-text-to-text` `170.7B`
 
-⬇️ 404,508 • ❤️ 1,847 • 3d ago
+⬇️ 404,508 • ❤️ 1,850 • 3d ago
 
 ---
 
@@ -431,7 +431,7 @@ Step 3.5 Flash is an efficient, open-source MoE foundation model (11B active par
 
 `text-generation` `199.4B`
 
-⬇️ 104,643 • ❤️ 517 • 1d ago
+⬇️ 104,643 • ❤️ 519 • 1d ago
 
 ---
 
@@ -443,7 +443,7 @@ MiniCPM-o 4.5 is a 9B parameter multimodal LLM excelling in vision, speech, and 
 
 `any-to-any` `9.4B`
 
-⬇️ 17,457 • ❤️ 599 • 19h ago
+⬇️ 17,457 • ❤️ 603 • 19h ago
 
 ---
 
@@ -455,7 +455,7 @@ ACE-Step 1.5 is an open-source text-to-audio music generation model capable of p
 
 `text-to-audio`
 
-⬇️ 23,178 • ❤️ 438 • 4d ago
+⬇️ 23,178 • ❤️ 441 • 5d ago
 
 ---
 
@@ -465,7 +465,7 @@ ACE-Step 1.5 is an open-source text-to-audio music generation model capable of p
 
 Anima is a 2 billion parameter text-to-image diffusion model specializing in anime and non-photorealistic artistic styles, trained on millions of anime and artistic images. It is designed for generating illustrations and artistic images, with primary use cases in ComfyUI workflows for anime concepts and characters.
 
-⬇️ 71,655 • ❤️ 505 • 7d ago
+⬇️ 71,655 • ❤️ 507 • 7d ago
 
 ---
 
@@ -475,7 +475,7 @@ Anima is a 2 billion parameter text-to-image diffusion model specializing in ani
 
 Voxtral-Mini-4B-Realtime-2602 is a 4B-parameter, multilingual speech-to-text model offering near-offline accuracy with <500ms latency. It features a streaming architecture for real-time applications like voice assistants and live subtitling, optimized for on-device deployment.
 
-⬇️ 2,427 • ❤️ 374 • 3d ago
+⬇️ 2,427 • ❤️ 376 • 3d ago
 
 ---
 
@@ -515,21 +515,9 @@ Intern-S1-Pro is a trillion-scale MoE multimodal scientific reasoning model, exc
 
 _paperbanana is an agentic framework that automates the creation of publication-ready academic illustrations using advanced vision-language models and image generation techniques.
 
-▲ 140 • 💬 12 • ⭐ 2,416 • 8d ago
+▲ 141 • 💬 12 • ⭐ 2,416 • 8d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2601.23265) • [💻 code](https://github.com/dwzhu-pku/PaperBanana) • [🔗 project](https://dwzhu-pku.github.io/PaperBanana/)
-
----
-
-**[Scaling Large-Language-Model-based Multi-Agent Collaboration](https://huggingface.co/papers/2406.07155)**
-
-*Chen Qian, Zihao Xie, Yifei Wang et al. (10 authors)*
-
-Multi-agent collaboration networks enhance collective intelligence, outperforming baselines across various topologies and showing emergent abilities earlier than neural scaling laws suggest.
-
-▲ 4 • 💬 0 • ⭐ 30,480 • 20mo ago
-
-[🎓 arXiv](https://arxiv.org/abs/2406.07155) • [💻 code](https://github.com/OpenBMB/ChatDev/tree/macnet) • [🔗 project](https://github.com/OpenBMB/ChatDev/tree/macnet)
 
 ---
 
@@ -542,6 +530,18 @@ Cross-Team Collaboration improves software quality by enabling multiple LLM agen
 ▲ 3 • 💬 0 • ⭐ 30,492 • 20mo ago
 
 [🎓 arXiv](https://arxiv.org/abs/2406.08979) • [💻 code](https://github.com/OpenBMB/ChatDev)
+
+---
+
+**[Scaling Large-Language-Model-based Multi-Agent Collaboration](https://huggingface.co/papers/2406.07155)**
+
+*Chen Qian, Zihao Xie, Yifei Wang et al. (10 authors)*
+
+Multi-agent collaboration networks enhance collective intelligence, outperforming baselines across various topologies and showing emergent abilities earlier than neural scaling laws suggest.
+
+▲ 4 • 💬 0 • ⭐ 30,515 • 20mo ago
+
+[🎓 arXiv](https://arxiv.org/abs/2406.07155) • [💻 code](https://github.com/OpenBMB/ChatDev/tree/macnet) • [🔗 project](https://github.com/OpenBMB/ChatDev/tree/macnet)
 
 ---
 
@@ -580,6 +580,19 @@ LingBot-World is an open-source world simulator with high-fidelity dynamics, lon
 ▲ 119 • 💬 2 • ⭐ 2,647 • 11d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2601.20540) • [💻 code](https://github.com/Robbyant/lingbot-world/) • [🔗 project](https://technology.robbyant.com/lingbot-world)
+
+---
+
+**[MiniCPM-V 4.5: Cooking Efficient MLLMs via Architecture, Data, and
+  Training Recipe](https://huggingface.co/papers/2509.18154)**
+
+*Tianyu Yu, Zefan Wang, Chongyi Wang et al. (34 authors)*
+
+MiniCPM-V 4.5, a 8B parameter multimodal large language model, achieves high performance and efficiency through a unified 3D-Resampler architecture, a unified learning paradigm, and a hybrid reinforcement learning strategy.
+
+▲ 53 • 💬 4 • ⭐ 23,255 • 4mo ago
+
+[🎓 arXiv](https://arxiv.org/abs/2509.18154) • [💻 code](https://github.com/OpenBMB/MiniCPM-V)
 
 ---
 
@@ -624,19 +637,6 @@ SmolDocling is a compact vision-language model that performs end-to-end document
 
 ---
 
-**[MiniCPM-V 4.5: Cooking Efficient MLLMs via Architecture, Data, and
-  Training Recipe](https://huggingface.co/papers/2509.18154)**
-
-*Tianyu Yu, Zefan Wang, Chongyi Wang et al. (34 authors)*
-
-MiniCPM-V 4.5, a 8B parameter multimodal large language model, achieves high performance and efficiency through a unified 3D-Resampler architecture, a unified learning paradigm, and a hybrid reinforcement learning strategy.
-
-▲ 53 • 💬 4 • ⭐ 23,155 • 4mo ago
-
-[🎓 arXiv](https://arxiv.org/abs/2509.18154) • [💻 code](https://github.com/OpenBMB/MiniCPM-V)
-
----
-
 ---
 
 ## GitHub Repositories: "ai"
@@ -647,7 +647,7 @@ Browser automation CLI for AI agents
 
 `TypeScript`
 
-⭐ 13.2k • 🔱 762 • 1d ago
+⭐ 13.2k • 🔱 764 • 1d ago
 
 ---
 
@@ -657,7 +657,7 @@ AI → JSON → UI
 
 `TypeScript`
 
-⭐ 10.1k • 🔱 537 • 10h ago
+⭐ 10.1k • 🔱 538 • 11h ago
 
 ---
 
@@ -667,7 +667,7 @@ LLM驱动的 A/H/美股智能分析器，多数据源行情 + 实时新闻 + Gem
 
 `Python` `agent` `ai` `aigc` `gemini` `llm`
 
-⭐ 9.9k • 🔱 10.4k • 4h ago
+⭐ 9.9k • 🔱 10.4k • 1h ago
 
 ---
 
@@ -677,7 +677,7 @@ The Ultimate Collection of 700+ Agentic Skills for Claude Code/Antigravity/Curso
 
 `Python` `agentic-skills` `ai-agents` `antigravity` `autonomous-coding` `claude-code`
 
-⭐ 7.8k • 🔱 1.6k • 4h ago
+⭐ 7.9k • 🔱 1.6k • 1h ago
 
 ---
 
@@ -687,7 +687,7 @@ Marketing skills for Claude Code and AI agents. CRO, copywriting, SEO, analytics
 
 `claude` `codex` `marketing`
 
-⭐ 6.7k • 🔱 746 • 4d ago
+⭐ 6.7k • 🔱 751 • 4d ago
 
 ---
 
@@ -695,7 +695,7 @@ Marketing skills for Claude Code and AI agents. CRO, copywriting, SEO, analytics
 
 Elevate your AI research writing, no more tedious polishing ✨ 
 
-⭐ 4.7k • 🔱 367 • 3d ago
+⭐ 4.7k • 🔱 368 • 3d ago
 
 ---
 
@@ -703,7 +703,7 @@ Elevate your AI research writing, no more tedious polishing ✨
 
 Claude Code skill that removes signs of AI-generated writing from text
 
-⭐ 4.4k • 🔱 363 • 16d ago
+⭐ 4.4k • 🔱 364 • 16d ago
 
 ---
 
@@ -731,7 +731,7 @@ PaperBanana: Automating Academic Illustration For AI Scientists
 
 `JavaScript`
 
-⭐ 2.4k • 🔱 110 • 5d ago
+⭐ 2.5k • 🔱 112 • 5d ago
 
 ---
 

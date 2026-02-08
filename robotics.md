@@ -3,13 +3,13 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-02-08T11:27:05.599504+00:00'
+updated: '2026-02-08T11:47:33.879556+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- social
 - videos
+- social
 - news
 ---
 
@@ -17,7 +17,7 @@ data_types:
 
 Robotics research and industry news
 
-**Last Updated:** February 08, 2026 at 11:27 UTC  
+**Last Updated:** February 08, 2026 at 11:47 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -31,6 +31,12 @@ Robotics research and industry news
 ---
 
 ## Reddit: r/robotics
+
+**[LeRobot's ACT running on my robotic arm](https://www.reddit.com/r/robotics/comments/1qz65ru/lerobots_act_running_on_my_robotic_arm/)**
+
+45m ago
+
+---
 
 **[Tiny robot from Pantograph, building with jenga blocks](https://www.reddit.com/r/robotics/comments/1qyc7xo/tiny_robot_from_pantograph_building_with_jenga/)**
 
@@ -102,23 +108,69 @@ My boyfriend is a computer science major and is about to graduate. He’s really
 
 ---
 
-**[CasADi → native GPU kernels → Pytorch / Cupy / C++ [Batch 100K + evaluations in ms]](https://www.reddit.com/r/robotics/comments/1qxy5p7/casadi_native_gpu_kernels_pytorch_cupy_c_batch/)**
-
-Just pushed an update to casadi-on-gpu that lets you generate CUDA kernels directly from CasADi and call them from C++, PyTorch, or CuPy. Useful for MPC, sampling, system ID, and robotics pipelines at scale.
-
-1d ago
-
----
-
 ---
 
 ## Google News: "robotics"
+
+**[Elon Musk warns the U.S. is '1,000% going to go bankrupt' unless AI and robotics save the economy from crushing debt](https://fortune.com/2026/02/07/elon-musk-us-bankruptcy-ai-robotics-economic-growth-national-debt-crisis/)**
+
+"We just need enough time to build the AI and robots to not go bankrupt before then."
+
+Fortune • 16h ago
+
+---
+
+**[Walmart to add automation, robotics to Louisiana distribution center](https://www.supplychaindive.com/news/walmart-automation-robotics-opelousas-louisiana-distribution-center/811025/)**
+
+The retailer’s $330 million investment, slated to start this year, is part of a larger effort to upgrade all 42 of its regional distribution facilities.
+
+Supply Chain Dive • 2d ago
+
+---
 
 **[Making robots useful and affordable will need better motors](https://www.bbc.com/news/articles/c5y46356zzyo)**
 
 Firms are working to make the motors that drive robots more efficient and cheaper.
 
 BBC • 2d ago
+
+---
+
+**[Bills introduced to strengthen U.S. robotics competitiveness, humanoid security](https://www.therobotreport.com/bills-introduced-strengthen-u-s-robotics-competitiveness-humanoid-security/)**
+
+The bills seek to establish a National Commission on Robotics and restrict humanoid imports for U.S. security and competitiveness.
+
+The Robot Report • 1d ago
+
+---
+
+**[ASUS IoT Introduces PE1000U Rugged Fanless DIN-Rail Industrial PC for AMR, Robotics, and Computer Vision](https://press.asus.com/news/press-releases/asus-iot-pe1000u-industrial-pc/)**
+
+ASUS IoT PE1000U: Rugged, fanless DIN-rail industrial PC with Intel Core Ultra Series 2. Ideal for AMR, robotics & computer vision at the edge! Subscribe to ASUS Pressroom for the latest tech updates!
+
+ASUS Pressroom • 2d ago
+
+---
+
+**[This Robotics Stock Is Up 141% Over the Past Year. Can It Go Higher in 2026?](https://finance.yahoo.com/news/robotics-stock-141-over-past-192206641.html)**
+
+After an explosive 2025 rally, can Teradyne stock continue its climb this year?
+
+Yahoo Finance • 2d ago
+
+---
+
+**[Champion robots invite global teams to Beijing humanoid games](https://news.cgtn.com/news/2026-02-07/Champion-robots-invite-global-teams-to-Beijing-humanoid-games-1Kz0De1iOE8/p.html)**
+
+The champion robots from last year's inaugural World Humanoid Robot Games on Friday issued a global invitation for more international robotics teams to join the event's second edition, which will be held in Beijing later this year.The advanced humanoids
+
+news.cgtn.com • 1d ago
+
+---
+
+**[Why Do We Feel Empathy for Robots?](https://www.bloomberg.com/opinion/articles/2026-02-05/why-do-we-feel-empathy-for-robots)**
+
+Bloomberg.com • 2d ago
 
 ---
 
@@ -130,67 +182,11 @@ Futurism • 18h ago
 
 ---
 
-**[I'm a 25-year-old founder who loves robots but too many humanoids are militant and creepy-looking. Things need to change—just look at Elon Musk](https://fortune.com/2026/02/05/25-year-old-robotics-founder-says-too-many-creepy-militant-look-at-elon-musk/)**
-
-Who’s raising our robots? Teaching social norms in the age of humanoid robots.
-
-Fortune • 2d ago
-
----
-
-**[The Rapid Rise of Humanoid Robots](https://oilprice.com/Energy/Energy-General/The-Rapid-Rise-of-Humanoid-Robots.html)**
-
-Automakers including Tesla and Hyundai are investing heavily in humanoid robots as a long-term cost-saving strategy, even as questions remain over productivity, technical feasibility, and the risk of widespread job losses.
-
-Crude Oil Prices Today | OilPrice.com • 13h ago
-
----
-
-**[Boston Dynamics: building robots to do the jobs humans shouldn’t](https://interestingengineering.com/innovation/boston-dynamics-building-robots-to-do-the-jobs-humans-shouldnt)**
-
-Boston Dynamics’ Aya Durbin explains the engineering challenges behind deploying humanoid robots in messy, real-world settings.
-
-Interesting Engineering • 1d ago
-
----
-
-**[These 3 Stocks Could Be the Best Ways to Invest in the Humanoid Robot Trend](https://www.fool.com/investing/2026/02/07/these-3-stocks-could-be-the-best-ways-to-invest-in/)**
-
-If humanoid robots really are about to enter the mainstream, the first signs of that trend might appear in these three stocks.
-
-The Motley Fool • 21h ago
-
----
-
-**[This Video of Hilariously Slow Robots Putting Olive Oil in a Bag Is Actually Pretty Impressive](https://gizmodo.com/this-video-of-hilariously-slow-robots-putting-olive-oil-in-a-bag-is-actually-pretty-impressive-2000718202)**
-
-Robots that can actually do things are not slick yet, and it's a relief when robotics companies don't hide from that.
-
-Gizmodo • 2d ago
-
----
-
 **[‘We are cooked’: Watch humanoid robots practice kung fu with monks at China’s Shaolin Temple](https://indianexpress.com/article/trending/trending-globally/humanoid-robots-practice-kung-fu-with-monks-at-china-shaolin-temple-10517235/)**
 
 The robots were developed by AgiBot, a Shanghai-based robotics company known for building AI-powered humanoid machines at scale.
 
 The Indian Express • 2d ago
-
----
-
-**[Watch: Humanoid robots work together using the same AI 'brain'](https://www.euronews.com/next/2026/02/05/watch-humanoid-robots-work-together-using-the-same-ai-brain)**
-
-Until now, humanoid robots have largely worked on their own. A new AI system is designed to run them together.
-
-Euronews.com • 2d ago
-
----
-
-**[Walmart to add automation, robotics to Louisiana distribution center](https://www.supplychaindive.com/news/walmart-automation-robotics-opelousas-louisiana-distribution-center/811025/)**
-
-The retailer’s $330 million investment, slated to start this year, is part of a larger effort to upgrade all 42 of its regional distribution facilities.
-
-Supply Chain Dive • 2d ago
 
 ---
 
@@ -204,7 +200,17 @@ Humanoid robots just entered a new phase of realism. In Shanghai, DroidUp reveal
 
 📺 AI Revolution
 
-👁️ 198K • 👍 4K • 💬 844 • ⏱️ 13:31 • 3d ago
+👁️ 201K • 👍 4K • 💬 842 • ⏱️ 13:31 • 3d ago
+
+---
+
+**[Atlas Airborne | Boston Dynamics &amp; @rai-inst](https://www.youtube.com/watch?v=UNorxwlZlFk)**
+
+Now that the Atlas enterprise platform is getting to work, the research version gets one last run in the sun. Our engineers made ...
+
+📺 Boston Dynamics
+
+👁️ 310K • 👍 18K • 💬 2K • ⏱️ 1:38 • 21h ago
 
 ---
 
@@ -214,7 +220,7 @@ The Atlas Airborne Robot takes one final research run as Boston Dynamics pushes 
 
 📺 DPCcars
 
-👁️ 10K • 👍 132 • 💬 21 • ⏱️ 2:45 • 16h ago
+👁️ 12K • 👍 152 • 💬 25 • ⏱️ 2:45 • 16h ago
 
 ---
 
@@ -224,7 +230,7 @@ Pan Motor's Wuji Hand packs twenty fully actuated joints into a sub six hundred 
 
 📺 Deepen
 
-👁️ 5K • 👍 116 • 💬 5 • ⏱️ 0:19 • 9h ago
+👁️ 8K • 👍 260 • 💬 5 • ⏱️ 0:19 • 9h ago
 
 ---
 
@@ -234,7 +240,7 @@ Pan Motor's Wuji Hand packs twenty fully actuated joints into a sub six hundred 
 
 📺 Unitree Robotics
 
-👁️ 134K • 👍 1K • 💬 151 • ⏱️ 0:45 • 6d ago
+👁️ 135K • 👍 1K • 💬 151 • ⏱️ 0:45 • 6d ago
 
 ---
 
@@ -244,7 +250,7 @@ XPeng just showed the world what real humanoid robot progress looks like. During
 
 📺 DPCcars
 
-👁️ 39K • 👍 156 • 💬 53 • ⏱️ 2:06 • 6d ago
+👁️ 39K • 👍 157 • 💬 54 • ⏱️ 2:06 • 6d ago
 
 ---
 
@@ -254,7 +260,17 @@ Capybara's golden robot lion was sabotaged by Brianna before the big competition
 
 📺 CapyEscapes
 
-👁️ 34K • 👍 1K • 💬 150 • ⏱️ 0:59 • 23h ago
+👁️ 34K • 👍 1K • 💬 151 • ⏱️ 0:59 • 1d ago
+
+---
+
+**[This Robot Produces Speech the Human Way 😮](https://www.youtube.com/watch?v=L0M5fs_phpA)**
+
+This Robot Produces Speech the Human Way This system generates speech using physical movement rather than digital ...
+
+📺 MrScoopz
+
+👁️ 8.4M • 👍 51K • 💬 2K • ⏱️ 0:05 • 6d ago
 
 ---
 
@@ -268,31 +284,13 @@ This robotic mouth is designed to replicate how real human lips move while speak
 
 ---
 
-**[This Robot Produces Speech the Human Way 😮](https://www.youtube.com/watch?v=L0M5fs_phpA)**
+**[These Microscopic Bubble Robots Can Find Cancer On Their Own &amp; Fight Against It #robot #shorts](https://www.youtube.com/watch?v=sD_s2oxqOO8)**
 
-This Robot Produces Speech the Human Way This system generates speech using physical movement rather than digital ...
+Tiny Bubble Robots Could Revolutionize Cancer Treatment Scientists at Caltech and USC have created tiny “bubble robots” that ...
 
-📺 MrScoopz
+📺 uncover reality
 
-👁️ 8.1M • 👍 49K • 💬 2K • ⏱️ 0:05 • 6d ago
-
----
-
-**[This balancing robot comes as a DIY kit](https://www.youtube.com/watch?v=ehoSXsC0a38)**
-
-BABOT balancing robot kit https://www.instagram.com/babot_project/ For copyright matters, please get in touch with us at: ...
-
-📺 Unstoppable Gadgets
-
-👁️ 7K • 👍 212 • 💬 11 • ⏱️ 0:16 • 14h ago
-
----
-
-**[Tesla Robot handles upside down popcorn. It’s crazy how much these will change everything.](https://www.youtube.com/watch?v=PlEGwoJmon8)**
-
-📺 Tesla Owners Silicon Valley
-
-👁️ 70K • 👍 2K • 💬 71 • ⏱️ 0:40 • 2d ago
+👁️ 21K • 👍 239 • 💬 13 • ⏱️ 0:06 • 1d ago
 
 ---
 

@@ -3,14 +3,14 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-02-08T11:27:05.596324+00:00'
+updated: '2026-02-08T11:47:33.876345+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- social
 - videos
 - news
+- social
 - cryptocurrency
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** February 08, 2026 at 11:27 UTC  
+**Last Updated:** February 08, 2026 at 11:47 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -36,33 +36,33 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Price
 
-### $2,102.66
+### $2,125.96
 
 ---
 
 ## Ethereum Chart
 
-**24h:** +3.5%  
-**7d:** -10.8%  
-**30d:** -32.3%  
-**90d:** -38.7%  
-**1y:** -20.5%  
+**24h:** +3.9%  
+**7d:** -9.5%  
+**30d:** -31.2%  
+**90d:** -37.8%  
+**1y:** -19.3%  
 
 ---
 
 ## Ethereum Market Stats
 
-**Market Cap:** $254.35B
+**Market Cap:** $256.65B
 Rank #2
 
 **Circulating Supply:** 120,692,627 ETH
 No max supply
 
 **All-Time High:** $4,946.05
--57.4%
+-57.1%
 
 **All-Time Low:** $0.43
-+486805.8%
++490073.9%
 
 ---
 
@@ -78,7 +78,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 **[I built the first fully on-chain, 100% decentralized, ETH-in ETH-out (no new token), skill based competitive gaming platform](https://www.reddit.com/r/ethereum/comments/1qz1wbo/i_built_the_first_fully_onchain_100_decentralized/)**
 
-4h ago
+5h ago
 
 ---
 
@@ -152,7 +152,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 Ethereum's shift to a new cryptocurrency mining mechanism has demonstrated how the industry is changing its ways.
 
-The Cool Down • 19h ago
+The Cool Down • 20h ago
 
 ---
 
@@ -204,27 +204,27 @@ Nasdaq • 2d ago
 
 ---
 
-**[Ethereum Price Is Not Going To Keep Falling Forever, Analyst Says](https://www.tradingview.com/news/newsbtc:6ebc821a3094b:0-ethereum-price-is-not-going-to-keep-falling-forever-analyst-says/)**
-
-Ethereum’s recent sell-off has weighed heavily on sentiment after the price fell below the $2,000 level and pulled much of the altcoin market lower alongside it. The move has caused sweeping fear and caution among Ethereum traders. However, some analysts are of the notion that a bullish upside will…
-
-TradingView • 8h ago
-
----
-
-**[Ethereum Weekly Price Forecast: Trend Research capitulates, BitMine's Thomas Lee sees a V-shaped recovery](https://www.fxstreet.com/cryptocurrencies/news/ethereum-weekly-price-forecast-trend-research-capitulates-bitmines-thomas-lee-sees-a-v-shaped-recovery-202602071422)**
-
-Ethereum (ETH) had one of its sharpest historic declines over the past 10 days, shedding 40% of its value and briefly sliding below $2,000.
-
-FXStreet • 21h ago
-
----
-
 **[Solana’s quiet takeover – Can SOL profit from the FUD around Ethereum?](https://ambcrypto.com/solanas-quiet-takeover-can-sol-profit-from-the-fud-around-ethereum/)**
 
 Solana may be outperforming Ethereum across key metrics right now.
 
 AMBCrypto • 6h ago
+
+---
+
+**[BitMine Ethereum Treasury Losses And Leadership Changes Put BMNR Under Scrutiny](https://finance.yahoo.com/news/bitmine-ethereum-treasury-losses-leadership-170707091.html)**
+
+BitMine Immersion Technologies, ticker NYSEAM:BMNR, is reporting nearly $8b in unrealized losses tied to its Ethereum holdings after a sharp pullback in ETH prices. The company continues to frame its large Ethereum position and staking operations as part of a long term treasury approach, while continuing to accumulate ETH. Recent executive turnover, including the amicable separation of President Erik Nelson, is adding another layer of uncertainty for shareholders during heightened crypto...
+
+Yahoo Finance • 18h ago
+
+---
+
+**[Ethereum (ETH) news: BitMine (BMNR) faces $8 billion paper loss on ether holdings](https://www.coindesk.com/business/2026/02/05/tom-lee-s-bitmine-now-usd8-billion-underwater-as-ether-tumbles-below-usd2-000)**
+
+Despite the mounting loss, the Ethereum treasury firm says it's under no pressure to sell as ETH price crashes and its stock tumbles.
+
+CoinDesk • 2d ago
 
 ---
 
@@ -238,27 +238,17 @@ This video provides a professional Elliott Wave and technical analysis of Ethere
 
 📺 More Crypto Online
 
-👁️ 954 • 👍 123 • 💬 15 • ⏱️ 5:21 • 5h ago
+👁️ 2K • 👍 156 • 💬 10 • ⏱️ 5:21 • 5h ago
 
 ---
 
-**[Ethereum Elliott Wave Update – Key Resistance Levels Ahead](https://www.youtube.com/watch?v=H_Y7-M-mSto)**
+**[BE READY FOR THESE MOVES!🚨 (Ethereum Price Prediction 2026)](https://www.youtube.com/watch?v=Kse3VGjjDP0)**
 
-This video provides a professional Elliott Wave and technical analysis of Ethereum (ETH), focusing on market structure, major ...
+ETHEREUM ETH PRICE PREDICTION 2026 Join the Premium Signal Group for trade setups, mentorship & a community ...
 
-📺 More Crypto Online
+📺 Cilinix Crypto
 
-👁️ 3K • 👍 201 • 💬 10 • ⏱️ 4:56 • 15h ago
-
----
-
-**[BITCOIN &amp; ALTCOINS: New Targets Confirmed (Prepare Now)!!! - Bitcoin News Today, Ethereum &amp; Altcoins](https://www.youtube.com/watch?v=5dz7kqlC6mQ)**
-
-BITCOIN & ALTCOINS: New Targets Confirmed (Prepare Now)!!! - Bitcoin News Today, Ethereum & Altcoins *Bitunix* ...
-
-📺 Crypto World
-
-👁️ 10K • 👍 367 • 💬 205 • ⏱️ 17:07 • 13h ago
+👁️ 143 • 👍 7 • ⏱️ 4:21 • 1h ago
 
 ---
 
@@ -268,7 +258,27 @@ Tom Lee, Fundstrat, joins 'Closing Bell' to discuss the state of crypto markets,
 
 📺 CNBC Television
 
-👁️ 72K • 👍 766 • 💬 305 • ⏱️ 3:53 • 1d ago
+👁️ 74K • 👍 777 • 💬 309 • ⏱️ 3:53 • 1d ago
+
+---
+
+**[BITCOIN &amp; ALTCOINS: New Targets Confirmed (Prepare Now)!!! - Bitcoin News Today, Ethereum &amp; Altcoins](https://www.youtube.com/watch?v=5dz7kqlC6mQ)**
+
+BITCOIN & ALTCOINS: New Targets Confirmed (Prepare Now)!!! - Bitcoin News Today, Ethereum & Altcoins *Bitunix* ...
+
+📺 Crypto World
+
+👁️ 11K • 👍 386 • 💬 195 • ⏱️ 17:07 • 14h ago
+
+---
+
+**[Ethereum Elliott Wave Update – Key Resistance Levels Ahead](https://www.youtube.com/watch?v=H_Y7-M-mSto)**
+
+This video provides a professional Elliott Wave and technical analysis of Ethereum (ETH), focusing on market structure, major ...
+
+📺 More Crypto Online
+
+👁️ 3K • 👍 204 • 💬 11 • ⏱️ 4:56 • 15h ago
 
 ---
 
@@ -278,7 +288,7 @@ One of the biggest crypto crashes in history! Here is what happened, why and my 
 
 📺 Thomas Kralow
 
-👁️ 39K • 👍 1K • 💬 78 • ⏱️ 11:51 • 1d ago
+👁️ 40K • 👍 1K • 💬 79 • ⏱️ 11:51 • 1d ago
 
 ---
 
@@ -288,17 +298,17 @@ My FREE Daily 5-Min Crypto Newsletter: https://www.cryptonutshell.com/subscribe 
 
 📺 Crypto Nutshell
 
-👁️ 18K • 👍 494 • 💬 156 • ⏱️ 22:22 • 2d ago
+👁️ 19K • 👍 497 • 💬 156 • ⏱️ 22:22 • 2d ago
 
 ---
 
-**[WHY ETH MAY CRASH AGAIN🚨 (Ethereum Price Prediction 2026)](https://www.youtube.com/watch?v=P4mMFFYwyRs)**
+**[8 February Today Crypto Live Trading | @bullishbullmaster #bitcoin #ethereum #cryptotrading #gold](https://www.youtube.com/watch?v=b9WV7PLVi4k)**
 
-ETHEREUM ETH PRICE PREDICTION 2026 Join the Premium Signal Group for trade setups, mentorship & a community ...
+ALL TRADING PLATFORMS Telegram Link https://telegram.me/bullishbull Join Whatsapp Channel ...
 
-📺 Cilinix Crypto
+📺 Bullish Bull Master
 
-👁️ 851 • 👍 28 • 💬 8 • ⏱️ 5:23 • 1d ago
+👁️ 6K • 👍 564 • 2h ago
 
 ---
 
@@ -308,27 +318,17 @@ Uhh... so... is anyone else getting that strange feeling that something big is a
 
 📺 Money Rules - Investing Tips 
 
-👁️ 13K • 👍 2K • 💬 220 • ⏱️ 13:13 • 1d ago
+👁️ 13K • 👍 2K • 💬 218 • ⏱️ 13:13 • 1d ago
 
 ---
 
-**[“This Crash Might Be the Setup Most Crypto Holders Are Missing&quot; – Matt Hougan](https://www.youtube.com/watch?v=gMUdNWz4eaI)**
+**[Live Trading in Crypto | BTC and ETH Trading | IFW Live Trading](https://www.youtube.com/watch?v=y7emYDIB7RY)**
 
-Take Control of Your Retirement — Grow Crypto & Gold Tax-Advantaged. https://www.itrustcapital.com/go/savvy-finance If you're ...
+Follow The All Account Opening Link ⏩⏩⏩⏩⏩ send screenshoot after open account - 62800 19674 we will add you in our ...
 
-📺 Savvy Finance
+📺 Invest For Wealth
 
-👁️ 8K • 👍 344 • 💬 12 • ⏱️ 20:57 • 2d ago
-
----
-
-**[The Ethereum Bottom ISN&#39;T In Yet.](https://www.youtube.com/watch?v=zFcWMpTYIQA)**
-
-Get $450 Off Our New AI Indicators: https://tradeconfidentportal.io/indic... Join Trade Confident: Get 25% Off Your 1st Month: ...
-
-📺 Trade Confident
-
-👁️ 805 • 👍 27 • 💬 2 • ⏱️ 5:06 • 1d ago
+👁️ 1K • 👍 390 • 1h ago
 
 ---
 
