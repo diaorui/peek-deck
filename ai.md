@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-02-08T22:59:26.467220+00:00'
+updated: '2026-02-08T23:40:14.283762+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- social
 - news
-- videos
+- social
 - repositories
+- videos
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** February 08, 2026 at 22:59 UTC  
+**Last Updated:** February 08, 2026 at 23:40 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -41,7 +41,7 @@ AI news, discussions, and developments
 
 Just wanted to say thanks for the thoughtful discussion and feedback on my previous post. I did not expect that level of interest, and I appreciate how constructive most of the comments were. Based on a few requests, I put together a short demonstration showing the system applied to a deliberately difficult street-level image. No obvious landmarks, no readable signage, no metadata. The location was verified in under two minutes. I am still undecided on the long-term direction of this work. That said, if there are people here interested in collaborating from a research, defensive, or ethical perspective, I am open to conversations. That could mean validation, red-teaming anything else. Thanks again to the community for the earlier discussion. Happy to answer high-level questions and hear thoughts on where tools like this should and should not go.
 
-12h ago
+13h ago
 
 ---
 
@@ -49,7 +49,7 @@ Just wanted to say thanks for the thoughtful discussion and feedback on my previ
 
 Refined view for 'Who benefits from opacity?' in Opacity as Strategy: How AI Companies Weaponize the Black Box
 
-🔗 [lightcap.ai](https://lightcap.ai/r/r_1770584351_56503c88af) • 1h ago
+🔗 [lightcap.ai](https://lightcap.ai/r/r_1770584351_56503c88af) • 2h ago
 
 ---
 
@@ -57,7 +57,7 @@ Refined view for 'Who benefits from opacity?' in Opacity as Strategy: How AI Com
 
 Every AI API provider gives you a snapshot of current usage. None of them show you trends over time, project when you will hit your limit, or let you compare across providers. I built onWatch to solve this. It runs in the background as a single Go binary, polls your configured providers every 60 seconds, stores everything locally in SQLite, and serves a web dashboard. What it shows you that providers do not: Usage history from 1 hour to 30 days Live countdowns to each quota reset Rate projections so you know if you will run out before the reset All providers side by side in one view Around 28 MB RAM, no dependencies, no telemetry, GPL-3.0. All data stays on your machine. https://onwatch.onllm.dev https://github.com/onllm-dev/onWatch
 
-12h ago
+13h ago
 
 ---
 
@@ -121,7 +121,7 @@ One of Kimi’s browser automation scripts uses a dark web library with crypto s
 
 **[Can AI Chatbots Write Emotionally Rich Romance Books?](https://www.nytimes.com/2026/02/08/business/ai-claude-romance-books.html)**
 
-The New York Times • 7h ago
+The New York Times • 8h ago
 
 ---
 
@@ -129,7 +129,7 @@ The New York Times • 7h ago
 
 Protecting your portfolio from a crash looks harder than ever
 
-The Economist • 8h ago
+The Economist • 9h ago
 
 ---
 
@@ -153,7 +153,7 @@ CNBC • 2d ago
 
 To help alleviate the stress, 1 in 5 people also explained that they will use A.I. to help file their taxes this year
 
-cbsnews.com • 33m ago
+cbsnews.com • 1h ago
 
 ---
 
@@ -169,7 +169,7 @@ Axios • 16h ago
 
 While AI is having an impact on the workplace, experts suggest tariffs, overhiring during the pandemic and simply maximising profits may be bigger factors
 
-The Guardian • 6h ago
+The Guardian • 7h ago
 
 ---
 
@@ -177,7 +177,7 @@ The Guardian • 6h ago
 
 A Cardiff University researcher recreated her own voice using a deathbot - but found it strange.
 
-BBC • 15h ago
+BBC • 16h ago
 
 ---
 
@@ -221,7 +221,7 @@ The hundreds of billions of dollars being spent by tech companies on AI projects
 
 You're using AI to be more productive. So why are you more exhausted than ever? The paradox every engineer needs to confront.
 
-⬆️ 378 • 💬 274 • 8h ago • [Siddhant Khare](https://siddhantkhare.com/writing/ai-fatigue-is-real)
+⬆️ 378 • 💬 274 • 9h ago • [Siddhant Khare](https://siddhantkhare.com/writing/ai-fatigue-is-real)
 
 ---
 
@@ -245,7 +245,7 @@ A minimal, secure Python interpreter written in Rust for use by AI - pydantic/mo
 
 Contribute to localgpt-app/localgpt development by creating an account on GitHub.
 
-⬆️ 311 • 💬 145 • 21h ago • [GitHub](https://github.com/localgpt-app/localgpt)
+⬆️ 311 • 💬 145 • 22h ago • [GitHub](https://github.com/localgpt-app/localgpt)
 
 ---
 
@@ -253,7 +253,7 @@ Contribute to localgpt-app/localgpt development by creating an account on GitHub
 
 Matchlock secures AI agent workloads with a Linux-based sandbox. - jingkaihe/matchlock
 
-⬆️ 132 • 💬 55 • 14h ago • [GitHub](https://github.com/jingkaihe/matchlock)
+⬆️ 132 • 💬 55 • 15h ago • [GitHub](https://github.com/jingkaihe/matchlock)
 
 ---
 
@@ -275,7 +275,7 @@ A California man is facing a criminal charge for allegedly BASE jumping off Glac
 
 **[Ask HN: Anyone Using a Mac Studio for Local AI/LLM?](https://news.ycombinator.com/item?id=46907001)**
 
-⬆️ 54 • 💬 35 • 2d ago
+⬆️ 54 • 💬 35 • 3d ago
 
 ---
 
@@ -299,7 +299,7 @@ Become a member! ✓ https://www.youtube.com/channel/UCahJ9IsvXnaQiuNyWQSkrkw/jo
 
 📺 BlazeTV
 
-👁️ 10K • 👍 720 • 💬 115 • ⏱️ 13:47 • 10h ago
+👁️ 10K • 👍 720 • 💬 115 • ⏱️ 13:47 • 11h ago
 
 ---
 
@@ -309,7 +309,7 @@ Navellier and Associates chairman, founder and CIO Louis Navellier discusses how
 
 📺 Fox Business
 
-👁️ 10K • 👍 168 • 💬 116 • ⏱️ 5:09 • 19h ago
+👁️ 10K • 👍 168 • 💬 116 • ⏱️ 5:09 • 20h ago
 
 ---
 
@@ -319,7 +319,7 @@ AI coding just entered a new phase of competition. In the same week, OpenAI unve
 
 📺 AI Revolution
 
-👁️ 33K • 👍 766 • 💬 41 • ⏱️ 13:09 • 1d ago
+👁️ 33K • 👍 766 • 💬 41 • ⏱️ 13:09 • 2d ago
 
 ---
 
@@ -329,7 +329,7 @@ Can you spot AI videos easily? #tech #ai #surfshark.
 
 📺 Surfshark Academy
 
-👁️ 13K • 👍 2K • 💬 57 • ⏱️ 1:17 • 7h ago
+👁️ 13K • 👍 2K • 💬 57 • ⏱️ 1:17 • 8h ago
 
 ---
 
@@ -667,7 +667,7 @@ LLM驱动的 A/H/美股智能分析器，多数据源行情 + 实时新闻 + Gem
 
 `Python` `agent` `ai` `aigc` `gemini` `llm`
 
-⭐ 9.9k • 🔱 10.4k • 12h ago
+⭐ 9.9k • 🔱 10.4k • 13h ago
 
 ---
 
@@ -677,7 +677,7 @@ The Ultimate Collection of 700+ Agentic Skills for Claude Code/Antigravity/Curso
 
 `Python` `agentic-skills` `ai-agents` `antigravity` `autonomous-coding` `claude-code`
 
-⭐ 7.9k • 🔱 1.6k • 12h ago
+⭐ 7.9k • 🔱 1.6k • 13h ago
 
 ---
 
@@ -713,7 +713,7 @@ OpenSource Claude Cowork. A desktop AI assistant that helps you with programming
 
 `TypeScript`
 
-⭐ 2.8k • 🔱 379 • 19h ago
+⭐ 2.8k • 🔱 379 • 20h ago
 
 ---
 
@@ -731,7 +731,7 @@ PaperBanana: Automating Academic Illustration For AI Scientists
 
 `JavaScript`
 
-⭐ 2.6k • 🔱 123 • 5d ago
+⭐ 2.6k • 🔱 123 • 6d ago
 
 ---
 

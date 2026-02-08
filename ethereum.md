@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-02-08T22:59:26.483141+00:00'
+updated: '2026-02-08T23:40:14.298169+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- social
 - news
 - cryptocurrency
 - videos
+- social
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** February 08, 2026 at 22:59 UTC  
+**Last Updated:** February 08, 2026 at 23:40 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -72,7 +72,7 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-16h ago
+17h ago
 
 ---
 
@@ -88,7 +88,7 @@ So I have some eth staked on coinbase but wondering how risky it is.. should I b
 
 I manually architected a Dual-STACK Execution and Consensus Engine that bypasses the entire public RPC industry. Hardware; Managed a 4TB NVMe volume with 3.3TB Optimism state and a pruned L1 Reth/Lighthouse combo. I compiled Lighthouse and Reth from source after Optimism-specific codebase was deprecated mid-sync. I achieved 0ms IPC round trips by killing the dependency on Alchemy/Infura Ran into a few problems along the way. I tried to run a standard Ethereum binary on Optimism data. The node crashed because it saw a transaction type it didn't recognize (Type 126 which is an Optimism deposit) Standard Ethereum node thinks this is illegal data. To fix it, I identified that i needed a specialized OP-Stack aware version of Reth. I tracked down the Paradigm Reth Optimism binary. By switching to the op-reth binary i gave the node the dictionary it needed to translate those Type 126 deposits into valid blocks. I moved from a blind Ethereum node to a Super chain-aware engine. The Reth engine was idling. It had peers and a database, but it didn't know where the tip of the chain was, so it stayed at block 0. I realized a modern node was a Two-Part Machine. So I built the Lighthouse Consensus Client from source to be the "Driver" Instead of waiting weeks to download the chain from 2015 i used a Checkpoint Sync URL. I linked Lighthouse to Reth via the Engine API ()Port 8551/8552) using a shared JWT Secret. The moment Lighthouse found the "Truth" on the network, it handed the coordinates to Reth. The node immediately jumped from 0 to 21,800,000 and the 1.9TB of free space started filling with real history. The real nightmare scenario happened when I was syncing the snapshot data and because of a single transaction type the whole thing crashed. My sync was flying for about 15 hours and when I woke up to check it found it had stalled. It hit block 144,528215 where it encountered an Optimism-specific Type 126 Deposit transaction. Because I was running the standard Ethereum Reth binary instead of the specialized Op-Reth version from paradigm, the node literally didn't have the code to read it understand what type 126 transaction it was. This didn't just crash the sync, it left garbage data at the tip of my database, which blocked further progress until I swapped binary and manually forced a stage rewind to clear corruption. In the grand scheme of thing's it was a rookie mistake.
 
-4h ago
+5h ago
 
 ---
 
@@ -96,7 +96,7 @@ I manually architected a Dual-STACK Execution and Consensus Engine that bypasses
 
 I'm willing to stake my ETH that I have on my ledger, is this safe to use lido from the ledger?
 
-42m ago
+1h ago
 
 ---
 
@@ -104,7 +104,7 @@ I'm willing to stake my ETH that I have on my ledger, is this safe to use lido f
 
 Non-custodial privacy protocol for anonymous ETH transactions. Break the on-chain link using zero-knowledge proofs. Live on Ethereum mainnet.
 
-🔗 [Laundry Cash](https://ethlaundry.xyz) • 5h ago
+🔗 [Laundry Cash](https://ethlaundry.xyz) • 6h ago
 
 ---
 
@@ -160,7 +160,7 @@ The Cool Down • 1d ago
 
 Vitalik signals a shift away from the rollup-centric roadmap. We break down what it means for ETH, L2 tokens, and which models actually work.
 
-unchainedcrypto.com • 1d ago
+unchainedcrypto.com • 2d ago
 
 ---
 
@@ -168,7 +168,7 @@ unchainedcrypto.com • 1d ago
 
 BitMine has expanded its Ethereum hodings by acquiring an additional 20,000 ETH for nearly $42 million this week.
 
-Yahoo Finance • 1h ago
+Yahoo Finance • 2h ago
 
 ---
 
@@ -200,7 +200,7 @@ Mashable • 2d ago
 
 At a conference dedicated to the riskiest traders in finance, Miami's crypto scene appeared far different than during its pandemic-era boom.
 
-Decrypt • 6h ago
+Decrypt • 7h ago
 
 ---
 
@@ -208,7 +208,7 @@ Decrypt • 6h ago
 
 Ethereum’s recent sell-off has weighed heavily on sentiment after the price fell below the $2,000 level and pulled much of the altcoin market lower alongside it. The move has caused sweeping fear and caution among Ethereum traders. However, some analysts are of the notion that a bullish upside will…
 
-TradingView • 19h ago
+TradingView • 20h ago
 
 ---
 
@@ -224,7 +224,7 @@ The Block • 2d ago
 
 Solana may be outperforming Ethereum across key metrics right now.
 
-AMBCrypto • 17h ago
+AMBCrypto • 18h ago
 
 ---
 
@@ -238,7 +238,7 @@ This video provides a professional Elliott Wave and technical analysis of Ethere
 
 📺 More Crypto Online
 
-👁️ 3K • 👍 203 • 💬 13 • ⏱️ 5:58 • 6h ago
+👁️ 3K • 👍 203 • 💬 13 • ⏱️ 5:58 • 7h ago
 
 ---
 
@@ -248,7 +248,7 @@ ETHEREUM ETH PRICE PREDICTION 2026 Join the Premium Signal Group for trade setup
 
 📺 Cilinix Crypto
 
-👁️ 937 • 👍 21 • 💬 4 • ⏱️ 4:21 • 12h ago
+👁️ 937 • 👍 21 • 💬 4 • ⏱️ 4:21 • 13h ago
 
 ---
 
@@ -278,7 +278,7 @@ This video provides a professional Elliott Wave and technical analysis of Ethere
 
 📺 More Crypto Online
 
-👁️ 3K • 👍 212 • 💬 12 • ⏱️ 5:21 • 16h ago
+👁️ 3K • 👍 212 • 💬 12 • ⏱️ 5:21 • 17h ago
 
 ---
 
@@ -288,7 +288,7 @@ L'exchange crypto le plus sérieux du marché, c'est lui. Régulé US & Europe, 
 
 📺 Crypto Mindset Podcast 
 
-👁️ 3K • 👍 201 • 💬 63 • ⏱️ 10:19 • 10h ago
+👁️ 3K • 👍 201 • 💬 63 • ⏱️ 10:19 • 11h ago
 
 ---
 
@@ -328,7 +328,7 @@ Take Control of Your Retirement — Grow Crypto & Gold Tax-Advantaged. https://w
 
 📺 Journal du Coin
 
-👁️ 2K • 👍 177 • 💬 5 • ⏱️ 10:35 • 6h ago
+👁️ 2K • 👍 177 • 💬 5 • ⏱️ 10:35 • 7h ago
 
 ---
 

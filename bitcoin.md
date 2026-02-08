@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-02-08T22:59:26.476121+00:00'
+updated: '2026-02-08T23:40:14.292164+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- social
 - news
 - cryptocurrency
 - videos
+- social
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** February 08, 2026 at 22:59 UTC  
+**Last Updated:** February 08, 2026 at 23:40 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -81,7 +81,7 @@ Rank #1
 
 Congratulations everyone on surviving the 8th biggest single day drawdown in the past 10 years. You all are legends!!!
 
-3h ago
+4h ago
 
 ---
 
@@ -89,13 +89,13 @@ Congratulations everyone on surviving the 8th biggest single day drawdown in the
 
 Im 39years old and unfortunately(or fortunately) because i had to renovate my house for last 3 years i didnt have any money to buy BTC.But i followed whole market for last 5 years with really small portofolio(less than 200€). Now i'm completely debt/loan free. Finally my 3 year bank loan ended friday,and i finally began my DCA journey into BTC at 66k. I guess im kinda lucky that it just had almost 50% drop. I know i can never time the market,and im mentally fully aware we can go back to 35-40k. The reason why i made this thread is because in my life i never talk about BTC so i guess i just wanted to share this with similar minded people
 
-2h ago
+3h ago
 
 ---
 
 **[Comforting my friend who bought BTC @ 120k](https://www.reddit.com/r/Bitcoin/comments/1qyt31t/comforting_my_friend_who_bought_btc_120k/)**
 
-23h ago
+1d ago
 
 ---
 
@@ -103,7 +103,7 @@ Im 39years old and unfortunately(or fortunately) because i had to renovate my ho
 
 Hi everyone! Back in like 2013 or something My husband bought us some bitcoin. I think around $1000 worth, I can’t recall. Unfortunately since then he’s passed away (2018), and while I recall logging in to his wallet and changing the info to include myself and my email address after he passed away, I can’t recall where on earth any of this transpired. I do have the old laptop I did this on, and I hope that can help illuminate things for me so I can find it, but honestly I’m not sure where to begin looking. Back around those days, where would one access to their bitcoin? This was his thing back then, not mine so I have no idea where to start. Any ideas would be helpful.
 
-4h ago
+5h ago
 
 ---
 
@@ -111,7 +111,7 @@ Hi everyone! Back in like 2013 or something My husband bought us some bitcoin. I
 
 The Fed's money printer never stops. Balance sheet still bloated at ~$6.5T, quietly debasing your dollars while inflation eats savings. Bitcoin: fixed 21 million cap. No printing, no dilution, no central control. In a world of infinite fiat, Bitcoin is scarce, hard money - and the ultimate opt-out. Stack sats. The longer they print, the stronger the case for Bitcoin.
 
-11h ago
+12h ago
 
 ---
 
@@ -119,7 +119,7 @@ The Fed's money printer never stops. Balance sheet still bloated at ~$6.5T, quie
 
 Guys, if you've been in this for 7-10 years, you see the same nonsense being spouted every single damn crash. BUY AND HODLATE.
 
-8h ago
+9h ago
 
 ---
 
@@ -127,7 +127,7 @@ Guys, if you've been in this for 7-10 years, you see the same nonsense being spo
 
 'Bitcoin Is Dead' is the best database of notable Bitcoin obituaries and skeptics on the Internet. View names, quotes, publications, source links, and more!
 
-🔗 [bitbo.io](https://bitbo.io/dead/) • 6h ago
+🔗 [bitbo.io](https://bitbo.io/dead/) • 7h ago
 
 ---
 
@@ -163,7 +163,7 @@ Over the past year I have received 4 unknown deposits into my Trezor hardware wa
 
 The “Bitcoin to $0” narrative is surging again. Market sentiment has flipped decisively bearish. Bullish credibility is weakening. “Every time I ask a Bitcoin true ...
 
-Yahoo Finance • 12h ago
+Yahoo Finance • 13h ago
 
 ---
 
@@ -171,7 +171,7 @@ Yahoo Finance • 12h ago
 
 Goldman Sachs warns up to $80 billion in equity selling could intensify liquidity stress, raising risks for Bitcoin, gold, and silver.
 
-Yahoo Finance • 1h ago
+Yahoo Finance • 2h ago
 
 ---
 
@@ -280,7 +280,7 @@ Bitcoin outlook turns bearish as Pivotus’ Richard Farr targets BTC at $0 and M
 
 The crypto crash is coming — and the landing won’t be pretty
 
-⬆️ 5 • 💬 1 • 6h ago • [ft.com](https://www.ft.com/content/2b030926-2012-4446-b22d-e549e10e7086)
+⬆️ 5 • 💬 1 • 7h ago • [ft.com](https://www.ft.com/content/2b030926-2012-4446-b22d-e549e10e7086)
 
 ---
 
@@ -326,7 +326,7 @@ Bitcoin behaves more like an "ATM" during uncertain times, with investors quickl
 
 📺 Money Talks
 
-👁️ 2K • 👍 87 • 💬 5 • ⏱️ 11:09 • 4h ago
+👁️ 2K • 👍 87 • 💬 5 • ⏱️ 11:09 • 5h ago
 
 ---
 
@@ -346,7 +346,7 @@ If you've been waiting for a real Bitcoin opportunity, this may be it ➡️  . 
 
 📺 Ross Givens
 
-👁️ 2K • 👍 117 • 💬 36 • ⏱️ 2:28 • 9h ago
+👁️ 2K • 👍 117 • 💬 36 • ⏱️ 2:28 • 10h ago
 
 ---
 
@@ -366,7 +366,7 @@ Bitcoin tumbled below $61000, as the unwinding of leveraged bets and broader mar
 
 📺 Bloomberg News
 
-👁️ 2K • 👍 40 • 💬 1 • ⏱️ 1:11 • 3h ago
+👁️ 2K • 👍 40 • 💬 1 • ⏱️ 1:11 • 4h ago
 
 ---
 
