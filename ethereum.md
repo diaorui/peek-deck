@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-02-08T17:27:29.058097+00:00'
+updated: '2026-02-08T17:54:44.695948+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
 - social
 - videos
-- cryptocurrency
 - news
+- cryptocurrency
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** February 08, 2026 at 17:27 UTC  
+**Last Updated:** February 08, 2026 at 17:54 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -36,33 +36,33 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Price
 
-### $2,105.39
+### $2,084.50
 
 ---
 
 ## Ethereum Chart
 
-**24h:** +2.3%  
-**7d:** -9.9%  
-**30d:** -31.6%  
-**90d:** -38.1%  
-**1y:** -19.7%  
+**24h:** -0.2%  
+**7d:** -10.8%  
+**30d:** -32.3%  
+**90d:** -38.7%  
+**1y:** -20.4%  
 
 ---
 
 ## Ethereum Market Stats
 
-**Market Cap:** $253.67B
+**Market Cap:** $252.37B
 Rank #2
 
 **Circulating Supply:** 120,692,627 ETH
 No max supply
 
 **All-Time High:** $4,946.05
--57.5%
+-57.7%
 
 **All-Time Low:** $0.43
-+485177.6%
++482805.6%
 
 ---
 
@@ -76,9 +76,25 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 ---
 
+**[Staking on coinbase or... ??](https://www.reddit.com/r/ethereum/comments/1qzfbqx/staking_on_coinbase_or/)**
+
+So I have some eth staked on coinbase but wondering how risky it is.. should I be looking somewhere else or is coinbase a good call? I don't answer private messages thanks
+
+13m ago
+
+---
+
+**[Laundry Cash - Ethereum Privacy Protocol](https://www.reddit.com/r/ethereum/comments/1qzekia/laundry_cash_ethereum_privacy_protocol/)**
+
+Non-custodial privacy protocol for anonymous ETH transactions. Break the on-chain link using zero-knowledge proofs. Live on Ethereum mainnet.
+
+🔗 [Laundry Cash](https://ethlaundry.xyz) • 41m ago
+
+---
+
 **[I built the first fully on-chain, 100% decentralized, ETH-in ETH-out (no new token), skill based competitive gaming platform](https://www.reddit.com/r/ethereum/comments/1qz1wbo/i_built_the_first_fully_onchain_100_decentralized/)**
 
-10h ago
+11h ago
 
 ---
 
@@ -128,22 +144,6 @@ im jef, and im honestly just starting to get into crypto, trying to understand h
 
 ---
 
-**[Ethereum / Solidity good lyrics](https://www.reddit.com/r/ethereum/comments/1qxa1xp/ethereum_solidity_good_lyrics/)**
-
-Good morning, could anyone recommend some good reading material to learn more about the Ethereum blockchain and smart contract development/deployment? I'm an IT professional, so even fairly technical material is fine, but I'd like to have a good overview first before moving on to the development side of things.
-
-2d ago
-
----
-
-**[Daily General Discussion February 05, 2026](https://www.reddit.com/r/ethereum/comments/1qwdcjh/daily_general_discussion_february_05_2026/)**
-
-Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
-
-3d ago
-
----
-
 ---
 
 ## Google News: "ethereum"
@@ -156,25 +156,19 @@ The Cool Down • 1d ago
 
 ---
 
-**[How Buying Ethereum Today Could 10x Your Net Worth](https://www.nasdaq.com/articles/how-buying-ethereum-today-could-10x-your-net-worth)**
+**[With Ethereum Shifting Away From Rollups, These 6 Tokens Will Benefit](https://unchainedcrypto.com/ethereum-lets-go-of-the-rollup-story-here-are-the-6-tokens-that-benefit/)**
 
-Key PointsEther’s price has plunged in 2026.
+Vitalik signals a shift away from the rollup-centric roadmap. We break down what it means for ETH, L2 tokens, and which models actually work.
 
-Nasdaq • 2d ago
-
----
-
-**[Ethereum Price Is Not Going To Keep Falling Forever, Analyst Says](https://www.tradingview.com/news/newsbtc:6ebc821a3094b:0-ethereum-price-is-not-going-to-keep-falling-forever-analyst-says/)**
-
-Ethereum’s recent sell-off has weighed heavily on sentiment after the price fell below the $2,000 level and pulled much of the altcoin market lower alongside it. The move has caused sweeping fear and caution among Ethereum traders. However, some analysts are of the notion that a bullish upside will…
-
-TradingView • 14h ago
+unchainedcrypto.com • 1d ago
 
 ---
 
-**[Ethereum Falls 10% In Bearish Trade](https://www.investing.com/news/cryptocurrency-news/ethereum-falls-10-in-bearish-trade-4488338)**
+**[How cryptocurrency’s second largest coin missed out on the industry’s boom](https://www.theguardian.com/technology/2026/feb/05/cryptocurrency-ethereum-bitcoin-industry)**
 
-Investing.com • 3d ago
+A leaked pitch to reshape Ethereum’s leadership exposed deep divisions over politics, power and Ether’s static price
+
+The Guardian • 3d ago
 
 ---
 
@@ -194,14 +188,6 @@ Mashable • 2d ago
 
 ---
 
-**[How cryptocurrency’s second largest coin missed out on the industry’s boom](https://www.theguardian.com/technology/2026/feb/05/cryptocurrency-ethereum-bitcoin-industry)**
-
-A leaked pitch to reshape Ethereum’s leadership exposed deep divisions over politics, power and Ether’s static price
-
-The Guardian • 3d ago
-
----
-
 **[Ethereum and Solana Are Getting Hit Hard. Are These Top Cryptocurrencies Buys on the Dip?](https://www.fool.com/investing/2026/02/07/ethereum-and-solana-are-getting-hit-hard-are-these/)**
 
 Here's why giving up on Ethereum and Solana now would be a mistake.
@@ -210,11 +196,27 @@ The Motley Fool • 1d ago
 
 ---
 
-**[Bitcoin, Ethereum Liquidations Hit $704M In 24 Hours—And $70,000 Could Break, Polymarket Predicts](https://finance.yahoo.com/news/bitcoin-ethereum-liquidations-hit-704m-120113179.html)**
+**[How Buying Ethereum Today Could 10x Your Net Worth](https://finance.yahoo.com/news/buying-ethereum-today-could-10x-210500420.html)**
 
-Bitcoin (CRYPTO: BTC) traders are bracing for more pain after liquidations reached $704 million in a single 24-hour period. The sharp sell-off has crypto investors turning to prediction markets for clues on where the bottom might be. What Polymarket Traders Are Predicting Polymarket is currently flashing warning signs for the immediate future. The “What price will Bitcoin hit in February?” market, which has already cleared $14 million in volume, now places a 56% probability on Bitcoin sliding to
+The world's second-largest cryptocurrency still has a bright future.
 
-Yahoo Finance • 3d ago
+Yahoo Finance • 2d ago
+
+---
+
+**[Ethereum Price Is Not Going To Keep Falling Forever, Analyst Says](https://www.tradingview.com/news/newsbtc:6ebc821a3094b:0-ethereum-price-is-not-going-to-keep-falling-forever-analyst-says/)**
+
+Ethereum’s recent sell-off has weighed heavily on sentiment after the price fell below the $2,000 level and pulled much of the altcoin market lower alongside it. The move has caused sweeping fear and caution among Ethereum traders. However, some analysts are of the notion that a bullish upside will…
+
+TradingView • 14h ago
+
+---
+
+**[Ethereum Weekly Price Forecast: Trend Research capitulates, BitMine's Thomas Lee sees a V-shaped recovery](https://www.fxstreet.com/cryptocurrencies/news/ethereum-weekly-price-forecast-trend-research-capitulates-bitmines-thomas-lee-sees-a-v-shaped-recovery-202602071422)**
+
+Ethereum (ETH) had one of its sharpest historic declines over the past 10 days, shedding 40% of its value and briefly sliding below $2,000.
+
+FXStreet • 1d ago
 
 ---
 
@@ -236,7 +238,7 @@ ETHEREUM ETH PRICE PREDICTION 2026 Join the Premium Signal Group for trade setup
 
 📺 Cilinix Crypto
 
-👁️ 382 • 👍 17 • 💬 4 • ⏱️ 4:21 • 7h ago
+👁️ 584 • 👍 19 • 💬 12 • ⏱️ 4:21 • 7h ago
 
 ---
 
@@ -246,7 +248,7 @@ Tom Lee, Fundstrat, joins 'Closing Bell' to discuss the state of crypto markets,
 
 📺 CNBC Television
 
-👁️ 76K • 👍 796 • 💬 317 • ⏱️ 3:53 • 1d ago
+👁️ 79K • 👍 820 • 💬 323 • ⏱️ 3:53 • 1d ago
 
 ---
 
@@ -256,7 +258,7 @@ This video provides a professional Elliott Wave and technical analysis of Ethere
 
 📺 More Crypto Online
 
-👁️ 3K • 👍 199 • 💬 12 • ⏱️ 5:21 • 11h ago
+👁️ 3K • 👍 208 • 💬 12 • ⏱️ 5:21 • 11h ago
 
 ---
 
@@ -266,7 +268,7 @@ BITCOIN & ALTCOINS: New Targets Confirmed (Prepare Now)!!! - Bitcoin News Today,
 
 📺 Crypto World
 
-👁️ 12K • 👍 421 • 💬 222 • ⏱️ 17:07 • 19h ago
+👁️ 13K • 👍 430 • 💬 227 • ⏱️ 17:07 • 20h ago
 
 ---
 
@@ -276,17 +278,17 @@ One of the biggest crypto crashes in history! Here is what happened, why and my 
 
 📺 Thomas Kralow
 
-👁️ 41K • 👍 2K • 💬 80 • ⏱️ 11:51 • 2d ago
+👁️ 41K • 👍 2K • 💬 81 • ⏱️ 11:51 • 2d ago
 
 ---
 
-**[“This Crash Might Be the Setup Most Crypto Holders Are Missing&quot; – Matt Hougan](https://www.youtube.com/watch?v=gMUdNWz4eaI)**
+**[Pour l&#39;Empereur d&#39;Ethereum, les rollups doivent être jetés aux lions - Actu crypto 🗞️](https://www.youtube.com/watch?v=kBAooka4YCo)**
 
-Take Control of Your Retirement — Grow Crypto & Gold Tax-Advantaged. https://www.itrustcapital.com/go/savvy-finance If you're ...
+10 % de remise à vie sur vos frais de trading en achetant des cryptos sur Binance ▻ https://journalducoin.com/Binance/CTA10 ...
 
-📺 Savvy Finance
+📺 Journal du Coin
 
-👁️ 8K • 👍 345 • 💬 12 • ⏱️ 20:57 • 2d ago
+👁️ 396 • 👍 73 • ⏱️ 10:35 • 1h ago
 
 ---
 
@@ -300,33 +302,33 @@ Uhh... so... is anyone else getting that strange feeling that something big is a
 
 ---
 
-**[The Ethereum Bottom ISN&#39;T In Yet.](https://www.youtube.com/watch?v=zFcWMpTYIQA)**
-
-Get $450 Off Our New AI Indicators: https://tradeconfidentportal.io/indic... Join Trade Confident: Get 25% Off Your 1st Month: ...
-
-📺 Trade Confident
-
-👁️ 823 • 👍 27 • 💬 2 • ⏱️ 5:06 • 1d ago
-
----
-
 **[Ethereum Elliott Wave Update – Key Resistance Levels Ahead](https://www.youtube.com/watch?v=H_Y7-M-mSto)**
 
 This video provides a professional Elliott Wave and technical analysis of Ethereum (ETH), focusing on market structure, major ...
 
 📺 More Crypto Online
 
-👁️ 4K • 👍 204 • 💬 11 • ⏱️ 4:56 • 21h ago
+👁️ 4K • 👍 205 • 💬 11 • ⏱️ 4:56 • 21h ago
 
 ---
 
-**[WHY ETH MAY CRASH AGAIN🚨 (Ethereum Price Prediction 2026)](https://www.youtube.com/watch?v=P4mMFFYwyRs)**
+**[Il se passe quelque chose de fou sur Ethereum](https://www.youtube.com/watch?v=d9cazkz9KTo)**
 
-ETHEREUM ETH PRICE PREDICTION 2026 Join the Premium Signal Group for trade setups, mentorship & a community ...
+L'exchange crypto le plus sérieux du marché, c'est lui. Régulé US & Europe, jamais hacké, interface clean, support 24/7 ...
 
-📺 Cilinix Crypto
+📺 Crypto Mindset Podcast 
 
-👁️ 911 • 👍 30 • 💬 8 • ⏱️ 5:23 • 1d ago
+👁️ 2K • 👍 164 • 💬 59 • ⏱️ 10:19 • 5h ago
+
+---
+
+**[“This Crash Might Be the Setup Most Crypto Holders Are Missing&quot; – Matt Hougan](https://www.youtube.com/watch?v=gMUdNWz4eaI)**
+
+Take Control of Your Retirement — Grow Crypto & Gold Tax-Advantaged. https://www.itrustcapital.com/go/savvy-finance If you're ...
+
+📺 Savvy Finance
+
+👁️ 8K • 👍 346 • 💬 12 • ⏱️ 20:57 • 2d ago
 
 ---
 
