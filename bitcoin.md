@@ -3,14 +3,14 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-02-08T22:28:48.211367+00:00'
+updated: '2026-02-08T22:59:26.476121+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- cryptocurrency
-- news
 - social
+- news
+- cryptocurrency
 - videos
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** February 08, 2026 at 22:28 UTC  
+**Last Updated:** February 08, 2026 at 22:59 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -44,27 +44,27 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Chart
 
-**24h:** +1.7%  
-**7d:** -10.4%  
-**30d:** -21.9%  
-**90d:** -31.6%  
-**1y:** -26.8%  
+**24h:** +2.6%  
+**7d:** -9.8%  
+**30d:** -21.4%  
+**90d:** -31.1%  
+**1y:** -26.3%  
 
 ---
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1419.29B
+**Market Cap:** $1417.59B
 Rank #1
 
-**Circulating Supply:** 19,986,306 BTC
+**Circulating Supply:** 19,986,365 BTC
 95.2% of max
 
 **All-Time High:** $126,080.00
 -43.7%
 
 **All-Time Low:** $67.81
-+104549.8%
++104529.1%
 
 ---
 
@@ -77,9 +77,11 @@ Rank #1
 
 ## Reddit: r/Bitcoin
 
-**[Comforting my friend who bought BTC @ 120k](https://www.reddit.com/r/Bitcoin/comments/1qyt31t/comforting_my_friend_who_bought_btc_120k/)**
+**[Largest Single Day Bitcoin Drawndowns in the past 10 years](https://www.reddit.com/r/Bitcoin/comments/1qzi46k/largest_single_day_bitcoin_drawndowns_in_the_past/)**
 
-22h ago
+Congratulations everyone on surviving the 8th biggest single day drawdown in the past 10 years. You all are legends!!!
+
+3h ago
 
 ---
 
@@ -91,11 +93,17 @@ Im 39years old and unfortunately(or fortunately) because i had to renovate my ho
 
 ---
 
-**[Largest Single Day Bitcoin Drawndowns in the past 10 years](https://www.reddit.com/r/Bitcoin/comments/1qzi46k/largest_single_day_bitcoin_drawndowns_in_the_past/)**
+**[Comforting my friend who bought BTC @ 120k](https://www.reddit.com/r/Bitcoin/comments/1qyt31t/comforting_my_friend_who_bought_btc_120k/)**
 
-Congratulations everyone on surviving the 8th biggest single day drawdown in the past 10 years. You all are legends!!!
+23h ago
 
-3h ago
+---
+
+**[Help!](https://www.reddit.com/r/Bitcoin/comments/1qzgooo/help/)**
+
+Hi everyone! Back in like 2013 or something My husband bought us some bitcoin. I think around $1000 worth, I can’t recall. Unfortunately since then he’s passed away (2018), and while I recall logging in to his wallet and changing the info to include myself and my email address after he passed away, I can’t recall where on earth any of this transpired. I do have the old laptop I did this on, and I hope that can help illuminate things for me so I can find it, but honestly I’m not sure where to begin looking. Back around those days, where would one access to their bitcoin? This was his thing back then, not mine so I have no idea where to start. Any ideas would be helpful.
+
+4h ago
 
 ---
 
@@ -111,15 +119,7 @@ The Fed's money printer never stops. Balance sheet still bloated at ~$6.5T, quie
 
 Guys, if you've been in this for 7-10 years, you see the same nonsense being spouted every single damn crash. BUY AND HODLATE.
 
-7h ago
-
----
-
-**[Help!](https://www.reddit.com/r/Bitcoin/comments/1qzgooo/help/)**
-
-Hi everyone! Back in like 2013 or something My husband bought us some bitcoin. I think around $1000 worth, I can’t recall. Unfortunately since then he’s passed away (2018), and while I recall logging in to his wallet and changing the info to include myself and my email address after he passed away, I can’t recall where on earth any of this transpired. I do have the old laptop I did this on, and I hope that can help illuminate things for me so I can find it, but honestly I’m not sure where to begin looking. Back around those days, where would one access to their bitcoin? This was his thing back then, not mine so I have no idea where to start. Any ideas would be helpful.
-
-3h ago
+8h ago
 
 ---
 
@@ -135,7 +135,7 @@ Hi everyone! Back in like 2013 or something My husband bought us some bitcoin. I
 
 honestly, after holding since 2021, these dips barely even register anymore. i'm not even checking the charts as often as i used to. is that just me getting old and boring, or are other long-term holders feeling the same?
 
-15h ago
+16h ago
 
 ---
 
@@ -151,7 +151,7 @@ HODL strong through the storms; the future rewards the patient. 🚀 🙌
 
 Over the past year I have received 4 unknown deposits into my Trezor hardware wallet. Each deposit was in the amount of .0000033 bitcoin. Three were in January 2025 and one so far today. Any ideas what these are and should I be worried about my Trezor. It is a Trezor safe 3. Thanks for any help.
 
-16h ago
+17h ago
 
 ---
 
@@ -159,11 +159,19 @@ Over the past year I have received 4 unknown deposits into my Trezor hardware wa
 
 ## Google News: "bitcoin"
 
-**[Trump promised a crypto revolution. So why is bitcoin crashing?](https://www.npr.org/2026/02/07/nx-s1-5704279/trump-crypto-bitcoin-winter)**
+**[Bitcoin Price To $0? Here's Why The Zero Dollar Bitcoin Narrative Is Growing — And Why It May Teach Us Something](https://finance.yahoo.com/news/bitcoin-price-0-heres-why-100215567.html)**
 
-Trump got elected promising to usher in a crypto revolution. More than a year later, bitcoin's price has come tumbling down. What happened?
+The “Bitcoin to $0” narrative is surging again. Market sentiment has flipped decisively bearish. Bullish credibility is weakening. “Every time I ask a Bitcoin true ...
 
-NPR • 1d ago
+Yahoo Finance • 12h ago
+
+---
+
+**[Risks Rise for Bitcoin, Gold, and Silver as Goldman Sachs Warns $80 Billion in Stock Selling](https://finance.yahoo.com/news/risks-rise-bitcoin-gold-silver-211315482.html)**
+
+Goldman Sachs warns up to $80 billion in equity selling could intensify liquidity stress, raising risks for Bitcoin, gold, and silver.
+
+Yahoo Finance • 1h ago
 
 ---
 
@@ -192,31 +200,11 @@ Yahoo Finance • 1d ago
 
 ---
 
-**[Strategy CEO: Bitcoin would need to plunge to $8,000 before balance sheet issues](https://www.theblock.co/post/388774/strategy-ceo-bitcoin-q4-earnings-call)**
+**[Purported ransom note for Savannah Guthrie's mom demanded payment in bitcoin. Could it be tracked?](https://www.cbsnews.com/news/savannah-guthrie-mom-nancy-ransom-note-bitcoin-what-to-know/)**
 
-Executive Chairman Michael Saylor also addressed quantum computing concerns in bitcoin, framing them as 'horrible FUD.'
+Cryptocurrency transactions are often thought to be anonymous and untraceable. That's a misconception, experts tell CBS News.
 
-The Block • 2d ago
-
----
-
-**[Bitcoin Booster’s $12 Billion Loss Headlines Crypto’s Worst Day Since 2022 Crash](https://www.wsj.com/finance/currencies/strategy-earnings-fourth-2025-33688dab?gaa_at=eafs&gaa_n=AWEtsqcOCTlV4Iqjd2A13vzvRFJ7bj1Uumv4IDZPTKpvLdfsLUeCsenz7q7a&gaa_ts=69890946&gaa_sig=-NkthDy29yMK7VbirqJ9567cAGyRrGDTXWlK_iqAiQBc5yQFV3H3IbVEwRwkdF2FKqiSVNiX4xQl1A3Yfalwkg%3D%3D)**
-
-The Wall Street Journal • 2d ago
-
----
-
-**[Strategy’s Record Bitcoin Loss Highlights Dual Role And Security Focus](https://finance.yahoo.com/news/strategy-record-bitcoin-loss-highlights-020534757.html)**
-
-Strategy (NasdaqGS:MSTR) reported one of the largest net losses ever recorded by a U.S. public company, driven by unrealized Bitcoin mark to market losses. The company highlighted that the loss stems primarily from accounting treatment of its sizable Bitcoin holdings rather than cash outflows. Management, including Michael Saylor and CEO Phong Le, reiterated a long term commitment to holding Bitcoin and pointed to significant cash reserves. Strategy also announced a Bitcoin security...
-
-Yahoo Finance • 1d ago
-
----
-
-**[The Kidnappers Of Savannah Guthrie's Mom Want Bitcoin—But It’s Not As Anonymous As Many Think](https://www.forbes.com/sites/martinadilicosa/2026/02/06/the-kidnappers-of-savannah-guthries-mom-want-bitcoin-but-its-not-as-anonymous-as-many-think/)**
-
-Forbes • 2d ago
+cbsnews.com • 2d ago
 
 ---
 
@@ -233,6 +221,20 @@ ABC7 Los Angeles • 2d ago
 Former FBI counterintelligence operative and cybersecurity expert Eric O’Neill joins Laura Coates to explain how a Bitcoin ransom demand could still be traced by law enforcement.
 
 cnn.com • 2d ago
+
+---
+
+**[Strategy CEO: Bitcoin would need to plunge to $8,000 before balance sheet issues](https://www.theblock.co/post/388774/strategy-ceo-bitcoin-q4-earnings-call)**
+
+Executive Chairman Michael Saylor also addressed quantum computing concerns in bitcoin, framing them as 'horrible FUD.'
+
+The Block • 2d ago
+
+---
+
+**[Bitcoin Booster’s $12 Billion Loss Headlines Crypto’s Worst Day Since 2022 Crash](https://www.wsj.com/finance/currencies/strategy-earnings-fourth-2025-33688dab?gaa_at=eafs&gaa_n=AWEtsqcCtiptUDvq9gEbcNzFL6g88sCn8XNu79fXQhA10fuOf4PijBcSbrWp&gaa_ts=698918ba&gaa_sig=-sJM2y1Y8c4EW7Y6lwRCVysHHzxWqdhF6R21AlC1qHTaDLlj431FUQVyVlXLWaCRV4AXVJ00PVBblZKEL40taA%3D%3D)**
+
+The Wall Street Journal • 2d ago
 
 ---
 
@@ -264,7 +266,7 @@ Bitcoin outlook turns bearish as Pivotus’ Richard Farr targets BTC at $0 and M
 
 **[Bitcoin tumbles below $70K, heavy losses in cryptocurrencies in last three weeks](https://news.ycombinator.com/item?id=46934165)**
 
-⬆️ 44 • 💬 61 • 8h ago • [bloomberg.com](https://www.bloomberg.com/news/articles/2026-02-05/bitcoin-drops-below-70-000-as-forced-deleveraging-accelerates)
+⬆️ 45 • 💬 61 • 9h ago • [bloomberg.com](https://www.bloomberg.com/news/articles/2026-02-05/bitcoin-drops-below-70-000-as-forced-deleveraging-accelerates)
 
 ---
 
@@ -278,7 +280,7 @@ Bitcoin outlook turns bearish as Pivotus’ Richard Farr targets BTC at $0 and M
 
 The crypto crash is coming — and the landing won’t be pretty
 
-⬆️ 5 • 💬 1 • 5h ago • [ft.com](https://www.ft.com/content/2b030926-2012-4446-b22d-e549e10e7086)
+⬆️ 5 • 💬 1 • 6h ago • [ft.com](https://www.ft.com/content/2b030926-2012-4446-b22d-e549e10e7086)
 
 ---
 
@@ -318,33 +320,33 @@ Bitcoin behaves more like an "ATM" during uncertain times, with investors quickl
 
 ## YouTube Videos: "bitcoin"
 
+**[&quot;Now We Know Why BlackRock Crashed Bitcoin On Purpose&quot; - Mike Novogratz Update](https://www.youtube.com/watch?v=3R7XDbA8p54)**
+
+"Now We Know Why BlackRock Crashed Bitcoin On Purpose" - Mike Novogratz Update Mike Novogratz, CEO of Galaxy Digital, ...
+
+📺 Money Talks
+
+👁️ 2K • 👍 87 • 💬 5 • ⏱️ 11:09 • 4h ago
+
+---
+
 **[Bitcoin Path To $40K (Profit Guide)](https://www.youtube.com/watch?v=neIIrIfYmiM)**
 
 Nick Valdez checks the latest price action with Bitcoin. What if I said there are several indicators that point to a potential bottom ...
 
 📺 Discover Crypto
 
-👁️ 3K • 👍 174 • 💬 148 • ⏱️ 5:08 • 6h ago
+👁️ 5K • 👍 204 • 💬 53 • ⏱️ 5:08 • 7h ago
 
 ---
 
-**[Why Did Bitcoin Crash, and When Will Crypto Recover?](https://www.youtube.com/watch?v=4qILrp6znyA)**
+**[Bitcoin Is Doing EXACTLY What It Does Before Huge Moves 💥](https://www.youtube.com/watch?v=sRAH-GAvlxA)**
 
-Bitcoin tumbled below $61000, as the unwinding of leveraged bets and broader market turbulence deepened a selloff that has ...
+If you've been waiting for a real Bitcoin opportunity, this may be it ➡️  . After calling the move to $60000 months in advance, ...
 
-📺 Bloomberg News
+📺 Ross Givens
 
-👁️ 821 • 👍 25 • ⏱️ 1:11 • 3h ago
-
----
-
-**[Bitcoin CRASHES $10K In a Day! Did the U.S. Buy the Dip?!](https://www.youtube.com/watch?v=Ha3RlPUQtj8)**
-
-Bitcoin just posted its first ever $10000 daily drop, wiped out billions in liquidations, then ripped back like nothing happened.
-
-📺 Simply Bitcoin
-
-👁️ 27K • 👍 2K • 💬 237 • ⏱️ 16:01 • 22h ago
+👁️ 2K • 👍 117 • 💬 36 • ⏱️ 2:28 • 9h ago
 
 ---
 
@@ -354,17 +356,17 @@ Take your personal data back with Incogni! Use code GRAHAM at the link below and
 
 📺 Graham Stephan
 
-👁️ 619K • 👍 21K • 💬 6K • ⏱️ 16:11 • 2d ago
+👁️ 623K • 👍 21K • 💬 6K • ⏱️ 16:11 • 2d ago
 
 ---
 
-**[BITCOIN: CALM BEFORE THE STORM!!! #BTC Price Prediction &amp; Crypto Crash News Today](https://www.youtube.com/watch?v=sM4RCmM_HwE)**
+**[Why Did Bitcoin Crash, and When Will Crypto Recover?](https://www.youtube.com/watch?v=4qILrp6znyA)**
 
-My Free Trading Course https://www.rt1m.com/free My Discord Server (FREE) https://discord.com/invite/jRAnCV9CTB ...
+Bitcoin tumbled below $61000, as the unwinding of leveraged bets and broader market turbulence deepened a selloff that has ...
 
-📺 Road To $1 Million USD
+📺 Bloomberg News
 
-👁️ 8K • 👍 290 • 💬 87 • ⏱️ 8:29 • 23h ago
+👁️ 2K • 👍 40 • 💬 1 • ⏱️ 1:11 • 3h ago
 
 ---
 
@@ -374,7 +376,17 @@ Bitcoin has been in a free-fall the past few months. At one point yesterday, it 
 
 📺 From The Desk Of Anthony Pompliano
 
-👁️ 53K • 👍 2K • 💬 391 • ⏱️ 9:43 • 2d ago
+👁️ 54K • 👍 2K • 💬 391 • ⏱️ 9:43 • 2d ago
+
+---
+
+**[Bitcoin CRASHES $10K In a Day! Did the U.S. Buy the Dip?!](https://www.youtube.com/watch?v=Ha3RlPUQtj8)**
+
+Bitcoin just posted its first ever $10000 daily drop, wiped out billions in liquidations, then ripped back like nothing happened.
+
+📺 Simply Bitcoin
+
+👁️ 29K • 👍 2K • 💬 238 • ⏱️ 16:01 • 23h ago
 
 ---
 
@@ -384,17 +396,17 @@ IT'S RIGGED! What Happens Now? ✓ Bitunix (no kyc, $10000 bonus): https://www.b
 
 📺 Altcoin Daily
 
-👁️ 50K • 👍 3K • 💬 753 • ⏱️ 9:28 • 1d ago
+👁️ 52K • 👍 3K • 💬 757 • ⏱️ 9:28 • 1d ago
 
 ---
 
-**[Top 3 Reasons Bitcoin Collapsed](https://www.youtube.com/watch?v=2fuSxi69Glw)**
+**[BITCOIN: CALM BEFORE THE STORM!!! #BTC Price Prediction &amp; Crypto Crash News Today](https://www.youtube.com/watch?v=sM4RCmM_HwE)**
 
-Why did the world's largest asset class lose nearly $2 trillion in value so quickly? In today's video, we aren't just looking at the ...
+My Free Trading Course https://www.rt1m.com/free My Discord Server (FREE) https://discord.com/invite/jRAnCV9CTB ...
 
-📺 Discover Crypto
+📺 Road To $1 Million USD
 
-👁️ 5K • 👍 188 • 💬 117 • ⏱️ 7:32 • 1d ago
+👁️ 9K • 👍 295 • 💬 87 • ⏱️ 8:29 • 1d ago
 
 ---
 
@@ -404,17 +416,7 @@ Bitcoin plunges as crypto markets lose trillions, sparking debate over whether B
 
 📺 Valuetainment
 
-👁️ 199K • 👍 4K • 💬 12K • ⏱️ 14:38 • 2d ago
-
----
-
-**[This is typical volatility for bitcoin, says SkyBridge&#39;s Scaramucci](https://www.youtube.com/watch?v=PxHIJlojXTg)**
-
-CNBC's “Closing Bell Overtime” team discusses cryptocurrencies, bitcoin's volatile week and more with Anthony Scaramucci, ...
-
-📺 CNBC Television
-
-👁️ 41K • 👍 355 • 💬 351 • ⏱️ 4:14 • 2d ago
+👁️ 204K • 👍 4K • 💬 12K • ⏱️ 14:38 • 2d ago
 
 ---
 

@@ -3,14 +3,14 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-02-08T22:28:48.217377+00:00'
+updated: '2026-02-08T22:59:26.483141+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- cryptocurrency
-- news
 - social
+- news
+- cryptocurrency
 - videos
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** February 08, 2026 at 22:28 UTC  
+**Last Updated:** February 08, 2026 at 22:59 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,27 +42,27 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** -0.0%  
-**7d:** -10.8%  
-**30d:** -32.3%  
-**90d:** -38.7%  
-**1y:** -20.4%  
+**24h:** +0.7%  
+**7d:** -10.0%  
+**30d:** -31.7%  
+**90d:** -38.1%  
+**1y:** -19.7%  
 
 ---
 
 ## Ethereum Market Stats
 
-**Market Cap:** $255.27B
+**Market Cap:** $253.86B
 Rank #2
 
 **Circulating Supply:** 120,692,627 ETH
 No max supply
 
 **All-Time High:** $4,946.05
--57.3%
+-57.5%
 
 **All-Time Low:** $0.43
-+488066.9%
++485722.6%
 
 ---
 
@@ -76,19 +76,11 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 ---
 
-**[Stock Trader’s Crypto Panic: Sell BTC/ETH at 70% Peak or HODL the Dip?](https://www.reddit.com/r/ethereum/comments/1qzhvbi/stock_traders_crypto_panic_sell_btceth_at_70_peak/)**
-
-Hey Redditors, I’m feeling pretty confused right now and could really use your collective wisdom: should I sell my Bitcoin and Ethereum, or should I hold tight through this volatility? I’ve been successfully trading stocks and options for over 20 years; everything from forex to commodities….but I finally decided to dip my toes into crypto for the first time late last year, thinking it was the next big diversification play for me. Here’s the deal: I bought in at Bitcoin around $82k USD and grabbed ETH at roughly $3,800 each. Fast forward to now in early February 2026, BTC’s hovering around $71k after some wild swings (dipped below $61k recently, now rebounding a bit), and ETH is sitting lower too amid all the “crypto winter” chatter, whale sells, ETF flows, and macro noise like Fed uncertainty and seasonal sell-offs. I’m down on paper, which stings after decades of stock market discipline, but I’ve seen cycles before; just not ones this intense! As a newbie to this space (stocks felt way more predictable), I’m torn: Cut losses and rotate back to traditional markets? HODL for the long-term upside with institutional adoption and potential QE boosts? Dollar-cost average down? Or maybe sell half and let the rest ride? What’s worked for you in similar spots, especially fellow stock vets who’ve crossed over? Thanks a ton!
-
-3h ago
-
----
-
 **[Staking on coinbase or... ??](https://www.reddit.com/r/ethereum/comments/1qzfbqx/staking_on_coinbase_or/)**
 
 So I have some eth staked on coinbase but wondering how risky it is.. should I be looking somewhere else or is coinbase a good call? I don't answer private messages thanks
 
-4h ago
+5h ago
 
 ---
 
@@ -97,6 +89,14 @@ So I have some eth staked on coinbase but wondering how risky it is.. should I b
 I manually architected a Dual-STACK Execution and Consensus Engine that bypasses the entire public RPC industry. Hardware; Managed a 4TB NVMe volume with 3.3TB Optimism state and a pruned L1 Reth/Lighthouse combo. I compiled Lighthouse and Reth from source after Optimism-specific codebase was deprecated mid-sync. I achieved 0ms IPC round trips by killing the dependency on Alchemy/Infura Ran into a few problems along the way. I tried to run a standard Ethereum binary on Optimism data. The node crashed because it saw a transaction type it didn't recognize (Type 126 which is an Optimism deposit) Standard Ethereum node thinks this is illegal data. To fix it, I identified that i needed a specialized OP-Stack aware version of Reth. I tracked down the Paradigm Reth Optimism binary. By switching to the op-reth binary i gave the node the dictionary it needed to translate those Type 126 deposits into valid blocks. I moved from a blind Ethereum node to a Super chain-aware engine. The Reth engine was idling. It had peers and a database, but it didn't know where the tip of the chain was, so it stayed at block 0. I realized a modern node was a Two-Part Machine. So I built the Lighthouse Consensus Client from source to be the "Driver" Instead of waiting weeks to download the chain from 2015 i used a Checkpoint Sync URL. I linked Lighthouse to Reth via the Engine API ()Port 8551/8552) using a shared JWT Secret. The moment Lighthouse found the "Truth" on the network, it handed the coordinates to Reth. The node immediately jumped from 0 to 21,800,000 and the 1.9TB of free space started filling with real history. The real nightmare scenario happened when I was syncing the snapshot data and because of a single transaction type the whole thing crashed. My sync was flying for about 15 hours and when I woke up to check it found it had stalled. It hit block 144,528215 where it encountered an Optimism-specific Type 126 Deposit transaction. Because I was running the standard Ethereum Reth binary instead of the specialized Op-Reth version from paradigm, the node literally didn't have the code to read it understand what type 126 transaction it was. This didn't just crash the sync, it left garbage data at the tip of my database, which blocked further progress until I swapped binary and manually forced a stage rewind to clear corruption. In the grand scheme of thing's it was a rookie mistake.
 
 4h ago
+
+---
+
+**[Should I stake my ETH in my ledger with Lido? Is it safe?](https://www.reddit.com/r/ethereum/comments/1qzmo4m/should_i_stake_my_eth_in_my_ledger_with_lido_is/)**
+
+I'm willing to stake my ETH that I have on my ledger, is this safe to use lido from the ledger?
+
+42m ago
 
 ---
 
@@ -110,7 +110,7 @@ Non-custodial privacy protocol for anonymous ETH transactions. Break the on-chai
 
 **[I built the first fully on-chain, 100% decentralized, ETH-in ETH-out (no new token), skill based competitive gaming platform](https://www.reddit.com/r/ethereum/comments/1qz1wbo/i_built_the_first_fully_onchain_100_decentralized/)**
 
-15h ago
+16h ago
 
 ---
 
@@ -180,11 +180,35 @@ The Guardian • 3d ago
 
 ---
 
+**[Ethereum and Solana Are Getting Hit Hard. Are These Top Cryptocurrencies Buys on the Dip?](https://www.fool.com/investing/2026/02/07/ethereum-and-solana-are-getting-hit-hard-are-these/)**
+
+Here's why giving up on Ethereum and Solana now would be a mistake.
+
+The Motley Fool • 1d ago
+
+---
+
 **[Crypto prices on Friday: Bitcoin, Ethereum and more tick upward](https://mashable.com/article/crypto-bitcoin-ethereum-prices-tick-upward-friday-2-6-2026)**
 
 Prices are climbing back up after the biggest crypto crash since 2022.
 
 Mashable • 2d ago
+
+---
+
+**[The Vibes From the 'Davos for Degens' as Bitcoin and Ethereum Plummeted](https://decrypt.co/357315/vibes-davos-degens-bitcoin-ethereum-plummeted)**
+
+At a conference dedicated to the riskiest traders in finance, Miami's crypto scene appeared far different than during its pandemic-era boom.
+
+Decrypt • 6h ago
+
+---
+
+**[Ethereum Price Is Not Going To Keep Falling Forever, Analyst Says](https://www.tradingview.com/news/newsbtc:6ebc821a3094b:0-ethereum-price-is-not-going-to-keep-falling-forever-analyst-says/)**
+
+Ethereum’s recent sell-off has weighed heavily on sentiment after the price fell below the $2,000 level and pulled much of the altcoin market lower alongside it. The move has caused sweeping fear and caution among Ethereum traders. However, some analysts are of the notion that a bullish upside will…
+
+TradingView • 19h ago
 
 ---
 
@@ -196,35 +220,11 @@ The Block • 2d ago
 
 ---
 
-**[Ethereum and Solana Are Getting Hit Hard. Are These Top Cryptocurrencies Buys on the Dip?](https://finance.yahoo.com/news/ethereum-solana-getting-hit-hard-121600990.html)**
-
-Here's why giving up on Ethereum and Solana now would be a mistake.
-
-Yahoo Finance • 1d ago
-
----
-
 **[Solana’s quiet takeover – Can SOL profit from the FUD around Ethereum?](https://ambcrypto.com/solanas-quiet-takeover-can-sol-profit-from-the-fud-around-ethereum/)**
 
 Solana may be outperforming Ethereum across key metrics right now.
 
 AMBCrypto • 17h ago
-
----
-
-**[Ethereum and Solana Are Getting Hit Hard. Are These Top Cryptocurrencies Buys on the Dip?](https://www.nasdaq.com/articles/ethereum-and-solana-are-getting-hit-hard-are-these-top-cryptocurrencies-buys-dip)**
-
-Key PointsBoth Ethereum and Solana are down more than 34% for the year, and the sell-off appears to be intensifying.
-
-Nasdaq • 1d ago
-
----
-
-**[The Vibes From the 'Davos for Degens' as Bitcoin and Ethereum Plummeted](https://decrypt.co/357315/vibes-davos-degens-bitcoin-ethereum-plummeted)**
-
-At a conference dedicated to the riskiest traders in finance, Miami's crypto scene appeared far different than during its pandemic-era boom.
-
-Decrypt • 6h ago
 
 ---
 
@@ -238,7 +238,7 @@ This video provides a professional Elliott Wave and technical analysis of Ethere
 
 📺 More Crypto Online
 
-👁️ 2K • 👍 169 • 💬 23 • ⏱️ 5:58 • 6h ago
+👁️ 3K • 👍 203 • 💬 13 • ⏱️ 5:58 • 6h ago
 
 ---
 
@@ -248,17 +248,7 @@ ETHEREUM ETH PRICE PREDICTION 2026 Join the Premium Signal Group for trade setup
 
 📺 Cilinix Crypto
 
-👁️ 792 • 👍 20 • 💬 12 • ⏱️ 4:21 • 12h ago
-
----
-
-**[BITCOIN: The Bottom Is FINALLY In! (or is it?) - BTC, ETH, XRP Price Prediction Today](https://www.youtube.com/watch?v=vVXtsgBmXOY)**
-
-Want a free $30000 bonus + $20 just for signing up? Go here: ...
-
-📺 BitcoinHyper
-
-👁️ 1K • 👍 165 • 6h ago
+👁️ 937 • 👍 21 • 💬 4 • ⏱️ 4:21 • 12h ago
 
 ---
 
@@ -268,17 +258,7 @@ Tom Lee, Fundstrat, joins 'Closing Bell' to discuss the state of crypto markets,
 
 📺 CNBC Television
 
-👁️ 82K • 👍 834 • 💬 327 • ⏱️ 3:53 • 2d ago
-
----
-
-**[Ethereum Elliott Wave Update – Key Resistance Levels Ahead](https://www.youtube.com/watch?v=3YC2YldLk78)**
-
-This video provides a professional Elliott Wave and technical analysis of Ethereum (ETH), focusing on market structure, major ...
-
-📺 More Crypto Online
-
-👁️ 3K • 👍 210 • 💬 12 • ⏱️ 5:21 • 16h ago
+👁️ 85K • 👍 840 • 💬 329 • ⏱️ 3:53 • 2d ago
 
 ---
 
@@ -292,13 +272,23 @@ One of the biggest crypto crashes in history! Here is what happened, why and my 
 
 ---
 
+**[Ethereum Elliott Wave Update – Key Resistance Levels Ahead](https://www.youtube.com/watch?v=3YC2YldLk78)**
+
+This video provides a professional Elliott Wave and technical analysis of Ethereum (ETH), focusing on market structure, major ...
+
+📺 More Crypto Online
+
+👁️ 3K • 👍 212 • 💬 12 • ⏱️ 5:21 • 16h ago
+
+---
+
 **[Il se passe quelque chose de fou sur Ethereum](https://www.youtube.com/watch?v=d9cazkz9KTo)**
 
 L'exchange crypto le plus sérieux du marché, c'est lui. Régulé US & Europe, jamais hacké, interface clean, support 24/7 ...
 
 📺 Crypto Mindset Podcast 
 
-👁️ 3K • 👍 192 • 💬 61 • ⏱️ 10:19 • 10h ago
+👁️ 3K • 👍 201 • 💬 63 • ⏱️ 10:19 • 10h ago
 
 ---
 
@@ -308,17 +298,7 @@ BITCOIN & ALTCOINS: New Targets Confirmed (Prepare Now)!!! - Bitcoin News Today,
 
 📺 Crypto World
 
-👁️ 14K • 👍 443 • 💬 253 • ⏱️ 17:07 • 1d ago
-
----
-
-**[Pour l&#39;Empereur d&#39;Ethereum, les rollups doivent être jetés aux lions - Actu crypto 🗞️](https://www.youtube.com/watch?v=kBAooka4YCo)**
-
-10 % de remise à vie sur vos frais de trading en achetant des cryptos sur Binance ▻ https://journalducoin.com/Binance/CTA10 ...
-
-📺 Journal du Coin
-
-👁️ 1K • 👍 139 • 💬 5 • ⏱️ 10:35 • 5h ago
+👁️ 14K • 👍 459 • 💬 255 • ⏱️ 17:07 • 1d ago
 
 ---
 
@@ -329,6 +309,26 @@ Uhh... so... is anyone else getting that strange feeling that something big is a
 📺 Money Rules - Investing Tips 
 
 👁️ 13K • 👍 2K • 💬 217 • ⏱️ 13:13 • 2d ago
+
+---
+
+**[“This Crash Might Be the Setup Most Crypto Holders Are Missing&quot; – Matt Hougan](https://www.youtube.com/watch?v=gMUdNWz4eaI)**
+
+Take Control of Your Retirement — Grow Crypto & Gold Tax-Advantaged. https://www.itrustcapital.com/go/savvy-finance If you're ...
+
+📺 Savvy Finance
+
+👁️ 8K • 👍 346 • 💬 12 • ⏱️ 20:57 • 2d ago
+
+---
+
+**[Pour l&#39;Empereur d&#39;Ethereum, les rollups doivent être jetés aux lions - Actu crypto 🗞️](https://www.youtube.com/watch?v=kBAooka4YCo)**
+
+10 % de remise à vie sur vos frais de trading en achetant des cryptos sur Binance ▻ https://journalducoin.com/Binance/CTA10 ...
+
+📺 Journal du Coin
+
+👁️ 2K • 👍 177 • 💬 5 • ⏱️ 10:35 • 6h ago
 
 ---
 

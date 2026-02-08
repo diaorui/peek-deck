@@ -3,13 +3,13 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-02-08T22:28:48.220605+00:00'
+updated: '2026-02-08T22:59:26.486544+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- news
 - social
+- news
 - videos
 ---
 
@@ -17,7 +17,7 @@ data_types:
 
 Robotics research and industry news
 
-**Last Updated:** February 08, 2026 at 22:28 UTC  
+**Last Updated:** February 08, 2026 at 22:59 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -46,11 +46,19 @@ Repository: https://github.com/qrafty-ai/teleop_xr Any suggestions are welcome! 
 
 ---
 
+**[Arabic Community for Engineer](https://www.reddit.com/r/robotics/comments/1qznk7a/arabic_community_for_engineer/)**
+
+Hello everyone! I'm pleased to announce my latest project: an Arabic forum for engineers. It's a place to share tutorials, learn, and grow together. Forum link: https://enghub.site
+
+5m ago
+
+---
+
 **[CANgaroo v0.4.5 released – Linux CAN analyzer with real-time signal visualization (charts, gauges, text)](https://www.reddit.com/r/robotics/comments/1qzbvgd/cangaroo_v045_released_linux_can_analyzer_with/)**
 
 Hi everyone 👋 I’ve just released CANgaroo v0.4.5, an actively maintained, open-source Linux-native CAN / CAN-FD analyzer built around SocketCAN. This release focuses on making live CAN data easier to understand visually during everyday debugging. 🆕 What’s new in v0.4.5 📊 Real-time signal visualization Time-series charts Scatter plots Text views Interactive gauges (useful for live diagnostics) https://i.redd.it/iobhy7jphaig1.gif 🎯 What CANgaroo is aimed at CANgaroo is focused on everyday CAN debugging and monitoring, with a workflow similar to BusMaster / PCAN-View, but: Open-source Linux-native SocketCAN-first Easy to test using vcan (no hardware required) Supported interfaces include SocketCAN, CANable (SLCAN), Candlelight, and CANblaster (UDP). GitHub repo (screenshots + demo GIF included): 👉 https://github.com/OpenAutoDiagLabs/CANgaroo Feedback, feature requests, and real-world use cases are very welcome — especially from automotive, robotics, and industrial users.
 
-6h ago
+7h ago
 
 ---
 
@@ -82,7 +90,7 @@ We've been working on a depth completion model called LingBot-Depth (paper: arxi
 
 Just out of curiosity, and because I plan to make my own 4 wheeled rover + LLM/VLA as a personal project, has building a robot as a personal project ever helped when applying for a job/position/interview? Thinking of taking the jump myself, but it is quite costly so wanted to hear your story before I take the dip. thanks all
 
-8h ago
+9h ago
 
 ---
 
@@ -91,14 +99,6 @@ Just out of curiosity, and because I plan to make my own 4 wheeled rover + LLM/V
 Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.
 
 🔗 [youtube.com](https://www.youtube.com/watch?v=FqfTQFuSalY) • 9h ago
-
----
-
-**[newbie question: how are real autonomous robots/drones structured?](https://www.reddit.com/r/robotics/comments/1qz8drt/newbie_question_how_are_real_autonomous/)**
-
-I’m a software engineer trying to move into robotics and autonomy. I understand high-level stuff (perception, planning, control) but I’m confused how this looks in real systems and not research slides. For example: what actually runs on the robot vs offboard? how tightly coupled are sensors + control code? is ROS really used in production or mostly research? I’m interested in recon / monitoring robots, just trying to learn from people who’ve done this for real.
-
-9h ago
 
 ---
 
@@ -122,19 +122,19 @@ Futurism • 1d ago
 
 ---
 
-**[The Autonomous Robotics Stock Wall Street Insiders Are Quietly Buying (Hint: It's Not Tesla)](https://finance.yahoo.com/news/autonomous-robotics-stock-wall-street-195000880.html)**
+**[Qualcomm is 'at the center' of transforming robotics: CFO](https://finance.yahoo.com/video/qualcomm-center-transforming-robotics-cfo-190050895.html)**
 
-This high-flying stock is about more than just military drones.
+Qualcomm (QCOM) CFO and COO Akash Palkhiwala sits down with Market Domination Host Josh Lipton and Yahoo Finance Tech Editor Dan Howley to talk more about the role that the AI chipmaker envisions for itself in the robotics industry Also catch Akash Palkhiwala talk about Qualcomm's outlook on challenges for its handset phone division. To watch more expert insights and analysis on the latest market action, check out more&nbsp;Market Domination.
 
-Yahoo Finance • 2h ago
+Yahoo Finance • 1d ago
 
 ---
 
-**[Elon Musk warns the U.S. is '1,000% going to go bankrupt' unless AI and robotics save the economy from crushing debt](https://fortune.com/2026/02/07/elon-musk-us-bankruptcy-ai-robotics-economic-growth-national-debt-crisis/)**
+**[I'm a 25-year-old founder who loves robots but too many humanoids are militant and creepy-looking. Things need to change—just look at Elon Musk](https://fortune.com/2026/02/05/25-year-old-robotics-founder-says-too-many-creepy-militant-look-at-elon-musk/)**
 
-"We just need enough time to build the AI and robots to not go bankrupt before then."
+Who’s raising our robots? Teaching social norms in the age of humanoid robots.
 
-Fortune • 1d ago
+Fortune • 3d ago
 
 ---
 
@@ -146,14 +146,6 @@ ASUS Pressroom • 3d ago
 
 ---
 
-**[The Rapid Rise of Humanoid Robots](https://oilprice.com/Energy/Energy-General/The-Rapid-Rise-of-Humanoid-Robots.html)**
-
-Automakers including Tesla and Hyundai are investing heavily in humanoid robots as a long-term cost-saving strategy, even as questions remain over productivity, technical feasibility, and the risk of widespread job losses.
-
-Crude Oil Prices Today | OilPrice.com • 1d ago
-
----
-
 **[Making robots useful and affordable will need better motors](https://www.bbc.com/news/articles/c5y46356zzyo)**
 
 Firms are working to make the motors that drive robots more efficient and cheaper.
@@ -162,19 +154,19 @@ BBC • 2d ago
 
 ---
 
+**[The Rapid Rise of Humanoid Robots](https://oilprice.com/Energy/Energy-General/The-Rapid-Rise-of-Humanoid-Robots.html)**
+
+Automakers including Tesla and Hyundai are investing heavily in humanoid robots as a long-term cost-saving strategy, even as questions remain over productivity, technical feasibility, and the risk of widespread job losses.
+
+Crude Oil Prices Today | OilPrice.com • 1d ago
+
+---
+
 **[Seeed Studio Releases Their Own Affordable and Open Source Robotic Arm](https://www.hackster.io/news/seeed-studio-releases-their-own-affordable-and-open-source-robotic-arm-3403f854a281)**
 
 Seeed Studio is releasing an affordable and open source robotic arm design called the reBot Arm B601, complete with comprehensive software.
 
-Hackster.io • 1d ago
-
----
-
-**[What the SpaceX acquisition of xAI means for industrial robotics](https://www.therobotreport.com/what-the-spacex-acquisition-xai-means-for-industrial-robotics/)**
-
-The consolidation of SpaceX and xAI could lead to more adaptive use of robots, data, and AI in manufacturing, says Flexxbotics' CEO.
-
-The Robot Report • 8h ago
+Hackster.io • 2d ago
 
 ---
 
@@ -182,7 +174,15 @@ The Robot Report • 8h ago
 
 This high-flying stock is about more than just military drones.
 
-The Motley Fool • 2h ago
+The Motley Fool • 3h ago
+
+---
+
+**[What the SpaceX acquisition of xAI means for industrial robotics](https://www.therobotreport.com/what-the-spacex-acquisition-xai-means-for-industrial-robotics/)**
+
+The consolidation of SpaceX and xAI could lead to more adaptive use of robots, data, and AI in manufacturing, says Flexxbotics' CEO.
+
+The Robot Report • 9h ago
 
 ---
 
@@ -204,7 +204,7 @@ Humanoid robots just entered a new phase of realism. In Shanghai, DroidUp reveal
 
 📺 AI Revolution
 
-👁️ 211K • 👍 4K • 💬 873 • ⏱️ 13:31 • 3d ago
+👁️ 214K • 👍 4K • 💬 882 • ⏱️ 13:31 • 3d ago
 
 ---
 
@@ -214,7 +214,7 @@ The Atlas Airborne Robot takes one final research run as Boston Dynamics pushes 
 
 📺 DPCcars
 
-👁️ 22K • 👍 202 • 💬 45 • ⏱️ 2:45 • 1d ago
+👁️ 25K • 👍 215 • 💬 47 • ⏱️ 2:45 • 1d ago
 
 ---
 
@@ -224,27 +224,7 @@ Now that the Atlas enterprise platform is getting to work, the research version 
 
 📺 Boston Dynamics
 
-👁️ 428K • 👍 22K • 💬 2K • ⏱️ 1:38 • 1d ago
-
----
-
-**[World&#39;s First: Unitree Humanoid Robot Autonomous Walking Challenge in −47.4°C Extreme Cold](https://www.youtube.com/watch?v=SX4WKUHAP4E)**
-
-47.4°C, 130000 steps, 89.75°E, 47.21°N… On the extremely cold snowfields of Altay, the birthplace of human skiing, Unitree's ...
-
-📺 Unitree Robotics
-
-👁️ 139K • 👍 1K • 💬 152 • ⏱️ 0:45 • 6d ago
-
----
-
-**[Everything NEW Coming in the Valentine’s Update | Blox Fruits](https://www.youtube.com/watch?v=FCqtLmW6tCQ)**
-
-SOCIALS   Blox Fruits Twitter: https://twitter.com/BloxFruits Blox Fruits Tiktok: https://www.tiktok.com/@bloxfruitsofficials ...
-
-📺 Gamer Robot
-
-👁️ 83K • 👍 15K • 💬 3K • ⏱️ 8:01 • 4h ago
+👁️ 500K • 👍 24K • 💬 2K • ⏱️ 1:38 • 1d ago
 
 ---
 
@@ -254,43 +234,65 @@ Pan Motor's Wuji Hand packs twenty fully actuated joints into a sub six hundred 
 
 📺 Deepen
 
-👁️ 21K • 👍 392 • 💬 9 • ⏱️ 0:19 • 20h ago
+👁️ 23K • 👍 414 • 💬 9 • ⏱️ 0:19 • 20h ago
 
 ---
 
-**[Tony Stark would hate this! 😂 #engineering #ironman #revrobotics #3dprinting](https://www.youtube.com/watch?v=13fah4TQXhw)**
+**[Everything NEW Coming in the Valentine’s Update | Blox Fruits](https://www.youtube.com/watch?v=FCqtLmW6tCQ)**
 
-📺 Concept Bytes
+SOCIALS   Blox Fruits Twitter: https://twitter.com/BloxFruits Blox Fruits Tiktok: https://www.tiktok.com/@bloxfruitsofficials ...
 
-👁️ 24K • 👍 2K • 💬 32 • ⏱️ 1:24 • 3d ago
+📺 Gamer Robot
 
----
-
-**[Chinese Humanoid Robot walks in -47 deg Celsius](https://www.youtube.com/watch?v=6D4PBWym2nY)**
-
-humanoidrobot #robotics #ai This G1 robot from the Unitree (Chinese firm) is making the difference and pushing the boundaries.
-
-📺 AstroSaqi
-
-👁️ 590 • 👍 11 • ⏱️ 0:59 • 13h ago
+👁️ 156K • 👍 19K • 💬 4K • ⏱️ 8:01 • 4h ago
 
 ---
 
-**[World&#39;s New Fastest Humanoid Robot? #humanoidrobot #robots #robotics](https://www.youtube.com/watch?v=qbVdkRgsk5E)**
+**[Elon Musk: AI &amp; Robotics Will 100X The World Economy 👀  #AI #Robotics #ElonMusk #FutureTech](https://www.youtube.com/watch?v=axmRdBTRQkg)**
 
-The Shanghai-based robotics startup MirrorMe Technology claims its new bipedal robot is the world's fastest humanoid on two ...
+Artificial Intelligence and Robotics are no longer “future ideas” — they are rapidly becoming the engines of global growth.
+
+📺 Billionaire Shots
+
+👁️ 3K • 👍 272 • 💬 54 • ⏱️ 0:30 • 9h ago
+
+---
+
+**[Strongest Robot Doesn&#39;t Always Win 🤯](https://www.youtube.com/watch?v=JIW-cmPW0uE)**
+
+shorts.
+
+📺 Tenzo Shortz
+
+👁️ 9K • ⏱️ 0:27 • 9h ago
+
+---
+
+**[The world of robotics is advancing](https://www.youtube.com/watch?v=O-IPeboeXGI)**
+
+📺 Fredo on TV
+
+👁️ 182K • 👍 18K • 💬 523 • ⏱️ 0:34 • 1d ago
+
+---
+
+**[China&#39;s Unitree G1 Becomes First Humanoid Robot to Skateboard without Cheating](https://www.youtube.com/watch?v=XalAifvzUbs)**
+
+Chinese researchers have taught a Unitree G1 humanoid robot how to ride a skateboard with a new physics-aware control system ...
 
 📺 Kalil 4.0
 
-👁️ 10K • 👍 288 • 💬 24 • ⏱️ 0:36 • 6d ago
+👁️ 3K • 👍 66 • 💬 21 • ⏱️ 7:39 • 2d ago
 
 ---
 
-**[Tesla Optimus robot will allow for amazing abundance. #fyp #viral #tesla #optimus #teslarobot](https://www.youtube.com/watch?v=CPDqiFW1AhI)**
+**[Robots That Move Without a Brain? Sea Star Locomotion Is Changing Robotics Forever #robot #shorts](https://www.youtube.com/watch?v=Q7doiqBMz-k)**
 
-📺 Tesla Owners Silicon Valley
+Robots That Move Without a Brain? Sea Star Locomotion Is Changing Robotics Forever What if robots could keep moving even ...
 
-👁️ 5.1M • 👍 180K • 💬 3K • ⏱️ 0:40 • 6d ago
+📺 Future Lens Pi
+
+👁️ 13K • 💬 10 • ⏱️ 0:08 • 13h ago
 
 ---
 
