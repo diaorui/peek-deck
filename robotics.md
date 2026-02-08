@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-02-08T07:12:55.845085+00:00'
+updated: '2026-02-08T07:56:02.192885+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- videos
 - news
 - social
+- videos
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** February 08, 2026 at 07:12 UTC  
+**Last Updated:** February 08, 2026 at 07:56 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -44,7 +44,7 @@ Pantograph website: https://pantograph.com/ Pantograph on 𝕏: http://x.com/pan
 
 How viable is a Robotics-as-a-Service (RaaS) startup today? I’m evaluating the idea of starting a small RaaS company and wanted honest feedback from people who’ve been in hardware, robotics, or service-based startups. A few things I’m trying to understand: Which verticals actually work (security, cleaning, warehouse, etc.)? What does it realistically cost to deploy the first few robots? How long did it take to get your first paying customer? Is the bigger challenge the technology, hardware costs, or field service/operations? Would you recommend starting as an integrator (using existing robots) vs building your own? Any real numbers, lessons learned, or “things you wish you knew earlier” would be really helpful.
 
-21m ago
+1h ago
 
 ---
 
@@ -52,13 +52,13 @@ How viable is a Robotics-as-a-Service (RaaS) startup today? I’m evaluating the
 
 The chest finally finished printing after 5 days of printing. I assembled it and so far it looks like this, i still have to build the right arm and mount them. I know it may not look that good but it’s my first time doing such a big project and i’m still learning.
 
-14h ago
+15h ago
 
 ---
 
 **[It dance better than me for sure…](https://www.reddit.com/r/robotics/comments/1qykdxw/it_dance_better_than_me_for_sure/)**
 
-13h ago
+14h ago
 
 ---
 
@@ -66,7 +66,7 @@ The chest finally finished printing after 5 days of printing. I assembled it and
 
 Once again, Boston Dynamics just leaving everyone in the dust. Watch all the chinese copycats try to do the same thing. https://www.youtube.com/watch?v=UNorxwlZlFk
 
-8h ago
+9h ago
 
 ---
 
@@ -74,7 +74,7 @@ Once again, Boston Dynamics just leaving everyone in the dust. Watch all the chi
 
 Hi everyone, I’m planning to build a self-balancing robot and I wanted to share the parts I currently have before moving forward. Parts I have: Arduino Nano (ATmega328P) MPU6050 (accelerometer + gyroscope) TB6612FNG dual motor driver DC motors (3–6 V) Battery pack ~8 V, 2600 mAh 2× electrolytic capacitors (1000 µF, 16 V) Wheels and a rigid homemade chassis The goal is to make a robot that can balance itself upright using these components. I’m still in the early stages and would appreciate any general advice or things to watch out for when building a self-balancing robot with this kind of setup. Thanks!
 
-12h ago
+13h ago
 
 ---
 
@@ -164,7 +164,7 @@ Interesting Engineering • 1d ago
 
 If humanoid robots really are about to enter the mainstream, the first signs of that trend might appear in these three stocks.
 
-The Motley Fool • 17h ago
+The Motley Fool • 18h ago
 
 ---
 
@@ -278,7 +278,7 @@ Capybara's golden robot lion was sabotaged by Brianna before the big competition
 
 📺 CapyEscapes
 
-👁️ 33K • 👍 1K • 💬 145 • ⏱️ 0:59 • 19h ago
+👁️ 33K • 👍 1K • 💬 145 • ⏱️ 0:59 • 20h ago
 
 ---
 

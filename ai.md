@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-02-08T07:12:55.826653+00:00'
+updated: '2026-02-08T07:56:02.177662+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- repositories
-- videos
 - news
 - social
+- repositories
+- videos
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** February 08, 2026 at 07:12 UTC  
+**Last Updated:** February 08, 2026 at 07:56 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -41,13 +41,13 @@ AI news, discussions, and developments
 
 Countries have been building their own “sovereign AI” to reflect their culture and values, and OpenAI wants to help them....
 
-🔗 [Sherwood News](https://sherwood.news/tech/report-openai-may-tailor-a-version-of-chatgpt-for-uae-that-prohibits-lgbtq/) • 21h ago
+🔗 [Sherwood News](https://sherwood.news/tech/report-openai-may-tailor-a-version-of-chatgpt-for-uae-that-prohibits-lgbtq/) • 22h ago
 
 ---
 
 **[Nvidia CEO Says AI Capital Spending Is Appropriate, Sustainable](https://www.reddit.com/r/artificial/comments/1qyx57y/nvidia_ceo_says_ai_capital_spending_is/)**
 
-🔗 [bloomberg.com](https://www.bloomberg.com/news/articles/2026-02-06/nvidia-ceo-says-ai-capital-spending-is-appropriate-sustainable?srnd=phx-technology&leadSource=reddit_wall) • 4h ago
+🔗 [bloomberg.com](https://www.bloomberg.com/news/articles/2026-02-06/nvidia-ceo-says-ai-capital-spending-is-appropriate-sustainable?srnd=phx-technology&leadSource=reddit_wall) • 5h ago
 
 ---
 
@@ -63,7 +63,7 @@ I have been working solo on an AI-based project called Netryx. At a high level, 
 
 Let’s say the quiet part out loud.
 
-🔗 [Medium](https://medium.com/@behindthebuild/big-tech-ai-isnt-taking-your-job-your-refusal-to-use-it-might-966f8219f962) • 13h ago
+🔗 [Medium](https://medium.com/@behindthebuild/big-tech-ai-isnt-taking-your-job-your-refusal-to-use-it-might-966f8219f962) • 14h ago
 
 ---
 
@@ -71,7 +71,7 @@ Let’s say the quiet part out loud.
 
 Hey fam, Been grinding on BrainAPI, this open-source thing that turns messy event logs into a smart knowledge graph for AI agents and rec systems. Think: feed it user clicks/buys/chats, it builds a precise map with cause-effect attribution (no BS hallucinations), then your AI retrieves fast AF for spot-on suggestions. Right now: Core APIs for saving/processing data -> works for CRM member matches/social networks (one user already using it for automated matches). Fast retrieval But ingestion? Slow as hell (10-30 min on small datasets) cuz of heavy LLM chains for precision. Trade-off for that "holy grail" accuracy, but yeah, it's a pain, optimizing soon. Repo: https://github.com/Lumen-Labs/brainapi2 What's the vibe? Bugs? Missing features? Use cases for ecom or agents? Roast it hard, I'm not fragile. If it slaps, star/fork. Building in public, hit me with thoughts!
 
-10h ago
+11h ago
 
 ---
 
@@ -79,7 +79,7 @@ Hey fam, Been grinding on BrainAPI, this open-source thing that turns messy even
 
 One of Kimi’s browser automation scripts uses a dark web library with crypto stealing malware: https://github.com/dnnyngyen/kimi-agent-internals/blob/main/source-code/browser_guard.py
 
-13h ago
+14h ago
 
 ---
 
@@ -131,7 +131,7 @@ The Washington Post • 13h ago
 
 AI isn't just hitting software valuations — it's changing how software companies operate.
 
-Axios • 15h ago
+Axios • 16h ago
 
 ---
 
@@ -177,7 +177,7 @@ The Guardian • 17h ago
 
 Laid-off workers are wondering whether AI played a role in their job losses, and what it means for their next career moves.
 
-Business Insider • 22h ago
+Business Insider • 23h ago
 
 ---
 
@@ -225,7 +225,7 @@ AI is rarely optional anymore, but how can you still be proud of your craft? Dis
 
 The hundreds of billions of dollars being spent by tech companies on AI projects are diverting resources from other parts of the economy.
 
-⬆️ 315 • 💬 505 • 19h ago • [The Washington Post](https://www.washingtonpost.com/technology/2026/02/07/ai-spending-economy-shortages/)
+⬆️ 315 • 💬 505 • 20h ago • [The Washington Post](https://www.washingtonpost.com/technology/2026/02/07/ai-spending-economy-shortages/)
 
 ---
 
@@ -241,7 +241,7 @@ A minimal, secure Python interpreter written in Rust for use by AI - pydantic/mo
 
 Contribute to localgpt-app/localgpt development by creating an account on GitHub.
 
-⬆️ 160 • 💬 48 • 5h ago • [GitHub](https://github.com/localgpt-app/localgpt)
+⬆️ 160 • 💬 48 • 6h ago • [GitHub](https://github.com/localgpt-app/localgpt)
 
 ---
 
@@ -287,7 +287,7 @@ Become a member! ✓ https://www.youtube.com/channel/UCahJ9IsvXnaQiuNyWQSkrkw/jo
 
 📺 Chris Norlund
 
-👁️ 77K • 👍 5K • 💬 1K • ⏱️ 17:42 • 8h ago
+👁️ 77K • 👍 5K • 💬 1K • ⏱️ 17:42 • 9h ago
 
 ---
 
@@ -337,7 +337,7 @@ Dr. Ed Weir, Former Government Insider, DISCUSSES the unseen repercussions of AI
 
 📺 Dr. Ed Weir, PhD, Former Social Security Manager
 
-👁️ 2K • 👍 184 • 💬 65 • ⏱️ 16:26 • 15h ago
+👁️ 2K • 👍 184 • 💬 65 • ⏱️ 16:26 • 16h ago
 
 ---
 
@@ -347,7 +347,7 @@ In this video, I break down 4 practical AI skills that separate power users from
 
 📺 Ali H. Salem
 
-👁️ 3K • 👍 229 • 💬 24 • ⏱️ 16:34 • 12h ago
+👁️ 3K • 👍 229 • 💬 24 • ⏱️ 16:34 • 13h ago
 
 ---
 
@@ -441,7 +441,7 @@ MiniCPM-o 4.5 is a 9B parameter multimodal LLM excelling in vision, speech, and 
 
 `any-to-any` `9.4B`
 
-⬇️ 5,568 • ❤️ 594 • 14h ago
+⬇️ 5,568 • ❤️ 594 • 15h ago
 
 ---
 
@@ -575,7 +575,7 @@ Cross-Team Collaboration improves software quality by enabling multiple LLM agen
 
 LingBot-World is an open-source world simulator with high-fidelity dynamics, long-term memory capabilities, and real-time interactivity for diverse environments.
 
-▲ 119 • 💬 2 • ⭐ 2,647 • 10d ago
+▲ 119 • 💬 2 • ⭐ 2,647 • 11d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2601.20540) • [💻 code](https://github.com/Robbyant/lingbot-world/) • [🔗 project](https://technology.robbyant.com/lingbot-world)
 
@@ -655,7 +655,7 @@ AI → JSON → UI
 
 `TypeScript`
 
-⭐ 10.1k • 🔱 537 • 6h ago
+⭐ 10.1k • 🔱 537 • 7h ago
 
 ---
 
@@ -665,7 +665,7 @@ LLM驱动的 A/H/美股智能分析器，多数据源行情 + 实时新闻 + Gem
 
 `Python` `agent` `ai` `aigc` `gemini` `llm`
 
-⭐ 9.8k • 🔱 10.3k • 22m ago
+⭐ 9.8k • 🔱 10.3k • 1h ago
 
 ---
 
@@ -675,7 +675,7 @@ The Ultimate Collection of 700+ Agentic Skills for Claude Code/Antigravity/Curso
 
 `Python` `agentic-skills` `ai-agents` `antigravity` `autonomous-coding` `claude-code`
 
-⭐ 7.8k • 🔱 1.6k • 28m ago
+⭐ 7.8k • 🔱 1.6k • 1h ago
 
 ---
 
@@ -711,7 +711,7 @@ OpenSource Claude Cowork. A desktop AI assistant that helps you with programming
 
 `TypeScript`
 
-⭐ 2.8k • 🔱 378 • 3h ago
+⭐ 2.8k • 🔱 378 • 4h ago
 
 ---
 
@@ -719,7 +719,7 @@ OpenSource Claude Cowork. A desktop AI assistant that helps you with programming
 
 Humanizer 的汉化版本，Claude Code Skills，旨在消除文本中 AI 生成的痕迹。
 
-⭐ 2.7k • 🔱 260 • 19d ago
+⭐ 2.7k • 🔱 260 • 20d ago
 
 ---
 

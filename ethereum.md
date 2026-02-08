@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-02-08T07:12:55.841751+00:00'
+updated: '2026-02-08T07:56:02.190151+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- videos
-- cryptocurrency
 - news
 - social
+- cryptocurrency
+- videos
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** February 08, 2026 at 07:12 UTC  
+**Last Updated:** February 08, 2026 at 07:56 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -86,13 +86,13 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 **[I built the first fully on-chain, 100% decentralized, ETH-in ETH-out (no new token), skill based competitive gaming platform](https://www.reddit.com/r/ethereum/comments/1qz1wbo/i_built_the_first_fully_onchain_100_decentralized/)**
 
-27m ago
+1h ago
 
 ---
 
 **[We're building an open-source archive of the earliest Ethereum smart contracts (2015-2017) — looking for contributors](https://www.reddit.com/r/ethereum/comments/1qymum3/were_building_an_opensource_archive_of_the/)**
 
-11h ago
+12h ago
 
 ---
 
@@ -160,7 +160,7 @@ The Block • 1d ago
 
 Ethereum's shift to a new cryptocurrency mining mechanism has demonstrated how the industry is changing its ways.
 
-The Cool Down • 15h ago
+The Cool Down • 16h ago
 
 ---
 
@@ -244,7 +244,7 @@ BITCOIN & ALTCOINS: New Targets Confirmed (Prepare Now)!!! - Bitcoin News Today,
 
 📺 Crypto World
 
-👁️ 9K • 👍 346 • 💬 115 • ⏱️ 17:07 • 9h ago
+👁️ 9K • 👍 346 • 💬 115 • ⏱️ 17:07 • 10h ago
 
 ---
 
@@ -254,7 +254,7 @@ This video provides a professional Elliott Wave and technical analysis of Ethere
 
 📺 More Crypto Online
 
-👁️ 3K • 👍 201 • 💬 10 • ⏱️ 4:56 • 10h ago
+👁️ 3K • 👍 201 • 💬 10 • ⏱️ 4:56 • 11h ago
 
 ---
 
@@ -304,7 +304,7 @@ ETHEREUM ETH PRICE PREDICTION 2026 Join the Premium Signal Group for trade setup
 
 📺 Cilinix Crypto
 
-👁️ 818 • 👍 28 • 💬 8 • ⏱️ 5:23 • 20h ago
+👁️ 818 • 👍 28 • 💬 8 • ⏱️ 5:23 • 21h ago
 
 ---
 
