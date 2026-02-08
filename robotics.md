@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-02-08T14:28:59.293411+00:00'
+updated: '2026-02-08T14:56:19.590458+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
 - news
-- social
 - videos
+- social
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** February 08, 2026 at 14:28 UTC  
+**Last Updated:** February 08, 2026 at 14:56 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -50,7 +50,7 @@ Pantograph website: https://pantograph.com/ Pantograph on 𝕏: http://x.com/pan
 
 Just out of curiosity, and because I plan to make my own 4 wheeled rover + LLM/VLA as a personal project, has building a robot as a personal project ever helped when applying for a job/position/interview? Thinking of taking the jump myself, but it is quite costly so wanted to hear your story before I take the dip. thanks all
 
-32m ago
+1h ago
 
 ---
 
@@ -72,7 +72,7 @@ I’m a software engineer trying to move into robotics and autonomy. I understan
 
 **[It dance better than me for sure…](https://www.reddit.com/r/robotics/comments/1qykdxw/it_dance_better_than_me_for_sure/)**
 
-20h ago
+21h ago
 
 ---
 
@@ -96,7 +96,7 @@ Once again, Boston Dynamics just leaving everyone in the dust. Watch all the chi
 
 How viable is a Robotics-as-a-Service (RaaS) startup today? I’m evaluating the idea of starting a small RaaS company and wanted honest feedback from people who’ve been in hardware, robotics, or service-based startups. A few things I’m trying to understand: Which verticals actually work (security, cleaning, warehouse, etc.)? What does it realistically cost to deploy the first few robots? How long did it take to get your first paying customer? Is the bigger challenge the technology, hardware costs, or field service/operations? Would you recommend starting as an integrator (using existing robots) vs building your own? Any real numbers, lessons learned, or “things you wish you knew earlier” would be really helpful.
 
-7h ago
+8h ago
 
 ---
 
@@ -132,7 +132,7 @@ Futurism • 21h ago
 
 Who’s raising our robots? Teaching social norms in the age of humanoid robots.
 
-Fortune • 2d ago
+Fortune • 3d ago
 
 ---
 
@@ -140,7 +140,7 @@ Fortune • 2d ago
 
 The consolidation of SpaceX and xAI could lead to more adaptive use of robots, data, and AI in manufacturing, says Flexxbotics' CEO.
 
-The Robot Report • 44m ago
+The Robot Report • 1h ago
 
 ---
 
@@ -210,7 +210,7 @@ Artificial Intelligence and Robotics are no longer “future ideas” — they a
 
 📺 Billionaire Shots
 
-👁️ 560 • 👍 76 • 💬 21 • ⏱️ 0:30 • 53m ago
+👁️ 560 • 👍 76 • 💬 21 • ⏱️ 0:30 • 1h ago
 
 ---
 
@@ -270,7 +270,7 @@ shorts.
 
 📺 Tenzo Shortz
 
-👁️ 651 • ⏱️ 0:27 • 53m ago
+👁️ 651 • ⏱️ 0:27 • 1h ago
 
 ---
 

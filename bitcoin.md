@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-02-08T14:28:59.284293+00:00'
+updated: '2026-02-08T14:56:19.581134+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
 - news
+- cryptocurrency
 - videos
 - social
-- cryptocurrency
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** February 08, 2026 at 14:28 UTC  
+**Last Updated:** February 08, 2026 at 14:56 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -87,7 +87,7 @@ https://share.google/IVm4XmWSJ13M1cDwX
 
 **[Comforting my friend who bought BTC @ 120k](https://www.reddit.com/r/Bitcoin/comments/1qyt31t/comforting_my_friend_who_bought_btc_120k/)**
 
-14h ago
+15h ago
 
 ---
 
@@ -95,7 +95,7 @@ https://share.google/IVm4XmWSJ13M1cDwX
 
 HODL strong through the storms; the future rewards the patient. 🚀 🙌
 
-20h ago
+21h ago
 
 ---
 
@@ -103,7 +103,7 @@ HODL strong through the storms; the future rewards the patient. 🚀 🙌
 
 honestly, after holding since 2021, these dips barely even register anymore. i'm not even checking the charts as often as i used to. is that just me getting old and boring, or are other long-term holders feeling the same?
 
-7h ago
+8h ago
 
 ---
 
@@ -127,7 +127,7 @@ Guys, do you realize how much you regret not buying about ten years ago? Today, 
 
 Over the past year I have received 4 unknown deposits into my Trezor hardware wallet. Each deposit was in the amount of .0000033 bitcoin. Three were in January 2025 and one so far today. Any ideas what these are and should I be worried about my Trezor. It is a Trezor safe 3. Thanks for any help.
 
-8h ago
+9h ago
 
 ---
 
@@ -135,7 +135,7 @@ Over the past year I have received 4 unknown deposits into my Trezor hardware wa
 
 Not financial advice weekly RSI below 30 and clear support approaching around the $50,000 level , I am borrowing against my 401(k) for the next 52 weeks to allow some capital upfront to take advantage of these prices. 6.75% interest paid back into my 401k after the 52 weeks which is a win-win for me. (Im my own employer) Small loan about 25-30% of my 401k - will be paid off by February 2027. Allowing me to capture the arbitrage gain of interest & a low risk capital loan. See you in five years.
 
-13h ago
+14h ago
 
 ---
 
@@ -259,13 +259,13 @@ Bitcoin outlook turns bearish as Pivotus’ Richard Farr targets BTC at $0 and M
 
 **[Bitcoin tumbles below $70K, heavy losses in cryptocurrencies in last three weeks](https://news.ycombinator.com/item?id=46934165)**
 
-⬆️ 5 • 💬 1 • 40m ago • [bloomberg.com](https://www.bloomberg.com/news/articles/2026-02-05/bitcoin-drops-below-70-000-as-forced-deleveraging-accelerates)
+⬆️ 5 • 💬 1 • 1h ago • [bloomberg.com](https://www.bloomberg.com/news/articles/2026-02-05/bitcoin-drops-below-70-000-as-forced-deleveraging-accelerates)
 
 ---
 
 **[South Korean crypto firm accidentally sends $44B in bitcoins to users](https://news.ycombinator.com/item?id=46926461)**
 
-⬆️ 5 • 💬 0 • 19h ago • [reuters.com](https://www.reuters.com/world/asia-pacific/crypto-firm-accidentally-sends-44-billion-bitcoins-users-2026-02-07/)
+⬆️ 5 • 💬 0 • 20h ago • [reuters.com](https://www.reuters.com/world/asia-pacific/crypto-firm-accidentally-sends-44-billion-bitcoins-users-2026-02-07/)
 
 ---
 
@@ -297,7 +297,7 @@ Bitcoin behaves more like an "ATM" during uncertain times, with investors quickl
 
 Bithumb, Korea's second-largest cryptocurrency exchange, mistakenly credited users with Bitcoin worth approximately 260 billion won ($195 million), instead of the modest number of reward points or Bitcoin that it had intended to distribute.
 
-⬆️ 3 • 💬 0 • 20h ago • [koreajoongangdaily.joins.com](https://koreajoongangdaily.joins.com/news/2026-02-07/business/finance/Crypto-exchange-Bithumb-mistakenly-hands-out-195M-in-Bitcoin-to-users-in-Random-Box-giveaway/2518495)
+⬆️ 3 • 💬 0 • 21h ago • [koreajoongangdaily.joins.com](https://koreajoongangdaily.joins.com/news/2026-02-07/business/finance/Crypto-exchange-Bithumb-mistakenly-hands-out-195M-in-Bitcoin-to-users-in-Random-Box-giveaway/2518495)
 
 ---
 
@@ -357,7 +357,7 @@ Why did the world's largest asset class lose nearly $2 trillion in value so quic
 
 📺 Discover Crypto
 
-👁️ 5K • 👍 166 • 💬 114 • ⏱️ 7:32 • 16h ago
+👁️ 5K • 👍 166 • 💬 114 • ⏱️ 7:32 • 17h ago
 
 ---
 
@@ -397,7 +397,7 @@ If you've been waiting for a real Bitcoin opportunity, this may be it ➡️  . 
 
 📺 Ross Givens
 
-👁️ 385 • 👍 35 • 💬 1 • ⏱️ 2:28 • 58m ago
+👁️ 385 • 👍 35 • 💬 1 • ⏱️ 2:28 • 1h ago
 
 ---
 

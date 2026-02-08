@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-02-08T14:28:59.275990+00:00'
+updated: '2026-02-08T14:56:19.572677+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- repositories
 - news
-- social
 - videos
+- repositories
+- social
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** February 08, 2026 at 14:28 UTC  
+**Last Updated:** February 08, 2026 at 14:56 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -41,7 +41,7 @@ AI news, discussions, and developments
 
 Just wanted to say thanks for the thoughtful discussion and feedback on my previous post. I did not expect that level of interest, and I appreciate how constructive most of the comments were. Based on a few requests, I put together a short demonstration showing the system applied to a deliberately difficult street-level image. No obvious landmarks, no readable signage, no metadata. The location was verified in under two minutes. I am still undecided on the long-term direction of this work. That said, if there are people here interested in collaborating from a research, defensive, or ethical perspective, I am open to conversations. That could mean validation, red-teaming anything else. Thanks again to the community for the earlier discussion. Happy to answer high-level questions and hear thoughts on where tools like this should and should not go.
 
-3h ago
+4h ago
 
 ---
 
@@ -63,7 +63,7 @@ Every AI API provider gives you a snapshot of current usage. None of them show y
 
 **[Nvidia CEO Says AI Capital Spending Is Appropriate, Sustainable](https://www.reddit.com/r/artificial/comments/1qyx57y/nvidia_ceo_says_ai_capital_spending_is/)**
 
-🔗 [bloomberg.com](https://www.bloomberg.com/news/articles/2026-02-06/nvidia-ceo-says-ai-capital-spending-is-appropriate-sustainable?srnd=phx-technology&leadSource=reddit_wall) • 11h ago
+🔗 [bloomberg.com](https://www.bloomberg.com/news/articles/2026-02-06/nvidia-ceo-says-ai-capital-spending-is-appropriate-sustainable?srnd=phx-technology&leadSource=reddit_wall) • 12h ago
 
 ---
 
@@ -137,13 +137,13 @@ Axios • 1d ago
 
 **[AI Fear Grips Wall Street as a New Stock Market Reality Sets In](https://www.bloomberg.com/news/articles/2026-02-08/ai-fear-grips-wall-street-as-a-new-stock-market-reality-sets-in)**
 
-Bloomberg.com • 28m ago
+Bloomberg.com • 56m ago
 
 ---
 
 **[New Immigration Limits Loom As AI Drives H-1B Visas For Tech Companies](https://www.forbes.com/sites/stuartanderson/2026/02/08/new-immigration-limits-loom-as-ai-drives-h-1b-visas-for-tech-companies/)**
 
-Forbes • 40m ago
+Forbes • 1h ago
 
 ---
 
@@ -151,7 +151,7 @@ Forbes • 40m ago
 
 Doctors used AI and a 3D printer to create a new jaw for a teen girl who was shot in the face at close range. Mya Buie, 17, was allegedly shot by her mother’s ex-boyfriend during a domestic dispute just days before her birthday in October 2025.
 
-People.com • 58m ago
+People.com • 1h ago
 
 ---
 
@@ -189,7 +189,7 @@ MIT Technology Review • 1d ago
 
 A Cardiff University researcher recreated her own voice using a deathbot - but found it strange.
 
-BBC • 6h ago
+BBC • 7h ago
 
 ---
 
@@ -263,7 +263,7 @@ Give your AI agent a browser that actually works
 
 Fears over AI spending have sparked a sell-off among tech stocks.
 
-⬆️ 88 • 💬 89 • 1d ago • [CNBC](https://www.cnbc.com/2026/02/06/ai-sell-off-stocks-amazon-oracle.html)
+⬆️ 88 • 💬 89 • 2d ago • [CNBC](https://www.cnbc.com/2026/02/06/ai-sell-off-stocks-amazon-oracle.html)
 
 ---
 
@@ -285,7 +285,7 @@ Become a member! ✓ https://www.youtube.com/channel/UCahJ9IsvXnaQiuNyWQSkrkw/jo
 
 📺 Chris Norlund
 
-👁️ 107K • 👍 7K • 💬 1K • ⏱️ 17:42 • 15h ago
+👁️ 107K • 👍 7K • 💬 1K • ⏱️ 17:42 • 16h ago
 
 ---
 
@@ -305,7 +305,7 @@ CHAPTERS ⤵ 00:00 The Biggest AI Stories This Week 02:44 Exclusive Code “CURI
 
 📺 Dylan Curious
 
-👁️ 6K • 👍 421 • 💬 102 • ⏱️ 28:32 • 23h ago
+👁️ 6K • 👍 421 • 💬 102 • ⏱️ 28:32 • 1d ago
 
 ---
 
@@ -653,7 +653,7 @@ AI → JSON → UI
 
 `TypeScript`
 
-⭐ 10.1k • 🔱 538 • 13h ago
+⭐ 10.1k • 🔱 538 • 14h ago
 
 ---
 
