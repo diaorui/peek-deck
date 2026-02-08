@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-02-08T02:37:54.011279+00:00'
+updated: '2026-02-08T05:04:18.929536+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- videos
-- social
-- news
 - cryptocurrency
+- social
+- videos
+- news
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** February 08, 2026 at 02:37 UTC  
+**Last Updated:** February 08, 2026 at 05:04 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -36,33 +36,33 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Price
 
-### $2,100.11
+### $2,088.83
 
 ---
 
 ## Ethereum Chart
 
-**24h:** +0.2%  
-**7d:** -11.0%  
-**30d:** -32.4%  
-**90d:** -38.8%  
-**1y:** -20.6%  
+**24h:** +1.7%  
+**7d:** -11.2%  
+**30d:** -32.6%  
+**90d:** -39.0%  
+**1y:** -20.8%  
 
 ---
 
 ## Ethereum Market Stats
 
-**Market Cap:** $252.78B
+**Market Cap:** $251.26B
 Rank #2
 
 **Circulating Supply:** 120,692,627 ETH
 No max supply
 
 **All-Time High:** $4,946.05
--57.8%
+-57.9%
 
 **All-Time Low:** $0.43
-+482484.6%
++480449.9%
 
 ---
 
@@ -72,13 +72,13 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-20h ago
+23h ago
 
 ---
 
 **[We're building an open-source archive of the earliest Ethereum smart contracts (2015-2017) — looking for contributors](https://www.reddit.com/r/ethereum/comments/1qymum3/were_building_an_opensource_archive_of_the/)**
 
-7h ago
+9h ago
 
 ---
 
@@ -102,7 +102,7 @@ Vitalik: role of L2s has changed, Hegotá upgrade headliner proposals, Lido v3 l
 
 im jef, and im honestly just starting to get into crypto, trying to understand how all of this works and whether it’s something i could realistically learn and grow into over time. i don’t come from money, im just a student juggling school, responsibilities, and everyday expenses, so I don’t have much to risk or experiment with, which is why im looking for advice more than anything else. i’ve been reading, watching, and asking around, but it still feels overwhelming, and i know im inexperienced and probably missing a lot of important basics. At the same time, a part of me thinks this could be a real opportunity if i approach it carefully, stay patient, and learn from people who actually know what they’re doing. im not chasing quick profits or hype, i just want guidance on how to start smart, avoid obvious mistakes, and figure out if someone like me, broke, still studying, and learning as i go, i might have a genuine chance at building something small but meaningful through crypto in the long run. could anyone give advise?
 
-22h ago
+1d ago
 
 ---
 
@@ -156,11 +156,35 @@ The Block • 1d ago
 
 ---
 
-**[Coinbase's Crypto-Backed Loans Notch Record Liquidations Amid Bitcoin, Ethereum Plunge](https://decrypt.co/357265/coinbases-loans-record-liquidations-bitcoin-ethereum-plunge)**
+**[Crypto prices on Friday: Bitcoin, Ethereum and more tick upward](https://mashable.com/article/crypto-bitcoin-ethereum-prices-tick-upward-friday-2-6-2026)**
 
-Coinbase customers faced losses in fresh ways through the exchange’s crypto-backed lending product as Bitcoin and Ethereum tumbled this week.
+Prices are climbing back up after the biggest crypto crash since 2022.
 
-Decrypt • 1d ago
+Mashable • 1d ago
+
+---
+
+**[Crypto Treasuries Fall Deeply Underwater as Bitcoin, Ethereum and Solana Dive](https://decrypt.co/357130/crypto-treasury-underwater-bitcoin-ethereum-solana-dive)**
+
+Prominent publicly traded crypto treasury firms are underwater on their holdings as Bitcoin and Ethereum keep falling.
+
+Decrypt • 2d ago
+
+---
+
+**[Bitcoin, Ethereum Liquidations Hit $704M In 24 Hours—And $70,000 Could Break, Polymarket Predicts](https://finance.yahoo.com/news/bitcoin-ethereum-liquidations-hit-704m-120113179.html)**
+
+Bitcoin (CRYPTO: BTC) traders are bracing for more pain after liquidations reached $704 million in a single 24-hour period. The sharp sell-off has crypto investors turning to prediction markets for clues on where the bottom might be. What Polymarket Traders Are Predicting Polymarket is currently flashing warning signs for the immediate future. The “What price will Bitcoin hit in February?” market, which has already cleared $14 million in volume, now places a 56% probability on Bitcoin sliding to
+
+Yahoo Finance • 2d ago
+
+---
+
+**[How Buying Ethereum Today Could 10x Your Net Worth](https://finance.yahoo.com/news/buying-ethereum-today-could-10x-210500420.html)**
+
+The world's second-largest cryptocurrency still has a bright future.
+
+Yahoo Finance • 2d ago
 
 ---
 
@@ -172,12 +196,6 @@ The Guardian • 2d ago
 
 ---
 
-**[Ethereum Price Prediction: Alarming Bearish Signals Suggest ETH Could Plunge Below $2,000](https://www.binance.com/en/square/post/35999941537161)**
-
-Binance • 3d ago
-
----
-
 **[Ethereum (ETH) news: BitMine (BMNR) faces $8 billion paper loss on ether holdings](https://www.coindesk.com/business/2026/02/05/tom-lee-s-bitmine-now-usd8-billion-underwater-as-ether-tumbles-below-usd2-000)**
 
 Despite the mounting loss, the Ethereum treasury firm says it's under no pressure to sell as ETH price crashes and its stock tumbles.
@@ -186,41 +204,27 @@ CoinDesk • 2d ago
 
 ---
 
-**[BitMine Ethereum Treasury Losses And Leadership Changes Put BMNR Under Scrutiny](https://finance.yahoo.com/news/bitmine-ethereum-treasury-losses-leadership-170707091.html)**
+**[Sharplink Stock: An Unfairly Penalized Ethereum Treasury Company (NASDAQ:SBET)](https://seekingalpha.com/article/4867467-sharplink-an-unfairly-penalized-ethereum-treasury-company)**
 
-BitMine Immersion Technologies, ticker NYSEAM:BMNR, is reporting nearly $8b in unrealized losses tied to its Ethereum holdings after a sharp pullback in ETH prices. The company continues to frame its large Ethereum position and staking operations as part of a long term treasury approach, while continuing to accumulate ETH. Recent executive turnover, including the amicable separation of President Erik Nelson, is adding another layer of uncertainty for shareholders during heightened crypto...
+A closer look at Sharplink’s price and underlying fundamentals points to a compelling entry point here. Read more on the bullish thesis of SBET stock.
 
-Yahoo Finance • 9h ago
-
----
-
-**[Tom Lee's BitMine Now $8 Billion Underwater as Ether Crashes Below $2,000](https://www.binance.com/en/square/post/36058998937305)**
-
-Binance • 2d ago
+Seeking Alpha • 1h ago
 
 ---
 
-**[Crypto prices on Friday: Bitcoin, Ethereum and more tick upward](https://mashable.com/article/crypto-bitcoin-ethereum-prices-tick-upward-friday-2-6-2026)**
+**[Ethereum makes game-changing decision that could change future of cryptocurrency: 'Poised to lead the way'](https://www.thecooldown.com/green-business/ethereum-cryptocurrency-sustainable-proof-of-stake/)**
 
-Prices are climbing back up after the biggest crypto crash since 2022.
+Ethereum's shift to a new cryptocurrency mining mechanism has demonstrated how the industry is changing its ways.
 
-Mashable • 1d ago
-
----
-
-**[How Buying Ethereum Today Could 10x Your Net Worth](https://www.nasdaq.com/articles/how-buying-ethereum-today-could-10x-your-net-worth)**
-
-Key PointsEther’s price has plunged in 2026.
-
-Nasdaq • 2d ago
+The Cool Down • 13h ago
 
 ---
 
-**[Here's What Needs to Happen for Ethereum to Hit $5,000 This Year](https://www.fool.com/investing/2026/02/05/heres-what-needs-to-happen-for-ethereum-to-hit-500/)**
+**[Ethereum Libra Formation In Play: ETH’s Next Big Move Could Be Loading](https://www.tradingview.com/news/newsbtc:cfeb5693a094b:0-ethereum-libra-formation-in-play-eth-s-next-big-move-could-be-loading/)**
 
-Will 2026 be the year investors see the price they've dreamed of?
+Ethereum is quietly setting up for a potentially decisive move as the Libra formation remains active on the weekly chart. While confirmation is still pending, the structure has not been invalidated, keeping the upside scenario firmly on the table. With key resistance levels overhead and momentum be…
 
-The Motley Fool • 2d ago
+TradingView • 6h ago
 
 ---
 
@@ -234,7 +238,7 @@ BITCOIN & ALTCOINS: New Targets Confirmed (Prepare Now)!!! - Bitcoin News Today,
 
 📺 Crypto World
 
-👁️ 5K • 👍 262 • 💬 127 • ⏱️ 17:07 • 4h ago
+👁️ 7K • 👍 321 • 💬 116 • ⏱️ 17:07 • 7h ago
 
 ---
 
@@ -244,17 +248,7 @@ This video provides a professional Elliott Wave and technical analysis of Ethere
 
 📺 More Crypto Online
 
-👁️ 3K • 👍 192 • 💬 7 • ⏱️ 4:56 • 6h ago
-
----
-
-**[Fundstrat&#39;s Tom Lee: Crypto looks like it is bottoming now](https://www.youtube.com/watch?v=Fh8djni6jHU)**
-
-Tom Lee, Fundstrat, joins 'Closing Bell' to discuss the state of crypto markets, Bitmine's business and much more.
-
-📺 CNBC Television
-
-👁️ 66K • 👍 745 • 💬 312 • ⏱️ 3:53 • 1d ago
+👁️ 3K • 👍 195 • 💬 10 • ⏱️ 4:56 • 8h ago
 
 ---
 
@@ -264,17 +258,27 @@ One of the biggest crypto crashes in history! Here is what happened, why and my 
 
 📺 Thomas Kralow
 
-👁️ 37K • 👍 1K • 💬 75 • ⏱️ 11:51 • 1d ago
+👁️ 38K • 👍 1K • 💬 76 • ⏱️ 11:51 • 1d ago
 
 ---
 
-**[Tom Lee: Don&#39;t Be Fooled! Ethereum To $22,000 By THIS Date (2026 Prediction)](https://www.youtube.com/watch?v=htwTdCTCINI)**
+**[Fundstrat&#39;s Tom Lee: Crypto looks like it is bottoming now](https://www.youtube.com/watch?v=Fh8djni6jHU)**
 
-My FREE Daily 5-Min Crypto Newsletter: https://www.cryptonutshell.com/subscribe ✓ Subscribe to @TheCryptoNutshell for daily ...
+Tom Lee, Fundstrat, joins 'Closing Bell' to discuss the state of crypto markets, Bitmine's business and much more.
 
-📺 Crypto Nutshell
+📺 CNBC Television
 
-👁️ 18K • 👍 486 • 💬 156 • ⏱️ 22:22 • 2d ago
+👁️ 69K • 👍 754 • 💬 304 • ⏱️ 3:53 • 1d ago
+
+---
+
+**[Vitalik Buterin’s Ethereum Strategy Shift Validates Kaspa’s Vision!](https://www.youtube.com/watch?v=Ok1i6lgU_Yo)**
+
+Tangem 20% off + $10 in Bitcoin ➡️➡️ Use codes "NYEXTRA26" & "CRYPTOCREW" UNTIL March 2nd!
+
+📺 Your Crypto Crew
+
+👁️ 1K • 👍 135 • 💬 30 • ⏱️ 12:26 • 14h ago
 
 ---
 
@@ -284,17 +288,17 @@ ETHEREUM ETH PRICE PREDICTION 2026 Join the Premium Signal Group for trade setup
 
 📺 Cilinix Crypto
 
-👁️ 752 • 👍 28 • 💬 9 • ⏱️ 5:23 • 16h ago
+👁️ 775 • 👍 28 • 💬 8 • ⏱️ 5:23 • 18h ago
 
 ---
 
-**[Yummy Update 🥩 FIRE HORSE SOON, ProveX, Ethereum Reversal, Paid PsyOps, AI, Bitcoin Dominance](https://www.youtube.com/watch?v=GVBPiROM0_Y)**
+**[Tom Lee: Don&#39;t Be Fooled! Ethereum To $22,000 By THIS Date (2026 Prediction)](https://www.youtube.com/watch?v=htwTdCTCINI)**
 
-Donation Address: yourfriendsommi.eth / yourfriendsommi.pls Click Subscribe + Bell Button 'All' Follow on Twitter: ...
+My FREE Daily 5-Min Crypto Newsletter: https://www.cryptonutshell.com/subscribe ✓ Subscribe to @TheCryptoNutshell for daily ...
 
-📺 🌟yourfriendsommi
+📺 Crypto Nutshell
 
-👁️ 56 • 👍 16 • 💬 3 • ⏱️ 11:31 • 7m ago
+👁️ 18K • 👍 489 • 💬 156 • ⏱️ 22:22 • 2d ago
 
 ---
 
@@ -308,23 +312,23 @@ Uhh... so... is anyone else getting that strange feeling that something big is a
 
 ---
 
-**[Ether -  The Most VOLATILE Substance on Earth!](https://www.youtube.com/watch?v=Aq4_VnhuDRU)**
+**[“This Crash Might Be the Setup Most Crypto Holders Are Missing&quot; – Matt Hougan](https://www.youtube.com/watch?v=gMUdNWz4eaI)**
 
-Patreon: https://www.patreon.com/Thoisoi Attention! This video shows dangerous experiments! Do not repeat the experiments ...
+Take Control of Your Retirement — Grow Crypto & Gold Tax-Advantaged. https://www.itrustcapital.com/go/savvy-finance If you're ...
 
-📺 Thoisoi2 - Chemical Experiments!
+📺 Savvy Finance
 
-👁️ 9K • 👍 1K • 💬 173 • ⏱️ 20:04 • 10h ago
+👁️ 8K • 👍 344 • 💬 12 • ⏱️ 20:57 • 2d ago
 
 ---
 
-**[Vitalik Buterin’s Ethereum Strategy Shift Validates Kaspa’s Vision!](https://www.youtube.com/watch?v=Ok1i6lgU_Yo)**
+**[Yummy Update 🥩 FIRE HORSE SOON, ProveX, Ethereum Reversal, Paid PsyOps, AI, Bitcoin Dominance](https://www.youtube.com/watch?v=GVBPiROM0_Y)**
 
-Tangem 20% off + $10 in Bitcoin ➡️➡️ Use codes "NYEXTRA26" & "CRYPTOCREW" UNTIL March 2nd!
+Donation Address: yourfriendsommi.eth / yourfriendsommi.pls Click Subscribe + Bell Button 'All' Follow on Twitter: ...
 
-📺 Your Crypto Crew
+📺 🌟yourfriendsommi
 
-👁️ 1K • 👍 128 • 💬 31 • ⏱️ 12:26 • 11h ago
+👁️ 634 • 👍 131 • 💬 31 • ⏱️ 11:31 • 2h ago
 
 ---
 

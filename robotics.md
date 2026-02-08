@@ -3,13 +3,13 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-02-08T02:37:54.014092+00:00'
+updated: '2026-02-08T05:04:18.932584+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- videos
 - social
+- videos
 - news
 ---
 
@@ -17,7 +17,7 @@ data_types:
 
 Robotics research and industry news
 
-**Last Updated:** February 08, 2026 at 02:37 UTC  
+**Last Updated:** February 08, 2026 at 05:04 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -36,7 +36,7 @@ Robotics research and industry news
 
 Pantograph website: https://pantograph.com/ Pantograph on 𝕏: http://x.com/pantographPBC
 
-14h ago
+16h ago
 
 ---
 
@@ -44,13 +44,13 @@ Pantograph website: https://pantograph.com/ Pantograph on 𝕏: http://x.com/pan
 
 The chest finally finished printing after 5 days of printing. I assembled it and so far it looks like this, i still have to build the right arm and mount them. I know it may not look that good but it’s my first time doing such a big project and i’m still learning.
 
-10h ago
+12h ago
 
 ---
 
 **[It dance better than me for sure…](https://www.reddit.com/r/robotics/comments/1qykdxw/it_dance_better_than_me_for_sure/)**
 
-8h ago
+11h ago
 
 ---
 
@@ -58,7 +58,7 @@ The chest finally finished printing after 5 days of printing. I assembled it and
 
 Once again, Boston Dynamics just leaving everyone in the dust. Watch all the chinese copycats try to do the same thing. https://www.youtube.com/watch?v=UNorxwlZlFk
 
-4h ago
+6h ago
 
 ---
 
@@ -66,7 +66,7 @@ Once again, Boston Dynamics just leaving everyone in the dust. Watch all the chi
 
 Hi everyone, I’m planning to build a self-balancing robot and I wanted to share the parts I currently have before moving forward. Parts I have: Arduino Nano (ATmega328P) MPU6050 (accelerometer + gyroscope) TB6612FNG dual motor driver DC motors (3–6 V) Battery pack ~8 V, 2600 mAh 2× electrolytic capacitors (1000 µF, 16 V) Wheels and a rigid homemade chassis The goal is to make a robot that can balance itself upright using these components. I’m still in the early stages and would appreciate any general advice or things to watch out for when building a self-balancing robot with this kind of setup. Thanks!
 
-7h ago
+10h ago
 
 ---
 
@@ -74,7 +74,15 @@ Hi everyone, I’m planning to build a self-balancing robot and I wanted to shar
 
 Hi everyone! Don't know if this is the right sub to post but please help if you can. I will complete my bachelor's in Computer Science in June 2026. I have a job offer from a tech MNC, but I have mixed feelings. I don't see myself enjoying working in tech roles anymore. I built two hardware projects during my course and I had way more interest in those projects. I am good with my IT basics and above average at coding. I didn't think a lot about it before. But now, I feel like I don't enjoy IT all that much. I keep thinking is there a way for me to switch into something related to mechanical engineering or mechatronics or robotics? I got very interested in robotics while learning Reinforcement Learning. I am also doing honours/minor in AIML. Out of curiosity, I have learnt a lot of basics like control systems, PID, kinematics, transformation matrices etc. but not in very detail. I have done A2 German. I am learning ROS now. What I'm thinking now is to work at the MNC for a couple of years, get to B2 German (or C1, if I can) and then apply for Masters in Robotics or Mechatronics. I found a few Masters programs in Germany that accept CS undergrad. Is this the correct plan? I don't have any great hardware/robotics related projects or any research experience in robotics. Would that be a problem? Would I be able to use my Software/IT experience while looking for jobs in Germany in robotics? Also, how is the German job market for robotics/automation? For people like me, who switch from IT to robotics. If I were to go ahead with this plan, I have 2-3 years before I apply. What should I do/learn in these years (along with my job and learning German) so that the switch from IT to Robotics feels manageable? What topics should I study in detail? My end goal is to properly learn robotics (through masters) and get a job in this field. My self studying alone won't help me get a job, I believe. So anyone who has been in a similar situation or anyone else who has any advice, please help. Thanks!
 
-1h ago
+4h ago
+
+---
+
+**[Redesigning the environment for the robot may be cheaper and more efficient than redesigning the robot for the environment.](https://www.reddit.com/r/robotics/comments/1qyc1eb/redesigning_the_environment_for_the_robot_may_be/)**
+
+There is the popular argument for why having a humanoid robot would be the best way to do things: "because the environment is human shaped/designed for humans." However, why are we assuming it would be necessarily harder to redesign the environment so a simpler non-humanoid robot can make use of it rather than recreating the entire human body and all its complexities in robot form while trying to make it suitable to many different varying environments? Also, this argument implies the environment is exclusively human shaped, meaning a machine with human shapes and function is the only way forward in order for it traverse and interact with the environment, but this is not true. For instance, a flat floor, which is designed for human use, also allows use by a non-humanoid robot with wheels.
+
+17h ago
 
 ---
 
@@ -86,19 +94,11 @@ From CyberRobo on 𝕏: https://x.com/CyberRobooo/status/2019598569909743755
 
 ---
 
-**[Redesigning the environment for the robot may be cheaper and more efficient than redesigning the robot for the environment.](https://www.reddit.com/r/robotics/comments/1qyc1eb/redesigning_the_environment_for_the_robot_may_be/)**
-
-There is the popular argument for why having a humanoid robot would be the best way to do things: "because the environment is human shaped/designed for humans." However, why are we assuming it would be necessarily harder to redesign the environment so a simpler non-humanoid robot can make use of it rather than recreating the entire human body and all its complexities in robot form while trying to make it suitable to many different varying environments? Also, this argument implies the environment is exclusively human shaped, meaning a machine with human shapes and function is the only way forward in order for it traverse and interact with the environment, but this is not true. For instance, a flat floor, which is designed for human use, also allows use by a non-humanoid robot with wheels.
-
-14h ago
-
----
-
 **[Birthday gift ideas for boyfriend (CS senior + humanoid robotics, practical not flashy)](https://www.reddit.com/r/robotics/comments/1qy80pk/birthday_gift_ideas_for_boyfriend_cs_senior/)**
 
 My boyfriend is a computer science major and is about to graduate. He’s really into robotics, especially humanoid robots, and he currently works in a research lab where they’re building a humanoid that can catch objects. Most of what I see him doing is simulation and coding work on his computer. Last year I got him an Arduino kit, and he already has a toolkit, but he doesn’t really use either one much on his own (as far as I see). He’s pretty thrifty and values practicality over “cool” gadgets. For context, he uses a Mac and has a portable monitor that fits in his backpack. He doesn’t currently use an external keyboard or mouse, but I don’t think he cares much about those. I want to get him something he’ll genuinely use in his future work. Since he mostly works in teams through his lab/club (not solo at-home build projects), I’m not looking for another kit. Any gift ideas from people in CS/robotics, or partners of people in this field, that are truly useful and not gimmicky? Thank you!!
 
-18h ago
+21h ago
 
 ---
 
@@ -114,14 +114,6 @@ Just pushed an update to casadi-on-gpu that lets you generate CUDA kernels direc
 
 ## Google News: "robotics"
 
-**[ETM brings its transverse flux motor technology to robotics](https://www.therobotreport.com/etm-brings-its-transverse-flux-motor-technology-to-robotics/)**
-
-ETM said its TFM technology enables OEMs to simplify mechanical designs, reduce costs, and achieve performance benchmarks.
-
-The Robot Report • 3d ago
-
----
-
 **[China is running the EV playbook on humanoid robots — and it’s working](https://restofworld.org/2026/china-humanoid-robots-unitree-agibot-tesla-optimus/)**
 
 Rest of World • 2d ago
@@ -132,7 +124,7 @@ Rest of World • 2d ago
 
 Union organizers are growing increasingly worried about a future in which AI-powered robots decimate blue collar labor.
 
-Futurism • 9h ago
+Futurism • 12h ago
 
 ---
 
@@ -144,11 +136,43 @@ Fortune • 2d ago
 
 ---
 
+**[This Robotics Stock Is Up 141% Over the Past Year. Can It Go Higher in 2026?](https://www.barchart.com/story/news/55174/this-robotics-stock-is-up-141-over-the-past-year-can-it-go-higher-in-2026)**
+
+After an explosive 2025 rally, can Teradyne stock continue its climb this year?
+
+Barchart.com • 2d ago
+
+---
+
+**[Walmart to add automation, robotics to Louisiana distribution center](https://www.supplychaindive.com/news/walmart-automation-robotics-opelousas-louisiana-distribution-center/811025/)**
+
+The retailer’s $330 million investment, slated to start this year, is part of a larger effort to upgrade all 42 of its regional distribution facilities.
+
+Supply Chain Dive • 2d ago
+
+---
+
 **[Elon Musk warns the U.S. is ‘1,000% going to go bankrupt’ unless AI and robotics save the economy from crushing debt](https://finance.yahoo.com/news/elon-musk-warns-u-1-184828930.html)**
 
 "We just need enough time to build the AI and robots to not go bankrupt before then."
 
-Yahoo Finance • 7h ago
+Yahoo Finance • 10h ago
+
+---
+
+**[Bills introduced to strengthen U.S. robotics competitiveness, humanoid security](https://www.therobotreport.com/bills-introduced-strengthen-u-s-robotics-competitiveness-humanoid-security/)**
+
+The bills seek to establish a National Commission on Robotics and restrict humanoid imports for U.S. security and competitiveness.
+
+The Robot Report • 1d ago
+
+---
+
+**[Making robots useful and affordable will need better motors](https://www.bbc.com/news/articles/c5y46356zzyo)**
+
+Firms are working to make the motors that drive robots more efficient and cheaper.
+
+BBC • 2d ago
 
 ---
 
@@ -166,30 +190,6 @@ ASUS Pressroom • 2d ago
 
 ---
 
-**[Making robots useful and affordable will need better motors](https://www.bbc.com/news/articles/c5y46356zzyo)**
-
-Firms are working to make the motors that drive robots more efficient and cheaper.
-
-BBC • 2d ago
-
----
-
-**["Robots Need Your Body": New Site Lets AI Rent Human Labour](https://www.ndtv.com/feature/robots-need-your-body-new-site-lets-ai-rent-human-labour-10960601)**
-
-Rentahuman.ai is a new marketplace where AI software acts as the employer, hiring humans to perform physical "real-world" tasks, effectively turning people into an on-demand service layer for autonomous agents.
-
-NDTV • 1d ago
-
----
-
-**[This Robotics Stock Is Up 141% Over the Past Year. Can It Go Higher in 2026?](https://www.barchart.com/story/news/55174/this-robotics-stock-is-up-141-over-the-past-year-can-it-go-higher-in-2026)**
-
-After an explosive 2025 rally, can Teradyne stock continue its climb this year?
-
-Barchart.com • 2d ago
-
----
-
 ---
 
 ## YouTube Videos: "robotics"
@@ -200,7 +200,7 @@ Humanoid robots just entered a new phase of realism. In Shanghai, DroidUp reveal
 
 📺 AI Revolution
 
-👁️ 191K • 👍 4K • 💬 830 • ⏱️ 13:31 • 3d ago
+👁️ 194K • 👍 4K • 💬 833 • ⏱️ 13:31 • 3d ago
 
 ---
 
@@ -210,7 +210,7 @@ Humanoid robots just entered a new phase of realism. In Shanghai, DroidUp reveal
 
 📺 Unitree Robotics
 
-👁️ 131K • 👍 1K • 💬 150 • ⏱️ 0:45 • 5d ago
+👁️ 132K • 👍 1K • 💬 150 • ⏱️ 0:45 • 5d ago
 
 ---
 
@@ -220,17 +220,17 @@ Capybara's golden robot lion was sabotaged by Brianna before the big competition
 
 📺 CapyEscapes
 
-👁️ 31K • 👍 1K • 💬 128 • ⏱️ 0:59 • 15h ago
+👁️ 32K • 👍 1K • 💬 139 • ⏱️ 0:59 • 17h ago
 
 ---
 
-**[Bolt — world&#39;s fastest humanoid robot from Chinese firm MirrorMe](https://www.youtube.com/watch?v=iws-5C-qPno)**
+**[This Robot Produces Speech the Human Way 😮](https://www.youtube.com/watch?v=L0M5fs_phpA)**
 
-MirrorMe launched the humanoid robot — Bolt — on Monday, achieving a peak running speed of 10 meters per second in ...
+This Robot Produces Speech the Human Way This system generates speech using physical movement rather than digital ...
 
-📺 CnEVPost
+📺 MrScoopz
 
-👁️ 36K • 👍 340 • 💬 83 • ⏱️ 1:09 • 4d ago
+👁️ 7.6M • 👍 45K • 💬 2K • ⏱️ 0:05 • 6d ago
 
 ---
 
@@ -244,13 +244,13 @@ This robotic mouth is designed to replicate how real human lips move while speak
 
 ---
 
-**[This Robot Produces Speech the Human Way 😮](https://www.youtube.com/watch?v=L0M5fs_phpA)**
+**[These Microscopic Bubble Robots Can Find Cancer On Their Own &amp; Fight Against It #robot #shorts](https://www.youtube.com/watch?v=sD_s2oxqOO8)**
 
-This Robot Produces Speech the Human Way This system generates speech using physical movement rather than digital ...
+Tiny Bubble Robots Could Revolutionize Cancer Treatment Scientists at Caltech and USC have created tiny “bubble robots” that ...
 
-📺 MrScoopz
+📺 uncover reality
 
-👁️ 7.3M • 👍 43K • 💬 2K • ⏱️ 0:05 • 6d ago
+👁️ 19K • 👍 221 • 💬 13 • ⏱️ 0:06 • 18h ago
 
 ---
 
@@ -260,7 +260,15 @@ For those with little ones, check out my NEW YT page for some learning fun! http
 
 📺 Jeenie.Weenie
 
-👁️ 2K • 👍 232 • 💬 33 • ⏱️ 10:12 • 12h ago
+👁️ 3K • 👍 246 • 💬 33 • ⏱️ 10:12 • 15h ago
+
+---
+
+**[Tesla Robot handles upside down popcorn. It’s crazy how much these will change everything.](https://www.youtube.com/watch?v=PlEGwoJmon8)**
+
+📺 Tesla Owners Silicon Valley
+
+👁️ 53K • 👍 1K • 💬 58 • ⏱️ 0:40 • 2d ago
 
 ---
 
@@ -270,7 +278,7 @@ War Robots Gameplay: Sonic Ammit - actually insane build! My War Robots Creator 
 
 📺 Manni-Gaming
 
-👁️ 7K • 👍 384 • 💬 74 • ⏱️ 14:50 • 17h ago
+👁️ 7K • 👍 394 • 💬 75 • ⏱️ 14:50 • 19h ago
 
 ---
 
@@ -280,15 +288,7 @@ Join me in Paris for the LAUNCH of the Next Gen living robotic lawn mower from N
 
 📺 Matt Talks Tech
 
-👁️ 5K • 👍 598 • 💬 13 • ⏱️ 6:41 • 1d ago
-
----
-
-**[Tesla Robot handles upside down popcorn. It’s crazy how much these will change everything.](https://www.youtube.com/watch?v=PlEGwoJmon8)**
-
-📺 Tesla Owners Silicon Valley
-
-👁️ 48K • 👍 1K • 💬 56 • ⏱️ 0:40 • 2d ago
+👁️ 5K • 👍 597 • 💬 13 • ⏱️ 6:41 • 1d ago
 
 ---
 
