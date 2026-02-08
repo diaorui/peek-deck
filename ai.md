@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-02-08T11:47:33.862076+00:00'
+updated: '2026-02-08T12:53:21.970349+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
 - videos
 - social
-- repositories
 - news
+- repositories
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** February 08, 2026 at 11:47 UTC  
+**Last Updated:** February 08, 2026 at 12:53 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -41,7 +41,7 @@ AI news, discussions, and developments
 
 Just wanted to say thanks for the thoughtful discussion and feedback on my previous post. I did not expect that level of interest, and I appreciate how constructive most of the comments were. Based on a few requests, I put together a short demonstration showing the system applied to a deliberately difficult street-level image. No obvious landmarks, no readable signage, no metadata. The location was verified in under two minutes. I am still undecided on the long-term direction of this work. That said, if there are people here interested in collaborating from a research, defensive, or ethical perspective, I am open to conversations. That could mean validation, red-teaming anything else. Thanks again to the community for the earlier discussion. Happy to answer high-level questions and hear thoughts on where tools like this should and should not go.
 
-1h ago
+2h ago
 
 ---
 
@@ -53,17 +53,17 @@ Countries have been building their own “sovereign AI” to reflect their cultu
 
 ---
 
-**[Nvidia CEO Says AI Capital Spending Is Appropriate, Sustainable](https://www.reddit.com/r/artificial/comments/1qyx57y/nvidia_ceo_says_ai_capital_spending_is/)**
-
-🔗 [bloomberg.com](https://www.bloomberg.com/news/articles/2026-02-06/nvidia-ceo-says-ai-capital-spending-is-appropriate-sustainable?srnd=phx-technology&leadSource=reddit_wall) • 9h ago
-
----
-
 **[Open-source quota monitor for AI coding APIs - tracks Anthropic, Synthetic, and Z.ai in one dashboard](https://www.reddit.com/r/artificial/comments/1qz5aid/opensource_quota_monitor_for_ai_coding_apis/)**
 
 Every AI API provider gives you a snapshot of current usage. None of them show you trends over time, project when you will hit your limit, or let you compare across providers. I built onWatch to solve this. It runs in the background as a single Go binary, polls your configured providers every 60 seconds, stores everything locally in SQLite, and serves a web dashboard. What it shows you that providers do not: Usage history from 1 hour to 30 days Live countdowns to each quota reset Rate projections so you know if you will run out before the reset All providers side by side in one view Around 28 MB RAM, no dependencies, no telemetry, GPL-3.0. All data stays on your machine. https://onwatch.onllm.dev https://github.com/onllm-dev/onWatch
 
-1h ago
+2h ago
+
+---
+
+**[Nvidia CEO Says AI Capital Spending Is Appropriate, Sustainable](https://www.reddit.com/r/artificial/comments/1qyx57y/nvidia_ceo_says_ai_capital_spending_is/)**
+
+🔗 [bloomberg.com](https://www.bloomberg.com/news/articles/2026-02-06/nvidia-ceo-says-ai-capital-spending-is-appropriate-sustainable?srnd=phx-technology&leadSource=reddit_wall) • 10h ago
 
 ---
 
@@ -79,7 +79,7 @@ I have been working solo on an AI-based project called Netryx. At a high level, 
 
 Let’s say the quiet part out loud.
 
-🔗 [Medium](https://medium.com/@behindthebuild/big-tech-ai-isnt-taking-your-job-your-refusal-to-use-it-might-966f8219f962) • 18h ago
+🔗 [Medium](https://medium.com/@behindthebuild/big-tech-ai-isnt-taking-your-job-your-refusal-to-use-it-might-966f8219f962) • 19h ago
 
 ---
 
@@ -87,7 +87,7 @@ Let’s say the quiet part out loud.
 
 Hey fam, Been grinding on BrainAPI, this open-source thing that turns messy event logs into a smart knowledge graph for AI agents and rec systems. Think: feed it user clicks/buys/chats, it builds a precise map with cause-effect attribution (no BS hallucinations), then your AI retrieves fast AF for spot-on suggestions. Right now: Core APIs for saving/processing data -> works for CRM member matches/social networks (one user already using it for automated matches). Fast retrieval But ingestion? Slow as hell (10-30 min on small datasets) cuz of heavy LLM chains for precision. Trade-off for that "holy grail" accuracy, but yeah, it's a pain, optimizing soon. Repo: https://github.com/Lumen-Labs/brainapi2 What's the vibe? Bugs? Missing features? Use cases for ecom or agents? Roast it hard, I'm not fragile. If it slaps, star/fork. Building in public, hit me with thoughts!
 
-15h ago
+16h ago
 
 ---
 
@@ -95,7 +95,7 @@ Hey fam, Been grinding on BrainAPI, this open-source thing that turns messy even
 
 One of Kimi’s browser automation scripts uses a dark web library with crypto stealing malware: https://github.com/dnnyngyen/kimi-agent-internals/blob/main/source-code/browser_guard.py
 
-18h ago
+19h ago
 
 ---
 
@@ -123,45 +123,7 @@ An AI-powered model developed at University of Michigan can read a brain MRI and
 
 The hundreds of billions of dollars being spent by tech companies on AI projects are diverting resources from other parts of the economy.
 
-The Washington Post • 17h ago
-
----
-
-**[Why has Elon Musk merged his rocket company with his AI startup?](https://www.theguardian.com/technology/2026/feb/07/why-has-elon-musk-merged-his-rocket-company-with-his-ai-startup)**
-
-SpaceX’s acquisition of xAI creates business worth $1.25tn but whether premise behind deal will work is questioned
-
-The Guardian • 21h ago
-
----
-
-**[These A.I. Dreamers Don’t Fit the Stereotype](https://www.nytimes.com/2026/02/08/style/these-ai-dreamers-dont-fit-the-stereotype.html)**
-
-The New York Times • 1h ago
-
----
-
-**[Super Bowl 2026: Inside the NFL's AI playbook](https://qz.com/super-bowl-ai-athlete-health-billion-dollar-business)**
-
-As the Super Bowl kicks off, the NFL’s AI-powered digital athlete program is quietly saving teams hundreds of millions by helping keep players on the field
-
-qz.com • 45m ago
-
----
-
-**[In the AI era, Mark Cuban, Mary Barra, and even Sam Altman have one tip for Gen Z: unplug and go analog](https://fortune.com/2026/02/08/business-leaders-embrace-human-intentionality-unplug-go-analog-gen-z-mark-cuban-mary-barra-sam-altman/)**
-
-While CEOs like Jensen Huang embrace an always-on mentality, other executives argue for being intentionally human—and unplugging from AI technology at times.
-
-Fortune • 42m ago
-
----
-
-**[AI wiped out $400 billion this week — and it's only getting started](https://www.axios.com/2026/02/07/ai-software-anthropic-losses-stock-market)**
-
-AI isn't just hitting software valuations — it's changing how software companies operate.
-
-Axios • 14h ago
+The Washington Post • 18h ago
 
 ---
 
@@ -169,7 +131,29 @@ Axios • 14h ago
 
 In a new interview, the journalist Yi-Ling Liu argues the AI arms race between the United States and China risks becoming a self-fulfilling prophecy.
 
-Politico • 20h ago
+Politico • 21h ago
+
+---
+
+**[Opinion | It’s the A.I. Economy, Stupid](https://www.nytimes.com/2026/02/08/opinion/ai-democrats-jobs-economy.html)**
+
+The New York Times • 53m ago
+
+---
+
+**[The Best AI Notetakers to Record Your Meetings, Interviews, or Classes](https://www.wired.com/gallery/best-ai-notetakers/)**
+
+A growing collection of pocket-sized gadgets lets you record your meetings and extract value from them. Here are our favorites.
+
+WIRED • 53m ago
+
+---
+
+**[Economists reject Kevin Warsh’s claim that AI boom will enable rate cuts](https://www.ft.com/content/92717c0e-0e59-4d0c-a364-6ac003de4f8e)**
+
+FT-Booth Survey shows scepticism of productivity gains forecast by Trump’s pick as next Fed chair
+
+Financial Times • 1h ago
 
 ---
 
@@ -181,11 +165,11 @@ MIT Technology Review • 1d ago
 
 ---
 
-**[AI’s latest 20-something billionaire got his start at L.A. garage sales](https://www.latimes.com/business/story/2026-02-07/how-la-garage-sales-launched-ais-latest-20-something-billionaire)**
+**[Goldman Sachs taps Anthropic’s Claude to automate accounting, compliance roles](https://www.cnbc.com/2026/02/06/anthropic-goldman-sachs-ai-model-accounting.html)**
 
-Meet the LA boy who turned a multi-millionaire starting an AI training company
+Goldman Sachs is building AI agents with Anthropic’s Claude to automate trade accounting and client onboarding, aiming to speed work and boost efficiency.
 
-latimes.com • 1d ago
+CNBC • 2d ago
 
 ---
 
@@ -193,7 +177,23 @@ latimes.com • 1d ago
 
 A Cardiff University researcher recreated her own voice using a deathbot - but found it strange.
 
-BBC • 4h ago
+BBC • 5h ago
+
+---
+
+**[AI can make anyone rich: Mark Cuban says it could turn ‘just one dude in a basement’ into a trillionaire](https://finance.yahoo.com/news/ai-anyone-rich-mark-cuban-152003409.html)**
+
+The billionaire former "Shark Tank" star and Dallas Mavericks owner is a dedicated AI user.
+
+Yahoo Finance • 21h ago
+
+---
+
+**[Why has Elon Musk merged his rocket company with his AI startup?](https://www.theguardian.com/technology/2026/feb/07/why-has-elon-musk-merged-his-rocket-company-with-his-ai-startup)**
+
+SpaceX’s acquisition of xAI creates business worth $1.25tn but whether premise behind deal will work is questioned
+
+The Guardian • 22h ago
 
 ---
 
@@ -211,7 +211,7 @@ BBC • 4h ago
 
 A new bill in the New York state legislature would require news organizations to label AI-generated material and mandate that humans review any such content before publication. On Monday, Senator Patricia Fahy (D-Albany) and Assemblymember Nily Rozic (D-NYC) introduced the bill, called The New York…
 
-⬆️ 568 • 💬 234 • 2d ago • [Nieman Lab](https://www.niemanlab.org/2026/02/a-new-bill-in-new-york-would-require-disclaimers-on-ai-generated-news-content/)
+⬆️ 570 • 💬 234 • 2d ago • [Nieman Lab](https://www.niemanlab.org/2026/02/a-new-bill-in-new-york-would-require-disclaimers-on-ai-generated-news-content/)
 
 ---
 
@@ -219,7 +219,7 @@ A new bill in the New York state legislature would require news organizations to
 
 The hundreds of billions of dollars being spent by tech companies on AI projects are diverting resources from other parts of the economy.
 
-⬆️ 359 • 💬 596 • 1d ago • [The Washington Post](https://www.washingtonpost.com/technology/2026/02/07/ai-spending-economy-shortages/)
+⬆️ 365 • 💬 615 • 1d ago • [The Washington Post](https://www.washingtonpost.com/technology/2026/02/07/ai-spending-economy-shortages/)
 
 ---
 
@@ -227,7 +227,7 @@ The hundreds of billions of dollars being spent by tech companies on AI projects
 
 AI is rarely optional anymore, but how can you still be proud of your craft? Discover the workflow to effectively write high-quality, robust code using AI tools.
 
-⬆️ 342 • 💬 295 • 1d ago • [heidenstedt.org](https://heidenstedt.org/posts/2026/how-to-effectively-write-quality-code-with-ai/)
+⬆️ 343 • 💬 296 • 1d ago • [heidenstedt.org](https://heidenstedt.org/posts/2026/how-to-effectively-write-quality-code-with-ai/)
 
 ---
 
@@ -243,7 +243,7 @@ A minimal, secure Python interpreter written in Rust for use by AI - pydantic/mo
 
 Contribute to localgpt-app/localgpt development by creating an account on GitHub.
 
-⬆️ 242 • 💬 118 • 10h ago • [GitHub](https://github.com/localgpt-app/localgpt)
+⬆️ 249 • 💬 125 • 11h ago • [GitHub](https://github.com/localgpt-app/localgpt)
 
 ---
 
@@ -271,11 +271,11 @@ Fears over AI spending have sparked a sell-off among tech stocks.
 
 ---
 
-**[Man who videotaped himself BASE jumping in Yosemite arrested, says it was AI](https://news.ycombinator.com/item?id=46916961)**
+**[(AI) Slop Terrifies Me](https://news.ycombinator.com/item?id=46933067)**
 
-A California man is facing a criminal charge for allegedly BASE jumping off Glacier Point in Yosemite National Park during the federal government shutdown last year.
+What if this is as good as software is ever going to be? What if AI stops getting better and what if people stop caring?
 
-⬆️ 54 • 💬 91 • 1d ago • [Los Angeles Times](https://www.latimes.com/california/story/2026-02-05/man-videotaped-himself-base-jumping-in-yosemite-federal-officials-say-he-says-it-was-ai)
+⬆️ 56 • 💬 30 • 2h ago • [ezhik.jp](https://ezhik.jp/ai-slop-terrifies-me/)
 
 ---
 
@@ -289,7 +289,7 @@ Become a member! ✓ https://www.youtube.com/channel/UCahJ9IsvXnaQiuNyWQSkrkw/jo
 
 📺 Chris Norlund
 
-👁️ 97K • 👍 6K • 💬 1K • ⏱️ 17:42 • 13h ago
+👁️ 97K • 👍 6K • 💬 1K • ⏱️ 17:42 • 14h ago
 
 ---
 
@@ -309,7 +309,7 @@ India's IT sector just got hit with its biggest shock in 4 months. The Nifty IT 
 
 📺 Mark Savant
 
-👁️ 15K • 👍 454 • 💬 202 • ⏱️ 18:25 • 14h ago
+👁️ 15K • 👍 454 • 💬 202 • ⏱️ 18:25 • 15h ago
 
 ---
 
@@ -443,7 +443,7 @@ MiniCPM-o 4.5 is a 9B parameter multimodal LLM excelling in vision, speech, and 
 
 `any-to-any` `9.4B`
 
-⬇️ 17,457 • ❤️ 603 • 19h ago
+⬇️ 17,457 • ❤️ 603 • 20h ago
 
 ---
 
@@ -657,7 +657,7 @@ AI → JSON → UI
 
 `TypeScript`
 
-⭐ 10.1k • 🔱 538 • 11h ago
+⭐ 10.1k • 🔱 538 • 12h ago
 
 ---
 
@@ -667,7 +667,7 @@ LLM驱动的 A/H/美股智能分析器，多数据源行情 + 实时新闻 + Gem
 
 `Python` `agent` `ai` `aigc` `gemini` `llm`
 
-⭐ 9.9k • 🔱 10.4k • 1h ago
+⭐ 9.9k • 🔱 10.4k • 2h ago
 
 ---
 
@@ -677,7 +677,7 @@ The Ultimate Collection of 700+ Agentic Skills for Claude Code/Antigravity/Curso
 
 `Python` `agentic-skills` `ai-agents` `antigravity` `autonomous-coding` `claude-code`
 
-⭐ 7.9k • 🔱 1.6k • 1h ago
+⭐ 7.9k • 🔱 1.6k • 2h ago
 
 ---
 
@@ -695,7 +695,7 @@ Marketing skills for Claude Code and AI agents. CRO, copywriting, SEO, analytics
 
 Elevate your AI research writing, no more tedious polishing ✨ 
 
-⭐ 4.7k • 🔱 368 • 3d ago
+⭐ 4.7k • 🔱 368 • 4d ago
 
 ---
 
@@ -713,7 +713,7 @@ OpenSource Claude Cowork. A desktop AI assistant that helps you with programming
 
 `TypeScript`
 
-⭐ 2.8k • 🔱 378 • 8h ago
+⭐ 2.8k • 🔱 378 • 9h ago
 
 ---
 

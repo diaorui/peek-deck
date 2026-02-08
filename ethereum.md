@@ -3,14 +3,14 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-02-08T11:47:33.876345+00:00'
+updated: '2026-02-08T12:53:21.984679+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
 - videos
-- news
 - social
+- news
 - cryptocurrency
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** February 08, 2026 at 11:47 UTC  
+**Last Updated:** February 08, 2026 at 12:53 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,11 +42,11 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** +3.9%  
-**7d:** -9.5%  
-**30d:** -31.2%  
-**90d:** -37.8%  
-**1y:** -19.3%  
+**24h:** +4.3%  
+**7d:** -9.2%  
+**30d:** -31.1%  
+**90d:** -37.6%  
+**1y:** -19.0%  
 
 ---
 
@@ -72,13 +72,13 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-5h ago
+6h ago
 
 ---
 
 **[I built the first fully on-chain, 100% decentralized, ETH-in ETH-out (no new token), skill based competitive gaming platform](https://www.reddit.com/r/ethereum/comments/1qz1wbo/i_built_the_first_fully_onchain_100_decentralized/)**
 
-5h ago
+6h ago
 
 ---
 
@@ -92,7 +92,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 **[We're building an open-source archive of the earliest Ethereum smart contracts (2015-2017) — looking for contributors](https://www.reddit.com/r/ethereum/comments/1qymum3/were_building_an_opensource_archive_of_the/)**
 
-16h ago
+17h ago
 
 ---
 
@@ -152,23 +152,15 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 Ethereum's shift to a new cryptocurrency mining mechanism has demonstrated how the industry is changing its ways.
 
-The Cool Down • 20h ago
+The Cool Down • 21h ago
 
 ---
 
-**[Coinbase's Crypto-Backed Loans Notch Record Liquidations Amid Bitcoin, Ethereum Plunge](https://decrypt.co/357265/coinbases-loans-record-liquidations-bitcoin-ethereum-plunge)**
+**[How Buying Ethereum Today Could 10x Your Net Worth](https://www.nasdaq.com/articles/how-buying-ethereum-today-could-10x-your-net-worth)**
 
-Coinbase customers faced losses in fresh ways through the exchange’s crypto-backed lending product as Bitcoin and Ethereum tumbled this week.
+Key PointsEther’s price has plunged in 2026.
 
-Decrypt • 1d ago
-
----
-
-**[Is This 1 Massively Undervalued Cryptocurrency a Screaming Buy for Investors With $5,000?](https://www.fool.com/investing/2026/02/08/is-this-1-massively-undervalued-cryptocurrency-a-s/)**
-
-Ethereum isn't being recognized for the improvements it's making.
-
-The Motley Fool • 2h ago
+Nasdaq • 2d ago
 
 ---
 
@@ -196,11 +188,19 @@ The Guardian • 2d ago
 
 ---
 
-**[How Buying Ethereum Today Could 10x Your Net Worth](https://www.nasdaq.com/articles/how-buying-ethereum-today-could-10x-your-net-worth)**
+**[Ethereum and Solana Are Getting Hit Hard. Are These Top Cryptocurrencies Buys on the Dip?](https://www.fool.com/investing/2026/02/07/ethereum-and-solana-are-getting-hit-hard-are-these/)**
 
-Key PointsEther’s price has plunged in 2026.
+Here's why giving up on Ethereum and Solana now would be a mistake.
 
-Nasdaq • 2d ago
+The Motley Fool • 1d ago
+
+---
+
+**[Bitcoin, Ethereum Liquidations Hit $704M In 24 Hours—And $70,000 Could Break, Polymarket Predicts](https://finance.yahoo.com/news/bitcoin-ethereum-liquidations-hit-704m-120113179.html)**
+
+Bitcoin (CRYPTO: BTC) traders are bracing for more pain after liquidations reached $704 million in a single 24-hour period. The sharp sell-off has crypto investors turning to prediction markets for clues on where the bottom might be. What Polymarket Traders Are Predicting Polymarket is currently flashing warning signs for the immediate future. The “What price will Bitcoin hit in February?” market, which has already cleared $14 million in volume, now places a 56% probability on Bitcoin sliding to
+
+Yahoo Finance • 3d ago
 
 ---
 
@@ -208,7 +208,7 @@ Nasdaq • 2d ago
 
 Solana may be outperforming Ethereum across key metrics right now.
 
-AMBCrypto • 6h ago
+AMBCrypto • 7h ago
 
 ---
 
@@ -216,7 +216,7 @@ AMBCrypto • 6h ago
 
 BitMine Immersion Technologies, ticker NYSEAM:BMNR, is reporting nearly $8b in unrealized losses tied to its Ethereum holdings after a sharp pullback in ETH prices. The company continues to frame its large Ethereum position and staking operations as part of a long term treasury approach, while continuing to accumulate ETH. Recent executive turnover, including the amicable separation of President Erik Nelson, is adding another layer of uncertainty for shareholders during heightened crypto...
 
-Yahoo Finance • 18h ago
+Yahoo Finance • 19h ago
 
 ---
 
@@ -238,7 +238,7 @@ This video provides a professional Elliott Wave and technical analysis of Ethere
 
 📺 More Crypto Online
 
-👁️ 2K • 👍 156 • 💬 10 • ⏱️ 5:21 • 5h ago
+👁️ 2K • 👍 156 • 💬 10 • ⏱️ 5:21 • 6h ago
 
 ---
 
@@ -248,7 +248,7 @@ ETHEREUM ETH PRICE PREDICTION 2026 Join the Premium Signal Group for trade setup
 
 📺 Cilinix Crypto
 
-👁️ 143 • 👍 7 • ⏱️ 4:21 • 1h ago
+👁️ 143 • 👍 7 • ⏱️ 4:21 • 2h ago
 
 ---
 
@@ -268,7 +268,7 @@ BITCOIN & ALTCOINS: New Targets Confirmed (Prepare Now)!!! - Bitcoin News Today,
 
 📺 Crypto World
 
-👁️ 11K • 👍 386 • 💬 195 • ⏱️ 17:07 • 14h ago
+👁️ 11K • 👍 386 • 💬 195 • ⏱️ 17:07 • 15h ago
 
 ---
 
@@ -278,7 +278,7 @@ This video provides a professional Elliott Wave and technical analysis of Ethere
 
 📺 More Crypto Online
 
-👁️ 3K • 👍 204 • 💬 11 • ⏱️ 4:56 • 15h ago
+👁️ 3K • 👍 204 • 💬 11 • ⏱️ 4:56 • 16h ago
 
 ---
 
@@ -308,7 +308,7 @@ ALL TRADING PLATFORMS Telegram Link https://telegram.me/bullishbull Join Whatsap
 
 📺 Bullish Bull Master
 
-👁️ 6K • 👍 564 • 2h ago
+👁️ 6K • 👍 564 • 3h ago
 
 ---
 
@@ -328,7 +328,7 @@ Follow The All Account Opening Link ⏩⏩⏩⏩⏩ send screenshoot after open 
 
 📺 Invest For Wealth
 
-👁️ 1K • 👍 390 • 1h ago
+👁️ 1K • 👍 390 • 2h ago
 
 ---
 

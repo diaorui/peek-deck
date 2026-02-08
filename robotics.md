@@ -3,7 +3,7 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-02-08T11:47:33.879556+00:00'
+updated: '2026-02-08T12:53:21.987872+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
@@ -17,7 +17,7 @@ data_types:
 
 Robotics research and industry news
 
-**Last Updated:** February 08, 2026 at 11:47 UTC  
+**Last Updated:** February 08, 2026 at 12:53 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -34,7 +34,7 @@ Robotics research and industry news
 
 **[LeRobot's ACT running on my robotic arm](https://www.reddit.com/r/robotics/comments/1qz65ru/lerobots_act_running_on_my_robotic_arm/)**
 
-45m ago
+1h ago
 
 ---
 
@@ -42,7 +42,13 @@ Robotics research and industry news
 
 Pantograph website: https://pantograph.com/ Pantograph on 𝕏: http://x.com/pantographPBC
 
-23h ago
+1d ago
+
+---
+
+**[It dance better than me for sure…](https://www.reddit.com/r/robotics/comments/1qykdxw/it_dance_better_than_me_for_sure/)**
+
+19h ago
 
 ---
 
@@ -50,13 +56,7 @@ Pantograph website: https://pantograph.com/ Pantograph on 𝕏: http://x.com/pan
 
 Once again, Boston Dynamics just leaving everyone in the dust. Watch all the chinese copycats try to do the same thing. https://www.youtube.com/watch?v=UNorxwlZlFk
 
-13h ago
-
----
-
-**[It dance better than me for sure…](https://www.reddit.com/r/robotics/comments/1qykdxw/it_dance_better_than_me_for_sure/)**
-
-17h ago
+14h ago
 
 ---
 
@@ -64,7 +64,7 @@ Once again, Boston Dynamics just leaving everyone in the dust. Watch all the chi
 
 The chest finally finished printing after 5 days of printing. I assembled it and so far it looks like this, i still have to build the right arm and mount them. I know it may not look that good but it’s my first time doing such a big project and i’m still learning.
 
-19h ago
+20h ago
 
 ---
 
@@ -72,7 +72,7 @@ The chest finally finished printing after 5 days of printing. I assembled it and
 
 How viable is a Robotics-as-a-Service (RaaS) startup today? I’m evaluating the idea of starting a small RaaS company and wanted honest feedback from people who’ve been in hardware, robotics, or service-based startups. A few things I’m trying to understand: Which verticals actually work (security, cleaning, warehouse, etc.)? What does it realistically cost to deploy the first few robots? How long did it take to get your first paying customer? Is the bigger challenge the technology, hardware costs, or field service/operations? Would you recommend starting as an integrator (using existing robots) vs building your own? Any real numbers, lessons learned, or “things you wish you knew earlier” would be really helpful.
 
-4h ago
+6h ago
 
 ---
 
@@ -80,7 +80,7 @@ How viable is a Robotics-as-a-Service (RaaS) startup today? I’m evaluating the
 
 There is the popular argument for why having a humanoid robot would be the best way to do things: "because the environment is human shaped/designed for humans." However, why are we assuming it would be necessarily harder to redesign the environment so a simpler non-humanoid robot can make use of it rather than recreating the entire human body and all its complexities in robot form while trying to make it suitable to many different varying environments? Also, this argument implies the environment is exclusively human shaped, meaning a machine with human shapes and function is the only way forward in order for it traverse and interact with the environment, but this is not true. For instance, a flat floor, which is designed for human use, also allows use by a non-humanoid robot with wheels.
 
-23h ago
+1d ago
 
 ---
 
@@ -88,7 +88,7 @@ There is the popular argument for why having a humanoid robot would be the best 
 
 Hi everyone, I’m planning to build a self-balancing robot and I wanted to share the parts I currently have before moving forward. Parts I have: Arduino Nano (ATmega328P) MPU6050 (accelerometer + gyroscope) TB6612FNG dual motor driver DC motors (3–6 V) Battery pack ~8 V, 2600 mAh 2× electrolytic capacitors (1000 µF, 16 V) Wheels and a rigid homemade chassis The goal is to make a robot that can balance itself upright using these components. I’m still in the early stages and would appreciate any general advice or things to watch out for when building a self-balancing robot with this kind of setup. Thanks!
 
-16h ago
+18h ago
 
 ---
 
@@ -112,11 +112,35 @@ My boyfriend is a computer science major and is about to graduate. He’s really
 
 ## Google News: "robotics"
 
-**[Elon Musk warns the U.S. is '1,000% going to go bankrupt' unless AI and robotics save the economy from crushing debt](https://fortune.com/2026/02/07/elon-musk-us-bankruptcy-ai-robotics-economic-growth-national-debt-crisis/)**
+**[The Rapid Rise of Humanoid Robots](https://oilprice.com/Energy/Energy-General/The-Rapid-Rise-of-Humanoid-Robots.html)**
 
-"We just need enough time to build the AI and robots to not go bankrupt before then."
+Automakers including Tesla and Hyundai are investing heavily in humanoid robots as a long-term cost-saving strategy, even as questions remain over productivity, technical feasibility, and the risk of widespread job losses.
 
-Fortune • 16h ago
+Crude Oil Prices Today | OilPrice.com • 14h ago
+
+---
+
+**[Trade Unions Alarmed by Robots Designed to Do Blue Collar Work](https://futurism.com/robots-and-machines/trade-unions-ai-robotics)**
+
+Union organizers are growing increasingly worried about a future in which AI-powered robots decimate blue collar labor.
+
+Futurism • 19h ago
+
+---
+
+**[I'm a 25-year-old founder who loves robots but too many humanoids are militant and creepy-looking. Things need to change—just look at Elon Musk](https://fortune.com/2026/02/05/25-year-old-robotics-founder-says-too-many-creepy-militant-look-at-elon-musk/)**
+
+Who’s raising our robots? Teaching social norms in the age of humanoid robots.
+
+Fortune • 2d ago
+
+---
+
+**[AGIBOT Hosts "AGIBOT NIGHT," a Robot-Led Live Gala Show](https://sg.finance.yahoo.com/news/agibot-hosts-agibot-night-robot-122000123.html)**
+
+AGIBOT, a leading robotics company specializing in embodied intelligence, today hosted AGIBOT NIGHT, a robot-led gala show streaming on February 8. The 60-minute program marks the world's first large-scale live event fully led by humanoid robots, where humanoid robots took center stage to perform dance, magic, comedy, and music, appearing not as tools or supporting elements, but as the primary performers throughout the show.
+
+Yahoo Finance Singapore • 33m ago
 
 ---
 
@@ -148,23 +172,7 @@ The Robot Report • 1d ago
 
 ASUS IoT PE1000U: Rugged, fanless DIN-rail industrial PC with Intel Core Ultra Series 2. Ideal for AMR, robotics & computer vision at the edge! Subscribe to ASUS Pressroom for the latest tech updates!
 
-ASUS Pressroom • 2d ago
-
----
-
-**[This Robotics Stock Is Up 141% Over the Past Year. Can It Go Higher in 2026?](https://finance.yahoo.com/news/robotics-stock-141-over-past-192206641.html)**
-
-After an explosive 2025 rally, can Teradyne stock continue its climb this year?
-
-Yahoo Finance • 2d ago
-
----
-
-**[Champion robots invite global teams to Beijing humanoid games](https://news.cgtn.com/news/2026-02-07/Champion-robots-invite-global-teams-to-Beijing-humanoid-games-1Kz0De1iOE8/p.html)**
-
-The champion robots from last year's inaugural World Humanoid Robot Games on Friday issued a global invitation for more international robotics teams to join the event's second edition, which will be held in Beijing later this year.The advanced humanoids
-
-news.cgtn.com • 1d ago
+ASUS Pressroom • 3d ago
 
 ---
 
@@ -174,19 +182,11 @@ Bloomberg.com • 2d ago
 
 ---
 
-**[Trade Unions Alarmed by Robots Designed to Do Blue Collar Work](https://futurism.com/robots-and-machines/trade-unions-ai-robotics)**
+**[My neighborhood is pushing back against sidewalk delivery robots. The fight’s coming to your town next](https://www.fastcompany.com/91486773/sidewalk-delivery-robots-coco-serve-chicago-backlash)**
 
-Union organizers are growing increasingly worried about a future in which AI-powered robots decimate blue collar labor.
+A dispatch from the bucolic Chicago neighborhood that's the latest battleground between tech and cities over food delivery robots.
 
-Futurism • 18h ago
-
----
-
-**[‘We are cooked’: Watch humanoid robots practice kung fu with monks at China’s Shaolin Temple](https://indianexpress.com/article/trending/trending-globally/humanoid-robots-practice-kung-fu-with-monks-at-china-shaolin-temple-10517235/)**
-
-The robots were developed by AgiBot, a Shanghai-based robotics company known for building AI-powered humanoid machines at scale.
-
-The Indian Express • 2d ago
+Fast Company • 3d ago
 
 ---
 
@@ -210,7 +210,7 @@ Now that the Atlas enterprise platform is getting to work, the research version 
 
 📺 Boston Dynamics
 
-👁️ 310K • 👍 18K • 💬 2K • ⏱️ 1:38 • 21h ago
+👁️ 310K • 👍 18K • 💬 2K • ⏱️ 1:38 • 22h ago
 
 ---
 
@@ -220,7 +220,7 @@ The Atlas Airborne Robot takes one final research run as Boston Dynamics pushes 
 
 📺 DPCcars
 
-👁️ 12K • 👍 152 • 💬 25 • ⏱️ 2:45 • 16h ago
+👁️ 12K • 👍 152 • 💬 25 • ⏱️ 2:45 • 17h ago
 
 ---
 
@@ -230,7 +230,7 @@ Pan Motor's Wuji Hand packs twenty fully actuated joints into a sub six hundred 
 
 📺 Deepen
 
-👁️ 8K • 👍 260 • 💬 5 • ⏱️ 0:19 • 9h ago
+👁️ 8K • 👍 260 • 💬 5 • ⏱️ 0:19 • 10h ago
 
 ---
 
