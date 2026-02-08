@@ -3,7 +3,7 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-02-08T19:26:54.779412+00:00'
+updated: '2026-02-08T19:47:02.593402+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
@@ -18,7 +18,7 @@ data_types:
 
 AI news, discussions, and developments
 
-**Last Updated:** February 08, 2026 at 19:26 UTC  
+**Last Updated:** February 08, 2026 at 19:47 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -41,7 +41,7 @@ AI news, discussions, and developments
 
 Just wanted to say thanks for the thoughtful discussion and feedback on my previous post. I did not expect that level of interest, and I appreciate how constructive most of the comments were. Based on a few requests, I put together a short demonstration showing the system applied to a deliberately difficult street-level image. No obvious landmarks, no readable signage, no metadata. The location was verified in under two minutes. I am still undecided on the long-term direction of this work. That said, if there are people here interested in collaborating from a research, defensive, or ethical perspective, I am open to conversations. That could mean validation, red-teaming anything else. Thanks again to the community for the earlier discussion. Happy to answer high-level questions and hear thoughts on where tools like this should and should not go.
 
-8h ago
+9h ago
 
 ---
 
@@ -63,7 +63,7 @@ Countries have been building their own “sovereign AI” to reflect their cultu
 
 **[Nvidia CEO Says AI Capital Spending Is Appropriate, Sustainable](https://www.reddit.com/r/artificial/comments/1qyx57y/nvidia_ceo_says_ai_capital_spending_is/)**
 
-🔗 [bloomberg.com](https://www.bloomberg.com/news/articles/2026-02-06/nvidia-ceo-says-ai-capital-spending-is-appropriate-sustainable?srnd=phx-technology&leadSource=reddit_wall) • 16h ago
+🔗 [bloomberg.com](https://www.bloomberg.com/news/articles/2026-02-06/nvidia-ceo-says-ai-capital-spending-is-appropriate-sustainable?srnd=phx-technology&leadSource=reddit_wall) • 17h ago
 
 ---
 
@@ -153,7 +153,7 @@ BBC • 2d ago
 
 We asked experts to review four commercials trying to win over the AI-skeptical American public.
 
-The Washington Post • 24m ago
+The Washington Post • 45m ago
 
 ---
 
@@ -161,7 +161,7 @@ The Washington Post • 24m ago
 
 We’ve seen this game before, and it doesn’t end well for anyone.
 
-Slate • 8h ago
+Slate • 9h ago
 
 ---
 
@@ -169,7 +169,7 @@ Slate • 8h ago
 
 From telemedicine to weight-loss drugs, advertisers push tech-driven care to mass audiences
 
-Yahoo • 26m ago
+Yahoo • 46m ago
 
 ---
 
@@ -291,7 +291,7 @@ Become a member! ✓ https://www.youtube.com/channel/UCahJ9IsvXnaQiuNyWQSkrkw/jo
 
 📺 Chris Norlund
 
-👁️ 112K • 👍 7K • 💬 1K • ⏱️ 17:42 • 20h ago
+👁️ 112K • 👍 7K • 💬 1K • ⏱️ 17:42 • 21h ago
 
 ---
 
@@ -659,7 +659,7 @@ AI → JSON → UI
 
 `TypeScript`
 
-⭐ 10.1k • 🔱 538 • 18h ago
+⭐ 10.1k • 🔱 538 • 19h ago
 
 ---
 

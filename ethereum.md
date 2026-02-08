@@ -3,7 +3,7 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-02-08T19:26:54.793535+00:00'
+updated: '2026-02-08T19:47:02.607695+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
@@ -18,7 +18,7 @@ data_types:
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** February 08, 2026 at 19:26 UTC  
+**Last Updated:** February 08, 2026 at 19:47 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -80,7 +80,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 So I have some eth staked on coinbase but wondering how risky it is.. should I be looking somewhere else or is coinbase a good call? I don't answer private messages thanks
 
-1h ago
+2h ago
 
 ---
 
@@ -96,7 +96,7 @@ I manually architected a Dual-STACK Execution and Consensus Engine that bypasses
 
 Hey Redditors, I’m feeling pretty confused right now and could really use your collective wisdom: should I sell my Bitcoin and Ethereum, or should I hold tight through this volatility? I’ve been successfully trading stocks and options for over 20 years; everything from forex to commodities….but I finally decided to dip my toes into crypto for the first time late last year, thinking it was the next big diversification play for me. Here’s the deal: I bought in at Bitcoin around $82k USD and grabbed ETH at roughly $3,800 each. Fast forward to now in early February 2026, BTC’s hovering around $71k after some wild swings (dipped below $61k recently, now rebounding a bit), and ETH is sitting lower too amid all the “crypto winter” chatter, whale sells, ETF flows, and macro noise like Fed uncertainty and seasonal sell-offs. I’m down on paper, which stings after decades of stock market discipline, but I’ve seen cycles before; just not ones this intense! As a newbie to this space (stocks felt way more predictable), I’m torn: Cut losses and rotate back to traditional markets? HODL for the long-term upside with institutional adoption and potential QE boosts? Dollar-cost average down? Or maybe sell half and let the rest ride? What’s worked for you in similar spots, especially fellow stock vets who’ve crossed over? Thanks a ton!
 
-12m ago
+32m ago
 
 ---
 
@@ -110,7 +110,7 @@ Non-custodial privacy protocol for anonymous ETH transactions. Break the on-chai
 
 **[I built the first fully on-chain, 100% decentralized, ETH-in ETH-out (no new token), skill based competitive gaming platform](https://www.reddit.com/r/ethereum/comments/1qz1wbo/i_built_the_first_fully_onchain_100_decentralized/)**
 
-12h ago
+13h ago
 
 ---
 
@@ -268,7 +268,7 @@ BITCOIN & ALTCOINS: New Targets Confirmed (Prepare Now)!!! - Bitcoin News Today,
 
 📺 Crypto World
 
-👁️ 13K • 👍 430 • 💬 227 • ⏱️ 17:07 • 21h ago
+👁️ 13K • 👍 430 • 💬 227 • ⏱️ 17:07 • 22h ago
 
 ---
 
@@ -288,7 +288,7 @@ One of the biggest crypto crashes in history! Here is what happened, why and my 
 
 📺 Journal du Coin
 
-👁️ 396 • 👍 73 • ⏱️ 10:35 • 2h ago
+👁️ 396 • 👍 73 • ⏱️ 10:35 • 3h ago
 
 ---
 

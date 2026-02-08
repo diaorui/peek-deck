@@ -3,7 +3,7 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-02-08T19:26:54.787658+00:00'
+updated: '2026-02-08T19:47:02.601756+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
@@ -18,7 +18,7 @@ data_types:
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** February 08, 2026 at 19:26 UTC  
+**Last Updated:** February 08, 2026 at 19:47 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -79,7 +79,7 @@ Rank #1
 
 **[Comforting my friend who bought BTC @ 120k](https://www.reddit.com/r/Bitcoin/comments/1qyt31t/comforting_my_friend_who_bought_btc_120k/)**
 
-19h ago
+20h ago
 
 ---
 
@@ -87,7 +87,7 @@ Rank #1
 
 Guys, if you've been in this for 7-10 years, you see the same nonsense being spouted every single damn crash. BUY AND HODLATE.
 
-4h ago
+5h ago
 
 ---
 
@@ -149,7 +149,7 @@ Guys, do you realize how much you regret not buying about ten years ago? Today, 
 
 Not financial advice weekly RSI below 30 and clear support approaching around the $50,000 level , I am borrowing against my 401(k) for the next 52 weeks to allow some capital upfront to take advantage of these prices. 6.75% interest paid back into my 401k after the 52 weeks which is a win-win for me. (Im my own employer) Small loan about 25-30% of my 401k - will be paid off by February 2027. Allowing me to capture the arbitrage gain of interest & a low risk capital loan. See you in five years.
 
-18h ago
+19h ago
 
 ---
 
@@ -194,7 +194,7 @@ Yahoo Finance • 1d ago
 
 The Polymarket bet is a reminder that the weirdest corners of crypto are sometimes the only ones going up.
 
-CoinDesk • 3h ago
+CoinDesk • 4h ago
 
 ---
 
@@ -278,7 +278,7 @@ Bitcoin outlook turns bearish as Pivotus’ Richard Farr targets BTC at $0 and M
 
 The crypto crash is coming — and the landing won’t be pretty
 
-⬆️ 5 • 💬 1 • 2h ago • [ft.com](https://www.ft.com/content/2b030926-2012-4446-b22d-e549e10e7086)
+⬆️ 5 • 💬 1 • 3h ago • [ft.com](https://www.ft.com/content/2b030926-2012-4446-b22d-e549e10e7086)
 
 ---
 
@@ -344,7 +344,7 @@ Bitcoin just posted its first ever $10000 daily drop, wiped out billions in liqu
 
 📺 Simply Bitcoin
 
-👁️ 26K • 👍 2K • 💬 235 • ⏱️ 16:01 • 19h ago
+👁️ 26K • 👍 2K • 💬 235 • ⏱️ 16:01 • 20h ago
 
 ---
 
@@ -374,7 +374,7 @@ IT'S RIGGED! What Happens Now? ✓ Bitunix (no kyc, $10000 bonus): https://www.b
 
 📺 Altcoin Daily
 
-👁️ 47K • 👍 2K • 💬 744 • ⏱️ 9:28 • 20h ago
+👁️ 47K • 👍 2K • 💬 744 • ⏱️ 9:28 • 21h ago
 
 ---
 
@@ -404,7 +404,7 @@ Why did the world's largest asset class lose nearly $2 trillion in value so quic
 
 📺 Discover Crypto
 
-👁️ 5K • 👍 183 • 💬 111 • ⏱️ 7:32 • 21h ago
+👁️ 5K • 👍 183 • 💬 111 • ⏱️ 7:32 • 22h ago
 
 ---
 
@@ -414,7 +414,7 @@ Nick Valdez checks the latest price action with Bitcoin. What if I said there ar
 
 📺 Discover Crypto
 
-👁️ 1K • 👍 119 • 💬 121 • ⏱️ 5:08 • 3h ago
+👁️ 1K • 👍 119 • 💬 121 • ⏱️ 5:08 • 4h ago
 
 ---
 
