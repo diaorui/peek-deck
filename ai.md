@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-02-08T12:53:21.970349+00:00'
+updated: '2026-02-08T13:46:18.857634+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
 - videos
+- repositories
 - social
 - news
-- repositories
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** February 08, 2026 at 12:53 UTC  
+**Last Updated:** February 08, 2026 at 13:46 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -41,7 +41,7 @@ AI news, discussions, and developments
 
 Just wanted to say thanks for the thoughtful discussion and feedback on my previous post. I did not expect that level of interest, and I appreciate how constructive most of the comments were. Based on a few requests, I put together a short demonstration showing the system applied to a deliberately difficult street-level image. No obvious landmarks, no readable signage, no metadata. The location was verified in under two minutes. I am still undecided on the long-term direction of this work. That said, if there are people here interested in collaborating from a research, defensive, or ethical perspective, I am open to conversations. That could mean validation, red-teaming anything else. Thanks again to the community for the earlier discussion. Happy to answer high-level questions and hear thoughts on where tools like this should and should not go.
 
-2h ago
+3h ago
 
 ---
 
@@ -57,13 +57,13 @@ Countries have been building their own “sovereign AI” to reflect their cultu
 
 Every AI API provider gives you a snapshot of current usage. None of them show you trends over time, project when you will hit your limit, or let you compare across providers. I built onWatch to solve this. It runs in the background as a single Go binary, polls your configured providers every 60 seconds, stores everything locally in SQLite, and serves a web dashboard. What it shows you that providers do not: Usage history from 1 hour to 30 days Live countdowns to each quota reset Rate projections so you know if you will run out before the reset All providers side by side in one view Around 28 MB RAM, no dependencies, no telemetry, GPL-3.0. All data stays on your machine. https://onwatch.onllm.dev https://github.com/onllm-dev/onWatch
 
-2h ago
+3h ago
 
 ---
 
 **[Nvidia CEO Says AI Capital Spending Is Appropriate, Sustainable](https://www.reddit.com/r/artificial/comments/1qyx57y/nvidia_ceo_says_ai_capital_spending_is/)**
 
-🔗 [bloomberg.com](https://www.bloomberg.com/news/articles/2026-02-06/nvidia-ceo-says-ai-capital-spending-is-appropriate-sustainable?srnd=phx-technology&leadSource=reddit_wall) • 10h ago
+🔗 [bloomberg.com](https://www.bloomberg.com/news/articles/2026-02-06/nvidia-ceo-says-ai-capital-spending-is-appropriate-sustainable?srnd=phx-technology&leadSource=reddit_wall) • 11h ago
 
 ---
 
@@ -79,7 +79,7 @@ I have been working solo on an AI-based project called Netryx. At a high level, 
 
 Let’s say the quiet part out loud.
 
-🔗 [Medium](https://medium.com/@behindthebuild/big-tech-ai-isnt-taking-your-job-your-refusal-to-use-it-might-966f8219f962) • 19h ago
+🔗 [Medium](https://medium.com/@behindthebuild/big-tech-ai-isnt-taking-your-job-your-refusal-to-use-it-might-966f8219f962) • 20h ago
 
 ---
 
@@ -87,7 +87,7 @@ Let’s say the quiet part out loud.
 
 Hey fam, Been grinding on BrainAPI, this open-source thing that turns messy event logs into a smart knowledge graph for AI agents and rec systems. Think: feed it user clicks/buys/chats, it builds a precise map with cause-effect attribution (no BS hallucinations), then your AI retrieves fast AF for spot-on suggestions. Right now: Core APIs for saving/processing data -> works for CRM member matches/social networks (one user already using it for automated matches). Fast retrieval But ingestion? Slow as hell (10-30 min on small datasets) cuz of heavy LLM chains for precision. Trade-off for that "holy grail" accuracy, but yeah, it's a pain, optimizing soon. Repo: https://github.com/Lumen-Labs/brainapi2 What's the vibe? Bugs? Missing features? Use cases for ecom or agents? Roast it hard, I'm not fragile. If it slaps, star/fork. Building in public, hit me with thoughts!
 
-16h ago
+17h ago
 
 ---
 
@@ -95,7 +95,7 @@ Hey fam, Been grinding on BrainAPI, this open-source thing that turns messy even
 
 One of Kimi’s browser automation scripts uses a dark web library with crypto stealing malware: https://github.com/dnnyngyen/kimi-agent-internals/blob/main/source-code/browser_guard.py
 
-19h ago
+20h ago
 
 ---
 
@@ -123,7 +123,7 @@ An AI-powered model developed at University of Michigan can read a brain MRI and
 
 The hundreds of billions of dollars being spent by tech companies on AI projects are diverting resources from other parts of the economy.
 
-The Washington Post • 18h ago
+The Washington Post • 19h ago
 
 ---
 
@@ -131,13 +131,13 @@ The Washington Post • 18h ago
 
 In a new interview, the journalist Yi-Ling Liu argues the AI arms race between the United States and China risks becoming a self-fulfilling prophecy.
 
-Politico • 21h ago
+Politico • 22h ago
 
 ---
 
 **[Opinion | It’s the A.I. Economy, Stupid](https://www.nytimes.com/2026/02/08/opinion/ai-democrats-jobs-economy.html)**
 
-The New York Times • 53m ago
+The New York Times • 1h ago
 
 ---
 
@@ -145,7 +145,7 @@ The New York Times • 53m ago
 
 A growing collection of pocket-sized gadgets lets you record your meetings and extract value from them. Here are our favorites.
 
-WIRED • 53m ago
+WIRED • 1h ago
 
 ---
 
@@ -153,7 +153,7 @@ WIRED • 53m ago
 
 FT-Booth Survey shows scepticism of productivity gains forecast by Trump’s pick as next Fed chair
 
-Financial Times • 1h ago
+Financial Times • 2h ago
 
 ---
 
@@ -177,7 +177,7 @@ CNBC • 2d ago
 
 A Cardiff University researcher recreated her own voice using a deathbot - but found it strange.
 
-BBC • 5h ago
+BBC • 6h ago
 
 ---
 
@@ -185,7 +185,7 @@ BBC • 5h ago
 
 The billionaire former "Shark Tank" star and Dallas Mavericks owner is a dedicated AI user.
 
-Yahoo Finance • 21h ago
+Yahoo Finance • 22h ago
 
 ---
 
@@ -193,7 +193,7 @@ Yahoo Finance • 21h ago
 
 SpaceX’s acquisition of xAI creates business worth $1.25tn but whether premise behind deal will work is questioned
 
-The Guardian • 22h ago
+The Guardian • 23h ago
 
 ---
 
@@ -243,7 +243,7 @@ A minimal, secure Python interpreter written in Rust for use by AI - pydantic/mo
 
 Contribute to localgpt-app/localgpt development by creating an account on GitHub.
 
-⬆️ 249 • 💬 125 • 11h ago • [GitHub](https://github.com/localgpt-app/localgpt)
+⬆️ 249 • 💬 125 • 12h ago • [GitHub](https://github.com/localgpt-app/localgpt)
 
 ---
 
@@ -275,7 +275,7 @@ Fears over AI spending have sparked a sell-off among tech stocks.
 
 What if this is as good as software is ever going to be? What if AI stops getting better and what if people stop caring?
 
-⬆️ 56 • 💬 30 • 2h ago • [ezhik.jp](https://ezhik.jp/ai-slop-terrifies-me/)
+⬆️ 56 • 💬 30 • 3h ago • [ezhik.jp](https://ezhik.jp/ai-slop-terrifies-me/)
 
 ---
 
@@ -289,7 +289,7 @@ Become a member! ✓ https://www.youtube.com/channel/UCahJ9IsvXnaQiuNyWQSkrkw/jo
 
 📺 Chris Norlund
 
-👁️ 97K • 👍 6K • 💬 1K • ⏱️ 17:42 • 14h ago
+👁️ 97K • 👍 6K • 💬 1K • ⏱️ 17:42 • 15h ago
 
 ---
 
@@ -309,7 +309,7 @@ India's IT sector just got hit with its biggest shock in 4 months. The Nifty IT 
 
 📺 Mark Savant
 
-👁️ 15K • 👍 454 • 💬 202 • ⏱️ 18:25 • 15h ago
+👁️ 15K • 👍 454 • 💬 202 • ⏱️ 18:25 • 16h ago
 
 ---
 
@@ -443,7 +443,7 @@ MiniCPM-o 4.5 is a 9B parameter multimodal LLM excelling in vision, speech, and 
 
 `any-to-any` `9.4B`
 
-⬇️ 17,457 • ❤️ 603 • 20h ago
+⬇️ 17,457 • ❤️ 603 • 21h ago
 
 ---
 
@@ -515,7 +515,7 @@ Intern-S1-Pro is a trillion-scale MoE multimodal scientific reasoning model, exc
 
 _paperbanana is an agentic framework that automates the creation of publication-ready academic illustrations using advanced vision-language models and image generation techniques.
 
-▲ 141 • 💬 12 • ⭐ 2,416 • 8d ago
+▲ 141 • 💬 12 • ⭐ 2,416 • 9d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2601.23265) • [💻 code](https://github.com/dwzhu-pku/PaperBanana) • [🔗 project](https://dwzhu-pku.github.io/PaperBanana/)
 
@@ -657,7 +657,7 @@ AI → JSON → UI
 
 `TypeScript`
 
-⭐ 10.1k • 🔱 538 • 12h ago
+⭐ 10.1k • 🔱 538 • 13h ago
 
 ---
 
@@ -667,7 +667,7 @@ LLM驱动的 A/H/美股智能分析器，多数据源行情 + 实时新闻 + Gem
 
 `Python` `agent` `ai` `aigc` `gemini` `llm`
 
-⭐ 9.9k • 🔱 10.4k • 2h ago
+⭐ 9.9k • 🔱 10.4k • 3h ago
 
 ---
 
@@ -677,7 +677,7 @@ The Ultimate Collection of 700+ Agentic Skills for Claude Code/Antigravity/Curso
 
 `Python` `agentic-skills` `ai-agents` `antigravity` `autonomous-coding` `claude-code`
 
-⭐ 7.9k • 🔱 1.6k • 2h ago
+⭐ 7.9k • 🔱 1.6k • 3h ago
 
 ---
 
@@ -713,7 +713,7 @@ OpenSource Claude Cowork. A desktop AI assistant that helps you with programming
 
 `TypeScript`
 
-⭐ 2.8k • 🔱 378 • 9h ago
+⭐ 2.8k • 🔱 378 • 10h ago
 
 ---
 

@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-02-08T12:53:21.978644+00:00'
+updated: '2026-02-08T13:46:18.865904+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
+- cryptocurrency
 - videos
 - social
 - news
-- cryptocurrency
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** February 08, 2026 at 12:53 UTC  
+**Last Updated:** February 08, 2026 at 13:46 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -79,7 +79,7 @@ Rank #1
 
 **[Comforting my friend who bought BTC @ 120k](https://www.reddit.com/r/Bitcoin/comments/1qyt31t/comforting_my_friend_who_bought_btc_120k/)**
 
-13h ago
+14h ago
 
 ---
 
@@ -87,7 +87,7 @@ Rank #1
 
 https://share.google/IVm4XmWSJ13M1cDwX
 
-4h ago
+5h ago
 
 ---
 
@@ -95,7 +95,7 @@ https://share.google/IVm4XmWSJ13M1cDwX
 
 HODL strong through the storms; the future rewards the patient. 🚀 🙌
 
-19h ago
+20h ago
 
 ---
 
@@ -111,7 +111,7 @@ honestly, after holding since 2021, these dips barely even register anymore. i'm
 
 Guys, do you realize how much you regret not buying about ten years ago? Today, the price of BTC has been cut in half, and you’re hesitating between “the market is collapsing” or “the market will bounce back.” Buy either way—personally, that’s what I’m doing. I’m not saying the price will go back up. Of course I hope it will, but I honestly have no idea, and absolutely no one can know. I’d rather tell myself that I bought for nothing and lost some money than tell myself that I missed this opportunity a second time—especially when this time, I’m aware it might actually be one. (traduced from french by chatgpt)
 
-13h ago
+14h ago
 
 ---
 
@@ -119,7 +119,7 @@ Guys, do you realize how much you regret not buying about ten years ago? Today, 
 
 Over the past year I have received 4 unknown deposits into my Trezor hardware wallet. Each deposit was in the amount of .0000033 bitcoin. Three were in January 2025 and one so far today. Any ideas what these are and should I be worried about my Trezor. It is a Trezor safe 3. Thanks for any help.
 
-6h ago
+7h ago
 
 ---
 
@@ -127,7 +127,7 @@ Over the past year I have received 4 unknown deposits into my Trezor hardware wa
 
 The Fed's money printer never stops. Balance sheet still bloated at ~$6.5T, quietly debasing your dollars while inflation eats savings. Bitcoin: fixed 21 million cap. No printing, no dilution, no central control. In a world of infinite fiat, Bitcoin is scarce, hard money - and the ultimate opt-out. Stack sats. The longer they print, the stronger the case for Bitcoin.
 
-1h ago
+2h ago
 
 ---
 
@@ -135,7 +135,7 @@ The Fed's money printer never stops. Balance sheet still bloated at ~$6.5T, quie
 
 Not financial advice weekly RSI below 30 and clear support approaching around the $50,000 level , I am borrowing against my 401(k) for the next 52 weeks to allow some capital upfront to take advantage of these prices. 6.75% interest paid back into my 401k after the 52 weeks which is a win-win for me. (Im my own employer) Small loan about 25-30% of my 401k - will be paid off by February 2027. Allowing me to capture the arbitrage gain of interest & a low risk capital loan. See you in five years.
 
-12h ago
+13h ago
 
 ---
 
@@ -149,7 +149,7 @@ If you see blockchain activity whales are clearly accumulating taking BTC outsid
 
 **[Buy The dip](https://www.reddit.com/r/Bitcoin/comments/1qygmls/buy_the_dip/)**
 
-21h ago
+22h ago
 
 ---
 
@@ -161,7 +161,7 @@ If you see blockchain activity whales are clearly accumulating taking BTC outsid
 
 Bitcoin is acting weird. The world’s most famous cryptocurrency has tumbled 44% from its October peak, falling below $70,000 Thursday for the first time in 15 months.
 
-cnn.com • 2d ago
+cnn.com • 3d ago
 
 ---
 
@@ -178,7 +178,7 @@ CNBC • 1d ago
 
 The company quickly realised its mistake and managed to recover virtually all the missing tokens from customers.
 
-BBC • 22h ago
+BBC • 23h ago
 
 ---
 
@@ -186,13 +186,13 @@ BBC • 22h ago
 
 The error was quickly corrected, but not before Bithumb users sold off billions in Bitcoin, temporarily crashing its listed price.
 
-Yahoo Finance • 16h ago
+Yahoo Finance • 17h ago
 
 ---
 
 **[How deep is this Bitcoin bear phase, and what direction could price move next?](https://www.binance.com/en/square/post/289388631019058)**
 
-Binance • 3h ago
+Binance • 4h ago
 
 ---
 
@@ -262,7 +262,7 @@ Bitcoin outlook turns bearish as Pivotus’ Richard Farr targets BTC at $0 and M
 
 **[South Korean crypto firm accidentally sends $44B in bitcoins to users](https://news.ycombinator.com/item?id=46926461)**
 
-⬆️ 5 • 💬 0 • 17h ago • [reuters.com](https://www.reuters.com/world/asia-pacific/crypto-firm-accidentally-sends-44-billion-bitcoins-users-2026-02-07/)
+⬆️ 5 • 💬 0 • 18h ago • [reuters.com](https://www.reuters.com/world/asia-pacific/crypto-firm-accidentally-sends-44-billion-bitcoins-users-2026-02-07/)
 
 ---
 
@@ -286,7 +286,7 @@ Bitcoin behaves more like an "ATM" during uncertain times, with investors quickl
 
 453+ bitcoin treasuries. 3.94M BTC+ BTC tracked on-chain. From Shrimp to Sovereign.
 
-⬆️ 4 • 💬 0 • 3d ago • [bitcoincompanies.co](https://bitcoincompanies.co/)
+⬆️ 4 • 💬 0 • 4d ago • [bitcoincompanies.co](https://bitcoincompanies.co/)
 
 ---
 
@@ -294,7 +294,7 @@ Bitcoin behaves more like an "ATM" during uncertain times, with investors quickl
 
 Bithumb, Korea's second-largest cryptocurrency exchange, mistakenly credited users with Bitcoin worth approximately 260 billion won ($195 million), instead of the modest number of reward points or Bitcoin that it had intended to distribute.
 
-⬆️ 3 • 💬 0 • 19h ago • [koreajoongangdaily.joins.com](https://koreajoongangdaily.joins.com/news/2026-02-07/business/finance/Crypto-exchange-Bithumb-mistakenly-hands-out-195M-in-Bitcoin-to-users-in-Random-Box-giveaway/2518495)
+⬆️ 3 • 💬 0 • 20h ago • [koreajoongangdaily.joins.com](https://koreajoongangdaily.joins.com/news/2026-02-07/business/finance/Crypto-exchange-Bithumb-mistakenly-hands-out-195M-in-Bitcoin-to-users-in-Random-Box-giveaway/2518495)
 
 ---
 
@@ -332,7 +332,7 @@ Why did the world's largest asset class lose nearly $2 trillion in value so quic
 
 📺 Discover Crypto
 
-👁️ 4K • 👍 162 • 💬 91 • ⏱️ 7:32 • 15h ago
+👁️ 4K • 👍 162 • 💬 91 • ⏱️ 7:32 • 16h ago
 
 ---
 
@@ -352,7 +352,7 @@ Bitcoin just posted its first ever $10000 daily drop, wiped out billions in liqu
 
 📺 Simply Bitcoin
 
-👁️ 21K • 👍 2K • 💬 200 • ⏱️ 16:01 • 13h ago
+👁️ 21K • 👍 2K • 💬 200 • ⏱️ 16:01 • 14h ago
 
 ---
 
@@ -362,7 +362,7 @@ More speculation about the Bitcoin crash of 2026. The question everyone is askin
 
 📺 Ricky Gutierrez
 
-👁️ 18K • 👍 799 • 💬 301 • ⏱️ 17:14 • 16h ago
+👁️ 18K • 👍 799 • 💬 301 • ⏱️ 17:14 • 17h ago
 
 ---
 
@@ -402,7 +402,7 @@ My Free Trading Course https://www.rt1m.com/free My Discord Server (FREE) https:
 
 📺 Road To $1 Million USD
 
-👁️ 6K • 👍 258 • 💬 84 • ⏱️ 8:29 • 13h ago
+👁️ 6K • 👍 258 • 💬 84 • ⏱️ 8:29 • 14h ago
 
 ---
 

@@ -3,7 +3,7 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-02-08T12:53:21.987872+00:00'
+updated: '2026-02-08T13:46:18.874942+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
@@ -17,7 +17,7 @@ data_types:
 
 Robotics research and industry news
 
-**Last Updated:** February 08, 2026 at 12:53 UTC  
+**Last Updated:** February 08, 2026 at 13:46 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -34,7 +34,7 @@ Robotics research and industry news
 
 **[LeRobot's ACT running on my robotic arm](https://www.reddit.com/r/robotics/comments/1qz65ru/lerobots_act_running_on_my_robotic_arm/)**
 
-1h ago
+2h ago
 
 ---
 
@@ -56,7 +56,7 @@ Pantograph website: https://pantograph.com/ Pantograph on 𝕏: http://x.com/pan
 
 Once again, Boston Dynamics just leaving everyone in the dust. Watch all the chinese copycats try to do the same thing. https://www.youtube.com/watch?v=UNorxwlZlFk
 
-14h ago
+15h ago
 
 ---
 
@@ -64,7 +64,7 @@ Once again, Boston Dynamics just leaving everyone in the dust. Watch all the chi
 
 The chest finally finished printing after 5 days of printing. I assembled it and so far it looks like this, i still have to build the right arm and mount them. I know it may not look that good but it’s my first time doing such a big project and i’m still learning.
 
-20h ago
+21h ago
 
 ---
 
@@ -116,7 +116,7 @@ My boyfriend is a computer science major and is about to graduate. He’s really
 
 Automakers including Tesla and Hyundai are investing heavily in humanoid robots as a long-term cost-saving strategy, even as questions remain over productivity, technical feasibility, and the risk of widespread job losses.
 
-Crude Oil Prices Today | OilPrice.com • 14h ago
+Crude Oil Prices Today | OilPrice.com • 15h ago
 
 ---
 
@@ -124,7 +124,7 @@ Crude Oil Prices Today | OilPrice.com • 14h ago
 
 Union organizers are growing increasingly worried about a future in which AI-powered robots decimate blue collar labor.
 
-Futurism • 19h ago
+Futurism • 20h ago
 
 ---
 
@@ -140,7 +140,7 @@ Fortune • 2d ago
 
 AGIBOT, a leading robotics company specializing in embodied intelligence, today hosted AGIBOT NIGHT, a robot-led gala show streaming on February 8. The 60-minute program marks the world's first large-scale live event fully led by humanoid robots, where humanoid robots took center stage to perform dance, magic, comedy, and music, appearing not as tools or supporting elements, but as the primary performers throughout the show.
 
-Yahoo Finance Singapore • 33m ago
+Yahoo Finance Singapore • 1h ago
 
 ---
 
@@ -164,7 +164,7 @@ BBC • 2d ago
 
 The bills seek to establish a National Commission on Robotics and restrict humanoid imports for U.S. security and competitiveness.
 
-The Robot Report • 1d ago
+The Robot Report • 2d ago
 
 ---
 
@@ -210,7 +210,7 @@ Now that the Atlas enterprise platform is getting to work, the research version 
 
 📺 Boston Dynamics
 
-👁️ 310K • 👍 18K • 💬 2K • ⏱️ 1:38 • 22h ago
+👁️ 310K • 👍 18K • 💬 2K • ⏱️ 1:38 • 23h ago
 
 ---
 
@@ -220,7 +220,7 @@ The Atlas Airborne Robot takes one final research run as Boston Dynamics pushes 
 
 📺 DPCcars
 
-👁️ 12K • 👍 152 • 💬 25 • ⏱️ 2:45 • 17h ago
+👁️ 12K • 👍 152 • 💬 25 • ⏱️ 2:45 • 18h ago
 
 ---
 
@@ -230,7 +230,7 @@ Pan Motor's Wuji Hand packs twenty fully actuated joints into a sub six hundred 
 
 📺 Deepen
 
-👁️ 8K • 👍 260 • 💬 5 • ⏱️ 0:19 • 10h ago
+👁️ 8K • 👍 260 • 💬 5 • ⏱️ 0:19 • 11h ago
 
 ---
 
