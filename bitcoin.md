@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-02-08T19:47:02.601756+00:00'
+updated: '2026-02-08T20:29:59.958341+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- videos
 - cryptocurrency
-- news
+- videos
 - social
+- news
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** February 08, 2026 at 19:47 UTC  
+**Last Updated:** February 08, 2026 at 20:29 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,33 +38,33 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $71,281.00
+### $71,120.02
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** +2.4%  
-**7d:** -9.6%  
-**30d:** -21.2%  
-**90d:** -31.0%  
-**1y:** -26.1%  
+**24h:** +2.2%  
+**7d:** -9.9%  
+**30d:** -21.5%  
+**90d:** -31.2%  
+**1y:** -26.4%  
 
 ---
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1413.85B
+**Market Cap:** $1419.29B
 Rank #1
 
-**Circulating Supply:** 19,986,237 BTC
+**Circulating Supply:** 19,986,306 BTC
 95.2% of max
 
 **All-Time High:** $126,080.00
--43.9%
+-43.7%
 
 **All-Time Low:** $67.81
-+104246.0%
++104549.8%
 
 ---
 
@@ -83,6 +83,14 @@ Rank #1
 
 ---
 
+**[BTC your ultimate hedge against the $$ (fiat)](https://www.reddit.com/r/Bitcoin/comments/1qz6je2/btc_your_ultimate_hedge_against_the_fiat/)**
+
+The Fed's money printer never stops. Balance sheet still bloated at ~$6.5T, quietly debasing your dollars while inflation eats savings. Bitcoin: fixed 21 million cap. No printing, no dilution, no central control. In a world of infinite fiat, Bitcoin is scarce, hard money - and the ultimate opt-out. Stack sats. The longer they print, the stronger the case for Bitcoin.
+
+9h ago
+
+---
+
 **[Same old story](https://www.reddit.com/r/Bitcoin/comments/1qzah2k/same_old_story/)**
 
 Guys, if you've been in this for 7-10 years, you see the same nonsense being spouted every single damn crash. BUY AND HODLATE.
@@ -91,11 +99,11 @@ Guys, if you've been in this for 7-10 years, you see the same nonsense being spo
 
 ---
 
-**[BTC your ultimate hedge against the $$ (fiat)](https://www.reddit.com/r/Bitcoin/comments/1qz6je2/btc_your_ultimate_hedge_against_the_fiat/)**
+**[“Bitcoin Is Dead” - The #1 Database of Notable Bitcoin Skeptics](https://www.reddit.com/r/Bitcoin/comments/1qzcn36/bitcoin_is_dead_the_1_database_of_notable_bitcoin/)**
 
-The Fed's money printer never stops. Balance sheet still bloated at ~$6.5T, quietly debasing your dollars while inflation eats savings. Bitcoin: fixed 21 million cap. No printing, no dilution, no central control. In a world of infinite fiat, Bitcoin is scarce, hard money - and the ultimate opt-out. Stack sats. The longer they print, the stronger the case for Bitcoin.
+'Bitcoin Is Dead' is the best database of notable Bitcoin obituaries and skeptics on the Internet. View names, quotes, publications, source links, and more!
 
-8h ago
+🔗 [bitbo.io](https://bitbo.io/dead/) • 4h ago
 
 ---
 
@@ -103,7 +111,23 @@ The Fed's money printer never stops. Balance sheet still bloated at ~$6.5T, quie
 
 honestly, after holding since 2021, these dips barely even register anymore. i'm not even checking the charts as often as i used to. is that just me getting old and boring, or are other long-term holders feeling the same?
 
-12h ago
+13h ago
+
+---
+
+**[Help!](https://www.reddit.com/r/Bitcoin/comments/1qzgooo/help/)**
+
+Hi everyone! Back in like 2013 or something My husband bought us some bitcoin. I think around $1000 worth, I can’t recall. Unfortunately since then he’s passed away (2018), and while I recall logging in to his wallet and changing the info to include myself and my email address after he passed away, I can’t recall where on earth any of this transpired. I do have the old laptop I did this on, and I hope that can help illuminate things for me so I can find it, but honestly I’m not sure where to begin looking. Back around those days, where would one access to their bitcoin? This was his thing back then, not mine so I have no idea where to start. Any ideas would be helpful.
+
+1h ago
+
+---
+
+**[I just started my DCA journey](https://www.reddit.com/r/Bitcoin/comments/1qzjgtu/i_just_started_my_dca_journey/)**
+
+Im 39years old and unfortunately(or fortunately) because i had to renovate my house for last 3 years i didnt have any money to buy BTC.But i followed whole market for last 5 years with really small portofolio(less than 200€). Now i'm completely debt/loan free. Finally my 3 year bank loan ended friday,and i finally began my DCA journey into BTC at 66k. I guess im kinda lucky that it just had almost 50% drop. I know i can never time the market,and im mentally fully aware we can go back to 35-40k. The reason why i made this thread is because in my life i never talk about BTC so i guess i just wanted to share this with similar minded people
+
+16m ago
 
 ---
 
@@ -115,41 +139,17 @@ HODL strong through the storms; the future rewards the patient. 🚀 🙌
 
 ---
 
-**[“Bitcoin Is Dead” - The #1 Database of Notable Bitcoin Skeptics](https://www.reddit.com/r/Bitcoin/comments/1qzcn36/bitcoin_is_dead_the_1_database_of_notable_bitcoin/)**
-
-'Bitcoin Is Dead' is the best database of notable Bitcoin obituaries and skeptics on the Internet. View names, quotes, publications, source links, and more!
-
-🔗 [bitbo.io](https://bitbo.io/dead/) • 3h ago
-
----
-
 **[Unknown deposits to Tezor hardware wallet](https://www.reddit.com/r/Bitcoin/comments/1qz0zty/unknown_deposits_to_tezor_hardware_wallet/)**
 
 Over the past year I have received 4 unknown deposits into my Trezor hardware wallet. Each deposit was in the amount of .0000033 bitcoin. Three were in January 2025 and one so far today. Any ideas what these are and should I be worried about my Trezor. It is a Trezor safe 3. Thanks for any help.
 
-13h ago
-
----
-
-**[Buy anyways](https://www.reddit.com/r/Bitcoin/comments/1qysc8s/buy_anyways/)**
-
-Guys, do you realize how much you regret not buying about ten years ago? Today, the price of BTC has been cut in half, and you’re hesitating between “the market is collapsing” or “the market will bounce back.” Buy either way—personally, that’s what I’m doing. I’m not saying the price will go back up. Of course I hope it will, but I honestly have no idea, and absolutely no one can know. I’d rather tell myself that I bought for nothing and lost some money than tell myself that I missed this opportunity a second time—especially when this time, I’m aware it might actually be one. (traduced from french by chatgpt)
-
-20h ago
+14h ago
 
 ---
 
 **[The uncomfortable truth about following crypto experts](https://www.reddit.com/r/Bitcoin/comments/1qzb0ml/the_uncomfortable_truth_about_following_crypto/)**
 
-🔗 [X (formerly Twitter)](https://x.com/rustyshrink/status/2020307703353012477?s%3D12) • 4h ago
-
----
-
-**[Borrowed against my 401k for BTC](https://www.reddit.com/r/Bitcoin/comments/1qyuld4/borrowed_against_my_401k_for_btc/)**
-
-Not financial advice weekly RSI below 30 and clear support approaching around the $50,000 level , I am borrowing against my 401(k) for the next 52 weeks to allow some capital upfront to take advantage of these prices. 6.75% interest paid back into my 401k after the 52 weeks which is a win-win for me. (Im my own employer) Small loan about 25-30% of my 401k - will be paid off by February 2027. Allowing me to capture the arbitrage gain of interest & a low risk capital loan. See you in five years.
-
-19h ago
+🔗 [X (formerly Twitter)](https://x.com/rustyshrink/status/2020307703353012477?s%3D12) • 5h ago
 
 ---
 
@@ -157,11 +157,11 @@ Not financial advice weekly RSI below 30 and clear support approaching around th
 
 ## Google News: "bitcoin"
 
-**[Bitcoin Price To $0? Here's Why The Zero Dollar Bitcoin Narrative Is Growing — And Why It May Teach Us Something](https://finance.yahoo.com/news/bitcoin-price-0-heres-why-100215567.html)**
+**[Trump promised a crypto revolution. So why is bitcoin crashing?](https://www.npr.org/2026/02/07/nx-s1-5704279/trump-crypto-bitcoin-winter)**
 
-The “Bitcoin to $0” narrative is surging again. Market sentiment has flipped decisively bearish. Bullish credibility is weakening. “Every time I ask a Bitcoin true ...
+Trump got elected promising to usher in a crypto revolution. More than a year later, bitcoin's price has come tumbling down. What happened?
 
-Yahoo Finance • 9h ago
+NPR • 1d ago
 
 ---
 
@@ -182,27 +182,33 @@ BBC • 1d ago
 
 ---
 
-**[Crypto firm accidentally sends $40 bn in bitcoin to users](https://finance.yahoo.com/news/crypto-firm-accidentally-sends-40-055054321.html)**
+**[Accidental 2,000 BTC Airdrop Crashes Bitcoin Price 10% on Bithumb](https://finance.yahoo.com/news/accidental-2-000-btc-airdrop-140730291.html)**
 
-A South Korean cryptocurrency exchange apologised on Saturday after mistakenly transferring more than $40 billion worth of bitcoin to users, which briefly prompted a selloff on the platform.Bithumb said it accidentally sent 620,000 bitcoins, currently worth more than $40 billion, and blocked trading and withdrawals for the 695 affected users within 35 minutes after the error occurred on Friday.
+Bitcoin plunged 10% on Bithumb after an accidental 2,000 BTC airdrop triggered panic selling and liquidity shock.
 
-Yahoo Finance • 1d ago
-
----
-
-**[Bitcoin has performed worse than a bet tracking the chance of Jesus Christ returning this year](https://www.coindesk.com/markets/2026/02/08/odds-of-jesus-christ-appearing-in-2026-double-beating-return-on-bitcoin)**
-
-The Polymarket bet is a reminder that the weirdest corners of crypto are sometimes the only ones going up.
-
-CoinDesk • 4h ago
+Yahoo Finance • 2d ago
 
 ---
 
-**[Bitcoin price analysis: BTC surely closer to bottom than top as bears celebrate](https://www.coindesk.com/markets/2026/02/08/bitcoin-bulls-spot-bottoming-signs-as-longtime-bears-take-victory-laps)**
+**[Purported ransom note for Savannah Guthrie's mom demanded payment in bitcoin. Could it be tracked?](https://www.cbsnews.com/news/savannah-guthrie-mom-nancy-ransom-note-bitcoin-what-to-know/)**
 
-The Financial Times and Peter Schiff were among the no-coiners giving themselves pats on the back as crypto crashed this week.
+Cryptocurrency transactions are often thought to be anonymous and untraceable. That's a misconception, experts tell CBS News.
 
-CoinDesk • 1h ago
+cbsnews.com • 1d ago
+
+---
+
+**[Nancy Guthrie latest: Derrick Callella of Torrance, California arrested for demanding Bitcoin ransom from family](https://abc7.com/post/nancy-guthrie-latest-derrick-callella-california-arrested-demanding-bitcoin-ransom-family/18549247/)**
+
+The man allegedly used an app to create a fake phone number to text the family, according to a federal complaint.
+
+ABC7 Los Angeles • 2d ago
+
+---
+
+**[The Kidnappers Of Savannah Guthrie's Mom Want Bitcoin—But It’s Not As Anonymous As Many Think](https://www.forbes.com/sites/martinadilicosa/2026/02/06/the-kidnappers-of-savannah-guthries-mom-want-bitcoin-but-its-not-as-anonymous-as-many-think/)**
+
+Forbes • 2d ago
 
 ---
 
@@ -214,25 +220,17 @@ The Block • 2d ago
 
 ---
 
-**[Bitcoin Booster’s $12 Billion Loss Headlines Crypto’s Worst Day Since 2022 Crash](https://www.wsj.com/finance/currencies/strategy-earnings-fourth-2025-33688dab?gaa_at=eafs&gaa_n=AWEtsqd4XbgynsPpK9Ww0VGgykW1Y9hJkMFLz-crj8i3HR94zSIuc5r3Pv_e&gaa_ts=6988e6ec&gaa_sig=1C6b2qwGy75ZBO92OjlX9zsCJ5-rCfSARJrsj4gKkvFigFtkMZ3ItMdoBcysZ-UtC-IJSSW6nJEkavQYvMbhxA%3D%3D)**
+**[Bitcoin Booster’s $12 Billion Loss Headlines Crypto’s Worst Day Since 2022 Crash](https://www.wsj.com/finance/currencies/strategy-earnings-fourth-2025-33688dab?gaa_at=eafs&gaa_n=AWEtsqdll0unxWcqmk7OwNEKtq7_h9x0XRhResqlKAtY0pop9ZSV7wy24PEh&gaa_ts=6988f5b4&gaa_sig=jO7zGK_uvoXYNgu8As_HAIdzCtCjv-AJt0S3kNbYWiNCf2yX84Dg-t3gbzsNjHKg1BJNT9HgGPwutwV2-8c24g%3D%3D)**
 
 The Wall Street Journal • 2d ago
 
 ---
 
-**[Strategy’s Record Bitcoin Loss Highlights Dual Role And Security Focus](https://finance.yahoo.com/news/strategy-record-bitcoin-loss-highlights-020534757.html)**
+**[Short-Seller Andrew Left Blasts Michael Saylor's 'Bitcoin Reactor' As Q4 Losses Mount: 'More Jargon...More Nonsense'](https://finance.yahoo.com/news/short-seller-andrew-left-blasts-023118483.html)**
 
-Strategy (NasdaqGS:MSTR) reported one of the largest net losses ever recorded by a U.S. public company, driven by unrealized Bitcoin mark to market losses. The company highlighted that the loss stems primarily from accounting treatment of its sizable Bitcoin holdings rather than cash outflows. Management, including Michael Saylor and CEO Phong Le, reiterated a long term commitment to holding Bitcoin and pointed to significant cash reserves. Strategy also announced a Bitcoin security...
+Citron Research founder Andrew Left renewed his aggressive short campaign against Strategy Inc. (NASDAQ:MSTR) on Thursday, dismissing the company's complex financial architecture as "nonsense" after the firm reported a staggering $12.4 billion fourth-quarter loss. Jargon Vs. Reality The critique marks a sharp reversal for Left, who previously praised the company before it “completely detached from BTC fundamentals.” The dispute centers on Executive Chairman Michael Saylor's recent descriptions o
 
-Yahoo Finance • 1d ago
-
----
-
-**[Purported ransom note for Savannah Guthrie's mom demanded payment in bitcoin. Could it be tracked?](https://www.cbsnews.com/news/savannah-guthrie-mom-nancy-ransom-note-bitcoin-what-to-know/)**
-
-Cryptocurrency transactions are often thought to be anonymous and untraceable. That's a misconception, experts tell CBS News.
-
-cbsnews.com • 1d ago
+Yahoo Finance • 17h ago
 
 ---
 
@@ -250,7 +248,7 @@ cbsnews.com • 1d ago
 
 Some market watchers have suggested $70,000 is a key level to watch and a break below that could lead bitcoin to decline further.
 
-⬆️ 59 • 💬 1 • 2d ago • [CNBC](https://www.cnbc.com/2026/02/05/bitcoin-price-today-70000-in-focus.html)
+⬆️ 59 • 💬 1 • 3d ago • [CNBC](https://www.cnbc.com/2026/02/05/bitcoin-price-today-70000-in-focus.html)
 
 ---
 
@@ -264,7 +262,7 @@ Bitcoin outlook turns bearish as Pivotus’ Richard Farr targets BTC at $0 and M
 
 **[Bitcoin tumbles below $70K, heavy losses in cryptocurrencies in last three weeks](https://news.ycombinator.com/item?id=46934165)**
 
-⬆️ 43 • 💬 59 • 5h ago • [bloomberg.com](https://www.bloomberg.com/news/articles/2026-02-05/bitcoin-drops-below-70-000-as-forced-deleveraging-accelerates)
+⬆️ 43 • 💬 61 • 6h ago • [bloomberg.com](https://www.bloomberg.com/news/articles/2026-02-05/bitcoin-drops-below-70-000-as-forced-deleveraging-accelerates)
 
 ---
 
@@ -318,23 +316,23 @@ Bitcoin behaves more like an "ATM" during uncertain times, with investors quickl
 
 ## YouTube Videos: "bitcoin"
 
-**[&quot;I Just Lost Everything&quot; - WTF Happened To Bitcoin?!](https://www.youtube.com/watch?v=diE19xlDfqo)**
+**[Bitcoin Path To $40K (Profit Guide)](https://www.youtube.com/watch?v=neIIrIfYmiM)**
 
-Take your personal data back with Incogni! Use code GRAHAM at the link below and get 60% off an annual plan: ...
+Nick Valdez checks the latest price action with Bitcoin. What if I said there are several indicators that point to a potential bottom ...
 
-📺 Graham Stephan
+📺 Discover Crypto
 
-👁️ 615K • 👍 20K • 💬 6K • ⏱️ 16:11 • 2d ago
+👁️ 3K • 👍 174 • 💬 148 • ⏱️ 5:08 • 4h ago
 
 ---
 
-**[BITCOIN: CALM BEFORE THE STORM!!! #BTC Price Prediction &amp; Crypto Crash News Today](https://www.youtube.com/watch?v=sM4RCmM_HwE)**
+**[Why Did Bitcoin Crash, and When Will Crypto Recover?](https://www.youtube.com/watch?v=4qILrp6znyA)**
 
-My Free Trading Course https://www.rt1m.com/free My Discord Server (FREE) https://discord.com/invite/jRAnCV9CTB ...
+Bitcoin tumbled below $61000, as the unwinding of leveraged bets and broader market turbulence deepened a selloff that has ...
 
-📺 Road To $1 Million USD
+📺 Bloomberg News
 
-👁️ 8K • 👍 285 • 💬 87 • ⏱️ 8:29 • 20h ago
+👁️ 821 • 👍 25 • ⏱️ 1:11 • 1h ago
 
 ---
 
@@ -344,7 +342,27 @@ Bitcoin just posted its first ever $10000 daily drop, wiped out billions in liqu
 
 📺 Simply Bitcoin
 
-👁️ 26K • 👍 2K • 💬 235 • ⏱️ 16:01 • 20h ago
+👁️ 27K • 👍 2K • 💬 237 • ⏱️ 16:01 • 20h ago
+
+---
+
+**[&quot;I Just Lost Everything&quot; - WTF Happened To Bitcoin?!](https://www.youtube.com/watch?v=diE19xlDfqo)**
+
+Take your personal data back with Incogni! Use code GRAHAM at the link below and get 60% off an annual plan: ...
+
+📺 Graham Stephan
+
+👁️ 619K • 👍 21K • 💬 6K • ⏱️ 16:11 • 2d ago
+
+---
+
+**[BITCOIN: CALM BEFORE THE STORM!!! #BTC Price Prediction &amp; Crypto Crash News Today](https://www.youtube.com/watch?v=sM4RCmM_HwE)**
+
+My Free Trading Course https://www.rt1m.com/free My Discord Server (FREE) https://discord.com/invite/jRAnCV9CTB ...
+
+📺 Road To $1 Million USD
+
+👁️ 8K • 👍 290 • 💬 87 • ⏱️ 8:29 • 21h ago
 
 ---
 
@@ -354,17 +372,7 @@ Bitcoin has been in a free-fall the past few months. At one point yesterday, it 
 
 📺 From The Desk Of Anthony Pompliano
 
-👁️ 51K • 👍 2K • 💬 390 • ⏱️ 9:43 • 1d ago
-
----
-
-**[Samson Mow: Something BIG Is About to Happen to Bitcoin…](https://www.youtube.com/watch?v=5VaqkszkWp8)**
-
-In this interview, Bitcoin OG Samson Mow shares his view on why Bitcoin keeps falling, what's driving recent market sell-offs, and ...
-
-📺 Cointelegraph
-
-👁️ 27K • 👍 775 • 💬 160 • ⏱️ 19:09 • 2d ago
+👁️ 53K • 👍 2K • 💬 391 • ⏱️ 9:43 • 1d ago
 
 ---
 
@@ -374,27 +382,7 @@ IT'S RIGGED! What Happens Now? ✓ Bitunix (no kyc, $10000 bonus): https://www.b
 
 📺 Altcoin Daily
 
-👁️ 47K • 👍 2K • 💬 744 • ⏱️ 9:28 • 21h ago
-
----
-
-**[“$2 Trillion LOST In Crypto” - Bitcoin &amp; XRP Wobble As CRYPTO CRASH Fears Grow](https://www.youtube.com/watch?v=_bT0NBL2hfk)**
-
-Bitcoin plunges as crypto markets lose trillions, sparking debate over whether BTC is truly an inflation hedge or just another risk ...
-
-📺 Valuetainment
-
-👁️ 192K • 👍 4K • 💬 12K • ⏱️ 14:38 • 1d ago
-
----
-
-**[This is typical volatility for bitcoin, says SkyBridge&#39;s Scaramucci](https://www.youtube.com/watch?v=PxHIJlojXTg)**
-
-CNBC's “Closing Bell Overtime” team discusses cryptocurrencies, bitcoin's volatile week and more with Anthony Scaramucci, ...
-
-📺 CNBC Television
-
-👁️ 40K • 👍 352 • 💬 349 • ⏱️ 4:14 • 1d ago
+👁️ 50K • 👍 3K • 💬 753 • ⏱️ 9:28 • 22h ago
 
 ---
 
@@ -404,17 +392,27 @@ Why did the world's largest asset class lose nearly $2 trillion in value so quic
 
 📺 Discover Crypto
 
-👁️ 5K • 👍 183 • 💬 111 • ⏱️ 7:32 • 22h ago
+👁️ 5K • 👍 188 • 💬 117 • ⏱️ 7:32 • 22h ago
 
 ---
 
-**[Bitcoin Path To $40K (Profit Guide)](https://www.youtube.com/watch?v=neIIrIfYmiM)**
+**[“$2 Trillion LOST In Crypto” - Bitcoin &amp; XRP Wobble As CRYPTO CRASH Fears Grow](https://www.youtube.com/watch?v=_bT0NBL2hfk)**
 
-Nick Valdez checks the latest price action with Bitcoin. What if I said there are several indicators that point to a potential bottom ...
+Bitcoin plunges as crypto markets lose trillions, sparking debate over whether BTC is truly an inflation hedge or just another risk ...
 
-📺 Discover Crypto
+📺 Valuetainment
 
-👁️ 1K • 👍 119 • 💬 121 • ⏱️ 5:08 • 4h ago
+👁️ 199K • 👍 4K • 💬 12K • ⏱️ 14:38 • 1d ago
+
+---
+
+**[This is typical volatility for bitcoin, says SkyBridge&#39;s Scaramucci](https://www.youtube.com/watch?v=PxHIJlojXTg)**
+
+CNBC's “Closing Bell Overtime” team discusses cryptocurrencies, bitcoin's volatile week and more with Anthony Scaramucci, ...
+
+📺 CNBC Television
+
+👁️ 41K • 👍 355 • 💬 351 • ⏱️ 4:14 • 1d ago
 
 ---
 

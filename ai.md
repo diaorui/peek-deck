@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-02-08T19:47:02.593402+00:00'
+updated: '2026-02-08T20:29:59.949912+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
 - videos
-- news
 - repositories
 - social
+- news
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** February 08, 2026 at 19:47 UTC  
+**Last Updated:** February 08, 2026 at 20:29 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -49,7 +49,7 @@ Just wanted to say thanks for the thoughtful discussion and feedback on my previ
 
 Every AI API provider gives you a snapshot of current usage. None of them show you trends over time, project when you will hit your limit, or let you compare across providers. I built onWatch to solve this. It runs in the background as a single Go binary, polls your configured providers every 60 seconds, stores everything locally in SQLite, and serves a web dashboard. What it shows you that providers do not: Usage history from 1 hour to 30 days Live countdowns to each quota reset Rate projections so you know if you will run out before the reset All providers side by side in one view Around 28 MB RAM, no dependencies, no telemetry, GPL-3.0. All data stays on your machine. https://onwatch.onllm.dev https://github.com/onllm-dev/onWatch
 
-9h ago
+10h ago
 
 ---
 
@@ -87,7 +87,7 @@ I have been working solo on an AI-based project called Netryx. At a high level, 
 
 EVOLUTION is what has made humanity great so imagine what will happen to our brains and disposition when Ai keeps getting smarter and elons army of robots, as he claims, are more numerous then people. You will not even have to wipe your ass because a robot will do it for you. Because of the nature of it, ai will keep getting more inclusive and invasive and every day there will be more robots. That development will never be static it will always grow and the future of humanity is that our brains will start shrinking since we will not be using it and since people will not have jobs or anything to make them proud of themselves depression and misery will set in. The world is not static and ai and robots will become more and more invasive. So even though ai seems amazing and it is helpful today think about where it is taking us. There is no escape and no other possibility, with time humans will be nothing more then stupid lifeforms dependent on ai and robots for everything from wiping our ass to growing our food to making our entertainment and eventually ai will be so dominant that it will just wipe us out. We know where it starts but nobody knows where it will end. If we follow the science there is no other possibility. We Cannot put a time frame on this but the direction and evolutionary science is very clear that eventually humans will become stupid, unhappy, obsolete life forms. I am not religious but the devil always comes with false promises. Elon saying he wants to go to space to save humanity when in actuality he is robbing us of our future. Imagine a person who says don,t save because in the future you will not need money but fighting to receive a trillion dollar payoff when he is already the richest on the planet. How can anybody believe him? We already know that he is not a nice guy and did not think twice about all the people he hurt with his doge cuts for life saving aid. Then you have Trump who says he is making america great again by favoring the wealthy and russia, having his ice terrorize communities, making all our allies hate us, destroying american democracy and pushing for ai and robots. People please wake up we are the last bastion for humanity and we are being tempted, like the forbidden apple, because today Ai and robots seems so cool.
 
-1h ago
+2h ago
 
 ---
 
@@ -95,7 +95,7 @@ EVOLUTION is what has made humanity great so imagine what will happen to our bra
 
 Hey fam, Been grinding on BrainAPI, this open-source thing that turns messy event logs into a smart knowledge graph for AI agents and rec systems. Think: feed it user clicks/buys/chats, it builds a precise map with cause-effect attribution (no BS hallucinations), then your AI retrieves fast AF for spot-on suggestions. Right now: Core APIs for saving/processing data -> works for CRM member matches/social networks (one user already using it for automated matches). Fast retrieval But ingestion? Slow as hell (10-30 min on small datasets) cuz of heavy LLM chains for precision. Trade-off for that "holy grail" accuracy, but yeah, it's a pain, optimizing soon. Repo: https://github.com/Lumen-Labs/brainapi2 What's the vibe? Bugs? Missing features? Use cases for ecom or agents? Roast it hard, I'm not fragile. If it slaps, star/fork. Building in public, hit me with thoughts!
 
-23h ago
+1d ago
 
 ---
 
@@ -119,17 +119,9 @@ Goldman Sachs is building AI agents with Anthropic’s Claude to automate trade 
 
 ## Google News: "ai"
 
-**[The New Fabio Is Claude](https://www.nytimes.com/2026/02/08/business/ai-claude-romance-books.html)**
+**[Can AI Chatbots Write Emotionally Rich Romance Books?](https://www.nytimes.com/2026/02/08/business/ai-claude-romance-books.html)**
 
-The New York Times • 9h ago
-
----
-
-**[Amazon leads Big Tech’s $1 trillion wipeout as AI bubble fears ignite sell-off](https://www.cnbc.com/2026/02/06/ai-sell-off-stocks-amazon-oracle.html)**
-
-Microsoft, Nvidia, Oracle, Meta, Amazon and Alphabet all saw their shares fall in the week up to the market close on Thursday.
-
-CNBC • 2d ago
+The New York Times • 5h ago
 
 ---
 
@@ -141,6 +133,28 @@ The Washington Post • 1d ago
 
 ---
 
+**[Crypto.com places $70M bet on AI.com domain ahead of Super Bowl](https://techcrunch.com/2026/02/08/crypto-com-places-70m-bet-on-ai-com-domain-ahead-of-super-bowl/)**
+
+The purchase rewrites the domain record books -- not that the crypto industry has ever been accused of restraint when it comes to spending.
+
+TechCrunch • 10m ago
+
+---
+
+**[Okay, I’m slightly less mad about that ‘Magnificent Ambersons’ AI project](https://www.yahoo.com/entertainment/movies/articles/okay-m-slightly-less-mad-193628787.html)**
+
+But this is still a bad idea.
+
+Yahoo • 53m ago
+
+---
+
+**[AI Fear Grips Wall Street as a New Stock Market Reality Sets In](https://www.bloomberg.com/news/articles/2026-02-08/ai-fear-grips-wall-street-as-a-new-stock-market-reality-sets-in)**
+
+bloomberg.com • 6h ago
+
+---
+
 **[Amazon shares fall as it joins Big Tech AI spending spree](https://www.bbc.com/news/articles/c150e144we3o)**
 
 Major firms collectively announce $650bn worth of investment in AI this week, rattling investors.
@@ -149,27 +163,11 @@ BBC • 2d ago
 
 ---
 
-**[Can these Super Bowl ads make Americans love something they don’t like?](https://www.washingtonpost.com/technology/2026/02/08/super-bowl-ads-ai/)**
+**[Big Tech groups race to fund unprecedented $660bn AI spending spree](https://www.ft.com/content/d503afd5-1012-40f0-8f9d-620dcb39a9a2)**
 
-We asked experts to review four commercials trying to win over the AI-skeptical American public.
+Executives face choice between cutting returns to shareholders, raiding reserves or tapping the markets
 
-The Washington Post • 45m ago
-
----
-
-**[An Annoying Trend Is Taking Over This Year’s Super Bowl Commercials—and It’s a Sign of Bleak Times Ahead](https://slate.com/technology/2026/02/super-bowl-lx-commercials-mrbeast-amazon-artificial-intelligence-crypto.html)**
-
-We’ve seen this game before, and it doesn’t end well for anyone.
-
-Slate • 9h ago
-
----
-
-**[AI and health dominate Super Bowl ads](https://www.yahoo.com/entertainment/celebrity/articles/ai-health-dominate-super-bowl-190017147.html)**
-
-From telemedicine to weight-loss drugs, advertisers push tech-driven care to mass audiences
-
-Yahoo • 46m ago
+Financial Times • 29m ago
 
 ---
 
@@ -177,23 +175,23 @@ Yahoo • 46m ago
 
 AI isn't just hitting software valuations — it's changing how software companies operate.
 
-Axios • 1d ago
+Axios • 14h ago
 
 ---
 
-**[Anthropic cofounder says studying the humanities will be 'more important than ever' in the age of AI](https://fortune.com/2026/02/07/anthropic-cofounder-daniela-amodei-humanities-majors-soft-skills-hiring-ai-stem/)**
+**[US companies accused of ‘AI washing’ in citing artificial intelligence for job losses](https://www.theguardian.com/us-news/2026/feb/08/ai-washing-job-losses-artificial-intelligence)**
 
-"The things that make us human will become much more important instead of much less important."
+While AI is having an impact on the workplace, experts suggest tariffs, overhiring during the pandemic and simply maximising profits may be bigger factors
 
-Fortune • 1d ago
+The Guardian • 4h ago
 
 ---
 
-**[How to hedge a bubble, AI edition](https://www.economist.com/finance-and-economics/2026/02/08/how-to-hedge-a-bubble-ai-edition)**
+**[Moltbook was peak AI theater](https://www.technologyreview.com/2026/02/06/1132448/moltbook-was-peak-ai-theater/)**
 
-Protecting your portfolio from a crash looks harder than ever
+The viral social network for bots reveals as much about our own current mania for AI as it does about the future of agents.
 
-The Economist • 5h ago
+MIT Technology Review • 2d ago
 
 ---
 
@@ -213,7 +211,7 @@ A new bill in the New York state legislature would require news organizations to
 
 The hundreds of billions of dollars being spent by tech companies on AI projects are diverting resources from other parts of the economy.
 
-⬆️ 382 • 💬 668 • 1d ago • [The Washington Post](https://www.washingtonpost.com/technology/2026/02/07/ai-spending-economy-shortages/)
+⬆️ 382 • 💬 681 • 1d ago • [The Washington Post](https://www.washingtonpost.com/technology/2026/02/07/ai-spending-economy-shortages/)
 
 ---
 
@@ -221,7 +219,7 @@ The hundreds of billions of dollars being spent by tech companies on AI projects
 
 You're using AI to be more productive. So why are you more exhausted than ever? The paradox every engineer needs to confront.
 
-⬆️ 345 • 💬 257 • 5h ago • [Siddhant Khare](https://siddhantkhare.com/writing/ai-fatigue-is-real)
+⬆️ 361 • 💬 264 • 6h ago • [Siddhant Khare](https://siddhantkhare.com/writing/ai-fatigue-is-real)
 
 ---
 
@@ -229,7 +227,7 @@ You're using AI to be more productive. So why are you more exhausted than ever? 
 
 AI is rarely optional anymore, but how can you still be proud of your craft? Discover the workflow to effectively write high-quality, robust code using AI tools.
 
-⬆️ 343 • 💬 301 • 2d ago • [heidenstedt.org](https://heidenstedt.org/posts/2026/how-to-effectively-write-quality-code-with-ai/)
+⬆️ 345 • 💬 301 • 2d ago • [heidenstedt.org](https://heidenstedt.org/posts/2026/how-to-effectively-write-quality-code-with-ai/)
 
 ---
 
@@ -237,7 +235,7 @@ AI is rarely optional anymore, but how can you still be proud of your craft? Dis
 
 A minimal, secure Python interpreter written in Rust for use by AI - pydantic/monty
 
-⬆️ 316 • 💬 164 • 1d ago • [GitHub](https://github.com/pydantic/monty)
+⬆️ 317 • 💬 164 • 1d ago • [GitHub](https://github.com/pydantic/monty)
 
 ---
 
@@ -245,7 +243,7 @@ A minimal, secure Python interpreter written in Rust for use by AI - pydantic/mo
 
 Contribute to localgpt-app/localgpt development by creating an account on GitHub.
 
-⬆️ 301 • 💬 141 • 18h ago • [GitHub](https://github.com/localgpt-app/localgpt)
+⬆️ 305 • 💬 143 • 19h ago • [GitHub](https://github.com/localgpt-app/localgpt)
 
 ---
 
@@ -253,7 +251,7 @@ Contribute to localgpt-app/localgpt development by creating an account on GitHub
 
 Women in rural communities describe trauma of moderating violent and pornographic content for global tech companies
 
-⬆️ 129 • 💬 203 • 2d ago • [the Guardian](https://www.theguardian.com/global-development/2026/feb/05/in-the-end-you-feel-blank-indias-female-workers-watching-hours-of-abusive-content-to-train-ai)
+⬆️ 130 • 💬 203 • 2d ago • [the Guardian](https://www.theguardian.com/global-development/2026/feb/05/in-the-end-you-feel-blank-indias-female-workers-watching-hours-of-abusive-content-to-train-ai)
 
 ---
 
@@ -261,7 +259,7 @@ Women in rural communities describe trauma of moderating violent and pornographi
 
 Matchlock secures AI agent workloads with a Linux-based sandbox. - jingkaihe/matchlock
 
-⬆️ 122 • 💬 47 • 11h ago • [GitHub](https://github.com/jingkaihe/matchlock)
+⬆️ 126 • 💬 51 • 12h ago • [GitHub](https://github.com/jingkaihe/matchlock)
 
 ---
 
@@ -291,7 +289,27 @@ Become a member! ✓ https://www.youtube.com/channel/UCahJ9IsvXnaQiuNyWQSkrkw/jo
 
 📺 Chris Norlund
 
-👁️ 112K • 👍 7K • 💬 1K • ⏱️ 17:42 • 21h ago
+👁️ 116K • 👍 7K • 💬 2K • ⏱️ 17:42 • 21h ago
+
+---
+
+**[🚨New &quot;AI-ONLY&quot; Chat Forum &#39;MOLTBOOK&#39; is Truly Shocking!](https://www.youtube.com/watch?v=KFCrZQO2zns)**
+
+"Moltbook," a social network for AI agents, has gone viral over the past week. But is it proof that AI agents are becoming conscious, ...
+
+📺 BlazeTV
+
+👁️ 9K • 👍 670 • 💬 108 • ⏱️ 13:47 • 8h ago
+
+---
+
+**[It&#39;s a gross overreaction that AI will eliminate all software, expert says](https://www.youtube.com/watch?v=hzs6EFzSUcA)**
+
+Navellier and Associates chairman, founder and CIO Louis Navellier discusses how AI fears are hitting software on 'Maria ...
+
+📺 Fox Business
+
+👁️ 10K • 👍 162 • 💬 111 • ⏱️ 5:09 • 17h ago
 
 ---
 
@@ -301,7 +319,7 @@ Can you spot AI videos easily? #tech #ai #surfshark.
 
 📺 Surfshark Academy
 
-👁️ 5K • 👍 1K • 💬 39 • ⏱️ 1:17 • 4h ago
+👁️ 9K • 👍 2K • 💬 52 • ⏱️ 1:17 • 5h ago
 
 ---
 
@@ -311,7 +329,17 @@ AI coding just entered a new phase of competition. In the same week, OpenAI unve
 
 📺 AI Revolution
 
-👁️ 31K • 👍 731 • 💬 41 • ⏱️ 13:09 • 1d ago
+👁️ 32K • 👍 751 • 💬 41 • ⏱️ 13:09 • 1d ago
+
+---
+
+**[Anthropic&#39;s New AI Just Changed Everything](https://www.youtube.com/watch?v=ZneWerxN-qU)**
+
+Today I break down Claude Opus 4.6, Anthropic's most advanced AI model that handles complex coding, deep analysis, and ...
+
+📺 Tech Unicorn
+
+👁️ 3K • 👍 67 • 💬 16 • ⏱️ 11:40 • 1d ago
 
 ---
 
@@ -321,17 +349,7 @@ NBC Nightly News anchor Tom Llamas spoke to President Trump about fears of job l
 
 📺 NBC News
 
-👁️ 37K • 👍 118 • 💬 119 • ⏱️ 4:39 • 2d ago
-
----
-
-**[Falcon H1R - Your AI Reasoning Co-pilot (Completely FREE)](https://www.youtube.com/watch?v=2W2IKTXlF1w)**
-
-Try Falcon HR1 -7b AI Model: https://chat.falconllm.tii.ae/ Technical blog: https://falcon-lm.github.io/blog/falcon-h1r-7b/ ...
-
-📺 iDeviceHelp
-
-👁️ 2K • 👍 86 • 💬 6 • ⏱️ 3:26 • 6h ago
+👁️ 38K • 👍 119 • 💬 119 • ⏱️ 4:39 • 2d ago
 
 ---
 
@@ -341,7 +359,7 @@ Follow me here: Instagram ▻ https://www.instagram.com/sambucha X ▻ https://w
 
 📺 Sambucha
 
-👁️ 320K • 👍 25K • 💬 771 • ⏱️ 0:54 • 23h ago
+👁️ 504K • 👍 33K • 💬 917 • ⏱️ 0:54 • 1d ago
 
 ---
 
@@ -351,17 +369,7 @@ India's IT sector just got hit with its biggest shock in 4 months. The Nifty IT 
 
 📺 Mark Savant
 
-👁️ 19K • 👍 553 • 💬 266 • ⏱️ 18:25 • 22h ago
-
----
-
-**[Roblox Loves AI](https://www.youtube.com/watch?v=CIorCrD5fL8)**
-
-Roblox released new AI updates and may have used AI to remake classic faces soon to be removed for Dynamic Heads.
-
-📺 greenlegocats123
-
-👁️ 37K • 👍 2K • 💬 524 • ⏱️ 9:03 • 10h ago
+👁️ 21K • 👍 592 • 💬 282 • ⏱️ 18:25 • 23h ago
 
 ---
 
@@ -371,17 +379,7 @@ Join our WhatsApp Community Get the latest AI updates, tips, and insights straig
 
 📺 Vaibhav Sisinty
 
-👁️ 67K • 👍 2K • 💬 62 • ⏱️ 10:30 • 2d ago
-
----
-
-**[AI News: The AI Launch That Crashed The Market](https://www.youtube.com/watch?v=xdp8bulnidY)**
-
-Here's the AI News you probably missed this week. Try Perplexity Comet browser for free today - https://www.perplexity.ai/comet In ...
-
-📺 Matt Wolfe
-
-👁️ 66K • 👍 2K • 💬 130 • ⏱️ 29:39 • 1d ago
+👁️ 70K • 👍 2K • 💬 63 • ⏱️ 10:30 • 2d ago
 
 ---
 
@@ -397,7 +395,7 @@ GLM-OCR is a 0.9B parameter multimodal OCR model for complex document understand
 
 `image-to-text`
 
-⬇️ 248,295 • ❤️ 813 • 5d ago
+⬇️ 248,295 • ❤️ 818 • 5d ago
 
 ---
 
@@ -409,7 +407,7 @@ Qwen3-Coder-Next is a highly efficient 3B activated parameter LLM (80B total) op
 
 `text-generation` `79.7B`
 
-⬇️ 76,632 • ❤️ 610 • 5d ago
+⬇️ 76,632 • ❤️ 615 • 5d ago
 
 ---
 
@@ -421,7 +419,7 @@ Step 3.5 Flash is an efficient open-source foundation model (11B active params, 
 
 `text-generation` `199.4B`
 
-⬇️ 104,643 • ❤️ 523 • 1d ago
+⬇️ 104,643 • ❤️ 525 • 1d ago
 
 ---
 
@@ -433,7 +431,7 @@ Kimi K2.5 is a native multimodal agentic model with 1T parameters, excelling in 
 
 `image-text-to-text` `170.7B`
 
-⬇️ 404,508 • ❤️ 1,864 • 3d ago
+⬇️ 404,508 • ❤️ 1,869 • 3d ago
 
 ---
 
@@ -445,7 +443,7 @@ MiniCPM-o 4.5 is a 9B parameter multimodal LLM excelling in vision, speech, and 
 
 `any-to-any` `9.4B`
 
-⬇️ 17,457 • ❤️ 613 • 1d ago
+⬇️ 17,457 • ❤️ 616 • 1d ago
 
 ---
 
@@ -457,7 +455,7 @@ ACE-Step 1.5 is an open-source text-to-audio model for commercial-grade music ge
 
 `text-to-audio`
 
-⬇️ 23,178 • ❤️ 444 • 5d ago
+⬇️ 23,178 • ❤️ 447 • 5d ago
 
 ---
 
@@ -467,7 +465,7 @@ ACE-Step 1.5 is an open-source text-to-audio model for commercial-grade music ge
 
 Voxtral-Mini-4B-Realtime-2602 is a multilingual, real-time speech-to-text model with <500ms latency, supporting 13 languages and achieving offline-comparable accuracy. It's optimized for on-device deployment and ideal for voice assistants and live subtitling.
 
-⬇️ 2,427 • ❤️ 382 • 3d ago
+⬇️ 2,427 • ❤️ 383 • 3d ago
 
 ---
 
@@ -489,7 +487,7 @@ Qwen3-Coder-Next is an 80B parameter LLM optimized for coding agents, featuring 
 
 `text-generation` `79.7B`
 
-⬇️ 185,433 • ❤️ 214 • 3d ago
+⬇️ 185,433 • ❤️ 217 • 3d ago
 
 ---
 
@@ -501,7 +499,7 @@ Intern-S1-Pro is a trillion-scale MoE multimodal scientific reasoning model exce
 
 `image-text-to-text`
 
-⬇️ 8,055 • ❤️ 202 • 3d ago
+⬇️ 8,055 • ❤️ 203 • 3d ago
 
 ---
 
@@ -517,21 +515,9 @@ Intern-S1-Pro is a trillion-scale MoE multimodal scientific reasoning model exce
 
 _paperbanana is an agentic framework that automates the creation of publication-ready academic illustrations using advanced vision-language models and image generation techniques.
 
-▲ 148 • 💬 12 • ⭐ 2,416 • 9d ago
+▲ 148 • 💬 12 • ⭐ 2,547 • 9d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2601.23265) • [💻 code](https://github.com/dwzhu-pku/PaperBanana) • [🔗 project](https://dwzhu-pku.github.io/PaperBanana/)
-
----
-
-**[Scaling Large-Language-Model-based Multi-Agent Collaboration](https://huggingface.co/papers/2406.07155)**
-
-*Chen Qian, Zihao Xie, Yifei Wang et al. (10 authors)*
-
-Multi-agent collaboration networks enhance collective intelligence, outperforming baselines across various topologies and showing emergent abilities earlier than neural scaling laws suggest.
-
-▲ 4 • 💬 0 • ⭐ 30,515 • 20mo ago
-
-[🎓 arXiv](https://arxiv.org/abs/2406.07155) • [💻 code](https://github.com/OpenBMB/ChatDev/tree/macnet) • [🔗 project](https://github.com/OpenBMB/ChatDev/tree/macnet)
 
 ---
 
@@ -547,15 +533,40 @@ Cross-Team Collaboration improves software quality by enabling multiple LLM agen
 
 ---
 
+**[Scaling Large-Language-Model-based Multi-Agent Collaboration](https://huggingface.co/papers/2406.07155)**
+
+*Chen Qian, Zihao Xie, Yifei Wang et al. (10 authors)*
+
+Multi-agent collaboration networks enhance collective intelligence, outperforming baselines across various topologies and showing emergent abilities earlier than neural scaling laws suggest.
+
+▲ 4 • 💬 0 • ⭐ 30,562 • 20mo ago
+
+[🎓 arXiv](https://arxiv.org/abs/2406.07155) • [💻 code](https://github.com/OpenBMB/ChatDev/tree/macnet) • [🔗 project](https://github.com/OpenBMB/ChatDev/tree/macnet)
+
+---
+
 **[Multi-Agent Collaboration via Evolving Orchestration](https://huggingface.co/papers/2505.19591)**
 
 *Yufan Dang, Chen Qian, Xueheng Luo et al. (14 authors)*
 
 A centralized orchestrator dynamically directs LLM agents via reinforcement learning, achieving superior multi-agent collaboration in varying tasks with reduced computational costs.
 
-▲ 6 • 💬 0 • ⭐ 30,506 • 8mo ago
+▲ 6 • 💬 0 • ⭐ 30,557 • 8mo ago
 
 [🎓 arXiv](https://arxiv.org/abs/2505.19591) • [💻 code](https://github.com/OpenBMB/ChatDev/tree/puppeteer)
+
+---
+
+**[MiniCPM-V 4.5: Cooking Efficient MLLMs via Architecture, Data, and
+  Training Recipe](https://huggingface.co/papers/2509.18154)**
+
+*Tianyu Yu, Zefan Wang, Chongyi Wang et al. (34 authors)*
+
+MiniCPM-V 4.5, a 8B parameter multimodal large language model, achieves high performance and efficiency through a unified 3D-Resampler architecture, a unified learning paradigm, and a hybrid reinforcement learning strategy.
+
+▲ 53 • 💬 4 • ⭐ 23,357 • 4mo ago
+
+[🎓 arXiv](https://arxiv.org/abs/2509.18154) • [💻 code](https://github.com/OpenBMB/MiniCPM-V)
 
 ---
 
@@ -565,7 +576,7 @@ A centralized orchestrator dynamically directs LLM agents via reinforcement lear
 
 Agent Lightning is a flexible RL framework for training LLMs in various agents, using a hierarchical RL algorithm and decoupling execution from training to handle complex interactions.
 
-▲ 133 • 💬 6 • ⭐ 14,260 • 6mo ago
+▲ 133 • 💬 6 • ⭐ 14,283 • 6mo ago
 
 [🎓 arXiv](https://arxiv.org/abs/2508.03680) • [💻 code](https://github.com/microsoft/agent-lightning) • [🔗 project](https://www.microsoft.com/en-us/research/project/agent-lightning/)
 
@@ -585,19 +596,6 @@ LingBot-World is an open-source world simulator with high-fidelity dynamics, lon
 
 ---
 
-**[MiniCPM-V 4.5: Cooking Efficient MLLMs via Architecture, Data, and
-  Training Recipe](https://huggingface.co/papers/2509.18154)**
-
-*Tianyu Yu, Zefan Wang, Chongyi Wang et al. (34 authors)*
-
-MiniCPM-V 4.5, a 8B parameter multimodal large language model, achieves high performance and efficiency through a unified 3D-Resampler architecture, a unified learning paradigm, and a hybrid reinforcement learning strategy.
-
-▲ 53 • 💬 4 • ⭐ 23,255 • 4mo ago
-
-[🎓 arXiv](https://arxiv.org/abs/2509.18154) • [💻 code](https://github.com/OpenBMB/MiniCPM-V)
-
----
-
 **[Qwen3-TTS Technical Report](https://huggingface.co/papers/2601.15621)**
 
 *Hangrui Hu, Xinfa Zhu, Ting He et al. (16 authors)*
@@ -606,7 +604,7 @@ MiniCPM-V 4.5, a 8B parameter multimodal large language model, achieves high per
 
 The Qwen3-TTS series presents advanced multilingual text-to-speech models with voice cloning and controllable speech generation capabilities, utilizing dual-track LM architecture and specialized speech tokenizers for efficient streaming synthesis.
 
-▲ 60 • 💬 1 • ⭐ 7,143 • 17d ago
+▲ 60 • 💬 1 • ⭐ 7,180 • 17d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2601.15621) • [💻 code](https://github.com/QwenLM/Qwen3-TTS)
 
@@ -633,7 +631,7 @@ Bitnet.cpp enhances edge inference for ternary LLMs using a novel mixed-precisio
 
 SmolDocling is a compact vision-language model that performs end-to-end document conversion with robust performance across various document types using 256M parameters and a new markup format.
 
-▲ 138 • 💬 19 • ⭐ 52,411 • 11mo ago
+▲ 138 • 💬 19 • ⭐ 52,444 • 11mo ago
 
 [🎓 arXiv](https://arxiv.org/abs/2503.11576) • [💻 code](https://github.com/docling-project/docling) • [🔗 project](https://huggingface.co/ds4sd/SmolDocling-256M-preview)
 
@@ -649,7 +647,7 @@ Browser automation CLI for AI agents
 
 `TypeScript`
 
-⭐ 13.2k • 🔱 768 • 2d ago
+⭐ 13.3k • 🔱 768 • 2d ago
 
 ---
 
@@ -669,7 +667,7 @@ LLM驱动的 A/H/美股智能分析器，多数据源行情 + 实时新闻 + Gem
 
 `Python` `agent` `ai` `aigc` `gemini` `llm`
 
-⭐ 9.9k • 🔱 10.4k • 9h ago
+⭐ 9.9k • 🔱 10.4k • 10h ago
 
 ---
 
@@ -679,7 +677,7 @@ The Ultimate Collection of 700+ Agentic Skills for Claude Code/Antigravity/Curso
 
 `Python` `agentic-skills` `ai-agents` `antigravity` `autonomous-coding` `claude-code`
 
-⭐ 7.9k • 🔱 1.6k • 9h ago
+⭐ 7.9k • 🔱 1.6k • 10h ago
 
 ---
 
@@ -689,7 +687,7 @@ Marketing skills for Claude Code and AI agents. CRO, copywriting, SEO, analytics
 
 `claude` `codex` `marketing`
 
-⭐ 6.8k • 🔱 758 • 4d ago
+⭐ 6.8k • 🔱 760 • 4d ago
 
 ---
 
@@ -697,7 +695,7 @@ Marketing skills for Claude Code and AI agents. CRO, copywriting, SEO, analytics
 
 Elevate your AI research writing, no more tedious polishing ✨ 
 
-⭐ 4.8k • 🔱 376 • 4d ago
+⭐ 4.8k • 🔱 378 • 4d ago
 
 ---
 
@@ -705,7 +703,7 @@ Elevate your AI research writing, no more tedious polishing ✨
 
 Claude Code skill that removes signs of AI-generated writing from text
 
-⭐ 4.4k • 🔱 366 • 16d ago
+⭐ 4.4k • 🔱 367 • 16d ago
 
 ---
 
@@ -715,7 +713,7 @@ OpenSource Claude Cowork. A desktop AI assistant that helps you with programming
 
 `TypeScript`
 
-⭐ 2.8k • 🔱 378 • 16h ago
+⭐ 2.8k • 🔱 378 • 17h ago
 
 ---
 
@@ -733,7 +731,7 @@ PaperBanana: Automating Academic Illustration For AI Scientists
 
 `JavaScript`
 
-⭐ 2.5k • 🔱 119 • 5d ago
+⭐ 2.6k • 🔱 121 • 5d ago
 
 ---
 
