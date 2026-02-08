@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-02-08T13:46:18.874942+00:00'
+updated: '2026-02-08T14:28:59.293411+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- videos
-- social
 - news
+- social
+- videos
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** February 08, 2026 at 13:46 UTC  
+**Last Updated:** February 08, 2026 at 14:28 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -34,7 +34,7 @@ Robotics research and industry news
 
 **[LeRobot's ACT running on my robotic arm](https://www.reddit.com/r/robotics/comments/1qz65ru/lerobots_act_running_on_my_robotic_arm/)**
 
-2h ago
+3h ago
 
 ---
 
@@ -46,17 +46,33 @@ Pantograph website: https://pantograph.com/ Pantograph on 𝕏: http://x.com/pan
 
 ---
 
-**[It dance better than me for sure…](https://www.reddit.com/r/robotics/comments/1qykdxw/it_dance_better_than_me_for_sure/)**
+**[has building a robot ever helped in applying for jobs?](https://www.reddit.com/r/robotics/comments/1qz9jk5/has_building_a_robot_ever_helped_in_applying_for/)**
 
-19h ago
+Just out of curiosity, and because I plan to make my own 4 wheeled rover + LLM/VLA as a personal project, has building a robot as a personal project ever helped when applying for a job/position/interview? Thinking of taking the jump myself, but it is quite costly so wanted to hear your story before I take the dip. thanks all
+
+32m ago
 
 ---
 
-**[Boston Dynamics Doing It Again.](https://www.reddit.com/r/robotics/comments/1qyrak5/boston_dynamics_doing_it_again/)**
+**[What is your opinion about this?](https://www.reddit.com/r/robotics/comments/1qz8nwz/what_is_your_opinion_about_this/)**
 
-Once again, Boston Dynamics just leaving everyone in the dust. Watch all the chinese copycats try to do the same thing. https://www.youtube.com/watch?v=UNorxwlZlFk
+Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.
 
-15h ago
+🔗 [youtube.com](https://www.youtube.com/watch?v=FqfTQFuSalY) • 1h ago
+
+---
+
+**[newbie question: how are real autonomous robots/drones structured?](https://www.reddit.com/r/robotics/comments/1qz8drt/newbie_question_how_are_real_autonomous/)**
+
+I’m a software engineer trying to move into robotics and autonomy. I understand high-level stuff (perception, planning, control) but I’m confused how this looks in real systems and not research slides. For example: what actually runs on the robot vs offboard? how tightly coupled are sensors + control code? is ROS really used in production or mostly research? I’m interested in recon / monitoring robots, just trying to learn from people who’ve done this for real.
+
+1h ago
+
+---
+
+**[It dance better than me for sure…](https://www.reddit.com/r/robotics/comments/1qykdxw/it_dance_better_than_me_for_sure/)**
+
+20h ago
 
 ---
 
@@ -64,7 +80,15 @@ Once again, Boston Dynamics just leaving everyone in the dust. Watch all the chi
 
 The chest finally finished printing after 5 days of printing. I assembled it and so far it looks like this, i still have to build the right arm and mount them. I know it may not look that good but it’s my first time doing such a big project and i’m still learning.
 
-21h ago
+22h ago
+
+---
+
+**[Boston Dynamics Doing It Again.](https://www.reddit.com/r/robotics/comments/1qyrak5/boston_dynamics_doing_it_again/)**
+
+Once again, Boston Dynamics just leaving everyone in the dust. Watch all the chinese copycats try to do the same thing. https://www.youtube.com/watch?v=UNorxwlZlFk
+
+16h ago
 
 ---
 
@@ -72,7 +96,7 @@ The chest finally finished printing after 5 days of printing. I assembled it and
 
 How viable is a Robotics-as-a-Service (RaaS) startup today? I’m evaluating the idea of starting a small RaaS company and wanted honest feedback from people who’ve been in hardware, robotics, or service-based startups. A few things I’m trying to understand: Which verticals actually work (security, cleaning, warehouse, etc.)? What does it realistically cost to deploy the first few robots? How long did it take to get your first paying customer? Is the bigger challenge the technology, hardware costs, or field service/operations? Would you recommend starting as an integrator (using existing robots) vs building your own? Any real numbers, lessons learned, or “things you wish you knew earlier” would be really helpful.
 
-6h ago
+7h ago
 
 ---
 
@@ -84,39 +108,15 @@ There is the popular argument for why having a humanoid robot would be the best 
 
 ---
 
-**[Parts I Have for a Self-Balancing Robot Project](https://www.reddit.com/r/robotics/comments/1qym0yo/parts_i_have_for_a_selfbalancing_robot_project/)**
-
-Hi everyone, I’m planning to build a self-balancing robot and I wanted to share the parts I currently have before moving forward. Parts I have: Arduino Nano (ATmega328P) MPU6050 (accelerometer + gyroscope) TB6612FNG dual motor driver DC motors (3–6 V) Battery pack ~8 V, 2600 mAh 2× electrolytic capacitors (1000 µF, 16 V) Wheels and a rigid homemade chassis The goal is to make a robot that can balance itself upright using these components. I’m still in the early stages and would appreciate any general advice or things to watch out for when building a self-balancing robot with this kind of setup. Thanks!
-
-18h ago
-
----
-
-**[Atlas, from Boston Dynamics, does gymnastics, lands on its toes, then performs a backflip.](https://www.reddit.com/r/robotics/comments/1qxdo57/atlas_from_boston_dynamics_does_gymnastics_lands/)**
-
-From CyberRobo on 𝕏: https://x.com/CyberRobooo/status/2019598569909743755
-
-2d ago
-
----
-
-**[Birthday gift ideas for boyfriend (CS senior + humanoid robotics, practical not flashy)](https://www.reddit.com/r/robotics/comments/1qy80pk/birthday_gift_ideas_for_boyfriend_cs_senior/)**
-
-My boyfriend is a computer science major and is about to graduate. He’s really into robotics, especially humanoid robots, and he currently works in a research lab where they’re building a humanoid that can catch objects. Most of what I see him doing is simulation and coding work on his computer. Last year I got him an Arduino kit, and he already has a toolkit, but he doesn’t really use either one much on his own (as far as I see). He’s pretty thrifty and values practicality over “cool” gadgets. For context, he uses a Mac and has a portable monitor that fits in his backpack. He doesn’t currently use an external keyboard or mouse, but I don’t think he cares much about those. I want to get him something he’ll genuinely use in his future work. Since he mostly works in teams through his lab/club (not solo at-home build projects), I’m not looking for another kit. Any gift ideas from people in CS/robotics, or partners of people in this field, that are truly useful and not gimmicky? Thank you!!
-
-1d ago
-
----
-
 ---
 
 ## Google News: "robotics"
 
-**[The Rapid Rise of Humanoid Robots](https://oilprice.com/Energy/Energy-General/The-Rapid-Rise-of-Humanoid-Robots.html)**
+**[Boston Dynamics: building robots to do the jobs humans shouldn’t](https://interestingengineering.com/innovation/boston-dynamics-building-robots-to-do-the-jobs-humans-shouldnt)**
 
-Automakers including Tesla and Hyundai are investing heavily in humanoid robots as a long-term cost-saving strategy, even as questions remain over productivity, technical feasibility, and the risk of widespread job losses.
+Boston Dynamics’ Aya Durbin explains the engineering challenges behind deploying humanoid robots in messy, real-world settings.
 
-Crude Oil Prices Today | OilPrice.com • 15h ago
+Interesting Engineering • 1d ago
 
 ---
 
@@ -124,7 +124,7 @@ Crude Oil Prices Today | OilPrice.com • 15h ago
 
 Union organizers are growing increasingly worried about a future in which AI-powered robots decimate blue collar labor.
 
-Futurism • 20h ago
+Futurism • 21h ago
 
 ---
 
@@ -136,11 +136,19 @@ Fortune • 2d ago
 
 ---
 
+**[What the SpaceX acquisition of xAI means for industrial robotics](https://www.therobotreport.com/what-the-spacex-acquisition-xai-means-for-industrial-robotics/)**
+
+The consolidation of SpaceX and xAI could lead to more adaptive use of robots, data, and AI in manufacturing, says Flexxbotics' CEO.
+
+The Robot Report • 44m ago
+
+---
+
 **[AGIBOT Hosts "AGIBOT NIGHT," a Robot-Led Live Gala Show](https://sg.finance.yahoo.com/news/agibot-hosts-agibot-night-robot-122000123.html)**
 
 AGIBOT, a leading robotics company specializing in embodied intelligence, today hosted AGIBOT NIGHT, a robot-led gala show streaming on February 8. The 60-minute program marks the world's first large-scale live event fully led by humanoid robots, where humanoid robots took center stage to perform dance, magic, comedy, and music, appearing not as tools or supporting elements, but as the primary performers throughout the show.
 
-Yahoo Finance Singapore • 1h ago
+Yahoo Finance Singapore • 2h ago
 
 ---
 
@@ -149,22 +157,6 @@ Yahoo Finance Singapore • 1h ago
 The retailer’s $330 million investment, slated to start this year, is part of a larger effort to upgrade all 42 of its regional distribution facilities.
 
 Supply Chain Dive • 2d ago
-
----
-
-**[Making robots useful and affordable will need better motors](https://www.bbc.com/news/articles/c5y46356zzyo)**
-
-Firms are working to make the motors that drive robots more efficient and cheaper.
-
-BBC • 2d ago
-
----
-
-**[Bills introduced to strengthen U.S. robotics competitiveness, humanoid security](https://www.therobotreport.com/bills-introduced-strengthen-u-s-robotics-competitiveness-humanoid-security/)**
-
-The bills seek to establish a National Commission on Robotics and restrict humanoid imports for U.S. security and competitiveness.
-
-The Robot Report • 2d ago
 
 ---
 
@@ -190,6 +182,14 @@ Fast Company • 3d ago
 
 ---
 
+**[Watch: Humanoid robots work together using the same AI 'brain'](https://www.euronews.com/next/2026/02/05/watch-humanoid-robots-work-together-using-the-same-ai-brain)**
+
+Until now, humanoid robots have largely worked on their own. A new AI system is designed to run them together.
+
+Euronews.com • 3d ago
+
+---
+
 ---
 
 ## YouTube Videos: "robotics"
@@ -200,17 +200,17 @@ Humanoid robots just entered a new phase of realism. In Shanghai, DroidUp reveal
 
 📺 AI Revolution
 
-👁️ 201K • 👍 4K • 💬 842 • ⏱️ 13:31 • 3d ago
+👁️ 203K • 👍 4K • 💬 849 • ⏱️ 13:31 • 3d ago
 
 ---
 
-**[Atlas Airborne | Boston Dynamics &amp; @rai-inst](https://www.youtube.com/watch?v=UNorxwlZlFk)**
+**[Elon Musk: AI &amp; Robotics Will 100X The World Economy 👀  #AI #Robotics #ElonMusk #FutureTech](https://www.youtube.com/watch?v=axmRdBTRQkg)**
 
-Now that the Atlas enterprise platform is getting to work, the research version gets one last run in the sun. Our engineers made ...
+Artificial Intelligence and Robotics are no longer “future ideas” — they are rapidly becoming the engines of global growth.
 
-📺 Boston Dynamics
+📺 Billionaire Shots
 
-👁️ 310K • 👍 18K • 💬 2K • ⏱️ 1:38 • 23h ago
+👁️ 560 • 👍 76 • 💬 21 • ⏱️ 0:30 • 53m ago
 
 ---
 
@@ -220,7 +220,17 @@ The Atlas Airborne Robot takes one final research run as Boston Dynamics pushes 
 
 📺 DPCcars
 
-👁️ 12K • 👍 152 • 💬 25 • ⏱️ 2:45 • 18h ago
+👁️ 14K • 👍 165 • 💬 37 • ⏱️ 2:45 • 19h ago
+
+---
+
+**[Atlas Airborne | Boston Dynamics &amp; @rai-inst](https://www.youtube.com/watch?v=UNorxwlZlFk)**
+
+Now that the Atlas enterprise platform is getting to work, the research version gets one last run in the sun. Our engineers made ...
+
+📺 Boston Dynamics
+
+👁️ 332K • 👍 18K • 💬 2K • ⏱️ 1:38 • 1d ago
 
 ---
 
@@ -230,7 +240,7 @@ Pan Motor's Wuji Hand packs twenty fully actuated joints into a sub six hundred 
 
 📺 Deepen
 
-👁️ 8K • 👍 260 • 💬 5 • ⏱️ 0:19 • 11h ago
+👁️ 17K • 👍 344 • 💬 8 • ⏱️ 0:19 • 12h ago
 
 ---
 
@@ -240,7 +250,27 @@ Pan Motor's Wuji Hand packs twenty fully actuated joints into a sub six hundred 
 
 📺 Unitree Robotics
 
-👁️ 135K • 👍 1K • 💬 151 • ⏱️ 0:45 • 6d ago
+👁️ 136K • 👍 1K • 💬 152 • ⏱️ 0:45 • 6d ago
+
+---
+
+**[The Robot Revolution Just Got Real: Why Boston Dynamics and Figure Are About to Change Everything](https://www.youtube.com/watch?v=M36fg52xqtc)**
+
+GET MY FREE GUIDE: *The Content Creator's AI Blueprint: From 25 Hours to 5 Minutes* https://FirstMovers.ai/blueprint/ ...
+
+📺 Julia McCoy
+
+👁️ 24K • 👍 1K • 💬 262 • ⏱️ 17:32 • 23h ago
+
+---
+
+**[Strongest Robot Doesn&#39;t Always Win 🤯](https://www.youtube.com/watch?v=JIW-cmPW0uE)**
+
+shorts.
+
+📺 Tenzo Shortz
+
+👁️ 651 • ⏱️ 0:27 • 53m ago
 
 ---
 
@@ -250,27 +280,7 @@ XPeng just showed the world what real humanoid robot progress looks like. During
 
 📺 DPCcars
 
-👁️ 39K • 👍 157 • 💬 54 • ⏱️ 2:06 • 6d ago
-
----
-
-**[Capybara Rebuilds a Robot Lion After Sabotage vs Brianna! 🦁🤖 #capybara](https://www.youtube.com/watch?v=Pwu7G4jC3FA)**
-
-Capybara's golden robot lion was sabotaged by Brianna before the big competition! But Cappy didn't give up — he rebuilt ...
-
-📺 CapyEscapes
-
-👁️ 34K • 👍 1K • 💬 151 • ⏱️ 0:59 • 1d ago
-
----
-
-**[This Robot Produces Speech the Human Way 😮](https://www.youtube.com/watch?v=L0M5fs_phpA)**
-
-This Robot Produces Speech the Human Way This system generates speech using physical movement rather than digital ...
-
-📺 MrScoopz
-
-👁️ 8.4M • 👍 51K • 💬 2K • ⏱️ 0:05 • 6d ago
+👁️ 39K • 👍 158 • 💬 54 • ⏱️ 2:06 • 6d ago
 
 ---
 
@@ -280,17 +290,7 @@ This robotic mouth is designed to replicate how real human lips move while speak
 
 📺 Facts TV 91
 
-👁️ 79K • 👍 515 • 💬 37 • ⏱️ 0:06 • 4d ago
-
----
-
-**[These Microscopic Bubble Robots Can Find Cancer On Their Own &amp; Fight Against It #robot #shorts](https://www.youtube.com/watch?v=sD_s2oxqOO8)**
-
-Tiny Bubble Robots Could Revolutionize Cancer Treatment Scientists at Caltech and USC have created tiny “bubble robots” that ...
-
-📺 uncover reality
-
-👁️ 21K • 👍 239 • 💬 13 • ⏱️ 0:06 • 1d ago
+👁️ 79K • 👍 518 • 💬 37 • ⏱️ 0:06 • 4d ago
 
 ---
 

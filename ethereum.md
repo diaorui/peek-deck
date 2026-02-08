@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-02-08T13:46:18.871787+00:00'
+updated: '2026-02-08T14:28:59.290249+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- cryptocurrency
+- news
 - videos
 - social
-- news
+- cryptocurrency
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** February 08, 2026 at 13:46 UTC  
+**Last Updated:** February 08, 2026 at 14:28 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,27 +42,27 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** +4.3%  
-**7d:** -9.2%  
-**30d:** -31.1%  
-**90d:** -37.6%  
-**1y:** -19.0%  
+**24h:** +3.3%  
+**7d:** -9.6%  
+**30d:** -31.4%  
+**90d:** -37.9%  
+**1y:** -19.4%  
 
 ---
 
 ## Ethereum Market Stats
 
-**Market Cap:** $256.65B
+**Market Cap:** $255.64B
 Rank #2
 
 **Circulating Supply:** 120,692,627 ETH
 No max supply
 
 **All-Time High:** $4,946.05
--57.1%
+-57.2%
 
 **All-Time Low:** $0.43
-+490073.9%
++489124.7%
 
 ---
 
@@ -72,7 +72,7 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-7h ago
+8h ago
 
 ---
 
@@ -92,7 +92,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 **[We're building an open-source archive of the earliest Ethereum smart contracts (2015-2017) — looking for contributors](https://www.reddit.com/r/ethereum/comments/1qymum3/were_building_an_opensource_archive_of_the/)**
 
-18h ago
+19h ago
 
 ---
 
@@ -164,6 +164,20 @@ Nasdaq • 2d ago
 
 ---
 
+**[Ethereum Falls 10% In Bearish Trade](https://www.investing.com/news/cryptocurrency-news/ethereum-falls-10-in-bearish-trade-4488338)**
+
+Investing.com • 2d ago
+
+---
+
+**[Ethereum Price Is Not Going To Keep Falling Forever, Analyst Says](https://www.tradingview.com/news/newsbtc:6ebc821a3094b:0-ethereum-price-is-not-going-to-keep-falling-forever-analyst-says/)**
+
+Ethereum’s recent sell-off has weighed heavily on sentiment after the price fell below the $2,000 level and pulled much of the altcoin market lower alongside it. The move has caused sweeping fear and caution among Ethereum traders. However, some analysts are of the notion that a bullish upside will…
+
+TradingView • 11h ago
+
+---
+
 **[ENS Labs scraps Namechain L2, shifts ENSv2 fully to Ethereum mainnet](https://www.theblock.co/post/388932/ens-labs-scraps-namechain-l2-shifts-ensv2-fully-ethereum-mainnet)**
 
 ENS Labs is canceling the launch of the Namechain Layer 2, which began development in 2024 to support the forthcoming ENSv2 update.
@@ -208,23 +222,7 @@ Yahoo Finance • 3d ago
 
 Solana may be outperforming Ethereum across key metrics right now.
 
-AMBCrypto • 8h ago
-
----
-
-**[BitMine Ethereum Treasury Losses And Leadership Changes Put BMNR Under Scrutiny](https://finance.yahoo.com/news/bitmine-ethereum-treasury-losses-leadership-170707091.html)**
-
-BitMine Immersion Technologies, ticker NYSEAM:BMNR, is reporting nearly $8b in unrealized losses tied to its Ethereum holdings after a sharp pullback in ETH prices. The company continues to frame its large Ethereum position and staking operations as part of a long term treasury approach, while continuing to accumulate ETH. Recent executive turnover, including the amicable separation of President Erik Nelson, is adding another layer of uncertainty for shareholders during heightened crypto...
-
-Yahoo Finance • 20h ago
-
----
-
-**[Ethereum (ETH) news: BitMine (BMNR) faces $8 billion paper loss on ether holdings](https://www.coindesk.com/business/2026/02/05/tom-lee-s-bitmine-now-usd8-billion-underwater-as-ether-tumbles-below-usd2-000)**
-
-Despite the mounting loss, the Ethereum treasury firm says it's under no pressure to sell as ETH price crashes and its stock tumbles.
-
-CoinDesk • 2d ago
+AMBCrypto • 9h ago
 
 ---
 
@@ -232,23 +230,13 @@ CoinDesk • 2d ago
 
 ## YouTube Videos: "ethereum"
 
-**[Ethereum Elliott Wave Update – Key Resistance Levels Ahead](https://www.youtube.com/watch?v=3YC2YldLk78)**
-
-This video provides a professional Elliott Wave and technical analysis of Ethereum (ETH), focusing on market structure, major ...
-
-📺 More Crypto Online
-
-👁️ 2K • 👍 156 • 💬 10 • ⏱️ 5:21 • 7h ago
-
----
-
 **[BE READY FOR THESE MOVES!🚨 (Ethereum Price Prediction 2026)](https://www.youtube.com/watch?v=Kse3VGjjDP0)**
 
 ETHEREUM ETH PRICE PREDICTION 2026 Join the Premium Signal Group for trade setups, mentorship & a community ...
 
 📺 Cilinix Crypto
 
-👁️ 143 • 👍 7 • ⏱️ 4:21 • 3h ago
+👁️ 313 • 👍 16 • 💬 4 • ⏱️ 4:21 • 4h ago
 
 ---
 
@@ -258,7 +246,17 @@ Tom Lee, Fundstrat, joins 'Closing Bell' to discuss the state of crypto markets,
 
 📺 CNBC Television
 
-👁️ 74K • 👍 777 • 💬 309 • ⏱️ 3:53 • 1d ago
+👁️ 76K • 👍 786 • 💬 316 • ⏱️ 3:53 • 1d ago
+
+---
+
+**[Ethereum Elliott Wave Update – Key Resistance Levels Ahead](https://www.youtube.com/watch?v=3YC2YldLk78)**
+
+This video provides a professional Elliott Wave and technical analysis of Ethereum (ETH), focusing on market structure, major ...
+
+📺 More Crypto Online
+
+👁️ 2K • 👍 186 • 💬 12 • ⏱️ 5:21 • 8h ago
 
 ---
 
@@ -268,27 +266,7 @@ BITCOIN & ALTCOINS: New Targets Confirmed (Prepare Now)!!! - Bitcoin News Today,
 
 📺 Crypto World
 
-👁️ 11K • 👍 386 • 💬 195 • ⏱️ 17:07 • 16h ago
-
----
-
-**[Ethereum Elliott Wave Update – Key Resistance Levels Ahead](https://www.youtube.com/watch?v=H_Y7-M-mSto)**
-
-This video provides a professional Elliott Wave and technical analysis of Ethereum (ETH), focusing on market structure, major ...
-
-📺 More Crypto Online
-
-👁️ 3K • 👍 204 • 💬 11 • ⏱️ 4:56 • 17h ago
-
----
-
-**[🚨 BTC &amp; ETH: THIS IS IT!!!! ITS TIME!!!!!](https://www.youtube.com/watch?v=8QI8ukpRpEI)**
-
-One of the biggest crypto crashes in history! Here is what happened, why and my plan going further. ---------- LIVE VIRTUAL ...
-
-📺 Thomas Kralow
-
-👁️ 40K • 👍 1K • 💬 79 • ⏱️ 11:51 • 2d ago
+👁️ 12K • 👍 409 • 💬 226 • ⏱️ 17:07 • 16h ago
 
 ---
 
@@ -298,17 +276,27 @@ My FREE Daily 5-Min Crypto Newsletter: https://www.cryptonutshell.com/subscribe 
 
 📺 Crypto Nutshell
 
-👁️ 19K • 👍 497 • 💬 156 • ⏱️ 22:22 • 2d ago
+👁️ 19K • 👍 500 • 💬 156 • ⏱️ 22:22 • 2d ago
 
 ---
 
-**[8 February Today Crypto Live Trading | @bullishbullmaster #bitcoin #ethereum #cryptotrading #gold](https://www.youtube.com/watch?v=b9WV7PLVi4k)**
+**[🚨 BTC &amp; ETH: THIS IS IT!!!! ITS TIME!!!!!](https://www.youtube.com/watch?v=8QI8ukpRpEI)**
 
-ALL TRADING PLATFORMS Telegram Link https://telegram.me/bullishbull Join Whatsapp Channel ...
+One of the biggest crypto crashes in history! Here is what happened, why and my plan going further. ---------- LIVE VIRTUAL ...
 
-📺 Bullish Bull Master
+📺 Thomas Kralow
 
-👁️ 6K • 👍 564 • 4h ago
+👁️ 40K • 👍 2K • 💬 79 • ⏱️ 11:51 • 2d ago
+
+---
+
+**[Ethereum Elliott Wave Update – Key Resistance Levels Ahead](https://www.youtube.com/watch?v=H_Y7-M-mSto)**
+
+This video provides a professional Elliott Wave and technical analysis of Ethereum (ETH), focusing on market structure, major ...
+
+📺 More Crypto Online
+
+👁️ 4K • 👍 204 • 💬 11 • ⏱️ 4:56 • 18h ago
 
 ---
 
@@ -322,13 +310,23 @@ Uhh... so... is anyone else getting that strange feeling that something big is a
 
 ---
 
-**[Live Trading in Crypto | BTC and ETH Trading | IFW Live Trading](https://www.youtube.com/watch?v=y7emYDIB7RY)**
+**[“This Crash Might Be the Setup Most Crypto Holders Are Missing&quot; – Matt Hougan](https://www.youtube.com/watch?v=gMUdNWz4eaI)**
 
-Follow The All Account Opening Link ⏩⏩⏩⏩⏩ send screenshoot after open account - 62800 19674 we will add you in our ...
+Take Control of Your Retirement — Grow Crypto & Gold Tax-Advantaged. https://www.itrustcapital.com/go/savvy-finance If you're ...
 
-📺 Invest For Wealth
+📺 Savvy Finance
 
-👁️ 1K • 👍 390 • 3h ago
+👁️ 8K • 👍 345 • 💬 12 • ⏱️ 20:57 • 2d ago
+
+---
+
+**[The Ethereum Bottom ISN&#39;T In Yet.](https://www.youtube.com/watch?v=zFcWMpTYIQA)**
+
+Get $450 Off Our New AI Indicators: https://tradeconfidentportal.io/indic... Join Trade Confident: Get 25% Off Your 1st Month: ...
+
+📺 Trade Confident
+
+👁️ 816 • 👍 27 • 💬 2 • ⏱️ 5:06 • 1d ago
 
 ---
 
