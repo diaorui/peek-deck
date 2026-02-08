@@ -3,7 +3,7 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-02-08T16:33:09.020945+00:00'
+updated: '2026-02-08T17:27:29.061291+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
@@ -17,7 +17,7 @@ data_types:
 
 Robotics research and industry news
 
-**Last Updated:** February 08, 2026 at 16:33 UTC  
+**Last Updated:** February 08, 2026 at 17:27 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -34,7 +34,7 @@ Robotics research and industry news
 
 **[LeRobot's ACT running on my robotic arm](https://www.reddit.com/r/robotics/comments/1qz65ru/lerobots_act_running_on_my_robotic_arm/)**
 
-5h ago
+6h ago
 
 ---
 
@@ -66,7 +66,7 @@ We've been working on a depth completion model called LingBot-Depth (paper: arxi
 
 Just out of curiosity, and because I plan to make my own 4 wheeled rover + LLM/VLA as a personal project, has building a robot as a personal project ever helped when applying for a job/position/interview? Thinking of taking the jump myself, but it is quite costly so wanted to hear your story before I take the dip. thanks all
 
-2h ago
+3h ago
 
 ---
 
@@ -74,7 +74,7 @@ Just out of curiosity, and because I plan to make my own 4 wheeled rover + LLM/V
 
 Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.
 
-🔗 [youtube.com](https://www.youtube.com/watch?v=FqfTQFuSalY) • 3h ago
+🔗 [youtube.com](https://www.youtube.com/watch?v=FqfTQFuSalY) • 4h ago
 
 ---
 
@@ -82,7 +82,7 @@ Enjoy the videos and music you love, upload original content, and share it all w
 
 I’m a software engineer trying to move into robotics and autonomy. I understand high-level stuff (perception, planning, control) but I’m confused how this looks in real systems and not research slides. For example: what actually runs on the robot vs offboard? how tightly coupled are sensors + control code? is ROS really used in production or mostly research? I’m interested in recon / monitoring robots, just trying to learn from people who’ve done this for real.
 
-3h ago
+4h ago
 
 ---
 
@@ -96,7 +96,7 @@ The chest finally finished printing after 5 days of printing. I assembled it and
 
 **[It dance better than me for sure…](https://www.reddit.com/r/robotics/comments/1qykdxw/it_dance_better_than_me_for_sure/)**
 
-22h ago
+23h ago
 
 ---
 
@@ -104,7 +104,7 @@ The chest finally finished printing after 5 days of printing. I assembled it and
 
 Once again, Boston Dynamics just leaving everyone in the dust. Watch all the chinese copycats try to do the same thing. https://www.youtube.com/watch?v=UNorxwlZlFk
 
-18h ago
+19h ago
 
 ---
 
@@ -124,7 +124,7 @@ BBC • 2d ago
 
 Automakers including Tesla and Hyundai are investing heavily in humanoid robots as a long-term cost-saving strategy, even as questions remain over productivity, technical feasibility, and the risk of widespread job losses.
 
-Crude Oil Prices Today | OilPrice.com • 18h ago
+Crude Oil Prices Today | OilPrice.com • 19h ago
 
 ---
 
@@ -140,7 +140,7 @@ Fortune • 3d ago
 
 The consolidation of SpaceX and xAI could lead to more adaptive use of robots, data, and AI in manufacturing, says Flexxbotics' CEO.
 
-The Robot Report • 2h ago
+The Robot Report • 3h ago
 
 ---
 
@@ -148,7 +148,7 @@ The Robot Report • 2h ago
 
 Qualcomm (QCOM) CFO and COO Akash Palkhiwala sits down with Market Domination Host Josh Lipton and Yahoo Finance Tech Editor Dan Howley to talk more about the role that the AI chipmaker envisions for itself in the robotics industry Also catch Akash Palkhiwala talk about Qualcomm's outlook on challenges for its handset phone division. To watch more expert insights and analysis on the latest market action, check out more&nbsp;Market Domination.
 
-Yahoo Finance • 21h ago
+Yahoo Finance • 22h ago
 
 ---
 
@@ -170,7 +170,7 @@ ASUS Pressroom • 3d ago
 
 These scenes have shocked many because they depict machines performing exercises that have been passed down through centuries of human discipline and spiritual practice.
 
-NDTV • 1h ago
+NDTV • 2h ago
 
 ---
 
@@ -208,7 +208,7 @@ Artificial Intelligence and Robotics are no longer “future ideas” — they a
 
 📺 Billionaire Shots
 
-👁️ 929 • 👍 123 • 💬 26 • ⏱️ 0:30 • 2h ago
+👁️ 929 • 👍 123 • 💬 26 • ⏱️ 0:30 • 3h ago
 
 ---
 
@@ -228,7 +228,7 @@ The Atlas Airborne Robot takes one final research run as Boston Dynamics pushes 
 
 📺 DPCcars
 
-👁️ 16K • 👍 175 • 💬 39 • ⏱️ 2:45 • 21h ago
+👁️ 16K • 👍 175 • 💬 39 • ⏱️ 2:45 • 22h ago
 
 ---
 
@@ -248,7 +248,7 @@ Pan Motor's Wuji Hand packs twenty fully actuated joints into a sub six hundred 
 
 📺 Deepen
 
-👁️ 19K • 👍 351 • 💬 8 • ⏱️ 0:19 • 14h ago
+👁️ 19K • 👍 351 • 💬 8 • ⏱️ 0:19 • 15h ago
 
 ---
 
@@ -268,7 +268,7 @@ shorts.
 
 📺 Tenzo Shortz
 
-👁️ 1K • ⏱️ 0:27 • 2h ago
+👁️ 1K • ⏱️ 0:27 • 3h ago
 
 ---
 
