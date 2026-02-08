@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-02-08T20:29:59.958341+00:00'
+updated: '2026-02-08T20:55:30.330461+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
+- news
 - cryptocurrency
 - videos
 - social
-- news
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** February 08, 2026 at 20:29 UTC  
+**Last Updated:** February 08, 2026 at 20:55 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -79,7 +79,7 @@ Rank #1
 
 **[Comforting my friend who bought BTC @ 120k](https://www.reddit.com/r/Bitcoin/comments/1qyt31t/comforting_my_friend_who_bought_btc_120k/)**
 
-20h ago
+21h ago
 
 ---
 
@@ -95,7 +95,7 @@ The Fed's money printer never stops. Balance sheet still bloated at ~$6.5T, quie
 
 Guys, if you've been in this for 7-10 years, you see the same nonsense being spouted every single damn crash. BUY AND HODLATE.
 
-5h ago
+6h ago
 
 ---
 
@@ -111,7 +111,7 @@ Guys, if you've been in this for 7-10 years, you see the same nonsense being spo
 
 honestly, after holding since 2021, these dips barely even register anymore. i'm not even checking the charts as often as i used to. is that just me getting old and boring, or are other long-term holders feeling the same?
 
-13h ago
+14h ago
 
 ---
 
@@ -119,7 +119,7 @@ honestly, after holding since 2021, these dips barely even register anymore. i'm
 
 Hi everyone! Back in like 2013 or something My husband bought us some bitcoin. I think around $1000 worth, I can’t recall. Unfortunately since then he’s passed away (2018), and while I recall logging in to his wallet and changing the info to include myself and my email address after he passed away, I can’t recall where on earth any of this transpired. I do have the old laptop I did this on, and I hope that can help illuminate things for me so I can find it, but honestly I’m not sure where to begin looking. Back around those days, where would one access to their bitcoin? This was his thing back then, not mine so I have no idea where to start. Any ideas would be helpful.
 
-1h ago
+2h ago
 
 ---
 
@@ -127,7 +127,7 @@ Hi everyone! Back in like 2013 or something My husband bought us some bitcoin. I
 
 Im 39years old and unfortunately(or fortunately) because i had to renovate my house for last 3 years i didnt have any money to buy BTC.But i followed whole market for last 5 years with really small portofolio(less than 200€). Now i'm completely debt/loan free. Finally my 3 year bank loan ended friday,and i finally began my DCA journey into BTC at 66k. I guess im kinda lucky that it just had almost 50% drop. I know i can never time the market,and im mentally fully aware we can go back to 35-40k. The reason why i made this thread is because in my life i never talk about BTC so i guess i just wanted to share this with similar minded people
 
-16m ago
+41m ago
 
 ---
 
@@ -143,7 +143,7 @@ HODL strong through the storms; the future rewards the patient. 🚀 🙌
 
 Over the past year I have received 4 unknown deposits into my Trezor hardware wallet. Each deposit was in the amount of .0000033 bitcoin. Three were in January 2025 and one so far today. Any ideas what these are and should I be worried about my Trezor. It is a Trezor safe 3. Thanks for any help.
 
-14h ago
+15h ago
 
 ---
 
@@ -230,7 +230,7 @@ The Wall Street Journal • 2d ago
 
 Citron Research founder Andrew Left renewed his aggressive short campaign against Strategy Inc. (NASDAQ:MSTR) on Thursday, dismissing the company's complex financial architecture as "nonsense" after the firm reported a staggering $12.4 billion fourth-quarter loss. Jargon Vs. Reality The critique marks a sharp reversal for Left, who previously praised the company before it “completely detached from BTC fundamentals.” The dispute centers on Executive Chairman Michael Saylor's recent descriptions o
 
-Yahoo Finance • 17h ago
+Yahoo Finance • 18h ago
 
 ---
 
@@ -262,7 +262,7 @@ Bitcoin outlook turns bearish as Pivotus’ Richard Farr targets BTC at $0 and M
 
 **[Bitcoin tumbles below $70K, heavy losses in cryptocurrencies in last three weeks](https://news.ycombinator.com/item?id=46934165)**
 
-⬆️ 43 • 💬 61 • 6h ago • [bloomberg.com](https://www.bloomberg.com/news/articles/2026-02-05/bitcoin-drops-below-70-000-as-forced-deleveraging-accelerates)
+⬆️ 43 • 💬 61 • 7h ago • [bloomberg.com](https://www.bloomberg.com/news/articles/2026-02-05/bitcoin-drops-below-70-000-as-forced-deleveraging-accelerates)
 
 ---
 
@@ -276,7 +276,7 @@ Bitcoin outlook turns bearish as Pivotus’ Richard Farr targets BTC at $0 and M
 
 The crypto crash is coming — and the landing won’t be pretty
 
-⬆️ 5 • 💬 1 • 3h ago • [ft.com](https://www.ft.com/content/2b030926-2012-4446-b22d-e549e10e7086)
+⬆️ 5 • 💬 1 • 4h ago • [ft.com](https://www.ft.com/content/2b030926-2012-4446-b22d-e549e10e7086)
 
 ---
 
@@ -322,7 +322,7 @@ Nick Valdez checks the latest price action with Bitcoin. What if I said there ar
 
 📺 Discover Crypto
 
-👁️ 3K • 👍 174 • 💬 148 • ⏱️ 5:08 • 4h ago
+👁️ 3K • 👍 174 • 💬 148 • ⏱️ 5:08 • 5h ago
 
 ---
 
@@ -342,7 +342,7 @@ Bitcoin just posted its first ever $10000 daily drop, wiped out billions in liqu
 
 📺 Simply Bitcoin
 
-👁️ 27K • 👍 2K • 💬 237 • ⏱️ 16:01 • 20h ago
+👁️ 27K • 👍 2K • 💬 237 • ⏱️ 16:01 • 21h ago
 
 ---
 
@@ -392,7 +392,7 @@ Why did the world's largest asset class lose nearly $2 trillion in value so quic
 
 📺 Discover Crypto
 
-👁️ 5K • 👍 188 • 💬 117 • ⏱️ 7:32 • 22h ago
+👁️ 5K • 👍 188 • 💬 117 • ⏱️ 7:32 • 23h ago
 
 ---
 

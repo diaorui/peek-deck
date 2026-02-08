@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-02-08T20:29:59.967473+00:00'
+updated: '2026-02-08T20:55:30.339658+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
+- news
 - videos
 - social
-- news
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** February 08, 2026 at 20:29 UTC  
+**Last Updated:** February 08, 2026 at 20:55 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -50,7 +50,7 @@ Repository: https://github.com/qrafty-ai/teleop_xr Any suggestions are welcome! 
 
 Hi everyone 👋 I’ve just released CANgaroo v0.4.5, an actively maintained, open-source Linux-native CAN / CAN-FD analyzer built around SocketCAN. This release focuses on making live CAN data easier to understand visually during everyday debugging. 🆕 What’s new in v0.4.5 📊 Real-time signal visualization Time-series charts Scatter plots Text views Interactive gauges (useful for live diagnostics) https://i.redd.it/iobhy7jphaig1.gif 🎯 What CANgaroo is aimed at CANgaroo is focused on everyday CAN debugging and monitoring, with a workflow similar to BusMaster / PCAN-View, but: Open-source Linux-native SocketCAN-first Easy to test using vcan (no hardware required) Supported interfaces include SocketCAN, CANable (SLCAN), Candlelight, and CANblaster (UDP). GitHub repo (screenshots + demo GIF included): 👉 https://github.com/OpenAutoDiagLabs/CANgaroo Feedback, feature requests, and real-world use cases are very welcome — especially from automotive, robotics, and industrial users.
 
-4h ago
+5h ago
 
 ---
 
@@ -126,7 +126,7 @@ Futurism • 1d ago
 
 Chinese robot company DroidUP showed off Moya, a "warm" robot that features human-like skin and eerily animated moving facial features.
 
-Futurism • 8h ago
+Futurism • 9h ago
 
 ---
 
@@ -172,7 +172,7 @@ ASUS Pressroom • 3d ago
 
 The consolidation of SpaceX and xAI could lead to more adaptive use of robots, data, and AI in manufacturing, says Flexxbotics' CEO.
 
-The Robot Report • 6h ago
+The Robot Report • 7h ago
 
 ---
 
@@ -180,7 +180,7 @@ The Robot Report • 6h ago
 
 This high-flying stock is about more than just military drones.
 
-The Motley Fool • 59m ago
+The Motley Fool • 1h ago
 
 ---
 
