@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-02-08T10:56:27.320760+00:00'
+updated: '2026-02-08T11:27:05.599504+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
+- social
 - videos
 - news
-- social
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** February 08, 2026 at 10:56 UTC  
+**Last Updated:** February 08, 2026 at 11:27 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -36,7 +36,7 @@ Robotics research and industry news
 
 Pantograph website: https://pantograph.com/ Pantograph on 𝕏: http://x.com/pantographPBC
 
-22h ago
+23h ago
 
 ---
 
@@ -44,7 +44,7 @@ Pantograph website: https://pantograph.com/ Pantograph on 𝕏: http://x.com/pan
 
 Once again, Boston Dynamics just leaving everyone in the dust. Watch all the chinese copycats try to do the same thing. https://www.youtube.com/watch?v=UNorxwlZlFk
 
-12h ago
+13h ago
 
 ---
 
@@ -58,7 +58,7 @@ Once again, Boston Dynamics just leaving everyone in the dust. Watch all the chi
 
 The chest finally finished printing after 5 days of printing. I assembled it and so far it looks like this, i still have to build the right arm and mount them. I know it may not look that good but it’s my first time doing such a big project and i’m still learning.
 
-18h ago
+19h ago
 
 ---
 
@@ -74,7 +74,7 @@ How viable is a Robotics-as-a-Service (RaaS) startup today? I’m evaluating the
 
 There is the popular argument for why having a humanoid robot would be the best way to do things: "because the environment is human shaped/designed for humans." However, why are we assuming it would be necessarily harder to redesign the environment so a simpler non-humanoid robot can make use of it rather than recreating the entire human body and all its complexities in robot form while trying to make it suitable to many different varying environments? Also, this argument implies the environment is exclusively human shaped, meaning a machine with human shapes and function is the only way forward in order for it traverse and interact with the environment, but this is not true. For instance, a flat floor, which is designed for human use, also allows use by a non-humanoid robot with wheels.
 
-22h ago
+23h ago
 
 ---
 
@@ -126,7 +126,7 @@ BBC • 2d ago
 
 Union organizers are growing increasingly worried about a future in which AI-powered robots decimate blue collar labor.
 
-Futurism • 17h ago
+Futurism • 18h ago
 
 ---
 
@@ -142,7 +142,7 @@ Fortune • 2d ago
 
 Automakers including Tesla and Hyundai are investing heavily in humanoid robots as a long-term cost-saving strategy, even as questions remain over productivity, technical feasibility, and the risk of widespread job losses.
 
-Crude Oil Prices Today | OilPrice.com • 12h ago
+Crude Oil Prices Today | OilPrice.com • 13h ago
 
 ---
 
@@ -214,7 +214,7 @@ The Atlas Airborne Robot takes one final research run as Boston Dynamics pushes 
 
 📺 DPCcars
 
-👁️ 10K • 👍 132 • 💬 21 • ⏱️ 2:45 • 15h ago
+👁️ 10K • 👍 132 • 💬 21 • ⏱️ 2:45 • 16h ago
 
 ---
 
@@ -224,7 +224,7 @@ Pan Motor's Wuji Hand packs twenty fully actuated joints into a sub six hundred 
 
 📺 Deepen
 
-👁️ 5K • 👍 116 • 💬 5 • ⏱️ 0:19 • 8h ago
+👁️ 5K • 👍 116 • 💬 5 • ⏱️ 0:19 • 9h ago
 
 ---
 
@@ -234,7 +234,7 @@ Pan Motor's Wuji Hand packs twenty fully actuated joints into a sub six hundred 
 
 📺 Unitree Robotics
 
-👁️ 134K • 👍 1K • 💬 151 • ⏱️ 0:45 • 5d ago
+👁️ 134K • 👍 1K • 💬 151 • ⏱️ 0:45 • 6d ago
 
 ---
 
@@ -284,7 +284,7 @@ BABOT balancing robot kit https://www.instagram.com/babot_project/ For copyright
 
 📺 Unstoppable Gadgets
 
-👁️ 7K • 👍 212 • 💬 11 • ⏱️ 0:16 • 13h ago
+👁️ 7K • 👍 212 • 💬 11 • ⏱️ 0:16 • 14h ago
 
 ---
 

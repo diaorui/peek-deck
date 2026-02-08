@@ -3,14 +3,14 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-02-08T10:56:27.311496+00:00'
+updated: '2026-02-08T11:27:05.590384+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
+- social
 - videos
 - news
-- social
 - cryptocurrency
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** February 08, 2026 at 10:56 UTC  
+**Last Updated:** February 08, 2026 at 11:27 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -87,7 +87,7 @@ Rank #1
 
 Guys, do you realize how much you regret not buying about ten years ago? Today, the price of BTC has been cut in half, and you’re hesitating between “the market is collapsing” or “the market will bounce back.” Buy either way—personally, that’s what I’m doing. I’m not saying the price will go back up. Of course I hope it will, but I honestly have no idea, and absolutely no one can know. I’d rather tell myself that I bought for nothing and lost some money than tell myself that I missed this opportunity a second time—especially when this time, I’m aware it might actually be one. (traduced from french by chatgpt)
 
-11h ago
+12h ago
 
 ---
 
@@ -111,7 +111,7 @@ honestly, after holding since 2021, these dips barely even register anymore. i'm
 
 https://share.google/IVm4XmWSJ13M1cDwX
 
-2h ago
+3h ago
 
 ---
 
@@ -141,7 +141,7 @@ If you see blockchain activity whales are clearly accumulating taking BTC outsid
 
 **[Buy The dip](https://www.reddit.com/r/Bitcoin/comments/1qygmls/buy_the_dip/)**
 
-19h ago
+20h ago
 
 ---
 
@@ -176,7 +176,7 @@ CNBC • 1d ago
 
 The company quickly realised its mistake and managed to recover virtually all the missing tokens from customers.
 
-BBC • 20h ago
+BBC • 21h ago
 
 ---
 
@@ -350,7 +350,7 @@ My Free Trading Course https://www.rt1m.com/free My Discord Server (FREE) https:
 
 📺 Road To $1 Million USD
 
-👁️ 6K • 👍 244 • 💬 107 • ⏱️ 8:29 • 11h ago
+👁️ 6K • 👍 244 • 💬 107 • ⏱️ 8:29 • 12h ago
 
 ---
 

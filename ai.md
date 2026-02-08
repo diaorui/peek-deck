@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-02-08T10:56:27.303108+00:00'
+updated: '2026-02-08T11:27:05.582104+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- videos
-- news
 - social
 - repositories
+- videos
+- news
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** February 08, 2026 at 10:56 UTC  
+**Last Updated:** February 08, 2026 at 11:27 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -55,7 +55,7 @@ Countries have been building their own “sovereign AI” to reflect their cultu
 
 Every AI API provider gives you a snapshot of current usage. None of them show you trends over time, project when you will hit your limit, or let you compare across providers. I built onWatch to solve this. It runs in the background as a single Go binary, polls your configured providers every 60 seconds, stores everything locally in SQLite, and serves a web dashboard. What it shows you that providers do not: Usage history from 1 hour to 30 days Live countdowns to each quota reset Rate projections so you know if you will run out before the reset All providers side by side in one view Around 28 MB RAM, no dependencies, no telemetry, GPL-3.0. All data stays on your machine. https://onwatch.onllm.dev https://github.com/onllm-dev/onWatch
 
-46m ago
+1h ago
 
 ---
 
@@ -79,7 +79,7 @@ Let’s say the quiet part out loud.
 
 Hey fam, Been grinding on BrainAPI, this open-source thing that turns messy event logs into a smart knowledge graph for AI agents and rec systems. Think: feed it user clicks/buys/chats, it builds a precise map with cause-effect attribution (no BS hallucinations), then your AI retrieves fast AF for spot-on suggestions. Right now: Core APIs for saving/processing data -> works for CRM member matches/social networks (one user already using it for automated matches). Fast retrieval But ingestion? Slow as hell (10-30 min on small datasets) cuz of heavy LLM chains for precision. Trade-off for that "holy grail" accuracy, but yeah, it's a pain, optimizing soon. Repo: https://github.com/Lumen-Labs/brainapi2 What's the vibe? Bugs? Missing features? Use cases for ecom or agents? Roast it hard, I'm not fragile. If it slaps, star/fork. Building in public, hit me with thoughts!
 
-14h ago
+15h ago
 
 ---
 
@@ -87,7 +87,7 @@ Hey fam, Been grinding on BrainAPI, this open-source thing that turns messy even
 
 One of Kimi’s browser automation scripts uses a dark web library with crypto stealing malware: https://github.com/dnnyngyen/kimi-agent-internals/blob/main/source-code/browser_guard.py
 
-17h ago
+18h ago
 
 ---
 
@@ -123,7 +123,7 @@ Anthropic shipped Opus 4.6 and OpenAI shipped GPT-5.3-Codex on the same day, 27 
 
 The hundreds of billions of dollars being spent by tech companies on AI projects are diverting resources from other parts of the economy.
 
-The Washington Post • 16h ago
+The Washington Post • 17h ago
 
 ---
 
@@ -139,7 +139,7 @@ CNBC • 1d ago
 
 A massive spending surge is quietly reshaping the market’s risk profile. One overlooked corner of the market could benefit enormously. See more here.
 
-Seeking Alpha • 22h ago
+Seeking Alpha • 23h ago
 
 ---
 
@@ -147,13 +147,13 @@ Seeking Alpha • 22h ago
 
 "The things that make us human will become much more important instead of much less important."
 
-Fortune • 17h ago
+Fortune • 18h ago
 
 ---
 
 **[These A.I. Dreamers Don’t Fit the Stereotype](https://www.nytimes.com/2026/02/08/style/these-ai-dreamers-dont-fit-the-stereotype.html)**
 
-The New York Times • 55m ago
+The New York Times • 1h ago
 
 ---
 
@@ -169,7 +169,7 @@ BBC • 3h ago
 
 Plus, Bitcoin’s rout, the end of football and the prospects for the world’s first trillionaire.
 
-Bloomberg.com • 1h ago
+Bloomberg.com • 2h ago
 
 ---
 
@@ -177,7 +177,7 @@ Bloomberg.com • 1h ago
 
 AI isn't just hitting software valuations — it's changing how software companies operate.
 
-Axios • 15h ago
+Axios • 16h ago
 
 ---
 
@@ -185,7 +185,7 @@ Axios • 15h ago
 
 In a new interview, the journalist Yi-Ling Liu argues the AI arms race between the United States and China risks becoming a self-fulfilling prophecy.
 
-Politico • 19h ago
+Politico • 20h ago
 
 ---
 
@@ -193,7 +193,7 @@ Politico • 19h ago
 
 SpaceX’s acquisition of xAI creates business worth $1.25tn but whether premise behind deal will work is questioned
 
-The Guardian • 20h ago
+The Guardian • 21h ago
 
 ---
 
@@ -219,7 +219,7 @@ A new bill in the New York state legislature would require news organizations to
 
 The hundreds of billions of dollars being spent by tech companies on AI projects are diverting resources from other parts of the economy.
 
-⬆️ 347 • 💬 566 • 23h ago • [The Washington Post](https://www.washingtonpost.com/technology/2026/02/07/ai-spending-economy-shortages/)
+⬆️ 347 • 💬 566 • 1d ago • [The Washington Post](https://www.washingtonpost.com/technology/2026/02/07/ai-spending-economy-shortages/)
 
 ---
 
@@ -243,7 +243,7 @@ A minimal, secure Python interpreter written in Rust for use by AI - pydantic/mo
 
 Contribute to localgpt-app/localgpt development by creating an account on GitHub.
 
-⬆️ 229 • 💬 92 • 9h ago • [GitHub](https://github.com/localgpt-app/localgpt)
+⬆️ 229 • 💬 92 • 10h ago • [GitHub](https://github.com/localgpt-app/localgpt)
 
 ---
 
@@ -369,7 +369,7 @@ India's IT sector just got hit with its biggest shock in 4 months. The Nifty IT 
 
 📺 Mark Savant
 
-👁️ 12K • 👍 408 • 💬 188 • ⏱️ 18:25 • 13h ago
+👁️ 12K • 👍 408 • 💬 188 • ⏱️ 18:25 • 14h ago
 
 ---
 
@@ -443,7 +443,7 @@ MiniCPM-o 4.5 is a 9B parameter multimodal LLM excelling in vision, speech, and 
 
 `any-to-any` `9.4B`
 
-⬇️ 17,457 • ❤️ 599 • 18h ago
+⬇️ 17,457 • ❤️ 599 • 19h ago
 
 ---
 
@@ -713,7 +713,7 @@ OpenSource Claude Cowork. A desktop AI assistant that helps you with programming
 
 `TypeScript`
 
-⭐ 2.8k • 🔱 378 • 7h ago
+⭐ 2.8k • 🔱 378 • 8h ago
 
 ---
 

@@ -3,14 +3,14 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-02-08T10:56:27.317544+00:00'
+updated: '2026-02-08T11:27:05.596324+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
+- social
 - videos
 - news
-- social
 - cryptocurrency
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** February 08, 2026 at 10:56 UTC  
+**Last Updated:** February 08, 2026 at 11:27 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -72,7 +72,7 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-4h ago
+5h ago
 
 ---
 
@@ -92,7 +92,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 **[We're building an open-source archive of the earliest Ethereum smart contracts (2015-2017) — looking for contributors](https://www.reddit.com/r/ethereum/comments/1qymum3/were_building_an_opensource_archive_of_the/)**
 
-15h ago
+16h ago
 
 ---
 
@@ -168,7 +168,7 @@ Decrypt • 1d ago
 
 Ethereum isn't being recognized for the improvements it's making.
 
-The Motley Fool • 1h ago
+The Motley Fool • 2h ago
 
 ---
 
@@ -208,7 +208,7 @@ Nasdaq • 2d ago
 
 Ethereum’s recent sell-off has weighed heavily on sentiment after the price fell below the $2,000 level and pulled much of the altcoin market lower alongside it. The move has caused sweeping fear and caution among Ethereum traders. However, some analysts are of the notion that a bullish upside will…
 
-TradingView • 7h ago
+TradingView • 8h ago
 
 ---
 
@@ -216,7 +216,7 @@ TradingView • 7h ago
 
 Ethereum (ETH) had one of its sharpest historic declines over the past 10 days, shedding 40% of its value and briefly sliding below $2,000.
 
-FXStreet • 20h ago
+FXStreet • 21h ago
 
 ---
 
@@ -224,7 +224,7 @@ FXStreet • 20h ago
 
 Solana may be outperforming Ethereum across key metrics right now.
 
-AMBCrypto • 5h ago
+AMBCrypto • 6h ago
 
 ---
 
@@ -238,7 +238,7 @@ This video provides a professional Elliott Wave and technical analysis of Ethere
 
 📺 More Crypto Online
 
-👁️ 954 • 👍 123 • 💬 15 • ⏱️ 5:21 • 4h ago
+👁️ 954 • 👍 123 • 💬 15 • ⏱️ 5:21 • 5h ago
 
 ---
 
@@ -248,7 +248,7 @@ This video provides a professional Elliott Wave and technical analysis of Ethere
 
 📺 More Crypto Online
 
-👁️ 3K • 👍 201 • 💬 10 • ⏱️ 4:56 • 14h ago
+👁️ 3K • 👍 201 • 💬 10 • ⏱️ 4:56 • 15h ago
 
 ---
 
