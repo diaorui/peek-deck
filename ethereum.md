@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-02-08T15:31:17.620063+00:00'
+updated: '2026-02-08T16:33:09.017764+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
 - cryptocurrency
-- news
-- videos
 - social
+- videos
+- news
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** February 08, 2026 at 15:31 UTC  
+**Last Updated:** February 08, 2026 at 16:33 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -36,17 +36,17 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Price
 
-### $2,125.96
+### $2,105.39
 
 ---
 
 ## Ethereum Chart
 
-**24h:** +2.6%  
-**7d:** -10.2%  
-**30d:** -31.8%  
-**90d:** -38.3%  
-**1y:** -19.9%  
+**24h:** +2.3%  
+**7d:** -9.9%  
+**30d:** -31.6%  
+**90d:** -38.1%  
+**1y:** -19.7%  
 
 ---
 
@@ -72,13 +72,13 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-9h ago
+10h ago
 
 ---
 
 **[I built the first fully on-chain, 100% decentralized, ETH-in ETH-out (no new token), skill based competitive gaming platform](https://www.reddit.com/r/ethereum/comments/1qz1wbo/i_built_the_first_fully_onchain_100_decentralized/)**
 
-8h ago
+9h ago
 
 ---
 
@@ -92,7 +92,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 **[We're building an open-source archive of the earliest Ethereum smart contracts (2015-2017) — looking for contributors](https://www.reddit.com/r/ethereum/comments/1qymum3/were_building_an_opensource_archive_of_the/)**
 
-20h ago
+21h ago
 
 ---
 
@@ -164,17 +164,17 @@ Nasdaq • 2d ago
 
 ---
 
-**[Ethereum Falls 10% In Bearish Trade](https://www.investing.com/news/cryptocurrency-news/ethereum-falls-10-in-bearish-trade-4488338)**
-
-Investing.com • 2d ago
-
----
-
 **[Ethereum Price Is Not Going To Keep Falling Forever, Analyst Says](https://www.tradingview.com/news/newsbtc:6ebc821a3094b:0-ethereum-price-is-not-going-to-keep-falling-forever-analyst-says/)**
 
 Ethereum’s recent sell-off has weighed heavily on sentiment after the price fell below the $2,000 level and pulled much of the altcoin market lower alongside it. The move has caused sweeping fear and caution among Ethereum traders. However, some analysts are of the notion that a bullish upside will…
 
-TradingView • 12h ago
+TradingView • 13h ago
+
+---
+
+**[Ethereum Falls 10% In Bearish Trade](https://www.investing.com/news/cryptocurrency-news/ethereum-falls-10-in-bearish-trade-4488338)**
+
+Investing.com • 3d ago
 
 ---
 
@@ -190,7 +190,7 @@ The Block • 1d ago
 
 Prices are climbing back up after the biggest crypto crash since 2022.
 
-Mashable • 1d ago
+Mashable • 2d ago
 
 ---
 
@@ -222,7 +222,7 @@ Yahoo Finance • 3d ago
 
 Solana may be outperforming Ethereum across key metrics right now.
 
-AMBCrypto • 10h ago
+AMBCrypto • 11h ago
 
 ---
 
@@ -236,7 +236,7 @@ ETHEREUM ETH PRICE PREDICTION 2026 Join the Premium Signal Group for trade setup
 
 📺 Cilinix Crypto
 
-👁️ 382 • 👍 17 • 💬 4 • ⏱️ 4:21 • 5h ago
+👁️ 382 • 👍 17 • 💬 4 • ⏱️ 4:21 • 6h ago
 
 ---
 
@@ -256,7 +256,7 @@ This video provides a professional Elliott Wave and technical analysis of Ethere
 
 📺 More Crypto Online
 
-👁️ 3K • 👍 199 • 💬 12 • ⏱️ 5:21 • 9h ago
+👁️ 3K • 👍 199 • 💬 12 • ⏱️ 5:21 • 10h ago
 
 ---
 
@@ -266,7 +266,7 @@ BITCOIN & ALTCOINS: New Targets Confirmed (Prepare Now)!!! - Bitcoin News Today,
 
 📺 Crypto World
 
-👁️ 12K • 👍 421 • 💬 222 • ⏱️ 17:07 • 17h ago
+👁️ 12K • 👍 421 • 💬 222 • ⏱️ 17:07 • 18h ago
 
 ---
 
@@ -316,7 +316,7 @@ This video provides a professional Elliott Wave and technical analysis of Ethere
 
 📺 More Crypto Online
 
-👁️ 4K • 👍 204 • 💬 11 • ⏱️ 4:56 • 19h ago
+👁️ 4K • 👍 204 • 💬 11 • ⏱️ 4:56 • 20h ago
 
 ---
 

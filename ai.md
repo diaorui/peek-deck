@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-02-08T15:31:17.605832+00:00'
+updated: '2026-02-08T16:33:09.003590+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- news
-- videos
-- social
 - repositories
+- social
+- videos
+- news
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** February 08, 2026 at 15:31 UTC  
+**Last Updated:** February 08, 2026 at 16:33 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -41,7 +41,7 @@ AI news, discussions, and developments
 
 Just wanted to say thanks for the thoughtful discussion and feedback on my previous post. I did not expect that level of interest, and I appreciate how constructive most of the comments were. Based on a few requests, I put together a short demonstration showing the system applied to a deliberately difficult street-level image. No obvious landmarks, no readable signage, no metadata. The location was verified in under two minutes. I am still undecided on the long-term direction of this work. That said, if there are people here interested in collaborating from a research, defensive, or ethical perspective, I am open to conversations. That could mean validation, red-teaming anything else. Thanks again to the community for the earlier discussion. Happy to answer high-level questions and hear thoughts on where tools like this should and should not go.
 
-4h ago
+5h ago
 
 ---
 
@@ -57,13 +57,13 @@ Countries have been building their own “sovereign AI” to reflect their cultu
 
 Every AI API provider gives you a snapshot of current usage. None of them show you trends over time, project when you will hit your limit, or let you compare across providers. I built onWatch to solve this. It runs in the background as a single Go binary, polls your configured providers every 60 seconds, stores everything locally in SQLite, and serves a web dashboard. What it shows you that providers do not: Usage history from 1 hour to 30 days Live countdowns to each quota reset Rate projections so you know if you will run out before the reset All providers side by side in one view Around 28 MB RAM, no dependencies, no telemetry, GPL-3.0. All data stays on your machine. https://onwatch.onllm.dev https://github.com/onllm-dev/onWatch
 
-5h ago
+6h ago
 
 ---
 
 **[Nvidia CEO Says AI Capital Spending Is Appropriate, Sustainable](https://www.reddit.com/r/artificial/comments/1qyx57y/nvidia_ceo_says_ai_capital_spending_is/)**
 
-🔗 [bloomberg.com](https://www.bloomberg.com/news/articles/2026-02-06/nvidia-ceo-says-ai-capital-spending-is-appropriate-sustainable?srnd=phx-technology&leadSource=reddit_wall) • 12h ago
+🔗 [bloomberg.com](https://www.bloomberg.com/news/articles/2026-02-06/nvidia-ceo-says-ai-capital-spending-is-appropriate-sustainable?srnd=phx-technology&leadSource=reddit_wall) • 13h ago
 
 ---
 
@@ -71,7 +71,7 @@ Every AI API provider gives you a snapshot of current usage. None of them show y
 
 Let’s say the quiet part out loud.
 
-🔗 [Medium](https://medium.com/@behindthebuild/big-tech-ai-isnt-taking-your-job-your-refusal-to-use-it-might-966f8219f962) • 22h ago
+🔗 [Medium](https://medium.com/@behindthebuild/big-tech-ai-isnt-taking-your-job-your-refusal-to-use-it-might-966f8219f962) • 23h ago
 
 ---
 
@@ -87,15 +87,7 @@ I have been working solo on an AI-based project called Netryx. At a high level, 
 
 Hey fam, Been grinding on BrainAPI, this open-source thing that turns messy event logs into a smart knowledge graph for AI agents and rec systems. Think: feed it user clicks/buys/chats, it builds a precise map with cause-effect attribution (no BS hallucinations), then your AI retrieves fast AF for spot-on suggestions. Right now: Core APIs for saving/processing data -> works for CRM member matches/social networks (one user already using it for automated matches). Fast retrieval But ingestion? Slow as hell (10-30 min on small datasets) cuz of heavy LLM chains for precision. Trade-off for that "holy grail" accuracy, but yeah, it's a pain, optimizing soon. Repo: https://github.com/Lumen-Labs/brainapi2 What's the vibe? Bugs? Missing features? Use cases for ecom or agents? Roast it hard, I'm not fragile. If it slaps, star/fork. Building in public, hit me with thoughts!
 
-19h ago
-
----
-
-**[Why hasn't generative AI completely replaced professional headshot photography yet?](https://www.reddit.com/r/artificial/comments/1qzbkgf/why_hasnt_generative_ai_completely_replaced/)**
-
-Professional headshot photographers still charge $300-600 per session even though generative AI can create professional-looking headshots for under $50 in minutes. The technology has clearly advanced to where most people can't reliably distinguish AI-generated headshots from real photos anymore. I've seen examples from tools like Looktara where the quality is indistinguishable from traditional photography. So why hasn't this industry been disrupted yet? Is it just lack of awareness that these tools exist, or are there quality/authenticity concerns that keep people paying 10x more for traditional photographers ? From a generative AI perspective, what's preventing complete market displacement here? Technical limitations, social acceptance, or something else entirely?
-
-11m ago
+20h ago
 
 ---
 
@@ -103,7 +95,7 @@ Professional headshot photographers still charge $300-600 per session even thoug
 
 One of Kimi’s browser automation scripts uses a dark web library with crypto stealing malware: https://github.com/dnnyngyen/kimi-agent-internals/blob/main/source-code/browser_guard.py
 
-22h ago
+23h ago
 
 ---
 
@@ -115,15 +107,67 @@ Goldman Sachs is building AI agents with Anthropic’s Claude to automate trade 
 
 ---
 
+**[Why hasn't generative AI completely replaced professional headshot photography yet?](https://www.reddit.com/r/artificial/comments/1qzbkgf/why_hasnt_generative_ai_completely_replaced/)**
+
+Professional headshot photographers still charge $300-600 per session even though generative AI can create professional-looking headshots for under $50 in minutes. The technology has clearly advanced to where most people can't reliably distinguish AI-generated headshots from real photos anymore. I've seen examples from tools like Looktara where the quality is indistinguishable from traditional photography. So why hasn't this industry been disrupted yet? Is it just lack of awareness that these tools exist, or are there quality/authenticity concerns that keep people paying 10x more for traditional photographers ? From a generative AI perspective, what's preventing complete market displacement here? Technical limitations, social acceptance, or something else entirely?
+
+1h ago
+
+---
+
 ---
 
 ## Google News: "ai"
+
+**[The New Fabio Is Claude](https://www.nytimes.com/2026/02/08/business/ai-claude-romance-books.html)**
+
+The New York Times • 6h ago
+
+---
 
 **[The AI boom is so huge it’s causing shortages everywhere else](https://www.washingtonpost.com/technology/2026/02/07/ai-spending-economy-shortages/)**
 
 The hundreds of billions of dollars being spent by tech companies on AI projects are diverting resources from other parts of the economy.
 
-The Washington Post • 21h ago
+The Washington Post • 22h ago
+
+---
+
+**[US companies accused of ‘AI washing’ in citing artificial intelligence for job losses](https://www.theguardian.com/us-news/2026/feb/08/ai-washing-job-losses-artificial-intelligence)**
+
+While AI is having an impact on the workplace, experts suggest tariffs, overhiring during the pandemic and simply maximising profits may be bigger factors
+
+The Guardian • 30m ago
+
+---
+
+**[When Your AI Hobby Becomes a Supermeme](https://www.wsj.com/tech/ai/when-your-ai-hobby-becomes-a-supermeme-96c93df3?gaa_at=eafs&gaa_n=AWEtsqcowFvBFnTgcl-fNRV8u8pgvhY6qTj5usbeENfB34agaontbdTVrH1h&gaa_ts=6988be2a&gaa_sig=94fKzKvuXmGZMggYw0BxcRiQ5SIF8fzOA4sERBdEHM6uvDQPO6tyOGEm5DhtT0FG3f4Iiqauw_zTX3nfQ2YJCQ%3D%3D)**
+
+The Wall Street Journal • 47m ago
+
+---
+
+**[Can these Super Bowl ads make Americans love something they don’t like?](https://www.washingtonpost.com/technology/2026/02/08/super-bowl-ads-ai/)**
+
+We asked experts to review four commercials trying to win over the AI-skeptical American public.
+
+The Washington Post • 31m ago
+
+---
+
+**[Battle of the chatbots: Anthropic and OpenAI go head-to-head over ads in their AI products | AI (artificial intelligence)](https://www.theguardian.com/technology/2026/feb/07/ai-chatbots-anthropic-openai-claude-chatgpt)**
+
+New Anthropic campaign suggests other AI platforms will incorporate targeted ads in their chatbot conversations
+
+The Guardian • 1d ago
+
+---
+
+**[The Biggest Super Bowl Rivalry Is Between Two Centibillion-Dollar AI Companies](https://www.vanityfair.com/news/story/openai-anthropic-super-bowl-commercial)**
+
+The public beef between OpenAI and Anthropic is shaping up to be the biggest distraction from the Big Game since Kendrick Lamar ended Drake.
+
+Vanity Fair • 18m ago
 
 ---
 
@@ -131,37 +175,7 @@ The Washington Post • 21h ago
 
 AI isn't just hitting software valuations — it's changing how software companies operate.
 
-Axios • 14h ago
-
----
-
-**[ChatGPT AI picks Super Bowl 60 winner, MVP for Seahawks vs. Patriots](https://www.usatoday.com/story/sports/nfl/super-bowl/2026/02/08/super-bowl-predictions-picks-chatgpt-ai/88536707007/)**
-
-Most NFL analysts are picking the Seahawks to beat the Patriots in Super Bowl 60. Will ChatGPT agree? Here are AI chatbot's Super Bowl predictions.
-
-USA Today • 4h ago
-
----
-
-**[The Super Bowl was made for TV and instant replay was made for visual AI. Here’s how it could be better and what it would look like](https://fortune.com/2026/02/08/super-bowl-made-for-tv-instant-replay-visual-ai/)**
-
-Visual AI can make the big game — and every Sunday — better.
-
-Fortune • 51m ago
-
----
-
-**[Super Bowl 2026: Inside the NFL's AI playbook](https://qz.com/super-bowl-ai-athlete-health-billion-dollar-business)**
-
-As the Super Bowl kicks off, the NFL’s AI-powered digital athlete program is quietly saving teams hundreds of millions by helping keep players on the field
-
-qz.com • 4h ago
-
----
-
-**[Opinion | It’s the A.I. Economy, Stupid](https://www.nytimes.com/2026/02/08/opinion/ai-democrats-jobs-economy.html)**
-
-The New York Times • 3h ago
+Axios • 15h ago
 
 ---
 
@@ -173,27 +187,11 @@ Politico • 1d ago
 
 ---
 
-**[Moltbook was peak AI theater](https://www.technologyreview.com/2026/02/06/1132448/moltbook-was-peak-ai-theater/)**
+**[Anthropic cofounder says studying the humanities will be 'more important than ever' in the age of AI](https://fortune.com/2026/02/07/anthropic-cofounder-daniela-amodei-humanities-majors-soft-skills-hiring-ai-stem/)**
 
-The viral social network for bots reveals as much about our own current mania for AI as it does about the future of agents.
+"The things that make us human will become much more important instead of much less important."
 
-MIT Technology Review • 1d ago
-
----
-
-**[Can these Super Bowl ads make Americans love something they don’t like?](https://www.washingtonpost.com/technology/2026/02/08/super-bowl-ads-ai/)**
-
-We asked experts to review four commercials trying to win over the AI-skeptical American public.
-
-The Washington Post • 1h ago
-
----
-
-**[Battle of the chatbots: Anthropic and OpenAI go head-to-head over ads in their AI products | AI (artificial intelligence)](https://www.theguardian.com/technology/2026/feb/07/ai-chatbots-anthropic-openai-claude-chatgpt)**
-
-New Anthropic campaign suggests other AI platforms will incorporate targeted ads in their chatbot conversations
-
-The Guardian • 23h ago
+Fortune • 23h ago
 
 ---
 
@@ -219,7 +217,7 @@ A new bill in the New York state legislature would require news organizations to
 
 The hundreds of billions of dollars being spent by tech companies on AI projects are diverting resources from other parts of the economy.
 
-⬆️ 372 • 💬 636 • 1d ago • [The Washington Post](https://www.washingtonpost.com/technology/2026/02/07/ai-spending-economy-shortages/)
+⬆️ 374 • 💬 647 • 1d ago • [The Washington Post](https://www.washingtonpost.com/technology/2026/02/07/ai-spending-economy-shortages/)
 
 ---
 
@@ -227,7 +225,7 @@ The hundreds of billions of dollars being spent by tech companies on AI projects
 
 AI is rarely optional anymore, but how can you still be proud of your craft? Discover the workflow to effectively write high-quality, robust code using AI tools.
 
-⬆️ 343 • 💬 299 • 1d ago • [heidenstedt.org](https://heidenstedt.org/posts/2026/how-to-effectively-write-quality-code-with-ai/)
+⬆️ 343 • 💬 301 • 1d ago • [heidenstedt.org](https://heidenstedt.org/posts/2026/how-to-effectively-write-quality-code-with-ai/)
 
 ---
 
@@ -235,7 +233,7 @@ AI is rarely optional anymore, but how can you still be proud of your craft? Dis
 
 A minimal, secure Python interpreter written in Rust for use by AI - pydantic/monty
 
-⬆️ 316 • 💬 161 • 1d ago • [GitHub](https://github.com/pydantic/monty)
+⬆️ 316 • 💬 163 • 1d ago • [GitHub](https://github.com/pydantic/monty)
 
 ---
 
@@ -243,7 +241,7 @@ A minimal, secure Python interpreter written in Rust for use by AI - pydantic/mo
 
 Contribute to localgpt-app/localgpt development by creating an account on GitHub.
 
-⬆️ 278 • 💬 134 • 14h ago • [GitHub](https://github.com/localgpt-app/localgpt)
+⬆️ 284 • 💬 139 • 15h ago • [GitHub](https://github.com/localgpt-app/localgpt)
 
 ---
 
@@ -251,7 +249,7 @@ Contribute to localgpt-app/localgpt development by creating an account on GitHub
 
 You're using AI to be more productive. So why are you more exhausted than ever? The paradox every engineer needs to confront.
 
-⬆️ 133 • 💬 107 • 1h ago • [Siddhant Khare](https://siddhantkhare.com/writing/ai-fatigue-is-real)
+⬆️ 256 • 💬 197 • 2h ago • [Siddhant Khare](https://siddhantkhare.com/writing/ai-fatigue-is-real)
 
 ---
 
@@ -263,19 +261,19 @@ Women in rural communities describe trauma of moderating violent and pornographi
 
 ---
 
-**[Show HN: Smooth CLI – Token-efficient browser for AI agents](https://news.ycombinator.com/item?id=46901233)**
-
-Give your AI agent a browser that actually works
-
-⬆️ 102 • 💬 71 • 2d ago • [docs.smooth.sh](https://docs.smooth.sh/cli/overview)
-
----
-
 **[Matchlock – Secures AI agent workloads with a Linux-based sandbox](https://news.ycombinator.com/item?id=46932343)**
 
 Matchlock secures AI agent workloads with a Linux-based sandbox. - jingkaihe/matchlock
 
-⬆️ 93 • 💬 38 • 7h ago • [GitHub](https://github.com/jingkaihe/matchlock)
+⬆️ 99 • 💬 40 • 8h ago • [GitHub](https://github.com/jingkaihe/matchlock)
+
+---
+
+**[Amazon plunge continues $1T wipeout as AI bubble fears ignite sell-off](https://news.ycombinator.com/item?id=46913302)**
+
+Microsoft, Nvidia, Oracle, Meta, Amazon and Alphabet all saw their shares fall in the week up to the market close on Thursday.
+
+⬆️ 88 • 💬 89 • 2d ago • [CNBC](https://www.cnbc.com/2026/02/06/ai-sell-off-stocks-amazon-oracle.html)
 
 ---
 
@@ -289,7 +287,7 @@ Become a member! ✓ https://www.youtube.com/channel/UCahJ9IsvXnaQiuNyWQSkrkw/jo
 
 📺 Chris Norlund
 
-👁️ 108K • 👍 7K • 💬 1K • ⏱️ 17:42 • 16h ago
+👁️ 108K • 👍 7K • 💬 1K • ⏱️ 17:42 • 17h ago
 
 ---
 
@@ -299,7 +297,7 @@ Can you spot AI videos easily? #tech #ai #surfshark.
 
 📺 Surfshark Academy
 
-👁️ 1K • 👍 234 • 💬 20 • ⏱️ 1:17 • 29m ago
+👁️ 1K • 👍 234 • 💬 20 • ⏱️ 1:17 • 1h ago
 
 ---
 
@@ -369,7 +367,7 @@ STOP This Dog's Story Is Real #DogStory #EmotionalStory #Humanity #AnimalLove #a
 
 📺 Carmen Ai
 
-👁️ 13K • 👍 222 • 💬 5 • ⏱️ 0:38 • 2h ago
+👁️ 13K • 👍 222 • 💬 5 • ⏱️ 0:38 • 3h ago
 
 ---
 
@@ -407,7 +405,7 @@ Qwen3-Coder-Next is a highly efficient 3B activated parameter LLM (80B total) op
 
 `text-generation` `79.7B`
 
-⬇️ 76,632 • ❤️ 605 • 4d ago
+⬇️ 76,632 • ❤️ 605 • 5d ago
 
 ---
 
@@ -443,7 +441,7 @@ MiniCPM-o 4.5 is a 9B parameter multimodal LLM excelling in vision, speech, and 
 
 `any-to-any` `9.4B`
 
-⬇️ 17,457 • ❤️ 608 • 23h ago
+⬇️ 17,457 • ❤️ 608 • 1d ago
 
 ---
 
@@ -657,7 +655,7 @@ AI → JSON → UI
 
 `TypeScript`
 
-⭐ 10.1k • 🔱 538 • 14h ago
+⭐ 10.1k • 🔱 538 • 15h ago
 
 ---
 
@@ -667,7 +665,7 @@ LLM驱动的 A/H/美股智能分析器，多数据源行情 + 实时新闻 + Gem
 
 `Python` `agent` `ai` `aigc` `gemini` `llm`
 
-⭐ 9.9k • 🔱 10.4k • 5h ago
+⭐ 9.9k • 🔱 10.4k • 6h ago
 
 ---
 
@@ -677,7 +675,7 @@ The Ultimate Collection of 700+ Agentic Skills for Claude Code/Antigravity/Curso
 
 `Python` `agentic-skills` `ai-agents` `antigravity` `autonomous-coding` `claude-code`
 
-⭐ 7.9k • 🔱 1.6k • 5h ago
+⭐ 7.9k • 🔱 1.6k • 6h ago
 
 ---
 
@@ -713,7 +711,7 @@ OpenSource Claude Cowork. A desktop AI assistant that helps you with programming
 
 `TypeScript`
 
-⭐ 2.8k • 🔱 378 • 12h ago
+⭐ 2.8k • 🔱 378 • 13h ago
 
 ---
 

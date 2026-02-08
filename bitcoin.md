@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-02-08T15:31:17.614044+00:00'
+updated: '2026-02-08T16:33:09.011858+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
 - cryptocurrency
-- news
-- videos
 - social
+- videos
+- news
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** February 08, 2026 at 15:31 UTC  
+**Last Updated:** February 08, 2026 at 16:33 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,17 +38,17 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $71,238.01
+### $70,948.98
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** +2.5%  
-**7d:** -10.1%  
-**30d:** -21.7%  
-**90d:** -31.4%  
-**1y:** -26.6%  
+**24h:** +2.9%  
+**7d:** -9.7%  
+**30d:** -21.3%  
+**90d:** -31.1%  
+**1y:** -26.2%  
 
 ---
 
@@ -77,17 +77,9 @@ Rank #1
 
 ## Reddit: r/Bitcoin
 
-**[Bitcoin whales and ETFs are bailing out of the market; UBS warns: ‘Crypto is not an asset’ | Fortune](https://www.reddit.com/r/Bitcoin/comments/1qz3lld/bitcoin_whales_and_etfs_are_bailing_out_of_the/)**
-
-https://share.google/IVm4XmWSJ13M1cDwX
-
-7h ago
-
----
-
 **[Comforting my friend who bought BTC @ 120k](https://www.reddit.com/r/Bitcoin/comments/1qyt31t/comforting_my_friend_who_bought_btc_120k/)**
 
-15h ago
+16h ago
 
 ---
 
@@ -95,47 +87,7 @@ https://share.google/IVm4XmWSJ13M1cDwX
 
 The Fed's money printer never stops. Balance sheet still bloated at ~$6.5T, quietly debasing your dollars while inflation eats savings. Bitcoin: fixed 21 million cap. No printing, no dilution, no central control. In a world of infinite fiat, Bitcoin is scarce, hard money - and the ultimate opt-out. Stack sats. The longer they print, the stronger the case for Bitcoin.
 
-4h ago
-
----
-
-**[anyone else just kinda... numb to the dips at this point?](https://www.reddit.com/r/Bitcoin/comments/1qz1y2w/anyone_else_just_kinda_numb_to_the_dips_at_this/)**
-
-honestly, after holding since 2021, these dips barely even register anymore. i'm not even checking the charts as often as i used to. is that just me getting old and boring, or are other long-term holders feeling the same?
-
-8h ago
-
----
-
-**[HODLing BTC](https://www.reddit.com/r/Bitcoin/comments/1qyk286/hodling_btc/)**
-
-HODL strong through the storms; the future rewards the patient. 🚀 🙌
-
-21h ago
-
----
-
-**[Buy anyways](https://www.reddit.com/r/Bitcoin/comments/1qysc8s/buy_anyways/)**
-
-Guys, do you realize how much you regret not buying about ten years ago? Today, the price of BTC has been cut in half, and you’re hesitating between “the market is collapsing” or “the market will bounce back.” Buy either way—personally, that’s what I’m doing. I’m not saying the price will go back up. Of course I hope it will, but I honestly have no idea, and absolutely no one can know. I’d rather tell myself that I bought for nothing and lost some money than tell myself that I missed this opportunity a second time—especially when this time, I’m aware it might actually be one. (traduced from french by chatgpt)
-
-16h ago
-
----
-
-**[Unknown deposits to Tezor hardware wallet](https://www.reddit.com/r/Bitcoin/comments/1qz0zty/unknown_deposits_to_tezor_hardware_wallet/)**
-
-Over the past year I have received 4 unknown deposits into my Trezor hardware wallet. Each deposit was in the amount of .0000033 bitcoin. Three were in January 2025 and one so far today. Any ideas what these are and should I be worried about my Trezor. It is a Trezor safe 3. Thanks for any help.
-
-9h ago
-
----
-
-**[Borrowed against my 401k for BTC](https://www.reddit.com/r/Bitcoin/comments/1qyuld4/borrowed_against_my_401k_for_btc/)**
-
-Not financial advice weekly RSI below 30 and clear support approaching around the $50,000 level , I am borrowing against my 401(k) for the next 52 weeks to allow some capital upfront to take advantage of these prices. 6.75% interest paid back into my 401k after the 52 weeks which is a win-win for me. (Im my own employer) Small loan about 25-30% of my 401k - will be paid off by February 2027. Allowing me to capture the arbitrage gain of interest & a low risk capital loan. See you in five years.
-
-14h ago
+5h ago
 
 ---
 
@@ -143,13 +95,61 @@ Not financial advice weekly RSI below 30 and clear support approaching around th
 
 Guys, if you've been in this for 7-10 years, you see the same nonsense being spouted every single damn crash. BUY AND HODLATE.
 
-55m ago
+1h ago
+
+---
+
+**[anyone else just kinda... numb to the dips at this point?](https://www.reddit.com/r/Bitcoin/comments/1qz1y2w/anyone_else_just_kinda_numb_to_the_dips_at_this/)**
+
+honestly, after holding since 2021, these dips barely even register anymore. i'm not even checking the charts as often as i used to. is that just me getting old and boring, or are other long-term holders feeling the same?
+
+9h ago
+
+---
+
+**[HODLing BTC](https://www.reddit.com/r/Bitcoin/comments/1qyk286/hodling_btc/)**
+
+HODL strong through the storms; the future rewards the patient. 🚀 🙌
+
+22h ago
+
+---
+
+**[Unknown deposits to Tezor hardware wallet](https://www.reddit.com/r/Bitcoin/comments/1qz0zty/unknown_deposits_to_tezor_hardware_wallet/)**
+
+Over the past year I have received 4 unknown deposits into my Trezor hardware wallet. Each deposit was in the amount of .0000033 bitcoin. Three were in January 2025 and one so far today. Any ideas what these are and should I be worried about my Trezor. It is a Trezor safe 3. Thanks for any help.
+
+10h ago
+
+---
+
+**[Buy anyways](https://www.reddit.com/r/Bitcoin/comments/1qysc8s/buy_anyways/)**
+
+Guys, do you realize how much you regret not buying about ten years ago? Today, the price of BTC has been cut in half, and you’re hesitating between “the market is collapsing” or “the market will bounce back.” Buy either way—personally, that’s what I’m doing. I’m not saying the price will go back up. Of course I hope it will, but I honestly have no idea, and absolutely no one can know. I’d rather tell myself that I bought for nothing and lost some money than tell myself that I missed this opportunity a second time—especially when this time, I’m aware it might actually be one. (traduced from french by chatgpt)
+
+17h ago
+
+---
+
+**[Borrowed against my 401k for BTC](https://www.reddit.com/r/Bitcoin/comments/1qyuld4/borrowed_against_my_401k_for_btc/)**
+
+Not financial advice weekly RSI below 30 and clear support approaching around the $50,000 level , I am borrowing against my 401(k) for the next 52 weeks to allow some capital upfront to take advantage of these prices. 6.75% interest paid back into my 401k after the 52 weeks which is a win-win for me. (Im my own employer) Small loan about 25-30% of my 401k - will be paid off by February 2027. Allowing me to capture the arbitrage gain of interest & a low risk capital loan. See you in five years.
+
+15h ago
+
+---
+
+**[“Bitcoin Is Dead” - The #1 Database of Notable Bitcoin Skeptics](https://www.reddit.com/r/Bitcoin/comments/1qzcn36/bitcoin_is_dead_the_1_database_of_notable_bitcoin/)**
+
+'Bitcoin Is Dead' is the best database of notable Bitcoin obituaries and skeptics on the Internet. View names, quotes, publications, source links, and more!
+
+🔗 [bitbo.io](https://bitbo.io/dead/) • 32m ago
 
 ---
 
 **[The uncomfortable truth about following crypto experts](https://www.reddit.com/r/Bitcoin/comments/1qzb0ml/the_uncomfortable_truth_about_following_crypto/)**
 
-🔗 [X (formerly Twitter)](https://x.com/rustyshrink/status/2020307703353012477?s%3D12) • 33m ago
+🔗 [X (formerly Twitter)](https://x.com/rustyshrink/status/2020307703353012477?s%3D12) • 1h ago
 
 ---
 
@@ -157,36 +157,33 @@ Guys, if you've been in this for 7-10 years, you see the same nonsense being spo
 
 ## Google News: "bitcoin"
 
-**[No, but seriously: What’s going on with bitcoin?](https://www.cnn.com/2026/02/05/investing/bitcoin-price)**
+**[Bitcoin Price To $0? Here's Why The Zero Dollar Bitcoin Narrative Is Growing — And Why It May Teach Us Something](https://finance.yahoo.com/news/bitcoin-price-0-heres-why-100215567.html)**
 
-Bitcoin is acting weird. The world’s most famous cryptocurrency has tumbled 44% from its October peak, falling below $70,000 Thursday for the first time in 15 months.
+The “Bitcoin to $0” narrative is surging again. Market sentiment has flipped decisively bearish. Bullish credibility is weakening. “Every time I ask a Bitcoin true ...
 
-cnn.com • 3d ago
-
----
-
-**[South Korean crypto firm accidentally sends $44 billion in bitcoin to
-users](https://www.cnbc.com/2026/02/07/south-korean-crypto-firm-accidentally-sends-out-44-billion-in-bitcoin.html)**
-
-The move triggered a sharp selloff on the Bithumb exchange. The company apologized for the mistake.
-
-CNBC • 1d ago
+Yahoo Finance • 6h ago
 
 ---
 
-**[S Korean crypto firm accidentally pays out $40bn in bitcoin](https://www.bbc.com/news/articles/cz6y62nzjxxo)**
+**[Bitcoin has performed worse than a bet tracking the chance of Jesus Christ returning this year](https://www.coindesk.com/markets/2026/02/08/odds-of-jesus-christ-appearing-in-2026-double-beating-return-on-bitcoin)**
 
-The company quickly realised its mistake and managed to recover virtually all the missing tokens from customers.
+The Polymarket bet is a reminder that the weirdest corners of crypto are sometimes the only ones going up.
 
-BBC • 1d ago
+CoinDesk • 58m ago
 
 ---
 
-**[Accidental 2,000 BTC Airdrop Crashes Bitcoin Price 10% on Bithumb](https://finance.yahoo.com/news/accidental-2-000-btc-airdrop-140730291.html)**
+**[Bithumb Bitcoin Blunder Sends $44 Billion to Users, Rattles Crypto Markets](https://bitcoinmagazine.com/news/bithumb-bitcoin-blunder-sends-44-billion)**
 
-Bitcoin plunged 10% on Bithumb after an accidental 2,000 BTC airdrop triggered panic selling and liquidity shock.
+Bithumb triggered a major market shock after an employee mistakenly sent billions of dollars worth of bitcoin to users instead of small cash rewards.
 
-Yahoo Finance • 2d ago
+Bitcoin Magazine • 2h ago
+
+---
+
+**[‘Panic Mode’—$10,000 Bitcoin Price Crash Warning Suddenly Triggers Huge BlackRock Earthquake](https://www.forbes.com/sites/digital-assets/2026/02/07/panic-mode-10000-bitcoin-price-crash-warning-suddenly-triggers-huge-blackrock-earthquake/)**
+
+Forbes • 1d ago
 
 ---
 
@@ -202,21 +199,15 @@ Yahoo Finance • 1d ago
 
 Arthur Hayes says institutional “hedging” tied to structured products linked to BlackRock’s IBIT could be intensifying Bitcoin’s selloff.
 
-Yahoo Finance • 1h ago
+Yahoo Finance • 2h ago
 
 ---
 
-**[Missed Bitcoin's Run To $126,000? Long-Term Investors May Get A Second Chance With IBIT](https://seekingalpha.com/article/4867255-missed-bitcoins-run-to-126k-long-term-investors-may-get-a-second-chance-with-ibit)**
+**[Nancy Guthrie latest: Derrick Callella of Torrance, California arrested for demanding Bitcoin ransom from family](https://abc7.com/post/nancy-guthrie-latest-derrick-callella-california-arrested-demanding-bitcoin-ransom-family/18549247/)**
 
-Seeking Alpha • 1d ago
+The man allegedly used an app to create a fake phone number to text the family, according to a federal complaint.
 
----
-
-**[Strategy CEO: Bitcoin would need to plunge to $8,000 before balance sheet issues](https://www.theblock.co/post/388774/strategy-ceo-bitcoin-q4-earnings-call)**
-
-Executive Chairman Michael Saylor also addressed quantum computing concerns in bitcoin, framing them as 'horrible FUD.'
-
-The Block • 2d ago
+ABC7 Los Angeles • 2d ago
 
 ---
 
@@ -226,11 +217,20 @@ Forbes • 1d ago
 
 ---
 
-**[Nancy Guthrie latest: Derrick Callella of Torrance, California arrested for demanding Bitcoin ransom from family](https://abc7.com/post/nancy-guthrie-latest-derrick-callella-california-arrested-demanding-bitcoin-ransom-family/18549247/)**
+**[Former FBI cybersecurity expert explains how Nancy Guthrie could be found via Bitcoin and Email](https://www.cnn.com/2026/02/06/us/video/former-fbi-cybersecurity-expert-explains-how-nancy-guthrie-could-be-found-via-bitcoin-and-email-lcl)**
 
-The man allegedly used an app to create a fake phone number to text the family, according to a federal complaint.
+Former FBI counterintelligence operative and cybersecurity expert Eric O’Neill joins Laura Coates to explain how a Bitcoin ransom demand could still be traced by law enforcement.
 
-ABC7 Los Angeles • 2d ago
+cnn.com • 2d ago
+
+---
+
+**[South Korean crypto firm accidentally sends $44 billion in bitcoin to
+users](https://www.cnbc.com/2026/02/07/south-korean-crypto-firm-accidentally-sends-out-44-billion-in-bitcoin.html)**
+
+The move triggered a sharp selloff on the Bithumb exchange. The company apologized for the mistake.
+
+CNBC • 1d ago
 
 ---
 
@@ -262,13 +262,13 @@ Bitcoin outlook turns bearish as Pivotus’ Richard Farr targets BTC at $0 and M
 
 **[Bitcoin tumbles below $70K, heavy losses in cryptocurrencies in last three weeks](https://news.ycombinator.com/item?id=46934165)**
 
-⬆️ 34 • 💬 38 • 1h ago • [bloomberg.com](https://www.bloomberg.com/news/articles/2026-02-05/bitcoin-drops-below-70-000-as-forced-deleveraging-accelerates)
+⬆️ 38 • 💬 54 • 2h ago • [bloomberg.com](https://www.bloomberg.com/news/articles/2026-02-05/bitcoin-drops-below-70-000-as-forced-deleveraging-accelerates)
 
 ---
 
 **[South Korean crypto firm accidentally sends $44B in bitcoins to users](https://news.ycombinator.com/item?id=46926461)**
 
-⬆️ 6 • 💬 0 • 20h ago • [reuters.com](https://www.reuters.com/world/asia-pacific/crypto-firm-accidentally-sends-44-billion-bitcoins-users-2026-02-07/)
+⬆️ 6 • 💬 0 • 21h ago • [reuters.com](https://www.reuters.com/world/asia-pacific/crypto-firm-accidentally-sends-44-billion-bitcoins-users-2026-02-07/)
 
 ---
 
@@ -284,7 +284,7 @@ Crypto treasury companies quietly crept into index funds and retirement accounts
 
 Bithumb, Korea's second-largest cryptocurrency exchange, mistakenly credited users with Bitcoin worth approximately 260 billion won ($195 million), instead of the modest number of reward points or Bitcoin that it had intended to distribute.
 
-⬆️ 4 • 💬 0 • 21h ago • [koreajoongangdaily.joins.com](https://koreajoongangdaily.joins.com/news/2026-02-07/business/finance/Crypto-exchange-Bithumb-mistakenly-hands-out-195M-in-Bitcoin-to-users-in-Random-Box-giveaway/2518495)
+⬆️ 4 • 💬 0 • 23h ago • [koreajoongangdaily.joins.com](https://koreajoongangdaily.joins.com/news/2026-02-07/business/finance/Crypto-exchange-Bithumb-mistakenly-hands-out-195M-in-Bitcoin-to-users-in-Random-Box-giveaway/2518495)
 
 ---
 
@@ -292,7 +292,7 @@ Bithumb, Korea's second-largest cryptocurrency exchange, mistakenly credited use
 
 Bitcoin behaves more like an "ATM" during uncertain times, with investors quickly selling it to raise cash.
 
-⬆️ 4 • 💬 0 • 3d ago • [coindesk.com](https://www.coindesk.com/markets/2026/01/24/here-s-why-bitcoin-s-is-failing-its-role-as-a-safe-haven-versus-gold)
+⬆️ 4 • 💬 0 • 4d ago • [coindesk.com](https://www.coindesk.com/markets/2026/01/24/here-s-why-bitcoin-s-is-failing-its-role-as-a-safe-haven-versus-gold)
 
 ---
 
@@ -340,7 +340,7 @@ Bitcoin just posted its first ever $10000 daily drop, wiped out billions in liqu
 
 📺 Simply Bitcoin
 
-👁️ 24K • 👍 2K • 💬 228 • ⏱️ 16:01 • 15h ago
+👁️ 24K • 👍 2K • 💬 228 • ⏱️ 16:01 • 16h ago
 
 ---
 
@@ -350,7 +350,7 @@ My Free Trading Course https://www.rt1m.com/free My Discord Server (FREE) https:
 
 📺 Road To $1 Million USD
 
-👁️ 7K • 👍 278 • 💬 86 • ⏱️ 8:29 • 16h ago
+👁️ 7K • 👍 278 • 💬 86 • ⏱️ 8:29 • 17h ago
 
 ---
 
@@ -380,7 +380,7 @@ Bitcoin #Crypto #Finance Stablecoins are no longer just a crypto utility, they'r
 
 📺 The Wolf Of All Streets
 
-👁️ 2K • 👍 188 • 💬 178 • ⏱️ 43:26 • 1h ago
+👁️ 2K • 👍 188 • 💬 178 • ⏱️ 43:26 • 2h ago
 
 ---
 
@@ -390,7 +390,7 @@ Why did the world's largest asset class lose nearly $2 trillion in value so quic
 
 📺 Discover Crypto
 
-👁️ 5K • 👍 171 • 💬 111 • ⏱️ 7:32 • 17h ago
+👁️ 5K • 👍 171 • 💬 111 • ⏱️ 7:32 • 18h ago
 
 ---
 
