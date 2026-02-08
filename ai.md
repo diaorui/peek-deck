@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-02-08T08:37:34.978061+00:00'
+updated: '2026-02-08T09:31:46.802630+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- videos
-- repositories
-- news
 - social
+- news
+- repositories
+- videos
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** February 08, 2026 at 08:37 UTC  
+**Last Updated:** February 08, 2026 at 09:31 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -41,13 +41,13 @@ AI news, discussions, and developments
 
 Countries have been building their own “sovereign AI” to reflect their culture and values, and OpenAI wants to help them....
 
-🔗 [Sherwood News](https://sherwood.news/tech/report-openai-may-tailor-a-version-of-chatgpt-for-uae-that-prohibits-lgbtq/) • 22h ago
+🔗 [Sherwood News](https://sherwood.news/tech/report-openai-may-tailor-a-version-of-chatgpt-for-uae-that-prohibits-lgbtq/) • 23h ago
 
 ---
 
 **[Nvidia CEO Says AI Capital Spending Is Appropriate, Sustainable](https://www.reddit.com/r/artificial/comments/1qyx57y/nvidia_ceo_says_ai_capital_spending_is/)**
 
-🔗 [bloomberg.com](https://www.bloomberg.com/news/articles/2026-02-06/nvidia-ceo-says-ai-capital-spending-is-appropriate-sustainable?srnd=phx-technology&leadSource=reddit_wall) • 5h ago
+🔗 [bloomberg.com](https://www.bloomberg.com/news/articles/2026-02-06/nvidia-ceo-says-ai-capital-spending-is-appropriate-sustainable?srnd=phx-technology&leadSource=reddit_wall) • 6h ago
 
 ---
 
@@ -63,7 +63,7 @@ I have been working solo on an AI-based project called Netryx. At a high level, 
 
 Let’s say the quiet part out loud.
 
-🔗 [Medium](https://medium.com/@behindthebuild/big-tech-ai-isnt-taking-your-job-your-refusal-to-use-it-might-966f8219f962) • 15h ago
+🔗 [Medium](https://medium.com/@behindthebuild/big-tech-ai-isnt-taking-your-job-your-refusal-to-use-it-might-966f8219f962) • 16h ago
 
 ---
 
@@ -71,7 +71,7 @@ Let’s say the quiet part out loud.
 
 Hey fam, Been grinding on BrainAPI, this open-source thing that turns messy event logs into a smart knowledge graph for AI agents and rec systems. Think: feed it user clicks/buys/chats, it builds a precise map with cause-effect attribution (no BS hallucinations), then your AI retrieves fast AF for spot-on suggestions. Right now: Core APIs for saving/processing data -> works for CRM member matches/social networks (one user already using it for automated matches). Fast retrieval But ingestion? Slow as hell (10-30 min on small datasets) cuz of heavy LLM chains for precision. Trade-off for that "holy grail" accuracy, but yeah, it's a pain, optimizing soon. Repo: https://github.com/Lumen-Labs/brainapi2 What's the vibe? Bugs? Missing features? Use cases for ecom or agents? Roast it hard, I'm not fragile. If it slaps, star/fork. Building in public, hit me with thoughts!
 
-12h ago
+13h ago
 
 ---
 
@@ -79,7 +79,7 @@ Hey fam, Been grinding on BrainAPI, this open-source thing that turns messy even
 
 One of Kimi’s browser automation scripts uses a dark web library with crypto stealing malware: https://github.com/dnnyngyen/kimi-agent-internals/blob/main/source-code/browser_guard.py
 
-15h ago
+16h ago
 
 ---
 
@@ -123,7 +123,7 @@ It happened again. A 13-person team in Shenzhen just shipped a browser-based ver
 
 The hundreds of billions of dollars being spent by tech companies on AI projects are diverting resources from other parts of the economy.
 
-The Washington Post • 14h ago
+The Washington Post • 15h ago
 
 ---
 
@@ -131,7 +131,7 @@ The Washington Post • 14h ago
 
 SpaceX’s acquisition of xAI creates business worth $1.25tn but whether premise behind deal will work is questioned
 
-The Guardian • 18h ago
+The Guardian • 19h ago
 
 ---
 
@@ -139,7 +139,7 @@ The Guardian • 18h ago
 
 A Cardiff University researcher recreated her own voice using a deathbot - but found it strange.
 
-BBC • 57m ago
+BBC • 1h ago
 
 ---
 
@@ -147,7 +147,7 @@ BBC • 57m ago
 
 Demand for memory far exceeds supply, much to the benefit of Micron, Western Digital, and SanDisk investors.
 
-Yahoo Finance • 1h ago
+Yahoo Finance • 2h ago
 
 ---
 
@@ -161,7 +161,7 @@ The Wall Street Journal • 1d ago
 
 In a new interview, the journalist Yi-Ling Liu argues the AI arms race between the United States and China risks becoming a self-fulfilling prophecy.
 
-Politico • 17h ago
+Politico • 18h ago
 
 ---
 
@@ -169,7 +169,7 @@ Politico • 17h ago
 
 AI isn't just hitting software valuations — it's changing how software companies operate.
 
-Axios • 17h ago
+Axios • 18h ago
 
 ---
 
@@ -177,7 +177,7 @@ Axios • 17h ago
 
 Meet the LA boy who turned a multi-millionaire starting an AI training company
 
-latimes.com • 21h ago
+latimes.com • 22h ago
 
 ---
 
@@ -185,7 +185,7 @@ latimes.com • 21h ago
 
 Laid-off workers are wondering whether AI played a role in their job losses, and what it means for their next career moves.
 
-Business Insider • 23h ago
+Business Insider • 1d ago
 
 ---
 
@@ -227,7 +227,7 @@ AI is rarely optional anymore, but how can you still be proud of your craft? Dis
 
 The hundreds of billions of dollars being spent by tech companies on AI projects are diverting resources from other parts of the economy.
 
-⬆️ 334 • 💬 541 • 21h ago • [The Washington Post](https://www.washingtonpost.com/technology/2026/02/07/ai-spending-economy-shortages/)
+⬆️ 334 • 💬 541 • 22h ago • [The Washington Post](https://www.washingtonpost.com/technology/2026/02/07/ai-spending-economy-shortages/)
 
 ---
 
@@ -243,7 +243,7 @@ A minimal, secure Python interpreter written in Rust for use by AI - pydantic/mo
 
 Contribute to localgpt-app/localgpt development by creating an account on GitHub.
 
-⬆️ 196 • 💬 73 • 7h ago • [GitHub](https://github.com/localgpt-app/localgpt)
+⬆️ 196 • 💬 73 • 8h ago • [GitHub](https://github.com/localgpt-app/localgpt)
 
 ---
 
@@ -289,7 +289,7 @@ Become a member! ✓ https://www.youtube.com/channel/UCahJ9IsvXnaQiuNyWQSkrkw/jo
 
 📺 Chris Norlund
 
-👁️ 77K • 👍 5K • 💬 1K • ⏱️ 17:42 • 9h ago
+👁️ 87K • 👍 6K • 💬 1K • ⏱️ 17:42 • 10h ago
 
 ---
 
@@ -303,73 +303,13 @@ Become a member! ✓ https://www.youtube.com/channel/UCahJ9IsvXnaQiuNyWQSkrkw/jo
 
 ---
 
-**[This AI Feature Replaces Every Prompt You&#39;ve Ever Saved | Build Once, Use Forever](https://www.youtube.com/watch?v=hqiStqp6FL4)**
-
-Join our WhatsApp Community Get the latest AI updates, tips, and insights straight to your inbox: https://dub.sh/ai-updates-vs ...
-
-📺 Vaibhav Sisinty
-
-👁️ 56K • 👍 2K • 💬 55 • ⏱️ 10:30 • 1d ago
-
----
-
-**[Dell DITCHES Microsoft — Admits Windows 11 AI PCs Are a TOTAL FAILURE!](https://www.youtube.com/watch?v=9CMmPPH5fiU)**
-
-One of the biggest PC makers just admitted something that could shake the entire tech industry. After years of hype around ...
-
-📺 FactWyse
-
-👁️ 13K • 👍 680 • 💬 165 • ⏱️ 15:56 • 1d ago
-
----
-
 **[Anthropic&#39;s New AI Just Changed Everything](https://www.youtube.com/watch?v=ZneWerxN-qU)**
 
 Today I break down Claude Opus 4.6, Anthropic's most advanced AI model that handles complex coding, deep analysis, and ...
 
 📺 Tech Unicorn
 
-👁️ 3K • 👍 61 • 💬 13 • ⏱️ 11:40 • 1d ago
-
----
-
-**[They&#39;re Replacing Doctors and Hospital Workers with Robots and AI](https://www.youtube.com/watch?v=1Sz7KkqBcBU)**
-
-Dr. Ed Weir, Former Government Insider, DISCUSSES the unseen repercussions of AI and robots to 10s of millions of seniors, ...
-
-📺 Dr. Ed Weir, PhD, Former Social Security Manager
-
-👁️ 2K • 👍 184 • 💬 65 • ⏱️ 16:26 • 16h ago
-
----
-
-**[4 AI Skills That Set You Apart From 90% Of People](https://www.youtube.com/watch?v=wuOCa50e3fk)**
-
-In this video, I break down 4 practical AI skills that separate power users from everyone else, plus a simple method to spot what ...
-
-📺 Ali H. Salem
-
-👁️ 3K • 👍 229 • 💬 24 • ⏱️ 16:34 • 14h ago
-
----
-
-**[OpenClaw Creator: Why 80% Of Apps Will Disappear](https://www.youtube.com/watch?v=4uzGDAoNOZc)**
-
-You've probably already heard all about OpenClaw (formerly Clawdbot/Moltbot). The viral sensation is an open-source AI ...
-
-📺 Y Combinator
-
-👁️ 70K • 👍 3K • 💬 195 • ⏱️ 22:36 • 17h ago
-
----
-
-**[The White Collar AI APOCALYPSE Is HERE](https://www.youtube.com/watch?v=ur295T83Wg4)**
-
-Krystal and Saagar discuss tech stocks tumbling amid emerging new fears of job loss and AI. Sign up for a PREMIUM Breaking ...
-
-📺 Breaking Points
-
-👁️ 362K • 👍 10K • 💬 2K • ⏱️ 24:33 • 2d ago
+👁️ 3K • 👍 63 • 💬 13 • ⏱️ 11:40 • 1d ago
 
 ---
 
@@ -379,7 +319,67 @@ AI coding just entered a new phase of competition. In the same week, OpenAI unve
 
 📺 AI Revolution
 
-👁️ 27K • 👍 689 • 💬 39 • ⏱️ 13:09 • 1d ago
+👁️ 28K • 👍 691 • 💬 39 • ⏱️ 13:09 • 1d ago
+
+---
+
+**[The White Collar AI APOCALYPSE Is HERE](https://www.youtube.com/watch?v=ur295T83Wg4)**
+
+Krystal and Saagar discuss tech stocks tumbling amid emerging new fears of job loss and AI. Sign up for a PREMIUM Breaking ...
+
+📺 Breaking Points
+
+👁️ 364K • 👍 10K • 💬 2K • ⏱️ 24:33 • 2d ago
+
+---
+
+**[This AI Feature Replaces Every Prompt You&#39;ve Ever Saved | Build Once, Use Forever](https://www.youtube.com/watch?v=hqiStqp6FL4)**
+
+Join our WhatsApp Community Get the latest AI updates, tips, and insights straight to your inbox: https://dub.sh/ai-updates-vs ...
+
+📺 Vaibhav Sisinty
+
+👁️ 58K • 👍 2K • 💬 55 • ⏱️ 10:30 • 1d ago
+
+---
+
+**[Nvidia CEO Jensen Huang: AI is going to fundamentally change how we compute everything](https://www.youtube.com/watch?v=P9dX_ek_6yY)**
+
+Jensen Huang, NVIDIA CEO, joins CNBC's "Halftime Report to discuss the power of Artificial Intelligence and where he sees the ...
+
+📺 CNBC Television
+
+👁️ 137K • 👍 2K • 💬 405 • ⏱️ 8:35 • 1d ago
+
+---
+
+**[They&#39;re Replacing Doctors and Hospital Workers with Robots and AI](https://www.youtube.com/watch?v=1Sz7KkqBcBU)**
+
+Dr. Ed Weir, Former Government Insider, DISCUSSES the unseen repercussions of AI and robots to 10s of millions of seniors, ...
+
+📺 Dr. Ed Weir, PhD, Former Social Security Manager
+
+👁️ 2K • 👍 186 • 💬 65 • ⏱️ 16:26 • 17h ago
+
+---
+
+**[India&#39;s IT Collapse | The AI Reality Nobody&#39;s Talking About](https://www.youtube.com/watch?v=cTaCoUA89oM)**
+
+India's IT sector just got hit with its biggest shock in 4 months. The Nifty IT index plunged 7% last week, a near 18% drop since ...
+
+📺 Mark Savant
+
+👁️ 12K • 👍 408 • 💬 188 • ⏱️ 18:25 • 12h ago
+
+---
+
+**[The Two Best AI Models/Enemies Just Got Released Simultaneously](https://www.youtube.com/watch?v=1PxEziv5XIU)**
+
+The two models that you will hear discussed for at least the next two months - Claude Opus 4.6 and GPT 5.3 Codex - just got ...
+
+📺 AI Explained
+
+👁️ 58K • 👍 3K • 💬 312 • ⏱️ 19:50 • 1d ago
 
 ---
 
@@ -395,7 +395,7 @@ GLM-OCR is a 0.9B parameter multimodal OCR model for complex document understand
 
 `image-to-text`
 
-⬇️ 204,109 • ❤️ 791 • 5d ago
+⬇️ 248,295 • ❤️ 794 • 5d ago
 
 ---
 
@@ -407,7 +407,7 @@ Qwen3-Coder-Next is an 80B parameter (3B active) LLM optimized for coding agents
 
 `text-generation` `79.7B`
 
-⬇️ 53,491 • ❤️ 593 • 4d ago
+⬇️ 76,632 • ❤️ 596 • 4d ago
 
 ---
 
@@ -419,7 +419,7 @@ Kimi K2.5 is a native multimodal agentic model with 1T parameters, excelling in 
 
 `image-text-to-text` `170.7B`
 
-⬇️ 335,220 • ❤️ 1,845 • 3d ago
+⬇️ 404,508 • ❤️ 1,847 • 3d ago
 
 ---
 
@@ -431,7 +431,7 @@ Step 3.5 Flash is an efficient, open-source MoE foundation model (11B active par
 
 `text-generation` `199.4B`
 
-⬇️ 11,980 • ❤️ 516 • 1d ago
+⬇️ 104,643 • ❤️ 517 • 1d ago
 
 ---
 
@@ -443,7 +443,7 @@ MiniCPM-o 4.5 is a 9B parameter multimodal LLM excelling in vision, speech, and 
 
 `any-to-any` `9.4B`
 
-⬇️ 5,568 • ❤️ 594 • 16h ago
+⬇️ 17,457 • ❤️ 599 • 17h ago
 
 ---
 
@@ -455,7 +455,7 @@ ACE-Step 1.5 is an open-source text-to-audio music generation model capable of p
 
 `text-to-audio`
 
-⬇️ 19,901 • ❤️ 436 • 4d ago
+⬇️ 23,178 • ❤️ 438 • 4d ago
 
 ---
 
@@ -465,7 +465,7 @@ ACE-Step 1.5 is an open-source text-to-audio music generation model capable of p
 
 Anima is a 2 billion parameter text-to-image diffusion model specializing in anime and non-photorealistic artistic styles, trained on millions of anime and artistic images. It is designed for generating illustrations and artistic images, with primary use cases in ComfyUI workflows for anime concepts and characters.
 
-⬇️ 60,581 • ❤️ 505 • 7d ago
+⬇️ 71,655 • ❤️ 505 • 7d ago
 
 ---
 
@@ -475,7 +475,7 @@ Anima is a 2 billion parameter text-to-image diffusion model specializing in ani
 
 Voxtral-Mini-4B-Realtime-2602 is a 4B-parameter, multilingual speech-to-text model offering near-offline accuracy with <500ms latency. It features a streaming architecture for real-time applications like voice assistants and live subtitling, optimized for on-device deployment.
 
-⬇️ 2,093 • ❤️ 373 • 2d ago
+⬇️ 2,427 • ❤️ 374 • 2d ago
 
 ---
 
@@ -487,7 +487,7 @@ Qwen3-Coder-Next is an 80B parameter LLM optimized for coding agents, featuring 
 
 `text-generation` `79.7B`
 
-⬇️ 166,132 • ❤️ 209 • 3d ago
+⬇️ 185,433 • ❤️ 210 • 3d ago
 
 ---
 
@@ -499,7 +499,7 @@ Intern-S1-Pro is a trillion-scale MoE multimodal scientific reasoning model, exc
 
 `image-text-to-text`
 
-⬇️ 7,351 • ❤️ 195 • 3d ago
+⬇️ 8,055 • ❤️ 196 • 3d ago
 
 ---
 
@@ -515,21 +515,9 @@ Intern-S1-Pro is a trillion-scale MoE multimodal scientific reasoning model, exc
 
 _paperbanana is an agentic framework that automates the creation of publication-ready academic illustrations using advanced vision-language models and image generation techniques.
 
-▲ 137 • 💬 12 • ⭐ 2,322 • 8d ago
+▲ 140 • 💬 12 • ⭐ 2,416 • 8d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2601.23265) • [💻 code](https://github.com/dwzhu-pku/PaperBanana) • [🔗 project](https://dwzhu-pku.github.io/PaperBanana/)
-
----
-
-**[Agent Lightning: Train ANY AI Agents with Reinforcement Learning](https://huggingface.co/papers/2508.03680)**
-
-*Xufang Luo, Yuge Zhang, Zhiyuan He et al. (8 authors)*
-
-Agent Lightning is a flexible RL framework for training LLMs in various agents, using a hierarchical RL algorithm and decoupling execution from training to handle complex interactions.
-
-▲ 133 • 💬 6 • ⭐ 14,236 • 6mo ago
-
-[🎓 arXiv](https://arxiv.org/abs/2508.03680) • [💻 code](https://github.com/microsoft/agent-lightning) • [🔗 project](https://www.microsoft.com/en-us/research/project/agent-lightning/)
 
 ---
 
@@ -545,18 +533,6 @@ Multi-agent collaboration networks enhance collective intelligence, outperformin
 
 ---
 
-**[Multi-Agent Collaboration via Evolving Orchestration](https://huggingface.co/papers/2505.19591)**
-
-*Yufan Dang, Chen Qian, Xueheng Luo et al. (14 authors)*
-
-A centralized orchestrator dynamically directs LLM agents via reinforcement learning, achieving superior multi-agent collaboration in varying tasks with reduced computational costs.
-
-▲ 6 • 💬 0 • ⭐ 30,479 • 8mo ago
-
-[🎓 arXiv](https://arxiv.org/abs/2505.19591) • [💻 code](https://github.com/OpenBMB/ChatDev/tree/puppeteer)
-
----
-
 **[Multi-Agent Software Development through Cross-Team Collaboration](https://huggingface.co/papers/2406.08979)**
 
 *Zhuoyun Du, Chen Qian, Wei Liu et al. (8 authors)*
@@ -566,6 +542,30 @@ Cross-Team Collaboration improves software quality by enabling multiple LLM agen
 ▲ 3 • 💬 0 • ⭐ 30,492 • 20mo ago
 
 [🎓 arXiv](https://arxiv.org/abs/2406.08979) • [💻 code](https://github.com/OpenBMB/ChatDev)
+
+---
+
+**[Multi-Agent Collaboration via Evolving Orchestration](https://huggingface.co/papers/2505.19591)**
+
+*Yufan Dang, Chen Qian, Xueheng Luo et al. (14 authors)*
+
+A centralized orchestrator dynamically directs LLM agents via reinforcement learning, achieving superior multi-agent collaboration in varying tasks with reduced computational costs.
+
+▲ 6 • 💬 0 • ⭐ 30,506 • 8mo ago
+
+[🎓 arXiv](https://arxiv.org/abs/2505.19591) • [💻 code](https://github.com/OpenBMB/ChatDev/tree/puppeteer)
+
+---
+
+**[Agent Lightning: Train ANY AI Agents with Reinforcement Learning](https://huggingface.co/papers/2508.03680)**
+
+*Xufang Luo, Yuge Zhang, Zhiyuan He et al. (8 authors)*
+
+Agent Lightning is a flexible RL framework for training LLMs in various agents, using a hierarchical RL algorithm and decoupling execution from training to handle complex interactions.
+
+▲ 133 • 💬 6 • ⭐ 14,260 • 6mo ago
+
+[🎓 arXiv](https://arxiv.org/abs/2508.03680) • [💻 code](https://github.com/microsoft/agent-lightning) • [🔗 project](https://www.microsoft.com/en-us/research/project/agent-lightning/)
 
 ---
 
@@ -591,7 +591,7 @@ LingBot-World is an open-source world simulator with high-fidelity dynamics, lon
 
 The Qwen3-TTS series presents advanced multilingual text-to-speech models with voice cloning and controllable speech generation capabilities, utilizing dual-track LM architecture and specialized speech tokenizers for efficient streaming synthesis.
 
-▲ 60 • 💬 1 • ⭐ 7,113 • 17d ago
+▲ 60 • 💬 1 • ⭐ 7,143 • 17d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2601.15621) • [💻 code](https://github.com/QwenLM/Qwen3-TTS)
 
@@ -618,22 +618,22 @@ Bitnet.cpp enhances edge inference for ternary LLMs using a novel mixed-precisio
 
 SmolDocling is a compact vision-language model that performs end-to-end document conversion with robust performance across various document types using 256M parameters and a new markup format.
 
-▲ 138 • 💬 19 • ⭐ 52,385 • 11mo ago
+▲ 138 • 💬 19 • ⭐ 52,411 • 11mo ago
 
 [🎓 arXiv](https://arxiv.org/abs/2503.11576) • [💻 code](https://github.com/docling-project/docling) • [🔗 project](https://huggingface.co/ds4sd/SmolDocling-256M-preview)
 
 ---
 
-**[Efficient Memory Management for Large Language Model Serving with
-  PagedAttention](https://huggingface.co/papers/2309.06180)**
+**[MiniCPM-V 4.5: Cooking Efficient MLLMs via Architecture, Data, and
+  Training Recipe](https://huggingface.co/papers/2509.18154)**
 
-*Woosuk Kwon, Zhuohan Li, Siyuan Zhuang et al. (9 authors)*
+*Tianyu Yu, Zefan Wang, Chongyi Wang et al. (34 authors)*
 
-PagedAttention algorithm and vLLM system enhance the throughput of large language models by efficiently managing memory and reducing waste in the key-value cache.
+MiniCPM-V 4.5, a 8B parameter multimodal large language model, achieves high performance and efficiency through a unified 3D-Resampler architecture, a unified learning paradigm, and a hybrid reinforcement learning strategy.
 
-▲ 34 • 💬 1 • ⭐ 69,746 • 29mo ago
+▲ 53 • 💬 4 • ⭐ 23,155 • 4mo ago
 
-[🎓 arXiv](https://arxiv.org/abs/2309.06180) • [💻 code](https://github.com/vllm-project/vllm)
+[🎓 arXiv](https://arxiv.org/abs/2509.18154) • [💻 code](https://github.com/OpenBMB/MiniCPM-V)
 
 ---
 
@@ -647,7 +647,7 @@ Browser automation CLI for AI agents
 
 `TypeScript`
 
-⭐ 13.2k • 🔱 761 • 1d ago
+⭐ 13.2k • 🔱 762 • 1d ago
 
 ---
 
@@ -657,7 +657,7 @@ AI → JSON → UI
 
 `TypeScript`
 
-⭐ 10.1k • 🔱 537 • 7h ago
+⭐ 10.1k • 🔱 537 • 8h ago
 
 ---
 
@@ -667,7 +667,7 @@ LLM驱动的 A/H/美股智能分析器，多数据源行情 + 实时新闻 + Gem
 
 `Python` `agent` `ai` `aigc` `gemini` `llm`
 
-⭐ 9.8k • 🔱 10.3k • 1h ago
+⭐ 9.9k • 🔱 10.4k • 2h ago
 
 ---
 
@@ -677,7 +677,7 @@ The Ultimate Collection of 700+ Agentic Skills for Claude Code/Antigravity/Curso
 
 `Python` `agentic-skills` `ai-agents` `antigravity` `autonomous-coding` `claude-code`
 
-⭐ 7.8k • 🔱 1.6k • 1h ago
+⭐ 7.8k • 🔱 1.6k • 2h ago
 
 ---
 
@@ -687,7 +687,7 @@ Marketing skills for Claude Code and AI agents. CRO, copywriting, SEO, analytics
 
 `claude` `codex` `marketing`
 
-⭐ 6.6k • 🔱 745 • 4d ago
+⭐ 6.7k • 🔱 746 • 4d ago
 
 ---
 
@@ -695,7 +695,7 @@ Marketing skills for Claude Code and AI agents. CRO, copywriting, SEO, analytics
 
 Elevate your AI research writing, no more tedious polishing ✨ 
 
-⭐ 4.6k • 🔱 364 • 3d ago
+⭐ 4.7k • 🔱 367 • 3d ago
 
 ---
 
@@ -703,7 +703,7 @@ Elevate your AI research writing, no more tedious polishing ✨
 
 Claude Code skill that removes signs of AI-generated writing from text
 
-⭐ 4.4k • 🔱 361 • 16d ago
+⭐ 4.4k • 🔱 363 • 16d ago
 
 ---
 
@@ -713,7 +713,7 @@ OpenSource Claude Cowork. A desktop AI assistant that helps you with programming
 
 `TypeScript`
 
-⭐ 2.8k • 🔱 378 • 5h ago
+⭐ 2.8k • 🔱 378 • 6h ago
 
 ---
 

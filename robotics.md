@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-02-08T08:37:34.995698+00:00'
+updated: '2026-02-08T09:31:46.820247+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- videos
-- news
 - social
+- news
+- videos
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** February 08, 2026 at 08:37 UTC  
+**Last Updated:** February 08, 2026 at 09:31 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -36,7 +36,7 @@ Robotics research and industry news
 
 Pantograph website: https://pantograph.com/ Pantograph on 𝕏: http://x.com/pantographPBC
 
-20h ago
+21h ago
 
 ---
 
@@ -44,7 +44,7 @@ Pantograph website: https://pantograph.com/ Pantograph on 𝕏: http://x.com/pan
 
 How viable is a Robotics-as-a-Service (RaaS) startup today? I’m evaluating the idea of starting a small RaaS company and wanted honest feedback from people who’ve been in hardware, robotics, or service-based startups. A few things I’m trying to understand: Which verticals actually work (security, cleaning, warehouse, etc.)? What does it realistically cost to deploy the first few robots? How long did it take to get your first paying customer? Is the bigger challenge the technology, hardware costs, or field service/operations? Would you recommend starting as an integrator (using existing robots) vs building your own? Any real numbers, lessons learned, or “things you wish you knew earlier” would be really helpful.
 
-1h ago
+2h ago
 
 ---
 
@@ -52,13 +52,13 @@ How viable is a Robotics-as-a-Service (RaaS) startup today? I’m evaluating the
 
 The chest finally finished printing after 5 days of printing. I assembled it and so far it looks like this, i still have to build the right arm and mount them. I know it may not look that good but it’s my first time doing such a big project and i’m still learning.
 
-16h ago
+17h ago
 
 ---
 
 **[It dance better than me for sure…](https://www.reddit.com/r/robotics/comments/1qykdxw/it_dance_better_than_me_for_sure/)**
 
-14h ago
+15h ago
 
 ---
 
@@ -66,7 +66,7 @@ The chest finally finished printing after 5 days of printing. I assembled it and
 
 Once again, Boston Dynamics just leaving everyone in the dust. Watch all the chinese copycats try to do the same thing. https://www.youtube.com/watch?v=UNorxwlZlFk
 
-10h ago
+11h ago
 
 ---
 
@@ -74,7 +74,7 @@ Once again, Boston Dynamics just leaving everyone in the dust. Watch all the chi
 
 There is the popular argument for why having a humanoid robot would be the best way to do things: "because the environment is human shaped/designed for humans." However, why are we assuming it would be necessarily harder to redesign the environment so a simpler non-humanoid robot can make use of it rather than recreating the entire human body and all its complexities in robot form while trying to make it suitable to many different varying environments? Also, this argument implies the environment is exclusively human shaped, meaning a machine with human shapes and function is the only way forward in order for it traverse and interact with the environment, but this is not true. For instance, a flat floor, which is designed for human use, also allows use by a non-humanoid robot with wheels.
 
-20h ago
+21h ago
 
 ---
 
@@ -82,7 +82,7 @@ There is the popular argument for why having a humanoid robot would be the best 
 
 Hi everyone, I’m planning to build a self-balancing robot and I wanted to share the parts I currently have before moving forward. Parts I have: Arduino Nano (ATmega328P) MPU6050 (accelerometer + gyroscope) TB6612FNG dual motor driver DC motors (3–6 V) Battery pack ~8 V, 2600 mAh 2× electrolytic capacitors (1000 µF, 16 V) Wheels and a rigid homemade chassis The goal is to make a robot that can balance itself upright using these components. I’m still in the early stages and would appreciate any general advice or things to watch out for when building a self-balancing robot with this kind of setup. Thanks!
 
-13h ago
+14h ago
 
 ---
 
@@ -118,13 +118,13 @@ Just pushed an update to casadi-on-gpu that lets you generate CUDA kernels direc
 
 "We just need enough time to build the AI and robots to not go bankrupt before then."
 
-Fortune • 13h ago
+Fortune • 14h ago
 
 ---
 
 **[China is running the EV playbook on humanoid robots — and it’s working](https://restofworld.org/2026/china-humanoid-robots-unitree-agibot-tesla-optimus/)**
 
-Rest of World • 2d ago
+Rest of World • 3d ago
 
 ---
 
@@ -132,7 +132,7 @@ Rest of World • 2d ago
 
 Union organizers are growing increasingly worried about a future in which AI-powered robots decimate blue collar labor.
 
-Futurism • 15h ago
+Futurism • 16h ago
 
 ---
 
@@ -198,17 +198,17 @@ Humanoid robots just entered a new phase of realism. In Shanghai, DroidUp reveal
 
 📺 AI Revolution
 
-👁️ 196K • 👍 4K • 💬 838 • ⏱️ 13:31 • 3d ago
+👁️ 198K • 👍 4K • 💬 844 • ⏱️ 13:31 • 3d ago
 
 ---
 
-**[World&#39;s First: Unitree Humanoid Robot Autonomous Walking Challenge in −47.4°C Extreme Cold](https://www.youtube.com/watch?v=SX4WKUHAP4E)**
+**[Atlas Airborne Robot Shows the Final Evolution of Boston Dynamics](https://www.youtube.com/watch?v=IjRjKwZhYCQ)**
 
-47.4°C, 130000 steps, 89.75°E, 47.21°N… On the extremely cold snowfields of Altay, the birthplace of human skiing, Unitree's ...
+The Atlas Airborne Robot takes one final research run as Boston Dynamics pushes humanoid robot control to its absolute limit.
 
-📺 Unitree Robotics
+📺 DPCcars
 
-👁️ 133K • 👍 1K • 💬 150 • ⏱️ 0:45 • 5d ago
+👁️ 10K • 👍 132 • 💬 21 • ⏱️ 2:45 • 14h ago
 
 ---
 
@@ -218,53 +218,27 @@ Pan Motor's Wuji Hand packs twenty fully actuated joints into a sub six hundred 
 
 📺 Deepen
 
-👁️ 3K • 👍 71 • 💬 4 • ⏱️ 0:19 • 6h ago
+👁️ 5K • 👍 116 • 💬 5 • ⏱️ 0:19 • 7h ago
 
 ---
 
-**[This Robot Produces Speech the Human Way 😮](https://www.youtube.com/watch?v=L0M5fs_phpA)**
+**[World&#39;s First: Unitree Humanoid Robot Autonomous Walking Challenge in −47.4°C Extreme Cold](https://www.youtube.com/watch?v=SX4WKUHAP4E)**
 
-This Robot Produces Speech the Human Way This system generates speech using physical movement rather than digital ...
+47.4°C, 130000 steps, 89.75°E, 47.21°N… On the extremely cold snowfields of Altay, the birthplace of human skiing, Unitree's ...
 
-📺 MrScoopz
+📺 Unitree Robotics
 
-👁️ 7.8M • 👍 47K • 💬 2K • ⏱️ 0:05 • 6d ago
-
----
-
-**[Love, Death and Robots: The World and Us in the Eyes of an AI](https://www.youtube.com/watch?v=3Ja3A0tyY_Q)**
-
-A video about Neuro-sama's View on Us, and the world ▻Twitch: http://www.twitch.tv/vedal987 ▻Twitter: ...
-
-📺 Neuro-sama
-
-👁️ 89K • 👍 16K • 💬 1K • ⏱️ 13:16 • 17h ago
+👁️ 134K • 👍 1K • 💬 151 • ⏱️ 0:45 • 5d ago
 
 ---
 
-**[A Robotic Mouth That Speaks Like a Human 😳](https://www.youtube.com/watch?v=x6M2gCzUTJM)**
+**[XPeng IRON Robot Falls Then Stands Back Up Live on Stage](https://www.youtube.com/watch?v=kMfcGfRO0R8)**
 
-This robotic mouth is designed to replicate how real human lips move while speaking. Using actuators and soft materials, it copies ...
+XPeng just showed the world what real humanoid robot progress looks like. During a live public event, the IRON robot stumbled, ...
 
-📺 Facts TV 91
+📺 DPCcars
 
-👁️ 79K • 👍 514 • 💬 36 • ⏱️ 0:06 • 4d ago
-
----
-
-**[Drag-and-drop welding robot.#industrial #welding #robot #spraying #stamping](https://www.youtube.com/watch?v=v3gC2BADTO4)**
-
-📺 Borunte robot-Lin 
-
-👁️ 15K • 👍 38 • 💬 3 • ⏱️ 0:20 • 4d ago
-
----
-
-**[Tesla Optimus robot will allow for amazing abundance. #fyp #viral #tesla #optimus #teslarobot](https://www.youtube.com/watch?v=CPDqiFW1AhI)**
-
-📺 Tesla Owners Silicon Valley
-
-👁️ 4.8M • 👍 166K • 💬 3K • ⏱️ 0:40 • 6d ago
+👁️ 39K • 👍 156 • 💬 53 • ⏱️ 2:06 • 6d ago
 
 ---
 
@@ -274,17 +248,45 @@ Capybara's golden robot lion was sabotaged by Brianna before the big competition
 
 📺 CapyEscapes
 
-👁️ 33K • 👍 1K • 💬 145 • ⏱️ 0:59 • 21h ago
+👁️ 34K • 👍 1K • 💬 150 • ⏱️ 0:59 • 22h ago
 
 ---
 
-**[Yann LeCun Just Called Out the Entire Robotics Industry](https://www.youtube.com/watch?v=ArG8GiIHmjE)**
+**[A Robotic Mouth That Speaks Like a Human 😳](https://www.youtube.com/watch?v=x6M2gCzUTJM)**
 
-Checkout Free Community: - https://www.skool.com/theaigridcommunity Follow Me on Twitter https://twitter.com/TheAiGrid ...
+This robotic mouth is designed to replicate how real human lips move while speaking. Using actuators and soft materials, it copies ...
 
-📺 TheAIGRID
+📺 Facts TV 91
 
-👁️ 21K • 👍 624 • 💬 196 • ⏱️ 13:22 • 5d ago
+👁️ 79K • 👍 515 • 💬 37 • ⏱️ 0:06 • 4d ago
+
+---
+
+**[This Robot Produces Speech the Human Way 😮](https://www.youtube.com/watch?v=L0M5fs_phpA)**
+
+This Robot Produces Speech the Human Way This system generates speech using physical movement rather than digital ...
+
+📺 MrScoopz
+
+👁️ 8.1M • 👍 49K • 💬 2K • ⏱️ 0:05 • 6d ago
+
+---
+
+**[This balancing robot comes as a DIY kit](https://www.youtube.com/watch?v=ehoSXsC0a38)**
+
+BABOT balancing robot kit https://www.instagram.com/babot_project/ For copyright matters, please get in touch with us at: ...
+
+📺 Unstoppable Gadgets
+
+👁️ 7K • 👍 212 • 💬 11 • ⏱️ 0:16 • 12h ago
+
+---
+
+**[Tesla Robot handles upside down popcorn. It’s crazy how much these will change everything.](https://www.youtube.com/watch?v=PlEGwoJmon8)**
+
+📺 Tesla Owners Silicon Valley
+
+👁️ 70K • 👍 2K • 💬 71 • ⏱️ 0:40 • 2d ago
 
 ---
 

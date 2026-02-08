@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-02-08T08:37:34.986495+00:00'
+updated: '2026-02-08T09:31:46.811187+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
 - videos
-- cryptocurrency
-- news
 - social
+- news
+- cryptocurrency
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** February 08, 2026 at 08:37 UTC  
+**Last Updated:** February 08, 2026 at 09:31 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -54,17 +54,17 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1384.95B
+**Market Cap:** $1407.43B
 Rank #1
 
-**Circulating Supply:** 19,986,009 BTC
+**Circulating Supply:** 19,986,062 BTC
 95.2% of max
 
 **All-Time High:** $126,080.00
--45.1%
+-44.1%
 
 **All-Time Low:** $67.81
-+101963.1%
++103753.4%
 
 ---
 
@@ -87,7 +87,7 @@ Rank #1
 
 HODL strong through the storms; the future rewards the patient. 🚀 🙌
 
-14h ago
+15h ago
 
 ---
 
@@ -95,7 +95,7 @@ HODL strong through the storms; the future rewards the patient. 🚀 🙌
 
 Guys, do you realize how much you regret not buying about ten years ago? Today, the price of BTC has been cut in half, and you’re hesitating between “the market is collapsing” or “the market will bounce back.” Buy either way—personally, that’s what I’m doing. I’m not saying the price will go back up. Of course I hope it will, but I honestly have no idea, and absolutely no one can know. I’d rather tell myself that I bought for nothing and lost some money than tell myself that I missed this opportunity a second time—especially when this time, I’m aware it might actually be one. (traduced from french by chatgpt)
 
-9h ago
+10h ago
 
 ---
 
@@ -103,7 +103,7 @@ Guys, do you realize how much you regret not buying about ten years ago? Today, 
 
 honestly, after holding since 2021, these dips barely even register anymore. i'm not even checking the charts as often as i used to. is that just me getting old and boring, or are other long-term holders feeling the same?
 
-1h ago
+2h ago
 
 ---
 
@@ -111,7 +111,7 @@ honestly, after holding since 2021, these dips barely even register anymore. i'm
 
 Not financial advice weekly RSIs below 30 and clear support approaching around the $50,000 level. I am borrowing against my 401(k) for the next 52 weeks to allow some capital upfront to take advantage of these prices. 6.75% interest paid back into my 401k after the 52 weeks which is a win-win for me. See you in five years.
 
-7h ago
+8h ago
 
 ---
 
@@ -125,7 +125,7 @@ If you see blockchain activity whales are clearly accumulating taking BTC outsid
 
 **[Buy The dip](https://www.reddit.com/r/Bitcoin/comments/1qygmls/buy_the_dip/)**
 
-17h ago
+18h ago
 
 ---
 
@@ -139,7 +139,7 @@ If you see blockchain activity whales are clearly accumulating taking BTC outsid
 
 My mother barely uses Facebook and has zero interest in technology or finance. Yet here we are: she asked me to help her buy Bitcoin. Over the past months, I’ve talked a lot about Bitcoin at home — why I believe in it, my long-term goals, scarcity, adoption, etc. I guess at some point it clicked for her. The problem is… now I’m scared. Even though I truly believe in Bitcoin’s future, I’m afraid of a few things: What if things don’t go as expected? What if she doesn’t live long enough to really see the benefits of this investment? What if she can’t mentally handle the volatility and panic during big drawdowns? This feels very different from investing my own money. If Bitcoin drops 50%, I can handle it. If her money drops 50%, that’s a different emotional weight. I don’t want to be irresponsible or turn into “that guy” who convinced a family member to invest and then regrets it forever. So I’m asking those of you who’ve been here longer or have more life experience: What would you do in my position?
 
-15h ago
+16h ago
 
 ---
 
@@ -147,7 +147,7 @@ My mother barely uses Facebook and has zero interest in technology or finance. Y
 
 Just wanted to share my few as an observer. Have been observing bitcoin for many years. And after every price crash, there are the same questions: Is this the end of bitcoin? Was it all just a bubble? And after bitcoin regenerates, people regret not buying some. I find it amusing. I myself bought bitcoin this time, because I want to be a part of the party. Disclaimer: no financial advise from me 😄
 
-9h ago
+10h ago
 
 ---
 
@@ -157,7 +157,7 @@ Just wanted to share my few as an observer. Have been observing bitcoin for many
 
 **[Bitcoin loses Trump-era gains as crypto market volatility signals uncertainty](https://www.reuters.com/business/bitcoin-loses-trump-era-gains-crypto-market-volatility-signals-uncertainty-2026-02-07/)**
 
-Reuters • 21h ago
+Reuters • 22h ago
 
 ---
 
@@ -166,7 +166,7 @@ users](https://www.cnbc.com/2026/02/07/south-korean-crypto-firm-accidentally-sen
 
 The move triggered a sharp selloff on the Bithumb exchange. The company apologized for the mistake.
 
-CNBC • 22h ago
+CNBC • 23h ago
 
 ---
 
@@ -174,7 +174,7 @@ CNBC • 22h ago
 
 The company quickly realised its mistake and managed to recover virtually all the missing tokens from customers.
 
-BBC • 18h ago
+BBC • 19h ago
 
 ---
 
@@ -190,7 +190,7 @@ Yahoo Finance • 1d ago
 
 There are quite a few reasons this asset is worth owning.
 
-Yahoo Finance • 2h ago
+Yahoo Finance • 3h ago
 
 ---
 
@@ -258,7 +258,7 @@ Bitcoin outlook turns bearish as Pivotus’ Richard Farr targets BTC at $0 and M
 
 **[South Korean crypto firm accidentally sends $44B in bitcoins to users](https://news.ycombinator.com/item?id=46926461)**
 
-⬆️ 5 • 💬 0 • 13h ago • [reuters.com](https://www.reuters.com/world/asia-pacific/crypto-firm-accidentally-sends-44-billion-bitcoins-users-2026-02-07/)
+⬆️ 5 • 💬 0 • 14h ago • [reuters.com](https://www.reuters.com/world/asia-pacific/crypto-firm-accidentally-sends-44-billion-bitcoins-users-2026-02-07/)
 
 ---
 
@@ -266,7 +266,7 @@ Bitcoin outlook turns bearish as Pivotus’ Richard Farr targets BTC at $0 and M
 
 Crypto treasury companies quietly crept into index funds and retirement accounts. This collapse is good news for all of us.
 
-⬆️ 4 • 💬 1 • 3d ago • [Slate Magazine](https://slate.com/technology/2026/02/bitcoin-crypto-treasury-wall-street-microstrategy.html)
+⬆️ 4 • 💬 1 • 4d ago • [Slate Magazine](https://slate.com/technology/2026/02/bitcoin-crypto-treasury-wall-street-microstrategy.html)
 
 ---
 
@@ -290,7 +290,7 @@ Bitcoin behaves more like an "ATM" during uncertain times, with investors quickl
 
 Bithumb, Korea's second-largest cryptocurrency exchange, mistakenly credited users with Bitcoin worth approximately 260 billion won ($195 million), instead of the modest number of reward points or Bitcoin that it had intended to distribute.
 
-⬆️ 3 • 💬 0 • 15h ago • [koreajoongangdaily.joins.com](https://koreajoongangdaily.joins.com/news/2026-02-07/business/finance/Crypto-exchange-Bithumb-mistakenly-hands-out-195M-in-Bitcoin-to-users-in-Random-Box-giveaway/2518495)
+⬆️ 3 • 💬 0 • 16h ago • [koreajoongangdaily.joins.com](https://koreajoongangdaily.joins.com/news/2026-02-07/business/finance/Crypto-exchange-Bithumb-mistakenly-hands-out-195M-in-Bitcoin-to-users-in-Random-Box-giveaway/2518495)
 
 ---
 
@@ -312,13 +312,23 @@ Cryptocurrency markets fell as global equities and precious metals sold off whil
 
 ## YouTube Videos: "bitcoin"
 
+**[&quot;I Just Lost Everything&quot; - WTF Happened To Bitcoin?!](https://www.youtube.com/watch?v=diE19xlDfqo)**
+
+Take your personal data back with Incogni! Use code GRAHAM at the link below and get 60% off an annual plan: ...
+
+📺 Graham Stephan
+
+👁️ 605K • 👍 20K • 💬 6K • ⏱️ 16:11 • 2d ago
+
+---
+
 **[Top 3 Reasons Bitcoin Collapsed](https://www.youtube.com/watch?v=2fuSxi69Glw)**
 
 Why did the world's largest asset class lose nearly $2 trillion in value so quickly? In today's video, we aren't just looking at the ...
 
 📺 Discover Crypto
 
-👁️ 3K • 👍 152 • 💬 85 • ⏱️ 7:32 • 10h ago
+👁️ 4K • 👍 158 • 💬 114 • ⏱️ 7:32 • 11h ago
 
 ---
 
@@ -328,27 +338,17 @@ Bitcoin just posted its first ever $10000 daily drop, wiped out billions in liqu
 
 📺 Simply Bitcoin
 
-👁️ 16K • 👍 1K • 💬 152 • ⏱️ 16:01 • 8h ago
+👁️ 19K • 👍 1K • 💬 217 • ⏱️ 16:01 • 9h ago
 
 ---
 
-**[Is This The END Of Bitcoin?](https://www.youtube.com/watch?v=P3ZnGfRADcA)**
+**[BITCOIN: CALM BEFORE THE STORM!!! #BTC Price Prediction &amp; Crypto Crash News Today](https://www.youtube.com/watch?v=sM4RCmM_HwE)**
 
-Bitcoin has been in a free-fall the past few months. At one point yesterday, it had fallen 50% from all-time highs. Everyone is ...
+My Free Trading Course https://www.rt1m.com/free My Discord Server (FREE) https://discord.com/invite/jRAnCV9CTB ...
 
-📺 From The Desk Of Anthony Pompliano
+📺 Road To $1 Million USD
 
-👁️ 45K • 👍 2K • 💬 340 • ⏱️ 9:43 • 1d ago
-
----
-
-**[&quot;I Just Lost Everything&quot; - WTF Happened To Bitcoin?!](https://www.youtube.com/watch?v=diE19xlDfqo)**
-
-Take your personal data back with Incogni! Use code GRAHAM at the link below and get 60% off an annual plan: ...
-
-📺 Graham Stephan
-
-👁️ 603K • 👍 20K • 💬 6K • ⏱️ 16:11 • 2d ago
+👁️ 6K • 👍 244 • 💬 107 • ⏱️ 8:29 • 10h ago
 
 ---
 
@@ -358,27 +358,17 @@ Bitcoin plunges as crypto markets lose trillions, sparking debate over whether B
 
 📺 Valuetainment
 
-👁️ 174K • 👍 3K • 💬 12K • ⏱️ 14:38 • 1d ago
+👁️ 178K • 👍 3K • 💬 12K • ⏱️ 14:38 • 1d ago
 
 ---
 
-**[Bitcoin Is In A Free Fall](https://www.youtube.com/watch?v=AFs9O7Y6QME)**
+**[Is This The END Of Bitcoin?](https://www.youtube.com/watch?v=P3ZnGfRADcA)**
 
-https://democratizedprime.pxf.io/c/2406113/3755092/37696 Enter to win $25k USDC with Democratized Prime while earning ~9% ...
+Bitcoin has been in a free-fall the past few months. At one point yesterday, it had fallen 50% from all-time highs. Everyone is ...
 
-📺 Aaron Bennett
+📺 From The Desk Of Anthony Pompliano
 
-👁️ 36K • 👍 1K • 💬 789 • ⏱️ 13:47 • 2d ago
-
----
-
-**[Bitcoin Is CRASHING Now People Are Losing EVERYTHING](https://www.youtube.com/watch?v=7fg0A5W2D3s)**
-
-Bitcoin is crashing — and now people are losing everything. In this video, we break down what's happening in the crypto market, ...
-
-📺 Jay Reed
-
-👁️ 145K • 👍 6K • 💬 18K • ⏱️ 16:32 • 2d ago
+👁️ 47K • 👍 2K • 💬 344 • ⏱️ 9:43 • 1d ago
 
 ---
 
@@ -388,27 +378,37 @@ Bitcoin's record volatility is sending shockwaves through the crypto market—ar
 
 📺 Discover Crypto
 
-👁️ 22K • 👍 192 • 💬 83 • ⏱️ 0:26 • 1d ago
+👁️ 22K • 👍 198 • 💬 83 • ⏱️ 0:26 • 1d ago
 
 ---
 
-**[Crypto Going To $0 And I&#39;m Here For It...](https://www.youtube.com/watch?v=OYp5Rqn_nI4)**
+**[Bitcoin Hit $60,000 Exactly Like I Warned… Here’s What Happens NEXT](https://www.youtube.com/watch?v=uhq8dVsbdYs)**
 
-If you're here for it to, join our members and start planning and accumulating based on risk Free Trial ...
+Bitcoin just did EXACTLY what I said it would do Trade LIVE with me for $5 - a Youtube only special: If you want live trading ...
 
-📺 Dan Gambardello
+📺 Ross Givens
 
-👁️ 26K • 👍 1K • 💬 311 • ⏱️ 2:16:18 • 2d ago
+👁️ 16K • 👍 794 • 💬 993 • ⏱️ 8:28 • 1d ago
 
 ---
 
-**[This is typical volatility for bitcoin, says SkyBridge&#39;s Scaramucci](https://www.youtube.com/watch?v=PxHIJlojXTg)**
+**[Bitcoin Is CRASHING Now People Are Losing EVERYTHING](https://www.youtube.com/watch?v=7fg0A5W2D3s)**
 
-CNBC's “Closing Bell Overtime” team discusses cryptocurrencies, bitcoin's volatile week and more with Anthony Scaramucci, ...
+Bitcoin is crashing — and now people are losing everything. In this video, we break down what's happening in the crypto market, ...
 
-📺 CNBC Television
+📺 Jay Reed
 
-👁️ 37K • 👍 322 • 💬 331 • ⏱️ 4:14 • 1d ago
+👁️ 146K • 👍 6K • 💬 18K • ⏱️ 16:32 • 2d ago
+
+---
+
+**[Samson Mow: Something BIG Is About to Happen to Bitcoin…](https://www.youtube.com/watch?v=5VaqkszkWp8)**
+
+In this interview, Bitcoin OG Samson Mow shares his view on why Bitcoin keeps falling, what's driving recent market sell-offs, and ...
+
+📺 Cointelegraph
+
+👁️ 25K • 👍 724 • 💬 135 • ⏱️ 19:09 • 1d ago
 
 ---
 
