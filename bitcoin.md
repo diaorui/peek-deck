@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-02-08T21:53:32.367872+00:00'
+updated: '2026-02-08T22:28:48.211367+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- videos
-- social
 - cryptocurrency
 - news
+- social
+- videos
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** February 08, 2026 at 21:53 UTC  
+**Last Updated:** February 08, 2026 at 22:28 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -87,7 +87,7 @@ Rank #1
 
 Im 39years old and unfortunately(or fortunately) because i had to renovate my house for last 3 years i didnt have any money to buy BTC.But i followed whole market for last 5 years with really small portofolio(less than 200€). Now i'm completely debt/loan free. Finally my 3 year bank loan ended friday,and i finally began my DCA journey into BTC at 66k. I guess im kinda lucky that it just had almost 50% drop. I know i can never time the market,and im mentally fully aware we can go back to 35-40k. The reason why i made this thread is because in my life i never talk about BTC so i guess i just wanted to share this with similar minded people
 
-1h ago
+2h ago
 
 ---
 
@@ -95,7 +95,7 @@ Im 39years old and unfortunately(or fortunately) because i had to renovate my ho
 
 Congratulations everyone on surviving the 8th biggest single day drawdown in the past 10 years. You all are legends!!!
 
-2h ago
+3h ago
 
 ---
 
@@ -103,7 +103,7 @@ Congratulations everyone on surviving the 8th biggest single day drawdown in the
 
 The Fed's money printer never stops. Balance sheet still bloated at ~$6.5T, quietly debasing your dollars while inflation eats savings. Bitcoin: fixed 21 million cap. No printing, no dilution, no central control. In a world of infinite fiat, Bitcoin is scarce, hard money - and the ultimate opt-out. Stack sats. The longer they print, the stronger the case for Bitcoin.
 
-10h ago
+11h ago
 
 ---
 
@@ -127,7 +127,7 @@ Hi everyone! Back in like 2013 or something My husband bought us some bitcoin. I
 
 'Bitcoin Is Dead' is the best database of notable Bitcoin obituaries and skeptics on the Internet. View names, quotes, publications, source links, and more!
 
-🔗 [bitbo.io](https://bitbo.io/dead/) • 5h ago
+🔗 [bitbo.io](https://bitbo.io/dead/) • 6h ago
 
 ---
 
@@ -151,7 +151,7 @@ HODL strong through the storms; the future rewards the patient. 🚀 🙌
 
 Over the past year I have received 4 unknown deposits into my Trezor hardware wallet. Each deposit was in the amount of .0000033 bitcoin. Three were in January 2025 and one so far today. Any ideas what these are and should I be worried about my Trezor. It is a Trezor safe 3. Thanks for any help.
 
-15h ago
+16h ago
 
 ---
 
@@ -334,7 +334,7 @@ Bitcoin tumbled below $61000, as the unwinding of leveraged bets and broader mar
 
 📺 Bloomberg News
 
-👁️ 821 • 👍 25 • ⏱️ 1:11 • 2h ago
+👁️ 821 • 👍 25 • ⏱️ 1:11 • 3h ago
 
 ---
 
@@ -364,7 +364,7 @@ My Free Trading Course https://www.rt1m.com/free My Discord Server (FREE) https:
 
 📺 Road To $1 Million USD
 
-👁️ 8K • 👍 290 • 💬 87 • ⏱️ 8:29 • 22h ago
+👁️ 8K • 👍 290 • 💬 87 • ⏱️ 8:29 • 23h ago
 
 ---
 
@@ -374,7 +374,7 @@ Bitcoin has been in a free-fall the past few months. At one point yesterday, it 
 
 📺 From The Desk Of Anthony Pompliano
 
-👁️ 53K • 👍 2K • 💬 391 • ⏱️ 9:43 • 1d ago
+👁️ 53K • 👍 2K • 💬 391 • ⏱️ 9:43 • 2d ago
 
 ---
 
@@ -384,7 +384,7 @@ IT'S RIGGED! What Happens Now? ✓ Bitunix (no kyc, $10000 bonus): https://www.b
 
 📺 Altcoin Daily
 
-👁️ 50K • 👍 3K • 💬 753 • ⏱️ 9:28 • 23h ago
+👁️ 50K • 👍 3K • 💬 753 • ⏱️ 9:28 • 1d ago
 
 ---
 
@@ -414,7 +414,7 @@ CNBC's “Closing Bell Overtime” team discusses cryptocurrencies, bitcoin's vo
 
 📺 CNBC Television
 
-👁️ 41K • 👍 355 • 💬 351 • ⏱️ 4:14 • 1d ago
+👁️ 41K • 👍 355 • 💬 351 • ⏱️ 4:14 • 2d ago
 
 ---
 

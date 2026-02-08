@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-02-08T21:53:32.359297+00:00'
+updated: '2026-02-08T22:28:48.203038+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- videos
 - repositories
-- social
 - news
+- social
+- videos
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** February 08, 2026 at 21:53 UTC  
+**Last Updated:** February 08, 2026 at 22:28 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -49,7 +49,7 @@ Just wanted to say thanks for the thoughtful discussion and feedback on my previ
 
 Refined view for 'Who benefits from opacity?' in Opacity as Strategy: How AI Companies Weaponize the Black Box
 
-🔗 [lightcap.ai](https://lightcap.ai/r/r_1770584351_56503c88af) • 34m ago
+🔗 [lightcap.ai](https://lightcap.ai/r/r_1770584351_56503c88af) • 1h ago
 
 ---
 
@@ -57,7 +57,7 @@ Refined view for 'Who benefits from opacity?' in Opacity as Strategy: How AI Com
 
 Every AI API provider gives you a snapshot of current usage. None of them show you trends over time, project when you will hit your limit, or let you compare across providers. I built onWatch to solve this. It runs in the background as a single Go binary, polls your configured providers every 60 seconds, stores everything locally in SQLite, and serves a web dashboard. What it shows you that providers do not: Usage history from 1 hour to 30 days Live countdowns to each quota reset Rate projections so you know if you will run out before the reset All providers side by side in one view Around 28 MB RAM, no dependencies, no telemetry, GPL-3.0. All data stays on your machine. https://onwatch.onllm.dev https://github.com/onllm-dev/onWatch
 
-11h ago
+12h ago
 
 ---
 
@@ -121,7 +121,7 @@ One of Kimi’s browser automation scripts uses a dark web library with crypto s
 
 **[Can AI Chatbots Write Emotionally Rich Romance Books?](https://www.nytimes.com/2026/02/08/business/ai-claude-romance-books.html)**
 
-The New York Times • 6h ago
+The New York Times • 7h ago
 
 ---
 
@@ -137,13 +137,13 @@ The Washington Post • 1d ago
 
 Slowing down the slop.
 
-theverge.com • 48m ago
+theverge.com • 1h ago
 
 ---
 
 **[Opinion | Congress Shouldn’t Stop AI Innovation](https://www.wsj.com/opinion/congress-shouldnt-stop-ai-innovation-a46a6dd2?gaa_at=eafs&gaa_n=AWEtsqeugX2hdlwpp6K-MkyZC6iULqGVR723BV73HH65UZJCZwiE02l-CM5n&gaa_ts=69890944&gaa_sig=RkaOX72nkz3V487iiVNvDa7ys58zpQPmuiEGSpI1LoZHDPMn7UrceUW1XyZqhsfwBQrumR7qlY0N92xPRd8rYw%3D%3D)**
 
-The Wall Street Journal • 57m ago
+The Wall Street Journal • 1h ago
 
 ---
 
@@ -151,7 +151,7 @@ The Wall Street Journal • 57m ago
 
 Protecting your portfolio from a crash looks harder than ever
 
-The Economist • 7h ago
+The Economist • 8h ago
 
 ---
 
@@ -175,7 +175,7 @@ MIT Technology Review • 2d ago
 
 While AI is having an impact on the workplace, experts suggest tariffs, overhiring during the pandemic and simply maximising profits may be bigger factors
 
-The Guardian • 5h ago
+The Guardian • 6h ago
 
 ---
 
@@ -219,7 +219,7 @@ The hundreds of billions of dollars being spent by tech companies on AI projects
 
 You're using AI to be more productive. So why are you more exhausted than ever? The paradox every engineer needs to confront.
 
-⬆️ 372 • 💬 270 • 7h ago • [Siddhant Khare](https://siddhantkhare.com/writing/ai-fatigue-is-real)
+⬆️ 372 • 💬 270 • 8h ago • [Siddhant Khare](https://siddhantkhare.com/writing/ai-fatigue-is-real)
 
 ---
 
@@ -243,7 +243,7 @@ A minimal, secure Python interpreter written in Rust for use by AI - pydantic/mo
 
 Contribute to localgpt-app/localgpt development by creating an account on GitHub.
 
-⬆️ 308 • 💬 144 • 20h ago • [GitHub](https://github.com/localgpt-app/localgpt)
+⬆️ 308 • 💬 144 • 21h ago • [GitHub](https://github.com/localgpt-app/localgpt)
 
 ---
 
@@ -251,7 +251,7 @@ Contribute to localgpt-app/localgpt development by creating an account on GitHub
 
 Matchlock secures AI agent workloads with a Linux-based sandbox. - jingkaihe/matchlock
 
-⬆️ 132 • 💬 55 • 13h ago • [GitHub](https://github.com/jingkaihe/matchlock)
+⬆️ 132 • 💬 55 • 14h ago • [GitHub](https://github.com/jingkaihe/matchlock)
 
 ---
 
@@ -299,7 +299,7 @@ Become a member! ✓ https://www.youtube.com/channel/UCahJ9IsvXnaQiuNyWQSkrkw/jo
 
 📺 BlazeTV
 
-👁️ 9K • 👍 670 • 💬 108 • ⏱️ 13:47 • 9h ago
+👁️ 9K • 👍 670 • 💬 108 • ⏱️ 13:47 • 10h ago
 
 ---
 
@@ -309,7 +309,7 @@ Navellier and Associates chairman, founder and CIO Louis Navellier discusses how
 
 📺 Fox Business
 
-👁️ 10K • 👍 162 • 💬 111 • ⏱️ 5:09 • 18h ago
+👁️ 10K • 👍 162 • 💬 111 • ⏱️ 5:09 • 19h ago
 
 ---
 
@@ -319,7 +319,7 @@ Can you spot AI videos easily? #tech #ai #surfshark.
 
 📺 Surfshark Academy
 
-👁️ 9K • 👍 2K • 💬 52 • ⏱️ 1:17 • 6h ago
+👁️ 9K • 👍 2K • 💬 52 • ⏱️ 1:17 • 7h ago
 
 ---
 
@@ -667,7 +667,7 @@ LLM驱动的 A/H/美股智能分析器，多数据源行情 + 实时新闻 + Gem
 
 `Python` `agent` `ai` `aigc` `gemini` `llm`
 
-⭐ 9.9k • 🔱 10.4k • 11h ago
+⭐ 9.9k • 🔱 10.4k • 12h ago
 
 ---
 
@@ -677,7 +677,7 @@ The Ultimate Collection of 700+ Agentic Skills for Claude Code/Antigravity/Curso
 
 `Python` `agentic-skills` `ai-agents` `antigravity` `autonomous-coding` `claude-code`
 
-⭐ 7.9k • 🔱 1.6k • 11h ago
+⭐ 7.9k • 🔱 1.6k • 12h ago
 
 ---
 
@@ -713,7 +713,7 @@ OpenSource Claude Cowork. A desktop AI assistant that helps you with programming
 
 `TypeScript`
 
-⭐ 2.8k • 🔱 378 • 18h ago
+⭐ 2.8k • 🔱 378 • 19h ago
 
 ---
 
