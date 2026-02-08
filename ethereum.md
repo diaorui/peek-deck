@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-02-08T20:55:30.336470+00:00'
+updated: '2026-02-08T21:29:03.527104+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- news
-- cryptocurrency
 - videos
+- news
 - social
+- cryptocurrency
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** February 08, 2026 at 20:55 UTC  
+**Last Updated:** February 08, 2026 at 21:29 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -72,7 +72,7 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-14h ago
+15h ago
 
 ---
 
@@ -88,7 +88,7 @@ So I have some eth staked on coinbase but wondering how risky it is.. should I b
 
 Hey Redditors, I’m feeling pretty confused right now and could really use your collective wisdom: should I sell my Bitcoin and Ethereum, or should I hold tight through this volatility? I’ve been successfully trading stocks and options for over 20 years; everything from forex to commodities….but I finally decided to dip my toes into crypto for the first time late last year, thinking it was the next big diversification play for me. Here’s the deal: I bought in at Bitcoin around $82k USD and grabbed ETH at roughly $3,800 each. Fast forward to now in early February 2026, BTC’s hovering around $71k after some wild swings (dipped below $61k recently, now rebounding a bit), and ETH is sitting lower too amid all the “crypto winter” chatter, whale sells, ETF flows, and macro noise like Fed uncertainty and seasonal sell-offs. I’m down on paper, which stings after decades of stock market discipline, but I’ve seen cycles before; just not ones this intense! As a newbie to this space (stocks felt way more predictable), I’m torn: Cut losses and rotate back to traditional markets? HODL for the long-term upside with institutional adoption and potential QE boosts? Dollar-cost average down? Or maybe sell half and let the rest ride? What’s worked for you in similar spots, especially fellow stock vets who’ve crossed over? Thanks a ton!
 
-1h ago
+2h ago
 
 ---
 
@@ -96,7 +96,7 @@ Hey Redditors, I’m feeling pretty confused right now and could really use your
 
 I manually architected a Dual-STACK Execution and Consensus Engine that bypasses the entire public RPC industry. Hardware; Managed a 4TB NVMe volume with 3.3TB Optimism state and a pruned L1 Reth/Lighthouse combo. I compiled Lighthouse and Reth from source after Optimism-specific codebase was deprecated mid-sync. I achieved 0ms IPC round trips by killing the dependency on Alchemy/Infura Ran into a few problems along the way. I tried to run a standard Ethereum binary on Optimism data. The node crashed because it saw a transaction type it didn't recognize (Type 126 which is an Optimism deposit) Standard Ethereum node thinks this is illegal data. To fix it, I identified that i needed a specialized OP-Stack aware version of Reth. I tracked down the Paradigm Reth Optimism binary. By switching to the op-reth binary i gave the node the dictionary it needed to translate those Type 126 deposits into valid blocks. I moved from a blind Ethereum node to a Super chain-aware engine. The Reth engine was idling. It had peers and a database, but it didn't know where the tip of the chain was, so it stayed at block 0. I realized a modern node was a Two-Part Machine. So I built the Lighthouse Consensus Client from source to be the "Driver" Instead of waiting weeks to download the chain from 2015 i used a Checkpoint Sync URL. I linked Lighthouse to Reth via the Engine API ()Port 8551/8552) using a shared JWT Secret. The moment Lighthouse found the "Truth" on the network, it handed the coordinates to Reth. The node immediately jumped from 0 to 21,800,000 and the 1.9TB of free space started filling with real history. The real nightmare scenario happened when I was syncing the snapshot data and because of a single transaction type the whole thing crashed. My sync was flying for about 15 hours and when I woke up to check it found it had stalled. It hit block 144,528215 where it encountered an Optimism-specific Type 126 Deposit transaction. Because I was running the standard Ethereum Reth binary instead of the specialized Op-Reth version from paradigm, the node literally didn't have the code to read it understand what type 126 transaction it was. This didn't just crash the sync, it left garbage data at the tip of my database, which blocked further progress until I swapped binary and manually forced a stage rewind to clear corruption. In the grand scheme of thing's it was a rookie mistake.
 
-2h ago
+3h ago
 
 ---
 
@@ -104,7 +104,7 @@ I manually architected a Dual-STACK Execution and Consensus Engine that bypasses
 
 Non-custodial privacy protocol for anonymous ETH transactions. Break the on-chain link using zero-knowledge proofs. Live on Ethereum mainnet.
 
-🔗 [Laundry Cash](https://ethlaundry.xyz) • 3h ago
+🔗 [Laundry Cash](https://ethlaundry.xyz) • 4h ago
 
 ---
 
@@ -208,7 +208,7 @@ The Motley Fool • 1d ago
 
 The world's second-largest cryptocurrency still has a bright future.
 
-Yahoo Finance • 2d ago
+Yahoo Finance • 3d ago
 
 ---
 
@@ -216,7 +216,7 @@ Yahoo Finance • 2d ago
 
 Solana may be outperforming Ethereum across key metrics right now.
 
-AMBCrypto • 15h ago
+AMBCrypto • 16h ago
 
 ---
 
@@ -224,7 +224,7 @@ AMBCrypto • 15h ago
 
 Ethereum (ETH) has declined noticeably over the past week, with price data from CoinMarketCap reporting a net 14% decline within this period. At the time of the most recent data, ETH is trading around $2,000, significantly lower than the past week’s level near $2,500. ETH Funding Rates Signal A Bul…
 
-TradingView • 12h ago
+TradingView • 13h ago
 
 ---
 
@@ -238,7 +238,7 @@ This video provides a professional Elliott Wave and technical analysis of Ethere
 
 📺 More Crypto Online
 
-👁️ 2K • 👍 169 • 💬 23 • ⏱️ 5:58 • 4h ago
+👁️ 2K • 👍 169 • 💬 23 • ⏱️ 5:58 • 5h ago
 
 ---
 
@@ -248,7 +248,7 @@ ETHEREUM ETH PRICE PREDICTION 2026 Join the Premium Signal Group for trade setup
 
 📺 Cilinix Crypto
 
-👁️ 792 • 👍 20 • 💬 12 • ⏱️ 4:21 • 10h ago
+👁️ 792 • 👍 20 • 💬 12 • ⏱️ 4:21 • 11h ago
 
 ---
 
@@ -258,7 +258,7 @@ Want a free $30000 bonus + $20 just for signing up? Go here: ...
 
 📺 BitcoinHyper
 
-👁️ 1K • 👍 165 • 4h ago
+👁️ 1K • 👍 165 • 5h ago
 
 ---
 
@@ -268,7 +268,7 @@ Tom Lee, Fundstrat, joins 'Closing Bell' to discuss the state of crypto markets,
 
 📺 CNBC Television
 
-👁️ 82K • 👍 834 • 💬 327 • ⏱️ 3:53 • 1d ago
+👁️ 82K • 👍 834 • 💬 327 • ⏱️ 3:53 • 2d ago
 
 ---
 
@@ -278,7 +278,7 @@ This video provides a professional Elliott Wave and technical analysis of Ethere
 
 📺 More Crypto Online
 
-👁️ 3K • 👍 210 • 💬 12 • ⏱️ 5:21 • 14h ago
+👁️ 3K • 👍 210 • 💬 12 • ⏱️ 5:21 • 15h ago
 
 ---
 
@@ -298,7 +298,7 @@ L'exchange crypto le plus sérieux du marché, c'est lui. Régulé US & Europe, 
 
 📺 Crypto Mindset Podcast 
 
-👁️ 3K • 👍 192 • 💬 61 • ⏱️ 10:19 • 8h ago
+👁️ 3K • 👍 192 • 💬 61 • ⏱️ 10:19 • 9h ago
 
 ---
 

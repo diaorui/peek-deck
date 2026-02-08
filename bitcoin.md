@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-02-08T20:55:30.330461+00:00'
+updated: '2026-02-08T21:29:03.521076+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- news
-- cryptocurrency
 - videos
+- news
 - social
+- cryptocurrency
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** February 08, 2026 at 20:55 UTC  
+**Last Updated:** February 08, 2026 at 21:29 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -87,7 +87,7 @@ Rank #1
 
 The Fed's money printer never stops. Balance sheet still bloated at ~$6.5T, quietly debasing your dollars while inflation eats savings. Bitcoin: fixed 21 million cap. No printing, no dilution, no central control. In a world of infinite fiat, Bitcoin is scarce, hard money - and the ultimate opt-out. Stack sats. The longer they print, the stronger the case for Bitcoin.
 
-9h ago
+10h ago
 
 ---
 
@@ -103,7 +103,7 @@ Guys, if you've been in this for 7-10 years, you see the same nonsense being spo
 
 'Bitcoin Is Dead' is the best database of notable Bitcoin obituaries and skeptics on the Internet. View names, quotes, publications, source links, and more!
 
-🔗 [bitbo.io](https://bitbo.io/dead/) • 4h ago
+🔗 [bitbo.io](https://bitbo.io/dead/) • 5h ago
 
 ---
 
@@ -127,7 +127,7 @@ Hi everyone! Back in like 2013 or something My husband bought us some bitcoin. I
 
 Im 39years old and unfortunately(or fortunately) because i had to renovate my house for last 3 years i didnt have any money to buy BTC.But i followed whole market for last 5 years with really small portofolio(less than 200€). Now i'm completely debt/loan free. Finally my 3 year bank loan ended friday,and i finally began my DCA journey into BTC at 66k. I guess im kinda lucky that it just had almost 50% drop. I know i can never time the market,and im mentally fully aware we can go back to 35-40k. The reason why i made this thread is because in my life i never talk about BTC so i guess i just wanted to share this with similar minded people
 
-41m ago
+1h ago
 
 ---
 
@@ -149,7 +149,7 @@ Over the past year I have received 4 unknown deposits into my Trezor hardware wa
 
 **[The uncomfortable truth about following crypto experts](https://www.reddit.com/r/Bitcoin/comments/1qzb0ml/the_uncomfortable_truth_about_following_crypto/)**
 
-🔗 [X (formerly Twitter)](https://x.com/rustyshrink/status/2020307703353012477?s%3D12) • 5h ago
+🔗 [X (formerly Twitter)](https://x.com/rustyshrink/status/2020307703353012477?s%3D12) • 6h ago
 
 ---
 
@@ -332,7 +332,7 @@ Bitcoin tumbled below $61000, as the unwinding of leveraged bets and broader mar
 
 📺 Bloomberg News
 
-👁️ 821 • 👍 25 • ⏱️ 1:11 • 1h ago
+👁️ 821 • 👍 25 • ⏱️ 1:11 • 2h ago
 
 ---
 
@@ -362,7 +362,7 @@ My Free Trading Course https://www.rt1m.com/free My Discord Server (FREE) https:
 
 📺 Road To $1 Million USD
 
-👁️ 8K • 👍 290 • 💬 87 • ⏱️ 8:29 • 21h ago
+👁️ 8K • 👍 290 • 💬 87 • ⏱️ 8:29 • 22h ago
 
 ---
 
@@ -382,7 +382,7 @@ IT'S RIGGED! What Happens Now? ✓ Bitunix (no kyc, $10000 bonus): https://www.b
 
 📺 Altcoin Daily
 
-👁️ 50K • 👍 3K • 💬 753 • ⏱️ 9:28 • 22h ago
+👁️ 50K • 👍 3K • 💬 753 • ⏱️ 9:28 • 23h ago
 
 ---
 

@@ -3,13 +3,13 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-02-08T20:55:30.321869+00:00'
+updated: '2026-02-08T21:29:03.512779+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- news
 - videos
+- news
 - social
 - repositories
 ---
@@ -18,7 +18,7 @@ data_types:
 
 AI news, discussions, and developments
 
-**Last Updated:** February 08, 2026 at 20:55 UTC  
+**Last Updated:** February 08, 2026 at 21:29 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -49,7 +49,7 @@ Just wanted to say thanks for the thoughtful discussion and feedback on my previ
 
 Every AI API provider gives you a snapshot of current usage. None of them show you trends over time, project when you will hit your limit, or let you compare across providers. I built onWatch to solve this. It runs in the background as a single Go binary, polls your configured providers every 60 seconds, stores everything locally in SQLite, and serves a web dashboard. What it shows you that providers do not: Usage history from 1 hour to 30 days Live countdowns to each quota reset Rate projections so you know if you will run out before the reset All providers side by side in one view Around 28 MB RAM, no dependencies, no telemetry, GPL-3.0. All data stays on your machine. https://onwatch.onllm.dev https://github.com/onllm-dev/onWatch
 
-10h ago
+11h ago
 
 ---
 
@@ -121,7 +121,7 @@ Goldman Sachs is building AI agents with Anthropic’s Claude to automate trade 
 
 **[Can AI Chatbots Write Emotionally Rich Romance Books?](https://www.nytimes.com/2026/02/08/business/ai-claude-romance-books.html)**
 
-The New York Times • 5h ago
+The New York Times • 6h ago
 
 ---
 
@@ -137,7 +137,7 @@ The Washington Post • 1d ago
 
 The purchase rewrites the domain record books -- not that the crypto industry has ever been accused of restraint when it comes to spending.
 
-TechCrunch • 35m ago
+TechCrunch • 1h ago
 
 ---
 
@@ -151,7 +151,7 @@ Yahoo • 1h ago
 
 **[AI Fear Grips Wall Street as a New Stock Market Reality Sets In](https://www.bloomberg.com/news/articles/2026-02-08/ai-fear-grips-wall-street-as-a-new-stock-market-reality-sets-in)**
 
-bloomberg.com • 6h ago
+bloomberg.com • 7h ago
 
 ---
 
@@ -167,7 +167,7 @@ BBC • 2d ago
 
 Executives face choice between cutting returns to shareholders, raiding reserves or tapping the markets
 
-Financial Times • 55m ago
+Financial Times • 1h ago
 
 ---
 
@@ -175,7 +175,7 @@ Financial Times • 55m ago
 
 AI isn't just hitting software valuations — it's changing how software companies operate.
 
-Axios • 14h ago
+Axios • 15h ago
 
 ---
 
@@ -183,7 +183,7 @@ Axios • 14h ago
 
 While AI is having an impact on the workplace, experts suggest tariffs, overhiring during the pandemic and simply maximising profits may be bigger factors
 
-The Guardian • 4h ago
+The Guardian • 5h ago
 
 ---
 
@@ -219,7 +219,7 @@ The hundreds of billions of dollars being spent by tech companies on AI projects
 
 You're using AI to be more productive. So why are you more exhausted than ever? The paradox every engineer needs to confront.
 
-⬆️ 361 • 💬 264 • 6h ago • [Siddhant Khare](https://siddhantkhare.com/writing/ai-fatigue-is-real)
+⬆️ 361 • 💬 264 • 7h ago • [Siddhant Khare](https://siddhantkhare.com/writing/ai-fatigue-is-real)
 
 ---
 
@@ -235,7 +235,7 @@ AI is rarely optional anymore, but how can you still be proud of your craft? Dis
 
 A minimal, secure Python interpreter written in Rust for use by AI - pydantic/monty
 
-⬆️ 317 • 💬 164 • 1d ago • [GitHub](https://github.com/pydantic/monty)
+⬆️ 317 • 💬 164 • 2d ago • [GitHub](https://github.com/pydantic/monty)
 
 ---
 
@@ -243,7 +243,7 @@ A minimal, secure Python interpreter written in Rust for use by AI - pydantic/mo
 
 Contribute to localgpt-app/localgpt development by creating an account on GitHub.
 
-⬆️ 305 • 💬 143 • 19h ago • [GitHub](https://github.com/localgpt-app/localgpt)
+⬆️ 305 • 💬 143 • 20h ago • [GitHub](https://github.com/localgpt-app/localgpt)
 
 ---
 
@@ -259,7 +259,7 @@ Women in rural communities describe trauma of moderating violent and pornographi
 
 Matchlock secures AI agent workloads with a Linux-based sandbox. - jingkaihe/matchlock
 
-⬆️ 126 • 💬 51 • 12h ago • [GitHub](https://github.com/jingkaihe/matchlock)
+⬆️ 126 • 💬 51 • 13h ago • [GitHub](https://github.com/jingkaihe/matchlock)
 
 ---
 
@@ -299,7 +299,7 @@ Become a member! ✓ https://www.youtube.com/channel/UCahJ9IsvXnaQiuNyWQSkrkw/jo
 
 📺 BlazeTV
 
-👁️ 9K • 👍 670 • 💬 108 • ⏱️ 13:47 • 8h ago
+👁️ 9K • 👍 670 • 💬 108 • ⏱️ 13:47 • 9h ago
 
 ---
 
@@ -309,7 +309,7 @@ Navellier and Associates chairman, founder and CIO Louis Navellier discusses how
 
 📺 Fox Business
 
-👁️ 10K • 👍 162 • 💬 111 • ⏱️ 5:09 • 17h ago
+👁️ 10K • 👍 162 • 💬 111 • ⏱️ 5:09 • 18h ago
 
 ---
 
@@ -319,7 +319,7 @@ Can you spot AI videos easily? #tech #ai #surfshark.
 
 📺 Surfshark Academy
 
-👁️ 9K • 👍 2K • 💬 52 • ⏱️ 1:17 • 5h ago
+👁️ 9K • 👍 2K • 💬 52 • ⏱️ 1:17 • 6h ago
 
 ---
 
@@ -369,7 +369,7 @@ India's IT sector just got hit with its biggest shock in 4 months. The Nifty IT 
 
 📺 Mark Savant
 
-👁️ 21K • 👍 592 • 💬 282 • ⏱️ 18:25 • 23h ago
+👁️ 21K • 👍 592 • 💬 282 • ⏱️ 18:25 • 1d ago
 
 ---
 
@@ -667,7 +667,7 @@ LLM驱动的 A/H/美股智能分析器，多数据源行情 + 实时新闻 + Gem
 
 `Python` `agent` `ai` `aigc` `gemini` `llm`
 
-⭐ 9.9k • 🔱 10.4k • 10h ago
+⭐ 9.9k • 🔱 10.4k • 11h ago
 
 ---
 
@@ -677,7 +677,7 @@ The Ultimate Collection of 700+ Agentic Skills for Claude Code/Antigravity/Curso
 
 `Python` `agentic-skills` `ai-agents` `antigravity` `autonomous-coding` `claude-code`
 
-⭐ 7.9k • 🔱 1.6k • 10h ago
+⭐ 7.9k • 🔱 1.6k • 11h ago
 
 ---
 
@@ -713,7 +713,7 @@ OpenSource Claude Cowork. A desktop AI assistant that helps you with programming
 
 `TypeScript`
 
-⭐ 2.8k • 🔱 378 • 17h ago
+⭐ 2.8k • 🔱 378 • 18h ago
 
 ---
 
