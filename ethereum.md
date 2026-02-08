@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-02-08T05:04:18.929536+00:00'
+updated: '2026-02-08T06:12:08.572459+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- cryptocurrency
-- social
-- videos
 - news
+- social
+- cryptocurrency
+- videos
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** February 08, 2026 at 05:04 UTC  
+**Last Updated:** February 08, 2026 at 06:12 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,8 +42,8 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** +1.7%  
-**7d:** -11.2%  
+**24h:** +2.5%  
+**7d:** -11.3%  
 **30d:** -32.6%  
 **90d:** -39.0%  
 **1y:** -20.8%  
@@ -68,17 +68,25 @@ No max supply
 
 ## Reddit: r/ethereum
 
+**[Daily General Discussion February 08, 2026](https://www.reddit.com/r/ethereum/comments/1qz13nm/daily_general_discussion_february_08_2026/)**
+
+Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
+
+11m ago
+
+---
+
 **[Daily General Discussion February 07, 2026](https://www.reddit.com/r/ethereum/comments/1qy5yxh/daily_general_discussion_february_07_2026/)**
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-23h ago
+1d ago
 
 ---
 
 **[We're building an open-source archive of the earliest Ethereum smart contracts (2015-2017) — looking for contributors](https://www.reddit.com/r/ethereum/comments/1qymum3/were_building_an_opensource_archive_of_the/)**
 
-9h ago
+10h ago
 
 ---
 
@@ -86,7 +94,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-1d ago
+2d ago
 
 ---
 
@@ -126,19 +134,13 @@ Good morning, could anyone recommend some good reading material to learn more ab
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-2d ago
+3d ago
 
 ---
 
 **[Error: There is a Pending txn with a lower account nonce. This txn can only be executed after confirmation of the earlier Txn Hash#](https://www.reddit.com/r/ethereum/comments/1qwynfb/error_there_is_a_pending_txn_with_a_lower_account/)**
 
 https://etherscan.io/tx/0xaab90d00abf065e4158852a64c809b8921d109e997bd3790cb471aadfa57f4e0 I've been waiting for this transaction for almost an hour (trying to transfer from Newton to TrustWallet). There seem to be hundreds of transactions from the same address that I don't recognize. Have I been hacked? Update: It's fixed now, just had to wait a couple hours.
-
-2d ago
-
----
-
-**[Incorrect Aave Transaction History list](https://www.reddit.com/r/ethereum/comments/1qwsgej/incorrect_aave_transaction_history_list/)**
 
 2d ago
 
@@ -156,27 +158,19 @@ The Block • 1d ago
 
 ---
 
+**[Coinbase's Crypto-Backed Loans Notch Record Liquidations Amid Bitcoin, Ethereum Plunge](https://decrypt.co/357265/coinbases-loans-record-liquidations-bitcoin-ethereum-plunge)**
+
+Coinbase customers faced losses in fresh ways through the exchange’s crypto-backed lending product as Bitcoin and Ethereum tumbled this week.
+
+Decrypt • 1d ago
+
+---
+
 **[Crypto prices on Friday: Bitcoin, Ethereum and more tick upward](https://mashable.com/article/crypto-bitcoin-ethereum-prices-tick-upward-friday-2-6-2026)**
 
 Prices are climbing back up after the biggest crypto crash since 2022.
 
 Mashable • 1d ago
-
----
-
-**[Crypto Treasuries Fall Deeply Underwater as Bitcoin, Ethereum and Solana Dive](https://decrypt.co/357130/crypto-treasury-underwater-bitcoin-ethereum-solana-dive)**
-
-Prominent publicly traded crypto treasury firms are underwater on their holdings as Bitcoin and Ethereum keep falling.
-
-Decrypt • 2d ago
-
----
-
-**[Bitcoin, Ethereum Liquidations Hit $704M In 24 Hours—And $70,000 Could Break, Polymarket Predicts](https://finance.yahoo.com/news/bitcoin-ethereum-liquidations-hit-704m-120113179.html)**
-
-Bitcoin (CRYPTO: BTC) traders are bracing for more pain after liquidations reached $704 million in a single 24-hour period. The sharp sell-off has crypto investors turning to prediction markets for clues on where the bottom might be. What Polymarket Traders Are Predicting Polymarket is currently flashing warning signs for the immediate future. The “What price will Bitcoin hit in February?” market, which has already cleared $14 million in volume, now places a 56% probability on Bitcoin sliding to
-
-Yahoo Finance • 2d ago
 
 ---
 
@@ -208,7 +202,7 @@ CoinDesk • 2d ago
 
 A closer look at Sharplink’s price and underlying fundamentals points to a compelling entry point here. Read more on the bullish thesis of SBET stock.
 
-Seeking Alpha • 1h ago
+Seeking Alpha • 3h ago
 
 ---
 
@@ -216,7 +210,7 @@ Seeking Alpha • 1h ago
 
 Ethereum's shift to a new cryptocurrency mining mechanism has demonstrated how the industry is changing its ways.
 
-The Cool Down • 13h ago
+The Cool Down • 14h ago
 
 ---
 
@@ -224,7 +218,15 @@ The Cool Down • 13h ago
 
 Ethereum is quietly setting up for a potentially decisive move as the Libra formation remains active on the weekly chart. While confirmation is still pending, the structure has not been invalidated, keeping the upside scenario firmly on the table. With key resistance levels overhead and momentum be…
 
-TradingView • 6h ago
+TradingView • 7h ago
+
+---
+
+**[Here's What Needs to Happen for Ethereum to Hit $5,000 This Year](https://www.fool.com/investing/2026/02/05/heres-what-needs-to-happen-for-ethereum-to-hit-500/)**
+
+Will 2026 be the year investors see the price they've dreamed of?
+
+The Motley Fool • 2d ago
 
 ---
 
@@ -238,7 +240,7 @@ BITCOIN & ALTCOINS: New Targets Confirmed (Prepare Now)!!! - Bitcoin News Today,
 
 📺 Crypto World
 
-👁️ 7K • 👍 321 • 💬 116 • ⏱️ 17:07 • 7h ago
+👁️ 7K • 👍 321 • 💬 116 • ⏱️ 17:07 • 8h ago
 
 ---
 
@@ -248,7 +250,7 @@ This video provides a professional Elliott Wave and technical analysis of Ethere
 
 📺 More Crypto Online
 
-👁️ 3K • 👍 195 • 💬 10 • ⏱️ 4:56 • 8h ago
+👁️ 3K • 👍 195 • 💬 10 • ⏱️ 4:56 • 9h ago
 
 ---
 
@@ -278,7 +280,7 @@ Tangem 20% off + $10 in Bitcoin ➡️➡️ Use codes "NYEXTRA26" & "CRYPTOCREW
 
 📺 Your Crypto Crew
 
-👁️ 1K • 👍 135 • 💬 30 • ⏱️ 12:26 • 14h ago
+👁️ 1K • 👍 135 • 💬 30 • ⏱️ 12:26 • 15h ago
 
 ---
 
@@ -288,7 +290,7 @@ ETHEREUM ETH PRICE PREDICTION 2026 Join the Premium Signal Group for trade setup
 
 📺 Cilinix Crypto
 
-👁️ 775 • 👍 28 • 💬 8 • ⏱️ 5:23 • 18h ago
+👁️ 775 • 👍 28 • 💬 8 • ⏱️ 5:23 • 19h ago
 
 ---
 
@@ -328,7 +330,7 @@ Donation Address: yourfriendsommi.eth / yourfriendsommi.pls Click Subscribe + Be
 
 📺 🌟yourfriendsommi
 
-👁️ 634 • 👍 131 • 💬 31 • ⏱️ 11:31 • 2h ago
+👁️ 634 • 👍 131 • 💬 31 • ⏱️ 11:31 • 3h ago
 
 ---
 
