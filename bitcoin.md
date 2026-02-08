@@ -3,7 +3,7 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-02-07T23:35:43.929431+00:00'
+updated: '2026-02-08T02:37:54.006070+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
@@ -18,7 +18,7 @@ data_types:
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** February 07, 2026 at 23:35 UTC  
+**Last Updated:** February 08, 2026 at 02:37 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,33 +38,33 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $69,440.68
+### $69,408.43
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** -1.2%  
-**7d:** -10.1%  
-**30d:** -23.6%  
-**90d:** -34.9%  
-**1y:** -28.3%  
+**24h:** -2.3%  
+**7d:** -12.0%  
+**30d:** -23.3%  
+**90d:** -32.8%  
+**1y:** -28.1%  
 
 ---
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1386.60B
+**Market Cap:** $1386.88B
 Rank #1
 
-**Circulating Supply:** 19,985,843 BTC
+**Circulating Supply:** 19,985,909 BTC
 95.2% of max
 
 **All-Time High:** $126,080.00
 -45.0%
 
 **All-Time Low:** $67.81
-+102213.8%
++102106.2%
 
 ---
 
@@ -77,11 +77,9 @@ Rank #1
 
 ## Reddit: r/Bitcoin
 
-**[Self-custody is becoming a trap for retail investors. There, I said it.](https://www.reddit.com/r/Bitcoin/comments/1qyqedd/selfcustody_is_becoming_a_trap_for_retail/)**
+**[Comforting my friend who bought BTC @ 120k](https://www.reddit.com/r/Bitcoin/comments/1qyt31t/comforting_my_friend_who_bought_btc_120k/)**
 
-We need to stop acting like it’s 2013. The "Not your keys, not your coins" mantra has become a dangerous dogma that’s causing more harm than good for the average person entering the space today. I’ve seen more people lose their life savings because of a lost seed phrase, a compromised hot wallet, or a $500 "safe" hardware device that they didn't know how to update, than people losing money on Top-Tier exchanges in the last 3 years. Here is the uncomfortable truth: User Error > Exchange Risk: For 90% of people, a regulated, multi-billion dollar exchange with 2FA, Biometrics, and Insurance is objectively safer than a piece of paper hidden under a mattress. The "Freedom" is a lie: You aren't "free" when you're terrified to send a test transaction because one typo means your money is gone forever. The UX of Wallets is trash: Until we have seamless account abstraction, telling a grandma to use a cold wallet is basically telling her to set her money on fire. Most of you are gatekeeping crypto by forcing 15-year-old security standards on a 2026 market. If we want mass adoption, we have to admit that centralized, secure platforms are the superior choice for the masses. Downvote me all you want, but you know I’m right. I’d rather have my funds insured on a pro-tier exchange than rely on my own ability not to lose a 12-word string for the next 20 years. Change my mind. Or tell me why you still enjoy the anxiety of being your own bank.
-
-1h ago
+3h ago
 
 ---
 
@@ -89,15 +87,15 @@ We need to stop acting like it’s 2013. The "Not your keys, not your coins" man
 
 HODL strong through the storms; the future rewards the patient. 🚀 🙌
 
-5h ago
+8h ago
 
 ---
 
-**[Whales are accumulating](https://www.reddit.com/r/Bitcoin/comments/1qycpon/whales_are_accumulating/)**
+**[Buy anyways](https://www.reddit.com/r/Bitcoin/comments/1qysc8s/buy_anyways/)**
 
-If you see blockchain activity whales are clearly accumulating taking BTC outside exchanges. It seems this is contrarian to people saying that BTC will bottom around 45k-55k. I believe (and hope) that bottom is in and the liquidation of this week has been a great opportunity to accumulate, decrease btc availability on exchanges and bring price to 100k +
+Guys, do you realize how much you regret not buying about ten years ago? Today, the price of BTC has been cut in half, and you’re hesitating between “the market is collapsing” or “the market will bounce back.” Buy either way—personally, that’s what I’m doing. I’m not saying the price will go back up. Of course I hope it will, but I honestly have no idea, and absolutely no one can know. I’d rather tell myself that I bought for nothing and lost some money than tell myself that I missed this opportunity a second time—especially when this time, I’m aware it might actually be one. (traduced from french by chatgpt)
 
-10h ago
+3h ago
 
 ---
 
@@ -107,9 +105,25 @@ If you see blockchain activity whales are clearly accumulating taking BTC outsid
 
 ---
 
+**[Whales are accumulating](https://www.reddit.com/r/Bitcoin/comments/1qycpon/whales_are_accumulating/)**
+
+If you see blockchain activity whales are clearly accumulating taking BTC outside exchanges. It seems this is contrarian to people saying that BTC will bottom around 45k-55k. I believe (and hope) that bottom is in and the liquidation of this week has been a great opportunity to accumulate, decrease btc availability on exchanges and bring price to 100k +
+
+14h ago
+
+---
+
 **[Buy The dip](https://www.reddit.com/r/Bitcoin/comments/1qygmls/buy_the_dip/)**
 
-8h ago
+11h ago
+
+---
+
+**[Borrowed against my 401k for BTC](https://www.reddit.com/r/Bitcoin/comments/1qyuld4/borrowed_against_my_401k_for_btc/)**
+
+Not financial advice weekly RSIs below 30 and clear support approaching around the $50,000 level. I am borrowing against my 401(k) for the next 52 weeks to allow some capital upfront to take advantage of these prices. 6.75% interest paid back into my 401k after the 52 weeks which is a win-win for me. See you in five years.
+
+1h ago
 
 ---
 
@@ -117,7 +131,15 @@ If you see blockchain activity whales are clearly accumulating taking BTC outsid
 
 My mother barely uses Facebook and has zero interest in technology or finance. Yet here we are: she asked me to help her buy Bitcoin. Over the past months, I’ve talked a lot about Bitcoin at home — why I believe in it, my long-term goals, scarcity, adoption, etc. I guess at some point it clicked for her. The problem is… now I’m scared. Even though I truly believe in Bitcoin’s future, I’m afraid of a few things: What if things don’t go as expected? What if she doesn’t live long enough to really see the benefits of this investment? What if she can’t mentally handle the volatility and panic during big drawdowns? This feels very different from investing my own money. If Bitcoin drops 50%, I can handle it. If her money drops 50%, that’s a different emotional weight. I don’t want to be irresponsible or turn into “that guy” who convinced a family member to invest and then regrets it forever. So I’m asking those of you who’ve been here longer or have more life experience: What would you do in my position?
 
-6h ago
+9h ago
+
+---
+
+**[Every few years the same sentiment](https://www.reddit.com/r/Bitcoin/comments/1qyrpap/every_few_years_the_same_sentiment/)**
+
+Just wanted to share my few as an observer. Have been observing bitcoin for many years. And after every price crash, there are the same questions: Is this the end of bitcoin? Was it all just a bubble? And after bitcoin regenerates, people regret not buying some. I find it amusing. I myself bought bitcoin this time, because I want to be a part of the party. Disclaimer: no financial advise from me 😄
+
+3h ago
 
 ---
 
@@ -125,29 +147,7 @@ My mother barely uses Facebook and has zero interest in technology or finance. Y
 
 ​
 
-17h ago
-
----
-
-**[Bitcoin up: I should’ve bought before, on the next big drop I’m definitely buying. Bitcoin down: It’s all a scam anyways, I’m glad I never bought.](https://www.reddit.com/r/Bitcoin/comments/1qycxzo/bitcoin_up_i_shouldve_bought_before_on_the_next/)**
-
-Basically
-
-10h ago
-
----
-
-**[Bought my first piece of bitcoin](https://www.reddit.com/r/Bitcoin/comments/1qylwwo/bought_my_first_piece_of_bitcoin/)**
-
-Yup u heard it here First Ladies n gents. Bought $200 worth of btc during this dip. Safe to say we're holding till the moon 😎
-
-4h ago
-
----
-
-**[We are so back](https://www.reddit.com/r/Bitcoin/comments/1qxpeyz/we_are_so_back/)**
-
-1d ago
+20h ago
 
 ---
 
@@ -155,20 +155,20 @@ Yup u heard it here First Ladies n gents. Bought $200 worth of btc during this d
 
 ## Google News: "bitcoin"
 
-**[S Korean crypto firm accidentally pays out $40bn in bitcoin](https://www.bbc.com/news/articles/cz6y62nzjxxo)**
-
-The company quickly realised its mistake and managed to recover virtually all the missing tokens from customers.
-
-BBC • 9h ago
-
----
-
 **[South Korean crypto firm accidentally sends $44 billion in bitcoin to
 users](https://www.cnbc.com/2026/02/07/south-korean-crypto-firm-accidentally-sends-out-44-billion-in-bitcoin.html)**
 
 The move triggered a sharp selloff on the Bithumb exchange. The company apologized for the mistake.
 
-CNBC • 13h ago
+CNBC • 16h ago
+
+---
+
+**[S Korean crypto firm accidentally pays out $40bn in bitcoin](https://www.bbc.com/news/articles/cz6y62nzjxxo)**
+
+The company quickly realised its mistake and managed to recover virtually all the missing tokens from customers.
+
+BBC • 12h ago
 
 ---
 
@@ -184,25 +184,7 @@ Yahoo Finance • 1d ago
 
 Trump got elected promising to usher in a crypto revolution. More than a year later, bitcoin's price has come tumbling down. What happened?
 
-NPR • 13h ago
-
----
-
-**[The Most Surprising Bitcoin and Crypto Stories in the Epstein Files](https://finance.yahoo.com/news/most-surprising-bitcoin-crypto-stories-203814083.html)**
-
-The Justice Department's release of millions of files related to Jeffrey Epstein has unearthed some wild Bitcoin and crypto stories.
-
-Yahoo Finance • 2h ago
-
----
-
-**[Crypto Exchange Bithumb Mistakenly Sent $44 Billion Bitcoin to Users](https://www.theinformation.com/briefings/crypto-exchange-bithumb-mistakenly-sent-44-billion-bitcoin-users)**
-
-Bithumb, the second largest crypto exchange in South Korea, said it mistakenly gave away 620,000 bitcoin, worth about $44 billion, to users, and has recovered 99.7% of the money. 
-
- Bithumb was planning to distribute cash rewards to users in Korean won during a promotional event on Friday, but mistakenly sent bitcoin instead. The exchange discovered its mistake within 20 minutes and blocked
-
-The Information • 1h ago
+NPR • 16h ago
 
 ---
 
@@ -212,25 +194,41 @@ Forbes • 1d ago
 
 ---
 
-**[Strategy CEO: Bitcoin would need to plunge to $8,000 before balance sheet issues](https://www.theblock.co/post/388774/strategy-ceo-bitcoin-q4-earnings-call)**
+**[Former FBI cybersecurity expert explains how Nancy Guthrie could be found via Bitcoin and Email](https://www.cnn.com/2026/02/06/us/video/former-fbi-cybersecurity-expert-explains-how-nancy-guthrie-could-be-found-via-bitcoin-and-email-lcl)**
 
-Executive Chairman Michael Saylor also addressed quantum computing concerns in bitcoin, framing them as 'horrible FUD.'
+Former FBI counterintelligence operative and cybersecurity expert Eric O’Neill joins Laura Coates to explain how a Bitcoin ransom demand could still be traced by law enforcement.
 
-The Block • 1d ago
-
----
-
-**[Michael Saylor Under Fire After Claiming Bitcoin Will Surge To $10M Tomorrow If ‘People Agreed With Him'](https://finance.yahoo.com/news/michael-saylor-under-fire-claiming-120215693.html)**
-
-Michael Saylor’s $10 million Bitcoin claim sparks backlash. It comes as Strategy’s losses deepen as Bitcoin price slides. Whether Saylor will sell Bitcoin remains possible. ...
-
-Yahoo Finance • 2d ago
+cnn.com • 1d ago
 
 ---
 
-**[Strategy's Saylor Touts 'Crypto President' As Bitcoin Plunges](https://www.investors.com/news/strategy-earnings-q4-bitcoin-price-mstr-plunge-michael-saylor/)**
+**[Nancy Guthrie latest: Derrick Callella of Torrance, California arrested for demanding Bitcoin ransom from family](https://abc7.com/post/nancy-guthrie-latest-derrick-callella-california-arrested-demanding-bitcoin-ransom-family/18549247/)**
 
-Investor's Business Daily • 2d ago
+The man allegedly used an app to create a fake phone number to text the family, according to a federal complaint.
+
+ABC7 Los Angeles • 1d ago
+
+---
+
+**[Bitcoin Booster’s $12 Billion Loss Headlines Crypto’s Worst Day Since 2022 Crash](https://www.wsj.com/finance/currencies/strategy-earnings-fourth-2025-33688dab?gaa_at=eafs&gaa_n=AWEtsqdUmArm7-5qRl8C-EWe12Rwr_c74sAhJh0zKHpXw1rcBs16jY538Q0O&gaa_ts=6987fa6e&gaa_sig=QjOMwkg5N3nhZm2SCOXbfFytNKNEzk0wGuPDv-3BF6qqGzz8BlPKMD6lsPdIHeSiGYErFqneSCVqkiXFr7wAwg%3D%3D)**
+
+The Wall Street Journal • 2d ago
+
+---
+
+**[Doctored emails online claim Epstein invented Bitcoin - Truth or Fake](https://www.france24.com/en/doctored-emails-online-claim-jeffrey-epstein-invented-bitcoin)**
+
+Social media users falsely claimed that emails from the latest Epstein file dump prove that the disgraced sex offender was in fact Satoshi Nakamoto, the creator of Bitcoin whose real identity remains…
+
+France 24 • 2d ago
+
+---
+
+**[Bitcoin Is Crashing Again: Is It Finally Time to Buy This Top Cryptocurrency?](https://www.nasdaq.com/articles/bitcoin-crashing-again-it-finally-time-buy-top-cryptocurrency)**
+
+Key PointsBitcoin's price keeps falling as crypto jitters spread.
+
+Nasdaq • 15h ago
 
 ---
 
@@ -256,7 +254,13 @@ Some market watchers have suggested $70,000 is a key level to watch and a break 
 
 Bitcoin outlook turns bearish as Pivotus’ Richard Farr targets BTC at $0 and Michael Burry warns of a “death spiral.” Get the risks and key levels now.
 
-⬆️ 54 • 💬 66 • 1d ago • [Seeking Alpha](https://seekingalpha.com/news/4547997-bitcoin-s-price-target-at-zero)
+⬆️ 54 • 💬 66 • 2d ago • [Seeking Alpha](https://seekingalpha.com/news/4547997-bitcoin-s-price-target-at-zero)
+
+---
+
+**[South Korean crypto firm accidentally sends $44B in bitcoins to users](https://news.ycombinator.com/item?id=46926461)**
+
+⬆️ 5 • 💬 0 • 7h ago • [reuters.com](https://www.reuters.com/world/asia-pacific/crypto-firm-accidentally-sends-44-billion-bitcoins-users-2026-02-07/)
 
 ---
 
@@ -265,12 +269,6 @@ Bitcoin outlook turns bearish as Pivotus’ Richard Farr targets BTC at $0 and M
 Crypto treasury companies quietly crept into index funds and retirement accounts. This collapse is good news for all of us.
 
 ⬆️ 4 • 💬 1 • 3d ago • [Slate Magazine](https://slate.com/technology/2026/02/bitcoin-crypto-treasury-wall-street-microstrategy.html)
-
----
-
-**[South Korean crypto firm accidentally sends $44B in bitcoins to users](https://news.ycombinator.com/item?id=46926461)**
-
-⬆️ 4 • 💬 0 • 4h ago • [reuters.com](https://www.reuters.com/world/asia-pacific/crypto-firm-accidentally-sends-44-billion-bitcoins-users-2026-02-07/)
 
 ---
 
@@ -294,7 +292,7 @@ Bitcoin behaves more like an "ATM" during uncertain times, with investors quickl
 
 Bithumb, Korea's second-largest cryptocurrency exchange, mistakenly credited users with Bitcoin worth approximately 260 billion won ($195 million), instead of the modest number of reward points or Bitcoin that it had intended to distribute.
 
-⬆️ 3 • 💬 0 • 6h ago • [koreajoongangdaily.joins.com](https://koreajoongangdaily.joins.com/news/2026-02-07/business/finance/Crypto-exchange-Bithumb-mistakenly-hands-out-195M-in-Bitcoin-to-users-in-Random-Box-giveaway/2518495)
+⬆️ 3 • 💬 0 • 9h ago • [koreajoongangdaily.joins.com](https://koreajoongangdaily.joins.com/news/2026-02-07/business/finance/Crypto-exchange-Bithumb-mistakenly-hands-out-195M-in-Bitcoin-to-users-in-Random-Box-giveaway/2518495)
 
 ---
 
@@ -322,7 +320,7 @@ Take your personal data back with Incogni! Use code GRAHAM at the link below and
 
 📺 Graham Stephan
 
-👁️ 587K • 👍 20K • 💬 6K • ⏱️ 16:11 • 1d ago
+👁️ 596K • 👍 20K • 💬 6K • ⏱️ 16:11 • 2d ago
 
 ---
 
@@ -332,7 +330,17 @@ Bitcoin has been in a free-fall the past few months. At one point yesterday, it 
 
 📺 From The Desk Of Anthony Pompliano
 
-👁️ 41K • 👍 2K • 💬 312 • ⏱️ 9:43 • 1d ago
+👁️ 43K • 👍 2K • 💬 316 • ⏱️ 9:43 • 1d ago
+
+---
+
+**[Top 3 Reasons Bitcoin Collapsed](https://www.youtube.com/watch?v=2fuSxi69Glw)**
+
+Why did the world's largest asset class lose nearly $2 trillion in value so quickly? In today's video, we aren't just looking at the ...
+
+📺 Discover Crypto
+
+👁️ 2K • 👍 117 • 💬 78 • ⏱️ 7:32 • 4h ago
 
 ---
 
@@ -342,7 +350,7 @@ Bitcoin plunges as crypto markets lose trillions, sparking debate over whether B
 
 📺 Valuetainment
 
-👁️ 150K • 👍 3K • 💬 12K • ⏱️ 14:38 • 1d ago
+👁️ 164K • 👍 3K • 💬 11K • ⏱️ 14:38 • 1d ago
 
 ---
 
@@ -352,27 +360,27 @@ https://democratizedprime.pxf.io/c/2406113/3755092/37696 Enter to win $25k USDC 
 
 📺 Aaron Bennett
 
-👁️ 36K • 👍 1K • 💬 814 • ⏱️ 13:47 • 2d ago
+👁️ 36K • 👍 1K • 💬 791 • ⏱️ 13:47 • 2d ago
 
 ---
 
-**[Bitcoin Flash Crash to $60,000 Was the Best Buy Signal in Years](https://www.youtube.com/watch?v=iwYBNTGBJfA)**
+**[BITCOIN: GOOD NEWS!](https://www.youtube.com/watch?v=j0zeb7CuG8E)**
 
-Today, let's examine Bitcoin's charts and metrics, as well as the latest Macro and Crypto news. Additionally, a look at the latest ...
+WEEX: https://cryptokid.io/WEEX-Bonus UP TO $30000 ❎ LeveX: https://levex.com/r/CryptoKid MEMBER UPDATES ...
 
-📺 CryptosRUs
+📺 Crypto Kid
 
-👁️ 38K • 👍 2K • 💬 371 • ⏱️ 32:01 • 1d ago
+👁️ 6K • 👍 441 • 💬 251 • ⏱️ 7:19 • 6h ago
 
 ---
 
-**[BITCOIN WARNING ($39K)](https://www.youtube.com/watch?v=8rjH5qsABXk)**
+**[Bitcoin Is CRASHING Now People Are Losing EVERYTHING](https://www.youtube.com/watch?v=7fg0A5W2D3s)**
 
-Bitcoin's record volatility is sending shockwaves through the crypto market—are we nearing the bottom? Get the latest crypto news ...
+Bitcoin is crashing — and now people are losing everything. In this video, we break down what's happening in the crypto market, ...
 
-📺 Discover Crypto
+📺 Jay Reed
 
-👁️ 19K • 👍 177 • 💬 114 • ⏱️ 0:26 • 1d ago
+👁️ 143K • 👍 6K • 💬 18K • ⏱️ 16:32 • 2d ago
 
 ---
 
@@ -382,37 +390,27 @@ CNBC's “Closing Bell Overtime” team discusses cryptocurrencies, bitcoin's vo
 
 📺 CNBC Television
 
-👁️ 34K • 👍 311 • 💬 356 • ⏱️ 4:14 • 1d ago
+👁️ 35K • 👍 316 • 💬 311 • ⏱️ 4:14 • 1d ago
 
 ---
 
-**[Is This the End of Bitcoin?](https://www.youtube.com/watch?v=CnL0ANTt2_8)**
+**[I sold all my crypto except BTC and ETH #shorts](https://www.youtube.com/watch?v=n04GsxMFzCU)**
 
-Bitcoin insane price collapse, but where is the bottom for BTC? BITUNIX TRADE THE TOP COINS (available everywhere) ...
+If you're Ethereum, Bitcoin, or any digital payment systems, if you don't have power, you got nothing. What I did recently is I sold ...
 
-📺 Lark Davis
+📺 Kevin O'Leary
 
-👁️ 13K • 👍 729 • 💬 111 • ⏱️ 14:26 • 8h ago
-
----
-
-**[WATCH THIS BEFORE BITCOIN DROPS BELOW $70,000...](https://www.youtube.com/watch?v=M_AG6vLOeyE)**
-
-Why is bitcoin crashing right now? The total crypto market value fell to about $2.54 trillion, down over 3% in 24 hours, according to ...
-
-📺 Ricky Gutierrez
-
-👁️ 44K • 👍 837 • 💬 276 • ⏱️ 12:35 • 2d ago
+👁️ 22K • 👍 413 • 💬 60 • ⏱️ 0:57 • 1d ago
 
 ---
 
-**[BITCOIN: EMERGENCY UPDATE!!! ⚠️ #BTC Price Prediction &amp; Crypto Crash News Today](https://www.youtube.com/watch?v=L-p4TRu-xx4)**
+**[Bitcoin price falls below $70K. How much further could it drop?](https://www.youtube.com/watch?v=ysRWyZlc5F4)**
 
-MEXC: Trade with Ultra-low trading fees Sign up: https://www.mexc.com/register?inviteCode=mexc-RT1M (must use this link) ...
+Bitcoin has fallen below $70000, raising questions about whether a crypto winter is underway. Yahoo Finance's Jared Blikre and ...
 
-📺 Road To $1 Million USD
+📺 Yahoo Finance
 
-👁️ 8K • 👍 243 • 💬 65 • ⏱️ 8:50 • 2d ago
+👁️ 87K • 👍 607 • 💬 567 • ⏱️ 4:27 • 2d ago
 
 ---
 
