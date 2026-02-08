@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-02-08T07:56:02.177662+00:00'
+updated: '2026-02-08T08:37:34.978061+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
+- videos
+- repositories
 - news
 - social
-- repositories
-- videos
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** February 08, 2026 at 07:56 UTC  
+**Last Updated:** February 08, 2026 at 08:37 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -63,7 +63,7 @@ I have been working solo on an AI-based project called Netryx. At a high level, 
 
 Let’s say the quiet part out loud.
 
-🔗 [Medium](https://medium.com/@behindthebuild/big-tech-ai-isnt-taking-your-job-your-refusal-to-use-it-might-966f8219f962) • 14h ago
+🔗 [Medium](https://medium.com/@behindthebuild/big-tech-ai-isnt-taking-your-job-your-refusal-to-use-it-might-966f8219f962) • 15h ago
 
 ---
 
@@ -71,7 +71,7 @@ Let’s say the quiet part out loud.
 
 Hey fam, Been grinding on BrainAPI, this open-source thing that turns messy event logs into a smart knowledge graph for AI agents and rec systems. Think: feed it user clicks/buys/chats, it builds a precise map with cause-effect attribution (no BS hallucinations), then your AI retrieves fast AF for spot-on suggestions. Right now: Core APIs for saving/processing data -> works for CRM member matches/social networks (one user already using it for automated matches). Fast retrieval But ingestion? Slow as hell (10-30 min on small datasets) cuz of heavy LLM chains for precision. Trade-off for that "holy grail" accuracy, but yeah, it's a pain, optimizing soon. Repo: https://github.com/Lumen-Labs/brainapi2 What's the vibe? Bugs? Missing features? Use cases for ecom or agents? Roast it hard, I'm not fragile. If it slaps, star/fork. Building in public, hit me with thoughts!
 
-11h ago
+12h ago
 
 ---
 
@@ -79,7 +79,7 @@ Hey fam, Been grinding on BrainAPI, this open-source thing that turns messy even
 
 One of Kimi’s browser automation scripts uses a dark web library with crypto stealing malware: https://github.com/dnnyngyen/kimi-agent-internals/blob/main/source-code/browser_guard.py
 
-14h ago
+15h ago
 
 ---
 
@@ -123,27 +123,35 @@ It happened again. A 13-person team in Shenzhen just shipped a browser-based ver
 
 The hundreds of billions of dollars being spent by tech companies on AI projects are diverting resources from other parts of the economy.
 
-The Washington Post • 13h ago
+The Washington Post • 14h ago
 
 ---
 
-**[AI wiped out $400 billion this week — and it's only getting started](https://www.axios.com/2026/02/07/ai-software-anthropic-losses-stock-market)**
+**[Why has Elon Musk merged his rocket company with his AI startup?](https://www.theguardian.com/technology/2026/feb/07/why-has-elon-musk-merged-his-rocket-company-with-his-ai-startup)**
 
-AI isn't just hitting software valuations — it's changing how software companies operate.
+SpaceX’s acquisition of xAI creates business worth $1.25tn but whether premise behind deal will work is questioned
 
-Axios • 16h ago
-
----
-
-**[From AI to death toll signs: What Austin could learn from other cities’ drowning solutions](https://www.yahoo.com/news/articles/ai-death-toll-signs-austin-060100764.html)**
-
-After a KXAN analysis revealed at least 30 drowning deaths over the past decade at Lady Bird Lake, we pinpointed three communities that have implemented safety measures officials believe are saving li...
-
-Yahoo • 1h ago
+The Guardian • 18h ago
 
 ---
 
-**[Here’s Where AI Is Tearing Through Corporate America](https://www.wsj.com/tech/ai/ai-software-business-stock-market-4b17b432?gaa_at=eafs&gaa_n=AWEtsqesl5aaKrZVT-nyr-u0YDvOxXqzPElKE0bcIJ64k2FGTBGvbnpuYa6P&gaa_ts=69883adf&gaa_sig=27Z66DBDqH7bYImPwOCQ6Rqp2Ih-1-FGtYF_5UrvuW_NrQoKx_ObHDhBmoZdq1Oo0Q9Em7BN6DjNoAwUAXSPwQ%3D%3D)**
+**[I turned myself into an AI-generated deathbot - here's what I found](https://www.bbc.com/news/articles/c93wjywz5p5o)**
+
+A Cardiff University researcher recreated her own voice using a deathbot - but found it strange.
+
+BBC • 57m ago
+
+---
+
+**[The AI Memory Crunch Is Creating Winners and Losers. Here Are the Stocks to Buy](https://finance.yahoo.com/news/ai-memory-crunch-creating-winners-070100208.html)**
+
+Demand for memory far exceeds supply, much to the benefit of Micron, Western Digital, and SanDisk investors.
+
+Yahoo Finance • 1h ago
+
+---
+
+**[Here’s Where AI Is Tearing Through Corporate America](https://www.wsj.com/tech/ai/ai-software-business-stock-market-4b17b432?gaa_at=eafs&gaa_n=AWEtsqdHNkKp0lRRJVaRdH21Nk-4QdLcIPJJmBkQktXQU5vsBeYOyPGmXiNt&gaa_ts=69884eb6&gaa_sig=RAgQcrXiJwGqX-3RVfAgoDfkrzqaR5EzXFTi3bu6lAjbYOUZz8AbJWOE4dHBaoT5aYftlMbj8D8U-cfu-YPROA%3D%3D)**
 
 The Wall Street Journal • 1d ago
 
@@ -153,7 +161,15 @@ The Wall Street Journal • 1d ago
 
 In a new interview, the journalist Yi-Ling Liu argues the AI arms race between the United States and China risks becoming a self-fulfilling prophecy.
 
-Politico • 16h ago
+Politico • 17h ago
+
+---
+
+**[AI wiped out $400 billion this week — and it's only getting started](https://www.axios.com/2026/02/07/ai-software-anthropic-losses-stock-market)**
+
+AI isn't just hitting software valuations — it's changing how software companies operate.
+
+Axios • 17h ago
 
 ---
 
@@ -161,15 +177,7 @@ Politico • 16h ago
 
 Meet the LA boy who turned a multi-millionaire starting an AI training company
 
-latimes.com • 20h ago
-
----
-
-**[Why has Elon Musk merged his rocket company with his AI startup?](https://www.theguardian.com/technology/2026/feb/07/why-has-elon-musk-merged-his-rocket-company-with-his-ai-startup)**
-
-SpaceX’s acquisition of xAI creates business worth $1.25tn but whether premise behind deal will work is questioned
-
-The Guardian • 17h ago
+latimes.com • 21h ago
 
 ---
 
@@ -181,17 +189,11 @@ Business Insider • 23h ago
 
 ---
 
-**[Moltbook was peak AI theater](https://www.technologyreview.com/2026/02/06/1132448/moltbook-was-peak-ai-theater/)**
+**[Tech AI spending may approach $700 billion this year, but the blow to cash raises red flags](https://www.cnbc.com/2026/02/06/google-microsoft-meta-amazon-ai-cash.html)**
 
-The viral social network for bots reveals as much about our own current mania for AI as it does about the future of agents.
+Tech's megacaps announced major increases in capex spend for 2026, and now investors are preparing for cash to dwindle.
 
-MIT Technology Review • 1d ago
-
----
-
-**[Tech’s AI Push Risks a Bond Market Blowback: Credit Weekly](https://www.bloomberg.com/news/articles/2026-02-07/tech-s-ai-push-risks-a-bond-blowback-amzn-googl-msft-orcl)**
-
-Bloomberg.com • 12h ago
+CNBC • 1d ago
 
 ---
 
@@ -209,7 +211,7 @@ Bloomberg.com • 12h ago
 
 A new bill in the New York state legislature would require news organizations to label AI-generated material and mandate that humans review any such content before publication. On Monday, Senator Patricia Fahy (D-Albany) and Assemblymember Nily Rozic (D-NYC) introduced the bill, called The New York…
 
-⬆️ 565 • 💬 234 • 1d ago • [Nieman Lab](https://www.niemanlab.org/2026/02/a-new-bill-in-new-york-would-require-disclaimers-on-ai-generated-news-content/)
+⬆️ 566 • 💬 234 • 1d ago • [Nieman Lab](https://www.niemanlab.org/2026/02/a-new-bill-in-new-york-would-require-disclaimers-on-ai-generated-news-content/)
 
 ---
 
@@ -217,7 +219,7 @@ A new bill in the New York state legislature would require news organizations to
 
 AI is rarely optional anymore, but how can you still be proud of your craft? Discover the workflow to effectively write high-quality, robust code using AI tools.
 
-⬆️ 333 • 💬 291 • 1d ago • [heidenstedt.org](https://heidenstedt.org/posts/2026/how-to-effectively-write-quality-code-with-ai/)
+⬆️ 336 • 💬 291 • 1d ago • [heidenstedt.org](https://heidenstedt.org/posts/2026/how-to-effectively-write-quality-code-with-ai/)
 
 ---
 
@@ -225,7 +227,7 @@ AI is rarely optional anymore, but how can you still be proud of your craft? Dis
 
 The hundreds of billions of dollars being spent by tech companies on AI projects are diverting resources from other parts of the economy.
 
-⬆️ 315 • 💬 505 • 20h ago • [The Washington Post](https://www.washingtonpost.com/technology/2026/02/07/ai-spending-economy-shortages/)
+⬆️ 334 • 💬 541 • 21h ago • [The Washington Post](https://www.washingtonpost.com/technology/2026/02/07/ai-spending-economy-shortages/)
 
 ---
 
@@ -233,7 +235,7 @@ The hundreds of billions of dollars being spent by tech companies on AI projects
 
 A minimal, secure Python interpreter written in Rust for use by AI - pydantic/monty
 
-⬆️ 314 • 💬 158 • 1d ago • [GitHub](https://github.com/pydantic/monty)
+⬆️ 315 • 💬 160 • 1d ago • [GitHub](https://github.com/pydantic/monty)
 
 ---
 
@@ -241,7 +243,7 @@ A minimal, secure Python interpreter written in Rust for use by AI - pydantic/mo
 
 Contribute to localgpt-app/localgpt development by creating an account on GitHub.
 
-⬆️ 160 • 💬 48 • 6h ago • [GitHub](https://github.com/localgpt-app/localgpt)
+⬆️ 196 • 💬 73 • 7h ago • [GitHub](https://github.com/localgpt-app/localgpt)
 
 ---
 
@@ -249,7 +251,7 @@ Contribute to localgpt-app/localgpt development by creating an account on GitHub
 
 Women in rural communities describe trauma of moderating violent and pornographic content for global tech companies
 
-⬆️ 127 • 💬 197 • 2d ago • [the Guardian](https://www.theguardian.com/global-development/2026/feb/05/in-the-end-you-feel-blank-indias-female-workers-watching-hours-of-abusive-content-to-train-ai)
+⬆️ 127 • 💬 201 • 2d ago • [the Guardian](https://www.theguardian.com/global-development/2026/feb/05/in-the-end-you-feel-blank-indias-female-workers-watching-hours-of-abusive-content-to-train-ai)
 
 ---
 
@@ -347,7 +349,7 @@ In this video, I break down 4 practical AI skills that separate power users from
 
 📺 Ali H. Salem
 
-👁️ 3K • 👍 229 • 💬 24 • ⏱️ 16:34 • 13h ago
+👁️ 3K • 👍 229 • 💬 24 • ⏱️ 16:34 • 14h ago
 
 ---
 
@@ -357,7 +359,7 @@ You've probably already heard all about OpenClaw (formerly Clawdbot/Moltbot). Th
 
 📺 Y Combinator
 
-👁️ 70K • 👍 3K • 💬 195 • ⏱️ 22:36 • 16h ago
+👁️ 70K • 👍 3K • 💬 195 • ⏱️ 22:36 • 17h ago
 
 ---
 
@@ -441,7 +443,7 @@ MiniCPM-o 4.5 is a 9B parameter multimodal LLM excelling in vision, speech, and 
 
 `any-to-any` `9.4B`
 
-⬇️ 5,568 • ❤️ 594 • 15h ago
+⬇️ 5,568 • ❤️ 594 • 16h ago
 
 ---
 
@@ -711,7 +713,7 @@ OpenSource Claude Cowork. A desktop AI assistant that helps you with programming
 
 `TypeScript`
 
-⭐ 2.8k • 🔱 378 • 4h ago
+⭐ 2.8k • 🔱 378 • 5h ago
 
 ---
 

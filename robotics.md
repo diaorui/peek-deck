@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-02-08T07:56:02.192885+00:00'
+updated: '2026-02-08T08:37:34.995698+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
+- videos
 - news
 - social
-- videos
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** February 08, 2026 at 07:56 UTC  
+**Last Updated:** February 08, 2026 at 08:37 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -36,7 +36,7 @@ Robotics research and industry news
 
 Pantograph website: https://pantograph.com/ Pantograph on 𝕏: http://x.com/pantographPBC
 
-19h ago
+20h ago
 
 ---
 
@@ -52,7 +52,7 @@ How viable is a Robotics-as-a-Service (RaaS) startup today? I’m evaluating the
 
 The chest finally finished printing after 5 days of printing. I assembled it and so far it looks like this, i still have to build the right arm and mount them. I know it may not look that good but it’s my first time doing such a big project and i’m still learning.
 
-15h ago
+16h ago
 
 ---
 
@@ -66,7 +66,15 @@ The chest finally finished printing after 5 days of printing. I assembled it and
 
 Once again, Boston Dynamics just leaving everyone in the dust. Watch all the chinese copycats try to do the same thing. https://www.youtube.com/watch?v=UNorxwlZlFk
 
-9h ago
+10h ago
+
+---
+
+**[Redesigning the environment for the robot may be cheaper and more efficient than redesigning the robot for the environment.](https://www.reddit.com/r/robotics/comments/1qyc1eb/redesigning_the_environment_for_the_robot_may_be/)**
+
+There is the popular argument for why having a humanoid robot would be the best way to do things: "because the environment is human shaped/designed for humans." However, why are we assuming it would be necessarily harder to redesign the environment so a simpler non-humanoid robot can make use of it rather than recreating the entire human body and all its complexities in robot form while trying to make it suitable to many different varying environments? Also, this argument implies the environment is exclusively human shaped, meaning a machine with human shapes and function is the only way forward in order for it traverse and interact with the environment, but this is not true. For instance, a flat floor, which is designed for human use, also allows use by a non-humanoid robot with wheels.
+
+20h ago
 
 ---
 
@@ -86,19 +94,11 @@ From CyberRobo on 𝕏: https://x.com/CyberRobooo/status/2019598569909743755
 
 ---
 
-**[Redesigning the environment for the robot may be cheaper and more efficient than redesigning the robot for the environment.](https://www.reddit.com/r/robotics/comments/1qyc1eb/redesigning_the_environment_for_the_robot_may_be/)**
-
-There is the popular argument for why having a humanoid robot would be the best way to do things: "because the environment is human shaped/designed for humans." However, why are we assuming it would be necessarily harder to redesign the environment so a simpler non-humanoid robot can make use of it rather than recreating the entire human body and all its complexities in robot form while trying to make it suitable to many different varying environments? Also, this argument implies the environment is exclusively human shaped, meaning a machine with human shapes and function is the only way forward in order for it traverse and interact with the environment, but this is not true. For instance, a flat floor, which is designed for human use, also allows use by a non-humanoid robot with wheels.
-
-19h ago
-
----
-
 **[Birthday gift ideas for boyfriend (CS senior + humanoid robotics, practical not flashy)](https://www.reddit.com/r/robotics/comments/1qy80pk/birthday_gift_ideas_for_boyfriend_cs_senior/)**
 
 My boyfriend is a computer science major and is about to graduate. He’s really into robotics, especially humanoid robots, and he currently works in a research lab where they’re building a humanoid that can catch objects. Most of what I see him doing is simulation and coding work on his computer. Last year I got him an Arduino kit, and he already has a toolkit, but he doesn’t really use either one much on his own (as far as I see). He’s pretty thrifty and values practicality over “cool” gadgets. For context, he uses a Mac and has a portable monitor that fits in his backpack. He doesn’t currently use an external keyboard or mouse, but I don’t think he cares much about those. I want to get him something he’ll genuinely use in his future work. Since he mostly works in teams through his lab/club (not solo at-home build projects), I’m not looking for another kit. Any gift ideas from people in CS/robotics, or partners of people in this field, that are truly useful and not gimmicky? Thank you!!
 
-23h ago
+1d ago
 
 ---
 
@@ -114,6 +114,14 @@ Just pushed an update to casadi-on-gpu that lets you generate CUDA kernels direc
 
 ## Google News: "robotics"
 
+**[Elon Musk warns the U.S. is '1,000% going to go bankrupt' unless AI and robotics save the economy from crushing debt](https://fortune.com/2026/02/07/elon-musk-us-bankruptcy-ai-robotics-economic-growth-national-debt-crisis/)**
+
+"We just need enough time to build the AI and robots to not go bankrupt before then."
+
+Fortune • 13h ago
+
+---
+
 **[China is running the EV playbook on humanoid robots — and it’s working](https://restofworld.org/2026/china-humanoid-robots-unitree-agibot-tesla-optimus/)**
 
 Rest of World • 2d ago
@@ -124,47 +132,7 @@ Rest of World • 2d ago
 
 Union organizers are growing increasingly worried about a future in which AI-powered robots decimate blue collar labor.
 
-Futurism • 14h ago
-
----
-
-**[I'm a 25-year-old founder who loves robots but too many humanoids are militant and creepy-looking. Things need to change—just look at Elon Musk](https://fortune.com/2026/02/05/25-year-old-robotics-founder-says-too-many-creepy-militant-look-at-elon-musk/)**
-
-Who’s raising our robots? Teaching social norms in the age of humanoid robots.
-
-Fortune • 2d ago
-
----
-
-**[Making robots useful and affordable will need better motors](https://www.bbc.com/news/articles/c5y46356zzyo)**
-
-Firms are working to make the motors that drive robots more efficient and cheaper.
-
-BBC • 2d ago
-
----
-
-**[The Rapid Rise of Humanoid Robots](https://oilprice.com/Energy/Energy-General/The-Rapid-Rise-of-Humanoid-Robots.html)**
-
-Automakers including Tesla and Hyundai are investing heavily in humanoid robots as a long-term cost-saving strategy, even as questions remain over productivity, technical feasibility, and the risk of widespread job losses.
-
-Crude Oil Prices Today | OilPrice.com • 9h ago
-
----
-
-**[Boston Dynamics: building robots to do the jobs humans shouldn’t](https://interestingengineering.com/innovation/boston-dynamics-building-robots-to-do-the-jobs-humans-shouldnt)**
-
-Boston Dynamics’ Aya Durbin explains the engineering challenges behind deploying humanoid robots in messy, real-world settings.
-
-Interesting Engineering • 1d ago
-
----
-
-**[These 3 Stocks Could Be the Best Ways to Invest in the Humanoid Robot Trend](https://www.fool.com/investing/2026/02/07/these-3-stocks-could-be-the-best-ways-to-invest-in/)**
-
-If humanoid robots really are about to enter the mainstream, the first signs of that trend might appear in these three stocks.
-
-The Motley Fool • 18h ago
+Futurism • 15h ago
 
 ---
 
@@ -176,11 +144,33 @@ Electrek • 1d ago
 
 ---
 
-**[Champion robots invite global teams to Beijing humanoid games](https://news.cgtn.com/news/2026-02-07/Champion-robots-invite-global-teams-to-Beijing-humanoid-games-1Kz0De1iOE8/p.html)**
+**[Making robots useful and affordable will need better motors](https://www.bbc.com/news/articles/c5y46356zzyo)**
 
-The champion robots from last year's inaugural World Humanoid Robot Games on Friday issued a global invitation for more international robotics teams to join the event's second edition, which will be held in Beijing later this year.The advanced humanoids
+Firms are working to make the motors that drive robots more efficient and cheaper.
 
-news.cgtn.com • 1d ago
+BBC • 2d ago
+
+---
+
+**[ASUS IoT Introduces PE1000U Rugged Fanless DIN-Rail Industrial PC for AMR, Robotics, and Computer Vision](https://press.asus.com/news/press-releases/asus-iot-pe1000u-industrial-pc/)**
+
+ASUS IoT PE1000U: Rugged, fanless DIN-rail industrial PC with Intel Core Ultra Series 2. Ideal for AMR, robotics & computer vision at the edge! Subscribe to ASUS Pressroom for the latest tech updates!
+
+ASUS Pressroom • 2d ago
+
+---
+
+**[This Robotics Stock Is Up 141% Over the Past Year. Can It Go Higher in 2026?](https://finance.yahoo.com/news/robotics-stock-141-over-past-192206641.html)**
+
+After an explosive 2025 rally, can Teradyne stock continue its climb this year?
+
+Yahoo Finance • 2d ago
+
+---
+
+**[AI-powered robots are coming for trade jobs](https://www.politico.com/newsletters/digital-future-daily/2026/02/04/ai-powered-robots-are-coming-for-trade-jobs-00765584)**
+
+Politico • 3d ago
 
 ---
 
@@ -189,6 +179,12 @@ news.cgtn.com • 1d ago
 The retailer’s $330 million investment, slated to start this year, is part of a larger effort to upgrade all 42 of its regional distribution facilities.
 
 Supply Chain Dive • 2d ago
+
+---
+
+**[Why Do We Feel Empathy for Robots?](https://www.bloomberg.com/opinion/articles/2026-02-05/why-do-we-feel-empathy-for-robots)**
+
+Bloomberg.com • 2d ago
 
 ---
 
@@ -222,7 +218,7 @@ Pan Motor's Wuji Hand packs twenty fully actuated joints into a sub six hundred 
 
 📺 Deepen
 
-👁️ 3K • 👍 71 • 💬 4 • ⏱️ 0:19 • 5h ago
+👁️ 3K • 👍 71 • 💬 4 • ⏱️ 0:19 • 6h ago
 
 ---
 
@@ -242,7 +238,7 @@ A video about Neuro-sama's View on Us, and the world ▻Twitch: http://www.twitc
 
 📺 Neuro-sama
 
-👁️ 89K • 👍 16K • 💬 1K • ⏱️ 13:16 • 16h ago
+👁️ 89K • 👍 16K • 💬 1K • ⏱️ 13:16 • 17h ago
 
 ---
 
@@ -278,7 +274,7 @@ Capybara's golden robot lion was sabotaged by Brianna before the big competition
 
 📺 CapyEscapes
 
-👁️ 33K • 👍 1K • 💬 145 • ⏱️ 0:59 • 20h ago
+👁️ 33K • 👍 1K • 💬 145 • ⏱️ 0:59 • 21h ago
 
 ---
 

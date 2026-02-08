@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-02-08T07:56:02.184976+00:00'
+updated: '2026-02-08T08:37:34.986495+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
+- videos
+- cryptocurrency
 - news
 - social
-- cryptocurrency
-- videos
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** February 08, 2026 at 07:56 UTC  
+**Last Updated:** February 08, 2026 at 08:37 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -44,11 +44,11 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Chart
 
-**24h:** +1.3%  
-**7d:** -12.0%  
-**30d:** -23.3%  
-**90d:** -32.8%  
-**1y:** -28.1%  
+**24h:** +3.6%  
+**7d:** -10.4%  
+**30d:** -21.9%  
+**90d:** -31.6%  
+**1y:** -26.8%  
 
 ---
 
@@ -79,7 +79,7 @@ Rank #1
 
 **[Comforting my friend who bought BTC @ 120k](https://www.reddit.com/r/Bitcoin/comments/1qyt31t/comforting_my_friend_who_bought_btc_120k/)**
 
-8h ago
+9h ago
 
 ---
 
@@ -95,7 +95,15 @@ HODL strong through the storms; the future rewards the patient. 🚀 🙌
 
 Guys, do you realize how much you regret not buying about ten years ago? Today, the price of BTC has been cut in half, and you’re hesitating between “the market is collapsing” or “the market will bounce back.” Buy either way—personally, that’s what I’m doing. I’m not saying the price will go back up. Of course I hope it will, but I honestly have no idea, and absolutely no one can know. I’d rather tell myself that I bought for nothing and lost some money than tell myself that I missed this opportunity a second time—especially when this time, I’m aware it might actually be one. (traduced from french by chatgpt)
 
-8h ago
+9h ago
+
+---
+
+**[anyone else just kinda... numb to the dips at this point?](https://www.reddit.com/r/Bitcoin/comments/1qz1y2w/anyone_else_just_kinda_numb_to_the_dips_at_this/)**
+
+honestly, after holding since 2021, these dips barely even register anymore. i'm not even checking the charts as often as i used to. is that just me getting old and boring, or are other long-term holders feeling the same?
+
+1h ago
 
 ---
 
@@ -111,27 +119,19 @@ Not financial advice weekly RSIs below 30 and clear support approaching around t
 
 If you see blockchain activity whales are clearly accumulating taking BTC outside exchanges. It seems this is contrarian to people saying that BTC will bottom around 45k-55k. I believe (and hope) that bottom is in and the liquidation of this week has been a great opportunity to accumulate, decrease btc availability on exchanges and bring price to 100k +
 
-19h ago
+20h ago
+
+---
+
+**[Buy The dip](https://www.reddit.com/r/Bitcoin/comments/1qygmls/buy_the_dip/)**
+
+17h ago
 
 ---
 
 **[People who bought bitcoin at $61k yesterday](https://www.reddit.com/r/Bitcoin/comments/1qxw35n/people_who_bought_bitcoin_at_61k_yesterday/)**
 
 1d ago
-
----
-
-**[Buy The dip](https://www.reddit.com/r/Bitcoin/comments/1qygmls/buy_the_dip/)**
-
-16h ago
-
----
-
-**[anyone else just kinda... numb to the dips at this point?](https://www.reddit.com/r/Bitcoin/comments/1qz1y2w/anyone_else_just_kinda_numb_to_the_dips_at_this/)**
-
-honestly, after holding since 2021, these dips barely even register anymore. i'm not even checking the charts as often as i used to. is that just me getting old and boring, or are other long-term holders feeling the same?
-
-1h ago
 
 ---
 
@@ -157,7 +157,7 @@ Just wanted to share my few as an observer. Have been observing bitcoin for many
 
 **[Bitcoin loses Trump-era gains as crypto market volatility signals uncertainty](https://www.reuters.com/business/bitcoin-loses-trump-era-gains-crypto-market-volatility-signals-uncertainty-2026-02-07/)**
 
-Reuters • 20h ago
+Reuters • 21h ago
 
 ---
 
@@ -166,7 +166,7 @@ users](https://www.cnbc.com/2026/02/07/south-korean-crypto-firm-accidentally-sen
 
 The move triggered a sharp selloff on the Bithumb exchange. The company apologized for the mistake.
 
-CNBC • 21h ago
+CNBC • 22h ago
 
 ---
 
@@ -174,7 +174,7 @@ CNBC • 21h ago
 
 The company quickly realised its mistake and managed to recover virtually all the missing tokens from customers.
 
-BBC • 17h ago
+BBC • 18h ago
 
 ---
 
@@ -194,11 +194,11 @@ Yahoo Finance • 2h ago
 
 ---
 
-**[Bithumb's Phantom Bitcoin Distribution Exposes Internal Control Failures](https://www.chosun.com/english/market-money-en/2026/02/08/IVSZJ7WBORHC3GAYXFSJTBC44M/)**
+**[El Salvador’s Bukele Approval Hits Record 91.9% Despite Tepid Bitcoin Adoption](https://www.yahoo.com/news/articles/el-salvador-bukele-approval-hits-073654194.html)**
 
-Bithumbs Phantom Bitcoin Distribution Exposes Internal Control Failures Mistaken distribution of 620,000 bitcoins worth 61 trillion won reveals lax oversight and internal system vulnerabilities
+El Salvador President Nayib Bukele continues to command overwhelming public support, even as the country’s landmark Bitcoin policy shows limited traction among citizens. Key Takeaways: Bukele holds a ...
 
-조선일보 • 3h ago
+Yahoo • 1h ago
 
 ---
 
@@ -224,7 +224,7 @@ cnn.com • 2d ago
 
 ---
 
-**[Bitcoin Booster’s $12 Billion Loss Headlines Crypto’s Worst Day Since 2022 Crash](https://www.wsj.com/finance/currencies/strategy-earnings-fourth-2025-33688dab?gaa_at=eafs&gaa_n=AWEtsqcWAnC3oAbd5Hb6w8iq_Fc6pLYOTZxPn2W9A4pNikIcW3-G6iHP16z_&gaa_ts=69883ae1&gaa_sig=Y25Zy5bj-DJLrq23X40vLcd2GWjwBIEaGbVXJEHZ36RzMrZonUqCQ395ur-OIzuKNIP1Pkp4_ZBEORLVAUfGSA%3D%3D)**
+**[Bitcoin Booster’s $12 Billion Loss Headlines Crypto’s Worst Day Since 2022 Crash](https://www.wsj.com/finance/currencies/strategy-earnings-fourth-2025-33688dab?gaa_at=eafs&gaa_n=AWEtsqf-FjiWsjbIuyE2IjH2zoMLgJxoJ7Roo8TOXZP6L_e2yl9ept932FWv&gaa_ts=69884eb8&gaa_sig=4Go_8RYKsG6CJeDJf9MQDsswoLSGQbHcSSWoB8qROH7YDDM60t7GOk2jrEhEPgMFL7V-fHFaXaLFlYJpOHonoA%3D%3D)**
 
 The Wall Street Journal • 2d ago
 
@@ -290,7 +290,7 @@ Bitcoin behaves more like an "ATM" during uncertain times, with investors quickl
 
 Bithumb, Korea's second-largest cryptocurrency exchange, mistakenly credited users with Bitcoin worth approximately 260 billion won ($195 million), instead of the modest number of reward points or Bitcoin that it had intended to distribute.
 
-⬆️ 3 • 💬 0 • 14h ago • [koreajoongangdaily.joins.com](https://koreajoongangdaily.joins.com/news/2026-02-07/business/finance/Crypto-exchange-Bithumb-mistakenly-hands-out-195M-in-Bitcoin-to-users-in-Random-Box-giveaway/2518495)
+⬆️ 3 • 💬 0 • 15h ago • [koreajoongangdaily.joins.com](https://koreajoongangdaily.joins.com/news/2026-02-07/business/finance/Crypto-exchange-Bithumb-mistakenly-hands-out-195M-in-Bitcoin-to-users-in-Random-Box-giveaway/2518495)
 
 ---
 
