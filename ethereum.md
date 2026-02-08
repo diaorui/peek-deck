@@ -3,13 +3,13 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-02-08T14:56:19.587241+00:00'
+updated: '2026-02-08T15:31:17.620063+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- news
 - cryptocurrency
+- news
 - videos
 - social
 ---
@@ -18,7 +18,7 @@ data_types:
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** February 08, 2026 at 14:56 UTC  
+**Last Updated:** February 08, 2026 at 15:31 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,27 +42,27 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** +3.3%  
-**7d:** -9.6%  
-**30d:** -31.4%  
-**90d:** -37.9%  
-**1y:** -19.4%  
+**24h:** +2.6%  
+**7d:** -10.2%  
+**30d:** -31.8%  
+**90d:** -38.3%  
+**1y:** -19.9%  
 
 ---
 
 ## Ethereum Market Stats
 
-**Market Cap:** $255.64B
+**Market Cap:** $253.67B
 Rank #2
 
 **Circulating Supply:** 120,692,627 ETH
 No max supply
 
 **All-Time High:** $4,946.05
--57.2%
+-57.5%
 
 **All-Time Low:** $0.43
-+489124.7%
++485177.6%
 
 ---
 
@@ -72,7 +72,7 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-8h ago
+9h ago
 
 ---
 
@@ -92,7 +92,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 **[We're building an open-source archive of the earliest Ethereum smart contracts (2015-2017) — looking for contributors](https://www.reddit.com/r/ethereum/comments/1qymum3/were_building_an_opensource_archive_of_the/)**
 
-19h ago
+20h ago
 
 ---
 
@@ -152,7 +152,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 Ethereum's shift to a new cryptocurrency mining mechanism has demonstrated how the industry is changing its ways.
 
-The Cool Down • 23h ago
+The Cool Down • 1d ago
 
 ---
 
@@ -174,7 +174,7 @@ Investing.com • 2d ago
 
 Ethereum’s recent sell-off has weighed heavily on sentiment after the price fell below the $2,000 level and pulled much of the altcoin market lower alongside it. The move has caused sweeping fear and caution among Ethereum traders. However, some analysts are of the notion that a bullish upside will…
 
-TradingView • 11h ago
+TradingView • 12h ago
 
 ---
 
@@ -198,7 +198,7 @@ Mashable • 1d ago
 
 A leaked pitch to reshape Ethereum’s leadership exposed deep divisions over politics, power and Ether’s static price
 
-The Guardian • 2d ago
+The Guardian • 3d ago
 
 ---
 
@@ -222,7 +222,7 @@ Yahoo Finance • 3d ago
 
 Solana may be outperforming Ethereum across key metrics right now.
 
-AMBCrypto • 9h ago
+AMBCrypto • 10h ago
 
 ---
 
@@ -236,7 +236,7 @@ ETHEREUM ETH PRICE PREDICTION 2026 Join the Premium Signal Group for trade setup
 
 📺 Cilinix Crypto
 
-👁️ 313 • 👍 16 • 💬 4 • ⏱️ 4:21 • 4h ago
+👁️ 382 • 👍 17 • 💬 4 • ⏱️ 4:21 • 5h ago
 
 ---
 
@@ -246,7 +246,7 @@ Tom Lee, Fundstrat, joins 'Closing Bell' to discuss the state of crypto markets,
 
 📺 CNBC Television
 
-👁️ 76K • 👍 786 • 💬 316 • ⏱️ 3:53 • 1d ago
+👁️ 76K • 👍 796 • 💬 317 • ⏱️ 3:53 • 1d ago
 
 ---
 
@@ -256,7 +256,7 @@ This video provides a professional Elliott Wave and technical analysis of Ethere
 
 📺 More Crypto Online
 
-👁️ 2K • 👍 186 • 💬 12 • ⏱️ 5:21 • 8h ago
+👁️ 3K • 👍 199 • 💬 12 • ⏱️ 5:21 • 9h ago
 
 ---
 
@@ -266,17 +266,7 @@ BITCOIN & ALTCOINS: New Targets Confirmed (Prepare Now)!!! - Bitcoin News Today,
 
 📺 Crypto World
 
-👁️ 12K • 👍 409 • 💬 226 • ⏱️ 17:07 • 17h ago
-
----
-
-**[Tom Lee: Don&#39;t Be Fooled! Ethereum To $22,000 By THIS Date (2026 Prediction)](https://www.youtube.com/watch?v=htwTdCTCINI)**
-
-My FREE Daily 5-Min Crypto Newsletter: https://www.cryptonutshell.com/subscribe ✓ Subscribe to @TheCryptoNutshell for daily ...
-
-📺 Crypto Nutshell
-
-👁️ 19K • 👍 500 • 💬 156 • ⏱️ 22:22 • 2d ago
+👁️ 12K • 👍 421 • 💬 222 • ⏱️ 17:07 • 17h ago
 
 ---
 
@@ -286,27 +276,7 @@ One of the biggest crypto crashes in history! Here is what happened, why and my 
 
 📺 Thomas Kralow
 
-👁️ 40K • 👍 2K • 💬 79 • ⏱️ 11:51 • 2d ago
-
----
-
-**[Ethereum Elliott Wave Update – Key Resistance Levels Ahead](https://www.youtube.com/watch?v=H_Y7-M-mSto)**
-
-This video provides a professional Elliott Wave and technical analysis of Ethereum (ETH), focusing on market structure, major ...
-
-📺 More Crypto Online
-
-👁️ 4K • 👍 204 • 💬 11 • ⏱️ 4:56 • 18h ago
-
----
-
-**[I Think Something Insane Is About To Happen To Bitcoin And Ethereum But No One Is Seeing The Signs](https://www.youtube.com/watch?v=edXKNl2JR_s)**
-
-Uhh... so... is anyone else getting that strange feeling that something big is about to go down in the crypto market. We've seen tons ...
-
-📺 Money Rules - Investing Tips 
-
-👁️ 13K • 👍 2K • 💬 218 • ⏱️ 13:13 • 2d ago
+👁️ 41K • 👍 2K • 💬 80 • ⏱️ 11:51 • 2d ago
 
 ---
 
@@ -320,13 +290,43 @@ Take Control of Your Retirement — Grow Crypto & Gold Tax-Advantaged. https://w
 
 ---
 
+**[I Think Something Insane Is About To Happen To Bitcoin And Ethereum But No One Is Seeing The Signs](https://www.youtube.com/watch?v=edXKNl2JR_s)**
+
+Uhh... so... is anyone else getting that strange feeling that something big is about to go down in the crypto market. We've seen tons ...
+
+📺 Money Rules - Investing Tips 
+
+👁️ 13K • 👍 2K • 💬 218 • ⏱️ 13:13 • 2d ago
+
+---
+
 **[The Ethereum Bottom ISN&#39;T In Yet.](https://www.youtube.com/watch?v=zFcWMpTYIQA)**
 
 Get $450 Off Our New AI Indicators: https://tradeconfidentportal.io/indic... Join Trade Confident: Get 25% Off Your 1st Month: ...
 
 📺 Trade Confident
 
-👁️ 816 • 👍 27 • 💬 2 • ⏱️ 5:06 • 1d ago
+👁️ 823 • 👍 27 • 💬 2 • ⏱️ 5:06 • 1d ago
+
+---
+
+**[Ethereum Elliott Wave Update – Key Resistance Levels Ahead](https://www.youtube.com/watch?v=H_Y7-M-mSto)**
+
+This video provides a professional Elliott Wave and technical analysis of Ethereum (ETH), focusing on market structure, major ...
+
+📺 More Crypto Online
+
+👁️ 4K • 👍 204 • 💬 11 • ⏱️ 4:56 • 19h ago
+
+---
+
+**[WHY ETH MAY CRASH AGAIN🚨 (Ethereum Price Prediction 2026)](https://www.youtube.com/watch?v=P4mMFFYwyRs)**
+
+ETHEREUM ETH PRICE PREDICTION 2026 Join the Premium Signal Group for trade setups, mentorship & a community ...
+
+📺 Cilinix Crypto
+
+👁️ 911 • 👍 30 • 💬 8 • ⏱️ 5:23 • 1d ago
 
 ---
 

@@ -3,7 +3,7 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-02-08T14:56:19.590458+00:00'
+updated: '2026-02-08T15:31:17.623267+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
@@ -17,7 +17,7 @@ data_types:
 
 Robotics research and industry news
 
-**Last Updated:** February 08, 2026 at 14:56 UTC  
+**Last Updated:** February 08, 2026 at 15:31 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -34,7 +34,7 @@ Robotics research and industry news
 
 **[LeRobot's ACT running on my robotic arm](https://www.reddit.com/r/robotics/comments/1qz65ru/lerobots_act_running_on_my_robotic_arm/)**
 
-3h ago
+4h ago
 
 ---
 
@@ -43,6 +43,14 @@ Robotics research and industry news
 Pantograph website: https://pantograph.com/ Pantograph on 𝕏: http://x.com/pantographPBC
 
 1d ago
+
+---
+
+**[Fixing broken depth maps on glass and reflective surfaces, then grasping objects raw sensors couldn't even see](https://www.reddit.com/r/robotics/comments/1qzbsca/fixing_broken_depth_maps_on_glass_and_reflective/)**
+
+We've been working on a depth completion model called LingBot-Depth (paper: arxiv.org/abs/2601.17895, code: github.com/robbyant/lingbot-depth) and wanted to share some real world results from our grasping pipeline since the depth sensor problem is something a lot of people here deal with. [Video] Demo: grasping transparent objects with LingBot-Depth The setup: Rokae XMate SR5 arm with an X Hand-1 dexterous hand, Orbbec Gemini 335 for perception. If you've used any consumer RGB-D camera (RealSense, Orbbec, etc.) you know the pain. Point it at a glass cup, a mirror, or a steel thermos and your depth map is just... holes. The stereo matching completely falls apart on those surfaces because both views look identical or distorted. We co-mounted a ZED mini as a reference and honestly it wasn't much better on glass walls and aquarium tunnels. The core idea behind LingBot-Depth is what we call Masked Depth Modeling. Instead of treating those missing depth regions as noise to filter out, we treat them as a natural training signal. We feed the model the full RGB image plus whatever valid depth tokens remain, and it learns to predict what's missing using visual context. The architecture is a ViT-Large encoder with separate patch embeddings for RGB and depth, followed by a ConvStack decoder. We pretrained on ~10M RGB-depth pairs (3M self-curated including 2M real captures from homes, offices, gyms, lobbies, outdoor scenes plus 1M synthetic with simulated stereo matching artifacts, and 7M from public datasets). The grasping results are what made this feel worth sharing here. We tested on four objects that are notorious sensor killers: Stainless steel cup: 13/20 with raw depth → 17/20 with our completed depth Transparent cup: 12/20 → 16/20 Toy car (mixed materials): 9/20 → 16/20 Transparent storage box: literally 0/20 with raw depth (the sensor returned almost nothing) → 10/20 with ours The 50% on the storage box is honestly not great and we're not going to pretend otherwise. Highly transparent surfaces with complex geometry are still hard. But going from completely ungraspable to 50% success felt like a meaningful step. The diffusion policy for grasp pose generation is conditioned on DINOv2 features plus point cloud features from a Point Transformer, trained on HOI4D with retargeted hand poses. On the depth completion benchmarks, we saw 40 to 50% RMSE reduction versus the next best method (PromptDA) on iBims, NYUv2, DIODE, and ETH3D. On sparse SfM inputs specifically, 47% RMSE improvement indoors and 38% outdoors compared to OMNI-DC variants. One thing that surprised us is the temporal consistency. We only trained on static images, no video data at all, but when we run it on 30fps Orbbec streams the output is remarkably stable across frames. We used this for online 3D point tracking with SpatialTrackerV2 and got much smoother camera trajectories compared to raw sensor depth, especially in scenes with glass walls where the raw depth causes severe drift. We released the code, checkpoints (HuggingFace and ModelScope), and the full 3M RGB-depth dataset. Inference runs at ~30fps on 640x480 frames with an A100, and should be reasonable on consumer GPUs like an RTX 3090 as well since the encoder is just a ViT-L/14. If you're working with consumer depth cameras and dealing with missing depth on tricky surfaces, this might be useful for your pipeline. Curious if anyone has tried similar approaches for depth refinement in their manipulation setups, or if there are specific failure cases you'd want us to test. We've mostly evaluated on tabletop grasping and indoor navigation so far.
+
+3m ago
 
 ---
 
@@ -58,7 +66,7 @@ Just out of curiosity, and because I plan to make my own 4 wheeled rover + LLM/V
 
 Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.
 
-🔗 [youtube.com](https://www.youtube.com/watch?v=FqfTQFuSalY) • 1h ago
+🔗 [youtube.com](https://www.youtube.com/watch?v=FqfTQFuSalY) • 2h ago
 
 ---
 
@@ -66,7 +74,7 @@ Enjoy the videos and music you love, upload original content, and share it all w
 
 I’m a software engineer trying to move into robotics and autonomy. I understand high-level stuff (perception, planning, control) but I’m confused how this looks in real systems and not research slides. For example: what actually runs on the robot vs offboard? how tightly coupled are sensors + control code? is ROS really used in production or mostly research? I’m interested in recon / monitoring robots, just trying to learn from people who’ve done this for real.
 
-1h ago
+2h ago
 
 ---
 
@@ -80,7 +88,7 @@ I’m a software engineer trying to move into robotics and autonomy. I understan
 
 The chest finally finished printing after 5 days of printing. I assembled it and so far it looks like this, i still have to build the right arm and mount them. I know it may not look that good but it’s my first time doing such a big project and i’m still learning.
 
-22h ago
+23h ago
 
 ---
 
@@ -88,7 +96,7 @@ The chest finally finished printing after 5 days of printing. I assembled it and
 
 Once again, Boston Dynamics just leaving everyone in the dust. Watch all the chinese copycats try to do the same thing. https://www.youtube.com/watch?v=UNorxwlZlFk
 
-16h ago
+17h ago
 
 ---
 
@@ -97,14 +105,6 @@ Once again, Boston Dynamics just leaving everyone in the dust. Watch all the chi
 How viable is a Robotics-as-a-Service (RaaS) startup today? I’m evaluating the idea of starting a small RaaS company and wanted honest feedback from people who’ve been in hardware, robotics, or service-based startups. A few things I’m trying to understand: Which verticals actually work (security, cleaning, warehouse, etc.)? What does it realistically cost to deploy the first few robots? How long did it take to get your first paying customer? Is the bigger challenge the technology, hardware costs, or field service/operations? Would you recommend starting as an integrator (using existing robots) vs building your own? Any real numbers, lessons learned, or “things you wish you knew earlier” would be really helpful.
 
 8h ago
-
----
-
-**[Redesigning the environment for the robot may be cheaper and more efficient than redesigning the robot for the environment.](https://www.reddit.com/r/robotics/comments/1qyc1eb/redesigning_the_environment_for_the_robot_may_be/)**
-
-There is the popular argument for why having a humanoid robot would be the best way to do things: "because the environment is human shaped/designed for humans." However, why are we assuming it would be necessarily harder to redesign the environment so a simpler non-humanoid robot can make use of it rather than recreating the entire human body and all its complexities in robot form while trying to make it suitable to many different varying environments? Also, this argument implies the environment is exclusively human shaped, meaning a machine with human shapes and function is the only way forward in order for it traverse and interact with the environment, but this is not true. For instance, a flat floor, which is designed for human use, also allows use by a non-humanoid robot with wheels.
-
-1d ago
 
 ---
 
@@ -120,11 +120,11 @@ Interesting Engineering • 1d ago
 
 ---
 
-**[Trade Unions Alarmed by Robots Designed to Do Blue Collar Work](https://futurism.com/robots-and-machines/trade-unions-ai-robotics)**
+**[Making robots useful and affordable will need better motors](https://www.bbc.com/news/articles/c5y46356zzyo)**
 
-Union organizers are growing increasingly worried about a future in which AI-powered robots decimate blue collar labor.
+Firms are working to make the motors that drive robots more efficient and cheaper.
 
-Futurism • 21h ago
+BBC • 2d ago
 
 ---
 
@@ -148,15 +148,21 @@ The Robot Report • 1h ago
 
 AGIBOT, a leading robotics company specializing in embodied intelligence, today hosted AGIBOT NIGHT, a robot-led gala show streaming on February 8. The 60-minute program marks the world's first large-scale live event fully led by humanoid robots, where humanoid robots took center stage to perform dance, magic, comedy, and music, appearing not as tools or supporting elements, but as the primary performers throughout the show.
 
-Yahoo Finance Singapore • 2h ago
+Yahoo Finance Singapore • 3h ago
+
+---
+
+**[Elon Musk warns the U.S. is '1,000% going to go bankrupt' unless AI and robotics save the economy from crushing debt](https://fortune.com/2026/02/07/elon-musk-us-bankruptcy-ai-robotics-economic-growth-national-debt-crisis/)**
+
+"We just need enough time to build the AI and robots to not go bankrupt before then."
+
+Fortune • 20h ago
 
 ---
 
 **[Walmart to add automation, robotics to Louisiana distribution center](https://www.supplychaindive.com/news/walmart-automation-robotics-opelousas-louisiana-distribution-center/811025/)**
 
-The retailer’s $330 million investment, slated to start this year, is part of a larger effort to upgrade all 42 of its regional distribution facilities.
-
-Supply Chain Dive • 2d ago
+Supply Chain Dive • 3d ago
 
 ---
 
@@ -168,25 +174,17 @@ ASUS Pressroom • 3d ago
 
 ---
 
+**[NEURA Robotics Highlights Global Hiring and Talent Expansion in Cognitive Robotics](https://www.tipranks.com/news/private-companies/neura-robotics-highlights-global-hiring-and-talent-expansion-in-cognitive-robotics)**
+
+According to a recent LinkedIn post from NEURA Robotics, the company is emphasizing its organizational culture and ongoing hiring efforts across Germany, Switzerlan...
+
+TipRanks • 2d ago
+
+---
+
 **[Why Do We Feel Empathy for Robots?](https://www.bloomberg.com/opinion/articles/2026-02-05/why-do-we-feel-empathy-for-robots)**
 
 Bloomberg.com • 2d ago
-
----
-
-**[My neighborhood is pushing back against sidewalk delivery robots. The fight’s coming to your town next](https://www.fastcompany.com/91486773/sidewalk-delivery-robots-coco-serve-chicago-backlash)**
-
-A dispatch from the bucolic Chicago neighborhood that's the latest battleground between tech and cities over food delivery robots.
-
-Fast Company • 3d ago
-
----
-
-**[Watch: Humanoid robots work together using the same AI 'brain'](https://www.euronews.com/next/2026/02/05/watch-humanoid-robots-work-together-using-the-same-ai-brain)**
-
-Until now, humanoid robots have largely worked on their own. A new AI system is designed to run them together.
-
-Euronews.com • 3d ago
 
 ---
 
@@ -200,7 +198,7 @@ Humanoid robots just entered a new phase of realism. In Shanghai, DroidUp reveal
 
 📺 AI Revolution
 
-👁️ 203K • 👍 4K • 💬 849 • ⏱️ 13:31 • 3d ago
+👁️ 204K • 👍 4K • 💬 857 • ⏱️ 13:31 • 3d ago
 
 ---
 
@@ -210,17 +208,7 @@ Artificial Intelligence and Robotics are no longer “future ideas” — they a
 
 📺 Billionaire Shots
 
-👁️ 560 • 👍 76 • 💬 21 • ⏱️ 0:30 • 1h ago
-
----
-
-**[Atlas Airborne Robot Shows the Final Evolution of Boston Dynamics](https://www.youtube.com/watch?v=IjRjKwZhYCQ)**
-
-The Atlas Airborne Robot takes one final research run as Boston Dynamics pushes humanoid robot control to its absolute limit.
-
-📺 DPCcars
-
-👁️ 14K • 👍 165 • 💬 37 • ⏱️ 2:45 • 19h ago
+👁️ 929 • 👍 123 • 💬 26 • ⏱️ 0:30 • 1h ago
 
 ---
 
@@ -230,17 +218,17 @@ Now that the Atlas enterprise platform is getting to work, the research version 
 
 📺 Boston Dynamics
 
-👁️ 332K • 👍 18K • 💬 2K • ⏱️ 1:38 • 1d ago
+👁️ 338K • 👍 18K • 💬 2K • ⏱️ 1:38 • 1d ago
 
 ---
 
-**[Chinese Robotic Hand With Human Level Dexterity](https://www.youtube.com/watch?v=ynodBTnsuis)**
+**[Atlas Airborne Robot Shows the Final Evolution of Boston Dynamics](https://www.youtube.com/watch?v=IjRjKwZhYCQ)**
 
-Pan Motor's Wuji Hand packs twenty fully actuated joints into a sub six hundred gram robotic hand, delivering fine motor control, ...
+The Atlas Airborne Robot takes one final research run as Boston Dynamics pushes humanoid robot control to its absolute limit.
 
-📺 Deepen
+📺 DPCcars
 
-👁️ 17K • 👍 344 • 💬 8 • ⏱️ 0:19 • 12h ago
+👁️ 16K • 👍 175 • 💬 39 • ⏱️ 2:45 • 20h ago
 
 ---
 
@@ -250,27 +238,17 @@ Pan Motor's Wuji Hand packs twenty fully actuated joints into a sub six hundred 
 
 📺 Unitree Robotics
 
-👁️ 136K • 👍 1K • 💬 152 • ⏱️ 0:45 • 6d ago
+👁️ 137K • 👍 1K • 💬 153 • ⏱️ 0:45 • 6d ago
 
 ---
 
-**[The Robot Revolution Just Got Real: Why Boston Dynamics and Figure Are About to Change Everything](https://www.youtube.com/watch?v=M36fg52xqtc)**
+**[Chinese Robotic Hand With Human Level Dexterity](https://www.youtube.com/watch?v=ynodBTnsuis)**
 
-GET MY FREE GUIDE: *The Content Creator's AI Blueprint: From 25 Hours to 5 Minutes* https://FirstMovers.ai/blueprint/ ...
+Pan Motor's Wuji Hand packs twenty fully actuated joints into a sub six hundred gram robotic hand, delivering fine motor control, ...
 
-📺 Julia McCoy
+📺 Deepen
 
-👁️ 24K • 👍 1K • 💬 262 • ⏱️ 17:32 • 23h ago
-
----
-
-**[Strongest Robot Doesn&#39;t Always Win 🤯](https://www.youtube.com/watch?v=JIW-cmPW0uE)**
-
-shorts.
-
-📺 Tenzo Shortz
-
-👁️ 651 • ⏱️ 0:27 • 1h ago
+👁️ 19K • 👍 351 • 💬 8 • ⏱️ 0:19 • 13h ago
 
 ---
 
@@ -280,17 +258,37 @@ XPeng just showed the world what real humanoid robot progress looks like. During
 
 📺 DPCcars
 
-👁️ 39K • 👍 158 • 💬 54 • ⏱️ 2:06 • 6d ago
+👁️ 39K • 👍 160 • 💬 54 • ⏱️ 2:06 • 6d ago
 
 ---
 
-**[A Robotic Mouth That Speaks Like a Human 😳](https://www.youtube.com/watch?v=x6M2gCzUTJM)**
+**[Strongest Robot Doesn&#39;t Always Win 🤯](https://www.youtube.com/watch?v=JIW-cmPW0uE)**
 
-This robotic mouth is designed to replicate how real human lips move while speaking. Using actuators and soft materials, it copies ...
+shorts.
 
-📺 Facts TV 91
+📺 Tenzo Shortz
 
-👁️ 79K • 👍 518 • 💬 37 • ⏱️ 0:06 • 4d ago
+👁️ 1K • ⏱️ 0:27 • 1h ago
+
+---
+
+**[The Robot Revolution Just Got Real: Why Boston Dynamics and Figure Are About to Change Everything](https://www.youtube.com/watch?v=M36fg52xqtc)**
+
+GET MY FREE GUIDE: *The Content Creator's AI Blueprint: From 25 Hours to 5 Minutes* https://FirstMovers.ai/blueprint/ ...
+
+📺 Julia McCoy
+
+👁️ 25K • 👍 1K • 💬 263 • ⏱️ 17:32 • 1d ago
+
+---
+
+**[Capybara Rebuilds a Robot Lion After Sabotage vs Brianna! 🦁🤖 #capybara](https://www.youtube.com/watch?v=Pwu7G4jC3FA)**
+
+Capybara's golden robot lion was sabotaged by Brianna before the big competition! But Cappy didn't give up — he rebuilt ...
+
+📺 CapyEscapes
+
+👁️ 36K • 👍 1K • 💬 157 • ⏱️ 0:59 • 1d ago
 
 ---
 
