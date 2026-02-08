@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-02-08T06:12:08.557637+00:00'
+updated: '2026-02-08T07:12:55.826653+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- news
 - repositories
-- social
 - videos
+- news
+- social
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** February 08, 2026 at 06:12 UTC  
+**Last Updated:** February 08, 2026 at 07:12 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -41,13 +41,13 @@ AI news, discussions, and developments
 
 Countries have been building their own “sovereign AI” to reflect their culture and values, and OpenAI wants to help them....
 
-🔗 [Sherwood News](https://sherwood.news/tech/report-openai-may-tailor-a-version-of-chatgpt-for-uae-that-prohibits-lgbtq/) • 20h ago
+🔗 [Sherwood News](https://sherwood.news/tech/report-openai-may-tailor-a-version-of-chatgpt-for-uae-that-prohibits-lgbtq/) • 21h ago
 
 ---
 
 **[Nvidia CEO Says AI Capital Spending Is Appropriate, Sustainable](https://www.reddit.com/r/artificial/comments/1qyx57y/nvidia_ceo_says_ai_capital_spending_is/)**
 
-🔗 [bloomberg.com](https://www.bloomberg.com/news/articles/2026-02-06/nvidia-ceo-says-ai-capital-spending-is-appropriate-sustainable?srnd=phx-technology&leadSource=reddit_wall) • 3h ago
+🔗 [bloomberg.com](https://www.bloomberg.com/news/articles/2026-02-06/nvidia-ceo-says-ai-capital-spending-is-appropriate-sustainable?srnd=phx-technology&leadSource=reddit_wall) • 4h ago
 
 ---
 
@@ -55,7 +55,7 @@ Countries have been building their own “sovereign AI” to reflect their cultu
 
 I have been working solo on an AI-based project called Netryx. At a high level, it takes a street-level photo and attempts to determine the exact GPS coordinates where the image was taken. Not a city guess or a heatmap. The actual location, down to meters. If the system cannot verify the result with high confidence, it returns nothing. That behavior is intentional. Most AI geolocation tools will confidently give an answer even when they are wrong. Netryx is designed to fail closed. No verification means no output. Conceptually, it works in two stages. An AI model first narrows down likely areas based on visual features, either globally or within a user-defined region. A separate verification step then compares candidates against real street-level imagery. If verification fails, the result is discarded. This means it is not magic and not globally omniscient. The system requires pre-mapped street-level coverage to verify locations. Think of it as an AI-assisted visual index of physical space. As a test, I mapped roughly 5 square kilometers of Paris and fed in a random street photo from within that area. It identified the exact intersection in under three minutes. A few clarifications upfront: • It is not open source right now due to obvious privacy and abuse risks • It requires prior street-level coverage to return results • AI proposes candidates, verification gates all outputs • I am not interested in locating people from social media photos I am posting this here to get perspective from the security community. From a defensive angle, this shows how much location data AI can extract from ordinary images. From an offensive angle, the risks are clear. For those working in cybersecurity or AI security: where do you think the line is between a legitimate AI-powered OSINT capability and something that should not exist?
 
-23h ago
+1d ago
 
 ---
 
@@ -63,7 +63,7 @@ I have been working solo on an AI-based project called Netryx. At a high level, 
 
 Let’s say the quiet part out loud.
 
-🔗 [Medium](https://medium.com/@behindthebuild/big-tech-ai-isnt-taking-your-job-your-refusal-to-use-it-might-966f8219f962) • 12h ago
+🔗 [Medium](https://medium.com/@behindthebuild/big-tech-ai-isnt-taking-your-job-your-refusal-to-use-it-might-966f8219f962) • 13h ago
 
 ---
 
@@ -71,7 +71,7 @@ Let’s say the quiet part out loud.
 
 Hey fam, Been grinding on BrainAPI, this open-source thing that turns messy event logs into a smart knowledge graph for AI agents and rec systems. Think: feed it user clicks/buys/chats, it builds a precise map with cause-effect attribution (no BS hallucinations), then your AI retrieves fast AF for spot-on suggestions. Right now: Core APIs for saving/processing data -> works for CRM member matches/social networks (one user already using it for automated matches). Fast retrieval But ingestion? Slow as hell (10-30 min on small datasets) cuz of heavy LLM chains for precision. Trade-off for that "holy grail" accuracy, but yeah, it's a pain, optimizing soon. Repo: https://github.com/Lumen-Labs/brainapi2 What's the vibe? Bugs? Missing features? Use cases for ecom or agents? Roast it hard, I'm not fragile. If it slaps, star/fork. Building in public, hit me with thoughts!
 
-9h ago
+10h ago
 
 ---
 
@@ -79,7 +79,7 @@ Hey fam, Been grinding on BrainAPI, this open-source thing that turns messy even
 
 One of Kimi’s browser automation scripts uses a dark web library with crypto stealing malware: https://github.com/dnnyngyen/kimi-agent-internals/blob/main/source-code/browser_guard.py
 
-12h ago
+13h ago
 
 ---
 
@@ -123,7 +123,7 @@ It happened again. A 13-person team in Shenzhen just shipped a browser-based ver
 
 The hundreds of billions of dollars being spent by tech companies on AI projects are diverting resources from other parts of the economy.
 
-The Washington Post • 12h ago
+The Washington Post • 13h ago
 
 ---
 
@@ -131,11 +131,19 @@ The Washington Post • 12h ago
 
 AI isn't just hitting software valuations — it's changing how software companies operate.
 
-Axios • 14h ago
+Axios • 15h ago
 
 ---
 
-**[Here’s Where AI Is Tearing Through Corporate America](https://www.wsj.com/tech/ai/ai-software-business-stock-market-4b17b432?gaa_at=eafs&gaa_n=AWEtsqdZdTXmaR5d9S1rcSWswptwS1NB2SbHlAqP1ix7_OQVOrNzsFywqVt8&gaa_ts=69882ca5&gaa_sig=VaywZHqAV-ap4N6Jjd1FlNwqrsqfTG2r6ZsEaMN7-LNe1QL4VqsQEC-wT9HmIn0_FjCB6MAiW6bq2XftcLGn9Q%3D%3D)**
+**[From AI to death toll signs: What Austin could learn from other cities’ drowning solutions](https://www.yahoo.com/news/articles/ai-death-toll-signs-austin-060100764.html)**
+
+After a KXAN analysis revealed at least 30 drowning deaths over the past decade at Lady Bird Lake, we pinpointed three communities that have implemented safety measures officials believe are saving li...
+
+Yahoo • 1h ago
+
+---
+
+**[Here’s Where AI Is Tearing Through Corporate America](https://www.wsj.com/tech/ai/ai-software-business-stock-market-4b17b432?gaa_at=eafs&gaa_n=AWEtsqesl5aaKrZVT-nyr-u0YDvOxXqzPElKE0bcIJ64k2FGTBGvbnpuYa6P&gaa_ts=69883adf&gaa_sig=27Z66DBDqH7bYImPwOCQ6Rqp2Ih-1-FGtYF_5UrvuW_NrQoKx_ObHDhBmoZdq1Oo0Q9Em7BN6DjNoAwUAXSPwQ%3D%3D)**
 
 The Wall Street Journal • 1d ago
 
@@ -145,7 +153,7 @@ The Wall Street Journal • 1d ago
 
 In a new interview, the journalist Yi-Ling Liu argues the AI arms race between the United States and China risks becoming a self-fulfilling prophecy.
 
-Politico • 15h ago
+Politico • 16h ago
 
 ---
 
@@ -153,15 +161,7 @@ Politico • 15h ago
 
 Meet the LA boy who turned a multi-millionaire starting an AI training company
 
-latimes.com • 19h ago
-
----
-
-**[Anthropic cofounder says studying the humanities will be 'more important than ever' in the age of AI](https://fortune.com/2026/02/07/anthropic-cofounder-daniela-amodei-humanities-majors-soft-skills-hiring-ai-stem/)**
-
-"The things that make us human will become much more important instead of much less important."
-
-Fortune • 12h ago
+latimes.com • 20h ago
 
 ---
 
@@ -169,7 +169,7 @@ Fortune • 12h ago
 
 SpaceX’s acquisition of xAI creates business worth $1.25tn but whether premise behind deal will work is questioned
 
-The Guardian • 16h ago
+The Guardian • 17h ago
 
 ---
 
@@ -177,19 +177,21 @@ The Guardian • 16h ago
 
 Laid-off workers are wondering whether AI played a role in their job losses, and what it means for their next career moves.
 
-Business Insider • 21h ago
+Business Insider • 22h ago
 
 ---
 
-**[From churches to chatbots: How AI is fusing with religion](https://www.reuters.com/technology/ai-and-us/pulpits-chatbots-how-ai-is-fusing-with-religion-2026-02-07/)**
+**[Moltbook was peak AI theater](https://www.technologyreview.com/2026/02/06/1132448/moltbook-was-peak-ai-theater/)**
 
-Reuters • 19h ago
+The viral social network for bots reveals as much about our own current mania for AI as it does about the future of agents.
+
+MIT Technology Review • 1d ago
 
 ---
 
 **[Tech’s AI Push Risks a Bond Market Blowback: Credit Weekly](https://www.bloomberg.com/news/articles/2026-02-07/tech-s-ai-push-risks-a-bond-blowback-amzn-googl-msft-orcl)**
 
-Bloomberg.com • 11h ago
+Bloomberg.com • 12h ago
 
 ---
 
@@ -199,7 +201,7 @@ Bloomberg.com • 11h ago
 
 **[My AI Adoption Journey](https://news.ycombinator.com/item?id=46903558)**
 
-⬆️ 938 • 💬 395 • 2d ago • [Mitchell Hashimoto](https://mitchellh.com/writing/my-ai-adoption-journey)
+⬆️ 941 • 💬 395 • 2d ago • [Mitchell Hashimoto](https://mitchellh.com/writing/my-ai-adoption-journey)
 
 ---
 
@@ -215,15 +217,7 @@ A new bill in the New York state legislature would require news organizations to
 
 AI is rarely optional anymore, but how can you still be proud of your craft? Discover the workflow to effectively write high-quality, robust code using AI tools.
 
-⬆️ 330 • 💬 290 • 1d ago • [heidenstedt.org](https://heidenstedt.org/posts/2026/how-to-effectively-write-quality-code-with-ai/)
-
----
-
-**[Monty: A minimal, secure Python interpreter written in Rust for use by AI](https://news.ycombinator.com/item?id=46918254)**
-
-A minimal, secure Python interpreter written in Rust for use by AI - pydantic/monty
-
-⬆️ 312 • 💬 157 • 1d ago • [GitHub](https://github.com/pydantic/monty)
+⬆️ 333 • 💬 291 • 1d ago • [heidenstedt.org](https://heidenstedt.org/posts/2026/how-to-effectively-write-quality-code-with-ai/)
 
 ---
 
@@ -231,7 +225,15 @@ A minimal, secure Python interpreter written in Rust for use by AI - pydantic/mo
 
 The hundreds of billions of dollars being spent by tech companies on AI projects are diverting resources from other parts of the economy.
 
-⬆️ 305 • 💬 486 • 18h ago • [The Washington Post](https://www.washingtonpost.com/technology/2026/02/07/ai-spending-economy-shortages/)
+⬆️ 315 • 💬 505 • 19h ago • [The Washington Post](https://www.washingtonpost.com/technology/2026/02/07/ai-spending-economy-shortages/)
+
+---
+
+**[Monty: A minimal, secure Python interpreter written in Rust for use by AI](https://news.ycombinator.com/item?id=46918254)**
+
+A minimal, secure Python interpreter written in Rust for use by AI - pydantic/monty
+
+⬆️ 314 • 💬 158 • 1d ago • [GitHub](https://github.com/pydantic/monty)
 
 ---
 
@@ -239,7 +241,7 @@ The hundreds of billions of dollars being spent by tech companies on AI projects
 
 Contribute to localgpt-app/localgpt development by creating an account on GitHub.
 
-⬆️ 134 • 💬 38 • 4h ago • [GitHub](https://github.com/localgpt-app/localgpt)
+⬆️ 160 • 💬 48 • 5h ago • [GitHub](https://github.com/localgpt-app/localgpt)
 
 ---
 
@@ -255,7 +257,7 @@ Women in rural communities describe trauma of moderating violent and pornographi
 
 Give your AI agent a browser that actually works
 
-⬆️ 98 • 💬 70 • 2d ago • [docs.smooth.sh](https://docs.smooth.sh/cli/overview)
+⬆️ 100 • 💬 70 • 2d ago • [docs.smooth.sh](https://docs.smooth.sh/cli/overview)
 
 ---
 
@@ -279,43 +281,23 @@ A California man is facing a criminal charge for allegedly BASE jumping off Glac
 
 ## YouTube Videos: "ai"
 
+**[The AI crash will change everything](https://www.youtube.com/watch?v=FEbC3xJBRf8)**
+
+Become a member! ✓ https://www.youtube.com/channel/UCahJ9IsvXnaQiuNyWQSkrkw/join ⭐ Support independent daily news ...
+
+📺 Chris Norlund
+
+👁️ 77K • 👍 5K • 💬 1K • ⏱️ 17:42 • 8h ago
+
+---
+
 **[🚨ALARMING! An AI Just Wiped Out $285B From The Financial Markets…🔥](https://www.youtube.com/watch?v=lRwduk14uHY)**
 
 1. Get 90% OFF A Course Today: https://www.neilmccoyward.com/courses 2. My Investment Portfolio Join THOUSANDS of ...
 
 📺 Neil McCoy-Ward
 
-👁️ 68K • 👍 5K • 💬 607 • ⏱️ 19:58 • 1d ago
-
----
-
-**[OpenAI&#39;s New GPT 5.3 Shocks Anthropic As Opus 4.6 Strikes Back (AI War Explodes)](https://www.youtube.com/watch?v=ydW6Io2T4ho)**
-
-AI coding just entered a new phase of competition. In the same week, OpenAI unveiled GPT-5.3-Codex, a faster, more capable ...
-
-📺 AI Revolution
-
-👁️ 26K • 👍 677 • 💬 35 • ⏱️ 13:09 • 1d ago
-
----
-
-**[Anthropic&#39;s New AI Just Changed Everything](https://www.youtube.com/watch?v=ZneWerxN-qU)**
-
-Today I break down Claude Opus 4.6, Anthropic's most advanced AI model that handles complex coding, deep analysis, and ...
-
-📺 Tech Unicorn
-
-👁️ 3K • 👍 61 • 💬 13 • ⏱️ 11:40 • 23h ago
-
----
-
-**[The White Collar AI APOCALYPSE Is HERE](https://www.youtube.com/watch?v=ur295T83Wg4)**
-
-Krystal and Saagar discuss tech stocks tumbling amid emerging new fears of job loss and AI. Sign up for a PREMIUM Breaking ...
-
-📺 Breaking Points
-
-👁️ 361K • 👍 10K • 💬 2K • ⏱️ 24:33 • 2d ago
+👁️ 69K • 👍 5K • 💬 609 • ⏱️ 19:58 • 1d ago
 
 ---
 
@@ -325,55 +307,77 @@ Join our WhatsApp Community Get the latest AI updates, tips, and insights straig
 
 📺 Vaibhav Sisinty
 
-👁️ 53K • 👍 1K • 💬 54 • ⏱️ 10:30 • 1d ago
+👁️ 56K • 👍 2K • 💬 55 • ⏱️ 10:30 • 1d ago
 
 ---
 
-**[STOP Paying! Unlimited AI Video (No Credit Limits) - Kling 3.0](https://www.youtube.com/watch?v=fEBFDMSpBr0)**
+**[Dell DITCHES Microsoft — Admits Windows 11 AI PCs Are a TOTAL FAILURE!](https://www.youtube.com/watch?v=9CMmPPH5fiU)**
 
-Try Kling 3.0 with UNLIMITED video generations → https://higgsfield.ai/kling-3.0/?utm_source=MalvaA Get the FREE PDF ...
+One of the biggest PC makers just admitted something that could shake the entire tech industry. After years of hype around ...
 
-📺 Malva AI
+📺 FactWyse
 
-👁️ 11K • 👍 244 • 💬 123 • ⏱️ 8:03 • 17h ago
-
----
-
-**[Nvidia CEO Jensen Huang: AI is going to fundamentally change how we compute everything](https://www.youtube.com/watch?v=P9dX_ek_6yY)**
-
-Jensen Huang, NVIDIA CEO, joins CNBC's "Halftime Report to discuss the power of Artificial Intelligence and where he sees the ...
-
-📺 CNBC Television
-
-👁️ 132K • 👍 2K • 💬 393 • ⏱️ 8:35 • 1d ago
+👁️ 13K • 👍 680 • 💬 165 • ⏱️ 15:56 • 1d ago
 
 ---
 
-**[not good for OPENCLAW](https://www.youtube.com/watch?v=ceEUO_i7aW4)**
+**[Anthropic&#39;s New AI Just Changed Everything](https://www.youtube.com/watch?v=ZneWerxN-qU)**
 
-The latest AI News. Learn about LLMs, Gen AI and get ready for the rollout of AGI. Wes Roth covers the latest happenings in the ...
+Today I break down Claude Opus 4.6, Anthropic's most advanced AI model that handles complex coding, deep analysis, and ...
 
-📺 Wes Roth
+📺 Tech Unicorn
 
-👁️ 86K • 👍 3K • 💬 765 • ⏱️ 18:15 • 1d ago
-
----
-
-**[Real Life Vs AI. Part 53](https://www.youtube.com/watch?v=IohRX1wTkps)**
-
-📺 Jiemba Sands
-
-👁️ 265K • 👍 6K • 💬 52 • ⏱️ 0:14 • 19h ago
+👁️ 3K • 👍 61 • 💬 13 • ⏱️ 11:40 • 1d ago
 
 ---
 
-**[Grandfather built a stone house for the dog 😭 #ai #cute #dog #grandfather](https://www.youtube.com/watch?v=JXm35iKtSvs)**
+**[They&#39;re Replacing Doctors and Hospital Workers with Robots and AI](https://www.youtube.com/watch?v=1Sz7KkqBcBU)**
 
-Grandfather built a stone house for the dog #ai #cute #dog #grandfather.
+Dr. Ed Weir, Former Government Insider, DISCUSSES the unseen repercussions of AI and robots to 10s of millions of seniors, ...
 
-📺 Catfuntv
+📺 Dr. Ed Weir, PhD, Former Social Security Manager
 
-👁️ 3K • 👍 35 • ⏱️ 0:26 • 1h ago
+👁️ 2K • 👍 184 • 💬 65 • ⏱️ 16:26 • 15h ago
+
+---
+
+**[4 AI Skills That Set You Apart From 90% Of People](https://www.youtube.com/watch?v=wuOCa50e3fk)**
+
+In this video, I break down 4 practical AI skills that separate power users from everyone else, plus a simple method to spot what ...
+
+📺 Ali H. Salem
+
+👁️ 3K • 👍 229 • 💬 24 • ⏱️ 16:34 • 12h ago
+
+---
+
+**[OpenClaw Creator: Why 80% Of Apps Will Disappear](https://www.youtube.com/watch?v=4uzGDAoNOZc)**
+
+You've probably already heard all about OpenClaw (formerly Clawdbot/Moltbot). The viral sensation is an open-source AI ...
+
+📺 Y Combinator
+
+👁️ 70K • 👍 3K • 💬 195 • ⏱️ 22:36 • 16h ago
+
+---
+
+**[The White Collar AI APOCALYPSE Is HERE](https://www.youtube.com/watch?v=ur295T83Wg4)**
+
+Krystal and Saagar discuss tech stocks tumbling amid emerging new fears of job loss and AI. Sign up for a PREMIUM Breaking ...
+
+📺 Breaking Points
+
+👁️ 362K • 👍 10K • 💬 2K • ⏱️ 24:33 • 2d ago
+
+---
+
+**[OpenAI&#39;s New GPT 5.3 Shocks Anthropic As Opus 4.6 Strikes Back (AI War Explodes)](https://www.youtube.com/watch?v=ydW6Io2T4ho)**
+
+AI coding just entered a new phase of competition. In the same week, OpenAI unveiled GPT-5.3-Codex, a faster, more capable ...
+
+📺 AI Revolution
+
+👁️ 27K • 👍 689 • 💬 39 • ⏱️ 13:09 • 1d ago
 
 ---
 
@@ -389,7 +393,7 @@ GLM-OCR is a 0.9B parameter multimodal OCR model for complex document understand
 
 `image-to-text`
 
-⬇️ 204,109 • ❤️ 786 • 5d ago
+⬇️ 204,109 • ❤️ 791 • 5d ago
 
 ---
 
@@ -401,7 +405,7 @@ Qwen3-Coder-Next is an 80B parameter (3B active) LLM optimized for coding agents
 
 `text-generation` `79.7B`
 
-⬇️ 53,491 • ❤️ 590 • 4d ago
+⬇️ 53,491 • ❤️ 593 • 4d ago
 
 ---
 
@@ -413,7 +417,7 @@ Kimi K2.5 is a native multimodal agentic model with 1T parameters, excelling in 
 
 `image-text-to-text` `170.7B`
 
-⬇️ 335,220 • ❤️ 1,840 • 3d ago
+⬇️ 335,220 • ❤️ 1,845 • 3d ago
 
 ---
 
@@ -425,7 +429,7 @@ Step 3.5 Flash is an efficient, open-source MoE foundation model (11B active par
 
 `text-generation` `199.4B`
 
-⬇️ 11,980 • ❤️ 514 • 1d ago
+⬇️ 11,980 • ❤️ 516 • 1d ago
 
 ---
 
@@ -437,17 +441,7 @@ MiniCPM-o 4.5 is a 9B parameter multimodal LLM excelling in vision, speech, and 
 
 `any-to-any` `9.4B`
 
-⬇️ 5,568 • ❤️ 588 • 13h ago
-
----
-
-**[Anima](https://huggingface.co/circlestone-labs/Anima)**
-
-*CircleStone Labs*
-
-Anima is a 2 billion parameter text-to-image diffusion model specializing in anime and non-photorealistic artistic styles, trained on millions of anime and artistic images. It is designed for generating illustrations and artistic images, with primary use cases in ComfyUI workflows for anime concepts and characters.
-
-⬇️ 60,581 • ❤️ 504 • 7d ago
+⬇️ 5,568 • ❤️ 594 • 14h ago
 
 ---
 
@@ -463,13 +457,23 @@ ACE-Step 1.5 is an open-source text-to-audio music generation model capable of p
 
 ---
 
+**[Anima](https://huggingface.co/circlestone-labs/Anima)**
+
+*CircleStone Labs*
+
+Anima is a 2 billion parameter text-to-image diffusion model specializing in anime and non-photorealistic artistic styles, trained on millions of anime and artistic images. It is designed for generating illustrations and artistic images, with primary use cases in ComfyUI workflows for anime concepts and characters.
+
+⬇️ 60,581 • ❤️ 505 • 7d ago
+
+---
+
 **[Voxtral-Mini-4B-Realtime-2602](https://huggingface.co/mistralai/Voxtral-Mini-4B-Realtime-2602)**
 
 *Mistral AI_*
 
 Voxtral-Mini-4B-Realtime-2602 is a 4B-parameter, multilingual speech-to-text model offering near-offline accuracy with <500ms latency. It features a streaming architecture for real-time applications like voice assistants and live subtitling, optimized for on-device deployment.
 
-⬇️ 2,093 • ❤️ 371 • 2d ago
+⬇️ 2,093 • ❤️ 373 • 2d ago
 
 ---
 
@@ -493,7 +497,7 @@ Intern-S1-Pro is a trillion-scale MoE multimodal scientific reasoning model, exc
 
 `image-text-to-text`
 
-⬇️ 7,351 • ❤️ 194 • 3d ago
+⬇️ 7,351 • ❤️ 195 • 3d ago
 
 ---
 
@@ -651,7 +655,7 @@ AI → JSON → UI
 
 `TypeScript`
 
-⭐ 10.1k • 🔱 536 • 5h ago
+⭐ 10.1k • 🔱 537 • 6h ago
 
 ---
 
@@ -661,7 +665,7 @@ LLM驱动的 A/H/美股智能分析器，多数据源行情 + 实时新闻 + Gem
 
 `Python` `agent` `ai` `aigc` `gemini` `llm`
 
-⭐ 9.8k • 🔱 10.3k • 16h ago
+⭐ 9.8k • 🔱 10.3k • 22m ago
 
 ---
 
@@ -671,7 +675,7 @@ The Ultimate Collection of 700+ Agentic Skills for Claude Code/Antigravity/Curso
 
 `Python` `agentic-skills` `ai-agents` `antigravity` `autonomous-coding` `claude-code`
 
-⭐ 7.8k • 🔱 1.6k • 23h ago
+⭐ 7.8k • 🔱 1.6k • 28m ago
 
 ---
 
@@ -681,7 +685,7 @@ Marketing skills for Claude Code and AI agents. CRO, copywriting, SEO, analytics
 
 `claude` `codex` `marketing`
 
-⭐ 6.6k • 🔱 743 • 4d ago
+⭐ 6.6k • 🔱 745 • 4d ago
 
 ---
 
@@ -689,7 +693,7 @@ Marketing skills for Claude Code and AI agents. CRO, copywriting, SEO, analytics
 
 Elevate your AI research writing, no more tedious polishing ✨ 
 
-⭐ 4.6k • 🔱 360 • 3d ago
+⭐ 4.6k • 🔱 364 • 3d ago
 
 ---
 
@@ -697,7 +701,7 @@ Elevate your AI research writing, no more tedious polishing ✨
 
 Claude Code skill that removes signs of AI-generated writing from text
 
-⭐ 4.3k • 🔱 360 • 16d ago
+⭐ 4.4k • 🔱 361 • 16d ago
 
 ---
 
@@ -707,7 +711,7 @@ OpenSource Claude Cowork. A desktop AI assistant that helps you with programming
 
 `TypeScript`
 
-⭐ 2.8k • 🔱 378 • 2h ago
+⭐ 2.8k • 🔱 378 • 3h ago
 
 ---
 
@@ -725,7 +729,7 @@ PaperBanana: Automating Academic Illustration For AI Scientists
 
 `JavaScript`
 
-⭐ 2.4k • 🔱 108 • 5d ago
+⭐ 2.4k • 🔱 110 • 5d ago
 
 ---
 
