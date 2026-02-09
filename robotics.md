@@ -3,13 +3,13 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-02-09T18:11:05.910399+00:00'
+updated: '2026-02-09T19:46:00.398044+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- videos
 - social
+- videos
 - news
 ---
 
@@ -17,7 +17,7 @@ data_types:
 
 Robotics research and industry news
 
-**Last Updated:** February 09, 2026 at 18:11 UTC  
+**Last Updated:** February 09, 2026 at 19:46 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -32,17 +32,29 @@ Robotics research and industry news
 
 ## Reddit: r/robotics
 
+**[G1 kicks mother and child when performing](https://www.reddit.com/r/robotics/comments/1r0awur/g1_kicks_mother_and_child_when_performing/)**
+
+2h ago
+
+---
+
 **[We trained a VLA model on 20,000 hours of real robot data across 9 embodiments, then tested it on 100 tasks. Here's what actually worked and what didn't.](https://www.reddit.com/r/robotics/comments/1r0au80/we_trained_a_vla_model_on_20000_hours_of_real/)**
 
 Over the past year our team built LingBot-VLA, a Vision-Language-Action foundation model for dual-arm manipulation. We just released everything: code, base model, and benchmark data (paper: arXiv:2601.18692, code: github.com/robbyant/lingbot-vla, weights on HuggingFace). I wanted to share what we learned deploying this across real hardware because the results tell an honest and, I think, useful story for anyone working on generalist robot policies. The setup: ~20,000 hours of teleoperated manipulation data from 9 mainstream dual-arm configs (Agibot G1, AgileX, Galaxea R1Pro, Realman, Leju KUAVO, and others). We evaluated on 3 physical platforms, 100 tasks each, 130 post-training demos per task, 15 trials per task per model. That's 22,500 total real-world trials comparing us against π0.5, GR00T N1.6, and WALL-OSS under identical conditions. The honest numbers: our best variant (with depth distillation) hit 17.30% average success rate and 35.41% progress score across all 300 task-platform pairs. π0.5 got 13.02% SR / 27.65% PS. WALL-OSS landed at 4.05% SR. Before anyone says "17% is low," I want to contextualize this. These are 100 diverse bimanual tasks, many requiring multi-step fine-grained manipulation (cleaning tableware, stacking, arranging objects), tested across three physically different robots. Some individual tasks hit 80%+ SR, others are near zero. Real-world bimanual manipulation across this breadth of tasks is genuinely hard, and I think the field benefits from reporting these numbers honestly rather than cherry-picking the best 5 tasks for a demo reel. What actually worked well: Scaling laws are real and not saturating. We ran a systematic study scaling pre-training data from 3K to 6K to 13K to 18K to 20K hours. Success rates climbed consistently across all three platforms with no sign of plateau at 20K. This was the most exciting finding for us because it suggests the path forward is clear: more diverse, high-quality real-world data keeps helping. Depth distillation made a meaningful difference. We use learnable queries aligned with depth embeddings from our LingBot-Depth model via cross-attention. This bumped average SR from 15.74% to 17.30% in real-world and from 85.34% to 86.68% in randomized simulation scenes. The gain was most visible on transparent object manipulation (glass vases, clear containers) where RGB alone struggles. Data-efficient adaptation. With only 80 demos per task, LingBot-VLA outperformed π0.5 trained on the full 130 demos, in both SR and progress score. The gap widened as we added more post-training data, which suggests the pre-training is providing genuinely useful priors rather than just memorizing. Training efficiency. We built a custom codebase with FSDP2, mixed-precision, FlexAttention, and operator fusion via torch.compile. On 8 GPUs we get 261 samples/sec/GPU for the Qwen2.5-VL-3B backbone, which is 1.5x to 2.8x faster than StarVLA, Dexbotic, and OpenPI depending on the VLM. Scaling to 256 GPUs tracks near-linear throughput. This matters practically because iterating on 20K hours of data is brutal without an efficient pipeline. What didn't work or remains unsolved: Plenty of tasks are still near 0% SR across all models. Tasks requiring very precise spatial reasoning in cluttered scenes, long-horizon multi-step sequences, or unusual object geometries remain extremely challenging. The depth distillation helps but doesn't solve spatial reasoning completely. Also, the model currently only covers dual-arm tabletop manipulation. Single-arm, mobile manipulation, and non-tabletop scenarios are future work. The architecture uses a Mixture-of-Transformers design (similar to BAGEL) where the VLM and action expert share self-attention but have separate feedforward pathways. Action generation uses flow matching with 50-step action chunks. We found the shared attention critical for letting semantic understanding guide action prediction without the modalities interfering with each other's representations. One thing I'd love to hear from this community: for those of you working with real dual-arm setups, what task categories do you find most important for practical deployment? Our GM-100 benchmark covers 100 tasks but we're always thinking about what's missing. Also curious if anyone has experimented with alternative spatial representations beyond depth for VLA models. All code, model weights, and the benchmark data are public. We wanted to make sure anyone can reproduce these results and build on them.
 
-29m ago
+2h ago
+
+---
+
+**[Lego strandbeest (Part 1)](https://www.reddit.com/r/robotics/comments/1r09da6/lego_strandbeest_part_1/)**
+
+2h ago
 
 ---
 
 **[Robot](https://www.reddit.com/r/robotics/comments/1qzw7nc/robot/)**
 
-12h ago
+13h ago
 
 ---
 
@@ -50,11 +62,13 @@ Over the past year our team built LingBot-VLA, a Vision-Language-Action foundati
 
 When asked about tension around open source in robotics, Brian Gerkey, CTO of Intrinsic, pushes back on the idea that it was ever a problem. His point is that open source was designed from the start to be used by industry, not kept separate from it. Permissive licensing was intentional. Companies were meant to take the software, ship products with it, and build businesses on top, without being forced to contribute back. From that perspective, corporate involvement isn’t a betrayal of open source. What matters is whether the software stays open, maintained, and widely usable over time, not who adopts it or commercializes it.
 
-1h ago
+3h ago
 
 ---
 
-**[Lego strandbeest (Part 1)](https://www.reddit.com/r/robotics/comments/1r09da6/lego_strandbeest_part_1/)**
+**[Built a browser-based teleoperation platform for quadrupeds, and drones. Looking for beta testers to try remote piloting](https://www.reddit.com/r/robotics/comments/1r0cib6/built_a_browserbased_teleoperation_platform_for/)**
+
+https://preview.redd.it/lrhwvdgtjiig1.png?width=2880&format=png&auto=webp&s=8bd95c1e3352d027ab5574c0b9e17850b45186b3 Hey r/robotics, I've been working on a teleoperation platform that lets you control robots remotely through a browser with low-latency video (~150ms). Currently testing with a Unitree Go2 EDU Plus XT16. The setup: - WebRTC video/audio streaming from the robot - Real-time controls via WebSocket - HUD overlay with telemetry (battery, signal, heading) - Works on laptop/desktop with Chrome, Brave, and safari. - Mobile Bonding System I'm looking for a few people to beta test the pilot experience and give feedback on: - Control responsiveness - Video quality/latency - UI/UX of the operator interface - What features you'd want to see No hardware needed on your end , you'd be remotely controlling an actual robot in my lab. If you're interested, drop a comment or DM with: - Your timezone - Any relevant background (gaming, drones, robotics, etc - not required) - What interests you about remote robot operation Happy to answer questions about the technical stack too (WebRTC, Janus, aiortc, etc). Thanks!
 
 1h ago
 
@@ -62,13 +76,7 @@ When asked about tension around open source in robotics, Brian Gerkey, CTO of In
 
 **[Autonomous Navigation in Dynamic Environments as a Persistent Robotics Challenge](https://www.reddit.com/r/robotics/comments/1r087bz/autonomous_navigation_in_dynamic_environments_as/)**
 
-🔗 [gazetemakina.com](https://gazetemakina.com/en/dinamik-robotik/) • 2h ago
-
----
-
-**[G1 kicks mother and child when performing](https://www.reddit.com/r/robotics/comments/1r0awur/g1_kicks_mother_and_child_when_performing/)**
-
-26m ago
+🔗 [gazetemakina.com](https://gazetemakina.com/en/dinamik-robotik/) • 3h ago
 
 ---
 
@@ -76,7 +84,7 @@ When asked about tension around open source in robotics, Brian Gerkey, CTO of In
 
 Hi everyone I've stumbled across this sub reddit while searching for some kind of distance measuring sensor. Edit: i need it for 15 meters up to i need it for a school project so a cheaper would be good enough. accuracy is not too important because up to 5cm accuracy is already good enough for me and I need it outdoors. i have found one for cheap but I'm interested in your opinion's too.
 
-5h ago
+6h ago
 
 ---
 
@@ -86,15 +94,9 @@ Hi everyone I've stumbled across this sub reddit while searching for some kind o
 
 ---
 
-**[Is Tesla a Buy?](https://www.reddit.com/r/robotics/comments/1r0bbpm/is_tesla_a_buy/)**
-
-12m ago
-
----
-
 **[Everbot Demo: Home gym bot, Factory QA, Fitness and AirBnb App](https://www.reddit.com/r/robotics/comments/1qzt9y0/everbot_demo_home_gym_bot_factory_qa_fitness_and/)**
 
-14h ago
+16h ago
 
 ---
 
@@ -106,21 +108,15 @@ Hi everyone I've stumbled across this sub reddit while searching for some kind o
 
 Stryker (NYSE: SYK), a global leader in medical technologies, announced the limited market release of Mako RPS (Robotic Power System) for Total Knee, an intuitive handheld robotic system that combines Stryker's proven robotics and power tool legacies and represents Mako's expansion into a new robotics platform. Mako now includes Mako SmartRobotics™ – Stryker's multi-specialty, robotic-arm assisted platform featuring Mako 4 – and Mako Handheld Robotics with Mako RPS, which is designed to reach a
 
-Yahoo Finance • 2h ago
+Yahoo Finance • 4h ago
 
 ---
 
-**[Flipping the script: How ‘upside-down’ AutoPallet robots solve palletizing density](https://www.therobotreport.com/flipping-autopalleet-script-how-upside-down-autopallet-robots-solve-palletizing-density/)**
+**[11 reasons robots struggle to scale in high-mix manufacturing](https://www.therobotreport.com/11-reasons-robots-struggle-to-scale-in-high-mix-manufacturing/)**
 
-AutoPallet debuts magnetic, ceiling-mounted AMRs at Manifest 2026, providing high-density palletizing through a suspended swarm architecture.
+Few robotics technologies have been actually deployed in high-mix manufacturing. Let's explore the reasons behind this slow transition.
 
-The Robot Report • 4h ago
-
----
-
-**[Machine Vision Systems (MVS) Research Report 2026: Rising Demand for Zero-Defect Manufacturing and Increasing Adoption of Vision-Guided Robotics - Market Trends, Statistics, Growth Forecasts 2025-2031](https://uk.finance.yahoo.com/news/machine-vision-systems-mvs-research-140000658.html)**
-
-Yahoo Finance UK • 4h ago
+The Robot Report • 59m ago
 
 ---
 
@@ -128,43 +124,7 @@ Yahoo Finance UK • 4h ago
 
 "We just need enough time to build the AI and robots to not go bankrupt before then."
 
-Fortune • 1d ago
-
----
-
-**[Robots for daily life: Mint and Rice Robotics plan HK$10M AI venture](https://www.stocktitan.net/news/MIMI/mint-signed-mo-u-with-robotics-leader-rice-robotics-to-pioneer-1ae1uax2xl9b.html)**
-
-HK$10M JV MoU targets localized robotics R&D in Hong Kong, combining Mint’s Southeast Asia reach with Rice Robotics’ Japan presence around 'physical AI'.
-
-stocktitan.net • 5h ago
-
----
-
-**[Tesla's Robotics Revolution Won't Save It (NASDAQ:TSLA)](https://seekingalpha.com/article/4867567-teslas-robotics-revolution-would-not-save-it)**
-
-Seeking Alpha • 11h ago
-
----
-
-**[China Is Going All-In to Beat the U.S. on Humanoid Robots](https://www.wsj.com/tech/china-is-going-all-in-to-beat-the-u-s-on-humanoid-robots-b9c434d2?gaa_at=eafs&gaa_n=AWEtsqdsVT-GxeGJCOmwI3e08cx49C0z4ttVNoM1TGyvX8jPGaGofr-uRb2j&gaa_ts=698a26a1&gaa_sig=V2e8FqYNCRnqFXa23bwp-InCPaQGR5Tn9ED6EFl86bWKf67xFTWHDrQaP_zZm3klTcyhTXnN2RgFcWLW9gmNXQ%3D%3D)**
-
-The Wall Street Journal • 2d ago
-
----
-
-**[The Autonomous Robotics Stock Wall Street Insiders Are Quietly Buying (Hint: It's Not Tesla)](https://www.fool.com/investing/2026/02/08/the-autonomous-robotics-stock-wall-street-insiders/)**
-
-This high-flying stock is about more than just military drones.
-
-The Motley Fool • 22h ago
-
----
-
-**[Swarmbotics Wins US Army Contract for Swarming Ground Robots](https://thedefensepost.com/2026/02/09/swarmbotics-us-army/)**
-
-Swarmbotics AI has won a US Army contract to build swarming, attritable small unmanned ground vehicles for the 1st Cavalry Division.
-
-The Defense Post • 9h ago
+Fortune • 2d ago
 
 ---
 
@@ -172,7 +132,53 @@ The Defense Post • 9h ago
 
 Robotic food delivery carts are now a familiar sight on the streets of Chicago. But not everyone has rolled out the welcome wagon for the army of AI-driven meals on wheels.
 
-Chicago Tribune • 7h ago
+Chicago Tribune • 8h ago
+
+---
+
+**[Tesla's Robotics Revolution Won't Save It (NASDAQ:TSLA)](https://seekingalpha.com/article/4867567-teslas-robotics-revolution-would-not-save-it)**
+
+Seeking Alpha • 13h ago
+
+---
+
+**[Robots for daily life: Mint and Rice Robotics plan HK$10M AI venture](https://www.stocktitan.net/news/MIMI/mint-signed-mo-u-with-robotics-leader-rice-robotics-to-pioneer-1ae1uax2xl9b.html)**
+
+HK$10M JV MoU targets localized robotics R&D in Hong Kong, combining Mint’s Southeast Asia reach with Rice Robotics’ Japan presence around 'physical AI'.
+
+stocktitan.net • 6h ago
+
+---
+
+**[The Autonomous Robotics Stock Wall Street Insiders Are Quietly Buying (Hint: It's Not Tesla)](https://www.fool.com/investing/2026/02/08/the-autonomous-robotics-stock-wall-street-insiders/)**
+
+This high-flying stock is about more than just military drones.
+
+The Motley Fool • 1d ago
+
+---
+
+**[Corvus Robotics takes inventory drones into the deep freeze](https://dronedj.com/2026/02/09/cold-chain-warehouse-drone-inventory/)**
+
+Corvus One for Cold Chain is a drone-based inventory system designed to operate autonomously in freezer warehouses as cold as minus-20°F.
+
+DroneDJ • 1h ago
+
+---
+
+**[Purdue researcher explores how robots build better human bonds](https://www.jconline.com/story/news/local/2026/02/09/purdue-social-robotics-empathetic-ai-sooyeon-jeong-research/88588404007/)**
+
+From study buddies to health care helpers, Purdue professor Sooyeon Jeong is designing robots that listen, respond and build trust.
+
+Journal & Courier • 3h ago
+
+---
+
+**[Swarmbotics Wins US Army Contract for Swarming Ground Robots](https://thedefensepost.com/2026/02/09/swarmbotics-us-army/)**
+
+Swarmbotics AI has won a US Army contract to build swarming, attritable small unmanned ground vehicles for the 1st Cavalry Division.
+
+The Defense Post • 11h ago
 
 ---
 
@@ -186,7 +192,7 @@ The Atlas Airborne Robot takes one final research run as Boston Dynamics pushes 
 
 📺 DPCcars
 
-👁️ 52K • 👍 377 • 💬 70 • ⏱️ 2:45 • 1d ago
+👁️ 52K • 👍 377 • 💬 70 • ⏱️ 2:45 • 2d ago
 
 ---
 
@@ -260,7 +266,7 @@ Pan Motor's Wuji Hand packs twenty fully actuated joints into a sub six hundred 
 
 📺 Rainbow Play
 
-👁️ 3K • 👍 38 • 💬 14 • ⏱️ 6:57 • 10h ago
+👁️ 3K • 👍 38 • 💬 14 • ⏱️ 6:57 • 11h ago
 
 ---
 

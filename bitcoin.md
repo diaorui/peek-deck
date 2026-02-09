@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-02-09T18:11:05.901174+00:00'
+updated: '2026-02-09T19:46:00.388927+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- videos
-- cryptocurrency
 - social
+- videos
 - news
+- cryptocurrency
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** February 09, 2026 at 18:11 UTC  
+**Last Updated:** February 09, 2026 at 19:46 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,17 +38,17 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $70,717.86
+### $70,454.34
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** -1.3%  
-**7d:** -6.9%  
-**30d:** -22.5%  
-**90d:** -30.7%  
-**1y:** -27.6%  
+**24h:** +0.1%  
+**7d:** -6.4%  
+**30d:** -22.0%  
+**90d:** -30.3%  
+**1y:** -27.2%  
 
 ---
 
@@ -81,13 +81,13 @@ Rank #1
 
 If you can't afford to buy it, the author is linking to free version: https://x.com/saifedean/status/1541200940124049408#m The audio book is also quite often to be found at YouTube.
 
-2h ago
+4h ago
 
 ---
 
 **[The more you learn about Bitcoin, the more you'll see how the current corrupt system works.](https://www.reddit.com/r/Bitcoin/comments/1qzykbx/the_more_you_learn_about_bitcoin_the_more_youll/)**
 
-10h ago
+11h ago
 
 ---
 
@@ -95,7 +95,15 @@ If you can't afford to buy it, the author is linking to free version: https://x.
 
 If the 4 year cycle is intact.. we go down and stay down between 50K to 70K over the next 2 years before the slow grind up. If the 4 year cycle is broken due to a fundamentally different investor set, then we potentially see a swift recovery following clarity on CLARITY ACT, and break new highs in 2026. But right now.. we're at the mid point, where Schrodinger's Bitcoin is... Time will tell. I'm rooting for new highs in 2026 and a fundamentally different cycle to end all cycles. You?
 
-4h ago
+6h ago
+
+---
+
+**[Paying in bitcoin for some bananas](https://www.reddit.com/r/Bitcoin/comments/1r0cbw7/paying_in_bitcoin_for_some_bananas/)**
+
+Credit: @thepaulosophy Info about the ring: https://bitcoin-ring.com
+
+1h ago
 
 ---
 
@@ -103,13 +111,13 @@ If the 4 year cycle is intact.. we go down and stay down between 50K to 70K over
 
 The people that have been around for multiple cycles have experienced buying Bitcoin's dips too soon. Thus, they are holding back from unloading their clips in the current correction. What Bitcoin likes to do, is make the greatest number of people regret their buying and selling decisions. it's this reason that Bitcoin is more likely to take off than continue a long slow bleed to $40k. If you can accumulate 1 BTC and it's eventually worth $500k, buying one at $70k vs $50k means your made $430k instead of $450k. If won't matter. Don't let the 4-year cycle theory hold you back from buying now.
 
-13h ago
+14h ago
 
 ---
 
 **[Bitcoin dropped ~50% and ~90% of ETF capital held strong.](https://www.reddit.com/r/Bitcoin/comments/1r07zl1/bitcoin_dropped_50_and_90_of_etf_capital_held/)**
 
-2h ago
+3h ago
 
 ---
 
@@ -117,13 +125,13 @@ The people that have been around for multiple cycles have experienced buying Bit
 
 The purple crayon tasted like 85k-90k within 2 weeks 🤷‍♂️
 
-17h ago
+19h ago
 
 ---
 
 **[Bitcoin ATM at HK tang lung street](https://www.reddit.com/r/Bitcoin/comments/1r00bdu/bitcoin_atm_at_hk_tang_lung_street/)**
 
-8h ago
+9h ago
 
 ---
 
@@ -131,7 +139,7 @@ The purple crayon tasted like 85k-90k within 2 weeks 🤷‍♂️
 
 Congratulations everyone on surviving the 8th biggest single day drawdown in the past 10 years. You all are legends!!!
 
-22h ago
+1d ago
 
 ---
 
@@ -139,15 +147,7 @@ Congratulations everyone on surviving the 8th biggest single day drawdown in the
 
 I bought Bitcoin in 2023 when it went down to 25k waiting for the halving in 2024 and then it crossed 100k. Is it time to buy again now?
 
-16h ago
-
----
-
-**[I am about to make a comeback to btc finally](https://www.reddit.com/r/Bitcoin/comments/1qzzj4x/i_am_about_to_make_a_comeback_to_btc_finally/)**
-
-i am thinking of long term investment . watched it for 5 years .i am just gonna set an monthly sip from now on . plan is to get out when it reaches 120k the previous ATH . Not gonna get out even if it goes to 10k. Because i heard that btc to reach 100k is a huge challange but i know it will reach there again.
-
-8h ago
+17h ago
 
 ---
 
@@ -155,33 +155,25 @@ i am thinking of long term investment . watched it for 5 years .i am just gonna 
 
 ## Google News: "bitcoin"
 
-**[The Funding: Crypto liquid funds respond to the bitcoin crash](https://www.theblock.co/post/388978/the-funding-crypto-liquid-funds-respond-to-the-bitcoin-crash)**
+**[Bitcoin Settles In Near $70,000 After Wild Roller-Coaster Ride](https://finance.yahoo.com/news/bitcoin-dips-below-70-000-090217645.html)**
 
-Bitcoin’s sudden 20%+ crash this week caught many crypto funds off guard. Here’s what they expect next. Let’s dive in.
+Bitcoin on Thursday plunged to $60,033, its lowest since October 2024, before rallying back above $70,000 on Friday.  “While cryptocurrency prices have managed to bounce from last week’s lows, there still seems no rush to pick up coins on the cheap,” said Chris Beauchamp, chief market analyst at investing and trading platform IG.  Extreme volatility is nothing new to cryptocurrencies, but Bitcoin’s slump from a peak of $126,000 in October last year comes despite the backdrop of a crypto-friendly White House and surging institutional adoption.
 
-The Block • 17h ago
-
----
-
-**[The Kidnappers Of Savannah Guthrie's Mom Want Bitcoin—But It’s Not As Anonymous As Many Think](https://www.forbes.com/sites/martinadilicosa/2026/02/06/the-kidnappers-of-savannah-guthries-mom-want-bitcoin-but-its-not-as-anonymous-as-many-think/)**
-
-Forbes • 2d ago
+Yahoo Finance • 1h ago
 
 ---
 
-**[Nancy Guthrie's alleged Bitcoin ransom could be paid in minutes as Monday deadline approaches: expert](https://www.foxnews.com/us/nancy-guthries-alleged-bitcoin-ransom-could-paid-minutes-monday-deadline-approaches-expert)**
+**[Morgan Stanley says these two stocks will more than double as they pivot from bitcoin to data centers](https://www.cnbc.com/2026/02/09/morgan-stanley-says-these-two-stocks-will-surge-as-they-pivot-to-data-centers.html)**
 
-Captors have allegedly demanded $6 million in Bitcoin from the Guthrie family, as Nancy Guthrie remains missing her NBC anchor daughter pleads for her return.
+A pair of bitcoin-linked firms could see their shares skyrocket, even as the flagship crypto retreats, due to their pivot to the data center business.
 
-foxnews.com • 8m ago
+CNBC • 45m ago
 
 ---
 
-**[Purported ransom note for Savannah Guthrie's mom demanded payment in bitcoin. Could it be tracked?](https://www.cbsnews.com/news/savannah-guthrie-mom-nancy-ransom-note-bitcoin-what-to-know/)**
+**[Korea Probes Crypto Exchange Over $40 Billion in ‘Ghost Bitcoin’](https://www.bloomberg.com/news/articles/2026-02-09/bithumb-accidentally-gifts-620-000-bitcoin-btc-to-clients-in-fat-finger-error)**
 
-Cryptocurrency transactions are often thought to be anonymous and untraceable. That's a misconception, experts tell CBS News.
-
-cbsnews.com • 2d ago
+bloomberg.com • 9h ago
 
 ---
 
@@ -202,11 +194,19 @@ CNBC • 2d ago
 
 ---
 
-**[Investigators Circle as Bithumb Reveals Compensation Plan for $43 Billion Bitcoin Error](https://finance.yahoo.com/news/investigators-circle-bithumb-reveals-compensation-171118004.html)**
+**[Houston Bitcoin ATM fraud cost consumers millions, how to protect yourself](https://www.click2houston.com/news/local/2026/02/09/houston-bitcoin-atm-fraud-cost-consumers-millions-how-to-protect-yourself/)**
 
-South Korean regulators are investigating Bithumb after its accidental $43 billion Bitcoin handout to customers last week.
+Bitcoin ATM fraud is a growing threat in Houston and nationwide. Awareness and quick action can help protect consumers and stop scammers.
 
-Yahoo Finance • 59m ago
+Click2Houston • 6h ago
+
+---
+
+**[Files cast light on Jeffrey Epstein’s ties to cryptocurrency](https://www.theguardian.com/technology/2026/feb/09/jeffrey-epstein-crypto)**
+
+Newly released documents detail convicted sex offender’s early backing of bitcoin and Coinbase
+
+The Guardian • 5h ago
 
 ---
 
@@ -214,23 +214,21 @@ Yahoo Finance • 59m ago
 
 Analysts at Bernstein said the current bitcoin downturn reflects a crisis of confidence rather than structural damage.
 
-The Block • 7h ago
+The Block • 8h ago
 
 ---
 
-**[Houston Bitcoin ATM fraud cost consumers millions, how to protect yourself](https://www.click2houston.com/news/local/2026/02/09/houston-bitcoin-atm-fraud-cost-consumers-millions-how-to-protect-yourself/)**
+**[The Kidnappers Of Savannah Guthrie's Mom Want Bitcoin—But It’s Not As Anonymous As Many Think](https://www.forbes.com/sites/martinadilicosa/2026/02/06/the-kidnappers-of-savannah-guthries-mom-want-bitcoin-but-its-not-as-anonymous-as-many-think/)**
 
-Bitcoin ATM fraud is a growing threat in Houston and nationwide. Awareness and quick action can help protect consumers and stop scammers.
-
-Click2Houston • 5h ago
+Forbes • 2d ago
 
 ---
 
-**[Trusted Chicago judge takes Tuskegee Airman's cash, then flips it into bitcoin for herself](https://www.cbsnews.com/chicago/news/retired-judge-patricia-martin-theft-tuskegee-airman-oscar-lawton-wilkerson-bitcoin/)**
+**[Nancy Guthrie's alleged Bitcoin ransom could be paid in minutes as Monday deadline approaches: expert](https://www.foxnews.com/us/nancy-guthries-alleged-bitcoin-ransom-could-paid-minutes-monday-deadline-approaches-expert)**
 
-A retired judge who lost her law license for fleecing her Tuskegee Airman uncle used the money she stole to buy bitcoin for herself, court records show.
+Captors have allegedly demanded $6 million in Bitcoin from the Guthrie family, as Nancy Guthrie remains missing her NBC anchor daughter pleads for her return.
 
-cbsnews.com • 13h ago
+foxnews.com • 1h ago
 
 ---
 
@@ -268,7 +266,7 @@ Bitcoin outlook turns bearish as Pivotus’ Richard Farr targets BTC at $0 and M
 
 **[South Korean crypto firm accidentally sends $44B in bitcoins to users](https://news.ycombinator.com/item?id=46926461)**
 
-⬆️ 6 • 💬 0 • 1d ago • [reuters.com](https://www.reuters.com/world/asia-pacific/crypto-firm-accidentally-sends-44-billion-bitcoins-users-2026-02-07/)
+⬆️ 6 • 💬 0 • 2d ago • [reuters.com](https://www.reuters.com/world/asia-pacific/crypto-firm-accidentally-sends-44-billion-bitcoins-users-2026-02-07/)
 
 ---
 
@@ -322,7 +320,7 @@ Watch my free masterclass & get Market Briefs as a bonus: https://briefs.finance
 
 📺 Minority Mindset
 
-👁️ 76K • 👍 4K • 💬 421 • ⏱️ 13:35 • 5h ago
+👁️ 76K • 👍 4K • 💬 421 • ⏱️ 13:35 • 7h ago
 
 ---
 
@@ -332,7 +330,7 @@ TOOBIT — CLAIM $50 & 20% SIGN UP BONUS ON YOUR DEPOSIT Limited spots available
 
 📺 100XClub
 
-👁️ 10K • 👍 918 • 💬 143 • ⏱️ 9:04 • 8h ago
+👁️ 10K • 👍 918 • 💬 143 • ⏱️ 9:04 • 9h ago
 
 ---
 
@@ -342,7 +340,7 @@ Bitcoin #Crypto #Finance Is Bitcoin nearing a bottom or still searching for one?
 
 📺 The Wolf Of All Streets
 
-👁️ 13K • 👍 1K • 💬 297 • ⏱️ 1:05:03 • 2h ago
+👁️ 13K • 👍 1K • 💬 297 • ⏱️ 1:05:03 • 4h ago
 
 ---
 
@@ -352,7 +350,7 @@ Bitcoin #Crypto #Finance Is Bitcoin nearing a bottom or still searching for one?
 
 📺 Money Talks
 
-👁️ 11K • 👍 180 • 💬 165 • ⏱️ 11:09 • 23h ago
+👁️ 11K • 👍 180 • 💬 165 • ⏱️ 11:09 • 1d ago
 
 ---
 
@@ -362,7 +360,7 @@ Mark Yusko Crypto Prediction's 2026 Follow: https://x.com/MarkYusko LIMITED TIME
 
 📺 Altcoin Daily
 
-👁️ 64K • 👍 3K • 💬 1K • ⏱️ 59:15 • 19h ago
+👁️ 64K • 👍 3K • 💬 1K • ⏱️ 59:15 • 21h ago
 
 ---
 
@@ -372,7 +370,7 @@ Stop Waking Up to Pee! (It is NOT Your Bladder) https://youtu.be/M1vdiQK5_DU [cl
 
 📺 MMCrypto
 
-👁️ 17K • 👍 2K • 💬 466 • ⏱️ 6:40 • 3h ago
+👁️ 17K • 👍 2K • 💬 466 • ⏱️ 6:40 • 5h ago
 
 ---
 
@@ -382,7 +380,7 @@ Want a free $30000 bonus + $20 just for signing up? Go here: ...
 
 📺 BitcoinHyper
 
-👁️ 6K • 👍 472 • 💬 46 • ⏱️ 14:03 • 5h ago
+👁️ 6K • 👍 472 • 💬 46 • ⏱️ 14:03 • 7h ago
 
 ---
 
@@ -402,7 +400,7 @@ Oytun ES Twitter Hesabı İçin Tıklayın; http://bit.ly/oytun86 Altuğ İŞLER
 
 📺 Kripto Teknik
 
-👁️ 1K • 👍 188 • 💬 24 • ⏱️ 19:20 • 1h ago
+👁️ 1K • 👍 188 • 💬 24 • ⏱️ 19:20 • 3h ago
 
 ---
 
