@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-02-09T02:24:53.265490+00:00'
+updated: '2026-02-09T04:38:34.596111+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- cryptocurrency
+- videos
 - news
 - social
-- videos
+- cryptocurrency
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** February 09, 2026 at 02:24 UTC  
+**Last Updated:** February 09, 2026 at 04:38 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,39 +38,39 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $70,373.34
+### $71,286.70
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** +2.1%  
-**7d:** -6.9%  
-**30d:** -22.5%  
-**90d:** -30.7%  
-**1y:** -27.7%  
+**24h:** +2.7%  
+**7d:** -6.1%  
+**30d:** -21.9%  
+**90d:** -30.1%  
+**1y:** -27.0%  
 
 ---
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1406.93B
+**Market Cap:** $1419.99B
 Rank #1
 
-**Circulating Supply:** 19,986,421 BTC
+**Circulating Supply:** 19,986,478 BTC
 95.2% of max
 
 **All-Time High:** $126,080.00
--44.2%
+-43.7%
 
 **All-Time Low:** $67.81
-+103682.6%
++104638.2%
 
 ---
 
 ## Fear & Greed Index
 
-### 7
+### 14
 **EXTREME FEAR**
 
 ---
@@ -81,7 +81,7 @@ Rank #1
 
 Congratulations everyone on surviving the 8th biggest single day drawdown in the past 10 years. You all are legends!!!
 
-7h ago
+9h ago
 
 ---
 
@@ -89,7 +89,15 @@ Congratulations everyone on surviving the 8th biggest single day drawdown in the
 
 Im 39years old and unfortunately(or fortunately) because i had to renovate my house for last 3 years i didnt have any money to buy BTC.But i followed whole market for last 5 years with really small portofolio(less than 200€). Now i'm completely debt/loan free. Finally my 3 year bank loan ended friday,and i finally began my DCA journey into BTC at 66k. I guess im kinda lucky that it just had almost 50% drop. I know i can never time the market,and im mentally fully aware we can go back to 35-40k. The reason why i made this thread is because in my life i never talk about BTC so i guess i just wanted to share this with similar minded people
 
-6h ago
+8h ago
+
+---
+
+**[Is it the time to buy?](https://www.reddit.com/r/Bitcoin/comments/1qzr9yi/is_it_the_time_to_buy/)**
+
+I bought Bitcoin in 2023 when it went down to 25k waiting for the halving in 2024 and then it crossed 100k. Is it time to buy again now?
+
+2h ago
 
 ---
 
@@ -97,7 +105,23 @@ Im 39years old and unfortunately(or fortunately) because i had to renovate my ho
 
 Hi everyone! Back in like 2013 or something My husband bought us some bitcoin. I think around $1000 worth, I can’t recall. Unfortunately since then he’s passed away (2018), and while I recall logging in to his wallet and changing the info to include myself and my email address after he passed away, I can’t recall where on earth any of this transpired. I do have the old laptop I did this on, and I hope that can help illuminate things for me so I can find it, but honestly I’m not sure where to begin looking. Back around those days, where would one access to their bitcoin? This was his thing back then, not mine so I have no idea where to start. Any ideas would be helpful.
 
-7h ago
+10h ago
+
+---
+
+**[My first attempt at a Bitcoin technical analysis.](https://www.reddit.com/r/Bitcoin/comments/1qzpofs/my_first_attempt_at_a_bitcoin_technical_analysis/)**
+
+The purple crayon tasted like 85k-90k within 2 weeks 🤷‍♂️
+
+4h ago
+
+---
+
+**[Keep in mind, many Mainstream investors joined Bitcoin this cycle](https://www.reddit.com/r/Bitcoin/comments/1qznupj/keep_in_mind_many_mainstream_investors_joined/)**
+
+Keep in mind, Mainstream joined Bitcoin this cycle. They don't care about any FIAT vs Bitcoin stories. They care about ROI. They bought between 100k-125k. They joined because of FOMO, some because they started to believe in the legitimacy it has gotten in the past few years. And all of them have never gotten any positive results from their investments yet, only downward trends for months and now even dropping to 40-50%. It is very discouraging for them and many only hold because they don't want to liquidate on this massive loss, sunk cost fallacy. And this is the main danger. Veterans don't care about the dropping price. The mainstream investors are going to pull us all to the floor as they are not loyal to any asset but to ROI. They need to see rewards or they jump ship. Problem is that Bitcoin tends to stay for over a year or two until it recovers to their 0% ROI, where they fear further drops during all those months and they doubt the 4 year cycle. The sunk cost fallacy is only holding for so long before they start to find a way out I think this aspect is not looked into enough. We are dealing with bitcoin holders who are scared, discouraged and never saw any success with this asset. and people who don't have decades to wait for their retirement (most money are held by older people)
+
+5h ago
 
 ---
 
@@ -107,19 +131,11 @@ Hi everyone! Back in like 2013 or something My husband bought us some bitcoin. I
 
 ---
 
-**[Keep in mind, many Mainstream investors joined Bitcoin this cycle](https://www.reddit.com/r/Bitcoin/comments/1qznupj/keep_in_mind_many_mainstream_investors_joined/)**
-
-Keep in mind, Mainstream joined Bitcoin this cycle. They don't care about any FIAT vs Bitcoin stories. They care about ROI. They bought between 100k-125k. They joined because of FOMO, some because they started to believe in the legitimacy it has gotten in the past few years. And all of them have never gotten any positive results from their investments yet, only downward trends for months and now even dropping to 40-50%. It is very discouraging for them and many only hold because they don't want to liquidate on this massive loss, sunk cost fallacy. And this is the main danger. Veterans don't care about the dropping price. The mainstream investors are going to pull us all to the floor as they are not loyal to any asset but to ROI. They need to see rewards or they jump ship. Problem is that Bitcoin tends to stay for over a year or two until it recovers to their 0% ROI, where they fear further drops during all those months and they doubt the 4 year cycle. The sunk cost fallacy is only holding for so long before they start to find a way out I think this aspect is not looked into enough. We are dealing with bitcoin holders who are scared, discouraged and never saw any success with this asset. and people who don't have decades to wait for their retirement (most money are held by older people)
-
-3h ago
-
----
-
 **[BTC your ultimate hedge against the $$ (fiat)](https://www.reddit.com/r/Bitcoin/comments/1qz6je2/btc_your_ultimate_hedge_against_the_fiat/)**
 
 The Fed's money printer never stops. Balance sheet still bloated at ~$6.5T, quietly debasing your dollars while inflation eats savings. Bitcoin: fixed 21 million cap. No printing, no dilution, no central control. In a world of infinite fiat, Bitcoin is scarce, hard money - and the ultimate opt-out. Stack sats. The longer they print, the stronger the case for Bitcoin.
 
-15h ago
+17h ago
 
 ---
 
@@ -127,23 +143,7 @@ The Fed's money printer never stops. Balance sheet still bloated at ~$6.5T, quie
 
 Guys, if you've been in this for 7-10 years, you see the same nonsense being spouted every single damn crash. BUY AND HODLATE.
 
-11h ago
-
----
-
-**[“Bitcoin Is Dead” - The #1 Database of Notable Bitcoin Skeptics](https://www.reddit.com/r/Bitcoin/comments/1qzcn36/bitcoin_is_dead_the_1_database_of_notable_bitcoin/)**
-
-'Bitcoin Is Dead' is the best database of notable Bitcoin obituaries and skeptics on the Internet. View names, quotes, publications, source links, and more!
-
-🔗 [bitbo.io](https://bitbo.io/dead/) • 10h ago
-
----
-
-**[anyone else just kinda... numb to the dips at this point?](https://www.reddit.com/r/Bitcoin/comments/1qz1y2w/anyone_else_just_kinda_numb_to_the_dips_at_this/)**
-
-honestly, after holding since 2021, these dips barely even register anymore. i'm not even checking the charts as often as i used to. is that just me getting old and boring, or are other long-term holders feeling the same?
-
-19h ago
+14h ago
 
 ---
 
@@ -151,7 +151,7 @@ honestly, after holding since 2021, these dips barely even register anymore. i'm
 
 Been DCAing for about a year now and every time there is a major dip like this week I feel the urge to throw in extra. Sometimes it works out, sometimes I end up buying before an even bigger dip. Curious how other long term holders handle this. Do you stick strictly to your schedule or do you have a separate fund for opportunistic buys?
 
-3h ago
+5h ago
 
 ---
 
@@ -159,11 +159,11 @@ Been DCAing for about a year now and every time there is a major dip like this w
 
 ## Google News: "bitcoin"
 
-**[Bitcoin is still about $70,000 too high](https://www.ft.com/content/2b030926-2012-4446-b22d-e549e10e7086)**
+**[Bitcoin Price To $0? Here's Why The Zero Dollar Bitcoin Narrative Is Growing — And Why It May Teach Us Something](https://finance.yahoo.com/news/bitcoin-price-0-heres-why-100215567.html)**
 
-The crypto crash is coming — and the landing won’t be pretty
+The “Bitcoin to $0” narrative is surging again. Market sentiment has flipped decisively bearish. Bullish credibility is weakening. “Every time I ask a Bitcoin true ...
 
-Financial Times • 21h ago
+Yahoo Finance • 18h ago
 
 ---
 
@@ -188,7 +188,13 @@ BBC • 1d ago
 
 A South Korean cryptocurrency exchange is facing regulatory investigation following a $40 billion bitcoin-related mistake. That exchange, Bithumb,
 
-PYMNTS.com • 41m ago
+PYMNTS.com • 2h ago
+
+---
+
+**[Bitcoin Steadies Above $70,000 After Wild Roller-Coaster Ride](https://www.bloomberg.com/news/articles/2026-02-09/bitcoin-btc-steadies-above-70-000-after-wild-roller-coaster-ride)**
+
+bloomberg.com • 2h ago
 
 ---
 
@@ -196,31 +202,7 @@ PYMNTS.com • 41m ago
 
 Japanese mandate sparks surge in equities and safe havens.
 
-CoinDesk • 59m ago
-
----
-
-**[Why Quantum Computing Isn’t a Serious Risk for Bitcoin Yet: CoinShares](https://finance.yahoo.com/news/why-quantum-computing-isn-t-010122859.html)**
-
-New research says today’s quantum computers are far too weak to threaten Bitcoin’s cryptography, leaving the network years to prepare.
-
-Yahoo Finance • 1h ago
-
----
-
-**[Bitcoin Price To $0? Here's Why The Zero Dollar Bitcoin Narrative Is Growing — And Why It May Teach Us Something](https://finance.yahoo.com/news/bitcoin-price-0-heres-why-100215567.html)**
-
-The “Bitcoin to $0” narrative is surging again. Market sentiment has flipped decisively bearish. Bullish credibility is weakening. “Every time I ask a Bitcoin true ...
-
-Yahoo Finance • 16h ago
-
----
-
-**[Strategy CEO: Bitcoin would need to plunge to $8,000 before balance sheet issues](https://www.theblock.co/post/388774/strategy-ceo-bitcoin-q4-earnings-call)**
-
-Executive Chairman Michael Saylor also addressed quantum computing concerns in bitcoin, framing them as 'horrible FUD.'
-
-The Block • 2d ago
+CoinDesk • 3h ago
 
 ---
 
@@ -230,9 +212,25 @@ Forbes • 2d ago
 
 ---
 
-**[Bitcoin Booster’s $12 Billion Loss Headlines Crypto’s Worst Day Since 2022 Crash](https://www.wsj.com/finance/currencies/strategy-earnings-fourth-2025-33688dab?gaa_at=eafs&gaa_n=AWEtsqerS-XFFYX-9oC9VFLEKnhZ0eB07oXt93i4EfQmrZV2J0TOyMuV2g0G&gaa_ts=698948d9&gaa_sig=dccELHCXDWFrziPB_u0Lvc2NXn9amkGCB7XnBg85S9j0-rL54BUzcV4D-vk8ZyfTWLZtbCftb5_6bjmiqFgfbA%3D%3D)**
+**[Former FBI cybersecurity expert explains how Nancy Guthrie could be found via Bitcoin and Email](https://www.cnn.com/2026/02/06/us/video/former-fbi-cybersecurity-expert-explains-how-nancy-guthrie-could-be-found-via-bitcoin-and-email-lcl)**
+
+Former FBI counterintelligence operative and cybersecurity expert Eric O’Neill joins Laura Coates to explain how a Bitcoin ransom demand could still be traced by law enforcement.
+
+cnn.com • 2d ago
+
+---
+
+**[Bitcoin Booster’s $12 Billion Loss Headlines Crypto’s Worst Day Since 2022 Crash](https://www.wsj.com/finance/currencies/strategy-earnings-fourth-2025-33688dab?gaa_at=eafs&gaa_n=AWEtsqcSIowjZMMuLPYWnuh1-uvFN_nTxTcZ1FPViDrSqsY40esFdjzUz17k&gaa_ts=69896831&gaa_sig=V2nyZ1uRJWaTePre9k_FLHPW0dExrIFwjsGKhnhXFY1MTDPcqVdaH2_EK_mvTmVcvXno5l-no9Mf0VoTJwKjdw%3D%3D)**
 
 The Wall Street Journal • 3d ago
+
+---
+
+**[If You'd Invested $1,000 in Bitcoin 10 Years Ago, Here's How Much You'd Have Today](https://www.fool.com/investing/2026/02/08/if-youd-invested-1000-in-bitcoin-10-years-ago-here/)**
+
+Bitcoin has been falling fast recently, but the token has still delivered lifechanging returns for buy-and-hold investors over the last decade.
+
+The Motley Fool • 1h ago
 
 ---
 
@@ -250,7 +248,7 @@ The Wall Street Journal • 3d ago
 
 Some market watchers have suggested $70,000 is a key level to watch and a break below that could lead bitcoin to decline further.
 
-⬆️ 59 • 💬 2 • 3d ago • [CNBC](https://www.cnbc.com/2026/02/05/bitcoin-price-today-70000-in-focus.html)
+⬆️ 60 • 💬 2 • 3d ago • [CNBC](https://www.cnbc.com/2026/02/05/bitcoin-price-today-70000-in-focus.html)
 
 ---
 
@@ -264,7 +262,7 @@ Bitcoin outlook turns bearish as Pivotus’ Richard Farr targets BTC at $0 and M
 
 **[Bitcoin tumbles below $70K, heavy losses in cryptocurrencies in last three weeks](https://news.ycombinator.com/item?id=46934165)**
 
-⬆️ 46 • 💬 63 • 12h ago • [bloomberg.com](https://www.bloomberg.com/news/articles/2026-02-05/bitcoin-drops-below-70-000-as-forced-deleveraging-accelerates)
+⬆️ 46 • 💬 64 • 14h ago • [bloomberg.com](https://www.bloomberg.com/news/articles/2026-02-05/bitcoin-drops-below-70-000-as-forced-deleveraging-accelerates)
 
 ---
 
@@ -278,7 +276,7 @@ Bitcoin outlook turns bearish as Pivotus’ Richard Farr targets BTC at $0 and M
 
 The crypto crash is coming — and the landing won’t be pretty
 
-⬆️ 5 • 💬 1 • 9h ago • [ft.com](https://www.ft.com/content/2b030926-2012-4446-b22d-e549e10e7086)
+⬆️ 5 • 💬 1 • 12h ago • [ft.com](https://www.ft.com/content/2b030926-2012-4446-b22d-e549e10e7086)
 
 ---
 
@@ -294,7 +292,7 @@ Crypto treasury companies quietly crept into index funds and retirement accounts
 
 Local opponents criticise legislation that will facilitate ‘networked state’ community and hand executive powers to developer
 
-⬆️ 4 • 💬 0 • 9h ago • [ft.com](https://www.ft.com/content/50c2f8e0-a0a4-4433-805d-46e9e0345d4a)
+⬆️ 4 • 💬 0 • 11h ago • [ft.com](https://www.ft.com/content/50c2f8e0-a0a4-4433-805d-46e9e0345d4a)
 
 ---
 
@@ -324,7 +322,7 @@ Bitcoin behaves more like an "ATM" during uncertain times, with investors quickl
 
 📺 Money Talks
 
-👁️ 4K • 👍 125 • 💬 10 • ⏱️ 11:09 • 7h ago
+👁️ 5K • 👍 142 • 💬 13 • ⏱️ 11:09 • 10h ago
 
 ---
 
@@ -334,17 +332,7 @@ Mark Yusko Crypto Prediction's 2026 Follow: https://x.com/MarkYusko LIMITED TIME
 
 📺 Altcoin Daily
 
-👁️ 14K • 👍 1K • 💬 115 • ⏱️ 59:15 • 3h ago
-
----
-
-**[Is This The END Of Bitcoin?](https://www.youtube.com/watch?v=P3ZnGfRADcA)**
-
-Bitcoin has been in a free-fall the past few months. At one point yesterday, it had fallen 50% from all-time highs. Everyone is ...
-
-📺 From The Desk Of Anthony Pompliano
-
-👁️ 55K • 👍 2K • 💬 391 • ⏱️ 9:43 • 2d ago
+👁️ 22K • 👍 1K • 💬 159 • ⏱️ 59:15 • 6h ago
 
 ---
 
@@ -354,17 +342,37 @@ Bitcoin tumbled below $61000, as the unwinding of leveraged bets and broader mar
 
 📺 Bloomberg News
 
-👁️ 3K • 👍 63 • 💬 3 • ⏱️ 1:11 • 7h ago
+👁️ 4K • 👍 82 • 💬 6 • ⏱️ 1:11 • 9h ago
 
 ---
 
-**[IT’S RIGGED! BIG CRYPTO MANIPULATION!! What Happens Now?](https://www.youtube.com/watch?v=lBAUxlj416I)**
+**[Bitcoin Path To $40K (Profit Guide)](https://www.youtube.com/watch?v=neIIrIfYmiM)**
 
-IT'S RIGGED! What Happens Now? ✓ Bitunix (no kyc, $10000 bonus): https://www.bitunix.com/register?vipCode=AltcoinDaily ...
+Nick Valdez checks the latest price action with Bitcoin. What if I said there are several indicators that point to a potential bottom ...
 
-📺 Altcoin Daily
+📺 Discover Crypto
 
-👁️ 54K • 👍 3K • 💬 633 • ⏱️ 9:28 • 1d ago
+👁️ 6K • 👍 225 • 💬 55 • ⏱️ 5:08 • 12h ago
+
+---
+
+**[Is This The END Of Bitcoin?](https://www.youtube.com/watch?v=P3ZnGfRADcA)**
+
+Bitcoin has been in a free-fall the past few months. At one point yesterday, it had fallen 50% from all-time highs. Everyone is ...
+
+📺 From The Desk Of Anthony Pompliano
+
+👁️ 56K • 👍 2K • 💬 382 • ⏱️ 9:43 • 2d ago
+
+---
+
+**[Bitcoin Is Doing EXACTLY What It Does Before Huge Moves 💥](https://www.youtube.com/watch?v=sRAH-GAvlxA)**
+
+If you've been waiting for a real Bitcoin opportunity, this may be it ➡️  . After calling the move to $60000 months in advance, ...
+
+📺 Ross Givens
+
+👁️ 2K • 👍 154 • 💬 5 • ⏱️ 2:28 • 15h ago
 
 ---
 
@@ -374,7 +382,7 @@ Bitcoin just posted its first ever $10000 daily drop, wiped out billions in liqu
 
 📺 Simply Bitcoin
 
-👁️ 30K • 👍 2K • 💬 161 • ⏱️ 16:01 • 1d ago
+👁️ 30K • 👍 2K • 💬 181 • ⏱️ 16:01 • 1d ago
 
 ---
 
@@ -384,7 +392,7 @@ My Free Trading Course https://www.rt1m.com/free My Discord Server (FREE) https:
 
 📺 Road To $1 Million USD
 
-👁️ 9K • 👍 300 • 💬 57 • ⏱️ 8:29 • 1d ago
+👁️ 9K • 👍 300 • 💬 58 • ⏱️ 8:29 • 1d ago
 
 ---
 
@@ -394,27 +402,17 @@ Bitcoin plunges as crypto markets lose trillions, sparking debate over whether B
 
 📺 Valuetainment
 
-👁️ 209K • 👍 4K • 💬 11K • ⏱️ 14:38 • 2d ago
+👁️ 210K • 👍 4K • 💬 11K • ⏱️ 14:38 • 2d ago
 
 ---
 
-**[🚨 BTC &amp; ETH: THIS IS IT!!!! ITS TIME!!!!!](https://www.youtube.com/watch?v=8QI8ukpRpEI)**
+**[Samson Mow: Something BIG Is About to Happen to Bitcoin…](https://www.youtube.com/watch?v=5VaqkszkWp8)**
 
-One of the biggest crypto crashes in history! Here is what happened, why and my plan going further. ---------- LIVE VIRTUAL ...
+In this interview, Bitcoin OG Samson Mow shares his view on why Bitcoin keeps falling, what's driving recent market sell-offs, and ...
 
-📺 Thomas Kralow
+📺 Cointelegraph
 
-👁️ 43K • 👍 2K • 💬 81 • ⏱️ 11:51 • 2d ago
-
----
-
-**[This is typical volatility for bitcoin, says SkyBridge&#39;s Scaramucci](https://www.youtube.com/watch?v=PxHIJlojXTg)**
-
-CNBC's “Closing Bell Overtime” team discusses cryptocurrencies, bitcoin's volatile week and more with Anthony Scaramucci, ...
-
-📺 CNBC Television
-
-👁️ 42K • 👍 361 • 💬 336 • ⏱️ 4:14 • 2d ago
+👁️ 28K • 👍 800 • 💬 151 • ⏱️ 19:09 • 2d ago
 
 ---
 
