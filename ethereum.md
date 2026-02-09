@@ -3,14 +3,14 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-02-09T22:37:34.833599+00:00'
+updated: '2026-02-09T23:38:29.674888+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
 - videos
-- cryptocurrency
 - news
+- cryptocurrency
 - social
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** February 09, 2026 at 22:37 UTC  
+**Last Updated:** February 09, 2026 at 23:38 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -36,33 +36,33 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Price
 
-### $2,094.51
+### $2,112.73
 
 ---
 
 ## Ethereum Chart
 
-**24h:** -0.6%  
-**7d:** -6.2%  
-**30d:** -32.9%  
-**90d:** -38.6%  
-**1y:** -21.2%  
+**24h:** +1.2%  
+**7d:** -5.5%  
+**30d:** -32.4%  
+**90d:** -38.2%  
+**1y:** -20.6%  
 
 ---
 
 ## Ethereum Market Stats
 
-**Market Cap:** $256.21B
+**Market Cap:** $254.31B
 Rank #2
 
 **Circulating Supply:** 120,692,614 ETH
 No max supply
 
 **All-Time High:** $4,946.05
--57.1%
+-57.4%
 
 **All-Time Low:** $0.43
-+490443.4%
++486831.2%
 
 ---
 
@@ -72,7 +72,7 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-16h ago
+17h ago
 
 ---
 
@@ -80,7 +80,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 We’re launching a new service focused on smart contract reviews without the overhead of a full audit. Scope is limited and practical. Logic, exploitability, and protocol level risks. No certification and no audit opinion. To validate the approach, we’re offering a limited number of free focused smart contract security reviews for projects that are code complete and either close to launch or already deployed, in exchange for honest feedback. This is not meant to replace an audit. It’s a short, concrete review focused on protocol logic and exploit paths. Shoot a dm, if you're interested.
 
-5h ago
+6h ago
 
 ---
 
@@ -88,23 +88,7 @@ We’re launching a new service focused on smart contract reviews without the ov
 
 In January 2026, DeFi hacks resulted in roughly $86M in losses across multiple protocols. More concerning: 7 separate incidents exceeded $1M each. Most of the exploits were rooted in smart contract vulnerabilities. The pattern feels familiar at this point. Repeated issues, similar bug classes, and preventable failures. The question isn’t whether exploits will continue it’s whether teams are adapting fast enough. Are you building with security as a first principle, or still treating it as a final checklist before launch?
 
-5h ago
-
----
-
-**[A Quieter Market: What Crypto Derivatives Have Been Doing Since October 2025](https://www.reddit.com/r/ethereum/comments/1r07svg/a_quieter_market_what_crypto_derivatives_have/)**
-
-Crypto prices have continued to swing, but derivatives activity since October looks much more subdued. Open interest and volumes across major assets have fallen and stayed lower, suggesting leverage has been reduced rather than rotated elsewhere. Funding rates are mostly calm, with the exception of Solana, where short positioning is more pronounced. A Quieter Market: What Crypto Derivatives Have Been Doing Since October 2025 | Sandmark What stands out to me isn’t that traders are outright bearish, but that they’re stepping back. It feels less like a call on prices going down and more like people reducing risk after a long period of easy leverage. With tighter limits and less appetite to borrow, price moves may matter differently than before. Big question is ... is this just a temporary pause, or has the market’s comfort with leverage really changed?
-
 6h ago
-
----
-
-**[Looking for CPI-pegged non-algorithmic stablecoin](https://www.reddit.com/r/ethereum/comments/1r04zdr/looking_for_cpipegged_nonalgorithmic_stablecoin/)**
-
-I am looking for a stablecoin that, instead of being pegged to a fiat currency, is pegged to a consumer price index, preferably one for prices where I live (Wales, UK), so that it rises with inflation. I don't mind whether it is partly centralised​ or not so long as it is actually censorship-resistent (so, unlike USDT). Should be safe i.e.​ vulnerable to being depegged so not algorithmic. Does this exist? Bonus points if it doesn't use plutocratic token-weighted governance.
-
-8h ago
 
 ---
 
@@ -112,7 +96,15 @@ I am looking for a stablecoin that, instead of being pegged to a fiat currency, 
 
 This is a compact Ethereum Virtual Machine runtime written in strict C23. Made this for learning purposes. BTW, it has a toy Solidity-like compiler into bytecode and `nano-node` program that "deploys" contracts to local store and gives ability to call them.
 
-🔗 [GitHub](https://github.com/ThirdLetterC/nano-evm) • 9h ago
+🔗 [GitHub](https://github.com/ThirdLetterC/nano-evm) • 10h ago
+
+---
+
+**[Looking for CPI-pegged non-algorithmic stablecoin](https://www.reddit.com/r/ethereum/comments/1r04zdr/looking_for_cpipegged_nonalgorithmic_stablecoin/)**
+
+I am looking for a stablecoin that, instead of being pegged to a fiat currency, is pegged to a consumer price index, preferably one for prices where I live (Wales, UK), so that it rises with inflation. I don't mind whether it is partly centralised​ or not so long as it is actually censorship-resistent (so, unlike USDT). Should be safe i.e.​ vulnerable to being depegged so not algorithmic. Does this exist? Bonus points if it doesn't use plutocratic token-weighted governance.
+
+9h ago
 
 ---
 
@@ -120,7 +112,7 @@ This is a compact Ethereum Virtual Machine runtime written in strict C23. Made t
 
 World News, Stories By EtherWorld, Technical Explainers, Client News & Updates, Podcasts, Upcoming Events & Jobs
 
-🔗 [EtherWorld.co](https://etherworld.co/etherworld-weekly-edition-350/) • 16h ago
+🔗 [EtherWorld.co](https://etherworld.co/etherworld-weekly-edition-350/) • 17h ago
 
 ---
 
@@ -128,7 +120,7 @@ World News, Stories By EtherWorld, Technical Explainers, Client News & Updates, 
 
 A bug fix turned into a personal comeback story of coding, parenting, and a small contribution to the open-source world.
 
-🔗 [EtherWorld.co](https://etherworld.co/the-bug-of-solving-bugs/) • 9h ago
+🔗 [EtherWorld.co](https://etherworld.co/the-bug-of-solving-bugs/) • 10h ago
 
 ---
 
@@ -136,7 +128,7 @@ A bug fix turned into a personal comeback story of coding, parenting, and a smal
 
 eth-mempool-monitor subscribes to Ethereum pending transactions over WebSocket, filters them against a monitored address set stored in Redis/Valkey, and publishes matching transactions to RabbitMQ. The project builds three binaries: eth_mempool_monitor: WebSocket subscriber + Redis filter + RabbitMQ publisher. rpc_control: newline-delimited JSON-RPC TCP server used to manage monitored addresses in Redis (token-authenticated). rabbitmq_tx_console: RabbitMQ consumer that prints monitored-transaction events in human-readable form.
 
-🔗 [GitHub](https://github.com/ThirdLetterC/eth-mempool-monitor) • 21h ago
+🔗 [GitHub](https://github.com/ThirdLetterC/eth-mempool-monitor) • 22h ago
 
 ---
 
@@ -148,15 +140,31 @@ I'm willing to stake my ETH that I have on my ledger, is this safe to use lido f
 
 ---
 
+**[Daily General Discussion February 08, 2026](https://www.reddit.com/r/ethereum/comments/1qz13nm/daily_general_discussion_february_08_2026/)**
+
+Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
+
+1d ago
+
+---
+
 ---
 
 ## Google News: "ethereum"
+
+**[Tom Lee’s BitMine Buys More Ethereum Despite $7.5 Billion Unrealized Loss](https://decrypt.co/357468/tom-lees-bitmine-buys-ethereum-7-5-billion-unrealized-loss)**
+
+Publicly traded Ethereum treasury firm BitMine Immersion Technology added to its ETH holdings last week, even as its paper losses grew.
+
+Decrypt • 5h ago
+
+---
 
 **[With Ethereum Shifting Away From Rollups, These 6 Tokens Will Benefit](https://unchainedcrypto.com/ethereum-lets-go-of-the-rollup-story-here-are-the-6-tokens-that-benefit/)**
 
 Vitalik signals a shift away from the rollup-centric roadmap. We break down what it means for ETH, L2 tokens, and which models actually work.
 
-unchainedcrypto.com • 2d ago
+unchainedcrypto.com • 3d ago
 
 ---
 
@@ -172,15 +180,7 @@ Yahoo Finance • 1d ago
 
 The cryptocurrency industry went under intense pressure last week, with Bitcoin and Ethereum leading the crash and multiple cryptocurrencies hitting new multi-month lows. The crash was more pronounced with Bitcoin, though, and the imbalance in selling pressure is quietly shifting the relationship b…
 
-TradingView • 8h ago
-
----
-
-**[The Vibes From the 'Davos for Degens' as Bitcoin and Ethereum Plummeted](https://decrypt.co/357315/vibes-davos-degens-bitcoin-ethereum-plummeted)**
-
-At a conference dedicated to the riskiest traders in finance, Miami's crypto scene appeared far different than during its pandemic-era boom.
-
-Decrypt • 1d ago
+TradingView • 9h ago
 
 ---
 
@@ -204,15 +204,7 @@ The Block • 3d ago
 
 The project, which had previously pitched itself as a layer-2 “real-time blockchain,” targeting more than 100,000 transactions per second, would make onchain interactions feel closer to traditional web apps than today’s crypto networks.
 
-CoinDesk • 6h ago
-
----
-
-**[Bitmine Immersion Technologies (BMNR) Announces ETH Holdings Reach 4.326 Million Tokens, and Total Crypto and Total Cash Holdings of $10.0 Billion](https://www.prnewswire.com/news-releases/bitmine-immersion-technologies-bmnr-announces-eth-holdings-reach-4-326-million-tokens-and-total-crypto-and-total-cash-holdings-of-10-0-billion-302682272.html)**
-
-Bitmine has 2,873,459 staked ETH, representing $6.2 billion at $2,125 per ETH; MAVAN staking solution on track to launch Q1 2026 Bitmine now owns 3.58% of the...
-
-PR Newswire • 9h ago
+CoinDesk • 7h ago
 
 ---
 
@@ -220,7 +212,15 @@ PR Newswire • 9h ago
 
 Ethereum price predictions from Standard Chartered and Citi target $5,400-$7,500 for 2026, but technical analysis shows bearish targets at $1,760-$1,000.
 
-financemagnates.com • 10h ago
+financemagnates.com • 11h ago
+
+---
+
+**[Bitmine Immersion Technologies (BMNR) Announces ETH Holdings Reach 4.326 Million Tokens, and Total Crypto and Total Cash Holdings of $10.0 Billion](https://www.prnewswire.com/news-releases/bitmine-immersion-technologies-bmnr-announces-eth-holdings-reach-4-326-million-tokens-and-total-crypto-and-total-cash-holdings-of-10-0-billion-302682272.html)**
+
+Bitmine has 2,873,459 staked ETH, representing $6.2 billion at $2,125 per ETH; MAVAN staking solution on track to launch Q1 2026 Bitmine now owns 3.58% of the...
+
+PR Newswire • 10h ago
 
 ---
 
@@ -242,7 +242,7 @@ Welcome back home Ethereum! This time I think ETH will kick its feet back and st
 
 📺 Benjamin Cowen
 
-👁️ 81K • 👍 5K • 💬 323 • ⏱️ 14:29 • 16h ago
+👁️ 89K • 👍 5K • 💬 336 • ⏱️ 14:29 • 17h ago
 
 ---
 
@@ -252,37 +252,27 @@ This video provides a professional Elliott Wave and technical analysis of Ethere
 
 📺 More Crypto Online
 
-👁️ 2K • 👍 169 • 💬 7 • ⏱️ 4:46 • 8h ago
+👁️ 3K • 👍 186 • 💬 4 • ⏱️ 4:46 • 9h ago
 
 ---
 
-**[WHAT TO EXPECT THIS WEEK!🚨 (Ethereum Price Prediction 2026)](https://www.youtube.com/watch?v=TTYJ8xOtbO8)**
+**[BITCOIN &amp; CRYPTO: It&#39;s Actually Happening (New Targets)!!! - Bitcoin News Today, Ethereum &amp; Altcoins](https://www.youtube.com/watch?v=NN7CEqBjc5U)**
 
-ETHEREUM ETH PRICE PREDICTION 2026 Join the Premium Signal Group for trade setups, mentorship & a community ...
+BITCOIN & CRYPTO: It's Actually Happening (New Targets)!!! - Bitcoin News Today, Ethereum & Altcoins *Bitunix* ...
 
-📺 Cilinix Crypto
+📺 Crypto World
 
-👁️ 380 • 👍 13 • 💬 8 • ⏱️ 5:19 • 12h ago
-
----
-
-**[&quot;EVERY Crypto Holder Is Missing the BIG PICTURE...&quot; - Cathie Wood](https://www.youtube.com/watch?v=1M1QHE7eyZY)**
-
-Explore FortisX and access a bonus of up to 10% on one deposit using the link below: https://fortisx.fi/kol/savvyfinanceofficial ...
-
-📺 Savvy Finance
-
-👁️ 5K • 👍 216 • 💬 3 • ⏱️ 22:10 • 22h ago
+👁️ 602 • 👍 57 • 💬 6 • ⏱️ 17:38 • 22m ago
 
 ---
 
-**[Ethereum is Digital Silver (And Nobody Realizes What&#39;s Coming)](https://www.youtube.com/watch?v=fuq-txi-OfA)**
+**[ETH Ethereum Price Prediction: 9th of February](https://www.youtube.com/watch?v=DnmnNc9z-iw)**
 
-Ethereum is boring right now. The price is chopping. Sentiment is terrible. Everyone hates it. And that's exactly why it might be the ...
+Welcome to Czar Gets Crypto! Please note the following: Educational Purposes Only: All content on this channel is for ...
 
-📺 Wall Street Stockcast
+📺 C-Zar Gets Crypto 
 
-👁️ 25 • 👍 1 • 💬 63 • ⏱️ 10:02 • 3h ago
+👁️ 152 • 👍 16 • 💬 6 • ⏱️ 6:20 • 6h ago
 
 ---
 
@@ -292,47 +282,57 @@ FREE TRAINING: https://www.bullmania.com EXCHANGES I USE (bybit, pionex): https:
 
 📺 Ivan on Tech
 
-👁️ 20K • 👍 1K • 💬 67 • ⏱️ 49:46 • 12h ago
+👁️ 22K • 👍 1K • 💬 57 • ⏱️ 49:46 • 13h ago
 
 ---
 
-**[MegaETH Mainnet is Live! — The Next Era of Ethereum Scaling](https://www.youtube.com/watch?v=KFzaJ7_-XQ0)**
+**[&quot;EVERY Crypto Holder Is Missing the BIG PICTURE...&quot; - Cathie Wood](https://www.youtube.com/watch?v=1M1QHE7eyZY)**
 
-SPOTIFY PREMIUM RSS FEED | USE CODE: SPOTIFY24 https://bankless.cc/spotify-premium ------ MegaETH mainnet is live, ...
+Explore FortisX and access a bonus of up to 10% on one deposit using the link below: https://fortisx.fi/kol/savvyfinanceofficial ...
 
-📺 Bankless
+📺 Savvy Finance
 
-👁️ 2K • 👍 76 • 💬 69 • ⏱️ 1:22:18 • 11h ago
-
----
-
-**[Ethereum Elliott Wave Update – Key Resistance Levels Ahead](https://www.youtube.com/watch?v=dkRmzBouZ64)**
-
-This video provides a professional Elliott Wave and technical analysis of Ethereum (ETH), focusing on market structure, major ...
-
-📺 More Crypto Online
-
-👁️ 3K • 👍 218 • 💬 8 • ⏱️ 5:37 • 19h ago
+👁️ 5K • 👍 224 • 💬 3 • ⏱️ 22:10 • 23h ago
 
 ---
 
-**[BITCOIN WILL SHOCK EVERYONE (Breakout Loading)!!! - Bitcoin News Today, Ethereum &amp; Altcoins](https://www.youtube.com/watch?v=6VEtJwjh-Z4)**
+**[Ethereum is Digital Silver (And Nobody Realizes What&#39;s Coming)](https://www.youtube.com/watch?v=fuq-txi-OfA)**
 
-BITCOIN WILL SHOCK EVERYONE (Breakout Loading)!!! - Bitcoin News Today, Ethereum & Altcoins *Bitunix* ...
+Ethereum is boring right now. The price is chopping. Sentiment is terrible. Everyone hates it. And that's exactly why it might be the ...
 
-📺 Crypto World
+📺 Wall Street Stockcast
 
-👁️ 14K • 👍 439 • 💬 195 • ⏱️ 16:36 • 23h ago
+👁️ 42 • 👍 2 • 💬 41 • ⏱️ 10:02 • 4h ago
 
 ---
 
-**[📢 ETHEREUM:  FOMO or Wait?! [strategy, and analysis]👀 Buy ETH now?](https://www.youtube.com/watch?v=Eh-DLwKlv5Q)**
+**[Ethereum for Beginners! What’s New in 2026](https://www.youtube.com/watch?v=_JT27HyzTUM)**
 
-ETH price update: Looking for good crypto trading opportunities? ⭐️Deep dives playlist: ...
+Ethereum has evolved beyond its early days. This 2026 update revisits how it works, what's different, and what's in store ahead.
 
-📺 BTDcrypto
+📺 CoinGecko
 
-👁️ 16 • 👍 6 • ⏱️ 12:11 • 5h ago
+👁️ 971 • 👍 106 • 💬 39 • ⏱️ 4:15 • 13h ago
+
+---
+
+**[[LEAKED] ⚠️TOM LEE &quot;THE BOTTOM IS IN FOR BMNR AND ETHEREUM!!&quot; [WATCH NOW] IF YOU OWN BMNR STOCK!⚠️](https://www.youtube.com/watch?v=VHdHoJm_G6E)**
+
+Tom Lee discusses recent crypto news and volatility affecting BM&R. This video breaks down his statements and provides ...
+
+📺 Short The Vix
+
+👁️ 282 • 👍 31 • 💬 1 • ⏱️ 16:02 • 2h ago
+
+---
+
+**[WHAT TO EXPECT THIS WEEK!🚨 (Ethereum Price Prediction 2026)](https://www.youtube.com/watch?v=TTYJ8xOtbO8)**
+
+ETHEREUM ETH PRICE PREDICTION 2026 Join the Premium Signal Group for trade setups, mentorship & a community ...
+
+📺 Cilinix Crypto
+
+👁️ 440 • 👍 16 • 💬 1 • ⏱️ 5:19 • 13h ago
 
 ---
 
