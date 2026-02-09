@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-02-09T04:38:34.596111+00:00'
+updated: '2026-02-09T06:07:41.598340+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- videos
 - news
-- social
+- videos
 - cryptocurrency
+- social
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** February 09, 2026 at 04:38 UTC  
+**Last Updated:** February 09, 2026 at 06:07 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,17 +38,17 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $71,286.70
+### $70,876.11
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** +2.7%  
-**7d:** -6.1%  
-**30d:** -21.9%  
-**90d:** -30.1%  
-**1y:** -27.0%  
+**24h:** +1.6%  
+**7d:** -6.6%  
+**30d:** -22.2%  
+**90d:** -30.5%  
+**1y:** -27.4%  
 
 ---
 
@@ -81,23 +81,7 @@ Rank #1
 
 Congratulations everyone on surviving the 8th biggest single day drawdown in the past 10 years. You all are legends!!!
 
-9h ago
-
----
-
-**[I just started my DCA journey](https://www.reddit.com/r/Bitcoin/comments/1qzjgtu/i_just_started_my_dca_journey/)**
-
-Im 39years old and unfortunately(or fortunately) because i had to renovate my house for last 3 years i didnt have any money to buy BTC.But i followed whole market for last 5 years with really small portofolio(less than 200€). Now i'm completely debt/loan free. Finally my 3 year bank loan ended friday,and i finally began my DCA journey into BTC at 66k. I guess im kinda lucky that it just had almost 50% drop. I know i can never time the market,and im mentally fully aware we can go back to 35-40k. The reason why i made this thread is because in my life i never talk about BTC so i guess i just wanted to share this with similar minded people
-
-8h ago
-
----
-
-**[Is it the time to buy?](https://www.reddit.com/r/Bitcoin/comments/1qzr9yi/is_it_the_time_to_buy/)**
-
-I bought Bitcoin in 2023 when it went down to 25k waiting for the halving in 2024 and then it crossed 100k. Is it time to buy again now?
-
-2h ago
+10h ago
 
 ---
 
@@ -105,7 +89,31 @@ I bought Bitcoin in 2023 when it went down to 25k waiting for the halving in 202
 
 Hi everyone! Back in like 2013 or something My husband bought us some bitcoin. I think around $1000 worth, I can’t recall. Unfortunately since then he’s passed away (2018), and while I recall logging in to his wallet and changing the info to include myself and my email address after he passed away, I can’t recall where on earth any of this transpired. I do have the old laptop I did this on, and I hope that can help illuminate things for me so I can find it, but honestly I’m not sure where to begin looking. Back around those days, where would one access to their bitcoin? This was his thing back then, not mine so I have no idea where to start. Any ideas would be helpful.
 
-10h ago
+11h ago
+
+---
+
+**[BTC Can Rip Because Everyone Expects Nine Months of Pain](https://www.reddit.com/r/Bitcoin/comments/1qzuzjp/btc_can_rip_because_everyone_expects_nine_months/)**
+
+The people that have been around for multiple cycles have experienced buying Bitcoin's dips too soon. Thus, they are holding back from unloading their clips in the current correction. What Bitcoin likes to do, is make the greatest number of people regret their buying and selling decisions. it's this reason that Bitcoin is more likely to take off than continue a long slow bleed to $40k. If you can accumulate 1 BTC and it's eventually worth $500k, buying one at $70k vs $50k means your made $430k instead of $450k. If won't matter. Don't let the 4-year cycle theory hold you back from buying now.
+
+1h ago
+
+---
+
+**[Is it the time to buy?](https://www.reddit.com/r/Bitcoin/comments/1qzr9yi/is_it_the_time_to_buy/)**
+
+I bought Bitcoin in 2023 when it went down to 25k waiting for the halving in 2024 and then it crossed 100k. Is it time to buy again now?
+
+4h ago
+
+---
+
+**[I just started my DCA journey](https://www.reddit.com/r/Bitcoin/comments/1qzjgtu/i_just_started_my_dca_journey/)**
+
+Im 39years old and unfortunately(or fortunately) because i had to renovate my house for last 3 years i didnt have any money to buy BTC.But i followed whole market for last 5 years with really small portofolio(less than 200€). Now i'm completely debt/loan free. Finally my 3 year bank loan ended friday,and i finally began my DCA journey into BTC at 66k. I guess im kinda lucky that it just had almost 50% drop. I know i can never time the market,and im mentally fully aware we can go back to 35-40k. The reason why i made this thread is because in my life i never talk about BTC so i guess i just wanted to share this with similar minded people
+
+9h ago
 
 ---
 
@@ -113,7 +121,7 @@ Hi everyone! Back in like 2013 or something My husband bought us some bitcoin. I
 
 The purple crayon tasted like 85k-90k within 2 weeks 🤷‍♂️
 
-4h ago
+5h ago
 
 ---
 
@@ -121,7 +129,7 @@ The purple crayon tasted like 85k-90k within 2 weeks 🤷‍♂️
 
 Keep in mind, Mainstream joined Bitcoin this cycle. They don't care about any FIAT vs Bitcoin stories. They care about ROI. They bought between 100k-125k. They joined because of FOMO, some because they started to believe in the legitimacy it has gotten in the past few years. And all of them have never gotten any positive results from their investments yet, only downward trends for months and now even dropping to 40-50%. It is very discouraging for them and many only hold because they don't want to liquidate on this massive loss, sunk cost fallacy. And this is the main danger. Veterans don't care about the dropping price. The mainstream investors are going to pull us all to the floor as they are not loyal to any asset but to ROI. They need to see rewards or they jump ship. Problem is that Bitcoin tends to stay for over a year or two until it recovers to their 0% ROI, where they fear further drops during all those months and they doubt the 4 year cycle. The sunk cost fallacy is only holding for so long before they start to find a way out I think this aspect is not looked into enough. We are dealing with bitcoin holders who are scared, discouraged and never saw any success with this asset. and people who don't have decades to wait for their retirement (most money are held by older people)
 
-5h ago
+7h ago
 
 ---
 
@@ -135,7 +143,7 @@ Keep in mind, Mainstream joined Bitcoin this cycle. They don't care about any FI
 
 The Fed's money printer never stops. Balance sheet still bloated at ~$6.5T, quietly debasing your dollars while inflation eats savings. Bitcoin: fixed 21 million cap. No printing, no dilution, no central control. In a world of infinite fiat, Bitcoin is scarce, hard money - and the ultimate opt-out. Stack sats. The longer they print, the stronger the case for Bitcoin.
 
-17h ago
+18h ago
 
 ---
 
@@ -143,15 +151,7 @@ The Fed's money printer never stops. Balance sheet still bloated at ~$6.5T, quie
 
 Guys, if you've been in this for 7-10 years, you see the same nonsense being spouted every single damn crash. BUY AND HODLATE.
 
-14h ago
-
----
-
-**[How do you handle the urge to break your DCA schedule during big dips?](https://www.reddit.com/r/Bitcoin/comments/1qznz81/how_do_you_handle_the_urge_to_break_your_dca/)**
-
-Been DCAing for about a year now and every time there is a major dip like this week I feel the urge to throw in extra. Sometimes it works out, sometimes I end up buying before an even bigger dip. Curious how other long term holders handle this. Do you stick strictly to your schedule or do you have a separate fund for opportunistic buys?
-
-5h ago
+15h ago
 
 ---
 
@@ -163,7 +163,15 @@ Been DCAing for about a year now and every time there is a major dip like this w
 
 The “Bitcoin to $0” narrative is surging again. Market sentiment has flipped decisively bearish. Bullish credibility is weakening. “Every time I ask a Bitcoin true ...
 
-Yahoo Finance • 18h ago
+Yahoo Finance • 20h ago
+
+---
+
+**[S Korean crypto firm accidentally pays out $40bn in bitcoin](https://www.bbc.com/news/articles/cz6y62nzjxxo)**
+
+The company quickly realised its mistake and managed to recover virtually all the missing tokens from customers.
+
+BBC • 1d ago
 
 ---
 
@@ -176,33 +184,41 @@ CNBC • 1d ago
 
 ---
 
-**[S Korean crypto firm accidentally pays out $40bn in bitcoin](https://www.bbc.com/news/articles/cz6y62nzjxxo)**
+**[South Korean Crypto Exchange Accidentally Gave Away $43 Billion in Bitcoin](https://finance.yahoo.com/news/south-korean-crypto-exchange-accidentally-174618936.html)**
 
-The company quickly realised its mistake and managed to recover virtually all the missing tokens from customers.
+The error was quickly corrected, Bithumb said, but not before some users sold off their Bitcoin, temporarily crashing its listed price.
 
-BBC • 1d ago
-
----
-
-**[Korea’s Bithumb Mistakenly Gives Away $40 Billion in Bitcoin](https://www.pymnts.com/cryptocurrency/2026/koreas-bithumb-mistakenly-gives-away-40-billion-in-bitcoin/)**
-
-A South Korean cryptocurrency exchange is facing regulatory investigation following a $40 billion bitcoin-related mistake. That exchange, Bithumb,
-
-PYMNTS.com • 2h ago
+Yahoo Finance • 1d ago
 
 ---
 
-**[Bitcoin Steadies Above $70,000 After Wild Roller-Coaster Ride](https://www.bloomberg.com/news/articles/2026-02-09/bitcoin-btc-steadies-above-70-000-after-wild-roller-coaster-ride)**
+**[Bitcoin (BTC) Steadies Above $70,000 After Wild Roller-Coaster Ride](https://www.bloomberg.com/news/articles/2026-02-09/bitcoin-btc-steadies-above-70-000-after-wild-roller-coaster-ride)**
 
-bloomberg.com • 2h ago
+bloomberg.com • 3h ago
 
 ---
 
-**[Takaichi Triumph: Japan’s record 56,000 Nikkei surge sends bitcoin to $72,000, gold past $5,000](https://www.coindesk.com/markets/2026/02/09/takaichi-triumph-japan-s-record-56-000-nikkei-surge-sends-bitcoin-to-usd72-000-gold-past-usd5-000)**
+**[Trusted Chicago judge takes Tuskegee Airman's cash, then flips it into bitcoin for herself](https://www.cbsnews.com/chicago/news/retired-judge-patricia-martin-theft-tuskegee-airman-oscar-lawton-wilkerson-bitcoin/)**
 
-Japanese mandate sparks surge in equities and safe havens.
+A retired judge who lost her law license for fleecing her Tuskegee Airman uncle used the money she stole to buy bitcoin for herself, court records show.
 
-CoinDesk • 3h ago
+cbsnews.com • 1h ago
+
+---
+
+**[If You'd Invested $1,000 in Bitcoin 10 Years Ago, Here's How Much You'd Have Today](https://finance.yahoo.com/news/youd-invested-1-000-bitcoin-033500086.html)**
+
+Bitcoin has been falling fast recently, but the token has still delivered lifechanging returns for buy-and-hold investors over the last decade.
+
+Yahoo Finance • 2h ago
+
+---
+
+**[Strategy CEO: Bitcoin would need to plunge to $8,000 before balance sheet issues](https://www.theblock.co/post/388774/strategy-ceo-bitcoin-q4-earnings-call)**
+
+Executive Chairman Michael Saylor also addressed quantum computing concerns in bitcoin, framing them as 'horrible FUD.'
+
+The Block • 3d ago
 
 ---
 
@@ -212,25 +228,9 @@ Forbes • 2d ago
 
 ---
 
-**[Former FBI cybersecurity expert explains how Nancy Guthrie could be found via Bitcoin and Email](https://www.cnn.com/2026/02/06/us/video/former-fbi-cybersecurity-expert-explains-how-nancy-guthrie-could-be-found-via-bitcoin-and-email-lcl)**
-
-Former FBI counterintelligence operative and cybersecurity expert Eric O’Neill joins Laura Coates to explain how a Bitcoin ransom demand could still be traced by law enforcement.
-
-cnn.com • 2d ago
-
----
-
-**[Bitcoin Booster’s $12 Billion Loss Headlines Crypto’s Worst Day Since 2022 Crash](https://www.wsj.com/finance/currencies/strategy-earnings-fourth-2025-33688dab?gaa_at=eafs&gaa_n=AWEtsqcSIowjZMMuLPYWnuh1-uvFN_nTxTcZ1FPViDrSqsY40esFdjzUz17k&gaa_ts=69896831&gaa_sig=V2nyZ1uRJWaTePre9k_FLHPW0dExrIFwjsGKhnhXFY1MTDPcqVdaH2_EK_mvTmVcvXno5l-no9Mf0VoTJwKjdw%3D%3D)**
+**[Bitcoin Booster’s $12 Billion Loss Headlines Crypto’s Worst Day Since 2022 Crash](https://www.wsj.com/finance/currencies/strategy-earnings-fourth-2025-33688dab?gaa_at=eafs&gaa_n=AWEtsqdIOoZy2zQqevHuAbA5PLV1RvqUBa56LBcf5TPQdbidLd-jV-LkmHHQ&gaa_ts=69897d14&gaa_sig=vtRuH1FRMNF42ppj6Wlp9flbd2lvIT8Hs3IXY-PORCrQnkyAwJubAZ-3xxza8ucsLgSPcXBpHTAKUKWVKvsZgw%3D%3D)**
 
 The Wall Street Journal • 3d ago
-
----
-
-**[If You'd Invested $1,000 in Bitcoin 10 Years Ago, Here's How Much You'd Have Today](https://www.fool.com/investing/2026/02/08/if-youd-invested-1000-in-bitcoin-10-years-ago-here/)**
-
-Bitcoin has been falling fast recently, but the token has still delivered lifechanging returns for buy-and-hold investors over the last decade.
-
-The Motley Fool • 1h ago
 
 ---
 
@@ -262,7 +262,7 @@ Bitcoin outlook turns bearish as Pivotus’ Richard Farr targets BTC at $0 and M
 
 **[Bitcoin tumbles below $70K, heavy losses in cryptocurrencies in last three weeks](https://news.ycombinator.com/item?id=46934165)**
 
-⬆️ 46 • 💬 64 • 14h ago • [bloomberg.com](https://www.bloomberg.com/news/articles/2026-02-05/bitcoin-drops-below-70-000-as-forced-deleveraging-accelerates)
+⬆️ 47 • 💬 64 • 16h ago • [bloomberg.com](https://www.bloomberg.com/news/articles/2026-02-05/bitcoin-drops-below-70-000-as-forced-deleveraging-accelerates)
 
 ---
 
@@ -276,7 +276,7 @@ Bitcoin outlook turns bearish as Pivotus’ Richard Farr targets BTC at $0 and M
 
 The crypto crash is coming — and the landing won’t be pretty
 
-⬆️ 5 • 💬 1 • 12h ago • [ft.com](https://www.ft.com/content/2b030926-2012-4446-b22d-e549e10e7086)
+⬆️ 5 • 💬 1 • 13h ago • [ft.com](https://www.ft.com/content/2b030926-2012-4446-b22d-e549e10e7086)
 
 ---
 
@@ -292,7 +292,7 @@ Crypto treasury companies quietly crept into index funds and retirement accounts
 
 Local opponents criticise legislation that will facilitate ‘networked state’ community and hand executive powers to developer
 
-⬆️ 4 • 💬 0 • 11h ago • [ft.com](https://www.ft.com/content/50c2f8e0-a0a4-4433-805d-46e9e0345d4a)
+⬆️ 4 • 💬 0 • 13h ago • [ft.com](https://www.ft.com/content/50c2f8e0-a0a4-4433-805d-46e9e0345d4a)
 
 ---
 
@@ -322,7 +322,7 @@ Bitcoin behaves more like an "ATM" during uncertain times, with investors quickl
 
 📺 Money Talks
 
-👁️ 5K • 👍 142 • 💬 13 • ⏱️ 11:09 • 10h ago
+👁️ 5K • 👍 142 • 💬 13 • ⏱️ 11:09 • 11h ago
 
 ---
 
@@ -332,7 +332,7 @@ Mark Yusko Crypto Prediction's 2026 Follow: https://x.com/MarkYusko LIMITED TIME
 
 📺 Altcoin Daily
 
-👁️ 22K • 👍 1K • 💬 159 • ⏱️ 59:15 • 6h ago
+👁️ 22K • 👍 1K • 💬 159 • ⏱️ 59:15 • 7h ago
 
 ---
 
@@ -342,7 +342,7 @@ Bitcoin tumbled below $61000, as the unwinding of leveraged bets and broader mar
 
 📺 Bloomberg News
 
-👁️ 4K • 👍 82 • 💬 6 • ⏱️ 1:11 • 9h ago
+👁️ 4K • 👍 82 • 💬 6 • ⏱️ 1:11 • 11h ago
 
 ---
 
@@ -352,7 +352,7 @@ Nick Valdez checks the latest price action with Bitcoin. What if I said there ar
 
 📺 Discover Crypto
 
-👁️ 6K • 👍 225 • 💬 55 • ⏱️ 5:08 • 12h ago
+👁️ 6K • 👍 225 • 💬 55 • ⏱️ 5:08 • 14h ago
 
 ---
 
@@ -372,7 +372,7 @@ If you've been waiting for a real Bitcoin opportunity, this may be it ➡️  . 
 
 📺 Ross Givens
 
-👁️ 2K • 👍 154 • 💬 5 • ⏱️ 2:28 • 15h ago
+👁️ 2K • 👍 154 • 💬 5 • ⏱️ 2:28 • 16h ago
 
 ---
 
