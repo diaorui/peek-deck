@@ -3,13 +3,13 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-02-09T21:40:26.832451+00:00'
+updated: '2026-02-09T22:37:34.833599+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- cryptocurrency
 - videos
+- cryptocurrency
 - news
 - social
 ---
@@ -18,7 +18,7 @@ data_types:
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** February 09, 2026 at 21:40 UTC  
+**Last Updated:** February 09, 2026 at 22:37 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -72,7 +72,7 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-15h ago
+16h ago
 
 ---
 
@@ -80,7 +80,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 We’re launching a new service focused on smart contract reviews without the overhead of a full audit. Scope is limited and practical. Logic, exploitability, and protocol level risks. No certification and no audit opinion. To validate the approach, we’re offering a limited number of free focused smart contract security reviews for projects that are code complete and either close to launch or already deployed, in exchange for honest feedback. This is not meant to replace an audit. It’s a short, concrete review focused on protocol logic and exploit paths. Shoot a dm, if you're interested.
 
-4h ago
+5h ago
 
 ---
 
@@ -88,7 +88,7 @@ We’re launching a new service focused on smart contract reviews without the ov
 
 In January 2026, DeFi hacks resulted in roughly $86M in losses across multiple protocols. More concerning: 7 separate incidents exceeded $1M each. Most of the exploits were rooted in smart contract vulnerabilities. The pattern feels familiar at this point. Repeated issues, similar bug classes, and preventable failures. The question isn’t whether exploits will continue it’s whether teams are adapting fast enough. Are you building with security as a first principle, or still treating it as a final checklist before launch?
 
-4h ago
+5h ago
 
 ---
 
@@ -96,7 +96,7 @@ In January 2026, DeFi hacks resulted in roughly $86M in losses across multiple p
 
 Crypto prices have continued to swing, but derivatives activity since October looks much more subdued. Open interest and volumes across major assets have fallen and stayed lower, suggesting leverage has been reduced rather than rotated elsewhere. Funding rates are mostly calm, with the exception of Solana, where short positioning is more pronounced. A Quieter Market: What Crypto Derivatives Have Been Doing Since October 2025 | Sandmark What stands out to me isn’t that traders are outright bearish, but that they’re stepping back. It feels less like a call on prices going down and more like people reducing risk after a long period of easy leverage. With tighter limits and less appetite to borrow, price moves may matter differently than before. Big question is ... is this just a temporary pause, or has the market’s comfort with leverage really changed?
 
-5h ago
+6h ago
 
 ---
 
@@ -104,7 +104,7 @@ Crypto prices have continued to swing, but derivatives activity since October lo
 
 I am looking for a stablecoin that, instead of being pegged to a fiat currency, is pegged to a consumer price index, preferably one for prices where I live (Wales, UK), so that it rises with inflation. I don't mind whether it is partly centralised​ or not so long as it is actually censorship-resistent (so, unlike USDT). Should be safe i.e.​ vulnerable to being depegged so not algorithmic. Does this exist? Bonus points if it doesn't use plutocratic token-weighted governance.
 
-7h ago
+8h ago
 
 ---
 
@@ -112,7 +112,7 @@ I am looking for a stablecoin that, instead of being pegged to a fiat currency, 
 
 This is a compact Ethereum Virtual Machine runtime written in strict C23. Made this for learning purposes. BTW, it has a toy Solidity-like compiler into bytecode and `nano-node` program that "deploys" contracts to local store and gives ability to call them.
 
-🔗 [GitHub](https://github.com/ThirdLetterC/nano-evm) • 8h ago
+🔗 [GitHub](https://github.com/ThirdLetterC/nano-evm) • 9h ago
 
 ---
 
@@ -120,7 +120,7 @@ This is a compact Ethereum Virtual Machine runtime written in strict C23. Made t
 
 World News, Stories By EtherWorld, Technical Explainers, Client News & Updates, Podcasts, Upcoming Events & Jobs
 
-🔗 [EtherWorld.co](https://etherworld.co/etherworld-weekly-edition-350/) • 15h ago
+🔗 [EtherWorld.co](https://etherworld.co/etherworld-weekly-edition-350/) • 16h ago
 
 ---
 
@@ -128,7 +128,7 @@ World News, Stories By EtherWorld, Technical Explainers, Client News & Updates, 
 
 A bug fix turned into a personal comeback story of coding, parenting, and a small contribution to the open-source world.
 
-🔗 [EtherWorld.co](https://etherworld.co/the-bug-of-solving-bugs/) • 8h ago
+🔗 [EtherWorld.co](https://etherworld.co/the-bug-of-solving-bugs/) • 9h ago
 
 ---
 
@@ -136,7 +136,7 @@ A bug fix turned into a personal comeback story of coding, parenting, and a smal
 
 eth-mempool-monitor subscribes to Ethereum pending transactions over WebSocket, filters them against a monitored address set stored in Redis/Valkey, and publishes matching transactions to RabbitMQ. The project builds three binaries: eth_mempool_monitor: WebSocket subscriber + Redis filter + RabbitMQ publisher. rpc_control: newline-delimited JSON-RPC TCP server used to manage monitored addresses in Redis (token-authenticated). rabbitmq_tx_console: RabbitMQ consumer that prints monitored-transaction events in human-readable form.
 
-🔗 [GitHub](https://github.com/ThirdLetterC/eth-mempool-monitor) • 20h ago
+🔗 [GitHub](https://github.com/ThirdLetterC/eth-mempool-monitor) • 21h ago
 
 ---
 
@@ -144,7 +144,7 @@ eth-mempool-monitor subscribes to Ethereum pending transactions over WebSocket, 
 
 I'm willing to stake my ETH that I have on my ledger, is this safe to use lido from the ledger?
 
-23h ago
+1d ago
 
 ---
 
@@ -172,7 +172,7 @@ Yahoo Finance • 1d ago
 
 The cryptocurrency industry went under intense pressure last week, with Bitcoin and Ethereum leading the crash and multiple cryptocurrencies hitting new multi-month lows. The crash was more pronounced with Bitcoin, though, and the imbalance in selling pressure is quietly shifting the relationship b…
 
-TradingView • 7h ago
+TradingView • 8h ago
 
 ---
 
@@ -196,7 +196,7 @@ The Motley Fool • 2d ago
 
 ENS Labs is canceling the launch of the Namechain Layer 2, which began development in 2024 to support the forthcoming ENSv2 update.
 
-The Block • 2d ago
+The Block • 3d ago
 
 ---
 
@@ -204,7 +204,7 @@ The Block • 2d ago
 
 The project, which had previously pitched itself as a layer-2 “real-time blockchain,” targeting more than 100,000 transactions per second, would make onchain interactions feel closer to traditional web apps than today’s crypto networks.
 
-CoinDesk • 5h ago
+CoinDesk • 6h ago
 
 ---
 
@@ -212,7 +212,7 @@ CoinDesk • 5h ago
 
 Bitmine has 2,873,459 staked ETH, representing $6.2 billion at $2,125 per ETH; MAVAN staking solution on track to launch Q1 2026 Bitmine now owns 3.58% of the...
 
-PR Newswire • 8h ago
+PR Newswire • 9h ago
 
 ---
 
@@ -220,7 +220,7 @@ PR Newswire • 8h ago
 
 Ethereum price predictions from Standard Chartered and Citi target $5,400-$7,500 for 2026, but technical analysis shows bearish targets at $1,760-$1,000.
 
-financemagnates.com • 9h ago
+financemagnates.com • 10h ago
 
 ---
 
@@ -242,7 +242,7 @@ Welcome back home Ethereum! This time I think ETH will kick its feet back and st
 
 📺 Benjamin Cowen
 
-👁️ 81K • 👍 5K • 💬 323 • ⏱️ 14:29 • 15h ago
+👁️ 81K • 👍 5K • 💬 323 • ⏱️ 14:29 • 16h ago
 
 ---
 
@@ -252,7 +252,7 @@ This video provides a professional Elliott Wave and technical analysis of Ethere
 
 📺 More Crypto Online
 
-👁️ 2K • 👍 169 • 💬 7 • ⏱️ 4:46 • 7h ago
+👁️ 2K • 👍 169 • 💬 7 • ⏱️ 4:46 • 8h ago
 
 ---
 
@@ -262,7 +262,7 @@ ETHEREUM ETH PRICE PREDICTION 2026 Join the Premium Signal Group for trade setup
 
 📺 Cilinix Crypto
 
-👁️ 380 • 👍 13 • 💬 8 • ⏱️ 5:19 • 11h ago
+👁️ 380 • 👍 13 • 💬 8 • ⏱️ 5:19 • 12h ago
 
 ---
 
@@ -272,7 +272,7 @@ Explore FortisX and access a bonus of up to 10% on one deposit using the link be
 
 📺 Savvy Finance
 
-👁️ 5K • 👍 216 • 💬 3 • ⏱️ 22:10 • 21h ago
+👁️ 5K • 👍 216 • 💬 3 • ⏱️ 22:10 • 22h ago
 
 ---
 
@@ -282,7 +282,7 @@ Ethereum is boring right now. The price is chopping. Sentiment is terrible. Ever
 
 📺 Wall Street Stockcast
 
-👁️ 25 • 👍 1 • 💬 63 • ⏱️ 10:02 • 2h ago
+👁️ 25 • 👍 1 • 💬 63 • ⏱️ 10:02 • 3h ago
 
 ---
 
@@ -292,7 +292,7 @@ FREE TRAINING: https://www.bullmania.com EXCHANGES I USE (bybit, pionex): https:
 
 📺 Ivan on Tech
 
-👁️ 20K • 👍 1K • 💬 67 • ⏱️ 49:46 • 11h ago
+👁️ 20K • 👍 1K • 💬 67 • ⏱️ 49:46 • 12h ago
 
 ---
 
@@ -302,7 +302,7 @@ SPOTIFY PREMIUM RSS FEED | USE CODE: SPOTIFY24 https://bankless.cc/spotify-premi
 
 📺 Bankless
 
-👁️ 2K • 👍 76 • 💬 69 • ⏱️ 1:22:18 • 10h ago
+👁️ 2K • 👍 76 • 💬 69 • ⏱️ 1:22:18 • 11h ago
 
 ---
 
@@ -312,7 +312,7 @@ This video provides a professional Elliott Wave and technical analysis of Ethere
 
 📺 More Crypto Online
 
-👁️ 3K • 👍 218 • 💬 8 • ⏱️ 5:37 • 18h ago
+👁️ 3K • 👍 218 • 💬 8 • ⏱️ 5:37 • 19h ago
 
 ---
 
@@ -322,7 +322,7 @@ BITCOIN WILL SHOCK EVERYONE (Breakout Loading)!!! - Bitcoin News Today, Ethereum
 
 📺 Crypto World
 
-👁️ 14K • 👍 439 • 💬 195 • ⏱️ 16:36 • 22h ago
+👁️ 14K • 👍 439 • 💬 195 • ⏱️ 16:36 • 23h ago
 
 ---
 
@@ -332,7 +332,7 @@ ETH price update: Looking for good crypto trading opportunities? ⭐️Deep dive
 
 📺 BTDcrypto
 
-👁️ 16 • 👍 6 • ⏱️ 12:11 • 4h ago
+👁️ 16 • 👍 6 • ⏱️ 12:11 • 5h ago
 
 ---
 

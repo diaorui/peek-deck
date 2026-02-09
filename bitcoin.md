@@ -3,13 +3,13 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-02-09T21:40:26.826443+00:00'
+updated: '2026-02-09T22:37:34.827765+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- cryptocurrency
 - videos
+- cryptocurrency
 - news
 - social
 ---
@@ -18,7 +18,7 @@ data_types:
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** February 09, 2026 at 21:40 UTC  
+**Last Updated:** February 09, 2026 at 22:37 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -81,7 +81,7 @@ Rank #1
 
 If you can't afford to buy it, the author is linking to free version: https://x.com/saifedean/status/1541200940124049408#m The audio book is also quite often to be found at YouTube.
 
-6h ago
+7h ago
 
 ---
 
@@ -89,7 +89,7 @@ If you can't afford to buy it, the author is linking to free version: https://x.
 
 Credit: @thepaulosophy Info about the ring: https://bitcoin-ring.com
 
-3h ago
+4h ago
 
 ---
 
@@ -97,13 +97,13 @@ Credit: @thepaulosophy Info about the ring: https://bitcoin-ring.com
 
 If the 4 year cycle is intact.. we go down and stay down between 50K to 70K over the next 2 years before the slow grind up. If the 4 year cycle is broken due to a fundamentally different investor set, then we potentially see a swift recovery following clarity on CLARITY ACT, and break new highs in 2026. But right now.. we're at the mid point, where Schrodinger's Bitcoin is... Time will tell. I'm rooting for new highs in 2026 and a fundamentally different cycle to end all cycles. You?
 
-8h ago
+9h ago
 
 ---
 
 **[The more you learn about Bitcoin, the more you'll see how the current corrupt system works.](https://www.reddit.com/r/Bitcoin/comments/1qzykbx/the_more_you_learn_about_bitcoin_the_more_youll/)**
 
-13h ago
+14h ago
 
 ---
 
@@ -111,13 +111,13 @@ If the 4 year cycle is intact.. we go down and stay down between 50K to 70K over
 
 The people that have been around for multiple cycles have experienced buying Bitcoin's dips too soon. Thus, they are holding back from unloading their clips in the current correction. What Bitcoin likes to do, is make the greatest number of people regret their buying and selling decisions. it's this reason that Bitcoin is more likely to take off than continue a long slow bleed to $40k. If you can accumulate 1 BTC and it's eventually worth $500k, buying one at $70k vs $50k means your made $430k instead of $450k. If won't matter. Don't let the 4-year cycle theory hold you back from buying now.
 
-16h ago
+17h ago
 
 ---
 
 **[Bitcoin dropped ~50% and ~90% of ETF capital held strong.](https://www.reddit.com/r/Bitcoin/comments/1r07zl1/bitcoin_dropped_50_and_90_of_etf_capital_held/)**
 
-5h ago
+6h ago
 
 ---
 
@@ -125,7 +125,7 @@ The people that have been around for multiple cycles have experienced buying Bit
 
 Sovereign funds stacking quietly = regulatory green light incoming... Elephants don’t FOMO. They know the watering hole’s about to open. Larry Fink speaking at the DealBook Summit, December 2025.
 
-17m ago
+1h ago
 
 ---
 
@@ -133,7 +133,7 @@ Sovereign funds stacking quietly = regulatory green light incoming... Elephants 
 
 The purple crayon tasted like 85k-90k within 2 weeks 🤷‍♂️
 
-21h ago
+22h ago
 
 ---
 
@@ -141,13 +141,13 @@ The purple crayon tasted like 85k-90k within 2 weeks 🤷‍♂️
 
 The main reason we can know quite well that bitcoin will be worth more in the future than it is worth today is this: If you ask a young person whether they own any gold, they'll probably say no. But if you ask that same person if they own any bitcoin, there's a good chance they'd say yes. Great. Most bitcoiners don't find this new or surprising. But here's what a lot of bitcoin maxis don't understand: The less diversification you have, the more overall wealth you need at retirement to offset the risk your portfolio crashes during the first few years of your retirement. Said differently, if you're super convicted about bitcoin's future and you're trying to stack as many sats as you can every day, you're doing great! But you should also know and appreciate the fact that holding bitcoin as the only asset in your portfolio poses a serious risk to your ability to retire early. This risk is called "Sequence of Returns Risk". What is Sequence of Returns Risk ("SORR")? Put simply, it's the risk that your portfolio crashes early on in your retirement, such that when you withdraw the money you need each year to cover living expenses, you're forced to sell your assets during bear market lows. You really, REALLY don't want to be selling your assets during a market crash. Why? Here's an illustrative example: let's say you retired yesterday with a portfolio equal to $1M and you spend $40k per year. You plan to retire for 30 years - great! Good plan. But then something unexpected happens: your portfolio value plummets by 50% in Year 1 to a new value of $500k. Now, each time you withdraw your $40k needed to cover expenses, you are forced to sell TWICE as much of your assets as you would have been selling during a normal "non-crash" market. Then, when the market rebounds, a much smaller amount of your portfolio is still remaining to benefit from the rebound. The end result: you lose money faster. So what's the lesson? Easy. Don't put all your eggs in one basket. This isn't "weak hands" advice or "boomer" thinking. This is the smart way to invest to give yourself the best chance of retiring successfully so you can minimize the amount of bitcoin you ever have to sell to maintain your lifestyle.
 
-1h ago
+2h ago
 
 ---
 
 **[Bitcoin ATM at HK tang lung street](https://www.reddit.com/r/Bitcoin/comments/1r00bdu/bitcoin_atm_at_hk_tang_lung_street/)**
 
-11h ago
+12h ago
 
 ---
 
@@ -173,7 +173,7 @@ CoinDesk • 1d ago
 
 **[Ether Slides in Bitcoin’s Shadow as Investors Pull Out in Droves](https://www.bloomberg.com/news/articles/2026-02-09/ether-slides-in-bitcoin-s-shadow-as-investors-pull-out-in-droves?srnd=phx-etfs)**
 
-Bloomberg.com • 24m ago
+Bloomberg.com • 1h ago
 
 ---
 
@@ -181,7 +181,7 @@ Bloomberg.com • 24m ago
 
 A recent collapse in the price of Bitcoin has spurred weakness across the sector.
 
-Fortune • 46m ago
+Fortune • 1h ago
 
 ---
 
@@ -195,7 +195,7 @@ BBC • 2d ago
 
 **[Korea Probes Crypto Exchange Over $40 Billion in ‘Ghost Bitcoin’](https://www.bloomberg.com/news/articles/2026-02-09/bithumb-accidentally-gifts-620-000-bitcoin-btc-to-clients-in-fat-finger-error)**
 
-Bloomberg.com • 11h ago
+Bloomberg.com • 12h ago
 
 ---
 
@@ -212,7 +212,7 @@ CNBC • 2d ago
 
 Savannah Guthrie and her siblings released a video saying ‘we will pay’.
 
-Fortune • 3h ago
+Fortune • 4h ago
 
 ---
 
@@ -220,7 +220,7 @@ Fortune • 3h ago
 
 Captors have allegedly demanded $6 million in Bitcoin from the Guthrie family, as Nancy Guthrie remains missing her NBC anchor daughter pleads for her return.
 
-foxnews.com • 3h ago
+foxnews.com • 4h ago
 
 ---
 
@@ -228,7 +228,7 @@ foxnews.com • 3h ago
 
 Ahead of a pending ransom deadline in the Nancy Guthrie case, CNN News Central’s Kate Bolduan speaks with Juan Andres Guerrero-Saade, Vice President of Intelligence and Security Research at SentinelOne, about how bitcoin works and how it could actually help track down Guthrie’s abductor(s).
 
-cnn.com • 7h ago
+cnn.com • 8h ago
 
 ---
 
@@ -320,7 +320,7 @@ CHECK OUT MY LINKTREE FOR EXCHANGES I USE, BONUSES, FREE VIDEOS, AND MORE! https
 
 📺 My Financial Friend
 
-👁️ 5K • 👍 389 • 💬 127 • ⏱️ 16:35 • 4h ago
+👁️ 5K • 👍 389 • 💬 127 • ⏱️ 16:35 • 5h ago
 
 ---
 
@@ -330,7 +330,7 @@ Watch my free masterclass & get Market Briefs as a bonus: https://briefs.finance
 
 📺 Minority Mindset
 
-👁️ 108K • 👍 4K • 💬 476 • ⏱️ 13:35 • 9h ago
+👁️ 108K • 👍 4K • 💬 476 • ⏱️ 13:35 • 10h ago
 
 ---
 
@@ -340,7 +340,7 @@ Bitcoin #Crypto #Finance Is Bitcoin nearing a bottom or still searching for one?
 
 📺 The Wolf Of All Streets
 
-👁️ 21K • 👍 1K • 💬 424 • ⏱️ 1:05:03 • 6h ago
+👁️ 21K • 👍 1K • 💬 424 • ⏱️ 1:05:03 • 7h ago
 
 ---
 
@@ -350,7 +350,7 @@ TOOBIT — CLAIM $50 & 20% SIGN UP BONUS ON YOUR DEPOSIT Limited spots available
 
 📺 100XClub
 
-👁️ 10K • 👍 958 • 💬 789 • ⏱️ 9:04 • 11h ago
+👁️ 10K • 👍 958 • 💬 789 • ⏱️ 9:04 • 12h ago
 
 ---
 
@@ -370,7 +370,7 @@ Make Free Predictions on *ClashPicks* ▻ https://www.clashpicks.com/ Follow Cla
 
 📺 CryptosRUs
 
-👁️ 19K • 👍 1K • 💬 934 • ⏱️ 43:45 • 6h ago
+👁️ 19K • 👍 1K • 💬 934 • ⏱️ 43:45 • 7h ago
 
 ---
 
@@ -380,7 +380,7 @@ ANTARCTIC EXCHANGE LOWEST FEES!   https://partner.antarctic.live/code/JaysonCasp
 
 📺 Jayson Casper
 
-👁️ 4K • 👍 392 • 💬 126 • ⏱️ 55:56 • 2h ago
+👁️ 4K • 👍 392 • 💬 126 • ⏱️ 55:56 • 3h ago
 
 ---
 
@@ -400,7 +400,7 @@ Mark Yusko Crypto Prediction's 2026 Follow: https://x.com/MarkYusko LIMITED TIME
 
 📺 Altcoin Daily
 
-👁️ 68K • 👍 3K • 💬 1K • ⏱️ 59:15 • 23h ago
+👁️ 68K • 👍 3K • 💬 1K • ⏱️ 59:15 • 1d ago
 
 ---
 
@@ -410,7 +410,7 @@ BTC #Bitcoin #Cryptocurrency Join Michael Saylor for his unforgettable keynote a
 
 📺 TradeMatik - Borsa Analizi
 
-👁️ 5K • 👍 4K • 3h ago
+👁️ 5K • 👍 4K • 4h ago
 
 ---
 

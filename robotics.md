@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-02-09T21:40:26.835737+00:00'
+updated: '2026-02-09T22:37:34.836757+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- social
-- news
 - videos
+- news
+- social
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** February 09, 2026 at 21:40 UTC  
+**Last Updated:** February 09, 2026 at 22:37 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -34,7 +34,7 @@ Robotics research and industry news
 
 **[G1 kicks mother and child when performing](https://www.reddit.com/r/robotics/comments/1r0awur/g1_kicks_mother_and_child_when_performing/)**
 
-3h ago
+4h ago
 
 ---
 
@@ -42,19 +42,19 @@ Robotics research and industry news
 
 Over the past year our team built LingBot-VLA, a Vision-Language-Action foundation model for dual-arm manipulation. We just released everything: code, base model, and benchmark data (paper: arXiv:2601.18692, code: github.com/robbyant/lingbot-vla, weights on HuggingFace). I wanted to share what we learned deploying this across real hardware because the results tell an honest and, I think, useful story for anyone working on generalist robot policies. The setup: ~20,000 hours of teleoperated manipulation data from 9 mainstream dual-arm configs (Agibot G1, AgileX, Galaxea R1Pro, Realman, Leju KUAVO, and others). We evaluated on 3 physical platforms, 100 tasks each, 130 post-training demos per task, 15 trials per task per model. That's 22,500 total real-world trials comparing us against π0.5, GR00T N1.6, and WALL-OSS under identical conditions. The honest numbers: our best variant (with depth distillation) hit 17.30% average success rate and 35.41% progress score across all 300 task-platform pairs. π0.5 got 13.02% SR / 27.65% PS. WALL-OSS landed at 4.05% SR. Before anyone says "17% is low," I want to contextualize this. These are 100 diverse bimanual tasks, many requiring multi-step fine-grained manipulation (cleaning tableware, stacking, arranging objects), tested across three physically different robots. Some individual tasks hit 80%+ SR, others are near zero. Real-world bimanual manipulation across this breadth of tasks is genuinely hard, and I think the field benefits from reporting these numbers honestly rather than cherry-picking the best 5 tasks for a demo reel. What actually worked well: Scaling laws are real and not saturating. We ran a systematic study scaling pre-training data from 3K to 6K to 13K to 18K to 20K hours. Success rates climbed consistently across all three platforms with no sign of plateau at 20K. This was the most exciting finding for us because it suggests the path forward is clear: more diverse, high-quality real-world data keeps helping. Depth distillation made a meaningful difference. We use learnable queries aligned with depth embeddings from our LingBot-Depth model via cross-attention. This bumped average SR from 15.74% to 17.30% in real-world and from 85.34% to 86.68% in randomized simulation scenes. The gain was most visible on transparent object manipulation (glass vases, clear containers) where RGB alone struggles. Data-efficient adaptation. With only 80 demos per task, LingBot-VLA outperformed π0.5 trained on the full 130 demos, in both SR and progress score. The gap widened as we added more post-training data, which suggests the pre-training is providing genuinely useful priors rather than just memorizing. Training efficiency. We built a custom codebase with FSDP2, mixed-precision, FlexAttention, and operator fusion via torch.compile. On 8 GPUs we get 261 samples/sec/GPU for the Qwen2.5-VL-3B backbone, which is 1.5x to 2.8x faster than StarVLA, Dexbotic, and OpenPI depending on the VLM. Scaling to 256 GPUs tracks near-linear throughput. This matters practically because iterating on 20K hours of data is brutal without an efficient pipeline. What didn't work or remains unsolved: Plenty of tasks are still near 0% SR across all models. Tasks requiring very precise spatial reasoning in cluttered scenes, long-horizon multi-step sequences, or unusual object geometries remain extremely challenging. The depth distillation helps but doesn't solve spatial reasoning completely. Also, the model currently only covers dual-arm tabletop manipulation. Single-arm, mobile manipulation, and non-tabletop scenarios are future work. The architecture uses a Mixture-of-Transformers design (similar to BAGEL) where the VLM and action expert share self-attention but have separate feedforward pathways. Action generation uses flow matching with 50-step action chunks. We found the shared attention critical for letting semantic understanding guide action prediction without the modalities interfering with each other's representations. One thing I'd love to hear from this community: for those of you working with real dual-arm setups, what task categories do you find most important for practical deployment? Our GM-100 benchmark covers 100 tasks but we're always thinking about what's missing. Also curious if anyone has experimented with alternative spatial representations beyond depth for VLA models. All code, model weights, and the benchmark data are public. We wanted to make sure anyone can reproduce these results and build on them.
 
-3h ago
+4h ago
 
 ---
 
 **[Lego strandbeest (Part 1)](https://www.reddit.com/r/robotics/comments/1r09da6/lego_strandbeest_part_1/)**
 
-4h ago
+5h ago
 
 ---
 
 **[Robot](https://www.reddit.com/r/robotics/comments/1qzw7nc/robot/)**
 
-15h ago
+16h ago
 
 ---
 
@@ -62,7 +62,7 @@ Over the past year our team built LingBot-VLA, a Vision-Language-Action foundati
 
 When asked about tension around open source in robotics, Brian Gerkey, CTO of Intrinsic, pushes back on the idea that it was ever a problem. His point is that open source was designed from the start to be used by industry, not kept separate from it. Permissive licensing was intentional. Companies were meant to take the software, ship products with it, and build businesses on top, without being forced to contribute back. From that perspective, corporate involvement isn’t a betrayal of open source. What matters is whether the software stays open, maintained, and widely usable over time, not who adopts it or commercializes it.
 
-5h ago
+6h ago
 
 ---
 
@@ -70,13 +70,13 @@ When asked about tension around open source in robotics, Brian Gerkey, CTO of In
 
 https://preview.redd.it/lrhwvdgtjiig1.png?width=2880&format=png&auto=webp&s=8bd95c1e3352d027ab5574c0b9e17850b45186b3 Hey r/robotics, I've been working on a teleoperation platform that lets you control robots remotely through a browser with low-latency video (~150ms). Currently testing with a Unitree Go2 EDU Plus XT16. The setup: - WebRTC video/audio streaming from the robot - Real-time controls via WebSocket - HUD overlay with telemetry (battery, signal, heading) - Works on laptop/desktop with Chrome, Brave, and safari. - Mobile Bonding System I'm looking for a few people to beta test the pilot experience and give feedback on: - Control responsiveness - Video quality/latency - UI/UX of the operator interface - What features you'd want to see No hardware needed on your end , you'd be remotely controlling an actual robot in my lab. If you're interested, drop a comment or DM with: - Your timezone - Any relevant background (gaming, drones, robotics, etc - not required) - What interests you about remote robot operation Happy to answer questions about the technical stack too (WebRTC, Janus, aiortc, etc). Thanks!
 
-2h ago
+3h ago
 
 ---
 
 **[Autonomous Navigation in Dynamic Environments as a Persistent Robotics Challenge](https://www.reddit.com/r/robotics/comments/1r087bz/autonomous_navigation_in_dynamic_environments_as/)**
 
-🔗 [gazetemakina.com](https://gazetemakina.com/en/dinamik-robotik/) • 5h ago
+🔗 [gazetemakina.com](https://gazetemakina.com/en/dinamik-robotik/) • 6h ago
 
 ---
 
@@ -88,7 +88,7 @@ https://preview.redd.it/lrhwvdgtjiig1.png?width=2880&format=png&auto=webp&s=8bd9
 
 **[Everbot Demo: Home gym bot, Factory QA, Fitness and AirBnb App](https://www.reddit.com/r/robotics/comments/1qzt9y0/everbot_demo_home_gym_bot_factory_qa_fitness_and/)**
 
-18h ago
+19h ago
 
 ---
 
@@ -108,7 +108,7 @@ Repository: https://github.com/qrafty-ai/teleop_xr Any suggestions are welcome! 
 
 (MANITOU SPRINGS, Colo.) — On Saturday, Feb. 7, Manitou Springs School District 14 hosted and competed in the Colorado FIRST Tech Challenge Southern Qualifier. The competition welcomed middle and high...
 
-Yahoo • 43m ago
+Yahoo • 1h ago
 
 ---
 
@@ -116,7 +116,7 @@ Yahoo • 43m ago
 
 Few robotics technologies have been actually deployed in high-mix manufacturing. Let's explore the reasons behind this slow transition.
 
-The Robot Report • 1h ago
+The Robot Report • 2h ago
 
 ---
 
@@ -132,13 +132,13 @@ Fortune • 2d ago
 
 HK$10M JV MoU targets localized robotics R&D in Hong Kong, combining Mint’s Southeast Asia reach with Rice Robotics’ Japan presence around 'physical AI'.
 
-stocktitan.net • 8h ago
+stocktitan.net • 9h ago
 
 ---
 
 **[Tesla's Robotics Revolution Won't Save It (NASDAQ:TSLA)](https://seekingalpha.com/article/4867567-teslas-robotics-revolution-would-not-save-it)**
 
-Seeking Alpha • 14h ago
+Seeking Alpha • 15h ago
 
 ---
 
@@ -152,7 +152,7 @@ The Motley Fool • 1d ago
 
 **[Corvus Robotics Archives](https://dronedj.com/guides/corvus-robotics/)**
 
-DroneDJ • 2h ago
+DroneDJ • 3h ago
 
 ---
 
@@ -160,7 +160,7 @@ DroneDJ • 2h ago
 
 A group of humanoid robots made by Agibot performed kung fu moves at the Shaolin Temple in China, captivating viewers with their capabilities.
 
-Interesting Engineering • 10h ago
+Interesting Engineering • 11h ago
 
 ---
 
@@ -168,13 +168,13 @@ Interesting Engineering • 10h ago
 
 Swarmbotics AI has won a US Army contract to build swarming, attritable small unmanned ground vehicles for the 1st Cavalry Division.
 
-The Defense Post • 13h ago
+The Defense Post • 14h ago
 
 ---
 
 **[Rotating nozzle 3D printing creates air-powered soft robots with preset bends](https://techxplore.com/news/2026-02-rotating-nozzle-3d-air-powered.html)**
 
-Tech Xplore • 59m ago
+Tech Xplore • 1h ago
 
 ---
 
@@ -236,7 +236,7 @@ China's Zhejiang University has unveiled "Bolt," a full-size humanoid robot capa
 
 📺 Concept Bytes
 
-👁️ 29K • 👍 2K • 💬 33 • ⏱️ 1:24 • 3d ago
+👁️ 29K • 👍 2K • 💬 33 • ⏱️ 1:24 • 4d ago
 
 ---
 
@@ -256,7 +256,7 @@ War Robots Gameplay: PILLUM LYNX is something to be respected! My War Robots Cre
 
 📺 Manni-Gaming
 
-👁️ 7K • 👍 476 • 💬 102 • ⏱️ 19:56 • 13h ago
+👁️ 7K • 👍 476 • 💬 102 • ⏱️ 19:56 • 14h ago
 
 ---
 
