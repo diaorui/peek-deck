@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-02-09T12:03:39.113894+00:00'
+updated: '2026-02-09T13:54:05.656380+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
 - social
-- news
-- videos
 - cryptocurrency
+- videos
+- news
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** February 09, 2026 at 12:03 UTC  
+**Last Updated:** February 09, 2026 at 13:54 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,33 +38,33 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $68,920.78
+### $69,015.89
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** -3.4%  
+**24h:** -3.3%  
 **7d:** -9.1%  
 **30d:** -24.3%  
-**90d:** -32.4%  
-**1y:** -29.4%  
+**90d:** -32.3%  
+**1y:** -29.3%  
 
 ---
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1389.97B
+**Market Cap:** $1378.17B
 Rank #1
 
-**Circulating Supply:** 19,986,556 BTC
+**Circulating Supply:** 19,986,618 BTC
 95.2% of max
 
 **All-Time High:** $126,080.00
--44.9%
+-45.4%
 
 **All-Time Low:** $67.81
-+102387.8%
++101331.9%
 
 ---
 
@@ -81,13 +81,13 @@ Rank #1
 
 The people that have been around for multiple cycles have experienced buying Bitcoin's dips too soon. Thus, they are holding back from unloading their clips in the current correction. What Bitcoin likes to do, is make the greatest number of people regret their buying and selling decisions. it's this reason that Bitcoin is more likely to take off than continue a long slow bleed to $40k. If you can accumulate 1 BTC and it's eventually worth $500k, buying one at $70k vs $50k means your made $430k instead of $450k. If won't matter. Don't let the 4-year cycle theory hold you back from buying now.
 
-7h ago
+9h ago
 
 ---
 
 **[The more you learn about Bitcoin, the more you'll see how the current corrupt system works.](https://www.reddit.com/r/Bitcoin/comments/1qzykbx/the_more_you_learn_about_bitcoin_the_more_youll/)**
 
-3h ago
+5h ago
 
 ---
 
@@ -95,7 +95,7 @@ The people that have been around for multiple cycles have experienced buying Bit
 
 The purple crayon tasted like 85k-90k within 2 weeks 🤷‍♂️
 
-11h ago
+13h ago
 
 ---
 
@@ -103,7 +103,7 @@ The purple crayon tasted like 85k-90k within 2 weeks 🤷‍♂️
 
 Congratulations everyone on surviving the 8th biggest single day drawdown in the past 10 years. You all are legends!!!
 
-16h ago
+18h ago
 
 ---
 
@@ -111,7 +111,21 @@ Congratulations everyone on surviving the 8th biggest single day drawdown in the
 
 I bought Bitcoin in 2023 when it went down to 25k waiting for the halving in 2024 and then it crossed 100k. Is it time to buy again now?
 
-10h ago
+12h ago
+
+---
+
+**[We're at the point of uncertainty between "4 year cycle repeats itself" and "4 year cycle is broken"](https://www.reddit.com/r/Bitcoin/comments/1r041yf/were_at_the_point_of_uncertainty_between_4_year/)**
+
+If the 4 year cycle is intact.. we go down and stay down between 50K to 70K over the next 2 years before the slow grind up. If the 4 year cycle is broken due to a fundamentally different investor set, then we potentially see a swift recovery following clarity on CLARITY ACT, and break new highs in 2026. But right now.. we're at the mid point, where Schrodinger's Bitcoin is... Time will tell. I'm rooting for new highs in 2026 and a fundamentally different cycle to end all cycles. You?
+
+32m ago
+
+---
+
+**[Bitcoin ATM at HK tang lung street](https://www.reddit.com/r/Bitcoin/comments/1r00bdu/bitcoin_atm_at_hk_tang_lung_street/)**
+
+3h ago
 
 ---
 
@@ -119,13 +133,15 @@ I bought Bitcoin in 2023 when it went down to 25k waiting for the halving in 202
 
 Im 39years old and unfortunately(or fortunately) because i had to renovate my house for last 3 years i didnt have any money to buy BTC.But i followed whole market for last 5 years with really small portofolio(less than 200€). Now i'm completely debt/loan free. Finally my 3 year bank loan ended friday,and i finally began my DCA journey into BTC at 66k. I guess im kinda lucky that it just had almost 50% drop. I know i can never time the market,and im mentally fully aware we can go back to 35-40k. The reason why i made this thread is because in my life i never talk about BTC so i guess i just wanted to share this with similar minded people
 
-15h ago
+17h ago
 
 ---
 
-**[Bitcoin ATM at HK tang lung street](https://www.reddit.com/r/Bitcoin/comments/1r00bdu/bitcoin_atm_at_hk_tang_lung_street/)**
+**[I am about to make a comeback to btc finally](https://www.reddit.com/r/Bitcoin/comments/1qzzj4x/i_am_about_to_make_a_comeback_to_btc_finally/)**
 
-2h ago
+i am thinking of long term investment . watched it for 5 years .i am just gonna set an monthly sip from now on . plan is to get out when it reaches 120k the previous ATH . Not gonna get out even if it goes to 10k. Because i heard that btc to reach 100k is a huge challange but i know it will reach there again.
+
+4h ago
 
 ---
 
@@ -133,23 +149,7 @@ Im 39years old and unfortunately(or fortunately) because i had to renovate my ho
 
 Hi everyone! Back in like 2013 or something My husband bought us some bitcoin. I think around $1000 worth, I can’t recall. Unfortunately since then he’s passed away (2018), and while I recall logging in to his wallet and changing the info to include myself and my email address after he passed away, I can’t recall where on earth any of this transpired. I do have the old laptop I did this on, and I hope that can help illuminate things for me so I can find it, but honestly I’m not sure where to begin looking. Back around those days, where would one access to their bitcoin? This was his thing back then, not mine so I have no idea where to start. Any ideas would be helpful.
 
-17h ago
-
----
-
-**[Keep in mind, many Mainstream investors joined Bitcoin this cycle](https://www.reddit.com/r/Bitcoin/comments/1qznupj/keep_in_mind_many_mainstream_investors_joined/)**
-
-Keep in mind, Mainstream joined Bitcoin this cycle. They don't care about any FIAT vs Bitcoin stories. They care about ROI. They bought between 100k-125k. They joined because of FOMO, some because they started to believe in the legitimacy it has gotten in the past few years. And all of them have never gotten any positive results from their investments yet, only downward trends for months and now even dropping to 40-50%. It is very discouraging for them and many only hold because they don't want to liquidate on this massive loss, sunk cost fallacy. And this is the main danger. Veterans don't care about the dropping price. The mainstream investors are going to pull us all to the floor as they are not loyal to any asset but to ROI. They need to see rewards or they jump ship. Problem is that Bitcoin tends to stay for over a year or two until it recovers to their 0% ROI, where they fear further drops during all those months and they doubt the 4 year cycle. The sunk cost fallacy is only holding for so long before they start to find a way out I think this aspect is not looked into enough. We are dealing with bitcoin holders who are scared, discouraged and never saw any success with this asset. and people who don't have decades to wait for their retirement (most money are held by older people)
-
-12h ago
-
----
-
-**[Dca help](https://www.reddit.com/r/Bitcoin/comments/1qzudsk/dca_help/)**
-
-Hi guys I am 27 rn married I am stacking btc from last 3 months I am planning on doing 3k aud monthly dca into btc for 1 year but also my wife wants us to buy a home. If i put my dca than i have not much savings to show to get a loan for the land entitled for building the house. So its either sav for a year and get a home loan or put as much as i can ( around 600-700aud) weekly in btc for a year. I can take this risk as i know this is the last chance before 2028 halvings to accumulate as much btc as i can. Help is much appreciated Also i pay all the bills including the rent and can happily dca the amount as my wife saves for the house and land in future.
-
-7h ago
+19h ago
 
 ---
 
@@ -157,11 +157,11 @@ Hi guys I am 27 rn married I am stacking btc from last 3 months I am planning on
 
 ## Google News: "bitcoin"
 
-**[Bitcoin Price To $0? Here's Why The Zero Dollar Bitcoin Narrative Is Growing — And Why It May Teach Us Something](https://finance.yahoo.com/news/bitcoin-price-0-heres-why-100215567.html)**
+**[Trump promised a crypto revolution. So why is bitcoin crashing?](https://www.npr.org/2026/02/07/nx-s1-5704279/trump-crypto-bitcoin-winter)**
 
-The “Bitcoin to $0” narrative is surging again. Market sentiment has flipped decisively bearish. Bullish credibility is weakening. “Every time I ask a Bitcoin true ...
+Trump got elected promising to usher in a crypto revolution. More than a year later, bitcoin's price has come tumbling down. What happened?
 
-Yahoo Finance • 1d ago
+NPR • 2d ago
 
 ---
 
@@ -175,31 +175,30 @@ BBC • 1d ago
 
 **[Korea Probes Crypto Exchange Over $40 Billion in ‘Ghost Bitcoin’](https://www.bloomberg.com/news/articles/2026-02-09/bithumb-accidentally-gifts-620-000-bitcoin-btc-to-clients-in-fat-finger-error)**
 
-bloomberg.com • 1h ago
+bloomberg.com • 3h ago
 
 ---
 
-**[$44B bitcoin blunder puts South Korea regulators on alert over local crypto exchanges](https://www.coindesk.com/policy/2026/02/09/usd44b-bitcoin-blunder-puts-south-korea-regulators-on-alert-over-local-crypto-exchanges)**
+**[South Korean crypto firm accidentally sends $44 billion in bitcoin to
+users](https://www.cnbc.com/2026/02/07/south-korean-crypto-firm-accidentally-sends-out-44-billion-in-bitcoin.html)**
 
-The watchdog said it plans to build tools that automatically extract suspicious trading patterns by the second and minute.
+The move triggered a sharp selloff on the Bithumb exchange. The company apologized for the mistake.
 
-CoinDesk • 5h ago
-
----
-
-**[Bitcoin news: Mining difficulty drops by most since 2021 as miners capitulate](https://www.coindesk.com/markets/2026/02/09/bitcoin-mining-difficulty-drops-by-most-since-2021-as-miners-capitulate)**
-
-Miners are facing significant challenges, with bitcoin revenue per petahash halving from a peak of $70 to $35.
-
-CoinDesk • 54m ago
+CNBC • 2d ago
 
 ---
 
-**[Binance Adds $300M in Bitcoin to SAFU Fund as Crypto’s Safety Reserves Shift](https://finance.yahoo.com/news/binance-adds-300m-bitcoin-safu-105217227.html)**
+**[Houston Bitcoin ATM fraud cost consumers millions, how to protect yourself](https://www.click2houston.com/news/local/2026/02/09/houston-bitcoin-atm-fraud-cost-consumers-millions-how-to-protect-yourself/)**
 
-Binance’s SAFU fund purchased $300 million in Bitcoin, increasing its total holdings to 10,455 BTC. The purchase is part of a planned $1 billion conversion ...
+Bitcoin ATM fraud is a growing threat in Houston and nationwide. Awareness and quick action can help protect consumers and stop scammers.
 
-Yahoo Finance • 1h ago
+Click2Houston • 1h ago
+
+---
+
+**[The Kidnappers Of Savannah Guthrie's Mom Want Bitcoin—But It’s Not As Anonymous As Many Think](https://www.forbes.com/sites/martinadilicosa/2026/02/06/the-kidnappers-of-savannah-guthries-mom-want-bitcoin-but-its-not-as-anonymous-as-many-think/)**
+
+Forbes • 2d ago
 
 ---
 
@@ -211,23 +210,27 @@ The Block • 3d ago
 
 ---
 
-**[Purported ransom note for Savannah Guthrie's mom demanded payment in bitcoin. Could it be tracked?](https://www.cbsnews.com/news/savannah-guthrie-mom-nancy-ransom-note-bitcoin-what-to-know/)**
+**[Bitcoin whales and ETFs are bailing out of the market; UBS warns: ‘Crypto is not an asset’](https://fortune.com/2026/02/06/bitcoin-price-whales-etf-baling-out-ubs-crypto-is-not-an-asset/)**
 
-Cryptocurrency transactions are often thought to be anonymous and untraceable. That's a misconception, experts tell CBS News.
+“We see few bullish indicators that suggest we may be approaching the bottom,” Jefferies analyst Andrew Moss says.
 
-cbsnews.com • 2d ago
-
----
-
-**[Bitcoin Booster’s $12 Billion Loss Headlines Crypto’s Worst Day Since 2022 Crash](https://www.wsj.com/finance/currencies/strategy-earnings-fourth-2025-33688dab?gaa_at=eafs&gaa_n=AWEtsqdaxw31nrY0mA0xz_9y5ae-MZpxYw_N2BextnVgYYulPxEkjiFuMwVM&gaa_ts=6989c784&gaa_sig=dwqujUgLOxw-OARewHvXsElkdE_SKTpfuyreNunpUUguPw-AkAt2O2p7eInCqbpmMBWarVirbx8kIXr2JN1mqw%3D%3D)**
-
-The Wall Street Journal • 3d ago
+Fortune • 3d ago
 
 ---
 
-**[Opinion: After bitcoin’s fall, pity those wildly enthusiastic investors who borrowed billions against crypto](https://www.marketwatch.com/story/as-bitcoin-crashes-pity-those-wildly-enthusiastic-investors-who-borrowed-billions-against-crypto-794164bb?gaa_at=eafs&gaa_n=AWEtsqedW4uSIQd5rSxC0G9UcbSPiiuuoOUtLmQ6rH-CigQVbQtboDYqzxi6&gaa_ts=6989c784&gaa_sig=qCnpYeOHtc2-vGth6rrEbBtbp75va_rHa0GBWXlhDs3um4GmC1KTf0cyljqnGooEByAg2dLulwD6xqzAZdXnMA%3D%3D)**
+**[Bitcoin crash sends shock to 401(k) investors](https://www.thestreet.com/crypto/personal-finance/bitcoin-crash-sends-shock-to-401-k-investors)**
 
-MarketWatch • 3d ago
+Bitcoin’s slide revives 401(k) fears as firms defend long-term crypto.
+
+thestreet.com • 1d ago
+
+---
+
+**[Prediction: Bitcoin Will Be Worth $850,000 in 10 Years](https://www.fool.com/investing/2026/02/07/prediction-bitcoin-will-be-worth-850000-in-10-year/)**
+
+Hitting this mark implies lower returns going forward, which is a reasonable expectation.
+
+The Motley Fool • 2d ago
 
 ---
 
@@ -259,7 +262,7 @@ Bitcoin outlook turns bearish as Pivotus’ Richard Farr targets BTC at $0 and M
 
 **[Bitcoin tumbles below $70K, heavy losses in cryptocurrencies in last three weeks](https://news.ycombinator.com/item?id=46934165)**
 
-⬆️ 50 • 💬 64 • 22h ago • [bloomberg.com](https://www.bloomberg.com/news/articles/2026-02-05/bitcoin-drops-below-70-000-as-forced-deleveraging-accelerates)
+⬆️ 52 • 💬 64 • 1d ago • [bloomberg.com](https://www.bloomberg.com/news/articles/2026-02-05/bitcoin-drops-below-70-000-as-forced-deleveraging-accelerates)
 
 ---
 
@@ -273,7 +276,7 @@ Bitcoin outlook turns bearish as Pivotus’ Richard Farr targets BTC at $0 and M
 
 The crypto crash is coming — and the landing won’t be pretty
 
-⬆️ 5 • 💬 1 • 19h ago • [ft.com](https://www.ft.com/content/2b030926-2012-4446-b22d-e549e10e7086)
+⬆️ 5 • 💬 1 • 21h ago • [ft.com](https://www.ft.com/content/2b030926-2012-4446-b22d-e549e10e7086)
 
 ---
 
@@ -289,7 +292,7 @@ Crypto treasury companies quietly crept into index funds and retirement accounts
 
 Local opponents criticise legislation that will facilitate ‘networked state’ community and hand executive powers to developer
 
-⬆️ 4 • 💬 0 • 19h ago • [ft.com](https://www.ft.com/content/50c2f8e0-a0a4-4433-805d-46e9e0345d4a)
+⬆️ 4 • 💬 0 • 20h ago • [ft.com](https://www.ft.com/content/50c2f8e0-a0a4-4433-805d-46e9e0345d4a)
 
 ---
 
@@ -319,7 +322,7 @@ Bitcoin behaves more like an "ATM" during uncertain times, with investors quickl
 
 📺 Money Talks
 
-👁️ 8K • 👍 157 • 💬 104 • ⏱️ 11:09 • 17h ago
+👁️ 9K • 👍 166 • 💬 46 • ⏱️ 11:09 • 19h ago
 
 ---
 
@@ -329,7 +332,7 @@ Mark Yusko Crypto Prediction's 2026 Follow: https://x.com/MarkYusko LIMITED TIME
 
 📺 Altcoin Daily
 
-👁️ 45K • 👍 2K • 💬 1K • ⏱️ 59:15 • 13h ago
+👁️ 54K • 👍 3K • 💬 1K • ⏱️ 59:15 • 15h ago
 
 ---
 
@@ -339,17 +342,27 @@ Bitcoin is ripping into Super Bowl weekend and the noise is everywhere. Beneath 
 
 📺 Simply Bitcoin
 
-👁️ 17K • 👍 1K • 💬 120 • ⏱️ 20:03 • 12h ago
+👁️ 20K • 👍 1K • 💬 125 • ⏱️ 20:03 • 14h ago
 
 ---
 
-**[Bitcoin Path To $40K (Profit Guide)](https://www.youtube.com/watch?v=neIIrIfYmiM)**
+**[I TOLD YOU TO LONG BITCOIN - MY PLAN CHANGED (URGENT)](https://www.youtube.com/watch?v=PM5PnQfnBFs)**
+
+TOOBIT — CLAIM $50 & 20% SIGN UP BONUS ON YOUR DEPOSIT Limited spots available, first ...
+
+📺 100XClub
+
+👁️ 6K • 👍 739 • 💬 146 • ⏱️ 9:04 • 4h ago
+
+---
+
+**[Bitcoin Path To $40K (Profit Guide With Toobit)](https://www.youtube.com/watch?v=neIIrIfYmiM)**
 
 Nick Valdez checks the latest price action with Bitcoin. What if I said there are several indicators that point to a potential bottom ...
 
 📺 Discover Crypto
 
-👁️ 7K • 👍 240 • 💬 60 • ⏱️ 5:08 • 20h ago
+👁️ 7K • 👍 253 • 💬 71 • ⏱️ 5:08 • 22h ago
 
 ---
 
@@ -359,7 +372,17 @@ Bitcoin tumbled below $61000, as the unwinding of leveraged bets and broader mar
 
 📺 Bloomberg News
 
-👁️ 6K • 👍 107 • 💬 9 • ⏱️ 1:11 • 17h ago
+👁️ 8K • 👍 114 • 💬 11 • ⏱️ 1:11 • 18h ago
+
+---
+
+**[Bitcoin CRASHES $10K In a Day! Did the U.S. Buy the Dip?!](https://www.youtube.com/watch?v=Ha3RlPUQtj8)**
+
+Bitcoin just posted its first ever $10000 daily drop, wiped out billions in liquidations, then ripped back like nothing happened.
+
+📺 Simply Bitcoin
+
+👁️ 31K • 👍 2K • 💬 159 • ⏱️ 16:01 • 1d ago
 
 ---
 
@@ -369,47 +392,27 @@ Bitcoin has pulled back hard from the $126K peak to around the $60K zone, trigge
 
 📺 The Value Thinker
 
-👁️ 11K • 👍 630 • 💬 80 • ⏱️ 23:31 • 16h ago
+👁️ 11K • 👍 679 • 💬 111 • ⏱️ 23:31 • 18h ago
 
 ---
 
-**[BITCOIN: CALM BEFORE THE STORM!!! #BTC Price Prediction &amp; Crypto Crash News Today](https://www.youtube.com/watch?v=sM4RCmM_HwE)**
+**[&quot;They Are MASSIVELY Manipulating Bitcoin &amp; We’ve Got Proof” - Jordi Visser &amp; Mike Novogratz](https://www.youtube.com/watch?v=bC1bC8Mj0lY)**
 
-My Free Trading Course https://www.rt1m.com/free My Discord Server (FREE) https://discord.com/invite/jRAnCV9CTB ...
+Explore FortisX and access a bonus of up to 10% on one deposit using the link below: https://fortisx.fi/kol/savvyfinanceofficial ...
 
-📺 Road To $1 Million USD
+📺 Savvy Finance
 
-👁️ 9K • 👍 301 • 💬 58 • ⏱️ 8:29 • 1d ago
-
----
-
-**[“$2 Trillion LOST In Crypto” - Bitcoin &amp; XRP Wobble As CRYPTO CRASH Fears Grow](https://www.youtube.com/watch?v=_bT0NBL2hfk)**
-
-Bitcoin plunges as crypto markets lose trillions, sparking debate over whether BTC is truly an inflation hedge or just another risk ...
-
-📺 Valuetainment
-
-👁️ 214K • 👍 4K • 💬 11K • ⏱️ 14:38 • 2d ago
+👁️ 6K • 👍 275 • 💬 9 • ⏱️ 21:43 • 20h ago
 
 ---
 
-**[This is typical volatility for bitcoin, says SkyBridge&#39;s Scaramucci](https://www.youtube.com/watch?v=PxHIJlojXTg)**
+**[Is This The END Of Bitcoin?](https://www.youtube.com/watch?v=P3ZnGfRADcA)**
 
-CNBC's “Closing Bell Overtime” team discusses cryptocurrencies, bitcoin's volatile week and more with Anthony Scaramucci, ...
+Bitcoin has been in a free-fall the past few months. At one point yesterday, it had fallen 50% from all-time highs. Everyone is ...
 
-📺 CNBC Television
+📺 From The Desk Of Anthony Pompliano
 
-👁️ 43K • 👍 364 • 💬 336 • ⏱️ 4:14 • 2d ago
-
----
-
-**[Samson Mow: Something BIG Is About to Happen to Bitcoin…](https://www.youtube.com/watch?v=5VaqkszkWp8)**
-
-In this interview, Bitcoin OG Samson Mow shares his view on why Bitcoin keeps falling, what's driving recent market sell-offs, and ...
-
-📺 Cointelegraph
-
-👁️ 29K • 👍 811 • 💬 153 • ⏱️ 19:09 • 2d ago
+👁️ 57K • 👍 2K • 💬 386 • ⏱️ 9:43 • 2d ago
 
 ---
 

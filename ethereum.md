@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-02-09T12:03:39.119824+00:00'
+updated: '2026-02-09T13:54:05.662383+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
 - social
-- news
-- videos
 - cryptocurrency
+- videos
+- news
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** February 09, 2026 at 12:03 UTC  
+**Last Updated:** February 09, 2026 at 13:54 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -36,33 +36,33 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Price
 
-### $2,026.43
+### $2,028.40
 
 ---
 
 ## Ethereum Chart
 
-**24h:** -5.0%  
-**7d:** -9.3%  
-**30d:** -35.1%  
-**90d:** -40.6%  
-**1y:** -23.8%  
+**24h:** -4.4%  
+**7d:** -9.1%  
+**30d:** -35.0%  
+**90d:** -40.5%  
+**1y:** -23.6%  
 
 ---
 
 ## Ethereum Market Stats
 
-**Market Cap:** $246.09B
+**Market Cap:** $245.58B
 Rank #2
 
 **Circulating Supply:** 120,692,614 ETH
 No max supply
 
 **All-Time High:** $4,946.05
--58.8%
+-59.0%
 
 **All-Time Low:** $0.43
-+470664.2%
++468636.4%
 
 ---
 
@@ -72,7 +72,7 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-6h ago
+7h ago
 
 ---
 
@@ -80,7 +80,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 World News, Stories By EtherWorld, Technical Explainers, Client News & Updates, Podcasts, Upcoming Events & Jobs
 
-🔗 [EtherWorld.co](https://etherworld.co/etherworld-weekly-edition-350/) • 6h ago
+🔗 [EtherWorld.co](https://etherworld.co/etherworld-weekly-edition-350/) • 7h ago
 
 ---
 
@@ -88,7 +88,23 @@ World News, Stories By EtherWorld, Technical Explainers, Client News & Updates, 
 
 eth-mempool-monitor subscribes to Ethereum pending transactions over WebSocket, filters them against a monitored address set stored in Redis/Valkey, and publishes matching transactions to RabbitMQ. The project builds three binaries: eth_mempool_monitor: WebSocket subscriber + Redis filter + RabbitMQ publisher. rpc_control: newline-delimited JSON-RPC TCP server used to manage monitored addresses in Redis (token-authenticated). rabbitmq_tx_console: RabbitMQ consumer that prints monitored-transaction events in human-readable form.
 
-🔗 [GitHub](https://github.com/ThirdLetterC/eth-mempool-monitor) • 11h ago
+🔗 [GitHub](https://github.com/ThirdLetterC/eth-mempool-monitor) • 13h ago
+
+---
+
+**[Nano EVM](https://www.reddit.com/r/ethereum/comments/1r04cnt/nano_evm/)**
+
+This is a compact Ethereum Virtual Machine runtime written in strict C23. Made this for learning purposes. BTW, it has a toy Solidity-like compiler into bytecode and `nano-node` program that "deploys" contracts to local store and gives ability to call them.
+
+🔗 [GitHub](https://github.com/ThirdLetterC/nano-evm) • 19m ago
+
+---
+
+**[The Bug of Solving Bugs](https://www.reddit.com/r/ethereum/comments/1r03voi/the_bug_of_solving_bugs/)**
+
+A bug fix turned into a personal comeback story of coding, parenting, and a small contribution to the open-source world.
+
+🔗 [EtherWorld.co](https://etherworld.co/the-bug-of-solving-bugs/) • 40m ago
 
 ---
 
@@ -96,7 +112,7 @@ eth-mempool-monitor subscribes to Ethereum pending transactions over WebSocket, 
 
 I'm willing to stake my ETH that I have on my ledger, is this safe to use lido from the ledger?
 
-13h ago
+15h ago
 
 ---
 
@@ -112,7 +128,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 I manually architected a Dual-STACK Execution and Consensus Engine that bypasses the entire public RPC industry. Hardware; Managed a 4TB NVMe volume with 3.3TB Optimism state and a pruned L1 Reth/Lighthouse combo. I compiled Lighthouse and Reth from source after Optimism-specific codebase was deprecated mid-sync. I achieved 0ms IPC round trips by killing the dependency on Alchemy/Infura Ran into a few problems along the way. I tried to run a standard Ethereum binary on Optimism data. The node crashed because it saw a transaction type it didn't recognize (Type 126 which is an Optimism deposit) Standard Ethereum node thinks this is illegal data. To fix it, I identified that i needed a specialized OP-Stack aware version of Reth. I tracked down the Paradigm Reth Optimism binary. By switching to the op-reth binary i gave the node the dictionary it needed to translate those Type 126 deposits into valid blocks. I moved from a blind Ethereum node to a Super chain-aware engine. The Reth engine was idling. It had peers and a database, but it didn't know where the tip of the chain was, so it stayed at block 0. I realized a modern node was a Two-Part Machine. So I built the Lighthouse Consensus Client from source to be the "Driver" Instead of waiting weeks to download the chain from 2015 i used a Checkpoint Sync URL. I linked Lighthouse to Reth via the Engine API ()Port 8551/8552) using a shared JWT Secret. The moment Lighthouse found the "Truth" on the network, it handed the coordinates to Reth. The node immediately jumped from 0 to 21,800,000 and the 1.9TB of free space started filling with real history. The real nightmare scenario happened when I was syncing the snapshot data and because of a single transaction type the whole thing crashed. My sync was flying for about 15 hours and when I woke up to check it found it had stalled. It hit block 144,528215 where it encountered an Optimism-specific Type 126 Deposit transaction. Because I was running the standard Ethereum Reth binary instead of the specialized Op-Reth version from paradigm, the node literally didn't have the code to read it understand what type 126 transaction it was. This didn't just crash the sync, it left garbage data at the tip of my database, which blocked further progress until I swapped binary and manually forced a stage rewind to clear corruption. In the grand scheme of thing's it was a rookie mistake.
 
-17h ago
+19h ago
 
 ---
 
@@ -120,7 +136,7 @@ I manually architected a Dual-STACK Execution and Consensus Engine that bypasses
 
 So I have some eth staked on coinbase but wondering how risky it is.. should I be looking somewhere else or is coinbase a good call? I don't answer private messages thanks
 
-18h ago
+20h ago
 
 ---
 
@@ -128,35 +144,13 @@ So I have some eth staked on coinbase but wondering how risky it is.. should I b
 
 Non-custodial privacy protocol for anonymous ETH transactions. Break the on-chain link using zero-knowledge proofs. Live on Ethereum mainnet.
 
-🔗 [Laundry Cash](https://ethlaundry.xyz) • 18h ago
-
----
-
-**[I built the first fully on-chain, 100% decentralized, ETH-in ETH-out (no new token), skill based competitive gaming platform](https://www.reddit.com/r/ethereum/comments/1qz1wbo/i_built_the_first_fully_onchain_100_decentralized/)**
-
-1d ago
-
----
-
-**[Daily General Discussion February 07, 2026](https://www.reddit.com/r/ethereum/comments/1qy5yxh/daily_general_discussion_february_07_2026/)**
-
-Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
-
-2d ago
+🔗 [Laundry Cash](https://ethlaundry.xyz) • 20h ago
 
 ---
 
 ---
 
 ## Google News: "ethereum"
-
-**[With Ethereum Shifting Away From Rollups, These 6 Tokens Will Benefit](https://unchainedcrypto.com/ethereum-lets-go-of-the-rollup-story-here-are-the-6-tokens-that-benefit/)**
-
-Vitalik signals a shift away from the rollup-centric roadmap. We break down what it means for ETH, L2 tokens, and which models actually work.
-
-unchainedcrypto.com • 2d ago
-
----
 
 **[Ethereum makes game-changing decision that could change future of cryptocurrency: 'Poised to lead the way'](https://www.thecooldown.com/green-business/ethereum-cryptocurrency-sustainable-proof-of-stake/)**
 
@@ -170,7 +164,7 @@ The Cool Down • 1d ago
 
 Ethereum is leading the development of a new set of standards for the use of AI in crypto.
 
-The Motley Fool • 1h ago
+The Motley Fool • 3h ago
 
 ---
 
@@ -178,13 +172,13 @@ The Motley Fool • 1h ago
 
 This kind of popularity isn't necessarily something to root for as an investor in this coin.
 
-Yahoo Finance • 2h ago
+Yahoo Finance • 4h ago
 
 ---
 
-**[Bitcoin, Ethereum, XRP Fall. Why There’s Hope for a Crypto Rally.](https://www.barrons.com/articles/bitcoin-price-ethereum-xrp-crypto-c754458e?gaa_at=eafs&gaa_n=AWEtsqdvOem8u9GBKBzvIU8iKUUuanwhHsyZywTBrf11Rzfz5EtZZA2xEz5j&gaa_ts=6989c786&gaa_sig=RbUhZSnjfiJm0b6ufGv0XHaYsGh8qcBOKv3_vvsm2yvyV8obzDxyXsaLMajLT7-Oy4gFzMa92-m3j05dBsMxtQ%3D%3D)**
+**[Bitcoin, Ethereum, XRP Fall. Why There’s Hope for a Crypto Rally.](https://www.barrons.com/articles/bitcoin-price-ethereum-xrp-crypto-c754458e?gaa_at=eafs&gaa_n=AWEtsqeTnlXTKnN6yBBYH6MxcLr4p837pmzDVcfzQU4F1heR9AIrUcqCw17H&gaa_ts=6989ea65&gaa_sig=0l5jberD2FQm5mj5VtLJX5shrpmsyOPED5EzHpw66Qkdhv6KeWAix-EN0Y-G6QJ2O53N7CGGUQLoZ3jyXfIGgg%3D%3D)**
 
-Barron's • 1h ago
+Barron's • 3h ago
 
 ---
 
@@ -200,7 +194,7 @@ The Block • 2d ago
 
 At a conference dedicated to the riskiest traders in finance, Miami's crypto scene appeared far different than during its pandemic-era boom.
 
-Decrypt • 19h ago
+Decrypt • 21h ago
 
 ---
 
@@ -212,19 +206,25 @@ TradingView • 1d ago
 
 ---
 
-**[Tom Lee’s BitMine Adds Another $42 Million in Ethereum Despite Crypto Winter](https://finance.yahoo.com/news/tom-lee-bitmine-adds-another-210000254.html)**
-
-BitMine has expanded its Ethereum hodings by acquiring an additional 20,000 ETH for nearly $42 million this week.
-
-Yahoo Finance • 15h ago
-
----
-
 **[Solana’s quiet takeover – Can SOL profit from the FUD around Ethereum?](https://ambcrypto.com/solanas-quiet-takeover-can-sol-profit-from-the-fud-around-ethereum/)**
 
 Solana may be outperforming Ethereum across key metrics right now.
 
 AMBCrypto • 1d ago
+
+---
+
+**[Tom Lee’s BitMine Adds Another $42 Million in Ethereum Despite Crypto Winter](https://finance.yahoo.com/news/tom-lee-bitmine-adds-another-210000254.html)**
+
+BitMine has expanded its Ethereum hodings by acquiring an additional 20,000 ETH for nearly $42 million this week.
+
+Yahoo Finance • 16h ago
+
+---
+
+**[Sharplink: An Unfairly Penalized Ethereum Treasury Company](https://seekingalpha.com/article/4867467-sharplink-an-unfairly-penalized-ethereum-treasury-company)**
+
+Seeking Alpha • 1d ago
 
 ---
 
@@ -238,7 +238,7 @@ Welcome back home Ethereum! This time I think ETH will kick its feet back and st
 
 📺 Benjamin Cowen
 
-👁️ 26K • 👍 2K • 💬 135 • ⏱️ 14:29 • 6h ago
+👁️ 49K • 👍 4K • 💬 246 • ⏱️ 14:29 • 7h ago
 
 ---
 
@@ -248,17 +248,27 @@ This video provides a professional Elliott Wave and technical analysis of Ethere
 
 📺 More Crypto Online
 
-👁️ 2K • 👍 181 • 💬 11 • ⏱️ 5:37 • 9h ago
+👁️ 3K • 👍 211 • 💬 8 • ⏱️ 5:37 • 11h ago
 
 ---
 
-**[BE READY FOR THESE MOVES!🚨 (Ethereum Price Prediction 2026)](https://www.youtube.com/watch?v=Kse3VGjjDP0)**
+**[Ethereum for Beginners! What’s New in 2026](https://www.youtube.com/watch?v=_JT27HyzTUM)**
 
-ETHEREUM ETH PRICE PREDICTION 2026 Join the Premium Signal Group for trade setups, mentorship & a community ...
+Ethereum has evolved beyond its early days. This 2026 update revisits how it works, what's different, and what's in store ahead.
 
-📺 Cilinix Crypto
+📺 CoinGecko
 
-👁️ 1K • 👍 22 • 💬 3 • ⏱️ 4:21 • 1d ago
+👁️ 359 • 👍 56 • 💬 40 • ⏱️ 4:15 • 3h ago
+
+---
+
+**[BITCOIN AND ETH: I DO NOT TRUST THIS PUMP!!! 🚨🚨 (wtf is happening)](https://www.youtube.com/watch?v=EORmtCdczdo)**
+
+FREE TRAINING: https://www.bullmania.com EXCHANGES I USE (bybit, pionex): https://www.bullmania.com/partners My ...
+
+📺 Ivan on Tech
+
+👁️ 12K • 👍 1K • 💬 68 • ⏱️ 49:46 • 3h ago
 
 ---
 
@@ -268,17 +278,17 @@ BITCOIN WILL SHOCK EVERYONE (Breakout Loading)!!! - Bitcoin News Today, Ethereum
 
 📺 Crypto World
 
-👁️ 10K • 👍 373 • 💬 106 • ⏱️ 16:36 • 13h ago
+👁️ 12K • 👍 414 • 💬 130 • ⏱️ 16:36 • 14h ago
 
 ---
 
-**[Ethereum Elliott Wave Update – Key Resistance Levels Ahead](https://www.youtube.com/watch?v=jPf8REU4pbU)**
+**[WHAT TO EXPECT THIS WEEK!🚨 (Ethereum Price Prediction 2026)](https://www.youtube.com/watch?v=TTYJ8xOtbO8)**
 
-This video provides a professional Elliott Wave and technical analysis of Ethereum (ETH), focusing on market structure, major ...
+ETHEREUM ETH PRICE PREDICTION 2026 Join the Premium Signal Group for trade setups, mentorship & a community ...
 
-📺 More Crypto Online
+📺 Cilinix Crypto
 
-👁️ 3K • 👍 227 • 💬 13 • ⏱️ 5:58 • 19h ago
+👁️ 208 • 👍 7 • 💬 8 • ⏱️ 5:19 • 3h ago
 
 ---
 
@@ -288,7 +298,7 @@ Tom Lee, Fundstrat, joins 'Closing Bell' to discuss the state of crypto markets,
 
 📺 CNBC Television
 
-👁️ 89K • 👍 853 • 💬 336 • ⏱️ 3:53 • 2d ago
+👁️ 90K • 👍 861 • 💬 378 • ⏱️ 3:53 • 2d ago
 
 ---
 
@@ -302,33 +312,23 @@ Uhh... so... is anyone else getting that strange feeling that something big is a
 
 ---
 
-**[Il se passe quelque chose de fou sur Ethereum](https://www.youtube.com/watch?v=d9cazkz9KTo)**
+**[How To Capture FRESH MOVE ? 🤑💰 | Ethereum Price Prediction | Ethereum Analysis ✅](https://www.youtube.com/watch?v=vuzwZjkL_6k)**
 
-L'exchange crypto le plus sérieux du marché, c'est lui. Régulé US & Europe, jamais hacké, interface clean, support 24/7 ...
+How To Get Invite In Private Telegram Group? Open FREE Delta Exchange India - https://www.delta.exchange/?code=SHXFQP ...
 
-📺 Crypto Mindset Podcast 
+📺 Trading Secrets With Two Side Traders
 
-👁️ 4K • 👍 234 • 💬 57 • ⏱️ 10:19 • 1d ago
-
----
-
-**[Alex Becker just flipped his entire 2026 crypto thesis?!…](https://www.youtube.com/watch?v=vFSE2QvN5iI)**
-
-Alex Becker just flipped his entire 2026 crypto thesis?!… ➡️ Important Links: Join The Inner Circle (wallet tracker): ...
-
-📺 Across The Rubicon
-
-👁️ 11K • 👍 543 • 💬 45 • ⏱️ 22:14 • 17h ago
+👁️ 405 • 👍 65 • 💬 12 • ⏱️ 12:14 • 6h ago
 
 ---
 
-**[🚨 BTC &amp; ETH: THIS IS IT!!!! ITS TIME!!!!!](https://www.youtube.com/watch?v=8QI8ukpRpEI)**
+**[BE READY FOR THESE MOVES!🚨 (Ethereum Price Prediction 2026)](https://www.youtube.com/watch?v=Kse3VGjjDP0)**
 
-One of the biggest crypto crashes in history! Here is what happened, why and my plan going further. ---------- LIVE VIRTUAL ...
+ETHEREUM ETH PRICE PREDICTION 2026 Join the Premium Signal Group for trade setups, mentorship & a community ...
 
-📺 Thomas Kralow
+📺 Cilinix Crypto
 
-👁️ 43K • 👍 2K • 💬 81 • ⏱️ 11:51 • 2d ago
+👁️ 1K • 👍 23 • 💬 3 • ⏱️ 4:21 • 1d ago
 
 ---
 

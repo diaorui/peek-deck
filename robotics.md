@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-02-09T12:03:39.123088+00:00'
+updated: '2026-02-09T13:54:05.665672+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
 - social
-- news
 - videos
+- news
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** February 09, 2026 at 12:03 UTC  
+**Last Updated:** February 09, 2026 at 13:54 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -34,7 +34,23 @@ Robotics research and industry news
 
 **[Robot](https://www.reddit.com/r/robotics/comments/1qzw7nc/robot/)**
 
-6h ago
+8h ago
+
+---
+
+**[Nvidia presents DreamDojo. A Generalist Robot World Model from Large-Scale Human Videos](https://www.reddit.com/r/robotics/comments/1r04ogz/nvidia_presents_dreamdojo_a_generalist_robot/)**
+
+Paper: arxiv.org/abs/2602.06949 Project website: https://dreamdojo-world.github.io
+
+4m ago
+
+---
+
+**[Distance measuring sensor](https://www.reddit.com/r/robotics/comments/1r03rwp/distance_measuring_sensor/)**
+
+Hi everyone I've stumbled across this sub reddit while searching for some kind of distance measuring sensor. Edit: i need it for 15 meters up to i need it for a school project so a cheaper would be good enough. accuracy is not too important because up to 5cm accuracy is already good enough for me and I need it outdoors. i have found one for cheap but I'm interested in your opinion's too.
+
+45m ago
 
 ---
 
@@ -46,7 +62,7 @@ Robotics research and industry news
 
 **[Everbot Demo: Home gym bot, Factory QA, Fitness and AirBnb App](https://www.reddit.com/r/robotics/comments/1qzt9y0/everbot_demo_home_gym_bot_factory_qa_fitness_and/)**
 
-8h ago
+10h ago
 
 ---
 
@@ -54,7 +70,7 @@ Robotics research and industry news
 
 Repository: https://github.com/qrafty-ai/teleop_xr Any suggestions are welcome! https://reddit.com/link/1qzi0v4/video/53dekrjlmbig1/player
 
-16h ago
+18h ago
 
 ---
 
@@ -62,7 +78,7 @@ Repository: https://github.com/qrafty-ai/teleop_xr Any suggestions are welcome! 
 
 Hi everyone 👋 I’ve just released CANgaroo v0.4.5, an actively maintained, open-source Linux-native CAN / CAN-FD analyzer built around SocketCAN. This release focuses on making live CAN data easier to understand visually during everyday debugging. 🆕 What’s new in v0.4.5 📊 Real-time signal visualization Time-series charts Scatter plots Text views Interactive gauges (useful for live diagnostics) https://i.redd.it/iobhy7jphaig1.gif 🎯 What CANgaroo is aimed at CANgaroo is focused on everyday CAN debugging and monitoring, with a workflow similar to BusMaster / PCAN-View, but: Open-source Linux-native SocketCAN-first Easy to test using vcan (no hardware required) Supported interfaces include SocketCAN, CANable (SLCAN), Candlelight, and CANblaster (UDP). GitHub repo (screenshots + demo GIF included): 👉 https://github.com/OpenAutoDiagLabs/CANgaroo Feedback, feature requests, and real-world use cases are very welcome — especially from automotive, robotics, and industrial users.
 
-20h ago
+22h ago
 
 ---
 
@@ -70,7 +86,7 @@ Hi everyone 👋 I’ve just released CANgaroo v0.4.5, an actively maintained, o
 
 Just out of curiosity, and because I plan to make my own 4 wheeled rover + LLM/VLA as a personal project, has building a robot as a personal project ever helped when applying for a job/position/interview? Thinking of taking the jump myself, but it is quite costly so wanted to hear your story before I take the dip. thanks all
 
-22h ago
+23h ago
 
 ---
 
@@ -78,15 +94,7 @@ Just out of curiosity, and because I plan to make my own 4 wheeled rover + LLM/V
 
 I built a web based realtime reinforcement learning robot using webassembly and websockets. The model is a mix of hierarchal policy in addition to soft actor critic (sac) to get feedback from bevy (game engine) about torque and position of all 13 different components (joints, etc..) You can see the robot learning in real time here https://robot.zeyaddeeb.com/ And read a bit more tech choices here: https://www.zeyaddeeb.com/blog/posts/basketball-learning-robot Boston Dynamics Atlas does not stand a chance against this fella after 6 months of training (i think?!).
 
-18h ago
-
----
-
-**[What is your opinion about this?](https://www.reddit.com/r/robotics/comments/1qz8nwz/what_is_your_opinion_about_this/)**
-
-Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.
-
-🔗 [youtube.com](https://www.youtube.com/watch?v=FqfTQFuSalY) • 22h ago
+20h ago
 
 ---
 
@@ -94,15 +102,7 @@ Enjoy the videos and music you love, upload original content, and share it all w
 
 Pantograph website: https://pantograph.com/ Pantograph on 𝕏: http://x.com/pantographPBC
 
-1d ago
-
----
-
-**[Fixing broken depth maps on glass and reflective surfaces, then grasping objects raw sensors couldn't even see](https://www.reddit.com/r/robotics/comments/1qzbsca/fixing_broken_depth_maps_on_glass_and_reflective/)**
-
-We've been working on a depth completion model called LingBot-Depth (paper: arxiv.org/abs/2601.17895, code: github.com/robbyant/lingbot-depth) and wanted to share some real world results from our grasping pipeline since the depth sensor problem is something a lot of people here deal with. [Video] Demo: grasping transparent objects with LingBot-Depth The setup: Rokae XMate SR5 arm with an X Hand-1 dexterous hand, Orbbec Gemini 335 for perception. If you've used any consumer RGB-D camera (RealSense, Orbbec, etc.) you know the pain. Point it at a glass cup, a mirror, or a steel thermos and your depth map is just... holes. The stereo matching completely falls apart on those surfaces because both views look identical or distorted. We co-mounted a ZED mini as a reference and honestly it wasn't much better on glass walls and aquarium tunnels. The core idea behind LingBot-Depth is what we call Masked Depth Modeling. Instead of treating those missing depth regions as noise to filter out, we treat them as a natural training signal. We feed the model the full RGB image plus whatever valid depth tokens remain, and it learns to predict what's missing using visual context. The architecture is a ViT-Large encoder with separate patch embeddings for RGB and depth, followed by a ConvStack decoder. We pretrained on ~10M RGB-depth pairs (3M self-curated including 2M real captures from homes, offices, gyms, lobbies, outdoor scenes plus 1M synthetic with simulated stereo matching artifacts, and 7M from public datasets). The grasping results are what made this feel worth sharing here. We tested on four objects that are notorious sensor killers: Stainless steel cup: 13/20 with raw depth → 17/20 with our completed depth Transparent cup: 12/20 → 16/20 Toy car (mixed materials): 9/20 → 16/20 Transparent storage box: literally 0/20 with raw depth (the sensor returned almost nothing) → 10/20 with ours The 50% on the storage box is honestly not great and we're not going to pretend otherwise. Highly transparent surfaces with complex geometry are still hard. But going from completely ungraspable to 50% success felt like a meaningful step. The diffusion policy for grasp pose generation is conditioned on DINOv2 features plus point cloud features from a Point Transformer, trained on HOI4D with retargeted hand poses. On the depth completion benchmarks, we saw 40 to 50% RMSE reduction versus the next best method (PromptDA) on iBims, NYUv2, DIODE, and ETH3D. On sparse SfM inputs specifically, 47% RMSE improvement indoors and 38% outdoors compared to OMNI-DC variants. One thing that surprised us is the temporal consistency. We only trained on static images, no video data at all, but when we run it on 30fps Orbbec streams the output is remarkably stable across frames. We used this for online 3D point tracking with SpatialTrackerV2 and got much smoother camera trajectories compared to raw sensor depth, especially in scenes with glass walls where the raw depth causes severe drift. We released the code, checkpoints (HuggingFace and ModelScope), and the full 3M RGB-depth dataset. Inference runs at ~30fps on 640x480 frames with an A100, and should be reasonable on consumer GPUs like an RTX 3090 as well since the encoder is just a ViT-L/14. If you're working with consumer depth cameras and dealing with missing depth on tricky surfaces, this might be useful for your pipeline. Curious if anyone has tried similar approaches for depth refinement in their manipulation setups, or if there are specific failure cases you'd want us to test. We've mostly evaluated on tabletop grasping and indoor navigation so far.
-
-20h ago
+2d ago
 
 ---
 
@@ -110,11 +110,11 @@ We've been working on a depth completion model called LingBot-Depth (paper: arxi
 
 ## Google News: "robotics"
 
-**[Service Robots Market Navigating Challenges and Capitalizing on White-Space Opportunities | Astute Analytica](https://sg.finance.yahoo.com/news/robots-market-navigating-challenges-capitalizing-101800968.html)**
+**[Klinikum Fürth Establishes Leading Robotic Heart Arrhythmia Program](https://sg.finance.yahoo.com/news/klinikum-f-rth-establishes-leading-130600884.html)**
 
-The global service robots market is experiencing rapid expansion, driven by labor shortages and AI advancements. Key segments include professional (logistics, medical) and personal (domestic) applications, with North America holding a high market share due to surgical robot adoption.Chicago, Feb. 09, 2026 (GLOBE NEWSWIRE) -- According to recent data from Astute Analytica, the global service robots market is estimated to grow at a CAGR of more than 21% during the forecast period 2023-2031. The gr
+ST. LOUIS, Feb. 09, 2026 (GLOBE NEWSWIRE) -- Stereotaxis (NYSE: STXS), a pioneer and global leader in surgical robotics for minimally invasive endovascular intervention, today announced the launch of a new robotic electrophysiology program at Klinikum Fürth in Fürth, Germany. Klinikum Fürth is the first hospital in Germany to establish a leading heart rhythm program that incorporates the Genesis Robotic Magnetic Navigation System, advanced robotic technology that establishes a new standard of ca
 
-Yahoo Finance Singapore • 1h ago
+Yahoo Finance Singapore • 48m ago
 
 ---
 
@@ -130,15 +130,15 @@ Fortune • 1d ago
 
 The consolidation of SpaceX and xAI could lead to more adaptive use of robots, data, and AI in manufacturing, says Flexxbotics' CEO.
 
-The Robot Report • 22h ago
+The Robot Report • 1d ago
 
 ---
 
-**[Companies shouldn't rush to replace workers with robots. Here's why](https://qz.com/human-workers-ai-robots-automation-risks)**
+**[Beyond AI: 5 Startup Sectors Seeing Big Funding Growth](https://news.crunchbase.com/venture/beyond-ai-growing-startup-sectors-legal-robotics-defense/)**
 
-Companies that replace humans with robots "risk losing their competitive edge," researchers say, as collaboration is the real key
+Last year, AI grabbed half of venture dollars globally. But the sector’s blockbuster growth hasn’t necessarily come at the expense of other startup industries. We take a look at five areas benefiting from AI-driven automation that have seen venture funding increase significantly in recent quarters.
 
-qz.com • 1h ago
+Crunchbase News • 1h ago
 
 ---
 
@@ -146,13 +146,15 @@ qz.com • 1h ago
 
 This high-flying stock is about more than just military drones.
 
-The Motley Fool • 16h ago
+The Motley Fool • 18h ago
 
 ---
 
-**[Tesla's Robotics Revolution Won't Save It (NASDAQ:TSLA)](https://seekingalpha.com/article/4867567-teslas-robotics-revolution-would-not-save-it)**
+**[Companies shouldn't rush to replace workers with robots. Here's why](https://qz.com/human-workers-ai-robots-automation-risks)**
 
-Seeking Alpha • 5h ago
+Companies that replace humans with robots "risk losing their competitive edge," researchers say, as collaboration is the real key
+
+qz.com • 2h ago
 
 ---
 
@@ -160,15 +162,13 @@ Seeking Alpha • 5h ago
 
 Robotics Salary Gap
 
-The National Law Review • 3h ago
+The National Law Review • 4h ago
 
 ---
 
-**[Chinese robot makers ready for Lunar New Year entertainment spotlight](https://wkzo.com/2026/02/09/chinese-robot-makers-ready-for-lunar-new-year-entertainment-spotlight/)**
+**[Tesla's Robotics Revolution Won't Save It (NASDAQ:TSLA)](https://seekingalpha.com/article/4867567-teslas-robotics-revolution-would-not-save-it)**
 
-BEIJING, Feb 8 (Reuters) - In China, humanoid robots are serving as Lunar New Year entertainment, with their manufacturers pitching their song-and-dance skills to the general public as well as potential customers, investors and government officials. On...
-
-WKZO • 2h ago
+Seeking Alpha • 7h ago
 
 ---
 
@@ -180,11 +180,11 @@ Hackster.io • 2d ago
 
 ---
 
-**[China: Humanoid robots perform kung fu moves with Shaolin monks in a viral video](https://interestingengineering.com/ai-robotics/humanoid-robots-kung-fu-with-shaolin-monks)**
+**[The Rapid Rise of Humanoid Robots](https://oilprice.com/Energy/Energy-General/The-Rapid-Rise-of-Humanoid-Robots.html)**
 
-A group of humanoid robots made by Agibot performed kung fu moves at the Shaolin Temple in China, captivating viewers with their capabilities.
+Automakers including Tesla and Hyundai are investing heavily in humanoid robots as a long-term cost-saving strategy, even as questions remain over productivity, technical feasibility, and the risk of widespread job losses.
 
-Interesting Engineering • 1h ago
+Crude Oil Prices Today | OilPrice.com • 1d ago
 
 ---
 
@@ -198,7 +198,7 @@ The Atlas Airborne Robot takes one final research run as Boston Dynamics pushes 
 
 📺 DPCcars
 
-👁️ 37K • 👍 298 • 💬 55 • ⏱️ 2:45 • 1d ago
+👁️ 42K • 👍 334 • 💬 61 • ⏱️ 2:45 • 1d ago
 
 ---
 
@@ -208,7 +208,7 @@ Humanoid robots just entered a new phase of realism. In Shanghai, DroidUp reveal
 
 📺 AI Revolution
 
-👁️ 224K • 👍 4K • 💬 901 • ⏱️ 13:31 • 4d ago
+👁️ 226K • 👍 4K • 💬 906 • ⏱️ 13:31 • 4d ago
 
 ---
 
@@ -218,27 +218,7 @@ Will a robot soon be watching your children or caring for your parents? Elon Mus
 
 📺 SpaceTakers
 
-👁️ 33K • 👍 691 • 💬 66 • ⏱️ 0:29 • 3d ago
-
----
-
-**[World&#39;s First: Unitree Humanoid Robot Autonomous Walking Challenge in −47.4°C Extreme Cold](https://www.youtube.com/watch?v=SX4WKUHAP4E)**
-
-47.4°C, 130000 steps, 89.75°E, 47.21°N… On the extremely cold snowfields of Altay, the birthplace of human skiing, Unitree's ...
-
-📺 Unitree Robotics
-
-👁️ 211K • 👍 1K • 💬 150 • ⏱️ 0:45 • 7d ago
-
----
-
-**[Chinese Robotic Hand With Human Level Dexterity](https://www.youtube.com/watch?v=ynodBTnsuis)**
-
-Pan Motor's Wuji Hand packs twenty fully actuated joints into a sub six hundred gram robotic hand, delivering fine motor control, ...
-
-📺 Deepen
-
-👁️ 27K • 👍 451 • 💬 11 • ⏱️ 0:19 • 1d ago
+👁️ 35K • 👍 720 • 💬 67 • ⏱️ 0:29 • 3d ago
 
 ---
 
@@ -246,7 +226,17 @@ Pan Motor's Wuji Hand packs twenty fully actuated joints into a sub six hundred 
 
 📺 Concept Bytes
 
-👁️ 26K • 👍 2K • 💬 33 • ⏱️ 1:24 • 3d ago
+👁️ 27K • 👍 2K • 💬 33 • ⏱️ 1:24 • 3d ago
+
+---
+
+**[헬로카봇 빅포트 탱크 변신 합체 모음 Hello Carbot Robot Toys Transformation](https://www.youtube.com/watch?v=JL45MHCxjvw)**
+
+헬로카봇 빅포트 탱크 변신 합체 모음 Hello Carbot Robot Toys Transformation 헬로카봇 용사 시즌2 첫 메카는 강력한 탱크 빅포트 빅 ...
+
+📺 Rainbow Play
+
+👁️ 2K • 👍 29 • 💬 12 • ⏱️ 6:57 • 5h ago
 
 ---
 
@@ -254,7 +244,17 @@ Pan Motor's Wuji Hand packs twenty fully actuated joints into a sub six hundred 
 
 📺 Fredo on TV
 
-👁️ 196K • 👍 19K • 💬 539 • ⏱️ 0:34 • 1d ago
+👁️ 198K • 👍 19K • 💬 544 • ⏱️ 0:34 • 1d ago
+
+---
+
+**[Robots That Move Without a Brain? Sea Star Locomotion Is Changing Robotics Forever #robot #shorts](https://www.youtube.com/watch?v=Q7doiqBMz-k)**
+
+Robots That Move Without a Brain? Sea Star Locomotion Is Changing Robotics Forever What if robots could keep moving even ...
+
+📺 Future Lens Pi
+
+👁️ 28K • 💬 10 • ⏱️ 0:08 • 1d ago
 
 ---
 
@@ -266,23 +266,21 @@ Pan Motor's Wuji Hand packs twenty fully actuated joints into a sub six hundred 
 
 ---
 
-**[Robots That Move Without a Brain? Sea Star Locomotion Is Changing Robotics Forever #robot #shorts](https://www.youtube.com/watch?v=Q7doiqBMz-k)**
+**[Strongest Robot Doesn&#39;t Always Win 🤯](https://www.youtube.com/watch?v=JIW-cmPW0uE)**
 
-Robots That Move Without a Brain? Sea Star Locomotion Is Changing Robotics Forever What if robots could keep moving even ...
+shorts.
 
-📺 Future Lens Pi
+📺 Tenzo Shortz
 
-👁️ 27K • 💬 10 • ⏱️ 0:08 • 1d ago
+👁️ 28K • 💬 1 • ⏱️ 0:27 • 1d ago
 
 ---
 
-**[Carwash and Tipper Mech | 3264T Tantrum | Robot Rundown](https://www.youtube.com/watch?v=6D4e2FLdhGc)**
+**[Tesla Robot handles upside down popcorn. It’s crazy how much these will change everything.](https://www.youtube.com/watch?v=PlEGwoJmon8)**
 
-This video is presented in partnership with the Robotics Education & Competition Foundation. The @RECFoundation provides ...
+📺 Tesla Owners Silicon Valley
 
-📺 FUN Robotics Network
-
-👁️ 3K • 👍 78 • 💬 8 • ⏱️ 1:15 • 15h ago
+👁️ 166K • 👍 3K • 💬 147 • ⏱️ 0:40 • 3d ago
 
 ---
 
