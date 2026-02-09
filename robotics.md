@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-02-09T14:53:17.926986+00:00'
+updated: '2026-02-09T15:57:59.232792+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
 - news
-- social
 - videos
+- social
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** February 09, 2026 at 14:53 UTC  
+**Last Updated:** February 09, 2026 at 15:57 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -34,15 +34,7 @@ Robotics research and industry news
 
 **[Robot](https://www.reddit.com/r/robotics/comments/1qzw7nc/robot/)**
 
-9h ago
-
----
-
-**[Nvidia presents DreamDojo. A Generalist Robot World Model from Large-Scale Human Videos](https://www.reddit.com/r/robotics/comments/1r04ogz/nvidia_presents_dreamdojo_a_generalist_robot/)**
-
-Paper: arxiv.org/abs/2602.06949 Project website: https://dreamdojo-world.github.io
-
-1h ago
+10h ago
 
 ---
 
@@ -50,7 +42,7 @@ Paper: arxiv.org/abs/2602.06949 Project website: https://dreamdojo-world.github.
 
 Hi everyone I've stumbled across this sub reddit while searching for some kind of distance measuring sensor. Edit: i need it for 15 meters up to i need it for a school project so a cheaper would be good enough. accuracy is not too important because up to 5cm accuracy is already good enough for me and I need it outdoors. i have found one for cheap but I'm interested in your opinion's too.
 
-1h ago
+2h ago
 
 ---
 
@@ -62,7 +54,7 @@ Hi everyone I've stumbled across this sub reddit while searching for some kind o
 
 **[Everbot Demo: Home gym bot, Factory QA, Fitness and AirBnb App](https://www.reddit.com/r/robotics/comments/1qzt9y0/everbot_demo_home_gym_bot_factory_qa_fitness_and/)**
 
-11h ago
+12h ago
 
 ---
 
@@ -70,7 +62,7 @@ Hi everyone I've stumbled across this sub reddit while searching for some kind o
 
 Repository: https://github.com/qrafty-ai/teleop_xr Any suggestions are welcome! https://reddit.com/link/1qzi0v4/video/53dekrjlmbig1/player
 
-19h ago
+20h ago
 
 ---
 
@@ -78,7 +70,7 @@ Repository: https://github.com/qrafty-ai/teleop_xr Any suggestions are welcome! 
 
 Hi everyone 👋 I’ve just released CANgaroo v0.4.5, an actively maintained, open-source Linux-native CAN / CAN-FD analyzer built around SocketCAN. This release focuses on making live CAN data easier to understand visually during everyday debugging. 🆕 What’s new in v0.4.5 📊 Real-time signal visualization Time-series charts Scatter plots Text views Interactive gauges (useful for live diagnostics) https://i.redd.it/iobhy7jphaig1.gif 🎯 What CANgaroo is aimed at CANgaroo is focused on everyday CAN debugging and monitoring, with a workflow similar to BusMaster / PCAN-View, but: Open-source Linux-native SocketCAN-first Easy to test using vcan (no hardware required) Supported interfaces include SocketCAN, CANable (SLCAN), Candlelight, and CANblaster (UDP). GitHub repo (screenshots + demo GIF included): 👉 https://github.com/OpenAutoDiagLabs/CANgaroo Feedback, feature requests, and real-world use cases are very welcome — especially from automotive, robotics, and industrial users.
 
-23h ago
+1d ago
 
 ---
 
@@ -94,7 +86,7 @@ Just out of curiosity, and because I plan to make my own 4 wheeled rover + LLM/V
 
 I built a web based realtime reinforcement learning robot using webassembly and websockets. The model is a mix of hierarchal policy in addition to soft actor critic (sac) to get feedback from bevy (game engine) about torque and position of all 13 different components (joints, etc..) You can see the robot learning in real time here https://robot.zeyaddeeb.com/ And read a bit more tech choices here: https://www.zeyaddeeb.com/blog/posts/basketball-learning-robot Boston Dynamics Atlas does not stand a chance against this fella after 6 months of training (i think?!).
 
-21h ago
+22h ago
 
 ---
 
@@ -106,15 +98,37 @@ Pantograph website: https://pantograph.com/ Pantograph on 𝕏: http://x.com/pan
 
 ---
 
+**[Fixing broken depth maps on glass and reflective surfaces, then grasping objects raw sensors couldn't even see](https://www.reddit.com/r/robotics/comments/1qzbsca/fixing_broken_depth_maps_on_glass_and_reflective/)**
+
+We've been working on a depth completion model called LingBot-Depth (paper: arxiv.org/abs/2601.17895, code: github.com/robbyant/lingbot-depth) and wanted to share some real world results from our grasping pipeline since the depth sensor problem is something a lot of people here deal with. [Video] Demo: grasping transparent objects with LingBot-Depth The setup: Rokae XMate SR5 arm with an X Hand-1 dexterous hand, Orbbec Gemini 335 for perception. If you've used any consumer RGB-D camera (RealSense, Orbbec, etc.) you know the pain. Point it at a glass cup, a mirror, or a steel thermos and your depth map is just... holes. The stereo matching completely falls apart on those surfaces because both views look identical or distorted. We co-mounted a ZED mini as a reference and honestly it wasn't much better on glass walls and aquarium tunnels. The core idea behind LingBot-Depth is what we call Masked Depth Modeling. Instead of treating those missing depth regions as noise to filter out, we treat them as a natural training signal. We feed the model the full RGB image plus whatever valid depth tokens remain, and it learns to predict what's missing using visual context. The architecture is a ViT-Large encoder with separate patch embeddings for RGB and depth, followed by a ConvStack decoder. We pretrained on ~10M RGB-depth pairs (3M self-curated including 2M real captures from homes, offices, gyms, lobbies, outdoor scenes plus 1M synthetic with simulated stereo matching artifacts, and 7M from public datasets). The grasping results are what made this feel worth sharing here. We tested on four objects that are notorious sensor killers: Stainless steel cup: 13/20 with raw depth → 17/20 with our completed depth Transparent cup: 12/20 → 16/20 Toy car (mixed materials): 9/20 → 16/20 Transparent storage box: literally 0/20 with raw depth (the sensor returned almost nothing) → 10/20 with ours The 50% on the storage box is honestly not great and we're not going to pretend otherwise. Highly transparent surfaces with complex geometry are still hard. But going from completely ungraspable to 50% success felt like a meaningful step. The diffusion policy for grasp pose generation is conditioned on DINOv2 features plus point cloud features from a Point Transformer, trained on HOI4D with retargeted hand poses. On the depth completion benchmarks, we saw 40 to 50% RMSE reduction versus the next best method (PromptDA) on iBims, NYUv2, DIODE, and ETH3D. On sparse SfM inputs specifically, 47% RMSE improvement indoors and 38% outdoors compared to OMNI-DC variants. One thing that surprised us is the temporal consistency. We only trained on static images, no video data at all, but when we run it on 30fps Orbbec streams the output is remarkably stable across frames. We used this for online 3D point tracking with SpatialTrackerV2 and got much smoother camera trajectories compared to raw sensor depth, especially in scenes with glass walls where the raw depth causes severe drift. We released the code, checkpoints (HuggingFace and ModelScope), and the full 3M RGB-depth dataset. Inference runs at ~30fps on 640x480 frames with an A100, and should be reasonable on consumer GPUs like an RTX 3090 as well since the encoder is just a ViT-L/14. If you're working with consumer depth cameras and dealing with missing depth on tricky surfaces, this might be useful for your pipeline. Curious if anyone has tried similar approaches for depth refinement in their manipulation setups, or if there are specific failure cases you'd want us to test. We've mostly evaluated on tabletop grasping and indoor navigation so far.
+
+1d ago
+
+---
+
 ---
 
 ## Google News: "robotics"
 
-**[Klinikum Fürth Establishes Leading Robotic Heart Arrhythmia Program](https://sg.finance.yahoo.com/news/klinikum-f-rth-establishes-leading-130600884.html)**
+**[Machine Vision Systems (MVS) Research Report 2026: Rising Demand for Zero-Defect Manufacturing and Increasing Adoption of Vision-Guided Robotics - Market Trends, Statistics, Growth Forecasts 2025-2031](https://uk.finance.yahoo.com/news/machine-vision-systems-mvs-research-140000658.html)**
 
-ST. LOUIS, Feb. 09, 2026 (GLOBE NEWSWIRE) -- Stereotaxis (NYSE: STXS), a pioneer and global leader in surgical robotics for minimally invasive endovascular intervention, today announced the launch of a new robotic electrophysiology program at Klinikum Fürth in Fürth, Germany. Klinikum Fürth is the first hospital in Germany to establish a leading heart rhythm program that incorporates the Genesis Robotic Magnetic Navigation System, advanced robotic technology that establishes a new standard of ca
+Yahoo Finance UK • 1h ago
 
-Yahoo Finance Singapore • 1h ago
+---
+
+**[Flipping the script: How ‘upside-down’ AutoPallet robots solve palletizing density](https://www.therobotreport.com/flipping-autopalleet-script-how-upside-down-autopallet-robots-solve-palletizing-density/)**
+
+AutoPallet debuts magnetic, ceiling-mounted AMRs at Manifest 2026, providing high-density palletizing through a suspended swarm architecture.
+
+The Robot Report • 1h ago
+
+---
+
+**[Mint Signed MoU with Robotics Leader Rice Robotics to Pioneer Physical AI Solutions Across Asia](https://ca.finance.yahoo.com/news/mint-signed-mou-robotics-leader-130000645.html)**
+
+Hong Kong, Feb. 09, 2026 (GLOBE NEWSWIRE) -- Mint Incorporation Limited (“Mint” or the “Group”, NASDAQ: MIMI), a Hong Kong-based company with a new strategic focus on artificial intelligence (AI) and robotics, and an established business interior design and fit-out works provider, today announced that its wholly-owned subsidiary, Aspiration X Limited (“Aspiration X”), has signed a non-binding Memorandum of Understanding (“MOU”) to explore the formation of a strategic joint venture with a renowne
+
+Yahoo! Finance Canada • 2h ago
 
 ---
 
@@ -126,19 +140,11 @@ Fortune • 1d ago
 
 ---
 
-**[What the SpaceX acquisition of xAI means for industrial robotics](https://www.therobotreport.com/what-the-spacex-acquisition-xai-means-for-industrial-robotics/)**
+**[Convenient ordering option or ‘sidewalk hog’? Food delivery robots get mixed reception in Chicago.](https://www.chicagotribune.com/2026/02/09/food-delivery-robots-safety-chicago/)**
 
-The consolidation of SpaceX and xAI could lead to more adaptive use of robots, data, and AI in manufacturing, says Flexxbotics' CEO.
+Robotic food delivery carts are now a familiar sight on the streets of Chicago. But not everyone has rolled out the welcome wagon for the army of AI-driven meals on wheels.
 
-The Robot Report • 1d ago
-
----
-
-**[Beyond AI: 5 Startup Sectors Seeing Big Funding Growth](https://news.crunchbase.com/venture/beyond-ai-growing-startup-sectors-legal-robotics-defense/)**
-
-Last year, AI grabbed half of venture dollars globally. But the sector’s blockbuster growth hasn’t necessarily come at the expense of other startup industries. We take a look at five areas benefiting from AI-driven automation that have seen venture funding increase significantly in recent quarters.
-
-Crunchbase News • 2h ago
+Chicago Tribune • 4h ago
 
 ---
 
@@ -146,7 +152,23 @@ Crunchbase News • 2h ago
 
 This high-flying stock is about more than just military drones.
 
-The Motley Fool • 19h ago
+The Motley Fool • 20h ago
+
+---
+
+**[Purdue researcher explores how robots build better human bonds](https://www.jconline.com/story/news/local/2026/02/09/purdue-social-robotics-empathetic-ai-sooyeon-jeong-research/88588404007/)**
+
+From study buddies to health care helpers, Purdue professor Sooyeon Jeong is designing robots that listen, respond and build trust.
+
+Journal & Courier • 5m ago
+
+---
+
+**[Beyond AI: 5 Startup Sectors Seeing Big Funding Growth](https://news.crunchbase.com/venture/beyond-ai-growing-startup-sectors-legal-robotics-defense/)**
+
+Last year, AI grabbed half of venture dollars globally. But the sector’s blockbuster growth hasn’t necessarily come at the expense of other startup industries. We take a look at five areas benefiting from AI-driven automation that have seen venture funding increase significantly in recent quarters.
+
+Crunchbase News • 3h ago
 
 ---
 
@@ -154,37 +176,15 @@ The Motley Fool • 19h ago
 
 Companies that replace humans with robots "risk losing their competitive edge," researchers say, as collaboration is the real key
 
-qz.com • 3h ago
+qz.com • 4h ago
 
 ---
 
-**[New Data Reveals Why Manufacturers Can't Compete for Robotics Talent: A 2x Salary Gap](https://natlawreview.com/press-releases/new-data-reveals-why-manufacturers-cant-compete-robotics-talent-2x-salary)**
+**[Up to $50M to build an autonomous subsea robot hub in UAE](https://www.stocktitan.net/news/KITT/nauticus-robotics-tm-announces-strategic-investment-and-uae-p3t5fbe4cbt6.html)**
 
-Robotics Salary Gap
+Up to $50M from Master Investment Group backs Nauticus' Aquanaut manufacturing and offshore robotics hub in UAE, targeted to start operating in 2026.
 
-The National Law Review • 5h ago
-
----
-
-**[Tesla's Robotics Revolution Won't Save It (NASDAQ:TSLA)](https://seekingalpha.com/article/4867567-teslas-robotics-revolution-would-not-save-it)**
-
-Seeking Alpha • 8h ago
-
----
-
-**[Seeed Studio Releases Their Own Affordable and Open Source Robotic Arm](https://www.hackster.io/news/seeed-studio-releases-their-own-affordable-and-open-source-robotic-arm-3403f854a281)**
-
-Seeed Studio is releasing an affordable and open source robotic arm design called the reBot Arm B601, complete with comprehensive software.
-
-Hackster.io • 2d ago
-
----
-
-**[The Rapid Rise of Humanoid Robots](https://oilprice.com/Energy/Energy-General/The-Rapid-Rise-of-Humanoid-Robots.html)**
-
-Automakers including Tesla and Hyundai are investing heavily in humanoid robots as a long-term cost-saving strategy, even as questions remain over productivity, technical feasibility, and the risk of widespread job losses.
-
-Crude Oil Prices Today | OilPrice.com • 1d ago
+stocktitan.net • 2h ago
 
 ---
 
@@ -198,7 +198,17 @@ The Atlas Airborne Robot takes one final research run as Boston Dynamics pushes 
 
 📺 DPCcars
 
-👁️ 42K • 👍 334 • 💬 61 • ⏱️ 2:45 • 1d ago
+👁️ 46K • 👍 363 • 💬 67 • ⏱️ 2:45 • 1d ago
+
+---
+
+**[Atlas Airborne | Boston Dynamics &amp; @rai-inst](https://www.youtube.com/watch?v=UNorxwlZlFk)**
+
+Now that the Atlas enterprise platform is getting to work, the research version gets one last run in the sun. Our engineers made ...
+
+📺 Boston Dynamics
+
+👁️ 747K • 👍 30K • 💬 3K • ⏱️ 1:38 • 2d ago
 
 ---
 
@@ -208,7 +218,7 @@ Humanoid robots just entered a new phase of realism. In Shanghai, DroidUp reveal
 
 📺 AI Revolution
 
-👁️ 226K • 👍 4K • 💬 906 • ⏱️ 13:31 • 4d ago
+👁️ 228K • 👍 4K • 💬 907 • ⏱️ 13:31 • 4d ago
 
 ---
 
@@ -218,7 +228,17 @@ Will a robot soon be watching your children or caring for your parents? Elon Mus
 
 📺 SpaceTakers
 
-👁️ 35K • 👍 720 • 💬 67 • ⏱️ 0:29 • 3d ago
+👁️ 35K • 👍 734 • 💬 70 • ⏱️ 0:29 • 3d ago
+
+---
+
+**[Chinese Robotic Hand With Human Level Dexterity](https://www.youtube.com/watch?v=ynodBTnsuis)**
+
+Pan Motor's Wuji Hand packs twenty fully actuated joints into a sub six hundred gram robotic hand, delivering fine motor control, ...
+
+📺 Deepen
+
+👁️ 27K • 👍 455 • 💬 12 • ⏱️ 0:19 • 1d ago
 
 ---
 
@@ -230,13 +250,21 @@ Will a robot soon be watching your children or caring for your parents? Elon Mus
 
 ---
 
+**[Drag-and-drop welding robot.#industrial #welding #robot #spraying #stamping](https://www.youtube.com/watch?v=MugPHDjKBdk)**
+
+📺 Lin of Brant robot 
+
+👁️ 22K • 👍 69 • 💬 1 • ⏱️ 0:19 • 4d ago
+
+---
+
 **[헬로카봇 빅포트 탱크 변신 합체 모음 Hello Carbot Robot Toys Transformation](https://www.youtube.com/watch?v=JL45MHCxjvw)**
 
 헬로카봇 빅포트 탱크 변신 합체 모음 Hello Carbot Robot Toys Transformation 헬로카봇 용사 시즌2 첫 메카는 강력한 탱크 빅포트 빅 ...
 
 📺 Rainbow Play
 
-👁️ 2K • 👍 29 • 💬 12 • ⏱️ 6:57 • 6h ago
+👁️ 3K • 👍 34 • 💬 14 • ⏱️ 6:57 • 7h ago
 
 ---
 
@@ -244,25 +272,7 @@ Will a robot soon be watching your children or caring for your parents? Elon Mus
 
 📺 Fredo on TV
 
-👁️ 198K • 👍 19K • 💬 544 • ⏱️ 0:34 • 1d ago
-
----
-
-**[Robots That Move Without a Brain? Sea Star Locomotion Is Changing Robotics Forever #robot #shorts](https://www.youtube.com/watch?v=Q7doiqBMz-k)**
-
-Robots That Move Without a Brain? Sea Star Locomotion Is Changing Robotics Forever What if robots could keep moving even ...
-
-📺 Future Lens Pi
-
-👁️ 28K • 💬 10 • ⏱️ 0:08 • 1d ago
-
----
-
-**[Drag-and-drop welding robot.#industrial #welding #robot #spraying #stamping](https://www.youtube.com/watch?v=MugPHDjKBdk)**
-
-📺 Lin of Brant robot 
-
-👁️ 22K • 👍 69 • 💬 1 • ⏱️ 0:19 • 4d ago
+👁️ 198K • 👍 20K • 💬 545 • ⏱️ 0:34 • 1d ago
 
 ---
 
@@ -273,14 +283,6 @@ shorts.
 📺 Tenzo Shortz
 
 👁️ 28K • 💬 1 • ⏱️ 0:27 • 1d ago
-
----
-
-**[Tesla Robot handles upside down popcorn. It’s crazy how much these will change everything.](https://www.youtube.com/watch?v=PlEGwoJmon8)**
-
-📺 Tesla Owners Silicon Valley
-
-👁️ 166K • 👍 3K • 💬 147 • ⏱️ 0:40 • 3d ago
 
 ---
 
