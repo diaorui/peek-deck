@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-02-09T06:07:41.604268+00:00'
+updated: '2026-02-09T07:38:18.004021+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- news
-- videos
 - cryptocurrency
 - social
+- news
+- videos
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** February 09, 2026 at 06:07 UTC  
+**Last Updated:** February 09, 2026 at 07:38 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,45 +42,37 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** +0.3%  
-**7d:** -6.5%  
-**30d:** -33.2%  
-**90d:** -38.8%  
-**1y:** -21.5%  
+**24h:** -1.9%  
+**7d:** -7.2%  
+**30d:** -33.6%  
+**90d:** -39.2%  
+**1y:** -22.0%  
 
 ---
 
 ## Ethereum Market Stats
 
-**Market Cap:** $252.33B
+**Market Cap:** $250.61B
 Rank #2
 
 **Circulating Supply:** 120,692,614 ETH
 No max supply
 
 **All-Time High:** $4,946.05
--57.7%
+-58.1%
 
 **All-Time Low:** $0.43
-+482780.2%
++478745.4%
 
 ---
 
 ## Reddit: r/ethereum
 
-**[Extremely lightweight transaction monitor for Ethereum. Less than 3MB in RAM.](https://www.reddit.com/r/ethereum/comments/1qzq0sb/extremely_lightweight_transaction_monitor_for/)**
-
-eth-mempool-monitor subscribes to Ethereum pending transactions over WebSocket, filters them against a monitored address set stored in Redis/Valkey, and publishes matching transactions to RabbitMQ. The project builds three binaries: eth_mempool_monitor: WebSocket subscriber + Redis filter + RabbitMQ publisher. rpc_control: newline-delimited JSON-RPC TCP server used to manage monitored addresses in Redis (token-authenticated). rabbitmq_tx_console: RabbitMQ consumer that prints monitored-transaction events in human-readable form.
-
-🔗 [GitHub](https://github.com/ThirdLetterC/eth-mempool-monitor) • 5h ago
-
----
-
 **[Daily General Discussion February 09, 2026](https://www.reddit.com/r/ethereum/comments/1qzwdwq/daily_general_discussion_february_09_2026/)**
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-6m ago
+1h ago
 
 ---
 
@@ -88,7 +80,15 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 World News, Stories By EtherWorld, Technical Explainers, Client News & Updates, Podcasts, Upcoming Events & Jobs
 
-🔗 [EtherWorld.co](https://etherworld.co/etherworld-weekly-edition-350/) • 11m ago
+🔗 [EtherWorld.co](https://etherworld.co/etherworld-weekly-edition-350/) • 1h ago
+
+---
+
+**[Extremely lightweight transaction monitor for Ethereum. Less than 3MB in RAM.](https://www.reddit.com/r/ethereum/comments/1qzq0sb/extremely_lightweight_transaction_monitor_for/)**
+
+eth-mempool-monitor subscribes to Ethereum pending transactions over WebSocket, filters them against a monitored address set stored in Redis/Valkey, and publishes matching transactions to RabbitMQ. The project builds three binaries: eth_mempool_monitor: WebSocket subscriber + Redis filter + RabbitMQ publisher. rpc_control: newline-delimited JSON-RPC TCP server used to manage monitored addresses in Redis (token-authenticated). rabbitmq_tx_console: RabbitMQ consumer that prints monitored-transaction events in human-readable form.
+
+🔗 [GitHub](https://github.com/ThirdLetterC/eth-mempool-monitor) • 6h ago
 
 ---
 
@@ -104,7 +104,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 I'm willing to stake my ETH that I have on my ledger, is this safe to use lido from the ledger?
 
-7h ago
+9h ago
 
 ---
 
@@ -112,7 +112,7 @@ I'm willing to stake my ETH that I have on my ledger, is this safe to use lido f
 
 I manually architected a Dual-STACK Execution and Consensus Engine that bypasses the entire public RPC industry. Hardware; Managed a 4TB NVMe volume with 3.3TB Optimism state and a pruned L1 Reth/Lighthouse combo. I compiled Lighthouse and Reth from source after Optimism-specific codebase was deprecated mid-sync. I achieved 0ms IPC round trips by killing the dependency on Alchemy/Infura Ran into a few problems along the way. I tried to run a standard Ethereum binary on Optimism data. The node crashed because it saw a transaction type it didn't recognize (Type 126 which is an Optimism deposit) Standard Ethereum node thinks this is illegal data. To fix it, I identified that i needed a specialized OP-Stack aware version of Reth. I tracked down the Paradigm Reth Optimism binary. By switching to the op-reth binary i gave the node the dictionary it needed to translate those Type 126 deposits into valid blocks. I moved from a blind Ethereum node to a Super chain-aware engine. The Reth engine was idling. It had peers and a database, but it didn't know where the tip of the chain was, so it stayed at block 0. I realized a modern node was a Two-Part Machine. So I built the Lighthouse Consensus Client from source to be the "Driver" Instead of waiting weeks to download the chain from 2015 i used a Checkpoint Sync URL. I linked Lighthouse to Reth via the Engine API ()Port 8551/8552) using a shared JWT Secret. The moment Lighthouse found the "Truth" on the network, it handed the coordinates to Reth. The node immediately jumped from 0 to 21,800,000 and the 1.9TB of free space started filling with real history. The real nightmare scenario happened when I was syncing the snapshot data and because of a single transaction type the whole thing crashed. My sync was flying for about 15 hours and when I woke up to check it found it had stalled. It hit block 144,528215 where it encountered an Optimism-specific Type 126 Deposit transaction. Because I was running the standard Ethereum Reth binary instead of the specialized Op-Reth version from paradigm, the node literally didn't have the code to read it understand what type 126 transaction it was. This didn't just crash the sync, it left garbage data at the tip of my database, which blocked further progress until I swapped binary and manually forced a stage rewind to clear corruption. In the grand scheme of thing's it was a rookie mistake.
 
-11h ago
+13h ago
 
 ---
 
@@ -120,7 +120,7 @@ I manually architected a Dual-STACK Execution and Consensus Engine that bypasses
 
 So I have some eth staked on coinbase but wondering how risky it is.. should I be looking somewhere else or is coinbase a good call? I don't answer private messages thanks
 
-12h ago
+13h ago
 
 ---
 
@@ -128,13 +128,13 @@ So I have some eth staked on coinbase but wondering how risky it is.. should I b
 
 Non-custodial privacy protocol for anonymous ETH transactions. Break the on-chain link using zero-knowledge proofs. Live on Ethereum mainnet.
 
-🔗 [Laundry Cash](https://ethlaundry.xyz) • 12h ago
+🔗 [Laundry Cash](https://ethlaundry.xyz) • 14h ago
 
 ---
 
 **[I built the first fully on-chain, 100% decentralized, ETH-in ETH-out (no new token), skill based competitive gaming platform](https://www.reddit.com/r/ethereum/comments/1qz1wbo/i_built_the_first_fully_onchain_100_decentralized/)**
 
-23h ago
+1d ago
 
 ---
 
@@ -170,7 +170,7 @@ The Cool Down • 1d ago
 
 BitMine has expanded its Ethereum hodings by acquiring an additional 20,000 ETH for nearly $42 million this week.
 
-Yahoo Finance • 9h ago
+Yahoo Finance • 10h ago
 
 ---
 
@@ -194,7 +194,7 @@ The Block • 2d ago
 
 At a conference dedicated to the riskiest traders in finance, Miami's crypto scene appeared far different than during its pandemic-era boom.
 
-Decrypt • 13h ago
+Decrypt • 15h ago
 
 ---
 
@@ -214,12 +214,6 @@ TradingView • 1d ago
 
 ---
 
-**[Sharplink: An Unfairly Penalized Ethereum Treasury Company](https://seekingalpha.com/article/4867467-sharplink-an-unfairly-penalized-ethereum-treasury-company)**
-
-Seeking Alpha • 1d ago
-
----
-
 **[Solana’s quiet takeover – Can SOL profit from the FUD around Ethereum?](https://ambcrypto.com/solanas-quiet-takeover-can-sol-profit-from-the-fud-around-ethereum/)**
 
 Solana may be outperforming Ethereum across key metrics right now.
@@ -228,9 +222,25 @@ AMBCrypto • 1d ago
 
 ---
 
+**[Sharplink: An Unfairly Penalized Ethereum Treasury Company](https://seekingalpha.com/article/4867467-sharplink-an-unfairly-penalized-ethereum-treasury-company)**
+
+Seeking Alpha • 1d ago
+
+---
+
 ---
 
 ## YouTube Videos: "ethereum"
+
+**[Welcome Back Home, Ethereum!](https://www.youtube.com/watch?v=ZZNFVcbzUE4)**
+
+Welcome back home Ethereum! This time I think ETH will kick its feet back and stay a while. Later this year it will likely go to the ...
+
+📺 Benjamin Cowen
+
+👁️ 1K • 👍 1K • 💬 91 • ⏱️ 14:29 • 1h ago
+
+---
 
 **[Ethereum Elliott Wave Update – Key Resistance Levels Ahead](https://www.youtube.com/watch?v=dkRmzBouZ64)**
 
@@ -238,7 +248,7 @@ This video provides a professional Elliott Wave and technical analysis of Ethere
 
 📺 More Crypto Online
 
-👁️ 537 • 👍 66 • 💬 5 • ⏱️ 5:37 • 3h ago
+👁️ 1K • 👍 145 • 💬 5 • ⏱️ 5:37 • 4h ago
 
 ---
 
@@ -248,7 +258,7 @@ This video provides a professional Elliott Wave and technical analysis of Ethere
 
 📺 More Crypto Online
 
-👁️ 3K • 👍 223 • 💬 13 • ⏱️ 5:58 • 13h ago
+👁️ 3K • 👍 225 • 💬 13 • ⏱️ 5:58 • 15h ago
 
 ---
 
@@ -258,7 +268,7 @@ BITCOIN WILL SHOCK EVERYONE (Breakout Loading)!!! - Bitcoin News Today, Ethereum
 
 📺 Crypto World
 
-👁️ 6K • 👍 276 • 💬 79 • ⏱️ 16:36 • 7h ago
+👁️ 9K • 👍 345 • 💬 119 • ⏱️ 16:36 • 8h ago
 
 ---
 
@@ -268,7 +278,7 @@ Tom Lee, Fundstrat, joins 'Closing Bell' to discuss the state of crypto markets,
 
 📺 CNBC Television
 
-👁️ 88K • 👍 851 • 💬 328 • ⏱️ 3:53 • 2d ago
+👁️ 89K • 👍 853 • 💬 335 • ⏱️ 3:53 • 2d ago
 
 ---
 
@@ -278,37 +288,7 @@ ETHEREUM ETH PRICE PREDICTION 2026 Join the Premium Signal Group for trade setup
 
 📺 Cilinix Crypto
 
-👁️ 1K • 👍 21 • 💬 3 • ⏱️ 4:21 • 20h ago
-
----
-
-**[🚨 BTC &amp; ETH: THIS IS IT!!!! ITS TIME!!!!!](https://www.youtube.com/watch?v=8QI8ukpRpEI)**
-
-One of the biggest crypto crashes in history! Here is what happened, why and my plan going further. ---------- LIVE VIRTUAL ...
-
-📺 Thomas Kralow
-
-👁️ 43K • 👍 2K • 💬 81 • ⏱️ 11:51 • 2d ago
-
----
-
-**[The BMNR Bottom IS IN?! (BMNR WEEKLY RECAP)](https://www.youtube.com/watch?v=nC3yaV7aj4A)**
-
-BMNR #bitmine #bmnr #tomlee #ethereum $ETH $BTC #btc #bitcoin Please Drop a Like & Subscribe if you enjoyed this video: ...
-
-📺 Tevis
-
-👁️ 16K • 👍 955 • 💬 141 • ⏱️ 29:13 • 17h ago
-
----
-
-**[Ethereum Elliott Wave Update – Key Resistance Levels Ahead](https://www.youtube.com/watch?v=3YC2YldLk78)**
-
-This video provides a professional Elliott Wave and technical analysis of Ethereum (ETH), focusing on market structure, major ...
-
-📺 More Crypto Online
-
-👁️ 4K • 👍 215 • 💬 10 • ⏱️ 5:21 • 1d ago
+👁️ 1K • 👍 22 • 💬 3 • ⏱️ 4:21 • 21h ago
 
 ---
 
@@ -322,13 +302,33 @@ Uhh... so... is anyone else getting that strange feeling that something big is a
 
 ---
 
-**[Il se passe quelque chose de fou sur Ethereum](https://www.youtube.com/watch?v=d9cazkz9KTo)**
+**[Ethereum Elliott Wave Update – Key Resistance Levels Ahead](https://www.youtube.com/watch?v=H_Y7-M-mSto)**
 
-L'exchange crypto le plus sérieux du marché, c'est lui. Régulé US & Europe, jamais hacké, interface clean, support 24/7 ...
+This video provides a professional Elliott Wave and technical analysis of Ethereum (ETH), focusing on market structure, major ...
 
-📺 Crypto Mindset Podcast 
+📺 More Crypto Online
 
-👁️ 4K • 👍 212 • 💬 55 • ⏱️ 10:19 • 18h ago
+👁️ 4K • 👍 209 • 💬 11 • ⏱️ 4:56 • 1d ago
+
+---
+
+**[🚨 BTC &amp; ETH: THIS IS IT!!!! ITS TIME!!!!!](https://www.youtube.com/watch?v=8QI8ukpRpEI)**
+
+One of the biggest crypto crashes in history! Here is what happened, why and my plan going further. ---------- LIVE VIRTUAL ...
+
+📺 Thomas Kralow
+
+👁️ 43K • 👍 2K • 💬 81 • ⏱️ 11:51 • 2d ago
+
+---
+
+**[Pour l&#39;Empereur d&#39;Ethereum, les rollups doivent être jetés aux lions - Actu crypto 🗞️](https://www.youtube.com/watch?v=kBAooka4YCo)**
+
+10 % de remise à vie sur vos frais de trading en achetant des cryptos sur Binance ▻ https://journalducoin.com/Binance/CTA10 ...
+
+📺 Journal du Coin
+
+👁️ 3K • 👍 215 • 💬 7 • ⏱️ 10:35 • 15h ago
 
 ---
 

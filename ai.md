@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-02-09T06:07:41.589909+00:00'
+updated: '2026-02-09T07:38:17.989652+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
+- social
 - news
 - repositories
 - videos
-- social
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** February 09, 2026 at 06:07 UTC  
+**Last Updated:** February 09, 2026 at 07:38 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -37,19 +37,19 @@ AI news, discussions, and developments
 
 ## Reddit: r/artificial
 
-**[Opinion | AI consciousness is nothing more than clever marketing](https://www.reddit.com/r/artificial/comments/1qzucuo/opinion_ai_consciousness_is_nothing_more_than/)**
-
-Companies have an incentive to make you believe that chatbots are conscious. Don’t fall for it.
-
-🔗 [The Washington Post](https://www.washingtonpost.com/opinions/2026/02/05/moltbook-anthropic-ai-consciousness-marketing/) • 1h ago
-
----
-
 **[I built a geolocation tool that can find exact coordinates of any image within 3 minutes [Tough demo 2]](https://www.reddit.com/r/artificial/comments/1qz5rz7/i_built_a_geolocation_tool_that_can_find_exact/)**
 
 Just wanted to say thanks for the thoughtful discussion and feedback on my previous post. I did not expect that level of interest, and I appreciate how constructive most of the comments were. Based on a few requests, I put together a short demonstration showing the system applied to a deliberately difficult street-level image. No obvious landmarks, no readable signage, no metadata. The location was verified in under two minutes. I am still undecided on the long-term direction of this work. That said, if there are people here interested in collaborating from a research, defensive, or ethical perspective, I am open to conversations. That could mean validation, red-teaming anything else. Thanks again to the community for the earlier discussion. Happy to answer high-level questions and hear thoughts on where tools like this should and should not go.
 
-19h ago
+20h ago
+
+---
+
+**[Opinion | AI consciousness is nothing more than clever marketing](https://www.reddit.com/r/artificial/comments/1qzucuo/opinion_ai_consciousness_is_nothing_more_than/)**
+
+Companies have an incentive to make you believe that chatbots are conscious. Don’t fall for it.
+
+🔗 [The Washington Post](https://www.washingtonpost.com/opinions/2026/02/05/moltbook-anthropic-ai-consciousness-marketing/) • 3h ago
 
 ---
 
@@ -57,7 +57,7 @@ Just wanted to say thanks for the thoughtful discussion and feedback on my previ
 
 Museums (and cities) could use better “self-guided” tech. At most museums right now, you’ve basically got two options: Pay for a human tour guide Rent one of those clunky old audio devices that feel straight out of the 90s It got me thinking: what if there were smart glasses designed for self-guided tours? Lightweight, with a strap battery so they last a full day Could work in museums or even city-wide walking tours Display info, images, maybe AR cues without needing your phone You can also ask questions since it uses AI
 
-2h ago
+3h ago
 
 ---
 
@@ -65,7 +65,7 @@ Museums (and cities) could use better “self-guided” tech. At most museums ri
 
 Every AI API provider gives you a snapshot of current usage. None of them show you trends over time, project when you will hit your limit, or let you compare across providers. I built onWatch to solve this. It runs in the background as a single Go binary, polls your configured providers every 60 seconds, stores everything locally in SQLite, and serves a web dashboard. What it shows you that providers do not: Usage history from 1 hour to 30 days Live countdowns to each quota reset Rate projections so you know if you will run out before the reset All providers side by side in one view Around 28 MB RAM, no dependencies, no telemetry, GPL-3.0. All data stays on your machine. https://onwatch.onllm.dev https://github.com/onllm-dev/onWatch
 
-19h ago
+21h ago
 
 ---
 
@@ -95,7 +95,7 @@ Let’s say the quiet part out loud.
 
 I have been working solo on an AI-based project called Netryx. At a high level, it takes a street-level photo and attempts to determine the exact GPS coordinates where the image was taken. Not a city guess or a heatmap. The actual location, down to meters. If the system cannot verify the result with high confidence, it returns nothing. That behavior is intentional. Most AI geolocation tools will confidently give an answer even when they are wrong. Netryx is designed to fail closed. No verification means no output. Conceptually, it works in two stages. An AI model first narrows down likely areas based on visual features, either globally or within a user-defined region. A separate verification step then compares candidates against real street-level imagery. If verification fails, the result is discarded. This means it is not magic and not globally omniscient. The system requires pre-mapped street-level coverage to verify locations. Think of it as an AI-assisted visual index of physical space. As a test, I mapped roughly 5 square kilometers of Paris and fed in a random street photo from within that area. It identified the exact intersection in under three minutes. A few clarifications upfront: • It is not open source right now due to obvious privacy and abuse risks • It requires prior street-level coverage to return results • AI proposes candidates, verification gates all outputs • I am not interested in locating people from social media photos I am posting this here to get perspective from the security community. From a defensive angle, this shows how much location data AI can extract from ordinary images. From an offensive angle, the risks are clear. For those working in cybersecurity or AI security: where do you think the line is between a legitimate AI-powered OSINT capability and something that should not exist?
 
-1d ago
+2d ago
 
 ---
 
@@ -123,35 +123,41 @@ One of Kimi’s browser automation scripts uses a dark web library with crypto s
 
 In the race for AI, tech firms are asking for their staff to work long hours. But there are risks, experts say.
 
-BBC • 6h ago
+BBC • 7h ago
 
 ---
 
-**[Can AI Chatbots Write Emotionally Rich Romance Books?](https://www.nytimes.com/2026/02/08/business/ai-claude-romance-books.html)**
+**[US companies accused of ‘AI washing’ in citing artificial intelligence for job losses](https://www.theguardian.com/us-news/2026/feb/08/ai-washing-job-losses-artificial-intelligence)**
 
-The New York Times • 20h ago
+While AI is having an impact on the workplace, experts suggest tariffs, overhiring during the pandemic and simply maximising profits may be bigger factors
 
----
-
-**[Private credit worries resurface in $3 trillion market as AI pressures software firms](https://www.cnbc.com/2026/02/09/private-credit-software-firms-fall-ai-fears.html)**
-
-Artificial intelligence is adding a new layer of uncertainty to the private credit industry, raising concerns that some lenders may face rising defaults.
-
-CNBC • 1h ago
+The Guardian • 15h ago
 
 ---
 
-**[The Ultimate AI Stocks to Buy With $10,000 Right Now](https://www.fool.com/investing/2026/02/09/the-ultimate-ai-stocks-to-buy-with-10000-right-now/)**
+**[OPINION: Community colleges are uniquely positioned to train the nation’s AI workforce](https://hechingerreport.org/opinion-community-colleges-are-uniquely-positioned-to-train-the-nations-ai-workforce/)**
 
-AI will produce a wide variety of winning stocks.
-
-The Motley Fool • 1h ago
+The Hechinger Report • 1h ago
 
 ---
 
-**[AI (artificial intelligence)](https://www.theguardian.com/technology/artificialintelligenceai/2026/feb/09/all)**
+**[The AI narrative now has a new trade — shorting software stocks](https://www.cnbc.com/2026/02/09/ai-anthropic-software-short-selling-tech-sell-off-private-credit-funds.html)**
 
-The Guardian • 52m ago
+Anthropic's new AI tool offers a challenge to established software services.
+
+CNBC • 22m ago
+
+---
+
+**[AI Is Breaking Jobs Into Tasks, And That Changes Everything](https://www.forbes.com/sites/bernardmarr/2026/02/09/ai-is-breaking-jobs-into-tasks-and-that-changes-everything/)**
+
+Forbes • 1h ago
+
+---
+
+**[These A.I. Dreamers Don’t Fit the Stereotype](https://www.nytimes.com/2026/02/08/style/ai-tech-san-francisco.html)**
+
+The New York Times • 21h ago
 
 ---
 
@@ -159,7 +165,7 @@ The Guardian • 52m ago
 
 Protecting your portfolio from a crash looks harder than ever
 
-The Economist • 15h ago
+The Economist • 17h ago
 
 ---
 
@@ -167,27 +173,19 @@ The Economist • 15h ago
 
 We asked experts to review four commercials trying to win over the AI-skeptical American public.
 
-The Washington Post • 7h ago
+The Washington Post • 9h ago
 
 ---
 
 **[The AI boom is so huge it’s causing shortages everywhere else](https://www.msn.com/en-us/news/technology/ar-AA1VRXni)**
 
-MSN • 15h ago
+MSN • 16h ago
 
 ---
 
-**[AI Fear Grips Wall Street as a New Stock Market Reality Sets In](https://finance.yahoo.com/news/ai-fear-grips-wall-street-140007396.html)**
+**[A Critical AI Niche Is Dominated by One Little-Known Japanese Company](https://www.wsj.com/tech/a-critical-ai-niche-is-dominated-by-one-little-known-japanese-company-d9101853?gaa_at=eafs&gaa_n=AWEtsqeY9rve55NVy18ldoCiAiEPW3f6hefSrrnCLiAPvca1H_i7Z58NgV6_&gaa_ts=6989924a&gaa_sig=krvTVV9pzOSxAmUgd-QIWiONwcv17Ki0SFZ7xIlFQEiGE2GlSy4-ak2v-nKi-zRQxsGyqY7AyScdZ5ov4lpRCQ%3D%3D)**
 
-Last week, those concerns suddenly spilled over into the stock market.  In response, investors dumped a broad range of stocks, from Expedia Group Inc. to Salesforce Inc. to London Stock Exchange Group Plc.  “Things are shipping out weekly, daily,” said Daniel Newman, chief executive officer of the Futurum Group.
-
-Yahoo Finance • 16h ago
-
----
-
-**[A Critical AI Niche Is Dominated by One Little-Known Japanese Company](https://www.wsj.com/tech/a-critical-ai-niche-is-dominated-by-one-little-known-japanese-company-d9101853?gaa_at=eafs&gaa_n=AWEtsqdOHMXMZA48-31SsDfKMJmoh8Xf-kS6uAFtZxVOTjp4lpxojES_WWKt&gaa_ts=69897d12&gaa_sig=lRejDbS3JXX0S84UPm2OAzBlxGc559RQ7yriEHcJu_phlwSexUT-_enGJWsCtSk9f5IfBP4CU78y0va2DzEkew%3D%3D)**
-
-The Wall Street Journal • 13h ago
+The Wall Street Journal • 14h ago
 
 ---
 
@@ -207,7 +205,7 @@ A new bill in the New York state legislature would require news organizations to
 
 You're using AI to be more productive. So why are you more exhausted than ever? The paradox every engineer needs to confront.
 
-⬆️ 410 • 💬 285 • 15h ago • [Siddhant Khare](https://siddhantkhare.com/writing/ai-fatigue-is-real)
+⬆️ 417 • 💬 288 • 17h ago • [Siddhant Khare](https://siddhantkhare.com/writing/ai-fatigue-is-real)
 
 ---
 
@@ -215,7 +213,7 @@ You're using AI to be more productive. So why are you more exhausted than ever? 
 
 The hundreds of billions of dollars being spent by tech companies on AI projects are diverting resources from other parts of the economy.
 
-⬆️ 390 • 💬 694 • 1d ago • [The Washington Post](https://www.washingtonpost.com/technology/2026/02/07/ai-spending-economy-shortages/)
+⬆️ 392 • 💬 694 • 1d ago • [The Washington Post](https://www.washingtonpost.com/technology/2026/02/07/ai-spending-economy-shortages/)
 
 ---
 
@@ -223,7 +221,7 @@ The hundreds of billions of dollars being spent by tech companies on AI projects
 
 AI is rarely optional anymore, but how can you still be proud of your craft? Discover the workflow to effectively write high-quality, robust code using AI tools.
 
-⬆️ 350 • 💬 302 • 2d ago • [heidenstedt.org](https://heidenstedt.org/posts/2026/how-to-effectively-write-quality-code-with-ai/)
+⬆️ 351 • 💬 302 • 2d ago • [heidenstedt.org](https://heidenstedt.org/posts/2026/how-to-effectively-write-quality-code-with-ai/)
 
 ---
 
@@ -239,7 +237,7 @@ A minimal, secure Python interpreter written in Rust for use by AI - pydantic/mo
 
 Contribute to localgpt-app/localgpt development by creating an account on GitHub.
 
-⬆️ 318 • 💬 148 • 1d ago • [GitHub](https://github.com/localgpt-app/localgpt)
+⬆️ 319 • 💬 148 • 1d ago • [GitHub](https://github.com/localgpt-app/localgpt)
 
 ---
 
@@ -247,7 +245,7 @@ Contribute to localgpt-app/localgpt development by creating an account on GitHub
 
 AI handles writing code but leaves the hard work: investigation, context, validation. Why vibe coding has limits and AI assistance can backfire.
 
-⬆️ 226 • 💬 179 • 6h ago • [blundergoat.com](https://www.blundergoat.com/articles/ai-makes-the-easy-part-easier-and-the-hard-part-harder)
+⬆️ 255 • 💬 202 • 8h ago • [blundergoat.com](https://www.blundergoat.com/articles/ai-makes-the-easy-part-easier-and-the-hard-part-harder)
 
 ---
 
@@ -255,7 +253,15 @@ AI handles writing code but leaves the hard work: investigation, context, valida
 
 Matchlock secures AI agent workloads with a Linux-based sandbox. - jingkaihe/matchlock
 
-⬆️ 135 • 💬 59 • 21h ago • [GitHub](https://github.com/jingkaihe/matchlock)
+⬆️ 138 • 💬 59 • 23h ago • [GitHub](https://github.com/jingkaihe/matchlock)
+
+---
+
+**[TSMC to make advanced AI semiconductors in Japan](https://news.ycombinator.com/item?id=46941640)**
+
+Taiwan’s TSMC, the world’s largest contract computer chip maker, has announced it will be manufacturing advanced 3-nanometer semiconductors in Japan to meet booming AI demand.
+
+⬆️ 90 • 💬 49 • 3h ago • [AP News](https://apnews.com/article/semiconductors-tsmc-japan-taiwan-ai-11256f2bfde73ca23d08331ad138d6d5)
 
 ---
 
@@ -264,14 +270,6 @@ Matchlock secures AI agent workloads with a Linux-based sandbox. - jingkaihe/mat
 Microsoft, Nvidia, Oracle, Meta, Amazon and Alphabet all saw their shares fall in the week up to the market close on Thursday.
 
 ⬆️ 89 • 💬 89 • 2d ago • [CNBC](https://www.cnbc.com/2026/02/06/ai-sell-off-stocks-amazon-oracle.html)
-
----
-
-**[Man who videotaped himself BASE jumping in Yosemite arrested, says it was AI](https://news.ycombinator.com/item?id=46916961)**
-
-A California man is facing a criminal charge for allegedly BASE jumping off Glacier Point in Yosemite National Park during the federal government shutdown last year.
-
-⬆️ 54 • 💬 91 • 2d ago • [Los Angeles Times](https://www.latimes.com/california/story/2026-02-05/man-videotaped-himself-base-jumping-in-yosemite-federal-officials-say-he-says-it-was-ai)
 
 ---
 
@@ -285,17 +283,17 @@ Become a member! ✓ https://www.youtube.com/channel/UCahJ9IsvXnaQiuNyWQSkrkw/jo
 
 📺 Chris Norlund
 
-👁️ 124K • 👍 7K • 💬 2K • ⏱️ 17:42 • 1d ago
+👁️ 125K • 👍 7K • 💬 2K • ⏱️ 17:42 • 1d ago
 
 ---
 
-**[Shocking Leak Reveals AI Model 100x Leaner And 10x Stronger (Avocado AI)](https://www.youtube.com/watch?v=Z4Q_7zM8dcM)**
+**[OpenAI Just Betrayed Nvidia: The AI War Begins NOW](https://www.youtube.com/watch?v=SG71c_W25-s)**
 
-A major AI shakeup is unfolding behind the scenes. A leaked internal memo suggests Meta's new model, Avocado, is already ...
+GET MY FREE GUIDE: *The Content Creator's AI Blueprint: From 25 Hours to 5 Minutes* https://FirstMovers.ai/blueprint/ ...
 
-📺 AI Revolution
+📺 Julia McCoy
 
-👁️ 6K • 👍 285 • 💬 37 • ⏱️ 12:49 • 6h ago
+👁️ 33K • 👍 2K • 💬 155 • ⏱️ 8:05 • 16h ago
 
 ---
 
@@ -305,37 +303,17 @@ Can you spot AI videos easily? #tech #ai #surfshark.
 
 📺 Surfshark Academy
 
-👁️ 16K • 👍 2K • 💬 61 • ⏱️ 1:17 • 15h ago
+👁️ 17K • 👍 3K • 💬 67 • ⏱️ 1:17 • 16h ago
 
 ---
 
-**[AI Sparks Panic on Wall Street: $300 Billion at Risk as Software Stocks Sink - Why?](https://www.youtube.com/watch?v=6xYg5GmbgXE)**
+**[Shocking Leak Reveals AI Model 100x Leaner And 10x Stronger (Avocado AI)](https://www.youtube.com/watch?v=Z4Q_7zM8dcM)**
 
-Download the free guide and learn the two strategies experienced investors use to know when to invest, even in volatile markets: ...
-
-📺 VisualEconomik EN
-
-👁️ 40K • 👍 1K • 💬 181 • ⏱️ 19:55 • 1d ago
-
----
-
-**[OpenAI&#39;s New GPT 5.3 Shocks Anthropic As Opus 4.6 Strikes Back (AI War Explodes)](https://www.youtube.com/watch?v=ydW6Io2T4ho)**
-
-AI coding just entered a new phase of competition. In the same week, OpenAI unveiled GPT-5.3-Codex, a faster, more capable ...
+A major AI shakeup is unfolding behind the scenes. A leaked internal memo suggests Meta's new model, Avocado, is already ...
 
 📺 AI Revolution
 
-👁️ 35K • 👍 780 • 💬 42 • ⏱️ 13:09 • 2d ago
-
----
-
-**[Olympic Ai Slop Scandal Is Pathetic](https://www.youtube.com/watch?v=k8qA5Y77vn0)**
-
-Olympic level AI slop is here. Sources ...
-
-📺 Stylosa
-
-👁️ 11K • 👍 625 • 💬 161 • ⏱️ 10:36 • 11h ago
+👁️ 10K • 👍 396 • 💬 46 • ⏱️ 12:49 • 7h ago
 
 ---
 
@@ -345,7 +323,27 @@ Follow me here: Instagram ▻ https://www.instagram.com/sambucha X ▻ https://w
 
 📺 Sambucha
 
-👁️ 836K • 👍 48K • 💬 1K • ⏱️ 0:54 • 1d ago
+👁️ 939K • 👍 53K • 💬 1K • ⏱️ 0:54 • 1d ago
+
+---
+
+**[OpenAI&#39;s New GPT 5.3 Shocks Anthropic As Opus 4.6 Strikes Back (AI War Explodes)](https://www.youtube.com/watch?v=ydW6Io2T4ho)**
+
+AI coding just entered a new phase of competition. In the same week, OpenAI unveiled GPT-5.3-Codex, a faster, more capable ...
+
+📺 AI Revolution
+
+👁️ 35K • 👍 788 • 💬 42 • ⏱️ 13:09 • 2d ago
+
+---
+
+**[AI Sparks Panic on Wall Street: $300 Billion at Risk as Software Stocks Sink - Why?](https://www.youtube.com/watch?v=6xYg5GmbgXE)**
+
+Download the free guide and learn the two strategies experienced investors use to know when to invest, even in volatile markets: ...
+
+📺 VisualEconomik EN
+
+👁️ 41K • 👍 1K • 💬 184 • ⏱️ 19:55 • 1d ago
 
 ---
 
@@ -355,17 +353,7 @@ What if I told you this character took less than one hour to make? Absolutely Fo
 
 📺 Stefan 3D AI Lab
 
-👁️ 12K • 👍 924 • 💬 78 • ⏱️ 12:09 • 1d ago
-
----
-
-**[Crypto Collapse, AI Job Apocalypse &amp; The End of Dollar Dominance](https://www.youtube.com/watch?v=y5g8Qd6AY30)**
-
-Welcome back to All Things Markets and today, Mike Novogratz and I are diving headfirst into a world where crypto gets punched ...
-
-📺 Anthony Scaramucci
-
-👁️ 121K • 👍 4K • 💬 1K • ⏱️ 30:19 • 1d ago
+👁️ 13K • 👍 957 • 💬 79 • ⏱️ 12:09 • 1d ago
 
 ---
 
@@ -375,7 +363,17 @@ India's IT sector just got hit with its biggest shock in 4 months. The Nifty IT 
 
 📺 Mark Savant
 
-👁️ 27K • 👍 715 • 💬 347 • ⏱️ 18:25 • 1d ago
+👁️ 29K • 👍 774 • 💬 392 • ⏱️ 18:25 • 1d ago
+
+---
+
+**[The Two Best AI Models/Enemies Just Got Released Simultaneously](https://www.youtube.com/watch?v=1PxEziv5XIU)**
+
+The two models that you will hear discussed for at least the next two months - Claude Opus 4.6 and GPT 5.3 Codex - just got ...
+
+📺 AI Explained
+
+👁️ 64K • 👍 3K • 💬 320 • ⏱️ 19:50 • 2d ago
 
 ---
 
@@ -391,7 +389,7 @@ GLM-OCR is a 0.9B parameter multimodal OCR model for complex document understand
 
 `image-to-text`
 
-⬇️ 248,295 • ❤️ 834 • 6d ago
+⬇️ 297,833 • ❤️ 840 • 1h ago
 
 ---
 
@@ -403,7 +401,7 @@ Qwen3-Coder-Next is a highly efficient 3B activated parameter LLM (80B total) op
 
 `text-generation` `79.7B`
 
-⬇️ 76,632 • ❤️ 626 • 5d ago
+⬇️ 112,896 • ❤️ 630 • 5d ago
 
 ---
 
@@ -415,7 +413,7 @@ MiniCPM-o 4.5 is a 9B parameter multimodal LLM excelling in vision, speech, and 
 
 `any-to-any` `9.4B`
 
-⬇️ 17,457 • ❤️ 640 • 1d ago
+⬇️ 28,068 • ❤️ 646 • 1d ago
 
 ---
 
@@ -427,19 +425,7 @@ Kimi K2.5 is a native multimodal agentic model with 1T parameters, excelling in 
 
 `image-text-to-text` `170.7B`
 
-⬇️ 404,508 • ❤️ 1,879 • 4d ago
-
----
-
-**[Step-3.5-Flash](https://huggingface.co/stepfun-ai/Step-3.5-Flash)**
-
-*StepFun*
-
-Step 3.5 Flash is an efficient open-source foundation model (11B active params, 196B total) excelling in agentic tasks and reasoning with high throughput (100-300 tok/s). It features a 256K context window and strong performance on coding and reasoning benchmarks, suitable for local deployment.
-
-`text-generation` `199.4B`
-
-⬇️ 104,643 • ❤️ 532 • 2d ago
+⬇️ 456,396 • ❤️ 1,902 • 4d ago
 
 ---
 
@@ -451,7 +437,19 @@ ACE-Step 1.5 is an open-source text-to-audio model for commercial-grade music ge
 
 `text-to-audio`
 
-⬇️ 23,178 • ❤️ 453 • 5d ago
+⬇️ 26,376 • ❤️ 453 • 5d ago
+
+---
+
+**[Step-3.5-Flash](https://huggingface.co/stepfun-ai/Step-3.5-Flash)**
+
+*StepFun*
+
+Step 3.5 Flash is an efficient open-source foundation model (11B active params, 196B total) excelling in agentic tasks and reasoning with high throughput (100-300 tok/s). It features a 256K context window and strong performance on coding and reasoning benchmarks, suitable for local deployment.
+
+`text-generation` `199.4B`
+
+⬇️ 228,406 • ❤️ 533 • 2d ago
 
 ---
 
@@ -461,7 +459,7 @@ ACE-Step 1.5 is an open-source text-to-audio model for commercial-grade music ge
 
 Voxtral-Mini-4B-Realtime-2602 is a multilingual, real-time speech-to-text model with <500ms latency, supporting 13 languages and achieving offline-comparable accuracy. It's optimized for on-device deployment and ideal for voice assistants and live subtitling.
 
-⬇️ 2,427 • ❤️ 396 • 8h ago
+⬇️ 2,753 • ❤️ 402 • 9h ago
 
 ---
 
@@ -471,7 +469,7 @@ Voxtral-Mini-4B-Realtime-2602 is a multilingual, real-time speech-to-text model 
 
 Anima is a 2 billion parameter text-to-image diffusion model specialized in generating anime-style illustrations and artistic images, capable of producing non-photorealistic content. It is optimized for use with ComfyUI and trained on millions of anime and artistic images, with a knowledge cut-off of September 2025.
 
-⬇️ 71,655 • ❤️ 519 • 8d ago
+⬇️ 81,215 • ❤️ 520 • 8d ago
 
 ---
 
@@ -483,7 +481,7 @@ Qwen3-Coder-Next is an 80B parameter LLM optimized for coding agents, featuring 
 
 `text-generation` `79.7B`
 
-⬇️ 185,433 • ❤️ 228 • 4d ago
+⬇️ 202,772 • ❤️ 230 • 4d ago
 
 ---
 
@@ -495,7 +493,7 @@ Intern-S1-Pro is a trillion-scale MoE multimodal scientific reasoning model exce
 
 `image-text-to-text`
 
-⬇️ 8,055 • ❤️ 208 • 4d ago
+⬇️ 8,455 • ❤️ 211 • 47m ago
 
 ---
 
@@ -517,27 +515,28 @@ _paperbanana is an agentic framework that automates the creation of publication-
 
 ---
 
+**[MiniCPM-V 4.5: Cooking Efficient MLLMs via Architecture, Data, and
+  Training Recipe](https://huggingface.co/papers/2509.18154)**
+
+*Tianyu Yu, Zefan Wang, Chongyi Wang et al. (34 authors)*
+
+MiniCPM-V 4.5, a 8B parameter multimodal large language model, achieves high performance and efficiency through a unified 3D-Resampler architecture, a unified learning paradigm, and a hybrid reinforcement learning strategy.
+
+▲ 53 • 💬 4 • ⭐ 23,492 • 4mo ago
+
+[🎓 arXiv](https://arxiv.org/abs/2509.18154) • [💻 code](https://github.com/OpenBMB/MiniCPM-V)
+
+---
+
 **[Scaling Large-Language-Model-based Multi-Agent Collaboration](https://huggingface.co/papers/2406.07155)**
 
 *Chen Qian, Zihao Xie, Yifei Wang et al. (10 authors)*
 
 Multi-agent collaboration networks enhance collective intelligence, outperforming baselines across various topologies and showing emergent abilities earlier than neural scaling laws suggest.
 
-▲ 4 • 💬 0 • ⭐ 30,562 • 20mo ago
+▲ 4 • 💬 0 • ⭐ 30,606 • 20mo ago
 
 [🎓 arXiv](https://arxiv.org/abs/2406.07155) • [💻 code](https://github.com/OpenBMB/ChatDev/tree/macnet) • [🔗 project](https://github.com/OpenBMB/ChatDev/tree/macnet)
-
----
-
-**[Multi-Agent Collaboration via Evolving Orchestration](https://huggingface.co/papers/2505.19591)**
-
-*Yufan Dang, Chen Qian, Xueheng Luo et al. (14 authors)*
-
-A centralized orchestrator dynamically directs LLM agents via reinforcement learning, achieving superior multi-agent collaboration in varying tasks with reduced computational costs.
-
-▲ 6 • 💬 0 • ⭐ 30,557 • 8mo ago
-
-[🎓 arXiv](https://arxiv.org/abs/2505.19591) • [💻 code](https://github.com/OpenBMB/ChatDev/tree/puppeteer)
 
 ---
 
@@ -553,16 +552,15 @@ Cross-Team Collaboration improves software quality by enabling multiple LLM agen
 
 ---
 
-**[MiniCPM-V 4.5: Cooking Efficient MLLMs via Architecture, Data, and
-  Training Recipe](https://huggingface.co/papers/2509.18154)**
+**[Multi-Agent Collaboration via Evolving Orchestration](https://huggingface.co/papers/2505.19591)**
 
-*Tianyu Yu, Zefan Wang, Chongyi Wang et al. (34 authors)*
+*Yufan Dang, Chen Qian, Xueheng Luo et al. (14 authors)*
 
-MiniCPM-V 4.5, a 8B parameter multimodal large language model, achieves high performance and efficiency through a unified 3D-Resampler architecture, a unified learning paradigm, and a hybrid reinforcement learning strategy.
+A centralized orchestrator dynamically directs LLM agents via reinforcement learning, achieving superior multi-agent collaboration in varying tasks with reduced computational costs.
 
-▲ 53 • 💬 4 • ⭐ 23,357 • 4mo ago
+▲ 6 • 💬 0 • ⭐ 30,594 • 8mo ago
 
-[🎓 arXiv](https://arxiv.org/abs/2509.18154) • [💻 code](https://github.com/OpenBMB/MiniCPM-V)
+[🎓 arXiv](https://arxiv.org/abs/2505.19591) • [💻 code](https://github.com/OpenBMB/ChatDev/tree/puppeteer)
 
 ---
 
@@ -572,7 +570,7 @@ MiniCPM-V 4.5, a 8B parameter multimodal large language model, achieves high per
 
 Agent Lightning is a flexible RL framework for training LLMs in various agents, using a hierarchical RL algorithm and decoupling execution from training to handle complex interactions.
 
-▲ 133 • 💬 6 • ⭐ 14,283 • 6mo ago
+▲ 133 • 💬 6 • ⭐ 14,305 • 6mo ago
 
 [🎓 arXiv](https://arxiv.org/abs/2508.03680) • [💻 code](https://github.com/microsoft/agent-lightning) • [🔗 project](https://www.microsoft.com/en-us/research/project/agent-lightning/)
 
@@ -598,7 +596,7 @@ Bitnet.cpp enhances edge inference for ternary LLMs using a novel mixed-precisio
 
 LingBot-World is an open-source world simulator with high-fidelity dynamics, long-term memory capabilities, and real-time interactivity for diverse environments.
 
-▲ 120 • 💬 2 • ⭐ 2,687 • 11d ago
+▲ 120 • 💬 2 • ⭐ 2,687 • 12d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2601.20540) • [💻 code](https://github.com/Robbyant/lingbot-world/) • [🔗 project](https://technology.robbyant.com/lingbot-world)
 
@@ -627,7 +625,7 @@ The Qwen3-TTS series presents advanced multilingual text-to-speech models with v
 
 SmolDocling is a compact vision-language model that performs end-to-end document conversion with robust performance across various document types using 256M parameters and a new markup format.
 
-▲ 138 • 💬 19 • ⭐ 52,444 • 11mo ago
+▲ 138 • 💬 19 • ⭐ 52,483 • 11mo ago
 
 [🎓 arXiv](https://arxiv.org/abs/2503.11576) • [💻 code](https://github.com/docling-project/docling) • [🔗 project](https://huggingface.co/ds4sd/SmolDocling-256M-preview)
 
@@ -643,7 +641,7 @@ Browser automation CLI for AI agents
 
 `TypeScript`
 
-⭐ 13.3k • 🔱 769 • 2d ago
+⭐ 13.3k • 🔱 771 • 2d ago
 
 ---
 
@@ -653,7 +651,7 @@ AI → JSON → UI
 
 `TypeScript`
 
-⭐ 10.1k • 🔱 539 • 1d ago
+⭐ 10.1k • 🔱 539 • 5m ago
 
 ---
 
@@ -663,7 +661,7 @@ The Ultimate Collection of 700+ Agentic Skills for Claude Code/Antigravity/Curso
 
 `Python` `agentic-skills` `ai-agents` `antigravity` `autonomous-coding` `claude-code`
 
-⭐ 8.0k • 🔱 1.7k • 19h ago
+⭐ 8.0k • 🔱 1.7k • 36m ago
 
 ---
 
@@ -673,7 +671,7 @@ Marketing skills for Claude Code and AI agents. CRO, copywriting, SEO, analytics
 
 `claude` `codex` `marketing`
 
-⭐ 6.9k • 🔱 771 • 5d ago
+⭐ 6.9k • 🔱 776 • 5d ago
 
 ---
 
@@ -681,7 +679,7 @@ Marketing skills for Claude Code and AI agents. CRO, copywriting, SEO, analytics
 
 Elevate your AI research writing, no more tedious polishing ✨ 
 
-⭐ 4.9k • 🔱 383 • 4d ago
+⭐ 4.9k • 🔱 388 • 4d ago
 
 ---
 
@@ -689,7 +687,7 @@ Elevate your AI research writing, no more tedious polishing ✨
 
 Claude Code skill that removes signs of AI-generated writing from text
 
-⭐ 4.4k • 🔱 369 • 17d ago
+⭐ 4.5k • 🔱 369 • 17d ago
 
 ---
 
@@ -699,15 +697,7 @@ OpenSource Claude Cowork. A desktop AI assistant that helps you with programming
 
 `TypeScript`
 
-⭐ 2.8k • 🔱 379 • 1d ago
-
----
-
-**[op7418/Humanizer-zh](https://github.com/op7418/Humanizer-zh)**
-
-Humanizer 的汉化版本，Claude Code Skills，旨在消除文本中 AI 生成的痕迹。
-
-⭐ 2.8k • 🔱 262 • 20d ago
+⭐ 2.8k • 🔱 380 • 1d ago
 
 ---
 
@@ -717,7 +707,15 @@ PaperBanana: Automating Academic Illustration For AI Scientists
 
 `JavaScript`
 
-⭐ 2.7k • 🔱 131 • 6d ago
+⭐ 2.8k • 🔱 135 • 6d ago
+
+---
+
+**[op7418/Humanizer-zh](https://github.com/op7418/Humanizer-zh)**
+
+Humanizer 的汉化版本，Claude Code Skills，旨在消除文本中 AI 生成的痕迹。
+
+⭐ 2.8k • 🔱 263 • 20d ago
 
 ---
 
@@ -727,7 +725,7 @@ An app to monitor the (Codex) situation
 
 `TypeScript` `ai` `codex` `linux` `macos` `tauri-app`
 
-⭐ 2.3k • 🔱 211 • 2h ago
+⭐ 2.3k • 🔱 212 • 48m ago
 
 ---
 
