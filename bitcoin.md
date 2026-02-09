@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-02-09T11:25:23.601909+00:00'
+updated: '2026-02-09T12:03:39.113894+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- cryptocurrency
 - social
-- videos
 - news
+- videos
+- cryptocurrency
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** February 09, 2026 at 11:25 UTC  
+**Last Updated:** February 09, 2026 at 12:03 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -81,7 +81,7 @@ Rank #1
 
 The people that have been around for multiple cycles have experienced buying Bitcoin's dips too soon. Thus, they are holding back from unloading their clips in the current correction. What Bitcoin likes to do, is make the greatest number of people regret their buying and selling decisions. it's this reason that Bitcoin is more likely to take off than continue a long slow bleed to $40k. If you can accumulate 1 BTC and it's eventually worth $500k, buying one at $70k vs $50k means your made $430k instead of $450k. If won't matter. Don't let the 4-year cycle theory hold you back from buying now.
 
-6h ago
+7h ago
 
 ---
 
@@ -95,7 +95,7 @@ The people that have been around for multiple cycles have experienced buying Bit
 
 The purple crayon tasted like 85k-90k within 2 weeks 🤷‍♂️
 
-10h ago
+11h ago
 
 ---
 
@@ -111,7 +111,7 @@ Congratulations everyone on surviving the 8th biggest single day drawdown in the
 
 I bought Bitcoin in 2023 when it went down to 25k waiting for the halving in 2024 and then it crossed 100k. Is it time to buy again now?
 
-9h ago
+10h ago
 
 ---
 
@@ -125,7 +125,7 @@ Im 39years old and unfortunately(or fortunately) because i had to renovate my ho
 
 **[Bitcoin ATM at HK tang lung street](https://www.reddit.com/r/Bitcoin/comments/1r00bdu/bitcoin_atm_at_hk_tang_lung_street/)**
 
-1h ago
+2h ago
 
 ---
 
@@ -133,7 +133,7 @@ Im 39years old and unfortunately(or fortunately) because i had to renovate my ho
 
 Hi everyone! Back in like 2013 or something My husband bought us some bitcoin. I think around $1000 worth, I can’t recall. Unfortunately since then he’s passed away (2018), and while I recall logging in to his wallet and changing the info to include myself and my email address after he passed away, I can’t recall where on earth any of this transpired. I do have the old laptop I did this on, and I hope that can help illuminate things for me so I can find it, but honestly I’m not sure where to begin looking. Back around those days, where would one access to their bitcoin? This was his thing back then, not mine so I have no idea where to start. Any ideas would be helpful.
 
-16h ago
+17h ago
 
 ---
 
@@ -183,7 +183,7 @@ bloomberg.com • 1h ago
 
 The watchdog said it plans to build tools that automatically extract suspicious trading patterns by the second and minute.
 
-CoinDesk • 4h ago
+CoinDesk • 5h ago
 
 ---
 
@@ -191,7 +191,7 @@ CoinDesk • 4h ago
 
 Miners are facing significant challenges, with bitcoin revenue per petahash halving from a peak of $70 to $35.
 
-CoinDesk • 15m ago
+CoinDesk • 54m ago
 
 ---
 
@@ -199,7 +199,7 @@ CoinDesk • 15m ago
 
 Binance’s SAFU fund purchased $300 million in Bitcoin, increasing its total holdings to 10,455 BTC. The purchase is part of a planned $1 billion conversion ...
 
-Yahoo Finance • 33m ago
+Yahoo Finance • 1h ago
 
 ---
 
@@ -259,7 +259,7 @@ Bitcoin outlook turns bearish as Pivotus’ Richard Farr targets BTC at $0 and M
 
 **[Bitcoin tumbles below $70K, heavy losses in cryptocurrencies in last three weeks](https://news.ycombinator.com/item?id=46934165)**
 
-⬆️ 50 • 💬 64 • 21h ago • [bloomberg.com](https://www.bloomberg.com/news/articles/2026-02-05/bitcoin-drops-below-70-000-as-forced-deleveraging-accelerates)
+⬆️ 50 • 💬 64 • 22h ago • [bloomberg.com](https://www.bloomberg.com/news/articles/2026-02-05/bitcoin-drops-below-70-000-as-forced-deleveraging-accelerates)
 
 ---
 
@@ -273,7 +273,7 @@ Bitcoin outlook turns bearish as Pivotus’ Richard Farr targets BTC at $0 and M
 
 The crypto crash is coming — and the landing won’t be pretty
 
-⬆️ 5 • 💬 1 • 18h ago • [ft.com](https://www.ft.com/content/2b030926-2012-4446-b22d-e549e10e7086)
+⬆️ 5 • 💬 1 • 19h ago • [ft.com](https://www.ft.com/content/2b030926-2012-4446-b22d-e549e10e7086)
 
 ---
 
@@ -289,7 +289,7 @@ Crypto treasury companies quietly crept into index funds and retirement accounts
 
 Local opponents criticise legislation that will facilitate ‘networked state’ community and hand executive powers to developer
 
-⬆️ 4 • 💬 0 • 18h ago • [ft.com](https://www.ft.com/content/50c2f8e0-a0a4-4433-805d-46e9e0345d4a)
+⬆️ 4 • 💬 0 • 19h ago • [ft.com](https://www.ft.com/content/50c2f8e0-a0a4-4433-805d-46e9e0345d4a)
 
 ---
 
@@ -319,7 +319,7 @@ Bitcoin behaves more like an "ATM" during uncertain times, with investors quickl
 
 📺 Money Talks
 
-👁️ 8K • 👍 157 • 💬 104 • ⏱️ 11:09 • 16h ago
+👁️ 8K • 👍 157 • 💬 104 • ⏱️ 11:09 • 17h ago
 
 ---
 
@@ -329,7 +329,7 @@ Mark Yusko Crypto Prediction's 2026 Follow: https://x.com/MarkYusko LIMITED TIME
 
 📺 Altcoin Daily
 
-👁️ 45K • 👍 2K • 💬 1K • ⏱️ 59:15 • 12h ago
+👁️ 45K • 👍 2K • 💬 1K • ⏱️ 59:15 • 13h ago
 
 ---
 
@@ -339,7 +339,7 @@ Bitcoin is ripping into Super Bowl weekend and the noise is everywhere. Beneath 
 
 📺 Simply Bitcoin
 
-👁️ 17K • 👍 1K • 💬 120 • ⏱️ 20:03 • 11h ago
+👁️ 17K • 👍 1K • 💬 120 • ⏱️ 20:03 • 12h ago
 
 ---
 
@@ -349,7 +349,7 @@ Nick Valdez checks the latest price action with Bitcoin. What if I said there ar
 
 📺 Discover Crypto
 
-👁️ 7K • 👍 240 • 💬 60 • ⏱️ 5:08 • 19h ago
+👁️ 7K • 👍 240 • 💬 60 • ⏱️ 5:08 • 20h ago
 
 ---
 
@@ -359,7 +359,7 @@ Bitcoin tumbled below $61000, as the unwinding of leveraged bets and broader mar
 
 📺 Bloomberg News
 
-👁️ 6K • 👍 107 • 💬 9 • ⏱️ 1:11 • 16h ago
+👁️ 6K • 👍 107 • 💬 9 • ⏱️ 1:11 • 17h ago
 
 ---
 

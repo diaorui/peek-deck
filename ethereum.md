@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-02-09T11:25:23.607147+00:00'
+updated: '2026-02-09T12:03:39.119824+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- cryptocurrency
 - social
-- videos
 - news
+- videos
+- cryptocurrency
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** February 09, 2026 at 11:25 UTC  
+**Last Updated:** February 09, 2026 at 12:03 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -72,7 +72,7 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-5h ago
+6h ago
 
 ---
 
@@ -80,7 +80,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 World News, Stories By EtherWorld, Technical Explainers, Client News & Updates, Podcasts, Upcoming Events & Jobs
 
-🔗 [EtherWorld.co](https://etherworld.co/etherworld-weekly-edition-350/) • 5h ago
+🔗 [EtherWorld.co](https://etherworld.co/etherworld-weekly-edition-350/) • 6h ago
 
 ---
 
@@ -88,7 +88,7 @@ World News, Stories By EtherWorld, Technical Explainers, Client News & Updates, 
 
 eth-mempool-monitor subscribes to Ethereum pending transactions over WebSocket, filters them against a monitored address set stored in Redis/Valkey, and publishes matching transactions to RabbitMQ. The project builds three binaries: eth_mempool_monitor: WebSocket subscriber + Redis filter + RabbitMQ publisher. rpc_control: newline-delimited JSON-RPC TCP server used to manage monitored addresses in Redis (token-authenticated). rabbitmq_tx_console: RabbitMQ consumer that prints monitored-transaction events in human-readable form.
 
-🔗 [GitHub](https://github.com/ThirdLetterC/eth-mempool-monitor) • 10h ago
+🔗 [GitHub](https://github.com/ThirdLetterC/eth-mempool-monitor) • 11h ago
 
 ---
 
@@ -120,7 +120,7 @@ I manually architected a Dual-STACK Execution and Consensus Engine that bypasses
 
 So I have some eth staked on coinbase but wondering how risky it is.. should I be looking somewhere else or is coinbase a good call? I don't answer private messages thanks
 
-17h ago
+18h ago
 
 ---
 
@@ -170,7 +170,7 @@ The Cool Down • 1d ago
 
 Ethereum is leading the development of a new set of standards for the use of AI in crypto.
 
-The Motley Fool • 55m ago
+The Motley Fool • 1h ago
 
 ---
 
@@ -184,7 +184,7 @@ Yahoo Finance • 2h ago
 
 **[Bitcoin, Ethereum, XRP Fall. Why There’s Hope for a Crypto Rally.](https://www.barrons.com/articles/bitcoin-price-ethereum-xrp-crypto-c754458e?gaa_at=eafs&gaa_n=AWEtsqdvOem8u9GBKBzvIU8iKUUuanwhHsyZywTBrf11Rzfz5EtZZA2xEz5j&gaa_ts=6989c786&gaa_sig=RbUhZSnjfiJm0b6ufGv0XHaYsGh8qcBOKv3_vvsm2yvyV8obzDxyXsaLMajLT7-Oy4gFzMa92-m3j05dBsMxtQ%3D%3D)**
 
-Barron's • 32m ago
+Barron's • 1h ago
 
 ---
 
@@ -216,7 +216,7 @@ TradingView • 1d ago
 
 BitMine has expanded its Ethereum hodings by acquiring an additional 20,000 ETH for nearly $42 million this week.
 
-Yahoo Finance • 14h ago
+Yahoo Finance • 15h ago
 
 ---
 
@@ -238,7 +238,7 @@ Welcome back home Ethereum! This time I think ETH will kick its feet back and st
 
 📺 Benjamin Cowen
 
-👁️ 26K • 👍 2K • 💬 135 • ⏱️ 14:29 • 5h ago
+👁️ 26K • 👍 2K • 💬 135 • ⏱️ 14:29 • 6h ago
 
 ---
 
@@ -248,7 +248,7 @@ This video provides a professional Elliott Wave and technical analysis of Ethere
 
 📺 More Crypto Online
 
-👁️ 2K • 👍 181 • 💬 11 • ⏱️ 5:37 • 8h ago
+👁️ 2K • 👍 181 • 💬 11 • ⏱️ 5:37 • 9h ago
 
 ---
 
@@ -268,7 +268,7 @@ BITCOIN WILL SHOCK EVERYONE (Breakout Loading)!!! - Bitcoin News Today, Ethereum
 
 📺 Crypto World
 
-👁️ 10K • 👍 373 • 💬 106 • ⏱️ 16:36 • 12h ago
+👁️ 10K • 👍 373 • 💬 106 • ⏱️ 16:36 • 13h ago
 
 ---
 
@@ -308,7 +308,7 @@ L'exchange crypto le plus sérieux du marché, c'est lui. Régulé US & Europe, 
 
 📺 Crypto Mindset Podcast 
 
-👁️ 4K • 👍 234 • 💬 57 • ⏱️ 10:19 • 23h ago
+👁️ 4K • 👍 234 • 💬 57 • ⏱️ 10:19 • 1d ago
 
 ---
 
@@ -318,7 +318,7 @@ Alex Becker just flipped his entire 2026 crypto thesis?!… ➡️ Important Lin
 
 📺 Across The Rubicon
 
-👁️ 11K • 👍 543 • 💬 45 • ⏱️ 22:14 • 16h ago
+👁️ 11K • 👍 543 • 💬 45 • ⏱️ 22:14 • 17h ago
 
 ---
 

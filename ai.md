@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-02-09T11:25:23.594324+00:00'
+updated: '2026-02-09T12:03:39.105311+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
 - social
+- news
 - videos
 - repositories
-- news
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** February 09, 2026 at 11:25 UTC  
+**Last Updated:** February 09, 2026 at 12:03 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -57,7 +57,7 @@ Just wanted to say thanks for the thoughtful discussion and feedback on my previ
 
 Museums (and cities) could use better “self-guided” tech. At most museums right now, you’ve basically got two options: Pay for a human tour guide Rent one of those clunky old audio devices that feel straight out of the 90s It got me thinking: what if there were smart glasses designed for self-guided tours? Lightweight, with a strap battery so they last a full day Could work in museums or even city-wide walking tours Display info, images, maybe AR cues without needing your phone You can also ask questions since it uses AI
 
-7h ago
+8h ago
 
 ---
 
@@ -123,7 +123,7 @@ One of Kimi’s browser automation scripts uses a dark web library with crypto s
 
 In the race for AI, tech firms are asking for their staff to work long hours. But there are risks, experts say.
 
-BBC • 11h ago
+BBC • 12h ago
 
 ---
 
@@ -135,7 +135,7 @@ The New York Times • 20h ago
 
 **[Meta Hit By EU Warning to Open WhatsApp to Rival AI Chatbots](https://www.bloomberg.com/news/articles/2026-02-09/meta-hit-by-eu-warning-to-open-whatsapp-to-rival-ai-chatbots)**
 
-bloomberg.com • 1h ago
+bloomberg.com • 2h ago
 
 ---
 
@@ -143,7 +143,7 @@ bloomberg.com • 1h ago
 
 The move follows the European Commission announcing an investigation in December into whether the social media giant had breached antitrust rules.
 
-CNBC • 1h ago
+CNBC • 2h ago
 
 ---
 
@@ -157,7 +157,7 @@ Yahoo Finance • 2h ago
 
 **[Infineon Joins AI Funding Rush With First Euro Debt in a Year](https://www.bloomberg.com/news/articles/2026-02-09/infineon-joins-ai-funding-rush-with-first-euro-debt-in-a-year)**
 
-bloomberg.com • 1h ago
+bloomberg.com • 2h ago
 
 ---
 
@@ -173,7 +173,7 @@ Business Insider • 1h ago
 
 While AI is having an impact on the workplace, experts suggest tariffs, overhiring during the pandemic and simply maximising profits may be bigger factors
 
-The Guardian • 19h ago
+The Guardian • 20h ago
 
 ---
 
@@ -189,7 +189,7 @@ The Economist • 21h ago
 
 Artificial intelligence is adding a new layer of uncertainty to the private credit industry, raising concerns that some lenders may face rising defaults.
 
-CNBC • 6h ago
+CNBC • 7h ago
 
 ---
 
@@ -249,7 +249,7 @@ A minimal, secure Python interpreter written in Rust for use by AI - pydantic/mo
 
 Taiwan’s TSMC, the world’s largest contract computer chip maker, has announced it will be manufacturing advanced 3-nanometer semiconductors in Japan to meet booming AI demand.
 
-⬆️ 175 • 💬 117 • 6h ago • [AP News](https://apnews.com/article/semiconductors-tsmc-japan-taiwan-ai-11256f2bfde73ca23d08331ad138d6d5)
+⬆️ 175 • 💬 117 • 7h ago • [AP News](https://apnews.com/article/semiconductors-tsmc-japan-taiwan-ai-11256f2bfde73ca23d08331ad138d6d5)
 
 ---
 
@@ -273,7 +273,7 @@ Microsoft, Nvidia, Oracle, Meta, Amazon and Alphabet all saw their shares fall i
 
 In the race for AI, tech firms are asking for their staff to work long hours. But there are risks, experts say.
 
-⬆️ 57 • 💬 80 • 9h ago • [bbc.com](https://www.bbc.com/news/articles/cvgn2k285ypo)
+⬆️ 57 • 💬 80 • 10h ago • [bbc.com](https://www.bbc.com/news/articles/cvgn2k285ypo)
 
 ---
 
@@ -287,7 +287,7 @@ A major AI shakeup is unfolding behind the scenes. A leaked internal memo sugges
 
 📺 AI Revolution
 
-👁️ 12K • 👍 467 • 💬 53 • ⏱️ 12:49 • 11h ago
+👁️ 12K • 👍 467 • 💬 53 • ⏱️ 12:49 • 12h ago
 
 ---
 
@@ -307,7 +307,7 @@ GET MY FREE GUIDE: *The Content Creator's AI Blueprint: From 25 Hours to 5 Minut
 
 📺 Julia McCoy
 
-👁️ 36K • 👍 2K • 💬 167 • ⏱️ 8:05 • 20h ago
+👁️ 36K • 👍 2K • 💬 167 • ⏱️ 8:05 • 21h ago
 
 ---
 
@@ -317,7 +317,7 @@ For more than 4000 years, the Great Pyramid of Giza has stood in silence amid th
 
 📺 Aline Rogerio
 
-👁️ 29K • 👍 2K • 💬 63 • ⏱️ 23:12 • 19h ago
+👁️ 29K • 👍 2K • 💬 63 • ⏱️ 23:12 • 20h ago
 
 ---
 
@@ -327,7 +327,7 @@ AI only creates leverage when it's applied with strategy, systems, and execution
 
 📺 AI Founders
 
-👁️ 3K • 👍 215 • 💬 11 • ⏱️ 17:45 • 17h ago
+👁️ 3K • 👍 215 • 💬 11 • ⏱️ 17:45 • 18h ago
 
 ---
 
@@ -367,7 +367,7 @@ AI is kinda stupid Dumb AI Top Posts , The Best Of Dumb AI Today we take a look 
 
 📺 Dark Dom
 
-👁️ 12K • 👍 870 • 💬 271 • ⏱️ 11:58 • 14h ago
+👁️ 12K • 👍 870 • 💬 271 • ⏱️ 11:58 • 15h ago
 
 ---
 
@@ -393,7 +393,7 @@ GLM-OCR is a 0.9B parameter multimodal OCR model for complex document understand
 
 `image-to-text`
 
-⬇️ 297,833 • ❤️ 849 • 5h ago
+⬇️ 297,833 • ❤️ 849 • 6h ago
 
 ---
 
@@ -417,7 +417,7 @@ MiniCPM-o 4.5 is a 9B parameter multimodal LLM excelling in vision, speech, and 
 
 `any-to-any` `9.4B`
 
-⬇️ 28,068 • ❤️ 652 • 2h ago
+⬇️ 28,068 • ❤️ 652 • 3h ago
 
 ---
 
@@ -441,7 +441,7 @@ ACE-Step 1.5 is an open-source text-to-audio model for commercial-grade music ge
 
 `text-to-audio`
 
-⬇️ 26,376 • ❤️ 457 • 5d ago
+⬇️ 26,376 • ❤️ 457 • 6d ago
 
 ---
 
@@ -451,7 +451,7 @@ ACE-Step 1.5 is an open-source text-to-audio model for commercial-grade music ge
 
 Voxtral-Mini-4B-Realtime-2602 is a multilingual, real-time speech-to-text model with <500ms latency, supporting 13 languages and achieving offline-comparable accuracy. It's optimized for on-device deployment and ideal for voice assistants and live subtitling.
 
-⬇️ 2,753 • ❤️ 407 • 13h ago
+⬇️ 2,753 • ❤️ 407 • 14h ago
 
 ---
 
@@ -497,7 +497,7 @@ Intern-S1-Pro is a trillion-scale MoE multimodal scientific reasoning model exce
 
 `image-text-to-text`
 
-⬇️ 8,455 • ❤️ 214 • 4h ago
+⬇️ 8,455 • ❤️ 214 • 5h ago
 
 ---
 
@@ -655,7 +655,7 @@ The Ultimate Collection of 700+ Agentic Skills for Claude Code/Antigravity/Curso
 
 `Python` `agentic-skills` `ai-agents` `antigravity` `autonomous-coding` `claude-code`
 
-⭐ 8.0k • 🔱 1.7k • 4h ago
+⭐ 8.0k • 🔱 1.7k • 5h ago
 
 ---
 
@@ -673,7 +673,7 @@ Marketing skills for Claude Code and AI agents. CRO, copywriting, SEO, analytics
 
 Elevate your AI research writing, no more tedious polishing ✨ 
 
-⭐ 5.0k • 🔱 390 • 4d ago
+⭐ 5.0k • 🔱 390 • 5d ago
 
 ---
 
@@ -719,7 +719,7 @@ An app to monitor the (Codex) situation
 
 `TypeScript` `ai` `codex` `linux` `macos` `tauri-app`
 
-⭐ 2.3k • 🔱 213 • 2h ago
+⭐ 2.3k • 🔱 213 • 3h ago
 
 ---
 
