@@ -3,14 +3,14 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-02-09T19:46:00.388927+00:00'
+updated: '2026-02-09T20:40:18.949468+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
 - social
-- videos
 - news
+- videos
 - cryptocurrency
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** February 09, 2026 at 19:46 UTC  
+**Last Updated:** February 09, 2026 at 20:40 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -54,17 +54,17 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1410.65B
+**Market Cap:** $1410.68B
 Rank #1
 
-**Circulating Supply:** 19,986,768 BTC
+**Circulating Supply:** 19,986,793 BTC
 95.2% of max
 
 **All-Time High:** $126,080.00
--43.9%
+-44.0%
 
 **All-Time Low:** $67.81
-+104116.2%
++104036.6%
 
 ---
 
@@ -81,13 +81,13 @@ Rank #1
 
 If you can't afford to buy it, the author is linking to free version: https://x.com/saifedean/status/1541200940124049408#m The audio book is also quite often to be found at YouTube.
 
-4h ago
+5h ago
 
 ---
 
 **[The more you learn about Bitcoin, the more you'll see how the current corrupt system works.](https://www.reddit.com/r/Bitcoin/comments/1qzykbx/the_more_you_learn_about_bitcoin_the_more_youll/)**
 
-11h ago
+12h ago
 
 ---
 
@@ -95,7 +95,7 @@ If you can't afford to buy it, the author is linking to free version: https://x.
 
 If the 4 year cycle is intact.. we go down and stay down between 50K to 70K over the next 2 years before the slow grind up. If the 4 year cycle is broken due to a fundamentally different investor set, then we potentially see a swift recovery following clarity on CLARITY ACT, and break new highs in 2026. But right now.. we're at the mid point, where Schrodinger's Bitcoin is... Time will tell. I'm rooting for new highs in 2026 and a fundamentally different cycle to end all cycles. You?
 
-6h ago
+7h ago
 
 ---
 
@@ -103,7 +103,7 @@ If the 4 year cycle is intact.. we go down and stay down between 50K to 70K over
 
 Credit: @thepaulosophy Info about the ring: https://bitcoin-ring.com
 
-1h ago
+2h ago
 
 ---
 
@@ -111,13 +111,13 @@ Credit: @thepaulosophy Info about the ring: https://bitcoin-ring.com
 
 The people that have been around for multiple cycles have experienced buying Bitcoin's dips too soon. Thus, they are holding back from unloading their clips in the current correction. What Bitcoin likes to do, is make the greatest number of people regret their buying and selling decisions. it's this reason that Bitcoin is more likely to take off than continue a long slow bleed to $40k. If you can accumulate 1 BTC and it's eventually worth $500k, buying one at $70k vs $50k means your made $430k instead of $450k. If won't matter. Don't let the 4-year cycle theory hold you back from buying now.
 
-14h ago
+15h ago
 
 ---
 
 **[Bitcoin dropped ~50% and ~90% of ETF capital held strong.](https://www.reddit.com/r/Bitcoin/comments/1r07zl1/bitcoin_dropped_50_and_90_of_etf_capital_held/)**
 
-3h ago
+4h ago
 
 ---
 
@@ -125,13 +125,13 @@ The people that have been around for multiple cycles have experienced buying Bit
 
 The purple crayon tasted like 85k-90k within 2 weeks 🤷‍♂️
 
-19h ago
+20h ago
 
 ---
 
 **[Bitcoin ATM at HK tang lung street](https://www.reddit.com/r/Bitcoin/comments/1r00bdu/bitcoin_atm_at_hk_tang_lung_street/)**
 
-9h ago
+10h ago
 
 ---
 
@@ -147,7 +147,7 @@ Congratulations everyone on surviving the 8th biggest single day drawdown in the
 
 I bought Bitcoin in 2023 when it went down to 25k waiting for the halving in 2024 and then it crossed 100k. Is it time to buy again now?
 
-17h ago
+18h ago
 
 ---
 
@@ -159,7 +159,7 @@ I bought Bitcoin in 2023 when it went down to 25k waiting for the halving in 202
 
 Bitcoin on Thursday plunged to $60,033, its lowest since October 2024, before rallying back above $70,000 on Friday.  “While cryptocurrency prices have managed to bounce from last week’s lows, there still seems no rush to pick up coins on the cheap,” said Chris Beauchamp, chief market analyst at investing and trading platform IG.  Extreme volatility is nothing new to cryptocurrencies, but Bitcoin’s slump from a peak of $126,000 in October last year comes despite the backdrop of a crypto-friendly White House and surging institutional adoption.
 
-Yahoo Finance • 1h ago
+Yahoo Finance • 2h ago
 
 ---
 
@@ -167,13 +167,13 @@ Yahoo Finance • 1h ago
 
 A pair of bitcoin-linked firms could see their shares skyrocket, even as the flagship crypto retreats, due to their pivot to the data center business.
 
-CNBC • 45m ago
+CNBC • 1h ago
 
 ---
 
 **[Korea Probes Crypto Exchange Over $40 Billion in ‘Ghost Bitcoin’](https://www.bloomberg.com/news/articles/2026-02-09/bithumb-accidentally-gifts-620-000-bitcoin-btc-to-clients-in-fat-finger-error)**
 
-bloomberg.com • 9h ago
+bloomberg.com • 10h ago
 
 ---
 
@@ -198,7 +198,7 @@ CNBC • 2d ago
 
 Bitcoin ATM fraud is a growing threat in Houston and nationwide. Awareness and quick action can help protect consumers and stop scammers.
 
-Click2Houston • 6h ago
+Click2Houston • 7h ago
 
 ---
 
@@ -206,7 +206,7 @@ Click2Houston • 6h ago
 
 Newly released documents detail convicted sex offender’s early backing of bitcoin and Coinbase
 
-The Guardian • 5h ago
+The Guardian • 6h ago
 
 ---
 
@@ -214,13 +214,13 @@ The Guardian • 5h ago
 
 Analysts at Bernstein said the current bitcoin downturn reflects a crisis of confidence rather than structural damage.
 
-The Block • 8h ago
+The Block • 9h ago
 
 ---
 
 **[The Kidnappers Of Savannah Guthrie's Mom Want Bitcoin—But It’s Not As Anonymous As Many Think](https://www.forbes.com/sites/martinadilicosa/2026/02/06/the-kidnappers-of-savannah-guthries-mom-want-bitcoin-but-its-not-as-anonymous-as-many-think/)**
 
-Forbes • 2d ago
+Forbes • 3d ago
 
 ---
 
@@ -228,7 +228,7 @@ Forbes • 2d ago
 
 Captors have allegedly demanded $6 million in Bitcoin from the Guthrie family, as Nancy Guthrie remains missing her NBC anchor daughter pleads for her return.
 
-foxnews.com • 1h ago
+foxnews.com • 2h ago
 
 ---
 
@@ -246,7 +246,7 @@ foxnews.com • 1h ago
 
 Some market watchers have suggested $70,000 is a key level to watch and a break below that could lead bitcoin to decline further.
 
-⬆️ 60 • 💬 2 • 3d ago • [CNBC](https://www.cnbc.com/2026/02/05/bitcoin-price-today-70000-in-focus.html)
+⬆️ 60 • 💬 2 • 4d ago • [CNBC](https://www.cnbc.com/2026/02/05/bitcoin-price-today-70000-in-focus.html)
 
 ---
 
@@ -314,23 +314,23 @@ Bitcoin behaves more like an "ATM" during uncertain times, with investors quickl
 
 ## YouTube Videos: "bitcoin"
 
-**[Why Bitcoin Is Crashing — And What It Signals for Markets in 2026](https://www.youtube.com/watch?v=SK0SIERxlWw)**
+**[THEY JUST SOLD A TON OF BITCOIN](https://www.youtube.com/watch?v=CL4rI0AkPms)**
+
+CHECK OUT MY LINKTREE FOR EXCHANGES I USE, BONUSES, FREE VIDEOS, AND MORE! https://linktr.ee/Myfinancialfriend I ...
+
+📺 My Financial Friend
+
+👁️ 5K • 👍 389 • 💬 127 • ⏱️ 16:35 • 3h ago
+
+---
+
+**[The Bitcoin Sell-Off No One Is Explaining (This Changes 2026)](https://www.youtube.com/watch?v=SK0SIERxlWw)**
 
 Watch my free masterclass & get Market Briefs as a bonus: https://briefs.finance/a4d230 My recommended tools*! *Please note: ...
 
 📺 Minority Mindset
 
-👁️ 76K • 👍 4K • 💬 421 • ⏱️ 13:35 • 7h ago
-
----
-
-**[I TOLD YOU TO LONG BITCOIN - MY PLAN CHANGED (URGENT)](https://www.youtube.com/watch?v=PM5PnQfnBFs)**
-
-TOOBIT — CLAIM $50 & 20% SIGN UP BONUS ON YOUR DEPOSIT Limited spots available, first ...
-
-📺 100XClub
-
-👁️ 10K • 👍 918 • 💬 143 • ⏱️ 9:04 • 9h ago
+👁️ 108K • 👍 4K • 💬 476 • ⏱️ 13:35 • 8h ago
 
 ---
 
@@ -340,27 +340,17 @@ Bitcoin #Crypto #Finance Is Bitcoin nearing a bottom or still searching for one?
 
 📺 The Wolf Of All Streets
 
-👁️ 13K • 👍 1K • 💬 297 • ⏱️ 1:05:03 • 4h ago
+👁️ 21K • 👍 1K • 💬 424 • ⏱️ 1:05:03 • 5h ago
 
 ---
 
-**[&quot;Now We Know Why BlackRock Crashed Bitcoin On Purpose&quot; - Mike Novogratz Update](https://www.youtube.com/watch?v=3R7XDbA8p54)**
+**[I TOLD YOU TO LONG BITCOIN - MY PLAN CHANGED (URGENT)](https://www.youtube.com/watch?v=PM5PnQfnBFs)**
 
-"Now We Know Why BlackRock Crashed Bitcoin On Purpose" - Mike Novogratz Update Mike Novogratz, CEO of Galaxy Digital, ...
+TOOBIT — CLAIM $50 & 20% SIGN UP BONUS ON YOUR DEPOSIT Limited spots available, first ...
 
-📺 Money Talks
+📺 100XClub
 
-👁️ 11K • 👍 180 • 💬 165 • ⏱️ 11:09 • 1d ago
-
----
-
-**[Donald Trump Is About To Crash Bitcoin Again | Mark Yusko&#39;s 2026 Predictions](https://www.youtube.com/watch?v=BsMi69bhOj4)**
-
-Mark Yusko Crypto Prediction's 2026 Follow: https://x.com/MarkYusko LIMITED TIME: ✓ Bitunix (no kyc, $10k bonus): ...
-
-📺 Altcoin Daily
-
-👁️ 64K • 👍 3K • 💬 1K • ⏱️ 59:15 • 21h ago
+👁️ 10K • 👍 958 • 💬 789 • ⏱️ 9:04 • 10h ago
 
 ---
 
@@ -370,47 +360,57 @@ Stop Waking Up to Pee! (It is NOT Your Bladder) https://youtu.be/M1vdiQK5_DU [cl
 
 📺 MMCrypto
 
-👁️ 17K • 👍 2K • 💬 466 • ⏱️ 6:40 • 5h ago
+👁️ 28K • 👍 3K • 💬 3K • ⏱️ 6:40 • 6h ago
 
 ---
 
-**[BITCOIN: Something Big Is Coming! (get ready) - BTC Price Prediction Today](https://www.youtube.com/watch?v=VZG6RE5FxqI)**
+**[This Bitcoin Reversal Sets Up a $150,000 Target](https://www.youtube.com/watch?v=fqxM_lWtRYc)**
 
-Want a free $30000 bonus + $20 just for signing up? Go here: ...
+Make Free Predictions on *ClashPicks* ▻ https://www.clashpicks.com/ Follow ClashPicks' X ▻ https://x.com/ClashPicks ...
 
-📺 BitcoinHyper
+📺 CryptosRUs
 
-👁️ 6K • 👍 472 • 💬 46 • ⏱️ 14:03 • 7h ago
-
----
-
-**[&quot;They Are MASSIVELY Manipulating Bitcoin &amp; We’ve Got Proof” - Jordi Visser &amp; Mike Novogratz](https://www.youtube.com/watch?v=bC1bC8Mj0lY)**
-
-Explore FortisX and access a bonus of up to 10% on one deposit using the link below: https://fortisx.fi/kol/savvyfinanceofficial ...
-
-📺 Savvy Finance
-
-👁️ 7K • 👍 294 • 💬 10 • ⏱️ 21:43 • 1d ago
+👁️ 19K • 👍 1K • 💬 934 • ⏱️ 43:45 • 5h ago
 
 ---
 
-**[Bitcoin&#39;de Dip Geldi mi? Yoksa Daha Kötüsü Var mı?](https://www.youtube.com/watch?v=Luy2wMQNULc)**
+**[URGENT! THE BITCOIN BOTTOM?! (WHEN I am BUYING Bitcoin)](https://www.youtube.com/watch?v=bN6hyGh8V7M)**
 
-Oytun ES Twitter Hesabı İçin Tıklayın; http://bit.ly/oytun86 Altuğ İŞLER Twitter Hesabı İçin Tıklayın; http://bit.ly/2RDcr8v Oytun Es ...
+ANTARCTIC EXCHANGE LOWEST FEES!   https://partner.antarctic.live/code/JaysonCasper Trade SILVER GOLD STOCKS ...
 
-📺 Kripto Teknik
+📺 Jayson Casper
 
-👁️ 1K • 👍 188 • 💬 24 • ⏱️ 19:20 • 3h ago
+👁️ 4K • 👍 392 • 💬 126 • ⏱️ 55:56 • 1h ago
 
 ---
 
-**[IT’S RIGGED! BIG CRYPTO MANIPULATION!! What Happens Now?](https://www.youtube.com/watch?v=lBAUxlj416I)**
+**[&quot;Now We Know Why BlackRock Crashed Bitcoin On Purpose&quot; - Mike Novogratz Update](https://www.youtube.com/watch?v=3R7XDbA8p54)**
 
-IT'S RIGGED! What Happens Now? ✓ Bitunix (no kyc, $10000 bonus): https://www.bitunix.com/register?vipCode=AltcoinDaily ...
+"Now We Know Why BlackRock Crashed Bitcoin On Purpose" - Mike Novogratz Update Mike Novogratz, CEO of Galaxy Digital, ...
+
+📺 Money Talks
+
+👁️ 12K • 👍 191 • 💬 158 • ⏱️ 11:09 • 1d ago
+
+---
+
+**[Donald Trump Is About To Crash Bitcoin Again | Mark Yusko&#39;s 2026 Predictions](https://www.youtube.com/watch?v=BsMi69bhOj4)**
+
+Mark Yusko Crypto Prediction's 2026 Follow: https://x.com/MarkYusko LIMITED TIME: ✓ Bitunix (no kyc, $10k bonus): ...
 
 📺 Altcoin Daily
 
-👁️ 59K • 👍 3K • 💬 646 • ⏱️ 9:28 • 1d ago
+👁️ 68K • 👍 3K • 💬 1K • ⏱️ 59:15 • 22h ago
+
+---
+
+**[Michael Saylor on Bitcoin Crash &amp; MSTR Stock Drop – BTC Price Analysis](https://www.youtube.com/watch?v=TabsAyptwCw)**
+
+BTC #Bitcoin #Cryptocurrency Join Michael Saylor for his unforgettable keynote at the Bitcoin Conference. The leading Bitcoin ...
+
+📺 TradeMatik - Borsa Analizi
+
+👁️ 5K • 👍 4K • 2h ago
 
 ---
 

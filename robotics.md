@@ -3,7 +3,7 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-02-09T19:46:00.398044+00:00'
+updated: '2026-02-09T20:40:18.958617+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
@@ -17,7 +17,7 @@ data_types:
 
 Robotics research and industry news
 
-**Last Updated:** February 09, 2026 at 19:46 UTC  
+**Last Updated:** February 09, 2026 at 20:40 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -48,13 +48,13 @@ Over the past year our team built LingBot-VLA, a Vision-Language-Action foundati
 
 **[Lego strandbeest (Part 1)](https://www.reddit.com/r/robotics/comments/1r09da6/lego_strandbeest_part_1/)**
 
-2h ago
+3h ago
 
 ---
 
 **[Robot](https://www.reddit.com/r/robotics/comments/1qzw7nc/robot/)**
 
-13h ago
+14h ago
 
 ---
 
@@ -62,7 +62,7 @@ Over the past year our team built LingBot-VLA, a Vision-Language-Action foundati
 
 When asked about tension around open source in robotics, Brian Gerkey, CTO of Intrinsic, pushes back on the idea that it was ever a problem. His point is that open source was designed from the start to be used by industry, not kept separate from it. Permissive licensing was intentional. Companies were meant to take the software, ship products with it, and build businesses on top, without being forced to contribute back. From that perspective, corporate involvement isn’t a betrayal of open source. What matters is whether the software stays open, maintained, and widely usable over time, not who adopts it or commercializes it.
 
-3h ago
+4h ago
 
 ---
 
@@ -76,7 +76,7 @@ https://preview.redd.it/lrhwvdgtjiig1.png?width=2880&format=png&auto=webp&s=8bd9
 
 **[Autonomous Navigation in Dynamic Environments as a Persistent Robotics Challenge](https://www.reddit.com/r/robotics/comments/1r087bz/autonomous_navigation_in_dynamic_environments_as/)**
 
-🔗 [gazetemakina.com](https://gazetemakina.com/en/dinamik-robotik/) • 3h ago
+🔗 [gazetemakina.com](https://gazetemakina.com/en/dinamik-robotik/) • 4h ago
 
 ---
 
@@ -84,7 +84,7 @@ https://preview.redd.it/lrhwvdgtjiig1.png?width=2880&format=png&auto=webp&s=8bd9
 
 Hi everyone I've stumbled across this sub reddit while searching for some kind of distance measuring sensor. Edit: i need it for 15 meters up to i need it for a school project so a cheaper would be good enough. accuracy is not too important because up to 5cm accuracy is already good enough for me and I need it outdoors. i have found one for cheap but I'm interested in your opinion's too.
 
-6h ago
+7h ago
 
 ---
 
@@ -96,7 +96,7 @@ Hi everyone I've stumbled across this sub reddit while searching for some kind o
 
 **[Everbot Demo: Home gym bot, Factory QA, Fitness and AirBnb App](https://www.reddit.com/r/robotics/comments/1qzt9y0/everbot_demo_home_gym_bot_factory_qa_fitness_and/)**
 
-16h ago
+17h ago
 
 ---
 
@@ -108,7 +108,7 @@ Hi everyone I've stumbled across this sub reddit while searching for some kind o
 
 Stryker (NYSE: SYK), a global leader in medical technologies, announced the limited market release of Mako RPS (Robotic Power System) for Total Knee, an intuitive handheld robotic system that combines Stryker's proven robotics and power tool legacies and represents Mako's expansion into a new robotics platform. Mako now includes Mako SmartRobotics™ – Stryker's multi-specialty, robotic-arm assisted platform featuring Mako 4 – and Mako Handheld Robotics with Mako RPS, which is designed to reach a
 
-Yahoo Finance • 4h ago
+Yahoo Finance • 5h ago
 
 ---
 
@@ -116,7 +116,7 @@ Yahoo Finance • 4h ago
 
 Few robotics technologies have been actually deployed in high-mix manufacturing. Let's explore the reasons behind this slow transition.
 
-The Robot Report • 59m ago
+The Robot Report • 1h ago
 
 ---
 
@@ -132,7 +132,7 @@ Fortune • 2d ago
 
 Robotic food delivery carts are now a familiar sight on the streets of Chicago. But not everyone has rolled out the welcome wagon for the army of AI-driven meals on wheels.
 
-Chicago Tribune • 8h ago
+Chicago Tribune • 9h ago
 
 ---
 
@@ -146,7 +146,7 @@ Seeking Alpha • 13h ago
 
 HK$10M JV MoU targets localized robotics R&D in Hong Kong, combining Mint’s Southeast Asia reach with Rice Robotics’ Japan presence around 'physical AI'.
 
-stocktitan.net • 6h ago
+stocktitan.net • 7h ago
 
 ---
 
@@ -162,7 +162,7 @@ The Motley Fool • 1d ago
 
 Corvus One for Cold Chain is a drone-based inventory system designed to operate autonomously in freezer warehouses as cold as minus-20°F.
 
-DroneDJ • 1h ago
+DroneDJ • 2h ago
 
 ---
 
@@ -170,7 +170,7 @@ DroneDJ • 1h ago
 
 From study buddies to health care helpers, Purdue professor Sooyeon Jeong is designing robots that listen, respond and build trust.
 
-Journal & Courier • 3h ago
+Journal & Courier • 4h ago
 
 ---
 
@@ -178,7 +178,7 @@ Journal & Courier • 3h ago
 
 Swarmbotics AI has won a US Army contract to build swarming, attritable small unmanned ground vehicles for the 1st Cavalry Division.
 
-The Defense Post • 11h ago
+The Defense Post • 12h ago
 
 ---
 
@@ -192,7 +192,7 @@ The Atlas Airborne Robot takes one final research run as Boston Dynamics pushes 
 
 📺 DPCcars
 
-👁️ 52K • 👍 377 • 💬 70 • ⏱️ 2:45 • 2d ago
+👁️ 58K • 👍 396 • 💬 73 • ⏱️ 2:45 • 2d ago
 
 ---
 
@@ -202,17 +202,7 @@ Now that the Atlas enterprise platform is getting to work, the research version 
 
 📺 Boston Dynamics
 
-👁️ 780K • 👍 30K • 💬 3K • ⏱️ 1:38 • 2d ago
-
----
-
-**[First Biomimetic AI Robot From China Looks Shockingly Human](https://www.youtube.com/watch?v=B61etYSvMNI)**
-
-Humanoid robots just entered a new phase of realism. In Shanghai, DroidUp revealed Moya, the world's first fully biomimetic ...
-
-📺 AI Revolution
-
-👁️ 230K • 👍 4K • 💬 910 • ⏱️ 13:31 • 4d ago
+👁️ 803K • 👍 31K • 💬 3K • ⏱️ 1:38 • 2d ago
 
 ---
 
@@ -222,7 +212,27 @@ Will a robot soon be watching your children or caring for your parents? Elon Mus
 
 📺 SpaceTakers
 
-👁️ 36K • 👍 750 • 💬 71 • ⏱️ 0:29 • 3d ago
+👁️ 37K • 👍 767 • 💬 71 • ⏱️ 0:29 • 3d ago
+
+---
+
+**[First Biomimetic AI Robot From China Looks Shockingly Human](https://www.youtube.com/watch?v=B61etYSvMNI)**
+
+Humanoid robots just entered a new phase of realism. In Shanghai, DroidUp revealed Moya, the world's first fully biomimetic ...
+
+📺 AI Revolution
+
+👁️ 232K • 👍 4K • 💬 915 • ⏱️ 13:31 • 4d ago
+
+---
+
+**[China&#39;s &quot;Bolt&quot; robot runs 10m/s, nearing human record](https://www.youtube.com/watch?v=w5B17L_U98k)**
+
+China's Zhejiang University has unveiled "Bolt," a full-size humanoid robot capable of running at 10 meters per second, closing in ...
+
+📺 New China TV
+
+👁️ 19K • 👍 116 • 💬 9 • ⏱️ 0:10 • 6d ago
 
 ---
 
@@ -230,7 +240,7 @@ Will a robot soon be watching your children or caring for your parents? Elon Mus
 
 📺 Concept Bytes
 
-👁️ 28K • 👍 2K • 💬 33 • ⏱️ 1:24 • 3d ago
+👁️ 29K • 👍 2K • 💬 33 • ⏱️ 1:24 • 3d ago
 
 ---
 
@@ -240,7 +250,27 @@ Pan Motor's Wuji Hand packs twenty fully actuated joints into a sub six hundred 
 
 📺 Deepen
 
-👁️ 27K • 👍 456 • 💬 12 • ⏱️ 0:19 • 1d ago
+👁️ 27K • 👍 452 • 💬 12 • ⏱️ 0:19 • 1d ago
+
+---
+
+**[Don’t sleep on the PILLUM LYNX [War Robots}](https://www.youtube.com/watch?v=jzV0EmGmYrU)**
+
+War Robots Gameplay: PILLUM LYNX is something to be respected! My War Robots Creator Link: https://wr.my.games/manni ...
+
+📺 Manni-Gaming
+
+👁️ 7K • 👍 476 • 💬 102 • ⏱️ 19:56 • 12h ago
+
+---
+
+**[Everything NEW Coming in the Valentine’s Update | Blox Fruits](https://www.youtube.com/watch?v=FCqtLmW6tCQ)**
+
+SOCIALS   Blox Fruits Twitter: https://twitter.com/BloxFruits Blox Fruits Tiktok: https://www.tiktok.com/@bloxfruitsofficials ...
+
+📺 Gamer Robot
+
+👁️ 576K • 👍 39K • 💬 6K • ⏱️ 8:01 • 1d ago
 
 ---
 
@@ -248,35 +278,7 @@ Pan Motor's Wuji Hand packs twenty fully actuated joints into a sub six hundred 
 
 📺 Tesla Owners Silicon Valley
 
-👁️ 173K • 👍 3K • 💬 157 • ⏱️ 0:40 • 3d ago
-
----
-
-**[The world of robotics is advancing](https://www.youtube.com/watch?v=O-IPeboeXGI)**
-
-📺 Fredo on TV
-
-👁️ 199K • 👍 20K • 💬 546 • ⏱️ 0:34 • 1d ago
-
----
-
-**[헬로카봇 빅포트 탱크 변신 합체 모음 Hello Carbot Robot Toys Transformation](https://www.youtube.com/watch?v=JL45MHCxjvw)**
-
-헬로카봇 빅포트 탱크 변신 합체 모음 Hello Carbot Robot Toys Transformation 헬로카봇 용사 시즌2 첫 메카는 강력한 탱크 빅포트 빅 ...
-
-📺 Rainbow Play
-
-👁️ 3K • 👍 38 • 💬 14 • ⏱️ 6:57 • 11h ago
-
----
-
-**[Robots That Move Without a Brain? Sea Star Locomotion Is Changing Robotics Forever #robot #shorts](https://www.youtube.com/watch?v=Q7doiqBMz-k)**
-
-Robots That Move Without a Brain? Sea Star Locomotion Is Changing Robotics Forever What if robots could keep moving even ...
-
-📺 Future Lens Pi
-
-👁️ 28K • 💬 10 • ⏱️ 0:08 • 1d ago
+👁️ 180K • 👍 3K • 💬 167 • ⏱️ 0:40 • 3d ago
 
 ---
 

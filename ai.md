@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-02-09T19:46:00.380567+00:00'
+updated: '2026-02-09T20:40:18.941172+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
 - social
+- repositories
 - videos
 - news
-- repositories
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** February 09, 2026 at 19:46 UTC  
+**Last Updated:** February 09, 2026 at 20:40 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -39,7 +39,7 @@ AI news, discussions, and developments
 
 **[New query approach in AI](https://www.reddit.com/r/artificial/comments/1r0cemj/new_query_approach_in_ai/)**
 
-1h ago
+2h ago
 
 ---
 
@@ -47,7 +47,7 @@ AI news, discussions, and developments
 
 Companies have an incentive to make you believe that chatbots are conscious. Don’t fall for it.
 
-🔗 [The Washington Post](https://www.washingtonpost.com/opinions/2026/02/05/moltbook-anthropic-ai-consciousness-marketing/) • 15h ago
+🔗 [The Washington Post](https://www.washingtonpost.com/opinions/2026/02/05/moltbook-anthropic-ai-consciousness-marketing/) • 16h ago
 
 ---
 
@@ -55,7 +55,7 @@ Companies have an incentive to make you believe that chatbots are conscious. Don
 
 Hello, I am learning 3D modeling (CAD and also mesh-based). And of course, I am worried, that it is useless, because the extreme growth of AI. What are your thoughts on this? Will be games AI-generated? What else could be generated? What about tech designs?
 
-8h ago
+9h ago
 
 ---
 
@@ -63,7 +63,7 @@ Hello, I am learning 3D modeling (CAD and also mesh-based). And of course, I am 
 
 Hypothetical question. Say you built a personal AI assistant mainly for your own household — something that: works offline by default can optionally go online when needed prioritizes privacy and local control is designed to feel more present and human than a text-based chatbot Imagine: No subscription Core intelligence included Optional small add-ons later (purely cosmetic things like voices, eye colors, holiday expressions, etc.) A few questions I’d genuinely love opinions on: Does offline-first actually matter to you, or is cloud-only fine? Would no subscription be a big deal? Would you prefer one up-front price, or small optional add-ons over time? If you were the one building this, what would you feel comfortable charging? Would an optional “more intelligent / deeper conversation” mode be something you’d want, or unnecessary? This started as something I built just for my family. I’m not selling anything — just trying to understand how others think about value and tradeoffs here.
 
-55m ago
+1h ago
 
 ---
 
@@ -71,7 +71,7 @@ Hypothetical question. Say you built a personal AI assistant mainly for your own
 
 I'm super excited about OpenClaw's capabilities but honestly terrified after reading about all these security issues. Found posts about 17,903 exposed instances, API keys stored in plain text, deleted creds saved in .bak files, and that CVE-2026-25253 Slack exploit. Someone even found a reverse shell backdoor in the 'better-polymarket' skill. How are you all securing your OpenClaw deployments? Need solutions for runtime guardrails and policy enforcement. Can't ship agent features if they're this vulnerable.
 
-3h ago
+4h ago
 
 ---
 
@@ -79,7 +79,7 @@ I'm super excited about OpenClaw's capabilities but honestly terrified after rea
 
 I'm not looking for help. And I hope this post is not taken down the same way as my WhatsApp account. This is a discussion about customer service and how AI is out of control. Meta AI was actually rude with me and refused to even let me know about how to contact a human to solve my issues. In the possibility that my account was spamming, the automated system just shut it down without even giving me an option to appeal for a case. So in short, I can not message 50 apartments asking about their price to look for a new home because Meta AI will think I'm spamming and will shut down my account. And when I try to appeal for a case it will say there nothing to be done, and when I try to look for a way to speak to a human it'll say there's no need and AI is all I need to solve my problems... Really... What the Hell, Meta?
 
-3h ago
+4h ago
 
 ---
 
@@ -121,7 +121,7 @@ Countries have been building their own “sovereign AI” to reflect their cultu
 
 **[As AI enters the operating room, reports arise of botched surgeries and misidentified body parts](https://www.reuters.com/investigations/ai-enters-operating-room-reports-arise-botched-surgeries-misidentified-body-2026-02-09/)**
 
-Reuters • 8h ago
+Reuters • 9h ago
 
 ---
 
@@ -135,7 +135,7 @@ The New York Times • 1d ago
 
 A Kenosha judge sanctioned DA Xavier Solis during a Feb. 6 hearing involving two men who were facing a combined total of 74 criminal charges.
 
-Milwaukee Journal Sentinel • 28m ago
+Milwaukee Journal Sentinel • 1h ago
 
 ---
 
@@ -143,7 +143,7 @@ Milwaukee Journal Sentinel • 28m ago
 
 Adversary use of AI is necessitating changes to how the DoD trains its cyber warriors.
 
-Breaking Defense • 12m ago
+Breaking Defense • 1h ago
 
 ---
 
@@ -151,19 +151,19 @@ Breaking Defense • 12m ago
 
 The Investing Club holds its "Morning Meeting" every weekday at 10:20 a.m. ET.
 
-CNBC • 3h ago
+CNBC • 4h ago
 
 ---
 
 **[US software stocks tumble sparks concerns that AI trade is reshaping markets](https://www.reuters.com/business/media-telecom/us-software-stocks-tumble-sparks-concerns-that-ai-trade-is-reshaping-markets-2026-02-09/)**
 
-Reuters • 8h ago
+Reuters • 9h ago
 
 ---
 
 **[How Hershey, United Airlines, and Others Unseated AI to Become the New Stock Market Darlings](https://www.barrons.com/articles/hershey-stock-price-united-airlines-ai-darlings-f917b0a8?gaa_at=eafs&gaa_n=AWEtsqdxHMp_tRDDWVwhttTJXXiOIXiX2WrCaJ89IKj9qmUSADGLMqRi1Dem&gaa_ts=698a3ce3&gaa_sig=Wkl1zVPzvbtGiiFtrikiIHmjVVL7fiZCA0CttwObyRlBov4RC9zMa4-AaMeeI_TCbJF1Aum4xuJJwd9HUvtSWQ%3D%3D)**
 
-Barron's • 19m ago
+Barron's • 1h ago
 
 ---
 
@@ -171,7 +171,7 @@ Barron's • 19m ago
 
 Radiology has come up multiple times as an example of a field that’s been impacted by AI without replacing the need for human workers.
 
-cnn.com • 7h ago
+cnn.com • 8h ago
 
 ---
 
@@ -179,7 +179,7 @@ cnn.com • 7h ago
 
 In the race for AI, tech firms are asking for their staff to work long hours. But there are risks, experts say.
 
-BBC • 19h ago
+BBC • 20h ago
 
 ---
 
@@ -187,7 +187,7 @@ BBC • 19h ago
 
 He has been jailed, tracked and threatened by China’s government. What was it like pay a visit home? As he publishes a polemic about surveillance and state control, the artist relives a momentous trip to see his mother
 
-The Guardian • 4h ago
+The Guardian • 5h ago
 
 ---
 
@@ -199,7 +199,7 @@ The Guardian • 4h ago
 
 AI handles writing code but leaves the hard work: investigation, context, validation. Why vibe coding has limits and AI assistance can backfire.
 
-⬆️ 477 • 💬 329 • 20h ago • [blundergoat.com](https://www.blundergoat.com/articles/ai-makes-the-easy-part-easier-and-the-hard-part-harder)
+⬆️ 477 • 💬 329 • 21h ago • [blundergoat.com](https://www.blundergoat.com/articles/ai-makes-the-easy-part-easier-and-the-hard-part-harder)
 
 ---
 
@@ -239,7 +239,7 @@ A minimal, secure Python interpreter written in Rust for use by AI - pydantic/mo
 
 Taiwan’s TSMC, the world’s largest contract computer chip maker, has announced it will be manufacturing advanced 3-nanometer semiconductors in Japan to meet booming AI demand.
 
-⬆️ 233 • 💬 167 • 15h ago • [AP News](https://apnews.com/article/semiconductors-tsmc-japan-taiwan-ai-11256f2bfde73ca23d08331ad138d6d5)
+⬆️ 233 • 💬 167 • 16h ago • [AP News](https://apnews.com/article/semiconductors-tsmc-japan-taiwan-ai-11256f2bfde73ca23d08331ad138d6d5)
 
 ---
 
@@ -263,7 +263,7 @@ Matchlock secures AI agent workloads with a Linux-based sandbox. - jingkaihe/mat
 
 In the race for AI, tech firms are asking for their staff to work long hours. But there are risks, experts say.
 
-⬆️ 63 • 💬 87 • 18h ago • [bbc.com](https://www.bbc.com/news/articles/cvgn2k285ypo)
+⬆️ 63 • 💬 87 • 19h ago • [bbc.com](https://www.bbc.com/news/articles/cvgn2k285ypo)
 
 ---
 
@@ -277,43 +277,13 @@ In the race for AI, tech firms are asking for their staff to work long hours. Bu
 
 ## YouTube Videos: "ai"
 
-**[The AI crash will change everything](https://www.youtube.com/watch?v=FEbC3xJBRf8)**
+**[LIVE: Trump Refuses To Apologize Over The Racist AI Video Of The Obamas](https://www.youtube.com/watch?v=wgVoqVioCH4)**
 
-Become a member! ✓ https://www.youtube.com/channel/UCahJ9IsvXnaQiuNyWQSkrkw/join ⭐ Support independent daily news ...
+Sen. John Ossoff slams Trump over his racist video of the Obamas as Trump refuses to apologize. A Detroit cop is fired after he ...
 
-📺 Chris Norlund
+📺 Indisputable with Dr. Rashad Richey
 
-👁️ 131K • 👍 7K • 💬 2K • ⏱️ 17:42 • 1d ago
-
----
-
-**[OpenAI Just Betrayed Nvidia: The AI War Begins NOW](https://www.youtube.com/watch?v=SG71c_W25-s)**
-
-GET MY FREE GUIDE: *The Content Creator's AI Blueprint: From 25 Hours to 5 Minutes* https://FirstMovers.ai/blueprint/ ...
-
-📺 Julia McCoy
-
-👁️ 41K • 👍 2K • 💬 191 • ⏱️ 8:05 • 1d ago
-
----
-
-**[Iran Releases AI Video of Attack on US Armada, Khamenei Says Enemy Must Be Driven to Despair | WION](https://www.youtube.com/watch?v=dFvoFfgC2kY)**
-
-Iran Releases AI Video of Attack on US Armada, Khamenei Says Enemy Must Be Driven to Despair | WION Fineprint #iran ...
-
-📺 WION
-
-👁️ 5K • 👍 131 • 💬 53 • ⏱️ 3:33 • 3h ago
-
----
-
-**[AI videos are getting scary](https://www.youtube.com/watch?v=i-jz8SvTLus)**
-
-Can you spot AI videos easily? #tech #ai #surfshark.
-
-📺 Surfshark Academy
-
-👁️ 25K • 👍 4K • 💬 90 • ⏱️ 1:17 • 1d ago
+👁️ 3K • 👍 427 • 2h ago
 
 ---
 
@@ -323,27 +293,57 @@ We pretty much use AI to blow up a new YouTube channel and get monetized all wit
 
 📺 tef
 
-👁️ 17K • 👍 1K • 💬 215 • ⏱️ 8:19 • 1d ago
+👁️ 18K • 👍 1K • 💬 227 • ⏱️ 8:19 • 1d ago
 
 ---
 
-**[Shocking Leak Reveals AI Model 100x Leaner And 10x Stronger (Avocado AI)](https://www.youtube.com/watch?v=Z4Q_7zM8dcM)**
+**[The AI crash will change everything](https://www.youtube.com/watch?v=FEbC3xJBRf8)**
 
-A major AI shakeup is unfolding behind the scenes. A leaked internal memo suggests Meta's new model, Avocado, is already ...
+Become a member! ✓ https://www.youtube.com/channel/UCahJ9IsvXnaQiuNyWQSkrkw/join ⭐ Support independent daily news ...
 
-📺 AI Revolution
+📺 Chris Norlund
 
-👁️ 19K • 👍 689 • 💬 62 • ⏱️ 12:49 • 19h ago
+👁️ 133K • 👍 7K • 💬 2K • ⏱️ 17:42 • 1d ago
 
 ---
 
-**[Trump Posted an Offensive AI Video And Black Conservatives Are Defending It](https://www.youtube.com/watch?v=CbNbBWrY2g8)**
+**[OpenAI Just Betrayed Nvidia: The AI War Begins NOW](https://www.youtube.com/watch?v=SG71c_W25-s)**
 
-Let me know what you all think in the comments down below! #donaldtrump #MAGA #trevornoah #grammys #hypocrisy #Sneako ...
+GET MY FREE GUIDE: *The Content Creator's AI Blueprint: From 25 Hours to 5 Minutes* https://FirstMovers.ai/blueprint/ ...
 
-📺 Watts TV
+📺 Julia McCoy
 
-👁️ 6K • 👍 371 • 💬 129 • ⏱️ 30:58 • 1d ago
+👁️ 43K • 👍 2K • 💬 197 • ⏱️ 8:05 • 1d ago
+
+---
+
+**[AI Hardware Bottlenecks: Can Scaling Continue?](https://www.youtube.com/watch?v=uu1ldkCwQGg)**
+
+Everyone keeps saying AI's biggest problem is data money or regulation. That's wrong. The real challenge holding AI back isn't ...
+
+📺 Tiff In Tech
+
+👁️ 36K • 👍 2K • 💬 326 • ⏱️ 8:23 • 2d ago
+
+---
+
+**[Iran Releases AI Video of Attack on US Armada, Khamenei Says Enemy Must Be Driven to Despair | WION](https://www.youtube.com/watch?v=dFvoFfgC2kY)**
+
+Iran Releases AI Video of Attack on US Armada, Khamenei Says Enemy Must Be Driven to Despair | WION Fineprint #iran ...
+
+📺 WION
+
+👁️ 20K • 👍 274 • 💬 140 • ⏱️ 3:33 • 4h ago
+
+---
+
+**[AI videos are getting scary](https://www.youtube.com/watch?v=i-jz8SvTLus)**
+
+Can you spot AI videos easily? #tech #ai #surfshark.
+
+📺 Surfshark Academy
+
+👁️ 26K • 👍 4K • 💬 92 • ⏱️ 1:17 • 1d ago
 
 ---
 
@@ -353,17 +353,17 @@ This week on Prof G Markets, Scott Galloway and Ed Elson unpack last week's soft
 
 📺 The Prof G Pod – Scott Galloway
 
-👁️ 53K • 👍 2K • 💬 354 • ⏱️ 1:13:39 • 7h ago
+👁️ 78K • 👍 2K • 💬 456 • ⏱️ 1:13:39 • 8h ago
 
 ---
 
-**[OpenAI&#39;s New GPT 5.3 Shocks Anthropic As Opus 4.6 Strikes Back (AI War Explodes)](https://www.youtube.com/watch?v=ydW6Io2T4ho)**
+**[Trump Posted an Offensive AI Video And Black Conservatives Are Defending It](https://www.youtube.com/watch?v=CbNbBWrY2g8)**
 
-AI coding just entered a new phase of competition. In the same week, OpenAI unveiled GPT-5.3-Codex, a faster, more capable ...
+Let me know what you all think in the comments down below! #donaldtrump #MAGA #trevornoah #grammys #hypocrisy #Sneako ...
 
-📺 AI Revolution
+📺 Watts TV
 
-👁️ 37K • 👍 803 • 💬 42 • ⏱️ 13:09 • 2d ago
+👁️ 7K • 👍 375 • 💬 132 • ⏱️ 30:58 • 1d ago
 
 ---
 
@@ -373,7 +373,7 @@ India's IT sector just got hit with its biggest shock in 4 months. The Nifty IT 
 
 📺 Mark Savant
 
-👁️ 36K • 👍 978 • 💬 459 • ⏱️ 18:25 • 1d ago
+👁️ 37K • 👍 1K • 💬 471 • ⏱️ 18:25 • 1d ago
 
 ---
 
@@ -389,7 +389,7 @@ GLM-OCR is a 0.9B parameter multimodal OCR model for complex document understand
 
 `image-to-text`
 
-⬇️ 297,833 • ❤️ 874 • 13h ago
+⬇️ 297,833 • ❤️ 879 • 14h ago
 
 ---
 
@@ -401,7 +401,7 @@ Qwen3-Coder-Next is a highly efficient 3B activated parameter LLM (80B total) op
 
 `text-generation` `79.7B`
 
-⬇️ 112,896 • ❤️ 657 • 6d ago
+⬇️ 112,896 • ❤️ 659 • 6d ago
 
 ---
 
@@ -413,7 +413,7 @@ MiniCPM-o 4.5 is a 9B parameter multimodal LLM excelling in vision, speech, and 
 
 `any-to-any` `9.4B`
 
-⬇️ 28,068 • ❤️ 629 • 10h ago
+⬇️ 28,068 • ❤️ 632 • 11h ago
 
 ---
 
@@ -425,7 +425,7 @@ ACE-Step 1.5 is an open-source text-to-audio model for commercial-grade music ge
 
 `text-to-audio`
 
-⬇️ 26,376 • ❤️ 467 • 6d ago
+⬇️ 26,376 • ❤️ 472 • 6d ago
 
 ---
 
@@ -437,7 +437,7 @@ Kimi K2.5 is a native multimodal agentic model with 1T parameters, excelling in 
 
 `image-text-to-text` `170.7B`
 
-⬇️ 456,396 • ❤️ 1,923 • 4d ago
+⬇️ 456,396 • ❤️ 1,926 • 4d ago
 
 ---
 
@@ -449,7 +449,7 @@ Voxtral-Mini-4B-Realtime-2602 is a multilingual, real-time speech-to-text model 
 
 `automatic-speech-recognition`
 
-⬇️ 2,753 • ❤️ 420 • 3h ago
+⬇️ 2,753 • ❤️ 424 • 4h ago
 
 ---
 
@@ -461,7 +461,7 @@ Step 3.5 Flash is an efficient open-source foundation model (11B active params, 
 
 `text-generation` `199.4B`
 
-⬇️ 228,406 • ❤️ 537 • 2d ago
+⬇️ 228,406 • ❤️ 538 • 2d ago
 
 ---
 
@@ -471,7 +471,7 @@ Step 3.5 Flash is an efficient open-source foundation model (11B active params, 
 
 Anima is a 2 billion parameter text-to-image diffusion model specialized in generating anime-style illustrations and artistic images, capable of producing non-photorealistic content. It is optimized for use with ComfyUI and trained on millions of anime and artistic images, with a knowledge cut-off of September 2025.
 
-⬇️ 81,215 • ❤️ 530 • 8d ago
+⬇️ 81,215 • ❤️ 532 • 8d ago
 
 ---
 
@@ -483,7 +483,7 @@ Qwen3-Coder-Next is an 80B parameter LLM optimized for coding agents, featuring 
 
 `text-generation` `79.7B`
 
-⬇️ 202,772 • ❤️ 238 • 4d ago
+⬇️ 202,772 • ❤️ 241 • 4d ago
 
 ---
 
@@ -495,7 +495,7 @@ Intern-S1-Pro is a trillion-scale MoE multimodal scientific reasoning model exce
 
 `image-text-to-text`
 
-⬇️ 8,455 • ❤️ 218 • 12h ago
+⬇️ 8,455 • ❤️ 219 • 13h ago
 
 ---
 
@@ -530,18 +530,6 @@ MiniCPM-V 4.5, a 8B parameter multimodal large language model, achieves high per
 
 ---
 
-**[Multi-Agent Software Development through Cross-Team Collaboration](https://huggingface.co/papers/2406.08979)**
-
-*Zhuoyun Du, Chen Qian, Wei Liu et al. (8 authors)*
-
-Cross-Team Collaboration improves software quality by enabling multiple LLM agent teams to propose and communicate decisions.
-
-▲ 3 • 💬 0 • ⭐ 30,629 • 20mo ago
-
-[🎓 arXiv](https://arxiv.org/abs/2406.08979) • [💻 code](https://github.com/OpenBMB/ChatDev)
-
----
-
 **[Multi-Agent Collaboration via Evolving Orchestration](https://huggingface.co/papers/2505.19591)**
 
 *Yufan Dang, Chen Qian, Xueheng Luo et al. (14 authors)*
@@ -566,13 +554,25 @@ Multi-agent collaboration networks enhance collective intelligence, outperformin
 
 ---
 
+**[Multi-Agent Software Development through Cross-Team Collaboration](https://huggingface.co/papers/2406.08979)**
+
+*Zhuoyun Du, Chen Qian, Wei Liu et al. (8 authors)*
+
+Cross-Team Collaboration improves software quality by enabling multiple LLM agent teams to propose and communicate decisions.
+
+▲ 3 • 💬 0 • ⭐ 30,653 • 20mo ago
+
+[🎓 arXiv](https://arxiv.org/abs/2406.08979) • [💻 code](https://github.com/OpenBMB/ChatDev)
+
+---
+
 **[Bitnet.cpp: Efficient Edge Inference for Ternary LLMs](https://huggingface.co/papers/2502.11880)**
 
 *Jinheng Wang, Hansong Zhou, Ting Song et al. (10 authors)*
 
 Bitnet.cpp enhances edge inference for ternary LLMs using a novel mixed-precision matrix multiplication library, achieving significant speed improvements over baselines.
 
-▲ 7 • 💬 0 • ⭐ 28,234 • 11mo ago
+▲ 7 • 💬 0 • ⭐ 28,268 • 11mo ago
 
 [🎓 arXiv](https://arxiv.org/abs/2502.11880) • [💻 code](https://github.com/microsoft/BitNet/tree/paper)
 
@@ -612,7 +612,7 @@ Agent Lightning is a flexible RL framework for training LLMs in various agents, 
 
 LingBot-World is an open-source world simulator with high-fidelity dynamics, long-term memory capabilities, and real-time interactivity for diverse environments.
 
-▲ 120 • 💬 2 • ⭐ 2,722 • 12d ago
+▲ 120 • 💬 2 • ⭐ 2,737 • 12d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2601.20540) • [💻 code](https://github.com/Robbyant/lingbot-world/) • [🔗 project](https://technology.robbyant.com/lingbot-world)
 
@@ -643,7 +643,7 @@ Browser automation CLI for AI agents
 
 `TypeScript`
 
-⭐ 13.4k • 🔱 780 • 1h ago
+⭐ 13.4k • 🔱 781 • 2h ago
 
 ---
 
@@ -653,7 +653,7 @@ The Ultimate Collection of 700+ Agentic Skills for Claude Code/Antigravity/Curso
 
 `Python` `agentic-skills` `ai-agents` `antigravity` `autonomous-coding` `claude-code`
 
-⭐ 8.1k • 🔱 1.7k • 12h ago
+⭐ 8.1k • 🔱 1.7k • 13h ago
 
 ---
 
@@ -663,7 +663,7 @@ Marketing skills for Claude Code and AI agents. CRO, copywriting, SEO, analytics
 
 `claude` `codex` `marketing`
 
-⭐ 7.0k • 🔱 784 • 5d ago
+⭐ 7.0k • 🔱 791 • 5d ago
 
 ---
 
@@ -689,7 +689,7 @@ PaperBanana: Automating Academic Illustration For AI Scientists
 
 `JavaScript`
 
-⭐ 3.0k • 🔱 142 • 6d ago
+⭐ 3.0k • 🔱 144 • 6d ago
 
 ---
 
@@ -717,7 +717,7 @@ An app to monitor the (Codex) situation
 
 `TypeScript` `ai` `codex` `linux` `macos` `tauri-app`
 
-⭐ 2.3k • 🔱 214 • 2h ago
+⭐ 2.3k • 🔱 214 • 12m ago
 
 ---
 
@@ -727,7 +727,7 @@ The visual feedback tool for agents.
 
 `TypeScript` `ai` `design` `tools` `ui`
 
-⭐ 2.1k • 🔱 147 • 2d ago
+⭐ 2.1k • 🔱 147 • 1h ago
 
 ---
 
