@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-02-09T20:40:18.955436+00:00'
+updated: '2026-02-09T21:40:26.832451+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- social
-- news
-- videos
 - cryptocurrency
+- videos
+- news
+- social
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** February 09, 2026 at 20:40 UTC  
+**Last Updated:** February 09, 2026 at 21:40 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -36,17 +36,17 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Price
 
-### $2,113.64
+### $2,094.51
 
 ---
 
 ## Ethereum Chart
 
-**24h:** +1.4%  
-**7d:** -4.6%  
-**30d:** -31.8%  
-**90d:** -37.5%  
-**1y:** -19.8%  
+**24h:** -0.6%  
+**7d:** -6.2%  
+**30d:** -32.9%  
+**90d:** -38.6%  
+**1y:** -21.2%  
 
 ---
 
@@ -72,7 +72,7 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-14h ago
+15h ago
 
 ---
 
@@ -80,7 +80,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 We’re launching a new service focused on smart contract reviews without the overhead of a full audit. Scope is limited and practical. Logic, exploitability, and protocol level risks. No certification and no audit opinion. To validate the approach, we’re offering a limited number of free focused smart contract security reviews for projects that are code complete and either close to launch or already deployed, in exchange for honest feedback. This is not meant to replace an audit. It’s a short, concrete review focused on protocol logic and exploit paths. Shoot a dm, if you're interested.
 
-3h ago
+4h ago
 
 ---
 
@@ -88,23 +88,7 @@ We’re launching a new service focused on smart contract reviews without the ov
 
 In January 2026, DeFi hacks resulted in roughly $86M in losses across multiple protocols. More concerning: 7 separate incidents exceeded $1M each. Most of the exploits were rooted in smart contract vulnerabilities. The pattern feels familiar at this point. Repeated issues, similar bug classes, and preventable failures. The question isn’t whether exploits will continue it’s whether teams are adapting fast enough. Are you building with security as a first principle, or still treating it as a final checklist before launch?
 
-3h ago
-
----
-
-**[Looking for CPI-pegged non-algorithmic stablecoin](https://www.reddit.com/r/ethereum/comments/1r04zdr/looking_for_cpipegged_nonalgorithmic_stablecoin/)**
-
-I am looking for a stablecoin that, instead of being pegged to a fiat currency, is pegged to a consumer price index, preferably one for prices where I live (Wales, UK), so that it rises with inflation. I don't mind whether it is partly centralised​ or not so long as it is actually censorship-resistent (so, unlike USDT). Should be safe i.e.​ vulnerable to being depegged so not algorithmic. Does this exist? Bonus points if it doesn't use plutocratic token-weighted governance.
-
-6h ago
-
----
-
-**[Nano EVM](https://www.reddit.com/r/ethereum/comments/1r04cnt/nano_evm/)**
-
-This is a compact Ethereum Virtual Machine runtime written in strict C23. Made this for learning purposes. BTW, it has a toy Solidity-like compiler into bytecode and `nano-node` program that "deploys" contracts to local store and gives ability to call them.
-
-🔗 [GitHub](https://github.com/ThirdLetterC/nano-evm) • 7h ago
+4h ago
 
 ---
 
@@ -112,7 +96,23 @@ This is a compact Ethereum Virtual Machine runtime written in strict C23. Made t
 
 Crypto prices have continued to swing, but derivatives activity since October looks much more subdued. Open interest and volumes across major assets have fallen and stayed lower, suggesting leverage has been reduced rather than rotated elsewhere. Funding rates are mostly calm, with the exception of Solana, where short positioning is more pronounced. A Quieter Market: What Crypto Derivatives Have Been Doing Since October 2025 | Sandmark What stands out to me isn’t that traders are outright bearish, but that they’re stepping back. It feels less like a call on prices going down and more like people reducing risk after a long period of easy leverage. With tighter limits and less appetite to borrow, price moves may matter differently than before. Big question is ... is this just a temporary pause, or has the market’s comfort with leverage really changed?
 
-4h ago
+5h ago
+
+---
+
+**[Looking for CPI-pegged non-algorithmic stablecoin](https://www.reddit.com/r/ethereum/comments/1r04zdr/looking_for_cpipegged_nonalgorithmic_stablecoin/)**
+
+I am looking for a stablecoin that, instead of being pegged to a fiat currency, is pegged to a consumer price index, preferably one for prices where I live (Wales, UK), so that it rises with inflation. I don't mind whether it is partly centralised​ or not so long as it is actually censorship-resistent (so, unlike USDT). Should be safe i.e.​ vulnerable to being depegged so not algorithmic. Does this exist? Bonus points if it doesn't use plutocratic token-weighted governance.
+
+7h ago
+
+---
+
+**[Nano EVM](https://www.reddit.com/r/ethereum/comments/1r04cnt/nano_evm/)**
+
+This is a compact Ethereum Virtual Machine runtime written in strict C23. Made this for learning purposes. BTW, it has a toy Solidity-like compiler into bytecode and `nano-node` program that "deploys" contracts to local store and gives ability to call them.
+
+🔗 [GitHub](https://github.com/ThirdLetterC/nano-evm) • 8h ago
 
 ---
 
@@ -120,7 +120,7 @@ Crypto prices have continued to swing, but derivatives activity since October lo
 
 World News, Stories By EtherWorld, Technical Explainers, Client News & Updates, Podcasts, Upcoming Events & Jobs
 
-🔗 [EtherWorld.co](https://etherworld.co/etherworld-weekly-edition-350/) • 14h ago
+🔗 [EtherWorld.co](https://etherworld.co/etherworld-weekly-edition-350/) • 15h ago
 
 ---
 
@@ -128,7 +128,7 @@ World News, Stories By EtherWorld, Technical Explainers, Client News & Updates, 
 
 A bug fix turned into a personal comeback story of coding, parenting, and a small contribution to the open-source world.
 
-🔗 [EtherWorld.co](https://etherworld.co/the-bug-of-solving-bugs/) • 7h ago
+🔗 [EtherWorld.co](https://etherworld.co/the-bug-of-solving-bugs/) • 8h ago
 
 ---
 
@@ -136,7 +136,7 @@ A bug fix turned into a personal comeback story of coding, parenting, and a smal
 
 eth-mempool-monitor subscribes to Ethereum pending transactions over WebSocket, filters them against a monitored address set stored in Redis/Valkey, and publishes matching transactions to RabbitMQ. The project builds three binaries: eth_mempool_monitor: WebSocket subscriber + Redis filter + RabbitMQ publisher. rpc_control: newline-delimited JSON-RPC TCP server used to manage monitored addresses in Redis (token-authenticated). rabbitmq_tx_console: RabbitMQ consumer that prints monitored-transaction events in human-readable form.
 
-🔗 [GitHub](https://github.com/ThirdLetterC/eth-mempool-monitor) • 19h ago
+🔗 [GitHub](https://github.com/ThirdLetterC/eth-mempool-monitor) • 20h ago
 
 ---
 
@@ -144,7 +144,7 @@ eth-mempool-monitor subscribes to Ethereum pending transactions over WebSocket, 
 
 I'm willing to stake my ETH that I have on my ledger, is this safe to use lido from the ledger?
 
-22h ago
+23h ago
 
 ---
 
@@ -160,11 +160,11 @@ unchainedcrypto.com • 2d ago
 
 ---
 
-**[Tom Lee’s BitMine Buys More Ethereum Despite $7.5 Billion Unrealized Loss](https://finance.yahoo.com/news/tom-lee-bitmine-buys-more-175225629.html)**
+**[Tom Lee’s BitMine Adds Another $42 Million in Ethereum Despite Crypto Winter](https://finance.yahoo.com/news/tom-lee-bitmine-adds-another-210000254.html)**
 
-Publicly traded Ethereum treasury firm BitMine Immersion Technology added to its ETH holdings last week, even as its paper losses grew.
+BitMine has expanded its Ethereum hodings by acquiring an additional 20,000 ETH for nearly $42 million this week.
 
-Yahoo Finance • 2h ago
+Yahoo Finance • 1d ago
 
 ---
 
@@ -172,23 +172,7 @@ Yahoo Finance • 2h ago
 
 The cryptocurrency industry went under intense pressure last week, with Bitcoin and Ethereum leading the crash and multiple cryptocurrencies hitting new multi-month lows. The crash was more pronounced with Bitcoin, though, and the imbalance in selling pressure is quietly shifting the relationship b…
 
-TradingView • 6h ago
-
----
-
-**[MegaETH debuts mainnet as Ethereum scaling debate heats up](https://www.coindesk.com/tech/2026/02/09/megaeth-debuts-mainnet-as-ethereum-scaling-debate-heats-up)**
-
-The project, which had previously pitched itself as a layer-2 “real-time blockchain,” targeting more than 100,000 transactions per second, would make onchain interactions feel closer to traditional web apps than today’s crypto networks.
-
-CoinDesk • 4h ago
-
----
-
-**[ENS Labs scraps Namechain L2, shifts ENSv2 fully to Ethereum mainnet](https://www.theblock.co/post/388932/ens-labs-scraps-namechain-l2-shifts-ensv2-fully-ethereum-mainnet)**
-
-ENS Labs is canceling the launch of the Namechain Layer 2, which began development in 2024 to support the forthcoming ENSv2 update.
-
-The Block • 2d ago
+TradingView • 7h ago
 
 ---
 
@@ -200,17 +184,35 @@ Decrypt • 1d ago
 
 ---
 
+**[Ethereum and Solana Are Getting Hit Hard. Are These Top Cryptocurrencies Buys on the Dip?](https://www.fool.com/investing/2026/02/07/ethereum-and-solana-are-getting-hit-hard-are-these/)**
+
+Here's why giving up on Ethereum and Solana now would be a mistake.
+
+The Motley Fool • 2d ago
+
+---
+
+**[ENS Labs scraps Namechain L2, shifts ENSv2 fully to Ethereum mainnet](https://www.theblock.co/post/388932/ens-labs-scraps-namechain-l2-shifts-ensv2-fully-ethereum-mainnet)**
+
+ENS Labs is canceling the launch of the Namechain Layer 2, which began development in 2024 to support the forthcoming ENSv2 update.
+
+The Block • 2d ago
+
+---
+
+**[MegaETH debuts mainnet as Ethereum scaling debate heats up](https://www.coindesk.com/tech/2026/02/09/megaeth-debuts-mainnet-as-ethereum-scaling-debate-heats-up)**
+
+The project, which had previously pitched itself as a layer-2 “real-time blockchain,” targeting more than 100,000 transactions per second, would make onchain interactions feel closer to traditional web apps than today’s crypto networks.
+
+CoinDesk • 5h ago
+
+---
+
 **[Bitmine Immersion Technologies (BMNR) Announces ETH Holdings Reach 4.326 Million Tokens, and Total Crypto and Total Cash Holdings of $10.0 Billion](https://www.prnewswire.com/news-releases/bitmine-immersion-technologies-bmnr-announces-eth-holdings-reach-4-326-million-tokens-and-total-crypto-and-total-cash-holdings-of-10-0-billion-302682272.html)**
 
 Bitmine has 2,873,459 staked ETH, representing $6.2 billion at $2,125 per ETH; MAVAN staking solution on track to launch Q1 2026 Bitmine now owns 3.58% of the...
 
-PR Newswire • 7h ago
-
----
-
-**[Most large cryptocurrencies decrease on Ethereum, Sui drops](https://www.marketwatch.com/data-news/most-large-cryptocurrencies-decrease-on-ethereum-sui-drops-952f8893-f4a308af2610?gaa_at=eafs&gaa_n=AWEtsqcAd-GpFdvQ82yf0ZC-XEYAv1OCkSqSDvSdTBTdSVgOjIiBhcWQh13v&gaa_ts=698a3ce7&gaa_sig=0E3tJu6Ub5mkJvnw6tqiOAgeoemNtonx3Z1v7UU0_89rzaOA07GWljrXU4wQ_FWVm_7alx5aWzYkRzaELhjTrQ%3D%3D)**
-
-MarketWatch • 5h ago
+PR Newswire • 8h ago
 
 ---
 
@@ -218,7 +220,7 @@ MarketWatch • 5h ago
 
 Ethereum price predictions from Standard Chartered and Citi target $5,400-$7,500 for 2026, but technical analysis shows bearish targets at $1,760-$1,000.
 
-financemagnates.com • 8h ago
+financemagnates.com • 9h ago
 
 ---
 
@@ -240,7 +242,7 @@ Welcome back home Ethereum! This time I think ETH will kick its feet back and st
 
 📺 Benjamin Cowen
 
-👁️ 81K • 👍 5K • 💬 323 • ⏱️ 14:29 • 14h ago
+👁️ 81K • 👍 5K • 💬 323 • ⏱️ 14:29 • 15h ago
 
 ---
 
@@ -250,7 +252,7 @@ This video provides a professional Elliott Wave and technical analysis of Ethere
 
 📺 More Crypto Online
 
-👁️ 2K • 👍 169 • 💬 7 • ⏱️ 4:46 • 6h ago
+👁️ 2K • 👍 169 • 💬 7 • ⏱️ 4:46 • 7h ago
 
 ---
 
@@ -260,7 +262,7 @@ ETHEREUM ETH PRICE PREDICTION 2026 Join the Premium Signal Group for trade setup
 
 📺 Cilinix Crypto
 
-👁️ 380 • 👍 13 • 💬 8 • ⏱️ 5:19 • 10h ago
+👁️ 380 • 👍 13 • 💬 8 • ⏱️ 5:19 • 11h ago
 
 ---
 
@@ -270,7 +272,7 @@ Explore FortisX and access a bonus of up to 10% on one deposit using the link be
 
 📺 Savvy Finance
 
-👁️ 5K • 👍 216 • 💬 3 • ⏱️ 22:10 • 20h ago
+👁️ 5K • 👍 216 • 💬 3 • ⏱️ 22:10 • 21h ago
 
 ---
 
@@ -280,7 +282,7 @@ Ethereum is boring right now. The price is chopping. Sentiment is terrible. Ever
 
 📺 Wall Street Stockcast
 
-👁️ 25 • 👍 1 • 💬 63 • ⏱️ 10:02 • 1h ago
+👁️ 25 • 👍 1 • 💬 63 • ⏱️ 10:02 • 2h ago
 
 ---
 
@@ -290,7 +292,7 @@ FREE TRAINING: https://www.bullmania.com EXCHANGES I USE (bybit, pionex): https:
 
 📺 Ivan on Tech
 
-👁️ 20K • 👍 1K • 💬 67 • ⏱️ 49:46 • 10h ago
+👁️ 20K • 👍 1K • 💬 67 • ⏱️ 49:46 • 11h ago
 
 ---
 
@@ -300,7 +302,7 @@ SPOTIFY PREMIUM RSS FEED | USE CODE: SPOTIFY24 https://bankless.cc/spotify-premi
 
 📺 Bankless
 
-👁️ 2K • 👍 76 • 💬 69 • ⏱️ 1:22:18 • 9h ago
+👁️ 2K • 👍 76 • 💬 69 • ⏱️ 1:22:18 • 10h ago
 
 ---
 
@@ -310,7 +312,7 @@ This video provides a professional Elliott Wave and technical analysis of Ethere
 
 📺 More Crypto Online
 
-👁️ 3K • 👍 218 • 💬 8 • ⏱️ 5:37 • 17h ago
+👁️ 3K • 👍 218 • 💬 8 • ⏱️ 5:37 • 18h ago
 
 ---
 
@@ -320,7 +322,7 @@ BITCOIN WILL SHOCK EVERYONE (Breakout Loading)!!! - Bitcoin News Today, Ethereum
 
 📺 Crypto World
 
-👁️ 14K • 👍 439 • 💬 195 • ⏱️ 16:36 • 21h ago
+👁️ 14K • 👍 439 • 💬 195 • ⏱️ 16:36 • 22h ago
 
 ---
 
@@ -330,7 +332,7 @@ ETH price update: Looking for good crypto trading opportunities? ⭐️Deep dive
 
 📺 BTDcrypto
 
-👁️ 16 • 👍 6 • ⏱️ 12:11 • 3h ago
+👁️ 16 • 👍 6 • ⏱️ 12:11 • 4h ago
 
 ---
 

@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-02-09T20:40:18.949468+00:00'
+updated: '2026-02-09T21:40:26.826443+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- social
-- news
-- videos
 - cryptocurrency
+- videos
+- news
+- social
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** February 09, 2026 at 20:40 UTC  
+**Last Updated:** February 09, 2026 at 21:40 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,17 +38,17 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $70,454.34
+### $70,000.00
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** +0.1%  
-**7d:** -6.4%  
-**30d:** -22.0%  
-**90d:** -30.3%  
-**1y:** -27.2%  
+**24h:** -1.6%  
+**7d:** -7.7%  
+**30d:** -23.1%  
+**90d:** -31.3%  
+**1y:** -28.3%  
 
 ---
 
@@ -81,21 +81,7 @@ Rank #1
 
 If you can't afford to buy it, the author is linking to free version: https://x.com/saifedean/status/1541200940124049408#m The audio book is also quite often to be found at YouTube.
 
-5h ago
-
----
-
-**[The more you learn about Bitcoin, the more you'll see how the current corrupt system works.](https://www.reddit.com/r/Bitcoin/comments/1qzykbx/the_more_you_learn_about_bitcoin_the_more_youll/)**
-
-12h ago
-
----
-
-**[We're at the point of uncertainty between "4 year cycle repeats itself" and "4 year cycle is broken"](https://www.reddit.com/r/Bitcoin/comments/1r041yf/were_at_the_point_of_uncertainty_between_4_year/)**
-
-If the 4 year cycle is intact.. we go down and stay down between 50K to 70K over the next 2 years before the slow grind up. If the 4 year cycle is broken due to a fundamentally different investor set, then we potentially see a swift recovery following clarity on CLARITY ACT, and break new highs in 2026. But right now.. we're at the mid point, where Schrodinger's Bitcoin is... Time will tell. I'm rooting for new highs in 2026 and a fundamentally different cycle to end all cycles. You?
-
-7h ago
+6h ago
 
 ---
 
@@ -103,7 +89,21 @@ If the 4 year cycle is intact.. we go down and stay down between 50K to 70K over
 
 Credit: @thepaulosophy Info about the ring: https://bitcoin-ring.com
 
-2h ago
+3h ago
+
+---
+
+**[We're at the point of uncertainty between "4 year cycle repeats itself" and "4 year cycle is broken"](https://www.reddit.com/r/Bitcoin/comments/1r041yf/were_at_the_point_of_uncertainty_between_4_year/)**
+
+If the 4 year cycle is intact.. we go down and stay down between 50K to 70K over the next 2 years before the slow grind up. If the 4 year cycle is broken due to a fundamentally different investor set, then we potentially see a swift recovery following clarity on CLARITY ACT, and break new highs in 2026. But right now.. we're at the mid point, where Schrodinger's Bitcoin is... Time will tell. I'm rooting for new highs in 2026 and a fundamentally different cycle to end all cycles. You?
+
+8h ago
+
+---
+
+**[The more you learn about Bitcoin, the more you'll see how the current corrupt system works.](https://www.reddit.com/r/Bitcoin/comments/1qzykbx/the_more_you_learn_about_bitcoin_the_more_youll/)**
+
+13h ago
 
 ---
 
@@ -111,13 +111,21 @@ Credit: @thepaulosophy Info about the ring: https://bitcoin-ring.com
 
 The people that have been around for multiple cycles have experienced buying Bitcoin's dips too soon. Thus, they are holding back from unloading their clips in the current correction. What Bitcoin likes to do, is make the greatest number of people regret their buying and selling decisions. it's this reason that Bitcoin is more likely to take off than continue a long slow bleed to $40k. If you can accumulate 1 BTC and it's eventually worth $500k, buying one at $70k vs $50k means your made $430k instead of $450k. If won't matter. Don't let the 4-year cycle theory hold you back from buying now.
 
-15h ago
+16h ago
 
 ---
 
 **[Bitcoin dropped ~50% and ~90% of ETF capital held strong.](https://www.reddit.com/r/Bitcoin/comments/1r07zl1/bitcoin_dropped_50_and_90_of_etf_capital_held/)**
 
-4h ago
+5h ago
+
+---
+
+**[BTC & Sovereign Wealth Funds.](https://www.reddit.com/r/Bitcoin/comments/1r0h0kr/btc_sovereign_wealth_funds/)**
+
+Sovereign funds stacking quietly = regulatory green light incoming... Elephants don’t FOMO. They know the watering hole’s about to open. Larry Fink speaking at the DealBook Summit, December 2025.
+
+17m ago
 
 ---
 
@@ -125,29 +133,21 @@ The people that have been around for multiple cycles have experienced buying Bit
 
 The purple crayon tasted like 85k-90k within 2 weeks 🤷‍♂️
 
-20h ago
+21h ago
+
+---
+
+**[What Bitcoiners Get Wrong About Retirement](https://www.reddit.com/r/Bitcoin/comments/1r0eccj/what_bitcoiners_get_wrong_about_retirement/)**
+
+The main reason we can know quite well that bitcoin will be worth more in the future than it is worth today is this: If you ask a young person whether they own any gold, they'll probably say no. But if you ask that same person if they own any bitcoin, there's a good chance they'd say yes. Great. Most bitcoiners don't find this new or surprising. But here's what a lot of bitcoin maxis don't understand: The less diversification you have, the more overall wealth you need at retirement to offset the risk your portfolio crashes during the first few years of your retirement. Said differently, if you're super convicted about bitcoin's future and you're trying to stack as many sats as you can every day, you're doing great! But you should also know and appreciate the fact that holding bitcoin as the only asset in your portfolio poses a serious risk to your ability to retire early. This risk is called "Sequence of Returns Risk". What is Sequence of Returns Risk ("SORR")? Put simply, it's the risk that your portfolio crashes early on in your retirement, such that when you withdraw the money you need each year to cover living expenses, you're forced to sell your assets during bear market lows. You really, REALLY don't want to be selling your assets during a market crash. Why? Here's an illustrative example: let's say you retired yesterday with a portfolio equal to $1M and you spend $40k per year. You plan to retire for 30 years - great! Good plan. But then something unexpected happens: your portfolio value plummets by 50% in Year 1 to a new value of $500k. Now, each time you withdraw your $40k needed to cover expenses, you are forced to sell TWICE as much of your assets as you would have been selling during a normal "non-crash" market. Then, when the market rebounds, a much smaller amount of your portfolio is still remaining to benefit from the rebound. The end result: you lose money faster. So what's the lesson? Easy. Don't put all your eggs in one basket. This isn't "weak hands" advice or "boomer" thinking. This is the smart way to invest to give yourself the best chance of retiring successfully so you can minimize the amount of bitcoin you ever have to sell to maintain your lifestyle.
+
+1h ago
 
 ---
 
 **[Bitcoin ATM at HK tang lung street](https://www.reddit.com/r/Bitcoin/comments/1r00bdu/bitcoin_atm_at_hk_tang_lung_street/)**
 
-10h ago
-
----
-
-**[Largest Single Day Bitcoin Drawndowns in the past 10 years](https://www.reddit.com/r/Bitcoin/comments/1qzi46k/largest_single_day_bitcoin_drawndowns_in_the_past/)**
-
-Congratulations everyone on surviving the 8th biggest single day drawdown in the past 10 years. You all are legends!!!
-
-1d ago
-
----
-
-**[Is it the time to buy?](https://www.reddit.com/r/Bitcoin/comments/1qzr9yi/is_it_the_time_to_buy/)**
-
-I bought Bitcoin in 2023 when it went down to 25k waiting for the halving in 2024 and then it crossed 100k. Is it time to buy again now?
-
-18h ago
+11h ago
 
 ---
 
@@ -155,25 +155,33 @@ I bought Bitcoin in 2023 when it went down to 25k waiting for the halving in 202
 
 ## Google News: "bitcoin"
 
-**[Bitcoin Settles In Near $70,000 After Wild Roller-Coaster Ride](https://finance.yahoo.com/news/bitcoin-dips-below-70-000-090217645.html)**
+**[Bitcoin Price To $0? Here's Why The Zero Dollar Bitcoin Narrative Is Growing — And What It Says About Crypto](https://finance.yahoo.com/news/bitcoin-price-0-heres-why-100215567.html)**
 
-Bitcoin on Thursday plunged to $60,033, its lowest since October 2024, before rallying back above $70,000 on Friday.  “While cryptocurrency prices have managed to bounce from last week’s lows, there still seems no rush to pick up coins on the cheap,” said Chris Beauchamp, chief market analyst at investing and trading platform IG.  Extreme volatility is nothing new to cryptocurrencies, but Bitcoin’s slump from a peak of $126,000 in October last year comes despite the backdrop of a crypto-friendly White House and surging institutional adoption.
+The “Bitcoin to $0” narrative is surging again. Market sentiment has flipped decisively bearish. Bullish credibility is weakening. “Every time I ask a Bitcoin true ...
 
-Yahoo Finance • 2h ago
-
----
-
-**[Morgan Stanley says these two stocks will more than double as they pivot from bitcoin to data centers](https://www.cnbc.com/2026/02/09/morgan-stanley-says-these-two-stocks-will-surge-as-they-pivot-to-data-centers.html)**
-
-A pair of bitcoin-linked firms could see their shares skyrocket, even as the flagship crypto retreats, due to their pivot to the data center business.
-
-CNBC • 1h ago
+Yahoo Finance • 1d ago
 
 ---
 
-**[Korea Probes Crypto Exchange Over $40 Billion in ‘Ghost Bitcoin’](https://www.bloomberg.com/news/articles/2026-02-09/bithumb-accidentally-gifts-620-000-bitcoin-btc-to-clients-in-fat-finger-error)**
+**[Bitcoin price analysis: BTC likely closer to bottom than top as bears celebrate](https://www.coindesk.com/markets/2026/02/08/bitcoin-bulls-spot-bottoming-signs-as-longtime-bears-take-victory-laps)**
 
-bloomberg.com • 10h ago
+The Financial Times and Peter Schiff were among the no-coiners giving themselves pats on the back as crypto crashed this week.
+
+CoinDesk • 1d ago
+
+---
+
+**[Ether Slides in Bitcoin’s Shadow as Investors Pull Out in Droves](https://www.bloomberg.com/news/articles/2026-02-09/ether-slides-in-bitcoin-s-shadow-as-investors-pull-out-in-droves?srnd=phx-etfs)**
+
+Bloomberg.com • 24m ago
+
+---
+
+**[The Trump family’s crypto portfolio is getting battered with the rest of the industry](https://fortune.com/2026/02/09/trump-family-crypto-portfolio-american-bitcoin-melania-memecoin-world-liberty-financial/)**
+
+A recent collapse in the price of Bitcoin has spurred weakness across the sector.
+
+Fortune • 46m ago
 
 ---
 
@@ -182,6 +190,12 @@ bloomberg.com • 10h ago
 The company quickly realised its mistake and managed to recover virtually all the missing tokens from customers.
 
 BBC • 2d ago
+
+---
+
+**[Korea Probes Crypto Exchange Over $40 Billion in ‘Ghost Bitcoin’](https://www.bloomberg.com/news/articles/2026-02-09/bithumb-accidentally-gifts-620-000-bitcoin-btc-to-clients-in-fat-finger-error)**
+
+Bloomberg.com • 11h ago
 
 ---
 
@@ -194,33 +208,11 @@ CNBC • 2d ago
 
 ---
 
-**[Houston Bitcoin ATM fraud cost consumers millions, how to protect yourself](https://www.click2houston.com/news/local/2026/02/09/houston-bitcoin-atm-fraud-cost-consumers-millions-how-to-protect-yourself/)**
+**[Nancy Guthrie family faces $6 million Bitcoin ransom demand: How such a payment would take place](https://fortune.com/2026/02/09/nancy-guthries-family-faces-6-million-bitcoin-ransom-demand/)**
 
-Bitcoin ATM fraud is a growing threat in Houston and nationwide. Awareness and quick action can help protect consumers and stop scammers.
+Savannah Guthrie and her siblings released a video saying ‘we will pay’.
 
-Click2Houston • 7h ago
-
----
-
-**[Files cast light on Jeffrey Epstein’s ties to cryptocurrency](https://www.theguardian.com/technology/2026/feb/09/jeffrey-epstein-crypto)**
-
-Newly released documents detail convicted sex offender’s early backing of bitcoin and Coinbase
-
-The Guardian • 6h ago
-
----
-
-**['Weakest bitcoin bear case in history': Bernstein reiterates $150,000 price target for 2026](https://www.theblock.co/post/389003/weakest-bitcoin-bear-case-in-history-bernstein-reiterates-150000-price-target)**
-
-Analysts at Bernstein said the current bitcoin downturn reflects a crisis of confidence rather than structural damage.
-
-The Block • 9h ago
-
----
-
-**[The Kidnappers Of Savannah Guthrie's Mom Want Bitcoin—But It’s Not As Anonymous As Many Think](https://www.forbes.com/sites/martinadilicosa/2026/02/06/the-kidnappers-of-savannah-guthries-mom-want-bitcoin-but-its-not-as-anonymous-as-many-think/)**
-
-Forbes • 3d ago
+Fortune • 3h ago
 
 ---
 
@@ -228,7 +220,15 @@ Forbes • 3d ago
 
 Captors have allegedly demanded $6 million in Bitcoin from the Guthrie family, as Nancy Guthrie remains missing her NBC anchor daughter pleads for her return.
 
-foxnews.com • 2h ago
+foxnews.com • 3h ago
+
+---
+
+**["There's a misperception that Bitcoin isn't traceable." What you should know about bitcoin amid the search for Nancy Guthrie](https://www.cnn.com/2026/02/09/us/video/theres-a-misperception-that-bitcoin-isnt-traceable-what-you-should-know-about-bitcoin-amid-the-search-for-nancy-guthrie-cnc)**
+
+Ahead of a pending ransom deadline in the Nancy Guthrie case, CNN News Central’s Kate Bolduan speaks with Juan Andres Guerrero-Saade, Vice President of Intelligence and Security Research at SentinelOne, about how bitcoin works and how it could actually help track down Guthrie’s abductor(s).
+
+cnn.com • 7h ago
 
 ---
 
@@ -252,7 +252,7 @@ Some market watchers have suggested $70,000 is a key level to watch and a break 
 
 **[Bitcoin tumbles below $70K, heavy losses in cryptocurrencies in last three weeks](https://news.ycombinator.com/item?id=46934165)**
 
-⬆️ 55 • 💬 66 • 1d ago • [bloomberg.com](https://www.bloomberg.com/news/articles/2026-02-05/bitcoin-drops-below-70-000-as-forced-deleveraging-accelerates)
+⬆️ 57 • 💬 66 • 1d ago • [bloomberg.com](https://www.bloomberg.com/news/articles/2026-02-05/bitcoin-drops-below-70-000-as-forced-deleveraging-accelerates)
 
 ---
 
@@ -320,7 +320,7 @@ CHECK OUT MY LINKTREE FOR EXCHANGES I USE, BONUSES, FREE VIDEOS, AND MORE! https
 
 📺 My Financial Friend
 
-👁️ 5K • 👍 389 • 💬 127 • ⏱️ 16:35 • 3h ago
+👁️ 5K • 👍 389 • 💬 127 • ⏱️ 16:35 • 4h ago
 
 ---
 
@@ -330,7 +330,7 @@ Watch my free masterclass & get Market Briefs as a bonus: https://briefs.finance
 
 📺 Minority Mindset
 
-👁️ 108K • 👍 4K • 💬 476 • ⏱️ 13:35 • 8h ago
+👁️ 108K • 👍 4K • 💬 476 • ⏱️ 13:35 • 9h ago
 
 ---
 
@@ -340,7 +340,7 @@ Bitcoin #Crypto #Finance Is Bitcoin nearing a bottom or still searching for one?
 
 📺 The Wolf Of All Streets
 
-👁️ 21K • 👍 1K • 💬 424 • ⏱️ 1:05:03 • 5h ago
+👁️ 21K • 👍 1K • 💬 424 • ⏱️ 1:05:03 • 6h ago
 
 ---
 
@@ -350,7 +350,7 @@ TOOBIT — CLAIM $50 & 20% SIGN UP BONUS ON YOUR DEPOSIT Limited spots available
 
 📺 100XClub
 
-👁️ 10K • 👍 958 • 💬 789 • ⏱️ 9:04 • 10h ago
+👁️ 10K • 👍 958 • 💬 789 • ⏱️ 9:04 • 11h ago
 
 ---
 
@@ -360,7 +360,7 @@ Stop Waking Up to Pee! (It is NOT Your Bladder) https://youtu.be/M1vdiQK5_DU [cl
 
 📺 MMCrypto
 
-👁️ 28K • 👍 3K • 💬 3K • ⏱️ 6:40 • 6h ago
+👁️ 28K • 👍 3K • 💬 3K • ⏱️ 6:40 • 7h ago
 
 ---
 
@@ -370,7 +370,7 @@ Make Free Predictions on *ClashPicks* ▻ https://www.clashpicks.com/ Follow Cla
 
 📺 CryptosRUs
 
-👁️ 19K • 👍 1K • 💬 934 • ⏱️ 43:45 • 5h ago
+👁️ 19K • 👍 1K • 💬 934 • ⏱️ 43:45 • 6h ago
 
 ---
 
@@ -380,7 +380,7 @@ ANTARCTIC EXCHANGE LOWEST FEES!   https://partner.antarctic.live/code/JaysonCasp
 
 📺 Jayson Casper
 
-👁️ 4K • 👍 392 • 💬 126 • ⏱️ 55:56 • 1h ago
+👁️ 4K • 👍 392 • 💬 126 • ⏱️ 55:56 • 2h ago
 
 ---
 
@@ -400,7 +400,7 @@ Mark Yusko Crypto Prediction's 2026 Follow: https://x.com/MarkYusko LIMITED TIME
 
 📺 Altcoin Daily
 
-👁️ 68K • 👍 3K • 💬 1K • ⏱️ 59:15 • 22h ago
+👁️ 68K • 👍 3K • 💬 1K • ⏱️ 59:15 • 23h ago
 
 ---
 
@@ -410,7 +410,7 @@ BTC #Bitcoin #Cryptocurrency Join Michael Saylor for his unforgettable keynote a
 
 📺 TradeMatik - Borsa Analizi
 
-👁️ 5K • 👍 4K • 2h ago
+👁️ 5K • 👍 4K • 3h ago
 
 ---
 
