@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-02-09T10:04:14.564599+00:00'
+updated: '2026-02-09T11:25:23.609991+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
+- social
 - videos
 - news
-- social
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** February 09, 2026 at 10:04 UTC  
+**Last Updated:** February 09, 2026 at 11:25 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -34,19 +34,19 @@ Robotics research and industry news
 
 **[Robot](https://www.reddit.com/r/robotics/comments/1qzw7nc/robot/)**
 
-4h ago
+5h ago
 
 ---
 
 **[LeRobot's ACT running on my robotic arm](https://www.reddit.com/r/robotics/comments/1qz65ru/lerobots_act_running_on_my_robotic_arm/)**
 
-23h ago
+1d ago
 
 ---
 
 **[Everbot Demo: Home gym bot, Factory QA, Fitness and AirBnb App](https://www.reddit.com/r/robotics/comments/1qzt9y0/everbot_demo_home_gym_bot_factory_qa_fitness_and/)**
 
-6h ago
+7h ago
 
 ---
 
@@ -54,7 +54,7 @@ Robotics research and industry news
 
 Repository: https://github.com/qrafty-ai/teleop_xr Any suggestions are welcome! https://reddit.com/link/1qzi0v4/video/53dekrjlmbig1/player
 
-14h ago
+16h ago
 
 ---
 
@@ -62,7 +62,7 @@ Repository: https://github.com/qrafty-ai/teleop_xr Any suggestions are welcome! 
 
 Hi everyone 👋 I’ve just released CANgaroo v0.4.5, an actively maintained, open-source Linux-native CAN / CAN-FD analyzer built around SocketCAN. This release focuses on making live CAN data easier to understand visually during everyday debugging. 🆕 What’s new in v0.4.5 📊 Real-time signal visualization Time-series charts Scatter plots Text views Interactive gauges (useful for live diagnostics) https://i.redd.it/iobhy7jphaig1.gif 🎯 What CANgaroo is aimed at CANgaroo is focused on everyday CAN debugging and monitoring, with a workflow similar to BusMaster / PCAN-View, but: Open-source Linux-native SocketCAN-first Easy to test using vcan (no hardware required) Supported interfaces include SocketCAN, CANable (SLCAN), Candlelight, and CANblaster (UDP). GitHub repo (screenshots + demo GIF included): 👉 https://github.com/OpenAutoDiagLabs/CANgaroo Feedback, feature requests, and real-world use cases are very welcome — especially from automotive, robotics, and industrial users.
 
-18h ago
+19h ago
 
 ---
 
@@ -70,7 +70,7 @@ Hi everyone 👋 I’ve just released CANgaroo v0.4.5, an actively maintained, o
 
 Just out of curiosity, and because I plan to make my own 4 wheeled rover + LLM/VLA as a personal project, has building a robot as a personal project ever helped when applying for a job/position/interview? Thinking of taking the jump myself, but it is quite costly so wanted to hear your story before I take the dip. thanks all
 
-20h ago
+21h ago
 
 ---
 
@@ -78,7 +78,7 @@ Just out of curiosity, and because I plan to make my own 4 wheeled rover + LLM/V
 
 I built a web based realtime reinforcement learning robot using webassembly and websockets. The model is a mix of hierarchal policy in addition to soft actor critic (sac) to get feedback from bevy (game engine) about torque and position of all 13 different components (joints, etc..) You can see the robot learning in real time here https://robot.zeyaddeeb.com/ And read a bit more tech choices here: https://www.zeyaddeeb.com/blog/posts/basketball-learning-robot Boston Dynamics Atlas does not stand a chance against this fella after 6 months of training (i think?!).
 
-17h ago
+18h ago
 
 ---
 
@@ -86,7 +86,7 @@ I built a web based realtime reinforcement learning robot using webassembly and 
 
 Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.
 
-🔗 [youtube.com](https://www.youtube.com/watch?v=FqfTQFuSalY) • 20h ago
+🔗 [youtube.com](https://www.youtube.com/watch?v=FqfTQFuSalY) • 22h ago
 
 ---
 
@@ -102,13 +102,21 @@ Pantograph website: https://pantograph.com/ Pantograph on 𝕏: http://x.com/pan
 
 We've been working on a depth completion model called LingBot-Depth (paper: arxiv.org/abs/2601.17895, code: github.com/robbyant/lingbot-depth) and wanted to share some real world results from our grasping pipeline since the depth sensor problem is something a lot of people here deal with. [Video] Demo: grasping transparent objects with LingBot-Depth The setup: Rokae XMate SR5 arm with an X Hand-1 dexterous hand, Orbbec Gemini 335 for perception. If you've used any consumer RGB-D camera (RealSense, Orbbec, etc.) you know the pain. Point it at a glass cup, a mirror, or a steel thermos and your depth map is just... holes. The stereo matching completely falls apart on those surfaces because both views look identical or distorted. We co-mounted a ZED mini as a reference and honestly it wasn't much better on glass walls and aquarium tunnels. The core idea behind LingBot-Depth is what we call Masked Depth Modeling. Instead of treating those missing depth regions as noise to filter out, we treat them as a natural training signal. We feed the model the full RGB image plus whatever valid depth tokens remain, and it learns to predict what's missing using visual context. The architecture is a ViT-Large encoder with separate patch embeddings for RGB and depth, followed by a ConvStack decoder. We pretrained on ~10M RGB-depth pairs (3M self-curated including 2M real captures from homes, offices, gyms, lobbies, outdoor scenes plus 1M synthetic with simulated stereo matching artifacts, and 7M from public datasets). The grasping results are what made this feel worth sharing here. We tested on four objects that are notorious sensor killers: Stainless steel cup: 13/20 with raw depth → 17/20 with our completed depth Transparent cup: 12/20 → 16/20 Toy car (mixed materials): 9/20 → 16/20 Transparent storage box: literally 0/20 with raw depth (the sensor returned almost nothing) → 10/20 with ours The 50% on the storage box is honestly not great and we're not going to pretend otherwise. Highly transparent surfaces with complex geometry are still hard. But going from completely ungraspable to 50% success felt like a meaningful step. The diffusion policy for grasp pose generation is conditioned on DINOv2 features plus point cloud features from a Point Transformer, trained on HOI4D with retargeted hand poses. On the depth completion benchmarks, we saw 40 to 50% RMSE reduction versus the next best method (PromptDA) on iBims, NYUv2, DIODE, and ETH3D. On sparse SfM inputs specifically, 47% RMSE improvement indoors and 38% outdoors compared to OMNI-DC variants. One thing that surprised us is the temporal consistency. We only trained on static images, no video data at all, but when we run it on 30fps Orbbec streams the output is remarkably stable across frames. We used this for online 3D point tracking with SpatialTrackerV2 and got much smoother camera trajectories compared to raw sensor depth, especially in scenes with glass walls where the raw depth causes severe drift. We released the code, checkpoints (HuggingFace and ModelScope), and the full 3M RGB-depth dataset. Inference runs at ~30fps on 640x480 frames with an A100, and should be reasonable on consumer GPUs like an RTX 3090 as well since the encoder is just a ViT-L/14. If you're working with consumer depth cameras and dealing with missing depth on tricky surfaces, this might be useful for your pipeline. Curious if anyone has tried similar approaches for depth refinement in their manipulation setups, or if there are specific failure cases you'd want us to test. We've mostly evaluated on tabletop grasping and indoor navigation so far.
 
-18h ago
+19h ago
 
 ---
 
 ---
 
 ## Google News: "robotics"
+
+**[Service Robots Market Navigating Challenges and Capitalizing on White-Space Opportunities | Astute Analytica](https://sg.finance.yahoo.com/news/robots-market-navigating-challenges-capitalizing-101800968.html)**
+
+The global service robots market is experiencing rapid expansion, driven by labor shortages and AI advancements. Key segments include professional (logistics, medical) and personal (domestic) applications, with North America holding a high market share due to surgical robot adoption.Chicago, Feb. 09, 2026 (GLOBE NEWSWIRE) -- According to recent data from Astute Analytica, the global service robots market is estimated to grow at a CAGR of more than 21% during the forecast period 2023-2031. The gr
+
+Yahoo Finance Singapore • 1h ago
+
+---
 
 **[Elon Musk warns the U.S. is '1,000% going to go bankrupt' unless AI and robotics save the economy from crushing debt](https://fortune.com/2026/02/07/elon-musk-us-bankruptcy-ai-robotics-economic-growth-national-debt-crisis/)**
 
@@ -118,41 +126,33 @@ Fortune • 1d ago
 
 ---
 
-**[The Autonomous Robotics Stock Wall Street Insiders Are Quietly Buying (Hint: It's Not Tesla)](https://finance.yahoo.com/news/autonomous-robotics-stock-wall-street-195000880.html)**
-
-This high-flying stock is about more than just military drones.
-
-Yahoo Finance • 14h ago
-
----
-
 **[What the SpaceX acquisition of xAI means for industrial robotics](https://www.therobotreport.com/what-the-spacex-acquisition-xai-means-for-industrial-robotics/)**
 
 The consolidation of SpaceX and xAI could lead to more adaptive use of robots, data, and AI in manufacturing, says Flexxbotics' CEO.
 
-The Robot Report • 20h ago
+The Robot Report • 21h ago
 
 ---
 
-**[Making robots useful and affordable will need better motors](https://www.bbc.com/news/articles/c5y46356zzyo)**
+**[Companies shouldn't rush to replace workers with robots. Here's why](https://qz.com/human-workers-ai-robots-automation-risks)**
 
-Firms are working to make the motors that drive robots more efficient and cheaper.
+Companies that replace humans with robots "risk losing their competitive edge," researchers say, as collaboration is the real key
 
-BBC • 3d ago
+qz.com • 1h ago
 
 ---
 
-**[Video Friday: Autonomous Robots Learn By Doing in This Factory](https://spectrum.ieee.org/autonomous-warehouse-robots)**
+**[The Autonomous Robotics Stock Wall Street Insiders Are Quietly Buying (Hint: It's Not Tesla)](https://www.fool.com/investing/2026/02/08/the-autonomous-robotics-stock-wall-street-insiders/)**
 
-These autonomous warehouse robots learn as they sort crates on Toyota's factory floor. Plus Zipline's drone-delivery learning curve
+This high-flying stock is about more than just military drones.
 
-IEEE Spectrum • 11h ago
+The Motley Fool • 15h ago
 
 ---
 
 **[Tesla's Robotics Revolution Won't Save It (NASDAQ:TSLA)](https://seekingalpha.com/article/4867567-teslas-robotics-revolution-would-not-save-it)**
 
-Seeking Alpha • 3h ago
+Seeking Alpha • 4h ago
 
 ---
 
@@ -160,7 +160,15 @@ Seeking Alpha • 3h ago
 
 Robotics Salary Gap
 
-The National Law Review • 1h ago
+The National Law Review • 2h ago
+
+---
+
+**[Chinese robot makers ready for Lunar New Year entertainment spotlight](https://wkzo.com/2026/02/09/chinese-robot-makers-ready-for-lunar-new-year-entertainment-spotlight/)**
+
+BEIJING, Feb 8 (Reuters) - In China, humanoid robots are serving as Lunar New Year entertainment, with their manufacturers pitching their song-and-dance skills to the general public as well as potential customers, investors and government officials. On...
+
+WKZO • 1h ago
 
 ---
 
@@ -172,17 +180,11 @@ Hackster.io • 2d ago
 
 ---
 
-**[The Rapid Rise of Humanoid Robots](https://oilprice.com/Energy/Energy-General/The-Rapid-Rise-of-Humanoid-Robots.html)**
+**[China: Humanoid robots perform kung fu moves with Shaolin monks in a viral video](https://interestingengineering.com/ai-robotics/humanoid-robots-kung-fu-with-shaolin-monks)**
 
-Automakers including Tesla and Hyundai are investing heavily in humanoid robots as a long-term cost-saving strategy, even as questions remain over productivity, technical feasibility, and the risk of widespread job losses.
+A group of humanoid robots made by Agibot performed kung fu moves at the Shaolin Temple in China, captivating viewers with their capabilities.
 
-Crude Oil Prices Today | OilPrice.com • 1d ago
-
----
-
-**[Minth Group Moves Into AI Robotics With U.S. Joint Venture](https://www.tipranks.com/news/company-announcements/minth-group-moves-into-ai-robotics-with-u-s-joint-venture)**
-
-TipRanks • 9h ago
+Interesting Engineering • 23m ago
 
 ---
 
@@ -226,7 +228,7 @@ Will a robot soon be watching your children or caring for your parents? Elon Mus
 
 📺 Unitree Robotics
 
-👁️ 211K • 👍 1K • 💬 150 • ⏱️ 0:45 • 6d ago
+👁️ 211K • 👍 1K • 💬 150 • ⏱️ 0:45 • 7d ago
 
 ---
 
@@ -280,7 +282,7 @@ This video is presented in partnership with the Robotics Education & Competition
 
 📺 FUN Robotics Network
 
-👁️ 3K • 👍 78 • 💬 8 • ⏱️ 1:15 • 13h ago
+👁️ 3K • 👍 78 • 💬 8 • ⏱️ 1:15 • 14h ago
 
 ---
 

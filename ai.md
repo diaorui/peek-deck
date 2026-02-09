@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-02-09T10:04:14.546588+00:00'
+updated: '2026-02-09T11:25:23.594324+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
+- social
 - videos
 - repositories
 - news
-- social
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** February 09, 2026 at 10:04 UTC  
+**Last Updated:** February 09, 2026 at 11:25 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -37,19 +37,19 @@ AI news, discussions, and developments
 
 ## Reddit: r/artificial
 
-**[I built a geolocation tool that can find exact coordinates of any image within 3 minutes [Tough demo 2]](https://www.reddit.com/r/artificial/comments/1qz5rz7/i_built_a_geolocation_tool_that_can_find_exact/)**
-
-Just wanted to say thanks for the thoughtful discussion and feedback on my previous post. I did not expect that level of interest, and I appreciate how constructive most of the comments were. Based on a few requests, I put together a short demonstration showing the system applied to a deliberately difficult street-level image. No obvious landmarks, no readable signage, no metadata. The location was verified in under two minutes. I am still undecided on the long-term direction of this work. That said, if there are people here interested in collaborating from a research, defensive, or ethical perspective, I am open to conversations. That could mean validation, red-teaming anything else. Thanks again to the community for the earlier discussion. Happy to answer high-level questions and hear thoughts on where tools like this should and should not go.
-
-23h ago
-
----
-
 **[Opinion | AI consciousness is nothing more than clever marketing](https://www.reddit.com/r/artificial/comments/1qzucuo/opinion_ai_consciousness_is_nothing_more_than/)**
 
 Companies have an incentive to make you believe that chatbots are conscious. Don’t fall for it.
 
-🔗 [The Washington Post](https://www.washingtonpost.com/opinions/2026/02/05/moltbook-anthropic-ai-consciousness-marketing/) • 5h ago
+🔗 [The Washington Post](https://www.washingtonpost.com/opinions/2026/02/05/moltbook-anthropic-ai-consciousness-marketing/) • 7h ago
+
+---
+
+**[I built a geolocation tool that can find exact coordinates of any image within 3 minutes [Tough demo 2]](https://www.reddit.com/r/artificial/comments/1qz5rz7/i_built_a_geolocation_tool_that_can_find_exact/)**
+
+Just wanted to say thanks for the thoughtful discussion and feedback on my previous post. I did not expect that level of interest, and I appreciate how constructive most of the comments were. Based on a few requests, I put together a short demonstration showing the system applied to a deliberately difficult street-level image. No obvious landmarks, no readable signage, no metadata. The location was verified in under two minutes. I am still undecided on the long-term direction of this work. That said, if there are people here interested in collaborating from a research, defensive, or ethical perspective, I am open to conversations. That could mean validation, red-teaming anything else. Thanks again to the community for the earlier discussion. Happy to answer high-level questions and hear thoughts on where tools like this should and should not go.
+
+1d ago
 
 ---
 
@@ -57,7 +57,7 @@ Companies have an incentive to make you believe that chatbots are conscious. Don
 
 Museums (and cities) could use better “self-guided” tech. At most museums right now, you’ve basically got two options: Pay for a human tour guide Rent one of those clunky old audio devices that feel straight out of the 90s It got me thinking: what if there were smart glasses designed for self-guided tours? Lightweight, with a strap battery so they last a full day Could work in museums or even city-wide walking tours Display info, images, maybe AR cues without needing your phone You can also ask questions since it uses AI
 
-6h ago
+7h ago
 
 ---
 
@@ -65,7 +65,7 @@ Museums (and cities) could use better “self-guided” tech. At most museums ri
 
 Every AI API provider gives you a snapshot of current usage. None of them show you trends over time, project when you will hit your limit, or let you compare across providers. I built onWatch to solve this. It runs in the background as a single Go binary, polls your configured providers every 60 seconds, stores everything locally in SQLite, and serves a web dashboard. What it shows you that providers do not: Usage history from 1 hour to 30 days Live countdowns to each quota reset Rate projections so you know if you will run out before the reset All providers side by side in one view Around 28 MB RAM, no dependencies, no telemetry, GPL-3.0. All data stays on your machine. https://onwatch.onllm.dev https://github.com/onllm-dev/onWatch
 
-23h ago
+1d ago
 
 ---
 
@@ -123,21 +123,19 @@ One of Kimi’s browser automation scripts uses a dark web library with crypto s
 
 In the race for AI, tech firms are asking for their staff to work long hours. But there are risks, experts say.
 
-BBC • 10h ago
+BBC • 11h ago
 
 ---
 
 **[Can AI Chatbots Write Emotionally Rich Romance Books?](https://www.nytimes.com/2026/02/08/business/ai-claude-romance-books.html)**
 
-The New York Times • 1d ago
+The New York Times • 20h ago
 
 ---
 
-**[Best AI Stock to Buy Right Now: Alphabet vs. Microsoft](https://finance.yahoo.com/news/best-ai-stock-buy-now-090500183.html)**
+**[Meta Hit By EU Warning to Open WhatsApp to Rival AI Chatbots](https://www.bloomberg.com/news/articles/2026-02-09/meta-hit-by-eu-warning-to-open-whatsapp-to-rival-ai-chatbots)**
 
-Both companies are delivering impressive results.
-
-Yahoo Finance • 59m ago
+bloomberg.com • 1h ago
 
 ---
 
@@ -145,35 +143,29 @@ Yahoo Finance • 59m ago
 
 The move follows the European Commission announcing an investigation in December into whether the social media giant had breached antitrust rules.
 
-CNBC • 8m ago
+CNBC • 1h ago
 
 ---
 
-**[Meta criticises EU antitrust move against WhatsApp block on AI rivals](https://www.reuters.com/sustainability/boards-policy-regulation/meta-criticises-eu-antitrust-move-against-whatsapp-block-ai-rivals-2026-02-09/)**
+**[Meta criticises EU antitrust move against WhatsApp block on AI rivals](https://finance.yahoo.com/news/meta-criticises-eu-antitrust-move-091828822.html)**
 
-Reuters • 45m ago
+Meta Platforms on Monday ​criticised EU regulators after ‌they charged the U.S. tech ‌giant with breaching antitrust rules and threaten to halt its block on ⁠AI rivals ‌on its messaging service WhatsApp.  "The ‍Commission's ⁠logic incorrectly assumes the WhatsApp Business API is ⁠a key distribution channel for ‌these chatbots."
 
----
-
-**[Meta Hit By EU Warning to Open WhatsApp to Rival AI Chatbots](https://www.bloomberg.com/news/articles/2026-02-09/meta-hit-by-eu-warning-to-open-whatsapp-to-rival-ai-chatbots)**
-
-bloomberg.com • 38m ago
+Yahoo Finance • 2h ago
 
 ---
 
-**[People are using AI for legal advice and it's driving lawyers bananas](https://www.axios.com/2026/02/09/ai-chatgpt-lawyer-legal-help)**
+**[Infineon Joins AI Funding Rush With First Euro Debt in a Year](https://www.bloomberg.com/news/articles/2026-02-09/infineon-joins-ai-funding-rush-with-first-euro-debt-in-a-year)**
 
-AI often gives clients a false impression of what's possible, lawyers tell Axios.
-
-Axios • 2m ago
+bloomberg.com • 1h ago
 
 ---
 
-**[How to hedge a bubble, AI edition](https://www.economist.com/finance-and-economics/2026/02/08/how-to-hedge-a-bubble-ai-edition)**
+**[AI agents failed at real-world consulting tasks — but Mercor's CEO says they're still on track to replace consultants](https://www.businessinsider.com/ai-agents-failed-consulting-tasks-mercor-ceo-improving-replace-consultants-2026-2)**
 
-Protecting your portfolio from a crash looks harder than ever
+Mercor found AI agents failed at most consulting tasks, but its CEO says the models are improving so rapidly consultants should be worried.
 
-The Economist • 19h ago
+Business Insider • 1h ago
 
 ---
 
@@ -181,15 +173,23 @@ The Economist • 19h ago
 
 While AI is having an impact on the workplace, experts suggest tariffs, overhiring during the pandemic and simply maximising profits may be bigger factors
 
-The Guardian • 18h ago
+The Guardian • 19h ago
 
 ---
 
-**[Can these Super Bowl ads make Americans love something they don’t like?](https://www.washingtonpost.com/technology/2026/02/08/super-bowl-ads-ai/)**
+**[How to hedge a bubble, AI edition](https://www.economist.com/finance-and-economics/2026/02/08/how-to-hedge-a-bubble-ai-edition)**
 
-We asked experts to review four commercials trying to win over the AI-skeptical American public.
+Protecting your portfolio from a crash looks harder than ever
 
-The Washington Post • 11h ago
+The Economist • 21h ago
+
+---
+
+**[Private credit worries resurface in $3 trillion market as AI pressures software firms](https://www.cnbc.com/2026/02/09/private-credit-software-firms-fall-ai-fears.html)**
+
+Artificial intelligence is adding a new layer of uncertainty to the private credit industry, raising concerns that some lenders may face rising defaults.
+
+CNBC • 6h ago
 
 ---
 
@@ -201,7 +201,7 @@ The Washington Post • 11h ago
 
 You're using AI to be more productive. So why are you more exhausted than ever? The paradox every engineer needs to confront.
 
-⬆️ 423 • 💬 290 • 19h ago • [Siddhant Khare](https://siddhantkhare.com/writing/ai-fatigue-is-real)
+⬆️ 425 • 💬 290 • 21h ago • [Siddhant Khare](https://siddhantkhare.com/writing/ai-fatigue-is-real)
 
 ---
 
@@ -209,7 +209,7 @@ You're using AI to be more productive. So why are you more exhausted than ever? 
 
 The hundreds of billions of dollars being spent by tech companies on AI projects are diverting resources from other parts of the economy.
 
-⬆️ 395 • 💬 696 • 1d ago • [The Washington Post](https://www.washingtonpost.com/technology/2026/02/07/ai-spending-economy-shortages/)
+⬆️ 395 • 💬 697 • 2d ago • [The Washington Post](https://www.washingtonpost.com/technology/2026/02/07/ai-spending-economy-shortages/)
 
 ---
 
@@ -221,6 +221,22 @@ AI is rarely optional anymore, but how can you still be proud of your craft? Dis
 
 ---
 
+**[AI makes the easy part easier and the hard part harder](https://news.ycombinator.com/item?id=46939593)**
+
+AI handles writing code but leaves the hard work: investigation, context, validation. Why vibe coding has limits and AI assistance can backfire.
+
+⬆️ 346 • 💬 256 • 12h ago • [blundergoat.com](https://www.blundergoat.com/articles/ai-makes-the-easy-part-easier-and-the-hard-part-harder)
+
+---
+
+**[Show HN: LocalGPT – A local-first AI assistant in Rust with persistent memory](https://news.ycombinator.com/item?id=46930391)**
+
+Contribute to localgpt-app/localgpt development by creating an account on GitHub.
+
+⬆️ 320 • 💬 149 • 1d ago • [GitHub](https://github.com/localgpt-app/localgpt)
+
+---
+
 **[Monty: A minimal, secure Python interpreter written in Rust for use by AI](https://news.ycombinator.com/item?id=46918254)**
 
 A minimal, secure Python interpreter written in Rust for use by AI - pydantic/monty
@@ -229,27 +245,11 @@ A minimal, secure Python interpreter written in Rust for use by AI - pydantic/mo
 
 ---
 
-**[Show HN: LocalGPT – A local-first AI assistant in Rust with persistent memory](https://news.ycombinator.com/item?id=46930391)**
-
-Contribute to localgpt-app/localgpt development by creating an account on GitHub.
-
-⬆️ 319 • 💬 148 • 1d ago • [GitHub](https://github.com/localgpt-app/localgpt)
-
----
-
-**[AI makes the easy part easier and the hard part harder](https://news.ycombinator.com/item?id=46939593)**
-
-AI handles writing code but leaves the hard work: investigation, context, validation. Why vibe coding has limits and AI assistance can backfire.
-
-⬆️ 318 • 💬 237 • 10h ago • [blundergoat.com](https://www.blundergoat.com/articles/ai-makes-the-easy-part-easier-and-the-hard-part-harder)
-
----
-
 **[TSMC to make advanced AI semiconductors in Japan](https://news.ycombinator.com/item?id=46941640)**
 
 Taiwan’s TSMC, the world’s largest contract computer chip maker, has announced it will be manufacturing advanced 3-nanometer semiconductors in Japan to meet booming AI demand.
 
-⬆️ 158 • 💬 96 • 5h ago • [AP News](https://apnews.com/article/semiconductors-tsmc-japan-taiwan-ai-11256f2bfde73ca23d08331ad138d6d5)
+⬆️ 175 • 💬 117 • 6h ago • [AP News](https://apnews.com/article/semiconductors-tsmc-japan-taiwan-ai-11256f2bfde73ca23d08331ad138d6d5)
 
 ---
 
@@ -257,7 +257,7 @@ Taiwan’s TSMC, the world’s largest contract computer chip maker, has announc
 
 Matchlock secures AI agent workloads with a Linux-based sandbox. - jingkaihe/matchlock
 
-⬆️ 138 • 💬 59 • 1d ago • [GitHub](https://github.com/jingkaihe/matchlock)
+⬆️ 141 • 💬 60 • 1d ago • [GitHub](https://github.com/jingkaihe/matchlock)
 
 ---
 
@@ -273,7 +273,7 @@ Microsoft, Nvidia, Oracle, Meta, Amazon and Alphabet all saw their shares fall i
 
 In the race for AI, tech firms are asking for their staff to work long hours. But there are risks, experts say.
 
-⬆️ 56 • 💬 80 • 8h ago • [bbc.com](https://www.bbc.com/news/articles/cvgn2k285ypo)
+⬆️ 57 • 💬 80 • 9h ago • [bbc.com](https://www.bbc.com/news/articles/cvgn2k285ypo)
 
 ---
 
@@ -287,7 +287,7 @@ A major AI shakeup is unfolding behind the scenes. A leaked internal memo sugges
 
 📺 AI Revolution
 
-👁️ 12K • 👍 467 • 💬 53 • ⏱️ 12:49 • 10h ago
+👁️ 12K • 👍 467 • 💬 53 • ⏱️ 12:49 • 11h ago
 
 ---
 
@@ -307,7 +307,7 @@ GET MY FREE GUIDE: *The Content Creator's AI Blueprint: From 25 Hours to 5 Minut
 
 📺 Julia McCoy
 
-👁️ 36K • 👍 2K • 💬 167 • ⏱️ 8:05 • 19h ago
+👁️ 36K • 👍 2K • 💬 167 • ⏱️ 8:05 • 20h ago
 
 ---
 
@@ -317,7 +317,7 @@ For more than 4000 years, the Great Pyramid of Giza has stood in silence amid th
 
 📺 Aline Rogerio
 
-👁️ 29K • 👍 2K • 💬 63 • ⏱️ 23:12 • 18h ago
+👁️ 29K • 👍 2K • 💬 63 • ⏱️ 23:12 • 19h ago
 
 ---
 
@@ -327,7 +327,7 @@ AI only creates leverage when it's applied with strategy, systems, and execution
 
 📺 AI Founders
 
-👁️ 3K • 👍 215 • 💬 11 • ⏱️ 17:45 • 16h ago
+👁️ 3K • 👍 215 • 💬 11 • ⏱️ 17:45 • 17h ago
 
 ---
 
@@ -367,7 +367,7 @@ AI is kinda stupid Dumb AI Top Posts , The Best Of Dumb AI Today we take a look 
 
 📺 Dark Dom
 
-👁️ 12K • 👍 870 • 💬 271 • ⏱️ 11:58 • 13h ago
+👁️ 12K • 👍 870 • 💬 271 • ⏱️ 11:58 • 14h ago
 
 ---
 
@@ -393,7 +393,7 @@ GLM-OCR is a 0.9B parameter multimodal OCR model for complex document understand
 
 `image-to-text`
 
-⬇️ 297,833 • ❤️ 849 • 4h ago
+⬇️ 297,833 • ❤️ 849 • 5h ago
 
 ---
 
@@ -417,7 +417,7 @@ MiniCPM-o 4.5 is a 9B parameter multimodal LLM excelling in vision, speech, and 
 
 `any-to-any` `9.4B`
 
-⬇️ 28,068 • ❤️ 652 • 1h ago
+⬇️ 28,068 • ❤️ 652 • 2h ago
 
 ---
 
@@ -451,7 +451,7 @@ ACE-Step 1.5 is an open-source text-to-audio model for commercial-grade music ge
 
 Voxtral-Mini-4B-Realtime-2602 is a multilingual, real-time speech-to-text model with <500ms latency, supporting 13 languages and achieving offline-comparable accuracy. It's optimized for on-device deployment and ideal for voice assistants and live subtitling.
 
-⬇️ 2,753 • ❤️ 407 • 12h ago
+⬇️ 2,753 • ❤️ 407 • 13h ago
 
 ---
 
@@ -497,7 +497,7 @@ Intern-S1-Pro is a trillion-scale MoE multimodal scientific reasoning model exce
 
 `image-text-to-text`
 
-⬇️ 8,455 • ❤️ 214 • 3h ago
+⬇️ 8,455 • ❤️ 214 • 4h ago
 
 ---
 
@@ -655,7 +655,7 @@ The Ultimate Collection of 700+ Agentic Skills for Claude Code/Antigravity/Curso
 
 `Python` `agentic-skills` `ai-agents` `antigravity` `autonomous-coding` `claude-code`
 
-⭐ 8.0k • 🔱 1.7k • 3h ago
+⭐ 8.0k • 🔱 1.7k • 4h ago
 
 ---
 
@@ -719,7 +719,7 @@ An app to monitor the (Codex) situation
 
 `TypeScript` `ai` `codex` `linux` `macos` `tauri-app`
 
-⭐ 2.3k • 🔱 213 • 1h ago
+⭐ 2.3k • 🔱 213 • 2h ago
 
 ---
 
