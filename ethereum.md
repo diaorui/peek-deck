@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-02-09T08:55:06.081441+00:00'
+updated: '2026-02-09T10:04:14.561353+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- news
-- cryptocurrency
-- social
 - videos
+- news
+- social
+- cryptocurrency
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** February 09, 2026 at 08:55 UTC  
+**Last Updated:** February 09, 2026 at 10:04 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -36,33 +36,33 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Price
 
-### $2,073.39
+### $2,035.53
 
 ---
 
 ## Ethereum Chart
 
-**24h:** -2.2%  
-**7d:** -8.1%  
-**30d:** -34.3%  
-**90d:** -39.9%  
-**1y:** -22.8%  
+**24h:** -4.2%  
+**7d:** -8.6%  
+**30d:** -34.6%  
+**90d:** -40.2%  
+**1y:** -23.2%  
 
 ---
 
 ## Ethereum Market Stats
 
-**Market Cap:** $250.61B
+**Market Cap:** $246.09B
 Rank #2
 
 **Circulating Supply:** 120,692,614 ETH
 No max supply
 
 **All-Time High:** $4,946.05
--58.1%
+-58.8%
 
 **All-Time Low:** $0.43
-+478745.4%
++470664.2%
 
 ---
 
@@ -72,7 +72,7 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-2h ago
+4h ago
 
 ---
 
@@ -80,7 +80,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 World News, Stories By EtherWorld, Technical Explainers, Client News & Updates, Podcasts, Upcoming Events & Jobs
 
-🔗 [EtherWorld.co](https://etherworld.co/etherworld-weekly-edition-350/) • 2h ago
+🔗 [EtherWorld.co](https://etherworld.co/etherworld-weekly-edition-350/) • 4h ago
 
 ---
 
@@ -88,7 +88,7 @@ World News, Stories By EtherWorld, Technical Explainers, Client News & Updates, 
 
 eth-mempool-monitor subscribes to Ethereum pending transactions over WebSocket, filters them against a monitored address set stored in Redis/Valkey, and publishes matching transactions to RabbitMQ. The project builds three binaries: eth_mempool_monitor: WebSocket subscriber + Redis filter + RabbitMQ publisher. rpc_control: newline-delimited JSON-RPC TCP server used to manage monitored addresses in Redis (token-authenticated). rabbitmq_tx_console: RabbitMQ consumer that prints monitored-transaction events in human-readable form.
 
-🔗 [GitHub](https://github.com/ThirdLetterC/eth-mempool-monitor) • 8h ago
+🔗 [GitHub](https://github.com/ThirdLetterC/eth-mempool-monitor) • 9h ago
 
 ---
 
@@ -104,7 +104,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 I'm willing to stake my ETH that I have on my ledger, is this safe to use lido from the ledger?
 
-10h ago
+11h ago
 
 ---
 
@@ -112,7 +112,7 @@ I'm willing to stake my ETH that I have on my ledger, is this safe to use lido f
 
 I manually architected a Dual-STACK Execution and Consensus Engine that bypasses the entire public RPC industry. Hardware; Managed a 4TB NVMe volume with 3.3TB Optimism state and a pruned L1 Reth/Lighthouse combo. I compiled Lighthouse and Reth from source after Optimism-specific codebase was deprecated mid-sync. I achieved 0ms IPC round trips by killing the dependency on Alchemy/Infura Ran into a few problems along the way. I tried to run a standard Ethereum binary on Optimism data. The node crashed because it saw a transaction type it didn't recognize (Type 126 which is an Optimism deposit) Standard Ethereum node thinks this is illegal data. To fix it, I identified that i needed a specialized OP-Stack aware version of Reth. I tracked down the Paradigm Reth Optimism binary. By switching to the op-reth binary i gave the node the dictionary it needed to translate those Type 126 deposits into valid blocks. I moved from a blind Ethereum node to a Super chain-aware engine. The Reth engine was idling. It had peers and a database, but it didn't know where the tip of the chain was, so it stayed at block 0. I realized a modern node was a Two-Part Machine. So I built the Lighthouse Consensus Client from source to be the "Driver" Instead of waiting weeks to download the chain from 2015 i used a Checkpoint Sync URL. I linked Lighthouse to Reth via the Engine API ()Port 8551/8552) using a shared JWT Secret. The moment Lighthouse found the "Truth" on the network, it handed the coordinates to Reth. The node immediately jumped from 0 to 21,800,000 and the 1.9TB of free space started filling with real history. The real nightmare scenario happened when I was syncing the snapshot data and because of a single transaction type the whole thing crashed. My sync was flying for about 15 hours and when I woke up to check it found it had stalled. It hit block 144,528215 where it encountered an Optimism-specific Type 126 Deposit transaction. Because I was running the standard Ethereum Reth binary instead of the specialized Op-Reth version from paradigm, the node literally didn't have the code to read it understand what type 126 transaction it was. This didn't just crash the sync, it left garbage data at the tip of my database, which blocked further progress until I swapped binary and manually forced a stage rewind to clear corruption. In the grand scheme of thing's it was a rookie mistake.
 
-14h ago
+15h ago
 
 ---
 
@@ -120,7 +120,7 @@ I manually architected a Dual-STACK Execution and Consensus Engine that bypasses
 
 So I have some eth staked on coinbase but wondering how risky it is.. should I be looking somewhere else or is coinbase a good call? I don't answer private messages thanks
 
-15h ago
+16h ago
 
 ---
 
@@ -128,7 +128,7 @@ So I have some eth staked on coinbase but wondering how risky it is.. should I b
 
 Non-custodial privacy protocol for anonymous ETH transactions. Break the on-chain link using zero-knowledge proofs. Live on Ethereum mainnet.
 
-🔗 [Laundry Cash](https://ethlaundry.xyz) • 15h ago
+🔗 [Laundry Cash](https://ethlaundry.xyz) • 16h ago
 
 ---
 
@@ -166,11 +166,11 @@ The Cool Down • 1d ago
 
 ---
 
-**[Tom Lee’s BitMine Adds Another $42 Million in Ethereum Despite Crypto Winter](https://finance.yahoo.com/news/tom-lee-bitmine-adds-another-210000254.html)**
+**[Ethereum Is More Popular Than Ever. Should You Invest $1,000?](https://finance.yahoo.com/news/ethereum-more-popular-ever-invest-092000879.html)**
 
-BitMine has expanded its Ethereum hodings by acquiring an additional 20,000 ETH for nearly $42 million this week.
+This kind of popularity isn't necessarily something to root for as an investor in this coin.
 
-Yahoo Finance • 11h ago
+Yahoo Finance • 44m ago
 
 ---
 
@@ -182,6 +182,14 @@ The Motley Fool • 1d ago
 
 ---
 
+**[The Vibes From the 'Davos for Degens' as Bitcoin and Ethereum Plummeted](https://decrypt.co/357315/vibes-davos-degens-bitcoin-ethereum-plummeted)**
+
+At a conference dedicated to the riskiest traders in finance, Miami's crypto scene appeared far different than during its pandemic-era boom.
+
+Decrypt • 17h ago
+
+---
+
 **[ENS Labs scraps Namechain L2, shifts ENSv2 fully to Ethereum mainnet](https://www.theblock.co/post/388932/ens-labs-scraps-namechain-l2-shifts-ensv2-fully-ethereum-mainnet)**
 
 ENS Labs is canceling the launch of the Namechain Layer 2, which began development in 2024 to support the forthcoming ENSv2 update.
@@ -190,27 +198,19 @@ The Block • 2d ago
 
 ---
 
-**[The Vibes From the 'Davos for Degens' as Bitcoin and Ethereum Plummeted](https://decrypt.co/357315/vibes-davos-degens-bitcoin-ethereum-plummeted)**
-
-At a conference dedicated to the riskiest traders in finance, Miami's crypto scene appeared far different than during its pandemic-era boom.
-
-Decrypt • 16h ago
-
----
-
-**[Crypto prices on Friday: Bitcoin, Ethereum and more tick upward](https://mashable.com/article/crypto-bitcoin-ethereum-prices-tick-upward-friday-2-6-2026)**
-
-Prices are climbing back up after the biggest crypto crash since 2022.
-
-Mashable • 2d ago
-
----
-
 **[Ethereum Price Is Not Going To Keep Falling Forever, Analyst Says](https://www.tradingview.com/news/newsbtc:6ebc821a3094b:0-ethereum-price-is-not-going-to-keep-falling-forever-analyst-says/)**
 
 Ethereum’s recent sell-off has weighed heavily on sentiment after the price fell below the $2,000 level and pulled much of the altcoin market lower alongside it. The move has caused sweeping fear and caution among Ethereum traders. However, some analysts are of the notion that a bullish upside will…
 
 TradingView • 1d ago
+
+---
+
+**[Tom Lee’s BitMine Adds Another $42 Million in Ethereum Despite Crypto Winter](https://finance.yahoo.com/news/tom-lee-bitmine-adds-another-210000254.html)**
+
+BitMine has expanded its Ethereum hodings by acquiring an additional 20,000 ETH for nearly $42 million this week.
+
+Yahoo Finance • 13h ago
 
 ---
 
@@ -238,7 +238,7 @@ Welcome back home Ethereum! This time I think ETH will kick its feet back and st
 
 📺 Benjamin Cowen
 
-👁️ 1K • 👍 1K • 💬 91 • ⏱️ 14:29 • 3h ago
+👁️ 26K • 👍 2K • 💬 135 • ⏱️ 14:29 • 4h ago
 
 ---
 
@@ -248,37 +248,7 @@ This video provides a professional Elliott Wave and technical analysis of Ethere
 
 📺 More Crypto Online
 
-👁️ 1K • 👍 145 • 💬 5 • ⏱️ 5:37 • 6h ago
-
----
-
-**[Ethereum Elliott Wave Update – Key Resistance Levels Ahead](https://www.youtube.com/watch?v=jPf8REU4pbU)**
-
-This video provides a professional Elliott Wave and technical analysis of Ethereum (ETH), focusing on market structure, major ...
-
-📺 More Crypto Online
-
-👁️ 3K • 👍 225 • 💬 13 • ⏱️ 5:58 • 16h ago
-
----
-
-**[BITCOIN WILL SHOCK EVERYONE (Breakout Loading)!!! - Bitcoin News Today, Ethereum &amp; Altcoins](https://www.youtube.com/watch?v=6VEtJwjh-Z4)**
-
-BITCOIN WILL SHOCK EVERYONE (Breakout Loading)!!! - Bitcoin News Today, Ethereum & Altcoins *Bitunix* ...
-
-📺 Crypto World
-
-👁️ 9K • 👍 345 • 💬 119 • ⏱️ 16:36 • 9h ago
-
----
-
-**[Fundstrat&#39;s Tom Lee: Crypto looks like it is bottoming now](https://www.youtube.com/watch?v=Fh8djni6jHU)**
-
-Tom Lee, Fundstrat, joins 'Closing Bell' to discuss the state of crypto markets, Bitmine's business and much more.
-
-📺 CNBC Television
-
-👁️ 89K • 👍 853 • 💬 335 • ⏱️ 3:53 • 2d ago
+👁️ 2K • 👍 181 • 💬 11 • ⏱️ 5:37 • 7h ago
 
 ---
 
@@ -288,7 +258,37 @@ ETHEREUM ETH PRICE PREDICTION 2026 Join the Premium Signal Group for trade setup
 
 📺 Cilinix Crypto
 
-👁️ 1K • 👍 22 • 💬 3 • ⏱️ 4:21 • 22h ago
+👁️ 1K • 👍 22 • 💬 3 • ⏱️ 4:21 • 1d ago
+
+---
+
+**[BITCOIN WILL SHOCK EVERYONE (Breakout Loading)!!! - Bitcoin News Today, Ethereum &amp; Altcoins](https://www.youtube.com/watch?v=6VEtJwjh-Z4)**
+
+BITCOIN WILL SHOCK EVERYONE (Breakout Loading)!!! - Bitcoin News Today, Ethereum & Altcoins *Bitunix* ...
+
+📺 Crypto World
+
+👁️ 10K • 👍 373 • 💬 106 • ⏱️ 16:36 • 11h ago
+
+---
+
+**[Ethereum Elliott Wave Update – Key Resistance Levels Ahead](https://www.youtube.com/watch?v=jPf8REU4pbU)**
+
+This video provides a professional Elliott Wave and technical analysis of Ethereum (ETH), focusing on market structure, major ...
+
+📺 More Crypto Online
+
+👁️ 3K • 👍 227 • 💬 13 • ⏱️ 5:58 • 17h ago
+
+---
+
+**[Fundstrat&#39;s Tom Lee: Crypto looks like it is bottoming now](https://www.youtube.com/watch?v=Fh8djni6jHU)**
+
+Tom Lee, Fundstrat, joins 'Closing Bell' to discuss the state of crypto markets, Bitmine's business and much more.
+
+📺 CNBC Television
+
+👁️ 89K • 👍 853 • 💬 336 • ⏱️ 3:53 • 2d ago
 
 ---
 
@@ -298,17 +298,27 @@ Uhh... so... is anyone else getting that strange feeling that something big is a
 
 📺 Money Rules - Investing Tips 
 
-👁️ 13K • 👍 2K • 💬 278 • ⏱️ 13:13 • 2d ago
+👁️ 13K • 👍 2K • 💬 279 • ⏱️ 13:13 • 2d ago
 
 ---
 
-**[Ethereum Elliott Wave Update – Key Resistance Levels Ahead](https://www.youtube.com/watch?v=H_Y7-M-mSto)**
+**[Il se passe quelque chose de fou sur Ethereum](https://www.youtube.com/watch?v=d9cazkz9KTo)**
 
-This video provides a professional Elliott Wave and technical analysis of Ethereum (ETH), focusing on market structure, major ...
+L'exchange crypto le plus sérieux du marché, c'est lui. Régulé US & Europe, jamais hacké, interface clean, support 24/7 ...
 
-📺 More Crypto Online
+📺 Crypto Mindset Podcast 
 
-👁️ 4K • 👍 209 • 💬 11 • ⏱️ 4:56 • 1d ago
+👁️ 4K • 👍 234 • 💬 57 • ⏱️ 10:19 • 22h ago
+
+---
+
+**[Alex Becker just flipped his entire 2026 crypto thesis?!…](https://www.youtube.com/watch?v=vFSE2QvN5iI)**
+
+Alex Becker just flipped his entire 2026 crypto thesis?!… ➡️ Important Links: Join The Inner Circle (wallet tracker): ...
+
+📺 Across The Rubicon
+
+👁️ 11K • 👍 543 • 💬 45 • ⏱️ 22:14 • 15h ago
 
 ---
 
@@ -319,16 +329,6 @@ One of the biggest crypto crashes in history! Here is what happened, why and my 
 📺 Thomas Kralow
 
 👁️ 43K • 👍 2K • 💬 81 • ⏱️ 11:51 • 2d ago
-
----
-
-**[Pour l&#39;Empereur d&#39;Ethereum, les rollups doivent être jetés aux lions - Actu crypto 🗞️](https://www.youtube.com/watch?v=kBAooka4YCo)**
-
-10 % de remise à vie sur vos frais de trading en achetant des cryptos sur Binance ▻ https://journalducoin.com/Binance/CTA10 ...
-
-📺 Journal du Coin
-
-👁️ 3K • 👍 215 • 💬 7 • ⏱️ 10:35 • 16h ago
 
 ---
 

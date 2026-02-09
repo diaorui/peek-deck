@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-02-09T08:55:06.068862+00:00'
+updated: '2026-02-09T10:04:14.546588+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- news
-- repositories
-- social
 - videos
+- repositories
+- news
+- social
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** February 09, 2026 at 08:55 UTC  
+**Last Updated:** February 09, 2026 at 10:04 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -41,7 +41,7 @@ AI news, discussions, and developments
 
 Just wanted to say thanks for the thoughtful discussion and feedback on my previous post. I did not expect that level of interest, and I appreciate how constructive most of the comments were. Based on a few requests, I put together a short demonstration showing the system applied to a deliberately difficult street-level image. No obvious landmarks, no readable signage, no metadata. The location was verified in under two minutes. I am still undecided on the long-term direction of this work. That said, if there are people here interested in collaborating from a research, defensive, or ethical perspective, I am open to conversations. That could mean validation, red-teaming anything else. Thanks again to the community for the earlier discussion. Happy to answer high-level questions and hear thoughts on where tools like this should and should not go.
 
-22h ago
+23h ago
 
 ---
 
@@ -49,7 +49,7 @@ Just wanted to say thanks for the thoughtful discussion and feedback on my previ
 
 Companies have an incentive to make you believe that chatbots are conscious. Don’t fall for it.
 
-🔗 [The Washington Post](https://www.washingtonpost.com/opinions/2026/02/05/moltbook-anthropic-ai-consciousness-marketing/) • 4h ago
+🔗 [The Washington Post](https://www.washingtonpost.com/opinions/2026/02/05/moltbook-anthropic-ai-consciousness-marketing/) • 5h ago
 
 ---
 
@@ -57,7 +57,7 @@ Companies have an incentive to make you believe that chatbots are conscious. Don
 
 Museums (and cities) could use better “self-guided” tech. At most museums right now, you’ve basically got two options: Pay for a human tour guide Rent one of those clunky old audio devices that feel straight out of the 90s It got me thinking: what if there were smart glasses designed for self-guided tours? Lightweight, with a strap battery so they last a full day Could work in museums or even city-wide walking tours Display info, images, maybe AR cues without needing your phone You can also ask questions since it uses AI
 
-5h ago
+6h ago
 
 ---
 
@@ -65,7 +65,7 @@ Museums (and cities) could use better “self-guided” tech. At most museums ri
 
 Every AI API provider gives you a snapshot of current usage. None of them show you trends over time, project when you will hit your limit, or let you compare across providers. I built onWatch to solve this. It runs in the background as a single Go binary, polls your configured providers every 60 seconds, stores everything locally in SQLite, and serves a web dashboard. What it shows you that providers do not: Usage history from 1 hour to 30 days Live countdowns to each quota reset Rate projections so you know if you will run out before the reset All providers side by side in one view Around 28 MB RAM, no dependencies, no telemetry, GPL-3.0. All data stays on your machine. https://onwatch.onllm.dev https://github.com/onllm-dev/onWatch
 
-22h ago
+23h ago
 
 ---
 
@@ -73,7 +73,7 @@ Every AI API provider gives you a snapshot of current usage. None of them show y
 
 Countries have been building their own “sovereign AI” to reflect their culture and values, and OpenAI wants to help them....
 
-🔗 [Sherwood News](https://sherwood.news/tech/report-openai-may-tailor-a-version-of-chatgpt-for-uae-that-prohibits-lgbtq/) • 1d ago
+🔗 [Sherwood News](https://sherwood.news/tech/report-openai-may-tailor-a-version-of-chatgpt-for-uae-that-prohibits-lgbtq/) • 2d ago
 
 ---
 
@@ -123,13 +123,49 @@ One of Kimi’s browser automation scripts uses a dark web library with crypto s
 
 In the race for AI, tech firms are asking for their staff to work long hours. But there are risks, experts say.
 
-BBC • 8h ago
+BBC • 10h ago
 
 ---
 
 **[Can AI Chatbots Write Emotionally Rich Romance Books?](https://www.nytimes.com/2026/02/08/business/ai-claude-romance-books.html)**
 
-The New York Times • 17h ago
+The New York Times • 1d ago
+
+---
+
+**[Best AI Stock to Buy Right Now: Alphabet vs. Microsoft](https://finance.yahoo.com/news/best-ai-stock-buy-now-090500183.html)**
+
+Both companies are delivering impressive results.
+
+Yahoo Finance • 59m ago
+
+---
+
+**[EU announces it plans to impose measures on Meta to reverse WhatsApp AI policy](https://www.cnbc.com/2026/02/09/eu-interim-measures-meta-whatsapp-ai-policy-antritrust.html)**
+
+The move follows the European Commission announcing an investigation in December into whether the social media giant had breached antitrust rules.
+
+CNBC • 8m ago
+
+---
+
+**[Meta criticises EU antitrust move against WhatsApp block on AI rivals](https://www.reuters.com/sustainability/boards-policy-regulation/meta-criticises-eu-antitrust-move-against-whatsapp-block-ai-rivals-2026-02-09/)**
+
+Reuters • 45m ago
+
+---
+
+**[Meta Hit By EU Warning to Open WhatsApp to Rival AI Chatbots](https://www.bloomberg.com/news/articles/2026-02-09/meta-hit-by-eu-warning-to-open-whatsapp-to-rival-ai-chatbots)**
+
+bloomberg.com • 38m ago
+
+---
+
+**[People are using AI for legal advice and it's driving lawyers bananas](https://www.axios.com/2026/02/09/ai-chatgpt-lawyer-legal-help)**
+
+AI often gives clients a false impression of what's possible, lawyers tell Axios.
+
+Axios • 2m ago
 
 ---
 
@@ -137,37 +173,7 @@ The New York Times • 17h ago
 
 Protecting your portfolio from a crash looks harder than ever
 
-The Economist • 18h ago
-
----
-
-**[AI Fear Grips Wall Street as a New Stock Market Reality Sets In](https://finance.yahoo.com/news/ai-fear-grips-wall-street-140007396.html)**
-
-Last week, those concerns suddenly spilled over into the stock market.  In response, investors dumped a broad range of stocks, from Expedia Group Inc. to Salesforce Inc. to London Stock Exchange Group Plc.  “Things are shipping out weekly, daily,” said Daniel Newman, chief executive officer of the Futurum Group.
-
-Yahoo Finance • 18h ago
-
----
-
-**[The AI narrative now has a new trade — shorting software stocks](https://www.cnbc.com/2026/02/09/ai-anthropic-software-short-selling-tech-sell-off-private-credit-funds.html)**
-
-Anthropic's new AI tool offers a challenge to established software services.
-
-CNBC • 1h ago
-
----
-
-**[Neuro-Symbolic AI Steps Up To Produce Robust Mental Health Treatment Plans](https://www.forbes.com/sites/lanceeliot/2026/02/09/neuro-symbolic-ai-steps-up-to-produce-robust-mental-health-treatment-plans/)**
-
-Forbes • 40m ago
-
----
-
-**[Alibaba's overloaded AI chatbot stops issuing coupons, asks shoppers for patience](https://finance.yahoo.com/news/alibabas-overloaded-ai-chatbot-stops-074505329.html)**
-
-Alibaba's artificial intelligence chatbot Qwen has temporarily stopped issuing coupons due to customer overload, hampering ​a new campaign to promote the tool's capabilities beyond simply ‌answering questions to assist shopping.  Qwen began offering coupons to users on Friday that allow for ‌in-app purchases from Alibaba-owned retail platforms using chatbot prompts alone.  The initiative is the first phase in a 3-billion-yuan ($433 million) plan to attract more users to the chatbot during China's annual Spring Festival holiday.
-
-Yahoo Finance • 13m ago
+The Economist • 19h ago
 
 ---
 
@@ -175,7 +181,7 @@ Yahoo Finance • 13m ago
 
 While AI is having an impact on the workplace, experts suggest tariffs, overhiring during the pandemic and simply maximising profits may be bigger factors
 
-The Guardian • 16h ago
+The Guardian • 18h ago
 
 ---
 
@@ -183,15 +189,7 @@ The Guardian • 16h ago
 
 We asked experts to review four commercials trying to win over the AI-skeptical American public.
 
-The Washington Post • 10h ago
-
----
-
-**[From Svedka to Anthropic, brands make bold plays with AI in Super Bowl ads](https://techcrunch.com/2026/02/08/super-bowl-60-ai-ads-svedka-anthropic-brands-commercials/)**
-
-From the first AI-generated Big Game ad courtesy of Svedka to Anthropic's beef with OpenAI, here are the biggest ads from Super Bowl LX.
-
-TechCrunch • 16h ago
+The Washington Post • 11h ago
 
 ---
 
@@ -199,19 +197,11 @@ TechCrunch • 16h ago
 
 ## HackerNews: "ai"
 
-**[A new bill in New York would require disclaimers on AI-generated news content](https://news.ycombinator.com/item?id=46910963)**
-
-A new bill in the New York state legislature would require news organizations to label AI-generated material and mandate that humans review any such content before publication. On Monday, Senator Patricia Fahy (D-Albany) and Assemblymember Nily Rozic (D-NYC) introduced the bill, called The New York…
-
-⬆️ 575 • 💬 238 • 2d ago • [Nieman Lab](https://www.niemanlab.org/2026/02/a-new-bill-in-new-york-would-require-disclaimers-on-ai-generated-news-content/)
-
----
-
 **[AI fatigue is real and nobody talks about it](https://news.ycombinator.com/item?id=46934404)**
 
 You're using AI to be more productive. So why are you more exhausted than ever? The paradox every engineer needs to confront.
 
-⬆️ 421 • 💬 289 • 18h ago • [Siddhant Khare](https://siddhantkhare.com/writing/ai-fatigue-is-real)
+⬆️ 423 • 💬 290 • 19h ago • [Siddhant Khare](https://siddhantkhare.com/writing/ai-fatigue-is-real)
 
 ---
 
@@ -219,7 +209,7 @@ You're using AI to be more productive. So why are you more exhausted than ever? 
 
 The hundreds of billions of dollars being spent by tech companies on AI projects are diverting resources from other parts of the economy.
 
-⬆️ 393 • 💬 694 • 1d ago • [The Washington Post](https://www.washingtonpost.com/technology/2026/02/07/ai-spending-economy-shortages/)
+⬆️ 395 • 💬 696 • 1d ago • [The Washington Post](https://www.washingtonpost.com/technology/2026/02/07/ai-spending-economy-shortages/)
 
 ---
 
@@ -227,7 +217,7 @@ The hundreds of billions of dollars being spent by tech companies on AI projects
 
 AI is rarely optional anymore, but how can you still be proud of your craft? Discover the workflow to effectively write high-quality, robust code using AI tools.
 
-⬆️ 351 • 💬 302 • 2d ago • [heidenstedt.org](https://heidenstedt.org/posts/2026/how-to-effectively-write-quality-code-with-ai/)
+⬆️ 351 • 💬 303 • 2d ago • [heidenstedt.org](https://heidenstedt.org/posts/2026/how-to-effectively-write-quality-code-with-ai/)
 
 ---
 
@@ -251,7 +241,15 @@ Contribute to localgpt-app/localgpt development by creating an account on GitHub
 
 AI handles writing code but leaves the hard work: investigation, context, validation. Why vibe coding has limits and AI assistance can backfire.
 
-⬆️ 296 • 💬 227 • 9h ago • [blundergoat.com](https://www.blundergoat.com/articles/ai-makes-the-easy-part-easier-and-the-hard-part-harder)
+⬆️ 318 • 💬 237 • 10h ago • [blundergoat.com](https://www.blundergoat.com/articles/ai-makes-the-easy-part-easier-and-the-hard-part-harder)
+
+---
+
+**[TSMC to make advanced AI semiconductors in Japan](https://news.ycombinator.com/item?id=46941640)**
+
+Taiwan’s TSMC, the world’s largest contract computer chip maker, has announced it will be manufacturing advanced 3-nanometer semiconductors in Japan to meet booming AI demand.
+
+⬆️ 158 • 💬 96 • 5h ago • [AP News](https://apnews.com/article/semiconductors-tsmc-japan-taiwan-ai-11256f2bfde73ca23d08331ad138d6d5)
 
 ---
 
@@ -263,14 +261,6 @@ Matchlock secures AI agent workloads with a Linux-based sandbox. - jingkaihe/mat
 
 ---
 
-**[TSMC to make advanced AI semiconductors in Japan](https://news.ycombinator.com/item?id=46941640)**
-
-Taiwan’s TSMC, the world’s largest contract computer chip maker, has announced it will be manufacturing advanced 3-nanometer semiconductors in Japan to meet booming AI demand.
-
-⬆️ 129 • 💬 69 • 4h ago • [AP News](https://apnews.com/article/semiconductors-tsmc-japan-taiwan-ai-11256f2bfde73ca23d08331ad138d6d5)
-
----
-
 **[Amazon plunge continues $1T wipeout as AI bubble fears ignite sell-off](https://news.ycombinator.com/item?id=46913302)**
 
 Microsoft, Nvidia, Oracle, Meta, Amazon and Alphabet all saw their shares fall in the week up to the market close on Thursday.
@@ -279,9 +269,27 @@ Microsoft, Nvidia, Oracle, Meta, Amazon and Alphabet all saw their shares fall i
 
 ---
 
+**[In the AI gold rush, tech firms are embracing 72-hour weeks](https://news.ycombinator.com/item?id=46940511)**
+
+In the race for AI, tech firms are asking for their staff to work long hours. But there are risks, experts say.
+
+⬆️ 56 • 💬 80 • 8h ago • [bbc.com](https://www.bbc.com/news/articles/cvgn2k285ypo)
+
+---
+
 ---
 
 ## YouTube Videos: "ai"
+
+**[Shocking Leak Reveals AI Model 100x Leaner And 10x Stronger (Avocado AI)](https://www.youtube.com/watch?v=Z4Q_7zM8dcM)**
+
+A major AI shakeup is unfolding behind the scenes. A leaked internal memo suggests Meta's new model, Avocado, is already ...
+
+📺 AI Revolution
+
+👁️ 12K • 👍 467 • 💬 53 • ⏱️ 12:49 • 10h ago
+
+---
 
 **[The AI crash will change everything](https://www.youtube.com/watch?v=FEbC3xJBRf8)**
 
@@ -289,7 +297,7 @@ Become a member! ✓ https://www.youtube.com/channel/UCahJ9IsvXnaQiuNyWQSkrkw/jo
 
 📺 Chris Norlund
 
-👁️ 125K • 👍 7K • 💬 2K • ⏱️ 17:42 • 1d ago
+👁️ 127K • 👍 7K • 💬 2K • ⏱️ 17:42 • 1d ago
 
 ---
 
@@ -299,67 +307,37 @@ GET MY FREE GUIDE: *The Content Creator's AI Blueprint: From 25 Hours to 5 Minut
 
 📺 Julia McCoy
 
-👁️ 33K • 👍 2K • 💬 155 • ⏱️ 8:05 • 17h ago
+👁️ 36K • 👍 2K • 💬 167 • ⏱️ 8:05 • 19h ago
 
 ---
 
-**[AI videos are getting scary](https://www.youtube.com/watch?v=i-jz8SvTLus)**
+**[Grok AI Just Revealed The TRUE Purpose of The Pyramids — and It’s Shocking!](https://www.youtube.com/watch?v=HxfPv3FcwQU)**
 
-Can you spot AI videos easily? #tech #ai #surfshark.
+For more than 4000 years, the Great Pyramid of Giza has stood in silence amid the desert, defying time through its sheer presence ...
 
-📺 Surfshark Academy
+📺 Aline Rogerio
 
-👁️ 17K • 👍 3K • 💬 67 • ⏱️ 1:17 • 17h ago
-
----
-
-**[Shocking Leak Reveals AI Model 100x Leaner And 10x Stronger (Avocado AI)](https://www.youtube.com/watch?v=Z4Q_7zM8dcM)**
-
-A major AI shakeup is unfolding behind the scenes. A leaked internal memo suggests Meta's new model, Avocado, is already ...
-
-📺 AI Revolution
-
-👁️ 10K • 👍 396 • 💬 46 • ⏱️ 12:49 • 9h ago
+👁️ 29K • 👍 2K • 💬 63 • ⏱️ 23:12 • 18h ago
 
 ---
 
-**[People Killed By AI](https://www.youtube.com/watch?v=jS4HeqAatmI)**
+**[The Best AI Leverage Tool Almost For Free | Digital Twin, AI Clone For Beginners](https://www.youtube.com/watch?v=NE38qaXeTPs)**
 
-Follow me here: Instagram ▻ https://www.instagram.com/sambucha X ▻ https://www.x.com/sambucha Become a Member: ...
+AI only creates leverage when it's applied with strategy, systems, and execution. If you're serious about using AI to build or scale a ...
 
-📺 Sambucha
+📺 AI Founders
 
-👁️ 939K • 👍 53K • 💬 1K • ⏱️ 0:54 • 1d ago
-
----
-
-**[OpenAI&#39;s New GPT 5.3 Shocks Anthropic As Opus 4.6 Strikes Back (AI War Explodes)](https://www.youtube.com/watch?v=ydW6Io2T4ho)**
-
-AI coding just entered a new phase of competition. In the same week, OpenAI unveiled GPT-5.3-Codex, a faster, more capable ...
-
-📺 AI Revolution
-
-👁️ 35K • 👍 788 • 💬 42 • ⏱️ 13:09 • 2d ago
+👁️ 3K • 👍 215 • 💬 11 • ⏱️ 17:45 • 16h ago
 
 ---
 
-**[AI Sparks Panic on Wall Street: $300 Billion at Risk as Software Stocks Sink - Why?](https://www.youtube.com/watch?v=6xYg5GmbgXE)**
+**[This Hidden AI YouTube Niche Makes $200,000/year](https://www.youtube.com/watch?v=8HLmR9TawvI)**
 
-Download the free guide and learn the two strategies experienced investors use to know when to invest, even in volatile markets: ...
+Try Kling 3.0 on Higgsfield: https://higgsfield.ai/ Join My Private Community: https://www.skool.com/dannywhy/about ✓ Free ...
 
-📺 VisualEconomik EN
+📺 Danny Why
 
-👁️ 41K • 👍 1K • 💬 184 • ⏱️ 19:55 • 1d ago
-
----
-
-**[Complete Free AI Workflow for Game-Ready 3D Characters](https://www.youtube.com/watch?v=TkP-_LyacMI)**
-
-What if I told you this character took less than one hour to make? Absolutely For FREE! You can Compare HY 3D vs Other The ...
-
-📺 Stefan 3D AI Lab
-
-👁️ 13K • 👍 957 • 💬 79 • ⏱️ 12:09 • 1d ago
+👁️ 14K • 👍 749 • 💬 170 • ⏱️ 21:39 • 1d ago
 
 ---
 
@@ -369,17 +347,37 @@ India's IT sector just got hit with its biggest shock in 4 months. The Nifty IT 
 
 📺 Mark Savant
 
-👁️ 29K • 👍 774 • 💬 392 • ⏱️ 18:25 • 1d ago
+👁️ 31K • 👍 828 • 💬 400 • ⏱️ 18:25 • 1d ago
 
 ---
 
-**[The Two Best AI Models/Enemies Just Got Released Simultaneously](https://www.youtube.com/watch?v=1PxEziv5XIU)**
+**[OpenAI&#39;s New GPT 5.3 Shocks Anthropic As Opus 4.6 Strikes Back (AI War Explodes)](https://www.youtube.com/watch?v=ydW6Io2T4ho)**
 
-The two models that you will hear discussed for at least the next two months - Claude Opus 4.6 and GPT 5.3 Codex - just got ...
+AI coding just entered a new phase of competition. In the same week, OpenAI unveiled GPT-5.3-Codex, a faster, more capable ...
 
-📺 AI Explained
+📺 AI Revolution
 
-👁️ 64K • 👍 3K • 💬 320 • ⏱️ 19:50 • 2d ago
+👁️ 36K • 👍 794 • 💬 42 • ⏱️ 13:09 • 2d ago
+
+---
+
+**[AI is kinda stupid](https://www.youtube.com/watch?v=d7N-5W_q5eI)**
+
+AI is kinda stupid Dumb AI Top Posts , The Best Of Dumb AI Today we take a look at the Top Posts from the Dumb AI subreddit.
+
+📺 Dark Dom
+
+👁️ 12K • 👍 870 • 💬 271 • ⏱️ 11:58 • 13h ago
+
+---
+
+**[People Killed By AI](https://www.youtube.com/watch?v=jS4HeqAatmI)**
+
+Follow me here: Instagram ▻ https://www.instagram.com/sambucha X ▻ https://www.x.com/sambucha Become a Member: ...
+
+📺 Sambucha
+
+👁️ 1.0M • 👍 55K • 💬 1K • ⏱️ 0:54 • 1d ago
 
 ---
 
@@ -395,7 +393,7 @@ GLM-OCR is a 0.9B parameter multimodal OCR model for complex document understand
 
 `image-to-text`
 
-⬇️ 297,833 • ❤️ 840 • 2h ago
+⬇️ 297,833 • ❤️ 849 • 4h ago
 
 ---
 
@@ -407,7 +405,7 @@ Qwen3-Coder-Next is a highly efficient 3B activated parameter LLM (80B total) op
 
 `text-generation` `79.7B`
 
-⬇️ 112,896 • ❤️ 630 • 5d ago
+⬇️ 112,896 • ❤️ 639 • 5d ago
 
 ---
 
@@ -419,7 +417,7 @@ MiniCPM-o 4.5 is a 9B parameter multimodal LLM excelling in vision, speech, and 
 
 `any-to-any` `9.4B`
 
-⬇️ 28,068 • ❤️ 646 • 1d ago
+⬇️ 28,068 • ❤️ 652 • 1h ago
 
 ---
 
@@ -431,7 +429,7 @@ Kimi K2.5 is a native multimodal agentic model with 1T parameters, excelling in 
 
 `image-text-to-text` `170.7B`
 
-⬇️ 456,396 • ❤️ 1,902 • 4d ago
+⬇️ 456,396 • ❤️ 1,912 • 4d ago
 
 ---
 
@@ -443,7 +441,17 @@ ACE-Step 1.5 is an open-source text-to-audio model for commercial-grade music ge
 
 `text-to-audio`
 
-⬇️ 26,376 • ❤️ 453 • 5d ago
+⬇️ 26,376 • ❤️ 457 • 5d ago
+
+---
+
+**[Voxtral-Mini-4B-Realtime-2602](https://huggingface.co/mistralai/Voxtral-Mini-4B-Realtime-2602)**
+
+*Mistral AI_*
+
+Voxtral-Mini-4B-Realtime-2602 is a multilingual, real-time speech-to-text model with <500ms latency, supporting 13 languages and achieving offline-comparable accuracy. It's optimized for on-device deployment and ideal for voice assistants and live subtitling.
+
+⬇️ 2,753 • ❤️ 407 • 12h ago
 
 ---
 
@@ -459,23 +467,13 @@ Step 3.5 Flash is an efficient open-source foundation model (11B active params, 
 
 ---
 
-**[Voxtral-Mini-4B-Realtime-2602](https://huggingface.co/mistralai/Voxtral-Mini-4B-Realtime-2602)**
-
-*Mistral AI_*
-
-Voxtral-Mini-4B-Realtime-2602 is a multilingual, real-time speech-to-text model with <500ms latency, supporting 13 languages and achieving offline-comparable accuracy. It's optimized for on-device deployment and ideal for voice assistants and live subtitling.
-
-⬇️ 2,753 • ❤️ 402 • 11h ago
-
----
-
 **[Anima](https://huggingface.co/circlestone-labs/Anima)**
 
 *CircleStone Labs*
 
 Anima is a 2 billion parameter text-to-image diffusion model specialized in generating anime-style illustrations and artistic images, capable of producing non-photorealistic content. It is optimized for use with ComfyUI and trained on millions of anime and artistic images, with a knowledge cut-off of September 2025.
 
-⬇️ 81,215 • ❤️ 520 • 8d ago
+⬇️ 81,215 • ❤️ 523 • 8d ago
 
 ---
 
@@ -487,7 +485,7 @@ Qwen3-Coder-Next is an 80B parameter LLM optimized for coding agents, featuring 
 
 `text-generation` `79.7B`
 
-⬇️ 202,772 • ❤️ 230 • 4d ago
+⬇️ 202,772 • ❤️ 232 • 4d ago
 
 ---
 
@@ -499,7 +497,7 @@ Intern-S1-Pro is a trillion-scale MoE multimodal scientific reasoning model exce
 
 `image-text-to-text`
 
-⬇️ 8,455 • ❤️ 211 • 2h ago
+⬇️ 8,455 • ❤️ 214 • 3h ago
 
 ---
 
@@ -515,7 +513,7 @@ Intern-S1-Pro is a trillion-scale MoE multimodal scientific reasoning model exce
 
 _paperbanana is an agentic framework that automates the creation of publication-ready academic illustrations using advanced vision-language models and image generation techniques.
 
-▲ 155 • 💬 12 • ⭐ 2,723 • 9d ago
+▲ 156 • 💬 12 • ⭐ 2,723 • 9d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2601.23265) • [💻 code](https://github.com/dwzhu-pku/PaperBanana) • [🔗 project](https://dwzhu-pku.github.io/PaperBanana/)
 
@@ -540,7 +538,7 @@ MiniCPM-V 4.5, a 8B parameter multimodal large language model, achieves high per
 
 Multi-agent collaboration networks enhance collective intelligence, outperforming baselines across various topologies and showing emergent abilities earlier than neural scaling laws suggest.
 
-▲ 4 • 💬 0 • ⭐ 30,606 • 20mo ago
+▲ 5 • 💬 0 • ⭐ 30,606 • 20mo ago
 
 [🎓 arXiv](https://arxiv.org/abs/2406.07155) • [💻 code](https://github.com/OpenBMB/ChatDev/tree/macnet) • [🔗 project](https://github.com/OpenBMB/ChatDev/tree/macnet)
 
@@ -570,6 +568,18 @@ A centralized orchestrator dynamically directs LLM agents via reinforcement lear
 
 ---
 
+**[Bitnet.cpp: Efficient Edge Inference for Ternary LLMs](https://huggingface.co/papers/2502.11880)**
+
+*Jinheng Wang, Hansong Zhou, Ting Song et al. (10 authors)*
+
+Bitnet.cpp enhances edge inference for ternary LLMs using a novel mixed-precision matrix multiplication library, achieving significant speed improvements over baselines.
+
+▲ 6 • 💬 0 • ⭐ 28,234 • 11mo ago
+
+[🎓 arXiv](https://arxiv.org/abs/2502.11880) • [💻 code](https://github.com/microsoft/BitNet/tree/paper)
+
+---
+
 **[Agent Lightning: Train ANY AI Agents with Reinforcement Learning](https://huggingface.co/papers/2508.03680)**
 
 *Xufang Luo, Yuge Zhang, Zhiyuan He et al. (8 authors)*
@@ -579,32 +589,6 @@ Agent Lightning is a flexible RL framework for training LLMs in various agents, 
 ▲ 133 • 💬 6 • ⭐ 14,305 • 6mo ago
 
 [🎓 arXiv](https://arxiv.org/abs/2508.03680) • [💻 code](https://github.com/microsoft/agent-lightning) • [🔗 project](https://www.microsoft.com/en-us/research/project/agent-lightning/)
-
----
-
-**[Bitnet.cpp: Efficient Edge Inference for Ternary LLMs](https://huggingface.co/papers/2502.11880)**
-
-*Jinheng Wang, Hansong Zhou, Ting Song et al. (10 authors)*
-
-Bitnet.cpp enhances edge inference for ternary LLMs using a novel mixed-precision matrix multiplication library, achieving significant speed improvements over baselines.
-
-▲ 6 • 💬 0 • ⭐ 28,176 • 11mo ago
-
-[🎓 arXiv](https://arxiv.org/abs/2502.11880) • [💻 code](https://github.com/microsoft/BitNet/tree/paper)
-
----
-
-**[Advancing Open-source World Models](https://huggingface.co/papers/2601.20540)**
-
-*Robbyant Team, Zelin Gao, Qiuyu Wang et al. (24 authors)*
-
-🏢 Robbyant
-
-LingBot-World is an open-source world simulator with high-fidelity dynamics, long-term memory capabilities, and real-time interactivity for diverse environments.
-
-▲ 120 • 💬 2 • ⭐ 2,687 • 12d ago
-
-[🎓 arXiv](https://arxiv.org/abs/2601.20540) • [💻 code](https://github.com/Robbyant/lingbot-world/) • [🔗 project](https://technology.robbyant.com/lingbot-world)
 
 ---
 
@@ -619,6 +603,20 @@ The Qwen3-TTS series presents advanced multilingual text-to-speech models with v
 ▲ 60 • 💬 1 • ⭐ 7,217 • 18d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2601.15621) • [💻 code](https://github.com/QwenLM/Qwen3-TTS)
+
+---
+
+**[Advancing Open-source World Models](https://huggingface.co/papers/2601.20540)**
+
+*Robbyant Team, Zelin Gao, Qiuyu Wang et al. (24 authors)*
+
+🏢 Robbyant
+
+LingBot-World is an open-source world simulator with high-fidelity dynamics, long-term memory capabilities, and real-time interactivity for diverse environments.
+
+▲ 120 • 💬 2 • ⭐ 2,722 • 12d ago
+
+[🎓 arXiv](https://arxiv.org/abs/2601.20540) • [💻 code](https://github.com/Robbyant/lingbot-world/) • [🔗 project](https://technology.robbyant.com/lingbot-world)
 
 ---
 
@@ -647,17 +645,7 @@ Browser automation CLI for AI agents
 
 `TypeScript`
 
-⭐ 13.3k • 🔱 771 • 2d ago
-
----
-
-**[vercel-labs/json-render](https://github.com/vercel-labs/json-render)**
-
-AI → JSON → UI
-
-`TypeScript`
-
-⭐ 10.1k • 🔱 539 • 1h ago
+⭐ 13.3k • 🔱 773 • 2d ago
 
 ---
 
@@ -667,7 +655,7 @@ The Ultimate Collection of 700+ Agentic Skills for Claude Code/Antigravity/Curso
 
 `Python` `agentic-skills` `ai-agents` `antigravity` `autonomous-coding` `claude-code`
 
-⭐ 8.0k • 🔱 1.7k • 1h ago
+⭐ 8.0k • 🔱 1.7k • 3h ago
 
 ---
 
@@ -677,7 +665,7 @@ Marketing skills for Claude Code and AI agents. CRO, copywriting, SEO, analytics
 
 `claude` `codex` `marketing`
 
-⭐ 6.9k • 🔱 776 • 5d ago
+⭐ 6.9k • 🔱 778 • 5d ago
 
 ---
 
@@ -685,7 +673,7 @@ Marketing skills for Claude Code and AI agents. CRO, copywriting, SEO, analytics
 
 Elevate your AI research writing, no more tedious polishing ✨ 
 
-⭐ 4.9k • 🔱 388 • 4d ago
+⭐ 5.0k • 🔱 390 • 4d ago
 
 ---
 
@@ -694,6 +682,16 @@ Elevate your AI research writing, no more tedious polishing ✨
 Claude Code skill that removes signs of AI-generated writing from text
 
 ⭐ 4.5k • 🔱 369 • 17d ago
+
+---
+
+**[dwzhu-pku/PaperBanana](https://github.com/dwzhu-pku/PaperBanana)**
+
+PaperBanana: Automating Academic Illustration For AI Scientists
+
+`JavaScript`
+
+⭐ 2.9k • 🔱 138 • 6d ago
 
 ---
 
@@ -707,21 +705,11 @@ OpenSource Claude Cowork. A desktop AI assistant that helps you with programming
 
 ---
 
-**[dwzhu-pku/PaperBanana](https://github.com/dwzhu-pku/PaperBanana)**
-
-PaperBanana: Automating Academic Illustration For AI Scientists
-
-`JavaScript`
-
-⭐ 2.8k • 🔱 135 • 6d ago
-
----
-
 **[op7418/Humanizer-zh](https://github.com/op7418/Humanizer-zh)**
 
 Humanizer 的汉化版本，Claude Code Skills，旨在消除文本中 AI 生成的痕迹。
 
-⭐ 2.8k • 🔱 263 • 21d ago
+⭐ 2.8k • 🔱 264 • 21d ago
 
 ---
 
@@ -731,7 +719,17 @@ An app to monitor the (Codex) situation
 
 `TypeScript` `ai` `codex` `linux` `macos` `tauri-app`
 
-⭐ 2.3k • 🔱 212 • 2h ago
+⭐ 2.3k • 🔱 213 • 1h ago
+
+---
+
+**[benjitaylor/agentation](https://github.com/benjitaylor/agentation)**
+
+The visual feedback tool for agents.
+
+`TypeScript` `ai` `design` `tools` `ui`
+
+⭐ 2.0k • 🔱 146 • 2d ago
 
 ---
 
