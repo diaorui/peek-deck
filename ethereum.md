@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-02-09T15:57:59.229492+00:00'
+updated: '2026-02-09T18:11:05.907198+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- news
-- cryptocurrency
 - videos
+- cryptocurrency
 - social
+- news
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** February 09, 2026 at 15:57 UTC  
+**Last Updated:** February 09, 2026 at 18:11 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -36,33 +36,33 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Price
 
-### $2,062.54
+### $2,117.93
 
 ---
 
 ## Ethereum Chart
 
-**24h:** -0.5%  
-**7d:** -7.5%  
-**30d:** -33.9%  
-**90d:** -39.5%  
-**1y:** -22.4%  
+**24h:** +0.2%  
+**7d:** -4.6%  
+**30d:** -31.8%  
+**90d:** -37.6%  
+**1y:** -19.9%  
 
 ---
 
 ## Ethereum Market Stats
 
-**Market Cap:** $248.05B
+**Market Cap:** $256.54B
 Rank #2
 
 **Circulating Supply:** 120,692,614 ETH
 No max supply
 
 **All-Time High:** $4,946.05
--58.3%
+-56.9%
 
 **All-Time Low:** $0.43
-+476031.6%
++491787.6%
 
 ---
 
@@ -72,7 +72,7 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-9h ago
+12h ago
 
 ---
 
@@ -80,7 +80,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 This is a compact Ethereum Virtual Machine runtime written in strict C23. Made this for learning purposes. BTW, it has a toy Solidity-like compiler into bytecode and `nano-node` program that "deploys" contracts to local store and gives ability to call them.
 
-🔗 [GitHub](https://github.com/ThirdLetterC/nano-evm) • 2h ago
+🔗 [GitHub](https://github.com/ThirdLetterC/nano-evm) • 4h ago
 
 ---
 
@@ -88,15 +88,23 @@ This is a compact Ethereum Virtual Machine runtime written in strict C23. Made t
 
 I am looking for a stablecoin that, instead of being pegged to a fiat currency, is pegged to a consumer price index, preferably one for prices where I live (Wales, UK), so that it rises with inflation. I don't mind whether it is partly centralised​ or not so long as it is actually censorship-resistent (so, unlike USDT). Should be safe i.e.​ vulnerable to being depegged so not algorithmic. Does this exist? Bonus points if it doesn't use plutocratic token-weighted governance.
 
+4h ago
+
+---
+
+**[Offering free security reviews in exchange for feedback](https://www.reddit.com/r/ethereum/comments/1r09eh7/offering_free_security_reviews_in_exchange_for/)**
+
+We’re launching a new service focused on smart contract reviews without the overhead of a full audit. Scope is limited and practical. Logic, exploitability, and protocol level risks. No certification and no audit opinion. To validate the approach, we’re offering a limited number of free focused smart contract security reviews for projects that are code complete and either close to launch or already deployed, in exchange for honest feedback. This is not meant to replace an audit. It’s a short, concrete review focused on protocol logic and exploit paths. Shoot a dm, if you're interested.
+
 1h ago
 
 ---
 
-**[EtherWorld Weekly — Edition 350](https://www.reddit.com/r/ethereum/comments/1qzwa9u/etherworld_weekly_edition_350/)**
+**[$86M lost to DeFi hacks in January 2026 alone](https://www.reddit.com/r/ethereum/comments/1r097uw/86m_lost_to_defi_hacks_in_january_2026_alone/)**
 
-World News, Stories By EtherWorld, Technical Explainers, Client News & Updates, Podcasts, Upcoming Events & Jobs
+In January 2026, DeFi hacks resulted in roughly $86M in losses across multiple protocols. More concerning: 7 separate incidents exceeded $1M each. Most of the exploits were rooted in smart contract vulnerabilities. The pattern feels familiar at this point. Repeated issues, similar bug classes, and preventable failures. The question isn’t whether exploits will continue it’s whether teams are adapting fast enough. Are you building with security as a first principle, or still treating it as a final checklist before launch?
 
-🔗 [EtherWorld.co](https://etherworld.co/etherworld-weekly-edition-350/) • 10h ago
+1h ago
 
 ---
 
@@ -104,15 +112,15 @@ World News, Stories By EtherWorld, Technical Explainers, Client News & Updates, 
 
 Crypto prices have continued to swing, but derivatives activity since October looks much more subdued. Open interest and volumes across major assets have fallen and stayed lower, suggesting leverage has been reduced rather than rotated elsewhere. Funding rates are mostly calm, with the exception of Solana, where short positioning is more pronounced. A Quieter Market: What Crypto Derivatives Have Been Doing Since October 2025 | Sandmark What stands out to me isn’t that traders are outright bearish, but that they’re stepping back. It feels less like a call on prices going down and more like people reducing risk after a long period of easy leverage. With tighter limits and less appetite to borrow, price moves may matter differently than before. Big question is ... is this just a temporary pause, or has the market’s comfort with leverage really changed?
 
-5m ago
+2h ago
 
 ---
 
-**[Extremely lightweight transaction monitor for Ethereum. Less than 3MB in RAM.](https://www.reddit.com/r/ethereum/comments/1qzq0sb/extremely_lightweight_transaction_monitor_for/)**
+**[EtherWorld Weekly — Edition 350](https://www.reddit.com/r/ethereum/comments/1qzwa9u/etherworld_weekly_edition_350/)**
 
-eth-mempool-monitor subscribes to Ethereum pending transactions over WebSocket, filters them against a monitored address set stored in Redis/Valkey, and publishes matching transactions to RabbitMQ. The project builds three binaries: eth_mempool_monitor: WebSocket subscriber + Redis filter + RabbitMQ publisher. rpc_control: newline-delimited JSON-RPC TCP server used to manage monitored addresses in Redis (token-authenticated). rabbitmq_tx_console: RabbitMQ consumer that prints monitored-transaction events in human-readable form.
+World News, Stories By EtherWorld, Technical Explainers, Client News & Updates, Podcasts, Upcoming Events & Jobs
 
-🔗 [GitHub](https://github.com/ThirdLetterC/eth-mempool-monitor) • 15h ago
+🔗 [EtherWorld.co](https://etherworld.co/etherworld-weekly-edition-350/) • 12h ago
 
 ---
 
@@ -120,7 +128,15 @@ eth-mempool-monitor subscribes to Ethereum pending transactions over WebSocket, 
 
 A bug fix turned into a personal comeback story of coding, parenting, and a small contribution to the open-source world.
 
-🔗 [EtherWorld.co](https://etherworld.co/the-bug-of-solving-bugs/) • 2h ago
+🔗 [EtherWorld.co](https://etherworld.co/the-bug-of-solving-bugs/) • 4h ago
+
+---
+
+**[Extremely lightweight transaction monitor for Ethereum. Less than 3MB in RAM.](https://www.reddit.com/r/ethereum/comments/1qzq0sb/extremely_lightweight_transaction_monitor_for/)**
+
+eth-mempool-monitor subscribes to Ethereum pending transactions over WebSocket, filters them against a monitored address set stored in Redis/Valkey, and publishes matching transactions to RabbitMQ. The project builds three binaries: eth_mempool_monitor: WebSocket subscriber + Redis filter + RabbitMQ publisher. rpc_control: newline-delimited JSON-RPC TCP server used to manage monitored addresses in Redis (token-authenticated). rabbitmq_tx_console: RabbitMQ consumer that prints monitored-transaction events in human-readable form.
+
+🔗 [GitHub](https://github.com/ThirdLetterC/eth-mempool-monitor) • 17h ago
 
 ---
 
@@ -128,23 +144,7 @@ A bug fix turned into a personal comeback story of coding, parenting, and a smal
 
 I'm willing to stake my ETH that I have on my ledger, is this safe to use lido from the ledger?
 
-17h ago
-
----
-
-**[Daily General Discussion February 08, 2026](https://www.reddit.com/r/ethereum/comments/1qz13nm/daily_general_discussion_february_08_2026/)**
-
-Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
-
-1d ago
-
----
-
-**[What I learned building an Optimism node and why binary matters.](https://www.reddit.com/r/ethereum/comments/1qzg7d1/what_i_learned_building_an_optimism_node_and_why/)**
-
-I manually architected a Dual-STACK Execution and Consensus Engine that bypasses the entire public RPC industry. Hardware; Managed a 4TB NVMe volume with 3.3TB Optimism state and a pruned L1 Reth/Lighthouse combo. I compiled Lighthouse and Reth from source after Optimism-specific codebase was deprecated mid-sync. I achieved 0ms IPC round trips by killing the dependency on Alchemy/Infura Ran into a few problems along the way. I tried to run a standard Ethereum binary on Optimism data. The node crashed because it saw a transaction type it didn't recognize (Type 126 which is an Optimism deposit) Standard Ethereum node thinks this is illegal data. To fix it, I identified that i needed a specialized OP-Stack aware version of Reth. I tracked down the Paradigm Reth Optimism binary. By switching to the op-reth binary i gave the node the dictionary it needed to translate those Type 126 deposits into valid blocks. I moved from a blind Ethereum node to a Super chain-aware engine. The Reth engine was idling. It had peers and a database, but it didn't know where the tip of the chain was, so it stayed at block 0. I realized a modern node was a Two-Part Machine. So I built the Lighthouse Consensus Client from source to be the "Driver" Instead of waiting weeks to download the chain from 2015 i used a Checkpoint Sync URL. I linked Lighthouse to Reth via the Engine API ()Port 8551/8552) using a shared JWT Secret. The moment Lighthouse found the "Truth" on the network, it handed the coordinates to Reth. The node immediately jumped from 0 to 21,800,000 and the 1.9TB of free space started filling with real history. The real nightmare scenario happened when I was syncing the snapshot data and because of a single transaction type the whole thing crashed. My sync was flying for about 15 hours and when I woke up to check it found it had stalled. It hit block 144,528215 where it encountered an Optimism-specific Type 126 Deposit transaction. Because I was running the standard Ethereum Reth binary instead of the specialized Op-Reth version from paradigm, the node literally didn't have the code to read it understand what type 126 transaction it was. This didn't just crash the sync, it left garbage data at the tip of my database, which blocked further progress until I swapped binary and manually forced a stage rewind to clear corruption. In the grand scheme of thing's it was a rookie mistake.
-
-21h ago
+19h ago
 
 ---
 
@@ -160,17 +160,9 @@ unchainedcrypto.com • 2d ago
 
 ---
 
-**[Bitmine Immersion Technologies (BMNR) Announces ETH Holdings Reach 4.326 Million Tokens, and Total Crypto and Total Cash Holdings of $10.0 Billion](https://www.prnewswire.com/news-releases/bitmine-immersion-technologies-bmnr-announces-eth-holdings-reach-4-326-million-tokens-and-total-crypto-and-total-cash-holdings-of-10-0-billion-302682272.html)**
+**[MegaETH debuts mainnet as Ethereum scaling debate heats up](https://www.coindesk.com/tech/2026/02/09/megaeth-debuts-mainnet-as-ethereum-scaling-debate-heats-up)**
 
-Bitmine has 2,873,459 staked ETH, representing $6.2 billion at $2,125 per ETH; MAVAN staking solution on track to launch Q1 2026 Bitmine now owns 3.58% of the...
-
-PR Newswire • 2h ago
-
----
-
-**[Tom Lee’s Bitmine Immersion added 40,613 ether last week as prices crashed](https://www.coindesk.com/markets/2026/02/09/tom-lee-s-bitmine-adds-to-eth-stack-after-price-crash-now-holds-3-6-of-ethereum-s-total-supply)**
-
-The firm's total ETH holdings top 4.3 million tokens worth about $8.7 billion at the current price just above $2,000.
+The project, which had previously pitched itself as a layer-2 “real-time blockchain,” targeting more than 100,000 transactions per second, would make onchain interactions feel closer to traditional web apps than today’s crypto networks.
 
 CoinDesk • 1h ago
 
@@ -180,7 +172,7 @@ CoinDesk • 1h ago
 
 BitMine has expanded its Ethereum hodings by acquiring an additional 20,000 ETH for nearly $42 million this week.
 
-Yahoo Finance • 18h ago
+Yahoo Finance • 21h ago
 
 ---
 
@@ -188,31 +180,7 @@ Yahoo Finance • 18h ago
 
 The cryptocurrency industry went under intense pressure last week, with Bitcoin and Ethereum leading the crash and multiple cryptocurrencies hitting new multi-month lows. The crash was more pronounced with Bitcoin, though, and the imbalance in selling pressure is quietly shifting the relationship b…
 
-TradingView • 1h ago
-
----
-
-**[Ethereum and Solana Are Getting Hit Hard. Are These Top Cryptocurrencies Buys on the Dip?](https://www.nasdaq.com/articles/ethereum-and-solana-are-getting-hit-hard-are-these-top-cryptocurrencies-buys-dip)**
-
-Key PointsBoth Ethereum and Solana are down more than 34% for the year, and the sell-off appears to be intensifying.
-
-Nasdaq • 2d ago
-
----
-
-**[Is Ethereum's New AI Agent Scheme a Reason to Buy It Hand Over Fist?](https://www.fool.com/investing/2026/02/09/is-ethereums-new-ai-agent-scheme-a-reason-to-buy-i/)**
-
-Ethereum is leading the development of a new set of standards for the use of AI in crypto.
-
-The Motley Fool • 5h ago
-
----
-
-**[Ethereum Is More Popular Than Ever. Should You Invest $1,000?](https://finance.yahoo.com/news/ethereum-more-popular-ever-invest-092000879.html)**
-
-This kind of popularity isn't necessarily something to root for as an investor in this coin.
-
-Yahoo Finance • 6h ago
+TradingView • 3h ago
 
 ---
 
@@ -228,7 +196,37 @@ The Block • 2d ago
 
 At a conference dedicated to the riskiest traders in finance, Miami's crypto scene appeared far different than during its pandemic-era boom.
 
-Decrypt • 23h ago
+Decrypt • 1d ago
+
+---
+
+**[Is Ethereum's New AI Agent Scheme a Reason to Buy It Hand Over Fist?](https://www.fool.com/investing/2026/02/09/is-ethereums-new-ai-agent-scheme-a-reason-to-buy-i/)**
+
+Ethereum is leading the development of a new set of standards for the use of AI in crypto.
+
+The Motley Fool • 7h ago
+
+---
+
+**[Bitmine Immersion Technologies (BMNR) Announces ETH Holdings Reach 4.326 Million Tokens, and Total Crypto and Total Cash Holdings of $10.0 Billion](https://www.prnewswire.com/news-releases/bitmine-immersion-technologies-bmnr-announces-eth-holdings-reach-4-326-million-tokens-and-total-crypto-and-total-cash-holdings-of-10-0-billion-302682272.html)**
+
+Bitmine has 2,873,459 staked ETH, representing $6.2 billion at $2,125 per ETH; MAVAN staking solution on track to launch Q1 2026 Bitmine now owns 3.58% of the...
+
+PR Newswire • 4h ago
+
+---
+
+**[Ethereum Falls to $2,000 But New Price Prediction Targets $7,500 by End-2026](https://www.financemagnates.com/trending/ethereum-falls-to-2000-but-new-price-prediction-targets-7500-by-end-2026/)**
+
+Ethereum price predictions from Standard Chartered and Citi target $5,400-$7,500 for 2026, but technical analysis shows bearish targets at $1,760-$1,000.
+
+financemagnates.com • 6h ago
+
+---
+
+**[Sharplink: An Unfairly Penalized Ethereum Treasury Company](https://seekingalpha.com/article/4867467-sharplink-an-unfairly-penalized-ethereum-treasury-company)**
+
+Seeking Alpha • 1d ago
 
 ---
 
@@ -242,7 +240,7 @@ Welcome back home Ethereum! This time I think ETH will kick its feet back and st
 
 📺 Benjamin Cowen
 
-👁️ 61K • 👍 4K • 💬 270 • ⏱️ 14:29 • 10h ago
+👁️ 72K • 👍 5K • 💬 288 • ⏱️ 14:29 • 12h ago
 
 ---
 
@@ -252,7 +250,7 @@ This video provides a professional Elliott Wave and technical analysis of Ethere
 
 📺 More Crypto Online
 
-👁️ 717 • 👍 84 • 💬 9 • ⏱️ 4:46 • 1h ago
+👁️ 2K • 👍 147 • 💬 9 • ⏱️ 4:46 • 3h ago
 
 ---
 
@@ -262,37 +260,7 @@ Explore FortisX and access a bonus of up to 10% on one deposit using the link be
 
 📺 Savvy Finance
 
-👁️ 4K • 👍 199 • 💬 3 • ⏱️ 22:10 • 15h ago
-
----
-
-**[Ethereum Elliott Wave Update – Key Resistance Levels Ahead](https://www.youtube.com/watch?v=dkRmzBouZ64)**
-
-This video provides a professional Elliott Wave and technical analysis of Ethereum (ETH), focusing on market structure, major ...
-
-📺 More Crypto Online
-
-👁️ 3K • 👍 215 • 💬 8 • ⏱️ 5:37 • 13h ago
-
----
-
-**[Ethereum for Beginners! What’s New in 2026](https://www.youtube.com/watch?v=_JT27HyzTUM)**
-
-Ethereum has evolved beyond its early days. This 2026 update revisits how it works, what's different, and what's in store ahead.
-
-📺 CoinGecko
-
-👁️ 533 • 👍 81 • 💬 42 • ⏱️ 4:15 • 5h ago
-
----
-
-**[WHAT TO EXPECT THIS WEEK!🚨 (Ethereum Price Prediction 2026)](https://www.youtube.com/watch?v=TTYJ8xOtbO8)**
-
-ETHEREUM ETH PRICE PREDICTION 2026 Join the Premium Signal Group for trade setups, mentorship & a community ...
-
-📺 Cilinix Crypto
-
-👁️ 285 • 👍 11 • 💬 8 • ⏱️ 5:19 • 5h ago
+👁️ 5K • 👍 211 • 💬 3 • ⏱️ 22:10 • 18h ago
 
 ---
 
@@ -302,7 +270,27 @@ FREE TRAINING: https://www.bullmania.com EXCHANGES I USE (bybit, pionex): https:
 
 📺 Ivan on Tech
 
-👁️ 15K • 👍 1K • 💬 74 • ⏱️ 49:46 • 5h ago
+👁️ 19K • 👍 1K • 💬 76 • ⏱️ 49:46 • 8h ago
+
+---
+
+**[WHAT TO EXPECT THIS WEEK!🚨 (Ethereum Price Prediction 2026)](https://www.youtube.com/watch?v=TTYJ8xOtbO8)**
+
+ETHEREUM ETH PRICE PREDICTION 2026 Join the Premium Signal Group for trade setups, mentorship & a community ...
+
+📺 Cilinix Crypto
+
+👁️ 349 • 👍 13 • 💬 8 • ⏱️ 5:19 • 7h ago
+
+---
+
+**[Ethereum Elliott Wave Update – Key Resistance Levels Ahead](https://www.youtube.com/watch?v=dkRmzBouZ64)**
+
+This video provides a professional Elliott Wave and technical analysis of Ethereum (ETH), focusing on market structure, major ...
+
+📺 More Crypto Online
+
+👁️ 3K • 👍 216 • 💬 8 • ⏱️ 5:37 • 15h ago
 
 ---
 
@@ -312,17 +300,7 @@ BITCOIN WILL SHOCK EVERYONE (Breakout Loading)!!! - Bitcoin News Today, Ethereum
 
 📺 Crypto World
 
-👁️ 13K • 👍 427 • 💬 187 • ⏱️ 16:36 • 17h ago
-
----
-
-**[Fundstrat&#39;s Tom Lee: Crypto looks like it is bottoming now](https://www.youtube.com/watch?v=Fh8djni6jHU)**
-
-Tom Lee, Fundstrat, joins 'Closing Bell' to discuss the state of crypto markets, Bitmine's business and much more.
-
-📺 CNBC Television
-
-👁️ 91K • 👍 869 • 💬 380 • ⏱️ 3:53 • 2d ago
+👁️ 13K • 👍 432 • 💬 216 • ⏱️ 16:36 • 19h ago
 
 ---
 
@@ -332,7 +310,27 @@ HTTPS://WWW.X10DAYTRADING.COM TRADE TO $1M WHILE WORKING 9 TO 5? Copy Pro Trader
 
 📺 Wolf of Dubai Day Trading & Investing
 
-👁️ 3K • 👍 103 • 💬 24 • ⏱️ 9:51 • 19h ago
+👁️ 3K • 👍 107 • 💬 24 • ⏱️ 9:51 • 22h ago
+
+---
+
+**[Fundstrat&#39;s Tom Lee: Crypto looks like it is bottoming now](https://www.youtube.com/watch?v=Fh8djni6jHU)**
+
+Tom Lee, Fundstrat, joins 'Closing Bell' to discuss the state of crypto markets, Bitmine's business and much more.
+
+📺 CNBC Television
+
+👁️ 92K • 👍 872 • 💬 381 • ⏱️ 3:53 • 2d ago
+
+---
+
+**[Ether -  The Most VOLATILE Substance on Earth!](https://www.youtube.com/watch?v=Aq4_VnhuDRU)**
+
+Patreon: https://www.patreon.com/Thoisoi Attention! This video shows dangerous experiments! Do not repeat the experiments ...
+
+📺 Thoisoi2 - Chemical Experiments!
+
+👁️ 32K • 👍 3K • 💬 335 • ⏱️ 20:04 • 2d ago
 
 ---
 
