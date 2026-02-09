@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-02-09T13:54:05.656380+00:00'
+updated: '2026-02-09T14:53:17.917839+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- social
 - cryptocurrency
-- videos
 - news
+- social
+- videos
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** February 09, 2026 at 13:54 UTC  
+**Last Updated:** February 09, 2026 at 14:53 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -81,13 +81,13 @@ Rank #1
 
 The people that have been around for multiple cycles have experienced buying Bitcoin's dips too soon. Thus, they are holding back from unloading their clips in the current correction. What Bitcoin likes to do, is make the greatest number of people regret their buying and selling decisions. it's this reason that Bitcoin is more likely to take off than continue a long slow bleed to $40k. If you can accumulate 1 BTC and it's eventually worth $500k, buying one at $70k vs $50k means your made $430k instead of $450k. If won't matter. Don't let the 4-year cycle theory hold you back from buying now.
 
-9h ago
+10h ago
 
 ---
 
 **[The more you learn about Bitcoin, the more you'll see how the current corrupt system works.](https://www.reddit.com/r/Bitcoin/comments/1qzykbx/the_more_you_learn_about_bitcoin_the_more_youll/)**
 
-5h ago
+6h ago
 
 ---
 
@@ -95,7 +95,7 @@ The people that have been around for multiple cycles have experienced buying Bit
 
 The purple crayon tasted like 85k-90k within 2 weeks 🤷‍♂️
 
-13h ago
+14h ago
 
 ---
 
@@ -103,7 +103,7 @@ The purple crayon tasted like 85k-90k within 2 weeks 🤷‍♂️
 
 Congratulations everyone on surviving the 8th biggest single day drawdown in the past 10 years. You all are legends!!!
 
-18h ago
+19h ago
 
 ---
 
@@ -111,7 +111,7 @@ Congratulations everyone on surviving the 8th biggest single day drawdown in the
 
 I bought Bitcoin in 2023 when it went down to 25k waiting for the halving in 2024 and then it crossed 100k. Is it time to buy again now?
 
-12h ago
+13h ago
 
 ---
 
@@ -119,13 +119,13 @@ I bought Bitcoin in 2023 when it went down to 25k waiting for the halving in 202
 
 If the 4 year cycle is intact.. we go down and stay down between 50K to 70K over the next 2 years before the slow grind up. If the 4 year cycle is broken due to a fundamentally different investor set, then we potentially see a swift recovery following clarity on CLARITY ACT, and break new highs in 2026. But right now.. we're at the mid point, where Schrodinger's Bitcoin is... Time will tell. I'm rooting for new highs in 2026 and a fundamentally different cycle to end all cycles. You?
 
-32m ago
+1h ago
 
 ---
 
 **[Bitcoin ATM at HK tang lung street](https://www.reddit.com/r/Bitcoin/comments/1r00bdu/bitcoin_atm_at_hk_tang_lung_street/)**
 
-3h ago
+4h ago
 
 ---
 
@@ -133,7 +133,7 @@ If the 4 year cycle is intact.. we go down and stay down between 50K to 70K over
 
 Im 39years old and unfortunately(or fortunately) because i had to renovate my house for last 3 years i didnt have any money to buy BTC.But i followed whole market for last 5 years with really small portofolio(less than 200€). Now i'm completely debt/loan free. Finally my 3 year bank loan ended friday,and i finally began my DCA journey into BTC at 66k. I guess im kinda lucky that it just had almost 50% drop. I know i can never time the market,and im mentally fully aware we can go back to 35-40k. The reason why i made this thread is because in my life i never talk about BTC so i guess i just wanted to share this with similar minded people
 
-17h ago
+18h ago
 
 ---
 
@@ -141,7 +141,7 @@ Im 39years old and unfortunately(or fortunately) because i had to renovate my ho
 
 i am thinking of long term investment . watched it for 5 years .i am just gonna set an monthly sip from now on . plan is to get out when it reaches 120k the previous ATH . Not gonna get out even if it goes to 10k. Because i heard that btc to reach 100k is a huge challange but i know it will reach there again.
 
-4h ago
+5h ago
 
 ---
 
@@ -149,7 +149,7 @@ i am thinking of long term investment . watched it for 5 years .i am just gonna 
 
 Hi everyone! Back in like 2013 or something My husband bought us some bitcoin. I think around $1000 worth, I can’t recall. Unfortunately since then he’s passed away (2018), and while I recall logging in to his wallet and changing the info to include myself and my email address after he passed away, I can’t recall where on earth any of this transpired. I do have the old laptop I did this on, and I hope that can help illuminate things for me so I can find it, but honestly I’m not sure where to begin looking. Back around those days, where would one access to their bitcoin? This was his thing back then, not mine so I have no idea where to start. Any ideas would be helpful.
 
-19h ago
+20h ago
 
 ---
 
@@ -169,13 +169,13 @@ NPR • 2d ago
 
 The company quickly realised its mistake and managed to recover virtually all the missing tokens from customers.
 
-BBC • 1d ago
+BBC • 2d ago
 
 ---
 
 **[Korea Probes Crypto Exchange Over $40 Billion in ‘Ghost Bitcoin’](https://www.bloomberg.com/news/articles/2026-02-09/bithumb-accidentally-gifts-620-000-bitcoin-btc-to-clients-in-fat-finger-error)**
 
-bloomberg.com • 3h ago
+bloomberg.com • 4h ago
 
 ---
 
@@ -192,7 +192,7 @@ CNBC • 2d ago
 
 Bitcoin ATM fraud is a growing threat in Houston and nationwide. Awareness and quick action can help protect consumers and stop scammers.
 
-Click2Houston • 1h ago
+Click2Houston • 2h ago
 
 ---
 
@@ -276,7 +276,7 @@ Bitcoin outlook turns bearish as Pivotus’ Richard Farr targets BTC at $0 and M
 
 The crypto crash is coming — and the landing won’t be pretty
 
-⬆️ 5 • 💬 1 • 21h ago • [ft.com](https://www.ft.com/content/2b030926-2012-4446-b22d-e549e10e7086)
+⬆️ 5 • 💬 1 • 22h ago • [ft.com](https://www.ft.com/content/2b030926-2012-4446-b22d-e549e10e7086)
 
 ---
 
@@ -292,7 +292,7 @@ Crypto treasury companies quietly crept into index funds and retirement accounts
 
 Local opponents criticise legislation that will facilitate ‘networked state’ community and hand executive powers to developer
 
-⬆️ 4 • 💬 0 • 20h ago • [ft.com](https://www.ft.com/content/50c2f8e0-a0a4-4433-805d-46e9e0345d4a)
+⬆️ 4 • 💬 0 • 21h ago • [ft.com](https://www.ft.com/content/50c2f8e0-a0a4-4433-805d-46e9e0345d4a)
 
 ---
 
@@ -322,7 +322,7 @@ Bitcoin behaves more like an "ATM" during uncertain times, with investors quickl
 
 📺 Money Talks
 
-👁️ 9K • 👍 166 • 💬 46 • ⏱️ 11:09 • 19h ago
+👁️ 9K • 👍 166 • 💬 46 • ⏱️ 11:09 • 20h ago
 
 ---
 
@@ -332,7 +332,7 @@ Mark Yusko Crypto Prediction's 2026 Follow: https://x.com/MarkYusko LIMITED TIME
 
 📺 Altcoin Daily
 
-👁️ 54K • 👍 3K • 💬 1K • ⏱️ 59:15 • 15h ago
+👁️ 54K • 👍 3K • 💬 1K • ⏱️ 59:15 • 16h ago
 
 ---
 
@@ -342,7 +342,7 @@ Bitcoin is ripping into Super Bowl weekend and the noise is everywhere. Beneath 
 
 📺 Simply Bitcoin
 
-👁️ 20K • 👍 1K • 💬 125 • ⏱️ 20:03 • 14h ago
+👁️ 20K • 👍 1K • 💬 125 • ⏱️ 20:03 • 15h ago
 
 ---
 
@@ -352,7 +352,7 @@ TOOBIT — CLAIM $50 & 20% SIGN UP BONUS ON YOUR DEPOSIT Limited spots available
 
 📺 100XClub
 
-👁️ 6K • 👍 739 • 💬 146 • ⏱️ 9:04 • 4h ago
+👁️ 6K • 👍 739 • 💬 146 • ⏱️ 9:04 • 5h ago
 
 ---
 
@@ -362,7 +362,7 @@ Nick Valdez checks the latest price action with Bitcoin. What if I said there ar
 
 📺 Discover Crypto
 
-👁️ 7K • 👍 253 • 💬 71 • ⏱️ 5:08 • 22h ago
+👁️ 7K • 👍 253 • 💬 71 • ⏱️ 5:08 • 23h ago
 
 ---
 
@@ -372,7 +372,7 @@ Bitcoin tumbled below $61000, as the unwinding of leveraged bets and broader mar
 
 📺 Bloomberg News
 
-👁️ 8K • 👍 114 • 💬 11 • ⏱️ 1:11 • 18h ago
+👁️ 8K • 👍 114 • 💬 11 • ⏱️ 1:11 • 19h ago
 
 ---
 
@@ -392,7 +392,7 @@ Bitcoin has pulled back hard from the $126K peak to around the $60K zone, trigge
 
 📺 The Value Thinker
 
-👁️ 11K • 👍 679 • 💬 111 • ⏱️ 23:31 • 18h ago
+👁️ 11K • 👍 679 • 💬 111 • ⏱️ 23:31 • 19h ago
 
 ---
 
@@ -402,7 +402,7 @@ Explore FortisX and access a bonus of up to 10% on one deposit using the link be
 
 📺 Savvy Finance
 
-👁️ 6K • 👍 275 • 💬 9 • ⏱️ 21:43 • 20h ago
+👁️ 6K • 👍 275 • 💬 9 • ⏱️ 21:43 • 21h ago
 
 ---
 

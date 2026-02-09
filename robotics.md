@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-02-09T13:54:05.665672+00:00'
+updated: '2026-02-09T14:53:17.926986+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
+- news
 - social
 - videos
-- news
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** February 09, 2026 at 13:54 UTC  
+**Last Updated:** February 09, 2026 at 14:53 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -34,7 +34,7 @@ Robotics research and industry news
 
 **[Robot](https://www.reddit.com/r/robotics/comments/1qzw7nc/robot/)**
 
-8h ago
+9h ago
 
 ---
 
@@ -42,7 +42,7 @@ Robotics research and industry news
 
 Paper: arxiv.org/abs/2602.06949 Project website: https://dreamdojo-world.github.io
 
-4m ago
+1h ago
 
 ---
 
@@ -50,7 +50,7 @@ Paper: arxiv.org/abs/2602.06949 Project website: https://dreamdojo-world.github.
 
 Hi everyone I've stumbled across this sub reddit while searching for some kind of distance measuring sensor. Edit: i need it for 15 meters up to i need it for a school project so a cheaper would be good enough. accuracy is not too important because up to 5cm accuracy is already good enough for me and I need it outdoors. i have found one for cheap but I'm interested in your opinion's too.
 
-45m ago
+1h ago
 
 ---
 
@@ -62,7 +62,7 @@ Hi everyone I've stumbled across this sub reddit while searching for some kind o
 
 **[Everbot Demo: Home gym bot, Factory QA, Fitness and AirBnb App](https://www.reddit.com/r/robotics/comments/1qzt9y0/everbot_demo_home_gym_bot_factory_qa_fitness_and/)**
 
-10h ago
+11h ago
 
 ---
 
@@ -70,7 +70,7 @@ Hi everyone I've stumbled across this sub reddit while searching for some kind o
 
 Repository: https://github.com/qrafty-ai/teleop_xr Any suggestions are welcome! https://reddit.com/link/1qzi0v4/video/53dekrjlmbig1/player
 
-18h ago
+19h ago
 
 ---
 
@@ -78,7 +78,7 @@ Repository: https://github.com/qrafty-ai/teleop_xr Any suggestions are welcome! 
 
 Hi everyone 👋 I’ve just released CANgaroo v0.4.5, an actively maintained, open-source Linux-native CAN / CAN-FD analyzer built around SocketCAN. This release focuses on making live CAN data easier to understand visually during everyday debugging. 🆕 What’s new in v0.4.5 📊 Real-time signal visualization Time-series charts Scatter plots Text views Interactive gauges (useful for live diagnostics) https://i.redd.it/iobhy7jphaig1.gif 🎯 What CANgaroo is aimed at CANgaroo is focused on everyday CAN debugging and monitoring, with a workflow similar to BusMaster / PCAN-View, but: Open-source Linux-native SocketCAN-first Easy to test using vcan (no hardware required) Supported interfaces include SocketCAN, CANable (SLCAN), Candlelight, and CANblaster (UDP). GitHub repo (screenshots + demo GIF included): 👉 https://github.com/OpenAutoDiagLabs/CANgaroo Feedback, feature requests, and real-world use cases are very welcome — especially from automotive, robotics, and industrial users.
 
-22h ago
+23h ago
 
 ---
 
@@ -86,7 +86,7 @@ Hi everyone 👋 I’ve just released CANgaroo v0.4.5, an actively maintained, o
 
 Just out of curiosity, and because I plan to make my own 4 wheeled rover + LLM/VLA as a personal project, has building a robot as a personal project ever helped when applying for a job/position/interview? Thinking of taking the jump myself, but it is quite costly so wanted to hear your story before I take the dip. thanks all
 
-23h ago
+1d ago
 
 ---
 
@@ -94,7 +94,7 @@ Just out of curiosity, and because I plan to make my own 4 wheeled rover + LLM/V
 
 I built a web based realtime reinforcement learning robot using webassembly and websockets. The model is a mix of hierarchal policy in addition to soft actor critic (sac) to get feedback from bevy (game engine) about torque and position of all 13 different components (joints, etc..) You can see the robot learning in real time here https://robot.zeyaddeeb.com/ And read a bit more tech choices here: https://www.zeyaddeeb.com/blog/posts/basketball-learning-robot Boston Dynamics Atlas does not stand a chance against this fella after 6 months of training (i think?!).
 
-20h ago
+21h ago
 
 ---
 
@@ -114,7 +114,7 @@ Pantograph website: https://pantograph.com/ Pantograph on 𝕏: http://x.com/pan
 
 ST. LOUIS, Feb. 09, 2026 (GLOBE NEWSWIRE) -- Stereotaxis (NYSE: STXS), a pioneer and global leader in surgical robotics for minimally invasive endovascular intervention, today announced the launch of a new robotic electrophysiology program at Klinikum Fürth in Fürth, Germany. Klinikum Fürth is the first hospital in Germany to establish a leading heart rhythm program that incorporates the Genesis Robotic Magnetic Navigation System, advanced robotic technology that establishes a new standard of ca
 
-Yahoo Finance Singapore • 48m ago
+Yahoo Finance Singapore • 1h ago
 
 ---
 
@@ -138,7 +138,7 @@ The Robot Report • 1d ago
 
 Last year, AI grabbed half of venture dollars globally. But the sector’s blockbuster growth hasn’t necessarily come at the expense of other startup industries. We take a look at five areas benefiting from AI-driven automation that have seen venture funding increase significantly in recent quarters.
 
-Crunchbase News • 1h ago
+Crunchbase News • 2h ago
 
 ---
 
@@ -146,7 +146,7 @@ Crunchbase News • 1h ago
 
 This high-flying stock is about more than just military drones.
 
-The Motley Fool • 18h ago
+The Motley Fool • 19h ago
 
 ---
 
@@ -154,7 +154,7 @@ The Motley Fool • 18h ago
 
 Companies that replace humans with robots "risk losing their competitive edge," researchers say, as collaboration is the real key
 
-qz.com • 2h ago
+qz.com • 3h ago
 
 ---
 
@@ -162,13 +162,13 @@ qz.com • 2h ago
 
 Robotics Salary Gap
 
-The National Law Review • 4h ago
+The National Law Review • 5h ago
 
 ---
 
 **[Tesla's Robotics Revolution Won't Save It (NASDAQ:TSLA)](https://seekingalpha.com/article/4867567-teslas-robotics-revolution-would-not-save-it)**
 
-Seeking Alpha • 7h ago
+Seeking Alpha • 8h ago
 
 ---
 
@@ -236,7 +236,7 @@ Will a robot soon be watching your children or caring for your parents? Elon Mus
 
 📺 Rainbow Play
 
-👁️ 2K • 👍 29 • 💬 12 • ⏱️ 6:57 • 5h ago
+👁️ 2K • 👍 29 • 💬 12 • ⏱️ 6:57 • 6h ago
 
 ---
 

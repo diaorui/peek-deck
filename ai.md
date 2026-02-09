@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-02-09T13:54:05.648045+00:00'
+updated: '2026-02-09T14:53:17.909591+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- social
 - repositories
-- videos
 - news
+- social
+- videos
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** February 09, 2026 at 13:54 UTC  
+**Last Updated:** February 09, 2026 at 14:53 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -41,7 +41,7 @@ AI news, discussions, and developments
 
 Companies have an incentive to make you believe that chatbots are conscious. Don’t fall for it.
 
-🔗 [The Washington Post](https://www.washingtonpost.com/opinions/2026/02/05/moltbook-anthropic-ai-consciousness-marketing/) • 9h ago
+🔗 [The Washington Post](https://www.washingtonpost.com/opinions/2026/02/05/moltbook-anthropic-ai-consciousness-marketing/) • 10h ago
 
 ---
 
@@ -49,7 +49,7 @@ Companies have an incentive to make you believe that chatbots are conscious. Don
 
 I was getting frustrated trying to keep up with AI and tech YouTube. There are too many videos, not enough hours in the day, and I kept wasting time on content that wasn’t worth it. I wanted a way to quickly see which videos were worth watching, or just skim concise summaries from creators I follow. So I built it. https://tuberizer.com It gives you a custom feed of your favourite YouTube channels with adjustable summary lengths, timestamps, and downloadable transcripts. There’s also an LLM-style chat box that lets you ask questions and explore the video directly from the transcript. Each video has a shareable summary page, and you can generate a summary from any YouTube URL by just replacing “youtube” with “tuberizer” in the link. Still building and iterating - would genuinely love feedback.
 
-17m ago
+1h ago
 
 ---
 
@@ -65,7 +65,7 @@ Just wanted to say thanks for the thoughtful discussion and feedback on my previ
 
 Hello, I am learning 3D modeling (CAD and also mesh-based). And of course, I am worried, that it is useless, because the extreme growth of AI. What are your thoughts on this? Will be games AI-generated? What else could be generated? What about tech designs?
 
-2h ago
+3h ago
 
 ---
 
@@ -73,7 +73,7 @@ Hello, I am learning 3D modeling (CAD and also mesh-based). And of course, I am 
 
 AI agents that can execute code and modify files are powerful but risky. OS sandboxing protects your machine, but what about the services your agent can access? Built ClawBands - a security middleware that requires human approval before dangerous actions: How it works: Agent calls a tool (write file, run command, API call) ClawBands intercepts based on policy (ALLOW/ASK/DENY) If ASK: prompts you for approval (terminal or chat) Your decision is logged to an immutable audit trail Currently works with OpenClaw agents. The pattern (intercept → evaluate → prompt → log) could apply to other frameworks. - Zero trust: every action evaluated - Fail-secure: unknown actions default to ASK - Full audit trail GitHub: https://github.com/SeyZ/clawbands MIT licensed. Feedback welcome.
 
-11m ago
+1h ago
 
 ---
 
@@ -81,7 +81,7 @@ AI agents that can execute code and modify files are powerful but risky. OS sand
 
 Museums (and cities) could use better “self-guided” tech. At most museums right now, you’ve basically got two options: Pay for a human tour guide Rent one of those clunky old audio devices that feel straight out of the 90s It got me thinking: what if there were smart glasses designed for self-guided tours? Lightweight, with a strap battery so they last a full day Could work in museums or even city-wide walking tours Display info, images, maybe AR cues without needing your phone You can also ask questions since it uses AI
 
-10h ago
+11h ago
 
 ---
 
@@ -121,7 +121,7 @@ Let’s say the quiet part out loud.
 
 **[As AI enters the operating room, reports arise of botched surgeries and misidentified body parts](https://www.reuters.com/investigations/ai-enters-operating-room-reports-arise-botched-surgeries-misidentified-body-2026-02-09/)**
 
-Reuters • 2h ago
+Reuters • 3h ago
 
 ---
 
@@ -135,13 +135,13 @@ The New York Times • 1d ago
 
 A data centre operator says its new unit is designed for tasks that need a lot of computer power.
 
-BBC • 31m ago
+BBC • 1h ago
 
 ---
 
 **[A.I. Blitzes the Big Game](https://www.nytimes.com/2026/02/09/business/dealbook/super-bowl-ads-ai.html)**
 
-The New York Times • 19m ago
+The New York Times • 1h ago
 
 ---
 
@@ -149,7 +149,7 @@ The New York Times • 19m ago
 
 From the first AI-generated Big Game ad courtesy of Svedka to Anthropic's beef with OpenAI, here are the biggest ads from Super Bowl LX.
 
-TechCrunch • 21h ago
+TechCrunch • 22h ago
 
 ---
 
@@ -157,7 +157,7 @@ TechCrunch • 21h ago
 
 From Google to Meta to Microsoft, we were handed a world in which all our cares have been whisked away. Except for all the new ones that have come to take their place.
 
-The Hollywood Reporter • 21m ago
+The Hollywood Reporter • 1h ago
 
 ---
 
@@ -165,7 +165,7 @@ The Hollywood Reporter • 21m ago
 
 Radiology has come up multiple times as an example of a field that’s been impacted by AI without replacing the need for human workers.
 
-cnn.com • 1h ago
+cnn.com • 2h ago
 
 ---
 
@@ -173,7 +173,7 @@ cnn.com • 1h ago
 
 In the race for AI, tech firms are asking for their staff to work long hours. But there are risks, experts say.
 
-BBC • 13h ago
+BBC • 14h ago
 
 ---
 
@@ -181,7 +181,7 @@ BBC • 13h ago
 
 Laid-off tech workers are blaming AI for the loss of their jobs, but connecting the dots on how it led to their firing isn't always clear.
 
-Business Insider • 1h ago
+Business Insider • 2h ago
 
 ---
 
@@ -189,7 +189,7 @@ Business Insider • 1h ago
 
 The Trump administration is accelerating AI adoption across government, embedding the technology in policing, health care, defense and science.
 
-The Washington Post • 11m ago
+The Washington Post • 1h ago
 
 ---
 
@@ -201,7 +201,7 @@ The Washington Post • 11m ago
 
 You're using AI to be more productive. So why are you more exhausted than ever? The paradox every engineer needs to confront.
 
-⬆️ 432 • 💬 302 • 23h ago • [Siddhant Khare](https://siddhantkhare.com/writing/ai-fatigue-is-real)
+⬆️ 432 • 💬 302 • 1d ago • [Siddhant Khare](https://siddhantkhare.com/writing/ai-fatigue-is-real)
 
 ---
 
@@ -209,7 +209,7 @@ You're using AI to be more productive. So why are you more exhausted than ever? 
 
 AI handles writing code but leaves the hard work: investigation, context, validation. Why vibe coding has limits and AI assistance can backfire.
 
-⬆️ 421 • 💬 295 • 14h ago • [blundergoat.com](https://www.blundergoat.com/articles/ai-makes-the-easy-part-easier-and-the-hard-part-harder)
+⬆️ 421 • 💬 295 • 15h ago • [blundergoat.com](https://www.blundergoat.com/articles/ai-makes-the-easy-part-easier-and-the-hard-part-harder)
 
 ---
 
@@ -249,7 +249,7 @@ A minimal, secure Python interpreter written in Rust for use by AI - pydantic/mo
 
 Taiwan’s TSMC, the world’s largest contract computer chip maker, has announced it will be manufacturing advanced 3-nanometer semiconductors in Japan to meet booming AI demand.
 
-⬆️ 191 • 💬 149 • 9h ago • [AP News](https://apnews.com/article/semiconductors-tsmc-japan-taiwan-ai-11256f2bfde73ca23d08331ad138d6d5)
+⬆️ 191 • 💬 149 • 10h ago • [AP News](https://apnews.com/article/semiconductors-tsmc-japan-taiwan-ai-11256f2bfde73ca23d08331ad138d6d5)
 
 ---
 
@@ -265,7 +265,7 @@ Matchlock secures AI agent workloads with a Linux-based sandbox. - jingkaihe/mat
 
 Microsoft, Nvidia, Oracle, Meta, Amazon and Alphabet all saw their shares fall in the week up to the market close on Thursday.
 
-⬆️ 89 • 💬 89 • 2d ago • [CNBC](https://www.cnbc.com/2026/02/06/ai-sell-off-stocks-amazon-oracle.html)
+⬆️ 89 • 💬 89 • 3d ago • [CNBC](https://www.cnbc.com/2026/02/06/ai-sell-off-stocks-amazon-oracle.html)
 
 ---
 
@@ -273,7 +273,7 @@ Microsoft, Nvidia, Oracle, Meta, Amazon and Alphabet all saw their shares fall i
 
 In the race for AI, tech firms are asking for their staff to work long hours. But there are risks, experts say.
 
-⬆️ 59 • 💬 81 • 12h ago • [bbc.com](https://www.bbc.com/news/articles/cvgn2k285ypo)
+⬆️ 59 • 💬 81 • 13h ago • [bbc.com](https://www.bbc.com/news/articles/cvgn2k285ypo)
 
 ---
 
@@ -287,7 +287,7 @@ A major AI shakeup is unfolding behind the scenes. A leaked internal memo sugges
 
 📺 AI Revolution
 
-👁️ 16K • 👍 578 • 💬 61 • ⏱️ 12:49 • 14h ago
+👁️ 16K • 👍 578 • 💬 61 • ⏱️ 12:49 • 15h ago
 
 ---
 
@@ -307,7 +307,7 @@ Let me know what you all think in the comments down below! #donaldtrump #MAGA #t
 
 📺 Watts TV
 
-👁️ 6K • 👍 349 • 💬 127 • ⏱️ 30:58 • 18h ago
+👁️ 6K • 👍 349 • 💬 127 • ⏱️ 30:58 • 19h ago
 
 ---
 
@@ -317,7 +317,7 @@ Can you spot AI videos easily? #tech #ai #surfshark.
 
 📺 Surfshark Academy
 
-👁️ 21K • 👍 3K • 💬 79 • ⏱️ 1:17 • 22h ago
+👁️ 21K • 👍 3K • 💬 79 • ⏱️ 1:17 • 23h ago
 
 ---
 
@@ -357,7 +357,7 @@ Olympic level AI slop is here. Sources ...
 
 📺 Stylosa
 
-👁️ 14K • 👍 765 • 💬 189 • ⏱️ 10:36 • 18h ago
+👁️ 14K • 👍 765 • 💬 189 • ⏱️ 10:36 • 19h ago
 
 ---
 
@@ -393,7 +393,7 @@ GLM-OCR is a 0.9B parameter multimodal OCR model for complex document understand
 
 `image-to-text`
 
-⬇️ 297,833 • ❤️ 858 • 7h ago
+⬇️ 297,833 • ❤️ 858 • 8h ago
 
 ---
 
@@ -417,7 +417,7 @@ MiniCPM-o 4.5 is a 9B parameter multimodal LLM excelling in vision, speech, and 
 
 `any-to-any` `9.4B`
 
-⬇️ 28,068 • ❤️ 661 • 5h ago
+⬇️ 28,068 • ❤️ 661 • 6h ago
 
 ---
 
@@ -451,7 +451,7 @@ ACE-Step 1.5 is an open-source text-to-audio model for commercial-grade music ge
 
 Voxtral-Mini-4B-Realtime-2602 is a multilingual, real-time speech-to-text model with <500ms latency, supporting 13 languages and achieving offline-comparable accuracy. It's optimized for on-device deployment and ideal for voice assistants and live subtitling.
 
-⬇️ 2,753 • ❤️ 412 • 16h ago
+⬇️ 2,753 • ❤️ 412 • 17h ago
 
 ---
 
@@ -497,7 +497,7 @@ Intern-S1-Pro is a trillion-scale MoE multimodal scientific reasoning model exce
 
 `image-text-to-text`
 
-⬇️ 8,455 • ❤️ 215 • 7h ago
+⬇️ 8,455 • ❤️ 215 • 8h ago
 
 ---
 
@@ -655,7 +655,7 @@ The Ultimate Collection of 700+ Agentic Skills for Claude Code/Antigravity/Curso
 
 `Python` `agentic-skills` `ai-agents` `antigravity` `autonomous-coding` `claude-code`
 
-⭐ 8.0k • 🔱 1.7k • 6h ago
+⭐ 8.0k • 🔱 1.7k • 7h ago
 
 ---
 
@@ -719,7 +719,7 @@ An app to monitor the (Codex) situation
 
 `TypeScript` `ai` `codex` `linux` `macos` `tauri-app`
 
-⭐ 2.3k • 🔱 213 • 18m ago
+⭐ 2.3k • 🔱 213 • 1h ago
 
 ---
 
