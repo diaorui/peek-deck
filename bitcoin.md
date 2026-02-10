@@ -3,13 +3,13 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-02-10T17:34:54.725222+00:00'
+updated: '2026-02-10T19:06:20.511964+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- videos
 - cryptocurrency
+- videos
 - social
 - news
 ---
@@ -18,7 +18,7 @@ data_types:
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** February 10, 2026 at 17:34 UTC  
+**Last Updated:** February 10, 2026 at 19:06 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,33 +38,33 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $69,868.05
+### $68,947.55
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** -0.8%  
-**7d:** -4.6%  
-**30d:** -23.5%  
-**90d:** -30.2%  
-**1y:** -27.1%  
+**24h:** -2.9%  
+**7d:** -6.0%  
+**30d:** -24.6%  
+**90d:** -31.2%  
+**1y:** -28.2%  
 
 ---
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1382.39B
+**Market Cap:** $1376.99B
 Rank #1
 
-**Circulating Supply:** 19,987,231 BTC
+**Circulating Supply:** 19,987,287 BTC
 95.2% of max
 
 **All-Time High:** $126,080.00
--45.2%
+-45.4%
 
 **All-Time Low:** $67.81
-+101755.2%
++101361.4%
 
 ---
 
@@ -77,11 +77,19 @@ Rank #1
 
 ## Reddit: r/Bitcoin
 
+**[JUST IN: 🇺🇸 Treasury Secretary Bessent calls to pass crypto market structure legislation.](https://www.reddit.com/r/Bitcoin/comments/1r15dur/just_in_treasury_secretary_bessent_calls_to_pass/)**
+
+"The United States is becoming the Crypto Capital of the world"
+
+2h ago
+
+---
+
 **[The Irony](https://www.reddit.com/r/Bitcoin/comments/1r0kfp5/the_irony/)**
 
 After hearing all the takes on recent Bitcoin price action, the irony is hard to miss. The goal is still buy low, sell high… right? 😅
 
-18h ago
+19h ago
 
 ---
 
@@ -89,7 +97,7 @@ After hearing all the takes on recent Bitcoin price action, the irony is hard to
 
 Every BTC we move into cold storage is one less coin available for exchanges to lend to shorters or use to suppress the price. We’ve seen exchange reserves hitting lows, and we know what happens next is the supply shock.Move your stack to a hardware wallet. Not only do you truly own your wealth, but you also force the market to reflect Bitcoin's true scarcity. Stop being a liquidity provider for the people betting against you. Withdraw. Verify. HODL.
 
-2h ago
+3h ago
 
 ---
 
@@ -97,7 +105,13 @@ Every BTC we move into cold storage is one less coin available for exchanges to 
 
 "Both Bitcoin and Stablecoins will be the money for all of these AI Agents"
 
-2h ago
+3h ago
+
+---
+
+**["If bitcoin continues to exist, I have yet to hear any intelligent counterargument as to why it would NOT become the world’s money." - Robert Breedlove](https://www.reddit.com/r/Bitcoin/comments/1r177pu/if_bitcoin_continues_to_exist_i_have_yet_to_hear/)**
+
+1h ago
 
 ---
 
@@ -105,15 +119,13 @@ Every BTC we move into cold storage is one less coin available for exchanges to 
 
 Stay humble, stack sats. Not a brag post but something for me to reflect upon each year and look back on the journey
 
-13h ago
+15h ago
 
 ---
 
-**[JUST IN: 🇺🇸 Treasury Secretary Bessent calls to pass crypto market structure legislation.](https://www.reddit.com/r/Bitcoin/comments/1r15dur/just_in_treasury_secretary_bessent_calls_to_pass/)**
+**[The next Fed chair Kevin Warsh, talking about Bitcoin in the past](https://www.reddit.com/r/Bitcoin/comments/1r13hjw/the_next_fed_chair_kevin_warsh_talking_about/)**
 
-"The United States is becoming the Crypto Capital of the world"
-
-1h ago
+3h ago
 
 ---
 
@@ -121,7 +133,7 @@ Stay humble, stack sats. Not a brag post but something for me to reflect upon ea
 
 Only 6.6% of Bitcoin ETF holdings have been sold since last ATH.
 
-🔗 [Yahoo Finance](https://finance.yahoo.com/news/bitcoin-etf-holders-diamond-hands-160516190.html) • 19h ago
+🔗 [Yahoo Finance](https://finance.yahoo.com/news/bitcoin-etf-holders-diamond-hands-160516190.html) • 21h ago
 
 ---
 
@@ -129,27 +141,13 @@ Only 6.6% of Bitcoin ETF holdings have been sold since last ATH.
 
 What do you guys think about DCA (Dollar Cost Averaging)? I'am willing to put 10% of my salary each month on Bitcoin (100$) for a period of three years. Is it a good idea? What are thr pros and cons?
 
-4h ago
+5h ago
 
 ---
 
 **[”I don't know of a single large company that doesn't have a blockchain strategy." John D'Agostino--Coinbase](https://www.reddit.com/r/Bitcoin/comments/1r16011/i_dont_know_of_a_single_large_company_that_doesnt/)**
 
-45m ago
-
----
-
-**[The next Fed chair Kevin Warsh, talking about Bitcoin in the past](https://www.reddit.com/r/Bitcoin/comments/1r13hjw/the_next_fed_chair_kevin_warsh_talking_about/)**
-
 2h ago
-
----
-
-**[Rep Thomas Massie says reading The Bitcoin Standard inspired him to introduce a bill to end the Fed](https://www.reddit.com/r/Bitcoin/comments/1r079d1/rep_thomas_massie_says_reading_the_bitcoin/)**
-
-If you can't afford to buy it, the author is linking to free version: https://x.com/saifedean/status/1541200940124049408#m The audio book is also quite often to be found at YouTube.
-
-1d ago
 
 ---
 
@@ -161,15 +159,13 @@ If you can't afford to buy it, the author is linking to free version: https://x.
 
 Strategy plans to continue refinancing its debt and buying bitcoin, even as the token tumbles, CEO Michael Saylor said Tuesday on CNBC's "Squawk Box."
 
-CNBC • 2h ago
+CNBC • 4h ago
 
 ---
 
-**[MSTR’s Michael Saylor says the company will buy ‘every quarter’ of Bitcoin ‘forever’ (BTC-USD:Cryptocurrency)](https://seekingalpha.com/news/4549517-mstr-s-michael-saylor-says-the-company-will-buy-every-quarter-of-bitcoin-forever)**
+**[What if bitcoin prices fall to $8,000? Michael Saylor says Strategy still won’t sell.](https://www.marketwatch.com/story/what-if-bitcoin-prices-fall-to-8-000-michael-saylor-says-strategy-still-wont-sell-975f5362?gaa_at=eafs&gaa_n=AWEtsqdNVdKP5B9uEoqyZWrk2wZOFHjCHxJVYgI2soOEeHx75DRFKdmS7R9l&gaa_ts=698b84e7&gaa_sig=r3_pZ-Kh-_2uUwxwLyuwlbQU1tzsMFJsOm868DPBtaeoqW_KImtZVlEaECSDu5UVj-VSj_-76q9AOeN4AngZIg%3D%3D)**
 
-Michael Saylor says Strategy (MSTR) will buy Bitcoin every quarter “forever,” backing BTC volatility as a feature—see his thesis and what it means now.
-
-Seeking Alpha • 2h ago
+MarketWatch • 3h ago
 
 ---
 
@@ -177,7 +173,7 @@ Seeking Alpha • 2h ago
 
 Strategy CEO Phong Le explains why the company bought a large value of Bitcoin after the stock took a dip on 'The Claman Countdown.'
 
-Fox Business • 18h ago
+Fox Business • 19h ago
 
 ---
 
@@ -185,7 +181,7 @@ Fox Business • 18h ago
 
 Bitcoin (BTC-USD) prices were hovering around $70,000 at the end of the equity trading session on Monday. Yahoo Finance Senior Reporter Ines Ferré reports on the trading action, key levels to watch, and one analyst's bullish call. To watch more expert insights and analysis on the latest market action, check out more Market Domination Overtime.
 
-Yahoo Finance • 20h ago
+Yahoo Finance • 21h ago
 
 ---
 
@@ -193,15 +189,7 @@ Yahoo Finance • 20h ago
 
 Interactive Brokers now offers nano Bitcoin futures via Coinbase Derivatives, providing smaller, lower-risk, and perpetual-style contracts to broaden regulated crypto access for its clients.
 
-Bitcoin Magazine • 1h ago
-
----
-
-**[Saylor says bitcoin will ‘double or triple’ S&P returns over coming years, vows Strategy won’t be selling](https://www.theblock.co/post/389253/saylor-bitcoin-double-triple-sp-returns-coming-years-vows-strategy-wont-selling?utm_source=companies.xml&utm_medium=rss)**
-
-Strategy continues expanding its bitcoin holdings even as its treasury value sits below total acquisition cost following the recent pullback.
-
-The Block • 57m ago
+Bitcoin Magazine • 2h ago
 
 ---
 
@@ -209,13 +197,7 @@ The Block • 57m ago
 
 Bithumb has apologised for staff error that sent customers 620,000 bitcoins instead of 620,000 Korean won, equivalent to a few hundred US dollars
 
-The Guardian • 13h ago
-
----
-
-**[Korea Probes Crypto Exchange Over $40 Billion in ‘Ghost Bitcoin’](https://www.bloomberg.com/news/articles/2026-02-09/bithumb-accidentally-gifts-620-000-bitcoin-btc-to-clients-in-fat-finger-error)**
-
-Bloomberg.com • 1d ago
+The Guardian • 14h ago
 
 ---
 
@@ -227,11 +209,25 @@ BBC • 3d ago
 
 ---
 
+**[Korea Probes Crypto Exchange Over $40 Billion in ‘Ghost Bitcoin’](https://www.bloomberg.com/news/articles/2026-02-09/bithumb-accidentally-gifts-620-000-bitcoin-btc-to-clients-in-fat-finger-error)**
+
+Bloomberg • 1d ago
+
+---
+
+**[Trusted Chicago judge takes Tuskegee Airman's cash, then flips it into bitcoin for herself](https://www.cbsnews.com/chicago/news/retired-judge-patricia-martin-theft-tuskegee-airman-oscar-lawton-wilkerson-bitcoin/)**
+
+A retired judge who lost her law license for fleecing her Tuskegee Airman uncle used the money she stole to buy bitcoin for herself, court records show.
+
+cbsnews.com • 1d ago
+
+---
+
 **[Bitcoin scam investigation underway after Jackson County resident loses $46,000](https://www.wlox.com/2026/02/10/bitcoin-scam-investigation-underway-after-jackson-county-resident-loses-46000/)**
 
 A Bitcoin scam is under investigation by Law enforcement in Jackson County.
 
-WLOX • 13h ago
+WLOX • 14h ago
 
 ---
 
@@ -255,7 +251,7 @@ Some market watchers have suggested $70,000 is a key level to watch and a break 
 
 **[Bitcoin tumbles below $70K, heavy losses in cryptocurrencies in last three weeks](https://news.ycombinator.com/item?id=46934165)**
 
-⬆️ 57 • 💬 66 • 2d ago • [bloomberg.com](https://www.bloomberg.com/news/articles/2026-02-05/bitcoin-drops-below-70-000-as-forced-deleveraging-accelerates)
+⬆️ 57 • 💬 67 • 2d ago • [bloomberg.com](https://www.bloomberg.com/news/articles/2026-02-05/bitcoin-drops-below-70-000-as-forced-deleveraging-accelerates)
 
 ---
 
@@ -269,7 +265,7 @@ Bitcoin outlook turns bearish as Pivotus’ Richard Farr targets BTC at $0 and M
 
 **[South Korean crypto firm accidentally sends $44B in bitcoins to users](https://news.ycombinator.com/item?id=46926461)**
 
-⬆️ 6 • 💬 0 • 2d ago • [reuters.com](https://www.reuters.com/world/asia-pacific/crypto-firm-accidentally-sends-44-billion-bitcoins-users-2026-02-07/)
+⬆️ 6 • 💬 0 • 3d ago • [reuters.com](https://www.reuters.com/world/asia-pacific/crypto-firm-accidentally-sends-44-billion-bitcoins-users-2026-02-07/)
 
 ---
 
@@ -317,23 +313,23 @@ Bitcoin behaves more like an "ATM" during uncertain times, with investors quickl
 
 ## YouTube Videos: "bitcoin"
 
-**[Why bitcoin is lingering around $70,000](https://www.youtube.com/watch?v=zVU9lf3KoAw)**
-
-CNBC's MacKenzie Sigalos reports on trends in bitcoin.
-
-📺 CNBC Television
-
-👁️ 13K • 👍 123 • 💬 174 • ⏱️ 2:23 • 13h ago
-
----
-
 **[If You Hold Bitcoin &amp; Ethereum... GET READY! (watch before they delete this) ☝️](https://www.youtube.com/watch?v=RPv313nfVs0)**
 
 If You Hold Crypto... GET READY! (watch before they delete this) ☝️ Become a channel member & get access to perks: ...
 
 📺 Altcoin Daily
 
-👁️ 49K • 👍 3K • 💬 193 • ⏱️ 11:47 • 17h ago
+👁️ 54K • 👍 3K • 💬 210 • ⏱️ 11:47 • 18h ago
+
+---
+
+**[Why bitcoin is lingering around $70,000](https://www.youtube.com/watch?v=zVU9lf3KoAw)**
+
+CNBC's MacKenzie Sigalos reports on trends in bitcoin.
+
+📺 CNBC Television
+
+👁️ 16K • 👍 124 • 💬 204 • ⏱️ 2:23 • 14h ago
 
 ---
 
@@ -343,7 +339,17 @@ Watch my free masterclass & get Market Briefs as a bonus: https://briefs.finance
 
 📺 Minority Mindset
 
-👁️ 194K • 👍 6K • 💬 2K • ⏱️ 13:35 • 1d ago
+👁️ 201K • 👍 6K • 💬 2K • ⏱️ 13:35 • 1d ago
+
+---
+
+**[Behind the volatility in crypto: Bitcoin hovering around $69,000, ethereum near $2,000](https://www.youtube.com/watch?v=xCK9MHY6Eh8)**
+
+CNBC"s MacKenzie Sigalos joins 'Squawk Box' to discuss the recent bitcoin volatility.
+
+📺 CNBC Television
+
+👁️ 10K • 👍 330 • 💬 234 • ⏱️ 6:36 • 3h ago
 
 ---
 
@@ -353,7 +359,7 @@ The Fed and Treasury are backing themselves into a corner and the only escape is
 
 📺 Simply Bitcoin
 
-👁️ 28K • 👍 3K • 💬 296 • ⏱️ 17:50 • 17h ago
+👁️ 30K • 👍 3K • 💬 305 • ⏱️ 17:50 • 19h ago
 
 ---
 
@@ -363,17 +369,7 @@ Cathie Wood, CEO of ARK Invest, just dropped a bombshell about Bitcoin's crash t
 
 📺 Money Talks
 
-👁️ 2K • 👍 66 • 💬 29 • ⏱️ 12:18 • 23h ago
-
----
-
-**[Can Bitcoin Really Fall to $50,000?](https://www.youtube.com/watch?v=FJhvtlyd_Wo)**
-
-Make Free Predictions on *ClashPicks* ▻ https://www.clashpicks.com/ Follow ClashPicks' X ▻ https://x.com/ClashPicks ...
-
-📺 CryptosRUs
-
-👁️ 24K • 👍 1K • 💬 314 • ⏱️ 12:54 • 15h ago
+👁️ 3K • 👍 67 • 💬 69 • ⏱️ 12:18 • 1d ago
 
 ---
 
@@ -383,35 +379,37 @@ Make Free Predictions on *ClashPicks* ▻ https://www.clashpicks.com/ Follow Cla
 
 📺 Money Talks
 
-👁️ 15K • 👍 220 • 💬 60 • ⏱️ 11:09 • 1d ago
+👁️ 15K • 👍 223 • 💬 60 • ⏱️ 11:09 • 2d ago
 
 ---
 
-**[WOW BITCOIN $150K US ECONOMY IS COLLAPSES CME ADDS ADA XLM LINK! #crypto #cryptocurrency #bitcoin](https://www.youtube.com/watch?v=_VBWQtWpAhM)**
+**[Can Bitcoin Really Fall to $50,000?](https://www.youtube.com/watch?v=FJhvtlyd_Wo)**
 
-📺 CryptoWendyO
+Make Free Predictions on *ClashPicks* ▻ https://www.clashpicks.com/ Follow ClashPicks' X ▻ https://x.com/ClashPicks ...
 
-👁️ 9K • 👍 597 • 💬 28 • ⏱️ 2:19 • 15h ago
+📺 CryptosRUs
 
----
-
-**[🚨EXTREME BITCOIN FEAR (TRUMP Critical Crypto Meeting TODAY)](https://www.youtube.com/watch?v=qHtSvCdhYu0)**
-
-Bitcoin is currently grappling with a massive crisis of confidence, with the Crypto Fear & Greed Index crashing to a record low of ...
-
-📺 Discover Crypto
-
-👁️ 2K • 👍 165 • 2h ago
+👁️ 25K • 👍 1K • 💬 368 • ⏱️ 12:54 • 17h ago
 
 ---
 
-**[Bitcoin: A Realistic Price Prediction For 2026](https://www.youtube.com/watch?v=dpgmSrlI9HM)**
+**[Is The Crash Over? Bitcoin&#39;s &quot;Micro&quot; Bull Signal vs. &quot;Macro&quot; Bear Trap 📉](https://www.youtube.com/watch?v=QsDi1pPu8Fw)**
 
-Mark Yusko Crypto Prediction's 2026 Follow: https://x.com/MarkYusko LIMITED TIME: ✓ Bitunix (no kyc, $10k bonus): ...
+In this critical crypto market update, Chief Market Strategist Gareth Soloway dissects the confusing price action in Bitcoin (BTC), ...
 
-📺 Altcoin Daily
+📺 Gareth Soloway
 
-👁️ 24K • 👍 524 • 💬 65 • ⏱️ 1:10 • 21h ago
+👁️ 37K • 👍 3K • 💬 244 • ⏱️ 14:40 • 6h ago
+
+---
+
+**[What The F*ck Happened To Bitcoin?! I Anthony Scaramucci](https://www.youtube.com/watch?v=v45eRAA0RCs)**
+
+Anthony Scaramucci is the founder and managing partner of SkyBridge, a global alternative investment firm, and founder and ...
+
+📺 Anthony Scaramucci
+
+👁️ 36K • 👍 1K • 💬 112 • ⏱️ 1:13 • 1d ago
 
 ---
 

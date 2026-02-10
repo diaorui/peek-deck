@@ -3,13 +3,13 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-02-10T17:34:54.731175+00:00'
+updated: '2026-02-10T19:06:20.517959+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- videos
 - cryptocurrency
+- videos
 - social
 - news
 ---
@@ -18,7 +18,7 @@ data_types:
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** February 10, 2026 at 17:34 UTC  
+**Last Updated:** February 10, 2026 at 19:06 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -36,33 +36,33 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Price
 
-### $2,035.19
+### $2,006.74
 
 ---
 
 ## Ethereum Chart
 
-**24h:** -4.1%  
-**7d:** -5.1%  
-**30d:** -34.2%  
-**90d:** -37.1%  
-**1y:** -21.7%  
+**24h:** -5.7%  
+**7d:** -6.6%  
+**30d:** -35.2%  
+**90d:** -38.0%  
+**1y:** -22.8%  
 
 ---
 
 ## Ethereum Market Stats
 
-**Market Cap:** $243.78B
+**Market Cap:** $242.49B
 Rank #2
 
 **Circulating Supply:** 120,692,589 ETH
 No max supply
 
 **All-Time High:** $4,946.05
--59.2%
+-59.4%
 
 **All-Time Low:** $0.43
-+465687.0%
++463698.5%
 
 ---
 
@@ -72,7 +72,7 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-11h ago
+13h ago
 
 ---
 
@@ -80,7 +80,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 I’ve been keeping my ETH on a centralized exchange but want better control and yield without the risks of leaving it on a CEX. My biggest worry is security , I don’t want to lose funds to hacks or platform failures. What are the safest ways to move into staking or DeFi that keep me in control? I’m open to liquid staking, DeFi platforms, or even self-custody methods, as long as it’s secure. I’d prefer to avoid KYC-heavy centralized services altogether. What have you tried recently that felt safe and reliable?
 
-3h ago
+5h ago
 
 ---
 
@@ -156,7 +156,7 @@ eth-mempool-monitor subscribes to Ethereum pending transactions over WebSocket, 
 
 Buterin pitched Ethereum as an economic/coordination layer for decentralized, privacy-preserving AI systems rather than a race toward AGI.
 
-The Block • 6h ago
+The Block • 8h ago
 
 ---
 
@@ -164,7 +164,13 @@ The Block • 6h ago
 
 The Ethereum co-founder has outlined a four-quadrant Ethereum-AI buildout spanning private AI use, agent markets, and governance.
 
-Decrypt • 11h ago
+Decrypt • 12h ago
+
+---
+
+**[Ethereum leads way as large cryptocurrencies drop](https://www.marketwatch.com/data-news/ethereum-leads-way-as-large-cryptocurrencies-drop-f5e80176-a90dea2a77fc?gaa_at=eafs&gaa_n=AWEtsqcmIs_WQGE6gXazufdlbJLUUdeQe_KOtpG7dxHhNfyamDy8Yufn-Oc3&gaa_ts=698b8519&gaa_sig=nAUXFjJEXfYwme-L9rp4sHRKyAXoVHBnCwrE9A6ieAgf-857g_WugCzlqYlTdwwurba93vih_rPhoojyw3EnSw%3D%3D)**
+
+MarketWatch • 4h ago
 
 ---
 
@@ -172,13 +178,7 @@ Decrypt • 11h ago
 
 Ethereum price eyes recovery as exchange outflows rise, holding $2,000 support could drive move toward $2,500 soon if buying continues.
 
-Yahoo Finance • 1h ago
-
----
-
-**[Ethereum leads way as large cryptocurrencies drop](https://www.marketwatch.com/data-news/ethereum-leads-way-as-large-cryptocurrencies-drop-f5e80176-a90dea2a77fc?gaa_at=eafs&gaa_n=AWEtsqdD_jRJgT7QHvIbYyKB-xR7Kd_AipIMzKSX3jt4jwCFkmITDHUfE1Gs&gaa_ts=698b6faa&gaa_sig=g9UGCmBM5x9dRU9vdErS0iCT3buH5lr1opUrzPoc9P3l9whuPMiOTEEOeKI9v8fvCtG0f9XCKqEnpQfqSjcV2A%3D%3D)**
-
-MarketWatch • 2h ago
+Yahoo Finance • 3h ago
 
 ---
 
@@ -186,23 +186,7 @@ MarketWatch • 2h ago
 
 In a new post on X revisiting ideas he first outlined two years ago, Buterin argues that the push toward artificial general intelligence often resembles the kind of unchecked speed and scale that Ethereum itself was created to challenge.
 
-CoinDesk • 2h ago
-
----
-
-**[Forget Ethereum, Stablecoins, and XRP -- Here Are Bitcoin's 3 Biggest Trillion-Dollar Competitive Risks](https://www.nasdaq.com/articles/forget-ethereum-stablecoins-and-xrp-here-are-bitcoins-3-biggest-trillion-dollar)**
-
-Key PointsBitcoin has become a globally recognized asset, which means that it competes with huge pools of capital in different markets.
-
-Nasdaq • 5h ago
-
----
-
-**[Tom Lee’s BitMine Buys More Ethereum Despite $7.5 Billion Unrealized Loss](https://finance.yahoo.com/news/tom-lee-bitmine-buys-more-175225629.html)**
-
-Publicly traded Ethereum treasury firm BitMine Immersion Technology added to its ETH holdings last week, even as its paper losses grew.
-
-Yahoo Finance • 23h ago
+CoinDesk • 3h ago
 
 ---
 
@@ -214,19 +198,35 @@ CCN.com • 1d ago
 
 ---
 
-**[Bitmine Immersion Technologies (BMNR) Announces ETH Holdings Reach 4.326 Million Tokens, and Total Crypto and Total Cash Holdings of $10.0 Billion](https://www.prnewswire.com/news-releases/bitmine-immersion-technologies-bmnr-announces-eth-holdings-reach-4-326-million-tokens-and-total-crypto-and-total-cash-holdings-of-10-0-billion-302682272.html)**
+**[Tom Lee’s BitMine Buys More Ethereum Despite $7.5 Billion Unrealized Loss](https://finance.yahoo.com/news/tom-lee-bitmine-buys-more-175225629.html)**
 
-Bitmine has 2,873,459 staked ETH, representing $6.2 billion at $2,125 per ETH; MAVAN staking solution on track to launch Q1 2026 Bitmine now owns 3.58% of the...
+Publicly traded Ethereum treasury firm BitMine Immersion Technology added to its ETH holdings last week, even as its paper losses grew.
 
-PR Newswire • 1d ago
+Yahoo Finance • 1d ago
 
 ---
 
-**[High octane 4X leveraged bitcoin and ethereum ETFs have been filed for by ProShares](https://seekingalpha.com/news/4549555-high-octane-4x-leveraged-bitcoin-and-ethereum-etfs-have-been-filed-for-by-proshares)**
+**[Tom Lee’s BitMine Buys More Ethereum Despite $7.5 Billion Unrealized Loss](https://decrypt.co/357468/tom-lees-bitmine-buys-ethereum-7-5-billion-unrealized-loss)**
 
-Bitcoin (BTC-USD) and Ethereum (ETH-USD) investors could soon have access to significantly higher leverage in regulated exchange traded fund products. Learn more here.
+Publicly traded Ethereum treasury firm BitMine Immersion Technology added to its ETH holdings last week, even as its paper losses grew.
 
-Seeking Alpha • 2h ago
+Decrypt • 1d ago
+
+---
+
+**[Ethereum Price Set To Break Out Against Bitcoin, But How High Can It Go?](https://www.tradingview.com/news/newsbtc:e0d161f50094b:0-ethereum-price-set-to-break-out-against-bitcoin-but-how-high-can-it-go/)**
+
+The cryptocurrency industry went under intense pressure last week, with Bitcoin and Ethereum leading the crash and multiple cryptocurrencies hitting new multi-month lows. The crash was more pronounced with Bitcoin, though, and the imbalance in selling pressure is quietly shifting the relationship b…
+
+TradingView • 1d ago
+
+---
+
+**[Ethereum Falls to $2,000 But New Price Prediction Targets $7,500 by End-2026](https://www.financemagnates.com/trending/ethereum-falls-to-2000-but-new-price-prediction-targets-7500-by-end-2026/)**
+
+Ethereum price predictions from Standard Chartered and Citi target $5,400-$7,500 for 2026, but technical analysis shows bearish targets at $1,760-$1,000.
+
+financemagnates.com • 1d ago
 
 ---
 
@@ -234,13 +234,13 @@ Seeking Alpha • 2h ago
 
 ## YouTube Videos: "ethereum"
 
-**[Ethereum Elliott Wave Update – Key Resistance Levels Ahead](https://www.youtube.com/watch?v=KyxrKSbcvUQ)**
+**[Behind the volatility in crypto: Bitcoin hovering around $69,000, ethereum near $2,000](https://www.youtube.com/watch?v=xCK9MHY6Eh8)**
 
-This video provides a professional Elliott Wave and technical analysis of Ethereum (ETH), focusing on market structure, major ...
+CNBC"s MacKenzie Sigalos joins 'Squawk Box' to discuss the recent bitcoin volatility.
 
-📺 More Crypto Online
+📺 CNBC Television
 
-👁️ 1K • 👍 140 • 💬 4 • ⏱️ 4:14 • 4h ago
+👁️ 10K • 👍 330 • 💬 234 • ⏱️ 6:36 • 3h ago
 
 ---
 
@@ -250,7 +250,17 @@ If You Hold Crypto... GET READY! (watch before they delete this) ☝️ Become a
 
 📺 Altcoin Daily
 
-👁️ 49K • 👍 3K • 💬 193 • ⏱️ 11:47 • 17h ago
+👁️ 54K • 👍 3K • 💬 210 • ⏱️ 11:47 • 18h ago
+
+---
+
+**[Ethereum Elliott Wave Update – Key Resistance Levels Ahead](https://www.youtube.com/watch?v=KyxrKSbcvUQ)**
+
+This video provides a professional Elliott Wave and technical analysis of Ethereum (ETH), focusing on market structure, major ...
+
+📺 More Crypto Online
+
+👁️ 2K • 👍 185 • 💬 5 • ⏱️ 4:14 • 6h ago
 
 ---
 
@@ -260,47 +270,17 @@ Welcome back home Ethereum! This time I think ETH will kick its feet back and st
 
 📺 Benjamin Cowen
 
-👁️ 105K • 👍 6K • 💬 373 • ⏱️ 14:29 • 1d ago
+👁️ 107K • 👍 6K • 💬 377 • ⏱️ 14:29 • 1d ago
 
 ---
 
-**[Behind the volatility in crypto: Bitcoin hovering around $69,000, ethereum near $2,000](https://www.youtube.com/watch?v=xCK9MHY6Eh8)**
+**[CZ: “This Is EXACTLY How The 2026 Bull Run Starts” [New Bitcoin &amp; Ethereum Prediction 2026]](https://www.youtube.com/watch?v=nLTCa0JE_KY)**
 
-CNBC"s MacKenzie Sigalos joins 'Squawk Box' to discuss the recent bitcoin volatility.
+My FREE Daily 5-Min Crypto Newsletter: https://www.cryptonutshell.com/subscribe ⮕ Cold Storage Wallet: ...
 
-📺 CNBC Television
+📺 Crypto Nutshell
 
-👁️ 130 • 👍 3 • ⏱️ 6:36 • 1h ago
-
----
-
-**[BITCOIN &amp; CRYPTO: It&#39;s Actually Happening (New Targets)!!! - Bitcoin News Today, Ethereum &amp; Altcoins](https://www.youtube.com/watch?v=NN7CEqBjc5U)**
-
-BITCOIN & CRYPTO: It's Actually Happening (New Targets)!!! - Bitcoin News Today, Ethereum & Altcoins *Bitunix* ...
-
-📺 Crypto World
-
-👁️ 9K • 👍 327 • 💬 173 • ⏱️ 17:38 • 18h ago
-
----
-
-**[Ethereum Elliott Wave Update – Key Resistance Levels Ahead](https://www.youtube.com/watch?v=NpH4uebFFik)**
-
-This video provides a professional Elliott Wave and technical analysis of Ethereum (ETH), focusing on market structure, major ...
-
-📺 More Crypto Online
-
-👁️ 3K • 👍 191 • 💬 6 • ⏱️ 6:04 • 16h ago
-
----
-
-**[ETHEREUM FOUNDER DROPS BOMB!](https://www.youtube.com/watch?v=Qm9OzHTwV1M)**
-
-MACRO MARKET ANALYSIS VIDEOS EVERYDAY SINCE 2018 I don't sell anything. I don't have any programs for you to join.
-
-📺 The Cryptoviser
-
-👁️ 245 • 👍 43 • 💬 3 • ⏱️ 34:07 • 3h ago
+👁️ 3K • 👍 234 • 💬 57 • ⏱️ 19:39 • 3h ago
 
 ---
 
@@ -310,27 +290,47 @@ ETHEREUM ETH PRICE PREDICTION 2026 Join the Premium Signal Group for trade setup
 
 📺 Cilinix Crypto
 
-👁️ 192 • 👍 16 • 💬 2 • ⏱️ 5:24 • 7h ago
+👁️ 244 • 👍 17 • 💬 3 • ⏱️ 5:24 • 9h ago
 
 ---
 
-**[Live Crypto Trading | Bitcoin Live Trading Intelligent trader | 10 Feb | #btc #eth #cryptotrading](https://www.youtube.com/watch?v=22O9rydgUdI)**
+**[BITCOIN &amp; CRYPTO: It&#39;s Actually Happening (New Targets)!!! - Bitcoin News Today, Ethereum &amp; Altcoins](https://www.youtube.com/watch?v=NN7CEqBjc5U)**
 
-Account Open From Here - Delta India - (CRYPTO BROKER) https://india.delta.exchange/?code=intelligenttrader After Opening ...
+BITCOIN & CRYPTO: It's Actually Happening (New Targets)!!! - Bitcoin News Today, Ethereum & Altcoins *Bitunix* ...
 
-📺 Intelligent Trader
+📺 Crypto World
 
-👁️ 4K • 👍 315 • 3h ago
+👁️ 10K • 👍 342 • 💬 181 • ⏱️ 17:38 • 19h ago
 
 ---
 
-**[Crypto Market Crash - BTC &amp; ETH Price Prediction Today | Low Volume Warning | Big Move Coming Soon ?](https://www.youtube.com/watch?v=RNtFJC8GldY)**
+**[ETHEREUM FOUNDER DROPS BOMB!](https://www.youtube.com/watch?v=Qm9OzHTwV1M)**
 
-Crypto Market Crash - BTC & ETH Price Prediction Today | Low Volume Warning | Big Move Coming Soon ? Premium on ...
+MACRO MARKET ANALYSIS VIDEOS EVERYDAY SINCE 2018 I don't sell anything. I don't have any programs for you to join.
 
-📺 Profit First
+📺 The Cryptoviser
 
-👁️ 3K • 👍 172 • 💬 29 • ⏱️ 7:10 • 14h ago
+👁️ 456 • 👍 73 • 💬 5 • ⏱️ 34:07 • 5h ago
+
+---
+
+**[Ethereum Elliott Wave Update – Key Resistance Levels Ahead](https://www.youtube.com/watch?v=NpH4uebFFik)**
+
+This video provides a professional Elliott Wave and technical analysis of Ethereum (ETH), focusing on market structure, major ...
+
+📺 More Crypto Online
+
+👁️ 3K • 👍 192 • 💬 6 • ⏱️ 6:04 • 17h ago
+
+---
+
+**[&quot;EVERY Crypto Holder Is Missing the BIG PICTURE...&quot; - Cathie Wood](https://www.youtube.com/watch?v=1M1QHE7eyZY)**
+
+Explore FortisX and access a bonus of up to 10% on one deposit using the link below: https://fortisx.fi/kol/savvyfinanceofficial ...
+
+📺 Savvy Finance
+
+👁️ 6K • 👍 245 • 💬 3 • ⏱️ 22:10 • 1d ago
 
 ---
 
