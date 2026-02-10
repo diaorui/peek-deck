@@ -3,14 +3,14 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-02-10T22:06:43.268278+00:00'
+updated: '2026-02-10T23:09:08.520348+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- news
 - social
 - cryptocurrency
+- news
 - videos
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** February 10, 2026 at 22:06 UTC  
+**Last Updated:** February 10, 2026 at 23:09 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,11 +42,11 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** -4.7%  
-**7d:** -6.2%  
-**30d:** -35.0%  
+**24h:** -4.0%  
+**7d:** -6.1%  
+**30d:** -34.9%  
 **90d:** -37.8%  
-**1y:** -22.6%  
+**1y:** -22.5%  
 
 ---
 
@@ -72,7 +72,7 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-16h ago
+17h ago
 
 ---
 
@@ -152,19 +152,17 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 ## Google News: "ethereum"
 
-**[Vitalik Buterin sketches near-term vision for Ethereum's role in an AI-driven future](https://www.theblock.co/post/389179/vitalik-buterin-sketches-near-term-vision-for-ethereums-role-in-an-ai-driven-future)**
-
-Buterin pitched Ethereum as an economic/coordination layer for decentralized, privacy-preserving AI systems rather than a race toward AGI.
-
-The Block • 11h ago
-
----
-
 **[Vitalik Buterin outlines how Ethereum could play a key role in the future of AI](https://www.coindesk.com/business/2026/02/10/vitalik-buterin-outlines-how-ethereum-could-play-a-key-role-in-the-future-of-ai)**
 
 In a new post on X revisiting ideas he first outlined two years ago, Buterin argues that the push toward artificial general intelligence often resembles the kind of unchecked speed and scale that Ethereum itself was created to challenge.
 
-CoinDesk • 6h ago
+CoinDesk • 7h ago
+
+---
+
+**[Vitalik Buterin sketches near-term vision for Ethereum's role in an AI-driven future](https://news.google.com/rss/articles/CBMiuwFBVV95cUxON0x1VGtFQlBxZGJIT0RNQmNpWkQwa2NTOGFESy1wTE5wZzRaVzM0VUJsMGN0VzVtSU9vc0NSOXBnYkF2QkttRWptcG1EdVBDRUgwZ3RWN01uQmgwR0sxTkZpeTFIengxUEtVQ1NxMl9qYUNfWTU1RENBelktWHhzWkVuaVgtQjktNURWTnlMdzdMaExCM1pnYzVjeHdKVmZQZnJtOHkwMUZ0RlNRcmRHaWZPZWlOMDBVQkdF?oc=5)**
+
+The Block • 12h ago
 
 ---
 
@@ -172,15 +170,15 @@ CoinDesk • 6h ago
 
 The Ethereum co-founder has outlined a four-quadrant Ethereum-AI buildout spanning private AI use, agent markets, and governance.
 
-Decrypt • 15h ago
+Decrypt • 16h ago
 
 ---
 
-**[Tom Lee’s BitMine Adds Another $42 Million in Ethereum Despite Crypto Winter](https://finance.yahoo.com/news/tom-lee-bitmine-adds-another-210000254.html)**
+**[Tom Lee: Ethereum ‘V-shaped recovery’ soon as Bitmine buys at $2,000 price](https://www.dlnews.com/articles/markets/tom-lee-says-ethereum-v-shaped-recovery-soon/)**
 
-BitMine has expanded its Ethereum hodings by acquiring an additional 20,000 ETH for nearly $42 million this week.
+Bitmine buys another $80m worth of Ethereum. Tom Lee predicts swift recovery despite over $6.6 billion in unrealised losses.
 
-Yahoo Finance • 2d ago
+dlnews.com • 13h ago
 
 ---
 
@@ -204,29 +202,29 @@ CCN.com • 1d ago
 
 JPMorganChase, Citi and Custodia are among the banks that have built digital asset projects on the Ethereum blockchain.
 
-American Banker • 2h ago
+American Banker • 3h ago
 
 ---
 
-**[MegaETH debuts mainnet as Ethereum scaling debate heats up](https://www.coindesk.com/tech/2026/02/09/megaeth-debuts-mainnet-as-ethereum-scaling-debate-heats-up)**
+**[Can Ethereum Price Still Hit $7,600 In 2026? Here Are The Odds](https://www.tradingview.com/news/newsbtc:80811cd51094b:0-can-ethereum-price-still-hit-7-600-in-2026-here-are-the-odds/)**
 
-The project, which had previously pitched itself as a layer-2 “real-time blockchain,” targeting more than 100,000 transactions per second, would make onchain interactions feel closer to traditional web apps than today’s crypto networks.
+Ethereum’s outlook for 2026 has become increasingly contested after the most recent downturn in the entire crypto market. Earlier this year, research from Standard Chartered suggested that Ethereum could end 2026 near $7,500, a target that implies significant upside from current levels. However, re…
 
-CoinDesk • 1d ago
-
----
-
-**[Ethereum leads way as large cryptocurrencies drop](https://www.marketwatch.com/data-news/ethereum-leads-way-as-large-cryptocurrencies-drop-f5e80176-a90dea2a77fc?gaa_at=eafs&gaa_n=AWEtsqc8bt_CQ15Nww6vYxKsqman1TjIBBcEFBPhTGgQl-kwdyyTv9Q61-mn&gaa_ts=698ba247&gaa_sig=4gE1ruBxO6j20qXkGq5g2wJXMEwyKmiUcTc1zUJn_W-VzDgFvdH5HBDSgOZO7yit1QOzXBA3N6oUUxV0ASi_ww%3D%3D)**
-
-MarketWatch • 7h ago
+TradingView • 3h ago
 
 ---
 
-**[Ethereum Price Set To Break Out Against Bitcoin, But How High Can It Go?](https://www.tradingview.com/news/newsbtc:e0d161f50094b:0-ethereum-price-set-to-break-out-against-bitcoin-but-how-high-can-it-go/)**
+**[Ethereum leads way as large cryptocurrencies drop](https://www.marketwatch.com/data-news/ethereum-leads-way-as-large-cryptocurrencies-drop-f5e80176-a90dea2a77fc?gaa_at=eafs&gaa_n=AWEtsqfg7aJd8u7Qt9qp0pEQayh5uaBeuAIr3x0Xc41IR6ivdxKjqWAXV5oq&gaa_ts=698bbdfa&gaa_sig=0GzNsLPBZ6A-yqkOF893sGdo6_-Em25XyrHEe2F9MWMk3mWB-8sxv1APUMhkwWS4G2RZDokFqCy3n0yCJoHMoA%3D%3D)**
 
-The cryptocurrency industry went under intense pressure last week, with Bitcoin and Ethereum leading the crash and multiple cryptocurrencies hitting new multi-month lows. The crash was more pronounced with Bitcoin, though, and the imbalance in selling pressure is quietly shifting the relationship b…
+MarketWatch • 8h ago
 
-TradingView • 1d ago
+---
+
+**[Forget Ethereum, Stablecoins, and XRP -- Here Are Bitcoin's 3 Biggest Trillion-Dollar Competitive Risks](https://www.nasdaq.com/articles/forget-ethereum-stablecoins-and-xrp-here-are-bitcoins-3-biggest-trillion-dollar)**
+
+Key PointsBitcoin has become a globally recognized asset, which means that it competes with huge pools of capital in different markets.
+
+Nasdaq • 11h ago
 
 ---
 
@@ -240,7 +238,7 @@ CNBC"s MacKenzie Sigalos joins 'Squawk Box' to discuss the recent bitcoin volati
 
 📺 CNBC Television
 
-👁️ 28K • 👍 439 • 💬 318 • ⏱️ 6:36 • 6h ago
+👁️ 28K • 👍 439 • 💬 318 • ⏱️ 6:36 • 7h ago
 
 ---
 
@@ -250,7 +248,7 @@ If You Hold Crypto... GET READY! (watch before they delete this) ☝️ Become a
 
 📺 Altcoin Daily
 
-👁️ 57K • 👍 3K • 💬 234 • ⏱️ 11:47 • 21h ago
+👁️ 57K • 👍 3K • 💬 234 • ⏱️ 11:47 • 22h ago
 
 ---
 
@@ -260,7 +258,7 @@ My FREE Daily 5-Min Crypto Newsletter: https://www.cryptonutshell.com/subscribe 
 
 📺 Crypto Nutshell
 
-👁️ 5K • 👍 325 • 💬 42 • ⏱️ 19:39 • 6h ago
+👁️ 5K • 👍 325 • 💬 42 • ⏱️ 19:39 • 7h ago
 
 ---
 
@@ -280,7 +278,7 @@ This video provides a professional Elliott Wave and technical analysis of Ethere
 
 📺 More Crypto Online
 
-👁️ 3K • 👍 201 • 💬 7 • ⏱️ 4:14 • 9h ago
+👁️ 3K • 👍 201 • 💬 7 • ⏱️ 4:14 • 10h ago
 
 ---
 
@@ -290,7 +288,7 @@ BITCOIN HOLDERS: Time to Get Serious (Warning)!!! - Bitcoin News Today, Ethereum
 
 📺 Crypto World
 
-👁️ 1K • 👍 113 • 💬 14 • ⏱️ 17:52 • 2h ago
+👁️ 1K • 👍 113 • 💬 14 • ⏱️ 17:52 • 3h ago
 
 ---
 
@@ -300,7 +298,7 @@ TrumpCrypto2025 #DigitalAssets #TrumpAnnouncement Welcome to the Trump Crypto Fo
 
 📺 Clean Freak & Germaphobe
 
-👁️ 4K • 👍 2K • 1h ago
+👁️ 4K • 👍 2K • 3h ago
 
 ---
 
@@ -310,7 +308,7 @@ ETHEREUM ETH PRICE PREDICTION 2026 Join the Premium Signal Group for trade setup
 
 📺 Cilinix Crypto
 
-👁️ 299 • 👍 17 • 💬 3 • ⏱️ 5:24 • 12h ago
+👁️ 299 • 👍 17 • 💬 3 • ⏱️ 5:24 • 13h ago
 
 ---
 
@@ -320,7 +318,7 @@ MACRO MARKET ANALYSIS VIDEOS EVERYDAY SINCE 2018 I don't sell anything. I don't 
 
 📺 The Cryptoviser
 
-👁️ 585 • 👍 79 • 💬 5 • ⏱️ 34:07 • 8h ago
+👁️ 585 • 👍 79 • 💬 5 • ⏱️ 34:07 • 9h ago
 
 ---
 
@@ -330,7 +328,7 @@ This video provides a professional Elliott Wave and technical analysis of Ethere
 
 📺 More Crypto Online
 
-👁️ 3K • 👍 192 • 💬 6 • ⏱️ 6:04 • 20h ago
+👁️ 3K • 👍 192 • 💬 6 • ⏱️ 6:04 • 21h ago
 
 ---
 

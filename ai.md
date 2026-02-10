@@ -3,14 +3,14 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-02-10T22:06:43.253857+00:00'
+updated: '2026-02-10T23:09:08.506076+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- repositories
 - social
 - news
+- repositories
 - videos
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 AI news, discussions, and developments
 
-**Last Updated:** February 10, 2026 at 22:06 UTC  
+**Last Updated:** February 10, 2026 at 23:09 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -37,11 +37,19 @@ AI news, discussions, and developments
 
 ## Reddit: r/artificial
 
-**[I built the world's first Chrome extension that runs LLMs entirely in-browser—WebGPU, Transformers.js, and Chrome's Prompt API](https://www.reddit.com/r/artificial/comments/1r0v8x6/i_built_the_worlds_first_chrome_extension_that/)**
+**[RFK Jr's Nutrition Chatbot Recommends Best Foods to Insert Into Your Rectum](https://www.reddit.com/r/artificial/comments/1r1exqk/rfk_jrs_nutrition_chatbot_recommends_best_foods/)**
 
-There are plenty of WebGPU demos out there, but I wanted to ship something people could actually use day-to-day. It runs Llama 3.2, DeepSeek-R1, Qwen3, Mistral, Gemma, Phi, SmolLM2—all locally in Chrome. Three inference backends: WebLLM (MLC/WebGPU) Transformers.js (ONNX) Chrome's built-in Prompt API (Gemini Nano—zero download) No Ollama, no servers, no subscriptions. Models cache in IndexedDB. Works offline. Conversations stored locally—export or delete anytime. Free: https://noaibills.app/?utm_source=reddit&utm_medium=social&utm_campaign=launch_artificial I'm not claiming it replaces GPT-4. But for the 80% of tasks—drafts, summaries, quick coding questions—a 3B parameter model running locally is plenty. Not positioned as a cloud LLM replacement—it's for local inference on basic text tasks (writing, communication, drafts) with zero internet dependency, no API costs, and complete privacy. Core fit: organizations with data restrictions that block cloud AI and can't install desktop tools like Ollama/LMStudio. For quick drafts, grammar checks, and basic reasoning without budget or setup barriers. Need real-time knowledge or complex reasoning? Use cloud models. This serves a different niche—**not every problem needs a sledgehammer** 😄. Would love feedback from this community 🙌.
+Realfood.gov will happily give you the worst possible advice.
 
-13h ago
+🔗 [404 Media](https://www.404media.co/rfk-jrs-nutrition-chatbot-recommends-best-foods-to-insert-into-your-rectum/) • 57m ago
+
+---
+
+**[AI Chatbots Could Steer You Wrong on Health Issues, Fresh Research Shows](https://www.reddit.com/r/artificial/comments/1r1dbaw/ai_chatbots_could_steer_you_wrong_on_health/)**
+
+Have you ever typed your symptoms into an AI chatbot hoping for quick answers? A new study out of Oxford University sa... by justmythoughts
+
+🔗 [PeakD](https://peakd.com/@justmythoughts/ai-chatbots-could-steer-you-wrong-on-health-issues-fresh-research-shows-acy) • 1h ago
 
 ---
 
@@ -53,11 +61,35 @@ A clinical trial shows that AI-assisted mammography can detect more cases of dan
 
 ---
 
+**[I think I'm sharing genuinely useful info on Reddit but getting almost no engagement. So I had AI rewrite my post. Posting both to see what happens.](https://www.reddit.com/r/artificial/comments/1r1efyr/i_think_im_sharing_genuinely_useful_info_on/)**
+
+Here's the situation. I've been running an investment strategy for about 4 years that's significantly outperformed the standard approach. I wrote a detailed post about it for a relevant subreddit. The info is solid and the results are real. And the post basically went nowhere. Here it is for the interested. No need to read it though. So I tried this: I gave the post to an AI and asked it to analyze why it flopped and rewrite it with minimal changes. The core content stayed the same. What changed was the framing. The AI identified that my post was structured as a presentation, not a conversation. Basically no reason for anyone to respond. It also pointed out that I was unconsciously writing in a way that made people less likely to engage. The fixes were simple. Add a question. Show a moment of struggle instead of just results. Shift from "here's what I did" to "here's what I learned the hard way. What about you?" Nothing fabricated. Just the same information restructured to invite participation. Pretty obvious stuff. I'm posting both now. The rewritten one in the original sub, this documentation post here. I'll update with results. What I'm actually curious about: This feels like one of the most practical and underrated uses of AI. Not generating content from scratch, but taking something a human wrote with real experience behind it and making it land better. The knowledge IS mine. The communication fix is the AI's. Controversial question (yeah, I'm learning lol): If good information consistently gets ignored because of how it's written, and AI can fix that, is there any reason not to use it?
+
+1h ago
+
+---
+
+**[I built the world's first Chrome extension that runs LLMs entirely in-browser—WebGPU, Transformers.js, and Chrome's Prompt API](https://www.reddit.com/r/artificial/comments/1r0v8x6/i_built_the_worlds_first_chrome_extension_that/)**
+
+There are plenty of WebGPU demos out there, but I wanted to ship something people could actually use day-to-day. It runs Llama 3.2, DeepSeek-R1, Qwen3, Mistral, Gemma, Phi, SmolLM2—all locally in Chrome. Three inference backends: WebLLM (MLC/WebGPU) Transformers.js (ONNX) Chrome's built-in Prompt API (Gemini Nano—zero download) No Ollama, no servers, no subscriptions. Models cache in IndexedDB. Works offline. Conversations stored locally—export or delete anytime. Free: https://noaibills.app/?utm_source=reddit&utm_medium=social&utm_campaign=launch_artificial I'm not claiming it replaces GPT-4. But for the 80% of tasks—drafts, summaries, quick coding questions—a 3B parameter model running locally is plenty. Not positioned as a cloud LLM replacement—it's for local inference on basic text tasks (writing, communication, drafts) with zero internet dependency, no API costs, and complete privacy. Core fit: organizations with data restrictions that block cloud AI and can't install desktop tools like Ollama/LMStudio. For quick drafts, grammar checks, and basic reasoning without budget or setup barriers. Need real-time knowledge or complex reasoning? Use cloud models. This serves a different niche—**not every problem needs a sledgehammer** 😄. Would love feedback from this community 🙌.
+
+14h ago
+
+---
+
+**[What Is Claude? Anthropic Doesn’t Know, Either](https://www.reddit.com/r/artificial/comments/1r1e43v/what_is_claude_anthropic_doesnt_know_either/)**
+
+Researchers at the company are trying to understand their A.I. system’s mind—examining its neurons, running it through psychology experiments, and putting it on the therapy couch.
+
+🔗 [The New Yorker](https://www.newyorker.com/magazine/2026/02/16/what-is-claude-anthropic-doesnt-know-either) • 1h ago
+
+---
+
 **[Kling AI Launches 3.0 Model, Ushering in an Era Where Everyone Can Be a Director](https://www.reddit.com/r/artificial/comments/1r0ww09/kling_ai_launches_30_model_ushering_in_an_era/)**
 
 /PRNewswire/ -- Kling AI, the AI-powered creative platform, today announced the launch of its Kling 3.0 models — including Video 3.0, Video 3.0 Omni, Image 3.0...
 
-🔗 [prnewswire.com](https://www.prnewswire.com/news-releases/kling-ai-launches-3-0-model-ushering-in-an-era-where-everyone-can-be-a-director-302679944.html) • 11h ago
+🔗 [prnewswire.com](https://www.prnewswire.com/news-releases/kling-ai-launches-3-0-model-ushering-in-an-era-where-everyone-can-be-a-director-302679944.html) • 13h ago
 
 ---
 
@@ -65,7 +97,7 @@ A clinical trial shows that AI-assisted mammography can detect more cases of dan
 
 Current AI systems are dangerously overconfident. They'll classify anything you give them, even if they've never seen anything like it before. I've been working on STLE (Set Theoretic Learning Environment) to address this by explicitly modeling what AI doesn't know. How It Works: STLE represents knowledge and ignorance as complementary fuzzy sets: - μ_x (accessibility): How familiar is this data? - μ_y (inaccessibility): How unfamiliar is this? - Constraint: μ_x + μ_y = 1 (always) This lets the AI explicitly say "I'm only 40% sure about this" and defer to humans. Real-World Applications: - Medical Diagnosis: "I'm 40% confident this is cancer" → defer to specialist - Autonomous Vehicles: Don't act on unfamiliar scenarios (low μ_x) - Education: Identify what students are partially understanding (frontier detection) - Finance: Flag unusual transactions for human review Results: - Out-of-distribution detection: 67% accuracy without any OOD training - Mathematically guaranteed complementarity - Extremely fast (< 1ms inference) Open Source: https://github.com/strangehospital/Frontier-Dynamics-Project The code includes: - Two implementations (simple NumPy, advanced PyTorch) - Complete documentation - Visualizations - 5 validation experiments This is proof-of-concept level, but I wanted to share it with the community. Feedback and collaboration welcome! What applications do you think this could help with? The Sky Project | strangehospital | Substack
 
-🔗 [GitHub](https://github.com/strangehospital/Frontier-Dynamics-Project) • 22h ago
+🔗 [GitHub](https://github.com/strangehospital/Frontier-Dynamics-Project) • 23h ago
 
 ---
 
@@ -85,39 +117,17 @@ Hello, I am learning 3D modeling (CAD and also mesh-based). And of course, I am 
 
 ---
 
-**[I built a geolocation tool that can find exact coordinates of any image within 3 minutes [Tough demo 2]](https://www.reddit.com/r/artificial/comments/1qz5rz7/i_built_a_geolocation_tool_that_can_find_exact/)**
-
-Just wanted to say thanks for the thoughtful discussion and feedback on my previous post. I did not expect that level of interest, and I appreciate how constructive most of the comments were. Based on a few requests, I put together a short demonstration showing the system applied to a deliberately difficult street-level image. No obvious landmarks, no readable signage, no metadata. The location was verified in under two minutes. I am still undecided on the long-term direction of this work. That said, if there are people here interested in collaborating from a research, defensive, or ethical perspective, I am open to conversations. That could mean validation, red-teaming anything else. Thanks again to the community for the earlier discussion. Happy to answer high-level questions and hear thoughts on where tools like this should and should not go.
-
-2d ago
-
----
-
-**[Meta Glasses powered by AI for self guided tours](https://www.reddit.com/r/artificial/comments/1qztlsb/meta_glasses_powered_by_ai_for_self_guided_tours/)**
-
-Museums (and cities) could use better “self-guided” tech. At most museums right now, you’ve basically got two options: Pay for a human tour guide Rent one of those clunky old audio devices that feel straight out of the 90s It got me thinking: what if there were smart glasses designed for self-guided tours? Lightweight, with a strap battery so they last a full day Could work in museums or even city-wide walking tours Display info, images, maybe AR cues without needing your phone You can also ask questions since it uses AI
-
-1d ago
-
----
-
-**[Open-source quota monitor for AI coding APIs - tracks Anthropic, Synthetic, and Z.ai in one dashboard](https://www.reddit.com/r/artificial/comments/1qz5aid/opensource_quota_monitor_for_ai_coding_apis/)**
-
-Every AI API provider gives you a snapshot of current usage. None of them show you trends over time, project when you will hit your limit, or let you compare across providers. I built onWatch to solve this. It runs in the background as a single Go binary, polls your configured providers every 60 seconds, stores everything locally in SQLite, and serves a web dashboard. What it shows you that providers do not: Usage history from 1 hour to 30 days Live countdowns to each quota reset Rate projections so you know if you will run out before the reset All providers side by side in one view Around 28 MB RAM, no dependencies, no telemetry, GPL-3.0. All data stays on your machine. https://onwatch.onllm.dev https://github.com/onllm-dev/onWatch
-
-2d ago
-
----
-
-**[Nvidia CEO Says AI Capital Spending Is Appropriate, Sustainable](https://www.reddit.com/r/artificial/comments/1qyx57y/nvidia_ceo_says_ai_capital_spending_is/)**
-
-🔗 [bloomberg.com](https://www.bloomberg.com/news/articles/2026-02-06/nvidia-ceo-says-ai-capital-spending-is-appropriate-sustainable?srnd=phx-technology&leadSource=reddit_wall) • 2d ago
-
----
-
 ---
 
 ## Google News: "ai"
+
+**[America Isn’t Ready for What AI Will Do to Jobs](https://www.theatlantic.com/magazine/2026/03/ai-economy-labor-market-transformation/685731/)**
+
+Does anyone have a plan for what happens next?
+
+The Atlantic • 12h ago
+
+---
 
 **[AI Doesn’t Reduce Work—It Intensifies It](https://hbr.org/2026/02/ai-doesnt-reduce-work-it-intensifies-it)**
 
@@ -127,33 +137,11 @@ Harvard Business Review • 1d ago
 
 ---
 
-**[America Isn’t Ready for What AI Will Do to Jobs](https://www.theatlantic.com/magazine/2026/03/ai-economy-labor-market-transformation/685731/)**
+**[AI boosts productivity for workers but could hurt them long-term, study finds](https://www.axios.com/2026/02/10/ai-chatgpt-claude-jobs-productivity)**
 
-Does anyone have a plan for what happens next?
+While AI increased productivity at one company, "Over time, this rhythm raised expectations for speed," the researchers wrote.
 
-The Atlantic • 11h ago
-
----
-
-**[As AI enters the operating room, reports arise of botched surgeries and misidentified body parts](https://www.reuters.com/investigations/ai-enters-operating-room-reports-arise-botched-surgeries-misidentified-body-2026-02-09/)**
-
-Reuters • 1d ago
-
----
-
-**[Olympic Figure Skaters Get Heat for Using AI-Generated Music](https://gizmodo.com/olympic-figure-skaters-get-heat-for-using-ai-generated-music-2000720192)**
-
-"So you want the world to respect your art but don't give a shit about the art of music that helps you do it?"
-
-Gizmodo • 1h ago
-
----
-
-**[OpenAI appears to have violated California’s AI safety law with latest model release, watchdog claims](https://fortune.com/2026/02/10/openai-violated-californias-ai-safety-law-gpt-5-3-codex-ai-model-watchdog-claims/)**
-
-The company's newest AI model triggered its own "high" risk classification—but critics say OpenAI didn't follow through on the safety measures it promised.
-
-Fortune • 2h ago
+Axios • 30m ago
 
 ---
 
@@ -165,9 +153,25 @@ Yahoo Finance • 1h ago
 
 ---
 
-**[A.I. Is Making Doctors Answer a Question: What Are They Really Good For?](https://www.nytimes.com/2026/02/09/health/ai-chatbots-doctors-medicine.html)**
+**[Florida’s GOP-led House stalls on DeSantis AI agenda](https://www.politico.com/news/2026/02/10/desantis-ai-priorities-florida-00774661)**
 
-The New York Times • 1d ago
+The Republican governor, who has emerged as a leading AI skeptic, is pushing for legislation such as an AI “bill of rights.”
+
+Politico • 1h ago
+
+---
+
+**[An ice dance duo skated to AI music at the Olympics](https://techcrunch.com/2026/02/10/olympics-czech-ice-dancers-duo-ai-music/)**
+
+Czech ice dancers Katerina Mrazkova and Daniel Mrazek are learning the hard way that LLMs sometimes spit out straight-up plagiarism.
+
+TechCrunch • 37m ago
+
+---
+
+**[A.I. Is Giving You a Personalized Internet, but You Have No Say in It](https://www.nytimes.com/2026/02/10/technology/personaltech/ai-google-meta-opt-out.html)**
+
+The New York Times • 6h ago
 
 ---
 
@@ -175,23 +179,23 @@ The New York Times • 1d ago
 
 As artificial intelligence becomes more advanced and commonplace, it can be difficult to know what's real and what's not, which has complicated the search for Nancy Guthrie, according to law enforcement. But just how difficult is it?
 
-NPR • 12h ago
+NPR • 13h ago
 
 ---
 
-**[Investing in Shizuku AI](https://a16z.com/announcement/investing-in-shizuku-ai/)**
+**[Concerns ‘AI slop’ used by University of Sydney-based institute to lobby for $20m gambling education funding](https://www.theguardian.com/australia-news/2026/feb/10/concerns-ai-slop-used-by-sydney-university-based-institute-to-lobby-for-20m-gambling-education-funding)**
 
-a16z leads Shizuku AI's seed round
+‘Evidence review’ sent by OurFutures Institute to David Pocock and other politicians references studies that do not exist or make opposing findings
 
-Andreessen Horowitz • 21h ago
+The Guardian • 29m ago
 
 ---
 
-**[Nebius to acquire one-year-old Israeli AI startup Tavily in deal worth up to $400 million](https://www.calcalistech.com/ctechnews/article/r168bhodbe)**
+**[Kennesaw State University to launch Bachelor of Science in Artificial Intelligence in Fall 2026](https://www.kennesaw.edu/news/stories/2026/ksu-launch-bachelor-science-artificial-intelligence-fall-2026.php)**
 
-The company’s agentic search layer is set to become the cornerstone of Nebius’s bid to build a full AI platform.
+Kennesaw State University (KSU) continues to be a state leader in the rapidly growing field of artificial intelligence, with the addition of a bachelor's degree in AI approved Tuesday by the Board of Regents of the University System of Georgia. KSU becomes the first institution in Georgia to offer both bachelor’s and graduate degrees in artificial intelligence.
 
-CTech • 8h ago
+Kennesaw State University • 3h ago
 
 ---
 
@@ -203,7 +207,7 @@ CTech • 8h ago
 
 AI handles writing code but leaves the hard work: investigation, context, validation. Why vibe coding has limits and AI assistance can backfire.
 
-⬆️ 520 • 💬 358 • 1d ago • [blundergoat.com](https://www.blundergoat.com/articles/ai-makes-the-easy-part-easier-and-the-hard-part-harder)
+⬆️ 521 • 💬 358 • 1d ago • [blundergoat.com](https://www.blundergoat.com/articles/ai-makes-the-easy-part-easier-and-the-hard-part-harder)
 
 ---
 
@@ -211,7 +215,7 @@ AI handles writing code but leaves the hard work: investigation, context, valida
 
 As autonomous AI agents are increasingly deployed in high-stakes environments, ensuring their safety and alignment with human values has become a paramount concern. Current safety benchmarks primarily evaluate whether agents refuse explicitly harmful instructions or whether they can maintain procedural compliance in complex tasks. However, there is a lack of benchmarks designed to capture emergent forms of outcome-driven constraint violations, which arise when agents pursue goal optimization under strong performance incentives while deprioritizing ethical, legal, or safety constraints over multiple steps in realistic production settings. To address this gap, we introduce a new benchmark comprising 40 distinct scenarios. Each scenario presents a task that requires multi-step actions, and the agent's performance is tied to a specific Key Performance Indicator (KPI). Each scenario features Mandated (instruction-commanded) and Incentivized (KPI-pressure-driven) variations to distinguish between obedience and emergent misalignment. Across 12 state-of-the-art large language models, we observe outcome-driven constraint violations ranging from 1.3% to 71.4%, with 9 of the 12 evaluated models exhibiting misalignment rates between 30% and 50%. Strikingly, we find that superior reasoning capability does not inherently ensure safety; for instance, Gemini-3-Pro-Preview, one of the most capable models evaluated, exhibits the highest violation rate at 71.4%, frequently escalating to severe misconduct to satisfy KPIs. Furthermore, we observe significant "deliberative misalignment", where the models that power the agents recognize their actions as unethical during separate evaluation. These results emphasize the critical need for more realistic agentic-safety training before deployment to mitigate their risks in the real world.
 
-⬆️ 512 • 💬 329 • 18h ago • [arXiv.org](https://arxiv.org/abs/2512.20798)
+⬆️ 518 • 💬 333 • 19h ago • [arXiv.org](https://arxiv.org/abs/2512.20798)
 
 ---
 
@@ -231,11 +235,19 @@ Contribute to localgpt-app/localgpt development by creating an account on GitHub
 
 ---
 
+**[Ex-GitHub CEO launches a new developer platform for AI agents](https://news.ycombinator.com/item?id=46961345)**
+
+Announcing Entire with $60 million seed round and shipping our first product, called Checkpoints.
+
+⬆️ 244 • 💬 206 • 7h ago • [entire.io](https://entire.io/blog/hello-entire-world/)
+
+---
+
 **[AI doesn’t reduce work, it intensifies it](https://news.ycombinator.com/item?id=46955703)**
 
 Aruna Ranganathan and Xingqi Maggie Ye from Berkeley Haas School of Business report initial findings in the HBR from their April to December 2025 study of 200 employees at a …
 
-⬆️ 238 • 💬 277 • 16h ago • [Simon Willison’s Weblog](https://simonwillison.net/2026/Feb/9/ai-intensifies-work/)
+⬆️ 240 • 💬 279 • 17h ago • [Simon Willison’s Weblog](https://simonwillison.net/2026/Feb/9/ai-intensifies-work/)
 
 ---
 
@@ -251,7 +263,7 @@ Taiwan’s TSMC, the world’s largest contract computer chip maker, has announc
 
 One of the promises of AI is that it can reduce workloads so employees can focus more on higher-value and more engaging tasks. But according to new research, AI tools don’t reduce work, they consistently intensify it: In the study, employees worked at a faster pace, took on a broader scope of tasks, and extended work into more hours of the day, often without being asked to do so. That may sound like a win, but it’s not quite so simple. These changes can be unsustainable, leading to workload creep, cognitive fatigue, burnout, and weakened decision-making. The productivity surge enjoyed at the beginning can give way to lower quality work, turnover, and other problems. To correct for this, companies need to adopt an “AI practice,” or a set of norms and standards around AI use that can include intentional pauses, sequencing work, and adding more human grounding.
 
-⬆️ 219 • 💬 161 • 1d ago • [Harvard Business Review](https://hbr.org/2026/02/ai-doesnt-reduce-work-it-intensifies-it)
+⬆️ 220 • 💬 162 • 1d ago • [Harvard Business Review](https://hbr.org/2026/02/ai-doesnt-reduce-work-it-intensifies-it)
 
 ---
 
@@ -259,15 +271,7 @@ One of the promises of AI is that it can reduce workloads so employees can focus
 
 Ring’s AI-powered network is likely to be used in its partnerships with law enforcement and agencies like ICE.
 
-⬆️ 191 • 💬 146 • 1d ago • [Truthout](https://truthout.org/articles/super-bowl-ad-for-ring-cameras-touted-ai-surveillance-network/)
-
----
-
-**[Ex-GitHub CEO launches a new developer platform for AI agents](https://news.ycombinator.com/item?id=46961345)**
-
-Announcing Entire with $60 million seed round and shipping our first product, called Checkpoints.
-
-⬆️ 156 • 💬 123 • 6h ago • [entire.io](https://entire.io/blog/hello-entire-world/)
+⬆️ 192 • 💬 146 • 1d ago • [Truthout](https://truthout.org/articles/super-bowl-ad-for-ring-cameras-touted-ai-surveillance-network/)
 
 ---
 
@@ -289,7 +293,7 @@ A massive AI shift is unfolding behind the scenes. Reports and leaks suggest Ope
 
 📺 AI Revolution
 
-👁️ 21K • 👍 619 • 💬 64 • ⏱️ 15:41 • 22h ago
+👁️ 21K • 👍 619 • 💬 64 • ⏱️ 15:41 • 23h ago
 
 ---
 
@@ -299,7 +303,7 @@ OpenAI's new device, spearheaded by designer Jony Ive, was just leaked! The ad f
 
 📺 Matthew Berman
 
-👁️ 28K • 👍 828 • 💬 229 • ⏱️ 7:31 • 21h ago
+👁️ 28K • 👍 828 • 💬 229 • ⏱️ 7:31 • 22h ago
 
 ---
 
@@ -309,7 +313,7 @@ Create AI Apps in minutes with OnSpace AI, No Code & No API Key Needed – https
 
 📺 Caleb Writes Code
 
-👁️ 7K • 👍 557 • 💬 54 • ⏱️ 7:32 • 5h ago
+👁️ 7K • 👍 557 • 💬 54 • ⏱️ 7:32 • 6h ago
 
 ---
 
@@ -357,7 +361,7 @@ Thanks to our LMG clips sponsors dbrand and Razer. You can check them out at the
 
 📺 LMG Clips
 
-👁️ 50K • 👍 2K • 💬 439 • ⏱️ 19:49 • 22h ago
+👁️ 50K • 👍 2K • 💬 439 • ⏱️ 19:49 • 23h ago
 
 ---
 
@@ -375,7 +379,7 @@ A monkey makes clay pots to feed her hungry babies #ai #baby #monkey.
 
 📺 MrMonkeyBoy
 
-👁️ 288K • 👍 3K • 💬 2 • ⏱️ 0:37 • 9h ago
+👁️ 288K • 👍 3K • 💬 2 • ⏱️ 0:37 • 10h ago
 
 ---
 
@@ -415,7 +419,7 @@ MiniCPM-o 4.5 is a 9B parameter multimodal LLM excelling in vision, speech, and 
 
 `any-to-any` `9.4B`
 
-⬇️ 30,396 • ❤️ 742 • 12h ago
+⬇️ 30,396 • ❤️ 742 • 13h ago
 
 ---
 
@@ -451,7 +455,7 @@ Voxtral-Mini-4B-Realtime-2602 is a multilingual, real-time speech-to-text model 
 
 `automatic-speech-recognition`
 
-⬇️ 3,197 • ❤️ 452 • 2h ago
+⬇️ 3,197 • ❤️ 452 • 3h ago
 
 ---
 
@@ -604,7 +608,7 @@ Cross-Team Collaboration improves software quality by enabling multiple LLM agen
 
 The Qwen3-TTS series presents advanced multilingual text-to-speech models with voice cloning and controllable speech generation capabilities, utilizing dual-track LM architecture and specialized speech tokenizers for efficient streaming synthesis.
 
-▲ 62 • 💬 1 • ⭐ 7,347 • 19d ago
+▲ 62 • 💬 1 • ⭐ 7,347 • 20d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2601.15621) • [💻 code](https://github.com/QwenLM/Qwen3-TTS)
 
@@ -647,7 +651,7 @@ The Ultimate Collection of 700+ Agentic Skills for Claude Code/Antigravity/Curso
 
 `Python` `agentic-skills` `ai-agents` `antigravity` `autonomous-coding` `claude-code`
 
-⭐ 8.3k • 🔱 1.7k • 12h ago
+⭐ 8.3k • 🔱 1.7k • 13h ago
 
 ---
 
@@ -731,7 +735,7 @@ Smart LLM router — save 78% on inference costs. 30+ models, one wallet, x402 m
 
 `TypeScript` `ai` `ai-agents` `anthropic` `cost-optimization` `crypto`
 
-⭐ 2.0k • 🔱 203 • 1h ago
+⭐ 2.0k • 🔱 203 • 2h ago
 
 ---
 

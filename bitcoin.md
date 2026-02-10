@@ -3,14 +3,14 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-02-10T22:06:43.262289+00:00'
+updated: '2026-02-10T23:09:08.514385+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- news
 - social
 - cryptocurrency
+- news
 - videos
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** February 10, 2026 at 22:06 UTC  
+**Last Updated:** February 10, 2026 at 23:09 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -44,11 +44,11 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Chart
 
-**24h:** -2.1%  
-**7d:** -5.8%  
-**30d:** -24.5%  
-**90d:** -31.0%  
-**1y:** -28.0%  
+**24h:** -1.7%  
+**7d:** -6.1%  
+**30d:** -24.8%  
+**90d:** -31.3%  
+**1y:** -28.3%  
 
 ---
 
@@ -77,39 +77,23 @@ Rank #1
 
 ## Reddit: r/Bitcoin
 
-**[JUST IN: 🇺🇸 Treasury Secretary Bessent calls to pass crypto market structure legislation.](https://www.reddit.com/r/Bitcoin/comments/1r15dur/just_in_treasury_secretary_bessent_calls_to_pass/)**
+**[ANTHONY POMPLIANO: AI WILL USE BITCOIN AND CRYPTO FOR PAYMENTS](https://www.reddit.com/r/Bitcoin/comments/1r13j11/anthony_pompliano_ai_will_use_bitcoin_and_crypto/)**
 
-"The United States is becoming the Crypto Capital of the world"
+"Both Bitcoin and Stablecoins will be the money for all of these AI Agents"
 
-5h ago
+7h ago
 
 ---
 
 **["If bitcoin continues to exist, I have yet to hear any intelligent counterargument as to why it would NOT become the world’s money." - Robert Breedlove](https://www.reddit.com/r/Bitcoin/comments/1r177pu/if_bitcoin_continues_to_exist_i_have_yet_to_hear/)**
 
-4h ago
+5h ago
 
 ---
 
-**[ANTHONY POMPLIANO: AI WILL USE BITCOIN AND CRYPTO FOR PAYMENTS](https://www.reddit.com/r/Bitcoin/comments/1r13j11/anthony_pompliano_ai_will_use_bitcoin_and_crypto/)**
+**[JUST IN: 🇺🇸 Treasury Secretary Bessent calls to pass crypto market structure legislation.](https://www.reddit.com/r/Bitcoin/comments/1r15dur/just_in_treasury_secretary_bessent_calls_to_pass/)**
 
-"Both Bitcoin and Stablecoins will be the money for all of these AI Agents"
-
-6h ago
-
----
-
-**[The Irony](https://www.reddit.com/r/Bitcoin/comments/1r0kfp5/the_irony/)**
-
-After hearing all the takes on recent Bitcoin price action, the irony is hard to miss. The goal is still buy low, sell high… right? 😅
-
-22h ago
-
----
-
-**[Bitcoin’s true value is locked behind exchange walls and it’s time to set it free](https://www.reddit.com/r/Bitcoin/comments/1r13maj/bitcoins_true_value_is_locked_behind_exchange/)**
-
-Every BTC we move into cold storage is one less coin available for exchanges to lend to shorters or use to suppress the price. We’ve seen exchange reserves hitting lows, and we know what happens next is the supply shock.Move your stack to a hardware wallet. Not only do you truly own your wealth, but you also force the market to reflect Bitcoin's true scarcity. Stop being a liquidity provider for the people betting against you. Withdraw. Verify. HODL.
+"The United States is becoming the Crypto Capital of the world"
 
 6h ago
 
@@ -117,15 +101,15 @@ Every BTC we move into cold storage is one less coin available for exchanges to 
 
 **[We're soooo back!](https://www.reddit.com/r/Bitcoin/comments/1r1aof2/were_soooo_back/)**
 
-2h ago
+3h ago
 
 ---
 
-**[Btc year #5 update: 1/10m club reached](https://www.reddit.com/r/Bitcoin/comments/1r0qf87/btc_year_5_update_110m_club_reached/)**
+**[The Irony](https://www.reddit.com/r/Bitcoin/comments/1r0kfp5/the_irony/)**
 
-Stay humble, stack sats. Not a brag post but something for me to reflect upon each year and look back on the journey
+After hearing all the takes on recent Bitcoin price action, the irony is hard to miss. The goal is still buy low, sell high… right? 😅
 
-18h ago
+23h ago
 
 ---
 
@@ -133,13 +117,7 @@ Stay humble, stack sats. Not a brag post but something for me to reflect upon ea
 
 The best medicine for lack of conviction is education. Once you decide for yourself that Bitcoin is more than "number go up" technology, you can develop the diamond hands required for its volatilty. The value and tenants of Bitcoin won't immediately be expressed in upward price movement. The reason to hold Bitcoin come from what it may become 10+ years from now. Like Warren Buffet would say, the markets are the only place where when something you want goes on sell, you run out of the store.
 
-3h ago
-
----
-
-**[The next Fed chair Kevin Warsh, talking about Bitcoin in the past](https://www.reddit.com/r/Bitcoin/comments/1r13hjw/the_next_fed_chair_kevin_warsh_talking_about/)**
-
-6h ago
+4h ago
 
 ---
 
@@ -147,7 +125,27 @@ The best medicine for lack of conviction is education. Once you decide for yours
 
 Let be honest! At 125k we felt FOMO. AT 60-70k It seems scary all of a sudden? Like seriously men! 1 BItcoin = 1 Bitcoin But still its truely feeling scary? Or a gift for buying the dip? https://preview.redd.it/5i9ir7idhpig1.png?width=1280&format=png&auto=webp&s=69938401ab0c443491fdd538bba977d8bf2b73ef
 
-4h ago
+5h ago
+
+---
+
+**[Btc year #5 update: 1/10m club reached](https://www.reddit.com/r/Bitcoin/comments/1r0qf87/btc_year_5_update_110m_club_reached/)**
+
+Stay humble, stack sats. Not a brag post but something for me to reflect upon each year and look back on the journey
+
+19h ago
+
+---
+
+**[”I don't know of a single large company that doesn't have a blockchain strategy." John D'Agostino--Coinbase](https://www.reddit.com/r/Bitcoin/comments/1r16011/i_dont_know_of_a_single_large_company_that_doesnt/)**
+
+6h ago
+
+---
+
+**[The next Fed chair Kevin Warsh, talking about Bitcoin in the past](https://www.reddit.com/r/Bitcoin/comments/1r13hjw/the_next_fed_chair_kevin_warsh_talking_about/)**
+
+7h ago
 
 ---
 
@@ -155,31 +153,49 @@ Let be honest! At 125k we felt FOMO. AT 60-70k It seems scary all of a sudden? L
 
 ## Google News: "bitcoin"
 
-**[Michael Saylor downplays Strategy credit risk as bitcoin tumbles: 'We'll refinance the debt'](https://www.cnbc.com/2026/02/10/michael-saylor-downplays-strategy-credit-risk-as-bitcoin-tumbles-well-refinance-the-debt.html)**
-
-Strategy plans to continue refinancing its debt and buying bitcoin, even as the token tumbles, CEO Michael Saylor said Tuesday on CNBC's "Squawk Box."
-
-CNBC • 7h ago
-
----
-
-**[What if bitcoin prices fall to $8,000? Michael Saylor says Strategy still won’t sell.](https://www.marketwatch.com/story/what-if-bitcoin-prices-fall-to-8-000-michael-saylor-says-strategy-still-wont-sell-975f5362?gaa_at=eafs&gaa_n=AWEtsqf_l77Pi8cEGwFHTBr8Obprta5HGLaByCh38-LRRIMSJqGQb7_QgPe4&gaa_ts=698ba245&gaa_sig=tuIqmOPrfv3_5l3Bg72fl1kIB53HYpCRZivHKxS3Bp71lL2GE82EvbBsQY3Ts11a9zsPQAqUQqG6_DDjs6XLcg%3D%3D)**
-
-MarketWatch • 6h ago
-
----
-
-**[Strategy’s Michael Saylor Doubles Down on Bitcoin. Wall Street Is Shorting the Stock.](https://www.barrons.com/articles/strategy-stock-price-bitcoin-short-interest-michael-saylor-mstr-9e6f5c83?gaa_at=eafs&gaa_n=AWEtsqe_tUAVhiYnAHa5NIuKMvKVqVCCs708ImLw3wTyTF7s6y_zJXWKa_uO&gaa_ts=698ba245&gaa_sig=nhQnQLelN_U5sFq3mY2Ho4qWc0NgZb9P3btXJTVsGteXJ2AkyV0J9C4L02LDR3hcl0bJPJhOw5v3uhNX8NlVeQ%3D%3D)**
-
-Barron's • 1h ago
-
----
-
 **[Bitcoin falls to $69,000 as crypto market shows 'early stages of bottoming'](https://finance.yahoo.com/news/bitcoin-falls-to-69000-as-crypto-market-shows-early-stages-of-bottoming-163932366.html)**
 
 Bitcoin prices hovered around $69,000, with one analyst suggesting that the crypto market may be approaching its bottom.
 
-Yahoo Finance • 5h ago
+Yahoo Finance • 6h ago
+
+---
+
+**[Michael Saylor downplays Strategy credit risk as bitcoin tumbles: 'We'll refinance the debt'](https://www.cnbc.com/2026/02/10/michael-saylor-downplays-strategy-credit-risk-as-bitcoin-tumbles-well-refinance-the-debt.html)**
+
+Strategy plans to continue refinancing its debt and buying bitcoin, even as the token tumbles, CEO Michael Saylor said Tuesday on CNBC's "Squawk Box."
+
+CNBC • 8h ago
+
+---
+
+**[Strategy (MSTR) news: Saylor shoots down any idea of forced BTC sale](https://www.coindesk.com/markets/2026/02/10/concerns-over-strategy-selling-bitcoin-are-unfounded-michael-saylor-says)**
+
+Strategy Executive Chairman Michael Saylor affirmed the firm’s commitment to a long-term bitcoin strategy following major fourth quarter losses and a continued plunge in prices early this year.
+
+CoinDesk • 3h ago
+
+---
+
+**[Strategy’s Michael Saylor Doubles Down on Bitcoin. Wall Street Is Shorting the Stock.](https://www.barrons.com/articles/strategy-stock-price-bitcoin-short-interest-michael-saylor-mstr-9e6f5c83?gaa_at=eafs&gaa_n=AWEtsqeFFOhbzsAVrPwKUu4hxB2DY5CTnhehnIzqN1CWOhpDnTzCnZUO5yT-&gaa_ts=698bbdf8&gaa_sig=SOSUhqHOB6MerA0Mk29hAyIn5c2ySIlLzLuQJeSzKcJ8muxU9BygobapGkQnWxnhGdz-2yBq4yKVbVVjQ18m5Q%3D%3D)**
+
+Barron's • 3h ago
+
+---
+
+**[Goldman Sachs Discloses $1.1 Billion Position in Bitcoin ETF Holdings](https://bitcoinmagazine.com/news/goldman-sachs-position-in-bitcoin)**
+
+Goldman Sachs revealed it holds $1.1 billion in Bitcoin ETFs, marking somewhat of a shift toward cryptocurrency exposure.
+
+Bitcoin Magazine • 1h ago
+
+---
+
+**[The Daily: Strategy's Saylor predicts bitcoin will 'double or triple' S&P returns, BitMine buys $84M in ETH as Tom Lee flags an 'attractive' entry point, and more](https://www.theblock.co/post/389285/the-daily-strategys-saylor-predicts-bitcoin-double-triple-sp-returns-bitmine-buys-84m-eth-tom-lee-attractive-entry-point-more)**
+
+The following article is adapted from The Block’s newsletter, The Daily, which comes out on weekday afternoons.
+
+The Block • 3h ago
 
 ---
 
@@ -187,7 +203,7 @@ Yahoo Finance • 5h ago
 
 Bithumb has apologised for staff error that sent customers 620,000 bitcoins instead of 620,000 Korean won, equivalent to a few hundred US dollars
 
-The Guardian • 17h ago
+The Guardian • 18h ago
 
 ---
 
@@ -207,23 +223,7 @@ Bloomberg.com • 1d ago
 
 **[Ether Resumes Plunge, Tracking Bitcoin Slide on Risk-Off Mood](https://www.bloomberg.com/news/articles/2026-02-10/ether-eth-resumes-plunge-tracking-bitcoin-btc-slide-on-risk-off-mood)**
 
-Bloomberg.com • 1h ago
-
----
-
-**[Trusted Chicago judge takes Tuskegee Airman's cash, then flips it into bitcoin for herself](https://www.cbsnews.com/chicago/news/retired-judge-patricia-martin-theft-tuskegee-airman-oscar-lawton-wilkerson-bitcoin/)**
-
-A retired judge who lost her law license for fleecing her Tuskegee Airman uncle used the money she stole to buy bitcoin for herself, court records show.
-
-cbsnews.com • 1d ago
-
----
-
-**[Here comes the great American bitcoin-mining-to-AI pivot](https://www.ft.com/content/8bfdb09a-fbef-47fb-9b2f-ebc8949846e6)**
-
-New kids off the blockchain
-
-Financial Times • 1d ago
+Bloomberg.com • 2h ago
 
 ---
 
@@ -283,7 +283,7 @@ Crypto treasury companies quietly crept into index funds and retirement accounts
 
 **[$40B in Bitcoin Accidentally Given Away](https://news.ycombinator.com/item?id=46965768)**
 
-⬆️ 4 • 💬 0 • 2h ago • [wsj.com](https://www.wsj.com/finance/currencies/a-bitcoin-blunder-for-the-ages-40-billion-accidentally-given-away-3a207eac)
+⬆️ 4 • 💬 0 • 3h ago • [wsj.com](https://www.wsj.com/finance/currencies/a-bitcoin-blunder-for-the-ages-40-billion-accidentally-given-away-3a207eac)
 
 ---
 
@@ -313,7 +313,7 @@ If You Hold Crypto... GET READY! (watch before they delete this) ☝️ Become a
 
 📺 Altcoin Daily
 
-👁️ 57K • 👍 3K • 💬 234 • ⏱️ 11:47 • 21h ago
+👁️ 57K • 👍 3K • 💬 234 • ⏱️ 11:47 • 22h ago
 
 ---
 
@@ -333,7 +333,7 @@ CNBC"s MacKenzie Sigalos joins 'Squawk Box' to discuss the recent bitcoin volati
 
 📺 CNBC Television
 
-👁️ 28K • 👍 439 • 💬 318 • ⏱️ 6:36 • 6h ago
+👁️ 28K • 👍 439 • 💬 318 • ⏱️ 6:36 • 7h ago
 
 ---
 
@@ -343,7 +343,7 @@ CNBC's MacKenzie Sigalos reports on trends in bitcoin.
 
 📺 CNBC Television
 
-👁️ 17K • 👍 132 • 💬 248 • ⏱️ 2:23 • 17h ago
+👁️ 17K • 👍 132 • 💬 248 • ⏱️ 2:23 • 18h ago
 
 ---
 
@@ -353,7 +353,7 @@ The Fed and Treasury are backing themselves into a corner and the only escape is
 
 📺 Simply Bitcoin
 
-👁️ 31K • 👍 3K • 💬 311 • ⏱️ 17:50 • 22h ago
+👁️ 31K • 👍 3K • 💬 311 • ⏱️ 17:50 • 23h ago
 
 ---
 
@@ -363,7 +363,7 @@ Watch this video where I break down volatility: https://youtu.be/Z_vlwus19-8?si=
 
 📺 Mark Moss
 
-👁️ 6K • 👍 1K • 💬 163 • ⏱️ 19:19 • 3h ago
+👁️ 6K • 👍 1K • 💬 163 • ⏱️ 19:19 • 4h ago
 
 ---
 
@@ -393,7 +393,7 @@ TrumpCrypto2025 #DigitalAssets #TrumpAnnouncement Welcome to the Trump Crypto Fo
 
 📺 Clean Freak & Germaphobe
 
-👁️ 4K • 👍 2K • 1h ago
+👁️ 4K • 👍 2K • 3h ago
 
 ---
 
@@ -403,7 +403,7 @@ Make Free Predictions on *ClashPicks* ▻ https://www.clashpicks.com/ Follow Cla
 
 📺 CryptosRUs
 
-👁️ 25K • 👍 1K • 💬 335 • ⏱️ 12:54 • 20h ago
+👁️ 25K • 👍 1K • 💬 335 • ⏱️ 12:54 • 21h ago
 
 ---
 
