@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-02-10T06:43:13.633093+00:00'
+updated: '2026-02-10T07:59:36.755598+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- social
 - cryptocurrency
 - news
 - videos
+- social
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** February 10, 2026 at 06:43 UTC  
+**Last Updated:** February 10, 2026 at 07:59 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,33 +38,33 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $69,766.81
+### $68,985.11
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** -2.1%  
-**7d:** -5.6%  
-**30d:** -24.4%  
-**90d:** -30.9%  
-**1y:** -27.9%  
+**24h:** -1.4%  
+**7d:** -5.8%  
+**30d:** -24.5%  
+**90d:** -31.0%  
+**1y:** -28.0%  
 
 ---
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1394.57B
+**Market Cap:** $1376.72B
 Rank #1
 
-**Circulating Supply:** 19,987,009 BTC
+**Circulating Supply:** 19,987,050 BTC
 95.2% of max
 
 **All-Time High:** $126,080.00
--44.7%
+-45.3%
 
 **All-Time Low:** $67.81
-+102740.3%
++101516.3%
 
 ---
 
@@ -81,7 +81,7 @@ Rank #1
 
 After hearing all the takes on recent Bitcoin price action, the irony is hard to miss. The goal is still buy low, sell high… right? 😅
 
-7h ago
+8h ago
 
 ---
 
@@ -89,7 +89,7 @@ After hearing all the takes on recent Bitcoin price action, the irony is hard to
 
 Only 6.6% of Bitcoin ETF holdings have been sold since last ATH.
 
-🔗 [Yahoo Finance](https://finance.yahoo.com/news/bitcoin-etf-holders-diamond-hands-160516190.html) • 9h ago
+🔗 [Yahoo Finance](https://finance.yahoo.com/news/bitcoin-etf-holders-diamond-hands-160516190.html) • 10h ago
 
 ---
 
@@ -97,7 +97,7 @@ Only 6.6% of Bitcoin ETF holdings have been sold since last ATH.
 
 Stay humble, stack sats. Not a brag post but something for me to reflect upon each year and look back on the journey
 
-2h ago
+4h ago
 
 ---
 
@@ -105,7 +105,7 @@ Stay humble, stack sats. Not a brag post but something for me to reflect upon ea
 
 If you can't afford to buy it, the author is linking to free version: https://x.com/saifedean/status/1541200940124049408#m The audio book is also quite often to be found at YouTube.
 
-15h ago
+16h ago
 
 ---
 
@@ -113,13 +113,13 @@ If you can't afford to buy it, the author is linking to free version: https://x.
 
 Credit: @thepaulosophy Info about the ring: https://bitcoin-ring.com
 
-8h ago
+9h ago
 
 ---
 
 **[Many conclusions can be drawn from this image](https://www.reddit.com/r/Bitcoin/comments/1r05auq/many_conclusions_can_be_drawn_from_this_image/)**
 
-16h ago
+17h ago
 
 ---
 
@@ -127,7 +127,7 @@ Credit: @thepaulosophy Info about the ring: https://bitcoin-ring.com
 
 Sovereign funds stacking quietly = regulatory green light incoming... Elephants don’t FOMO. They know the watering hole’s about to open. Larry Fink speaking at the DealBook Summit, December 2025.
 
-9h ago
+10h ago
 
 ---
 
@@ -135,7 +135,7 @@ Sovereign funds stacking quietly = regulatory green light incoming... Elephants 
 
 The main reason we can know quite well that bitcoin will be worth more in the future than it is worth today is this: If you ask a young person whether they own any gold, they'll probably say no. But if you ask that same person if they own any bitcoin, there's a good chance they'd say yes. Great. Most bitcoiners don't find this new or surprising. But here's what a lot of bitcoin maxis don't understand: The less diversification you have, the more overall wealth you need at retirement to offset the risk your portfolio crashes during the first few years of your retirement. Said differently, if you're super convicted about bitcoin's future and you're trying to stack as many sats as you can every day, you're doing great! But you should also know and appreciate the fact that holding bitcoin as the only asset in your portfolio poses a serious risk to your ability to retire early. This risk is called "Sequence of Returns Risk". What is Sequence of Returns Risk ("SORR")? Put simply, it's the risk that your portfolio crashes early on in your retirement, such that when you withdraw the money you need each year to cover living expenses, you're forced to sell your assets during bear market lows. You really, REALLY don't want to be selling your assets during a market crash. Why? Here's an illustrative example: let's say you retired yesterday with a portfolio equal to $1M and you spend $40k per year. You plan to retire for 30 years - great! Good plan. But then something unexpected happens: your portfolio value plummets by 50% in Year 1 to a new value of $500k. Now, each time you withdraw your $40k needed to cover expenses, you are forced to sell TWICE as much of your assets as you would have been selling during a normal "non-crash" market. Then, when the market rebounds, a much smaller amount of your portfolio is still remaining to benefit from the rebound. The end result: you lose money faster. So what's the lesson? Easy. Don't put all your eggs in one basket. This isn't "weak hands" advice or "boomer" thinking. This is the smart way to invest to give yourself the best chance of retiring successfully so you can minimize the amount of bitcoin you ever have to sell to maintain your lifestyle.
 
-10h ago
+12h ago
 
 ---
 
@@ -143,13 +143,13 @@ The main reason we can know quite well that bitcoin will be worth more in the fu
 
 If the 4 year cycle is intact.. we go down and stay down between 50K to 70K over the next 2 years before the slow grind up. If the 4 year cycle is broken due to a fundamentally different investor set, then we potentially see a swift recovery following clarity on CLARITY ACT, and break new highs in 2026. But right now.. we're at the mid point, where Schrodinger's Bitcoin is... Time will tell. I'm rooting for new highs in 2026 and a fundamentally different cycle to end all cycles. You?
 
-17h ago
+18h ago
 
 ---
 
-**[Smart money is HODLING](https://www.reddit.com/r/Bitcoin/comments/1r0if9d/smart_money_is_hodling/)**
+**[Usually when you feel down and out it is exactly the right time to buy!](https://www.reddit.com/r/Bitcoin/comments/1r0jvrz/usually_when_you_feel_down_and_out_it_is_exactly/)**
 
-Bitcoin down nearly 50%. ETF investor capital hasn't moved. No broker sold them on it. No hype. They came in with a long-term thesis. They sized it appropriately. The smart money is holding. [Eric Balchunas on The Last Trade]
+I added to my long postion on btc. Most of my gains hsve been wiped out from past 4 years. I added. No guarantees but usually when I feel sick is when I should be adding and when we are euphoric things are getting risky. As the old Buffett phrase goes, "Be fearful when others are greedy and greedy when others are fearful!"
 
 8h ago
 
@@ -159,27 +159,11 @@ Bitcoin down nearly 50%. ETF investor capital hasn't moved. No broker sold them 
 
 ## Google News: "bitcoin"
 
-**[Bitcoin price news: BTC climbs above $70,000 as Bernstein makes bull case](https://www.coindesk.com/markets/2026/02/09/bitcoin-shakes-off-early-decline-returns-to-usd70-000-as-bernstein-reiterates-usd150-000-outlook)**
-
-"What we are experiencing is the weakest bitcoin bear case in its history," wrote Bernstein's Gautam Chhugani.
-
-CoinDesk • 12h ago
-
----
-
 **[Nancy Guthrie family faces $6 million Bitcoin ransom demand: How such a payment would take place](https://fortune.com/2026/02/09/nancy-guthries-family-faces-6-million-bitcoin-ransom-demand/)**
 
 Savannah Guthrie and her siblings released a video saying ‘we will pay’.
 
-Fortune • 12h ago
-
----
-
-**[Nancy Guthrie's alleged Bitcoin ransom could be paid in minutes as Monday deadline approaches: expert](https://www.foxnews.com/us/nancy-guthries-alleged-bitcoin-ransom-could-paid-minutes-monday-deadline-approaches-expert)**
-
-Captors have allegedly demanded $6 million in Bitcoin from the Guthrie family, as Nancy Guthrie remains missing her NBC anchor daughter pleads for her return.
-
-foxnews.com • 12h ago
+Fortune • 13h ago
 
 ---
 
@@ -187,7 +171,23 @@ foxnews.com • 12h ago
 
 A bitcoin wallet linked to a $6 million ransom for Savannah Guthrie’s missing mother, Nancy Guthrie, remains empty.
 
-Yahoo • 8h ago
+Yahoo • 9h ago
+
+---
+
+**[Nancy Guthrie Alleged Ransom Account Remains Empty as Deadline Approaches](https://www.tmz.com/2026/02/09/nancy-guthrie-bitcoin-ransom-not-paid-yet/)**
+
+A bitcoin account allegedly set up to accept funds in exchange for Savannah Guthrie's missing mother Nancy is still sitting empty Monday morning ... with time quickly winding down on an alleged deadline.
+
+TMZ • 14h ago
+
+---
+
+**[Bitcoin price analysis: BTC faces fresh resistance near $71,000](https://www.coindesk.com/markets/2026/02/10/bitcoin-faces-fresh-resistance-near-usd71-000-as-fear-gauge-hits-2022-lows)**
+
+Trading data show a broad risk-off unwind, with spot volumes on major exchanges down about 30% since late 2025 and retail participation fading
+
+CoinDesk • 4h ago
 
 ---
 
@@ -195,7 +195,7 @@ Yahoo • 8h ago
 
 Bithumb has apologised for staff error that sent customers 620,000 bitcoins instead of 620,000 Korean won, equivalent to a few hundred US dollars
 
-The Guardian • 2h ago
+The Guardian • 3h ago
 
 ---
 
@@ -209,7 +209,7 @@ BBC • 2d ago
 
 **[Korea Probes Crypto Exchange Over $40 Billion in ‘Ghost Bitcoin’](https://www.bloomberg.com/news/articles/2026-02-09/bithumb-accidentally-gifts-620-000-bitcoin-btc-to-clients-in-fat-finger-error)**
 
-bloomberg.com • 20h ago
+bloomberg.com • 21h ago
 
 ---
 
@@ -217,21 +217,23 @@ bloomberg.com • 20h ago
 
 A pair of bitcoin-linked firms could see their shares skyrocket, even as the flagship crypto retreats, due to their pivot to the data center business.
 
-CNBC • 11h ago
+CNBC • 12h ago
 
 ---
 
-**[Two Bitcoin Miners Rise On Morgan Stanley Coverage, AI Potential](https://www.investors.com/news/bitcoin-miners-morgan-stanley-terawulf-cipher-mining-mara-cathie-wood-bullish-coinbase/)**
+**[Trusted Chicago judge takes Tuskegee Airman's cash, then flips it into bitcoin for herself](https://www.cbsnews.com/chicago/news/retired-judge-patricia-martin-theft-tuskegee-airman-oscar-lawton-wilkerson-bitcoin/)**
 
-Investor's Business Daily • 9h ago
+A retired judge who lost her law license for fleecing her Tuskegee Airman uncle used the money she stole to buy bitcoin for herself, court records show.
+
+cbsnews.com • 1d ago
 
 ---
 
-**[Morgan Stanley backs Cipher (CIFR) and TeraWulf (WULF), but is cool on Marathon (MARA)](https://www.coindesk.com/markets/2026/02/09/cipher-mining-and-terawulf-are-buys-mara-a-sell-as-morgan-stanley-begins-bitcoin-miner-coverag)**
+**[U.S. stocks drift higher as gold, silver and bitcoin stabilize](https://www.nbcnews.com/business/markets/us-stocks-drift-higher-gold-silver-bitcoin-stabilize-rcna258263)**
 
-The analyst framed some bitcoin mining sites as infrastructure assets, lifting CIFR and WULF shares while MARA lags.
+On Wall Street, the U.S. stock market was coming off its best day since May to close last week, but several concerns still hang over the market.
 
-CoinDesk • 13h ago
+NBC News • 10h ago
 
 ---
 
@@ -323,57 +325,7 @@ Watch my free masterclass & get Market Briefs as a bonus: https://briefs.finance
 
 📺 Minority Mindset
 
-👁️ 165K • 👍 5K • 💬 2K • ⏱️ 13:35 • 18h ago
-
----
-
-**[Cathie Wood: &quot;Everyone Is So WRONG About Bitcoin Crash&quot;](https://www.youtube.com/watch?v=ru5AW3FWa5o)**
-
-Cathie Wood, CEO of ARK Invest, just dropped a bombshell about Bitcoin's crash to $60000. While everyone is panic selling, she ...
-
-📺 Money Talks
-
-👁️ 1K • 👍 50 • 💬 28 • ⏱️ 12:18 • 12h ago
-
----
-
-**[THEY JUST SOLD A TON OF BITCOIN](https://www.youtube.com/watch?v=CL4rI0AkPms)**
-
-CHECK OUT MY LINKTREE FOR EXCHANGES I USE, BONUSES, FREE VIDEOS, AND MORE! https://linktr.ee/Myfinancialfriend I ...
-
-📺 My Financial Friend
-
-👁️ 12K • 👍 540 • 💬 49 • ⏱️ 16:35 • 13h ago
-
----
-
-**[Did the FED and Treasury Just Trigger a Bitcoin Repricing?!](https://www.youtube.com/watch?v=5w1RAhGNWww)**
-
-The Fed and Treasury are backing themselves into a corner and the only escape is printing. Yield curve control, inflation, and a ...
-
-📺 Simply Bitcoin
-
-👁️ 14K • 👍 2K • 💬 197 • ⏱️ 17:50 • 6h ago
-
----
-
-**[Bitcoin’s Largest Drop Ever? What Most People Missed](https://www.youtube.com/watch?v=sFDHx_I34TU)**
-
-Bitcoin just experienced the largest real-dollar drawdown in its history — and the reaction revealed more than the price ever could ...
-
-📺 Swan Bitcoin
-
-👁️ 9K • 👍 317 • 💬 43 • ⏱️ 20:31 • 10h ago
-
----
-
-**[🔥Crypto ENDGAME Sooner than you Think👀](https://www.youtube.com/watch?v=e6so8YUJ6sM)**
-
-China dumping dollars can trigger a global risk‑off, crushing crypto short term; With the Feb.10th CLARITY Act looming, a harsh ...
-
-📺 Paul Barron Network
-
-👁️ 79K • 👍 4K • 💬 440 • ⏱️ 28:19 • 9h ago
+👁️ 176K • 👍 6K • 💬 2K • ⏱️ 13:35 • 19h ago
 
 ---
 
@@ -383,17 +335,47 @@ China dumping dollars can trigger a global risk‑off, crushing crypto short ter
 
 📺 Money Talks
 
-👁️ 14K • 👍 209 • 💬 59 • ⏱️ 11:09 • 1d ago
+👁️ 14K • 👍 212 • 💬 59 • ⏱️ 11:09 • 1d ago
 
 ---
 
-**[TRUMP BUYING BITCOIN DIP SAYS JIM CRAMER &amp; CRYPTO REGULATION BILL IS LOSING GROUND!](https://www.youtube.com/watch?v=CAwlKGCJRWQ)**
+**[Why bitcoin is lingering around $70,000](https://www.youtube.com/watch?v=zVU9lf3KoAw)**
 
-Crypto News: Will Bitcoin see a relief rally soon? Wall Street firm Bernstein reiterated its $150000 year-end price target on BTC.
+CNBC's MacKenzie Sigalos reports on trends in bitcoin.
 
-📺 Thinking Crypto
+📺 CNBC Television
 
-👁️ 1K • 👍 190 • 💬 39 • ⏱️ 16:26 • 3h ago
+👁️ 4K • 👍 52 • 💬 85 • ⏱️ 2:23 • 3h ago
+
+---
+
+**[Cathie Wood: &quot;Everyone Is So WRONG About Bitcoin Crash&quot;](https://www.youtube.com/watch?v=ru5AW3FWa5o)**
+
+Cathie Wood, CEO of ARK Invest, just dropped a bombshell about Bitcoin's crash to $60000. While everyone is panic selling, she ...
+
+📺 Money Talks
+
+👁️ 2K • 👍 55 • 💬 31 • ⏱️ 12:18 • 13h ago
+
+---
+
+**[Did the FED and Treasury Just Trigger a Bitcoin Repricing?!](https://www.youtube.com/watch?v=5w1RAhGNWww)**
+
+The Fed and Treasury are backing themselves into a corner and the only escape is printing. Yield curve control, inflation, and a ...
+
+📺 Simply Bitcoin
+
+👁️ 20K • 👍 2K • 💬 284 • ⏱️ 17:50 • 7h ago
+
+---
+
+**[Donald Trump Is About To Crash Bitcoin Again | Mark Yusko&#39;s 2026 Predictions](https://www.youtube.com/watch?v=BsMi69bhOj4)**
+
+Mark Yusko Crypto Prediction's 2026 Follow: https://x.com/MarkYusko LIMITED TIME: ✓ Bitunix (no kyc, $10k bonus): ...
+
+📺 Altcoin Daily
+
+👁️ 79K • 👍 3K • 💬 1K • ⏱️ 59:15 • 1d ago
 
 ---
 
@@ -403,17 +385,37 @@ TOOBIT — CLAIM $50 & 20% SIGN UP BONUS ON YOUR DEPOSIT Limited spots available
 
 📺 100XClub
 
-👁️ 12K • 👍 1K • 💬 695 • ⏱️ 9:04 • 20h ago
+👁️ 12K • 👍 1K • 💬 695 • ⏱️ 9:04 • 22h ago
 
 ---
 
-**[This Is Going To Happen FAST](https://www.youtube.com/watch?v=W30V1RN3BeA)**
+**[Bitcoin’s Largest Drop Ever? What Most People Missed](https://www.youtube.com/watch?v=sFDHx_I34TU)**
 
-FREE NEWSLETTER: https://www.learningcrypto.com/ SHOP: https://shop.learningcrypto.com 🕊️ SECOND CITIZENSHIPS: ...
+Bitcoin just experienced the largest real-dollar drawdown in its history — and the reaction revealed more than the price ever could ...
 
-📺 Crypto Tips
+📺 Swan Bitcoin
 
-👁️ 20K • 👍 1K • 💬 141 • ⏱️ 9:35 • 11h ago
+👁️ 10K • 👍 339 • 💬 74 • ⏱️ 20:31 • 11h ago
+
+---
+
+**[This Bitcoin Reversal Sets Up a $150,000 Target](https://www.youtube.com/watch?v=fqxM_lWtRYc)**
+
+Make Free Predictions on *ClashPicks* ▻ https://www.clashpicks.com/ Follow ClashPicks' X ▻ https://x.com/ClashPicks ...
+
+📺 CryptosRUs
+
+👁️ 27K • 👍 1K • 💬 689 • ⏱️ 43:45 • 16h ago
+
+---
+
+**[THEY JUST SOLD A TON OF BITCOIN](https://www.youtube.com/watch?v=CL4rI0AkPms)**
+
+CHECK OUT MY LINKTREE FOR EXCHANGES I USE, BONUSES, FREE VIDEOS, AND MORE! https://linktr.ee/Myfinancialfriend I ...
+
+📺 My Financial Friend
+
+👁️ 12K • 👍 549 • 💬 74 • ⏱️ 16:35 • 15h ago
 
 ---
 
