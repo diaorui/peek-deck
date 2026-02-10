@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-02-10T07:59:36.755598+00:00'
+updated: '2026-02-10T09:07:04.967887+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- cryptocurrency
+- social
 - news
 - videos
-- social
+- cryptocurrency
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** February 10, 2026 at 07:59 UTC  
+**Last Updated:** February 10, 2026 at 09:07 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,17 +38,17 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $68,985.11
+### $69,339.61
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** -1.4%  
-**7d:** -5.8%  
-**30d:** -24.5%  
-**90d:** -31.0%  
-**1y:** -28.0%  
+**24h:** +0.9%  
+**7d:** -5.2%  
+**30d:** -24.0%  
+**90d:** -30.6%  
+**1y:** -27.6%  
 
 ---
 
@@ -81,15 +81,7 @@ Rank #1
 
 After hearing all the takes on recent Bitcoin price action, the irony is hard to miss. The goal is still buy low, sell high… right? 😅
 
-8h ago
-
----
-
-**[Bitcoin ETF Holders Have Diamond Hands Despite 44% BTC Crash](https://www.reddit.com/r/Bitcoin/comments/1r0hhxa/bitcoin_etf_holders_have_diamond_hands_despite_44/)**
-
-Only 6.6% of Bitcoin ETF holdings have been sold since last ATH.
-
-🔗 [Yahoo Finance](https://finance.yahoo.com/news/bitcoin-etf-holders-diamond-hands-160516190.html) • 10h ago
+9h ago
 
 ---
 
@@ -97,7 +89,15 @@ Only 6.6% of Bitcoin ETF holdings have been sold since last ATH.
 
 Stay humble, stack sats. Not a brag post but something for me to reflect upon each year and look back on the journey
 
-4h ago
+5h ago
+
+---
+
+**[Bitcoin ETF Holders Have Diamond Hands Despite 44% BTC Crash](https://www.reddit.com/r/Bitcoin/comments/1r0hhxa/bitcoin_etf_holders_have_diamond_hands_despite_44/)**
+
+Only 6.6% of Bitcoin ETF holdings have been sold since last ATH.
+
+🔗 [Yahoo Finance](https://finance.yahoo.com/news/bitcoin-etf-holders-diamond-hands-160516190.html) • 11h ago
 
 ---
 
@@ -105,7 +105,13 @@ Stay humble, stack sats. Not a brag post but something for me to reflect upon ea
 
 If you can't afford to buy it, the author is linking to free version: https://x.com/saifedean/status/1541200940124049408#m The audio book is also quite often to be found at YouTube.
 
-16h ago
+17h ago
+
+---
+
+**[Many conclusions can be drawn from this image](https://www.reddit.com/r/Bitcoin/comments/1r05auq/many_conclusions_can_be_drawn_from_this_image/)**
+
+18h ago
 
 ---
 
@@ -113,13 +119,7 @@ If you can't afford to buy it, the author is linking to free version: https://x.
 
 Credit: @thepaulosophy Info about the ring: https://bitcoin-ring.com
 
-9h ago
-
----
-
-**[Many conclusions can be drawn from this image](https://www.reddit.com/r/Bitcoin/comments/1r05auq/many_conclusions_can_be_drawn_from_this_image/)**
-
-17h ago
+10h ago
 
 ---
 
@@ -127,7 +127,7 @@ Credit: @thepaulosophy Info about the ring: https://bitcoin-ring.com
 
 Sovereign funds stacking quietly = regulatory green light incoming... Elephants don’t FOMO. They know the watering hole’s about to open. Larry Fink speaking at the DealBook Summit, December 2025.
 
-10h ago
+11h ago
 
 ---
 
@@ -135,7 +135,7 @@ Sovereign funds stacking quietly = regulatory green light incoming... Elephants 
 
 The main reason we can know quite well that bitcoin will be worth more in the future than it is worth today is this: If you ask a young person whether they own any gold, they'll probably say no. But if you ask that same person if they own any bitcoin, there's a good chance they'd say yes. Great. Most bitcoiners don't find this new or surprising. But here's what a lot of bitcoin maxis don't understand: The less diversification you have, the more overall wealth you need at retirement to offset the risk your portfolio crashes during the first few years of your retirement. Said differently, if you're super convicted about bitcoin's future and you're trying to stack as many sats as you can every day, you're doing great! But you should also know and appreciate the fact that holding bitcoin as the only asset in your portfolio poses a serious risk to your ability to retire early. This risk is called "Sequence of Returns Risk". What is Sequence of Returns Risk ("SORR")? Put simply, it's the risk that your portfolio crashes early on in your retirement, such that when you withdraw the money you need each year to cover living expenses, you're forced to sell your assets during bear market lows. You really, REALLY don't want to be selling your assets during a market crash. Why? Here's an illustrative example: let's say you retired yesterday with a portfolio equal to $1M and you spend $40k per year. You plan to retire for 30 years - great! Good plan. But then something unexpected happens: your portfolio value plummets by 50% in Year 1 to a new value of $500k. Now, each time you withdraw your $40k needed to cover expenses, you are forced to sell TWICE as much of your assets as you would have been selling during a normal "non-crash" market. Then, when the market rebounds, a much smaller amount of your portfolio is still remaining to benefit from the rebound. The end result: you lose money faster. So what's the lesson? Easy. Don't put all your eggs in one basket. This isn't "weak hands" advice or "boomer" thinking. This is the smart way to invest to give yourself the best chance of retiring successfully so you can minimize the amount of bitcoin you ever have to sell to maintain your lifestyle.
 
-12h ago
+13h ago
 
 ---
 
@@ -143,7 +143,7 @@ The main reason we can know quite well that bitcoin will be worth more in the fu
 
 If the 4 year cycle is intact.. we go down and stay down between 50K to 70K over the next 2 years before the slow grind up. If the 4 year cycle is broken due to a fundamentally different investor set, then we potentially see a swift recovery following clarity on CLARITY ACT, and break new highs in 2026. But right now.. we're at the mid point, where Schrodinger's Bitcoin is... Time will tell. I'm rooting for new highs in 2026 and a fundamentally different cycle to end all cycles. You?
 
-18h ago
+19h ago
 
 ---
 
@@ -151,7 +151,7 @@ If the 4 year cycle is intact.. we go down and stay down between 50K to 70K over
 
 I added to my long postion on btc. Most of my gains hsve been wiped out from past 4 years. I added. No guarantees but usually when I feel sick is when I should be adding and when we are euphoric things are getting risky. As the old Buffett phrase goes, "Be fearful when others are greedy and greedy when others are fearful!"
 
-8h ago
+9h ago
 
 ---
 
@@ -159,35 +159,33 @@ I added to my long postion on btc. Most of my gains hsve been wiped out from pas
 
 ## Google News: "bitcoin"
 
+**[Bitcoin price news: BTC climbs above $70,000 as Bernstein makes bull case](https://www.coindesk.com/markets/2026/02/09/bitcoin-shakes-off-early-decline-returns-to-usd70-000-as-bernstein-reiterates-usd150-000-outlook)**
+
+"What we are experiencing is the weakest bitcoin bear case in its history," wrote Bernstein's Gautam Chhugani.
+
+CoinDesk • 14h ago
+
+---
+
 **[Nancy Guthrie family faces $6 million Bitcoin ransom demand: How such a payment would take place](https://fortune.com/2026/02/09/nancy-guthries-family-faces-6-million-bitcoin-ransom-demand/)**
 
 Savannah Guthrie and her siblings released a video saying ‘we will pay’.
 
-Fortune • 13h ago
+Fortune • 14h ago
 
 ---
 
-**[$6M Bitcoin Ransom Wallet For Savannah Guthrie's Mom Reportedly Still Empty As Final Deadline Looms](https://www.yahoo.com/entertainment/celebrity/articles/6m-bitcoin-ransom-wallet-savannah-221040001.html)**
+**[Ether (ETH) Resumes Plunge, Tracking Bitcoin (BTC) Slide on Risk-Off Mood](https://www.bloomberg.com/news/articles/2026-02-10/ether-eth-resumes-plunge-tracking-bitcoin-btc-slide-on-risk-off-mood)**
 
-A bitcoin wallet linked to a $6 million ransom for Savannah Guthrie’s missing mother, Nancy Guthrie, remains empty.
-
-Yahoo • 9h ago
+bloomberg.com • 19m ago
 
 ---
 
-**[Nancy Guthrie Alleged Ransom Account Remains Empty as Deadline Approaches](https://www.tmz.com/2026/02/09/nancy-guthrie-bitcoin-ransom-not-paid-yet/)**
+**[U.S. bitcoin ETFs register back-to-back inflows for first time in a month](https://www.coindesk.com/markets/2026/02/10/u-s-bitcoin-etfs-register-back-to-back-inflows-for-first-time-in-a-month)**
 
-A bitcoin account allegedly set up to accept funds in exchange for Savannah Guthrie's missing mother Nancy is still sitting empty Monday morning ... with time quickly winding down on an alleged deadline.
+ETF assets under management continue to diverge from spot bitcoin price.
 
-TMZ • 14h ago
-
----
-
-**[Bitcoin price analysis: BTC faces fresh resistance near $71,000](https://www.coindesk.com/markets/2026/02/10/bitcoin-faces-fresh-resistance-near-usd71-000-as-fear-gauge-hits-2022-lows)**
-
-Trading data show a broad risk-off unwind, with spot volumes on major exchanges down about 30% since late 2025 and retail participation fading
-
-CoinDesk • 4h ago
+CoinDesk • 1h ago
 
 ---
 
@@ -195,7 +193,7 @@ CoinDesk • 4h ago
 
 Bithumb has apologised for staff error that sent customers 620,000 bitcoins instead of 620,000 Korean won, equivalent to a few hundred US dollars
 
-The Guardian • 3h ago
+The Guardian • 4h ago
 
 ---
 
@@ -209,7 +207,7 @@ BBC • 2d ago
 
 **[Korea Probes Crypto Exchange Over $40 Billion in ‘Ghost Bitcoin’](https://www.bloomberg.com/news/articles/2026-02-09/bithumb-accidentally-gifts-620-000-bitcoin-btc-to-clients-in-fat-finger-error)**
 
-bloomberg.com • 21h ago
+bloomberg.com • 22h ago
 
 ---
 
@@ -217,7 +215,7 @@ bloomberg.com • 21h ago
 
 A pair of bitcoin-linked firms could see their shares skyrocket, even as the flagship crypto retreats, due to their pivot to the data center business.
 
-CNBC • 12h ago
+CNBC • 14h ago
 
 ---
 
@@ -233,7 +231,7 @@ cbsnews.com • 1d ago
 
 On Wall Street, the U.S. stock market was coming off its best day since May to close last week, but several concerns still hang over the market.
 
-NBC News • 10h ago
+NBC News • 11h ago
 
 ---
 
@@ -287,7 +285,7 @@ The crypto crash is coming — and the landing won’t be pretty
 
 Crypto treasury companies quietly crept into index funds and retirement accounts. This collapse is good news for all of us.
 
-⬆️ 4 • 💬 1 • 5d ago • [Slate Magazine](https://slate.com/technology/2026/02/bitcoin-crypto-treasury-wall-street-microstrategy.html)
+⬆️ 4 • 💬 1 • 6d ago • [Slate Magazine](https://slate.com/technology/2026/02/bitcoin-crypto-treasury-wall-street-microstrategy.html)
 
 ---
 
@@ -325,7 +323,7 @@ Watch my free masterclass & get Market Briefs as a bonus: https://briefs.finance
 
 📺 Minority Mindset
 
-👁️ 176K • 👍 6K • 💬 2K • ⏱️ 13:35 • 19h ago
+👁️ 176K • 👍 6K • 💬 2K • ⏱️ 13:35 • 20h ago
 
 ---
 
@@ -345,7 +343,7 @@ CNBC's MacKenzie Sigalos reports on trends in bitcoin.
 
 📺 CNBC Television
 
-👁️ 4K • 👍 52 • 💬 85 • ⏱️ 2:23 • 3h ago
+👁️ 4K • 👍 52 • 💬 85 • ⏱️ 2:23 • 4h ago
 
 ---
 
@@ -355,7 +353,7 @@ Cathie Wood, CEO of ARK Invest, just dropped a bombshell about Bitcoin's crash t
 
 📺 Money Talks
 
-👁️ 2K • 👍 55 • 💬 31 • ⏱️ 12:18 • 13h ago
+👁️ 2K • 👍 55 • 💬 31 • ⏱️ 12:18 • 14h ago
 
 ---
 
@@ -365,7 +363,7 @@ The Fed and Treasury are backing themselves into a corner and the only escape is
 
 📺 Simply Bitcoin
 
-👁️ 20K • 👍 2K • 💬 284 • ⏱️ 17:50 • 7h ago
+👁️ 20K • 👍 2K • 💬 284 • ⏱️ 17:50 • 9h ago
 
 ---
 
@@ -385,7 +383,7 @@ TOOBIT — CLAIM $50 & 20% SIGN UP BONUS ON YOUR DEPOSIT Limited spots available
 
 📺 100XClub
 
-👁️ 12K • 👍 1K • 💬 695 • ⏱️ 9:04 • 22h ago
+👁️ 12K • 👍 1K • 💬 695 • ⏱️ 9:04 • 23h ago
 
 ---
 
@@ -395,7 +393,7 @@ Bitcoin just experienced the largest real-dollar drawdown in its history — and
 
 📺 Swan Bitcoin
 
-👁️ 10K • 👍 339 • 💬 74 • ⏱️ 20:31 • 11h ago
+👁️ 10K • 👍 339 • 💬 74 • ⏱️ 20:31 • 13h ago
 
 ---
 
@@ -405,7 +403,7 @@ Make Free Predictions on *ClashPicks* ▻ https://www.clashpicks.com/ Follow Cla
 
 📺 CryptosRUs
 
-👁️ 27K • 👍 1K • 💬 689 • ⏱️ 43:45 • 16h ago
+👁️ 27K • 👍 1K • 💬 689 • ⏱️ 43:45 • 17h ago
 
 ---
 
@@ -415,7 +413,7 @@ CHECK OUT MY LINKTREE FOR EXCHANGES I USE, BONUSES, FREE VIDEOS, AND MORE! https
 
 📺 My Financial Friend
 
-👁️ 12K • 👍 549 • 💬 74 • ⏱️ 16:35 • 15h ago
+👁️ 12K • 👍 549 • 💬 74 • ⏱️ 16:35 • 16h ago
 
 ---
 

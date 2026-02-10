@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-02-10T07:59:36.761536+00:00'
+updated: '2026-02-10T09:07:04.973895+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- cryptocurrency
+- social
 - news
 - videos
-- social
+- cryptocurrency
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** February 10, 2026 at 07:59 UTC  
+**Last Updated:** February 10, 2026 at 09:07 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -36,17 +36,17 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Price
 
-### $2,001.68
+### $2,026.50
 
 ---
 
 ## Ethereum Chart
 
-**24h:** -2.3%  
-**7d:** -6.5%  
-**30d:** -35.2%  
-**90d:** -38.0%  
-**1y:** -22.8%  
+**24h:** +0.1%  
+**7d:** -5.7%  
+**30d:** -34.6%  
+**90d:** -37.5%  
+**1y:** -22.2%  
 
 ---
 
@@ -72,7 +72,7 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-1h ago
+3h ago
 
 ---
 
@@ -88,7 +88,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 We’re launching a new service focused on smart contract reviews without the overhead of a full audit. Scope is limited and practical. Logic, exploitability, and protocol level risks. No certification and no audit opinion. To validate the approach, we’re offering a limited number of free focused smart contract security reviews for projects that are code complete and either close to launch or already deployed, in exchange for honest feedback. This is not meant to replace an audit. It’s a short, concrete review focused on protocol logic and exploit paths. Shoot a dm, if you're interested.
 
-15h ago
+16h ago
 
 ---
 
@@ -96,7 +96,7 @@ We’re launching a new service focused on smart contract reviews without the ov
 
 In January 2026, DeFi hacks resulted in roughly $86M in losses across multiple protocols. More concerning: 7 separate incidents exceeded $1M each. Most of the exploits were rooted in smart contract vulnerabilities. The pattern feels familiar at this point. Repeated issues, similar bug classes, and preventable failures. The question isn’t whether exploits will continue it’s whether teams are adapting fast enough. Are you building with security as a first principle, or still treating it as a final checklist before launch?
 
-15h ago
+16h ago
 
 ---
 
@@ -104,7 +104,7 @@ In January 2026, DeFi hacks resulted in roughly $86M in losses across multiple p
 
 This is a compact Ethereum Virtual Machine runtime written in strict C23. Made this for learning purposes. BTW, it has a toy Solidity-like compiler into bytecode and `nano-node` program that "deploys" contracts to local store and gives ability to call them.
 
-🔗 [GitHub](https://github.com/ThirdLetterC/nano-evm) • 18h ago
+🔗 [GitHub](https://github.com/ThirdLetterC/nano-evm) • 19h ago
 
 ---
 
@@ -112,7 +112,7 @@ This is a compact Ethereum Virtual Machine runtime written in strict C23. Made t
 
 I am looking for a stablecoin that, instead of being pegged to a fiat currency, is pegged to a consumer price index, preferably one for prices where I live (Wales, UK), so that it rises with inflation. I don't mind whether it is partly centralised​ or not so long as it is actually censorship-resistent (so, unlike USDT). Should be safe i.e.​ vulnerable to being depegged so not algorithmic. Does this exist? Bonus points if it doesn't use plutocratic token-weighted governance.
 
-17h ago
+19h ago
 
 ---
 
@@ -128,7 +128,7 @@ World News, Stories By EtherWorld, Technical Explainers, Client News & Updates, 
 
 A bug fix turned into a personal comeback story of coding, parenting, and a small contribution to the open-source world.
 
-🔗 [EtherWorld.co](https://etherworld.co/the-bug-of-solving-bugs/) • 18h ago
+🔗 [EtherWorld.co](https://etherworld.co/the-bug-of-solving-bugs/) • 19h ago
 
 ---
 
@@ -160,19 +160,19 @@ Yahoo Finance • 1d ago
 
 ---
 
-**[Tom Lee’s BitMine Buys More Ethereum Despite $7.5 Billion Unrealized Loss](https://finance.yahoo.com/news/tom-lee-bitmine-buys-more-175225629.html)**
-
-Publicly traded Ethereum treasury firm BitMine Immersion Technology added to its ETH holdings last week, even as its paper losses grew.
-
-Yahoo Finance • 14h ago
-
----
-
 **[Tom Lee’s BitMine Buys More Ethereum Despite $7.5 Billion Unrealized Loss](https://decrypt.co/357468/tom-lees-bitmine-buys-ethereum-7-5-billion-unrealized-loss)**
 
 Publicly traded Ethereum treasury firm BitMine Immersion Technology added to its ETH holdings last week, even as its paper losses grew.
 
-Decrypt • 14h ago
+Decrypt • 15h ago
+
+---
+
+**[Ethereum price outlook: Tom Lee forecasts V-shaped recovery](https://www.tradingview.com/news/invezz:923ebde12094b:0-ethereum-price-outlook-tom-lee-forecasts-v-shaped-recovery/)**
+
+Bitmine Immersion Technologies has significantly bolstered its Ethereum position amid market volatility.As the ETH price dropped amid Bitcoin’s nosedive to $60,000, the crypto treasury company took advantage to acquire over 40,600 of the coin. The move mirrors that of Strategy, which also announced…
+
+TradingView • 17h ago
 
 ---
 
@@ -188,7 +188,7 @@ unchainedcrypto.com • 3d ago
 
 Tom Lee says Ethereum price could rebound sharply, pointing to historical patterns, even as critics question his credibility.
 
-CCN.com • 17h ago
+CCN.com • 18h ago
 
 ---
 
@@ -196,15 +196,15 @@ CCN.com • 17h ago
 
 The project, which had previously pitched itself as a layer-2 “real-time blockchain,” targeting more than 100,000 transactions per second, would make onchain interactions feel closer to traditional web apps than today’s crypto networks.
 
-CoinDesk • 15h ago
+CoinDesk • 16h ago
 
 ---
 
-**[Ethereum Price Set To Break Out Against Bitcoin, But How High Can It Go?](https://www.tradingview.com/news/newsbtc:e0d161f50094b:0-ethereum-price-set-to-break-out-against-bitcoin-but-how-high-can-it-go/)**
+**[Ethereum Supply on Exchanges Mirrors 2016 Levels: What Happens Next?](https://www.tradingview.com/news/newsbtc:a2a5344fb094b:0-ethereum-supply-on-exchanges-mirrors-2016-levels-what-happens-next/)**
 
-The cryptocurrency industry went under intense pressure last week, with Bitcoin and Ethereum leading the crash and multiple cryptocurrencies hitting new multi-month lows. The crash was more pronounced with Bitcoin, though, and the imbalance in selling pressure is quietly shifting the relationship b…
+Ethereum is attempting to stabilize around the $2,000 level as the broader crypto market enters a critical consolidation phase following weeks of heightened volatility. Price action remains fragile, with buyers defending key psychological support while macro uncertainty, liquidity shifts, and persi…
 
-TradingView • 17h ago
+TradingView • 5h ago
 
 ---
 
@@ -228,7 +228,7 @@ The Motley Fool • 2d ago
 
 Ethereum price predictions from Standard Chartered and Citi target $5,400-$7,500 for 2026, but technical analysis shows bearish targets at $1,760-$1,000.
 
-financemagnates.com • 19h ago
+financemagnates.com • 21h ago
 
 ---
 
@@ -242,7 +242,7 @@ If You Hold Crypto... GET READY! (watch before they delete this) ☝️ Become a
 
 📺 Altcoin Daily
 
-👁️ 31K • 👍 2K • 💬 183 • ⏱️ 11:47 • 7h ago
+👁️ 31K • 👍 2K • 💬 183 • ⏱️ 11:47 • 8h ago
 
 ---
 
@@ -262,7 +262,7 @@ This video provides a professional Elliott Wave and technical analysis of Ethere
 
 📺 More Crypto Online
 
-👁️ 2K • 👍 155 • 💬 6 • ⏱️ 6:04 • 6h ago
+👁️ 2K • 👍 155 • 💬 6 • ⏱️ 6:04 • 7h ago
 
 ---
 
@@ -272,7 +272,7 @@ BITCOIN & CRYPTO: It's Actually Happening (New Targets)!!! - Bitcoin News Today,
 
 📺 Crypto World
 
-👁️ 7K • 👍 289 • 💬 191 • ⏱️ 17:38 • 8h ago
+👁️ 7K • 👍 289 • 💬 191 • ⏱️ 17:38 • 9h ago
 
 ---
 
@@ -282,7 +282,7 @@ This video provides a professional Elliott Wave and technical analysis of Ethere
 
 📺 More Crypto Online
 
-👁️ 3K • 👍 191 • 💬 4 • ⏱️ 4:46 • 17h ago
+👁️ 3K • 👍 191 • 💬 4 • ⏱️ 4:46 • 18h ago
 
 ---
 
@@ -302,7 +302,7 @@ SPOTIFY PREMIUM RSS FEED | USE CODE: SPOTIFY24 https://bankless.cc/spotify-premi
 
 📺 Bankless
 
-👁️ 3K • 👍 98 • 💬 61 • ⏱️ 1:22:18 • 20h ago
+👁️ 3K • 👍 98 • 💬 61 • ⏱️ 1:22:18 • 21h ago
 
 ---
 
@@ -312,7 +312,7 @@ Tom Lee discusses recent crypto news and volatility affecting BM&R. This video b
 
 📺 Short The Vix
 
-👁️ 1K • 👍 64 • 💬 37 • ⏱️ 16:02 • 10h ago
+👁️ 1K • 👍 64 • 💬 37 • ⏱️ 16:02 • 12h ago
 
 ---
 
@@ -322,7 +322,7 @@ Ethereum is boring right now. The price is chopping. Sentiment is terrible. Ever
 
 📺 Wall Street Stockcast
 
-👁️ 73 • 👍 3 • 💬 46 • ⏱️ 10:02 • 12h ago
+👁️ 73 • 👍 3 • 💬 46 • ⏱️ 10:02 • 13h ago
 
 ---
 
