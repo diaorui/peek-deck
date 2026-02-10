@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-02-10T13:17:03.330007+00:00'
+updated: '2026-02-10T14:42:34.179387+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- social
-- news
 - cryptocurrency
 - videos
+- social
+- news
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** February 10, 2026 at 13:17 UTC  
+**Last Updated:** February 10, 2026 at 14:42 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -36,17 +36,17 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Price
 
-### $2,015.14
+### $2,005.36
 
 ---
 
 ## Ethereum Chart
 
-**24h:** -1.6%  
-**7d:** -6.4%  
-**30d:** -35.1%  
-**90d:** -38.0%  
-**1y:** -22.8%  
+**24h:** -3.5%  
+**7d:** -7.2%  
+**30d:** -35.7%  
+**90d:** -38.5%  
+**1y:** -23.5%  
 
 ---
 
@@ -72,7 +72,15 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-7h ago
+8h ago
+
+---
+
+**[Safe ways to move ETH into DeFi without a centralized platform](https://www.reddit.com/r/ethereum/comments/1r114vc/safe_ways_to_move_eth_into_defi_without_a/)**
+
+I’ve been keeping my ETH on a centralized exchange but want better control and yield without the risks of leaving it on a CEX. My biggest worry is security , I don’t want to lose funds to hacks or platform failures. What are the safest ways to move into staking or DeFi that keep me in control? I’m open to liquid staking, DeFi platforms, or even self-custody methods, as long as it’s secure. I’d prefer to avoid KYC-heavy centralized services altogether. What have you tried recently that felt safe and reliable?
+
+57m ago
 
 ---
 
@@ -88,7 +96,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 In January 2026, DeFi hacks resulted in roughly $86M in losses across multiple protocols. More concerning: 7 separate incidents exceeded $1M each. Most of the exploits were rooted in smart contract vulnerabilities. The pattern feels familiar at this point. Repeated issues, similar bug classes, and preventable failures. The question isn’t whether exploits will continue it’s whether teams are adapting fast enough. Are you building with security as a first principle, or still treating it as a final checklist before launch?
 
-20h ago
+21h ago
 
 ---
 
@@ -96,7 +104,7 @@ In January 2026, DeFi hacks resulted in roughly $86M in losses across multiple p
 
 We’re launching a new service focused on smart contract reviews without the overhead of a full audit. Scope is limited and practical. Logic, exploitability, and protocol level risks. No certification and no audit opinion. To validate the approach, we’re offering a limited number of free focused smart contract security reviews for projects that are code complete and either close to launch or already deployed, in exchange for honest feedback. This is not meant to replace an audit. It’s a short, concrete review focused on protocol logic and exploit paths. Shoot a dm, if you're interested.
 
-20h ago
+21h ago
 
 ---
 
@@ -104,7 +112,7 @@ We’re launching a new service focused on smart contract reviews without the ov
 
 This is a compact Ethereum Virtual Machine runtime written in strict C23. Made this for learning purposes. BTW, it has a toy Solidity-like compiler into bytecode and `nano-node` program that "deploys" contracts to local store and gives ability to call them.
 
-🔗 [GitHub](https://github.com/ThirdLetterC/nano-evm) • 23h ago
+🔗 [GitHub](https://github.com/ThirdLetterC/nano-evm) • 1d ago
 
 ---
 
@@ -112,7 +120,7 @@ This is a compact Ethereum Virtual Machine runtime written in strict C23. Made t
 
 I am looking for a stablecoin that, instead of being pegged to a fiat currency, is pegged to a consumer price index, preferably one for prices where I live (Wales, UK), so that it rises with inflation. I don't mind whether it is partly centralised​ or not so long as it is actually censorship-resistent (so, unlike USDT). Should be safe i.e.​ vulnerable to being depegged so not algorithmic. Does this exist? Bonus points if it doesn't use plutocratic token-weighted governance.
 
-23h ago
+1d ago
 
 ---
 
@@ -140,14 +148,6 @@ eth-mempool-monitor subscribes to Ethereum pending transactions over WebSocket, 
 
 ---
 
-**[Should I stake my ETH in my ledger with Lido? Is it safe?](https://www.reddit.com/r/ethereum/comments/1qzmo4m/should_i_stake_my_eth_in_my_ledger_with_lido_is/)**
-
-I'm willing to stake my ETH that I have on my ledger, is this safe to use lido from the ledger?
-
-1d ago
-
----
-
 ---
 
 ## Google News: "ethereum"
@@ -156,7 +156,7 @@ I'm willing to stake my ETH that I have on my ledger, is this safe to use lido f
 
 Publicly traded Ethereum treasury firm BitMine Immersion Technology added to its ETH holdings last week, even as its paper losses grew.
 
-Decrypt • 19h ago
+Decrypt • 20h ago
 
 ---
 
@@ -164,7 +164,15 @@ Decrypt • 19h ago
 
 Investors must look outside the crypto ecosystem to identify Bitcoin's threats.
 
-The Motley Fool • 2h ago
+The Motley Fool • 3h ago
+
+---
+
+**[Ethereum’s ‘quiet’ upgrade will make the network faster — and a lot easier to run](https://www.dlnews.com/articles/defi/ethereum-zkvm-upgrade-will-make-the-network-faster-and-easier-to-run/)**
+
+Ethereum researcher outlines coming upgrade. It will speed up the blockchain and lower a key barrier to entry.  Development is ramping up.
+
+dlnews.com • 2h ago
 
 ---
 
@@ -172,15 +180,7 @@ The Motley Fool • 2h ago
 
 Vitalik Buterin is arguing against a headlong rush toward AGI, proposing Ethereum as a coordination layer for privacy-preserving, user-controlled AI systems.
 
-unchainedcrypto.com • 51m ago
-
----
-
-**[Forget Ethereum, Stablecoins, and XRP -- Here Are Bitcoin's 3 Biggest Trillion-Dollar Competitive Risks](https://finance.yahoo.com/news/forget-ethereum-stablecoins-xrp-bitcoins-113500506.html)**
-
-Investors must look outside the crypto ecosystem to identify Bitcoin's threats.
-
-Yahoo Finance • 1h ago
+unchainedcrypto.com • 2h ago
 
 ---
 
@@ -188,7 +188,15 @@ Yahoo Finance • 1h ago
 
 Tom Lee says Ethereum price could rebound sharply, pointing to historical patterns, even as critics question his credibility.
 
-CCN.com • 22h ago
+CCN.com • 23h ago
+
+---
+
+**[Tom Lee’s BitMine Adds Another $42 Million in Ethereum Despite Crypto Winter](https://finance.yahoo.com/news/tom-lee-bitmine-adds-another-210000254.html)**
+
+BitMine has expanded its Ethereum hodings by acquiring an additional 20,000 ETH for nearly $42 million this week.
+
+Yahoo Finance • 1d ago
 
 ---
 
@@ -196,7 +204,7 @@ CCN.com • 22h ago
 
 The project, which had previously pitched itself as a layer-2 “real-time blockchain,” targeting more than 100,000 transactions per second, would make onchain interactions feel closer to traditional web apps than today’s crypto networks.
 
-CoinDesk • 21h ago
+CoinDesk • 22h ago
 
 ---
 
@@ -204,7 +212,7 @@ CoinDesk • 21h ago
 
 The cryptocurrency industry went under intense pressure last week, with Bitcoin and Ethereum leading the crash and multiple cryptocurrencies hitting new multi-month lows. The crash was more pronounced with Bitcoin, though, and the imbalance in selling pressure is quietly shifting the relationship b…
 
-TradingView • 22h ago
+TradingView • 1d ago
 
 ---
 
@@ -216,17 +224,9 @@ financemagnates.com • 1d ago
 
 ---
 
-**[Most large cryptocurrencies decrease on Ethereum, Sui drops](https://www.marketwatch.com/data-news/most-large-cryptocurrencies-decrease-on-ethereum-sui-drops-952f8893-f4a308af2610?gaa_at=eafs&gaa_n=AWEtsqcqF5q0I7wNE6GzGDVHEeh0kxgI97hPMxtq1jthdde-Bjp98_FSfVMn&gaa_ts=698b3337&gaa_sig=Dm0ITRen3UB2NnjLLTLnT_V-2yCtlpBqdKv4XgISPSfTyX4Tk6yaqb30coAheI4s2qCuiQvc2O3yzskmZfx15Q%3D%3D)**
+**[Most large cryptocurrencies decrease on Ethereum, Sui drops](https://www.marketwatch.com/data-news/most-large-cryptocurrencies-decrease-on-ethereum-sui-drops-952f8893-f4a308af2610?gaa_at=eafs&gaa_n=AWEtsqflCsbi74Rcrz09YOYhPL2rx0fLl0gY-vi-6gpGTZIuXbOUt78LQAPh&gaa_ts=698b4743&gaa_sig=8XlR-n5vtubw2lOYNEOzotDB-ZVP_2vT2tMsSgK8vsZ73EirWJ_HoNTMqM5_THwqTiPPLYXfe1XUuyKoe_6mcw%3D%3D)**
 
-MarketWatch • 22h ago
-
----
-
-**[Bitmine Immersion Technologies (BMNR) Announces ETH Holdings Reach 4.326 Million Tokens, and Total Crypto and Total Cash Holdings of $10.0 Billion](https://www.prnewswire.com/news-releases/bitmine-immersion-technologies-bmnr-announces-eth-holdings-reach-4-326-million-tokens-and-total-crypto-and-total-cash-holdings-of-10-0-billion-302682272.html)**
-
-Bitmine has 2,873,459 staked ETH, representing $6.2 billion at $2,125 per ETH; MAVAN staking solution on track to launch Q1 2026 Bitmine now owns 3.58% of the...
-
-PR Newswire • 23h ago
+MarketWatch • 23h ago
 
 ---
 
@@ -240,7 +240,7 @@ If You Hold Crypto... GET READY! (watch before they delete this) ☝️ Become a
 
 📺 Altcoin Daily
 
-👁️ 43K • 👍 3K • 💬 191 • ⏱️ 11:47 • 12h ago
+👁️ 43K • 👍 3K • 💬 191 • ⏱️ 11:47 • 14h ago
 
 ---
 
@@ -260,7 +260,7 @@ This video provides a professional Elliott Wave and technical analysis of Ethere
 
 📺 More Crypto Online
 
-👁️ 331 • 👍 37 • 💬 3 • ⏱️ 4:14 • 27m ago
+👁️ 331 • 👍 37 • 💬 3 • ⏱️ 4:14 • 1h ago
 
 ---
 
@@ -270,7 +270,7 @@ This video provides a professional Elliott Wave and technical analysis of Ethere
 
 📺 More Crypto Online
 
-👁️ 3K • 👍 191 • 💬 6 • ⏱️ 6:04 • 11h ago
+👁️ 3K • 👍 191 • 💬 6 • ⏱️ 6:04 • 13h ago
 
 ---
 
@@ -280,7 +280,7 @@ ETHEREUM ETH PRICE PREDICTION 2026 Join the Premium Signal Group for trade setup
 
 📺 Cilinix Crypto
 
-👁️ 126 • 👍 15 • 💬 2 • ⏱️ 5:24 • 3h ago
+👁️ 126 • 👍 15 • 💬 2 • ⏱️ 5:24 • 5h ago
 
 ---
 
@@ -290,7 +290,7 @@ BITCOIN & CRYPTO: It's Actually Happening (New Targets)!!! - Bitcoin News Today,
 
 📺 Crypto World
 
-👁️ 8K • 👍 317 • 💬 176 • ⏱️ 17:38 • 14h ago
+👁️ 8K • 👍 317 • 💬 176 • ⏱️ 17:38 • 15h ago
 
 ---
 
@@ -310,7 +310,7 @@ This video provides a professional Elliott Wave and technical analysis of Ethere
 
 📺 More Crypto Online
 
-👁️ 3K • 👍 191 • 💬 4 • ⏱️ 4:46 • 22h ago
+👁️ 3K • 👍 191 • 💬 4 • ⏱️ 4:46 • 1d ago
 
 ---
 
