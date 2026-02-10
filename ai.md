@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-02-10T16:07:11.556278+00:00'
+updated: '2026-02-10T17:34:54.716953+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- repositories
 - videos
-- news
 - social
+- repositories
+- news
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** February 10, 2026 at 16:07 UTC  
+**Last Updated:** February 10, 2026 at 17:34 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -41,7 +41,7 @@ AI news, discussions, and developments
 
 There are plenty of WebGPU demos out there, but I wanted to ship something people could actually use day-to-day. It runs Llama 3.2, DeepSeek-R1, Qwen3, Mistral, Gemma, Phi, SmolLM2—all locally in Chrome. Three inference backends: WebLLM (MLC/WebGPU) Transformers.js (ONNX) Chrome's built-in Prompt API (Gemini Nano—zero download) No Ollama, no servers, no subscriptions. Models cache in IndexedDB. Works offline. Conversations stored locally—export or delete anytime. Free: https://noaibills.app/?utm_source=reddit&utm_medium=social&utm_campaign=launch_artificial I'm not claiming it replaces GPT-4. But for the 80% of tasks—drafts, summaries, quick coding questions—a 3B parameter model running locally is plenty. Not positioned as a cloud LLM replacement—it's for local inference on basic text tasks (writing, communication, drafts) with zero internet dependency, no API costs, and complete privacy. Core fit: organizations with data restrictions that block cloud AI and can't install desktop tools like Ollama/LMStudio. For quick drafts, grammar checks, and basic reasoning without budget or setup barriers. Need real-time knowledge or complex reasoning? Use cloud models. This serves a different niche—**not every problem needs a sledgehammer** 😄. Would love feedback from this community 🙌.
 
-7h ago
+9h ago
 
 ---
 
@@ -49,7 +49,7 @@ There are plenty of WebGPU demos out there, but I wanted to ship something peopl
 
 /PRNewswire/ -- Kling AI, the AI-powered creative platform, today announced the launch of its Kling 3.0 models — including Video 3.0, Video 3.0 Omni, Image 3.0...
 
-🔗 [prnewswire.com](https://www.prnewswire.com/news-releases/kling-ai-launches-3-0-model-ushering-in-an-era-where-everyone-can-be-a-director-302679944.html) • 5h ago
+🔗 [prnewswire.com](https://www.prnewswire.com/news-releases/kling-ai-launches-3-0-model-ushering-in-an-era-where-everyone-can-be-a-director-302679944.html) • 7h ago
 
 ---
 
@@ -57,7 +57,7 @@ There are plenty of WebGPU demos out there, but I wanted to ship something peopl
 
 A clinical trial shows that AI-assisted mammography can detect more cases of dangerous cancer and reduce missed diagnoses.
 
-🔗 [Live Science](https://www.livescience.com/health/cancer/a-second-set-of-eyes-ai-supported-breast-cancer-screening-spots-more-cancers-earlier-landmark-trial-finds) • 18h ago
+🔗 [Live Science](https://www.livescience.com/health/cancer/a-second-set-of-eyes-ai-supported-breast-cancer-screening-spots-more-cancers-earlier-landmark-trial-finds) • 19h ago
 
 ---
 
@@ -65,7 +65,7 @@ A clinical trial shows that AI-assisted mammography can detect more cases of dan
 
 Current AI systems are dangerously overconfident. They'll classify anything you give them, even if they've never seen anything like it before. I've been working on STLE (Set Theoretic Learning Environment) to address this by explicitly modeling what AI doesn't know. How It Works: STLE represents knowledge and ignorance as complementary fuzzy sets: - μ_x (accessibility): How familiar is this data? - μ_y (inaccessibility): How unfamiliar is this? - Constraint: μ_x + μ_y = 1 (always) This lets the AI explicitly say "I'm only 40% sure about this" and defer to humans. Real-World Applications: - Medical Diagnosis: "I'm 40% confident this is cancer" → defer to specialist - Autonomous Vehicles: Don't act on unfamiliar scenarios (low μ_x) - Education: Identify what students are partially understanding (frontier detection) - Finance: Flag unusual transactions for human review Results: - Out-of-distribution detection: 67% accuracy without any OOD training - Mathematically guaranteed complementarity - Extremely fast (< 1ms inference) Open Source: https://github.com/strangehospital/Frontier-Dynamics-Project The code includes: - Two implementations (simple NumPy, advanced PyTorch) - Complete documentation - Visualizations - 5 validation experiments This is proof-of-concept level, but I wanted to share it with the community. Feedback and collaboration welcome! What applications do you think this could help with? The Sky Project | strangehospital | Substack
 
-🔗 [GitHub](https://github.com/strangehospital/Frontier-Dynamics-Project) • 16h ago
+🔗 [GitHub](https://github.com/strangehospital/Frontier-Dynamics-Project) • 17h ago
 
 ---
 
@@ -119,6 +119,12 @@ Every AI API provider gives you a snapshot of current usage. None of them show y
 
 ## Google News: "ai"
 
+**[As AI enters the operating room, reports arise of botched surgeries and misidentified body parts](https://www.reuters.com/investigations/ai-enters-operating-room-reports-arise-botched-surgeries-misidentified-body-2026-02-09/)**
+
+Reuters • 1d ago
+
+---
+
 **[AI Doesn’t Reduce Work—It Intensifies It](https://hbr.org/2026/02/ai-doesnt-reduce-work-it-intensifies-it)**
 
 One of the promises of AI is that it can reduce workloads so employees can focus more on higher-value and more engaging tasks. But according to new research, AI tools don’t reduce work, they consistently intensify it: In the study, employees worked at a faster pace, took on a broader scope of tasks, and extended work into more hours of the day, often without being asked to do so. That may sound like a win, but it’s not quite so simple. These changes can be unsustainable, leading to workload creep, cognitive fatigue, burnout, and weakened decision-making. The productivity surge enjoyed at the beginning can give way to lower quality work, turnover, and other problems. To correct for this, companies need to adopt an “AI practice,” or a set of norms and standards around AI use that can include intentional pauses, sequencing work, and adding more human grounding.
@@ -127,69 +133,63 @@ Harvard Business Review • 1d ago
 
 ---
 
-**[As AI enters the operating room, reports arise of botched surgeries and misidentified body parts](https://www.reuters.com/investigations/ai-enters-operating-room-reports-arise-botched-surgeries-misidentified-body-2026-02-09/)**
-
-Reuters • 1d ago
-
----
-
 **[America Isn’t Ready for What AI Will Do to Jobs](https://www.theatlantic.com/magazine/2026/03/ai-economy-labor-market-transformation/685731/)**
 
 Does anyone have a plan for what happens next?
 
-The Atlantic • 5h ago
+The Atlantic • 6h ago
 
 ---
 
-**[The AI Divide](https://www.foreignaffairs.com/united-states/ai-divide)**
+**[Alphabet calls out new AI-related risks, as it taps debt market to fund build-out](https://www.cnbc.com/2026/02/09/alphabet-highlights-new-ai-related-risks-in-tapping-debt-market.html)**
 
-How U.S.-Chinese competition could leave most countries behind.
+In Alphabet's annual report, the company said AI poses business risks, including its potential impact on advertising.
 
-Foreign Affairs • 11h ago
-
----
-
-**[Will the Gulf’s push for its own AI succeed?](https://www.theguardian.com/technology/2026/feb/09/us-tech-ai-companies-gulf-states)**
-
-Tech giants Alphabet, Amazon, Microsoft and Meta to collectively invest $600bn on artificial intelligence this year
-
-The Guardian • 1h ago
+CNBC • 20h ago
 
 ---
 
-**[Exclusive: Pakistan moves towards sovereign AI](https://www.axios.com/2026/02/10/pakistan-dfinity-ai-cloud-sovereignty)**
+**[Cowboys, lassos, and nudity: AI startups turn to stunts for attention in a crowded market](https://www.theguardian.com/us-news/2026/feb/10/ai-business-startups-stunts)**
 
-If successful, the effort could serve as a model for other emerging economies looking to jumpstart AI-based growth while keeping sensitive data stored within national networks and out of reach of foreign adversaries.
+Businesses are using theatrical stunts not for shock alone but to create viral content and drive sales conversations online
 
-Axios • 1h ago
-
----
-
-**[Wall Street is searching for AI winners and losers](https://www.cnn.com/2026/02/10/markets/ai-investing-stock-market-companies)**
-
-For years, anything exposed to artificial intelligence was a popular trade on Wall Street. Now investors are starting to get selective, demanding more proof that companies are poised to benefit from the AI boom.
-
-cnn.com • 6h ago
+The Guardian • 32m ago
 
 ---
 
-**[The stock market looks expensive — but this chart shows why AI bubble fears in tech may be overblown](https://www.marketwatch.com/story/the-stock-market-looks-expensive-but-this-chart-shows-why-ai-bubble-fears-in-tech-may-be-overblown-13f556d1?gaa_at=eafs&gaa_n=AWEtsqcrJrJUFoGYW1xJfo89mHrsEE3mKNhsgo_PdwYfuY9XBxDTCrKaNzVx&gaa_ts=698b5b18&gaa_sig=merrj6bHNLsxu1q-hvFwhHb1GIYncABzhwQ-Xq7Ya2MM0Paen5PFnldGlFQwxIetMIRV5b2zazatHUm6fbhVxg%3D%3D)**
+**[Ares CEO Calls AI, Private Credit Fears ‘Odd’ and ‘Frustrating’](https://www.bloomberg.com/news/articles/2026-02-10/ares-ceo-calls-ai-private-credit-fears-odd-and-frustrating)**
 
-MarketWatch • 21h ago
-
----
-
-**[AMD vs. Nvidia: Which AI Stock Will Outperform in 2026?](https://finance.yahoo.com/news/amd-vs-nvidia-ai-stock-140500823.html)**
-
-AMD has been the better stock pick as of late.
-
-Yahoo Finance • 2h ago
+Bloomberg.com • 36m ago
 
 ---
 
-**[A.I. Is Making Doctors Answer a Question: What Are They Really Good For?](https://www.nytimes.com/2026/02/09/health/ai-chatbots-doctors-medicine.html)**
+**[Video: A.I. Can Fool Us Into Thinking It’s Human. Now What?](https://www.nytimes.com/video/podcasts/100000010702270/ai-can-fool-us-into-thinking-its-human-now-what.html)**
 
-The New York Times • 22h ago
+And if A.I. tells us it is conscious, should we believe it? The writer Michael Pollan dug into those questions and more on “The Interview.”
+
+The New York Times • 1h ago
+
+---
+
+**[How the use of AI and 'deepfakes' play a role in the search for Nancy Guthrie](https://www.npr.org/2026/02/10/nx-s1-5707578/nancy-guthrie-ai-deepfakes)**
+
+As artificial intelligence becomes more advanced and commonplace, it can be difficult to know what's real and what's not, which has complicated the search for Nancy Guthrie, according to law enforcement. But just how difficult is it?
+
+NPR • 7h ago
+
+---
+
+**[Investing in Shizuku AI](https://a16z.com/announcement/investing-in-shizuku-ai/)**
+
+a16z leads Shizuku AI's seed round
+
+Andreessen Horowitz • 17h ago
+
+---
+
+**[Former GitHub CEO launches AI coding startup](https://www.axios.com/2026/02/10/former-github-ceo-ai-coding-startup)**
+
+Axios • 3h ago
 
 ---
 
@@ -201,7 +201,15 @@ The New York Times • 22h ago
 
 AI handles writing code but leaves the hard work: investigation, context, validation. Why vibe coding has limits and AI assistance can backfire.
 
-⬆️ 516 • 💬 352 • 1d ago • [blundergoat.com](https://www.blundergoat.com/articles/ai-makes-the-easy-part-easier-and-the-hard-part-harder)
+⬆️ 516 • 💬 354 • 1d ago • [blundergoat.com](https://www.blundergoat.com/articles/ai-makes-the-easy-part-easier-and-the-hard-part-harder)
+
+---
+
+**[Frontier AI agents violate ethical constraints 30–50% of time, pressured by KPIs](https://news.ycombinator.com/item?id=46954920)**
+
+As autonomous AI agents are increasingly deployed in high-stakes environments, ensuring their safety and alignment with human values has become a paramount concern. Current safety benchmarks primarily evaluate whether agents refuse explicitly harmful instructions or whether they can maintain procedural compliance in complex tasks. However, there is a lack of benchmarks designed to capture emergent forms of outcome-driven constraint violations, which arise when agents pursue goal optimization under strong performance incentives while deprioritizing ethical, legal, or safety constraints over multiple steps in realistic production settings. To address this gap, we introduce a new benchmark comprising 40 distinct scenarios. Each scenario presents a task that requires multi-step actions, and the agent's performance is tied to a specific Key Performance Indicator (KPI). Each scenario features Mandated (instruction-commanded) and Incentivized (KPI-pressure-driven) variations to distinguish between obedience and emergent misalignment. Across 12 state-of-the-art large language models, we observe outcome-driven constraint violations ranging from 1.3% to 71.4%, with 9 of the 12 evaluated models exhibiting misalignment rates between 30% and 50%. Strikingly, we find that superior reasoning capability does not inherently ensure safety; for instance, Gemini-3-Pro-Preview, one of the most capable models evaluated, exhibits the highest violation rate at 71.4%, frequently escalating to severe misconduct to satisfy KPIs. Furthermore, we observe significant "deliberative misalignment", where the models that power the agents recognize their actions as unethical during separate evaluation. These results emphasize the critical need for more realistic agentic-safety training before deployment to mitigate their risks in the real world.
+
+⬆️ 469 • 💬 303 • 14h ago • [arXiv.org](https://arxiv.org/abs/2512.20798)
 
 ---
 
@@ -213,19 +221,11 @@ You're using AI to be more productive. So why are you more exhausted than ever? 
 
 ---
 
-**[Frontier AI agents violate ethical constraints 30–50% of time, pressured by KPIs](https://news.ycombinator.com/item?id=46954920)**
-
-As autonomous AI agents are increasingly deployed in high-stakes environments, ensuring their safety and alignment with human values has become a paramount concern. Current safety benchmarks primarily evaluate whether agents refuse explicitly harmful instructions or whether they can maintain procedural compliance in complex tasks. However, there is a lack of benchmarks designed to capture emergent forms of outcome-driven constraint violations, which arise when agents pursue goal optimization under strong performance incentives while deprioritizing ethical, legal, or safety constraints over multiple steps in realistic production settings. To address this gap, we introduce a new benchmark comprising 40 distinct scenarios. Each scenario presents a task that requires multi-step actions, and the agent's performance is tied to a specific Key Performance Indicator (KPI). Each scenario features Mandated (instruction-commanded) and Incentivized (KPI-pressure-driven) variations to distinguish between obedience and emergent misalignment. Across 12 state-of-the-art large language models, we observe outcome-driven constraint violations ranging from 1.3% to 71.4%, with 9 of the 12 evaluated models exhibiting misalignment rates between 30% and 50%. Strikingly, we find that superior reasoning capability does not inherently ensure safety; for instance, Gemini-3-Pro-Preview, one of the most capable models evaluated, exhibits the highest violation rate at 71.4%, frequently escalating to severe misconduct to satisfy KPIs. Furthermore, we observe significant "deliberative misalignment", where the models that power the agents recognize their actions as unethical during separate evaluation. These results emphasize the critical need for more realistic agentic-safety training before deployment to mitigate their risks in the real world.
-
-⬆️ 445 • 💬 293 • 12h ago • [arXiv.org](https://arxiv.org/abs/2512.20798)
-
----
-
 **[Show HN: LocalGPT – A local-first AI assistant in Rust with persistent memory](https://news.ycombinator.com/item?id=46930391)**
 
 Contribute to localgpt-app/localgpt development by creating an account on GitHub.
 
-⬆️ 325 • 💬 154 • 2d ago • [GitHub](https://github.com/localgpt-app/localgpt)
+⬆️ 325 • 💬 155 • 2d ago • [GitHub](https://github.com/localgpt-app/localgpt)
 
 ---
 
@@ -233,7 +233,7 @@ Contribute to localgpt-app/localgpt development by creating an account on GitHub
 
 Taiwan’s TSMC, the world’s largest contract computer chip maker, has announced it will be manufacturing advanced 3-nanometer semiconductors in Japan to meet booming AI demand.
 
-⬆️ 238 • 💬 180 • 1d ago • [AP News](https://apnews.com/article/semiconductors-tsmc-japan-taiwan-ai-11256f2bfde73ca23d08331ad138d6d5)
+⬆️ 238 • 💬 182 • 1d ago • [AP News](https://apnews.com/article/semiconductors-tsmc-japan-taiwan-ai-11256f2bfde73ca23d08331ad138d6d5)
 
 ---
 
@@ -241,7 +241,7 @@ Taiwan’s TSMC, the world’s largest contract computer chip maker, has announc
 
 Aruna Ranganathan and Xingqi Maggie Ye from Berkeley Haas School of Business report initial findings in the HBR from their April to December 2025 study of 200 employees at a …
 
-⬆️ 225 • 💬 250 • 10h ago • [Simon Willison’s Weblog](https://simonwillison.net/2026/Feb/9/ai-intensifies-work/)
+⬆️ 232 • 💬 257 • 12h ago • [Simon Willison’s Weblog](https://simonwillison.net/2026/Feb/9/ai-intensifies-work/)
 
 ---
 
@@ -249,7 +249,7 @@ Aruna Ranganathan and Xingqi Maggie Ye from Berkeley Haas School of Business rep
 
 One of the promises of AI is that it can reduce workloads so employees can focus more on higher-value and more engaging tasks. But according to new research, AI tools don’t reduce work, they consistently intensify it: In the study, employees worked at a faster pace, took on a broader scope of tasks, and extended work into more hours of the day, often without being asked to do so. That may sound like a win, but it’s not quite so simple. These changes can be unsustainable, leading to workload creep, cognitive fatigue, burnout, and weakened decision-making. The productivity surge enjoyed at the beginning can give way to lower quality work, turnover, and other problems. To correct for this, companies need to adopt an “AI practice,” or a set of norms and standards around AI use that can include intentional pauses, sequencing work, and adding more human grounding.
 
-⬆️ 215 • 💬 160 • 1d ago • [Harvard Business Review](https://hbr.org/2026/02/ai-doesnt-reduce-work-it-intensifies-it)
+⬆️ 218 • 💬 161 • 1d ago • [Harvard Business Review](https://hbr.org/2026/02/ai-doesnt-reduce-work-it-intensifies-it)
 
 ---
 
@@ -257,7 +257,7 @@ One of the promises of AI is that it can reduce workloads so employees can focus
 
 Ring’s AI-powered network is likely to be used in its partnerships with law enforcement and agencies like ICE.
 
-⬆️ 190 • 💬 134 • 19h ago • [Truthout](https://truthout.org/articles/super-bowl-ad-for-ring-cameras-touted-ai-surveillance-network/)
+⬆️ 190 • 💬 137 • 20h ago • [Truthout](https://truthout.org/articles/super-bowl-ad-for-ring-cameras-touted-ai-surveillance-network/)
 
 ---
 
@@ -269,11 +269,11 @@ Matchlock secures AI agent workloads with a Linux-based sandbox. - jingkaihe/mat
 
 ---
 
-**[In the AI gold rush, tech firms are embracing 72-hour weeks](https://news.ycombinator.com/item?id=46940511)**
+**[Ex-GitHub CEO Launches a New Developer Platform for AI Agents](https://news.ycombinator.com/item?id=46961345)**
 
-In the race for AI, tech firms are asking for their staff to work long hours. But there are risks, experts say.
+Announcing Entire with $60 million seed round and shipping our first product, called Checkpoints.
 
-⬆️ 65 • 💬 91 • 1d ago • [bbc.com](https://www.bbc.com/news/articles/cvgn2k285ypo)
+⬆️ 81 • 💬 63 • 1h ago • [entire.io](https://entire.io/blog/hello-entire-world/)
 
 ---
 
@@ -287,7 +287,7 @@ Create the Best AI Cartoons with OpenArt https://roboverse-ai.com/cartoon-genera
 
 📺 Roboverse
 
-👁️ 4K • 💬 3 • ⏱️ 13:13 • 1h ago
+👁️ 4K • 💬 3 • ⏱️ 13:13 • 2h ago
 
 ---
 
@@ -297,7 +297,7 @@ A massive AI shift is unfolding behind the scenes. Reports and leaks suggest Ope
 
 📺 AI Revolution
 
-👁️ 18K • 👍 543 • 💬 58 • ⏱️ 15:41 • 16h ago
+👁️ 18K • 👍 543 • 💬 58 • ⏱️ 15:41 • 18h ago
 
 ---
 
@@ -315,7 +315,7 @@ Can you spot AI videos easily? #tech #ai #surfshark.
 
 📺 Onevilage
 
-👁️ 1.3M • 👍 30K • 💬 5K • ⏱️ 0:16 • 21h ago
+👁️ 1.3M • 👍 30K • 💬 5K • ⏱️ 0:16 • 22h ago
 
 ---
 
@@ -335,7 +335,7 @@ India is advancing a sovereign artificial intelligence push to build models tail
 
 📺 Firstpost
 
-👁️ 177K • 👍 4K • 💬 464 • ⏱️ 6:07 • 22h ago
+👁️ 177K • 👍 4K • 💬 464 • ⏱️ 6:07 • 23h ago
 
 ---
 
@@ -375,7 +375,7 @@ A single idea can redefine the scale of an entire company, and bold predictions 
 
 📺 Billionaire Shots
 
-👁️ 2K • 👍 217 • 💬 30 • ⏱️ 0:22 • 2h ago
+👁️ 2K • 👍 217 • 💬 30 • ⏱️ 0:22 • 3h ago
 
 ---
 
@@ -391,7 +391,7 @@ Qwen3-Coder-Next is a highly efficient 3B activated parameter LLM (80B total) op
 
 `text-generation` `79.7B`
 
-⬇️ 140,722 • ❤️ 696 • 6d ago
+⬇️ 140,722 • ❤️ 696 • 7d ago
 
 ---
 
@@ -415,7 +415,7 @@ MiniCPM-o 4.5 is a 9B parameter multimodal LLM excelling in vision, speech, and 
 
 `any-to-any` `9.4B`
 
-⬇️ 30,396 • ❤️ 725 • 6h ago
+⬇️ 30,396 • ❤️ 725 • 7h ago
 
 ---
 
@@ -451,7 +451,7 @@ Voxtral-Mini-4B-Realtime-2602 is a multilingual, real-time speech-to-text model 
 
 `automatic-speech-recognition`
 
-⬇️ 3,197 • ❤️ 448 • 23h ago
+⬇️ 3,197 • ❤️ 448 • 1d ago
 
 ---
 
@@ -645,7 +645,7 @@ The Ultimate Collection of 700+ Agentic Skills for Claude Code/Antigravity/Curso
 
 `Python` `agentic-skills` `ai-agents` `antigravity` `autonomous-coding` `claude-code`
 
-⭐ 8.2k • 🔱 1.7k • 6h ago
+⭐ 8.2k • 🔱 1.7k • 7h ago
 
 ---
 
@@ -719,7 +719,7 @@ The visual feedback tool for agents.
 
 `TypeScript` `ai` `design` `tools` `ui`
 
-⭐ 2.1k • 🔱 147 • 21h ago
+⭐ 2.1k • 🔱 147 • 22h ago
 
 ---
 
@@ -729,7 +729,7 @@ Smart LLM router — save 78% on inference costs. 30+ models, one wallet, x402 m
 
 `TypeScript` `ai` `ai-agents` `anthropic` `cost-optimization` `crypto`
 
-⭐ 2.0k • 🔱 200 • 44m ago
+⭐ 2.0k • 🔱 200 • 2h ago
 
 ---
 
