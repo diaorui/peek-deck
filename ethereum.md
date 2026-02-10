@@ -3,14 +3,14 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-02-09T23:38:29.674888+00:00'
+updated: '2026-02-10T02:32:38.359355+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
 - videos
-- news
 - cryptocurrency
+- news
 - social
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** February 09, 2026 at 23:38 UTC  
+**Last Updated:** February 10, 2026 at 02:32 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -36,33 +36,33 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Price
 
-### $2,112.73
+### $2,116.36
 
 ---
 
 ## Ethereum Chart
 
-**24h:** +1.2%  
-**7d:** -5.5%  
-**30d:** -32.4%  
-**90d:** -38.2%  
-**1y:** -20.6%  
+**24h:** +0.5%  
+**7d:** -1.7%  
+**30d:** -31.9%  
+**90d:** -34.8%  
+**1y:** -18.9%  
 
 ---
 
 ## Ethereum Market Stats
 
-**Market Cap:** $254.31B
+**Market Cap:** $254.56B
 Rank #2
 
-**Circulating Supply:** 120,692,614 ETH
+**Circulating Supply:** 120,692,589 ETH
 No max supply
 
 **All-Time High:** $4,946.05
 -57.4%
 
 **All-Time Low:** $0.43
-+486831.2%
++487011.4%
 
 ---
 
@@ -72,7 +72,7 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-17h ago
+20h ago
 
 ---
 
@@ -80,7 +80,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 We’re launching a new service focused on smart contract reviews without the overhead of a full audit. Scope is limited and practical. Logic, exploitability, and protocol level risks. No certification and no audit opinion. To validate the approach, we’re offering a limited number of free focused smart contract security reviews for projects that are code complete and either close to launch or already deployed, in exchange for honest feedback. This is not meant to replace an audit. It’s a short, concrete review focused on protocol logic and exploit paths. Shoot a dm, if you're interested.
 
-6h ago
+9h ago
 
 ---
 
@@ -88,7 +88,7 @@ We’re launching a new service focused on smart contract reviews without the ov
 
 In January 2026, DeFi hacks resulted in roughly $86M in losses across multiple protocols. More concerning: 7 separate incidents exceeded $1M each. Most of the exploits were rooted in smart contract vulnerabilities. The pattern feels familiar at this point. Repeated issues, similar bug classes, and preventable failures. The question isn’t whether exploits will continue it’s whether teams are adapting fast enough. Are you building with security as a first principle, or still treating it as a final checklist before launch?
 
-6h ago
+9h ago
 
 ---
 
@@ -96,7 +96,7 @@ In January 2026, DeFi hacks resulted in roughly $86M in losses across multiple p
 
 This is a compact Ethereum Virtual Machine runtime written in strict C23. Made this for learning purposes. BTW, it has a toy Solidity-like compiler into bytecode and `nano-node` program that "deploys" contracts to local store and gives ability to call them.
 
-🔗 [GitHub](https://github.com/ThirdLetterC/nano-evm) • 10h ago
+🔗 [GitHub](https://github.com/ThirdLetterC/nano-evm) • 12h ago
 
 ---
 
@@ -104,7 +104,7 @@ This is a compact Ethereum Virtual Machine runtime written in strict C23. Made t
 
 I am looking for a stablecoin that, instead of being pegged to a fiat currency, is pegged to a consumer price index, preferably one for prices where I live (Wales, UK), so that it rises with inflation. I don't mind whether it is partly centralised​ or not so long as it is actually censorship-resistent (so, unlike USDT). Should be safe i.e.​ vulnerable to being depegged so not algorithmic. Does this exist? Bonus points if it doesn't use plutocratic token-weighted governance.
 
-9h ago
+12h ago
 
 ---
 
@@ -112,7 +112,7 @@ I am looking for a stablecoin that, instead of being pegged to a fiat currency, 
 
 World News, Stories By EtherWorld, Technical Explainers, Client News & Updates, Podcasts, Upcoming Events & Jobs
 
-🔗 [EtherWorld.co](https://etherworld.co/etherworld-weekly-edition-350/) • 17h ago
+🔗 [EtherWorld.co](https://etherworld.co/etherworld-weekly-edition-350/) • 20h ago
 
 ---
 
@@ -120,7 +120,7 @@ World News, Stories By EtherWorld, Technical Explainers, Client News & Updates, 
 
 A bug fix turned into a personal comeback story of coding, parenting, and a small contribution to the open-source world.
 
-🔗 [EtherWorld.co](https://etherworld.co/the-bug-of-solving-bugs/) • 10h ago
+🔗 [EtherWorld.co](https://etherworld.co/the-bug-of-solving-bugs/) • 13h ago
 
 ---
 
@@ -128,7 +128,7 @@ A bug fix turned into a personal comeback story of coding, parenting, and a smal
 
 eth-mempool-monitor subscribes to Ethereum pending transactions over WebSocket, filters them against a monitored address set stored in Redis/Valkey, and publishes matching transactions to RabbitMQ. The project builds three binaries: eth_mempool_monitor: WebSocket subscriber + Redis filter + RabbitMQ publisher. rpc_control: newline-delimited JSON-RPC TCP server used to manage monitored addresses in Redis (token-authenticated). rabbitmq_tx_console: RabbitMQ consumer that prints monitored-transaction events in human-readable form.
 
-🔗 [GitHub](https://github.com/ThirdLetterC/eth-mempool-monitor) • 22h ago
+🔗 [GitHub](https://github.com/ThirdLetterC/eth-mempool-monitor) • 1d ago
 
 ---
 
@@ -156,7 +156,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 Publicly traded Ethereum treasury firm BitMine Immersion Technology added to its ETH holdings last week, even as its paper losses grew.
 
-Decrypt • 5h ago
+Decrypt • 8h ago
 
 ---
 
@@ -176,11 +176,19 @@ Yahoo Finance • 1d ago
 
 ---
 
+**[MegaETH debuts mainnet as Ethereum scaling debate heats up](https://www.coindesk.com/tech/2026/02/09/megaeth-debuts-mainnet-as-ethereum-scaling-debate-heats-up)**
+
+The project, which had previously pitched itself as a layer-2 “real-time blockchain,” targeting more than 100,000 transactions per second, would make onchain interactions feel closer to traditional web apps than today’s crypto networks.
+
+CoinDesk • 10h ago
+
+---
+
 **[Ethereum Price Set To Break Out Against Bitcoin, But How High Can It Go?](https://www.tradingview.com/news/newsbtc:e0d161f50094b:0-ethereum-price-set-to-break-out-against-bitcoin-but-how-high-can-it-go/)**
 
 The cryptocurrency industry went under intense pressure last week, with Bitcoin and Ethereum leading the crash and multiple cryptocurrencies hitting new multi-month lows. The crash was more pronounced with Bitcoin, though, and the imbalance in selling pressure is quietly shifting the relationship b…
 
-TradingView • 9h ago
+TradingView • 12h ago
 
 ---
 
@@ -200,19 +208,11 @@ The Block • 3d ago
 
 ---
 
-**[MegaETH debuts mainnet as Ethereum scaling debate heats up](https://www.coindesk.com/tech/2026/02/09/megaeth-debuts-mainnet-as-ethereum-scaling-debate-heats-up)**
-
-The project, which had previously pitched itself as a layer-2 “real-time blockchain,” targeting more than 100,000 transactions per second, would make onchain interactions feel closer to traditional web apps than today’s crypto networks.
-
-CoinDesk • 7h ago
-
----
-
 **[Ethereum Falls to $2,000 But New Price Prediction Targets $7,500 by End-2026](https://www.financemagnates.com/trending/ethereum-falls-to-2000-but-new-price-prediction-targets-7500-by-end-2026/)**
 
 Ethereum price predictions from Standard Chartered and Citi target $5,400-$7,500 for 2026, but technical analysis shows bearish targets at $1,760-$1,000.
 
-financemagnates.com • 11h ago
+financemagnates.com • 14h ago
 
 ---
 
@@ -220,7 +220,7 @@ financemagnates.com • 11h ago
 
 Bitmine has 2,873,459 staked ETH, representing $6.2 billion at $2,125 per ETH; MAVAN staking solution on track to launch Q1 2026 Bitmine now owns 3.58% of the...
 
-PR Newswire • 10h ago
+PR Newswire • 13h ago
 
 ---
 
@@ -236,23 +236,23 @@ AMBCrypto • 1d ago
 
 ## YouTube Videos: "ethereum"
 
+**[If You Hold Bitcoin &amp; Ethereum... GET READY! (watch before they delete this) ☝️](https://www.youtube.com/watch?v=RPv313nfVs0)**
+
+If You Hold Crypto... GET READY! (watch before they delete this) ☝️ Become a channel member & get access to perks: ...
+
+📺 Altcoin Daily
+
+👁️ 8K • 👍 960 • 💬 50 • ⏱️ 11:47 • 2h ago
+
+---
+
 **[Welcome Back Home, Ethereum!](https://www.youtube.com/watch?v=ZZNFVcbzUE4)**
 
 Welcome back home Ethereum! This time I think ETH will kick its feet back and stay a while. Later this year it will likely go to the ...
 
 📺 Benjamin Cowen
 
-👁️ 89K • 👍 5K • 💬 336 • ⏱️ 14:29 • 17h ago
-
----
-
-**[Ethereum Elliott Wave Update – Key Resistance Levels Ahead](https://www.youtube.com/watch?v=RBZ5PvyMpew)**
-
-This video provides a professional Elliott Wave and technical analysis of Ethereum (ETH), focusing on market structure, major ...
-
-📺 More Crypto Online
-
-👁️ 3K • 👍 186 • 💬 4 • ⏱️ 4:46 • 9h ago
+👁️ 94K • 👍 6K • 💬 348 • ⏱️ 14:29 • 20h ago
 
 ---
 
@@ -262,17 +262,37 @@ BITCOIN & CRYPTO: It's Actually Happening (New Targets)!!! - Bitcoin News Today,
 
 📺 Crypto World
 
-👁️ 602 • 👍 57 • 💬 6 • ⏱️ 17:38 • 22m ago
+👁️ 3K • 👍 214 • 💬 96 • ⏱️ 17:38 • 3h ago
 
 ---
 
-**[ETH Ethereum Price Prediction: 9th of February](https://www.youtube.com/watch?v=DnmnNc9z-iw)**
+**[Ethereum Elliott Wave Update – Key Resistance Levels Ahead](https://www.youtube.com/watch?v=NpH4uebFFik)**
 
-Welcome to Czar Gets Crypto! Please note the following: Educational Purposes Only: All content on this channel is for ...
+This video provides a professional Elliott Wave and technical analysis of Ethereum (ETH), focusing on market structure, major ...
 
-📺 C-Zar Gets Crypto 
+📺 More Crypto Online
 
-👁️ 152 • 👍 16 • 💬 6 • ⏱️ 6:20 • 6h ago
+👁️ 384 • 👍 59 • 💬 3 • ⏱️ 6:04 • 1h ago
+
+---
+
+**[Ethereum Elliott Wave Update – Key Resistance Levels Ahead](https://www.youtube.com/watch?v=RBZ5PvyMpew)**
+
+This video provides a professional Elliott Wave and technical analysis of Ethereum (ETH), focusing on market structure, major ...
+
+📺 More Crypto Online
+
+👁️ 3K • 👍 192 • 💬 4 • ⏱️ 4:46 • 12h ago
+
+---
+
+**[MegaETH Mainnet is Live! — The Next Era of Ethereum Scaling](https://www.youtube.com/watch?v=KFzaJ7_-XQ0)**
+
+SPOTIFY PREMIUM RSS FEED | USE CODE: SPOTIFY24 https://bankless.cc/spotify-premium ------ MegaETH mainnet is live, ...
+
+📺 Bankless
+
+👁️ 2K • 👍 92 • 💬 29 • ⏱️ 1:22:18 • 15h ago
 
 ---
 
@@ -282,17 +302,17 @@ FREE TRAINING: https://www.bullmania.com EXCHANGES I USE (bybit, pionex): https:
 
 📺 Ivan on Tech
 
-👁️ 22K • 👍 1K • 💬 57 • ⏱️ 49:46 • 13h ago
+👁️ 22K • 👍 1K • 💬 63 • ⏱️ 49:46 • 16h ago
 
 ---
 
-**[&quot;EVERY Crypto Holder Is Missing the BIG PICTURE...&quot; - Cathie Wood](https://www.youtube.com/watch?v=1M1QHE7eyZY)**
+**[ETH Ethereum Price Prediction: 9th of February](https://www.youtube.com/watch?v=DnmnNc9z-iw)**
 
-Explore FortisX and access a bonus of up to 10% on one deposit using the link below: https://fortisx.fi/kol/savvyfinanceofficial ...
+Welcome to Czar Gets Crypto! Please note the following: Educational Purposes Only: All content on this channel is for ...
 
-📺 Savvy Finance
+📺 C-Zar Gets Crypto 
 
-👁️ 5K • 👍 224 • 💬 3 • ⏱️ 22:10 • 23h ago
+👁️ 202 • 👍 18 • 💬 6 • ⏱️ 6:20 • 9h ago
 
 ---
 
@@ -302,37 +322,17 @@ Ethereum is boring right now. The price is chopping. Sentiment is terrible. Ever
 
 📺 Wall Street Stockcast
 
-👁️ 42 • 👍 2 • 💬 41 • ⏱️ 10:02 • 4h ago
+👁️ 57 • 👍 3 • 💬 25 • ⏱️ 10:02 • 7h ago
 
 ---
 
-**[Ethereum for Beginners! What’s New in 2026](https://www.youtube.com/watch?v=_JT27HyzTUM)**
+**[&quot;EVERY Crypto Holder Is Missing the BIG PICTURE...&quot; - Cathie Wood](https://www.youtube.com/watch?v=1M1QHE7eyZY)**
 
-Ethereum has evolved beyond its early days. This 2026 update revisits how it works, what's different, and what's in store ahead.
+Explore FortisX and access a bonus of up to 10% on one deposit using the link below: https://fortisx.fi/kol/savvyfinanceofficial ...
 
-📺 CoinGecko
+📺 Savvy Finance
 
-👁️ 971 • 👍 106 • 💬 39 • ⏱️ 4:15 • 13h ago
-
----
-
-**[[LEAKED] ⚠️TOM LEE &quot;THE BOTTOM IS IN FOR BMNR AND ETHEREUM!!&quot; [WATCH NOW] IF YOU OWN BMNR STOCK!⚠️](https://www.youtube.com/watch?v=VHdHoJm_G6E)**
-
-Tom Lee discusses recent crypto news and volatility affecting BM&R. This video breaks down his statements and provides ...
-
-📺 Short The Vix
-
-👁️ 282 • 👍 31 • 💬 1 • ⏱️ 16:02 • 2h ago
-
----
-
-**[WHAT TO EXPECT THIS WEEK!🚨 (Ethereum Price Prediction 2026)](https://www.youtube.com/watch?v=TTYJ8xOtbO8)**
-
-ETHEREUM ETH PRICE PREDICTION 2026 Join the Premium Signal Group for trade setups, mentorship & a community ...
-
-📺 Cilinix Crypto
-
-👁️ 440 • 👍 16 • 💬 1 • ⏱️ 5:19 • 13h ago
+👁️ 5K • 👍 229 • 💬 3 • ⏱️ 22:10 • 1d ago
 
 ---
 
