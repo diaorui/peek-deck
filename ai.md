@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-02-10T02:32:38.345048+00:00'
+updated: '2026-02-10T05:05:13.001366+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- repositories
-- videos
-- news
 - social
+- repositories
+- news
+- videos
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** February 10, 2026 at 02:32 UTC  
+**Last Updated:** February 10, 2026 at 05:05 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -39,7 +39,7 @@ AI news, discussions, and developments
 
 **[The $70M domain that couldn’t survive a Super Bowl ad](https://www.reddit.com/r/artificial/comments/1r0eudy/the_70m_domain_that_couldnt_survive_a_super_bowl/)**
 
-🔗 [extended.reading.sh](https://extended.reading.sh/ai-dot-com-crashes-on-superbowl) • 6h ago
+🔗 [extended.reading.sh](https://extended.reading.sh/ai-dot-com-crashes-on-superbowl) • 9h ago
 
 ---
 
@@ -47,21 +47,7 @@ AI news, discussions, and developments
 
 A clinical trial shows that AI-assisted mammography can detect more cases of dangerous cancer and reduce missed diagnoses.
 
-🔗 [Live Science](https://www.livescience.com/health/cancer/a-second-set-of-eyes-ai-supported-breast-cancer-screening-spots-more-cancers-earlier-landmark-trial-finds) • 4h ago
-
----
-
-**[Silicon Valley’s dream of workers who don’t think](https://www.reddit.com/r/artificial/comments/1r0isq8/silicon_valleys_dream_of_workers_who_dont_think/)**
-
-🔗 [jamescosullivan.substack.com](https://jamescosullivan.substack.com/p/silicon-valleys-dream-of-workers-who-dont-think) • 4h ago
-
----
-
-**[Opinion | AI consciousness is nothing more than clever marketing](https://www.reddit.com/r/artificial/comments/1qzucuo/opinion_ai_consciousness_is_nothing_more_than/)**
-
-Companies have an incentive to make you believe that chatbots are conscious. Don’t fall for it.
-
-🔗 [The Washington Post](https://www.washingtonpost.com/opinions/2026/02/05/moltbook-anthropic-ai-consciousness-marketing/) • 22h ago
+🔗 [Live Science](https://www.livescience.com/health/cancer/a-second-set-of-eyes-ai-supported-breast-cancer-screening-spots-more-cancers-earlier-landmark-trial-finds) • 7h ago
 
 ---
 
@@ -69,7 +55,29 @@ Companies have an incentive to make you believe that chatbots are conscious. Don
 
 Current AI systems are dangerously overconfident. They'll classify anything you give them, even if they've never seen anything like it before. I've been working on STLE (Set Theoretic Learning Environment) to address this by explicitly modeling what AI doesn't know. How It Works: STLE represents knowledge and ignorance as complementary fuzzy sets: - μ_x (accessibility): How familiar is this data? - μ_y (inaccessibility): How unfamiliar is this? - Constraint: μ_x + μ_y = 1 (always) This lets the AI explicitly say "I'm only 40% sure about this" and defer to humans. Real-World Applications: - Medical Diagnosis: "I'm 40% confident this is cancer" → defer to specialist - Autonomous Vehicles: Don't act on unfamiliar scenarios (low μ_x) - Education: Identify what students are partially understanding (frontier detection) - Finance: Flag unusual transactions for human review Results: - Out-of-distribution detection: 67% accuracy without any OOD training - Mathematically guaranteed complementarity - Extremely fast (< 1ms inference) Open Source: https://github.com/strangehospital/Frontier-Dynamics-Project The code includes: - Two implementations (simple NumPy, advanced PyTorch) - Complete documentation - Visualizations - 5 validation experiments This is proof-of-concept level, but I wanted to share it with the community. Feedback and collaboration welcome! What applications do you think this could help with? The Sky Project | strangehospital | Substack
 
-🔗 [GitHub](https://github.com/strangehospital/Frontier-Dynamics-Project) • 2h ago
+🔗 [GitHub](https://github.com/strangehospital/Frontier-Dynamics-Project) • 5h ago
+
+---
+
+**[ChatGPT Rolls Out Ads to Free Users](https://www.reddit.com/r/artificial/comments/1r0qm8x/chatgpt_rolls_out_ads_to_free_users/)**
+
+OpenAI has begun rolling out ads inside ChatGPT for free users, signaling a shift toward sustainable AI monetization as the platform continues to grow globally.
+
+🔗 [techputs](https://techputs.com/chatgpt-ads-free-users-openai-revenue-model/) • 1h ago
+
+---
+
+**[Silicon Valley’s dream of workers who don’t think](https://www.reddit.com/r/artificial/comments/1r0isq8/silicon_valleys_dream_of_workers_who_dont_think/)**
+
+🔗 [jamescosullivan.substack.com](https://jamescosullivan.substack.com/p/silicon-valleys-dream-of-workers-who-dont-think) • 6h ago
+
+---
+
+**[Opinion | AI consciousness is nothing more than clever marketing](https://www.reddit.com/r/artificial/comments/1qzucuo/opinion_ai_consciousness_is_nothing_more_than/)**
+
+Companies have an incentive to make you believe that chatbots are conscious. Don’t fall for it.
+
+🔗 [The Washington Post](https://www.washingtonpost.com/opinions/2026/02/05/moltbook-anthropic-ai-consciousness-marketing/) • 1d ago
 
 ---
 
@@ -77,7 +85,7 @@ Current AI systems are dangerously overconfident. They'll classify anything you 
 
 I'm super excited about OpenClaw's capabilities but honestly terrified after reading about all these security issues. Found posts about 17,903 exposed instances, API keys stored in plain text, deleted creds saved in .bak files, and that CVE-2026-25253 Slack exploit. Someone even found a reverse shell backdoor in the 'better-polymarket' skill. How are you all securing your OpenClaw deployments? Need solutions for runtime guardrails and policy enforcement. Can't ship agent features if they're this vulnerable.
 
-9h ago
+12h ago
 
 ---
 
@@ -85,7 +93,7 @@ I'm super excited about OpenClaw's capabilities but honestly terrified after rea
 
 One of the promises of AI is that it can reduce workloads so employees can focus more on higher-value and more engaging tasks. But according to new research, AI tools don’t reduce work, they consistently intensify it: In the study, employees worked at a faster pace, took on a broader scope of tasks, and extended work into more hours of the day, often without being asked to do so. That may sound like a win, but it’s not quite so simple. These changes can be unsustainable, leading to workload creep, cognitive fatigue, burnout, and weakened decision-making. The productivity surge enjoyed at the beginning can give way to lower quality work, turnover, and other problems. To correct for this, companies need to adopt an “AI practice,” or a set of norms and standards around AI use that can include intentional pauses, sequencing work, and adding more human grounding.
 
-🔗 [Harvard Business Review](https://hbr.org/2026/02/ai-doesnt-reduce-work-it-intensifies-it) • 4h ago
+🔗 [Harvard Business Review](https://hbr.org/2026/02/ai-doesnt-reduce-work-it-intensifies-it) • 6h ago
 
 ---
 
@@ -93,7 +101,7 @@ One of the promises of AI is that it can reduce workloads so employees can focus
 
 Hello, I am learning 3D modeling (CAD and also mesh-based). And of course, I am worried, that it is useless, because the extreme growth of AI. What are your thoughts on this? Will be games AI-generated? What else could be generated? What about tech designs?
 
-15h ago
+17h ago
 
 ---
 
@@ -101,15 +109,7 @@ Hello, I am learning 3D modeling (CAD and also mesh-based). And of course, I am 
 
 I'm not looking for help. And I hope this post is not taken down the same way as my WhatsApp account. This is a discussion about customer service and how AI is out of control. Meta AI was actually rude with me and refused to even let me know about how to contact a human to solve my issues. In the possibility that my account was spamming, the automated system just shut it down without even giving me an option to appeal for a case. So in short, I can not message 50 apartments asking about their price to look for a new home because Meta AI will think I'm spamming and will shut down my account. And when I try to appeal for a case it will say there nothing to be done, and when I try to look for a way to speak to a human it'll say there's no need and AI is all I need to solve my problems... Really... What the Hell, Meta?
 
-10h ago
-
----
-
-**[I built a geolocation tool that can find exact coordinates of any image within 3 minutes [Tough demo 2]](https://www.reddit.com/r/artificial/comments/1qz5rz7/i_built_a_geolocation_tool_that_can_find_exact/)**
-
-Just wanted to say thanks for the thoughtful discussion and feedback on my previous post. I did not expect that level of interest, and I appreciate how constructive most of the comments were. Based on a few requests, I put together a short demonstration showing the system applied to a deliberately difficult street-level image. No obvious landmarks, no readable signage, no metadata. The location was verified in under two minutes. I am still undecided on the long-term direction of this work. That said, if there are people here interested in collaborating from a research, defensive, or ethical perspective, I am open to conversations. That could mean validation, red-teaming anything else. Thanks again to the community for the earlier discussion. Happy to answer high-level questions and hear thoughts on where tools like this should and should not go.
-
-1d ago
+12h ago
 
 ---
 
@@ -121,7 +121,7 @@ Just wanted to say thanks for the thoughtful discussion and feedback on my previ
 
 In Alphabet's annual report, the company said AI poses business risks, including its potential impact on advertising.
 
-CNBC • 5h ago
+CNBC • 7h ago
 
 ---
 
@@ -129,37 +129,35 @@ CNBC • 5h ago
 
 One of the promises of AI is that it can reduce workloads so employees can focus more on higher-value and more engaging tasks. But according to new research, AI tools don’t reduce work, they consistently intensify it: In the study, employees worked at a faster pace, took on a broader scope of tasks, and extended work into more hours of the day, often without being asked to do so. That may sound like a win, but it’s not quite so simple. These changes can be unsustainable, leading to workload creep, cognitive fatigue, burnout, and weakened decision-making. The productivity surge enjoyed at the beginning can give way to lower quality work, turnover, and other problems. To correct for this, companies need to adopt an “AI practice,” or a set of norms and standards around AI use that can include intentional pauses, sequencing work, and adding more human grounding.
 
-Harvard Business Review • 13h ago
+Harvard Business Review • 15h ago
 
 ---
 
-**[Researchers Studied Work Habits in a Heavily AI-Pilled Workplace. They Sound Hellish](https://gizmodo.com/researchers-studied-work-habits-in-a-heavily-ai-pilled-workplace-they-sound-hellish-2000719424)**
+**[JPMorgan Bullish Calls Spur Surge in a Pair of China AI Stocks](https://www.bloomberg.com/news/articles/2026-02-10/china-s-latest-ai-stars-minimax-zhipu-jump-on-jpmorgan-buy-call)**
 
-A case study found that workers worked at a "faster pace," on a "broader scope of tasks," and that they just worked generally more.
-
-Gizmodo • 34m ago
+bloomberg.com • 1h ago
 
 ---
 
-**[AI in a box: Windrose wants to containerize the data center](https://electrek.co/2026/02/09/ai-in-a-box-windrose-wants-to-containerize-the-data-center/)**
+**[Super Bowl ads want you to stop worrying and learn to love AI](https://www.cnn.com/2026/02/09/tech/ai-ads-super-bowl)**
 
-Windrose is making big, fast moves in the electric semi truck space — but CEO Wen Han has an idea for a mobile AI data center.
+If there was an overriding message throughout the Super Bowl ads last night, it’s that artificial intelligence is your friend.
 
-Electrek • 47m ago
+cnn.com • 12h ago
 
 ---
 
-**[Elon Musk’s xAI lands in Bellevue, joining OpenAI in growing Eastside AI corridor](https://www.geekwire.com/2026/elon-musks-xai-lands-in-bellevue-joining-openai-in-growing-eastside-ai-corridor/)**
+**[3 Questions: Using AI to help Olympic skaters land a quint](https://news.mit.edu/2026/3-questions-using-ai-help-olympic-skaters-land-quint-0210)**
 
-Elon Musk's xAI is setting up shop in downtown Bellevue, with job listings showing the office will go beyond infrastructure to serve as a hub for core AI model development.
+MIT Sports Lab researchers discuss applying AI to sports such as figure skating, whether AI systems could ever be used to judge Olympic events, and when we might see a skater land a quint.
 
-GeekWire • 51m ago
+MIT News • 5m ago
 
 ---
 
 **[Health Advice From A.I. Chatbots Is Frequently Wrong, Study Shows](https://www.nytimes.com/2026/02/09/well/chatgpt-health-advice.html)**
 
-The New York Times • 4h ago
+The New York Times • 7h ago
 
 ---
 
@@ -167,13 +165,13 @@ The New York Times • 4h ago
 
 It found people using AI for health reasons found it hard to identify what advice they should trust.
 
-BBC • 9h ago
+BBC • 12h ago
 
 ---
 
 **[As AI enters the operating room, reports arise of botched surgeries and misidentified body parts](https://www.reuters.com/investigations/ai-enters-operating-room-reports-arise-botched-surgeries-misidentified-body-2026-02-09/)**
 
-Reuters • 15h ago
+Reuters • 17h ago
 
 ---
 
@@ -181,13 +179,13 @@ Reuters • 15h ago
 
 Radiology has come up multiple times as an example of a field that’s been impacted by AI without replacing the need for human workers.
 
-cnn.com • 14h ago
+cnn.com • 17h ago
 
 ---
 
-**[Meet the One Woman Anthropic Trusts to Teach AI Morals](https://www.wsj.com/tech/ai/anthropic-amanda-askell-philosopher-ai-3c031883?gaa_at=eafs&gaa_n=AWEtsqc0BznNq373vVNpobIUaZEB7-3MimxotwRIEcUblmMdPWUyN7g4-8VD&gaa_ts=698a9c28&gaa_sig=OWQr9dOCIxsH3u8vwmY1FWadS8PHzq1YVj-L0Z0CInCpN7Hhy_s0wxPC7PsCMGH6Z4yk2n8IGP12UJR1zb9pEw%3D%3D)**
+**[Meet the One Woman Anthropic Trusts to Teach AI Morals](https://www.wsj.com/tech/ai/anthropic-amanda-askell-philosopher-ai-3c031883?gaa_at=eafs&gaa_n=AWEtsqe-0Y4O5W59ujX9Z0LI3FIGVyB46K3hUHlsWn-41MhEVaxf00m7A6gD&gaa_ts=698abff1&gaa_sig=0NxySvVc-b6r4AgSYDF1Nzzcb1M3HD82AmSO-ZZPBuZ5UOez4YQDJlOjsI_Ir_fi1Hir0zzp3i-_fTIIp8I1dw%3D%3D)**
 
-The Wall Street Journal • 4h ago
+The Wall Street Journal • 6h ago
 
 ---
 
@@ -199,7 +197,7 @@ The Wall Street Journal • 4h ago
 
 AI handles writing code but leaves the hard work: investigation, context, validation. Why vibe coding has limits and AI assistance can backfire.
 
-⬆️ 502 • 💬 341 • 1d ago • [blundergoat.com](https://www.blundergoat.com/articles/ai-makes-the-easy-part-easier-and-the-hard-part-harder)
+⬆️ 504 • 💬 346 • 1d ago • [blundergoat.com](https://www.blundergoat.com/articles/ai-makes-the-easy-part-easier-and-the-hard-part-harder)
 
 ---
 
@@ -207,7 +205,7 @@ AI handles writing code but leaves the hard work: investigation, context, valida
 
 You're using AI to be more productive. So why are you more exhausted than ever? The paradox every engineer needs to confront.
 
-⬆️ 447 • 💬 310 • 1d ago • [Siddhant Khare](https://siddhantkhare.com/writing/ai-fatigue-is-real)
+⬆️ 449 • 💬 310 • 1d ago • [Siddhant Khare](https://siddhantkhare.com/writing/ai-fatigue-is-real)
 
 ---
 
@@ -215,7 +213,7 @@ You're using AI to be more productive. So why are you more exhausted than ever? 
 
 The hundreds of billions of dollars being spent by tech companies on AI projects are diverting resources from other parts of the economy.
 
-⬆️ 400 • 💬 710 • 2d ago • [The Washington Post](https://www.washingtonpost.com/technology/2026/02/07/ai-spending-economy-shortages/)
+⬆️ 401 • 💬 710 • 2d ago • [The Washington Post](https://www.washingtonpost.com/technology/2026/02/07/ai-spending-economy-shortages/)
 
 ---
 
@@ -223,7 +221,7 @@ The hundreds of billions of dollars being spent by tech companies on AI projects
 
 Contribute to localgpt-app/localgpt development by creating an account on GitHub.
 
-⬆️ 324 • 💬 152 • 2d ago • [GitHub](https://github.com/localgpt-app/localgpt)
+⬆️ 324 • 💬 153 • 2d ago • [GitHub](https://github.com/localgpt-app/localgpt)
 
 ---
 
@@ -231,7 +229,7 @@ Contribute to localgpt-app/localgpt development by creating an account on GitHub
 
 Taiwan’s TSMC, the world’s largest contract computer chip maker, has announced it will be manufacturing advanced 3-nanometer semiconductors in Japan to meet booming AI demand.
 
-⬆️ 236 • 💬 168 • 21h ago • [AP News](https://apnews.com/article/semiconductors-tsmc-japan-taiwan-ai-11256f2bfde73ca23d08331ad138d6d5)
+⬆️ 236 • 💬 169 • 1d ago • [AP News](https://apnews.com/article/semiconductors-tsmc-japan-taiwan-ai-11256f2bfde73ca23d08331ad138d6d5)
 
 ---
 
@@ -239,7 +237,7 @@ Taiwan’s TSMC, the world’s largest contract computer chip maker, has announc
 
 One of the promises of AI is that it can reduce workloads so employees can focus more on higher-value and more engaging tasks. But according to new research, AI tools don’t reduce work, they consistently intensify it: In the study, employees worked at a faster pace, took on a broader scope of tasks, and extended work into more hours of the day, often without being asked to do so. That may sound like a win, but it’s not quite so simple. These changes can be unsustainable, leading to workload creep, cognitive fatigue, burnout, and weakened decision-making. The productivity surge enjoyed at the beginning can give way to lower quality work, turnover, and other problems. To correct for this, companies need to adopt an “AI practice,” or a set of norms and standards around AI use that can include intentional pauses, sequencing work, and adding more human grounding.
 
-⬆️ 198 • 💬 155 • 11h ago • [Harvard Business Review](https://hbr.org/2026/02/ai-doesnt-reduce-work-it-intensifies-it)
+⬆️ 199 • 💬 155 • 14h ago • [Harvard Business Review](https://hbr.org/2026/02/ai-doesnt-reduce-work-it-intensifies-it)
 
 ---
 
@@ -247,7 +245,7 @@ One of the promises of AI is that it can reduce workloads so employees can focus
 
 Ring’s AI-powered network is likely to be used in its partnerships with law enforcement and agencies like ICE.
 
-⬆️ 166 • 💬 101 • 5h ago • [Truthout](https://truthout.org/articles/super-bowl-ad-for-ring-cameras-touted-ai-surveillance-network/)
+⬆️ 170 • 💬 114 • 8h ago • [Truthout](https://truthout.org/articles/super-bowl-ad-for-ring-cameras-touted-ai-surveillance-network/)
 
 ---
 
@@ -259,17 +257,19 @@ Matchlock secures AI agent workloads with a Linux-based sandbox. - jingkaihe/mat
 
 ---
 
+**[Frontier AI agents violate ethical constraints 30–50% of time, pressured by KPIs](https://news.ycombinator.com/item?id=46954920)**
+
+As autonomous AI agents are increasingly deployed in high-stakes environments, ensuring their safety and alignment with human values has become a paramount concern. Current safety benchmarks primarily evaluate whether agents refuse explicitly harmful instructions or whether they can maintain procedural compliance in complex tasks. However, there is a lack of benchmarks designed to capture emergent forms of outcome-driven constraint violations, which arise when agents pursue goal optimization under strong performance incentives while deprioritizing ethical, legal, or safety constraints over multiple steps in realistic production settings. To address this gap, we introduce a new benchmark comprising 40 distinct scenarios. Each scenario presents a task that requires multi-step actions, and the agent's performance is tied to a specific Key Performance Indicator (KPI). Each scenario features Mandated (instruction-commanded) and Incentivized (KPI-pressure-driven) variations to distinguish between obedience and emergent misalignment. Across 12 state-of-the-art large language models, we observe outcome-driven constraint violations ranging from 1.3% to 71.4%, with 9 of the 12 evaluated models exhibiting misalignment rates between 30% and 50%. Strikingly, we find that superior reasoning capability does not inherently ensure safety; for instance, Gemini-3-Pro-Preview, one of the most capable models evaluated, exhibits the highest violation rate at 71.4%, frequently escalating to severe misconduct to satisfy KPIs. Furthermore, we observe significant "deliberative misalignment", where the models that power the agents recognize their actions as unethical during separate evaluation. These results emphasize the critical need for more realistic agentic-safety training before deployment to mitigate their risks in the real world.
+
+⬆️ 78 • 💬 32 • 1h ago • [arXiv.org](https://arxiv.org/abs/2512.20798)
+
+---
+
 **[In the AI gold rush, tech firms are embracing 72-hour weeks](https://news.ycombinator.com/item?id=46940511)**
 
 In the race for AI, tech firms are asking for their staff to work long hours. But there are risks, experts say.
 
 ⬆️ 64 • 💬 89 • 1d ago • [bbc.com](https://www.bbc.com/news/articles/cvgn2k285ypo)
-
----
-
-**[As AI enters the operating room, reports arise of botched surgeries](https://news.ycombinator.com/item?id=46944753)**
-
-⬆️ 58 • 💬 17 • 13h ago • [reuters.com](https://www.reuters.com/investigations/ai-enters-operating-room-reports-arise-botched-surgeries-misidentified-body-2026-02-09/)
 
 ---
 
@@ -283,7 +283,7 @@ A massive AI shift is unfolding behind the scenes. Reports and leaks suggest Ope
 
 📺 AI Revolution
 
-👁️ 3K • 👍 200 • 💬 19 • ⏱️ 15:41 • 3h ago
+👁️ 7K • 👍 323 • 💬 39 • ⏱️ 15:41 • 5h ago
 
 ---
 
@@ -297,23 +297,23 @@ Become a member! ✓ https://www.youtube.com/channel/UCahJ9IsvXnaQiuNyWQSkrkw/jo
 
 ---
 
+**[AI Hardware Bottlenecks: Can Scaling Continue?](https://www.youtube.com/watch?v=uu1ldkCwQGg)**
+
+Everyone keeps saying AI's biggest problem is data money or regulation. That's wrong. The real challenge holding AI back isn't ...
+
+📺 Tiff In Tech
+
+👁️ 39K • 👍 2K • 💬 333 • ⏱️ 8:23 • 2d ago
+
+---
+
 **[OpenAI Just Betrayed Nvidia: The AI War Begins NOW](https://www.youtube.com/watch?v=SG71c_W25-s)**
 
 GET MY FREE GUIDE: *The Content Creator's AI Blueprint: From 25 Hours to 5 Minutes* https://FirstMovers.ai/blueprint/ ...
 
 📺 Julia McCoy
 
-👁️ 46K • 👍 2K • 💬 205 • ⏱️ 8:05 • 1d ago
-
----
-
-**[AI videos are getting scary](https://www.youtube.com/watch?v=i-jz8SvTLus)**
-
-Can you spot AI videos easily? #tech #ai #surfshark.
-
-📺 Surfshark Academy
-
-👁️ 29K • 👍 4K • 💬 102 • ⏱️ 1:17 • 1d ago
+👁️ 47K • 👍 2K • 💬 205 • ⏱️ 8:05 • 1d ago
 
 ---
 
@@ -323,17 +323,17 @@ This week on Prof G Markets, Scott Galloway and Ed Elson unpack last week's soft
 
 📺 The Prof G Pod – Scott Galloway
 
-👁️ 116K • 👍 3K • 💬 552 • ⏱️ 1:12:36 • 14h ago
+👁️ 126K • 👍 3K • 💬 580 • ⏱️ 1:12:36 • 17h ago
 
 ---
 
-**[Shocking Leak Reveals AI Model 100x Leaner And 10x Stronger (Avocado AI)](https://www.youtube.com/watch?v=Z4Q_7zM8dcM)**
+**[Seedance 2.0 Claims the AI Video Throne!](https://www.youtube.com/watch?v=_o2MuUX9UYg)**
 
-A major AI shakeup is unfolding behind the scenes. A leaked internal memo suggests Meta's new model, Avocado, is already ...
+ByteDance just changed the game. One week after Kling 3.0 set the benchmark, SeedDance 2.0 is here to take the throne.
 
-📺 AI Revolution
+📺 Theoretically Media
 
-👁️ 26K • 👍 788 • 💬 67 • ⏱️ 12:49 • 1d ago
+👁️ 24K • 👍 2K • 💬 251 • ⏱️ 17:08 • 8h ago
 
 ---
 
@@ -343,27 +343,27 @@ India's IT sector just got hit with its biggest shock in 4 months. The Nifty IT 
 
 📺 Mark Savant
 
-👁️ 39K • 👍 1K • 💬 479 • ⏱️ 18:25 • 2d ago
+👁️ 39K • 👍 1K • 💬 482 • ⏱️ 18:25 • 2d ago
 
 ---
 
-**[Iran Releases AI Video of Attack on US Armada, Khamenei Says Enemy Must Be Driven to Despair | WION](https://www.youtube.com/watch?v=dFvoFfgC2kY)**
+**[Shocking Leak Reveals AI Model 100x Leaner And 10x Stronger (Avocado AI)](https://www.youtube.com/watch?v=Z4Q_7zM8dcM)**
 
-Iran Releases AI Video of Attack on US Armada, Khamenei Says Enemy Must Be Driven to Despair | WION Fineprint #iran ...
+A major AI shakeup is unfolding behind the scenes. A leaked internal memo suggests Meta's new model, Avocado, is already ...
 
-📺 WION
+📺 AI Revolution
 
-👁️ 65K • 👍 577 • 💬 330 • ⏱️ 3:33 • 10h ago
+👁️ 27K • 👍 802 • 💬 67 • ⏱️ 12:49 • 1d ago
 
 ---
 
-**[India&#39;s Sovereign AI Push: Sarvam Takes on Gemini and ChatGPT | Vantage with Palki Sharma](https://www.youtube.com/watch?v=Bdn6UAs6b70)**
+**[People Killed By AI](https://www.youtube.com/watch?v=jS4HeqAatmI)**
 
-India is advancing a sovereign artificial intelligence push to build models tailored to its linguistic and administrative needs.
+Follow me here: Instagram ▻ https://www.instagram.com/sambucha X ▻ https://www.x.com/sambucha Become a Member: ...
 
-📺 Firstpost
+📺 Sambucha
 
-👁️ 47K • 👍 1K • 💬 214 • ⏱️ 6:07 • 8h ago
+👁️ 1.3M • 👍 71K • 💬 2K • ⏱️ 0:54 • 2d ago
 
 ---
 
@@ -373,7 +373,7 @@ Navellier and Associates chairman, founder and CIO Louis Navellier discusses how
 
 📺 Fox Business
 
-👁️ 16K • 👍 195 • 💬 120 • ⏱️ 5:09 • 1d ago
+👁️ 17K • 👍 197 • 💬 120 • ⏱️ 5:09 • 2d ago
 
 ---
 
@@ -389,7 +389,7 @@ GLM-OCR is a 0.9B parameter multimodal OCR model for complex document understand
 
 `image-to-text`
 
-⬇️ 297,833 • ❤️ 895 • 20h ago
+⬇️ 297,833 • ❤️ 897 • 23h ago
 
 ---
 
@@ -401,7 +401,7 @@ Qwen3-Coder-Next is a highly efficient 3B activated parameter LLM (80B total) op
 
 `text-generation` `79.7B`
 
-⬇️ 112,896 • ❤️ 668 • 6d ago
+⬇️ 112,896 • ❤️ 674 • 6d ago
 
 ---
 
@@ -413,7 +413,7 @@ MiniCPM-o 4.5 is a 9B parameter multimodal LLM excelling in vision, speech, and 
 
 `any-to-any` `9.4B`
 
-⬇️ 28,068 • ❤️ 638 • 17h ago
+⬇️ 28,068 • ❤️ 650 • 20h ago
 
 ---
 
@@ -425,7 +425,7 @@ ACE-Step 1.5 is an open-source text-to-audio model for commercial-grade music ge
 
 `text-to-audio`
 
-⬇️ 26,376 • ❤️ 480 • 6d ago
+⬇️ 26,376 • ❤️ 485 • 6d ago
 
 ---
 
@@ -437,7 +437,7 @@ Kimi K2.5 is a native multimodal agentic model with 1T parameters, excelling in 
 
 `image-text-to-text` `170.7B`
 
-⬇️ 456,396 • ❤️ 1,938 • 4d ago
+⬇️ 456,396 • ❤️ 1,940 • 5d ago
 
 ---
 
@@ -449,7 +449,7 @@ Voxtral-Mini-4B-Realtime-2602 is a multilingual, real-time speech-to-text model 
 
 `automatic-speech-recognition`
 
-⬇️ 2,753 • ❤️ 427 • 10h ago
+⬇️ 2,753 • ❤️ 430 • 12h ago
 
 ---
 
@@ -461,7 +461,7 @@ Step 3.5 Flash is an efficient open-source foundation model (11B active params, 
 
 `text-generation` `199.4B`
 
-⬇️ 228,406 • ❤️ 539 • 2d ago
+⬇️ 228,406 • ❤️ 540 • 2d ago
 
 ---
 
@@ -483,7 +483,7 @@ Qwen3-Coder-Next is an 80B parameter LLM optimized for coding agents, featuring 
 
 `text-generation` `79.7B`
 
-⬇️ 202,772 • ❤️ 244 • 4d ago
+⬇️ 202,772 • ❤️ 247 • 4d ago
 
 ---
 
@@ -495,7 +495,7 @@ Intern-S1-Pro is a trillion-scale MoE multimodal scientific reasoning model exce
 
 `image-text-to-text`
 
-⬇️ 8,455 • ❤️ 220 • 19h ago
+⬇️ 8,455 • ❤️ 225 • 22h ago
 
 ---
 
@@ -511,7 +511,7 @@ Intern-S1-Pro is a trillion-scale MoE multimodal scientific reasoning model exce
 
 _paperbanana is an agentic framework that automates the creation of publication-ready academic illustrations using advanced vision-language models and image generation techniques.
 
-▲ 162 • 💬 12 • ⭐ 3,034 • 10d ago
+▲ 163 • 💬 12 • ⭐ 3,034 • 10d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2601.23265) • [💻 code](https://github.com/dwzhu-pku/PaperBanana) • [🔗 project](https://dwzhu-pku.github.io/PaperBanana/)
 
@@ -643,7 +643,7 @@ The Ultimate Collection of 700+ Agentic Skills for Claude Code/Antigravity/Curso
 
 `Python` `agentic-skills` `ai-agents` `antigravity` `autonomous-coding` `claude-code`
 
-⭐ 8.1k • 🔱 1.7k • 19h ago
+⭐ 8.1k • 🔱 1.7k • 22h ago
 
 ---
 
@@ -653,7 +653,7 @@ Marketing skills for Claude Code and AI agents. CRO, copywriting, SEO, analytics
 
 `claude` `codex` `marketing`
 
-⭐ 7.0k • 🔱 800 • 6d ago
+⭐ 7.1k • 🔱 802 • 6d ago
 
 ---
 
@@ -661,7 +661,7 @@ Marketing skills for Claude Code and AI agents. CRO, copywriting, SEO, analytics
 
 Elevate your AI research writing, no more tedious polishing ✨ 
 
-⭐ 5.1k • 🔱 398 • 5d ago
+⭐ 5.1k • 🔱 400 • 5d ago
 
 ---
 
@@ -669,7 +669,7 @@ Elevate your AI research writing, no more tedious polishing ✨
 
 Claude Code skill that removes signs of AI-generated writing from text
 
-⭐ 4.5k • 🔱 371 • 17d ago
+⭐ 4.5k • 🔱 371 • 18d ago
 
 ---
 
@@ -679,7 +679,7 @@ PaperBanana: Automating Academic Illustration For AI Scientists
 
 `JavaScript`
 
-⭐ 3.1k • 🔱 148 • 7d ago
+⭐ 3.1k • 🔱 149 • 7d ago
 
 ---
 
@@ -689,7 +689,7 @@ OpenSource Claude Cowork. A desktop AI assistant that helps you with programming
 
 `TypeScript`
 
-⭐ 2.8k • 🔱 381 • 1d ago
+⭐ 2.8k • 🔱 381 • 2d ago
 
 ---
 
@@ -697,7 +697,7 @@ OpenSource Claude Cowork. A desktop AI assistant that helps you with programming
 
 Humanizer 的汉化版本，Claude Code Skills，旨在消除文本中 AI 生成的痕迹。
 
-⭐ 2.8k • 🔱 266 • 21d ago
+⭐ 2.8k • 🔱 267 • 21d ago
 
 ---
 
@@ -707,7 +707,7 @@ The visual feedback tool for agents.
 
 `TypeScript` `ai` `design` `tools` `ui`
 
-⭐ 2.1k • 🔱 147 • 7h ago
+⭐ 2.1k • 🔱 147 • 10h ago
 
 ---
 
@@ -717,7 +717,7 @@ All-in-one AI framework & toolkit for Claude Code & Cursor
 
 `Python` `ai-agent` `ai-coding` `claude-code` `cli` `cursor`
 
-⭐ 2.0k • 🔱 103 • 19h ago
+⭐ 2.0k • 🔱 104 • 22h ago
 
 ---
 
@@ -727,7 +727,7 @@ Smart LLM router — save 78% on inference costs. 30+ models, one wallet, x402 m
 
 `TypeScript` `ai` `ai-agents` `anthropic` `cost-optimization` `crypto`
 
-⭐ 1.9k • 🔱 188 • 14m ago
+⭐ 2.0k • 🔱 190 • 2h ago
 
 ---
 
