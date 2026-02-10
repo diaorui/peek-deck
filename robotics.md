@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-02-10T21:10:52.397556+00:00'
+updated: '2026-02-10T22:06:43.271468+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- videos
 - social
 - news
+- videos
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** February 10, 2026 at 21:10 UTC  
+**Last Updated:** February 10, 2026 at 22:06 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -36,7 +36,7 @@ Robotics research and industry news
 
 Hello everyone, since K-Scale Labs (https://kscale.ai) shut down and they still kept everything open-source on their GitHub page, I was wondering if anyone has actually tried to build their humanoid robot on their own. Do you guys think it would be worth it or not and why?
 
-2h ago
+3h ago
 
 ---
 
@@ -50,7 +50,7 @@ Hello everyone, since K-Scale Labs (https://kscale.ai) shut down and they still 
 
 A Shanghai startup, DroidUp, has unveiled Moya, a biomimetic AI robot designed to cross the uncanny valley. Unlike plastic and metal droids, Moya features silicone skin that is heated to human body temperature and mimics subtle facial expressions like eyebrow raises. Standing 5'5" and weighing 70 lbs, Moya is built on a modular platform that allows for swapping between male and female presentations. With a price tag of ~$173k, DroidUp aims to deploy these warm companions in healthcare and business by late 2026.
 
-🔗 [TechRadar](https://www.techradar.com/computing/the-worlds-first-biomimetic-ai-robot-just-strolled-in-from-the-uncanny-valley-and-yes-its-super-creepy) • 8h ago
+🔗 [TechRadar](https://www.techradar.com/computing/the-worlds-first-biomimetic-ai-robot-just-strolled-in-from-the-uncanny-valley-and-yes-its-super-creepy) • 9h ago
 
 ---
 
@@ -58,13 +58,13 @@ A Shanghai startup, DroidUp, has unveiled Moya, a biomimetic AI robot designed t
 
 Hello! Our makerspace for kids 11-18 is hosting a three week summer camp this summer. Most of the kids will likely be 11-13 who come. The kids we know will come have indicated they would like to build and program sumo bots. The kids will have wide varieties of experience. Some will have no coding experience at all, so I am thinking rather than autonomous sumo bots they should make remote controlled ones. Which I realize now makes them not robots so maybe y'all can't help. We have here several Creality HI 3d printers and a large Omtech laser, as well as basic woodshop and electronics things like soldering irons and breadboards and all kinds of electronical bits and bobs. I am thinking if we have a premade chassis that the kids can add on to, they still get to design stuff and print it or cut it out but the basics are already there, then they can do the electronics and whatever coding needs to go between the rc stuff and the electronics and maybe they can conceivably do all that in 15 days/three weeks? I think trying to make it autonomous will be too challenging for all, but we can always suggest/challenge the kids who are good coders already to do so. Have any of y'all done something like this? Does it seem feasible? Thanks!
 
-40m ago
+1h ago
 
 ---
 
 **[Design process advice for robotic arm](https://www.reddit.com/r/robotics/comments/1r1c3ce/design_process_advice_for_robotic_arm/)**
 
-44m ago
+1h ago
 
 ---
 
@@ -72,13 +72,13 @@ Hello! Our makerspace for kids 11-18 is hosting a three week summer camp this su
 
 Board I designed a custom board called ESP PowerDeck, based on the ESP32-S3. It’s meant for experimenting with robotics and IoT where you need real power handling, not just a breadboard setup. Would love feedback from the community — especially on features that might make it more useful for robotics work. (edit moved photo up so it could be seen ;p)
 
-2h ago
+3h ago
 
 ---
 
 **[Yet another Onshape robot exporter, but this one (hopefully) saves your API credits.](https://www.reddit.com/r/robotics/comments/1r18zed/yet_another_onshape_robot_exporter_but_this_one/)**
 
-2h ago
+3h ago
 
 ---
 
@@ -86,7 +86,7 @@ Board I designed a custom board called ESP PowerDeck, based on the ESP32-S3. It�
 
 Hello guys A quick question am looking for OEM 2D lidar Sensor I want to flash them and deploy my own software into it. Where can I get such lidar sensor? Let me know if you know any vendors or any websites where can I buy.
 
-3h ago
+4h ago
 
 ---
 
@@ -102,7 +102,7 @@ Over the past year our team built LingBot-VLA, a Vision-Language-Action foundati
 
 Hi guys! Im 17 and Have NO prior experience to ths. As you can see in the caption, i wanna build a robot. Its Supposed to be a Mining robot, one they could perhaps use instead of Human workers in very Dangerous Enviroments (Deadly Gasses in the Mine or Radioactive material or similar stuff.) Im Currently still drawing the blueprint. Its more jst a suggestion currently but anyways. (I will attach a picture of the current status, most of it will probably Change, also sorry if the handwriting is bad). So. My rough ideas: it will use something like tank tracks to move around (in drawing too). Because its easier to maintain than legs, cheaper and less complicated. Im still somewhat stuck on the arms, where they meet the upper hull i will probably use an electric servo motor so its more detailed, the arms themselves will probably use hydraulics because they are POWAH (as far as i know). Which in this case is very much needed. At the peak of the arm (where normally hands are) i wanna make a motor slot, so you can easily take out motors and/or change them according to tbe tool (Drill or Hammer for example). Im thinking of maybe screwing it in or using a few screws to hold it in, for easy maintenance. I have not yet though about how its gonna see around (head) or what its upper body would look like yet. As for energy supply?..probably changeable batteries (big ones) so you dont have to charge it, and can more or less let it continously work. Would you guys have any idea what could be changed on the CURRENT design?
 
-20h ago
+21h ago
 
 ---
 
@@ -122,13 +122,13 @@ BetaKit • 1d ago
 
 Nvidia and Google are among a handful of major tech giants developing models for robotics and so-called "phyiscal AI."
 
-CNBC • 10h ago
+CNBC • 11h ago
 
 ---
 
 **[Alibaba Pushes Into Robotics AI With Open-Source ‘RynnBrain’](https://www.bloomberg.com/news/articles/2026-02-10/alibaba-pushes-into-robotics-ai-with-open-source-rynnbrain)**
 
-Bloomberg.com • 14h ago
+Bloomberg.com • 15h ago
 
 ---
 
@@ -136,7 +136,7 @@ Bloomberg.com • 14h ago
 
 Alibaba ($BABA) is broadening its AI strategy with a new robotics-focused project. The Chinese e-commerce giant introduced a new AI system called “RynnBrain,” desig...
 
-TipRanks • 10h ago
+TipRanks • 11h ago
 
 ---
 
@@ -160,7 +160,7 @@ IFR International Federation of Robotics • 15h ago
 
 Robotics funding rebounded in 2025.
 
-Axios • 8h ago
+Axios • 9h ago
 
 ---
 
@@ -176,7 +176,7 @@ Yahoo Finance • 2d ago
 
 Fauna Robotics is launching Sprout as a developer platform for humanoid robots. The robot features 29 degrees of freedom and NVIDIA compute power.
 
-Fox News • 3h ago
+Fox News • 4h ago
 
 ---
 
@@ -254,7 +254,7 @@ Boston Dynamics and the RAI Institute release a video demonstrating the All-Elec
 
 📺 CNET
 
-👁️ 12K • 👍 284 • 💬 56 • ⏱️ 1:25 • 20h ago
+👁️ 12K • 👍 284 • 💬 56 • ⏱️ 1:25 • 21h ago
 
 ---
 
@@ -264,7 +264,7 @@ A Hungarian startup is generating buzz with its automated manufacturing system f
 
 📺 Kalil 4.0
 
-👁️ 423 • 👍 14 • ⏱️ 0:45 • 27m ago
+👁️ 423 • 👍 14 • ⏱️ 0:45 • 1h ago
 
 ---
 

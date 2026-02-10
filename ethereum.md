@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-02-10T21:10:52.394339+00:00'
+updated: '2026-02-10T22:06:43.268278+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- videos
-- social
 - news
+- social
 - cryptocurrency
+- videos
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** February 10, 2026 at 21:10 UTC  
+**Last Updated:** February 10, 2026 at 22:06 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -72,7 +72,7 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-15h ago
+16h ago
 
 ---
 
@@ -156,7 +156,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 Buterin pitched Ethereum as an economic/coordination layer for decentralized, privacy-preserving AI systems rather than a race toward AGI.
 
-The Block • 10h ago
+The Block • 11h ago
 
 ---
 
@@ -164,7 +164,7 @@ The Block • 10h ago
 
 In a new post on X revisiting ideas he first outlined two years ago, Buterin argues that the push toward artificial general intelligence often resembles the kind of unchecked speed and scale that Ethereum itself was created to challenge.
 
-CoinDesk • 5h ago
+CoinDesk • 6h ago
 
 ---
 
@@ -172,7 +172,7 @@ CoinDesk • 5h ago
 
 The Ethereum co-founder has outlined a four-quadrant Ethereum-AI buildout spanning private AI use, agent markets, and governance.
 
-Decrypt • 14h ago
+Decrypt • 15h ago
 
 ---
 
@@ -204,7 +204,7 @@ CCN.com • 1d ago
 
 JPMorganChase, Citi and Custodia are among the banks that have built digital asset projects on the Ethereum blockchain.
 
-American Banker • 1h ago
+American Banker • 2h ago
 
 ---
 
@@ -218,7 +218,7 @@ CoinDesk • 1d ago
 
 **[Ethereum leads way as large cryptocurrencies drop](https://www.marketwatch.com/data-news/ethereum-leads-way-as-large-cryptocurrencies-drop-f5e80176-a90dea2a77fc?gaa_at=eafs&gaa_n=AWEtsqc8bt_CQ15Nww6vYxKsqman1TjIBBcEFBPhTGgQl-kwdyyTv9Q61-mn&gaa_ts=698ba247&gaa_sig=4gE1ruBxO6j20qXkGq5g2wJXMEwyKmiUcTc1zUJn_W-VzDgFvdH5HBDSgOZO7yit1QOzXBA3N6oUUxV0ASi_ww%3D%3D)**
 
-MarketWatch • 6h ago
+MarketWatch • 7h ago
 
 ---
 
@@ -240,7 +240,7 @@ CNBC"s MacKenzie Sigalos joins 'Squawk Box' to discuss the recent bitcoin volati
 
 📺 CNBC Television
 
-👁️ 28K • 👍 439 • 💬 318 • ⏱️ 6:36 • 5h ago
+👁️ 28K • 👍 439 • 💬 318 • ⏱️ 6:36 • 6h ago
 
 ---
 
@@ -250,7 +250,7 @@ If You Hold Crypto... GET READY! (watch before they delete this) ☝️ Become a
 
 📺 Altcoin Daily
 
-👁️ 57K • 👍 3K • 💬 234 • ⏱️ 11:47 • 20h ago
+👁️ 57K • 👍 3K • 💬 234 • ⏱️ 11:47 • 21h ago
 
 ---
 
@@ -260,7 +260,7 @@ My FREE Daily 5-Min Crypto Newsletter: https://www.cryptonutshell.com/subscribe 
 
 📺 Crypto Nutshell
 
-👁️ 5K • 👍 325 • 💬 42 • ⏱️ 19:39 • 5h ago
+👁️ 5K • 👍 325 • 💬 42 • ⏱️ 19:39 • 6h ago
 
 ---
 
@@ -280,7 +280,7 @@ This video provides a professional Elliott Wave and technical analysis of Ethere
 
 📺 More Crypto Online
 
-👁️ 3K • 👍 201 • 💬 7 • ⏱️ 4:14 • 8h ago
+👁️ 3K • 👍 201 • 💬 7 • ⏱️ 4:14 • 9h ago
 
 ---
 
@@ -290,7 +290,7 @@ BITCOIN HOLDERS: Time to Get Serious (Warning)!!! - Bitcoin News Today, Ethereum
 
 📺 Crypto World
 
-👁️ 1K • 👍 113 • 💬 14 • ⏱️ 17:52 • 1h ago
+👁️ 1K • 👍 113 • 💬 14 • ⏱️ 17:52 • 2h ago
 
 ---
 
@@ -310,7 +310,7 @@ ETHEREUM ETH PRICE PREDICTION 2026 Join the Premium Signal Group for trade setup
 
 📺 Cilinix Crypto
 
-👁️ 299 • 👍 17 • 💬 3 • ⏱️ 5:24 • 11h ago
+👁️ 299 • 👍 17 • 💬 3 • ⏱️ 5:24 • 12h ago
 
 ---
 
@@ -320,7 +320,7 @@ MACRO MARKET ANALYSIS VIDEOS EVERYDAY SINCE 2018 I don't sell anything. I don't 
 
 📺 The Cryptoviser
 
-👁️ 585 • 👍 79 • 💬 5 • ⏱️ 34:07 • 7h ago
+👁️ 585 • 👍 79 • 💬 5 • ⏱️ 34:07 • 8h ago
 
 ---
 
@@ -330,7 +330,7 @@ This video provides a professional Elliott Wave and technical analysis of Ethere
 
 📺 More Crypto Online
 
-👁️ 3K • 👍 192 • 💬 6 • ⏱️ 6:04 • 19h ago
+👁️ 3K • 👍 192 • 💬 6 • ⏱️ 6:04 • 20h ago
 
 ---
 

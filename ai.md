@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-02-10T21:10:52.379940+00:00'
+updated: '2026-02-10T22:06:43.253857+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- videos
-- social
 - repositories
+- social
 - news
+- videos
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** February 10, 2026 at 21:10 UTC  
+**Last Updated:** February 10, 2026 at 22:06 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -41,7 +41,7 @@ AI news, discussions, and developments
 
 There are plenty of WebGPU demos out there, but I wanted to ship something people could actually use day-to-day. It runs Llama 3.2, DeepSeek-R1, Qwen3, Mistral, Gemma, Phi, SmolLM2—all locally in Chrome. Three inference backends: WebLLM (MLC/WebGPU) Transformers.js (ONNX) Chrome's built-in Prompt API (Gemini Nano—zero download) No Ollama, no servers, no subscriptions. Models cache in IndexedDB. Works offline. Conversations stored locally—export or delete anytime. Free: https://noaibills.app/?utm_source=reddit&utm_medium=social&utm_campaign=launch_artificial I'm not claiming it replaces GPT-4. But for the 80% of tasks—drafts, summaries, quick coding questions—a 3B parameter model running locally is plenty. Not positioned as a cloud LLM replacement—it's for local inference on basic text tasks (writing, communication, drafts) with zero internet dependency, no API costs, and complete privacy. Core fit: organizations with data restrictions that block cloud AI and can't install desktop tools like Ollama/LMStudio. For quick drafts, grammar checks, and basic reasoning without budget or setup barriers. Need real-time knowledge or complex reasoning? Use cloud models. This serves a different niche—**not every problem needs a sledgehammer** 😄. Would love feedback from this community 🙌.
 
-12h ago
+13h ago
 
 ---
 
@@ -49,7 +49,7 @@ There are plenty of WebGPU demos out there, but I wanted to ship something peopl
 
 A clinical trial shows that AI-assisted mammography can detect more cases of dangerous cancer and reduce missed diagnoses.
 
-🔗 [Live Science](https://www.livescience.com/health/cancer/a-second-set-of-eyes-ai-supported-breast-cancer-screening-spots-more-cancers-earlier-landmark-trial-finds) • 23h ago
+🔗 [Live Science](https://www.livescience.com/health/cancer/a-second-set-of-eyes-ai-supported-breast-cancer-screening-spots-more-cancers-earlier-landmark-trial-finds) • 1d ago
 
 ---
 
@@ -65,7 +65,7 @@ A clinical trial shows that AI-assisted mammography can detect more cases of dan
 
 Current AI systems are dangerously overconfident. They'll classify anything you give them, even if they've never seen anything like it before. I've been working on STLE (Set Theoretic Learning Environment) to address this by explicitly modeling what AI doesn't know. How It Works: STLE represents knowledge and ignorance as complementary fuzzy sets: - μ_x (accessibility): How familiar is this data? - μ_y (inaccessibility): How unfamiliar is this? - Constraint: μ_x + μ_y = 1 (always) This lets the AI explicitly say "I'm only 40% sure about this" and defer to humans. Real-World Applications: - Medical Diagnosis: "I'm 40% confident this is cancer" → defer to specialist - Autonomous Vehicles: Don't act on unfamiliar scenarios (low μ_x) - Education: Identify what students are partially understanding (frontier detection) - Finance: Flag unusual transactions for human review Results: - Out-of-distribution detection: 67% accuracy without any OOD training - Mathematically guaranteed complementarity - Extremely fast (< 1ms inference) Open Source: https://github.com/strangehospital/Frontier-Dynamics-Project The code includes: - Two implementations (simple NumPy, advanced PyTorch) - Complete documentation - Visualizations - 5 validation experiments This is proof-of-concept level, but I wanted to share it with the community. Feedback and collaboration welcome! What applications do you think this could help with? The Sky Project | strangehospital | Substack
 
-🔗 [GitHub](https://github.com/strangehospital/Frontier-Dynamics-Project) • 21h ago
+🔗 [GitHub](https://github.com/strangehospital/Frontier-Dynamics-Project) • 22h ago
 
 ---
 
@@ -131,7 +131,7 @@ Harvard Business Review • 1d ago
 
 Does anyone have a plan for what happens next?
 
-The Atlantic • 10h ago
+The Atlantic • 11h ago
 
 ---
 
@@ -145,7 +145,7 @@ Reuters • 1d ago
 
 "So you want the world to respect your art but don't give a shit about the art of music that helps you do it?"
 
-Gizmodo • 25m ago
+Gizmodo • 1h ago
 
 ---
 
@@ -153,7 +153,7 @@ Gizmodo • 25m ago
 
 The company's newest AI model triggered its own "high" risk classification—but critics say OpenAI didn't follow through on the safety measures it promised.
 
-Fortune • 1h ago
+Fortune • 2h ago
 
 ---
 
@@ -161,7 +161,7 @@ Fortune • 1h ago
 
 The innovation puts the wealth-management industry in the crosshairs of AI competition, the way it did for software stocks and private credit firms last week and insurance brokerage shares on Monday.  Charles Schwab Corp., Raymond James Financial Inc., LPL Financial Holdings Inc. and Stifel Financial Corp. are all on their way to their worst days since April after falling between 7% and 8%.
 
-Yahoo Finance • 46m ago
+Yahoo Finance • 1h ago
 
 ---
 
@@ -175,7 +175,7 @@ The New York Times • 1d ago
 
 As artificial intelligence becomes more advanced and commonplace, it can be difficult to know what's real and what's not, which has complicated the search for Nancy Guthrie, according to law enforcement. But just how difficult is it?
 
-NPR • 11h ago
+NPR • 12h ago
 
 ---
 
@@ -191,7 +191,7 @@ Andreessen Horowitz • 21h ago
 
 The company’s agentic search layer is set to become the cornerstone of Nebius’s bid to build a full AI platform.
 
-CTech • 7h ago
+CTech • 8h ago
 
 ---
 
@@ -211,7 +211,7 @@ AI handles writing code but leaves the hard work: investigation, context, valida
 
 As autonomous AI agents are increasingly deployed in high-stakes environments, ensuring their safety and alignment with human values has become a paramount concern. Current safety benchmarks primarily evaluate whether agents refuse explicitly harmful instructions or whether they can maintain procedural compliance in complex tasks. However, there is a lack of benchmarks designed to capture emergent forms of outcome-driven constraint violations, which arise when agents pursue goal optimization under strong performance incentives while deprioritizing ethical, legal, or safety constraints over multiple steps in realistic production settings. To address this gap, we introduce a new benchmark comprising 40 distinct scenarios. Each scenario presents a task that requires multi-step actions, and the agent's performance is tied to a specific Key Performance Indicator (KPI). Each scenario features Mandated (instruction-commanded) and Incentivized (KPI-pressure-driven) variations to distinguish between obedience and emergent misalignment. Across 12 state-of-the-art large language models, we observe outcome-driven constraint violations ranging from 1.3% to 71.4%, with 9 of the 12 evaluated models exhibiting misalignment rates between 30% and 50%. Strikingly, we find that superior reasoning capability does not inherently ensure safety; for instance, Gemini-3-Pro-Preview, one of the most capable models evaluated, exhibits the highest violation rate at 71.4%, frequently escalating to severe misconduct to satisfy KPIs. Furthermore, we observe significant "deliberative misalignment", where the models that power the agents recognize their actions as unethical during separate evaluation. These results emphasize the critical need for more realistic agentic-safety training before deployment to mitigate their risks in the real world.
 
-⬆️ 512 • 💬 329 • 17h ago • [arXiv.org](https://arxiv.org/abs/2512.20798)
+⬆️ 512 • 💬 329 • 18h ago • [arXiv.org](https://arxiv.org/abs/2512.20798)
 
 ---
 
@@ -235,7 +235,7 @@ Contribute to localgpt-app/localgpt development by creating an account on GitHub
 
 Aruna Ranganathan and Xingqi Maggie Ye from Berkeley Haas School of Business report initial findings in the HBR from their April to December 2025 study of 200 employees at a …
 
-⬆️ 238 • 💬 277 • 15h ago • [Simon Willison’s Weblog](https://simonwillison.net/2026/Feb/9/ai-intensifies-work/)
+⬆️ 238 • 💬 277 • 16h ago • [Simon Willison’s Weblog](https://simonwillison.net/2026/Feb/9/ai-intensifies-work/)
 
 ---
 
@@ -267,7 +267,7 @@ Ring’s AI-powered network is likely to be used in its partnerships with law en
 
 Announcing Entire with $60 million seed round and shipping our first product, called Checkpoints.
 
-⬆️ 156 • 💬 123 • 5h ago • [entire.io](https://entire.io/blog/hello-entire-world/)
+⬆️ 156 • 💬 123 • 6h ago • [entire.io](https://entire.io/blog/hello-entire-world/)
 
 ---
 
@@ -289,7 +289,7 @@ A massive AI shift is unfolding behind the scenes. Reports and leaks suggest Ope
 
 📺 AI Revolution
 
-👁️ 21K • 👍 619 • 💬 64 • ⏱️ 15:41 • 21h ago
+👁️ 21K • 👍 619 • 💬 64 • ⏱️ 15:41 • 22h ago
 
 ---
 
@@ -299,7 +299,7 @@ OpenAI's new device, spearheaded by designer Jony Ive, was just leaked! The ad f
 
 📺 Matthew Berman
 
-👁️ 28K • 👍 828 • 💬 229 • ⏱️ 7:31 • 20h ago
+👁️ 28K • 👍 828 • 💬 229 • ⏱️ 7:31 • 21h ago
 
 ---
 
@@ -309,7 +309,7 @@ Create AI Apps in minutes with OnSpace AI, No Code & No API Key Needed – https
 
 📺 Caleb Writes Code
 
-👁️ 7K • 👍 557 • 💬 54 • ⏱️ 7:32 • 4h ago
+👁️ 7K • 👍 557 • 💬 54 • ⏱️ 7:32 • 5h ago
 
 ---
 
@@ -347,7 +347,7 @@ India's IT sector just got hit with its biggest shock in 4 months. The Nifty IT 
 
 📺 Mark Savant
 
-👁️ 51K • 👍 1K • 💬 580 • ⏱️ 18:25 • 2d ago
+👁️ 51K • 👍 1K • 💬 580 • ⏱️ 18:25 • 3d ago
 
 ---
 
@@ -357,7 +357,7 @@ Thanks to our LMG clips sponsors dbrand and Razer. You can check them out at the
 
 📺 LMG Clips
 
-👁️ 50K • 👍 2K • 💬 439 • ⏱️ 19:49 • 21h ago
+👁️ 50K • 👍 2K • 💬 439 • ⏱️ 19:49 • 22h ago
 
 ---
 
@@ -375,7 +375,7 @@ A monkey makes clay pots to feed her hungry babies #ai #baby #monkey.
 
 📺 MrMonkeyBoy
 
-👁️ 288K • 👍 3K • 💬 2 • ⏱️ 0:37 • 8h ago
+👁️ 288K • 👍 3K • 💬 2 • ⏱️ 0:37 • 9h ago
 
 ---
 
@@ -415,7 +415,7 @@ MiniCPM-o 4.5 is a 9B parameter multimodal LLM excelling in vision, speech, and 
 
 `any-to-any` `9.4B`
 
-⬇️ 30,396 • ❤️ 742 • 11h ago
+⬇️ 30,396 • ❤️ 742 • 12h ago
 
 ---
 
@@ -451,7 +451,7 @@ Voxtral-Mini-4B-Realtime-2602 is a multilingual, real-time speech-to-text model 
 
 `automatic-speech-recognition`
 
-⬇️ 3,197 • ❤️ 452 • 1h ago
+⬇️ 3,197 • ❤️ 452 • 2h ago
 
 ---
 
@@ -647,7 +647,7 @@ The Ultimate Collection of 700+ Agentic Skills for Claude Code/Antigravity/Curso
 
 `Python` `agentic-skills` `ai-agents` `antigravity` `autonomous-coding` `claude-code`
 
-⭐ 8.3k • 🔱 1.7k • 11h ago
+⭐ 8.3k • 🔱 1.7k • 12h ago
 
 ---
 
@@ -731,7 +731,7 @@ Smart LLM router — save 78% on inference costs. 30+ models, one wallet, x402 m
 
 `TypeScript` `ai` `ai-agents` `anthropic` `cost-optimization` `crypto`
 
-⭐ 2.0k • 🔱 203 • 15m ago
+⭐ 2.0k • 🔱 203 • 1h ago
 
 ---
 
