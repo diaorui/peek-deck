@@ -3,13 +3,13 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-02-10T05:05:13.015915+00:00'
+updated: '2026-02-10T06:43:13.638347+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- cryptocurrency
 - social
+- cryptocurrency
 - news
 - videos
 ---
@@ -18,7 +18,7 @@ data_types:
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** February 10, 2026 at 05:05 UTC  
+**Last Updated:** February 10, 2026 at 06:43 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -36,17 +36,17 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Price
 
-### $2,063.76
+### $2,051.70
 
 ---
 
 ## Ethereum Chart
 
-**24h:** -0.4%  
-**7d:** -3.5%  
-**30d:** -33.1%  
-**90d:** -36.1%  
-**1y:** -20.4%  
+**24h:** -1.6%  
+**7d:** -5.3%  
+**30d:** -34.3%  
+**90d:** -37.2%  
+**1y:** -21.8%  
 
 ---
 
@@ -68,11 +68,19 @@ No max supply
 
 ## Reddit: r/ethereum
 
+**[Daily General Discussion February 10, 2026](https://www.reddit.com/r/ethereum/comments/1r0svsd/daily_general_discussion_february_10_2026/)**
+
+Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
+
+42m ago
+
+---
+
 **[Daily General Discussion February 09, 2026](https://www.reddit.com/r/ethereum/comments/1qzwdwq/daily_general_discussion_february_09_2026/)**
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-23h ago
+1d ago
 
 ---
 
@@ -80,7 +88,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 In January 2026, DeFi hacks resulted in roughly $86M in losses across multiple protocols. More concerning: 7 separate incidents exceeded $1M each. Most of the exploits were rooted in smart contract vulnerabilities. The pattern feels familiar at this point. Repeated issues, similar bug classes, and preventable failures. The question isn’t whether exploits will continue it’s whether teams are adapting fast enough. Are you building with security as a first principle, or still treating it as a final checklist before launch?
 
-12h ago
+13h ago
 
 ---
 
@@ -88,7 +96,7 @@ In January 2026, DeFi hacks resulted in roughly $86M in losses across multiple p
 
 We’re launching a new service focused on smart contract reviews without the overhead of a full audit. Scope is limited and practical. Logic, exploitability, and protocol level risks. No certification and no audit opinion. To validate the approach, we’re offering a limited number of free focused smart contract security reviews for projects that are code complete and either close to launch or already deployed, in exchange for honest feedback. This is not meant to replace an audit. It’s a short, concrete review focused on protocol logic and exploit paths. Shoot a dm, if you're interested.
 
-12h ago
+13h ago
 
 ---
 
@@ -96,7 +104,7 @@ We’re launching a new service focused on smart contract reviews without the ov
 
 This is a compact Ethereum Virtual Machine runtime written in strict C23. Made this for learning purposes. BTW, it has a toy Solidity-like compiler into bytecode and `nano-node` program that "deploys" contracts to local store and gives ability to call them.
 
-🔗 [GitHub](https://github.com/ThirdLetterC/nano-evm) • 15h ago
+🔗 [GitHub](https://github.com/ThirdLetterC/nano-evm) • 17h ago
 
 ---
 
@@ -104,7 +112,7 @@ This is a compact Ethereum Virtual Machine runtime written in strict C23. Made t
 
 I am looking for a stablecoin that, instead of being pegged to a fiat currency, is pegged to a consumer price index, preferably one for prices where I live (Wales, UK), so that it rises with inflation. I don't mind whether it is partly centralised​ or not so long as it is actually censorship-resistent (so, unlike USDT). Should be safe i.e.​ vulnerable to being depegged so not algorithmic. Does this exist? Bonus points if it doesn't use plutocratic token-weighted governance.
 
-15h ago
+16h ago
 
 ---
 
@@ -112,7 +120,7 @@ I am looking for a stablecoin that, instead of being pegged to a fiat currency, 
 
 World News, Stories By EtherWorld, Technical Explainers, Client News & Updates, Podcasts, Upcoming Events & Jobs
 
-🔗 [EtherWorld.co](https://etherworld.co/etherworld-weekly-edition-350/) • 23h ago
+🔗 [EtherWorld.co](https://etherworld.co/etherworld-weekly-edition-350/) • 1d ago
 
 ---
 
@@ -120,7 +128,7 @@ World News, Stories By EtherWorld, Technical Explainers, Client News & Updates, 
 
 A bug fix turned into a personal comeback story of coding, parenting, and a small contribution to the open-source world.
 
-🔗 [EtherWorld.co](https://etherworld.co/the-bug-of-solving-bugs/) • 15h ago
+🔗 [EtherWorld.co](https://etherworld.co/the-bug-of-solving-bugs/) • 17h ago
 
 ---
 
@@ -135,14 +143,6 @@ eth-mempool-monitor subscribes to Ethereum pending transactions over WebSocket, 
 **[Should I stake my ETH in my ledger with Lido? Is it safe?](https://www.reddit.com/r/ethereum/comments/1qzmo4m/should_i_stake_my_eth_in_my_ledger_with_lido_is/)**
 
 I'm willing to stake my ETH that I have on my ledger, is this safe to use lido from the ledger?
-
-1d ago
-
----
-
-**[Daily General Discussion February 08, 2026](https://www.reddit.com/r/ethereum/comments/1qz13nm/daily_general_discussion_february_08_2026/)**
-
-Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
 1d ago
 
@@ -164,7 +164,7 @@ Yahoo Finance • 1d ago
 
 Publicly traded Ethereum treasury firm BitMine Immersion Technology added to its ETH holdings last week, even as its paper losses grew.
 
-Decrypt • 11h ago
+Decrypt • 12h ago
 
 ---
 
@@ -172,7 +172,7 @@ Decrypt • 11h ago
 
 Bitmine Immersion Technologies has significantly bolstered its Ethereum position amid market volatility.As the ETH price dropped amid Bitcoin’s nosedive to $60,000, the crypto treasury company took advantage to acquire over 40,600 of the coin. The move mirrors that of Strategy, which also announced…
 
-TradingView • 13h ago
+TradingView • 14h ago
 
 ---
 
@@ -188,7 +188,7 @@ unchainedcrypto.com • 3d ago
 
 The project, which had previously pitched itself as a layer-2 “real-time blockchain,” targeting more than 100,000 transactions per second, would make onchain interactions feel closer to traditional web apps than today’s crypto networks.
 
-CoinDesk • 12h ago
+CoinDesk • 14h ago
 
 ---
 
@@ -196,15 +196,7 @@ CoinDesk • 12h ago
 
 The cryptocurrency industry went under intense pressure last week, with Bitcoin and Ethereum leading the crash and multiple cryptocurrencies hitting new multi-month lows. The crash was more pronounced with Bitcoin, though, and the imbalance in selling pressure is quietly shifting the relationship b…
 
-TradingView • 14h ago
-
----
-
-**[Ethereum and Solana Are Getting Hit Hard. Are These Top Cryptocurrencies Buys on the Dip?](https://www.fool.com/investing/2026/02/07/ethereum-and-solana-are-getting-hit-hard-are-these/)**
-
-Here's why giving up on Ethereum and Solana now would be a mistake.
-
-The Motley Fool • 2d ago
+TradingView • 16h ago
 
 ---
 
@@ -216,17 +208,25 @@ The Block • 3d ago
 
 ---
 
+**[Ethereum and Solana Are Getting Hit Hard. Are These Top Cryptocurrencies Buys on the Dip?](https://www.fool.com/investing/2026/02/07/ethereum-and-solana-are-getting-hit-hard-are-these/)**
+
+Here's why giving up on Ethereum and Solana now would be a mistake.
+
+The Motley Fool • 2d ago
+
+---
+
 **[Ethereum Falls to $2,000 But New Price Prediction Targets $7,500 by End-2026](https://www.financemagnates.com/trending/ethereum-falls-to-2000-but-new-price-prediction-targets-7500-by-end-2026/)**
 
 Ethereum price predictions from Standard Chartered and Citi target $5,400-$7,500 for 2026, but technical analysis shows bearish targets at $1,760-$1,000.
 
-financemagnates.com • 17h ago
+financemagnates.com • 18h ago
 
 ---
 
-**[Most large cryptocurrencies decrease on Ethereum, Sui drops](https://www.marketwatch.com/data-news/most-large-cryptocurrencies-decrease-on-ethereum-sui-drops-952f8893-f4a308af2610?gaa_at=eafs&gaa_n=AWEtsqcXxT7L_7ArGwXjMB8pxWJrFmkwDUKYyBI9ZdrGj3NitepZzcOVUkEY&gaa_ts=698abff5&gaa_sig=lf07X6DyBbZQt4cYEavCTUEtiQlYgxt9bLYv33H0fUcgtSlwDQ7Ubs3NsC3jB9VBVQKcHMFX95DzLOQhiHzSsg%3D%3D)**
+**[Most large cryptocurrencies decrease on Ethereum, Sui drops](https://www.marketwatch.com/data-news/most-large-cryptocurrencies-decrease-on-ethereum-sui-drops-952f8893-f4a308af2610?gaa_at=eafs&gaa_n=AWEtsqerWfkAjUcA2Cg4s6VccdIiO3p6OO12vdTu0ubrhnSigrPMh08dFYXh&gaa_ts=698ad6e8&gaa_sig=9gQVHJX74aB4jWOCh6uANnzpB0jCN95ECGJ-K15K3EA3RG-vqyvSjSIMw6El_wOdvybLLfIY-G7ksbuwtX634g%3D%3D)**
 
-MarketWatch • 14h ago
+MarketWatch • 15h ago
 
 ---
 
@@ -240,7 +240,7 @@ If You Hold Crypto... GET READY! (watch before they delete this) ☝️ Become a
 
 📺 Altcoin Daily
 
-👁️ 20K • 👍 2K • 💬 90 • ⏱️ 11:47 • 4h ago
+👁️ 20K • 👍 2K • 💬 90 • ⏱️ 11:47 • 6h ago
 
 ---
 
@@ -250,7 +250,7 @@ Welcome back home Ethereum! This time I think ETH will kick its feet back and st
 
 📺 Benjamin Cowen
 
-👁️ 97K • 👍 6K • 💬 356 • ⏱️ 14:29 • 23h ago
+👁️ 97K • 👍 6K • 💬 356 • ⏱️ 14:29 • 1d ago
 
 ---
 
@@ -260,7 +260,7 @@ This video provides a professional Elliott Wave and technical analysis of Ethere
 
 📺 More Crypto Online
 
-👁️ 935 • 👍 106 • 💬 4 • ⏱️ 6:04 • 3h ago
+👁️ 935 • 👍 106 • 💬 4 • ⏱️ 6:04 • 5h ago
 
 ---
 
@@ -270,7 +270,7 @@ BITCOIN & CRYPTO: It's Actually Happening (New Targets)!!! - Bitcoin News Today,
 
 📺 Crypto World
 
-👁️ 5K • 👍 247 • 💬 112 • ⏱️ 17:38 • 5h ago
+👁️ 5K • 👍 247 • 💬 112 • ⏱️ 17:38 • 7h ago
 
 ---
 
@@ -290,7 +290,7 @@ SPOTIFY PREMIUM RSS FEED | USE CODE: SPOTIFY24 https://bankless.cc/spotify-premi
 
 📺 Bankless
 
-👁️ 3K • 👍 95 • 💬 30 • ⏱️ 1:22:18 • 17h ago
+👁️ 3K • 👍 95 • 💬 30 • ⏱️ 1:22:18 • 19h ago
 
 ---
 
@@ -300,7 +300,7 @@ This video provides a professional Elliott Wave and technical analysis of Ethere
 
 📺 More Crypto Online
 
-👁️ 3K • 👍 191 • 💬 4 • ⏱️ 4:46 • 14h ago
+👁️ 3K • 👍 191 • 💬 4 • ⏱️ 4:46 • 16h ago
 
 ---
 
@@ -310,7 +310,7 @@ Welcome to Czar Gets Crypto! Please note the following: Educational Purposes Onl
 
 📺 C-Zar Gets Crypto 
 
-👁️ 230 • 👍 20 • 💬 27 • ⏱️ 6:20 • 11h ago
+👁️ 230 • 👍 20 • 💬 27 • ⏱️ 6:20 • 13h ago
 
 ---
 
@@ -320,7 +320,7 @@ FREE TRAINING: https://www.bullmania.com EXCHANGES I USE (bybit, pionex): https:
 
 📺 Ivan on Tech
 
-👁️ 23K • 👍 1K • 💬 64 • ⏱️ 49:46 • 18h ago
+👁️ 23K • 👍 1K • 💬 64 • ⏱️ 49:46 • 20h ago
 
 ---
 
@@ -330,7 +330,7 @@ Tom Lee discusses recent crypto news and volatility affecting BM&R. This video b
 
 📺 Short The Vix
 
-👁️ 856 • 👍 60 • 💬 37 • ⏱️ 16:02 • 8h ago
+👁️ 856 • 👍 60 • 💬 37 • ⏱️ 16:02 • 9h ago
 
 ---
 
