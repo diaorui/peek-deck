@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-02-10T20:08:11.456293+00:00'
+updated: '2026-02-10T21:10:52.397556+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
+- videos
 - social
 - news
-- videos
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** February 10, 2026 at 20:08 UTC  
+**Last Updated:** February 10, 2026 at 21:10 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -32,6 +32,14 @@ Robotics research and industry news
 
 ## Reddit: r/robotics
 
+**[K-bot](https://www.reddit.com/r/robotics/comments/1r18pvw/kbot/)**
+
+Hello everyone, since K-Scale Labs (https://kscale.ai) shut down and they still kept everything open-source on their GitHub page, I was wondering if anyone has actually tried to build their humanoid robot on their own. Do you guys think it would be worth it or not and why?
+
+2h ago
+
+---
+
 **[G1 kicks mother and child when performing](https://www.reddit.com/r/robotics/comments/1r0awur/g1_kicks_mother_and_child_when_performing/)**
 
 1d ago
@@ -42,15 +50,21 @@ Robotics research and industry news
 
 A Shanghai startup, DroidUp, has unveiled Moya, a biomimetic AI robot designed to cross the uncanny valley. Unlike plastic and metal droids, Moya features silicone skin that is heated to human body temperature and mimics subtle facial expressions like eyebrow raises. Standing 5'5" and weighing 70 lbs, Moya is built on a modular platform that allows for swapping between male and female presentations. With a price tag of ~$173k, DroidUp aims to deploy these warm companions in healthcare and business by late 2026.
 
-🔗 [TechRadar](https://www.techradar.com/computing/the-worlds-first-biomimetic-ai-robot-just-strolled-in-from-the-uncanny-valley-and-yes-its-super-creepy) • 7h ago
+🔗 [TechRadar](https://www.techradar.com/computing/the-worlds-first-biomimetic-ai-robot-just-strolled-in-from-the-uncanny-valley-and-yes-its-super-creepy) • 8h ago
 
 ---
 
-**[K-bot](https://www.reddit.com/r/robotics/comments/1r18pvw/kbot/)**
+**[r/c sumo bots?](https://www.reddit.com/r/robotics/comments/1r1c87b/rc_sumo_bots/)**
 
-Hello everyone, since K-Scale Labs (https://kscale.ai) shut down and they still kept everything open-source on their GitHub page, I was wondering if anyone has actually tried to build their humanoid robot on their own. Do you guys think it would be worth it or not and why?
+Hello! Our makerspace for kids 11-18 is hosting a three week summer camp this summer. Most of the kids will likely be 11-13 who come. The kids we know will come have indicated they would like to build and program sumo bots. The kids will have wide varieties of experience. Some will have no coding experience at all, so I am thinking rather than autonomous sumo bots they should make remote controlled ones. Which I realize now makes them not robots so maybe y'all can't help. We have here several Creality HI 3d printers and a large Omtech laser, as well as basic woodshop and electronics things like soldering irons and breadboards and all kinds of electronical bits and bobs. I am thinking if we have a premade chassis that the kids can add on to, they still get to design stuff and print it or cut it out but the basics are already there, then they can do the electronics and whatever coding needs to go between the rc stuff and the electronics and maybe they can conceivably do all that in 15 days/three weeks? I think trying to make it autonomous will be too challenging for all, but we can always suggest/challenge the kids who are good coders already to do so. Have any of y'all done something like this? Does it seem feasible? Thanks!
 
-1h ago
+40m ago
+
+---
+
+**[Design process advice for robotic arm](https://www.reddit.com/r/robotics/comments/1r1c3ce/design_process_advice_for_robotic_arm/)**
+
+44m ago
 
 ---
 
@@ -58,13 +72,13 @@ Hello everyone, since K-Scale Labs (https://kscale.ai) shut down and they still 
 
 Board I designed a custom board called ESP PowerDeck, based on the ESP32-S3. It’s meant for experimenting with robotics and IoT where you need real power handling, not just a breadboard setup. Would love feedback from the community — especially on features that might make it more useful for robotics work. (edit moved photo up so it could be seen ;p)
 
-1h ago
+2h ago
 
 ---
 
 **[Yet another Onshape robot exporter, but this one (hopefully) saves your API credits.](https://www.reddit.com/r/robotics/comments/1r18zed/yet_another_onshape_robot_exporter_but_this_one/)**
 
-1h ago
+2h ago
 
 ---
 
@@ -72,7 +86,7 @@ Board I designed a custom board called ESP PowerDeck, based on the ESP32-S3. It�
 
 Hello guys A quick question am looking for OEM 2D lidar Sensor I want to flash them and deploy my own software into it. Where can I get such lidar sensor? Let me know if you know any vendors or any websites where can I buy.
 
-2h ago
+3h ago
 
 ---
 
@@ -88,21 +102,7 @@ Over the past year our team built LingBot-VLA, a Vision-Language-Action foundati
 
 Hi guys! Im 17 and Have NO prior experience to ths. As you can see in the caption, i wanna build a robot. Its Supposed to be a Mining robot, one they could perhaps use instead of Human workers in very Dangerous Enviroments (Deadly Gasses in the Mine or Radioactive material or similar stuff.) Im Currently still drawing the blueprint. Its more jst a suggestion currently but anyways. (I will attach a picture of the current status, most of it will probably Change, also sorry if the handwriting is bad). So. My rough ideas: it will use something like tank tracks to move around (in drawing too). Because its easier to maintain than legs, cheaper and less complicated. Im still somewhat stuck on the arms, where they meet the upper hull i will probably use an electric servo motor so its more detailed, the arms themselves will probably use hydraulics because they are POWAH (as far as i know). Which in this case is very much needed. At the peak of the arm (where normally hands are) i wanna make a motor slot, so you can easily take out motors and/or change them according to tbe tool (Drill or Hammer for example). Im thinking of maybe screwing it in or using a few screws to hold it in, for easy maintenance. I have not yet though about how its gonna see around (head) or what its upper body would look like yet. As for energy supply?..probably changeable batteries (big ones) so you dont have to charge it, and can more or less let it continously work. Would you guys have any idea what could be changed on the CURRENT design?
 
-19h ago
-
----
-
-**[Alve-x robot arm](https://www.reddit.com/r/robotics/comments/1r0kt4u/alvex_robot_arm/)**
-
 20h ago
-
----
-
-**[Esp32 wiring help](https://www.reddit.com/r/robotics/comments/1r0zbrd/esp32_wiring_help/)**
-
-Hi everyone! 👋 I’m working on a school robotics project and I could really use some help from people who are more experienced than me. I already burned one ESP32 during testing (power issues 😭), and honestly I’m now a bit scared of wiring the second one wrong and damaging it too. I understand the logic and the code part much better than the power side, so I’m looking for someone who can help by designing the full wiring in a safe way for free. Here are all the components I’m using: • ESP32 (38 pins) • L298N motor driver • 2 DC motors • QTR-8RC line sensor • 8×32 LED matrix (uses 5 pins) • servo motor mg90s • 4 × 3.7V Li-ion batteries • DC-DC buck converter • Buzzer • Breadboards + jumper wires If anybody is willing to help i would be very grateful.
-
-7h ago
 
 ---
 
@@ -118,11 +118,25 @@ BetaKit • 1d ago
 
 ---
 
-**[Investor Stephanie Link likes this robotics play, a 'sleeper name for 2026'](https://www.cnbc.com/2026/02/10/investor-stephanie-link-likes-this-robotics-play-a-sleeper-name-for-2026.html)**
+**[China's Alibaba launches AI model to power robots as tech giants talk up 'physical AI'](https://www.cnbc.com/2026/02/10/alibaba-ai-model-robotics-rynnbrain-china.html)**
 
-Stephanie Link scooped up shares of Rockwell Automation following the robotics firm's latest earnings beat.
+Nvidia and Google are among a handful of major tech giants developing models for robotics and so-called "phyiscal AI."
 
-CNBC • 40m ago
+CNBC • 10h ago
+
+---
+
+**[Alibaba Pushes Into Robotics AI With Open-Source ‘RynnBrain’](https://www.bloomberg.com/news/articles/2026-02-10/alibaba-pushes-into-robotics-ai-with-open-source-rynnbrain)**
+
+Bloomberg.com • 14h ago
+
+---
+
+**[New ‘RynnBrain’ Lifts Alibaba Stock (BABA) as It Enters Robotics AI Race With Nvidia and Google](https://www.tipranks.com/news/new-rynnbrain-lifts-alibaba-stock-baba-as-it-enters-robotics-ai-race-with-nvidia-and-google)**
+
+Alibaba ($BABA) is broadening its AI strategy with a new robotics-focused project. The Chinese e-commerce giant introduced a new AI system called “RynnBrain,” desig...
+
+TipRanks • 10h ago
 
 ---
 
@@ -134,25 +148,11 @@ Fortune • 3d ago
 
 ---
 
-**[China's Alibaba launches AI model to power robots as tech giants talk up 'physical AI'](https://www.cnbc.com/2026/02/10/alibaba-ai-model-robotics-rynnbrain-china.html)**
+**[AI In Robotics - New Position Paper](https://ifr.org/ifr-press-releases/news/ai-in-robotics-new-position-paper)**
 
-Nvidia and Google are among a handful of major tech giants developing models for robotics and so-called "phyiscal AI."
+A new generation of AI-powered robots moving from research labs into the real world is fueled by AI tech companies and analysts forecasting a multitrillion-dollar market. The vision is to give artificial intelligence its own robot body. What are the trends, challenges, and commercial applications?
 
-CNBC • 9h ago
-
----
-
-**[Alibaba Pushes Into Robotics AI With Open-Source ‘RynnBrain’](https://www.bloomberg.com/news/articles/2026-02-10/alibaba-pushes-into-robotics-ai-with-open-source-rynnbrain)**
-
-Bloomberg • 13h ago
-
----
-
-**[Alibaba’s RynnBrain smashes 16 robotics records, tops Google and NVIDIA AI models](https://interestingengineering.com/ai-robotics/alibaba-rynnbrain-humanoid-robot-ai)**
-
-Alibaba has unveiled RynnBrain, a new embodied AI model built to help robots understand space, memory, and physical movement.
-
-Interesting Engineering • 1h ago
+IFR International Federation of Robotics • 15h ago
 
 ---
 
@@ -160,21 +160,7 @@ Interesting Engineering • 1h ago
 
 Robotics funding rebounded in 2025.
 
-Axios • 7h ago
-
----
-
-**[AI In Robotics - New Position Paper](https://ifr.org/ifr-press-releases/news/ai-in-robotics-new-position-paper)**
-
-A new generation of AI-powered robots moving from research labs into the real world is fueled by AI tech companies and analysts forecasting a multitrillion-dollar market. The vision is to give artificial intelligence its own robot body. What are the trends, challenges, and commercial applications?
-
-IFR International Federation of Robotics • 13h ago
-
----
-
-**[China Is Going All-In to Beat the U.S. on Humanoid Robots](https://www.wsj.com/tech/china-is-going-all-in-to-beat-the-u-s-on-humanoid-robots-b9c434d2?gaa_at=eafs&gaa_n=AWEtsqcak-RISdTZHeRiRRyRTynyN3wEcp7JSpdpdNc0Zqa5FlmJuZERiZWw&gaa_ts=698b9399&gaa_sig=GJ_S_3BXG5s3xVx4iavKh8hFw4i5aqnzcyuwB1HzzGzpjihCnOQ9AenehL2zZHOVgHPHNxuQnfshZf-eAZhj_g%3D%3D)**
-
-The Wall Street Journal • 3d ago
+Axios • 8h ago
 
 ---
 
@@ -186,9 +172,33 @@ Yahoo Finance • 2d ago
 
 ---
 
+**[Humanoid robots are getting smaller, safer and closer](https://www.foxnews.com/tech/humanoid-robots-getting-smaller-safer-closer)**
+
+Fauna Robotics is launching Sprout as a developer platform for humanoid robots. The robot features 29 degrees of freedom and NVIDIA compute power.
+
+Fox News • 3h ago
+
+---
+
+**[Why This VC Says AI and Robotics Will Put Every Human Job at Risk](https://www.wsj.com/video/series/wsj-take-on-the-week/why-this-vc-says-ai-and-robotics-will-put-every-human-job-at-risk/546BD698-2E82-484A-8364-61B5B20A66E4?gaa_at=eafs&gaa_n=AWEtsqc0ek-MEoT0O09ba0Mt38onPLBK4IQgyWdumwNU-d14QvJjYdEV1k_8&gaa_ts=698ba24a&gaa_sig=9Ye43EFAXqbnX4hbSVc2GUMlYnQ4Q8kZFRCBNLsYgVuLpfC30qZqm1NSYE2uC43pgrViPvwsbof3U59UGF_paw%3D%3D)**
+
+The Wall Street Journal • 2d ago
+
+---
+
 ---
 
 ## YouTube Videos: "robotics"
+
+**[Atlas Airborne Robot Shows the Final Evolution of Boston Dynamics](https://www.youtube.com/watch?v=IjRjKwZhYCQ)**
+
+The Atlas Airborne Robot takes one final research run as Boston Dynamics pushes humanoid robot control to its absolute limit.
+
+📺 DPCcars
+
+👁️ 72K • 👍 493 • 💬 87 • ⏱️ 2:45 • 3d ago
+
+---
 
 **[Atlas Airborne | Boston Dynamics &amp; @rai-inst](https://www.youtube.com/watch?v=UNorxwlZlFk)**
 
@@ -200,33 +210,13 @@ Now that the Atlas enterprise platform is getting to work, the research version 
 
 ---
 
-**[Atlas Airborne Robot Shows the Final Evolution of Boston Dynamics](https://www.youtube.com/watch?v=IjRjKwZhYCQ)**
-
-The Atlas Airborne Robot takes one final research run as Boston Dynamics pushes humanoid robot control to its absolute limit.
-
-📺 DPCcars
-
-👁️ 71K • 👍 486 • 💬 87 • ⏱️ 2:45 • 3d ago
-
----
-
 **[First Biomimetic AI Robot From China Looks Shockingly Human](https://www.youtube.com/watch?v=B61etYSvMNI)**
 
 Humanoid robots just entered a new phase of realism. In Shanghai, DroidUp revealed Moya, the world's first fully biomimetic ...
 
 📺 AI Revolution
 
-👁️ 247K • 👍 4K • 💬 954 • ⏱️ 13:31 • 5d ago
-
----
-
-**[Elon Musk on Why Everyone Will Want an Optimus Robot by 2027](https://www.youtube.com/watch?v=dWRqUdVBKjE)**
-
-Will a robot soon be watching your children or caring for your parents? Elon Musk predicts a future where billions of humanoid ...
-
-📺 SpaceTakers
-
-👁️ 42K • 👍 847 • 💬 77 • ⏱️ 0:29 • 4d ago
+👁️ 249K • 👍 4K • 💬 958 • ⏱️ 13:31 • 5d ago
 
 ---
 
@@ -237,6 +227,16 @@ XPeng's brand-new IRON humanoid robot just collapsed in public, and the footage 
 📺 The AI Nexus
 
 👁️ 8K • 👍 141 • 💬 35 • ⏱️ 19:22 • 5d ago
+
+---
+
+**[Elon Musk on Why Everyone Will Want an Optimus Robot by 2027](https://www.youtube.com/watch?v=dWRqUdVBKjE)**
+
+Will a robot soon be watching your children or caring for your parents? Elon Musk predicts a future where billions of humanoid ...
+
+📺 SpaceTakers
+
+👁️ 42K • 👍 858 • 💬 79 • ⏱️ 0:29 • 5d ago
 
 ---
 
@@ -254,25 +254,27 @@ Boston Dynamics and the RAI Institute release a video demonstrating the All-Elec
 
 📺 CNET
 
-👁️ 11K • 👍 267 • 💬 26 • ⏱️ 1:25 • 19h ago
+👁️ 12K • 👍 284 • 💬 56 • ⏱️ 1:25 • 20h ago
 
 ---
 
-**[Tony Stark would hate this! 😂 #engineering #ironman #revrobotics #3dprinting](https://www.youtube.com/watch?v=13fah4TQXhw)**
+**[How They&#39;re Building Robot Hands Like Human Muscles #robotics #innovation #engineering](https://www.youtube.com/watch?v=zcbY5VW4BYc)**
 
-📺 Concept Bytes
+A Hungarian startup is generating buzz with its automated manufacturing system for building robots that's straight out of Westworld ...
 
-👁️ 29K • 👍 2K • 💬 34 • ⏱️ 1:24 • 4d ago
+📺 Kalil 4.0
+
+👁️ 423 • 👍 14 • ⏱️ 0:45 • 27m ago
 
 ---
 
-**[Elon: This Robot Could Replace Surgeons👀 #elonmusk #ai #Robotics #Optimus #Innovation #surgeon](https://www.youtube.com/watch?v=BHKQFCh-7fg)**
+**[Tesla Was Never a Car Company #teslaoptimus  #elonmusk  #teslarobot  #teslabotgen3 #humanoidrobots](https://www.youtube.com/watch?v=slqW7zBA6Oc)**
 
-A bold prediction like this instantly sparks curiosity and debate across the world. The idea that advanced robotics and artificial ...
+They laughed when Elon Musk brought a man in a spandex suit on stage. But in 2026, nobody is laughing. Tesla was never a car ...
 
-📺 Billionaire Shots
+📺 By 2050
 
-👁️ 6K • 👍 521 • 💬 69 • ⏱️ 0:36 • 9h ago
+👁️ 455K • 👍 7K • 💬 170 • ⏱️ 1:00 • 2d ago
 
 ---
 

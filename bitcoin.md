@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-02-10T20:08:11.447092+00:00'
+updated: '2026-02-10T21:10:52.388404+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- social
-- cryptocurrency
-- news
 - videos
+- social
+- news
+- cryptocurrency
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** February 10, 2026 at 20:08 UTC  
+**Last Updated:** February 10, 2026 at 21:10 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,33 +38,33 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $69,186.55
+### $68,777.11
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** -1.9%  
-**7d:** -5.6%  
-**30d:** -24.3%  
-**90d:** -30.9%  
-**1y:** -27.9%  
+**24h:** -2.1%  
+**7d:** -5.8%  
+**30d:** -24.5%  
+**90d:** -31.0%  
+**1y:** -28.0%  
 
 ---
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1376.99B
+**Market Cap:** $1376.90B
 Rank #1
 
-**Circulating Supply:** 19,987,287 BTC
+**Circulating Supply:** 19,987,315 BTC
 95.2% of max
 
 **All-Time High:** $126,080.00
 -45.4%
 
 **All-Time Low:** $67.81
-+101361.4%
++101501.5%
 
 ---
 
@@ -81,15 +81,13 @@ Rank #1
 
 "The United States is becoming the Crypto Capital of the world"
 
-3h ago
+4h ago
 
 ---
 
-**[The Irony](https://www.reddit.com/r/Bitcoin/comments/1r0kfp5/the_irony/)**
+**["If bitcoin continues to exist, I have yet to hear any intelligent counterargument as to why it would NOT become the world’s money." - Robert Breedlove](https://www.reddit.com/r/Bitcoin/comments/1r177pu/if_bitcoin_continues_to_exist_i_have_yet_to_hear/)**
 
-After hearing all the takes on recent Bitcoin price action, the irony is hard to miss. The goal is still buy low, sell high… right? 😅
-
-20h ago
+3h ago
 
 ---
 
@@ -97,7 +95,15 @@ After hearing all the takes on recent Bitcoin price action, the irony is hard to
 
 "Both Bitcoin and Stablecoins will be the money for all of these AI Agents"
 
-4h ago
+5h ago
+
+---
+
+**[The Irony](https://www.reddit.com/r/Bitcoin/comments/1r0kfp5/the_irony/)**
+
+After hearing all the takes on recent Bitcoin price action, the irony is hard to miss. The goal is still buy low, sell high… right? 😅
+
+21h ago
 
 ---
 
@@ -105,13 +111,13 @@ After hearing all the takes on recent Bitcoin price action, the irony is hard to
 
 Every BTC we move into cold storage is one less coin available for exchanges to lend to shorters or use to suppress the price. We’ve seen exchange reserves hitting lows, and we know what happens next is the supply shock.Move your stack to a hardware wallet. Not only do you truly own your wealth, but you also force the market to reflect Bitcoin's true scarcity. Stop being a liquidity provider for the people betting against you. Withdraw. Verify. HODL.
 
-4h ago
+5h ago
 
 ---
 
-**["If bitcoin continues to exist, I have yet to hear any intelligent counterargument as to why it would NOT become the world’s money." - Robert Breedlove](https://www.reddit.com/r/Bitcoin/comments/1r177pu/if_bitcoin_continues_to_exist_i_have_yet_to_hear/)**
+**[We're soooo back!](https://www.reddit.com/r/Bitcoin/comments/1r1aof2/were_soooo_back/)**
 
-2h ago
+1h ago
 
 ---
 
@@ -119,13 +125,7 @@ Every BTC we move into cold storage is one less coin available for exchanges to 
 
 Stay humble, stack sats. Not a brag post but something for me to reflect upon each year and look back on the journey
 
-16h ago
-
----
-
-**[We're soooo back!](https://www.reddit.com/r/Bitcoin/comments/1r1aof2/were_soooo_back/)**
-
-32m ago
+17h ago
 
 ---
 
@@ -133,21 +133,21 @@ Stay humble, stack sats. Not a brag post but something for me to reflect upon ea
 
 The best medicine for lack of conviction is education. Once you decide for yourself that Bitcoin is more than "number go up" technology, you can develop the diamond hands required for its volatilty. The value and tenants of Bitcoin won't immediately be expressed in upward price movement. The reason to hold Bitcoin come from what it may become 10+ years from now. Like Warren Buffet would say, the markets are the only place where when something you want goes on sell, you run out of the store.
 
-1h ago
+2h ago
 
 ---
 
 **[The next Fed chair Kevin Warsh, talking about Bitcoin in the past](https://www.reddit.com/r/Bitcoin/comments/1r13hjw/the_next_fed_chair_kevin_warsh_talking_about/)**
 
-4h ago
+5h ago
 
 ---
 
-**[Seeking Advice](https://www.reddit.com/r/Bitcoin/comments/1r10j7i/seeking_advice/)**
+**[Let be honest! At 125k we felt FOMO. AT 60-70k It seems scary all of a sudden?](https://www.reddit.com/r/Bitcoin/comments/1r17uuj/let_be_honest_at_125k_we_felt_fomo_at_6070k_it/)**
 
-What do you guys think about DCA (Dollar Cost Averaging)? I'am willing to put 10% of my salary each month on Bitcoin (100$) for a period of three years. Is it a good idea? What are thr pros and cons?
+Let be honest! At 125k we felt FOMO. AT 60-70k It seems scary all of a sudden? Like seriously men! 1 BItcoin = 1 Bitcoin But still its truely feeling scary? Or a gift for buying the dip? https://preview.redd.it/5i9ir7idhpig1.png?width=1280&format=png&auto=webp&s=69938401ab0c443491fdd538bba977d8bf2b73ef
 
-6h ago
+3h ago
 
 ---
 
@@ -159,21 +159,19 @@ What do you guys think about DCA (Dollar Cost Averaging)? I'am willing to put 10
 
 Strategy plans to continue refinancing its debt and buying bitcoin, even as the token tumbles, CEO Michael Saylor said Tuesday on CNBC's "Squawk Box."
 
-CNBC • 5h ago
+CNBC • 6h ago
 
 ---
 
-**[What if bitcoin prices fall to $8,000? Michael Saylor says Strategy still won’t sell.](https://www.marketwatch.com/story/what-if-bitcoin-prices-fall-to-8-000-michael-saylor-says-strategy-still-wont-sell-975f5362?gaa_at=eafs&gaa_n=AWEtsqd-FeglZ9-MAD9I2OcpmdNaImKLpBI6EMfXW0pQ_YI4ohxsBD04XOCw&gaa_ts=698b9396&gaa_sig=fV0RWvtPYNLTl37HhoE2Nx8ntMQzkzl4DL7Xwx_4ZrhlasPRWSt3TuWZFXTaxGGbazfx6GE3OQp3zeLBJJ9RAw%3D%3D)**
+**[What if bitcoin prices fall to $8,000? Michael Saylor says Strategy still won’t sell.](https://www.marketwatch.com/story/what-if-bitcoin-prices-fall-to-8-000-michael-saylor-says-strategy-still-wont-sell-975f5362?gaa_at=eafs&gaa_n=AWEtsqf_l77Pi8cEGwFHTBr8Obprta5HGLaByCh38-LRRIMSJqGQb7_QgPe4&gaa_ts=698ba245&gaa_sig=tuIqmOPrfv3_5l3Bg72fl1kIB53HYpCRZivHKxS3Bp71lL2GE82EvbBsQY3Ts11a9zsPQAqUQqG6_DDjs6XLcg%3D%3D)**
 
-MarketWatch • 4h ago
+MarketWatch • 5h ago
 
 ---
 
-**[Strategy (MSTR) news: Saylor shoots down any idea of forced BTC sale](https://www.coindesk.com/markets/2026/02/10/concerns-over-strategy-selling-bitcoin-are-unfounded-michael-saylor-says)**
+**[Strategy’s Michael Saylor Doubles Down on Bitcoin. Wall Street Is Shorting the Stock.](https://www.barrons.com/articles/strategy-stock-price-bitcoin-short-interest-michael-saylor-mstr-9e6f5c83?gaa_at=eafs&gaa_n=AWEtsqe_tUAVhiYnAHa5NIuKMvKVqVCCs708ImLw3wTyTF7s6y_zJXWKa_uO&gaa_ts=698ba245&gaa_sig=nhQnQLelN_U5sFq3mY2Ho4qWc0NgZb9P3btXJTVsGteXJ2AkyV0J9C4L02LDR3hcl0bJPJhOw5v3uhNX8NlVeQ%3D%3D)**
 
-Strategy Executive Chairman Michael Saylor affirmed the firm’s commitment to a long-term bitcoin strategy following major fourth quarter losses and a continued plunge in prices early this year.
-
-CoinDesk • 46m ago
+Barron's • 1h ago
 
 ---
 
@@ -181,7 +179,7 @@ CoinDesk • 46m ago
 
 Bitcoin prices hovered around $69,000, with one analyst suggesting that the crypto market may be approaching its bottom.
 
-Yahoo Finance • 3h ago
+Yahoo Finance • 4h ago
 
 ---
 
@@ -189,7 +187,7 @@ Yahoo Finance • 3h ago
 
 Bithumb has apologised for staff error that sent customers 620,000 bitcoins instead of 620,000 Korean won, equivalent to a few hundred US dollars
 
-The Guardian • 15h ago
+The Guardian • 16h ago
 
 ---
 
@@ -203,15 +201,13 @@ BBC • 3d ago
 
 **[Korea Probes Crypto Exchange Over $40 Billion in ‘Ghost Bitcoin’](https://www.bloomberg.com/news/articles/2026-02-09/bithumb-accidentally-gifts-620-000-bitcoin-btc-to-clients-in-fat-finger-error)**
 
-Bloomberg • 1d ago
+Bloomberg.com • 1d ago
 
 ---
 
-**[Bitcoin scam investigation underway after Jackson County resident loses $46,000](https://www.wlox.com/2026/02/10/bitcoin-scam-investigation-underway-after-jackson-county-resident-loses-46000/)**
+**[Ether Resumes Plunge, Tracking Bitcoin Slide on Risk-Off Mood](https://www.bloomberg.com/news/articles/2026-02-10/ether-eth-resumes-plunge-tracking-bitcoin-btc-slide-on-risk-off-mood)**
 
-A Bitcoin scam is under investigation by Law enforcement in Jackson County.
-
-WLOX • 15h ago
+Bloomberg.com • 31m ago
 
 ---
 
@@ -285,6 +281,12 @@ Crypto treasury companies quietly crept into index funds and retirement accounts
 
 ---
 
+**[$40B in Bitcoin Accidentally Given Away](https://news.ycombinator.com/item?id=46965768)**
+
+⬆️ 4 • 💬 0 • 1h ago • [wsj.com](https://www.wsj.com/finance/currencies/a-bitcoin-blunder-for-the-ages-40-billion-accidentally-given-away-3a207eac)
+
+---
+
 **[Bitcoin company helped draft law to enable libertarian Caribbean development](https://news.ycombinator.com/item?id=46936132)**
 
 Local opponents criticise legislation that will facilitate ‘networked state’ community and hand executive powers to developer
@@ -301,14 +303,6 @@ Bithumb, Korea's second-largest cryptocurrency exchange, mistakenly credited use
 
 ---
 
-**[Why Bitcoin's is failing its role as a 'safe haven' versus gold](https://news.ycombinator.com/item?id=46887818)**
-
-Bitcoin behaves more like an "ATM" during uncertain times, with investors quickly selling it to raise cash.
-
-⬆️ 4 • 💬 0 • 6d ago • [coindesk.com](https://www.coindesk.com/markets/2026/01/24/here-s-why-bitcoin-s-is-failing-its-role-as-a-safe-haven-versus-gold)
-
----
-
 ---
 
 ## YouTube Videos: "bitcoin"
@@ -319,17 +313,7 @@ If You Hold Crypto... GET READY! (watch before they delete this) ☝️ Become a
 
 📺 Altcoin Daily
 
-👁️ 54K • 👍 3K • 💬 210 • ⏱️ 11:47 • 19h ago
-
----
-
-**[Why bitcoin is lingering around $70,000](https://www.youtube.com/watch?v=zVU9lf3KoAw)**
-
-CNBC's MacKenzie Sigalos reports on trends in bitcoin.
-
-📺 CNBC Television
-
-👁️ 16K • 👍 124 • 💬 204 • ⏱️ 2:23 • 15h ago
+👁️ 57K • 👍 3K • 💬 234 • ⏱️ 11:47 • 20h ago
 
 ---
 
@@ -339,7 +323,7 @@ Watch my free masterclass & get Market Briefs as a bonus: https://briefs.finance
 
 📺 Minority Mindset
 
-👁️ 201K • 👍 6K • 💬 2K • ⏱️ 13:35 • 1d ago
+👁️ 206K • 👍 6K • 💬 2K • ⏱️ 13:35 • 1d ago
 
 ---
 
@@ -349,7 +333,17 @@ CNBC"s MacKenzie Sigalos joins 'Squawk Box' to discuss the recent bitcoin volati
 
 📺 CNBC Television
 
-👁️ 10K • 👍 330 • 💬 234 • ⏱️ 6:36 • 4h ago
+👁️ 28K • 👍 439 • 💬 318 • ⏱️ 6:36 • 5h ago
+
+---
+
+**[Why bitcoin is lingering around $70,000](https://www.youtube.com/watch?v=zVU9lf3KoAw)**
+
+CNBC's MacKenzie Sigalos reports on trends in bitcoin.
+
+📺 CNBC Television
+
+👁️ 17K • 👍 132 • 💬 248 • ⏱️ 2:23 • 16h ago
 
 ---
 
@@ -359,7 +353,17 @@ The Fed and Treasury are backing themselves into a corner and the only escape is
 
 📺 Simply Bitcoin
 
-👁️ 30K • 👍 3K • 💬 305 • ⏱️ 17:50 • 20h ago
+👁️ 31K • 👍 3K • 💬 311 • ⏱️ 17:50 • 21h ago
+
+---
+
+**[Bitcoin Crashed Hard. Here’s How I’m Playing It.](https://www.youtube.com/watch?v=JgXtAl0lV8c)**
+
+Watch this video where I break down volatility: https://youtu.be/Z_vlwus19-8?si=DdRR_b8wnpxBLGh8 Get the "New Rich" ...
+
+📺 Mark Moss
+
+👁️ 6K • 👍 1K • 💬 163 • ⏱️ 19:19 • 2h ago
 
 ---
 
@@ -369,17 +373,27 @@ Cathie Wood, CEO of ARK Invest, just dropped a bombshell about Bitcoin's crash t
 
 📺 Money Talks
 
-👁️ 3K • 👍 67 • 💬 69 • ⏱️ 12:18 • 1d ago
+👁️ 3K • 👍 68 • 💬 38 • ⏱️ 12:18 • 1d ago
 
 ---
 
-**[&quot;Now We Know Why BlackRock Crashed Bitcoin On Purpose&quot; - Mike Novogratz Update](https://www.youtube.com/watch?v=3R7XDbA8p54)**
+**[Bitcoin: A Realistic Price Prediction For 2026](https://www.youtube.com/watch?v=dpgmSrlI9HM)**
 
-"Now We Know Why BlackRock Crashed Bitcoin On Purpose" - Mike Novogratz Update Mike Novogratz, CEO of Galaxy Digital, ...
+Mark Yusko Crypto Prediction's 2026 Follow: https://x.com/MarkYusko LIMITED TIME: ✓ Bitunix (no kyc, $10k bonus): ...
 
-📺 Money Talks
+📺 Altcoin Daily
 
-👁️ 15K • 👍 223 • 💬 60 • ⏱️ 11:09 • 2d ago
+👁️ 28K • 👍 577 • 💬 98 • ⏱️ 1:10 • 1d ago
+
+---
+
+**[LIVE: Trump Announces Important News About Crypto! This Speech Will Change the Crypto Industry](https://www.youtube.com/watch?v=LWJBEXavk-A)**
+
+TrumpCrypto2025 #DigitalAssets #TrumpAnnouncement Welcome to the Trump Crypto Forum 2025 — streaming LIVE from ...
+
+📺 Clean Freak & Germaphobe
+
+👁️ 4K • 👍 2K • 1h ago
 
 ---
 
@@ -389,27 +403,7 @@ Make Free Predictions on *ClashPicks* ▻ https://www.clashpicks.com/ Follow Cla
 
 📺 CryptosRUs
 
-👁️ 25K • 👍 1K • 💬 368 • ⏱️ 12:54 • 18h ago
-
----
-
-**[Is The Crash Over? Bitcoin&#39;s &quot;Micro&quot; Bull Signal vs. &quot;Macro&quot; Bear Trap 📉](https://www.youtube.com/watch?v=QsDi1pPu8Fw)**
-
-In this critical crypto market update, Chief Market Strategist Gareth Soloway dissects the confusing price action in Bitcoin (BTC), ...
-
-📺 Gareth Soloway
-
-👁️ 37K • 👍 3K • 💬 244 • ⏱️ 14:40 • 7h ago
-
----
-
-**[What The F*ck Happened To Bitcoin?! I Anthony Scaramucci](https://www.youtube.com/watch?v=v45eRAA0RCs)**
-
-Anthony Scaramucci is the founder and managing partner of SkyBridge, a global alternative investment firm, and founder and ...
-
-📺 Anthony Scaramucci
-
-👁️ 36K • 👍 1K • 💬 112 • ⏱️ 1:13 • 1d ago
+👁️ 25K • 👍 1K • 💬 335 • ⏱️ 12:54 • 19h ago
 
 ---
 
