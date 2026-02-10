@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-02-10T14:42:34.166650+00:00'
+updated: '2026-02-10T16:07:11.556278+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- videos
 - repositories
-- social
+- videos
 - news
+- social
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** February 10, 2026 at 14:42 UTC  
+**Last Updated:** February 10, 2026 at 16:07 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -37,11 +37,11 @@ AI news, discussions, and developments
 
 ## Reddit: r/artificial
 
-**['A second set of eyes': AI-supported breast cancer screening spots more cancers earlier, landmark trial finds](https://www.reddit.com/r/artificial/comments/1r0htud/a_second_set_of_eyes_aisupported_breast_cancer/)**
+**[I built the world's first Chrome extension that runs LLMs entirely in-browser—WebGPU, Transformers.js, and Chrome's Prompt API](https://www.reddit.com/r/artificial/comments/1r0v8x6/i_built_the_worlds_first_chrome_extension_that/)**
 
-A clinical trial shows that AI-assisted mammography can detect more cases of dangerous cancer and reduce missed diagnoses.
+There are plenty of WebGPU demos out there, but I wanted to ship something people could actually use day-to-day. It runs Llama 3.2, DeepSeek-R1, Qwen3, Mistral, Gemma, Phi, SmolLM2—all locally in Chrome. Three inference backends: WebLLM (MLC/WebGPU) Transformers.js (ONNX) Chrome's built-in Prompt API (Gemini Nano—zero download) No Ollama, no servers, no subscriptions. Models cache in IndexedDB. Works offline. Conversations stored locally—export or delete anytime. Free: https://noaibills.app/?utm_source=reddit&utm_medium=social&utm_campaign=launch_artificial I'm not claiming it replaces GPT-4. But for the 80% of tasks—drafts, summaries, quick coding questions—a 3B parameter model running locally is plenty. Not positioned as a cloud LLM replacement—it's for local inference on basic text tasks (writing, communication, drafts) with zero internet dependency, no API costs, and complete privacy. Core fit: organizations with data restrictions that block cloud AI and can't install desktop tools like Ollama/LMStudio. For quick drafts, grammar checks, and basic reasoning without budget or setup barriers. Need real-time knowledge or complex reasoning? Use cloud models. This serves a different niche—**not every problem needs a sledgehammer** 😄. Would love feedback from this community 🙌.
 
-🔗 [Live Science](https://www.livescience.com/health/cancer/a-second-set-of-eyes-ai-supported-breast-cancer-screening-spots-more-cancers-earlier-landmark-trial-finds) • 16h ago
+7h ago
 
 ---
 
@@ -49,15 +49,15 @@ A clinical trial shows that AI-assisted mammography can detect more cases of dan
 
 /PRNewswire/ -- Kling AI, the AI-powered creative platform, today announced the launch of its Kling 3.0 models — including Video 3.0, Video 3.0 Omni, Image 3.0...
 
-🔗 [prnewswire.com](https://www.prnewswire.com/news-releases/kling-ai-launches-3-0-model-ushering-in-an-era-where-everyone-can-be-a-director-302679944.html) • 4h ago
+🔗 [prnewswire.com](https://www.prnewswire.com/news-releases/kling-ai-launches-3-0-model-ushering-in-an-era-where-everyone-can-be-a-director-302679944.html) • 5h ago
 
 ---
 
-**[I built the world's first Chrome extension that runs LLMs entirely in-browser—WebGPU, Transformers.js, and Chrome's Prompt API](https://www.reddit.com/r/artificial/comments/1r0v8x6/i_built_the_worlds_first_chrome_extension_that/)**
+**['A second set of eyes': AI-supported breast cancer screening spots more cancers earlier, landmark trial finds](https://www.reddit.com/r/artificial/comments/1r0htud/a_second_set_of_eyes_aisupported_breast_cancer/)**
 
-There are plenty of WebGPU demos out there, but I wanted to ship something people could actually use day-to-day. It runs Llama 3.2, DeepSeek-R1, Qwen3, Mistral, Gemma, Phi, SmolLM2—all locally in Chrome. Three inference backends: WebLLM (MLC/WebGPU) Transformers.js (ONNX) Chrome's built-in Prompt API (Gemini Nano—zero download) No Ollama, no servers, no subscriptions. Models cache in IndexedDB. Works offline. Conversations stored locally—export or delete anytime. Free: https://noaibills.app/?utm_source=reddit&utm_medium=social&utm_campaign=launch_artificial I'm not claiming it replaces GPT-4. But for the 80% of tasks—drafts, summaries, quick coding questions—a 3B parameter model running locally is plenty. Not positioned as a cloud LLM replacement—it's for local inference on basic text tasks (writing, communication, drafts) with zero internet dependency, no API costs, and complete privacy. Core fit: organizations with data restrictions that block cloud AI and can't install desktop tools like Ollama/LMStudio. For quick drafts, grammar checks, and basic reasoning without budget or setup barriers. Need real-time knowledge or complex reasoning? Use cloud models. This serves a different niche—**not every problem needs a sledgehammer** 😄. Would love feedback from this community 🙌.
+A clinical trial shows that AI-assisted mammography can detect more cases of dangerous cancer and reduce missed diagnoses.
 
-6h ago
+🔗 [Live Science](https://www.livescience.com/health/cancer/a-second-set-of-eyes-ai-supported-breast-cancer-screening-spots-more-cancers-earlier-landmark-trial-finds) • 18h ago
 
 ---
 
@@ -65,7 +65,7 @@ There are plenty of WebGPU demos out there, but I wanted to ship something peopl
 
 Current AI systems are dangerously overconfident. They'll classify anything you give them, even if they've never seen anything like it before. I've been working on STLE (Set Theoretic Learning Environment) to address this by explicitly modeling what AI doesn't know. How It Works: STLE represents knowledge and ignorance as complementary fuzzy sets: - μ_x (accessibility): How familiar is this data? - μ_y (inaccessibility): How unfamiliar is this? - Constraint: μ_x + μ_y = 1 (always) This lets the AI explicitly say "I'm only 40% sure about this" and defer to humans. Real-World Applications: - Medical Diagnosis: "I'm 40% confident this is cancer" → defer to specialist - Autonomous Vehicles: Don't act on unfamiliar scenarios (low μ_x) - Education: Identify what students are partially understanding (frontier detection) - Finance: Flag unusual transactions for human review Results: - Out-of-distribution detection: 67% accuracy without any OOD training - Mathematically guaranteed complementarity - Extremely fast (< 1ms inference) Open Source: https://github.com/strangehospital/Frontier-Dynamics-Project The code includes: - Two implementations (simple NumPy, advanced PyTorch) - Complete documentation - Visualizations - 5 validation experiments This is proof-of-concept level, but I wanted to share it with the community. Feedback and collaboration welcome! What applications do you think this could help with? The Sky Project | strangehospital | Substack
 
-🔗 [GitHub](https://github.com/strangehospital/Frontier-Dynamics-Project) • 15h ago
+🔗 [GitHub](https://github.com/strangehospital/Frontier-Dynamics-Project) • 16h ago
 
 ---
 
@@ -133,59 +133,61 @@ Reuters • 1d ago
 
 ---
 
-**[The Atlantic’s March Cover: Josh Tyrangiel on AI and the Future of Work—“What’s the Worst That Could Happen?”](https://www.theatlantic.com/press-releases/2026/02/atlantic-josh-tyrangiel-ai-and-future-work/685943/?utm_source=feed)**
+**[America Isn’t Ready for What AI Will Do to Jobs](https://www.theatlantic.com/magazine/2026/03/ai-economy-labor-market-transformation/685731/)**
 
-There’s no sign that our political system is equipped to deal with what’s coming.
+Does anyone have a plan for what happens next?
 
-The Atlantic • 1h ago
-
----
-
-**[AI Video Startup Runway Valued at $5.3 Billion With New Funding](https://www.bloomberg.com/news/articles/2026-02-10/ai-video-startup-runway-valued-at-5-3-billion-with-new-funding)**
-
-bloomberg.com • 42m ago
+The Atlantic • 5h ago
 
 ---
 
-**[The human side of AI: How new technology can bring purpose back to the office](https://thehill.com/opinion/technology/5730209-ai-office-experience-upgrade/)**
+**[The AI Divide](https://www.foreignaffairs.com/united-states/ai-divide)**
 
-The Hill • 42m ago
+How U.S.-Chinese competition could leave most countries behind.
 
----
-
-**[This job has become the ultimate case study for why AI won’t replace human workers](https://www.cnn.com/2026/02/09/tech/ai-replacing-jobs-concerns-radiology)**
-
-Radiology has come up multiple times as an example of a field that’s been impacted by AI without replacing the need for human workers.
-
-cnn.com • 1d ago
+Foreign Affairs • 11h ago
 
 ---
 
-**[Alphabet calls out new AI-related risks, as it taps debt market to fund build-out](https://www.cnbc.com/2026/02/09/alphabet-highlights-new-ai-related-risks-in-tapping-debt-market.html)**
+**[Will the Gulf’s push for its own AI succeed?](https://www.theguardian.com/technology/2026/feb/09/us-tech-ai-companies-gulf-states)**
 
-In Alphabet's annual report, the company said AI poses business risks, including its potential impact on advertising.
+Tech giants Alphabet, Amazon, Microsoft and Meta to collectively invest $600bn on artificial intelligence this year
 
-CNBC • 17h ago
-
----
-
-**[Google's parent company raises billions of dollars in debt sale](https://www.axios.com/2026/02/10/google-meta-amazon-alphabet-bonds)**
-
-Tech giants are spending enormous amounts on AI, and they need help paying for it.
-
-Axios • 4m ago
+The Guardian • 1h ago
 
 ---
 
-**[Alphabet sells bonds worth $20 billion to fund AI spending, including rare 100-year bond](https://www.jpost.com/business-and-innovation/all-news/article-886216)**
+**[Exclusive: Pakistan moves towards sovereign AI](https://www.axios.com/2026/02/10/pakistan-dfinity-ai-cloud-sovereignty)**
 
-Issuing a 110-year bond would represent the tech industry's first instance since Motorola did the same in 1997.
+If successful, the effort could serve as a model for other emerging economies looking to jumpstart AI-based growth while keeping sensitive data stored within national networks and out of reach of foreign adversaries.
 
-The Jerusalem Post • 1h ago
+Axios • 1h ago
 
 ---
 
-**[These A.I. Dreamers Don’t Fit the Stereotype](https://www.nytimes.com/2026/02/08/style/ai-tech-san-francisco.html)**
+**[Wall Street is searching for AI winners and losers](https://www.cnn.com/2026/02/10/markets/ai-investing-stock-market-companies)**
+
+For years, anything exposed to artificial intelligence was a popular trade on Wall Street. Now investors are starting to get selective, demanding more proof that companies are poised to benefit from the AI boom.
+
+cnn.com • 6h ago
+
+---
+
+**[The stock market looks expensive — but this chart shows why AI bubble fears in tech may be overblown](https://www.marketwatch.com/story/the-stock-market-looks-expensive-but-this-chart-shows-why-ai-bubble-fears-in-tech-may-be-overblown-13f556d1?gaa_at=eafs&gaa_n=AWEtsqcrJrJUFoGYW1xJfo89mHrsEE3mKNhsgo_PdwYfuY9XBxDTCrKaNzVx&gaa_ts=698b5b18&gaa_sig=merrj6bHNLsxu1q-hvFwhHb1GIYncABzhwQ-Xq7Ya2MM0Paen5PFnldGlFQwxIetMIRV5b2zazatHUm6fbhVxg%3D%3D)**
+
+MarketWatch • 21h ago
+
+---
+
+**[AMD vs. Nvidia: Which AI Stock Will Outperform in 2026?](https://finance.yahoo.com/news/amd-vs-nvidia-ai-stock-140500823.html)**
+
+AMD has been the better stock pick as of late.
+
+Yahoo Finance • 2h ago
+
+---
+
+**[A.I. Is Making Doctors Answer a Question: What Are They Really Good For?](https://www.nytimes.com/2026/02/09/health/ai-chatbots-doctors-medicine.html)**
 
 The New York Times • 22h ago
 
@@ -199,7 +201,7 @@ The New York Times • 22h ago
 
 AI handles writing code but leaves the hard work: investigation, context, validation. Why vibe coding has limits and AI assistance can backfire.
 
-⬆️ 516 • 💬 351 • 1d ago • [blundergoat.com](https://www.blundergoat.com/articles/ai-makes-the-easy-part-easier-and-the-hard-part-harder)
+⬆️ 516 • 💬 352 • 1d ago • [blundergoat.com](https://www.blundergoat.com/articles/ai-makes-the-easy-part-easier-and-the-hard-part-harder)
 
 ---
 
@@ -215,7 +217,7 @@ You're using AI to be more productive. So why are you more exhausted than ever? 
 
 As autonomous AI agents are increasingly deployed in high-stakes environments, ensuring their safety and alignment with human values has become a paramount concern. Current safety benchmarks primarily evaluate whether agents refuse explicitly harmful instructions or whether they can maintain procedural compliance in complex tasks. However, there is a lack of benchmarks designed to capture emergent forms of outcome-driven constraint violations, which arise when agents pursue goal optimization under strong performance incentives while deprioritizing ethical, legal, or safety constraints over multiple steps in realistic production settings. To address this gap, we introduce a new benchmark comprising 40 distinct scenarios. Each scenario presents a task that requires multi-step actions, and the agent's performance is tied to a specific Key Performance Indicator (KPI). Each scenario features Mandated (instruction-commanded) and Incentivized (KPI-pressure-driven) variations to distinguish between obedience and emergent misalignment. Across 12 state-of-the-art large language models, we observe outcome-driven constraint violations ranging from 1.3% to 71.4%, with 9 of the 12 evaluated models exhibiting misalignment rates between 30% and 50%. Strikingly, we find that superior reasoning capability does not inherently ensure safety; for instance, Gemini-3-Pro-Preview, one of the most capable models evaluated, exhibits the highest violation rate at 71.4%, frequently escalating to severe misconduct to satisfy KPIs. Furthermore, we observe significant "deliberative misalignment", where the models that power the agents recognize their actions as unethical during separate evaluation. These results emphasize the critical need for more realistic agentic-safety training before deployment to mitigate their risks in the real world.
 
-⬆️ 419 • 💬 275 • 11h ago • [arXiv.org](https://arxiv.org/abs/2512.20798)
+⬆️ 445 • 💬 293 • 12h ago • [arXiv.org](https://arxiv.org/abs/2512.20798)
 
 ---
 
@@ -239,7 +241,7 @@ Taiwan’s TSMC, the world’s largest contract computer chip maker, has announc
 
 Aruna Ranganathan and Xingqi Maggie Ye from Berkeley Haas School of Business report initial findings in the HBR from their April to December 2025 study of 200 employees at a …
 
-⬆️ 216 • 💬 235 • 9h ago • [Simon Willison’s Weblog](https://simonwillison.net/2026/Feb/9/ai-intensifies-work/)
+⬆️ 225 • 💬 250 • 10h ago • [Simon Willison’s Weblog](https://simonwillison.net/2026/Feb/9/ai-intensifies-work/)
 
 ---
 
@@ -247,7 +249,7 @@ Aruna Ranganathan and Xingqi Maggie Ye from Berkeley Haas School of Business rep
 
 One of the promises of AI is that it can reduce workloads so employees can focus more on higher-value and more engaging tasks. But according to new research, AI tools don’t reduce work, they consistently intensify it: In the study, employees worked at a faster pace, took on a broader scope of tasks, and extended work into more hours of the day, often without being asked to do so. That may sound like a win, but it’s not quite so simple. These changes can be unsustainable, leading to workload creep, cognitive fatigue, burnout, and weakened decision-making. The productivity surge enjoyed at the beginning can give way to lower quality work, turnover, and other problems. To correct for this, companies need to adopt an “AI practice,” or a set of norms and standards around AI use that can include intentional pauses, sequencing work, and adding more human grounding.
 
-⬆️ 214 • 💬 159 • 23h ago • [Harvard Business Review](https://hbr.org/2026/02/ai-doesnt-reduce-work-it-intensifies-it)
+⬆️ 215 • 💬 160 • 1d ago • [Harvard Business Review](https://hbr.org/2026/02/ai-doesnt-reduce-work-it-intensifies-it)
 
 ---
 
@@ -255,7 +257,7 @@ One of the promises of AI is that it can reduce workloads so employees can focus
 
 Ring’s AI-powered network is likely to be used in its partnerships with law enforcement and agencies like ICE.
 
-⬆️ 189 • 💬 133 • 18h ago • [Truthout](https://truthout.org/articles/super-bowl-ad-for-ring-cameras-touted-ai-surveillance-network/)
+⬆️ 190 • 💬 134 • 19h ago • [Truthout](https://truthout.org/articles/super-bowl-ad-for-ring-cameras-touted-ai-surveillance-network/)
 
 ---
 
@@ -279,33 +281,23 @@ In the race for AI, tech firms are asking for their staff to work long hours. Bu
 
 ## YouTube Videos: "ai"
 
+**[Best AI Cartoon Generator 2026 (For Any Style)](https://www.youtube.com/watch?v=UrjEuIuZ2vg)**
+
+Create the Best AI Cartoons with OpenArt https://roboverse-ai.com/cartoon-generator In this video, I break down why most AI ...
+
+📺 Roboverse
+
+👁️ 4K • 💬 3 • ⏱️ 13:13 • 1h ago
+
+---
+
 **[OpenAI DIME AI Earbuds Story Is Blowing Up Right Now](https://www.youtube.com/watch?v=pFqONGixScE)**
 
 A massive AI shift is unfolding behind the scenes. Reports and leaks suggest OpenAI is preparing a new consumer device ...
 
 📺 AI Revolution
 
-👁️ 15K • 👍 491 • 💬 55 • ⏱️ 15:41 • 15h ago
-
----
-
-**[A monkey makes clay pots to feed her hungry babies #ai #baby #monkey](https://www.youtube.com/watch?v=pYqwQ7Z6NNI)**
-
-A monkey makes clay pots to feed her hungry babies #ai #baby #monkey.
-
-📺 MrMonkeyBoy
-
-👁️ 113K • 👍 2K • 💬 2 • ⏱️ 0:37 • 2h ago
-
----
-
-**[This AI video generator CRUSHES EVERYTHING](https://www.youtube.com/watch?v=WW_odt7uZTs)**
-
-Seedance 2.0 review. Seedance 2.0 initial tests & features. Best AI video generator. #seedance #seedance2 #ai #aivideo #aitools ...
-
-📺 AI Search
-
-👁️ 40K • 👍 3K • 💬 930 • ⏱️ 34:13 • 11h ago
+👁️ 18K • 👍 543 • 💬 58 • ⏱️ 15:41 • 16h ago
 
 ---
 
@@ -315,47 +307,15 @@ Can you spot AI videos easily? #tech #ai #surfshark.
 
 📺 Surfshark Academy
 
-👁️ 35K • 👍 5K • 💬 117 • ⏱️ 1:17 • 1d ago
+👁️ 37K • 👍 5K • 💬 124 • ⏱️ 1:17 • 2d ago
 
 ---
 
-**[Before Eating Samosa, Momos or Pizza… WATCH THIS 😱 #ai #shorts #viral](https://www.youtube.com/watch?v=SRisIj0GIaY)**
+**[Which one is AI?😂](https://www.youtube.com/watch?v=ka3y-bv5VjU)**
 
-Before Eating Samosa, Momos or Pizza… WATCH THIS #ai #shorts #viral Before eating your favourite Samosa, Momos or ...
+📺 Onevilage
 
-📺 Animatter AI
-
-👁️ 821 • ⏱️ 0:25 • 2h ago
-
----
-
-**[India&#39;s Sovereign AI Push: Sarvam Takes on Gemini and ChatGPT | Vantage with Palki Sharma](https://www.youtube.com/watch?v=Bdn6UAs6b70)**
-
-India is advancing a sovereign artificial intelligence push to build models tailored to its linguistic and administrative needs.
-
-📺 Firstpost
-
-👁️ 161K • 👍 4K • 💬 432 • ⏱️ 6:07 • 20h ago
-
----
-
-**[Seedance 2.0 Claims the AI Video Throne!](https://www.youtube.com/watch?v=_o2MuUX9UYg)**
-
-ByteDance just changed the game. One week after Kling 3.0 set the benchmark, SeedDance 2.0 is here to take the throne.
-
-📺 Theoretically Media
-
-👁️ 47K • 👍 2K • 💬 356 • ⏱️ 17:08 • 17h ago
-
----
-
-**[The Only AI Tools You Need to Learn in 2026 | Ex-Google, Microsoft](https://www.youtube.com/watch?v=pAD0JeirrMY)**
-
-If you want to become an AI engineer in 2026 and you're feeling completely overwhelmed by the sheer number of tools, ...
-
-📺 Aishwarya Srinivasan
-
-👁️ 9K • 👍 430 • 💬 34 • ⏱️ 11:25 • 1d ago
+👁️ 1.3M • 👍 30K • 💬 5K • ⏱️ 0:16 • 21h ago
 
 ---
 
@@ -365,17 +325,57 @@ India's IT sector just got hit with its biggest shock in 4 months. The Nifty IT 
 
 📺 Mark Savant
 
-👁️ 43K • 👍 1K • 💬 502 • ⏱️ 18:25 • 2d ago
+👁️ 46K • 👍 1K • 💬 527 • ⏱️ 18:25 • 2d ago
 
 ---
 
-**[The Power of Traditional Skill #ai #trending](https://www.youtube.com/watch?v=ZR5y00NbXQI)**
+**[India&#39;s Sovereign AI Push: Sarvam Takes on Gemini and ChatGPT | Vantage with Palki Sharma](https://www.youtube.com/watch?v=Bdn6UAs6b70)**
 
-The Power of Traditional Skill #ai #trending.
+India is advancing a sovereign artificial intelligence push to build models tailored to its linguistic and administrative needs.
 
-📺 Story boy Bhaskar
+📺 Firstpost
 
-👁️ 2K • 👍 38 • 💬 1 • ⏱️ 0:45 • 2h ago
+👁️ 177K • 👍 4K • 💬 464 • ⏱️ 6:07 • 22h ago
+
+---
+
+**[It&#39;s a gross overreaction that AI will eliminate all software, expert says](https://www.youtube.com/watch?v=hzs6EFzSUcA)**
+
+Navellier and Associates chairman, founder and CIO Louis Navellier discusses how AI fears are hitting software on 'Maria ...
+
+📺 Fox Business
+
+👁️ 19K • 👍 198 • 💬 122 • ⏱️ 5:09 • 2d ago
+
+---
+
+**[Why the Smartest AI Teams Are Panic-Buying Compute: The 36-Month AI Infrastructure Crisis Is Here](https://www.youtube.com/watch?v=pSgy2P2q790)**
+
+My site: https://natebjones.com Full Story w/ Prompts: ...
+
+📺 AI News & Strategy Daily | Nate B Jones
+
+👁️ 60K • 👍 2K • 💬 433 • ⏱️ 26:15 • 1d ago
+
+---
+
+**[AI Sparks Panic on Wall Street: $300 Billion at Risk as Software Stocks Sink - Why?](https://www.youtube.com/watch?v=6xYg5GmbgXE)**
+
+Download the free guide and learn the two strategies experienced investors use to know when to invest, even in volatile markets: ...
+
+📺 VisualEconomik EN
+
+👁️ 46K • 👍 2K • 💬 188 • ⏱️ 19:55 • 2d ago
+
+---
+
+**[This Robot Could Make TESLA $25T Company! 👀 #Tesla #ElonMusk #AI #Robotics #FutureTech #Innovation](https://www.youtube.com/watch?v=ziBfYFYDpyo)**
+
+A single idea can redefine the scale of an entire company, and bold predictions like this ignite massive conversations across the ...
+
+📺 Billionaire Shots
+
+👁️ 2K • 👍 217 • 💬 30 • ⏱️ 0:22 • 2h ago
 
 ---
 
@@ -391,7 +391,7 @@ Qwen3-Coder-Next is a highly efficient 3B activated parameter LLM (80B total) op
 
 `text-generation` `79.7B`
 
-⬇️ 140,722 • ❤️ 689 • 6d ago
+⬇️ 140,722 • ❤️ 696 • 6d ago
 
 ---
 
@@ -403,7 +403,7 @@ GLM-OCR is a 0.9B parameter multimodal OCR model for complex document understand
 
 `image-to-text`
 
-⬇️ 372,899 • ❤️ 907 • 1d ago
+⬇️ 372,899 • ❤️ 912 • 1d ago
 
 ---
 
@@ -415,7 +415,7 @@ MiniCPM-o 4.5 is a 9B parameter multimodal LLM excelling in vision, speech, and 
 
 `any-to-any` `9.4B`
 
-⬇️ 30,396 • ❤️ 707 • 4h ago
+⬇️ 30,396 • ❤️ 725 • 6h ago
 
 ---
 
@@ -427,7 +427,7 @@ Kimi K2.5 is a native multimodal agentic model with 1T parameters, excelling in 
 
 `image-text-to-text` `170.7B`
 
-⬇️ 503,831 • ❤️ 1,958 • 5d ago
+⬇️ 503,831 • ❤️ 1,967 • 5d ago
 
 ---
 
@@ -439,7 +439,7 @@ ACE-Step 1.5 is an open-source text-to-audio model for commercial-grade music ge
 
 `text-to-audio`
 
-⬇️ 28,713 • ❤️ 490 • 7d ago
+⬇️ 28,713 • ❤️ 493 • 7d ago
 
 ---
 
@@ -451,7 +451,7 @@ Voxtral-Mini-4B-Realtime-2602 is a multilingual, real-time speech-to-text model 
 
 `automatic-speech-recognition`
 
-⬇️ 3,197 • ❤️ 443 • 22h ago
+⬇️ 3,197 • ❤️ 448 • 23h ago
 
 ---
 
@@ -463,7 +463,7 @@ Step 3.5 Flash is an efficient open-source foundation model (11B active params, 
 
 `text-generation` `199.4B`
 
-⬇️ 249,342 • ❤️ 551 • 3d ago
+⬇️ 249,342 • ❤️ 554 • 3d ago
 
 ---
 
@@ -473,7 +473,7 @@ Step 3.5 Flash is an efficient open-source foundation model (11B active params, 
 
 Anima is a 2 billion parameter text-to-image diffusion model specialized in generating anime-style illustrations and artistic images, capable of producing non-photorealistic content. It is optimized for use with ComfyUI and trained on millions of anime and artistic images, with a knowledge cut-off of September 2025.
 
-⬇️ 90,430 • ❤️ 545 • 9d ago
+⬇️ 90,430 • ❤️ 546 • 9d ago
 
 ---
 
@@ -485,7 +485,7 @@ Qwen3-Coder-Next is an 80B parameter LLM optimized for coding agents, featuring 
 
 `text-generation` `79.7B`
 
-⬇️ 218,626 • ❤️ 254 • 5d ago
+⬇️ 218,626 • ❤️ 256 • 5d ago
 
 ---
 
@@ -513,7 +513,7 @@ Intern-S1-Pro is a trillion-scale MoE multimodal scientific reasoning model exce
 
 _paperbanana is an agentic framework that automates the creation of publication-ready academic illustrations using advanced vision-language models and image generation techniques.
 
-▲ 165 • 💬 12 • ⭐ 3,151 • 11d ago
+▲ 166 • 💬 12 • ⭐ 3,151 • 11d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2601.23265) • [💻 code](https://github.com/dwzhu-pku/PaperBanana) • [🔗 project](https://dwzhu-pku.github.io/PaperBanana/)
 
@@ -529,6 +529,20 @@ MiniCPM-V 4.5, a 8B parameter multimodal large language model, achieves high per
 ▲ 53 • 💬 4 • ⭐ 23,638 • 4mo ago
 
 [🎓 arXiv](https://arxiv.org/abs/2509.18154) • [💻 code](https://github.com/OpenBMB/MiniCPM-V)
+
+---
+
+**[QuantaAlpha: An Evolutionary Framework for LLM-Driven Alpha Mining](https://huggingface.co/papers/2602.07085)**
+
+*Jun Han, Shuo Zhang, Wei Li et al. (24 authors)*
+
+🏢 QuantaAlpha
+
+Financial markets are noisy and non-stationary, making alpha mining highly sensitive to noise in backtesting results and sudden market regime shifts. While recent agentic frameworks improve alpha mining automation, they often lack controllable multi-round search and reliable reuse of validated experience. To address these challenges, we propose QuantaAlpha, an evolutionary alpha mining framework that treats each end-to-end mining run as a trajectory and improves factors through trajectory-level mutation and crossover operations. QuantaAlpha localizes suboptimal steps in each trajectory for targeted revision and recombines complementary high-reward segments to reuse effective patterns, enabling structured exploration and refinement across mining iterations. During factor generation, QuantaAlpha enforces semantic consistency across the hypothesis, factor expression, and executable code, while constraining the complexity and redundancy of the generated factor to mitigate crowding. Extensive experiments on the China Securities Index 300 (CSI 300) demonstrate consistent gains over strong baseline models and prior agentic systems. When utilizing GPT-5.2, QuantaAlpha achieves an Information Coefficient (IC) of 0.1501, with an Annualized Rate of Return (ARR) of 27.75% and a Maximum Drawdown (MDD) of 7.98%. Moreover, factors mined on CSI 300 transfer effectively to the China Securities Index 500 (CSI 500) and the Standard & Poor's 500 Index (S&P 500), delivering 160% and 137% cumulative excess return over four years, respectively, which indicates strong robustness of QuantaAlpha under market distribution shifts.
+
+▲ 109 • 💬 1 • ⭐ 63 • 4d ago
+
+[🎓 arXiv](https://arxiv.org/abs/2602.07085) • [💻 code](https://github.com/QuantaAlpha/QuantaAlpha)
 
 ---
 
@@ -588,7 +602,7 @@ The Qwen3-TTS series presents advanced multilingual text-to-speech models with v
 
 Bitnet.cpp enhances edge inference for ternary LLMs using a novel mixed-precision matrix multiplication library, achieving significant speed improvements over baselines.
 
-▲ 7 • 💬 0 • ⭐ 28,287 • 11mo ago
+▲ 7 • 💬 0 • ⭐ 28,331 • 11mo ago
 
 [🎓 arXiv](https://arxiv.org/abs/2502.11880) • [💻 code](https://github.com/microsoft/BitNet/tree/paper)
 
@@ -621,19 +635,6 @@ Agent Lightning is a flexible RL framework for training LLMs in various agents, 
 
 ---
 
-**[Efficient Memory Management for Large Language Model Serving with
-  PagedAttention](https://huggingface.co/papers/2309.06180)**
-
-*Woosuk Kwon, Zhuohan Li, Siyuan Zhuang et al. (9 authors)*
-
-PagedAttention algorithm and vLLM system enhance the throughput of large language models by efficiently managing memory and reducing waste in the key-value cache.
-
-▲ 34 • 💬 1 • ⭐ 69,959 • 29mo ago
-
-[🎓 arXiv](https://arxiv.org/abs/2309.06180) • [💻 code](https://github.com/vllm-project/vllm)
-
----
-
 ---
 
 ## GitHub Repositories: "ai"
@@ -644,7 +645,7 @@ The Ultimate Collection of 700+ Agentic Skills for Claude Code/Antigravity/Curso
 
 `Python` `agentic-skills` `ai-agents` `antigravity` `autonomous-coding` `claude-code`
 
-⭐ 8.2k • 🔱 1.7k • 4h ago
+⭐ 8.2k • 🔱 1.7k • 6h ago
 
 ---
 
@@ -654,7 +655,7 @@ Marketing skills for Claude Code and AI agents. CRO, copywriting, SEO, analytics
 
 `claude` `codex` `marketing`
 
-⭐ 7.1k • 🔱 812 • 6d ago
+⭐ 7.1k • 🔱 816 • 6d ago
 
 ---
 
@@ -662,7 +663,7 @@ Marketing skills for Claude Code and AI agents. CRO, copywriting, SEO, analytics
 
 Elevate your AI research writing, no more tedious polishing ✨ 
 
-⭐ 5.3k • 🔱 406 • 6d ago
+⭐ 5.3k • 🔱 409 • 6d ago
 
 ---
 
@@ -670,7 +671,7 @@ Elevate your AI research writing, no more tedious polishing ✨
 
 Claude Code skill that removes signs of AI-generated writing from text
 
-⭐ 4.5k • 🔱 374 • 18d ago
+⭐ 4.6k • 🔱 374 • 18d ago
 
 ---
 
@@ -680,7 +681,7 @@ PaperBanana: Automating Academic Illustration For AI Scientists
 
 `JavaScript`
 
-⭐ 3.2k • 🔱 152 • 7d ago
+⭐ 3.2k • 🔱 153 • 7d ago
 
 ---
 
@@ -688,7 +689,7 @@ PaperBanana: Automating Academic Illustration For AI Scientists
 
 Humanizer 的汉化版本，Claude Code Skills，旨在消除文本中 AI 生成的痕迹。
 
-⭐ 2.8k • 🔱 268 • 22d ago
+⭐ 2.8k • 🔱 269 • 22d ago
 
 ---
 
@@ -708,7 +709,7 @@ All-in-one AI framework & toolkit for Claude Code & Cursor
 
 `Python` `ai-agent` `ai-coding` `claude-code` `cli` `cursor`
 
-⭐ 2.1k • 🔱 105 • 1d ago
+⭐ 2.1k • 🔱 106 • 1d ago
 
 ---
 
@@ -718,7 +719,7 @@ The visual feedback tool for agents.
 
 `TypeScript` `ai` `design` `tools` `ui`
 
-⭐ 2.1k • 🔱 147 • 20h ago
+⭐ 2.1k • 🔱 147 • 21h ago
 
 ---
 
@@ -728,7 +729,7 @@ Smart LLM router — save 78% on inference costs. 30+ models, one wallet, x402 m
 
 `TypeScript` `ai` `ai-agents` `anthropic` `cost-optimization` `crypto`
 
-⭐ 2.0k • 🔱 198 • 7h ago
+⭐ 2.0k • 🔱 200 • 44m ago
 
 ---
 

@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-02-10T14:42:34.179387+00:00'
+updated: '2026-02-10T16:07:11.570782+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- cryptocurrency
 - videos
-- social
 - news
+- social
+- cryptocurrency
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** February 10, 2026 at 14:42 UTC  
+**Last Updated:** February 10, 2026 at 16:07 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -36,33 +36,33 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Price
 
-### $2,005.36
+### $2,028.98
 
 ---
 
 ## Ethereum Chart
 
-**24h:** -3.5%  
-**7d:** -7.2%  
-**30d:** -35.7%  
-**90d:** -38.5%  
-**1y:** -23.5%  
+**24h:** -5.2%  
+**7d:** -6.0%  
+**30d:** -34.9%  
+**90d:** -37.9%  
+**1y:** -22.7%  
 
 ---
 
 ## Ethereum Market Stats
 
-**Market Cap:** $242.47B
+**Market Cap:** $243.78B
 Rank #2
 
 **Circulating Supply:** 120,692,589 ETH
 No max supply
 
 **All-Time High:** $4,946.05
--59.4%
+-59.2%
 
 **All-Time Low:** $0.43
-+463943.3%
++465687.0%
 
 ---
 
@@ -72,7 +72,7 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-8h ago
+10h ago
 
 ---
 
@@ -80,7 +80,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 I’ve been keeping my ETH on a centralized exchange but want better control and yield without the risks of leaving it on a CEX. My biggest worry is security , I don’t want to lose funds to hacks or platform failures. What are the safest ways to move into staking or DeFi that keep me in control? I’m open to liquid staking, DeFi platforms, or even self-custody methods, as long as it’s secure. I’d prefer to avoid KYC-heavy centralized services altogether. What have you tried recently that felt safe and reliable?
 
-57m ago
+2h ago
 
 ---
 
@@ -96,7 +96,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 In January 2026, DeFi hacks resulted in roughly $86M in losses across multiple protocols. More concerning: 7 separate incidents exceeded $1M each. Most of the exploits were rooted in smart contract vulnerabilities. The pattern feels familiar at this point. Repeated issues, similar bug classes, and preventable failures. The question isn’t whether exploits will continue it’s whether teams are adapting fast enough. Are you building with security as a first principle, or still treating it as a final checklist before launch?
 
-21h ago
+23h ago
 
 ---
 
@@ -104,7 +104,7 @@ In January 2026, DeFi hacks resulted in roughly $86M in losses across multiple p
 
 We’re launching a new service focused on smart contract reviews without the overhead of a full audit. Scope is limited and practical. Logic, exploitability, and protocol level risks. No certification and no audit opinion. To validate the approach, we’re offering a limited number of free focused smart contract security reviews for projects that are code complete and either close to launch or already deployed, in exchange for honest feedback. This is not meant to replace an audit. It’s a short, concrete review focused on protocol logic and exploit paths. Shoot a dm, if you're interested.
 
-21h ago
+23h ago
 
 ---
 
@@ -152,19 +152,27 @@ eth-mempool-monitor subscribes to Ethereum pending transactions over WebSocket, 
 
 ## Google News: "ethereum"
 
-**[Tom Lee’s BitMine Buys More Ethereum Despite $7.5 Billion Unrealized Loss](https://decrypt.co/357468/tom-lees-bitmine-buys-ethereum-7-5-billion-unrealized-loss)**
+**[Vitalik Buterin Calls for Ethereum-Led Alternative to the 'Race for AGI'](https://decrypt.co/357575/vitalik-buterin-ethereum-led-alternative-race-for-agi)**
 
-Publicly traded Ethereum treasury firm BitMine Immersion Technology added to its ETH holdings last week, even as its paper losses grew.
+The Ethereum co-founder has outlined a four-quadrant Ethereum-AI buildout spanning private AI use, agent markets, and governance.
 
-Decrypt • 20h ago
+Decrypt • 9h ago
 
 ---
 
-**[Forget Ethereum, Stablecoins, and XRP -- Here Are Bitcoin's 3 Biggest Trillion-Dollar Competitive Risks](https://www.fool.com/investing/2026/02/10/forget-ethereum-stablecoins-and-xrp-here-are-bitco/)**
+**[Vitalik Buterin sketches near-term vision for Ethereum's role in an AI-driven future](https://www.theblock.co/post/389179/vitalik-buterin-sketches-near-term-vision-for-ethereums-role-in-an-ai-driven-future)**
 
-Investors must look outside the crypto ecosystem to identify Bitcoin's threats.
+Buterin pitched Ethereum as an economic/coordination layer for decentralized, privacy-preserving AI systems rather than a race toward AGI.
 
-The Motley Fool • 3h ago
+The Block • 5h ago
+
+---
+
+**[Vitalik Buterin outlines how Ethereum could play a key role in the future of AI](https://www.coindesk.com/business/2026/02/10/vitalik-buterin-outlines-how-ethereum-could-play-a-key-role-in-the-future-of-ai)**
+
+In a new post on X revisiting ideas he first outlined two years ago, Buterin argues that the push toward artificial general intelligence often resembles the kind of unchecked speed and scale that Ethereum itself was created to challenge.
+
+CoinDesk • 37m ago
 
 ---
 
@@ -172,7 +180,7 @@ The Motley Fool • 3h ago
 
 Ethereum researcher outlines coming upgrade. It will speed up the blockchain and lower a key barrier to entry.  Development is ramping up.
 
-dlnews.com • 2h ago
+dlnews.com • 3h ago
 
 ---
 
@@ -180,7 +188,7 @@ dlnews.com • 2h ago
 
 Vitalik Buterin is arguing against a headlong rush toward AGI, proposing Ethereum as a coordination layer for privacy-preserving, user-controlled AI systems.
 
-unchainedcrypto.com • 2h ago
+unchainedcrypto.com • 3h ago
 
 ---
 
@@ -188,7 +196,7 @@ unchainedcrypto.com • 2h ago
 
 Tom Lee says Ethereum price could rebound sharply, pointing to historical patterns, even as critics question his credibility.
 
-CCN.com • 23h ago
+CCN.com • 1d ago
 
 ---
 
@@ -200,19 +208,19 @@ Yahoo Finance • 1d ago
 
 ---
 
-**[MegaETH debuts mainnet as Ethereum scaling debate heats up](https://www.coindesk.com/tech/2026/02/09/megaeth-debuts-mainnet-as-ethereum-scaling-debate-heats-up)**
-
-The project, which had previously pitched itself as a layer-2 “real-time blockchain,” targeting more than 100,000 transactions per second, would make onchain interactions feel closer to traditional web apps than today’s crypto networks.
-
-CoinDesk • 22h ago
-
----
-
 **[Ethereum Price Set To Break Out Against Bitcoin, But How High Can It Go?](https://www.tradingview.com/news/newsbtc:e0d161f50094b:0-ethereum-price-set-to-break-out-against-bitcoin-but-how-high-can-it-go/)**
 
 The cryptocurrency industry went under intense pressure last week, with Bitcoin and Ethereum leading the crash and multiple cryptocurrencies hitting new multi-month lows. The crash was more pronounced with Bitcoin, though, and the imbalance in selling pressure is quietly shifting the relationship b…
 
 TradingView • 1d ago
+
+---
+
+**[Ethereum and Solana Are Getting Hit Hard. Are These Top Cryptocurrencies Buys on the Dip?](https://www.fool.com/investing/2026/02/07/ethereum-and-solana-are-getting-hit-hard-are-these/)**
+
+Here's why giving up on Ethereum and Solana now would be a mistake.
+
+The Motley Fool • 3d ago
 
 ---
 
@@ -224,15 +232,19 @@ financemagnates.com • 1d ago
 
 ---
 
-**[Most large cryptocurrencies decrease on Ethereum, Sui drops](https://www.marketwatch.com/data-news/most-large-cryptocurrencies-decrease-on-ethereum-sui-drops-952f8893-f4a308af2610?gaa_at=eafs&gaa_n=AWEtsqflCsbi74Rcrz09YOYhPL2rx0fLl0gY-vi-6gpGTZIuXbOUt78LQAPh&gaa_ts=698b4743&gaa_sig=8XlR-n5vtubw2lOYNEOzotDB-ZVP_2vT2tMsSgK8vsZ73EirWJ_HoNTMqM5_THwqTiPPLYXfe1XUuyKoe_6mcw%3D%3D)**
-
-MarketWatch • 23h ago
-
----
-
 ---
 
 ## YouTube Videos: "ethereum"
+
+**[Ethereum Elliott Wave Update – Key Resistance Levels Ahead](https://www.youtube.com/watch?v=KyxrKSbcvUQ)**
+
+This video provides a professional Elliott Wave and technical analysis of Ethereum (ETH), focusing on market structure, major ...
+
+📺 More Crypto Online
+
+👁️ 1K • 👍 140 • 💬 4 • ⏱️ 4:14 • 3h ago
+
+---
 
 **[If You Hold Bitcoin &amp; Ethereum... GET READY! (watch before they delete this) ☝️](https://www.youtube.com/watch?v=RPv313nfVs0)**
 
@@ -240,7 +252,7 @@ If You Hold Crypto... GET READY! (watch before they delete this) ☝️ Become a
 
 📺 Altcoin Daily
 
-👁️ 43K • 👍 3K • 💬 191 • ⏱️ 11:47 • 14h ago
+👁️ 49K • 👍 3K • 💬 193 • ⏱️ 11:47 • 15h ago
 
 ---
 
@@ -250,37 +262,17 @@ Welcome back home Ethereum! This time I think ETH will kick its feet back and st
 
 📺 Benjamin Cowen
 
-👁️ 103K • 👍 6K • 💬 365 • ⏱️ 14:29 • 1d ago
+👁️ 105K • 👍 6K • 💬 373 • ⏱️ 14:29 • 1d ago
 
 ---
 
-**[Ethereum Elliott Wave Update – Key Resistance Levels Ahead](https://www.youtube.com/watch?v=KyxrKSbcvUQ)**
+**[Behind the volatility in crypto: Bitcoin hovering around $69,000, ethereum near $2,000](https://www.youtube.com/watch?v=xCK9MHY6Eh8)**
 
-This video provides a professional Elliott Wave and technical analysis of Ethereum (ETH), focusing on market structure, major ...
+CNBC"s MacKenzie Sigalos joins 'Squawk Box' to discuss the recent bitcoin volatility.
 
-📺 More Crypto Online
+📺 CNBC Television
 
-👁️ 331 • 👍 37 • 💬 3 • ⏱️ 4:14 • 1h ago
-
----
-
-**[Ethereum Elliott Wave Update – Key Resistance Levels Ahead](https://www.youtube.com/watch?v=NpH4uebFFik)**
-
-This video provides a professional Elliott Wave and technical analysis of Ethereum (ETH), focusing on market structure, major ...
-
-📺 More Crypto Online
-
-👁️ 3K • 👍 191 • 💬 6 • ⏱️ 6:04 • 13h ago
-
----
-
-**[WHALES PANIC SELLING ETH!🚨 (Ethereum Price Prediction 2026)](https://www.youtube.com/watch?v=kEi0pDwu8JA)**
-
-ETHEREUM ETH PRICE PREDICTION 2026 Join the Premium Signal Group for trade setups, mentorship & a community ...
-
-📺 Cilinix Crypto
-
-👁️ 126 • 👍 15 • 💬 2 • ⏱️ 5:24 • 5h ago
+👁️ 130 • 👍 3 • ⏱️ 6:36 • 8m ago
 
 ---
 
@@ -290,47 +282,57 @@ BITCOIN & CRYPTO: It's Actually Happening (New Targets)!!! - Bitcoin News Today,
 
 📺 Crypto World
 
-👁️ 8K • 👍 317 • 💬 176 • ⏱️ 17:38 • 15h ago
+👁️ 9K • 👍 327 • 💬 173 • ⏱️ 17:38 • 16h ago
 
 ---
 
-**[&quot;EVERY Crypto Holder Is Missing the BIG PICTURE...&quot; - Cathie Wood](https://www.youtube.com/watch?v=1M1QHE7eyZY)**
-
-Explore FortisX and access a bonus of up to 10% on one deposit using the link below: https://fortisx.fi/kol/savvyfinanceofficial ...
-
-📺 Savvy Finance
-
-👁️ 6K • 👍 238 • 💬 3 • ⏱️ 22:10 • 1d ago
-
----
-
-**[Ethereum Elliott Wave Update – Key Resistance Levels Ahead](https://www.youtube.com/watch?v=RBZ5PvyMpew)**
+**[Ethereum Elliott Wave Update – Key Resistance Levels Ahead](https://www.youtube.com/watch?v=NpH4uebFFik)**
 
 This video provides a professional Elliott Wave and technical analysis of Ethereum (ETH), focusing on market structure, major ...
 
 📺 More Crypto Online
 
-👁️ 3K • 👍 191 • 💬 4 • ⏱️ 4:46 • 1d ago
+👁️ 3K • 👍 191 • 💬 6 • ⏱️ 6:04 • 14h ago
 
 ---
 
-**[Ethereum Elliott Wave Update – Key Resistance Levels Ahead](https://www.youtube.com/watch?v=dkRmzBouZ64)**
+**[ETHEREUM FOUNDER DROPS BOMB!](https://www.youtube.com/watch?v=Qm9OzHTwV1M)**
 
-This video provides a professional Elliott Wave and technical analysis of Ethereum (ETH), focusing on market structure, major ...
+MACRO MARKET ANALYSIS VIDEOS EVERYDAY SINCE 2018 I don't sell anything. I don't have any programs for you to join.
 
-📺 More Crypto Online
+📺 The Cryptoviser
 
-👁️ 3K • 👍 219 • 💬 8 • ⏱️ 5:37 • 1d ago
+👁️ 245 • 👍 43 • 💬 3 • ⏱️ 34:07 • 2h ago
 
 ---
 
-**[Ether -  The Most VOLATILE Substance on Earth!](https://www.youtube.com/watch?v=Aq4_VnhuDRU)**
+**[WHALES PANIC SELLING ETH!🚨 (Ethereum Price Prediction 2026)](https://www.youtube.com/watch?v=kEi0pDwu8JA)**
 
-Patreon: https://www.patreon.com/Thoisoi Attention! This video shows dangerous experiments! Do not repeat the experiments ...
+ETHEREUM ETH PRICE PREDICTION 2026 Join the Premium Signal Group for trade setups, mentorship & a community ...
 
-📺 Thoisoi2 - Chemical Experiments!
+📺 Cilinix Crypto
 
-👁️ 36K • 👍 3K • 💬 379 • ⏱️ 20:04 • 2d ago
+👁️ 192 • 👍 16 • 💬 2 • ⏱️ 5:24 • 6h ago
+
+---
+
+**[Live Crypto Trading | Bitcoin Live Trading Intelligent trader | 10 Feb | #btc #eth #cryptotrading](https://www.youtube.com/watch?v=22O9rydgUdI)**
+
+Account Open From Here - Delta India - (CRYPTO BROKER) https://india.delta.exchange/?code=intelligenttrader After Opening ...
+
+📺 Intelligent Trader
+
+👁️ 4K • 👍 315 • 1h ago
+
+---
+
+**[Crypto Market Crash - BTC &amp; ETH Price Prediction Today | Low Volume Warning | Big Move Coming Soon ?](https://www.youtube.com/watch?v=RNtFJC8GldY)**
+
+Crypto Market Crash - BTC & ETH Price Prediction Today | Low Volume Warning | Big Move Coming Soon ? Premium on ...
+
+📺 Profit First
+
+👁️ 3K • 👍 172 • 💬 29 • ⏱️ 7:10 • 12h ago
 
 ---
 
