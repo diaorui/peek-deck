@@ -3,13 +3,13 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-02-10T09:07:04.973895+00:00'
+updated: '2026-02-10T10:30:47.180018+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- social
 - news
+- social
 - videos
 - cryptocurrency
 ---
@@ -18,7 +18,7 @@ data_types:
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** February 10, 2026 at 09:07 UTC  
+**Last Updated:** February 10, 2026 at 10:30 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -36,33 +36,33 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Price
 
-### $2,026.50
+### $2,019.09
 
 ---
 
 ## Ethereum Chart
 
-**24h:** +0.1%  
-**7d:** -5.7%  
-**30d:** -34.6%  
-**90d:** -37.5%  
-**1y:** -22.2%  
+**24h:** -0.2%  
+**7d:** -6.0%  
+**30d:** -34.9%  
+**90d:** -37.7%  
+**1y:** -22.5%  
 
 ---
 
 ## Ethereum Market Stats
 
-**Market Cap:** $242.26B
+**Market Cap:** $243.57B
 Rank #2
 
 **Circulating Supply:** 120,692,589 ETH
 No max supply
 
 **All-Time High:** $4,946.05
--59.4%
+-59.2%
 
 **All-Time Low:** $0.43
-+463365.9%
++465906.4%
 
 ---
 
@@ -72,7 +72,7 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-3h ago
+4h ago
 
 ---
 
@@ -88,7 +88,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 We’re launching a new service focused on smart contract reviews without the overhead of a full audit. Scope is limited and practical. Logic, exploitability, and protocol level risks. No certification and no audit opinion. To validate the approach, we’re offering a limited number of free focused smart contract security reviews for projects that are code complete and either close to launch or already deployed, in exchange for honest feedback. This is not meant to replace an audit. It’s a short, concrete review focused on protocol logic and exploit paths. Shoot a dm, if you're interested.
 
-16h ago
+17h ago
 
 ---
 
@@ -96,7 +96,7 @@ We’re launching a new service focused on smart contract reviews without the ov
 
 In January 2026, DeFi hacks resulted in roughly $86M in losses across multiple protocols. More concerning: 7 separate incidents exceeded $1M each. Most of the exploits were rooted in smart contract vulnerabilities. The pattern feels familiar at this point. Repeated issues, similar bug classes, and preventable failures. The question isn’t whether exploits will continue it’s whether teams are adapting fast enough. Are you building with security as a first principle, or still treating it as a final checklist before launch?
 
-16h ago
+17h ago
 
 ---
 
@@ -104,7 +104,7 @@ In January 2026, DeFi hacks resulted in roughly $86M in losses across multiple p
 
 This is a compact Ethereum Virtual Machine runtime written in strict C23. Made this for learning purposes. BTW, it has a toy Solidity-like compiler into bytecode and `nano-node` program that "deploys" contracts to local store and gives ability to call them.
 
-🔗 [GitHub](https://github.com/ThirdLetterC/nano-evm) • 19h ago
+🔗 [GitHub](https://github.com/ThirdLetterC/nano-evm) • 20h ago
 
 ---
 
@@ -112,7 +112,7 @@ This is a compact Ethereum Virtual Machine runtime written in strict C23. Made t
 
 I am looking for a stablecoin that, instead of being pegged to a fiat currency, is pegged to a consumer price index, preferably one for prices where I live (Wales, UK), so that it rises with inflation. I don't mind whether it is partly centralised​ or not so long as it is actually censorship-resistent (so, unlike USDT). Should be safe i.e.​ vulnerable to being depegged so not algorithmic. Does this exist? Bonus points if it doesn't use plutocratic token-weighted governance.
 
-19h ago
+20h ago
 
 ---
 
@@ -128,7 +128,7 @@ World News, Stories By EtherWorld, Technical Explainers, Client News & Updates, 
 
 A bug fix turned into a personal comeback story of coding, parenting, and a small contribution to the open-source world.
 
-🔗 [EtherWorld.co](https://etherworld.co/the-bug-of-solving-bugs/) • 19h ago
+🔗 [EtherWorld.co](https://etherworld.co/the-bug-of-solving-bugs/) • 21h ago
 
 ---
 
@@ -160,22 +160,6 @@ Yahoo Finance • 1d ago
 
 ---
 
-**[Tom Lee’s BitMine Buys More Ethereum Despite $7.5 Billion Unrealized Loss](https://decrypt.co/357468/tom-lees-bitmine-buys-ethereum-7-5-billion-unrealized-loss)**
-
-Publicly traded Ethereum treasury firm BitMine Immersion Technology added to its ETH holdings last week, even as its paper losses grew.
-
-Decrypt • 15h ago
-
----
-
-**[Ethereum price outlook: Tom Lee forecasts V-shaped recovery](https://www.tradingview.com/news/invezz:923ebde12094b:0-ethereum-price-outlook-tom-lee-forecasts-v-shaped-recovery/)**
-
-Bitmine Immersion Technologies has significantly bolstered its Ethereum position amid market volatility.As the ETH price dropped amid Bitcoin’s nosedive to $60,000, the crypto treasury company took advantage to acquire over 40,600 of the coin. The move mirrors that of Strategy, which also announced…
-
-TradingView • 17h ago
-
----
-
 **[With Ethereum Shifting Away From Rollups, These 6 Tokens Will Benefit](https://unchainedcrypto.com/ethereum-lets-go-of-the-rollup-story-here-are-the-6-tokens-that-benefit/)**
 
 Vitalik signals a shift away from the rollup-centric roadmap. We break down what it means for ETH, L2 tokens, and which models actually work.
@@ -184,43 +168,11 @@ unchainedcrypto.com • 3d ago
 
 ---
 
-**[Tom Lee Claims Ethereum Could Rebound ‘As Fast As It Fell’ — Even as Critics Push Back](https://www.ccn.com/news/crypto/tom-lee-claims-ethereum-could-rebound-as-fast-as-it-fell-even-as-critics-push-back/)**
+**[Tom Lee: Ethereum ‘V-shaped recovery’ soon as Bitmine buys at $2,000 price](https://www.dlnews.com/articles/markets/tom-lee-says-ethereum-v-shaped-recovery-soon/)**
 
-Tom Lee says Ethereum price could rebound sharply, pointing to historical patterns, even as critics question his credibility.
+Bitmine buys another $80m worth of Ethereum. Tom Lee predicts swift recovery despite over $6.6 billion in unrealised losses.
 
-CCN.com • 18h ago
-
----
-
-**[MegaETH debuts mainnet as Ethereum scaling debate heats up](https://www.coindesk.com/tech/2026/02/09/megaeth-debuts-mainnet-as-ethereum-scaling-debate-heats-up)**
-
-The project, which had previously pitched itself as a layer-2 “real-time blockchain,” targeting more than 100,000 transactions per second, would make onchain interactions feel closer to traditional web apps than today’s crypto networks.
-
-CoinDesk • 16h ago
-
----
-
-**[Ethereum Supply on Exchanges Mirrors 2016 Levels: What Happens Next?](https://www.tradingview.com/news/newsbtc:a2a5344fb094b:0-ethereum-supply-on-exchanges-mirrors-2016-levels-what-happens-next/)**
-
-Ethereum is attempting to stabilize around the $2,000 level as the broader crypto market enters a critical consolidation phase following weeks of heightened volatility. Price action remains fragile, with buyers defending key psychological support while macro uncertainty, liquidity shifts, and persi…
-
-TradingView • 5h ago
-
----
-
-**[ENS Labs scraps Namechain L2, shifts ENSv2 fully to Ethereum mainnet](https://www.theblock.co/post/388932/ens-labs-scraps-namechain-l2-shifts-ensv2-fully-ethereum-mainnet)**
-
-ENS Labs is canceling the launch of the Namechain Layer 2, which began development in 2024 to support the forthcoming ENSv2 update.
-
-The Block • 3d ago
-
----
-
-**[Ethereum and Solana Are Getting Hit Hard. Are These Top Cryptocurrencies Buys on the Dip?](https://www.fool.com/investing/2026/02/07/ethereum-and-solana-are-getting-hit-hard-are-these/)**
-
-Here's why giving up on Ethereum and Solana now would be a mistake.
-
-The Motley Fool • 2d ago
+dlnews.com • 1h ago
 
 ---
 
@@ -228,7 +180,55 @@ The Motley Fool • 2d ago
 
 Ethereum price predictions from Standard Chartered and Citi target $5,400-$7,500 for 2026, but technical analysis shows bearish targets at $1,760-$1,000.
 
-financemagnates.com • 21h ago
+financemagnates.com • 22h ago
+
+---
+
+**[Vitalik Buterin Calls for Ethereum-Led Alternative to the 'Race for AGI'](https://decrypt.co/357575/vitalik-buterin-ethereum-led-alternative-race-for-agi)**
+
+The Ethereum co-founder has outlined a four-quadrant Ethereum-AI buildout spanning private AI use, agent markets, and governance.
+
+Decrypt • 3h ago
+
+---
+
+**[Tom Lee Sees ‘V-Shaped’ Ethereum Price Recovery While BMNR Adds Another 40,000 ETH To Its Coffers](https://stocktwits.com/news-articles/markets/cryptocurrency/bmnr-tom-lee-sees-v-shaped-ethereum-price-recovery-adds-40000-eth/cZbxDzmR4YT)**
+
+Bitmine Immersion Technologies reportedly acquired another 40,000 Ethereum late Monday, following an earlier disclosure of 40,000 ETH added over the past week.
+
+Stocktwits • 4h ago
+
+---
+
+**[MegaETH debuts mainnet as Ethereum scaling debate heats up](https://www.coindesk.com/tech/2026/02/09/megaeth-debuts-mainnet-as-ethereum-scaling-debate-heats-up)**
+
+The project, which had previously pitched itself as a layer-2 “real-time blockchain,” targeting more than 100,000 transactions per second, would make onchain interactions feel closer to traditional web apps than today’s crypto networks.
+
+CoinDesk • 18h ago
+
+---
+
+**[How Buying Ethereum Today Could 10x Your Net Worth](https://www.fool.com/investing/2026/02/05/how-buying-ethereum-today-could-10x-your-net-worth/)**
+
+The world's second-largest cryptocurrency still has a bright future.
+
+The Motley Fool • 4d ago
+
+---
+
+**[Ethereum Price Set To Break Out Against Bitcoin, But How High Can It Go?](https://www.tradingview.com/news/newsbtc:e0d161f50094b:0-ethereum-price-set-to-break-out-against-bitcoin-but-how-high-can-it-go/)**
+
+The cryptocurrency industry went under intense pressure last week, with Bitcoin and Ethereum leading the crash and multiple cryptocurrencies hitting new multi-month lows. The crash was more pronounced with Bitcoin, though, and the imbalance in selling pressure is quietly shifting the relationship b…
+
+TradingView • 20h ago
+
+---
+
+**[Vitalik Buterin Shares Ethereum’s Plan to Achieve Core Network Goals Relevant For ETH Growth](https://zycrypto.com/vitalik-buterin-shares-ethereums-plan-to-achieve-core-network-goals-relevant-for-eth-growth/)**
+
+Ethereum co-founder Vitalik Buterin has outlined two core priorities for the next phase of Ethereum’s development.
+
+ZyCrypto • 2h ago
 
 ---
 
@@ -242,7 +242,7 @@ If You Hold Crypto... GET READY! (watch before they delete this) ☝️ Become a
 
 📺 Altcoin Daily
 
-👁️ 31K • 👍 2K • 💬 183 • ⏱️ 11:47 • 8h ago
+👁️ 38K • 👍 2K • 💬 186 • ⏱️ 11:47 • 10h ago
 
 ---
 
@@ -252,7 +252,7 @@ Welcome back home Ethereum! This time I think ETH will kick its feet back and st
 
 📺 Benjamin Cowen
 
-👁️ 100K • 👍 6K • 💬 362 • ⏱️ 14:29 • 1d ago
+👁️ 101K • 👍 6K • 💬 364 • ⏱️ 14:29 • 1d ago
 
 ---
 
@@ -262,7 +262,7 @@ This video provides a professional Elliott Wave and technical analysis of Ethere
 
 📺 More Crypto Online
 
-👁️ 2K • 👍 155 • 💬 6 • ⏱️ 6:04 • 7h ago
+👁️ 2K • 👍 182 • 💬 6 • ⏱️ 6:04 • 9h ago
 
 ---
 
@@ -272,7 +272,7 @@ BITCOIN & CRYPTO: It's Actually Happening (New Targets)!!! - Bitcoin News Today,
 
 📺 Crypto World
 
-👁️ 7K • 👍 289 • 💬 191 • ⏱️ 17:38 • 9h ago
+👁️ 8K • 👍 307 • 💬 193 • ⏱️ 17:38 • 11h ago
 
 ---
 
@@ -282,7 +282,7 @@ This video provides a professional Elliott Wave and technical analysis of Ethere
 
 📺 More Crypto Online
 
-👁️ 3K • 👍 191 • 💬 4 • ⏱️ 4:46 • 18h ago
+👁️ 3K • 👍 191 • 💬 4 • ⏱️ 4:46 • 20h ago
 
 ---
 
@@ -292,7 +292,17 @@ Explore FortisX and access a bonus of up to 10% on one deposit using the link be
 
 📺 Savvy Finance
 
-👁️ 6K • 👍 233 • 💬 3 • ⏱️ 22:10 • 1d ago
+👁️ 6K • 👍 236 • 💬 3 • ⏱️ 22:10 • 1d ago
+
+---
+
+**[Ethereum Explained for Beginners (How It Really Works)](https://www.youtube.com/watch?v=_JT27HyzTUM)**
+
+Ethereum has evolved beyond its early days. This 2026 update revisits how it works, what's different, and what's in store ahead.
+
+📺 CoinGecko
+
+👁️ 1K • 👍 125 • 💬 34 • ⏱️ 4:15 • 23h ago
 
 ---
 
@@ -302,37 +312,27 @@ SPOTIFY PREMIUM RSS FEED | USE CODE: SPOTIFY24 https://bankless.cc/spotify-premi
 
 📺 Bankless
 
-👁️ 3K • 👍 98 • 💬 61 • ⏱️ 1:22:18 • 21h ago
+👁️ 3K • 👍 101 • 💬 61 • ⏱️ 1:22:18 • 23h ago
 
 ---
 
-**[[LEAKED] ⚠️TOM LEE &quot;THE BOTTOM IS IN FOR BMNR AND ETHEREUM!!&quot; [WATCH NOW] IF YOU OWN BMNR STOCK!⚠️](https://www.youtube.com/watch?v=VHdHoJm_G6E)**
+**[Ether -  The Most VOLATILE Substance on Earth!](https://www.youtube.com/watch?v=Aq4_VnhuDRU)**
 
-Tom Lee discusses recent crypto news and volatility affecting BM&R. This video breaks down his statements and provides ...
+Patreon: https://www.patreon.com/Thoisoi Attention! This video shows dangerous experiments! Do not repeat the experiments ...
 
-📺 Short The Vix
+📺 Thoisoi2 - Chemical Experiments!
 
-👁️ 1K • 👍 64 • 💬 37 • ⏱️ 16:02 • 12h ago
-
----
-
-**[Ethereum is Digital Silver (And Nobody Realizes What&#39;s Coming)](https://www.youtube.com/watch?v=fuq-txi-OfA)**
-
-Ethereum is boring right now. The price is chopping. Sentiment is terrible. Everyone hates it. And that's exactly why it might be the ...
-
-📺 Wall Street Stockcast
-
-👁️ 73 • 👍 3 • 💬 46 • ⏱️ 10:02 • 13h ago
+👁️ 36K • 👍 3K • 💬 376 • ⏱️ 20:04 • 2d ago
 
 ---
 
-**[Ethereum Elliott Wave Update – Key Resistance Levels Ahead](https://www.youtube.com/watch?v=dkRmzBouZ64)**
+**[ETH Ethereum Price Prediction: 9th of February](https://www.youtube.com/watch?v=DnmnNc9z-iw)**
 
-This video provides a professional Elliott Wave and technical analysis of Ethereum (ETH), focusing on market structure, major ...
+Welcome to Czar Gets Crypto! Please note the following: Educational Purposes Only: All content on this channel is for ...
 
-📺 More Crypto Online
+📺 C-Zar Gets Crypto 
 
-👁️ 3K • 👍 220 • 💬 8 • ⏱️ 5:37 • 1d ago
+👁️ 252 • 👍 20 • 💬 26 • ⏱️ 6:20 • 17h ago
 
 ---
 
