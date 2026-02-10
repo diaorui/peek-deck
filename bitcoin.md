@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-02-10T11:30:43.668647+00:00'
+updated: '2026-02-10T13:17:03.323863+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
 - social
-- videos
 - news
 - cryptocurrency
+- videos
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** February 10, 2026 at 11:30 UTC  
+**Last Updated:** February 10, 2026 at 13:17 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,33 +38,33 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $68,939.73
+### $68,499.23
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** -0.2%  
-**7d:** -5.8%  
-**30d:** -24.5%  
-**90d:** -31.0%  
-**1y:** -28.0%  
+**24h:** -1.0%  
+**7d:** -6.3%  
+**30d:** -24.8%  
+**90d:** -31.4%  
+**1y:** -28.4%  
 
 ---
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1382.12B
+**Market Cap:** $1369.45B
 Rank #1
 
-**Circulating Supply:** 19,987,106 BTC
+**Circulating Supply:** 19,987,184 BTC
 95.2% of max
 
 **All-Time High:** $126,080.00
--45.1%
+-45.7%
 
 **All-Time Low:** $67.81
-+101896.8%
++100944.1%
 
 ---
 
@@ -77,19 +77,19 @@ Rank #1
 
 ## Reddit: r/Bitcoin
 
-**[The Irony](https://www.reddit.com/r/Bitcoin/comments/1r0kfp5/the_irony/)**
-
-After hearing all the takes on recent Bitcoin price action, the irony is hard to miss. The goal is still buy low, sell high… right? 😅
-
-11h ago
-
----
-
 **[Btc year #5 update: 1/10m club reached](https://www.reddit.com/r/Bitcoin/comments/1r0qf87/btc_year_5_update_110m_club_reached/)**
 
 Stay humble, stack sats. Not a brag post but something for me to reflect upon each year and look back on the journey
 
-7h ago
+9h ago
+
+---
+
+**[The Irony](https://www.reddit.com/r/Bitcoin/comments/1r0kfp5/the_irony/)**
+
+After hearing all the takes on recent Bitcoin price action, the irony is hard to miss. The goal is still buy low, sell high… right? 😅
+
+13h ago
 
 ---
 
@@ -97,19 +97,13 @@ Stay humble, stack sats. Not a brag post but something for me to reflect upon ea
 
 Only 6.6% of Bitcoin ETF holdings have been sold since last ATH.
 
-🔗 [Yahoo Finance](https://finance.yahoo.com/news/bitcoin-etf-holders-diamond-hands-160516190.html) • 13h ago
+🔗 [Yahoo Finance](https://finance.yahoo.com/news/bitcoin-etf-holders-diamond-hands-160516190.html) • 15h ago
 
 ---
 
 **[Rep Thomas Massie says reading The Bitcoin Standard inspired him to introduce a bill to end the Fed](https://www.reddit.com/r/Bitcoin/comments/1r079d1/rep_thomas_massie_says_reading_the_bitcoin/)**
 
 If you can't afford to buy it, the author is linking to free version: https://x.com/saifedean/status/1541200940124049408#m The audio book is also quite often to be found at YouTube.
-
-19h ago
-
----
-
-**[Many conclusions can be drawn from this image](https://www.reddit.com/r/Bitcoin/comments/1r05auq/many_conclusions_can_be_drawn_from_this_image/)**
 
 21h ago
 
@@ -119,21 +113,19 @@ If you can't afford to buy it, the author is linking to free version: https://x.
 
 Credit: @thepaulosophy Info about the ring: https://bitcoin-ring.com
 
-13h ago
+14h ago
+
+---
+
+**[Many conclusions can be drawn from this image](https://www.reddit.com/r/Bitcoin/comments/1r05auq/many_conclusions_can_be_drawn_from_this_image/)**
+
+23h ago
 
 ---
 
 **[BTC & Sovereign Wealth Funds.](https://www.reddit.com/r/Bitcoin/comments/1r0h0kr/btc_sovereign_wealth_funds/)**
 
 Sovereign funds stacking quietly = regulatory green light incoming... Elephants don’t FOMO. They know the watering hole’s about to open. Larry Fink speaking at the DealBook Summit, December 2025.
-
-14h ago
-
----
-
-**[What Bitcoiners Get Wrong About Retirement](https://www.reddit.com/r/Bitcoin/comments/1r0eccj/what_bitcoiners_get_wrong_about_retirement/)**
-
-The main reason we can know quite well that bitcoin will be worth more in the future than it is worth today is this: If you ask a young person whether they own any gold, they'll probably say no. But if you ask that same person if they own any bitcoin, there's a good chance they'd say yes. Great. Most bitcoiners don't find this new or surprising. But here's what a lot of bitcoin maxis don't understand: The less diversification you have, the more overall wealth you need at retirement to offset the risk your portfolio crashes during the first few years of your retirement. Said differently, if you're super convicted about bitcoin's future and you're trying to stack as many sats as you can every day, you're doing great! But you should also know and appreciate the fact that holding bitcoin as the only asset in your portfolio poses a serious risk to your ability to retire early. This risk is called "Sequence of Returns Risk". What is Sequence of Returns Risk ("SORR")? Put simply, it's the risk that your portfolio crashes early on in your retirement, such that when you withdraw the money you need each year to cover living expenses, you're forced to sell your assets during bear market lows. You really, REALLY don't want to be selling your assets during a market crash. Why? Here's an illustrative example: let's say you retired yesterday with a portfolio equal to $1M and you spend $40k per year. You plan to retire for 30 years - great! Good plan. But then something unexpected happens: your portfolio value plummets by 50% in Year 1 to a new value of $500k. Now, each time you withdraw your $40k needed to cover expenses, you are forced to sell TWICE as much of your assets as you would have been selling during a normal "non-crash" market. Then, when the market rebounds, a much smaller amount of your portfolio is still remaining to benefit from the rebound. The end result: you lose money faster. So what's the lesson? Easy. Don't put all your eggs in one basket. This isn't "weak hands" advice or "boomer" thinking. This is the smart way to invest to give yourself the best chance of retiring successfully so you can minimize the amount of bitcoin you ever have to sell to maintain your lifestyle.
 
 15h ago
 
@@ -143,15 +135,21 @@ The main reason we can know quite well that bitcoin will be worth more in the fu
 
 Please utilize this sticky thread for all general Bitcoin discussions! If you see posts on the front page or /r/Bitcoin/new which are better suited for this daily discussion thread, please help out by directing the OP to this thread instead. Thank you! If you don't get an answer to your question, you can try phrasing it differently or commenting again tomorrow. Please check the previous discussion thread for unanswered questions.
 
-5h ago
+7h ago
 
 ---
 
-**[Usually when you feel down and out it is exactly the right time to buy!](https://www.reddit.com/r/Bitcoin/comments/1r0jvrz/usually_when_you_feel_down_and_out_it_is_exactly/)**
+**[What Bitcoiners Get Wrong About Retirement](https://www.reddit.com/r/Bitcoin/comments/1r0eccj/what_bitcoiners_get_wrong_about_retirement/)**
 
-I added to my long postion on btc. Most of my gains hsve been wiped out from past 4 years. I added. No guarantees but usually when I feel sick is when I should be adding and when we are euphoric things are getting risky. As the old Buffett phrase goes, "Be fearful when others are greedy and greedy when others are fearful!"
+The main reason we can know quite well that bitcoin will be worth more in the future than it is worth today is this: If you ask a young person whether they own any gold, they'll probably say no. But if you ask that same person if they own any bitcoin, there's a good chance they'd say yes. Great. Most bitcoiners don't find this new or surprising. But here's what a lot of bitcoin maxis don't understand: The less diversification you have, the more overall wealth you need at retirement to offset the risk your portfolio crashes during the first few years of your retirement. Said differently, if you're super convicted about bitcoin's future and you're trying to stack as many sats as you can every day, you're doing great! But you should also know and appreciate the fact that holding bitcoin as the only asset in your portfolio poses a serious risk to your ability to retire early. This risk is called "Sequence of Returns Risk". What is Sequence of Returns Risk ("SORR")? Put simply, it's the risk that your portfolio crashes early on in your retirement, such that when you withdraw the money you need each year to cover living expenses, you're forced to sell your assets during bear market lows. You really, REALLY don't want to be selling your assets during a market crash. Why? Here's an illustrative example: let's say you retired yesterday with a portfolio equal to $1M and you spend $40k per year. You plan to retire for 30 years - great! Good plan. But then something unexpected happens: your portfolio value plummets by 50% in Year 1 to a new value of $500k. Now, each time you withdraw your $40k needed to cover expenses, you are forced to sell TWICE as much of your assets as you would have been selling during a normal "non-crash" market. Then, when the market rebounds, a much smaller amount of your portfolio is still remaining to benefit from the rebound. The end result: you lose money faster. So what's the lesson? Easy. Don't put all your eggs in one basket. This isn't "weak hands" advice or "boomer" thinking. This is the smart way to invest to give yourself the best chance of retiring successfully so you can minimize the amount of bitcoin you ever have to sell to maintain your lifestyle.
 
-12h ago
+17h ago
+
+---
+
+**[Don’t t be this guy!](https://www.reddit.com/r/Bitcoin/comments/1r09aze/dont_t_be_this_guy/)**
+
+20h ago
 
 ---
 
@@ -159,11 +157,9 @@ I added to my long postion on btc. Most of my gains hsve been wiped out from pas
 
 ## Google News: "bitcoin"
 
-**[Bitcoin hovers near $70,000 as analyst calls sell-off 'a mere crisis of confidence'](https://finance.yahoo.com/news/bitcoin-hovers-near-70000-as-analyst-calls-sell-off-a-mere-crisis-of-confidence-190028920.html)**
+**[Bitcoin Settles In Near $70,000 After Wild Roller-Coaster Ride](https://www.bloomberg.com/news/articles/2026-02-09/bitcoin-btc-steadies-above-70-000-after-wild-roller-coaster-ride)**
 
-Bernstein analysts still believe bitcoin will set new highs this year, despite the recent sell-off.
-
-Yahoo Finance • 2h ago
+bloomberg.com • 19h ago
 
 ---
 
@@ -171,23 +167,7 @@ Yahoo Finance • 2h ago
 
 Savannah Guthrie and her siblings released a video saying ‘we will pay’.
 
-Fortune • 17h ago
-
----
-
-**[Nancy Guthrie latest: Derrick Callella of Torrance, California arrested for demanding Bitcoin ransom from family](https://abc7.com/post/nancy-guthrie-latest-derrick-callella-california-arrested-demanding-bitcoin-ransom-family/18549247/)**
-
-The man allegedly used an app to create a fake phone number to text the family, according to a federal complaint.
-
-ABC7 Los Angeles • 4d ago
-
----
-
-**[$6M Bitcoin Ransom Wallet For Savannah Guthrie's Mom Reportedly Still Empty As Final Deadline Looms](https://www.yahoo.com/entertainment/celebrity/articles/6m-bitcoin-ransom-wallet-savannah-221040001.html)**
-
-A bitcoin wallet linked to a $6 million ransom for Savannah Guthrie’s missing mother, Nancy Guthrie, remains empty.
-
-Yahoo • 13h ago
+Fortune • 18h ago
 
 ---
 
@@ -197,11 +177,35 @@ bloomberg.com • 1h ago
 
 ---
 
-**[Bitcoin price news: BTC climbs above $70,000 as Bernstein makes bull case](https://www.coindesk.com/markets/2026/02/09/bitcoin-shakes-off-early-decline-returns-to-usd70-000-as-bernstein-reiterates-usd150-000-outlook)**
+**[GoMining Simple Earn Enables Autonomous Bitcoin Yield Accrual via Single-Toggle Integration](https://markets.businessinsider.com/news/currencies/gomining-simple-earn-enables-autonomous-bitcoin-yield-accrual-via-single-toggle-integration-1035807167)**
 
-"What we are experiencing is the weakest bitcoin bear case in its history," wrote Bernstein's Gautam Chhugani.
+Prague, Czech Republic, February 10th, 2026, ChainwireGoMining, the all-in-one Bitcoin ecosystem for mining, earning, and spe...
 
-CoinDesk • 17h ago
+markets.businessinsider.com • 1h ago
+
+---
+
+**[Here comes the great American bitcoin-mining-to-AI pivot](https://www.ft.com/content/8bfdb09a-fbef-47fb-9b2f-ebc8949846e6)**
+
+New kids off the blockchain
+
+Financial Times • 22h ago
+
+---
+
+**[Morgan Stanley says these two stocks will more than double as they pivot from bitcoin to data centers](https://www.cnbc.com/2026/02/09/morgan-stanley-says-these-two-stocks-will-surge-as-they-pivot-to-data-centers.html)**
+
+A pair of bitcoin-linked firms could see their shares skyrocket, even as the flagship crypto retreats, due to their pivot to the data center business.
+
+CNBC • 18h ago
+
+---
+
+**[Bitcoin mining difficulty drops by most since 2021 as miners capitulate](https://www.coindesk.com/markets/2026/02/09/bitcoin-mining-difficulty-drops-by-most-since-2021-as-miners-capitulate)**
+
+Miners are facing significant challenges, with bitcoin revenue per petahash halving from a peak of $70 to $35.
+
+CoinDesk • 1d ago
 
 ---
 
@@ -209,7 +213,7 @@ CoinDesk • 17h ago
 
 Bithumb has apologised for staff error that sent customers 620,000 bitcoins instead of 620,000 Korean won, equivalent to a few hundred US dollars
 
-The Guardian • 7h ago
+The Guardian • 8h ago
 
 ---
 
@@ -221,17 +225,11 @@ BBC • 2d ago
 
 ---
 
-**[A Bitcoin Blunder for the Ages: $40 Billion Accidentally Given Away by Bithumb - WSJ](https://www.wsj.com/finance/currencies/a-bitcoin-blunder-for-the-ages-40-billion-accidentally-given-away-3a207eac?gaa_at=eafs&gaa_n=AWEtsqcIoybFwLcZsLFUwsFzeCFy5kb3z0JIgVgN_xba4fHZxsizc3v0ZXx9&gaa_ts=698b0c37&gaa_sig=EzAKD0xk0BETvzc0ZncbiRC7RnZIhGR3mRz9EGtnDD22cQY4mLSB7rdN7kebBa5rrZNDlZyFpG93g_zRcfzKfg%3D%3D)**
+**[Regulator vows to sue Bithumb users holding ‘unjust‘ Bitcoin after $40bn blunder](https://finance.yahoo.com/news/regulator-vows-sue-bithumb-users-105410426.html)**
 
-The Wall Street Journal • 1h ago
+Exchange is still chasing $9 million worth of unreturned Bitcoin. A Supreme Court ruling from 2021 could hinder legal efforts. The Financial Supervisory Service warns of “catastrophe” for people who don’t return money.
 
----
-
-**[Morgan Stanley says these two stocks will more than double as they pivot from bitcoin to data centers](https://www.cnbc.com/2026/02/09/morgan-stanley-says-these-two-stocks-will-surge-as-they-pivot-to-data-centers.html)**
-
-A pair of bitcoin-linked firms could see their shares skyrocket, even as the flagship crypto retreats, due to their pivot to the data center business.
-
-CNBC • 16h ago
+Yahoo Finance • 2h ago
 
 ---
 
@@ -323,7 +321,17 @@ Watch my free masterclass & get Market Briefs as a bonus: https://briefs.finance
 
 📺 Minority Mindset
 
-👁️ 181K • 👍 6K • 💬 2K • ⏱️ 13:35 • 23h ago
+👁️ 186K • 👍 6K • 💬 2K • ⏱️ 13:35 • 1d ago
+
+---
+
+**[If You Hold Bitcoin &amp; Ethereum... GET READY! (watch before they delete this) ☝️](https://www.youtube.com/watch?v=RPv313nfVs0)**
+
+If You Hold Crypto... GET READY! (watch before they delete this) ☝️ Become a channel member & get access to perks: ...
+
+📺 Altcoin Daily
+
+👁️ 43K • 👍 3K • 💬 191 • ⏱️ 11:47 • 12h ago
 
 ---
 
@@ -333,27 +341,27 @@ CNBC's MacKenzie Sigalos reports on trends in bitcoin.
 
 📺 CNBC Television
 
-👁️ 6K • 👍 62 • 💬 109 • ⏱️ 2:23 • 7h ago
+👁️ 9K • 👍 92 • 💬 111 • ⏱️ 2:23 • 9h ago
 
 ---
 
-**[🔥Crypto ENDGAME Sooner than you Think👀](https://www.youtube.com/watch?v=e6so8YUJ6sM)**
+**[&quot;Now We Know Why BlackRock Crashed Bitcoin On Purpose&quot; - Mike Novogratz Update](https://www.youtube.com/watch?v=3R7XDbA8p54)**
 
-China dumping dollars can trigger a global risk‑off, crushing crypto short term; With the Feb.10th CLARITY Act looming, a harsh ...
+"Now We Know Why BlackRock Crashed Bitcoin On Purpose" - Mike Novogratz Update Mike Novogratz, CEO of Galaxy Digital, ...
 
-📺 Paul Barron Network
+📺 Money Talks
 
-👁️ 99K • 👍 5K • 💬 521 • ⏱️ 28:19 • 14h ago
+👁️ 15K • 👍 216 • 💬 61 • ⏱️ 11:09 • 1d ago
 
 ---
 
-**[Bitcoin’s Largest Drop Ever? What Most People Missed](https://www.youtube.com/watch?v=sFDHx_I34TU)**
+**[Did the FED and Treasury Just Trigger a Bitcoin Repricing?!](https://www.youtube.com/watch?v=5w1RAhGNWww)**
 
-Bitcoin just experienced the largest real-dollar drawdown in its history — and the reaction revealed more than the price ever could ...
+The Fed and Treasury are backing themselves into a corner and the only escape is printing. Yield curve control, inflation, and a ...
 
-📺 Swan Bitcoin
+📺 Simply Bitcoin
 
-👁️ 10K • 👍 362 • 💬 105 • ⏱️ 20:31 • 15h ago
+👁️ 26K • 👍 2K • 💬 293 • ⏱️ 17:50 • 13h ago
 
 ---
 
@@ -367,33 +375,23 @@ Mark Yusko Crypto Prediction's 2026 Follow: https://x.com/MarkYusko LIMITED TIME
 
 ---
 
-**[&quot;Now We Know Why BlackRock Crashed Bitcoin On Purpose&quot; - Mike Novogratz Update](https://www.youtube.com/watch?v=3R7XDbA8p54)**
+**[THEY JUST SOLD A TON OF BITCOIN](https://www.youtube.com/watch?v=CL4rI0AkPms)**
 
-"Now We Know Why BlackRock Crashed Bitcoin On Purpose" - Mike Novogratz Update Mike Novogratz, CEO of Galaxy Digital, ...
+CHECK OUT MY LINKTREE FOR EXCHANGES I USE, BONUSES, FREE VIDEOS, AND MORE! https://linktr.ee/Myfinancialfriend I ...
 
-📺 Money Talks
+📺 My Financial Friend
 
-👁️ 15K • 👍 214 • 💬 60 • ⏱️ 11:09 • 1d ago
-
----
-
-**[Cathie Wood: &quot;Everyone Is So WRONG About Bitcoin Crash&quot;](https://www.youtube.com/watch?v=ru5AW3FWa5o)**
-
-Cathie Wood, CEO of ARK Invest, just dropped a bombshell about Bitcoin's crash to $60000. While everyone is panic selling, she ...
-
-📺 Money Talks
-
-👁️ 2K • 👍 55 • 💬 32 • ⏱️ 12:18 • 16h ago
+👁️ 13K • 👍 555 • 💬 77 • ⏱️ 16:35 • 20h ago
 
 ---
 
-**[Why Did Bitcoin Crash, and When Will Crypto Recover?](https://www.youtube.com/watch?v=4qILrp6znyA)**
+**[🔥Crypto ENDGAME Sooner than you Think👀](https://www.youtube.com/watch?v=e6so8YUJ6sM)**
 
-Bitcoin tumbled below $61000, as the unwinding of leveraged bets and broader market turbulence deepened a selloff that has ...
+China dumping dollars can trigger a global risk‑off, crushing crypto short term; With the Feb.10th CLARITY Act looming, a harsh ...
 
-📺 Bloomberg News
+📺 Paul Barron Network
 
-👁️ 13K • 👍 157 • 💬 16 • ⏱️ 1:11 • 1d ago
+👁️ 106K • 👍 5K • 💬 532 • ⏱️ 28:19 • 16h ago
 
 ---
 
@@ -403,17 +401,17 @@ Anthony Scaramucci is the founder and managing partner of SkyBridge, a global al
 
 📺 Anthony Scaramucci
 
-👁️ 19K • 👍 632 • 💬 57 • ⏱️ 1:13 • 16h ago
+👁️ 20K • 👍 729 • 💬 63 • ⏱️ 1:13 • 18h ago
 
 ---
 
-**[🚨Bitcoin Could Hit ZERO! (FINANCIAL TIMES)](https://www.youtube.com/watch?v=R-vPj0NCQ-g)**
+**[Bitcoin: A Realistic Price Prediction For 2026](https://www.youtube.com/watch?v=dpgmSrlI9HM)**
 
-Breaking crypto news: The Financial Times warns bitcoin could hit ZERO—what this means for the crypto market and altcoins is ...
+Mark Yusko Crypto Prediction's 2026 Follow: https://x.com/MarkYusko LIMITED TIME: ✓ Bitunix (no kyc, $10k bonus): ...
 
-📺 Discover Crypto
+📺 Altcoin Daily
 
-👁️ 5K • 👍 106 • ⏱️ 0:36 • 9h ago
+👁️ 21K • 👍 482 • 💬 66 • ⏱️ 1:10 • 17h ago
 
 ---
 
