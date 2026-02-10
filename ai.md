@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-02-10T19:06:20.503689+00:00'
+updated: '2026-02-10T20:08:11.438757+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- repositories
-- videos
 - social
 - news
+- repositories
+- videos
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** February 10, 2026 at 19:06 UTC  
+**Last Updated:** February 10, 2026 at 20:08 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -37,19 +37,19 @@ AI news, discussions, and developments
 
 ## Reddit: r/artificial
 
-**[I built the world's first Chrome extension that runs LLMs entirely in-browser—WebGPU, Transformers.js, and Chrome's Prompt API](https://www.reddit.com/r/artificial/comments/1r0v8x6/i_built_the_worlds_first_chrome_extension_that/)**
-
-There are plenty of WebGPU demos out there, but I wanted to ship something people could actually use day-to-day. It runs Llama 3.2, DeepSeek-R1, Qwen3, Mistral, Gemma, Phi, SmolLM2—all locally in Chrome. Three inference backends: WebLLM (MLC/WebGPU) Transformers.js (ONNX) Chrome's built-in Prompt API (Gemini Nano—zero download) No Ollama, no servers, no subscriptions. Models cache in IndexedDB. Works offline. Conversations stored locally—export or delete anytime. Free: https://noaibills.app/?utm_source=reddit&utm_medium=social&utm_campaign=launch_artificial I'm not claiming it replaces GPT-4. But for the 80% of tasks—drafts, summaries, quick coding questions—a 3B parameter model running locally is plenty. Not positioned as a cloud LLM replacement—it's for local inference on basic text tasks (writing, communication, drafts) with zero internet dependency, no API costs, and complete privacy. Core fit: organizations with data restrictions that block cloud AI and can't install desktop tools like Ollama/LMStudio. For quick drafts, grammar checks, and basic reasoning without budget or setup barriers. Need real-time knowledge or complex reasoning? Use cloud models. This serves a different niche—**not every problem needs a sledgehammer** 😄. Would love feedback from this community 🙌.
-
-10h ago
-
----
-
 **['A second set of eyes': AI-supported breast cancer screening spots more cancers earlier, landmark trial finds](https://www.reddit.com/r/artificial/comments/1r0htud/a_second_set_of_eyes_aisupported_breast_cancer/)**
 
 A clinical trial shows that AI-assisted mammography can detect more cases of dangerous cancer and reduce missed diagnoses.
 
-🔗 [Live Science](https://www.livescience.com/health/cancer/a-second-set-of-eyes-ai-supported-breast-cancer-screening-spots-more-cancers-earlier-landmark-trial-finds) • 21h ago
+🔗 [Live Science](https://www.livescience.com/health/cancer/a-second-set-of-eyes-ai-supported-breast-cancer-screening-spots-more-cancers-earlier-landmark-trial-finds) • 22h ago
+
+---
+
+**[I built the world's first Chrome extension that runs LLMs entirely in-browser—WebGPU, Transformers.js, and Chrome's Prompt API](https://www.reddit.com/r/artificial/comments/1r0v8x6/i_built_the_worlds_first_chrome_extension_that/)**
+
+There are plenty of WebGPU demos out there, but I wanted to ship something people could actually use day-to-day. It runs Llama 3.2, DeepSeek-R1, Qwen3, Mistral, Gemma, Phi, SmolLM2—all locally in Chrome. Three inference backends: WebLLM (MLC/WebGPU) Transformers.js (ONNX) Chrome's built-in Prompt API (Gemini Nano—zero download) No Ollama, no servers, no subscriptions. Models cache in IndexedDB. Works offline. Conversations stored locally—export or delete anytime. Free: https://noaibills.app/?utm_source=reddit&utm_medium=social&utm_campaign=launch_artificial I'm not claiming it replaces GPT-4. But for the 80% of tasks—drafts, summaries, quick coding questions—a 3B parameter model running locally is plenty. Not positioned as a cloud LLM replacement—it's for local inference on basic text tasks (writing, communication, drafts) with zero internet dependency, no API costs, and complete privacy. Core fit: organizations with data restrictions that block cloud AI and can't install desktop tools like Ollama/LMStudio. For quick drafts, grammar checks, and basic reasoning without budget or setup barriers. Need real-time knowledge or complex reasoning? Use cloud models. This serves a different niche—**not every problem needs a sledgehammer** 😄. Would love feedback from this community 🙌.
+
+11h ago
 
 ---
 
@@ -57,7 +57,7 @@ A clinical trial shows that AI-assisted mammography can detect more cases of dan
 
 /PRNewswire/ -- Kling AI, the AI-powered creative platform, today announced the launch of its Kling 3.0 models — including Video 3.0, Video 3.0 Omni, Image 3.0...
 
-🔗 [prnewswire.com](https://www.prnewswire.com/news-releases/kling-ai-launches-3-0-model-ushering-in-an-era-where-everyone-can-be-a-director-302679944.html) • 8h ago
+🔗 [prnewswire.com](https://www.prnewswire.com/news-releases/kling-ai-launches-3-0-model-ushering-in-an-era-where-everyone-can-be-a-director-302679944.html) • 10h ago
 
 ---
 
@@ -65,7 +65,7 @@ A clinical trial shows that AI-assisted mammography can detect more cases of dan
 
 Current AI systems are dangerously overconfident. They'll classify anything you give them, even if they've never seen anything like it before. I've been working on STLE (Set Theoretic Learning Environment) to address this by explicitly modeling what AI doesn't know. How It Works: STLE represents knowledge and ignorance as complementary fuzzy sets: - μ_x (accessibility): How familiar is this data? - μ_y (inaccessibility): How unfamiliar is this? - Constraint: μ_x + μ_y = 1 (always) This lets the AI explicitly say "I'm only 40% sure about this" and defer to humans. Real-World Applications: - Medical Diagnosis: "I'm 40% confident this is cancer" → defer to specialist - Autonomous Vehicles: Don't act on unfamiliar scenarios (low μ_x) - Education: Identify what students are partially understanding (frontier detection) - Finance: Flag unusual transactions for human review Results: - Out-of-distribution detection: 67% accuracy without any OOD training - Mathematically guaranteed complementarity - Extremely fast (< 1ms inference) Open Source: https://github.com/strangehospital/Frontier-Dynamics-Project The code includes: - Two implementations (simple NumPy, advanced PyTorch) - Complete documentation - Visualizations - 5 validation experiments This is proof-of-concept level, but I wanted to share it with the community. Feedback and collaboration welcome! What applications do you think this could help with? The Sky Project | strangehospital | Substack
 
-🔗 [GitHub](https://github.com/strangehospital/Frontier-Dynamics-Project) • 19h ago
+🔗 [GitHub](https://github.com/strangehospital/Frontier-Dynamics-Project) • 20h ago
 
 ---
 
@@ -131,21 +131,15 @@ Harvard Business Review • 1d ago
 
 Because employees could do more, work began bleeding into lunch breaks and late evenings. The employees' to-do lists expanded to fill every hour that AI freed up, and then kept going.
 
-TechCrunch • 12h ago
+TechCrunch • 13h ago
 
 ---
 
-**[In the workforce, AI is having the opposite effect it was supposed to, UC Berkeley researchers warn](https://fortune.com/2026/02/10/ai-future-of-work-white-collar-employees-technology-productivity-burnout-research-uc-berkeley/)**
+**[US companies accused of ‘AI washing’ in citing artificial intelligence for job losses](https://www.theguardian.com/us-news/2026/feb/08/ai-washing-job-losses-artificial-intelligence)**
 
-Nonstop productivity may come at the cost of rest and work quality, the study found.
+While AI is having an impact on the workplace, experts suggest tariffs, overhiring during the pandemic and simply maximising profits may be bigger factors
 
-Fortune • 47m ago
-
----
-
-**[As AI enters the operating room, reports arise of botched surgeries and misidentified body parts](https://www.reuters.com/investigations/ai-enters-operating-room-reports-arise-botched-surgeries-misidentified-body-2026-02-09/)**
-
-Reuters • 1d ago
+The Guardian • 2d ago
 
 ---
 
@@ -153,37 +147,37 @@ Reuters • 1d ago
 
 Does anyone have a plan for what happens next?
 
-The Atlantic • 8h ago
+The Atlantic • 9h ago
 
 ---
 
-**[Alphabet calls out new AI-related risks, as it taps debt market to fund build-out](https://www.cnbc.com/2026/02/09/alphabet-highlights-new-ai-related-risks-in-tapping-debt-market.html)**
+**[Wealth Manager Stocks Sink as New AI Tool Sparks Disruption Fear](https://www.bloomberg.com/news/articles/2026-02-10/wealth-manager-stocks-sink-as-new-ai-tool-sparks-disruption-fear)**
 
-In Alphabet's annual report, the company said AI poses business risks, including its potential impact on advertising.
-
-CNBC • 21h ago
+Bloomberg • 1h ago
 
 ---
 
-**[Alphabet to sell rare 100-year bond to fund AI expansion, bookrunner memo shows](https://www.reuters.com/business/alphabet-sells-bonds-worth-20-billion-fund-ai-spending-2026-02-10/)**
+**[The AI threat wrecked software stocks. Now financial stocks look next with LPL down 11%](https://www.cnbc.com/2026/02/10/the-ai-threat-wrecked-software-stocks-now-broker-stocks-look-next-with-lpl-down-11percent.html)**
 
-Reuters • 7h ago
+Financial services firms tanked after the launch of a new AI-powered tax planning tool that promises to do the work "within minutes."
 
----
-
-**[Alphabet sells bonds worth $20 billion to fund AI spending, including rare 100-year bond](https://www.jpost.com/business-and-innovation/all-news/article-886216)**
-
-Issuing a 110-year bond would represent the tech industry's first instance since Motorola did the same in 1997.
-
-The Jerusalem Post • 5h ago
+CNBC • 57m ago
 
 ---
 
-**[“Everyone Is Overworked and Afraid of Losing Their Job”: Autodesk VP on the Future of AI](https://www.hollywoodreporter.com/business/digital/autodesk-vp-ai-future-technology-hollywood-1236501420/)**
+**[US brokerage shares slide in latest sell-off driven by new AI tool](https://www.ft.com/content/1c63983f-5ff0-4b70-ad55-7e4334f59422)**
 
-Matt Sivertson sat down with The Hollywood Reporter at Sundance to talk about how AI and other emerging technologies can boost the efficiency of artists’ work without erasing their human footprint.
+Schwab and ETrade parent Morgan Stanley among those hit on worries about tax-planning platform
 
-The Hollywood Reporter • 56m ago
+Financial Times • 48m ago
+
+---
+
+**[OpenAI appears to have violated California’s AI safety law with latest model release, watchdog claims](https://fortune.com/2026/02/10/openai-violated-californias-ai-safety-law-gpt-5-3-codex-ai-model-watchdog-claims/)**
+
+The company's newest AI model triggered its own "high" risk classification—but critics say OpenAI didn't follow through on the safety measures it promised.
+
+Fortune • 21m ago
 
 ---
 
@@ -191,7 +185,13 @@ The Hollywood Reporter • 56m ago
 
 Office of Personnel Management Director Scott Kupor joins 'Varney & Co.' to discuss President Donald Trump's plan to expand AI throughout government.
 
-Fox Business • 41m ago
+Fox Business • 1h ago
+
+---
+
+**[A.I. Is Making Doctors Answer a Question: What Are They Really Good For?](https://www.nytimes.com/2026/02/09/health/ai-chatbots-doctors-medicine.html)**
+
+The New York Times • 1d ago
 
 ---
 
@@ -203,7 +203,7 @@ Fox Business • 41m ago
 
 AI handles writing code but leaves the hard work: investigation, context, validation. Why vibe coding has limits and AI assistance can backfire.
 
-⬆️ 519 • 💬 357 • 1d ago • [blundergoat.com](https://www.blundergoat.com/articles/ai-makes-the-easy-part-easier-and-the-hard-part-harder)
+⬆️ 519 • 💬 358 • 1d ago • [blundergoat.com](https://www.blundergoat.com/articles/ai-makes-the-easy-part-easier-and-the-hard-part-harder)
 
 ---
 
@@ -211,7 +211,7 @@ AI handles writing code but leaves the hard work: investigation, context, valida
 
 As autonomous AI agents are increasingly deployed in high-stakes environments, ensuring their safety and alignment with human values has become a paramount concern. Current safety benchmarks primarily evaluate whether agents refuse explicitly harmful instructions or whether they can maintain procedural compliance in complex tasks. However, there is a lack of benchmarks designed to capture emergent forms of outcome-driven constraint violations, which arise when agents pursue goal optimization under strong performance incentives while deprioritizing ethical, legal, or safety constraints over multiple steps in realistic production settings. To address this gap, we introduce a new benchmark comprising 40 distinct scenarios. Each scenario presents a task that requires multi-step actions, and the agent's performance is tied to a specific Key Performance Indicator (KPI). Each scenario features Mandated (instruction-commanded) and Incentivized (KPI-pressure-driven) variations to distinguish between obedience and emergent misalignment. Across 12 state-of-the-art large language models, we observe outcome-driven constraint violations ranging from 1.3% to 71.4%, with 9 of the 12 evaluated models exhibiting misalignment rates between 30% and 50%. Strikingly, we find that superior reasoning capability does not inherently ensure safety; for instance, Gemini-3-Pro-Preview, one of the most capable models evaluated, exhibits the highest violation rate at 71.4%, frequently escalating to severe misconduct to satisfy KPIs. Furthermore, we observe significant "deliberative misalignment", where the models that power the agents recognize their actions as unethical during separate evaluation. These results emphasize the critical need for more realistic agentic-safety training before deployment to mitigate their risks in the real world.
 
-⬆️ 485 • 💬 318 • 15h ago • [arXiv.org](https://arxiv.org/abs/2512.20798)
+⬆️ 502 • 💬 324 • 16h ago • [arXiv.org](https://arxiv.org/abs/2512.20798)
 
 ---
 
@@ -219,7 +219,7 @@ As autonomous AI agents are increasingly deployed in high-stakes environments, e
 
 You're using AI to be more productive. So why are you more exhausted than ever? The paradox every engineer needs to confront.
 
-⬆️ 455 • 💬 313 • 2d ago • [Siddhant Khare](https://siddhantkhare.com/writing/ai-fatigue-is-real)
+⬆️ 456 • 💬 313 • 2d ago • [Siddhant Khare](https://siddhantkhare.com/writing/ai-fatigue-is-real)
 
 ---
 
@@ -227,7 +227,7 @@ You're using AI to be more productive. So why are you more exhausted than ever? 
 
 Contribute to localgpt-app/localgpt development by creating an account on GitHub.
 
-⬆️ 325 • 💬 155 • 2d ago • [GitHub](https://github.com/localgpt-app/localgpt)
+⬆️ 327 • 💬 155 • 2d ago • [GitHub](https://github.com/localgpt-app/localgpt)
 
 ---
 
@@ -243,7 +243,7 @@ Taiwan’s TSMC, the world’s largest contract computer chip maker, has announc
 
 Aruna Ranganathan and Xingqi Maggie Ye from Berkeley Haas School of Business report initial findings in the HBR from their April to December 2025 study of 200 employees at a …
 
-⬆️ 236 • 💬 263 • 13h ago • [Simon Willison’s Weblog](https://simonwillison.net/2026/Feb/9/ai-intensifies-work/)
+⬆️ 237 • 💬 268 • 14h ago • [Simon Willison’s Weblog](https://simonwillison.net/2026/Feb/9/ai-intensifies-work/)
 
 ---
 
@@ -259,7 +259,7 @@ One of the promises of AI is that it can reduce workloads so employees can focus
 
 Ring’s AI-powered network is likely to be used in its partnerships with law enforcement and agencies like ICE.
 
-⬆️ 191 • 💬 139 • 22h ago • [Truthout](https://truthout.org/articles/super-bowl-ad-for-ring-cameras-touted-ai-surveillance-network/)
+⬆️ 191 • 💬 142 • 23h ago • [Truthout](https://truthout.org/articles/super-bowl-ad-for-ring-cameras-touted-ai-surveillance-network/)
 
 ---
 
@@ -271,11 +271,11 @@ Matchlock secures AI agent workloads with a Linux-based sandbox. - jingkaihe/mat
 
 ---
 
-**[Ex-GitHub CEO Launches a New Developer Platform for AI Agents](https://news.ycombinator.com/item?id=46961345)**
+**[Ex-GitHub CEO launches a new developer platform for AI agents](https://news.ycombinator.com/item?id=46961345)**
 
 Announcing Entire with $60 million seed round and shipping our first product, called Checkpoints.
 
-⬆️ 93 • 💬 78 • 3h ago • [entire.io](https://entire.io/blog/hello-entire-world/)
+⬆️ 110 • 💬 92 • 4h ago • [entire.io](https://entire.io/blog/hello-entire-world/)
 
 ---
 
@@ -289,7 +289,7 @@ OpenAI's new device, spearheaded by designer Jony Ive, was just leaked! The ad f
 
 📺 Matthew Berman
 
-👁️ 27K • 👍 788 • 💬 224 • ⏱️ 7:31 • 18h ago
+👁️ 27K • 👍 788 • 💬 224 • ⏱️ 7:31 • 19h ago
 
 ---
 
@@ -299,7 +299,7 @@ A massive AI shift is unfolding behind the scenes. Reports and leaks suggest Ope
 
 📺 AI Revolution
 
-👁️ 20K • 👍 586 • 💬 59 • ⏱️ 15:41 • 19h ago
+👁️ 20K • 👍 586 • 💬 59 • ⏱️ 15:41 • 20h ago
 
 ---
 
@@ -327,7 +327,7 @@ Thanks to our LMG clips sponsors dbrand and Razer. You can check them out at the
 
 📺 LMG Clips
 
-👁️ 46K • 👍 2K • 💬 407 • ⏱️ 19:49 • 19h ago
+👁️ 46K • 👍 2K • 💬 407 • ⏱️ 19:49 • 20h ago
 
 ---
 
@@ -337,7 +337,7 @@ ByteDance just changed the game. One week after Kling 3.0 set the benchmark, See
 
 📺 Theoretically Media
 
-👁️ 63K • 👍 3K • 💬 398 • ⏱️ 17:08 • 22h ago
+👁️ 63K • 👍 3K • 💬 398 • ⏱️ 17:08 • 23h ago
 
 ---
 
@@ -367,7 +367,7 @@ DELHI TENT SIZE BIGGEST SAMOSA #ytshorts #shorts #ai #funny #food This video is 
 
 📺 Void Story AI
 
-👁️ 41K • 💬 10 • ⏱️ 0:10 • 14h ago
+👁️ 41K • 💬 10 • ⏱️ 0:10 • 15h ago
 
 ---
 
@@ -417,7 +417,7 @@ MiniCPM-o 4.5 is a 9B parameter multimodal LLM excelling in vision, speech, and 
 
 `any-to-any` `9.4B`
 
-⬇️ 30,396 • ❤️ 738 • 9h ago
+⬇️ 30,396 • ❤️ 738 • 10h ago
 
 ---
 
@@ -649,7 +649,7 @@ The Ultimate Collection of 700+ Agentic Skills for Claude Code/Antigravity/Curso
 
 `Python` `agentic-skills` `ai-agents` `antigravity` `autonomous-coding` `claude-code`
 
-⭐ 8.3k • 🔱 1.7k • 9h ago
+⭐ 8.3k • 🔱 1.7k • 10h ago
 
 ---
 
@@ -733,7 +733,7 @@ Smart LLM router — save 78% on inference costs. 30+ models, one wallet, x402 m
 
 `TypeScript` `ai` `ai-agents` `anthropic` `cost-optimization` `crypto`
 
-⭐ 2.0k • 🔱 201 • 3h ago
+⭐ 2.0k • 🔱 201 • 4h ago
 
 ---
 

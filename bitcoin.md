@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-02-10T19:06:20.511964+00:00'
+updated: '2026-02-10T20:08:11.447092+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- cryptocurrency
-- videos
 - social
+- cryptocurrency
 - news
+- videos
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** February 10, 2026 at 19:06 UTC  
+**Last Updated:** February 10, 2026 at 20:08 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,17 +38,17 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $68,947.55
+### $69,186.55
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** -2.9%  
-**7d:** -6.0%  
-**30d:** -24.6%  
-**90d:** -31.2%  
-**1y:** -28.2%  
+**24h:** -1.9%  
+**7d:** -5.6%  
+**30d:** -24.3%  
+**90d:** -30.9%  
+**1y:** -27.9%  
 
 ---
 
@@ -81,7 +81,7 @@ Rank #1
 
 "The United States is becoming the Crypto Capital of the world"
 
-2h ago
+3h ago
 
 ---
 
@@ -89,15 +89,7 @@ Rank #1
 
 After hearing all the takes on recent Bitcoin price action, the irony is hard to miss. The goal is still buy low, sell high… right? 😅
 
-19h ago
-
----
-
-**[Bitcoin’s true value is locked behind exchange walls and it’s time to set it free](https://www.reddit.com/r/Bitcoin/comments/1r13maj/bitcoins_true_value_is_locked_behind_exchange/)**
-
-Every BTC we move into cold storage is one less coin available for exchanges to lend to shorters or use to suppress the price. We’ve seen exchange reserves hitting lows, and we know what happens next is the supply shock.Move your stack to a hardware wallet. Not only do you truly own your wealth, but you also force the market to reflect Bitcoin's true scarcity. Stop being a liquidity provider for the people betting against you. Withdraw. Verify. HODL.
-
-3h ago
+20h ago
 
 ---
 
@@ -105,13 +97,21 @@ Every BTC we move into cold storage is one less coin available for exchanges to 
 
 "Both Bitcoin and Stablecoins will be the money for all of these AI Agents"
 
-3h ago
+4h ago
+
+---
+
+**[Bitcoin’s true value is locked behind exchange walls and it’s time to set it free](https://www.reddit.com/r/Bitcoin/comments/1r13maj/bitcoins_true_value_is_locked_behind_exchange/)**
+
+Every BTC we move into cold storage is one less coin available for exchanges to lend to shorters or use to suppress the price. We’ve seen exchange reserves hitting lows, and we know what happens next is the supply shock.Move your stack to a hardware wallet. Not only do you truly own your wealth, but you also force the market to reflect Bitcoin's true scarcity. Stop being a liquidity provider for the people betting against you. Withdraw. Verify. HODL.
+
+4h ago
 
 ---
 
 **["If bitcoin continues to exist, I have yet to hear any intelligent counterargument as to why it would NOT become the world’s money." - Robert Breedlove](https://www.reddit.com/r/Bitcoin/comments/1r177pu/if_bitcoin_continues_to_exist_i_have_yet_to_hear/)**
 
-1h ago
+2h ago
 
 ---
 
@@ -119,21 +119,27 @@ Every BTC we move into cold storage is one less coin available for exchanges to 
 
 Stay humble, stack sats. Not a brag post but something for me to reflect upon each year and look back on the journey
 
-15h ago
+16h ago
+
+---
+
+**[We're soooo back!](https://www.reddit.com/r/Bitcoin/comments/1r1aof2/were_soooo_back/)**
+
+32m ago
+
+---
+
+**[Were you excited to buy at $100k+ but scared to buy at $69k?](https://www.reddit.com/r/Bitcoin/comments/1r18tql/were_you_excited_to_buy_at_100k_but_scared_to_buy/)**
+
+The best medicine for lack of conviction is education. Once you decide for yourself that Bitcoin is more than "number go up" technology, you can develop the diamond hands required for its volatilty. The value and tenants of Bitcoin won't immediately be expressed in upward price movement. The reason to hold Bitcoin come from what it may become 10+ years from now. Like Warren Buffet would say, the markets are the only place where when something you want goes on sell, you run out of the store.
+
+1h ago
 
 ---
 
 **[The next Fed chair Kevin Warsh, talking about Bitcoin in the past](https://www.reddit.com/r/Bitcoin/comments/1r13hjw/the_next_fed_chair_kevin_warsh_talking_about/)**
 
-3h ago
-
----
-
-**[Bitcoin ETF Holders Have Diamond Hands Despite 44% BTC Crash](https://www.reddit.com/r/Bitcoin/comments/1r0hhxa/bitcoin_etf_holders_have_diamond_hands_despite_44/)**
-
-Only 6.6% of Bitcoin ETF holdings have been sold since last ATH.
-
-🔗 [Yahoo Finance](https://finance.yahoo.com/news/bitcoin-etf-holders-diamond-hands-160516190.html) • 21h ago
+4h ago
 
 ---
 
@@ -141,13 +147,7 @@ Only 6.6% of Bitcoin ETF holdings have been sold since last ATH.
 
 What do you guys think about DCA (Dollar Cost Averaging)? I'am willing to put 10% of my salary each month on Bitcoin (100$) for a period of three years. Is it a good idea? What are thr pros and cons?
 
-5h ago
-
----
-
-**[”I don't know of a single large company that doesn't have a blockchain strategy." John D'Agostino--Coinbase](https://www.reddit.com/r/Bitcoin/comments/1r16011/i_dont_know_of_a_single_large_company_that_doesnt/)**
-
-2h ago
+6h ago
 
 ---
 
@@ -159,37 +159,29 @@ What do you guys think about DCA (Dollar Cost Averaging)? I'am willing to put 10
 
 Strategy plans to continue refinancing its debt and buying bitcoin, even as the token tumbles, CEO Michael Saylor said Tuesday on CNBC's "Squawk Box."
 
-CNBC • 4h ago
+CNBC • 5h ago
 
 ---
 
-**[What if bitcoin prices fall to $8,000? Michael Saylor says Strategy still won’t sell.](https://www.marketwatch.com/story/what-if-bitcoin-prices-fall-to-8-000-michael-saylor-says-strategy-still-wont-sell-975f5362?gaa_at=eafs&gaa_n=AWEtsqdNVdKP5B9uEoqyZWrk2wZOFHjCHxJVYgI2soOEeHx75DRFKdmS7R9l&gaa_ts=698b84e7&gaa_sig=r3_pZ-Kh-_2uUwxwLyuwlbQU1tzsMFJsOm868DPBtaeoqW_KImtZVlEaECSDu5UVj-VSj_-76q9AOeN4AngZIg%3D%3D)**
+**[What if bitcoin prices fall to $8,000? Michael Saylor says Strategy still won’t sell.](https://www.marketwatch.com/story/what-if-bitcoin-prices-fall-to-8-000-michael-saylor-says-strategy-still-wont-sell-975f5362?gaa_at=eafs&gaa_n=AWEtsqd-FeglZ9-MAD9I2OcpmdNaImKLpBI6EMfXW0pQ_YI4ohxsBD04XOCw&gaa_ts=698b9396&gaa_sig=fV0RWvtPYNLTl37HhoE2Nx8ntMQzkzl4DL7Xwx_4ZrhlasPRWSt3TuWZFXTaxGGbazfx6GE3OQp3zeLBJJ9RAw%3D%3D)**
 
-MarketWatch • 3h ago
-
----
-
-**[Strategy buys up Bitcoin stock worth $90 million](https://www.foxbusiness.com/video/6389006056112)**
-
-Strategy CEO Phong Le explains why the company bought a large value of Bitcoin after the stock took a dip on 'The Claman Countdown.'
-
-Fox Business • 19h ago
+MarketWatch • 4h ago
 
 ---
 
-**[Bitcoin hovers around $70,000: Key levels to watch](https://finance.yahoo.com/video/bitcoin-hovers-around-70-000-212035265.html)**
+**[Strategy (MSTR) news: Saylor shoots down any idea of forced BTC sale](https://www.coindesk.com/markets/2026/02/10/concerns-over-strategy-selling-bitcoin-are-unfounded-michael-saylor-says)**
 
-Bitcoin (BTC-USD) prices were hovering around $70,000 at the end of the equity trading session on Monday. Yahoo Finance Senior Reporter Ines Ferré reports on the trading action, key levels to watch, and one analyst's bullish call. To watch more expert insights and analysis on the latest market action, check out more Market Domination Overtime.
+Strategy Executive Chairman Michael Saylor affirmed the firm’s commitment to a long-term bitcoin strategy following major fourth quarter losses and a continued plunge in prices early this year.
 
-Yahoo Finance • 21h ago
+CoinDesk • 46m ago
 
 ---
 
-**[Interactive Brokers Adds Nano Bitcoin Futures Via Coinbase Derivatives](https://bitcoinmagazine.com/news/interactive-brokers-nano-bitcoin-futures)**
+**[Bitcoin falls to $69,000 as crypto market shows 'early stages of bottoming'](https://finance.yahoo.com/news/bitcoin-falls-to-69000-as-crypto-market-shows-early-stages-of-bottoming-163932366.html)**
 
-Interactive Brokers now offers nano Bitcoin futures via Coinbase Derivatives, providing smaller, lower-risk, and perpetual-style contracts to broaden regulated crypto access for its clients.
+Bitcoin prices hovered around $69,000, with one analyst suggesting that the crypto market may be approaching its bottom.
 
-Bitcoin Magazine • 2h ago
+Yahoo Finance • 3h ago
 
 ---
 
@@ -197,7 +189,7 @@ Bitcoin Magazine • 2h ago
 
 Bithumb has apologised for staff error that sent customers 620,000 bitcoins instead of 620,000 Korean won, equivalent to a few hundred US dollars
 
-The Guardian • 14h ago
+The Guardian • 15h ago
 
 ---
 
@@ -215,6 +207,14 @@ Bloomberg • 1d ago
 
 ---
 
+**[Bitcoin scam investigation underway after Jackson County resident loses $46,000](https://www.wlox.com/2026/02/10/bitcoin-scam-investigation-underway-after-jackson-county-resident-loses-46000/)**
+
+A Bitcoin scam is under investigation by Law enforcement in Jackson County.
+
+WLOX • 15h ago
+
+---
+
 **[Trusted Chicago judge takes Tuskegee Airman's cash, then flips it into bitcoin for herself](https://www.cbsnews.com/chicago/news/retired-judge-patricia-martin-theft-tuskegee-airman-oscar-lawton-wilkerson-bitcoin/)**
 
 A retired judge who lost her law license for fleecing her Tuskegee Airman uncle used the money she stole to buy bitcoin for herself, court records show.
@@ -223,11 +223,11 @@ cbsnews.com • 1d ago
 
 ---
 
-**[Bitcoin scam investigation underway after Jackson County resident loses $46,000](https://www.wlox.com/2026/02/10/bitcoin-scam-investigation-underway-after-jackson-county-resident-loses-46000/)**
+**[Here comes the great American bitcoin-mining-to-AI pivot](https://www.ft.com/content/8bfdb09a-fbef-47fb-9b2f-ebc8949846e6)**
 
-A Bitcoin scam is under investigation by Law enforcement in Jackson County.
+New kids off the blockchain
 
-WLOX • 14h ago
+Financial Times • 1d ago
 
 ---
 
@@ -245,7 +245,7 @@ WLOX • 14h ago
 
 Some market watchers have suggested $70,000 is a key level to watch and a break below that could lead bitcoin to decline further.
 
-⬆️ 60 • 💬 2 • 4d ago • [CNBC](https://www.cnbc.com/2026/02/05/bitcoin-price-today-70000-in-focus.html)
+⬆️ 60 • 💬 2 • 5d ago • [CNBC](https://www.cnbc.com/2026/02/05/bitcoin-price-today-70000-in-focus.html)
 
 ---
 
@@ -319,7 +319,7 @@ If You Hold Crypto... GET READY! (watch before they delete this) ☝️ Become a
 
 📺 Altcoin Daily
 
-👁️ 54K • 👍 3K • 💬 210 • ⏱️ 11:47 • 18h ago
+👁️ 54K • 👍 3K • 💬 210 • ⏱️ 11:47 • 19h ago
 
 ---
 
@@ -329,7 +329,7 @@ CNBC's MacKenzie Sigalos reports on trends in bitcoin.
 
 📺 CNBC Television
 
-👁️ 16K • 👍 124 • 💬 204 • ⏱️ 2:23 • 14h ago
+👁️ 16K • 👍 124 • 💬 204 • ⏱️ 2:23 • 15h ago
 
 ---
 
@@ -349,7 +349,7 @@ CNBC"s MacKenzie Sigalos joins 'Squawk Box' to discuss the recent bitcoin volati
 
 📺 CNBC Television
 
-👁️ 10K • 👍 330 • 💬 234 • ⏱️ 6:36 • 3h ago
+👁️ 10K • 👍 330 • 💬 234 • ⏱️ 6:36 • 4h ago
 
 ---
 
@@ -359,7 +359,7 @@ The Fed and Treasury are backing themselves into a corner and the only escape is
 
 📺 Simply Bitcoin
 
-👁️ 30K • 👍 3K • 💬 305 • ⏱️ 17:50 • 19h ago
+👁️ 30K • 👍 3K • 💬 305 • ⏱️ 17:50 • 20h ago
 
 ---
 
@@ -389,7 +389,7 @@ Make Free Predictions on *ClashPicks* ▻ https://www.clashpicks.com/ Follow Cla
 
 📺 CryptosRUs
 
-👁️ 25K • 👍 1K • 💬 368 • ⏱️ 12:54 • 17h ago
+👁️ 25K • 👍 1K • 💬 368 • ⏱️ 12:54 • 18h ago
 
 ---
 
@@ -399,7 +399,7 @@ In this critical crypto market update, Chief Market Strategist Gareth Soloway di
 
 📺 Gareth Soloway
 
-👁️ 37K • 👍 3K • 💬 244 • ⏱️ 14:40 • 6h ago
+👁️ 37K • 👍 3K • 💬 244 • ⏱️ 14:40 • 7h ago
 
 ---
 

@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-02-10T19:06:20.517959+00:00'
+updated: '2026-02-10T20:08:11.453046+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- cryptocurrency
-- videos
 - social
+- cryptocurrency
 - news
+- videos
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** February 10, 2026 at 19:06 UTC  
+**Last Updated:** February 10, 2026 at 20:08 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,11 +42,11 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** -5.7%  
-**7d:** -6.6%  
-**30d:** -35.2%  
-**90d:** -38.0%  
-**1y:** -22.8%  
+**24h:** -5.1%  
+**7d:** -6.2%  
+**30d:** -34.9%  
+**90d:** -37.8%  
+**1y:** -22.6%  
 
 ---
 
@@ -72,7 +72,7 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-13h ago
+14h ago
 
 ---
 
@@ -80,7 +80,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 I’ve been keeping my ETH on a centralized exchange but want better control and yield without the risks of leaving it on a CEX. My biggest worry is security , I don’t want to lose funds to hacks or platform failures. What are the safest ways to move into staking or DeFi that keep me in control? I’m open to liquid staking, DeFi platforms, or even self-custody methods, as long as it’s secure. I’d prefer to avoid KYC-heavy centralized services altogether. What have you tried recently that felt safe and reliable?
 
-5h ago
+6h ago
 
 ---
 
@@ -156,7 +156,7 @@ eth-mempool-monitor subscribes to Ethereum pending transactions over WebSocket, 
 
 Buterin pitched Ethereum as an economic/coordination layer for decentralized, privacy-preserving AI systems rather than a race toward AGI.
 
-The Block • 8h ago
+The Block • 9h ago
 
 ---
 
@@ -164,13 +164,7 @@ The Block • 8h ago
 
 The Ethereum co-founder has outlined a four-quadrant Ethereum-AI buildout spanning private AI use, agent markets, and governance.
 
-Decrypt • 12h ago
-
----
-
-**[Ethereum leads way as large cryptocurrencies drop](https://www.marketwatch.com/data-news/ethereum-leads-way-as-large-cryptocurrencies-drop-f5e80176-a90dea2a77fc?gaa_at=eafs&gaa_n=AWEtsqcmIs_WQGE6gXazufdlbJLUUdeQe_KOtpG7dxHhNfyamDy8Yufn-Oc3&gaa_ts=698b8519&gaa_sig=nAUXFjJEXfYwme-L9rp4sHRKyAXoVHBnCwrE9A6ieAgf-857g_WugCzlqYlTdwwurba93vih_rPhoojyw3EnSw%3D%3D)**
-
-MarketWatch • 4h ago
+Decrypt • 13h ago
 
 ---
 
@@ -178,23 +172,15 @@ MarketWatch • 4h ago
 
 Ethereum price eyes recovery as exchange outflows rise, holding $2,000 support could drive move toward $2,500 soon if buying continues.
 
-Yahoo Finance • 3h ago
+Yahoo Finance • 4h ago
 
 ---
 
-**[Vitalik Buterin outlines how Ethereum could play a key role in the future of AI](https://www.coindesk.com/business/2026/02/10/vitalik-buterin-outlines-how-ethereum-could-play-a-key-role-in-the-future-of-ai)**
+**[Tom Lee’s BitMine Adds Another $42 Million in Ethereum Despite Crypto Winter](https://finance.yahoo.com/news/tom-lee-bitmine-adds-another-210000254.html)**
 
-In a new post on X revisiting ideas he first outlined two years ago, Buterin argues that the push toward artificial general intelligence often resembles the kind of unchecked speed and scale that Ethereum itself was created to challenge.
+BitMine has expanded its Ethereum hodings by acquiring an additional 20,000 ETH for nearly $42 million this week.
 
-CoinDesk • 3h ago
-
----
-
-**[Tom Lee Claims Ethereum Could Rebound ‘As Fast As It Fell’ — Even as Critics Push Back](https://www.ccn.com/news/crypto/tom-lee-claims-ethereum-could-rebound-as-fast-as-it-fell-even-as-critics-push-back/)**
-
-Tom Lee says Ethereum price could rebound sharply, pointing to historical patterns, even as critics question his credibility.
-
-CCN.com • 1d ago
+Yahoo Finance • 1d ago
 
 ---
 
@@ -206,11 +192,25 @@ Yahoo Finance • 1d ago
 
 ---
 
-**[Tom Lee’s BitMine Buys More Ethereum Despite $7.5 Billion Unrealized Loss](https://decrypt.co/357468/tom-lees-bitmine-buys-ethereum-7-5-billion-unrealized-loss)**
+**[Tom Lee Claims Ethereum Could Rebound ‘As Fast As It Fell’ — Even as Critics Push Back](https://www.ccn.com/news/crypto/tom-lee-claims-ethereum-could-rebound-as-fast-as-it-fell-even-as-critics-push-back/)**
 
-Publicly traded Ethereum treasury firm BitMine Immersion Technology added to its ETH holdings last week, even as its paper losses grew.
+Tom Lee says Ethereum price could rebound sharply, pointing to historical patterns, even as critics question his credibility.
 
-Decrypt • 1d ago
+CCN.com • 1d ago
+
+---
+
+**[MegaETH debuts mainnet as Ethereum scaling debate heats up](https://www.coindesk.com/tech/2026/02/09/megaeth-debuts-mainnet-as-ethereum-scaling-debate-heats-up)**
+
+The project, which had previously pitched itself as a layer-2 “real-time blockchain,” targeting more than 100,000 transactions per second, would make onchain interactions feel closer to traditional web apps than today’s crypto networks.
+
+CoinDesk • 1d ago
+
+---
+
+**[Ethereum leads way as large cryptocurrencies drop](https://www.marketwatch.com/data-news/ethereum-leads-way-as-large-cryptocurrencies-drop-f5e80176-a90dea2a77fc?gaa_at=eafs&gaa_n=AWEtsqeYam5_mH1XQw3rNNbcEJFzPKZhZf2JuBHKVqhr6r6KhPTUPNwjHT2v&gaa_ts=698b9398&gaa_sig=_5B5iE5_qdyLp5ptJfWwvhGd2ONUhALpyberLHm7wsoYF-a3ZOXqkfwP7ja8IDVF076-4yvxNc9CPlMx0LiRsg%3D%3D)**
+
+MarketWatch • 5h ago
 
 ---
 
@@ -240,7 +240,7 @@ CNBC"s MacKenzie Sigalos joins 'Squawk Box' to discuss the recent bitcoin volati
 
 📺 CNBC Television
 
-👁️ 10K • 👍 330 • 💬 234 • ⏱️ 6:36 • 3h ago
+👁️ 10K • 👍 330 • 💬 234 • ⏱️ 6:36 • 4h ago
 
 ---
 
@@ -250,7 +250,7 @@ If You Hold Crypto... GET READY! (watch before they delete this) ☝️ Become a
 
 📺 Altcoin Daily
 
-👁️ 54K • 👍 3K • 💬 210 • ⏱️ 11:47 • 18h ago
+👁️ 54K • 👍 3K • 💬 210 • ⏱️ 11:47 • 19h ago
 
 ---
 
@@ -260,7 +260,7 @@ This video provides a professional Elliott Wave and technical analysis of Ethere
 
 📺 More Crypto Online
 
-👁️ 2K • 👍 185 • 💬 5 • ⏱️ 4:14 • 6h ago
+👁️ 2K • 👍 185 • 💬 5 • ⏱️ 4:14 • 7h ago
 
 ---
 
@@ -280,7 +280,7 @@ My FREE Daily 5-Min Crypto Newsletter: https://www.cryptonutshell.com/subscribe 
 
 📺 Crypto Nutshell
 
-👁️ 3K • 👍 234 • 💬 57 • ⏱️ 19:39 • 3h ago
+👁️ 3K • 👍 234 • 💬 57 • ⏱️ 19:39 • 4h ago
 
 ---
 
@@ -290,7 +290,7 @@ ETHEREUM ETH PRICE PREDICTION 2026 Join the Premium Signal Group for trade setup
 
 📺 Cilinix Crypto
 
-👁️ 244 • 👍 17 • 💬 3 • ⏱️ 5:24 • 9h ago
+👁️ 244 • 👍 17 • 💬 3 • ⏱️ 5:24 • 10h ago
 
 ---
 
@@ -300,7 +300,7 @@ BITCOIN & CRYPTO: It's Actually Happening (New Targets)!!! - Bitcoin News Today,
 
 📺 Crypto World
 
-👁️ 10K • 👍 342 • 💬 181 • ⏱️ 17:38 • 19h ago
+👁️ 10K • 👍 342 • 💬 181 • ⏱️ 17:38 • 20h ago
 
 ---
 
@@ -310,7 +310,7 @@ MACRO MARKET ANALYSIS VIDEOS EVERYDAY SINCE 2018 I don't sell anything. I don't 
 
 📺 The Cryptoviser
 
-👁️ 456 • 👍 73 • 💬 5 • ⏱️ 34:07 • 5h ago
+👁️ 456 • 👍 73 • 💬 5 • ⏱️ 34:07 • 6h ago
 
 ---
 
@@ -320,7 +320,7 @@ This video provides a professional Elliott Wave and technical analysis of Ethere
 
 📺 More Crypto Online
 
-👁️ 3K • 👍 192 • 💬 6 • ⏱️ 6:04 • 17h ago
+👁️ 3K • 👍 192 • 💬 6 • ⏱️ 6:04 • 18h ago
 
 ---
 
