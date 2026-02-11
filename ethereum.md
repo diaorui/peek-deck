@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-02-11T08:53:54.304003+00:00'
+updated: '2026-02-11T09:55:13.172872+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- cryptocurrency
+- social
 - videos
 - news
-- social
+- cryptocurrency
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** February 11, 2026 at 08:53 UTC  
+**Last Updated:** February 11, 2026 at 09:55 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -36,17 +36,17 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Price
 
-### $1,942.09
+### $1,949.96
 
 ---
 
 ## Ethereum Chart
 
-**24h:** -3.0%  
-**7d:** +7.1%  
-**30d:** -41.2%  
-**90d:** -37.1%  
-**1y:** -28.6%  
+**24h:** -3.7%  
+**7d:** +6.5%  
+**30d:** -41.5%  
+**90d:** -37.4%  
+**1y:** -29.0%  
 
 ---
 
@@ -72,7 +72,7 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-2h ago
+3h ago
 
 ---
 
@@ -88,7 +88,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 Posted by Jacob Czepluch on February 10, 2026
 
-🔗 [Solidity Programming Language](https://www.soliditylang.org/blog/2026/02/10/solidity-developer-survey-2025-announcement/) • 8h ago
+🔗 [Solidity Programming Language](https://www.soliditylang.org/blog/2026/02/10/solidity-developer-survey-2025-announcement/) • 9h ago
 
 ---
 
@@ -156,15 +156,7 @@ eth-mempool-monitor subscribes to Ethereum pending transactions over WebSocket, 
 
 Robinhood said developers will begin experimenting with applications on its Ethereum layer-2 network, while providing key technical feedback.
 
-Decrypt • 7h ago
-
----
-
-**[Vitalik Buterin sketches near-term vision for Ethereum's role in an AI-driven future](https://www.theblock.co/post/389179/vitalik-buterin-sketches-near-term-vision-for-ethereums-role-in-an-ai-driven-future)**
-
-Buterin pitched Ethereum as an economic/coordination layer for decentralized, privacy-preserving AI systems rather than a race toward AGI.
-
-The Block • 21h ago
+Decrypt • 8h ago
 
 ---
 
@@ -172,15 +164,7 @@ The Block • 21h ago
 
 In a new post on X revisiting ideas he first outlined two years ago, Buterin argues that the push toward artificial general intelligence often resembles the kind of unchecked speed and scale that Ethereum itself was created to challenge.
 
-CoinDesk • 17h ago
-
----
-
-**[Vitalik Buterin Calls for Ethereum-Led Alternative to the 'Race for AGI'](https://decrypt.co/357575/vitalik-buterin-ethereum-led-alternative-race-for-agi)**
-
-The Ethereum co-founder has outlined a four-quadrant Ethereum-AI buildout spanning private AI use, agent markets, and governance.
-
-Decrypt • 1d ago
+CoinDesk • 18h ago
 
 ---
 
@@ -188,29 +172,7 @@ Decrypt • 1d ago
 
 Bitmine buys another $80m worth of Ethereum. Tom Lee predicts swift recovery despite over $6.6 billion in unrealised losses.
 
-dlnews.com • 23h ago
-
----
-
-**[Tom Lee’s BitMine Buys More Ethereum Despite $7.5 Billion Unrealized Loss](https://finance.yahoo.com/news/tom-lee-bitmine-buys-more-175225629.html)**
-
-Publicly traded Ethereum treasury firm BitMine Immersion Technology added to its ETH holdings last week, even as its paper losses grew.
-
-Yahoo Finance • 1d ago
-
----
-
-**[Tom Lee Claims Ethereum Could Rebound ‘As Fast As It Fell’ — Even as Critics Push Back](https://www.ccn.com/news/crypto/tom-lee-claims-ethereum-could-rebound-as-fast-as-it-fell-even-as-critics-push-back/)**
-
-Tom Lee says Ethereum price could rebound sharply, pointing to historical patterns, even as critics question his credibility.
-
-CCN.com • 1d ago
-
----
-
-**[Ethereum Under Pressure As It Falls Below $2,000](https://seekingalpha.com/article/4868540-ethereum-under-pressure-as-it-falls-below-2000)**
-
-Seeking Alpha • 1h ago
+dlnews.com • 1d ago
 
 ---
 
@@ -218,7 +180,29 @@ Seeking Alpha • 1h ago
 
 The Bitcoin and Ethereum prices have rebounded from last week’s lows, providing optimism that the bottom may be in. This comes amid accumulation from whales while the crypto ETFs have seen notable inflows following last week’s outflows. Why The Bitcoin And Ethereum Prices Are Climbing AgainThe Bitc…
 
-TradingView • 8h ago
+TradingView • 9h ago
+
+---
+
+**[Ethereum Under Pressure As It Falls Below $2,000](https://seekingalpha.com/article/4868540-ethereum-under-pressure-as-it-falls-below-2000)**
+
+Seeking Alpha • 2h ago
+
+---
+
+**[Top 3 Price Prediction: Bitcoin, Ethereum, Ripple – BTC, ETH and XRP show no sign of recovery](https://www.fxstreet.com/cryptocurrencies/news/top-3-price-prediction-bitcoin-ethereum-ripple-btc-eth-and-xrp-show-no-sign-of-recovery-202602110407)**
+
+Bitcoin (BTC), Ethereum (ETH), and Ripple (XRP) show signs of cautious stabilization on Wednesday after failing to close above their key resistance levels earlier this week. BTC trades below $69,000, while ETH and XRP also encountered rejection near major resistance levels.
+
+FXStreet • 5h ago
+
+---
+
+**[Vitalik Buterin sketches near-term vision for Ethereum's role in an AI-driven future](https://www.theblock.co/post/389179/vitalik-buterin-sketches-near-term-vision-for-ethereums-role-in-an-ai-driven-future)**
+
+Buterin pitched Ethereum as an economic/coordination layer for decentralized, privacy-preserving AI systems rather than a race toward AGI.
+
+The Block • 22h ago
 
 ---
 
@@ -226,7 +210,21 @@ TradingView • 8h ago
 
 JPMorganChase, Citi and Custodia are among the banks that have built digital asset projects on the Ethereum blockchain.
 
-American Banker • 13h ago
+American Banker • 14h ago
+
+---
+
+**[Polygon, Ethena, and Nethermind Join the Enterprise Ethereum Alliance as Institutional Ethereum Takes Shape](https://markets.businessinsider.com/news/currencies/polygon-ethena-and-nethermind-join-the-enterprise-ethereum-alliance-as-institutional-ethereum-takes-shape-1035809393)**
+
+New York, United States, February 10th, 2026, ChainwireThe Enterprise Ethereum Alliance today announced that Polygon Labs, Et...
+
+markets.businessinsider.com • 14h ago
+
+---
+
+**[Ethereum leads way as large cryptocurrencies drop](https://www.marketwatch.com/data-news/ethereum-leads-way-as-large-cryptocurrencies-drop-f5e80176-a90dea2a77fc?gaa_at=eafs&gaa_n=AWEtsqf1edaw0UBmAf6AevZy3DXXM5c2KQ17yDKxb_eyTliKZ-UHL6BZB4LJ&gaa_ts=698c556d&gaa_sig=emylIPG3kGh1eQWlDpfCll-ETf2m2IP82joBH8AJjwoDQRTJR6oADLc3uaLcjJMzdt99g27N5EvpJPIjSN22pA%3D%3D)**
+
+MarketWatch • 18h ago
 
 ---
 
@@ -240,7 +238,7 @@ This video provides a professional Elliott Wave and technical analysis of Ethere
 
 📺 More Crypto Online
 
-👁️ 992 • 👍 89 • 💬 5 • ⏱️ 4:00 • 4h ago
+👁️ 992 • 👍 89 • 💬 5 • ⏱️ 4:00 • 5h ago
 
 ---
 
@@ -258,7 +256,7 @@ If You Hold Crypto... GET READY! (watch before they delete this) ☝️ Become a
 
 📺 Zach Humphries
 
-👁️ 4K • 👍 487 • 💬 30 • ⏱️ 5:43 • 9h ago
+👁️ 4K • 👍 487 • 💬 30 • ⏱️ 5:43 • 10h ago
 
 ---
 
@@ -268,7 +266,7 @@ My FREE Daily 5-Min Crypto Newsletter: https://www.cryptonutshell.com/subscribe 
 
 📺 Crypto Nutshell
 
-👁️ 12K • 👍 488 • 💬 42 • ⏱️ 19:39 • 17h ago
+👁️ 12K • 👍 488 • 💬 42 • ⏱️ 19:39 • 18h ago
 
 ---
 
@@ -278,7 +276,7 @@ CNBC"s MacKenzie Sigalos joins 'Squawk Box' to discuss the recent bitcoin volati
 
 📺 CNBC Television
 
-👁️ 67K • 👍 661 • 💬 820 • ⏱️ 6:36 • 16h ago
+👁️ 67K • 👍 661 • 💬 820 • ⏱️ 6:36 • 17h ago
 
 ---
 
@@ -288,7 +286,7 @@ Crypto News: Goldman Sachs crypto holdings disclosed in new filing which include
 
 📺 Thinking Crypto
 
-👁️ 3K • 👍 346 • 💬 38 • ⏱️ 21:01 • 4h ago
+👁️ 3K • 👍 346 • 💬 38 • ⏱️ 21:01 • 5h ago
 
 ---
 
@@ -318,7 +316,7 @@ TRADE STOCKS, FOREX AND CFDS ON PRIME XBT https://u.primexbt-markets.pro/Martini
 
 📺 TMG Trades
 
-👁️ 2K • 👍 167 • 💬 55 • ⏱️ 10:30 • 17h ago
+👁️ 2K • 👍 167 • 💬 55 • ⏱️ 10:30 • 18h ago
 
 ---
 
@@ -328,7 +326,7 @@ BITCOIN HOLDERS: Time to Get Serious (Warning)!!! - Bitcoin News Today, Ethereum
 
 📺 Crypto World
 
-👁️ 8K • 👍 332 • 💬 48 • ⏱️ 17:52 • 12h ago
+👁️ 8K • 👍 332 • 💬 48 • ⏱️ 17:52 • 13h ago
 
 ---
 
