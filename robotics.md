@@ -3,13 +3,13 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-02-11T14:37:00.487612+00:00'
+updated: '2026-02-11T16:03:32.619245+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- news
 - social
+- news
 - videos
 ---
 
@@ -17,7 +17,7 @@ data_types:
 
 Robotics research and industry news
 
-**Last Updated:** February 11, 2026 at 14:37 UTC  
+**Last Updated:** February 11, 2026 at 16:03 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -36,7 +36,7 @@ Robotics research and industry news
 
 Hey everyone! I'm going to be starting a robotics club at my community college and I was hoping I could get some help on some beginner friendly projects for the club and maybe how the club should be structured. I, and most of the people I know that are going to be a part of the club have basically no experience with robotics and we want to keep the club inclusive to everyone on campus. Any advice would help!
 
-11h ago
+13h ago
 
 ---
 
@@ -44,7 +44,7 @@ Hey everyone! I'm going to be starting a robotics club at my community college a
 
 Hi everyone, I currently have a real-world setup consisting of a UR3e with a flat square platform attached to the end effector. There’s a ball on top of the platform, and I use a camera detection pipeline to detect the ball position and balance it. The controller is currently a simple PID (though I’m working toward switching to MPC). Now I want to build a digital twin / simulation of this system. I’m considering MuJoCo, but I have zero experience with it. I’ve also heard about something like the ROS–Unity integration / ROS Unity Hub, and I’m not sure which direction makes more sense or where I should start. What I want to achieve in simulation: Import a URDF of the UR3e Attach a static square platform to the end effector (this part seems straightforward) Add a ball that rolls on top of the platform Have proper collision and physics behavior The platform has four sides (like a shallow box), so if the ball hits the edge, it should collide and stop rather than just fall off If the end effector tilts, the plate tilts The ball should realistically roll “downhill” due to gravity when the plate is tilted So my main physics questions: Is this realistically achievable in both MuJoCo and Unity? Can I define proper rolling friction and contact friction between the ball and the plate? Will the physics engine handle realistic rolling behavior when I tilt the TCP? Matching Simulation to Reality (Friction Identification) Another big question: how would you recommend estimating the friction coefficients from the real system so I can plug them into the simulation? I was thinking something along the lines of: Tilt the plate to a known angle Measure how long the ball takes to travel across a 40 cm plate Repeat multiple times Use that data to estimate an effective friction coefficient Is that a reasonable approach? Are there better system identification methods people typically use for this kind of setup? Real-Time Digital Twin Long-term, I would like: When the real robot is balancing the ball, the simulated version reflects the same joint motions and plate tilt. While working purely in simulation, I’d also like a simulated camera plugin that gives me the ball position, which feeds into my detection pipeline and controller (PID now, possibly MPC later). So effectively: Simulation → virtual camera → detection → controller → robot motion And eventually also: real robot → mirrored digital twin Main Questions Would you recommend MuJoCo or Unity (ROS integration) for this use case? Where would you start if you had zero experience with both? Is one significantly better for contact-rich rolling dynamics like this? Has anyone built something similar (ball balancing / contact dynamics on a robot arm)? I also found a Unity UR simulation project that I can link below if helpful. Any guidance on architecture, tools, or first steps would be greatly appreciated. Thanks! TL;DR: I have a UR3e ball-balancing setup and want to build a physics-accurate digital twin (with rolling friction, collisions, and camera simulation). Should I use MuJoCo or Unity/ROS, and how would I match real-world friction parameters to simulation? Links: - https://github.com/rparak/Unity3D_Robotics_UR
 
-5h ago
+6h ago
 
 ---
 
@@ -52,7 +52,7 @@ Hi everyone, I currently have a real-world setup consisting of a UR3e with a fla
 
 Hey. I'm a 2nd year college student who just recently switched into my school's Electrical Engineering program and even though I'm still young (20) I wish I started tinkering with robots/soldering sooner. Money is not an issue, so I'm wondering what you guys would recommend I do to push myself closer to working on robot design/doing things that scratch that itch.
 
-5h ago
+6h ago
 
 ---
 
@@ -60,7 +60,7 @@ Hey. I'm a 2nd year college student who just recently switched into my school's 
 
 Hello everyone, since K-Scale Labs (https://kscale.ai) shut down and they still kept everything open-source on their GitHub page, I was wondering if anyone has actually tried to build their humanoid robot on their own. Do you guys think it would be worth it or not and why?
 
-20h ago
+21h ago
 
 ---
 
@@ -68,7 +68,7 @@ Hello everyone, since K-Scale Labs (https://kscale.ai) shut down and they still 
 
 While developing ROS2 applications for robotic arm projects, we found it was difficult to guarantee that a robot would execute a full sequence of motion without failure. In pick-and-place applications, the challenge was reaching a pose and approaching along a defined direction. In welding or surface finishing applications, the difficulty was selecting a suitable start pose without discovering failure midway through execution. Many early iterations involved trial and error to find a working set of joint configurations that could serve as good “seeds” for further IK and motion planning. Over time, we built internal offline utilities to nearly guarantee that our configurations and workspace designs would work. These relied heavily on open-source libraries like TRAC-IK, along with extracting meaningful metrics such as manipulability. Eventually, we decided to package the internal tool we were using and open it up to anyone working on robotic application setup or pre-deployment validation. What the platform offers: a. Select from a list of supported robots, or upload your own. Any serial chain in standard robot_description format should work. b. Move the robot using interactive markers, direct joint control, or by setting a target pose. If you only need FK/IK exploration, you can stop here. The tool continuously displays end-effector pose and joint states. c. Insert obstacles to resemble your working scene. d. Create regions of interest and add orientation constraints, such as holding a glass upright or maintaining a welding direction. e. Run analysis to determine: Whether a single IK branch can serve the entire region Whether all poses within the region are reachable Whether the region is reachable but discontinuous in joint space How we hope it helps users: a. Select a suitable robot for an application by comparing results across platforms. b. Help robotics professionals, including non-engineers, create and validate workcells early. c. Create, share, and collaborate on scenes with colleagues or clients. We’re planning to add much more to this tool, and we hope user feedback helps shape its future development. Give it a try.
 
-🔗 [urdfviewer.com](https://urdfviewer.com) • 16h ago
+🔗 [urdfviewer.com](https://urdfviewer.com) • 17h ago
 
 ---
 
@@ -84,7 +84,7 @@ A Shanghai startup, DroidUp, has unveiled Moya, a biomimetic AI robot designed t
 
 So I am working on the project of ball balancing robot so the body after robots has been the three servo motor and connections I have no idea so the components for the connections are arduino, IMU sensor (MPU9250/6500)., ESR-32,PCA9685... So these are the components which I am having for ball balancing robot I kindly request you to suggest me how to made the connection of it it may be you guys can suggest me like any article for that or a YouTube video and if required for more components kindly let me know it will be grateful I just have one week for the project to be submitted....
 
-9h ago
+10h ago
 
 ---
 
@@ -96,41 +96,19 @@ So I am working on the project of ball balancing robot so the body after robots 
 
 **[La funny song](https://www.reddit.com/r/robotics/comments/1r1lrig/la_funny_song/)**
 
-11h ago
+13h ago
 
 ---
 
 **["Moya", The World's First Biomimetic Humanoid Robot Debuts With 92% Human-Like Walking Accuracy](https://www.reddit.com/r/robotics/comments/1r1uhcu/moya_the_worlds_first_biomimetic_humanoid_robot/)**
 
-3h ago
+4h ago
 
 ---
 
 ---
 
 ## Google News: "robotics"
-
-**[Apptronik raises $520 million to beat Chinese humanoids, Tesla Optimus to market](https://www.cnbc.com/2026/02/11/apptronik-raises-520-million-at-5-billion-valuation-for-apollo-robot.html)**
-
-Apptronik's Apollo humanoids are being tested in factories and warehouses with partners Mercedes-Benz and GXO Logistics.
-
-CNBC • 36m ago
-
----
-
-**[Apptronik Raises $520 Million in New Funding to Build More Humanoids](https://www.bloomberg.com/news/articles/2026-02-11/apptronik-raises-520-million-in-new-funding-to-build-more-humanoids)**
-
-Bloomberg • 36m ago
-
----
-
-**[Robots that can see around corners using radio signals and AI](https://www.eurekalert.org/news-releases/1115662)**
-
-Researchers from Penn have developed HoloRadar, a system that allows robots to see around corners by using radio waves and AI to reconstruct hidden spaces in 3D. Unlike previous approaches based on visible light, HoloRadar works reliably in darkness and despite occlusions, with potential applications in autonomous vehicles and indoor settings like warehouses and factories.
-
-EurekAlert! • 35m ago
-
----
 
 **[Haply Robotics raises $16 million to build the “steering wheels” for physical AI](https://betakit.com/haply-robotics-raises-16-million-to-build-the-steering-wheels-for-physical-ai/)**
 
@@ -140,11 +118,50 @@ BetaKit • 1d ago
 
 ---
 
-**[China: Humanoid robots perform kung fu moves with Shaolin monks in a viral video](https://interestingengineering.com/ai-robotics/humanoid-robots-kung-fu-with-shaolin-monks)**
+**[Alibaba AI sets 16 records, beats Google and NVIDIA in robotics](https://interestingengineering.com/ai-robotics/alibaba-rynnbrain-humanoid-robot-ai)**
 
-A group of humanoid robots made by Agibot performed kung fu moves at the Shaolin Temple in China, captivating viewers with their capabilities.
+Alibaba has unveiled RynnBrain, a new embodied AI model built to help robots understand space, memory, and physical movement.
 
-Interesting Engineering • 2d ago
+Interesting Engineering • 21h ago
+
+---
+
+**[Krafton delivers record annual revenue (and says its AI tech could birth humanoid robots)](https://www.gamedeveloper.com/production/krafton-delivers-record-annual-revenue-and-says-its-ai-tech-could-birth-humanoid-robots-)**
+
+<p>The PUBG and Subnautica publisher believes it might be able to transfer 'game-validated AI
+capabilities' to the real world.</p>
+
+Game Developer • 1d ago
+
+---
+
+**[Humanoid robots are getting smaller, safer and closer](https://www.foxnews.com/tech/humanoid-robots-getting-smaller-safer-closer)**
+
+Fauna Robotics is launching Sprout as a developer platform for humanoid robots. The robot features 29 degrees of freedom and NVIDIA compute power.
+
+Fox News • 22h ago
+
+---
+
+**[Motiv Space Systems and PickNik Robotics Collaborate on Software for NASA’s Fly Foundational Robotics (FFR) Mission](https://spacenews.com/motiv-space-systems-and-picknik-robotics-collaborate-on-software-for-nasas-fly-foundational-robotics-ffr-mission/)**
+
+SpaceNews • 3m ago
+
+---
+
+**[Upside Robotics is reducing fertilizer use and waste in corn crops](https://techcrunch.com/2026/02/11/upside-robotics-is-reducing-fertilizer-use-and-waste-in-corn-crops/)**
+
+Upside Robotics builds autonomous solar-powered robots that can help farmers reduce their fertilizer use by 70%.
+
+TechCrunch • 3m ago
+
+---
+
+**[China's Alibaba launches AI model to power robots as tech giants talk up 'physical AI'](https://www.cnbc.com/2026/02/10/alibaba-ai-model-robotics-rynnbrain-china.html)**
+
+Nvidia and Google are among a handful of major tech giants developing models for robotics and so-called "phyiscal AI."
+
+CNBC • 1d ago
 
 ---
 
@@ -152,15 +169,15 @@ Interesting Engineering • 2d ago
 
 Symbotic has acquired autonomous forklift developer Fox Robotics in a move that broadens its logistics robotics offerings.
 
-The Robot Report • 17h ago
+The Robot Report • 18h ago
 
 ---
 
-**[AI In Robotics - New Position Paper](https://ifr.org/ifr-press-releases/news/ai-in-robotics-new-position-paper)**
+**[Bettendorf elementary schoolers secured an invitation to the Robotics World Championship](https://www.wqad.com/video/news/local/bettendorf-elementary-schoolers-secured-an-invitation-to-the-robotics-world-championship/526-c1902050-58e5-457b-bf3a-3fcedf1a3537)**
 
-A new generation of AI-powered robots moving from research labs into the real world is fueled by AI tech companies and analysts forecasting a multitrillion-dollar market. The vision is to give artificial intelligence its own robot body. What are the trends, challenges, and commercial applications?
+Robogineers competed against 700 teams at the Iowa State Lego League Championship and secured one of six invitations to the Robotics World Championship.
 
-IFR International Federation of Robotics • 1d ago
+WQAD • 1d ago
 
 ---
 
@@ -168,23 +185,7 @@ IFR International Federation of Robotics • 1d ago
 
 Artificial intelligence is no longer confined to experimental pilots in the construction industry. It is moving into the operational core of how projects
 
-PYMNTS.com • 11h ago
-
----
-
-**[Mint Signed MoU with Robotics Leader Rice Robotics to Pioneer Physical AI Solutions Across Asia](https://finance.yahoo.com/news/mint-signed-mou-robotics-leader-130000645.html)**
-
-Hong Kong, Feb. 09, 2026 (GLOBE NEWSWIRE) -- Mint Incorporation Limited (“Mint” or the “Group”, NASDAQ: MIMI), a Hong Kong-based company with a new strategic focus on artificial intelligence (AI) and robotics, and an established business interior design and fit-out works provider, today announced that its wholly-owned subsidiary, Aspiration X Limited (“Aspiration X”), has signed a non-binding Memorandum of Understanding (“MOU”) to explore the formation of a strategic joint venture with a renowne
-
-Yahoo Finance • 2d ago
-
----
-
-**[Dominican robotics team headed to state championship](https://www.nola.com/news/communities/crescent_city/dominican-robotics-team-headed-to-state-championship/article_ca58f124-908e-466f-93d4-767bf9d832dc.html)**
-
-The St. Mary's Dominican Ultraviolet Robotics Team took the first place Inspire Award at the FTCLA Tech Challenge Qualifier in Baton Rouge. It is the highest award at the competition
-
-NOLA.com • 3h ago
+PYMNTS.com • 13h ago
 
 ---
 
@@ -198,7 +199,7 @@ A massive robotics shift is unfolding right in front of us. Boston Dynamics has 
 
 📺 AI Revolution
 
-👁️ 23K • 👍 801 • 💬 72 • ⏱️ 11:59 • 15h ago
+👁️ 23K • 👍 801 • 💬 72 • ⏱️ 11:59 • 17h ago
 
 ---
 
@@ -208,7 +209,7 @@ Pink haired humanoid robots are trending in China. Xuan, the hyper-realistic rob
 
 📺 Kalil 4.0
 
-👁️ 1K • 👍 49 • 💬 1 • ⏱️ 0:57 • 10h ago
+👁️ 1K • 👍 49 • 💬 1 • ⏱️ 0:57 • 11h ago
 
 ---
 
@@ -288,7 +289,7 @@ On the snowy frontlines of Eastern Ukraine, innovation is saving lives. Watch as
 
 📺 Defense Digest
 
-👁️ 3K • 👍 64 • 💬 2 • ⏱️ 0:36 • 5h ago
+👁️ 3K • 👍 64 • 💬 2 • ⏱️ 0:36 • 7h ago
 
 ---
 

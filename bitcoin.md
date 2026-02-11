@@ -3,13 +3,13 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-02-11T14:37:00.478387+00:00'
+updated: '2026-02-11T16:03:32.611189+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- news
 - social
+- news
 - videos
 - cryptocurrency
 ---
@@ -18,7 +18,7 @@ data_types:
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** February 11, 2026 at 14:37 UTC  
+**Last Updated:** February 11, 2026 at 16:03 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,17 +38,17 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $68,053.47
+### $66,516.77
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** -2.6%  
-**7d:** +7.6%  
-**30d:** -29.2%  
-**90d:** -28.8%  
-**1y:** -30.9%  
+**24h:** -4.8%  
+**7d:** +6.1%  
+**30d:** -30.2%  
+**90d:** -29.8%  
+**1y:** -31.9%  
 
 ---
 
@@ -81,25 +81,47 @@ Rank #1
 
 Aight look, nobody’s asking you to quit your job and run a node. But if you had one quiet hour—just one—to pull up that eight-page white paper from October 31st, 2008, you’d realize: this wasn’t a tech experiment. It was a direct shot at the system that’s got you running in circles. What’s your day like? Wake up. Grind. Emails. Lunch at the desk. Kids’ homework. Gym skipped. Bills hit auto-pay before you blink. Then you’re on the couch, thumb numb from scrolling. Who ends up drained? You. Who stays wide-eyed and counting cash? The ones printing it in the first place. Distraction isn’t an accident. It’s the job. Designed to keep you tired, keep you busy, keep you mad about the wrong thing—so you’ll never zoom out long enough to see the map getting redrawn. Meanwhile, Bitcoin? It’s doing it in silence. No ads. No push notifications. No “limited time offer.” Just a ledger that’s been ticking every ten minutes since January 12th, 2009 when Satoshi sent some to Hal Finney (RIP). And guess what? It doesn’t need your permission. They taught us money means stress. Work, earn, spend, borrow, repeat. Satoshi? He said nah bro—money can be math. Code that no bank, no government, no boss can freeze while you’re asleep. But to even think that idea, you’d need… time. And time’s the one thing they’re really selling back to you. Twenty bucks a month for a streaming service that keeps you numb. Seven bucks for coffee that lasts twenty minutes. Twenty eight percent Interest on a credit card you didn’t even want. Bitcoin flips the script: it costs nothing to learn. One download, one PDF, zero debt. But still—ninety-seven percent of people won’t. Easier to let the clowns like Sorkin on CNBC decide your fate. “Too risky,” they say. “Too volatile,” they say. Imagine being wrong for 16-17 years straight about something that started at ZERO. About something that you said would go away. But it’s still here. That must kill your ego. The distraction machine works because it feels normal. But peel one layer? You’re on a treadmill built by the people selling the gym membership. Bitcoin’s the off-switch. But switches only work if you reach for them. And right now, you’re too busy reaching for your phone.
 
-10h ago
+11h ago
 
 ---
 
 **[Maybe I am](https://www.reddit.com/r/Bitcoin/comments/1r1mwos/maybe_i_am/)**
 
-10h ago
+12h ago
+
+---
+
+**[Still a believer but these candles hurt to look at](https://www.reddit.com/r/Bitcoin/comments/1r1znx6/still_a_believer_but_these_candles_hurt_to_look_at/)**
+
+Here goes my drama. I’m not going to lie, I’m a firm believer long term. I’ve done my research, I understand the thesis, and I’m not suddenly flipping bearish because of a few red days. But man, staring at these candlesticks lately is painful. Even if you believe in the bigger picture, watching price bleed like this messes with your head a bit. I’m not selling. Just admitting it doesn’t feel great in the moment.
+
+1h ago
 
 ---
 
 **[That's how it be](https://www.reddit.com/r/Bitcoin/comments/1r1nu1j/thats_how_it_be/)**
 
-9h ago
+11h ago
 
 ---
 
 **[We’re in EZ mode now](https://www.reddit.com/r/Bitcoin/comments/1r1ofu8/were_in_ez_mode_now/)**
 
-9h ago
+10h ago
+
+---
+
+**[My paintings are inspired by the Bitcoin aesthetic. Here's one of them](https://www.reddit.com/r/Bitcoin/comments/1r1y8zf/my_paintings_are_inspired_by_the_bitcoin/)**
+
+1h ago
+
+---
+
+**[This drawdown is painful, but it may be the process of washing out levered software capital and letting Bitcoin finally trade like the hard money it is](https://www.reddit.com/r/Bitcoin/comments/1r1zqz5/this_drawdown_is_painful_but_it_may_be_the/)**
+
+Credit https://x.com/jackmallers
+
+58m ago
 
 ---
 
@@ -107,19 +129,13 @@ Aight look, nobody’s asking you to quit your job and run a node. But if you ha
 
 The $2.35T crypto market’s Fear & Greed Index has dropped to 9 (Extreme Fear)—its lowest reading since the 2019 market crash.
 
-8h ago
-
----
-
-**[We're soooo back!](https://www.reddit.com/r/Bitcoin/comments/1r1aof2/were_soooo_back/)**
-
-19h ago
+10h ago
 
 ---
 
 **[The bear will break 60k, but do not fear, it'll give us time to accumulate more sats per dollar](https://www.reddit.com/r/Bitcoin/comments/1r1trqp/the_bear_will_break_60k_but_do_not_fear_itll_give/)**
 
-4h ago
+5h ago
 
 ---
 
@@ -127,21 +143,7 @@ The $2.35T crypto market’s Fear & Greed Index has dropped to 9 (Extreme Fear)�
 
 It really saddens me to see the amount of cowardice, weakness, greed and delusion in the world. People are really overestimating the amount of courage it takes for a random person without any special fiat privileges, without being connected to state money, high paying fake state jobs or the equivalent "private" sector ones where you pretend you are in the private sector and also get plenty of free state "money" in the form of contracts, subsidies, etc, for your "hard work and service". It's all a scam. All of it. There's millions of people that have seen Bitcoin, understood it, and are just slowly DCAing away for years. People like plumbers, construction workers, mechanics, to more tech guys like developers, etc. These are working people, that do real, useful and difficult jobs serving the real public and a real demand, and then taking that real money and exchange it for Bitcoin. Just let that sink in. And then you see all these traders online on Reddit, with thousands and millions, made obviously from speculation, talking about Bitcoin doesn't work, is false, etc. It only makes sense if you realize these people at the top have a choice and obviously they can experiment and try different assets, or generate money in a different way, i.e speculation. So they only look at the world from that perspective. "Is this a speculative asset I can make money or not? Does the public perceive it as a good investment?". Like Nvidia for example, the hive mind told them that AI was a good investment and the ones that make the chips are the gold tool makers. Trillions poured into this. Fast forward, no one is making money with this and you look at Reddit and it's full of people trying to convince other people that "it doesn't matter, hodl, etc". Hodl what? AI is a technological revolution that will deflate everything. What are you hodling? Everybody wins with AI, not just your Nvidia stock. Realize that. The people at the bottom (the plumbers, mechanics, etc), that have a minimum of intelligence and just a stint of morals, they realize the game is rigged against them, that they're now trapped in the shortest straw of the fiat game and that can only work for them in the long term. And thus they choose Bitcoin, because it's the only thing they really see working in the long term. Anyways. It seems like everything is fake. And that nobody really has to answer to reality. Or is it? I think these next 5 years will really reset the idea of money in many people's minds. For different reasons, and especially because yes, Bitcoin is a religion, and some people will do everything to make it happen. On the other hand these people have no values and would sell their mother for "money". Who really wins in the long term?
 
-2h ago
-
----
-
-**[Just came across some money..](https://www.reddit.com/r/Bitcoin/comments/1r1t4gu/just_came_across_some_money/)**
-
-so I just won a little over 30k from something and am thinking of putting it all into bitcoin right now. don't know if I should wait a little longer or just ship it right now. I have about 7k besides that for all other needs so I'm ok with having most of my money in bitcoin for a while
-
 4h ago
-
----
-
-**[My paintings are inspired by the Bitcoin aesthetic. Here's one of them](https://www.reddit.com/r/Bitcoin/comments/1r1y8zf/my_paintings_are_inspired_by_the_bitcoin/)**
-
-31m ago
 
 ---
 
@@ -149,35 +151,27 @@ so I just won a little over 30k from something and am thinking of putting it all
 
 ## Google News: "bitcoin"
 
-**[Bitcoin falls to $69,000 as crypto market shows 'early stages of bottoming'](https://finance.yahoo.com/news/bitcoin-falls-to-69000-as-crypto-market-shows-early-stages-of-bottoming-163932366.html)**
-
-Bitcoin prices hovered around $69,000, with one analyst suggesting that the crypto market may be approaching its bottom.
-
-Yahoo Finance • 21h ago
-
----
-
 **[Bitcoin Whales Are Buying Again as Other Investors Retreat](https://finance.yahoo.com/news/bitcoin-whales-buying-again-other-012241470.html)**
 
 Data from industry research firm Glassnode show that wallets holding more than 1,000 Bitcoin added more than $4 billion worth of the token over the period, interrupting months of divestment that have left Bitcoin roughly 40% below its October peak.  Excluding exchange-traded funds and exchanges, large Bitcoin-holding players have been net sellers over the past year, with more than 170,000 coins — worth some $11 billion — leaving these wallets since mid-December, according to Glassnode.  Bitcoin’s price action reflects that uneven support.
 
-Yahoo Finance • 13h ago
+Yahoo Finance • 14h ago
 
 ---
 
-**[Bitcoin price news: BTC rises a bit, but remains lower for the day following strong jobs numbers](https://www.coindesk.com/markets/2026/02/11/u-s-added-stronger-than-expected-130-000-jobs-in-january-with-unemployment-rate-falling-to-4-3)**
+**[MARA expands Bitcoin mining amid AI surge, CEO Thiel unveils growth strategy](https://www.foxbusiness.com/video/6389075230112)**
 
-Down sizably ahead of the jobs data, bitcoin rose modestly to $67,500 following the news.
+MARA CEO Fred Thiel discusses the importance of digital asset regulation and his firm's growth plans on 'Mornings with Maria.'
 
-CoinDesk • 1h ago
+Fox Business • 1h ago
 
 ---
 
-**[K33 sees 'strong case' bitcoin has bottomed amid 'capitulation-like' conditions](https://www.theblock.co/post/389410/k33-bitcoin-bottom?utm_source=news.xml&utm_medium=rss)**
+**[Susquehanna-backed crypto lender BlockFills halts client withdrawals](https://www.ft.com/content/73e506f4-6b58-4c38-9198-110e845f48b2)**
 
-The firm now expects a prolonged consolidation phase between $60,000 and $75,000 following hyperactive trading and derivatives stress.
+Move comes during period of sustained volatility in digital asset markets
 
-The Block • 1h ago
+Financial Times • 1h ago
 
 ---
 
@@ -185,15 +179,7 @@ The Block • 1h ago
 
 Activity has been observed in the Bitcoin account associated with the ransom note sent by Nancy Guthrie's suspected kidnappers.
 
-People.com • 10h ago
-
----
-
-**[What the Crypto Crash Reveals About Trump’s Power](https://www.theatlantic.com/newsletters/2026/02/trump-crypto-market-crash/685959/)**
-
-The president’s support was never a guarantee of the market’s stability.
-
-The Atlantic • 14h ago
+People.com • 11h ago
 
 ---
 
@@ -205,27 +191,43 @@ The Guardian • 1d ago
 
 ---
 
-**[Oops! South Korean crypto exchange accidentally hands out $40B in Bitcoin](https://nypost.com/2026/02/10/business/oops-south-korean-crypto-exchange-accidentally-hands-out-40b-in-bitcoin/)**
+**[S Korean crypto firm accidentally pays out $40bn in bitcoin](https://www.bbc.com/news/articles/cz6y62nzjxxo)**
 
-The blunder at Bithumb, South Korea’s second-largest cryptocurrency exchange, briefly turned ordinary users into nine-figure Bitcoin holders.
+The company quickly realised its mistake and managed to recover virtually all the missing tokens from customers.
 
-New York Post • 18h ago
-
----
-
-**[Bithumb’s $40 Billion bitcoin blunder triggers major South Korean market probe](https://www.coindesk.com/markets/2026/02/11/bithumb-admits-to-serious-flaws-that-left-its-internal-systems-vulnerable-to-potential-sabotage)**
-
-Following an accidental transfer of 620,000 BTC, Bithumb admits to "deficiencies" as regulators launch AI-driven investigations into crypto market manipulation.
-
-CoinDesk • 1h ago
+BBC • 4d ago
 
 ---
 
-**[Here comes the great American bitcoin-mining-to-AI pivot](https://www.ft.com/content/8bfdb09a-fbef-47fb-9b2f-ebc8949846e6)**
+**[Bithumb’s Bitcoin Blunder Puts Burden on Users as Legal Case Favors Civil Recovery](https://decrypt.co/357690/bithumbs-bitcoin-blunder-burden-users-legal-case)**
 
-New kids off the blockchain
+Legal experts say civil claims offer Bithumb the clearest route to recovering Bitcoin mistakenly distributed in a $43 billion error.
 
-Financial Times • 2d ago
+Decrypt • 9h ago
+
+---
+
+**[What the Crypto Crash Reveals About Trump’s Power](https://www.theatlantic.com/newsletters/2026/02/trump-crypto-market-crash/685959/)**
+
+The president’s support was never a guarantee of the market’s stability.
+
+The Atlantic • 15h ago
+
+---
+
+**[Goldman Sachs Discloses $1.1 Billion Position in Bitcoin ETF Holdings](https://bitcoinmagazine.com/news/goldman-sachs-position-in-bitcoin)**
+
+Goldman Sachs revealed it holds $1.1 billion in Bitcoin ETFs, marking somewhat of a shift toward cryptocurrency exposure.
+
+Bitcoin Magazine • 18h ago
+
+---
+
+**[Michael Saylor downplays Strategy credit risk as bitcoin tumbles: 'We'll refinance the debt'](https://www.cnbc.com/2026/02/10/michael-saylor-downplays-strategy-credit-risk-as-bitcoin-tumbles-well-refinance-the-debt.html)**
+
+Strategy plans to continue refinancing its debt and buying bitcoin, even as the token tumbles, CEO Michael Saylor said Tuesday on CNBC's "Squawk Box."
+
+CNBC • 1d ago
 
 ---
 
@@ -235,7 +237,7 @@ Financial Times • 2d ago
 
 **[Bitcoin tumbles below $70k, wiping out gains since Trump 2024 win](https://news.ycombinator.com/item?id=46900497)**
 
-⬆️ 69 • 💬 64 • 5d ago • [reuters.com](https://www.reuters.com/business/bitcoin-slumps-with-key-70000-level-sight-2026-02-05/)
+⬆️ 69 • 💬 64 • 6d ago • [reuters.com](https://www.reuters.com/business/bitcoin-slumps-with-key-70000-level-sight-2026-02-05/)
 
 ---
 
@@ -263,7 +265,7 @@ Bitcoin outlook turns bearish as Pivotus’ Richard Farr targets BTC at $0 and M
 
 **[$40B in Bitcoin Accidentally Given Away](https://news.ycombinator.com/item?id=46965768)**
 
-⬆️ 10 • 💬 0 • 18h ago • [wsj.com](https://www.wsj.com/finance/currencies/a-bitcoin-blunder-for-the-ages-40-billion-accidentally-given-away-3a207eac)
+⬆️ 10 • 💬 0 • 20h ago • [wsj.com](https://www.wsj.com/finance/currencies/a-bitcoin-blunder-for-the-ages-40-billion-accidentally-given-away-3a207eac)
 
 ---
 
@@ -315,7 +317,7 @@ Bitcoin is about to break a major support range and things might be getting wors
 
 📺 Ricky Gutierrez
 
-👁️ 10K • 👍 411 • 💬 104 • ⏱️ 8:46 • 10h ago
+👁️ 10K • 👍 411 • 💬 104 • ⏱️ 8:46 • 11h ago
 
 ---
 
@@ -325,7 +327,7 @@ Watch this video where I break down volatility: https://youtu.be/Z_vlwus19-8?si=
 
 📺 Mark Moss
 
-👁️ 92K • 👍 4K • 💬 483 • ⏱️ 19:19 • 19h ago
+👁️ 92K • 👍 4K • 💬 483 • ⏱️ 19:19 • 21h ago
 
 ---
 
@@ -335,7 +337,7 @@ LIMITED TIME: ✓ Bitunix (no kyc, $10k bonus): https://www.bitunix.com/register
 
 📺 Altcoin Daily
 
-👁️ 47K • 👍 2K • 💬 257 • ⏱️ 9:29 • 14h ago
+👁️ 47K • 👍 2K • 💬 257 • ⏱️ 9:29 • 16h ago
 
 ---
 
@@ -345,7 +347,7 @@ CNBC"s MacKenzie Sigalos joins 'Squawk Box' to discuss the recent bitcoin volati
 
 📺 CNBC Television
 
-👁️ 73K • 👍 715 • 💬 874 • ⏱️ 6:36 • 22h ago
+👁️ 73K • 👍 715 • 💬 874 • ⏱️ 6:36 • 1d ago
 
 ---
 
@@ -365,7 +367,7 @@ Bitcoin just suffered the largest dollar-value crash in its history — without 
 
 📺 Swan Bitcoin
 
-👁️ 38K • 👍 2K • 💬 195 • ⏱️ 15:49 • 15h ago
+👁️ 38K • 👍 2K • 💬 195 • ⏱️ 15:49 • 17h ago
 
 ---
 
@@ -385,7 +387,7 @@ Anddddd more good news from the cryptocurrency space. We're really spoiled rotte
 
 📺 The Modern Investor
 
-👁️ 3K • 👍 519 • 💬 380 • ⏱️ 25:11 • 5h ago
+👁️ 3K • 👍 519 • 💬 380 • ⏱️ 25:11 • 6h ago
 
 ---
 
@@ -405,7 +407,7 @@ WEEX: https://cryptokid.io/WEEX-Bonus UP TO $30000 ❎ LeveX: https://levex.com/
 
 📺 Crypto Kid
 
-👁️ 7K • 👍 568 • 💬 91 • ⏱️ 5:26 • 6h ago
+👁️ 7K • 👍 568 • 💬 91 • ⏱️ 5:26 • 7h ago
 
 ---
 
