@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-02-11T00:02:27.578920+00:00'
+updated: '2026-02-11T03:35:39.894968+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
 - social
+- cryptocurrency
 - news
 - videos
-- cryptocurrency
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** February 11, 2026 at 00:02 UTC  
+**Last Updated:** February 11, 2026 at 03:35 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,27 +42,27 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** -4.0%  
-**7d:** -6.1%  
-**30d:** -34.9%  
-**90d:** -37.8%  
-**1y:** -22.5%  
+**24h:** -2.8%  
+**7d:** +10.3%  
+**30d:** -39.4%  
+**90d:** -35.1%  
+**1y:** -26.4%  
 
 ---
 
 ## Ethereum Market Stats
 
-**Market Cap:** $243.76B
+**Market Cap:** $242.77B
 Rank #2
 
-**Circulating Supply:** 120,692,589 ETH
+**Circulating Supply:** 120,692,570 ETH
 No max supply
 
 **All-Time High:** $4,946.05
--59.2%
+-59.3%
 
 **All-Time Low:** $0.43
-+466430.7%
++464691.6%
 
 ---
 
@@ -72,21 +72,21 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-18h ago
+21h ago
+
+---
+
+**[Annual Solidity Developer Survey is Live!](https://www.reddit.com/r/ethereum/comments/1r1i1e6/annual_solidity_developer_survey_is_live/)**
+
+Posted by Jacob Czepluch on February 10, 2026
+
+🔗 [Solidity Programming Language](https://www.soliditylang.org/blog/2026/02/10/solidity-developer-survey-2025-announcement/) • 3h ago
 
 ---
 
 **[Daily General Discussion February 09, 2026](https://www.reddit.com/r/ethereum/comments/1qzwdwq/daily_general_discussion_february_09_2026/)**
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
-
-1d ago
-
----
-
-**[$86M lost to DeFi hacks in January 2026 alone](https://www.reddit.com/r/ethereum/comments/1r097uw/86m_lost_to_defi_hacks_in_january_2026_alone/)**
-
-In January 2026, DeFi hacks resulted in roughly $86M in losses across multiple protocols. More concerning: 7 separate incidents exceeded $1M each. Most of the exploits were rooted in smart contract vulnerabilities. The pattern feels familiar at this point. Repeated issues, similar bug classes, and preventable failures. The question isn’t whether exploits will continue it’s whether teams are adapting fast enough. Are you building with security as a first principle, or still treating it as a final checklist before launch?
 
 1d ago
 
@@ -136,7 +136,7 @@ A bug fix turned into a personal comeback story of coding, parenting, and a smal
 
 eth-mempool-monitor subscribes to Ethereum pending transactions over WebSocket, filters them against a monitored address set stored in Redis/Valkey, and publishes matching transactions to RabbitMQ. The project builds three binaries: eth_mempool_monitor: WebSocket subscriber + Redis filter + RabbitMQ publisher. rpc_control: newline-delimited JSON-RPC TCP server used to manage monitored addresses in Redis (token-authenticated). rabbitmq_tx_console: RabbitMQ consumer that prints monitored-transaction events in human-readable form.
 
-🔗 [GitHub](https://github.com/ThirdLetterC/eth-mempool-monitor) • 1d ago
+🔗 [GitHub](https://github.com/ThirdLetterC/eth-mempool-monitor) • 2d ago
 
 ---
 
@@ -152,17 +152,19 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 ## Google News: "ethereum"
 
+**[Vitalik Buterin sketches near-term vision for Ethereum's role in an AI-driven future](https://www.theblock.co/post/389179/vitalik-buterin-sketches-near-term-vision-for-ethereums-role-in-an-ai-driven-future)**
+
+Buterin pitched Ethereum as an economic/coordination layer for decentralized, privacy-preserving AI systems rather than a race toward AGI.
+
+The Block • 16h ago
+
+---
+
 **[Vitalik Buterin outlines how Ethereum could play a key role in the future of AI](https://www.coindesk.com/business/2026/02/10/vitalik-buterin-outlines-how-ethereum-could-play-a-key-role-in-the-future-of-ai)**
 
 In a new post on X revisiting ideas he first outlined two years ago, Buterin argues that the push toward artificial general intelligence often resembles the kind of unchecked speed and scale that Ethereum itself was created to challenge.
 
-CoinDesk • 8h ago
-
----
-
-**[Vitalik Buterin sketches near-term vision for Ethereum's role in an AI-driven future](https://news.google.com/rss/articles/CBMiuwFBVV95cUxON0x1VGtFQlBxZGJIT0RNQmNpWkQwa2NTOGFESy1wTE5wZzRaVzM0VUJsMGN0VzVtSU9vc0NSOXBnYkF2QkttRWptcG1EdVBDRUgwZ3RWN01uQmgwR0sxTkZpeTFIengxUEtVQ1NxMl9qYUNfWTU1RENBelktWHhzWkVuaVgtQjktNURWTnlMdzdMaExCM1pnYzVjeHdKVmZQZnJtOHkwMUZ0RlNRcmRHaWZPZWlOMDBVQkdF?oc=5)**
-
-The Block • 13h ago
+CoinDesk • 12h ago
 
 ---
 
@@ -170,7 +172,15 @@ The Block • 13h ago
 
 The Ethereum co-founder has outlined a four-quadrant Ethereum-AI buildout spanning private AI use, agent markets, and governance.
 
-Decrypt • 17h ago
+Decrypt • 21h ago
+
+---
+
+**[Robinhood’s Ethereum Layer-2 Network Enters Public Testnet Phase](https://decrypt.co/357654/robinhood-ethereum-layer-2-network-public-testnet-phase)**
+
+Robinhood said developers will begin experimenting with applications on its Ethereum layer-2 network, while providing key technical feedback.
+
+Decrypt • 2h ago
 
 ---
 
@@ -178,7 +188,7 @@ Decrypt • 17h ago
 
 Bitmine buys another $80m worth of Ethereum. Tom Lee predicts swift recovery despite over $6.6 billion in unrealised losses.
 
-dlnews.com • 14h ago
+dlnews.com • 18h ago
 
 ---
 
@@ -202,29 +212,21 @@ CCN.com • 1d ago
 
 JPMorganChase, Citi and Custodia are among the banks that have built digital asset projects on the Ethereum blockchain.
 
-American Banker • 4h ago
+American Banker • 7h ago
 
 ---
 
-**[Can Ethereum Price Still Hit $7,600 In 2026? Here Are The Odds](https://www.tradingview.com/news/newsbtc:80811cd51094b:0-can-ethereum-price-still-hit-7-600-in-2026-here-are-the-odds/)**
+**[Here’s Why The Bitcoin And Ethereum Prices Are Pumping Again](https://www.tradingview.com/news/newsbtc:9296cce0e094b:0-here-s-why-the-bitcoin-and-ethereum-prices-are-pumping-again/)**
 
-Ethereum’s outlook for 2026 has become increasingly contested after the most recent downturn in the entire crypto market. Earlier this year, research from Standard Chartered suggested that Ethereum could end 2026 near $7,500, a target that implies significant upside from current levels. However, re…
+The Bitcoin and Ethereum prices have rebounded from last week’s lows, providing optimism that the bottom may be in. This comes amid accumulation from whales while the crypto ETFs have seen notable inflows following last week’s outflows. Why The Bitcoin And Ethereum Prices Are Climbing AgainThe Bitc…
 
-TradingView • 4h ago
-
----
-
-**[Ethereum leads way as large cryptocurrencies drop](https://www.marketwatch.com/data-news/ethereum-leads-way-as-large-cryptocurrencies-drop-f5e80176-a90dea2a77fc?gaa_at=eafs&gaa_n=AWEtsqfg7aJd8u7Qt9qp0pEQayh5uaBeuAIr3x0Xc41IR6ivdxKjqWAXV5oq&gaa_ts=698bbdfa&gaa_sig=0GzNsLPBZ6A-yqkOF893sGdo6_-Em25XyrHEe2F9MWMk3mWB-8sxv1APUMhkwWS4G2RZDokFqCy3n0yCJoHMoA%3D%3D)**
-
-MarketWatch • 9h ago
+TradingView • 3h ago
 
 ---
 
-**[Forget Ethereum, Stablecoins, and XRP -- Here Are Bitcoin's 3 Biggest Trillion-Dollar Competitive Risks](https://www.nasdaq.com/articles/forget-ethereum-stablecoins-and-xrp-here-are-bitcoins-3-biggest-trillion-dollar)**
+**[Ethereum leads way as large cryptocurrencies drop](https://www.marketwatch.com/data-news/ethereum-leads-way-as-large-cryptocurrencies-drop-f5e80176-a90dea2a77fc?gaa_at=eafs&gaa_n=AWEtsqf4PWcqkAYYwRcqxaiBVYkI2Lw8zxGHBU07lCxSfrgpw2MRS598wegM&gaa_ts=698bfc74&gaa_sig=KQTEtdZ8O5qLRZNi9jzD_7itO6uT6ZPrBofs4UAeR9459mjUgM9kFqtokwRNjhhK05pZQKk0v8fOXRhaQQ7bIw%3D%3D)**
 
-Key PointsBitcoin has become a globally recognized asset, which means that it competes with huge pools of capital in different markets.
-
-Nasdaq • 12h ago
+MarketWatch • 12h ago
 
 ---
 
@@ -238,7 +240,7 @@ If You Hold Crypto... GET READY! (watch before they delete this) ☝️ Become a
 
 📺 Altcoin Daily
 
-👁️ 61K • 👍 3K • 💬 234 • ⏱️ 11:47 • 23h ago
+👁️ 64K • 👍 3K • 💬 205 • ⏱️ 11:47 • 1d ago
 
 ---
 
@@ -248,27 +250,7 @@ CNBC"s MacKenzie Sigalos joins 'Squawk Box' to discuss the recent bitcoin volati
 
 📺 CNBC Television
 
-👁️ 44K • 👍 532 • 💬 747 • ⏱️ 6:36 • 8h ago
-
----
-
-**[CZ: “This Is EXACTLY How The 2026 Bull Run Starts” [New Bitcoin &amp; Ethereum Prediction 2026]](https://www.youtube.com/watch?v=nLTCa0JE_KY)**
-
-My FREE Daily 5-Min Crypto Newsletter: https://www.cryptonutshell.com/subscribe ⮕ Cold Storage Wallet: ...
-
-📺 Crypto Nutshell
-
-👁️ 8K • 👍 397 • 💬 44 • ⏱️ 19:39 • 8h ago
-
----
-
-**[Ethereum Elliott Wave Update – Key Resistance Levels Ahead](https://www.youtube.com/watch?v=KyxrKSbcvUQ)**
-
-This video provides a professional Elliott Wave and technical analysis of Ethereum (ETH), focusing on market structure, major ...
-
-📺 More Crypto Online
-
-👁️ 3K • 👍 209 • 💬 7 • ⏱️ 4:14 • 11h ago
+👁️ 56K • 👍 612 • 💬 787 • ⏱️ 6:36 • 11h ago
 
 ---
 
@@ -278,37 +260,7 @@ Welcome back home Ethereum! This time I think ETH will kick its feet back and st
 
 📺 Benjamin Cowen
 
-👁️ 111K • 👍 6K • 💬 379 • ⏱️ 14:29 • 1d ago
-
----
-
-**[BITCOIN HOLDERS: Time to Get Serious (Warning)!!! - Bitcoin News Today, Ethereum &amp; Altcoins](https://www.youtube.com/watch?v=MrR1zq3VwmM)**
-
-BITCOIN HOLDERS: Time to Get Serious (Warning)!!! - Bitcoin News Today, Ethereum & Altcoins *Bitunix* ...
-
-📺 Crypto World
-
-👁️ 4K • 👍 218 • 💬 61 • ⏱️ 17:52 • 4h ago
-
----
-
-**[BITCOIN 21 MILLION SUPPLY IS INCREASING. Bitcoin Ethereum &amp; Gold Price Prediction](https://www.youtube.com/watch?v=Y2_F0VZAsc0)**
-
-TRADE STOCKS, FOREX AND CFDS ON PRIME XBT https://u.primexbt-markets.pro/MartiniGuy WEEX EXCHANGE - FREE ...
-
-📺 TMG Trades
-
-👁️ 1K • 👍 147 • 💬 63 • ⏱️ 10:30 • 8h ago
-
----
-
-**[LIVE: Trump Announces Important News About Crypto! This Speech Will Change the Crypto Industry](https://www.youtube.com/watch?v=LVM1l3NTAOA)**
-
-TrumpCrypto2025 #DigitalAssets #TrumpAnnouncement Welcome to the Trump Crypto Forum 2025 — streaming LIVE from ...
-
-📺 TheMrCrazy97 Lost Places - and Adventures
-
-👁️ 5K • 👍 1K • 1h ago
+👁️ 112K • 👍 6K • 💬 379 • ⏱️ 14:29 • 1d ago
 
 ---
 
@@ -318,17 +270,67 @@ MACRO MARKET ANALYSIS VIDEOS EVERYDAY SINCE 2018 I don't sell anything. I don't 
 
 📺 The Cryptoviser
 
-👁️ 740 • 👍 85 • 💬 5 • ⏱️ 34:07 • 10h ago
+👁️ 830 • 👍 94 • 💬 5 • ⏱️ 34:07 • 13h ago
 
 ---
 
-**[WHALES PANIC SELLING ETH!🚨 (Ethereum Price Prediction 2026)](https://www.youtube.com/watch?v=kEi0pDwu8JA)**
+**[Ethereum Elliott Wave Update – Key Resistance Levels Ahead](https://www.youtube.com/watch?v=KyxrKSbcvUQ)**
 
-ETHEREUM ETH PRICE PREDICTION 2026 Join the Premium Signal Group for trade setups, mentorship & a community ...
+This video provides a professional Elliott Wave and technical analysis of Ethereum (ETH), focusing on market structure, major ...
 
-📺 Cilinix Crypto
+📺 More Crypto Online
 
-👁️ 306 • 👍 17 • 💬 3 • ⏱️ 5:24 • 14h ago
+👁️ 4K • 👍 211 • 💬 7 • ⏱️ 4:14 • 14h ago
+
+---
+
+**[Ethereum Elliott Wave Update – Key Resistance Levels Ahead](https://www.youtube.com/watch?v=NpH4uebFFik)**
+
+This video provides a professional Elliott Wave and technical analysis of Ethereum (ETH), focusing on market structure, major ...
+
+📺 More Crypto Online
+
+👁️ 3K • 👍 193 • 💬 6 • ⏱️ 6:04 • 1d ago
+
+---
+
+**[Ethereum Elliott Wave Update – Key Resistance Levels Ahead](https://www.youtube.com/watch?v=RBZ5PvyMpew)**
+
+This video provides a professional Elliott Wave and technical analysis of Ethereum (ETH), focusing on market structure, major ...
+
+📺 More Crypto Online
+
+👁️ 3K • 👍 193 • 💬 4 • ⏱️ 4:46 • 1d ago
+
+---
+
+**[BITCOIN &amp; CRYPTO: It&#39;s Actually Happening (New Targets)!!! - Bitcoin News Today, Ethereum &amp; Altcoins](https://www.youtube.com/watch?v=NN7CEqBjc5U)**
+
+BITCOIN & CRYPTO: It's Actually Happening (New Targets)!!! - Bitcoin News Today, Ethereum & Altcoins *Bitunix* ...
+
+📺 Crypto World
+
+👁️ 10K • 👍 347 • 💬 47 • ⏱️ 17:38 • 1d ago
+
+---
+
+**[BITCOIN HOLDERS: Time to Get Serious (Warning)!!! - Bitcoin News Today, Ethereum &amp; Altcoins](https://www.youtube.com/watch?v=MrR1zq3VwmM)**
+
+BITCOIN HOLDERS: Time to Get Serious (Warning)!!! - Bitcoin News Today, Ethereum & Altcoins *Bitunix* ...
+
+📺 Crypto World
+
+👁️ 6K • 👍 285 • 💬 49 • ⏱️ 17:52 • 7h ago
+
+---
+
+**[What Institutions Look at Before They Buy Bitcoin and Ethereum](https://www.youtube.com/watch?v=yNPpB4BchfQ)**
+
+Join the Stock Navigators family here: https://go.stocknavigators.com/og-atm?el=yt-talking-20260209-crypto About Us: ...
+
+📺 Stock Navigators
+
+👁️ 85 • 👍 5 • 💬 2 • ⏱️ 8:57 • 1d ago
 
 ---
 

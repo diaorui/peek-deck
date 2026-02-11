@@ -3,7 +3,7 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-02-11T00:02:27.582110+00:00'
+updated: '2026-02-11T03:35:39.898223+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
@@ -17,7 +17,7 @@ data_types:
 
 Robotics research and industry news
 
-**Last Updated:** February 11, 2026 at 00:02 UTC  
+**Last Updated:** February 11, 2026 at 03:35 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -32,11 +32,19 @@ Robotics research and industry news
 
 ## Reddit: r/robotics
 
+**[Beginner Robotics Club.](https://www.reddit.com/r/robotics/comments/1r1lequ/beginner_robotics_club/)**
+
+Hey everyone! I'm going to be starting a robotics club at my community college and I was hoping I could get some help on some beginner friendly projects for the club and maybe how the club should be structured. I, and most of the people I know that are going to be a part of the club have basically no experience with robotics and we want to keep the club inclusive to everyone on campus. Any advice would help!
+
+50m ago
+
+---
+
 **[K-bot](https://www.reddit.com/r/robotics/comments/1r18pvw/kbot/)**
 
 Hello everyone, since K-Scale Labs (https://kscale.ai) shut down and they still kept everything open-source on their GitHub page, I was wondering if anyone has actually tried to build their humanoid robot on their own. Do you guys think it would be worth it or not and why?
 
-5h ago
+9h ago
 
 ---
 
@@ -44,7 +52,13 @@ Hello everyone, since K-Scale Labs (https://kscale.ai) shut down and they still 
 
 A Shanghai startup, DroidUp, has unveiled Moya, a biomimetic AI robot designed to cross the uncanny valley. Unlike plastic and metal droids, Moya features silicone skin that is heated to human body temperature and mimics subtle facial expressions like eyebrow raises. Standing 5'5" and weighing 70 lbs, Moya is built on a modular platform that allows for swapping between male and female presentations. With a price tag of ~$173k, DroidUp aims to deploy these warm companions in healthcare and business by late 2026.
 
-🔗 [TechRadar](https://www.techradar.com/computing/the-worlds-first-biomimetic-ai-robot-just-strolled-in-from-the-uncanny-valley-and-yes-its-super-creepy) • 11h ago
+🔗 [TechRadar](https://www.techradar.com/computing/the-worlds-first-biomimetic-ai-robot-just-strolled-in-from-the-uncanny-valley-and-yes-its-super-creepy) • 14h ago
+
+---
+
+**[La funny song](https://www.reddit.com/r/robotics/comments/1r1lrig/la_funny_song/)**
+
+34m ago
 
 ---
 
@@ -58,21 +72,7 @@ A Shanghai startup, DroidUp, has unveiled Moya, a biomimetic AI robot designed t
 
 While developing ROS2 applications for robotic arm projects, we found it was difficult to guarantee that a robot would execute a full sequence of motion without failure. In pick-and-place applications, the challenge was reaching a pose and approaching along a defined direction. In welding or surface finishing applications, the difficulty was selecting a suitable start pose without discovering failure midway through execution. Many early iterations involved trial and error to find a working set of joint configurations that could serve as good “seeds” for further IK and motion planning. Over time, we built internal offline utilities to nearly guarantee that our configurations and workspace designs would work. These relied heavily on open-source libraries like TRAC-IK, along with extracting meaningful metrics such as manipulability. Eventually, we decided to package the internal tool we were using and open it up to anyone working on robotic application setup or pre-deployment validation. What the platform offers: a. Select from a list of supported robots, or upload your own. Any serial chain in standard robot_description format should work. b. Move the robot using interactive markers, direct joint control, or by setting a target pose. If you only need FK/IK exploration, you can stop here. The tool continuously displays end-effector pose and joint states. c. Insert obstacles to resemble your working scene. d. Create regions of interest and add orientation constraints, such as holding a glass upright or maintaining a welding direction. e. Run analysis to determine: Whether a single IK branch can serve the entire region Whether all poses within the region are reachable Whether the region is reachable but discontinuous in joint space How we hope it helps users: a. Select a suitable robot for an application by comparing results across platforms. b. Help robotics professionals, including non-engineers, create and validate workcells early. c. Create, share, and collaborate on scenes with colleagues or clients. We’re planning to add much more to this tool, and we hope user feedback helps shape its future development. Give it a try.
 
-🔗 [urdfviewer.com](https://urdfviewer.com) • 1h ago
-
----
-
-**[r/c sumo bots?](https://www.reddit.com/r/robotics/comments/1r1c87b/rc_sumo_bots/)**
-
-Hello! Our makerspace for kids 11-18 is hosting a three week summer camp this summer. Most of the kids will likely be 11-13 who come. The kids we know will come have indicated they would like to build and program sumo bots. The kids will have wide varieties of experience. Some will have no coding experience at all, so I am thinking rather than autonomous sumo bots they should make remote controlled ones. Which I realize now makes them not robots so maybe y'all can't help. We have here several Creality HI 3d printers and a large Omtech laser, as well as basic woodshop and electronics things like soldering irons and breadboards and all kinds of electronical bits and bobs. I am thinking if we have a premade chassis that the kids can add on to, they still get to design stuff and print it or cut it out but the basics are already there, then they can do the electronics and whatever coding needs to go between the rc stuff and the electronics and maybe they can conceivably do all that in 15 days/three weeks? I think trying to make it autonomous will be too challenging for all, but we can always suggest/challenge the kids who are good coders already to do so. Have any of y'all done something like this? Does it seem feasible? Thanks!
-
-3h ago
-
----
-
-**[Design process advice for robotic arm](https://www.reddit.com/r/robotics/comments/1r1c3ce/design_process_advice_for_robotic_arm/)**
-
-3h ago
+🔗 [urdfviewer.com](https://urdfviewer.com) • 5h ago
 
 ---
 
@@ -80,29 +80,27 @@ Hello! Our makerspace for kids 11-18 is hosting a three week summer camp this su
 
 Board I designed a custom board called ESP PowerDeck, based on the ESP32-S3. It’s meant for experimenting with robotics and IoT where you need real power handling, not just a breadboard setup. Would love feedback from the community — especially on features that might make it more useful for robotics work. (edit moved photo up so it could be seen ;p)
 
-5h ago
+8h ago
+
+---
+
+**[r/c sumo bots?](https://www.reddit.com/r/robotics/comments/1r1c87b/rc_sumo_bots/)**
+
+Hello! Our makerspace for kids 11-18 is hosting a three week summer camp this summer. Most of the kids will likely be 11-13 who come. The kids we know will come have indicated they would like to build and program sumo bots. The kids will have wide varieties of experience. Some will have no coding experience at all, so I am thinking rather than autonomous sumo bots they should make remote controlled ones. Which I realize now makes them not robots so maybe y'all can't help. We have here several Creality HI 3d printers and a large Omtech laser, as well as basic woodshop and electronics things like soldering irons and breadboards and all kinds of electronical bits and bobs. I am thinking if we have a premade chassis that the kids can add on to, they still get to design stuff and print it or cut it out but the basics are already there, then they can do the electronics and whatever coding needs to go between the rc stuff and the electronics and maybe they can conceivably do all that in 15 days/three weeks? I think trying to make it autonomous will be too challenging for all, but we can always suggest/challenge the kids who are good coders already to do so. Have any of y'all done something like this? Does it seem feasible? Thanks!
+
+7h ago
+
+---
+
+**[Design process advice for robotic arm](https://www.reddit.com/r/robotics/comments/1r1c3ce/design_process_advice_for_robotic_arm/)**
+
+7h ago
 
 ---
 
 **[Yet another Onshape robot exporter, but this one (hopefully) saves your API credits.](https://www.reddit.com/r/robotics/comments/1r18zed/yet_another_onshape_robot_exporter_but_this_one/)**
 
-5h ago
-
----
-
-**[OEM LiDAR](https://www.reddit.com/r/robotics/comments/1r17mgn/oem_lidar/)**
-
-Hello guys A quick question am looking for OEM 2D lidar Sensor I want to flash them and deploy my own software into it. Where can I get such lidar sensor? Let me know if you know any vendors or any websites where can I buy.
-
-6h ago
-
----
-
-**[We trained a VLA model on 20,000 hours of real robot data across 9 embodiments, then tested it on 100 tasks. Here's what actually worked and what didn't.](https://www.reddit.com/r/robotics/comments/1r0au80/we_trained_a_vla_model_on_20000_hours_of_real/)**
-
-Over the past year our team built LingBot-VLA, a Vision-Language-Action foundation model for dual-arm manipulation. We just released everything: code, base model, and benchmark data (paper: arXiv:2601.18692, code: github.com/robbyant/lingbot-vla, weights on HuggingFace). I wanted to share what we learned deploying this across real hardware because the results tell an honest and, I think, useful story for anyone working on generalist robot policies. The setup: ~20,000 hours of teleoperated manipulation data from 9 mainstream dual-arm configs (Agibot G1, AgileX, Galaxea R1Pro, Realman, Leju KUAVO, and others). We evaluated on 3 physical platforms, 100 tasks each, 130 post-training demos per task, 15 trials per task per model. That's 22,500 total real-world trials comparing us against π0.5, GR00T N1.6, and WALL-OSS under identical conditions. The honest numbers: our best variant (with depth distillation) hit 17.30% average success rate and 35.41% progress score across all 300 task-platform pairs. π0.5 got 13.02% SR / 27.65% PS. WALL-OSS landed at 4.05% SR. Before anyone says "17% is low," I want to contextualize this. These are 100 diverse bimanual tasks, many requiring multi-step fine-grained manipulation (cleaning tableware, stacking, arranging objects), tested across three physically different robots. Some individual tasks hit 80%+ SR, others are near zero. Real-world bimanual manipulation across this breadth of tasks is genuinely hard, and I think the field benefits from reporting these numbers honestly rather than cherry-picking the best 5 tasks for a demo reel. What actually worked well: Scaling laws are real and not saturating. We ran a systematic study scaling pre-training data from 3K to 6K to 13K to 18K to 20K hours. Success rates climbed consistently across all three platforms with no sign of plateau at 20K. This was the most exciting finding for us because it suggests the path forward is clear: more diverse, high-quality real-world data keeps helping. Depth distillation made a meaningful difference. We use learnable queries aligned with depth embeddings from our LingBot-Depth model via cross-attention. This bumped average SR from 15.74% to 17.30% in real-world and from 85.34% to 86.68% in randomized simulation scenes. The gain was most visible on transparent object manipulation (glass vases, clear containers) where RGB alone struggles. Data-efficient adaptation. With only 80 demos per task, LingBot-VLA outperformed π0.5 trained on the full 130 demos, in both SR and progress score. The gap widened as we added more post-training data, which suggests the pre-training is providing genuinely useful priors rather than just memorizing. Training efficiency. We built a custom codebase with FSDP2, mixed-precision, FlexAttention, and operator fusion via torch.compile. On 8 GPUs we get 261 samples/sec/GPU for the Qwen2.5-VL-3B backbone, which is 1.5x to 2.8x faster than StarVLA, Dexbotic, and OpenPI depending on the VLM. Scaling to 256 GPUs tracks near-linear throughput. This matters practically because iterating on 20K hours of data is brutal without an efficient pipeline. What didn't work or remains unsolved: Plenty of tasks are still near 0% SR across all models. Tasks requiring very precise spatial reasoning in cluttered scenes, long-horizon multi-step sequences, or unusual object geometries remain extremely challenging. The depth distillation helps but doesn't solve spatial reasoning completely. Also, the model currently only covers dual-arm tabletop manipulation. Single-arm, mobile manipulation, and non-tabletop scenarios are future work. The architecture uses a Mixture-of-Transformers design (similar to BAGEL) where the VLM and action expert share self-attention but have separate feedforward pathways. Action generation uses flow matching with 50-step action chunks. We found the shared attention critical for letting semantic understanding guide action prediction without the modalities interfering with each other's representations. One thing I'd love to hear from this community: for those of you working with real dual-arm setups, what task categories do you find most important for practical deployment? Our GM-100 benchmark covers 100 tasks but we're always thinking about what's missing. Also curious if anyone has experimented with alternative spatial representations beyond depth for VLA models. All code, model weights, and the benchmark data are public. We wanted to make sure anyone can reproduce these results and build on them.
-
-1d ago
+9h ago
 
 ---
 
@@ -126,27 +124,33 @@ Interesting Engineering • 1d ago
 
 ---
 
-**[VC-backed startups show off robots at Manifest 2026](https://www.axios.com/pro/supply-chain-deals/2026/02/10/robot-startups-demonstrations-manifest-2026)**
+**[Chicago’s food delivery robots: How they work and what’s next](https://www.yahoo.com/news/articles/chicago-food-delivery-robots-next-014848614.html)**
 
-The warehouse has become a focus area for startups and investors alike looking to modernize logistics operations.
+Coco and Serve Robotics have been operating food delivery robots in Chicago since late 2024, with 83% of residents in the 1st Ward opposing further expansion of the program due to concerns about speed...
 
-Axios • 1h ago
-
----
-
-**[Investor Stephanie Link likes this robotics play, a 'sleeper name for 2026'](https://www.cnbc.com/2026/02/10/investor-stephanie-link-likes-this-robotics-play-a-sleeper-name-for-2026.html)**
-
-Stephanie Link scooped up shares of Rockwell Automation following the robotics firm's latest earnings beat.
-
-CNBC • 4h ago
+Yahoo • 1h ago
 
 ---
 
-**[Symbotic acquires autonomous forklift maker Fox Robotics](https://www.therobotreport.com/symbotic-acquires-autonomous-forklift-maker-fox-robotics/)**
+**[China's Alibaba launches AI model to power robots as tech giants talk up 'physical AI'](https://www.cnbc.com/2026/02/10/alibaba-ai-model-robotics-rynnbrain-china.html)**
 
-Symbotic has acquired autonomous forklift developer Fox Robotics in a move that broadens its logistics robotics offerings.
+Nvidia and Google are among a handful of major tech giants developing models for robotics and so-called "phyiscal AI."
 
-The Robot Report • 2h ago
+CNBC • 16h ago
+
+---
+
+**[Alibaba Pushes Into Robotics AI With Open-Source ‘RynnBrain’](https://www.bloomberg.com/news/articles/2026-02-10/alibaba-pushes-into-robotics-ai-with-open-source-rynnbrain)**
+
+Bloomberg.com • 20h ago
+
+---
+
+**[Construction Embraces AI Agents, Safety Systems and Robotics as Labor Pressures Mount](https://www.pymnts.com/artificial-intelligence-2/2026/construction-embraces-ai-agents-safety-systems-and-robotics-as-labor-pressures-mount/)**
+
+Artificial intelligence is no longer confined to experimental pilots in the construction industry. It is moving into the operational core of how projects
+
+PYMNTS.com • 42m ago
 
 ---
 
@@ -158,25 +162,11 @@ Fortune • 3d ago
 
 ---
 
-**[China's Alibaba launches AI model to power robots as tech giants talk up 'physical AI'](https://www.cnbc.com/2026/02/10/alibaba-ai-model-robotics-rynnbrain-china.html)**
+**[Symbotic acquires autonomous forklift maker Fox Robotics](https://www.therobotreport.com/symbotic-acquires-autonomous-forklift-maker-fox-robotics/)**
 
-Nvidia and Google are among a handful of major tech giants developing models for robotics and so-called "phyiscal AI."
+Symbotic has acquired autonomous forklift developer Fox Robotics in a move that broadens its logistics robotics offerings.
 
-CNBC • 12h ago
-
----
-
-**[Alibaba Pushes Into Robotics AI With Open-Source ‘RynnBrain’](https://www.bloomberg.com/news/articles/2026-02-10/alibaba-pushes-into-robotics-ai-with-open-source-rynnbrain)**
-
-Bloomberg.com • 17h ago
-
----
-
-**[New ‘RynnBrain’ Lifts Alibaba Stock (BABA) as It Enters Robotics AI Race With Nvidia and Google](https://www.tipranks.com/news/new-rynnbrain-lifts-alibaba-stock-baba-as-it-enters-robotics-ai-race-with-nvidia-and-google)**
-
-Alibaba ($BABA) is broadening its AI strategy with a new robotics-focused project. The Chinese e-commerce giant introduced a new AI system called “RynnBrain,” desig...
-
-TipRanks • 13h ago
+The Robot Report • 6h ago
 
 ---
 
@@ -184,7 +174,15 @@ TipRanks • 13h ago
 
 A new generation of AI-powered robots moving from research labs into the real world is fueled by AI tech companies and analysts forecasting a multitrillion-dollar market. The vision is to give artificial intelligence its own robot body. What are the trends, challenges, and commercial applications?
 
-IFR International Federation of Robotics • 17h ago
+IFR International Federation of Robotics • 21h ago
+
+---
+
+**[AI, Robotaxis, and Robotics: Why Elon Musk and Tesla Are Set to Join "Magnificent Seven" Peers on a Massive Spending Spree](https://www.fool.com/investing/2026/02/09/ai-robotaxis-robotics-elon-musk-tesla-mag-7/)**
+
+The once-thriving electric vehicle leader is investing in a new future.
+
+The Motley Fool • 1d ago
 
 ---
 
@@ -192,53 +190,13 @@ IFR International Federation of Robotics • 17h ago
 
 ## YouTube Videos: "robotics"
 
-**[Atlas Airborne Robot Shows the Final Evolution of Boston Dynamics](https://www.youtube.com/watch?v=IjRjKwZhYCQ)**
-
-The Atlas Airborne Robot takes one final research run as Boston Dynamics pushes humanoid robot control to its absolute limit.
-
-📺 DPCcars
-
-👁️ 72K • 👍 498 • 💬 87 • ⏱️ 2:45 • 3d ago
-
----
-
-**[Atlas Airborne | Boston Dynamics &amp; @rai-inst](https://www.youtube.com/watch?v=UNorxwlZlFk)**
-
-Now that the Atlas enterprise platform is getting to work, the research version gets one last run in the sun. Our engineers made ...
-
-📺 Boston Dynamics
-
-👁️ 1.3M • 👍 39K • 💬 4K • ⏱️ 1:38 • 3d ago
-
----
-
 **[First Biomimetic AI Robot From China Looks Shockingly Human](https://www.youtube.com/watch?v=B61etYSvMNI)**
 
 Humanoid robots just entered a new phase of realism. In Shanghai, DroidUp revealed Moya, the world's first fully biomimetic ...
 
 📺 AI Revolution
 
-👁️ 251K • 👍 4K • 💬 961 • ⏱️ 13:31 • 6d ago
-
----
-
-**[Elon: This Robot Could Replace Surgeons👀 #elonmusk #ai #Robotics #Optimus #Innovation #surgeon](https://www.youtube.com/watch?v=BHKQFCh-7fg)**
-
-A bold prediction like this instantly sparks curiosity and debate across the world. The idea that advanced robotics and artificial ...
-
-📺 Billionaire Shots
-
-👁️ 9K • 👍 616 • 💬 83 • ⏱️ 0:36 • 13h ago
-
----
-
-**[SHOCKING: XPeng’s New IRON Robot COLLAPSES in Public...](https://www.youtube.com/watch?v=4MNfUBZNRFU)**
-
-XPeng's brand-new IRON humanoid robot just collapsed in public, and the footage has taken the internet by storm. In this video ...
-
-📺 The AI Nexus
-
-👁️ 8K • 👍 141 • 💬 35 • ⏱️ 19:22 • 5d ago
+👁️ 253K • 👍 4K • 💬 967 • ⏱️ 13:31 • 6d ago
 
 ---
 
@@ -248,7 +206,45 @@ Will a robot soon be watching your children or caring for your parents? Elon Mus
 
 📺 SpaceTakers
 
-👁️ 43K • 👍 866 • 💬 79 • ⏱️ 0:29 • 5d ago
+👁️ 45K • 👍 887 • 💬 82 • ⏱️ 0:29 • 5d ago
+
+---
+
+**[SHOCKING: XPeng’s New IRON Robot COLLAPSES in Public...](https://www.youtube.com/watch?v=4MNfUBZNRFU)**
+
+XPeng's brand-new IRON humanoid robot just collapsed in public, and the footage has taken the internet by storm. In this video ...
+
+📺 The AI Nexus
+
+👁️ 8K • 👍 142 • 💬 35 • ⏱️ 19:22 • 6d ago
+
+---
+
+**[Elon: This Robot Could Replace Surgeons👀 #elonmusk #ai #Robotics #Optimus #Innovation #surgeon](https://www.youtube.com/watch?v=BHKQFCh-7fg)**
+
+A bold prediction like this instantly sparks curiosity and debate across the world. The idea that advanced robotics and artificial ...
+
+📺 Billionaire Shots
+
+👁️ 10K • 👍 681 • 💬 89 • ⏱️ 0:36 • 17h ago
+
+---
+
+**[Chinese Robotic Hand With Human Level Dexterity](https://www.youtube.com/watch?v=ynodBTnsuis)**
+
+Pan Motor's Wuji Hand packs twenty fully actuated joints into a sub six hundred gram robotic hand, delivering fine motor control, ...
+
+📺 Deepen
+
+👁️ 29K • 👍 473 • 💬 12 • ⏱️ 0:19 • 3d ago
+
+---
+
+**[Drag-and-drop welding robot.#industrial #welding #robot #spraying #stamping](https://www.youtube.com/watch?v=j3W4kIKere0)**
+
+📺 Lin of Brant robot 
+
+👁️ 25K • 👍 68 • ⏱️ 0:23 • 4d ago
 
 ---
 
@@ -258,7 +254,25 @@ They laughed when Elon Musk brought a man in a spandex suit on stage. But in 202
 
 📺 By 2050
 
-👁️ 560K • 👍 8K • 💬 216 • ⏱️ 1:00 • 2d ago
+👁️ 663K • 👍 11K • 💬 263 • ⏱️ 1:00 • 2d ago
+
+---
+
+**[Tony Stark would hate this! 😂 #engineering #ironman #revrobotics #3dprinting](https://www.youtube.com/watch?v=13fah4TQXhw)**
+
+📺 Concept Bytes
+
+👁️ 29K • 👍 2K • 💬 34 • ⏱️ 1:24 • 5d ago
+
+---
+
+**[My Best War Robots Video [VORTEX NEMESIS]](https://www.youtube.com/watch?v=OMZUnCNZzaE)**
+
+War Robots Gameplay: My best WR Video: Ultimate VORTEX NEMESIS Neuer Deutscher Channel: ...
+
+📺 Manni-Gaming
+
+👁️ 7K • 👍 564 • 💬 166 • ⏱️ 27:59 • 12h ago
 
 ---
 
@@ -268,25 +282,7 @@ Boston Dynamics and the RAI Institute release a video demonstrating the All-Elec
 
 📺 CNET
 
-👁️ 13K • 👍 294 • 💬 39 • ⏱️ 1:25 • 23h ago
-
----
-
-**[Optimus Just Got a Brain Transplant #grok #elonmusk #tesla #teslaoptimus #humanoidrobots](https://www.youtube.com/watch?v=J6Rk9aSTk9g)**
-
-In late 2025, Elon Musk quietly did something insane. He plugged Grok, xAI's chatbot, directly into Optimus. Before this, robots ...
-
-📺 By 2050
-
-👁️ 5K • 👍 127 • 💬 5 • ⏱️ 0:51 • 4h ago
-
----
-
-**[Tony Stark would hate this! 😂 #engineering #ironman #revrobotics #3dprinting](https://www.youtube.com/watch?v=13fah4TQXhw)**
-
-📺 Concept Bytes
-
-👁️ 29K • 👍 2K • 💬 34 • ⏱️ 1:24 • 5d ago
+👁️ 14K • 👍 311 • 💬 24 • ⏱️ 1:25 • 1d ago
 
 ---
 
