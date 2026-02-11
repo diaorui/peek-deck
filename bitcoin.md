@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-02-10T23:09:08.514385+00:00'
+updated: '2026-02-11T00:02:27.573020+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
 - social
-- cryptocurrency
 - news
 - videos
+- cryptocurrency
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** February 10, 2026 at 23:09 UTC  
+**Last Updated:** February 11, 2026 at 00:02 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -54,17 +54,17 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1376.90B
+**Market Cap:** $1374.90B
 Rank #1
 
-**Circulating Supply:** 19,987,315 BTC
+**Circulating Supply:** 19,987,365 BTC
 95.2% of max
 
 **All-Time High:** $126,080.00
 -45.4%
 
 **All-Time Low:** $67.81
-+101501.5%
++101342.3%
 
 ---
 
@@ -81,13 +81,13 @@ Rank #1
 
 "Both Bitcoin and Stablecoins will be the money for all of these AI Agents"
 
-7h ago
+8h ago
 
 ---
 
 **["If bitcoin continues to exist, I have yet to hear any intelligent counterargument as to why it would NOT become the world’s money." - Robert Breedlove](https://www.reddit.com/r/Bitcoin/comments/1r177pu/if_bitcoin_continues_to_exist_i_have_yet_to_hear/)**
 
-5h ago
+6h ago
 
 ---
 
@@ -95,13 +95,13 @@ Rank #1
 
 "The United States is becoming the Crypto Capital of the world"
 
-6h ago
+7h ago
 
 ---
 
 **[We're soooo back!](https://www.reddit.com/r/Bitcoin/comments/1r1aof2/were_soooo_back/)**
 
-3h ago
+4h ago
 
 ---
 
@@ -109,7 +109,7 @@ Rank #1
 
 After hearing all the takes on recent Bitcoin price action, the irony is hard to miss. The goal is still buy low, sell high… right? 😅
 
-23h ago
+1d ago
 
 ---
 
@@ -117,7 +117,7 @@ After hearing all the takes on recent Bitcoin price action, the irony is hard to
 
 The best medicine for lack of conviction is education. Once you decide for yourself that Bitcoin is more than "number go up" technology, you can develop the diamond hands required for its volatilty. The value and tenants of Bitcoin won't immediately be expressed in upward price movement. The reason to hold Bitcoin come from what it may become 10+ years from now. Like Warren Buffet would say, the markets are the only place where when something you want goes on sell, you run out of the store.
 
-4h ago
+5h ago
 
 ---
 
@@ -125,7 +125,7 @@ The best medicine for lack of conviction is education. Once you decide for yours
 
 Let be honest! At 125k we felt FOMO. AT 60-70k It seems scary all of a sudden? Like seriously men! 1 BItcoin = 1 Bitcoin But still its truely feeling scary? Or a gift for buying the dip? https://preview.redd.it/5i9ir7idhpig1.png?width=1280&format=png&auto=webp&s=69938401ab0c443491fdd538bba977d8bf2b73ef
 
-5h ago
+6h ago
 
 ---
 
@@ -133,19 +133,19 @@ Let be honest! At 125k we felt FOMO. AT 60-70k It seems scary all of a sudden? L
 
 Stay humble, stack sats. Not a brag post but something for me to reflect upon each year and look back on the journey
 
-19h ago
+20h ago
 
 ---
 
 **[”I don't know of a single large company that doesn't have a blockchain strategy." John D'Agostino--Coinbase](https://www.reddit.com/r/Bitcoin/comments/1r16011/i_dont_know_of_a_single_large_company_that_doesnt/)**
 
-6h ago
+7h ago
 
 ---
 
 **[The next Fed chair Kevin Warsh, talking about Bitcoin in the past](https://www.reddit.com/r/Bitcoin/comments/1r13hjw/the_next_fed_chair_kevin_warsh_talking_about/)**
 
-7h ago
+8h ago
 
 ---
 
@@ -157,7 +157,7 @@ Stay humble, stack sats. Not a brag post but something for me to reflect upon ea
 
 Bitcoin prices hovered around $69,000, with one analyst suggesting that the crypto market may be approaching its bottom.
 
-Yahoo Finance • 6h ago
+Yahoo Finance • 7h ago
 
 ---
 
@@ -165,7 +165,7 @@ Yahoo Finance • 6h ago
 
 Strategy plans to continue refinancing its debt and buying bitcoin, even as the token tumbles, CEO Michael Saylor said Tuesday on CNBC's "Squawk Box."
 
-CNBC • 8h ago
+CNBC • 9h ago
 
 ---
 
@@ -173,7 +173,7 @@ CNBC • 8h ago
 
 Strategy Executive Chairman Michael Saylor affirmed the firm’s commitment to a long-term bitcoin strategy following major fourth quarter losses and a continued plunge in prices early this year.
 
-CoinDesk • 3h ago
+CoinDesk • 4h ago
 
 ---
 
@@ -187,7 +187,7 @@ Barron's • 3h ago
 
 Goldman Sachs revealed it holds $1.1 billion in Bitcoin ETFs, marking somewhat of a shift toward cryptocurrency exposure.
 
-Bitcoin Magazine • 1h ago
+Bitcoin Magazine • 2h ago
 
 ---
 
@@ -195,7 +195,7 @@ Bitcoin Magazine • 1h ago
 
 The following article is adapted from The Block’s newsletter, The Daily, which comes out on weekday afternoons.
 
-The Block • 3h ago
+The Block • 4h ago
 
 ---
 
@@ -203,7 +203,7 @@ The Block • 3h ago
 
 Bithumb has apologised for staff error that sent customers 620,000 bitcoins instead of 620,000 Korean won, equivalent to a few hundred US dollars
 
-The Guardian • 18h ago
+The Guardian • 19h ago
 
 ---
 
@@ -223,7 +223,7 @@ Bloomberg.com • 1d ago
 
 **[Ether Resumes Plunge, Tracking Bitcoin Slide on Risk-Off Mood](https://www.bloomberg.com/news/articles/2026-02-10/ether-eth-resumes-plunge-tracking-bitcoin-btc-slide-on-risk-off-mood)**
 
-Bloomberg.com • 2h ago
+Bloomberg.com • 3h ago
 
 ---
 
@@ -283,7 +283,7 @@ Crypto treasury companies quietly crept into index funds and retirement accounts
 
 **[$40B in Bitcoin Accidentally Given Away](https://news.ycombinator.com/item?id=46965768)**
 
-⬆️ 4 • 💬 0 • 3h ago • [wsj.com](https://www.wsj.com/finance/currencies/a-bitcoin-blunder-for-the-ages-40-billion-accidentally-given-away-3a207eac)
+⬆️ 4 • 💬 0 • 4h ago • [wsj.com](https://www.wsj.com/finance/currencies/a-bitcoin-blunder-for-the-ages-40-billion-accidentally-given-away-3a207eac)
 
 ---
 
@@ -313,47 +313,7 @@ If You Hold Crypto... GET READY! (watch before they delete this) ☝️ Become a
 
 📺 Altcoin Daily
 
-👁️ 57K • 👍 3K • 💬 234 • ⏱️ 11:47 • 22h ago
-
----
-
-**[The Bitcoin Sell-Off No One Is Explaining (This Changes 2026)](https://www.youtube.com/watch?v=SK0SIERxlWw)**
-
-Watch my free masterclass & get Market Briefs as a bonus: https://briefs.finance/a4d230 My recommended tools*! *Please note: ...
-
-📺 Minority Mindset
-
-👁️ 206K • 👍 6K • 💬 2K • ⏱️ 13:35 • 1d ago
-
----
-
-**[Behind the volatility in crypto: Bitcoin hovering around $69,000, ethereum near $2,000](https://www.youtube.com/watch?v=xCK9MHY6Eh8)**
-
-CNBC"s MacKenzie Sigalos joins 'Squawk Box' to discuss the recent bitcoin volatility.
-
-📺 CNBC Television
-
-👁️ 28K • 👍 439 • 💬 318 • ⏱️ 6:36 • 7h ago
-
----
-
-**[Why bitcoin is lingering around $70,000](https://www.youtube.com/watch?v=zVU9lf3KoAw)**
-
-CNBC's MacKenzie Sigalos reports on trends in bitcoin.
-
-📺 CNBC Television
-
-👁️ 17K • 👍 132 • 💬 248 • ⏱️ 2:23 • 18h ago
-
----
-
-**[Did the FED and Treasury Just Trigger a Bitcoin Repricing?!](https://www.youtube.com/watch?v=5w1RAhGNWww)**
-
-The Fed and Treasury are backing themselves into a corner and the only escape is printing. Yield curve control, inflation, and a ...
-
-📺 Simply Bitcoin
-
-👁️ 31K • 👍 3K • 💬 311 • ⏱️ 17:50 • 23h ago
+👁️ 61K • 👍 3K • 💬 234 • ⏱️ 11:47 • 23h ago
 
 ---
 
@@ -363,17 +323,57 @@ Watch this video where I break down volatility: https://youtu.be/Z_vlwus19-8?si=
 
 📺 Mark Moss
 
-👁️ 6K • 👍 1K • 💬 163 • ⏱️ 19:19 • 4h ago
+👁️ 29K • 👍 2K • 💬 230 • ⏱️ 19:19 • 5h ago
 
 ---
 
-**[Cathie Wood: &quot;Everyone Is So WRONG About Bitcoin Crash&quot;](https://www.youtube.com/watch?v=ru5AW3FWa5o)**
+**[Behind the volatility in crypto: Bitcoin hovering around $69,000, ethereum near $2,000](https://www.youtube.com/watch?v=xCK9MHY6Eh8)**
 
-Cathie Wood, CEO of ARK Invest, just dropped a bombshell about Bitcoin's crash to $60000. While everyone is panic selling, she ...
+CNBC"s MacKenzie Sigalos joins 'Squawk Box' to discuss the recent bitcoin volatility.
 
-📺 Money Talks
+📺 CNBC Television
 
-👁️ 3K • 👍 68 • 💬 38 • ⏱️ 12:18 • 1d ago
+👁️ 44K • 👍 532 • 💬 747 • ⏱️ 6:36 • 8h ago
+
+---
+
+**[The Bitcoin Sell-Off No One Is Explaining (This Changes 2026)](https://www.youtube.com/watch?v=SK0SIERxlWw)**
+
+Watch my free masterclass & get Market Briefs as a bonus: https://briefs.finance/a4d230 My recommended tools*! *Please note: ...
+
+📺 Minority Mindset
+
+👁️ 212K • 👍 6K • 💬 2K • ⏱️ 13:35 • 1d ago
+
+---
+
+**[Time to Buy Bitcoin? Only 150 Days Left At These Levels!](https://www.youtube.com/watch?v=AZHHiTzFxU8)**
+
+Bitcoin #Crypto #Finance With roughly 150 days left in what may be a critical accumulation window, Bitcoin is entering a phase ...
+
+📺 The Wolf Of All Streets
+
+👁️ 14K • 👍 658 • 💬 170 • ⏱️ 55:27 • 8h ago
+
+---
+
+**[Why bitcoin is lingering around $70,000](https://www.youtube.com/watch?v=zVU9lf3KoAw)**
+
+CNBC's MacKenzie Sigalos reports on trends in bitcoin.
+
+📺 CNBC Television
+
+👁️ 19K • 👍 137 • 💬 453 • ⏱️ 2:23 • 19h ago
+
+---
+
+**[Did the FED and Treasury Just Trigger a Bitcoin Repricing?!](https://www.youtube.com/watch?v=5w1RAhGNWww)**
+
+The Fed and Treasury are backing themselves into a corner and the only escape is printing. Yield curve control, inflation, and a ...
+
+📺 Simply Bitcoin
+
+👁️ 33K • 👍 3K • 💬 335 • ⏱️ 17:50 • 1d ago
 
 ---
 
@@ -383,27 +383,27 @@ Mark Yusko Crypto Prediction's 2026 Follow: https://x.com/MarkYusko LIMITED TIME
 
 📺 Altcoin Daily
 
-👁️ 28K • 👍 577 • 💬 98 • ⏱️ 1:10 • 1d ago
+👁️ 30K • 👍 590 • 💬 72 • ⏱️ 1:10 • 1d ago
 
 ---
 
-**[LIVE: Trump Announces Important News About Crypto! This Speech Will Change the Crypto Industry](https://www.youtube.com/watch?v=LWJBEXavk-A)**
+**[Cathie Wood: &quot;Everyone Is So WRONG About Bitcoin Crash&quot;](https://www.youtube.com/watch?v=ru5AW3FWa5o)**
 
-TrumpCrypto2025 #DigitalAssets #TrumpAnnouncement Welcome to the Trump Crypto Forum 2025 — streaming LIVE from ...
+Cathie Wood, CEO of ARK Invest, just dropped a bombshell about Bitcoin's crash to $60000. While everyone is panic selling, she ...
 
-📺 Clean Freak & Germaphobe
+📺 Money Talks
 
-👁️ 4K • 👍 2K • 3h ago
+👁️ 3K • 👍 72 • 💬 31 • ⏱️ 12:18 • 1d ago
 
 ---
 
-**[Can Bitcoin Really Fall to $50,000?](https://www.youtube.com/watch?v=FJhvtlyd_Wo)**
+**[Everyone Blames Bitcoin Whales. The Real Problem Is Worse.](https://www.youtube.com/watch?v=F53upGKPs-E)**
 
-Make Free Predictions on *ClashPicks* ▻ https://www.clashpicks.com/ Follow ClashPicks' X ▻ https://x.com/ClashPicks ...
+Bitcoin has shed $13-14 billion in market cap daily for the past month. Everyone's blaming whales and panic sellers. But the real ...
 
-📺 CryptosRUs
+📺 Dana Love, PhD
 
-👁️ 25K • 👍 1K • 💬 335 • ⏱️ 12:54 • 21h ago
+👁️ 937 • 👍 20 • 💬 2 • ⏱️ 0:58 • 1d ago
 
 ---
 

@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-02-10T23:09:08.520348+00:00'
+updated: '2026-02-11T00:02:27.578920+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
 - social
-- cryptocurrency
 - news
 - videos
+- cryptocurrency
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** February 10, 2026 at 23:09 UTC  
+**Last Updated:** February 11, 2026 at 00:02 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -52,17 +52,17 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Market Stats
 
-**Market Cap:** $243.23B
+**Market Cap:** $243.76B
 Rank #2
 
 **Circulating Supply:** 120,692,589 ETH
 No max supply
 
 **All-Time High:** $4,946.05
--59.3%
+-59.2%
 
 **All-Time Low:** $0.43
-+465354.4%
++466430.7%
 
 ---
 
@@ -72,7 +72,7 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-17h ago
+18h ago
 
 ---
 
@@ -156,13 +156,13 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 In a new post on X revisiting ideas he first outlined two years ago, Buterin argues that the push toward artificial general intelligence often resembles the kind of unchecked speed and scale that Ethereum itself was created to challenge.
 
-CoinDesk • 7h ago
+CoinDesk • 8h ago
 
 ---
 
 **[Vitalik Buterin sketches near-term vision for Ethereum's role in an AI-driven future](https://news.google.com/rss/articles/CBMiuwFBVV95cUxON0x1VGtFQlBxZGJIT0RNQmNpWkQwa2NTOGFESy1wTE5wZzRaVzM0VUJsMGN0VzVtSU9vc0NSOXBnYkF2QkttRWptcG1EdVBDRUgwZ3RWN01uQmgwR0sxTkZpeTFIengxUEtVQ1NxMl9qYUNfWTU1RENBelktWHhzWkVuaVgtQjktNURWTnlMdzdMaExCM1pnYzVjeHdKVmZQZnJtOHkwMUZ0RlNRcmRHaWZPZWlOMDBVQkdF?oc=5)**
 
-The Block • 12h ago
+The Block • 13h ago
 
 ---
 
@@ -170,7 +170,7 @@ The Block • 12h ago
 
 The Ethereum co-founder has outlined a four-quadrant Ethereum-AI buildout spanning private AI use, agent markets, and governance.
 
-Decrypt • 16h ago
+Decrypt • 17h ago
 
 ---
 
@@ -178,7 +178,7 @@ Decrypt • 16h ago
 
 Bitmine buys another $80m worth of Ethereum. Tom Lee predicts swift recovery despite over $6.6 billion in unrealised losses.
 
-dlnews.com • 13h ago
+dlnews.com • 14h ago
 
 ---
 
@@ -202,7 +202,7 @@ CCN.com • 1d ago
 
 JPMorganChase, Citi and Custodia are among the banks that have built digital asset projects on the Ethereum blockchain.
 
-American Banker • 3h ago
+American Banker • 4h ago
 
 ---
 
@@ -210,13 +210,13 @@ American Banker • 3h ago
 
 Ethereum’s outlook for 2026 has become increasingly contested after the most recent downturn in the entire crypto market. Earlier this year, research from Standard Chartered suggested that Ethereum could end 2026 near $7,500, a target that implies significant upside from current levels. However, re…
 
-TradingView • 3h ago
+TradingView • 4h ago
 
 ---
 
 **[Ethereum leads way as large cryptocurrencies drop](https://www.marketwatch.com/data-news/ethereum-leads-way-as-large-cryptocurrencies-drop-f5e80176-a90dea2a77fc?gaa_at=eafs&gaa_n=AWEtsqfg7aJd8u7Qt9qp0pEQayh5uaBeuAIr3x0Xc41IR6ivdxKjqWAXV5oq&gaa_ts=698bbdfa&gaa_sig=0GzNsLPBZ6A-yqkOF893sGdo6_-Em25XyrHEe2F9MWMk3mWB-8sxv1APUMhkwWS4G2RZDokFqCy3n0yCJoHMoA%3D%3D)**
 
-MarketWatch • 8h ago
+MarketWatch • 9h ago
 
 ---
 
@@ -224,7 +224,7 @@ MarketWatch • 8h ago
 
 Key PointsBitcoin has become a globally recognized asset, which means that it competes with huge pools of capital in different markets.
 
-Nasdaq • 11h ago
+Nasdaq • 12h ago
 
 ---
 
@@ -232,23 +232,23 @@ Nasdaq • 11h ago
 
 ## YouTube Videos: "ethereum"
 
-**[Behind the volatility in crypto: Bitcoin hovering around $69,000, ethereum near $2,000](https://www.youtube.com/watch?v=xCK9MHY6Eh8)**
-
-CNBC"s MacKenzie Sigalos joins 'Squawk Box' to discuss the recent bitcoin volatility.
-
-📺 CNBC Television
-
-👁️ 28K • 👍 439 • 💬 318 • ⏱️ 6:36 • 7h ago
-
----
-
 **[If You Hold Bitcoin &amp; Ethereum... GET READY! (watch before they delete this) ☝️](https://www.youtube.com/watch?v=RPv313nfVs0)**
 
 If You Hold Crypto... GET READY! (watch before they delete this) ☝️ Become a channel member & get access to perks: ...
 
 📺 Altcoin Daily
 
-👁️ 57K • 👍 3K • 💬 234 • ⏱️ 11:47 • 22h ago
+👁️ 61K • 👍 3K • 💬 234 • ⏱️ 11:47 • 23h ago
+
+---
+
+**[Behind the volatility in crypto: Bitcoin hovering around $69,000, ethereum near $2,000](https://www.youtube.com/watch?v=xCK9MHY6Eh8)**
+
+CNBC"s MacKenzie Sigalos joins 'Squawk Box' to discuss the recent bitcoin volatility.
+
+📺 CNBC Television
+
+👁️ 44K • 👍 532 • 💬 747 • ⏱️ 6:36 • 8h ago
 
 ---
 
@@ -258,17 +258,7 @@ My FREE Daily 5-Min Crypto Newsletter: https://www.cryptonutshell.com/subscribe 
 
 📺 Crypto Nutshell
 
-👁️ 5K • 👍 325 • 💬 42 • ⏱️ 19:39 • 7h ago
-
----
-
-**[Welcome Back Home, Ethereum!](https://www.youtube.com/watch?v=ZZNFVcbzUE4)**
-
-Welcome back home Ethereum! This time I think ETH will kick its feet back and stay a while. Later this year it will likely go to the ...
-
-📺 Benjamin Cowen
-
-👁️ 109K • 👍 6K • 💬 380 • ⏱️ 14:29 • 1d ago
+👁️ 8K • 👍 397 • 💬 44 • ⏱️ 19:39 • 8h ago
 
 ---
 
@@ -278,7 +268,17 @@ This video provides a professional Elliott Wave and technical analysis of Ethere
 
 📺 More Crypto Online
 
-👁️ 3K • 👍 201 • 💬 7 • ⏱️ 4:14 • 10h ago
+👁️ 3K • 👍 209 • 💬 7 • ⏱️ 4:14 • 11h ago
+
+---
+
+**[Welcome Back Home, Ethereum!](https://www.youtube.com/watch?v=ZZNFVcbzUE4)**
+
+Welcome back home Ethereum! This time I think ETH will kick its feet back and stay a while. Later this year it will likely go to the ...
+
+📺 Benjamin Cowen
+
+👁️ 111K • 👍 6K • 💬 379 • ⏱️ 14:29 • 1d ago
 
 ---
 
@@ -288,27 +288,27 @@ BITCOIN HOLDERS: Time to Get Serious (Warning)!!! - Bitcoin News Today, Ethereum
 
 📺 Crypto World
 
-👁️ 1K • 👍 113 • 💬 14 • ⏱️ 17:52 • 3h ago
+👁️ 4K • 👍 218 • 💬 61 • ⏱️ 17:52 • 4h ago
 
 ---
 
-**[LIVE: Trump Announces Important News About Crypto! This Speech Will Change the Crypto Industry](https://www.youtube.com/watch?v=LWJBEXavk-A)**
+**[BITCOIN 21 MILLION SUPPLY IS INCREASING. Bitcoin Ethereum &amp; Gold Price Prediction](https://www.youtube.com/watch?v=Y2_F0VZAsc0)**
+
+TRADE STOCKS, FOREX AND CFDS ON PRIME XBT https://u.primexbt-markets.pro/MartiniGuy WEEX EXCHANGE - FREE ...
+
+📺 TMG Trades
+
+👁️ 1K • 👍 147 • 💬 63 • ⏱️ 10:30 • 8h ago
+
+---
+
+**[LIVE: Trump Announces Important News About Crypto! This Speech Will Change the Crypto Industry](https://www.youtube.com/watch?v=LVM1l3NTAOA)**
 
 TrumpCrypto2025 #DigitalAssets #TrumpAnnouncement Welcome to the Trump Crypto Forum 2025 — streaming LIVE from ...
 
-📺 Clean Freak & Germaphobe
+📺 TheMrCrazy97 Lost Places - and Adventures
 
-👁️ 4K • 👍 2K • 3h ago
-
----
-
-**[WHALES PANIC SELLING ETH!🚨 (Ethereum Price Prediction 2026)](https://www.youtube.com/watch?v=kEi0pDwu8JA)**
-
-ETHEREUM ETH PRICE PREDICTION 2026 Join the Premium Signal Group for trade setups, mentorship & a community ...
-
-📺 Cilinix Crypto
-
-👁️ 299 • 👍 17 • 💬 3 • ⏱️ 5:24 • 13h ago
+👁️ 5K • 👍 1K • 1h ago
 
 ---
 
@@ -318,17 +318,17 @@ MACRO MARKET ANALYSIS VIDEOS EVERYDAY SINCE 2018 I don't sell anything. I don't 
 
 📺 The Cryptoviser
 
-👁️ 585 • 👍 79 • 💬 5 • ⏱️ 34:07 • 9h ago
+👁️ 740 • 👍 85 • 💬 5 • ⏱️ 34:07 • 10h ago
 
 ---
 
-**[Ethereum Elliott Wave Update – Key Resistance Levels Ahead](https://www.youtube.com/watch?v=NpH4uebFFik)**
+**[WHALES PANIC SELLING ETH!🚨 (Ethereum Price Prediction 2026)](https://www.youtube.com/watch?v=kEi0pDwu8JA)**
 
-This video provides a professional Elliott Wave and technical analysis of Ethereum (ETH), focusing on market structure, major ...
+ETHEREUM ETH PRICE PREDICTION 2026 Join the Premium Signal Group for trade setups, mentorship & a community ...
 
-📺 More Crypto Online
+📺 Cilinix Crypto
 
-👁️ 3K • 👍 192 • 💬 6 • ⏱️ 6:04 • 21h ago
+👁️ 306 • 👍 17 • 💬 3 • ⏱️ 5:24 • 14h ago
 
 ---
 

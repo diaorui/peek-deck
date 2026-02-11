@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-02-10T23:09:08.506076+00:00'
+updated: '2026-02-11T00:02:27.564738+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
 - social
 - news
-- repositories
 - videos
+- repositories
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** February 10, 2026 at 23:09 UTC  
+**Last Updated:** February 11, 2026 at 00:02 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -41,7 +41,7 @@ AI news, discussions, and developments
 
 Realfood.gov will happily give you the worst possible advice.
 
-🔗 [404 Media](https://www.404media.co/rfk-jrs-nutrition-chatbot-recommends-best-foods-to-insert-into-your-rectum/) • 57m ago
+🔗 [404 Media](https://www.404media.co/rfk-jrs-nutrition-chatbot-recommends-best-foods-to-insert-into-your-rectum/) • 1h ago
 
 ---
 
@@ -49,7 +49,7 @@ Realfood.gov will happily give you the worst possible advice.
 
 Have you ever typed your symptoms into an AI chatbot hoping for quick answers? A new study out of Oxford University sa... by justmythoughts
 
-🔗 [PeakD](https://peakd.com/@justmythoughts/ai-chatbots-could-steer-you-wrong-on-health-issues-fresh-research-shows-acy) • 1h ago
+🔗 [PeakD](https://peakd.com/@justmythoughts/ai-chatbots-could-steer-you-wrong-on-health-issues-fresh-research-shows-acy) • 2h ago
 
 ---
 
@@ -65,7 +65,7 @@ A clinical trial shows that AI-assisted mammography can detect more cases of dan
 
 Here's the situation. I've been running an investment strategy for about 4 years that's significantly outperformed the standard approach. I wrote a detailed post about it for a relevant subreddit. The info is solid and the results are real. And the post basically went nowhere. Here it is for the interested. No need to read it though. So I tried this: I gave the post to an AI and asked it to analyze why it flopped and rewrite it with minimal changes. The core content stayed the same. What changed was the framing. The AI identified that my post was structured as a presentation, not a conversation. Basically no reason for anyone to respond. It also pointed out that I was unconsciously writing in a way that made people less likely to engage. The fixes were simple. Add a question. Show a moment of struggle instead of just results. Shift from "here's what I did" to "here's what I learned the hard way. What about you?" Nothing fabricated. Just the same information restructured to invite participation. Pretty obvious stuff. I'm posting both now. The rewritten one in the original sub, this documentation post here. I'll update with results. What I'm actually curious about: This feels like one of the most practical and underrated uses of AI. Not generating content from scratch, but taking something a human wrote with real experience behind it and making it land better. The knowledge IS mine. The communication fix is the AI's. Controversial question (yeah, I'm learning lol): If good information consistently gets ignored because of how it's written, and AI can fix that, is there any reason not to use it?
 
-1h ago
+2h ago
 
 ---
 
@@ -73,7 +73,7 @@ Here's the situation. I've been running an investment strategy for about 4 years
 
 There are plenty of WebGPU demos out there, but I wanted to ship something people could actually use day-to-day. It runs Llama 3.2, DeepSeek-R1, Qwen3, Mistral, Gemma, Phi, SmolLM2—all locally in Chrome. Three inference backends: WebLLM (MLC/WebGPU) Transformers.js (ONNX) Chrome's built-in Prompt API (Gemini Nano—zero download) No Ollama, no servers, no subscriptions. Models cache in IndexedDB. Works offline. Conversations stored locally—export or delete anytime. Free: https://noaibills.app/?utm_source=reddit&utm_medium=social&utm_campaign=launch_artificial I'm not claiming it replaces GPT-4. But for the 80% of tasks—drafts, summaries, quick coding questions—a 3B parameter model running locally is plenty. Not positioned as a cloud LLM replacement—it's for local inference on basic text tasks (writing, communication, drafts) with zero internet dependency, no API costs, and complete privacy. Core fit: organizations with data restrictions that block cloud AI and can't install desktop tools like Ollama/LMStudio. For quick drafts, grammar checks, and basic reasoning without budget or setup barriers. Need real-time knowledge or complex reasoning? Use cloud models. This serves a different niche—**not every problem needs a sledgehammer** 😄. Would love feedback from this community 🙌.
 
-14h ago
+15h ago
 
 ---
 
@@ -81,7 +81,7 @@ There are plenty of WebGPU demos out there, but I wanted to ship something peopl
 
 Researchers at the company are trying to understand their A.I. system’s mind—examining its neurons, running it through psychology experiments, and putting it on the therapy couch.
 
-🔗 [The New Yorker](https://www.newyorker.com/magazine/2026/02/16/what-is-claude-anthropic-doesnt-know-either) • 1h ago
+🔗 [The New Yorker](https://www.newyorker.com/magazine/2026/02/16/what-is-claude-anthropic-doesnt-know-either) • 2h ago
 
 ---
 
@@ -97,7 +97,7 @@ Researchers at the company are trying to understand their A.I. system’s mind�
 
 Current AI systems are dangerously overconfident. They'll classify anything you give them, even if they've never seen anything like it before. I've been working on STLE (Set Theoretic Learning Environment) to address this by explicitly modeling what AI doesn't know. How It Works: STLE represents knowledge and ignorance as complementary fuzzy sets: - μ_x (accessibility): How familiar is this data? - μ_y (inaccessibility): How unfamiliar is this? - Constraint: μ_x + μ_y = 1 (always) This lets the AI explicitly say "I'm only 40% sure about this" and defer to humans. Real-World Applications: - Medical Diagnosis: "I'm 40% confident this is cancer" → defer to specialist - Autonomous Vehicles: Don't act on unfamiliar scenarios (low μ_x) - Education: Identify what students are partially understanding (frontier detection) - Finance: Flag unusual transactions for human review Results: - Out-of-distribution detection: 67% accuracy without any OOD training - Mathematically guaranteed complementarity - Extremely fast (< 1ms inference) Open Source: https://github.com/strangehospital/Frontier-Dynamics-Project The code includes: - Two implementations (simple NumPy, advanced PyTorch) - Complete documentation - Visualizations - 5 validation experiments This is proof-of-concept level, but I wanted to share it with the community. Feedback and collaboration welcome! What applications do you think this could help with? The Sky Project | strangehospital | Substack
 
-🔗 [GitHub](https://github.com/strangehospital/Frontier-Dynamics-Project) • 23h ago
+🔗 [GitHub](https://github.com/strangehospital/Frontier-Dynamics-Project) • 1d ago
 
 ---
 
@@ -125,7 +125,7 @@ Hello, I am learning 3D modeling (CAD and also mesh-based). And of course, I am 
 
 Does anyone have a plan for what happens next?
 
-The Atlantic • 12h ago
+The Atlantic • 13h ago
 
 ---
 
@@ -141,7 +141,7 @@ Harvard Business Review • 1d ago
 
 While AI increased productivity at one company, "Over time, this rhythm raised expectations for speed," the researchers wrote.
 
-Axios • 30m ago
+Axios • 1h ago
 
 ---
 
@@ -149,7 +149,7 @@ Axios • 30m ago
 
 The innovation puts the wealth-management industry in the crosshairs of AI competition, the way it did for software stocks and private credit firms last week and insurance brokerage shares on Monday.  Charles Schwab Corp., Raymond James Financial Inc., LPL Financial Holdings Inc. and Stifel Financial Corp. are all on their way to their worst days since April after falling between 7% and 8%.
 
-Yahoo Finance • 1h ago
+Yahoo Finance • 2h ago
 
 ---
 
@@ -157,7 +157,7 @@ Yahoo Finance • 1h ago
 
 The Republican governor, who has emerged as a leading AI skeptic, is pushing for legislation such as an AI “bill of rights.”
 
-Politico • 1h ago
+Politico • 2h ago
 
 ---
 
@@ -165,13 +165,13 @@ Politico • 1h ago
 
 Czech ice dancers Katerina Mrazkova and Daniel Mrazek are learning the hard way that LLMs sometimes spit out straight-up plagiarism.
 
-TechCrunch • 37m ago
+TechCrunch • 1h ago
 
 ---
 
 **[A.I. Is Giving You a Personalized Internet, but You Have No Say in It](https://www.nytimes.com/2026/02/10/technology/personaltech/ai-google-meta-opt-out.html)**
 
-The New York Times • 6h ago
+The New York Times • 7h ago
 
 ---
 
@@ -179,7 +179,7 @@ The New York Times • 6h ago
 
 As artificial intelligence becomes more advanced and commonplace, it can be difficult to know what's real and what's not, which has complicated the search for Nancy Guthrie, according to law enforcement. But just how difficult is it?
 
-NPR • 13h ago
+NPR • 14h ago
 
 ---
 
@@ -187,7 +187,7 @@ NPR • 13h ago
 
 ‘Evidence review’ sent by OurFutures Institute to David Pocock and other politicians references studies that do not exist or make opposing findings
 
-The Guardian • 29m ago
+The Guardian • 1h ago
 
 ---
 
@@ -195,7 +195,7 @@ The Guardian • 29m ago
 
 Kennesaw State University (KSU) continues to be a state leader in the rapidly growing field of artificial intelligence, with the addition of a bachelor's degree in AI approved Tuesday by the Board of Regents of the University System of Georgia. KSU becomes the first institution in Georgia to offer both bachelor’s and graduate degrees in artificial intelligence.
 
-Kennesaw State University • 3h ago
+Kennesaw State University • 4h ago
 
 ---
 
@@ -207,7 +207,7 @@ Kennesaw State University • 3h ago
 
 AI handles writing code but leaves the hard work: investigation, context, validation. Why vibe coding has limits and AI assistance can backfire.
 
-⬆️ 521 • 💬 358 • 1d ago • [blundergoat.com](https://www.blundergoat.com/articles/ai-makes-the-easy-part-easier-and-the-hard-part-harder)
+⬆️ 521 • 💬 358 • 2d ago • [blundergoat.com](https://www.blundergoat.com/articles/ai-makes-the-easy-part-easier-and-the-hard-part-harder)
 
 ---
 
@@ -215,7 +215,7 @@ AI handles writing code but leaves the hard work: investigation, context, valida
 
 As autonomous AI agents are increasingly deployed in high-stakes environments, ensuring their safety and alignment with human values has become a paramount concern. Current safety benchmarks primarily evaluate whether agents refuse explicitly harmful instructions or whether they can maintain procedural compliance in complex tasks. However, there is a lack of benchmarks designed to capture emergent forms of outcome-driven constraint violations, which arise when agents pursue goal optimization under strong performance incentives while deprioritizing ethical, legal, or safety constraints over multiple steps in realistic production settings. To address this gap, we introduce a new benchmark comprising 40 distinct scenarios. Each scenario presents a task that requires multi-step actions, and the agent's performance is tied to a specific Key Performance Indicator (KPI). Each scenario features Mandated (instruction-commanded) and Incentivized (KPI-pressure-driven) variations to distinguish between obedience and emergent misalignment. Across 12 state-of-the-art large language models, we observe outcome-driven constraint violations ranging from 1.3% to 71.4%, with 9 of the 12 evaluated models exhibiting misalignment rates between 30% and 50%. Strikingly, we find that superior reasoning capability does not inherently ensure safety; for instance, Gemini-3-Pro-Preview, one of the most capable models evaluated, exhibits the highest violation rate at 71.4%, frequently escalating to severe misconduct to satisfy KPIs. Furthermore, we observe significant "deliberative misalignment", where the models that power the agents recognize their actions as unethical during separate evaluation. These results emphasize the critical need for more realistic agentic-safety training before deployment to mitigate their risks in the real world.
 
-⬆️ 518 • 💬 333 • 19h ago • [arXiv.org](https://arxiv.org/abs/2512.20798)
+⬆️ 518 • 💬 333 • 20h ago • [arXiv.org](https://arxiv.org/abs/2512.20798)
 
 ---
 
@@ -239,7 +239,7 @@ Contribute to localgpt-app/localgpt development by creating an account on GitHub
 
 Announcing Entire with $60 million seed round and shipping our first product, called Checkpoints.
 
-⬆️ 244 • 💬 206 • 7h ago • [entire.io](https://entire.io/blog/hello-entire-world/)
+⬆️ 244 • 💬 206 • 8h ago • [entire.io](https://entire.io/blog/hello-entire-world/)
 
 ---
 
@@ -247,7 +247,7 @@ Announcing Entire with $60 million seed round and shipping our first product, ca
 
 Aruna Ranganathan and Xingqi Maggie Ye from Berkeley Haas School of Business report initial findings in the HBR from their April to December 2025 study of 200 employees at a …
 
-⬆️ 240 • 💬 279 • 17h ago • [Simon Willison’s Weblog](https://simonwillison.net/2026/Feb/9/ai-intensifies-work/)
+⬆️ 240 • 💬 279 • 18h ago • [Simon Willison’s Weblog](https://simonwillison.net/2026/Feb/9/ai-intensifies-work/)
 
 ---
 
@@ -287,23 +287,23 @@ Matchlock secures AI agent workloads with a Linux-based sandbox. - jingkaihe/mat
 
 ## YouTube Videos: "ai"
 
-**[OpenAI DIME AI Earbuds Story Is Blowing Up Right Now](https://www.youtube.com/watch?v=pFqONGixScE)**
+**[Huge resignations in Musk AI bubble](https://www.youtube.com/watch?v=Kd2hNUC-hDs)**
 
-A massive AI shift is unfolding behind the scenes. Reports and leaks suggest OpenAI is preparing a new consumer device ...
+Become a member! ✓ https://www.youtube.com/channel/UCahJ9IsvXnaQiuNyWQSkrkw/join ⭐ Support independent daily news ...
 
-📺 AI Revolution
+📺 Chris Norlund
 
-👁️ 21K • 👍 619 • 💬 64 • ⏱️ 15:41 • 23h ago
+👁️ 82K • 👍 6K • 💬 1K • ⏱️ 14:45 • 9h ago
 
 ---
 
-**[OpenAI&#39;s New Device was LEAKED (Dime)](https://www.youtube.com/watch?v=boP_p-2YoZs)**
+**[STOP Paying: Make AI Videos FREE (No Credits, 3 Tools)](https://www.youtube.com/watch?v=Y2jpbjWDL8E)**
 
-OpenAI's new device, spearheaded by designer Jony Ive, was just leaked! The ad features Alex Skarsgård inspecting an ...
+Grab your free seat to the 2-Day AI Mastermind: https://link.outskill.com/MALVAAIFEB2 Free PDF (links + prompts) in the ...
 
-📺 Matthew Berman
+📺 Malva AI
 
-👁️ 28K • 👍 828 • 💬 229 • ⏱️ 7:31 • 22h ago
+👁️ 15K • 👍 656 • 💬 107 • ⏱️ 11:35 • 1d ago
 
 ---
 
@@ -313,17 +313,37 @@ Create AI Apps in minutes with OnSpace AI, No Code & No API Key Needed – https
 
 📺 Caleb Writes Code
 
-👁️ 7K • 👍 557 • 💬 54 • ⏱️ 7:32 • 6h ago
+👁️ 19K • 👍 820 • 💬 86 • ⏱️ 7:32 • 7h ago
 
 ---
 
-**[Seedance 2.0 Claims the AI Video Throne!](https://www.youtube.com/watch?v=_o2MuUX9UYg)**
+**[OpenAI DIME AI Earbuds Story Is Blowing Up Right Now](https://www.youtube.com/watch?v=pFqONGixScE)**
 
-ByteDance just changed the game. One week after Kling 3.0 set the benchmark, SeedDance 2.0 is here to take the throne.
+A massive AI shift is unfolding behind the scenes. Reports and leaks suggest OpenAI is preparing a new consumer device ...
 
-📺 Theoretically Media
+📺 AI Revolution
 
-👁️ 68K • 👍 3K • 💬 405 • ⏱️ 17:08 • 1d ago
+👁️ 23K • 👍 652 • 💬 66 • ⏱️ 15:41 • 1d ago
+
+---
+
+**[OpenAI&#39;s New Device was LEAKED (Dime)](https://www.youtube.com/watch?v=boP_p-2YoZs)**
+
+OpenAI's new device, spearheaded by designer Jony Ive, was just leaked! The ad features Alex Skarsgård inspecting an ...
+
+📺 Matthew Berman
+
+👁️ 30K • 👍 854 • 💬 230 • ⏱️ 7:31 • 23h ago
+
+---
+
+**[babe wake up, new AI slop generator just dropped](https://www.youtube.com/watch?v=Adv3jdjXsIY)**
+
+im tired boss buy what I'm wearing :) https://dandingle.store/ seedance 2.0 is basically sora 3 made by China edited by: me ...
+
+📺 Dan Dingle
+
+👁️ 16K • 👍 2K • 💬 399 • ⏱️ 12:20 • 3h ago
 
 ---
 
@@ -331,7 +351,7 @@ ByteDance just changed the game. One week after Kling 3.0 set the benchmark, See
 
 📺 Onevilage
 
-👁️ 1.7M • 👍 37K • 💬 6K • ⏱️ 0:16 • 1d ago
+👁️ 1.8M • 👍 40K • 💬 6K • ⏱️ 0:16 • 1d ago
 
 ---
 
@@ -341,45 +361,27 @@ Can you spot AI videos easily? #tech #ai #surfshark.
 
 📺 Surfshark Academy
 
-👁️ 43K • 👍 6K • 💬 152 • ⏱️ 1:17 • 2d ago
+👁️ 45K • 👍 6K • 💬 158 • ⏱️ 1:17 • 2d ago
 
 ---
 
-**[India&#39;s IT Collapse | The AI Reality Nobody&#39;s Talking About](https://www.youtube.com/watch?v=cTaCoUA89oM)**
+**[Seedance 2.0 Claims the AI Video Throne!](https://www.youtube.com/watch?v=_o2MuUX9UYg)**
 
-India's IT sector just got hit with its biggest shock in 4 months. The Nifty IT index plunged 7% last week, a near 18% drop since ...
+ByteDance just changed the game. One week after Kling 3.0 set the benchmark, SeedDance 2.0 is here to take the throne.
 
-📺 Mark Savant
+📺 Theoretically Media
 
-👁️ 51K • 👍 1K • 💬 580 • ⏱️ 18:25 • 3d ago
-
----
-
-**[Failing AI Safeguards Aren&#39;t Just a Grok Problem](https://www.youtube.com/watch?v=zhXxhYvN3_4)**
-
-Thanks to our LMG clips sponsors dbrand and Razer. You can check them out at the links below: dbrand: https://dbrand.com/pcb ...
-
-📺 LMG Clips
-
-👁️ 50K • 👍 2K • 💬 439 • ⏱️ 19:49 • 23h ago
+👁️ 73K • 👍 3K • 💬 423 • ⏱️ 17:08 • 1d ago
 
 ---
 
-**[Mark Cuban On How He Would Get Rich From AI](https://www.youtube.com/watch?v=FvF3xZevc3g)**
+**[Iran Releases AI Video of Attack on US Armada, Khamenei Says Enemy Must Be Driven to Despair | WION](https://www.youtube.com/watch?v=dFvoFfgC2kY)**
 
-📺 SuccessFuel
+Iran Releases AI Video of Attack on US Armada, Khamenei Says Enemy Must Be Driven to Despair | WION Fineprint #iran ...
 
-👁️ 444K • 👍 10K • 💬 155 • ⏱️ 0:29 • 1d ago
+📺 WION
 
----
-
-**[A monkey makes clay pots to feed her hungry babies #ai #baby #monkey](https://www.youtube.com/watch?v=pYqwQ7Z6NNI)**
-
-A monkey makes clay pots to feed her hungry babies #ai #baby #monkey.
-
-📺 MrMonkeyBoy
-
-👁️ 288K • 👍 3K • 💬 2 • ⏱️ 0:37 • 10h ago
+👁️ 154K • 👍 1K • 💬 638 • ⏱️ 3:33 • 1d ago
 
 ---
 
@@ -395,7 +397,7 @@ Qwen3-Coder-Next is a highly efficient 3B activated parameter LLM (80B total) op
 
 `text-generation` `79.7B`
 
-⬇️ 140,722 • ❤️ 715 • 7d ago
+⬇️ 140,722 • ❤️ 720 • 7d ago
 
 ---
 
@@ -407,7 +409,7 @@ GLM-OCR is a 0.9B parameter multimodal OCR model for complex document understand
 
 `image-to-text`
 
-⬇️ 372,899 • ❤️ 921 • 1d ago
+⬇️ 372,899 • ❤️ 923 • 1d ago
 
 ---
 
@@ -419,7 +421,7 @@ MiniCPM-o 4.5 is a 9B parameter multimodal LLM excelling in vision, speech, and 
 
 `any-to-any` `9.4B`
 
-⬇️ 30,396 • ❤️ 742 • 13h ago
+⬇️ 30,396 • ❤️ 745 • 13h ago
 
 ---
 
@@ -431,7 +433,7 @@ Kimi K2.5 is a native multimodal agentic model with 1T parameters, excelling in 
 
 `image-text-to-text` `170.7B`
 
-⬇️ 503,831 • ❤️ 1,974 • 5d ago
+⬇️ 503,831 • ❤️ 1,978 • 5d ago
 
 ---
 
@@ -443,7 +445,7 @@ ACE-Step 1.5 is an open-source text-to-audio model for commercial-grade music ge
 
 `text-to-audio`
 
-⬇️ 28,713 • ❤️ 493 • 7d ago
+⬇️ 28,713 • ❤️ 496 • 7d ago
 
 ---
 
@@ -455,7 +457,7 @@ Voxtral-Mini-4B-Realtime-2602 is a multilingual, real-time speech-to-text model 
 
 `automatic-speech-recognition`
 
-⬇️ 3,197 • ❤️ 452 • 3h ago
+⬇️ 3,197 • ❤️ 453 • 4h ago
 
 ---
 
@@ -467,7 +469,7 @@ Step 3.5 Flash is an efficient open-source foundation model (11B active params, 
 
 `text-generation` `199.4B`
 
-⬇️ 249,342 • ❤️ 557 • 3d ago
+⬇️ 249,342 • ❤️ 559 • 3d ago
 
 ---
 
@@ -477,7 +479,7 @@ Step 3.5 Flash is an efficient open-source foundation model (11B active params, 
 
 Anima is a 2 billion parameter text-to-image diffusion model specialized in generating anime-style illustrations and artistic images, capable of producing non-photorealistic content. It is optimized for use with ComfyUI and trained on millions of anime and artistic images, with a knowledge cut-off of September 2025.
 
-⬇️ 90,430 • ❤️ 548 • 9d ago
+⬇️ 90,430 • ❤️ 550 • 9d ago
 
 ---
 
@@ -523,19 +525,6 @@ _paperbanana is an agentic framework that automates the creation of publication-
 
 ---
 
-**[MiniCPM-V 4.5: Cooking Efficient MLLMs via Architecture, Data, and
-  Training Recipe](https://huggingface.co/papers/2509.18154)**
-
-*Tianyu Yu, Zefan Wang, Chongyi Wang et al. (34 authors)*
-
-MiniCPM-V 4.5, a 8B parameter multimodal large language model, achieves high performance and efficiency through a unified 3D-Resampler architecture, a unified learning paradigm, and a hybrid reinforcement learning strategy.
-
-▲ 53 • 💬 4 • ⭐ 23,638 • 4mo ago
-
-[🎓 arXiv](https://arxiv.org/abs/2509.18154) • [💻 code](https://github.com/OpenBMB/MiniCPM-V)
-
----
-
 **[MOVA: Towards Scalable and Synchronized Video-Audio Generation](https://huggingface.co/papers/2602.08794)**
 
 *SII-OpenMOSS Team, Donghua Yu, Mingshu Chen et al. (40 authors)*
@@ -564,27 +553,16 @@ Financial markets are noisy and non-stationary, making alpha mining highly sensi
 
 ---
 
-**[Multi-Agent Collaboration via Evolving Orchestration](https://huggingface.co/papers/2505.19591)**
+**[MiniCPM-V 4.5: Cooking Efficient MLLMs via Architecture, Data, and
+  Training Recipe](https://huggingface.co/papers/2509.18154)**
 
-*Yufan Dang, Chen Qian, Xueheng Luo et al. (14 authors)*
+*Tianyu Yu, Zefan Wang, Chongyi Wang et al. (34 authors)*
 
-A centralized orchestrator dynamically directs LLM agents via reinforcement learning, achieving superior multi-agent collaboration in varying tasks with reduced computational costs.
+MiniCPM-V 4.5, a 8B parameter multimodal large language model, achieves high performance and efficiency through a unified 3D-Resampler architecture, a unified learning paradigm, and a hybrid reinforcement learning strategy.
 
-▲ 6 • 💬 0 • ⭐ 30,719 • 8mo ago
+▲ 53 • 💬 4 • ⭐ 23,654 • 4mo ago
 
-[🎓 arXiv](https://arxiv.org/abs/2505.19591) • [💻 code](https://github.com/OpenBMB/ChatDev/tree/puppeteer)
-
----
-
-**[Scaling Large-Language-Model-based Multi-Agent Collaboration](https://huggingface.co/papers/2406.07155)**
-
-*Chen Qian, Zihao Xie, Yifei Wang et al. (10 authors)*
-
-Multi-agent collaboration networks enhance collective intelligence, outperforming baselines across various topologies and showing emergent abilities earlier than neural scaling laws suggest.
-
-▲ 5 • 💬 0 • ⭐ 30,721 • 20mo ago
-
-[🎓 arXiv](https://arxiv.org/abs/2406.07155) • [💻 code](https://github.com/OpenBMB/ChatDev/tree/macnet) • [🔗 project](https://github.com/OpenBMB/ChatDev/tree/macnet)
+[🎓 arXiv](https://arxiv.org/abs/2509.18154) • [💻 code](https://github.com/OpenBMB/MiniCPM-V)
 
 ---
 
@@ -600,17 +578,27 @@ Cross-Team Collaboration improves software quality by enabling multiple LLM agen
 
 ---
 
-**[Qwen3-TTS Technical Report](https://huggingface.co/papers/2601.15621)**
+**[Multi-Agent Collaboration via Evolving Orchestration](https://huggingface.co/papers/2505.19591)**
 
-*Hangrui Hu, Xinfa Zhu, Ting He et al. (16 authors)*
+*Yufan Dang, Chen Qian, Xueheng Luo et al. (14 authors)*
 
-🏢 Qwen
+A centralized orchestrator dynamically directs LLM agents via reinforcement learning, achieving superior multi-agent collaboration in varying tasks with reduced computational costs.
 
-The Qwen3-TTS series presents advanced multilingual text-to-speech models with voice cloning and controllable speech generation capabilities, utilizing dual-track LM architecture and specialized speech tokenizers for efficient streaming synthesis.
+▲ 6 • 💬 0 • ⭐ 30,750 • 8mo ago
 
-▲ 62 • 💬 1 • ⭐ 7,347 • 20d ago
+[🎓 arXiv](https://arxiv.org/abs/2505.19591) • [💻 code](https://github.com/OpenBMB/ChatDev/tree/puppeteer)
 
-[🎓 arXiv](https://arxiv.org/abs/2601.15621) • [💻 code](https://github.com/QwenLM/Qwen3-TTS)
+---
+
+**[Scaling Large-Language-Model-based Multi-Agent Collaboration](https://huggingface.co/papers/2406.07155)**
+
+*Chen Qian, Zihao Xie, Yifei Wang et al. (10 authors)*
+
+Multi-agent collaboration networks enhance collective intelligence, outperforming baselines across various topologies and showing emergent abilities earlier than neural scaling laws suggest.
+
+▲ 5 • 💬 0 • ⭐ 30,753 • 20mo ago
+
+[🎓 arXiv](https://arxiv.org/abs/2406.07155) • [💻 code](https://github.com/OpenBMB/ChatDev/tree/macnet) • [🔗 project](https://github.com/OpenBMB/ChatDev/tree/macnet)
 
 ---
 
@@ -626,6 +614,20 @@ Bitnet.cpp enhances edge inference for ternary LLMs using a novel mixed-precisio
 
 ---
 
+**[Qwen3-TTS Technical Report](https://huggingface.co/papers/2601.15621)**
+
+*Hangrui Hu, Xinfa Zhu, Ting He et al. (16 authors)*
+
+🏢 Qwen
+
+The Qwen3-TTS series presents advanced multilingual text-to-speech models with voice cloning and controllable speech generation capabilities, utilizing dual-track LM architecture and specialized speech tokenizers for efficient streaming synthesis.
+
+▲ 62 • 💬 1 • ⭐ 7,384 • 20d ago
+
+[🎓 arXiv](https://arxiv.org/abs/2601.15621) • [💻 code](https://github.com/QwenLM/Qwen3-TTS)
+
+---
+
 **[SmolDocling: An ultra-compact vision-language model for end-to-end
   multi-modal document conversion](https://huggingface.co/papers/2503.11576)**
 
@@ -635,7 +637,7 @@ Bitnet.cpp enhances edge inference for ternary LLMs using a novel mixed-precisio
 
 SmolDocling is a compact vision-language model that performs end-to-end document conversion with robust performance across various document types using 256M parameters and a new markup format.
 
-▲ 138 • 💬 19 • ⭐ 52,607 • 11mo ago
+▲ 138 • 💬 19 • ⭐ 52,661 • 11mo ago
 
 [🎓 arXiv](https://arxiv.org/abs/2503.11576) • [💻 code](https://github.com/docling-project/docling) • [🔗 project](https://huggingface.co/ds4sd/SmolDocling-256M-preview)
 
@@ -651,7 +653,7 @@ The Ultimate Collection of 700+ Agentic Skills for Claude Code/Antigravity/Curso
 
 `Python` `agentic-skills` `ai-agents` `antigravity` `autonomous-coding` `claude-code`
 
-⭐ 8.3k • 🔱 1.7k • 13h ago
+⭐ 8.3k • 🔱 1.7k • 14h ago
 
 ---
 
@@ -661,7 +663,7 @@ Marketing skills for Claude Code and AI agents. CRO, copywriting, SEO, analytics
 
 `claude` `codex` `marketing`
 
-⭐ 7.2k • 🔱 821 • 6d ago
+⭐ 7.2k • 🔱 827 • 6d ago
 
 ---
 
@@ -669,7 +671,7 @@ Marketing skills for Claude Code and AI agents. CRO, copywriting, SEO, analytics
 
 Elevate your AI research writing, no more tedious polishing ✨ 
 
-⭐ 5.3k • 🔱 410 • 6d ago
+⭐ 5.3k • 🔱 411 • 6d ago
 
 ---
 
@@ -687,7 +689,7 @@ PaperBanana: Automating Academic Illustration For AI Scientists
 
 `JavaScript`
 
-⭐ 3.2k • 🔱 157 • 7d ago
+⭐ 3.2k • 🔱 158 • 8d ago
 
 ---
 
@@ -725,7 +727,7 @@ The visual feedback tool for agents.
 
 `TypeScript` `ai` `design` `tools` `ui`
 
-⭐ 2.1k • 🔱 147 • 1d ago
+⭐ 2.1k • 🔱 149 • 1d ago
 
 ---
 
@@ -735,7 +737,7 @@ Smart LLM router — save 78% on inference costs. 30+ models, one wallet, x402 m
 
 `TypeScript` `ai` `ai-agents` `anthropic` `cost-optimization` `crypto`
 
-⭐ 2.0k • 🔱 203 • 2h ago
+⭐ 2.1k • 🔱 207 • 3h ago
 
 ---
 
