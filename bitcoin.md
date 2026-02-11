@@ -3,14 +3,14 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-02-11T09:55:13.166816+00:00'
+updated: '2026-02-11T10:52:16.663260+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
 - social
-- videos
 - news
+- videos
 - cryptocurrency
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** February 11, 2026 at 09:55 UTC  
+**Last Updated:** February 11, 2026 at 10:52 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -81,7 +81,7 @@ Rank #1
 
 Aight look, nobody’s asking you to quit your job and run a node. But if you had one quiet hour—just one—to pull up that eight-page white paper from October 31st, 2008, you’d realize: this wasn’t a tech experiment. It was a direct shot at the system that’s got you running in circles. What’s your day like? Wake up. Grind. Emails. Lunch at the desk. Kids’ homework. Gym skipped. Bills hit auto-pay before you blink. Then you’re on the couch, thumb numb from scrolling. Who ends up drained? You. Who stays wide-eyed and counting cash? The ones printing it in the first place. Distraction isn’t an accident. It’s the job. Designed to keep you tired, keep you busy, keep you mad about the wrong thing—so you’ll never zoom out long enough to see the map getting redrawn. Meanwhile, Bitcoin? It’s doing it in silence. No ads. No push notifications. No “limited time offer.” Just a ledger that’s been ticking every ten minutes since January 12th, 2009 when Satoshi sent some to Hal Finney (RIP). And guess what? It doesn’t need your permission. They taught us money means stress. Work, earn, spend, borrow, repeat. Satoshi? He said nah bro—money can be math. Code that no bank, no government, no boss can freeze while you’re asleep. But to even think that idea, you’d need… time. And time’s the one thing they’re really selling back to you. Twenty bucks a month for a streaming service that keeps you numb. Seven bucks for coffee that lasts twenty minutes. Twenty eight percent Interest on a credit card you didn’t even want. Bitcoin flips the script: it costs nothing to learn. One download, one PDF, zero debt. But still—ninety-seven percent of people won’t. Easier to let the clowns like Sorkin on CNBC decide your fate. “Too risky,” they say. “Too volatile,” they say. Imagine being wrong for 16-17 years straight about something that started at ZERO. About something that you said would go away. But it’s still here. That must kill your ego. The distraction machine works because it feels normal. But peel one layer? You’re on a treadmill built by the people selling the gym membership. Bitcoin’s the off-switch. But switches only work if you reach for them. And right now, you’re too busy reaching for your phone.
 
-5h ago
+6h ago
 
 ---
 
@@ -93,19 +93,19 @@ Aight look, nobody’s asking you to quit your job and run a node. But if you ha
 
 **[We're soooo back!](https://www.reddit.com/r/Bitcoin/comments/1r1aof2/were_soooo_back/)**
 
-14h ago
+15h ago
 
 ---
 
 **[We’re in EZ mode now](https://www.reddit.com/r/Bitcoin/comments/1r1ofu8/were_in_ez_mode_now/)**
 
-4h ago
+5h ago
 
 ---
 
 **[That's how it be](https://www.reddit.com/r/Bitcoin/comments/1r1nu1j/thats_how_it_be/)**
 
-5h ago
+6h ago
 
 ---
 
@@ -113,7 +113,7 @@ Aight look, nobody’s asking you to quit your job and run a node. But if you ha
 
 We’re still very early
 
-6h ago
+7h ago
 
 ---
 
@@ -129,7 +129,7 @@ The $2.35T crypto market’s Fear & Greed Index has dropped to 9 (Extreme Fear)�
 
 "The United States is becoming the Crypto Capital of the world"
 
-17h ago
+18h ago
 
 ---
 
@@ -137,7 +137,7 @@ The $2.35T crypto market’s Fear & Greed Index has dropped to 9 (Extreme Fear)�
 
 Let be honest! At 125k we felt FOMO. AT 60-70k It seems scary all of a sudden? Like seriously men! 1 BItcoin = 1 Bitcoin But still its truely feeling scary? Or a gift for buying the dip? https://preview.redd.it/5i9ir7idhpig1.png?width=1280&format=png&auto=webp&s=69938401ab0c443491fdd538bba977d8bf2b73ef
 
-15h ago
+16h ago
 
 ---
 
@@ -145,7 +145,7 @@ Let be honest! At 125k we felt FOMO. AT 60-70k It seems scary all of a sudden? L
 
 "Both Bitcoin and Stablecoins will be the money for all of these AI Agents"
 
-18h ago
+19h ago
 
 ---
 
@@ -157,7 +157,7 @@ Let be honest! At 125k we felt FOMO. AT 60-70k It seems scary all of a sudden? L
 
 Bitcoin prices hovered around $69,000, with one analyst suggesting that the crypto market may be approaching its bottom.
 
-Yahoo Finance • 17h ago
+Yahoo Finance • 18h ago
 
 ---
 
@@ -165,13 +165,13 @@ Yahoo Finance • 17h ago
 
 Bitcoin no longer behaves like ‘digital gold,’ says Stifel analyst.
 
-thestreet.com • 19h ago
+thestreet.com • 20h ago
 
 ---
 
 **[Bitcoin’s getting slammed again as number-one cryptocurrency loses nearly $2,000](https://www.marketwatch.com/story/bitcoins-getting-slammed-again-as-number-one-cryptocurrency-loses-nearly-2-000-b5c1cb45?gaa_at=eafs&gaa_n=AWEtsqeNXRALsLrk4XkeSSEXPuSr22x1LVLuI3rcYw119jEtDGQ4a96G0KM9&gaa_ts=698c556c&gaa_sig=KmIWEbylccQzF2u-OqWgMvGPVwDCluyKBHUTOvNGpmVHdxd5owM0FXKM_Dtt5X1t0DJmU0rxJJSdENaxMYUSZw%3D%3D)**
 
-MarketWatch • 14m ago
+MarketWatch • 1h ago
 
 ---
 
@@ -179,7 +179,7 @@ MarketWatch • 14m ago
 
 Goldman Sachs disclosed millions invested in XRP and Solana, alongside Bitcoin and Ether, in its Q4 2025 SEC filing.
 
-Yahoo Finance • 12h ago
+Yahoo Finance • 13h ago
 
 ---
 
@@ -187,7 +187,7 @@ Yahoo Finance • 12h ago
 
 Activity has been observed in the Bitcoin account associated with the ransom note sent by Nancy Guthrie's suspected kidnappers.
 
-People.com • 5h ago
+People.com • 6h ago
 
 ---
 
@@ -211,7 +211,7 @@ BBC • 3d ago
 
 South Korean cryptocurrency exchange Bithumb has revealed that a serious system flaw led to the accidental transfer of bitcoin worth over $40 billion to its users during a promotional event. The error occurred when the platform mistakenly credited around 620,000 bitcoin to customers instead...
 
-Yahoo Finance • 1h ago
+Yahoo Finance • 2h ago
 
 ---
 
@@ -219,7 +219,7 @@ Yahoo Finance • 1h ago
 
 Treasury Secretary Scott Bessent recently pressed lawmakers to act on stalled crypto legislation, saying the United States must secure clear market structure rules before the end of the spring legislative window.
 
-Bitcoin Magazine • 16h ago
+Bitcoin Magazine • 17h ago
 
 ---
 
@@ -227,7 +227,7 @@ Bitcoin Magazine • 16h ago
 
 The president’s support was never a guarantee of the market’s stability.
 
-The Atlantic • 9h ago
+The Atlantic • 10h ago
 
 ---
 
@@ -265,7 +265,7 @@ Bitcoin outlook turns bearish as Pivotus’ Richard Farr targets BTC at $0 and M
 
 **[$40B in Bitcoin Accidentally Given Away](https://news.ycombinator.com/item?id=46965768)**
 
-⬆️ 10 • 💬 0 • 14h ago • [wsj.com](https://www.wsj.com/finance/currencies/a-bitcoin-blunder-for-the-ages-40-billion-accidentally-given-away-3a207eac)
+⬆️ 10 • 💬 0 • 15h ago • [wsj.com](https://www.wsj.com/finance/currencies/a-bitcoin-blunder-for-the-ages-40-billion-accidentally-given-away-3a207eac)
 
 ---
 
@@ -317,7 +317,7 @@ Bitcoin is about to break a major support range and things might be getting wors
 
 📺 Ricky Gutierrez
 
-👁️ 6K • 👍 289 • 💬 70 • ⏱️ 8:46 • 5h ago
+👁️ 6K • 👍 289 • 💬 70 • ⏱️ 8:46 • 6h ago
 
 ---
 
@@ -327,7 +327,7 @@ Bitcoin just suffered the largest dollar-value crash in its history — without 
 
 📺 Swan Bitcoin
 
-👁️ 28K • 👍 1K • 💬 155 • ⏱️ 15:49 • 11h ago
+👁️ 28K • 👍 1K • 💬 155 • ⏱️ 15:49 • 12h ago
 
 ---
 
@@ -337,7 +337,7 @@ Watch this video where I break down volatility: https://youtu.be/Z_vlwus19-8?si=
 
 📺 Mark Moss
 
-👁️ 76K • 👍 3K • 💬 418 • ⏱️ 19:19 • 14h ago
+👁️ 76K • 👍 3K • 💬 418 • ⏱️ 19:19 • 15h ago
 
 ---
 
@@ -347,7 +347,7 @@ CNBC"s MacKenzie Sigalos joins 'Squawk Box' to discuss the recent bitcoin volati
 
 📺 CNBC Television
 
-👁️ 67K • 👍 661 • 💬 820 • ⏱️ 6:36 • 17h ago
+👁️ 67K • 👍 661 • 💬 820 • ⏱️ 6:36 • 18h ago
 
 ---
 
@@ -357,7 +357,7 @@ is on Kiana Danial's (@InvestDiva) radar for a further drop in Bitcoin price. If
 
 📺 Schwab Network
 
-👁️ 2K • 👍 71 • 💬 6 • ⏱️ 2:11 • 7h ago
+👁️ 2K • 👍 71 • 💬 6 • ⏱️ 2:11 • 8h ago
 
 ---
 
@@ -377,7 +377,7 @@ Nick Valdez looks at the Mayer Multiple and what it might mean for Bitcoin's pri
 
 📺 Discover Crypto
 
-👁️ 5K • 👍 194 • 💬 29 • ⏱️ 7:53 • 8h ago
+👁️ 5K • 👍 194 • 💬 29 • ⏱️ 7:53 • 9h ago
 
 ---
 
@@ -387,7 +387,7 @@ Bitcoin #Crypto #Finance With roughly 150 days left in what may be a critical ac
 
 📺 The Wolf Of All Streets
 
-👁️ 17K • 👍 711 • 💬 171 • ⏱️ 55:27 • 18h ago
+👁️ 17K • 👍 711 • 💬 171 • ⏱️ 55:27 • 19h ago
 
 ---
 

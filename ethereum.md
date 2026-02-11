@@ -3,14 +3,14 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-02-11T09:55:13.172872+00:00'
+updated: '2026-02-11T10:52:16.669244+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
 - social
-- videos
 - news
+- videos
 - cryptocurrency
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** February 11, 2026 at 09:55 UTC  
+**Last Updated:** February 11, 2026 at 10:52 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -72,7 +72,7 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-3h ago
+4h ago
 
 ---
 
@@ -88,7 +88,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 Posted by Jacob Czepluch on February 10, 2026
 
-🔗 [Solidity Programming Language](https://www.soliditylang.org/blog/2026/02/10/solidity-developer-survey-2025-announcement/) • 9h ago
+🔗 [Solidity Programming Language](https://www.soliditylang.org/blog/2026/02/10/solidity-developer-survey-2025-announcement/) • 10h ago
 
 ---
 
@@ -156,7 +156,7 @@ eth-mempool-monitor subscribes to Ethereum pending transactions over WebSocket, 
 
 Robinhood said developers will begin experimenting with applications on its Ethereum layer-2 network, while providing key technical feedback.
 
-Decrypt • 8h ago
+Decrypt • 9h ago
 
 ---
 
@@ -164,7 +164,7 @@ Decrypt • 8h ago
 
 In a new post on X revisiting ideas he first outlined two years ago, Buterin argues that the push toward artificial general intelligence often resembles the kind of unchecked speed and scale that Ethereum itself was created to challenge.
 
-CoinDesk • 18h ago
+CoinDesk • 19h ago
 
 ---
 
@@ -180,13 +180,13 @@ dlnews.com • 1d ago
 
 The Bitcoin and Ethereum prices have rebounded from last week’s lows, providing optimism that the bottom may be in. This comes amid accumulation from whales while the crypto ETFs have seen notable inflows following last week’s outflows. Why The Bitcoin And Ethereum Prices Are Climbing AgainThe Bitc…
 
-TradingView • 9h ago
+TradingView • 10h ago
 
 ---
 
 **[Ethereum Under Pressure As It Falls Below $2,000](https://seekingalpha.com/article/4868540-ethereum-under-pressure-as-it-falls-below-2000)**
 
-Seeking Alpha • 2h ago
+Seeking Alpha • 3h ago
 
 ---
 
@@ -194,7 +194,7 @@ Seeking Alpha • 2h ago
 
 Bitcoin (BTC), Ethereum (ETH), and Ripple (XRP) show signs of cautious stabilization on Wednesday after failing to close above their key resistance levels earlier this week. BTC trades below $69,000, while ETH and XRP also encountered rejection near major resistance levels.
 
-FXStreet • 5h ago
+FXStreet • 6h ago
 
 ---
 
@@ -202,7 +202,7 @@ FXStreet • 5h ago
 
 Buterin pitched Ethereum as an economic/coordination layer for decentralized, privacy-preserving AI systems rather than a race toward AGI.
 
-The Block • 22h ago
+The Block • 23h ago
 
 ---
 
@@ -210,7 +210,7 @@ The Block • 22h ago
 
 JPMorganChase, Citi and Custodia are among the banks that have built digital asset projects on the Ethereum blockchain.
 
-American Banker • 14h ago
+American Banker • 15h ago
 
 ---
 
@@ -218,13 +218,13 @@ American Banker • 14h ago
 
 New York, United States, February 10th, 2026, ChainwireThe Enterprise Ethereum Alliance today announced that Polygon Labs, Et...
 
-markets.businessinsider.com • 14h ago
+markets.businessinsider.com • 15h ago
 
 ---
 
 **[Ethereum leads way as large cryptocurrencies drop](https://www.marketwatch.com/data-news/ethereum-leads-way-as-large-cryptocurrencies-drop-f5e80176-a90dea2a77fc?gaa_at=eafs&gaa_n=AWEtsqf1edaw0UBmAf6AevZy3DXXM5c2KQ17yDKxb_eyTliKZ-UHL6BZB4LJ&gaa_ts=698c556d&gaa_sig=emylIPG3kGh1eQWlDpfCll-ETf2m2IP82joBH8AJjwoDQRTJR6oADLc3uaLcjJMzdt99g27N5EvpJPIjSN22pA%3D%3D)**
 
-MarketWatch • 18h ago
+MarketWatch • 19h ago
 
 ---
 
@@ -238,7 +238,7 @@ This video provides a professional Elliott Wave and technical analysis of Ethere
 
 📺 More Crypto Online
 
-👁️ 992 • 👍 89 • 💬 5 • ⏱️ 4:00 • 5h ago
+👁️ 992 • 👍 89 • 💬 5 • ⏱️ 4:00 • 6h ago
 
 ---
 
@@ -256,7 +256,7 @@ If You Hold Crypto... GET READY! (watch before they delete this) ☝️ Become a
 
 📺 Zach Humphries
 
-👁️ 4K • 👍 487 • 💬 30 • ⏱️ 5:43 • 10h ago
+👁️ 4K • 👍 487 • 💬 30 • ⏱️ 5:43 • 11h ago
 
 ---
 
@@ -266,7 +266,7 @@ My FREE Daily 5-Min Crypto Newsletter: https://www.cryptonutshell.com/subscribe 
 
 📺 Crypto Nutshell
 
-👁️ 12K • 👍 488 • 💬 42 • ⏱️ 19:39 • 18h ago
+👁️ 12K • 👍 488 • 💬 42 • ⏱️ 19:39 • 19h ago
 
 ---
 
@@ -276,7 +276,7 @@ CNBC"s MacKenzie Sigalos joins 'Squawk Box' to discuss the recent bitcoin volati
 
 📺 CNBC Television
 
-👁️ 67K • 👍 661 • 💬 820 • ⏱️ 6:36 • 17h ago
+👁️ 67K • 👍 661 • 💬 820 • ⏱️ 6:36 • 18h ago
 
 ---
 
@@ -286,7 +286,7 @@ Crypto News: Goldman Sachs crypto holdings disclosed in new filing which include
 
 📺 Thinking Crypto
 
-👁️ 3K • 👍 346 • 💬 38 • ⏱️ 21:01 • 5h ago
+👁️ 3K • 👍 346 • 💬 38 • ⏱️ 21:01 • 6h ago
 
 ---
 
@@ -316,7 +316,7 @@ TRADE STOCKS, FOREX AND CFDS ON PRIME XBT https://u.primexbt-markets.pro/Martini
 
 📺 TMG Trades
 
-👁️ 2K • 👍 167 • 💬 55 • ⏱️ 10:30 • 18h ago
+👁️ 2K • 👍 167 • 💬 55 • ⏱️ 10:30 • 19h ago
 
 ---
 
@@ -326,7 +326,7 @@ BITCOIN HOLDERS: Time to Get Serious (Warning)!!! - Bitcoin News Today, Ethereum
 
 📺 Crypto World
 
-👁️ 8K • 👍 332 • 💬 48 • ⏱️ 17:52 • 13h ago
+👁️ 8K • 👍 332 • 💬 48 • ⏱️ 17:52 • 14h ago
 
 ---
 
