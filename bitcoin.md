@@ -3,7 +3,7 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-02-11T06:41:35.923748+00:00'
+updated: '2026-02-11T07:56:17.423986+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
@@ -18,7 +18,7 @@ data_types:
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** February 11, 2026 at 06:41 UTC  
+**Last Updated:** February 11, 2026 at 07:56 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,17 +38,17 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $66,744.56
+### $67,240.66
 
 ---
 
 ## Bitcoin Chart
 
 **24h:** -2.8%  
-**7d:** +6.8%  
-**30d:** -29.8%  
-**90d:** -29.3%  
-**1y:** -31.4%  
+**7d:** +7.1%  
+**30d:** -29.5%  
+**90d:** -29.1%  
+**1y:** -31.2%  
 
 ---
 
@@ -77,15 +77,9 @@ Rank #1
 
 ## Reddit: r/Bitcoin
 
-**[We're soooo back!](https://www.reddit.com/r/Bitcoin/comments/1r1aof2/were_soooo_back/)**
-
-11h ago
-
----
-
 **[Maybe I am](https://www.reddit.com/r/Bitcoin/comments/1r1mwos/maybe_i_am/)**
 
-2h ago
+4h ago
 
 ---
 
@@ -93,7 +87,13 @@ Rank #1
 
 Aight look, nobody’s asking you to quit your job and run a node. But if you had one quiet hour—just one—to pull up that eight-page white paper from October 31st, 2008, you’d realize: this wasn’t a tech experiment. It was a direct shot at the system that’s got you running in circles. What’s your day like? Wake up. Grind. Emails. Lunch at the desk. Kids’ homework. Gym skipped. Bills hit auto-pay before you blink. Then you’re on the couch, thumb numb from scrolling. Who ends up drained? You. Who stays wide-eyed and counting cash? The ones printing it in the first place. Distraction isn’t an accident. It’s the job. Designed to keep you tired, keep you busy, keep you mad about the wrong thing—so you’ll never zoom out long enough to see the map getting redrawn. Meanwhile, Bitcoin? It’s doing it in silence. No ads. No push notifications. No “limited time offer.” Just a ledger that’s been ticking every ten minutes since January 12th, 2009 when Satoshi sent some to Hal Finney (RIP). And guess what? It doesn’t need your permission. They taught us money means stress. Work, earn, spend, borrow, repeat. Satoshi? He said nah bro—money can be math. Code that no bank, no government, no boss can freeze while you’re asleep. But to even think that idea, you’d need… time. And time’s the one thing they’re really selling back to you. Twenty bucks a month for a streaming service that keeps you numb. Seven bucks for coffee that lasts twenty minutes. Twenty eight percent Interest on a credit card you didn’t even want. Bitcoin flips the script: it costs nothing to learn. One download, one PDF, zero debt. But still—ninety-seven percent of people won’t. Easier to let the clowns like Sorkin on CNBC decide your fate. “Too risky,” they say. “Too volatile,” they say. Imagine being wrong for 16-17 years straight about something that started at ZERO. About something that you said would go away. But it’s still here. That must kill your ego. The distraction machine works because it feels normal. But peel one layer? You’re on a treadmill built by the people selling the gym membership. Bitcoin’s the off-switch. But switches only work if you reach for them. And right now, you’re too busy reaching for your phone.
 
-2h ago
+3h ago
+
+---
+
+**[We're soooo back!](https://www.reddit.com/r/Bitcoin/comments/1r1aof2/were_soooo_back/)**
+
+12h ago
 
 ---
 
@@ -101,13 +101,33 @@ Aight look, nobody’s asking you to quit your job and run a node. But if you ha
 
 We’re still very early
 
-3h ago
+4h ago
+
+---
+
+**[We’re in EZ mode now](https://www.reddit.com/r/Bitcoin/comments/1r1ofu8/were_in_ez_mode_now/)**
+
+2h ago
 
 ---
 
 **[JUST IN: 🇺🇸 Treasury Secretary Bessent calls to pass crypto market structure legislation.](https://www.reddit.com/r/Bitcoin/comments/1r15dur/just_in_treasury_secretary_bessent_calls_to_pass/)**
 
 "The United States is becoming the Crypto Capital of the world"
+
+15h ago
+
+---
+
+**[That's how it be](https://www.reddit.com/r/Bitcoin/comments/1r1nu1j/thats_how_it_be/)**
+
+3h ago
+
+---
+
+**[Let be honest! At 125k we felt FOMO. AT 60-70k It seems scary all of a sudden?](https://www.reddit.com/r/Bitcoin/comments/1r17uuj/let_be_honest_at_125k_we_felt_fomo_at_6070k_it/)**
+
+Let be honest! At 125k we felt FOMO. AT 60-70k It seems scary all of a sudden? Like seriously men! 1 BItcoin = 1 Bitcoin But still its truely feeling scary? Or a gift for buying the dip? https://preview.redd.it/5i9ir7idhpig1.png?width=1280&format=png&auto=webp&s=69938401ab0c443491fdd538bba977d8bf2b73ef
 
 14h ago
 
@@ -117,35 +137,15 @@ We’re still very early
 
 "Both Bitcoin and Stablecoins will be the money for all of these AI Agents"
 
-15h ago
+16h ago
 
 ---
 
-**[Let be honest! At 125k we felt FOMO. AT 60-70k It seems scary all of a sudden?](https://www.reddit.com/r/Bitcoin/comments/1r17uuj/let_be_honest_at_125k_we_felt_fomo_at_6070k_it/)**
+**[Crypto sentiment - extreme fear territory](https://www.reddit.com/r/Bitcoin/comments/1r1pahz/crypto_sentiment_extreme_fear_territory/)**
 
-Let be honest! At 125k we felt FOMO. AT 60-70k It seems scary all of a sudden? Like seriously men! 1 BItcoin = 1 Bitcoin But still its truely feeling scary? Or a gift for buying the dip? https://preview.redd.it/5i9ir7idhpig1.png?width=1280&format=png&auto=webp&s=69938401ab0c443491fdd538bba977d8bf2b73ef
-
-12h ago
-
----
-
-**[That's how it be](https://www.reddit.com/r/Bitcoin/comments/1r1nu1j/thats_how_it_be/)**
+The $2.35T crypto market’s Fear & Greed Index has dropped to 9 (Extreme Fear)—its lowest reading since the 2019 market crash.
 
 2h ago
-
----
-
-**[We’re in EZ mode now](https://www.reddit.com/r/Bitcoin/comments/1r1ofu8/were_in_ez_mode_now/)**
-
-1h ago
-
----
-
-**[Were you excited to buy at $100k+ but scared to buy at $69k?](https://www.reddit.com/r/Bitcoin/comments/1r18tql/were_you_excited_to_buy_at_100k_but_scared_to_buy/)**
-
-The best medicine for lack of conviction is education. Once you decide for yourself that Bitcoin is more than "number go up" technology, you can develop the diamond hands required for its volatilty. The value and tenants of Bitcoin won't immediately be expressed in upward price movement. The reason to hold Bitcoin come from what it may become 10+ years from now. Like Warren Buffet would say, the markets are the only place where when something you want goes on sell, you run out of the store.
-
-12h ago
 
 ---
 
@@ -157,23 +157,13 @@ The best medicine for lack of conviction is education. Once you decide for yours
 
 Bitcoin prices hovered around $69,000, with one analyst suggesting that the crypto market may be approaching its bottom.
 
-Yahoo Finance • 14h ago
+Yahoo Finance • 15h ago
 
 ---
 
-**[Activity Observed In Bitcoin Account Connected to Nancy Guthrie Ransom Note](https://people.com/activity-observed-in-bitcoin-account-connected-to-nancy-guthrie-ransom-note-11904191)**
+**[Activity in Nancy Guthrie’s ransom bitcoin account: TMZ](https://www.newsnationnow.com/cuomo-show/activity-nancy-guthries-ransom-bitcoin/)**
 
-Activity has been observed in the Bitcoin account associated with the ransom note sent by Nancy Guthrie's suspected kidnappers.
-
-People.com • 2h ago
-
----
-
-**[Bitcoin Whales Are Buying Again as Other Investors Retreat](https://finance.yahoo.com/news/bitcoin-whales-buying-again-other-012241470.html)**
-
-Data from industry research firm Glassnode show that wallets holding more than 1,000 Bitcoin added more than $4 billion worth of the token over the period, interrupting months of divestment that have left Bitcoin roughly 40% below its October peak.  Excluding exchange-traded funds and exchanges, large Bitcoin-holding players have been net sellers over the past year, with more than 170,000 coins — worth some $11 billion — leaving these wallets since mid-December, according to Glassnode.  Bitcoin’s price action reflects that uneven support.
-
-Yahoo Finance • 5h ago
+NewsNation • 4h ago
 
 ---
 
@@ -187,19 +177,13 @@ The Guardian • 1d ago
 
 **[Lawmakers Grill Crypto Exchange Over $40 Billion ‘Ghost Bitcoin’](https://www.bloomberg.com/news/articles/2026-02-11/lawmakers-grill-crypto-exchange-over-40-billion-ghost-bitcoin)**
 
-Bloomberg.com • 2h ago
+Bloomberg.com • 4h ago
 
 ---
 
 **[Key facts: Bitcoin Down 44% from Peak; Bithumb Error Causes Market Drop; Harvard Invests in ETFs](https://www.tradingview.com/news/tradingview:68adf22c97a12:0-key-facts-bitcoin-down-44-from-peak-bithumb-error-causes-market-drop-harvard-invests-in-etfs/)**
 
-TradingView • 6h ago
-
----
-
-**[Crypto Investor Exodus Weighs Heavier on Bitcoin Also-Ran Ether](https://www.bloomberg.com/news/articles/2026-02-10/ether-eth-resumes-plunge-tracking-bitcoin-btc-slide-on-risk-off-mood)**
-
-Bloomberg.com • 10h ago
+TradingView • 7h ago
 
 ---
 
@@ -207,7 +191,7 @@ Bloomberg.com • 10h ago
 
 Treasury Secretary Scott Bessent recently pressed lawmakers to act on stalled crypto legislation, saying the United States must secure clear market structure rules before the end of the spring legislative window.
 
-Bitcoin Magazine • 13h ago
+Bitcoin Magazine • 14h ago
 
 ---
 
@@ -215,15 +199,31 @@ Bitcoin Magazine • 13h ago
 
 Strategy plans to continue refinancing its debt and buying bitcoin, even as the token tumbles, CEO Michael Saylor said Tuesday on CNBC's "Squawk Box."
 
-CNBC • 16h ago
+CNBC • 17h ago
 
 ---
 
-**[Saylor says bitcoin will ‘double or triple’ S&P returns over coming years, vows Strategy won’t be selling](https://www.theblock.co/post/389253/saylor-bitcoin-double-triple-sp-returns-coming-years-vows-strategy-wont-selling)**
+**[Strategy (MSTR) news: Saylor shoots down any idea of forced BTC sale](https://www.coindesk.com/markets/2026/02/10/concerns-over-strategy-selling-bitcoin-are-unfounded-michael-saylor-says)**
 
-Strategy continues expanding its bitcoin holdings even as its treasury value sits below total acquisition cost following the recent pullback.
+Strategy Executive Chairman Michael Saylor affirmed the firm’s commitment to a long-term bitcoin strategy following major fourth quarter losses and a continued plunge in prices early this year.
 
-The Block • 14h ago
+CoinDesk • 12h ago
+
+---
+
+**[The Daily: Strategy's Saylor predicts bitcoin will 'double or triple' S&P returns, BitMine buys $84M in ETH as Tom Lee flags an 'attractive' entry point, and more](https://www.theblock.co/post/389285/the-daily-strategys-saylor-predicts-bitcoin-double-triple-sp-returns-bitmine-buys-84m-eth-tom-lee-attractive-entry-point-more)**
+
+The following article is adapted from The Block’s newsletter, The Daily, which comes out on weekday afternoons.
+
+The Block • 12h ago
+
+---
+
+**[What the Crypto Crash Reveals About Trump's Power](https://www.theatlantic.com/newsletters/2026/02/trump-crypto-market-crash/685959/)**
+
+The president’s support was never a guarantee of the market’s stability.
+
+The Atlantic • 7h ago
 
 ---
 
@@ -261,7 +261,7 @@ Bitcoin outlook turns bearish as Pivotus’ Richard Farr targets BTC at $0 and M
 
 **[$40B in Bitcoin Accidentally Given Away](https://news.ycombinator.com/item?id=46965768)**
 
-⬆️ 10 • 💬 0 • 10h ago • [wsj.com](https://www.wsj.com/finance/currencies/a-bitcoin-blunder-for-the-ages-40-billion-accidentally-given-away-3a207eac)
+⬆️ 10 • 💬 0 • 12h ago • [wsj.com](https://www.wsj.com/finance/currencies/a-bitcoin-blunder-for-the-ages-40-billion-accidentally-given-away-3a207eac)
 
 ---
 
@@ -313,7 +313,7 @@ Watch this video where I break down volatility: https://youtu.be/Z_vlwus19-8?si=
 
 📺 Mark Moss
 
-👁️ 69K • 👍 3K • 💬 395 • ⏱️ 19:19 • 11h ago
+👁️ 69K • 👍 3K • 💬 395 • ⏱️ 19:19 • 12h ago
 
 ---
 
@@ -323,7 +323,7 @@ Bitcoin just suffered the largest dollar-value crash in its history — without 
 
 📺 Swan Bitcoin
 
-👁️ 24K • 👍 1K • 💬 139 • ⏱️ 15:49 • 7h ago
+👁️ 24K • 👍 1K • 💬 139 • ⏱️ 15:49 • 9h ago
 
 ---
 
@@ -333,7 +333,7 @@ Bitcoin is about to break a major support range and things might be getting wors
 
 📺 Ricky Gutierrez
 
-👁️ 3K • 👍 209 • 💬 54 • ⏱️ 8:46 • 2h ago
+👁️ 3K • 👍 209 • 💬 54 • ⏱️ 8:46 • 3h ago
 
 ---
 
@@ -343,7 +343,7 @@ CNBC"s MacKenzie Sigalos joins 'Squawk Box' to discuss the recent bitcoin volati
 
 📺 CNBC Television
 
-👁️ 64K • 👍 651 • 💬 816 • ⏱️ 6:36 • 14h ago
+👁️ 64K • 👍 651 • 💬 816 • ⏱️ 6:36 • 15h ago
 
 ---
 
@@ -353,7 +353,7 @@ Nick Valdez looks at the Mayer Multiple and what it might mean for Bitcoin's pri
 
 📺 Discover Crypto
 
-👁️ 4K • 👍 172 • 💬 25 • ⏱️ 7:53 • 5h ago
+👁️ 4K • 👍 172 • 💬 25 • ⏱️ 7:53 • 6h ago
 
 ---
 
@@ -363,7 +363,7 @@ Bitcoin #Crypto #Finance With roughly 150 days left in what may be a critical ac
 
 📺 The Wolf Of All Streets
 
-👁️ 16K • 👍 708 • 💬 167 • ⏱️ 55:27 • 15h ago
+👁️ 16K • 👍 708 • 💬 167 • ⏱️ 55:27 • 16h ago
 
 ---
 
@@ -373,7 +373,7 @@ A Bitcoin account attached to the purported ransom letters sent to various news 
 
 📺 CNN
 
-👁️ 77K • 👍 1K • 💬 161 • ⏱️ 2:01 • 4h ago
+👁️ 77K • 👍 1K • 💬 161 • ⏱️ 2:01 • 5h ago
 
 ---
 

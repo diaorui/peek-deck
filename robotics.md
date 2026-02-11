@@ -3,7 +3,7 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-02-11T06:41:35.932035+00:00'
+updated: '2026-02-11T07:56:17.433178+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
@@ -17,7 +17,7 @@ data_types:
 
 Robotics research and industry news
 
-**Last Updated:** February 11, 2026 at 06:41 UTC  
+**Last Updated:** February 11, 2026 at 07:56 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -36,7 +36,7 @@ Robotics research and industry news
 
 Hey everyone! I'm going to be starting a robotics club at my community college and I was hoping I could get some help on some beginner friendly projects for the club and maybe how the club should be structured. I, and most of the people I know that are going to be a part of the club have basically no experience with robotics and we want to keep the club inclusive to everyone on campus. Any advice would help!
 
-3h ago
+5h ago
 
 ---
 
@@ -44,7 +44,7 @@ Hey everyone! I'm going to be starting a robotics club at my community college a
 
 Hello everyone, since K-Scale Labs (https://kscale.ai) shut down and they still kept everything open-source on their GitHub page, I was wondering if anyone has actually tried to build their humanoid robot on their own. Do you guys think it would be worth it or not and why?
 
-12h ago
+13h ago
 
 ---
 
@@ -52,7 +52,7 @@ Hello everyone, since K-Scale Labs (https://kscale.ai) shut down and they still 
 
 While developing ROS2 applications for robotic arm projects, we found it was difficult to guarantee that a robot would execute a full sequence of motion without failure. In pick-and-place applications, the challenge was reaching a pose and approaching along a defined direction. In welding or surface finishing applications, the difficulty was selecting a suitable start pose without discovering failure midway through execution. Many early iterations involved trial and error to find a working set of joint configurations that could serve as good “seeds” for further IK and motion planning. Over time, we built internal offline utilities to nearly guarantee that our configurations and workspace designs would work. These relied heavily on open-source libraries like TRAC-IK, along with extracting meaningful metrics such as manipulability. Eventually, we decided to package the internal tool we were using and open it up to anyone working on robotic application setup or pre-deployment validation. What the platform offers: a. Select from a list of supported robots, or upload your own. Any serial chain in standard robot_description format should work. b. Move the robot using interactive markers, direct joint control, or by setting a target pose. If you only need FK/IK exploration, you can stop here. The tool continuously displays end-effector pose and joint states. c. Insert obstacles to resemble your working scene. d. Create regions of interest and add orientation constraints, such as holding a glass upright or maintaining a welding direction. e. Run analysis to determine: Whether a single IK branch can serve the entire region Whether all poses within the region are reachable Whether the region is reachable but discontinuous in joint space How we hope it helps users: a. Select a suitable robot for an application by comparing results across platforms. b. Help robotics professionals, including non-engineers, create and validate workcells early. c. Create, share, and collaborate on scenes with colleagues or clients. We’re planning to add much more to this tool, and we hope user feedback helps shape its future development. Give it a try.
 
-🔗 [urdfviewer.com](https://urdfviewer.com) • 8h ago
+🔗 [urdfviewer.com](https://urdfviewer.com) • 9h ago
 
 ---
 
@@ -60,7 +60,7 @@ While developing ROS2 applications for robotic arm projects, we found it was dif
 
 So I am working on the project of ball balancing robot so the body after robots has been the three servo motor and connections I have no idea so the components for the connections are arduino, IMU sensor (MPU9250/6500)., ESR-32,PCA9685... So these are the components which I am having for ball balancing robot I kindly request you to suggest me how to made the connection of it it may be you guys can suggest me like any article for that or a YouTube video and if required for more components kindly let me know it will be grateful I just have one week for the project to be submitted....
 
-1h ago
+2h ago
 
 ---
 
@@ -68,7 +68,7 @@ So I am working on the project of ball balancing robot so the body after robots 
 
 A Shanghai startup, DroidUp, has unveiled Moya, a biomimetic AI robot designed to cross the uncanny valley. Unlike plastic and metal droids, Moya features silicone skin that is heated to human body temperature and mimics subtle facial expressions like eyebrow raises. Standing 5'5" and weighing 70 lbs, Moya is built on a modular platform that allows for swapping between male and female presentations. With a price tag of ~$173k, DroidUp aims to deploy these warm companions in healthcare and business by late 2026.
 
-🔗 [TechRadar](https://www.techradar.com/computing/the-worlds-first-biomimetic-ai-robot-just-strolled-in-from-the-uncanny-valley-and-yes-its-super-creepy) • 17h ago
+🔗 [TechRadar](https://www.techradar.com/computing/the-worlds-first-biomimetic-ai-robot-just-strolled-in-from-the-uncanny-valley-and-yes-its-super-creepy) • 19h ago
 
 ---
 
@@ -80,7 +80,7 @@ A Shanghai startup, DroidUp, has unveiled Moya, a biomimetic AI robot designed t
 
 **[La funny song](https://www.reddit.com/r/robotics/comments/1r1lrig/la_funny_song/)**
 
-3h ago
+4h ago
 
 ---
 
@@ -88,7 +88,7 @@ A Shanghai startup, DroidUp, has unveiled Moya, a biomimetic AI robot designed t
 
 Board I designed a custom board called ESP PowerDeck, based on the ESP32-S3. It’s meant for experimenting with robotics and IoT where you need real power handling, not just a breadboard setup. Would love feedback from the community — especially on features that might make it more useful for robotics work. (edit moved photo up so it could be seen ;p)
 
-11h ago
+12h ago
 
 ---
 
@@ -96,13 +96,13 @@ Board I designed a custom board called ESP PowerDeck, based on the ESP32-S3. It�
 
 Hello! Our makerspace for kids 11-18 is hosting a three week summer camp this summer. Most of the kids will likely be 11-13 who come. The kids we know will come have indicated they would like to build and program sumo bots. The kids will have wide varieties of experience. Some will have no coding experience at all, so I am thinking rather than autonomous sumo bots they should make remote controlled ones. Which I realize now makes them not robots so maybe y'all can't help. We have here several Creality HI 3d printers and a large Omtech laser, as well as basic woodshop and electronics things like soldering irons and breadboards and all kinds of electronical bits and bobs. I am thinking if we have a premade chassis that the kids can add on to, they still get to design stuff and print it or cut it out but the basics are already there, then they can do the electronics and whatever coding needs to go between the rc stuff and the electronics and maybe they can conceivably do all that in 15 days/three weeks? I think trying to make it autonomous will be too challenging for all, but we can always suggest/challenge the kids who are good coders already to do so. Have any of y'all done something like this? Does it seem feasible? Thanks!
 
-10h ago
+11h ago
 
 ---
 
 **[Design process advice for robotic arm](https://www.reddit.com/r/robotics/comments/1r1c3ce/design_process_advice_for_robotic_arm/)**
 
-10h ago
+11h ago
 
 ---
 
@@ -130,13 +130,13 @@ Interesting Engineering • 1d ago
 
 Nvidia and Google are among a handful of major tech giants developing models for robotics and so-called "phyiscal AI."
 
-CNBC • 19h ago
+CNBC • 20h ago
 
 ---
 
 **[Alibaba Pushes Into Robotics AI With Open-Source ‘RynnBrain’](https://www.bloomberg.com/news/articles/2026-02-10/alibaba-pushes-into-robotics-ai-with-open-source-rynnbrain)**
 
-Bloomberg.com • 23h ago
+Bloomberg.com • 1d ago
 
 ---
 
@@ -144,15 +144,7 @@ Bloomberg.com • 23h ago
 
 Alibaba has unveiled RynnBrain, a new embodied AI model built to help robots understand space, memory, and physical movement.
 
-Interesting Engineering • 12h ago
-
----
-
-**[Elon Musk warns the U.S. is '1,000% going to go bankrupt' unless AI and robotics save the economy from crushing debt](https://fortune.com/2026/02/07/elon-musk-us-bankruptcy-ai-robotics-economic-growth-national-debt-crisis/)**
-
-"We just need enough time to build the AI and robots to not go bankrupt before then."
-
-Fortune • 3d ago
+Interesting Engineering • 13h ago
 
 ---
 
@@ -160,7 +152,7 @@ Fortune • 3d ago
 
 Symbotic has acquired autonomous forklift developer Fox Robotics in a move that broadens its logistics robotics offerings.
 
-The Robot Report • 9h ago
+The Robot Report • 10h ago
 
 ---
 
@@ -177,6 +169,14 @@ IFR International Federation of Robotics • 1d ago
 HK$10M JV MoU targets localized robotics R&D in Hong Kong, combining Mint’s Southeast Asia reach with Rice Robotics’ Japan presence around 'physical AI'.
 
 Stock Titan • 1d ago
+
+---
+
+**[The Autonomous Robotics Stock Wall Street Insiders Are Quietly Buying (Hint: It's Not Tesla)](https://finance.yahoo.com/news/autonomous-robotics-stock-wall-street-195000880.html)**
+
+This high-flying stock is about more than just military drones.
+
+Yahoo Finance • 2d ago
 
 ---
 
@@ -198,7 +198,7 @@ Pink haired humanoid robots are trending in China. Xuan, the hyper-realistic rob
 
 📺 Kalil 4.0
 
-👁️ 451 • 👍 21 • 💬 1 • ⏱️ 0:57 • 2h ago
+👁️ 451 • 👍 21 • 💬 1 • ⏱️ 0:57 • 3h ago
 
 ---
 
@@ -208,7 +208,7 @@ The Future of Robotics is INSANE | new technique robot | #shorts #funny #robot n
 
 📺 funnyfans08
 
-👁️ 371 • 👍 6 • 💬 1 • ⏱️ 0:30 • 13m ago
+👁️ 371 • 👍 6 • 💬 1 • ⏱️ 0:30 • 1h ago
 
 ---
 
@@ -248,7 +248,7 @@ A bold prediction like this instantly sparks curiosity and debate across the wor
 
 📺 Billionaire Shots
 
-👁️ 11K • 👍 717 • 💬 93 • ⏱️ 0:36 • 20h ago
+👁️ 11K • 👍 717 • 💬 93 • ⏱️ 0:36 • 21h ago
 
 ---
 
@@ -268,7 +268,7 @@ A Hungarian startup is generating buzz with its automated manufacturing system f
 
 📺 Kalil 4.0
 
-👁️ 2K • 👍 122 • 💬 2 • ⏱️ 0:45 • 9h ago
+👁️ 2K • 👍 122 • 💬 2 • ⏱️ 0:45 • 11h ago
 
 ---
 
