@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-02-11T17:33:23.188697+00:00'
+updated: '2026-02-11T19:05:49.119674+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- social
-- news
-- videos
 - cryptocurrency
+- social
+- videos
+- news
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** February 11, 2026 at 17:33 UTC  
+**Last Updated:** February 11, 2026 at 19:05 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,17 +38,17 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $66,135.81
+### $67,168.83
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** -3.1%  
-**7d:** +6.5%  
-**30d:** -30.0%  
-**90d:** -29.5%  
-**1y:** -31.6%  
+**24h:** -2.0%  
+**7d:** +7.3%  
+**30d:** -29.4%  
+**90d:** -28.9%  
+**1y:** -31.1%  
 
 ---
 
@@ -77,25 +77,25 @@ Rank #1
 
 ## Reddit: r/Bitcoin
 
-**[Why You’re Too Busy To See Bitcoin Taking Over](https://www.reddit.com/r/Bitcoin/comments/1r1nj7z/why_youre_too_busy_to_see_bitcoin_taking_over/)**
-
-Aight look, nobody’s asking you to quit your job and run a node. But if you had one quiet hour—just one—to pull up that eight-page white paper from October 31st, 2008, you’d realize: this wasn’t a tech experiment. It was a direct shot at the system that’s got you running in circles. What’s your day like? Wake up. Grind. Emails. Lunch at the desk. Kids’ homework. Gym skipped. Bills hit auto-pay before you blink. Then you’re on the couch, thumb numb from scrolling. Who ends up drained? You. Who stays wide-eyed and counting cash? The ones printing it in the first place. Distraction isn’t an accident. It’s the job. Designed to keep you tired, keep you busy, keep you mad about the wrong thing—so you’ll never zoom out long enough to see the map getting redrawn. Meanwhile, Bitcoin? It’s doing it in silence. No ads. No push notifications. No “limited time offer.” Just a ledger that’s been ticking every ten minutes since January 12th, 2009 when Satoshi sent some to Hal Finney (RIP). And guess what? It doesn’t need your permission. They taught us money means stress. Work, earn, spend, borrow, repeat. Satoshi? He said nah bro—money can be math. Code that no bank, no government, no boss can freeze while you’re asleep. But to even think that idea, you’d need… time. And time’s the one thing they’re really selling back to you. Twenty bucks a month for a streaming service that keeps you numb. Seven bucks for coffee that lasts twenty minutes. Twenty eight percent Interest on a credit card you didn’t even want. Bitcoin flips the script: it costs nothing to learn. One download, one PDF, zero debt. But still—ninety-seven percent of people won’t. Easier to let the clowns like Sorkin on CNBC decide your fate. “Too risky,” they say. “Too volatile,” they say. Imagine being wrong for 16-17 years straight about something that started at ZERO. About something that you said would go away. But it’s still here. That must kill your ego. The distraction machine works because it feels normal. But peel one layer? You’re on a treadmill built by the people selling the gym membership. Bitcoin’s the off-switch. But switches only work if you reach for them. And right now, you’re too busy reaching for your phone.
-
-13h ago
-
----
-
 **[Still a believer but these candles hurt to look at](https://www.reddit.com/r/Bitcoin/comments/1r1znx6/still_a_believer_but_these_candles_hurt_to_look_at/)**
 
 Here goes my drama. I’m not going to lie, I’m a firm believer long term. I’ve done my research, I understand the thesis, and I’m not suddenly flipping bearish because of a few red days. But man, staring at these candlesticks lately is painful. Even if you believe in the bigger picture, watching price bleed like this messes with your head a bit. I’m not selling. Just admitting it doesn’t feel great in the moment.
 
-2h ago
+4h ago
+
+---
+
+**[Why You’re Too Busy To See Bitcoin Taking Over](https://www.reddit.com/r/Bitcoin/comments/1r1nj7z/why_youre_too_busy_to_see_bitcoin_taking_over/)**
+
+Aight look, nobody’s asking you to quit your job and run a node. But if you had one quiet hour—just one—to pull up that eight-page white paper from October 31st, 2008, you’d realize: this wasn’t a tech experiment. It was a direct shot at the system that’s got you running in circles. What’s your day like? Wake up. Grind. Emails. Lunch at the desk. Kids’ homework. Gym skipped. Bills hit auto-pay before you blink. Then you’re on the couch, thumb numb from scrolling. Who ends up drained? You. Who stays wide-eyed and counting cash? The ones printing it in the first place. Distraction isn’t an accident. It’s the job. Designed to keep you tired, keep you busy, keep you mad about the wrong thing—so you’ll never zoom out long enough to see the map getting redrawn. Meanwhile, Bitcoin? It’s doing it in silence. No ads. No push notifications. No “limited time offer.” Just a ledger that’s been ticking every ten minutes since January 12th, 2009 when Satoshi sent some to Hal Finney (RIP). And guess what? It doesn’t need your permission. They taught us money means stress. Work, earn, spend, borrow, repeat. Satoshi? He said nah bro—money can be math. Code that no bank, no government, no boss can freeze while you’re asleep. But to even think that idea, you’d need… time. And time’s the one thing they’re really selling back to you. Twenty bucks a month for a streaming service that keeps you numb. Seven bucks for coffee that lasts twenty minutes. Twenty eight percent Interest on a credit card you didn’t even want. Bitcoin flips the script: it costs nothing to learn. One download, one PDF, zero debt. But still—ninety-seven percent of people won’t. Easier to let the clowns like Sorkin on CNBC decide your fate. “Too risky,” they say. “Too volatile,” they say. Imagine being wrong for 16-17 years straight about something that started at ZERO. About something that you said would go away. But it’s still here. That must kill your ego. The distraction machine works because it feels normal. But peel one layer? You’re on a treadmill built by the people selling the gym membership. Bitcoin’s the off-switch. But switches only work if you reach for them. And right now, you’re too busy reaching for your phone.
+
+14h ago
 
 ---
 
 **[Maybe I am](https://www.reddit.com/r/Bitcoin/comments/1r1mwos/maybe_i_am/)**
 
-13h ago
+15h ago
 
 ---
 
@@ -103,13 +103,7 @@ Here goes my drama. I’m not going to lie, I’m a firm believer long term. I�
 
 Credit https://x.com/jackmallers
 
-2h ago
-
----
-
-**[That's how it be](https://www.reddit.com/r/Bitcoin/comments/1r1nu1j/thats_how_it_be/)**
-
-12h ago
+4h ago
 
 ---
 
@@ -117,33 +111,39 @@ Credit https://x.com/jackmallers
 
 As all bitcoiners know, bear markets are gigantic opportunities to stack cheap sats. But even if you know this, you might still squander the opportunity in one of the following ways: 1) Using Leverage "If bitcoin falls to $40k, I'm going to take out a second mortgage for this generational buying opportunity!" If this is you, please read this section carefully. Every time there is a bear market in bitcoin, the people who got sucked in at bull market highs because of FOMO are usually the first ones to get desperate in bear markets. They just bought the top and now they're trying to catch the falling knife on the way down. Do not mistake this coping mechanism for diamond hand conviction. If you use leverage to buy bitcoin, most of the time you will get destroyed. Why? Because despite all hopeful claims to the contrary ("this time is different!"), bitcoin remains one of the most volatile major assets in finance. Huge volatility and multi-year low prices will cause you major stress as you struggle to add collateral during downswings you thought weren't going to happen. All when you could have just kept buying spot bitcoin, totally stress-free. Want to know what happened last time? I detailed my personal account of the FTX collapse-driven bitcoin bear market in Daily Stack #1: Bear Market Thoughts - Flashback to 2022 (can check that out in my subreddit if you wish; I don't want to link it here out of respect for this subreddit's rules). 2) Panic Buying for Small Dips If your plan is to throw all your spare cash into bitcoin whenever there's a red day, you'll be out of cash by the end of this week (or sooner). Now, that's not the worst thing in the world (at least you stacked some sats), but here's the key thing you're missing: During bitcoin bear markets, your spare cash is basically a call option on other people's fear. To explain this for the non-finance natives out there, a call option gives you the right (but not the obligation) to buy an asset for a specific price (the strike price). People use call options if they think the price of an asset will go way up past their strike price in the future, so when it does they can exercise their call option to acquire the now expensive asset at a huge discount to its market price. Your spare cash is basically doing the same thing for you during a bitcoin bear market. Most people think as soon as we have a 5% drop, they have to panic buy the dip because it might never drop that much again. But panic buying every 5% drop is the same as betting that this bear market will be different from all five of the previous bear markets. "This time will be different" has a very bad track record in bitcoin's history. 3) Waiting for the "Perfect Bottom" Let's be clear: panic buying for small dips could be inefficient, but not buying at all could be an even bigger mistake. Bitcoin's immense volatility can surprise everyone in either direction, up or down. So, the most logical approach is to set a small recurring purchase (known as dollar cost averaging or "DCA" for short) and keep some dry powder in case there's another true market panic and bitcoin falls to unthinkable levels. That's when you can exercise your call option on other people's fear and get the most sats possible.
 
-1h ago
+2h ago
 
 ---
 
-**[We’re in EZ mode now](https://www.reddit.com/r/Bitcoin/comments/1r1ofu8/were_in_ez_mode_now/)**
+**[That's how it be](https://www.reddit.com/r/Bitcoin/comments/1r1nu1j/thats_how_it_be/)**
 
-12h ago
+14h ago
 
 ---
 
 **[My paintings are inspired by the Bitcoin aesthetic. Here's one of them](https://www.reddit.com/r/Bitcoin/comments/1r1y8zf/my_paintings_are_inspired_by_the_bitcoin/)**
 
-3h ago
+5h ago
+
+---
+
+**[Anyone else buying the dip and hodling?](https://www.reddit.com/r/Bitcoin/comments/1r21itv/anyone_else_buying_the_dip_and_hodling/)**
+
+Just saw Bitcoin was on sale and decided to do the ol "buy and hodl".
+
+2h ago
+
+---
+
+**[We’re in EZ mode now](https://www.reddit.com/r/Bitcoin/comments/1r1ofu8/were_in_ez_mode_now/)**
+
+13h ago
 
 ---
 
 **[The bear will break 60k, but do not fear, it'll give us time to accumulate more sats per dollar](https://www.reddit.com/r/Bitcoin/comments/1r1trqp/the_bear_will_break_60k_but_do_not_fear_itll_give/)**
 
-7h ago
-
----
-
-**[Crypto sentiment - extreme fear territory](https://www.reddit.com/r/Bitcoin/comments/1r1pahz/crypto_sentiment_extreme_fear_territory/)**
-
-The $2.35T crypto market’s Fear & Greed Index has dropped to 9 (Extreme Fear)—its lowest reading since the 2019 market crash.
-
-11h ago
+8h ago
 
 ---
 
@@ -151,11 +151,11 @@ The $2.35T crypto market’s Fear & Greed Index has dropped to 9 (Extreme Fear)�
 
 ## Google News: "bitcoin"
 
-**[Bitcoin prices fall even more: Why 'Tinkerbell Effect' is fading](https://finance.yahoo.com/video/bitcoin-prices-fall-even-more-161917348.html)**
+**[Bitcoin bounce fades as it hovers around $66,000](https://www.cnbc.com/2026/02/11/bitcoin-price-today-crypto-volatility.html)**
 
-Bitcoin (BTC-USD) prices continue to fall as the so-called "Tinkerbell Effect" fades, dropping on Wednesday morning to just under $66,000 and hovering around $67,000. Deutsche Bank senior strategist Marion Laboure sits down with Yahoo Finance Executive Editor Brian Sozzi and Yahoo Finance Senior Reporter Ines Ferré to explain what the "Tinkerbell Effect" is, what key factors are driving the shift, and what it all means for the broader crypto market. To watch more expert insights and analysis on the latest market action, check out more Opening Bid.
+Market watchers said bitcoin is showing signs that its historical four-year cycle around halving remains intact.
 
-Yahoo Finance • 1h ago
+CNBC • 8h ago
 
 ---
 
@@ -163,39 +163,29 @@ Yahoo Finance • 1h ago
 
 Data from industry research firm Glassnode show that wallets holding more than 1,000 Bitcoin added more than $4 billion worth of the token over the period, interrupting months of divestment that have left Bitcoin roughly 40% below its October peak.  Excluding exchange-traded funds and exchanges, large Bitcoin-holding players have been net sellers over the past year, with more than 170,000 coins — worth some $11 billion — leaving these wallets since mid-December, according to Glassnode.  Bitcoin’s price action reflects that uneven support.
 
-Yahoo Finance • 16h ago
+Yahoo Finance • 17h ago
 
 ---
 
-**[Activity Observed In Bitcoin Account Connected to Nancy Guthrie Ransom Note](https://people.com/activity-observed-in-bitcoin-account-connected-to-nancy-guthrie-ransom-note-11904191)**
+**[Why Bitcoin (Not Aid) Is Giving Peruvian Kids Shoes, Education, And Real Hope](https://bitcoinmagazine.com/culture/motiv-builds-bitcoin-circular-economies-empowering-750-peruvian-families-weekly)**
 
-Activity has been observed in the Bitcoin account associated with the ransom note sent by Nancy Guthrie's suspected kidnappers.
+In Peru's highlands, Bitcoin isn't hype—it's shoes on kids' feet, food on tables, and sovereignty in merchants' hands, thanks to Motiv's persistent grassroots push.
 
-People.com • 13h ago
-
----
-
-**[Morgan Stanley says these two stocks will more than double as they pivot from bitcoin to data centers](https://www.cnbc.com/2026/02/09/morgan-stanley-says-these-two-stocks-will-surge-as-they-pivot-to-data-centers.html)**
-
-A pair of bitcoin-linked firms could see their shares skyrocket, even as the flagship crypto retreats, due to their pivot to the data center business.
-
-CNBC • 1d ago
+Bitcoin Magazine • 29m ago
 
 ---
 
-**[MARA expands Bitcoin mining amid AI surge, CEO Thiel unveils growth strategy](https://www.foxbusiness.com/video/6389075230112)**
+**[Victim’s Attorney: Strategic Bitcoin Reserve Already Lost $6 Billion in Potential Value](https://natlawreview.com/press-releases/victims-attorney-strategic-bitcoin-reserve-already-lost-6-billion-potential)**
 
-MARA CEO Fred Thiel discusses the importance of digital asset regulation and his firm's growth plans on 'Mornings with Maria.'
+Marc D. Fitapelli
 
-Fox Business • 2h ago
+The National Law Review • 48m ago
 
 ---
 
-**[Here comes the great American bitcoin-mining-to-AI pivot](https://www.ft.com/content/8bfdb09a-fbef-47fb-9b2f-ebc8949846e6)**
+**[TMZ receives new note demanding bitcoin for Nancy Guthrie info](https://www.newsnationnow.com/missing/third-nancy-guthrie-ransom-note-sent-to-tmz/)**
 
-New kids off the blockchain
-
-Financial Times • 2d ago
+NewsNation • 1h ago
 
 ---
 
@@ -207,27 +197,33 @@ The Guardian • 1d ago
 
 ---
 
-**[Bithumb’s $40 Billion bitcoin blunder triggers major South Korean market probe](https://www.coindesk.com/markets/2026/02/11/bithumb-admits-to-serious-flaws-that-left-its-internal-systems-vulnerable-to-potential-sabotage)**
+**[MARA expands Bitcoin mining amid AI surge, CEO Thiel unveils growth strategy](https://www.foxbusiness.com/video/6389075230112)**
 
-Following an accidental transfer of 620,000 BTC, Bithumb admits to "deficiencies" as regulators launch AI-driven investigations into crypto market manipulation.
+MARA CEO Fred Thiel discusses the importance of digital asset regulation and his firm's growth plans on 'Mornings with Maria.'
 
-CoinDesk • 4h ago
-
----
-
-**[S Korean crypto firm accidentally pays out $40bn in bitcoin](https://www.bbc.com/news/articles/cz6y62nzjxxo)**
-
-The company quickly realised its mistake and managed to recover virtually all the missing tokens from customers.
-
-BBC • 4d ago
+Fox Business • 4h ago
 
 ---
 
-**[Goldman Sachs Discloses $1.1 Billion Position in Bitcoin ETF Holdings](https://bitcoinmagazine.com/news/goldman-sachs-position-in-bitcoin)**
+**[Hard-to-Track Digital Currencies Like Bitcoin Are Common in Ransom Demands](https://www.nytimes.com/2026/02/11/us/digital-currency-bitcoin.html)**
 
-Goldman Sachs revealed it holds $1.1 billion in Bitcoin ETFs, marking somewhat of a shift toward cryptocurrency exposure.
+The New York Times • 2h ago
 
-Bitcoin Magazine • 19h ago
+---
+
+**[Here comes the great American bitcoin-mining-to-AI pivot](https://www.ft.com/content/8bfdb09a-fbef-47fb-9b2f-ebc8949846e6)**
+
+New kids off the blockchain
+
+Financial Times • 2d ago
+
+---
+
+**[What the Crypto Crash Reveals About Trump’s Power](https://www.theatlantic.com/newsletters/2026/02/trump-crypto-market-crash/685959/)**
+
+The president’s support was never a guarantee of the market’s stability.
+
+The Atlantic • 18h ago
 
 ---
 
@@ -265,13 +261,13 @@ Bitcoin outlook turns bearish as Pivotus’ Richard Farr targets BTC at $0 and M
 
 **[$40B in Bitcoin Accidentally Given Away](https://news.ycombinator.com/item?id=46965768)**
 
-⬆️ 10 • 💬 0 • 21h ago • [wsj.com](https://www.wsj.com/finance/currencies/a-bitcoin-blunder-for-the-ages-40-billion-accidentally-given-away-3a207eac)
+⬆️ 10 • 💬 0 • 23h ago • [wsj.com](https://www.wsj.com/finance/currencies/a-bitcoin-blunder-for-the-ages-40-billion-accidentally-given-away-3a207eac)
 
 ---
 
 **[South Korean crypto firm accidentally sends $44B in bitcoins to users](https://news.ycombinator.com/item?id=46926461)**
 
-⬆️ 6 • 💬 0 • 3d ago • [reuters.com](https://www.reuters.com/world/asia-pacific/crypto-firm-accidentally-sends-44-billion-bitcoins-users-2026-02-07/)
+⬆️ 6 • 💬 0 • 4d ago • [reuters.com](https://www.reuters.com/world/asia-pacific/crypto-firm-accidentally-sends-44-billion-bitcoins-users-2026-02-07/)
 
 ---
 
@@ -303,7 +299,7 @@ Bithumb, Korea's second-largest cryptocurrency exchange, mistakenly credited use
 
 Hybrid Post-Quantum Bitcoin Wallet — ML-DSA + Falcon signatures on BIP-341 Taproot PSBTs. 136/136 tests passing. No soft fork required. - emilianosolazzi/PQ-PSBT-WALLET
 
-⬆️ 3 • 💬 1 • 15h ago • [GitHub](https://github.com/emilianosolazzi/PQ-PSBT-WALLET)
+⬆️ 3 • 💬 1 • 16h ago • [GitHub](https://github.com/emilianosolazzi/PQ-PSBT-WALLET)
 
 ---
 
@@ -317,7 +313,7 @@ Bitcoin is about to break a major support range and things might be getting wors
 
 📺 Ricky Gutierrez
 
-👁️ 12K • 👍 432 • 💬 127 • ⏱️ 8:46 • 12h ago
+👁️ 12K • 👍 432 • 💬 127 • ⏱️ 8:46 • 14h ago
 
 ---
 
@@ -327,7 +323,7 @@ Watch this video where I break down volatility: https://youtu.be/Z_vlwus19-8?si=
 
 📺 Mark Moss
 
-👁️ 98K • 👍 4K • 💬 512 • ⏱️ 19:19 • 22h ago
+👁️ 98K • 👍 4K • 💬 512 • ⏱️ 19:19 • 1d ago
 
 ---
 
@@ -337,7 +333,7 @@ LIMITED TIME: ✓ Bitunix (no kyc, $10k bonus): https://www.bitunix.com/register
 
 📺 Altcoin Daily
 
-👁️ 52K • 👍 2K • 💬 264 • ⏱️ 9:29 • 17h ago
+👁️ 52K • 👍 2K • 💬 264 • ⏱️ 9:29 • 19h ago
 
 ---
 
@@ -347,7 +343,7 @@ Bitcoin just suffered the largest dollar-value crash in its history — without 
 
 📺 Swan Bitcoin
 
-👁️ 42K • 👍 2K • 💬 216 • ⏱️ 15:49 • 18h ago
+👁️ 42K • 👍 2K • 💬 216 • ⏱️ 15:49 • 20h ago
 
 ---
 
@@ -387,7 +383,7 @@ A Bitcoin account attached to the purported ransom letters sent to various news 
 
 📺 CNN
 
-👁️ 119K • 👍 2K • 💬 216 • ⏱️ 2:01 • 15h ago
+👁️ 119K • 👍 2K • 💬 216 • ⏱️ 2:01 • 17h ago
 
 ---
 
