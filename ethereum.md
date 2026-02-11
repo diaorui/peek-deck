@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-02-11T19:05:49.124865+00:00'
+updated: '2026-02-11T20:03:04.251513+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- cryptocurrency
-- social
 - videos
 - news
+- social
+- cryptocurrency
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** February 11, 2026 at 19:05 UTC  
+**Last Updated:** February 11, 2026 at 20:03 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -52,17 +52,17 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Market Stats
 
-**Market Cap:** $233.06B
+**Market Cap:** $235.58B
 Rank #2
 
 **Circulating Supply:** 120,692,570 ETH
 No max supply
 
 **All-Time High:** $4,946.05
--60.9%
+-60.6%
 
 **All-Time Low:** $0.43
-+446085.6%
++450319.1%
 
 ---
 
@@ -72,7 +72,7 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-13h ago
+14h ago
 
 ---
 
@@ -80,7 +80,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 Hello folks! I drafted this smart contract visualizer tool. It shows the structure of the contract, a plain english explenation and an AI powered security analysis (screenshots below). The purpose would be double: for devs, easily understand and read other contract for learning purpose for users, double-check a contract before interacting with it There would be tons of possible improvements: expand code by clicking on the tile multi chain support support complex contract for many imports by exploding them What do you think? Does the tool have a reason to exist? :) https://preview.redd.it/rz5mi9qhquig1.png?width=1930&format=png&auto=webp&s=5b8c09f479a17e19dadcdad9d2eb4540937a8d83 https://preview.redd.it/2juw6bqhquig1.png?width=1934&format=png&auto=webp&s=1a3ed192e5391c60fb9a1094adb71f364d6eaecc https://preview.redd.it/2oi05cqhquig1.png?width=1940&format=png&auto=webp&s=2543b85dd1018625ec7e8a64c01be2235a8b31fd Thanks, Francesco
 
-7h ago
+8h ago
 
 ---
 
@@ -88,7 +88,7 @@ Hello folks! I drafted this smart contract visualizer tool. It shows the structu
 
 Posted by Jacob Czepluch on February 10, 2026
 
-🔗 [Solidity Programming Language](https://www.soliditylang.org/blog/2026/02/10/solidity-developer-survey-2025-announcement/) • 18h ago
+🔗 [Solidity Programming Language](https://www.soliditylang.org/blog/2026/02/10/solidity-developer-survey-2025-announcement/) • 19h ago
 
 ---
 
@@ -96,7 +96,7 @@ Posted by Jacob Czepluch on February 10, 2026
 
 https://preview.redd.it/98w7x2f91wig1.jpg?width=3264&format=pjpg&auto=webp&s=39ed4bae7899782412726ab375037e0c29e58fd7 Who's with me? LFG! Diamond Hands!
 
-3h ago
+4h ago
 
 ---
 
@@ -156,7 +156,7 @@ World News, Stories By EtherWorld, Technical Explainers, Client News & Updates, 
 
 Robinhood said developers will begin experimenting with applications on its Ethereum layer-2 network, while providing key technical feedback.
 
-Decrypt • 17h ago
+Decrypt • 18h ago
 
 ---
 
@@ -172,7 +172,7 @@ CoinDesk • 1d ago
 
 The inauguration of President Donald Trump, along with a number of bills in Congress, last year brought a renewed interest in integrating crypto into the traditional financial system. The more crypto-friendly atmosphere has revived banks' dormant interest in Ethereum, which is emerging as the platfo
 
-LinkedIn • 3h ago
+LinkedIn • 4h ago
 
 ---
 
@@ -202,7 +202,7 @@ Barron's • 2d ago
 
 Ethereum’s outlook for 2026 has become increasingly contested after the most recent downturn in the entire crypto market. Earlier this year, research from Standard Chartered suggested that Ethereum could end 2026 near $7,500, a target that implies significant upside from current levels. However, re…
 
-TradingView • 23h ago
+TradingView • 1d ago
 
 ---
 
@@ -218,7 +218,7 @@ The Block • 1d ago
 
 Bitcoin (BTC), Ethereum (ETH), and Ripple (XRP) show signs of cautious stabilization on Wednesday after failing to close above their key resistance levels earlier this week. BTC trades below $69,000, while ETH and XRP also encountered rejection near major resistance levels.
 
-FXStreet • 14h ago
+FXStreet • 15h ago
 
 ---
 
@@ -226,7 +226,7 @@ FXStreet • 14h ago
 
 New York, United States, February 10th, 2026, ChainwireThe Enterprise Ethereum Alliance today announced that Polygon Labs, Et...
 
-markets.businessinsider.com • 23h ago
+markets.businessinsider.com • 1d ago
 
 ---
 
@@ -234,11 +234,13 @@ markets.businessinsider.com • 23h ago
 
 ## YouTube Videos: "ethereum"
 
-**[If you own XRP, SOL, ETH or Bitcoin Watch This Immediately! ](https://www.youtube.com/watch?v=W_bB1pzjoNs)**
+**[If You Hold Bitcoin &amp; Ethereum... GET READY! (watch before they delete this) ☝️](https://www.youtube.com/watch?v=RPv313nfVs0)**
 
-📺 Zach Humphries
+If You Hold Crypto... GET READY! (watch before they delete this) ☝️ Become a channel member & get access to perks: ...
 
-👁️ 5K • 👍 549 • 💬 55 • ⏱️ 5:43 • 19h ago
+📺 Altcoin Daily
+
+👁️ 70K • 👍 3K • 💬 215 • ⏱️ 11:47 • 1d ago
 
 ---
 
@@ -248,17 +250,7 @@ ETHEREUM ETH PRICE PREDICTION 2026 Join the Premium Signal Group for trade setup
 
 📺 Cilinix Crypto
 
-👁️ 721 • 👍 29 • 💬 3 • ⏱️ 4:48 • 9h ago
-
----
-
-**[If You Hold Bitcoin &amp; Ethereum... GET READY! (watch before they delete this) ☝️](https://www.youtube.com/watch?v=RPv313nfVs0)**
-
-If You Hold Crypto... GET READY! (watch before they delete this) ☝️ Become a channel member & get access to perks: ...
-
-📺 Altcoin Daily
-
-👁️ 69K • 👍 3K • 💬 214 • ⏱️ 11:47 • 1d ago
+👁️ 1K • 👍 33 • 💬 1 • ⏱️ 4:48 • 10h ago
 
 ---
 
@@ -268,7 +260,17 @@ CNBC"s MacKenzie Sigalos joins 'Squawk Box' to discuss the recent bitcoin volati
 
 📺 CNBC Television
 
-👁️ 77K • 👍 747 • 💬 931 • ⏱️ 6:36 • 1d ago
+👁️ 81K • 👍 770 • 💬 928 • ⏱️ 6:36 • 1d ago
+
+---
+
+**[If you own XRP, SOL, ETH or Bitcoin Watch This Immediately! ](https://www.youtube.com/watch?v=W_bB1pzjoNs)**
+
+If you own XRP, SOL, ETH or Bitcoin Watch This Immediately! CoinDuel AI - This AI-powered tool instantly compares tokens ...
+
+📺 Zach Humphries
+
+👁️ 5K • 👍 568 • 💬 37 • ⏱️ 5:43 • 20h ago
 
 ---
 
@@ -278,17 +280,17 @@ This video provides a professional Elliott Wave and technical analysis of Ethere
 
 📺 More Crypto Online
 
-👁️ 3K • 👍 164 • 💬 9 • ⏱️ 4:00 • 14h ago
+👁️ 3K • 👍 167 • 💬 9 • ⏱️ 4:00 • 15h ago
 
 ---
 
-**[GOLDMAN SACHS HUGE CRYPTO HOLDINGS REVEALED! BITCOIN, XRP, ETHEREUM, &amp; SOLANA!](https://www.youtube.com/watch?v=2k2WTZv1laE)**
+**[LIVE: Trump Announces Important News About Crypto! This Speech Will Change the Crypto Industry](https://www.youtube.com/watch?v=PrjGz2a50rY)**
 
-Crypto News: Goldman Sachs crypto holdings disclosed in new filing which includes billions in Bitcoin, Ethereum, XRP, and ...
+TrumpCrypto2026 #DigitalAssets #TrumpAnnouncement Welcome to the Trump Crypto Forum 2026 — streaming LIVE from ...
 
-📺 Thinking Crypto
+📺 Tools and Tech, with Mike
 
-👁️ 6K • 👍 572 • 💬 92 • ⏱️ 21:01 • 15h ago
+👁️ 5K • 👍 2K • 1h ago
 
 ---
 
@@ -298,7 +300,7 @@ My FREE Daily 5-Min Crypto Newsletter: https://www.cryptonutshell.com/subscribe 
 
 📺 Crypto Nutshell
 
-👁️ 14K • 👍 556 • 💬 52 • ⏱️ 19:39 • 1d ago
+👁️ 15K • 👍 561 • 💬 53 • ⏱️ 19:39 • 1d ago
 
 ---
 
@@ -308,27 +310,27 @@ Welcome back home Ethereum! This time I think ETH will kick its feet back and st
 
 📺 Benjamin Cowen
 
-👁️ 114K • 👍 6K • 💬 377 • ⏱️ 14:29 • 2d ago
+👁️ 115K • 👍 6K • 💬 377 • ⏱️ 14:29 • 2d ago
 
 ---
 
-**[🔴 LIVE Altcoin Analysis | BTC, ETH, SOL &amp; XRP Market Breakdown](https://www.youtube.com/watch?v=O-bMjLOsg6I)**
+**[GOLDMAN SACHS HUGE CRYPTO HOLDINGS REVEALED! BITCOIN, XRP, ETHEREUM, &amp; SOLANA!](https://www.youtube.com/watch?v=2k2WTZv1laE)**
 
-Live Altcoin Analysis with Severin Join us as we break down BTC, ETH, SOL, XRP and requested altcoins using market structure, ...
+Crypto News: Goldman Sachs crypto holdings disclosed in new filing which includes billions in Bitcoin, Ethereum, XRP, and ...
 
-📺 Chart Champions
+📺 Thinking Crypto
 
-👁️ 1K • 👍 155 • 8h ago
+👁️ 6K • 👍 586 • 💬 74 • ⏱️ 21:01 • 15h ago
 
 ---
 
-**[BITCOIN, XRP, AND ETHEREUM CRASH OR REBOUND](https://www.youtube.com/watch?v=9-TNa7LCvmc)**
+**[🔥Crypto ENDGAME Sooner than you Think👀](https://www.youtube.com/watch?v=e6so8YUJ6sM)**
 
-Bitunix - 20% BONUS & $2000 USDT (NEW AND EXISTING USERS CAN JOIN): ...
+China dumping dollars can trigger a global risk‑off, crushing crypto short term; With the Feb.10th CLARITY Act looming, a harsh ...
 
-📺 Josh's Finance
+📺 Paul Barron Network
 
-👁️ 48 • 👍 12 • 💬 16 • ⏱️ 10:23 • 3h ago
+👁️ 140K • 👍 6K • 💬 539 • ⏱️ 28:19 • 1d ago
 
 ---
 

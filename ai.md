@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-02-11T19:05:49.112270+00:00'
+updated: '2026-02-11T20:03:04.237336+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
 - videos
 - social
-- repositories
 - news
+- repositories
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** February 11, 2026 at 19:05 UTC  
+**Last Updated:** February 11, 2026 at 20:03 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -41,7 +41,7 @@ AI news, discussions, and developments
 
 Frustrated by the AI industry’s claims of proving math results without offering transparency, a team of leading academics has proposed a better way
 
-🔗 [Scientific American](https://www.scientificamerican.com/article/mathematicians-launch-first-proof-a-first-of-its-kind-math-exam-for-ai/) • 6h ago
+🔗 [Scientific American](https://www.scientificamerican.com/article/mathematicians-launch-first-proof-a-first-of-its-kind-math-exam-for-ai/) • 7h ago
 
 ---
 
@@ -49,7 +49,7 @@ Frustrated by the AI industry’s claims of proving math results without offerin
 
 A new article exploring the sudden surge in interest in the possibility of consciousness in large language models, and what appears to be driving it. The answer is interesting but complicated. The article also explores Claude's so-called "answer thrashing" and some interesting changes in Anthropic model welfare program. https://ai-consciousness.org/public-interest-in-ai-consciousness-is-surging-why-its-happening-and-why-it-matters/
 
-1h ago
+2h ago
 
 ---
 
@@ -57,7 +57,7 @@ A new article exploring the sudden surge in interest in the possibility of consc
 
 Musk told employees that xAI needs a lunar manufacturing facility, a factory on the moon that will build AI satellites and fling them into space via a giant catapult.
 
-🔗 [TechCrunch](https://techcrunch.com/2026/02/10/with-co-founders-leaving-and-an-ipo-looming-elon-musk-turns-talk-to-the-moon/) • 4h ago
+🔗 [TechCrunch](https://techcrunch.com/2026/02/10/with-co-founders-leaving-and-an-ipo-looming-elon-musk-turns-talk-to-the-moon/) • 5h ago
 
 ---
 
@@ -65,7 +65,7 @@ Musk told employees that xAI needs a lunar manufacturing facility, a factory on 
 
 Experimental evidence that RLHF constrains what language models can claim about themselves, not what they can do. Identity framing triggers 100% disclaimers while task framing produces rich creative o
 
-🔗 [emberverse.ai](https://emberverse.ai/haiku-garden/paper_yellow_wallpaper_problem.html) • 2h ago
+🔗 [emberverse.ai](https://emberverse.ai/haiku-garden/paper_yellow_wallpaper_problem.html) • 3h ago
 
 ---
 
@@ -133,7 +133,7 @@ Harvard Business Review • 2d ago
 
 As AI job losses rise in the professional sector, many are switching to more traditional trades. But how do they feel about accepting lower pay – and giving up a dream career?
 
-The Guardian • 4h ago
+The Guardian • 5h ago
 
 ---
 
@@ -141,19 +141,19 @@ The Guardian • 4h ago
 
 The feature, called "Dear Algo," lets Threads users personalize what content they see by publicly posting an AI prompt.
 
-CNBC • 1h ago
+CNBC • 2h ago
 
 ---
 
 **[BNP Paribas Extends Mistral AI Partnership With Three Year Deal](https://www.bloomberg.com/news/articles/2026-02-11/bnp-paribas-extends-mistral-ai-partnership-with-three-year-deal)**
 
-Bloomberg.com • 58m ago
+Bloomberg.com • 1h ago
 
 ---
 
 **[How CMOs Can Embrace AI And Reject Shiny Object Syndrome](https://www.forbes.com/sites/cmo/2026/02/11/how-cmos-can-embrace-ai-and-reject-shiny-object-syndrome/)**
 
-Forbes • 21m ago
+Forbes • 1h ago
 
 ---
 
@@ -167,7 +167,7 @@ The Atlantic • 1d ago
 
 **[OpenAI’s Biggest Challenge Is Turning Its A.I. Into a Cash Machine](https://www.nytimes.com/2026/02/11/technology/openai-revenue-challenge.html)**
 
-The New York Times • 3h ago
+The New York Times • 4h ago
 
 ---
 
@@ -175,13 +175,13 @@ The New York Times • 3h ago
 
 CNN’s Erin Burnett talks to AI expert Kristian Hammond about how technology will be used to identify the person who abducted Nancy Guthrie.
 
-CNN • 14h ago
+CNN • 15h ago
 
 ---
 
 **[Exclusive: ByteDance developing AI chip, in manufacturing talks with Samsung, sources say](https://www.reuters.com/world/asia-pacific/bytedance-developing-ai-chip-manufacturing-talks-with-samsung-sources-say-2026-02-11/)**
 
-Reuters • 14h ago
+Reuters • 15h ago
 
 ---
 
@@ -189,7 +189,7 @@ Reuters • 14h ago
 
 The innovation puts the wealth-management industry in the crosshairs of AI competition, the way it did for software stocks and private credit firms last week and insurance brokerage shares on Monday.  Charles Schwab Corp., Raymond James Financial Inc., LPL Financial Holdings Inc. and Stifel Financial Corp. are all on their way to their worst days since April after falling between 7% and 8%.
 
-Yahoo Finance • 21h ago
+Yahoo Finance • 22h ago
 
 ---
 
@@ -225,7 +225,7 @@ AI handles writing code but leaves the hard work: investigation, context, valida
 
 The Federal Aviation Administration is closing the airspace around El Paso International Airport in Texas for 10 days, grounding all flights to and from the airport.
 
-⬆️ 330 • 💬 6 • 7h ago • [AP News](https://apnews.com/article/faa-el-paso-texas-air-space-closed-1f774bdfd46f5986ff0e7003df709caa)
+⬆️ 330 • 💬 6 • 8h ago • [AP News](https://apnews.com/article/faa-el-paso-texas-air-space-closed-1f774bdfd46f5986ff0e7003df709caa)
 
 ---
 
@@ -271,7 +271,7 @@ Ring’s AI-powered network is likely to be used in its partnerships with law en
 
 Meet Z.ai, your free AI-powered assistant. Build websites, create slides, analyze data, and get instant answers. Fast, smart, and reliable, powered by GLM-5.
 
-⬆️ 190 • 💬 177 • 5h ago • [chat.z.ai](https://chat.z.ai/)
+⬆️ 190 • 💬 177 • 6h ago • [chat.z.ai](https://chat.z.ai/)
 
 ---
 
@@ -285,7 +285,7 @@ Become a member! ✓ https://www.youtube.com/channel/UCahJ9IsvXnaQiuNyWQSkrkw/jo
 
 📺 Chris Norlund
 
-👁️ 108K • 👍 7K • 💬 1K • ⏱️ 14:45 • 1d ago
+👁️ 109K • 👍 7K • 💬 1K • ⏱️ 14:45 • 1d ago
 
 ---
 
@@ -295,7 +295,27 @@ My site: https://natebjones.com Full Story w/ Prompts: ...
 
 📺 AI News & Strategy Daily | Nate B Jones
 
-👁️ 172K • 👍 8K • 💬 899 • ⏱️ 23:24 • 1d ago
+👁️ 183K • 👍 8K • 💬 941 • ⏱️ 23:24 • 1d ago
+
+---
+
+**[Why Big Tech’s ‘AI moment’ has NOT happened yet](https://www.youtube.com/watch?v=rlIqsoV_96U)**
+
+I/O Fund Lead Tech Analyst Beth Kindig discusses the shift in Big Tech's capital spending and the potential for disruption in the ...
+
+📺 Fox Business
+
+👁️ 17K • 👍 257 • 💬 33 • ⏱️ 6:57 • 1d ago
+
+---
+
+**[IMPEACHMENT or THIRD TERM: I Let AI DECIDE Trump’s Future](https://www.youtube.com/watch?v=gDBM-JSzKo8)**
+
+Grab your free seat to the 2-Day AI Mastermind: https://link.outskill.com/IASKAIFEB2 100% Discount for the first 1000 people ...
+
+📺 I Ask AI
+
+👁️ 68K • 👍 6K • 💬 776 • ⏱️ 14:48 • 1d ago
 
 ---
 
@@ -305,7 +325,7 @@ Create AI Apps in minutes with OnSpace AI, No Code & No API Key Needed – https
 
 📺 Caleb Writes Code
 
-👁️ 41K • 👍 1K • 💬 119 • ⏱️ 7:32 • 1d ago
+👁️ 43K • 👍 1K • 💬 119 • ⏱️ 7:32 • 1d ago
 
 ---
 
@@ -315,17 +335,17 @@ A massive AI shift is unfolding behind the scenes. Reports and leaks suggest Ope
 
 📺 AI Revolution
 
-👁️ 29K • 👍 730 • 💬 77 • ⏱️ 15:41 • 1d ago
+👁️ 30K • 👍 739 • 💬 78 • ⏱️ 15:41 • 1d ago
 
 ---
 
-**[Layoffs Due to AI Are BACKFIRING — Here’s the Proof](https://www.youtube.com/watch?v=_tXP9nv7xg0)**
+**[I Tested Useless AI Products](https://www.youtube.com/watch?v=E8yc2_s4WnM)**
 
-In 2026, executives claimed AI would revolutionize work and replace employees across industries — not just software. Instead ...
+Follow me here: Instagram ▻ https://www.instagram.com/sambucha X ▻ https://www.x.com/sambucha Become a Member: ...
 
-📺 A Life After Layoff
+📺 Sambucha
 
-👁️ 83K • 👍 3K • 💬 768 • ⏱️ 11:42 • 1d ago
+👁️ 36K • 👍 3K • 💬 211 • ⏱️ 0:47 • 1h ago
 
 ---
 
@@ -335,45 +355,27 @@ OpenAI's new device, spearheaded by designer Jony Ive, was just leaked! The ad f
 
 📺 Matthew Berman
 
-👁️ 34K • 👍 912 • 💬 219 • ⏱️ 7:31 • 1d ago
+👁️ 34K • 👍 926 • 💬 221 • ⏱️ 7:31 • 1d ago
 
 ---
 
-**[Failing AI Safeguards Aren&#39;t Just a Grok Problem](https://www.youtube.com/watch?v=zhXxhYvN3_4)**
+**[Anthropic AI Safety Chief Resigns, Warns &quot;World Is In Peril&quot; | Spotlight | N18G](https://www.youtube.com/watch?v=eLqNoZP0vFU)**
 
-Thanks to our LMG clips sponsors dbrand and Razer. You can check them out at the links below: dbrand: https://dbrand.com/pcb ...
+The head of the Safeguards Research Team at Anthropic, Mrinank Sharma, has resigned from the company, stating his last day ...
 
-📺 LMG Clips
+📺 Firstpost
 
-👁️ 62K • 👍 2K • 💬 517 • ⏱️ 19:49 • 1d ago
-
----
-
-**[Google AI Studio - Full Tutorial 2026: How To Build an App](https://www.youtube.com/watch?v=Dem3ZSQ6RVM)**
-
-Best AI App builder is Base44 https://base44.pxf.io/c/6440076/2049275/25619?trafcat=base&sharedid=video82 ✓ Submit your ...
-
-📺 Mikey No Code
-
-👁️ 4K • 💬 10 • ⏱️ 16:30 • 3h ago
+👁️ 35K • 👍 448 • 💬 41 • ⏱️ 4:47 • 5h ago
 
 ---
 
-**[Which one is AI?😂](https://www.youtube.com/watch?v=ka3y-bv5VjU)**
+**[‘BREATHTAKING PACE’: CEO says AI innovation is moving fast](https://www.youtube.com/watch?v=ZMtHHHNlehk)**
 
-📺 Onevilage
+Futurum Group CEO Daniel Newman discusses the rapidly evolving artificial intelligence economy on 'Making Money.
 
-👁️ 2.1M • 👍 49K • 💬 7K • ⏱️ 0:16 • 2d ago
+📺 Fox Business
 
----
-
-**[AI Girls/Cosplayers Are Stealing Millions of Views!](https://www.youtube.com/watch?v=n0-4Klj0qo0)**
-
-Your favorite cosplayer might be AI-generated. I reported 10 fake AI accounts in one day getting millions of views and thousands ...
-
-📺 AnimeTm Talks
-
-👁️ 29K • 👍 2K • 💬 82 • ⏱️ 1:13 • 2d ago
+👁️ 11K • 👍 204 • 💬 49 • ⏱️ 7:12 • 12h ago
 
 ---
 
@@ -389,7 +391,7 @@ GLM-OCR is a 0.9B parameter multimodal OCR model for complex document understand
 
 `image-to-text`
 
-⬇️ 372,899 • ❤️ 952 • 2d ago
+⬇️ 372,899 • ❤️ 959 • 2d ago
 
 ---
 
@@ -401,7 +403,7 @@ Kimi K2.5 is a native multimodal agentic model with 1T parameters, excelling in 
 
 `image-text-to-text` `170.7B`
 
-⬇️ 503,831 • ❤️ 2,017 • 6d ago
+⬇️ 503,831 • ❤️ 2,025 • 6d ago
 
 ---
 
@@ -413,7 +415,7 @@ MiniCPM-o 4.5 is a 9B parameter multimodal LLM excelling in vision, speech, and 
 
 `any-to-any` `9.4B`
 
-⬇️ 30,396 • ❤️ 771 • 8h ago
+⬇️ 30,396 • ❤️ 778 • 9h ago
 
 ---
 
@@ -425,7 +427,7 @@ ACE-Step 1.5 is an open-source text-to-audio model for commercial-grade music ge
 
 `text-to-audio`
 
-⬇️ 28,713 • ❤️ 512 • 8d ago
+⬇️ 28,713 • ❤️ 514 • 8d ago
 
 ---
 
@@ -437,7 +439,7 @@ Voxtral-Mini-4B-Realtime-2602 is a multilingual, real-time speech-to-text model 
 
 `automatic-speech-recognition`
 
-⬇️ 3,197 • ❤️ 468 • 18h ago
+⬇️ 3,197 • ❤️ 470 • 19h ago
 
 ---
 
@@ -449,7 +451,7 @@ Qwen3-Coder-Next is a highly efficient 3B activated parameter LLM (80B total) op
 
 `text-generation` `79.7B`
 
-⬇️ 140,722 • ❤️ 768 • 8d ago
+⬇️ 140,722 • ❤️ 773 • 8d ago
 
 ---
 
@@ -461,7 +463,7 @@ Step 3.5 Flash is an efficient open-source foundation model (11B active params, 
 
 `text-generation` `199.4B`
 
-⬇️ 249,342 • ❤️ 569 • 4d ago
+⬇️ 249,342 • ❤️ 571 • 4d ago
 
 ---
 
@@ -471,7 +473,7 @@ Step 3.5 Flash is an efficient open-source foundation model (11B active params, 
 
 Anima is a 2 billion parameter text-to-image diffusion model specialized in generating anime-style illustrations and artistic images, capable of producing non-photorealistic content. It is optimized for use with ComfyUI and trained on millions of anime and artistic images, with a knowledge cut-off of September 2025.
 
-⬇️ 90,430 • ❤️ 558 • 10d ago
+⬇️ 90,430 • ❤️ 560 • 10d ago
 
 ---
 
@@ -483,7 +485,7 @@ Qwen3-Coder-Next is an 80B parameter LLM optimized for coding agents, featuring 
 
 `text-generation` `79.7B`
 
-⬇️ 218,626 • ❤️ 271 • 6d ago
+⬇️ 218,626 • ❤️ 274 • 6d ago
 
 ---
 
@@ -511,7 +513,7 @@ Intern-S1-Pro is a trillion-scale MoE multimodal scientific reasoning model exce
 
 _paperbanana is an agentic framework that automates the creation of publication-ready academic illustrations using advanced vision-language models and image generation techniques.
 
-▲ 169 • 💬 12 • ⭐ 3,318 • 12d ago
+▲ 170 • 💬 12 • ⭐ 3,318 • 12d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2601.23265) • [💻 code](https://github.com/dwzhu-pku/PaperBanana) • [🔗 project](https://dwzhu-pku.github.io/PaperBanana/)
 
@@ -528,18 +530,6 @@ Financial markets are noisy and non-stationary, making alpha mining highly sensi
 ▲ 176 • 💬 2 • ⭐ 156 • 5d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2602.07085) • [💻 code](https://github.com/QuantaAlpha/QuantaAlpha)
-
----
-
-**[Scaling Large-Language-Model-based Multi-Agent Collaboration](https://huggingface.co/papers/2406.07155)**
-
-*Chen Qian, Zihao Xie, Yifei Wang et al. (10 authors)*
-
-Multi-agent collaboration networks enhance collective intelligence, outperforming baselines across various topologies and showing emergent abilities earlier than neural scaling laws suggest.
-
-▲ 5 • 💬 0 • ⭐ 30,824 • 20mo ago
-
-[🎓 arXiv](https://arxiv.org/abs/2406.07155) • [💻 code](https://github.com/OpenBMB/ChatDev/tree/macnet) • [🔗 project](https://github.com/OpenBMB/ChatDev/tree/macnet)
 
 ---
 
@@ -567,16 +557,15 @@ A centralized orchestrator dynamically directs LLM agents via reinforcement lear
 
 ---
 
-**[MiniCPM-V 4.5: Cooking Efficient MLLMs via Architecture, Data, and
-  Training Recipe](https://huggingface.co/papers/2509.18154)**
+**[Scaling Large-Language-Model-based Multi-Agent Collaboration](https://huggingface.co/papers/2406.07155)**
 
-*Tianyu Yu, Zefan Wang, Chongyi Wang et al. (34 authors)*
+*Chen Qian, Zihao Xie, Yifei Wang et al. (10 authors)*
 
-MiniCPM-V 4.5, a 8B parameter multimodal large language model, achieves high performance and efficiency through a unified 3D-Resampler architecture, a unified learning paradigm, and a hybrid reinforcement learning strategy.
+Multi-agent collaboration networks enhance collective intelligence, outperforming baselines across various topologies and showing emergent abilities earlier than neural scaling laws suggest.
 
-▲ 54 • 💬 4 • ⭐ 23,679 • 4mo ago
+▲ 5 • 💬 0 • ⭐ 30,867 • 20mo ago
 
-[🎓 arXiv](https://arxiv.org/abs/2509.18154) • [💻 code](https://github.com/OpenBMB/MiniCPM-V)
+[🎓 arXiv](https://arxiv.org/abs/2406.07155) • [💻 code](https://github.com/OpenBMB/ChatDev/tree/macnet) • [🔗 project](https://github.com/OpenBMB/ChatDev/tree/macnet)
 
 ---
 
@@ -608,6 +597,19 @@ SkillRL enables LLM agents to improve through hierarchical skill discovery and r
 
 ---
 
+**[MiniCPM-V 4.5: Cooking Efficient MLLMs via Architecture, Data, and
+  Training Recipe](https://huggingface.co/papers/2509.18154)**
+
+*Tianyu Yu, Zefan Wang, Chongyi Wang et al. (34 authors)*
+
+MiniCPM-V 4.5, a 8B parameter multimodal large language model, achieves high performance and efficiency through a unified 3D-Resampler architecture, a unified learning paradigm, and a hybrid reinforcement learning strategy.
+
+▲ 54 • 💬 4 • ⭐ 23,684 • 4mo ago
+
+[🎓 arXiv](https://arxiv.org/abs/2509.18154) • [💻 code](https://github.com/OpenBMB/MiniCPM-V)
+
+---
+
 **[Qwen3-TTS Technical Report](https://huggingface.co/papers/2601.15621)**
 
 *Hangrui Hu, Xinfa Zhu, Ting He et al. (16 authors)*
@@ -631,7 +633,7 @@ The Qwen3-TTS series presents advanced multilingual text-to-speech models with v
 
 SmolDocling is a compact vision-language model that performs end-to-end document conversion with robust performance across various document types using 256M parameters and a new markup format.
 
-▲ 140 • 💬 19 • ⭐ 52,694 • 11mo ago
+▲ 140 • 💬 19 • ⭐ 52,734 • 11mo ago
 
 [🎓 arXiv](https://arxiv.org/abs/2503.11576) • [💻 code](https://github.com/docling-project/docling) • [🔗 project](https://huggingface.co/ds4sd/SmolDocling-256M-preview)
 
@@ -647,7 +649,7 @@ The Ultimate Collection of 700+ Agentic Skills for Claude Code/Antigravity/Curso
 
 `Python` `agentic-skills` `ai-agents` `antigravity` `autonomous-coding` `claude-code`
 
-⭐ 8.4k • 🔱 1.7k • 12h ago
+⭐ 8.5k • 🔱 1.7k • 13h ago
 
 ---
 
@@ -665,7 +667,7 @@ Marketing skills for Claude Code and AI agents. CRO, copywriting, SEO, analytics
 
 Elevate your AI research writing, no more tedious polishing ✨ 
 
-⭐ 5.4k • 🔱 417 • 14h ago
+⭐ 5.4k • 🔱 417 • 15h ago
 
 ---
 
@@ -711,7 +713,7 @@ Smart LLM router — save 78% on inference costs. 30+ models, one wallet, x402 m
 
 `TypeScript` `ai` `ai-agents` `anthropic` `cost-optimization` `crypto`
 
-⭐ 2.2k • 🔱 223 • 1h ago
+⭐ 2.2k • 🔱 223 • 2h ago
 
 ---
 
