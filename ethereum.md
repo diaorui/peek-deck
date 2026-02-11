@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-02-11T10:52:16.669244+00:00'
+updated: '2026-02-11T11:46:21.952327+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- social
-- news
-- videos
 - cryptocurrency
+- news
+- social
+- videos
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** February 11, 2026 at 10:52 UTC  
+**Last Updated:** February 11, 2026 at 11:46 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -36,23 +36,23 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Price
 
-### $1,949.96
+### $1,944.20
 
 ---
 
 ## Ethereum Chart
 
-**24h:** -3.7%  
-**7d:** +6.5%  
-**30d:** -41.5%  
-**90d:** -37.4%  
-**1y:** -29.0%  
+**24h:** -2.9%  
+**7d:** +6.9%  
+**30d:** -41.3%  
+**90d:** -37.2%  
+**1y:** -28.7%  
 
 ---
 
 ## Ethereum Market Stats
 
-**Market Cap:** $235.22B
+**Market Cap:** $235.12B
 Rank #2
 
 **Circulating Supply:** 120,692,570 ETH
@@ -62,7 +62,7 @@ No max supply
 -60.6%
 
 **All-Time Low:** $0.43
-+449981.9%
++449910.3%
 
 ---
 
@@ -72,7 +72,15 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-4h ago
+5h ago
+
+---
+
+**[A smart contract visualizer tool](https://www.reddit.com/r/ethereum/comments/1r1v1mg/a_smart_contract_visualizer_tool/)**
+
+Hello folks! I drafted this smart contract visualizer tool. It shows the structure of the contract, a plain english explenation and an AI powered security analysis (screenshots below). The purpose would be double: for devs, easily understand and read other contract for learning purpose for users, double-check a contract before interacting with it There would be tons of possible improvements: expand code by clicking on the tile multi chain support support complex contract for many imports by exploding them What do you think? Does the tool have a reason to exist? :) https://preview.redd.it/rz5mi9qhquig1.png?width=1930&format=png&auto=webp&s=5b8c09f479a17e19dadcdad9d2eb4540937a8d83 https://preview.redd.it/2juw6bqhquig1.png?width=1934&format=png&auto=webp&s=1a3ed192e5391c60fb9a1094adb71f364d6eaecc https://preview.redd.it/2oi05cqhquig1.png?width=1940&format=png&auto=webp&s=2543b85dd1018625ec7e8a64c01be2235a8b31fd Thanks, Francesco
+
+10m ago
 
 ---
 
@@ -88,7 +96,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 Posted by Jacob Czepluch on February 10, 2026
 
-🔗 [Solidity Programming Language](https://www.soliditylang.org/blog/2026/02/10/solidity-developer-survey-2025-announcement/) • 10h ago
+🔗 [Solidity Programming Language](https://www.soliditylang.org/blog/2026/02/10/solidity-developer-survey-2025-announcement/) • 11h ago
 
 ---
 
@@ -140,31 +148,31 @@ A bug fix turned into a personal comeback story of coding, parenting, and a smal
 
 ---
 
-**[Extremely lightweight transaction monitor for Ethereum. Less than 3MB in RAM.](https://www.reddit.com/r/ethereum/comments/1qzq0sb/extremely_lightweight_transaction_monitor_for/)**
-
-eth-mempool-monitor subscribes to Ethereum pending transactions over WebSocket, filters them against a monitored address set stored in Redis/Valkey, and publishes matching transactions to RabbitMQ. The project builds three binaries: eth_mempool_monitor: WebSocket subscriber + Redis filter + RabbitMQ publisher. rpc_control: newline-delimited JSON-RPC TCP server used to manage monitored addresses in Redis (token-authenticated). rabbitmq_tx_console: RabbitMQ consumer that prints monitored-transaction events in human-readable form.
-
-🔗 [GitHub](https://github.com/ThirdLetterC/eth-mempool-monitor) • 2d ago
-
----
-
 ---
 
 ## Google News: "ethereum"
-
-**[Robinhood’s Ethereum Layer-2 Network Enters Public Testnet Phase](https://decrypt.co/357654/robinhood-ethereum-layer-2-network-public-testnet-phase)**
-
-Robinhood said developers will begin experimenting with applications on its Ethereum layer-2 network, while providing key technical feedback.
-
-Decrypt • 9h ago
-
----
 
 **[Vitalik Buterin outlines how Ethereum could play a key role in the future of AI](https://www.coindesk.com/business/2026/02/10/vitalik-buterin-outlines-how-ethereum-could-play-a-key-role-in-the-future-of-ai)**
 
 In a new post on X revisiting ideas he first outlined two years ago, Buterin argues that the push toward artificial general intelligence often resembles the kind of unchecked speed and scale that Ethereum itself was created to challenge.
 
-CoinDesk • 19h ago
+CoinDesk • 20h ago
+
+---
+
+**[Robinhood’s Ethereum Layer-2 Network Enters Public Testnet Phase](https://decrypt.co/357654/robinhood-ethereum-layer-2-network-public-testnet-phase)**
+
+Robinhood said developers will begin experimenting with applications on its Ethereum layer-2 network, while providing key technical feedback.
+
+Decrypt • 10h ago
+
+---
+
+**[Tom Lee Claims Ethereum Could Rebound ‘As Fast As It Fell’ — Even as Critics Push Back](https://finance.yahoo.com/news/tom-lee-claims-ethereum-could-144715921.html)**
+
+Tom Lee sees a rapid Ethereum rebound could be incoming. Lee reiterated his bullish stance on both Ethereum and Bitcoin/ His comments come as critics ...
+
+Yahoo Finance • 1d ago
 
 ---
 
@@ -180,13 +188,7 @@ dlnews.com • 1d ago
 
 The Bitcoin and Ethereum prices have rebounded from last week’s lows, providing optimism that the bottom may be in. This comes amid accumulation from whales while the crypto ETFs have seen notable inflows following last week’s outflows. Why The Bitcoin And Ethereum Prices Are Climbing AgainThe Bitc…
 
-TradingView • 10h ago
-
----
-
-**[Ethereum Under Pressure As It Falls Below $2,000](https://seekingalpha.com/article/4868540-ethereum-under-pressure-as-it-falls-below-2000)**
-
-Seeking Alpha • 3h ago
+TradingView • 11h ago
 
 ---
 
@@ -194,7 +196,13 @@ Seeking Alpha • 3h ago
 
 Bitcoin (BTC), Ethereum (ETH), and Ripple (XRP) show signs of cautious stabilization on Wednesday after failing to close above their key resistance levels earlier this week. BTC trades below $69,000, while ETH and XRP also encountered rejection near major resistance levels.
 
-FXStreet • 6h ago
+FXStreet • 7h ago
+
+---
+
+**[Ethereum Under Pressure As It Falls Below $2,000](https://seekingalpha.com/article/4868540-ethereum-under-pressure-as-it-falls-below-2000)**
+
+Seeking Alpha • 4h ago
 
 ---
 
@@ -202,7 +210,15 @@ FXStreet • 6h ago
 
 Buterin pitched Ethereum as an economic/coordination layer for decentralized, privacy-preserving AI systems rather than a race toward AGI.
 
-The Block • 23h ago
+The Block • 1d ago
+
+---
+
+**[Polygon, Ethena, and Nethermind Join the Enterprise Ethereum Alliance as Institutional Ethereum Takes Shape](https://markets.businessinsider.com/news/currencies/polygon-ethena-and-nethermind-join-the-enterprise-ethereum-alliance-as-institutional-ethereum-takes-shape-1035809393)**
+
+New York, United States, February 10th, 2026, ChainwireThe Enterprise Ethereum Alliance today announced that Polygon Labs, Et...
+
+markets.businessinsider.com • 16h ago
 
 ---
 
@@ -211,20 +227,6 @@ The Block • 23h ago
 JPMorganChase, Citi and Custodia are among the banks that have built digital asset projects on the Ethereum blockchain.
 
 American Banker • 15h ago
-
----
-
-**[Polygon, Ethena, and Nethermind Join the Enterprise Ethereum Alliance as Institutional Ethereum Takes Shape](https://markets.businessinsider.com/news/currencies/polygon-ethena-and-nethermind-join-the-enterprise-ethereum-alliance-as-institutional-ethereum-takes-shape-1035809393)**
-
-New York, United States, February 10th, 2026, ChainwireThe Enterprise Ethereum Alliance today announced that Polygon Labs, Et...
-
-markets.businessinsider.com • 15h ago
-
----
-
-**[Ethereum leads way as large cryptocurrencies drop](https://www.marketwatch.com/data-news/ethereum-leads-way-as-large-cryptocurrencies-drop-f5e80176-a90dea2a77fc?gaa_at=eafs&gaa_n=AWEtsqf1edaw0UBmAf6AevZy3DXXM5c2KQ17yDKxb_eyTliKZ-UHL6BZB4LJ&gaa_ts=698c556d&gaa_sig=emylIPG3kGh1eQWlDpfCll-ETf2m2IP82joBH8AJjwoDQRTJR6oADLc3uaLcjJMzdt99g27N5EvpJPIjSN22pA%3D%3D)**
-
-MarketWatch • 19h ago
 
 ---
 
@@ -238,7 +240,7 @@ This video provides a professional Elliott Wave and technical analysis of Ethere
 
 📺 More Crypto Online
 
-👁️ 992 • 👍 89 • 💬 5 • ⏱️ 4:00 • 6h ago
+👁️ 2K • 👍 122 • 💬 7 • ⏱️ 4:00 • 7h ago
 
 ---
 
@@ -248,7 +250,7 @@ If You Hold Crypto... GET READY! (watch before they delete this) ☝️ Become a
 
 📺 Altcoin Daily
 
-👁️ 66K • 👍 3K • 💬 204 • ⏱️ 11:47 • 1d ago
+👁️ 67K • 👍 3K • 💬 206 • ⏱️ 11:47 • 1d ago
 
 ---
 
@@ -256,17 +258,17 @@ If You Hold Crypto... GET READY! (watch before they delete this) ☝️ Become a
 
 📺 Zach Humphries
 
-👁️ 4K • 👍 487 • 💬 30 • ⏱️ 5:43 • 11h ago
+👁️ 4K • 👍 503 • 💬 32 • ⏱️ 5:43 • 12h ago
 
 ---
 
-**[CZ: “This Is EXACTLY How The 2026 Bull Run Starts” [New Bitcoin &amp; Ethereum Prediction 2026]](https://www.youtube.com/watch?v=nLTCa0JE_KY)**
+**[ETH CRASH INCOMING?🚨 (Ethereum Price Prediction 2026)](https://www.youtube.com/watch?v=2lf9l-SACHE)**
 
-My FREE Daily 5-Min Crypto Newsletter: https://www.cryptonutshell.com/subscribe ⮕ Cold Storage Wallet: ...
+ETHEREUM ETH PRICE PREDICTION 2026 Join the Premium Signal Group for trade setups, mentorship & a community ...
 
-📺 Crypto Nutshell
+📺 Cilinix Crypto
 
-👁️ 12K • 👍 488 • 💬 42 • ⏱️ 19:39 • 19h ago
+👁️ 161 • 👍 9 • ⏱️ 4:48 • 2h ago
 
 ---
 
@@ -276,17 +278,17 @@ CNBC"s MacKenzie Sigalos joins 'Squawk Box' to discuss the recent bitcoin volati
 
 📺 CNBC Television
 
-👁️ 67K • 👍 661 • 💬 820 • ⏱️ 6:36 • 18h ago
+👁️ 69K • 👍 684 • 💬 831 • ⏱️ 6:36 • 19h ago
 
 ---
 
-**[GOLDMAN SACHS HUGE CRYPTO HOLDINGS REVEALED! BITCOIN, XRP, ETHEREUM, &amp; SOLANA!](https://www.youtube.com/watch?v=2k2WTZv1laE)**
+**[CZ: “This Is EXACTLY How The 2026 Bull Run Starts” [New Bitcoin &amp; Ethereum Prediction 2026]](https://www.youtube.com/watch?v=nLTCa0JE_KY)**
 
-Crypto News: Goldman Sachs crypto holdings disclosed in new filing which includes billions in Bitcoin, Ethereum, XRP, and ...
+My FREE Daily 5-Min Crypto Newsletter: https://www.cryptonutshell.com/subscribe ⮕ Cold Storage Wallet: ...
 
-📺 Thinking Crypto
+📺 Crypto Nutshell
 
-👁️ 3K • 👍 346 • 💬 38 • ⏱️ 21:01 • 6h ago
+👁️ 13K • 👍 507 • 💬 43 • ⏱️ 19:39 • 20h ago
 
 ---
 
@@ -300,13 +302,13 @@ Welcome back home Ethereum! This time I think ETH will kick its feet back and st
 
 ---
 
-**[🔥Crypto ENDGAME Sooner than you Think👀](https://www.youtube.com/watch?v=e6so8YUJ6sM)**
+**[GOLDMAN SACHS HUGE CRYPTO HOLDINGS REVEALED! BITCOIN, XRP, ETHEREUM, &amp; SOLANA!](https://www.youtube.com/watch?v=2k2WTZv1laE)**
 
-China dumping dollars can trigger a global risk‑off, crushing crypto short term; With the Feb.10th CLARITY Act looming, a harsh ...
+Crypto News: Goldman Sachs crypto holdings disclosed in new filing which includes billions in Bitcoin, Ethereum, XRP, and ...
 
-📺 Paul Barron Network
+📺 Thinking Crypto
 
-👁️ 133K • 👍 6K • 💬 540 • ⏱️ 28:19 • 1d ago
+👁️ 4K • 👍 436 • 💬 54 • ⏱️ 21:01 • 7h ago
 
 ---
 
@@ -316,17 +318,17 @@ TRADE STOCKS, FOREX AND CFDS ON PRIME XBT https://u.primexbt-markets.pro/Martini
 
 📺 TMG Trades
 
-👁️ 2K • 👍 167 • 💬 55 • ⏱️ 10:30 • 19h ago
+👁️ 2K • 👍 163 • 💬 42 • ⏱️ 10:30 • 20h ago
 
 ---
 
-**[BITCOIN HOLDERS: Time to Get Serious (Warning)!!! - Bitcoin News Today, Ethereum &amp; Altcoins](https://www.youtube.com/watch?v=MrR1zq3VwmM)**
+**[🔥Crypto ENDGAME Sooner than you Think👀](https://www.youtube.com/watch?v=e6so8YUJ6sM)**
 
-BITCOIN HOLDERS: Time to Get Serious (Warning)!!! - Bitcoin News Today, Ethereum & Altcoins *Bitunix* ...
+China dumping dollars can trigger a global risk‑off, crushing crypto short term; With the Feb.10th CLARITY Act looming, a harsh ...
 
-📺 Crypto World
+📺 Paul Barron Network
 
-👁️ 8K • 👍 332 • 💬 48 • ⏱️ 17:52 • 14h ago
+👁️ 134K • 👍 6K • 💬 532 • ⏱️ 28:19 • 1d ago
 
 ---
 
