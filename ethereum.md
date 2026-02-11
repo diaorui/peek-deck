@@ -3,13 +3,13 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-02-11T07:56:17.429958+00:00'
+updated: '2026-02-11T08:53:54.304003+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- videos
 - cryptocurrency
+- videos
 - news
 - social
 ---
@@ -18,7 +18,7 @@ data_types:
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** February 11, 2026 at 07:56 UTC  
+**Last Updated:** February 11, 2026 at 08:53 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -52,17 +52,17 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Market Stats
 
-**Market Cap:** $236.21B
+**Market Cap:** $235.22B
 Rank #2
 
 **Circulating Supply:** 120,692,570 ETH
 No max supply
 
 **All-Time High:** $4,946.05
--60.4%
+-60.6%
 
 **All-Time Low:** $0.43
-+451781.0%
++449981.9%
 
 ---
 
@@ -72,7 +72,7 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-1h ago
+2h ago
 
 ---
 
@@ -88,7 +88,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 Posted by Jacob Czepluch on February 10, 2026
 
-🔗 [Solidity Programming Language](https://www.soliditylang.org/blog/2026/02/10/solidity-developer-survey-2025-announcement/) • 7h ago
+🔗 [Solidity Programming Language](https://www.soliditylang.org/blog/2026/02/10/solidity-developer-survey-2025-announcement/) • 8h ago
 
 ---
 
@@ -156,7 +156,7 @@ eth-mempool-monitor subscribes to Ethereum pending transactions over WebSocket, 
 
 Robinhood said developers will begin experimenting with applications on its Ethereum layer-2 network, while providing key technical feedback.
 
-Decrypt • 6h ago
+Decrypt • 7h ago
 
 ---
 
@@ -164,7 +164,7 @@ Decrypt • 6h ago
 
 Buterin pitched Ethereum as an economic/coordination layer for decentralized, privacy-preserving AI systems rather than a race toward AGI.
 
-The Block • 20h ago
+The Block • 21h ago
 
 ---
 
@@ -172,7 +172,7 @@ The Block • 20h ago
 
 In a new post on X revisiting ideas he first outlined two years ago, Buterin argues that the push toward artificial general intelligence often resembles the kind of unchecked speed and scale that Ethereum itself was created to challenge.
 
-CoinDesk • 16h ago
+CoinDesk • 17h ago
 
 ---
 
@@ -188,7 +188,7 @@ Decrypt • 1d ago
 
 Bitmine buys another $80m worth of Ethereum. Tom Lee predicts swift recovery despite over $6.6 billion in unrealised losses.
 
-dlnews.com • 22h ago
+dlnews.com • 23h ago
 
 ---
 
@@ -210,7 +210,7 @@ CCN.com • 1d ago
 
 **[Ethereum Under Pressure As It Falls Below $2,000](https://seekingalpha.com/article/4868540-ethereum-under-pressure-as-it-falls-below-2000)**
 
-Seeking Alpha • 51m ago
+Seeking Alpha • 1h ago
 
 ---
 
@@ -218,7 +218,7 @@ Seeking Alpha • 51m ago
 
 The Bitcoin and Ethereum prices have rebounded from last week’s lows, providing optimism that the bottom may be in. This comes amid accumulation from whales while the crypto ETFs have seen notable inflows following last week’s outflows. Why The Bitcoin And Ethereum Prices Are Climbing AgainThe Bitc…
 
-TradingView • 7h ago
+TradingView • 8h ago
 
 ---
 
@@ -226,7 +226,7 @@ TradingView • 7h ago
 
 JPMorganChase, Citi and Custodia are among the banks that have built digital asset projects on the Ethereum blockchain.
 
-American Banker • 12h ago
+American Banker • 13h ago
 
 ---
 
@@ -234,23 +234,41 @@ American Banker • 12h ago
 
 ## YouTube Videos: "ethereum"
 
+**[Ethereum Elliott Wave Update – Key Resistance Levels Ahead](https://www.youtube.com/watch?v=m2J-8zu3ufE)**
+
+This video provides a professional Elliott Wave and technical analysis of Ethereum (ETH), focusing on market structure, major ...
+
+📺 More Crypto Online
+
+👁️ 992 • 👍 89 • 💬 5 • ⏱️ 4:00 • 4h ago
+
+---
+
 **[If You Hold Bitcoin &amp; Ethereum... GET READY! (watch before they delete this) ☝️](https://www.youtube.com/watch?v=RPv313nfVs0)**
 
 If You Hold Crypto... GET READY! (watch before they delete this) ☝️ Become a channel member & get access to perks: ...
 
 📺 Altcoin Daily
 
-👁️ 65K • 👍 3K • 💬 202 • ⏱️ 11:47 • 1d ago
+👁️ 66K • 👍 3K • 💬 204 • ⏱️ 11:47 • 1d ago
 
 ---
 
-**[Welcome Back Home, Ethereum!](https://www.youtube.com/watch?v=ZZNFVcbzUE4)**
+**[If you own XRP, SOL, ETH or Bitcoin Watch This Immediately! ](https://www.youtube.com/watch?v=W_bB1pzjoNs)**
 
-Welcome back home Ethereum! This time I think ETH will kick its feet back and stay a while. Later this year it will likely go to the ...
+📺 Zach Humphries
 
-📺 Benjamin Cowen
+👁️ 4K • 👍 487 • 💬 30 • ⏱️ 5:43 • 9h ago
 
-👁️ 112K • 👍 6K • 💬 377 • ⏱️ 14:29 • 2d ago
+---
+
+**[CZ: “This Is EXACTLY How The 2026 Bull Run Starts” [New Bitcoin &amp; Ethereum Prediction 2026]](https://www.youtube.com/watch?v=nLTCa0JE_KY)**
+
+My FREE Daily 5-Min Crypto Newsletter: https://www.cryptonutshell.com/subscribe ⮕ Cold Storage Wallet: ...
+
+📺 Crypto Nutshell
+
+👁️ 12K • 👍 488 • 💬 42 • ⏱️ 19:39 • 17h ago
 
 ---
 
@@ -260,7 +278,7 @@ CNBC"s MacKenzie Sigalos joins 'Squawk Box' to discuss the recent bitcoin volati
 
 📺 CNBC Television
 
-👁️ 64K • 👍 651 • 💬 816 • ⏱️ 6:36 • 15h ago
+👁️ 67K • 👍 661 • 💬 820 • ⏱️ 6:36 • 16h ago
 
 ---
 
@@ -270,17 +288,17 @@ Crypto News: Goldman Sachs crypto holdings disclosed in new filing which include
 
 📺 Thinking Crypto
 
-👁️ 1K • 👍 259 • 💬 26 • ⏱️ 21:01 • 3h ago
+👁️ 3K • 👍 346 • 💬 38 • ⏱️ 21:01 • 4h ago
 
 ---
 
-**[ETHEREUM FOUNDER DROPS BOMB!](https://www.youtube.com/watch?v=Qm9OzHTwV1M)**
+**[Welcome Back Home, Ethereum!](https://www.youtube.com/watch?v=ZZNFVcbzUE4)**
 
-MACRO MARKET ANALYSIS VIDEOS EVERYDAY SINCE 2018 I don't sell anything. I don't have any programs for you to join.
+Welcome back home Ethereum! This time I think ETH will kick its feet back and stay a while. Later this year it will likely go to the ...
 
-📺 The Cryptoviser
+📺 Benjamin Cowen
 
-👁️ 898 • 👍 97 • 💬 7 • ⏱️ 34:07 • 17h ago
+👁️ 113K • 👍 6K • 💬 377 • ⏱️ 14:29 • 2d ago
 
 ---
 
@@ -290,45 +308,27 @@ China dumping dollars can trigger a global risk‑off, crushing crypto short ter
 
 📺 Paul Barron Network
 
-👁️ 132K • 👍 6K • 💬 539 • ⏱️ 28:19 • 1d ago
+👁️ 133K • 👍 6K • 💬 540 • ⏱️ 28:19 • 1d ago
 
 ---
 
-**[Ethereum Elliott Wave Update – Key Resistance Levels Ahead](https://www.youtube.com/watch?v=KyxrKSbcvUQ)**
+**[BITCOIN 21 MILLION SUPPLY IS INCREASING. Bitcoin Ethereum &amp; Gold Price Prediction](https://www.youtube.com/watch?v=Y2_F0VZAsc0)**
 
-This video provides a professional Elliott Wave and technical analysis of Ethereum (ETH), focusing on market structure, major ...
+TRADE STOCKS, FOREX AND CFDS ON PRIME XBT https://u.primexbt-markets.pro/MartiniGuy WEEX EXCHANGE - FREE ...
 
-📺 More Crypto Online
+📺 TMG Trades
 
-👁️ 4K • 👍 213 • 💬 6 • ⏱️ 4:14 • 19h ago
-
----
-
-**[If you own XRP, SOL, ETH or Bitcoin Watch This Immediately! ](https://www.youtube.com/watch?v=W_bB1pzjoNs)**
-
-📺 Zach Humphries
-
-👁️ 3K • 👍 470 • 💬 29 • ⏱️ 5:43 • 8h ago
+👁️ 2K • 👍 167 • 💬 55 • ⏱️ 10:30 • 17h ago
 
 ---
 
-**[Ethereum Elliott Wave Update – Key Resistance Levels Ahead](https://www.youtube.com/watch?v=NpH4uebFFik)**
+**[BITCOIN HOLDERS: Time to Get Serious (Warning)!!! - Bitcoin News Today, Ethereum &amp; Altcoins](https://www.youtube.com/watch?v=MrR1zq3VwmM)**
 
-This video provides a professional Elliott Wave and technical analysis of Ethereum (ETH), focusing on market structure, major ...
+BITCOIN HOLDERS: Time to Get Serious (Warning)!!! - Bitcoin News Today, Ethereum & Altcoins *Bitunix* ...
 
-📺 More Crypto Online
+📺 Crypto World
 
-👁️ 3K • 👍 193 • 💬 6 • ⏱️ 6:04 • 1d ago
-
----
-
-**[Ethereum Elliott Wave Update – Key Resistance Levels Ahead](https://www.youtube.com/watch?v=RBZ5PvyMpew)**
-
-This video provides a professional Elliott Wave and technical analysis of Ethereum (ETH), focusing on market structure, major ...
-
-📺 More Crypto Online
-
-👁️ 3K • 👍 193 • 💬 4 • ⏱️ 4:46 • 1d ago
+👁️ 8K • 👍 332 • 💬 48 • ⏱️ 17:52 • 12h ago
 
 ---
 
