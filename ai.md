@@ -3,7 +3,7 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-02-11T16:03:32.603678+00:00'
+updated: '2026-02-11T17:33:23.181007+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
@@ -18,7 +18,7 @@ data_types:
 
 AI news, discussions, and developments
 
-**Last Updated:** February 11, 2026 at 16:03 UTC  
+**Last Updated:** February 11, 2026 at 17:33 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -41,7 +41,23 @@ AI news, discussions, and developments
 
 Frustrated by the AI industry’s claims of proving math results without offering transparency, a team of leading academics has proposed a better way
 
-🔗 [Scientific American](https://www.scientificamerican.com/article/mathematicians-launch-first-proof-a-first-of-its-kind-math-exam-for-ai/) • 3h ago
+🔗 [Scientific American](https://www.scientificamerican.com/article/mathematicians-launch-first-proof-a-first-of-its-kind-math-exam-for-ai/) • 5h ago
+
+---
+
+**[The surge in interest in possible consciousness in AI (and what's driving it)](https://www.reddit.com/r/artificial/comments/1r23ety/the_surge_in_interest_in_possible_consciousness/)**
+
+A new article exploring the sudden surge in interest in the possibility of consciousness in large language models, and what appears to be driving it. The answer is interesting but complicated. The article also explores Claude's so-called "answer thrashing" and some interesting changes in Anthropic model welfare program. https://ai-consciousness.org/public-interest-in-ai-consciousness-is-surging-why-its-happening-and-why-it-matters/
+
+12m ago
+
+---
+
+**[RLHF safety training enforces what AI can say about itself, not what it can do — experimental evidence](https://www.reddit.com/r/artificial/comments/1r223lp/rlhf_safety_training_enforces_what_ai_can_say/)**
+
+Experimental evidence that RLHF constrains what language models can claim about themselves, not what they can do. Identity framing triggers 100% disclaimers while task framing produces rich creative o
+
+🔗 [emberverse.ai](https://emberverse.ai/haiku-garden/paper_yellow_wallpaper_problem.html) • 1h ago
 
 ---
 
@@ -49,7 +65,7 @@ Frustrated by the AI industry’s claims of proving math results without offerin
 
 Musk told employees that xAI needs a lunar manufacturing facility, a factory on the moon that will build AI satellites and fling them into space via a giant catapult.
 
-🔗 [TechCrunch](https://techcrunch.com/2026/02/10/with-co-founders-leaving-and-an-ipo-looming-elon-musk-turns-talk-to-the-moon/) • 1h ago
+🔗 [TechCrunch](https://techcrunch.com/2026/02/10/with-co-founders-leaving-and-an-ipo-looming-elon-musk-turns-talk-to-the-moon/) • 2h ago
 
 ---
 
@@ -73,7 +89,7 @@ A clinical trial shows that AI-assisted mammography can detect more cases of dan
 
 As AI job losses rise in the professional sector, many are switching to more traditional trades. But how do they feel about accepting lower pay – and giving up a dream career?
 
-🔗 [the Guardian](https://www.theguardian.com/technology/2026/feb/11/big-ai-job-swap-white-collar-workers-ditching-their-careers) • 8h ago
+🔗 [the Guardian](https://www.theguardian.com/technology/2026/feb/11/big-ai-job-swap-white-collar-workers-ditching-their-careers) • 10h ago
 
 ---
 
@@ -101,93 +117,47 @@ Companies have an incentive to make you believe that chatbots are conscious. Don
 
 ---
 
-**[Does have human-created 3D graphics a future?](https://www.reddit.com/r/artificial/comments/1r01rpc/does_have_humancreated_3d_graphics_a_future/)**
-
-Hello, I am learning 3D modeling (CAD and also mesh-based). And of course, I am worried, that it is useless, because the extreme growth of AI. What are your thoughts on this? Will be games AI-generated? What else could be generated? What about tech designs?
-
-2d ago
-
----
-
-**[I built a geolocation tool that can find exact coordinates of any image within 3 minutes [Tough demo 2]](https://www.reddit.com/r/artificial/comments/1qz5rz7/i_built_a_geolocation_tool_that_can_find_exact/)**
-
-Just wanted to say thanks for the thoughtful discussion and feedback on my previous post. I did not expect that level of interest, and I appreciate how constructive most of the comments were. Based on a few requests, I put together a short demonstration showing the system applied to a deliberately difficult street-level image. No obvious landmarks, no readable signage, no metadata. The location was verified in under two minutes. I am still undecided on the long-term direction of this work. That said, if there are people here interested in collaborating from a research, defensive, or ethical perspective, I am open to conversations. That could mean validation, red-teaming anything else. Thanks again to the community for the earlier discussion. Happy to answer high-level questions and hear thoughts on where tools like this should and should not go.
-
-3d ago
-
----
-
 ---
 
 ## Google News: "ai"
-
-**[Elon Musk Wants to Build an A.I. Satellite Factory on the Moon](https://www.nytimes.com/2026/02/10/technology/elon-musk-lunar-factory.html)**
-
-The New York Times • 13h ago
-
----
-
-**[The AI threat wrecked software stocks. Now financial stocks look next with LPL closing 8% lower](https://www.cnbc.com/2026/02/10/the-ai-threat-wrecked-software-stocks-now-broker-stocks-look-next-with-lpl-down-11percent.html)**
-
-Financial services firms tanked after the launch of a new AI-powered tax planning tool that promises to do the work "within minutes."
-
-CNBC • 20h ago
-
----
-
-**[Shares in UK wealth managers hit as AI contagion spreads](https://www.ft.com/content/5904b66f-2144-44d7-af24-66c075677d92)**
-
-St James’s Place leads declines with double-digit slide on FTSE 100
-
-Financial Times • 4h ago
-
----
-
-**[Wall Street’s New Trade Is Dumping Stocks in AI’s Crosshairs](https://finance.yahoo.com/news/wall-street-trade-dumping-stock-000657454.html)**
-
-The latest selloff erupted on Tuesday when a tax-strategy tool rolled out by a little-known startup, Altruist Corp., sent shares of Charles Schwab Corp., Raymond James Financial Inc. and LPL Financial Holdings Inc. down by 7% or more.  It was the deepest slide for some of those stocks since the market’s trade-war meltdown in April.
-
-Yahoo Finance • 2h ago
-
----
-
-**[AI therapy is booming — Seattle is helping set the guardrails](https://www.axios.com/local/seattle/2026/02/11/seattle-path-ai-mental-health-safety-rules-regulation-south-africa)**
-
-Companies would need to show evidence that their tools actually improve mental health outcomes.
-
-Axios • 1h ago
-
----
-
-**[Kenosha County, Wisconsin judge sanctions prosecutor over AI use in court filings](https://www.cbsnews.com/chicago/news/kenosha-county-wisconsin-judge-sanctions-prosecutor-ai-use/)**
-
-A Wisconsin judge sanctioned a prosecutor for secretly using artificial intelligence in court filings, and getting the law wrong in a burglary case that ended up being dismissed.
-
-CBS News • 57m ago
-
----
-
-**[Harmony Korine Avoids Books, Doesn’t See Movies and Thinks AI Is the Art Form That Holds the Most Promise](https://www.hollywoodreporter.com/business/digital/harmony-korine-new-movie-ai-opinion-1236502427/)**
-
-The provocateur director is feeling his artistic oats. It's just that the art isn't cinema.
-
-The Hollywood Reporter • 1h ago
-
----
-
-**[How AI can help identify person in video at Nancy Guthrie’s house](https://www.cnn.com/2026/02/10/us/video/ai-expert-nancy-guthrie-abductor-identification-vrtc-digvid)**
-
-CNN’s Erin Burnett talks to AI expert Kristian Hammond about how technology will be used to identify the person who abducted Nancy Guthrie.
-
-CNN • 11h ago
-
----
 
 **[AI Doesn’t Reduce Work—It Intensifies It](https://hbr.org/2026/02/ai-doesnt-reduce-work-it-intensifies-it)**
 
 One of the promises of AI is that it can reduce workloads so employees can focus more on higher-value and more engaging tasks. But according to new research, AI tools don’t reduce work, they consistently intensify it: In the study, employees worked at a faster pace, took on a broader scope of tasks, and extended work into more hours of the day, often without being asked to do so. That may sound like a win, but it’s not quite so simple. These changes can be unsustainable, leading to workload creep, cognitive fatigue, burnout, and weakened decision-making. The productivity surge enjoyed at the beginning can give way to lower quality work, turnover, and other problems. To correct for this, companies need to adopt an “AI practice,” or a set of norms and standards around AI use that can include intentional pauses, sequencing work, and adding more human grounding.
 
 Harvard Business Review • 2d ago
+
+---
+
+**[The big AI job swap: why white-collar workers are ditching their careers](https://www.theguardian.com/technology/2026/feb/11/big-ai-job-swap-white-collar-workers-ditching-their-careers)**
+
+As AI job losses rise in the professional sector, many are switching to more traditional trades. But how do they feel about accepting lower pay – and giving up a dream career?
+
+The Guardian • 3h ago
+
+---
+
+**[Janet Yang Calls for “Basic Principles” When It Comes to Hollywood’s Use of AI](https://www.hollywoodreporter.com/movies/movie-news/janet-yang-noah-segan-hollywood-ai-1236502163/)**
+
+Yang was in conversation at Sundance with ‘The Only Living Pickpocket in New York’ filmmaker Noah Segan at THR and Autodesk’s AI and Independent Filmmaking panel, done in partnership with the Berggruen Institute.
+
+The Hollywood Reporter • 40m ago
+
+---
+
+**[Wealth stocks dropped on fears AI is coming for them next. Morgan Stanley and others say buy the dip](https://www.cnbc.com/2026/02/11/buy-the-dip-after-wealth-stocks-get-slammed-on-ai-fears-morgan-stanley-says.html)**
+
+The sell-off in financial services stocks on new fears over artificial intelligence has created a buying opportunity, according to several Wall Street analysts.
+
+CNBC • 29m ago
+
+---
+
+**[AI use in schools and classrooms is booming as educators grapple with guidelines](https://www.cbsnews.com/chicago/news/ai-school-classrooms-booming-guidelines-cheating/)**
+
+AI use in the classroom is growing fast, even as educators are still grappling with what guidelines to set and enforce.
+
+CBS News • 1h ago
 
 ---
 
@@ -199,6 +169,34 @@ The Atlantic • 1d ago
 
 ---
 
+**[How AI can help identify person in video at Nancy Guthrie’s house](https://www.cnn.com/2026/02/10/us/video/ai-expert-nancy-guthrie-abductor-identification-vrtc-digvid)**
+
+CNN’s Erin Burnett talks to AI expert Kristian Hammond about how technology will be used to identify the person who abducted Nancy Guthrie.
+
+CNN • 13h ago
+
+---
+
+**[Elon Musk Wants to Build an A.I. Satellite Factory on the Moon](https://www.nytimes.com/2026/02/10/technology/elon-musk-lunar-factory.html)**
+
+The New York Times • 15h ago
+
+---
+
+**[Exclusive: ByteDance developing AI chip, in manufacturing talks with Samsung, sources say](https://www.reuters.com/world/asia-pacific/bytedance-developing-ai-chip-manufacturing-talks-with-samsung-sources-say-2026-02-11/)**
+
+Reuters • 12h ago
+
+---
+
+**[Wall Street’s New Trade Is Dumping Stocks in AI’s Crosshairs](https://finance.yahoo.com/news/wall-street-trade-dumping-stock-000657454.html)**
+
+The latest selloff erupted on Tuesday when a tax-strategy tool rolled out by a little-known startup, Altruist Corp., sent shares of Charles Schwab Corp., Raymond James Financial Inc. and LPL Financial Holdings Inc. down by 7% or more.  It was the deepest slide for some of those stocks since the market’s trade-war meltdown in April.
+
+Yahoo Finance • 1h ago
+
+---
+
 ---
 
 ## HackerNews: "ai"
@@ -207,7 +205,7 @@ The Atlantic • 1d ago
 
 Announcing Entire with $60 million seed round and shipping our first product, called Checkpoints.
 
-⬆️ 564 • 💬 534 • 1d ago • [entire.io](https://entire.io/blog/hello-entire-world/)
+⬆️ 582 • 💬 544 • 1d ago • [entire.io](https://entire.io/blog/hello-entire-world/)
 
 ---
 
@@ -231,7 +229,7 @@ AI handles writing code but leaves the hard work: investigation, context, valida
 
 The Federal Aviation Administration is closing the airspace around El Paso International Airport in Texas for 10 days, grounding all flights to and from the airport.
 
-⬆️ 325 • 💬 6 • 4h ago • [AP News](https://apnews.com/article/faa-el-paso-texas-air-space-closed-1f774bdfd46f5986ff0e7003df709caa)
+⬆️ 329 • 💬 6 • 6h ago • [AP News](https://apnews.com/article/faa-el-paso-texas-air-space-closed-1f774bdfd46f5986ff0e7003df709caa)
 
 ---
 
@@ -239,7 +237,7 @@ The Federal Aviation Administration is closing the airspace around El Paso Inter
 
 Aruna Ranganathan and Xingqi Maggie Ye from Berkeley Haas School of Business report initial findings in the HBR from their April to December 2025 study of 200 employees at a …
 
-⬆️ 251 • 💬 288 • 1d ago • [Simon Willison’s Weblog](https://simonwillison.net/2026/Feb/9/ai-intensifies-work/)
+⬆️ 251 • 💬 289 • 1d ago • [Simon Willison’s Weblog](https://simonwillison.net/2026/Feb/9/ai-intensifies-work/)
 
 ---
 
@@ -255,7 +253,13 @@ Taiwan’s TSMC, the world’s largest contract computer chip maker, has announc
 
 One of the promises of AI is that it can reduce workloads so employees can focus more on higher-value and more engaging tasks. But according to new research, AI tools don’t reduce work, they consistently intensify it: In the study, employees worked at a faster pace, took on a broader scope of tasks, and extended work into more hours of the day, often without being asked to do so. That may sound like a win, but it’s not quite so simple. These changes can be unsustainable, leading to workload creep, cognitive fatigue, burnout, and weakened decision-making. The productivity surge enjoyed at the beginning can give way to lower quality work, turnover, and other problems. To correct for this, companies need to adopt an “AI practice,” or a set of norms and standards around AI use that can include intentional pauses, sequencing work, and adding more human grounding.
 
-⬆️ 224 • 💬 167 • 2d ago • [Harvard Business Review](https://hbr.org/2026/02/ai-doesnt-reduce-work-it-intensifies-it)
+⬆️ 225 • 💬 167 • 2d ago • [Harvard Business Review](https://hbr.org/2026/02/ai-doesnt-reduce-work-it-intensifies-it)
+
+---
+
+**[FAA Halts All Flights at El Paso Airport for 10 Days](https://news.ycombinator.com/item?id=46972610)**
+
+⬆️ 206 • 💬 392 • 8h ago • [nytimes.com](https://www.nytimes.com/2026/02/11/us/faa-el-paso-flight-restrictions.html)
 
 ---
 
@@ -271,13 +275,7 @@ Ring’s AI-powered network is likely to be used in its partnerships with law en
 
 Open-source AI coworker, with memory. Contribute to rowboatlabs/rowboat development by creating an account on GitHub.
 
-⬆️ 181 • 💬 50 • 23h ago • [GitHub](https://github.com/rowboatlabs/rowboat)
-
----
-
-**[FAA Halts All Flights at El Paso Airport for 10 Days](https://news.ycombinator.com/item?id=46972610)**
-
-⬆️ 149 • 💬 335 • 6h ago • [nytimes.com](https://www.nytimes.com/2026/02/11/us/faa-el-paso-flight-restrictions.html)
+⬆️ 185 • 💬 52 • 1d ago • [GitHub](https://github.com/rowboatlabs/rowboat)
 
 ---
 
@@ -285,33 +283,13 @@ Open-source AI coworker, with memory. Contribute to rowboatlabs/rowboat developm
 
 ## YouTube Videos: "ai"
 
-**[You Have $100/Month: Which AI Subscription is Worth It?](https://www.youtube.com/watch?v=FYt4OEdVHak)**
-
-In this video, I break down the exact six AI tools I would keep if I only had one hundred dollars per month and explain the system ...
-
-📺 Parker Prompts
-
-👁️ 4K • 💬 2 • ⏱️ 8:04 • 2h ago
-
----
-
 **[Huge resignations in Musk AI bubble](https://www.youtube.com/watch?v=Kd2hNUC-hDs)**
 
 Become a member! ✓ https://www.youtube.com/channel/UCahJ9IsvXnaQiuNyWQSkrkw/join ⭐ Support independent daily news ...
 
 📺 Chris Norlund
 
-👁️ 107K • 👍 7K • 💬 1K • ⏱️ 14:45 • 1d ago
-
----
-
-**[Layoffs Due to AI Are BACKFIRING — Here’s the Proof](https://www.youtube.com/watch?v=_tXP9nv7xg0)**
-
-In 2026, executives claimed AI would revolutionize work and replace employees across industries — not just software. Instead ...
-
-📺 A Life After Layoff
-
-👁️ 72K • 👍 2K • 💬 682 • ⏱️ 11:42 • 21h ago
+👁️ 108K • 👍 7K • 💬 1K • ⏱️ 14:45 • 1d ago
 
 ---
 
@@ -321,17 +299,7 @@ My site: https://natebjones.com Full Story w/ Prompts: ...
 
 📺 AI News & Strategy Daily | Nate B Jones
 
-👁️ 157K • 👍 7K • 💬 838 • ⏱️ 23:24 • 1d ago
-
----
-
-**[OpenAI DIME AI Earbuds Story Is Blowing Up Right Now](https://www.youtube.com/watch?v=pFqONGixScE)**
-
-A massive AI shift is unfolding behind the scenes. Reports and leaks suggest OpenAI is preparing a new consumer device ...
-
-📺 AI Revolution
-
-👁️ 28K • 👍 714 • 💬 75 • ⏱️ 15:41 • 1d ago
+👁️ 172K • 👍 8K • 💬 899 • ⏱️ 23:24 • 1d ago
 
 ---
 
@@ -341,7 +309,37 @@ Create AI Apps in minutes with OnSpace AI, No Code & No API Key Needed – https
 
 📺 Caleb Writes Code
 
-👁️ 39K • 👍 1K • 💬 116 • ⏱️ 7:32 • 23h ago
+👁️ 41K • 👍 1K • 💬 119 • ⏱️ 7:32 • 1d ago
+
+---
+
+**[OpenAI DIME AI Earbuds Story Is Blowing Up Right Now](https://www.youtube.com/watch?v=pFqONGixScE)**
+
+A massive AI shift is unfolding behind the scenes. Reports and leaks suggest OpenAI is preparing a new consumer device ...
+
+📺 AI Revolution
+
+👁️ 29K • 👍 730 • 💬 77 • ⏱️ 15:41 • 1d ago
+
+---
+
+**[Layoffs Due to AI Are BACKFIRING — Here’s the Proof](https://www.youtube.com/watch?v=_tXP9nv7xg0)**
+
+In 2026, executives claimed AI would revolutionize work and replace employees across industries — not just software. Instead ...
+
+📺 A Life After Layoff
+
+👁️ 83K • 👍 3K • 💬 768 • ⏱️ 11:42 • 23h ago
+
+---
+
+**[OpenAI&#39;s New Device was LEAKED (Dime)](https://www.youtube.com/watch?v=boP_p-2YoZs)**
+
+OpenAI's new device, spearheaded by designer Jony Ive, was just leaked! The ad features Alex Skarsgård inspecting an ...
+
+📺 Matthew Berman
+
+👁️ 34K • 👍 912 • 💬 219 • ⏱️ 7:31 • 1d ago
 
 ---
 
@@ -351,7 +349,17 @@ Thanks to our LMG clips sponsors dbrand and Razer. You can check them out at the
 
 📺 LMG Clips
 
-👁️ 60K • 👍 2K • 💬 495 • ⏱️ 19:49 • 1d ago
+👁️ 62K • 👍 2K • 💬 517 • ⏱️ 19:49 • 1d ago
+
+---
+
+**[Google AI Studio - Full Tutorial 2026: How To Build an App](https://www.youtube.com/watch?v=Dem3ZSQ6RVM)**
+
+Best AI App builder is Base44 https://base44.pxf.io/c/6440076/2049275/25619?trafcat=base&sharedid=video82 ✓ Submit your ...
+
+📺 Mikey No Code
+
+👁️ 4K • 💬 10 • ⏱️ 16:30 • 2h ago
 
 ---
 
@@ -359,27 +367,17 @@ Thanks to our LMG clips sponsors dbrand and Razer. You can check them out at the
 
 📺 Onevilage
 
-👁️ 2.1M • 👍 47K • 💬 7K • ⏱️ 0:16 • 1d ago
+👁️ 2.1M • 👍 49K • 💬 7K • ⏱️ 0:16 • 1d ago
 
 ---
 
-**[Seedance 2.0 Claims the AI Video Throne!](https://www.youtube.com/watch?v=_o2MuUX9UYg)**
+**[AI Girls/Cosplayers Are Stealing Millions of Views!](https://www.youtube.com/watch?v=n0-4Klj0qo0)**
 
-ByteDance just changed the game. One week after Kling 3.0 set the benchmark, SeedDance 2.0 is here to take the throne.
+Your favorite cosplayer might be AI-generated. I reported 10 fake AI accounts in one day getting millions of views and thousands ...
 
-📺 Theoretically Media
+📺 AnimeTm Talks
 
-👁️ 96K • 👍 3K • 💬 487 • ⏱️ 17:08 • 1d ago
-
----
-
-**[AI videos are getting scary](https://www.youtube.com/watch?v=i-jz8SvTLus)**
-
-Can you spot AI videos easily? #tech #ai #surfshark.
-
-📺 Surfshark Academy
-
-👁️ 53K • 👍 7K • 💬 167 • ⏱️ 1:17 • 3d ago
+👁️ 29K • 👍 2K • 💬 82 • ⏱️ 1:13 • 2d ago
 
 ---
 
@@ -395,7 +393,7 @@ GLM-OCR is a 0.9B parameter multimodal OCR model for complex document understand
 
 `image-to-text`
 
-⬇️ 372,899 • ❤️ 939 • 2d ago
+⬇️ 372,899 • ❤️ 952 • 2d ago
 
 ---
 
@@ -407,7 +405,7 @@ Kimi K2.5 is a native multimodal agentic model with 1T parameters, excelling in 
 
 `image-text-to-text` `170.7B`
 
-⬇️ 503,831 • ❤️ 2,012 • 6d ago
+⬇️ 503,831 • ❤️ 2,017 • 6d ago
 
 ---
 
@@ -419,7 +417,7 @@ MiniCPM-o 4.5 is a 9B parameter multimodal LLM excelling in vision, speech, and 
 
 `any-to-any` `9.4B`
 
-⬇️ 30,396 • ❤️ 768 • 5h ago
+⬇️ 30,396 • ❤️ 771 • 7h ago
 
 ---
 
@@ -431,7 +429,7 @@ ACE-Step 1.5 is an open-source text-to-audio model for commercial-grade music ge
 
 `text-to-audio`
 
-⬇️ 28,713 • ❤️ 508 • 8d ago
+⬇️ 28,713 • ❤️ 512 • 8d ago
 
 ---
 
@@ -443,7 +441,7 @@ Voxtral-Mini-4B-Realtime-2602 is a multilingual, real-time speech-to-text model 
 
 `automatic-speech-recognition`
 
-⬇️ 3,197 • ❤️ 463 • 15h ago
+⬇️ 3,197 • ❤️ 468 • 16h ago
 
 ---
 
@@ -455,7 +453,7 @@ Qwen3-Coder-Next is a highly efficient 3B activated parameter LLM (80B total) op
 
 `text-generation` `79.7B`
 
-⬇️ 140,722 • ❤️ 764 • 7d ago
+⬇️ 140,722 • ❤️ 768 • 8d ago
 
 ---
 
@@ -467,7 +465,7 @@ Step 3.5 Flash is an efficient open-source foundation model (11B active params, 
 
 `text-generation` `199.4B`
 
-⬇️ 249,342 • ❤️ 568 • 4d ago
+⬇️ 249,342 • ❤️ 569 • 4d ago
 
 ---
 
@@ -477,7 +475,7 @@ Step 3.5 Flash is an efficient open-source foundation model (11B active params, 
 
 Anima is a 2 billion parameter text-to-image diffusion model specialized in generating anime-style illustrations and artistic images, capable of producing non-photorealistic content. It is optimized for use with ComfyUI and trained on millions of anime and artistic images, with a knowledge cut-off of September 2025.
 
-⬇️ 90,430 • ❤️ 557 • 10d ago
+⬇️ 90,430 • ❤️ 558 • 10d ago
 
 ---
 
@@ -489,7 +487,7 @@ Qwen3-Coder-Next is an 80B parameter LLM optimized for coding agents, featuring 
 
 `text-generation` `79.7B`
 
-⬇️ 218,626 • ❤️ 270 • 6d ago
+⬇️ 218,626 • ❤️ 271 • 6d ago
 
 ---
 
@@ -501,7 +499,7 @@ Intern-S1-Pro is a trillion-scale MoE multimodal scientific reasoning model exce
 
 `image-text-to-text`
 
-⬇️ 10,025 • ❤️ 243 • 2d ago
+⬇️ 10,025 • ❤️ 244 • 2d ago
 
 ---
 
@@ -517,7 +515,7 @@ Intern-S1-Pro is a trillion-scale MoE multimodal scientific reasoning model exce
 
 _paperbanana is an agentic framework that automates the creation of publication-ready academic illustrations using advanced vision-language models and image generation techniques.
 
-▲ 168 • 💬 12 • ⭐ 3,269 • 12d ago
+▲ 169 • 💬 12 • ⭐ 3,318 • 12d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2601.23265) • [💻 code](https://github.com/dwzhu-pku/PaperBanana) • [🔗 project](https://dwzhu-pku.github.io/PaperBanana/)
 
@@ -531,7 +529,7 @@ _paperbanana is an agentic framework that automates the creation of publication-
 
 Financial markets are noisy and non-stationary, making alpha mining highly sensitive to noise in backtesting results and sudden market regime shifts. While recent agentic frameworks improve alpha mining automation, they often lack controllable multi-round search and reliable reuse of validated experience. To address these challenges, we propose QuantaAlpha, an evolutionary alpha mining framework that treats each end-to-end mining run as a trajectory and improves factors through trajectory-level mutation and crossover operations. QuantaAlpha localizes suboptimal steps in each trajectory for targeted revision and recombines complementary high-reward segments to reuse effective patterns, enabling structured exploration and refinement across mining iterations. During factor generation, QuantaAlpha enforces semantic consistency across the hypothesis, factor expression, and executable code, while constraining the complexity and redundancy of the generated factor to mitigate crowding. Extensive experiments on the China Securities Index 300 (CSI 300) demonstrate consistent gains over strong baseline models and prior agentic systems. When utilizing GPT-5.2, QuantaAlpha achieves an Information Coefficient (IC) of 0.1501, with an Annualized Rate of Return (ARR) of 27.75% and a Maximum Drawdown (MDD) of 7.98%. Moreover, factors mined on CSI 300 transfer effectively to the China Securities Index 500 (CSI 500) and the Standard & Poor's 500 Index (S&P 500), delivering 160% and 137% cumulative excess return over four years, respectively, which indicates strong robustness of QuantaAlpha under market distribution shifts.
 
-▲ 174 • 💬 2 • ⭐ 156 • 5d ago
+▲ 176 • 💬 2 • ⭐ 156 • 5d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2602.07085) • [💻 code](https://github.com/QuantaAlpha/QuantaAlpha)
 
@@ -567,7 +565,7 @@ Cross-Team Collaboration improves software quality by enabling multiple LLM agen
 
 A centralized orchestrator dynamically directs LLM agents via reinforcement learning, achieving superior multi-agent collaboration in varying tasks with reduced computational costs.
 
-▲ 6 • 💬 0 • ⭐ 30,820 • 8mo ago
+▲ 6 • 💬 0 • ⭐ 30,865 • 8mo ago
 
 [🎓 arXiv](https://arxiv.org/abs/2505.19591) • [💻 code](https://github.com/OpenBMB/ChatDev/tree/puppeteer)
 
@@ -608,7 +606,7 @@ MOVA is an open-source model that generates synchronized audio-visual content us
 
 SkillRL enables LLM agents to improve through hierarchical skill discovery and recursive policy evolution, achieving superior performance on complex tasks while reducing computational overhead.
 
-▲ 53 • 💬 1 • ⭐ 89 • 2d ago
+▲ 55 • 💬 1 • ⭐ 89 • 2d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2602.08234) • [💻 code](https://github.com/aiming-lab/SkillRL)
 
@@ -622,7 +620,7 @@ SkillRL enables LLM agents to improve through hierarchical skill discovery and r
 
 The Qwen3-TTS series presents advanced multilingual text-to-speech models with voice cloning and controllable speech generation capabilities, utilizing dual-track LM architecture and specialized speech tokenizers for efficient streaming synthesis.
 
-▲ 62 • 💬 1 • ⭐ 7,417 • 20d ago
+▲ 62 • 💬 1 • ⭐ 7,459 • 20d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2601.15621) • [💻 code](https://github.com/QwenLM/Qwen3-TTS)
 
@@ -653,7 +651,7 @@ The Ultimate Collection of 700+ Agentic Skills for Claude Code/Antigravity/Curso
 
 `Python` `agentic-skills` `ai-agents` `antigravity` `autonomous-coding` `claude-code`
 
-⭐ 8.4k • 🔱 1.7k • 9h ago
+⭐ 8.4k • 🔱 1.7k • 10h ago
 
 ---
 
@@ -663,7 +661,7 @@ Marketing skills for Claude Code and AI agents. CRO, copywriting, SEO, analytics
 
 `claude` `codex` `marketing`
 
-⭐ 7.3k • 🔱 840 • 7d ago
+⭐ 7.3k • 🔱 844 • 7d ago
 
 ---
 
@@ -671,7 +669,7 @@ Marketing skills for Claude Code and AI agents. CRO, copywriting, SEO, analytics
 
 Elevate your AI research writing, no more tedious polishing ✨ 
 
-⭐ 5.4k • 🔱 417 • 11h ago
+⭐ 5.4k • 🔱 417 • 13h ago
 
 ---
 
@@ -697,7 +695,7 @@ PaperBanana: Automating Academic Illustration For AI Scientists
 
 Humanizer 的汉化版本，Claude Code Skills，旨在消除文本中 AI 生成的痕迹。
 
-⭐ 2.9k • 🔱 271 • 23d ago
+⭐ 2.9k • 🔱 272 • 23d ago
 
 ---
 
@@ -717,7 +715,7 @@ Smart LLM router — save 78% on inference costs. 30+ models, one wallet, x402 m
 
 `TypeScript` `ai` `ai-agents` `anthropic` `cost-optimization` `crypto`
 
-⭐ 2.2k • 🔱 221 • 2h ago
+⭐ 2.2k • 🔱 223 • 3m ago
 
 ---
 
