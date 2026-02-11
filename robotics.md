@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-02-11T21:59:00.159174+00:00'
+updated: '2026-02-11T22:40:55.598126+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- social
-- videos
 - news
+- videos
+- social
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** February 11, 2026 at 21:59 UTC  
+**Last Updated:** February 11, 2026 at 22:40 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -36,7 +36,7 @@ Robotics research and industry news
 
 Boston Dynamics CEO Robert Playter told staff on Tuesday that he'll be stepping down from the company. He first joined Boston Dynamics in 1994.
 
-🔗 [Business Insider](https://www.businessinsider.com/boston-dynamics-ceo-robert-playter-steps-down-memo-2026-2) • 4h ago
+🔗 [Business Insider](https://www.businessinsider.com/boston-dynamics-ceo-robert-playter-steps-down-memo-2026-2) • 5h ago
 
 ---
 
@@ -44,7 +44,7 @@ Boston Dynamics CEO Robert Playter told staff on Tuesday that he'll be stepping 
 
 I’m interested in designing a robot with wheels and tracks similar to this style, but I don’t yet have much experience developing this type of system from scratch. I have some knowledge of AutoCAD and recently started using Fusion 360 with the goal of learning more about project development focused on robotics. I’m able to interpret technical drawings in multiple views and model them in 3D, as well as replicate existing models. However, my experience is limited to that. I have never designed a complete system entirely from scratch, especially something like an articulated track system that works together with drive wheels. I would appreciate guidance or advice on how to properly start and structure this kind of project.
 
-3h ago
+4h ago
 
 ---
 
@@ -52,7 +52,7 @@ I’m interested in designing a robot with wheels and tracks similar to this sty
 
 Hey. I'm a 2nd year college student who just recently switched into my school's Electrical Engineering program and even though I'm still young (20) I wish I started tinkering with robots/soldering sooner. Money is not an issue, so I'm wondering what you guys would recommend I do to push myself closer to working on robot design/doing things that scratch that itch.
 
-12h ago
+13h ago
 
 ---
 
@@ -68,13 +68,13 @@ Hey everyone! I'm going to be starting a robotics club at my community college a
 
 Hi everyone, I currently have a real-world setup consisting of a UR3e with a flat square platform attached to the end effector. There’s a ball on top of the platform, and I use a camera detection pipeline to detect the ball position and balance it. The controller is currently a simple PID (though I’m working toward switching to MPC). Now I want to build a digital twin / simulation of this system. I’m considering MuJoCo, but I have zero experience with it. I’ve also heard about something like the ROS–Unity integration / ROS Unity Hub, and I’m not sure which direction makes more sense or where I should start. What I want to achieve in simulation: Import a URDF of the UR3e Attach a static square platform to the end effector (this part seems straightforward) Add a ball that rolls on top of the platform Have proper collision and physics behavior The platform has four sides (like a shallow box), so if the ball hits the edge, it should collide and stop rather than just fall off If the end effector tilts, the plate tilts The ball should realistically roll “downhill” due to gravity when the plate is tilted So my main physics questions: Is this realistically achievable in both MuJoCo and Unity? Can I define proper rolling friction and contact friction between the ball and the plate? Will the physics engine handle realistic rolling behavior when I tilt the TCP? Matching Simulation to Reality (Friction Identification) Another big question: how would you recommend estimating the friction coefficients from the real system so I can plug them into the simulation? I was thinking something along the lines of: Tilt the plate to a known angle Measure how long the ball takes to travel across a 40 cm plate Repeat multiple times Use that data to estimate an effective friction coefficient Is that a reasonable approach? Are there better system identification methods people typically use for this kind of setup? Real-Time Digital Twin Long-term, I would like: When the real robot is balancing the ball, the simulated version reflects the same joint motions and plate tilt. While working purely in simulation, I’d also like a simulated camera plugin that gives me the ball position, which feeds into my detection pipeline and controller (PID now, possibly MPC later). So effectively: Simulation → virtual camera → detection → controller → robot motion And eventually also: real robot → mirrored digital twin Main Questions Would you recommend MuJoCo or Unity (ROS integration) for this use case? Where would you start if you had zero experience with both? Is one significantly better for contact-rich rolling dynamics like this? Has anyone built something similar (ball balancing / contact dynamics on a robot arm)? I also found a Unity UR simulation project that I can link below if helpful. Any guidance on architecture, tools, or first steps would be greatly appreciated. Thanks! TL;DR: I have a UR3e ball-balancing setup and want to build a physics-accurate digital twin (with rolling friction, collisions, and camera simulation). Should I use MuJoCo or Unity/ROS, and how would I match real-world friction parameters to simulation? Links: - https://github.com/rparak/Unity3D_Robotics_UR
 
-12h ago
+13h ago
 
 ---
 
 **[La funny song](https://www.reddit.com/r/robotics/comments/1r1lrig/la_funny_song/)**
 
-18h ago
+19h ago
 
 ---
 
@@ -82,7 +82,7 @@ Hi everyone, I currently have a real-world setup consisting of a UR3e with a fla
 
 While developing ROS2 applications for robotic arm projects, we found it was difficult to guarantee that a robot would execute a full sequence of motion without failure. In pick-and-place applications, the challenge was reaching a pose and approaching along a defined direction. In welding or surface finishing applications, the difficulty was selecting a suitable start pose without discovering failure midway through execution. Many early iterations involved trial and error to find a working set of joint configurations that could serve as good “seeds” for further IK and motion planning. Over time, we built internal offline utilities to nearly guarantee that our configurations and workspace designs would work. These relied heavily on open-source libraries like TRAC-IK, along with extracting meaningful metrics such as manipulability. Eventually, we decided to package the internal tool we were using and open it up to anyone working on robotic application setup or pre-deployment validation. What the platform offers: a. Select from a list of supported robots, or upload your own. Any serial chain in standard robot_description format should work. b. Move the robot using interactive markers, direct joint control, or by setting a target pose. If you only need FK/IK exploration, you can stop here. The tool continuously displays end-effector pose and joint states. c. Insert obstacles to resemble your working scene. d. Create regions of interest and add orientation constraints, such as holding a glass upright or maintaining a welding direction. e. Run analysis to determine: Whether a single IK branch can serve the entire region Whether all poses within the region are reachable Whether the region is reachable but discontinuous in joint space How we hope it helps users: a. Select a suitable robot for an application by comparing results across platforms. b. Help robotics professionals, including non-engineers, create and validate workcells early. c. Create, share, and collaborate on scenes with colleagues or clients. We’re planning to add much more to this tool, and we hope user feedback helps shape its future development. Give it a try.
 
-🔗 [urdfviewer.com](https://urdfviewer.com) • 23h ago
+🔗 [urdfviewer.com](https://urdfviewer.com) • 1d ago
 
 ---
 
@@ -106,7 +106,7 @@ A Shanghai startup, DroidUp, has unveiled Moya, a biomimetic AI robot designed t
 
 So I am working on the project of ball balancing robot so the body after robots has been the three servo motor and connections I have no idea so the components for the connections are arduino, IMU sensor (MPU9250/6500)., ESR-32,PCA9685... So these are the components which I am having for ball balancing robot I kindly request you to suggest me how to made the connection of it it may be you guys can suggest me like any article for that or a YouTube video and if required for more components kindly let me know it will be grateful I just have one week for the project to be submitted....
 
-16h ago
+17h ago
 
 ---
 
@@ -118,51 +118,23 @@ So I am working on the project of ball balancing robot so the body after robots 
 
 Upside Robotics builds autonomous solar-powered robots that can help farmers reduce their fertilizer use by 70%.
 
-TechCrunch • 5h ago
+TechCrunch • 6h ago
 
 ---
 
-**[Apptronik raises $520 million to beat Chinese humanoids, Tesla Optimus to market](https://www.cnbc.com/2026/02/11/apptronik-raises-520-million-at-5-billion-valuation-for-apollo-robot.html)**
+**[Haply Robotics raises $16 million to build the “steering wheels” for physical AI](https://betakit.com/haply-robotics-raises-16-million-to-build-the-steering-wheels-for-physical-ai/)**
 
-Apptronik's Apollo humanoids are being tested in factories and warehouses with partners Mercedes-Benz and GXO Logistics.
+How the Montréal startup plans to own the touch layer of robotics.
 
-CNBC • 7h ago
-
----
-
-**[China starts 'world’s first' robot combat league with $1.44M prize](https://interestingengineering.com/ai-robotics/china-worlds-first-humanoid-robot-combat-league)**
-
-The world's first-ever free robot combat league commenced in China's Shenzhen province, showcasing the country's tech advancements.
-
-Interesting Engineering • 1d ago
+BetaKit • 2d ago
 
 ---
 
-**[Humanoid Maker Apptronik Triples Valuation to Over $5.5 Billion With New Funding](https://www.bloomberg.com/news/articles/2026-02-11/apptronik-raises-520-million-in-new-funding-to-build-more-humanoids)**
+**[Symbotic acquires autonomous forklift maker Fox Robotics](https://www.therobotreport.com/symbotic-acquires-autonomous-forklift-maker-fox-robotics/)**
 
-Bloomberg • 7h ago
+Symbotic has acquired autonomous forklift developer Fox Robotics in a move that broadens its logistics robotics offerings.
 
----
-
-**[Apptronik brings in another $520M to ramp up Apollo production](https://www.therobotreport.com/apptronik-brings-in-another-520m-to-ramp-up-apollo-production/)**
-
-With the capital, Apptronik will ramp up production of its humanoid robot and expand its network of commercial and pilot deployments.
-
-The Robot Report • 1h ago
-
----
-
-**[Chicago’s food delivery robots: How they work and what’s next](https://wgntv.com/news/chicago-news/chicagos-food-delivery-robots-how-they-work-and-whats-next/)**
-
-Coco and Serve Robotics have been operating food delivery robots in Chicago since late 2024, with 83% of residents in the 1st Ward opposing further expansion of the program due to concerns about sp…
-
-WGN-TV • 20h ago
-
----
-
-**[Alibaba Pushes Into Robotics AI With Open-Source ‘RynnBrain’](https://www.bloomberg.com/news/articles/2026-02-10/alibaba-pushes-into-robotics-ai-with-open-source-rynnbrain)**
-
-Bloomberg • 1d ago
+The Robot Report • 1d ago
 
 ---
 
@@ -174,6 +146,14 @@ CNBC • 1d ago
 
 ---
 
+**[AI In Robotics - New Position Paper](https://ifr.org/ifr-press-releases/news/ai-in-robotics-new-position-paper)**
+
+A new generation of AI-powered robots moving from research labs into the real world is fueled by AI tech companies and analysts forecasting a multitrillion-dollar market. The vision is to give artificial intelligence its own robot body. What are the trends, challenges, and commercial applications?
+
+IFR International Federation of Robotics • 1d ago
+
+---
+
 **[Construction Embraces AI Agents, Safety Systems and Robotics as Labor Pressures Mount](https://www.pymnts.com/artificial-intelligence-2/2026/construction-embraces-ai-agents-safety-systems-and-robotics-as-labor-pressures-mount/)**
 
 Artificial intelligence is no longer confined to experimental pilots in the construction industry. It is moving into the operational core of how projects
@@ -182,9 +162,33 @@ PYMNTS.com • 19h ago
 
 ---
 
-**[Logan Square, Wicker Park Neighbors Say No To More Delivery Robots](https://blockclubchicago.org/2026/02/10/logan-square-wicker-park-neighbors-say-no-to-more-delivery-robots/)**
+**[Robot dogs become first responders for police at 2026 World Cup](https://interestingengineering.com/ai-robotics/mexico-robot-dogs-world-cup-security)**
 
-Block Club Chicago • 1d ago
+Mexico will deploy robot dogs during the 2026 World Cup to scout threats and protect police before officers intervene.
+
+Interesting Engineering • 1d ago
+
+---
+
+**[Tesla stock gets latest synopsis from Jim Cramer: ‘It’s actually a robotics company’](https://www.teslarati.com/tesla-tsla-gets-latest-synopsis-jim-cramer-actually-obotics-company/)**
+
+Tesla stock got its latest synopsis from Wall Street analyst Jim Cramer, who finally realized something that many fans of the company have known all along: it's not a car company. Instead, it's a robotics company.
+
+Teslarati • 3h ago
+
+---
+
+**[AI, Robotaxis, and Robotics: Why Elon Musk and Tesla Are Set to Join "Magnificent Seven" Peers on a Massive Spending Spree](https://www.fool.com/investing/2026/02/09/ai-robotaxis-robotics-elon-musk-tesla-mag-7/)**
+
+The once-thriving electric vehicle leader is investing in a new future.
+
+The Motley Fool • 2d ago
+
+---
+
+**[Tesla's Robotics Revolution Won't Save It (NASDAQ:TSLA)](https://seekingalpha.com/article/4867567-teslas-robotics-revolution-would-not-save-it)**
+
+Seeking Alpha • 2d ago
 
 ---
 
@@ -192,23 +196,23 @@ Block Club Chicago • 1d ago
 
 ## YouTube Videos: "robotics"
 
+**[Boston Dynamics New ATLAS Just Went Full Human Mode (Insane Upgrade)](https://www.youtube.com/watch?v=9aaE5BkD0Ls)**
+
+A massive robotics shift is unfolding right in front of us. Boston Dynamics has revealed a major new Atlas update developed with ...
+
+📺 AI Revolution
+
+👁️ 40K • 👍 1K • 💬 99 • ⏱️ 11:59 • 23h ago
+
+---
+
 **[First Biomimetic AI Robot From China Looks Shockingly Human](https://www.youtube.com/watch?v=B61etYSvMNI)**
 
 Humanoid robots just entered a new phase of realism. In Shanghai, DroidUp revealed Moya, the world's first fully biomimetic ...
 
 📺 AI Revolution
 
-👁️ 263K • 👍 5K • 💬 982 • ⏱️ 13:31 • 6d ago
-
----
-
-**[SHOCKING: XPeng’s New IRON Robot COLLAPSES in Public...](https://www.youtube.com/watch?v=4MNfUBZNRFU)**
-
-XPeng's brand-new IRON humanoid robot just collapsed in public, and the footage has taken the internet by storm. In this video ...
-
-📺 The AI Nexus
-
-👁️ 8K • 👍 143 • 💬 35 • ⏱️ 19:22 • 6d ago
+👁️ 265K • 👍 5K • 💬 984 • ⏱️ 13:31 • 6d ago
 
 ---
 
@@ -218,17 +222,7 @@ Will a robot soon be watching your children or caring for your parents? Elon Mus
 
 📺 SpaceTakers
 
-👁️ 48K • 👍 925 • 💬 85 • ⏱️ 0:29 • 6d ago
-
----
-
-**[World’s Fastest Humanoid Robot Just Hit 10 m/s and the Footage Is Wild](https://www.youtube.com/watch?v=3okVwKjO9R0)**
-
-A humanoid robot just ran at 10 meters per second in real world testing, and the video is hard to believe. MirrorMe's new robot Bolt ...
-
-📺 DPCcars
-
-👁️ 2K • 👍 35 • 💬 8 • ⏱️ 1:33 • 5d ago
+👁️ 49K • 👍 928 • 💬 85 • ⏱️ 0:29 • 6d ago
 
 ---
 
@@ -238,45 +232,7 @@ Pink haired humanoid robots are trending in China. Xuan, the hyper-realistic rob
 
 📺 Kalil 4.0
 
-👁️ 2K • 👍 65 • 💬 2 • ⏱️ 0:57 • 17h ago
-
----
-
-**[15972 TehnoZ | Behind the Bot | FTC DECODE Robot](https://www.youtube.com/watch?v=uTG6JavIoxI)**
-
-15972 TehnoZ | Behind the Bot | FTC DECODE Robot Providing a full rebuild update, Team 15972 TehnoZ returns with an ...
-
-📺 FUN Robotics Network
-
-👁️ 87 • 👍 3 • ⏱️ 10:16 • 2h ago
-
----
-
-**[The real test for humanoid robots isn’t performance.](https://www.youtube.com/watch?v=4iU9kfIZnhs)**
-
-Humanoid robots don't fail at tasks. They fail at presence. The hardest part of building humanoid robots isn't hardware.
-
-📺 Slidebean
-
-👁️ 14K • 👍 501 • 💬 27 • ⏱️ 1:21 • 1d ago
-
----
-
-**[Tony Stark would hate this! 😂 #engineering #ironman #revrobotics #3dprinting](https://www.youtube.com/watch?v=13fah4TQXhw)**
-
-📺 Concept Bytes
-
-👁️ 30K • 👍 2K • 💬 34 • ⏱️ 1:24 • 5d ago
-
----
-
-**[Atlas Airborne | Boston Dynamics &amp; @rai-inst](https://www.youtube.com/watch?v=UNorxwlZlFk)**
-
-Now that the Atlas enterprise platform is getting to work, the research version gets one last run in the sun. Our engineers made ...
-
-📺 Boston Dynamics
-
-👁️ 1.4M • 👍 40K • 💬 4K • ⏱️ 1:38 • 4d ago
+👁️ 2K • 👍 68 • 💬 2 • ⏱️ 0:57 • 18h ago
 
 ---
 
@@ -287,6 +243,56 @@ Pan Motor's Wuji Hand packs twenty fully actuated joints into a sub six hundred 
 📺 Deepen
 
 👁️ 29K • 👍 480 • 💬 12 • ⏱️ 0:19 • 3d ago
+
+---
+
+**[Tesla Was Never a Car Company #teslaoptimus  #elonmusk  #teslarobot  #teslabotgen3 #humanoidrobots](https://www.youtube.com/watch?v=slqW7zBA6Oc)**
+
+They laughed when Elon Musk brought a man in a spandex suit on stage. But in 2026, nobody is laughing. Tesla was never a car ...
+
+📺 By 2050
+
+👁️ 1.1M • 👍 18K • 💬 476 • ⏱️ 1:00 • 3d ago
+
+---
+
+**[SHOCKING: XPeng’s New IRON Robot COLLAPSES in Public...](https://www.youtube.com/watch?v=4MNfUBZNRFU)**
+
+XPeng's brand-new IRON humanoid robot just collapsed in public, and the footage has taken the internet by storm. In this video ...
+
+📺 The AI Nexus
+
+👁️ 8K • 👍 142 • 💬 35 • ⏱️ 19:22 • 6d ago
+
+---
+
+**[The real test for humanoid robots isn’t performance.](https://www.youtube.com/watch?v=4iU9kfIZnhs)**
+
+Humanoid robots don't fail at tasks. They fail at presence. The hardest part of building humanoid robots isn't hardware.
+
+📺 Slidebean
+
+👁️ 14K • 👍 503 • 💬 27 • ⏱️ 1:21 • 1d ago
+
+---
+
+**[Elon: This Robot Could Replace Surgeons👀 #elonmusk #ai #Robotics #Optimus #Innovation #surgeon](https://www.youtube.com/watch?v=BHKQFCh-7fg)**
+
+A bold prediction like this instantly sparks curiosity and debate across the world. The idea that advanced robotics and artificial ...
+
+📺 Billionaire Shots
+
+👁️ 13K • 👍 812 • 💬 101 • ⏱️ 0:36 • 1d ago
+
+---
+
+**[Atlas Airborne | Boston Dynamics &amp; @rai-inst](https://www.youtube.com/watch?v=UNorxwlZlFk)**
+
+Now that the Atlas enterprise platform is getting to work, the research version gets one last run in the sun. Our engineers made ...
+
+📺 Boston Dynamics
+
+👁️ 1.4M • 👍 41K • 💬 4K • ⏱️ 1:38 • 4d ago
 
 ---
 
