@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-02-11T20:03:04.251513+00:00'
+updated: '2026-02-11T21:04:35.505045+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- videos
 - news
 - social
 - cryptocurrency
+- videos
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** February 11, 2026 at 20:03 UTC  
+**Last Updated:** February 11, 2026 at 21:04 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,11 +42,11 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** -3.3%  
-**7d:** +6.6%  
-**30d:** -41.4%  
-**90d:** -37.3%  
-**1y:** -28.9%  
+**24h:** -3.1%  
+**7d:** +7.0%  
+**30d:** -41.2%  
+**90d:** -37.1%  
+**1y:** -28.7%  
 
 ---
 
@@ -72,7 +72,15 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-14h ago
+15h ago
+
+---
+
+**[ETHDenver 2026 Events Recommendations??](https://www.reddit.com/r/ethereum/comments/1r28jcb/ethdenver_2026_events_recommendations/)**
+
+I am attending ETHDenver 2026 next week for the first time. Do y'all have any recommendation on which events are the best to go to? Main and side events? I've been scrolling through Luma and have signed up for a bunch, but would love the opinion of others going. Would welcome any recos :) For context, working in a multi-stage crypto VC, so looking for sourcing opportunities and meeting cool people!
+
+39m ago
 
 ---
 
@@ -80,7 +88,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 Hello folks! I drafted this smart contract visualizer tool. It shows the structure of the contract, a plain english explenation and an AI powered security analysis (screenshots below). The purpose would be double: for devs, easily understand and read other contract for learning purpose for users, double-check a contract before interacting with it There would be tons of possible improvements: expand code by clicking on the tile multi chain support support complex contract for many imports by exploding them What do you think? Does the tool have a reason to exist? :) https://preview.redd.it/rz5mi9qhquig1.png?width=1930&format=png&auto=webp&s=5b8c09f479a17e19dadcdad9d2eb4540937a8d83 https://preview.redd.it/2juw6bqhquig1.png?width=1934&format=png&auto=webp&s=1a3ed192e5391c60fb9a1094adb71f364d6eaecc https://preview.redd.it/2oi05cqhquig1.png?width=1940&format=png&auto=webp&s=2543b85dd1018625ec7e8a64c01be2235a8b31fd Thanks, Francesco
 
-8h ago
+9h ago
 
 ---
 
@@ -88,15 +96,7 @@ Hello folks! I drafted this smart contract visualizer tool. It shows the structu
 
 Posted by Jacob Czepluch on February 10, 2026
 
-🔗 [Solidity Programming Language](https://www.soliditylang.org/blog/2026/02/10/solidity-developer-survey-2025-announcement/) • 19h ago
-
----
-
-**[Diamond Hands](https://www.reddit.com/r/ethereum/comments/1r21934/diamond_hands/)**
-
-https://preview.redd.it/98w7x2f91wig1.jpg?width=3264&format=pjpg&auto=webp&s=39ed4bae7899782412726ab375037e0c29e58fd7 Who's with me? LFG! Diamond Hands!
-
-4h ago
+🔗 [Solidity Programming Language](https://www.soliditylang.org/blog/2026/02/10/solidity-developer-survey-2025-announcement/) • 20h ago
 
 ---
 
@@ -156,7 +156,7 @@ World News, Stories By EtherWorld, Technical Explainers, Client News & Updates, 
 
 Robinhood said developers will begin experimenting with applications on its Ethereum layer-2 network, while providing key technical feedback.
 
-Decrypt • 18h ago
+Decrypt • 19h ago
 
 ---
 
@@ -168,19 +168,17 @@ CoinDesk • 1d ago
 
 ---
 
-**[Ethereum becomes rail of choice for crypto-curious bankers](https://www.linkedin.com/pulse/ethereum-becomes-rail-choice-crypto-curious-bankers-american-banker-reo6e)**
-
-The inauguration of President Donald Trump, along with a number of bills in Congress, last year brought a renewed interest in integrating crypto into the traditional financial system. The more crypto-friendly atmosphere has revived banks' dormant interest in Ethereum, which is emerging as the platfo
-
-LinkedIn • 4h ago
-
----
-
 **[Tom Lee Claims Ethereum Could Rebound ‘As Fast As It Fell’ — Even as Critics Push Back](https://finance.yahoo.com/news/tom-lee-claims-ethereum-could-144715921.html)**
 
 Tom Lee sees a rapid Ethereum rebound could be incoming. Lee reiterated his bullish stance on both Ethereum and Bitcoin/ His comments come as critics ...
 
 Yahoo Finance • 2d ago
+
+---
+
+**[Bitcoin, Ethereum, XRP Fall. Why There’s Hope for a Crypto Rally.](https://www.barrons.com/articles/bitcoin-price-ethereum-xrp-crypto-c754458e?gaa_at=eafs&gaa_n=AWEtsqfkb70WCWS_sM5CKQLlxDvkzvQ3QXj6ejfKqrnulBT3CwQOYYyprpag&gaa_ts=698cf251&gaa_sig=Nhl9M2H_kqiCO2ZVY9FmKv1aLndyEWO1d6W6etIKymj8PWoUNj_3oIajLr-M-7ZoZ3GrbDibps50RL96QR3AIQ%3D%3D)**
+
+Barron's • 2d ago
 
 ---
 
@@ -192,17 +190,19 @@ dlnews.com • 1d ago
 
 ---
 
-**[Bitcoin, Ethereum, XRP Fall. Why There’s Hope for a Crypto Rally.](https://www.barrons.com/articles/bitcoin-price-ethereum-xrp-crypto-c754458e?gaa_at=eafs&gaa_n=AWEtsqfrq5cky3FVDCWjBFMdD2Oc5r4KhleNBEOVP5cwiIlL2abqvMdLVSjr&gaa_ts=698cd671&gaa_sig=czoq-VuyBI8FGjP8pJNSdyIneHf4EVmAkXB97DNcbDRF3VsefAIF5BahKJosMnO6HJV6ZFgGA6j63GKf5zvsGA%3D%3D)**
-
-Barron's • 2d ago
-
----
-
 **[Can Ethereum Price Still Hit $7,600 In 2026? Here Are The Odds](https://www.tradingview.com/news/newsbtc:80811cd51094b:0-can-ethereum-price-still-hit-7-600-in-2026-here-are-the-odds/)**
 
 Ethereum’s outlook for 2026 has become increasingly contested after the most recent downturn in the entire crypto market. Earlier this year, research from Standard Chartered suggested that Ethereum could end 2026 near $7,500, a target that implies significant upside from current levels. However, re…
 
 TradingView • 1d ago
+
+---
+
+**[Top 3 Price Prediction: Bitcoin, Ethereum, Ripple – BTC, ETH and XRP show no sign of recovery](https://www.fxstreet.com/cryptocurrencies/news/top-3-price-prediction-bitcoin-ethereum-ripple-btc-eth-and-xrp-show-no-sign-of-recovery-202602110407)**
+
+Bitcoin (BTC), Ethereum (ETH), and Ripple (XRP) show signs of cautious stabilization on Wednesday after failing to close above their key resistance levels earlier this week. BTC trades below $69,000, while ETH and XRP also encountered rejection near major resistance levels.
+
+FXStreet • 16h ago
 
 ---
 
@@ -214,19 +214,19 @@ The Block • 1d ago
 
 ---
 
-**[Top 3 Price Prediction: Bitcoin, Ethereum, Ripple – BTC, ETH and XRP show no sign of recovery](https://www.fxstreet.com/cryptocurrencies/news/top-3-price-prediction-bitcoin-ethereum-ripple-btc-eth-and-xrp-show-no-sign-of-recovery-202602110407)**
-
-Bitcoin (BTC), Ethereum (ETH), and Ripple (XRP) show signs of cautious stabilization on Wednesday after failing to close above their key resistance levels earlier this week. BTC trades below $69,000, while ETH and XRP also encountered rejection near major resistance levels.
-
-FXStreet • 15h ago
-
----
-
 **[Polygon, Ethena, and Nethermind Join the Enterprise Ethereum Alliance as Institutional Ethereum Takes Shape](https://markets.businessinsider.com/news/currencies/polygon-ethena-and-nethermind-join-the-enterprise-ethereum-alliance-as-institutional-ethereum-takes-shape-1035809393)**
 
 New York, United States, February 10th, 2026, ChainwireThe Enterprise Ethereum Alliance today announced that Polygon Labs, Et...
 
 markets.businessinsider.com • 1d ago
+
+---
+
+**[Ethereum becomes rail of choice for crypto-curious bankers](https://www.americanbanker.com/news/ethereum-becomes-rail-of-choice-for-crypto-curious-bankers)**
+
+JPMorganChase, Citi and Custodia are among the banks that have built digital asset projects on the Ethereum blockchain.
+
+American Banker • 1d ago
 
 ---
 
@@ -250,7 +250,7 @@ ETHEREUM ETH PRICE PREDICTION 2026 Join the Premium Signal Group for trade setup
 
 📺 Cilinix Crypto
 
-👁️ 1K • 👍 33 • 💬 1 • ⏱️ 4:48 • 10h ago
+👁️ 1K • 👍 33 • 💬 1 • ⏱️ 4:48 • 11h ago
 
 ---
 
@@ -270,7 +270,7 @@ If you own XRP, SOL, ETH or Bitcoin Watch This Immediately! CoinDuel AI - This A
 
 📺 Zach Humphries
 
-👁️ 5K • 👍 568 • 💬 37 • ⏱️ 5:43 • 20h ago
+👁️ 5K • 👍 568 • 💬 37 • ⏱️ 5:43 • 21h ago
 
 ---
 
@@ -280,7 +280,7 @@ This video provides a professional Elliott Wave and technical analysis of Ethere
 
 📺 More Crypto Online
 
-👁️ 3K • 👍 167 • 💬 9 • ⏱️ 4:00 • 15h ago
+👁️ 3K • 👍 167 • 💬 9 • ⏱️ 4:00 • 16h ago
 
 ---
 
@@ -290,7 +290,7 @@ TrumpCrypto2026 #DigitalAssets #TrumpAnnouncement Welcome to the Trump Crypto Fo
 
 📺 Tools and Tech, with Mike
 
-👁️ 5K • 👍 2K • 1h ago
+👁️ 5K • 👍 2K • 2h ago
 
 ---
 
@@ -320,7 +320,7 @@ Crypto News: Goldman Sachs crypto holdings disclosed in new filing which include
 
 📺 Thinking Crypto
 
-👁️ 6K • 👍 586 • 💬 74 • ⏱️ 21:01 • 15h ago
+👁️ 6K • 👍 586 • 💬 74 • ⏱️ 21:01 • 17h ago
 
 ---
 
@@ -330,7 +330,7 @@ China dumping dollars can trigger a global risk‑off, crushing crypto short ter
 
 📺 Paul Barron Network
 
-👁️ 140K • 👍 6K • 💬 539 • ⏱️ 28:19 • 1d ago
+👁️ 140K • 👍 6K • 💬 539 • ⏱️ 28:19 • 2d ago
 
 ---
 

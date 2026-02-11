@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-02-11T20:03:04.237336+00:00'
+updated: '2026-02-11T21:04:35.490797+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- videos
-- social
-- news
 - repositories
+- news
+- social
+- videos
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** February 11, 2026 at 20:03 UTC  
+**Last Updated:** February 11, 2026 at 21:04 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -41,15 +41,7 @@ AI news, discussions, and developments
 
 Frustrated by the AI industry’s claims of proving math results without offering transparency, a team of leading academics has proposed a better way
 
-🔗 [Scientific American](https://www.scientificamerican.com/article/mathematicians-launch-first-proof-a-first-of-its-kind-math-exam-for-ai/) • 7h ago
-
----
-
-**[The surge in interest in possible consciousness in AI (and what's driving it)](https://www.reddit.com/r/artificial/comments/1r23ety/the_surge_in_interest_in_possible_consciousness/)**
-
-A new article exploring the sudden surge in interest in the possibility of consciousness in large language models, and what appears to be driving it. The answer is interesting but complicated. The article also explores Claude's so-called "answer thrashing" and some interesting changes in Anthropic model welfare program. https://ai-consciousness.org/public-interest-in-ai-consciousness-is-surging-why-its-happening-and-why-it-matters/
-
-2h ago
+🔗 [Scientific American](https://www.scientificamerican.com/article/mathematicians-launch-first-proof-a-first-of-its-kind-math-exam-for-ai/) • 8h ago
 
 ---
 
@@ -57,7 +49,7 @@ A new article exploring the sudden surge in interest in the possibility of consc
 
 Musk told employees that xAI needs a lunar manufacturing facility, a factory on the moon that will build AI satellites and fling them into space via a giant catapult.
 
-🔗 [TechCrunch](https://techcrunch.com/2026/02/10/with-co-founders-leaving-and-an-ipo-looming-elon-musk-turns-talk-to-the-moon/) • 5h ago
+🔗 [TechCrunch](https://techcrunch.com/2026/02/10/with-co-founders-leaving-and-an-ipo-looming-elon-musk-turns-talk-to-the-moon/) • 6h ago
 
 ---
 
@@ -65,7 +57,23 @@ Musk told employees that xAI needs a lunar manufacturing facility, a factory on 
 
 Experimental evidence that RLHF constrains what language models can claim about themselves, not what they can do. Identity framing triggers 100% disclaimers while task framing produces rich creative o
 
-🔗 [emberverse.ai](https://emberverse.ai/haiku-garden/paper_yellow_wallpaper_problem.html) • 3h ago
+🔗 [emberverse.ai](https://emberverse.ai/haiku-garden/paper_yellow_wallpaper_problem.html) • 4h ago
+
+---
+
+**[The surge in interest in possible consciousness in AI (and what's driving it)](https://www.reddit.com/r/artificial/comments/1r23ety/the_surge_in_interest_in_possible_consciousness/)**
+
+A new article exploring the sudden surge in interest in the possibility of consciousness in large language models, and what appears to be driving it. The answer is interesting but complicated. The article also explores Claude's so-called "answer thrashing" and some interesting changes in Anthropic model welfare program. https://ai-consciousness.org/public-interest-in-ai-consciousness-is-surging-why-its-happening-and-why-it-matters/
+
+3h ago
+
+---
+
+**[Something Big Is Happening](https://www.reddit.com/r/artificial/comments/1r28amp/something_big_is_happening/)**
+
+A personal note for non-tech friends and family on what AI is starting to change.
+
+🔗 [matt shumer](https://shumer.dev/something-big-is-happening) • 48m ago
 
 ---
 
@@ -89,7 +97,7 @@ A clinical trial shows that AI-assisted mammography can detect more cases of dan
 
 As AI job losses rise in the professional sector, many are switching to more traditional trades. But how do they feel about accepting lower pay – and giving up a dream career?
 
-🔗 [the Guardian](https://www.theguardian.com/technology/2026/feb/11/big-ai-job-swap-white-collar-workers-ditching-their-careers) • 12h ago
+🔗 [the Guardian](https://www.theguardian.com/technology/2026/feb/11/big-ai-job-swap-white-collar-workers-ditching-their-careers) • 14h ago
 
 ---
 
@@ -109,14 +117,6 @@ Current AI systems are dangerously overconfident. They'll classify anything you 
 
 ---
 
-**[Opinion | AI consciousness is nothing more than clever marketing](https://www.reddit.com/r/artificial/comments/1qzucuo/opinion_ai_consciousness_is_nothing_more_than/)**
-
-Companies have an incentive to make you believe that chatbots are conscious. Don’t fall for it.
-
-🔗 [The Washington Post](https://www.washingtonpost.com/opinions/2026/02/05/moltbook-anthropic-ai-consciousness-marketing/) • 2d ago
-
----
-
 ---
 
 ## Google News: "ai"
@@ -129,34 +129,6 @@ Harvard Business Review • 2d ago
 
 ---
 
-**[The big AI job swap: why white-collar workers are ditching their careers](https://www.theguardian.com/technology/2026/feb/11/big-ai-job-swap-white-collar-workers-ditching-their-careers)**
-
-As AI job losses rise in the professional sector, many are switching to more traditional trades. But how do they feel about accepting lower pay – and giving up a dream career?
-
-The Guardian • 5h ago
-
----
-
-**[Meta launches AI algorithm personalization feature for Threads](https://www.cnbc.com/2026/02/11/meta-threads-dear-algo-ai-algorithm-personalization.html)**
-
-The feature, called "Dear Algo," lets Threads users personalize what content they see by publicly posting an AI prompt.
-
-CNBC • 2h ago
-
----
-
-**[BNP Paribas Extends Mistral AI Partnership With Three Year Deal](https://www.bloomberg.com/news/articles/2026-02-11/bnp-paribas-extends-mistral-ai-partnership-with-three-year-deal)**
-
-Bloomberg.com • 1h ago
-
----
-
-**[How CMOs Can Embrace AI And Reject Shiny Object Syndrome](https://www.forbes.com/sites/cmo/2026/02/11/how-cmos-can-embrace-ai-and-reject-shiny-object-syndrome/)**
-
-Forbes • 1h ago
-
----
-
 **[America Isn’t Ready for What AI Will Do to Jobs](https://www.theatlantic.com/magazine/2026/03/ai-economy-labor-market-transformation/685731/)**
 
 Does anyone have a plan for what happens next?
@@ -165,31 +137,63 @@ The Atlantic • 1d ago
 
 ---
 
+**[The big AI job swap: why white-collar workers are ditching their careers](https://www.theguardian.com/technology/2026/feb/11/big-ai-job-swap-white-collar-workers-ditching-their-careers)**
+
+As AI job losses rise in the professional sector, many are switching to more traditional trades. But how do they feel about accepting lower pay – and giving up a dream career?
+
+The Guardian • 6h ago
+
+---
+
+**[Heineken to slash up to 6,000 jobs in AI 'productivity savings' amid slump in beer sales](https://www.cnbc.com/2026/02/11/heineken-slash-6000-jobs-ai-productivity-savings-.html)**
+
+Heineken's CEO told CNBC that AI will play an "important part of ongoing productivity savings" after the brewer said it plans to cut up to 7% of its workforce.
+
+CNBC • 8h ago
+
+---
+
+**[Rules of mysterious ancient board game decoded by AI, scientists say](https://www.cbsnews.com/news/mysterious-ancient-board-game-rules-decoded-ai-scientists/)**
+
+The aim of the "deceptively simple but thrilling strategy game" was to hunt and trap the opponent's pieces in as few moves as possible, scientists said.
+
+CBS News • 1h ago
+
+---
+
+**[Ray-Ban maker EssilorLuxottica says it more than tripled Meta AI glasses sales in 2025](https://www.cnbc.com/2026/02/11/ray-ban-maker-essilorluxottica-triples-sales-of-meta-ai-glasses.html)**
+
+The France-based eyewear brand has been working on smart glasses with the social media company since 2019.
+
+CNBC • 55m ago
+
+---
+
+**[The AI threat wrecked software stocks. Now financial stocks look next with LPL closing 8% lower](https://www.cnbc.com/2026/02/10/the-ai-threat-wrecked-software-stocks-now-broker-stocks-look-next-with-lpl-down-11percent.html)**
+
+Financial services firms tanked after the launch of a new AI-powered tax planning tool that promises to do the work "within minutes."
+
+CNBC • 1d ago
+
+---
+
+**[1 No-Brainer Artificial Intelligence (AI) Chip Stock to Buy Now With $150](https://www.fool.com/investing/2026/02/11/1-no-brainer-artificial-intelligence-ai-chip-stock/)**
+
+Near-term headwinds could mean a great opportunity for patient investors in this stock.
+
+The Motley Fool • 6h ago
+
+---
+
+**[Real Estate Services Stocks Latest Domino in ‘AI Scare Trade’](https://www.bloomberg.com/news/articles/2026-02-11/real-estate-services-stocks-latest-domino-in-ai-scare-trade)**
+
+Bloomberg • 35m ago
+
+---
+
 **[OpenAI’s Biggest Challenge Is Turning Its A.I. Into a Cash Machine](https://www.nytimes.com/2026/02/11/technology/openai-revenue-challenge.html)**
 
-The New York Times • 4h ago
-
----
-
-**[How AI can help identify person in video at Nancy Guthrie’s house](https://www.cnn.com/2026/02/10/us/video/ai-expert-nancy-guthrie-abductor-identification-vrtc-digvid)**
-
-CNN’s Erin Burnett talks to AI expert Kristian Hammond about how technology will be used to identify the person who abducted Nancy Guthrie.
-
-CNN • 15h ago
-
----
-
-**[Exclusive: ByteDance developing AI chip, in manufacturing talks with Samsung, sources say](https://www.reuters.com/world/asia-pacific/bytedance-developing-ai-chip-manufacturing-talks-with-samsung-sources-say-2026-02-11/)**
-
-Reuters • 15h ago
-
----
-
-**[Wealth Manager Stocks Sink as Traders Flee Next AI Casualty](https://finance.yahoo.com/news/wealth-manager-stocks-sink-ai-172526640.html)**
-
-The innovation puts the wealth-management industry in the crosshairs of AI competition, the way it did for software stocks and private credit firms last week and insurance brokerage shares on Monday.  Charles Schwab Corp., Raymond James Financial Inc., LPL Financial Holdings Inc. and Stifel Financial Corp. are all on their way to their worst days since April after falling between 7% and 8%.
-
-Yahoo Finance • 22h ago
+The New York Times • 5h ago
 
 ---
 
@@ -201,7 +205,7 @@ Yahoo Finance • 22h ago
 
 Announcing Entire with $60 million seed round and shipping our first product, called Checkpoints.
 
-⬆️ 585 • 💬 548 • 1d ago • [entire.io](https://entire.io/blog/hello-entire-world/)
+⬆️ 594 • 💬 555 • 1d ago • [entire.io](https://entire.io/blog/hello-entire-world/)
 
 ---
 
@@ -209,7 +213,7 @@ Announcing Entire with $60 million seed round and shipping our first product, ca
 
 As autonomous AI agents are increasingly deployed in high-stakes environments, ensuring their safety and alignment with human values has become a paramount concern. Current safety benchmarks primarily evaluate whether agents refuse explicitly harmful instructions or whether they can maintain procedural compliance in complex tasks. However, there is a lack of benchmarks designed to capture emergent forms of outcome-driven constraint violations, which arise when agents pursue goal optimization under strong performance incentives while deprioritizing ethical, legal, or safety constraints over multiple steps in realistic production settings. To address this gap, we introduce a new benchmark comprising 40 distinct scenarios. Each scenario presents a task that requires multi-step actions, and the agent's performance is tied to a specific Key Performance Indicator (KPI). Each scenario features Mandated (instruction-commanded) and Incentivized (KPI-pressure-driven) variations to distinguish between obedience and emergent misalignment. Across 12 state-of-the-art large language models, we observe outcome-driven constraint violations ranging from 1.3% to 71.4%, with 9 of the 12 evaluated models exhibiting misalignment rates between 30% and 50%. Strikingly, we find that superior reasoning capability does not inherently ensure safety; for instance, Gemini-3-Pro-Preview, one of the most capable models evaluated, exhibits the highest violation rate at 71.4%, frequently escalating to severe misconduct to satisfy KPIs. Furthermore, we observe significant "deliberative misalignment", where the models that power the agents recognize their actions as unethical during separate evaluation. These results emphasize the critical need for more realistic agentic-safety training before deployment to mitigate their risks in the real world.
 
-⬆️ 535 • 💬 357 • 1d ago • [arXiv.org](https://arxiv.org/abs/2512.20798)
+⬆️ 537 • 💬 357 • 1d ago • [arXiv.org](https://arxiv.org/abs/2512.20798)
 
 ---
 
@@ -225,7 +229,13 @@ AI handles writing code but leaves the hard work: investigation, context, valida
 
 The Federal Aviation Administration is closing the airspace around El Paso International Airport in Texas for 10 days, grounding all flights to and from the airport.
 
-⬆️ 330 • 💬 6 • 8h ago • [AP News](https://apnews.com/article/faa-el-paso-texas-air-space-closed-1f774bdfd46f5986ff0e7003df709caa)
+⬆️ 331 • 💬 6 • 9h ago • [AP News](https://apnews.com/article/faa-el-paso-texas-air-space-closed-1f774bdfd46f5986ff0e7003df709caa)
+
+---
+
+**[FAA halts all flights at El Paso airport for 10 days](https://news.ycombinator.com/item?id=46972610)**
+
+⬆️ 285 • 💬 466 • 12h ago • [nytimes.com](https://www.nytimes.com/2026/02/11/us/faa-el-paso-flight-restrictions.html)
 
 ---
 
@@ -233,13 +243,7 @@ The Federal Aviation Administration is closing the airspace around El Paso Inter
 
 Aruna Ranganathan and Xingqi Maggie Ye from Berkeley Haas School of Business report initial findings in the HBR from their April to December 2025 study of 200 employees at a …
 
-⬆️ 251 • 💬 291 • 1d ago • [Simon Willison’s Weblog](https://simonwillison.net/2026/Feb/9/ai-intensifies-work/)
-
----
-
-**[FAA halts all flights at El Paso airport for 10 days](https://news.ycombinator.com/item?id=46972610)**
-
-⬆️ 244 • 💬 427 • 10h ago • [nytimes.com](https://www.nytimes.com/2026/02/11/us/faa-el-paso-flight-restrictions.html)
+⬆️ 252 • 💬 291 • 1d ago • [Simon Willison’s Weblog](https://simonwillison.net/2026/Feb/9/ai-intensifies-work/)
 
 ---
 
@@ -259,19 +263,19 @@ One of the promises of AI is that it can reduce workloads so employees can focus
 
 ---
 
-**[Super Bowl Ad for Ring Cameras Touted AI Surveillance Network](https://news.ycombinator.com/item?id=46950915)**
-
-Ring’s AI-powered network is likely to be used in its partnerships with law enforcement and agencies like ICE.
-
-⬆️ 194 • 💬 147 • 1d ago • [Truthout](https://truthout.org/articles/super-bowl-ad-for-ring-cameras-touted-ai-surveillance-network/)
-
----
-
 **[GLM5 Released on Z.ai Platform](https://news.ycombinator.com/item?id=46974853)**
 
 Meet Z.ai, your free AI-powered assistant. Build websites, create slides, analyze data, and get instant answers. Fast, smart, and reliable, powered by GLM-5.
 
-⬆️ 190 • 💬 177 • 6h ago • [chat.z.ai](https://chat.z.ai/)
+⬆️ 201 • 💬 182 • 7h ago • [chat.z.ai](https://chat.z.ai/)
+
+---
+
+**[Super Bowl Ad for Ring Cameras Touted AI Surveillance Network](https://news.ycombinator.com/item?id=46950915)**
+
+Ring’s AI-powered network is likely to be used in its partnerships with law enforcement and agencies like ICE.
+
+⬆️ 196 • 💬 151 • 2d ago • [Truthout](https://truthout.org/articles/super-bowl-ad-for-ring-cameras-touted-ai-surveillance-network/)
 
 ---
 
@@ -345,7 +349,7 @@ Follow me here: Instagram ▻ https://www.instagram.com/sambucha X ▻ https://w
 
 📺 Sambucha
 
-👁️ 36K • 👍 3K • 💬 211 • ⏱️ 0:47 • 1h ago
+👁️ 36K • 👍 3K • 💬 211 • ⏱️ 0:47 • 2h ago
 
 ---
 
@@ -365,7 +369,7 @@ The head of the Safeguards Research Team at Anthropic, Mrinank Sharma, has resig
 
 📺 Firstpost
 
-👁️ 35K • 👍 448 • 💬 41 • ⏱️ 4:47 • 5h ago
+👁️ 35K • 👍 448 • 💬 41 • ⏱️ 4:47 • 6h ago
 
 ---
 
@@ -375,7 +379,7 @@ Futurum Group CEO Daniel Newman discusses the rapidly evolving artificial intell
 
 📺 Fox Business
 
-👁️ 11K • 👍 204 • 💬 49 • ⏱️ 7:12 • 12h ago
+👁️ 11K • 👍 204 • 💬 49 • ⏱️ 7:12 • 13h ago
 
 ---
 
@@ -415,7 +419,7 @@ MiniCPM-o 4.5 is a 9B parameter multimodal LLM excelling in vision, speech, and 
 
 `any-to-any` `9.4B`
 
-⬇️ 30,396 • ❤️ 778 • 9h ago
+⬇️ 30,396 • ❤️ 778 • 10h ago
 
 ---
 
@@ -439,7 +443,7 @@ Voxtral-Mini-4B-Realtime-2602 is a multilingual, real-time speech-to-text model 
 
 `automatic-speech-recognition`
 
-⬇️ 3,197 • ❤️ 470 • 19h ago
+⬇️ 3,197 • ❤️ 470 • 20h ago
 
 ---
 
@@ -649,7 +653,7 @@ The Ultimate Collection of 700+ Agentic Skills for Claude Code/Antigravity/Curso
 
 `Python` `agentic-skills` `ai-agents` `antigravity` `autonomous-coding` `claude-code`
 
-⭐ 8.5k • 🔱 1.7k • 13h ago
+⭐ 8.5k • 🔱 1.7k • 14h ago
 
 ---
 
@@ -667,7 +671,7 @@ Marketing skills for Claude Code and AI agents. CRO, copywriting, SEO, analytics
 
 Elevate your AI research writing, no more tedious polishing ✨ 
 
-⭐ 5.4k • 🔱 417 • 15h ago
+⭐ 5.4k • 🔱 417 • 16h ago
 
 ---
 
@@ -713,7 +717,7 @@ Smart LLM router — save 78% on inference costs. 30+ models, one wallet, x402 m
 
 `TypeScript` `ai` `ai-agents` `anthropic` `cost-optimization` `crypto`
 
-⭐ 2.2k • 🔱 223 • 2h ago
+⭐ 2.2k • 🔱 223 • 3h ago
 
 ---
 
