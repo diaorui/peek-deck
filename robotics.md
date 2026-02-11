@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-02-11T22:40:55.598126+00:00'
+updated: '2026-02-11T23:33:04.382119+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
+- social
 - news
 - videos
-- social
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** February 11, 2026 at 22:40 UTC  
+**Last Updated:** February 11, 2026 at 23:33 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -44,7 +44,7 @@ Boston Dynamics CEO Robert Playter told staff on Tuesday that he'll be stepping 
 
 I’m interested in designing a robot with wheels and tracks similar to this style, but I don’t yet have much experience developing this type of system from scratch. I have some knowledge of AutoCAD and recently started using Fusion 360 with the goal of learning more about project development focused on robotics. I’m able to interpret technical drawings in multiple views and model them in 3D, as well as replicate existing models. However, my experience is limited to that. I have never designed a complete system entirely from scratch, especially something like an articulated track system that works together with drive wheels. I would appreciate guidance or advice on how to properly start and structure this kind of project.
 
-4h ago
+5h ago
 
 ---
 
@@ -52,7 +52,7 @@ I’m interested in designing a robot with wheels and tracks similar to this sty
 
 Hey. I'm a 2nd year college student who just recently switched into my school's Electrical Engineering program and even though I'm still young (20) I wish I started tinkering with robots/soldering sooner. Money is not an issue, so I'm wondering what you guys would recommend I do to push myself closer to working on robot design/doing things that scratch that itch.
 
-13h ago
+14h ago
 
 ---
 
@@ -60,7 +60,7 @@ Hey. I'm a 2nd year college student who just recently switched into my school's 
 
 Hey everyone! I'm going to be starting a robotics club at my community college and I was hoping I could get some help on some beginner friendly projects for the club and maybe how the club should be structured. I, and most of the people I know that are going to be a part of the club have basically no experience with robotics and we want to keep the club inclusive to everyone on campus. Any advice would help!
 
-19h ago
+20h ago
 
 ---
 
@@ -68,13 +68,13 @@ Hey everyone! I'm going to be starting a robotics club at my community college a
 
 Hi everyone, I currently have a real-world setup consisting of a UR3e with a flat square platform attached to the end effector. There’s a ball on top of the platform, and I use a camera detection pipeline to detect the ball position and balance it. The controller is currently a simple PID (though I’m working toward switching to MPC). Now I want to build a digital twin / simulation of this system. I’m considering MuJoCo, but I have zero experience with it. I’ve also heard about something like the ROS–Unity integration / ROS Unity Hub, and I’m not sure which direction makes more sense or where I should start. What I want to achieve in simulation: Import a URDF of the UR3e Attach a static square platform to the end effector (this part seems straightforward) Add a ball that rolls on top of the platform Have proper collision and physics behavior The platform has four sides (like a shallow box), so if the ball hits the edge, it should collide and stop rather than just fall off If the end effector tilts, the plate tilts The ball should realistically roll “downhill” due to gravity when the plate is tilted So my main physics questions: Is this realistically achievable in both MuJoCo and Unity? Can I define proper rolling friction and contact friction between the ball and the plate? Will the physics engine handle realistic rolling behavior when I tilt the TCP? Matching Simulation to Reality (Friction Identification) Another big question: how would you recommend estimating the friction coefficients from the real system so I can plug them into the simulation? I was thinking something along the lines of: Tilt the plate to a known angle Measure how long the ball takes to travel across a 40 cm plate Repeat multiple times Use that data to estimate an effective friction coefficient Is that a reasonable approach? Are there better system identification methods people typically use for this kind of setup? Real-Time Digital Twin Long-term, I would like: When the real robot is balancing the ball, the simulated version reflects the same joint motions and plate tilt. While working purely in simulation, I’d also like a simulated camera plugin that gives me the ball position, which feeds into my detection pipeline and controller (PID now, possibly MPC later). So effectively: Simulation → virtual camera → detection → controller → robot motion And eventually also: real robot → mirrored digital twin Main Questions Would you recommend MuJoCo or Unity (ROS integration) for this use case? Where would you start if you had zero experience with both? Is one significantly better for contact-rich rolling dynamics like this? Has anyone built something similar (ball balancing / contact dynamics on a robot arm)? I also found a Unity UR simulation project that I can link below if helpful. Any guidance on architecture, tools, or first steps would be greatly appreciated. Thanks! TL;DR: I have a UR3e ball-balancing setup and want to build a physics-accurate digital twin (with rolling friction, collisions, and camera simulation). Should I use MuJoCo or Unity/ROS, and how would I match real-world friction parameters to simulation? Links: - https://github.com/rparak/Unity3D_Robotics_UR
 
-13h ago
+14h ago
 
 ---
 
 **[La funny song](https://www.reddit.com/r/robotics/comments/1r1lrig/la_funny_song/)**
 
-19h ago
+20h ago
 
 ---
 
@@ -106,7 +106,7 @@ A Shanghai startup, DroidUp, has unveiled Moya, a biomimetic AI robot designed t
 
 So I am working on the project of ball balancing robot so the body after robots has been the three servo motor and connections I have no idea so the components for the connections are arduino, IMU sensor (MPU9250/6500)., ESR-32,PCA9685... So these are the components which I am having for ball balancing robot I kindly request you to suggest me how to made the connection of it it may be you guys can suggest me like any article for that or a YouTube video and if required for more components kindly let me know it will be grateful I just have one week for the project to be submitted....
 
-17h ago
+18h ago
 
 ---
 
@@ -118,7 +118,7 @@ So I am working on the project of ball balancing robot so the body after robots 
 
 Upside Robotics builds autonomous solar-powered robots that can help farmers reduce their fertilizer use by 70%.
 
-TechCrunch • 6h ago
+TechCrunch • 7h ago
 
 ---
 
@@ -158,7 +158,7 @@ IFR International Federation of Robotics • 1d ago
 
 Artificial intelligence is no longer confined to experimental pilots in the construction industry. It is moving into the operational core of how projects
 
-PYMNTS.com • 19h ago
+PYMNTS.com • 20h ago
 
 ---
 
@@ -174,7 +174,7 @@ Interesting Engineering • 1d ago
 
 Tesla stock got its latest synopsis from Wall Street analyst Jim Cramer, who finally realized something that many fans of the company have known all along: it's not a car company. Instead, it's a robotics company.
 
-Teslarati • 3h ago
+Teslarati • 4h ago
 
 ---
 
@@ -202,7 +202,7 @@ A massive robotics shift is unfolding right in front of us. Boston Dynamics has 
 
 📺 AI Revolution
 
-👁️ 40K • 👍 1K • 💬 99 • ⏱️ 11:59 • 23h ago
+👁️ 40K • 👍 1K • 💬 99 • ⏱️ 11:59 • 1d ago
 
 ---
 
@@ -212,7 +212,7 @@ Humanoid robots just entered a new phase of realism. In Shanghai, DroidUp reveal
 
 📺 AI Revolution
 
-👁️ 265K • 👍 5K • 💬 984 • ⏱️ 13:31 • 6d ago
+👁️ 265K • 👍 5K • 💬 984 • ⏱️ 13:31 • 7d ago
 
 ---
 
@@ -232,7 +232,7 @@ Pink haired humanoid robots are trending in China. Xuan, the hyper-realistic rob
 
 📺 Kalil 4.0
 
-👁️ 2K • 👍 68 • 💬 2 • ⏱️ 0:57 • 18h ago
+👁️ 2K • 👍 68 • 💬 2 • ⏱️ 0:57 • 19h ago
 
 ---
 

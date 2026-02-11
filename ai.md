@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-02-11T22:40:55.572692+00:00'
+updated: '2026-02-11T23:33:04.364684+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
+- social
 - news
 - repositories
 - videos
-- social
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** February 11, 2026 at 22:40 UTC  
+**Last Updated:** February 11, 2026 at 23:33 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -41,7 +41,7 @@ AI news, discussions, and developments
 
 Frustrated by the AI industry’s claims of proving math results without offering transparency, a team of leading academics has proposed a better way
 
-🔗 [Scientific American](https://www.scientificamerican.com/article/mathematicians-launch-first-proof-a-first-of-its-kind-math-exam-for-ai/) • 10h ago
+🔗 [Scientific American](https://www.scientificamerican.com/article/mathematicians-launch-first-proof-a-first-of-its-kind-math-exam-for-ai/) • 11h ago
 
 ---
 
@@ -57,7 +57,7 @@ Experimental evidence that RLHF constrains what language models can claim about 
 
 Musk told employees that xAI needs a lunar manufacturing facility, a factory on the moon that will build AI satellites and fling them into space via a giant catapult.
 
-🔗 [TechCrunch](https://techcrunch.com/2026/02/10/with-co-founders-leaving-and-an-ipo-looming-elon-musk-turns-talk-to-the-moon/) • 7h ago
+🔗 [TechCrunch](https://techcrunch.com/2026/02/10/with-co-founders-leaving-and-an-ipo-looming-elon-musk-turns-talk-to-the-moon/) • 8h ago
 
 ---
 
@@ -65,7 +65,7 @@ Musk told employees that xAI needs a lunar manufacturing facility, a factory on 
 
 A new article exploring the sudden surge in interest in the possibility of consciousness in large language models, and what appears to be driving it. The answer is interesting but complicated. The article also explores Claude's so-called "answer thrashing" and some interesting changes in Anthropic model welfare program. https://ai-consciousness.org/public-interest-in-ai-consciousness-is-surging-why-its-happening-and-why-it-matters/
 
-5h ago
+6h ago
 
 ---
 
@@ -73,7 +73,7 @@ A new article exploring the sudden surge in interest in the possibility of consc
 
 A personal note for non-tech friends and family on what AI is starting to change.
 
-🔗 [matt shumer](https://shumer.dev/something-big-is-happening) • 2h ago
+🔗 [matt shumer](https://shumer.dev/something-big-is-happening) • 3h ago
 
 ---
 
@@ -97,7 +97,7 @@ A clinical trial shows that AI-assisted mammography can detect more cases of dan
 
 As AI job losses rise in the professional sector, many are switching to more traditional trades. But how do they feel about accepting lower pay – and giving up a dream career?
 
-🔗 [the Guardian](https://www.theguardian.com/technology/2026/feb/11/big-ai-job-swap-white-collar-workers-ditching-their-careers) • 15h ago
+🔗 [the Guardian](https://www.theguardian.com/technology/2026/feb/11/big-ai-job-swap-white-collar-workers-ditching-their-careers) • 16h ago
 
 ---
 
@@ -125,7 +125,7 @@ Current AI systems are dangerously overconfident. They'll classify anything you 
 
 It’s not like a light switch... more like the moment you realize the water has been rising around you and is now at your chest.
 
-Fortune • 8h ago
+Fortune • 9h ago
 
 ---
 
@@ -141,7 +141,7 @@ CNBC • 1d ago
 
 Key PointsAlphabet has a broad and diverse business that puts it in an excellent position to benefit from growth opportunities related to artificial intelligence.
 
-Nasdaq • 5h ago
+Nasdaq • 6h ago
 
 ---
 
@@ -149,13 +149,13 @@ Nasdaq • 5h ago
 
 Two powerful bankers say one thing. The latest numbers say another.
 
-Yahoo Finance • 50m ago
+Yahoo Finance • 1h ago
 
 ---
 
 **[AI Race Mints Top-Rated Hyperscaler-Backed Data Center Debt](https://www.bloomberg.com/news/articles/2026-02-11/ai-race-mints-top-rated-hyperscaler-backed-data-center-debt)**
 
-Bloomberg.com • 1h ago
+Bloomberg.com • 2h ago
 
 ---
 
@@ -163,13 +163,13 @@ Bloomberg.com • 1h ago
 
 The team's leader has been given a new role as OpenAI's chief futurist, while the other team members have been reassigned throughout the company.
 
-TechCrunch • 43m ago
+TechCrunch • 1h ago
 
 ---
 
 **[How an AI bust could blow up the 2028 race](https://www.politico.com/newsletters/forecast/2026/02/11/how-an-ai-bust-could-blow-up-the-2028-race-00776629)**
 
-Politico • 1h ago
+Politico • 2h ago
 
 ---
 
@@ -177,7 +177,7 @@ Politico • 1h ago
 
 Meta says it will build a new 1-gigawatt data center in Indiana, its second in the state.
 
-Yahoo Finance • 4h ago
+Yahoo Finance • 5h ago
 
 ---
 
@@ -185,13 +185,13 @@ Yahoo Finance • 4h ago
 
 CNN’s Erin Burnett talks to AI expert Kristian Hammond about how technology will be used to identify the person who abducted Nancy Guthrie.
 
-CNN • 18h ago
+CNN • 19h ago
 
 ---
 
 **[OpenAI’s Biggest Challenge Is Turning Its A.I. Into a Cash Machine](https://www.nytimes.com/2026/02/11/technology/openai-revenue-challenge.html)**
 
-The New York Times • 6h ago
+The New York Times • 7h ago
 
 ---
 
@@ -219,7 +219,7 @@ As autonomous AI agents are increasingly deployed in high-stakes environments, e
 
 AI handles writing code but leaves the hard work: investigation, context, validation. Why vibe coding has limits and AI assistance can backfire.
 
-⬆️ 524 • 💬 362 • 2d ago • [blundergoat.com](https://www.blundergoat.com/articles/ai-makes-the-easy-part-easier-and-the-hard-part-harder)
+⬆️ 524 • 💬 362 • 3d ago • [blundergoat.com](https://www.blundergoat.com/articles/ai-makes-the-easy-part-easier-and-the-hard-part-harder)
 
 ---
 
@@ -227,13 +227,13 @@ AI handles writing code but leaves the hard work: investigation, context, valida
 
 The Federal Aviation Administration is closing the airspace around El Paso International Airport in Texas for 10 days, grounding all flights to and from the airport.
 
-⬆️ 331 • 💬 6 • 11h ago • [AP News](https://apnews.com/article/faa-el-paso-texas-air-space-closed-1f774bdfd46f5986ff0e7003df709caa)
+⬆️ 331 • 💬 6 • 12h ago • [AP News](https://apnews.com/article/faa-el-paso-texas-air-space-closed-1f774bdfd46f5986ff0e7003df709caa)
 
 ---
 
 **[FAA halts all flights at El Paso airport for 10 days](https://news.ycombinator.com/item?id=46972610)**
 
-⬆️ 301 • 💬 478 • 13h ago • [nytimes.com](https://www.nytimes.com/2026/02/11/us/faa-el-paso-flight-restrictions.html)
+⬆️ 301 • 💬 478 • 14h ago • [nytimes.com](https://www.nytimes.com/2026/02/11/us/faa-el-paso-flight-restrictions.html)
 
 ---
 
@@ -265,7 +265,7 @@ One of the promises of AI is that it can reduce workloads so employees can focus
 
 Meet Z.ai, your free AI-powered assistant. Build websites, create slides, analyze data, and get instant answers. Fast, smart, and reliable, powered by GLM-5.
 
-⬆️ 205 • 💬 182 • 8h ago • [chat.z.ai](https://chat.z.ai/)
+⬆️ 205 • 💬 182 • 9h ago • [chat.z.ai](https://chat.z.ai/)
 
 ---
 
@@ -287,7 +287,7 @@ The head of the Safeguards Research Team at Anthropic, Mrinank Sharma, has resig
 
 📺 Firstpost
 
-👁️ 50K • 👍 516 • 💬 51 • ⏱️ 4:47 • 8h ago
+👁️ 50K • 👍 516 • 💬 51 • ⏱️ 4:47 • 9h ago
 
 ---
 
@@ -317,7 +317,7 @@ CNBC's Deirdre Bosa reports on AI's impact on equity markets.
 
 📺 CNBC Television
 
-👁️ 3K • 👍 57 • 💬 42 • ⏱️ 2:17 • 3h ago
+👁️ 3K • 👍 57 • 💬 42 • ⏱️ 2:17 • 4h ago
 
 ---
 
@@ -357,7 +357,7 @@ A massive AI shift is unfolding behind the scenes. Reports and leaks suggest Ope
 
 📺 AI Revolution
 
-👁️ 31K • 👍 751 • 💬 79 • ⏱️ 15:41 • 1d ago
+👁️ 31K • 👍 751 • 💬 79 • ⏱️ 15:41 • 2d ago
 
 ---
 
@@ -377,7 +377,7 @@ For decades, the formula was simple: study hard, get a degree, land an entry-lev
 
 📺 Firstpost
 
-👁️ 29K • 👍 606 • 💬 93 • ⏱️ 6:21 • 5h ago
+👁️ 29K • 👍 606 • 💬 93 • ⏱️ 6:21 • 6h ago
 
 ---
 
@@ -417,7 +417,7 @@ MiniCPM-o 4.5 is a 9B parameter multimodal LLM excelling in vision, speech, and 
 
 `any-to-any` `9.4B`
 
-⬇️ 30,396 • ❤️ 786 • 12h ago
+⬇️ 30,396 • ❤️ 786 • 13h ago
 
 ---
 
@@ -606,7 +606,7 @@ MiniCPM-V 4.5, a 8B parameter multimodal large language model, achieves high per
 
 The Qwen3-TTS series presents advanced multilingual text-to-speech models with voice cloning and controllable speech generation capabilities, utilizing dual-track LM architecture and specialized speech tokenizers for efficient streaming synthesis.
 
-▲ 62 • 💬 1 • ⭐ 7,459 • 20d ago
+▲ 62 • 💬 1 • ⭐ 7,459 • 21d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2601.15621) • [💻 code](https://github.com/QwenLM/Qwen3-TTS)
 
@@ -651,7 +651,7 @@ The Ultimate Collection of 700+ Agentic Skills for Claude Code/Antigravity/Curso
 
 `Python` `agentic-skills` `ai-agents` `antigravity` `autonomous-coding` `claude-code`
 
-⭐ 8.5k • 🔱 1.7k • 15h ago
+⭐ 8.5k • 🔱 1.7k • 16h ago
 
 ---
 
@@ -669,7 +669,7 @@ Marketing skills for Claude Code and AI agents. CRO, copywriting, SEO, analytics
 
 Elevate your AI research writing, no more tedious polishing ✨ 
 
-⭐ 5.4k • 🔱 417 • 18h ago
+⭐ 5.4k • 🔱 417 • 19h ago
 
 ---
 
@@ -687,7 +687,7 @@ PaperBanana: Automating Academic Illustration For AI Scientists
 
 `JavaScript`
 
-⭐ 3.3k • 🔱 162 • 8d ago
+⭐ 3.3k • 🔱 162 • 9d ago
 
 ---
 
@@ -715,7 +715,7 @@ Smart LLM router — save 78% on inference costs. 30+ models, one wallet, x402 m
 
 `TypeScript` `ai` `ai-agents` `anthropic` `cost-optimization` `crypto`
 
-⭐ 2.2k • 🔱 223 • 4h ago
+⭐ 2.2k • 🔱 223 • 5h ago
 
 ---
 

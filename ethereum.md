@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-02-11T22:40:55.592807+00:00'
+updated: '2026-02-11T23:33:04.378929+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
 - cryptocurrency
+- social
 - news
 - videos
-- social
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** February 11, 2026 at 22:40 UTC  
+**Last Updated:** February 11, 2026 at 23:33 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -72,7 +72,7 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-16h ago
+17h ago
 
 ---
 
@@ -80,13 +80,13 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 I am attending ETHDenver 2026 next week for the first time. Do y'all have any recommendation on which events are the best to go to? Main and side events? I've been scrolling through Luma and have signed up for a bunch, but would love the opinion of others going. Would welcome any recos :) For context, working in a multi-stage crypto VC, so looking for sourcing opportunities and meeting cool people!
 
-2h ago
+3h ago
 
 ---
 
 **[Vitalik Buterin on the Future of AI and Ethereum’s Role in It](https://www.reddit.com/r/ethereum/comments/1r2anmr/vitalik_buterin_on_the_future_of_ai_and_ethereums/)**
 
-55m ago
+1h ago
 
 ---
 
@@ -102,7 +102,7 @@ Hello folks! I drafted this smart contract visualizer tool. It shows the structu
 
 Hey everyone! I’ve been working on an open-source project called blockscan-ethereum-service, written in Go: https://github.com/pancudaniel7/blockscan-ethereum-service What it does It’s a production-grade microservice that ingests Ethereum blocks in real time and streams them into Kafka as canonical block events. It’s built with performance, reliability, and horizontal scalability in mind, making it a strong fit for backend systems that depend on on-chain data. Why it matters Many existing block scanners are heavy, highly opinionated, or not designed for real-world backend architectures. This service focuses on: • Real-time block ingestion via WebSocket subscriptions • Partition-aware Kafka publishing with effectively-once delivery semantics • Reorg awareness, emitting tombstone and update events on chain reorganizations • Durable coordination using Redis markers • Observability with structured logs, metrics, and traces Who might find it useful • Go developers building Web3 backends • Teams designing custom Ethereum data pipelines • Anyone integrating blockchain data into event-driven systems If you check it out and find it useful, I’d truly appreciate a star on the repo. Happy to answer questions or discuss the design and architecture!
 
-1h ago
+2h ago
 
 ---
 
@@ -110,7 +110,7 @@ Hey everyone! I’ve been working on an open-source project called blockscan-eth
 
 Posted by Jacob Czepluch on February 10, 2026
 
-🔗 [Solidity Programming Language](https://www.soliditylang.org/blog/2026/02/10/solidity-developer-survey-2025-announcement/) • 22h ago
+🔗 [Solidity Programming Language](https://www.soliditylang.org/blog/2026/02/10/solidity-developer-survey-2025-announcement/) • 23h ago
 
 ---
 
@@ -154,7 +154,7 @@ This is a compact Ethereum Virtual Machine runtime written in strict C23. Made t
 
 Robinhood said developers will begin experimenting with applications on its Ethereum layer-2 network, while providing key technical feedback.
 
-Decrypt • 21h ago
+Decrypt • 22h ago
 
 ---
 
@@ -208,7 +208,7 @@ TradingView • 1d ago
 
 Bitcoin (BTC), Ethereum (ETH), and Ripple (XRP) show signs of cautious stabilization on Wednesday after failing to close above their key resistance levels earlier this week. BTC trades below $69,000, while ETH and XRP also encountered rejection near major resistance levels.
 
-FXStreet • 18h ago
+FXStreet • 19h ago
 
 ---
 
@@ -238,7 +238,7 @@ This video provides a professional Elliott Wave and technical analysis of Ethere
 
 📺 More Crypto Online
 
-👁️ 2K • 👍 152 • 💬 3 • ⏱️ 7:37 • 3h ago
+👁️ 2K • 👍 152 • 💬 3 • ⏱️ 7:37 • 4h ago
 
 ---
 
@@ -258,7 +258,7 @@ If you own XRP, SOL, ETH or Bitcoin Watch This Immediately! CoinDuel AI - This A
 
 📺 Zach Humphries
 
-👁️ 5K • 👍 579 • 💬 65 • ⏱️ 5:43 • 23h ago
+👁️ 5K • 👍 579 • 💬 65 • ⏱️ 5:43 • 1d ago
 
 ---
 
@@ -268,7 +268,7 @@ ETHEREUM ETH PRICE PREDICTION 2026 Join the Premium Signal Group for trade setup
 
 📺 Cilinix Crypto
 
-👁️ 1K • 👍 34 • 💬 1 • ⏱️ 4:48 • 12h ago
+👁️ 1K • 👍 34 • 💬 1 • ⏱️ 4:48 • 13h ago
 
 ---
 
@@ -278,7 +278,7 @@ This video provides a professional Elliott Wave and technical analysis of Ethere
 
 📺 More Crypto Online
 
-👁️ 3K • 👍 168 • 💬 11 • ⏱️ 4:00 • 17h ago
+👁️ 3K • 👍 168 • 💬 11 • ⏱️ 4:00 • 18h ago
 
 ---
 
@@ -308,7 +308,7 @@ Get $450 Off Our New AI Indicators: https://tradeconfidentportal.io/indicators/.
 
 📺 Trade Confident
 
-👁️ 228 • 👍 16 • 💬 15 • ⏱️ 5:57 • 2h ago
+👁️ 228 • 👍 16 • 💬 15 • ⏱️ 5:57 • 3h ago
 
 ---
 
@@ -328,7 +328,7 @@ Crypto News: Goldman Sachs crypto holdings disclosed in new filing which include
 
 📺 Thinking Crypto
 
-👁️ 6K • 👍 597 • 💬 168 • ⏱️ 21:01 • 18h ago
+👁️ 6K • 👍 597 • 💬 168 • ⏱️ 21:01 • 19h ago
 
 ---
 

@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-02-11T22:40:55.582221+00:00'
+updated: '2026-02-11T23:33:04.372951+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
 - cryptocurrency
+- social
 - news
 - videos
-- social
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** February 11, 2026 at 22:40 UTC  
+**Last Updated:** February 11, 2026 at 23:33 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -81,7 +81,7 @@ Rank #1
 
 Here goes my drama. I’m not going to lie, I’m a firm believer long term. I’ve done my research, I understand the thesis, and I’m not suddenly flipping bearish because of a few red days. But man, staring at these candlesticks lately is painful. Even if you believe in the bigger picture, watching price bleed like this messes with your head a bit. I’m not selling. Just admitting it doesn’t feel great in the moment.
 
-7h ago
+8h ago
 
 ---
 
@@ -89,7 +89,7 @@ Here goes my drama. I’m not going to lie, I’m a firm believer long term. I�
 
 It's estimated 80% of the price decline seen in the past 30 days is from derivative trading - leveraged bets that don't actually touch real bitcoin. They just get to push price down and do it by higher volume than what's being bet in real value terms. But did you know holding bitcoin on an exchange helps derivatives continue to trade like this? When you remove actual bitcoin from exchanges, it pulls out liquidity and squeezes the paper bets. When evaluating risks on shorts contracts that need to settle, a contributing factor is how much bitcoin is sitting on exchanges, regardless of if you have an open order. When synthetic exposure grows faster than actual bitcoin on exchanges... bad stuff happens to those who short bitcoin. It doesn't work the other way around. There's no inverse of having higher ratio of long bets in derivatives and not enough bitcoin liquidity.
 
-2h ago
+3h ago
 
 ---
 
@@ -97,7 +97,7 @@ It's estimated 80% of the price decline seen in the past 30 days is from derivat
 
 Aight look, nobody’s asking you to quit your job and run a node. But if you had one quiet hour—just one—to pull up that eight-page white paper from October 31st, 2008, you’d realize: this wasn’t a tech experiment. It was a direct shot at the system that’s got you running in circles. What’s your day like? Wake up. Grind. Emails. Lunch at the desk. Kids’ homework. Gym skipped. Bills hit auto-pay before you blink. Then you’re on the couch, thumb numb from scrolling. Who ends up drained? You. Who stays wide-eyed and counting cash? The ones printing it in the first place. Distraction isn’t an accident. It’s the job. Designed to keep you tired, keep you busy, keep you mad about the wrong thing—so you’ll never zoom out long enough to see the map getting redrawn. Meanwhile, Bitcoin? It’s doing it in silence. No ads. No push notifications. No “limited time offer.” Just a ledger that’s been ticking every ten minutes since January 12th, 2009 when Satoshi sent some to Hal Finney (RIP). And guess what? It doesn’t need your permission. They taught us money means stress. Work, earn, spend, borrow, repeat. Satoshi? He said nah bro—money can be math. Code that no bank, no government, no boss can freeze while you’re asleep. But to even think that idea, you’d need… time. And time’s the one thing they’re really selling back to you. Twenty bucks a month for a streaming service that keeps you numb. Seven bucks for coffee that lasts twenty minutes. Twenty eight percent Interest on a credit card you didn’t even want. Bitcoin flips the script: it costs nothing to learn. One download, one PDF, zero debt. But still—ninety-seven percent of people won’t. Easier to let the clowns like Sorkin on CNBC decide your fate. “Too risky,” they say. “Too volatile,” they say. Imagine being wrong for 16-17 years straight about something that started at ZERO. About something that you said would go away. But it’s still here. That must kill your ego. The distraction machine works because it feels normal. But peel one layer? You’re on a treadmill built by the people selling the gym membership. Bitcoin’s the off-switch. But switches only work if you reach for them. And right now, you’re too busy reaching for your phone.
 
-18h ago
+19h ago
 
 ---
 
@@ -105,7 +105,7 @@ Aight look, nobody’s asking you to quit your job and run a node. But if you ha
 
 As all bitcoiners know, bear markets are gigantic opportunities to stack cheap sats. But even if you know this, you might still squander the opportunity in one of the following ways: 1) Using Leverage "If bitcoin falls to $40k, I'm going to take out a second mortgage for this generational buying opportunity!" If this is you, please read this section carefully. Every time there is a bear market in bitcoin, the people who got sucked in at bull market highs because of FOMO are usually the first ones to get desperate in bear markets. They just bought the top and now they're trying to catch the falling knife on the way down. Do not mistake this coping mechanism for diamond hand conviction. If you use leverage to buy bitcoin, most of the time you will get destroyed. Why? Because despite all hopeful claims to the contrary ("this time is different!"), bitcoin remains one of the most volatile major assets in finance. Huge volatility and multi-year low prices will cause you major stress as you struggle to add collateral during downswings you thought weren't going to happen. All when you could have just kept buying spot bitcoin, totally stress-free. Want to know what happened last time? I detailed my personal account of the FTX collapse-driven bitcoin bear market in Daily Stack #1: Bear Market Thoughts - Flashback to 2022 (can check that out in my subreddit if you wish; I don't want to link it here out of respect for this subreddit's rules). 2) Panic Buying for Small Dips If your plan is to throw all your spare cash into bitcoin whenever there's a red day, you'll be out of cash by the end of this week (or sooner). Now, that's not the worst thing in the world (at least you stacked some sats), but here's the key thing you're missing: During bitcoin bear markets, your spare cash is basically a call option on other people's fear. To explain this for the non-finance natives out there, a call option gives you the right (but not the obligation) to buy an asset for a specific price (the strike price). People use call options if they think the price of an asset will go way up past their strike price in the future, so when it does they can exercise their call option to acquire the now expensive asset at a huge discount to its market price. Your spare cash is basically doing the same thing for you during a bitcoin bear market. Most people think as soon as we have a 5% drop, they have to panic buy the dip because it might never drop that much again. But panic buying every 5% drop is the same as betting that this bear market will be different from all five of the previous bear markets. "This time will be different" has a very bad track record in bitcoin's history. 3) Waiting for the "Perfect Bottom" Let's be clear: panic buying for small dips could be inefficient, but not buying at all could be an even bigger mistake. Bitcoin's immense volatility can surprise everyone in either direction, up or down. So, the most logical approach is to set a small recurring purchase (known as dollar cost averaging or "DCA" for short) and keep some dry powder in case there's another true market panic and bitcoin falls to unthinkable levels. That's when you can exercise your call option on other people's fear and get the most sats possible.
 
-6h ago
+7h ago
 
 ---
 
@@ -113,7 +113,7 @@ As all bitcoiners know, bear markets are gigantic opportunities to stack cheap s
 
 Just saw Bitcoin was on sale and decided to do the ol "buy and hodl".
 
-6h ago
+7h ago
 
 ---
 
@@ -121,13 +121,13 @@ Just saw Bitcoin was on sale and decided to do the ol "buy and hodl".
 
 Credit https://x.com/jackmallers
 
-7h ago
+8h ago
 
 ---
 
 **[Maybe I am](https://www.reddit.com/r/Bitcoin/comments/1r1mwos/maybe_i_am/)**
 
-18h ago
+19h ago
 
 ---
 
@@ -141,7 +141,7 @@ In short, my strategy is: set a target price (like 65k), then lower my entry by 
 
 **[My paintings are inspired by the Bitcoin aesthetic. Here's one of them](https://www.reddit.com/r/Bitcoin/comments/1r1y8zf/my_paintings_are_inspired_by_the_bitcoin/)**
 
-8h ago
+9h ago
 
 ---
 
@@ -159,13 +159,13 @@ In short, my strategy is: set a target price (like 65k), then lower my entry by 
 
 “Bitcoin has fallen below $67,000, recording its third daily bearish candle,” Alex Kuptsikevich, chief market analyst at FxPro Group, said in a note.  “We suspect last week’s $60,000 low, created on massive volumes, is a capitulation type low, a clear catalyst for a sustained rebound remains elusive,” said Tony Sycamore, an analyst, IG Australia.  Rate cuts have been historically viewed as positive catalyst for Bitcoin since they generally increase demand for higher returning riskier assets.
 
-Yahoo Finance • 54m ago
+Yahoo Finance • 1h ago
 
 ---
 
 **[Crypto lender BlockFills suspends withdrawals amid faltering bitcoin price](https://www.reuters.com/legal/government/crypto-lender-blockfills-suspends-withdrawals-amid-faltering-bitcoin-price-2026-02-11/)**
 
-Reuters • 4h ago
+Reuters • 5h ago
 
 ---
 
@@ -173,7 +173,7 @@ Reuters • 4h ago
 
 Strong US jobs data pushed Treasury yields higher and dropped rate cut hopes, raising concerns about Bitcoin’s short-term outlook.
 
-Yahoo Finance • 1h ago
+Yahoo Finance • 2h ago
 
 ---
 
@@ -181,7 +181,7 @@ Yahoo Finance • 1h ago
 
 Data from industry research firm Glassnode show that wallets holding more than 1,000 Bitcoin added more than $4 billion worth of the token over the period, interrupting months of divestment that have left Bitcoin roughly 40% below its October peak.  Excluding exchange-traded funds and exchanges, large Bitcoin-holding players have been net sellers over the past year, with more than 170,000 coins — worth some $11 billion — leaving these wallets since mid-December, according to Glassnode.  Bitcoin’s price action reflects that uneven support.
 
-Yahoo Finance • 21h ago
+Yahoo Finance • 22h ago
 
 ---
 
@@ -189,13 +189,13 @@ Yahoo Finance • 21h ago
 
 'Coin Stories with Natalie Brunell' host cuts through the 'education gap' about Bitcoin as the crypto retreat persists on 'Making Money.'
 
-Fox Business • 1h ago
+Fox Business • 2h ago
 
 ---
 
 **[bitcoin hit $65k and nobody cared. here's why that might be the real story](https://www.binance.com/en/square/post/290605505147937)**
 
-Binance • 2h ago
+Binance • 3h ago
 
 ---
 
@@ -203,13 +203,13 @@ Binance • 2h ago
 
 On today's episode of CNBC Crypto World, experts weigh in on recent crypto market pressure as bitcoin heads for its fourth negative week in a row. We also recap some highlights from the 2026 CNBC Digital Finance Forum earlier this week, an event sponsored by MoonPay. And Robinhood's Johann Kerbrat introduces a public testnet for Robinhood Chain, a move to accelerate development of on-chain financial services.
 
-CNBC • 2h ago
+CNBC • 3h ago
 
 ---
 
 **[TMZ receives new note demanding bitcoin for Nancy Guthrie info](https://www.newsnationnow.com/missing/third-nancy-guthrie-ransom-note-sent-to-tmz/)**
 
-NewsNation • 3h ago
+NewsNation • 4h ago
 
 ---
 
@@ -217,7 +217,7 @@ NewsNation • 3h ago
 
 The longtime bitcoin backer and founder of DCG said privacy coins represent an asymmetric bet today, similar to the early days of Bitcoin.
 
-The Block • 4h ago
+The Block • 5h ago
 
 ---
 
@@ -299,7 +299,7 @@ Bithumb, Korea's second-largest cryptocurrency exchange, mistakenly credited use
 
 Hybrid Post-Quantum Bitcoin Wallet — ML-DSA + Falcon signatures on BIP-341 Taproot PSBTs. 136/136 tests passing. No soft fork required. - emilianosolazzi/PQ-PSBT-WALLET
 
-⬆️ 3 • 💬 2 • 20h ago • [GitHub](https://github.com/emilianosolazzi/PQ-PSBT-WALLET)
+⬆️ 3 • 💬 2 • 21h ago • [GitHub](https://github.com/emilianosolazzi/PQ-PSBT-WALLET)
 
 ---
 
@@ -323,7 +323,7 @@ Ran and Ben Cowen sit down to tackle the 2026 crypto roadmap and the shifting "p
 
 📺 Crypto Banter
 
-👁️ 27K • 👍 2K • 💬 75 • ⏱️ 40:21 • 6h ago
+👁️ 27K • 👍 2K • 💬 75 • ⏱️ 40:21 • 7h ago
 
 ---
 
@@ -333,7 +333,7 @@ MARA CEO Fred Thiel discusses the importance of digital asset regulation and his
 
 📺 Fox Business Clips
 
-👁️ 79K • 👍 1K • 💬 659 • ⏱️ 7:23 • 8h ago
+👁️ 79K • 👍 1K • 💬 659 • ⏱️ 7:23 • 9h ago
 
 ---
 
@@ -363,7 +363,7 @@ Bitcoin just suffered the largest dollar-value crash in its history — without 
 
 📺 Swan Bitcoin
 
-👁️ 47K • 👍 2K • 💬 229 • ⏱️ 15:49 • 23h ago
+👁️ 47K • 👍 2K • 💬 229 • ⏱️ 15:49 • 1d ago
 
 ---
 
@@ -373,7 +373,7 @@ We're watching the worst crypto crash since the FTX scandal. Ben McKenzie explai
 
 📺 More Perfect Union
 
-👁️ 63K • 👍 9K • 💬 828 • ⏱️ 2:50 • 3h ago
+👁️ 63K • 👍 9K • 💬 828 • ⏱️ 2:50 • 4h ago
 
 ---
 
