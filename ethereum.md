@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-02-11T21:04:35.505045+00:00'
+updated: '2026-02-11T21:59:00.155972+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- news
 - social
 - cryptocurrency
 - videos
+- news
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** February 11, 2026 at 21:04 UTC  
+**Last Updated:** February 11, 2026 at 21:59 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -80,7 +80,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 I am attending ETHDenver 2026 next week for the first time. Do y'all have any recommendation on which events are the best to go to? Main and side events? I've been scrolling through Luma and have signed up for a bunch, but would love the opinion of others going. Would welcome any recos :) For context, working in a multi-stage crypto VC, so looking for sourcing opportunities and meeting cool people!
 
-39m ago
+1h ago
 
 ---
 
@@ -88,7 +88,7 @@ I am attending ETHDenver 2026 next week for the first time. Do y'all have any re
 
 Hello folks! I drafted this smart contract visualizer tool. It shows the structure of the contract, a plain english explenation and an AI powered security analysis (screenshots below). The purpose would be double: for devs, easily understand and read other contract for learning purpose for users, double-check a contract before interacting with it There would be tons of possible improvements: expand code by clicking on the tile multi chain support support complex contract for many imports by exploding them What do you think? Does the tool have a reason to exist? :) https://preview.redd.it/rz5mi9qhquig1.png?width=1930&format=png&auto=webp&s=5b8c09f479a17e19dadcdad9d2eb4540937a8d83 https://preview.redd.it/2juw6bqhquig1.png?width=1934&format=png&auto=webp&s=1a3ed192e5391c60fb9a1094adb71f364d6eaecc https://preview.redd.it/2oi05cqhquig1.png?width=1940&format=png&auto=webp&s=2543b85dd1018625ec7e8a64c01be2235a8b31fd Thanks, Francesco
 
-9h ago
+10h ago
 
 ---
 
@@ -96,7 +96,7 @@ Hello folks! I drafted this smart contract visualizer tool. It shows the structu
 
 Posted by Jacob Czepluch on February 10, 2026
 
-🔗 [Solidity Programming Language](https://www.soliditylang.org/blog/2026/02/10/solidity-developer-survey-2025-announcement/) • 20h ago
+🔗 [Solidity Programming Language](https://www.soliditylang.org/blog/2026/02/10/solidity-developer-survey-2025-announcement/) • 21h ago
 
 ---
 
@@ -156,7 +156,7 @@ World News, Stories By EtherWorld, Technical Explainers, Client News & Updates, 
 
 Robinhood said developers will begin experimenting with applications on its Ethereum layer-2 network, while providing key technical feedback.
 
-Decrypt • 19h ago
+Decrypt • 20h ago
 
 ---
 
@@ -202,7 +202,7 @@ TradingView • 1d ago
 
 Bitcoin (BTC), Ethereum (ETH), and Ripple (XRP) show signs of cautious stabilization on Wednesday after failing to close above their key resistance levels earlier this week. BTC trades below $69,000, while ETH and XRP also encountered rejection near major resistance levels.
 
-FXStreet • 16h ago
+FXStreet • 17h ago
 
 ---
 
@@ -250,7 +250,7 @@ ETHEREUM ETH PRICE PREDICTION 2026 Join the Premium Signal Group for trade setup
 
 📺 Cilinix Crypto
 
-👁️ 1K • 👍 33 • 💬 1 • ⏱️ 4:48 • 11h ago
+👁️ 1K • 👍 33 • 💬 1 • ⏱️ 4:48 • 12h ago
 
 ---
 
@@ -270,7 +270,7 @@ If you own XRP, SOL, ETH or Bitcoin Watch This Immediately! CoinDuel AI - This A
 
 📺 Zach Humphries
 
-👁️ 5K • 👍 568 • 💬 37 • ⏱️ 5:43 • 21h ago
+👁️ 5K • 👍 568 • 💬 37 • ⏱️ 5:43 • 22h ago
 
 ---
 
@@ -280,7 +280,7 @@ This video provides a professional Elliott Wave and technical analysis of Ethere
 
 📺 More Crypto Online
 
-👁️ 3K • 👍 167 • 💬 9 • ⏱️ 4:00 • 16h ago
+👁️ 3K • 👍 167 • 💬 9 • ⏱️ 4:00 • 17h ago
 
 ---
 
@@ -290,7 +290,7 @@ TrumpCrypto2026 #DigitalAssets #TrumpAnnouncement Welcome to the Trump Crypto Fo
 
 📺 Tools and Tech, with Mike
 
-👁️ 5K • 👍 2K • 2h ago
+👁️ 5K • 👍 2K • 3h ago
 
 ---
 

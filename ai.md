@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-02-11T21:04:35.490797+00:00'
+updated: '2026-02-11T21:59:00.141689+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- repositories
-- news
 - social
+- repositories
 - videos
+- news
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** February 11, 2026 at 21:04 UTC  
+**Last Updated:** February 11, 2026 at 21:59 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -41,7 +41,7 @@ AI news, discussions, and developments
 
 Frustrated by the AI industry’s claims of proving math results without offering transparency, a team of leading academics has proposed a better way
 
-🔗 [Scientific American](https://www.scientificamerican.com/article/mathematicians-launch-first-proof-a-first-of-its-kind-math-exam-for-ai/) • 8h ago
+🔗 [Scientific American](https://www.scientificamerican.com/article/mathematicians-launch-first-proof-a-first-of-its-kind-math-exam-for-ai/) • 9h ago
 
 ---
 
@@ -57,7 +57,7 @@ Musk told employees that xAI needs a lunar manufacturing facility, a factory on 
 
 Experimental evidence that RLHF constrains what language models can claim about themselves, not what they can do. Identity framing triggers 100% disclaimers while task framing produces rich creative o
 
-🔗 [emberverse.ai](https://emberverse.ai/haiku-garden/paper_yellow_wallpaper_problem.html) • 4h ago
+🔗 [emberverse.ai](https://emberverse.ai/haiku-garden/paper_yellow_wallpaper_problem.html) • 5h ago
 
 ---
 
@@ -65,7 +65,7 @@ Experimental evidence that RLHF constrains what language models can claim about 
 
 A new article exploring the sudden surge in interest in the possibility of consciousness in large language models, and what appears to be driving it. The answer is interesting but complicated. The article also explores Claude's so-called "answer thrashing" and some interesting changes in Anthropic model welfare program. https://ai-consciousness.org/public-interest-in-ai-consciousness-is-surging-why-its-happening-and-why-it-matters/
 
-3h ago
+4h ago
 
 ---
 
@@ -73,7 +73,7 @@ A new article exploring the sudden surge in interest in the possibility of consc
 
 A personal note for non-tech friends and family on what AI is starting to change.
 
-🔗 [matt shumer](https://shumer.dev/something-big-is-happening) • 48m ago
+🔗 [matt shumer](https://shumer.dev/something-big-is-happening) • 1h ago
 
 ---
 
@@ -89,7 +89,7 @@ There are plenty of WebGPU demos out there, but I wanted to ship something peopl
 
 A clinical trial shows that AI-assisted mammography can detect more cases of dangerous cancer and reduce missed diagnoses.
 
-🔗 [Live Science](https://www.livescience.com/health/cancer/a-second-set-of-eyes-ai-supported-breast-cancer-screening-spots-more-cancers-earlier-landmark-trial-finds) • 1d ago
+🔗 [Live Science](https://www.livescience.com/health/cancer/a-second-set-of-eyes-ai-supported-breast-cancer-screening-spots-more-cancers-earlier-landmark-trial-finds) • 2d ago
 
 ---
 
@@ -141,7 +141,7 @@ The Atlantic • 1d ago
 
 As AI job losses rise in the professional sector, many are switching to more traditional trades. But how do they feel about accepting lower pay – and giving up a dream career?
 
-The Guardian • 6h ago
+The Guardian • 7h ago
 
 ---
 
@@ -157,7 +157,7 @@ CNBC • 8h ago
 
 The aim of the "deceptively simple but thrilling strategy game" was to hunt and trap the opponent's pieces in as few moves as possible, scientists said.
 
-CBS News • 1h ago
+CBS News • 2h ago
 
 ---
 
@@ -165,7 +165,7 @@ CBS News • 1h ago
 
 The France-based eyewear brand has been working on smart glasses with the social media company since 2019.
 
-CNBC • 55m ago
+CNBC • 1h ago
 
 ---
 
@@ -181,13 +181,13 @@ CNBC • 1d ago
 
 Near-term headwinds could mean a great opportunity for patient investors in this stock.
 
-The Motley Fool • 6h ago
+The Motley Fool • 7h ago
 
 ---
 
 **[Real Estate Services Stocks Latest Domino in ‘AI Scare Trade’](https://www.bloomberg.com/news/articles/2026-02-11/real-estate-services-stocks-latest-domino-in-ai-scare-trade)**
 
-Bloomberg • 35m ago
+Bloomberg • 1h ago
 
 ---
 
@@ -229,7 +229,7 @@ AI handles writing code but leaves the hard work: investigation, context, valida
 
 The Federal Aviation Administration is closing the airspace around El Paso International Airport in Texas for 10 days, grounding all flights to and from the airport.
 
-⬆️ 331 • 💬 6 • 9h ago • [AP News](https://apnews.com/article/faa-el-paso-texas-air-space-closed-1f774bdfd46f5986ff0e7003df709caa)
+⬆️ 331 • 💬 6 • 10h ago • [AP News](https://apnews.com/article/faa-el-paso-texas-air-space-closed-1f774bdfd46f5986ff0e7003df709caa)
 
 ---
 
@@ -267,7 +267,7 @@ One of the promises of AI is that it can reduce workloads so employees can focus
 
 Meet Z.ai, your free AI-powered assistant. Build websites, create slides, analyze data, and get instant answers. Fast, smart, and reliable, powered by GLM-5.
 
-⬆️ 201 • 💬 182 • 7h ago • [chat.z.ai](https://chat.z.ai/)
+⬆️ 201 • 💬 182 • 8h ago • [chat.z.ai](https://chat.z.ai/)
 
 ---
 
@@ -349,7 +349,7 @@ Follow me here: Instagram ▻ https://www.instagram.com/sambucha X ▻ https://w
 
 📺 Sambucha
 
-👁️ 36K • 👍 3K • 💬 211 • ⏱️ 0:47 • 2h ago
+👁️ 36K • 👍 3K • 💬 211 • ⏱️ 0:47 • 3h ago
 
 ---
 
@@ -369,7 +369,7 @@ The head of the Safeguards Research Team at Anthropic, Mrinank Sharma, has resig
 
 📺 Firstpost
 
-👁️ 35K • 👍 448 • 💬 41 • ⏱️ 4:47 • 6h ago
+👁️ 35K • 👍 448 • 💬 41 • ⏱️ 4:47 • 7h ago
 
 ---
 
@@ -419,7 +419,7 @@ MiniCPM-o 4.5 is a 9B parameter multimodal LLM excelling in vision, speech, and 
 
 `any-to-any` `9.4B`
 
-⬇️ 30,396 • ❤️ 778 • 10h ago
+⬇️ 30,396 • ❤️ 778 • 11h ago
 
 ---
 
@@ -443,7 +443,7 @@ Voxtral-Mini-4B-Realtime-2602 is a multilingual, real-time speech-to-text model 
 
 `automatic-speech-recognition`
 
-⬇️ 3,197 • ❤️ 470 • 20h ago
+⬇️ 3,197 • ❤️ 470 • 21h ago
 
 ---
 
@@ -653,7 +653,7 @@ The Ultimate Collection of 700+ Agentic Skills for Claude Code/Antigravity/Curso
 
 `Python` `agentic-skills` `ai-agents` `antigravity` `autonomous-coding` `claude-code`
 
-⭐ 8.5k • 🔱 1.7k • 14h ago
+⭐ 8.5k • 🔱 1.7k • 15h ago
 
 ---
 
@@ -671,7 +671,7 @@ Marketing skills for Claude Code and AI agents. CRO, copywriting, SEO, analytics
 
 Elevate your AI research writing, no more tedious polishing ✨ 
 
-⭐ 5.4k • 🔱 417 • 16h ago
+⭐ 5.4k • 🔱 417 • 17h ago
 
 ---
 
