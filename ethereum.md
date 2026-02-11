@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-02-11T03:35:39.894968+00:00'
+updated: '2026-02-11T05:27:54.603485+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
 - social
-- cryptocurrency
 - news
 - videos
+- cryptocurrency
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** February 11, 2026 at 03:35 UTC  
+**Last Updated:** February 11, 2026 at 05:27 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -36,17 +36,17 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Price
 
-### $2,016.65
+### $1,964.83
 
 ---
 
 ## Ethereum Chart
 
-**24h:** -2.8%  
-**7d:** +10.3%  
-**30d:** -39.4%  
-**90d:** -35.1%  
-**1y:** -26.4%  
+**24h:** -1.5%  
+**7d:** +8.4%  
+**30d:** -40.5%  
+**90d:** -36.3%  
+**1y:** -27.8%  
 
 ---
 
@@ -72,7 +72,7 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-21h ago
+23h ago
 
 ---
 
@@ -80,7 +80,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 Posted by Jacob Czepluch on February 10, 2026
 
-🔗 [Solidity Programming Language](https://www.soliditylang.org/blog/2026/02/10/solidity-developer-survey-2025-announcement/) • 3h ago
+🔗 [Solidity Programming Language](https://www.soliditylang.org/blog/2026/02/10/solidity-developer-survey-2025-announcement/) • 5h ago
 
 ---
 
@@ -156,7 +156,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 Buterin pitched Ethereum as an economic/coordination layer for decentralized, privacy-preserving AI systems rather than a race toward AGI.
 
-The Block • 16h ago
+The Block • 18h ago
 
 ---
 
@@ -164,7 +164,7 @@ The Block • 16h ago
 
 In a new post on X revisiting ideas he first outlined two years ago, Buterin argues that the push toward artificial general intelligence often resembles the kind of unchecked speed and scale that Ethereum itself was created to challenge.
 
-CoinDesk • 12h ago
+CoinDesk • 13h ago
 
 ---
 
@@ -172,7 +172,7 @@ CoinDesk • 12h ago
 
 The Ethereum co-founder has outlined a four-quadrant Ethereum-AI buildout spanning private AI use, agent markets, and governance.
 
-Decrypt • 21h ago
+Decrypt • 22h ago
 
 ---
 
@@ -180,7 +180,7 @@ Decrypt • 21h ago
 
 Robinhood said developers will begin experimenting with applications on its Ethereum layer-2 network, while providing key technical feedback.
 
-Decrypt • 2h ago
+Decrypt • 3h ago
 
 ---
 
@@ -188,7 +188,7 @@ Decrypt • 2h ago
 
 Bitmine buys another $80m worth of Ethereum. Tom Lee predicts swift recovery despite over $6.6 billion in unrealised losses.
 
-dlnews.com • 18h ago
+dlnews.com • 20h ago
 
 ---
 
@@ -208,25 +208,25 @@ CCN.com • 1d ago
 
 ---
 
+**[Ethereum Price Slips Into Danger Zone As Breakdown Threat Grows](https://www.tradingview.com/news/newsbtc:e92d2c664094b:0-ethereum-price-slips-into-danger-zone-as-breakdown-threat-grows/)**
+
+Ethereum price started a recovery wave above $2,000. ETH is now consolidating and remain at risk of another decline below $1,980.Ethereum Price Dips AgainEthereum price managed to form a base above $1,950 and started a recovery wave, like Bitcoin. ETH price traded above the $1,980 and $2,020 resist…
+
+TradingView • 2h ago
+
+---
+
 **[Ethereum becomes rail of choice for crypto-curious bankers](https://www.americanbanker.com/news/ethereum-becomes-rail-of-choice-for-crypto-curious-bankers)**
 
 JPMorganChase, Citi and Custodia are among the banks that have built digital asset projects on the Ethereum blockchain.
 
-American Banker • 7h ago
+American Banker • 9h ago
 
 ---
 
-**[Here’s Why The Bitcoin And Ethereum Prices Are Pumping Again](https://www.tradingview.com/news/newsbtc:9296cce0e094b:0-here-s-why-the-bitcoin-and-ethereum-prices-are-pumping-again/)**
+**[Ethereum leads way as large cryptocurrencies drop](https://www.marketwatch.com/data-news/ethereum-leads-way-as-large-cryptocurrencies-drop-f5e80176-a90dea2a77fc?gaa_at=eafs&gaa_n=AWEtsqcYRafVZ17i2kFuJ86VkNUJoRuGbgoBcymWJzcKKxmufTgogewJYnNp&gaa_ts=698c16c6&gaa_sig=ehfezuonwbus1cN7vYN7aPuryGDwIwGtrolIqfx8D3v5pBxPZtBhFxaJ20_cxM_DlpnqCR_lLrr9RCU-4G2zmw%3D%3D)**
 
-The Bitcoin and Ethereum prices have rebounded from last week’s lows, providing optimism that the bottom may be in. This comes amid accumulation from whales while the crypto ETFs have seen notable inflows following last week’s outflows. Why The Bitcoin And Ethereum Prices Are Climbing AgainThe Bitc…
-
-TradingView • 3h ago
-
----
-
-**[Ethereum leads way as large cryptocurrencies drop](https://www.marketwatch.com/data-news/ethereum-leads-way-as-large-cryptocurrencies-drop-f5e80176-a90dea2a77fc?gaa_at=eafs&gaa_n=AWEtsqf4PWcqkAYYwRcqxaiBVYkI2Lw8zxGHBU07lCxSfrgpw2MRS598wegM&gaa_ts=698bfc74&gaa_sig=KQTEtdZ8O5qLRZNi9jzD_7itO6uT6ZPrBofs4UAeR9459mjUgM9kFqtokwRNjhhK05pZQKk0v8fOXRhaQQ7bIw%3D%3D)**
-
-MarketWatch • 12h ago
+MarketWatch • 14h ago
 
 ---
 
@@ -250,7 +250,7 @@ CNBC"s MacKenzie Sigalos joins 'Squawk Box' to discuss the recent bitcoin volati
 
 📺 CNBC Television
 
-👁️ 56K • 👍 612 • 💬 787 • ⏱️ 6:36 • 11h ago
+👁️ 56K • 👍 612 • 💬 787 • ⏱️ 6:36 • 13h ago
 
 ---
 
@@ -270,7 +270,7 @@ MACRO MARKET ANALYSIS VIDEOS EVERYDAY SINCE 2018 I don't sell anything. I don't 
 
 📺 The Cryptoviser
 
-👁️ 830 • 👍 94 • 💬 5 • ⏱️ 34:07 • 13h ago
+👁️ 830 • 👍 94 • 💬 5 • ⏱️ 34:07 • 15h ago
 
 ---
 
@@ -280,7 +280,7 @@ This video provides a professional Elliott Wave and technical analysis of Ethere
 
 📺 More Crypto Online
 
-👁️ 4K • 👍 211 • 💬 7 • ⏱️ 4:14 • 14h ago
+👁️ 4K • 👍 211 • 💬 7 • ⏱️ 4:14 • 16h ago
 
 ---
 
@@ -320,7 +320,7 @@ BITCOIN HOLDERS: Time to Get Serious (Warning)!!! - Bitcoin News Today, Ethereum
 
 📺 Crypto World
 
-👁️ 6K • 👍 285 • 💬 49 • ⏱️ 17:52 • 7h ago
+👁️ 6K • 👍 285 • 💬 49 • ⏱️ 17:52 • 9h ago
 
 ---
 

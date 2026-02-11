@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-02-11T03:35:39.888838+00:00'
+updated: '2026-02-11T05:27:54.597968+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
 - social
-- cryptocurrency
 - news
 - videos
+- cryptocurrency
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** February 11, 2026 at 03:35 UTC  
+**Last Updated:** February 11, 2026 at 05:27 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,17 +38,17 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $68,409.61
+### $67,549.81
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** -2.2%  
-**7d:** +8.9%  
-**30d:** -28.4%  
-**90d:** -27.9%  
-**1y:** -30.1%  
+**24h:** -1.7%  
+**7d:** +8.0%  
+**30d:** -29.0%  
+**90d:** -28.5%  
+**1y:** -30.7%  
 
 ---
 
@@ -70,7 +70,7 @@ Rank #1
 
 ## Fear & Greed Index
 
-### 9
+### 11
 **EXTREME FEAR**
 
 ---
@@ -79,23 +79,7 @@ Rank #1
 
 **[We're soooo back!](https://www.reddit.com/r/Bitcoin/comments/1r1aof2/were_soooo_back/)**
 
-8h ago
-
----
-
-**[JUST IN: 🇺🇸 Treasury Secretary Bessent calls to pass crypto market structure legislation.](https://www.reddit.com/r/Bitcoin/comments/1r15dur/just_in_treasury_secretary_bessent_calls_to_pass/)**
-
-"The United States is becoming the Crypto Capital of the world"
-
-11h ago
-
----
-
-**[ANTHONY POMPLIANO: AI WILL USE BITCOIN AND CRYPTO FOR PAYMENTS](https://www.reddit.com/r/Bitcoin/comments/1r13j11/anthony_pompliano_ai_will_use_bitcoin_and_crypto/)**
-
-"Both Bitcoin and Stablecoins will be the money for all of these AI Agents"
-
-12h ago
+9h ago
 
 ---
 
@@ -103,7 +87,45 @@ Rank #1
 
 Let be honest! At 125k we felt FOMO. AT 60-70k It seems scary all of a sudden? Like seriously men! 1 BItcoin = 1 Bitcoin But still its truely feeling scary? Or a gift for buying the dip? https://preview.redd.it/5i9ir7idhpig1.png?width=1280&format=png&auto=webp&s=69938401ab0c443491fdd538bba977d8bf2b73ef
 
-9h ago
+11h ago
+
+---
+
+**[Why You’re Too Busy To See Bitcoin Taking Over](https://www.reddit.com/r/Bitcoin/comments/1r1nj7z/why_youre_too_busy_to_see_bitcoin_taking_over/)**
+
+Aight look, nobody’s asking you to quit your job and run a node. But if you had one quiet hour—just one—to pull up that eight-page white paper from October 31st, 2008, you’d realize: this wasn’t a tech experiment. It was a direct shot at the system that’s got you running in circles. What’s your day like? Wake up. Grind. Emails. Lunch at the desk. Kids’ homework. Gym skipped. Bills hit auto-pay before you blink. Then you’re on the couch, thumb numb from scrolling. Who ends up drained? You. Who stays wide-eyed and counting cash? The ones printing it in the first place. Distraction isn’t an accident. It’s the job. Designed to keep you tired, keep you busy, keep you mad about the wrong thing—so you’ll never zoom out long enough to see the map getting redrawn. Meanwhile, Bitcoin? It’s doing it in silence. No ads. No push notifications. No “limited time offer.” Just a ledger that’s been ticking every ten minutes since January 12th, 2009 when Satoshi sent some to Hal Finney (RIP). And guess what? It doesn’t need your permission. They taught us money means stress. Work, earn, spend, borrow, repeat. Satoshi? He said nah bro—money can be math. Code that no bank, no government, no boss can freeze while you’re asleep. But to even think that idea, you’d need… time. And time’s the one thing they’re really selling back to you. Twenty bucks a month for a streaming service that keeps you numb. Seven bucks for coffee that lasts twenty minutes. Twenty eight percent Interest on a credit card you didn’t even want. Bitcoin flips the script: it costs nothing to learn. One download, one PDF, zero debt. But still—ninety-seven percent of people won’t. Easier to let the clowns like Sorkin on CNBC decide your fate. “Too risky,” they say. “Too volatile,” they say. Imagine being wrong for 16-17 years straight about something that started at ZERO. About something that you said would go away. But it’s still here. That must kill your ego. The distraction machine works because it feels normal. But peel one layer? You’re on a treadmill built by the people selling the gym membership. Bitcoin’s the off-switch. But switches only work if you reach for them. And right now, you’re too busy reaching for your phone.
+
+1h ago
+
+---
+
+**[Maybe I am](https://www.reddit.com/r/Bitcoin/comments/1r1mwos/maybe_i_am/)**
+
+1h ago
+
+---
+
+**[JUST IN: 🇺🇸 Treasury Secretary Bessent calls to pass crypto market structure legislation.](https://www.reddit.com/r/Bitcoin/comments/1r15dur/just_in_treasury_secretary_bessent_calls_to_pass/)**
+
+"The United States is becoming the Crypto Capital of the world"
+
+13h ago
+
+---
+
+**[ANTHONY POMPLIANO: AI WILL USE BITCOIN AND CRYPTO FOR PAYMENTS](https://www.reddit.com/r/Bitcoin/comments/1r13j11/anthony_pompliano_ai_will_use_bitcoin_and_crypto/)**
+
+"Both Bitcoin and Stablecoins will be the money for all of these AI Agents"
+
+14h ago
+
+---
+
+**[The level of ignorance around the Bitcoin wallet in this Nancy Guthrie case is astounding](https://www.reddit.com/r/Bitcoin/comments/1r1m5z5/the_level_of_ignorance_around_the_bitcoin_wallet/)**
+
+We’re still very early
+
+2h ago
 
 ---
 
@@ -111,7 +133,7 @@ Let be honest! At 125k we felt FOMO. AT 60-70k It seems scary all of a sudden? L
 
 The best medicine for lack of conviction is education. Once you decide for yourself that Bitcoin is more than "number go up" technology, you can develop the diamond hands required for its volatilty. The value and tenants of Bitcoin won't immediately be expressed in upward price movement. The reason to hold Bitcoin come from what it may become 10+ years from now. Like Warren Buffet would say, the markets are the only place where when something you want goes on sell, you run out of the store.
 
-9h ago
+10h ago
 
 ---
 
@@ -125,29 +147,7 @@ After hearing all the takes on recent Bitcoin price action, the irony is hard to
 
 **[DCA paid after a year reached 0.1](https://www.reddit.com/r/Bitcoin/comments/1r1cuek/dca_paid_after_a_year_reached_01/)**
 
-6h ago
-
----
-
-**[FUD](https://www.reddit.com/r/Bitcoin/comments/1r1difb/fud/)**
-
-WARNING: Low effort post. The only fear I've got is burning all of my cash at 69k and bitcoin going lower. I am financially and emotionally prepared to go to 30k, and already ~8k in the red at the current price. Who's with me?
-
-6h ago
-
----
-
-**[Bitcoin Knots 29.3.knots20260210 released! 🎉](https://www.reddit.com/r/Bitcoin/comments/1r1m4db/bitcoin_knots_293knots20260210_released/)**
-
-🔗 [bitcoinknots.org](https://bitcoinknots.org/?29.3.202602?reddit) • 18m ago
-
----
-
-**[Btc year #5 update: 1/10m club reached](https://www.reddit.com/r/Bitcoin/comments/1r0qf87/btc_year_5_update_110m_club_reached/)**
-
-Stay humble, stack sats. Not a brag post but something for me to reflect upon each year and look back on the journey
-
-23h ago
+8h ago
 
 ---
 
@@ -159,15 +159,15 @@ Stay humble, stack sats. Not a brag post but something for me to reflect upon ea
 
 Bitcoin prices hovered around $69,000, with one analyst suggesting that the crypto market may be approaching its bottom.
 
-Yahoo Finance • 10h ago
+Yahoo Finance • 12h ago
 
 ---
 
-**[SkyBridge's Scaramucci is buying the bitcoin dip, calls Trump a crypto President](https://www.coindesk.com/markets/2026/02/11/we-are-a-buyer-of-bitcoin-in-this-market-skybridge-s-scaramucci-says)**
+**[What the Crypto Crash Reveals About Trump's Power](https://www.theatlantic.com/newsletters/2026/02/trump-crypto-market-crash/685959/)**
 
-Scaramucci noted that SkyBridge has been purchasing bitcoin at various price points, including around $84,000, $63,000 and in the current lower range.
+The president’s support was never a guarantee of the market’s stability.
 
-CoinDesk • 53m ago
+The Atlantic • 5h ago
 
 ---
 
@@ -175,21 +175,29 @@ CoinDesk • 53m ago
 
 Popular market commentator and TV personality Jim Cramer said on Friday he was told the Trump administration plans to purchase Bitcoin (CRYPTO: BTC) for the U.S. Strategic Reserve amid the ongoing market downturn. Analyzing The US Government’s Bitcoin Stash Cramer made the claim during CNBC’s Squawk on the Street segment, stating, “I heard at $60,000 the President is gonna fill the Bitcoin Reserve.” Don't Miss: Security and regulation matter in crypto — explore Kraken Pro's compliance-first trad
 
-Yahoo Finance • 10h ago
+Yahoo Finance • 11h ago
 
 ---
 
-**[Trump meme coin down 96% as Bitcoin and meme coins slide](https://www.fastcompany.com/91489687/trump-meme-coin-down-bitcoin-slides)**
+**[SkyBridge's Scaramucci is buying the bitcoin dip, calls Trump a crypto President](https://www.coindesk.com/markets/2026/02/11/we-are-a-buyer-of-bitcoin-in-this-market-skybridge-s-scaramucci-says)**
 
-From Trump and Melania tokens to Dogecoin and Shiba Inu, meme coins are being hit hardest in a volatile crypto downturn.
+Scaramucci noted that SkyBridge has been purchasing bitcoin at various price points, including around $84,000, $63,000 and in the current lower range.
 
-Fast Company • 1d ago
+CoinDesk • 2h ago
 
 ---
 
-**[Activity in Nancy Guthrie’s ransom bitcoin account: TMZ](https://www.newsnationnow.com/cuomo-show/activity-nancy-guthries-ransom-bitcoin/)**
+**[Activity Observed In Bitcoin Account Connected to Nancy Guthrie Ransom Note](https://people.com/activity-observed-in-bitcoin-account-connected-to-nancy-guthrie-ransom-note-11904191)**
 
-NewsNation • 1h ago
+Activity has been observed in the Bitcoin account associated with the ransom note sent by Nancy Guthrie's suspected kidnappers.
+
+People.com • 1h ago
+
+---
+
+**[Lawmakers Grill Crypto Exchange Over $40 Billion ‘Ghost Bitcoin’](https://www.bloomberg.com/news/articles/2026-02-11/lawmakers-grill-crypto-exchange-over-40-billion-ghost-bitcoin)**
+
+Bloomberg • 1h ago
 
 ---
 
@@ -197,21 +205,15 @@ NewsNation • 1h ago
 
 Bithumb has apologised for staff error that sent customers 620,000 bitcoins instead of 620,000 Korean won, equivalent to a few hundred US dollars
 
-The Guardian • 23h ago
+The Guardian • 1d ago
 
 ---
 
-**[S Korean crypto firm accidentally pays out $40bn in bitcoin](https://www.bbc.com/news/articles/cz6y62nzjxxo)**
+**[Oops! South Korean crypto exchange accidentally hands out $40B in Bitcoin](https://nypost.com/2026/02/10/business/oops-south-korean-crypto-exchange-accidentally-hands-out-40b-in-bitcoin/)**
 
-The company quickly realised its mistake and managed to recover virtually all the missing tokens from customers.
+The blunder at Bithumb, South Korea’s second-largest cryptocurrency exchange, briefly turned ordinary users into nine-figure Bitcoin holders.
 
-BBC • 3d ago
-
----
-
-**[Korea Probes Crypto Exchange Over $40 Billion in ‘Ghost Bitcoin’](https://www.bloomberg.com/news/articles/2026-02-09/bithumb-accidentally-gifts-620-000-bitcoin-btc-to-clients-in-fat-finger-error)**
-
-Bloomberg.com • 1d ago
+New York Post • 9h ago
 
 ---
 
@@ -219,15 +221,15 @@ Bloomberg.com • 1d ago
 
 Strategy plans to continue refinancing its debt and buying bitcoin, even as the token tumbles, CEO Michael Saylor said Tuesday on CNBC's "Squawk Box."
 
-CNBC • 12h ago
+CNBC • 14h ago
 
 ---
 
-**[Saylor says bitcoin will ‘double or triple’ S&P returns over coming years, vows Strategy won’t be selling](https://www.theblock.co/post/389253/saylor-bitcoin-double-triple-sp-returns-coming-years-vows-strategy-wont-selling)**
+**[Strategy (MSTR) news: Saylor shoots down any idea of forced BTC sale](https://www.coindesk.com/markets/2026/02/10/concerns-over-strategy-selling-bitcoin-are-unfounded-michael-saylor-says)**
 
-Strategy continues expanding its bitcoin holdings even as its treasury value sits below total acquisition cost following the recent pullback.
+Strategy Executive Chairman Michael Saylor affirmed the firm’s commitment to a long-term bitcoin strategy following major fourth quarter losses and a continued plunge in prices early this year.
 
-The Block • 10h ago
+CoinDesk • 10h ago
 
 ---
 
@@ -265,7 +267,7 @@ Bitcoin outlook turns bearish as Pivotus’ Richard Farr targets BTC at $0 and M
 
 **[$40B in Bitcoin Accidentally Given Away](https://news.ycombinator.com/item?id=46965768)**
 
-⬆️ 8 • 💬 0 • 7h ago • [wsj.com](https://www.wsj.com/finance/currencies/a-bitcoin-blunder-for-the-ages-40-billion-accidentally-given-away-3a207eac)
+⬆️ 10 • 💬 0 • 9h ago • [wsj.com](https://www.wsj.com/finance/currencies/a-bitcoin-blunder-for-the-ages-40-billion-accidentally-given-away-3a207eac)
 
 ---
 
@@ -317,7 +319,7 @@ Watch this video where I break down volatility: https://youtu.be/Z_vlwus19-8?si=
 
 📺 Mark Moss
 
-👁️ 54K • 👍 3K • 💬 344 • ⏱️ 19:19 • 8h ago
+👁️ 54K • 👍 3K • 💬 344 • ⏱️ 19:19 • 10h ago
 
 ---
 
@@ -327,7 +329,7 @@ CNBC"s MacKenzie Sigalos joins 'Squawk Box' to discuss the recent bitcoin volati
 
 📺 CNBC Television
 
-👁️ 56K • 👍 612 • 💬 787 • ⏱️ 6:36 • 11h ago
+👁️ 56K • 👍 612 • 💬 787 • ⏱️ 6:36 • 13h ago
 
 ---
 
@@ -337,7 +339,7 @@ Bitcoin just suffered the largest dollar-value crash in its history — without 
 
 📺 Swan Bitcoin
 
-👁️ 15K • 👍 971 • 💬 130 • ⏱️ 15:49 • 4h ago
+👁️ 15K • 👍 971 • 💬 130 • ⏱️ 15:49 • 6h ago
 
 ---
 
@@ -357,7 +359,7 @@ Bitcoin #Crypto #Finance With roughly 150 days left in what may be a critical ac
 
 📺 The Wolf Of All Streets
 
-👁️ 15K • 👍 693 • 💬 164 • ⏱️ 55:27 • 12h ago
+👁️ 15K • 👍 693 • 💬 164 • ⏱️ 55:27 • 14h ago
 
 ---
 
@@ -387,7 +389,7 @@ CNBC's MacKenzie Sigalos reports on trends in bitcoin.
 
 📺 CNBC Television
 
-👁️ 20K • 👍 147 • 💬 278 • ⏱️ 2:23 • 23h ago
+👁️ 20K • 👍 147 • 💬 278 • ⏱️ 2:23 • 1d ago
 
 ---
 
@@ -407,7 +409,7 @@ The recent bitcoin crash has been devastating, but the real reasons behind the c
 
 📺 EllioTrades
 
-👁️ 7K • 👍 527 • 💬 99 • ⏱️ 24:30 • 5h ago
+👁️ 7K • 👍 527 • 💬 99 • ⏱️ 24:30 • 7h ago
 
 ---
 

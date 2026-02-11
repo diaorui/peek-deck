@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-02-11T03:35:39.898223+00:00'
+updated: '2026-02-11T05:27:54.606418+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
 - social
-- news
 - videos
+- news
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** February 11, 2026 at 03:35 UTC  
+**Last Updated:** February 11, 2026 at 05:27 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -36,7 +36,7 @@ Robotics research and industry news
 
 Hey everyone! I'm going to be starting a robotics club at my community college and I was hoping I could get some help on some beginner friendly projects for the club and maybe how the club should be structured. I, and most of the people I know that are going to be a part of the club have basically no experience with robotics and we want to keep the club inclusive to everyone on campus. Any advice would help!
 
-50m ago
+2h ago
 
 ---
 
@@ -44,7 +44,15 @@ Hey everyone! I'm going to be starting a robotics club at my community college a
 
 Hello everyone, since K-Scale Labs (https://kscale.ai) shut down and they still kept everything open-source on their GitHub page, I was wondering if anyone has actually tried to build their humanoid robot on their own. Do you guys think it would be worth it or not and why?
 
-9h ago
+11h ago
+
+---
+
+**[I built URDFViewer.com, a robotic workcell analysis and visualization tool](https://www.reddit.com/r/robotics/comments/1r1f3dp/i_built_urdfviewercom_a_robotic_workcell_analysis/)**
+
+While developing ROS2 applications for robotic arm projects, we found it was difficult to guarantee that a robot would execute a full sequence of motion without failure. In pick-and-place applications, the challenge was reaching a pose and approaching along a defined direction. In welding or surface finishing applications, the difficulty was selecting a suitable start pose without discovering failure midway through execution. Many early iterations involved trial and error to find a working set of joint configurations that could serve as good “seeds” for further IK and motion planning. Over time, we built internal offline utilities to nearly guarantee that our configurations and workspace designs would work. These relied heavily on open-source libraries like TRAC-IK, along with extracting meaningful metrics such as manipulability. Eventually, we decided to package the internal tool we were using and open it up to anyone working on robotic application setup or pre-deployment validation. What the platform offers: a. Select from a list of supported robots, or upload your own. Any serial chain in standard robot_description format should work. b. Move the robot using interactive markers, direct joint control, or by setting a target pose. If you only need FK/IK exploration, you can stop here. The tool continuously displays end-effector pose and joint states. c. Insert obstacles to resemble your working scene. d. Create regions of interest and add orientation constraints, such as holding a glass upright or maintaining a welding direction. e. Run analysis to determine: Whether a single IK branch can serve the entire region Whether all poses within the region are reachable Whether the region is reachable but discontinuous in joint space How we hope it helps users: a. Select a suitable robot for an application by comparing results across platforms. b. Help robotics professionals, including non-engineers, create and validate workcells early. c. Create, share, and collaborate on scenes with colleagues or clients. We’re planning to add much more to this tool, and we hope user feedback helps shape its future development. Give it a try.
+
+🔗 [urdfviewer.com](https://urdfviewer.com) • 7h ago
 
 ---
 
@@ -52,13 +60,7 @@ Hello everyone, since K-Scale Labs (https://kscale.ai) shut down and they still 
 
 A Shanghai startup, DroidUp, has unveiled Moya, a biomimetic AI robot designed to cross the uncanny valley. Unlike plastic and metal droids, Moya features silicone skin that is heated to human body temperature and mimics subtle facial expressions like eyebrow raises. Standing 5'5" and weighing 70 lbs, Moya is built on a modular platform that allows for swapping between male and female presentations. With a price tag of ~$173k, DroidUp aims to deploy these warm companions in healthcare and business by late 2026.
 
-🔗 [TechRadar](https://www.techradar.com/computing/the-worlds-first-biomimetic-ai-robot-just-strolled-in-from-the-uncanny-valley-and-yes-its-super-creepy) • 14h ago
-
----
-
-**[La funny song](https://www.reddit.com/r/robotics/comments/1r1lrig/la_funny_song/)**
-
-34m ago
+🔗 [TechRadar](https://www.techradar.com/computing/the-worlds-first-biomimetic-ai-robot-just-strolled-in-from-the-uncanny-valley-and-yes-its-super-creepy) • 16h ago
 
 ---
 
@@ -68,11 +70,9 @@ A Shanghai startup, DroidUp, has unveiled Moya, a biomimetic AI robot designed t
 
 ---
 
-**[I built URDFViewer.com, a robotic workcell analysis and visualization tool](https://www.reddit.com/r/robotics/comments/1r1f3dp/i_built_urdfviewercom_a_robotic_workcell_analysis/)**
+**[La funny song](https://www.reddit.com/r/robotics/comments/1r1lrig/la_funny_song/)**
 
-While developing ROS2 applications for robotic arm projects, we found it was difficult to guarantee that a robot would execute a full sequence of motion without failure. In pick-and-place applications, the challenge was reaching a pose and approaching along a defined direction. In welding or surface finishing applications, the difficulty was selecting a suitable start pose without discovering failure midway through execution. Many early iterations involved trial and error to find a working set of joint configurations that could serve as good “seeds” for further IK and motion planning. Over time, we built internal offline utilities to nearly guarantee that our configurations and workspace designs would work. These relied heavily on open-source libraries like TRAC-IK, along with extracting meaningful metrics such as manipulability. Eventually, we decided to package the internal tool we were using and open it up to anyone working on robotic application setup or pre-deployment validation. What the platform offers: a. Select from a list of supported robots, or upload your own. Any serial chain in standard robot_description format should work. b. Move the robot using interactive markers, direct joint control, or by setting a target pose. If you only need FK/IK exploration, you can stop here. The tool continuously displays end-effector pose and joint states. c. Insert obstacles to resemble your working scene. d. Create regions of interest and add orientation constraints, such as holding a glass upright or maintaining a welding direction. e. Run analysis to determine: Whether a single IK branch can serve the entire region Whether all poses within the region are reachable Whether the region is reachable but discontinuous in joint space How we hope it helps users: a. Select a suitable robot for an application by comparing results across platforms. b. Help robotics professionals, including non-engineers, create and validate workcells early. c. Create, share, and collaborate on scenes with colleagues or clients. We’re planning to add much more to this tool, and we hope user feedback helps shape its future development. Give it a try.
-
-🔗 [urdfviewer.com](https://urdfviewer.com) • 5h ago
+2h ago
 
 ---
 
@@ -80,7 +80,7 @@ While developing ROS2 applications for robotic arm projects, we found it was dif
 
 Board I designed a custom board called ESP PowerDeck, based on the ESP32-S3. It’s meant for experimenting with robotics and IoT where you need real power handling, not just a breadboard setup. Would love feedback from the community — especially on features that might make it more useful for robotics work. (edit moved photo up so it could be seen ;p)
 
-8h ago
+10h ago
 
 ---
 
@@ -88,19 +88,19 @@ Board I designed a custom board called ESP PowerDeck, based on the ESP32-S3. It�
 
 Hello! Our makerspace for kids 11-18 is hosting a three week summer camp this summer. Most of the kids will likely be 11-13 who come. The kids we know will come have indicated they would like to build and program sumo bots. The kids will have wide varieties of experience. Some will have no coding experience at all, so I am thinking rather than autonomous sumo bots they should make remote controlled ones. Which I realize now makes them not robots so maybe y'all can't help. We have here several Creality HI 3d printers and a large Omtech laser, as well as basic woodshop and electronics things like soldering irons and breadboards and all kinds of electronical bits and bobs. I am thinking if we have a premade chassis that the kids can add on to, they still get to design stuff and print it or cut it out but the basics are already there, then they can do the electronics and whatever coding needs to go between the rc stuff and the electronics and maybe they can conceivably do all that in 15 days/three weeks? I think trying to make it autonomous will be too challenging for all, but we can always suggest/challenge the kids who are good coders already to do so. Have any of y'all done something like this? Does it seem feasible? Thanks!
 
-7h ago
+8h ago
 
 ---
 
 **[Design process advice for robotic arm](https://www.reddit.com/r/robotics/comments/1r1c3ce/design_process_advice_for_robotic_arm/)**
 
-7h ago
+9h ago
 
 ---
 
 **[Yet another Onshape robot exporter, but this one (hopefully) saves your API credits.](https://www.reddit.com/r/robotics/comments/1r18zed/yet_another_onshape_robot_exporter_but_this_one/)**
 
-9h ago
+10h ago
 
 ---
 
@@ -124,41 +124,11 @@ Interesting Engineering • 1d ago
 
 ---
 
-**[Chicago’s food delivery robots: How they work and what’s next](https://www.yahoo.com/news/articles/chicago-food-delivery-robots-next-014848614.html)**
-
-Coco and Serve Robotics have been operating food delivery robots in Chicago since late 2024, with 83% of residents in the 1st Ward opposing further expansion of the program due to concerns about speed...
-
-Yahoo • 1h ago
-
----
-
 **[China's Alibaba launches AI model to power robots as tech giants talk up 'physical AI'](https://www.cnbc.com/2026/02/10/alibaba-ai-model-robotics-rynnbrain-china.html)**
 
 Nvidia and Google are among a handful of major tech giants developing models for robotics and so-called "phyiscal AI."
 
-CNBC • 16h ago
-
----
-
-**[Alibaba Pushes Into Robotics AI With Open-Source ‘RynnBrain’](https://www.bloomberg.com/news/articles/2026-02-10/alibaba-pushes-into-robotics-ai-with-open-source-rynnbrain)**
-
-Bloomberg.com • 20h ago
-
----
-
-**[Construction Embraces AI Agents, Safety Systems and Robotics as Labor Pressures Mount](https://www.pymnts.com/artificial-intelligence-2/2026/construction-embraces-ai-agents-safety-systems-and-robotics-as-labor-pressures-mount/)**
-
-Artificial intelligence is no longer confined to experimental pilots in the construction industry. It is moving into the operational core of how projects
-
-PYMNTS.com • 42m ago
-
----
-
-**[Elon Musk warns the U.S. is '1,000% going to go bankrupt' unless AI and robotics save the economy from crushing debt](https://fortune.com/2026/02/07/elon-musk-us-bankruptcy-ai-robotics-economic-growth-national-debt-crisis/)**
-
-"We just need enough time to build the AI and robots to not go bankrupt before then."
-
-Fortune • 3d ago
+CNBC • 18h ago
 
 ---
 
@@ -166,7 +136,13 @@ Fortune • 3d ago
 
 Symbotic has acquired autonomous forklift developer Fox Robotics in a move that broadens its logistics robotics offerings.
 
-The Robot Report • 6h ago
+The Robot Report • 8h ago
+
+---
+
+**[Alibaba Pushes Into Robotics AI With Open-Source ‘RynnBrain’](https://www.bloomberg.com/news/articles/2026-02-10/alibaba-pushes-into-robotics-ai-with-open-source-rynnbrain)**
+
+Bloomberg • 22h ago
 
 ---
 
@@ -174,7 +150,23 @@ The Robot Report • 6h ago
 
 A new generation of AI-powered robots moving from research labs into the real world is fueled by AI tech companies and analysts forecasting a multitrillion-dollar market. The vision is to give artificial intelligence its own robot body. What are the trends, challenges, and commercial applications?
 
-IFR International Federation of Robotics • 21h ago
+IFR International Federation of Robotics • 23h ago
+
+---
+
+**[Robots for daily life: Mint and Rice Robotics plan HK$10M AI venture](https://www.stocktitan.net/news/MIMI/mint-signed-mo-u-with-robotics-leader-rice-robotics-to-pioneer-1ae1uax2xl9b.html)**
+
+HK$10M JV MoU targets localized robotics R&D in Hong Kong, combining Mint’s Southeast Asia reach with Rice Robotics’ Japan presence around 'physical AI'.
+
+Stock Titan • 1d ago
+
+---
+
+**[The Autonomous Robotics Stock Wall Street Insiders Are Quietly Buying (Hint: It's Not Tesla)](https://finance.yahoo.com/news/autonomous-robotics-stock-wall-street-195000880.html)**
+
+This high-flying stock is about more than just military drones.
+
+Yahoo Finance • 2d ago
 
 ---
 
@@ -183,6 +175,12 @@ IFR International Federation of Robotics • 21h ago
 The once-thriving electric vehicle leader is investing in a new future.
 
 The Motley Fool • 1d ago
+
+---
+
+**[Tesla's Robotics Revolution Won't Save It (NASDAQ:TSLA)](https://seekingalpha.com/article/4867567-teslas-robotics-revolution-would-not-save-it)**
+
+Seeking Alpha • 1d ago
 
 ---
 
@@ -226,7 +224,7 @@ A bold prediction like this instantly sparks curiosity and debate across the wor
 
 📺 Billionaire Shots
 
-👁️ 10K • 👍 681 • 💬 89 • ⏱️ 0:36 • 17h ago
+👁️ 10K • 👍 681 • 💬 89 • ⏱️ 0:36 • 19h ago
 
 ---
 
@@ -272,7 +270,7 @@ War Robots Gameplay: My best WR Video: Ultimate VORTEX NEMESIS Neuer Deutscher C
 
 📺 Manni-Gaming
 
-👁️ 7K • 👍 564 • 💬 166 • ⏱️ 27:59 • 12h ago
+👁️ 7K • 👍 564 • 💬 166 • ⏱️ 27:59 • 14h ago
 
 ---
 
