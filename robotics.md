@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-02-11T05:27:54.606418+00:00'
+updated: '2026-02-11T06:41:35.932035+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- social
 - videos
 - news
+- social
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** February 11, 2026 at 05:27 UTC  
+**Last Updated:** February 11, 2026 at 06:41 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -36,7 +36,7 @@ Robotics research and industry news
 
 Hey everyone! I'm going to be starting a robotics club at my community college and I was hoping I could get some help on some beginner friendly projects for the club and maybe how the club should be structured. I, and most of the people I know that are going to be a part of the club have basically no experience with robotics and we want to keep the club inclusive to everyone on campus. Any advice would help!
 
-2h ago
+3h ago
 
 ---
 
@@ -44,7 +44,7 @@ Hey everyone! I'm going to be starting a robotics club at my community college a
 
 Hello everyone, since K-Scale Labs (https://kscale.ai) shut down and they still kept everything open-source on their GitHub page, I was wondering if anyone has actually tried to build their humanoid robot on their own. Do you guys think it would be worth it or not and why?
 
-11h ago
+12h ago
 
 ---
 
@@ -52,7 +52,15 @@ Hello everyone, since K-Scale Labs (https://kscale.ai) shut down and they still 
 
 While developing ROS2 applications for robotic arm projects, we found it was difficult to guarantee that a robot would execute a full sequence of motion without failure. In pick-and-place applications, the challenge was reaching a pose and approaching along a defined direction. In welding or surface finishing applications, the difficulty was selecting a suitable start pose without discovering failure midway through execution. Many early iterations involved trial and error to find a working set of joint configurations that could serve as good “seeds” for further IK and motion planning. Over time, we built internal offline utilities to nearly guarantee that our configurations and workspace designs would work. These relied heavily on open-source libraries like TRAC-IK, along with extracting meaningful metrics such as manipulability. Eventually, we decided to package the internal tool we were using and open it up to anyone working on robotic application setup or pre-deployment validation. What the platform offers: a. Select from a list of supported robots, or upload your own. Any serial chain in standard robot_description format should work. b. Move the robot using interactive markers, direct joint control, or by setting a target pose. If you only need FK/IK exploration, you can stop here. The tool continuously displays end-effector pose and joint states. c. Insert obstacles to resemble your working scene. d. Create regions of interest and add orientation constraints, such as holding a glass upright or maintaining a welding direction. e. Run analysis to determine: Whether a single IK branch can serve the entire region Whether all poses within the region are reachable Whether the region is reachable but discontinuous in joint space How we hope it helps users: a. Select a suitable robot for an application by comparing results across platforms. b. Help robotics professionals, including non-engineers, create and validate workcells early. c. Create, share, and collaborate on scenes with colleagues or clients. We’re planning to add much more to this tool, and we hope user feedback helps shape its future development. Give it a try.
 
-🔗 [urdfviewer.com](https://urdfviewer.com) • 7h ago
+🔗 [urdfviewer.com](https://urdfviewer.com) • 8h ago
+
+---
+
+**[Connections for ball balancing robot!](https://www.reddit.com/r/robotics/comments/1r1ovz3/connections_for_ball_balancing_robot/)**
+
+So I am working on the project of ball balancing robot so the body after robots has been the three servo motor and connections I have no idea so the components for the connections are arduino, IMU sensor (MPU9250/6500)., ESR-32,PCA9685... So these are the components which I am having for ball balancing robot I kindly request you to suggest me how to made the connection of it it may be you guys can suggest me like any article for that or a YouTube video and if required for more components kindly let me know it will be grateful I just have one week for the project to be submitted....
+
+1h ago
 
 ---
 
@@ -60,7 +68,7 @@ While developing ROS2 applications for robotic arm projects, we found it was dif
 
 A Shanghai startup, DroidUp, has unveiled Moya, a biomimetic AI robot designed to cross the uncanny valley. Unlike plastic and metal droids, Moya features silicone skin that is heated to human body temperature and mimics subtle facial expressions like eyebrow raises. Standing 5'5" and weighing 70 lbs, Moya is built on a modular platform that allows for swapping between male and female presentations. With a price tag of ~$173k, DroidUp aims to deploy these warm companions in healthcare and business by late 2026.
 
-🔗 [TechRadar](https://www.techradar.com/computing/the-worlds-first-biomimetic-ai-robot-just-strolled-in-from-the-uncanny-valley-and-yes-its-super-creepy) • 16h ago
+🔗 [TechRadar](https://www.techradar.com/computing/the-worlds-first-biomimetic-ai-robot-just-strolled-in-from-the-uncanny-valley-and-yes-its-super-creepy) • 17h ago
 
 ---
 
@@ -72,7 +80,7 @@ A Shanghai startup, DroidUp, has unveiled Moya, a biomimetic AI robot designed t
 
 **[La funny song](https://www.reddit.com/r/robotics/comments/1r1lrig/la_funny_song/)**
 
-2h ago
+3h ago
 
 ---
 
@@ -80,7 +88,7 @@ A Shanghai startup, DroidUp, has unveiled Moya, a biomimetic AI robot designed t
 
 Board I designed a custom board called ESP PowerDeck, based on the ESP32-S3. It’s meant for experimenting with robotics and IoT where you need real power handling, not just a breadboard setup. Would love feedback from the community — especially on features that might make it more useful for robotics work. (edit moved photo up so it could be seen ;p)
 
-10h ago
+11h ago
 
 ---
 
@@ -88,17 +96,11 @@ Board I designed a custom board called ESP PowerDeck, based on the ESP32-S3. It�
 
 Hello! Our makerspace for kids 11-18 is hosting a three week summer camp this summer. Most of the kids will likely be 11-13 who come. The kids we know will come have indicated they would like to build and program sumo bots. The kids will have wide varieties of experience. Some will have no coding experience at all, so I am thinking rather than autonomous sumo bots they should make remote controlled ones. Which I realize now makes them not robots so maybe y'all can't help. We have here several Creality HI 3d printers and a large Omtech laser, as well as basic woodshop and electronics things like soldering irons and breadboards and all kinds of electronical bits and bobs. I am thinking if we have a premade chassis that the kids can add on to, they still get to design stuff and print it or cut it out but the basics are already there, then they can do the electronics and whatever coding needs to go between the rc stuff and the electronics and maybe they can conceivably do all that in 15 days/three weeks? I think trying to make it autonomous will be too challenging for all, but we can always suggest/challenge the kids who are good coders already to do so. Have any of y'all done something like this? Does it seem feasible? Thanks!
 
-8h ago
+10h ago
 
 ---
 
 **[Design process advice for robotic arm](https://www.reddit.com/r/robotics/comments/1r1c3ce/design_process_advice_for_robotic_arm/)**
-
-9h ago
-
----
-
-**[Yet another Onshape robot exporter, but this one (hopefully) saves your API credits.](https://www.reddit.com/r/robotics/comments/1r18zed/yet_another_onshape_robot_exporter_but_this_one/)**
 
 10h ago
 
@@ -128,7 +130,29 @@ Interesting Engineering • 1d ago
 
 Nvidia and Google are among a handful of major tech giants developing models for robotics and so-called "phyiscal AI."
 
-CNBC • 18h ago
+CNBC • 19h ago
+
+---
+
+**[Alibaba Pushes Into Robotics AI With Open-Source ‘RynnBrain’](https://www.bloomberg.com/news/articles/2026-02-10/alibaba-pushes-into-robotics-ai-with-open-source-rynnbrain)**
+
+Bloomberg.com • 23h ago
+
+---
+
+**[Alibaba AI sets 16 records, beats Google and NVIDIA in robotics](https://interestingengineering.com/ai-robotics/alibaba-rynnbrain-humanoid-robot-ai)**
+
+Alibaba has unveiled RynnBrain, a new embodied AI model built to help robots understand space, memory, and physical movement.
+
+Interesting Engineering • 12h ago
+
+---
+
+**[Elon Musk warns the U.S. is '1,000% going to go bankrupt' unless AI and robotics save the economy from crushing debt](https://fortune.com/2026/02/07/elon-musk-us-bankruptcy-ai-robotics-economic-growth-national-debt-crisis/)**
+
+"We just need enough time to build the AI and robots to not go bankrupt before then."
+
+Fortune • 3d ago
 
 ---
 
@@ -136,13 +160,7 @@ CNBC • 18h ago
 
 Symbotic has acquired autonomous forklift developer Fox Robotics in a move that broadens its logistics robotics offerings.
 
-The Robot Report • 8h ago
-
----
-
-**[Alibaba Pushes Into Robotics AI With Open-Source ‘RynnBrain’](https://www.bloomberg.com/news/articles/2026-02-10/alibaba-pushes-into-robotics-ai-with-open-source-rynnbrain)**
-
-Bloomberg • 22h ago
+The Robot Report • 9h ago
 
 ---
 
@@ -150,7 +168,7 @@ Bloomberg • 22h ago
 
 A new generation of AI-powered robots moving from research labs into the real world is fueled by AI tech companies and analysts forecasting a multitrillion-dollar market. The vision is to give artificial intelligence its own robot body. What are the trends, challenges, and commercial applications?
 
-IFR International Federation of Robotics • 23h ago
+IFR International Federation of Robotics • 1d ago
 
 ---
 
@@ -162,14 +180,6 @@ Stock Titan • 1d ago
 
 ---
 
-**[The Autonomous Robotics Stock Wall Street Insiders Are Quietly Buying (Hint: It's Not Tesla)](https://finance.yahoo.com/news/autonomous-robotics-stock-wall-street-195000880.html)**
-
-This high-flying stock is about more than just military drones.
-
-Yahoo Finance • 2d ago
-
----
-
 **[AI, Robotaxis, and Robotics: Why Elon Musk and Tesla Are Set to Join "Magnificent Seven" Peers on a Massive Spending Spree](https://www.fool.com/investing/2026/02/09/ai-robotaxis-robotics-elon-musk-tesla-mag-7/)**
 
 The once-thriving electric vehicle leader is investing in a new future.
@@ -178,15 +188,29 @@ The Motley Fool • 1d ago
 
 ---
 
-**[Tesla's Robotics Revolution Won't Save It (NASDAQ:TSLA)](https://seekingalpha.com/article/4867567-teslas-robotics-revolution-would-not-save-it)**
-
-Seeking Alpha • 1d ago
-
----
-
 ---
 
 ## YouTube Videos: "robotics"
+
+**[China&#39;s Pink Hair Humanoid Robot Craze! #humanoidrobot #robotics #robot](https://www.youtube.com/watch?v=hZAnVumhgv4)**
+
+Pink haired humanoid robots are trending in China. Xuan, the hyper-realistic robotic elf developed by AheadForm, sang a love ...
+
+📺 Kalil 4.0
+
+👁️ 451 • 👍 21 • 💬 1 • ⏱️ 0:57 • 2h ago
+
+---
+
+**[The Future of Robotics is INSANE 🤖👽 | new technique robot 🤖👽👽| #shorts #funny #robot](https://www.youtube.com/watch?v=nKcZj5LPdNk)**
+
+The Future of Robotics is INSANE | new technique robot | #shorts #funny #robot new technique robot 2026 robot new ...
+
+📺 funnyfans08
+
+👁️ 371 • 👍 6 • 💬 1 • ⏱️ 0:30 • 13m ago
+
+---
 
 **[First Biomimetic AI Robot From China Looks Shockingly Human](https://www.youtube.com/watch?v=B61etYSvMNI)**
 
@@ -194,17 +218,7 @@ Humanoid robots just entered a new phase of realism. In Shanghai, DroidUp reveal
 
 📺 AI Revolution
 
-👁️ 253K • 👍 4K • 💬 967 • ⏱️ 13:31 • 6d ago
-
----
-
-**[Elon Musk on Why Everyone Will Want an Optimus Robot by 2027](https://www.youtube.com/watch?v=dWRqUdVBKjE)**
-
-Will a robot soon be watching your children or caring for your parents? Elon Musk predicts a future where billions of humanoid ...
-
-📺 SpaceTakers
-
-👁️ 45K • 👍 887 • 💬 82 • ⏱️ 0:29 • 5d ago
+👁️ 255K • 👍 4K • 💬 968 • ⏱️ 13:31 • 6d ago
 
 ---
 
@@ -218,13 +232,23 @@ XPeng's brand-new IRON humanoid robot just collapsed in public, and the footage 
 
 ---
 
+**[The real test for humanoid robots isn’t performance.](https://www.youtube.com/watch?v=4iU9kfIZnhs)**
+
+Humanoid robots don't fail at tasks. They fail at presence. The hardest part of building humanoid robots isn't hardware.
+
+📺 Slidebean
+
+👁️ 13K • 👍 486 • 💬 26 • ⏱️ 1:21 • 1d ago
+
+---
+
 **[Elon: This Robot Could Replace Surgeons👀 #elonmusk #ai #Robotics #Optimus #Innovation #surgeon](https://www.youtube.com/watch?v=BHKQFCh-7fg)**
 
 A bold prediction like this instantly sparks curiosity and debate across the world. The idea that advanced robotics and artificial ...
 
 📺 Billionaire Shots
 
-👁️ 10K • 👍 681 • 💬 89 • ⏱️ 0:36 • 19h ago
+👁️ 11K • 👍 717 • 💬 93 • ⏱️ 0:36 • 20h ago
 
 ---
 
@@ -234,53 +258,37 @@ Pan Motor's Wuji Hand packs twenty fully actuated joints into a sub six hundred 
 
 📺 Deepen
 
-👁️ 29K • 👍 473 • 💬 12 • ⏱️ 0:19 • 3d ago
+👁️ 29K • 👍 476 • 💬 12 • ⏱️ 0:19 • 3d ago
 
 ---
 
-**[Drag-and-drop welding robot.#industrial #welding #robot #spraying #stamping](https://www.youtube.com/watch?v=j3W4kIKere0)**
+**[How They&#39;re Building Robot Hands Like Human Muscles #robotics #innovation #engineering](https://www.youtube.com/watch?v=zcbY5VW4BYc)**
 
-📺 Lin of Brant robot 
+A Hungarian startup is generating buzz with its automated manufacturing system for building robots that's straight out of Westworld ...
 
-👁️ 25K • 👍 68 • ⏱️ 0:23 • 4d ago
+📺 Kalil 4.0
 
----
-
-**[Tesla Was Never a Car Company #teslaoptimus  #elonmusk  #teslarobot  #teslabotgen3 #humanoidrobots](https://www.youtube.com/watch?v=slqW7zBA6Oc)**
-
-They laughed when Elon Musk brought a man in a spandex suit on stage. But in 2026, nobody is laughing. Tesla was never a car ...
-
-📺 By 2050
-
-👁️ 663K • 👍 11K • 💬 263 • ⏱️ 1:00 • 2d ago
+👁️ 2K • 👍 122 • 💬 2 • ⏱️ 0:45 • 9h ago
 
 ---
 
-**[Tony Stark would hate this! 😂 #engineering #ironman #revrobotics #3dprinting](https://www.youtube.com/watch?v=13fah4TQXhw)**
+**[Elon Musk on Why Everyone Will Want an Optimus Robot by 2027](https://www.youtube.com/watch?v=dWRqUdVBKjE)**
 
-📺 Concept Bytes
+Will a robot soon be watching your children or caring for your parents? Elon Musk predicts a future where billions of humanoid ...
 
-👁️ 29K • 👍 2K • 💬 34 • ⏱️ 1:24 • 5d ago
+📺 SpaceTakers
 
----
-
-**[My Best War Robots Video [VORTEX NEMESIS]](https://www.youtube.com/watch?v=OMZUnCNZzaE)**
-
-War Robots Gameplay: My best WR Video: Ultimate VORTEX NEMESIS Neuer Deutscher Channel: ...
-
-📺 Manni-Gaming
-
-👁️ 7K • 👍 564 • 💬 166 • ⏱️ 27:59 • 14h ago
+👁️ 46K • 👍 896 • 💬 83 • ⏱️ 0:29 • 5d ago
 
 ---
 
-**[Boston Dynamics Tests the Limits of Atlas Robot&#39;s Full-Body Control and Mobility](https://www.youtube.com/watch?v=h-pNWy7v_qc)**
+**[Atlas Airborne | Boston Dynamics &amp; @rai-inst](https://www.youtube.com/watch?v=UNorxwlZlFk)**
 
-Boston Dynamics and the RAI Institute release a video demonstrating the All-Electric Atlas Robot's evolution away from a scripted ...
+Now that the Atlas enterprise platform is getting to work, the research version gets one last run in the sun. Our engineers made ...
 
-📺 CNET
+📺 Boston Dynamics
 
-👁️ 14K • 👍 311 • 💬 24 • ⏱️ 1:25 • 1d ago
+👁️ 1.3M • 👍 39K • 💬 4K • ⏱️ 1:38 • 3d ago
 
 ---
 
