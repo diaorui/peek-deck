@@ -3,14 +3,14 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-02-11T11:46:21.952327+00:00'
+updated: '2026-02-11T13:13:44.459152+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
+- social
 - cryptocurrency
 - news
-- social
 - videos
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** February 11, 2026 at 11:46 UTC  
+**Last Updated:** February 11, 2026 at 13:13 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -36,17 +36,17 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Price
 
-### $1,944.20
+### $1,953.81
 
 ---
 
 ## Ethereum Chart
 
-**24h:** -2.9%  
-**7d:** +6.9%  
-**30d:** -41.3%  
-**90d:** -37.2%  
-**1y:** -28.7%  
+**24h:** -3.5%  
+**7d:** +6.5%  
+**30d:** -41.5%  
+**90d:** -37.4%  
+**1y:** -29.0%  
 
 ---
 
@@ -72,7 +72,7 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-5h ago
+7h ago
 
 ---
 
@@ -80,7 +80,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 Hello folks! I drafted this smart contract visualizer tool. It shows the structure of the contract, a plain english explenation and an AI powered security analysis (screenshots below). The purpose would be double: for devs, easily understand and read other contract for learning purpose for users, double-check a contract before interacting with it There would be tons of possible improvements: expand code by clicking on the tile multi chain support support complex contract for many imports by exploding them What do you think? Does the tool have a reason to exist? :) https://preview.redd.it/rz5mi9qhquig1.png?width=1930&format=png&auto=webp&s=5b8c09f479a17e19dadcdad9d2eb4540937a8d83 https://preview.redd.it/2juw6bqhquig1.png?width=1934&format=png&auto=webp&s=1a3ed192e5391c60fb9a1094adb71f364d6eaecc https://preview.redd.it/2oi05cqhquig1.png?width=1940&format=png&auto=webp&s=2543b85dd1018625ec7e8a64c01be2235a8b31fd Thanks, Francesco
 
-10m ago
+1h ago
 
 ---
 
@@ -96,7 +96,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 Posted by Jacob Czepluch on February 10, 2026
 
-🔗 [Solidity Programming Language](https://www.soliditylang.org/blog/2026/02/10/solidity-developer-survey-2025-announcement/) • 11h ago
+🔗 [Solidity Programming Language](https://www.soliditylang.org/blog/2026/02/10/solidity-developer-survey-2025-announcement/) • 12h ago
 
 ---
 
@@ -144,7 +144,7 @@ World News, Stories By EtherWorld, Technical Explainers, Client News & Updates, 
 
 A bug fix turned into a personal comeback story of coding, parenting, and a small contribution to the open-source world.
 
-🔗 [EtherWorld.co](https://etherworld.co/the-bug-of-solving-bugs/) • 1d ago
+🔗 [EtherWorld.co](https://etherworld.co/the-bug-of-solving-bugs/) • 2d ago
 
 ---
 
@@ -156,7 +156,7 @@ A bug fix turned into a personal comeback story of coding, parenting, and a smal
 
 In a new post on X revisiting ideas he first outlined two years ago, Buterin argues that the push toward artificial general intelligence often resembles the kind of unchecked speed and scale that Ethereum itself was created to challenge.
 
-CoinDesk • 20h ago
+CoinDesk • 21h ago
 
 ---
 
@@ -164,7 +164,7 @@ CoinDesk • 20h ago
 
 Robinhood said developers will begin experimenting with applications on its Ethereum layer-2 network, while providing key technical feedback.
 
-Decrypt • 10h ago
+Decrypt • 11h ago
 
 ---
 
@@ -188,7 +188,7 @@ dlnews.com • 1d ago
 
 The Bitcoin and Ethereum prices have rebounded from last week’s lows, providing optimism that the bottom may be in. This comes amid accumulation from whales while the crypto ETFs have seen notable inflows following last week’s outflows. Why The Bitcoin And Ethereum Prices Are Climbing AgainThe Bitc…
 
-TradingView • 11h ago
+TradingView • 12h ago
 
 ---
 
@@ -196,13 +196,13 @@ TradingView • 11h ago
 
 Bitcoin (BTC), Ethereum (ETH), and Ripple (XRP) show signs of cautious stabilization on Wednesday after failing to close above their key resistance levels earlier this week. BTC trades below $69,000, while ETH and XRP also encountered rejection near major resistance levels.
 
-FXStreet • 7h ago
+FXStreet • 9h ago
 
 ---
 
 **[Ethereum Under Pressure As It Falls Below $2,000](https://seekingalpha.com/article/4868540-ethereum-under-pressure-as-it-falls-below-2000)**
 
-Seeking Alpha • 4h ago
+Seeking Alpha • 6h ago
 
 ---
 
@@ -218,7 +218,7 @@ The Block • 1d ago
 
 New York, United States, February 10th, 2026, ChainwireThe Enterprise Ethereum Alliance today announced that Polygon Labs, Et...
 
-markets.businessinsider.com • 16h ago
+markets.businessinsider.com • 17h ago
 
 ---
 
@@ -226,7 +226,7 @@ markets.businessinsider.com • 16h ago
 
 JPMorganChase, Citi and Custodia are among the banks that have built digital asset projects on the Ethereum blockchain.
 
-American Banker • 15h ago
+American Banker • 17h ago
 
 ---
 
@@ -240,7 +240,7 @@ This video provides a professional Elliott Wave and technical analysis of Ethere
 
 📺 More Crypto Online
 
-👁️ 2K • 👍 122 • 💬 7 • ⏱️ 4:00 • 7h ago
+👁️ 2K • 👍 122 • 💬 7 • ⏱️ 4:00 • 8h ago
 
 ---
 
@@ -258,7 +258,7 @@ If You Hold Crypto... GET READY! (watch before they delete this) ☝️ Become a
 
 📺 Zach Humphries
 
-👁️ 4K • 👍 503 • 💬 32 • ⏱️ 5:43 • 12h ago
+👁️ 4K • 👍 503 • 💬 32 • ⏱️ 5:43 • 13h ago
 
 ---
 
@@ -268,7 +268,7 @@ ETHEREUM ETH PRICE PREDICTION 2026 Join the Premium Signal Group for trade setup
 
 📺 Cilinix Crypto
 
-👁️ 161 • 👍 9 • ⏱️ 4:48 • 2h ago
+👁️ 161 • 👍 9 • ⏱️ 4:48 • 3h ago
 
 ---
 
@@ -278,7 +278,7 @@ CNBC"s MacKenzie Sigalos joins 'Squawk Box' to discuss the recent bitcoin volati
 
 📺 CNBC Television
 
-👁️ 69K • 👍 684 • 💬 831 • ⏱️ 6:36 • 19h ago
+👁️ 69K • 👍 684 • 💬 831 • ⏱️ 6:36 • 21h ago
 
 ---
 
@@ -288,7 +288,7 @@ My FREE Daily 5-Min Crypto Newsletter: https://www.cryptonutshell.com/subscribe 
 
 📺 Crypto Nutshell
 
-👁️ 13K • 👍 507 • 💬 43 • ⏱️ 19:39 • 20h ago
+👁️ 13K • 👍 507 • 💬 43 • ⏱️ 19:39 • 21h ago
 
 ---
 
@@ -308,7 +308,7 @@ Crypto News: Goldman Sachs crypto holdings disclosed in new filing which include
 
 📺 Thinking Crypto
 
-👁️ 4K • 👍 436 • 💬 54 • ⏱️ 21:01 • 7h ago
+👁️ 4K • 👍 436 • 💬 54 • ⏱️ 21:01 • 9h ago
 
 ---
 
@@ -318,7 +318,7 @@ TRADE STOCKS, FOREX AND CFDS ON PRIME XBT https://u.primexbt-markets.pro/Martini
 
 📺 TMG Trades
 
-👁️ 2K • 👍 163 • 💬 42 • ⏱️ 10:30 • 20h ago
+👁️ 2K • 👍 163 • 💬 42 • ⏱️ 10:30 • 21h ago
 
 ---
 
