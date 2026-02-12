@@ -3,13 +3,13 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-02-12T08:50:27.222862+00:00'
+updated: '2026-02-12T09:52:48.948978+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- cryptocurrency
 - news
+- cryptocurrency
 - videos
 - social
 ---
@@ -18,7 +18,7 @@ data_types:
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** February 12, 2026 at 08:50 UTC  
+**Last Updated:** February 12, 2026 at 09:52 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,17 +42,17 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** +0.9%  
-**7d:** -5.0%  
-**30d:** -41.6%  
-**90d:** -38.2%  
-**1y:** -26.6%  
+**24h:** +1.9%  
+**7d:** -4.3%  
+**30d:** -41.2%  
+**90d:** -37.7%  
+**1y:** -26.1%  
 
 ---
 
 ## Ethereum Market Stats
 
-**Market Cap:** $238.18B
+**Market Cap:** $238.21B
 Rank #2
 
 **Circulating Supply:** 120,692,542 ETH
@@ -62,7 +62,7 @@ No max supply
 -60.1%
 
 **All-Time Low:** $0.43
-+455645.0%
++455709.6%
 
 ---
 
@@ -72,7 +72,7 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-2h ago
+3h ago
 
 ---
 
@@ -80,7 +80,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 It's open source and live on Arbitrum One right now. Happy to answer any questions! https://etour.games Here's some gameplay screenshots: https://imgur.com/tPqmCpl https://imgur.com/cj7T0Zm https://imgur.com/AmbvLOH https://imgur.com/Z39Ix1L https://imgur.com/VWBbj51 https://imgur.com/YITii03 https://imgur.com/a/Wni0Ybu
 
-7h ago
+8h ago
 
 ---
 
@@ -88,13 +88,21 @@ It's open source and live on Arbitrum One right now. Happy to answer any questio
 
 Hello Everyone. I've agreed, in principle, to invest a small amount of money in a start up. I'm taking a small percentage of equity in the company, but also signing a SAFT where I need to provide an "Ethereum/BASE Wallet Address". This is already beyond my limited crypto knowledge. I downloaded a couple of apps that I think will do the job, currently going through Trust Wallet. What I am stumped with is what details I now provide. There was no registration on the app, when I click receive, i then have to choose what I want to receive. Is that the address that comes up for ETH? Or would I wait for the token to go live? Is that long alpha/number all that is required to receive/dispose of tokens - no password or secondary checks?
 
-4h ago
+5h ago
+
+---
+
+**[Vitalik’s ZK API Proposal Aims to Make Ethereum the Home for AI](https://www.reddit.com/r/ethereum/comments/1r2pd9l/vitaliks_zk_api_proposal_aims_to_make_ethereum/)**
+
+Vitalik Buterin proposes ZK API usage credits to make Ethereum the privacy-preserving infrastructure layer for AI and autonomous agents.
+
+🔗 [EtherWorld.co](https://etherworld.co/vitaliks-zk-api-proposal-aims-to-make-ethereum-the-home-for-ai/) • 1m ago
 
 ---
 
 **[Vitalik Buterin on the Future of AI and Ethereum’s Role in It](https://www.reddit.com/r/ethereum/comments/1r2anmr/vitalik_buterin_on_the_future_of_ai_and_ethereums/)**
 
-11h ago
+12h ago
 
 ---
 
@@ -110,15 +118,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 I am attending ETHDenver 2026 next week for the first time. Do y'all have any recommendation on which events are the best to go to? Main and side events? I've been scrolling through Luma and have signed up for a bunch, but would love the opinion of others going. Would welcome any recos :) For context, working in a multi-stage crypto VC, so looking for sourcing opportunities and meeting cool people!
 
-12h ago
-
----
-
-**[everyone talks about eth l2s. what about bitcoin l2s? is stx actually interesting?](https://www.reddit.com/r/ethereum/comments/1r2lh6f/everyone_talks_about_eth_l2s_what_about_bitcoin/)**
-
-bitcoin has a $1T+ market cap… and basically no native defi. stacks (stx) is trying to change that, smart contracts anchored to bitcoin, btc-secured, all that. the thesis sounds simple: if even a small % of btc liquidity flows into btc-native defi, that’s huge but i keep wondering: does bitcoin culture even want defi? is stx really a btc l2, or just another chain marketing itself that way? is anyone actually building or using anything meaningful on it? trying to figure out if this is an early narrative… or something btc maxis will never embrace. wdyt??
-
-2h ago
+13h ago
 
 ---
 
@@ -126,7 +126,15 @@ bitcoin has a $1T+ market cap… and basically no native defi. stacks (stx) is t
 
 We invite you to join us at DWeb Camp!
 
-🔗 [dwebcamp.org](https://dwebcamp.org/berlin-2026/) • 8h ago
+🔗 [dwebcamp.org](https://dwebcamp.org/berlin-2026/) • 9h ago
+
+---
+
+**[everyone talks about eth l2s. what about bitcoin l2s? is stx actually interesting?](https://www.reddit.com/r/ethereum/comments/1r2lh6f/everyone_talks_about_eth_l2s_what_about_bitcoin/)**
+
+bitcoin has a $1T+ market cap… and basically no native defi. stacks (stx) is trying to change that, smart contracts anchored to bitcoin, btc-secured, all that. the thesis sounds simple: if even a small % of btc liquidity flows into btc-native defi, that’s huge but i keep wondering: does bitcoin culture even want defi? is stx really a btc l2, or just another chain marketing itself that way? is anyone actually building or using anything meaningful on it? trying to figure out if this is an early narrative… or something btc maxis will never embrace. wdyt??
+
+4h ago
 
 ---
 
@@ -134,15 +142,7 @@ We invite you to join us at DWeb Camp!
 
 Hello folks! I drafted this smart contract visualizer tool. It shows the structure of the contract, a plain english explenation and an AI powered security analysis (screenshots below). The purpose would be double: for devs, easily understand and read other contract for learning purpose for users, double-check a contract before interacting with it There would be tons of possible improvements: expand code by clicking on the tile multi chain support support complex contract for many imports by exploding them What do you think? Does the tool have a reason to exist? :) https://preview.redd.it/rz5mi9qhquig1.png?width=1930&format=png&auto=webp&s=5b8c09f479a17e19dadcdad9d2eb4540937a8d83 https://preview.redd.it/2juw6bqhquig1.png?width=1934&format=png&auto=webp&s=1a3ed192e5391c60fb9a1094adb71f364d6eaecc https://preview.redd.it/2oi05cqhquig1.png?width=1940&format=png&auto=webp&s=2543b85dd1018625ec7e8a64c01be2235a8b31fd Thanks, Francesco
 
-21h ago
-
----
-
-**[Scalable Go Service for Canonical Ethereum Block Streaming and Event Pipelines](https://www.reddit.com/r/ethereum/comments/1r29vkh/scalable_go_service_for_canonical_ethereum_block/)**
-
-Hey everyone! I’ve been working on an open-source project called blockscan-ethereum-service, written in Go: https://github.com/pancudaniel7/blockscan-ethereum-service What it does It’s a production-grade microservice that ingests Ethereum blocks in real time and streams them into Kafka as canonical block events. It’s built with performance, reliability, and horizontal scalability in mind, making it a strong fit for backend systems that depend on on-chain data. Why it matters Many existing block scanners are heavy, highly opinionated, or not designed for real-world backend architectures. This service focuses on: • Real-time block ingestion via WebSocket subscriptions • Partition-aware Kafka publishing with effectively-once delivery semantics • Reorg awareness, emitting tombstone and update events on chain reorganizations • Durable coordination using Redis markers • Observability with structured logs, metrics, and traces Who might find it useful • Go developers building Web3 backends • Teams designing custom Ethereum data pipelines • Anyone integrating blockchain data into event-driven systems If you check it out and find it useful, I’d truly appreciate a star on the repo. Happy to answer questions or discuss the design and architecture!
-
-11h ago
+22h ago
 
 ---
 
@@ -194,11 +194,11 @@ Decrypt • 2d ago
 
 On-chain data shows the Ethereum wallets with more than 1,000 ETH have reduced their holdings over the last eleven weeks, shedding 1.5% of the ETH supply.Ethereum Whales Have Distributed Tokens Equivalent To 1.5% Of The SupplyAs explained by on-chain analytics firm Santiment in an X post, Ethereum…
 
-TradingView • 12h ago
+TradingView • 13h ago
 
 ---
 
-**[Bitcoin, Ethereum, XRP Fall. Why There’s Hope for a Crypto Rally.](https://www.barrons.com/articles/bitcoin-price-ethereum-xrp-crypto-c754458e?gaa_at=eafs&gaa_n=AWEtsqcNWnMNL3A00tR8DYjNBhoj_4R-BI4AHs5qSaWxjgn19efOqbbeXtdV&gaa_ts=698d97bd&gaa_sig=z8wO83w4Tb7T0j-8zkAGdtiTYCaeoqD8YOp_T1aZRRGX2iIHRMjzZTYhbpvXrH5gyG55qLCOSBtAhsbe4YaRiQ%3D%3D)**
+**[Bitcoin, Ethereum, XRP Fall. Why There’s Hope for a Crypto Rally.](https://www.barrons.com/articles/bitcoin-price-ethereum-xrp-crypto-c754458e?gaa_at=eafs&gaa_n=AWEtsqcJtoLGjw5Th7sRF4AZXETaiRXl2IbufijBW2hk3LEc8MSSN4NAjPK4&gaa_ts=698da65d&gaa_sig=ts8nwa4F7NJM0tb7V4wFSUIaWFAyhZg-JE-8vMaOtMSpLND8hSJUSiRpTHRrjeRzxeg5PlLLC-qDES6UpVjngA%3D%3D)**
 
 Barron's • 2d ago
 
@@ -220,9 +220,11 @@ The Block • 1d ago
 
 ---
 
-**[Ethereum Under Pressure As It Falls Below $2,000](https://seekingalpha.com/article/4868540-ethereum-under-pressure-as-it-falls-below-2000)**
+**[This crypto to flip Bitcoin and Ethereum for top spot in market cap, strategist says](https://finbold.com/this-crypto-to-flip-bitcoin-and-ethereum-for-top-spot-in-market-cap-strategist-says/)**
 
-Seeking Alpha • 1d ago
+Bitcoin (BTC) and Ethereum’s (ETH) dominance as the top cryptocurrencies might be short-lived, according to insights by Mike McGlone.
+
+Finbold • 19h ago
 
 ---
 
@@ -236,7 +238,7 @@ BlackRock + Joe Rogan + Ethereum.. Biggest Crypto News Happening Now!! Become a 
 
 📺 Altcoin Daily
 
-👁️ 30K • 👍 2K • 💬 232 • ⏱️ 9:41 • 9h ago
+👁️ 36K • 👍 2K • 💬 252 • ⏱️ 9:41 • 10h ago
 
 ---
 
@@ -246,7 +248,7 @@ Tom Lee, Co-Founder of Fundstrat and Chairman of Bitmine Immersion (NYSE: BMNR),
 
 📺 The Crypto Times
 
-👁️ 8K • 👍 262 • 💬 56 • ⏱️ 15:00 • 16h ago
+👁️ 10K • 👍 290 • 💬 62 • ⏱️ 15:00 • 17h ago
 
 ---
 
@@ -256,17 +258,7 @@ This video provides a professional Elliott Wave and technical analysis of Ethere
 
 📺 More Crypto Online
 
-👁️ 3K • 👍 194 • 💬 7 • ⏱️ 7:37 • 14h ago
-
----
-
-**[If You Hold Bitcoin &amp; Ethereum... GET READY! (watch before they delete this) ☝️](https://www.youtube.com/watch?v=RPv313nfVs0)**
-
-If You Hold Crypto... GET READY! (watch before they delete this) ☝️ Become a channel member & get access to perks: ...
-
-📺 Altcoin Daily
-
-👁️ 72K • 👍 3K • 💬 217 • ⏱️ 11:47 • 2d ago
+👁️ 3K • 👍 200 • 💬 7 • ⏱️ 7:37 • 15h ago
 
 ---
 
@@ -276,17 +268,17 @@ If you own XRP, SOL, ETH or Bitcoin Watch This Immediately! CoinDuel AI - This A
 
 📺 Zach Humphries
 
-👁️ 5K • 👍 590 • 💬 123 • ⏱️ 5:43 • 1d ago
+👁️ 6K • 👍 594 • 💬 135 • ⏱️ 5:43 • 1d ago
 
 ---
 
-**[Ethereum CRASH To $1400 Confirmed?](https://www.youtube.com/watch?v=VmvXBv-RS6o)**
+**[If You Hold Bitcoin &amp; Ethereum... GET READY! (watch before they delete this) ☝️](https://www.youtube.com/watch?v=RPv313nfVs0)**
 
-Get $450 Off Our New AI Indicators: https://tradeconfidentportal.io/indicators/... Join Trade Confident: Get 25% Off Your 1st ...
+If You Hold Crypto... GET READY! (watch before they delete this) ☝️ Become a channel member & get access to perks: ...
 
-📺 Trade Confident
+📺 Altcoin Daily
 
-👁️ 518 • 👍 27 • 💬 15 • ⏱️ 5:57 • 12h ago
+👁️ 72K • 👍 3K • 💬 216 • ⏱️ 11:47 • 2d ago
 
 ---
 
@@ -296,7 +288,7 @@ My FREE Daily 5-Min Crypto Newsletter: https://www.cryptonutshell.com/subscribe 
 
 📺 Crypto Nutshell
 
-👁️ 16K • 👍 603 • 💬 58 • ⏱️ 19:39 • 1d ago
+👁️ 17K • 👍 606 • 💬 58 • ⏱️ 19:39 • 1d ago
 
 ---
 
@@ -306,7 +298,17 @@ ETHEREUM ETH PRICE PREDICTION 2026 Join the Premium Signal Group for trade setup
 
 📺 Cilinix Crypto
 
-👁️ 2K • 👍 35 • 💬 20 • ⏱️ 4:48 • 23h ago
+👁️ 2K • 👍 35 • 💬 18 • ⏱️ 4:48 • 1d ago
+
+---
+
+**[Why People Doubt XRP Can Explode Like ETH](https://www.youtube.com/watch?v=u2UnNCd8Foo)**
+
+ETH climbed single to three digits in 12 months, Solana in nine. Same liquidity mechanics apply to XRP. Total supply confuses ...
+
+📺 Jake Claver
+
+👁️ 25K • 👍 1K • 💬 148 • ⏱️ 1:17 • 11h ago
 
 ---
 
@@ -316,17 +318,17 @@ CNBC"s MacKenzie Sigalos joins 'Squawk Box' to discuss the recent bitcoin volati
 
 📺 CNBC Television
 
-👁️ 92K • 👍 829 • 💬 983 • ⏱️ 6:36 • 1d ago
+👁️ 93K • 👍 839 • 💬 982 • ⏱️ 6:36 • 1d ago
 
 ---
 
-**[BITCOIN &amp; ALTCOINS: This Could Get UGLY (Prepare Now)!!! - Bitcoin News Today, Ethereum &amp; Altcoins](https://www.youtube.com/watch?v=9fZbCzlkjbo)**
+**[Ethereum CRASH To $1400 Confirmed?](https://www.youtube.com/watch?v=VmvXBv-RS6o)**
 
-BITCOIN & ALTCOINS: This Could Get UGLY (Prepare Now)!!! - Bitcoin News Today, Ethereum & Altcoins *Bitunix* ...
+Get $450 Off Our New AI Indicators: https://tradeconfidentportal.io/indicators/... Join Trade Confident: Get 25% Off Your 1st ...
 
-📺 Crypto World
+📺 Trade Confident
 
-👁️ 7K • 👍 296 • 💬 164 • ⏱️ 21:21 • 14h ago
+👁️ 578 • 👍 27 • 💬 15 • ⏱️ 5:57 • 13h ago
 
 ---
 

@@ -3,13 +3,13 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-02-12T08:50:27.216974+00:00'
+updated: '2026-02-12T09:52:48.943019+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- cryptocurrency
 - news
+- cryptocurrency
 - videos
 - social
 ---
@@ -18,7 +18,7 @@ data_types:
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** February 12, 2026 at 08:50 UTC  
+**Last Updated:** February 12, 2026 at 09:52 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,33 +38,33 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $67,111.62
+### $67,066.89
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** +0.2%  
-**7d:** -5.1%  
-**30d:** -30.9%  
-**90d:** -29.9%  
-**1y:** -30.6%  
+**24h:** +1.5%  
+**7d:** -4.5%  
+**30d:** -30.5%  
+**90d:** -29.4%  
+**1y:** -30.2%  
 
 ---
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1342.51B
+**Market Cap:** $1345.93B
 Rank #1
 
-**Circulating Supply:** 19,987,975 BTC
+**Circulating Supply:** 19,988,059 BTC
 95.2% of max
 
 **All-Time High:** $126,080.00
--46.7%
+-46.6%
 
 **All-Time Low:** $67.81
-+98953.2%
++99187.7%
 
 ---
 
@@ -81,13 +81,21 @@ Rank #1
 
 It's estimated 80% of the price decline seen in the past 30 days is from derivative trading - leveraged bets that don't actually touch real bitcoin. They just get to push price down and do it by higher volume than what's being bet in real value terms. But did you know holding bitcoin on an exchange helps derivatives continue to trade like this? When you remove actual bitcoin from exchanges, it pulls out liquidity and squeezes the paper bets. When evaluating risks on shorts contracts that need to settle, a contributing factor is how much bitcoin is sitting on exchanges, regardless of if you have an open order. When synthetic exposure grows faster than actual bitcoin on exchanges... bad stuff happens to those who short bitcoin. It doesn't work the other way around. There's no inverse of having higher ratio of long bets in derivatives and not enough bitcoin liquidity.
 
-12h ago
+13h ago
 
 ---
 
 **[Anyone else buying the dip and hodling?](https://www.reddit.com/r/Bitcoin/comments/1r21itv/anyone_else_buying_the_dip_and_hodling/)**
 
 Just saw Bitcoin was on sale and decided to do the ol "buy and hodl".
+
+17h ago
+
+---
+
+**[Guys, I want to give you my strategy to go ALL IN on BTC.](https://www.reddit.com/r/Bitcoin/comments/1r23zhg/guys_i_want_to_give_you_my_strategy_to_go_all_in/)**
+
+In short, my strategy is: set a target price (like 65k), then lower my entry by 2k every time it reaches it, regretting not entering as soon as it bounces by 5k, ending up waiting for it to correct by 2k during the BULL RANK... To be satisfied with buying at ATH in about 4 years... What do you think?
 
 16h ago
 
@@ -97,15 +105,15 @@ Just saw Bitcoin was on sale and decided to do the ol "buy and hodl".
 
 As all bitcoiners know, bear markets are gigantic opportunities to stack cheap sats. But even if you know this, you might still squander the opportunity in one of the following ways: 1) Using Leverage "If bitcoin falls to $40k, I'm going to take out a second mortgage for this generational buying opportunity!" If this is you, please read this section carefully. Every time there is a bear market in bitcoin, the people who got sucked in at bull market highs because of FOMO are usually the first ones to get desperate in bear markets. They just bought the top and now they're trying to catch the falling knife on the way down. Do not mistake this coping mechanism for diamond hand conviction. If you use leverage to buy bitcoin, most of the time you will get destroyed. Why? Because despite all hopeful claims to the contrary ("this time is different!"), bitcoin remains one of the most volatile major assets in finance. Huge volatility and multi-year low prices will cause you major stress as you struggle to add collateral during downswings you thought weren't going to happen. All when you could have just kept buying spot bitcoin, totally stress-free. Want to know what happened last time? I detailed my personal account of the FTX collapse-driven bitcoin bear market in Daily Stack #1: Bear Market Thoughts - Flashback to 2022 (can check that out in my subreddit if you wish; I don't want to link it here out of respect for this subreddit's rules). 2) Panic Buying for Small Dips If your plan is to throw all your spare cash into bitcoin whenever there's a red day, you'll be out of cash by the end of this week (or sooner). Now, that's not the worst thing in the world (at least you stacked some sats), but here's the key thing you're missing: During bitcoin bear markets, your spare cash is basically a call option on other people's fear. To explain this for the non-finance natives out there, a call option gives you the right (but not the obligation) to buy an asset for a specific price (the strike price). People use call options if they think the price of an asset will go way up past their strike price in the future, so when it does they can exercise their call option to acquire the now expensive asset at a huge discount to its market price. Your spare cash is basically doing the same thing for you during a bitcoin bear market. Most people think as soon as we have a 5% drop, they have to panic buy the dip because it might never drop that much again. But panic buying every 5% drop is the same as betting that this bear market will be different from all five of the previous bear markets. "This time will be different" has a very bad track record in bitcoin's history. 3) Waiting for the "Perfect Bottom" Let's be clear: panic buying for small dips could be inefficient, but not buying at all could be an even bigger mistake. Bitcoin's immense volatility can surprise everyone in either direction, up or down. So, the most logical approach is to set a small recurring purchase (known as dollar cost averaging or "DCA" for short) and keep some dry powder in case there's another true market panic and bitcoin falls to unthinkable levels. That's when you can exercise your call option on other people's fear and get the most sats possible.
 
-16h ago
+17h ago
 
 ---
 
-**[Guys, I want to give you my strategy to go ALL IN on BTC.](https://www.reddit.com/r/Bitcoin/comments/1r23zhg/guys_i_want_to_give_you_my_strategy_to_go_all_in/)**
+**[BlackRock exec says 1% crypto allocation in Asia could unlock $2 trillion in new flows](https://www.reddit.com/r/Bitcoin/comments/1r2nepp/blackrock_exec_says_1_crypto_allocation_in_asia/)**
 
-In short, my strategy is: set a target price (like 65k), then lower my entry by 2k every time it reaches it, regretting not entering as soon as it bounces by 5k, ending up waiting for it to correct by 2k during the BULL RANK... To be satisfied with buying at ATH in about 4 years... What do you think?
+BlackRock exec says 1% crypto allocation in Asia could unlock $2 trillion in new flows
 
-15h ago
+🔗 [s.followin.io](https://s.followin.io/s/yYHesWRHFD) • 2h ago
 
 ---
 
@@ -113,7 +121,21 @@ In short, my strategy is: set a target price (like 65k), then lower my entry by 
 
 Here goes my drama. I’m not going to lie, I’m a firm believer long term. I’ve done my research, I understand the thesis, and I’m not suddenly flipping bearish because of a few red days. But man, staring at these candlesticks lately is painful. Even if you believe in the bigger picture, watching price bleed like this messes with your head a bit. I’m not selling. Just admitting it doesn’t feel great in the moment.
 
-17h ago
+18h ago
+
+---
+
+**[Spending sats at the farmers market in El Zonte](https://www.reddit.com/r/Bitcoin/comments/1r2niwb/spending_sats_at_the_farmers_market_in_el_zonte/)**
+
+1h ago
+
+---
+
+**[Is anyone dropping their ENTIRE tax return on Bitcoin?](https://www.reddit.com/r/Bitcoin/comments/1r2agh5/is_anyone_dropping_their_entire_tax_return_on/)**
+
+I hear a lot of talk, but is anyone willing to put their money where their mouth is and prove that they're a TRUE believer?
+
+12h ago
 
 ---
 
@@ -125,33 +147,11 @@ Aight look, nobody’s asking you to quit your job and run a node. But if you ha
 
 ---
 
-**[Is anyone dropping their ENTIRE tax return on Bitcoin?](https://www.reddit.com/r/Bitcoin/comments/1r2agh5/is_anyone_dropping_their_entire_tax_return_on/)**
-
-I hear a lot of talk, but is anyone willing to put their money where their mouth is and prove that they're a TRUE believer?
-
-11h ago
-
----
-
 **[Lowest fear and greed index ever today: 5](https://www.reddit.com/r/Bitcoin/comments/1r2ekdw/lowest_fear_and_greed_index_ever_today_5/)**
 
 From what I am seeing: https://alternative.me/crypto/fear-and-greed-index/ we just just got the lowest fear and greed score ever: 5 https://preview.redd.it/8vnse0l6jyig1.png?width=722&format=png&auto=webp&s=bf1cd65764d691ded626c82771a355d080635500
 
-8h ago
-
----
-
-**[This drawdown is painful, but it may be the process of washing out levered software capital and letting Bitcoin finally trade like the hard money it is](https://www.reddit.com/r/Bitcoin/comments/1r1zqz5/this_drawdown_is_painful_but_it_may_be_the/)**
-
-Credit https://x.com/jackmallers
-
-17h ago
-
----
-
-**[Spending sats at the farmers market in El Zonte](https://www.reddit.com/r/Bitcoin/comments/1r2niwb/spending_sats_at_the_farmers_market_in_el_zonte/)**
-
-57m ago
+9h ago
 
 ---
 
@@ -159,53 +159,59 @@ Credit https://x.com/jackmallers
 
 ## Google News: "bitcoin"
 
-**[Activity Observed In Bitcoin Account Connected to Nancy Guthrie Ransom Note](https://people.com/activity-observed-in-bitcoin-account-connected-to-nancy-guthrie-ransom-note-11904191)**
-
-Activity has been observed in the Bitcoin account associated with the ransom note sent by Nancy Guthrie's suspected kidnappers.
-
-People.com • 1d ago
-
----
-
 **[Crypto lender BlockFills suspends withdrawals amid faltering bitcoin price](https://www.reuters.com/legal/government/crypto-lender-blockfills-suspends-withdrawals-amid-faltering-bitcoin-price-2026-02-11/)**
 
-Reuters • 14h ago
+Reuters • 15h ago
 
 ---
 
-**[Another crypto company halts withdrawals as markets slide](https://www.thestreet.com/crypto/markets/another-crypto-company-halts-withdrawals-as-markets-slide)**
+**[Bitcoin prices fall even more: Why 'Tinkerbell Effect' is fading](https://finance.yahoo.com/video/bitcoin-prices-fall-even-more-161917348.html)**
 
-Volatility is once again putting crypto markets under pressure.
+Bitcoin (BTC-USD) prices continue to fall as the so-called "Tinkerbell Effect" fades, dropping on Wednesday morning to just under $66,000 and hovering around $67,000. Deutsche Bank senior strategist Marion Laboure sits down with Yahoo Finance Executive Editor Brian Sozzi and Yahoo Finance Senior Reporter Ines Ferré to explain what the "Tinkerbell Effect" is, what key factors are driving the shift, and what it all means for the broader crypto market. To watch more expert insights and analysis on the latest market action, check out more Opening Bid.
 
-thestreet.com • 15h ago
-
----
-
-**[Crypto lender halted withdrawals during Bitcoin’s fall last week](https://www.tradingview.com/news/cointelegraph:42cb645fa094b:0-crypto-lender-halted-withdrawals-during-bitcoin-s-fall-last-week/)**
-
-Institution-focused crypto lending platform BlockFills announced it halted customer deposits and withdrawals last week as Bitcoin and the broader crypto market continued to tumble. The suspension, which remains in effect, was intended to protect clients and restore liquidity on the platform, BlockF…
-
-TradingView • 4h ago
+Yahoo Finance • 17h ago
 
 ---
 
-**[Bitcoin falls to $69,000 as crypto market shows 'early stages of bottoming'](https://finance.yahoo.com/news/bitcoin-falls-to-69000-as-crypto-market-shows-early-stages-of-bottoming-163932366.html)**
+**[Bitcoin bounce fades as it hovers around $66,000](https://www.cnbc.com/2026/02/11/bitcoin-price-today-crypto-volatility.html)**
 
-Bitcoin prices hovered around $69,000, with one analyst suggesting that the crypto market may be approaching its bottom.
+Market watchers said bitcoin is showing signs that its historical four-year cycle around halving remains intact.
 
-Yahoo Finance • 1d ago
+CNBC • 23h ago
+
+---
+
+**[Bitcoin News: 10X Research: Bitcoin Reenters Liquidity Trap Zone, Reversal Possible After $60K Gamma Clears](https://www.binance.com/en/square/post/290806631404114)**
+
+Binance • 17m ago
+
+---
+
+**[Bitcoin, XRP, Ether Are Falling Again. Why Cryptos May Soon Get a Boost.](https://www.barrons.com/articles/bitcoin-xrp-ether-cryptos-jobs-report-343266f8?gaa_at=eafs&gaa_n=AWEtsqerYwdTy_CLwDUAi49Lw6WLnHh6ZYGvxKjD7LBY0AfxyIV6m6u2MdNn&gaa_ts=698da65b&gaa_sig=lvmuiAuoqV55J4J_YIc3RFSePN5WNMmgRayx_O4dwa_EssqPogV54tspgBdaf97XWCiJGIpnZGTsjakI1IKw2A%3D%3D)**
+
+Barron's • 12h ago
 
 ---
 
 **[Bitcoin, Big Tech and the AI Trade Rollercoaster](https://www.bloomberg.com/news/articles/2026-02-12/why-bitcoin-and-tech-stocks-are-under-pressure-australia-podcast)**
 
-Bloomberg.com • 5h ago
+Bloomberg • 7h ago
 
 ---
 
-**[Bitcoin, XRP, Ether Are Falling Again. Why Cryptos May Soon Get a Boost.](https://www.barrons.com/articles/bitcoin-xrp-ether-cryptos-jobs-report-343266f8?gaa_at=eafs&gaa_n=AWEtsqeYETL7ovZ0A1si5OhWpJpx9nVFo2pspt193zT9O8oeQ811b1N3n4Ud&gaa_ts=698d97bb&gaa_sig=Cby0deS-qV7y3Mhb_d0lMGpZ4MiuhtL-fc-kOUMb-uTfkrvAXNWQWuNnScOpWCeQsrvyVVBZcXmfBM-5CJwL3A%3D%3D)**
+**[Why Bitcoin Is Crashing](https://www.thefp.com/p/why-bitcoin-is-crashing)**
 
-Barron's • 11h ago
+Just as in traditional markets, borrowed money set off a cascade of losses.
+
+The Free Press • 9h ago
+
+---
+
+**[Activity Observed In Bitcoin Account Connected to Nancy Guthrie Ransom Note](https://people.com/activity-observed-in-bitcoin-account-connected-to-nancy-guthrie-ransom-note-11904191)**
+
+Activity has been observed in the Bitcoin account associated with the ransom note sent by Nancy Guthrie's suspected kidnappers.
+
+People.com • 1d ago
 
 ---
 
@@ -221,15 +227,7 @@ CNBC • 1d ago
 
 MicroStrategy stock sinks as Michael Saylor says the company will buy Bitcoin every quarter forever. Here’s why MSTR shares are worth buying at current levels.
 
-Yahoo Finance • 18h ago
-
----
-
-**[Strategy's STRC returns to $100, poised to unlock more bitcoin accumulation](https://www.coindesk.com/markets/2026/02/12/strategy-s-strc-returns-to-usd100-poised-to-unlock-more-bitcoin-accumulation)**
-
-The perpetual preferred STRC hits $100 par amid bitcoin downturn, enabling potential further BTC purchases for the company.
-
-CoinDesk • 4h ago
+Yahoo Finance • 19h ago
 
 ---
 
@@ -319,17 +317,17 @@ Ray Dalio says the monetary order is breaking down and the signs are everywhere.
 
 📺 Simply Bitcoin
 
-👁️ 15K • 👍 1K • 💬 165 • ⏱️ 23:25 • 8h ago
+👁️ 18K • 👍 2K • 💬 185 • ⏱️ 23:25 • 9h ago
 
 ---
 
-**[Expect The Bitcoin Bottom By….. (With Ben Cowen)](https://www.youtube.com/watch?v=ExdISUy0-O8)**
+**[🚨 MICHAEL SAYLOR SAID THIS ABOUT BITCOIN TODAY!!!](https://www.youtube.com/watch?v=AUflakPWtQI)**
 
-Ran and Ben Cowen sit down to tackle the 2026 crypto roadmap and the shifting "pulse" of the four-year cycle. They explore why ...
+LIMITED TIME: ✓ Bitunix (no kyc, $10k bonus): https://www.bitunix.com/register?vipCode=AltcoinDaily 50% deposit bonus on ...
 
-📺 Crypto Banter
+📺 Altcoin Daily
 
-👁️ 43K • 👍 2K • 💬 103 • ⏱️ 40:21 • 16h ago
+👁️ 32K • 👍 740 • 💬 91 • ⏱️ 1:14 • 15h ago
 
 ---
 
@@ -339,17 +337,17 @@ We're watching the worst crypto crash since the FTX scandal. Ben McKenzie explai
 
 📺 More Perfect Union
 
-👁️ 304K • 👍 24K • 💬 2K • ⏱️ 2:50 • 13h ago
+👁️ 379K • 👍 27K • 💬 2K • ⏱️ 2:50 • 14h ago
 
 ---
 
-**[&#39;DELEVERAGING&#39;: Bitcoin crashes as White House pushes crypto rules](https://www.youtube.com/watch?v=7unzktc0ZX4)**
+**[Expect The Bitcoin Bottom By….. (With Ben Cowen)](https://www.youtube.com/watch?v=ExdISUy0-O8)**
 
-MARA CEO Fred Thiel discusses the importance of digital asset regulation and his firm's growth plans on 'Mornings with Maria.
+Ran and Ben Cowen sit down to tackle the 2026 crypto roadmap and the shifting "pulse" of the four-year cycle. They explore why ...
 
-📺 Fox Business Clips
+📺 Crypto Banter
 
-👁️ 104K • 👍 2K • 💬 2K • ⏱️ 7:23 • 18h ago
+👁️ 46K • 👍 2K • 💬 110 • ⏱️ 40:21 • 17h ago
 
 ---
 
@@ -359,7 +357,27 @@ Watch this video where I break down volatility: https://youtu.be/Z_vlwus19-8?si=
 
 📺 Mark Moss
 
-👁️ 118K • 👍 5K • 💬 523 • ⏱️ 19:19 • 1d ago
+👁️ 119K • 👍 5K • 💬 524 • ⏱️ 19:19 • 1d ago
+
+---
+
+**[&#39;DELEVERAGING&#39;: Bitcoin crashes as White House pushes crypto rules](https://www.youtube.com/watch?v=7unzktc0ZX4)**
+
+MARA CEO Fred Thiel discusses the importance of digital asset regulation and his firm's growth plans on 'Mornings with Maria.
+
+📺 Fox Business Clips
+
+👁️ 107K • 👍 2K • 💬 2K • ⏱️ 7:23 • 19h ago
+
+---
+
+**[Bitcoin: Dubious Speculation](https://www.youtube.com/watch?v=GPyKx7pthe4)**
+
+Let us talk about this Bitcoin bear market and speculate on what Bitcoin price action is doing. Into The Cryptoverse Premium (Use ...
+
+📺 Benjamin Cowen
+
+👁️ 99K • 👍 6K • 💬 326 • ⏱️ 13:07 • 1d ago
 
 ---
 
@@ -373,33 +391,13 @@ Bitcoin is about to break a major support range and things might be getting wors
 
 ---
 
-**[Bitcoin ETFs FLIPPED (Big Uniswap Move)](https://www.youtube.com/watch?v=XLOIz6Dk5tA)**
+**[&#39;DIGITAL GOLD&#39;: How younger generations are &#39;embracing&#39; Bitcoin](https://www.youtube.com/watch?v=pOXmwGyZFZ8)**
 
-The Bitcoin ETF landscape has officially FLIPPED! Is this the start of the rally, or the ultimate "bear trap" before we crash toward ...
+'Coin Stories with Natalie Brunell' host cuts through the 'education gap' about Bitcoin as the crypto retreat persists on 'Making ...
 
-📺 Discover Crypto
+📺 Fox Business
 
-👁️ 8K • 👍 464 • 💬 85 • ⏱️ 1:54:39 • 15h ago
-
----
-
-**[Bitcoin to $38,000? Pattern Shows Potential Fall (&amp; Rise) #shorts](https://www.youtube.com/watch?v=nWzPNVpOK_g)**
-
-is on Kiana Danial's (@InvestDiva) radar for a further drop in Bitcoin price. If that breaks, she says brace for $38000. At the same ...
-
-📺 Schwab Network
-
-👁️ 5K • 👍 165 • 💬 14 • ⏱️ 2:11 • 1d ago
-
----
-
-**[Behind the volatility in crypto: Bitcoin hovering around $69,000, ethereum near $2,000](https://www.youtube.com/watch?v=xCK9MHY6Eh8)**
-
-CNBC"s MacKenzie Sigalos joins 'Squawk Box' to discuss the recent bitcoin volatility.
-
-📺 CNBC Television
-
-👁️ 92K • 👍 829 • 💬 983 • ⏱️ 6:36 • 1d ago
+👁️ 7K • 👍 194 • 💬 158 • ⏱️ 4:46 • 5h ago
 
 ---
 
@@ -409,7 +407,7 @@ Bitcoin #Crypto #Finance Today's Bitcoin selloff wasn't just another red candle.
 
 📺 The Wolf Of All Streets
 
-👁️ 25K • 👍 1K • 💬 398 • ⏱️ 27:34 • 18h ago
+👁️ 26K • 👍 1K • 💬 406 • ⏱️ 27:34 • 19h ago
 
 ---
 
