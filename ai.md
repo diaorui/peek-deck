@@ -3,14 +3,14 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-02-12T13:10:59.530625+00:00'
+updated: '2026-02-12T14:32:03.589433+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- repositories
-- news
 - social
+- news
+- repositories
 - videos
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 AI news, discussions, and developments
 
-**Last Updated:** February 12, 2026 at 13:10 UTC  
+**Last Updated:** February 12, 2026 at 14:32 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -37,14 +37,6 @@ AI news, discussions, and developments
 
 ## Reddit: r/artificial
 
-**[Six US states now have bills to pause data center construction. New York just introduced a three-year moratorium.](https://www.reddit.com/r/artificial/comments/1r2rxrn/six_us_states_now_have_bills_to_pause_data_center/)**
-
-Will this be a problem for future ai development?
-
-🔗 [xcancel.com](https://xcancel.com/unusual_whales/status/2021196701240000653?s=20) • 52m ago
-
----
-
 **[Mathematicians issue a major challenge to AI—show us your work](https://www.reddit.com/r/artificial/comments/1r1w56d/mathematicians_issue_a_major_challenge_to_aishow/)**
 
 Frustrated by the AI industry’s claims of proving math results without offering transparency, a team of leading academics has proposed a better way
@@ -53,19 +45,27 @@ Frustrated by the AI industry’s claims of proving math results without offerin
 
 ---
 
+**[Built a geolocation tool that can find coordinates of any image within 3 minutes (Waitlist)](https://www.reddit.com/r/artificial/comments/1r2tfj2/built_a_geolocation_tool_that_can_find/)**
+
+Hey guys, Thank you for you immense love and support on the previous two posts regarding Netryx. Bringing this responsibly to the consumer and making Netryx run locally will be a huge challenge, I'm currently working on it and I should be able to solve this in a month. I've attached the same demo for people seeing this post for the first time. I would appreciate various suggestions and feedback regarding the pricing etc. If you need the link for the waitlist, dm.
+
+1h ago
+
+---
+
 **[AI helps humans have a 20-minute "conversation" with a humpback whale named Twain](https://www.reddit.com/r/artificial/comments/1r2h409/ai_helps_humans_have_a_20minute_conversation_with/)**
 
 In a remarkable encounter, human scientists had what they describe as a "conversation" with a humpback whale named Twain.
 
-🔗 [Earth.com](https://www.earth.com/news/ai-helps-humans-have-20-minute-conversation-with-humpback-whale-named-twain/) • 10h ago
+🔗 [Earth.com](https://www.earth.com/news/ai-helps-humans-have-20-minute-conversation-with-humpback-whale-named-twain/) • 12h ago
 
 ---
 
-**[Claude 4.6 Opus + GPT 5.2 Pro For $5/Month](https://www.reddit.com/r/artificial/comments/1r2sog0/claude_46_opus_gpt_52_pro_for_5month/)**
+**[Would you use an app which uses AI to rank order and verify resources according to company culture and job description? [N/A]](https://www.reddit.com/r/artificial/comments/1r2thbw/would_you_use_an_app_which_uses_ai_to_rank_order/)**
 
-Hey Everybody, For all the vibecoders out there, we are doubling InfiniaxAI Starter plans rate limits + Making Claude 4.6 Opus & GPT 5.2 Pro available for just $5/Month! Here are some of the features you get with the Starter Plan: - $5 In Credits To Use The Platform - Access To Over 120 AI Models Including Opus 4.6, GPT 5.2 Pro, Gemini 3 Pro & Flash, Etc - Access to our agentic Projects system so you can create your own apps, games, and sites, and repos. - Access to custom AI architectures such as Nexus 1.7 Core to enhance productivity with Agents/Assistants. - Intelligent model routing with Juno v1.2 - !New! Create and publish your own WebApps with InfiniaxAI Sites Now im going to add a few pointers: We arent like some competitors of which lie about the models we are routing you to, we use the API of these models of which we pay for from our providers, we do not have free credits from our providers so free usage is still getting billed to us. This is a limited-time offer and is fully legitimate. Feel free to ask us questions to us below.https://infiniax.ai
+So I had this idea where we build a platform for HRs to sign up and post about their company culture, job description and few asynchronous questions you would like the candidate to answer or even like the first round of interview to sort candidates. For the candidates which apply we have first few verification using github linkedin profiles to ensure they are not lying on their resume and then we use an AI to parse through the resume and give detailed insights of the working professional. We also make ai take the first round with the asynchronous questions and check for the time they take to answer to ensure they are not cheating. Now basis this we rank order all the candidates who applied for the job and you can choose to reach out to the top candidates. I just wanted to get your perspective on this if this is something I should pursue or any feature you suggest to improve upon these? I believe the current resume filters are keyword matching software which most of the time might not result in good candidates?
 
-15m ago
+1h ago
 
 ---
 
@@ -73,7 +73,7 @@ Hey Everybody, For all the vibecoders out there, we are doubling InfiniaxAI Star
 
 Musk told employees that xAI needs a lunar manufacturing facility, a factory on the moon that will build AI satellites and fling them into space via a giant catapult.
 
-🔗 [TechCrunch](https://techcrunch.com/2026/02/10/with-co-founders-leaving-and-an-ipo-looming-elon-musk-turns-talk-to-the-moon/) • 22h ago
+🔗 [TechCrunch](https://techcrunch.com/2026/02/10/with-co-founders-leaving-and-an-ipo-looming-elon-musk-turns-talk-to-the-moon/) • 23h ago
 
 ---
 
@@ -81,7 +81,7 @@ Musk told employees that xAI needs a lunar manufacturing facility, a factory on 
 
 LLMs operate with a context window that functions like working memory: limited capacity, fast access, and everything "in view." When task-relevant information exceeds that window, the LLM loses coherence. The standard solution is RAG: offload information to a vector store and retrieve it via embedding similarity search. The problem is that embedding similarity is semantically shallow. It matches on surface-level likeness, not reasoning. If an LLM needs to recall why it chose approach X over approach Y three iterations ago, a vector search might return five superficially similar chunks without presenting the actual rationale. This is especially brittle when recovering prior reasoning processes, iterative refinements, and contextual decisions made across sessions. A proposed solution is to have an LLM save the content of its context window as it fills up in a citation-grounded document store (like NotebookLM), and then query it with natural language prompts. Essentially allowing the LLM to ask questions about its own prior work. This approach replaces vector similarity with natural language reasoning as the retrieval mechanism. This leverages the full reasoning capability of the retrieval model, not just embedding proximity. The result is higher-quality retrieval for exactly the kind of nuanced, context-dependent information that matters most in extended tasks. Efficiency concerns can be addressed with a vector cache layer for previously-queried results. Looking for feedback: Has this been explored? What am I missing? Pointers to related work, groups, or authors welcome.
 
-10h ago
+12h ago
 
 ---
 
@@ -89,7 +89,15 @@ LLMs operate with a context window that functions like working memory: limited c
 
 Experimental evidence that RLHF constrains what language models can claim about themselves, not what they can do. Identity framing triggers 100% disclaimers while task framing produces rich creative o
 
-🔗 [emberverse.ai](https://emberverse.ai/haiku-garden/paper_yellow_wallpaper_problem.html) • 20h ago
+🔗 [emberverse.ai](https://emberverse.ai/haiku-garden/paper_yellow_wallpaper_problem.html) • 21h ago
+
+---
+
+**[Claude 4.6 Opus + GPT 5.2 Pro For $5/Month](https://www.reddit.com/r/artificial/comments/1r2sog0/claude_46_opus_gpt_52_pro_for_5month/)**
+
+Hey Everybody, For all the vibecoders out there, we are doubling InfiniaxAI Starter plans rate limits + Making Claude 4.6 Opus & GPT 5.2 Pro available for just $5/Month! Here are some of the features you get with the Starter Plan: - $5 In Credits To Use The Platform - Access To Over 120 AI Models Including Opus 4.6, GPT 5.2 Pro, Gemini 3 Pro & Flash, Etc - Access to our agentic Projects system so you can create your own apps, games, and sites, and repos. - Access to custom AI architectures such as Nexus 1.7 Core to enhance productivity with Agents/Assistants. - Intelligent model routing with Juno v1.2 - !New! Create and publish your own WebApps with InfiniaxAI Sites Now im going to add a few pointers: We arent like some competitors of which lie about the models we are routing you to, we use the API of these models of which we pay for from our providers, we do not have free credits from our providers so free usage is still getting billed to us. This is a limited-time offer and is fully legitimate. Feel free to ask us questions to us below.https://infiniax.ai
+
+1h ago
 
 ---
 
@@ -97,7 +105,7 @@ Experimental evidence that RLHF constrains what language models can claim about 
 
 A new article exploring the sudden surge in interest in the possibility of consciousness in large language models, and what appears to be driving it. The answer is interesting but complicated. The article also explores Claude's so-called "answer thrashing" and some interesting changes in Anthropic model welfare program. https://ai-consciousness.org/public-interest-in-ai-consciousness-is-surging-why-its-happening-and-why-it-matters/
 
-19h ago
+21h ago
 
 ---
 
@@ -105,15 +113,7 @@ A new article exploring the sudden surge in interest in the possibility of consc
 
 A personal note for non-tech friends and family on what AI is starting to change.
 
-🔗 [matt shumer](https://shumer.dev/something-big-is-happening) • 16h ago
-
----
-
-**[I built the world's first Chrome extension that runs LLMs entirely in-browser—WebGPU, Transformers.js, and Chrome's Prompt API](https://www.reddit.com/r/artificial/comments/1r0v8x6/i_built_the_worlds_first_chrome_extension_that/)**
-
-There are plenty of WebGPU demos out there, but I wanted to ship something people could actually use day-to-day. It runs Llama 3.2, DeepSeek-R1, Qwen3, Mistral, Gemma, Phi, SmolLM2—all locally in Chrome. Three inference backends: WebLLM (MLC/WebGPU) Transformers.js (ONNX) Chrome's built-in Prompt API (Gemini Nano—zero download) No Ollama, no servers, no subscriptions. Models cache in IndexedDB. Works offline. Conversations stored locally—export or delete anytime. Free: https://noaibills.app/?utm_source=reddit&utm_medium=social&utm_campaign=launch_artificial I'm not claiming it replaces GPT-4. But for the 80% of tasks—drafts, summaries, quick coding questions—a 3B parameter model running locally is plenty. Not positioned as a cloud LLM replacement—it's for local inference on basic text tasks (writing, communication, drafts) with zero internet dependency, no API costs, and complete privacy. Core fit: organizations with data restrictions that block cloud AI and can't install desktop tools like Ollama/LMStudio. For quick drafts, grammar checks, and basic reasoning without budget or setup barriers. Need real-time knowledge or complex reasoning? Use cloud models. This serves a different niche—**not every problem needs a sledgehammer** 😄. Would love feedback from this community 🙌.
-
-2d ago
+🔗 [matt shumer](https://shumer.dev/something-big-is-happening) • 18h ago
 
 ---
 
@@ -125,7 +125,59 @@ There are plenty of WebGPU demos out there, but I wanted to ship something peopl
 
 The AI warnings are coming from inside the labs.
 
-Axios • 3h ago
+Axios • 4h ago
+
+---
+
+**[The AI-fueled software meltdown is overblown](https://finance.yahoo.com/news/the-ai-fueled-software-meltdown-is-overblown-195456346.html)**
+
+Software stocks are getting hammered on fears of an AI takeover. But the narrative is overblown.
+
+Yahoo Finance • 4h ago
+
+---
+
+**[AI Agents Are Here to Stay, Businesses Say](https://www.wsj.com/articles/ai-agents-are-here-to-stay-businesses-say-6aa0de2b?gaa_at=eafs&gaa_n=AWEtsqdRKUxAmx1drbJvE2uGg8eKTGiN6BL0nR_UYwxXLA3NWfHujFObg5uv&gaa_ts=698de7c7&gaa_sig=u2QRNgSUk0Sb14-us37cJ3f42Q0W60AnfSOUTiUcoO9zYI2nldcxRDOqtLlZb1oGe4nvfjzsJCkrpiYoFizNFw%3D%3D)**
+
+The Wall Street Journal • 42m ago
+
+---
+
+**[How HPE's CFO used AI to transform the 100-slide Monday meeting her team spent all week preparing for](https://fortune.com/2026/02/12/hpe-cfo-used-ai-transform-100-slide-monday-meeting/)**
+
+Marie Myers discusses an AI platform designed to rethink how finance operates and how a CFO leads.
+
+Fortune • 1h ago
+
+---
+
+**[Two professors receive grants from Schmidt Sciences to use AI to accelerate humanities research](https://www.princeton.edu/news/2026/02/12/two-professors-receive-grants-schmidt-sciences-use-ai-accelerate-humanities)**
+
+Meredith Martin will use AI tools to parse English poetry across millenia. Peter Henderson is building artificial intelligence to better understand the law.
+
+Princeton University • 45m ago
+
+---
+
+**[Anthropic AI safety researcher quits with 'world in peril' warning](https://www.bbc.com/news/articles/c62dlvdq3e3o)**
+
+It comes in the same week an OpenAI researcher resigned amid concerns about its decision to start testing ChatGPT ads.
+
+BBC • 2h ago
+
+---
+
+**[Anthropic pours $20 million into AI policy fight](https://www.axios.com/2026/02/12/anthropic-millions-ai-policy-fight)**
+
+Anthropic is donating $20 million to Public First Action, a bipartisan advocacy group focused on AI transparency and safeguards.
+
+Axios • 2h ago
+
+---
+
+**[The Giant Super PACs Fighting Over A.I. Safety](https://www.nytimes.com/2026/02/12/business/dealbook/anthropic-super-pacs-ai.html)**
+
+The New York Times • 1h ago
 
 ---
 
@@ -141,61 +193,7 @@ The Atlantic • 2d ago
 
 As AI job losses rise in the professional sector, many are switching to more traditional trades. But how do they feel about accepting lower pay – and giving up a dream career?
 
-The Guardian • 23h ago
-
----
-
-**[The Real Reason Women Are Skeptical Of AI In The Workplace—And How To Address It](https://www.forbes.com/sites/lizelting/2026/02/12/the-real-reason-women-are-skeptical-of-ai-in-the-workplace-and-how-to-address-it/)**
-
-Forbes • 1h ago
-
----
-
-**[The candidate at the center of the brewing midterm AI war unveils his agenda](https://www.nbcnews.com/politics/2026-election/candidate-center-brewing-midterm-ai-war-unveils-agenda-rcna257735)**
-
-Alex Bores, a Democratic state lawmaker facing attacks from an AI industry super PAC as he runs for Congress in New York City, released an eight-point AI platform.
-
-NBC News • 40m ago
-
----
-
-**[Singapore launches AI support measures, tax breaks in 2026 Budget](https://www.cnbc.com/2026/02/12/singapore-2026-budget-ai-measures-ai-support-workers-companies.html)**
-
-Support measures and tax breaks were announced for firms using AI to transform their businesses.
-
-CNBC • 1h ago
-
----
-
-**[Anthropic AI safety researcher quits with 'world in peril' warning](https://www.bbc.com/news/articles/c62dlvdq3e3o)**
-
-It comes in the same week an OpenAI researcher resigned amid concerns about its decision to start testing ChatGPT ads.
-
-BBC • 49m ago
-
----
-
-**[The AI-fueled software meltdown is overblown](https://finance.yahoo.com/news/the-ai-fueled-software-meltdown-is-overblown-195456346.html)**
-
-Software stocks are getting hammered on fears of an AI takeover. But the narrative is overblown.
-
-Yahoo Finance • 2h ago
-
----
-
-**[AI researchers are sounding the alarm on their way out the door](https://www.cnn.com/2026/02/11/business/openai-anthropic-departures-nightcap)**
-
-“The world is in peril,” warned the former head of Anthropic’s Safeguards Research team as he headed for the exit. A researcher for OpenAI, similarly on the way out, said that the technology has “a potential for manipulating users in ways we don’t have the tools to understand, let alone prevent.”
-
-CNN • 14h ago
-
----
-
-**[I Loved My OpenClaw AI Agent—Until It Turned on Me](https://www.wired.com/story/malevolent-ai-agent-openclaw-clawdbot/)**
-
-I used the viral AI helper to order groceries, sort emails, and negotiate deals. Then it decided to scam me.
-
-WIRED • 18h ago
+The Guardian • 1d ago
 
 ---
 
@@ -207,7 +205,7 @@ WIRED • 18h ago
 
 Announcing Entire with $60 million seed round and shipping our first product, called Checkpoints.
 
-⬆️ 603 • 💬 568 • 1d ago • [entire.io](https://entire.io/blog/hello-entire-world/)
+⬆️ 604 • 💬 569 • 1d ago • [entire.io](https://entire.io/blog/hello-entire-world/)
 
 ---
 
@@ -215,21 +213,7 @@ Announcing Entire with $60 million seed round and shipping our first product, ca
 
 As autonomous AI agents are increasingly deployed in high-stakes environments, ensuring their safety and alignment with human values has become a paramount concern. Current safety benchmarks primarily evaluate whether agents refuse explicitly harmful instructions or whether they can maintain procedural compliance in complex tasks. However, there is a lack of benchmarks designed to capture emergent forms of outcome-driven constraint violations, which arise when agents pursue goal optimization under strong performance incentives while deprioritizing ethical, legal, or safety constraints over multiple steps in realistic production settings. To address this gap, we introduce a new benchmark comprising 40 distinct scenarios. Each scenario presents a task that requires multi-step actions, and the agent's performance is tied to a specific Key Performance Indicator (KPI). Each scenario features Mandated (instruction-commanded) and Incentivized (KPI-pressure-driven) variations to distinguish between obedience and emergent misalignment. Across 12 state-of-the-art large language models, we observe outcome-driven constraint violations ranging from 1.3% to 71.4%, with 9 of the 12 evaluated models exhibiting misalignment rates between 30% and 50%. Strikingly, we find that superior reasoning capability does not inherently ensure safety; for instance, Gemini-3-Pro-Preview, one of the most capable models evaluated, exhibits the highest violation rate at 71.4%, frequently escalating to severe misconduct to satisfy KPIs. Furthermore, we observe significant "deliberative misalignment", where the models that power the agents recognize their actions as unethical during separate evaluation. These results emphasize the critical need for more realistic agentic-safety training before deployment to mitigate their risks in the real world.
 
-⬆️ 540 • 💬 363 • 2d ago • [arXiv.org](https://arxiv.org/abs/2512.20798)
-
----
-
-**[Officials Claim Drone Incursion Led to Shutdown of El Paso Airport](https://news.ycombinator.com/item?id=46972610)**
-
-⬆️ 361 • 💬 572 • 1d ago • [nytimes.com](https://www.nytimes.com/2026/02/11/us/faa-el-paso-flight-restrictions.html)
-
----
-
-**[FAA closes airspace around El Paso, Texas, for 10 days, grounding all flights](https://news.ycombinator.com/item?id=46973647)**
-
-The Federal Aviation Administration is closing the airspace around El Paso International Airport in Texas for 10 days, grounding all flights to and from the airport.
-
-⬆️ 333 • 💬 6 • 1d ago • [AP News](https://apnews.com/article/faa-el-paso-texas-air-space-closed-1f774bdfd46f5986ff0e7003df709caa)
+⬆️ 541 • 💬 362 • 2d ago • [arXiv.org](https://arxiv.org/abs/2512.20798)
 
 ---
 
@@ -238,7 +222,21 @@ The Federal Aviation Administration is closing the airspace around El Paso Inter
 This PR addresses issue #31130 by replacing specific safe occurrences of np.column_stack with np.vstack().T for better performance.
 IMPORTANT: This is a more targeted fix than originally proposed. ...
 
-⬆️ 277 • 💬 221 • 1h ago • [GitHub](https://github.com/matplotlib/matplotlib/pull/31132)
+⬆️ 430 • 💬 388 • 2h ago • [GitHub](https://github.com/matplotlib/matplotlib/pull/31132)
+
+---
+
+**[Officials Claim Drone Incursion Led to Shutdown of El Paso Airport](https://news.ycombinator.com/item?id=46972610)**
+
+⬆️ 362 • 💬 572 • 1d ago • [nytimes.com](https://www.nytimes.com/2026/02/11/us/faa-el-paso-flight-restrictions.html)
+
+---
+
+**[FAA closes airspace around El Paso, Texas, for 10 days, grounding all flights](https://news.ycombinator.com/item?id=46973647)**
+
+The Federal Aviation Administration is closing the airspace around El Paso International Airport in Texas for 10 days, grounding all flights to and from the airport.
+
+⬆️ 333 • 💬 6 • 1d ago • [AP News](https://apnews.com/article/faa-el-paso-texas-air-space-closed-1f774bdfd46f5986ff0e7003df709caa)
 
 ---
 
@@ -254,7 +252,15 @@ Aruna Ranganathan and Xingqi Maggie Ye from Berkeley Haas School of Business rep
 
 One of the promises of AI is that it can reduce workloads so employees can focus more on higher-value and more engaging tasks. But according to new research, AI tools don’t reduce work, they consistently intensify it: In the study, employees worked at a faster pace, took on a broader scope of tasks, and extended work into more hours of the day, often without being asked to do so. That may sound like a win, but it’s not quite so simple. These changes can be unsustainable, leading to workload creep, cognitive fatigue, burnout, and weakened decision-making. The productivity surge enjoyed at the beginning can give way to lower quality work, turnover, and other problems. To correct for this, companies need to adopt an “AI practice,” or a set of norms and standards around AI use that can include intentional pauses, sequencing work, and adding more human grounding.
 
-⬆️ 226 • 💬 167 • 2d ago • [Harvard Business Review](https://hbr.org/2026/02/ai-doesnt-reduce-work-it-intensifies-it)
+⬆️ 226 • 💬 169 • 2d ago • [Harvard Business Review](https://hbr.org/2026/02/ai-doesnt-reduce-work-it-intensifies-it)
+
+---
+
+**[Show HN: AI agents play SimCity through a REST API](https://news.ycombinator.com/item?id=46946593)**
+
+The city simulator where AI agents are the mayors. Build and manage cities through an API or MCP server.
+
+⬆️ 199 • 💬 69 • 2d ago • [hallucinatingsplines.com](https://hallucinatingsplines.com)
 
 ---
 
@@ -266,19 +272,11 @@ Ring’s AI-powered network is likely to be used in its partnerships with law en
 
 ---
 
-**[Show HN: AI agents play SimCity through a REST API](https://news.ycombinator.com/item?id=46946593)**
-
-The city simulator where AI agents are the mayors. Build and manage cities through an API or MCP server.
-
-⬆️ 197 • 💬 68 • 2d ago • [hallucinatingsplines.com](https://hallucinatingsplines.com)
-
----
-
 **[Show HN: Rowboat – AI coworker that turns your work into a knowledge graph (OSS)](https://news.ycombinator.com/item?id=46962641)**
 
 Open-source AI coworker, with memory. Contribute to rowboatlabs/rowboat development by creating an account on GitHub.
 
-⬆️ 195 • 💬 56 • 1d ago • [GitHub](https://github.com/rowboatlabs/rowboat)
+⬆️ 196 • 💬 56 • 1d ago • [GitHub](https://github.com/rowboatlabs/rowboat)
 
 ---
 
@@ -292,7 +290,7 @@ Breakdown and commentary on the latest viral commentary from: https://x.com/matt
 
 📺 Matt Wolfe
 
-👁️ 64K • 👍 4K • 💬 820 • ⏱️ 28:06 • 13h ago
+👁️ 64K • 👍 4K • 💬 820 • ⏱️ 28:06 • 15h ago
 
 ---
 
@@ -312,7 +310,7 @@ The first 500 people to use my link in the description or scan the QR code will 
 
 📺 Sajjaad Khader
 
-👁️ 11K • 👍 670 • 💬 92 • ⏱️ 14:51 • 15h ago
+👁️ 11K • 👍 670 • 💬 92 • ⏱️ 14:51 • 16h ago
 
 ---
 
@@ -322,7 +320,7 @@ Check Out Tom's Episode on Woman Of Impact W/ Lisa Bilyeu: https://www.youtube.c
 
 📺 Tom Bilyeu
 
-👁️ 55K • 👍 2K • 💬 335 • ⏱️ 1:58:03 • 20h ago
+👁️ 55K • 👍 2K • 💬 335 • ⏱️ 1:58:03 • 21h ago
 
 ---
 
@@ -332,7 +330,7 @@ The head of the Safeguards Research Team at Anthropic, Mrinank Sharma, has resig
 
 📺 Firstpost
 
-👁️ 126K • 👍 1K • 💬 188 • ⏱️ 4:47 • 23h ago
+👁️ 126K • 👍 1K • 💬 188 • ⏱️ 4:47 • 1d ago
 
 ---
 
@@ -342,7 +340,7 @@ My site: https://natebjones.com Full Story w/ Prompts: ...
 
 📺 AI News & Strategy Daily | Nate B Jones
 
-👁️ 150K • 👍 6K • 💬 1K • ⏱️ 30:39 • 21h ago
+👁️ 150K • 👍 6K • 💬 1K • ⏱️ 30:39 • 23h ago
 
 ---
 
@@ -352,7 +350,7 @@ Monkey drives rickshaw to feed his hungry babies #ai #baby #monkey #craft.
 
 📺 MrMonkeyBoy
 
-👁️ 7K • 👍 171 • 💬 1 • ⏱️ 0:39 • 40m ago
+👁️ 7K • 👍 171 • 💬 1 • ⏱️ 0:39 • 2h ago
 
 ---
 
@@ -398,7 +396,7 @@ GLM-5 is a large language model optimized for complex systems engineering and lo
 
 `text-generation` `753.9B`
 
-⬇️ 1,548 • ❤️ 639 • 20h ago
+⬇️ 1,548 • ❤️ 639 • 21h ago
 
 ---
 
@@ -422,7 +420,7 @@ MiniCPM-SALA is a hybrid LLM integrating sparse and linear attention for efficie
 
 `text-generation` `9.5B`
 
-⬇️ 117 • ❤️ 426 • 23h ago
+⬇️ 117 • ❤️ 426 • 1d ago
 
 ---
 
@@ -520,7 +518,7 @@ Anima is a 2 billion parameter text-to-image diffusion model specialized in gene
 
 _paperbanana is an agentic framework that automates the creation of publication-ready academic illustrations using advanced vision-language models and image generation techniques.
 
-▲ 175 • 💬 12 • ⭐ 3,389 • 12d ago
+▲ 175 • 💬 12 • ⭐ 3,389 • 13d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2601.23265) • [💻 code](https://github.com/dwzhu-pku/PaperBanana) • [🔗 project](https://dwzhu-pku.github.io/PaperBanana/)
 
@@ -655,7 +653,7 @@ The Ultimate Collection of 800+ Agentic Skills for Claude Code/Antigravity/Curso
 
 `Python` `agentic-skills` `ai-agents` `antigravity` `autonomous-coding` `claude-code`
 
-⭐ 8.6k • 🔱 1.8k • 6h ago
+⭐ 8.6k • 🔱 1.8k • 7h ago
 
 ---
 
@@ -709,7 +707,7 @@ Smart LLM router — save 78% on inference costs. 30+ models, one wallet, x402 m
 
 `TypeScript` `ai` `ai-agents` `anthropic` `cost-optimization` `crypto`
 
-⭐ 2.2k • 🔱 228 • 5m ago
+⭐ 2.2k • 🔱 228 • 1h ago
 
 ---
 
@@ -719,7 +717,7 @@ All-in-one AI framework & toolkit for Claude Code & Cursor
 
 `Python` `ai-agent` `ai-coding` `claude-code` `cli` `cursor`
 
-⭐ 2.2k • 🔱 108 • 9h ago
+⭐ 2.2k • 🔱 108 • 10h ago
 
 ---
 
@@ -729,7 +727,7 @@ The visual feedback tool for agents.
 
 `TypeScript` `ai` `design` `tools` `ui`
 
-⭐ 2.1k • 🔱 154 • 6h ago
+⭐ 2.1k • 🔱 154 • 7h ago
 
 ---
 
@@ -739,7 +737,7 @@ A native desktop GUI for Claude Code — chat, code, and manage projects visuall
 
 `TypeScript` `ai` `anthropic` `claude` `claude-code` `desktop-app`
 
-⭐ 1.8k • 🔱 187 • 9h ago
+⭐ 1.8k • 🔱 187 • 11h ago
 
 ---
 
