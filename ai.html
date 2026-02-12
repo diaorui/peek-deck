@@ -57,7 +57,7 @@
             "name": "PeekDeck",
             "url": "https://peekdeck.ruidiao.dev"
           },
-          "dateModified": "2026-02-12T07:34:48.165950+00:00"
+          "dateModified": "2026-02-12T08:50:26.738840+00:00"
         },
         {
           "@type": "BreadcrumbList",
@@ -764,39 +764,6 @@
                     </div>
                 </div>
                 
-                <div class="carousel-card" onclick="window.open('https://www.reddit.com/r/artificial/comments/1r2hah8/llms_as_cognitive_architectures_notebooks_as/', '_blank')">
-                    <div class="post-thumbnail">
-                        
-                    </div>
-
-                    <div class="post-content">
-                        <!-- Post title -->
-                        <div class="post-title">
-                            <a href="https://www.reddit.com/r/artificial/comments/1r2hah8/llms_as_cognitive_architectures_notebooks_as/" target="_blank" onclick="event.stopPropagation();">LLMs as Cognitive Architectures: Notebooks as Long-Term Memory</a>
-                        </div>
-
-                        <!-- Rich description (if available) -->
-                        
-                        <div class="post-description">
-                            LLMs operate with a context window that functions like working memory: limited capacity, fast access, and everything "in view." When task-relevant information exceeds that window, the LLM loses coherence. The standard solution is RAG: offload information to a vector store and retrieve it via embedding similarity search. The problem is that embedding similarity is semantically shallow. It matches on surface-level likeness, not reasoning. If an LLM needs to recall why it chose approach X over approach Y three iterations ago, a vector search might return five superficially similar chunks without presenting the actual rationale. This is especially brittle when recovering prior reasoning processes, iterative refinements, and contextual decisions made across sessions. A proposed solution is to have an LLM save the content of its context window as it fills up in a citation-grounded document store (like NotebookLM), and then query it with natural language prompts. Essentially allowing the LLM to ask questions about its own prior work. This approach replaces vector similarity with natural language reasoning as the retrieval mechanism. This leverages the full reasoning capability of the retrieval model, not just embedding proximity. The result is higher-quality retrieval for exactly the kind of nuanced, context-dependent information that matters most in extended tasks. Efficiency concerns can be addressed with a vector cache layer for previously-queried results. Looking for feedback: Has this been explored? What am I missing? Pointers to related work, groups, or authors welcome.
-                        </div>
-                        
-
-                        <!-- Metadata -->
-                        <div class="post-meta">
-                            <div class="post-meta-line">
-                                
-                                <div class="post-meta-item">
-                                    <span data-timestamp="1770863042.0"></span>
-                                </div>
-                                
-                                <!-- External article source (on same line as time) -->
-                                
-                            </div>
-                        </div>
-                    </div>
-                </div>
-                
                 <div class="carousel-card" onclick="window.open('https://www.reddit.com/r/artificial/comments/1r223lp/rlhf_safety_training_enforces_what_ai_can_say/', '_blank')">
                     <div class="post-thumbnail">
                         
@@ -839,6 +806,39 @@
                                         <span>emberverse.ai</span>
                                     </a>
                                 </div>
+                                
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                
+                <div class="carousel-card" onclick="window.open('https://www.reddit.com/r/artificial/comments/1r2hah8/llms_as_cognitive_architectures_notebooks_as/', '_blank')">
+                    <div class="post-thumbnail">
+                        
+                    </div>
+
+                    <div class="post-content">
+                        <!-- Post title -->
+                        <div class="post-title">
+                            <a href="https://www.reddit.com/r/artificial/comments/1r2hah8/llms_as_cognitive_architectures_notebooks_as/" target="_blank" onclick="event.stopPropagation();">LLMs as Cognitive Architectures: Notebooks as Long-Term Memory</a>
+                        </div>
+
+                        <!-- Rich description (if available) -->
+                        
+                        <div class="post-description">
+                            LLMs operate with a context window that functions like working memory: limited capacity, fast access, and everything "in view." When task-relevant information exceeds that window, the LLM loses coherence. The standard solution is RAG: offload information to a vector store and retrieve it via embedding similarity search. The problem is that embedding similarity is semantically shallow. It matches on surface-level likeness, not reasoning. If an LLM needs to recall why it chose approach X over approach Y three iterations ago, a vector search might return five superficially similar chunks without presenting the actual rationale. This is especially brittle when recovering prior reasoning processes, iterative refinements, and contextual decisions made across sessions. A proposed solution is to have an LLM save the content of its context window as it fills up in a citation-grounded document store (like NotebookLM), and then query it with natural language prompts. Essentially allowing the LLM to ask questions about its own prior work. This approach replaces vector similarity with natural language reasoning as the retrieval mechanism. This leverages the full reasoning capability of the retrieval model, not just embedding proximity. The result is higher-quality retrieval for exactly the kind of nuanced, context-dependent information that matters most in extended tasks. Efficiency concerns can be addressed with a vector cache layer for previously-queried results. Looking for feedback: Has this been explored? What am I missing? Pointers to related work, groups, or authors welcome.
+                        </div>
+                        
+
+                        <!-- Metadata -->
+                        <div class="post-meta">
+                            <div class="post-meta-line">
+                                
+                                <div class="post-meta-item">
+                                    <span data-timestamp="1770863042.0"></span>
+                                </div>
+                                
+                                <!-- External article source (on same line as time) -->
                                 
                             </div>
                         </div>
@@ -1084,7 +1084,7 @@
 
     </div>
     <div class="widget-footer">
-        <small data-timestamp="2026-02-12T07:34:15.858857+00:00">Updated 2026-02-12T07:34:15.858857+00:00</small>
+        <small data-timestamp="2026-02-12T08:50:00.982044+00:00">Updated 2026-02-12T08:50:00.982044+00:00</small>
     </div>
 </div>
 
@@ -1270,6 +1270,88 @@
             <!-- Carousel track -->
             <div class="carousel-track" id="news-carousel-ai">
                 
+                <div class="carousel-card" onclick="window.open('https://www.vox.com/politics/478794/ai-economy-claude-code-jobs-openai-anthropic', '_blank')">
+                    <!-- Rich preview thumbnail (with fallback icon) -->
+                    <div class="article-thumbnail" style="background-image: url('https://platform.vox.com/wp-content/uploads/sites/2/2026/02/gettyimages-2250233378.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200');"></div>
+
+                    <div class="article-content">
+                        <!-- Article headline (fixed 3-line height) -->
+                        <div class="news-headline">
+                            <a href="https://www.vox.com/politics/478794/ai-economy-claude-code-jobs-openai-anthropic" target="_blank" onclick="event.stopPropagation();">AI’s threat to white-collar jobs just got more real</a>
+                        </div>
+
+                        <!-- Rich description (if available) -->
+                        
+                        <div class="article-description">
+                            You just got more replaceable.
+                        </div>
+                        
+
+                        <!-- Metadata (source, time) -->
+                        <div class="news-meta">
+                            <div class="news-meta-line">
+                                
+                                <div class="news-meta-item news-source">
+                                    
+                                    <img src="https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.vox.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+                                         alt="vox.com" class="news-favicon">
+                                    <a href="https://www.vox.com" target="_blank" onclick="event.stopPropagation();">vox.com</a>
+                                    
+                                </div>
+                                
+                            </div>
+                            <div class="news-meta-line">
+                                
+                                <div class="news-meta-item">
+                                    <span data-timestamp="1770820800.0"></span>
+                                </div>
+                                
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                
+                <div class="carousel-card" onclick="window.open('https://mashable.com/article/viral-something-big-is-coming-essay-artificial-intelligence-warning', '_blank')">
+                    <!-- Rich preview thumbnail (with fallback icon) -->
+                    <div class="article-thumbnail" style="background-image: url('https://helios-i.mashable.com/imagery/articles/03NBBMPgnJvlfaZR3mS1hYT/hero-image.fill.size_1200x675.v1770841784.jpg');"></div>
+
+                    <div class="article-content">
+                        <!-- Article headline (fixed 3-line height) -->
+                        <div class="news-headline">
+                            <a href="https://mashable.com/article/viral-something-big-is-coming-essay-artificial-intelligence-warning" target="_blank" onclick="event.stopPropagation();">The AI industry has a big Chicken Little problem</a>
+                        </div>
+
+                        <!-- Rich description (if available) -->
+                        
+                        <div class="article-description">
+                            A viral essay on X claims that the world is about to change forever.
+                        </div>
+                        
+
+                        <!-- Metadata (source, time) -->
+                        <div class="news-meta">
+                            <div class="news-meta-line">
+                                
+                                <div class="news-meta-item news-source">
+                                    
+                                    <img src="https://encrypted-tbn2.gstatic.com/faviconV2?url=https://mashable.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+                                         alt="Mashable" class="news-favicon">
+                                    <a href="https://mashable.com" target="_blank" onclick="event.stopPropagation();">Mashable</a>
+                                    
+                                </div>
+                                
+                            </div>
+                            <div class="news-meta-line">
+                                
+                                <div class="news-meta-item">
+                                    <span data-timestamp="1770835953.0"></span>
+                                </div>
+                                
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                
                 <div class="carousel-card" onclick="window.open('https://fortune.com/2026/02/11/something-big-is-happening-ai-february-2020-moment-matt-shumer/', '_blank')">
                     <!-- Rich preview thumbnail (with fallback icon) -->
                     <div class="article-thumbnail" style="background-image: url('https://fortune.com/img-assets/wp-content/uploads/2026/02/1644257218541.jpg?resize=1200,600');"></div>
@@ -1352,14 +1434,88 @@
                     </div>
                 </div>
                 
-                <div class="carousel-card" onclick="window.open('https://www.reuters.com/world/china/year-deepseek-shock-get-set-flurry-low-cost-chinese-ai-models-2026-02-12/', '_blank')">
+                <div class="carousel-card" onclick="window.open('https://www.forbes.com/sites/lanceeliot/2026/02/12/ai-comes-amazingly-close-to-caliber-of-human-level-emotional-support-in-heartfelt-new-unifying-benchmark/', '_blank')">
                     <!-- Rich preview thumbnail (with fallback icon) -->
                     <div class="article-thumbnail" ></div>
 
                     <div class="article-content">
                         <!-- Article headline (fixed 3-line height) -->
                         <div class="news-headline">
-                            <a href="https://www.reuters.com/world/china/year-deepseek-shock-get-set-flurry-low-cost-chinese-ai-models-2026-02-12/" target="_blank" onclick="event.stopPropagation();">A year on from DeepSeek shock, get set for flurry of low-cost Chinese AI models</a>
+                            <a href="https://www.forbes.com/sites/lanceeliot/2026/02/12/ai-comes-amazingly-close-to-caliber-of-human-level-emotional-support-in-heartfelt-new-unifying-benchmark/" target="_blank" onclick="event.stopPropagation();">AI Comes Amazingly Close To Caliber Of Human-Level Emotional Support In Heartfelt New Unifying Benchmark</a>
+                        </div>
+
+                        <!-- Rich description (if available) -->
+                        
+
+                        <!-- Metadata (source, time) -->
+                        <div class="news-meta">
+                            <div class="news-meta-line">
+                                
+                                <div class="news-meta-item news-source">
+                                    
+                                    <img src="https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.forbes.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+                                         alt="Forbes" class="news-favicon">
+                                    <a href="https://www.forbes.com" target="_blank" onclick="event.stopPropagation();">Forbes</a>
+                                    
+                                </div>
+                                
+                            </div>
+                            <div class="news-meta-line">
+                                
+                                <div class="news-meta-item">
+                                    <span data-timestamp="1770884100.0"></span>
+                                </div>
+                                
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                
+                <div class="carousel-card" onclick="window.open('https://www.bloomberg.com/news/articles/2026-02-12/hua-hong-forecast-misses-as-chipmaker-trails-in-china-ai-race?srnd=homepage-americas', '_blank')">
+                    <!-- Rich preview thumbnail (with fallback icon) -->
+                    <div class="article-thumbnail" ></div>
+
+                    <div class="article-content">
+                        <!-- Article headline (fixed 3-line height) -->
+                        <div class="news-headline">
+                            <a href="https://www.bloomberg.com/news/articles/2026-02-12/hua-hong-forecast-misses-as-chipmaker-trails-in-china-ai-race?srnd=homepage-americas" target="_blank" onclick="event.stopPropagation();">Hua Hong Forecast Misses as Chipmaker Trails in China AI Race</a>
+                        </div>
+
+                        <!-- Rich description (if available) -->
+                        
+
+                        <!-- Metadata (source, time) -->
+                        <div class="news-meta">
+                            <div class="news-meta-line">
+                                
+                                <div class="news-meta-item news-source">
+                                    
+                                    <img src="https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.bloomberg.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+                                         alt="Bloomberg.com" class="news-favicon">
+                                    <a href="https://www.bloomberg.com" target="_blank" onclick="event.stopPropagation();">Bloomberg.com</a>
+                                    
+                                </div>
+                                
+                            </div>
+                            <div class="news-meta-line">
+                                
+                                <div class="news-meta-item">
+                                    <span data-timestamp="1770885355.0"></span>
+                                </div>
+                                
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                
+                <div class="carousel-card" onclick="window.open('https://www.reuters.com/world/china/us-pushes-ai-funding-fisheries-tech-apec-amid-china-rivalry-2026-02-12/', '_blank')">
+                    <!-- Rich preview thumbnail (with fallback icon) -->
+                    <div class="article-thumbnail" ></div>
+
+                    <div class="article-content">
+                        <!-- Article headline (fixed 3-line height) -->
+                        <div class="news-headline">
+                            <a href="https://www.reuters.com/world/china/us-pushes-ai-funding-fisheries-tech-apec-amid-china-rivalry-2026-02-12/" target="_blank" onclick="event.stopPropagation();">US pushes AI funding, fisheries tech at APEC amid China rivalry</a>
                         </div>
 
                         <!-- Rich description (if available) -->
@@ -1381,89 +1537,7 @@
                             <div class="news-meta-line">
                                 
                                 <div class="news-meta-item">
-                                    <span data-timestamp="1770877560.0"></span>
-                                </div>
-                                
-                            </div>
-                        </div>
-                    </div>
-                </div>
-                
-                <div class="carousel-card" onclick="window.open('https://www.fastcompany.com/91476333/why-most-ai-implementations-fail', '_blank')">
-                    <!-- Rich preview thumbnail (with fallback icon) -->
-                    <div class="article-thumbnail" style="background-image: url('https://images.fastcompany.com/image/upload/f_webp,q_auto,c_fit,w_1024/wp-cms-2/2026/02/p-1-91476333-ai-and-leadership.jpg');"></div>
-
-                    <div class="article-content">
-                        <!-- Article headline (fixed 3-line height) -->
-                        <div class="news-headline">
-                            <a href="https://www.fastcompany.com/91476333/why-most-ai-implementations-fail" target="_blank" onclick="event.stopPropagation();">Why most AI rollouts fail</a>
-                        </div>
-
-                        <!-- Rich description (if available) -->
-                        
-                        <div class="article-description">
-                            Many companies treat AI as another IT rollout, but successfully scaling AI across an organization requires a different approach.
-                        </div>
-                        
-
-                        <!-- Metadata (source, time) -->
-                        <div class="news-meta">
-                            <div class="news-meta-line">
-                                
-                                <div class="news-meta-item news-source">
-                                    
-                                    <img src="https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.fastcompany.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
-                                         alt="Fast Company" class="news-favicon">
-                                    <a href="https://www.fastcompany.com" target="_blank" onclick="event.stopPropagation();">Fast Company</a>
-                                    
-                                </div>
-                                
-                            </div>
-                            <div class="news-meta-line">
-                                
-                                <div class="news-meta-item">
-                                    <span data-timestamp="1770880264.0"></span>
-                                </div>
-                                
-                            </div>
-                        </div>
-                    </div>
-                </div>
-                
-                <div class="carousel-card" onclick="window.open('https://www.nbcnews.com/tech/security/google-gemini-hit-100000-prompts-cloning-attempt-rcna258657', '_blank')">
-                    <!-- Rich preview thumbnail (with fallback icon) -->
-                    <div class="article-thumbnail" style="background-image: url('https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2026-02/260211-google-ww-1810-a0892a.jpg');"></div>
-
-                    <div class="article-content">
-                        <!-- Article headline (fixed 3-line height) -->
-                        <div class="news-headline">
-                            <a href="https://www.nbcnews.com/tech/security/google-gemini-hit-100000-prompts-cloning-attempt-rcna258657" target="_blank" onclick="event.stopPropagation();">Google says attackers used 100,000+ prompts to try to clone AI chatbot Gemini</a>
-                        </div>
-
-                        <!-- Rich description (if available) -->
-                        
-                        <div class="article-description">
-                            Google says private companies and researchers are trying to copy Gemini’s capabilities by repeatedly prompting it at scale.
-                        </div>
-                        
-
-                        <!-- Metadata (source, time) -->
-                        <div class="news-meta">
-                            <div class="news-meta-line">
-                                
-                                <div class="news-meta-item news-source">
-                                    
-                                    <img src="https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.nbcnews.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
-                                         alt="NBC News" class="news-favicon">
-                                    <a href="https://www.nbcnews.com" target="_blank" onclick="event.stopPropagation();">NBC News</a>
-                                    
-                                </div>
-                                
-                            </div>
-                            <div class="news-meta-line">
-                                
-                                <div class="news-meta-item">
-                                    <span data-timestamp="1770879600.0"></span>
+                                    <span data-timestamp="1770885751.0"></span>
                                 </div>
                                 
                             </div>
@@ -1553,47 +1627,6 @@
                     </div>
                 </div>
                 
-                <div class="carousel-card" onclick="window.open('https://hbr.org/2026/02/ai-doesnt-reduce-work-it-intensifies-it', '_blank')">
-                    <!-- Rich preview thumbnail (with fallback icon) -->
-                    <div class="article-thumbnail" style="background-image: url('https://hbr.org/resources/images/article_assets/2026/02/Feb26_07_EynonJones.jpg');"></div>
-
-                    <div class="article-content">
-                        <!-- Article headline (fixed 3-line height) -->
-                        <div class="news-headline">
-                            <a href="https://hbr.org/2026/02/ai-doesnt-reduce-work-it-intensifies-it" target="_blank" onclick="event.stopPropagation();">AI Doesn’t Reduce Work—It Intensifies It</a>
-                        </div>
-
-                        <!-- Rich description (if available) -->
-                        
-                        <div class="article-description">
-                            One of the promises of AI is that it can reduce workloads so employees can focus more on higher-value and more engaging tasks. But according to new research, AI tools don’t reduce work, they consistently intensify it: In the study, employees worked at a faster pace, took on a broader scope of tasks, and extended work into more hours of the day, often without being asked to do so. That may sound like a win, but it’s not quite so simple. These changes can be unsustainable, leading to workload creep, cognitive fatigue, burnout, and weakened decision-making. The productivity surge enjoyed at the beginning can give way to lower quality work, turnover, and other problems. To correct for this, companies need to adopt an “AI practice,” or a set of norms and standards around AI use that can include intentional pauses, sequencing work, and adding more human grounding.
-                        </div>
-                        
-
-                        <!-- Metadata (source, time) -->
-                        <div class="news-meta">
-                            <div class="news-meta-line">
-                                
-                                <div class="news-meta-item news-source">
-                                    
-                                    <img src="https://encrypted-tbn2.gstatic.com/faviconV2?url=https://hbr.org&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
-                                         alt="Harvard Business Review" class="news-favicon">
-                                    <a href="https://hbr.org" target="_blank" onclick="event.stopPropagation();">Harvard Business Review</a>
-                                    
-                                </div>
-                                
-                            </div>
-                            <div class="news-meta-line">
-                                
-                                <div class="news-meta-item">
-                                    <span data-timestamp="1770645825.0"></span>
-                                </div>
-                                
-                            </div>
-                        </div>
-                    </div>
-                </div>
-                
                 <div class="carousel-card" onclick="window.open('https://www.cnbc.com/2026/02/12/chinese-ai-stocks-new-model-and-agent-releases-zhipu-minimax.html', '_blank')">
                     <!-- Rich preview thumbnail (with fallback icon) -->
                     <div class="article-thumbnail" style="background-image: url('https://image.cnbcfm.com/api/v1/image/108257110-1769448456827-gettyimages-2254532744-CHINA_ZHIPU.jpeg?v=1770861763&w=1920&h=1080');"></div>
@@ -1635,43 +1668,6 @@
                     </div>
                 </div>
                 
-                <div class="carousel-card" onclick="window.open('https://venturebeat.com/technology/z-ais-open-source-glm-5-achieves-record-low-hallucination-rate-and-leverages', '_blank')">
-                    <!-- Rich preview thumbnail (with fallback icon) -->
-                    <div class="article-thumbnail" style="background-image: url('https://images.ctfassets.net/jdtwqhzvc2n1/dQV83itMFRGEKiT87OEGw/bf309d1debd7b55d3165a2c762addb20/SZWjerB5QqmiUg-LswgV3.jpg?w=800&q=75');"></div>
-
-                    <div class="article-content">
-                        <!-- Article headline (fixed 3-line height) -->
-                        <div class="news-headline">
-                            <a href="https://venturebeat.com/technology/z-ais-open-source-glm-5-achieves-record-low-hallucination-rate-and-leverages" target="_blank" onclick="event.stopPropagation();">z.ai's open source GLM-5 achieves record low hallucination rate and leverages new RL 'slime' technique</a>
-                        </div>
-
-                        <!-- Rich description (if available) -->
-                        
-
-                        <!-- Metadata (source, time) -->
-                        <div class="news-meta">
-                            <div class="news-meta-line">
-                                
-                                <div class="news-meta-item news-source">
-                                    
-                                    <img src="https://encrypted-tbn2.gstatic.com/faviconV2?url=https://venturebeat.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
-                                         alt="Venturebeat" class="news-favicon">
-                                    <a href="https://venturebeat.com" target="_blank" onclick="event.stopPropagation();">Venturebeat</a>
-                                    
-                                </div>
-                                
-                            </div>
-                            <div class="news-meta-line">
-                                
-                                <div class="news-meta-item">
-                                    <span data-timestamp="1770855171.0"></span>
-                                </div>
-                                
-                            </div>
-                        </div>
-                    </div>
-                </div>
-                
 
                 <!-- View All button at end of carousel -->
                 <div class="carousel-card" style="display: flex; align-items: center; justify-content: center; cursor: pointer; background: rgba(255, 255, 255, 0.05);"
@@ -1692,7 +1688,7 @@
 
     </div>
     <div class="widget-footer">
-        <small data-timestamp="2026-02-12T07:34:36.970919+00:00">Updated 2026-02-12T07:34:36.970919+00:00</small>
+        <small data-timestamp="2026-02-12T08:50:25.317995+00:00">Updated 2026-02-12T08:50:25.317995+00:00</small>
     </div>
 </div>
 
@@ -1917,10 +1913,10 @@
                         <div class="post-meta">
                             <div class="post-meta-line">
                                 <div class="post-meta-item">
-                                    <span class="post-points">▲ 601</span>
+                                    <span class="post-points">▲ 602</span>
                                 </div>
                                 <div class="post-meta-item">
-                                    <span style="color: #9ca3af;">💬 566</span>
+                                    <span style="color: #9ca3af;">💬 568</span>
                                 </div>
                             </div>
                             <div class="post-meta-line">
@@ -2011,10 +2007,10 @@
                         <div class="post-meta">
                             <div class="post-meta-line">
                                 <div class="post-meta-item">
-                                    <span class="post-points">▲ 352</span>
+                                    <span class="post-points">▲ 356</span>
                                 </div>
                                 <div class="post-meta-item">
-                                    <span style="color: #9ca3af;">💬 553</span>
+                                    <span style="color: #9ca3af;">💬 558</span>
                                 </div>
                             </div>
                             <div class="post-meta-line">
@@ -2063,7 +2059,7 @@
                         <div class="post-meta">
                             <div class="post-meta-line">
                                 <div class="post-meta-item">
-                                    <span class="post-points">▲ 332</span>
+                                    <span class="post-points">▲ 333</span>
                                 </div>
                                 <div class="post-meta-item">
                                     <span style="color: #9ca3af;">💬 6</span>
@@ -2262,7 +2258,7 @@
                                     <span class="post-points">▲ 195</span>
                                 </div>
                                 <div class="post-meta-item">
-                                    <span style="color: #9ca3af;">💬 54</span>
+                                    <span style="color: #9ca3af;">💬 56</span>
                                 </div>
                             </div>
                             <div class="post-meta-line">
@@ -2308,7 +2304,7 @@
                         <div class="post-meta">
                             <div class="post-meta-line">
                                 <div class="post-meta-item">
-                                    <span class="post-points">▲ 186</span>
+                                    <span class="post-points">▲ 190</span>
                                 </div>
                                 <div class="post-meta-item">
                                     <span style="color: #9ca3af;">💬 67</span>
@@ -2357,7 +2353,7 @@
                         <div class="post-meta">
                             <div class="post-meta-line">
                                 <div class="post-meta-item">
-                                    <span class="post-points">▲ 129</span>
+                                    <span class="post-points">▲ 132</span>
                                 </div>
                                 <div class="post-meta-item">
                                     <span style="color: #9ca3af;">💬 53</span>
@@ -2405,7 +2401,7 @@
 
     </div>
     <div class="widget-footer">
-        <small data-timestamp="2026-02-12T07:34:15.683198+00:00">Updated 2026-02-12T07:34:15.683198+00:00</small>
+        <small data-timestamp="2026-02-12T08:49:59.434052+00:00">Updated 2026-02-12T08:49:59.434052+00:00</small>
     </div>
 </div>
 

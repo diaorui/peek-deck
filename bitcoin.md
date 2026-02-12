@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-02-12T07:34:48.642011+00:00'
+updated: '2026-02-12T08:50:27.216974+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- videos
-- social
 - cryptocurrency
 - news
+- videos
+- social
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** February 12, 2026 at 07:34 UTC  
+**Last Updated:** February 12, 2026 at 08:50 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -44,11 +44,11 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Chart
 
-**24h:** +0.4%  
-**7d:** -4.7%  
-**30d:** -30.6%  
-**90d:** -29.6%  
-**1y:** -30.3%  
+**24h:** +0.2%  
+**7d:** -5.1%  
+**30d:** -30.9%  
+**90d:** -29.9%  
+**1y:** -30.6%  
 
 ---
 
@@ -81,7 +81,7 @@ Rank #1
 
 It's estimated 80% of the price decline seen in the past 30 days is from derivative trading - leveraged bets that don't actually touch real bitcoin. They just get to push price down and do it by higher volume than what's being bet in real value terms. But did you know holding bitcoin on an exchange helps derivatives continue to trade like this? When you remove actual bitcoin from exchanges, it pulls out liquidity and squeezes the paper bets. When evaluating risks on shorts contracts that need to settle, a contributing factor is how much bitcoin is sitting on exchanges, regardless of if you have an open order. When synthetic exposure grows faster than actual bitcoin on exchanges... bad stuff happens to those who short bitcoin. It doesn't work the other way around. There's no inverse of having higher ratio of long bets in derivatives and not enough bitcoin liquidity.
 
-11h ago
+12h ago
 
 ---
 
@@ -89,7 +89,7 @@ It's estimated 80% of the price decline seen in the past 30 days is from derivat
 
 Just saw Bitcoin was on sale and decided to do the ol "buy and hodl".
 
-15h ago
+16h ago
 
 ---
 
@@ -97,7 +97,7 @@ Just saw Bitcoin was on sale and decided to do the ol "buy and hodl".
 
 As all bitcoiners know, bear markets are gigantic opportunities to stack cheap sats. But even if you know this, you might still squander the opportunity in one of the following ways: 1) Using Leverage "If bitcoin falls to $40k, I'm going to take out a second mortgage for this generational buying opportunity!" If this is you, please read this section carefully. Every time there is a bear market in bitcoin, the people who got sucked in at bull market highs because of FOMO are usually the first ones to get desperate in bear markets. They just bought the top and now they're trying to catch the falling knife on the way down. Do not mistake this coping mechanism for diamond hand conviction. If you use leverage to buy bitcoin, most of the time you will get destroyed. Why? Because despite all hopeful claims to the contrary ("this time is different!"), bitcoin remains one of the most volatile major assets in finance. Huge volatility and multi-year low prices will cause you major stress as you struggle to add collateral during downswings you thought weren't going to happen. All when you could have just kept buying spot bitcoin, totally stress-free. Want to know what happened last time? I detailed my personal account of the FTX collapse-driven bitcoin bear market in Daily Stack #1: Bear Market Thoughts - Flashback to 2022 (can check that out in my subreddit if you wish; I don't want to link it here out of respect for this subreddit's rules). 2) Panic Buying for Small Dips If your plan is to throw all your spare cash into bitcoin whenever there's a red day, you'll be out of cash by the end of this week (or sooner). Now, that's not the worst thing in the world (at least you stacked some sats), but here's the key thing you're missing: During bitcoin bear markets, your spare cash is basically a call option on other people's fear. To explain this for the non-finance natives out there, a call option gives you the right (but not the obligation) to buy an asset for a specific price (the strike price). People use call options if they think the price of an asset will go way up past their strike price in the future, so when it does they can exercise their call option to acquire the now expensive asset at a huge discount to its market price. Your spare cash is basically doing the same thing for you during a bitcoin bear market. Most people think as soon as we have a 5% drop, they have to panic buy the dip because it might never drop that much again. But panic buying every 5% drop is the same as betting that this bear market will be different from all five of the previous bear markets. "This time will be different" has a very bad track record in bitcoin's history. 3) Waiting for the "Perfect Bottom" Let's be clear: panic buying for small dips could be inefficient, but not buying at all could be an even bigger mistake. Bitcoin's immense volatility can surprise everyone in either direction, up or down. So, the most logical approach is to set a small recurring purchase (known as dollar cost averaging or "DCA" for short) and keep some dry powder in case there's another true market panic and bitcoin falls to unthinkable levels. That's when you can exercise your call option on other people's fear and get the most sats possible.
 
-15h ago
+16h ago
 
 ---
 
@@ -105,7 +105,7 @@ As all bitcoiners know, bear markets are gigantic opportunities to stack cheap s
 
 In short, my strategy is: set a target price (like 65k), then lower my entry by 2k every time it reaches it, regretting not entering as soon as it bounces by 5k, ending up waiting for it to correct by 2k during the BULL RANK... To be satisfied with buying at ATH in about 4 years... What do you think?
 
-13h ago
+15h ago
 
 ---
 
@@ -113,7 +113,7 @@ In short, my strategy is: set a target price (like 65k), then lower my entry by 
 
 Here goes my drama. I’m not going to lie, I’m a firm believer long term. I’ve done my research, I understand the thesis, and I’m not suddenly flipping bearish because of a few red days. But man, staring at these candlesticks lately is painful. Even if you believe in the bigger picture, watching price bleed like this messes with your head a bit. I’m not selling. Just admitting it doesn’t feel great in the moment.
 
-16h ago
+17h ago
 
 ---
 
@@ -129,7 +129,7 @@ Aight look, nobody’s asking you to quit your job and run a node. But if you ha
 
 I hear a lot of talk, but is anyone willing to put their money where their mouth is and prove that they're a TRUE believer?
 
-9h ago
+11h ago
 
 ---
 
@@ -137,7 +137,7 @@ I hear a lot of talk, but is anyone willing to put their money where their mouth
 
 From what I am seeing: https://alternative.me/crypto/fear-and-greed-index/ we just just got the lowest fear and greed score ever: 5 https://preview.redd.it/8vnse0l6jyig1.png?width=722&format=png&auto=webp&s=bf1cd65764d691ded626c82771a355d080635500
 
-7h ago
+8h ago
 
 ---
 
@@ -145,13 +145,13 @@ From what I am seeing: https://alternative.me/crypto/fear-and-greed-index/ we ju
 
 Credit https://x.com/jackmallers
 
-16h ago
+17h ago
 
 ---
 
-**[Maybe I am](https://www.reddit.com/r/Bitcoin/comments/1r1mwos/maybe_i_am/)**
+**[Spending sats at the farmers market in El Zonte](https://www.reddit.com/r/Bitcoin/comments/1r2niwb/spending_sats_at_the_farmers_market_in_el_zonte/)**
 
-1d ago
+57m ago
 
 ---
 
@@ -169,65 +169,67 @@ People.com • 1d ago
 
 **[Crypto lender BlockFills suspends withdrawals amid faltering bitcoin price](https://www.reuters.com/legal/government/crypto-lender-blockfills-suspends-withdrawals-amid-faltering-bitcoin-price-2026-02-11/)**
 
-Reuters • 13h ago
+Reuters • 14h ago
 
 ---
 
-**[Crypto lender halted withdrawals during Bitcoin's fall last week](https://www.tradingview.com/news/cointelegraph:42cb645fa094b:0-crypto-lender-halted-withdrawals-during-bitcoin-s-fall-last-week/)**
+**[Another crypto company halts withdrawals as markets slide](https://www.thestreet.com/crypto/markets/another-crypto-company-halts-withdrawals-as-markets-slide)**
+
+Volatility is once again putting crypto markets under pressure.
+
+thestreet.com • 15h ago
+
+---
+
+**[Crypto lender halted withdrawals during Bitcoin’s fall last week](https://www.tradingview.com/news/cointelegraph:42cb645fa094b:0-crypto-lender-halted-withdrawals-during-bitcoin-s-fall-last-week/)**
 
 Institution-focused crypto lending platform BlockFills announced it halted customer deposits and withdrawals last week as Bitcoin and the broader crypto market continued to tumble. The suspension, which remains in effect, was intended to protect clients and restore liquidity on the platform, BlockF…
 
-TradingView • 3h ago
+TradingView • 4h ago
 
 ---
 
-**[Susquehanna-Backed Crypto Lender BlockFills Suspends Withdrawals as Bitcoin Sinks](https://decrypt.co/357760/crypto-lender-blockfills-suspends-withdrawals-bitcoin-sinks)**
+**[Bitcoin falls to $69,000 as crypto market shows 'early stages of bottoming'](https://finance.yahoo.com/news/bitcoin-falls-to-69000-as-crypto-market-shows-early-stages-of-bottoming-163932366.html)**
 
-Crypto firm BlockFills said it has temporarily halted deposits and withdrawals on its platform amid falling crypto prices and volatility.
+Bitcoin prices hovered around $69,000, with one analyst suggesting that the crypto market may be approaching its bottom.
 
-Decrypt • 14h ago
-
----
-
-**[Binance Completes $1B SAFU Bitcoin Purchase at Average Price Near $70,000](https://www.binance.com/en/square/post/290773529600498)**
-
-Binance • 14m ago
-
----
-
-**[Bitcoin Briefly Drops Below $67,000 as Stock Divergence Rises](https://finance.yahoo.com/news/bitcoin-slides-below-67-000-070036071.html)**
-
-“Bitcoin has fallen below $67,000, recording its third daily bearish candle,” Alex Kuptsikevich, chief market analyst at FxPro Group, said in a note.  “We suspect last week’s $60,000 low, created on massive volumes, is a capitulation type low, a clear catalyst for a sustained rebound remains elusive,” said Tony Sycamore, an analyst, IG Australia.  Rate cuts have been historically viewed as positive catalyst for Bitcoin since they generally increase demand for higher returning riskier assets.
-
-Yahoo Finance • 9h ago
-
----
-
-**[Bitcoin, XRP, Ether Are Falling Again. Why Cryptos May Soon Get a Boost.](https://www.barrons.com/articles/bitcoin-xrp-ether-cryptos-jobs-report-343266f8?gaa_at=eafs&gaa_n=AWEtsqeFexEzxwGSkQicVUw5AK1mlZS61RDN7tE32fLRPKUVuXaIlGLr1pjD&gaa_ts=698d85fc&gaa_sig=eidu4TtGbDXRTLRhL2ZFa2DHHi1q3hDiiLKL47aoCuKMOW48bv09QE11UPq0pbEXRqoD0GrXi6g4OyLQefcz-w%3D%3D)**
-
-Barron's • 9h ago
+Yahoo Finance • 1d ago
 
 ---
 
 **[Bitcoin, Big Tech and the AI Trade Rollercoaster](https://www.bloomberg.com/news/articles/2026-02-12/why-bitcoin-and-tech-stocks-are-under-pressure-australia-podcast)**
 
-Bloomberg • 4h ago
+Bloomberg.com • 5h ago
 
 ---
 
-**[Why Bitcoin Is Crashing](https://www.thefp.com/p/why-bitcoin-is-crashing)**
+**[Bitcoin, XRP, Ether Are Falling Again. Why Cryptos May Soon Get a Boost.](https://www.barrons.com/articles/bitcoin-xrp-ether-cryptos-jobs-report-343266f8?gaa_at=eafs&gaa_n=AWEtsqeYETL7ovZ0A1si5OhWpJpx9nVFo2pspt193zT9O8oeQ811b1N3n4Ud&gaa_ts=698d97bb&gaa_sig=Cby0deS-qV7y3Mhb_d0lMGpZ4MiuhtL-fc-kOUMb-uTfkrvAXNWQWuNnScOpWCeQsrvyVVBZcXmfBM-5CJwL3A%3D%3D)**
 
-Just as in traditional markets, borrowed money set off a cascade of losses.
-
-The Free Press • 7h ago
+Barron's • 11h ago
 
 ---
 
-**[Bitcoin and XRP Are Crashing. Should You Buy the Dip?](https://www.nasdaq.com/articles/bitcoin-and-xrp-are-crashing-should-you-buy-dip)**
+**[Michael Saylor downplays Strategy credit risk as bitcoin tumbles: 'We'll refinance the debt'](https://www.cnbc.com/2026/02/10/michael-saylor-downplays-strategy-credit-risk-as-bitcoin-tumbles-well-refinance-the-debt.html)**
 
-Key PointsThe crypto market crashed in the first week of February.
+Strategy plans to continue refinancing its debt and buying bitcoin, even as the token tumbles, CEO Michael Saylor said Tuesday on CNBC's "Squawk Box."
 
-Nasdaq • 10h ago
+CNBC • 1d ago
+
+---
+
+**[Michael Saylor Isn’t Backing Down from Buying Bitcoin. Why MSTR Stock Investors Don’t Like That.](https://finance.yahoo.com/news/michael-saylor-isn-t-backing-143123093.html)**
+
+MicroStrategy stock sinks as Michael Saylor says the company will buy Bitcoin every quarter forever. Here’s why MSTR shares are worth buying at current levels.
+
+Yahoo Finance • 18h ago
+
+---
+
+**[Strategy's STRC returns to $100, poised to unlock more bitcoin accumulation](https://www.coindesk.com/markets/2026/02/12/strategy-s-strc-returns-to-usd100-poised-to-unlock-more-bitcoin-accumulation)**
+
+The perpetual preferred STRC hits $100 par amid bitcoin downturn, enabling potential further BTC purchases for the company.
+
+CoinDesk • 4h ago
 
 ---
 
@@ -317,7 +319,7 @@ Ray Dalio says the monetary order is breaking down and the signs are everywhere.
 
 📺 Simply Bitcoin
 
-👁️ 15K • 👍 1K • 💬 165 • ⏱️ 23:25 • 7h ago
+👁️ 15K • 👍 1K • 💬 165 • ⏱️ 23:25 • 8h ago
 
 ---
 
@@ -327,7 +329,7 @@ Ran and Ben Cowen sit down to tackle the 2026 crypto roadmap and the shifting "p
 
 📺 Crypto Banter
 
-👁️ 43K • 👍 2K • 💬 103 • ⏱️ 40:21 • 15h ago
+👁️ 43K • 👍 2K • 💬 103 • ⏱️ 40:21 • 16h ago
 
 ---
 
@@ -337,7 +339,7 @@ We're watching the worst crypto crash since the FTX scandal. Ben McKenzie explai
 
 📺 More Perfect Union
 
-👁️ 304K • 👍 24K • 💬 2K • ⏱️ 2:50 • 12h ago
+👁️ 304K • 👍 24K • 💬 2K • ⏱️ 2:50 • 13h ago
 
 ---
 
@@ -347,7 +349,7 @@ MARA CEO Fred Thiel discusses the importance of digital asset regulation and his
 
 📺 Fox Business Clips
 
-👁️ 104K • 👍 2K • 💬 2K • ⏱️ 7:23 • 17h ago
+👁️ 104K • 👍 2K • 💬 2K • ⏱️ 7:23 • 18h ago
 
 ---
 
@@ -377,7 +379,7 @@ The Bitcoin ETF landscape has officially FLIPPED! Is this the start of the rally
 
 📺 Discover Crypto
 
-👁️ 8K • 👍 464 • 💬 85 • ⏱️ 1:54:39 • 14h ago
+👁️ 8K • 👍 464 • 💬 85 • ⏱️ 1:54:39 • 15h ago
 
 ---
 
@@ -407,7 +409,7 @@ Bitcoin #Crypto #Finance Today's Bitcoin selloff wasn't just another red candle.
 
 📺 The Wolf Of All Streets
 
-👁️ 25K • 👍 1K • 💬 398 • ⏱️ 27:34 • 17h ago
+👁️ 25K • 👍 1K • 💬 398 • ⏱️ 27:34 • 18h ago
 
 ---
 
