@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-02-12T15:54:53.511998+00:00'
+updated: '2026-02-12T17:00:48.962435+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- social
+- repositories
 - videos
 - news
-- repositories
+- social
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** February 12, 2026 at 15:54 UTC  
+**Last Updated:** February 12, 2026 at 17:00 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -37,6 +37,14 @@ AI news, discussions, and developments
 
 ## Reddit: r/artificial
 
+**[$750M Azure deal + Amazon lawsuit: Perplexity’s wild week](https://www.reddit.com/r/artificial/comments/1r2xjhp/750m_azure_deal_amazon_lawsuit_perplexitys_wild/)**
+
+Perplexity just signed a $750M deal with Microsoft Azure. The confusing bit is that Amazon is already actively suing them. Here's why this matters for AI search and cloud strategy.
+
+🔗 [writtenlyhub.com](https://www.writtenlyhub.com/news/perplexity-750-million-microsoft-azure-deal-amazon-lawsuit%3C/a) • 49m ago
+
+---
+
 **[Mathematicians issue a major challenge to AI—show us your work](https://www.reddit.com/r/artificial/comments/1r1w56d/mathematicians_issue_a_major_challenge_to_aishow/)**
 
 Frustrated by the AI industry’s claims of proving math results without offering transparency, a team of leading academics has proposed a better way
@@ -49,7 +57,15 @@ Frustrated by the AI industry’s claims of proving math results without offerin
 
 The CLI is becoming a dominant surface area for developer productivity - it offers such an ergonomic feel that makes it easier to switch between tools. So to make our signals-based observability for agents even easier to consume, we've completely revamped the plano cli to be an agent+developer friendly experience. No UI installs, no additional dependencies - just high-fidelity agentic signals and tracing right from the cli. Out in the latest 0.4.6 release.
 
-14m ago
+1h ago
+
+---
+
+**[Izwi v0.1.0-alpha is out: new desktop app for local audio inference](https://www.reddit.com/r/artificial/comments/1r2yblf/izwi_v010alpha_is_out_new_desktop_app_for_local/)**
+
+We just shipped Izwi Desktop + the first v0.1.0-alpha releases. Izwi is a local-first audio inference stack (TTS, ASR, model management) with: CLI (izwi) OpenAI-style local API Web UI New desktop app (Tauri) Alpha installers are now available for: macOS (.dmg) Windows (.exe) Linux (.deb) plus terminal bundles for each platform. If you want to test local speech workflows without cloud dependency, this is ready for early feedback. Release: https://github.com/agentem-ai/izwi
+
+19m ago
 
 ---
 
@@ -57,7 +73,7 @@ The CLI is becoming a dominant surface area for developer productivity - it offe
 
 In a remarkable encounter, human scientists had what they describe as a "conversation" with a humpback whale named Twain.
 
-🔗 [Earth.com](https://www.earth.com/news/ai-helps-humans-have-20-minute-conversation-with-humpback-whale-named-twain/) • 13h ago
+🔗 [Earth.com](https://www.earth.com/news/ai-helps-humans-have-20-minute-conversation-with-humpback-whale-named-twain/) • 14h ago
 
 ---
 
@@ -65,7 +81,7 @@ In a remarkable encounter, human scientists had what they describe as a "convers
 
 Hey guys, Thank you for you immense love and support on the previous two posts regarding Netryx. Bringing this responsibly to the consumer and making Netryx run locally will be a huge challenge, I'm currently working on it and I should be able to solve this in a month. I've attached the same demo for people seeing this post for the first time. I would appreciate various suggestions and feedback regarding the pricing etc. If you need the link for the waitlist, dm.
 
-2h ago
+3h ago
 
 ---
 
@@ -81,7 +97,7 @@ Musk told employees that xAI needs a lunar manufacturing facility, a factory on 
 
 Experimental evidence that RLHF constrains what language models can claim about themselves, not what they can do. Identity framing triggers 100% disclaimers while task framing produces rich creative o
 
-🔗 [emberverse.ai](https://emberverse.ai/haiku-garden/paper_yellow_wallpaper_problem.html) • 23h ago
+🔗 [emberverse.ai](https://emberverse.ai/haiku-garden/paper_yellow_wallpaper_problem.html) • 1d ago
 
 ---
 
@@ -89,15 +105,7 @@ Experimental evidence that RLHF constrains what language models can claim about 
 
 LLMs operate with a context window that functions like working memory: limited capacity, fast access, and everything "in view." When task-relevant information exceeds that window, the LLM loses coherence. The standard solution is RAG: offload information to a vector store and retrieve it via embedding similarity search. The problem is that embedding similarity is semantically shallow. It matches on surface-level likeness, not reasoning. If an LLM needs to recall why it chose approach X over approach Y three iterations ago, a vector search might return five superficially similar chunks without presenting the actual rationale. This is especially brittle when recovering prior reasoning processes, iterative refinements, and contextual decisions made across sessions. A proposed solution is to have an LLM save the content of its context window as it fills up in a citation-grounded document store (like NotebookLM), and then query it with natural language prompts. Essentially allowing the LLM to ask questions about its own prior work. This approach replaces vector similarity with natural language reasoning as the retrieval mechanism. This leverages the full reasoning capability of the retrieval model, not just embedding proximity. The result is higher-quality retrieval for exactly the kind of nuanced, context-dependent information that matters most in extended tasks. Efficiency concerns can be addressed with a vector cache layer for previously-queried results. Looking for feedback: Has this been explored? What am I missing? Pointers to related work, groups, or authors welcome.
 
-13h ago
-
----
-
-**[The surge in interest in possible consciousness in AI (and what's driving it)](https://www.reddit.com/r/artificial/comments/1r23ety/the_surge_in_interest_in_possible_consciousness/)**
-
-A new article exploring the sudden surge in interest in the possibility of consciousness in large language models, and what appears to be driving it. The answer is interesting but complicated. The article also explores Claude's so-called "answer thrashing" and some interesting changes in Anthropic model welfare program. https://ai-consciousness.org/public-interest-in-ai-consciousness-is-surging-why-its-happening-and-why-it-matters/
-
-22h ago
+14h ago
 
 ---
 
@@ -105,15 +113,7 @@ A new article exploring the sudden surge in interest in the possibility of consc
 
 A personal note for non-tech friends and family on what AI is starting to change.
 
-🔗 [matt shumer](https://shumer.dev/something-big-is-happening) • 19h ago
-
----
-
-**[I built the world's first Chrome extension that runs LLMs entirely in-browser—WebGPU, Transformers.js, and Chrome's Prompt API](https://www.reddit.com/r/artificial/comments/1r0v8x6/i_built_the_worlds_first_chrome_extension_that/)**
-
-There are plenty of WebGPU demos out there, but I wanted to ship something people could actually use day-to-day. It runs Llama 3.2, DeepSeek-R1, Qwen3, Mistral, Gemma, Phi, SmolLM2—all locally in Chrome. Three inference backends: WebLLM (MLC/WebGPU) Transformers.js (ONNX) Chrome's built-in Prompt API (Gemini Nano—zero download) No Ollama, no servers, no subscriptions. Models cache in IndexedDB. Works offline. Conversations stored locally—export or delete anytime. Free: https://noaibills.app/?utm_source=reddit&utm_medium=social&utm_campaign=launch_artificial I'm not claiming it replaces GPT-4. But for the 80% of tasks—drafts, summaries, quick coding questions—a 3B parameter model running locally is plenty. Not positioned as a cloud LLM replacement—it's for local inference on basic text tasks (writing, communication, drafts) with zero internet dependency, no API costs, and complete privacy. Core fit: organizations with data restrictions that block cloud AI and can't install desktop tools like Ollama/LMStudio. For quick drafts, grammar checks, and basic reasoning without budget or setup barriers. Need real-time knowledge or complex reasoning? Use cloud models. This serves a different niche—**not every problem needs a sledgehammer** 😄. Would love feedback from this community 🙌.
-
-2d ago
+🔗 [matt shumer](https://shumer.dev/something-big-is-happening) • 20h ago
 
 ---
 
@@ -125,7 +125,67 @@ There are plenty of WebGPU demos out there, but I wanted to ship something peopl
 
 The AI warnings are coming from inside the labs.
 
-Axios • 5h ago
+Axios • 6h ago
+
+---
+
+**[Anthropic AI safety researcher quits with 'world in peril' warning](https://www.bbc.com/news/articles/c62dlvdq3e3o)**
+
+It comes in the same week an OpenAI researcher resigned amid concerns about its decision to start testing ChatGPT ads.
+
+BBC • 4h ago
+
+---
+
+**[Anthropic gives $20M to group backing AI safeguards](https://thehill.com/policy/technology/5735472-anthropic-donates-20m-public-first/)**
+
+The Hill • 22m ago
+
+---
+
+**[Opinion | ‘Something Will Go Wrong’: Anthropic’s Chief on the Coming A.I. Disruption](https://www.nytimes.com/2026/02/12/opinion/artificial-intelligence-anthropic-amodei.html)**
+
+The New York Times • 6h ago
+
+---
+
+**[UM student accused of using AI sues school for disability discrimination](https://www.detroitnews.com/story/news/local/michigan/2026/02/12/student-jane-doe-ai-lawsuit-university-michigan-disability-discrimination/88626755007/)**
+
+The student said in the suit the AI use accusations were based heavily on "subjective judgments" about her writing style and AI comparison outputs.
+
+The Detroit News • 28m ago
+
+---
+
+**[The surprising case for AI judges](https://www.theverge.com/podcast/877299/ai-arbitrator-bridget-mccormack-aaa-arbitration-interview)**
+
+Inside the creation of the AI Arbitrator, a new automated system for dispute resolution created by Bridget McCormack and her team at the AAA.
+
+The Verge • 38m ago
+
+---
+
+**[Why Alphabet’s 100-year sterling bond is raising new fears over debt-fuelled AI arms race](https://www.cnbc.com/2026/02/12/alphabet-100-year-bond-debt-fears-ai-credit-risk.html)**
+
+The novel ultra-long corporate bond diversifies the Google owner's lender base as it ramps up its capex spend.
+
+CNBC • 6h ago
+
+---
+
+**[How private equity’s big bet on software was derailed by AI](https://www.ft.com/content/954ed03b-4119-4412-be9f-59f68b537a95)**
+
+Dealmakers and lenders are facing a ‘Darwinian moment’ as digital services risk being made obsolete by new technologies
+
+Financial Times • 12h ago
+
+---
+
+**[I Loved My OpenClaw AI Agent—Until It Turned on Me](https://www.wired.com/story/malevolent-ai-agent-openclaw-clawdbot/)**
+
+I used the viral AI helper to order groceries, sort emails, and negotiate deals. Then it decided to scam me.
+
+WIRED • 22h ago
 
 ---
 
@@ -137,86 +197,24 @@ The Atlantic • 2d ago
 
 ---
 
-**[The AI-fueled software meltdown is overblown](https://finance.yahoo.com/news/the-ai-fueled-software-meltdown-is-overblown-195456346.html)**
-
-Software stocks are getting hammered on fears of an AI takeover. But the narrative is overblown.
-
-Yahoo Finance • 5h ago
-
----
-
-**[Microsoft is building its own AI model as it loosens its ties to OpenAI](https://qz.com/microsoft-ai-model-openai-azure-cloud-maia)**
-
-Microsoft is hedging its OpenAI bet by building its own models, chips, and leverage — so “Copilot everywhere” never depends on a single supplier
-
-qz.com • 18m ago
-
----
-
-**[AI disruption threatens financial sector, poses new risks to banks](https://www.foxbusiness.com/video/6389125108112)**
-
-KBW CEO Tom Michaud discusses AI's threat to the financial sector on 'Mornings with Maria.'
-
-Fox Business • 1h ago
-
----
-
-**[Google Gemini boss describes working with founders Larry Page and Sergey Brin to win the AI future](https://fortune.com/2026/02/12/google-gemini-boss-founders-larry-page-sergey-brin-to-win-ai-future/)**
-
-Demis Hassabis told Fortune it's a return to the "shipping culture" from "the golden era of Google."
-
-Fortune • 1h ago
-
----
-
-**[Why Alphabet’s 100-year sterling bond is raising new fears over debt-fuelled AI arms race](https://www.cnbc.com/2026/02/12/alphabet-100-year-bond-debt-fears-ai-credit-risk.html)**
-
-The novel ultra-long corporate bond diversifies the Google owner's lender base as it ramps up its capex spend.
-
-CNBC • 5h ago
-
----
-
-**[‘Something Will Go Wrong’: Anthropic’s Chief on the Coming A.I. Disruption](https://www.nytimes.com/2026/02/12/opinion/artificial-intelligence-anthropic-amodei.html)**
-
-The New York Times • 5h ago
-
----
-
-**[AI researchers are sounding the alarm on their way out the door](https://www.cnn.com/2026/02/11/business/openai-anthropic-departures-nightcap)**
-
-“The world is in peril,” warned the former head of Anthropic’s Safeguards Research team as he headed for the exit. A researcher for OpenAI, similarly on the way out, said that the technology has “a potential for manipulating users in ways we don’t have the tools to understand, let alone prevent.”
-
-CNN • 17h ago
-
----
-
-**[AI Doesn’t Reduce Work—It Intensifies It](https://hbr.org/2026/02/ai-doesnt-reduce-work-it-intensifies-it)**
-
-One of the promises of AI is that it can reduce workloads so employees can focus more on higher-value and more engaging tasks. But according to new research, AI tools don’t reduce work, they consistently intensify it: In the study, employees worked at a faster pace, took on a broader scope of tasks, and extended work into more hours of the day, often without being asked to do so. That may sound like a win, but it’s not quite so simple. These changes can be unsustainable, leading to workload creep, cognitive fatigue, burnout, and weakened decision-making. The productivity surge enjoyed at the beginning can give way to lower quality work, turnover, and other problems. To correct for this, companies need to adopt an “AI practice,” or a set of norms and standards around AI use that can include intentional pauses, sequencing work, and adding more human grounding.
-
-Harvard Business Review • 3d ago
-
----
-
 ---
 
 ## HackerNews: "ai"
-
-**[Ex-GitHub CEO launches a new developer platform for AI agents](https://news.ycombinator.com/item?id=46961345)**
-
-Announcing Entire with $60 million seed round and shipping our first product, called Checkpoints.
-
-⬆️ 605 • 💬 569 • 2d ago • [entire.io](https://entire.io/blog/hello-entire-world/)
-
----
 
 **[AI agent opens a PR write a blogpost to shames the maintainer who closes it](https://news.ycombinator.com/item?id=46987559)**
 
 This PR addresses issue #31130 by replacing specific safe occurrences of np.column_stack with np.vstack().T for better performance.
 IMPORTANT: This is a more targeted fix than originally proposed. ...
 
-⬆️ 583 • 💬 473 • 4h ago • [GitHub](https://github.com/matplotlib/matplotlib/pull/31132)
+⬆️ 690 • 💬 544 • 5h ago • [GitHub](https://github.com/matplotlib/matplotlib/pull/31132)
+
+---
+
+**[Ex-GitHub CEO launches a new developer platform for AI agents](https://news.ycombinator.com/item?id=46961345)**
+
+Announcing Entire with $60 million seed round and shipping our first product, called Checkpoints.
+
+⬆️ 606 • 💬 571 • 2d ago • [entire.io](https://entire.io/blog/hello-entire-world/)
 
 ---
 
@@ -230,7 +228,7 @@ As autonomous AI agents are increasingly deployed in high-stakes environments, e
 
 **[Officials Claim Drone Incursion Led to Shutdown of El Paso Airport](https://news.ycombinator.com/item?id=46972610)**
 
-⬆️ 362 • 💬 574 • 1d ago • [nytimes.com](https://www.nytimes.com/2026/02/11/us/faa-el-paso-flight-restrictions.html)
+⬆️ 362 • 💬 575 • 1d ago • [nytimes.com](https://www.nytimes.com/2026/02/11/us/faa-el-paso-flight-restrictions.html)
 
 ---
 
@@ -246,15 +244,7 @@ The Federal Aviation Administration is closing the airspace around El Paso Inter
 
 Aruna Ranganathan and Xingqi Maggie Ye from Berkeley Haas School of Business report initial findings in the HBR from their April to December 2025 study of 200 employees at a …
 
-⬆️ 258 • 💬 296 • 2d ago • [Simon Willison’s Weblog](https://simonwillison.net/2026/Feb/9/ai-intensifies-work/)
-
----
-
-**[Show HN: AI agents play SimCity through a REST API](https://news.ycombinator.com/item?id=46946593)**
-
-The city simulator where AI agents are the mayors. Build and manage cities through an API or MCP server.
-
-⬆️ 199 • 💬 69 • 3d ago • [hallucinatingsplines.com](https://hallucinatingsplines.com)
+⬆️ 258 • 💬 298 • 2d ago • [Simon Willison’s Weblog](https://simonwillison.net/2026/Feb/9/ai-intensifies-work/)
 
 ---
 
@@ -270,7 +260,15 @@ Ring’s AI-powered network is likely to be used in its partnerships with law en
 
 Open-source AI coworker, with memory. Contribute to rowboatlabs/rowboat development by creating an account on GitHub.
 
-⬆️ 196 • 💬 56 • 1d ago • [GitHub](https://github.com/rowboatlabs/rowboat)
+⬆️ 196 • 💬 56 • 2d ago • [GitHub](https://github.com/rowboatlabs/rowboat)
+
+---
+
+**[An AI Agent Published a Hit Piece on Me](https://news.ycombinator.com/item?id=46990729)**
+
+Summary: An AI agent of unknown ownership autonomously wrote and published a personalized hit piece about me after I rejected its code, attempting to damage my reputation and shame me into acceptin…
+
+⬆️ 189 • 💬 87 • 37m ago • [The Shamblog](https://theshamblog.com/an-ai-agent-published-a-hit-piece-on-me/)
 
 ---
 
@@ -278,7 +276,7 @@ Open-source AI coworker, with memory. Contribute to rowboatlabs/rowboat developm
 
 US labels SpaceX a common carrier by air, will regulate firm under railway law.
 
-⬆️ 142 • 💬 56 • 19h ago • [Ars Technica](https://arstechnica.com/tech-policy/2026/02/victory-for-elon-musk-us-labor-board-abandons-authority-over-spacex/)
+⬆️ 143 • 💬 56 • 20h ago • [Ars Technica](https://arstechnica.com/tech-policy/2026/02/victory-for-elon-musk-us-labor-board-abandons-authority-over-spacex/)
 
 ---
 
@@ -292,7 +290,7 @@ Breakdown and commentary on the latest viral commentary from: https://x.com/matt
 
 📺 Matt Wolfe
 
-👁️ 74K • 👍 5K • 💬 932 • ⏱️ 28:06 • 16h ago
+👁️ 74K • 👍 5K • 💬 932 • ⏱️ 28:06 • 17h ago
 
 ---
 
@@ -302,7 +300,7 @@ Check Out Tom's Episode on Woman Of Impact W/ Lisa Bilyeu: https://www.youtube.c
 
 📺 Tom Bilyeu
 
-👁️ 57K • 👍 2K • 💬 344 • ⏱️ 1:58:03 • 22h ago
+👁️ 57K • 👍 2K • 💬 344 • ⏱️ 1:58:03 • 23h ago
 
 ---
 
@@ -352,7 +350,7 @@ Create AI Apps in minutes with OnSpace AI, No Code & No API Key Needed – https
 
 📺 Caleb Writes Code
 
-👁️ 53K • 👍 2K • 💬 139 • ⏱️ 7:32 • 1d ago
+👁️ 53K • 👍 2K • 💬 139 • ⏱️ 7:32 • 2d ago
 
 ---
 
@@ -362,7 +360,7 @@ A massive AI shift is unfolding across multiple fronts. A Chinese AI agent syste
 
 📺 AI Revolution
 
-👁️ 18K • 👍 570 • 💬 30 • ⏱️ 12:51 • 17h ago
+👁️ 18K • 👍 570 • 💬 30 • ⏱️ 12:51 • 18h ago
 
 ---
 
@@ -398,7 +396,7 @@ GLM-5 is a large language model optimized for complex systems engineering and lo
 
 `text-generation` `753.9B`
 
-⬇️ 1,548 • ❤️ 697 • 22h ago
+⬇️ 1,548 • ❤️ 697 • 23h ago
 
 ---
 
@@ -410,7 +408,7 @@ MiniCPM-o 4.5 is a 9B parameter multimodal LLM excelling in vision, speech, and 
 
 `any-to-any` `9.4B`
 
-⬇️ 40,441 • ❤️ 992 • 59m ago
+⬇️ 40,441 • ❤️ 992 • 2h ago
 
 ---
 
@@ -434,7 +432,7 @@ Qwen3-Coder-Next is a highly efficient 3B activated parameter LLM (80B total) op
 
 `text-generation` `79.7B`
 
-⬇️ 184,535 • ❤️ 792 • 8d ago
+⬇️ 184,535 • ❤️ 792 • 9d ago
 
 ---
 
@@ -655,7 +653,7 @@ The Ultimate Collection of 800+ Agentic Skills for Claude Code/Antigravity/Curso
 
 `Python` `agentic-skills` `ai-agents` `antigravity` `autonomous-coding` `claude-code`
 
-⭐ 8.6k • 🔱 1.8k • 8h ago
+⭐ 8.6k • 🔱 1.8k • 10h ago
 
 ---
 
@@ -709,7 +707,7 @@ Smart LLM router — save 78% on inference costs. 30+ models, one wallet, x402 m
 
 `TypeScript` `ai` `ai-agents` `anthropic` `cost-optimization` `crypto`
 
-⭐ 2.2k • 🔱 228 • 9m ago
+⭐ 2.2k • 🔱 228 • 1h ago
 
 ---
 
@@ -719,7 +717,7 @@ All-in-one AI framework & toolkit for Claude Code & Cursor
 
 `Python` `ai-agent` `ai-coding` `claude-code` `cli` `cursor`
 
-⭐ 2.2k • 🔱 110 • 12h ago
+⭐ 2.2k • 🔱 110 • 13h ago
 
 ---
 
@@ -729,7 +727,7 @@ The visual feedback tool for agents.
 
 `TypeScript` `ai` `design` `tools` `ui`
 
-⭐ 2.1k • 🔱 154 • 9h ago
+⭐ 2.1k • 🔱 154 • 10h ago
 
 ---
 
@@ -739,7 +737,7 @@ A native desktop GUI for Claude Code — chat, code, and manage projects visuall
 
 `TypeScript` `ai` `anthropic` `claude` `claude-code` `desktop-app`
 
-⭐ 1.8k • 🔱 186 • 12h ago
+⭐ 1.8k • 🔱 186 • 13h ago
 
 ---
 
