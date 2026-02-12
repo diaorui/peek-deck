@@ -3,14 +3,14 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-02-12T09:52:48.948978+00:00'
+updated: '2026-02-12T10:48:33.194819+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
 - news
-- cryptocurrency
 - videos
+- cryptocurrency
 - social
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** February 12, 2026 at 09:52 UTC  
+**Last Updated:** February 12, 2026 at 10:48 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -72,7 +72,7 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-3h ago
+4h ago
 
 ---
 
@@ -80,7 +80,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 It's open source and live on Arbitrum One right now. Happy to answer any questions! https://etour.games Here's some gameplay screenshots: https://imgur.com/tPqmCpl https://imgur.com/cj7T0Zm https://imgur.com/AmbvLOH https://imgur.com/Z39Ix1L https://imgur.com/VWBbj51 https://imgur.com/YITii03 https://imgur.com/a/Wni0Ybu
 
-8h ago
+9h ago
 
 ---
 
@@ -88,7 +88,7 @@ It's open source and live on Arbitrum One right now. Happy to answer any questio
 
 Hello Everyone. I've agreed, in principle, to invest a small amount of money in a start up. I'm taking a small percentage of equity in the company, but also signing a SAFT where I need to provide an "Ethereum/BASE Wallet Address". This is already beyond my limited crypto knowledge. I downloaded a couple of apps that I think will do the job, currently going through Trust Wallet. What I am stumped with is what details I now provide. There was no registration on the app, when I click receive, i then have to choose what I want to receive. Is that the address that comes up for ETH? Or would I wait for the token to go live? Is that long alpha/number all that is required to receive/dispose of tokens - no password or secondary checks?
 
-5h ago
+6h ago
 
 ---
 
@@ -96,13 +96,13 @@ Hello Everyone. I've agreed, in principle, to invest a small amount of money in 
 
 Vitalik Buterin proposes ZK API usage credits to make Ethereum the privacy-preserving infrastructure layer for AI and autonomous agents.
 
-🔗 [EtherWorld.co](https://etherworld.co/vitaliks-zk-api-proposal-aims-to-make-ethereum-the-home-for-ai/) • 1m ago
+🔗 [EtherWorld.co](https://etherworld.co/vitaliks-zk-api-proposal-aims-to-make-ethereum-the-home-for-ai/) • 57m ago
 
 ---
 
 **[Vitalik Buterin on the Future of AI and Ethereum’s Role in It](https://www.reddit.com/r/ethereum/comments/1r2anmr/vitalik_buterin_on_the_future_of_ai_and_ethereums/)**
 
-12h ago
+13h ago
 
 ---
 
@@ -118,7 +118,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 I am attending ETHDenver 2026 next week for the first time. Do y'all have any recommendation on which events are the best to go to? Main and side events? I've been scrolling through Luma and have signed up for a bunch, but would love the opinion of others going. Would welcome any recos :) For context, working in a multi-stage crypto VC, so looking for sourcing opportunities and meeting cool people!
 
-13h ago
+14h ago
 
 ---
 
@@ -126,7 +126,7 @@ I am attending ETHDenver 2026 next week for the first time. Do y'all have any re
 
 We invite you to join us at DWeb Camp!
 
-🔗 [dwebcamp.org](https://dwebcamp.org/berlin-2026/) • 9h ago
+🔗 [dwebcamp.org](https://dwebcamp.org/berlin-2026/) • 10h ago
 
 ---
 
@@ -142,7 +142,7 @@ bitcoin has a $1T+ market cap… and basically no native defi. stacks (stx) is t
 
 Hello folks! I drafted this smart contract visualizer tool. It shows the structure of the contract, a plain english explenation and an AI powered security analysis (screenshots below). The purpose would be double: for devs, easily understand and read other contract for learning purpose for users, double-check a contract before interacting with it There would be tons of possible improvements: expand code by clicking on the tile multi chain support support complex contract for many imports by exploding them What do you think? Does the tool have a reason to exist? :) https://preview.redd.it/rz5mi9qhquig1.png?width=1930&format=png&auto=webp&s=5b8c09f479a17e19dadcdad9d2eb4540937a8d83 https://preview.redd.it/2juw6bqhquig1.png?width=1934&format=png&auto=webp&s=1a3ed192e5391c60fb9a1094adb71f364d6eaecc https://preview.redd.it/2oi05cqhquig1.png?width=1940&format=png&auto=webp&s=2543b85dd1018625ec7e8a64c01be2235a8b31fd Thanks, Francesco
 
-22h ago
+23h ago
 
 ---
 
@@ -194,7 +194,7 @@ Decrypt • 2d ago
 
 On-chain data shows the Ethereum wallets with more than 1,000 ETH have reduced their holdings over the last eleven weeks, shedding 1.5% of the ETH supply.Ethereum Whales Have Distributed Tokens Equivalent To 1.5% Of The SupplyAs explained by on-chain analytics firm Santiment in an X post, Ethereum…
 
-TradingView • 13h ago
+TradingView • 14h ago
 
 ---
 
@@ -224,7 +224,7 @@ The Block • 1d ago
 
 Bitcoin (BTC) and Ethereum’s (ETH) dominance as the top cryptocurrencies might be short-lived, according to insights by Mike McGlone.
 
-Finbold • 19h ago
+Finbold • 20h ago
 
 ---
 
@@ -238,7 +238,7 @@ BlackRock + Joe Rogan + Ethereum.. Biggest Crypto News Happening Now!! Become a 
 
 📺 Altcoin Daily
 
-👁️ 36K • 👍 2K • 💬 252 • ⏱️ 9:41 • 10h ago
+👁️ 36K • 👍 2K • 💬 252 • ⏱️ 9:41 • 11h ago
 
 ---
 
@@ -248,7 +248,7 @@ Tom Lee, Co-Founder of Fundstrat and Chairman of Bitmine Immersion (NYSE: BMNR),
 
 📺 The Crypto Times
 
-👁️ 10K • 👍 290 • 💬 62 • ⏱️ 15:00 • 17h ago
+👁️ 10K • 👍 290 • 💬 62 • ⏱️ 15:00 • 18h ago
 
 ---
 
@@ -258,7 +258,7 @@ This video provides a professional Elliott Wave and technical analysis of Ethere
 
 📺 More Crypto Online
 
-👁️ 3K • 👍 200 • 💬 7 • ⏱️ 7:37 • 15h ago
+👁️ 3K • 👍 200 • 💬 7 • ⏱️ 7:37 • 16h ago
 
 ---
 
@@ -308,7 +308,7 @@ ETH climbed single to three digits in 12 months, Solana in nine. Same liquidity 
 
 📺 Jake Claver
 
-👁️ 25K • 👍 1K • 💬 148 • ⏱️ 1:17 • 11h ago
+👁️ 25K • 👍 1K • 💬 148 • ⏱️ 1:17 • 12h ago
 
 ---
 
@@ -328,7 +328,7 @@ Get $450 Off Our New AI Indicators: https://tradeconfidentportal.io/indicators/.
 
 📺 Trade Confident
 
-👁️ 578 • 👍 27 • 💬 15 • ⏱️ 5:57 • 13h ago
+👁️ 578 • 👍 27 • 💬 15 • ⏱️ 5:57 • 14h ago
 
 ---
 

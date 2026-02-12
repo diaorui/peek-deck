@@ -3,7 +3,7 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-02-12T09:52:48.952162+00:00'
+updated: '2026-02-12T10:48:33.197840+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
@@ -17,7 +17,7 @@ data_types:
 
 Robotics research and industry news
 
-**Last Updated:** February 12, 2026 at 09:52 UTC  
+**Last Updated:** February 12, 2026 at 10:48 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -44,7 +44,7 @@ I built this last year. Made those suction cups from scratch, it has camera, TOF
 
 Boston Dynamics CEO Robert Playter told staff on Tuesday that he'll be stepping down from the company. He first joined Boston Dynamics in 1994.
 
-🔗 [Business Insider](https://www.businessinsider.com/boston-dynamics-ceo-robert-playter-steps-down-memo-2026-2) • 16h ago
+🔗 [Business Insider](https://www.businessinsider.com/boston-dynamics-ceo-robert-playter-steps-down-memo-2026-2) • 17h ago
 
 ---
 
@@ -52,7 +52,7 @@ Boston Dynamics CEO Robert Playter told staff on Tuesday that he'll be stepping 
 
 We're sharing how we bridged the Sim-to-Real gap by simulating the embedded system, not just the physics. We kept running into the same problem with Asimov Legs. Policies that worked perfectly in sim failed on hardware. Not because physics was off, but because of CAN packet delays, thread timing, and IMU drift. So we stopped simulating just the robot body and started simulating the entire embedded environment. Our production firmware (C/C++) runs unmodified inside the sim. It doesn't know it's in a simulation. The setup: MuJoCo Physics -> Raw IMU Data -> I2C Emulator -> Firmware Sensor Fusion (C) -> Control Loop -> CANBus Emulator -> Motor Emulator -> back to MuJoCo Raw accel/gyro data streams over an emulated I2C bus (register-level lsm6dsox behavior), firmware runs xioTechnologies/Fusion library in C for gravity estimation, and torque commands go through an emulated CANbus. The key part, Motor Emulator injects random jitter (0.4ms–2ms uniform) between command and response. Our motor datasheet claims 0.4ms response time. Reality is different: Firmware -> CMD Torque Request (t=0) -> CANbus Emulator -> [INJECTED JITTER 0.4-2.0ms] -> MuJoCo -> New State -> Firmware If the firmware isn't ready when the response comes back, the control loop breaks. Same as real life. This caught race conditions in threading, CAN parsing errors under load, policy jitter intolerance, and sensor fusion drift from timing mismatches. All stuff we used to only find on real hardware. Result: zero-shot sim2real locomotion on our 12-DOF biped from a single policy Forward/backward walking (0.6m/s), lateral movement, and push recovery Previously we tried this with a Unitree G1 and couldn't get there. Closed firmware hides the failure modes. Sim2real is fundamentally an observability problem. Full writeup with codes & analysis: https://news.asimov.inc/p/noise-is-all-you-need
 
-4h ago
+5h ago
 
 ---
 
@@ -60,7 +60,7 @@ We're sharing how we bridged the Sim-to-Real gap by simulating the embedded syst
 
 Been working on my DIY drone for the past few days. Facing a weird issue, motors stop increasing speed after ~30–35% throttle, and the drone needs almost 50% throttle just to slightly lift. During ESC calibration, all motors run perfectly at full throttle. Seems like a code/control logic issue. Been stuck on this for days, any suggestions would help.
 
-2h ago
+3h ago
 
 ---
 
@@ -68,7 +68,7 @@ Been working on my DIY drone for the past few days. Facing a weird issue, motors
 
 Saw this humanoid doing a Chinese sword dance next to a human performer. The movement looks fairly stable. Lately there have been a lot of humanoid demos released, like boxing, kung fu, dancing, etc — and most of them look impressive on video. But it’s getting harder to tell what these clips actually say about real control versus well-tuned scripts.
 
-🔗 [youtube.com](https://youtube.com/shorts/020ReZvanDY?feature=share) • 3h ago
+🔗 [youtube.com](https://youtube.com/shorts/020ReZvanDY?feature=share) • 4h ago
 
 ---
 
@@ -76,7 +76,7 @@ Saw this humanoid doing a Chinese sword dance next to a human performer. The mov
 
 Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.
 
-🔗 [youtube.com](https://www.youtube.com/shorts/rWqI9G9763o) • 7h ago
+🔗 [youtube.com](https://www.youtube.com/shorts/rWqI9G9763o) • 8h ago
 
 ---
 
@@ -84,7 +84,7 @@ Enjoy the videos and music you love, upload original content, and share it all w
 
 Is buying a humanoid robot a wise investment or expensive toy I'll regret purchasing soon after? The technology fascinates me and prices have dropped significantly from where they were years ago. My tech collection includes various gadgets but a robot would be the centerpiece that elevates everything dramatically. What would I actually use it for beyond the initial novelty that wears off after a few weeks? The programming aspects interest me and could teach valuable skills for my career in technology. But am I justifying an expensive purchase with educational excuses when really I just want a cool toy? My practical side says this money should go toward retirement savings or home improvements instead. My adventurous side says life is short and experiencing cutting edge technology creates memories worth more than money. The household assistance features seem limited currently so it wouldn't replace any actual daily tasks or chores. Voice interaction could be entertaining but my phone already does that without costing thousands of extra dollars. My kids would absolutely love it and it might inspire interest in robotics and programming as careers. Is that enough justification or am I rationalizing a selfish purchase by claiming it's educational for them? Reviews are mixed with some people thrilled and others disappointed by limitations of current technology. I found models on Alibaba at various price points but I'm struggling to justify this purchase practically.
 
-8h ago
+9h ago
 
 ---
 
@@ -92,7 +92,7 @@ Is buying a humanoid robot a wise investment or expensive toy I'll regret purcha
 
 I’m interested in designing a robot with wheels and tracks similar to this style, but I don’t yet have much experience developing this type of system from scratch. I have some knowledge of AutoCAD and recently started using Fusion 360 with the goal of learning more about project development focused on robotics. I’m able to interpret technical drawings in multiple views and model them in 3D, as well as replicate existing models. However, my experience is limited to that. I have never designed a complete system entirely from scratch, especially something like an articulated track system that works together with drive wheels. I would appreciate guidance or advice on how to properly start and structure this kind of project.
 
-15h ago
+16h ago
 
 ---
 
@@ -136,7 +136,7 @@ BetaKit • 2d ago
 
 The autonomous construction tech provider now boasts total funding of over $350 million and a valuation of $1.75 billion.
 
-Construction Dive • 15h ago
+Construction Dive • 16h ago
 
 ---
 
@@ -174,7 +174,7 @@ The Robot Report • 1d ago
 
 Maui County robotics teams will battle rivals statewide this month for 14 coveted spots at the 2026 VEX Robotics World Championships. The Hawaiʻi VEX Regional Championships will draw 114 teams representing public and private schools, as well as club and home organizations from Maui County, Oʻahu and Hawaiʻi Island. The events are free to the [&hellip;]
 
-Maui Now • 17h ago
+Maui Now • 18h ago
 
 ---
 
@@ -182,7 +182,7 @@ Maui Now • 17h ago
 
 &nbsp;
 
-Globes - Israel Business News • 21h ago
+Globes - Israel Business News • 22h ago
 
 ---
 
@@ -190,7 +190,7 @@ Globes - Israel Business News • 21h ago
 
 Tesla stock got its latest synopsis from Wall Street analyst Jim Cramer, who finally realized something that many fans of the company have known all along: it's not a car company. Instead, it's a robotics company.
 
-Teslarati • 14h ago
+Teslarati • 15h ago
 
 ---
 
@@ -214,7 +214,7 @@ War Robots Gameplay, trying the UE VORTEX NUO but realizing that the robot is un
 
 📺 Manni-Gaming
 
-👁️ 5K • 👍 479 • 💬 142 • ⏱️ 10:29 • 5h ago
+👁️ 5K • 👍 479 • 💬 142 • ⏱️ 10:29 • 6h ago
 
 ---
 
@@ -282,7 +282,7 @@ A bold prediction like this instantly sparks curiosity and debate across the wor
 
 📺 Billionaire Shots
 
-👁️ 14K • 👍 832 • 💬 105 • ⏱️ 0:36 • 1d ago
+👁️ 14K • 👍 832 • 💬 105 • ⏱️ 0:36 • 2d ago
 
 ---
 

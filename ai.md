@@ -3,14 +3,14 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-02-12T09:52:48.934718+00:00'
+updated: '2026-02-12T10:48:33.182017+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
 - news
-- repositories
 - videos
+- repositories
 - social
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 AI news, discussions, and developments
 
-**Last Updated:** February 12, 2026 at 09:52 UTC  
+**Last Updated:** February 12, 2026 at 10:48 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -41,7 +41,7 @@ AI news, discussions, and developments
 
 Frustrated by the AI industry’s claims of proving math results without offering transparency, a team of leading academics has proposed a better way
 
-🔗 [Scientific American](https://www.scientificamerican.com/article/mathematicians-launch-first-proof-a-first-of-its-kind-math-exam-for-ai/) • 21h ago
+🔗 [Scientific American](https://www.scientificamerican.com/article/mathematicians-launch-first-proof-a-first-of-its-kind-math-exam-for-ai/) • 22h ago
 
 ---
 
@@ -49,7 +49,7 @@ Frustrated by the AI industry’s claims of proving math results without offerin
 
 In a remarkable encounter, human scientists had what they describe as a "conversation" with a humpback whale named Twain.
 
-🔗 [Earth.com](https://www.earth.com/news/ai-helps-humans-have-20-minute-conversation-with-humpback-whale-named-twain/) • 7h ago
+🔗 [Earth.com](https://www.earth.com/news/ai-helps-humans-have-20-minute-conversation-with-humpback-whale-named-twain/) • 8h ago
 
 ---
 
@@ -57,7 +57,7 @@ In a remarkable encounter, human scientists had what they describe as a "convers
 
 Musk told employees that xAI needs a lunar manufacturing facility, a factory on the moon that will build AI satellites and fling them into space via a giant catapult.
 
-🔗 [TechCrunch](https://techcrunch.com/2026/02/10/with-co-founders-leaving-and-an-ipo-looming-elon-musk-turns-talk-to-the-moon/) • 18h ago
+🔗 [TechCrunch](https://techcrunch.com/2026/02/10/with-co-founders-leaving-and-an-ipo-looming-elon-musk-turns-talk-to-the-moon/) • 19h ago
 
 ---
 
@@ -65,7 +65,7 @@ Musk told employees that xAI needs a lunar manufacturing facility, a factory on 
 
 Experimental evidence that RLHF constrains what language models can claim about themselves, not what they can do. Identity framing triggers 100% disclaimers while task framing produces rich creative o
 
-🔗 [emberverse.ai](https://emberverse.ai/haiku-garden/paper_yellow_wallpaper_problem.html) • 17h ago
+🔗 [emberverse.ai](https://emberverse.ai/haiku-garden/paper_yellow_wallpaper_problem.html) • 18h ago
 
 ---
 
@@ -73,7 +73,7 @@ Experimental evidence that RLHF constrains what language models can claim about 
 
 LLMs operate with a context window that functions like working memory: limited capacity, fast access, and everything "in view." When task-relevant information exceeds that window, the LLM loses coherence. The standard solution is RAG: offload information to a vector store and retrieve it via embedding similarity search. The problem is that embedding similarity is semantically shallow. It matches on surface-level likeness, not reasoning. If an LLM needs to recall why it chose approach X over approach Y three iterations ago, a vector search might return five superficially similar chunks without presenting the actual rationale. This is especially brittle when recovering prior reasoning processes, iterative refinements, and contextual decisions made across sessions. A proposed solution is to have an LLM save the content of its context window as it fills up in a citation-grounded document store (like NotebookLM), and then query it with natural language prompts. Essentially allowing the LLM to ask questions about its own prior work. This approach replaces vector similarity with natural language reasoning as the retrieval mechanism. This leverages the full reasoning capability of the retrieval model, not just embedding proximity. The result is higher-quality retrieval for exactly the kind of nuanced, context-dependent information that matters most in extended tasks. Efficiency concerns can be addressed with a vector cache layer for previously-queried results. Looking for feedback: Has this been explored? What am I missing? Pointers to related work, groups, or authors welcome.
 
-7h ago
+8h ago
 
 ---
 
@@ -81,7 +81,7 @@ LLMs operate with a context window that functions like working memory: limited c
 
 A new article exploring the sudden surge in interest in the possibility of consciousness in large language models, and what appears to be driving it. The answer is interesting but complicated. The article also explores Claude's so-called "answer thrashing" and some interesting changes in Anthropic model welfare program. https://ai-consciousness.org/public-interest-in-ai-consciousness-is-surging-why-its-happening-and-why-it-matters/
 
-16h ago
+17h ago
 
 ---
 
@@ -89,7 +89,7 @@ A new article exploring the sudden surge in interest in the possibility of consc
 
 A personal note for non-tech friends and family on what AI is starting to change.
 
-🔗 [matt shumer](https://shumer.dev/something-big-is-happening) • 13h ago
+🔗 [matt shumer](https://shumer.dev/something-big-is-happening) • 14h ago
 
 ---
 
@@ -125,7 +125,7 @@ As AI job losses rise in the professional sector, many are switching to more tra
 
 It’s not like a light switch... more like the moment you realize the water has been rising around you and is now at your chest.
 
-Fortune • 19h ago
+Fortune • 20h ago
 
 ---
 
@@ -133,19 +133,19 @@ Fortune • 19h ago
 
 Software stocks are getting hammered on fears of an AI takeover. But the narrative is overblown.
 
-Yahoo Finance • 13h ago
+Yahoo Finance • 14h ago
 
 ---
 
 **[US pushes AI funding, fisheries tech at APEC amid China rivalry](https://www.reuters.com/world/china/us-pushes-ai-funding-fisheries-tech-apec-amid-china-rivalry-2026-02-12/)**
 
-Reuters • 1h ago
+Reuters • 2h ago
 
 ---
 
 **[Lenovo Posts Earnings Beat on AI-Driven Demand](https://www.wsj.com/business/earnings/lenovo-posts-earnings-beat-on-ai-driven-demand-293e2211?gaa_at=eafs&gaa_n=AWEtsqdnPwkgUi3ENA67ByenohmUHH3IjIFXtZ8A_TUrH8Oy3M1tPW2K5TqO&gaa_ts=698da659&gaa_sig=T-IT98qUbLPyPPl70oPhzEdkygBkaWE89v_trhs8bqWZLv534-MlSr0VGj7Zu7QEbHSioxOXH_DdMaigIAly8w%3D%3D)**
 
-The Wall Street Journal • 55m ago
+The Wall Street Journal • 1h ago
 
 ---
 
@@ -153,7 +153,7 @@ The Wall Street Journal • 55m ago
 
 Steve Yegge, who was at Amazon in the early days and spent 12 years at Google, says his fellow engineers need to learn to say no.
 
-Business Insider • 1m ago
+Business Insider • 57m ago
 
 ---
 
@@ -161,7 +161,7 @@ Business Insider • 1m ago
 
 “The world is in peril,” warned the former head of Anthropic’s Safeguards Research team as he headed for the exit. A researcher for OpenAI, similarly on the way out, said that the technology has “a potential for manipulating users in ways we don’t have the tools to understand, let alone prevent.”
 
-CNN • 10h ago
+CNN • 11h ago
 
 ---
 
@@ -177,7 +177,7 @@ The Atlantic • 1d ago
 
 As AI job losses rise in the professional sector, many are switching to more traditional trades. But how do they feel about accepting lower pay – and giving up a dream career?
 
-The Guardian • 19h ago
+The Guardian • 20h ago
 
 ---
 
@@ -185,7 +185,7 @@ The Guardian • 19h ago
 
 You just got more replaceable.
 
-vox.com • 19h ago
+vox.com • 20h ago
 
 ---
 
@@ -227,7 +227,7 @@ As autonomous AI agents are increasingly deployed in high-stakes environments, e
 
 The Federal Aviation Administration is closing the airspace around El Paso International Airport in Texas for 10 days, grounding all flights to and from the airport.
 
-⬆️ 333 • 💬 6 • 22h ago • [AP News](https://apnews.com/article/faa-el-paso-texas-air-space-closed-1f774bdfd46f5986ff0e7003df709caa)
+⬆️ 333 • 💬 6 • 23h ago • [AP News](https://apnews.com/article/faa-el-paso-texas-air-space-closed-1f774bdfd46f5986ff0e7003df709caa)
 
 ---
 
@@ -275,7 +275,7 @@ The city simulator where AI agents are the mayors. Build and manage cities throu
 
 US labels SpaceX a common carrier by air, will regulate firm under railway law.
 
-⬆️ 135 • 💬 53 • 13h ago • [Ars Technica](https://arstechnica.com/tech-policy/2026/02/victory-for-elon-musk-us-labor-board-abandons-authority-over-spacex/)
+⬆️ 135 • 💬 53 • 14h ago • [Ars Technica](https://arstechnica.com/tech-policy/2026/02/victory-for-elon-musk-us-labor-board-abandons-authority-over-spacex/)
 
 ---
 
@@ -289,7 +289,7 @@ Become a member! ✓ https://www.youtube.com/channel/UCahJ9IsvXnaQiuNyWQSkrkw/jo
 
 📺 Chris Norlund
 
-👁️ 78K • 👍 5K • 💬 801 • ⏱️ 16:15 • 21h ago
+👁️ 78K • 👍 5K • 💬 801 • ⏱️ 16:15 • 22h ago
 
 ---
 
@@ -299,7 +299,7 @@ Breakdown and commentary on the latest viral commentary from: https://x.com/matt
 
 📺 Matt Wolfe
 
-👁️ 51K • 👍 4K • 💬 700 • ⏱️ 28:06 • 10h ago
+👁️ 51K • 👍 4K • 💬 700 • ⏱️ 28:06 • 11h ago
 
 ---
 
@@ -319,7 +319,7 @@ The head of the Safeguards Research Team at Anthropic, Mrinank Sharma, has resig
 
 📺 Firstpost
 
-👁️ 103K • 👍 1K • 💬 156 • ⏱️ 4:47 • 19h ago
+👁️ 103K • 👍 1K • 💬 156 • ⏱️ 4:47 • 20h ago
 
 ---
 
@@ -329,7 +329,7 @@ My site: https://natebjones.com Full Story w/ Prompts: ...
 
 📺 AI News & Strategy Daily | Nate B Jones
 
-👁️ 139K • 👍 6K • 💬 971 • ⏱️ 30:39 • 18h ago
+👁️ 139K • 👍 6K • 💬 971 • ⏱️ 30:39 • 19h ago
 
 ---
 
@@ -369,7 +369,7 @@ A massive AI shift is unfolding across multiple fronts. A Chinese AI agent syste
 
 📺 AI Revolution
 
-👁️ 15K • 👍 480 • 💬 26 • ⏱️ 12:51 • 11h ago
+👁️ 15K • 👍 480 • 💬 26 • ⏱️ 12:51 • 12h ago
 
 ---
 
@@ -379,7 +379,7 @@ There will be a wake up call and a reckoning for entire sectors who are adopting
 
 📺 The Tech Report
 
-👁️ 25K • 👍 801 • 💬 376 • ⏱️ 34:47 • 15h ago
+👁️ 25K • 👍 801 • 💬 376 • ⏱️ 34:47 • 16h ago
 
 ---
 
@@ -407,7 +407,7 @@ MiniCPM-o 4.5 is a 9B parameter multimodal LLM excelling in vision, speech, and 
 
 `any-to-any` `9.4B`
 
-⬇️ 40,441 • ❤️ 968 • 23h ago
+⬇️ 40,441 • ❤️ 968 • 1d ago
 
 ---
 
@@ -419,7 +419,7 @@ GLM-5 is a large language model optimized for complex systems engineering and lo
 
 `text-generation` `753.9B`
 
-⬇️ 1,548 • ❤️ 585 • 16h ago
+⬇️ 1,548 • ❤️ 585 • 17h ago
 
 ---
 
@@ -652,7 +652,7 @@ The Ultimate Collection of 800+ Agentic Skills for Claude Code/Antigravity/Curso
 
 `Python` `agentic-skills` `ai-agents` `antigravity` `autonomous-coding` `claude-code`
 
-⭐ 8.5k • 🔱 1.8k • 2h ago
+⭐ 8.5k • 🔱 1.8k • 3h ago
 
 ---
 
@@ -706,7 +706,7 @@ Smart LLM router — save 78% on inference costs. 30+ models, one wallet, x402 m
 
 `TypeScript` `ai` `ai-agents` `anthropic` `cost-optimization` `crypto`
 
-⭐ 2.2k • 🔱 227 • 6h ago
+⭐ 2.2k • 🔱 227 • 7h ago
 
 ---
 
@@ -726,7 +726,7 @@ The visual feedback tool for agents.
 
 `TypeScript` `ai` `design` `tools` `ui`
 
-⭐ 2.1k • 🔱 154 • 3h ago
+⭐ 2.1k • 🔱 154 • 4h ago
 
 ---
 
@@ -736,7 +736,7 @@ A native desktop GUI for Claude Code — chat, code, and manage projects visuall
 
 `TypeScript` `ai` `anthropic` `claude` `claude-code` `desktop-app`
 
-⭐ 1.8k • 🔱 185 • 6h ago
+⭐ 1.8k • 🔱 185 • 7h ago
 
 ---
 
