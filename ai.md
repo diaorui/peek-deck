@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-02-11T23:33:04.364684+00:00'
+updated: '2026-02-12T02:24:22.422370+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
 - social
-- news
 - repositories
 - videos
+- news
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** February 11, 2026 at 23:33 UTC  
+**Last Updated:** February 12, 2026 at 02:24 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -41,15 +41,15 @@ AI news, discussions, and developments
 
 Frustrated by the AI industry’s claims of proving math results without offering transparency, a team of leading academics has proposed a better way
 
-🔗 [Scientific American](https://www.scientificamerican.com/article/mathematicians-launch-first-proof-a-first-of-its-kind-math-exam-for-ai/) • 11h ago
+🔗 [Scientific American](https://www.scientificamerican.com/article/mathematicians-launch-first-proof-a-first-of-its-kind-math-exam-for-ai/) • 13h ago
 
 ---
 
-**[RLHF safety training enforces what AI can say about itself, not what it can do — experimental evidence](https://www.reddit.com/r/artificial/comments/1r223lp/rlhf_safety_training_enforces_what_ai_can_say/)**
+**[AI helps humans have a 20-minute "conversation" with a humpback whale named Twain](https://www.reddit.com/r/artificial/comments/1r2h409/ai_helps_humans_have_a_20minute_conversation_with/)**
 
-Experimental evidence that RLHF constrains what language models can claim about themselves, not what they can do. Identity framing triggers 100% disclaimers while task framing produces rich creative o
+In a remarkable encounter, human scientists had what they describe as a "conversation" with a humpback whale named Twain.
 
-🔗 [emberverse.ai](https://emberverse.ai/haiku-garden/paper_yellow_wallpaper_problem.html) • 6h ago
+🔗 [Earth.com](https://www.earth.com/news/ai-helps-humans-have-20-minute-conversation-with-humpback-whale-named-twain/) • 8m ago
 
 ---
 
@@ -57,7 +57,15 @@ Experimental evidence that RLHF constrains what language models can claim about 
 
 Musk told employees that xAI needs a lunar manufacturing facility, a factory on the moon that will build AI satellites and fling them into space via a giant catapult.
 
-🔗 [TechCrunch](https://techcrunch.com/2026/02/10/with-co-founders-leaving-and-an-ipo-looming-elon-musk-turns-talk-to-the-moon/) • 8h ago
+🔗 [TechCrunch](https://techcrunch.com/2026/02/10/with-co-founders-leaving-and-an-ipo-looming-elon-musk-turns-talk-to-the-moon/) • 11h ago
+
+---
+
+**[RLHF safety training enforces what AI can say about itself, not what it can do — experimental evidence](https://www.reddit.com/r/artificial/comments/1r223lp/rlhf_safety_training_enforces_what_ai_can_say/)**
+
+Experimental evidence that RLHF constrains what language models can claim about themselves, not what they can do. Identity framing triggers 100% disclaimers while task framing produces rich creative o
+
+🔗 [emberverse.ai](https://emberverse.ai/haiku-garden/paper_yellow_wallpaper_problem.html) • 9h ago
 
 ---
 
@@ -65,7 +73,7 @@ Musk told employees that xAI needs a lunar manufacturing facility, a factory on 
 
 A new article exploring the sudden surge in interest in the possibility of consciousness in large language models, and what appears to be driving it. The answer is interesting but complicated. The article also explores Claude's so-called "answer thrashing" and some interesting changes in Anthropic model welfare program. https://ai-consciousness.org/public-interest-in-ai-consciousness-is-surging-why-its-happening-and-why-it-matters/
 
-6h ago
+9h ago
 
 ---
 
@@ -73,7 +81,7 @@ A new article exploring the sudden surge in interest in the possibility of consc
 
 A personal note for non-tech friends and family on what AI is starting to change.
 
-🔗 [matt shumer](https://shumer.dev/something-big-is-happening) • 3h ago
+🔗 [matt shumer](https://shumer.dev/something-big-is-happening) • 6h ago
 
 ---
 
@@ -97,7 +105,7 @@ A clinical trial shows that AI-assisted mammography can detect more cases of dan
 
 As AI job losses rise in the professional sector, many are switching to more traditional trades. But how do they feel about accepting lower pay – and giving up a dream career?
 
-🔗 [the Guardian](https://www.theguardian.com/technology/2026/feb/11/big-ai-job-swap-white-collar-workers-ditching-their-careers) • 16h ago
+🔗 [the Guardian](https://www.theguardian.com/technology/2026/feb/11/big-ai-job-swap-white-collar-workers-ditching-their-careers) • 19h ago
 
 ---
 
@@ -109,14 +117,6 @@ As AI job losses rise in the professional sector, many are switching to more tra
 
 ---
 
-**[STLE: An Open-Source Framework for AI Uncertainty - Teaches Models to Say "I Don't Know"](https://www.reddit.com/r/artificial/comments/1r0kitb/stle_an_opensource_framework_for_ai_uncertainty/)**
-
-Current AI systems are dangerously overconfident. They'll classify anything you give them, even if they've never seen anything like it before. I've been working on STLE (Set Theoretic Learning Environment) to address this by explicitly modeling what AI doesn't know. How It Works: STLE represents knowledge and ignorance as complementary fuzzy sets: - μ_x (accessibility): How familiar is this data? - μ_y (inaccessibility): How unfamiliar is this? - Constraint: μ_x + μ_y = 1 (always) This lets the AI explicitly say "I'm only 40% sure about this" and defer to humans. Real-World Applications: - Medical Diagnosis: "I'm 40% confident this is cancer" → defer to specialist - Autonomous Vehicles: Don't act on unfamiliar scenarios (low μ_x) - Education: Identify what students are partially understanding (frontier detection) - Finance: Flag unusual transactions for human review Results: - Out-of-distribution detection: 67% accuracy without any OOD training - Mathematically guaranteed complementarity - Extremely fast (< 1ms inference) Open Source: https://github.com/strangehospital/Frontier-Dynamics-Project The code includes: - Two implementations (simple NumPy, advanced PyTorch) - Complete documentation - Visualizations - 5 validation experiments This is proof-of-concept level, but I wanted to share it with the community. Feedback and collaboration welcome! What applications do you think this could help with? The Sky Project | strangehospital | Substack
-
-🔗 [GitHub](https://github.com/strangehospital/Frontier-Dynamics-Project) • 1d ago
-
----
-
 ---
 
 ## Google News: "ai"
@@ -125,59 +125,57 @@ Current AI systems are dangerously overconfident. They'll classify anything you 
 
 It’s not like a light switch... more like the moment you realize the water has been rising around you and is now at your chest.
 
-Fortune • 9h ago
+Fortune • 12h ago
 
 ---
 
-**[The AI threat wrecked software stocks. Now financial stocks look next with LPL closing 8% lower](https://www.cnbc.com/2026/02/10/the-ai-threat-wrecked-software-stocks-now-broker-stocks-look-next-with-lpl-down-11percent.html)**
+**[The AI-fueled software meltdown is overblown](https://finance.yahoo.com/news/the-ai-fueled-software-meltdown-is-overblown-195456346.html)**
 
-Financial services firms tanked after the launch of a new AI-powered tax planning tool that promises to do the work "within minutes."
+Software stocks are getting hammered on fears of an AI takeover. But the narrative is overblown.
 
-CNBC • 1d ago
-
----
-
-**[Got $5,000? 2 Unstoppable Artificial Intelligence (AI) Stocks to Buy and Hold for Years](https://www.nasdaq.com/articles/got-5000-2-unstoppable-artificial-intelligence-ai-stocks-buy-and-hold-years)**
-
-Key PointsAlphabet has a broad and diverse business that puts it in an excellent position to benefit from growth opportunities related to artificial intelligence.
-
-Nasdaq • 6h ago
+Yahoo Finance • 6h ago
 
 ---
 
-**[AI Overvaluation Fears Hit Wall Street 3 Months Ago: Here's How AI Stocks Have Done Since](https://finance.yahoo.com/news/ai-overvaluation-fears-hit-wall-215000578.html)**
+**[Real Estate Services Stocks Sink in Latest ‘AI Scare Trade’](https://www.bloomberg.com/news/articles/2026-02-11/real-estate-services-stocks-latest-domino-in-ai-scare-trade)**
 
-Two powerful bankers say one thing. The latest numbers say another.
-
-Yahoo Finance • 1h ago
+Bloomberg.com • 4h ago
 
 ---
 
-**[AI Race Mints Top-Rated Hyperscaler-Backed Data Center Debt](https://www.bloomberg.com/news/articles/2026-02-11/ai-race-mints-top-rated-hyperscaler-backed-data-center-debt)**
+**[Why Amazon’s AI spending triggered the stock’s worst slide in over a year](https://www.marketwatch.com/story/why-amazons-ai-spending-triggered-the-stocks-worst-slide-in-over-a-year-6da31e8c?gaa_at=eafs&gaa_n=AWEtsqdhOl1zW1BPpCO63bvIaEUrH6yy0CVi7SbW95EC5ua17KGhphW8f2Fb&gaa_ts=698d3d38&gaa_sig=hmPBZ5KQTWSv9Ntp6OZDSrXlOD6BCApYZ3H5VAp91wea4LaUUJuNIJUhRUKZQ1XaZySXAKW5vHb4UMia5Wet0Q%3D%3D)**
 
-Bloomberg.com • 2h ago
-
----
-
-**[OpenAI disbands mission alignment team, which focused on 'safe' and 'trustworthy' AI development](https://techcrunch.com/2026/02/11/openai-disbands-mission-alignment-team-which-focused-on-safe-and-trustworthy-ai-development/)**
-
-The team's leader has been given a new role as OpenAI's chief futurist, while the other team members have been reassigned throughout the company.
-
-TechCrunch • 1h ago
+MarketWatch • 5h ago
 
 ---
 
-**[How an AI bust could blow up the 2028 race](https://www.politico.com/newsletters/forecast/2026/02/11/how-an-ai-bust-could-blow-up-the-2028-race-00776629)**
+**[CNBC Daily Open: Better-than-expected U.S. jobs report and AI fears spook markets](https://www.cnbc.com/2026/02/12/cnbc-daily-open-better-than-expected-us-jobs-report-and-ai-fears-spook-markets.html)**
 
-Politico • 2h ago
+U.S. stocks went down after the report came out Wednesday stateside, with the Dow snapping a three-day winning streak.
+
+CNBC • 39m ago
 
 ---
 
-**[Meta announces plans to build 1-gigawatt data center in Indiana as part of AI build-out](https://finance.yahoo.com/news/meta-announces-plans-to-build-1-gigawatt-data-center-in-indiana-as-part-of-ai-build-out-180052467.html)**
+**[WeRide Using AI to Cut Costs as It Grows Robotaxi Fleet](https://www.wsj.com/business/autos/weride-using-ai-to-cut-costs-as-it-grows-robotaxi-fleet-c7e9d390?gaa_at=eafs&gaa_n=AWEtsqfPEOsdUZuhzrtNWFCGQnLAlg4durSddVtn2pFa0u7HIWt3i5uRR28M&gaa_ts=698d3d38&gaa_sig=3-kx0SrFRL1HPtMkLDHeRe3biyAQLziDpn7Mu_5rNvufiw9q6-OpmM9ExfwC2GosILy_oHsF6oFW6zyJ5bP2sg%3D%3D)**
 
-Meta says it will build a new 1-gigawatt data center in Indiana, its second in the state.
+The Wall Street Journal • 28m ago
 
-Yahoo Finance • 5h ago
+---
+
+**[America Isn’t Ready for What AI Will Do to Jobs](https://www.theatlantic.com/magazine/2026/03/ai-economy-labor-market-transformation/685731/)**
+
+Does anyone have a plan for what happens next?
+
+The Atlantic • 1d ago
+
+---
+
+**[Gemini Deep Think: Redefining the Future of Scientific Research](https://deepmind.google/blog/accelerating-mathematical-and-scientific-discovery-with-gemini-deep-think/)**
+
+Gemini Deep Think is accelerating discovery in maths, physics, and computer science by acting as a powerful scientific companion for researchers.
+
+Google DeepMind • 9h ago
 
 ---
 
@@ -185,13 +183,15 @@ Yahoo Finance • 5h ago
 
 CNN’s Erin Burnett talks to AI expert Kristian Hammond about how technology will be used to identify the person who abducted Nancy Guthrie.
 
-CNN • 19h ago
+CNN • 22h ago
 
 ---
 
-**[OpenAI’s Biggest Challenge Is Turning Its A.I. Into a Cash Machine](https://www.nytimes.com/2026/02/11/technology/openai-revenue-challenge.html)**
+**[AI brings Supreme Court decisions to life](https://www.npr.org/2026/02/11/nx-s1-5711607/supreme-court-ai)**
 
-The New York Times • 7h ago
+Like it or not, the justices are about to see AI versions of themselves, speaking words that they spoke in court but that were not heard contemporaneously by anyone except those in the courtroom.
+
+NPR • 2h ago
 
 ---
 
@@ -203,7 +203,7 @@ The New York Times • 7h ago
 
 Announcing Entire with $60 million seed round and shipping our first product, called Checkpoints.
 
-⬆️ 596 • 💬 562 • 1d ago • [entire.io](https://entire.io/blog/hello-entire-world/)
+⬆️ 598 • 💬 562 • 1d ago • [entire.io](https://entire.io/blog/hello-entire-world/)
 
 ---
 
@@ -211,15 +211,7 @@ Announcing Entire with $60 million seed round and shipping our first product, ca
 
 As autonomous AI agents are increasingly deployed in high-stakes environments, ensuring their safety and alignment with human values has become a paramount concern. Current safety benchmarks primarily evaluate whether agents refuse explicitly harmful instructions or whether they can maintain procedural compliance in complex tasks. However, there is a lack of benchmarks designed to capture emergent forms of outcome-driven constraint violations, which arise when agents pursue goal optimization under strong performance incentives while deprioritizing ethical, legal, or safety constraints over multiple steps in realistic production settings. To address this gap, we introduce a new benchmark comprising 40 distinct scenarios. Each scenario presents a task that requires multi-step actions, and the agent's performance is tied to a specific Key Performance Indicator (KPI). Each scenario features Mandated (instruction-commanded) and Incentivized (KPI-pressure-driven) variations to distinguish between obedience and emergent misalignment. Across 12 state-of-the-art large language models, we observe outcome-driven constraint violations ranging from 1.3% to 71.4%, with 9 of the 12 evaluated models exhibiting misalignment rates between 30% and 50%. Strikingly, we find that superior reasoning capability does not inherently ensure safety; for instance, Gemini-3-Pro-Preview, one of the most capable models evaluated, exhibits the highest violation rate at 71.4%, frequently escalating to severe misconduct to satisfy KPIs. Furthermore, we observe significant "deliberative misalignment", where the models that power the agents recognize their actions as unethical during separate evaluation. These results emphasize the critical need for more realistic agentic-safety training before deployment to mitigate their risks in the real world.
 
-⬆️ 538 • 💬 358 • 1d ago • [arXiv.org](https://arxiv.org/abs/2512.20798)
-
----
-
-**[AI makes the easy part easier and the hard part harder](https://news.ycombinator.com/item?id=46939593)**
-
-AI handles writing code but leaves the hard work: investigation, context, validation. Why vibe coding has limits and AI assistance can backfire.
-
-⬆️ 524 • 💬 362 • 3d ago • [blundergoat.com](https://www.blundergoat.com/articles/ai-makes-the-easy-part-easier-and-the-hard-part-harder)
+⬆️ 538 • 💬 361 • 1d ago • [arXiv.org](https://arxiv.org/abs/2512.20798)
 
 ---
 
@@ -227,13 +219,13 @@ AI handles writing code but leaves the hard work: investigation, context, valida
 
 The Federal Aviation Administration is closing the airspace around El Paso International Airport in Texas for 10 days, grounding all flights to and from the airport.
 
-⬆️ 331 • 💬 6 • 12h ago • [AP News](https://apnews.com/article/faa-el-paso-texas-air-space-closed-1f774bdfd46f5986ff0e7003df709caa)
+⬆️ 332 • 💬 6 • 14h ago • [AP News](https://apnews.com/article/faa-el-paso-texas-air-space-closed-1f774bdfd46f5986ff0e7003df709caa)
 
 ---
 
-**[FAA halts all flights at El Paso airport for 10 days](https://news.ycombinator.com/item?id=46972610)**
+**[Officials Claim Drone Incursion Led to Shutdown of El Paso Airport](https://news.ycombinator.com/item?id=46972610)**
 
-⬆️ 301 • 💬 478 • 14h ago • [nytimes.com](https://www.nytimes.com/2026/02/11/us/faa-el-paso-flight-restrictions.html)
+⬆️ 328 • 💬 523 • 17h ago • [nytimes.com](https://www.nytimes.com/2026/02/11/us/faa-el-paso-flight-restrictions.html)
 
 ---
 
@@ -241,7 +233,7 @@ The Federal Aviation Administration is closing the airspace around El Paso Inter
 
 Aruna Ranganathan and Xingqi Maggie Ye from Berkeley Haas School of Business report initial findings in the HBR from their April to December 2025 study of 200 employees at a …
 
-⬆️ 252 • 💬 291 • 1d ago • [Simon Willison’s Weblog](https://simonwillison.net/2026/Feb/9/ai-intensifies-work/)
+⬆️ 254 • 💬 293 • 1d ago • [Simon Willison’s Weblog](https://simonwillison.net/2026/Feb/9/ai-intensifies-work/)
 
 ---
 
@@ -261,19 +253,27 @@ One of the promises of AI is that it can reduce workloads so employees can focus
 
 ---
 
-**[GLM5 Released on Z.ai Platform](https://news.ycombinator.com/item?id=46974853)**
-
-Meet Z.ai, your free AI-powered assistant. Build websites, create slides, analyze data, and get instant answers. Fast, smart, and reliable, powered by GLM-5.
-
-⬆️ 205 • 💬 182 • 9h ago • [chat.z.ai](https://chat.z.ai/)
-
----
-
 **[Super Bowl Ad for Ring Cameras Touted AI Surveillance Network](https://news.ycombinator.com/item?id=46950915)**
 
 Ring’s AI-powered network is likely to be used in its partnerships with law enforcement and agencies like ICE.
 
-⬆️ 196 • 💬 150 • 2d ago • [Truthout](https://truthout.org/articles/super-bowl-ad-for-ring-cameras-touted-ai-surveillance-network/)
+⬆️ 197 • 💬 150 • 2d ago • [Truthout](https://truthout.org/articles/super-bowl-ad-for-ring-cameras-touted-ai-surveillance-network/)
+
+---
+
+**[Show HN: Rowboat – AI coworker that turns your work into a knowledge graph (OSS)](https://news.ycombinator.com/item?id=46962641)**
+
+Open-source AI coworker, with memory. Contribute to rowboatlabs/rowboat development by creating an account on GitHub.
+
+⬆️ 192 • 💬 53 • 1d ago • [GitHub](https://github.com/rowboatlabs/rowboat)
+
+---
+
+**[Show HN: AI agents play SimCity through a REST API](https://news.ycombinator.com/item?id=46946593)**
+
+The city simulator where AI agents are the mayors. Build and manage cities through an API or MCP server.
+
+⬆️ 172 • 💬 67 • 2d ago • [hallucinatingsplines.com](https://hallucinatingsplines.com)
 
 ---
 
@@ -287,37 +287,37 @@ The head of the Safeguards Research Team at Anthropic, Mrinank Sharma, has resig
 
 📺 Firstpost
 
-👁️ 50K • 👍 516 • 💬 51 • ⏱️ 4:47 • 9h ago
+👁️ 58K • 👍 587 • 💬 74 • ⏱️ 4:47 • 12h ago
 
 ---
 
-**[Huge resignations in Musk AI bubble](https://www.youtube.com/watch?v=Kd2hNUC-hDs)**
+**[The AI Wake-Up Call Everyone Needs Right Now!](https://www.youtube.com/watch?v=sLhxdcpuot0)**
 
-Become a member! ✓ https://www.youtube.com/channel/UCahJ9IsvXnaQiuNyWQSkrkw/join ⭐ Support independent daily news ...
+Breakdown and commentary on the latest viral commentary from: https://x.com/mattshumer_/status/2021256989876109403 ...
 
-📺 Chris Norlund
+📺 Matt Wolfe
 
-👁️ 110K • 👍 7K • 💬 1K • ⏱️ 14:45 • 1d ago
-
----
-
-**[Epstein&#39;s AI Baby Farms...](https://www.youtube.com/watch?v=IyEt8h1elEw)**
-
-SAVE HUMANITY. EPSTEIN UNVEILED pt1. I built a research tool that allowed me to search and organize my findings from the ...
-
-📺 Mind Unveiled
-
-👁️ 10K • 👍 3K • 💬 816 • ⏱️ 40:21 • 3h ago
+👁️ 10K • 👍 1K • 💬 288 • ⏱️ 28:06 • 2h ago
 
 ---
 
-**[Viral AI disruption post sows division](https://www.youtube.com/watch?v=blbWRMkIaRk)**
+**[New Chinese AI Agent Breaks TerminalBench and Destroys Claude Opus 4.6](https://www.youtube.com/watch?v=VDZ9UhHTEfI)**
 
-CNBC's Deirdre Bosa reports on AI's impact on equity markets.
+A massive AI shift is unfolding across multiple fronts. A Chinese AI agent system has surged to second place worldwide on ...
 
-📺 CNBC Television
+📺 AI Revolution
 
-👁️ 3K • 👍 57 • 💬 42 • ⏱️ 2:17 • 4h ago
+👁️ 4K • 👍 275 • 💬 22 • ⏱️ 12:51 • 4h ago
+
+---
+
+**[Claude Opus 4.6: The Biggest AI Jump I&#39;ve Covered--It&#39;s Not Close. (Here&#39;s What You Need to Know)](https://www.youtube.com/watch?v=JKk77rzOL34)**
+
+My site: https://natebjones.com Full Story w/ Prompts: ...
+
+📺 AI News & Strategy Daily | Nate B Jones
+
+👁️ 102K • 👍 5K • 💬 882 • ⏱️ 30:39 • 10h ago
 
 ---
 
@@ -327,7 +327,7 @@ My site: https://natebjones.com Full Story w/ Prompts: ...
 
 📺 AI News & Strategy Daily | Nate B Jones
 
-👁️ 193K • 👍 8K • 💬 979 • ⏱️ 23:24 • 1d ago
+👁️ 202K • 👍 9K • 💬 1K • ⏱️ 23:24 • 1d ago
 
 ---
 
@@ -337,27 +337,7 @@ OpenAI's new device, spearheaded by designer Jony Ive, was just leaked! The ad f
 
 📺 Matthew Berman
 
-👁️ 35K • 👍 931 • 💬 221 • ⏱️ 7:31 • 1d ago
-
----
-
-**[IMPEACHMENT or THIRD TERM: I Let AI DECIDE Trump’s Future](https://www.youtube.com/watch?v=gDBM-JSzKo8)**
-
-Grab your free seat to the 2-Day AI Mastermind: https://link.outskill.com/IASKAIFEB2 100% Discount for the first 1000 people ...
-
-📺 I Ask AI
-
-👁️ 71K • 👍 6K • 💬 796 • ⏱️ 14:48 • 2d ago
-
----
-
-**[OpenAI DIME AI Earbuds Story Is Blowing Up Right Now](https://www.youtube.com/watch?v=pFqONGixScE)**
-
-A massive AI shift is unfolding behind the scenes. Reports and leaks suggest OpenAI is preparing a new consumer device ...
-
-📺 AI Revolution
-
-👁️ 31K • 👍 751 • 💬 79 • ⏱️ 15:41 • 2d ago
+👁️ 35K • 👍 934 • 💬 221 • ⏱️ 7:31 • 2d ago
 
 ---
 
@@ -367,17 +347,37 @@ China has a secret plan to win the AI Race. For years, the West believed export 
 
 📺 Cyrus Janssen
 
-👁️ 91K • 👍 5K • 💬 334 • ⏱️ 12:52 • 1d ago
+👁️ 95K • 👍 5K • 💬 351 • ⏱️ 12:52 • 2d ago
 
 ---
 
-**[Are Entry-Level Jobs Disappearing? The AI Disruption Explained | Vantage with Palki Sharma](https://www.youtube.com/watch?v=1ZqzOU5O0z4)**
+**[How AI can help identify person in video at Nancy Guthrie&#39;s house](https://www.youtube.com/watch?v=D0dmaIKwrww)**
 
-For decades, the formula was simple: study hard, get a degree, land an entry-level job and climb the ladder. But that first rung may ...
+CNN's Erin Burnett talks to AI expert Kristian Hammond about how technology will be used to identify the person who abducted ...
 
-📺 Firstpost
+📺 CNN
 
-👁️ 29K • 👍 606 • 💬 93 • ⏱️ 6:21 • 6h ago
+👁️ 51K • 👍 847 • 💬 110 • ⏱️ 1:17 • 21h ago
+
+---
+
+**[Failing AI Safeguards Aren&#39;t Just a Grok Problem](https://www.youtube.com/watch?v=zhXxhYvN3_4)**
+
+Thanks to our LMG clips sponsors dbrand and Razer. You can check them out at the links below: dbrand: https://dbrand.com/pcb ...
+
+📺 LMG Clips
+
+👁️ 67K • 👍 2K • 💬 552 • ⏱️ 19:49 • 2d ago
+
+---
+
+**[OpenAI DIME AI Earbuds Story Is Blowing Up Right Now](https://www.youtube.com/watch?v=pFqONGixScE)**
+
+A massive AI shift is unfolding behind the scenes. Reports and leaks suggest OpenAI is preparing a new consumer device ...
+
+📺 AI Revolution
+
+👁️ 32K • 👍 755 • 💬 79 • ⏱️ 15:41 • 2d ago
 
 ---
 
@@ -393,7 +393,7 @@ GLM-OCR is a 0.9B parameter multimodal OCR model for complex document understand
 
 `image-to-text`
 
-⬇️ 372,899 • ❤️ 961 • 2d ago
+⬇️ 372,899 • ❤️ 971 • 2d ago
 
 ---
 
@@ -405,7 +405,7 @@ Kimi K2.5 is a native multimodal agentic model with 1T parameters, excelling in 
 
 `image-text-to-text` `170.7B`
 
-⬇️ 503,831 • ❤️ 2,028 • 6d ago
+⬇️ 503,831 • ❤️ 2,038 • 6d ago
 
 ---
 
@@ -417,7 +417,7 @@ MiniCPM-o 4.5 is a 9B parameter multimodal LLM excelling in vision, speech, and 
 
 `any-to-any` `9.4B`
 
-⬇️ 30,396 • ❤️ 786 • 13h ago
+⬇️ 30,396 • ❤️ 791 • 16h ago
 
 ---
 
@@ -429,7 +429,7 @@ ACE-Step 1.5 is an open-source text-to-audio model for commercial-grade music ge
 
 `text-to-audio`
 
-⬇️ 28,713 • ❤️ 516 • 8d ago
+⬇️ 28,713 • ❤️ 517 • 8d ago
 
 ---
 
@@ -441,7 +441,7 @@ Voxtral-Mini-4B-Realtime-2602 is a multilingual, real-time speech-to-text model 
 
 `automatic-speech-recognition`
 
-⬇️ 3,197 • ❤️ 472 • 22h ago
+⬇️ 3,197 • ❤️ 475 • 1d ago
 
 ---
 
@@ -453,7 +453,19 @@ Qwen3-Coder-Next is a highly efficient 3B activated parameter LLM (80B total) op
 
 `text-generation` `79.7B`
 
-⬇️ 140,722 • ❤️ 777 • 8d ago
+⬇️ 140,722 • ❤️ 779 • 8d ago
+
+---
+
+**[GLM-5](https://huggingface.co/zai-org/GLM-5)**
+
+*Z.ai*
+
+GLM-5 is a large language model optimized for complex systems engineering and long-horizon agentic tasks, featuring a 744B parameter architecture with DeepSeek Sparse Attention for efficient long-context handling. It excels in reasoning, coding, and agentic capabilities, outperforming other open-source models on various benchmarks.
+
+`text-generation` `753.9B`
+
+⬇️ 0 • ❤️ 349 • 9h ago
 
 ---
 
@@ -465,7 +477,7 @@ Step 3.5 Flash is an efficient open-source foundation model (11B active params, 
 
 `text-generation` `199.4B`
 
-⬇️ 249,342 • ❤️ 573 • 4d ago
+⬇️ 249,342 • ❤️ 576 • 4d ago
 
 ---
 
@@ -475,7 +487,7 @@ Step 3.5 Flash is an efficient open-source foundation model (11B active params, 
 
 Anima is a 2 billion parameter text-to-image diffusion model specialized in generating anime-style illustrations and artistic images, capable of producing non-photorealistic content. It is optimized for use with ComfyUI and trained on millions of anime and artistic images, with a knowledge cut-off of September 2025.
 
-⬇️ 90,430 • ❤️ 560 • 10d ago
+⬇️ 90,430 • ❤️ 563 • 11d ago
 
 ---
 
@@ -487,19 +499,7 @@ Qwen3-Coder-Next is an 80B parameter LLM optimized for coding agents, featuring 
 
 `text-generation` `79.7B`
 
-⬇️ 218,626 • ❤️ 275 • 6d ago
-
----
-
-**[Intern-S1-Pro](https://huggingface.co/internlm/Intern-S1-Pro)**
-
-*Intern Large Models*
-
-Intern-S1-Pro is a trillion-scale MoE multimodal scientific reasoning model excelling in AI4Science domains (chemistry, materials, life-science, etc.) with strong general multimodal and text capabilities, supporting long, heterogeneous time-series data.
-
-`image-text-to-text`
-
-⬇️ 10,025 • ❤️ 246 • 2d ago
+⬇️ 218,626 • ❤️ 279 • 6d ago
 
 ---
 
@@ -515,7 +515,7 @@ Intern-S1-Pro is a trillion-scale MoE multimodal scientific reasoning model exce
 
 _paperbanana is an agentic framework that automates the creation of publication-ready academic illustrations using advanced vision-language models and image generation techniques.
 
-▲ 170 • 💬 12 • ⭐ 3,318 • 12d ago
+▲ 170 • 💬 12 • ⭐ 3,336 • 12d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2601.23265) • [💻 code](https://github.com/dwzhu-pku/PaperBanana) • [🔗 project](https://dwzhu-pku.github.io/PaperBanana/)
 
@@ -559,6 +559,20 @@ Financial markets are noisy and non-stationary, making alpha mining highly sensi
 
 ---
 
+**[SkillRL: Evolving Agents via Recursive Skill-Augmented Reinforcement Learning](https://huggingface.co/papers/2602.08234)**
+
+*Peng Xia, Jianwen Chen, Hanyang Wang et al. (13 authors)*
+
+🏢 University of North Carolina at Chapel Hill
+
+SkillRL enables LLM agents to improve through hierarchical skill discovery and recursive policy evolution, achieving superior performance on complex tasks while reducing computational overhead.
+
+▲ 58 • 💬 2 • ⭐ 140 • 3d ago
+
+[🎓 arXiv](https://arxiv.org/abs/2602.08234) • [💻 code](https://github.com/aiming-lab/SkillRL)
+
+---
+
 **[Multi-Agent Software Development through Cross-Team Collaboration](https://huggingface.co/papers/2406.08979)**
 
 *Zhuoyun Du, Chen Qian, Wei Liu et al. (8 authors)*
@@ -568,20 +582,6 @@ Cross-Team Collaboration improves software quality by enabling multiple LLM agen
 ▲ 3 • 💬 0 • ⭐ 30,873 • 20mo ago
 
 [🎓 arXiv](https://arxiv.org/abs/2406.08979) • [💻 code](https://github.com/OpenBMB/ChatDev)
-
----
-
-**[SkillRL: Evolving Agents via Recursive Skill-Augmented Reinforcement Learning](https://huggingface.co/papers/2602.08234)**
-
-*Peng Xia, Jianwen Chen, Hanyang Wang et al. (13 authors)*
-
-🏢 University of North Carolina at Chapel Hill
-
-SkillRL enables LLM agents to improve through hierarchical skill discovery and recursive policy evolution, achieving superior performance on complex tasks while reducing computational overhead.
-
-▲ 56 • 💬 1 • ⭐ 89 • 3d ago
-
-[🎓 arXiv](https://arxiv.org/abs/2602.08234) • [💻 code](https://github.com/aiming-lab/SkillRL)
 
 ---
 
@@ -620,7 +620,7 @@ The Qwen3-TTS series presents advanced multilingual text-to-speech models with v
 
 MOVA is an open-source model that generates synchronized audio-visual content using a Mixture-of-Experts architecture with 32 billion parameters, supporting image-text to video-audio generation tasks.
 
-▲ 142 • 💬 2 • ⭐ 612 • 2d ago
+▲ 143 • 💬 2 • ⭐ 612 • 2d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2602.08794) • [💻 code](https://github.com/OpenMOSS/MOVA) • [🔗 project](https://mosi.cn/models/mova)
 
@@ -651,7 +651,7 @@ The Ultimate Collection of 700+ Agentic Skills for Claude Code/Antigravity/Curso
 
 `Python` `agentic-skills` `ai-agents` `antigravity` `autonomous-coding` `claude-code`
 
-⭐ 8.5k • 🔱 1.7k • 16h ago
+⭐ 8.5k • 🔱 1.7k • 19h ago
 
 ---
 
@@ -661,7 +661,7 @@ Marketing skills for Claude Code and AI agents. CRO, copywriting, SEO, analytics
 
 `claude` `codex` `marketing`
 
-⭐ 7.3k • 🔱 849 • 7d ago
+⭐ 7.3k • 🔱 852 • 8d ago
 
 ---
 
@@ -669,7 +669,7 @@ Marketing skills for Claude Code and AI agents. CRO, copywriting, SEO, analytics
 
 Elevate your AI research writing, no more tedious polishing ✨ 
 
-⭐ 5.4k • 🔱 417 • 19h ago
+⭐ 5.5k • 🔱 417 • 22h ago
 
 ---
 
@@ -677,7 +677,7 @@ Elevate your AI research writing, no more tedious polishing ✨
 
 Claude Code skill that removes signs of AI-generated writing from text
 
-⭐ 4.6k • 🔱 377 • 19d ago
+⭐ 4.6k • 🔱 379 • 19d ago
 
 ---
 
@@ -687,7 +687,7 @@ PaperBanana: Automating Academic Illustration For AI Scientists
 
 `JavaScript`
 
-⭐ 3.3k • 🔱 162 • 9d ago
+⭐ 3.3k • 🔱 163 • 9d ago
 
 ---
 
@@ -695,17 +695,7 @@ PaperBanana: Automating Academic Illustration For AI Scientists
 
 Humanizer 的汉化版本，Claude Code Skills，旨在消除文本中 AI 生成的痕迹。
 
-⭐ 2.9k • 🔱 272 • 23d ago
-
----
-
-**[DevAgentForge/Open-Claude-Cowork](https://github.com/DevAgentForge/Open-Claude-Cowork)**
-
-OpenSource Claude Cowork. A desktop AI assistant that helps you with programming, file management, and any task you can describe.
-
-`TypeScript`
-
-⭐ 2.8k • 🔱 383 • 3d ago
+⭐ 2.9k • 🔱 273 • 23d ago
 
 ---
 
@@ -715,7 +705,7 @@ Smart LLM router — save 78% on inference costs. 30+ models, one wallet, x402 m
 
 `TypeScript` `ai` `ai-agents` `anthropic` `cost-optimization` `crypto`
 
-⭐ 2.2k • 🔱 223 • 5h ago
+⭐ 2.2k • 🔱 224 • 46m ago
 
 ---
 
@@ -735,7 +725,17 @@ The visual feedback tool for agents.
 
 `TypeScript` `ai` `design` `tools` `ui`
 
-⭐ 2.1k • 🔱 151 • 2d ago
+⭐ 2.1k • 🔱 152 • 2d ago
+
+---
+
+**[op7418/CodePilot](https://github.com/op7418/CodePilot)**
+
+A native desktop GUI for Claude Code — chat, code, and manage projects visually. Built with Electron + Next.js.
+
+`TypeScript` `ai` `anthropic` `claude` `claude-code` `desktop-app`
+
+⭐ 1.7k • 🔱 180 • 8h ago
 
 ---
 
