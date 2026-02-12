@@ -3,14 +3,14 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-02-12T22:34:29.625632+00:00'
+updated: '2026-02-12T23:30:51.732023+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
+- cryptocurrency
 - videos
 - news
-- cryptocurrency
 - social
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** February 12, 2026 at 22:34 UTC  
+**Last Updated:** February 12, 2026 at 23:30 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -54,17 +54,17 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1308.79B
+**Market Cap:** $1327.16B
 Rank #1
 
-**Circulating Supply:** 19,988,287 BTC
+**Circulating Supply:** 19,988,353 BTC
 95.2% of max
 
 **All-Time High:** $126,080.00
--48.1%
+-47.4%
 
 **All-Time Low:** $67.81
-+96468.4%
++97746.9%
 
 ---
 
@@ -79,19 +79,19 @@ Rank #1
 
 **[Bitcoin, what are you doing](https://www.reddit.com/r/Bitcoin/comments/1r2u1yl/bitcoin_what_are_you_doing/)**
 
-8h ago
+9h ago
 
 ---
 
 **[Which one are you?](https://www.reddit.com/r/Bitcoin/comments/1r32e5a/which_one_are_you/)**
 
-3h ago
+4h ago
 
 ---
 
 **[VanEck said it knows 13 governments that are actively mining Bitcoin](https://www.reddit.com/r/Bitcoin/comments/1r35qqv/vaneck_said_it_knows_13_governments_that_are/)**
 
-1h ago
+2h ago
 
 ---
 
@@ -99,7 +99,7 @@ Rank #1
 
 I set alerts for my dip buying strategy. I have been buying since $80K and these are my next targets. Hope it all hit perfectly. I may increase the amounts depending on my savings.
 
-12h ago
+13h ago
 
 ---
 
@@ -115,13 +115,13 @@ It's estimated 80% of the price decline seen in the past 30 days is from derivat
 
 BlackRock exec says 1% crypto allocation in Asia could unlock $2 trillion in new flows
 
-🔗 [s.followin.io](https://s.followin.io/s/yYHesWRHFD) • 14h ago
+🔗 [s.followin.io](https://s.followin.io/s/yYHesWRHFD) • 15h ago
 
 ---
 
 **[Spending sats at the farmers market in El Zonte](https://www.reddit.com/r/Bitcoin/comments/1r2niwb/spending_sats_at_the_farmers_market_in_el_zonte/)**
 
-14h ago
+15h ago
 
 ---
 
@@ -129,7 +129,7 @@ BlackRock exec says 1% crypto allocation in Asia could unlock $2 trillion in new
 
 It fkn sucks that we have to pay taxes on LITERALLY everything here in sweden, with that said.. the government does the calculating and we just have to file the document.. but thats not the case for crypto and btc… i have to do it on my own and the process seems intimidating cuz its not only 30% of the profit that i have to calculate but something called “cost basis” on EVERY transaction so that when i sell (the taxable event) i have all my numbers… anyone going through the same would appreciate some help and tips..
 
-10h ago
+11h ago
 
 ---
 
@@ -137,7 +137,7 @@ It fkn sucks that we have to pay taxes on LITERALLY everything here in sweden, w
 
 Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.
 
-🔗 [youtu.be](https://youtu.be/CtMmNTc4yho?si=KsfHcWT8SHWGRs6S) • 1h ago
+🔗 [youtu.be](https://youtu.be/CtMmNTc4yho?si=KsfHcWT8SHWGRs6S) • 2h ago
 
 ---
 
@@ -145,7 +145,7 @@ Enjoy the videos and music you love, upload original content, and share it all w
 
 A huge short squeeze is on the horizon most people are betting short now this will trigger a massive squeeze very soon nows when I add my money I don’t buy anything on leverage do you believe a squeeze is setting up
 
-9h ago
+10h ago
 
 ---
 
@@ -165,7 +165,7 @@ Fortune • 1d ago
 
 Cryptocurrency exchange Coinbase Global (COIN) is out with its fourth quarter earnings, missing both Wall Street's expectations on adjusted earnings ($0.66 per share vs. estimates of $0.86) and total revenue ($1.8 billion vs. estimates of $1.83 billion). Market Domination Overtime Host Josh Lipton dives into Coinbase's earnings release. To watch more expert insights and analysis on the latest market action, check out more&nbsp;Market Domination Overtime.
 
-Yahoo Finance • 1h ago
+Yahoo Finance • 2h ago
 
 ---
 
@@ -173,7 +173,7 @@ Yahoo Finance • 1h ago
 
 Coinbase reported a down quarter for the end of 2025, with its investment portfolio plunging alongside Bitcoin and other crypto assets.
 
-Yahoo Finance • 1h ago
+Yahoo Finance • 2h ago
 
 ---
 
@@ -181,13 +181,13 @@ Yahoo Finance • 1h ago
 
 Bitcoin has a history of falling about 75% during each four-year cycle, suggesting the token is on track to fall even further in the near future.
 
-CNBC • 8h ago
+CNBC • 9h ago
 
 ---
 
 **[Bitcoin price steadies but fresh fears suggest slide to $52k](https://uk.finance.yahoo.com/news/bitcoin-price-crypto-us-jobs-101234268.html)**
 
-Yahoo Finance UK • 12h ago
+Yahoo Finance UK • 13h ago
 
 ---
 
@@ -207,7 +207,7 @@ CNBC • 1d ago
 
 **[JPMorgan sees bitcoin support near $77,000, remains 'positive' on crypto in 2026](https://www.theblock.co/post/389706/jpmorgan-bitcoin-support-77000-positive-crypto-2026)**
 
-The Block • 4h ago
+The Block • 5h ago
 
 ---
 
@@ -219,7 +219,7 @@ Barron's • 1d ago
 
 **[Robinhood’s stock is now trading almost exactly like bitcoin — but it really shouldn’t be](https://www.marketwatch.com/story/robinhoods-stock-is-now-trading-almost-exactly-like-bitcoin-but-it-really-shouldnt-be-a9a88715?gaa_at=eafs&gaa_n=AWEtsqfnF7hKQvC4crtGI9SY-X-6f1wuZpOLhZQ6_gx5Oy4nHBExxfBwi7QK&gaa_ts=698e58d8&gaa_sig=f5RJhKAngsbzK8ygOUKbA8Tzufy8CAkIAAyYHvHrOjEcx4VnbUZ7fPxEVJYN0TShLkvKyXIzP792cu3yNT85fA%3D%3D)**
 
-MarketWatch • 1h ago
+MarketWatch • 2h ago
 
 ---
 
@@ -311,7 +311,7 @@ Make Free Bitcoin & Crypto Predictions on *ClashPicks* ▻ https://www.clashpick
 
 📺 CryptosRUs
 
-👁️ 19K • 👍 1K • 💬 259 • ⏱️ 51:44 • 6h ago
+👁️ 23K • 👍 1K • 💬 295 • ⏱️ 51:44 • 7h ago
 
 ---
 
@@ -321,37 +321,17 @@ Let's talk about a few indicators that give some suggestions on how low the pric
 
 📺 Benjamin Cowen
 
-👁️ 112K • 👍 8K • 💬 574 • ⏱️ 23:30 • 18h ago
+👁️ 123K • 👍 8K • 💬 600 • ⏱️ 23:30 • 19h ago
 
 ---
 
-**[Is the Bitcoin Collapse About to Get WORSE?](https://www.youtube.com/watch?v=s3vLS0fWMZ0)**
+**[Bitcoin Will Bottom At: $XX,679! (Bitcoin Price Prediction 2026)](https://www.youtube.com/watch?v=TjiAPa5fzQ8)**
 
-Bitcoin #Crypto #Finance Stay ahead of the market — FREE Join the DataDash Pro newsletter ...
+A MAJOR MOVEMENT IS AROUND THE CORNER! Are you ready? Sign Up For Phemex and Earn a brand new iPhone 16 ...
 
-📺 DataDash
+📺 Crypto Jebb
 
-👁️ 3K • 👍 240 • 💬 7 • ⏱️ 15:09 • 6h ago
-
----
-
-**[🚨 MICHAEL SAYLOR SAID THIS ABOUT BITCOIN TODAY!!!](https://www.youtube.com/watch?v=AUflakPWtQI)**
-
-LIMITED TIME: ✓ Bitunix (no kyc, $10k bonus): https://www.bitunix.com/register?vipCode=AltcoinDaily 50% deposit bonus on ...
-
-📺 Altcoin Daily
-
-👁️ 57K • 👍 1K • 💬 233 • ⏱️ 1:14 • 1d ago
-
----
-
-**[Why Bitcoin Could Hit $0](https://www.youtube.com/watch?v=IXNUM4FMqNs)**
-
-We're watching the worst crypto crash since the FTX scandal. Ben McKenzie explains what's driving the crash, and why this one ...
-
-📺 More Perfect Union
-
-👁️ 686K • 👍 46K • 💬 4K • ⏱️ 2:50 • 1d ago
+👁️ 5K • 👍 346 • 💬 124 • ⏱️ 18:47 • 4h ago
 
 ---
 
@@ -361,27 +341,57 @@ Samson Mow just dropped a BOMBSHELL about what's really happening to Bitcoin. Th
 
 📺 Money Talks
 
-👁️ 188 • 👍 9 • 💬 165 • ⏱️ 10:33 • 4h ago
+👁️ 672 • 👍 34 • 💬 283 • ⏱️ 10:33 • 5h ago
 
 ---
 
-**[Bitcoin Crashed Hard. Here’s How I’m Playing It.](https://www.youtube.com/watch?v=JgXtAl0lV8c)**
+**[The Secret Reason Behind Bitcoin&#39;s Crash (And What Actually Matters)](https://www.youtube.com/watch?v=yD0b2PXuwNI)**
 
-Watch this video where I break down volatility: https://youtu.be/Z_vlwus19-8?si=DdRR_b8wnpxBLGh8 Get the "New Rich" ...
+Bitcoin's crash off its all time high and then its sudden crash last week. It left many people stunned and it took a couple days.
 
 📺 Mark Moss
 
-👁️ 128K • 👍 5K • 💬 558 • ⏱️ 19:19 • 2d ago
+👁️ 23K • 👍 3K • 💬 322 • ⏱️ 16:43 • 3h ago
 
 ---
 
-**[WARNING: Bitcoin Is In Trouble……](https://www.youtube.com/watch?v=6q_IEBAEIi0)**
+**[The Bitcoin Glitch: They Want You to Sell.](https://www.youtube.com/watch?v=Jpjyog2TQ1U)**
 
-BYBIT: http://themoon.co/Bybit 10% DISCOUNT & $30000 BONUS Phemex: https://themoon.co/Phemex $45K Welcome ...
+Bitcoin deep fear, is it a buying signal? Elon Musk warning. Join the Bitpanda evolution here ...
 
-📺 The Moon Show
+📺 Lark Davis
 
-👁️ 11K • 👍 602 • 💬 131 • ⏱️ 6:39 • 12h ago
+👁️ 13K • 👍 727 • 💬 107 • ⏱️ 16:46 • 11h ago
+
+---
+
+**[Why Bitcoin Could Hit $0](https://www.youtube.com/watch?v=IXNUM4FMqNs)**
+
+We're watching the worst crypto crash since the FTX scandal. Ben McKenzie explains what's driving the crash, and why this one ...
+
+📺 More Perfect Union
+
+👁️ 785K • 👍 53K • 💬 5K • ⏱️ 2:50 • 1d ago
+
+---
+
+**[INSIDER REVEALS 13 Countries are SILENTLY ALL IN on Bitcoin!!! | EP 1439](https://www.youtube.com/watch?v=tvPus7DPEsE)**
+
+Everyone is worried about the bitcoin price but 13 countries are now silently all in bitcoin ...
+
+📺 Simply Bitcoin
+
+👁️ 5K • 👍 285 • 💬 134 • ⏱️ 1:16:26 • 4h ago
+
+---
+
+**[Largest Bitcoin Miner Predicts Next Bitcoin Bull Run](https://www.youtube.com/watch?v=XyChljTBrOk)**
+
+Fred Thiel is the CEO of Marathon Digital and a leading voice at the intersection of bitcoin, energy, and data center infrastructure.
+
+📺 Anthony Pompliano
+
+👁️ 4K • 👍 305 • ⏱️ 18:55 • 1h ago
 
 ---
 
@@ -391,17 +401,7 @@ Bitcoin #Crypto #Finance Today's Bitcoin selloff wasn't just another red candle.
 
 📺 The Wolf Of All Streets
 
-👁️ 28K • 👍 1K • 💬 379 • ⏱️ 27:34 • 1d ago
-
----
-
-**[Biggest Crypto News Happening Now!! [BlackRock + Joe Rogan + Ethereum]](https://www.youtube.com/watch?v=mp3jUibJvFg)**
-
-BlackRock + Joe Rogan + Ethereum.. Biggest Crypto News Happening Now!! Become a channel member & get access to ...
-
-📺 Altcoin Daily
-
-👁️ 51K • 👍 3K • 💬 745 • ⏱️ 9:41 • 22h ago
+👁️ 28K • 👍 1K • 💬 417 • ⏱️ 27:34 • 1d ago
 
 ---
 

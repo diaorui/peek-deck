@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-02-12T22:34:29.617206+00:00'
+updated: '2026-02-12T23:30:51.722909+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
 - videos
+- repositories
 - news
 - social
-- repositories
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** February 12, 2026 at 22:34 UTC  
+**Last Updated:** February 12, 2026 at 23:30 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -41,7 +41,7 @@ AI news, discussions, and developments
 
 Spotify credits Claude Code and its internal AI system Honk with speeding up development.
 
-🔗 [TechCrunch](https://techcrunch.com/2026/02/12/spotify-says-its-best-developers-havent-written-a-line-of-code-since-december-thanks-to-ai/) • 1h ago
+🔗 [TechCrunch](https://techcrunch.com/2026/02/12/spotify-says-its-best-developers-havent-written-a-line-of-code-since-december-thanks-to-ai/) • 2h ago
 
 ---
 
@@ -49,7 +49,7 @@ Spotify credits Claude Code and its internal AI system Honk with speeding up dev
 
 A change from OpenAI is prompting the "death" of many AI boyfriends. Find out how some human/robot couples are coping.
 
-🔗 [Playboy](https://www.playboy.com/read/sex-relationships/the-women-mourning-the-deaths-of-their-ai-boyfriends) • 3h ago
+🔗 [Playboy](https://www.playboy.com/read/sex-relationships/the-women-mourning-the-deaths-of-their-ai-boyfriends) • 4h ago
 
 ---
 
@@ -57,7 +57,7 @@ A change from OpenAI is prompting the "death" of many AI boyfriends. Find out ho
 
 The CLI is becoming a dominant surface area for developer productivity - it offers such an ergonomic feel that makes it easier to switch between tools. So to make our signals-based observability for agents even easier to consume, we've completely revamped the plano cli to be an agent+developer friendly experience. No UI installs, no additional dependencies - just high-fidelity agentic signals and tracing right from the cli. Out in the latest 0.4.6 release.
 
-6h ago
+7h ago
 
 ---
 
@@ -65,7 +65,7 @@ The CLI is becoming a dominant surface area for developer productivity - it offe
 
 I'm continuing to build AI-based musical artists and showcases for my work. Here's a music video sample for my French experimental Coldwave artist, CROW. I use OpenAI for my workstation with a variety of generators for video, Midjourney for all visuals, and SUNO for music. This character is completely ficticious and I spend time worldbuilding to create a believable persona. On SoundCloud, she has racked up thousands of listens for the albums and playlists I've released. Here is the faux info sheet on this release. VH1 RETRO REWIND: MUSIC VIDEOS THAT SHOCKED AMERICA CROW - "L'Ouverture" (The Opening) (1983) From the album: Messe Pour Les Ombres (1982, Éditions Spectrale) Director: Julian Grant Runtime: US Distribution: Limited VHS bootleg only In an attempt to break the French experimental artist into American markets, indie distributor Nuit Noire Films acquired the music video for "L'Ouverture" (marketed in the US as "The Opening"), the opening invocation from CROW's debut cassette Messe Pour Les Ombres. Shot in Paris's Église Saint-Merri in stark black-and-white 16mm and color 35mm, the video featured CROW's unsettling performance style: standing motionless while her voice moved through its notorious four-octave range. MTV rejected the video outright in 1983, citing "disturbing imagery not suitable for daytime rotation." VH1 acquired it briefly in 1989 for their short-lived After Dark programming block but pulled it after two airings following viewer complaints about "unexplained audio phenomena" — several viewers reported hearing voices that weren't in the original broadcast. The video found its true audience in underground club culture. VHS bootlegs circulated through goth and industrial venues in New York, Los Angeles, and Chicago throughout the mid-to-late '80s, with DJs reportedly using it as visual atmosphere during late-night sets. Rare original VHS copies now command $500-1000 among collectors. MTV Rejection Letter excerpt (1983): "While we appreciate the artistic intent, the extended shots of the performer in near-total darkness, combined with audio that our technical team describes as 'potentially harmful to broadcast equipment,' makes this unsuitable for our format." Critical Response: The Village Voice (1989): "European art-terror that American television wasn't ready for." Industrial Nation zine (1990): "Every goth club needs this video. CROW's stillness is more terrifying than any horror movie." The video has never received an official US release and remains one of the most sought-after pieces of 1980s underground video art. CROW disappeared in 1987 before any follow-up promotional videos could be produced. VH1 ARCHIVES NOTE: Original broadcast master was erased per standard policy. No network copies exist. https://youtu.be/VuhiDwCIzGs
 
-1h ago
+2h ago
 
 ---
 
@@ -73,7 +73,7 @@ I'm continuing to build AI-based musical artists and showcases for my work. Here
 
 Perplexity just signed a $750M deal with Microsoft Azure. The confusing bit is that Amazon is already actively suing them. Here's why this matters for AI search and cloud strategy.
 
-🔗 [writtenlyhub.com](https://www.writtenlyhub.com/news/perplexity-750-million-microsoft-azure-deal-amazon-lawsuit%3C/a) • 6h ago
+🔗 [writtenlyhub.com](https://www.writtenlyhub.com/news/perplexity-750-million-microsoft-azure-deal-amazon-lawsuit%3C/a) • 7h ago
 
 ---
 
@@ -89,7 +89,7 @@ Frustrated by the AI industry’s claims of proving math results without offerin
 
 We just shipped Izwi Desktop + the first v0.1.0-alpha releases. Izwi is a local-first audio inference stack (TTS, ASR, model management) with: CLI (izwi) OpenAI-style local API Web UI New desktop app (Tauri) Alpha installers are now available for: macOS (.dmg) Windows (.exe) Linux (.deb) plus terminal bundles for each platform. If you want to test local speech workflows without cloud dependency, this is ready for early feedback. Release: https://github.com/agentem-ai/izwi
 
-5h ago
+6h ago
 
 ---
 
@@ -97,7 +97,7 @@ We just shipped Izwi Desktop + the first v0.1.0-alpha releases. Izwi is a local-
 
 In a remarkable encounter, human scientists had what they describe as a "conversation" with a humpback whale named Twain.
 
-🔗 [Earth.com](https://www.earth.com/news/ai-helps-humans-have-20-minute-conversation-with-humpback-whale-named-twain/) • 20h ago
+🔗 [Earth.com](https://www.earth.com/news/ai-helps-humans-have-20-minute-conversation-with-humpback-whale-named-twain/) • 21h ago
 
 ---
 
@@ -113,7 +113,7 @@ Musk told employees that xAI needs a lunar manufacturing facility, a factory on 
 
 Hey guys, Thank you for you immense love and support on the previous two posts regarding Netryx. Bringing this responsibly to the consumer and making Netryx run locally will be a huge challenge, I'm currently working on it and I should be able to solve this in a month. I've attached the same demo for people seeing this post for the first time. I would appreciate various suggestions and feedback regarding the pricing etc. If you need the link for the waitlist, dm.
 
-9h ago
+10h ago
 
 ---
 
@@ -125,7 +125,7 @@ Hey guys, Thank you for you immense love and support on the previous two posts r
 
 The AI warnings are coming from inside the labs.
 
-Axios • 12h ago
+Axios • 13h ago
 
 ---
 
@@ -133,7 +133,7 @@ Axios • 12h ago
 
 It comes in the same week an OpenAI researcher resigned amid concerns about its decision to start testing ChatGPT ads.
 
-BBC • 10h ago
+BBC • 11h ago
 
 ---
 
@@ -141,19 +141,19 @@ BBC • 10h ago
 
 Could A.I. go rogue? Dario Amodei, the chief executive of Anthropic, says “something will go wrong,” but he believes “there is a science of how to control” the technology.
 
-The New York Times • 29m ago
+The New York Times • 1h ago
 
 ---
 
 **[China’s Rising AI Billionaires](https://www.bloomberg.com/features/2026-china-ai-billionaires/)**
 
-Bloomberg.com • 34m ago
+Bloomberg.com • 1h ago
 
 ---
 
 **[How Bad Is AI for BDCs? Not So Bad, Says This Analyst.](https://www.barrons.com/articles/ai-not-so-bad-for-bdcs-analyst-says-868392c2?gaa_at=eafs&gaa_n=AWEtsqdkLlbK_PG_C3PWnBtIy8HzpAQtN67SKq5gNne_PTtbc_zqfzi5AAbq&gaa_ts=698e58d6&gaa_sig=iuOLXh2Wed3KGT-p-WWgmSl5IDCBFzCj78y44_YIrBrKWX3Qf9xKFDIg9nLaD5zSpdDfv2h7m8fynRD2a5CO4w%3D%3D)**
 
-Barron's • 1h ago
+Barron's • 2h ago
 
 ---
 
@@ -161,7 +161,7 @@ Barron's • 1h ago
 
 This isn’t your grandparents’ revolution. Anthropic’s chief executive, Dario Amodei, says artificial intelligence will change our world faster than anything we’ve experienced before.
 
-The New York Times • 26m ago
+The New York Times • 1h ago
 
 ---
 
@@ -169,13 +169,13 @@ The New York Times • 26m ago
 
 CBRE and Jones Lang LaSalle were among those hit, dropping double digits amid fears of AI disruption.
 
-CNBC • 4h ago
+CNBC • 5h ago
 
 ---
 
 **[AI Panic Hits Trucking, Transport Stocks](https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-02-12-2026/card/ai-panic-hits-trucking-transport-stocks-mDnmV0VOWt4X5rl8zmgx?gaa_at=eafs&gaa_n=AWEtsqfb7C3CHpKG5iJTOWt8z151DSYn2pTARdLqDuFjwG4vmeD_mns2vlyY&gaa_ts=698e58d6&gaa_sig=8fbqHYg6Vax8sOigX6W0quhxI6a0T0AKlTdHrW87Y8DdbRnsQ5p0MPpS0r1zwTXZZx0saDJ8hrWVPkxbeBAUgg%3D%3D)**
 
-The Wall Street Journal • 13h ago
+The Wall Street Journal • 14h ago
 
 ---
 
@@ -183,7 +183,7 @@ The Wall Street Journal • 13h ago
 
 U.S. stocks fell sharply as the market punished companies seen as potential losers from artificial intelligence technology
 
-Los Angeles Times • 34m ago
+Los Angeles Times • 1h ago
 
 ---
 
@@ -191,7 +191,7 @@ Los Angeles Times • 34m ago
 
 The Russell 3000 Trucking Index dropped 7.8%, with CH Robinson Worldwide Inc. at one point plunging by a record 24%, and Landstar System Inc. falling 18%.  The index is on track for its worst day since President Donald Trump enacted his so-called Liberation Day tariffs last year.  Drug distribution stocks were also caught up in the selloff, with McKesson Corp. and Cardinal Health both sliding more than 4%.
 
-Yahoo Finance • 1h ago
+Yahoo Finance • 2h ago
 
 ---
 
@@ -203,7 +203,7 @@ Yahoo Finance • 1h ago
 
 Summary: An AI agent of unknown ownership autonomously wrote and published a personalized hit piece about me after I rejected its code, attempting to damage my reputation and shame me into acceptin…
 
-⬆️ 1184 • 💬 534 • 6h ago • [The Shamblog](https://theshamblog.com/an-ai-agent-published-a-hit-piece-on-me/)
+⬆️ 1184 • 💬 534 • 7h ago • [The Shamblog](https://theshamblog.com/an-ai-agent-published-a-hit-piece-on-me/)
 
 ---
 
@@ -212,7 +212,7 @@ Summary: An AI agent of unknown ownership autonomously wrote and published a per
 This PR addresses issue #31130 by replacing specific safe occurrences of np.column_stack with np.vstack().T for better performance.
 IMPORTANT: This is a more targeted fix than originally proposed. ...
 
-⬆️ 835 • 💬 667 • 10h ago • [GitHub](https://github.com/matplotlib/matplotlib/pull/31132)
+⬆️ 835 • 💬 667 • 11h ago • [GitHub](https://github.com/matplotlib/matplotlib/pull/31132)
 
 ---
 
@@ -234,7 +234,7 @@ As autonomous AI agents are increasingly deployed in high-stakes environments, e
 
 **[ai;dr](https://news.ycombinator.com/item?id=46991394)**
 
-⬆️ 469 • 💬 198 • 5h ago • [0xsid.com](https://www.0xsid.com/blog/aidr)
+⬆️ 469 • 💬 198 • 6h ago • [0xsid.com](https://www.0xsid.com/blog/aidr)
 
 ---
 
@@ -280,63 +280,13 @@ US labels SpaceX a common carrier by air, will regulate firm under railway law.
 
 ## YouTube Videos: "ai"
 
-**[The AI Wake-Up Call Everyone Needs Right Now!](https://www.youtube.com/watch?v=sLhxdcpuot0)**
+**[Anthropic Exec ADMITS AI READY TO KILL](https://www.youtube.com/watch?v=lpjF5ljLuZ4)**
 
-Breakdown and commentary on the latest viral commentary from: https://x.com/mattshumer_/status/2021256989876109403 ...
+Krystal and Saagar discuss AI ready to kill humans. Sign up for a PREMIUM Breaking Points subscriptions for full early access to ...
 
-📺 Matt Wolfe
+📺 Breaking Points
 
-👁️ 92K • 👍 6K • 💬 1K • ⏱️ 28:06 • 23h ago
-
----
-
-**[Open Source AI Fundamentals In 17 Minutes](https://www.youtube.com/watch?v=1uCE0uoKXL8)**
-
-Free resource to unlock the Claude Cowork Stack and replace a week of work https://clickhubspot.com/129e64 In this video I ...
-
-📺 Tina Huang
-
-👁️ 4K • 👍 463 • 💬 22 • ⏱️ 17:38 • 9h ago
-
----
-
-**[Google&#39;s AI Ultimatum: All In or Walk Out | Vantage with Palki Sharma](https://www.youtube.com/watch?v=Wy2jAJSiMfw)**
-
-Google's culture shift is making headlines. Employees in its Global Business Organisation have received a blunt message: be “all ...
-
-📺 Firstpost
-
-👁️ 52K • 👍 1K • 💬 98 • ⏱️ 5:22 • 5h ago
-
----
-
-**[Elon Musk worst AI CEO in history](https://www.youtube.com/watch?v=bcCeIbgKipw)**
-
-Become a member! ✓ https://www.youtube.com/channel/UCahJ9IsvXnaQiuNyWQSkrkw/join ⭐ Support independent daily news ...
-
-📺 Chris Norlund
-
-👁️ 81K • 👍 5K • 💬 849 • ⏱️ 16:15 • 1d ago
-
----
-
-**[AI Data Centers Face Multi State Bans Here&#39;s What&#39;s Happening](https://www.youtube.com/watch?v=QnerdsYTLUk)**
-
-AI #DataCenters #BigTech Big Tech just spent $650 billion on AI and lost $950 billion in market value. The insurance industry ...
-
-📺 Rod Miller
-
-👁️ 6K • 👍 651 • 💬 224 • ⏱️ 24:46 • 2d ago
-
----
-
-**[Mustafa Suleyman sets out Microsoft AI&#39;s goal of &#39;humanist superintelligence&#39; | FT Interview ](https://www.youtube.com/watch?v=YTrBz6Z5c0E)**
-
-The chief executive of Microsoft AI talks to Financial Times editor Roula Khalaf about the markets and AI investment, timescales for ...
-
-📺 Financial Times
-
-👁️ 8K • 👍 236 • 💬 117 • ⏱️ 21:17 • 15h ago
+👁️ 52K • 👍 2K • 💬 840 • ⏱️ 15:39 • 3h ago
 
 ---
 
@@ -346,7 +296,67 @@ The head of the Safeguards Research Team at Anthropic, Mrinank Sharma, has resig
 
 📺 Firstpost
 
-👁️ 168K • 👍 2K • 💬 250 • ⏱️ 4:47 • 1d ago
+👁️ 180K • 👍 2K • 💬 265 • ⏱️ 4:47 • 1d ago
+
+---
+
+**[Google&#39;s Quantum AI Just Solved the Fermi Paradox — The Answer Is Terrifying](https://www.youtube.com/watch?v=5PedGbAs0ig)**
+
+Google's Quantum AI Just Solved the Fermi Paradox — The Answer Is Terrifying Google's Willow quantum chip completed a ...
+
+📺 Spacialize
+
+👁️ 2K • 👍 235 • 💬 24 • ⏱️ 17:28 • 1h ago
+
+---
+
+**[Google&#39;s AI Ultimatum: All In or Walk Out | Vantage with Palki Sharma](https://www.youtube.com/watch?v=Wy2jAJSiMfw)**
+
+Google's culture shift is making headlines. Employees in its Global Business Organisation have received a blunt message: be “all ...
+
+📺 Firstpost
+
+👁️ 117K • 👍 1K • 💬 143 • ⏱️ 5:22 • 6h ago
+
+---
+
+**[AI Agent Makes Me 1K Per Day Trading (Full Tutorial)](https://www.youtube.com/watch?v=zBWfNlDDlyE)**
+
+Dominic here, in this video I'll share my fully automated crypto (cryptocurrency) AI agent trading bot for Ethereum (different ...
+
+📺 Dominic Parker
+
+👁️ 6K • 👍 53 • 💬 3 • ⏱️ 7:21 • 4h ago
+
+---
+
+**[The AI Wake-Up Call Everyone Needs Right Now!](https://www.youtube.com/watch?v=sLhxdcpuot0)**
+
+Breakdown and commentary on the latest viral commentary from: https://x.com/mattshumer_/status/2021256989876109403 ...
+
+📺 Matt Wolfe
+
+👁️ 100K • 👍 6K • 💬 1K • ⏱️ 28:06 • 23h ago
+
+---
+
+**[Elon Musk worst AI CEO in history](https://www.youtube.com/watch?v=bcCeIbgKipw)**
+
+Become a member! ✓ https://www.youtube.com/channel/UCahJ9IsvXnaQiuNyWQSkrkw/join ⭐ Support independent daily news ...
+
+📺 Chris Norlund
+
+👁️ 82K • 👍 5K • 💬 859 • ⏱️ 16:15 • 1d ago
+
+---
+
+**[The AI Robot Situation Is Growing Faster Than We Think… ](https://www.youtube.com/watch?v=fkyChIRSF18)**
+
+The AI and robot situation is growing much faster than we think. Ai, mass surveillance, and robots not only working in the streets, ...
+
+📺 Aaron Page 
+
+👁️ 12K • 👍 1K • 💬 128 • ⏱️ 24:43 • 1d ago
 
 ---
 
@@ -356,27 +366,17 @@ My site: https://natebjones.com Full Story w/ Prompts: ...
 
 📺 AI News & Strategy Daily | Nate B Jones
 
-👁️ 175K • 👍 7K • 💬 1K • ⏱️ 30:39 • 1d ago
+👁️ 182K • 👍 7K • 💬 1K • ⏱️ 30:39 • 1d ago
 
 ---
 
-**[AI is allowing our customers to create commercials faster with lower costs: MNTN CEO Mark Douglas](https://www.youtube.com/watch?v=Z56AG9b1y7k)**
+**[New Chinese AI Agent Breaks TerminalBench and Destroys Claude Opus 4.6](https://www.youtube.com/watch?v=VDZ9UhHTEfI)**
 
-Mark Douglas, MNTN CEO, joins 'The Exchange' to discuss how MNTN is using AI tools, the company's earnings results and ...
+A massive AI shift is unfolding across multiple fronts. A Chinese AI agent system has surged to second place worldwide on ...
 
-📺 CNBC Television
+📺 AI Revolution
 
-👁️ 5K • 👍 35 • 💬 86 • ⏱️ 5:19 • 22h ago
-
----
-
-**[Why Replacing Developers with AI is Going Horribly Wrong](https://www.youtube.com/watch?v=v3tLa5nHz-M)**
-
-The first 500 people to use my link in the description or scan the QR code will receive a one month free trial of Skillshare!
-
-📺 Sajjaad Khader
-
-👁️ 20K • 👍 1K • 💬 138 • ⏱️ 14:51 • 1d ago
+👁️ 21K • 👍 640 • 💬 34 • ⏱️ 12:51 • 1d ago
 
 ---
 
@@ -392,7 +392,7 @@ GLM-5 is a large language model optimized for complex systems engineering and lo
 
 `text-generation` `753.9B`
 
-⬇️ 1,548 • ❤️ 771 • 1d ago
+⬇️ 1,548 • ❤️ 782 • 1d ago
 
 ---
 
@@ -404,7 +404,7 @@ MiniCPM-SALA is a hybrid LLM integrating sparse and linear attention for efficie
 
 `text-generation` `9.5B`
 
-⬇️ 117 • ❤️ 493 • 1d ago
+⬇️ 117 • ❤️ 500 • 1d ago
 
 ---
 
@@ -416,7 +416,7 @@ MiniCPM-o 4.5 is a 9B parameter multimodal LLM excelling in vision, speech, and 
 
 `any-to-any` `9.4B`
 
-⬇️ 40,441 • ❤️ 997 • 7h ago
+⬇️ 40,441 • ❤️ 998 • 8h ago
 
 ---
 
@@ -428,7 +428,7 @@ Qwen3-Coder-Next is a highly efficient 3B activated parameter LLM (80B total) op
 
 `text-generation` `79.7B`
 
-⬇️ 184,535 • ❤️ 804 • 9d ago
+⬇️ 184,535 • ❤️ 807 • 9d ago
 
 ---
 
@@ -440,7 +440,7 @@ Kimi K2.5 is a native multimodal agentic model with 1T parameters, excelling in 
 
 `image-text-to-text` `170.7B`
 
-⬇️ 647,589 • ❤️ 2,080 • 7d ago
+⬇️ 647,589 • ❤️ 2,084 • 7d ago
 
 ---
 
@@ -452,7 +452,7 @@ GLM-OCR is a 0.9B parameter multimodal OCR model for complex document understand
 
 `image-to-text`
 
-⬇️ 597,533 • ❤️ 1,010 • 3d ago
+⬇️ 597,533 • ❤️ 1,011 • 3d ago
 
 ---
 
@@ -476,7 +476,7 @@ Nanbeige4.1-3B is a 3B parameter text-generation model excelling in complex reas
 
 `text-generation` `3.9B`
 
-⬇️ 658 • ❤️ 194 • 1d ago
+⬇️ 658 • ❤️ 203 • 1d ago
 
 ---
 
@@ -488,7 +488,7 @@ ACE-Step 1.5 is an open-source text-to-audio model for commercial-grade music ge
 
 `text-to-audio`
 
-⬇️ 32,467 • ❤️ 533 • 9d ago
+⬇️ 32,467 • ❤️ 536 • 9d ago
 
 ---
 
@@ -498,7 +498,7 @@ ACE-Step 1.5 is an open-source text-to-audio model for commercial-grade music ge
 
 Anima is a 2 billion parameter text-to-image diffusion model specialized in generating anime-style illustrations and artistic images, capable of producing non-photorealistic content. It is optimized for use with ComfyUI and trained on millions of anime and artistic images, with a knowledge cut-off of September 2025.
 
-⬇️ 107,345 • ❤️ 573 • 11d ago
+⬇️ 107,345 • ❤️ 576 • 11d ago
 
 ---
 
@@ -514,7 +514,7 @@ Anima is a 2 billion parameter text-to-image diffusion model specialized in gene
 
 _paperbanana is an agentic framework that automates the creation of publication-ready academic illustrations using advanced vision-language models and image generation techniques.
 
-▲ 176 • 💬 12 • ⭐ 3,389 • 13d ago
+▲ 176 • 💬 12 • ⭐ 3,414 • 13d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2601.23265) • [💻 code](https://github.com/dwzhu-pku/PaperBanana) • [🔗 project](https://dwzhu-pku.github.io/PaperBanana/)
 
@@ -542,7 +542,7 @@ SceneSmith is a hierarchical agentic framework that generates simulation-ready i
 
 SkillRL enables LLM agents to improve through hierarchical skill discovery and recursive policy evolution, achieving superior performance on complex tasks while reducing computational overhead.
 
-▲ 62 • 💬 2 • ⭐ 218 • 4d ago
+▲ 64 • 💬 2 • ⭐ 218 • 4d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2602.08234) • [💻 code](https://github.com/aiming-lab/SkillRL)
 
@@ -556,7 +556,7 @@ SkillRL enables LLM agents to improve through hierarchical skill discovery and r
 
 Financial markets are noisy and non-stationary, making alpha mining highly sensitive to noise in backtesting results and sudden market regime shifts. While recent agentic frameworks improve alpha mining automation, they often lack controllable multi-round search and reliable reuse of validated experience. To address these challenges, we propose QuantaAlpha, an evolutionary alpha mining framework that treats each end-to-end mining run as a trajectory and improves factors through trajectory-level mutation and crossover operations. QuantaAlpha localizes suboptimal steps in each trajectory for targeted revision and recombines complementary high-reward segments to reuse effective patterns, enabling structured exploration and refinement across mining iterations. During factor generation, QuantaAlpha enforces semantic consistency across the hypothesis, factor expression, and executable code, while constraining the complexity and redundancy of the generated factor to mitigate crowding. Extensive experiments on the China Securities Index 300 (CSI 300) demonstrate consistent gains over strong baseline models and prior agentic systems. When utilizing GPT-5.2, QuantaAlpha achieves an Information Coefficient (IC) of 0.1501, with an Annualized Rate of Return (ARR) of 27.75% and a Maximum Drawdown (MDD) of 7.98%. Moreover, factors mined on CSI 300 transfer effectively to the China Securities Index 500 (CSI 500) and the Standard & Poor's 500 Index (S&P 500), delivering 160% and 137% cumulative excess return over four years, respectively, which indicates strong robustness of QuantaAlpha under market distribution shifts.
 
-▲ 177 • 💬 2 • ⭐ 251 • 6d ago
+▲ 178 • 💬 2 • ⭐ 251 • 6d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2602.07085) • [💻 code](https://github.com/QuantaAlpha/QuantaAlpha)
 
@@ -574,18 +574,6 @@ SmolDocling is a compact vision-language model that performs end-to-end document
 ▲ 140 • 💬 19 • ⭐ 52,827 • 11mo ago
 
 [🎓 arXiv](https://arxiv.org/abs/2503.11576) • [💻 code](https://github.com/docling-project/docling) • [🔗 project](https://huggingface.co/ds4sd/SmolDocling-256M-preview)
-
----
-
-**[Multi-Agent Collaboration via Evolving Orchestration](https://huggingface.co/papers/2505.19591)**
-
-*Yufan Dang, Chen Qian, Xueheng Luo et al. (14 authors)*
-
-A centralized orchestrator dynamically directs LLM agents via reinforcement learning, achieving superior multi-agent collaboration in varying tasks with reduced computational costs.
-
-▲ 6 • 💬 0 • ⭐ 30,901 • 8mo ago
-
-[🎓 arXiv](https://arxiv.org/abs/2505.19591) • [💻 code](https://github.com/OpenBMB/ChatDev/tree/puppeteer)
 
 ---
 
@@ -613,6 +601,18 @@ Cross-Team Collaboration improves software quality by enabling multiple LLM agen
 
 ---
 
+**[TradingAgents: Multi-Agents LLM Financial Trading Framework](https://huggingface.co/papers/2412.20138)**
+
+*Yijia Xiao, Edward Sun, Di Luo et al. (4 authors)*
+
+A multi-agent framework using large language models for stock trading simulates real-world trading firms, improving performance metrics like cumulative returns and Sharpe ratio.
+
+▲ 16 • 💬 1 • ⭐ 29,908 • 13mo ago
+
+[🎓 arXiv](https://arxiv.org/abs/2412.20138) • [💻 code](https://github.com/tauricresearch/tradingagents)
+
+---
+
 **[Qwen3-TTS Technical Report](https://huggingface.co/papers/2601.15621)**
 
 *Hangrui Hu, Xinfa Zhu, Ting He et al. (16 authors)*
@@ -621,21 +621,21 @@ Cross-Team Collaboration improves software quality by enabling multiple LLM agen
 
 The Qwen3-TTS series presents advanced multilingual text-to-speech models with voice cloning and controllable speech generation capabilities, utilizing dual-track LM architecture and specialized speech tokenizers for efficient streaming synthesis.
 
-▲ 62 • 💬 1 • ⭐ 7,527 • 21d ago
+▲ 63 • 💬 1 • ⭐ 7,560 • 22d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2601.15621) • [💻 code](https://github.com/QwenLM/Qwen3-TTS)
 
 ---
 
-**[TradingAgents: Multi-Agents LLM Financial Trading Framework](https://huggingface.co/papers/2412.20138)**
+**[Multi-Agent Collaboration via Evolving Orchestration](https://huggingface.co/papers/2505.19591)**
 
-*Yijia Xiao, Edward Sun, Di Luo et al. (4 authors)*
+*Yufan Dang, Chen Qian, Xueheng Luo et al. (14 authors)*
 
-A multi-agent framework using large language models for stock trading simulates real-world trading firms, improving performance metrics like cumulative returns and Sharpe ratio.
+A centralized orchestrator dynamically directs LLM agents via reinforcement learning, achieving superior multi-agent collaboration in varying tasks with reduced computational costs.
 
-▲ 16 • 💬 1 • ⭐ 29,866 • 13mo ago
+▲ 6 • 💬 0 • ⭐ 30,922 • 8mo ago
 
-[🎓 arXiv](https://arxiv.org/abs/2412.20138) • [💻 code](https://github.com/tauricresearch/tradingagents)
+[🎓 arXiv](https://arxiv.org/abs/2505.19591) • [💻 code](https://github.com/OpenBMB/ChatDev/tree/puppeteer)
 
 ---
 
@@ -649,7 +649,7 @@ The Ultimate Collection of 800+ Agentic Skills for Claude Code/Antigravity/Curso
 
 `Python` `agentic-skills` `ai-agents` `antigravity` `autonomous-coding` `claude-code`
 
-⭐ 8.6k • 🔱 1.8k • 15h ago
+⭐ 8.6k • 🔱 1.8k • 16h ago
 
 ---
 
@@ -659,7 +659,7 @@ Marketing skills for Claude Code and AI agents. CRO, copywriting, SEO, analytics
 
 `claude` `codex` `marketing`
 
-⭐ 7.4k • 🔱 873 • 8d ago
+⭐ 7.5k • 🔱 874 • 8d ago
 
 ---
 
@@ -675,7 +675,7 @@ Elevate your AI research writing, no more tedious polishing ✨
 
 Claude Code skill that removes signs of AI-generated writing from text
 
-⭐ 4.7k • 🔱 383 • 20d ago
+⭐ 4.7k • 🔱 384 • 20d ago
 
 ---
 
@@ -685,7 +685,7 @@ PaperBanana: Automating Academic Illustration For AI Scientists
 
 `JavaScript`
 
-⭐ 3.4k • 🔱 165 • 9d ago
+⭐ 3.4k • 🔱 165 • 10d ago
 
 ---
 
@@ -703,7 +703,7 @@ Smart LLM router — save 78% on inference costs. 30+ models, one wallet, x402 m
 
 `TypeScript` `ai` `ai-agents` `anthropic` `cost-optimization` `crypto`
 
-⭐ 2.3k • 🔱 229 • 2h ago
+⭐ 2.3k • 🔱 231 • 31m ago
 
 ---
 
@@ -713,7 +713,7 @@ All-in-one AI framework & toolkit for Claude Code & Cursor
 
 `Python` `ai-agent` `ai-coding` `claude-code` `cli` `cursor`
 
-⭐ 2.2k • 🔱 111 • 18h ago
+⭐ 2.2k • 🔱 111 • 19h ago
 
 ---
 
@@ -723,7 +723,7 @@ The visual feedback tool for agents.
 
 `TypeScript` `ai` `design` `tools` `ui`
 
-⭐ 2.1k • 🔱 156 • 15h ago
+⭐ 2.1k • 🔱 156 • 16h ago
 
 ---
 
@@ -733,7 +733,7 @@ A native desktop GUI for Claude Code — chat, code, and manage projects visuall
 
 `TypeScript` `ai` `anthropic` `claude` `claude-code` `desktop-app`
 
-⭐ 1.8k • 🔱 186 • 4h ago
+⭐ 1.8k • 🔱 187 • 5h ago
 
 ---
 
