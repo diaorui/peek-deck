@@ -3,14 +3,14 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-02-12T20:36:49.056064+00:00'
+updated: '2026-02-12T21:35:17.340538+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- cryptocurrency
 - videos
 - news
+- cryptocurrency
 - social
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** February 12, 2026 at 20:36 UTC  
+**Last Updated:** February 12, 2026 at 21:35 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -79,13 +79,13 @@ Rank #1
 
 **[Bitcoin, what are you doing](https://www.reddit.com/r/Bitcoin/comments/1r2u1yl/bitcoin_what_are_you_doing/)**
 
-6h ago
+7h ago
 
 ---
 
 **[Which one are you?](https://www.reddit.com/r/Bitcoin/comments/1r32e5a/which_one_are_you/)**
 
-1h ago
+2h ago
 
 ---
 
@@ -101,13 +101,13 @@ It's estimated 80% of the price decline seen in the past 30 days is from derivat
 
 BlackRock exec says 1% crypto allocation in Asia could unlock $2 trillion in new flows
 
-🔗 [s.followin.io](https://s.followin.io/s/yYHesWRHFD) • 12h ago
+🔗 [s.followin.io](https://s.followin.io/s/yYHesWRHFD) • 13h ago
 
 ---
 
 **[Spending sats at the farmers market in El Zonte](https://www.reddit.com/r/Bitcoin/comments/1r2niwb/spending_sats_at_the_farmers_market_in_el_zonte/)**
 
-12h ago
+13h ago
 
 ---
 
@@ -115,7 +115,7 @@ BlackRock exec says 1% crypto allocation in Asia could unlock $2 trillion in new
 
 It fkn sucks that we have to pay taxes on LITERALLY everything here in sweden, with that said.. the government does the calculating and we just have to file the document.. but thats not the case for crypto and btc… i have to do it on my own and the process seems intimidating cuz its not only 30% of the profit that i have to calculate but something called “cost basis” on EVERY transaction so that when i sell (the taxable event) i have all my numbers… anyone going through the same would appreciate some help and tips..
 
-8h ago
+9h ago
 
 ---
 
@@ -123,7 +123,7 @@ It fkn sucks that we have to pay taxes on LITERALLY everything here in sweden, w
 
 I set alerts for my dip buying strategy. I have been buying since $80K and these are my next targets. Hope it all hit perfectly. I may increase the amounts depending on my savings.
 
-10h ago
+11h ago
 
 ---
 
@@ -131,7 +131,7 @@ I set alerts for my dip buying strategy. I have been buying since $80K and these
 
 Go open an account at the national bank of Canada to do your Bitcoin transactions with they don't close your account like all the other banks are doing right now to everyone else that is with BMO for example. They close it the first time you buy Bitcoin. Don't do it on BMO.
 
-5h ago
+6h ago
 
 ---
 
@@ -139,7 +139,7 @@ Go open an account at the national bank of Canada to do your Bitcoin transaction
 
 A huge short squeeze is on the horizon most people are betting short now this will trigger a massive squeeze very soon nows when I add my money I don’t buy anything on leverage do you believe a squeeze is setting up
 
-7h ago
+8h ago
 
 ---
 
@@ -147,7 +147,7 @@ A huge short squeeze is on the horizon most people are betting short now this wi
 
 From what I am seeing: https://alternative.me/crypto/fear-and-greed-index/ we just just got the lowest fear and greed score ever: 5 https://preview.redd.it/8vnse0l6jyig1.png?width=722&format=png&auto=webp&s=bf1cd65764d691ded626c82771a355d080635500
 
-20h ago
+21h ago
 
 ---
 
@@ -159,7 +159,7 @@ From what I am seeing: https://alternative.me/crypto/fear-and-greed-index/ we ju
 
 Blockchain technology makes cryptocurrency transactions fully traceable on public ledgers, creating powerful tools for law enforcement investigations.
 
-Fox Business • 10h ago
+Fox Business • 11h ago
 
 ---
 
@@ -173,7 +173,7 @@ Reuters • 1d ago
 
 “Bitcoin has fallen below $67,000, recording its third daily bearish candle,” Alex Kuptsikevich, chief market analyst at FxPro Group, said in a note.  “We suspect last week’s $60,000 low, created on massive volumes, is a capitulation type low, a clear catalyst for a sustained rebound remains elusive,” said Tony Sycamore, an analyst, IG Australia.  Rate cuts have been historically viewed as positive catalyst for Bitcoin since they generally increase demand for higher returning riskier assets.
 
-Yahoo Finance • 22h ago
+Yahoo Finance • 23h ago
 
 ---
 
@@ -181,7 +181,7 @@ Yahoo Finance • 22h ago
 
 Bitcoin has a history of falling about 75% during each four-year cycle, suggesting the token is on track to fall even further in the near future.
 
-CNBC • 6h ago
+CNBC • 7h ago
 
 ---
 
@@ -189,7 +189,7 @@ CNBC • 6h ago
 
 Bitcoin hovered near $65,000 on Thursday as investor disappointment grew over its failure to track gold's climb this year.
 
-Yahoo Finance • 2h ago
+Yahoo Finance • 3h ago
 
 ---
 
@@ -197,7 +197,7 @@ Yahoo Finance • 2h ago
 
 During the digital assets crash of 2022, lenders made similar protective moves.
 
-Fortune • 14m ago
+Fortune • 1h ago
 
 ---
 
@@ -205,19 +205,19 @@ Fortune • 14m ago
 
 The corporate adoption of bitcoin was dominated by a single player last month — Strategy.
 
-Bitcoin Magazine • 1h ago
+Bitcoin Magazine • 2h ago
 
 ---
 
 **[Bitcoin, XRP, Ether Are Rising. Cryptos Are Shrugging Off Strong Jobs Data.](https://www.barrons.com/articles/bitcoin-ether-xrp-cryptos-jobs-data-2e376c76?gaa_at=eafs&gaa_n=AWEtsqcQL4Mt7m9oTys_j8NACsZ3hlg33PTMy9QZnVzh6CIy-74QVlPBTIeu&gaa_ts=698e3d45&gaa_sig=sJA8LoxIk5PxHXFw_6jHEB5PNKuZVcl7XpSX5C0NQzFx-VyfNWqpQsRPnimgZRtAp_psiOnYpwys7c3VLq2ddQ%3D%3D)**
 
-Barron's • 8h ago
+Barron's • 9h ago
 
 ---
 
 **[Bitcoin, Big Tech and the AI Trade Rollercoaster](https://www.bloomberg.com/news/articles/2026-02-12/why-bitcoin-and-tech-stocks-are-under-pressure-australia-podcast)**
 
-Bloomberg.com • 17h ago
+Bloomberg.com • 18h ago
 
 ---
 
@@ -315,7 +315,7 @@ Make Free Bitcoin & Crypto Predictions on *ClashPicks* ▻ https://www.clashpick
 
 📺 CryptosRUs
 
-👁️ 19K • 👍 1K • 💬 259 • ⏱️ 51:44 • 4h ago
+👁️ 19K • 👍 1K • 💬 259 • ⏱️ 51:44 • 5h ago
 
 ---
 
@@ -325,7 +325,7 @@ Let's talk about a few indicators that give some suggestions on how low the pric
 
 📺 Benjamin Cowen
 
-👁️ 112K • 👍 8K • 💬 574 • ⏱️ 23:30 • 16h ago
+👁️ 112K • 👍 8K • 💬 574 • ⏱️ 23:30 • 17h ago
 
 ---
 
@@ -335,7 +335,7 @@ Bitcoin #Crypto #Finance Stay ahead of the market — FREE Join the DataDash Pro
 
 📺 DataDash
 
-👁️ 3K • 👍 240 • 💬 7 • ⏱️ 15:09 • 4h ago
+👁️ 3K • 👍 240 • 💬 7 • ⏱️ 15:09 • 5h ago
 
 ---
 
@@ -365,7 +365,7 @@ Samson Mow just dropped a BOMBSHELL about what's really happening to Bitcoin. Th
 
 📺 Money Talks
 
-👁️ 188 • 👍 9 • 💬 165 • ⏱️ 10:33 • 2h ago
+👁️ 188 • 👍 9 • 💬 165 • ⏱️ 10:33 • 3h ago
 
 ---
 
@@ -385,7 +385,7 @@ BYBIT: http://themoon.co/Bybit 10% DISCOUNT & $30000 BONUS Phemex: https://themo
 
 📺 The Moon Show
 
-👁️ 11K • 👍 602 • 💬 131 • ⏱️ 6:39 • 10h ago
+👁️ 11K • 👍 602 • 💬 131 • ⏱️ 6:39 • 11h ago
 
 ---
 
@@ -405,7 +405,7 @@ BlackRock + Joe Rogan + Ethereum.. Biggest Crypto News Happening Now!! Become a 
 
 📺 Altcoin Daily
 
-👁️ 51K • 👍 3K • 💬 745 • ⏱️ 9:41 • 20h ago
+👁️ 51K • 👍 3K • 💬 745 • ⏱️ 9:41 • 21h ago
 
 ---
 
