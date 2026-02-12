@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-02-12T14:32:03.607083+00:00'
+updated: '2026-02-12T15:54:53.529595+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
 - social
-- news
 - videos
+- news
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** February 12, 2026 at 14:32 UTC  
+**Last Updated:** February 12, 2026 at 15:54 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -36,7 +36,7 @@ Robotics research and industry news
 
 I built this last year. Made those suction cups from scratch, it has camera, TOF and force/touch sensors. Does anyone see a useful use case for this robot? I’m of out of ideas! :)
 
-14h ago
+16h ago
 
 ---
 
@@ -44,7 +44,7 @@ I built this last year. Made those suction cups from scratch, it has camera, TOF
 
 We're sharing how we bridged the Sim-to-Real gap by simulating the embedded system, not just the physics. We kept running into the same problem with Asimov Legs. Policies that worked perfectly in sim failed on hardware. Not because physics was off, but because of CAN packet delays, thread timing, and IMU drift. So we stopped simulating just the robot body and started simulating the entire embedded environment. Our production firmware (C/C++) runs unmodified inside the sim. It doesn't know it's in a simulation. The setup: MuJoCo Physics -> Raw IMU Data -> I2C Emulator -> Firmware Sensor Fusion (C) -> Control Loop -> CANBus Emulator -> Motor Emulator -> back to MuJoCo Raw accel/gyro data streams over an emulated I2C bus (register-level lsm6dsox behavior), firmware runs xioTechnologies/Fusion library in C for gravity estimation, and torque commands go through an emulated CANbus. The key part, Motor Emulator injects random jitter (0.4ms–2ms uniform) between command and response. Our motor datasheet claims 0.4ms response time. Reality is different: Firmware -> CMD Torque Request (t=0) -> CANbus Emulator -> [INJECTED JITTER 0.4-2.0ms] -> MuJoCo -> New State -> Firmware If the firmware isn't ready when the response comes back, the control loop breaks. Same as real life. This caught race conditions in threading, CAN parsing errors under load, policy jitter intolerance, and sensor fusion drift from timing mismatches. All stuff we used to only find on real hardware. Result: zero-shot sim2real locomotion on our 12-DOF biped from a single policy Forward/backward walking (0.6m/s), lateral movement, and push recovery Previously we tried this with a Unitree G1 and couldn't get there. Closed firmware hides the failure modes. Sim2real is fundamentally an observability problem. Full writeup with codes & analysis: https://news.asimov.inc/p/noise-is-all-you-need
 
-9h ago
+10h ago
 
 ---
 
@@ -52,7 +52,7 @@ We're sharing how we bridged the Sim-to-Real gap by simulating the embedded syst
 
 Boston Dynamics CEO Robert Playter told staff on Tuesday that he'll be stepping down from the company. He first joined Boston Dynamics in 1994.
 
-🔗 [Business Insider](https://www.businessinsider.com/boston-dynamics-ceo-robert-playter-steps-down-memo-2026-2) • 20h ago
+🔗 [Business Insider](https://www.businessinsider.com/boston-dynamics-ceo-robert-playter-steps-down-memo-2026-2) • 22h ago
 
 ---
 
@@ -60,7 +60,15 @@ Boston Dynamics CEO Robert Playter told staff on Tuesday that he'll be stepping 
 
 Been working on my DIY drone for the past few days. Facing a weird issue, motors stop increasing speed after ~30–35% throttle, and the drone needs almost 50% throttle just to slightly lift. During ESC calibration, all motors run perfectly at full throttle. Seems like a code/control logic issue. Been stuck on this for days, any suggestions would help.
 
-7h ago
+8h ago
+
+---
+
+**[Low-code AI changing how industrial robots get deployed](https://www.reddit.com/r/robotics/comments/1r2vb0h/lowcode_ai_changing_how_industrial_robots_get/)**
+
+This article argues that robot deployment is starting to shift away from traditional application-specific coding toward AI-powered low-code and no-code platforms. Instead of writing custom logic for every product change, teams are using visual interfaces, task demonstration, and AI reasoning to configure workflows. In inspection and assembly, systems can adapt to variation and real-time inputs without being explicitly programmed for every scenario.
+
+🔗 [Automate](https://www.automate.org/ai/industry-insights/ai-low-code-and-no-code-solutions-in-robotics) • 1h ago
 
 ---
 
@@ -68,7 +76,7 @@ Been working on my DIY drone for the past few days. Facing a weird issue, motors
 
 MOHAWK Runtime & Reference Node Agent A tiny Federated Learning (FL) pipeline built to prove the security model for decentralized spatial intelligence. This repo serves as the secure execution skeleton (Go + Wasmtime + TPM) for the broader Sovereign Map ecosystem. 🧩 Ecosystem Integration This prototype is designed to be integrated with: Sovereign Map Federated Learning: Real FL logic, models, and optimizers. Sovereign-Map-V2: Orchestration and business logic. Autonomous-Mapping: Mapping agents and task management.
 
-🔗 [GitHub](https://github.com/rwilliamspbg-ops/Sovereign-Mohawk-Proto) • 28m ago
+🔗 [GitHub](https://github.com/rwilliamspbg-ops/Sovereign-Mohawk-Proto) • 1h ago
 
 ---
 
@@ -76,15 +84,7 @@ MOHAWK Runtime & Reference Node Agent A tiny Federated Learning (FL) pipeline bu
 
 Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.
 
-🔗 [youtube.com](https://youtube.com/shorts/oKXw1YJcoXU?si=eBA6b4QUD-VM8VIq) • 1h ago
-
----
-
-**[Humanoid robot performing a Chinese sword dance alongside a human](https://www.reddit.com/r/robotics/comments/1r2lyzl/humanoid_robot_performing_a_chinese_sword_dance/)**
-
-Saw this humanoid doing a Chinese sword dance next to a human performer. The movement looks fairly stable. Lately there have been a lot of humanoid demos released, like boxing, kung fu, dancing, etc — and most of them look impressive on video. But it’s getting harder to tell what these clips actually say about real control versus well-tuned scripts.
-
-🔗 [youtube.com](https://youtube.com/shorts/020ReZvanDY?feature=share) • 8h ago
+🔗 [youtube.com](https://youtube.com/shorts/oKXw1YJcoXU?si=eBA6b4QUD-VM8VIq) • 2h ago
 
 ---
 
@@ -92,7 +92,15 @@ Saw this humanoid doing a Chinese sword dance next to a human performer. The mov
 
 Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.
 
-🔗 [youtube.com](https://www.youtube.com/shorts/rWqI9G9763o) • 12h ago
+🔗 [youtube.com](https://www.youtube.com/shorts/rWqI9G9763o) • 13h ago
+
+---
+
+**[Humanoid robot performing a Chinese sword dance alongside a human](https://www.reddit.com/r/robotics/comments/1r2lyzl/humanoid_robot_performing_a_chinese_sword_dance/)**
+
+Saw this humanoid doing a Chinese sword dance next to a human performer. The movement looks fairly stable. Lately there have been a lot of humanoid demos released, like boxing, kung fu, dancing, etc — and most of them look impressive on video. But it’s getting harder to tell what these clips actually say about real control versus well-tuned scripts.
+
+🔗 [youtube.com](https://youtube.com/shorts/020ReZvanDY?feature=share) • 9h ago
 
 ---
 
@@ -100,15 +108,7 @@ Enjoy the videos and music you love, upload original content, and share it all w
 
 Is buying a humanoid robot a wise investment or expensive toy I'll regret purchasing soon after? The technology fascinates me and prices have dropped significantly from where they were years ago. My tech collection includes various gadgets but a robot would be the centerpiece that elevates everything dramatically. What would I actually use it for beyond the initial novelty that wears off after a few weeks? The programming aspects interest me and could teach valuable skills for my career in technology. But am I justifying an expensive purchase with educational excuses when really I just want a cool toy? My practical side says this money should go toward retirement savings or home improvements instead. My adventurous side says life is short and experiencing cutting edge technology creates memories worth more than money. The household assistance features seem limited currently so it wouldn't replace any actual daily tasks or chores. Voice interaction could be entertaining but my phone already does that without costing thousands of extra dollars. My kids would absolutely love it and it might inspire interest in robotics and programming as careers. Is that enough justification or am I rationalizing a selfish purchase by claiming it's educational for them? Reviews are mixed with some people thrilled and others disappointed by limitations of current technology. I found models on Alibaba at various price points but I'm struggling to justify this purchase practically.
 
-12h ago
-
----
-
-**[Advice on Designing This Type of Track System](https://www.reddit.com/r/robotics/comments/1r24nqf/advice_on_designing_this_type_of_track_system/)**
-
-I’m interested in designing a robot with wheels and tracks similar to this style, but I don’t yet have much experience developing this type of system from scratch. I have some knowledge of AutoCAD and recently started using Fusion 360 with the goal of learning more about project development focused on robotics. I’m able to interpret technical drawings in multiple views and model them in 3D, as well as replicate existing models. However, my experience is limited to that. I have never designed a complete system entirely from scratch, especially something like an articulated track system that works together with drive wheels. I would appreciate guidance or advice on how to properly start and structure this kind of project.
-
-20h ago
+14h ago
 
 ---
 
@@ -120,23 +120,7 @@ I’m interested in designing a robot with wheels and tracks similar to this sty
 
 Upside Robotics builds autonomous solar-powered robots that can help farmers reduce their fertilizer use by 70%.
 
-TechCrunch • 22h ago
-
----
-
-**[Disturbing video shows humanoid robots preparing for border patrol duties in China](https://www.earth.com/news/video-shows-humanoid-robots-walker-s2-preparing-for-border-patrol-in-china/)**
-
-Walker S2 is an adult-sized humanoid robot with legs, a torso, and arms. China is sending these robots to patrol their border with Vietnam.
-
-Earth.com • 15h ago
-
----
-
-**[Chinese firm unveils ‘world’s first’ humanoid robot built for warehouse operations](https://interestingengineering.com/ai-robotics/geek-humanoid-robot-warehouse-operations)**
-
-Chinese player Geek+ unveils Gino 1, a general-purpose humanoid robot built to handle complex warehouse logistics tasks
-
-Interesting Engineering • 1d ago
+TechCrunch • 23h ago
 
 ---
 
@@ -148,21 +132,19 @@ Fox News • 1d ago
 
 ---
 
-**[Not sci-fi. Not a movie set. 🤖✨ This is India’s largest robotics facility, and it’s very real 👀 A robo-dog built for industry. A humanoid designed to work alongside humans. And one big question: How close are we to the age of robots? 🤖 Shereen Bhan steps inside](https://www.linkedin.com/posts/cnbc-tv18_youngturksreloaded-robotics-ai-activity-7427668611139256320-04pQ)**
+**[China starts 'world’s first' robot combat league with $1.44M prize](https://interestingengineering.com/ai-robotics/china-worlds-first-humanoid-robot-combat-league)**
 
-Not sci-fi. Not a movie set. 🤖✨
-This is India’s largest robotics facility, and it’s very real 👀
-A robo-dog built for industry.
-A humanoid designed to work alongside humans.
-And one big question: How close are we to the age of robots? 🤖
- 
-Shereen Bhan steps inside Addverb with co-founder Sangeet Kumar to see how Indian engineers are building machines that move, think, and transform the future of work.
- 
-🎥 Episode coming soon on #YoungTurksReloaded
- 
-#Robotics #AI #PhysicalAI #HumanoidRobots #IndustrialAutomation #CNBCTV18Digital
+The world's first-ever free robot combat league commenced in China's Shenzhen province, showcasing the country's tech advancements.
 
-LinkedIn • 3h ago
+Interesting Engineering • 2d ago
+
+---
+
+**[Disturbing video shows humanoid robots preparing for border patrol duties in China](https://www.earth.com/news/video-shows-humanoid-robots-walker-s2-preparing-for-border-patrol-in-china/)**
+
+Walker S2 is an adult-sized humanoid robot with legs, a torso, and arms. China is sending these robots to patrol their border with Vietnam.
+
+Earth.com • 16h ago
 
 ---
 
@@ -170,7 +152,7 @@ LinkedIn • 3h ago
 
 The autonomous construction tech provider now boasts total funding of over $350 million and a valuation of $1.75 billion.
 
-Construction Dive • 20h ago
+Construction Dive • 21h ago
 
 ---
 
@@ -184,13 +166,13 @@ CNBC • 2d ago
 
 **[Alibaba Pushes Into Robotics AI With Open-Source ‘RynnBrain’](https://www.bloomberg.com/news/articles/2026-02-10/alibaba-pushes-into-robotics-ai-with-open-source-rynnbrain)**
 
-Bloomberg.com • 2d ago
+Bloomberg • 2d ago
 
 ---
 
 **[Alibaba Launches RynnBrain AI Model for Robots](https://www.eweek.com/news/alibaba-launches-rynnbrain-ai-model-for-robots/)**
 
-eWeek • 17h ago
+eWeek • 19h ago
 
 ---
 
@@ -199,6 +181,14 @@ eWeek • 17h ago
 &nbsp;
 
 Globes - Israel Business News • 1d ago
+
+---
+
+**[Maui students vie for world robotics championship slots](https://mauinow.com/2026/02/11/maui-students-vie-for-world-robotics-championship-slots/)**
+
+Maui County robotics teams will battle rivals statewide this month for 14 coveted spots at the 2026 VEX Robotics World Championships. The Hawaiʻi VEX Regional Championships will draw 114 teams representing public and private schools, as well as club and home organizations from Maui County, Oʻahu and Hawaiʻi Island. The events are free to the [&hellip;]
+
+Maui Now • 23h ago
 
 ---
 
@@ -212,17 +202,7 @@ A massive robotics shift is unfolding right in front of us. Boston Dynamics has 
 
 📺 AI Revolution
 
-👁️ 62K • 👍 1K • 💬 125 • ⏱️ 11:59 • 1d ago
-
----
-
-**[Boston Dynamics Tests the Limits of Atlas Robot&#39;s Full-Body Control and Mobility](https://www.youtube.com/watch?v=h-pNWy7v_qc)**
-
-Boston Dynamics and the RAI Institute release a video demonstrating the All-Electric Atlas Robot's evolution away from a scripted ...
-
-📺 CNET
-
-👁️ 23K • 👍 369 • 💬 28 • ⏱️ 1:25 • 2d ago
+👁️ 65K • 👍 2K • 💬 134 • ⏱️ 11:59 • 1d ago
 
 ---
 
@@ -232,17 +212,17 @@ War Robots Gameplay, trying the UE VORTEX NUO but realizing that the robot is un
 
 📺 Manni-Gaming
 
-👁️ 8K • 👍 660 • 💬 197 • ⏱️ 10:29 • 10h ago
+👁️ 10K • 👍 796 • 💬 230 • ⏱️ 10:29 • 11h ago
 
 ---
 
-**[Chinese robotics company’s world-first humanoid machine gala reveals high-tech surprises](https://www.youtube.com/watch?v=lW8_aHE68BE)**
+**[Boston Dynamics Tests the Limits of Atlas Robot&#39;s Full-Body Control and Mobility](https://www.youtube.com/watch?v=h-pNWy7v_qc)**
 
-Chinese robotics company AGIBOT redefined the intersection of technology and culture by hosting a historic 60-minute gala ...
+Boston Dynamics and the RAI Institute release a video demonstrating the All-Electric Atlas Robot's evolution away from a scripted ...
 
-📺 ABS-CBN News
+📺 CNET
 
-👁️ 3K • 👍 41 • 💬 26 • ⏱️ 3:09 • 6h ago
+👁️ 23K • 👍 372 • 💬 28 • ⏱️ 1:25 • 2d ago
 
 ---
 
@@ -250,27 +230,7 @@ Chinese robotics company AGIBOT redefined the intersection of technology and cul
 
 📺 Tesla Owners Silicon Valley
 
-👁️ 401K • 👍 5K • 💬 278 • ⏱️ 0:40 • 6d ago
-
----
-
-**[The real test for humanoid robots isn’t performance.](https://www.youtube.com/watch?v=4iU9kfIZnhs)**
-
-Humanoid robots don't fail at tasks. They fail at presence. The hardest part of building humanoid robots isn't hardware.
-
-📺 Slidebean
-
-👁️ 14K • 👍 515 • 💬 27 • ⏱️ 1:21 • 2d ago
-
----
-
-**[Tesla Was Never a Car Company #teslaoptimus  #elonmusk  #teslarobot  #teslabotgen3 #humanoidrobots](https://www.youtube.com/watch?v=slqW7zBA6Oc)**
-
-They laughed when Elon Musk brought a man in a spandex suit on stage. But in 2026, nobody is laughing. Tesla was never a car ...
-
-📺 By 2050
-
-👁️ 1.3M • 👍 21K • 💬 530 • ⏱️ 1:00 • 3d ago
+👁️ 411K • 👍 5K • 💬 287 • ⏱️ 0:40 • 6d ago
 
 ---
 
@@ -284,13 +244,33 @@ Now that the Atlas enterprise platform is getting to work, the research version 
 
 ---
 
+**[Tesla Was Never a Car Company #teslaoptimus  #elonmusk  #teslarobot  #teslabotgen3 #humanoidrobots](https://www.youtube.com/watch?v=slqW7zBA6Oc)**
+
+They laughed when Elon Musk brought a man in a spandex suit on stage. But in 2026, nobody is laughing. Tesla was never a car ...
+
+📺 By 2050
+
+👁️ 1.3M • 👍 22K • 💬 551 • ⏱️ 1:00 • 3d ago
+
+---
+
 **[Chinese Robotic Hand With Human Level Dexterity](https://www.youtube.com/watch?v=ynodBTnsuis)**
 
 Pan Motor's Wuji Hand packs twenty fully actuated joints into a sub six hundred gram robotic hand, delivering fine motor control, ...
 
 📺 Deepen
 
-👁️ 30K • 👍 480 • 💬 12 • ⏱️ 0:19 • 4d ago
+👁️ 30K • 👍 479 • 💬 12 • ⏱️ 0:19 • 4d ago
+
+---
+
+**[The real test for humanoid robots isn’t performance.](https://www.youtube.com/watch?v=4iU9kfIZnhs)**
+
+Humanoid robots don't fail at tasks. They fail at presence. The hardest part of building humanoid robots isn't hardware.
+
+📺 Slidebean
+
+👁️ 14K • 👍 518 • 💬 27 • ⏱️ 1:21 • 2d ago
 
 ---
 
@@ -300,7 +280,15 @@ A bold prediction like this instantly sparks curiosity and debate across the wor
 
 📺 Billionaire Shots
 
-👁️ 14K • 👍 833 • 💬 105 • ⏱️ 0:36 • 2d ago
+👁️ 14K • 👍 837 • 💬 105 • ⏱️ 0:36 • 2d ago
+
+---
+
+**[The world of robotics is advancing](https://www.youtube.com/watch?v=O-IPeboeXGI)**
+
+📺 Fredo on TV
+
+👁️ 221K • 👍 21K • 💬 574 • ⏱️ 0:34 • 4d ago
 
 ---
 
