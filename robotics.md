@@ -3,13 +3,13 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-02-12T19:33:13.118858+00:00'
+updated: '2026-02-12T20:36:49.065652+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- news
 - videos
+- news
 - social
 ---
 
@@ -17,7 +17,7 @@ data_types:
 
 Robotics research and industry news
 
-**Last Updated:** February 12, 2026 at 19:33 UTC  
+**Last Updated:** February 12, 2026 at 20:36 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -36,7 +36,7 @@ Robotics research and industry news
 
 I built this last year. Made those suction cups from scratch, it has camera, TOF and force/touch sensors. Does anyone see a useful use case for this robot? I’m of out of ideas! :)
 
-19h ago
+20h ago
 
 ---
 
@@ -44,7 +44,7 @@ I built this last year. Made those suction cups from scratch, it has camera, TOF
 
 We're sharing how we bridged the Sim-to-Real gap by simulating the embedded system, not just the physics. We kept running into the same problem with Asimov Legs. Policies that worked perfectly in sim failed on hardware. Not because physics was off, but because of CAN packet delays, thread timing, and IMU drift. So we stopped simulating just the robot body and started simulating the entire embedded environment. Our production firmware (C/C++) runs unmodified inside the sim. It doesn't know it's in a simulation. The setup: MuJoCo Physics -> Raw IMU Data -> I2C Emulator -> Firmware Sensor Fusion (C) -> Control Loop -> CANBus Emulator -> Motor Emulator -> back to MuJoCo Raw accel/gyro data streams over an emulated I2C bus (register-level lsm6dsox behavior), firmware runs xioTechnologies/Fusion library in C for gravity estimation, and torque commands go through an emulated CANbus. The key part, Motor Emulator injects random jitter (0.4ms–2ms uniform) between command and response. Our motor datasheet claims 0.4ms response time. Reality is different: Firmware -> CMD Torque Request (t=0) -> CANbus Emulator -> [INJECTED JITTER 0.4-2.0ms] -> MuJoCo -> New State -> Firmware If the firmware isn't ready when the response comes back, the control loop breaks. Same as real life. This caught race conditions in threading, CAN parsing errors under load, policy jitter intolerance, and sensor fusion drift from timing mismatches. All stuff we used to only find on real hardware. Result: zero-shot sim2real locomotion on our 12-DOF biped from a single policy Forward/backward walking (0.6m/s), lateral movement, and push recovery Previously we tried this with a Unitree G1 and couldn't get there. Closed firmware hides the failure modes. Sim2real is fundamentally an observability problem. Full writeup with codes & analysis: https://news.asimov.inc/p/noise-is-all-you-need
 
-14h ago
+15h ago
 
 ---
 
@@ -56,11 +56,19 @@ Boston Dynamics CEO Robert Playter told staff on Tuesday that he'll be stepping 
 
 ---
 
+**[If scaling laws are the key and all we need is good data, what’s there to work on?](https://www.reddit.com/r/robotics/comments/1r2zkhf/if_scaling_laws_are_the_key_and_all_we_need_is/)**
+
+As someone starting research in robotics, this has been on my mind for a while. I see a new VLA every week claiming it outperforms XYZ with better quality and more data. If that’s all it takes, what problems are actually still open? If everything can be countered with “just get more data,” what is left to research?
+
+3h ago
+
+---
+
 **[Motors Not Spinning Beyond 35% Throttle – DIY Drone Issue (Arduino + MPU6050)](https://www.reddit.com/r/robotics/comments/1r2n3sg/motors_not_spinning_beyond_35_throttle_diy_drone/)**
 
 Been working on my DIY drone for the past few days. Facing a weird issue, motors stop increasing speed after ~30–35% throttle, and the drone needs almost 50% throttle just to slightly lift. During ESC calibration, all motors run perfectly at full throttle. Seems like a code/control logic issue. Been stuck on this for days, any suggestions would help.
 
-12h ago
+13h ago
 
 ---
 
@@ -68,15 +76,7 @@ Been working on my DIY drone for the past few days. Facing a weird issue, motors
 
 This article argues that robot deployment is starting to shift away from traditional application-specific coding toward AI-powered low-code and no-code platforms. Instead of writing custom logic for every product change, teams are using visual interfaces, task demonstration, and AI reasoning to configure workflows. In inspection and assembly, systems can adapt to variation and real-time inputs without being explicitly programmed for every scenario.
 
-🔗 [Automate](https://www.automate.org/ai/industry-insights/ai-low-code-and-no-code-solutions-in-robotics) • 4h ago
-
----
-
-**[If scaling laws are the key and all we need is good data, what’s there to work on?](https://www.reddit.com/r/robotics/comments/1r2zkhf/if_scaling_laws_are_the_key_and_all_we_need_is/)**
-
-As someone starting research in robotics, this has been on my mind for a while. I see a new VLA every week claiming it outperforms XYZ with better quality and more data. If that’s all it takes, what problems are actually still open? If everything can be countered with “just get more data,” what is left to research?
-
-2h ago
+🔗 [Automate](https://www.automate.org/ai/industry-insights/ai-low-code-and-no-code-solutions-in-robotics) • 5h ago
 
 ---
 
@@ -84,7 +84,7 @@ As someone starting research in robotics, this has been on my mind for a while. 
 
 MOHAWK Runtime & Reference Node Agent A tiny Federated Learning (FL) pipeline built to prove the security model for decentralized spatial intelligence. This repo serves as the secure execution skeleton (Go + Wasmtime + TPM) for the broader Sovereign Map ecosystem. 🧩 Ecosystem Integration This prototype is designed to be integrated with: Sovereign Map Federated Learning: Real FL logic, models, and optimizers. Sovereign-Map-V2: Orchestration and business logic. Autonomous-Mapping: Mapping agents and task management.
 
-🔗 [GitHub](https://github.com/rwilliamspbg-ops/Sovereign-Mohawk-Proto) • 5h ago
+🔗 [GitHub](https://github.com/rwilliamspbg-ops/Sovereign-Mohawk-Proto) • 6h ago
 
 ---
 
@@ -92,7 +92,7 @@ MOHAWK Runtime & Reference Node Agent A tiny Federated Learning (FL) pipeline bu
 
 Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.
 
-🔗 [youtube.com](https://youtube.com/shorts/oKXw1YJcoXU?si=eBA6b4QUD-VM8VIq) • 6h ago
+🔗 [youtube.com](https://youtube.com/shorts/oKXw1YJcoXU?si=eBA6b4QUD-VM8VIq) • 7h ago
 
 ---
 
@@ -100,7 +100,7 @@ Enjoy the videos and music you love, upload original content, and share it all w
 
 Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.
 
-🔗 [youtube.com](https://www.youtube.com/shorts/rWqI9G9763o) • 17h ago
+🔗 [youtube.com](https://www.youtube.com/shorts/rWqI9G9763o) • 18h ago
 
 ---
 
@@ -108,7 +108,7 @@ Enjoy the videos and music you love, upload original content, and share it all w
 
 Saw this humanoid doing a Chinese sword dance next to a human performer. The movement looks fairly stable. Lately there have been a lot of humanoid demos released, like boxing, kung fu, dancing, etc — and most of them look impressive on video. But it’s getting harder to tell what these clips actually say about real control versus well-tuned scripts.
 
-🔗 [youtube.com](https://youtube.com/shorts/020ReZvanDY?feature=share) • 13h ago
+🔗 [youtube.com](https://youtube.com/shorts/020ReZvanDY?feature=share) • 14h ago
 
 ---
 
@@ -136,7 +136,7 @@ Fox News • 2d ago
 
 Larry Savage, a professor of labour studies at Brock University, says governments might need to step in to help protect jobs that are under the threat of automation.
 
-Automotive News • 8h ago
+Automotive News • 9h ago
 
 ---
 
@@ -152,7 +152,7 @@ Interesting Engineering • 2d ago
 
 For the mission, Motiv will be developing the robotic system, while PickNik will provide robot motion planning and arm control software.
 
-The Robot Report • 27m ago
+The Robot Report • 1h ago
 
 ---
 
@@ -180,7 +180,7 @@ Bloomberg.com • 2d ago
 
 **[Alibaba Launches RynnBrain AI Model for Robots](https://www.eweek.com/news/alibaba-launches-rynnbrain-ai-model-for-robots/)**
 
-eWeek • 22h ago
+eWeek • 23h ago
 
 ---
 
@@ -202,7 +202,7 @@ A massive robotics shift is unfolding right in front of us. Boston Dynamics has 
 
 📺 AI Revolution
 
-👁️ 69K • 👍 2K • 💬 138 • ⏱️ 11:59 • 1d ago
+👁️ 71K • 👍 2K • 💬 143 • ⏱️ 11:59 • 1d ago
 
 ---
 
@@ -212,7 +212,7 @@ War Robots Gameplay, trying the UE VORTEX NUO but realizing that the robot is un
 
 📺 Manni-Gaming
 
-👁️ 12K • 👍 884 • 💬 251 • ⏱️ 10:29 • 15h ago
+👁️ 14K • 👍 983 • 💬 270 • ⏱️ 10:29 • 16h ago
 
 ---
 
@@ -222,7 +222,7 @@ Boston Dynamics and the RAI Institute release a video demonstrating the All-Elec
 
 📺 CNET
 
-👁️ 24K • 👍 377 • 💬 28 • ⏱️ 1:25 • 2d ago
+👁️ 24K • 👍 379 • 💬 28 • ⏱️ 1:25 • 2d ago
 
 ---
 
@@ -230,7 +230,17 @@ Boston Dynamics and the RAI Institute release a video demonstrating the All-Elec
 
 📺 Tesla Owners Silicon Valley
 
-👁️ 420K • 👍 5K • 💬 298 • ⏱️ 0:40 • 6d ago
+👁️ 432K • 👍 5K • 💬 301 • ⏱️ 0:40 • 6d ago
+
+---
+
+**[Tesla Was Never a Car Company #teslaoptimus  #elonmusk  #teslarobot  #teslabotgen3 #humanoidrobots](https://www.youtube.com/watch?v=slqW7zBA6Oc)**
+
+They laughed when Elon Musk brought a man in a spandex suit on stage. But in 2026, nobody is laughing. Tesla was never a car ...
+
+📺 By 2050
+
+👁️ 1.4M • 👍 23K • 💬 580 • ⏱️ 1:00 • 4d ago
 
 ---
 
@@ -244,23 +254,29 @@ Now that the Atlas enterprise platform is getting to work, the research version 
 
 ---
 
-**[Tesla Was Never a Car Company #teslaoptimus  #elonmusk  #teslarobot  #teslabotgen3 #humanoidrobots](https://www.youtube.com/watch?v=slqW7zBA6Oc)**
-
-They laughed when Elon Musk brought a man in a spandex suit on stage. But in 2026, nobody is laughing. Tesla was never a car ...
-
-📺 By 2050
-
-👁️ 1.4M • 👍 22K • 💬 573 • ⏱️ 1:00 • 4d ago
-
----
-
 **[The real test for humanoid robots isn’t performance.](https://www.youtube.com/watch?v=4iU9kfIZnhs)**
 
 Humanoid robots don't fail at tasks. They fail at presence. The hardest part of building humanoid robots isn't hardware.
 
 📺 Slidebean
 
-👁️ 14K • 👍 520 • 💬 27 • ⏱️ 1:21 • 2d ago
+👁️ 14K • 👍 521 • 💬 27 • ⏱️ 1:21 • 2d ago
+
+---
+
+**[The world of robotics is advancing](https://www.youtube.com/watch?v=O-IPeboeXGI)**
+
+📺 Fredo on TV
+
+👁️ 221K • 👍 21K • 💬 577 • ⏱️ 0:34 • 5d ago
+
+---
+
+**[Tony Stark would hate this! 😂 #engineering #ironman #revrobotics #3dprinting](https://www.youtube.com/watch?v=13fah4TQXhw)**
+
+📺 Concept Bytes
+
+👁️ 31K • 👍 2K • 💬 34 • ⏱️ 1:24 • 6d ago
 
 ---
 
@@ -270,25 +286,7 @@ A bold prediction like this instantly sparks curiosity and debate across the wor
 
 📺 Billionaire Shots
 
-👁️ 14K • 👍 843 • 💬 105 • ⏱️ 0:36 • 2d ago
-
----
-
-**[The world of robotics is advancing](https://www.youtube.com/watch?v=O-IPeboeXGI)**
-
-📺 Fredo on TV
-
-👁️ 221K • 👍 21K • 💬 577 • ⏱️ 0:34 • 4d ago
-
----
-
-**[Shaolin monks team up with humanoid robots in kung fu class](https://www.youtube.com/watch?v=mt3929HlbIk)**
-
-A new "class" has arrived at the Shaolin Temple in central China's Henan Province, where humanoid robots teamed up with ...
-
-📺 CGTN
-
-👁️ 97K • 👍 647 • 💬 86 • ⏱️ 0:19 • 5d ago
+👁️ 14K • 👍 841 • 💬 105 • ⏱️ 0:36 • 2d ago
 
 ---
 
