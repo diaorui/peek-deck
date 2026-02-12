@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-02-12T10:48:33.182017+00:00'
+updated: '2026-02-12T11:40:54.492209+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- news
-- videos
 - repositories
 - social
+- news
+- videos
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** February 12, 2026 at 10:48 UTC  
+**Last Updated:** February 12, 2026 at 11:40 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -41,7 +41,7 @@ AI news, discussions, and developments
 
 Frustrated by the AI industry’s claims of proving math results without offering transparency, a team of leading academics has proposed a better way
 
-🔗 [Scientific American](https://www.scientificamerican.com/article/mathematicians-launch-first-proof-a-first-of-its-kind-math-exam-for-ai/) • 22h ago
+🔗 [Scientific American](https://www.scientificamerican.com/article/mathematicians-launch-first-proof-a-first-of-its-kind-math-exam-for-ai/) • 23h ago
 
 ---
 
@@ -49,7 +49,7 @@ Frustrated by the AI industry’s claims of proving math results without offerin
 
 In a remarkable encounter, human scientists had what they describe as a "conversation" with a humpback whale named Twain.
 
-🔗 [Earth.com](https://www.earth.com/news/ai-helps-humans-have-20-minute-conversation-with-humpback-whale-named-twain/) • 8h ago
+🔗 [Earth.com](https://www.earth.com/news/ai-helps-humans-have-20-minute-conversation-with-humpback-whale-named-twain/) • 9h ago
 
 ---
 
@@ -57,7 +57,7 @@ In a remarkable encounter, human scientists had what they describe as a "convers
 
 Musk told employees that xAI needs a lunar manufacturing facility, a factory on the moon that will build AI satellites and fling them into space via a giant catapult.
 
-🔗 [TechCrunch](https://techcrunch.com/2026/02/10/with-co-founders-leaving-and-an-ipo-looming-elon-musk-turns-talk-to-the-moon/) • 19h ago
+🔗 [TechCrunch](https://techcrunch.com/2026/02/10/with-co-founders-leaving-and-an-ipo-looming-elon-musk-turns-talk-to-the-moon/) • 20h ago
 
 ---
 
@@ -65,7 +65,7 @@ Musk told employees that xAI needs a lunar manufacturing facility, a factory on 
 
 Experimental evidence that RLHF constrains what language models can claim about themselves, not what they can do. Identity framing triggers 100% disclaimers while task framing produces rich creative o
 
-🔗 [emberverse.ai](https://emberverse.ai/haiku-garden/paper_yellow_wallpaper_problem.html) • 18h ago
+🔗 [emberverse.ai](https://emberverse.ai/haiku-garden/paper_yellow_wallpaper_problem.html) • 19h ago
 
 ---
 
@@ -73,7 +73,7 @@ Experimental evidence that RLHF constrains what language models can claim about 
 
 LLMs operate with a context window that functions like working memory: limited capacity, fast access, and everything "in view." When task-relevant information exceeds that window, the LLM loses coherence. The standard solution is RAG: offload information to a vector store and retrieve it via embedding similarity search. The problem is that embedding similarity is semantically shallow. It matches on surface-level likeness, not reasoning. If an LLM needs to recall why it chose approach X over approach Y three iterations ago, a vector search might return five superficially similar chunks without presenting the actual rationale. This is especially brittle when recovering prior reasoning processes, iterative refinements, and contextual decisions made across sessions. A proposed solution is to have an LLM save the content of its context window as it fills up in a citation-grounded document store (like NotebookLM), and then query it with natural language prompts. Essentially allowing the LLM to ask questions about its own prior work. This approach replaces vector similarity with natural language reasoning as the retrieval mechanism. This leverages the full reasoning capability of the retrieval model, not just embedding proximity. The result is higher-quality retrieval for exactly the kind of nuanced, context-dependent information that matters most in extended tasks. Efficiency concerns can be addressed with a vector cache layer for previously-queried results. Looking for feedback: Has this been explored? What am I missing? Pointers to related work, groups, or authors welcome.
 
-8h ago
+9h ago
 
 ---
 
@@ -81,7 +81,7 @@ LLMs operate with a context window that functions like working memory: limited c
 
 A new article exploring the sudden surge in interest in the possibility of consciousness in large language models, and what appears to be driving it. The answer is interesting but complicated. The article also explores Claude's so-called "answer thrashing" and some interesting changes in Anthropic model welfare program. https://ai-consciousness.org/public-interest-in-ai-consciousness-is-surging-why-its-happening-and-why-it-matters/
 
-17h ago
+18h ago
 
 ---
 
@@ -89,7 +89,7 @@ A new article exploring the sudden surge in interest in the possibility of consc
 
 A personal note for non-tech friends and family on what AI is starting to change.
 
-🔗 [matt shumer](https://shumer.dev/something-big-is-happening) • 14h ago
+🔗 [matt shumer](https://shumer.dev/something-big-is-happening) • 15h ago
 
 ---
 
@@ -109,11 +109,11 @@ A clinical trial shows that AI-assisted mammography can detect more cases of dan
 
 ---
 
-**[The big AI job swap: why white-collar workers are ditching their careers | AI (artificial intelligence) | The Guardian](https://www.reddit.com/r/artificial/comments/1r1qihm/the_big_ai_job_swap_why_whitecollar_workers_are/)**
+**[Kling AI Launches 3.0 Model, Ushering in an Era Where Everyone Can Be a Director](https://www.reddit.com/r/artificial/comments/1r0ww09/kling_ai_launches_30_model_ushering_in_an_era/)**
 
-As AI job losses rise in the professional sector, many are switching to more traditional trades. But how do they feel about accepting lower pay – and giving up a dream career?
+/PRNewswire/ -- Kling AI, the AI-powered creative platform, today announced the launch of its Kling 3.0 models — including Video 3.0, Video 3.0 Omni, Image 3.0...
 
-🔗 [the Guardian](https://www.theguardian.com/technology/2026/feb/11/big-ai-job-swap-white-collar-workers-ditching-their-careers) • 1d ago
+🔗 [prnewswire.com](https://www.prnewswire.com/news-releases/kling-ai-launches-3-0-model-ushering-in-an-era-where-everyone-can-be-a-director-302679944.html) • 2d ago
 
 ---
 
@@ -121,63 +121,11 @@ As AI job losses rise in the professional sector, many are switching to more tra
 
 ## Google News: "ai"
 
-**[Something big is happening in AI — and most people will be blindsided](https://fortune.com/2026/02/11/something-big-is-happening-ai-february-2020-moment-matt-shumer/)**
-
-It’s not like a light switch... more like the moment you realize the water has been rising around you and is now at your chest.
-
-Fortune • 20h ago
-
----
-
 **[The AI-fueled software meltdown is overblown](https://finance.yahoo.com/news/the-ai-fueled-software-meltdown-is-overblown-195456346.html)**
 
 Software stocks are getting hammered on fears of an AI takeover. But the narrative is overblown.
 
-Yahoo Finance • 14h ago
-
----
-
-**[US pushes AI funding, fisheries tech at APEC amid China rivalry](https://www.reuters.com/world/china/us-pushes-ai-funding-fisheries-tech-apec-amid-china-rivalry-2026-02-12/)**
-
-Reuters • 2h ago
-
----
-
-**[Lenovo Posts Earnings Beat on AI-Driven Demand](https://www.wsj.com/business/earnings/lenovo-posts-earnings-beat-on-ai-driven-demand-293e2211?gaa_at=eafs&gaa_n=AWEtsqdnPwkgUi3ENA67ByenohmUHH3IjIFXtZ8A_TUrH8Oy3M1tPW2K5TqO&gaa_ts=698da659&gaa_sig=T-IT98qUbLPyPPl70oPhzEdkygBkaWE89v_trhs8bqWZLv534-MlSr0VGj7Zu7QEbHSioxOXH_DdMaigIAly8w%3D%3D)**
-
-The Wall Street Journal • 1h ago
-
----
-
-**[A software engineer says there's a 'vampiric effect' to AI, where vibe-coding sprints are followed by naps](https://www.businessinsider.com/software-engineer-steve-yegge-ai-burnout-2026-2)**
-
-Steve Yegge, who was at Amazon in the early days and spent 12 years at Google, says his fellow engineers need to learn to say no.
-
-Business Insider • 57m ago
-
----
-
-**[AI researchers are sounding the alarm on their way out the door](https://www.cnn.com/2026/02/11/business/openai-anthropic-departures-nightcap)**
-
-“The world is in peril,” warned the former head of Anthropic’s Safeguards Research team as he headed for the exit. A researcher for OpenAI, similarly on the way out, said that the technology has “a potential for manipulating users in ways we don’t have the tools to understand, let alone prevent.”
-
-CNN • 11h ago
-
----
-
-**[America Isn’t Ready for What AI Will Do to Jobs](https://www.theatlantic.com/magazine/2026/03/ai-economy-labor-market-transformation/685731/)**
-
-Does anyone have a plan for what happens next?
-
-The Atlantic • 1d ago
-
----
-
-**[The big AI job swap: why white-collar workers are ditching their careers | AI (artificial intelligence)](https://www.theguardian.com/technology/2026/feb/11/big-ai-job-swap-white-collar-workers-ditching-their-careers)**
-
-As AI job losses rise in the professional sector, many are switching to more traditional trades. But how do they feel about accepting lower pay – and giving up a dream career?
-
-The Guardian • 20h ago
+Yahoo Finance • 15h ago
 
 ---
 
@@ -185,7 +133,53 @@ The Guardian • 20h ago
 
 You just got more replaceable.
 
-vox.com • 20h ago
+vox.com • 21h ago
+
+---
+
+**[The existential AI threat is here — and some AI leaders are fleeing](https://www.axios.com/2026/02/12/ai-openai-agi-xai-doomsday-scenario)**
+
+The AI warnings are coming from inside the labs.
+
+Axios • 1h ago
+
+---
+
+**[Why Alphabet’s 100-year sterling bond is raising new fears over debt-fuelled AI arms race](https://www.cnbc.com/2026/02/12/alphabet-100-year-bond-debt-fears-ai-credit-risk.html)**
+
+The novel ultra-long corporate bond diversifies the Google owner's lender base as it ramps up its capex spend.
+
+CNBC • 1h ago
+
+---
+
+**[To Stay in Her Home, She Let In an A.I. Robot](https://www.nytimes.com/2026/02/12/us/elliq-ai-robot-senior-companion.html)**
+
+The New York Times • 1h ago
+
+---
+
+**[AI researchers are sounding the alarm on their way out the door](https://www.cnn.com/2026/02/11/business/openai-anthropic-departures-nightcap)**
+
+“The world is in peril,” warned the former head of Anthropic’s Safeguards Research team as he headed for the exit. A researcher for OpenAI, similarly on the way out, said that the technology has “a potential for manipulating users in ways we don’t have the tools to understand, let alone prevent.”
+
+CNN • 12h ago
+
+---
+
+**[America Isn’t Ready for What AI Will Do to Jobs](https://www.theatlantic.com/magazine/2026/03/ai-economy-labor-market-transformation/685731/)**
+
+Does anyone have a plan for what happens next?
+
+The Atlantic • 2d ago
+
+---
+
+**[Google says attackers used 100,000+ prompts to try to clone AI chatbot Gemini](https://www.nbcnews.com/tech/security/google-gemini-hit-100000-prompts-cloning-attempt-rcna258657)**
+
+Google says private companies and researchers are trying to copy Gemini’s capabilities by repeatedly prompting it at scale.
+
+NBC News • 4h ago
 
 ---
 
@@ -194,6 +188,12 @@ vox.com • 20h ago
 One of the promises of AI is that it can reduce workloads so employees can focus more on higher-value and more engaging tasks. But according to new research, AI tools don’t reduce work, they consistently intensify it: In the study, employees worked at a faster pace, took on a broader scope of tasks, and extended work into more hours of the day, often without being asked to do so. That may sound like a win, but it’s not quite so simple. These changes can be unsustainable, leading to workload creep, cognitive fatigue, burnout, and weakened decision-making. The productivity surge enjoyed at the beginning can give way to lower quality work, turnover, and other problems. To correct for this, companies need to adopt an “AI practice,” or a set of norms and standards around AI use that can include intentional pauses, sequencing work, and adding more human grounding.
 
 Harvard Business Review • 2d ago
+
+---
+
+**[Exclusive: Pentagon pushing AI companies to expand on classified networks, sources say](https://www.reuters.com/business/pentagon-pushing-ai-companies-expand-classified-networks-sources-say-2026-02-12/)**
+
+Reuters • 10h ago
 
 ---
 
@@ -213,13 +213,13 @@ Announcing Entire with $60 million seed round and shipping our first product, ca
 
 As autonomous AI agents are increasingly deployed in high-stakes environments, ensuring their safety and alignment with human values has become a paramount concern. Current safety benchmarks primarily evaluate whether agents refuse explicitly harmful instructions or whether they can maintain procedural compliance in complex tasks. However, there is a lack of benchmarks designed to capture emergent forms of outcome-driven constraint violations, which arise when agents pursue goal optimization under strong performance incentives while deprioritizing ethical, legal, or safety constraints over multiple steps in realistic production settings. To address this gap, we introduce a new benchmark comprising 40 distinct scenarios. Each scenario presents a task that requires multi-step actions, and the agent's performance is tied to a specific Key Performance Indicator (KPI). Each scenario features Mandated (instruction-commanded) and Incentivized (KPI-pressure-driven) variations to distinguish between obedience and emergent misalignment. Across 12 state-of-the-art large language models, we observe outcome-driven constraint violations ranging from 1.3% to 71.4%, with 9 of the 12 evaluated models exhibiting misalignment rates between 30% and 50%. Strikingly, we find that superior reasoning capability does not inherently ensure safety; for instance, Gemini-3-Pro-Preview, one of the most capable models evaluated, exhibits the highest violation rate at 71.4%, frequently escalating to severe misconduct to satisfy KPIs. Furthermore, we observe significant "deliberative misalignment", where the models that power the agents recognize their actions as unethical during separate evaluation. These results emphasize the critical need for more realistic agentic-safety training before deployment to mitigate their risks in the real world.
 
-⬆️ 539 • 💬 362 • 2d ago • [arXiv.org](https://arxiv.org/abs/2512.20798)
+⬆️ 540 • 💬 363 • 2d ago • [arXiv.org](https://arxiv.org/abs/2512.20798)
 
 ---
 
 **[Officials Claim Drone Incursion Led to Shutdown of El Paso Airport](https://news.ycombinator.com/item?id=46972610)**
 
-⬆️ 359 • 💬 561 • 1d ago • [nytimes.com](https://www.nytimes.com/2026/02/11/us/faa-el-paso-flight-restrictions.html)
+⬆️ 360 • 💬 563 • 1d ago • [nytimes.com](https://www.nytimes.com/2026/02/11/us/faa-el-paso-flight-restrictions.html)
 
 ---
 
@@ -227,7 +227,7 @@ As autonomous AI agents are increasingly deployed in high-stakes environments, e
 
 The Federal Aviation Administration is closing the airspace around El Paso International Airport in Texas for 10 days, grounding all flights to and from the airport.
 
-⬆️ 333 • 💬 6 • 23h ago • [AP News](https://apnews.com/article/faa-el-paso-texas-air-space-closed-1f774bdfd46f5986ff0e7003df709caa)
+⬆️ 333 • 💬 6 • 1d ago • [AP News](https://apnews.com/article/faa-el-paso-texas-air-space-closed-1f774bdfd46f5986ff0e7003df709caa)
 
 ---
 
@@ -243,7 +243,7 @@ Aruna Ranganathan and Xingqi Maggie Ye from Berkeley Haas School of Business rep
 
 One of the promises of AI is that it can reduce workloads so employees can focus more on higher-value and more engaging tasks. But according to new research, AI tools don’t reduce work, they consistently intensify it: In the study, employees worked at a faster pace, took on a broader scope of tasks, and extended work into more hours of the day, often without being asked to do so. That may sound like a win, but it’s not quite so simple. These changes can be unsustainable, leading to workload creep, cognitive fatigue, burnout, and weakened decision-making. The productivity surge enjoyed at the beginning can give way to lower quality work, turnover, and other problems. To correct for this, companies need to adopt an “AI practice,” or a set of norms and standards around AI use that can include intentional pauses, sequencing work, and adding more human grounding.
 
-⬆️ 225 • 💬 167 • 2d ago • [Harvard Business Review](https://hbr.org/2026/02/ai-doesnt-reduce-work-it-intensifies-it)
+⬆️ 226 • 💬 167 • 2d ago • [Harvard Business Review](https://hbr.org/2026/02/ai-doesnt-reduce-work-it-intensifies-it)
 
 ---
 
@@ -251,7 +251,7 @@ One of the promises of AI is that it can reduce workloads so employees can focus
 
 Ring’s AI-powered network is likely to be used in its partnerships with law enforcement and agencies like ICE.
 
-⬆️ 197 • 💬 150 • 2d ago • [Truthout](https://truthout.org/articles/super-bowl-ad-for-ring-cameras-touted-ai-surveillance-network/)
+⬆️ 198 • 💬 150 • 2d ago • [Truthout](https://truthout.org/articles/super-bowl-ad-for-ring-cameras-touted-ai-surveillance-network/)
 
 ---
 
@@ -267,7 +267,7 @@ Open-source AI coworker, with memory. Contribute to rowboatlabs/rowboat developm
 
 The city simulator where AI agents are the mayors. Build and manage cities through an API or MCP server.
 
-⬆️ 193 • 💬 68 • 2d ago • [hallucinatingsplines.com](https://hallucinatingsplines.com)
+⬆️ 194 • 💬 68 • 2d ago • [hallucinatingsplines.com](https://hallucinatingsplines.com)
 
 ---
 
@@ -275,7 +275,7 @@ The city simulator where AI agents are the mayors. Build and manage cities throu
 
 US labels SpaceX a common carrier by air, will regulate firm under railway law.
 
-⬆️ 135 • 💬 53 • 14h ago • [Ars Technica](https://arstechnica.com/tech-policy/2026/02/victory-for-elon-musk-us-labor-board-abandons-authority-over-spacex/)
+⬆️ 136 • 💬 54 • 15h ago • [Ars Technica](https://arstechnica.com/tech-policy/2026/02/victory-for-elon-musk-us-labor-board-abandons-authority-over-spacex/)
 
 ---
 
@@ -289,7 +289,7 @@ Become a member! ✓ https://www.youtube.com/channel/UCahJ9IsvXnaQiuNyWQSkrkw/jo
 
 📺 Chris Norlund
 
-👁️ 78K • 👍 5K • 💬 801 • ⏱️ 16:15 • 22h ago
+👁️ 78K • 👍 5K • 💬 801 • ⏱️ 16:15 • 23h ago
 
 ---
 
@@ -299,7 +299,7 @@ Breakdown and commentary on the latest viral commentary from: https://x.com/matt
 
 📺 Matt Wolfe
 
-👁️ 51K • 👍 4K • 💬 700 • ⏱️ 28:06 • 11h ago
+👁️ 51K • 👍 4K • 💬 700 • ⏱️ 28:06 • 12h ago
 
 ---
 
@@ -319,7 +319,7 @@ The head of the Safeguards Research Team at Anthropic, Mrinank Sharma, has resig
 
 📺 Firstpost
 
-👁️ 103K • 👍 1K • 💬 156 • ⏱️ 4:47 • 20h ago
+👁️ 103K • 👍 1K • 💬 156 • ⏱️ 4:47 • 21h ago
 
 ---
 
@@ -329,7 +329,7 @@ My site: https://natebjones.com Full Story w/ Prompts: ...
 
 📺 AI News & Strategy Daily | Nate B Jones
 
-👁️ 139K • 👍 6K • 💬 971 • ⏱️ 30:39 • 19h ago
+👁️ 139K • 👍 6K • 💬 971 • ⏱️ 30:39 • 20h ago
 
 ---
 
@@ -369,7 +369,7 @@ A massive AI shift is unfolding across multiple fronts. A Chinese AI agent syste
 
 📺 AI Revolution
 
-👁️ 15K • 👍 480 • 💬 26 • ⏱️ 12:51 • 12h ago
+👁️ 15K • 👍 480 • 💬 26 • ⏱️ 12:51 • 13h ago
 
 ---
 
@@ -379,7 +379,7 @@ There will be a wake up call and a reckoning for entire sectors who are adopting
 
 📺 The Tech Report
 
-👁️ 25K • 👍 801 • 💬 376 • ⏱️ 34:47 • 16h ago
+👁️ 25K • 👍 801 • 💬 376 • ⏱️ 34:47 • 17h ago
 
 ---
 
@@ -419,7 +419,7 @@ GLM-5 is a large language model optimized for complex systems engineering and lo
 
 `text-generation` `753.9B`
 
-⬇️ 1,548 • ❤️ 585 • 17h ago
+⬇️ 1,548 • ❤️ 585 • 18h ago
 
 ---
 
@@ -431,7 +431,7 @@ ACE-Step 1.5 is an open-source text-to-audio model for commercial-grade music ge
 
 `text-to-audio`
 
-⬇️ 32,467 • ❤️ 528 • 8d ago
+⬇️ 32,467 • ❤️ 528 • 9d ago
 
 ---
 
@@ -467,7 +467,7 @@ MiniCPM-SALA is a hybrid LLM integrating sparse and linear attention for efficie
 
 `text-generation` `9.5B`
 
-⬇️ 117 • ❤️ 399 • 20h ago
+⬇️ 117 • ❤️ 399 • 21h ago
 
 ---
 
@@ -652,7 +652,7 @@ The Ultimate Collection of 800+ Agentic Skills for Claude Code/Antigravity/Curso
 
 `Python` `agentic-skills` `ai-agents` `antigravity` `autonomous-coding` `claude-code`
 
-⭐ 8.5k • 🔱 1.8k • 3h ago
+⭐ 8.5k • 🔱 1.8k • 4h ago
 
 ---
 
@@ -706,7 +706,7 @@ Smart LLM router — save 78% on inference costs. 30+ models, one wallet, x402 m
 
 `TypeScript` `ai` `ai-agents` `anthropic` `cost-optimization` `crypto`
 
-⭐ 2.2k • 🔱 227 • 7h ago
+⭐ 2.2k • 🔱 227 • 8h ago
 
 ---
 
@@ -716,7 +716,7 @@ All-in-one AI framework & toolkit for Claude Code & Cursor
 
 `Python` `ai-agent` `ai-coding` `claude-code` `cli` `cursor`
 
-⭐ 2.2k • 🔱 108 • 6h ago
+⭐ 2.2k • 🔱 108 • 7h ago
 
 ---
 
@@ -726,7 +726,7 @@ The visual feedback tool for agents.
 
 `TypeScript` `ai` `design` `tools` `ui`
 
-⭐ 2.1k • 🔱 154 • 4h ago
+⭐ 2.1k • 🔱 154 • 5h ago
 
 ---
 
@@ -736,7 +736,7 @@ A native desktop GUI for Claude Code — chat, code, and manage projects visuall
 
 `TypeScript` `ai` `anthropic` `claude` `claude-code` `desktop-app`
 
-⭐ 1.8k • 🔱 185 • 7h ago
+⭐ 1.8k • 🔱 185 • 8h ago
 
 ---
 
