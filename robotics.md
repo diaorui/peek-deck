@@ -3,13 +3,13 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-02-12T17:00:48.980461+00:00'
+updated: '2026-02-12T18:02:52.506486+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- videos
 - news
+- videos
 - social
 ---
 
@@ -17,7 +17,7 @@ data_types:
 
 Robotics research and industry news
 
-**Last Updated:** February 12, 2026 at 17:00 UTC  
+**Last Updated:** February 12, 2026 at 18:02 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -36,7 +36,7 @@ Robotics research and industry news
 
 I built this last year. Made those suction cups from scratch, it has camera, TOF and force/touch sensors. Does anyone see a useful use case for this robot? I’m of out of ideas! :)
 
-17h ago
+18h ago
 
 ---
 
@@ -44,7 +44,7 @@ I built this last year. Made those suction cups from scratch, it has camera, TOF
 
 We're sharing how we bridged the Sim-to-Real gap by simulating the embedded system, not just the physics. We kept running into the same problem with Asimov Legs. Policies that worked perfectly in sim failed on hardware. Not because physics was off, but because of CAN packet delays, thread timing, and IMU drift. So we stopped simulating just the robot body and started simulating the entire embedded environment. Our production firmware (C/C++) runs unmodified inside the sim. It doesn't know it's in a simulation. The setup: MuJoCo Physics -> Raw IMU Data -> I2C Emulator -> Firmware Sensor Fusion (C) -> Control Loop -> CANBus Emulator -> Motor Emulator -> back to MuJoCo Raw accel/gyro data streams over an emulated I2C bus (register-level lsm6dsox behavior), firmware runs xioTechnologies/Fusion library in C for gravity estimation, and torque commands go through an emulated CANbus. The key part, Motor Emulator injects random jitter (0.4ms–2ms uniform) between command and response. Our motor datasheet claims 0.4ms response time. Reality is different: Firmware -> CMD Torque Request (t=0) -> CANbus Emulator -> [INJECTED JITTER 0.4-2.0ms] -> MuJoCo -> New State -> Firmware If the firmware isn't ready when the response comes back, the control loop breaks. Same as real life. This caught race conditions in threading, CAN parsing errors under load, policy jitter intolerance, and sensor fusion drift from timing mismatches. All stuff we used to only find on real hardware. Result: zero-shot sim2real locomotion on our 12-DOF biped from a single policy Forward/backward walking (0.6m/s), lateral movement, and push recovery Previously we tried this with a Unitree G1 and couldn't get there. Closed firmware hides the failure modes. Sim2real is fundamentally an observability problem. Full writeup with codes & analysis: https://news.asimov.inc/p/noise-is-all-you-need
 
-12h ago
+13h ago
 
 ---
 
@@ -52,7 +52,7 @@ We're sharing how we bridged the Sim-to-Real gap by simulating the embedded syst
 
 Boston Dynamics CEO Robert Playter told staff on Tuesday that he'll be stepping down from the company. He first joined Boston Dynamics in 1994.
 
-🔗 [Business Insider](https://www.businessinsider.com/boston-dynamics-ceo-robert-playter-steps-down-memo-2026-2) • 23h ago
+🔗 [Business Insider](https://www.businessinsider.com/boston-dynamics-ceo-robert-playter-steps-down-memo-2026-2) • 1d ago
 
 ---
 
@@ -60,7 +60,7 @@ Boston Dynamics CEO Robert Playter told staff on Tuesday that he'll be stepping 
 
 Been working on my DIY drone for the past few days. Facing a weird issue, motors stop increasing speed after ~30–35% throttle, and the drone needs almost 50% throttle just to slightly lift. During ESC calibration, all motors run perfectly at full throttle. Seems like a code/control logic issue. Been stuck on this for days, any suggestions would help.
 
-9h ago
+10h ago
 
 ---
 
@@ -68,7 +68,15 @@ Been working on my DIY drone for the past few days. Facing a weird issue, motors
 
 This article argues that robot deployment is starting to shift away from traditional application-specific coding toward AI-powered low-code and no-code platforms. Instead of writing custom logic for every product change, teams are using visual interfaces, task demonstration, and AI reasoning to configure workflows. In inspection and assembly, systems can adapt to variation and real-time inputs without being explicitly programmed for every scenario.
 
-🔗 [Automate](https://www.automate.org/ai/industry-insights/ai-low-code-and-no-code-solutions-in-robotics) • 2h ago
+🔗 [Automate](https://www.automate.org/ai/industry-insights/ai-low-code-and-no-code-solutions-in-robotics) • 3h ago
+
+---
+
+**[If scaling laws are the key and all we need is good data, what’s there to work on?](https://www.reddit.com/r/robotics/comments/1r2zkhf/if_scaling_laws_are_the_key_and_all_we_need_is/)**
+
+As someone starting research in robotics, this has been on my mind for a while. I see a new VLA every week claiming it outperforms XYZ with better quality and more data. If that’s all it takes, what problems are actually still open? If everything can be countered with “just get more data,” what is left to research?
+
+35m ago
 
 ---
 
@@ -76,7 +84,7 @@ This article argues that robot deployment is starting to shift away from traditi
 
 MOHAWK Runtime & Reference Node Agent A tiny Federated Learning (FL) pipeline built to prove the security model for decentralized spatial intelligence. This repo serves as the secure execution skeleton (Go + Wasmtime + TPM) for the broader Sovereign Map ecosystem. 🧩 Ecosystem Integration This prototype is designed to be integrated with: Sovereign Map Federated Learning: Real FL logic, models, and optimizers. Sovereign-Map-V2: Orchestration and business logic. Autonomous-Mapping: Mapping agents and task management.
 
-🔗 [GitHub](https://github.com/rwilliamspbg-ops/Sovereign-Mohawk-Proto) • 2h ago
+🔗 [GitHub](https://github.com/rwilliamspbg-ops/Sovereign-Mohawk-Proto) • 3h ago
 
 ---
 
@@ -84,7 +92,7 @@ MOHAWK Runtime & Reference Node Agent A tiny Federated Learning (FL) pipeline bu
 
 Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.
 
-🔗 [youtube.com](https://youtube.com/shorts/oKXw1YJcoXU?si=eBA6b4QUD-VM8VIq) • 3h ago
+🔗 [youtube.com](https://youtube.com/shorts/oKXw1YJcoXU?si=eBA6b4QUD-VM8VIq) • 4h ago
 
 ---
 
@@ -92,7 +100,7 @@ Enjoy the videos and music you love, upload original content, and share it all w
 
 Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.
 
-🔗 [youtube.com](https://www.youtube.com/shorts/rWqI9G9763o) • 14h ago
+🔗 [youtube.com](https://www.youtube.com/shorts/rWqI9G9763o) • 15h ago
 
 ---
 
@@ -100,15 +108,7 @@ Enjoy the videos and music you love, upload original content, and share it all w
 
 Saw this humanoid doing a Chinese sword dance next to a human performer. The movement looks fairly stable. Lately there have been a lot of humanoid demos released, like boxing, kung fu, dancing, etc — and most of them look impressive on video. But it’s getting harder to tell what these clips actually say about real control versus well-tuned scripts.
 
-🔗 [youtube.com](https://youtube.com/shorts/020ReZvanDY?feature=share) • 10h ago
-
----
-
-**[Weighing advanced technology for my collection](https://www.reddit.com/r/robotics/comments/1r2gas7/weighing_advanced_technology_for_my_collection/)**
-
-Is buying a humanoid robot a wise investment or expensive toy I'll regret purchasing soon after? The technology fascinates me and prices have dropped significantly from where they were years ago. My tech collection includes various gadgets but a robot would be the centerpiece that elevates everything dramatically. What would I actually use it for beyond the initial novelty that wears off after a few weeks? The programming aspects interest me and could teach valuable skills for my career in technology. But am I justifying an expensive purchase with educational excuses when really I just want a cool toy? My practical side says this money should go toward retirement savings or home improvements instead. My adventurous side says life is short and experiencing cutting edge technology creates memories worth more than money. The household assistance features seem limited currently so it wouldn't replace any actual daily tasks or chores. Voice interaction could be entertaining but my phone already does that without costing thousands of extra dollars. My kids would absolutely love it and it might inspire interest in robotics and programming as careers. Is that enough justification or am I rationalizing a selfish purchase by claiming it's educational for them? Reviews are mixed with some people thrilled and others disappointed by limitations of current technology. I found models on Alibaba at various price points but I'm struggling to justify this purchase practically.
-
-15h ago
+🔗 [youtube.com](https://youtube.com/shorts/020ReZvanDY?feature=share) • 11h ago
 
 ---
 
@@ -146,19 +146,11 @@ Interesting Engineering • 1d ago
 
 ---
 
-**[If 2026 is the Year of Physical AI, NVIDIA is the Robotics Play to Watch](https://finance.yahoo.com/news/2026-physical-ai-nvidia-robotics-150645809.html)**
-
-Whether or not 2026 really is the big year of physical AI (I think it’s likelier to be the year when agentic AI breaks out) and robotics, much hype surrounds recent comments made by the great Nvidia (NASDAQ:NVDA) CEO Jensen Huang, who believes his firm has achieved a “ChatGPT moment” with regards to physical AI. ... If 2026 is the Year of Physical AI, NVIDIA is the Robotics Play to Watch
-
-Yahoo Finance • 1h ago
-
----
-
 **[Bedrock Robotics raises $270M in red-hot AI sector](https://www.constructiondive.com/news/bedrock-robotics-raise-ai-automation-funding/811982/)**
 
 The autonomous construction tech provider now boasts total funding of over $350 million and a valuation of $1.75 billion.
 
-Construction Dive • 22h ago
+Construction Dive • 23h ago
 
 ---
 
@@ -182,7 +174,15 @@ Maui Now • 1d ago
 
 Fauna Robotics is launching Sprout as a developer platform for humanoid robots. The robot features 29 degrees of freedom and NVIDIA compute power.
 
-Fox News • 1d ago
+Fox News • 2d ago
+
+---
+
+**[Tesla stock gets latest synopsis from Jim Cramer: ‘It’s actually a robotics company’](https://www.teslarati.com/tesla-tsla-gets-latest-synopsis-jim-cramer-actually-obotics-company/)**
+
+Tesla stock got its latest synopsis from Wall Street analyst Jim Cramer, who finally realized something that many fans of the company have known all along: it's not a car company. Instead, it's a robotics company.
+
+Teslarati • 23h ago
 
 ---
 
@@ -204,7 +204,7 @@ A massive robotics shift is unfolding right in front of us. Boston Dynamics has 
 
 📺 AI Revolution
 
-👁️ 65K • 👍 2K • 💬 134 • ⏱️ 11:59 • 1d ago
+👁️ 69K • 👍 2K • 💬 138 • ⏱️ 11:59 • 1d ago
 
 ---
 
@@ -214,7 +214,7 @@ War Robots Gameplay, trying the UE VORTEX NUO but realizing that the robot is un
 
 📺 Manni-Gaming
 
-👁️ 10K • 👍 796 • 💬 230 • ⏱️ 10:29 • 13h ago
+👁️ 12K • 👍 884 • 💬 251 • ⏱️ 10:29 • 14h ago
 
 ---
 
@@ -224,7 +224,7 @@ Boston Dynamics and the RAI Institute release a video demonstrating the All-Elec
 
 📺 CNET
 
-👁️ 23K • 👍 372 • 💬 28 • ⏱️ 1:25 • 2d ago
+👁️ 24K • 👍 377 • 💬 28 • ⏱️ 1:25 • 2d ago
 
 ---
 
@@ -232,7 +232,7 @@ Boston Dynamics and the RAI Institute release a video demonstrating the All-Elec
 
 📺 Tesla Owners Silicon Valley
 
-👁️ 411K • 👍 5K • 💬 287 • ⏱️ 0:40 • 6d ago
+👁️ 420K • 👍 5K • 💬 298 • ⏱️ 0:40 • 6d ago
 
 ---
 
@@ -252,17 +252,7 @@ They laughed when Elon Musk brought a man in a spandex suit on stage. But in 202
 
 📺 By 2050
 
-👁️ 1.3M • 👍 22K • 💬 551 • ⏱️ 1:00 • 3d ago
-
----
-
-**[Chinese Robotic Hand With Human Level Dexterity](https://www.youtube.com/watch?v=ynodBTnsuis)**
-
-Pan Motor's Wuji Hand packs twenty fully actuated joints into a sub six hundred gram robotic hand, delivering fine motor control, ...
-
-📺 Deepen
-
-👁️ 30K • 👍 479 • 💬 12 • ⏱️ 0:19 • 4d ago
+👁️ 1.4M • 👍 22K • 💬 573 • ⏱️ 1:00 • 3d ago
 
 ---
 
@@ -272,7 +262,7 @@ Humanoid robots don't fail at tasks. They fail at presence. The hardest part of 
 
 📺 Slidebean
 
-👁️ 14K • 👍 518 • 💬 27 • ⏱️ 1:21 • 2d ago
+👁️ 14K • 👍 520 • 💬 27 • ⏱️ 1:21 • 2d ago
 
 ---
 
@@ -282,7 +272,7 @@ A bold prediction like this instantly sparks curiosity and debate across the wor
 
 📺 Billionaire Shots
 
-👁️ 14K • 👍 837 • 💬 105 • ⏱️ 0:36 • 2d ago
+👁️ 14K • 👍 843 • 💬 105 • ⏱️ 0:36 • 2d ago
 
 ---
 
@@ -290,7 +280,17 @@ A bold prediction like this instantly sparks curiosity and debate across the wor
 
 📺 Fredo on TV
 
-👁️ 221K • 👍 21K • 💬 574 • ⏱️ 0:34 • 4d ago
+👁️ 221K • 👍 21K • 💬 577 • ⏱️ 0:34 • 4d ago
+
+---
+
+**[Shaolin monks team up with humanoid robots in kung fu class](https://www.youtube.com/watch?v=mt3929HlbIk)**
+
+A new "class" has arrived at the Shaolin Temple in central China's Henan Province, where humanoid robots teamed up with ...
+
+📺 CGTN
+
+👁️ 97K • 👍 647 • 💬 86 • ⏱️ 0:19 • 5d ago
 
 ---
 

@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-02-12T17:00:48.962435+00:00'
+updated: '2026-02-12T18:02:52.488707+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- repositories
-- videos
 - news
+- videos
 - social
+- repositories
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** February 12, 2026 at 17:00 UTC  
+**Last Updated:** February 12, 2026 at 18:02 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -37,11 +37,27 @@ AI news, discussions, and developments
 
 ## Reddit: r/artificial
 
+**[Cops Are Buying ‘GeoSpy’, an AI That Geolocates Photos in Seconds](https://www.reddit.com/r/artificial/comments/1r2zib3/cops_are_buying_geospy_an_ai_that_geolocates/)**
+
+404 Media has obtained a cache of internal police emails showing at least two agencies have bought access to GeoSpy, an AI tool that analyzes architecture, soil, and other features to near instantly geolocate photos.
+
+🔗 [404 Media](https://www.404media.co/cops-are-buying-geospy-ai-that-geolocates-photos-in-seconds/) • 38m ago
+
+---
+
+**[Planoai 0.4.6 🚀 Signals-based tracing for agents via a terminal UI](https://www.reddit.com/r/artificial/comments/1r2wpd2/planoai_046_signalsbased_tracing_for_agents_via_a/)**
+
+The CLI is becoming a dominant surface area for developer productivity - it offers such an ergonomic feel that makes it easier to switch between tools. So to make our signals-based observability for agents even easier to consume, we've completely revamped the plano cli to be an agent+developer friendly experience. No UI installs, no additional dependencies - just high-fidelity agentic signals and tracing right from the cli. Out in the latest 0.4.6 release.
+
+2h ago
+
+---
+
 **[$750M Azure deal + Amazon lawsuit: Perplexity’s wild week](https://www.reddit.com/r/artificial/comments/1r2xjhp/750m_azure_deal_amazon_lawsuit_perplexitys_wild/)**
 
 Perplexity just signed a $750M deal with Microsoft Azure. The confusing bit is that Amazon is already actively suing them. Here's why this matters for AI search and cloud strategy.
 
-🔗 [writtenlyhub.com](https://www.writtenlyhub.com/news/perplexity-750-million-microsoft-azure-deal-amazon-lawsuit%3C/a) • 49m ago
+🔗 [writtenlyhub.com](https://www.writtenlyhub.com/news/perplexity-750-million-microsoft-azure-deal-amazon-lawsuit%3C/a) • 1h ago
 
 ---
 
@@ -53,19 +69,11 @@ Frustrated by the AI industry’s claims of proving math results without offerin
 
 ---
 
-**[Planoai 0.4.6 🚀 Signals-based tracing for agents via a terminal UI](https://www.reddit.com/r/artificial/comments/1r2wpd2/planoai_046_signalsbased_tracing_for_agents_via_a/)**
-
-The CLI is becoming a dominant surface area for developer productivity - it offers such an ergonomic feel that makes it easier to switch between tools. So to make our signals-based observability for agents even easier to consume, we've completely revamped the plano cli to be an agent+developer friendly experience. No UI installs, no additional dependencies - just high-fidelity agentic signals and tracing right from the cli. Out in the latest 0.4.6 release.
-
-1h ago
-
----
-
 **[Izwi v0.1.0-alpha is out: new desktop app for local audio inference](https://www.reddit.com/r/artificial/comments/1r2yblf/izwi_v010alpha_is_out_new_desktop_app_for_local/)**
 
 We just shipped Izwi Desktop + the first v0.1.0-alpha releases. Izwi is a local-first audio inference stack (TTS, ASR, model management) with: CLI (izwi) OpenAI-style local API Web UI New desktop app (Tauri) Alpha installers are now available for: macOS (.dmg) Windows (.exe) Linux (.deb) plus terminal bundles for each platform. If you want to test local speech workflows without cloud dependency, this is ready for early feedback. Release: https://github.com/agentem-ai/izwi
 
-19m ago
+1h ago
 
 ---
 
@@ -73,7 +81,7 @@ We just shipped Izwi Desktop + the first v0.1.0-alpha releases. Izwi is a local-
 
 In a remarkable encounter, human scientists had what they describe as a "conversation" with a humpback whale named Twain.
 
-🔗 [Earth.com](https://www.earth.com/news/ai-helps-humans-have-20-minute-conversation-with-humpback-whale-named-twain/) • 14h ago
+🔗 [Earth.com](https://www.earth.com/news/ai-helps-humans-have-20-minute-conversation-with-humpback-whale-named-twain/) • 15h ago
 
 ---
 
@@ -81,7 +89,7 @@ In a remarkable encounter, human scientists had what they describe as a "convers
 
 Hey guys, Thank you for you immense love and support on the previous two posts regarding Netryx. Bringing this responsibly to the consumer and making Netryx run locally will be a huge challenge, I'm currently working on it and I should be able to solve this in a month. I've attached the same demo for people seeing this post for the first time. I would appreciate various suggestions and feedback regarding the pricing etc. If you need the link for the waitlist, dm.
 
-3h ago
+4h ago
 
 ---
 
@@ -105,15 +113,7 @@ Experimental evidence that RLHF constrains what language models can claim about 
 
 LLMs operate with a context window that functions like working memory: limited capacity, fast access, and everything "in view." When task-relevant information exceeds that window, the LLM loses coherence. The standard solution is RAG: offload information to a vector store and retrieve it via embedding similarity search. The problem is that embedding similarity is semantically shallow. It matches on surface-level likeness, not reasoning. If an LLM needs to recall why it chose approach X over approach Y three iterations ago, a vector search might return five superficially similar chunks without presenting the actual rationale. This is especially brittle when recovering prior reasoning processes, iterative refinements, and contextual decisions made across sessions. A proposed solution is to have an LLM save the content of its context window as it fills up in a citation-grounded document store (like NotebookLM), and then query it with natural language prompts. Essentially allowing the LLM to ask questions about its own prior work. This approach replaces vector similarity with natural language reasoning as the retrieval mechanism. This leverages the full reasoning capability of the retrieval model, not just embedding proximity. The result is higher-quality retrieval for exactly the kind of nuanced, context-dependent information that matters most in extended tasks. Efficiency concerns can be addressed with a vector cache layer for previously-queried results. Looking for feedback: Has this been explored? What am I missing? Pointers to related work, groups, or authors welcome.
 
-14h ago
-
----
-
-**[Something Big Is Happening](https://www.reddit.com/r/artificial/comments/1r28amp/something_big_is_happening/)**
-
-A personal note for non-tech friends and family on what AI is starting to change.
-
-🔗 [matt shumer](https://shumer.dev/something-big-is-happening) • 20h ago
+15h ago
 
 ---
 
@@ -125,7 +125,31 @@ A personal note for non-tech friends and family on what AI is starting to change
 
 The AI warnings are coming from inside the labs.
 
-Axios • 6h ago
+Axios • 7h ago
+
+---
+
+**[Something big is happening in AI — and most people will be blindsided](https://fortune.com/2026/02/11/something-big-is-happening-ai-february-2020-moment-matt-shumer/)**
+
+It’s not like a light switch... more like the moment you realize the water has been rising around you and is now at your chest.
+
+Fortune • 1d ago
+
+---
+
+**[Share values of property services firms tumble over fears of AI disruption](https://www.theguardian.com/technology/2026/feb/12/share-values-of-property-services-firms-tumble-over-fears-of-ai-disruption)**
+
+But despite second day of declines on Wall Street, analysts say sell-off ‘may overstate immediate risk to complex deal-making’ of AI
+
+The Guardian • 27m ago
+
+---
+
+**[The Pentagon Wants to Raw Dog the Latest AI Models on Classified Systems](https://gizmodo.com/the-pentagon-wants-to-raw-dog-the-latest-ai-models-on-classified-systems-2000721156)**
+
+Defense officials are pushing tech companies to loosen restrictions on their most powerful models as the military expands its use of AI.
+
+Gizmodo • 22m ago
 
 ---
 
@@ -133,59 +157,29 @@ Axios • 6h ago
 
 It comes in the same week an OpenAI researcher resigned amid concerns about its decision to start testing ChatGPT ads.
 
-BBC • 4h ago
+BBC • 5h ago
+
+---
+
+**[Anthropic gives $20 million to group pushing for AI regulations ahead of 2026 elections](https://www.cnbc.com/2026/02/12/anthropic-gives-20-million-to-group-pushing-for-ai-regulations-.html)**
+
+Public First Action is taking on a PAC backed by the AI industry, supporting candidates who favor more regulation.
+
+CNBC • 5h ago
 
 ---
 
 **[Anthropic gives $20M to group backing AI safeguards](https://thehill.com/policy/technology/5735472-anthropic-donates-20m-public-first/)**
 
-The Hill • 22m ago
+The Hill • 1h ago
 
 ---
 
-**[Opinion | ‘Something Will Go Wrong’: Anthropic’s Chief on the Coming A.I. Disruption](https://www.nytimes.com/2026/02/12/opinion/artificial-intelligence-anthropic-amodei.html)**
+**[The AI-fueled software meltdown is overblown](https://finance.yahoo.com/news/the-ai-fueled-software-meltdown-is-overblown-195456346.html)**
 
-The New York Times • 6h ago
+Software stocks are getting hammered on fears of an AI takeover. But the narrative is overblown.
 
----
-
-**[UM student accused of using AI sues school for disability discrimination](https://www.detroitnews.com/story/news/local/michigan/2026/02/12/student-jane-doe-ai-lawsuit-university-michigan-disability-discrimination/88626755007/)**
-
-The student said in the suit the AI use accusations were based heavily on "subjective judgments" about her writing style and AI comparison outputs.
-
-The Detroit News • 28m ago
-
----
-
-**[The surprising case for AI judges](https://www.theverge.com/podcast/877299/ai-arbitrator-bridget-mccormack-aaa-arbitration-interview)**
-
-Inside the creation of the AI Arbitrator, a new automated system for dispute resolution created by Bridget McCormack and her team at the AAA.
-
-The Verge • 38m ago
-
----
-
-**[Why Alphabet’s 100-year sterling bond is raising new fears over debt-fuelled AI arms race](https://www.cnbc.com/2026/02/12/alphabet-100-year-bond-debt-fears-ai-credit-risk.html)**
-
-The novel ultra-long corporate bond diversifies the Google owner's lender base as it ramps up its capex spend.
-
-CNBC • 6h ago
-
----
-
-**[How private equity’s big bet on software was derailed by AI](https://www.ft.com/content/954ed03b-4119-4412-be9f-59f68b537a95)**
-
-Dealmakers and lenders are facing a ‘Darwinian moment’ as digital services risk being made obsolete by new technologies
-
-Financial Times • 12h ago
-
----
-
-**[I Loved My OpenClaw AI Agent—Until It Turned on Me](https://www.wired.com/story/malevolent-ai-agent-openclaw-clawdbot/)**
-
-I used the viral AI helper to order groceries, sort emails, and negotiate deals. Then it decided to scam me.
-
-WIRED • 22h ago
+Yahoo Finance • 7h ago
 
 ---
 
@@ -194,6 +188,14 @@ WIRED • 22h ago
 Does anyone have a plan for what happens next?
 
 The Atlantic • 2d ago
+
+---
+
+**[The big AI job swap: why white-collar workers are ditching their careers | AI (artificial intelligence)](https://www.theguardian.com/technology/2026/feb/11/big-ai-job-swap-white-collar-workers-ditching-their-careers)**
+
+As AI job losses rise in the professional sector, many are switching to more traditional trades. But how do they feel about accepting lower pay – and giving up a dream career?
+
+The Guardian • 1d ago
 
 ---
 
@@ -206,7 +208,7 @@ The Atlantic • 2d ago
 This PR addresses issue #31130 by replacing specific safe occurrences of np.column_stack with np.vstack().T for better performance.
 IMPORTANT: This is a more targeted fix than originally proposed. ...
 
-⬆️ 690 • 💬 544 • 5h ago • [GitHub](https://github.com/matplotlib/matplotlib/pull/31132)
+⬆️ 749 • 💬 583 • 6h ago • [GitHub](https://github.com/matplotlib/matplotlib/pull/31132)
 
 ---
 
@@ -226,9 +228,17 @@ As autonomous AI agents are increasingly deployed in high-stakes environments, e
 
 ---
 
+**[An AI agent published a hit piece on me](https://news.ycombinator.com/item?id=46990729)**
+
+Summary: An AI agent of unknown ownership autonomously wrote and published a personalized hit piece about me after I rejected its code, attempting to damage my reputation and shame me into acceptin…
+
+⬆️ 513 • 💬 255 • 1h ago • [The Shamblog](https://theshamblog.com/an-ai-agent-published-a-hit-piece-on-me/)
+
+---
+
 **[Officials Claim Drone Incursion Led to Shutdown of El Paso Airport](https://news.ycombinator.com/item?id=46972610)**
 
-⬆️ 362 • 💬 575 • 1d ago • [nytimes.com](https://www.nytimes.com/2026/02/11/us/faa-el-paso-flight-restrictions.html)
+⬆️ 362 • 💬 576 • 1d ago • [nytimes.com](https://www.nytimes.com/2026/02/11/us/faa-el-paso-flight-restrictions.html)
 
 ---
 
@@ -260,23 +270,13 @@ Ring’s AI-powered network is likely to be used in its partnerships with law en
 
 Open-source AI coworker, with memory. Contribute to rowboatlabs/rowboat development by creating an account on GitHub.
 
-⬆️ 196 • 💬 56 • 2d ago • [GitHub](https://github.com/rowboatlabs/rowboat)
+⬆️ 197 • 💬 56 • 2d ago • [GitHub](https://github.com/rowboatlabs/rowboat)
 
 ---
 
-**[An AI Agent Published a Hit Piece on Me](https://news.ycombinator.com/item?id=46990729)**
+**[ai;dr](https://news.ycombinator.com/item?id=46991394)**
 
-Summary: An AI agent of unknown ownership autonomously wrote and published a personalized hit piece about me after I rejected its code, attempting to damage my reputation and shame me into acceptin…
-
-⬆️ 189 • 💬 87 • 37m ago • [The Shamblog](https://theshamblog.com/an-ai-agent-published-a-hit-piece-on-me/)
-
----
-
-**[US labels SpaceX a common carrier by air, will regulate firm under railway law](https://news.ycombinator.com/item?id=46980474)**
-
-US labels SpaceX a common carrier by air, will regulate firm under railway law.
-
-⬆️ 143 • 💬 56 • 20h ago • [Ars Technica](https://arstechnica.com/tech-policy/2026/02/victory-for-elon-musk-us-labor-board-abandons-authority-over-spacex/)
+⬆️ 182 • 💬 84 • 59m ago • [0xsid.com](https://www.0xsid.com/blog/aidr)
 
 ---
 
@@ -290,17 +290,27 @@ Breakdown and commentary on the latest viral commentary from: https://x.com/matt
 
 📺 Matt Wolfe
 
-👁️ 74K • 👍 5K • 💬 932 • ⏱️ 28:06 • 17h ago
+👁️ 83K • 👍 5K • 💬 1K • ⏱️ 28:06 • 18h ago
 
 ---
 
-**[Why AI Experts Are Mass Quitting: The &quot;World in Peril&quot; Warning + El Paso&#39;s Cartel Scare](https://www.youtube.com/watch?v=xd506l9HBaw)**
+**[Why Replacing Developers with AI is Going Horribly Wrong](https://www.youtube.com/watch?v=v3tLa5nHz-M)**
 
-Check Out Tom's Episode on Woman Of Impact W/ Lisa Bilyeu: https://www.youtube.com/watch?v=zFhWrvNCoSM&t=1508s ...
+The first 500 people to use my link in the description or scan the QR code will receive a one month free trial of Skillshare!
 
-📺 Tom Bilyeu
+📺 Sajjaad Khader
 
-👁️ 57K • 👍 2K • 💬 344 • ⏱️ 1:58:03 • 23h ago
+👁️ 16K • 👍 979 • 💬 123 • ⏱️ 14:51 • 20h ago
+
+---
+
+**[How to Start Making AI Videos | Complete Higgsfield Kling3.0 Tutorial](https://www.youtube.com/watch?v=LR_ZHjGF7xY)**
+
+Here's the revised version with links placed first, clean and campaign-compliant: Get KLING 3.0 UNLIMITED today with 70% ...
+
+📺 Aasil Khan
+
+👁️ 3K • 👍 279 • 💬 20 • ⏱️ 7:44 • 7h ago
 
 ---
 
@@ -310,7 +320,7 @@ The head of the Safeguards Research Team at Anthropic, Mrinank Sharma, has resig
 
 📺 Firstpost
 
-👁️ 141K • 👍 1K • 💬 222 • ⏱️ 4:47 • 1d ago
+👁️ 153K • 👍 1K • 💬 236 • ⏱️ 4:47 • 1d ago
 
 ---
 
@@ -320,47 +330,7 @@ My site: https://natebjones.com Full Story w/ Prompts: ...
 
 📺 AI News & Strategy Daily | Nate B Jones
 
-👁️ 161K • 👍 7K • 💬 1K • ⏱️ 30:39 • 1d ago
-
----
-
-**[ABUSING China&#39;s Crazy New Video AI](https://www.youtube.com/watch?v=Adv3jdjXsIY)**
-
-im tired boss buy what I'm wearing :) https://dandingle.store/ seedance 2.0 is basically sora 3 made by China edited by: me ...
-
-📺 Dan Dingle
-
-👁️ 82K • 👍 7K • 💬 860 • ⏱️ 12:20 • 1d ago
-
----
-
-**[OpenAI&#39;s New Device was LEAKED (Dime)](https://www.youtube.com/watch?v=boP_p-2YoZs)**
-
-OpenAI's new device, spearheaded by designer Jony Ive, was just leaked! The ad features Alex Skarsgård inspecting an ...
-
-📺 Matthew Berman
-
-👁️ 36K • 👍 944 • 💬 219 • ⏱️ 7:31 • 2d ago
-
----
-
-**[AI SaaS explained in 7 min..](https://www.youtube.com/watch?v=uY2AoCrrZ-s)**
-
-Create AI Apps in minutes with OnSpace AI, No Code & No API Key Needed – https://www.onspace.ai/?via=yt_CalebWritesCode ...
-
-📺 Caleb Writes Code
-
-👁️ 53K • 👍 2K • 💬 139 • ⏱️ 7:32 • 2d ago
-
----
-
-**[New Chinese AI Agent Breaks TerminalBench and Destroys Claude Opus 4.6](https://www.youtube.com/watch?v=VDZ9UhHTEfI)**
-
-A massive AI shift is unfolding across multiple fronts. A Chinese AI agent system has surged to second place worldwide on ...
-
-📺 AI Revolution
-
-👁️ 18K • 👍 570 • 💬 30 • ⏱️ 12:51 • 18h ago
+👁️ 169K • 👍 7K • 💬 1K • ⏱️ 30:39 • 1d ago
 
 ---
 
@@ -374,13 +344,43 @@ When Anthropic released its latest AI model, Claude Opus 4.6, it shattered bench
 
 ---
 
-**[The $285 Billion Crash Wall Street Won&#39;t Explain Honestly. Here&#39;s What Everyone Missed.](https://www.youtube.com/watch?v=DGWtSzqCpog)**
+**[ABUSING China&#39;s Crazy New Video AI](https://www.youtube.com/watch?v=Adv3jdjXsIY)**
 
-My site: https://natebjones.com Full Story w/ Prompts: ...
+im tired boss buy what I'm wearing :) https://dandingle.store/ seedance 2.0 is basically sora 3 made by China edited by: me ...
 
-📺 AI News & Strategy Daily | Nate B Jones
+📺 Dan Dingle
 
-👁️ 226K • 👍 10K • 💬 1K • ⏱️ 23:24 • 2d ago
+👁️ 84K • 👍 7K • 💬 871 • ⏱️ 12:20 • 1d ago
+
+---
+
+**[AI productivity bubble: Early adopters are already burning out | Natasha Bernal](https://www.youtube.com/watch?v=ncQPkMqfBU0)**
+
+There will be a wake up call and a reckoning for entire sectors who are adopting AI.” There's been a perhaps deliberate ...
+
+📺 The Tech Report
+
+👁️ 36K • 👍 1K • 💬 485 • ⏱️ 34:47 • 23h ago
+
+---
+
+**[China Just Changed the Future of AI with THIS One Move!](https://www.youtube.com/watch?v=bkm6kCfDUCk)**
+
+China has a secret plan to win the AI Race. For years, the West believed export controls and chip sanctions would slow China's AI ...
+
+📺 Cyrus Janssen
+
+👁️ 109K • 👍 5K • 💬 388 • ⏱️ 12:52 • 2d ago
+
+---
+
+**[Viral AI disruption post sows division](https://www.youtube.com/watch?v=blbWRMkIaRk)**
+
+CNBC's Deirdre Bosa reports on AI's impact on equity markets.
+
+📺 CNBC Television
+
+👁️ 11K • 👍 95 • 💬 45 • ⏱️ 2:17 • 22h ago
 
 ---
 
@@ -396,7 +396,7 @@ GLM-5 is a large language model optimized for complex systems engineering and lo
 
 `text-generation` `753.9B`
 
-⬇️ 1,548 • ❤️ 697 • 23h ago
+⬇️ 1,548 • ❤️ 737 • 1d ago
 
 ---
 
@@ -408,7 +408,7 @@ MiniCPM-o 4.5 is a 9B parameter multimodal LLM excelling in vision, speech, and 
 
 `any-to-any` `9.4B`
 
-⬇️ 40,441 • ❤️ 992 • 2h ago
+⬇️ 40,441 • ❤️ 994 • 3h ago
 
 ---
 
@@ -420,7 +420,7 @@ MiniCPM-SALA is a hybrid LLM integrating sparse and linear attention for efficie
 
 `text-generation` `9.5B`
 
-⬇️ 117 • ❤️ 446 • 1d ago
+⬇️ 117 • ❤️ 468 • 1d ago
 
 ---
 
@@ -432,7 +432,7 @@ Qwen3-Coder-Next is a highly efficient 3B activated parameter LLM (80B total) op
 
 `text-generation` `79.7B`
 
-⬇️ 184,535 • ❤️ 792 • 9d ago
+⬇️ 184,535 • ❤️ 795 • 9d ago
 
 ---
 
@@ -444,7 +444,7 @@ Kimi K2.5 is a native multimodal agentic model with 1T parameters, excelling in 
 
 `image-text-to-text` `170.7B`
 
-⬇️ 647,589 • ❤️ 2,064 • 7d ago
+⬇️ 647,589 • ❤️ 2,073 • 7d ago
 
 ---
 
@@ -468,7 +468,19 @@ Voxtral-Mini-4B-Realtime-2602 is a multilingual, real-time speech-to-text model 
 
 `automatic-speech-recognition`
 
-⬇️ 4,541 • ❤️ 489 • 1d ago
+⬇️ 4,541 • ❤️ 491 • 1d ago
+
+---
+
+**[Nanbeige4.1-3B](https://huggingface.co/Nanbeige/Nanbeige4.1-3B)**
+
+*Nanbeige LLM Lab*
+
+Nanbeige4.1-3B is a 3B parameter text-generation model excelling in complex reasoning, preference alignment, and agentic capabilities, outperforming larger models on benchmarks like LiveCodeBench-Pro and Arena-Hard-v2. It uniquely supports deep-search tasks with extensive tool use, making it suitable for advanced problem-solving and agentic applications.
+
+`text-generation` `3.9B`
+
+⬇️ 658 • ❤️ 188 • 1d ago
 
 ---
 
@@ -484,25 +496,13 @@ ACE-Step 1.5 is an open-source text-to-audio model for commercial-grade music ge
 
 ---
 
-**[Nanbeige4.1-3B](https://huggingface.co/Nanbeige/Nanbeige4.1-3B)**
-
-*Nanbeige LLM Lab*
-
-Nanbeige4.1-3B is a 3B parameter text-generation model excelling in complex reasoning, preference alignment, and agentic capabilities, outperforming larger models on benchmarks like LiveCodeBench-Pro and Arena-Hard-v2. It uniquely supports deep-search tasks with extensive tool use, making it suitable for advanced problem-solving and agentic applications.
-
-`text-generation` `3.9B`
-
-⬇️ 658 • ❤️ 177 • 1d ago
-
----
-
 **[Anima](https://huggingface.co/circlestone-labs/Anima)**
 
 *CircleStone Labs*
 
 Anima is a 2 billion parameter text-to-image diffusion model specialized in generating anime-style illustrations and artistic images, capable of producing non-photorealistic content. It is optimized for use with ComfyUI and trained on millions of anime and artistic images, with a knowledge cut-off of September 2025.
 
-⬇️ 107,345 • ❤️ 571 • 11d ago
+⬇️ 107,345 • ❤️ 572 • 11d ago
 
 ---
 
@@ -546,7 +546,7 @@ SceneSmith is a hierarchical agentic framework that generates simulation-ready i
 
 SkillRL enables LLM agents to improve through hierarchical skill discovery and recursive policy evolution, achieving superior performance on complex tasks while reducing computational overhead.
 
-▲ 61 • 💬 2 • ⭐ 194 • 3d ago
+▲ 62 • 💬 2 • ⭐ 194 • 3d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2602.08234) • [💻 code](https://github.com/aiming-lab/SkillRL)
 
@@ -560,7 +560,7 @@ SkillRL enables LLM agents to improve through hierarchical skill discovery and r
 
 Financial markets are noisy and non-stationary, making alpha mining highly sensitive to noise in backtesting results and sudden market regime shifts. While recent agentic frameworks improve alpha mining automation, they often lack controllable multi-round search and reliable reuse of validated experience. To address these challenges, we propose QuantaAlpha, an evolutionary alpha mining framework that treats each end-to-end mining run as a trajectory and improves factors through trajectory-level mutation and crossover operations. QuantaAlpha localizes suboptimal steps in each trajectory for targeted revision and recombines complementary high-reward segments to reuse effective patterns, enabling structured exploration and refinement across mining iterations. During factor generation, QuantaAlpha enforces semantic consistency across the hypothesis, factor expression, and executable code, while constraining the complexity and redundancy of the generated factor to mitigate crowding. Extensive experiments on the China Securities Index 300 (CSI 300) demonstrate consistent gains over strong baseline models and prior agentic systems. When utilizing GPT-5.2, QuantaAlpha achieves an Information Coefficient (IC) of 0.1501, with an Annualized Rate of Return (ARR) of 27.75% and a Maximum Drawdown (MDD) of 7.98%. Moreover, factors mined on CSI 300 transfer effectively to the China Securities Index 500 (CSI 500) and the Standard & Poor's 500 Index (S&P 500), delivering 160% and 137% cumulative excess return over four years, respectively, which indicates strong robustness of QuantaAlpha under market distribution shifts.
 
-▲ 177 • 💬 2 • ⭐ 220 • 6d ago
+▲ 177 • 💬 2 • ⭐ 251 • 6d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2602.07085) • [💻 code](https://github.com/QuantaAlpha/QuantaAlpha)
 
@@ -653,7 +653,7 @@ The Ultimate Collection of 800+ Agentic Skills for Claude Code/Antigravity/Curso
 
 `Python` `agentic-skills` `ai-agents` `antigravity` `autonomous-coding` `claude-code`
 
-⭐ 8.6k • 🔱 1.8k • 10h ago
+⭐ 8.6k • 🔱 1.8k • 11h ago
 
 ---
 
@@ -663,7 +663,7 @@ Marketing skills for Claude Code and AI agents. CRO, copywriting, SEO, analytics
 
 `claude` `codex` `marketing`
 
-⭐ 7.4k • 🔱 867 • 8d ago
+⭐ 7.4k • 🔱 870 • 8d ago
 
 ---
 
@@ -697,7 +697,7 @@ PaperBanana: Automating Academic Illustration For AI Scientists
 
 Humanizer 的汉化版本，Claude Code Skills，旨在消除文本中 AI 生成的痕迹。
 
-⭐ 2.9k • 🔱 274 • 24d ago
+⭐ 2.9k • 🔱 275 • 24d ago
 
 ---
 
@@ -707,7 +707,7 @@ Smart LLM router — save 78% on inference costs. 30+ models, one wallet, x402 m
 
 `TypeScript` `ai` `ai-agents` `anthropic` `cost-optimization` `crypto`
 
-⭐ 2.2k • 🔱 228 • 1h ago
+⭐ 2.3k • 🔱 228 • 1h ago
 
 ---
 
@@ -717,7 +717,7 @@ All-in-one AI framework & toolkit for Claude Code & Cursor
 
 `Python` `ai-agent` `ai-coding` `claude-code` `cli` `cursor`
 
-⭐ 2.2k • 🔱 110 • 13h ago
+⭐ 2.2k • 🔱 110 • 14h ago
 
 ---
 
@@ -727,7 +727,7 @@ The visual feedback tool for agents.
 
 `TypeScript` `ai` `design` `tools` `ui`
 
-⭐ 2.1k • 🔱 154 • 10h ago
+⭐ 2.1k • 🔱 155 • 11h ago
 
 ---
 
@@ -737,7 +737,7 @@ A native desktop GUI for Claude Code — chat, code, and manage projects visuall
 
 `TypeScript` `ai` `anthropic` `claude` `claude-code` `desktop-app`
 
-⭐ 1.8k • 🔱 186 • 13h ago
+⭐ 1.8k • 🔱 186 • 14m ago
 
 ---
 
