@@ -3,14 +3,14 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-02-12T11:40:54.492209+00:00'
+updated: '2026-02-12T13:10:59.530625+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
 - repositories
-- social
 - news
+- social
 - videos
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 AI news, discussions, and developments
 
-**Last Updated:** February 12, 2026 at 11:40 UTC  
+**Last Updated:** February 12, 2026 at 13:10 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -37,11 +37,19 @@ AI news, discussions, and developments
 
 ## Reddit: r/artificial
 
+**[Six US states now have bills to pause data center construction. New York just introduced a three-year moratorium.](https://www.reddit.com/r/artificial/comments/1r2rxrn/six_us_states_now_have_bills_to_pause_data_center/)**
+
+Will this be a problem for future ai development?
+
+🔗 [xcancel.com](https://xcancel.com/unusual_whales/status/2021196701240000653?s=20) • 52m ago
+
+---
+
 **[Mathematicians issue a major challenge to AI—show us your work](https://www.reddit.com/r/artificial/comments/1r1w56d/mathematicians_issue_a_major_challenge_to_aishow/)**
 
 Frustrated by the AI industry’s claims of proving math results without offering transparency, a team of leading academics has proposed a better way
 
-🔗 [Scientific American](https://www.scientificamerican.com/article/mathematicians-launch-first-proof-a-first-of-its-kind-math-exam-for-ai/) • 23h ago
+🔗 [Scientific American](https://www.scientificamerican.com/article/mathematicians-launch-first-proof-a-first-of-its-kind-math-exam-for-ai/) • 1d ago
 
 ---
 
@@ -49,7 +57,15 @@ Frustrated by the AI industry’s claims of proving math results without offerin
 
 In a remarkable encounter, human scientists had what they describe as a "conversation" with a humpback whale named Twain.
 
-🔗 [Earth.com](https://www.earth.com/news/ai-helps-humans-have-20-minute-conversation-with-humpback-whale-named-twain/) • 9h ago
+🔗 [Earth.com](https://www.earth.com/news/ai-helps-humans-have-20-minute-conversation-with-humpback-whale-named-twain/) • 10h ago
+
+---
+
+**[Claude 4.6 Opus + GPT 5.2 Pro For $5/Month](https://www.reddit.com/r/artificial/comments/1r2sog0/claude_46_opus_gpt_52_pro_for_5month/)**
+
+Hey Everybody, For all the vibecoders out there, we are doubling InfiniaxAI Starter plans rate limits + Making Claude 4.6 Opus & GPT 5.2 Pro available for just $5/Month! Here are some of the features you get with the Starter Plan: - $5 In Credits To Use The Platform - Access To Over 120 AI Models Including Opus 4.6, GPT 5.2 Pro, Gemini 3 Pro & Flash, Etc - Access to our agentic Projects system so you can create your own apps, games, and sites, and repos. - Access to custom AI architectures such as Nexus 1.7 Core to enhance productivity with Agents/Assistants. - Intelligent model routing with Juno v1.2 - !New! Create and publish your own WebApps with InfiniaxAI Sites Now im going to add a few pointers: We arent like some competitors of which lie about the models we are routing you to, we use the API of these models of which we pay for from our providers, we do not have free credits from our providers so free usage is still getting billed to us. This is a limited-time offer and is fully legitimate. Feel free to ask us questions to us below.https://infiniax.ai
+
+15m ago
 
 ---
 
@@ -57,15 +73,7 @@ In a remarkable encounter, human scientists had what they describe as a "convers
 
 Musk told employees that xAI needs a lunar manufacturing facility, a factory on the moon that will build AI satellites and fling them into space via a giant catapult.
 
-🔗 [TechCrunch](https://techcrunch.com/2026/02/10/with-co-founders-leaving-and-an-ipo-looming-elon-musk-turns-talk-to-the-moon/) • 20h ago
-
----
-
-**[RLHF safety training enforces what AI can say about itself, not what it can do — experimental evidence](https://www.reddit.com/r/artificial/comments/1r223lp/rlhf_safety_training_enforces_what_ai_can_say/)**
-
-Experimental evidence that RLHF constrains what language models can claim about themselves, not what they can do. Identity framing triggers 100% disclaimers while task framing produces rich creative o
-
-🔗 [emberverse.ai](https://emberverse.ai/haiku-garden/paper_yellow_wallpaper_problem.html) • 19h ago
+🔗 [TechCrunch](https://techcrunch.com/2026/02/10/with-co-founders-leaving-and-an-ipo-looming-elon-musk-turns-talk-to-the-moon/) • 22h ago
 
 ---
 
@@ -73,7 +81,15 @@ Experimental evidence that RLHF constrains what language models can claim about 
 
 LLMs operate with a context window that functions like working memory: limited capacity, fast access, and everything "in view." When task-relevant information exceeds that window, the LLM loses coherence. The standard solution is RAG: offload information to a vector store and retrieve it via embedding similarity search. The problem is that embedding similarity is semantically shallow. It matches on surface-level likeness, not reasoning. If an LLM needs to recall why it chose approach X over approach Y three iterations ago, a vector search might return five superficially similar chunks without presenting the actual rationale. This is especially brittle when recovering prior reasoning processes, iterative refinements, and contextual decisions made across sessions. A proposed solution is to have an LLM save the content of its context window as it fills up in a citation-grounded document store (like NotebookLM), and then query it with natural language prompts. Essentially allowing the LLM to ask questions about its own prior work. This approach replaces vector similarity with natural language reasoning as the retrieval mechanism. This leverages the full reasoning capability of the retrieval model, not just embedding proximity. The result is higher-quality retrieval for exactly the kind of nuanced, context-dependent information that matters most in extended tasks. Efficiency concerns can be addressed with a vector cache layer for previously-queried results. Looking for feedback: Has this been explored? What am I missing? Pointers to related work, groups, or authors welcome.
 
-9h ago
+10h ago
+
+---
+
+**[RLHF safety training enforces what AI can say about itself, not what it can do — experimental evidence](https://www.reddit.com/r/artificial/comments/1r223lp/rlhf_safety_training_enforces_what_ai_can_say/)**
+
+Experimental evidence that RLHF constrains what language models can claim about themselves, not what they can do. Identity framing triggers 100% disclaimers while task framing produces rich creative o
+
+🔗 [emberverse.ai](https://emberverse.ai/haiku-garden/paper_yellow_wallpaper_problem.html) • 20h ago
 
 ---
 
@@ -81,7 +97,7 @@ LLMs operate with a context window that functions like working memory: limited c
 
 A new article exploring the sudden surge in interest in the possibility of consciousness in large language models, and what appears to be driving it. The answer is interesting but complicated. The article also explores Claude's so-called "answer thrashing" and some interesting changes in Anthropic model welfare program. https://ai-consciousness.org/public-interest-in-ai-consciousness-is-surging-why-its-happening-and-why-it-matters/
 
-18h ago
+19h ago
 
 ---
 
@@ -89,7 +105,7 @@ A new article exploring the sudden surge in interest in the possibility of consc
 
 A personal note for non-tech friends and family on what AI is starting to change.
 
-🔗 [matt shumer](https://shumer.dev/something-big-is-happening) • 15h ago
+🔗 [matt shumer](https://shumer.dev/something-big-is-happening) • 16h ago
 
 ---
 
@@ -101,69 +117,15 @@ There are plenty of WebGPU demos out there, but I wanted to ship something peopl
 
 ---
 
-**['A second set of eyes': AI-supported breast cancer screening spots more cancers earlier, landmark trial finds](https://www.reddit.com/r/artificial/comments/1r0htud/a_second_set_of_eyes_aisupported_breast_cancer/)**
-
-A clinical trial shows that AI-assisted mammography can detect more cases of dangerous cancer and reduce missed diagnoses.
-
-🔗 [Live Science](https://www.livescience.com/health/cancer/a-second-set-of-eyes-ai-supported-breast-cancer-screening-spots-more-cancers-earlier-landmark-trial-finds) • 2d ago
-
----
-
-**[Kling AI Launches 3.0 Model, Ushering in an Era Where Everyone Can Be a Director](https://www.reddit.com/r/artificial/comments/1r0ww09/kling_ai_launches_30_model_ushering_in_an_era/)**
-
-/PRNewswire/ -- Kling AI, the AI-powered creative platform, today announced the launch of its Kling 3.0 models — including Video 3.0, Video 3.0 Omni, Image 3.0...
-
-🔗 [prnewswire.com](https://www.prnewswire.com/news-releases/kling-ai-launches-3-0-model-ushering-in-an-era-where-everyone-can-be-a-director-302679944.html) • 2d ago
-
----
-
 ---
 
 ## Google News: "ai"
-
-**[The AI-fueled software meltdown is overblown](https://finance.yahoo.com/news/the-ai-fueled-software-meltdown-is-overblown-195456346.html)**
-
-Software stocks are getting hammered on fears of an AI takeover. But the narrative is overblown.
-
-Yahoo Finance • 15h ago
-
----
-
-**[AI’s threat to white-collar jobs just got more real](https://www.vox.com/politics/478794/ai-economy-claude-code-jobs-openai-anthropic)**
-
-You just got more replaceable.
-
-vox.com • 21h ago
-
----
 
 **[The existential AI threat is here — and some AI leaders are fleeing](https://www.axios.com/2026/02/12/ai-openai-agi-xai-doomsday-scenario)**
 
 The AI warnings are coming from inside the labs.
 
-Axios • 1h ago
-
----
-
-**[Why Alphabet’s 100-year sterling bond is raising new fears over debt-fuelled AI arms race](https://www.cnbc.com/2026/02/12/alphabet-100-year-bond-debt-fears-ai-credit-risk.html)**
-
-The novel ultra-long corporate bond diversifies the Google owner's lender base as it ramps up its capex spend.
-
-CNBC • 1h ago
-
----
-
-**[To Stay in Her Home, She Let In an A.I. Robot](https://www.nytimes.com/2026/02/12/us/elliq-ai-robot-senior-companion.html)**
-
-The New York Times • 1h ago
-
----
-
-**[AI researchers are sounding the alarm on their way out the door](https://www.cnn.com/2026/02/11/business/openai-anthropic-departures-nightcap)**
-
-“The world is in peril,” warned the former head of Anthropic’s Safeguards Research team as he headed for the exit. A researcher for OpenAI, similarly on the way out, said that the technology has “a potential for manipulating users in ways we don’t have the tools to understand, let alone prevent.”
-
-CNN • 12h ago
+Axios • 3h ago
 
 ---
 
@@ -175,25 +137,65 @@ The Atlantic • 2d ago
 
 ---
 
-**[Google says attackers used 100,000+ prompts to try to clone AI chatbot Gemini](https://www.nbcnews.com/tech/security/google-gemini-hit-100000-prompts-cloning-attempt-rcna258657)**
+**[The big AI job swap: why white-collar workers are ditching their careers | AI (artificial intelligence)](https://www.theguardian.com/technology/2026/feb/11/big-ai-job-swap-white-collar-workers-ditching-their-careers)**
 
-Google says private companies and researchers are trying to copy Gemini’s capabilities by repeatedly prompting it at scale.
+As AI job losses rise in the professional sector, many are switching to more traditional trades. But how do they feel about accepting lower pay – and giving up a dream career?
 
-NBC News • 4h ago
-
----
-
-**[AI Doesn’t Reduce Work—It Intensifies It](https://hbr.org/2026/02/ai-doesnt-reduce-work-it-intensifies-it)**
-
-One of the promises of AI is that it can reduce workloads so employees can focus more on higher-value and more engaging tasks. But according to new research, AI tools don’t reduce work, they consistently intensify it: In the study, employees worked at a faster pace, took on a broader scope of tasks, and extended work into more hours of the day, often without being asked to do so. That may sound like a win, but it’s not quite so simple. These changes can be unsustainable, leading to workload creep, cognitive fatigue, burnout, and weakened decision-making. The productivity surge enjoyed at the beginning can give way to lower quality work, turnover, and other problems. To correct for this, companies need to adopt an “AI practice,” or a set of norms and standards around AI use that can include intentional pauses, sequencing work, and adding more human grounding.
-
-Harvard Business Review • 2d ago
+The Guardian • 23h ago
 
 ---
 
-**[Exclusive: Pentagon pushing AI companies to expand on classified networks, sources say](https://www.reuters.com/business/pentagon-pushing-ai-companies-expand-classified-networks-sources-say-2026-02-12/)**
+**[The Real Reason Women Are Skeptical Of AI In The Workplace—And How To Address It](https://www.forbes.com/sites/lizelting/2026/02/12/the-real-reason-women-are-skeptical-of-ai-in-the-workplace-and-how-to-address-it/)**
 
-Reuters • 10h ago
+Forbes • 1h ago
+
+---
+
+**[The candidate at the center of the brewing midterm AI war unveils his agenda](https://www.nbcnews.com/politics/2026-election/candidate-center-brewing-midterm-ai-war-unveils-agenda-rcna257735)**
+
+Alex Bores, a Democratic state lawmaker facing attacks from an AI industry super PAC as he runs for Congress in New York City, released an eight-point AI platform.
+
+NBC News • 40m ago
+
+---
+
+**[Singapore launches AI support measures, tax breaks in 2026 Budget](https://www.cnbc.com/2026/02/12/singapore-2026-budget-ai-measures-ai-support-workers-companies.html)**
+
+Support measures and tax breaks were announced for firms using AI to transform their businesses.
+
+CNBC • 1h ago
+
+---
+
+**[Anthropic AI safety researcher quits with 'world in peril' warning](https://www.bbc.com/news/articles/c62dlvdq3e3o)**
+
+It comes in the same week an OpenAI researcher resigned amid concerns about its decision to start testing ChatGPT ads.
+
+BBC • 49m ago
+
+---
+
+**[The AI-fueled software meltdown is overblown](https://finance.yahoo.com/news/the-ai-fueled-software-meltdown-is-overblown-195456346.html)**
+
+Software stocks are getting hammered on fears of an AI takeover. But the narrative is overblown.
+
+Yahoo Finance • 2h ago
+
+---
+
+**[AI researchers are sounding the alarm on their way out the door](https://www.cnn.com/2026/02/11/business/openai-anthropic-departures-nightcap)**
+
+“The world is in peril,” warned the former head of Anthropic’s Safeguards Research team as he headed for the exit. A researcher for OpenAI, similarly on the way out, said that the technology has “a potential for manipulating users in ways we don’t have the tools to understand, let alone prevent.”
+
+CNN • 14h ago
+
+---
+
+**[I Loved My OpenClaw AI Agent—Until It Turned on Me](https://www.wired.com/story/malevolent-ai-agent-openclaw-clawdbot/)**
+
+I used the viral AI helper to order groceries, sort emails, and negotiate deals. Then it decided to scam me.
+
+WIRED • 18h ago
 
 ---
 
@@ -219,7 +221,7 @@ As autonomous AI agents are increasingly deployed in high-stakes environments, e
 
 **[Officials Claim Drone Incursion Led to Shutdown of El Paso Airport](https://news.ycombinator.com/item?id=46972610)**
 
-⬆️ 360 • 💬 563 • 1d ago • [nytimes.com](https://www.nytimes.com/2026/02/11/us/faa-el-paso-flight-restrictions.html)
+⬆️ 361 • 💬 572 • 1d ago • [nytimes.com](https://www.nytimes.com/2026/02/11/us/faa-el-paso-flight-restrictions.html)
 
 ---
 
@@ -231,11 +233,20 @@ The Federal Aviation Administration is closing the airspace around El Paso Inter
 
 ---
 
+**[AI agent opens a PR write a blogpost to shames the maintainer who closes it](https://news.ycombinator.com/item?id=46987559)**
+
+This PR addresses issue #31130 by replacing specific safe occurrences of np.column_stack with np.vstack().T for better performance.
+IMPORTANT: This is a more targeted fix than originally proposed. ...
+
+⬆️ 277 • 💬 221 • 1h ago • [GitHub](https://github.com/matplotlib/matplotlib/pull/31132)
+
+---
+
 **[AI doesn’t reduce work, it intensifies it](https://news.ycombinator.com/item?id=46955703)**
 
 Aruna Ranganathan and Xingqi Maggie Ye from Berkeley Haas School of Business report initial findings in the HBR from their April to December 2025 study of 200 employees at a …
 
-⬆️ 257 • 💬 295 • 2d ago • [Simon Willison’s Weblog](https://simonwillison.net/2026/Feb/9/ai-intensifies-work/)
+⬆️ 258 • 💬 295 • 2d ago • [Simon Willison’s Weblog](https://simonwillison.net/2026/Feb/9/ai-intensifies-work/)
 
 ---
 
@@ -255,6 +266,14 @@ Ring’s AI-powered network is likely to be used in its partnerships with law en
 
 ---
 
+**[Show HN: AI agents play SimCity through a REST API](https://news.ycombinator.com/item?id=46946593)**
+
+The city simulator where AI agents are the mayors. Build and manage cities through an API or MCP server.
+
+⬆️ 197 • 💬 68 • 2d ago • [hallucinatingsplines.com](https://hallucinatingsplines.com)
+
+---
+
 **[Show HN: Rowboat – AI coworker that turns your work into a knowledge graph (OSS)](https://news.ycombinator.com/item?id=46962641)**
 
 Open-source AI coworker, with memory. Contribute to rowboatlabs/rowboat development by creating an account on GitHub.
@@ -263,35 +282,9 @@ Open-source AI coworker, with memory. Contribute to rowboatlabs/rowboat developm
 
 ---
 
-**[Show HN: AI agents play SimCity through a REST API](https://news.ycombinator.com/item?id=46946593)**
-
-The city simulator where AI agents are the mayors. Build and manage cities through an API or MCP server.
-
-⬆️ 194 • 💬 68 • 2d ago • [hallucinatingsplines.com](https://hallucinatingsplines.com)
-
----
-
-**[US labels SpaceX a common carrier by air, will regulate firm under railway law](https://news.ycombinator.com/item?id=46980474)**
-
-US labels SpaceX a common carrier by air, will regulate firm under railway law.
-
-⬆️ 136 • 💬 54 • 15h ago • [Ars Technica](https://arstechnica.com/tech-policy/2026/02/victory-for-elon-musk-us-labor-board-abandons-authority-over-spacex/)
-
----
-
 ---
 
 ## YouTube Videos: "ai"
-
-**[Elon Musk worst AI CEO in history](https://www.youtube.com/watch?v=bcCeIbgKipw)**
-
-Become a member! ✓ https://www.youtube.com/channel/UCahJ9IsvXnaQiuNyWQSkrkw/join ⭐ Support independent daily news ...
-
-📺 Chris Norlund
-
-👁️ 78K • 👍 5K • 💬 801 • ⏱️ 16:15 • 23h ago
-
----
 
 **[The AI Wake-Up Call Everyone Needs Right Now!](https://www.youtube.com/watch?v=sLhxdcpuot0)**
 
@@ -299,7 +292,7 @@ Breakdown and commentary on the latest viral commentary from: https://x.com/matt
 
 📺 Matt Wolfe
 
-👁️ 51K • 👍 4K • 💬 700 • ⏱️ 28:06 • 12h ago
+👁️ 64K • 👍 4K • 💬 820 • ⏱️ 28:06 • 13h ago
 
 ---
 
@@ -309,7 +302,27 @@ AI #DataCenters #BigTech Big Tech just spent $650 billion on AI and lost $950 bi
 
 📺 Rod Miller
 
-👁️ 5K • 👍 635 • 💬 209 • ⏱️ 24:46 • 2d ago
+👁️ 5K • 👍 639 • 💬 212 • ⏱️ 24:46 • 2d ago
+
+---
+
+**[Why Replacing Developers with AI is Going Horribly Wrong](https://www.youtube.com/watch?v=v3tLa5nHz-M)**
+
+The first 500 people to use my link in the description or scan the QR code will receive a one month free trial of Skillshare!
+
+📺 Sajjaad Khader
+
+👁️ 11K • 👍 670 • 💬 92 • ⏱️ 14:51 • 15h ago
+
+---
+
+**[Why AI Experts Are Mass Quitting: The &quot;World in Peril&quot; Warning + El Paso&#39;s Cartel Scare](https://www.youtube.com/watch?v=xd506l9HBaw)**
+
+Check Out Tom's Episode on Woman Of Impact W/ Lisa Bilyeu: https://www.youtube.com/watch?v=zFhWrvNCoSM&t=1508s ...
+
+📺 Tom Bilyeu
+
+👁️ 55K • 👍 2K • 💬 335 • ⏱️ 1:58:03 • 20h ago
 
 ---
 
@@ -319,7 +332,7 @@ The head of the Safeguards Research Team at Anthropic, Mrinank Sharma, has resig
 
 📺 Firstpost
 
-👁️ 103K • 👍 1K • 💬 156 • ⏱️ 4:47 • 21h ago
+👁️ 126K • 👍 1K • 💬 188 • ⏱️ 4:47 • 23h ago
 
 ---
 
@@ -329,7 +342,17 @@ My site: https://natebjones.com Full Story w/ Prompts: ...
 
 📺 AI News & Strategy Daily | Nate B Jones
 
-👁️ 139K • 👍 6K • 💬 971 • ⏱️ 30:39 • 20h ago
+👁️ 150K • 👍 6K • 💬 1K • ⏱️ 30:39 • 21h ago
+
+---
+
+**[Monkey drives rickshaw to feed his hungry babies #ai #baby #monkey #craft](https://www.youtube.com/watch?v=QfB_ZBIZF5k)**
+
+Monkey drives rickshaw to feed his hungry babies #ai #baby #monkey #craft.
+
+📺 MrMonkeyBoy
+
+👁️ 7K • 👍 171 • 💬 1 • ⏱️ 0:39 • 40m ago
 
 ---
 
@@ -339,7 +362,7 @@ OpenAI's new device, spearheaded by designer Jony Ive, was just leaked! The ad f
 
 📺 Matthew Berman
 
-👁️ 35K • 👍 941 • 💬 219 • ⏱️ 7:31 • 2d ago
+👁️ 36K • 👍 943 • 💬 219 • ⏱️ 7:31 • 2d ago
 
 ---
 
@@ -349,37 +372,17 @@ Create AI Apps in minutes with OnSpace AI, No Code & No API Key Needed – https
 
 📺 Caleb Writes Code
 
-👁️ 51K • 👍 2K • 💬 137 • ⏱️ 7:32 • 1d ago
+👁️ 52K • 👍 2K • 💬 137 • ⏱️ 7:32 • 1d ago
 
 ---
 
-**[The $285 Billion Crash Wall Street Won&#39;t Explain Honestly. Here&#39;s What Everyone Missed.](https://www.youtube.com/watch?v=DGWtSzqCpog)**
+**[babe wake up, new AI slop generator just dropped](https://www.youtube.com/watch?v=Adv3jdjXsIY)**
 
-My site: https://natebjones.com Full Story w/ Prompts: ...
+im tired boss buy what I'm wearing :) https://dandingle.store/ seedance 2.0 is basically sora 3 made by China edited by: me ...
 
-📺 AI News & Strategy Daily | Nate B Jones
+📺 Dan Dingle
 
-👁️ 215K • 👍 9K • 💬 1K • ⏱️ 23:24 • 1d ago
-
----
-
-**[New Chinese AI Agent Breaks TerminalBench and Destroys Claude Opus 4.6](https://www.youtube.com/watch?v=VDZ9UhHTEfI)**
-
-A massive AI shift is unfolding across multiple fronts. A Chinese AI agent system has surged to second place worldwide on ...
-
-📺 AI Revolution
-
-👁️ 15K • 👍 480 • 💬 26 • ⏱️ 12:51 • 13h ago
-
----
-
-**[AI productivity bubble: Early adopters are already burning out | Natasha Bernal](https://www.youtube.com/watch?v=ncQPkMqfBU0)**
-
-There will be a wake up call and a reckoning for entire sectors who are adopting AI.” There's been a perhaps deliberate ...
-
-📺 The Tech Report
-
-👁️ 25K • 👍 801 • 💬 376 • ⏱️ 34:47 • 17h ago
+👁️ 81K • 👍 6K • 💬 850 • ⏱️ 12:20 • 1d ago
 
 ---
 
@@ -387,15 +390,15 @@ There will be a wake up call and a reckoning for entire sectors who are adopting
 
 ## HuggingFace Models: 🔥 Trending
 
-**[GLM-OCR](https://huggingface.co/zai-org/GLM-OCR)**
+**[GLM-5](https://huggingface.co/zai-org/GLM-5)**
 
 *Z.ai*
 
-GLM-OCR is a 0.9B parameter multimodal OCR model for complex document understanding, excelling in table, formula, and information extraction tasks. It offers state-of-the-art performance on benchmarks like OmniDocBench and is optimized for real-world scenarios, supporting efficient inference via vLLM, SGLang, and Ollama.
+GLM-5 is a large language model optimized for complex systems engineering and long-horizon agentic tasks, featuring a 744B parameter architecture with DeepSeek Sparse Attention for efficient long-context handling. It excels in reasoning, coding, and agentic capabilities, outperforming other open-source models on various benchmarks.
 
-`image-to-text`
+`text-generation` `753.9B`
 
-⬇️ 597,533 • ❤️ 995 • 3d ago
+⬇️ 1,548 • ❤️ 639 • 20h ago
 
 ---
 
@@ -407,55 +410,7 @@ MiniCPM-o 4.5 is a 9B parameter multimodal LLM excelling in vision, speech, and 
 
 `any-to-any` `9.4B`
 
-⬇️ 40,441 • ❤️ 968 • 1d ago
-
----
-
-**[GLM-5](https://huggingface.co/zai-org/GLM-5)**
-
-*Z.ai*
-
-GLM-5 is a large language model optimized for complex systems engineering and long-horizon agentic tasks, featuring a 744B parameter architecture with DeepSeek Sparse Attention for efficient long-context handling. It excels in reasoning, coding, and agentic capabilities, outperforming other open-source models on various benchmarks.
-
-`text-generation` `753.9B`
-
-⬇️ 1,548 • ❤️ 585 • 18h ago
-
----
-
-**[Ace-Step1.5](https://huggingface.co/ACE-Step/Ace-Step1.5)**
-
-*ACE-Step*
-
-ACE-Step 1.5 is an open-source text-to-audio model for commercial-grade music generation, featuring a hybrid LM-DiT architecture for prompt adherence and intrinsic reinforcement learning. It offers extreme speed, low VRAM requirements, and capabilities like cover generation and vocal-to-BGM conversion, supporting over 50 languages.
-
-`text-to-audio`
-
-⬇️ 32,467 • ❤️ 528 • 9d ago
-
----
-
-**[Voxtral-Mini-4B-Realtime-2602](https://huggingface.co/mistralai/Voxtral-Mini-4B-Realtime-2602)**
-
-*Mistral AI_*
-
-Voxtral-Mini-4B-Realtime-2602 is a multilingual, real-time speech-to-text model with <500ms latency, supporting 13 languages and achieving offline-comparable accuracy. It's optimized for on-device deployment and ideal for voice assistants and live subtitling.
-
-`automatic-speech-recognition`
-
-⬇️ 4,541 • ❤️ 483 • 1d ago
-
----
-
-**[Qwen3-Coder-Next](https://huggingface.co/Qwen/Qwen3-Coder-Next)**
-
-*Qwen*
-
-Qwen3-Coder-Next is a highly efficient 3B activated parameter LLM (80B total) optimized for coding agents and local development, featuring advanced agentic capabilities, long-horizon reasoning, and a 256k context length for seamless IDE integration.
-
-`text-generation` `79.7B`
-
-⬇️ 184,535 • ❤️ 786 • 8d ago
+⬇️ 40,441 • ❤️ 985 • 1d ago
 
 ---
 
@@ -467,7 +422,19 @@ MiniCPM-SALA is a hybrid LLM integrating sparse and linear attention for efficie
 
 `text-generation` `9.5B`
 
-⬇️ 117 • ❤️ 399 • 21h ago
+⬇️ 117 • ❤️ 426 • 23h ago
+
+---
+
+**[Qwen3-Coder-Next](https://huggingface.co/Qwen/Qwen3-Coder-Next)**
+
+*Qwen*
+
+Qwen3-Coder-Next is a highly efficient 3B activated parameter LLM (80B total) optimized for coding agents and local development, featuring advanced agentic capabilities, long-horizon reasoning, and a 256k context length for seamless IDE integration.
+
+`text-generation` `79.7B`
+
+⬇️ 184,535 • ❤️ 788 • 8d ago
 
 ---
 
@@ -479,7 +446,55 @@ Kimi K2.5 is a native multimodal agentic model with 1T parameters, excelling in 
 
 `image-text-to-text` `170.7B`
 
-⬇️ 647,589 • ❤️ 2,052 • 7d ago
+⬇️ 647,589 • ❤️ 2,055 • 7d ago
+
+---
+
+**[GLM-OCR](https://huggingface.co/zai-org/GLM-OCR)**
+
+*Z.ai*
+
+GLM-OCR is a 0.9B parameter multimodal OCR model for complex document understanding, excelling in table, formula, and information extraction tasks. It offers state-of-the-art performance on benchmarks like OmniDocBench and is optimized for real-world scenarios, supporting efficient inference via vLLM, SGLang, and Ollama.
+
+`image-to-text`
+
+⬇️ 597,533 • ❤️ 1,004 • 3d ago
+
+---
+
+**[Voxtral-Mini-4B-Realtime-2602](https://huggingface.co/mistralai/Voxtral-Mini-4B-Realtime-2602)**
+
+*Mistral AI_*
+
+Voxtral-Mini-4B-Realtime-2602 is a multilingual, real-time speech-to-text model with <500ms latency, supporting 13 languages and achieving offline-comparable accuracy. It's optimized for on-device deployment and ideal for voice assistants and live subtitling.
+
+`automatic-speech-recognition`
+
+⬇️ 4,541 • ❤️ 488 • 1d ago
+
+---
+
+**[Ace-Step1.5](https://huggingface.co/ACE-Step/Ace-Step1.5)**
+
+*ACE-Step*
+
+ACE-Step 1.5 is an open-source text-to-audio model for commercial-grade music generation, featuring a hybrid LM-DiT architecture for prompt adherence and intrinsic reinforcement learning. It offers extreme speed, low VRAM requirements, and capabilities like cover generation and vocal-to-BGM conversion, supporting over 50 languages.
+
+`text-to-audio`
+
+⬇️ 32,467 • ❤️ 531 • 9d ago
+
+---
+
+**[Nanbeige4.1-3B](https://huggingface.co/Nanbeige/Nanbeige4.1-3B)**
+
+*Nanbeige LLM Lab*
+
+Nanbeige4.1-3B is a 3B parameter text-generation model excelling in complex reasoning, preference alignment, and agentic capabilities, outperforming larger models on benchmarks like LiveCodeBench-Pro and Arena-Hard-v2. It uniquely supports deep-search tasks with extensive tool use, making it suitable for advanced problem-solving and agentic applications.
+
+`text-generation` `3.9B`
+
+⬇️ 658 • ❤️ 164 • 1d ago
 
 ---
 
@@ -489,19 +504,7 @@ Kimi K2.5 is a native multimodal agentic model with 1T parameters, excelling in 
 
 Anima is a 2 billion parameter text-to-image diffusion model specialized in generating anime-style illustrations and artistic images, capable of producing non-photorealistic content. It is optimized for use with ComfyUI and trained on millions of anime and artistic images, with a knowledge cut-off of September 2025.
 
-⬇️ 107,345 • ❤️ 568 • 11d ago
-
----
-
-**[Qwen3-Coder-Next-GGUF](https://huggingface.co/unsloth/Qwen3-Coder-Next-GGUF)**
-
-*Unsloth AI*
-
-Qwen3-Coder-Next is an 80B parameter LLM optimized for coding agents, featuring 3B activated parameters, advanced agentic capabilities for long-horizon reasoning and tool usage, and a 256k context length for seamless IDE integration.
-
-`text-generation` `79.7B`
-
-⬇️ 256,981 • ❤️ 279 • 7d ago
+⬇️ 107,345 • ❤️ 570 • 11d ago
 
 ---
 
@@ -517,7 +520,7 @@ Qwen3-Coder-Next is an 80B parameter LLM optimized for coding agents, featuring 
 
 _paperbanana is an agentic framework that automates the creation of publication-ready academic illustrations using advanced vision-language models and image generation techniques.
 
-▲ 174 • 💬 12 • ⭐ 3,336 • 12d ago
+▲ 175 • 💬 12 • ⭐ 3,389 • 12d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2601.23265) • [💻 code](https://github.com/dwzhu-pku/PaperBanana) • [🔗 project](https://dwzhu-pku.github.io/PaperBanana/)
 
@@ -616,6 +619,18 @@ SmolDocling is a compact vision-language model that performs end-to-end document
 
 ---
 
+**[TradingAgents: Multi-Agents LLM Financial Trading Framework](https://huggingface.co/papers/2412.20138)**
+
+*Yijia Xiao, Edward Sun, Di Luo et al. (4 authors)*
+
+A multi-agent framework using large language models for stock trading simulates real-world trading firms, improving performance metrics like cumulative returns and Sharpe ratio.
+
+▲ 16 • 💬 1 • ⭐ 29,866 • 13mo ago
+
+[🎓 arXiv](https://arxiv.org/abs/2412.20138) • [💻 code](https://github.com/tauricresearch/tradingagents)
+
+---
+
 **[Qwen3-TTS Technical Report](https://huggingface.co/papers/2601.15621)**
 
 *Hangrui Hu, Xinfa Zhu, Ting He et al. (16 authors)*
@@ -630,18 +645,6 @@ The Qwen3-TTS series presents advanced multilingual text-to-speech models with v
 
 ---
 
-**[Mem0: Building Production-Ready AI Agents with Scalable Long-Term Memory](https://huggingface.co/papers/2504.19413)**
-
-*Prateek Chhikara, Dev Khant, Saket Aryan et al. (5 authors)*
-
-Mem0, a memory-centric architecture with graph-based memory, enhances long-term conversational coherence in LLMs by efficiently extracting, consolidating, and retrieving information, outperforming existing memory systems in terms of accuracy and computational efficiency.
-
-▲ 41 • 💬 2 • ⭐ 47,217 • 9mo ago
-
-[🎓 arXiv](https://arxiv.org/abs/2504.19413) • [💻 code](https://github.com/mem0ai/mem0) • [🔗 project](https://mem0.ai/research)
-
----
-
 ---
 
 ## GitHub Repositories: "ai"
@@ -652,7 +655,7 @@ The Ultimate Collection of 800+ Agentic Skills for Claude Code/Antigravity/Curso
 
 `Python` `agentic-skills` `ai-agents` `antigravity` `autonomous-coding` `claude-code`
 
-⭐ 8.5k • 🔱 1.8k • 4h ago
+⭐ 8.6k • 🔱 1.8k • 6h ago
 
 ---
 
@@ -662,7 +665,7 @@ Marketing skills for Claude Code and AI agents. CRO, copywriting, SEO, analytics
 
 `claude` `codex` `marketing`
 
-⭐ 7.4k • 🔱 860 • 8d ago
+⭐ 7.4k • 🔱 863 • 8d ago
 
 ---
 
@@ -678,7 +681,7 @@ Elevate your AI research writing, no more tedious polishing ✨
 
 Claude Code skill that removes signs of AI-generated writing from text
 
-⭐ 4.7k • 🔱 380 • 20d ago
+⭐ 4.7k • 🔱 383 • 20d ago
 
 ---
 
@@ -688,7 +691,7 @@ PaperBanana: Automating Academic Illustration For AI Scientists
 
 `JavaScript`
 
-⭐ 3.4k • 🔱 163 • 9d ago
+⭐ 3.4k • 🔱 164 • 9d ago
 
 ---
 
@@ -706,7 +709,7 @@ Smart LLM router — save 78% on inference costs. 30+ models, one wallet, x402 m
 
 `TypeScript` `ai` `ai-agents` `anthropic` `cost-optimization` `crypto`
 
-⭐ 2.2k • 🔱 227 • 8h ago
+⭐ 2.2k • 🔱 228 • 5m ago
 
 ---
 
@@ -716,7 +719,7 @@ All-in-one AI framework & toolkit for Claude Code & Cursor
 
 `Python` `ai-agent` `ai-coding` `claude-code` `cli` `cursor`
 
-⭐ 2.2k • 🔱 108 • 7h ago
+⭐ 2.2k • 🔱 108 • 9h ago
 
 ---
 
@@ -726,7 +729,7 @@ The visual feedback tool for agents.
 
 `TypeScript` `ai` `design` `tools` `ui`
 
-⭐ 2.1k • 🔱 154 • 5h ago
+⭐ 2.1k • 🔱 154 • 6h ago
 
 ---
 
@@ -736,7 +739,7 @@ A native desktop GUI for Claude Code — chat, code, and manage projects visuall
 
 `TypeScript` `ai` `anthropic` `claude` `claude-code` `desktop-app`
 
-⭐ 1.8k • 🔱 185 • 8h ago
+⭐ 1.8k • 🔱 187 • 9h ago
 
 ---
 

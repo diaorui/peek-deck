@@ -57,7 +57,7 @@
             "name": "PeekDeck",
             "url": "https://peekdeck.ruidiao.dev"
           },
-          "dateModified": "2026-02-12T11:40:54.114352+00:00"
+          "dateModified": "2026-02-12T13:10:59.162152+00:00"
         },
         {
           "@type": "BreadcrumbList",
@@ -769,6 +769,56 @@
                     </div>
                 </div>
                 
+                <div class="carousel-card" onclick="window.open('https://www.reddit.com/r/robotics/comments/1r2sxbl/surgical_robotics_event_in_april_2026_by_ssii_ssi/', '_blank')">
+                    <div class="post-thumbnail">
+                        
+                        <img src="https://external-preview.redd.it/Dnl16GGLQXLCnYgevo0xSlCe7G7jNedUsKTKpkvxYh8.jpeg?width=320&crop=smart&auto=webp&s=7b186fc88dbab3c3f3c4d104132495fcb4f16950" alt="Surgical Robotics Event In April 2026 by (SSII) SSi Mantra Surgical Robotics" onerror="this.style.display='none'" loading="lazy">
+                        
+                    </div>
+
+                    <div class="post-content">
+                        <!-- Post title -->
+                        <div class="post-title">
+                            <a href="https://www.reddit.com/r/robotics/comments/1r2sxbl/surgical_robotics_event_in_april_2026_by_ssii_ssi/" target="_blank" onclick="event.stopPropagation();">Surgical Robotics Event In April 2026 by (SSII) SSi Mantra Surgical Robotics</a>
+                        </div>
+
+                        <!-- Rich description (if available) -->
+                        
+                        <div class="post-description">
+                            Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.
+                        </div>
+                        
+
+                        <!-- Metadata -->
+                        <div class="post-meta">
+                            <div class="post-meta-line">
+                                
+                                <div class="post-meta-item">
+                                    <span data-timestamp="1770901577.0"></span>
+                                </div>
+                                
+                                <!-- External article source (on same line as time) -->
+                                
+                                <div class="post-meta-item post-source">
+                                    <a href="https://youtube.com/shorts/oKXw1YJcoXU?si=eBA6b4QUD-VM8VIq" target="_blank" onclick="event.stopPropagation();">
+                                        
+                                            
+                                            <img src="https://www.youtube.com/s/desktop/2a3cb36e/img/favicon.ico" alt="" class="post-favicon" onerror="this.style.display='none'; this.nextElementSibling.style.display='inline-block';" loading="lazy">
+                                            <svg width="14" height="14" viewBox="0 0 16 16" fill="currentColor" style="flex-shrink: 0; display: none;">
+                                                <path d="M8.636 3.5a.5.5 0 0 0-.5-.5H1.5A1.5 1.5 0 0 0 0 4.5v10A1.5 1.5 0 0 0 1.5 16h10a1.5 1.5 0 0 0 1.5-1.5V7.864a.5.5 0 0 0-1 0V14.5a.5.5 0 0 1-.5.5h-10a.5.5 0 0 1-.5-.5v-10a.5.5 0 0 1 .5-.5h6.636a.5.5 0 0 0 .5-.5z"/>
+                                                <path d="M16 .5a.5.5 0 0 0-.5-.5h-5a.5.5 0 0 0 0 1h3.793L6.146 9.146a.5.5 0 1 0 .708.708L15 1.707V5.5a.5.5 0 0 0 1 0v-5z"/>
+                                            </svg>
+                                            
+                                        
+                                        <span>youtube.com</span>
+                                    </a>
+                                </div>
+                                
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                
                 <div class="carousel-card" onclick="window.open('https://www.reddit.com/r/robotics/comments/1r2lyzl/humanoid_robot_performing_a_chinese_sword_dance/', '_blank')">
                     <div class="post-thumbnail">
                         
@@ -968,39 +1018,6 @@
                     </div>
                 </div>
                 
-                <div class="carousel-card" onclick="window.open('https://www.reddit.com/r/robotics/comments/1r1sr70/simulation_digital_twin_of_a_robot_arm_ball/', '_blank')">
-                    <div class="post-thumbnail">
-                        
-                    </div>
-
-                    <div class="post-content">
-                        <!-- Post title -->
-                        <div class="post-title">
-                            <a href="https://www.reddit.com/r/robotics/comments/1r1sr70/simulation_digital_twin_of_a_robot_arm_ball/" target="_blank" onclick="event.stopPropagation();">Simulation / Digital Twin of a Robot Arm Ball Balancing Setup</a>
-                        </div>
-
-                        <!-- Rich description (if available) -->
-                        
-                        <div class="post-description">
-                            Hi everyone, I currently have a real-world setup consisting of a UR3e with a flat square platform attached to the end effector. There’s a ball on top of the platform, and I use a camera detection pipeline to detect the ball position and balance it. The controller is currently a simple PID (though I’m working toward switching to MPC). Now I want to build a digital twin / simulation of this system. I’m considering MuJoCo, but I have zero experience with it. I’ve also heard about something like the ROS–Unity integration / ROS Unity Hub, and I’m not sure which direction makes more sense or where I should start. What I want to achieve in simulation: Import a URDF of the UR3e Attach a static square platform to the end effector (this part seems straightforward) Add a ball that rolls on top of the platform Have proper collision and physics behavior The platform has four sides (like a shallow box), so if the ball hits the edge, it should collide and stop rather than just fall off If the end effector tilts, the plate tilts The ball should realistically roll “downhill” due to gravity when the plate is tilted So my main physics questions: Is this realistically achievable in both MuJoCo and Unity? Can I define proper rolling friction and contact friction between the ball and the plate? Will the physics engine handle realistic rolling behavior when I tilt the TCP? Matching Simulation to Reality (Friction Identification) Another big question: how would you recommend estimating the friction coefficients from the real system so I can plug them into the simulation? I was thinking something along the lines of: Tilt the plate to a known angle Measure how long the ball takes to travel across a 40 cm plate Repeat multiple times Use that data to estimate an effective friction coefficient Is that a reasonable approach? Are there better system identification methods people typically use for this kind of setup? Real-Time Digital Twin Long-term, I would like: When the real robot is balancing the ball, the simulated version reflects the same joint motions and plate tilt. While working purely in simulation, I’d also like a simulated camera plugin that gives me the ball position, which feeds into my detection pipeline and controller (PID now, possibly MPC later). So effectively: Simulation → virtual camera → detection → controller → robot motion And eventually also: real robot → mirrored digital twin Main Questions Would you recommend MuJoCo or Unity (ROS integration) for this use case? Where would you start if you had zero experience with both? Is one significantly better for contact-rich rolling dynamics like this? Has anyone built something similar (ball balancing / contact dynamics on a robot arm)? I also found a Unity UR simulation project that I can link below if helpful. Any guidance on architecture, tools, or first steps would be greatly appreciated. Thanks! TL;DR: I have a UR3e ball-balancing setup and want to build a physics-accurate digital twin (with rolling friction, collisions, and camera simulation). Should I use MuJoCo or Unity/ROS, and how would I match real-world friction parameters to simulation? Links: - https://github.com/rparak/Unity3D_Robotics_UR
-                        </div>
-                        
-
-                        <!-- Metadata -->
-                        <div class="post-meta">
-                            <div class="post-meta-line">
-                                
-                                <div class="post-meta-item">
-                                    <span data-timestamp="1770801706.0"></span>
-                                </div>
-                                
-                                <!-- External article source (on same line as time) -->
-                                
-                            </div>
-                        </div>
-                    </div>
-                </div>
-                
 
                 <!-- View All button at end of carousel -->
                 <div class="carousel-card"
@@ -1024,7 +1041,7 @@
 
     </div>
     <div class="widget-footer">
-        <small data-timestamp="2026-02-12T11:40:27.961046+00:00">Updated 2026-02-12T11:40:27.961046+00:00</small>
+        <small data-timestamp="2026-02-12T13:10:38.468558+00:00">Updated 2026-02-12T13:10:38.468558+00:00</small>
     </div>
 </div>
 
@@ -1292,20 +1309,20 @@
                     </div>
                 </div>
                 
-                <div class="carousel-card" onclick="window.open('https://www.earth.com/news/video-shows-humanoid-robots-walker-s2-preparing-for-border-patrol-in-china/', '_blank')">
+                <div class="carousel-card" onclick="window.open('https://www.foxnews.com/tech/humanoid-robots-getting-smaller-safer-closer', '_blank')">
                     <!-- Rich preview thumbnail (with fallback icon) -->
-                    <div class="article-thumbnail" style="background-image: url('https://cff2.earth.com/uploads/2025/12/14122516/china-humanoid-robots-border.jpg');"></div>
+                    <div class="article-thumbnail" style="background-image: url('https://static.foxnews.com/foxnews.com/content/uploads/2026/02/sprout-robot.jpg');"></div>
 
                     <div class="article-content">
                         <!-- Article headline (fixed 3-line height) -->
                         <div class="news-headline">
-                            <a href="https://www.earth.com/news/video-shows-humanoid-robots-walker-s2-preparing-for-border-patrol-in-china/" target="_blank" onclick="event.stopPropagation();">Disturbing video shows humanoid robots preparing for border patrol duties in China</a>
+                            <a href="https://www.foxnews.com/tech/humanoid-robots-getting-smaller-safer-closer" target="_blank" onclick="event.stopPropagation();">Humanoid robots are getting smaller, safer and closer</a>
                         </div>
 
                         <!-- Rich description (if available) -->
                         
                         <div class="article-description">
-                            Walker S2 is an adult-sized humanoid robot with legs, a torso, and arms. China is sending these robots to patrol their border with Vietnam.
+                            Fauna Robotics is launching Sprout as a developer platform for humanoid robots. The robot features 29 degrees of freedom and NVIDIA compute power.
                         </div>
                         
 
@@ -1315,9 +1332,9 @@
                                 
                                 <div class="news-meta-item news-source">
                                     
-                                    <img src="https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.earth.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
-                                         alt="Earth.com" class="news-favicon">
-                                    <a href="https://www.earth.com" target="_blank" onclick="event.stopPropagation();">Earth.com</a>
+                                    <img src="https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.foxnews.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+                                         alt="Fox News" class="news-favicon">
+                                    <a href="https://www.foxnews.com" target="_blank" onclick="event.stopPropagation();">Fox News</a>
                                     
                                 </div>
                                 
@@ -1325,7 +1342,7 @@
                             <div class="news-meta-line">
                                 
                                 <div class="news-meta-item">
-                                    <span data-timestamp="1770851857.0"></span>
+                                    <span data-timestamp="1770744303.0"></span>
                                 </div>
                                 
                             </div>
@@ -1544,17 +1561,21 @@ Shereen Bhan steps inside Addverb with co-founder Sangeet Kumar to see how India
                     </div>
                 </div>
                 
-                <div class="carousel-card" onclick="window.open('https://www.eweek.com/news/alibaba-launches-rynnbrain-ai-model-for-robots/', '_blank')">
+                <div class="carousel-card" onclick="window.open('https://www.pymnts.com/artificial-intelligence-2/2026/construction-embraces-ai-agents-safety-systems-and-robotics-as-labor-pressures-mount/', '_blank')">
                     <!-- Rich preview thumbnail (with fallback icon) -->
-                    <div class="article-thumbnail" ></div>
+                    <div class="article-thumbnail" style="background-image: url('https://www.pymnts.com/wp-content/uploads/2026/02/construction-AI1.jpg');"></div>
 
                     <div class="article-content">
                         <!-- Article headline (fixed 3-line height) -->
                         <div class="news-headline">
-                            <a href="https://www.eweek.com/news/alibaba-launches-rynnbrain-ai-model-for-robots/" target="_blank" onclick="event.stopPropagation();">Alibaba Launches RynnBrain AI Model for Robots</a>
+                            <a href="https://www.pymnts.com/artificial-intelligence-2/2026/construction-embraces-ai-agents-safety-systems-and-robotics-as-labor-pressures-mount/" target="_blank" onclick="event.stopPropagation();">Construction Embraces AI Agents, Safety Systems and Robotics as Labor Pressures Mount</a>
                         </div>
 
                         <!-- Rich description (if available) -->
+                        
+                        <div class="article-description">
+                            Artificial intelligence is no longer confined to experimental pilots in the construction industry. It is moving into the operational core of how projects
+                        </div>
                         
 
                         <!-- Metadata (source, time) -->
@@ -1563,9 +1584,9 @@ Shereen Bhan steps inside Addverb with co-founder Sangeet Kumar to see how India
                                 
                                 <div class="news-meta-item news-source">
                                     
-                                    <img src="https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.eweek.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
-                                         alt="eWeek" class="news-favicon">
-                                    <a href="https://www.eweek.com" target="_blank" onclick="event.stopPropagation();">eWeek</a>
+                                    <img src="https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.pymnts.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+                                         alt="PYMNTS.com" class="news-favicon">
+                                    <a href="https://www.pymnts.com" target="_blank" onclick="event.stopPropagation();">PYMNTS.com</a>
                                     
                                 </div>
                                 
@@ -1573,7 +1594,7 @@ Shereen Bhan steps inside Addverb with co-founder Sangeet Kumar to see how India
                             <div class="news-meta-line">
                                 
                                 <div class="news-meta-item">
-                                    <span data-timestamp="1770843099.0"></span>
+                                    <span data-timestamp="1770778362.0"></span>
                                 </div>
                                 
                             </div>
@@ -1642,7 +1663,7 @@ Shereen Bhan steps inside Addverb with co-founder Sangeet Kumar to see how India
 
     </div>
     <div class="widget-footer">
-        <small data-timestamp="2026-02-12T11:40:42.317765+00:00">Updated 2026-02-12T11:40:42.317765+00:00</small>
+        <small data-timestamp="2026-02-12T13:10:49.924326+00:00">Updated 2026-02-12T13:10:49.924326+00:00</small>
     </div>
 </div>
 
@@ -1874,7 +1895,7 @@ Shereen Bhan steps inside Addverb with co-founder Sangeet Kumar to see how India
                             
                             <div class="video-meta-line">
                                 <div class="video-meta-item">
-                                    <span style="color: #9ca3af;">👁️ 58K</span>
+                                    <span style="color: #9ca3af;">👁️ 62K</span>
                                 </div>
                                 
                                 <div class="video-meta-item">
@@ -1883,7 +1904,7 @@ Shereen Bhan steps inside Addverb with co-founder Sangeet Kumar to see how India
                                 
                                 
                                 <div class="video-meta-item">
-                                    <span style="color: #9ca3af;">💬 112</span>
+                                    <span style="color: #9ca3af;">💬 125</span>
                                 </div>
                                 
                             </div>
@@ -1894,72 +1915,6 @@ Shereen Bhan steps inside Addverb with co-founder Sangeet Kumar to see how India
                                 
                                 <div class="video-meta-item">
                                     <span data-timestamp="1770763927.0"></span>
-                                </div>
-                                
-                            </div>
-                        </div>
-                    </div>
-                </div>
-                
-                <div class="carousel-card" onclick="window.open('https://www.youtube.com/watch?v=O3_t2JHbuo0', '_blank')">
-                    <!-- Video thumbnail (16:9 with play button overlay and duration badge) -->
-                    <div class="video-thumbnail" style="background-image: url('https://i.ytimg.com/vi/O3_t2JHbuo0/hqdefault.jpg');">
-                        
-                        <span class="duration-badge">10:29</span>
-                        
-                    </div>
-
-                    <div class="video-content">
-                        <!-- Video title (fixed 2-line height) -->
-                        <div class="video-title">
-                            <a href="https://www.youtube.com/watch?v=O3_t2JHbuo0" target="_blank" onclick="event.stopPropagation();">Sometimes, War Robots is literally UNPLAYABLE!</a>
-                        </div>
-
-                        <!-- Video description (if available) -->
-                        
-                        <div class="video-description">
-                            War Robots Gameplay, trying the UE VORTEX NUO but realizing that the robot is unplayable now with so much Bash, Boom and ...
-                        </div>
-                        
-
-                        <!-- Metadata (channel, engagement stats, publish date) -->
-                        <div class="video-meta">
-                            <!-- Channel name with avatar -->
-                            <div class="video-meta-line">
-                                
-                                <div class="video-meta-item video-channel">
-                                    
-                                    <img src="https://yt3.ggpht.com/h5yGNeNyetbR5ZNE5EnVPEN9wZ1di1XaK90j-uFX4YJVFnTA4K7QvGAd0ic2SWDintnjUbTGww=s88-c-k-c0x00ffffff-no-rj" alt="Manni-Gaming" class="channel-avatar">
-                                    
-                                    <a href="https://www.youtube.com/channel/UCoNrZLYzYTLow9OnyANLqrQ" target="_blank" onclick="event.stopPropagation();">Manni-Gaming</a>
-                                </div>
-                                
-                            </div>
-
-                            <!-- Engagement stats (views, likes, comments) -->
-                            
-                            <div class="video-meta-line">
-                                <div class="video-meta-item">
-                                    <span style="color: #9ca3af;">👁️ 5K</span>
-                                </div>
-                                
-                                <div class="video-meta-item">
-                                    <span style="color: #9ca3af;">👍 479</span>
-                                </div>
-                                
-                                
-                                <div class="video-meta-item">
-                                    <span style="color: #9ca3af;">💬 142</span>
-                                </div>
-                                
-                            </div>
-                            
-
-                            <!-- Published date -->
-                            <div class="video-meta-line">
-                                
-                                <div class="video-meta-item">
-                                    <span data-timestamp="1770868604.0"></span>
                                 </div>
                                 
                             </div>
@@ -2010,7 +1965,7 @@ Shereen Bhan steps inside Addverb with co-founder Sangeet Kumar to see how India
                                 </div>
                                 
                                 <div class="video-meta-item">
-                                    <span style="color: #9ca3af;">👍 367</span>
+                                    <span style="color: #9ca3af;">👍 369</span>
                                 </div>
                                 
                                 
@@ -2026,6 +1981,138 @@ Shereen Bhan steps inside Addverb with co-founder Sangeet Kumar to see how India
                                 
                                 <div class="video-meta-item">
                                     <span data-timestamp="1770684429.0"></span>
+                                </div>
+                                
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                
+                <div class="carousel-card" onclick="window.open('https://www.youtube.com/watch?v=O3_t2JHbuo0', '_blank')">
+                    <!-- Video thumbnail (16:9 with play button overlay and duration badge) -->
+                    <div class="video-thumbnail" style="background-image: url('https://i.ytimg.com/vi/O3_t2JHbuo0/hqdefault.jpg');">
+                        
+                        <span class="duration-badge">10:29</span>
+                        
+                    </div>
+
+                    <div class="video-content">
+                        <!-- Video title (fixed 2-line height) -->
+                        <div class="video-title">
+                            <a href="https://www.youtube.com/watch?v=O3_t2JHbuo0" target="_blank" onclick="event.stopPropagation();">Sometimes, War Robots is literally UNPLAYABLE!</a>
+                        </div>
+
+                        <!-- Video description (if available) -->
+                        
+                        <div class="video-description">
+                            War Robots Gameplay, trying the UE VORTEX NUO but realizing that the robot is unplayable now with so much Bash, Boom and ...
+                        </div>
+                        
+
+                        <!-- Metadata (channel, engagement stats, publish date) -->
+                        <div class="video-meta">
+                            <!-- Channel name with avatar -->
+                            <div class="video-meta-line">
+                                
+                                <div class="video-meta-item video-channel">
+                                    
+                                    <img src="https://yt3.ggpht.com/h5yGNeNyetbR5ZNE5EnVPEN9wZ1di1XaK90j-uFX4YJVFnTA4K7QvGAd0ic2SWDintnjUbTGww=s88-c-k-c0x00ffffff-no-rj" alt="Manni-Gaming" class="channel-avatar">
+                                    
+                                    <a href="https://www.youtube.com/channel/UCoNrZLYzYTLow9OnyANLqrQ" target="_blank" onclick="event.stopPropagation();">Manni-Gaming</a>
+                                </div>
+                                
+                            </div>
+
+                            <!-- Engagement stats (views, likes, comments) -->
+                            
+                            <div class="video-meta-line">
+                                <div class="video-meta-item">
+                                    <span style="color: #9ca3af;">👁️ 8K</span>
+                                </div>
+                                
+                                <div class="video-meta-item">
+                                    <span style="color: #9ca3af;">👍 660</span>
+                                </div>
+                                
+                                
+                                <div class="video-meta-item">
+                                    <span style="color: #9ca3af;">💬 197</span>
+                                </div>
+                                
+                            </div>
+                            
+
+                            <!-- Published date -->
+                            <div class="video-meta-line">
+                                
+                                <div class="video-meta-item">
+                                    <span data-timestamp="1770868604.0"></span>
+                                </div>
+                                
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                
+                <div class="carousel-card" onclick="window.open('https://www.youtube.com/watch?v=lW8_aHE68BE', '_blank')">
+                    <!-- Video thumbnail (16:9 with play button overlay and duration badge) -->
+                    <div class="video-thumbnail" style="background-image: url('https://i.ytimg.com/vi/lW8_aHE68BE/hqdefault.jpg');">
+                        
+                        <span class="duration-badge">3:09</span>
+                        
+                    </div>
+
+                    <div class="video-content">
+                        <!-- Video title (fixed 2-line height) -->
+                        <div class="video-title">
+                            <a href="https://www.youtube.com/watch?v=lW8_aHE68BE" target="_blank" onclick="event.stopPropagation();">Chinese robotics company’s world-first humanoid machine gala reveals high-tech surprises</a>
+                        </div>
+
+                        <!-- Video description (if available) -->
+                        
+                        <div class="video-description">
+                            Chinese robotics company AGIBOT redefined the intersection of technology and culture by hosting a historic 60-minute gala ...
+                        </div>
+                        
+
+                        <!-- Metadata (channel, engagement stats, publish date) -->
+                        <div class="video-meta">
+                            <!-- Channel name with avatar -->
+                            <div class="video-meta-line">
+                                
+                                <div class="video-meta-item video-channel">
+                                    
+                                    <img src="https://yt3.ggpht.com/LtCFX_IgcqOXKsqhTYjkMwMTFo42j6WJCehxqSFNq3fWyr6io-3cdQhh5KC3evcxltETifDkuQ=s88-c-k-c0x00ffffff-no-rj" alt="ABS-CBN News" class="channel-avatar">
+                                    
+                                    <a href="https://www.youtube.com/channel/UCE2606prvXQc_noEqKxVJXA" target="_blank" onclick="event.stopPropagation();">ABS-CBN News</a>
+                                </div>
+                                
+                            </div>
+
+                            <!-- Engagement stats (views, likes, comments) -->
+                            
+                            <div class="video-meta-line">
+                                <div class="video-meta-item">
+                                    <span style="color: #9ca3af;">👁️ 3K</span>
+                                </div>
+                                
+                                <div class="video-meta-item">
+                                    <span style="color: #9ca3af;">👍 41</span>
+                                </div>
+                                
+                                
+                                <div class="video-meta-item">
+                                    <span style="color: #9ca3af;">💬 26</span>
+                                </div>
+                                
+                            </div>
+                            
+
+                            <!-- Published date -->
+                            <div class="video-meta-line">
+                                
+                                <div class="video-meta-item">
+                                    <span data-timestamp="1770881872.0"></span>
                                 </div>
                                 
                             </div>
@@ -2068,16 +2155,16 @@ Shereen Bhan steps inside Addverb with co-founder Sangeet Kumar to see how India
                             
                             <div class="video-meta-line">
                                 <div class="video-meta-item">
-                                    <span style="color: #9ca3af;">👁️ 394K</span>
+                                    <span style="color: #9ca3af;">👁️ 401K</span>
                                 </div>
                                 
                                 <div class="video-meta-item">
-                                    <span style="color: #9ca3af;">👍 4K</span>
+                                    <span style="color: #9ca3af;">👍 5K</span>
                                 </div>
                                 
                                 
                                 <div class="video-meta-item">
-                                    <span style="color: #9ca3af;">💬 268</span>
+                                    <span style="color: #9ca3af;">💬 278</span>
                                 </div>
                                 
                             </div>
@@ -2088,6 +2175,72 @@ Shereen Bhan steps inside Addverb with co-founder Sangeet Kumar to see how India
                                 
                                 <div class="video-meta-item">
                                     <span data-timestamp="1770324594.0"></span>
+                                </div>
+                                
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                
+                <div class="carousel-card" onclick="window.open('https://www.youtube.com/watch?v=4iU9kfIZnhs', '_blank')">
+                    <!-- Video thumbnail (16:9 with play button overlay and duration badge) -->
+                    <div class="video-thumbnail" style="background-image: url('https://i.ytimg.com/vi/4iU9kfIZnhs/hqdefault.jpg');">
+                        
+                        <span class="duration-badge">1:21</span>
+                        
+                    </div>
+
+                    <div class="video-content">
+                        <!-- Video title (fixed 2-line height) -->
+                        <div class="video-title">
+                            <a href="https://www.youtube.com/watch?v=4iU9kfIZnhs" target="_blank" onclick="event.stopPropagation();">The real test for humanoid robots isn’t performance.</a>
+                        </div>
+
+                        <!-- Video description (if available) -->
+                        
+                        <div class="video-description">
+                            Humanoid robots don't fail at tasks. They fail at presence. The hardest part of building humanoid robots isn't hardware.
+                        </div>
+                        
+
+                        <!-- Metadata (channel, engagement stats, publish date) -->
+                        <div class="video-meta">
+                            <!-- Channel name with avatar -->
+                            <div class="video-meta-line">
+                                
+                                <div class="video-meta-item video-channel">
+                                    
+                                    <img src="https://yt3.ggpht.com/twcacRmP9_usbHvODJw7jnqlKs_MTtJZ9KGTUHWSdffh6nMobpoFTRyO-OmMK6k0EHF_xxLXdQ=s88-c-k-c0x00ffffff-no-rj" alt="Slidebean" class="channel-avatar">
+                                    
+                                    <a href="https://www.youtube.com/channel/UC4bq21IPPbpu0Qrsl7LW0sw" target="_blank" onclick="event.stopPropagation();">Slidebean</a>
+                                </div>
+                                
+                            </div>
+
+                            <!-- Engagement stats (views, likes, comments) -->
+                            
+                            <div class="video-meta-line">
+                                <div class="video-meta-item">
+                                    <span style="color: #9ca3af;">👁️ 14K</span>
+                                </div>
+                                
+                                <div class="video-meta-item">
+                                    <span style="color: #9ca3af;">👍 515</span>
+                                </div>
+                                
+                                
+                                <div class="video-meta-item">
+                                    <span style="color: #9ca3af;">💬 27</span>
+                                </div>
+                                
+                            </div>
+                            
+
+                            <!-- Published date -->
+                            <div class="video-meta-line">
+                                
+                                <div class="video-meta-item">
+                                    <span data-timestamp="1770681029.0"></span>
                                 </div>
                                 
                             </div>
@@ -2143,7 +2296,7 @@ Shereen Bhan steps inside Addverb with co-founder Sangeet Kumar to see how India
                                 
                                 
                                 <div class="video-meta-item">
-                                    <span style="color: #9ca3af;">💬 512</span>
+                                    <span style="color: #9ca3af;">💬 530</span>
                                 </div>
                                 
                             </div>
@@ -2154,6 +2307,72 @@ Shereen Bhan steps inside Addverb with co-founder Sangeet Kumar to see how India
                                 
                                 <div class="video-meta-item">
                                     <span data-timestamp="1770576830.0"></span>
+                                </div>
+                                
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                
+                <div class="carousel-card" onclick="window.open('https://www.youtube.com/watch?v=UNorxwlZlFk', '_blank')">
+                    <!-- Video thumbnail (16:9 with play button overlay and duration badge) -->
+                    <div class="video-thumbnail" style="background-image: url('https://i.ytimg.com/vi/UNorxwlZlFk/hqdefault.jpg');">
+                        
+                        <span class="duration-badge">1:38</span>
+                        
+                    </div>
+
+                    <div class="video-content">
+                        <!-- Video title (fixed 2-line height) -->
+                        <div class="video-title">
+                            <a href="https://www.youtube.com/watch?v=UNorxwlZlFk" target="_blank" onclick="event.stopPropagation();">Atlas Airborne | Boston Dynamics &amp; @rai-inst</a>
+                        </div>
+
+                        <!-- Video description (if available) -->
+                        
+                        <div class="video-description">
+                            Now that the Atlas enterprise platform is getting to work, the research version gets one last run in the sun. Our engineers made ...
+                        </div>
+                        
+
+                        <!-- Metadata (channel, engagement stats, publish date) -->
+                        <div class="video-meta">
+                            <!-- Channel name with avatar -->
+                            <div class="video-meta-line">
+                                
+                                <div class="video-meta-item video-channel">
+                                    
+                                    <img src="https://yt3.ggpht.com/ytc/AIdro_l_9S2MlIXZn2AUVHjznsbGST36FUd9vq_8bX8saLfT2g=s88-c-k-c0x00ffffff-no-rj" alt="Boston Dynamics" class="channel-avatar">
+                                    
+                                    <a href="https://www.youtube.com/channel/UC7vVhkEfw4nOGp8TyDk7RcQ" target="_blank" onclick="event.stopPropagation();">Boston Dynamics</a>
+                                </div>
+                                
+                            </div>
+
+                            <!-- Engagement stats (views, likes, comments) -->
+                            
+                            <div class="video-meta-line">
+                                <div class="video-meta-item">
+                                    <span style="color: #9ca3af;">👁️ 1.5M</span>
+                                </div>
+                                
+                                <div class="video-meta-item">
+                                    <span style="color: #9ca3af;">👍 41K</span>
+                                </div>
+                                
+                                
+                                <div class="video-meta-item">
+                                    <span style="color: #9ca3af;">💬 4K</span>
+                                </div>
+                                
+                            </div>
+                            
+
+                            <!-- Published date -->
+                            <div class="video-meta-line">
+                                
+                                <div class="video-meta-item">
+                                    <span data-timestamp="1770472851.0"></span>
                                 </div>
                                 
                             </div>
@@ -2227,138 +2446,6 @@ Shereen Bhan steps inside Addverb with co-founder Sangeet Kumar to see how India
                     </div>
                 </div>
                 
-                <div class="carousel-card" onclick="window.open('https://www.youtube.com/watch?v=4iU9kfIZnhs', '_blank')">
-                    <!-- Video thumbnail (16:9 with play button overlay and duration badge) -->
-                    <div class="video-thumbnail" style="background-image: url('https://i.ytimg.com/vi/4iU9kfIZnhs/hqdefault.jpg');">
-                        
-                        <span class="duration-badge">1:21</span>
-                        
-                    </div>
-
-                    <div class="video-content">
-                        <!-- Video title (fixed 2-line height) -->
-                        <div class="video-title">
-                            <a href="https://www.youtube.com/watch?v=4iU9kfIZnhs" target="_blank" onclick="event.stopPropagation();">The real test for humanoid robots isn’t performance.</a>
-                        </div>
-
-                        <!-- Video description (if available) -->
-                        
-                        <div class="video-description">
-                            Humanoid robots don't fail at tasks. They fail at presence. The hardest part of building humanoid robots isn't hardware.
-                        </div>
-                        
-
-                        <!-- Metadata (channel, engagement stats, publish date) -->
-                        <div class="video-meta">
-                            <!-- Channel name with avatar -->
-                            <div class="video-meta-line">
-                                
-                                <div class="video-meta-item video-channel">
-                                    
-                                    <img src="https://yt3.ggpht.com/twcacRmP9_usbHvODJw7jnqlKs_MTtJZ9KGTUHWSdffh6nMobpoFTRyO-OmMK6k0EHF_xxLXdQ=s88-c-k-c0x00ffffff-no-rj" alt="Slidebean" class="channel-avatar">
-                                    
-                                    <a href="https://www.youtube.com/channel/UC4bq21IPPbpu0Qrsl7LW0sw" target="_blank" onclick="event.stopPropagation();">Slidebean</a>
-                                </div>
-                                
-                            </div>
-
-                            <!-- Engagement stats (views, likes, comments) -->
-                            
-                            <div class="video-meta-line">
-                                <div class="video-meta-item">
-                                    <span style="color: #9ca3af;">👁️ 14K</span>
-                                </div>
-                                
-                                <div class="video-meta-item">
-                                    <span style="color: #9ca3af;">👍 514</span>
-                                </div>
-                                
-                                
-                                <div class="video-meta-item">
-                                    <span style="color: #9ca3af;">💬 27</span>
-                                </div>
-                                
-                            </div>
-                            
-
-                            <!-- Published date -->
-                            <div class="video-meta-line">
-                                
-                                <div class="video-meta-item">
-                                    <span data-timestamp="1770681029.0"></span>
-                                </div>
-                                
-                            </div>
-                        </div>
-                    </div>
-                </div>
-                
-                <div class="carousel-card" onclick="window.open('https://www.youtube.com/watch?v=UNorxwlZlFk', '_blank')">
-                    <!-- Video thumbnail (16:9 with play button overlay and duration badge) -->
-                    <div class="video-thumbnail" style="background-image: url('https://i.ytimg.com/vi/UNorxwlZlFk/hqdefault.jpg');">
-                        
-                        <span class="duration-badge">1:38</span>
-                        
-                    </div>
-
-                    <div class="video-content">
-                        <!-- Video title (fixed 2-line height) -->
-                        <div class="video-title">
-                            <a href="https://www.youtube.com/watch?v=UNorxwlZlFk" target="_blank" onclick="event.stopPropagation();">Atlas Airborne | Boston Dynamics &amp; @rai-inst</a>
-                        </div>
-
-                        <!-- Video description (if available) -->
-                        
-                        <div class="video-description">
-                            Now that the Atlas enterprise platform is getting to work, the research version gets one last run in the sun. Our engineers made ...
-                        </div>
-                        
-
-                        <!-- Metadata (channel, engagement stats, publish date) -->
-                        <div class="video-meta">
-                            <!-- Channel name with avatar -->
-                            <div class="video-meta-line">
-                                
-                                <div class="video-meta-item video-channel">
-                                    
-                                    <img src="https://yt3.ggpht.com/ytc/AIdro_l_9S2MlIXZn2AUVHjznsbGST36FUd9vq_8bX8saLfT2g=s88-c-k-c0x00ffffff-no-rj" alt="Boston Dynamics" class="channel-avatar">
-                                    
-                                    <a href="https://www.youtube.com/channel/UC7vVhkEfw4nOGp8TyDk7RcQ" target="_blank" onclick="event.stopPropagation();">Boston Dynamics</a>
-                                </div>
-                                
-                            </div>
-
-                            <!-- Engagement stats (views, likes, comments) -->
-                            
-                            <div class="video-meta-line">
-                                <div class="video-meta-item">
-                                    <span style="color: #9ca3af;">👁️ 1.4M</span>
-                                </div>
-                                
-                                <div class="video-meta-item">
-                                    <span style="color: #9ca3af;">👍 41K</span>
-                                </div>
-                                
-                                
-                                <div class="video-meta-item">
-                                    <span style="color: #9ca3af;">💬 4K</span>
-                                </div>
-                                
-                            </div>
-                            
-
-                            <!-- Published date -->
-                            <div class="video-meta-line">
-                                
-                                <div class="video-meta-item">
-                                    <span data-timestamp="1770472851.0"></span>
-                                </div>
-                                
-                            </div>
-                        </div>
-                    </div>
-                </div>
-                
                 <div class="carousel-card" onclick="window.open('https://www.youtube.com/watch?v=BHKQFCh-7fg', '_blank')">
                     <!-- Video thumbnail (16:9 with play button overlay and duration badge) -->
                     <div class="video-thumbnail" style="background-image: url('https://i.ytimg.com/vi/BHKQFCh-7fg/hqdefault.jpg');">
@@ -2402,7 +2489,7 @@ Shereen Bhan steps inside Addverb with co-founder Sangeet Kumar to see how India
                                 </div>
                                 
                                 <div class="video-meta-item">
-                                    <span style="color: #9ca3af;">👍 832</span>
+                                    <span style="color: #9ca3af;">👍 833</span>
                                 </div>
                                 
                                 
@@ -2418,72 +2505,6 @@ Shereen Bhan steps inside Addverb with co-founder Sangeet Kumar to see how India
                                 
                                 <div class="video-meta-item">
                                     <span data-timestamp="1770719257.0"></span>
-                                </div>
-                                
-                            </div>
-                        </div>
-                    </div>
-                </div>
-                
-                <div class="carousel-card" onclick="window.open('https://www.youtube.com/watch?v=eh2wV1T62qc', '_blank')">
-                    <!-- Video thumbnail (16:9 with play button overlay and duration badge) -->
-                    <div class="video-thumbnail" style="background-image: url('https://i.ytimg.com/vi/eh2wV1T62qc/hqdefault.jpg');">
-                        
-                        <span class="duration-badge">0:36</span>
-                        
-                    </div>
-
-                    <div class="video-content">
-                        <!-- Video title (fixed 2-line height) -->
-                        <div class="video-title">
-                            <a href="https://www.youtube.com/watch?v=eh2wV1T62qc" target="_blank" onclick="event.stopPropagation();">Ukraine’s UGV Deploying TM 62 Anti Tank Mines!</a>
-                        </div>
-
-                        <!-- Video description (if available) -->
-                        
-                        <div class="video-description">
-                            On the snowy frontlines of Eastern Ukraine, innovation is saving lives. Watch as a compact Ukrainian Unmanned Ground Vehicle ...
-                        </div>
-                        
-
-                        <!-- Metadata (channel, engagement stats, publish date) -->
-                        <div class="video-meta">
-                            <!-- Channel name with avatar -->
-                            <div class="video-meta-line">
-                                
-                                <div class="video-meta-item video-channel">
-                                    
-                                    <img src="https://yt3.ggpht.com/D4xD2Rok9EBK-x5lLcuDv6E-x8kD4p20QfMfajQOwORgJeb-sDGjBLl4f9pFsf3aswVtA-tEu2s=s88-c-k-c0x00ffffff-no-rj" alt="Defense Digest" class="channel-avatar">
-                                    
-                                    <a href="https://www.youtube.com/channel/UCRYxgDfTiAJitH9AefeabwA" target="_blank" onclick="event.stopPropagation();">Defense Digest</a>
-                                </div>
-                                
-                            </div>
-
-                            <!-- Engagement stats (views, likes, comments) -->
-                            
-                            <div class="video-meta-line">
-                                <div class="video-meta-item">
-                                    <span style="color: #9ca3af;">👁️ 13K</span>
-                                </div>
-                                
-                                <div class="video-meta-item">
-                                    <span style="color: #9ca3af;">👍 266</span>
-                                </div>
-                                
-                                
-                                <div class="video-meta-item">
-                                    <span style="color: #9ca3af;">💬 5</span>
-                                </div>
-                                
-                            </div>
-                            
-
-                            <!-- Published date -->
-                            <div class="video-meta-line">
-                                
-                                <div class="video-meta-item">
-                                    <span data-timestamp="1770800094.0"></span>
                                 </div>
                                 
                             </div>
@@ -2511,7 +2532,7 @@ Shereen Bhan steps inside Addverb with co-founder Sangeet Kumar to see how India
 
     </div>
     <div class="widget-footer">
-        <small data-timestamp="2026-02-12T09:52:35.732648+00:00">Updated 2026-02-12T09:52:35.732648+00:00</small>
+        <small data-timestamp="2026-02-12T13:10:44.369591+00:00">Updated 2026-02-12T13:10:44.369591+00:00</small>
     </div>
 </div>
 
