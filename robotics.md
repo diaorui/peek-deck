@@ -3,13 +3,13 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-02-12T04:37:02.785862+00:00'
+updated: '2026-02-12T06:05:41.047148+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- news
 - videos
+- news
 - social
 ---
 
@@ -17,7 +17,7 @@ data_types:
 
 Robotics research and industry news
 
-**Last Updated:** February 12, 2026 at 04:37 UTC  
+**Last Updated:** February 12, 2026 at 06:05 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -36,7 +36,7 @@ Robotics research and industry news
 
 I built this last year. Made those suction cups from scratch, it has camera, TOF and force/touch sensors. Does anyone see a useful use case for this robot? I’m of out of ideas! :)
 
-4h ago
+6h ago
 
 ---
 
@@ -44,7 +44,15 @@ I built this last year. Made those suction cups from scratch, it has camera, TOF
 
 Boston Dynamics CEO Robert Playter told staff on Tuesday that he'll be stepping down from the company. He first joined Boston Dynamics in 1994.
 
-🔗 [Business Insider](https://www.businessinsider.com/boston-dynamics-ceo-robert-playter-steps-down-memo-2026-2) • 10h ago
+🔗 [Business Insider](https://www.businessinsider.com/boston-dynamics-ceo-robert-playter-steps-down-memo-2026-2) • 12h ago
+
+---
+
+**[Noise is all you need to bridge the sim2real gap](https://www.reddit.com/r/robotics/comments/1r2kgus/noise_is_all_you_need_to_bridge_the_sim2real_gap/)**
+
+We're sharing how we bridged the Sim-to-Real gap by simulating the embedded system, not just the physics. We kept running into the same problem with Asimov Legs. Policies that worked perfectly in sim failed on hardware. Not because physics was off, but because of CAN packet delays, thread timing, and IMU drift. So we stopped simulating just the robot body and started simulating the entire embedded environment. Our production firmware (C/C++) runs unmodified inside the sim. It doesn't know it's in a simulation. The setup: MuJoCo Physics -> Raw IMU Data -> I2C Emulator -> Firmware Sensor Fusion (C) -> Control Loop -> CANBus Emulator -> Motor Emulator -> back to MuJoCo Raw accel/gyro data streams over an emulated I2C bus (register-level lsm6dsox behavior), firmware runs xioTechnologies/Fusion library in C for gravity estimation, and torque commands go through an emulated CANbus. The key part, Motor Emulator injects random jitter (0.4ms–2ms uniform) between command and response. Our motor datasheet claims 0.4ms response time. Reality is different: Firmware -> CMD Torque Request (t=0) -> CANbus Emulator -> [INJECTED JITTER 0.4-2.0ms] -> MuJoCo -> New State -> Firmware If the firmware isn't ready when the response comes back, the control loop breaks. Same as real life. This caught race conditions in threading, CAN parsing errors under load, policy jitter intolerance, and sensor fusion drift from timing mismatches. All stuff we used to only find on real hardware. Result: zero-shot sim2real locomotion on our 12-DOF biped from a single policy Forward/backward walking (0.6m/s), lateral movement, and push recovery Previously we tried this with a Unitree G1 and couldn't get there. Closed firmware hides the failure modes. Sim2real is fundamentally an observability problem. Full writeup with codes & analysis: https://news.asimov.inc/p/noise-is-all-you-need
+
+1h ago
 
 ---
 
@@ -52,7 +60,7 @@ Boston Dynamics CEO Robert Playter told staff on Tuesday that he'll be stepping 
 
 Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.
 
-🔗 [youtube.com](https://www.youtube.com/shorts/rWqI9G9763o) • 2h ago
+🔗 [youtube.com](https://www.youtube.com/shorts/rWqI9G9763o) • 3h ago
 
 ---
 
@@ -60,7 +68,7 @@ Enjoy the videos and music you love, upload original content, and share it all w
 
 Is buying a humanoid robot a wise investment or expensive toy I'll regret purchasing soon after? The technology fascinates me and prices have dropped significantly from where they were years ago. My tech collection includes various gadgets but a robot would be the centerpiece that elevates everything dramatically. What would I actually use it for beyond the initial novelty that wears off after a few weeks? The programming aspects interest me and could teach valuable skills for my career in technology. But am I justifying an expensive purchase with educational excuses when really I just want a cool toy? My practical side says this money should go toward retirement savings or home improvements instead. My adventurous side says life is short and experiencing cutting edge technology creates memories worth more than money. The household assistance features seem limited currently so it wouldn't replace any actual daily tasks or chores. Voice interaction could be entertaining but my phone already does that without costing thousands of extra dollars. My kids would absolutely love it and it might inspire interest in robotics and programming as careers. Is that enough justification or am I rationalizing a selfish purchase by claiming it's educational for them? Reviews are mixed with some people thrilled and others disappointed by limitations of current technology. I found models on Alibaba at various price points but I'm struggling to justify this purchase practically.
 
-2h ago
+4h ago
 
 ---
 
@@ -68,7 +76,7 @@ Is buying a humanoid robot a wise investment or expensive toy I'll regret purcha
 
 I’m interested in designing a robot with wheels and tracks similar to this style, but I don’t yet have much experience developing this type of system from scratch. I have some knowledge of AutoCAD and recently started using Fusion 360 with the goal of learning more about project development focused on robotics. I’m able to interpret technical drawings in multiple views and model them in 3D, as well as replicate existing models. However, my experience is limited to that. I have never designed a complete system entirely from scratch, especially something like an articulated track system that works together with drive wheels. I would appreciate guidance or advice on how to properly start and structure this kind of project.
 
-10h ago
+12h ago
 
 ---
 
@@ -84,7 +92,7 @@ Hey everyone! I'm going to be starting a robotics club at my community college a
 
 Hi everyone, I currently have a real-world setup consisting of a UR3e with a flat square platform attached to the end effector. There’s a ball on top of the platform, and I use a camera detection pipeline to detect the ball position and balance it. The controller is currently a simple PID (though I’m working toward switching to MPC). Now I want to build a digital twin / simulation of this system. I’m considering MuJoCo, but I have zero experience with it. I’ve also heard about something like the ROS–Unity integration / ROS Unity Hub, and I’m not sure which direction makes more sense or where I should start. What I want to achieve in simulation: Import a URDF of the UR3e Attach a static square platform to the end effector (this part seems straightforward) Add a ball that rolls on top of the platform Have proper collision and physics behavior The platform has four sides (like a shallow box), so if the ball hits the edge, it should collide and stop rather than just fall off If the end effector tilts, the plate tilts The ball should realistically roll “downhill” due to gravity when the plate is tilted So my main physics questions: Is this realistically achievable in both MuJoCo and Unity? Can I define proper rolling friction and contact friction between the ball and the plate? Will the physics engine handle realistic rolling behavior when I tilt the TCP? Matching Simulation to Reality (Friction Identification) Another big question: how would you recommend estimating the friction coefficients from the real system so I can plug them into the simulation? I was thinking something along the lines of: Tilt the plate to a known angle Measure how long the ball takes to travel across a 40 cm plate Repeat multiple times Use that data to estimate an effective friction coefficient Is that a reasonable approach? Are there better system identification methods people typically use for this kind of setup? Real-Time Digital Twin Long-term, I would like: When the real robot is balancing the ball, the simulated version reflects the same joint motions and plate tilt. While working purely in simulation, I’d also like a simulated camera plugin that gives me the ball position, which feeds into my detection pipeline and controller (PID now, possibly MPC later). So effectively: Simulation → virtual camera → detection → controller → robot motion And eventually also: real robot → mirrored digital twin Main Questions Would you recommend MuJoCo or Unity (ROS integration) for this use case? Where would you start if you had zero experience with both? Is one significantly better for contact-rich rolling dynamics like this? Has anyone built something similar (ball balancing / contact dynamics on a robot arm)? I also found a Unity UR simulation project that I can link below if helpful. Any guidance on architecture, tools, or first steps would be greatly appreciated. Thanks! TL;DR: I have a UR3e ball-balancing setup and want to build a physics-accurate digital twin (with rolling friction, collisions, and camera simulation). Should I use MuJoCo or Unity/ROS, and how would I match real-world friction parameters to simulation? Links: - https://github.com/rparak/Unity3D_Robotics_UR
 
-19h ago
+20h ago
 
 ---
 
@@ -102,14 +110,6 @@ While developing ROS2 applications for robotic arm projects, we found it was dif
 
 ---
 
-**[K-bot](https://www.reddit.com/r/robotics/comments/1r18pvw/kbot/)**
-
-Hello everyone, since K-Scale Labs (https://kscale.ai) shut down and they still kept everything open-source on their GitHub page, I was wondering if anyone has actually tried to build their humanoid robot on their own. Do you guys think it would be worth it or not and why?
-
-1d ago
-
----
-
 ---
 
 ## Google News: "robotics"
@@ -118,15 +118,23 @@ Hello everyone, since K-Scale Labs (https://kscale.ai) shut down and they still 
 
 Upside Robotics builds autonomous solar-powered robots that can help farmers reduce their fertilizer use by 70%.
 
-TechCrunch • 12h ago
+TechCrunch • 14h ago
 
 ---
 
-**[Haply Robotics raises $16 million to build the “steering wheels” for physical AI](https://betakit.com/haply-robotics-raises-16-million-to-build-the-steering-wheels-for-physical-ai/)**
+**[China: Humanoid robots perform kung fu moves with Shaolin monks in a viral video](https://interestingengineering.com/ai-robotics/humanoid-robots-kung-fu-with-shaolin-monks)**
 
-How the Montréal startup plans to own the touch layer of robotics.
+A group of humanoid robots made by Agibot performed kung fu moves at the Shaolin Temple in China, captivating viewers with their capabilities.
 
-BetaKit • 2d ago
+Interesting Engineering • 2d ago
+
+---
+
+**[Bedrock Robotics raises $270M in red-hot AI sector](https://www.constructiondive.com/news/bedrock-robotics-raise-ai-automation-funding/811982/)**
+
+The autonomous construction tech provider now boasts total funding of over $350 million and a valuation of $1.75 billion.
+
+Construction Dive • 11h ago
 
 ---
 
@@ -146,25 +154,11 @@ CNBC • 1d ago
 
 ---
 
-**[Alibaba Pushes Into Robotics AI With Open-Source ‘RynnBrain’](https://www.bloomberg.com/news/articles/2026-02-10/alibaba-pushes-into-robotics-ai-with-open-source-rynnbrain)**
-
-Bloomberg.com • 1d ago
-
----
-
-**[Construction Embraces AI Agents, Safety Systems and Robotics as Labor Pressures Mount](https://www.pymnts.com/artificial-intelligence-2/2026/construction-embraces-ai-agents-safety-systems-and-robotics-as-labor-pressures-mount/)**
-
-Artificial intelligence is no longer confined to experimental pilots in the construction industry. It is moving into the operational core of how projects
-
-PYMNTS.com • 1d ago
-
----
-
 **[Maui students vie for world robotics championship slots](https://mauinow.com/2026/02/11/maui-students-vie-for-world-robotics-championship-slots/)**
 
 Maui County robotics teams will battle rivals statewide this month for 14 coveted spots at the 2026 VEX Robotics World Championships. The Hawaiʻi VEX Regional Championships will draw 114 teams representing public and private schools, as well as club and home organizations from Maui County, Oʻahu and Hawaiʻi Island. The events are free to the [&hellip;]
 
-Maui Now • 12h ago
+Maui Now • 14h ago
 
 ---
 
@@ -172,7 +166,7 @@ Maui Now • 12h ago
 
 Tesla stock got its latest synopsis from Wall Street analyst Jim Cramer, who finally realized something that many fans of the company have known all along: it's not a car company. Instead, it's a robotics company.
 
-Teslarati • 9h ago
+Teslarati • 10h ago
 
 ---
 
@@ -187,6 +181,14 @@ The Motley Fool • 2d ago
 **[Tesla's Robotics Revolution Won't Save It (NASDAQ:TSLA)](https://seekingalpha.com/article/4867567-teslas-robotics-revolution-would-not-save-it)**
 
 Seeking Alpha • 2d ago
+
+---
+
+**[Construction Embraces AI Agents, Safety Systems and Robotics as Labor Pressures Mount](https://www.pymnts.com/artificial-intelligence-2/2026/construction-embraces-ai-agents-safety-systems-and-robotics-as-labor-pressures-mount/)**
+
+Artificial intelligence is no longer confined to experimental pilots in the construction industry. It is moving into the operational core of how projects
+
+PYMNTS.com • 1d ago
 
 ---
 
@@ -290,7 +292,7 @@ The AI and robot situation is growing much faster than we think. Ai, mass survei
 
 📺 Aaron Page 
 
-👁️ 5K • 👍 692 • 💬 89 • ⏱️ 24:43 • 5h ago
+👁️ 5K • 👍 692 • 💬 89 • ⏱️ 24:43 • 7h ago
 
 ---
 

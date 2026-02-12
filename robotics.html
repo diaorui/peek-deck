@@ -57,7 +57,7 @@
             "name": "PeekDeck",
             "url": "https://peekdeck.ruidiao.dev"
           },
-          "dateModified": "2026-02-12T04:37:02.411099+00:00"
+          "dateModified": "2026-02-12T06:05:40.638262+00:00"
         },
         {
           "@type": "BreadcrumbList",
@@ -699,6 +699,41 @@
                     </div>
                 </div>
                 
+                <div class="carousel-card" onclick="window.open('https://www.reddit.com/r/robotics/comments/1r2kgus/noise_is_all_you_need_to_bridge_the_sim2real_gap/', '_blank')">
+                    <div class="post-thumbnail">
+                        
+                        <img src="https://external-preview.redd.it/aXY4ZW02YXR0emlnMWZzDitSehkQOFswiV4B68SqOItCMsZreC9F040Ezjg4.png?width=640&crop=smart&auto=webp&s=97b92c3a0228379cade06abd7f317fe6500d7c85" alt="Noise is all you need to bridge the sim2real gap" onerror="this.style.display='none'" loading="lazy">
+                        
+                    </div>
+
+                    <div class="post-content">
+                        <!-- Post title -->
+                        <div class="post-title">
+                            <a href="https://www.reddit.com/r/robotics/comments/1r2kgus/noise_is_all_you_need_to_bridge_the_sim2real_gap/" target="_blank" onclick="event.stopPropagation();">Noise is all you need to bridge the sim2real gap</a>
+                        </div>
+
+                        <!-- Rich description (if available) -->
+                        
+                        <div class="post-description">
+                            We're sharing how we bridged the Sim-to-Real gap by simulating the embedded system, not just the physics. We kept running into the same problem with Asimov Legs. Policies that worked perfectly in sim failed on hardware. Not because physics was off, but because of CAN packet delays, thread timing, and IMU drift. So we stopped simulating just the robot body and started simulating the entire embedded environment. Our production firmware (C/C++) runs unmodified inside the sim. It doesn't know it's in a simulation. The setup: MuJoCo Physics -> Raw IMU Data -> I2C Emulator -> Firmware Sensor Fusion (C) -> Control Loop -> CANBus Emulator -> Motor Emulator -> back to MuJoCo Raw accel/gyro data streams over an emulated I2C bus (register-level lsm6dsox behavior), firmware runs xioTechnologies/Fusion library in C for gravity estimation, and torque commands go through an emulated CANbus. The key part, Motor Emulator injects random jitter (0.4ms–2ms uniform) between command and response. Our motor datasheet claims 0.4ms response time. Reality is different: Firmware -> CMD Torque Request (t=0) -> CANbus Emulator -> [INJECTED JITTER 0.4-2.0ms] -> MuJoCo -> New State -> Firmware If the firmware isn't ready when the response comes back, the control loop breaks. Same as real life. This caught race conditions in threading, CAN parsing errors under load, policy jitter intolerance, and sensor fusion drift from timing mismatches. All stuff we used to only find on real hardware. Result: zero-shot sim2real locomotion on our 12-DOF biped from a single policy Forward/backward walking (0.6m/s), lateral movement, and push recovery Previously we tried this with a Unitree G1 and couldn't get there. Closed firmware hides the failure modes. Sim2real is fundamentally an observability problem. Full writeup with codes & analysis: https://news.asimov.inc/p/noise-is-all-you-need
+                        </div>
+                        
+
+                        <!-- Metadata -->
+                        <div class="post-meta">
+                            <div class="post-meta-line">
+                                
+                                <div class="post-meta-item">
+                                    <span data-timestamp="1770872212.0"></span>
+                                </div>
+                                
+                                <!-- External article source (on same line as time) -->
+                                
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                
                 <div class="carousel-card" onclick="window.open('https://www.reddit.com/r/robotics/comments/1r2h1v9/animating_a_orin_nano_super_based_robot_via_a/', '_blank')">
                     <div class="post-thumbnail">
                         
@@ -962,39 +997,6 @@
                     </div>
                 </div>
                 
-                <div class="carousel-card" onclick="window.open('https://www.reddit.com/r/robotics/comments/1r18pvw/kbot/', '_blank')">
-                    <div class="post-thumbnail">
-                        
-                    </div>
-
-                    <div class="post-content">
-                        <!-- Post title -->
-                        <div class="post-title">
-                            <a href="https://www.reddit.com/r/robotics/comments/1r18pvw/kbot/" target="_blank" onclick="event.stopPropagation();">K-bot</a>
-                        </div>
-
-                        <!-- Rich description (if available) -->
-                        
-                        <div class="post-description">
-                            Hello everyone, since K-Scale Labs (https://kscale.ai) shut down and they still kept everything open-source on their GitHub page, I was wondering if anyone has actually tried to build their humanoid robot on their own. Do you guys think it would be worth it or not and why?
-                        </div>
-                        
-
-                        <!-- Metadata -->
-                        <div class="post-meta">
-                            <div class="post-meta-line">
-                                
-                                <div class="post-meta-item">
-                                    <span data-timestamp="1770747966.0"></span>
-                                </div>
-                                
-                                <!-- External article source (on same line as time) -->
-                                
-                            </div>
-                        </div>
-                    </div>
-                </div>
-                
 
                 <!-- View All button at end of carousel -->
                 <div class="carousel-card"
@@ -1018,7 +1020,7 @@
 
     </div>
     <div class="widget-footer">
-        <small data-timestamp="2026-02-12T04:36:35.056716+00:00">Updated 2026-02-12T04:36:35.056716+00:00</small>
+        <small data-timestamp="2026-02-12T06:05:17.412216+00:00">Updated 2026-02-12T06:05:17.412216+00:00</small>
     </div>
 </div>
 
@@ -1245,20 +1247,20 @@
                     </div>
                 </div>
                 
-                <div class="carousel-card" onclick="window.open('https://betakit.com/haply-robotics-raises-16-million-to-build-the-steering-wheels-for-physical-ai/', '_blank')">
+                <div class="carousel-card" onclick="window.open('https://interestingengineering.com/ai-robotics/humanoid-robots-kung-fu-with-shaolin-monks', '_blank')">
                     <!-- Rich preview thumbnail (with fallback icon) -->
-                    <div class="article-thumbnail" style="background-image: url('https://cdn.betakit.com/wp-content/uploads/2026/02/Haply-Robotics-Founders-_-Colin-1.png');"></div>
+                    <div class="article-thumbnail" style="background-image: url('https://cms.interestingengineering.com/wp-content/uploads/2026/02/humanoids-performing-martial-arts.jpg');"></div>
 
                     <div class="article-content">
                         <!-- Article headline (fixed 3-line height) -->
                         <div class="news-headline">
-                            <a href="https://betakit.com/haply-robotics-raises-16-million-to-build-the-steering-wheels-for-physical-ai/" target="_blank" onclick="event.stopPropagation();">Haply Robotics raises $16 million to build the “steering wheels” for physical AI</a>
+                            <a href="https://interestingengineering.com/ai-robotics/humanoid-robots-kung-fu-with-shaolin-monks" target="_blank" onclick="event.stopPropagation();">China: Humanoid robots perform kung fu moves with Shaolin monks in a viral video</a>
                         </div>
 
                         <!-- Rich description (if available) -->
                         
                         <div class="article-description">
-                            How the Montréal startup plans to own the touch layer of robotics.
+                            A group of humanoid robots made by Agibot performed kung fu moves at the Shaolin Temple in China, captivating viewers with their capabilities.
                         </div>
                         
 
@@ -1268,9 +1270,9 @@
                                 
                                 <div class="news-meta-item news-source">
                                     
-                                    <img src="https://encrypted-tbn2.gstatic.com/faviconV2?url=https://betakit.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
-                                         alt="BetaKit" class="news-favicon">
-                                    <a href="https://betakit.com" target="_blank" onclick="event.stopPropagation();">BetaKit</a>
+                                    <img src="https://encrypted-tbn2.gstatic.com/faviconV2?url=https://interestingengineering.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+                                         alt="Interesting Engineering" class="news-favicon">
+                                    <a href="https://interestingengineering.com" target="_blank" onclick="event.stopPropagation();">Interesting Engineering</a>
                                     
                                 </div>
                                 
@@ -1278,7 +1280,48 @@
                             <div class="news-meta-line">
                                 
                                 <div class="news-meta-item">
-                                    <span data-timestamp="1770654678.0"></span>
+                                    <span data-timestamp="1770634920.0"></span>
+                                </div>
+                                
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                
+                <div class="carousel-card" onclick="window.open('https://www.constructiondive.com/news/bedrock-robotics-raise-ai-automation-funding/811982/', '_blank')">
+                    <!-- Rich preview thumbnail (with fallback icon) -->
+                    <div class="article-thumbnail" style="background-image: url('https://imgproxy.divecdn.com/6Y8Cohtatm_Dr0usJgCtvvnktQVA4GR-8SwpjYhdBRg/g:ce/rs:fit:770:435/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9CZWRyb2NrLU9wZXJhdG9yLVN5c3RlbS5qcGc=.webp');"></div>
+
+                    <div class="article-content">
+                        <!-- Article headline (fixed 3-line height) -->
+                        <div class="news-headline">
+                            <a href="https://www.constructiondive.com/news/bedrock-robotics-raise-ai-automation-funding/811982/" target="_blank" onclick="event.stopPropagation();">Bedrock Robotics raises $270M in red-hot AI sector</a>
+                        </div>
+
+                        <!-- Rich description (if available) -->
+                        
+                        <div class="article-description">
+                            The autonomous construction tech provider now boasts total funding of over $350 million and a valuation of $1.75 billion.
+                        </div>
+                        
+
+                        <!-- Metadata (source, time) -->
+                        <div class="news-meta">
+                            <div class="news-meta-line">
+                                
+                                <div class="news-meta-item news-source">
+                                    
+                                    <img src="https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.constructiondive.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+                                         alt="Construction Dive" class="news-favicon">
+                                    <a href="https://www.constructiondive.com" target="_blank" onclick="event.stopPropagation();">Construction Dive</a>
+                                    
+                                </div>
+                                
+                            </div>
+                            <div class="news-meta-line">
+                                
+                                <div class="news-meta-item">
+                                    <span data-timestamp="1770834238.0"></span>
                                 </div>
                                 
                             </div>
@@ -1361,84 +1404,6 @@
                                 
                                 <div class="news-meta-item">
                                     <span data-timestamp="1770721549.0"></span>
-                                </div>
-                                
-                            </div>
-                        </div>
-                    </div>
-                </div>
-                
-                <div class="carousel-card" onclick="window.open('https://www.bloomberg.com/news/articles/2026-02-10/alibaba-pushes-into-robotics-ai-with-open-source-rynnbrain', '_blank')">
-                    <!-- Rich preview thumbnail (with fallback icon) -->
-                    <div class="article-thumbnail" ></div>
-
-                    <div class="article-content">
-                        <!-- Article headline (fixed 3-line height) -->
-                        <div class="news-headline">
-                            <a href="https://www.bloomberg.com/news/articles/2026-02-10/alibaba-pushes-into-robotics-ai-with-open-source-rynnbrain" target="_blank" onclick="event.stopPropagation();">Alibaba Pushes Into Robotics AI With Open-Source ‘RynnBrain’</a>
-                        </div>
-
-                        <!-- Rich description (if available) -->
-                        
-
-                        <!-- Metadata (source, time) -->
-                        <div class="news-meta">
-                            <div class="news-meta-line">
-                                
-                                <div class="news-meta-item news-source">
-                                    
-                                    <img src="https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.bloomberg.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
-                                         alt="Bloomberg.com" class="news-favicon">
-                                    <a href="https://www.bloomberg.com" target="_blank" onclick="event.stopPropagation();">Bloomberg.com</a>
-                                    
-                                </div>
-                                
-                            </div>
-                            <div class="news-meta-line">
-                                
-                                <div class="news-meta-item">
-                                    <span data-timestamp="1770706380.0"></span>
-                                </div>
-                                
-                            </div>
-                        </div>
-                    </div>
-                </div>
-                
-                <div class="carousel-card" onclick="window.open('https://www.pymnts.com/artificial-intelligence-2/2026/construction-embraces-ai-agents-safety-systems-and-robotics-as-labor-pressures-mount/', '_blank')">
-                    <!-- Rich preview thumbnail (with fallback icon) -->
-                    <div class="article-thumbnail" style="background-image: url('https://www.pymnts.com/wp-content/uploads/2026/02/construction-AI1.jpg');"></div>
-
-                    <div class="article-content">
-                        <!-- Article headline (fixed 3-line height) -->
-                        <div class="news-headline">
-                            <a href="https://www.pymnts.com/artificial-intelligence-2/2026/construction-embraces-ai-agents-safety-systems-and-robotics-as-labor-pressures-mount/" target="_blank" onclick="event.stopPropagation();">Construction Embraces AI Agents, Safety Systems and Robotics as Labor Pressures Mount</a>
-                        </div>
-
-                        <!-- Rich description (if available) -->
-                        
-                        <div class="article-description">
-                            Artificial intelligence is no longer confined to experimental pilots in the construction industry. It is moving into the operational core of how projects
-                        </div>
-                        
-
-                        <!-- Metadata (source, time) -->
-                        <div class="news-meta">
-                            <div class="news-meta-line">
-                                
-                                <div class="news-meta-item news-source">
-                                    
-                                    <img src="https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.pymnts.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
-                                         alt="PYMNTS.com" class="news-favicon">
-                                    <a href="https://www.pymnts.com" target="_blank" onclick="event.stopPropagation();">PYMNTS.com</a>
-                                    
-                                </div>
-                                
-                            </div>
-                            <div class="news-meta-line">
-                                
-                                <div class="news-meta-item">
-                                    <span data-timestamp="1770778362.0"></span>
                                 </div>
                                 
                             </div>
@@ -1606,6 +1571,47 @@
                     </div>
                 </div>
                 
+                <div class="carousel-card" onclick="window.open('https://www.pymnts.com/artificial-intelligence-2/2026/construction-embraces-ai-agents-safety-systems-and-robotics-as-labor-pressures-mount/', '_blank')">
+                    <!-- Rich preview thumbnail (with fallback icon) -->
+                    <div class="article-thumbnail" style="background-image: url('https://www.pymnts.com/wp-content/uploads/2026/02/construction-AI1.jpg');"></div>
+
+                    <div class="article-content">
+                        <!-- Article headline (fixed 3-line height) -->
+                        <div class="news-headline">
+                            <a href="https://www.pymnts.com/artificial-intelligence-2/2026/construction-embraces-ai-agents-safety-systems-and-robotics-as-labor-pressures-mount/" target="_blank" onclick="event.stopPropagation();">Construction Embraces AI Agents, Safety Systems and Robotics as Labor Pressures Mount</a>
+                        </div>
+
+                        <!-- Rich description (if available) -->
+                        
+                        <div class="article-description">
+                            Artificial intelligence is no longer confined to experimental pilots in the construction industry. It is moving into the operational core of how projects
+                        </div>
+                        
+
+                        <!-- Metadata (source, time) -->
+                        <div class="news-meta">
+                            <div class="news-meta-line">
+                                
+                                <div class="news-meta-item news-source">
+                                    
+                                    <img src="https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.pymnts.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+                                         alt="PYMNTS.com" class="news-favicon">
+                                    <a href="https://www.pymnts.com" target="_blank" onclick="event.stopPropagation();">PYMNTS.com</a>
+                                    
+                                </div>
+                                
+                            </div>
+                            <div class="news-meta-line">
+                                
+                                <div class="news-meta-item">
+                                    <span data-timestamp="1770778362.0"></span>
+                                </div>
+                                
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                
 
                 <!-- View All button at end of carousel -->
                 <div class="carousel-card" style="display: flex; align-items: center; justify-content: center; cursor: pointer; background: rgba(255, 255, 255, 0.05);"
@@ -1626,7 +1632,7 @@
 
     </div>
     <div class="widget-footer">
-        <small data-timestamp="2026-02-12T04:36:48.633113+00:00">Updated 2026-02-12T04:36:48.633113+00:00</small>
+        <small data-timestamp="2026-02-12T06:05:34.154312+00:00">Updated 2026-02-12T06:05:34.154312+00:00</small>
     </div>
 </div>
 

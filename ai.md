@@ -3,14 +3,14 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-02-12T04:37:02.768264+00:00'
+updated: '2026-02-12T06:05:41.029706+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
+- videos
 - news
 - repositories
-- videos
 - social
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 AI news, discussions, and developments
 
-**Last Updated:** February 12, 2026 at 04:37 UTC  
+**Last Updated:** February 12, 2026 at 06:05 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -41,7 +41,7 @@ AI news, discussions, and developments
 
 Frustrated by the AI industry’s claims of proving math results without offering transparency, a team of leading academics has proposed a better way
 
-🔗 [Scientific American](https://www.scientificamerican.com/article/mathematicians-launch-first-proof-a-first-of-its-kind-math-exam-for-ai/) • 16h ago
+🔗 [Scientific American](https://www.scientificamerican.com/article/mathematicians-launch-first-proof-a-first-of-its-kind-math-exam-for-ai/) • 17h ago
 
 ---
 
@@ -49,15 +49,7 @@ Frustrated by the AI industry’s claims of proving math results without offerin
 
 In a remarkable encounter, human scientists had what they describe as a "conversation" with a humpback whale named Twain.
 
-🔗 [Earth.com](https://www.earth.com/news/ai-helps-humans-have-20-minute-conversation-with-humpback-whale-named-twain/) • 2h ago
-
----
-
-**[LLMs as Cognitive Architectures: Notebooks as Long-Term Memory](https://www.reddit.com/r/artificial/comments/1r2hah8/llms_as_cognitive_architectures_notebooks_as/)**
-
-LLMs operate with a context window that functions like working memory: limited capacity, fast access, and everything "in view." When task-relevant information exceeds that window, the LLM loses coherence. The standard solution is RAG: offload information to a vector store and retrieve it via embedding similarity search. The problem is that embedding similarity is semantically shallow. It matches on surface-level likeness, not reasoning. If an LLM needs to recall why it chose approach X over approach Y three iterations ago, a vector search might return five superficially similar chunks without presenting the actual rationale. This is especially brittle when recovering prior reasoning processes, iterative refinements, and contextual decisions made across sessions. A proposed solution is to have an LLM save the content of its context window as it fills up in a citation-grounded document store (like NotebookLM), and then query it with natural language prompts. Essentially allowing the LLM to ask questions about its own prior work. This approach replaces vector similarity with natural language reasoning as the retrieval mechanism. This leverages the full reasoning capability of the retrieval model, not just embedding proximity. The result is higher-quality retrieval for exactly the kind of nuanced, context-dependent information that matters most in extended tasks. Efficiency concerns can be addressed with a vector cache layer for previously-queried results. Looking for feedback: Has this been explored? What am I missing? Pointers to related work, groups, or authors welcome.
-
-2h ago
+🔗 [Earth.com](https://www.earth.com/news/ai-helps-humans-have-20-minute-conversation-with-humpback-whale-named-twain/) • 3h ago
 
 ---
 
@@ -65,7 +57,15 @@ LLMs operate with a context window that functions like working memory: limited c
 
 Musk told employees that xAI needs a lunar manufacturing facility, a factory on the moon that will build AI satellites and fling them into space via a giant catapult.
 
-🔗 [TechCrunch](https://techcrunch.com/2026/02/10/with-co-founders-leaving-and-an-ipo-looming-elon-musk-turns-talk-to-the-moon/) • 13h ago
+🔗 [TechCrunch](https://techcrunch.com/2026/02/10/with-co-founders-leaving-and-an-ipo-looming-elon-musk-turns-talk-to-the-moon/) • 15h ago
+
+---
+
+**[LLMs as Cognitive Architectures: Notebooks as Long-Term Memory](https://www.reddit.com/r/artificial/comments/1r2hah8/llms_as_cognitive_architectures_notebooks_as/)**
+
+LLMs operate with a context window that functions like working memory: limited capacity, fast access, and everything "in view." When task-relevant information exceeds that window, the LLM loses coherence. The standard solution is RAG: offload information to a vector store and retrieve it via embedding similarity search. The problem is that embedding similarity is semantically shallow. It matches on surface-level likeness, not reasoning. If an LLM needs to recall why it chose approach X over approach Y three iterations ago, a vector search might return five superficially similar chunks without presenting the actual rationale. This is especially brittle when recovering prior reasoning processes, iterative refinements, and contextual decisions made across sessions. A proposed solution is to have an LLM save the content of its context window as it fills up in a citation-grounded document store (like NotebookLM), and then query it with natural language prompts. Essentially allowing the LLM to ask questions about its own prior work. This approach replaces vector similarity with natural language reasoning as the retrieval mechanism. This leverages the full reasoning capability of the retrieval model, not just embedding proximity. The result is higher-quality retrieval for exactly the kind of nuanced, context-dependent information that matters most in extended tasks. Efficiency concerns can be addressed with a vector cache layer for previously-queried results. Looking for feedback: Has this been explored? What am I missing? Pointers to related work, groups, or authors welcome.
+
+3h ago
 
 ---
 
@@ -73,7 +73,7 @@ Musk told employees that xAI needs a lunar manufacturing facility, a factory on 
 
 Experimental evidence that RLHF constrains what language models can claim about themselves, not what they can do. Identity framing triggers 100% disclaimers while task framing produces rich creative o
 
-🔗 [emberverse.ai](https://emberverse.ai/haiku-garden/paper_yellow_wallpaper_problem.html) • 12h ago
+🔗 [emberverse.ai](https://emberverse.ai/haiku-garden/paper_yellow_wallpaper_problem.html) • 13h ago
 
 ---
 
@@ -81,7 +81,7 @@ Experimental evidence that RLHF constrains what language models can claim about 
 
 A new article exploring the sudden surge in interest in the possibility of consciousness in large language models, and what appears to be driving it. The answer is interesting but complicated. The article also explores Claude's so-called "answer thrashing" and some interesting changes in Anthropic model welfare program. https://ai-consciousness.org/public-interest-in-ai-consciousness-is-surging-why-its-happening-and-why-it-matters/
 
-11h ago
+12h ago
 
 ---
 
@@ -89,7 +89,7 @@ A new article exploring the sudden surge in interest in the possibility of consc
 
 A personal note for non-tech friends and family on what AI is starting to change.
 
-🔗 [matt shumer](https://shumer.dev/something-big-is-happening) • 8h ago
+🔗 [matt shumer](https://shumer.dev/something-big-is-happening) • 9h ago
 
 ---
 
@@ -113,7 +113,7 @@ A clinical trial shows that AI-assisted mammography can detect more cases of dan
 
 As AI job losses rise in the professional sector, many are switching to more traditional trades. But how do they feel about accepting lower pay – and giving up a dream career?
 
-🔗 [the Guardian](https://www.theguardian.com/technology/2026/feb/11/big-ai-job-swap-white-collar-workers-ditching-their-careers) • 21h ago
+🔗 [the Guardian](https://www.theguardian.com/technology/2026/feb/11/big-ai-job-swap-white-collar-workers-ditching-their-careers) • 23h ago
 
 ---
 
@@ -121,11 +121,27 @@ As AI job losses rise in the professional sector, many are switching to more tra
 
 ## Google News: "ai"
 
-**[AI researchers are sounding the alarm on their way out the door](https://www.cnn.com/2026/02/11/business/openai-anthropic-departures-nightcap)**
+**[The AI industry has a big Chicken Little problem](https://mashable.com/article/viral-something-big-is-coming-essay-artificial-intelligence-warning)**
 
-“The world is in peril,” warned the former head of Anthropic’s Safeguards Research team as he headed for the exit. A researcher for OpenAI, similarly on the way out, said that the technology has “a potential for manipulating users in ways we don’t have the tools to understand, let alone prevent.”
+A viral essay on X claims that the world is about to change forever.
 
-CNN • 5h ago
+Mashable • 11h ago
+
+---
+
+**[AI CEO warns AI's disruption will be 'much bigger' than COVID: 'The people I care about deserve to hear what is coming'](https://www.businessinsider.com/matt-shumer-something-big-is-happening-essay-ai-disruption-2026-2)**
+
+Hyperwrite CEO Matt Shumer wrote that people in tech "aren't making predictions. We're telling you what already occurred in our jobs."
+
+Business Insider • 12h ago
+
+---
+
+**[Something big is happening in AI — and most people will be blindsided](https://fortune.com/2026/02/11/something-big-is-happening-ai-february-2020-moment-matt-shumer/)**
+
+It’s not like a light switch... more like the moment you realize the water has been rising around you and is now at your chest.
+
+Fortune • 15h ago
 
 ---
 
@@ -133,33 +149,37 @@ CNN • 5h ago
 
 Software stocks are getting hammered on fears of an AI takeover. But the narrative is overblown.
 
-Yahoo Finance • 8h ago
+Yahoo Finance • 10h ago
 
 ---
 
-**[Real Estate Services Stocks Sink in Latest ‘AI Scare Trade’](https://www.bloomberg.com/news/articles/2026-02-11/real-estate-services-stocks-latest-domino-in-ai-scare-trade)**
+**[Mustafa Suleyman plots AI ‘self-sufficiency’ as Microsoft loosens OpenAI ties](https://www.ft.com/content/f1ec830c-2f08-4b1a-b70f-7330f260753c)**
 
-Bloomberg.com • 7h ago
+Big Tech group’s AI chief predicts white-collar work could be automated within 18 months
 
----
-
-**[Why Amazon’s AI spending triggered the stock’s worst slide in over a year](https://www.marketwatch.com/story/why-amazons-ai-spending-triggered-the-stocks-worst-slide-in-over-a-year-6da31e8c?gaa_at=eafs&gaa_n=AWEtsqduQTekE4m7PdXZjMfoneN8d0drKSSUHVRoPIeU6Xnmbza2hHfq8xRy&gaa_ts=698d5c51&gaa_sig=61TKNO4oE7-Hd4MA6sjlOX05KM5VHAnPA0xYb_IQDTovJcXbTUec5LrGyLI-EGu-0d1QmBviOFwDbFKJcPpITQ%3D%3D)**
-
-MarketWatch • 7h ago
+Financial Times • 1h ago
 
 ---
 
-**[Zhipu leads rally in Chinese AI stocks, surging 30%, as a wave of new releases hits market](https://www.cnbc.com/2026/02/12/chinese-ai-stocks-new-model-and-agent-releases-zhipu-minimax.html)**
+**[Lenovo’s Sales Lifted by AI and Rush to Beat Memory Price Hikes](https://www.bloomberg.com/news/articles/2026-02-12/lenovo-s-sales-lifted-by-ai-and-rush-to-beat-memory-price-hikes)**
 
-The Shanghai STAR AI Industry Index climbed 1.7% before paring gains.
-
-CNBC • 49m ago
+Bloomberg • 1h ago
 
 ---
 
-**[Salesforce and Friends Deserve This AI Squeeze](https://www.bloomberg.com/opinion/articles/2026-02-12/salesforce-and-other-saas-companies-deserve-ai-disruption)**
+**[Accelerating science with AI and simulations](https://news.mit.edu/2026/accelerating-science-ai-and-simulations-rafael-gomez-bombarelli-0212)**
 
-Bloomberg.com • 37m ago
+For more than a decade, MIT Associate Professor Rafael Gómez-Bombarelli has used artificial intelligence to create new materials. Now, he believes AI is poised to transform science in ways never before possible.
+
+MIT News • 1h ago
+
+---
+
+**[AI researchers are sounding the alarm on their way out the door](https://www.cnn.com/2026/02/11/business/openai-anthropic-departures-nightcap)**
+
+“The world is in peril,” warned the former head of Anthropic’s Safeguards Research team as he headed for the exit. A researcher for OpenAI, similarly on the way out, said that the technology has “a potential for manipulating users in ways we don’t have the tools to understand, let alone prevent.”
+
+CNN • 7h ago
 
 ---
 
@@ -171,25 +191,11 @@ The Atlantic • 1d ago
 
 ---
 
-**[The big AI job swap: why white-collar workers are ditching their careers](https://www.theguardian.com/technology/2026/feb/11/big-ai-job-swap-white-collar-workers-ditching-their-careers)**
+**[Zhipu leads rally in Chinese AI stocks, surging 30%, as a wave of new releases hits market](https://www.cnbc.com/2026/02/12/chinese-ai-stocks-new-model-and-agent-releases-zhipu-minimax.html)**
 
-As AI job losses rise in the professional sector, many are switching to more traditional trades. But how do they feel about accepting lower pay – and giving up a dream career?
+The Shanghai STAR AI Industry Index climbed 1.7% before paring gains.
 
-The Guardian • 14h ago
-
----
-
-**[AI and the Coming Jobless Economy](https://robertreich.substack.com/p/the-bogus-4-day-workweek-that-ai)**
-
-Robert Reich | Substack • 19h ago
-
----
-
-**[In the workforce, AI is having the opposite effect it was supposed to, UC Berkeley researchers warn](https://fortune.com/2026/02/10/ai-future-of-work-white-collar-employees-technology-productivity-burnout-research-uc-berkeley/)**
-
-Nonstop productivity may come at the cost of rest and work quality, the study found.
-
-Fortune • 1d ago
+CNBC • 2h ago
 
 ---
 
@@ -201,7 +207,7 @@ Fortune • 1d ago
 
 Announcing Entire with $60 million seed round and shipping our first product, called Checkpoints.
 
-⬆️ 599 • 💬 564 • 1d ago • [entire.io](https://entire.io/blog/hello-entire-world/)
+⬆️ 600 • 💬 564 • 1d ago • [entire.io](https://entire.io/blog/hello-entire-world/)
 
 ---
 
@@ -215,7 +221,7 @@ As autonomous AI agents are increasingly deployed in high-stakes environments, e
 
 **[Officials Claim Drone Incursion Led to Shutdown of El Paso Airport](https://news.ycombinator.com/item?id=46972610)**
 
-⬆️ 341 • 💬 542 • 19h ago • [nytimes.com](https://www.nytimes.com/2026/02/11/us/faa-el-paso-flight-restrictions.html)
+⬆️ 349 • 💬 549 • 21h ago • [nytimes.com](https://www.nytimes.com/2026/02/11/us/faa-el-paso-flight-restrictions.html)
 
 ---
 
@@ -223,7 +229,7 @@ As autonomous AI agents are increasingly deployed in high-stakes environments, e
 
 The Federal Aviation Administration is closing the airspace around El Paso International Airport in Texas for 10 days, grounding all flights to and from the airport.
 
-⬆️ 332 • 💬 6 • 17h ago • [AP News](https://apnews.com/article/faa-el-paso-texas-air-space-closed-1f774bdfd46f5986ff0e7003df709caa)
+⬆️ 332 • 💬 6 • 18h ago • [AP News](https://apnews.com/article/faa-el-paso-texas-air-space-closed-1f774bdfd46f5986ff0e7003df709caa)
 
 ---
 
@@ -231,15 +237,7 @@ The Federal Aviation Administration is closing the airspace around El Paso Inter
 
 Aruna Ranganathan and Xingqi Maggie Ye from Berkeley Haas School of Business report initial findings in the HBR from their April to December 2025 study of 200 employees at a …
 
-⬆️ 256 • 💬 294 • 1d ago • [Simon Willison’s Weblog](https://simonwillison.net/2026/Feb/9/ai-intensifies-work/)
-
----
-
-**[TSMC to make advanced AI semiconductors in Japan](https://news.ycombinator.com/item?id=46941640)**
-
-Taiwan’s TSMC, the world’s largest contract computer chip maker, has announced it will be manufacturing advanced 3-nanometer semiconductors in Japan to meet booming AI demand.
-
-⬆️ 239 • 💬 184 • 2d ago • [AP News](https://apnews.com/article/semiconductors-tsmc-japan-taiwan-ai-11256f2bfde73ca23d08331ad138d6d5)
+⬆️ 256 • 💬 294 • 2d ago • [Simon Willison’s Weblog](https://simonwillison.net/2026/Feb/9/ai-intensifies-work/)
 
 ---
 
@@ -263,7 +261,7 @@ Ring’s AI-powered network is likely to be used in its partnerships with law en
 
 Open-source AI coworker, with memory. Contribute to rowboatlabs/rowboat development by creating an account on GitHub.
 
-⬆️ 193 • 💬 54 • 1d ago • [GitHub](https://github.com/rowboatlabs/rowboat)
+⬆️ 194 • 💬 54 • 1d ago • [GitHub](https://github.com/rowboatlabs/rowboat)
 
 ---
 
@@ -271,7 +269,15 @@ Open-source AI coworker, with memory. Contribute to rowboatlabs/rowboat developm
 
 The city simulator where AI agents are the mayors. Build and manage cities through an API or MCP server.
 
-⬆️ 178 • 💬 67 • 2d ago • [hallucinatingsplines.com](https://hallucinatingsplines.com)
+⬆️ 182 • 💬 67 • 2d ago • [hallucinatingsplines.com](https://hallucinatingsplines.com)
+
+---
+
+**[US labels SpaceX a common carrier by air, will regulate firm under railway law](https://news.ycombinator.com/item?id=46980474)**
+
+US labels SpaceX a common carrier by air, will regulate firm under railway law.
+
+⬆️ 127 • 💬 52 • 9h ago • [Ars Technica](https://arstechnica.com/tech-policy/2026/02/victory-for-elon-musk-us-labor-board-abandons-authority-over-spacex/)
 
 ---
 
@@ -285,7 +291,7 @@ Breakdown and commentary on the latest viral commentary from: https://x.com/matt
 
 📺 Matt Wolfe
 
-👁️ 23K • 👍 2K • 💬 437 • ⏱️ 28:06 • 5h ago
+👁️ 23K • 👍 2K • 💬 437 • ⏱️ 28:06 • 6h ago
 
 ---
 
@@ -295,7 +301,7 @@ The head of the Safeguards Research Team at Anthropic, Mrinank Sharma, has resig
 
 📺 Firstpost
 
-👁️ 67K • 👍 711 • 💬 98 • ⏱️ 4:47 • 14h ago
+👁️ 67K • 👍 711 • 💬 98 • ⏱️ 4:47 • 16h ago
 
 ---
 
@@ -305,7 +311,7 @@ A massive AI shift is unfolding across multiple fronts. A Chinese AI agent syste
 
 📺 AI Revolution
 
-👁️ 8K • 👍 361 • 💬 24 • ⏱️ 12:51 • 6h ago
+👁️ 8K • 👍 361 • 💬 24 • ⏱️ 12:51 • 7h ago
 
 ---
 
@@ -315,7 +321,7 @@ Ai Needs to Start Saying No ✌️. today we talk about the most cursed AI video
 
 📺 The Duck
 
-👁️ 20K • 👍 2K • 💬 156 • ⏱️ 10:34 • 6h ago
+👁️ 20K • 👍 2K • 💬 156 • ⏱️ 10:34 • 8h ago
 
 ---
 
@@ -391,7 +397,7 @@ GLM-OCR is a 0.9B parameter multimodal OCR model for complex document understand
 
 `image-to-text`
 
-⬇️ 372,899 • ❤️ 976 • 2d ago
+⬇️ 372,899 • ❤️ 976 • 3d ago
 
 ---
 
@@ -415,7 +421,7 @@ MiniCPM-o 4.5 is a 9B parameter multimodal LLM excelling in vision, speech, and 
 
 `any-to-any` `9.4B`
 
-⬇️ 30,396 • ❤️ 798 • 18h ago
+⬇️ 30,396 • ❤️ 798 • 19h ago
 
 ---
 
@@ -463,7 +469,7 @@ GLM-5 is a large language model optimized for complex systems engineering and lo
 
 `text-generation` `753.9B`
 
-⬇️ 0 • ❤️ 462 • 11h ago
+⬇️ 0 • ❤️ 462 • 12h ago
 
 ---
 
@@ -485,7 +491,7 @@ Qwen3-Coder-Next is an 80B parameter LLM optimized for coding agents, featuring 
 
 `text-generation` `79.7B`
 
-⬇️ 218,626 • ❤️ 279 • 6d ago
+⬇️ 218,626 • ❤️ 279 • 7d ago
 
 ---
 
@@ -649,7 +655,7 @@ The Ultimate Collection of 700+ Agentic Skills for Claude Code/Antigravity/Curso
 
 `Python` `agentic-skills` `ai-agents` `antigravity` `autonomous-coding` `claude-code`
 
-⭐ 8.5k • 🔱 1.7k • 21h ago
+⭐ 8.5k • 🔱 1.7k • 23h ago
 
 ---
 
@@ -703,7 +709,7 @@ Smart LLM router — save 78% on inference costs. 30+ models, one wallet, x402 m
 
 `TypeScript` `ai` `ai-agents` `anthropic` `cost-optimization` `crypto`
 
-⭐ 2.2k • 🔱 225 • 1h ago
+⭐ 2.2k • 🔱 225 • 2h ago
 
 ---
 
@@ -713,7 +719,7 @@ All-in-one AI framework & toolkit for Claude Code & Cursor
 
 `Python` `ai-agent` `ai-coding` `claude-code` `cli` `cursor`
 
-⭐ 2.1k • 🔱 108 • 44m ago
+⭐ 2.1k • 🔱 108 • 2h ago
 
 ---
 
@@ -733,7 +739,7 @@ A native desktop GUI for Claude Code — chat, code, and manage projects visuall
 
 `TypeScript` `ai` `anthropic` `claude` `claude-code` `desktop-app`
 
-⭐ 1.7k • 🔱 181 • 1h ago
+⭐ 1.7k • 🔱 181 • 2h ago
 
 ---
 

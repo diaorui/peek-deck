@@ -3,14 +3,14 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-02-12T04:37:02.782622+00:00'
+updated: '2026-02-12T06:05:41.044003+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- news
 - cryptocurrency
 - videos
+- news
 - social
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** February 12, 2026 at 04:37 UTC  
+**Last Updated:** February 12, 2026 at 06:05 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -36,15 +36,15 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Price
 
-### $1,967.27
+### $1,969.70
 
 ---
 
 ## Ethereum Chart
 
-**24h:** -0.4%  
+**24h:** +0.7%  
 **7d:** -4.7%  
-**30d:** -41.4%  
+**30d:** -41.5%  
 **90d:** -38.0%  
 **1y:** -26.4%  
 
@@ -72,15 +72,7 @@ No max supply
 
 It's open source and live on Arbitrum One right now. Happy to answer any questions! https://etour.games Here's some gameplay screenshots: https://imgur.com/tPqmCpl https://imgur.com/cj7T0Zm https://imgur.com/AmbvLOH https://imgur.com/Z39Ix1L https://imgur.com/VWBbj51 https://imgur.com/YITii03 https://imgur.com/a/Wni0Ybu
 
-3h ago
-
----
-
-**[Daily General Discussion February 11, 2026](https://www.reddit.com/r/ethereum/comments/1r1pegs/daily_general_discussion_february_11_2026/)**
-
-Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
-
-22h ago
+5h ago
 
 ---
 
@@ -88,13 +80,29 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 Hello Everyone. I've agreed, in principle, to invest a small amount of money in a start up. I'm taking a small percentage of equity in the company, but also signing a SAFT where I need to provide an "Ethereum/BASE Wallet Address". This is already beyond my limited crypto knowledge. I downloaded a couple of apps that I think will do the job, currently going through Trust Wallet. What I am stumped with is what details I now provide. There was no registration on the app, when I click receive, i then have to choose what I want to receive. Is that the address that comes up for ETH? Or would I wait for the token to go live? Is that long alpha/number all that is required to receive/dispose of tokens - no password or secondary checks?
 
-29m ago
+1h ago
+
+---
+
+**[Daily General Discussion February 12, 2026](https://www.reddit.com/r/ethereum/comments/1r2lnxp/daily_general_discussion_february_12_2026/)**
+
+Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
+
+4m ago
 
 ---
 
 **[Vitalik Buterin on the Future of AI and Ethereum’s Role in It](https://www.reddit.com/r/ethereum/comments/1r2anmr/vitalik_buterin_on_the_future_of_ai_and_ethereums/)**
 
-6h ago
+8h ago
+
+---
+
+**[Daily General Discussion February 11, 2026](https://www.reddit.com/r/ethereum/comments/1r1pegs/daily_general_discussion_february_11_2026/)**
+
+Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
+
+1d ago
 
 ---
 
@@ -102,7 +110,23 @@ Hello Everyone. I've agreed, in principle, to invest a small amount of money in 
 
 I am attending ETHDenver 2026 next week for the first time. Do y'all have any recommendation on which events are the best to go to? Main and side events? I've been scrolling through Luma and have signed up for a bunch, but would love the opinion of others going. Would welcome any recos :) For context, working in a multi-stage crypto VC, so looking for sourcing opportunities and meeting cool people!
 
-8h ago
+9h ago
+
+---
+
+**[everyone talks about eth l2s. what about bitcoin l2s? is stx actually interesting?](https://www.reddit.com/r/ethereum/comments/1r2lh6f/everyone_talks_about_eth_l2s_what_about_bitcoin/)**
+
+bitcoin has a $1T+ market cap… and basically no native defi. stacks (stx) is trying to change that, smart contracts anchored to bitcoin, btc-secured, all that. the thesis sounds simple: if even a small % of btc liquidity flows into btc-native defi, that’s huge but i keep wondering: does bitcoin culture even want defi? is stx really a btc l2, or just another chain marketing itself that way? is anyone actually building or using anything meaningful on it? trying to figure out if this is an early narrative… or something btc maxis will never embrace. wdyt??
+
+15m ago
+
+---
+
+**[Just realized Eth is the future.](https://www.reddit.com/r/ethereum/comments/1r2leov/just_realized_eth_is_the_future/)**
+
+Had a tenthly chat with AI regarding the current state of things and it identified btc as the world's most harmful pyramid to date with ever changing survival narrative and ETH is the actual decentralized corporation with vast value adding infrastructure. Fundamentals are healthy!
+
+18m ago
 
 ---
 
@@ -110,7 +134,7 @@ I am attending ETHDenver 2026 next week for the first time. Do y'all have any re
 
 We invite you to join us at DWeb Camp!
 
-🔗 [dwebcamp.org](https://dwebcamp.org/berlin-2026/) • 4h ago
+🔗 [dwebcamp.org](https://dwebcamp.org/berlin-2026/) • 5h ago
 
 ---
 
@@ -118,31 +142,7 @@ We invite you to join us at DWeb Camp!
 
 Hello folks! I drafted this smart contract visualizer tool. It shows the structure of the contract, a plain english explenation and an AI powered security analysis (screenshots below). The purpose would be double: for devs, easily understand and read other contract for learning purpose for users, double-check a contract before interacting with it There would be tons of possible improvements: expand code by clicking on the tile multi chain support support complex contract for many imports by exploding them What do you think? Does the tool have a reason to exist? :) https://preview.redd.it/rz5mi9qhquig1.png?width=1930&format=png&auto=webp&s=5b8c09f479a17e19dadcdad9d2eb4540937a8d83 https://preview.redd.it/2juw6bqhquig1.png?width=1934&format=png&auto=webp&s=1a3ed192e5391c60fb9a1094adb71f364d6eaecc https://preview.redd.it/2oi05cqhquig1.png?width=1940&format=png&auto=webp&s=2543b85dd1018625ec7e8a64c01be2235a8b31fd Thanks, Francesco
 
-17h ago
-
----
-
-**[Scalable Go Service for Canonical Ethereum Block Streaming and Event Pipelines](https://www.reddit.com/r/ethereum/comments/1r29vkh/scalable_go_service_for_canonical_ethereum_block/)**
-
-Hey everyone! I’ve been working on an open-source project called blockscan-ethereum-service, written in Go: https://github.com/pancudaniel7/blockscan-ethereum-service What it does It’s a production-grade microservice that ingests Ethereum blocks in real time and streams them into Kafka as canonical block events. It’s built with performance, reliability, and horizontal scalability in mind, making it a strong fit for backend systems that depend on on-chain data. Why it matters Many existing block scanners are heavy, highly opinionated, or not designed for real-world backend architectures. This service focuses on: • Real-time block ingestion via WebSocket subscriptions • Partition-aware Kafka publishing with effectively-once delivery semantics • Reorg awareness, emitting tombstone and update events on chain reorganizations • Durable coordination using Redis markers • Observability with structured logs, metrics, and traces Who might find it useful • Go developers building Web3 backends • Teams designing custom Ethereum data pipelines • Anyone integrating blockchain data into event-driven systems If you check it out and find it useful, I’d truly appreciate a star on the repo. Happy to answer questions or discuss the design and architecture!
-
-7h ago
-
----
-
-**[Annual Solidity Developer Survey is Live!](https://www.reddit.com/r/ethereum/comments/1r1i1e6/annual_solidity_developer_survey_is_live/)**
-
-Posted by Jacob Czepluch on February 10, 2026
-
-🔗 [Solidity Programming Language](https://www.soliditylang.org/blog/2026/02/10/solidity-developer-survey-2025-announcement/) • 1d ago
-
----
-
-**[Daily General Discussion February 10, 2026](https://www.reddit.com/r/ethereum/comments/1r0svsd/daily_general_discussion_february_10_2026/)**
-
-Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
-
-1d ago
+18h ago
 
 ---
 
@@ -158,11 +158,11 @@ Decrypt • 1d ago
 
 ---
 
-**[Vitalik Buterin sketches near-term vision for Ethereum's role in an AI-driven future](https://www.theblock.co/post/389179/vitalik-buterin-sketches-near-term-vision-for-ethereums-role-in-an-ai-driven-future)**
+**[Top 3 Price Prediction: Bitcoin, Ethereum, Ripple – BTC, ETH and XRP show no sign of recovery](https://www.fxstreet.com/cryptocurrencies/news/top-3-price-prediction-bitcoin-ethereum-ripple-btc-eth-and-xrp-show-no-sign-of-recovery-202602110407)**
 
-Buterin pitched Ethereum as an economic/coordination layer for decentralized, privacy-preserving AI systems rather than a race toward AGI.
+Bitcoin (BTC), Ethereum (ETH), and Ripple (XRP) show signs of cautious stabilization on Wednesday after failing to close above their key resistance levels earlier this week. BTC trades below $69,000, while ETH and XRP also encountered rejection near major resistance levels.
 
-The Block • 1d ago
+FXStreet • 1d ago
 
 ---
 
@@ -190,9 +190,11 @@ dlnews.com • 1d ago
 
 ---
 
-**[Bitcoin, Ethereum, XRP Fall. Why There’s Hope for a Crypto Rally.](https://www.barrons.com/articles/bitcoin-price-ethereum-xrp-crypto-c754458e?gaa_at=eafs&gaa_n=AWEtsqcoWMpLWl5B4rj3RyLsf6OKS_rLTogQPMqAwIT2AP5bzH_j9FB1kYQH&gaa_ts=698d5c55&gaa_sig=jR6T43rzYLs9JDWNSGuGlTnY5YQyYtU8ssCzoGQR7WkTk4-NCfH0C_KoRYpi1PrGlkievzqhM-6CLPxzQmbISQ%3D%3D)**
+**[Vitalik Buterin outlines how Ethereum could play a key role in the future of AI](https://www.coindesk.com/business/2026/02/10/vitalik-buterin-outlines-how-ethereum-could-play-a-key-role-in-the-future-of-ai)**
 
-Barron's • 2d ago
+In a new post on X revisiting ideas he first outlined two years ago, Buterin argues that the push toward artificial general intelligence often resembles the kind of unchecked speed and scale that Ethereum itself was created to challenge.
+
+CoinDesk • 1d ago
 
 ---
 
@@ -200,29 +202,27 @@ Barron's • 2d ago
 
 On-chain data shows the Ethereum wallets with more than 1,000 ETH have reduced their holdings over the last eleven weeks, shedding 1.5% of the ETH supply.Ethereum Whales Have Distributed Tokens Equivalent To 1.5% Of The SupplyAs explained by on-chain analytics firm Santiment in an X post, Ethereum…
 
-TradingView • 8h ago
+TradingView • 10h ago
 
 ---
 
-**[MegaETH debuts mainnet as Ethereum scaling debate heats up](https://www.coindesk.com/tech/2026/02/09/megaeth-debuts-mainnet-as-ethereum-scaling-debate-heats-up)**
+**[Bitcoin, Ethereum, XRP Fall. Why There’s Hope for a Crypto Rally.](https://www.barrons.com/articles/bitcoin-price-ethereum-xrp-crypto-c754458e?gaa_at=eafs&gaa_n=AWEtsqfo4ilh7legVs037QFsVJ0LjHTNK6K3EWeRCq7Qh5_Wwk2HM8mC8Dj5&gaa_ts=698d711f&gaa_sig=kDypxCC2h22wHbI2n2F9vRQVByNhg2WYQRAuGnYYr4myCSoEmrUFxlT-nvvfCKwkRSefxb_0FNFwpm0fqa8lYA%3D%3D)**
 
-The project, which had previously pitched itself as a layer-2 “real-time blockchain,” targeting more than 100,000 transactions per second, would make onchain interactions feel closer to traditional web apps than today’s crypto networks.
-
-CoinDesk • 2d ago
+Barron's • 2d ago
 
 ---
 
-**[Top 3 Price Prediction: Bitcoin, Ethereum, Ripple – BTC, ETH and XRP show no sign of recovery](https://www.fxstreet.com/cryptocurrencies/news/top-3-price-prediction-bitcoin-ethereum-ripple-btc-eth-and-xrp-show-no-sign-of-recovery-202602110407)**
+**[Vitalik Buterin sketches near-term vision for Ethereum's role in an AI-driven future](https://www.theblock.co/post/389179/vitalik-buterin-sketches-near-term-vision-for-ethereums-role-in-an-ai-driven-future)**
 
-Bitcoin (BTC), Ethereum (ETH), and Ripple (XRP) show signs of cautious stabilization on Wednesday after failing to close above their key resistance levels earlier this week. BTC trades below $69,000, while ETH and XRP also encountered rejection near major resistance levels.
+Buterin pitched Ethereum as an economic/coordination layer for decentralized, privacy-preserving AI systems rather than a race toward AGI.
 
-FXStreet • 1d ago
+The Block • 1d ago
 
 ---
 
 **[Ethereum Under Pressure As It Falls Below $2,000](https://seekingalpha.com/article/4868540-ethereum-under-pressure-as-it-falls-below-2000)**
 
-Seeking Alpha • 21h ago
+Seeking Alpha • 23h ago
 
 ---
 
@@ -236,7 +236,7 @@ BlackRock + Joe Rogan + Ethereum.. Biggest Crypto News Happening Now!! Become a 
 
 📺 Altcoin Daily
 
-👁️ 20K • 👍 2K • 💬 177 • ⏱️ 9:41 • 4h ago
+👁️ 20K • 👍 2K • 💬 177 • ⏱️ 9:41 • 6h ago
 
 ---
 
@@ -246,7 +246,7 @@ Tom Lee, Co-Founder of Fundstrat and Chairman of Bitmine Immersion (NYSE: BMNR),
 
 📺 The Crypto Times
 
-👁️ 6K • 👍 212 • 💬 47 • ⏱️ 15:00 • 12h ago
+👁️ 6K • 👍 212 • 💬 47 • ⏱️ 15:00 • 14h ago
 
 ---
 
@@ -256,7 +256,7 @@ This video provides a professional Elliott Wave and technical analysis of Ethere
 
 📺 More Crypto Online
 
-👁️ 3K • 👍 192 • 💬 16 • ⏱️ 7:37 • 9h ago
+👁️ 3K • 👍 192 • 💬 16 • ⏱️ 7:37 • 11h ago
 
 ---
 
@@ -276,7 +276,7 @@ Get $450 Off Our New AI Indicators: https://tradeconfidentportal.io/indicators/.
 
 📺 Trade Confident
 
-👁️ 478 • 👍 27 • 💬 15 • ⏱️ 5:57 • 8h ago
+👁️ 478 • 👍 27 • 💬 15 • ⏱️ 5:57 • 10h ago
 
 ---
 
@@ -296,7 +296,7 @@ ETHEREUM ETH PRICE PREDICTION 2026 Join the Premium Signal Group for trade setup
 
 📺 Cilinix Crypto
 
-👁️ 1K • 👍 35 • 💬 18 • ⏱️ 4:48 • 18h ago
+👁️ 1K • 👍 35 • 💬 18 • ⏱️ 4:48 • 20h ago
 
 ---
 
@@ -316,7 +316,7 @@ Donation Address: yourfriendsommi.eth / yourfriendsommi.pls Click Subscribe + Be
 
 📺 🌟yourfriendsommi
 
-👁️ 580 • 👍 132 • 💬 47 • ⏱️ 13:11 • 2h ago
+👁️ 580 • 👍 132 • 💬 47 • ⏱️ 13:11 • 4h ago
 
 ---
 
