@@ -3,7 +3,7 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-02-12T18:02:52.506486+00:00'
+updated: '2026-02-12T19:33:13.118858+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
@@ -17,7 +17,7 @@ data_types:
 
 Robotics research and industry news
 
-**Last Updated:** February 12, 2026 at 18:02 UTC  
+**Last Updated:** February 12, 2026 at 19:33 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -36,7 +36,7 @@ Robotics research and industry news
 
 I built this last year. Made those suction cups from scratch, it has camera, TOF and force/touch sensors. Does anyone see a useful use case for this robot? I’m of out of ideas! :)
 
-18h ago
+19h ago
 
 ---
 
@@ -44,7 +44,7 @@ I built this last year. Made those suction cups from scratch, it has camera, TOF
 
 We're sharing how we bridged the Sim-to-Real gap by simulating the embedded system, not just the physics. We kept running into the same problem with Asimov Legs. Policies that worked perfectly in sim failed on hardware. Not because physics was off, but because of CAN packet delays, thread timing, and IMU drift. So we stopped simulating just the robot body and started simulating the entire embedded environment. Our production firmware (C/C++) runs unmodified inside the sim. It doesn't know it's in a simulation. The setup: MuJoCo Physics -> Raw IMU Data -> I2C Emulator -> Firmware Sensor Fusion (C) -> Control Loop -> CANBus Emulator -> Motor Emulator -> back to MuJoCo Raw accel/gyro data streams over an emulated I2C bus (register-level lsm6dsox behavior), firmware runs xioTechnologies/Fusion library in C for gravity estimation, and torque commands go through an emulated CANbus. The key part, Motor Emulator injects random jitter (0.4ms–2ms uniform) between command and response. Our motor datasheet claims 0.4ms response time. Reality is different: Firmware -> CMD Torque Request (t=0) -> CANbus Emulator -> [INJECTED JITTER 0.4-2.0ms] -> MuJoCo -> New State -> Firmware If the firmware isn't ready when the response comes back, the control loop breaks. Same as real life. This caught race conditions in threading, CAN parsing errors under load, policy jitter intolerance, and sensor fusion drift from timing mismatches. All stuff we used to only find on real hardware. Result: zero-shot sim2real locomotion on our 12-DOF biped from a single policy Forward/backward walking (0.6m/s), lateral movement, and push recovery Previously we tried this with a Unitree G1 and couldn't get there. Closed firmware hides the failure modes. Sim2real is fundamentally an observability problem. Full writeup with codes & analysis: https://news.asimov.inc/p/noise-is-all-you-need
 
-13h ago
+14h ago
 
 ---
 
@@ -60,7 +60,7 @@ Boston Dynamics CEO Robert Playter told staff on Tuesday that he'll be stepping 
 
 Been working on my DIY drone for the past few days. Facing a weird issue, motors stop increasing speed after ~30–35% throttle, and the drone needs almost 50% throttle just to slightly lift. During ESC calibration, all motors run perfectly at full throttle. Seems like a code/control logic issue. Been stuck on this for days, any suggestions would help.
 
-10h ago
+12h ago
 
 ---
 
@@ -68,7 +68,7 @@ Been working on my DIY drone for the past few days. Facing a weird issue, motors
 
 This article argues that robot deployment is starting to shift away from traditional application-specific coding toward AI-powered low-code and no-code platforms. Instead of writing custom logic for every product change, teams are using visual interfaces, task demonstration, and AI reasoning to configure workflows. In inspection and assembly, systems can adapt to variation and real-time inputs without being explicitly programmed for every scenario.
 
-🔗 [Automate](https://www.automate.org/ai/industry-insights/ai-low-code-and-no-code-solutions-in-robotics) • 3h ago
+🔗 [Automate](https://www.automate.org/ai/industry-insights/ai-low-code-and-no-code-solutions-in-robotics) • 4h ago
 
 ---
 
@@ -76,7 +76,7 @@ This article argues that robot deployment is starting to shift away from traditi
 
 As someone starting research in robotics, this has been on my mind for a while. I see a new VLA every week claiming it outperforms XYZ with better quality and more data. If that’s all it takes, what problems are actually still open? If everything can be countered with “just get more data,” what is left to research?
 
-35m ago
+2h ago
 
 ---
 
@@ -84,7 +84,7 @@ As someone starting research in robotics, this has been on my mind for a while. 
 
 MOHAWK Runtime & Reference Node Agent A tiny Federated Learning (FL) pipeline built to prove the security model for decentralized spatial intelligence. This repo serves as the secure execution skeleton (Go + Wasmtime + TPM) for the broader Sovereign Map ecosystem. 🧩 Ecosystem Integration This prototype is designed to be integrated with: Sovereign Map Federated Learning: Real FL logic, models, and optimizers. Sovereign-Map-V2: Orchestration and business logic. Autonomous-Mapping: Mapping agents and task management.
 
-🔗 [GitHub](https://github.com/rwilliamspbg-ops/Sovereign-Mohawk-Proto) • 3h ago
+🔗 [GitHub](https://github.com/rwilliamspbg-ops/Sovereign-Mohawk-Proto) • 5h ago
 
 ---
 
@@ -92,7 +92,7 @@ MOHAWK Runtime & Reference Node Agent A tiny Federated Learning (FL) pipeline bu
 
 Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.
 
-🔗 [youtube.com](https://youtube.com/shorts/oKXw1YJcoXU?si=eBA6b4QUD-VM8VIq) • 4h ago
+🔗 [youtube.com](https://youtube.com/shorts/oKXw1YJcoXU?si=eBA6b4QUD-VM8VIq) • 6h ago
 
 ---
 
@@ -100,7 +100,7 @@ Enjoy the videos and music you love, upload original content, and share it all w
 
 Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.
 
-🔗 [youtube.com](https://www.youtube.com/shorts/rWqI9G9763o) • 15h ago
+🔗 [youtube.com](https://www.youtube.com/shorts/rWqI9G9763o) • 17h ago
 
 ---
 
@@ -108,7 +108,7 @@ Enjoy the videos and music you love, upload original content, and share it all w
 
 Saw this humanoid doing a Chinese sword dance next to a human performer. The movement looks fairly stable. Lately there have been a lot of humanoid demos released, like boxing, kung fu, dancing, etc — and most of them look impressive on video. But it’s getting harder to tell what these clips actually say about real control versus well-tuned scripts.
 
-🔗 [youtube.com](https://youtube.com/shorts/020ReZvanDY?feature=share) • 11h ago
+🔗 [youtube.com](https://youtube.com/shorts/020ReZvanDY?feature=share) • 13h ago
 
 ---
 
@@ -121,6 +121,46 @@ Saw this humanoid doing a Chinese sword dance next to a human performer. The mov
 Upside Robotics builds autonomous solar-powered robots that can help farmers reduce their fertilizer use by 70%.
 
 TechCrunch • 1d ago
+
+---
+
+**[Humanoid robots are getting smaller, safer and closer](https://www.foxnews.com/tech/humanoid-robots-getting-smaller-safer-closer)**
+
+Fauna Robotics is launching Sprout as a developer platform for humanoid robots. The robot features 29 degrees of freedom and NVIDIA compute power.
+
+Fox News • 2d ago
+
+---
+
+**[If robots take the auto jobs, who’s left with money to buy cars?](https://www.autonews.com/manufacturing/anc-humanoid-robots-threaten-auto-industry-jobs-0209/)**
+
+Larry Savage, a professor of labour studies at Brock University, says governments might need to step in to help protect jobs that are under the threat of automation.
+
+Automotive News • 8h ago
+
+---
+
+**[China starts 'world’s first' robot combat league with $1.44M prize](https://interestingengineering.com/ai-robotics/china-worlds-first-humanoid-robot-combat-league)**
+
+The world's first-ever free robot combat league commenced in China's Shenzhen province, showcasing the country's tech advancements.
+
+Interesting Engineering • 2d ago
+
+---
+
+**[PickNik Robotics to work with Motiv Space Systems on NASA ISAM mission](https://www.therobotreport.com/picknik-robotics-to-work-with-motiv-space-systems-on-nasa-isam-mission/)**
+
+For the mission, Motiv will be developing the robotic system, while PickNik will provide robot motion planning and arm control software.
+
+The Robot Report • 27m ago
+
+---
+
+**[Bedrock Robotics raises $270M in red-hot AI sector](https://www.constructiondive.com/news/bedrock-robotics-raise-ai-automation-funding/811982/)**
+
+The autonomous construction tech provider now boasts total funding of over $350 million and a valuation of $1.75 billion.
+
+Construction Dive • 1d ago
 
 ---
 
@@ -138,19 +178,9 @@ Bloomberg.com • 2d ago
 
 ---
 
-**[Alibaba AI sets 16 records, beats Google and NVIDIA in robotics](https://interestingengineering.com/ai-robotics/alibaba-rynnbrain-humanoid-robot-ai)**
+**[Alibaba Launches RynnBrain AI Model for Robots](https://www.eweek.com/news/alibaba-launches-rynnbrain-ai-model-for-robots/)**
 
-Alibaba has unveiled RynnBrain, a new embodied AI model built to help robots understand space, memory, and physical movement.
-
-Interesting Engineering • 1d ago
-
----
-
-**[Bedrock Robotics raises $270M in red-hot AI sector](https://www.constructiondive.com/news/bedrock-robotics-raise-ai-automation-funding/811982/)**
-
-The autonomous construction tech provider now boasts total funding of over $350 million and a valuation of $1.75 billion.
-
-Construction Dive • 23h ago
+eWeek • 22h ago
 
 ---
 
@@ -159,38 +189,6 @@ Construction Dive • 23h ago
 &nbsp;
 
 Globes - Israel Business News • 1d ago
-
----
-
-**[Maui students vie for world robotics championship slots](https://mauinow.com/2026/02/11/maui-students-vie-for-world-robotics-championship-slots/)**
-
-Maui County robotics teams will battle rivals statewide this month for 14 coveted spots at the 2026 VEX Robotics World Championships. The Hawaiʻi VEX Regional Championships will draw 114 teams representing public and private schools, as well as club and home organizations from Maui County, Oʻahu and Hawaiʻi Island. The events are free to the [&hellip;]
-
-Maui Now • 1d ago
-
----
-
-**[Humanoid robots are getting smaller, safer and closer](https://www.foxnews.com/tech/humanoid-robots-getting-smaller-safer-closer)**
-
-Fauna Robotics is launching Sprout as a developer platform for humanoid robots. The robot features 29 degrees of freedom and NVIDIA compute power.
-
-Fox News • 2d ago
-
----
-
-**[Tesla stock gets latest synopsis from Jim Cramer: ‘It’s actually a robotics company’](https://www.teslarati.com/tesla-tsla-gets-latest-synopsis-jim-cramer-actually-obotics-company/)**
-
-Tesla stock got its latest synopsis from Wall Street analyst Jim Cramer, who finally realized something that many fans of the company have known all along: it's not a car company. Instead, it's a robotics company.
-
-Teslarati • 23h ago
-
----
-
-**[Symbotic acquires autonomous forklift maker Fox Robotics](https://www.therobotreport.com/symbotic-acquires-autonomous-forklift-maker-fox-robotics/)**
-
-Symbotic has acquired autonomous forklift developer Fox Robotics in a move that broadens its logistics robotics offerings.
-
-The Robot Report • 1d ago
 
 ---
 
@@ -214,7 +212,7 @@ War Robots Gameplay, trying the UE VORTEX NUO but realizing that the robot is un
 
 📺 Manni-Gaming
 
-👁️ 12K • 👍 884 • 💬 251 • ⏱️ 10:29 • 14h ago
+👁️ 12K • 👍 884 • 💬 251 • ⏱️ 10:29 • 15h ago
 
 ---
 
@@ -252,7 +250,7 @@ They laughed when Elon Musk brought a man in a spandex suit on stage. But in 202
 
 📺 By 2050
 
-👁️ 1.4M • 👍 22K • 💬 573 • ⏱️ 1:00 • 3d ago
+👁️ 1.4M • 👍 22K • 💬 573 • ⏱️ 1:00 • 4d ago
 
 ---
 

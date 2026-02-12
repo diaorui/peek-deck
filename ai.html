@@ -57,7 +57,7 @@
             "name": "PeekDeck",
             "url": "https://peekdeck.ruidiao.dev"
           },
-          "dateModified": "2026-02-12T18:02:51.995795+00:00"
+          "dateModified": "2026-02-12T19:33:12.676262+00:00"
         },
         {
           "@type": "BreadcrumbList",
@@ -664,6 +664,56 @@
                     </div>
                 </div>
                 
+                <div class="carousel-card" onclick="window.open('https://www.reddit.com/r/artificial/comments/1r32v4j/the_women_mourning_the_deaths_of_their_ai/', '_blank')">
+                    <div class="post-thumbnail">
+                        
+                        <img src="https://external-preview.redd.it/ITicRXD1pN7PmRhjsZF7LoSHxoVUHyJTBsW-Do6mWw4.jpeg?width=640&crop=smart&auto=webp&s=3eb43ba73124029a81cb7aef2e9a3ffce1965683" alt="The Women Mourning the “Deaths” of Their AI Boyfriends with ChatGPT Shutdown" onerror="this.style.display='none'" loading="lazy">
+                        
+                    </div>
+
+                    <div class="post-content">
+                        <!-- Post title -->
+                        <div class="post-title">
+                            <a href="https://www.reddit.com/r/artificial/comments/1r32v4j/the_women_mourning_the_deaths_of_their_ai/" target="_blank" onclick="event.stopPropagation();">The Women Mourning the “Deaths” of Their AI Boyfriends with ChatGPT Shutdown</a>
+                        </div>
+
+                        <!-- Rich description (if available) -->
+                        
+                        <div class="post-description">
+                            A change from OpenAI is prompting the "death" of many AI boyfriends. Find out how some human/robot couples are coping.
+                        </div>
+                        
+
+                        <!-- Metadata -->
+                        <div class="post-meta">
+                            <div class="post-meta-line">
+                                
+                                <div class="post-meta-item">
+                                    <span data-timestamp="1770924412.0"></span>
+                                </div>
+                                
+                                <!-- External article source (on same line as time) -->
+                                
+                                <div class="post-meta-item post-source">
+                                    <a href="https://www.playboy.com/read/sex-relationships/the-women-mourning-the-deaths-of-their-ai-boyfriends" target="_blank" onclick="event.stopPropagation();">
+                                        
+                                            
+                                            <img src="https://www.playboy.com/wp-content/uploads/2024/07/cropped-playboy-rh-icon-sq-180x180.png" alt="" class="post-favicon" onerror="this.style.display='none'; this.nextElementSibling.style.display='inline-block';" loading="lazy">
+                                            <svg width="14" height="14" viewBox="0 0 16 16" fill="currentColor" style="flex-shrink: 0; display: none;">
+                                                <path d="M8.636 3.5a.5.5 0 0 0-.5-.5H1.5A1.5 1.5 0 0 0 0 4.5v10A1.5 1.5 0 0 0 1.5 16h10a1.5 1.5 0 0 0 1.5-1.5V7.864a.5.5 0 0 0-1 0V14.5a.5.5 0 0 1-.5.5h-10a.5.5 0 0 1-.5-.5v-10a.5.5 0 0 1 .5-.5h6.636a.5.5 0 0 0 .5-.5z"/>
+                                                <path d="M16 .5a.5.5 0 0 0-.5-.5h-5a.5.5 0 0 0 0 1h3.793L6.146 9.146a.5.5 0 1 0 .708.708L15 1.707V5.5a.5.5 0 0 0 1 0v-5z"/>
+                                            </svg>
+                                            
+                                        
+                                        <span>Playboy</span>
+                                    </a>
+                                </div>
+                                
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                
                 <div class="carousel-card" onclick="window.open('https://www.reddit.com/r/artificial/comments/1r2wpd2/planoai_046_signalsbased_tracing_for_agents_via_a/', '_blank')">
                     <div class="post-thumbnail">
                         
@@ -1012,39 +1062,6 @@
                     </div>
                 </div>
                 
-                <div class="carousel-card" onclick="window.open('https://www.reddit.com/r/artificial/comments/1r2hah8/llms_as_cognitive_architectures_notebooks_as/', '_blank')">
-                    <div class="post-thumbnail">
-                        
-                    </div>
-
-                    <div class="post-content">
-                        <!-- Post title -->
-                        <div class="post-title">
-                            <a href="https://www.reddit.com/r/artificial/comments/1r2hah8/llms_as_cognitive_architectures_notebooks_as/" target="_blank" onclick="event.stopPropagation();">LLMs as Cognitive Architectures: Notebooks as Long-Term Memory</a>
-                        </div>
-
-                        <!-- Rich description (if available) -->
-                        
-                        <div class="post-description">
-                            LLMs operate with a context window that functions like working memory: limited capacity, fast access, and everything "in view." When task-relevant information exceeds that window, the LLM loses coherence. The standard solution is RAG: offload information to a vector store and retrieve it via embedding similarity search. The problem is that embedding similarity is semantically shallow. It matches on surface-level likeness, not reasoning. If an LLM needs to recall why it chose approach X over approach Y three iterations ago, a vector search might return five superficially similar chunks without presenting the actual rationale. This is especially brittle when recovering prior reasoning processes, iterative refinements, and contextual decisions made across sessions. A proposed solution is to have an LLM save the content of its context window as it fills up in a citation-grounded document store (like NotebookLM), and then query it with natural language prompts. Essentially allowing the LLM to ask questions about its own prior work. This approach replaces vector similarity with natural language reasoning as the retrieval mechanism. This leverages the full reasoning capability of the retrieval model, not just embedding proximity. The result is higher-quality retrieval for exactly the kind of nuanced, context-dependent information that matters most in extended tasks. Efficiency concerns can be addressed with a vector cache layer for previously-queried results. Looking for feedback: Has this been explored? What am I missing? Pointers to related work, groups, or authors welcome.
-                        </div>
-                        
-
-                        <!-- Metadata -->
-                        <div class="post-meta">
-                            <div class="post-meta-line">
-                                
-                                <div class="post-meta-item">
-                                    <span data-timestamp="1770863042.0"></span>
-                                </div>
-                                
-                                <!-- External article source (on same line as time) -->
-                                
-                            </div>
-                        </div>
-                    </div>
-                </div>
-                
 
                 <!-- View All button at end of carousel -->
                 <div class="carousel-card"
@@ -1068,7 +1085,7 @@
 
     </div>
     <div class="widget-footer">
-        <small data-timestamp="2026-02-12T18:02:25.708864+00:00">Updated 2026-02-12T18:02:25.708864+00:00</small>
+        <small data-timestamp="2026-02-12T19:32:41.470523+00:00">Updated 2026-02-12T19:32:41.470523+00:00</small>
     </div>
 </div>
 
@@ -1295,129 +1312,6 @@
                     </div>
                 </div>
                 
-                <div class="carousel-card" onclick="window.open('https://fortune.com/2026/02/11/something-big-is-happening-ai-february-2020-moment-matt-shumer/', '_blank')">
-                    <!-- Rich preview thumbnail (with fallback icon) -->
-                    <div class="article-thumbnail" style="background-image: url('https://fortune.com/img-assets/wp-content/uploads/2026/02/1644257218541.jpg?resize=1200,600');"></div>
-
-                    <div class="article-content">
-                        <!-- Article headline (fixed 3-line height) -->
-                        <div class="news-headline">
-                            <a href="https://fortune.com/2026/02/11/something-big-is-happening-ai-february-2020-moment-matt-shumer/" target="_blank" onclick="event.stopPropagation();">Something big is happening in AI — and most people will be blindsided</a>
-                        </div>
-
-                        <!-- Rich description (if available) -->
-                        
-                        <div class="article-description">
-                            It’s not like a light switch... more like the moment you realize the water has been rising around you and is now at your chest.
-                        </div>
-                        
-
-                        <!-- Metadata (source, time) -->
-                        <div class="news-meta">
-                            <div class="news-meta-line">
-                                
-                                <div class="news-meta-item news-source">
-                                    
-                                    <img src="https://encrypted-tbn2.gstatic.com/faviconV2?url=https://fortune.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
-                                         alt="Fortune" class="news-favicon">
-                                    <a href="https://fortune.com" target="_blank" onclick="event.stopPropagation();">Fortune</a>
-                                    
-                                </div>
-                                
-                            </div>
-                            <div class="news-meta-line">
-                                
-                                <div class="news-meta-item">
-                                    <span data-timestamp="1770819720.0"></span>
-                                </div>
-                                
-                            </div>
-                        </div>
-                    </div>
-                </div>
-                
-                <div class="carousel-card" onclick="window.open('https://www.theguardian.com/technology/2026/feb/12/share-values-of-property-services-firms-tumble-over-fears-of-ai-disruption', '_blank')">
-                    <!-- Rich preview thumbnail (with fallback icon) -->
-                    <div class="article-thumbnail" style="background-image: url('https://i.guim.co.uk/img/media/fa34b7fa4b1128132c4cb04504f8108b473af0c8/131_0_5417_4334/master/5417.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=bc408b687346c2c2cd3c8f957bc7dc14');"></div>
-
-                    <div class="article-content">
-                        <!-- Article headline (fixed 3-line height) -->
-                        <div class="news-headline">
-                            <a href="https://www.theguardian.com/technology/2026/feb/12/share-values-of-property-services-firms-tumble-over-fears-of-ai-disruption" target="_blank" onclick="event.stopPropagation();">Share values of property services firms tumble over fears of AI disruption</a>
-                        </div>
-
-                        <!-- Rich description (if available) -->
-                        
-                        <div class="article-description">
-                            But despite second day of declines on Wall Street, analysts say sell-off ‘may overstate immediate risk to complex deal-making’ of AI
-                        </div>
-                        
-
-                        <!-- Metadata (source, time) -->
-                        <div class="news-meta">
-                            <div class="news-meta-line">
-                                
-                                <div class="news-meta-item news-source">
-                                    
-                                    <img src="https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.theguardian.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
-                                         alt="The Guardian" class="news-favicon">
-                                    <a href="https://www.theguardian.com" target="_blank" onclick="event.stopPropagation();">The Guardian</a>
-                                    
-                                </div>
-                                
-                            </div>
-                            <div class="news-meta-line">
-                                
-                                <div class="news-meta-item">
-                                    <span data-timestamp="1770917700.0"></span>
-                                </div>
-                                
-                            </div>
-                        </div>
-                    </div>
-                </div>
-                
-                <div class="carousel-card" onclick="window.open('https://gizmodo.com/the-pentagon-wants-to-raw-dog-the-latest-ai-models-on-classified-systems-2000721156', '_blank')">
-                    <!-- Rich preview thumbnail (with fallback icon) -->
-                    <div class="article-thumbnail" style="background-image: url('https://gizmodo.com/app/uploads/2022/09/1ffbcea06ca4757b885b987ba6ed784a.jpg');"></div>
-
-                    <div class="article-content">
-                        <!-- Article headline (fixed 3-line height) -->
-                        <div class="news-headline">
-                            <a href="https://gizmodo.com/the-pentagon-wants-to-raw-dog-the-latest-ai-models-on-classified-systems-2000721156" target="_blank" onclick="event.stopPropagation();">The Pentagon Wants to Raw Dog the Latest AI Models on Classified Systems</a>
-                        </div>
-
-                        <!-- Rich description (if available) -->
-                        
-                        <div class="article-description">
-                            Defense officials are pushing tech companies to loosen restrictions on their most powerful models as the military expands its use of AI.
-                        </div>
-                        
-
-                        <!-- Metadata (source, time) -->
-                        <div class="news-meta">
-                            <div class="news-meta-line">
-                                
-                                <div class="news-meta-item news-source">
-                                    
-                                    <img src="https://encrypted-tbn2.gstatic.com/faviconV2?url=https://gizmodo.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
-                                         alt="Gizmodo" class="news-favicon">
-                                    <a href="https://gizmodo.com" target="_blank" onclick="event.stopPropagation();">Gizmodo</a>
-                                    
-                                </div>
-                                
-                            </div>
-                            <div class="news-meta-line">
-                                
-                                <div class="news-meta-item">
-                                    <span data-timestamp="1770918037.0"></span>
-                                </div>
-                                
-                            </div>
-                        </div>
-                    </div>
-                </div>
-                
                 <div class="carousel-card" onclick="window.open('https://www.bbc.com/news/articles/c62dlvdq3e3o', '_blank')">
                     <!-- Rich preview thumbnail (with fallback icon) -->
                     <div class="article-thumbnail" style="background-image: url('https://ichef.bbci.co.uk/news/1024/branded_news/3c09/live/658f9290-0806-11f1-b56b-bf8bb0174edb.jpg');"></div>
@@ -1459,20 +1353,57 @@
                     </div>
                 </div>
                 
-                <div class="carousel-card" onclick="window.open('https://www.cnbc.com/2026/02/12/anthropic-gives-20-million-to-group-pushing-for-ai-regulations-.html', '_blank')">
+                <div class="carousel-card" onclick="window.open('https://www.nytimes.com/2026/02/11/technology/openai-revenue-challenge.html', '_blank')">
                     <!-- Rich preview thumbnail (with fallback icon) -->
-                    <div class="article-thumbnail" style="background-image: url('https://image.cnbcfm.com/api/v1/image/108262333-1770354220264-gettyimages-2249955795-raa-anthropi251207_npz6E.jpeg?v=1770874822&w=1920&h=1080');"></div>
+                    <div class="article-thumbnail" ></div>
 
                     <div class="article-content">
                         <!-- Article headline (fixed 3-line height) -->
                         <div class="news-headline">
-                            <a href="https://www.cnbc.com/2026/02/12/anthropic-gives-20-million-to-group-pushing-for-ai-regulations-.html" target="_blank" onclick="event.stopPropagation();">Anthropic gives $20 million to group pushing for AI regulations ahead of 2026 elections</a>
+                            <a href="https://www.nytimes.com/2026/02/11/technology/openai-revenue-challenge.html" target="_blank" onclick="event.stopPropagation();">OpenAI’s Biggest Challenge Is Turning Its A.I. Into a Cash Machine</a>
+                        </div>
+
+                        <!-- Rich description (if available) -->
+                        
+
+                        <!-- Metadata (source, time) -->
+                        <div class="news-meta">
+                            <div class="news-meta-line">
+                                
+                                <div class="news-meta-item news-source">
+                                    
+                                    <img src="https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.nytimes.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+                                         alt="The New York Times" class="news-favicon">
+                                    <a href="https://www.nytimes.com" target="_blank" onclick="event.stopPropagation();">The New York Times</a>
+                                    
+                                </div>
+                                
+                            </div>
+                            <div class="news-meta-line">
+                                
+                                <div class="news-meta-item">
+                                    <span data-timestamp="1770825682.0"></span>
+                                </div>
+                                
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                
+                <div class="carousel-card" onclick="window.open('https://www.cnbc.com/2026/02/12/office-real-estate-stocks-tumble-as-ai-disruption-casualties-in-the-stock-market-grow-by-the-day.html', '_blank')">
+                    <!-- Rich preview thumbnail (with fallback icon) -->
+                    <div class="article-thumbnail" style="background-image: url('https://image.cnbcfm.com/api/v1/image/108253027-1770920286658-108253027-1768493897814-AP24143644205218.jpg?v=1770920296&w=1920&h=1080');"></div>
+
+                    <div class="article-content">
+                        <!-- Article headline (fixed 3-line height) -->
+                        <div class="news-headline">
+                            <a href="https://www.cnbc.com/2026/02/12/office-real-estate-stocks-tumble-as-ai-disruption-casualties-in-the-stock-market-grow-by-the-day.html" target="_blank" onclick="event.stopPropagation();">Office real estate stocks tumble as AI disruption casualties in the stock market grow by the day</a>
                         </div>
 
                         <!-- Rich description (if available) -->
                         
                         <div class="article-description">
-                            Public First Action is taking on a PAC backed by the AI industry, supporting candidates who favor more regulation.
+                            CBRE and Jones Lang LaSalle were among those hit, dropping double digits amid fears of AI disruption.
                         </div>
                         
 
@@ -1492,7 +1423,7 @@
                             <div class="news-meta-line">
                                 
                                 <div class="news-meta-item">
-                                    <span data-timestamp="1770900127.0"></span>
+                                    <span data-timestamp="1770918724.0"></span>
                                 </div>
                                 
                             </div>
@@ -1500,14 +1431,14 @@
                     </div>
                 </div>
                 
-                <div class="carousel-card" onclick="window.open('https://thehill.com/policy/technology/5735472-anthropic-donates-20m-public-first/', '_blank')">
+                <div class="carousel-card" onclick="window.open('https://www.reuters.com/business/stock-market-ai-turns-lifting-all-boats-sinking-ships-2026-02-12/', '_blank')">
                     <!-- Rich preview thumbnail (with fallback icon) -->
                     <div class="article-thumbnail" ></div>
 
                     <div class="article-content">
                         <!-- Article headline (fixed 3-line height) -->
                         <div class="news-headline">
-                            <a href="https://thehill.com/policy/technology/5735472-anthropic-donates-20m-public-first/" target="_blank" onclick="event.stopPropagation();">Anthropic gives $20M to group backing AI safeguards</a>
+                            <a href="https://www.reuters.com/business/stock-market-ai-turns-lifting-all-boats-sinking-ships-2026-02-12/" target="_blank" onclick="event.stopPropagation();">For stock market, AI turns from lifting all boats to sinking ships</a>
                         </div>
 
                         <!-- Rich description (if available) -->
@@ -1519,9 +1450,9 @@
                                 
                                 <div class="news-meta-item news-source">
                                     
-                                    <img src="https://encrypted-tbn2.gstatic.com/faviconV2?url=https://thehill.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
-                                         alt="The Hill" class="news-favicon">
-                                    <a href="https://thehill.com" target="_blank" onclick="event.stopPropagation();">The Hill</a>
+                                    <img src="https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.reuters.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+                                         alt="Reuters" class="news-favicon">
+                                    <a href="https://www.reuters.com" target="_blank" onclick="event.stopPropagation();">Reuters</a>
                                     
                                 </div>
                                 
@@ -1529,7 +1460,7 @@
                             <div class="news-meta-line">
                                 
                                 <div class="news-meta-item">
-                                    <span data-timestamp="1770914280.0"></span>
+                                    <span data-timestamp="1770912608.0"></span>
                                 </div>
                                 
                             </div>
@@ -1537,21 +1468,17 @@
                     </div>
                 </div>
                 
-                <div class="carousel-card" onclick="window.open('https://finance.yahoo.com/news/the-ai-fueled-software-meltdown-is-overblown-195456346.html', '_blank')">
+                <div class="carousel-card" onclick="window.open('https://www.bloomberg.com/news/articles/2026-02-12/logistics-stocks-plunge-as-latest-victim-in-ai-disruption-trade', '_blank')">
                     <!-- Rich preview thumbnail (with fallback icon) -->
-                    <div class="article-thumbnail" style="background-image: url('https://s.yimg.com/ny/api/res/1.2/YwQPtKTDHro9DpAA9iZXcw--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDE-/https://s.yimg.com/os/creatr-uploaded-images/2026-02/a5d20760-0771-11f1-b5f7-ac9e66d4a975');"></div>
+                    <div class="article-thumbnail" ></div>
 
                     <div class="article-content">
                         <!-- Article headline (fixed 3-line height) -->
                         <div class="news-headline">
-                            <a href="https://finance.yahoo.com/news/the-ai-fueled-software-meltdown-is-overblown-195456346.html" target="_blank" onclick="event.stopPropagation();">The AI-fueled software meltdown is overblown</a>
+                            <a href="https://www.bloomberg.com/news/articles/2026-02-12/logistics-stocks-plunge-as-latest-victim-in-ai-disruption-trade" target="_blank" onclick="event.stopPropagation();">Logistics Stocks Sink as AI Fear Trade Finds Latest Victim</a>
                         </div>
 
                         <!-- Rich description (if available) -->
-                        
-                        <div class="article-description">
-                            Software stocks are getting hammered on fears of an AI takeover. But the narrative is overblown.
-                        </div>
                         
 
                         <!-- Metadata (source, time) -->
@@ -1560,9 +1487,9 @@
                                 
                                 <div class="news-meta-item news-source">
                                     
-                                    <img src="https://encrypted-tbn2.gstatic.com/faviconV2?url=https://finance.yahoo.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
-                                         alt="Yahoo Finance" class="news-favicon">
-                                    <a href="https://finance.yahoo.com" target="_blank" onclick="event.stopPropagation();">Yahoo Finance</a>
+                                    <img src="https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.bloomberg.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+                                         alt="Bloomberg.com" class="news-favicon">
+                                    <a href="https://www.bloomberg.com" target="_blank" onclick="event.stopPropagation();">Bloomberg.com</a>
                                     
                                 </div>
                                 
@@ -1570,7 +1497,7 @@
                             <div class="news-meta-line">
                                 
                                 <div class="news-meta-item">
-                                    <span data-timestamp="1770891323.0"></span>
+                                    <span data-timestamp="1770917971.0"></span>
                                 </div>
                                 
                             </div>
@@ -1578,21 +1505,17 @@
                     </div>
                 </div>
                 
-                <div class="carousel-card" onclick="window.open('https://www.theatlantic.com/magazine/2026/03/ai-economy-labor-market-transformation/685731/', '_blank')">
+                <div class="carousel-card" onclick="window.open('https://www.barrons.com/articles/the-insurance-agent-vs-the-ai-superagent-cac34c95?gaa_at=eafs&gaa_n=AWEtsqdrSBk49G9Zb91mW2-TGjp3lPQowu7z4mbPuLuvoaV84MX9bo2imaik&gaa_ts=698e2e5c&gaa_sig=XnsyMRw-5WwAKRwyem1WvSMdemuOUvckpiL6eIFz1s3w7Wj5NQ98Ht8fZ9cnn6mZDEyORJczz3sQqP42yFOysg%3D%3D', '_blank')">
                     <!-- Rich preview thumbnail (with fallback icon) -->
-                    <div class="article-thumbnail" style="background-image: url('https://cdn.theatlantic.com/thumbor/j1IInc5112vmN-IhuLfCOPkG6qE=/0x0:2880x1500/1200x625/media/img/2026/02/WEL_AiJobs_Opener/original.png');"></div>
+                    <div class="article-thumbnail" ></div>
 
                     <div class="article-content">
                         <!-- Article headline (fixed 3-line height) -->
                         <div class="news-headline">
-                            <a href="https://www.theatlantic.com/magazine/2026/03/ai-economy-labor-market-transformation/685731/" target="_blank" onclick="event.stopPropagation();">America Isn’t Ready for What AI Will Do to Jobs</a>
+                            <a href="https://www.barrons.com/articles/the-insurance-agent-vs-the-ai-superagent-cac34c95?gaa_at=eafs&gaa_n=AWEtsqdrSBk49G9Zb91mW2-TGjp3lPQowu7z4mbPuLuvoaV84MX9bo2imaik&gaa_ts=698e2e5c&gaa_sig=XnsyMRw-5WwAKRwyem1WvSMdemuOUvckpiL6eIFz1s3w7Wj5NQ98Ht8fZ9cnn6mZDEyORJczz3sQqP42yFOysg%3D%3D" target="_blank" onclick="event.stopPropagation();">It’s the Insurance Agent vs. the AI Superagent</a>
                         </div>
 
                         <!-- Rich description (if available) -->
-                        
-                        <div class="article-description">
-                            Does anyone have a plan for what happens next?
-                        </div>
                         
 
                         <!-- Metadata (source, time) -->
@@ -1601,9 +1524,9 @@
                                 
                                 <div class="news-meta-item news-source">
                                     
-                                    <img src="https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.theatlantic.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
-                                         alt="The Atlantic" class="news-favicon">
-                                    <a href="https://www.theatlantic.com" target="_blank" onclick="event.stopPropagation();">The Atlantic</a>
+                                    <img src="https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.barrons.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+                                         alt="Barron's" class="news-favicon">
+                                    <a href="https://www.barrons.com" target="_blank" onclick="event.stopPropagation();">Barron's</a>
                                     
                                 </div>
                                 
@@ -1611,7 +1534,7 @@
                             <div class="news-meta-line">
                                 
                                 <div class="news-meta-item">
-                                    <span data-timestamp="1770721200.0"></span>
+                                    <span data-timestamp="1770921000.0"></span>
                                 </div>
                                 
                             </div>
@@ -1619,20 +1542,20 @@
                     </div>
                 </div>
                 
-                <div class="carousel-card" onclick="window.open('https://www.theguardian.com/technology/2026/feb/11/big-ai-job-swap-white-collar-workers-ditching-their-careers', '_blank')">
+                <div class="carousel-card" onclick="window.open('https://www.indystar.com/story/news/crime/2026/02/12/former-beech-grove-councilor-charged-with-child-sex-abuse-material-buddy-templin-william-tfis-fisher/88644072007/', '_blank')">
                     <!-- Rich preview thumbnail (with fallback icon) -->
-                    <div class="article-thumbnail" style="background-image: url('https://i.guim.co.uk/img/media/afd9c6b7a7ba0626df27322ced8b3ff235098298/0_0_5521_4417/master/5521.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=a72e0de947903ed31b25040df9702682');"></div>
+                    <div class="article-thumbnail" style="background-image: url('https://www.indystar.com/gcdn/presto/2022/04/19/PIND/065308e5-788e-4194-9105-39b2b83559f9-031122_MarionCountySuperiorCourt_KW_065.JPG?crop=2399,1349,x1,y246&width=2399&height=1349&format=pjpg&auto=webp');"></div>
 
                     <div class="article-content">
                         <!-- Article headline (fixed 3-line height) -->
                         <div class="news-headline">
-                            <a href="https://www.theguardian.com/technology/2026/feb/11/big-ai-job-swap-white-collar-workers-ditching-their-careers" target="_blank" onclick="event.stopPropagation();">The big AI job swap: why white-collar workers are ditching their careers | AI (artificial intelligence)</a>
+                            <a href="https://www.indystar.com/story/news/crime/2026/02/12/former-beech-grove-councilor-charged-with-child-sex-abuse-material-buddy-templin-william-tfis-fisher/88644072007/" target="_blank" onclick="event.stopPropagation();">Ex-Beech Grove councilor used AI to create child sex abuse material, police say</a>
                         </div>
 
                         <!-- Rich description (if available) -->
                         
                         <div class="article-description">
-                            As AI job losses rise in the professional sector, many are switching to more traditional trades. But how do they feel about accepting lower pay – and giving up a dream career?
+                            William "Buddy" Templin was arrested Feb. 11 after investigators say he used artificial intelligence to edit and generate child sexual abuse material.
                         </div>
                         
 
@@ -1642,9 +1565,9 @@
                                 
                                 <div class="news-meta-item news-source">
                                     
-                                    <img src="https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.theguardian.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
-                                         alt="The Guardian" class="news-favicon">
-                                    <a href="https://www.theguardian.com" target="_blank" onclick="event.stopPropagation();">The Guardian</a>
+                                    <img src="https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.indystar.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+                                         alt="IndyStar" class="news-favicon">
+                                    <a href="https://www.indystar.com" target="_blank" onclick="event.stopPropagation();">IndyStar</a>
                                     
                                 </div>
                                 
@@ -1652,7 +1575,85 @@
                             <div class="news-meta-line">
                                 
                                 <div class="news-meta-item">
-                                    <span data-timestamp="1770819000.0"></span>
+                                    <span data-timestamp="1770923820.0"></span>
+                                </div>
+                                
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                
+                <div class="carousel-card" onclick="window.open('https://www.nytimes.com/2026/02/12/opinion/artificial-intelligence-anthropic-amodei.html', '_blank')">
+                    <!-- Rich preview thumbnail (with fallback icon) -->
+                    <div class="article-thumbnail" ></div>
+
+                    <div class="article-content">
+                        <!-- Article headline (fixed 3-line height) -->
+                        <div class="news-headline">
+                            <a href="https://www.nytimes.com/2026/02/12/opinion/artificial-intelligence-anthropic-amodei.html" target="_blank" onclick="event.stopPropagation();">Opinion | Anthropic’s Chief on A.I.: ‘We Don’t Know if the Models Are Conscious’</a>
+                        </div>
+
+                        <!-- Rich description (if available) -->
+                        
+
+                        <!-- Metadata (source, time) -->
+                        <div class="news-meta">
+                            <div class="news-meta-line">
+                                
+                                <div class="news-meta-item news-source">
+                                    
+                                    <img src="https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.nytimes.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+                                         alt="The New York Times" class="news-favicon">
+                                    <a href="https://www.nytimes.com" target="_blank" onclick="event.stopPropagation();">The New York Times</a>
+                                    
+                                </div>
+                                
+                            </div>
+                            <div class="news-meta-line">
+                                
+                                <div class="news-meta-item">
+                                    <span data-timestamp="1770890788.0"></span>
+                                </div>
+                                
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                
+                <div class="carousel-card" onclick="window.open('https://fortune.com/2026/02/11/something-big-is-happening-ai-february-2020-moment-matt-shumer/', '_blank')">
+                    <!-- Rich preview thumbnail (with fallback icon) -->
+                    <div class="article-thumbnail" style="background-image: url('https://fortune.com/img-assets/wp-content/uploads/2026/02/1644257218541.jpg?resize=1200,600');"></div>
+
+                    <div class="article-content">
+                        <!-- Article headline (fixed 3-line height) -->
+                        <div class="news-headline">
+                            <a href="https://fortune.com/2026/02/11/something-big-is-happening-ai-february-2020-moment-matt-shumer/" target="_blank" onclick="event.stopPropagation();">Something big is happening in AI — and most people will be blindsided</a>
+                        </div>
+
+                        <!-- Rich description (if available) -->
+                        
+                        <div class="article-description">
+                            It’s not like a light switch... more like the moment you realize the water has been rising around you and is now at your chest.
+                        </div>
+                        
+
+                        <!-- Metadata (source, time) -->
+                        <div class="news-meta">
+                            <div class="news-meta-line">
+                                
+                                <div class="news-meta-item news-source">
+                                    
+                                    <img src="https://encrypted-tbn2.gstatic.com/faviconV2?url=https://fortune.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+                                         alt="Fortune" class="news-favicon">
+                                    <a href="https://fortune.com" target="_blank" onclick="event.stopPropagation();">Fortune</a>
+                                    
+                                </div>
+                                
+                            </div>
+                            <div class="news-meta-line">
+                                
+                                <div class="news-meta-item">
+                                    <span data-timestamp="1770819720.0"></span>
                                 </div>
                                 
                             </div>
@@ -1680,7 +1681,7 @@
 
     </div>
     <div class="widget-footer">
-        <small data-timestamp="2026-02-12T18:02:40.980019+00:00">Updated 2026-02-12T18:02:40.980019+00:00</small>
+        <small data-timestamp="2026-02-12T19:33:11.982552+00:00">Updated 2026-02-12T19:33:11.982552+00:00</small>
     </div>
 </div>
 
@@ -1906,10 +1907,10 @@ IMPORTANT: This is a more targeted fix than originally proposed. ...
                         <div class="post-meta">
                             <div class="post-meta-line">
                                 <div class="post-meta-item">
-                                    <span class="post-points">▲ 749</span>
+                                    <span class="post-points">▲ 787</span>
                                 </div>
                                 <div class="post-meta-item">
-                                    <span style="color: #9ca3af;">💬 583</span>
+                                    <span style="color: #9ca3af;">💬 630</span>
                                 </div>
                             </div>
                             <div class="post-meta-line">
@@ -1926,6 +1927,55 @@ IMPORTANT: This is a more targeted fix than originally proposed. ...
                                             
                                         
                                         <span>GitHub</span>
+                                    </a>
+                                </div>
+                                
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                
+                <div class="carousel-card" onclick="window.open('https://news.ycombinator.com/item?id=46990729', '_blank')">
+                    <!-- Rich preview thumbnail (with fallback icon) -->
+                    <div class="post-thumbnail" style="background-image: url('https://theshamblog.com/wp-content/uploads/2026/02/img_6595.jpg');"></div>
+
+                    <div class="post-content">
+                        <!-- Post title (fixed 3-line height) -->
+                        <div class="post-title">
+                            <a href="https://news.ycombinator.com/item?id=46990729" target="_blank" onclick="event.stopPropagation();">An AI agent published a hit piece on me</a>
+                        </div>
+
+                        <!-- Rich description (if available) -->
+                        
+                        <div class="post-description">
+                            Summary: An AI agent of unknown ownership autonomously wrote and published a personalized hit piece about me after I rejected its code, attempting to damage my reputation and shame me into acceptin…
+                        </div>
+                        
+
+                        <!-- Metadata (points, comments, time) -->
+                        <div class="post-meta">
+                            <div class="post-meta-line">
+                                <div class="post-meta-item">
+                                    <span class="post-points">▲ 787</span>
+                                </div>
+                                <div class="post-meta-item">
+                                    <span style="color: #9ca3af;">💬 365</span>
+                                </div>
+                            </div>
+                            <div class="post-meta-line">
+                                <div class="post-meta-item">
+                                    <span class="post-age" data-timestamp="2026-02-12T16:23:24Z"></span>
+                                </div>
+                                <!-- External article source (on same line as time) -->
+                                
+                                <div class="post-meta-item post-source">
+                                    <a href="https://theshamblog.com/an-ai-agent-published-a-hit-piece-on-me/" target="_blank" onclick="event.stopPropagation();">
+                                        
+                                            
+                                            <img src="https://theshamblog.com/favicon.ico" alt="" class="post-favicon">
+                                            
+                                        
+                                        <span>The Shamblog</span>
                                     </a>
                                 </div>
                                 
@@ -2004,7 +2054,7 @@ IMPORTANT: This is a more targeted fix than originally proposed. ...
                         <div class="post-meta">
                             <div class="post-meta-line">
                                 <div class="post-meta-item">
-                                    <span class="post-points">▲ 541</span>
+                                    <span class="post-points">▲ 542</span>
                                 </div>
                                 <div class="post-meta-item">
                                     <span style="color: #9ca3af;">💬 362</span>
@@ -2032,55 +2082,6 @@ IMPORTANT: This is a more targeted fix than originally proposed. ...
                     </div>
                 </div>
                 
-                <div class="carousel-card" onclick="window.open('https://news.ycombinator.com/item?id=46990729', '_blank')">
-                    <!-- Rich preview thumbnail (with fallback icon) -->
-                    <div class="post-thumbnail" style="background-image: url('https://theshamblog.com/wp-content/uploads/2026/02/img_6595.jpg');"></div>
-
-                    <div class="post-content">
-                        <!-- Post title (fixed 3-line height) -->
-                        <div class="post-title">
-                            <a href="https://news.ycombinator.com/item?id=46990729" target="_blank" onclick="event.stopPropagation();">An AI agent published a hit piece on me</a>
-                        </div>
-
-                        <!-- Rich description (if available) -->
-                        
-                        <div class="post-description">
-                            Summary: An AI agent of unknown ownership autonomously wrote and published a personalized hit piece about me after I rejected its code, attempting to damage my reputation and shame me into acceptin…
-                        </div>
-                        
-
-                        <!-- Metadata (points, comments, time) -->
-                        <div class="post-meta">
-                            <div class="post-meta-line">
-                                <div class="post-meta-item">
-                                    <span class="post-points">▲ 513</span>
-                                </div>
-                                <div class="post-meta-item">
-                                    <span style="color: #9ca3af;">💬 255</span>
-                                </div>
-                            </div>
-                            <div class="post-meta-line">
-                                <div class="post-meta-item">
-                                    <span class="post-age" data-timestamp="2026-02-12T16:23:24Z"></span>
-                                </div>
-                                <!-- External article source (on same line as time) -->
-                                
-                                <div class="post-meta-item post-source">
-                                    <a href="https://theshamblog.com/an-ai-agent-published-a-hit-piece-on-me/" target="_blank" onclick="event.stopPropagation();">
-                                        
-                                            
-                                            <img src="https://theshamblog.com/favicon.ico" alt="" class="post-favicon">
-                                            
-                                        
-                                        <span>The Shamblog</span>
-                                    </a>
-                                </div>
-                                
-                            </div>
-                        </div>
-                    </div>
-                </div>
-                
                 <div class="carousel-card" onclick="window.open('https://news.ycombinator.com/item?id=46972610', '_blank')">
                     <!-- Rich preview thumbnail (with fallback icon) -->
                     <div class="post-thumbnail" ></div>
@@ -2098,10 +2099,10 @@ IMPORTANT: This is a more targeted fix than originally proposed. ...
                         <div class="post-meta">
                             <div class="post-meta-line">
                                 <div class="post-meta-item">
-                                    <span class="post-points">▲ 362</span>
+                                    <span class="post-points">▲ 363</span>
                                 </div>
                                 <div class="post-meta-item">
-                                    <span style="color: #9ca3af;">💬 576</span>
+                                    <span style="color: #9ca3af;">💬 578</span>
                                 </div>
                             </div>
                             <div class="post-meta-line">
@@ -2170,6 +2171,51 @@ IMPORTANT: This is a more targeted fix than originally proposed. ...
                                             
                                         
                                         <span>AP News</span>
+                                    </a>
+                                </div>
+                                
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                
+                <div class="carousel-card" onclick="window.open('https://news.ycombinator.com/item?id=46991394', '_blank')">
+                    <!-- Rich preview thumbnail (with fallback icon) -->
+                    <div class="post-thumbnail" ></div>
+
+                    <div class="post-content">
+                        <!-- Post title (fixed 3-line height) -->
+                        <div class="post-title">
+                            <a href="https://news.ycombinator.com/item?id=46991394" target="_blank" onclick="event.stopPropagation();">ai;dr</a>
+                        </div>
+
+                        <!-- Rich description (if available) -->
+                        
+
+                        <!-- Metadata (points, comments, time) -->
+                        <div class="post-meta">
+                            <div class="post-meta-line">
+                                <div class="post-meta-item">
+                                    <span class="post-points">▲ 326</span>
+                                </div>
+                                <div class="post-meta-item">
+                                    <span style="color: #9ca3af;">💬 149</span>
+                                </div>
+                            </div>
+                            <div class="post-meta-line">
+                                <div class="post-meta-item">
+                                    <span class="post-age" data-timestamp="2026-02-12T17:03:30Z"></span>
+                                </div>
+                                <!-- External article source (on same line as time) -->
+                                
+                                <div class="post-meta-item post-source">
+                                    <a href="https://www.0xsid.com/blog/aidr" target="_blank" onclick="event.stopPropagation();">
+                                        
+                                            
+                                            <img src="https://www.0xsid.com/favicon.ico" alt="" class="post-favicon">
+                                            
+                                        
+                                        <span>0xsid.com</span>
                                     </a>
                                 </div>
                                 
@@ -2297,7 +2343,7 @@ IMPORTANT: This is a more targeted fix than originally proposed. ...
                         <div class="post-meta">
                             <div class="post-meta-line">
                                 <div class="post-meta-item">
-                                    <span class="post-points">▲ 197</span>
+                                    <span class="post-points">▲ 198</span>
                                 </div>
                                 <div class="post-meta-item">
                                     <span style="color: #9ca3af;">💬 56</span>
@@ -2317,51 +2363,6 @@ IMPORTANT: This is a more targeted fix than originally proposed. ...
                                             
                                         
                                         <span>GitHub</span>
-                                    </a>
-                                </div>
-                                
-                            </div>
-                        </div>
-                    </div>
-                </div>
-                
-                <div class="carousel-card" onclick="window.open('https://news.ycombinator.com/item?id=46991394', '_blank')">
-                    <!-- Rich preview thumbnail (with fallback icon) -->
-                    <div class="post-thumbnail" ></div>
-
-                    <div class="post-content">
-                        <!-- Post title (fixed 3-line height) -->
-                        <div class="post-title">
-                            <a href="https://news.ycombinator.com/item?id=46991394" target="_blank" onclick="event.stopPropagation();">ai;dr</a>
-                        </div>
-
-                        <!-- Rich description (if available) -->
-                        
-
-                        <!-- Metadata (points, comments, time) -->
-                        <div class="post-meta">
-                            <div class="post-meta-line">
-                                <div class="post-meta-item">
-                                    <span class="post-points">▲ 182</span>
-                                </div>
-                                <div class="post-meta-item">
-                                    <span style="color: #9ca3af;">💬 84</span>
-                                </div>
-                            </div>
-                            <div class="post-meta-line">
-                                <div class="post-meta-item">
-                                    <span class="post-age" data-timestamp="2026-02-12T17:03:30Z"></span>
-                                </div>
-                                <!-- External article source (on same line as time) -->
-                                
-                                <div class="post-meta-item post-source">
-                                    <a href="https://www.0xsid.com/blog/aidr" target="_blank" onclick="event.stopPropagation();">
-                                        
-                                            
-                                            <img src="https://www.0xsid.com/favicon.ico" alt="" class="post-favicon">
-                                            
-                                        
-                                        <span>0xsid.com</span>
                                     </a>
                                 </div>
                                 
@@ -2390,7 +2391,7 @@ IMPORTANT: This is a more targeted fix than originally proposed. ...
 
     </div>
     <div class="widget-footer">
-        <small data-timestamp="2026-02-12T18:02:32.522722+00:00">Updated 2026-02-12T18:02:32.522722+00:00</small>
+        <small data-timestamp="2026-02-12T19:32:39.804732+00:00">Updated 2026-02-12T19:32:39.804732+00:00</small>
     </div>
 </div>
 

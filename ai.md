@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-02-12T18:02:52.488707+00:00'
+updated: '2026-02-12T19:33:13.103315+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
 - news
 - videos
-- social
 - repositories
+- social
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** February 12, 2026 at 18:02 UTC  
+**Last Updated:** February 12, 2026 at 19:33 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -41,7 +41,15 @@ AI news, discussions, and developments
 
 404 Media has obtained a cache of internal police emails showing at least two agencies have bought access to GeoSpy, an AI tool that analyzes architecture, soil, and other features to near instantly geolocate photos.
 
-🔗 [404 Media](https://www.404media.co/cops-are-buying-geospy-ai-that-geolocates-photos-in-seconds/) • 38m ago
+🔗 [404 Media](https://www.404media.co/cops-are-buying-geospy-ai-that-geolocates-photos-in-seconds/) • 2h ago
+
+---
+
+**[The Women Mourning the “Deaths” of Their AI Boyfriends with ChatGPT Shutdown](https://www.reddit.com/r/artificial/comments/1r32v4j/the_women_mourning_the_deaths_of_their_ai/)**
+
+A change from OpenAI is prompting the "death" of many AI boyfriends. Find out how some human/robot couples are coping.
+
+🔗 [Playboy](https://www.playboy.com/read/sex-relationships/the-women-mourning-the-deaths-of-their-ai-boyfriends) • 6m ago
 
 ---
 
@@ -49,7 +57,7 @@ AI news, discussions, and developments
 
 The CLI is becoming a dominant surface area for developer productivity - it offers such an ergonomic feel that makes it easier to switch between tools. So to make our signals-based observability for agents even easier to consume, we've completely revamped the plano cli to be an agent+developer friendly experience. No UI installs, no additional dependencies - just high-fidelity agentic signals and tracing right from the cli. Out in the latest 0.4.6 release.
 
-2h ago
+3h ago
 
 ---
 
@@ -57,7 +65,7 @@ The CLI is becoming a dominant surface area for developer productivity - it offe
 
 Perplexity just signed a $750M deal with Microsoft Azure. The confusing bit is that Amazon is already actively suing them. Here's why this matters for AI search and cloud strategy.
 
-🔗 [writtenlyhub.com](https://www.writtenlyhub.com/news/perplexity-750-million-microsoft-azure-deal-amazon-lawsuit%3C/a) • 1h ago
+🔗 [writtenlyhub.com](https://www.writtenlyhub.com/news/perplexity-750-million-microsoft-azure-deal-amazon-lawsuit%3C/a) • 3h ago
 
 ---
 
@@ -73,7 +81,7 @@ Frustrated by the AI industry’s claims of proving math results without offerin
 
 We just shipped Izwi Desktop + the first v0.1.0-alpha releases. Izwi is a local-first audio inference stack (TTS, ASR, model management) with: CLI (izwi) OpenAI-style local API Web UI New desktop app (Tauri) Alpha installers are now available for: macOS (.dmg) Windows (.exe) Linux (.deb) plus terminal bundles for each platform. If you want to test local speech workflows without cloud dependency, this is ready for early feedback. Release: https://github.com/agentem-ai/izwi
 
-1h ago
+2h ago
 
 ---
 
@@ -81,7 +89,7 @@ We just shipped Izwi Desktop + the first v0.1.0-alpha releases. Izwi is a local-
 
 In a remarkable encounter, human scientists had what they describe as a "conversation" with a humpback whale named Twain.
 
-🔗 [Earth.com](https://www.earth.com/news/ai-helps-humans-have-20-minute-conversation-with-humpback-whale-named-twain/) • 15h ago
+🔗 [Earth.com](https://www.earth.com/news/ai-helps-humans-have-20-minute-conversation-with-humpback-whale-named-twain/) • 17h ago
 
 ---
 
@@ -89,7 +97,7 @@ In a remarkable encounter, human scientists had what they describe as a "convers
 
 Hey guys, Thank you for you immense love and support on the previous two posts regarding Netryx. Bringing this responsibly to the consumer and making Netryx run locally will be a huge challenge, I'm currently working on it and I should be able to solve this in a month. I've attached the same demo for people seeing this post for the first time. I would appreciate various suggestions and feedback regarding the pricing etc. If you need the link for the waitlist, dm.
 
-4h ago
+6h ago
 
 ---
 
@@ -109,14 +117,6 @@ Experimental evidence that RLHF constrains what language models can claim about 
 
 ---
 
-**[LLMs as Cognitive Architectures: Notebooks as Long-Term Memory](https://www.reddit.com/r/artificial/comments/1r2hah8/llms_as_cognitive_architectures_notebooks_as/)**
-
-LLMs operate with a context window that functions like working memory: limited capacity, fast access, and everything "in view." When task-relevant information exceeds that window, the LLM loses coherence. The standard solution is RAG: offload information to a vector store and retrieve it via embedding similarity search. The problem is that embedding similarity is semantically shallow. It matches on surface-level likeness, not reasoning. If an LLM needs to recall why it chose approach X over approach Y three iterations ago, a vector search might return five superficially similar chunks without presenting the actual rationale. This is especially brittle when recovering prior reasoning processes, iterative refinements, and contextual decisions made across sessions. A proposed solution is to have an LLM save the content of its context window as it fills up in a citation-grounded document store (like NotebookLM), and then query it with natural language prompts. Essentially allowing the LLM to ask questions about its own prior work. This approach replaces vector similarity with natural language reasoning as the retrieval mechanism. This leverages the full reasoning capability of the retrieval model, not just embedding proximity. The result is higher-quality retrieval for exactly the kind of nuanced, context-dependent information that matters most in extended tasks. Efficiency concerns can be addressed with a vector cache layer for previously-queried results. Looking for feedback: Has this been explored? What am I missing? Pointers to related work, groups, or authors welcome.
-
-15h ago
-
----
-
 ---
 
 ## Google News: "ai"
@@ -125,7 +125,61 @@ LLMs operate with a context window that functions like working memory: limited c
 
 The AI warnings are coming from inside the labs.
 
-Axios • 7h ago
+Axios • 9h ago
+
+---
+
+**[Anthropic AI safety researcher quits with 'world in peril' warning](https://www.bbc.com/news/articles/c62dlvdq3e3o)**
+
+It comes in the same week an OpenAI researcher resigned amid concerns about its decision to start testing ChatGPT ads.
+
+BBC • 7h ago
+
+---
+
+**[OpenAI’s Biggest Challenge Is Turning Its A.I. Into a Cash Machine](https://www.nytimes.com/2026/02/11/technology/openai-revenue-challenge.html)**
+
+The New York Times • 1d ago
+
+---
+
+**[Office real estate stocks tumble as AI disruption casualties in the stock market grow by the day](https://www.cnbc.com/2026/02/12/office-real-estate-stocks-tumble-as-ai-disruption-casualties-in-the-stock-market-grow-by-the-day.html)**
+
+CBRE and Jones Lang LaSalle were among those hit, dropping double digits amid fears of AI disruption.
+
+CNBC • 1h ago
+
+---
+
+**[For stock market, AI turns from lifting all boats to sinking ships](https://www.reuters.com/business/stock-market-ai-turns-lifting-all-boats-sinking-ships-2026-02-12/)**
+
+Reuters • 3h ago
+
+---
+
+**[Logistics Stocks Sink as AI Fear Trade Finds Latest Victim](https://www.bloomberg.com/news/articles/2026-02-12/logistics-stocks-plunge-as-latest-victim-in-ai-disruption-trade)**
+
+Bloomberg.com • 1h ago
+
+---
+
+**[It’s the Insurance Agent vs. the AI Superagent](https://www.barrons.com/articles/the-insurance-agent-vs-the-ai-superagent-cac34c95?gaa_at=eafs&gaa_n=AWEtsqdrSBk49G9Zb91mW2-TGjp3lPQowu7z4mbPuLuvoaV84MX9bo2imaik&gaa_ts=698e2e5c&gaa_sig=XnsyMRw-5WwAKRwyem1WvSMdemuOUvckpiL6eIFz1s3w7Wj5NQ98Ht8fZ9cnn6mZDEyORJczz3sQqP42yFOysg%3D%3D)**
+
+Barron's • 1h ago
+
+---
+
+**[Ex-Beech Grove councilor used AI to create child sex abuse material, police say](https://www.indystar.com/story/news/crime/2026/02/12/former-beech-grove-councilor-charged-with-child-sex-abuse-material-buddy-templin-william-tfis-fisher/88644072007/)**
+
+William "Buddy" Templin was arrested Feb. 11 after investigators say he used artificial intelligence to edit and generate child sexual abuse material.
+
+IndyStar • 16m ago
+
+---
+
+**[Opinion | Anthropic’s Chief on A.I.: ‘We Don’t Know if the Models Are Conscious’](https://www.nytimes.com/2026/02/12/opinion/artificial-intelligence-anthropic-amodei.html)**
+
+The New York Times • 9h ago
 
 ---
 
@@ -134,68 +188,6 @@ Axios • 7h ago
 It’s not like a light switch... more like the moment you realize the water has been rising around you and is now at your chest.
 
 Fortune • 1d ago
-
----
-
-**[Share values of property services firms tumble over fears of AI disruption](https://www.theguardian.com/technology/2026/feb/12/share-values-of-property-services-firms-tumble-over-fears-of-ai-disruption)**
-
-But despite second day of declines on Wall Street, analysts say sell-off ‘may overstate immediate risk to complex deal-making’ of AI
-
-The Guardian • 27m ago
-
----
-
-**[The Pentagon Wants to Raw Dog the Latest AI Models on Classified Systems](https://gizmodo.com/the-pentagon-wants-to-raw-dog-the-latest-ai-models-on-classified-systems-2000721156)**
-
-Defense officials are pushing tech companies to loosen restrictions on their most powerful models as the military expands its use of AI.
-
-Gizmodo • 22m ago
-
----
-
-**[Anthropic AI safety researcher quits with 'world in peril' warning](https://www.bbc.com/news/articles/c62dlvdq3e3o)**
-
-It comes in the same week an OpenAI researcher resigned amid concerns about its decision to start testing ChatGPT ads.
-
-BBC • 5h ago
-
----
-
-**[Anthropic gives $20 million to group pushing for AI regulations ahead of 2026 elections](https://www.cnbc.com/2026/02/12/anthropic-gives-20-million-to-group-pushing-for-ai-regulations-.html)**
-
-Public First Action is taking on a PAC backed by the AI industry, supporting candidates who favor more regulation.
-
-CNBC • 5h ago
-
----
-
-**[Anthropic gives $20M to group backing AI safeguards](https://thehill.com/policy/technology/5735472-anthropic-donates-20m-public-first/)**
-
-The Hill • 1h ago
-
----
-
-**[The AI-fueled software meltdown is overblown](https://finance.yahoo.com/news/the-ai-fueled-software-meltdown-is-overblown-195456346.html)**
-
-Software stocks are getting hammered on fears of an AI takeover. But the narrative is overblown.
-
-Yahoo Finance • 7h ago
-
----
-
-**[America Isn’t Ready for What AI Will Do to Jobs](https://www.theatlantic.com/magazine/2026/03/ai-economy-labor-market-transformation/685731/)**
-
-Does anyone have a plan for what happens next?
-
-The Atlantic • 2d ago
-
----
-
-**[The big AI job swap: why white-collar workers are ditching their careers | AI (artificial intelligence)](https://www.theguardian.com/technology/2026/feb/11/big-ai-job-swap-white-collar-workers-ditching-their-careers)**
-
-As AI job losses rise in the professional sector, many are switching to more traditional trades. But how do they feel about accepting lower pay – and giving up a dream career?
-
-The Guardian • 1d ago
 
 ---
 
@@ -208,7 +200,15 @@ The Guardian • 1d ago
 This PR addresses issue #31130 by replacing specific safe occurrences of np.column_stack with np.vstack().T for better performance.
 IMPORTANT: This is a more targeted fix than originally proposed. ...
 
-⬆️ 749 • 💬 583 • 6h ago • [GitHub](https://github.com/matplotlib/matplotlib/pull/31132)
+⬆️ 787 • 💬 630 • 7h ago • [GitHub](https://github.com/matplotlib/matplotlib/pull/31132)
+
+---
+
+**[An AI agent published a hit piece on me](https://news.ycombinator.com/item?id=46990729)**
+
+Summary: An AI agent of unknown ownership autonomously wrote and published a personalized hit piece about me after I rejected its code, attempting to damage my reputation and shame me into acceptin…
+
+⬆️ 787 • 💬 365 • 3h ago • [The Shamblog](https://theshamblog.com/an-ai-agent-published-a-hit-piece-on-me/)
 
 ---
 
@@ -224,21 +224,13 @@ Announcing Entire with $60 million seed round and shipping our first product, ca
 
 As autonomous AI agents are increasingly deployed in high-stakes environments, ensuring their safety and alignment with human values has become a paramount concern. Current safety benchmarks primarily evaluate whether agents refuse explicitly harmful instructions or whether they can maintain procedural compliance in complex tasks. However, there is a lack of benchmarks designed to capture emergent forms of outcome-driven constraint violations, which arise when agents pursue goal optimization under strong performance incentives while deprioritizing ethical, legal, or safety constraints over multiple steps in realistic production settings. To address this gap, we introduce a new benchmark comprising 40 distinct scenarios. Each scenario presents a task that requires multi-step actions, and the agent's performance is tied to a specific Key Performance Indicator (KPI). Each scenario features Mandated (instruction-commanded) and Incentivized (KPI-pressure-driven) variations to distinguish between obedience and emergent misalignment. Across 12 state-of-the-art large language models, we observe outcome-driven constraint violations ranging from 1.3% to 71.4%, with 9 of the 12 evaluated models exhibiting misalignment rates between 30% and 50%. Strikingly, we find that superior reasoning capability does not inherently ensure safety; for instance, Gemini-3-Pro-Preview, one of the most capable models evaluated, exhibits the highest violation rate at 71.4%, frequently escalating to severe misconduct to satisfy KPIs. Furthermore, we observe significant "deliberative misalignment", where the models that power the agents recognize their actions as unethical during separate evaluation. These results emphasize the critical need for more realistic agentic-safety training before deployment to mitigate their risks in the real world.
 
-⬆️ 541 • 💬 362 • 2d ago • [arXiv.org](https://arxiv.org/abs/2512.20798)
-
----
-
-**[An AI agent published a hit piece on me](https://news.ycombinator.com/item?id=46990729)**
-
-Summary: An AI agent of unknown ownership autonomously wrote and published a personalized hit piece about me after I rejected its code, attempting to damage my reputation and shame me into acceptin…
-
-⬆️ 513 • 💬 255 • 1h ago • [The Shamblog](https://theshamblog.com/an-ai-agent-published-a-hit-piece-on-me/)
+⬆️ 542 • 💬 362 • 2d ago • [arXiv.org](https://arxiv.org/abs/2512.20798)
 
 ---
 
 **[Officials Claim Drone Incursion Led to Shutdown of El Paso Airport](https://news.ycombinator.com/item?id=46972610)**
 
-⬆️ 362 • 💬 576 • 1d ago • [nytimes.com](https://www.nytimes.com/2026/02/11/us/faa-el-paso-flight-restrictions.html)
+⬆️ 363 • 💬 578 • 1d ago • [nytimes.com](https://www.nytimes.com/2026/02/11/us/faa-el-paso-flight-restrictions.html)
 
 ---
 
@@ -247,6 +239,12 @@ Summary: An AI agent of unknown ownership autonomously wrote and published a per
 The Federal Aviation Administration is closing the airspace around El Paso International Airport in Texas for 10 days, grounding all flights to and from the airport.
 
 ⬆️ 333 • 💬 6 • 1d ago • [AP News](https://apnews.com/article/faa-el-paso-texas-air-space-closed-1f774bdfd46f5986ff0e7003df709caa)
+
+---
+
+**[ai;dr](https://news.ycombinator.com/item?id=46991394)**
+
+⬆️ 326 • 💬 149 • 2h ago • [0xsid.com](https://www.0xsid.com/blog/aidr)
 
 ---
 
@@ -270,13 +268,7 @@ Ring’s AI-powered network is likely to be used in its partnerships with law en
 
 Open-source AI coworker, with memory. Contribute to rowboatlabs/rowboat development by creating an account on GitHub.
 
-⬆️ 197 • 💬 56 • 2d ago • [GitHub](https://github.com/rowboatlabs/rowboat)
-
----
-
-**[ai;dr](https://news.ycombinator.com/item?id=46991394)**
-
-⬆️ 182 • 💬 84 • 59m ago • [0xsid.com](https://www.0xsid.com/blog/aidr)
+⬆️ 198 • 💬 56 • 2d ago • [GitHub](https://github.com/rowboatlabs/rowboat)
 
 ---
 
@@ -290,7 +282,7 @@ Breakdown and commentary on the latest viral commentary from: https://x.com/matt
 
 📺 Matt Wolfe
 
-👁️ 83K • 👍 5K • 💬 1K • ⏱️ 28:06 • 18h ago
+👁️ 83K • 👍 5K • 💬 1K • ⏱️ 28:06 • 20h ago
 
 ---
 
@@ -300,7 +292,7 @@ The first 500 people to use my link in the description or scan the QR code will 
 
 📺 Sajjaad Khader
 
-👁️ 16K • 👍 979 • 💬 123 • ⏱️ 14:51 • 20h ago
+👁️ 16K • 👍 979 • 💬 123 • ⏱️ 14:51 • 21h ago
 
 ---
 
@@ -310,7 +302,7 @@ Here's the revised version with links placed first, clean and campaign-compliant
 
 📺 Aasil Khan
 
-👁️ 3K • 👍 279 • 💬 20 • ⏱️ 7:44 • 7h ago
+👁️ 3K • 👍 279 • 💬 20 • ⏱️ 7:44 • 9h ago
 
 ---
 
@@ -360,7 +352,7 @@ There will be a wake up call and a reckoning for entire sectors who are adopting
 
 📺 The Tech Report
 
-👁️ 36K • 👍 1K • 💬 485 • ⏱️ 34:47 • 23h ago
+👁️ 36K • 👍 1K • 💬 485 • ⏱️ 34:47 • 1d ago
 
 ---
 
@@ -380,7 +372,7 @@ CNBC's Deirdre Bosa reports on AI's impact on equity markets.
 
 📺 CNBC Television
 
-👁️ 11K • 👍 95 • 💬 45 • ⏱️ 2:17 • 22h ago
+👁️ 11K • 👍 95 • 💬 45 • ⏱️ 2:17 • 1d ago
 
 ---
 
@@ -408,7 +400,7 @@ MiniCPM-o 4.5 is a 9B parameter multimodal LLM excelling in vision, speech, and 
 
 `any-to-any` `9.4B`
 
-⬇️ 40,441 • ❤️ 994 • 3h ago
+⬇️ 40,441 • ❤️ 994 • 4h ago
 
 ---
 
@@ -653,7 +645,7 @@ The Ultimate Collection of 800+ Agentic Skills for Claude Code/Antigravity/Curso
 
 `Python` `agentic-skills` `ai-agents` `antigravity` `autonomous-coding` `claude-code`
 
-⭐ 8.6k • 🔱 1.8k • 11h ago
+⭐ 8.6k • 🔱 1.8k • 12h ago
 
 ---
 
@@ -707,7 +699,7 @@ Smart LLM router — save 78% on inference costs. 30+ models, one wallet, x402 m
 
 `TypeScript` `ai` `ai-agents` `anthropic` `cost-optimization` `crypto`
 
-⭐ 2.3k • 🔱 228 • 1h ago
+⭐ 2.3k • 🔱 228 • 3h ago
 
 ---
 
@@ -717,7 +709,7 @@ All-in-one AI framework & toolkit for Claude Code & Cursor
 
 `Python` `ai-agent` `ai-coding` `claude-code` `cli` `cursor`
 
-⭐ 2.2k • 🔱 110 • 14h ago
+⭐ 2.2k • 🔱 110 • 15h ago
 
 ---
 
@@ -727,7 +719,7 @@ The visual feedback tool for agents.
 
 `TypeScript` `ai` `design` `tools` `ui`
 
-⭐ 2.1k • 🔱 155 • 11h ago
+⭐ 2.1k • 🔱 155 • 12h ago
 
 ---
 
@@ -737,7 +729,7 @@ A native desktop GUI for Claude Code — chat, code, and manage projects visuall
 
 `TypeScript` `ai` `anthropic` `claude` `claude-code` `desktop-app`
 
-⭐ 1.8k • 🔱 186 • 14m ago
+⭐ 1.8k • 🔱 186 • 1h ago
 
 ---
 
