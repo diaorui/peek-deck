@@ -3,7 +3,7 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-02-12T21:35:17.349883+00:00'
+updated: '2026-02-12T22:34:29.634766+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
@@ -17,7 +17,7 @@ data_types:
 
 Robotics research and industry news
 
-**Last Updated:** February 12, 2026 at 21:35 UTC  
+**Last Updated:** February 12, 2026 at 22:34 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -36,7 +36,7 @@ Robotics research and industry news
 
 I built this last year. Made those suction cups from scratch, it has camera, TOF and force/touch sensors. Does anyone see a useful use case for this robot? I’m of out of ideas! :)
 
-21h ago
+22h ago
 
 ---
 
@@ -44,7 +44,15 @@ I built this last year. Made those suction cups from scratch, it has camera, TOF
 
 We're sharing how we bridged the Sim-to-Real gap by simulating the embedded system, not just the physics. We kept running into the same problem with Asimov Legs. Policies that worked perfectly in sim failed on hardware. Not because physics was off, but because of CAN packet delays, thread timing, and IMU drift. So we stopped simulating just the robot body and started simulating the entire embedded environment. Our production firmware (C/C++) runs unmodified inside the sim. It doesn't know it's in a simulation. The setup: MuJoCo Physics -> Raw IMU Data -> I2C Emulator -> Firmware Sensor Fusion (C) -> Control Loop -> CANBus Emulator -> Motor Emulator -> back to MuJoCo Raw accel/gyro data streams over an emulated I2C bus (register-level lsm6dsox behavior), firmware runs xioTechnologies/Fusion library in C for gravity estimation, and torque commands go through an emulated CANbus. The key part, Motor Emulator injects random jitter (0.4ms–2ms uniform) between command and response. Our motor datasheet claims 0.4ms response time. Reality is different: Firmware -> CMD Torque Request (t=0) -> CANbus Emulator -> [INJECTED JITTER 0.4-2.0ms] -> MuJoCo -> New State -> Firmware If the firmware isn't ready when the response comes back, the control loop breaks. Same as real life. This caught race conditions in threading, CAN parsing errors under load, policy jitter intolerance, and sensor fusion drift from timing mismatches. All stuff we used to only find on real hardware. Result: zero-shot sim2real locomotion on our 12-DOF biped from a single policy Forward/backward walking (0.6m/s), lateral movement, and push recovery Previously we tried this with a Unitree G1 and couldn't get there. Closed firmware hides the failure modes. Sim2real is fundamentally an observability problem. Full writeup with codes & analysis: https://news.asimov.inc/p/noise-is-all-you-need
 
-16h ago
+17h ago
+
+---
+
+**[If scaling laws are the key and all we need is good data, what’s there to work on?](https://www.reddit.com/r/robotics/comments/1r2zkhf/if_scaling_laws_are_the_key_and_all_we_need_is/)**
+
+As someone starting research in robotics, this has been on my mind for a while. I see a new VLA every week claiming it outperforms XYZ with better quality and more data. If that’s all it takes, what problems are actually still open? If everything can be countered with “just get more data,” what is left to research?
+
+5h ago
 
 ---
 
@@ -56,11 +64,11 @@ Boston Dynamics CEO Robert Playter told staff on Tuesday that he'll be stepping 
 
 ---
 
-**[If scaling laws are the key and all we need is good data, what’s there to work on?](https://www.reddit.com/r/robotics/comments/1r2zkhf/if_scaling_laws_are_the_key_and_all_we_need_is/)**
+**[Help with migration from Gazebo Classic to Ignition (wall gaps)](https://www.reddit.com/r/robotics/comments/1r37nfe/help_with_migration_from_gazebo_classic_to/)**
 
-As someone starting research in robotics, this has been on my mind for a while. I see a new VLA every week claiming it outperforms XYZ with better quality and more data. If that’s all it takes, what problems are actually still open? If everything can be countered with “just get more data,” what is left to research?
+Hi! I’ve been using TurtleBot with Gazebo Classic for a simulation project and recently migrated my model to Gazebo Ignition. Since the migration I’ve run into a few issues, especially with wall and floor textures (which I understand is expected due to conversion), but the main problem is visible gaps between walls. I attached screenshots showing how a section of the map is supposed to look vs how it currently looks in Ignition. I tried slightly increasing the wall lengths, but it didn’t noticeably improve the gaps. Does anyone know what typically causes this after Classic to Ignition conversion or how to properly fix it? I’m not sure if this is a common issue, but I wasn’t able to find much information about it online, so apologies if this is something obvious. This is a bit time-sensitive, so I’d really appreciate any guidance!
 
-4h ago
+3m ago
 
 ---
 
@@ -68,7 +76,7 @@ As someone starting research in robotics, this has been on my mind for a while. 
 
 Been working on my DIY drone for the past few days. Facing a weird issue, motors stop increasing speed after ~30–35% throttle, and the drone needs almost 50% throttle just to slightly lift. During ESC calibration, all motors run perfectly at full throttle. Seems like a code/control logic issue. Been stuck on this for days, any suggestions would help.
 
-14h ago
+15h ago
 
 ---
 
@@ -76,7 +84,7 @@ Been working on my DIY drone for the past few days. Facing a weird issue, motors
 
 This article argues that robot deployment is starting to shift away from traditional application-specific coding toward AI-powered low-code and no-code platforms. Instead of writing custom logic for every product change, teams are using visual interfaces, task demonstration, and AI reasoning to configure workflows. In inspection and assembly, systems can adapt to variation and real-time inputs without being explicitly programmed for every scenario.
 
-🔗 [Automate](https://www.automate.org/ai/industry-insights/ai-low-code-and-no-code-solutions-in-robotics) • 6h ago
+🔗 [Automate](https://www.automate.org/ai/industry-insights/ai-low-code-and-no-code-solutions-in-robotics) • 7h ago
 
 ---
 
@@ -84,7 +92,7 @@ This article argues that robot deployment is starting to shift away from traditi
 
 MOHAWK Runtime & Reference Node Agent A tiny Federated Learning (FL) pipeline built to prove the security model for decentralized spatial intelligence. This repo serves as the secure execution skeleton (Go + Wasmtime + TPM) for the broader Sovereign Map ecosystem. 🧩 Ecosystem Integration This prototype is designed to be integrated with: Sovereign Map Federated Learning: Real FL logic, models, and optimizers. Sovereign-Map-V2: Orchestration and business logic. Autonomous-Mapping: Mapping agents and task management.
 
-🔗 [GitHub](https://github.com/rwilliamspbg-ops/Sovereign-Mohawk-Proto) • 7h ago
+🔗 [GitHub](https://github.com/rwilliamspbg-ops/Sovereign-Mohawk-Proto) • 8h ago
 
 ---
 
@@ -92,23 +100,15 @@ MOHAWK Runtime & Reference Node Agent A tiny Federated Learning (FL) pipeline bu
 
 Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.
 
-🔗 [youtube.com](https://youtube.com/shorts/oKXw1YJcoXU?si=eBA6b4QUD-VM8VIq) • 8h ago
+🔗 [youtube.com](https://youtube.com/shorts/oKXw1YJcoXU?si=eBA6b4QUD-VM8VIq) • 9h ago
 
 ---
 
-**[Animating a Orin Nano Super based Robot via a SO-101 leader arm, and a Lilygo T-embed Plus](https://www.reddit.com/r/robotics/comments/1r2h1v9/animating_a_orin_nano_super_based_robot_via_a/)**
+**[Why Universities (not Corporations) should be the "Genesis" for the next global map.](https://www.reddit.com/r/robotics/comments/1r34w3g/why_universities_not_corporations_should_be_the/)**
 
-Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.
+Google and Apple have a "God View" of our physical world. Every street, alley, and POI is locked inside a corporate silo. If we want a truly neutral digital twin of our world, we can’t just "regulate" these monopolies—we have to build an architecture that is structurally incapable of becoming one. I just finished an analysis of Sovereign Map, a "coordinatorless" DePIN project that is trying to solve this by anchoring the network in University Genesis Nodes. The Core Concept: Instead of a central company deciding what’s on the map, the network uses academic institutions as neutral validators. Because universities have research mandates rather than profit-at-all-costs motives, they serve as the perfect "trust layer." The Tech Stack (Sovereign Mohawk Protocol): TPM 2.0: The network requires hardware-level attestation. You aren’t "trusting" the university; you’re trusting a Trusted Platform Module chip that proves the node is running untampered code. Wasmtime (WebAssembly): All spatial logic runs in a secure sandbox. Differential Privacy: The protocol injects mathematical noise at the hardware level so raw telemetry is never exposed. Why Universities? They have the fiber, the compute, and the ethical oversight. By hosting these nodes, they keep spatial data as a public good rather than a proprietary asset. Is a "coordinatorless" map actually viable, or will the lack of central management lead to data chaos? I'm curious what r/DePIN thinks about using institutional hardware (TPM-backed) as the root of trust for spatial intelligence. Source: r/SovereignMap
 
-🔗 [youtube.com](https://www.youtube.com/shorts/rWqI9G9763o) • 19h ago
-
----
-
-**[Humanoid robot performing a Chinese sword dance alongside a human](https://www.reddit.com/r/robotics/comments/1r2lyzl/humanoid_robot_performing_a_chinese_sword_dance/)**
-
-Saw this humanoid doing a Chinese sword dance next to a human performer. The movement looks fairly stable. Lately there have been a lot of humanoid demos released, like boxing, kung fu, dancing, etc — and most of them look impressive on video. But it’s getting harder to tell what these clips actually say about real control versus well-tuned scripts.
-
-🔗 [youtube.com](https://youtube.com/shorts/020ReZvanDY?feature=share) • 15h ago
+1h ago
 
 ---
 
@@ -116,11 +116,19 @@ Saw this humanoid doing a Chinese sword dance next to a human performer. The mov
 
 ## Google News: "robotics"
 
-**[Upside Robotics is reducing fertilizer use and waste in corn crops](https://techcrunch.com/2026/02/11/upside-robotics-is-reducing-fertilizer-use-and-waste-in-corn-crops/)**
+**[If robots take the auto jobs, who’s left with money to buy cars?](https://www.autonews.com/manufacturing/anc-humanoid-robots-threaten-auto-industry-jobs-0209/)**
 
-Upside Robotics builds autonomous solar-powered robots that can help farmers reduce their fertilizer use by 70%.
+Larry Savage, a professor of labour studies at Brock University, says governments might need to step in to help protect jobs that are under the threat of automation.
 
-TechCrunch • 1d ago
+Automotive News • 11h ago
+
+---
+
+**[Italy: Humanoid robot welder to help shipyards improve safety and efficiency](https://interestingengineering.com/ai-robotics/italy-humanoid-robot-welder-shipyards)**
+
+Fincanteri has partnered with Generative Bionics to deploy a humanoid robot welder to improve shipyard safety and efficiency.
+
+Interesting Engineering • 14h ago
 
 ---
 
@@ -132,19 +140,11 @@ Fox News • 2d ago
 
 ---
 
-**[If robots take the auto jobs, who’s left with money to buy cars?](https://www.autonews.com/manufacturing/anc-humanoid-robots-threaten-auto-industry-jobs-0209/)**
+**[Haply Robotics raises $16 million to build the “steering wheels” for physical AI](https://betakit.com/haply-robotics-raises-16-million-to-build-the-steering-wheels-for-physical-ai/)**
 
-Larry Savage, a professor of labour studies at Brock University, says governments might need to step in to help protect jobs that are under the threat of automation.
+How the Montréal startup plans to own the touch layer of robotics.
 
-Automotive News • 10h ago
-
----
-
-**[China starts 'world’s first' robot combat league with $1.44M prize](https://interestingengineering.com/ai-robotics/china-worlds-first-humanoid-robot-combat-league)**
-
-The world's first-ever free robot combat league commenced in China's Shenzhen province, showcasing the country's tech advancements.
-
-Interesting Engineering • 2d ago
+BetaKit • 3d ago
 
 ---
 
@@ -152,7 +152,7 @@ Interesting Engineering • 2d ago
 
 For the mission, Motiv will be developing the robotic system, while PickNik will provide robot motion planning and arm control software.
 
-The Robot Report • 2h ago
+The Robot Report • 3h ago
 
 ---
 
@@ -212,7 +212,7 @@ War Robots Gameplay, trying the UE VORTEX NUO but realizing that the robot is un
 
 📺 Manni-Gaming
 
-👁️ 14K • 👍 983 • 💬 270 • ⏱️ 10:29 • 17h ago
+👁️ 14K • 👍 983 • 💬 270 • ⏱️ 10:29 • 18h ago
 
 ---
 
@@ -276,7 +276,7 @@ Humanoid robots don't fail at tasks. They fail at presence. The hardest part of 
 
 📺 Concept Bytes
 
-👁️ 31K • 👍 2K • 💬 34 • ⏱️ 1:24 • 6d ago
+👁️ 31K • 👍 2K • 💬 34 • ⏱️ 1:24 • 7d ago
 
 ---
 

@@ -3,7 +3,7 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-02-12T21:35:17.340538+00:00'
+updated: '2026-02-12T22:34:29.625632+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
@@ -18,7 +18,7 @@ data_types:
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** February 12, 2026 at 21:35 UTC  
+**Last Updated:** February 12, 2026 at 22:34 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,17 +38,17 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $65,937.89
+### $65,842.01
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** -3.4%  
-**7d:** -7.1%  
-**30d:** -32.4%  
-**90d:** -31.4%  
-**1y:** -32.1%  
+**24h:** -1.7%  
+**7d:** -6.6%  
+**30d:** -32.0%  
+**90d:** -30.9%  
+**1y:** -31.7%  
 
 ---
 
@@ -79,13 +79,27 @@ Rank #1
 
 **[Bitcoin, what are you doing](https://www.reddit.com/r/Bitcoin/comments/1r2u1yl/bitcoin_what_are_you_doing/)**
 
-7h ago
+8h ago
 
 ---
 
 **[Which one are you?](https://www.reddit.com/r/Bitcoin/comments/1r32e5a/which_one_are_you/)**
 
-2h ago
+3h ago
+
+---
+
+**[VanEck said it knows 13 governments that are actively mining Bitcoin](https://www.reddit.com/r/Bitcoin/comments/1r35qqv/vaneck_said_it_knows_13_governments_that_are/)**
+
+1h ago
+
+---
+
+**[My dip buying strategy. Started from$80K](https://www.reddit.com/r/Bitcoin/comments/1r2pzse/my_dip_buying_strategy_started_from80k/)**
+
+I set alerts for my dip buying strategy. I have been buying since $80K and these are my next targets. Hope it all hit perfectly. I may increase the amounts depending on my savings.
+
+12h ago
 
 ---
 
@@ -101,13 +115,13 @@ It's estimated 80% of the price decline seen in the past 30 days is from derivat
 
 BlackRock exec says 1% crypto allocation in Asia could unlock $2 trillion in new flows
 
-🔗 [s.followin.io](https://s.followin.io/s/yYHesWRHFD) • 13h ago
+🔗 [s.followin.io](https://s.followin.io/s/yYHesWRHFD) • 14h ago
 
 ---
 
 **[Spending sats at the farmers market in El Zonte](https://www.reddit.com/r/Bitcoin/comments/1r2niwb/spending_sats_at_the_farmers_market_in_el_zonte/)**
 
-13h ago
+14h ago
 
 ---
 
@@ -115,23 +129,15 @@ BlackRock exec says 1% crypto allocation in Asia could unlock $2 trillion in new
 
 It fkn sucks that we have to pay taxes on LITERALLY everything here in sweden, with that said.. the government does the calculating and we just have to file the document.. but thats not the case for crypto and btc… i have to do it on my own and the process seems intimidating cuz its not only 30% of the profit that i have to calculate but something called “cost basis” on EVERY transaction so that when i sell (the taxable event) i have all my numbers… anyone going through the same would appreciate some help and tips..
 
-9h ago
+10h ago
 
 ---
 
-**[My dip buying strategy. Started from$80K](https://www.reddit.com/r/Bitcoin/comments/1r2pzse/my_dip_buying_strategy_started_from80k/)**
+**[Super simple Bitcoin explainer to send friends & fam](https://www.reddit.com/r/Bitcoin/comments/1r35034/super_simple_bitcoin_explainer_to_send_friends_fam/)**
 
-I set alerts for my dip buying strategy. I have been buying since $80K and these are my next targets. Hope it all hit perfectly. I may increase the amounts depending on my savings.
+Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.
 
-11h ago
-
----
-
-**[Bitcoin easy steps to success.](https://www.reddit.com/r/Bitcoin/comments/1r2vplp/bitcoin_easy_steps_to_success/)**
-
-Go open an account at the national bank of Canada to do your Bitcoin transactions with they don't close your account like all the other banks are doing right now to everyone else that is with BMO for example. They close it the first time you buy Bitcoin. Don't do it on BMO.
-
-6h ago
+🔗 [youtu.be](https://youtu.be/CtMmNTc4yho?si=KsfHcWT8SHWGRs6S) • 1h ago
 
 ---
 
@@ -139,15 +145,7 @@ Go open an account at the national bank of Canada to do your Bitcoin transaction
 
 A huge short squeeze is on the horizon most people are betting short now this will trigger a massive squeeze very soon nows when I add my money I don’t buy anything on leverage do you believe a squeeze is setting up
 
-8h ago
-
----
-
-**[Lowest fear and greed index ever today: 5](https://www.reddit.com/r/Bitcoin/comments/1r2ekdw/lowest_fear_and_greed_index_ever_today_5/)**
-
-From what I am seeing: https://alternative.me/crypto/fear-and-greed-index/ we just just got the lowest fear and greed score ever: 5 https://preview.redd.it/8vnse0l6jyig1.png?width=722&format=png&auto=webp&s=bf1cd65764d691ded626c82771a355d080635500
-
-21h ago
+9h ago
 
 ---
 
@@ -155,11 +153,41 @@ From what I am seeing: https://alternative.me/crypto/fear-and-greed-index/ we ju
 
 ## Google News: "bitcoin"
 
-**[Crypto expert explains why bitcoin makes 'perfect record' for tracking down criminals](https://www.foxbusiness.com/lifestyle/crypto-expert-explains-why-bitcoin-makes-perfect-record-tracking-down-criminals)**
+**[Bitcoin reportedly sent to wallet associated with Nancy Guthrie’s ransom letter providing potential clue in investigation](https://fortune.com/2026/02/11/bitcoin-reportedly-sent-to-wallet-associated-with-nancy-guthries-ransom-letter/)**
 
-Blockchain technology makes cryptocurrency transactions fully traceable on public ledgers, creating powerful tools for law enforcement investigations.
+Meanwhile, authorities released surveillance video showing the alleged captor who remains at large.
 
-Fox Business • 11h ago
+Fortune • 1d ago
+
+---
+
+**[Coinbase falls short of Q4 estimates amid bitcoin slump](https://finance.yahoo.com/video/coinbase-falls-short-q4-estimates-212652971.html)**
+
+Cryptocurrency exchange Coinbase Global (COIN) is out with its fourth quarter earnings, missing both Wall Street's expectations on adjusted earnings ($0.66 per share vs. estimates of $0.86) and total revenue ($1.8 billion vs. estimates of $1.83 billion). Market Domination Overtime Host Josh Lipton dives into Coinbase's earnings release. To watch more expert insights and analysis on the latest market action, check out more&nbsp;Market Domination Overtime.
+
+Yahoo Finance • 1h ago
+
+---
+
+**[Coinbase Reports Q4 Miss With $667 Million Loss Amid Bitcoin Retreat](https://finance.yahoo.com/news/coinbase-reports-q4-miss-667-212749462.html)**
+
+Coinbase reported a down quarter for the end of 2025, with its investment portfolio plunging alongside Bitcoin and other crypto assets.
+
+Yahoo Finance • 1h ago
+
+---
+
+**[Bitcoin's drawdown hit 50%. History shows it may have further to go](https://www.cnbc.com/2026/02/12/bitcoins-drawdown-hit-50percent-history-shows-it-may-have-further-to-go.html)**
+
+Bitcoin has a history of falling about 75% during each four-year cycle, suggesting the token is on track to fall even further in the near future.
+
+CNBC • 8h ago
+
+---
+
+**[Bitcoin price steadies but fresh fears suggest slide to $52k](https://uk.finance.yahoo.com/news/bitcoin-price-crypto-us-jobs-101234268.html)**
+
+Yahoo Finance UK • 12h ago
 
 ---
 
@@ -169,61 +197,29 @@ Reuters • 1d ago
 
 ---
 
-**[Bitcoin Briefly Drops Below $67,000 as Stock Divergence Rises](https://finance.yahoo.com/news/bitcoin-slides-below-67-000-070036071.html)**
+**[Bitcoin bounce fades as it hovers around $66,000](https://www.cnbc.com/2026/02/11/bitcoin-price-today-crypto-volatility.html)**
 
-“Bitcoin has fallen below $67,000, recording its third daily bearish candle,” Alex Kuptsikevich, chief market analyst at FxPro Group, said in a note.  “We suspect last week’s $60,000 low, created on massive volumes, is a capitulation type low, a clear catalyst for a sustained rebound remains elusive,” said Tony Sycamore, an analyst, IG Australia.  Rate cuts have been historically viewed as positive catalyst for Bitcoin since they generally increase demand for higher returning riskier assets.
+Market watchers said bitcoin is showing signs that its historical four-year cycle around halving remains intact.
 
-Yahoo Finance • 23h ago
-
----
-
-**[Bitcoin's drawdown hit 50%. History shows it may have further to go](https://www.cnbc.com/2026/02/12/bitcoins-drawdown-hit-50percent-history-shows-it-may-have-further-to-go.html)**
-
-Bitcoin has a history of falling about 75% during each four-year cycle, suggesting the token is on track to fall even further in the near future.
-
-CNBC • 7h ago
+CNBC • 1d ago
 
 ---
 
-**[Bitcoin hovers near $65,000 as investor frustration grows over 'disconnect' with gold](https://finance.yahoo.com/news/bitcoin-hovers-near-65000-as-investor-frustration-grows-over-disconnect-with-gold-183451704.html)**
+**[JPMorgan sees bitcoin support near $77,000, remains 'positive' on crypto in 2026](https://www.theblock.co/post/389706/jpmorgan-bitcoin-support-77000-positive-crypto-2026)**
 
-Bitcoin hovered near $65,000 on Thursday as investor disappointment grew over its failure to track gold's climb this year.
-
-Yahoo Finance • 3h ago
+The Block • 4h ago
 
 ---
 
-**[Crypto lender BlockFills suspends withdrawals for clients in latest blow to the blockchain sector](https://fortune.com/2026/02/12/crypto-lender-blockfills-suspends-withdrawals-for-clients/)**
+**[Bitcoin, XRP, Ether Are Falling Again. Why Cryptos May Soon Get a Boost.](https://www.barrons.com/articles/bitcoin-xrp-ether-cryptos-jobs-report-343266f8?gaa_at=eafs&gaa_n=AWEtsqeGolmfPznLvPwWOLMjbIXwI77IvEbauNFfj1UIG02cB8q0Wfx48ycS&gaa_ts=698e58d8&gaa_sig=f8rbxTx-6WJPiw81p9GCDm0L0HLBVb9PLKjNtjdKZ5sNDnabjPREyE7wCC48CUzdolzbRoVHHqZzpM7rYykCvQ%3D%3D)**
 
-During the digital assets crash of 2022, lenders made similar protective moves.
-
-Fortune • 1h ago
+Barron's • 1d ago
 
 ---
 
-**[Strategy (MSTR) Accounted for 97.5% of Corporate Bitcoin Buying Last Month, Report Shows](https://bitcoinmagazine.com/news/strategy-mstr-accounted-corporate-bitcoin)**
+**[Robinhood’s stock is now trading almost exactly like bitcoin — but it really shouldn’t be](https://www.marketwatch.com/story/robinhoods-stock-is-now-trading-almost-exactly-like-bitcoin-but-it-really-shouldnt-be-a9a88715?gaa_at=eafs&gaa_n=AWEtsqfnF7hKQvC4crtGI9SY-X-6f1wuZpOLhZQ6_gx5Oy4nHBExxfBwi7QK&gaa_ts=698e58d8&gaa_sig=f5RJhKAngsbzK8ygOUKbA8Tzufy8CAkIAAyYHvHrOjEcx4VnbUZ7fPxEVJYN0TShLkvKyXIzP792cu3yNT85fA%3D%3D)**
 
-The corporate adoption of bitcoin was dominated by a single player last month — Strategy.
-
-Bitcoin Magazine • 2h ago
-
----
-
-**[Bitcoin, XRP, Ether Are Rising. Cryptos Are Shrugging Off Strong Jobs Data.](https://www.barrons.com/articles/bitcoin-ether-xrp-cryptos-jobs-data-2e376c76?gaa_at=eafs&gaa_n=AWEtsqcQL4Mt7m9oTys_j8NACsZ3hlg33PTMy9QZnVzh6CIy-74QVlPBTIeu&gaa_ts=698e3d45&gaa_sig=sJA8LoxIk5PxHXFw_6jHEB5PNKuZVcl7XpSX5C0NQzFx-VyfNWqpQsRPnimgZRtAp_psiOnYpwys7c3VLq2ddQ%3D%3D)**
-
-Barron's • 9h ago
-
----
-
-**[Bitcoin, Big Tech and the AI Trade Rollercoaster](https://www.bloomberg.com/news/articles/2026-02-12/why-bitcoin-and-tech-stocks-are-under-pressure-australia-podcast)**
-
-Bloomberg.com • 18h ago
-
----
-
-**[bitcoin hit $65k and nobody cared. here's why that might be the real story](https://www.binance.com/en/square/post/290605505147937)**
-
-Binance • 1d ago
+MarketWatch • 1h ago
 
 ---
 
@@ -315,7 +311,7 @@ Make Free Bitcoin & Crypto Predictions on *ClashPicks* ▻ https://www.clashpick
 
 📺 CryptosRUs
 
-👁️ 19K • 👍 1K • 💬 259 • ⏱️ 51:44 • 5h ago
+👁️ 19K • 👍 1K • 💬 259 • ⏱️ 51:44 • 6h ago
 
 ---
 
@@ -325,7 +321,7 @@ Let's talk about a few indicators that give some suggestions on how low the pric
 
 📺 Benjamin Cowen
 
-👁️ 112K • 👍 8K • 💬 574 • ⏱️ 23:30 • 17h ago
+👁️ 112K • 👍 8K • 💬 574 • ⏱️ 23:30 • 18h ago
 
 ---
 
@@ -335,7 +331,7 @@ Bitcoin #Crypto #Finance Stay ahead of the market — FREE Join the DataDash Pro
 
 📺 DataDash
 
-👁️ 3K • 👍 240 • 💬 7 • ⏱️ 15:09 • 5h ago
+👁️ 3K • 👍 240 • 💬 7 • ⏱️ 15:09 • 6h ago
 
 ---
 
@@ -365,7 +361,7 @@ Samson Mow just dropped a BOMBSHELL about what's really happening to Bitcoin. Th
 
 📺 Money Talks
 
-👁️ 188 • 👍 9 • 💬 165 • ⏱️ 10:33 • 3h ago
+👁️ 188 • 👍 9 • 💬 165 • ⏱️ 10:33 • 4h ago
 
 ---
 
@@ -385,7 +381,7 @@ BYBIT: http://themoon.co/Bybit 10% DISCOUNT & $30000 BONUS Phemex: https://themo
 
 📺 The Moon Show
 
-👁️ 11K • 👍 602 • 💬 131 • ⏱️ 6:39 • 11h ago
+👁️ 11K • 👍 602 • 💬 131 • ⏱️ 6:39 • 12h ago
 
 ---
 
@@ -405,7 +401,7 @@ BlackRock + Joe Rogan + Ethereum.. Biggest Crypto News Happening Now!! Become a 
 
 📺 Altcoin Daily
 
-👁️ 51K • 👍 3K • 💬 745 • ⏱️ 9:41 • 21h ago
+👁️ 51K • 👍 3K • 💬 745 • ⏱️ 9:41 • 22h ago
 
 ---
 
