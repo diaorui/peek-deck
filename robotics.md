@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-02-13T21:37:19.494974+00:00'
+updated: '2026-02-13T22:35:00.315072+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- social
 - videos
 - news
+- social
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** February 13, 2026 at 21:37 UTC  
+**Last Updated:** February 13, 2026 at 22:35 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -36,7 +36,7 @@ Robotics research and industry news
 
 I posted a video a couple of days ago on r/esp32 showing my Open-Source robot dance, and some people wanted to see it walk ... here you go ! Got a complete walking gate & added remote control :) Everything runs on the ESP32-S3 ! What do you think ?
 
-7h ago
+8h ago
 
 ---
 
@@ -44,23 +44,21 @@ I posted a video a couple of days ago on r/esp32 showing my Open-Source robot da
 
 From hardware to software, I see every day tons of new startups, mostly around AI. I'm not sure if it's just me that my Twitter algorithm but like every day someone appears with all kinds of products. Lately i see an abundance of data collection, AI schematic or PCB creators, AI ros configurators, etc.... Are the tech bros got tired of AI SaaS saturation and getting into robotics hoping to get an edge?
 
-3h ago
+4h ago
 
 ---
 
-**[ROS News for the Week of February 9th, 2026 - Community News](https://www.reddit.com/r/robotics/comments/1r3z1ur/ros_news_for_the_week_of_february_9th_2026/)**
+**[My grandmother has seen a little too much Winter Olympics](https://www.reddit.com/r/robotics/comments/1r4316q/my_grandmother_has_seen_a_little_too_much_winter/)**
 
-ROS News for the Week of February 9th, 2026                This week we got up a skeleton web page for our 2026 Global ROSCon in Toronto, meanwhile ROSCon JP and ROSCon HR have posted their CFP deadlines. Otherwise there are bunch of meetups that were just announced for Mountain View, Barcelona, Moscow, and Heilbronn. Details in the event section below.      NVIDIA Isaac ROS 4.1 for Thor has been released! They’re giving the people what they want, as this release removes the Docker requirements ...
-
-🔗 [Open Robotics Discourse](https://discourse.openrobotics.org/t/ros-news-for-the-week-of-february-9th-2026/52513) • 1h ago
+14m ago
 
 ---
 
-**[I am not able to send commands to my Unitree Motor](https://www.reddit.com/r/robotics/comments/1r3y86g/i_am_not_able_to_send_commands_to_my_unitree_motor/)**
+**[Creating simulation environments from real world?](https://www.reddit.com/r/robotics/comments/1r430an/creating_simulation_environments_from_real_world/)**
 
-The unitree motor model is go_8010_6. I have been facing this repeated error whenever I try to run the simple example code from the Unitree_actuator_sdk. --------------------------------------------- [WARNING] SerialPort::recv, unblock version, wait time out [WARNING] motor id=1 does not reply port: /dev/ttyUSB0 motor.q: 4.25378e-41 motor.temp: 0 motor.W: 6.91788e-23 motor.merror: 447169392 ----------------------------------------------- I would think this is because of the fact that the computer is not able to detect the motor but I believe thats not the case because when i checked through the motor tools vibhu@vibhu-Legion-Pro-5-16IRX9:~/unitree/unitree_actuator_sdk/motor_tools/Unitree_MotorTools_v1.2.4_x86_64_Linux$ sudo ./swboot /dev/ttyUSB0 [sudo] password for vibhu: 1.Motor ID 1 --------------- Total 1 motors ------------------------------------------------ the bolded part is the output. The motor id and the number of motors connected is being shown. I was wondering if anyone would be able to assist me with this as I have been stuck on it for more than a few days and have already tried it on different systems.
+Has anyone done this? Basically, I need to put a real world lab (I have RGB-D data and maps) into Isaac Sim somehow to create a labeled point cloud dataset for point cloud segmentation. Is there an existing way to do this that can structure the environment and label objects in the simulation world for automatic data collection?
 
-2h ago
+15m ago
 
 ---
 
@@ -68,7 +66,7 @@ The unitree motor model is go_8010_6. I have been facing this repeated error whe
 
 Howdy! I am a robotic engineer who has dived deep into DIY QDD actuators, creating custom servos, and making humanoids/quadriped robots. I wanted to know if anyone has done broad market research in the best actuators or servos on the market? As of now, I see two options Smaller form factor: Servos that can do 35kg of torque, STS3215 are in this category larger form factor: integrated QDD actuators or DIY drone motors such as eagle power 90kv + 9:1 gearbox, or the GIM6010/8108 motors that get about 5-15 nM of torque. Im thinking that there must be a good middle ground option for control and robotic arms/manipulators/linkages between a small 6010 GIM bldc setup and a STS3215, but i dont see many.
 
-3h ago
+4h ago
 
 ---
 
@@ -76,7 +74,23 @@ Howdy! I am a robotic engineer who has dived deep into DIY QDD actuators, creati
 
 Hi I have an FPV drone that i want to control using a Raspberry Pi. For this i want to connect the RPi to the Flight controller and use it as a companion computer. I am using a GEPRC TAKER F745 currently on a BetaFlight firmware. Any suggestions on how i can connect them or what firmware (Ardupilot/PX4) i can use with ROS2 on the RPi.
 
-5h ago
+6h ago
+
+---
+
+**[ROS News for the Week of February 9th, 2026 - Community News](https://www.reddit.com/r/robotics/comments/1r3z1ur/ros_news_for_the_week_of_february_9th_2026/)**
+
+ROS News for the Week of February 9th, 2026                This week we got up a skeleton web page for our 2026 Global ROSCon in Toronto, meanwhile ROSCon JP and ROSCon HR have posted their CFP deadlines. Otherwise there are bunch of meetups that were just announced for Mountain View, Barcelona, Moscow, and Heilbronn. Details in the event section below.      NVIDIA Isaac ROS 4.1 for Thor has been released! They’re giving the people what they want, as this release removes the Docker requirements ...
+
+🔗 [Open Robotics Discourse](https://discourse.openrobotics.org/t/ros-news-for-the-week-of-february-9th-2026/52513) • 2h ago
+
+---
+
+**[I am not able to send commands to my Unitree Motor](https://www.reddit.com/r/robotics/comments/1r3y86g/i_am_not_able_to_send_commands_to_my_unitree_motor/)**
+
+The unitree motor model is go_8010_6. I have been facing this repeated error whenever I try to run the simple example code from the Unitree_actuator_sdk. --------------------------------------------- [WARNING] SerialPort::recv, unblock version, wait time out [WARNING] motor id=1 does not reply port: /dev/ttyUSB0 motor.q: 4.25378e-41 motor.temp: 0 motor.W: 6.91788e-23 motor.merror: 447169392 ----------------------------------------------- I would think this is because of the fact that the computer is not able to detect the motor but I believe thats not the case because when i checked through the motor tools vibhu@vibhu-Legion-Pro-5-16IRX9:~/unitree/unitree_actuator_sdk/motor_tools/Unitree_MotorTools_v1.2.4_x86_64_Linux$ sudo ./swboot /dev/ttyUSB0 [sudo] password for vibhu: 1.Motor ID 1 --------------- Total 1 motors ------------------------------------------------ the bolded part is the output. The motor id and the number of motors connected is being shown. I was wondering if anyone would be able to assist me with this as I have been stuck on it for more than a few days and have already tried it on different systems.
+
+3h ago
 
 ---
 
@@ -84,29 +98,13 @@ Hi I have an FPV drone that i want to control using a Raspberry Pi. For this i w
 
 part 2 is coming soon, I will be adding propellers and a wind vane so it can move even if the wind is coming from behind! also I may add motors someday:)
 
-22h ago
+23h ago
 
 ---
 
 **[Wall climbing robot](https://www.reddit.com/r/robotics/comments/1r2dtva/wall_climbing_robot/)**
 
 I built this last year. Made those suction cups from scratch, it has camera, TOF and force/touch sensors. Does anyone see a useful use case for this robot? I’m of out of ideas! :)
-
-1d ago
-
----
-
-**[If scaling laws are the key and all we need is good data, what’s there to work on?](https://www.reddit.com/r/robotics/comments/1r2zkhf/if_scaling_laws_are_the_key_and_all_we_need_is/)**
-
-As someone starting research in robotics, this has been on my mind for a while. I see a new VLA every week claiming it outperforms XYZ with better quality and more data. If that’s all it takes, what problems are actually still open? If everything can be countered with “just get more data,” what is left to research?
-
-1d ago
-
----
-
-**[Noise is all you need to bridge the sim2real gap](https://www.reddit.com/r/robotics/comments/1r2kgus/noise_is_all_you_need_to_bridge_the_sim2real_gap/)**
-
-We're sharing how we bridged the Sim-to-Real gap by simulating the embedded system, not just the physics. We kept running into the same problem with Asimov Legs. Policies that worked perfectly in sim failed on hardware. Not because physics was off, but because of CAN packet delays, thread timing, and IMU drift. So we stopped simulating just the robot body and started simulating the entire embedded environment. Our production firmware (C/C++) runs unmodified inside the sim. It doesn't know it's in a simulation. The setup: MuJoCo Physics -> Raw IMU Data -> I2C Emulator -> Firmware Sensor Fusion (C) -> Control Loop -> CANBus Emulator -> Motor Emulator -> back to MuJoCo Raw accel/gyro data streams over an emulated I2C bus (register-level lsm6dsox behavior), firmware runs xioTechnologies/Fusion library in C for gravity estimation, and torque commands go through an emulated CANbus. The key part, Motor Emulator injects random jitter (0.4ms–2ms uniform) between command and response. Our motor datasheet claims 0.4ms response time. Reality is different: Firmware -> CMD Torque Request (t=0) -> CANbus Emulator -> [INJECTED JITTER 0.4-2.0ms] -> MuJoCo -> New State -> Firmware If the firmware isn't ready when the response comes back, the control loop breaks. Same as real life. This caught race conditions in threading, CAN parsing errors under load, policy jitter intolerance, and sensor fusion drift from timing mismatches. All stuff we used to only find on real hardware. Result: zero-shot sim2real locomotion on our 12-DOF biped from a single policy Forward/backward walking (0.6m/s), lateral movement, and push recovery Previously we tried this with a Unitree G1 and couldn't get there. Closed firmware hides the failure modes. Sim2real is fundamentally an observability problem. Full writeup with codes & analysis: https://news.asimov.inc/p/noise-is-all-you-need
 
 1d ago
 
@@ -120,21 +118,7 @@ We're sharing how we bridged the Sim-to-Real gap by simulating the embedded syst
 
 Developing a durable and affordable hand is one of the biggest challenges in robotics.
 
-BBC • 21h ago
-
----
-
-**[A call for a performance-driven approach for soft robotics research](https://www.nature.com/articles/s44182-026-00073-4)**
-
-npj Robotics - A call for a performance-driven approach for soft robotics research
-
-Nature • 1d ago
-
----
-
-**[What happens in Vegas: Three days at Manifest 2026](https://www.axios.com/pro/supply-chain-deals/2026/02/13/manifest-2026-supply-chain-expo-events-receptions)**
-
-Axios • 1h ago
+BBC • 22h ago
 
 ---
 
@@ -154,39 +138,57 @@ Automotive News • 1d ago
 
 ---
 
-**[Robots with human-inspired eyes have better vision](https://www.economist.com/science-and-technology/2026/02/11/robots-with-human-inspired-eyes-have-better-vision)**
+**[A call for a performance-driven approach for soft robotics research](https://www.nature.com/articles/s44182-026-00073-4)**
 
-Their reaction times can even surpass their makers’
+npj Robotics - A call for a performance-driven approach for soft robotics research
 
-The Economist • 2d ago
-
----
-
-**[How A Chinese Engineer Became A Billionaire Making Robotic ‘Eyes’](https://www.forbes.com/sites/zinnialee/2026/02/12/how-a-chinese-engineer-became-a-billionaire-making-robotic-eyes/)**
-
-Forbes • 20h ago
+Nature • 1d ago
 
 ---
 
-**[Alibaba Launches RynnBrain AI Model for Robots](https://www.eweek.com/news/alibaba-launches-rynnbrain-ai-model-for-robots/)**
+**[What happens in Vegas: Three days at Manifest 2026](https://www.axios.com/pro/supply-chain-deals/2026/02/13/manifest-2026-supply-chain-expo-events-receptions)**
 
-eWeek • 2d ago
-
----
-
-**[Should You Think About Buying Kraken Robotics Inc. (CVE:PNG) Now?](https://finance.yahoo.com/news/think-buying-kraken-robotics-inc-184116986.html)**
-
-Kraken Robotics Inc. ( CVE:PNG ), is not the largest company out there, but it received a lot of attention from a...
-
-Yahoo Finance • 1d ago
+Axios • 2h ago
 
 ---
 
-**[GE Aerospace uses robots to fix jet engine blades, reduce repair delay](https://interestingengineering.com/ai-robotics/ge-aerospace-robots-jet-engine-repair)**
+**[Humanoid robots are getting smaller, safer and closer](https://www.foxnews.com/tech/humanoid-robots-getting-smaller-safer-closer)**
 
-GE Aerospace is teaching robots to repair jet engine blades as global maintenance backlogs stretch into months.
+Fauna Robotics is launching Sprout as a developer platform for humanoid robots. The robot features 29 degrees of freedom and NVIDIA compute power.
 
-Interesting Engineering • 13h ago
+Fox News • 3d ago
+
+---
+
+**[Bedrock Robotics raises $270M in red-hot AI sector](https://www.constructiondive.com/news/bedrock-robotics-raise-ai-automation-funding/811982/)**
+
+The autonomous construction tech provider now boasts total funding of over $350 million and a valuation of $1.75 billion.
+
+Construction Dive • 2d ago
+
+---
+
+**[Upside Robotics is reducing fertilizer use and waste in corn crops](https://techcrunch.com/2026/02/11/upside-robotics-is-reducing-fertilizer-use-and-waste-in-corn-crops/)**
+
+Upside Robotics builds autonomous solar-powered robots that can help farmers reduce their fertilizer use by 70%.
+
+TechCrunch • 2d ago
+
+---
+
+**[Symbotic acquires autonomous forklift maker Fox Robotics](https://www.therobotreport.com/symbotic-acquires-autonomous-forklift-maker-fox-robotics/)**
+
+Symbotic has acquired autonomous forklift developer Fox Robotics in a move that broadens its logistics robotics offerings.
+
+The Robot Report • 3d ago
+
+---
+
+**[Maui students vie for world robotics championship slots](https://mauinow.com/2026/02/11/maui-students-vie-for-world-robotics-championship-slots/)**
+
+Maui County robotics teams will battle rivals statewide this month for 14 coveted spots at the 2026 VEX Robotics World Championships. The Hawaiʻi VEX Regional Championships will draw 114 teams representing public and private schools, as well as club and home organizations from Maui County, Oʻahu and Hawaiʻi Island. The events are free to the [&hellip;]
+
+Maui Now • 2d ago
 
 ---
 
@@ -194,13 +196,33 @@ Interesting Engineering • 13h ago
 
 ## YouTube Videos: "robotics"
 
+**[Thousands of AI-enabled HUMANOID ROBOTS deployed in Ukraine](https://www.youtube.com/watch?v=EllgAYj0E2w)**
+
+Foundation Future Industries CEO Sankaet Pathak discusses the rise of humanoid robots for military use and in the auto sector on ...
+
+📺 Fox Business Clips
+
+👁️ 98K • 👍 3K • 💬 2K • ⏱️ 9:47 • 7h ago
+
+---
+
 **[Boston Dynamics New ATLAS Just Went Full Human Mode (Insane Upgrade)](https://www.youtube.com/watch?v=9aaE5BkD0Ls)**
 
 A massive robotics shift is unfolding right in front of us. Boston Dynamics has revealed a major new Atlas update developed with ...
 
 📺 AI Revolution
 
-👁️ 84K • 👍 2K • 💬 157 • ⏱️ 11:59 • 2d ago
+👁️ 85K • 👍 2K • 💬 165 • ⏱️ 11:59 • 2d ago
+
+---
+
+**[Unitree Embodied AI Model Manufactures Robots in Factory🤩](https://www.youtube.com/watch?v=ub2gWviKZpk)**
+
+Based on Unitree's UnifoLM-X1-0 embodied AI model, this is an actual deployment at Unitree's own robot factory.
+
+📺 Unitree Robotics
+
+👁️ 17K • 👍 613 • 💬 99 • ⏱️ 0:45 • 12h ago
 
 ---
 
@@ -212,23 +234,33 @@ A massive robotics shift is unfolding right in front of us. Boston Dynamics has 
 
 ---
 
+**[China&#39;s Humanoids Wild Out for Year of the Horse #robotics #china #technology #robots](https://www.youtube.com/watch?v=CevSSF60mp4)**
+
+China's humanoid robots are Wild 'N Out as they usher in the Year of the Horse. The Shanghai startup AgiBot kicked off the ...
+
+📺 Kalil 4.0
+
+👁️ 345 • 👍 18 • 💬 3 • ⏱️ 1:52 • 48m ago
+
+---
+
+**[Apple&#39;s First Robot &quot;iBOT&quot; Shocked the World at the 2026 Tech Expo](https://www.youtube.com/watch?v=0JIfaIKAGz8)**
+
+Such a debut would mark a major step for Apple as it expands beyond personal electronics into robotics and embodied artificial ...
+
+📺 Carros Show
+
+👁️ 4K • 👍 96 • 💬 8 • ⏱️ 9:26 • 4d ago
+
+---
+
 **[The “Order 66” Robot Theory with Telsa Optimus and starlink #elonmusk #grok  #humanoidrobots](https://www.youtube.com/watch?v=Y0a1sisNdv0)**
 
 The biggest fear about humanoid robots isn't strength. It's control. Future robots like Optimus are designed to stay connected ...
 
 📺 By 2050
 
-👁️ 27K • 👍 842 • 💬 21 • ⏱️ 0:57 • 18h ago
-
----
-
-**[Boston Dynamics ATLAS Demos 2026 Humanoid Robot Upgrade (AI NEWS)](https://www.youtube.com/watch?v=uTN75z0ixno)**
-
-Boston Dynamics' latest Atlas humanoid robot attempts dramatic parkour flips, dramatically improving spatial awareness and ...
-
-📺 AI News
-
-👁️ 6K • 👍 103 • 💬 24 • ⏱️ 8:03 • 4d ago
+👁️ 37K • 👍 1K • 💬 28 • ⏱️ 0:57 • 19h ago
 
 ---
 
@@ -238,57 +270,27 @@ Can a little Pi-powered bot teach my kids? The Reachy Mini Wireless I used was p
 
 📺 Jeff Geerling
 
-👁️ 19K • 👍 2K • 💬 120 • ⏱️ 12:38 • 6h ago
+👁️ 30K • 👍 2K • 💬 161 • ⏱️ 12:38 • 7h ago
 
 ---
 
-**[The real test for humanoid robots isn’t performance.](https://www.youtube.com/watch?v=4iU9kfIZnhs)**
+**[Boston Dynamics ATLAS Demos 2026 Humanoid Robot Upgrade (AI NEWS)](https://www.youtube.com/watch?v=uTN75z0ixno)**
 
-Humanoid robots don't fail at tasks. They fail at presence. The hardest part of building humanoid robots isn't hardware.
+Boston Dynamics' latest Atlas humanoid robot attempts dramatic parkour flips, dramatically improving spatial awareness and ...
 
-📺 Slidebean
+📺 AI News
 
-👁️ 15K • 👍 531 • 💬 27 • ⏱️ 1:21 • 3d ago
-
----
-
-**[Chinese robotics company’s world-first humanoid machine gala reveals high-tech surprises](https://www.youtube.com/watch?v=lW8_aHE68BE)**
-
-Chinese robotics company AGIBOT redefined the intersection of technology and culture by hosting a historic 60-minute gala ...
-
-📺 ABS-CBN News
-
-👁️ 10K • 👍 93 • 💬 59 • ⏱️ 3:09 • 1d ago
+👁️ 6K • 👍 106 • 💬 24 • ⏱️ 8:03 • 4d ago
 
 ---
 
-**[Tesla Was Never a Car Company #teslaoptimus  #elonmusk  #teslarobot  #teslabotgen3 #humanoidrobots](https://www.youtube.com/watch?v=slqW7zBA6Oc)**
+**[The AI Robot Situation Is Growing Faster Than We Think… ](https://www.youtube.com/watch?v=fkyChIRSF18)**
 
-They laughed when Elon Musk brought a man in a spandex suit on stage. But in 2026, nobody is laughing. Tesla was never a car ...
+The AI and robot situation is growing much faster than we think. Ai, mass surveillance, and robots not only working in the streets, ...
 
-📺 By 2050
+📺 Aaron Page 
 
-👁️ 1.6M • 👍 26K • 💬 641 • ⏱️ 1:00 • 5d ago
-
----
-
-**[Sometimes, War Robots is literally UNPLAYABLE!](https://www.youtube.com/watch?v=O3_t2JHbuo0)**
-
-War Robots Gameplay, trying the UE VORTEX NUO but realizing that the robot is unplayable now with so much Bash, Boom and ...
-
-📺 Manni-Gaming
-
-👁️ 23K • 👍 1K • 💬 397 • ⏱️ 10:29 • 1d ago
-
----
-
-**[Cardi B falls while dancing on a robot 😭](https://www.youtube.com/watch?v=x4D0Y18vN_8)**
-
-Cardi B falls while dancing on a robot ©️ to tmz #cardib **Fair Use Disclaimer:** This content is for educational, commentary, ...
-
-📺 POPVEIN
-
-👁️ 2.8M • 👍 30K • 💬 494 • ⏱️ 0:08 • 5d ago
+👁️ 26K • 👍 1K • 💬 198 • ⏱️ 24:43 • 1d ago
 
 ---
 

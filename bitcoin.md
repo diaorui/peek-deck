@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-02-13T21:37:19.485720+00:00'
+updated: '2026-02-13T22:35:00.305904+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- cryptocurrency
-- social
 - videos
+- cryptocurrency
 - news
+- social
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** February 13, 2026 at 21:37 UTC  
+**Last Updated:** February 13, 2026 at 22:35 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -44,11 +44,11 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Chart
 
-**24h:** +4.6%  
-**7d:** -0.7%  
-**30d:** -28.0%  
-**90d:** -27.0%  
-**1y:** -29.4%  
+**24h:** +4.0%  
+**7d:** -0.6%  
+**30d:** -27.9%  
+**90d:** -26.9%  
+**1y:** -29.3%  
 
 ---
 
@@ -77,11 +77,9 @@ Rank #1
 
 ## Reddit: r/Bitcoin
 
-**[Baby steps](https://www.reddit.com/r/Bitcoin/comments/1r3kzxx/baby_steps/)**
+**[2025 vs 2026](https://www.reddit.com/r/Bitcoin/comments/1r40elq/2025_vs_2026/)**
 
-Like minnows in the ocean, or more like… plankton Motivating seeing everyone’s big buys and sometimes hard to see what everyone else is moving and sticking to putting in what won’t ruin me if I lose! Been DCAing since £57k and have bigger orders set at £45k,50,55 etc. maybe I’ll be a wholecoiner in 500 years! Hah
-
-11h ago
+1h ago
 
 ---
 
@@ -89,19 +87,21 @@ Like minnows in the ocean, or more like… plankton Motivating seeing everyone�
 
 like we was just vibing near 100k, everybody loud, posting rockets, acting rich in theory then boom 90 80 70 just casually opening doors like “you forgot something down here” bro who asked for this my portfolio looking at me like I did something wrong and there’s always that one guy “it’s a healthy correction” healthy?? I’m stressed eating cereal at 2am watching candles bleed bitcoin don’t even walk downstairs it just throws itself down still not selling tho but damn can we chill for five minutes
 
-12h ago
+13h ago
 
 ---
 
 **[“Clarity on the Clarity Bill would give great comfort to the market” Bessent is working to pump our bags](https://www.reddit.com/r/Bitcoin/comments/1r3tjwq/clarity_on_the_clarity_bill_would_give_great/)**
 
-5h ago
+6h ago
 
 ---
 
-**[Using AI to Print with Polymarket’s new 5 min BTC markets](https://www.reddit.com/r/Bitcoin/comments/1r40dk9/using_ai_to_print_with_polymarkets_new_5_min_btc/)**
+**[Baby steps](https://www.reddit.com/r/Bitcoin/comments/1r3kzxx/baby_steps/)**
 
-1h ago
+Like minnows in the ocean, or more like… plankton Motivating seeing everyone’s big buys and sometimes hard to see what everyone else is moving and sticking to putting in what won’t ruin me if I lose! Been DCAing since £57k and have bigger orders set at £45k,50,55 etc. maybe I’ll be a wholecoiner in 500 years! Hah
+
+12h ago
 
 ---
 
@@ -113,9 +113,9 @@ Had to drop nearly 10k in medical bills... sure enough BTC tanks and as soon as 
 
 ---
 
-**[2025 vs 2026](https://www.reddit.com/r/Bitcoin/comments/1r40elq/2025_vs_2026/)**
+**[Guess Whos Back, Back Again](https://www.reddit.com/r/Bitcoin/comments/1r3uia4/guess_whos_back_back_again/)**
 
-1h ago
+5h ago
 
 ---
 
@@ -123,7 +123,7 @@ Had to drop nearly 10k in medical bills... sure enough BTC tanks and as soon as 
 
 I’m turning Bitcoin into an anime style story. What would you want it to include?
 
-10h ago
+11h ago
 
 ---
 
@@ -131,7 +131,7 @@ I’m turning Bitcoin into an anime style story. What would you want it to inclu
 
 Well…
 
-21h ago
+22h ago
 
 ---
 
@@ -153,23 +153,7 @@ Well…
 
 **[Bitcoin Steadies in Asia After Standard Chartered Warning](https://www.bloomberg.com/news/articles/2026-02-13/bitcoin-btc-under-pressure-in-asia-after-standard-chartered-warning)**
 
-Bloomberg.com • 17h ago
-
----
-
-**[Standard Chartered sees bitcoin sliding to $50,000, ether to $1,400 before recovery](https://www.coindesk.com/markets/2026/02/12/standard-chartered-sees-bitcoin-sliding-to-usd50-000-ether-to-usd1-400-before-recovery)**
-
-The bank cuts its 2026 crypto price targets, warning of further near-term capitulation as ETF outflows and macro headwinds weigh on digital assets.
-
-CoinDesk • 1d ago
-
----
-
-**[How Many iShares Bitcoin Trust ETF Shares You Need to Own the Equivalent of 1 Bitcoin](https://www.fool.com/investing/2026/02/12/how-many-ishares-bitcoin-trust-etf-shares-you-need/)**
-
-The top Bitcoin ETF is a simple way to invest in the top cryptocurrency.
-
-The Motley Fool • 1d ago
+Bloomberg.com • 18h ago
 
 ---
 
@@ -177,37 +161,29 @@ The Motley Fool • 1d ago
 
 Bitcoin price did not just dip. It reacted to something way bigger.The U.S. government revised last year’s job numbers down by nearly 900,000 positions.Markets hate one thing more than bad news. They hate unreliable data and uncertainty. This update from the Bureau of Labor Statistics just shook confidence hard. January ...
 
-Yahoo Finance • 8h ago
+Yahoo Finance • 9h ago
 
 ---
 
 **[Bitcoin Price Crash Rattles Trump's Crypto Progress. Here's The Upshot For Investors.](https://www.investors.com/news/bitcoin-price-crash-trump-cryptocurrency-progress/)**
 
-Investor's Business Daily • 5h ago
+Investor's Business Daily • 6h ago
 
 ---
 
-**[Past crypto winters show bitcoin could keep tumbling to $31,000, research firm says](https://www.businessinsider.com/bitcoin-price-prediction-crypto-winter-btc-forecast-30k-bear-market-2026-2)**
+**[Beware Dip Buyers, Bitcoin Is Entering Its 'Winter Phase', New Report Finds](https://finance.yahoo.com/news/beware-dip-buyers-bitcoin-entering-213117004.html)**
 
-In past bitcoin winters, the crypto has dropped an average 84%, according to an analysis from Ned Davis Research.
+Bitcoin (CRYPTO: BTC) may be quietly transitioning into a new "winter phase," even as prices remain historically elevated, a new report shows. Bitcoin Entering New ‘Winter Phase'? According to CryptoQuant, current conditions increasingly resemble the early stages of a broader...
 
-Business Insider • 2h ago
-
----
-
-**[Crypto Crash: Is Bitcoin Still the Best Cryptocurrency to Buy After This Sell-Off?](https://finance.yahoo.com/news/crypto-crash-bitcoin-still-best-192000944.html)**
-
-Bitcoin's recent tumble wasn't linked to its fundamentals.
-
-Yahoo Finance • 2h ago
+Yahoo Finance • 1h ago
 
 ---
 
-**[White House Executive Director: Trillions Are Waiting To Enter Bitcoin And Crypto, Working Hard on Market Structure Bill](https://bitcoinmagazine.com/news/white-house-trillions-waiting-crypto)**
+**[3 Macro Drivers Providing Big Catalysts for Bitcoin's 5% Surge Higher Today](https://finance.yahoo.com/news/3-macro-drivers-providing-big-212527484.html)**
 
-The White House executive director said trillions are poised to enter Bitcoin and crypto, emphasizing ongoing work on a market structure bill.
+Bitcoin's 5% rise today has some investors questioning whether reversing course on bearish bets makes sense.
 
-Bitcoin Magazine • 3h ago
+Yahoo Finance • 1h ago
 
 ---
 
@@ -219,11 +195,33 @@ Fortune • 2d ago
 
 ---
 
-**[Crypto expert explains why bitcoin makes 'perfect record' for tracking down criminals](https://www.foxbusiness.com/lifestyle/crypto-expert-explains-why-bitcoin-makes-perfect-record-tracking-down-criminals)**
+**[Crypto wallet in Nancy Guthrie note is traceable: Blockchain analyst](https://www.newsnationnow.com/crime/crypto-wallet-nancy-guthrie/)**
 
-Blockchain technology makes cryptocurrency transactions fully traceable on public ledgers, creating powerful tools for law enforcement investigations.
+NewsNation • 1d ago
 
-Fox Business • 1d ago
+---
+
+**[TMZ Receives Third Email in Nancy Guthrie Kidnapping, Demanding Higher Reward](https://www.tmz.com/2026/02/13/tmz-receives-third-email-bitcoin-demand-for-nancy-guthrie-info/)**
+
+TMZ just received a third email from the man who claims he knows the identity of Nancy Guthrie's kidnapper ... and he has upped his price.
+
+TMZ • 1h ago
+
+---
+
+**[CryptoQuant says bitcoin's 'ultimate' bear market bottom is around $55,000](https://www.theblock.co/post/389919/cryptoquant-bitcoin-ultimate-bear-market-bottom-55000)**
+
+CQ said bitcoin has not reached full capitulation yet, as key onchain indicators remain in a Bear Phase rather than the Extreme Bear Phase.
+
+The Block • 1h ago
+
+---
+
+**[Strategy (MSTR) Accounted for 97.5% of Corporate Bitcoin Buying Last Month, Report Shows](https://bitcoinmagazine.com/news/strategy-mstr-accounted-corporate-bitcoin)**
+
+The corporate adoption of bitcoin was dominated by a single player last month — Strategy.
+
+Bitcoin Magazine • 14h ago
 
 ---
 
@@ -301,7 +299,7 @@ What do Bitcoin miners actually do? An interactive exploration of hashing, diffi
 
 Explore everything you can do as a lightning app builder using Alby - getAlby/sandbox
 
-⬆️ 2 • 💬 1 • 7h ago • [GitHub](https://github.com/getAlby/sandbox)
+⬆️ 2 • 💬 1 • 8h ago • [GitHub](https://github.com/getAlby/sandbox)
 
 ---
 
@@ -325,7 +323,7 @@ Strategy executive chairman and founder Michael Saylor gives his take on Bitcoin
 
 📺 Fox Business
 
-👁️ 34K • 👍 682 • 💬 1K • ⏱️ 8:19 • 15h ago
+👁️ 34K • 👍 682 • 💬 1K • ⏱️ 8:19 • 16h ago
 
 ---
 
@@ -335,7 +333,7 @@ Bitcoin is trading at extreme correlation levels with software stocks, pushing i
 
 📺 Swan Bitcoin
 
-👁️ 3K • 👍 287 • 💬 43 • ⏱️ 11:53 • 4h ago
+👁️ 3K • 👍 287 • 💬 43 • ⏱️ 11:53 • 5h ago
 
 ---
 
@@ -345,7 +343,7 @@ Predict Crypto, Sports, Politics & More on *ClashPicks* ▻ https://www.clashpic
 
 📺 CryptosRUs
 
-👁️ 30K • 👍 1K • 💬 614 • ⏱️ 8:08 • 20h ago
+👁️ 30K • 👍 1K • 💬 614 • ⏱️ 8:08 • 21h ago
 
 ---
 
@@ -365,7 +363,7 @@ The crypto market is on a knife-edge. This Friday, February 13, 2026, we just wi
 
 📺 Discover Crypto
 
-👁️ 6K • 👍 401 • 💬 40 • ⏱️ 1:13:51 • 4h ago
+👁️ 6K • 👍 401 • 💬 40 • ⏱️ 1:13:51 • 5h ago
 
 ---
 
@@ -405,7 +403,7 @@ Pam Bondi gets slammed on live TV and the cracks in the system are impossible to
 
 📺 Simply Bitcoin
 
-👁️ 25K • 👍 2K • 💬 358 • ⏱️ 21:31 • 22h ago
+👁️ 25K • 👍 2K • 💬 358 • ⏱️ 21:31 • 23h ago
 
 ---
 
