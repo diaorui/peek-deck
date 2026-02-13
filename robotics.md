@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-02-13T19:59:00.576905+00:00'
+updated: '2026-02-13T20:51:50.918868+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- videos
 - social
 - news
+- videos
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** February 13, 2026 at 19:59 UTC  
+**Last Updated:** February 13, 2026 at 20:51 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -36,7 +36,7 @@ Robotics research and industry news
 
 I posted a video a couple of days ago on r/esp32 showing my Open-Source robot dance, and some people wanted to see it walk ... here you go ! Got a complete walking gate & added remote control :) Everything runs on the ESP32-S3 ! What do you think ?
 
-6h ago
+7h ago
 
 ---
 
@@ -48,11 +48,19 @@ From hardware to software, I see every day tons of new startups, mostly around A
 
 ---
 
+**[ROS News for the Week of February 9th, 2026 - Community News](https://www.reddit.com/r/robotics/comments/1r3z1ur/ros_news_for_the_week_of_february_9th_2026/)**
+
+ROS News for the Week of February 9th, 2026                This week we got up a skeleton web page for our 2026 Global ROSCon in Toronto, meanwhile ROSCon JP and ROSCon HR have posted their CFP deadlines. Otherwise there are bunch of meetups that were just announced for Mountain View, Barcelona, Moscow, and Heilbronn. Details in the event section below.      NVIDIA Isaac ROS 4.1 for Thor has been released! They’re giving the people what they want, as this release removes the Docker requirements ...
+
+🔗 [Open Robotics Discourse](https://discourse.openrobotics.org/t/ros-news-for-the-week-of-february-9th-2026/52513) • 1h ago
+
+---
+
 **[I am not able to send commands to my Unitree Motor](https://www.reddit.com/r/robotics/comments/1r3y86g/i_am_not_able_to_send_commands_to_my_unitree_motor/)**
 
 The unitree motor model is go_8010_6. I have been facing this repeated error whenever I try to run the simple example code from the Unitree_actuator_sdk. --------------------------------------------- [WARNING] SerialPort::recv, unblock version, wait time out [WARNING] motor id=1 does not reply port: /dev/ttyUSB0 motor.q: 4.25378e-41 motor.temp: 0 motor.W: 6.91788e-23 motor.merror: 447169392 ----------------------------------------------- I would think this is because of the fact that the computer is not able to detect the motor but I believe thats not the case because when i checked through the motor tools vibhu@vibhu-Legion-Pro-5-16IRX9:~/unitree/unitree_actuator_sdk/motor_tools/Unitree_MotorTools_v1.2.4_x86_64_Linux$ sudo ./swboot /dev/ttyUSB0 [sudo] password for vibhu: 1.Motor ID 1 --------------- Total 1 motors ------------------------------------------------ the bolded part is the output. The motor id and the number of motors connected is being shown. I was wondering if anyone would be able to assist me with this as I have been stuck on it for more than a few days and have already tried it on different systems.
 
-44m ago
+1h ago
 
 ---
 
@@ -60,7 +68,7 @@ The unitree motor model is go_8010_6. I have been facing this repeated error whe
 
 Howdy! I am a robotic engineer who has dived deep into DIY QDD actuators, creating custom servos, and making humanoids/quadriped robots. I wanted to know if anyone has done broad market research in the best actuators or servos on the market? As of now, I see two options Smaller form factor: Servos that can do 35kg of torque, STS3215 are in this category larger form factor: integrated QDD actuators or DIY drone motors such as eagle power 90kv + 9:1 gearbox, or the GIM6010/8108 motors that get about 5-15 nM of torque. Im thinking that there must be a good middle ground option for control and robotic arms/manipulators/linkages between a small 6010 GIM bldc setup and a STS3215, but i dont see many.
 
-1h ago
+2h ago
 
 ---
 
@@ -68,7 +76,7 @@ Howdy! I am a robotic engineer who has dived deep into DIY QDD actuators, creati
 
 Hi I have an FPV drone that i want to control using a Raspberry Pi. For this i want to connect the RPi to the Flight controller and use it as a companion computer. I am using a GEPRC TAKER F745 currently on a BetaFlight firmware. Any suggestions on how i can connect them or what firmware (Ardupilot/PX4) i can use with ROS2 on the RPi.
 
-3h ago
+4h ago
 
 ---
 
@@ -76,7 +84,7 @@ Hi I have an FPV drone that i want to control using a Raspberry Pi. For this i w
 
 part 2 is coming soon, I will be adding propellers and a wind vane so it can move even if the wind is coming from behind! also I may add motors someday:)
 
-20h ago
+21h ago
 
 ---
 
@@ -104,14 +112,6 @@ We're sharing how we bridged the Sim-to-Real gap by simulating the embedded syst
 
 ---
 
-**[Help with migration from Gazebo Classic to Ignition (wall gaps)](https://www.reddit.com/r/robotics/comments/1r37nfe/help_with_migration_from_gazebo_classic_to/)**
-
-Hi! I’ve been using TurtleBot with Gazebo Classic for a simulation project and recently migrated my model to Gazebo Ignition. Since the migration I’ve run into a few issues, especially with wall and floor textures (which I understand is expected due to conversion), but the main problem is visible gaps between walls. I attached screenshots showing how a section of the map is supposed to look vs how it currently looks in Ignition. I tried slightly increasing the wall lengths, but it didn’t noticeably improve the gaps. Does anyone know what typically causes this after Classic to Ignition conversion or how to properly fix it? I’m not sure if this is a common issue, but I wasn’t able to find much information about it online, so apologies if this is something obvious. This is a bit time-sensitive, so I’d really appreciate any guidance!
-
-21h ago
-
----
-
 ---
 
 ## Google News: "robotics"
@@ -120,7 +120,7 @@ Hi! I’ve been using TurtleBot with Gazebo Classic for a simulation project and
 
 Developing a durable and affordable hand is one of the biggest challenges in robotics.
 
-BBC • 19h ago
+BBC • 20h ago
 
 ---
 
@@ -132,51 +132,17 @@ Nature • 1d ago
 
 ---
 
+**[What happens in Vegas: Three days at Manifest 2026](https://www.axios.com/pro/supply-chain-deals/2026/02/13/manifest-2026-supply-chain-expo-events-receptions)**
+
+Axios • 22m ago
+
+---
+
 **[Is China Leading the Robotics Revolution?](https://chinapower.csis.org/china-industrial-robots/)**
 
 This ChinaPower feature examines China's push to lead the world in robotics and the geopolitical implications.
 
-ChinaPower Project • 23h ago
-
----
-
-**[Bedrock Robotics raises $270M in red-hot AI sector](https://www.constructiondive.com/news/bedrock-robotics-raise-ai-automation-funding/811982/)**
-
-The autonomous construction tech provider now boasts total funding of over $350 million and a valuation of $1.75 billion.
-
-Construction Dive • 2d ago
-
----
-
-**[Upside Robotics is reducing fertilizer use and waste in corn crops](https://techcrunch.com/2026/02/11/upside-robotics-is-reducing-fertilizer-use-and-waste-in-corn-crops/)**
-
-Upside Robotics builds autonomous solar-powered robots that can help farmers reduce their fertilizer use by 70%.
-
-TechCrunch • 2d ago
-
----
-
-**[Humanoid robots are getting smaller, safer and closer](https://www.foxnews.com/tech/humanoid-robots-getting-smaller-safer-closer)**
-
-Fauna Robotics is launching Sprout as a developer platform for humanoid robots. The robot features 29 degrees of freedom and NVIDIA compute power.
-
-Fox News • 3d ago
-
----
-
-**[Symbotic acquires autonomous forklift maker Fox Robotics](https://www.therobotreport.com/symbotic-acquires-autonomous-forklift-maker-fox-robotics/)**
-
-Symbotic has acquired autonomous forklift developer Fox Robotics in a move that broadens its logistics robotics offerings.
-
-The Robot Report • 2d ago
-
----
-
-**[Alibaba Pushes Into Robotics AI With Open-Source ‘RynnBrain’](https://finance.yahoo.com/news/alibaba-pushes-robotics-ai-open-065326706.html)**
-
-The Chinese company’s DAMO Academy introduced an open-source foundation model that engages with the environment, understands space in relation to time and can figure out steps toward completing a task.  With the release, Alibaba takes on AI leaders including Alphabet Inc.’s Google and Nvidia Corp. The Chinese firm claimed state-of-the-art results on benchmarks against Google’s Gemini Robotics-ER 1.5 and Nvidia’s Cosmos-Reason2.  Trained on Alibaba’s Qwen3-VL vision language model, RynnBrain is available on platforms like Hugging Face and GitHub in multiple versions starting as small as 2 billion parameters to a more efficient mixture-of-experts version.
-
-Yahoo Finance • 3d ago
+ChinaPower Project • 1d ago
 
 ---
 
@@ -188,11 +154,39 @@ Automotive News • 1d ago
 
 ---
 
-**[Maui students vie for world robotics championship slots](https://mauinow.com/2026/02/11/maui-students-vie-for-world-robotics-championship-slots/)**
+**[Robots with human-inspired eyes have better vision](https://www.economist.com/science-and-technology/2026/02/11/robots-with-human-inspired-eyes-have-better-vision)**
 
-Maui County robotics teams will battle rivals statewide this month for 14 coveted spots at the 2026 VEX Robotics World Championships. The Hawaiʻi VEX Regional Championships will draw 114 teams representing public and private schools, as well as club and home organizations from Maui County, Oʻahu and Hawaiʻi Island. The events are free to the [&hellip;]
+Their reaction times can even surpass their makers’
 
-Maui Now • 2d ago
+The Economist • 2d ago
+
+---
+
+**[How A Chinese Engineer Became A Billionaire Making Robotic ‘Eyes’](https://www.forbes.com/sites/zinnialee/2026/02/12/how-a-chinese-engineer-became-a-billionaire-making-robotic-eyes/)**
+
+Forbes • 19h ago
+
+---
+
+**[Alibaba Launches RynnBrain AI Model for Robots](https://www.eweek.com/news/alibaba-launches-rynnbrain-ai-model-for-robots/)**
+
+eWeek • 2d ago
+
+---
+
+**[Should You Think About Buying Kraken Robotics Inc. (CVE:PNG) Now?](https://finance.yahoo.com/news/think-buying-kraken-robotics-inc-184116986.html)**
+
+Kraken Robotics Inc. ( CVE:PNG ), is not the largest company out there, but it received a lot of attention from a...
+
+Yahoo Finance • 1d ago
+
+---
+
+**[GE Aerospace uses robots to fix jet engine blades, reduce repair delay](https://interestingengineering.com/ai-robotics/ge-aerospace-robots-jet-engine-repair)**
+
+GE Aerospace is teaching robots to repair jet engine blades as global maintenance backlogs stretch into months.
+
+Interesting Engineering • 13h ago
 
 ---
 
@@ -224,7 +218,7 @@ The biggest fear about humanoid robots isn't strength. It's control. Future robo
 
 📺 By 2050
 
-👁️ 27K • 👍 842 • 💬 21 • ⏱️ 0:57 • 16h ago
+👁️ 27K • 👍 842 • 💬 21 • ⏱️ 0:57 • 17h ago
 
 ---
 
@@ -244,7 +238,7 @@ Can a little Pi-powered bot teach my kids? The Reachy Mini Wireless I used was p
 
 📺 Jeff Geerling
 
-👁️ 19K • 👍 2K • 💬 120 • ⏱️ 12:38 • 4h ago
+👁️ 19K • 👍 2K • 💬 120 • ⏱️ 12:38 • 5h ago
 
 ---
 

@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-02-13T19:59:00.567862+00:00'
+updated: '2026-02-13T20:51:50.909479+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- videos
 - social
-- cryptocurrency
 - news
+- cryptocurrency
+- videos
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** February 13, 2026 at 19:59 UTC  
+**Last Updated:** February 13, 2026 at 20:51 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,17 +38,17 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $69,207.51
+### $68,788.47
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** +5.9%  
-**7d:** -0.1%  
-**30d:** -27.6%  
-**90d:** -26.6%  
-**1y:** -29.0%  
+**24h:** +4.6%  
+**7d:** -0.7%  
+**30d:** -28.0%  
+**90d:** -27.0%  
+**1y:** -29.4%  
 
 ---
 
@@ -81,7 +81,7 @@ Rank #1
 
 Like minnows in the ocean, or more like… plankton Motivating seeing everyone’s big buys and sometimes hard to see what everyone else is moving and sticking to putting in what won’t ruin me if I lose! Been DCAing since £57k and have bigger orders set at £45k,50,55 etc. maybe I’ll be a wholecoiner in 500 years! Hah
 
-10h ago
+11h ago
 
 ---
 
@@ -89,13 +89,33 @@ Like minnows in the ocean, or more like… plankton Motivating seeing everyone�
 
 like we was just vibing near 100k, everybody loud, posting rockets, acting rich in theory then boom 90 80 70 just casually opening doors like “you forgot something down here” bro who asked for this my portfolio looking at me like I did something wrong and there’s always that one guy “it’s a healthy correction” healthy?? I’m stressed eating cereal at 2am watching candles bleed bitcoin don’t even walk downstairs it just throws itself down still not selling tho but damn can we chill for five minutes
 
-10h ago
+11h ago
 
 ---
 
 **[“Clarity on the Clarity Bill would give great comfort to the market” Bessent is working to pump our bags](https://www.reddit.com/r/Bitcoin/comments/1r3tjwq/clarity_on_the_clarity_bill_would_give_great/)**
 
-3h ago
+4h ago
+
+---
+
+**[Using AI to Print with Polymarket’s new 5 min BTC markets](https://www.reddit.com/r/Bitcoin/comments/1r40dk9/using_ai_to_print_with_polymarkets_new_5_min_btc/)**
+
+16m ago
+
+---
+
+**[BTC always tanks when I have financial crisis...](https://www.reddit.com/r/Bitcoin/comments/1r3ytg5/btc_always_tanks_when_i_have_financial_crisis/)**
+
+Had to drop nearly 10k in medical bills... sure enough BTC tanks and as soon as I think im fine to buy a couple hundred... BOOM it either sky rockets or another random medical bill pops up worth a couple hundred and then BTC tanks... So I guess your welcome? And I'm sorry.
+
+1h ago
+
+---
+
+**[2025 vs 2026](https://www.reddit.com/r/Bitcoin/comments/1r40elq/2025_vs_2026/)**
+
+15m ago
 
 ---
 
@@ -103,7 +123,7 @@ like we was just vibing near 100k, everybody loud, posting rockets, acting rich 
 
 I’m turning Bitcoin into an anime style story. What would you want it to include?
 
-8h ago
+9h ago
 
 ---
 
@@ -111,7 +131,7 @@ I’m turning Bitcoin into an anime style story. What would you want it to inclu
 
 Well…
 
-19h ago
+20h ago
 
 ---
 
@@ -123,29 +143,7 @@ Well…
 
 **[VanEck said it knows 13 governments that are actively mining Bitcoin](https://www.reddit.com/r/Bitcoin/comments/1r35qqv/vaneck_said_it_knows_13_governments_that_are/)**
 
-22h ago
-
----
-
-**[Just HODL it](https://www.reddit.com/r/Bitcoin/comments/1r3jy6b/just_hodl_it/)**
-
-11h ago
-
----
-
-**[I had a dream that bitcoin hit 38,000.](https://www.reddit.com/r/Bitcoin/comments/1r3f0ls/i_had_a_dream_that_bitcoin_hit_38000/)**
-
-Just want to let you know that bitcoin will reach 38,000 according to my dream. I’m still DCA everyday with full confidence. Your welcome
-
-15h ago
-
----
-
-**[How do I get btc from a visa gift card?](https://www.reddit.com/r/Bitcoin/comments/1r3uyk8/how_do_i_get_btc_from_a_visa_gift_card/)**
-
-I recently got a $200 visa gift card for my birthday, and I wanted to get crypto from it. My current understanding is that I need a p2p exchange, but I’m not sure if any of them will take it. I’m also trying to avoid kyc info, as I’ve very privacy centric. Will I have to do something else In order for the card to be accepted with the p2p exchange? thanks In advance
-
-2h ago
+23h ago
 
 ---
 
@@ -155,7 +153,7 @@ I recently got a $200 visa gift card for my birthday, and I wanted to get crypto
 
 **[Bitcoin Steadies in Asia After Standard Chartered Warning](https://www.bloomberg.com/news/articles/2026-02-13/bitcoin-btc-under-pressure-in-asia-after-standard-chartered-warning)**
 
-Bloomberg.com • 15h ago
+Bloomberg.com • 16h ago
 
 ---
 
@@ -167,67 +165,65 @@ CoinDesk • 1d ago
 
 ---
 
-**[Standard Chartered sees bitcoin falling to $50,000, ether to $1,400 before rebound](https://www.theblock.co/post/389609/standard-chartered-bitcoin-50000-ether-1400-rebound)**
+**[How Many iShares Bitcoin Trust ETF Shares You Need to Own the Equivalent of 1 Bitcoin](https://www.fool.com/investing/2026/02/12/how-many-ishares-bitcoin-trust-etf-shares-you-need/)**
 
-The bank has also lowered price targets for Solana, XRP, BNB, and Avalanche, in addition to bitcoin and ether.
+The top Bitcoin ETF is a simple way to invest in the top cryptocurrency.
 
-The Block • 1d ago
-
----
-
-**[Bitcoin's drawdown hit 50%. History shows it may have further to go](https://www.cnbc.com/2026/02/12/bitcoins-drawdown-hit-50percent-history-shows-it-may-have-further-to-go.html)**
-
-Bitcoin has a history of falling about 75% during each four-year cycle, suggesting the token is on track to fall even further in the near future.
-
-CNBC • 1d ago
+The Motley Fool • 1d ago
 
 ---
 
-**[Traders are waking up to bitcoin's capitulation moment: Investor](https://finance.yahoo.com/video/traders-waking-bitcoins-capitulation-moment-212027222.html)**
+**[Bitcoin Price Slides After US Admits Nearly 1 Million ‘Phantom’ Jobs in Data Revision](https://finance.yahoo.com/news/bitcoin-price-slides-us-admits-130321937.html)**
 
-Bitcoin (BTC-USD) falls closer to $65,000 per token on Thursday as the cryptocurrency continues its steep decline from record highs hit in October 2025. 50T Funds founder, CEO and CIO Dan Tapiero sits down with Yahoo Finance Host Julie Hyman at the 2026 Bitcoin Investor Week conference to To watch more expert insights and analysis on the latest market action, check out more&nbsp;Market Domination.
+Bitcoin price did not just dip. It reacted to something way bigger.The U.S. government revised last year’s job numbers down by nearly 900,000 positions.Markets hate one thing more than bad news. They hate unreliable data and uncertainty. This update from the Bureau of Labor Statistics just shook confidence hard. January ...
 
-Yahoo Finance • 22h ago
-
----
-
-**[Bitcoin Bounces to $69K, But Charts Are Still Bearish: Analysis](https://finance.yahoo.com/news/bitcoin-bounces-69k-charts-still-190057291.html)**
-
-Bitcoin's rebound from $60K lows may be a dead cat bounce, as the daily charts scream caution and prediction markets price in more pain.
-
-Yahoo Finance • 58m ago
+Yahoo Finance • 7h ago
 
 ---
 
-**[Coinbase falls short of Q4 estimates amid bitcoin slump](https://finance.yahoo.com/video/coinbase-falls-short-q4-estimates-212652971.html)**
+**[Bitcoin Price Crash Rattles Trump's Crypto Progress. Here's The Upshot For Investors.](https://www.investors.com/news/bitcoin-price-crash-trump-cryptocurrency-progress/)**
 
-Cryptocurrency exchange Coinbase Global (COIN) is out with its fourth quarter earnings, missing both Wall Street's expectations on adjusted earnings ($0.66 per share vs. estimates of $0.86) and total revenue ($1.8 billion vs. estimates of $1.83 billion). Market Domination Overtime Host Josh Lipton dives into Coinbase's earnings release. To watch more expert insights and analysis on the latest market action, check out more&nbsp;Market Domination Overtime.
-
-Yahoo Finance • 22h ago
+Investor's Business Daily • 4h ago
 
 ---
 
-**[Coinbase Is Buying the Dip in Bitcoin. Some Experts Expect More 'Price Downside' Ahead](https://www.investopedia.com/coinbase-is-buying-the-dip-in-bitcoin-some-experts-expect-more-price-downside-ahead-coin-btc-11906251)**
+**[Past crypto winters show bitcoin could keep tumbling to $31,000, research firm says](https://www.businessinsider.com/bitcoin-price-prediction-crypto-winter-btc-forecast-30k-bear-market-2026-2)**
 
-The U.S.'s largest public crypto exchange intends to "keep buying" as the market struggles to stage a turnaround.
+In past bitcoin winters, the crypto has dropped an average 84%, according to an analysis from Ned Davis Research.
 
-Investopedia • 2h ago
-
----
-
-**[Coinbase Reports Q4 Miss With $667 Million Loss Amid Bitcoin Retreat](https://decrypt.co/357925/coinbase-q4-miss-667-million-loss-bitcoin-retreat)**
-
-Coinbase reported a down quarter for the end of 2025, with its investment portfolio plunging alongside Bitcoin and other crypto assets.
-
-Decrypt • 22h ago
+Business Insider • 1h ago
 
 ---
 
-**[Brazil Proposes National Bitcoin Reserve, Targets 1 Million BTC Over Five Years](https://bitcoinmagazine.com/news/brazil-proposes-national-bitcoin-reserve)**
+**[Crypto Crash: Is Bitcoin Still the Best Cryptocurrency to Buy After This Sell-Off?](https://finance.yahoo.com/news/crypto-crash-bitcoin-still-best-192000944.html)**
 
-Brazilian lawmakers have reintroduced a bill proposing the creation of a Strategic Sovereign Bitcoin Reserve (RESBit) to acquire one million Bitcoin over five years.
+Bitcoin's recent tumble wasn't linked to its fundamentals.
 
-Bitcoin Magazine • 3h ago
+Yahoo Finance • 1h ago
+
+---
+
+**[White House Executive Director: Trillions Are Waiting To Enter Bitcoin And Crypto, Working Hard on Market Structure Bill](https://bitcoinmagazine.com/news/white-house-trillions-waiting-crypto)**
+
+The White House executive director said trillions are poised to enter Bitcoin and crypto, emphasizing ongoing work on a market structure bill.
+
+Bitcoin Magazine • 2h ago
+
+---
+
+**[Bitcoin reportedly sent to wallet associated with Nancy Guthrie’s ransom letter providing potential clue in investigation](https://fortune.com/2026/02/11/bitcoin-reportedly-sent-to-wallet-associated-with-nancy-guthries-ransom-letter/)**
+
+Meanwhile, authorities released surveillance video showing the alleged captor who remains at large.
+
+Fortune • 2d ago
+
+---
+
+**[Crypto expert explains why bitcoin makes 'perfect record' for tracking down criminals](https://www.foxbusiness.com/lifestyle/crypto-expert-explains-why-bitcoin-makes-perfect-record-tracking-down-criminals)**
+
+Blockchain technology makes cryptocurrency transactions fully traceable on public ledgers, creating powerful tools for law enforcement investigations.
+
+Fox Business • 1d ago
 
 ---
 
@@ -319,7 +315,7 @@ Bitcoin's crash off its all time high and then its sudden crash last week. It le
 
 📺 Mark Moss
 
-👁️ 191K • 👍 7K • 💬 1K • ⏱️ 16:43 • 23h ago
+👁️ 191K • 👍 7K • 💬 1K • ⏱️ 16:43 • 1d ago
 
 ---
 
@@ -329,7 +325,7 @@ Strategy executive chairman and founder Michael Saylor gives his take on Bitcoin
 
 📺 Fox Business
 
-👁️ 31K • 👍 645 • 💬 678 • ⏱️ 8:19 • 13h ago
+👁️ 31K • 👍 645 • 💬 678 • ⏱️ 8:19 • 14h ago
 
 ---
 
@@ -339,7 +335,7 @@ Predict Crypto, Sports, Politics & More on *ClashPicks* ▻ https://www.clashpic
 
 📺 CryptosRUs
 
-👁️ 30K • 👍 1K • 💬 585 • ⏱️ 8:08 • 18h ago
+👁️ 30K • 👍 1K • 💬 585 • ⏱️ 8:08 • 19h ago
 
 ---
 
@@ -349,7 +345,7 @@ Crypto and bitcoin crash is forcing liquidations. This just got worse and we are
 
 📺 Thomas Kralow
 
-👁️ 19K • 👍 3K • 💬 38 • ⏱️ 10:34 • 8h ago
+👁️ 19K • 👍 3K • 💬 38 • ⏱️ 10:34 • 9h ago
 
 ---
 
@@ -369,7 +365,7 @@ Pam Bondi gets slammed on live TV and the cracks in the system are impossible to
 
 📺 Simply Bitcoin
 
-👁️ 24K • 👍 2K • 💬 339 • ⏱️ 21:31 • 20h ago
+👁️ 24K • 👍 2K • 💬 339 • ⏱️ 21:31 • 21h ago
 
 ---
 
@@ -389,7 +385,7 @@ Kyledoops gives his downside targets for what is getting setup to be a violent m
 
 📺 Crypto Banter
 
-👁️ 20K • 👍 2K • 💬 21 • ⏱️ 39:02 • 11h ago
+👁️ 20K • 👍 2K • 💬 21 • ⏱️ 39:02 • 12h ago
 
 ---
 

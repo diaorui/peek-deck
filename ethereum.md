@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-02-13T19:59:00.573755+00:00'
+updated: '2026-02-13T20:51:50.915632+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- videos
 - social
-- cryptocurrency
 - news
+- cryptocurrency
+- videos
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** February 13, 2026 at 19:59 UTC  
+**Last Updated:** February 13, 2026 at 20:51 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -36,17 +36,17 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Price
 
-### $2,060.58
+### $2,041.11
 
 ---
 
 ## Ethereum Chart
 
-**24h:** +7.5%  
-**7d:** -1.6%  
-**30d:** -37.9%  
-**90d:** -33.5%  
-**1y:** -24.4%  
+**24h:** +6.6%  
+**7d:** -2.2%  
+**30d:** -38.2%  
+**90d:** -33.9%  
+**1y:** -24.9%  
 
 ---
 
@@ -72,7 +72,13 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-13h ago
+14h ago
+
+---
+
+**[Tomasz stepping down from co-ED role at the EF at the end of February 2026 | Ethereum Foundation Blog](https://www.reddit.com/r/ethereum/comments/1r3zdo5/tomasz_stepping_down_from_coed_role_at_the_ef_at/)**
+
+🔗 [Ethereum Foundation Blog](https://blog.ethereum.org/2026/02/13/tomasz-update) • 54m ago
 
 ---
 
@@ -84,11 +90,19 @@ BlackRock BUIDL tradeable via UniswapX, ENS staying on mainnet, Solidity develop
 
 ---
 
+**[140 - JT - Surprise visit from JasperTheFriendlyGhost from Rocketpool](https://www.reddit.com/r/ethereum/comments/1r3zzv1/140_jt_surprise_visit_from_jasperthefriendlyghost/)**
+
+Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.
+
+🔗 [youtu.be](https://youtu.be/rxI6AyRSaxY) • 31m ago
+
+---
+
 **[Deterministic Deployments, Part 2: CREATE2-based approaches](https://www.reddit.com/r/ethereum/comments/1r3juq1/deterministic_deployments_part_2_create2based/)**
 
 This is the second article in a series about deterministic deployments, where we explore the question: how can we deploy a contract at the same address in multiple chains? In the first part we discussed three possible answers: deploying with the same private key and nonce, using Nick’s method, and pre-signing transactions. In this entry we’ll discuss two other approaches: CREATE2 factories and CREATE3.
 
-🔗 [Cethology](https://paragraph.com/@cethology/deterministic-deployments-part-2-create2-based-approaches) • 11h ago
+🔗 [Cethology](https://paragraph.com/@cethology/deterministic-deployments-part-2-create2-based-approaches) • 12h ago
 
 ---
 
@@ -96,13 +110,13 @@ This is the second article in a series about deterministic deployments, where we
 
 ACDE #230 saw Ethereum core developers focus on Glamsterdam Devnet performance, eth/70 networking safeguards, and a narrowing Hegotá headliner race led by encrypted mempool proposals.
 
-🔗 [EtherWorld.co](https://etherworld.co/highlights-from-the-all-core-developers-execution-acde-call-230/) • 16h ago
+🔗 [EtherWorld.co](https://etherworld.co/highlights-from-the-all-core-developers-execution-acde-call-230/) • 17h ago
 
 ---
 
 **[I got HTTP 402 working as an actual payment protocol for AI agents, here's what I learned](https://www.reddit.com/r/ethereum/comments/1r3bm1g/i_got_http_402_working_as_an_actual_payment/)**
 
-18h ago
+19h ago
 
 ---
 
@@ -130,33 +144,9 @@ Responding to https://firefly.social/post/x/2021632354649821275 My first reactio
 
 ---
 
-**[I built the first 100% on-chain, ETH-in ETH-out (no new token), skill based competitive gaming platform. No servers, no bullshit.](https://www.reddit.com/r/ethereum/comments/1r2fgfv/i_built_the_first_100_onchain_ethin_ethout_no_new/)**
-
-It's open source and live on Arbitrum One right now. Happy to answer any questions! https://etour.games Here's some gameplay screenshots: https://imgur.com/tPqmCpl https://imgur.com/cj7T0Zm https://imgur.com/AmbvLOH https://imgur.com/Z39Ix1L https://imgur.com/VWBbj51 https://imgur.com/YITii03 https://imgur.com/a/Wni0Ybu edit: here's the whitepaper for those who care https://etour.games/whitepaper
-
-1d ago
-
----
-
-**[Idea: Generation-Based Blob Pricing to Raise Price Moderately on Existing L2s and Higher on Future L2s](https://www.reddit.com/r/ethereum/comments/1r2s7k1/idea_generationbased_blob_pricing_to_raise_price/)**
-
-Ethereum's L2 ecosystem has succeeded beyond expectations. Our Gen1 L2s—Arbitrum, Base, Optimism, and others—took a risk on rollup infrastructure when it was experimental. They proved the model works and scaled Ethereum to billions in TVL, successfully killing the "Ethereum Killers." But as /u/vbuterin correctly pointed out, current blob fees are unsustainably low for long-term network health. But I think there's a path forward that can make the transition into Vitalik's new vision for L2s easier. Proposal: Generation-based pricing Gen1 L2s (launched before March 2026): Preferential "founder pricing" Gradual 15-20% annual increases over 5 years (I don't know if 15-20% is correct, but just basically a small enough increase that these L2s won't rebel and happily stay in the ecosystem). Still far below independent L1 operation costs (~$10M+/year) Gen2 L2s (launching 2026-2028): Starting price 3-4x Gen1 base rate Steeper increases (25%/year) Still economically viable vs. building independent chains Gen3+ L2s (2029+): Market-rate pricing reflecting network maturity Maybe staking required. Why this works: Honors early adopters (not a penalty, a reward), but still extracting some additional value from them. Creates urgency for new projects (launch early = better terms) Familiar model (AWS Reserved Instances, Netflix early subscriber rates) Predictable 5-year schedule (institutions can forecast costs). Sustainable revenue for Ethereum without driving L2s away This isn't "picking winners". When you give away your old box of comic books on craigslist and you say "first come first serve" is that picking winners? By 2030, Ethereum could capture $50M+/year vs. current $182K—without losing any major L2s. This approach rewards risk-takers, provides clear pricing roadmaps, and ensures Ethereum's infrastructure remains sustainable as we scale to billions of users (human and ai). Thank you for reading I look forward to your criticism.
-
-1d ago
-
----
-
 ---
 
 ## Google News: "ethereum"
-
-**[Bitcoin Will Fall to $50K and Ethereum Will Hit $1,400 Before Rebound: Standard Chartered](https://decrypt.co/357858/bitcoin-50k-ethereum-1400-before-rebound-standard-chartered)**
-
-Standard Chartered predicts Bitcoin will hit $100K and Ethereum will rise to $4,000 by the end of 2026, but expects further drops first.
-
-Decrypt • 1d ago
-
----
 
 **[Wrapped Bitcoin team taps Hyperlane for WBTC bridge between Ethereum and Solana](https://www.theblock.co/post/389619/wrapped-bitcoin-hyperlane-wbtc-bridge-ethereum-solana)**
 
@@ -166,35 +156,51 @@ The Block • 1d ago
 
 ---
 
+**[Bitcoin Will Fall to $50K and Ethereum Will Hit $1,400 Before Rebound: Standard Chartered](https://decrypt.co/357858/bitcoin-50k-ethereum-1400-before-rebound-standard-chartered)**
+
+Standard Chartered predicts Bitcoin will hit $100K and Ethereum will rise to $4,000 by the end of 2026, but expects further drops first.
+
+Decrypt • 1d ago
+
+---
+
 **[$3.85 Million in Ethereum From Mixin Network Hack Sent to Tornado Cash](https://finance.yahoo.com/news/3-85-million-ethereum-mixin-175053959.html)**
 
 Wallets linked to the $200 million exploit of Mixin in 2023 woke after nearly two years and moved funds to coin mixer Tornado Cash.
 
-Yahoo Finance • 2h ago
+Yahoo Finance • 3h ago
 
 ---
 
-**[Ethereum Foundation co-director resigns to focus on AI](https://www.dlnews.com/articles/defi/ethereum-foundation-co-director-resigns/)**
+**[Ethereum news: Foundation leadership shake-up: Tomasz Stańczak to leave co-executive director role](https://www.coindesk.com/tech/2026/02/13/ethereum-foundation-leadership-shake-up-tomasz-stanczak-out-as-co-executive-director)**
 
-One of the Ethereum Foundation's co-directors said he would step down at the end of the month.  His replacement has already been chosen.
+Stańczak’s was brought aboard in 2025 following the transition of long-time executive director Aya Miyaguchi amid mounting community criticism that the foundation wasn’t doing enough to aggressively push the Ethereum ecosystem forward.
 
-dlnews.com • 1h ago
-
----
-
-**[Ethereum (ETH) news: SBET executives urge to look beyond recent price action](https://www.coindesk.com/business/2026/02/12/sharplink-s-lubin-and-chalom-make-their-case-for-ether-dats-as-prices-plunge)**
-
-At a panel discussion at Consensus Hong Kong 2026 featuring Consensys CEO and Ethereum co-founder Joe Lubin and SharpLink (SBET) CEO Joseph Chalom, the two executives outlined how digital asset treasuries (DATs) are evolving into a distinct institutional strategy.
-
-CoinDesk • 1d ago
+CoinDesk • 5h ago
 
 ---
 
-**[Ethereum Price Rejected Again — Is Another Leg Lower Brewing?](https://www.tradingview.com/news/newsbtc:951e4a2a2094b:0-ethereum-price-rejected-again-is-another-leg-lower-brewing/)**
+**[BlackRock buys up Bitmine shares as Ethereum threatens to fall to $1,400 price](https://www.dlnews.com/articles/markets/blackrock-buys-up-bitmine-shares-as-ethereum-may-hit-1400/)**
 
-Ethereum price started a fresh decline and traded below $1,980. ETH is now consolidating and remain at risk of another decline below $1,920.Ethereum Price Remains In The RedEthereum price failed to stay above $2,000 and started a fresh decline, like Bitcoin. ETH price traded below the $1,980 and $1…
+Blackrock’s Bitmine share holdings jumped 166% in the fourth-quarter of 2025.  CEO Larry Fink is bullish on tokenisation with the company citing Ethereum as the big winner.
 
-TradingView • 16h ago
+dlnews.com • 11h ago
+
+---
+
+**[Ethereum Caught Between Weak Bounce And High-Timeframe Risk – What’s Next?](https://www.tradingview.com/news/newsbtc:50222ecdc094b:0-ethereum-caught-between-weak-bounce-and-high-timeframe-risk-what-s-next/)**
+
+Ethereum is attempting to stabilize after its recent pullback, but the recovery so far lacks convincing strength. With price rejecting key levels and higher-timeframe risks still looming, ETH finds itself at a critical decision point where the next structural move could define the short-term trend…
+
+TradingView • 18h ago
+
+---
+
+**[Ethereum Based Meme Coin Pepeto Announces $7M+ Presale Milestone Ahead of Binance Listing as Bitcoin Volatility Persists](https://markets.businessinsider.com/news/stocks/ethereum-based-meme-coin-pepeto-announces-7m-presale-milestone-ahead-of-binance-listing-as-bitcoin-volatility-persists-1035825465)**
+
+DUBAI, United Arab Emirates, Feb.  13, 2026  (GLOBE NEWSWIRE) -- Pepeto (PEPETO), an Ethereum-based meme-utility project, has officially crossed $...
+
+markets.businessinsider.com • 9h ago
 
 ---
 
@@ -206,23 +212,17 @@ Sherwood News • 2d ago
 
 ---
 
-**[Ethereum Price Braces for Impact as Standard Chartered Predicts a $1,400 Bottom](https://www.tipranks.com/news/ethereum-price-braces-for-impact-as-standard-chartered-predicts-a-1400-bottom)**
+**[Top 3 Price Prediction: Bitcoin, Ethereum, Ripple – BTC, ETH and XRP stay weak as bearish momentum persists](https://www.fxstreet.com/cryptocurrencies/news/top-3-price-prediction-bitcoin-ethereum-ripple-btc-eth-and-xrp-stay-weak-as-bearish-momentum-persists-202602130354)**
 
-TipRanks • 5h ago
+Bitcoin (BTC), Ethereum (ETH) and Ripple (XRP) remain under pressure, extending losses of over 5%, 6% and 4%, respectively, so far this week. BTC trades below $67,000 while ETH and XRP correct after facing rejection around key levels.
+
+FXStreet • 16h ago
 
 ---
 
 **[Ethereum News: Ether Poised for Another ‘V-Shaped’ Recovery, Fundstrat’s Tom Lee Says](https://www.binance.com/en/square/post/02-12-2026-ethereum-news-ether-poised-for-another-v-shaped-recovery-fundstrat-s-tom-lee-says-290785972237842)**
 
 Binance • 1d ago
-
----
-
-**[BlackRock buys up Bitmine shares as Ethereum threatens to fall to $1,400 price](https://finance.yahoo.com/news/blackrock-buys-bitmine-shares-ethereum-092453859.html)**
-
-Blackrock’s Bitmine share holdings jumped 166% in the fourth-quarter of 2025. CEO Larry Fink is bullish on tokenisation with the company citing Ethereum as the big winner.
-
-Yahoo Finance • 10h ago
 
 ---
 
@@ -236,7 +236,7 @@ This video provides a professional Elliott Wave and technical analysis of Ethere
 
 📺 More Crypto Online
 
-👁️ 1K • 👍 141 • 💬 17 • ⏱️ 3:30 • 4h ago
+👁️ 1K • 👍 141 • 💬 17 • ⏱️ 3:30 • 5h ago
 
 ---
 
@@ -246,7 +246,7 @@ BITCOIN & CRYPTO MARKET JUST FLIPPED (for now)!!! - Bitcoin News Today, Ethereum
 
 📺 Crypto World
 
-👁️ 825 • 👍 73 • 💬 40 • ⏱️ 17:20 • 45m ago
+👁️ 825 • 👍 73 • 💬 40 • ⏱️ 17:20 • 1h ago
 
 ---
 
@@ -256,7 +256,7 @@ Crypto and bitcoin crash is forcing liquidations. This just got worse and we are
 
 📺 Thomas Kralow
 
-👁️ 20K • 👍 3K • 💬 39 • ⏱️ 10:34 • 8h ago
+👁️ 20K • 👍 3K • 💬 39 • ⏱️ 10:34 • 9h ago
 
 ---
 
@@ -266,7 +266,7 @@ ETHEREUM ETH PRICE PREDICTION 2026 Join the Premium Signal Group for trade setup
 
 📺 Cilinix Crypto
 
-👁️ 363 • 👍 13 • 💬 67 • ⏱️ 5:18 • 9h ago
+👁️ 363 • 👍 13 • 💬 67 • ⏱️ 5:18 • 10h ago
 
 ---
 
@@ -296,7 +296,7 @@ Watch The FULL Interview: "Explosive Crypto Price Prediction for 2026..." FREE D
 
 📺 Library Of Wealth
 
-👁️ 5K • 👍 233 • 💬 280 • ⏱️ 14:31 • 14h ago
+👁️ 5K • 👍 233 • 💬 280 • ⏱️ 14:31 • 15h ago
 
 ---
 
@@ -306,7 +306,7 @@ This video provides a professional Elliott Wave and technical analysis of Ethere
 
 📺 More Crypto Online
 
-👁️ 2K • 👍 126 • 💬 5 • ⏱️ 4:01 • 15h ago
+👁️ 2K • 👍 126 • 💬 5 • ⏱️ 4:01 • 16h ago
 
 ---
 
@@ -316,7 +316,7 @@ Get $450 Off Our New AI Indicators: https://tradeconfidentportal.io/indicators/.
 
 📺 Trade Confident
 
-👁️ 28 • 👍 2 • 💬 1 • ⏱️ 6:02 • 25m ago
+👁️ 28 • 👍 2 • 💬 1 • ⏱️ 6:02 • 1h ago
 
 ---
 
