@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-02-13T16:08:12.307465+00:00'
+updated: '2026-02-13T17:24:01.936577+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- videos
 - social
-- cryptocurrency
+- videos
 - news
+- cryptocurrency
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** February 13, 2026 at 16:08 UTC  
+**Last Updated:** February 13, 2026 at 17:24 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,14 +38,14 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $68,996.64
+### $68,928.58
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** +5.5%  
-**7d:** -0.5%  
+**24h:** +5.3%  
+**7d:** -0.4%  
 **30d:** -27.8%  
 **90d:** -26.8%  
 **1y:** -29.2%  
@@ -54,17 +54,17 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1355.55B
+**Market Cap:** $1372.82B
 Rank #1
 
-**Circulating Supply:** 19,988,671 BTC
+**Circulating Supply:** 19,988,703 BTC
 95.2% of max
 
 **All-Time High:** $126,080.00
--46.2%
+-45.3%
 
 **All-Time Low:** $67.81
-+99873.5%
++101650.5%
 
 ---
 
@@ -77,17 +77,31 @@ Rank #1
 
 ## Reddit: r/Bitcoin
 
+**[Baby steps](https://www.reddit.com/r/Bitcoin/comments/1r3kzxx/baby_steps/)**
+
+Like minnows in the ocean, or more like… plankton Motivating seeing everyone’s big buys and sometimes hard to see what everyone else is moving and sticking to putting in what won’t ruin me if I lose! Been DCAing since £57k and have bigger orders set at £45k,50,55 etc. maybe I’ll be a wholecoiner in 500 years! Hah
+
+7h ago
+
+---
+
 **[bitcoin gotta be trolling at this point](https://www.reddit.com/r/Bitcoin/comments/1r3kqng/bitcoin_gotta_be_trolling_at_this_point/)**
 
 like we was just vibing near 100k, everybody loud, posting rockets, acting rich in theory then boom 90 80 70 just casually opening doors like “you forgot something down here” bro who asked for this my portfolio looking at me like I did something wrong and there’s always that one guy “it’s a healthy correction” healthy?? I’m stressed eating cereal at 2am watching candles bleed bitcoin don’t even walk downstairs it just throws itself down still not selling tho but damn can we chill for five minutes
 
-6h ago
+7h ago
 
 ---
 
-**[Baby steps](https://www.reddit.com/r/Bitcoin/comments/1r3kzxx/baby_steps/)**
+**[“Clarity on the Clarity Bill would give great comfort to the market” Bessent is working to pump our bags](https://www.reddit.com/r/Bitcoin/comments/1r3tjwq/clarity_on_the_clarity_bill_would_give_great/)**
 
-Like minnows in the ocean, or more like… plankton Motivating seeing everyone’s big buys and sometimes hard to see what everyone else is moving and sticking to putting in what won’t ruin me if I lose! Been DCAing since £57k and have bigger orders set at £45k,50,55 etc. maybe I’ll be a wholecoiner in 500 years! Hah
+1h ago
+
+---
+
+**[First Bitcoin Anime](https://www.reddit.com/r/Bitcoin/comments/1r3mcd1/first_bitcoin_anime/)**
+
+I’m turning Bitcoin into an anime style story. What would you want it to include?
 
 6h ago
 
@@ -103,27 +117,19 @@ Like minnows in the ocean, or more like… plankton Motivating seeing everyone�
 
 Well…
 
-15h ago
-
----
-
-**[First Bitcoin Anime](https://www.reddit.com/r/Bitcoin/comments/1r3mcd1/first_bitcoin_anime/)**
-
-I’m turning Bitcoin into an anime style story. What would you want it to include?
-
-5h ago
+17h ago
 
 ---
 
 **[VanEck said it knows 13 governments that are actively mining Bitcoin](https://www.reddit.com/r/Bitcoin/comments/1r35qqv/vaneck_said_it_knows_13_governments_that_are/)**
 
-18h ago
+20h ago
 
 ---
 
 **[Just HODL it](https://www.reddit.com/r/Bitcoin/comments/1r3jy6b/just_hodl_it/)**
 
-7h ago
+8h ago
 
 ---
 
@@ -131,21 +137,13 @@ I’m turning Bitcoin into an anime style story. What would you want it to inclu
 
 Just want to let you know that bitcoin will reach 38,000 according to my dream. I’m still DCA everyday with full confidence. Your welcome
 
-12h ago
+13h ago
 
 ---
 
 **[Which one are you?](https://www.reddit.com/r/Bitcoin/comments/1r32e5a/which_one_are_you/)**
 
-20h ago
-
----
-
-**[Top Properties Listed In Bitcoin](https://www.reddit.com/r/Bitcoin/comments/1r3f40p/top_properties_listed_in_bitcoin/)**
-
-Grant Cardone just listed his mansion for sale for 700 BTC. Just got to know there are even more expensive properties already for sale at over 700 BTC.
-
-12h ago
+22h ago
 
 ---
 
@@ -155,7 +153,7 @@ Grant Cardone just listed his mansion for sale for 700 BTC. Just got to know the
 
 **[Bitcoin Steadies in Asia After Standard Chartered Warning](https://www.bloomberg.com/news/articles/2026-02-13/bitcoin-btc-under-pressure-in-asia-after-standard-chartered-warning)**
 
-Bloomberg.com • 11h ago
+Bloomberg.com • 13h ago
 
 ---
 
@@ -175,6 +173,26 @@ Yahoo Finance • 1d ago
 
 ---
 
+**[Bitcoin hovers near $65,000 as investor frustration grows over 'disconnect' with gold](https://finance.yahoo.com/news/bitcoin-hovers-near-65000-as-investor-frustration-grows-over-disconnect-with-gold-183451704.html)**
+
+Bitcoin hovered near $65,000 on Thursday as investor disappointment grew over its failure to track gold's climb this year.
+
+Yahoo Finance • 22h ago
+
+---
+
+**[Bitcoin’s plunge should end the hype that it is digital gold](https://thehill.com/opinion/finance/5735525-bitcoin-gold-performance-disparity/)**
+
+The Hill • 54m ago
+
+---
+
+**[Bitcoin Price Crash Rattles Trump's Crypto Progress. Here's The Upshot For Investors.](https://www.investors.com/news/bitcoin-price-crash-trump-cryptocurrency-progress/)**
+
+Investor's Business Daily • 1h ago
+
+---
+
 **[Bitcoin's drawdown hit 50%. History shows it may have further to go](https://www.cnbc.com/2026/02/12/bitcoins-drawdown-hit-50percent-history-shows-it-may-have-further-to-go.html)**
 
 Bitcoin has a history of falling about 75% during each four-year cycle, suggesting the token is on track to fall even further in the near future.
@@ -183,43 +201,27 @@ CNBC • 1d ago
 
 ---
 
-**[StanChart Slashes Bitcoin 2026 Target by 33%, Warns of More Pain](https://www.bloomberg.com/news/articles/2026-02-12/stanchart-cuts-bitcoin-btc-2026-target-to-100-000-warns-of-more-pain)**
+**[Bitcoin reportedly sent to wallet associated with Nancy Guthrie’s ransom letter providing potential clue in investigation](https://fortune.com/2026/02/11/bitcoin-reportedly-sent-to-wallet-associated-with-nancy-guthries-ransom-letter/)**
 
-Standard Chartered has cut its Bitcoin price forecast for the second time in less than three months, warning that the cryptocurrency could slide to hit $50,000 before recovering.
+Meanwhile, authorities released surveillance video showing the alleged captor who remains at large.
 
-Bloomberg.com • 1d ago
-
----
-
-**[Bitcoin hovers near $65,000 as investor frustration grows over 'disconnect' with gold](https://finance.yahoo.com/news/bitcoin-hovers-near-65000-as-investor-frustration-grows-over-disconnect-with-gold-183451704.html)**
-
-Bitcoin hovered near $65,000 on Thursday as investor disappointment grew over its failure to track gold's climb this year.
-
-Yahoo Finance • 21h ago
+Fortune • 1d ago
 
 ---
 
-**[Bitcoin vs Ethereum ETFs: A Growing Capital Divide](https://www.binance.com/da-DK/square/post/291232832708625)**
+**[Strategy (MSTR) Accounted for 97.5% of Corporate Bitcoin Buying Last Month, Report Shows](https://bitcoinmagazine.com/news/strategy-mstr-accounted-corporate-bitcoin)**
 
-Binance • 1h ago
+The corporate adoption of bitcoin was dominated by a single player last month — Strategy.
 
----
-
-**[Bitcoin Falling to $60,000 Could Spark Fresh Liquidation Spiral](https://www.bloomberg.com/news/articles/2026-02-13/bitcoin-falling-to-60-000-could-spark-fresh-liquidation-spiral)**
-
-Bloomberg.com • 1h ago
+Bitcoin Magazine • 22h ago
 
 ---
 
-**[Clear Street Trims Price Target on CleanSpark (CLSK) to $22, as Bitcoin Prices Fall](https://uk.finance.yahoo.com/news/clear-street-trims-price-target-145217735.html)**
+**[Bitcoin Treasuries Added $3.5 Billion in January—Almost All By Strategy](https://finance.yahoo.com/news/bitcoin-treasuries-added-3-5-174016695.html)**
 
-Yahoo Finance UK • 1h ago
+Bitcoin-buying firms delivered on demand last year, but they struggled to keep up with market leader Strategy for a fourth straight month.
 
----
-
-**[Crypto wallet in Nancy Guthrie note is traceable: Blockchain analyst](https://www.newsnationnow.com/crime/crypto-wallet-nancy-guthrie/)**
-
-NewsNation • 1d ago
+Yahoo Finance • 23h ago
 
 ---
 
@@ -249,7 +251,7 @@ NewsNation • 1d ago
 
 The crypto crash is coming — and the landing won’t be pretty
 
-⬆️ 5 • 💬 1 • 4d ago • [ft.com](https://www.ft.com/content/2b030926-2012-4446-b22d-e549e10e7086)
+⬆️ 5 • 💬 1 • 5d ago • [ft.com](https://www.ft.com/content/2b030926-2012-4446-b22d-e549e10e7086)
 
 ---
 
@@ -257,7 +259,7 @@ The crypto crash is coming — and the landing won’t be pretty
 
 Local opponents criticise legislation that will facilitate ‘networked state’ community and hand executive powers to developer
 
-⬆️ 4 • 💬 0 • 4d ago • [ft.com](https://www.ft.com/content/50c2f8e0-a0a4-4433-805d-46e9e0345d4a)
+⬆️ 4 • 💬 0 • 5d ago • [ft.com](https://www.ft.com/content/50c2f8e0-a0a4-4433-805d-46e9e0345d4a)
 
 ---
 
@@ -297,7 +299,7 @@ What do Bitcoin miners actually do? An interactive exploration of hashing, diffi
 
 Explore everything you can do as a lightning app builder using Alby - getAlby/sandbox
 
-⬆️ 2 • 💬 1 • 2h ago • [GitHub](https://github.com/getAlby/sandbox)
+⬆️ 2 • 💬 1 • 3h ago • [GitHub](https://github.com/getAlby/sandbox)
 
 ---
 
@@ -311,7 +313,7 @@ Bitcoin's crash off its all time high and then its sudden crash last week. It le
 
 📺 Mark Moss
 
-👁️ 167K • 👍 6K • 💬 1K • ⏱️ 16:43 • 20h ago
+👁️ 179K • 👍 7K • 💬 1K • ⏱️ 16:43 • 21h ago
 
 ---
 
@@ -321,7 +323,7 @@ Strategy executive chairman and founder Michael Saylor gives his take on Bitcoin
 
 📺 Fox Business
 
-👁️ 20K • 👍 513 • 💬 555 • ⏱️ 8:19 • 9h ago
+👁️ 26K • 👍 594 • 💬 622 • ⏱️ 8:19 • 11h ago
 
 ---
 
@@ -331,17 +333,17 @@ Predict Crypto, Sports, Politics & More on *ClashPicks* ▻ https://www.clashpic
 
 📺 CryptosRUs
 
-👁️ 28K • 👍 1K • 💬 578 • ⏱️ 8:08 • 14h ago
+👁️ 29K • 👍 1K • 💬 580 • ⏱️ 8:08 • 16h ago
 
 ---
 
-**[Largest Bitcoin Miner Predicts Next Bitcoin Bull Run](https://www.youtube.com/watch?v=XyChljTBrOk)**
+**[Did Pam Bondi’s CRASH OUT Signal a Bitcoin BREAKOUT?](https://www.youtube.com/watch?v=aDL3QVutH8Q)**
 
-Fred Thiel is the CEO of Marathon Digital and a leading voice at the intersection of bitcoin, energy, and data center infrastructure.
+Pam Bondi gets slammed on live TV and the cracks in the system are impossible to ignore. As global uncertainty explodes and the ...
 
-📺 Anthony Pompliano
+📺 Simply Bitcoin
 
-👁️ 36K • 👍 1K • 💬 68 • ⏱️ 18:55 • 18h ago
+👁️ 23K • 👍 2K • 💬 339 • ⏱️ 21:31 • 18h ago
 
 ---
 
@@ -351,27 +353,37 @@ Is the stock market topping out? Master technical analyst Gareth Soloway breaks 
 
 📺 Financial Funda
 
-👁️ 697 • 👍 38 • 💬 46 • ⏱️ 2:23 • 3h ago
+👁️ 1K • 👍 58 • 💬 46 • ⏱️ 2:23 • 4h ago
 
 ---
 
-**[Is the Bitcoin Collapse About to Get WORSE?](https://www.youtube.com/watch?v=s3vLS0fWMZ0)**
+**[Largest Bitcoin Miner Predicts Next Bitcoin Bull Run](https://www.youtube.com/watch?v=XyChljTBrOk)**
 
-Bitcoin #Crypto #Finance Stay ahead of the market — FREE Join the DataDash Pro newsletter ...
+Fred Thiel is the CEO of Marathon Digital and a leading voice at the intersection of bitcoin, energy, and data center infrastructure.
 
-📺 DataDash
+📺 Anthony Pompliano
 
-👁️ 7K • 👍 349 • 💬 27 • ⏱️ 15:09 • 1d ago
+👁️ 38K • 👍 1K • 💬 68 • ⏱️ 18:55 • 19h ago
 
 ---
 
-**[Why Bitcoin Could Hit $0](https://www.youtube.com/watch?v=IXNUM4FMqNs)**
+**[The Man Who Created Bitcoin and Vanished Forever](https://www.youtube.com/watch?v=X1vBPfXyAM4)**
 
-We're watching the worst crypto crash since the FTX scandal. Ben McKenzie explains what's driving the crash, and why this one ...
+Satoshi Nakamoto created Bitcoin and then disappeared without a trace here's why. #bitcoin #satoshinakamoto #shorts #crypto.
 
-📺 More Perfect Union
+📺 IQ
 
-👁️ 1.3M • 👍 79K • 💬 7K • ⏱️ 2:50 • 1d ago
+👁️ 1K • 👍 21 • ⏱️ 0:30 • 1d ago
+
+---
+
+**[CPI is OUT! The Market Reaction Explained [Bitcoin &amp; Stocks]](https://www.youtube.com/watch?v=Vr9VMt-yLc8)**
+
+Kyledoops gives his downside targets for what is getting setup to be a violent move. Today the market will receive a single catalyst ...
+
+📺 Crypto Banter
+
+👁️ 18K • 👍 2K • 💬 20 • ⏱️ 39:02 • 9h ago
 
 ---
 
@@ -385,23 +397,13 @@ Predict Crypto, Sports, Politics & More on *ClashPicks* ▻ https://www.clashpic
 
 ---
 
-**[How low will Bitcoin go?](https://www.youtube.com/watch?v=WUJwW3mf6to)**
+**[Why Bitcoin Could Hit $0](https://www.youtube.com/watch?v=IXNUM4FMqNs)**
 
-Let's talk about a few indicators that give some suggestions on how low the price of Bitcoin could eventually go. Into The ...
+We're watching the worst crypto crash since the FTX scandal. Ben McKenzie explains what's driving the crash, and why this one ...
 
-📺 Benjamin Cowen
+📺 More Perfect Union
 
-👁️ 149K • 👍 9K • 💬 654 • ⏱️ 23:30 • 1d ago
-
----
-
-**[WARNING: This Catalyst Will Bring A Violent Bitcoin Move TODAY!](https://www.youtube.com/watch?v=Vr9VMt-yLc8)**
-
-Kyledoops gives his downside targets for what is getting setup to be a violent move. Today the market will receive a single catalyst ...
-
-📺 Crypto Banter
-
-👁️ 16K • 👍 2K • 💬 19 • ⏱️ 39:02 • 8h ago
+👁️ 1.4M • 👍 81K • 💬 7K • ⏱️ 2:50 • 1d ago
 
 ---
 

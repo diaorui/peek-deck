@@ -3,13 +3,13 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-02-13T16:08:12.317024+00:00'
+updated: '2026-02-13T17:24:01.945933+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- videos
 - social
+- videos
 - news
 ---
 
@@ -17,7 +17,7 @@ data_types:
 
 Robotics research and industry news
 
-**Last Updated:** February 13, 2026 at 16:08 UTC  
+**Last Updated:** February 13, 2026 at 17:24 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -36,7 +36,15 @@ Robotics research and industry news
 
 I posted a video a couple of days ago on r/esp32 showing my Open-Source robot dance, and some people wanted to see it walk ... here you go ! Got a complete walking gate & added remote control :) Everything runs on the ESP32-S3 ! What do you think ?
 
-2h ago
+3h ago
+
+---
+
+**[Connect Raspberry Pi to GEPRC Taker F745](https://www.reddit.com/r/robotics/comments/1r3trsr/connect_raspberry_pi_to_geprc_taker_f745/)**
+
+Hi I have an FPV drone that i want to control using a Raspberry Pi. For this i want to connect the RPi to the Flight controller and use it as a companion computer. I am using a GEPRC TAKER F745 currently on a BetaFlight firmware. Any suggestions on how i can connect them or what firmware (Ardupilot/PX4) i can use with ROS2 on the RPi.
+
+55m ago
 
 ---
 
@@ -44,7 +52,7 @@ I posted a video a couple of days ago on r/esp32 showing my Open-Source robot da
 
 part 2 is coming soon, I will be adding propellers and a wind vane so it can move even if the wind is coming from behind! also I may add motors someday:)
 
-16h ago
+18h ago
 
 ---
 
@@ -60,7 +68,7 @@ I built this last year. Made those suction cups from scratch, it has camera, TOF
 
 As someone starting research in robotics, this has been on my mind for a while. I see a new VLA every week claiming it outperforms XYZ with better quality and more data. If that’s all it takes, what problems are actually still open? If everything can be countered with “just get more data,” what is left to research?
 
-22h ago
+23h ago
 
 ---
 
@@ -76,7 +84,7 @@ We're sharing how we bridged the Sim-to-Real gap by simulating the embedded syst
 
 Hi! I’ve been using TurtleBot with Gazebo Classic for a simulation project and recently migrated my model to Gazebo Ignition. Since the migration I’ve run into a few issues, especially with wall and floor textures (which I understand is expected due to conversion), but the main problem is visible gaps between walls. I attached screenshots showing how a section of the map is supposed to look vs how it currently looks in Ignition. I tried slightly increasing the wall lengths, but it didn’t noticeably improve the gaps. Does anyone know what typically causes this after Classic to Ignition conversion or how to properly fix it? I’m not sure if this is a common issue, but I wasn’t able to find much information about it online, so apologies if this is something obvious. This is a bit time-sensitive, so I’d really appreciate any guidance!
 
-17h ago
+18h ago
 
 ---
 
@@ -104,14 +112,6 @@ Been working on my DIY drone for the past few days. Facing a weird issue, motors
 
 ---
 
-**[Surgical Robotics Event In April 2026 by (SSII) SSi Mantra Surgical Robotics](https://www.reddit.com/r/robotics/comments/1r2sxbl/surgical_robotics_event_in_april_2026_by_ssii_ssi/)**
-
-Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.
-
-🔗 [youtube.com](https://youtube.com/shorts/oKXw1YJcoXU?si=eBA6b4QUD-VM8VIq) • 1d ago
-
----
-
 ---
 
 ## Google News: "robotics"
@@ -120,7 +120,7 @@ Enjoy the videos and music you love, upload original content, and share it all w
 
 Developing a durable and affordable hand is one of the biggest challenges in robotics.
 
-BBC • 16h ago
+BBC • 17h ago
 
 ---
 
@@ -136,7 +136,23 @@ Nature • 1d ago
 
 This ChinaPower feature examines China's push to lead the world in robotics and the geopolitical implications.
 
-ChinaPower Project • 20h ago
+ChinaPower Project • 21h ago
+
+---
+
+**[Bedrock Robotics raises $270M in red-hot AI sector](https://www.constructiondive.com/news/bedrock-robotics-raise-ai-automation-funding/811982/)**
+
+The autonomous construction tech provider now boasts total funding of over $350 million and a valuation of $1.75 billion.
+
+Construction Dive • 1d ago
+
+---
+
+**[Upside Robotics is reducing fertilizer use and waste in corn crops](https://techcrunch.com/2026/02/11/upside-robotics-is-reducing-fertilizer-use-and-waste-in-corn-crops/)**
+
+Upside Robotics builds autonomous solar-powered robots that can help farmers reduce their fertilizer use by 70%.
+
+TechCrunch • 2d ago
 
 ---
 
@@ -148,36 +164,6 @@ Automotive News • 1d ago
 
 ---
 
-**[Robots with human-inspired eyes have better vision](https://www.economist.com/science-and-technology/2026/02/11/robots-with-human-inspired-eyes-have-better-vision)**
-
-Their reaction times can even surpass their makers’
-
-The Economist • 1d ago
-
----
-
-**[How A Chinese Engineer Became A Billionaire Making Robotic ‘Eyes’](https://www.forbes.com/sites/zinnialee/2026/02/12/how-a-chinese-engineer-became-a-billionaire-making-robotic-eyes/)**
-
-Forbes • 14h ago
-
----
-
-**[People — and robots — ready to celebrate Lunar New Year](https://www.oregonlive.com/nation/2026/02/people-and-robots-ready-to-celebrate-lunar-new-year.html)**
-
-Robots star in fairs and activities around Beijing.
-
-OregonLive.com • 2h ago
-
----
-
-**[3D Printing Pneumatic Channels With Dual Materials For Soft Robots](https://hackaday.com/2026/02/13/3d-printing-pneumatic-channels-with-dual-materials-for-soft-robots/)**
-
-Pneumatics are a common way to add some motion to soft robotic actuators, but adding it to a robot can be somewhat of a chore. A method demonstrated by [Jackson K. Wilt] et al. (press release, prep…
-
-Hackaday • 4h ago
-
----
-
 **[Humanoid robots are getting smaller, safer and closer](https://www.foxnews.com/tech/humanoid-robots-getting-smaller-safer-closer)**
 
 Fauna Robotics is launching Sprout as a developer platform for humanoid robots. The robot features 29 degrees of freedom and NVIDIA compute power.
@@ -186,9 +172,27 @@ Fox News • 2d ago
 
 ---
 
-**[Alibaba Launches RynnBrain AI Model for Robots](https://www.eweek.com/news/alibaba-launches-rynnbrain-ai-model-for-robots/)**
+**[People — and robots — in China are getting ready for grand Lunar New Year celebration](https://nypost.com/2026/02/13/world-news/people-and-robots-are-getting-ready-to-celebrate-the-lunar-new-year-in-china/)**
 
-eWeek • 1d ago
+For a second year in a row, one of the fairs will be devoted to technology and — yes, again — robots will take center stage.
+
+New York Post • 1h ago
+
+---
+
+**[Symbotic acquires autonomous forklift maker Fox Robotics](https://www.therobotreport.com/symbotic-acquires-autonomous-forklift-maker-fox-robotics/)**
+
+Symbotic has acquired autonomous forklift developer Fox Robotics in a move that broadens its logistics robotics offerings.
+
+The Robot Report • 2d ago
+
+---
+
+**[Alibaba Pushes Into Robotics AI With Open-Source ‘RynnBrain’](https://finance.yahoo.com/news/alibaba-pushes-robotics-ai-open-065326706.html)**
+
+The Chinese company’s DAMO Academy introduced an open-source foundation model that engages with the environment, understands space in relation to time and can figure out steps toward completing a task.  With the release, Alibaba takes on AI leaders including Alphabet Inc.’s Google and Nvidia Corp. The Chinese firm claimed state-of-the-art results on benchmarks against Google’s Gemini Robotics-ER 1.5 and Nvidia’s Cosmos-Reason2.  Trained on Alibaba’s Qwen3-VL vision language model, RynnBrain is available on platforms like Hugging Face and GitHub in multiple versions starting as small as 2 billion parameters to a more efficient mixture-of-experts version.
+
+Yahoo Finance • 3d ago
 
 ---
 
@@ -202,17 +206,7 @@ A massive robotics shift is unfolding right in front of us. Boston Dynamics has 
 
 📺 AI Revolution
 
-👁️ 81K • 👍 2K • 💬 148 • ⏱️ 11:59 • 2d ago
-
----
-
-**[A Pi-powered robot to replace my parent-child interaction](https://www.youtube.com/watch?v=yvBbcLCZIhg)**
-
-Can a robot take care of teaching my kids everything they need to know? The Reachy Mini Wireless I used was provided by ...
-
-📺 Jeff Geerling
-
-👁️ 249 • 👍 34 • 💬 8 • ⏱️ 12:38 • 1h ago
+👁️ 82K • 👍 2K • 💬 154 • ⏱️ 11:59 • 2d ago
 
 ---
 
@@ -226,13 +220,13 @@ Boston Dynamics' latest Atlas humanoid robot attempts dramatic parkour flips, dr
 
 ---
 
-**[The real test for humanoid robots isn’t performance.](https://www.youtube.com/watch?v=4iU9kfIZnhs)**
+**[Testing Hugging Face&#39;s Raspberry Pi-powered open source robot](https://www.youtube.com/watch?v=yvBbcLCZIhg)**
 
-Humanoid robots don't fail at tasks. They fail at presence. The hardest part of building humanoid robots isn't hardware.
+Can a little Pi-powered bot teach my kids? The Reachy Mini Wireless I used was provided by HuggingFace and Pollen Robotics; ...
 
-📺 Slidebean
+📺 Jeff Geerling
 
-👁️ 15K • 👍 527 • 💬 27 • ⏱️ 1:21 • 3d ago
+👁️ 6K • 👍 844 • 💬 85 • ⏱️ 12:38 • 2h ago
 
 ---
 
@@ -242,25 +236,37 @@ Chinese robotics company AGIBOT redefined the intersection of technology and cul
 
 📺 ABS-CBN News
 
-👁️ 8K • 👍 78 • 💬 55 • ⏱️ 3:09 • 1d ago
+👁️ 9K • 👍 86 • 💬 57 • ⏱️ 3:09 • 1d ago
 
 ---
 
-**[Tiny Robots That Dissolve Kidney Stones 😮](https://www.youtube.com/watch?v=FVXOj-VrJFc)**
+**[Sometimes, War Robots is literally UNPLAYABLE!](https://www.youtube.com/watch?v=O3_t2JHbuo0)**
 
-📺 Zack D. Films
+War Robots Gameplay, trying the UE VORTEX NUO but realizing that the robot is unplayable now with so much Bash, Boom and ...
 
-👁️ 4.1M • 👍 163K • 💬 2K • ⏱️ 0:23 • 1d ago
+📺 Manni-Gaming
+
+👁️ 22K • 👍 1K • 💬 388 • ⏱️ 10:29 • 1d ago
 
 ---
 
-**[Atlas Airborne Robot Shows the Final Evolution of Boston Dynamics](https://www.youtube.com/watch?v=IjRjKwZhYCQ)**
+**[Tesla Was Never a Car Company #teslaoptimus  #elonmusk  #teslarobot  #teslabotgen3 #humanoidrobots](https://www.youtube.com/watch?v=slqW7zBA6Oc)**
 
-The Atlas Airborne Robot takes one final research run as Boston Dynamics pushes humanoid robot control to its absolute limit.
+They laughed when Elon Musk brought a man in a spandex suit on stage. But in 2026, nobody is laughing. Tesla was never a car ...
 
-📺 DPCcars
+📺 By 2050
 
-👁️ 75K • 👍 546 • 💬 92 • ⏱️ 2:45 • 5d ago
+👁️ 1.6M • 👍 25K • 💬 643 • ⏱️ 1:00 • 4d ago
+
+---
+
+**[Cardi B falls while dancing on a robot 😭](https://www.youtube.com/watch?v=x4D0Y18vN_8)**
+
+Cardi B falls while dancing on a robot ©️ to tmz #cardib **Fair Use Disclaimer:** This content is for educational, commentary, ...
+
+📺 POPVEIN
+
+👁️ 2.7M • 👍 29K • 💬 495 • ⏱️ 0:08 • 5d ago
 
 ---
 
@@ -274,21 +280,23 @@ Now that the Atlas enterprise platform is getting to work, the research version 
 
 ---
 
-**[The world of robotics is advancing](https://www.youtube.com/watch?v=O-IPeboeXGI)**
+**[The Humanoid Takeover: $50T Market, Figure&#39;s Full Body Autonomy, and Robots in Dorms #229](https://www.youtube.com/watch?v=S_fXhVT67Uw)**
 
-📺 Fredo on TV
+Peter & Dave sit down with Brett Adcock to discuss the future of Figure and Humanoid Robots. Get access to metatrends 10+ ...
 
-👁️ 225K • 👍 21K • 💬 581 • ⏱️ 0:34 • 5d ago
+📺 Peter H. Diamandis
+
+👁️ 88K • 👍 2K • 💬 1K • ⏱️ 1:43:48 • 1d ago
 
 ---
 
-**[Shaolin monks team up with humanoid robots in kung fu class](https://www.youtube.com/watch?v=mt3929HlbIk)**
+**[Atlas Airborne Robot Shows the Final Evolution of Boston Dynamics](https://www.youtube.com/watch?v=IjRjKwZhYCQ)**
 
-A new "class" has arrived at the Shaolin Temple in central China's Henan Province, where humanoid robots teamed up with ...
+The Atlas Airborne Robot takes one final research run as Boston Dynamics pushes humanoid robot control to its absolute limit.
 
-📺 CGTN
+📺 DPCcars
 
-👁️ 97K • 👍 655 • 💬 87 • ⏱️ 0:19 • 6d ago
+👁️ 76K • 👍 547 • 💬 92 • ⏱️ 2:45 • 5d ago
 
 ---
 
