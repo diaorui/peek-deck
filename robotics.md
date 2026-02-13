@@ -3,7 +3,7 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-02-13T10:07:45.292377+00:00'
+updated: '2026-02-13T11:09:24.272154+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
@@ -17,7 +17,7 @@ data_types:
 
 Robotics research and industry news
 
-**Last Updated:** February 13, 2026 at 10:07 UTC  
+**Last Updated:** February 13, 2026 at 11:09 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -36,7 +36,7 @@ Robotics research and industry news
 
 part 2 is coming soon, I will be adding propellers and a wind vane so it can move even if the wind is coming from behind! also I may add motors someday:)
 
-10h ago
+11h ago
 
 ---
 
@@ -52,7 +52,7 @@ I built this last year. Made those suction cups from scratch, it has camera, TOF
 
 As someone starting research in robotics, this has been on my mind for a while. I see a new VLA every week claiming it outperforms XYZ with better quality and more data. If that’s all it takes, what problems are actually still open? If everything can be countered with “just get more data,” what is left to research?
 
-16h ago
+17h ago
 
 ---
 
@@ -64,6 +64,14 @@ We're sharing how we bridged the Sim-to-Real gap by simulating the embedded syst
 
 ---
 
+**[Help with migration from Gazebo Classic to Ignition (wall gaps)](https://www.reddit.com/r/robotics/comments/1r37nfe/help_with_migration_from_gazebo_classic_to/)**
+
+Hi! I’ve been using TurtleBot with Gazebo Classic for a simulation project and recently migrated my model to Gazebo Ignition. Since the migration I’ve run into a few issues, especially with wall and floor textures (which I understand is expected due to conversion), but the main problem is visible gaps between walls. I attached screenshots showing how a section of the map is supposed to look vs how it currently looks in Ignition. I tried slightly increasing the wall lengths, but it didn’t noticeably improve the gaps. Does anyone know what typically causes this after Classic to Ignition conversion or how to properly fix it? I’m not sure if this is a common issue, but I wasn’t able to find much information about it online, so apologies if this is something obvious. This is a bit time-sensitive, so I’d really appreciate any guidance!
+
+12h ago
+
+---
+
 **[Boston Dynamics veteran and CEO, Robert Playter, steps down after more than 30 years with company](https://www.reddit.com/r/robotics/comments/1r23voi/boston_dynamics_veteran_and_ceo_robert_playter/)**
 
 Boston Dynamics CEO Robert Playter told staff on Tuesday that he'll be stepping down from the company. He first joined Boston Dynamics in 1994.
@@ -72,19 +80,11 @@ Boston Dynamics CEO Robert Playter told staff on Tuesday that he'll be stepping 
 
 ---
 
-**[Help with migration from Gazebo Classic to Ignition (wall gaps)](https://www.reddit.com/r/robotics/comments/1r37nfe/help_with_migration_from_gazebo_classic_to/)**
-
-Hi! I’ve been using TurtleBot with Gazebo Classic for a simulation project and recently migrated my model to Gazebo Ignition. Since the migration I’ve run into a few issues, especially with wall and floor textures (which I understand is expected due to conversion), but the main problem is visible gaps between walls. I attached screenshots showing how a section of the map is supposed to look vs how it currently looks in Ignition. I tried slightly increasing the wall lengths, but it didn’t noticeably improve the gaps. Does anyone know what typically causes this after Classic to Ignition conversion or how to properly fix it? I’m not sure if this is a common issue, but I wasn’t able to find much information about it online, so apologies if this is something obvious. This is a bit time-sensitive, so I’d really appreciate any guidance!
-
-11h ago
-
----
-
 **[Low-code AI changing how industrial robots get deployed](https://www.reddit.com/r/robotics/comments/1r2vb0h/lowcode_ai_changing_how_industrial_robots_get/)**
 
 This article argues that robot deployment is starting to shift away from traditional application-specific coding toward AI-powered low-code and no-code platforms. Instead of writing custom logic for every product change, teams are using visual interfaces, task demonstration, and AI reasoning to configure workflows. In inspection and assembly, systems can adapt to variation and real-time inputs without being explicitly programmed for every scenario.
 
-🔗 [Automate](https://www.automate.org/ai/industry-insights/ai-low-code-and-no-code-solutions-in-robotics) • 19h ago
+🔗 [Automate](https://www.automate.org/ai/industry-insights/ai-low-code-and-no-code-solutions-in-robotics) • 20h ago
 
 ---
 
@@ -100,7 +100,7 @@ Been working on my DIY drone for the past few days. Facing a weird issue, motors
 
 Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.
 
-🔗 [youtube.com](https://youtube.com/shorts/oKXw1YJcoXU?si=eBA6b4QUD-VM8VIq) • 21h ago
+🔗 [youtube.com](https://youtube.com/shorts/oKXw1YJcoXU?si=eBA6b4QUD-VM8VIq) • 22h ago
 
 ---
 
@@ -120,7 +120,7 @@ Enjoy the videos and music you love, upload original content, and share it all w
 
 Developing a durable and affordable hand is one of the biggest challenges in robotics.
 
-BBC • 10h ago
+BBC • 11h ago
 
 ---
 
@@ -128,7 +128,7 @@ BBC • 10h ago
 
 npj Robotics - A call for a performance-driven approach for soft robotics research
 
-Nature • 22h ago
+Nature • 23h ago
 
 ---
 
@@ -136,7 +136,7 @@ Nature • 22h ago
 
 This ChinaPower feature examines China's push to lead the world in robotics and the geopolitical implications.
 
-ChinaPower Project • 14h ago
+ChinaPower Project • 15h ago
 
 ---
 
@@ -156,30 +156,6 @@ Fox News • 2d ago
 
 ---
 
-**[If robots take the auto jobs, who’s left with money to buy cars?](https://www.autonews.com/manufacturing/anc-humanoid-robots-threaten-auto-industry-jobs-0209/)**
-
-Larry Savage, a professor of labour studies at Brock University, says governments might need to step in to help protect jobs that are under the threat of automation.
-
-Automotive News • 23h ago
-
----
-
-**[Italy: Humanoid robot welder to help shipyards improve safety and efficiency](https://interestingengineering.com/ai-robotics/italy-humanoid-robot-welder-shipyards)**
-
-Fincanteri has partnered with Generative Bionics to deploy a humanoid robot welder to improve shipyard safety and efficiency.
-
-Interesting Engineering • 1d ago
-
----
-
-**[Musk due in Israel in March with focus on robotics - Globes](https://en.globes.co.il/en/article-musk-due-in-israel-in-march-with-focus-on-robotics-1001534675)**
-
-&nbsp;
-
-Globes - Israel Business News • 1d ago
-
----
-
 **[Upside Robotics is reducing fertilizer use and waste in corn crops](https://techcrunch.com/2026/02/11/upside-robotics-is-reducing-fertilizer-use-and-waste-in-corn-crops/)**
 
 Upside Robotics builds autonomous solar-powered robots that can help farmers reduce their fertilizer use by 70%.
@@ -193,6 +169,30 @@ TechCrunch • 1d ago
 Symbotic has acquired autonomous forklift developer Fox Robotics in a move that broadens its logistics robotics offerings.
 
 The Robot Report • 2d ago
+
+---
+
+**[Musk due in Israel in March with focus on robotics - Globes](https://en.globes.co.il/en/article-musk-due-in-israel-in-march-with-focus-on-robotics-1001534675)**
+
+&nbsp;
+
+Globes - Israel Business News • 1d ago
+
+---
+
+**[If robots take the auto jobs, who’s left with money to buy cars?](https://www.autonews.com/manufacturing/anc-humanoid-robots-threaten-auto-industry-jobs-0209/)**
+
+Larry Savage, a professor of labour studies at Brock University, says governments might need to step in to help protect jobs that are under the threat of automation.
+
+Automotive News • 1d ago
+
+---
+
+**[Construction Embraces AI Agents, Safety Systems and Robotics as Labor Pressures Mount](https://www.pymnts.com/artificial-intelligence-2/2026/construction-embraces-ai-agents-safety-systems-and-robotics-as-labor-pressures-mount/)**
+
+Artificial intelligence is no longer confined to experimental pilots in the construction industry. It is moving into the operational core of how projects
+
+PYMNTS.com • 2d ago
 
 ---
 
@@ -214,7 +214,7 @@ A massive robotics shift is unfolding right in front of us. Boston Dynamics has 
 
 📺 Zack D. Films
 
-👁️ 3.6M • 👍 146K • 💬 1K • ⏱️ 0:23 • 18h ago
+👁️ 3.6M • 👍 146K • 💬 1K • ⏱️ 0:23 • 19h ago
 
 ---
 
@@ -274,7 +274,7 @@ Cardi B falls while dancing on a robot ©️ to tmz #cardib **Fair Use Disclaime
 
 📺 POPVEIN
 
-👁️ 2.6M • 👍 28K • 💬 489 • ⏱️ 0:08 • 4d ago
+👁️ 2.6M • 👍 28K • 💬 489 • ⏱️ 0:08 • 5d ago
 
 ---
 

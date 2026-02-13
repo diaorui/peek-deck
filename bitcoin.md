@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-02-13T10:07:45.282654+00:00'
+updated: '2026-02-13T11:09:24.262819+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
 - news
+- cryptocurrency
 - social
 - videos
-- cryptocurrency
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** February 13, 2026 at 10:07 UTC  
+**Last Updated:** February 13, 2026 at 11:09 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -44,11 +44,11 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Chart
 
-**24h:** -1.9%  
-**7d:** -3.7%  
-**30d:** -30.2%  
-**90d:** -29.2%  
-**1y:** -31.5%  
+**24h:** -1.2%  
+**7d:** -3.4%  
+**30d:** -30.0%  
+**90d:** -29.0%  
+**1y:** -31.3%  
 
 ---
 
@@ -77,29 +77,31 @@ Rank #1
 
 ## Reddit: r/Bitcoin
 
-**[VanEck said it knows 13 governments that are actively mining Bitcoin](https://www.reddit.com/r/Bitcoin/comments/1r35qqv/vaneck_said_it_knows_13_governments_that_are/)**
-
-12h ago
-
----
-
 **[I’ve never had a successful year trading. And I decided to buy Bitcoin at 92k. I said to my friend “there’s no way I can bring down the global economy”](https://www.reddit.com/r/Bitcoin/comments/1r3a905/ive_never_had_a_successful_year_trading_and_i/)**
 
 Well…
 
-9h ago
+10h ago
 
 ---
 
 **[Bitcoin, what are you doing](https://www.reddit.com/r/Bitcoin/comments/1r2u1yl/bitcoin_what_are_you_doing/)**
 
-20h ago
+21h ago
 
 ---
 
-**[Which one are you?](https://www.reddit.com/r/Bitcoin/comments/1r32e5a/which_one_are_you/)**
+**[VanEck said it knows 13 governments that are actively mining Bitcoin](https://www.reddit.com/r/Bitcoin/comments/1r35qqv/vaneck_said_it_knows_13_governments_that_are/)**
 
-14h ago
+13h ago
+
+---
+
+**[bitcoin gotta be trolling at this point](https://www.reddit.com/r/Bitcoin/comments/1r3kqng/bitcoin_gotta_be_trolling_at_this_point/)**
+
+like we was just vibing near 100k, everybody loud, posting rockets, acting rich in theory then boom 90 80 70 just casually opening doors like “you forgot something down here” bro who asked for this my portfolio looking at me like I did something wrong and there’s always that one guy “it’s a healthy correction” healthy?? I’m stressed eating cereal at 2am watching candles bleed bitcoin don’t even walk downstairs it just throws itself down still not selling tho but damn can we chill for five minutes
+
+1h ago
 
 ---
 
@@ -107,31 +109,21 @@ Well…
 
 Just want to let you know that bitcoin will reach 38,000 according to my dream. I’m still DCA everyday with full confidence. Your welcome
 
-6h ago
+7h ago
 
 ---
 
-**[Daily Discussion, February 13, 2026](https://www.reddit.com/r/Bitcoin/comments/1r3hdtv/daily_discussion_february_13_2026/)**
+**[Which one are you?](https://www.reddit.com/r/Bitcoin/comments/1r32e5a/which_one_are_you/)**
 
-Please utilize this sticky thread for all general Bitcoin discussions! If you see posts on the front page or /r/Bitcoin/new which are better suited for this daily discussion thread, please help out by directing the OP to this thread instead. Thank you! If you don't get an answer to your question, you can try phrasing it differently or commenting again tomorrow. Please check the previous discussion thread for unanswered questions.
-
-4h ago
+15h ago
 
 ---
 
-**[My dip buying strategy. Started from$80K](https://www.reddit.com/r/Bitcoin/comments/1r2pzse/my_dip_buying_strategy_started_from80k/)**
+**[Baby steps](https://www.reddit.com/r/Bitcoin/comments/1r3kzxx/baby_steps/)**
 
-I set alerts for my dip buying strategy. I have been buying since $80K and these are my next targets. Hope it all hit perfectly. I may increase the amounts depending on my savings.
+Like minnows in the ocean, or more like… plankton Motivating seeing everyone’s big buys and sometimes hard to see what everyone else is moving and sticking to putting in what won’t ruin me if I lose! Been DCAing since £57k and have bigger orders set at £45k,50,55 etc. maybe I’ll be a wholecoiner in 500 years! Hah
 
-23h ago
-
----
-
-**[Won $4,000 worth of BTC at a bitcoin betting website. Should I hold?](https://www.reddit.com/r/Bitcoin/comments/1r34csh/won_4000_worth_of_btc_at_a_bitcoin_betting/)**
-
-Since bitcoin is dropping, please advise on should I keep this win? I have never invested in crypto and have no idea what to do with this. Yes it was pure dumb luck. Now pleas help!
-
-13h ago
+1h ago
 
 ---
 
@@ -139,15 +131,21 @@ Since bitcoin is dropping, please advise on should I keep this win? I have never
 
 Grant Cardone just listed his mansion for sale for 700 BTC. Just got to know there are even more expensive properties already for sale at over 700 BTC.
 
-6h ago
+7h ago
 
 ---
 
-**[Want to go off exchanges but am scared](https://www.reddit.com/r/Bitcoin/comments/1r35p3n/want_to_go_off_exchanges_but_am_scared/)**
+**[Daily Discussion, February 13, 2026](https://www.reddit.com/r/Bitcoin/comments/1r3hdtv/daily_discussion_february_13_2026/)**
 
-I really want to start self-custody and have my bitcoing actually be my own. But I'm terrified of losing my passkey. I'm notoriously bad at keeping stuff working. I've already lost multiple phones and have lost my 2fa to current exchanges. Only thing that saved me both times was KYC and customer support.
+Please utilize this sticky thread for all general Bitcoin discussions! If you see posts on the front page or /r/Bitcoin/new which are better suited for this daily discussion thread, please help out by directing the OP to this thread instead. Thank you! If you don't get an answer to your question, you can try phrasing it differently or commenting again tomorrow. Please check the previous discussion thread for unanswered questions.
 
-12h ago
+5h ago
+
+---
+
+**[Just HODL it](https://www.reddit.com/r/Bitcoin/comments/1r3jy6b/just_hodl_it/)**
+
+2h ago
 
 ---
 
@@ -155,11 +153,9 @@ I really want to start self-custody and have my bitcoing actually be my own. But
 
 ## Google News: "bitcoin"
 
-**[Bitcoin's drawdown hit 50%. History shows it may have further to go](https://www.cnbc.com/2026/02/12/bitcoins-drawdown-hit-50percent-history-shows-it-may-have-further-to-go.html)**
+**[Bitcoin Steadies in Asia After Standard Chartered Warning](https://www.bloomberg.com/news/articles/2026-02-13/bitcoin-btc-under-pressure-in-asia-after-standard-chartered-warning)**
 
-Bitcoin has a history of falling about 75% during each four-year cycle, suggesting the token is on track to fall even further in the near future.
-
-CNBC • 19h ago
+Bloomberg • 6h ago
 
 ---
 
@@ -167,43 +163,53 @@ CNBC • 19h ago
 
 The strong correlation between crypto and the software sector reasserted itself on Wednesday
 
-CoinDesk • 8h ago
+CoinDesk • 9h ago
 
 ---
 
-**[Bitcoin Steadies in Asia After Standard Chartered Warning](https://www.bloomberg.com/news/articles/2026-02-13/bitcoin-btc-under-pressure-in-asia-after-standard-chartered-warning)**
+**[Bitcoin Price Falls Again. How Low It Could Go Before Rallying.](https://www.barrons.com/articles/bitcoin-xrp-ether-cryptos-inflation-e5791bb9?gaa_at=eafs&gaa_n=AWEtsqcphKFz3gRzlt7AACrWkvFE_u8Qfg7kL6BV3XPMb5vacZVhCe3mldCv&gaa_ts=698f09cd&gaa_sig=-FLHZpypToO1gFOgNPfrO4fbXP5s0ikMQtQpvadM1adMkgNocSjYfalYcHXOG92xv1el0gL3QxQBo4kNTPeWtQ%3D%3D)**
 
-Bloomberg.com • 5h ago
+Barron's • 1h ago
 
 ---
 
-**[HBAR Set for $4 Million Short Squeeze, But Bitcoin May Block It](https://finance.yahoo.com/news/hbar-set-4-million-short-080000807.html)**
+**[Bitcoin hovers near $65,000 as investor frustration grows over 'disconnect' with gold](https://finance.yahoo.com/news/bitcoin-hovers-near-65000-as-investor-frustration-grows-over-disconnect-with-gold-183451704.html)**
 
-HBAR eyes breakout with $4.34 million short squeeze potential, but Bitcoin correlation may limit upside if BTC weakens.
+Bitcoin hovered near $65,000 on Thursday as investor disappointment grew over its failure to track gold's climb this year.
+
+Yahoo Finance • 16h ago
+
+---
+
+**[Ramil Ventura Palafox gets 20 years sentence over $200 million bitcoin Ponzi scheme](https://www.coindesk.com/policy/2026/02/13/pgi-global-ceo-gets-20-years-sentence-over-usd200-million-bitcoin-ponzi-scheme)**
+
+Instead of investing in bitcoin and forex trading as promised, Palafox used new investor funds to pay old ones and siphoned millions for personal use.
+
+CoinDesk • 7m ago
+
+---
+
+**[Bhutan's Bitcoin Offloading Continues for the Third Week: Here's How Much the Country Has Sold Until Now](https://finance.yahoo.com/news/bhutans-bitcoin-offloading-continues-third-090815856.html)**
+
+Bhutan has sold Bitcoin weekly for three straight weeks, totaling about $29 million recently. The country still holds roughly 5,700 BTC worth $372 million after ...
 
 Yahoo Finance • 2h ago
 
 ---
 
-**[Crypto wallet in Nancy Guthrie note is traceable: Blockchain analyst](https://www.newsnationnow.com/crime/crypto-wallet-nancy-guthrie/)**
+**[Bitcoin reportedly sent to wallet associated with Nancy Guthrie’s ransom letter providing potential clue in investigation](https://fortune.com/2026/02/11/bitcoin-reportedly-sent-to-wallet-associated-with-nancy-guthries-ransom-letter/)**
 
-NewsNation • 1d ago
+Meanwhile, authorities released surveillance video showing the alleged captor who remains at large.
 
----
-
-**[Despite Bitcoin’s Plunge, These Crypto IPOs Are Seen on Deck for 2026](https://www.morningstar.com/stocks/despite-bitcoins-plunge-these-crypto-ipos-are-seen-deck-2026)**
-
-Investors are nursing huge losses on 2025 crypto IPOs, but stablecoin companies could be a haven.
-
-Morningstar • 22h ago
+Fortune • 1d ago
 
 ---
 
-**[Strategy (MSTR) Accounted for 97.5% of Corporate Bitcoin Buying Last Month, Report Shows](https://bitcoinmagazine.com/news/strategy-mstr-accounted-corporate-bitcoin)**
+**[South Korean police lose seized bitcoin held in cold wallet since 2021](https://www.theblock.co/post/389783/south-korean-police-loses-seized-bitcoin)**
 
-The corporate adoption of bitcoin was dominated by a single player last month — Strategy.
+Police authorities have launched an internal probe to determine the circumstances of the incident and potential internal involvement.
 
-Bitcoin Magazine • 15h ago
+The Block • 2h ago
 
 ---
 
@@ -215,17 +221,11 @@ CNBC • 2d ago
 
 ---
 
-**[MSTR's STRC returns to $100 par, poised to unlock more BTC accumulation](https://www.coindesk.com/markets/2026/02/12/strategy-s-strc-returns-to-usd100-poised-to-unlock-more-bitcoin-accumulation)**
+**[Strategy (MSTR) Accounted for 97.5% of Corporate Bitcoin Buying Last Month, Report Shows](https://bitcoinmagazine.com/news/strategy-mstr-accounted-corporate-bitcoin)**
 
-The perpetual preferred STRC hits $100 par amid bitcoin downturn, enabling potential further BTC purchases for the company.
+The corporate adoption of bitcoin was dominated by a single player last month — Strategy.
 
-CoinDesk • 11h ago
-
----
-
-**[A Bitcoin Blunder for the Ages: $40 Billion Accidentally Given Away by Bithumb - WSJ](https://www.wsj.com/finance/currencies/a-bitcoin-blunder-for-the-ages-40-billion-accidentally-given-away-3a207eac?gaa_at=eafs&gaa_n=AWEtsqe6MUJcbXrXqFPKCvqIYmX1LwJZtQSqzhttmyz06NZhFTe6hyEDiyn0&gaa_ts=698eedff&gaa_sig=98ZJpM8GMP8gocBYSKAdfnD_RlmKcxIUk6eoAdJev7d1rCrTJpDzqhL1NOazOvTcHk9yrx9lh0OvCykhdyEjBA%3D%3D)**
-
-The Wall Street Journal • 2d ago
+Bitcoin Magazine • 16h ago
 
 ---
 
@@ -317,7 +317,7 @@ Bitcoin's crash off its all time high and then its sudden crash last week. It le
 
 📺 Mark Moss
 
-👁️ 141K • 👍 6K • 💬 813 • ⏱️ 16:43 • 14h ago
+👁️ 141K • 👍 6K • 💬 813 • ⏱️ 16:43 • 15h ago
 
 ---
 
@@ -327,7 +327,7 @@ Predict Crypto, Sports, Politics & More on *ClashPicks* ▻ https://www.clashpic
 
 📺 CryptosRUs
 
-👁️ 23K • 👍 1K • 💬 380 • ⏱️ 8:08 • 8h ago
+👁️ 23K • 👍 1K • 💬 380 • ⏱️ 8:08 • 9h ago
 
 ---
 
@@ -337,7 +337,7 @@ Bitcoin #Crypto #Finance Stay ahead of the market — FREE Join the DataDash Pro
 
 📺 DataDash
 
-👁️ 6K • 👍 337 • 💬 26 • ⏱️ 15:09 • 18h ago
+👁️ 6K • 👍 337 • 💬 26 • ⏱️ 15:09 • 19h ago
 
 ---
 
@@ -357,7 +357,7 @@ Strategy executive chairman and founder Michael Saylor gives his take on Bitcoin
 
 📺 Fox Business
 
-👁️ 6K • 👍 203 • 💬 214 • ⏱️ 8:19 • 3h ago
+👁️ 6K • 👍 203 • 💬 214 • ⏱️ 8:19 • 4h ago
 
 ---
 
@@ -377,7 +377,7 @@ Fred Thiel is the CEO of Marathon Digital and a leading voice at the intersectio
 
 📺 Anthony Pompliano
 
-👁️ 31K • 👍 1K • 💬 59 • ⏱️ 18:55 • 12h ago
+👁️ 31K • 👍 1K • 💬 59 • ⏱️ 18:55 • 13h ago
 
 ---
 
@@ -397,7 +397,7 @@ Predict Crypto, Sports, Politics & More on *ClashPicks* ▻ https://www.clashpic
 
 📺 CryptosRUs
 
-👁️ 27K • 👍 1K • 💬 183 • ⏱️ 51:44 • 18h ago
+👁️ 27K • 👍 1K • 💬 183 • ⏱️ 51:44 • 19h ago
 
 ---
 
@@ -407,7 +407,7 @@ The crypto market is at a massive crossroads. After the "Crypto Winter" correcti
 
 📺 Discover Crypto
 
-👁️ 4K • 👍 241 • 💬 41 • ⏱️ 9:41 • 10h ago
+👁️ 4K • 👍 241 • 💬 41 • ⏱️ 9:41 • 11h ago
 
 ---
 
