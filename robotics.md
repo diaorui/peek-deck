@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-02-13T14:13:21.127931+00:00'
+updated: '2026-02-13T15:08:57.135448+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- news
-- videos
 - social
+- videos
+- news
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** February 13, 2026 at 14:13 UTC  
+**Last Updated:** February 13, 2026 at 15:08 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -36,7 +36,7 @@ Robotics research and industry news
 
 I posted a video a couple of days ago on r/esp32 showing my Open-Source robot dance, and some people wanted to see it walk ... here you go ! Got a complete walking gate & added remote control :) Everything runs on the ESP32-S3 ! What do you think ?
 
-23m ago
+1h ago
 
 ---
 
@@ -60,7 +60,7 @@ I built this last year. Made those suction cups from scratch, it has camera, TOF
 
 As someone starting research in robotics, this has been on my mind for a while. I see a new VLA every week claiming it outperforms XYZ with better quality and more data. If that’s all it takes, what problems are actually still open? If everything can be countered with “just get more data,” what is left to research?
 
-20h ago
+21h ago
 
 ---
 
@@ -76,7 +76,7 @@ We're sharing how we bridged the Sim-to-Real gap by simulating the embedded syst
 
 Hi! I’ve been using TurtleBot with Gazebo Classic for a simulation project and recently migrated my model to Gazebo Ignition. Since the migration I’ve run into a few issues, especially with wall and floor textures (which I understand is expected due to conversion), but the main problem is visible gaps between walls. I attached screenshots showing how a section of the map is supposed to look vs how it currently looks in Ignition. I tried slightly increasing the wall lengths, but it didn’t noticeably improve the gaps. Does anyone know what typically causes this after Classic to Ignition conversion or how to properly fix it? I’m not sure if this is a common issue, but I wasn’t able to find much information about it online, so apologies if this is something obvious. This is a bit time-sensitive, so I’d really appreciate any guidance!
 
-15h ago
+16h ago
 
 ---
 
@@ -92,7 +92,7 @@ Boston Dynamics CEO Robert Playter told staff on Tuesday that he'll be stepping 
 
 This article argues that robot deployment is starting to shift away from traditional application-specific coding toward AI-powered low-code and no-code platforms. Instead of writing custom logic for every product change, teams are using visual interfaces, task demonstration, and AI reasoning to configure workflows. In inspection and assembly, systems can adapt to variation and real-time inputs without being explicitly programmed for every scenario.
 
-🔗 [Automate](https://www.automate.org/ai/industry-insights/ai-low-code-and-no-code-solutions-in-robotics) • 23h ago
+🔗 [Automate](https://www.automate.org/ai/industry-insights/ai-low-code-and-no-code-solutions-in-robotics) • 1d ago
 
 ---
 
@@ -120,7 +120,7 @@ Enjoy the videos and music you love, upload original content, and share it all w
 
 Developing a durable and affordable hand is one of the biggest challenges in robotics.
 
-BBC • 14h ago
+BBC • 15h ago
 
 ---
 
@@ -144,7 +144,7 @@ Automotive News • 1d ago
 
 This ChinaPower feature examines China's push to lead the world in robotics and the geopolitical implications.
 
-ChinaPower Project • 18h ago
+ChinaPower Project • 19h ago
 
 ---
 
@@ -160,7 +160,7 @@ The Economist • 1d ago
 
 Robots star in fairs and activities around Beijing.
 
-OregonLive.com • 28m ago
+OregonLive.com • 1h ago
 
 ---
 
@@ -168,13 +168,13 @@ OregonLive.com • 28m ago
 
 Pneumatics are a common way to add some motion to soft robotic actuators, but adding it to a robot can be somewhat of a chore. A method demonstrated by [Jackson K. Wilt] et al. (press release, prep…
 
-Hackaday • 2h ago
+Hackaday • 3h ago
 
 ---
 
 **[How A Chinese Engineer Became A Billionaire Making Robotic ‘Eyes’](https://www.forbes.com/sites/zinnialee/2026/02/12/how-a-chinese-engineer-became-a-billionaire-making-robotic-eyes/)**
 
-Forbes • 12h ago
+Forbes • 13h ago
 
 ---
 
@@ -182,7 +182,7 @@ Forbes • 12h ago
 
 Elon Musk has repeatedly touted the Optimus humanoid robot as Tesla’s (NYSE:TSLA) most significant long-term value driver, suggesting it could eventually propel the company’s market cap to $25 trillion. Yet, prediction market odds suggest a humanoid robot in 2026 may be a little too optimistic. During Tesla's recent “We, Robot” event, Musk claimed the robots could perform everything from babysitting to mowing lawns, with a price tag between $20,000 and $30,000. But according to Kalshi, the human
 
-Yahoo Finance • 22h ago
+Yahoo Finance • 23h ago
 
 ---
 
@@ -206,13 +206,33 @@ A massive robotics shift is unfolding right in front of us. Boston Dynamics has 
 
 ---
 
-**[Sometimes, War Robots is literally UNPLAYABLE!](https://www.youtube.com/watch?v=O3_t2JHbuo0)**
+**[A Pi-powered robot to replace my parent-child interaction](https://www.youtube.com/watch?v=yvBbcLCZIhg)**
 
-War Robots Gameplay, trying the UE VORTEX NUO but realizing that the robot is unplayable now with so much Bash, Boom and ...
+Can a robot take care of teaching my kids everything they need to know? The Reachy Mini Wireless I used was provided by ...
 
-📺 Manni-Gaming
+📺 Jeff Geerling
 
-👁️ 21K • 👍 1K • 💬 374 • ⏱️ 10:29 • 1d ago
+👁️ 249 • 👍 34 • 💬 8 • ⏱️ 12:38 • 7m ago
+
+---
+
+**[Boston Dynamics ATLAS Demos 2026 Humanoid Robot Upgrade (AI NEWS)](https://www.youtube.com/watch?v=uTN75z0ixno)**
+
+Boston Dynamics' latest Atlas humanoid robot attempts dramatic parkour flips, dramatically improving spatial awareness and ...
+
+📺 AI News
+
+👁️ 6K • 👍 103 • 💬 24 • ⏱️ 8:03 • 4d ago
+
+---
+
+**[The real test for humanoid robots isn’t performance.](https://www.youtube.com/watch?v=4iU9kfIZnhs)**
+
+Humanoid robots don't fail at tasks. They fail at presence. The hardest part of building humanoid robots isn't hardware.
+
+📺 Slidebean
+
+👁️ 15K • 👍 527 • 💬 27 • ⏱️ 1:21 • 3d ago
 
 ---
 
@@ -222,27 +242,7 @@ Chinese robotics company AGIBOT redefined the intersection of technology and cul
 
 📺 ABS-CBN News
 
-👁️ 8K • 👍 74 • 💬 52 • ⏱️ 3:09 • 1d ago
-
----
-
-**[Tesla Was Never a Car Company #teslaoptimus  #elonmusk  #teslarobot  #teslabotgen3 #humanoidrobots](https://www.youtube.com/watch?v=slqW7zBA6Oc)**
-
-They laughed when Elon Musk brought a man in a spandex suit on stage. But in 2026, nobody is laughing. Tesla was never a car ...
-
-📺 By 2050
-
-👁️ 1.6M • 👍 25K • 💬 623 • ⏱️ 1:00 • 4d ago
-
----
-
-**[Cardi B falls while dancing on a robot 😭](https://www.youtube.com/watch?v=x4D0Y18vN_8)**
-
-Cardi B falls while dancing on a robot ©️ to tmz #cardib **Fair Use Disclaimer:** This content is for educational, commentary, ...
-
-📺 POPVEIN
-
-👁️ 2.7M • 👍 28K • 💬 491 • ⏱️ 0:08 • 5d ago
+👁️ 8K • 👍 78 • 💬 55 • ⏱️ 3:09 • 1d ago
 
 ---
 
@@ -250,27 +250,7 @@ Cardi B falls while dancing on a robot ©️ to tmz #cardib **Fair Use Disclaime
 
 📺 Zack D. Films
 
-👁️ 3.9M • 👍 156K • 💬 1K • ⏱️ 0:23 • 22h ago
-
----
-
-**[The Humanoid Takeover: $50T Market, Figure&#39;s Full Body Autonomy, and Robots in Dorms #229](https://www.youtube.com/watch?v=S_fXhVT67Uw)**
-
-Peter & Dave sit down with Brett Adcock to discuss the future of Figure and Humanoid Robots. Get access to metatrends 10+ ...
-
-📺 Peter H. Diamandis
-
-👁️ 85K • 👍 2K • 💬 1K • ⏱️ 1:43:48 • 1d ago
-
----
-
-**[Atlas Airborne | Boston Dynamics &amp; @rai-inst](https://www.youtube.com/watch?v=UNorxwlZlFk)**
-
-Now that the Atlas enterprise platform is getting to work, the research version gets one last run in the sun. Our engineers made ...
-
-📺 Boston Dynamics
-
-👁️ 1.5M • 👍 42K • 💬 4K • ⏱️ 1:38 • 6d ago
+👁️ 4.1M • 👍 163K • 💬 2K • ⏱️ 0:23 • 23h ago
 
 ---
 
@@ -284,13 +264,31 @@ The Atlas Airborne Robot takes one final research run as Boston Dynamics pushes 
 
 ---
 
-**[Bully #robot #eiliko](https://www.youtube.com/watch?v=Gy30MdjRKk8)**
+**[Atlas Airborne | Boston Dynamics &amp; @rai-inst](https://www.youtube.com/watch?v=UNorxwlZlFk)**
 
-Bully #toys #eilik #funny.
+Now that the Atlas enterprise platform is getting to work, the research version gets one last run in the sun. Our engineers made ...
 
-📺 Pro Activate Shop
+📺 Boston Dynamics
 
-👁️ 148K • 👍 687 • 💬 2 • ⏱️ 0:17 • 2d ago
+👁️ 1.5M • 👍 42K • 💬 4K • ⏱️ 1:38 • 6d ago
+
+---
+
+**[The world of robotics is advancing](https://www.youtube.com/watch?v=O-IPeboeXGI)**
+
+📺 Fredo on TV
+
+👁️ 225K • 👍 21K • 💬 581 • ⏱️ 0:34 • 5d ago
+
+---
+
+**[Shaolin monks team up with humanoid robots in kung fu class](https://www.youtube.com/watch?v=mt3929HlbIk)**
+
+A new "class" has arrived at the Shaolin Temple in central China's Henan Province, where humanoid robots teamed up with ...
+
+📺 CGTN
+
+👁️ 97K • 👍 655 • 💬 87 • ⏱️ 0:19 • 6d ago
 
 ---
 

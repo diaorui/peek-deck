@@ -3,14 +3,14 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-02-13T14:13:21.118681+00:00'
+updated: '2026-02-13T15:08:57.126196+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- news
-- videos
 - social
+- videos
+- news
 - cryptocurrency
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** February 13, 2026 at 14:13 UTC  
+**Last Updated:** February 13, 2026 at 15:08 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -54,17 +54,17 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1341.96B
+**Market Cap:** $1355.55B
 Rank #1
 
-**Circulating Supply:** 19,988,628 BTC
+**Circulating Supply:** 19,988,671 BTC
 95.2% of max
 
 **All-Time High:** $126,080.00
--46.8%
+-46.2%
 
 **All-Time Low:** $67.81
-+98777.7%
++99873.5%
 
 ---
 
@@ -81,7 +81,7 @@ Rank #1
 
 like we was just vibing near 100k, everybody loud, posting rockets, acting rich in theory then boom 90 80 70 just casually opening doors like “you forgot something down here” bro who asked for this my portfolio looking at me like I did something wrong and there’s always that one guy “it’s a healthy correction” healthy?? I’m stressed eating cereal at 2am watching candles bleed bitcoin don’t even walk downstairs it just throws itself down still not selling tho but damn can we chill for five minutes
 
-4h ago
+5h ago
 
 ---
 
@@ -89,7 +89,7 @@ like we was just vibing near 100k, everybody loud, posting rockets, acting rich 
 
 Like minnows in the ocean, or more like… plankton Motivating seeing everyone’s big buys and sometimes hard to see what everyone else is moving and sticking to putting in what won’t ruin me if I lose! Been DCAing since £57k and have bigger orders set at £45k,50,55 etc. maybe I’ll be a wholecoiner in 500 years! Hah
 
-4h ago
+5h ago
 
 ---
 
@@ -103,7 +103,7 @@ Like minnows in the ocean, or more like… plankton Motivating seeing everyone�
 
 Well…
 
-13h ago
+14h ago
 
 ---
 
@@ -111,13 +111,13 @@ Well…
 
 I’m turning Bitcoin into an anime style story. What would you want it to include?
 
-3h ago
+4h ago
 
 ---
 
 **[VanEck said it knows 13 governments that are actively mining Bitcoin](https://www.reddit.com/r/Bitcoin/comments/1r35qqv/vaneck_said_it_knows_13_governments_that_are/)**
 
-16h ago
+17h ago
 
 ---
 
@@ -125,7 +125,7 @@ I’m turning Bitcoin into an anime style story. What would you want it to inclu
 
 Just want to let you know that bitcoin will reach 38,000 according to my dream. I’m still DCA everyday with full confidence. Your welcome
 
-10h ago
+11h ago
 
 ---
 
@@ -137,7 +137,7 @@ Just want to let you know that bitcoin will reach 38,000 according to my dream. 
 
 **[Just HODL it](https://www.reddit.com/r/Bitcoin/comments/1r3jy6b/just_hodl_it/)**
 
-5h ago
+6h ago
 
 ---
 
@@ -145,7 +145,7 @@ Just want to let you know that bitcoin will reach 38,000 according to my dream. 
 
 Grant Cardone just listed his mansion for sale for 700 BTC. Just got to know there are even more expensive properties already for sale at over 700 BTC.
 
-10h ago
+11h ago
 
 ---
 
@@ -155,7 +155,7 @@ Grant Cardone just listed his mansion for sale for 700 BTC. Just got to know the
 
 **[Bitcoin Steadies in Asia After Standard Chartered Warning](https://www.bloomberg.com/news/articles/2026-02-13/bitcoin-btc-under-pressure-in-asia-after-standard-chartered-warning)**
 
-Bloomberg.com • 9h ago
+Bloomberg.com • 10h ago
 
 ---
 
@@ -163,7 +163,7 @@ Bloomberg.com • 9h ago
 
 The bank cuts its 2026 crypto price targets, warning of further near-term capitulation as ETF outflows and macro headwinds weigh on digital assets.
 
-CoinDesk • 22h ago
+CoinDesk • 23h ago
 
 ---
 
@@ -171,7 +171,7 @@ CoinDesk • 22h ago
 
 Bitcoin (BTC-USD) has pulled back sharply, but exchange-traded fund (ETF) investors are holding firm even as earlier crypto holders sell. Bitwise Asset Management chief investment officer Matt Hougan joins Yahoo Finance host Julie Hyman to break down what's driving the downturn, where institutional flows stand, and why the recovery may depend on multiple catalysts rather than a single turning point. Bitwise operates several of its own bitcoin ETFs (BITB, BITC, BTOP) and crypto ETFs (BITQ, BITW). To watch more expert insights and analysis on the latest market action, check out more&nbsp;Market Catalysts.
 
-Yahoo Finance • 1h ago
+Yahoo Finance • 2h ago
 
 ---
 
@@ -187,7 +187,7 @@ Fortune • 1d ago
 
 U.S. spot Bitcoin ETFs saw $410M in outflows Thursday as institutional profit-taking and macro hedging create a "liquidity mirage."
 
-Yahoo Finance • 38m ago
+Yahoo Finance • 1h ago
 
 ---
 
@@ -195,7 +195,7 @@ Yahoo Finance • 38m ago
 
 Police authorities have launched an internal probe to determine the circumstances of the incident and potential internal involvement.
 
-The Block • 5h ago
+The Block • 6h ago
 
 ---
 
@@ -203,7 +203,7 @@ The Block • 5h ago
 
 Strategy plans to continue refinancing its debt and buying bitcoin, even as the token tumbles, CEO Michael Saylor said Tuesday on CNBC's "Squawk Box."
 
-CNBC • 2d ago
+CNBC • 3d ago
 
 ---
 
@@ -211,7 +211,7 @@ CNBC • 2d ago
 
 The corporate adoption of bitcoin was dominated by a single player last month — Strategy.
 
-Bitcoin Magazine • 19h ago
+Bitcoin Magazine • 20h ago
 
 ---
 
@@ -303,7 +303,7 @@ What do Bitcoin miners actually do? An interactive exploration of hashing, diffi
 
 Explore everything you can do as a lightning app builder using Alby - getAlby/sandbox
 
-⬆️ 2 • 💬 1 • 14m ago • [GitHub](https://github.com/getAlby/sandbox)
+⬆️ 2 • 💬 1 • 1h ago • [GitHub](https://github.com/getAlby/sandbox)
 
 ---
 
@@ -317,7 +317,7 @@ Bitcoin's crash off its all time high and then its sudden crash last week. It le
 
 📺 Mark Moss
 
-👁️ 155K • 👍 6K • 💬 992 • ⏱️ 16:43 • 18h ago
+👁️ 167K • 👍 6K • 💬 1K • ⏱️ 16:43 • 19h ago
 
 ---
 
@@ -327,7 +327,7 @@ Strategy executive chairman and founder Michael Saylor gives his take on Bitcoin
 
 📺 Fox Business
 
-👁️ 12K • 👍 381 • 💬 450 • ⏱️ 8:19 • 7h ago
+👁️ 20K • 👍 513 • 💬 555 • ⏱️ 8:19 • 8h ago
 
 ---
 
@@ -337,27 +337,7 @@ Predict Crypto, Sports, Politics & More on *ClashPicks* ▻ https://www.clashpic
 
 📺 CryptosRUs
 
-👁️ 26K • 👍 1K • 💬 568 • ⏱️ 8:08 • 12h ago
-
----
-
-**[Is the Bitcoin Collapse About to Get WORSE?](https://www.youtube.com/watch?v=s3vLS0fWMZ0)**
-
-Bitcoin #Crypto #Finance Stay ahead of the market — FREE Join the DataDash Pro newsletter ...
-
-📺 DataDash
-
-👁️ 7K • 👍 346 • 💬 26 • ⏱️ 15:09 • 22h ago
-
----
-
-**[🚨Crypto Bottom Confirmed?](https://www.youtube.com/watch?v=Uyj68uKO5Sw)**
-
-The crypto market is at a massive crossroads. After the "Crypto Winter" correction that saw Bitcoin drop from its $126000 all-time ...
-
-📺 Discover Crypto
-
-👁️ 5K • 👍 268 • 💬 47 • ⏱️ 9:41 • 14h ago
+👁️ 28K • 👍 1K • 💬 578 • ⏱️ 8:08 • 13h ago
 
 ---
 
@@ -367,7 +347,27 @@ Fred Thiel is the CEO of Marathon Digital and a leading voice at the intersectio
 
 📺 Anthony Pompliano
 
-👁️ 34K • 👍 1K • 💬 59 • ⏱️ 18:55 • 16h ago
+👁️ 36K • 👍 1K • 💬 68 • ⏱️ 18:55 • 17h ago
+
+---
+
+**[WARNING:😲 S&amp;P 500 Crash to 6100 &amp; Bitcoin to $35k? (Master Trader Analysis)](https://www.youtube.com/watch?v=9BC56O2y3nc)**
+
+Is the stock market topping out? Master technical analyst Gareth Soloway breaks down the alarming signals on the S&P 500, ...
+
+📺 Financial Funda
+
+👁️ 697 • 👍 38 • 💬 46 • ⏱️ 2:23 • 2h ago
+
+---
+
+**[Is the Bitcoin Collapse About to Get WORSE?](https://www.youtube.com/watch?v=s3vLS0fWMZ0)**
+
+Bitcoin #Crypto #Finance Stay ahead of the market — FREE Join the DataDash Pro newsletter ...
+
+📺 DataDash
+
+👁️ 7K • 👍 349 • 💬 27 • ⏱️ 15:09 • 23h ago
 
 ---
 
@@ -377,17 +377,7 @@ We're watching the worst crypto crash since the FTX scandal. Ben McKenzie explai
 
 📺 More Perfect Union
 
-👁️ 1.3M • 👍 77K • 💬 7K • ⏱️ 2:50 • 1d ago
-
----
-
-**[How low will Bitcoin go?](https://www.youtube.com/watch?v=WUJwW3mf6to)**
-
-Let's talk about a few indicators that give some suggestions on how low the price of Bitcoin could eventually go. Into The ...
-
-📺 Benjamin Cowen
-
-👁️ 146K • 👍 9K • 💬 652 • ⏱️ 23:30 • 1d ago
+👁️ 1.3M • 👍 79K • 💬 7K • ⏱️ 2:50 • 1d ago
 
 ---
 
@@ -397,17 +387,27 @@ Predict Crypto, Sports, Politics & More on *ClashPicks* ▻ https://www.clashpic
 
 📺 CryptosRUs
 
-👁️ 28K • 👍 1K • 💬 351 • ⏱️ 51:44 • 22h ago
+👁️ 28K • 👍 1K • 💬 352 • ⏱️ 51:44 • 23h ago
 
 ---
 
-**[BITCOIN: DO NOT GET FOOLED!!! #BTC Price Prediction &amp; Crypto Crash News Today](https://www.youtube.com/watch?v=Tescjvwbilw)**
+**[How low will Bitcoin go?](https://www.youtube.com/watch?v=WUJwW3mf6to)**
 
-BloFin: Up to $3000 deposit bonus Sign up: https://partner.blofin.com/d/RT1M (must use this link) My Free Trading Course ...
+Let's talk about a few indicators that give some suggestions on how low the price of Bitcoin could eventually go. Into The ...
 
-📺 Road To $1 Million USD
+📺 Benjamin Cowen
 
-👁️ 4K • 👍 198 • 💬 84 • ⏱️ 6:13 • 15h ago
+👁️ 149K • 👍 9K • 💬 654 • ⏱️ 23:30 • 1d ago
+
+---
+
+**[WARNING: This Catalyst Will Bring A Violent Bitcoin Move TODAY!](https://www.youtube.com/watch?v=Vr9VMt-yLc8)**
+
+Kyledoops gives his downside targets for what is getting setup to be a violent move. Today the market will receive a single catalyst ...
+
+📺 Crypto Banter
+
+👁️ 16K • 👍 2K • 💬 19 • ⏱️ 39:02 • 7h ago
 
 ---
 

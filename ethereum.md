@@ -3,14 +3,14 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-02-13T14:13:21.124680+00:00'
+updated: '2026-02-13T15:08:57.132207+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- news
-- videos
 - social
+- videos
+- news
 - cryptocurrency
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** February 13, 2026 at 14:13 UTC  
+**Last Updated:** February 13, 2026 at 15:08 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -52,17 +52,17 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Market Stats
 
-**Market Cap:** $236.83B
+**Market Cap:** $240.29B
 Rank #2
 
 **Circulating Supply:** 120,692,487 ETH
 No max supply
 
 **All-Time High:** $4,946.05
--60.4%
+-59.7%
 
 **All-Time Low:** $0.43
-+452594.0%
++459876.1%
 
 ---
 
@@ -72,7 +72,7 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-8h ago
+9h ago
 
 ---
 
@@ -80,7 +80,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 This is the second article in a series about deterministic deployments, where we explore the question: how can we deploy a contract at the same address in multiple chains? In the first part we discussed three possible answers: deploying with the same private key and nonce, using Nick’s method, and pre-signing transactions. In this entry we’ll discuss two other approaches: CREATE2 factories and CREATE3.
 
-🔗 [Cethology](https://paragraph.com/@cethology/deterministic-deployments-part-2-create2-based-approaches) • 5h ago
+🔗 [Cethology](https://paragraph.com/@cethology/deterministic-deployments-part-2-create2-based-approaches) • 6h ago
 
 ---
 
@@ -88,7 +88,7 @@ This is the second article in a series about deterministic deployments, where we
 
 BlackRock BUIDL tradeable via UniswapX, ENS staying on mainnet, Solidity developer survey
 
-🔗 [Ethereal news](https://ethereal.news/ethereal-news-weekly-11/) • 1h ago
+🔗 [Ethereal news](https://ethereal.news/ethereal-news-weekly-11/) • 2h ago
 
 ---
 
@@ -96,13 +96,13 @@ BlackRock BUIDL tradeable via UniswapX, ENS staying on mainnet, Solidity develop
 
 ACDE #230 saw Ethereum core developers focus on Glamsterdam Devnet performance, eth/70 networking safeguards, and a narrowing Hegotá headliner race led by encrypted mempool proposals.
 
-🔗 [EtherWorld.co](https://etherworld.co/highlights-from-the-all-core-developers-execution-acde-call-230/) • 10h ago
+🔗 [EtherWorld.co](https://etherworld.co/highlights-from-the-all-core-developers-execution-acde-call-230/) • 11h ago
 
 ---
 
 **[I got HTTP 402 working as an actual payment protocol for AI agents, here's what I learned](https://www.reddit.com/r/ethereum/comments/1r3bm1g/i_got_http_402_working_as_an_actual_payment/)**
 
-12h ago
+13h ago
 
 ---
 
@@ -154,7 +154,7 @@ Ethereum's L2 ecosystem has succeeded beyond expectations. Our Gen1 L2s—Arbitr
 
 The Hyperlane Nexus Bridge will enable holders to transfer wBTC tokens between Ethereum and Solana, the team wrote in a press release.
 
-The Block • 23h ago
+The Block • 1d ago
 
 ---
 
@@ -162,7 +162,7 @@ The Block • 23h ago
 
 Standard Chartered predicts Bitcoin will hit $100K and Ethereum will rise to $4,000 by the end of 2026, but expects further drops first.
 
-Decrypt • 22h ago
+Decrypt • 23h ago
 
 ---
 
@@ -170,7 +170,7 @@ Decrypt • 22h ago
 
 Blackrock’s Bitmine share holdings jumped 166% in the fourth-quarter of 2025.  CEO Larry Fink is bullish on tokenisation with the company citing Ethereum as the big winner.
 
-dlnews.com • 4h ago
+dlnews.com • 5h ago
 
 ---
 
@@ -178,7 +178,7 @@ dlnews.com • 4h ago
 
 BlackRock, the world’s largest asset manager, looks set to offload more Bitcoin and Ethereum, following the outflows from its crypto ETFs yesterday. This move comes ahead of another potential partial U.S. government shutdown that could begin tomorrow as today’s deadline looms. BlackRock Moves $257M In BTC And ETH To Coinbase Arkham data shows that the
 
-Yahoo Finance • 1h ago
+Yahoo Finance • 2h ago
 
 ---
 
@@ -186,7 +186,7 @@ Yahoo Finance • 1h ago
 
 At a panel discussion at Consensus Hong Kong 2026 featuring Consensys CEO and Ethereum co-founder Joe Lubin and SharpLink (SBET) CEO Joseph Chalom, the two executives outlined how digital asset treasuries (DATs) are evolving into a distinct institutional strategy.
 
-CoinDesk • 18h ago
+CoinDesk • 19h ago
 
 ---
 
@@ -202,7 +202,7 @@ Sherwood News • 1d ago
 
 Ethereum is attempting to stabilize after its recent pullback, but the recovery so far lacks convincing strength. With price rejecting key levels and higher-timeframe risks still looming, ETH finds itself at a critical decision point where the next structural move could define the short-term trend…
 
-TradingView • 12h ago
+TradingView • 13h ago
 
 ---
 
@@ -210,7 +210,7 @@ TradingView • 12h ago
 
 DUBAI, United Arab Emirates, Feb.  13, 2026  (GLOBE NEWSWIRE) -- Pepeto (PEPETO), an Ethereum-based meme-utility project, has officially crossed $...
 
-markets.businessinsider.com • 2h ago
+markets.businessinsider.com • 3h ago
 
 ---
 
@@ -224,7 +224,7 @@ Binance • 1d ago
 
 Bitcoin (BTC), Ethereum (ETH) and Ripple (XRP) remain under pressure, extending losses of over 5%, 6% and 4%, respectively, so far this week. BTC trades below $67,000 while ETH and XRP correct after facing rejection around key levels.
 
-FXStreet • 10h ago
+FXStreet • 11h ago
 
 ---
 
@@ -232,23 +232,23 @@ FXStreet • 10h ago
 
 ## YouTube Videos: "ethereum"
 
-**[Ethereum Elliott Wave Update – Key Resistance Levels Ahead](https://www.youtube.com/watch?v=NNPE3_yn58k)**
-
-This video provides a professional Elliott Wave and technical analysis of Ethereum (ETH), focusing on market structure, major ...
-
-📺 More Crypto Online
-
-👁️ 2K • 👍 111 • 💬 4 • ⏱️ 4:01 • 10h ago
-
----
-
 **[ETH BREAKOUT SOON?🚨 (Ethereum Price Prediction 2026)](https://www.youtube.com/watch?v=ShnvHm2YSAw)**
 
 ETHEREUM ETH PRICE PREDICTION 2026 Join the Premium Signal Group for trade setups, mentorship & a community ...
 
 📺 Cilinix Crypto
 
-👁️ 102 • 👍 7 • 💬 1 • ⏱️ 5:18 • 4h ago
+👁️ 177 • 👍 10 • 💬 66 • ⏱️ 5:18 • 4h ago
+
+---
+
+**[Ethereum Elliott Wave Update – Key Resistance Levels Ahead](https://www.youtube.com/watch?v=NNPE3_yn58k)**
+
+This video provides a professional Elliott Wave and technical analysis of Ethereum (ETH), focusing on market structure, major ...
+
+📺 More Crypto Online
+
+👁️ 2K • 👍 123 • 💬 5 • ⏱️ 4:01 • 11h ago
 
 ---
 
@@ -262,23 +262,13 @@ BlackRock + Joe Rogan + Ethereum.. Biggest Crypto News Happening Now!! Become a 
 
 ---
 
-**[Crypto To Explode! - Don&#39;t Miss THIS!](https://www.youtube.com/watch?v=dtSyFiN4ctc)**
-
-This is all about why Bitcoin and crypto is set to explode! Do not miss the big picture. Big news for all Bitcoin, Ethereum, Solana ...
-
-📺 Investing Made Simple
-
-👁️ 19K • 👍 984 • ⏱️ 8:58 • 1d ago
-
----
-
 **[Tom Lee at Consensus Hong Kong 2026 | Ethereum to $22,000? Bitcoin vs Gold &amp; Bitmine Outlook](https://www.youtube.com/watch?v=B9d4S0PnoJk)**
 
 Tom Lee, Co-Founder of Fundstrat and Chairman of Bitmine Immersion (NYSE: BMNR), shares his bold outlook on Bitcoin, ...
 
 📺 The Crypto Times
 
-👁️ 18K • 👍 432 • 💬 112 • ⏱️ 15:00 • 1d ago
+👁️ 19K • 👍 446 • 💬 113 • ⏱️ 15:00 • 1d ago
 
 ---
 
@@ -288,7 +278,17 @@ BITCOIN & ALTCOIN WARNING: It's Happening AGAIN!!!! - Bitcoin News Today, Ethere
 
 📺 Crypto World
 
-👁️ 10K • 👍 380 • 💬 202 • ⏱️ 21:40 • 18h ago
+👁️ 10K • 👍 384 • 💬 202 • ⏱️ 21:40 • 19h ago
+
+---
+
+**[Crypto To Explode! - Don&#39;t Miss THIS!](https://www.youtube.com/watch?v=dtSyFiN4ctc)**
+
+This is all about why Bitcoin and crypto is set to explode! Do not miss the big picture. Big news for all Bitcoin, Ethereum, Solana ...
+
+📺 Investing Made Simple
+
+👁️ 20K • 👍 1K • ⏱️ 8:58 • 1d ago
 
 ---
 
@@ -298,37 +298,37 @@ If you own XRP, SOL, ETH or Bitcoin Watch This Immediately! CoinDuel AI - This A
 
 📺 Zach Humphries
 
-👁️ 7K • 👍 639 • 💬 29 • ⏱️ 5:43 • 2d ago
+👁️ 7K • 👍 641 • 💬 29 • ⏱️ 5:43 • 2d ago
 
 ---
 
-**[Ethereum Elliott Wave Update – Key Resistance Levels Ahead](https://www.youtube.com/watch?v=5PqmqRegidY)**
+**[CRYPTO LIVE TRADING || 13  Feb  | ‪@ClockTraderlive‬ #bitcoin #ethereum #crypto #btclivetrading](https://www.youtube.com/watch?v=0f-R3CiBKAE)**
 
-This video provides a professional Elliott Wave and technical analysis of Ethereum (ETH), focusing on market structure, major ...
+join my social platforms for updates and analysis ✓Instagram: ...
 
-📺 More Crypto Online
+📺 Aryan trader Live
 
-👁️ 3K • 👍 181 • 💬 4 • ⏱️ 6:51 • 1d ago
-
----
-
-**[Bitcoin &amp; Ethereum. Wir warten auf die grosse LONG Position! Vorher aber nochmal weiter runter](https://www.youtube.com/watch?v=Gkjf2isjqko)**
-
-Hier Handle ich Kryptowährungen!! Bitunix (Instant VIP LVL 3 und 20% Deposit Zurück bis max 400 USDT) ...
-
-📺 Krypto Trading & Investing
-
-👁️ 5K • 👍 835 • 💬 112 • ⏱️ 17:10 • 9h ago
+👁️ 4K • 👍 2K • 55m ago
 
 ---
 
-**[BTC &amp; ETH Price Prediction Today 🔥 | BTC at $66,000 | BTC &amp; ETH Update | Crypto News Hindi](https://www.youtube.com/watch?v=Ih3L87McDDs)**
+**[Behind the volatility in crypto: Bitcoin hovering around $69,000, ethereum near $2,000](https://www.youtube.com/watch?v=xCK9MHY6Eh8)**
 
-BTC & ETH Price Prediction Today | BTC at $66000 | BTC & ETH Update | Crypto News Hindi Premium on Telegram ...
+CNBC"s MacKenzie Sigalos joins 'Squawk Box' to discuss the recent bitcoin volatility.
 
-📺 Profit First
+📺 CNBC Television
 
-👁️ 2K • 👍 143 • 💬 12 • ⏱️ 8:11 • 10h ago
+👁️ 107K • 👍 935 • 💬 989 • ⏱️ 6:36 • 2d ago
+
+---
+
+**[LIVE: Trump Announces Important News About Crypto! This Speech Will Change the Crypto Industry](https://www.youtube.com/watch?v=XFpwN8y17Eg)**
+
+TrumpCrypto2026 #DigitalAssets #TrumpAnnouncement Welcome to the Trump Crypto Forum 2026 — streaming LIVE from ...
+
+📺 MFMLekkiYC Region 3
+
+👁️ 12K • 👍 4K • 19h ago
 
 ---
 
