@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-02-13T08:03:31.288170+00:00'
+updated: '2026-02-13T09:10:48.560921+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- cryptocurrency
-- social
 - videos
+- social
 - news
+- cryptocurrency
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** February 13, 2026 at 08:03 UTC  
+**Last Updated:** February 13, 2026 at 09:10 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,17 +38,17 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $66,356.76
+### $66,694.90
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** -0.9%  
-**7d:** -4.0%  
-**30d:** -30.4%  
-**90d:** -29.5%  
-**1y:** -31.8%  
+**24h:** -1.9%  
+**7d:** -3.7%  
+**30d:** -30.2%  
+**90d:** -29.2%  
+**1y:** -31.5%  
 
 ---
 
@@ -79,7 +79,7 @@ Rank #1
 
 **[VanEck said it knows 13 governments that are actively mining Bitcoin](https://www.reddit.com/r/Bitcoin/comments/1r35qqv/vaneck_said_it_knows_13_governments_that_are/)**
 
-10h ago
+11h ago
 
 ---
 
@@ -87,19 +87,19 @@ Rank #1
 
 Well…
 
-7h ago
+8h ago
 
 ---
 
 **[Bitcoin, what are you doing](https://www.reddit.com/r/Bitcoin/comments/1r2u1yl/bitcoin_what_are_you_doing/)**
 
-18h ago
+19h ago
 
 ---
 
 **[Which one are you?](https://www.reddit.com/r/Bitcoin/comments/1r32e5a/which_one_are_you/)**
 
-12h ago
+14h ago
 
 ---
 
@@ -107,31 +107,7 @@ Well…
 
 Just want to let you know that bitcoin will reach 38,000 according to my dream. I’m still DCA everyday with full confidence. Your welcome
 
-4h ago
-
----
-
-**[My dip buying strategy. Started from$80K](https://www.reddit.com/r/Bitcoin/comments/1r2pzse/my_dip_buying_strategy_started_from80k/)**
-
-I set alerts for my dip buying strategy. I have been buying since $80K and these are my next targets. Hope it all hit perfectly. I may increase the amounts depending on my savings.
-
-21h ago
-
----
-
-**[Won $4,000 worth of BTC at a bitcoin betting website. Should I hold?](https://www.reddit.com/r/Bitcoin/comments/1r34csh/won_4000_worth_of_btc_at_a_bitcoin_betting/)**
-
-Since bitcoin is dropping, please advise on should I keep this win? I have never invested in crypto and have no idea what to do with this. Yes it was pure dumb luck. Now pleas help!
-
-11h ago
-
----
-
-**[Want to go off exchanges but am scared](https://www.reddit.com/r/Bitcoin/comments/1r35p3n/want_to_go_off_exchanges_but_am_scared/)**
-
-I really want to start self-custody and have my bitcoing actually be my own. But I'm terrified of losing my passkey. I'm notoriously bad at keeping stuff working. I've already lost multiple phones and have lost my 2fa to current exchanges. Only thing that saved me both times was KYC and customer support.
-
-10h ago
+5h ago
 
 ---
 
@@ -139,15 +115,39 @@ I really want to start self-custody and have my bitcoing actually be my own. But
 
 Please utilize this sticky thread for all general Bitcoin discussions! If you see posts on the front page or /r/Bitcoin/new which are better suited for this daily discussion thread, please help out by directing the OP to this thread instead. Thank you! If you don't get an answer to your question, you can try phrasing it differently or commenting again tomorrow. Please check the previous discussion thread for unanswered questions.
 
-2h ago
+3h ago
 
 ---
 
-**[Is it safe to use old version of Green wallet Android app?](https://www.reddit.com/r/Bitcoin/comments/1r3fei4/is_it_safe_to_use_old_version_of_green_wallet/)**
+**[My dip buying strategy. Started from$80K](https://www.reddit.com/r/Bitcoin/comments/1r2pzse/my_dip_buying_strategy_started_from80k/)**
 
-I loved old Green wallet app interface... current Blockstream version looks worse, just feels off comparing to old one, so I stopped using it and switched to Blue wallet last year. Recently I used my old phone, and it reminds me how good was the old Green version... It still works perfectly, but I wonder if you guys know: Is it still safe to use old version of Green app? Is it possible to extract APK file of old version (from my old phone, and install on new phone) If not, then I'll just stick to Blue wallet...
+I set alerts for my dip buying strategy. I have been buying since $80K and these are my next targets. Hope it all hit perfectly. I may increase the amounts depending on my savings.
 
-3h ago
+22h ago
+
+---
+
+**[Won $4,000 worth of BTC at a bitcoin betting website. Should I hold?](https://www.reddit.com/r/Bitcoin/comments/1r34csh/won_4000_worth_of_btc_at_a_bitcoin_betting/)**
+
+Since bitcoin is dropping, please advise on should I keep this win? I have never invested in crypto and have no idea what to do with this. Yes it was pure dumb luck. Now pleas help!
+
+12h ago
+
+---
+
+**[Top Properties Listed In Bitcoin](https://www.reddit.com/r/Bitcoin/comments/1r3f40p/top_properties_listed_in_bitcoin/)**
+
+Grant Cardone just listed his mansion for sale for 700 BTC. Just got to know there are even more expensive properties already for sale at over 700 BTC.
+
+5h ago
+
+---
+
+**[Want to go off exchanges but am scared](https://www.reddit.com/r/Bitcoin/comments/1r35p3n/want_to_go_off_exchanges_but_am_scared/)**
+
+I really want to start self-custody and have my bitcoing actually be my own. But I'm terrified of losing my passkey. I'm notoriously bad at keeping stuff working. I've already lost multiple phones and have lost my 2fa to current exchanges. Only thing that saved me both times was KYC and customer support.
+
+11h ago
 
 ---
 
@@ -155,55 +155,39 @@ I loved old Green wallet app interface... current Blockstream version looks wors
 
 ## Google News: "bitcoin"
 
+**[Bitcoin's drawdown hit 50%. History shows it may have further to go](https://www.cnbc.com/2026/02/12/bitcoins-drawdown-hit-50percent-history-shows-it-may-have-further-to-go.html)**
+
+Bitcoin has a history of falling about 75% during each four-year cycle, suggesting the token is on track to fall even further in the near future.
+
+CNBC • 18h ago
+
+---
+
+**[Bitcoin price news: BTC falls back to $65,000 as software sector slides 3%](https://www.coindesk.com/markets/2026/02/12/bitcoin-tumbles-back-near-last-week-s-lows-as-ai-fears-crush-tech-and-precious-metals-plunge)**
+
+The strong correlation between crypto and the software sector reasserted itself on Wednesday
+
+CoinDesk • 7h ago
+
+---
+
 **[Bitcoin Steadies in Asia After Standard Chartered Warning](https://www.bloomberg.com/news/articles/2026-02-13/bitcoin-btc-under-pressure-in-asia-after-standard-chartered-warning)**
 
-Bloomberg.com • 3h ago
+Bloomberg.com • 4h ago
 
 ---
 
-**[Standard Chartered sees bitcoin sliding to $50,000, ether to $1,400 before recovery](https://www.coindesk.com/markets/2026/02/12/standard-chartered-sees-bitcoin-sliding-to-usd50-000-ether-to-usd1-400-before-recovery)**
+**[HBAR Set for $4 Million Short Squeeze, But Bitcoin May Block It](https://finance.yahoo.com/news/hbar-set-4-million-short-080000807.html)**
 
-The bank cuts its 2026 crypto price targets, warning of further near-term capitulation as ETF outflows and macro headwinds weigh on digital assets.
+HBAR eyes breakout with $4.34 million short squeeze potential, but Bitcoin correlation may limit upside if BTC weakens.
 
-CoinDesk • 16h ago
-
----
-
-**[Bitcoin to $50,000? Standard Chartered predicts ‘more pain’ for price](https://finance.yahoo.com/news/bitcoin-50-000-standard-chartered-161956812.html)**
-
-The crypto selloff is not over, argues a Standard Chartered analyst. Bitcoin and Ethereum will continue dropping until recovery in the second half of 2026. But the asset class has become resilient, the analyst argued, with selloffs “less extreme.”
-
-Yahoo Finance • 15h ago
+Yahoo Finance • 1h ago
 
 ---
 
-**[Bitcoin price steadies but fresh fears suggest slide to $52k](https://uk.finance.yahoo.com/news/bitcoin-price-crypto-us-jobs-101234268.html)**
+**[Crypto wallet in Nancy Guthrie note is traceable: Blockchain analyst](https://www.newsnationnow.com/crime/crypto-wallet-nancy-guthrie/)**
 
-Yahoo Finance UK • 21h ago
-
----
-
-**[$3 Billion Options Expiry Looms Over Bitcoin and Ethereum — Calm Before the Next Shock?](https://finance.yahoo.com/news/3-billion-options-expiry-looms-055314144.html)**
-
-A $3 billion Bitcoin & Ethereum options expiry on Deribit tests market stability as put skew and liquidation fears signal likely volatility.
-
-Yahoo Finance • 2h ago
-
----
-
-**[El Salvador’s Bitcoin Conviction Now Carries a $300 Million Price Tag](https://finance.yahoo.com/news/el-salvador-bitcoin-conviction-now-050247727.html)**
-
-El Salvador’s Bitcoin portfolio has fallen nearly $300 million, as rising CDS spreads and IMF review delays raise debt concerns.
-
-Yahoo Finance • 3h ago
-
----
-
-**[Bitcoin reportedly sent to wallet associated with Nancy Guthrie’s ransom letter providing potential clue in investigation](https://fortune.com/2026/02/11/bitcoin-reportedly-sent-to-wallet-associated-with-nancy-guthries-ransom-letter/)**
-
-Meanwhile, authorities released surveillance video showing the alleged captor who remains at large.
-
-Fortune • 1d ago
+NewsNation • 1d ago
 
 ---
 
@@ -211,7 +195,7 @@ Fortune • 1d ago
 
 Investors are nursing huge losses on 2025 crypto IPOs, but stablecoin companies could be a haven.
 
-Morningstar • 20h ago
+Morningstar • 21h ago
 
 ---
 
@@ -219,7 +203,7 @@ Morningstar • 20h ago
 
 The corporate adoption of bitcoin was dominated by a single player last month — Strategy.
 
-Bitcoin Magazine • 13h ago
+Bitcoin Magazine • 14h ago
 
 ---
 
@@ -228,6 +212,20 @@ Bitcoin Magazine • 13h ago
 Strategy plans to continue refinancing its debt and buying bitcoin, even as the token tumbles, CEO Michael Saylor said Tuesday on CNBC's "Squawk Box."
 
 CNBC • 2d ago
+
+---
+
+**[MSTR's STRC returns to $100 par, poised to unlock more BTC accumulation](https://www.coindesk.com/markets/2026/02/12/strategy-s-strc-returns-to-usd100-poised-to-unlock-more-bitcoin-accumulation)**
+
+The perpetual preferred STRC hits $100 par amid bitcoin downturn, enabling potential further BTC purchases for the company.
+
+CoinDesk • 10h ago
+
+---
+
+**[A Bitcoin Blunder for the Ages: $40 Billion Accidentally Given Away by Bithumb - WSJ](https://www.wsj.com/finance/currencies/a-bitcoin-blunder-for-the-ages-40-billion-accidentally-given-away-3a207eac?gaa_at=eafs&gaa_n=AWEtsqe6MUJcbXrXqFPKCvqIYmX1LwJZtQSqzhttmyz06NZhFTe6hyEDiyn0&gaa_ts=698eedff&gaa_sig=98ZJpM8GMP8gocBYSKAdfnD_RlmKcxIUk6eoAdJev7d1rCrTJpDzqhL1NOazOvTcHk9yrx9lh0OvCykhdyEjBA%3D%3D)**
+
+The Wall Street Journal • 2d ago
 
 ---
 
@@ -319,7 +317,7 @@ Bitcoin's crash off its all time high and then its sudden crash last week. It le
 
 📺 Mark Moss
 
-👁️ 122K • 👍 5K • 💬 738 • ⏱️ 16:43 • 12h ago
+👁️ 122K • 👍 5K • 💬 738 • ⏱️ 16:43 • 13h ago
 
 ---
 
@@ -329,7 +327,7 @@ Fred Thiel is the CEO of Marathon Digital and a leading voice at the intersectio
 
 📺 Anthony Pompliano
 
-👁️ 27K • 👍 962 • 💬 59 • ⏱️ 18:55 • 10h ago
+👁️ 27K • 👍 962 • 💬 59 • ⏱️ 18:55 • 11h ago
 
 ---
 
@@ -339,7 +337,7 @@ Pam Bondi gets slammed on live TV and the cracks in the system are impossible to
 
 📺 Simply Bitcoin
 
-👁️ 16K • 👍 2K • 💬 206 • ⏱️ 21:31 • 8h ago
+👁️ 16K • 👍 2K • 💬 206 • ⏱️ 21:31 • 9h ago
 
 ---
 
@@ -349,7 +347,7 @@ Bitcoin #Crypto #Finance Stay ahead of the market — FREE Join the DataDash Pro
 
 📺 DataDash
 
-👁️ 6K • 👍 331 • 💬 23 • ⏱️ 15:09 • 16h ago
+👁️ 6K • 👍 331 • 💬 23 • ⏱️ 15:09 • 17h ago
 
 ---
 
@@ -359,7 +357,7 @@ LIMITED TIME: ✓ Bitunix (no kyc, $10k bonus): https://www.bitunix.com/register
 
 📺 Altcoin Daily
 
-👁️ 45K • 👍 554 • 💬 109 • ⏱️ 0:34 • 19h ago
+👁️ 45K • 👍 554 • 💬 109 • ⏱️ 0:34 • 20h ago
 
 ---
 
@@ -379,7 +377,7 @@ Predict Crypto, Sports, Politics & More on *ClashPicks* ▻ https://www.clashpic
 
 📺 CryptosRUs
 
-👁️ 27K • 👍 1K • 💬 153 • ⏱️ 51:44 • 16h ago
+👁️ 27K • 👍 1K • 💬 153 • ⏱️ 51:44 • 17h ago
 
 ---
 
@@ -389,7 +387,7 @@ The crypto market is at a massive crossroads. After the "Crypto Winter" correcti
 
 📺 Discover Crypto
 
-👁️ 4K • 👍 224 • 💬 24 • ⏱️ 9:41 • 8h ago
+👁️ 4K • 👍 224 • 💬 24 • ⏱️ 9:41 • 9h ago
 
 ---
 
@@ -409,7 +407,7 @@ TrumpCrypto2026 #DigitalAssets #TrumpAnnouncement Welcome to the Trump Crypto Fo
 
 📺 vid' SIGN
 
-👁️ 6K • 👍 3K • 12h ago
+👁️ 6K • 👍 3K • 14h ago
 
 ---
 
