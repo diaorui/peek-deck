@@ -3,13 +3,13 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-02-13T19:24:11.639255+00:00'
+updated: '2026-02-13T19:59:00.576905+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- social
 - videos
+- social
 - news
 ---
 
@@ -17,7 +17,7 @@ data_types:
 
 Robotics research and industry news
 
-**Last Updated:** February 13, 2026 at 19:24 UTC  
+**Last Updated:** February 13, 2026 at 19:59 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -36,7 +36,7 @@ Robotics research and industry news
 
 I posted a video a couple of days ago on r/esp32 showing my Open-Source robot dance, and some people wanted to see it walk ... here you go ! Got a complete walking gate & added remote control :) Everything runs on the ESP32-S3 ! What do you think ?
 
-5h ago
+6h ago
 
 ---
 
@@ -44,7 +44,7 @@ I posted a video a couple of days ago on r/esp32 showing my Open-Source robot da
 
 From hardware to software, I see every day tons of new startups, mostly around AI. I'm not sure if it's just me that my Twitter algorithm but like every day someone appears with all kinds of products. Lately i see an abundance of data collection, AI schematic or PCB creators, AI ros configurators, etc.... Are the tech bros got tired of AI SaaS saturation and getting into robotics hoping to get an edge?
 
-1h ago
+2h ago
 
 ---
 
@@ -52,7 +52,7 @@ From hardware to software, I see every day tons of new startups, mostly around A
 
 The unitree motor model is go_8010_6. I have been facing this repeated error whenever I try to run the simple example code from the Unitree_actuator_sdk. --------------------------------------------- [WARNING] SerialPort::recv, unblock version, wait time out [WARNING] motor id=1 does not reply port: /dev/ttyUSB0 motor.q: 4.25378e-41 motor.temp: 0 motor.W: 6.91788e-23 motor.merror: 447169392 ----------------------------------------------- I would think this is because of the fact that the computer is not able to detect the motor but I believe thats not the case because when i checked through the motor tools vibhu@vibhu-Legion-Pro-5-16IRX9:~/unitree/unitree_actuator_sdk/motor_tools/Unitree_MotorTools_v1.2.4_x86_64_Linux$ sudo ./swboot /dev/ttyUSB0 [sudo] password for vibhu: 1.Motor ID 1 --------------- Total 1 motors ------------------------------------------------ the bolded part is the output. The motor id and the number of motors connected is being shown. I was wondering if anyone would be able to assist me with this as I have been stuck on it for more than a few days and have already tried it on different systems.
 
-10m ago
+44m ago
 
 ---
 
@@ -60,7 +60,7 @@ The unitree motor model is go_8010_6. I have been facing this repeated error whe
 
 Howdy! I am a robotic engineer who has dived deep into DIY QDD actuators, creating custom servos, and making humanoids/quadriped robots. I wanted to know if anyone has done broad market research in the best actuators or servos on the market? As of now, I see two options Smaller form factor: Servos that can do 35kg of torque, STS3215 are in this category larger form factor: integrated QDD actuators or DIY drone motors such as eagle power 90kv + 9:1 gearbox, or the GIM6010/8108 motors that get about 5-15 nM of torque. Im thinking that there must be a good middle ground option for control and robotic arms/manipulators/linkages between a small 6010 GIM bldc setup and a STS3215, but i dont see many.
 
-56m ago
+1h ago
 
 ---
 
@@ -68,7 +68,7 @@ Howdy! I am a robotic engineer who has dived deep into DIY QDD actuators, creati
 
 Hi I have an FPV drone that i want to control using a Raspberry Pi. For this i want to connect the RPi to the Flight controller and use it as a companion computer. I am using a GEPRC TAKER F745 currently on a BetaFlight firmware. Any suggestions on how i can connect them or what firmware (Ardupilot/PX4) i can use with ROS2 on the RPi.
 
-2h ago
+3h ago
 
 ---
 
@@ -108,7 +108,7 @@ We're sharing how we bridged the Sim-to-Real gap by simulating the embedded syst
 
 Hi! I’ve been using TurtleBot with Gazebo Classic for a simulation project and recently migrated my model to Gazebo Ignition. Since the migration I’ve run into a few issues, especially with wall and floor textures (which I understand is expected due to conversion), but the main problem is visible gaps between walls. I attached screenshots showing how a section of the map is supposed to look vs how it currently looks in Ignition. I tried slightly increasing the wall lengths, but it didn’t noticeably improve the gaps. Does anyone know what typically causes this after Classic to Ignition conversion or how to properly fix it? I’m not sure if this is a common issue, but I wasn’t able to find much information about it online, so apologies if this is something obvious. This is a bit time-sensitive, so I’d really appreciate any guidance!
 
-20h ago
+21h ago
 
 ---
 
@@ -206,7 +206,25 @@ A massive robotics shift is unfolding right in front of us. Boston Dynamics has 
 
 📺 AI Revolution
 
-👁️ 82K • 👍 2K • 💬 154 • ⏱️ 11:59 • 2d ago
+👁️ 84K • 👍 2K • 💬 157 • ⏱️ 11:59 • 2d ago
+
+---
+
+**[Ai Speaking Robotics Language 😱 #jumpersjump #podcast #viral](https://www.youtube.com/watch?v=yX_Zijd2GpA)**
+
+📺 Harmoniax Health Seniors
+
+👁️ 28K • 👍 2K • 💬 40 • ⏱️ 1:22 • 4d ago
+
+---
+
+**[The “Order 66” Robot Theory with Telsa Optimus and starlink #elonmusk #grok  #humanoidrobots](https://www.youtube.com/watch?v=Y0a1sisNdv0)**
+
+The biggest fear about humanoid robots isn't strength. It's control. Future robots like Optimus are designed to stay connected ...
+
+📺 By 2050
+
+👁️ 27K • 👍 842 • 💬 21 • ⏱️ 0:57 • 16h ago
 
 ---
 
@@ -226,7 +244,17 @@ Can a little Pi-powered bot teach my kids? The Reachy Mini Wireless I used was p
 
 📺 Jeff Geerling
 
-👁️ 6K • 👍 844 • 💬 85 • ⏱️ 12:38 • 4h ago
+👁️ 19K • 👍 2K • 💬 120 • ⏱️ 12:38 • 4h ago
+
+---
+
+**[The real test for humanoid robots isn’t performance.](https://www.youtube.com/watch?v=4iU9kfIZnhs)**
+
+Humanoid robots don't fail at tasks. They fail at presence. The hardest part of building humanoid robots isn't hardware.
+
+📺 Slidebean
+
+👁️ 15K • 👍 531 • 💬 27 • ⏱️ 1:21 • 3d ago
 
 ---
 
@@ -236,17 +264,7 @@ Chinese robotics company AGIBOT redefined the intersection of technology and cul
 
 📺 ABS-CBN News
 
-👁️ 9K • 👍 86 • 💬 57 • ⏱️ 3:09 • 1d ago
-
----
-
-**[Sometimes, War Robots is literally UNPLAYABLE!](https://www.youtube.com/watch?v=O3_t2JHbuo0)**
-
-War Robots Gameplay, trying the UE VORTEX NUO but realizing that the robot is unplayable now with so much Bash, Boom and ...
-
-📺 Manni-Gaming
-
-👁️ 22K • 👍 1K • 💬 388 • ⏱️ 10:29 • 1d ago
+👁️ 10K • 👍 93 • 💬 59 • ⏱️ 3:09 • 1d ago
 
 ---
 
@@ -256,7 +274,17 @@ They laughed when Elon Musk brought a man in a spandex suit on stage. But in 202
 
 📺 By 2050
 
-👁️ 1.6M • 👍 25K • 💬 643 • ⏱️ 1:00 • 5d ago
+👁️ 1.6M • 👍 26K • 💬 641 • ⏱️ 1:00 • 5d ago
+
+---
+
+**[Sometimes, War Robots is literally UNPLAYABLE!](https://www.youtube.com/watch?v=O3_t2JHbuo0)**
+
+War Robots Gameplay, trying the UE VORTEX NUO but realizing that the robot is unplayable now with so much Bash, Boom and ...
+
+📺 Manni-Gaming
+
+👁️ 23K • 👍 1K • 💬 397 • ⏱️ 10:29 • 1d ago
 
 ---
 
@@ -266,37 +294,7 @@ Cardi B falls while dancing on a robot ©️ to tmz #cardib **Fair Use Disclaime
 
 📺 POPVEIN
 
-👁️ 2.7M • 👍 29K • 💬 495 • ⏱️ 0:08 • 5d ago
-
----
-
-**[Atlas Airborne | Boston Dynamics &amp; @rai-inst](https://www.youtube.com/watch?v=UNorxwlZlFk)**
-
-Now that the Atlas enterprise platform is getting to work, the research version gets one last run in the sun. Our engineers made ...
-
-📺 Boston Dynamics
-
-👁️ 1.5M • 👍 42K • 💬 4K • ⏱️ 1:38 • 6d ago
-
----
-
-**[The Humanoid Takeover: $50T Market, Figure&#39;s Full Body Autonomy, and Robots in Dorms #229](https://www.youtube.com/watch?v=S_fXhVT67Uw)**
-
-Peter & Dave sit down with Brett Adcock to discuss the future of Figure and Humanoid Robots. Get access to metatrends 10+ ...
-
-📺 Peter H. Diamandis
-
-👁️ 88K • 👍 2K • 💬 1K • ⏱️ 1:43:48 • 1d ago
-
----
-
-**[Atlas Airborne Robot Shows the Final Evolution of Boston Dynamics](https://www.youtube.com/watch?v=IjRjKwZhYCQ)**
-
-The Atlas Airborne Robot takes one final research run as Boston Dynamics pushes humanoid robot control to its absolute limit.
-
-📺 DPCcars
-
-👁️ 76K • 👍 547 • 💬 92 • ⏱️ 2:45 • 6d ago
+👁️ 2.8M • 👍 30K • 💬 494 • ⏱️ 0:08 • 5d ago
 
 ---
 

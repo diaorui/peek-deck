@@ -3,14 +3,14 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-02-13T19:24:11.636083+00:00'
+updated: '2026-02-13T19:59:00.573755+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
+- videos
 - social
 - cryptocurrency
-- videos
 - news
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** February 13, 2026 at 19:24 UTC  
+**Last Updated:** February 13, 2026 at 19:59 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -80,7 +80,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 BlackRock BUIDL tradeable via UniswapX, ENS staying on mainnet, Solidity developer survey
 
-🔗 [Ethereal news](https://ethereal.news/ethereal-news-weekly-11/) • 6h ago
+🔗 [Ethereal news](https://ethereal.news/ethereal-news-weekly-11/) • 7h ago
 
 ---
 
@@ -88,7 +88,7 @@ BlackRock BUIDL tradeable via UniswapX, ENS staying on mainnet, Solidity develop
 
 This is the second article in a series about deterministic deployments, where we explore the question: how can we deploy a contract at the same address in multiple chains? In the first part we discussed three possible answers: deploying with the same private key and nonce, using Nick’s method, and pre-signing transactions. In this entry we’ll discuss two other approaches: CREATE2 factories and CREATE3.
 
-🔗 [Cethology](https://paragraph.com/@cethology/deterministic-deployments-part-2-create2-based-approaches) • 10h ago
+🔗 [Cethology](https://paragraph.com/@cethology/deterministic-deployments-part-2-create2-based-approaches) • 11h ago
 
 ---
 
@@ -170,7 +170,7 @@ The Block • 1d ago
 
 Wallets linked to the $200 million exploit of Mixin in 2023 woke after nearly two years and moved funds to coin mixer Tornado Cash.
 
-Yahoo Finance • 1h ago
+Yahoo Finance • 2h ago
 
 ---
 
@@ -178,7 +178,7 @@ Yahoo Finance • 1h ago
 
 One of the Ethereum Foundation's co-directors said he would step down at the end of the month.  His replacement has already been chosen.
 
-dlnews.com • 27m ago
+dlnews.com • 1h ago
 
 ---
 
@@ -186,7 +186,7 @@ dlnews.com • 27m ago
 
 At a panel discussion at Consensus Hong Kong 2026 featuring Consensys CEO and Ethereum co-founder Joe Lubin and SharpLink (SBET) CEO Joseph Chalom, the two executives outlined how digital asset treasuries (DATs) are evolving into a distinct institutional strategy.
 
-CoinDesk • 23h ago
+CoinDesk • 1d ago
 
 ---
 
@@ -208,7 +208,7 @@ Sherwood News • 2d ago
 
 **[Ethereum Price Braces for Impact as Standard Chartered Predicts a $1,400 Bottom](https://www.tipranks.com/news/ethereum-price-braces-for-impact-as-standard-chartered-predicts-a-1400-bottom)**
 
-TipRanks • 4h ago
+TipRanks • 5h ago
 
 ---
 
@@ -222,7 +222,7 @@ Binance • 1d ago
 
 Blackrock’s Bitmine share holdings jumped 166% in the fourth-quarter of 2025. CEO Larry Fink is bullish on tokenisation with the company citing Ethereum as the big winner.
 
-Yahoo Finance • 9h ago
+Yahoo Finance • 10h ago
 
 ---
 
@@ -236,7 +236,27 @@ This video provides a professional Elliott Wave and technical analysis of Ethere
 
 📺 More Crypto Online
 
-👁️ 617 • 👍 87 • 💬 17 • ⏱️ 3:30 • 3h ago
+👁️ 1K • 👍 141 • 💬 17 • ⏱️ 3:30 • 4h ago
+
+---
+
+**[BITCOIN &amp; CRYPTO MARKET JUST FLIPPED (for now)!!! - Bitcoin News Today, Ethereum &amp; Altcoins](https://www.youtube.com/watch?v=l0DmCVuPA0E)**
+
+BITCOIN & CRYPTO MARKET JUST FLIPPED (for now)!!! - Bitcoin News Today, Ethereum & Altcoins *Bitunix* ...
+
+📺 Crypto World
+
+👁️ 825 • 👍 73 • 💬 40 • ⏱️ 17:20 • 45m ago
+
+---
+
+**[🚨 BTC &amp; ETH: WARNING!!! IT JUST GOT WORSE!!!!!](https://www.youtube.com/watch?v=p69c-zjC09g)**
+
+Crypto and bitcoin crash is forcing liquidations. This just got worse and we are seeing bear market cascading effect just like the ...
+
+📺 Thomas Kralow
+
+👁️ 20K • 👍 3K • 💬 39 • ⏱️ 10:34 • 8h ago
 
 ---
 
@@ -246,17 +266,7 @@ ETHEREUM ETH PRICE PREDICTION 2026 Join the Premium Signal Group for trade setup
 
 📺 Cilinix Crypto
 
-👁️ 249 • 👍 12 • 💬 66 • ⏱️ 5:18 • 9h ago
-
----
-
-**[Ethereum Elliott Wave Update – Key Resistance Levels Ahead](https://www.youtube.com/watch?v=NNPE3_yn58k)**
-
-This video provides a professional Elliott Wave and technical analysis of Ethereum (ETH), focusing on market structure, major ...
-
-📺 More Crypto Online
-
-👁️ 2K • 👍 124 • 💬 5 • ⏱️ 4:01 • 15h ago
+👁️ 363 • 👍 13 • 💬 67 • ⏱️ 5:18 • 9h ago
 
 ---
 
@@ -266,7 +276,7 @@ BlackRock + Joe Rogan + Ethereum.. Biggest Crypto News Happening Now!! Become a 
 
 📺 Altcoin Daily
 
-👁️ 57K • 👍 3K • 💬 428 • ⏱️ 9:41 • 1d ago
+👁️ 58K • 👍 3K • 💬 427 • ⏱️ 9:41 • 1d ago
 
 ---
 
@@ -276,37 +286,37 @@ Tom Lee, Co-Founder of Fundstrat and Chairman of Bitmine Immersion (NYSE: BMNR),
 
 📺 The Crypto Times
 
-👁️ 19K • 👍 455 • 💬 99 • ⏱️ 15:00 • 2d ago
+👁️ 20K • 👍 458 • 💬 101 • ⏱️ 15:00 • 2d ago
 
 ---
 
-**[BITCOIN &amp; ALTCOIN WARNING: It&#39;s Happening AGAIN!!!! - Bitcoin News Today, Ethereum &amp; Altcoins](https://www.youtube.com/watch?v=Rt6-k5GEhsM)**
+**[Mathematician Fred Krueger: Crypto Price Predictions Are About To Go INSANE!](https://www.youtube.com/watch?v=uL0mEsAXcSY)**
 
-BITCOIN & ALTCOIN WARNING: It's Happening AGAIN!!!! - Bitcoin News Today, Ethereum & Altcoins *Bitunix* ...
+Watch The FULL Interview: "Explosive Crypto Price Prediction for 2026..." FREE Daily On-Chain Analysis & Crypto News In ...
 
-📺 Crypto World
+📺 Library Of Wealth
 
-👁️ 10K • 👍 392 • 💬 203 • ⏱️ 21:40 • 23h ago
-
----
-
-**[Crypto To Explode! - Don&#39;t Miss THIS!](https://www.youtube.com/watch?v=dtSyFiN4ctc)**
-
-This is all about why Bitcoin and crypto is set to explode! Do not miss the big picture. Big news for all Bitcoin, Ethereum, Solana ...
-
-📺 Investing Made Simple
-
-👁️ 20K • 👍 1K • ⏱️ 8:58 • 1d ago
+👁️ 5K • 👍 233 • 💬 280 • ⏱️ 14:31 • 14h ago
 
 ---
 
-**[If you own XRP, SOL, ETH or Bitcoin Watch This Immediately! ](https://www.youtube.com/watch?v=W_bB1pzjoNs)**
+**[Ethereum Elliott Wave Update – Key Resistance Levels Ahead](https://www.youtube.com/watch?v=NNPE3_yn58k)**
 
-If you own XRP, SOL, ETH or Bitcoin Watch This Immediately! CoinDuel AI - This AI-powered tool instantly compares tokens ...
+This video provides a professional Elliott Wave and technical analysis of Ethereum (ETH), focusing on market structure, major ...
 
-📺 Zach Humphries
+📺 More Crypto Online
 
-👁️ 7K • 👍 641 • 💬 29 • ⏱️ 5:43 • 2d ago
+👁️ 2K • 👍 126 • 💬 5 • ⏱️ 4:01 • 15h ago
+
+---
+
+**[Ethereum Crash Continues – Prepare for the Ultimate Buying Chance  TradeConfident.io](https://www.youtube.com/watch?v=N7nrsMUtTks)**
+
+Get $450 Off Our New AI Indicators: https://tradeconfidentportal.io/indicators/... Join Trade Confident: Get 25% Off Your 1st ...
+
+📺 Trade Confident
+
+👁️ 28 • 👍 2 • 💬 1 • ⏱️ 6:02 • 25m ago
 
 ---
 
@@ -316,17 +326,7 @@ This video provides a professional Elliott Wave and technical analysis of Ethere
 
 📺 More Crypto Online
 
-👁️ 3K • 👍 182 • 💬 4 • ⏱️ 6:51 • 1d ago
-
----
-
-**[7PM US Inflation - LIVE  | Crypto Trading | Stock Market | Bitcoin | Ethereum | Nifty | WiseTrader |](https://www.youtube.com/watch?v=XaOaWj4cxV0)**
-
-FREE Membership Trial offer on 1.5 Lac Subscribers completion - https://www.patreon.com/c/u90224583/membership. Trade the ...
-
-📺 Wise - Trader
-
-👁️ 2K • 👍 80 • 6h ago
+👁️ 3K • 👍 184 • 💬 4 • ⏱️ 6:51 • 1d ago
 
 ---
 

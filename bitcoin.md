@@ -3,14 +3,14 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-02-13T19:24:11.630188+00:00'
+updated: '2026-02-13T19:59:00.567862+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
+- videos
 - social
 - cryptocurrency
-- videos
 - news
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** February 13, 2026 at 19:24 UTC  
+**Last Updated:** February 13, 2026 at 19:59 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -81,7 +81,7 @@ Rank #1
 
 Like minnows in the ocean, or more like… plankton Motivating seeing everyone’s big buys and sometimes hard to see what everyone else is moving and sticking to putting in what won’t ruin me if I lose! Been DCAing since £57k and have bigger orders set at £45k,50,55 etc. maybe I’ll be a wholecoiner in 500 years! Hah
 
-9h ago
+10h ago
 
 ---
 
@@ -89,7 +89,7 @@ Like minnows in the ocean, or more like… plankton Motivating seeing everyone�
 
 like we was just vibing near 100k, everybody loud, posting rockets, acting rich in theory then boom 90 80 70 just casually opening doors like “you forgot something down here” bro who asked for this my portfolio looking at me like I did something wrong and there’s always that one guy “it’s a healthy correction” healthy?? I’m stressed eating cereal at 2am watching candles bleed bitcoin don’t even walk downstairs it just throws itself down still not selling tho but damn can we chill for five minutes
 
-9h ago
+10h ago
 
 ---
 
@@ -129,7 +129,7 @@ Well…
 
 **[Just HODL it](https://www.reddit.com/r/Bitcoin/comments/1r3jy6b/just_hodl_it/)**
 
-10h ago
+11h ago
 
 ---
 
@@ -195,7 +195,7 @@ Yahoo Finance • 22h ago
 
 Bitcoin's rebound from $60K lows may be a dead cat bounce, as the daily charts scream caution and prediction markets price in more pain.
 
-Yahoo Finance • 23m ago
+Yahoo Finance • 58m ago
 
 ---
 
@@ -203,7 +203,7 @@ Yahoo Finance • 23m ago
 
 Cryptocurrency exchange Coinbase Global (COIN) is out with its fourth quarter earnings, missing both Wall Street's expectations on adjusted earnings ($0.66 per share vs. estimates of $0.86) and total revenue ($1.8 billion vs. estimates of $1.83 billion). Market Domination Overtime Host Josh Lipton dives into Coinbase's earnings release. To watch more expert insights and analysis on the latest market action, check out more&nbsp;Market Domination Overtime.
 
-Yahoo Finance • 21h ago
+Yahoo Finance • 22h ago
 
 ---
 
@@ -219,7 +219,7 @@ Investopedia • 2h ago
 
 Coinbase reported a down quarter for the end of 2025, with its investment portfolio plunging alongside Bitcoin and other crypto assets.
 
-Decrypt • 21h ago
+Decrypt • 22h ago
 
 ---
 
@@ -227,7 +227,7 @@ Decrypt • 21h ago
 
 Brazilian lawmakers have reintroduced a bill proposing the creation of a Strategic Sovereign Bitcoin Reserve (RESBit) to acquire one million Bitcoin over five years.
 
-Bitcoin Magazine • 2h ago
+Bitcoin Magazine • 3h ago
 
 ---
 
@@ -243,7 +243,7 @@ Bitcoin Magazine • 2h ago
 
 **[$40B in Bitcoin Accidentally Given Away](https://news.ycombinator.com/item?id=46965768)**
 
-⬆️ 10 • 💬 0 • 2d ago • [wsj.com](https://www.wsj.com/finance/currencies/a-bitcoin-blunder-for-the-ages-40-billion-accidentally-given-away-3a207eac)
+⬆️ 10 • 💬 0 • 3d ago • [wsj.com](https://www.wsj.com/finance/currencies/a-bitcoin-blunder-for-the-ages-40-billion-accidentally-given-away-3a207eac)
 
 ---
 
@@ -305,7 +305,7 @@ What do Bitcoin miners actually do? An interactive exploration of hashing, diffi
 
 Explore everything you can do as a lightning app builder using Alby - getAlby/sandbox
 
-⬆️ 2 • 💬 1 • 5h ago • [GitHub](https://github.com/getAlby/sandbox)
+⬆️ 2 • 💬 1 • 6h ago • [GitHub](https://github.com/getAlby/sandbox)
 
 ---
 
@@ -399,7 +399,7 @@ The crypto market is on a knife-edge. This Friday, February 13, 2026, we just wi
 
 📺 Discover Crypto
 
-👁️ 5K • 👍 366 • 💬 23 • ⏱️ 1:13:51 • 2h ago
+👁️ 5K • 👍 366 • 💬 23 • ⏱️ 1:13:51 • 3h ago
 
 ---
 
