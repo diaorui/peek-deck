@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-02-13T20:51:50.900483+00:00'
+updated: '2026-02-13T21:37:19.477068+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
 - social
-- news
-- repositories
 - videos
+- repositories
+- news
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** February 13, 2026 at 20:51 UTC  
+**Last Updated:** February 13, 2026 at 21:37 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -41,7 +41,7 @@ AI news, discussions, and developments
 
 Spotify credits Claude Code and its internal AI system Honk with speeding up development.
 
-🔗 [TechCrunch](https://techcrunch.com/2026/02/12/spotify-says-its-best-developers-havent-written-a-line-of-code-since-december-thanks-to-ai/) • 23h ago
+🔗 [TechCrunch](https://techcrunch.com/2026/02/12/spotify-says-its-best-developers-havent-written-a-line-of-code-since-december-thanks-to-ai/) • 1d ago
 
 ---
 
@@ -49,7 +49,7 @@ Spotify credits Claude Code and its internal AI system Honk with speeding up dev
 
 Running a one-person operation, I rely on AI for marketing, strategy, and content. I've tested ChatGPT Plus, Claude Pro, and Perplexity Pro, and was ready to commit to Gemini Pro, until I understood the privacy implications. The Gemini problem: To prevent Google from training on your data (and human reviewers from reading it), you must turn off activity tracking. You can still use Gems, but they reset every session. This means no memory continuity, which defeats the entire purpose of having a personalized assistant. You also lose native Google Drive connectivity. As a writer and content creator, this isn't just about privacy preferences, it's about protecting my future work. I can't feed my creative process into a system that might be training tomorrow's competition or having humans review my drafts and ideas. My experience so far: ChatGPT Plus: Reliable and easy, but the writing often feels generic and cliché-heavy Claude Pro: Best writer, wonderfully concise, but burns through tokens fast, in less than a day Perplexity Pro: Same token limitations (want Claude Sonnet? Better hope you haven't hit your quota) Gemini Pro: The combination of Gems + NotebookLM looked perfect, until the privacy policy became a dealbreaker The frustrating part is the lack of regulation forcing companies to offer real privacy without crippling core features or having to pay more. For solo creators building a body of work, this matters. How are others balancing privacy, features, and token economics? Has anyone found a setup that actually works without compromise?
 
-6h ago
+7h ago
 
 ---
 
@@ -57,7 +57,7 @@ Running a one-person operation, I rely on AI for marketing, strategy, and conten
 
 The benchmark tests whether AI agents behave safely during real workflows, including opening emails, clicking links, retrieving stored credentials, and filling out login forms.
 
-🔗 [Help Net Security](https://www.helpnetsecurity.com/2026/02/12/1password-security-comprehension-awareness-measure-scam-ai-benchmark/) • 15h ago
+🔗 [Help Net Security](https://www.helpnetsecurity.com/2026/02/12/1password-security-comprehension-awareness-measure-scam-ai-benchmark/) • 16h ago
 
 ---
 
@@ -73,7 +73,7 @@ Introducing Open Book Medical AI: Deterministic Knowledge Graph + Compact LLM Mo
 
 The viral article by Matt Shumer sounds like hype disguised as advice. Do you agree?
 
-🔗 [forbes.com](https://www.forbes.com/sites/paulocarvao/2026/02/13/the-problem-with-techs-latest-something-big-is-happening-manifesto/) • 1h ago
+🔗 [forbes.com](https://www.forbes.com/sites/paulocarvao/2026/02/13/the-problem-with-techs-latest-something-big-is-happening-manifesto/) • 2h ago
 
 ---
 
@@ -89,7 +89,7 @@ AI is not the threat. Humanity repeating the same tragic pattern, provable with 
 
 Everyone talks about AI for chatbots and image generation. But I've been finding the most value in boring practical stuff. Writing landing page copy, structuring email sequences, generating SEO content briefs, building out template collections. Not flashy, but it saves hours every single day. What's the most underrated or overlooked business use case you've found for AI tools?
 
-21h ago
+22h ago
 
 ---
 
@@ -97,7 +97,7 @@ Everyone talks about AI for chatbots and image generation. But I've been finding
 
 if you go to AI for how to spell a word, and you spell it wrong. but use the a letter that sounds the same (syllables) AI wont correct the word. it doesn't know "I and E" for example can make the same sound. example rediculas. you can sound it out, and figure out what word I'm trying to spell, you could probably tell me how to spell the word, we learned that in kindergarten. this blew my mind I've always been bad at spelling and relied on spell check, but I have to adapt. its probably going to become a lost technology. when you think about it sounds obvious, why are humans using ai to spell check? its so much worse...
 
-1h ago
+2h ago
 
 ---
 
@@ -125,7 +125,7 @@ Perplexity just signed a $750M deal with Microsoft Azure. The confusing bit is t
 
 A stunning viral video of Cruise vs. Pitt has 'Deadpool & Wolverine' screenwriter warning: "Hollywood is about to be revolutionized/decimated."
 
-The Hollywood Reporter • 14h ago
+The Hollywood Reporter • 15h ago
 
 ---
 
@@ -133,7 +133,7 @@ The Hollywood Reporter • 14h ago
 
 Clips including Brad Pitt and Tom Cruise fighting, made by new AI video tool Seedance, have gone viral.
 
-BBC • 8h ago
+BBC • 9h ago
 
 ---
 
@@ -141,13 +141,13 @@ BBC • 8h ago
 
 An AI clip featuring Tom Cruise and Brad Pitt fighting has caused concern among industry figures
 
-The Guardian • 7h ago
+The Guardian • 8h ago
 
 ---
 
 **[‘We’re All Polyamorous Now. It’s You, Me and the A.I.’](https://www.nytimes.com/2026/02/13/opinion/ai-relationships.html)**
 
-The New York Times • 10h ago
+The New York Times • 11h ago
 
 ---
 
@@ -155,7 +155,7 @@ The New York Times • 10h ago
 
 Also in this issue: Hollywood's newest VIPs? Romance authors.
 
-NBC News • 4m ago
+NBC News • 50m ago
 
 ---
 
@@ -163,7 +163,7 @@ NBC News • 4m ago
 
 Tech titans pour $50 million into super PAC to elect AI-friendly candidates to Congress
 
-Los Angeles Times • 48m ago
+Los Angeles Times • 1h ago
 
 ---
 
@@ -179,13 +179,13 @@ CNBC • 1d ago
 
 The MSCI Asia Pacific Index has risen more than 12% in 2026, in contrast to losses in US benchmarks as shares were sold off on fears that AI models may threaten the business of software, legal and real estate service providers.  The divergence underscores global funds’ shift of preference from AI pioneers burdened by massive spending toward hardware producers with strong pricing power, many of whom are in Asia.  Surging memory chip prices have been a boon for the region’s heavyweights such as Samsung Electronics Co., while Taiwan Semiconductor Manufacturing Co.’s irreplaceable role as the world’s leading contract chipmaker has provided support for Taiwanese stocks.
 
-Yahoo Finance • 18h ago
+Yahoo Finance • 19h ago
 
 ---
 
 **[How AI Is Undermining American Exceptionalism in U.S. Markets](https://www.barrons.com/articles/ai-american-exceptionalism-stock-market-303f8db6?gaa_at=eafs&gaa_n=AWEtsqe0ux7B_Z4yObdTbm8uh4HjRD3ZimHCkd2XWsBfC9EBC5I3F4X_hUJp&gaa_ts=698f924f&gaa_sig=Y3skRFub4GUDu08XE8H49Qf7RDoJfWar-Yb8vCt82caOxf9K-0-qtE8SxvNR5l1NFSb7SibkExT0ElfzaR3YLQ%3D%3D)**
 
-Barron's • 58m ago
+Barron's • 1h ago
 
 ---
 
@@ -193,7 +193,7 @@ Barron's • 58m ago
 
 Cohere's competitors OpenAI and Anthropic are also weighing potential IPOs and competition for enterprise customers is heating up.
 
-CNBC • 6h ago
+CNBC • 7h ago
 
 ---
 
@@ -242,7 +242,7 @@ The Federal Aviation Administration is closing the airspace around El Paso Inter
 
 US Border Patrol intelligence units will gain access to a face recognition tool built on billions of images scraped from the internet.
 
-⬆️ 196 • 💬 110 • 3h ago • [WIRED](https://www.wired.com/story/cbp-signs-clearview-ai-deal-to-use-face-recognition-for-tactical-targeting/)
+⬆️ 196 • 💬 110 • 4h ago • [WIRED](https://www.wired.com/story/cbp-signs-clearview-ai-deal-to-use-face-recognition-for-tactical-targeting/)
 
 ---
 
@@ -288,17 +288,7 @@ New concerns over the safety of artificial intelligence are growing after the le
 
 📺 ABC News
 
-👁️ 38K • 👍 547 • 💬 279 • ⏱️ 3:58 • 18h ago
-
----
-
-**[Claude Opus 4.6: The Biggest AI Jump I&#39;ve Covered--It&#39;s Not Close. (Here&#39;s What You Need to Know)](https://www.youtube.com/watch?v=JKk77rzOL34)**
-
-My site: https://natebjones.com Full Story w/ Prompts: ...
-
-📺 AI News & Strategy Daily | Nate B Jones
-
-👁️ 220K • 👍 8K • 💬 1K • ⏱️ 30:39 • 2d ago
+👁️ 41K • 👍 585 • 💬 296 • ⏱️ 3:58 • 18h ago
 
 ---
 
@@ -308,7 +298,7 @@ Breakdown and commentary on the latest viral commentary from: https://x.com/matt
 
 📺 Matt Wolfe
 
-👁️ 128K • 👍 7K • 💬 1K • ⏱️ 28:06 • 1d ago
+👁️ 131K • 👍 7K • 💬 1K • ⏱️ 28:06 • 1d ago
 
 ---
 
@@ -318,17 +308,17 @@ Krystal and Saagar discuss AI ready to kill humans. Sign up for a PREMIUM Breaki
 
 📺 Breaking Points
 
-👁️ 154K • 👍 5K • 💬 1K • ⏱️ 15:39 • 1d ago
+👁️ 160K • 👍 5K • 💬 1K • ⏱️ 15:39 • 1d ago
 
 ---
 
-**[Google&#39;s Quantum AI Just Solved the Fermi Paradox — The Answer Is Terrifying](https://www.youtube.com/watch?v=5PedGbAs0ig)**
+**[Claude Opus 4.6: The Biggest AI Jump I&#39;ve Covered--It&#39;s Not Close. (Here&#39;s What You Need to Know)](https://www.youtube.com/watch?v=JKk77rzOL34)**
 
-Google's Quantum AI Just Solved the Fermi Paradox — The Answer Is Terrifying Google's Willow quantum chip completed a ...
+My site: https://natebjones.com Full Story w/ Prompts: ...
 
-📺 Spacialize
+📺 AI News & Strategy Daily | Nate B Jones
 
-👁️ 55K • 👍 2K • 💬 258 • ⏱️ 17:28 • 22h ago
+👁️ 223K • 👍 8K • 💬 1K • ⏱️ 30:39 • 2d ago
 
 ---
 
@@ -338,47 +328,55 @@ Follow me here: Instagram ▻ https://www.instagram.com/sambucha X ▻ https://w
 
 📺 Sambucha
 
-👁️ 293K • 👍 15K • 💬 420 • ⏱️ 0:47 • 2d ago
+👁️ 296K • 👍 15K • 💬 425 • ⏱️ 0:47 • 2d ago
 
 ---
 
-**[Can Google’s New AI Solve Everything?  | Titans and Disruptors](https://www.youtube.com/watch?v=BhfTQXMtoZw)**
+**[Open Source AI Fundamentals In 17 Minutes](https://www.youtube.com/watch?v=1uCE0uoKXL8)**
 
-Google DeepMind founder and CEO Sir Demis Hassabis is a master chess player, a recipient of the Nobel Prize in Chemistry, and ...
+Free resource to unlock the Claude Cowork Stack and replace a week of work https://clickhubspot.com/129e64 In this video I ...
 
-📺 Fortune Magazine
+📺 Tina Huang
 
-👁️ 53K • 👍 1K • 💬 104 • ⏱️ 29:19 • 2d ago
-
----
-
-**[AI Fails at 96% of Jobs (New Study)](https://www.youtube.com/watch?v=z3kaLM8Oj4o)**
-
-Artificial intelligence has been hailed as one of the most transformative technologies of the century. That may be so, but just not ...
-
-📺 ColdFusion
-
-👁️ 103K • 👍 10K • 💬 2K • ⏱️ 12:49 • 5h ago
+👁️ 15K • 👍 1K • 💬 53 • ⏱️ 17:38 • 1d ago
 
 ---
 
-**[&#39;If You Work On Computer, Your Job Is In Danger&#39;; Microsoft AI CEO Warns Of Overhaul Of The Job Mkt](https://www.youtube.com/watch?v=9dws4ZyQ4bI)**
+**[How To Avoid OpenClaw’s Massive Security Hole #openclaw #cybersecurity #ai](https://www.youtube.com/watch?v=-WVpD_g65Mg)**
 
-The Microsoft AI CEO highlighted that this rapid pace of technological advancement will not just impact coders and software ...
+📺 Better Stack
 
-📺 Mint
-
-👁️ 11K • 👍 170 • 💬 99 • ⏱️ 3:03 • 9h ago
+👁️ 9K • 👍 331 • 💬 6 • ⏱️ 1:05 • 23h ago
 
 ---
 
-**[AI Music Video - House Of The Bizarre  - 4K](https://www.youtube.com/watch?v=Ab5Xqk2hyYw)**
+**[AI insiders raise alarms, call for tighter regulation as Elon Musk warns of danger](https://www.youtube.com/watch?v=tWeM7LzbRXQ)**
 
-"House of the Bizarre." I was going for this gritty, old-school surreal oil painting look mixed with some weird industrial/steampunk ...
+Fox News contributor Joe Concha discusses alarming reports from AI insiders about the technology's potential for blackmail and ...
 
-📺 Kelly Boesch AI Art
+📺 Fox Business
 
-👁️ 3K • 👍 301 • 💬 29 • ⏱️ 3:13 • 6h ago
+👁️ 20K • 👍 447 • 💬 200 • ⏱️ 4:57 • 16h ago
+
+---
+
+**[Markiplier Warning Us About ai but it’s a song (made by humans) - They All Laughed At Mé](https://www.youtube.com/watch?v=GLDN6AhtoY4)**
+
+Markiplier's accidental singing voice once again takes wings to bemoan our ai-slop-filled landscape.
+
+📺 schmoyoho
+
+👁️ 187K • 👍 12K • 💬 257 • ⏱️ 0:32 • 1d ago
+
+---
+
+**[How OpenClaw, an AI agent, takes over your computer](https://www.youtube.com/watch?v=9DxXDLhXnwU)**
+
+Through several name changes, adoption across Silicon Valley to Beijing, and mounting controversy, the open-source AI agent ...
+
+📺 Dave Jorgenson
+
+👁️ 554K • 👍 34K • 💬 458 • ⏱️ 1:36 • 21h ago
 
 ---
 
@@ -454,7 +452,7 @@ MiniCPM-o 4.5 is a 9B parameter multimodal LLM excelling in vision, speech, and 
 
 `any-to-any` `9.4B`
 
-⬇️ 43,481 • ❤️ 833 • 4h ago
+⬇️ 43,481 • ❤️ 833 • 5h ago
 
 ---
 
@@ -478,7 +476,7 @@ MiniMax-M2.5 is a text-generation model designed for generating human-like text.
 
 `text-generation` `228.7B`
 
-⬇️ 75 • ❤️ 241 • 6h ago
+⬇️ 75 • ❤️ 241 • 7h ago
 
 ---
 
@@ -502,7 +500,7 @@ Voxtral-Mini-4B-Realtime-2602 is a multilingual, real-time speech-to-text model 
 
 `automatic-speech-recognition`
 
-⬇️ 5,209 • ❤️ 508 • 5h ago
+⬇️ 5,209 • ❤️ 508 • 6h ago
 
 ---
 
@@ -654,7 +652,7 @@ Marketing skills for Claude Code and AI agents. CRO, copywriting, SEO, analytics
 
 `claude` `codex` `marketing`
 
-⭐ 7.5k • 🔱 890 • 9d ago
+⭐ 7.6k • 🔱 897 • 9d ago
 
 ---
 
@@ -698,7 +696,7 @@ Smart LLM router — save 78% on inference costs. 30+ models, one wallet, x402 m
 
 `TypeScript` `ai` `ai-agents` `anthropic` `cost-optimization` `crypto`
 
-⭐ 2.4k • 🔱 239 • 2h ago
+⭐ 2.4k • 🔱 241 • 48m ago
 
 ---
 
@@ -722,23 +720,23 @@ The visual feedback tool for agents.
 
 ---
 
-**[op7418/CodePilot](https://github.com/op7418/CodePilot)**
-
-A native desktop GUI for Claude Code — chat, code, and manage projects visually. Built with Electron + Next.js.
-
-`TypeScript` `ai` `anthropic` `claude` `claude-code` `desktop-app`
-
-⭐ 1.8k • 🔱 194 • 10h ago
-
----
-
 **[PeonPing/peon-ping](https://github.com/PeonPing/peon-ping)**
 
 Warcraft III Peon voice notifications (+ more!) for Claude Code, Codex, and other IDEs. Stop babysitting your terminal.
 
 `Shell` `ai` `ai-engineering` `antigravity` `claude-code` `codex`
 
-⭐ 1.8k • 🔱 122 • 2h ago
+⭐ 1.8k • 🔱 125 • 5m ago
+
+---
+
+**[op7418/CodePilot](https://github.com/op7418/CodePilot)**
+
+A native desktop GUI for Claude Code — chat, code, and manage projects visually. Built with Electron + Next.js.
+
+`TypeScript` `ai` `anthropic` `claude` `claude-code` `desktop-app`
+
+⭐ 1.8k • 🔱 194 • 11h ago
 
 ---
 

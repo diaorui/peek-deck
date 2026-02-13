@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-02-13T20:51:50.918868+00:00'
+updated: '2026-02-13T21:37:19.494974+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
 - social
-- news
 - videos
+- news
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** February 13, 2026 at 20:51 UTC  
+**Last Updated:** February 13, 2026 at 21:37 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -44,7 +44,7 @@ I posted a video a couple of days ago on r/esp32 showing my Open-Source robot da
 
 From hardware to software, I see every day tons of new startups, mostly around AI. I'm not sure if it's just me that my Twitter algorithm but like every day someone appears with all kinds of products. Lately i see an abundance of data collection, AI schematic or PCB creators, AI ros configurators, etc.... Are the tech bros got tired of AI SaaS saturation and getting into robotics hoping to get an edge?
 
-2h ago
+3h ago
 
 ---
 
@@ -60,7 +60,7 @@ ROS News for the Week of February 9th, 2026                This week we got up a
 
 The unitree motor model is go_8010_6. I have been facing this repeated error whenever I try to run the simple example code from the Unitree_actuator_sdk. --------------------------------------------- [WARNING] SerialPort::recv, unblock version, wait time out [WARNING] motor id=1 does not reply port: /dev/ttyUSB0 motor.q: 4.25378e-41 motor.temp: 0 motor.W: 6.91788e-23 motor.merror: 447169392 ----------------------------------------------- I would think this is because of the fact that the computer is not able to detect the motor but I believe thats not the case because when i checked through the motor tools vibhu@vibhu-Legion-Pro-5-16IRX9:~/unitree/unitree_actuator_sdk/motor_tools/Unitree_MotorTools_v1.2.4_x86_64_Linux$ sudo ./swboot /dev/ttyUSB0 [sudo] password for vibhu: 1.Motor ID 1 --------------- Total 1 motors ------------------------------------------------ the bolded part is the output. The motor id and the number of motors connected is being shown. I was wondering if anyone would be able to assist me with this as I have been stuck on it for more than a few days and have already tried it on different systems.
 
-1h ago
+2h ago
 
 ---
 
@@ -68,7 +68,7 @@ The unitree motor model is go_8010_6. I have been facing this repeated error whe
 
 Howdy! I am a robotic engineer who has dived deep into DIY QDD actuators, creating custom servos, and making humanoids/quadriped robots. I wanted to know if anyone has done broad market research in the best actuators or servos on the market? As of now, I see two options Smaller form factor: Servos that can do 35kg of torque, STS3215 are in this category larger form factor: integrated QDD actuators or DIY drone motors such as eagle power 90kv + 9:1 gearbox, or the GIM6010/8108 motors that get about 5-15 nM of torque. Im thinking that there must be a good middle ground option for control and robotic arms/manipulators/linkages between a small 6010 GIM bldc setup and a STS3215, but i dont see many.
 
-2h ago
+3h ago
 
 ---
 
@@ -76,7 +76,7 @@ Howdy! I am a robotic engineer who has dived deep into DIY QDD actuators, creati
 
 Hi I have an FPV drone that i want to control using a Raspberry Pi. For this i want to connect the RPi to the Flight controller and use it as a companion computer. I am using a GEPRC TAKER F745 currently on a BetaFlight firmware. Any suggestions on how i can connect them or what firmware (Ardupilot/PX4) i can use with ROS2 on the RPi.
 
-4h ago
+5h ago
 
 ---
 
@@ -84,7 +84,7 @@ Hi I have an FPV drone that i want to control using a Raspberry Pi. For this i w
 
 part 2 is coming soon, I will be adding propellers and a wind vane so it can move even if the wind is coming from behind! also I may add motors someday:)
 
-21h ago
+22h ago
 
 ---
 
@@ -120,7 +120,7 @@ We're sharing how we bridged the Sim-to-Real gap by simulating the embedded syst
 
 Developing a durable and affordable hand is one of the biggest challenges in robotics.
 
-BBC • 20h ago
+BBC • 21h ago
 
 ---
 
@@ -134,7 +134,7 @@ Nature • 1d ago
 
 **[What happens in Vegas: Three days at Manifest 2026](https://www.axios.com/pro/supply-chain-deals/2026/02/13/manifest-2026-supply-chain-expo-events-receptions)**
 
-Axios • 22m ago
+Axios • 1h ago
 
 ---
 
@@ -164,7 +164,7 @@ The Economist • 2d ago
 
 **[How A Chinese Engineer Became A Billionaire Making Robotic ‘Eyes’](https://www.forbes.com/sites/zinnialee/2026/02/12/how-a-chinese-engineer-became-a-billionaire-making-robotic-eyes/)**
 
-Forbes • 19h ago
+Forbes • 20h ago
 
 ---
 
@@ -218,7 +218,7 @@ The biggest fear about humanoid robots isn't strength. It's control. Future robo
 
 📺 By 2050
 
-👁️ 27K • 👍 842 • 💬 21 • ⏱️ 0:57 • 17h ago
+👁️ 27K • 👍 842 • 💬 21 • ⏱️ 0:57 • 18h ago
 
 ---
 
@@ -238,7 +238,7 @@ Can a little Pi-powered bot teach my kids? The Reachy Mini Wireless I used was p
 
 📺 Jeff Geerling
 
-👁️ 19K • 👍 2K • 💬 120 • ⏱️ 12:38 • 5h ago
+👁️ 19K • 👍 2K • 💬 120 • ⏱️ 12:38 • 6h ago
 
 ---
 

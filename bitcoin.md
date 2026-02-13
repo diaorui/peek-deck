@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-02-13T20:51:50.909479+00:00'
+updated: '2026-02-13T21:37:19.485720+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- social
-- news
 - cryptocurrency
+- social
 - videos
+- news
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** February 13, 2026 at 20:51 UTC  
+**Last Updated:** February 13, 2026 at 21:37 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -54,17 +54,17 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1381.02B
+**Market Cap:** $1376.01B
 Rank #1
 
-**Circulating Supply:** 19,988,771 BTC
+**Circulating Supply:** 19,988,812 BTC
 95.2% of max
 
 **All-Time High:** $126,080.00
--45.1%
+-45.4%
 
 **All-Time Low:** $67.81
-+101907.1%
++101380.6%
 
 ---
 
@@ -89,19 +89,19 @@ Like minnows in the ocean, or more like… plankton Motivating seeing everyone�
 
 like we was just vibing near 100k, everybody loud, posting rockets, acting rich in theory then boom 90 80 70 just casually opening doors like “you forgot something down here” bro who asked for this my portfolio looking at me like I did something wrong and there’s always that one guy “it’s a healthy correction” healthy?? I’m stressed eating cereal at 2am watching candles bleed bitcoin don’t even walk downstairs it just throws itself down still not selling tho but damn can we chill for five minutes
 
-11h ago
+12h ago
 
 ---
 
 **[“Clarity on the Clarity Bill would give great comfort to the market” Bessent is working to pump our bags](https://www.reddit.com/r/Bitcoin/comments/1r3tjwq/clarity_on_the_clarity_bill_would_give_great/)**
 
-4h ago
+5h ago
 
 ---
 
 **[Using AI to Print with Polymarket’s new 5 min BTC markets](https://www.reddit.com/r/Bitcoin/comments/1r40dk9/using_ai_to_print_with_polymarkets_new_5_min_btc/)**
 
-16m ago
+1h ago
 
 ---
 
@@ -109,13 +109,13 @@ like we was just vibing near 100k, everybody loud, posting rockets, acting rich 
 
 Had to drop nearly 10k in medical bills... sure enough BTC tanks and as soon as I think im fine to buy a couple hundred... BOOM it either sky rockets or another random medical bill pops up worth a couple hundred and then BTC tanks... So I guess your welcome? And I'm sorry.
 
-1h ago
+2h ago
 
 ---
 
 **[2025 vs 2026](https://www.reddit.com/r/Bitcoin/comments/1r40elq/2025_vs_2026/)**
 
-15m ago
+1h ago
 
 ---
 
@@ -123,7 +123,7 @@ Had to drop nearly 10k in medical bills... sure enough BTC tanks and as soon as 
 
 I’m turning Bitcoin into an anime style story. What would you want it to include?
 
-9h ago
+10h ago
 
 ---
 
@@ -131,7 +131,7 @@ I’m turning Bitcoin into an anime style story. What would you want it to inclu
 
 Well…
 
-20h ago
+21h ago
 
 ---
 
@@ -143,7 +143,7 @@ Well…
 
 **[VanEck said it knows 13 governments that are actively mining Bitcoin](https://www.reddit.com/r/Bitcoin/comments/1r35qqv/vaneck_said_it_knows_13_governments_that_are/)**
 
-23h ago
+1d ago
 
 ---
 
@@ -153,7 +153,7 @@ Well…
 
 **[Bitcoin Steadies in Asia After Standard Chartered Warning](https://www.bloomberg.com/news/articles/2026-02-13/bitcoin-btc-under-pressure-in-asia-after-standard-chartered-warning)**
 
-Bloomberg.com • 16h ago
+Bloomberg.com • 17h ago
 
 ---
 
@@ -177,13 +177,13 @@ The Motley Fool • 1d ago
 
 Bitcoin price did not just dip. It reacted to something way bigger.The U.S. government revised last year’s job numbers down by nearly 900,000 positions.Markets hate one thing more than bad news. They hate unreliable data and uncertainty. This update from the Bureau of Labor Statistics just shook confidence hard. January ...
 
-Yahoo Finance • 7h ago
+Yahoo Finance • 8h ago
 
 ---
 
 **[Bitcoin Price Crash Rattles Trump's Crypto Progress. Here's The Upshot For Investors.](https://www.investors.com/news/bitcoin-price-crash-trump-cryptocurrency-progress/)**
 
-Investor's Business Daily • 4h ago
+Investor's Business Daily • 5h ago
 
 ---
 
@@ -191,7 +191,7 @@ Investor's Business Daily • 4h ago
 
 In past bitcoin winters, the crypto has dropped an average 84%, according to an analysis from Ned Davis Research.
 
-Business Insider • 1h ago
+Business Insider • 2h ago
 
 ---
 
@@ -199,7 +199,7 @@ Business Insider • 1h ago
 
 Bitcoin's recent tumble wasn't linked to its fundamentals.
 
-Yahoo Finance • 1h ago
+Yahoo Finance • 2h ago
 
 ---
 
@@ -207,7 +207,7 @@ Yahoo Finance • 1h ago
 
 The White House executive director said trillions are poised to enter Bitcoin and crypto, emphasizing ongoing work on a market structure bill.
 
-Bitcoin Magazine • 2h ago
+Bitcoin Magazine • 3h ago
 
 ---
 
@@ -301,7 +301,7 @@ What do Bitcoin miners actually do? An interactive exploration of hashing, diffi
 
 Explore everything you can do as a lightning app builder using Alby - getAlby/sandbox
 
-⬆️ 2 • 💬 1 • 6h ago • [GitHub](https://github.com/getAlby/sandbox)
+⬆️ 2 • 💬 1 • 7h ago • [GitHub](https://github.com/getAlby/sandbox)
 
 ---
 
@@ -315,7 +315,7 @@ Bitcoin's crash off its all time high and then its sudden crash last week. It le
 
 📺 Mark Moss
 
-👁️ 191K • 👍 7K • 💬 1K • ⏱️ 16:43 • 1d ago
+👁️ 199K • 👍 7K • 💬 1K • ⏱️ 16:43 • 1d ago
 
 ---
 
@@ -325,7 +325,17 @@ Strategy executive chairman and founder Michael Saylor gives his take on Bitcoin
 
 📺 Fox Business
 
-👁️ 31K • 👍 645 • 💬 678 • ⏱️ 8:19 • 14h ago
+👁️ 34K • 👍 682 • 💬 1K • ⏱️ 8:19 • 15h ago
+
+---
+
+**[Bitcoin Is Being MISPRICED And the Data is INSANE!](https://www.youtube.com/watch?v=DpvDFcy670s)**
+
+Bitcoin is trading at extreme correlation levels with software stocks, pushing its 90-day correlation into the 96th percentile and ...
+
+📺 Swan Bitcoin
+
+👁️ 3K • 👍 287 • 💬 43 • ⏱️ 11:53 • 4h ago
 
 ---
 
@@ -335,57 +345,17 @@ Predict Crypto, Sports, Politics & More on *ClashPicks* ▻ https://www.clashpic
 
 📺 CryptosRUs
 
-👁️ 30K • 👍 1K • 💬 585 • ⏱️ 8:08 • 19h ago
+👁️ 30K • 👍 1K • 💬 614 • ⏱️ 8:08 • 20h ago
 
 ---
 
-**[🚨 BTC &amp; ETH: WARNING!!! IT JUST GOT WORSE!!!!!](https://www.youtube.com/watch?v=p69c-zjC09g)**
+**[What BlackRock said about Bitcoin Can&#39;t Be Real](https://www.youtube.com/watch?v=YSG-CH_uLNA)**
 
-Crypto and bitcoin crash is forcing liquidations. This just got worse and we are seeing bear market cascading effect just like the ...
-
-📺 Thomas Kralow
-
-👁️ 19K • 👍 3K • 💬 38 • ⏱️ 10:34 • 9h ago
-
----
-
-**[Michael Saylor really looks scared 😱](https://www.youtube.com/watch?v=57mjeAjkPNQ)**
-
-LIMITED TIME: ✓ Bitunix (no kyc, $10k bonus): https://www.bitunix.com/register?vipCode=AltcoinDaily 50% deposit bonus on ...
-
-📺 Altcoin Daily
-
-👁️ 74K • 👍 768 • 💬 227 • ⏱️ 0:34 • 1d ago
-
----
-
-**[Did Pam Bondi’s CRASH OUT Signal a Bitcoin BREAKOUT?](https://www.youtube.com/watch?v=aDL3QVutH8Q)**
-
-Pam Bondi gets slammed on live TV and the cracks in the system are impossible to ignore. As global uncertainty explodes and the ...
-
-📺 Simply Bitcoin
-
-👁️ 24K • 👍 2K • 💬 339 • ⏱️ 21:31 • 21h ago
-
----
-
-**[Bitcoin and Crypto At EXTREME Fear Levels Never Seen Before](https://www.youtube.com/watch?v=D31PIso6rsA)**
-
-Predict Crypto, Sports, Politics & More on *ClashPicks* ▻ https://www.clashpicks.com/ Follow ClashPicks' X ...
+Make Free Bitcoin & Crypto Predictions on *ClashPicks* ▻ https://www.clashpicks.com/ Connect your wallet and claim free ...
 
 📺 CryptosRUs
 
-👁️ 28K • 👍 1K • 💬 352 • ⏱️ 51:44 • 1d ago
-
----
-
-**[CPI is OUT! The Market Reaction Explained [Bitcoin &amp; Stocks]](https://www.youtube.com/watch?v=Vr9VMt-yLc8)**
-
-Kyledoops gives his downside targets for what is getting setup to be a violent move. Today the market will receive a single catalyst ...
-
-📺 Crypto Banter
-
-👁️ 20K • 👍 2K • 💬 21 • ⏱️ 39:02 • 12h ago
+👁️ 48K • 👍 2K • 💬 412 • ⏱️ 10:01 • 1d ago
 
 ---
 
@@ -395,7 +365,17 @@ The crypto market is on a knife-edge. This Friday, February 13, 2026, we just wi
 
 📺 Discover Crypto
 
-👁️ 5K • 👍 366 • 💬 23 • ⏱️ 1:13:51 • 3h ago
+👁️ 6K • 👍 401 • 💬 40 • ⏱️ 1:13:51 • 4h ago
+
+---
+
+**[Michael Saylor really looks scared 😱](https://www.youtube.com/watch?v=57mjeAjkPNQ)**
+
+LIMITED TIME: ✓ Bitunix (no kyc, $10k bonus): https://www.bitunix.com/register?vipCode=AltcoinDaily 50% deposit bonus on ...
+
+📺 Altcoin Daily
+
+👁️ 77K • 👍 787 • 💬 234 • ⏱️ 0:34 • 1d ago
 
 ---
 
@@ -405,7 +385,27 @@ Let's talk about a few indicators that give some suggestions on how low the pric
 
 📺 Benjamin Cowen
 
-👁️ 154K • 👍 9K • 💬 662 • ⏱️ 23:30 • 1d ago
+👁️ 156K • 👍 9K • 💬 665 • ⏱️ 23:30 • 1d ago
+
+---
+
+**[Why Bitcoin Could Hit $0](https://www.youtube.com/watch?v=IXNUM4FMqNs)**
+
+We're watching the worst crypto crash since the FTX scandal. Ben McKenzie explains what's driving the crash, and why this one ...
+
+📺 More Perfect Union
+
+👁️ 1.4M • 👍 84K • 💬 7K • ⏱️ 2:50 • 2d ago
+
+---
+
+**[Did Pam Bondi’s CRASH OUT Signal a Bitcoin BREAKOUT?](https://www.youtube.com/watch?v=aDL3QVutH8Q)**
+
+Pam Bondi gets slammed on live TV and the cracks in the system are impossible to ignore. As global uncertainty explodes and the ...
+
+📺 Simply Bitcoin
+
+👁️ 25K • 👍 2K • 💬 358 • ⏱️ 21:31 • 22h ago
 
 ---
 
