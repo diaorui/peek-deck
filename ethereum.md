@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-02-13T11:09:24.268930+00:00'
+updated: '2026-02-13T11:54:24.525874+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
 - news
-- cryptocurrency
 - social
 - videos
+- cryptocurrency
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** February 13, 2026 at 11:09 UTC  
+**Last Updated:** February 13, 2026 at 11:54 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -80,7 +80,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 This is the second article in a series about deterministic deployments, where we explore the question: how can we deploy a contract at the same address in multiple chains? In the first part we discussed three possible answers: deploying with the same private key and nonce, using Nick’s method, and pre-signing transactions. In this entry we’ll discuss two other approaches: CREATE2 factories and CREATE3.
 
-🔗 [Cethology](https://paragraph.com/@cethology/deterministic-deployments-part-2-create2-based-approaches) • 2h ago
+🔗 [Cethology](https://paragraph.com/@cethology/deterministic-deployments-part-2-create2-based-approaches) • 3h ago
 
 ---
 
@@ -88,13 +88,13 @@ This is the second article in a series about deterministic deployments, where we
 
 ACDE #230 saw Ethereum core developers focus on Glamsterdam Devnet performance, eth/70 networking safeguards, and a narrowing Hegotá headliner race led by encrypted mempool proposals.
 
-🔗 [EtherWorld.co](https://etherworld.co/highlights-from-the-all-core-developers-execution-acde-call-230/) • 7h ago
+🔗 [EtherWorld.co](https://etherworld.co/highlights-from-the-all-core-developers-execution-acde-call-230/) • 8h ago
 
 ---
 
 **[I got HTTP 402 working as an actual payment protocol for AI agents, here's what I learned](https://www.reddit.com/r/ethereum/comments/1r3bm1g/i_got_http_402_working_as_an_actual_payment/)**
 
-9h ago
+10h ago
 
 ---
 
@@ -134,7 +134,7 @@ It's open source and live on Arbitrum One right now. Happy to answer any questio
 
 Ethereum's L2 ecosystem has succeeded beyond expectations. Our Gen1 L2s—Arbitrum, Base, Optimism, and others—took a risk on rollup infrastructure when it was experimental. They proved the model works and scaled Ethereum to billions in TVL, successfully killing the "Ethereum Killers." But as /u/vbuterin correctly pointed out, current blob fees are unsustainably low for long-term network health. But I think there's a path forward that can make the transition into Vitalik's new vision for L2s easier. Proposal: Generation-based pricing Gen1 L2s (launched before March 2026): Preferential "founder pricing" Gradual 15-20% annual increases over 5 years (I don't know if 15-20% is correct, but just basically a small enough increase that these L2s won't rebel and happily stay in the ecosystem). Still far below independent L1 operation costs (~$10M+/year) Gen2 L2s (launching 2026-2028): Starting price 3-4x Gen1 base rate Steeper increases (25%/year) Still economically viable vs. building independent chains Gen3+ L2s (2029+): Market-rate pricing reflecting network maturity Maybe staking required. Why this works: Honors early adopters (not a penalty, a reward), but still extracting some additional value from them. Creates urgency for new projects (launch early = better terms) Familiar model (AWS Reserved Instances, Netflix early subscriber rates) Predictable 5-year schedule (institutions can forecast costs). Sustainable revenue for Ethereum without driving L2s away This isn't "picking winners". When you give away your old box of comic books on craigslist and you say "first come first serve" is that picking winners? By 2030, Ethereum could capture $50M+/year vs. current $182K—without losing any major L2s. This approach rewards risk-takers, provides clear pricing roadmaps, and ensures Ethereum's infrastructure remains sustainable as we scale to billions of users (human and ai). Thank you for reading I look forward to your criticism.
 
-22h ago
+23h ago
 
 ---
 
@@ -142,7 +142,7 @@ Ethereum's L2 ecosystem has succeeded beyond expectations. Our Gen1 L2s—Arbitr
 
 If someone can help me. I have a website where clients are able to buy monthly/yearly subscriptions, but I want them to pay normal with card or revolut and for me to receive this payment in crypto like USDC, ETH or others. Is there kind of service available today? Reason for this is because my website is adult contect so I can't use Stripe or websites like that unfortenetly because they don't allow it. And my clients can't pay in crypto because most of them are probably not "tech smart" enough to use crypto for payments.
 
-23h ago
+1d ago
 
 ---
 
@@ -154,7 +154,7 @@ If someone can help me. I have a website where clients are able to buy monthly/y
 
 Standard Chartered predicts Bitcoin will hit $100K and Ethereum will rise to $4,000 by the end of 2026, but expects further drops first.
 
-Decrypt • 19h ago
+Decrypt • 20h ago
 
 ---
 
@@ -170,13 +170,13 @@ The Block • 20h ago
 
 Blackrock’s Bitmine share holdings jumped 166% in the fourth-quarter of 2025.  CEO Larry Fink is bullish on tokenisation with the company citing Ethereum as the big winner.
 
-dlnews.com • 1h ago
+dlnews.com • 2h ago
 
 ---
 
 **[BTC and ETH Options Totaling Nearly $2.9B Expire Today](https://www.binance.com/sl/square/post/291125716730193)**
 
-Binance • 3h ago
+Binance • 4h ago
 
 ---
 
@@ -184,7 +184,7 @@ Binance • 3h ago
 
 At a panel discussion at Consensus Hong Kong 2026 featuring Consensys CEO and Ethereum co-founder Joe Lubin and SharpLink (SBET) CEO Joseph Chalom, the two executives outlined how digital asset treasuries (DATs) are evolving into a distinct institutional strategy.
 
-CoinDesk • 15h ago
+CoinDesk • 16h ago
 
 ---
 
@@ -216,7 +216,7 @@ Yahoo Finance • 2d ago
 
 The cryptocurrency market has broadly stabilised so far this week, following the turbulence that characterised price action the previous one and pushed Bitcoin (BTC) down to $60,000 on Friday.
 
-FXStreet • 22h ago
+FXStreet • 23h ago
 
 ---
 
@@ -258,7 +258,7 @@ BITCOIN & ALTCOIN WARNING: It's Happening AGAIN!!!! - Bitcoin News Today, Ethere
 
 📺 Crypto World
 
-👁️ 9K • 👍 366 • 💬 202 • ⏱️ 21:40 • 15h ago
+👁️ 9K • 👍 366 • 💬 202 • ⏱️ 21:40 • 16h ago
 
 ---
 
@@ -288,7 +288,7 @@ Ethereum is down 1% today, 8% this week, and 38% this month. The financial media
 
 📺 Dana Love, PhD
 
-👁️ 1K • 👍 4 • 💬 1 • ⏱️ 0:43 • 13h ago
+👁️ 1K • 👍 4 • 💬 1 • ⏱️ 0:43 • 14h ago
 
 ---
 
@@ -298,7 +298,7 @@ This video provides a professional Elliott Wave and technical analysis of Ethere
 
 📺 More Crypto Online
 
-👁️ 3K • 👍 181 • 💬 4 • ⏱️ 6:51 • 21h ago
+👁️ 3K • 👍 181 • 💬 4 • ⏱️ 6:51 • 22h ago
 
 ---
 
@@ -318,7 +318,7 @@ TrumpCrypto2026 #DigitalAssets #TrumpAnnouncement Welcome to the Trump Crypto Fo
 
 📺 MFMLekkiYC Region 3
 
-👁️ 7K • 👍 4K • 15h ago
+👁️ 7K • 👍 4K • 16h ago
 
 ---
 
@@ -328,7 +328,7 @@ Hier Handle ich Kryptowährungen!! Bitunix (Instant VIP LVL 3 und 20% Deposit Zu
 
 📺 Krypto Trading & Investing
 
-👁️ 3K • 👍 759 • 💬 83 • ⏱️ 17:10 • 6h ago
+👁️ 3K • 👍 759 • 💬 83 • ⏱️ 17:10 • 7h ago
 
 ---
 

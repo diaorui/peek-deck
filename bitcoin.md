@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-02-13T11:09:24.262819+00:00'
+updated: '2026-02-13T11:54:24.519675+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
 - news
-- cryptocurrency
 - social
 - videos
+- cryptocurrency
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** February 13, 2026 at 11:09 UTC  
+**Last Updated:** February 13, 2026 at 11:54 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -81,7 +81,7 @@ Rank #1
 
 Well…
 
-10h ago
+11h ago
 
 ---
 
@@ -93,7 +93,7 @@ Well…
 
 **[VanEck said it knows 13 governments that are actively mining Bitcoin](https://www.reddit.com/r/Bitcoin/comments/1r35qqv/vaneck_said_it_knows_13_governments_that_are/)**
 
-13h ago
+14h ago
 
 ---
 
@@ -101,7 +101,7 @@ Well…
 
 like we was just vibing near 100k, everybody loud, posting rockets, acting rich in theory then boom 90 80 70 just casually opening doors like “you forgot something down here” bro who asked for this my portfolio looking at me like I did something wrong and there’s always that one guy “it’s a healthy correction” healthy?? I’m stressed eating cereal at 2am watching candles bleed bitcoin don’t even walk downstairs it just throws itself down still not selling tho but damn can we chill for five minutes
 
-1h ago
+2h ago
 
 ---
 
@@ -115,7 +115,7 @@ Just want to let you know that bitcoin will reach 38,000 according to my dream. 
 
 **[Which one are you?](https://www.reddit.com/r/Bitcoin/comments/1r32e5a/which_one_are_you/)**
 
-15h ago
+16h ago
 
 ---
 
@@ -123,7 +123,7 @@ Just want to let you know that bitcoin will reach 38,000 according to my dream. 
 
 Like minnows in the ocean, or more like… plankton Motivating seeing everyone’s big buys and sometimes hard to see what everyone else is moving and sticking to putting in what won’t ruin me if I lose! Been DCAing since £57k and have bigger orders set at £45k,50,55 etc. maybe I’ll be a wholecoiner in 500 years! Hah
 
-1h ago
+2h ago
 
 ---
 
@@ -145,7 +145,7 @@ Please utilize this sticky thread for all general Bitcoin discussions! If you se
 
 **[Just HODL it](https://www.reddit.com/r/Bitcoin/comments/1r3jy6b/just_hodl_it/)**
 
-2h ago
+3h ago
 
 ---
 
@@ -155,7 +155,7 @@ Please utilize this sticky thread for all general Bitcoin discussions! If you se
 
 **[Bitcoin Steadies in Asia After Standard Chartered Warning](https://www.bloomberg.com/news/articles/2026-02-13/bitcoin-btc-under-pressure-in-asia-after-standard-chartered-warning)**
 
-Bloomberg • 6h ago
+Bloomberg • 7h ago
 
 ---
 
@@ -177,7 +177,7 @@ Barron's • 1h ago
 
 Bitcoin hovered near $65,000 on Thursday as investor disappointment grew over its failure to track gold's climb this year.
 
-Yahoo Finance • 16h ago
+Yahoo Finance • 17h ago
 
 ---
 
@@ -185,7 +185,7 @@ Yahoo Finance • 16h ago
 
 Instead of investing in bitcoin and forex trading as promised, Palafox used new investor funds to pay old ones and siphoned millions for personal use.
 
-CoinDesk • 7m ago
+CoinDesk • 52m ago
 
 ---
 
@@ -209,7 +209,7 @@ Fortune • 1d ago
 
 Police authorities have launched an internal probe to determine the circumstances of the incident and potential internal involvement.
 
-The Block • 2h ago
+The Block • 3h ago
 
 ---
 
@@ -225,7 +225,7 @@ CNBC • 2d ago
 
 The corporate adoption of bitcoin was dominated by a single player last month — Strategy.
 
-Bitcoin Magazine • 16h ago
+Bitcoin Magazine • 17h ago
 
 ---
 
@@ -303,7 +303,7 @@ What do Bitcoin miners actually do? An interactive exploration of hashing, diffi
 
 Bithumb has apologised for staff error that sent customers 620,000 bitcoins instead of 620,000 Korean won, equivalent to a few hundred US dollars
 
-⬆️ 2 • 💬 1 • 2d ago • [the Guardian](https://www.theguardian.com/world/2026/feb/10/bithumb-korean-crypto-exchange-sent-bitcoin-mistake)
+⬆️ 2 • 💬 1 • 3d ago • [the Guardian](https://www.theguardian.com/world/2026/feb/10/bithumb-korean-crypto-exchange-sent-bitcoin-mistake)
 
 ---
 
@@ -327,7 +327,7 @@ Predict Crypto, Sports, Politics & More on *ClashPicks* ▻ https://www.clashpic
 
 📺 CryptosRUs
 
-👁️ 23K • 👍 1K • 💬 380 • ⏱️ 8:08 • 9h ago
+👁️ 23K • 👍 1K • 💬 380 • ⏱️ 8:08 • 10h ago
 
 ---
 
@@ -357,7 +357,7 @@ Strategy executive chairman and founder Michael Saylor gives his take on Bitcoin
 
 📺 Fox Business
 
-👁️ 6K • 👍 203 • 💬 214 • ⏱️ 8:19 • 4h ago
+👁️ 6K • 👍 203 • 💬 214 • ⏱️ 8:19 • 5h ago
 
 ---
 
@@ -397,7 +397,7 @@ Predict Crypto, Sports, Politics & More on *ClashPicks* ▻ https://www.clashpic
 
 📺 CryptosRUs
 
-👁️ 27K • 👍 1K • 💬 183 • ⏱️ 51:44 • 19h ago
+👁️ 27K • 👍 1K • 💬 183 • ⏱️ 51:44 • 20h ago
 
 ---
 

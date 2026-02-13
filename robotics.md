@@ -3,7 +3,7 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-02-13T11:09:24.272154+00:00'
+updated: '2026-02-13T11:54:24.529226+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
@@ -17,7 +17,7 @@ data_types:
 
 Robotics research and industry news
 
-**Last Updated:** February 13, 2026 at 11:09 UTC  
+**Last Updated:** February 13, 2026 at 11:54 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -36,7 +36,7 @@ Robotics research and industry news
 
 part 2 is coming soon, I will be adding propellers and a wind vane so it can move even if the wind is coming from behind! also I may add motors someday:)
 
-11h ago
+12h ago
 
 ---
 
@@ -52,7 +52,7 @@ I built this last year. Made those suction cups from scratch, it has camera, TOF
 
 As someone starting research in robotics, this has been on my mind for a while. I see a new VLA every week claiming it outperforms XYZ with better quality and more data. If that’s all it takes, what problems are actually still open? If everything can be countered with “just get more data,” what is left to research?
 
-17h ago
+18h ago
 
 ---
 
@@ -68,7 +68,7 @@ We're sharing how we bridged the Sim-to-Real gap by simulating the embedded syst
 
 Hi! I’ve been using TurtleBot with Gazebo Classic for a simulation project and recently migrated my model to Gazebo Ignition. Since the migration I’ve run into a few issues, especially with wall and floor textures (which I understand is expected due to conversion), but the main problem is visible gaps between walls. I attached screenshots showing how a section of the map is supposed to look vs how it currently looks in Ignition. I tried slightly increasing the wall lengths, but it didn’t noticeably improve the gaps. Does anyone know what typically causes this after Classic to Ignition conversion or how to properly fix it? I’m not sure if this is a common issue, but I wasn’t able to find much information about it online, so apologies if this is something obvious. This is a bit time-sensitive, so I’d really appreciate any guidance!
 
-12h ago
+13h ago
 
 ---
 
@@ -84,7 +84,7 @@ Boston Dynamics CEO Robert Playter told staff on Tuesday that he'll be stepping 
 
 This article argues that robot deployment is starting to shift away from traditional application-specific coding toward AI-powered low-code and no-code platforms. Instead of writing custom logic for every product change, teams are using visual interfaces, task demonstration, and AI reasoning to configure workflows. In inspection and assembly, systems can adapt to variation and real-time inputs without being explicitly programmed for every scenario.
 
-🔗 [Automate](https://www.automate.org/ai/industry-insights/ai-low-code-and-no-code-solutions-in-robotics) • 20h ago
+🔗 [Automate](https://www.automate.org/ai/industry-insights/ai-low-code-and-no-code-solutions-in-robotics) • 21h ago
 
 ---
 
@@ -214,7 +214,7 @@ A massive robotics shift is unfolding right in front of us. Boston Dynamics has 
 
 📺 Zack D. Films
 
-👁️ 3.6M • 👍 146K • 💬 1K • ⏱️ 0:23 • 19h ago
+👁️ 3.6M • 👍 146K • 💬 1K • ⏱️ 0:23 • 20h ago
 
 ---
 
