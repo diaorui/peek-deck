@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-02-13T04:33:13.794657+00:00'
+updated: '2026-02-13T06:00:48.877034+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
+- videos
+- social
 - cryptocurrency
 - news
-- social
-- videos
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** February 13, 2026 at 04:33 UTC  
+**Last Updated:** February 13, 2026 at 06:00 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,17 +38,17 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $66,496.73
+### $66,399.81
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** -1.1%  
-**7d:** -4.2%  
-**30d:** -30.5%  
-**90d:** -29.6%  
-**1y:** -31.9%  
+**24h:** -1.4%  
+**7d:** -4.5%  
+**30d:** -30.7%  
+**90d:** -29.8%  
+**1y:** -32.1%  
 
 ---
 
@@ -70,7 +70,7 @@ Rank #1
 
 ## Fear & Greed Index
 
-### 5
+### 9
 **EXTREME FEAR**
 
 ---
@@ -79,19 +79,19 @@ Rank #1
 
 **[VanEck said it knows 13 governments that are actively mining Bitcoin](https://www.reddit.com/r/Bitcoin/comments/1r35qqv/vaneck_said_it_knows_13_governments_that_are/)**
 
-7h ago
+8h ago
 
 ---
 
 **[Which one are you?](https://www.reddit.com/r/Bitcoin/comments/1r32e5a/which_one_are_you/)**
 
-9h ago
+10h ago
 
 ---
 
 **[Bitcoin, what are you doing](https://www.reddit.com/r/Bitcoin/comments/1r2u1yl/bitcoin_what_are_you_doing/)**
 
-14h ago
+16h ago
 
 ---
 
@@ -99,23 +99,7 @@ Rank #1
 
 Well…
 
-4h ago
-
----
-
-**[My dip buying strategy. Started from$80K](https://www.reddit.com/r/Bitcoin/comments/1r2pzse/my_dip_buying_strategy_started_from80k/)**
-
-I set alerts for my dip buying strategy. I have been buying since $80K and these are my next targets. Hope it all hit perfectly. I may increase the amounts depending on my savings.
-
-18h ago
-
----
-
-**[Won $4,000 worth of BTC at a bitcoin betting website. Should I hold?](https://www.reddit.com/r/Bitcoin/comments/1r34csh/won_4000_worth_of_btc_at_a_bitcoin_betting/)**
-
-Since bitcoin is dropping, please advise on should I keep this win? I have never invested in crypto and have no idea what to do with this. Yes it was pure dumb luck. Now pleas help!
-
-8h ago
+5h ago
 
 ---
 
@@ -123,15 +107,39 @@ Since bitcoin is dropping, please advise on should I keep this win? I have never
 
 Just want to let you know that bitcoin will reach 38,000 according to my dream. I’m still DCA everyday with full confidence. Your welcome
 
-34m ago
+2h ago
 
 ---
 
-**[Tired of manually tracking - (plus everything is red, so no motivation left)](https://www.reddit.com/r/Bitcoin/comments/1r3evku/tired_of_manually_tracking_plus_everything_is_red/)**
+**[Won $4,000 worth of BTC at a bitcoin betting website. Should I hold?](https://www.reddit.com/r/Bitcoin/comments/1r34csh/won_4000_worth_of_btc_at_a_bitcoin_betting/)**
 
-I used Shrimpy in the past, although they had limitations but they did the job. It made rebalancing my crypto portfolio so simple. But after they got acquired in 2023, it kind of stopped being useful for me. Since then, I’ve been trying to manage everything in Google Sheets. And honestly, it’s a nightmare. Calculating each allocation was a hassle for me, so I looked up on youtube to get live coingecko prices into it, so it got somewhat easier. Am I doing it the wrong way? My job is getting hectic and I am not able to find time to keep track of my allocations anymore.
+Since bitcoin is dropping, please advise on should I keep this win? I have never invested in crypto and have no idea what to do with this. Yes it was pure dumb luck. Now pleas help!
 
-41m ago
+9h ago
+
+---
+
+**[My dip buying strategy. Started from$80K](https://www.reddit.com/r/Bitcoin/comments/1r2pzse/my_dip_buying_strategy_started_from80k/)**
+
+I set alerts for my dip buying strategy. I have been buying since $80K and these are my next targets. Hope it all hit perfectly. I may increase the amounts depending on my savings.
+
+19h ago
+
+---
+
+**[Want to go off exchanges but am scared](https://www.reddit.com/r/Bitcoin/comments/1r35p3n/want_to_go_off_exchanges_but_am_scared/)**
+
+I really want to start self-custody and have my bitcoing actually be my own. But I'm terrified of losing my passkey. I'm notoriously bad at keeping stuff working. I've already lost multiple phones and have lost my 2fa to current exchanges. Only thing that saved me both times was KYC and customer support.
+
+8h ago
+
+---
+
+**[Is it safe to use old version of Green wallet Android app?](https://www.reddit.com/r/Bitcoin/comments/1r3fei4/is_it_safe_to_use_old_version_of_green_wallet/)**
+
+I loved old Green wallet app interface... current Blockstream version looks worse, just feels off comparing to old one, so I stopped using it and switched to Blue wallet last year. Recently I used my old phone, and it reminds me how good was the old Green version... It still works perfectly, but I wonder if you guys know: Is it still safe to use old version of Green app? Is it possible to extract APK file of old version (from my old phone, and install on new phone) If not, then I'll just stick to Blue wallet...
+
+1h ago
 
 ---
 
@@ -139,15 +147,7 @@ I used Shrimpy in the past, although they had limitations but they did the job. 
 
 Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.
 
-🔗 [youtu.be](https://youtu.be/CtMmNTc4yho?si=KsfHcWT8SHWGRs6S) • 7h ago
-
----
-
-**[BlackRock exec says 1% crypto allocation in Asia could unlock $2 trillion in new flows](https://www.reddit.com/r/Bitcoin/comments/1r2nepp/blackrock_exec_says_1_crypto_allocation_in_asia/)**
-
-BlackRock exec says 1% crypto allocation in Asia could unlock $2 trillion in new flows
-
-🔗 [s.followin.io](https://s.followin.io/s/yYHesWRHFD) • 20h ago
+🔗 [youtu.be](https://youtu.be/CtMmNTc4yho?si=KsfHcWT8SHWGRs6S) • 9h ago
 
 ---
 
@@ -155,15 +155,9 @@ BlackRock exec says 1% crypto allocation in Asia could unlock $2 trillion in new
 
 ## Google News: "bitcoin"
 
-**[Bitcoin Under Pressure in Asia After Standard Chartered Warning](https://www.bloomberg.com/news/articles/2026-02-13/bitcoin-btc-under-pressure-in-asia-after-standard-chartered-warning)**
-
-Bloomberg.com • 2h ago
-
----
-
 **[Bitcoin price steadies but fresh fears suggest slide to $52k](https://uk.finance.yahoo.com/news/bitcoin-price-crypto-us-jobs-101234268.html)**
 
-Yahoo Finance UK • 18h ago
+Yahoo Finance UK • 19h ago
 
 ---
 
@@ -171,7 +165,7 @@ Yahoo Finance UK • 18h ago
 
 The strong correlation between crypto and the software sector reasserted itself on Wednesday
 
-CoinDesk • 2h ago
+CoinDesk • 4h ago
 
 ---
 
@@ -181,47 +175,55 @@ Reuters • 1d ago
 
 ---
 
-**[Bitcoin Leads a Fresh Crypto Slide: Here's What It Means for Ethereum and Solana Investors](https://finance.yahoo.com/news/bitcoin-leads-fresh-crypto-slide-035000476.html)**
+**[Bitcoin Under Pressure in Asia After Standard Chartered Warning](https://www.bloomberg.com/news/articles/2026-02-13/bitcoin-btc-under-pressure-in-asia-after-standard-chartered-warning)**
+
+Bloomberg.com • 1h ago
+
+---
+
+**[Standard Chartered sees bitcoin sliding to $50,000, ether to $1,400 before recovery](https://www.coindesk.com/markets/2026/02/12/standard-chartered-sees-bitcoin-sliding-to-usd50-000-ether-to-usd1-400-before-recovery)**
+
+The bank cuts its 2026 crypto price targets, warning of further near-term capitulation as ETF outflows and macro headwinds weigh on digital assets.
+
+CoinDesk • 14h ago
+
+---
+
+**[Bitcoin Will Fall to $50K and Ethereum Will Hit $1,400 Before Rebound: Standard Chartered](https://finance.yahoo.com/news/bitcoin-fall-50k-ethereum-hit-152946733.html)**
+
+Standard Chartered predicts Bitcoin will hit $100K and Ethereum will rise to $4,000 by the end of 2026, but expects further drops first.
+
+Yahoo Finance • 14h ago
+
+---
+
+**[El Salvador’s Bitcoin Conviction Now Carries a $300 Million Price Tag](https://finance.yahoo.com/news/el-salvador-bitcoin-conviction-now-050247727.html)**
+
+El Salvador’s Bitcoin portfolio has fallen nearly $300 million, as rising CDS spreads and IMF review delays raise debt concerns.
+
+Yahoo Finance • 58m ago
+
+---
+
+**[Bitcoin Leads a Fresh Crypto Slide: Here's What It Means for Ethereum and Solana Investors](https://www.fool.com/investing/2026/02/12/bitcoin-leads-a-fresh-crypto-slide-heres-what-it-m/)**
 
 Bitcoin's seemingly random tumble doesn't bode well for the crypto sector's near term.
 
-Yahoo Finance • 43m ago
+The Motley Fool • 2h ago
 
 ---
 
-**[Bitcoin's drawdown hit 50%. History shows it may have further to go](https://www.cnbc.com/2026/02/12/bitcoins-drawdown-hit-50percent-history-shows-it-may-have-further-to-go.html)**
+**[This 1 Quantum Computing Rumor Is Making Investors Sell Their Bitcoin. Don't Fall for It](https://www.nasdaq.com/articles/1-quantum-computing-rumor-making-investors-sell-their-bitcoin-dont-fall-it)**
 
-Bitcoin has a history of falling about 75% during each four-year cycle, suggesting the token is on track to fall even further in the near future.
+Key PointsInvestors recently learned that quantum computers could one day be used to steal Bitcoin.
 
-CNBC • 14h ago
-
----
-
-**[Crypto wallet in Nancy Guthrie note is traceable: Blockchain analyst](https://www.newsnationnow.com/crime/crypto-wallet-nancy-guthrie/)**
-
-NewsNation • 22h ago
+Nasdaq • 20h ago
 
 ---
 
-**[Robinhood’s stock is now trading almost exactly like bitcoin — but it really shouldn’t be](https://www.marketwatch.com/story/robinhoods-stock-is-now-trading-almost-exactly-like-bitcoin-but-it-really-shouldnt-be-a9a88715?gaa_at=eafs&gaa_n=AWEtsqfKdUL2cAJMp0ZiZz0IqMjCp2r1iqwrKQXHdSvBzWbQQ2IPIDwKmNMQ&gaa_ts=698eacef&gaa_sig=SumDarLl-aw2OARtFNDmrBXQdDNXl42c0znLl_BFTHv7y5HcArqSJPsL46oMI8KRHuW9M3PQ0FESo1pi4pTpqw%3D%3D)**
+**[Bitcoin leads a fresh crypto slide: Here's what it means for Ethereum and Solana investors](https://www.msn.com/en-us/money/savingandinvesting/bitcoin-leads-a-fresh-crypto-slide-here-s-what-it-means-for-ethereum-and-solana-investors/ar-AA1WfXm9?ocid=finance-verthp-feeds)**
 
-MarketWatch • 7h ago
-
----
-
-**[Michael Saylor downplays Strategy credit risk as bitcoin tumbles: 'We'll refinance the debt'](https://www.cnbc.com/2026/02/10/michael-saylor-downplays-strategy-credit-risk-as-bitcoin-tumbles-well-refinance-the-debt.html)**
-
-Strategy plans to continue refinancing its debt and buying bitcoin, even as the token tumbles, CEO Michael Saylor said Tuesday on CNBC's "Squawk Box."
-
-CNBC • 2d ago
-
----
-
-**[Strategy (MSTR) Accounted for 97.5% of Corporate Bitcoin Buying Last Month, Report Shows](https://bitcoinmagazine.com/news/strategy-mstr-accounted-corporate-bitcoin)**
-
-The corporate adoption of bitcoin was dominated by a single player last month — Strategy.
-
-Bitcoin Magazine • 9h ago
+MSN • 1h ago
 
 ---
 
@@ -313,7 +315,7 @@ Bitcoin's crash off its all time high and then its sudden crash last week. It le
 
 📺 Mark Moss
 
-👁️ 101K • 👍 5K • 💬 690 • ⏱️ 16:43 • 8h ago
+👁️ 101K • 👍 5K • 💬 690 • ⏱️ 16:43 • 9h ago
 
 ---
 
@@ -323,7 +325,7 @@ Fred Thiel is the CEO of Marathon Digital and a leading voice at the intersectio
 
 📺 Anthony Pompliano
 
-👁️ 22K • 👍 868 • 💬 59 • ⏱️ 18:55 • 6h ago
+👁️ 22K • 👍 868 • 💬 59 • ⏱️ 18:55 • 8h ago
 
 ---
 
@@ -333,7 +335,7 @@ Bitcoin #Crypto #Finance Stay ahead of the market — FREE Join the DataDash Pro
 
 📺 DataDash
 
-👁️ 6K • 👍 322 • 💬 23 • ⏱️ 15:09 • 12h ago
+👁️ 6K • 👍 322 • 💬 23 • ⏱️ 15:09 • 13h ago
 
 ---
 
@@ -353,7 +355,7 @@ Predict Crypto, Sports, Politics & More on *ClashPicks* ▻ https://www.clashpic
 
 📺 CryptosRUs
 
-👁️ 26K • 👍 1K • 💬 153 • ⏱️ 51:44 • 12h ago
+👁️ 26K • 👍 1K • 💬 153 • ⏱️ 51:44 • 14h ago
 
 ---
 
@@ -363,7 +365,7 @@ Pam Bondi gets slammed on live TV and the cracks in the system are impossible to
 
 📺 Simply Bitcoin
 
-👁️ 12K • 👍 1K • 💬 196 • ⏱️ 21:31 • 5h ago
+👁️ 12K • 👍 1K • 💬 196 • ⏱️ 21:31 • 6h ago
 
 ---
 
@@ -373,7 +375,7 @@ The crypto market is at a massive crossroads. After the "Crypto Winter" correcti
 
 📺 Discover Crypto
 
-👁️ 2K • 👍 185 • 💬 22 • ⏱️ 9:41 • 4h ago
+👁️ 2K • 👍 185 • 💬 22 • ⏱️ 9:41 • 6h ago
 
 ---
 
