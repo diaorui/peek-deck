@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-02-13T15:08:57.132207+00:00'
+updated: '2026-02-13T16:08:12.313690+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- social
 - videos
-- news
+- social
 - cryptocurrency
+- news
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** February 13, 2026 at 15:08 UTC  
+**Last Updated:** February 13, 2026 at 16:08 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -36,17 +36,17 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Price
 
-### $1,969.83
+### $2,032.75
 
 ---
 
 ## Ethereum Chart
 
-**24h:** +1.0%  
-**7d:** -6.1%  
-**30d:** -40.7%  
-**90d:** -36.5%  
-**1y:** -27.9%  
+**24h:** +7.6%  
+**7d:** -1.9%  
+**30d:** -38.0%  
+**90d:** -33.7%  
+**1y:** -24.6%  
 
 ---
 
@@ -72,15 +72,7 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-9h ago
-
----
-
-**[Deterministic Deployments, Part 2: CREATE2-based approaches](https://www.reddit.com/r/ethereum/comments/1r3juq1/deterministic_deployments_part_2_create2based/)**
-
-This is the second article in a series about deterministic deployments, where we explore the question: how can we deploy a contract at the same address in multiple chains? In the first part we discussed three possible answers: deploying with the same private key and nonce, using Nick’s method, and pre-signing transactions. In this entry we’ll discuss two other approaches: CREATE2 factories and CREATE3.
-
-🔗 [Cethology](https://paragraph.com/@cethology/deterministic-deployments-part-2-create2-based-approaches) • 6h ago
+10h ago
 
 ---
 
@@ -88,7 +80,15 @@ This is the second article in a series about deterministic deployments, where we
 
 BlackRock BUIDL tradeable via UniswapX, ENS staying on mainnet, Solidity developer survey
 
-🔗 [Ethereal news](https://ethereal.news/ethereal-news-weekly-11/) • 2h ago
+🔗 [Ethereal news](https://ethereal.news/ethereal-news-weekly-11/) • 3h ago
+
+---
+
+**[Deterministic Deployments, Part 2: CREATE2-based approaches](https://www.reddit.com/r/ethereum/comments/1r3juq1/deterministic_deployments_part_2_create2based/)**
+
+This is the second article in a series about deterministic deployments, where we explore the question: how can we deploy a contract at the same address in multiple chains? In the first part we discussed three possible answers: deploying with the same private key and nonce, using Nick’s method, and pre-signing transactions. In this entry we’ll discuss two other approaches: CREATE2 factories and CREATE3.
+
+🔗 [Cethology](https://paragraph.com/@cethology/deterministic-deployments-part-2-create2-based-approaches) • 7h ago
 
 ---
 
@@ -96,13 +96,13 @@ BlackRock BUIDL tradeable via UniswapX, ENS staying on mainnet, Solidity develop
 
 ACDE #230 saw Ethereum core developers focus on Glamsterdam Devnet performance, eth/70 networking safeguards, and a narrowing Hegotá headliner race led by encrypted mempool proposals.
 
-🔗 [EtherWorld.co](https://etherworld.co/highlights-from-the-all-core-developers-execution-acde-call-230/) • 11h ago
+🔗 [EtherWorld.co](https://etherworld.co/highlights-from-the-all-core-developers-execution-acde-call-230/) • 12h ago
 
 ---
 
 **[I got HTTP 402 working as an actual payment protocol for AI agents, here's what I learned](https://www.reddit.com/r/ethereum/comments/1r3bm1g/i_got_http_402_working_as_an_actual_payment/)**
 
-13h ago
+14h ago
 
 ---
 
@@ -150,6 +150,14 @@ Ethereum's L2 ecosystem has succeeded beyond expectations. Our Gen1 L2s—Arbitr
 
 ## Google News: "ethereum"
 
+**[Bitcoin Will Fall to $50K and Ethereum Will Hit $1,400 Before Rebound: Standard Chartered](https://decrypt.co/357858/bitcoin-50k-ethereum-1400-before-rebound-standard-chartered)**
+
+Standard Chartered predicts Bitcoin will hit $100K and Ethereum will rise to $4,000 by the end of 2026, but expects further drops first.
+
+Decrypt • 1d ago
+
+---
+
 **[Wrapped Bitcoin team taps Hyperlane for WBTC bridge between Ethereum and Solana](https://www.theblock.co/post/389619/wrapped-bitcoin-hyperlane-wbtc-bridge-ethereum-solana)**
 
 The Hyperlane Nexus Bridge will enable holders to transfer wBTC tokens between Ethereum and Solana, the team wrote in a press release.
@@ -158,19 +166,11 @@ The Block • 1d ago
 
 ---
 
-**[Bitcoin Will Fall to $50K and Ethereum Will Hit $1,400 Before Rebound: Standard Chartered](https://decrypt.co/357858/bitcoin-50k-ethereum-1400-before-rebound-standard-chartered)**
+**[Ethereum news: Foundation leadership shake-up: Tomasz Stańczak to leave co-executive director role](https://www.coindesk.com/tech/2026/02/13/ethereum-foundation-leadership-shake-up-tomasz-stanczak-out-as-co-executive-director)**
 
-Standard Chartered predicts Bitcoin will hit $100K and Ethereum will rise to $4,000 by the end of 2026, but expects further drops first.
+Stańczak’s was brought aboard in 2025 following the transition of long-time executive director Aya Miyaguchi amid mounting community criticism that the foundation wasn’t doing enough to aggressively push the Ethereum ecosystem forward.
 
-Decrypt • 23h ago
-
----
-
-**[BlackRock buys up Bitmine shares as Ethereum threatens to fall to $1,400 price](https://www.dlnews.com/articles/markets/blackrock-buys-up-bitmine-shares-as-ethereum-may-hit-1400/)**
-
-Blackrock’s Bitmine share holdings jumped 166% in the fourth-quarter of 2025.  CEO Larry Fink is bullish on tokenisation with the company citing Ethereum as the big winner.
-
-dlnews.com • 5h ago
+CoinDesk • 59m ago
 
 ---
 
@@ -178,15 +178,15 @@ dlnews.com • 5h ago
 
 BlackRock, the world’s largest asset manager, looks set to offload more Bitcoin and Ethereum, following the outflows from its crypto ETFs yesterday. This move comes ahead of another potential partial U.S. government shutdown that could begin tomorrow as today’s deadline looms. BlackRock Moves $257M In BTC And ETH To Coinbase Arkham data shows that the
 
-Yahoo Finance • 2h ago
+Yahoo Finance • 3h ago
 
 ---
 
-**[Ethereum (ETH) news: SBET executives urge to look beyond recent price action](https://www.coindesk.com/business/2026/02/12/sharplink-s-lubin-and-chalom-make-their-case-for-ether-dats-as-prices-plunge)**
+**[Tom Lee: Ethereum ‘V-shaped recovery’ soon as Bitmine buys at $2,000 price](https://www.dlnews.com/articles/markets/tom-lee-says-ethereum-v-shaped-recovery-soon/)**
 
-At a panel discussion at Consensus Hong Kong 2026 featuring Consensys CEO and Ethereum co-founder Joe Lubin and SharpLink (SBET) CEO Joseph Chalom, the two executives outlined how digital asset treasuries (DATs) are evolving into a distinct institutional strategy.
+Bitmine buys another $80m worth of Ethereum. Tom Lee predicts swift recovery despite over $6.6 billion in unrealised losses.
 
-CoinDesk • 19h ago
+dlnews.com • 3d ago
 
 ---
 
@@ -202,21 +202,7 @@ Sherwood News • 1d ago
 
 Ethereum is attempting to stabilize after its recent pullback, but the recovery so far lacks convincing strength. With price rejecting key levels and higher-timeframe risks still looming, ETH finds itself at a critical decision point where the next structural move could define the short-term trend…
 
-TradingView • 13h ago
-
----
-
-**[Ethereum Based Meme Coin Pepeto Announces $7M+ Presale Milestone Ahead of Binance Listing as Bitcoin Volatility Persists](https://markets.businessinsider.com/news/stocks/ethereum-based-meme-coin-pepeto-announces-7m-presale-milestone-ahead-of-binance-listing-as-bitcoin-volatility-persists-1035825465)**
-
-DUBAI, United Arab Emirates, Feb.  13, 2026  (GLOBE NEWSWIRE) -- Pepeto (PEPETO), an Ethereum-based meme-utility project, has officially crossed $...
-
-markets.businessinsider.com • 3h ago
-
----
-
-**[Ethereum News: Ether Poised for Another ‘V-Shaped’ Recovery, Fundstrat’s Tom Lee Says](https://www.binance.com/en/square/post/02-12-2026-ethereum-news-ether-poised-for-another-v-shaped-recovery-fundstrat-s-tom-lee-says-290785972237842)**
-
-Binance • 1d ago
+TradingView • 14h ago
 
 ---
 
@@ -224,7 +210,23 @@ Binance • 1d ago
 
 Bitcoin (BTC), Ethereum (ETH) and Ripple (XRP) remain under pressure, extending losses of over 5%, 6% and 4%, respectively, so far this week. BTC trades below $67,000 while ETH and XRP correct after facing rejection around key levels.
 
-FXStreet • 11h ago
+FXStreet • 12h ago
+
+---
+
+**[Ethereum stablecoin supply tops $158B: Why ETH/BTC matters now](https://ambcrypto.com/ethereum-stablecoin-supply-tops-158b-why-eth-btc-matters-now/)**
+
+Could stablecoin flows kickstart Ethereum's comeback?
+
+AMBCrypto • 2d ago
+
+---
+
+**[Ripple introduces Ethereum and Solana staking](https://cryptoslate.com/ripple-custody-just-unlocked-ethereum-and-solana-staking-and-institutions-may-finally-get-xrp-yield-without-messy-validator-risk/)**
+
+Ripple's new capability through Figment aims to streamline ETH and SOL staking for institutional investors.
+
+CryptoSlate • 2d ago
 
 ---
 
@@ -238,7 +240,7 @@ ETHEREUM ETH PRICE PREDICTION 2026 Join the Premium Signal Group for trade setup
 
 📺 Cilinix Crypto
 
-👁️ 177 • 👍 10 • 💬 66 • ⏱️ 5:18 • 4h ago
+👁️ 177 • 👍 10 • 💬 66 • ⏱️ 5:18 • 5h ago
 
 ---
 
@@ -248,7 +250,7 @@ This video provides a professional Elliott Wave and technical analysis of Ethere
 
 📺 More Crypto Online
 
-👁️ 2K • 👍 123 • 💬 5 • ⏱️ 4:01 • 11h ago
+👁️ 2K • 👍 123 • 💬 5 • ⏱️ 4:01 • 12h ago
 
 ---
 
@@ -268,7 +270,7 @@ Tom Lee, Co-Founder of Fundstrat and Chairman of Bitmine Immersion (NYSE: BMNR),
 
 📺 The Crypto Times
 
-👁️ 19K • 👍 446 • 💬 113 • ⏱️ 15:00 • 1d ago
+👁️ 19K • 👍 446 • 💬 113 • ⏱️ 15:00 • 2d ago
 
 ---
 
@@ -278,7 +280,7 @@ BITCOIN & ALTCOIN WARNING: It's Happening AGAIN!!!! - Bitcoin News Today, Ethere
 
 📺 Crypto World
 
-👁️ 10K • 👍 384 • 💬 202 • ⏱️ 21:40 • 19h ago
+👁️ 10K • 👍 384 • 💬 202 • ⏱️ 21:40 • 20h ago
 
 ---
 
@@ -308,7 +310,7 @@ join my social platforms for updates and analysis ✓Instagram: ...
 
 📺 Aryan trader Live
 
-👁️ 4K • 👍 2K • 55m ago
+👁️ 4K • 👍 2K • 1h ago
 
 ---
 
@@ -318,7 +320,7 @@ CNBC"s MacKenzie Sigalos joins 'Squawk Box' to discuss the recent bitcoin volati
 
 📺 CNBC Television
 
-👁️ 107K • 👍 935 • 💬 989 • ⏱️ 6:36 • 2d ago
+👁️ 107K • 👍 935 • 💬 989 • ⏱️ 6:36 • 3d ago
 
 ---
 
@@ -328,7 +330,7 @@ TrumpCrypto2026 #DigitalAssets #TrumpAnnouncement Welcome to the Trump Crypto Fo
 
 📺 MFMLekkiYC Region 3
 
-👁️ 12K • 👍 4K • 19h ago
+👁️ 12K • 👍 4K • 20h ago
 
 ---
 

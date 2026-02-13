@@ -3,13 +3,13 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-02-13T15:08:57.135448+00:00'
+updated: '2026-02-13T16:08:12.317024+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- social
 - videos
+- social
 - news
 ---
 
@@ -17,7 +17,7 @@ data_types:
 
 Robotics research and industry news
 
-**Last Updated:** February 13, 2026 at 15:08 UTC  
+**Last Updated:** February 13, 2026 at 16:08 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -36,7 +36,7 @@ Robotics research and industry news
 
 I posted a video a couple of days ago on r/esp32 showing my Open-Source robot dance, and some people wanted to see it walk ... here you go ! Got a complete walking gate & added remote control :) Everything runs on the ESP32-S3 ! What do you think ?
 
-1h ago
+2h ago
 
 ---
 
@@ -44,7 +44,7 @@ I posted a video a couple of days ago on r/esp32 showing my Open-Source robot da
 
 part 2 is coming soon, I will be adding propellers and a wind vane so it can move even if the wind is coming from behind! also I may add motors someday:)
 
-15h ago
+16h ago
 
 ---
 
@@ -60,7 +60,7 @@ I built this last year. Made those suction cups from scratch, it has camera, TOF
 
 As someone starting research in robotics, this has been on my mind for a while. I see a new VLA every week claiming it outperforms XYZ with better quality and more data. If that’s all it takes, what problems are actually still open? If everything can be countered with “just get more data,” what is left to research?
 
-21h ago
+22h ago
 
 ---
 
@@ -76,7 +76,7 @@ We're sharing how we bridged the Sim-to-Real gap by simulating the embedded syst
 
 Hi! I’ve been using TurtleBot with Gazebo Classic for a simulation project and recently migrated my model to Gazebo Ignition. Since the migration I’ve run into a few issues, especially with wall and floor textures (which I understand is expected due to conversion), but the main problem is visible gaps between walls. I attached screenshots showing how a section of the map is supposed to look vs how it currently looks in Ignition. I tried slightly increasing the wall lengths, but it didn’t noticeably improve the gaps. Does anyone know what typically causes this after Classic to Ignition conversion or how to properly fix it? I’m not sure if this is a common issue, but I wasn’t able to find much information about it online, so apologies if this is something obvious. This is a bit time-sensitive, so I’d really appreciate any guidance!
 
-16h ago
+17h ago
 
 ---
 
@@ -120,7 +120,7 @@ Enjoy the videos and music you love, upload original content, and share it all w
 
 Developing a durable and affordable hand is one of the biggest challenges in robotics.
 
-BBC • 15h ago
+BBC • 16h ago
 
 ---
 
@@ -132,19 +132,19 @@ Nature • 1d ago
 
 ---
 
+**[Is China Leading the Robotics Revolution?](https://chinapower.csis.org/china-industrial-robots/)**
+
+This ChinaPower feature examines China's push to lead the world in robotics and the geopolitical implications.
+
+ChinaPower Project • 20h ago
+
+---
+
 **[If robots take the auto jobs, who’s left with money to buy cars?](https://www.autonews.com/manufacturing/anc-humanoid-robots-threaten-auto-industry-jobs-0209/)**
 
 Larry Savage, a professor of labour studies at Brock University, says governments might need to step in to help protect jobs that are under the threat of automation.
 
 Automotive News • 1d ago
-
----
-
-**[Is China Leading the Robotics Revolution?](https://chinapower.csis.org/china-industrial-robots/)**
-
-This ChinaPower feature examines China's push to lead the world in robotics and the geopolitical implications.
-
-ChinaPower Project • 19h ago
 
 ---
 
@@ -156,11 +156,17 @@ The Economist • 1d ago
 
 ---
 
+**[How A Chinese Engineer Became A Billionaire Making Robotic ‘Eyes’](https://www.forbes.com/sites/zinnialee/2026/02/12/how-a-chinese-engineer-became-a-billionaire-making-robotic-eyes/)**
+
+Forbes • 14h ago
+
+---
+
 **[People — and robots — ready to celebrate Lunar New Year](https://www.oregonlive.com/nation/2026/02/people-and-robots-ready-to-celebrate-lunar-new-year.html)**
 
 Robots star in fairs and activities around Beijing.
 
-OregonLive.com • 1h ago
+OregonLive.com • 2h ago
 
 ---
 
@@ -168,21 +174,15 @@ OregonLive.com • 1h ago
 
 Pneumatics are a common way to add some motion to soft robotic actuators, but adding it to a robot can be somewhat of a chore. A method demonstrated by [Jackson K. Wilt] et al. (press release, prep…
 
-Hackaday • 3h ago
+Hackaday • 4h ago
 
 ---
 
-**[How A Chinese Engineer Became A Billionaire Making Robotic ‘Eyes’](https://www.forbes.com/sites/zinnialee/2026/02/12/how-a-chinese-engineer-became-a-billionaire-making-robotic-eyes/)**
+**[Humanoid robots are getting smaller, safer and closer](https://www.foxnews.com/tech/humanoid-robots-getting-smaller-safer-closer)**
 
-Forbes • 13h ago
+Fauna Robotics is launching Sprout as a developer platform for humanoid robots. The robot features 29 degrees of freedom and NVIDIA compute power.
 
----
-
-**[Elon Musk Bets On Humanoid Robots In 2026, But One Company Hopes 'Elon Time' Strikes Again](https://finance.yahoo.com/news/elon-musk-bets-humanoid-robots-153112171.html)**
-
-Elon Musk has repeatedly touted the Optimus humanoid robot as Tesla’s (NYSE:TSLA) most significant long-term value driver, suggesting it could eventually propel the company’s market cap to $25 trillion. Yet, prediction market odds suggest a humanoid robot in 2026 may be a little too optimistic. During Tesla's recent “We, Robot” event, Musk claimed the robots could perform everything from babysitting to mowing lawns, with a price tag between $20,000 and $30,000. But according to Kalshi, the human
-
-Yahoo Finance • 23h ago
+Fox News • 2d ago
 
 ---
 
@@ -212,7 +212,7 @@ Can a robot take care of teaching my kids everything they need to know? The Reac
 
 📺 Jeff Geerling
 
-👁️ 249 • 👍 34 • 💬 8 • ⏱️ 12:38 • 7m ago
+👁️ 249 • 👍 34 • 💬 8 • ⏱️ 12:38 • 1h ago
 
 ---
 
@@ -250,7 +250,7 @@ Chinese robotics company AGIBOT redefined the intersection of technology and cul
 
 📺 Zack D. Films
 
-👁️ 4.1M • 👍 163K • 💬 2K • ⏱️ 0:23 • 23h ago
+👁️ 4.1M • 👍 163K • 💬 2K • ⏱️ 0:23 • 1d ago
 
 ---
 

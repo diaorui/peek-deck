@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-02-13T15:08:57.126196+00:00'
+updated: '2026-02-13T16:08:12.307465+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- social
 - videos
-- news
+- social
 - cryptocurrency
+- news
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** February 13, 2026 at 15:08 UTC  
+**Last Updated:** February 13, 2026 at 16:08 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,17 +38,17 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $67,154.75
+### $68,996.64
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** +0.3%  
-**7d:** -2.9%  
-**30d:** -29.6%  
-**90d:** -28.7%  
-**1y:** -31.0%  
+**24h:** +5.5%  
+**7d:** -0.5%  
+**30d:** -27.8%  
+**90d:** -26.8%  
+**1y:** -29.2%  
 
 ---
 
@@ -81,7 +81,7 @@ Rank #1
 
 like we was just vibing near 100k, everybody loud, posting rockets, acting rich in theory then boom 90 80 70 just casually opening doors like “you forgot something down here” bro who asked for this my portfolio looking at me like I did something wrong and there’s always that one guy “it’s a healthy correction” healthy?? I’m stressed eating cereal at 2am watching candles bleed bitcoin don’t even walk downstairs it just throws itself down still not selling tho but damn can we chill for five minutes
 
-5h ago
+6h ago
 
 ---
 
@@ -89,7 +89,7 @@ like we was just vibing near 100k, everybody loud, posting rockets, acting rich 
 
 Like minnows in the ocean, or more like… plankton Motivating seeing everyone’s big buys and sometimes hard to see what everyone else is moving and sticking to putting in what won’t ruin me if I lose! Been DCAing since £57k and have bigger orders set at £45k,50,55 etc. maybe I’ll be a wholecoiner in 500 years! Hah
 
-5h ago
+6h ago
 
 ---
 
@@ -103,7 +103,7 @@ Like minnows in the ocean, or more like… plankton Motivating seeing everyone�
 
 Well…
 
-14h ago
+15h ago
 
 ---
 
@@ -111,13 +111,19 @@ Well…
 
 I’m turning Bitcoin into an anime style story. What would you want it to include?
 
-4h ago
+5h ago
 
 ---
 
 **[VanEck said it knows 13 governments that are actively mining Bitcoin](https://www.reddit.com/r/Bitcoin/comments/1r35qqv/vaneck_said_it_knows_13_governments_that_are/)**
 
-17h ago
+18h ago
+
+---
+
+**[Just HODL it](https://www.reddit.com/r/Bitcoin/comments/1r3jy6b/just_hodl_it/)**
+
+7h ago
 
 ---
 
@@ -125,19 +131,13 @@ I’m turning Bitcoin into an anime style story. What would you want it to inclu
 
 Just want to let you know that bitcoin will reach 38,000 according to my dream. I’m still DCA everyday with full confidence. Your welcome
 
-11h ago
+12h ago
 
 ---
 
 **[Which one are you?](https://www.reddit.com/r/Bitcoin/comments/1r32e5a/which_one_are_you/)**
 
-19h ago
-
----
-
-**[Just HODL it](https://www.reddit.com/r/Bitcoin/comments/1r3jy6b/just_hodl_it/)**
-
-6h ago
+20h ago
 
 ---
 
@@ -145,7 +145,7 @@ Just want to let you know that bitcoin will reach 38,000 according to my dream. 
 
 Grant Cardone just listed his mansion for sale for 700 BTC. Just got to know there are even more expensive properties already for sale at over 700 BTC.
 
-11h ago
+12h ago
 
 ---
 
@@ -155,7 +155,7 @@ Grant Cardone just listed his mansion for sale for 700 BTC. Just got to know the
 
 **[Bitcoin Steadies in Asia After Standard Chartered Warning](https://www.bloomberg.com/news/articles/2026-02-13/bitcoin-btc-under-pressure-in-asia-after-standard-chartered-warning)**
 
-Bloomberg.com • 10h ago
+Bloomberg.com • 11h ago
 
 ---
 
@@ -163,69 +163,63 @@ Bloomberg.com • 10h ago
 
 The bank cuts its 2026 crypto price targets, warning of further near-term capitulation as ETF outflows and macro headwinds weigh on digital assets.
 
-CoinDesk • 23h ago
+CoinDesk • 1d ago
 
 ---
 
-**[Crypto, bitcoin trade is 'a tale of 2 markets': Bitwise CIO](https://finance.yahoo.com/video/crypto-bitcoin-trade-tale-2-123025092.html)**
+**[Bitcoin Will Fall to $50K and Ethereum Will Hit $1,400 Before Rebound: Standard Chartered](https://finance.yahoo.com/news/bitcoin-fall-50k-ethereum-hit-152946733.html)**
 
-Bitcoin (BTC-USD) has pulled back sharply, but exchange-traded fund (ETF) investors are holding firm even as earlier crypto holders sell. Bitwise Asset Management chief investment officer Matt Hougan joins Yahoo Finance host Julie Hyman to break down what's driving the downturn, where institutional flows stand, and why the recovery may depend on multiple catalysts rather than a single turning point. Bitwise operates several of its own bitcoin ETFs (BITB, BITC, BTOP) and crypto ETFs (BITQ, BITW). To watch more expert insights and analysis on the latest market action, check out more&nbsp;Market Catalysts.
+Standard Chartered predicts Bitcoin will hit $100K and Ethereum will rise to $4,000 by the end of 2026, but expects further drops first.
 
-Yahoo Finance • 2h ago
-
----
-
-**[Bitcoin reportedly sent to wallet associated with Nancy Guthrie’s ransom letter providing potential clue in investigation](https://fortune.com/2026/02/11/bitcoin-reportedly-sent-to-wallet-associated-with-nancy-guthries-ransom-letter/)**
-
-Meanwhile, authorities released surveillance video showing the alleged captor who remains at large.
-
-Fortune • 1d ago
+Yahoo Finance • 1d ago
 
 ---
 
-**[Bitcoin ETFs Shed $410M Amid BTC's Ongoing Slump](https://finance.yahoo.com/news/bitcoin-etfs-shed-410m-amid-133434843.html)**
+**[Bitcoin's drawdown hit 50%. History shows it may have further to go](https://www.cnbc.com/2026/02/12/bitcoins-drawdown-hit-50percent-history-shows-it-may-have-further-to-go.html)**
 
-U.S. spot Bitcoin ETFs saw $410M in outflows Thursday as institutional profit-taking and macro hedging create a "liquidity mirage."
+Bitcoin has a history of falling about 75% during each four-year cycle, suggesting the token is on track to fall even further in the near future.
 
-Yahoo Finance • 1h ago
-
----
-
-**[South Korean police lose seized bitcoin held in cold wallet since 2021](https://www.theblock.co/post/389783/south-korean-police-loses-seized-bitcoin)**
-
-Police authorities have launched an internal probe to determine the circumstances of the incident and potential internal involvement.
-
-The Block • 6h ago
+CNBC • 1d ago
 
 ---
 
-**[Michael Saylor downplays Strategy credit risk as bitcoin tumbles: 'We'll refinance the debt'](https://www.cnbc.com/2026/02/10/michael-saylor-downplays-strategy-credit-risk-as-bitcoin-tumbles-well-refinance-the-debt.html)**
+**[StanChart Slashes Bitcoin 2026 Target by 33%, Warns of More Pain](https://www.bloomberg.com/news/articles/2026-02-12/stanchart-cuts-bitcoin-btc-2026-target-to-100-000-warns-of-more-pain)**
 
-Strategy plans to continue refinancing its debt and buying bitcoin, even as the token tumbles, CEO Michael Saylor said Tuesday on CNBC's "Squawk Box."
+Standard Chartered has cut its Bitcoin price forecast for the second time in less than three months, warning that the cryptocurrency could slide to hit $50,000 before recovering.
 
-CNBC • 3d ago
-
----
-
-**[Strategy (MSTR) Accounted for 97.5% of Corporate Bitcoin Buying Last Month, Report Shows](https://bitcoinmagazine.com/news/strategy-mstr-accounted-corporate-bitcoin)**
-
-The corporate adoption of bitcoin was dominated by a single player last month — Strategy.
-
-Bitcoin Magazine • 20h ago
+Bloomberg.com • 1d ago
 
 ---
 
-**[Strategy Inc Leans On Stretch Preferreds To Deepen Bitcoin Exposure](https://finance.yahoo.com/news/strategy-inc-leans-stretch-preferreds-011221004.html)**
+**[Bitcoin hovers near $65,000 as investor frustration grows over 'disconnect' with gold](https://finance.yahoo.com/news/bitcoin-hovers-near-65000-as-investor-frustration-grows-over-disconnect-with-gold-183451704.html)**
 
-Strategy Inc (NasdaqGS:MSTR) plans to issue a new class of perpetual preferred equity, branded "Stretch," to fund further Bitcoin purchases. The company is shifting away from issuing additional common equity in an effort to limit dilution for existing shareholders. The Stretch securities come with fixed dividend obligations, increasing ongoing funding commitments. This change comes while the company holds multi billion dollar unrealized losses on its Bitcoin position and faces persistent...
+Bitcoin hovered near $65,000 on Thursday as investor disappointment grew over its failure to track gold's climb this year.
 
-Yahoo Finance • 13h ago
+Yahoo Finance • 21h ago
 
 ---
 
-**[A Bitcoin Blunder for the Ages: $40 Billion Accidentally Given Away by Bithumb](https://www.wsj.com/finance/currencies/a-bitcoin-blunder-for-the-ages-40-billion-accidentally-given-away-3a207eac?gaa_at=eafs&gaa_n=AWEtsqedAn-E8_OxxQkRHzAT4SCv55GTKXTaMha6_H_1uExAVrdP8XPkcuD7&gaa_ts=698f34e7&gaa_sig=JDxPQ79q56ilNnHNMJAOw4BiW-Tnq4ZotO6y8sPWIJ9LSQLF0p7ljb0wI3RGI4hGU4xPAKzZ5ccDLHly6_lFZg%3D%3D)**
+**[Bitcoin vs Ethereum ETFs: A Growing Capital Divide](https://www.binance.com/da-DK/square/post/291232832708625)**
 
-The Wall Street Journal • 3d ago
+Binance • 1h ago
+
+---
+
+**[Bitcoin Falling to $60,000 Could Spark Fresh Liquidation Spiral](https://www.bloomberg.com/news/articles/2026-02-13/bitcoin-falling-to-60-000-could-spark-fresh-liquidation-spiral)**
+
+Bloomberg.com • 1h ago
+
+---
+
+**[Clear Street Trims Price Target on CleanSpark (CLSK) to $22, as Bitcoin Prices Fall](https://uk.finance.yahoo.com/news/clear-street-trims-price-target-145217735.html)**
+
+Yahoo Finance UK • 1h ago
+
+---
+
+**[Crypto wallet in Nancy Guthrie note is traceable: Blockchain analyst](https://www.newsnationnow.com/crime/crypto-wallet-nancy-guthrie/)**
+
+NewsNation • 1d ago
 
 ---
 
@@ -303,7 +297,7 @@ What do Bitcoin miners actually do? An interactive exploration of hashing, diffi
 
 Explore everything you can do as a lightning app builder using Alby - getAlby/sandbox
 
-⬆️ 2 • 💬 1 • 1h ago • [GitHub](https://github.com/getAlby/sandbox)
+⬆️ 2 • 💬 1 • 2h ago • [GitHub](https://github.com/getAlby/sandbox)
 
 ---
 
@@ -317,7 +311,7 @@ Bitcoin's crash off its all time high and then its sudden crash last week. It le
 
 📺 Mark Moss
 
-👁️ 167K • 👍 6K • 💬 1K • ⏱️ 16:43 • 19h ago
+👁️ 167K • 👍 6K • 💬 1K • ⏱️ 16:43 • 20h ago
 
 ---
 
@@ -327,7 +321,7 @@ Strategy executive chairman and founder Michael Saylor gives his take on Bitcoin
 
 📺 Fox Business
 
-👁️ 20K • 👍 513 • 💬 555 • ⏱️ 8:19 • 8h ago
+👁️ 20K • 👍 513 • 💬 555 • ⏱️ 8:19 • 9h ago
 
 ---
 
@@ -337,7 +331,7 @@ Predict Crypto, Sports, Politics & More on *ClashPicks* ▻ https://www.clashpic
 
 📺 CryptosRUs
 
-👁️ 28K • 👍 1K • 💬 578 • ⏱️ 8:08 • 13h ago
+👁️ 28K • 👍 1K • 💬 578 • ⏱️ 8:08 • 14h ago
 
 ---
 
@@ -347,7 +341,7 @@ Fred Thiel is the CEO of Marathon Digital and a leading voice at the intersectio
 
 📺 Anthony Pompliano
 
-👁️ 36K • 👍 1K • 💬 68 • ⏱️ 18:55 • 17h ago
+👁️ 36K • 👍 1K • 💬 68 • ⏱️ 18:55 • 18h ago
 
 ---
 
@@ -357,7 +351,7 @@ Is the stock market topping out? Master technical analyst Gareth Soloway breaks 
 
 📺 Financial Funda
 
-👁️ 697 • 👍 38 • 💬 46 • ⏱️ 2:23 • 2h ago
+👁️ 697 • 👍 38 • 💬 46 • ⏱️ 2:23 • 3h ago
 
 ---
 
@@ -367,7 +361,7 @@ Bitcoin #Crypto #Finance Stay ahead of the market — FREE Join the DataDash Pro
 
 📺 DataDash
 
-👁️ 7K • 👍 349 • 💬 27 • ⏱️ 15:09 • 23h ago
+👁️ 7K • 👍 349 • 💬 27 • ⏱️ 15:09 • 1d ago
 
 ---
 
@@ -387,7 +381,7 @@ Predict Crypto, Sports, Politics & More on *ClashPicks* ▻ https://www.clashpic
 
 📺 CryptosRUs
 
-👁️ 28K • 👍 1K • 💬 352 • ⏱️ 51:44 • 23h ago
+👁️ 28K • 👍 1K • 💬 352 • ⏱️ 51:44 • 1d ago
 
 ---
 
@@ -407,7 +401,7 @@ Kyledoops gives his downside targets for what is getting setup to be a violent m
 
 📺 Crypto Banter
 
-👁️ 16K • 👍 2K • 💬 19 • ⏱️ 39:02 • 7h ago
+👁️ 16K • 👍 2K • 💬 19 • ⏱️ 39:02 • 8h ago
 
 ---
 
