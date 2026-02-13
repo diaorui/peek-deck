@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-02-13T18:03:16.488535+00:00'
+updated: '2026-02-13T19:24:11.636083+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- news
-- videos
-- cryptocurrency
 - social
+- cryptocurrency
+- videos
+- news
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** February 13, 2026 at 18:03 UTC  
+**Last Updated:** February 13, 2026 at 19:24 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,8 +42,8 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** +7.4%  
-**7d:** -1.7%  
+**24h:** +7.5%  
+**7d:** -1.6%  
 **30d:** -37.9%  
 **90d:** -33.5%  
 **1y:** -24.4%  
@@ -52,7 +52,7 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Market Stats
 
-**Market Cap:** $247.50B
+**Market Cap:** $248.22B
 Rank #2
 
 **Circulating Supply:** 120,692,487 ETH
@@ -62,7 +62,7 @@ No max supply
 -58.4%
 
 **All-Time Low:** $0.43
-+475107.8%
++475521.2%
 
 ---
 
@@ -72,7 +72,7 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-12h ago
+13h ago
 
 ---
 
@@ -80,7 +80,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 BlackRock BUIDL tradeable via UniswapX, ENS staying on mainnet, Solidity developer survey
 
-🔗 [Ethereal news](https://ethereal.news/ethereal-news-weekly-11/) • 5h ago
+🔗 [Ethereal news](https://ethereal.news/ethereal-news-weekly-11/) • 6h ago
 
 ---
 
@@ -88,7 +88,7 @@ BlackRock BUIDL tradeable via UniswapX, ENS staying on mainnet, Solidity develop
 
 This is the second article in a series about deterministic deployments, where we explore the question: how can we deploy a contract at the same address in multiple chains? In the first part we discussed three possible answers: deploying with the same private key and nonce, using Nick’s method, and pre-signing transactions. In this entry we’ll discuss two other approaches: CREATE2 factories and CREATE3.
 
-🔗 [Cethology](https://paragraph.com/@cethology/deterministic-deployments-part-2-create2-based-approaches) • 9h ago
+🔗 [Cethology](https://paragraph.com/@cethology/deterministic-deployments-part-2-create2-based-approaches) • 10h ago
 
 ---
 
@@ -96,13 +96,13 @@ This is the second article in a series about deterministic deployments, where we
 
 ACDE #230 saw Ethereum core developers focus on Glamsterdam Devnet performance, eth/70 networking safeguards, and a narrowing Hegotá headliner race led by encrypted mempool proposals.
 
-🔗 [EtherWorld.co](https://etherworld.co/highlights-from-the-all-core-developers-execution-acde-call-230/) • 14h ago
+🔗 [EtherWorld.co](https://etherworld.co/highlights-from-the-all-core-developers-execution-acde-call-230/) • 16h ago
 
 ---
 
 **[I got HTTP 402 working as an actual payment protocol for AI agents, here's what I learned](https://www.reddit.com/r/ethereum/comments/1r3bm1g/i_got_http_402_working_as_an_actual_payment/)**
 
-16h ago
+18h ago
 
 ---
 
@@ -166,17 +166,11 @@ The Block • 1d ago
 
 ---
 
-**[Ethereum news: Foundation leadership shake-up: Tomasz Stańczak to leave co-executive director role](https://www.coindesk.com/tech/2026/02/13/ethereum-foundation-leadership-shake-up-tomasz-stanczak-out-as-co-executive-director)**
+**[$3.85 Million in Ethereum From Mixin Network Hack Sent to Tornado Cash](https://finance.yahoo.com/news/3-85-million-ethereum-mixin-175053959.html)**
 
-Stańczak’s was brought aboard in 2025 following the transition of long-time executive director Aya Miyaguchi amid mounting community criticism that the foundation wasn’t doing enough to aggressively push the Ethereum ecosystem forward.
+Wallets linked to the $200 million exploit of Mixin in 2023 woke after nearly two years and moved funds to coin mixer Tornado Cash.
 
-CoinDesk • 2h ago
-
----
-
-**[Bitcoin vs Ethereum ETFs: A Growing Capital Divide](https://www.binance.com/da-DK/square/post/291232832708625)**
-
-Binance • 3h ago
+Yahoo Finance • 1h ago
 
 ---
 
@@ -184,15 +178,23 @@ Binance • 3h ago
 
 One of the Ethereum Foundation's co-directors said he would step down at the end of the month.  His replacement has already been chosen.
 
-dlnews.com • 1h ago
+dlnews.com • 27m ago
 
 ---
 
-**[BlackRock buys up Bitmine shares as Ethereum threatens to fall to $1,400 price](https://finance.yahoo.com/news/blackrock-buys-bitmine-shares-ethereum-092453859.html)**
+**[Ethereum (ETH) news: SBET executives urge to look beyond recent price action](https://www.coindesk.com/business/2026/02/12/sharplink-s-lubin-and-chalom-make-their-case-for-ether-dats-as-prices-plunge)**
 
-Blackrock’s Bitmine share holdings jumped 166% in the fourth-quarter of 2025. CEO Larry Fink is bullish on tokenisation with the company citing Ethereum as the big winner.
+At a panel discussion at Consensus Hong Kong 2026 featuring Consensys CEO and Ethereum co-founder Joe Lubin and SharpLink (SBET) CEO Joseph Chalom, the two executives outlined how digital asset treasuries (DATs) are evolving into a distinct institutional strategy.
 
-Yahoo Finance • 8h ago
+CoinDesk • 23h ago
+
+---
+
+**[Ethereum Price Rejected Again — Is Another Leg Lower Brewing?](https://www.tradingview.com/news/newsbtc:951e4a2a2094b:0-ethereum-price-rejected-again-is-another-leg-lower-brewing/)**
+
+Ethereum price started a fresh decline and traded below $1,980. ETH is now consolidating and remain at risk of another decline below $1,920.Ethereum Price Remains In The RedEthereum price failed to stay above $2,000 and started a fresh decline, like Bitcoin. ETH price traded below the $1,980 and $1…
+
+TradingView • 16h ago
 
 ---
 
@@ -204,25 +206,23 @@ Sherwood News • 2d ago
 
 ---
 
-**[Ethereum Caught Between Weak Bounce And High-Timeframe Risk – What’s Next?](https://www.tradingview.com/news/newsbtc:50222ecdc094b:0-ethereum-caught-between-weak-bounce-and-high-timeframe-risk-what-s-next/)**
-
-Ethereum is attempting to stabilize after its recent pullback, but the recovery so far lacks convincing strength. With price rejecting key levels and higher-timeframe risks still looming, ETH finds itself at a critical decision point where the next structural move could define the short-term trend…
-
-TradingView • 16h ago
-
----
-
 **[Ethereum Price Braces for Impact as Standard Chartered Predicts a $1,400 Bottom](https://www.tipranks.com/news/ethereum-price-braces-for-impact-as-standard-chartered-predicts-a-1400-bottom)**
 
-TipRanks • 3h ago
+TipRanks • 4h ago
 
 ---
 
-**[Top 3 Price Prediction: Bitcoin, Ethereum, Ripple – BTC, ETH and XRP stay weak as bearish momentum persists](https://www.fxstreet.com/cryptocurrencies/news/top-3-price-prediction-bitcoin-ethereum-ripple-btc-eth-and-xrp-stay-weak-as-bearish-momentum-persists-202602130354)**
+**[Ethereum News: Ether Poised for Another ‘V-Shaped’ Recovery, Fundstrat’s Tom Lee Says](https://www.binance.com/en/square/post/02-12-2026-ethereum-news-ether-poised-for-another-v-shaped-recovery-fundstrat-s-tom-lee-says-290785972237842)**
 
-Bitcoin (BTC), Ethereum (ETH) and Ripple (XRP) remain under pressure, extending losses of over 5%, 6% and 4%, respectively, so far this week. BTC trades below $67,000 while ETH and XRP correct after facing rejection around key levels.
+Binance • 1d ago
 
-FXStreet • 14h ago
+---
+
+**[BlackRock buys up Bitmine shares as Ethereum threatens to fall to $1,400 price](https://finance.yahoo.com/news/blackrock-buys-bitmine-shares-ethereum-092453859.html)**
+
+Blackrock’s Bitmine share holdings jumped 166% in the fourth-quarter of 2025. CEO Larry Fink is bullish on tokenisation with the company citing Ethereum as the big winner.
+
+Yahoo Finance • 9h ago
 
 ---
 
@@ -236,7 +236,7 @@ This video provides a professional Elliott Wave and technical analysis of Ethere
 
 📺 More Crypto Online
 
-👁️ 617 • 👍 87 • 💬 17 • ⏱️ 3:30 • 2h ago
+👁️ 617 • 👍 87 • 💬 17 • ⏱️ 3:30 • 3h ago
 
 ---
 
@@ -246,7 +246,7 @@ ETHEREUM ETH PRICE PREDICTION 2026 Join the Premium Signal Group for trade setup
 
 📺 Cilinix Crypto
 
-👁️ 249 • 👍 12 • 💬 66 • ⏱️ 5:18 • 7h ago
+👁️ 249 • 👍 12 • 💬 66 • ⏱️ 5:18 • 9h ago
 
 ---
 
@@ -256,7 +256,7 @@ This video provides a professional Elliott Wave and technical analysis of Ethere
 
 📺 More Crypto Online
 
-👁️ 2K • 👍 124 • 💬 5 • ⏱️ 4:01 • 14h ago
+👁️ 2K • 👍 124 • 💬 5 • ⏱️ 4:01 • 15h ago
 
 ---
 
@@ -286,7 +286,7 @@ BITCOIN & ALTCOIN WARNING: It's Happening AGAIN!!!! - Bitcoin News Today, Ethere
 
 📺 Crypto World
 
-👁️ 10K • 👍 392 • 💬 203 • ⏱️ 21:40 • 22h ago
+👁️ 10K • 👍 392 • 💬 203 • ⏱️ 21:40 • 23h ago
 
 ---
 
@@ -326,7 +326,7 @@ FREE Membership Trial offer on 1.5 Lac Subscribers completion - https://www.patr
 
 📺 Wise - Trader
 
-👁️ 2K • 👍 80 • 4h ago
+👁️ 2K • 👍 80 • 6h ago
 
 ---
 

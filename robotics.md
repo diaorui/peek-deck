@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-02-13T18:03:16.491310+00:00'
+updated: '2026-02-13T19:24:11.639255+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- news
-- videos
 - social
+- videos
+- news
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** February 13, 2026 at 18:03 UTC  
+**Last Updated:** February 13, 2026 at 19:24 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -36,7 +36,31 @@ Robotics research and industry news
 
 I posted a video a couple of days ago on r/esp32 showing my Open-Source robot dance, and some people wanted to see it walk ... here you go ! Got a complete walking gate & added remote control :) Everything runs on the ESP32-S3 ! What do you think ?
 
-4h ago
+5h ago
+
+---
+
+**[Is it just me or in the last 3 months we got an explosion of robotics startups?](https://www.reddit.com/r/robotics/comments/1r3w62u/is_it_just_me_or_in_the_last_3_months_we_got_an/)**
+
+From hardware to software, I see every day tons of new startups, mostly around AI. I'm not sure if it's just me that my Twitter algorithm but like every day someone appears with all kinds of products. Lately i see an abundance of data collection, AI schematic or PCB creators, AI ros configurators, etc.... Are the tech bros got tired of AI SaaS saturation and getting into robotics hoping to get an edge?
+
+1h ago
+
+---
+
+**[I am not able to send commands to my Unitree Motor](https://www.reddit.com/r/robotics/comments/1r3y86g/i_am_not_able_to_send_commands_to_my_unitree_motor/)**
+
+The unitree motor model is go_8010_6. I have been facing this repeated error whenever I try to run the simple example code from the Unitree_actuator_sdk. --------------------------------------------- [WARNING] SerialPort::recv, unblock version, wait time out [WARNING] motor id=1 does not reply port: /dev/ttyUSB0 motor.q: 4.25378e-41 motor.temp: 0 motor.W: 6.91788e-23 motor.merror: 447169392 ----------------------------------------------- I would think this is because of the fact that the computer is not able to detect the motor but I believe thats not the case because when i checked through the motor tools vibhu@vibhu-Legion-Pro-5-16IRX9:~/unitree/unitree_actuator_sdk/motor_tools/Unitree_MotorTools_v1.2.4_x86_64_Linux$ sudo ./swboot /dev/ttyUSB0 [sudo] password for vibhu: 1.Motor ID 1 --------------- Total 1 motors ------------------------------------------------ the bolded part is the output. The motor id and the number of motors connected is being shown. I was wondering if anyone would be able to assist me with this as I have been stuck on it for more than a few days and have already tried it on different systems.
+
+10m ago
+
+---
+
+**[Best modern motors/BLDC/Servos for DIY Robotic actuation](https://www.reddit.com/r/robotics/comments/1r3wz8a/best_modern_motorsbldcservos_for_diy_robotic/)**
+
+Howdy! I am a robotic engineer who has dived deep into DIY QDD actuators, creating custom servos, and making humanoids/quadriped robots. I wanted to know if anyone has done broad market research in the best actuators or servos on the market? As of now, I see two options Smaller form factor: Servos that can do 35kg of torque, STS3215 are in this category larger form factor: integrated QDD actuators or DIY drone motors such as eagle power 90kv + 9:1 gearbox, or the GIM6010/8108 motors that get about 5-15 nM of torque. Im thinking that there must be a good middle ground option for control and robotic arms/manipulators/linkages between a small 6010 GIM bldc setup and a STS3215, but i dont see many.
+
+56m ago
 
 ---
 
@@ -44,7 +68,7 @@ I posted a video a couple of days ago on r/esp32 showing my Open-Source robot da
 
 Hi I have an FPV drone that i want to control using a Raspberry Pi. For this i want to connect the RPi to the Flight controller and use it as a companion computer. I am using a GEPRC TAKER F745 currently on a BetaFlight firmware. Any suggestions on how i can connect them or what firmware (Ardupilot/PX4) i can use with ROS2 on the RPi.
 
-1h ago
+2h ago
 
 ---
 
@@ -52,7 +76,7 @@ Hi I have an FPV drone that i want to control using a Raspberry Pi. For this i w
 
 part 2 is coming soon, I will be adding propellers and a wind vane so it can move even if the wind is coming from behind! also I may add motors someday:)
 
-18h ago
+20h ago
 
 ---
 
@@ -84,31 +108,7 @@ We're sharing how we bridged the Sim-to-Real gap by simulating the embedded syst
 
 Hi! I’ve been using TurtleBot with Gazebo Classic for a simulation project and recently migrated my model to Gazebo Ignition. Since the migration I’ve run into a few issues, especially with wall and floor textures (which I understand is expected due to conversion), but the main problem is visible gaps between walls. I attached screenshots showing how a section of the map is supposed to look vs how it currently looks in Ignition. I tried slightly increasing the wall lengths, but it didn’t noticeably improve the gaps. Does anyone know what typically causes this after Classic to Ignition conversion or how to properly fix it? I’m not sure if this is a common issue, but I wasn’t able to find much information about it online, so apologies if this is something obvious. This is a bit time-sensitive, so I’d really appreciate any guidance!
 
-19h ago
-
----
-
-**[Boston Dynamics veteran and CEO, Robert Playter, steps down after more than 30 years with company](https://www.reddit.com/r/robotics/comments/1r23voi/boston_dynamics_veteran_and_ceo_robert_playter/)**
-
-Boston Dynamics CEO Robert Playter told staff on Tuesday that he'll be stepping down from the company. He first joined Boston Dynamics in 1994.
-
-🔗 [Business Insider](https://www.businessinsider.com/boston-dynamics-ceo-robert-playter-steps-down-memo-2026-2) • 2d ago
-
----
-
-**[Low-code AI changing how industrial robots get deployed](https://www.reddit.com/r/robotics/comments/1r2vb0h/lowcode_ai_changing_how_industrial_robots_get/)**
-
-This article argues that robot deployment is starting to shift away from traditional application-specific coding toward AI-powered low-code and no-code platforms. Instead of writing custom logic for every product change, teams are using visual interfaces, task demonstration, and AI reasoning to configure workflows. In inspection and assembly, systems can adapt to variation and real-time inputs without being explicitly programmed for every scenario.
-
-🔗 [Automate](https://www.automate.org/ai/industry-insights/ai-low-code-and-no-code-solutions-in-robotics) • 1d ago
-
----
-
-**[Motors Not Spinning Beyond 35% Throttle – DIY Drone Issue (Arduino + MPU6050)](https://www.reddit.com/r/robotics/comments/1r2n3sg/motors_not_spinning_beyond_35_throttle_diy_drone/)**
-
-Been working on my DIY drone for the past few days. Facing a weird issue, motors stop increasing speed after ~30–35% throttle, and the drone needs almost 50% throttle just to slightly lift. During ESC calibration, all motors run perfectly at full throttle. Seems like a code/control logic issue. Been stuck on this for days, any suggestions would help.
-
-1d ago
+20h ago
 
 ---
 
@@ -120,7 +120,7 @@ Been working on my DIY drone for the past few days. Facing a weird issue, motors
 
 Developing a durable and affordable hand is one of the biggest challenges in robotics.
 
-BBC • 17h ago
+BBC • 19h ago
 
 ---
 
@@ -136,7 +136,7 @@ Nature • 1d ago
 
 This ChinaPower feature examines China's push to lead the world in robotics and the geopolitical implications.
 
-ChinaPower Project • 22h ago
+ChinaPower Project • 23h ago
 
 ---
 
@@ -144,7 +144,7 @@ ChinaPower Project • 22h ago
 
 The autonomous construction tech provider now boasts total funding of over $350 million and a valuation of $1.75 billion.
 
-Construction Dive • 1d ago
+Construction Dive • 2d ago
 
 ---
 
@@ -156,27 +156,11 @@ TechCrunch • 2d ago
 
 ---
 
-**[If robots take the auto jobs, who’s left with money to buy cars?](https://www.autonews.com/manufacturing/anc-humanoid-robots-threaten-auto-industry-jobs-0209/)**
-
-Larry Savage, a professor of labour studies at Brock University, says governments might need to step in to help protect jobs that are under the threat of automation.
-
-Automotive News • 1d ago
-
----
-
 **[Humanoid robots are getting smaller, safer and closer](https://www.foxnews.com/tech/humanoid-robots-getting-smaller-safer-closer)**
 
 Fauna Robotics is launching Sprout as a developer platform for humanoid robots. The robot features 29 degrees of freedom and NVIDIA compute power.
 
 Fox News • 3d ago
-
----
-
-**[People — and robots — in China are getting ready for grand Lunar New Year celebration](https://nypost.com/2026/02/13/world-news/people-and-robots-are-getting-ready-to-celebrate-the-lunar-new-year-in-china/)**
-
-For a second year in a row, one of the fairs will be devoted to technology and — yes, again — robots will take center stage.
-
-New York Post • 1h ago
 
 ---
 
@@ -193,6 +177,22 @@ The Robot Report • 2d ago
 The Chinese company’s DAMO Academy introduced an open-source foundation model that engages with the environment, understands space in relation to time and can figure out steps toward completing a task.  With the release, Alibaba takes on AI leaders including Alphabet Inc.’s Google and Nvidia Corp. The Chinese firm claimed state-of-the-art results on benchmarks against Google’s Gemini Robotics-ER 1.5 and Nvidia’s Cosmos-Reason2.  Trained on Alibaba’s Qwen3-VL vision language model, RynnBrain is available on platforms like Hugging Face and GitHub in multiple versions starting as small as 2 billion parameters to a more efficient mixture-of-experts version.
 
 Yahoo Finance • 3d ago
+
+---
+
+**[If robots take the auto jobs, who’s left with money to buy cars?](https://www.autonews.com/manufacturing/anc-humanoid-robots-threaten-auto-industry-jobs-0209/)**
+
+Larry Savage, a professor of labour studies at Brock University, says governments might need to step in to help protect jobs that are under the threat of automation.
+
+Automotive News • 1d ago
+
+---
+
+**[Maui students vie for world robotics championship slots](https://mauinow.com/2026/02/11/maui-students-vie-for-world-robotics-championship-slots/)**
+
+Maui County robotics teams will battle rivals statewide this month for 14 coveted spots at the 2026 VEX Robotics World Championships. The Hawaiʻi VEX Regional Championships will draw 114 teams representing public and private schools, as well as club and home organizations from Maui County, Oʻahu and Hawaiʻi Island. The events are free to the [&hellip;]
+
+Maui Now • 2d ago
 
 ---
 
@@ -226,7 +226,7 @@ Can a little Pi-powered bot teach my kids? The Reachy Mini Wireless I used was p
 
 📺 Jeff Geerling
 
-👁️ 6K • 👍 844 • 💬 85 • ⏱️ 12:38 • 3h ago
+👁️ 6K • 👍 844 • 💬 85 • ⏱️ 12:38 • 4h ago
 
 ---
 
@@ -256,7 +256,7 @@ They laughed when Elon Musk brought a man in a spandex suit on stage. But in 202
 
 📺 By 2050
 
-👁️ 1.6M • 👍 25K • 💬 643 • ⏱️ 1:00 • 4d ago
+👁️ 1.6M • 👍 25K • 💬 643 • ⏱️ 1:00 • 5d ago
 
 ---
 
@@ -296,7 +296,7 @@ The Atlas Airborne Robot takes one final research run as Boston Dynamics pushes 
 
 📺 DPCcars
 
-👁️ 76K • 👍 547 • 💬 92 • ⏱️ 2:45 • 5d ago
+👁️ 76K • 👍 547 • 💬 92 • ⏱️ 2:45 • 6d ago
 
 ---
 
