@@ -3,7 +3,7 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-02-13T11:54:24.529226+00:00'
+updated: '2026-02-13T13:02:53.921960+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
@@ -17,7 +17,7 @@ data_types:
 
 Robotics research and industry news
 
-**Last Updated:** February 13, 2026 at 11:54 UTC  
+**Last Updated:** February 13, 2026 at 13:02 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -36,7 +36,7 @@ Robotics research and industry news
 
 part 2 is coming soon, I will be adding propellers and a wind vane so it can move even if the wind is coming from behind! also I may add motors someday:)
 
-12h ago
+13h ago
 
 ---
 
@@ -52,7 +52,7 @@ I built this last year. Made those suction cups from scratch, it has camera, TOF
 
 As someone starting research in robotics, this has been on my mind for a while. I see a new VLA every week claiming it outperforms XYZ with better quality and more data. If that’s all it takes, what problems are actually still open? If everything can be countered with “just get more data,” what is left to research?
 
-18h ago
+19h ago
 
 ---
 
@@ -68,7 +68,7 @@ We're sharing how we bridged the Sim-to-Real gap by simulating the embedded syst
 
 Hi! I’ve been using TurtleBot with Gazebo Classic for a simulation project and recently migrated my model to Gazebo Ignition. Since the migration I’ve run into a few issues, especially with wall and floor textures (which I understand is expected due to conversion), but the main problem is visible gaps between walls. I attached screenshots showing how a section of the map is supposed to look vs how it currently looks in Ignition. I tried slightly increasing the wall lengths, but it didn’t noticeably improve the gaps. Does anyone know what typically causes this after Classic to Ignition conversion or how to properly fix it? I’m not sure if this is a common issue, but I wasn’t able to find much information about it online, so apologies if this is something obvious. This is a bit time-sensitive, so I’d really appreciate any guidance!
 
-13h ago
+14h ago
 
 ---
 
@@ -84,7 +84,7 @@ Boston Dynamics CEO Robert Playter told staff on Tuesday that he'll be stepping 
 
 This article argues that robot deployment is starting to shift away from traditional application-specific coding toward AI-powered low-code and no-code platforms. Instead of writing custom logic for every product change, teams are using visual interfaces, task demonstration, and AI reasoning to configure workflows. In inspection and assembly, systems can adapt to variation and real-time inputs without being explicitly programmed for every scenario.
 
-🔗 [Automate](https://www.automate.org/ai/industry-insights/ai-low-code-and-no-code-solutions-in-robotics) • 21h ago
+🔗 [Automate](https://www.automate.org/ai/industry-insights/ai-low-code-and-no-code-solutions-in-robotics) • 22h ago
 
 ---
 
@@ -100,7 +100,7 @@ Been working on my DIY drone for the past few days. Facing a weird issue, motors
 
 Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.
 
-🔗 [youtube.com](https://youtube.com/shorts/oKXw1YJcoXU?si=eBA6b4QUD-VM8VIq) • 22h ago
+🔗 [youtube.com](https://youtube.com/shorts/oKXw1YJcoXU?si=eBA6b4QUD-VM8VIq) • 23h ago
 
 ---
 
@@ -120,7 +120,7 @@ Enjoy the videos and music you love, upload original content, and share it all w
 
 Developing a durable and affordable hand is one of the biggest challenges in robotics.
 
-BBC • 11h ago
+BBC • 12h ago
 
 ---
 
@@ -128,7 +128,7 @@ BBC • 11h ago
 
 npj Robotics - A call for a performance-driven approach for soft robotics research
 
-Nature • 23h ago
+Nature • 1d ago
 
 ---
 
@@ -136,15 +136,7 @@ Nature • 23h ago
 
 This ChinaPower feature examines China's push to lead the world in robotics and the geopolitical implications.
 
-ChinaPower Project • 15h ago
-
----
-
-**[Bedrock Robotics raises $270M in red-hot AI sector](https://www.constructiondive.com/news/bedrock-robotics-raise-ai-automation-funding/811982/)**
-
-The autonomous construction tech provider now boasts total funding of over $350 million and a valuation of $1.75 billion.
-
-Construction Dive • 1d ago
+ChinaPower Project • 17h ago
 
 ---
 
@@ -153,6 +145,14 @@ Construction Dive • 1d ago
 Fauna Robotics is launching Sprout as a developer platform for humanoid robots. The robot features 29 degrees of freedom and NVIDIA compute power.
 
 Fox News • 2d ago
+
+---
+
+**[Bedrock Robotics raises $270M in red-hot AI sector](https://www.constructiondive.com/news/bedrock-robotics-raise-ai-automation-funding/811982/)**
+
+The autonomous construction tech provider now boasts total funding of over $350 million and a valuation of $1.75 billion.
+
+Construction Dive • 1d ago
 
 ---
 
@@ -176,7 +176,15 @@ The Robot Report • 2d ago
 
 &nbsp;
 
-Globes - Israel Business News • 1d ago
+Globes - Israel Business News • 2d ago
+
+---
+
+**[Alibaba Pushes Into Robotics AI With Open-Source ‘RynnBrain’](https://finance.yahoo.com/news/alibaba-pushes-robotics-ai-open-065326706.html)**
+
+The Chinese company’s DAMO Academy introduced an open-source foundation model that engages with the environment, understands space in relation to time and can figure out steps toward completing a task.  With the release, Alibaba takes on AI leaders including Alphabet Inc.’s Google and Nvidia Corp. The Chinese firm claimed state-of-the-art results on benchmarks against Google’s Gemini Robotics-ER 1.5 and Nvidia’s Cosmos-Reason2.  Trained on Alibaba’s Qwen3-VL vision language model, RynnBrain is available on platforms like Hugging Face and GitHub in multiple versions starting as small as 2 billion parameters to a more efficient mixture-of-experts version.
+
+Yahoo Finance • 3d ago
 
 ---
 
@@ -185,14 +193,6 @@ Globes - Israel Business News • 1d ago
 Larry Savage, a professor of labour studies at Brock University, says governments might need to step in to help protect jobs that are under the threat of automation.
 
 Automotive News • 1d ago
-
----
-
-**[Construction Embraces AI Agents, Safety Systems and Robotics as Labor Pressures Mount](https://www.pymnts.com/artificial-intelligence-2/2026/construction-embraces-ai-agents-safety-systems-and-robotics-as-labor-pressures-mount/)**
-
-Artificial intelligence is no longer confined to experimental pilots in the construction industry. It is moving into the operational core of how projects
-
-PYMNTS.com • 2d ago
 
 ---
 
@@ -206,35 +206,7 @@ A massive robotics shift is unfolding right in front of us. Boston Dynamics has 
 
 📺 AI Revolution
 
-👁️ 80K • 👍 2K • 💬 148 • ⏱️ 11:59 • 2d ago
-
----
-
-**[Tiny Robots That Dissolve Kidney Stones 😮](https://www.youtube.com/watch?v=FVXOj-VrJFc)**
-
-📺 Zack D. Films
-
-👁️ 3.6M • 👍 146K • 💬 1K • ⏱️ 0:23 • 20h ago
-
----
-
-**[Chinese robotics company’s world-first humanoid machine gala reveals high-tech surprises](https://www.youtube.com/watch?v=lW8_aHE68BE)**
-
-Chinese robotics company AGIBOT redefined the intersection of technology and culture by hosting a historic 60-minute gala ...
-
-📺 ABS-CBN News
-
-👁️ 8K • 👍 70 • 💬 51 • ⏱️ 3:09 • 1d ago
-
----
-
-**[The AI Robot Situation Is Growing Faster Than We Think… ](https://www.youtube.com/watch?v=fkyChIRSF18)**
-
-The AI and robot situation is growing much faster than we think. Ai, mass surveillance, and robots not only working in the streets, ...
-
-📺 Aaron Page 
-
-👁️ 21K • 👍 1K • 💬 164 • ⏱️ 24:43 • 1d ago
+👁️ 81K • 👍 2K • 💬 148 • ⏱️ 11:59 • 2d ago
 
 ---
 
@@ -244,27 +216,27 @@ War Robots Gameplay, trying the UE VORTEX NUO but realizing that the robot is un
 
 📺 Manni-Gaming
 
-👁️ 21K • 👍 1K • 💬 367 • ⏱️ 10:29 • 1d ago
+👁️ 21K • 👍 1K • 💬 374 • ⏱️ 10:29 • 1d ago
 
 ---
 
-**[The Humanoid Takeover: $50T Market, Figure&#39;s Full Body Autonomy, and Robots in Dorms #229](https://www.youtube.com/watch?v=S_fXhVT67Uw)**
+**[Chinese robotics company’s world-first humanoid machine gala reveals high-tech surprises](https://www.youtube.com/watch?v=lW8_aHE68BE)**
 
-Peter & Dave sit down with Brett Adcock to discuss the future of Figure and Humanoid Robots. Get access to metatrends 10+ ...
+Chinese robotics company AGIBOT redefined the intersection of technology and culture by hosting a historic 60-minute gala ...
 
-📺 Peter H. Diamandis
+📺 ABS-CBN News
 
-👁️ 83K • 👍 2K • 💬 1K • ⏱️ 1:43:48 • 1d ago
+👁️ 8K • 👍 74 • 💬 52 • ⏱️ 3:09 • 1d ago
 
 ---
 
-**[Humanoid Robot Falls in Front of Everyone](https://www.youtube.com/watch?v=4M0y26U_FRk)**
+**[Tesla Was Never a Car Company #teslaoptimus  #elonmusk  #teslarobot  #teslabotgen3 #humanoidrobots](https://www.youtube.com/watch?v=slqW7zBA6Oc)**
 
-XPeng's humanoid robot IRON went viral after it fell during its first offline public demo at MixC Shenzhen Bay in Shenzhen on ...
+They laughed when Elon Musk brought a man in a spandex suit on stage. But in 2026, nobody is laughing. Tesla was never a car ...
 
-📺 Game of Tomorrow
+📺 By 2050
 
-👁️ 611K • 👍 11K • 💬 948 • ⏱️ 0:48 • 3d ago
+👁️ 1.6M • 👍 25K • 💬 623 • ⏱️ 1:00 • 4d ago
 
 ---
 
@@ -274,7 +246,45 @@ Cardi B falls while dancing on a robot ©️ to tmz #cardib **Fair Use Disclaime
 
 📺 POPVEIN
 
-👁️ 2.6M • 👍 28K • 💬 489 • ⏱️ 0:08 • 5d ago
+👁️ 2.7M • 👍 28K • 💬 491 • ⏱️ 0:08 • 5d ago
+
+---
+
+**[Tiny Robots That Dissolve Kidney Stones 😮](https://www.youtube.com/watch?v=FVXOj-VrJFc)**
+
+📺 Zack D. Films
+
+👁️ 3.9M • 👍 156K • 💬 1K • ⏱️ 0:23 • 21h ago
+
+---
+
+**[The Humanoid Takeover: $50T Market, Figure&#39;s Full Body Autonomy, and Robots in Dorms #229](https://www.youtube.com/watch?v=S_fXhVT67Uw)**
+
+Peter & Dave sit down with Brett Adcock to discuss the future of Figure and Humanoid Robots. Get access to metatrends 10+ ...
+
+📺 Peter H. Diamandis
+
+👁️ 85K • 👍 2K • 💬 1K • ⏱️ 1:43:48 • 1d ago
+
+---
+
+**[Atlas Airborne | Boston Dynamics &amp; @rai-inst](https://www.youtube.com/watch?v=UNorxwlZlFk)**
+
+Now that the Atlas enterprise platform is getting to work, the research version gets one last run in the sun. Our engineers made ...
+
+📺 Boston Dynamics
+
+👁️ 1.5M • 👍 42K • 💬 4K • ⏱️ 1:38 • 5d ago
+
+---
+
+**[Atlas Airborne Robot Shows the Final Evolution of Boston Dynamics](https://www.youtube.com/watch?v=IjRjKwZhYCQ)**
+
+The Atlas Airborne Robot takes one final research run as Boston Dynamics pushes humanoid robot control to its absolute limit.
+
+📺 DPCcars
+
+👁️ 75K • 👍 546 • 💬 92 • ⏱️ 2:45 • 5d ago
 
 ---
 
@@ -284,17 +294,7 @@ Bully #toys #eilik #funny.
 
 📺 Pro Activate Shop
 
-👁️ 145K • 👍 676 • 💬 2 • ⏱️ 0:17 • 2d ago
-
----
-
-**[Trump Stunned as Elon Musk’s AI Robot Serves Coffee](https://www.youtube.com/watch?v=_QH74ry8PZY)**
-
-Trump looks stunned as an AI-powered robot linked to Elon Musk calmly serves him a cup of coffee. A simple moment that feels ...
-
-📺 “Trending World”
-
-👁️ 446K • 👍 3K • 💬 76 • ⏱️ 0:08 • 1d ago
+👁️ 148K • 👍 687 • 💬 2 • ⏱️ 0:17 • 2d ago
 
 ---
 
