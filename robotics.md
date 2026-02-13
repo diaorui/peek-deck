@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-02-13T17:24:01.945933+00:00'
+updated: '2026-02-13T18:03:16.491310+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- social
-- videos
 - news
+- videos
+- social
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** February 13, 2026 at 17:24 UTC  
+**Last Updated:** February 13, 2026 at 18:03 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -36,7 +36,7 @@ Robotics research and industry news
 
 I posted a video a couple of days ago on r/esp32 showing my Open-Source robot dance, and some people wanted to see it walk ... here you go ! Got a complete walking gate & added remote control :) Everything runs on the ESP32-S3 ! What do you think ?
 
-3h ago
+4h ago
 
 ---
 
@@ -44,7 +44,7 @@ I posted a video a couple of days ago on r/esp32 showing my Open-Source robot da
 
 Hi I have an FPV drone that i want to control using a Raspberry Pi. For this i want to connect the RPi to the Flight controller and use it as a companion computer. I am using a GEPRC TAKER F745 currently on a BetaFlight firmware. Any suggestions on how i can connect them or what firmware (Ardupilot/PX4) i can use with ROS2 on the RPi.
 
-55m ago
+1h ago
 
 ---
 
@@ -68,7 +68,7 @@ I built this last year. Made those suction cups from scratch, it has camera, TOF
 
 As someone starting research in robotics, this has been on my mind for a while. I see a new VLA every week claiming it outperforms XYZ with better quality and more data. If that’s all it takes, what problems are actually still open? If everything can be countered with “just get more data,” what is left to research?
 
-23h ago
+1d ago
 
 ---
 
@@ -84,7 +84,7 @@ We're sharing how we bridged the Sim-to-Real gap by simulating the embedded syst
 
 Hi! I’ve been using TurtleBot with Gazebo Classic for a simulation project and recently migrated my model to Gazebo Ignition. Since the migration I’ve run into a few issues, especially with wall and floor textures (which I understand is expected due to conversion), but the main problem is visible gaps between walls. I attached screenshots showing how a section of the map is supposed to look vs how it currently looks in Ignition. I tried slightly increasing the wall lengths, but it didn’t noticeably improve the gaps. Does anyone know what typically causes this after Classic to Ignition conversion or how to properly fix it? I’m not sure if this is a common issue, but I wasn’t able to find much information about it online, so apologies if this is something obvious. This is a bit time-sensitive, so I’d really appreciate any guidance!
 
-18h ago
+19h ago
 
 ---
 
@@ -92,7 +92,7 @@ Hi! I’ve been using TurtleBot with Gazebo Classic for a simulation project and
 
 Boston Dynamics CEO Robert Playter told staff on Tuesday that he'll be stepping down from the company. He first joined Boston Dynamics in 1994.
 
-🔗 [Business Insider](https://www.businessinsider.com/boston-dynamics-ceo-robert-playter-steps-down-memo-2026-2) • 1d ago
+🔗 [Business Insider](https://www.businessinsider.com/boston-dynamics-ceo-robert-playter-steps-down-memo-2026-2) • 2d ago
 
 ---
 
@@ -136,7 +136,7 @@ Nature • 1d ago
 
 This ChinaPower feature examines China's push to lead the world in robotics and the geopolitical implications.
 
-ChinaPower Project • 21h ago
+ChinaPower Project • 22h ago
 
 ---
 
@@ -168,7 +168,7 @@ Automotive News • 1d ago
 
 Fauna Robotics is launching Sprout as a developer platform for humanoid robots. The robot features 29 degrees of freedom and NVIDIA compute power.
 
-Fox News • 2d ago
+Fox News • 3d ago
 
 ---
 
@@ -226,7 +226,7 @@ Can a little Pi-powered bot teach my kids? The Reachy Mini Wireless I used was p
 
 📺 Jeff Geerling
 
-👁️ 6K • 👍 844 • 💬 85 • ⏱️ 12:38 • 2h ago
+👁️ 6K • 👍 844 • 💬 85 • ⏱️ 12:38 • 3h ago
 
 ---
 

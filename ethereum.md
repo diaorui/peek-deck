@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-02-13T17:24:01.942638+00:00'
+updated: '2026-02-13T18:03:16.488535+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- social
-- videos
 - news
+- videos
 - cryptocurrency
+- social
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** February 13, 2026 at 17:24 UTC  
+**Last Updated:** February 13, 2026 at 18:03 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -72,7 +72,7 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-11h ago
+12h ago
 
 ---
 
@@ -80,7 +80,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 BlackRock BUIDL tradeable via UniswapX, ENS staying on mainnet, Solidity developer survey
 
-🔗 [Ethereal news](https://ethereal.news/ethereal-news-weekly-11/) • 4h ago
+🔗 [Ethereal news](https://ethereal.news/ethereal-news-weekly-11/) • 5h ago
 
 ---
 
@@ -88,7 +88,7 @@ BlackRock BUIDL tradeable via UniswapX, ENS staying on mainnet, Solidity develop
 
 This is the second article in a series about deterministic deployments, where we explore the question: how can we deploy a contract at the same address in multiple chains? In the first part we discussed three possible answers: deploying with the same private key and nonce, using Nick’s method, and pre-signing transactions. In this entry we’ll discuss two other approaches: CREATE2 factories and CREATE3.
 
-🔗 [Cethology](https://paragraph.com/@cethology/deterministic-deployments-part-2-create2-based-approaches) • 8h ago
+🔗 [Cethology](https://paragraph.com/@cethology/deterministic-deployments-part-2-create2-based-approaches) • 9h ago
 
 ---
 
@@ -176,7 +176,7 @@ CoinDesk • 2h ago
 
 **[Bitcoin vs Ethereum ETFs: A Growing Capital Divide](https://www.binance.com/da-DK/square/post/291232832708625)**
 
-Binance • 2h ago
+Binance • 3h ago
 
 ---
 
@@ -192,7 +192,7 @@ dlnews.com • 1h ago
 
 Blackrock’s Bitmine share holdings jumped 166% in the fourth-quarter of 2025. CEO Larry Fink is bullish on tokenisation with the company citing Ethereum as the big winner.
 
-Yahoo Finance • 7h ago
+Yahoo Finance • 8h ago
 
 ---
 
@@ -208,13 +208,13 @@ Sherwood News • 2d ago
 
 Ethereum is attempting to stabilize after its recent pullback, but the recovery so far lacks convincing strength. With price rejecting key levels and higher-timeframe risks still looming, ETH finds itself at a critical decision point where the next structural move could define the short-term trend…
 
-TradingView • 15h ago
+TradingView • 16h ago
 
 ---
 
 **[Ethereum Price Braces for Impact as Standard Chartered Predicts a $1,400 Bottom](https://www.tipranks.com/news/ethereum-price-braces-for-impact-as-standard-chartered-predicts-a-1400-bottom)**
 
-TipRanks • 2h ago
+TipRanks • 3h ago
 
 ---
 
@@ -222,7 +222,7 @@ TipRanks • 2h ago
 
 Bitcoin (BTC), Ethereum (ETH) and Ripple (XRP) remain under pressure, extending losses of over 5%, 6% and 4%, respectively, so far this week. BTC trades below $67,000 while ETH and XRP correct after facing rejection around key levels.
 
-FXStreet • 13h ago
+FXStreet • 14h ago
 
 ---
 
@@ -236,7 +236,7 @@ This video provides a professional Elliott Wave and technical analysis of Ethere
 
 📺 More Crypto Online
 
-👁️ 617 • 👍 87 • 💬 17 • ⏱️ 3:30 • 1h ago
+👁️ 617 • 👍 87 • 💬 17 • ⏱️ 3:30 • 2h ago
 
 ---
 
@@ -256,7 +256,7 @@ This video provides a professional Elliott Wave and technical analysis of Ethere
 
 📺 More Crypto Online
 
-👁️ 2K • 👍 124 • 💬 5 • ⏱️ 4:01 • 13h ago
+👁️ 2K • 👍 124 • 💬 5 • ⏱️ 4:01 • 14h ago
 
 ---
 
@@ -286,7 +286,7 @@ BITCOIN & ALTCOIN WARNING: It's Happening AGAIN!!!! - Bitcoin News Today, Ethere
 
 📺 Crypto World
 
-👁️ 10K • 👍 392 • 💬 203 • ⏱️ 21:40 • 21h ago
+👁️ 10K • 👍 392 • 💬 203 • ⏱️ 21:40 • 22h ago
 
 ---
 

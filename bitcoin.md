@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-02-13T17:24:01.936577+00:00'
+updated: '2026-02-13T18:03:16.483349+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- social
-- videos
 - news
+- videos
 - cryptocurrency
+- social
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** February 13, 2026 at 17:24 UTC  
+**Last Updated:** February 13, 2026 at 18:03 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -81,7 +81,7 @@ Rank #1
 
 Like minnows in the ocean, or more like… plankton Motivating seeing everyone’s big buys and sometimes hard to see what everyone else is moving and sticking to putting in what won’t ruin me if I lose! Been DCAing since £57k and have bigger orders set at £45k,50,55 etc. maybe I’ll be a wholecoiner in 500 years! Hah
 
-7h ago
+8h ago
 
 ---
 
@@ -89,7 +89,7 @@ Like minnows in the ocean, or more like… plankton Motivating seeing everyone�
 
 like we was just vibing near 100k, everybody loud, posting rockets, acting rich in theory then boom 90 80 70 just casually opening doors like “you forgot something down here” bro who asked for this my portfolio looking at me like I did something wrong and there’s always that one guy “it’s a healthy correction” healthy?? I’m stressed eating cereal at 2am watching candles bleed bitcoin don’t even walk downstairs it just throws itself down still not selling tho but damn can we chill for five minutes
 
-7h ago
+8h ago
 
 ---
 
@@ -129,7 +129,7 @@ Well…
 
 **[Just HODL it](https://www.reddit.com/r/Bitcoin/comments/1r3jy6b/just_hodl_it/)**
 
-8h ago
+9h ago
 
 ---
 
@@ -137,7 +137,7 @@ Well…
 
 Just want to let you know that bitcoin will reach 38,000 according to my dream. I’m still DCA everyday with full confidence. Your welcome
 
-13h ago
+14h ago
 
 ---
 
@@ -177,13 +177,13 @@ Yahoo Finance • 1d ago
 
 Bitcoin hovered near $65,000 on Thursday as investor disappointment grew over its failure to track gold's climb this year.
 
-Yahoo Finance • 22h ago
+Yahoo Finance • 23h ago
 
 ---
 
 **[Bitcoin’s plunge should end the hype that it is digital gold](https://thehill.com/opinion/finance/5735525-bitcoin-gold-performance-disparity/)**
 
-The Hill • 54m ago
+The Hill • 1h ago
 
 ---
 
@@ -213,7 +213,7 @@ Fortune • 1d ago
 
 The corporate adoption of bitcoin was dominated by a single player last month — Strategy.
 
-Bitcoin Magazine • 22h ago
+Bitcoin Magazine • 23h ago
 
 ---
 
@@ -221,7 +221,7 @@ Bitcoin Magazine • 22h ago
 
 Bitcoin-buying firms delivered on demand last year, but they struggled to keep up with market leader Strategy for a fourth straight month.
 
-Yahoo Finance • 23h ago
+Yahoo Finance • 1d ago
 
 ---
 
@@ -267,7 +267,7 @@ Local opponents criticise legislation that will facilitate ‘networked state’
 
 Bithumb, Korea's second-largest cryptocurrency exchange, mistakenly credited users with Bitcoin worth approximately 260 billion won ($195 million), instead of the modest number of reward points or Bitcoin that it had intended to distribute.
 
-⬆️ 4 • 💬 0 • 5d ago • [koreajoongangdaily.joins.com](https://koreajoongangdaily.joins.com/news/2026-02-07/business/finance/Crypto-exchange-Bithumb-mistakenly-hands-out-195M-in-Bitcoin-to-users-in-Random-Box-giveaway/2518495)
+⬆️ 4 • 💬 0 • 6d ago • [koreajoongangdaily.joins.com](https://koreajoongangdaily.joins.com/news/2026-02-07/business/finance/Crypto-exchange-Bithumb-mistakenly-hands-out-195M-in-Bitcoin-to-users-in-Random-Box-giveaway/2518495)
 
 ---
 
@@ -291,7 +291,7 @@ The move triggered a sharp selloff on the Bithumb exchange. The company apologiz
 
 What do Bitcoin miners actually do? An interactive exploration of hashing, difficulty adjustment, and why proof of work makes Bitcoin sound money.
 
-⬆️ 2 • 💬 2 • 1d ago • [bennet.org](https://bennet.org/learn/proof-of-work-what-bitcoin-mining-really-does/)
+⬆️ 2 • 💬 2 • 2d ago • [bennet.org](https://bennet.org/learn/proof-of-work-what-bitcoin-mining-really-does/)
 
 ---
 
@@ -299,7 +299,7 @@ What do Bitcoin miners actually do? An interactive exploration of hashing, diffi
 
 Explore everything you can do as a lightning app builder using Alby - getAlby/sandbox
 
-⬆️ 2 • 💬 1 • 3h ago • [GitHub](https://github.com/getAlby/sandbox)
+⬆️ 2 • 💬 1 • 4h ago • [GitHub](https://github.com/getAlby/sandbox)
 
 ---
 
@@ -313,7 +313,7 @@ Bitcoin's crash off its all time high and then its sudden crash last week. It le
 
 📺 Mark Moss
 
-👁️ 179K • 👍 7K • 💬 1K • ⏱️ 16:43 • 21h ago
+👁️ 179K • 👍 7K • 💬 1K • ⏱️ 16:43 • 22h ago
 
 ---
 
@@ -363,7 +363,7 @@ Fred Thiel is the CEO of Marathon Digital and a leading voice at the intersectio
 
 📺 Anthony Pompliano
 
-👁️ 38K • 👍 1K • 💬 68 • ⏱️ 18:55 • 19h ago
+👁️ 38K • 👍 1K • 💬 68 • ⏱️ 18:55 • 20h ago
 
 ---
 
@@ -383,7 +383,7 @@ Kyledoops gives his downside targets for what is getting setup to be a violent m
 
 📺 Crypto Banter
 
-👁️ 18K • 👍 2K • 💬 20 • ⏱️ 39:02 • 9h ago
+👁️ 18K • 👍 2K • 💬 20 • ⏱️ 39:02 • 10h ago
 
 ---
 
