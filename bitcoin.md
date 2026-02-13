@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-02-13T02:25:47.102390+00:00'
+updated: '2026-02-13T04:33:13.794657+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- social
 - cryptocurrency
-- videos
 - news
+- social
+- videos
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** February 13, 2026 at 02:25 UTC  
+**Last Updated:** February 13, 2026 at 04:33 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,23 +38,23 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $66,137.66
+### $66,496.73
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** -1.6%  
-**7d:** -4.1%  
-**30d:** -30.4%  
-**90d:** -29.5%  
-**1y:** -31.8%  
+**24h:** -1.1%  
+**7d:** -4.2%  
+**30d:** -30.5%  
+**90d:** -29.6%  
+**1y:** -31.9%  
 
 ---
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1327.21B
+**Market Cap:** $1327.94B
 Rank #1
 
 **Circulating Supply:** 19,988,443 BTC
@@ -64,7 +64,7 @@ Rank #1
 -47.3%
 
 **All-Time Low:** $67.81
-+97860.5%
++97807.4%
 
 ---
 
@@ -77,21 +77,21 @@ Rank #1
 
 ## Reddit: r/Bitcoin
 
-**[Which one are you?](https://www.reddit.com/r/Bitcoin/comments/1r32e5a/which_one_are_you/)**
+**[VanEck said it knows 13 governments that are actively mining Bitcoin](https://www.reddit.com/r/Bitcoin/comments/1r35qqv/vaneck_said_it_knows_13_governments_that_are/)**
 
 7h ago
 
 ---
 
-**[Bitcoin, what are you doing](https://www.reddit.com/r/Bitcoin/comments/1r2u1yl/bitcoin_what_are_you_doing/)**
+**[Which one are you?](https://www.reddit.com/r/Bitcoin/comments/1r32e5a/which_one_are_you/)**
 
-12h ago
+9h ago
 
 ---
 
-**[VanEck said it knows 13 governments that are actively mining Bitcoin](https://www.reddit.com/r/Bitcoin/comments/1r35qqv/vaneck_said_it_knows_13_governments_that_are/)**
+**[Bitcoin, what are you doing](https://www.reddit.com/r/Bitcoin/comments/1r2u1yl/bitcoin_what_are_you_doing/)**
 
-5h ago
+14h ago
 
 ---
 
@@ -99,7 +99,7 @@ Rank #1
 
 Well…
 
-2h ago
+4h ago
 
 ---
 
@@ -107,7 +107,7 @@ Well…
 
 I set alerts for my dip buying strategy. I have been buying since $80K and these are my next targets. Hope it all hit perfectly. I may increase the amounts depending on my savings.
 
-15h ago
+18h ago
 
 ---
 
@@ -115,23 +115,23 @@ I set alerts for my dip buying strategy. I have been buying since $80K and these
 
 Since bitcoin is dropping, please advise on should I keep this win? I have never invested in crypto and have no idea what to do with this. Yes it was pure dumb luck. Now pleas help!
 
-6h ago
+8h ago
 
 ---
 
-**[BlackRock exec says 1% crypto allocation in Asia could unlock $2 trillion in new flows](https://www.reddit.com/r/Bitcoin/comments/1r2nepp/blackrock_exec_says_1_crypto_allocation_in_asia/)**
+**[I had a dream that bitcoin hit 38,000.](https://www.reddit.com/r/Bitcoin/comments/1r3f0ls/i_had_a_dream_that_bitcoin_hit_38000/)**
 
-BlackRock exec says 1% crypto allocation in Asia could unlock $2 trillion in new flows
+Just want to let you know that bitcoin will reach 38,000 according to my dream. I’m still DCA everyday with full confidence. Your welcome
 
-🔗 [s.followin.io](https://s.followin.io/s/yYHesWRHFD) • 18h ago
+34m ago
 
 ---
 
-**[Just buy bitcoin and self-custody. $1 bought and REMOVED from exchanges wipes out $5 of short derivatives.](https://www.reddit.com/r/Bitcoin/comments/1r28adn/just_buy_bitcoin_and_selfcustody_1_bought_and/)**
+**[Tired of manually tracking - (plus everything is red, so no motivation left)](https://www.reddit.com/r/Bitcoin/comments/1r3evku/tired_of_manually_tracking_plus_everything_is_red/)**
 
-It's estimated 80% of the price decline seen in the past 30 days is from derivative trading - leveraged bets that don't actually touch real bitcoin. They just get to push price down and do it by higher volume than what's being bet in real value terms. But did you know holding bitcoin on an exchange helps derivatives continue to trade like this? When you remove actual bitcoin from exchanges, it pulls out liquidity and squeezes the paper bets. When evaluating risks on shorts contracts that need to settle, a contributing factor is how much bitcoin is sitting on exchanges, regardless of if you have an open order. When synthetic exposure grows faster than actual bitcoin on exchanges... bad stuff happens to those who short bitcoin. It doesn't work the other way around. There's no inverse of having higher ratio of long bets in derivatives and not enough bitcoin liquidity.
+I used Shrimpy in the past, although they had limitations but they did the job. It made rebalancing my crypto portfolio so simple. But after they got acquired in 2023, it kind of stopped being useful for me. Since then, I’ve been trying to manage everything in Google Sheets. And honestly, it’s a nightmare. Calculating each allocation was a hassle for me, so I looked up on youtube to get live coingecko prices into it, so it got somewhat easier. Am I doing it the wrong way? My job is getting hectic and I am not able to find time to keep track of my allocations anymore.
 
-1d ago
+41m ago
 
 ---
 
@@ -139,15 +139,15 @@ It's estimated 80% of the price decline seen in the past 30 days is from derivat
 
 Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.
 
-🔗 [youtu.be](https://youtu.be/CtMmNTc4yho?si=KsfHcWT8SHWGRs6S) • 5h ago
+🔗 [youtu.be](https://youtu.be/CtMmNTc4yho?si=KsfHcWT8SHWGRs6S) • 7h ago
 
 ---
 
-**[Taxes](https://www.reddit.com/r/Bitcoin/comments/1r2rlwk/taxes/)**
+**[BlackRock exec says 1% crypto allocation in Asia could unlock $2 trillion in new flows](https://www.reddit.com/r/Bitcoin/comments/1r2nepp/blackrock_exec_says_1_crypto_allocation_in_asia/)**
 
-It fkn sucks that we have to pay taxes on LITERALLY everything here in sweden, with that said.. the government does the calculating and we just have to file the document.. but thats not the case for crypto and btc… i have to do it on my own and the process seems intimidating cuz its not only 30% of the profit that i have to calculate but something called “cost basis” on EVERY transaction so that when i sell (the taxable event) i have all my numbers… anyone going through the same would appreciate some help and tips..
+BlackRock exec says 1% crypto allocation in Asia could unlock $2 trillion in new flows
 
-14h ago
+🔗 [s.followin.io](https://s.followin.io/s/yYHesWRHFD) • 20h ago
 
 ---
 
@@ -155,11 +155,23 @@ It fkn sucks that we have to pay taxes on LITERALLY everything here in sweden, w
 
 ## Google News: "bitcoin"
 
+**[Bitcoin Under Pressure in Asia After Standard Chartered Warning](https://www.bloomberg.com/news/articles/2026-02-13/bitcoin-btc-under-pressure-in-asia-after-standard-chartered-warning)**
+
+Bloomberg.com • 2h ago
+
+---
+
+**[Bitcoin price steadies but fresh fears suggest slide to $52k](https://uk.finance.yahoo.com/news/bitcoin-price-crypto-us-jobs-101234268.html)**
+
+Yahoo Finance UK • 18h ago
+
+---
+
 **[Bitcoin price news: BTC falls back to $65,000 as software sector slides 3%](https://www.coindesk.com/markets/2026/02/12/bitcoin-tumbles-back-near-last-week-s-lows-as-ai-fears-crush-tech-and-precious-metals-plunge)**
 
 The strong correlation between crypto and the software sector reasserted itself on Wednesday
 
-CoinDesk • 25m ago
+CoinDesk • 2h ago
 
 ---
 
@@ -169,41 +181,31 @@ Reuters • 1d ago
 
 ---
 
+**[Bitcoin Leads a Fresh Crypto Slide: Here's What It Means for Ethereum and Solana Investors](https://finance.yahoo.com/news/bitcoin-leads-fresh-crypto-slide-035000476.html)**
+
+Bitcoin's seemingly random tumble doesn't bode well for the crypto sector's near term.
+
+Yahoo Finance • 43m ago
+
+---
+
 **[Bitcoin's drawdown hit 50%. History shows it may have further to go](https://www.cnbc.com/2026/02/12/bitcoins-drawdown-hit-50percent-history-shows-it-may-have-further-to-go.html)**
 
 Bitcoin has a history of falling about 75% during each four-year cycle, suggesting the token is on track to fall even further in the near future.
 
-CNBC • 12h ago
-
----
-
-**[Bitcoin reportedly sent to wallet associated with Nancy Guthrie’s ransom letter providing potential clue in investigation](https://fortune.com/2026/02/11/bitcoin-reportedly-sent-to-wallet-associated-with-nancy-guthries-ransom-letter/)**
-
-Meanwhile, authorities released surveillance video showing the alleged captor who remains at large.
-
-Fortune • 1d ago
-
----
-
-**[Crypto expert explains why bitcoin makes 'perfect record' for tracking down criminals](https://www.foxbusiness.com/lifestyle/crypto-expert-explains-why-bitcoin-makes-perfect-record-tracking-down-criminals)**
-
-Blockchain technology makes cryptocurrency transactions fully traceable on public ledgers, creating powerful tools for law enforcement investigations.
-
-Fox Business • 16h ago
+CNBC • 14h ago
 
 ---
 
 **[Crypto wallet in Nancy Guthrie note is traceable: Blockchain analyst](https://www.newsnationnow.com/crime/crypto-wallet-nancy-guthrie/)**
 
-NewsNation • 20h ago
+NewsNation • 22h ago
 
 ---
 
-**[Peter Lynch's Protege Calls Cramer's $60K Bitcoin Reserve Theory 'Complete Nonsense'](https://finance.yahoo.com/news/peter-lynchs-protege-calls-cramers-003650613.html)**
+**[Robinhood’s stock is now trading almost exactly like bitcoin — but it really shouldn’t be](https://www.marketwatch.com/story/robinhoods-stock-is-now-trading-almost-exactly-like-bitcoin-but-it-really-shouldnt-be-a9a88715?gaa_at=eafs&gaa_n=AWEtsqfKdUL2cAJMp0ZiZz0IqMjCp2r1iqwrKQXHdSvBzWbQQ2IPIDwKmNMQ&gaa_ts=698eacef&gaa_sig=SumDarLl-aw2OARtFNDmrBXQdDNXl42c0znLl_BFTHv7y5HcArqSJPsL46oMI8KRHuW9M3PQ0FESo1pi4pTpqw%3D%3D)**
 
-When Bitcoin (CRYPTO: BTC) hit the panic tape, Jim Cramer hit the TV. That's the problem. On Friday, Bitcoin slid to $60,000 — down 52% from its October peak with more than $1.2 trillion in value wiped out. Within hours,...
-
-Yahoo Finance • 1h ago
+MarketWatch • 7h ago
 
 ---
 
@@ -219,15 +221,7 @@ CNBC • 2d ago
 
 The corporate adoption of bitcoin was dominated by a single player last month — Strategy.
 
-Bitcoin Magazine • 7h ago
-
----
-
-**[Strategy Inc Leans On Stretch Preferreds To Deepen Bitcoin Exposure](https://finance.yahoo.com/news/strategy-inc-leans-stretch-preferreds-011221004.html)**
-
-Strategy Inc (NasdaqGS:MSTR) plans to issue a new class of perpetual preferred equity, branded "Stretch," to fund further Bitcoin purchases. The company is shifting away from issuing additional common equity in an effort to limit dilution for existing shareholders. The Stretch securities come with fixed dividend obligations, increasing ongoing funding commitments. This change comes while the company holds multi billion dollar unrealized losses on its Bitcoin position and faces persistent...
-
-Yahoo Finance • 1h ago
+Bitcoin Magazine • 9h ago
 
 ---
 
@@ -281,7 +275,7 @@ Bithumb, Korea's second-largest cryptocurrency exchange, mistakenly credited use
 
 Hybrid Post-Quantum Bitcoin Wallet — ML-DSA + Falcon signatures on BIP-341 Taproot PSBTs. 136/136 tests passing. No soft fork required. - emilianosolazzi/PQ-PSBT-WALLET
 
-⬆️ 3 • 💬 2 • 1d ago • [GitHub](https://github.com/emilianosolazzi/PQ-PSBT-WALLET)
+⬆️ 3 • 💬 2 • 2d ago • [GitHub](https://github.com/emilianosolazzi/PQ-PSBT-WALLET)
 
 ---
 
@@ -289,7 +283,7 @@ Hybrid Post-Quantum Bitcoin Wallet — ML-DSA + Falcon signatures on BIP-341 Tap
 
 The move triggered a sharp selloff on the Bithumb exchange. The company apologized for the mistake.
 
-⬆️ 3 • 💬 0 • 3d ago • [CNBC](https://www.cnbc.com/2026/02/07/south-korean-crypto-firm-accidentally-sends-out-44-billion-in-bitcoin.html)
+⬆️ 3 • 💬 0 • 4d ago • [CNBC](https://www.cnbc.com/2026/02/07/south-korean-crypto-firm-accidentally-sends-out-44-billion-in-bitcoin.html)
 
 ---
 
@@ -313,23 +307,13 @@ Bithumb has apologised for staff error that sent customers 620,000 bitcoins inst
 
 ## YouTube Videos: "bitcoin"
 
-**[Is the Bitcoin Collapse About to Get WORSE?](https://www.youtube.com/watch?v=s3vLS0fWMZ0)**
+**[The Secret Reason Behind Bitcoin&#39;s Crash (And What Actually Matters)](https://www.youtube.com/watch?v=yD0b2PXuwNI)**
 
-Bitcoin #Crypto #Finance Stay ahead of the market — FREE Join the DataDash Pro newsletter ...
+Bitcoin's crash off its all time high and then its sudden crash last week. It left many people stunned and it took a couple days.
 
-📺 DataDash
+📺 Mark Moss
 
-👁️ 5K • 👍 309 • 💬 23 • ⏱️ 15:09 • 10h ago
-
----
-
-**[Bitcoin and Crypto At EXTREME Fear Levels Never Seen Before](https://www.youtube.com/watch?v=D31PIso6rsA)**
-
-Predict Crypto, Sports, Politics & More on *ClashPicks* ▻ https://www.clashpicks.com/ Follow ClashPicks' X ...
-
-📺 CryptosRUs
-
-👁️ 26K • 👍 1K • 💬 166 • ⏱️ 51:44 • 10h ago
+👁️ 101K • 👍 5K • 💬 690 • ⏱️ 16:43 • 8h ago
 
 ---
 
@@ -339,37 +323,17 @@ Fred Thiel is the CEO of Marathon Digital and a leading voice at the intersectio
 
 📺 Anthony Pompliano
 
-👁️ 14K • 👍 698 • ⏱️ 18:55 • 4h ago
+👁️ 22K • 👍 868 • 💬 59 • ⏱️ 18:55 • 6h ago
 
 ---
 
-**[The Secret Reason Behind Bitcoin&#39;s Crash (And What Actually Matters)](https://www.youtube.com/watch?v=yD0b2PXuwNI)**
+**[Is the Bitcoin Collapse About to Get WORSE?](https://www.youtube.com/watch?v=s3vLS0fWMZ0)**
 
-Bitcoin's crash off its all time high and then its sudden crash last week. It left many people stunned and it took a couple days.
+Bitcoin #Crypto #Finance Stay ahead of the market — FREE Join the DataDash Pro newsletter ...
 
-📺 Mark Moss
+📺 DataDash
 
-👁️ 78K • 👍 4K • 💬 625 • ⏱️ 16:43 • 6h ago
-
----
-
-**[How low will Bitcoin go?](https://www.youtube.com/watch?v=WUJwW3mf6to)**
-
-Let's talk about a few indicators that give some suggestions on how low the price of Bitcoin could eventually go. Into The ...
-
-📺 Benjamin Cowen
-
-👁️ 132K • 👍 8K • 💬 622 • ⏱️ 23:30 • 22h ago
-
----
-
-**[Bitcoin Will Bottom At: $XX,679! (Bitcoin Price Prediction 2026)](https://www.youtube.com/watch?v=TjiAPa5fzQ8)**
-
-A MAJOR MOVEMENT IS AROUND THE CORNER! Are you ready? Sign Up For Phemex and Earn a brand new iPhone 16 ...
-
-📺 Crypto Jebb
-
-👁️ 7K • 👍 419 • 💬 188 • ⏱️ 18:47 • 7h ago
+👁️ 6K • 👍 322 • 💬 23 • ⏱️ 15:09 • 12h ago
 
 ---
 
@@ -379,27 +343,37 @@ We're watching the worst crypto crash since the FTX scandal. Ben McKenzie explai
 
 📺 More Perfect Union
 
-👁️ 948K • 👍 62K • 💬 5K • ⏱️ 2:50 • 1d ago
+👁️ 1.1M • 👍 67K • 💬 6K • ⏱️ 2:50 • 1d ago
 
 ---
 
-**[&quot;The Media Lied About Bitcoin Crash, Here&#39;s What Really Happened&quot; - Samson Mow NEW](https://www.youtube.com/watch?v=NkKMr7aGxOI)**
+**[Bitcoin and Crypto At EXTREME Fear Levels Never Seen Before](https://www.youtube.com/watch?v=D31PIso6rsA)**
 
-Samson Mow just dropped a BOMBSHELL about what's really happening to Bitcoin. The CEO of Jan3 — one of Bitcoin's biggest ...
+Predict Crypto, Sports, Politics & More on *ClashPicks* ▻ https://www.clashpicks.com/ Follow ClashPicks' X ...
 
-📺 Money Talks
+📺 CryptosRUs
 
-👁️ 1K • 👍 45 • 💬 155 • ⏱️ 10:33 • 7h ago
+👁️ 26K • 👍 1K • 💬 153 • ⏱️ 51:44 • 12h ago
 
 ---
 
-**[The Bitcoin Glitch: They Want You to Sell.](https://www.youtube.com/watch?v=Jpjyog2TQ1U)**
+**[Did Pam Bondi’s MELTDOWN Signal a Bitcoin BREAKOUT?](https://www.youtube.com/watch?v=aDL3QVutH8Q)**
 
-Bitcoin deep fear, is it a buying signal? Elon Musk warning. Join the Bitpanda evolution here ...
+Pam Bondi gets slammed on live TV and the cracks in the system are impossible to ignore. As global uncertainty explodes and the ...
 
-📺 Lark Davis
+📺 Simply Bitcoin
 
-👁️ 14K • 👍 757 • 💬 85 • ⏱️ 16:46 • 14h ago
+👁️ 12K • 👍 1K • 💬 196 • ⏱️ 21:31 • 5h ago
+
+---
+
+**[🚨Crypto Bottom Confirmed?](https://www.youtube.com/watch?v=Uyj68uKO5Sw)**
+
+The crypto market is at a massive crossroads. After the "Crypto Winter" correction that saw Bitcoin drop from its $126000 all-time ...
+
+📺 Discover Crypto
+
+👁️ 2K • 👍 185 • 💬 22 • ⏱️ 9:41 • 4h ago
 
 ---
 
@@ -409,7 +383,27 @@ Bitcoin deep fear, is it a buying signal? Elon Musk warning. Join the Bitpanda e
 
 📺 Fox Business
 
-👁️ 22K • 👍 555 • 💬 409 • ⏱️ 4:46 • 22h ago
+👁️ 23K • 👍 566 • 💬 412 • ⏱️ 4:46 • 1d ago
+
+---
+
+**[How low will Bitcoin go?](https://www.youtube.com/watch?v=WUJwW3mf6to)**
+
+Let's talk about a few indicators that give some suggestions on how low the price of Bitcoin could eventually go. Into The ...
+
+📺 Benjamin Cowen
+
+👁️ 136K • 👍 9K • 💬 632 • ⏱️ 23:30 • 1d ago
+
+---
+
+**[Bitcoin was made for this moment but now it&#39;s tanking?](https://www.youtube.com/watch?v=2453z1Ijuak)**
+
+This clip is from todays' episode 'Why Markets Can't Price AI' with Ed Elson, out now: https://youtu.be/sSy2UkbC-HI Prof G Markets ...
+
+📺 The Prof G Pod – Scott Galloway
+
+👁️ 15K • 👍 469 • 💬 42 • ⏱️ 1:28 • 2d ago
 
 ---
 

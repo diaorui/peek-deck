@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-02-13T02:25:47.111532+00:00'
+updated: '2026-02-13T04:33:13.803973+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
+- news
 - social
 - videos
-- news
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** February 13, 2026 at 02:25 UTC  
+**Last Updated:** February 13, 2026 at 04:33 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -32,6 +32,14 @@ Robotics research and industry news
 
 ## Reddit: r/robotics
 
+**[Lego strandbeest “moving”](https://www.reddit.com/r/robotics/comments/1r38nfn/lego_strandbeest_moving/)**
+
+part 2 is coming soon, I will be adding propellers and a wind vane so it can move even if the wind is coming from behind! also I may add motors someday:)
+
+5h ago
+
+---
+
 **[Wall climbing robot](https://www.reddit.com/r/robotics/comments/1r2dtva/wall_climbing_robot/)**
 
 I built this last year. Made those suction cups from scratch, it has camera, TOF and force/touch sensors. Does anyone see a useful use case for this robot? I’m of out of ideas! :)
@@ -40,19 +48,11 @@ I built this last year. Made those suction cups from scratch, it has camera, TOF
 
 ---
 
-**[Lego strandbeest “moving”](https://www.reddit.com/r/robotics/comments/1r38nfn/lego_strandbeest_moving/)**
-
-part 2 is coming soon, I will be adding propellers and a wind vane so it can move even if the wind is coming from behind! also I may add motors someday:)
-
-3h ago
-
----
-
 **[If scaling laws are the key and all we need is good data, what’s there to work on?](https://www.reddit.com/r/robotics/comments/1r2zkhf/if_scaling_laws_are_the_key_and_all_we_need_is/)**
 
 As someone starting research in robotics, this has been on my mind for a while. I see a new VLA every week claiming it outperforms XYZ with better quality and more data. If that’s all it takes, what problems are actually still open? If everything can be countered with “just get more data,” what is left to research?
 
-8h ago
+11h ago
 
 ---
 
@@ -60,7 +60,7 @@ As someone starting research in robotics, this has been on my mind for a while. 
 
 We're sharing how we bridged the Sim-to-Real gap by simulating the embedded system, not just the physics. We kept running into the same problem with Asimov Legs. Policies that worked perfectly in sim failed on hardware. Not because physics was off, but because of CAN packet delays, thread timing, and IMU drift. So we stopped simulating just the robot body and started simulating the entire embedded environment. Our production firmware (C/C++) runs unmodified inside the sim. It doesn't know it's in a simulation. The setup: MuJoCo Physics -> Raw IMU Data -> I2C Emulator -> Firmware Sensor Fusion (C) -> Control Loop -> CANBus Emulator -> Motor Emulator -> back to MuJoCo Raw accel/gyro data streams over an emulated I2C bus (register-level lsm6dsox behavior), firmware runs xioTechnologies/Fusion library in C for gravity estimation, and torque commands go through an emulated CANbus. The key part, Motor Emulator injects random jitter (0.4ms–2ms uniform) between command and response. Our motor datasheet claims 0.4ms response time. Reality is different: Firmware -> CMD Torque Request (t=0) -> CANbus Emulator -> [INJECTED JITTER 0.4-2.0ms] -> MuJoCo -> New State -> Firmware If the firmware isn't ready when the response comes back, the control loop breaks. Same as real life. This caught race conditions in threading, CAN parsing errors under load, policy jitter intolerance, and sensor fusion drift from timing mismatches. All stuff we used to only find on real hardware. Result: zero-shot sim2real locomotion on our 12-DOF biped from a single policy Forward/backward walking (0.6m/s), lateral movement, and push recovery Previously we tried this with a Unitree G1 and couldn't get there. Closed firmware hides the failure modes. Sim2real is fundamentally an observability problem. Full writeup with codes & analysis: https://news.asimov.inc/p/noise-is-all-you-need
 
-21h ago
+23h ago
 
 ---
 
@@ -76,7 +76,7 @@ Boston Dynamics CEO Robert Playter told staff on Tuesday that he'll be stepping 
 
 Hi! I’ve been using TurtleBot with Gazebo Classic for a simulation project and recently migrated my model to Gazebo Ignition. Since the migration I’ve run into a few issues, especially with wall and floor textures (which I understand is expected due to conversion), but the main problem is visible gaps between walls. I attached screenshots showing how a section of the map is supposed to look vs how it currently looks in Ignition. I tried slightly increasing the wall lengths, but it didn’t noticeably improve the gaps. Does anyone know what typically causes this after Classic to Ignition conversion or how to properly fix it? I’m not sure if this is a common issue, but I wasn’t able to find much information about it online, so apologies if this is something obvious. This is a bit time-sensitive, so I’d really appreciate any guidance!
 
-3h ago
+6h ago
 
 ---
 
@@ -84,7 +84,7 @@ Hi! I’ve been using TurtleBot with Gazebo Classic for a simulation project and
 
 This article argues that robot deployment is starting to shift away from traditional application-specific coding toward AI-powered low-code and no-code platforms. Instead of writing custom logic for every product change, teams are using visual interfaces, task demonstration, and AI reasoning to configure workflows. In inspection and assembly, systems can adapt to variation and real-time inputs without being explicitly programmed for every scenario.
 
-🔗 [Automate](https://www.automate.org/ai/industry-insights/ai-low-code-and-no-code-solutions-in-robotics) • 11h ago
+🔗 [Automate](https://www.automate.org/ai/industry-insights/ai-low-code-and-no-code-solutions-in-robotics) • 13h ago
 
 ---
 
@@ -92,7 +92,7 @@ This article argues that robot deployment is starting to shift away from traditi
 
 Been working on my DIY drone for the past few days. Facing a weird issue, motors stop increasing speed after ~30–35% throttle, and the drone needs almost 50% throttle just to slightly lift. During ESC calibration, all motors run perfectly at full throttle. Seems like a code/control logic issue. Been stuck on this for days, any suggestions would help.
 
-18h ago
+21h ago
 
 ---
 
@@ -100,7 +100,7 @@ Been working on my DIY drone for the past few days. Facing a weird issue, motors
 
 Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.
 
-🔗 [youtube.com](https://youtube.com/shorts/oKXw1YJcoXU?si=eBA6b4QUD-VM8VIq) • 13h ago
+🔗 [youtube.com](https://youtube.com/shorts/oKXw1YJcoXU?si=eBA6b4QUD-VM8VIq) • 15h ago
 
 ---
 
@@ -116,11 +116,27 @@ Enjoy the videos and music you love, upload original content, and share it all w
 
 ## Google News: "robotics"
 
+**[A call for a performance-driven approach for soft robotics research](https://www.nature.com/articles/s44182-026-00073-4)**
+
+npj Robotics - A call for a performance-driven approach for soft robotics research
+
+Nature • 16h ago
+
+---
+
 **[Upside Robotics is reducing fertilizer use and waste in corn crops](https://techcrunch.com/2026/02/11/upside-robotics-is-reducing-fertilizer-use-and-waste-in-corn-crops/)**
 
 Upside Robotics builds autonomous solar-powered robots that can help farmers reduce their fertilizer use by 70%.
 
 TechCrunch • 1d ago
+
+---
+
+**[Get a grip: Robotics firms struggle to develop hands](https://www.bbc.com/news/articles/cg7y45kxvp9o)**
+
+Developing a durable and affordable hand is one of the biggest challenges in robotics.
+
+BBC • 4h ago
 
 ---
 
@@ -136,35 +152,23 @@ Fox News • 2d ago
 
 Larry Savage, a professor of labour studies at Brock University, says governments might need to step in to help protect jobs that are under the threat of automation.
 
-Automotive News • 15h ago
+Automotive News • 17h ago
 
 ---
 
-**[How A Chinese Engineer Became A Billionaire Making Robotic ‘Eyes’](https://www.forbes.com/sites/zinnialee/2026/02/12/how-a-chinese-engineer-became-a-billionaire-making-robotic-eyes/)**
+**[China starts 'world’s first' robot combat league with $1.44M prize](https://interestingengineering.com/ai-robotics/china-worlds-first-humanoid-robot-combat-league)**
 
-Forbes • 55m ago
+The world's first-ever free robot combat league commenced in China's Shenzhen province, showcasing the country's tech advancements.
 
----
-
-**[Get a grip: Robotics firms struggle to develop hands](https://www.bbc.com/news/articles/cg7y45kxvp9o)**
-
-Developing a durable and affordable hand is one of the biggest challenges in robotics.
-
-BBC • 2h ago
+Interesting Engineering • 2d ago
 
 ---
 
-**[What to know about Chicago's delivery robots and the debate over them](https://chicago.suntimes.com/business/2026/delivery-robots-chicago-food-coco-robotics)**
+**[Bedrock Robotics raises $270M in red-hot AI sector](https://www.constructiondive.com/news/bedrock-robotics-raise-ai-automation-funding/811982/)**
 
-Some Chicago residents are fighting the deployment of robot delivery couriers. A petition started by a Lincoln Park resident has picked up over 3,400 signatures
+The autonomous construction tech provider now boasts total funding of over $350 million and a valuation of $1.75 billion.
 
-Chicago Sun-Times • 15h ago
-
----
-
-**[Alibaba Launches RynnBrain AI Model for Robots](https://www.eweek.com/news/alibaba-launches-rynnbrain-ai-model-for-robots/)**
-
-eWeek • 1d ago
+Construction Dive • 1d ago
 
 ---
 
@@ -178,15 +182,13 @@ CNBC • 2d ago
 
 **[Alibaba Pushes Into Robotics AI With Open-Source ‘RynnBrain’](https://www.bloomberg.com/news/articles/2026-02-10/alibaba-pushes-into-robotics-ai-with-open-source-rynnbrain)**
 
-Bloomberg • 2d ago
+Bloomberg.com • 2d ago
 
 ---
 
-**[Bedrock Robotics raises $270M in red-hot AI sector](https://www.constructiondive.com/news/bedrock-robotics-raise-ai-automation-funding/811982/)**
+**[Alibaba Launches RynnBrain AI Model for Robots](https://www.eweek.com/news/alibaba-launches-rynnbrain-ai-model-for-robots/)**
 
-The autonomous construction tech provider now boasts total funding of over $350 million and a valuation of $1.75 billion.
-
-Construction Dive • 1d ago
+eWeek • 1d ago
 
 ---
 
@@ -200,7 +202,7 @@ A massive robotics shift is unfolding right in front of us. Boston Dynamics has 
 
 📺 AI Revolution
 
-👁️ 76K • 👍 2K • 💬 148 • ⏱️ 11:59 • 2d ago
+👁️ 77K • 👍 2K • 💬 147 • ⏱️ 11:59 • 2d ago
 
 ---
 
@@ -210,7 +212,7 @@ Chinese robotics company AGIBOT redefined the intersection of technology and cul
 
 📺 ABS-CBN News
 
-👁️ 6K • 👍 62 • 💬 37 • ⏱️ 3:09 • 18h ago
+👁️ 6K • 👍 63 • 💬 48 • ⏱️ 3:09 • 20h ago
 
 ---
 
@@ -220,7 +222,7 @@ War Robots Gameplay, trying the UE VORTEX NUO but realizing that the robot is un
 
 📺 Manni-Gaming
 
-👁️ 18K • 👍 1K • 💬 318 • ⏱️ 10:29 • 22h ago
+👁️ 19K • 👍 1K • 💬 335 • ⏱️ 10:29 • 1d ago
 
 ---
 
@@ -230,7 +232,7 @@ They laughed when Elon Musk brought a man in a spandex suit on stage. But in 202
 
 📺 By 2050
 
-👁️ 1.5M • 👍 24K • 💬 596 • ⏱️ 1:00 • 4d ago
+👁️ 1.5M • 👍 24K • 💬 608 • ⏱️ 1:00 • 4d ago
 
 ---
 
@@ -248,17 +250,7 @@ GET MY FREE GUIDE: *The Content Creator's AI Blueprint: From 25 Hours to 5 Minut
 
 📺 Zack D. Films
 
-👁️ 2.5M • 👍 114K • 💬 1K • ⏱️ 0:23 • 10h ago
-
----
-
-**[The real test for humanoid robots isn’t performance.](https://www.youtube.com/watch?v=4iU9kfIZnhs)**
-
-Humanoid robots don't fail at tasks. They fail at presence. The hardest part of building humanoid robots isn't hardware.
-
-📺 Slidebean
-
-👁️ 15K • 👍 526 • 💬 27 • ⏱️ 1:21 • 3d ago
+👁️ 2.8M • 👍 125K • 💬 1K • ⏱️ 0:23 • 13h ago
 
 ---
 
@@ -272,6 +264,16 @@ Now that the Atlas enterprise platform is getting to work, the research version 
 
 ---
 
+**[Cardi B falls while dancing on a robot 😭](https://www.youtube.com/watch?v=x4D0Y18vN_8)**
+
+Cardi B falls while dancing on a robot ©️ to tmz #cardib **Fair Use Disclaimer:** This content is for educational, commentary, ...
+
+📺 POPVEIN
+
+👁️ 2.6M • 👍 27K • 💬 484 • ⏱️ 0:08 • 4d ago
+
+---
+
 **[Elon: This Robot Could Replace Surgeons👀 #elonmusk #ai #Robotics #Optimus #Innovation #surgeon](https://www.youtube.com/watch?v=BHKQFCh-7fg)**
 
 A bold prediction like this instantly sparks curiosity and debate across the world. The idea that advanced robotics and artificial ...
@@ -282,11 +284,13 @@ A bold prediction like this instantly sparks curiosity and debate across the wor
 
 ---
 
-**[The world of robotics is advancing](https://www.youtube.com/watch?v=O-IPeboeXGI)**
+**[Atlas Airborne Robot Shows the Final Evolution of Boston Dynamics](https://www.youtube.com/watch?v=IjRjKwZhYCQ)**
 
-📺 Fredo on TV
+The Atlas Airborne Robot takes one final research run as Boston Dynamics pushes humanoid robot control to its absolute limit.
 
-👁️ 223K • 👍 21K • 💬 582 • ⏱️ 0:34 • 5d ago
+📺 DPCcars
+
+👁️ 75K • 👍 541 • 💬 92 • ⏱️ 2:45 • 5d ago
 
 ---
 
