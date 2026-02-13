@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-02-13T13:02:53.921960+00:00'
+updated: '2026-02-13T14:13:21.127931+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
 - news
-- social
 - videos
+- social
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** February 13, 2026 at 13:02 UTC  
+**Last Updated:** February 13, 2026 at 14:13 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -32,11 +32,19 @@ Robotics research and industry news
 
 ## Reddit: r/robotics
 
+**[Finally got my robot to walk !!](https://www.reddit.com/r/robotics/comments/1r3pnoh/finally_got_my_robot_to_walk/)**
+
+I posted a video a couple of days ago on r/esp32 showing my Open-Source robot dance, and some people wanted to see it walk ... here you go ! Got a complete walking gate & added remote control :) Everything runs on the ESP32-S3 ! What do you think ?
+
+23m ago
+
+---
+
 **[Lego strandbeest “moving”](https://www.reddit.com/r/robotics/comments/1r38nfn/lego_strandbeest_moving/)**
 
 part 2 is coming soon, I will be adding propellers and a wind vane so it can move even if the wind is coming from behind! also I may add motors someday:)
 
-13h ago
+15h ago
 
 ---
 
@@ -52,7 +60,7 @@ I built this last year. Made those suction cups from scratch, it has camera, TOF
 
 As someone starting research in robotics, this has been on my mind for a while. I see a new VLA every week claiming it outperforms XYZ with better quality and more data. If that’s all it takes, what problems are actually still open? If everything can be countered with “just get more data,” what is left to research?
 
-19h ago
+20h ago
 
 ---
 
@@ -68,7 +76,7 @@ We're sharing how we bridged the Sim-to-Real gap by simulating the embedded syst
 
 Hi! I’ve been using TurtleBot with Gazebo Classic for a simulation project and recently migrated my model to Gazebo Ignition. Since the migration I’ve run into a few issues, especially with wall and floor textures (which I understand is expected due to conversion), but the main problem is visible gaps between walls. I attached screenshots showing how a section of the map is supposed to look vs how it currently looks in Ignition. I tried slightly increasing the wall lengths, but it didn’t noticeably improve the gaps. Does anyone know what typically causes this after Classic to Ignition conversion or how to properly fix it? I’m not sure if this is a common issue, but I wasn’t able to find much information about it online, so apologies if this is something obvious. This is a bit time-sensitive, so I’d really appreciate any guidance!
 
-14h ago
+15h ago
 
 ---
 
@@ -84,7 +92,7 @@ Boston Dynamics CEO Robert Playter told staff on Tuesday that he'll be stepping 
 
 This article argues that robot deployment is starting to shift away from traditional application-specific coding toward AI-powered low-code and no-code platforms. Instead of writing custom logic for every product change, teams are using visual interfaces, task demonstration, and AI reasoning to configure workflows. In inspection and assembly, systems can adapt to variation and real-time inputs without being explicitly programmed for every scenario.
 
-🔗 [Automate](https://www.automate.org/ai/industry-insights/ai-low-code-and-no-code-solutions-in-robotics) • 22h ago
+🔗 [Automate](https://www.automate.org/ai/industry-insights/ai-low-code-and-no-code-solutions-in-robotics) • 23h ago
 
 ---
 
@@ -100,15 +108,7 @@ Been working on my DIY drone for the past few days. Facing a weird issue, motors
 
 Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.
 
-🔗 [youtube.com](https://youtube.com/shorts/oKXw1YJcoXU?si=eBA6b4QUD-VM8VIq) • 23h ago
-
----
-
-**[Animating a Orin Nano Super based Robot via a SO-101 leader arm, and a Lilygo T-embed Plus](https://www.reddit.com/r/robotics/comments/1r2h1v9/animating_a_orin_nano_super_based_robot_via_a/)**
-
-Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.
-
-🔗 [youtube.com](https://www.youtube.com/shorts/rWqI9G9763o) • 1d ago
+🔗 [youtube.com](https://youtube.com/shorts/oKXw1YJcoXU?si=eBA6b4QUD-VM8VIq) • 1d ago
 
 ---
 
@@ -120,7 +120,7 @@ Enjoy the videos and music you love, upload original content, and share it all w
 
 Developing a durable and affordable hand is one of the biggest challenges in robotics.
 
-BBC • 12h ago
+BBC • 14h ago
 
 ---
 
@@ -132,67 +132,63 @@ Nature • 1d ago
 
 ---
 
-**[Is China Leading the Robotics Revolution?](https://chinapower.csis.org/china-industrial-robots/)**
-
-This ChinaPower feature examines China's push to lead the world in robotics and the geopolitical implications.
-
-ChinaPower Project • 17h ago
-
----
-
-**[Humanoid robots are getting smaller, safer and closer](https://www.foxnews.com/tech/humanoid-robots-getting-smaller-safer-closer)**
-
-Fauna Robotics is launching Sprout as a developer platform for humanoid robots. The robot features 29 degrees of freedom and NVIDIA compute power.
-
-Fox News • 2d ago
-
----
-
-**[Bedrock Robotics raises $270M in red-hot AI sector](https://www.constructiondive.com/news/bedrock-robotics-raise-ai-automation-funding/811982/)**
-
-The autonomous construction tech provider now boasts total funding of over $350 million and a valuation of $1.75 billion.
-
-Construction Dive • 1d ago
-
----
-
-**[Upside Robotics is reducing fertilizer use and waste in corn crops](https://techcrunch.com/2026/02/11/upside-robotics-is-reducing-fertilizer-use-and-waste-in-corn-crops/)**
-
-Upside Robotics builds autonomous solar-powered robots that can help farmers reduce their fertilizer use by 70%.
-
-TechCrunch • 1d ago
-
----
-
-**[Symbotic acquires autonomous forklift maker Fox Robotics](https://www.therobotreport.com/symbotic-acquires-autonomous-forklift-maker-fox-robotics/)**
-
-Symbotic has acquired autonomous forklift developer Fox Robotics in a move that broadens its logistics robotics offerings.
-
-The Robot Report • 2d ago
-
----
-
-**[Musk due in Israel in March with focus on robotics - Globes](https://en.globes.co.il/en/article-musk-due-in-israel-in-march-with-focus-on-robotics-1001534675)**
-
-&nbsp;
-
-Globes - Israel Business News • 2d ago
-
----
-
-**[Alibaba Pushes Into Robotics AI With Open-Source ‘RynnBrain’](https://finance.yahoo.com/news/alibaba-pushes-robotics-ai-open-065326706.html)**
-
-The Chinese company’s DAMO Academy introduced an open-source foundation model that engages with the environment, understands space in relation to time and can figure out steps toward completing a task.  With the release, Alibaba takes on AI leaders including Alphabet Inc.’s Google and Nvidia Corp. The Chinese firm claimed state-of-the-art results on benchmarks against Google’s Gemini Robotics-ER 1.5 and Nvidia’s Cosmos-Reason2.  Trained on Alibaba’s Qwen3-VL vision language model, RynnBrain is available on platforms like Hugging Face and GitHub in multiple versions starting as small as 2 billion parameters to a more efficient mixture-of-experts version.
-
-Yahoo Finance • 3d ago
-
----
-
 **[If robots take the auto jobs, who’s left with money to buy cars?](https://www.autonews.com/manufacturing/anc-humanoid-robots-threaten-auto-industry-jobs-0209/)**
 
 Larry Savage, a professor of labour studies at Brock University, says governments might need to step in to help protect jobs that are under the threat of automation.
 
 Automotive News • 1d ago
+
+---
+
+**[Is China Leading the Robotics Revolution?](https://chinapower.csis.org/china-industrial-robots/)**
+
+This ChinaPower feature examines China's push to lead the world in robotics and the geopolitical implications.
+
+ChinaPower Project • 18h ago
+
+---
+
+**[Robots with human-inspired eyes have better vision](https://www.economist.com/science-and-technology/2026/02/11/robots-with-human-inspired-eyes-have-better-vision)**
+
+Their reaction times can even surpass their makers’
+
+The Economist • 1d ago
+
+---
+
+**[People — and robots — ready to celebrate Lunar New Year](https://www.oregonlive.com/nation/2026/02/people-and-robots-ready-to-celebrate-lunar-new-year.html)**
+
+Robots star in fairs and activities around Beijing.
+
+OregonLive.com • 28m ago
+
+---
+
+**[3D Printing Pneumatic Channels With Dual Materials For Soft Robots](https://hackaday.com/2026/02/13/3d-printing-pneumatic-channels-with-dual-materials-for-soft-robots/)**
+
+Pneumatics are a common way to add some motion to soft robotic actuators, but adding it to a robot can be somewhat of a chore. A method demonstrated by [Jackson K. Wilt] et al. (press release, prep…
+
+Hackaday • 2h ago
+
+---
+
+**[How A Chinese Engineer Became A Billionaire Making Robotic ‘Eyes’](https://www.forbes.com/sites/zinnialee/2026/02/12/how-a-chinese-engineer-became-a-billionaire-making-robotic-eyes/)**
+
+Forbes • 12h ago
+
+---
+
+**[Elon Musk Bets On Humanoid Robots In 2026, But One Company Hopes 'Elon Time' Strikes Again](https://finance.yahoo.com/news/elon-musk-bets-humanoid-robots-153112171.html)**
+
+Elon Musk has repeatedly touted the Optimus humanoid robot as Tesla’s (NYSE:TSLA) most significant long-term value driver, suggesting it could eventually propel the company’s market cap to $25 trillion. Yet, prediction market odds suggest a humanoid robot in 2026 may be a little too optimistic. During Tesla's recent “We, Robot” event, Musk claimed the robots could perform everything from babysitting to mowing lawns, with a price tag between $20,000 and $30,000. But according to Kalshi, the human
+
+Yahoo Finance • 22h ago
+
+---
+
+**[Alibaba Launches RynnBrain AI Model for Robots](https://www.eweek.com/news/alibaba-launches-rynnbrain-ai-model-for-robots/)**
+
+eWeek • 1d ago
 
 ---
 
@@ -254,7 +250,7 @@ Cardi B falls while dancing on a robot ©️ to tmz #cardib **Fair Use Disclaime
 
 📺 Zack D. Films
 
-👁️ 3.9M • 👍 156K • 💬 1K • ⏱️ 0:23 • 21h ago
+👁️ 3.9M • 👍 156K • 💬 1K • ⏱️ 0:23 • 22h ago
 
 ---
 
@@ -274,7 +270,7 @@ Now that the Atlas enterprise platform is getting to work, the research version 
 
 📺 Boston Dynamics
 
-👁️ 1.5M • 👍 42K • 💬 4K • ⏱️ 1:38 • 5d ago
+👁️ 1.5M • 👍 42K • 💬 4K • ⏱️ 1:38 • 6d ago
 
 ---
 

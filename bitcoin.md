@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-02-13T13:02:53.912801+00:00'
+updated: '2026-02-13T14:13:21.118681+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
 - news
+- videos
 - social
 - cryptocurrency
-- videos
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** February 13, 2026 at 13:02 UTC  
+**Last Updated:** February 13, 2026 at 14:13 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,17 +38,17 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $66,694.90
+### $67,154.75
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** -0.7%  
-**7d:** -3.1%  
-**30d:** -29.7%  
-**90d:** -28.8%  
-**1y:** -31.1%  
+**24h:** +0.3%  
+**7d:** -2.9%  
+**30d:** -29.6%  
+**90d:** -28.7%  
+**1y:** -31.0%  
 
 ---
 
@@ -81,7 +81,7 @@ Rank #1
 
 like we was just vibing near 100k, everybody loud, posting rockets, acting rich in theory then boom 90 80 70 just casually opening doors like “you forgot something down here” bro who asked for this my portfolio looking at me like I did something wrong and there’s always that one guy “it’s a healthy correction” healthy?? I’m stressed eating cereal at 2am watching candles bleed bitcoin don’t even walk downstairs it just throws itself down still not selling tho but damn can we chill for five minutes
 
-3h ago
+4h ago
 
 ---
 
@@ -89,13 +89,13 @@ like we was just vibing near 100k, everybody loud, posting rockets, acting rich 
 
 Like minnows in the ocean, or more like… plankton Motivating seeing everyone’s big buys and sometimes hard to see what everyone else is moving and sticking to putting in what won’t ruin me if I lose! Been DCAing since £57k and have bigger orders set at £45k,50,55 etc. maybe I’ll be a wholecoiner in 500 years! Hah
 
-3h ago
+4h ago
 
 ---
 
 **[Bitcoin, what are you doing](https://www.reddit.com/r/Bitcoin/comments/1r2u1yl/bitcoin_what_are_you_doing/)**
 
-23h ago
+1d ago
 
 ---
 
@@ -103,13 +103,7 @@ Like minnows in the ocean, or more like… plankton Motivating seeing everyone�
 
 Well…
 
-12h ago
-
----
-
-**[VanEck said it knows 13 governments that are actively mining Bitcoin](https://www.reddit.com/r/Bitcoin/comments/1r35qqv/vaneck_said_it_knows_13_governments_that_are/)**
-
-15h ago
+13h ago
 
 ---
 
@@ -117,7 +111,13 @@ Well…
 
 I’m turning Bitcoin into an anime style story. What would you want it to include?
 
-1h ago
+3h ago
+
+---
+
+**[VanEck said it knows 13 governments that are actively mining Bitcoin](https://www.reddit.com/r/Bitcoin/comments/1r35qqv/vaneck_said_it_knows_13_governments_that_are/)**
+
+16h ago
 
 ---
 
@@ -125,19 +125,19 @@ I’m turning Bitcoin into an anime style story. What would you want it to inclu
 
 Just want to let you know that bitcoin will reach 38,000 according to my dream. I’m still DCA everyday with full confidence. Your welcome
 
-9h ago
+10h ago
 
 ---
 
 **[Which one are you?](https://www.reddit.com/r/Bitcoin/comments/1r32e5a/which_one_are_you/)**
 
-17h ago
+19h ago
 
 ---
 
 **[Just HODL it](https://www.reddit.com/r/Bitcoin/comments/1r3jy6b/just_hodl_it/)**
 
-4h ago
+5h ago
 
 ---
 
@@ -145,7 +145,7 @@ Just want to let you know that bitcoin will reach 38,000 according to my dream. 
 
 Grant Cardone just listed his mansion for sale for 700 BTC. Just got to know there are even more expensive properties already for sale at over 700 BTC.
 
-8h ago
+10h ago
 
 ---
 
@@ -155,7 +155,7 @@ Grant Cardone just listed his mansion for sale for 700 BTC. Just got to know the
 
 **[Bitcoin Steadies in Asia After Standard Chartered Warning](https://www.bloomberg.com/news/articles/2026-02-13/bitcoin-btc-under-pressure-in-asia-after-standard-chartered-warning)**
 
-Bloomberg.com • 8h ago
+Bloomberg.com • 9h ago
 
 ---
 
@@ -163,7 +163,7 @@ Bloomberg.com • 8h ago
 
 The bank cuts its 2026 crypto price targets, warning of further near-term capitulation as ETF outflows and macro headwinds weigh on digital assets.
 
-CoinDesk • 21h ago
+CoinDesk • 22h ago
 
 ---
 
@@ -171,7 +171,7 @@ CoinDesk • 21h ago
 
 Bitcoin (BTC-USD) has pulled back sharply, but exchange-traded fund (ETF) investors are holding firm even as earlier crypto holders sell. Bitwise Asset Management chief investment officer Matt Hougan joins Yahoo Finance host Julie Hyman to break down what's driving the downturn, where institutional flows stand, and why the recovery may depend on multiple catalysts rather than a single turning point. Bitwise operates several of its own bitcoin ETFs (BITB, BITC, BTOP) and crypto ETFs (BITQ, BITW). To watch more expert insights and analysis on the latest market action, check out more&nbsp;Market Catalysts.
 
-Yahoo Finance • 32m ago
+Yahoo Finance • 1h ago
 
 ---
 
@@ -183,11 +183,11 @@ Fortune • 1d ago
 
 ---
 
-**[Ramil Ventura Palafox gets 20 years sentence over $200 million bitcoin Ponzi scheme](https://www.coindesk.com/policy/2026/02/13/pgi-global-ceo-gets-20-years-sentence-over-usd200-million-bitcoin-ponzi-scheme)**
+**[Bitcoin ETFs Shed $410M Amid BTC's Ongoing Slump](https://finance.yahoo.com/news/bitcoin-etfs-shed-410m-amid-133434843.html)**
 
-Instead of investing in bitcoin and forex trading as promised, Palafox used new investor funds to pay old ones and siphoned millions for personal use.
+U.S. spot Bitcoin ETFs saw $410M in outflows Thursday as institutional profit-taking and macro hedging create a "liquidity mirage."
 
-CoinDesk • 2h ago
+Yahoo Finance • 38m ago
 
 ---
 
@@ -195,7 +195,7 @@ CoinDesk • 2h ago
 
 Police authorities have launched an internal probe to determine the circumstances of the incident and potential internal involvement.
 
-The Block • 4h ago
+The Block • 5h ago
 
 ---
 
@@ -211,19 +211,19 @@ CNBC • 2d ago
 
 The corporate adoption of bitcoin was dominated by a single player last month — Strategy.
 
-Bitcoin Magazine • 18h ago
+Bitcoin Magazine • 19h ago
 
 ---
 
-**[MSTR's STRC returns to $100 par, poised to unlock more BTC accumulation](https://www.coindesk.com/markets/2026/02/12/strategy-s-strc-returns-to-usd100-poised-to-unlock-more-bitcoin-accumulation)**
+**[Strategy Inc Leans On Stretch Preferreds To Deepen Bitcoin Exposure](https://finance.yahoo.com/news/strategy-inc-leans-stretch-preferreds-011221004.html)**
 
-The perpetual preferred STRC hits $100 par amid bitcoin downturn, enabling potential further BTC purchases for the company.
+Strategy Inc (NasdaqGS:MSTR) plans to issue a new class of perpetual preferred equity, branded "Stretch," to fund further Bitcoin purchases. The company is shifting away from issuing additional common equity in an effort to limit dilution for existing shareholders. The Stretch securities come with fixed dividend obligations, increasing ongoing funding commitments. This change comes while the company holds multi billion dollar unrealized losses on its Bitcoin position and faces persistent...
 
-CoinDesk • 1d ago
+Yahoo Finance • 13h ago
 
 ---
 
-**[A Bitcoin Blunder for the Ages: $40 Billion Accidentally Given Away by Bithumb](https://www.wsj.com/finance/currencies/a-bitcoin-blunder-for-the-ages-40-billion-accidentally-given-away-3a207eac?gaa_at=eafs&gaa_n=AWEtsqcUVTbGJCPYMjqM1xr7Z4fGAz4IwjojXzKf5KQT7ced7yvcF9Pt9tth&gaa_ts=698f2463&gaa_sig=yiKDhndiuskoi2kXGdX6NWOU2hCbeIgWnuu45-xekfzrRcuE7fPXikiyVRcCTOBiF2XIFDJVXOfVskL6ncjR8g%3D%3D)**
+**[A Bitcoin Blunder for the Ages: $40 Billion Accidentally Given Away by Bithumb](https://www.wsj.com/finance/currencies/a-bitcoin-blunder-for-the-ages-40-billion-accidentally-given-away-3a207eac?gaa_at=eafs&gaa_n=AWEtsqedAn-E8_OxxQkRHzAT4SCv55GTKXTaMha6_H_1uExAVrdP8XPkcuD7&gaa_ts=698f34e7&gaa_sig=JDxPQ79q56ilNnHNMJAOw4BiW-Tnq4ZotO6y8sPWIJ9LSQLF0p7ljb0wI3RGI4hGU4xPAKzZ5ccDLHly6_lFZg%3D%3D)**
 
 The Wall Street Journal • 3d ago
 
@@ -235,7 +235,7 @@ The Wall Street Journal • 3d ago
 
 **[Bitcoin tumbles below $70K, heavy losses in cryptocurrencies in last three weeks](https://news.ycombinator.com/item?id=46934165)**
 
-⬆️ 58 • 💬 67 • 4d ago • [bloomberg.com](https://www.bloomberg.com/news/articles/2026-02-05/bitcoin-drops-below-70-000-as-forced-deleveraging-accelerates)
+⬆️ 58 • 💬 67 • 5d ago • [bloomberg.com](https://www.bloomberg.com/news/articles/2026-02-05/bitcoin-drops-below-70-000-as-forced-deleveraging-accelerates)
 
 ---
 
@@ -299,11 +299,11 @@ What do Bitcoin miners actually do? An interactive exploration of hashing, diffi
 
 ---
 
-**[South Korean exchange races to recover $40B of Bitcoin sent by mistake](https://news.ycombinator.com/item?id=46958388)**
+**[Show HN: A zero-setup sandbox for testing Bitcoin Lightning payments](https://news.ycombinator.com/item?id=47002758)**
 
-Bithumb has apologised for staff error that sent customers 620,000 bitcoins instead of 620,000 Korean won, equivalent to a few hundred US dollars
+Explore everything you can do as a lightning app builder using Alby - getAlby/sandbox
 
-⬆️ 2 • 💬 1 • 3d ago • [the Guardian](https://www.theguardian.com/world/2026/feb/10/bithumb-korean-crypto-exchange-sent-bitcoin-mistake)
+⬆️ 2 • 💬 1 • 14m ago • [GitHub](https://github.com/getAlby/sandbox)
 
 ---
 
@@ -317,7 +317,7 @@ Bitcoin's crash off its all time high and then its sudden crash last week. It le
 
 📺 Mark Moss
 
-👁️ 155K • 👍 6K • 💬 992 • ⏱️ 16:43 • 17h ago
+👁️ 155K • 👍 6K • 💬 992 • ⏱️ 16:43 • 18h ago
 
 ---
 
@@ -327,7 +327,7 @@ Strategy executive chairman and founder Michael Saylor gives his take on Bitcoin
 
 📺 Fox Business
 
-👁️ 12K • 👍 381 • 💬 450 • ⏱️ 8:19 • 6h ago
+👁️ 12K • 👍 381 • 💬 450 • ⏱️ 8:19 • 7h ago
 
 ---
 
@@ -337,7 +337,7 @@ Predict Crypto, Sports, Politics & More on *ClashPicks* ▻ https://www.clashpic
 
 📺 CryptosRUs
 
-👁️ 26K • 👍 1K • 💬 568 • ⏱️ 8:08 • 11h ago
+👁️ 26K • 👍 1K • 💬 568 • ⏱️ 8:08 • 12h ago
 
 ---
 
@@ -347,7 +347,7 @@ Bitcoin #Crypto #Finance Stay ahead of the market — FREE Join the DataDash Pro
 
 📺 DataDash
 
-👁️ 7K • 👍 346 • 💬 26 • ⏱️ 15:09 • 21h ago
+👁️ 7K • 👍 346 • 💬 26 • ⏱️ 15:09 • 22h ago
 
 ---
 
@@ -357,7 +357,7 @@ The crypto market is at a massive crossroads. After the "Crypto Winter" correcti
 
 📺 Discover Crypto
 
-👁️ 5K • 👍 268 • 💬 47 • ⏱️ 9:41 • 13h ago
+👁️ 5K • 👍 268 • 💬 47 • ⏱️ 9:41 • 14h ago
 
 ---
 
@@ -367,7 +367,7 @@ Fred Thiel is the CEO of Marathon Digital and a leading voice at the intersectio
 
 📺 Anthony Pompliano
 
-👁️ 34K • 👍 1K • 💬 59 • ⏱️ 18:55 • 15h ago
+👁️ 34K • 👍 1K • 💬 59 • ⏱️ 18:55 • 16h ago
 
 ---
 
@@ -397,7 +397,7 @@ Predict Crypto, Sports, Politics & More on *ClashPicks* ▻ https://www.clashpic
 
 📺 CryptosRUs
 
-👁️ 28K • 👍 1K • 💬 351 • ⏱️ 51:44 • 21h ago
+👁️ 28K • 👍 1K • 💬 351 • ⏱️ 51:44 • 22h ago
 
 ---
 
@@ -407,7 +407,7 @@ BloFin: Up to $3000 deposit bonus Sign up: https://partner.blofin.com/d/RT1M (mu
 
 📺 Road To $1 Million USD
 
-👁️ 4K • 👍 198 • 💬 84 • ⏱️ 6:13 • 13h ago
+👁️ 4K • 👍 198 • 💬 84 • ⏱️ 6:13 • 15h ago
 
 ---
 

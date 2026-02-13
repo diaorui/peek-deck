@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-02-13T13:02:53.918730+00:00'
+updated: '2026-02-13T14:13:21.124680+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
 - news
+- videos
 - social
 - cryptocurrency
-- videos
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** February 13, 2026 at 13:02 UTC  
+**Last Updated:** February 13, 2026 at 14:13 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -36,17 +36,17 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Price
 
-### $1,946.23
+### $1,969.83
 
 ---
 
 ## Ethereum Chart
 
-**24h:** -0.9%  
-**7d:** -6.4%  
-**30d:** -40.9%  
-**90d:** -36.7%  
-**1y:** -28.1%  
+**24h:** +1.0%  
+**7d:** -6.1%  
+**30d:** -40.7%  
+**90d:** -36.5%  
+**1y:** -27.9%  
 
 ---
 
@@ -72,7 +72,7 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-7h ago
+8h ago
 
 ---
 
@@ -80,7 +80,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 This is the second article in a series about deterministic deployments, where we explore the question: how can we deploy a contract at the same address in multiple chains? In the first part we discussed three possible answers: deploying with the same private key and nonce, using Nick’s method, and pre-signing transactions. In this entry we’ll discuss two other approaches: CREATE2 factories and CREATE3.
 
-🔗 [Cethology](https://paragraph.com/@cethology/deterministic-deployments-part-2-create2-based-approaches) • 4h ago
+🔗 [Cethology](https://paragraph.com/@cethology/deterministic-deployments-part-2-create2-based-approaches) • 5h ago
 
 ---
 
@@ -88,7 +88,7 @@ This is the second article in a series about deterministic deployments, where we
 
 BlackRock BUIDL tradeable via UniswapX, ENS staying on mainnet, Solidity developer survey
 
-🔗 [Ethereal news](https://ethereal.news/ethereal-news-weekly-11/) • 6m ago
+🔗 [Ethereal news](https://ethereal.news/ethereal-news-weekly-11/) • 1h ago
 
 ---
 
@@ -96,13 +96,13 @@ BlackRock BUIDL tradeable via UniswapX, ENS staying on mainnet, Solidity develop
 
 ACDE #230 saw Ethereum core developers focus on Glamsterdam Devnet performance, eth/70 networking safeguards, and a narrowing Hegotá headliner race led by encrypted mempool proposals.
 
-🔗 [EtherWorld.co](https://etherworld.co/highlights-from-the-all-core-developers-execution-acde-call-230/) • 9h ago
+🔗 [EtherWorld.co](https://etherworld.co/highlights-from-the-all-core-developers-execution-acde-call-230/) • 10h ago
 
 ---
 
 **[I got HTTP 402 working as an actual payment protocol for AI agents, here's what I learned](https://www.reddit.com/r/ethereum/comments/1r3bm1g/i_got_http_402_working_as_an_actual_payment/)**
 
-11h ago
+12h ago
 
 ---
 
@@ -126,7 +126,7 @@ Vitalik Buterin proposes ZK API usage credits to make Ethereum the privacy-prese
 
 Responding to https://firefly.social/post/x/2021632354649821275 My first reaction to this was: "And that's why I just got my $2,725 check of fileverse tokens now that fileverse has grown to the point where my dad regularly writes docs in fileverse that he sends to me" My second reaction to this was: "I see how this makes total sense from a crypto perspective, but it makes zero sense from an outside-of-crypto perspective ... hmm, what does this say about crypto?" My more detailed reaction: There are many distinct activities that you can refer to as "incentivizing users". First of all, paying some of your users with coins that your app gets by charging other users is totally fine: that's just a sustainable economic loop, there is nothing wrong with this. The activity that I think people are thinking about more is, paying all your users while the app is early, with the hope of "building network effect" and then making that money back (and much more) later when the app is mature. My general view, if you really have to simplify it and sacrifice some nuances for the sake of brevity, is: Incentives that compensate for unavoidable temporary costs that come from your thing being immature are good Incentives that bring in totally new classes of users that would not use even a mature version of your thing without those incentives are bad For example, I have no problem with many types of defi liquidity rewards, because to me they compensate for per-year risk of the project being hacked or the team turning out to be scammers, a risk that is inherently higher for new projects and much lower once a project becomes more mature. Paying people to make tweets that get attention, might be the most "pure" example of the wrong thing to do, because you are going to get people who come to your platform to make tweets, with every incentive to game any mechanisms you have to judge quality and optimize for maximum laziness on their part, and then immediately disappear as soon as the incentives go away. In principle, content incentivization is a valuable and important problem, but it should be done with care, with an eye to quality over quantity, which are not natural goals that designers of "bootstrapping incentives" have by default. If fact, even if users do not disappear after incentives go away, there is a further problem: you succeed from the perspective of growing quantity of community, but you fail from the perspective of growing quality of community. In the case of defi protocols, you can argue: 1 ETH in an LP pool is 1 ETH doing useful work, regardless of whether it's put there by a cypherpunk or an amoral money maximizer. But, (i) this argument can only be made for defi, not for other areas like social, where esp. in the 2020s, quality matters more than quantity, and (ii) there are always subtle ways in which higher-quality community members help your protocol more in the long term (eg. by writing open-source tools, answering people's questions in online or offline forums, being potential developers on your team). The ideal incentive is an incentive that exactly compensates for temporary downsides of your protocol, those downsides that will disappear once the protocol has more maturity, and attracts zero users who would not be there organically once the protocol is mature. Charging users fees, but paying them back in protocol tokens, I think is also reasonable: it's effectively turning your users into your investors by default, which seems like a good thing to do. A further more cynical take I have is that in the 2021-24 era, the "real product" was creating a speculative bubble, and so the real function of many incentives was to pump up narratives to justify the narrative for the bubble. So any argument that incentives are good for bootstrapping acquisition should be not judged on the question of whether it's plausible, but on the question of whether it's more plausible than the alternative claim that it's all galaxy brain justification ( vitalik.eth.limo/general/2025… ) for a "pump and dump wearing a suit". TLDR: the bulk of the effort should be on making an actually-useful app. This was historically ignored, because it's not necessary for narrative engineering to create a speculative bubble. But now it is necessary. And we do see that the successful apps now, the apps that we actually most appreciate and respect, do the bulk of their user acquisition work in that way, not by paying users to come in indiscriminately.
 
-23h ago
+1d ago
 
 ---
 
@@ -150,27 +150,35 @@ Ethereum's L2 ecosystem has succeeded beyond expectations. Our Gen1 L2s—Arbitr
 
 ## Google News: "ethereum"
 
-**[Bitcoin Will Fall to $50K and Ethereum Will Hit $1,400 Before Rebound: Standard Chartered](https://decrypt.co/357858/bitcoin-50k-ethereum-1400-before-rebound-standard-chartered)**
-
-Standard Chartered predicts Bitcoin will hit $100K and Ethereum will rise to $4,000 by the end of 2026, but expects further drops first.
-
-Decrypt • 21h ago
-
----
-
 **[Wrapped Bitcoin team taps Hyperlane for WBTC bridge between Ethereum and Solana](https://www.theblock.co/post/389619/wrapped-bitcoin-hyperlane-wbtc-bridge-ethereum-solana)**
 
 The Hyperlane Nexus Bridge will enable holders to transfer wBTC tokens between Ethereum and Solana, the team wrote in a press release.
 
-The Block • 22h ago
+The Block • 23h ago
 
 ---
 
-**[BlackRock buys up Bitmine shares as Ethereum threatens to fall to $1,400 price](https://finance.yahoo.com/news/blackrock-buys-bitmine-shares-ethereum-092453859.html)**
+**[Bitcoin Will Fall to $50K and Ethereum Will Hit $1,400 Before Rebound: Standard Chartered](https://decrypt.co/357858/bitcoin-50k-ethereum-1400-before-rebound-standard-chartered)**
 
-Blackrock’s Bitmine share holdings jumped 166% in the fourth-quarter of 2025. CEO Larry Fink is bullish on tokenisation with the company citing Ethereum as the big winner.
+Standard Chartered predicts Bitcoin will hit $100K and Ethereum will rise to $4,000 by the end of 2026, but expects further drops first.
 
-Yahoo Finance • 3h ago
+Decrypt • 22h ago
+
+---
+
+**[BlackRock buys up Bitmine shares as Ethereum threatens to fall to $1,400 price](https://www.dlnews.com/articles/markets/blackrock-buys-up-bitmine-shares-as-ethereum-may-hit-1400/)**
+
+Blackrock’s Bitmine share holdings jumped 166% in the fourth-quarter of 2025.  CEO Larry Fink is bullish on tokenisation with the company citing Ethereum as the big winner.
+
+dlnews.com • 4h ago
+
+---
+
+**[BlackRock Signals $257M Bitcoin and Ethereum Sell-Off Ahead of Partial U.S. Government Shutdown](https://finance.yahoo.com/news/blackrock-signals-257m-bitcoin-ethereum-125929308.html)**
+
+BlackRock, the world’s largest asset manager, looks set to offload more Bitcoin and Ethereum, following the outflows from its crypto ETFs yesterday. This move comes ahead of another potential partial U.S. government shutdown that could begin tomorrow as today’s deadline looms. BlackRock Moves $257M In BTC And ETH To Coinbase Arkham data shows that the
+
+Yahoo Finance • 1h ago
 
 ---
 
@@ -178,7 +186,7 @@ Yahoo Finance • 3h ago
 
 At a panel discussion at Consensus Hong Kong 2026 featuring Consensys CEO and Ethereum co-founder Joe Lubin and SharpLink (SBET) CEO Joseph Chalom, the two executives outlined how digital asset treasuries (DATs) are evolving into a distinct institutional strategy.
 
-CoinDesk • 17h ago
+CoinDesk • 18h ago
 
 ---
 
@@ -194,23 +202,15 @@ Sherwood News • 1d ago
 
 Ethereum is attempting to stabilize after its recent pullback, but the recovery so far lacks convincing strength. With price rejecting key levels and higher-timeframe risks still looming, ETH finds itself at a critical decision point where the next structural move could define the short-term trend…
 
-TradingView • 11h ago
+TradingView • 12h ago
 
 ---
 
-**[Tom Lee: Ethereum ‘V-shaped recovery’ soon as Bitmine buys at $2,000 price](https://www.dlnews.com/articles/markets/tom-lee-says-ethereum-v-shaped-recovery-soon/)**
+**[Ethereum Based Meme Coin Pepeto Announces $7M+ Presale Milestone Ahead of Binance Listing as Bitcoin Volatility Persists](https://markets.businessinsider.com/news/stocks/ethereum-based-meme-coin-pepeto-announces-7m-presale-milestone-ahead-of-binance-listing-as-bitcoin-volatility-persists-1035825465)**
 
-Bitmine buys another $80m worth of Ethereum. Tom Lee predicts swift recovery despite over $6.6 billion in unrealised losses.
+DUBAI, United Arab Emirates, Feb.  13, 2026  (GLOBE NEWSWIRE) -- Pepeto (PEPETO), an Ethereum-based meme-utility project, has officially crossed $...
 
-dlnews.com • 3d ago
-
----
-
-**[Top 3 Price Prediction: Bitcoin, Ethereum, Ripple – BTC, ETH and XRP stay weak as bearish momentum persists](https://www.fxstreet.com/cryptocurrencies/news/top-3-price-prediction-bitcoin-ethereum-ripple-btc-eth-and-xrp-stay-weak-as-bearish-momentum-persists-202602130354)**
-
-Bitcoin (BTC), Ethereum (ETH) and Ripple (XRP) remain under pressure, extending losses of over 5%, 6% and 4%, respectively, so far this week. BTC trades below $67,000 while ETH and XRP correct after facing rejection around key levels.
-
-FXStreet • 9h ago
+markets.businessinsider.com • 2h ago
 
 ---
 
@@ -220,11 +220,11 @@ Binance • 1d ago
 
 ---
 
-**[Ethereum stablecoin supply tops $158B: Why ETH/BTC matters now](https://ambcrypto.com/ethereum-stablecoin-supply-tops-158b-why-eth-btc-matters-now/)**
+**[Top 3 Price Prediction: Bitcoin, Ethereum, Ripple – BTC, ETH and XRP stay weak as bearish momentum persists](https://www.fxstreet.com/cryptocurrencies/news/top-3-price-prediction-bitcoin-ethereum-ripple-btc-eth-and-xrp-stay-weak-as-bearish-momentum-persists-202602130354)**
 
-Could stablecoin flows kickstart Ethereum's comeback?
+Bitcoin (BTC), Ethereum (ETH) and Ripple (XRP) remain under pressure, extending losses of over 5%, 6% and 4%, respectively, so far this week. BTC trades below $67,000 while ETH and XRP correct after facing rejection around key levels.
 
-AMBCrypto • 1d ago
+FXStreet • 10h ago
 
 ---
 
@@ -238,7 +238,7 @@ This video provides a professional Elliott Wave and technical analysis of Ethere
 
 📺 More Crypto Online
 
-👁️ 2K • 👍 111 • 💬 4 • ⏱️ 4:01 • 9h ago
+👁️ 2K • 👍 111 • 💬 4 • ⏱️ 4:01 • 10h ago
 
 ---
 
@@ -248,7 +248,7 @@ ETHEREUM ETH PRICE PREDICTION 2026 Join the Premium Signal Group for trade setup
 
 📺 Cilinix Crypto
 
-👁️ 102 • 👍 7 • 💬 1 • ⏱️ 5:18 • 2h ago
+👁️ 102 • 👍 7 • 💬 1 • ⏱️ 5:18 • 4h ago
 
 ---
 
@@ -268,7 +268,7 @@ This is all about why Bitcoin and crypto is set to explode! Do not miss the big 
 
 📺 Investing Made Simple
 
-👁️ 19K • 👍 984 • ⏱️ 8:58 • 23h ago
+👁️ 19K • 👍 984 • ⏱️ 8:58 • 1d ago
 
 ---
 
@@ -288,7 +288,7 @@ BITCOIN & ALTCOIN WARNING: It's Happening AGAIN!!!! - Bitcoin News Today, Ethere
 
 📺 Crypto World
 
-👁️ 10K • 👍 380 • 💬 202 • ⏱️ 21:40 • 17h ago
+👁️ 10K • 👍 380 • 💬 202 • ⏱️ 21:40 • 18h ago
 
 ---
 
@@ -308,7 +308,7 @@ This video provides a professional Elliott Wave and technical analysis of Ethere
 
 📺 More Crypto Online
 
-👁️ 3K • 👍 181 • 💬 4 • ⏱️ 6:51 • 23h ago
+👁️ 3K • 👍 181 • 💬 4 • ⏱️ 6:51 • 1d ago
 
 ---
 
@@ -318,7 +318,7 @@ Hier Handle ich Kryptowährungen!! Bitunix (Instant VIP LVL 3 und 20% Deposit Zu
 
 📺 Krypto Trading & Investing
 
-👁️ 5K • 👍 835 • 💬 112 • ⏱️ 17:10 • 8h ago
+👁️ 5K • 👍 835 • 💬 112 • ⏱️ 17:10 • 9h ago
 
 ---
 
@@ -328,7 +328,7 @@ BTC & ETH Price Prediction Today | BTC at $66000 | BTC & ETH Update | Crypto New
 
 📺 Profit First
 
-👁️ 2K • 👍 143 • 💬 12 • ⏱️ 8:11 • 9h ago
+👁️ 2K • 👍 143 • 💬 12 • ⏱️ 8:11 • 10h ago
 
 ---
 
