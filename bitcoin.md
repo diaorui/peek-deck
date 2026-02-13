@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-02-13T22:35:00.305904+00:00'
+updated: '2026-02-13T23:31:42.351893+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- videos
-- cryptocurrency
-- news
 - social
+- cryptocurrency
+- videos
+- news
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** February 13, 2026 at 22:35 UTC  
+**Last Updated:** February 13, 2026 at 23:31 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -79,7 +79,7 @@ Rank #1
 
 **[2025 vs 2026](https://www.reddit.com/r/Bitcoin/comments/1r40elq/2025_vs_2026/)**
 
-1h ago
+2h ago
 
 ---
 
@@ -87,13 +87,13 @@ Rank #1
 
 like we was just vibing near 100k, everybody loud, posting rockets, acting rich in theory then boom 90 80 70 just casually opening doors like “you forgot something down here” bro who asked for this my portfolio looking at me like I did something wrong and there’s always that one guy “it’s a healthy correction” healthy?? I’m stressed eating cereal at 2am watching candles bleed bitcoin don’t even walk downstairs it just throws itself down still not selling tho but damn can we chill for five minutes
 
-13h ago
+14h ago
 
 ---
 
 **[“Clarity on the Clarity Bill would give great comfort to the market” Bessent is working to pump our bags](https://www.reddit.com/r/Bitcoin/comments/1r3tjwq/clarity_on_the_clarity_bill_would_give_great/)**
 
-6h ago
+7h ago
 
 ---
 
@@ -101,7 +101,7 @@ like we was just vibing near 100k, everybody loud, posting rockets, acting rich 
 
 Like minnows in the ocean, or more like… plankton Motivating seeing everyone’s big buys and sometimes hard to see what everyone else is moving and sticking to putting in what won’t ruin me if I lose! Been DCAing since £57k and have bigger orders set at £45k,50,55 etc. maybe I’ll be a wholecoiner in 500 years! Hah
 
-12h ago
+13h ago
 
 ---
 
@@ -109,13 +109,13 @@ Like minnows in the ocean, or more like… plankton Motivating seeing everyone�
 
 Had to drop nearly 10k in medical bills... sure enough BTC tanks and as soon as I think im fine to buy a couple hundred... BOOM it either sky rockets or another random medical bill pops up worth a couple hundred and then BTC tanks... So I guess your welcome? And I'm sorry.
 
-2h ago
+3h ago
 
 ---
 
 **[Guess Whos Back, Back Again](https://www.reddit.com/r/Bitcoin/comments/1r3uia4/guess_whos_back_back_again/)**
 
-5h ago
+6h ago
 
 ---
 
@@ -123,7 +123,7 @@ Had to drop nearly 10k in medical bills... sure enough BTC tanks and as soon as 
 
 I’m turning Bitcoin into an anime style story. What would you want it to include?
 
-11h ago
+12h ago
 
 ---
 
@@ -131,7 +131,7 @@ I’m turning Bitcoin into an anime style story. What would you want it to inclu
 
 Well…
 
-22h ago
+23h ago
 
 ---
 
@@ -153,7 +153,7 @@ Well…
 
 **[Bitcoin Steadies in Asia After Standard Chartered Warning](https://www.bloomberg.com/news/articles/2026-02-13/bitcoin-btc-under-pressure-in-asia-after-standard-chartered-warning)**
 
-Bloomberg.com • 18h ago
+Bloomberg.com • 19h ago
 
 ---
 
@@ -161,13 +161,13 @@ Bloomberg.com • 18h ago
 
 Bitcoin price did not just dip. It reacted to something way bigger.The U.S. government revised last year’s job numbers down by nearly 900,000 positions.Markets hate one thing more than bad news. They hate unreliable data and uncertainty. This update from the Bureau of Labor Statistics just shook confidence hard. January ...
 
-Yahoo Finance • 9h ago
+Yahoo Finance • 10h ago
 
 ---
 
 **[Bitcoin Price Crash Rattles Trump's Crypto Progress. Here's The Upshot For Investors.](https://www.investors.com/news/bitcoin-price-crash-trump-cryptocurrency-progress/)**
 
-Investor's Business Daily • 6h ago
+Investor's Business Daily • 7h ago
 
 ---
 
@@ -175,7 +175,7 @@ Investor's Business Daily • 6h ago
 
 Bitcoin (CRYPTO: BTC) may be quietly transitioning into a new "winter phase," even as prices remain historically elevated, a new report shows. Bitcoin Entering New ‘Winter Phase'? According to CryptoQuant, current conditions increasingly resemble the early stages of a broader...
 
-Yahoo Finance • 1h ago
+Yahoo Finance • 2h ago
 
 ---
 
@@ -183,7 +183,7 @@ Yahoo Finance • 1h ago
 
 Bitcoin's 5% rise today has some investors questioning whether reversing course on bearish bets makes sense.
 
-Yahoo Finance • 1h ago
+Yahoo Finance • 2h ago
 
 ---
 
@@ -205,7 +205,7 @@ NewsNation • 1d ago
 
 TMZ just received a third email from the man who claims he knows the identity of Nancy Guthrie's kidnapper ... and he has upped his price.
 
-TMZ • 1h ago
+TMZ • 2h ago
 
 ---
 
@@ -213,7 +213,7 @@ TMZ • 1h ago
 
 CQ said bitcoin has not reached full capitulation yet, as key onchain indicators remain in a Bear Phase rather than the Extreme Bear Phase.
 
-The Block • 1h ago
+The Block • 2h ago
 
 ---
 
@@ -221,7 +221,7 @@ The Block • 1h ago
 
 The corporate adoption of bitcoin was dominated by a single player last month — Strategy.
 
-Bitcoin Magazine • 14h ago
+Bitcoin Magazine • 15h ago
 
 ---
 
@@ -299,7 +299,7 @@ What do Bitcoin miners actually do? An interactive exploration of hashing, diffi
 
 Explore everything you can do as a lightning app builder using Alby - getAlby/sandbox
 
-⬆️ 2 • 💬 1 • 8h ago • [GitHub](https://github.com/getAlby/sandbox)
+⬆️ 2 • 💬 1 • 9h ago • [GitHub](https://github.com/getAlby/sandbox)
 
 ---
 
@@ -323,7 +323,7 @@ Strategy executive chairman and founder Michael Saylor gives his take on Bitcoin
 
 📺 Fox Business
 
-👁️ 34K • 👍 682 • 💬 1K • ⏱️ 8:19 • 16h ago
+👁️ 34K • 👍 682 • 💬 1K • ⏱️ 8:19 • 17h ago
 
 ---
 
@@ -333,7 +333,7 @@ Bitcoin is trading at extreme correlation levels with software stocks, pushing i
 
 📺 Swan Bitcoin
 
-👁️ 3K • 👍 287 • 💬 43 • ⏱️ 11:53 • 5h ago
+👁️ 3K • 👍 287 • 💬 43 • ⏱️ 11:53 • 6h ago
 
 ---
 
@@ -343,7 +343,7 @@ Predict Crypto, Sports, Politics & More on *ClashPicks* ▻ https://www.clashpic
 
 📺 CryptosRUs
 
-👁️ 30K • 👍 1K • 💬 614 • ⏱️ 8:08 • 21h ago
+👁️ 30K • 👍 1K • 💬 614 • ⏱️ 8:08 • 22h ago
 
 ---
 
@@ -363,7 +363,7 @@ The crypto market is on a knife-edge. This Friday, February 13, 2026, we just wi
 
 📺 Discover Crypto
 
-👁️ 6K • 👍 401 • 💬 40 • ⏱️ 1:13:51 • 5h ago
+👁️ 6K • 👍 401 • 💬 40 • ⏱️ 1:13:51 • 6h ago
 
 ---
 
@@ -403,7 +403,7 @@ Pam Bondi gets slammed on live TV and the cracks in the system are impossible to
 
 📺 Simply Bitcoin
 
-👁️ 25K • 👍 2K • 💬 358 • ⏱️ 21:31 • 23h ago
+👁️ 25K • 👍 2K • 💬 358 • ⏱️ 21:31 • 1d ago
 
 ---
 

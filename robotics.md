@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-02-13T22:35:00.315072+00:00'
+updated: '2026-02-13T23:31:42.359904+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
+- social
 - videos
 - news
-- social
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** February 13, 2026 at 22:35 UTC  
+**Last Updated:** February 13, 2026 at 23:31 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -36,7 +36,7 @@ Robotics research and industry news
 
 I posted a video a couple of days ago on r/esp32 showing my Open-Source robot dance, and some people wanted to see it walk ... here you go ! Got a complete walking gate & added remote control :) Everything runs on the ESP32-S3 ! What do you think ?
 
-8h ago
+9h ago
 
 ---
 
@@ -44,13 +44,13 @@ I posted a video a couple of days ago on r/esp32 showing my Open-Source robot da
 
 From hardware to software, I see every day tons of new startups, mostly around AI. I'm not sure if it's just me that my Twitter algorithm but like every day someone appears with all kinds of products. Lately i see an abundance of data collection, AI schematic or PCB creators, AI ros configurators, etc.... Are the tech bros got tired of AI SaaS saturation and getting into robotics hoping to get an edge?
 
-4h ago
+5h ago
 
 ---
 
 **[My grandmother has seen a little too much Winter Olympics](https://www.reddit.com/r/robotics/comments/1r4316q/my_grandmother_has_seen_a_little_too_much_winter/)**
 
-14m ago
+1h ago
 
 ---
 
@@ -58,7 +58,7 @@ From hardware to software, I see every day tons of new startups, mostly around A
 
 Has anyone done this? Basically, I need to put a real world lab (I have RGB-D data and maps) into Isaac Sim somehow to create a labeled point cloud dataset for point cloud segmentation. Is there an existing way to do this that can structure the environment and label objects in the simulation world for automatic data collection?
 
-15m ago
+1h ago
 
 ---
 
@@ -66,7 +66,7 @@ Has anyone done this? Basically, I need to put a real world lab (I have RGB-D da
 
 Howdy! I am a robotic engineer who has dived deep into DIY QDD actuators, creating custom servos, and making humanoids/quadriped robots. I wanted to know if anyone has done broad market research in the best actuators or servos on the market? As of now, I see two options Smaller form factor: Servos that can do 35kg of torque, STS3215 are in this category larger form factor: integrated QDD actuators or DIY drone motors such as eagle power 90kv + 9:1 gearbox, or the GIM6010/8108 motors that get about 5-15 nM of torque. Im thinking that there must be a good middle ground option for control and robotic arms/manipulators/linkages between a small 6010 GIM bldc setup and a STS3215, but i dont see many.
 
-4h ago
+5h ago
 
 ---
 
@@ -74,7 +74,7 @@ Howdy! I am a robotic engineer who has dived deep into DIY QDD actuators, creati
 
 Hi I have an FPV drone that i want to control using a Raspberry Pi. For this i want to connect the RPi to the Flight controller and use it as a companion computer. I am using a GEPRC TAKER F745 currently on a BetaFlight firmware. Any suggestions on how i can connect them or what firmware (Ardupilot/PX4) i can use with ROS2 on the RPi.
 
-6h ago
+7h ago
 
 ---
 
@@ -82,7 +82,7 @@ Hi I have an FPV drone that i want to control using a Raspberry Pi. For this i w
 
 ROS News for the Week of February 9th, 2026                This week we got up a skeleton web page for our 2026 Global ROSCon in Toronto, meanwhile ROSCon JP and ROSCon HR have posted their CFP deadlines. Otherwise there are bunch of meetups that were just announced for Mountain View, Barcelona, Moscow, and Heilbronn. Details in the event section below.      NVIDIA Isaac ROS 4.1 for Thor has been released! They’re giving the people what they want, as this release removes the Docker requirements ...
 
-🔗 [Open Robotics Discourse](https://discourse.openrobotics.org/t/ros-news-for-the-week-of-february-9th-2026/52513) • 2h ago
+🔗 [Open Robotics Discourse](https://discourse.openrobotics.org/t/ros-news-for-the-week-of-february-9th-2026/52513) • 3h ago
 
 ---
 
@@ -90,7 +90,7 @@ ROS News for the Week of February 9th, 2026                This week we got up a
 
 The unitree motor model is go_8010_6. I have been facing this repeated error whenever I try to run the simple example code from the Unitree_actuator_sdk. --------------------------------------------- [WARNING] SerialPort::recv, unblock version, wait time out [WARNING] motor id=1 does not reply port: /dev/ttyUSB0 motor.q: 4.25378e-41 motor.temp: 0 motor.W: 6.91788e-23 motor.merror: 447169392 ----------------------------------------------- I would think this is because of the fact that the computer is not able to detect the motor but I believe thats not the case because when i checked through the motor tools vibhu@vibhu-Legion-Pro-5-16IRX9:~/unitree/unitree_actuator_sdk/motor_tools/Unitree_MotorTools_v1.2.4_x86_64_Linux$ sudo ./swboot /dev/ttyUSB0 [sudo] password for vibhu: 1.Motor ID 1 --------------- Total 1 motors ------------------------------------------------ the bolded part is the output. The motor id and the number of motors connected is being shown. I was wondering if anyone would be able to assist me with this as I have been stuck on it for more than a few days and have already tried it on different systems.
 
-3h ago
+4h ago
 
 ---
 
@@ -98,7 +98,7 @@ The unitree motor model is go_8010_6. I have been facing this repeated error whe
 
 part 2 is coming soon, I will be adding propellers and a wind vane so it can move even if the wind is coming from behind! also I may add motors someday:)
 
-23h ago
+1d ago
 
 ---
 
@@ -118,7 +118,7 @@ I built this last year. Made those suction cups from scratch, it has camera, TOF
 
 Developing a durable and affordable hand is one of the biggest challenges in robotics.
 
-BBC • 22h ago
+BBC • 23h ago
 
 ---
 
@@ -148,7 +148,7 @@ Nature • 1d ago
 
 **[What happens in Vegas: Three days at Manifest 2026](https://www.axios.com/pro/supply-chain-deals/2026/02/13/manifest-2026-supply-chain-expo-events-receptions)**
 
-Axios • 2h ago
+Axios • 3h ago
 
 ---
 
@@ -202,7 +202,7 @@ Foundation Future Industries CEO Sankaet Pathak discusses the rise of humanoid r
 
 📺 Fox Business Clips
 
-👁️ 98K • 👍 3K • 💬 2K • ⏱️ 9:47 • 7h ago
+👁️ 98K • 👍 3K • 💬 2K • ⏱️ 9:47 • 8h ago
 
 ---
 
@@ -212,7 +212,7 @@ A massive robotics shift is unfolding right in front of us. Boston Dynamics has 
 
 📺 AI Revolution
 
-👁️ 85K • 👍 2K • 💬 165 • ⏱️ 11:59 • 2d ago
+👁️ 85K • 👍 2K • 💬 165 • ⏱️ 11:59 • 3d ago
 
 ---
 
@@ -222,7 +222,7 @@ Based on Unitree's UnifoLM-X1-0 embodied AI model, this is an actual deployment 
 
 📺 Unitree Robotics
 
-👁️ 17K • 👍 613 • 💬 99 • ⏱️ 0:45 • 12h ago
+👁️ 17K • 👍 613 • 💬 99 • ⏱️ 0:45 • 13h ago
 
 ---
 
@@ -240,7 +240,7 @@ China's humanoid robots are Wild 'N Out as they usher in the Year of the Horse. 
 
 📺 Kalil 4.0
 
-👁️ 345 • 👍 18 • 💬 3 • ⏱️ 1:52 • 48m ago
+👁️ 345 • 👍 18 • 💬 3 • ⏱️ 1:52 • 1h ago
 
 ---
 
@@ -260,7 +260,7 @@ The biggest fear about humanoid robots isn't strength. It's control. Future robo
 
 📺 By 2050
 
-👁️ 37K • 👍 1K • 💬 28 • ⏱️ 0:57 • 19h ago
+👁️ 37K • 👍 1K • 💬 28 • ⏱️ 0:57 • 20h ago
 
 ---
 
@@ -270,7 +270,7 @@ Can a little Pi-powered bot teach my kids? The Reachy Mini Wireless I used was p
 
 📺 Jeff Geerling
 
-👁️ 30K • 👍 2K • 💬 161 • ⏱️ 12:38 • 7h ago
+👁️ 30K • 👍 2K • 💬 161 • ⏱️ 12:38 • 8h ago
 
 ---
 
@@ -290,7 +290,7 @@ The AI and robot situation is growing much faster than we think. Ai, mass survei
 
 📺 Aaron Page 
 
-👁️ 26K • 👍 1K • 💬 198 • ⏱️ 24:43 • 1d ago
+👁️ 26K • 👍 1K • 💬 198 • ⏱️ 24:43 • 2d ago
 
 ---
 
