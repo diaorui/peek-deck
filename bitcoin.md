@@ -3,14 +3,14 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-02-13T09:10:48.560921+00:00'
+updated: '2026-02-13T10:07:45.282654+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- videos
-- social
 - news
+- social
+- videos
 - cryptocurrency
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** February 13, 2026 at 09:10 UTC  
+**Last Updated:** February 13, 2026 at 10:07 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -54,17 +54,17 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1326.46B
+**Market Cap:** $1336.32B
 Rank #1
 
 **Circulating Supply:** 19,988,550 BTC
 95.2% of max
 
 **All-Time High:** $126,080.00
--47.4%
+-47.0%
 
 **All-Time Low:** $67.81
-+97752.8%
++98435.6%
 
 ---
 
@@ -79,7 +79,7 @@ Rank #1
 
 **[VanEck said it knows 13 governments that are actively mining Bitcoin](https://www.reddit.com/r/Bitcoin/comments/1r35qqv/vaneck_said_it_knows_13_governments_that_are/)**
 
-11h ago
+12h ago
 
 ---
 
@@ -87,13 +87,13 @@ Rank #1
 
 Well…
 
-8h ago
+9h ago
 
 ---
 
 **[Bitcoin, what are you doing](https://www.reddit.com/r/Bitcoin/comments/1r2u1yl/bitcoin_what_are_you_doing/)**
 
-19h ago
+20h ago
 
 ---
 
@@ -107,7 +107,7 @@ Well…
 
 Just want to let you know that bitcoin will reach 38,000 according to my dream. I’m still DCA everyday with full confidence. Your welcome
 
-5h ago
+6h ago
 
 ---
 
@@ -115,7 +115,7 @@ Just want to let you know that bitcoin will reach 38,000 according to my dream. 
 
 Please utilize this sticky thread for all general Bitcoin discussions! If you see posts on the front page or /r/Bitcoin/new which are better suited for this daily discussion thread, please help out by directing the OP to this thread instead. Thank you! If you don't get an answer to your question, you can try phrasing it differently or commenting again tomorrow. Please check the previous discussion thread for unanswered questions.
 
-3h ago
+4h ago
 
 ---
 
@@ -123,7 +123,7 @@ Please utilize this sticky thread for all general Bitcoin discussions! If you se
 
 I set alerts for my dip buying strategy. I have been buying since $80K and these are my next targets. Hope it all hit perfectly. I may increase the amounts depending on my savings.
 
-22h ago
+23h ago
 
 ---
 
@@ -131,7 +131,7 @@ I set alerts for my dip buying strategy. I have been buying since $80K and these
 
 Since bitcoin is dropping, please advise on should I keep this win? I have never invested in crypto and have no idea what to do with this. Yes it was pure dumb luck. Now pleas help!
 
-12h ago
+13h ago
 
 ---
 
@@ -139,7 +139,7 @@ Since bitcoin is dropping, please advise on should I keep this win? I have never
 
 Grant Cardone just listed his mansion for sale for 700 BTC. Just got to know there are even more expensive properties already for sale at over 700 BTC.
 
-5h ago
+6h ago
 
 ---
 
@@ -147,7 +147,7 @@ Grant Cardone just listed his mansion for sale for 700 BTC. Just got to know the
 
 I really want to start self-custody and have my bitcoing actually be my own. But I'm terrified of losing my passkey. I'm notoriously bad at keeping stuff working. I've already lost multiple phones and have lost my 2fa to current exchanges. Only thing that saved me both times was KYC and customer support.
 
-11h ago
+12h ago
 
 ---
 
@@ -159,7 +159,7 @@ I really want to start self-custody and have my bitcoing actually be my own. But
 
 Bitcoin has a history of falling about 75% during each four-year cycle, suggesting the token is on track to fall even further in the near future.
 
-CNBC • 18h ago
+CNBC • 19h ago
 
 ---
 
@@ -167,13 +167,13 @@ CNBC • 18h ago
 
 The strong correlation between crypto and the software sector reasserted itself on Wednesday
 
-CoinDesk • 7h ago
+CoinDesk • 8h ago
 
 ---
 
 **[Bitcoin Steadies in Asia After Standard Chartered Warning](https://www.bloomberg.com/news/articles/2026-02-13/bitcoin-btc-under-pressure-in-asia-after-standard-chartered-warning)**
 
-Bloomberg.com • 4h ago
+Bloomberg.com • 5h ago
 
 ---
 
@@ -181,7 +181,7 @@ Bloomberg.com • 4h ago
 
 HBAR eyes breakout with $4.34 million short squeeze potential, but Bitcoin correlation may limit upside if BTC weakens.
 
-Yahoo Finance • 1h ago
+Yahoo Finance • 2h ago
 
 ---
 
@@ -195,7 +195,7 @@ NewsNation • 1d ago
 
 Investors are nursing huge losses on 2025 crypto IPOs, but stablecoin companies could be a haven.
 
-Morningstar • 21h ago
+Morningstar • 22h ago
 
 ---
 
@@ -203,7 +203,7 @@ Morningstar • 21h ago
 
 The corporate adoption of bitcoin was dominated by a single player last month — Strategy.
 
-Bitcoin Magazine • 14h ago
+Bitcoin Magazine • 15h ago
 
 ---
 
@@ -219,7 +219,7 @@ CNBC • 2d ago
 
 The perpetual preferred STRC hits $100 par amid bitcoin downturn, enabling potential further BTC purchases for the company.
 
-CoinDesk • 10h ago
+CoinDesk • 11h ago
 
 ---
 
@@ -317,27 +317,17 @@ Bitcoin's crash off its all time high and then its sudden crash last week. It le
 
 📺 Mark Moss
 
-👁️ 122K • 👍 5K • 💬 738 • ⏱️ 16:43 • 13h ago
+👁️ 141K • 👍 6K • 💬 813 • ⏱️ 16:43 • 14h ago
 
 ---
 
-**[Largest Bitcoin Miner Predicts Next Bitcoin Bull Run](https://www.youtube.com/watch?v=XyChljTBrOk)**
+**[Bitcoin Investors...This Doesn&#39;t Look Good](https://www.youtube.com/watch?v=ISrs739Wemk)**
 
-Fred Thiel is the CEO of Marathon Digital and a leading voice at the intersection of bitcoin, energy, and data center infrastructure.
+Predict Crypto, Sports, Politics & More on *ClashPicks* ▻ https://www.clashpicks.com/ Follow ClashPicks' X ...
 
-📺 Anthony Pompliano
+📺 CryptosRUs
 
-👁️ 27K • 👍 962 • 💬 59 • ⏱️ 18:55 • 11h ago
-
----
-
-**[Did Pam Bondi’s MELTDOWN Signal a Bitcoin BREAKOUT?](https://www.youtube.com/watch?v=aDL3QVutH8Q)**
-
-Pam Bondi gets slammed on live TV and the cracks in the system are impossible to ignore. As global uncertainty explodes and the ...
-
-📺 Simply Bitcoin
-
-👁️ 16K • 👍 2K • 💬 206 • ⏱️ 21:31 • 9h ago
+👁️ 23K • 👍 1K • 💬 380 • ⏱️ 8:08 • 8h ago
 
 ---
 
@@ -347,17 +337,27 @@ Bitcoin #Crypto #Finance Stay ahead of the market — FREE Join the DataDash Pro
 
 📺 DataDash
 
-👁️ 6K • 👍 331 • 💬 23 • ⏱️ 15:09 • 17h ago
+👁️ 6K • 👍 337 • 💬 26 • ⏱️ 15:09 • 18h ago
 
 ---
 
-**[Michael Saylor really looks scared 😱](https://www.youtube.com/watch?v=57mjeAjkPNQ)**
+**[🚨 MICHAEL SAYLOR SAID THIS ABOUT BITCOIN TODAY!!!](https://www.youtube.com/watch?v=AUflakPWtQI)**
 
 LIMITED TIME: ✓ Bitunix (no kyc, $10k bonus): https://www.bitunix.com/register?vipCode=AltcoinDaily 50% deposit bonus on ...
 
 📺 Altcoin Daily
 
-👁️ 45K • 👍 554 • 💬 109 • ⏱️ 0:34 • 20h ago
+👁️ 72K • 👍 1K • 💬 91 • ⏱️ 1:14 • 1d ago
+
+---
+
+**[Bitcoin is ‘the most useful capital asset in the world,’ Michael Saylor emphasizes](https://www.youtube.com/watch?v=l1tGOvg288k)**
+
+Strategy executive chairman and founder Michael Saylor gives his take on Bitcoin's volatility on 'Making Money.' #fox #media ...
+
+📺 Fox Business
+
+👁️ 6K • 👍 203 • 💬 214 • ⏱️ 8:19 • 3h ago
 
 ---
 
@@ -367,27 +367,17 @@ We're watching the worst crypto crash since the FTX scandal. Ben McKenzie explai
 
 📺 More Perfect Union
 
-👁️ 1.2M • 👍 71K • 💬 6K • ⏱️ 2:50 • 1d ago
+👁️ 1.2M • 👍 74K • 💬 6K • ⏱️ 2:50 • 1d ago
 
 ---
 
-**[Bitcoin and Crypto At EXTREME Fear Levels Never Seen Before](https://www.youtube.com/watch?v=D31PIso6rsA)**
+**[Largest Bitcoin Miner Predicts Next Bitcoin Bull Run](https://www.youtube.com/watch?v=XyChljTBrOk)**
 
-Predict Crypto, Sports, Politics & More on *ClashPicks* ▻ https://www.clashpicks.com/ Follow ClashPicks' X ...
+Fred Thiel is the CEO of Marathon Digital and a leading voice at the intersection of bitcoin, energy, and data center infrastructure.
 
-📺 CryptosRUs
+📺 Anthony Pompliano
 
-👁️ 27K • 👍 1K • 💬 153 • ⏱️ 51:44 • 17h ago
-
----
-
-**[🚨Crypto Bottom Confirmed?](https://www.youtube.com/watch?v=Uyj68uKO5Sw)**
-
-The crypto market is at a massive crossroads. After the "Crypto Winter" correction that saw Bitcoin drop from its $126000 all-time ...
-
-📺 Discover Crypto
-
-👁️ 4K • 👍 224 • 💬 24 • ⏱️ 9:41 • 9h ago
+👁️ 31K • 👍 1K • 💬 59 • ⏱️ 18:55 • 12h ago
 
 ---
 
@@ -397,17 +387,27 @@ Let's talk about a few indicators that give some suggestions on how low the pric
 
 📺 Benjamin Cowen
 
-👁️ 139K • 👍 9K • 💬 632 • ⏱️ 23:30 • 1d ago
+👁️ 143K • 👍 9K • 💬 640 • ⏱️ 23:30 • 1d ago
 
 ---
 
-**[LIVE: Trump Announces Important News About Crypto! This Speech Will Change the Crypto Industry](https://www.youtube.com/watch?v=EYhb0VxlZOo)**
+**[Bitcoin and Crypto At EXTREME Fear Levels Never Seen Before](https://www.youtube.com/watch?v=D31PIso6rsA)**
 
-TrumpCrypto2026 #DigitalAssets #TrumpAnnouncement Welcome to the Trump Crypto Forum 2026 — streaming LIVE from ...
+Predict Crypto, Sports, Politics & More on *ClashPicks* ▻ https://www.clashpicks.com/ Follow ClashPicks' X ...
 
-📺 vid' SIGN
+📺 CryptosRUs
 
-👁️ 6K • 👍 3K • 14h ago
+👁️ 27K • 👍 1K • 💬 183 • ⏱️ 51:44 • 18h ago
+
+---
+
+**[🚨Crypto Bottom Confirmed?](https://www.youtube.com/watch?v=Uyj68uKO5Sw)**
+
+The crypto market is at a massive crossroads. After the "Crypto Winter" correction that saw Bitcoin drop from its $126000 all-time ...
+
+📺 Discover Crypto
+
+👁️ 4K • 👍 241 • 💬 41 • ⏱️ 9:41 • 10h ago
 
 ---
 

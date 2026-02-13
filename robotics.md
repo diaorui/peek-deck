@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-02-13T09:10:48.570284+00:00'
+updated: '2026-02-13T10:07:45.292377+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- videos
 - news
 - social
+- videos
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** February 13, 2026 at 09:10 UTC  
+**Last Updated:** February 13, 2026 at 10:07 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -36,7 +36,7 @@ Robotics research and industry news
 
 part 2 is coming soon, I will be adding propellers and a wind vane so it can move even if the wind is coming from behind! also I may add motors someday:)
 
-9h ago
+10h ago
 
 ---
 
@@ -52,7 +52,7 @@ I built this last year. Made those suction cups from scratch, it has camera, TOF
 
 As someone starting research in robotics, this has been on my mind for a while. I see a new VLA every week claiming it outperforms XYZ with better quality and more data. If that’s all it takes, what problems are actually still open? If everything can be countered with “just get more data,” what is left to research?
 
-15h ago
+16h ago
 
 ---
 
@@ -76,7 +76,7 @@ Boston Dynamics CEO Robert Playter told staff on Tuesday that he'll be stepping 
 
 Hi! I’ve been using TurtleBot with Gazebo Classic for a simulation project and recently migrated my model to Gazebo Ignition. Since the migration I’ve run into a few issues, especially with wall and floor textures (which I understand is expected due to conversion), but the main problem is visible gaps between walls. I attached screenshots showing how a section of the map is supposed to look vs how it currently looks in Ignition. I tried slightly increasing the wall lengths, but it didn’t noticeably improve the gaps. Does anyone know what typically causes this after Classic to Ignition conversion or how to properly fix it? I’m not sure if this is a common issue, but I wasn’t able to find much information about it online, so apologies if this is something obvious. This is a bit time-sensitive, so I’d really appreciate any guidance!
 
-10h ago
+11h ago
 
 ---
 
@@ -84,7 +84,7 @@ Hi! I’ve been using TurtleBot with Gazebo Classic for a simulation project and
 
 This article argues that robot deployment is starting to shift away from traditional application-specific coding toward AI-powered low-code and no-code platforms. Instead of writing custom logic for every product change, teams are using visual interfaces, task demonstration, and AI reasoning to configure workflows. In inspection and assembly, systems can adapt to variation and real-time inputs without being explicitly programmed for every scenario.
 
-🔗 [Automate](https://www.automate.org/ai/industry-insights/ai-low-code-and-no-code-solutions-in-robotics) • 18h ago
+🔗 [Automate](https://www.automate.org/ai/industry-insights/ai-low-code-and-no-code-solutions-in-robotics) • 19h ago
 
 ---
 
@@ -100,7 +100,7 @@ Been working on my DIY drone for the past few days. Facing a weird issue, motors
 
 Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.
 
-🔗 [youtube.com](https://youtube.com/shorts/oKXw1YJcoXU?si=eBA6b4QUD-VM8VIq) • 20h ago
+🔗 [youtube.com](https://youtube.com/shorts/oKXw1YJcoXU?si=eBA6b4QUD-VM8VIq) • 21h ago
 
 ---
 
@@ -120,7 +120,7 @@ Enjoy the videos and music you love, upload original content, and share it all w
 
 Developing a durable and affordable hand is one of the biggest challenges in robotics.
 
-BBC • 9h ago
+BBC • 10h ago
 
 ---
 
@@ -128,7 +128,7 @@ BBC • 9h ago
 
 npj Robotics - A call for a performance-driven approach for soft robotics research
 
-Nature • 21h ago
+Nature • 22h ago
 
 ---
 
@@ -136,7 +136,7 @@ Nature • 21h ago
 
 This ChinaPower feature examines China's push to lead the world in robotics and the geopolitical implications.
 
-ChinaPower Project • 13h ago
+ChinaPower Project • 14h ago
 
 ---
 
@@ -160,7 +160,7 @@ Fox News • 2d ago
 
 Larry Savage, a professor of labour studies at Brock University, says governments might need to step in to help protect jobs that are under the threat of automation.
 
-Automotive News • 22h ago
+Automotive News • 23h ago
 
 ---
 
@@ -206,27 +206,15 @@ A massive robotics shift is unfolding right in front of us. Boston Dynamics has 
 
 📺 AI Revolution
 
-👁️ 79K • 👍 2K • 💬 148 • ⏱️ 11:59 • 2d ago
+👁️ 80K • 👍 2K • 💬 148 • ⏱️ 11:59 • 2d ago
 
 ---
 
-**[Sometimes, War Robots is literally UNPLAYABLE!](https://www.youtube.com/watch?v=O3_t2JHbuo0)**
+**[Tiny Robots That Dissolve Kidney Stones 😮](https://www.youtube.com/watch?v=FVXOj-VrJFc)**
 
-War Robots Gameplay, trying the UE VORTEX NUO but realizing that the robot is unplayable now with so much Bash, Boom and ...
+📺 Zack D. Films
 
-📺 Manni-Gaming
-
-👁️ 20K • 👍 1K • 💬 351 • ⏱️ 10:29 • 1d ago
-
----
-
-**[The Robot Revolution Just Got Real: Why Boston Dynamics and Figure Are About to Change Everything](https://www.youtube.com/watch?v=M36fg52xqtc)**
-
-GET MY FREE GUIDE: *The Content Creator's AI Blueprint: From 25 Hours to 5 Minutes* https://FirstMovers.ai/blueprint/ ...
-
-📺 Julia McCoy
-
-👁️ 37K • 👍 2K • 💬 355 • ⏱️ 17:32 • 5d ago
+👁️ 3.6M • 👍 146K • 💬 1K • ⏱️ 0:23 • 18h ago
 
 ---
 
@@ -236,45 +224,27 @@ Chinese robotics company AGIBOT redefined the intersection of technology and cul
 
 📺 ABS-CBN News
 
-👁️ 7K • 👍 67 • 💬 51 • ⏱️ 3:09 • 1d ago
+👁️ 8K • 👍 70 • 💬 51 • ⏱️ 3:09 • 1d ago
 
 ---
 
-**[Atlas Airborne | Boston Dynamics &amp; @rai-inst](https://www.youtube.com/watch?v=UNorxwlZlFk)**
+**[The AI Robot Situation Is Growing Faster Than We Think… ](https://www.youtube.com/watch?v=fkyChIRSF18)**
 
-Now that the Atlas enterprise platform is getting to work, the research version gets one last run in the sun. Our engineers made ...
+The AI and robot situation is growing much faster than we think. Ai, mass surveillance, and robots not only working in the streets, ...
 
-📺 Boston Dynamics
+📺 Aaron Page 
 
-👁️ 1.5M • 👍 42K • 💬 4K • ⏱️ 1:38 • 5d ago
-
----
-
-**[Tiny Robots That Dissolve Kidney Stones 😮](https://www.youtube.com/watch?v=FVXOj-VrJFc)**
-
-📺 Zack D. Films
-
-👁️ 3.2M • 👍 136K • 💬 1K • ⏱️ 0:23 • 17h ago
+👁️ 21K • 👍 1K • 💬 164 • ⏱️ 24:43 • 1d ago
 
 ---
 
-**[Cardi B falls while dancing on a robot 😭](https://www.youtube.com/watch?v=x4D0Y18vN_8)**
+**[Sometimes, War Robots is literally UNPLAYABLE!](https://www.youtube.com/watch?v=O3_t2JHbuo0)**
 
-Cardi B falls while dancing on a robot ©️ to tmz #cardib **Fair Use Disclaimer:** This content is for educational, commentary, ...
+War Robots Gameplay, trying the UE VORTEX NUO but realizing that the robot is unplayable now with so much Bash, Boom and ...
 
-📺 POPVEIN
+📺 Manni-Gaming
 
-👁️ 2.6M • 👍 28K • 💬 482 • ⏱️ 0:08 • 4d ago
-
----
-
-**[Tesla Was Never a Car Company #teslaoptimus  #elonmusk  #teslarobot  #teslabotgen3 #humanoidrobots](https://www.youtube.com/watch?v=slqW7zBA6Oc)**
-
-They laughed when Elon Musk brought a man in a spandex suit on stage. But in 2026, nobody is laughing. Tesla was never a car ...
-
-📺 By 2050
-
-👁️ 1.5M • 👍 24K • 💬 599 • ⏱️ 1:00 • 4d ago
+👁️ 21K • 👍 1K • 💬 367 • ⏱️ 10:29 • 1d ago
 
 ---
 
@@ -284,17 +254,47 @@ Peter & Dave sit down with Brett Adcock to discuss the future of Figure and Huma
 
 📺 Peter H. Diamandis
 
-👁️ 80K • 👍 2K • 💬 1K • ⏱️ 1:43:48 • 1d ago
+👁️ 83K • 👍 2K • 💬 1K • ⏱️ 1:43:48 • 1d ago
 
 ---
 
-**[Elon: This Robot Could Replace Surgeons👀 #elonmusk #ai #Robotics #Optimus #Innovation #surgeon](https://www.youtube.com/watch?v=BHKQFCh-7fg)**
+**[Humanoid Robot Falls in Front of Everyone](https://www.youtube.com/watch?v=4M0y26U_FRk)**
 
-A bold prediction like this instantly sparks curiosity and debate across the world. The idea that advanced robotics and artificial ...
+XPeng's humanoid robot IRON went viral after it fell during its first offline public demo at MixC Shenzhen Bay in Shenzhen on ...
 
-📺 Billionaire Shots
+📺 Game of Tomorrow
 
-👁️ 14K • 👍 850 • 💬 105 • ⏱️ 0:36 • 2d ago
+👁️ 611K • 👍 11K • 💬 948 • ⏱️ 0:48 • 3d ago
+
+---
+
+**[Cardi B falls while dancing on a robot 😭](https://www.youtube.com/watch?v=x4D0Y18vN_8)**
+
+Cardi B falls while dancing on a robot ©️ to tmz #cardib **Fair Use Disclaimer:** This content is for educational, commentary, ...
+
+📺 POPVEIN
+
+👁️ 2.6M • 👍 28K • 💬 489 • ⏱️ 0:08 • 4d ago
+
+---
+
+**[Bully #robot #eiliko](https://www.youtube.com/watch?v=Gy30MdjRKk8)**
+
+Bully #toys #eilik #funny.
+
+📺 Pro Activate Shop
+
+👁️ 145K • 👍 676 • 💬 2 • ⏱️ 0:17 • 2d ago
+
+---
+
+**[Trump Stunned as Elon Musk’s AI Robot Serves Coffee](https://www.youtube.com/watch?v=_QH74ry8PZY)**
+
+Trump looks stunned as an AI-powered robot linked to Elon Musk calmly serves him a cup of coffee. A simple moment that feels ...
+
+📺 “Trending World”
+
+👁️ 446K • 👍 3K • 💬 76 • ⏱️ 0:08 • 1d ago
 
 ---
 
