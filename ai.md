@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-02-12T23:30:51.722909+00:00'
+updated: '2026-02-13T02:25:47.094056+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- videos
-- repositories
-- news
 - social
+- videos
+- news
+- repositories
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** February 12, 2026 at 23:30 UTC  
+**Last Updated:** February 13, 2026 at 02:25 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -41,15 +41,23 @@ AI news, discussions, and developments
 
 Spotify credits Claude Code and its internal AI system Honk with speeding up development.
 
-🔗 [TechCrunch](https://techcrunch.com/2026/02/12/spotify-says-its-best-developers-havent-written-a-line-of-code-since-december-thanks-to-ai/) • 2h ago
+🔗 [TechCrunch](https://techcrunch.com/2026/02/12/spotify-says-its-best-developers-havent-written-a-line-of-code-since-december-thanks-to-ai/) • 5h ago
 
 ---
 
-**[The Women Mourning the “Deaths” of Their AI Boyfriends with ChatGPT Shutdown](https://www.reddit.com/r/artificial/comments/1r32v4j/the_women_mourning_the_deaths_of_their_ai/)**
+**[Holy Grail: Open Source Autonomous Development Agent](https://www.reddit.com/r/artificial/comments/1r3bj6a/holy_grail_open_source_autonomous_development/)**
 
-A change from OpenAI is prompting the "death" of many AI boyfriends. Find out how some human/robot couples are coping.
+62 stars on github https://github.com/dakotalock/holygrailopensource Readme is included. What it does: This is my passion project. It is an end to end development pipeline that can run autonomously. It also has stateful memory, an in app IDE, live internet access, an in app internet browser, a pseudo self improvement loop, and more. This is completely open source and free to use. If you use this, please credit the original project. I’m open sourcing it to try to get attention and hopefully a job in the software development industry. Target audience: Software developers Comparison: It’s like replit if replit has stateful memory, an in app IDE, an in app internet browser, and improved the more you used it. It’s like replit but way better lol Codex can pilot this autonomously for hours at a time (see readme), and has. The core LLM I used is Gemini because it’s free, but this can be changed to GPT very easily with very minimal alterations to the code (simply change the model used and the api call function).
 
-🔗 [Playboy](https://www.playboy.com/read/sex-relationships/the-women-mourning-the-deaths-of-their-ai-boyfriends) • 4h ago
+1h ago
+
+---
+
+**[What's the most underrated way you've seen AI used for actual business tasks?](https://www.reddit.com/r/artificial/comments/1r38tis/whats_the_most_underrated_way_youve_seen_ai_used/)**
+
+Everyone talks about AI for chatbots and image generation. But I've been finding the most value in boring practical stuff. Writing landing page copy, structuring email sequences, generating SEO content briefs, building out template collections. Not flashy, but it saves hours every single day. What's the most underrated or overlooked business use case you've found for AI tools?
+
+3h ago
 
 ---
 
@@ -57,23 +65,15 @@ A change from OpenAI is prompting the "death" of many AI boyfriends. Find out ho
 
 The CLI is becoming a dominant surface area for developer productivity - it offers such an ergonomic feel that makes it easier to switch between tools. So to make our signals-based observability for agents even easier to consume, we've completely revamped the plano cli to be an agent+developer friendly experience. No UI installs, no additional dependencies - just high-fidelity agentic signals and tracing right from the cli. Out in the latest 0.4.6 release.
 
-7h ago
+10h ago
 
 ---
 
-**[CROW: "L'Ouverture" (The Opening) 1983](https://www.reddit.com/r/artificial/comments/1r35lov/crow_louverture_the_opening_1983/)**
+**[Izwi v0.1.0-alpha is out: new desktop app for local audio inference](https://www.reddit.com/r/artificial/comments/1r2yblf/izwi_v010alpha_is_out_new_desktop_app_for_local/)**
 
-I'm continuing to build AI-based musical artists and showcases for my work. Here's a music video sample for my French experimental Coldwave artist, CROW. I use OpenAI for my workstation with a variety of generators for video, Midjourney for all visuals, and SUNO for music. This character is completely ficticious and I spend time worldbuilding to create a believable persona. On SoundCloud, she has racked up thousands of listens for the albums and playlists I've released. Here is the faux info sheet on this release. VH1 RETRO REWIND: MUSIC VIDEOS THAT SHOCKED AMERICA CROW - "L'Ouverture" (The Opening) (1983) From the album: Messe Pour Les Ombres (1982, Éditions Spectrale) Director: Julian Grant Runtime: US Distribution: Limited VHS bootleg only In an attempt to break the French experimental artist into American markets, indie distributor Nuit Noire Films acquired the music video for "L'Ouverture" (marketed in the US as "The Opening"), the opening invocation from CROW's debut cassette Messe Pour Les Ombres. Shot in Paris's Église Saint-Merri in stark black-and-white 16mm and color 35mm, the video featured CROW's unsettling performance style: standing motionless while her voice moved through its notorious four-octave range. MTV rejected the video outright in 1983, citing "disturbing imagery not suitable for daytime rotation." VH1 acquired it briefly in 1989 for their short-lived After Dark programming block but pulled it after two airings following viewer complaints about "unexplained audio phenomena" — several viewers reported hearing voices that weren't in the original broadcast. The video found its true audience in underground club culture. VHS bootlegs circulated through goth and industrial venues in New York, Los Angeles, and Chicago throughout the mid-to-late '80s, with DJs reportedly using it as visual atmosphere during late-night sets. Rare original VHS copies now command $500-1000 among collectors. MTV Rejection Letter excerpt (1983): "While we appreciate the artistic intent, the extended shots of the performer in near-total darkness, combined with audio that our technical team describes as 'potentially harmful to broadcast equipment,' makes this unsuitable for our format." Critical Response: The Village Voice (1989): "European art-terror that American television wasn't ready for." Industrial Nation zine (1990): "Every goth club needs this video. CROW's stillness is more terrifying than any horror movie." The video has never received an official US release and remains one of the most sought-after pieces of 1980s underground video art. CROW disappeared in 1987 before any follow-up promotional videos could be produced. VH1 ARCHIVES NOTE: Original broadcast master was erased per standard policy. No network copies exist. https://youtu.be/VuhiDwCIzGs
+We just shipped Izwi Desktop + the first v0.1.0-alpha releases. Izwi is a local-first audio inference stack (TTS, ASR, model management) with: CLI (izwi) OpenAI-style local API Web UI New desktop app (Tauri) Alpha installers are now available for: macOS (.dmg) Windows (.exe) Linux (.deb) plus terminal bundles for each platform. If you want to test local speech workflows without cloud dependency, this is ready for early feedback. Release: https://github.com/agentem-ai/izwi
 
-2h ago
-
----
-
-**[$750M Azure deal + Amazon lawsuit: Perplexity’s wild week](https://www.reddit.com/r/artificial/comments/1r2xjhp/750m_azure_deal_amazon_lawsuit_perplexitys_wild/)**
-
-Perplexity just signed a $750M deal with Microsoft Azure. The confusing bit is that Amazon is already actively suing them. Here's why this matters for AI search and cloud strategy.
-
-🔗 [writtenlyhub.com](https://www.writtenlyhub.com/news/perplexity-750-million-microsoft-azure-deal-amazon-lawsuit%3C/a) • 7h ago
+9h ago
 
 ---
 
@@ -85,11 +85,11 @@ Frustrated by the AI industry’s claims of proving math results without offerin
 
 ---
 
-**[Izwi v0.1.0-alpha is out: new desktop app for local audio inference](https://www.reddit.com/r/artificial/comments/1r2yblf/izwi_v010alpha_is_out_new_desktop_app_for_local/)**
+**[$750M Azure deal + Amazon lawsuit: Perplexity’s wild week](https://www.reddit.com/r/artificial/comments/1r2xjhp/750m_azure_deal_amazon_lawsuit_perplexitys_wild/)**
 
-We just shipped Izwi Desktop + the first v0.1.0-alpha releases. Izwi is a local-first audio inference stack (TTS, ASR, model management) with: CLI (izwi) OpenAI-style local API Web UI New desktop app (Tauri) Alpha installers are now available for: macOS (.dmg) Windows (.exe) Linux (.deb) plus terminal bundles for each platform. If you want to test local speech workflows without cloud dependency, this is ready for early feedback. Release: https://github.com/agentem-ai/izwi
+Perplexity just signed a $750M deal with Microsoft Azure. The confusing bit is that Amazon is already actively suing them. Here's why this matters for AI search and cloud strategy.
 
-6h ago
+🔗 [writtenlyhub.com](https://www.writtenlyhub.com/news/perplexity-750-million-microsoft-azure-deal-amazon-lawsuit%3C/a) • 10h ago
 
 ---
 
@@ -97,7 +97,7 @@ We just shipped Izwi Desktop + the first v0.1.0-alpha releases. Izwi is a local-
 
 In a remarkable encounter, human scientists had what they describe as a "conversation" with a humpback whale named Twain.
 
-🔗 [Earth.com](https://www.earth.com/news/ai-helps-humans-have-20-minute-conversation-with-humpback-whale-named-twain/) • 21h ago
+🔗 [Earth.com](https://www.earth.com/news/ai-helps-humans-have-20-minute-conversation-with-humpback-whale-named-twain/) • 1d ago
 
 ---
 
@@ -109,11 +109,11 @@ Musk told employees that xAI needs a lunar manufacturing facility, a factory on 
 
 ---
 
-**[Built a geolocation tool that can find coordinates of any image within 3 minutes (Waitlist)](https://www.reddit.com/r/artificial/comments/1r2tfj2/built_a_geolocation_tool_that_can_find/)**
+**[LLMs as Cognitive Architectures: Notebooks as Long-Term Memory](https://www.reddit.com/r/artificial/comments/1r2hah8/llms_as_cognitive_architectures_notebooks_as/)**
 
-Hey guys, Thank you for you immense love and support on the previous two posts regarding Netryx. Bringing this responsibly to the consumer and making Netryx run locally will be a huge challenge, I'm currently working on it and I should be able to solve this in a month. I've attached the same demo for people seeing this post for the first time. I would appreciate various suggestions and feedback regarding the pricing etc. If you need the link for the waitlist, dm.
+LLMs operate with a context window that functions like working memory: limited capacity, fast access, and everything "in view." When task-relevant information exceeds that window, the LLM loses coherence. The standard solution is RAG: offload information to a vector store and retrieve it via embedding similarity search. The problem is that embedding similarity is semantically shallow. It matches on surface-level likeness, not reasoning. If an LLM needs to recall why it chose approach X over approach Y three iterations ago, a vector search might return five superficially similar chunks without presenting the actual rationale. This is especially brittle when recovering prior reasoning processes, iterative refinements, and contextual decisions made across sessions. A proposed solution is to have an LLM save the content of its context window as it fills up in a citation-grounded document store (like NotebookLM), and then query it with natural language prompts. Essentially allowing the LLM to ask questions about its own prior work. This approach replaces vector similarity with natural language reasoning as the retrieval mechanism. This leverages the full reasoning capability of the retrieval model, not just embedding proximity. The result is higher-quality retrieval for exactly the kind of nuanced, context-dependent information that matters most in extended tasks. Efficiency concerns can be addressed with a vector cache layer for previously-queried results. Looking for feedback: Has this been explored? What am I missing? Pointers to related work, groups, or authors welcome.
 
-10h ago
+1d ago
 
 ---
 
@@ -121,47 +121,9 @@ Hey guys, Thank you for you immense love and support on the previous two posts r
 
 ## Google News: "ai"
 
-**[The existential AI threat is here — and some AI leaders are fleeing](https://www.axios.com/2026/02/12/ai-openai-agi-xai-doomsday-scenario)**
+**[Opinion | A.I. Companies Are Eating Higher Education](https://www.nytimes.com/2026/02/12/opinion/ai-companies-college-students.html)**
 
-The AI warnings are coming from inside the labs.
-
-Axios • 13h ago
-
----
-
-**[Anthropic AI safety researcher quits with 'world in peril' warning](https://www.bbc.com/news/articles/c62dlvdq3e3o)**
-
-It comes in the same week an OpenAI researcher resigned amid concerns about its decision to start testing ChatGPT ads.
-
-BBC • 11h ago
-
----
-
-**[Video: Opinion | Now That It’s Been Unleashed, Can A.I. Be Controlled?](https://www.nytimes.com/video/opinion/100000010695660/now-that-its-been-unleashed-can-ai-be-controlled.html)**
-
-Could A.I. go rogue? Dario Amodei, the chief executive of Anthropic, says “something will go wrong,” but he believes “there is a science of how to control” the technology.
-
-The New York Times • 1h ago
-
----
-
-**[China’s Rising AI Billionaires](https://www.bloomberg.com/features/2026-china-ai-billionaires/)**
-
-Bloomberg.com • 1h ago
-
----
-
-**[How Bad Is AI for BDCs? Not So Bad, Says This Analyst.](https://www.barrons.com/articles/ai-not-so-bad-for-bdcs-analyst-says-868392c2?gaa_at=eafs&gaa_n=AWEtsqdkLlbK_PG_C3PWnBtIy8HzpAQtN67SKq5gNne_PTtbc_zqfzi5AAbq&gaa_ts=698e58d6&gaa_sig=iuOLXh2Wed3KGT-p-WWgmSl5IDCBFzCj78y44_YIrBrKWX3Qf9xKFDIg9nLaD5zSpdDfv2h7m8fynRD2a5CO4w%3D%3D)**
-
-Barron's • 2h ago
-
----
-
-**[Video: Opinion | Is A.I. Coming for Your Job?](https://www.nytimes.com/video/opinion/100000010708249/is-ai-coming-for-your-job.html)**
-
-This isn’t your grandparents’ revolution. Anthropic’s chief executive, Dario Amodei, says artificial intelligence will change our world faster than anything we’ve experienced before.
-
-The New York Times • 1h ago
+The New York Times • 6h ago
 
 ---
 
@@ -169,29 +131,69 @@ The New York Times • 1h ago
 
 CBRE and Jones Lang LaSalle were among those hit, dropping double digits amid fears of AI disruption.
 
-CNBC • 5h ago
+CNBC • 8h ago
 
 ---
 
-**[AI Panic Hits Trucking, Transport Stocks](https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-02-12-2026/card/ai-panic-hits-trucking-transport-stocks-mDnmV0VOWt4X5rl8zmgx?gaa_at=eafs&gaa_n=AWEtsqfb7C3CHpKG5iJTOWt8z151DSYn2pTARdLqDuFjwG4vmeD_mns2vlyY&gaa_ts=698e58d6&gaa_sig=8fbqHYg6Vax8sOigX6W0quhxI6a0T0AKlTdHrW87Y8DdbRnsQ5p0MPpS0r1zwTXZZx0saDJ8hrWVPkxbeBAUgg%3D%3D)**
+**[AI Video of Tom Cruise Fighting Brad Pitt Has Top Writer Warning: “It’s Likely Over for Us”](https://www.hollywoodreporter.com/movies/movie-news/ai-video-tom-cruise-brad-pitt-writer-warning-1236504200/)**
 
-The Wall Street Journal • 14h ago
+A stunning viral video of Cruise vs. Pitt has 'Deadpool & Wolverine' screenwriter warning: "Hollywood is about to be revolutionized/decimated."
 
----
-
-**[Stocks drop sharply as investors hunt for losers that will be hurt by AI](https://www.latimes.com/business/story/2026-02-12/stocks-drop-sharply-as-investors-hunt-for-losers-that-will-be-hurt-by-ai)**
-
-U.S. stocks fell sharply as the market punished companies seen as potential losers from artificial intelligence technology
-
-Los Angeles Times • 1h ago
+The Hollywood Reporter • 57m ago
 
 ---
 
-**[Logistics Stocks Sink as AI Fear Trade Finds Latest Victim](https://finance.yahoo.com/news/logistics-stocks-sink-ai-fear-193327489.html)**
+**[After AI Video of ‘Tom Cruise’ Fighting ‘Brad Pitt’ Goes Viral, Motion Picture Association Denounces ‘Massive’ Infringement on Seedance 2.0](https://variety.com/2026/film/news/motion-picture-association-ai-seedance-bytedance-tom-cruise-1236661753/)**
 
-The Russell 3000 Trucking Index dropped 7.8%, with CH Robinson Worldwide Inc. at one point plunging by a record 24%, and Landstar System Inc. falling 18%.  The index is on track for its worst day since President Donald Trump enacted his so-called Liberation Day tariffs last year.  Drug distribution stocks were also caught up in the selloff, with McKesson Corp. and Cardinal Health both sliding more than 4%.
+The MPA denounced Bytedance's new AI video model, saying it had led to 'massive' copyright infringement like an AI Tom Cruise-Brad Pitt video.
 
-Yahoo Finance • 2h ago
+Variety • 40m ago
+
+---
+
+**[Brad Pitt vs Tom Cruise AI Brawl Has Fans Saying The Same Thing](https://www.yahoo.com/entertainment/movies/articles/brad-pitt-vs-tom-cruise-013000738.html)**
+
+A striking development in the world of entertainment has sparked widespread discussion and intrigue. The boundaries between reality and artificial intelligence are being pushed, leaving many to ponder...
+
+Yahoo • 55m ago
+
+---
+
+**[China’s AI Boom Is Creating Billionaires At A Sizzling Pace](https://www.forbes.com/sites/ywang/2026/02/12/the-new-billionaires-helping-china-compete-against-openai-and-nvidia/)**
+
+Forbes • 17m ago
+
+---
+
+**[Microsoft AI CEO predicts 'most, if not all' white-collar tasks will be automated by AI within 18 months](https://www.businessinsider.com/microsoft-ai-ceo-mustafa-suleyman-white-collar-tasks-automation-prediction-2026-2)**
+
+Mustafa Suleyman, Microsoft's AI chief, says AI can automate white-collar jobs within 12-18 months, as tech reaches human-level performance in tasks.
+
+Business Insider • 4h ago
+
+---
+
+**[AI researchers are sounding the alarm on their way out the door](https://www.cnn.com/2026/02/11/business/openai-anthropic-departures-nightcap)**
+
+“The world is in peril,” warned the former head of Anthropic’s Safeguards Research team as he headed for the exit. A researcher for OpenAI, similarly on the way out, said that the technology has “a potential for manipulating users in ways we don’t have the tools to understand, let alone prevent.”
+
+CNN • 1d ago
+
+---
+
+**[Anthropic AI safety researcher quits with 'world in peril' warning](https://www.bbc.com/news/articles/c62dlvdq3e3o)**
+
+It comes in the same week an OpenAI researcher resigned amid concerns about its decision to start testing ChatGPT ads.
+
+BBC • 14h ago
+
+---
+
+**[Elon Musk slams Anthropic AI models as 'misanthropic and evil' in scathing social media post](https://www.foxbusiness.com/technology/elon-musk-slams-anthropic-ai-models-misanthropic-evil-scathing-social-media-post)**
+
+Elon Musk accuses Anthropic's AI models of being "misanthropic and evil," claiming the competitor's Claude models exhibit racial and demographic bias.
+
+Fox Business • 2h ago
 
 ---
 
@@ -203,7 +205,7 @@ Yahoo Finance • 2h ago
 
 Summary: An AI agent of unknown ownership autonomously wrote and published a personalized hit piece about me after I rejected its code, attempting to damage my reputation and shame me into acceptin…
 
-⬆️ 1184 • 💬 534 • 7h ago • [The Shamblog](https://theshamblog.com/an-ai-agent-published-a-hit-piece-on-me/)
+⬆️ 1465 • 💬 620 • 10h ago • [The Shamblog](https://theshamblog.com/an-ai-agent-published-a-hit-piece-on-me/)
 
 ---
 
@@ -212,7 +214,7 @@ Summary: An AI agent of unknown ownership autonomously wrote and published a per
 This PR addresses issue #31130 by replacing specific safe occurrences of np.column_stack with np.vstack().T for better performance.
 IMPORTANT: This is a more targeted fix than originally proposed. ...
 
-⬆️ 835 • 💬 667 • 11h ago • [GitHub](https://github.com/matplotlib/matplotlib/pull/31132)
+⬆️ 862 • 💬 685 • 14h ago • [GitHub](https://github.com/matplotlib/matplotlib/pull/31132)
 
 ---
 
@@ -220,7 +222,13 @@ IMPORTANT: This is a more targeted fix than originally proposed. ...
 
 Announcing Entire with $60 million seed round and shipping our first product, called Checkpoints.
 
-⬆️ 606 • 💬 572 • 2d ago • [entire.io](https://entire.io/blog/hello-entire-world/)
+⬆️ 607 • 💬 571 • 2d ago • [entire.io](https://entire.io/blog/hello-entire-world/)
+
+---
+
+**[ai;dr](https://news.ycombinator.com/item?id=46991394)**
+
+⬆️ 590 • 💬 232 • 9h ago • [0xsid.com](https://www.0xsid.com/blog/aidr)
 
 ---
 
@@ -228,19 +236,13 @@ Announcing Entire with $60 million seed round and shipping our first product, ca
 
 As autonomous AI agents are increasingly deployed in high-stakes environments, ensuring their safety and alignment with human values has become a paramount concern. Current safety benchmarks primarily evaluate whether agents refuse explicitly harmful instructions or whether they can maintain procedural compliance in complex tasks. However, there is a lack of benchmarks designed to capture emergent forms of outcome-driven constraint violations, which arise when agents pursue goal optimization under strong performance incentives while deprioritizing ethical, legal, or safety constraints over multiple steps in realistic production settings. To address this gap, we introduce a new benchmark comprising 40 distinct scenarios. Each scenario presents a task that requires multi-step actions, and the agent's performance is tied to a specific Key Performance Indicator (KPI). Each scenario features Mandated (instruction-commanded) and Incentivized (KPI-pressure-driven) variations to distinguish between obedience and emergent misalignment. Across 12 state-of-the-art large language models, we observe outcome-driven constraint violations ranging from 1.3% to 71.4%, with 9 of the 12 evaluated models exhibiting misalignment rates between 30% and 50%. Strikingly, we find that superior reasoning capability does not inherently ensure safety; for instance, Gemini-3-Pro-Preview, one of the most capable models evaluated, exhibits the highest violation rate at 71.4%, frequently escalating to severe misconduct to satisfy KPIs. Furthermore, we observe significant "deliberative misalignment", where the models that power the agents recognize their actions as unethical during separate evaluation. These results emphasize the critical need for more realistic agentic-safety training before deployment to mitigate their risks in the real world.
 
-⬆️ 542 • 💬 362 • 2d ago • [arXiv.org](https://arxiv.org/abs/2512.20798)
-
----
-
-**[ai;dr](https://news.ycombinator.com/item?id=46991394)**
-
-⬆️ 469 • 💬 198 • 6h ago • [0xsid.com](https://www.0xsid.com/blog/aidr)
+⬆️ 544 • 💬 362 • 2d ago • [arXiv.org](https://arxiv.org/abs/2512.20798)
 
 ---
 
 **[Officials Claim Drone Incursion Led to Shutdown of El Paso Airport](https://news.ycombinator.com/item?id=46972610)**
 
-⬆️ 363 • 💬 578 • 1d ago • [nytimes.com](https://www.nytimes.com/2026/02/11/us/faa-el-paso-flight-restrictions.html)
+⬆️ 364 • 💬 578 • 1d ago • [nytimes.com](https://www.nytimes.com/2026/02/11/us/faa-el-paso-flight-restrictions.html)
 
 ---
 
@@ -272,7 +274,7 @@ Open-source AI coworker, with memory. Contribute to rowboatlabs/rowboat developm
 
 US labels SpaceX a common carrier by air, will regulate firm under railway law.
 
-⬆️ 143 • 💬 56 • 1d ago • [Ars Technica](https://arstechnica.com/tech-policy/2026/02/victory-for-elon-musk-us-labor-board-abandons-authority-over-spacex/)
+⬆️ 144 • 💬 56 • 1d ago • [Ars Technica](https://arstechnica.com/tech-policy/2026/02/victory-for-elon-musk-us-labor-board-abandons-authority-over-spacex/)
 
 ---
 
@@ -280,53 +282,23 @@ US labels SpaceX a common carrier by air, will regulate firm under railway law.
 
 ## YouTube Videos: "ai"
 
-**[Anthropic Exec ADMITS AI READY TO KILL](https://www.youtube.com/watch?v=lpjF5ljLuZ4)**
-
-Krystal and Saagar discuss AI ready to kill humans. Sign up for a PREMIUM Breaking Points subscriptions for full early access to ...
-
-📺 Breaking Points
-
-👁️ 52K • 👍 2K • 💬 840 • ⏱️ 15:39 • 3h ago
-
----
-
-**[Anthropic AI Safety Chief Resigns, Warns &quot;World Is In Peril&quot; | Spotlight | N18G](https://www.youtube.com/watch?v=eLqNoZP0vFU)**
-
-The head of the Safeguards Research Team at Anthropic, Mrinank Sharma, has resigned from the company, stating his last day ...
-
-📺 Firstpost
-
-👁️ 180K • 👍 2K • 💬 265 • ⏱️ 4:47 • 1d ago
-
----
-
 **[Google&#39;s Quantum AI Just Solved the Fermi Paradox — The Answer Is Terrifying](https://www.youtube.com/watch?v=5PedGbAs0ig)**
 
 Google's Quantum AI Just Solved the Fermi Paradox — The Answer Is Terrifying Google's Willow quantum chip completed a ...
 
 📺 Spacialize
 
-👁️ 2K • 👍 235 • 💬 24 • ⏱️ 17:28 • 1h ago
+👁️ 12K • 👍 826 • 💬 81 • ⏱️ 17:28 • 4h ago
 
 ---
 
-**[Google&#39;s AI Ultimatum: All In or Walk Out | Vantage with Palki Sharma](https://www.youtube.com/watch?v=Wy2jAJSiMfw)**
+**[Anthropic Exec ADMITS AI READY TO KILL](https://www.youtube.com/watch?v=lpjF5ljLuZ4)**
 
-Google's culture shift is making headlines. Employees in its Global Business Organisation have received a blunt message: be “all ...
+Krystal and Saagar discuss AI ready to kill humans. Sign up for a PREMIUM Breaking Points subscriptions for full early access to ...
 
-📺 Firstpost
+📺 Breaking Points
 
-👁️ 117K • 👍 1K • 💬 143 • ⏱️ 5:22 • 6h ago
-
----
-
-**[AI Agent Makes Me 1K Per Day Trading (Full Tutorial)](https://www.youtube.com/watch?v=zBWfNlDDlyE)**
-
-Dominic here, in this video I'll share my fully automated crypto (cryptocurrency) AI agent trading bot for Ethereum (different ...
-
-📺 Dominic Parker
-
-👁️ 6K • 👍 53 • 💬 3 • ⏱️ 7:21 • 4h ago
+👁️ 91K • 👍 3K • 💬 1K • ⏱️ 15:39 • 6h ago
 
 ---
 
@@ -336,27 +308,17 @@ Breakdown and commentary on the latest viral commentary from: https://x.com/matt
 
 📺 Matt Wolfe
 
-👁️ 100K • 👍 6K • 💬 1K • ⏱️ 28:06 • 23h ago
+👁️ 106K • 👍 6K • 💬 1K • ⏱️ 28:06 • 1d ago
 
 ---
 
-**[Elon Musk worst AI CEO in history](https://www.youtube.com/watch?v=bcCeIbgKipw)**
+**[Anthropic AI Safety Chief Resigns, Warns &quot;World Is In Peril&quot; | Spotlight | N18G](https://www.youtube.com/watch?v=eLqNoZP0vFU)**
 
-Become a member! ✓ https://www.youtube.com/channel/UCahJ9IsvXnaQiuNyWQSkrkw/join ⭐ Support independent daily news ...
+The head of the Safeguards Research Team at Anthropic, Mrinank Sharma, has resigned from the company, stating his last day ...
 
-📺 Chris Norlund
+📺 Firstpost
 
-👁️ 82K • 👍 5K • 💬 859 • ⏱️ 16:15 • 1d ago
-
----
-
-**[The AI Robot Situation Is Growing Faster Than We Think… ](https://www.youtube.com/watch?v=fkyChIRSF18)**
-
-The AI and robot situation is growing much faster than we think. Ai, mass surveillance, and robots not only working in the streets, ...
-
-📺 Aaron Page 
-
-👁️ 12K • 👍 1K • 💬 128 • ⏱️ 24:43 • 1d ago
+👁️ 193K • 👍 2K • 💬 300 • ⏱️ 4:47 • 1d ago
 
 ---
 
@@ -366,17 +328,55 @@ My site: https://natebjones.com Full Story w/ Prompts: ...
 
 📺 AI News & Strategy Daily | Nate B Jones
 
-👁️ 182K • 👍 7K • 💬 1K • ⏱️ 30:39 • 1d ago
+👁️ 189K • 👍 8K • 💬 1K • ⏱️ 30:39 • 1d ago
 
 ---
 
-**[New Chinese AI Agent Breaks TerminalBench and Destroys Claude Opus 4.6](https://www.youtube.com/watch?v=VDZ9UhHTEfI)**
+**[Biggest Desert Ambush Ever | Trump &amp; Ayatollah AI Story 😈🔥#aishorts #trump #funnyshorts #viralshorts](https://www.youtube.com/watch?v=QRC8-d-FezI)**
 
-A massive AI shift is unfolding across multiple fronts. A Chinese AI agent system has surged to second place worldwide on ...
+This video is completely fictional and created using AI for entertainment purposes only. It does not represent real events, actions, ...
 
-📺 AI Revolution
+📺 AlphaHeroX
 
-👁️ 21K • 👍 640 • 💬 34 • ⏱️ 12:51 • 1d ago
+👁️ 31K • 👍 372 • 💬 6 • ⏱️ 0:32 • 8h ago
+
+---
+
+**[Layoffs Due to AI Are BACKFIRING — Here’s the Proof](https://www.youtube.com/watch?v=_tXP9nv7xg0)**
+
+In 2026, executives claimed AI would revolutionize work and replace employees across industries — not just software. Instead ...
+
+📺 A Life After Layoff
+
+👁️ 162K • 👍 5K • 💬 1K • ⏱️ 11:42 • 2d ago
+
+---
+
+**[Why AI Experts Are Mass Quitting: The &quot;World in Peril&quot; Warning + El Paso&#39;s Cartel Scare](https://www.youtube.com/watch?v=xd506l9HBaw)**
+
+Check Out Tom's Episode on Woman Of Impact W/ Lisa Bilyeu: https://www.youtube.com/watch?v=zFhWrvNCoSM&t=1508s ...
+
+📺 Tom Bilyeu
+
+👁️ 64K • 👍 2K • 💬 1K • ⏱️ 1:58:03 • 1d ago
+
+---
+
+**[Mums Showing You A Video That&#39;s Clearly AI](https://www.youtube.com/watch?v=fLEqfXBz-y4)**
+
+📺 JJEverettRose
+
+👁️ 1.6M • 👍 43K • 💬 280 • ⏱️ 0:24 • 9h ago
+
+---
+
+**[I Tested Useless AI Products](https://www.youtube.com/watch?v=E8yc2_s4WnM)**
+
+Follow me here: Instagram ▻ https://www.instagram.com/sambucha X ▻ https://www.x.com/sambucha Become a Member: ...
+
+📺 Sambucha
+
+👁️ 266K • 👍 14K • 💬 397 • ⏱️ 0:47 • 1d ago
 
 ---
 
@@ -392,7 +392,7 @@ GLM-5 is a large language model optimized for complex systems engineering and lo
 
 `text-generation` `753.9B`
 
-⬇️ 1,548 • ❤️ 782 • 1d ago
+⬇️ 1,548 • ❤️ 809 • 1d ago
 
 ---
 
@@ -404,7 +404,7 @@ MiniCPM-SALA is a hybrid LLM integrating sparse and linear attention for efficie
 
 `text-generation` `9.5B`
 
-⬇️ 117 • ❤️ 500 • 1d ago
+⬇️ 117 • ❤️ 511 • 1d ago
 
 ---
 
@@ -416,7 +416,7 @@ MiniCPM-o 4.5 is a 9B parameter multimodal LLM excelling in vision, speech, and 
 
 `any-to-any` `9.4B`
 
-⬇️ 40,441 • ❤️ 998 • 8h ago
+⬇️ 40,441 • ❤️ 1,000 • 11h ago
 
 ---
 
@@ -428,7 +428,7 @@ Qwen3-Coder-Next is a highly efficient 3B activated parameter LLM (80B total) op
 
 `text-generation` `79.7B`
 
-⬇️ 184,535 • ❤️ 807 • 9d ago
+⬇️ 184,535 • ❤️ 808 • 9d ago
 
 ---
 
@@ -440,7 +440,7 @@ Kimi K2.5 is a native multimodal agentic model with 1T parameters, excelling in 
 
 `image-text-to-text` `170.7B`
 
-⬇️ 647,589 • ❤️ 2,084 • 7d ago
+⬇️ 647,589 • ❤️ 2,086 • 7d ago
 
 ---
 
@@ -452,7 +452,7 @@ GLM-OCR is a 0.9B parameter multimodal OCR model for complex document understand
 
 `image-to-text`
 
-⬇️ 597,533 • ❤️ 1,011 • 3d ago
+⬇️ 597,533 • ❤️ 1,014 • 3d ago
 
 ---
 
@@ -464,7 +464,7 @@ Voxtral-Mini-4B-Realtime-2602 is a multilingual, real-time speech-to-text model 
 
 `automatic-speech-recognition`
 
-⬇️ 4,541 • ❤️ 492 • 1d ago
+⬇️ 4,541 • ❤️ 492 • 2d ago
 
 ---
 
@@ -476,7 +476,7 @@ Nanbeige4.1-3B is a 3B parameter text-generation model excelling in complex reas
 
 `text-generation` `3.9B`
 
-⬇️ 658 • ❤️ 203 • 1d ago
+⬇️ 658 • ❤️ 212 • 1d ago
 
 ---
 
@@ -498,7 +498,7 @@ ACE-Step 1.5 is an open-source text-to-audio model for commercial-grade music ge
 
 Anima is a 2 billion parameter text-to-image diffusion model specialized in generating anime-style illustrations and artistic images, capable of producing non-photorealistic content. It is optimized for use with ComfyUI and trained on millions of anime and artistic images, with a knowledge cut-off of September 2025.
 
-⬇️ 107,345 • ❤️ 576 • 11d ago
+⬇️ 107,345 • ❤️ 576 • 12d ago
 
 ---
 
@@ -571,21 +571,9 @@ Financial markets are noisy and non-stationary, making alpha mining highly sensi
 
 SmolDocling is a compact vision-language model that performs end-to-end document conversion with robust performance across various document types using 256M parameters and a new markup format.
 
-▲ 140 • 💬 19 • ⭐ 52,827 • 11mo ago
+▲ 140 • 💬 19 • ⭐ 52,872 • 11mo ago
 
 [🎓 arXiv](https://arxiv.org/abs/2503.11576) • [💻 code](https://github.com/docling-project/docling) • [🔗 project](https://huggingface.co/ds4sd/SmolDocling-256M-preview)
-
----
-
-**[Scaling Large-Language-Model-based Multi-Agent Collaboration](https://huggingface.co/papers/2406.07155)**
-
-*Chen Qian, Zihao Xie, Yifei Wang et al. (10 authors)*
-
-Multi-agent collaboration networks enhance collective intelligence, outperforming baselines across various topologies and showing emergent abilities earlier than neural scaling laws suggest.
-
-▲ 5 • 💬 0 • ⭐ 30,904 • 20mo ago
-
-[🎓 arXiv](https://arxiv.org/abs/2406.07155) • [💻 code](https://github.com/OpenBMB/ChatDev/tree/macnet) • [🔗 project](https://github.com/OpenBMB/ChatDev/tree/macnet)
 
 ---
 
@@ -639,19 +627,21 @@ A centralized orchestrator dynamically directs LLM agents via reinforcement lear
 
 ---
 
+**[Mem0: Building Production-Ready AI Agents with Scalable Long-Term Memory](https://huggingface.co/papers/2504.19413)**
+
+*Prateek Chhikara, Dev Khant, Saket Aryan et al. (5 authors)*
+
+Mem0, a memory-centric architecture with graph-based memory, enhances long-term conversational coherence in LLMs by efficiently extracting, consolidating, and retrieving information, outperforming existing memory systems in terms of accuracy and computational efficiency.
+
+▲ 41 • 💬 2 • ⭐ 47,249 • 9mo ago
+
+[🎓 arXiv](https://arxiv.org/abs/2504.19413) • [💻 code](https://github.com/mem0ai/mem0) • [🔗 project](https://mem0.ai/research)
+
+---
+
 ---
 
 ## GitHub Repositories: "ai"
-
-**[sickn33/antigravity-awesome-skills](https://github.com/sickn33/antigravity-awesome-skills)**
-
-The Ultimate Collection of 800+ Agentic Skills for Claude Code/Antigravity/Cursor. Battle-tested, high-performance skills for AI agents including official skills from Anthropic and Vercel.
-
-`Python` `agentic-skills` `ai-agents` `antigravity` `autonomous-coding` `claude-code`
-
-⭐ 8.6k • 🔱 1.8k • 16h ago
-
----
 
 **[coreyhaines31/marketingskills](https://github.com/coreyhaines31/marketingskills)**
 
@@ -659,7 +649,7 @@ Marketing skills for Claude Code and AI agents. CRO, copywriting, SEO, analytics
 
 `claude` `codex` `marketing`
 
-⭐ 7.5k • 🔱 874 • 8d ago
+⭐ 7.5k • 🔱 874 • 9d ago
 
 ---
 
@@ -675,7 +665,7 @@ Elevate your AI research writing, no more tedious polishing ✨
 
 Claude Code skill that removes signs of AI-generated writing from text
 
-⭐ 4.7k • 🔱 384 • 20d ago
+⭐ 4.7k • 🔱 385 • 20d ago
 
 ---
 
@@ -685,7 +675,7 @@ PaperBanana: Automating Academic Illustration For AI Scientists
 
 `JavaScript`
 
-⭐ 3.4k • 🔱 165 • 10d ago
+⭐ 3.4k • 🔱 166 • 10d ago
 
 ---
 
@@ -693,7 +683,7 @@ PaperBanana: Automating Academic Illustration For AI Scientists
 
 Humanizer 的汉化版本，Claude Code Skills，旨在消除文本中 AI 生成的痕迹。
 
-⭐ 2.9k • 🔱 275 • 24d ago
+⭐ 2.9k • 🔱 276 • 24d ago
 
 ---
 
@@ -703,7 +693,7 @@ Smart LLM router — save 78% on inference costs. 30+ models, one wallet, x402 m
 
 `TypeScript` `ai` `ai-agents` `anthropic` `cost-optimization` `crypto`
 
-⭐ 2.3k • 🔱 231 • 31m ago
+⭐ 2.3k • 🔱 233 • 3h ago
 
 ---
 
@@ -713,7 +703,7 @@ All-in-one AI framework & toolkit for Claude Code & Cursor
 
 `Python` `ai-agent` `ai-coding` `claude-code` `cli` `cursor`
 
-⭐ 2.2k • 🔱 111 • 19h ago
+⭐ 2.2k • 🔱 111 • 22h ago
 
 ---
 
@@ -723,7 +713,7 @@ The visual feedback tool for agents.
 
 `TypeScript` `ai` `design` `tools` `ui`
 
-⭐ 2.1k • 🔱 156 • 16h ago
+⭐ 2.1k • 🔱 156 • 19h ago
 
 ---
 
@@ -733,7 +723,17 @@ A native desktop GUI for Claude Code — chat, code, and manage projects visuall
 
 `TypeScript` `ai` `anthropic` `claude` `claude-code` `desktop-app`
 
-⭐ 1.8k • 🔱 187 • 5h ago
+⭐ 1.8k • 🔱 187 • 8h ago
+
+---
+
+**[memovai/mimiclaw](https://github.com/memovai/mimiclaw)**
+
+MimiClaw: Run OpenClaw on a $5 chip. No OS(Linux). No Node.js. No Mac mini. No Raspberry Pi. No VPS.😗Local-first memory. Shareable. Portable. Privacy-first.
+
+`C` `ai` `assistant` `clawdbot` `edge-ai-agents` `memory`
+
+⭐ 1.5k • 🔱 181 • 12h ago
 
 ---
 
