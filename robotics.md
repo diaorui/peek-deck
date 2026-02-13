@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-02-13T07:12:42.758963+00:00'
+updated: '2026-02-13T08:03:31.297388+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
+- videos
 - social
 - news
-- videos
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** February 13, 2026 at 07:12 UTC  
+**Last Updated:** February 13, 2026 at 08:03 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -52,7 +52,7 @@ I built this last year. Made those suction cups from scratch, it has camera, TOF
 
 As someone starting research in robotics, this has been on my mind for a while. I see a new VLA every week claiming it outperforms XYZ with better quality and more data. If that’s all it takes, what problems are actually still open? If everything can be countered with “just get more data,” what is left to research?
 
-13h ago
+14h ago
 
 ---
 
@@ -76,7 +76,7 @@ Boston Dynamics CEO Robert Playter told staff on Tuesday that he'll be stepping 
 
 Hi! I’ve been using TurtleBot with Gazebo Classic for a simulation project and recently migrated my model to Gazebo Ignition. Since the migration I’ve run into a few issues, especially with wall and floor textures (which I understand is expected due to conversion), but the main problem is visible gaps between walls. I attached screenshots showing how a section of the map is supposed to look vs how it currently looks in Ignition. I tried slightly increasing the wall lengths, but it didn’t noticeably improve the gaps. Does anyone know what typically causes this after Classic to Ignition conversion or how to properly fix it? I’m not sure if this is a common issue, but I wasn’t able to find much information about it online, so apologies if this is something obvious. This is a bit time-sensitive, so I’d really appreciate any guidance!
 
-8h ago
+9h ago
 
 ---
 
@@ -84,7 +84,7 @@ Hi! I’ve been using TurtleBot with Gazebo Classic for a simulation project and
 
 This article argues that robot deployment is starting to shift away from traditional application-specific coding toward AI-powered low-code and no-code platforms. Instead of writing custom logic for every product change, teams are using visual interfaces, task demonstration, and AI reasoning to configure workflows. In inspection and assembly, systems can adapt to variation and real-time inputs without being explicitly programmed for every scenario.
 
-🔗 [Automate](https://www.automate.org/ai/industry-insights/ai-low-code-and-no-code-solutions-in-robotics) • 16h ago
+🔗 [Automate](https://www.automate.org/ai/industry-insights/ai-low-code-and-no-code-solutions-in-robotics) • 17h ago
 
 ---
 
@@ -92,7 +92,7 @@ This article argues that robot deployment is starting to shift away from traditi
 
 Been working on my DIY drone for the past few days. Facing a weird issue, motors stop increasing speed after ~30–35% throttle, and the drone needs almost 50% throttle just to slightly lift. During ESC calibration, all motors run perfectly at full throttle. Seems like a code/control logic issue. Been stuck on this for days, any suggestions would help.
 
-23h ago
+1d ago
 
 ---
 
@@ -120,7 +120,7 @@ Enjoy the videos and music you love, upload original content, and share it all w
 
 npj Robotics - A call for a performance-driven approach for soft robotics research
 
-Nature • 19h ago
+Nature • 20h ago
 
 ---
 
@@ -152,7 +152,7 @@ Fox News • 2d ago
 
 Larry Savage, a professor of labour studies at Brock University, says governments might need to step in to help protect jobs that are under the threat of automation.
 
-Automotive News • 20h ago
+Automotive News • 21h ago
 
 ---
 
@@ -160,7 +160,7 @@ Automotive News • 20h ago
 
 This ChinaPower feature examines China's push to lead the world in robotics and the geopolitical implications.
 
-ChinaPower Project • 11h ago
+ChinaPower Project • 12h ago
 
 ---
 
@@ -234,7 +234,7 @@ Chinese robotics company AGIBOT redefined the intersection of technology and cul
 
 📺 ABS-CBN News
 
-👁️ 7K • 👍 67 • 💬 51 • ⏱️ 3:09 • 23h ago
+👁️ 7K • 👍 67 • 💬 51 • ⏱️ 3:09 • 1d ago
 
 ---
 
@@ -252,7 +252,7 @@ Now that the Atlas enterprise platform is getting to work, the research version 
 
 📺 Zack D. Films
 
-👁️ 3.2M • 👍 136K • 💬 1K • ⏱️ 0:23 • 15h ago
+👁️ 3.2M • 👍 136K • 💬 1K • ⏱️ 0:23 • 16h ago
 
 ---
 

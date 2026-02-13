@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-02-13T07:12:42.749723+00:00'
+updated: '2026-02-13T08:03:31.288170+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
 - cryptocurrency
 - social
-- news
 - videos
+- news
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** February 13, 2026 at 07:12 UTC  
+**Last Updated:** February 13, 2026 at 08:03 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -79,7 +79,7 @@ Rank #1
 
 **[VanEck said it knows 13 governments that are actively mining Bitcoin](https://www.reddit.com/r/Bitcoin/comments/1r35qqv/vaneck_said_it_knows_13_governments_that_are/)**
 
-9h ago
+10h ago
 
 ---
 
@@ -87,13 +87,13 @@ Rank #1
 
 Well…
 
-6h ago
+7h ago
 
 ---
 
 **[Bitcoin, what are you doing](https://www.reddit.com/r/Bitcoin/comments/1r2u1yl/bitcoin_what_are_you_doing/)**
 
-17h ago
+18h ago
 
 ---
 
@@ -107,7 +107,7 @@ Well…
 
 Just want to let you know that bitcoin will reach 38,000 according to my dream. I’m still DCA everyday with full confidence. Your welcome
 
-3h ago
+4h ago
 
 ---
 
@@ -115,7 +115,7 @@ Just want to let you know that bitcoin will reach 38,000 according to my dream. 
 
 I set alerts for my dip buying strategy. I have been buying since $80K and these are my next targets. Hope it all hit perfectly. I may increase the amounts depending on my savings.
 
-20h ago
+21h ago
 
 ---
 
@@ -123,7 +123,7 @@ I set alerts for my dip buying strategy. I have been buying since $80K and these
 
 Since bitcoin is dropping, please advise on should I keep this win? I have never invested in crypto and have no idea what to do with this. Yes it was pure dumb luck. Now pleas help!
 
-10h ago
+11h ago
 
 ---
 
@@ -131,7 +131,7 @@ Since bitcoin is dropping, please advise on should I keep this win? I have never
 
 I really want to start self-custody and have my bitcoing actually be my own. But I'm terrified of losing my passkey. I'm notoriously bad at keeping stuff working. I've already lost multiple phones and have lost my 2fa to current exchanges. Only thing that saved me both times was KYC and customer support.
 
-9h ago
+10h ago
 
 ---
 
@@ -139,7 +139,7 @@ I really want to start self-custody and have my bitcoing actually be my own. But
 
 Please utilize this sticky thread for all general Bitcoin discussions! If you see posts on the front page or /r/Bitcoin/new which are better suited for this daily discussion thread, please help out by directing the OP to this thread instead. Thank you! If you don't get an answer to your question, you can try phrasing it differently or commenting again tomorrow. Please check the previous discussion thread for unanswered questions.
 
-1h ago
+2h ago
 
 ---
 
@@ -147,7 +147,7 @@ Please utilize this sticky thread for all general Bitcoin discussions! If you se
 
 I loved old Green wallet app interface... current Blockstream version looks worse, just feels off comparing to old one, so I stopped using it and switched to Blue wallet last year. Recently I used my old phone, and it reminds me how good was the old Green version... It still works perfectly, but I wonder if you guys know: Is it still safe to use old version of Green app? Is it possible to extract APK file of old version (from my old phone, and install on new phone) If not, then I'll just stick to Blue wallet...
 
-2h ago
+3h ago
 
 ---
 
@@ -157,7 +157,7 @@ I loved old Green wallet app interface... current Blockstream version looks wors
 
 **[Bitcoin Steadies in Asia After Standard Chartered Warning](https://www.bloomberg.com/news/articles/2026-02-13/bitcoin-btc-under-pressure-in-asia-after-standard-chartered-warning)**
 
-Bloomberg.com • 2h ago
+Bloomberg.com • 3h ago
 
 ---
 
@@ -165,7 +165,7 @@ Bloomberg.com • 2h ago
 
 The bank cuts its 2026 crypto price targets, warning of further near-term capitulation as ETF outflows and macro headwinds weigh on digital assets.
 
-CoinDesk • 15h ago
+CoinDesk • 16h ago
 
 ---
 
@@ -173,7 +173,7 @@ CoinDesk • 15h ago
 
 The crypto selloff is not over, argues a Standard Chartered analyst. Bitcoin and Ethereum will continue dropping until recovery in the second half of 2026. But the asset class has become resilient, the analyst argued, with selloffs “less extreme.”
 
-Yahoo Finance • 14h ago
+Yahoo Finance • 15h ago
 
 ---
 
@@ -187,7 +187,7 @@ Yahoo Finance UK • 21h ago
 
 A $3 billion Bitcoin & Ethereum options expiry on Deribit tests market stability as put skew and liquidation fears signal likely volatility.
 
-Yahoo Finance • 1h ago
+Yahoo Finance • 2h ago
 
 ---
 
@@ -195,7 +195,7 @@ Yahoo Finance • 1h ago
 
 El Salvador’s Bitcoin portfolio has fallen nearly $300 million, as rising CDS spreads and IMF review delays raise debt concerns.
 
-Yahoo Finance • 2h ago
+Yahoo Finance • 3h ago
 
 ---
 
@@ -219,7 +219,7 @@ Morningstar • 20h ago
 
 The corporate adoption of bitcoin was dominated by a single player last month — Strategy.
 
-Bitcoin Magazine • 12h ago
+Bitcoin Magazine • 13h ago
 
 ---
 
@@ -319,7 +319,7 @@ Bitcoin's crash off its all time high and then its sudden crash last week. It le
 
 📺 Mark Moss
 
-👁️ 122K • 👍 5K • 💬 738 • ⏱️ 16:43 • 11h ago
+👁️ 122K • 👍 5K • 💬 738 • ⏱️ 16:43 • 12h ago
 
 ---
 
@@ -329,7 +329,7 @@ Fred Thiel is the CEO of Marathon Digital and a leading voice at the intersectio
 
 📺 Anthony Pompliano
 
-👁️ 27K • 👍 962 • 💬 59 • ⏱️ 18:55 • 9h ago
+👁️ 27K • 👍 962 • 💬 59 • ⏱️ 18:55 • 10h ago
 
 ---
 
@@ -339,7 +339,7 @@ Pam Bondi gets slammed on live TV and the cracks in the system are impossible to
 
 📺 Simply Bitcoin
 
-👁️ 16K • 👍 2K • 💬 206 • ⏱️ 21:31 • 7h ago
+👁️ 16K • 👍 2K • 💬 206 • ⏱️ 21:31 • 8h ago
 
 ---
 
@@ -349,7 +349,7 @@ Bitcoin #Crypto #Finance Stay ahead of the market — FREE Join the DataDash Pro
 
 📺 DataDash
 
-👁️ 6K • 👍 331 • 💬 23 • ⏱️ 15:09 • 15h ago
+👁️ 6K • 👍 331 • 💬 23 • ⏱️ 15:09 • 16h ago
 
 ---
 
@@ -359,7 +359,7 @@ LIMITED TIME: ✓ Bitunix (no kyc, $10k bonus): https://www.bitunix.com/register
 
 📺 Altcoin Daily
 
-👁️ 45K • 👍 554 • 💬 109 • ⏱️ 0:34 • 18h ago
+👁️ 45K • 👍 554 • 💬 109 • ⏱️ 0:34 • 19h ago
 
 ---
 
@@ -379,7 +379,7 @@ Predict Crypto, Sports, Politics & More on *ClashPicks* ▻ https://www.clashpic
 
 📺 CryptosRUs
 
-👁️ 27K • 👍 1K • 💬 153 • ⏱️ 51:44 • 15h ago
+👁️ 27K • 👍 1K • 💬 153 • ⏱️ 51:44 • 16h ago
 
 ---
 
@@ -389,7 +389,7 @@ The crypto market is at a massive crossroads. After the "Crypto Winter" correcti
 
 📺 Discover Crypto
 
-👁️ 4K • 👍 224 • 💬 24 • ⏱️ 9:41 • 7h ago
+👁️ 4K • 👍 224 • 💬 24 • ⏱️ 9:41 • 8h ago
 
 ---
 
