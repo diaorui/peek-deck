@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-02-13T06:00:48.883150+00:00'
+updated: '2026-02-13T07:12:42.755732+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- videos
-- social
 - cryptocurrency
+- social
 - news
+- videos
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** February 13, 2026 at 06:00 UTC  
+**Last Updated:** February 13, 2026 at 07:12 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,35 +42,43 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** -1.8%  
-**7d:** -7.6%  
-**30d:** -41.6%  
-**90d:** -37.5%  
-**1y:** -29.0%  
+**24h:** -1.1%  
+**7d:** -7.1%  
+**30d:** -41.3%  
+**90d:** -37.2%  
+**1y:** -28.7%  
 
 ---
 
 ## Ethereum Market Stats
 
-**Market Cap:** $235.61B
+**Market Cap:** $233.80B
 Rank #2
 
 **Circulating Supply:** 120,692,487 ETH
 No max supply
 
 **All-Time High:** $4,946.05
--60.6%
+-60.8%
 
 **All-Time Low:** $0.43
-+450196.7%
++447441.3%
 
 ---
 
 ## Reddit: r/ethereum
 
+**[Daily General Discussion February 13, 2026](https://www.reddit.com/r/ethereum/comments/1r3hd2w/daily_general_discussion_february_13_2026/)**
+
+Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
+
+1h ago
+
+---
+
 **[I got HTTP 402 working as an actual payment protocol for AI agents, here's what I learned](https://www.reddit.com/r/ethereum/comments/1r3bm1g/i_got_http_402_working_as_an_actual_payment/)**
 
-4h ago
+5h ago
 
 ---
 
@@ -78,7 +86,7 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-23h ago
+1d ago
 
 ---
 
@@ -86,7 +94,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 ACDE #230 saw Ethereum core developers focus on Glamsterdam Devnet performance, eth/70 networking safeguards, and a narrowing Hegotá headliner race led by encrypted mempool proposals.
 
-🔗 [EtherWorld.co](https://etherworld.co/highlights-from-the-all-core-developers-execution-acde-call-230/) • 2h ago
+🔗 [EtherWorld.co](https://etherworld.co/highlights-from-the-all-core-developers-execution-acde-call-230/) • 3h ago
 
 ---
 
@@ -94,7 +102,7 @@ ACDE #230 saw Ethereum core developers focus on Glamsterdam Devnet performance, 
 
 Vitalik Buterin proposes ZK API usage credits to make Ethereum the privacy-preserving infrastructure layer for AI and autonomous agents.
 
-🔗 [EtherWorld.co](https://etherworld.co/vitaliks-zk-api-proposal-aims-to-make-ethereum-the-home-for-ai/) • 20h ago
+🔗 [EtherWorld.co](https://etherworld.co/vitaliks-zk-api-proposal-aims-to-make-ethereum-the-home-for-ai/) • 21h ago
 
 ---
 
@@ -102,7 +110,7 @@ Vitalik Buterin proposes ZK API usage credits to make Ethereum the privacy-prese
 
 Responding to https://firefly.social/post/x/2021632354649821275 My first reaction to this was: "And that's why I just got my $2,725 check of fileverse tokens now that fileverse has grown to the point where my dad regularly writes docs in fileverse that he sends to me" My second reaction to this was: "I see how this makes total sense from a crypto perspective, but it makes zero sense from an outside-of-crypto perspective ... hmm, what does this say about crypto?" My more detailed reaction: There are many distinct activities that you can refer to as "incentivizing users". First of all, paying some of your users with coins that your app gets by charging other users is totally fine: that's just a sustainable economic loop, there is nothing wrong with this. The activity that I think people are thinking about more is, paying all your users while the app is early, with the hope of "building network effect" and then making that money back (and much more) later when the app is mature. My general view, if you really have to simplify it and sacrifice some nuances for the sake of brevity, is: Incentives that compensate for unavoidable temporary costs that come from your thing being immature are good Incentives that bring in totally new classes of users that would not use even a mature version of your thing without those incentives are bad For example, I have no problem with many types of defi liquidity rewards, because to me they compensate for per-year risk of the project being hacked or the team turning out to be scammers, a risk that is inherently higher for new projects and much lower once a project becomes more mature. Paying people to make tweets that get attention, might be the most "pure" example of the wrong thing to do, because you are going to get people who come to your platform to make tweets, with every incentive to game any mechanisms you have to judge quality and optimize for maximum laziness on their part, and then immediately disappear as soon as the incentives go away. In principle, content incentivization is a valuable and important problem, but it should be done with care, with an eye to quality over quantity, which are not natural goals that designers of "bootstrapping incentives" have by default. If fact, even if users do not disappear after incentives go away, there is a further problem: you succeed from the perspective of growing quantity of community, but you fail from the perspective of growing quality of community. In the case of defi protocols, you can argue: 1 ETH in an LP pool is 1 ETH doing useful work, regardless of whether it's put there by a cypherpunk or an amoral money maximizer. But, (i) this argument can only be made for defi, not for other areas like social, where esp. in the 2020s, quality matters more than quantity, and (ii) there are always subtle ways in which higher-quality community members help your protocol more in the long term (eg. by writing open-source tools, answering people's questions in online or offline forums, being potential developers on your team). The ideal incentive is an incentive that exactly compensates for temporary downsides of your protocol, those downsides that will disappear once the protocol has more maturity, and attracts zero users who would not be there organically once the protocol is mature. Charging users fees, but paying them back in protocol tokens, I think is also reasonable: it's effectively turning your users into your investors by default, which seems like a good thing to do. A further more cynical take I have is that in the 2021-24 era, the "real product" was creating a speculative bubble, and so the real function of many incentives was to pump up narratives to justify the narrative for the bubble. So any argument that incentives are good for bootstrapping acquisition should be not judged on the question of whether it's plausible, but on the question of whether it's more plausible than the alternative claim that it's all galaxy brain justification ( vitalik.eth.limo/general/2025… ) for a "pump and dump wearing a suit". TLDR: the bulk of the effort should be on making an actually-useful app. This was historically ignored, because it's not necessary for narrative engineering to create a speculative bubble. But now it is necessary. And we do see that the successful apps now, the apps that we actually most appreciate and respect, do the bulk of their user acquisition work in that way, not by paying users to come in indiscriminately.
 
-16h ago
+17h ago
 
 ---
 
@@ -118,7 +126,7 @@ It's open source and live on Arbitrum One right now. Happy to answer any questio
 
 Ethereum's L2 ecosystem has succeeded beyond expectations. Our Gen1 L2s—Arbitrum, Base, Optimism, and others—took a risk on rollup infrastructure when it was experimental. They proved the model works and scaled Ethereum to billions in TVL, successfully killing the "Ethereum Killers." But as /u/vbuterin correctly pointed out, current blob fees are unsustainably low for long-term network health. But I think there's a path forward that can make the transition into Vitalik's new vision for L2s easier. Proposal: Generation-based pricing Gen1 L2s (launched before March 2026): Preferential "founder pricing" Gradual 15-20% annual increases over 5 years (I don't know if 15-20% is correct, but just basically a small enough increase that these L2s won't rebel and happily stay in the ecosystem). Still far below independent L1 operation costs (~$10M+/year) Gen2 L2s (launching 2026-2028): Starting price 3-4x Gen1 base rate Steeper increases (25%/year) Still economically viable vs. building independent chains Gen3+ L2s (2029+): Market-rate pricing reflecting network maturity Maybe staking required. Why this works: Honors early adopters (not a penalty, a reward), but still extracting some additional value from them. Creates urgency for new projects (launch early = better terms) Familiar model (AWS Reserved Instances, Netflix early subscriber rates) Predictable 5-year schedule (institutions can forecast costs). Sustainable revenue for Ethereum without driving L2s away This isn't "picking winners". When you give away your old box of comic books on craigslist and you say "first come first serve" is that picking winners? By 2030, Ethereum could capture $50M+/year vs. current $182K—without losing any major L2s. This approach rewards risk-takers, provides clear pricing roadmaps, and ensures Ethereum's infrastructure remains sustainable as we scale to billions of users (human and ai). Thank you for reading I look forward to your criticism.
 
-17h ago
+18h ago
 
 ---
 
@@ -126,7 +134,7 @@ Ethereum's L2 ecosystem has succeeded beyond expectations. Our Gen1 L2s—Arbitr
 
 If someone can help me. I have a website where clients are able to buy monthly/yearly subscriptions, but I want them to pay normal with card or revolut and for me to receive this payment in crypto like USDC, ETH or others. Is there kind of service available today? Reason for this is because my website is adult contect so I can't use Stripe or websites like that unfortenetly because they don't allow it. And my clients can't pay in crypto because most of them are probably not "tech smart" enough to use crypto for payments.
 
-18h ago
+19h ago
 
 ---
 
@@ -136,31 +144,31 @@ If someone can help me. I have a website where clients are able to buy monthly/y
 
 ---
 
-**[Daily General Discussion February 11, 2026](https://www.reddit.com/r/ethereum/comments/1r1pegs/daily_general_discussion_february_11_2026/)**
-
-Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
-
-2d ago
-
----
-
 ---
 
 ## Google News: "ethereum"
-
-**[Wrapped Bitcoin team taps Hyperlane for WBTC bridge between Ethereum and Solana](https://www.theblock.co/post/389619/wrapped-bitcoin-hyperlane-wbtc-bridge-ethereum-solana)**
-
-The Hyperlane Nexus Bridge will enable holders to transfer wBTC tokens between Ethereum and Solana, the team wrote in a press release.
-
-The Block • 14h ago
-
----
 
 **[Bitcoin Will Fall to $50K and Ethereum Will Hit $1,400 Before Rebound: Standard Chartered](https://decrypt.co/357858/bitcoin-50k-ethereum-1400-before-rebound-standard-chartered)**
 
 Standard Chartered predicts Bitcoin will hit $100K and Ethereum will rise to $4,000 by the end of 2026, but expects further drops first.
 
-Decrypt • 14h ago
+Decrypt • 15h ago
+
+---
+
+**[Wrapped Bitcoin team taps Hyperlane for WBTC bridge between Ethereum and Solana](https://www.theblock.co/post/389619/wrapped-bitcoin-hyperlane-wbtc-bridge-ethereum-solana)**
+
+The Hyperlane Nexus Bridge will enable holders to transfer wBTC tokens between Ethereum and Solana, the team wrote in a press release.
+
+The Block • 16h ago
+
+---
+
+**[$3 Billion Options Expiry Looms Over Bitcoin and Ethereum — Calm Before the Next Shock?](https://finance.yahoo.com/news/3-billion-options-expiry-looms-055314144.html)**
+
+A $3 billion Bitcoin & Ethereum options expiry on Deribit tests market stability as put skew and liquidation fears signal likely volatility.
+
+Yahoo Finance • 1h ago
 
 ---
 
@@ -168,7 +176,7 @@ Decrypt • 14h ago
 
 Bitcoin's seemingly random tumble doesn't bode well for the crypto sector's near term.
 
-Yahoo Finance • 2h ago
+Yahoo Finance • 3h ago
 
 ---
 
@@ -176,7 +184,7 @@ Yahoo Finance • 2h ago
 
 At a panel discussion at Consensus Hong Kong 2026 featuring Consensys CEO and Ethereum co-founder Joe Lubin and SharpLink (SBET) CEO Joseph Chalom, the two executives outlined how digital asset treasuries (DATs) are evolving into a distinct institutional strategy.
 
-CoinDesk • 10h ago
+CoinDesk • 11h ago
 
 ---
 
@@ -188,25 +196,19 @@ Sherwood News • 1d ago
 
 ---
 
+**[Tom Lee: Ethereum ‘V-shaped recovery’ soon as Bitmine buys at $2,000 price](https://www.dlnews.com/articles/markets/tom-lee-says-ethereum-v-shaped-recovery-soon/)**
+
+Bitmine buys another $80m worth of Ethereum. Tom Lee predicts swift recovery despite over $6.6 billion in unrealised losses.
+
+dlnews.com • 2d ago
+
+---
+
 **[Ethereum Whales Are Not Dead: The $400 Million Move That Shows What’s Going On](https://www.tradingview.com/news/newsbtc:7dd7dedca094b:0-ethereum-whales-are-not-dead-the-400-million-move-that-shows-what-s-going-on/)**
 
 Ethereum whales have continued to accumulate despite the current downtrend in the ETH price, providing a bullish outlook for the second-largest crypto by market cap. Notably, ETH withdrawals from exchanges recently reached their highest level since October last year, totaling over $400 million. Eth…
 
-TradingView • 10h ago
-
----
-
-**[Ethereum News: Ether Poised for Another ‘V-Shaped’ Recovery, Fundstrat’s Tom Lee Says](https://www.binance.com/en/square/post/02-12-2026-ethereum-news-ether-poised-for-another-v-shaped-recovery-fundstrat-s-tom-lee-says-290785972237842)**
-
-Binance • 21h ago
-
----
-
-**[Ethereum Based Meme Coin Pepeto Surpasses $7,000,000 in Presale and Confirms Binance Listing With PepetoSwap Defi](https://markets.businessinsider.com/news/stocks/ethereum-based-meme-coin-pepeto-surpasses-7-000-000-in-presale-and-confirms-binance-listing-with-pepetoswap-defi-1035816249)**
-
-DUBAI, United Arab Emirates, Feb.  11, 2026  (GLOBE NEWSWIRE) -- Pepeto (PEPETO), an Ethereum based meme utility project, has surpassed 7 million ...
-
-markets.businessinsider.com • 1d ago
+TradingView • 11h ago
 
 ---
 
@@ -214,15 +216,13 @@ markets.businessinsider.com • 1d ago
 
 The cryptocurrency market has broadly stabilised so far this week, following the turbulence that characterised price action the previous one and pushed Bitcoin (BTC) down to $60,000 on Friday.
 
-FXStreet • 17h ago
+FXStreet • 19h ago
 
 ---
 
-**[Trend Research Liquidates Massive Ethereum Long Position with $869 Million Loss](https://financefeeds.com/trend-research-liquidates-massive-ethereum-long-position-with-869-million-loss/)**
+**[Ethereum News: Ether Poised for Another ‘V-Shaped’ Recovery, Fundstrat’s Tom Lee Says](https://www.binance.com/en/square/post/02-12-2026-ethereum-news-ether-poised-for-another-v-shaped-recovery-fundstrat-s-tom-lee-says-290785972237842)**
 
-On February 11, 2026, on-chain analytics provided by Arkham Intelligence confirmed that Trend Research, the prominent trading firm led by Liquid Capital
-
-FinanceFeeds • 1d ago
+Binance • 23h ago
 
 ---
 
@@ -236,7 +236,7 @@ This video provides a professional Elliott Wave and technical analysis of Ethere
 
 📺 More Crypto Online
 
-👁️ 174 • 👍 16 • ⏱️ 4:01 • 1h ago
+👁️ 675 • 👍 61 • 💬 3 • ⏱️ 4:01 • 3h ago
 
 ---
 
@@ -246,17 +246,7 @@ BITCOIN & ALTCOIN WARNING: It's Happening AGAIN!!!! - Bitcoin News Today, Ethere
 
 📺 Crypto World
 
-👁️ 7K • 👍 339 • 💬 168 • ⏱️ 21:40 • 10h ago
-
----
-
-**[Ethereum Elliott Wave Update – Key Resistance Levels Ahead](https://www.youtube.com/watch?v=5PqmqRegidY)**
-
-This video provides a professional Elliott Wave and technical analysis of Ethereum (ETH), focusing on market structure, major ...
-
-📺 More Crypto Online
-
-👁️ 3K • 👍 180 • 💬 4 • ⏱️ 6:51 • 16h ago
+👁️ 8K • 👍 358 • 💬 169 • ⏱️ 21:40 • 11h ago
 
 ---
 
@@ -270,23 +260,33 @@ BlackRock + Joe Rogan + Ethereum.. Biggest Crypto News Happening Now!! Become a 
 
 ---
 
-**[Ethereum Down 38%: You Weren&#39;t the Investor. You Were Their Exit.](https://www.youtube.com/watch?v=iFA74syBbxY)**
-
-Ethereum is down 1% today, 8% this week, and 38% this month. The financial media is full of explanations — support levels, ETF ...
-
-📺 Dana Love, PhD
-
-👁️ 844 • 👍 2 • 💬 1 • ⏱️ 0:43 • 8h ago
-
----
-
 **[Tom Lee at Consensus Hong Kong 2026 | Ethereum to $22,000? Bitcoin vs Gold &amp; Bitmine Outlook](https://www.youtube.com/watch?v=B9d4S0PnoJk)**
 
 Tom Lee, Co-Founder of Fundstrat and Chairman of Bitmine Immersion (NYSE: BMNR), shares his bold outlook on Bitcoin, ...
 
 📺 The Crypto Times
 
-👁️ 17K • 👍 413 • 💬 100 • ⏱️ 15:00 • 1d ago
+👁️ 17K • 👍 416 • 💬 104 • ⏱️ 15:00 • 1d ago
+
+---
+
+**[Ethereum Down 38%: You Weren&#39;t the Investor. You Were Their Exit.](https://www.youtube.com/watch?v=iFA74syBbxY)**
+
+Ethereum is down 1% today, 8% this week, and 38% this month. The financial media is full of explanations — support levels, ETF ...
+
+📺 Dana Love, PhD
+
+👁️ 978 • 👍 2 • 💬 1 • ⏱️ 0:43 • 9h ago
+
+---
+
+**[Ethereum Elliott Wave Update – Key Resistance Levels Ahead](https://www.youtube.com/watch?v=5PqmqRegidY)**
+
+This video provides a professional Elliott Wave and technical analysis of Ethereum (ETH), focusing on market structure, major ...
+
+📺 More Crypto Online
+
+👁️ 3K • 👍 180 • 💬 4 • ⏱️ 6:51 • 17h ago
 
 ---
 
@@ -296,17 +296,7 @@ If you own XRP, SOL, ETH or Bitcoin Watch This Immediately! CoinDuel AI - This A
 
 📺 Zach Humphries
 
-👁️ 7K • 👍 638 • 💬 28 • ⏱️ 5:43 • 2d ago
-
----
-
-**[FINALLY SOME BULLISH SIGNS🔥 (Ethereum Price Prediction 2026)](https://www.youtube.com/watch?v=XgEFCgFg7oE)**
-
-ETHEREUM ETH PRICE PREDICTION 2026 Join the Premium Signal Group for trade setups, mentorship & a community ...
-
-📺 Cilinix Crypto
-
-👁️ 357 • 👍 17 • 💬 1 • ⏱️ 5:02 • 19h ago
+👁️ 7K • 👍 638 • 💬 29 • ⏱️ 5:43 • 2d ago
 
 ---
 
@@ -316,17 +306,27 @@ CNBC"s MacKenzie Sigalos joins 'Squawk Box' to discuss the recent bitcoin volati
 
 📺 CNBC Television
 
-👁️ 104K • 👍 919 • 💬 996 • ⏱️ 6:36 • 2d ago
+👁️ 105K • 👍 924 • 💬 1K • ⏱️ 6:36 • 2d ago
 
 ---
 
-**[Ethereum Elliott Wave Update – Key Resistance Levels Ahead](https://www.youtube.com/watch?v=WMpJYYVY_6U)**
+**[Bitcoin &amp; Ethereum. Wir warten auf die grosse LONG Position! Vorher aber nochmal weiter runter](https://www.youtube.com/watch?v=Gkjf2isjqko)**
 
-This video provides a professional Elliott Wave and technical analysis of Ethereum (ETH), focusing on market structure, major ...
+Hier Handle ich Kryptowährungen!! Bitunix (Instant VIP LVL 3 und 20% Deposit Zurück bis max 400 USDT) ...
 
-📺 More Crypto Online
+📺 Krypto Trading & Investing
 
-👁️ 3K • 👍 214 • 💬 8 • ⏱️ 7:37 • 1d ago
+👁️ 2K • 👍 499 • 💬 56 • ⏱️ 17:10 • 2h ago
+
+---
+
+**[Why People Doubt XRP Can Explode Like ETH](https://www.youtube.com/watch?v=u2UnNCd8Foo)**
+
+ETH climbed single to three digits in 12 months, Solana in nine. Same liquidity mechanics apply to XRP. Total supply confuses ...
+
+📺 Jake Claver
+
+👁️ 38K • 👍 2K • 💬 93 • ⏱️ 1:17 • 1d ago
 
 ---
 

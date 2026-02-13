@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-02-13T06:00:48.877034+00:00'
+updated: '2026-02-13T07:12:42.749723+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- videos
-- social
 - cryptocurrency
+- social
 - news
+- videos
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** February 13, 2026 at 06:00 UTC  
+**Last Updated:** February 13, 2026 at 07:12 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,33 +38,33 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $66,399.81
+### $66,356.76
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** -1.4%  
-**7d:** -4.5%  
-**30d:** -30.7%  
-**90d:** -29.8%  
-**1y:** -32.1%  
+**24h:** -0.9%  
+**7d:** -4.0%  
+**30d:** -30.4%  
+**90d:** -29.5%  
+**1y:** -31.8%  
 
 ---
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1327.94B
+**Market Cap:** $1326.46B
 Rank #1
 
-**Circulating Supply:** 19,988,443 BTC
+**Circulating Supply:** 19,988,550 BTC
 95.2% of max
 
 **All-Time High:** $126,080.00
--47.3%
+-47.4%
 
 **All-Time Low:** $67.81
-+97807.4%
++97752.8%
 
 ---
 
@@ -79,19 +79,7 @@ Rank #1
 
 **[VanEck said it knows 13 governments that are actively mining Bitcoin](https://www.reddit.com/r/Bitcoin/comments/1r35qqv/vaneck_said_it_knows_13_governments_that_are/)**
 
-8h ago
-
----
-
-**[Which one are you?](https://www.reddit.com/r/Bitcoin/comments/1r32e5a/which_one_are_you/)**
-
-10h ago
-
----
-
-**[Bitcoin, what are you doing](https://www.reddit.com/r/Bitcoin/comments/1r2u1yl/bitcoin_what_are_you_doing/)**
-
-16h ago
+9h ago
 
 ---
 
@@ -99,7 +87,19 @@ Rank #1
 
 Well…
 
-5h ago
+6h ago
+
+---
+
+**[Bitcoin, what are you doing](https://www.reddit.com/r/Bitcoin/comments/1r2u1yl/bitcoin_what_are_you_doing/)**
+
+17h ago
+
+---
+
+**[Which one are you?](https://www.reddit.com/r/Bitcoin/comments/1r32e5a/which_one_are_you/)**
+
+12h ago
 
 ---
 
@@ -107,15 +107,7 @@ Well…
 
 Just want to let you know that bitcoin will reach 38,000 according to my dream. I’m still DCA everyday with full confidence. Your welcome
 
-2h ago
-
----
-
-**[Won $4,000 worth of BTC at a bitcoin betting website. Should I hold?](https://www.reddit.com/r/Bitcoin/comments/1r34csh/won_4000_worth_of_btc_at_a_bitcoin_betting/)**
-
-Since bitcoin is dropping, please advise on should I keep this win? I have never invested in crypto and have no idea what to do with this. Yes it was pure dumb luck. Now pleas help!
-
-9h ago
+3h ago
 
 ---
 
@@ -123,7 +115,15 @@ Since bitcoin is dropping, please advise on should I keep this win? I have never
 
 I set alerts for my dip buying strategy. I have been buying since $80K and these are my next targets. Hope it all hit perfectly. I may increase the amounts depending on my savings.
 
-19h ago
+20h ago
+
+---
+
+**[Won $4,000 worth of BTC at a bitcoin betting website. Should I hold?](https://www.reddit.com/r/Bitcoin/comments/1r34csh/won_4000_worth_of_btc_at_a_bitcoin_betting/)**
+
+Since bitcoin is dropping, please advise on should I keep this win? I have never invested in crypto and have no idea what to do with this. Yes it was pure dumb luck. Now pleas help!
+
+10h ago
 
 ---
 
@@ -131,7 +131,15 @@ I set alerts for my dip buying strategy. I have been buying since $80K and these
 
 I really want to start self-custody and have my bitcoing actually be my own. But I'm terrified of losing my passkey. I'm notoriously bad at keeping stuff working. I've already lost multiple phones and have lost my 2fa to current exchanges. Only thing that saved me both times was KYC and customer support.
 
-8h ago
+9h ago
+
+---
+
+**[Daily Discussion, February 13, 2026](https://www.reddit.com/r/Bitcoin/comments/1r3hdtv/daily_discussion_february_13_2026/)**
+
+Please utilize this sticky thread for all general Bitcoin discussions! If you see posts on the front page or /r/Bitcoin/new which are better suited for this daily discussion thread, please help out by directing the OP to this thread instead. Thank you! If you don't get an answer to your question, you can try phrasing it differently or commenting again tomorrow. Please check the previous discussion thread for unanswered questions.
+
+1h ago
 
 ---
 
@@ -139,15 +147,7 @@ I really want to start self-custody and have my bitcoing actually be my own. But
 
 I loved old Green wallet app interface... current Blockstream version looks worse, just feels off comparing to old one, so I stopped using it and switched to Blue wallet last year. Recently I used my old phone, and it reminds me how good was the old Green version... It still works perfectly, but I wonder if you guys know: Is it still safe to use old version of Green app? Is it possible to extract APK file of old version (from my old phone, and install on new phone) If not, then I'll just stick to Blue wallet...
 
-1h ago
-
----
-
-**[Super simple Bitcoin explainer to send friends & fam](https://www.reddit.com/r/Bitcoin/comments/1r35034/super_simple_bitcoin_explainer_to_send_friends_fam/)**
-
-Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.
-
-🔗 [youtu.be](https://youtu.be/CtMmNTc4yho?si=KsfHcWT8SHWGRs6S) • 9h ago
+2h ago
 
 ---
 
@@ -155,29 +155,9 @@ Enjoy the videos and music you love, upload original content, and share it all w
 
 ## Google News: "bitcoin"
 
-**[Bitcoin price steadies but fresh fears suggest slide to $52k](https://uk.finance.yahoo.com/news/bitcoin-price-crypto-us-jobs-101234268.html)**
+**[Bitcoin Steadies in Asia After Standard Chartered Warning](https://www.bloomberg.com/news/articles/2026-02-13/bitcoin-btc-under-pressure-in-asia-after-standard-chartered-warning)**
 
-Yahoo Finance UK • 19h ago
-
----
-
-**[Bitcoin price news: BTC falls back to $65,000 as software sector slides 3%](https://www.coindesk.com/markets/2026/02/12/bitcoin-tumbles-back-near-last-week-s-lows-as-ai-fears-crush-tech-and-precious-metals-plunge)**
-
-The strong correlation between crypto and the software sector reasserted itself on Wednesday
-
-CoinDesk • 4h ago
-
----
-
-**[Crypto lender BlockFills suspends withdrawals amid faltering bitcoin price](https://www.reuters.com/legal/government/crypto-lender-blockfills-suspends-withdrawals-amid-faltering-bitcoin-price-2026-02-11/)**
-
-Reuters • 1d ago
-
----
-
-**[Bitcoin Under Pressure in Asia After Standard Chartered Warning](https://www.bloomberg.com/news/articles/2026-02-13/bitcoin-btc-under-pressure-in-asia-after-standard-chartered-warning)**
-
-Bloomberg.com • 1h ago
+Bloomberg.com • 2h ago
 
 ---
 
@@ -185,15 +165,29 @@ Bloomberg.com • 1h ago
 
 The bank cuts its 2026 crypto price targets, warning of further near-term capitulation as ETF outflows and macro headwinds weigh on digital assets.
 
-CoinDesk • 14h ago
+CoinDesk • 15h ago
 
 ---
 
-**[Bitcoin Will Fall to $50K and Ethereum Will Hit $1,400 Before Rebound: Standard Chartered](https://finance.yahoo.com/news/bitcoin-fall-50k-ethereum-hit-152946733.html)**
+**[Bitcoin to $50,000? Standard Chartered predicts ‘more pain’ for price](https://finance.yahoo.com/news/bitcoin-50-000-standard-chartered-161956812.html)**
 
-Standard Chartered predicts Bitcoin will hit $100K and Ethereum will rise to $4,000 by the end of 2026, but expects further drops first.
+The crypto selloff is not over, argues a Standard Chartered analyst. Bitcoin and Ethereum will continue dropping until recovery in the second half of 2026. But the asset class has become resilient, the analyst argued, with selloffs “less extreme.”
 
 Yahoo Finance • 14h ago
+
+---
+
+**[Bitcoin price steadies but fresh fears suggest slide to $52k](https://uk.finance.yahoo.com/news/bitcoin-price-crypto-us-jobs-101234268.html)**
+
+Yahoo Finance UK • 21h ago
+
+---
+
+**[$3 Billion Options Expiry Looms Over Bitcoin and Ethereum — Calm Before the Next Shock?](https://finance.yahoo.com/news/3-billion-options-expiry-looms-055314144.html)**
+
+A $3 billion Bitcoin & Ethereum options expiry on Deribit tests market stability as put skew and liquidation fears signal likely volatility.
+
+Yahoo Finance • 1h ago
 
 ---
 
@@ -201,29 +195,39 @@ Yahoo Finance • 14h ago
 
 El Salvador’s Bitcoin portfolio has fallen nearly $300 million, as rising CDS spreads and IMF review delays raise debt concerns.
 
-Yahoo Finance • 58m ago
+Yahoo Finance • 2h ago
 
 ---
 
-**[Bitcoin Leads a Fresh Crypto Slide: Here's What It Means for Ethereum and Solana Investors](https://www.fool.com/investing/2026/02/12/bitcoin-leads-a-fresh-crypto-slide-heres-what-it-m/)**
+**[Bitcoin reportedly sent to wallet associated with Nancy Guthrie’s ransom letter providing potential clue in investigation](https://fortune.com/2026/02/11/bitcoin-reportedly-sent-to-wallet-associated-with-nancy-guthries-ransom-letter/)**
 
-Bitcoin's seemingly random tumble doesn't bode well for the crypto sector's near term.
+Meanwhile, authorities released surveillance video showing the alleged captor who remains at large.
 
-The Motley Fool • 2h ago
-
----
-
-**[This 1 Quantum Computing Rumor Is Making Investors Sell Their Bitcoin. Don't Fall for It](https://www.nasdaq.com/articles/1-quantum-computing-rumor-making-investors-sell-their-bitcoin-dont-fall-it)**
-
-Key PointsInvestors recently learned that quantum computers could one day be used to steal Bitcoin.
-
-Nasdaq • 20h ago
+Fortune • 1d ago
 
 ---
 
-**[Bitcoin leads a fresh crypto slide: Here's what it means for Ethereum and Solana investors](https://www.msn.com/en-us/money/savingandinvesting/bitcoin-leads-a-fresh-crypto-slide-here-s-what-it-means-for-ethereum-and-solana-investors/ar-AA1WfXm9?ocid=finance-verthp-feeds)**
+**[Despite Bitcoin’s Plunge, These Crypto IPOs Are Seen on Deck for 2026](https://www.morningstar.com/stocks/despite-bitcoins-plunge-these-crypto-ipos-are-seen-deck-2026)**
 
-MSN • 1h ago
+Investors are nursing huge losses on 2025 crypto IPOs, but stablecoin companies could be a haven.
+
+Morningstar • 20h ago
+
+---
+
+**[Strategy (MSTR) Accounted for 97.5% of Corporate Bitcoin Buying Last Month, Report Shows](https://bitcoinmagazine.com/news/strategy-mstr-accounted-corporate-bitcoin)**
+
+The corporate adoption of bitcoin was dominated by a single player last month — Strategy.
+
+Bitcoin Magazine • 12h ago
+
+---
+
+**[Michael Saylor downplays Strategy credit risk as bitcoin tumbles: 'We'll refinance the debt'](https://www.cnbc.com/2026/02/10/michael-saylor-downplays-strategy-credit-risk-as-bitcoin-tumbles-well-refinance-the-debt.html)**
+
+Strategy plans to continue refinancing its debt and buying bitcoin, even as the token tumbles, CEO Michael Saylor said Tuesday on CNBC's "Squawk Box."
+
+CNBC • 2d ago
 
 ---
 
@@ -315,7 +319,7 @@ Bitcoin's crash off its all time high and then its sudden crash last week. It le
 
 📺 Mark Moss
 
-👁️ 101K • 👍 5K • 💬 690 • ⏱️ 16:43 • 9h ago
+👁️ 122K • 👍 5K • 💬 738 • ⏱️ 16:43 • 11h ago
 
 ---
 
@@ -325,37 +329,7 @@ Fred Thiel is the CEO of Marathon Digital and a leading voice at the intersectio
 
 📺 Anthony Pompliano
 
-👁️ 22K • 👍 868 • 💬 59 • ⏱️ 18:55 • 8h ago
-
----
-
-**[Is the Bitcoin Collapse About to Get WORSE?](https://www.youtube.com/watch?v=s3vLS0fWMZ0)**
-
-Bitcoin #Crypto #Finance Stay ahead of the market — FREE Join the DataDash Pro newsletter ...
-
-📺 DataDash
-
-👁️ 6K • 👍 322 • 💬 23 • ⏱️ 15:09 • 13h ago
-
----
-
-**[Why Bitcoin Could Hit $0](https://www.youtube.com/watch?v=IXNUM4FMqNs)**
-
-We're watching the worst crypto crash since the FTX scandal. Ben McKenzie explains what's driving the crash, and why this one ...
-
-📺 More Perfect Union
-
-👁️ 1.1M • 👍 67K • 💬 6K • ⏱️ 2:50 • 1d ago
-
----
-
-**[Bitcoin and Crypto At EXTREME Fear Levels Never Seen Before](https://www.youtube.com/watch?v=D31PIso6rsA)**
-
-Predict Crypto, Sports, Politics & More on *ClashPicks* ▻ https://www.clashpicks.com/ Follow ClashPicks' X ...
-
-📺 CryptosRUs
-
-👁️ 26K • 👍 1K • 💬 153 • ⏱️ 51:44 • 14h ago
+👁️ 27K • 👍 962 • 💬 59 • ⏱️ 18:55 • 9h ago
 
 ---
 
@@ -365,7 +339,47 @@ Pam Bondi gets slammed on live TV and the cracks in the system are impossible to
 
 📺 Simply Bitcoin
 
-👁️ 12K • 👍 1K • 💬 196 • ⏱️ 21:31 • 6h ago
+👁️ 16K • 👍 2K • 💬 206 • ⏱️ 21:31 • 7h ago
+
+---
+
+**[Is the Bitcoin Collapse About to Get WORSE?](https://www.youtube.com/watch?v=s3vLS0fWMZ0)**
+
+Bitcoin #Crypto #Finance Stay ahead of the market — FREE Join the DataDash Pro newsletter ...
+
+📺 DataDash
+
+👁️ 6K • 👍 331 • 💬 23 • ⏱️ 15:09 • 15h ago
+
+---
+
+**[Michael Saylor really looks scared 😱](https://www.youtube.com/watch?v=57mjeAjkPNQ)**
+
+LIMITED TIME: ✓ Bitunix (no kyc, $10k bonus): https://www.bitunix.com/register?vipCode=AltcoinDaily 50% deposit bonus on ...
+
+📺 Altcoin Daily
+
+👁️ 45K • 👍 554 • 💬 109 • ⏱️ 0:34 • 18h ago
+
+---
+
+**[Why Bitcoin Could Hit $0](https://www.youtube.com/watch?v=IXNUM4FMqNs)**
+
+We're watching the worst crypto crash since the FTX scandal. Ben McKenzie explains what's driving the crash, and why this one ...
+
+📺 More Perfect Union
+
+👁️ 1.2M • 👍 71K • 💬 6K • ⏱️ 2:50 • 1d ago
+
+---
+
+**[Bitcoin and Crypto At EXTREME Fear Levels Never Seen Before](https://www.youtube.com/watch?v=D31PIso6rsA)**
+
+Predict Crypto, Sports, Politics & More on *ClashPicks* ▻ https://www.clashpicks.com/ Follow ClashPicks' X ...
+
+📺 CryptosRUs
+
+👁️ 27K • 👍 1K • 💬 153 • ⏱️ 51:44 • 15h ago
 
 ---
 
@@ -375,17 +389,7 @@ The crypto market is at a massive crossroads. After the "Crypto Winter" correcti
 
 📺 Discover Crypto
 
-👁️ 2K • 👍 185 • 💬 22 • ⏱️ 9:41 • 6h ago
-
----
-
-**[&#39;DIGITAL GOLD&#39;: How younger generations are &#39;embracing&#39; Bitcoin](https://www.youtube.com/watch?v=pOXmwGyZFZ8)**
-
-'Coin Stories with Natalie Brunell' host cuts through the 'education gap' about Bitcoin as the crypto retreat persists on 'Making ...
-
-📺 Fox Business
-
-👁️ 23K • 👍 566 • 💬 412 • ⏱️ 4:46 • 1d ago
+👁️ 4K • 👍 224 • 💬 24 • ⏱️ 9:41 • 7h ago
 
 ---
 
@@ -395,17 +399,17 @@ Let's talk about a few indicators that give some suggestions on how low the pric
 
 📺 Benjamin Cowen
 
-👁️ 136K • 👍 9K • 💬 632 • ⏱️ 23:30 • 1d ago
+👁️ 139K • 👍 9K • 💬 632 • ⏱️ 23:30 • 1d ago
 
 ---
 
-**[Bitcoin was made for this moment but now it&#39;s tanking?](https://www.youtube.com/watch?v=2453z1Ijuak)**
+**[LIVE: Trump Announces Important News About Crypto! This Speech Will Change the Crypto Industry](https://www.youtube.com/watch?v=EYhb0VxlZOo)**
 
-This clip is from todays' episode 'Why Markets Can't Price AI' with Ed Elson, out now: https://youtu.be/sSy2UkbC-HI Prof G Markets ...
+TrumpCrypto2026 #DigitalAssets #TrumpAnnouncement Welcome to the Trump Crypto Forum 2026 — streaming LIVE from ...
 
-📺 The Prof G Pod – Scott Galloway
+📺 vid' SIGN
 
-👁️ 15K • 👍 469 • 💬 42 • ⏱️ 1:28 • 2d ago
+👁️ 6K • 👍 3K • 12h ago
 
 ---
 
