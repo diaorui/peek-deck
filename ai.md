@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-02-14T21:48:00.755120+00:00'
+updated: '2026-02-14T22:25:31.980512+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
 - videos
-- repositories
 - social
 - news
+- repositories
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** February 14, 2026 at 21:48 UTC  
+**Last Updated:** February 14, 2026 at 22:25 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -49,7 +49,15 @@ The U.S. military used Anthropic's Claude AI model during the operation to captu
 
 Mustafa Suleyman believes current AI computational power will only accelerate, disrupting every kind of work you do “sitting down at a computer.”
 
-🔗 [Fortune](https://fortune.com/2026/02/13/when-will-ai-kill-white-collar-office-jobs-18-months-microsoft-mustafa-suleyman/) • 5h ago
+🔗 [Fortune](https://fortune.com/2026/02/13/when-will-ai-kill-white-collar-office-jobs-18-months-microsoft-mustafa-suleyman/) • 6h ago
+
+---
+
+**[We have been building and working on a local AI with memory and persistence](https://www.reddit.com/r/artificial/comments/1r4wnlo/we_have_been_building_and_working_on_a_local_ai/)**
+
+We have built a local model running on a Mac Studio M3 Ultra, 32-core CPU, 80-core GPU, 32-core Neural Engine, 512GB unified memory. With a 5-tiered memory architecture that can be broken down as follows: Working memory - This keeps the immediate conversational context. Vector Store - Semantic memory for conceptual retrieval. Knowledge graph (Neo4j) - A symbolic relational map of hard facts and entities. Timeline log - A chronological record of every event and interaction. Lessons - A distilled layer of extracted truths and behavioural patterns. Interactions with Ernos are written to these tiers in real time. When Ernos responds to you, he has processed your prompt through the lens of everything he has ever learnt. Ernos also has an algorithm that operates independently of user prompts, working through his memory of interactions, identifying contradictions, and then aligning his internal knowledge graph with external reality. This also happens against Ernos’ own ‘thoughts’, verifying his own claims against the internet and codebase, adjusting to what is empirically true. If Ernos fails, or has a hallucination, it is caught, analysed, and fixed, in a self-correcting feedback loop that perpetually refines the internal model to match the physical and digital world he inhabits. A digital ‘Robert Rosen Anticipatory System’. These two systems enable Ernos to adopt a position, defend it with evidence, and evolve a personality over time based on genuine experiences rather than pre-programmed templates. If you are still reading this (and I can appreciate it’s dry), thank you. I would be interested to know your thoughts and criticisms. Also if you would like to test Ernos, or try to disprove his claims/break him, we would truly appreciate inquisitive minds to do so.
+
+48m ago
 
 ---
 
@@ -57,7 +65,7 @@ Mustafa Suleyman believes current AI computational power will only accelerate, d
 
 Hey everyone, I’m a backend developer with a background in fintech. Lately, I’ve been experimenting with multi-agent systems, and one major issue I kept running into was collision. When you have multiple agents (or even one agent doing complex tasks) accessing the same files, APIs, or context, they tend to "step on each other's toes." They overwrite data, execute out of order, or hallucinate permissions they shouldn't have. It’s a mess. I realized what was missing was a Traffic Light. So I built Network-AI. It’s an open-source protocol that acts as a traffic control system for agent orchestration. How it works: Think of it like an intersection. Before an agent can execute a high-stakes tool (like writing to a database, moving a file, or sending a transaction), it hits a "Red Light." The Check: The protocol (specifically a module I call AuthGuardian) checks the agent’s credentials and the current state of the environment. The Green Light: Only if the "road is clear" (permissions are verified and no conflicts exist) does the agent get the green light to proceed. The Camera: Just like a traffic camera, there is an immutable audit trail of every green light given, so you can debug crashes later. Why I’m posting: I’m not selling anything. I just want to solve the problem of agents corrupting shared environments. I’d love for you to check out the repo and tell me if this "Traffic Light" architecture makes sense for your use cases, or if I’m over-engineering it. Repo:https://github.com/jovanSAPFIONEER/Network-AI all feedback is welcome
 
-2h ago
+3h ago
 
 ---
 
@@ -65,7 +73,7 @@ Hey everyone, I’m a backend developer with a background in fintech. Lately, I�
 
 It does not happen very often in the history of business that an orthogonal product is invented that almost immediately doubles the revenue pool of a
 
-🔗 [The Next Platform](https://www.nextplatform.com/2026/02/11/only-a-few-ai-platforms-can-survive/) • 6h ago
+🔗 [The Next Platform](https://www.nextplatform.com/2026/02/11/only-a-few-ai-platforms-can-survive/) • 7h ago
 
 ---
 
@@ -109,23 +117,13 @@ AI is not the threat. Humanity repeating the same tragic pattern, provable with 
 
 ---
 
-**[What's the most underrated way you've seen AI used for actual business tasks?](https://www.reddit.com/r/artificial/comments/1r38tis/whats_the_most_underrated_way_youve_seen_ai_used/)**
-
-Everyone talks about AI for chatbots and image generation. But I've been finding the most value in boring practical stuff. Writing landing page copy, structuring email sequences, generating SEO content briefs, building out template collections. Not flashy, but it saves hours every single day. What's the most underrated or overlooked business use case you've found for AI tools?
-
-1d ago
-
----
-
 ---
 
 ## Google News: "ai"
 
-**[Microsoft AI chief gives it 18 months—for all white-collar work to be automated by AI](https://fortune.com/2026/02/13/when-will-ai-kill-white-collar-office-jobs-18-months-microsoft-mustafa-suleyman/)**
+**[How A.I. Salaries Are Causing Couples to Rethink Money in Relationships](https://www.nytimes.com/2026/02/14/business/artificial-intelligence-relationships-income-gap.html)**
 
-Mustafa Suleyman believes current AI computational power will only accelerate, disrupting every kind of work you do “sitting down at a computer.”
-
-Fortune • 1d ago
+The New York Times • 12h ago
 
 ---
 
@@ -137,17 +135,11 @@ CNBC • 1d ago
 
 ---
 
-**[AI Bubble Fears Are Creating New Derivatives](https://www.bloomberg.com/news/articles/2026-02-14/ai-bubble-fears-are-creating-new-derivatives-credit-weekly)**
+**[Dr. Oz pushes AI avatars as a fix for rural health care. Not so fast, critics say](https://www.npr.org/2026/02/14/nx-s1-5704189/dr-oz-ai-avatars-replace-rural-health-workers)**
 
-Bloomberg.com • 1h ago
+Dr. Mehmet Oz, who heads the Centers for Medicare and Medicaid Services, is advancing a $50 billion plan to modernize rural health care.
 
----
-
-**[How AI, new technology could aid Nancy Guthrie investigation](https://www.foxnews.com/video/6389284313112)**
-
-Ret. ATF special agent in charge Bernard Zapor and Kurt 'CyberGuy' Knutsson join ‘Fox News Live’ to discuss the investigation into the disappearance of Nancy Guthrie.
-
-Fox News • 1h ago
+NPR • 12h ago
 
 ---
 
@@ -155,7 +147,7 @@ Fox News • 1h ago
 
 Wall Street Journal says Claude used in operation via Anthropic’s partnership with Palantir Technologies
 
-The Guardian • 5h ago
+The Guardian • 6h ago
 
 ---
 
@@ -163,19 +155,35 @@ The Guardian • 5h ago
 
 The U.S. military reportedly used Anthropic’s AI tool Claude in the operation that captured Venezuelan leader Nicolás Maduro, raising questions about AI’s expanding role in classified Pentagon missions.
 
-Fox News • 16h ago
+Fox News • 17h ago
 
 ---
 
-**[US Military Used Claude AI In Venezuela Operation To Capture Maduro: Report](https://www.ndtv.com/world-news/us-military-used-claude-ai-in-venezuela-operation-to-capture-nicolas-maduro-report-11003847)**
+**[Blundering Husband Asks Claude AI to "Organize" Wife's PC, Accidentally Erases Her Cherished Family Photos](https://futurism.com/artificial-intelligence/claude-wife-photos)**
 
-The US military used artificial intelligence in its operation to capture then Venezuelan President Nicolas Maduro last month, according to a report by the Wall Street Journal.
+All the husband wanted to do was be helpful, and so did the Claude AI. Yet, both ended up screwing up majorly.
 
-NDTV • 8h ago
+Futurism • 1d ago
 
 ---
 
-**[My Dinner Date With A.I.](https://www.nytimes.com/2026/02/13/dining/ai-dinner-date-restaurant.html)**
+**[Microsoft AI CEO predicts 'most, if not all' white-collar tasks will be automated by AI within 18 months](https://www.businessinsider.com/microsoft-ai-ceo-mustafa-suleyman-white-collar-tasks-automation-prediction-2026-2)**
+
+Mustafa Suleyman, Microsoft's AI chief, says AI can automate white-collar jobs within 12-18 months, as tech reaches human-level performance in tasks.
+
+Business Insider • 2d ago
+
+---
+
+**[What it’s like to go on a date with an AI in NYC](https://www.cnn.com/2026/02/14/us/video/artificial-intelligence-date-valentines-day-nyc-digvid)**
+
+CNN’s Hadas Gold visited a New York restaurant temporarily transformed into an AI companion–only dating experience to see what a virtual Valentine’s date really feels like.
+
+CNN • 9h ago
+
+---
+
+**[My Dinner Date With A.I. - The New York Times](https://www.nytimes.com/2026/02/13/dining/ai-dinner-date-restaurant.html)**
 
 The New York Times • 1d ago
 
@@ -185,13 +193,7 @@ The New York Times • 1d ago
 
 Ahead of Valentine’s Day, EVA AI hosted a pop up where human users could take their AI companions on a date. I went to see what it's like.
 
-USA Today • 8h ago
-
----
-
-**[‘We’re All Polyamorous Now. It’s You, Me and the A.I.’](https://www.nytimes.com/2026/02/13/opinion/ai-relationships.html)**
-
-The New York Times • 1d ago
+USA Today • 9h ago
 
 ---
 
@@ -224,7 +226,7 @@ IMPORTANT: This is a more targeted fix than originally proposed. ...
 
 **[An AI agent published a hit piece on me – more things have happened](https://news.ycombinator.com/item?id=47009949)**
 
-⬆️ 550 • 💬 489 • 21h ago • [theshamblog.com](https://theshamblog.com/an-ai-agent-published-a-hit-piece-on-me-part-2/)
+⬆️ 583 • 💬 513 • 21h ago • [theshamblog.com](https://theshamblog.com/an-ai-agent-published-a-hit-piece-on-me-part-2/)
 
 ---
 
@@ -232,7 +234,7 @@ IMPORTANT: This is a more targeted fix than originally proposed. ...
 
 We're not in a February 2020 moment, and ordinary people will be fine
 
-⬆️ 318 • 💬 522 • 1d ago • [davidoks.blog](https://davidoks.blog/p/why-im-not-worried-about-ai-job-loss)
+⬆️ 320 • 💬 528 • 1d ago • [davidoks.blog](https://davidoks.blog/p/why-im-not-worried-about-ai-job-loss)
 
 ---
 
@@ -244,17 +246,17 @@ US Border Patrol intelligence units will gain access to a face recognition tool 
 
 ---
 
-**[The "AI agent hit piece" situation clarifies how dumb we are acting](https://news.ycombinator.com/item?id=47006843)**
-
-⬆️ 237 • 💬 118 • 1d ago • [ardentperf.com](https://ardentperf.com/2026/02/13/the-scott-shambaugh-situation-clarifies-how-dumb-we-are-acting/)
-
----
-
 **[News publishers limit Internet Archive access due to AI scraping concerns](https://news.ycombinator.com/item?id=47017138)**
 
 Outlets like The Guardian and The New York Times are scrutinizing digital archives as potential backdoors for AI crawlers.
 
-⬆️ 196 • 💬 109 • 3h ago • [Nieman Lab](https://www.niemanlab.org/2026/01/news-publishers-limit-internet-archive-access-due-to-ai-scraping-concerns/)
+⬆️ 262 • 💬 157 • 3h ago • [Nieman Lab](https://www.niemanlab.org/2026/01/news-publishers-limit-internet-archive-access-due-to-ai-scraping-concerns/)
+
+---
+
+**[The "AI agent hit piece" situation clarifies how dumb we are acting](https://news.ycombinator.com/item?id=47006843)**
+
+⬆️ 238 • 💬 121 • 1d ago • [ardentperf.com](https://ardentperf.com/2026/02/13/the-scott-shambaugh-situation-clarifies-how-dumb-we-are-acting/)
 
 ---
 
@@ -262,7 +264,7 @@ Outlets like The Guardian and The New York Times are scrutinizing digital archiv
 
 A party balloon mistaken for a cartel drone shut down El Paso for hours. Here's what it cost.
 
-⬆️ 190 • 💬 130 • 2d ago • [log.jasongodfrey.info](https://log.jasongodfrey.info/questions/The-Most-Expensive-Party-Balloon-in-History)
+⬆️ 190 • 💬 131 • 2d ago • [log.jasongodfrey.info](https://log.jasongodfrey.info/questions/The-Most-Expensive-Party-Balloon-in-History)
 
 ---
 
@@ -270,7 +272,7 @@ A party balloon mistaken for a cartel drone shut down El Paso for hours. Here's 
 
 One Rust binary that runs the full AI assistant: multi-provider LLM routing, tools, memory, sandboxed execution, and multi-channel access.
 
-⬆️ 116 • 💬 43 • 2d ago • [Moltis](https://www.moltis.org)
+⬆️ 117 • 💬 44 • 2d ago • [Moltis](https://www.moltis.org)
 
 ---
 
@@ -304,7 +306,7 @@ Something big is happening in AI — and for the first time, markets are reactin
 
 📺 GVS Deep Dive
 
-👁️ 10K • 👍 832 • 💬 187 • ⏱️ 22:55 • 13h ago
+👁️ 10K • 👍 832 • 💬 187 • ⏱️ 22:55 • 14h ago
 
 ---
 
@@ -324,7 +326,7 @@ Congratulations, America. We have now reached the point where you can automate d
 
 📺 The Ring of Fire
 
-👁️ 2K • 👍 520 • 💬 35 • ⏱️ 5:13 • 3h ago
+👁️ 2K • 👍 520 • 💬 35 • ⏱️ 5:13 • 4h ago
 
 ---
 
@@ -334,7 +336,7 @@ Google's Quantum AI Just Solved the Fermi Paradox — The Answer Is Terrifying G
 
 📺 Spacialize
 
-👁️ 76K • 👍 2K • 💬 320 • ⏱️ 17:28 • 1d ago
+👁️ 76K • 👍 2K • 💬 320 • ⏱️ 17:28 • 2d ago
 
 ---
 
@@ -681,7 +683,7 @@ The agent-native LLM router powering OpenClaw — by BlockRun
 
 `TypeScript` `ai` `ai-agents` `anthropic` `cost-optimization` `crypto`
 
-⭐ 2.4k • 🔱 246 • 2h ago
+⭐ 2.4k • 🔱 246 • 3h ago
 
 ---
 
@@ -691,7 +693,7 @@ All-in-one AI framework & toolkit for Claude Code & Cursor
 
 `Python` `ai-agent` `ai-coding` `claude-code` `cli` `cursor`
 
-⭐ 2.2k • 🔱 108 • 18h ago
+⭐ 2.2k • 🔱 108 • 19h ago
 
 ---
 
@@ -711,7 +713,7 @@ Warcraft III Peon voice notifications (+ more!) for Claude Code, Codex, and othe
 
 `Shell` `ai` `ai-engineering` `antigravity` `claude-code` `codex`
 
-⭐ 2.0k • 🔱 138 • 1h ago
+⭐ 2.0k • 🔱 138 • 2h ago
 
 ---
 
