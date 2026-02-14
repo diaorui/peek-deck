@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-02-14T14:28:36.477313+00:00'
+updated: '2026-02-14T14:54:53.011898+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- cryptocurrency
 - social
-- news
 - videos
+- cryptocurrency
+- news
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** February 14, 2026 at 14:28 UTC  
+**Last Updated:** February 14, 2026 at 14:54 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -79,7 +79,7 @@ Rank #1
 
 **[2025 vs 2026](https://www.reddit.com/r/Bitcoin/comments/1r40elq/2025_vs_2026/)**
 
-17h ago
+18h ago
 
 ---
 
@@ -87,7 +87,7 @@ Rank #1
 
 Does anyone else have the feeling it will go back above 100k sooner than people expect? Everyone is talking about "the cycle is over" but what the crowd say will happen never happens, usually the opposite.. I'm not saying go all in but atleast if you're shorting, be very careful cause this can rocket in a brutal way Have a nice weekend everyone
 
-5h ago
+6h ago
 
 ---
 
@@ -103,7 +103,7 @@ I’m 14 and just started learning about Bitcoin and saving in general. I began 
 
 hoping to atleast get to 0.25 during this dip. I dont believe we are in a crypto winter yet.
 
-12h ago
+13h ago
 
 ---
 
@@ -117,7 +117,7 @@ hoping to atleast get to 0.25 during this dip. I dont believe we are in a crypto
 
 Had to drop nearly 10k in medical bills... sure enough BTC tanks and as soon as I think im fine to buy a couple hundred... BOOM it either sky rockets or another random medical bill pops up worth a couple hundred and then BTC tanks... So I guess your welcome? And I'm sorry.
 
-18h ago
+19h ago
 
 ---
 
@@ -141,7 +141,7 @@ like we was just vibing near 100k, everybody loud, posting rockets, acting rich 
 
 I seek simplicity in my life. I want Bitcoin exposure (as an investment, don't need liquidity). I've dealt with cold wallets in the past and do not enjoy this. Are there safe options? I ultimately want an experience similar to a brokerage investment, but I know leaving BTC on the exchange is a bad idea.
 
-12h ago
+13h ago
 
 ---
 
@@ -191,7 +191,7 @@ CoinDesk • 1d ago
 
 Both these assets have earned their place as leaders, but the next 10 years could be tough for one of them.
 
-The Motley Fool • 1h ago
+The Motley Fool • 2h ago
 
 ---
 
@@ -199,7 +199,7 @@ The Motley Fool • 1h ago
 
 Bitcoin biopic 'Killing Satoshi' starring Pete Davidson plans to use all-AI locations and AI adjustments for  performances rather than reshoots.
 
-Variety • 21h ago
+Variety • 22h ago
 
 ---
 
@@ -207,7 +207,7 @@ Variety • 21h ago
 
 The US president’s supporters dreamt of a day when the cryptocurrency would hit $300,000. Now the market is in disarray
 
-The Times • 22h ago
+The Times • 23h ago
 
 ---
 
@@ -351,7 +351,7 @@ Predict Crypto, Sports, Politics & More on *ClashPicks* ▻ https://www.clashpic
 
 📺 CryptosRUs
 
-👁️ 27K • 👍 1K • 💬 75 • ⏱️ 53:57 • 22h ago
+👁️ 27K • 👍 1K • 💬 75 • ⏱️ 53:57 • 23h ago
 
 ---
 
@@ -391,7 +391,7 @@ Are Bitcoin and Silver broken, or is the global market quietly preparing for a m
 
 📺 Financial Funda
 
-👁️ 2K • 👍 89 • 💬 2 • ⏱️ 1:45 • 9h ago
+👁️ 2K • 👍 89 • 💬 2 • ⏱️ 1:45 • 10h ago
 
 ---
 
