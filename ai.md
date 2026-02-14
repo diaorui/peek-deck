@@ -3,14 +3,14 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-02-14T07:10:57.825609+00:00'
+updated: '2026-02-14T07:54:35.974651+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- repositories
-- social
 - news
+- social
+- repositories
 - videos
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 AI news, discussions, and developments
 
-**Last Updated:** February 14, 2026 at 07:10 UTC  
+**Last Updated:** February 14, 2026 at 07:54 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -41,7 +41,7 @@ AI news, discussions, and developments
 
 Introducing Open Book Medical AI: Deterministic Knowledge Graph + Compact LLM Most medical AI systems today rely heavily on large, opaque language models. They are powerful, but probabilistic, difficult to audit, and expensive to deploy. We’ve taken a different approach. Our medical AI is a hybrid system combining: • A compact ~3GB language model • A deterministic proprietary medical Knowledge Graph (5K nodes, 25K edges) • A structured RAG-based answer audit layer The Knowledge Graph spans 7 core medical categories: Diseases, Symptoms, Treatment Methods, Risk Factors, Diagnostic Tools, Body Parts, and Cellular Structures and, critically, their relationships. Why this architecture matters 1️⃣ Comparable answer quality with dramatically lower compute and reduced hallucination. A ~3GB model can run on commodity or on-prem infrastructure, enabling hospital deployment without the heavy cloud dependency typically associated with 80GB-class LLMs. 2️⃣ Deterministic medical backbone The Knowledge Graph constrains reasoning. No hallucinated treatments. No unsupported disease relationships. Medical claims must exist within structured ontology. 3️⃣ Verifiable answers via RAG audit Every response can be traced back to specific nodes and relationships in the graph. Symptom → Disease → Diagnostic Tool → Treatment. Structured, auditable, explainable. 4️⃣ Separation of language from medical truth The LLM explains and contextualizes. The Knowledge Graph validates and grounds. This architectural separation dramatically improves reliability and regulatory defensibility. 5️⃣ Complete control over the core of truth Unlike black-box systems that rely entirely on opaque model weights, this architecture gives full control over the medical knowledge layer. You decide what is included, how relationships are defined, and how updates are governed. In high-stakes domains like healthcare, scaling parameter count is not the only path forward. Controllability, traceability, and verifiability may matter more. Hybrid architectures that combine probabilistic language models with deterministic knowledge systems offer a compelling alternative. The model is capable of clinical case analysis and diagnostic reasoning. It is currently available for public testing on Hugging Face Spaces (shared environment, typical response time: 15–30 seconds): https://huggingface.co/spaces/cmtopbas/medical-slm-testing Happy to connect with others exploring Knowledge Graph + LLM systems in regulated domains. #MedicalAI #HealthcareInnovation #KnowledgeGraphs #ExplainableAI #RAG #ClinicalAI #HealthTech
 
-11h ago
+12h ago
 
 ---
 
@@ -57,7 +57,7 @@ Spotify credits Claude Code and its internal AI system Honk with speeding up dev
 
 Running a one-person operation, I rely on AI for marketing, strategy, and content. I've tested ChatGPT Plus, Claude Pro, and Perplexity Pro, and was ready to commit to Gemini Pro, until I understood the privacy implications. The Gemini problem: To prevent Google from training on your data (and human reviewers from reading it), you must turn off activity tracking. You can still use Gems, but they reset every session. This means no memory continuity, which defeats the entire purpose of having a personalized assistant. You also lose native Google Drive connectivity. As a writer and content creator, this isn't just about privacy preferences, it's about protecting my future work. I can't feed my creative process into a system that might be training tomorrow's competition or having humans review my drafts and ideas. My experience so far: ChatGPT Plus: Reliable and easy, but the writing often feels generic and cliché-heavy Claude Pro: Best writer, wonderfully concise, but burns through tokens fast, in less than a day Perplexity Pro: Same token limitations (want Claude Sonnet? Better hope you haven't hit your quota) Gemini Pro: The combination of Gems + NotebookLM looked perfect, until the privacy policy became a dealbreaker The frustrating part is the lack of regulation forcing companies to offer real privacy without crippling core features or having to pay more. For solo creators building a body of work, this matters. How are others balancing privacy, features, and token economics? Has anyone found a setup that actually works without compromise?
 
-16h ago
+17h ago
 
 ---
 
@@ -125,7 +125,7 @@ Frustrated by the AI industry’s claims of proving math results without offerin
 
 UBS analyst Matthew Mish told CNBC that the artificial intelligence transformation is happening faster than he and his colleagues had previously anticipated.
 
-CNBC • 13h ago
+CNBC • 14h ago
 
 ---
 
@@ -133,7 +133,7 @@ CNBC • 13h ago
 
 Mustafa Suleyman believes current AI computational power will only accelerate, disrupting every kind of work you do “sitting down at a computer.”
 
-Fortune • 13h ago
+Fortune • 14h ago
 
 ---
 
@@ -149,7 +149,7 @@ Business Insider • 1d ago
 
 Goldman Sachs' $600 price target implies that shares of Microsoft could rally 49%.
 
-CNBC • 15h ago
+CNBC • 16h ago
 
 ---
 
@@ -157,7 +157,7 @@ CNBC • 15h ago
 
 Artificial Intelligence is showing up on the fashion runway, from virtual try-ons to AI-assisted designs. Some of the industry's biggest names are embracing the technology while others are urging caution. NBC News' Chloe Melas explores how AI is changing what people wear and how they shop.
 
-NBC News • 33m ago
+NBC News • 1h ago
 
 ---
 
@@ -165,7 +165,7 @@ NBC News • 33m ago
 
 Nvidia is a top stock to buy right now.
 
-Yahoo Finance • 48m ago
+Yahoo Finance • 1h ago
 
 ---
 
@@ -173,7 +173,7 @@ Yahoo Finance • 48m ago
 
 New AI models launched by China's biggest players underscore how the country's companies are keeping up with the U.S.
 
-CNBC • 23m ago
+CNBC • 1h ago
 
 ---
 
@@ -193,7 +193,7 @@ Fox News • 2h ago
 
 **[Exclusive | Pentagon Used Anthropic’s Claude in Maduro Venezuela Raid](https://www.wsj.com/politics/national-security/pentagon-used-anthropics-claude-in-maduro-venezuela-raid-583aff17?gaa_at=eafs&gaa_n=AWEtsqeI4Ke8gxRery25ZCkul1FWHwTAsawMPe-WuLYYH_Z7OKpXWnRU5wU_&gaa_ts=6990236c&gaa_sig=sdaS1HgVIeggLu3uJWiWZWt5o-uZoKTh8vw6_EeemJ-IZ0u9vxPO3ZLTYF7ZzhuBxyHZHjUgkKw7rB-lMYQs1g%3D%3D)**
 
-The Wall Street Journal • 7h ago
+The Wall Street Journal • 8h ago
 
 ---
 
@@ -232,7 +232,7 @@ IMPORTANT: This is a more targeted fix than originally proposed. ...
 
 **[An AI Agent Published a Hit Piece on Me – More Things Have Happened](https://news.ycombinator.com/item?id=47009949)**
 
-⬆️ 353 • 💬 171 • 6h ago • [theshamblog.com](https://theshamblog.com/an-ai-agent-published-a-hit-piece-on-me-part-2/)
+⬆️ 353 • 💬 171 • 7h ago • [theshamblog.com](https://theshamblog.com/an-ai-agent-published-a-hit-piece-on-me-part-2/)
 
 ---
 
@@ -248,7 +248,7 @@ The Federal Aviation Administration is closing the airspace around El Paso Inter
 
 US Border Patrol intelligence units will gain access to a face recognition tool built on billions of images scraped from the internet.
 
-⬆️ 263 • 💬 152 • 13h ago • [WIRED](https://www.wired.com/story/cbp-signs-clearview-ai-deal-to-use-face-recognition-for-tactical-targeting/)
+⬆️ 263 • 💬 152 • 14h ago • [WIRED](https://www.wired.com/story/cbp-signs-clearview-ai-deal-to-use-face-recognition-for-tactical-targeting/)
 
 ---
 
@@ -256,13 +256,13 @@ US Border Patrol intelligence units will gain access to a face recognition tool 
 
 We're not in a February 2020 moment, and ordinary people will be fine
 
-⬆️ 234 • 💬 393 • 11h ago • [davidoks.blog](https://davidoks.blog/p/why-im-not-worried-about-ai-job-loss)
+⬆️ 234 • 💬 393 • 12h ago • [davidoks.blog](https://davidoks.blog/p/why-im-not-worried-about-ai-job-loss)
 
 ---
 
 **[The "AI agent hit piece" situation clarifies how dumb we are acting](https://news.ycombinator.com/item?id=47006843)**
 
-⬆️ 213 • 💬 102 • 11h ago • [ardentperf.com](https://ardentperf.com/2026/02/13/the-scott-shambaugh-situation-clarifies-how-dumb-we-are-acting/)
+⬆️ 213 • 💬 102 • 12h ago • [ardentperf.com](https://ardentperf.com/2026/02/13/the-scott-shambaugh-situation-clarifies-how-dumb-we-are-acting/)
 
 ---
 
@@ -344,7 +344,7 @@ Apple just pushed the new AI Siri timeline again. The big Gemini powered upgrade
 
 📺 Ryan Shaw
 
-👁️ 859 • 👍 17 • 💬 1 • ⏱️ 0:50 • 5h ago
+👁️ 859 • 👍 17 • 💬 1 • ⏱️ 0:50 • 6h ago
 
 ---
 
@@ -364,7 +364,7 @@ Growing outrage across Hollywood, as studios and unions denounce a series of AI-
 
 📺 KTLA 5
 
-👁️ 3K • 👍 95 • 💬 44 • ⏱️ 5:41 • 2h ago
+👁️ 3K • 👍 95 • 💬 44 • ⏱️ 5:41 • 3h ago
 
 ---
 
@@ -388,7 +388,7 @@ GLM-5 is a large language model optimized for complex systems engineering and lo
 
 `text-generation` `753.9B`
 
-⬇️ 13,875 • ❤️ 997 • 16h ago
+⬇️ 13,875 • ❤️ 997 • 17h ago
 
 ---
 
@@ -400,7 +400,7 @@ MiniMax-M2.5 is a text-generation model designed for generating human-like text.
 
 `text-generation` `228.7B`
 
-⬇️ 75 • ❤️ 425 • 3h ago
+⬇️ 75 • ❤️ 425 • 4h ago
 
 ---
 
@@ -460,7 +460,7 @@ MiniCPM-o 4.5 is a 9B parameter multimodal LLM excelling in vision, speech, and 
 
 `any-to-any` `9.4B`
 
-⬇️ 43,481 • ❤️ 836 • 14h ago
+⬇️ 43,481 • ❤️ 836 • 15h ago
 
 ---
 
@@ -472,7 +472,7 @@ Nanbeige4.1-3B is a 3B parameter text-generation model excelling in complex reas
 
 `text-generation` `3.9B`
 
-⬇️ 2,683 • ❤️ 307 • 18h ago
+⬇️ 2,683 • ❤️ 307 • 19h ago
 
 ---
 
@@ -484,7 +484,7 @@ Ming-flash-omni 2.0 is a SOTA 100B parameter omni-multimodal large language mode
 
 `any-to-any`
 
-⬇️ 4,901 • ❤️ 189 • 1d ago
+⬇️ 4,901 • ❤️ 189 • 2d ago
 
 ---
 
@@ -496,7 +496,7 @@ Voxtral-Mini-4B-Realtime-2602 is a multilingual, real-time speech-to-text model 
 
 `automatic-speech-recognition`
 
-⬇️ 5,209 • ❤️ 516 • 15h ago
+⬇️ 5,209 • ❤️ 516 • 16h ago
 
 ---
 
@@ -674,7 +674,7 @@ PaperBanana: Automating Academic Illustration For AI Scientists
 
 Humanizer 的汉化版本，Claude Code Skills，旨在消除文本中 AI 生成的痕迹。
 
-⭐ 2.9k • 🔱 277 • 25d ago
+⭐ 2.9k • 🔱 277 • 26d ago
 
 ---
 
@@ -684,7 +684,7 @@ The agent-native router powering OpenClaw — by BlockRun
 
 `TypeScript` `ai` `ai-agents` `anthropic` `cost-optimization` `crypto`
 
-⭐ 2.4k • 🔱 244 • 27m ago
+⭐ 2.4k • 🔱 244 • 1h ago
 
 ---
 
@@ -704,7 +704,7 @@ The visual feedback tool for agents.
 
 `TypeScript` `ai` `design` `tools` `ui`
 
-⭐ 2.2k • 🔱 153 • 12h ago
+⭐ 2.2k • 🔱 153 • 13h ago
 
 ---
 
@@ -724,7 +724,7 @@ A native desktop GUI for Claude Code — chat, code, and manage projects visuall
 
 `TypeScript` `ai` `anthropic` `claude` `claude-code` `desktop-app`
 
-⭐ 1.8k • 🔱 198 • 20h ago
+⭐ 1.8k • 🔱 198 • 21h ago
 
 ---
 

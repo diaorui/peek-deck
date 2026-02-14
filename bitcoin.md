@@ -3,14 +3,14 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-02-14T07:10:57.834279+00:00'
+updated: '2026-02-14T07:54:35.983210+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- social
-- cryptocurrency
 - news
+- cryptocurrency
+- social
 - videos
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** February 14, 2026 at 07:10 UTC  
+**Last Updated:** February 14, 2026 at 07:54 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -79,7 +79,7 @@ Rank #1
 
 **[2025 vs 2026](https://www.reddit.com/r/Bitcoin/comments/1r40elq/2025_vs_2026/)**
 
-10h ago
+11h ago
 
 ---
 
@@ -87,7 +87,7 @@ Rank #1
 
 I had a drug addiction for a long time costing me ~$200 per week and for several years I was buying bitcoin to buy those drugs on the dark web. If only I had just kept that BTC in my wallet rather than using it on the fleeting ghost chase. I would be rich instead of broke now. I hopefully learnt my lesson.
 
-1h ago
+2h ago
 
 ---
 
@@ -95,7 +95,7 @@ I had a drug addiction for a long time costing me ~$200 per week and for several
 
 hoping to atleast get to 0.25 during this dip. I dont believe we are in a crypto winter yet.
 
-5h ago
+6h ago
 
 ---
 
@@ -103,7 +103,7 @@ hoping to atleast get to 0.25 during this dip. I dont believe we are in a crypto
 
 Had to drop nearly 10k in medical bills... sure enough BTC tanks and as soon as I think im fine to buy a couple hundred... BOOM it either sky rockets or another random medical bill pops up worth a couple hundred and then BTC tanks... So I guess your welcome? And I'm sorry.
 
-11h ago
+12h ago
 
 ---
 
@@ -117,7 +117,7 @@ Had to drop nearly 10k in medical bills... sure enough BTC tanks and as soon as 
 
 like we was just vibing near 100k, everybody loud, posting rockets, acting rich in theory then boom 90 80 70 just casually opening doors like “you forgot something down here” bro who asked for this my portfolio looking at me like I did something wrong and there’s always that one guy “it’s a healthy correction” healthy?? I’m stressed eating cereal at 2am watching candles bleed bitcoin don’t even walk downstairs it just throws itself down still not selling tho but damn can we chill for five minutes
 
-21h ago
+22h ago
 
 ---
 
@@ -125,7 +125,7 @@ like we was just vibing near 100k, everybody loud, posting rockets, acting rich 
 
 Its going up, fast. Bitcoin is volatile - that works both ways. Once bear sentiment wears off, the price isn’t going to chop sideways forever; a couple green days & FOMO kicks in - volatility suddenly works in its favor. Always happened always will happen. Bitcoin is a perfect model of investor psychology, fear then FOMO fear then FOMO.
 
-4h ago
+5h ago
 
 ---
 
@@ -133,7 +133,7 @@ Its going up, fast. Bitcoin is volatile - that works both ways. Once bear sentim
 
 Like minnows in the ocean, or more like… plankton Motivating seeing everyone’s big buys and sometimes hard to see what everyone else is moving and sticking to putting in what won’t ruin me if I lose! Been DCAing since £57k and have bigger orders set at £45k,50,55 etc. maybe I’ll be a wholecoiner in 500 years! Hah
 
-21h ago
+22h ago
 
 ---
 
@@ -141,7 +141,7 @@ Like minnows in the ocean, or more like… plankton Motivating seeing everyone�
 
 https://preview.redd.it/d1dm5219wbjg1.png?width=1075&format=png&auto=webp&s=2c66949b20a213da42cac9639897d4aa1dabaefd buy bitcoin on February 13 for 69,000 - it's just a gift
 
-9h ago
+10h ago
 
 ---
 
@@ -181,7 +181,7 @@ NewsNation • 2d ago
 
 Bitcoin biopic 'Killing Satoshi' starring Pete Davidson plans to use all-AI locations and AI adjustments for  performances rather than reshoots.
 
-Variety • 14h ago
+Variety • 15h ago
 
 ---
 
@@ -189,7 +189,7 @@ Variety • 14h ago
 
 Bitcoin plummeted as low as $60,000 last week in its worst weekly decline in three years – baffling crypto bulls who long hailed the digital currency as a hedge against inflation.
 
-New York Post • 9h ago
+New York Post • 10h ago
 
 ---
 
@@ -197,7 +197,7 @@ New York Post • 9h ago
 
 The US president’s supporters dreamt of a day when the cryptocurrency would hit $300,000. Now the market is in disarray
 
-The Times • 15h ago
+The Times • 16h ago
 
 ---
 
@@ -211,7 +211,7 @@ Bitcoin Magazine • 1d ago
 
 **[Bitcoin’s plunge should end the hype that it is digital gold](https://thehill.com/opinion/finance/5735525-bitcoin-gold-performance-disparity/)**
 
-The Hill • 14h ago
+The Hill • 15h ago
 
 ---
 
@@ -349,7 +349,7 @@ Is the crash in bitcoin approaching capitulation and a major bottom in its price
 
 📺 Alessio Rastani
 
-👁️ 15K • 👍 2K • 💬 212 • ⏱️ 8:15 • 8h ago
+👁️ 15K • 👍 2K • 💬 212 • ⏱️ 8:15 • 9h ago
 
 ---
 
@@ -379,7 +379,7 @@ Scott Bessent did an interview on squawk box and was asked about the Clarity act
 
 📺 Simply Bitcoin
 
-👁️ 7K • 👍 381 • 💬 50 • ⏱️ 1:37:28 • 11h ago
+👁️ 7K • 👍 381 • 💬 50 • ⏱️ 1:37:28 • 12h ago
 
 ---
 
@@ -399,7 +399,7 @@ Are Bitcoin and Silver broken, or is the global market quietly preparing for a m
 
 📺 Financial Funda
 
-👁️ 629 • 👍 36 • ⏱️ 1:45 • 2h ago
+👁️ 629 • 👍 36 • ⏱️ 1:45 • 3h ago
 
 ---
 

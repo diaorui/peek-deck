@@ -3,14 +3,14 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-02-14T07:10:57.840296+00:00'
+updated: '2026-02-14T07:54:35.989114+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- social
-- cryptocurrency
 - news
+- cryptocurrency
+- social
 - videos
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** February 14, 2026 at 07:10 UTC  
+**Last Updated:** February 14, 2026 at 07:54 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -86,7 +86,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.
 
-🔗 [youtu.be](https://youtu.be/rxI6AyRSaxY) • 10h ago
+🔗 [youtu.be](https://youtu.be/rxI6AyRSaxY) • 11h ago
 
 ---
 
@@ -110,7 +110,7 @@ BlackRock BUIDL tradeable via UniswapX, ENS staying on mainnet, Solidity develop
 
 This is the second article in a series about deterministic deployments, where we explore the question: how can we deploy a contract at the same address in multiple chains? In the first part we discussed three possible answers: deploying with the same private key and nonce, using Nick’s method, and pre-signing transactions. In this entry we’ll discuss two other approaches: CREATE2 factories and CREATE3.
 
-🔗 [Cethology](https://paragraph.com/@cethology/deterministic-deployments-part-2-create2-based-approaches) • 22h ago
+🔗 [Cethology](https://paragraph.com/@cethology/deterministic-deployments-part-2-create2-based-approaches) • 23h ago
 
 ---
 
@@ -152,7 +152,7 @@ Vitalik Buterin proposes ZK API usage credits to make Ethereum the privacy-prese
 
 Truth Social Funds applied for ETFs that would give investors exposure to crypto—one focused on Bitcoin and Ethereum, the other on Cronos.
 
-Decrypt • 9h ago
+Decrypt • 10h ago
 
 ---
 
@@ -184,7 +184,7 @@ CoinDesk • 16h ago
 
 Blackrock’s Bitmine share holdings jumped 166% in the fourth-quarter of 2025.  CEO Larry Fink is bullish on tokenisation with the company citing Ethereum as the big winner.
 
-dlnews.com • 21h ago
+dlnews.com • 22h ago
 
 ---
 
@@ -206,13 +206,13 @@ TradingView • 1d ago
 
 DUBAI, United Arab Emirates, Feb.  13, 2026  (GLOBE NEWSWIRE) -- Pepeto (PEPETO), an Ethereum-based meme-utility project, has officially crossed $...
 
-markets.businessinsider.com • 19h ago
+markets.businessinsider.com • 20h ago
 
 ---
 
 **[3 reasons why Ethereum is surging today](https://www.msn.com/en-us/money/savingandinvesting/3-reasons-why-ethereum-is-surging-today/ar-AA1WjOaE?ocid=finance-verthp-feeds)**
 
-MSN • 6h ago
+MSN • 7h ago
 
 ---
 
@@ -244,7 +244,7 @@ Crypto and bitcoin crash is forcing liquidations. This just got worse and we are
 
 📺 Thomas Kralow
 
-👁️ 24K • 👍 3K • 💬 75 • ⏱️ 10:34 • 19h ago
+👁️ 24K • 👍 3K • 💬 75 • ⏱️ 10:34 • 20h ago
 
 ---
 
@@ -254,7 +254,7 @@ BITCOIN & CRYPTO MARKET JUST FLIPPED (for now)!!! - Bitcoin News Today, Ethereum
 
 📺 Crypto World
 
-👁️ 8K • 👍 299 • 💬 77 • ⏱️ 17:20 • 11h ago
+👁️ 8K • 👍 299 • 💬 77 • ⏱️ 17:20 • 12h ago
 
 ---
 
@@ -274,7 +274,7 @@ This video provides a professional Elliott Wave and technical analysis of Ethere
 
 📺 More Crypto Online
 
-👁️ 3K • 👍 169 • 💬 18 • ⏱️ 3:30 • 15h ago
+👁️ 3K • 👍 169 • 💬 18 • ⏱️ 3:30 • 16h ago
 
 ---
 
