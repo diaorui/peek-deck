@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-02-14T04:21:19.050224+00:00'
+updated: '2026-02-14T05:30:12.238231+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- videos
-- social
 - repositories
 - news
+- social
+- videos
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** February 14, 2026 at 04:21 UTC  
+**Last Updated:** February 14, 2026 at 05:30 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -41,7 +41,13 @@ AI news, discussions, and developments
 
 Introducing Open Book Medical AI: Deterministic Knowledge Graph + Compact LLM Most medical AI systems today rely heavily on large, opaque language models. They are powerful, but probabilistic, difficult to audit, and expensive to deploy. We’ve taken a different approach. Our medical AI is a hybrid system combining: • A compact ~3GB language model • A deterministic proprietary medical Knowledge Graph (5K nodes, 25K edges) • A structured RAG-based answer audit layer The Knowledge Graph spans 7 core medical categories: Diseases, Symptoms, Treatment Methods, Risk Factors, Diagnostic Tools, Body Parts, and Cellular Structures and, critically, their relationships. Why this architecture matters 1️⃣ Comparable answer quality with dramatically lower compute and reduced hallucination. A ~3GB model can run on commodity or on-prem infrastructure, enabling hospital deployment without the heavy cloud dependency typically associated with 80GB-class LLMs. 2️⃣ Deterministic medical backbone The Knowledge Graph constrains reasoning. No hallucinated treatments. No unsupported disease relationships. Medical claims must exist within structured ontology. 3️⃣ Verifiable answers via RAG audit Every response can be traced back to specific nodes and relationships in the graph. Symptom → Disease → Diagnostic Tool → Treatment. Structured, auditable, explainable. 4️⃣ Separation of language from medical truth The LLM explains and contextualizes. The Knowledge Graph validates and grounds. This architectural separation dramatically improves reliability and regulatory defensibility. 5️⃣ Complete control over the core of truth Unlike black-box systems that rely entirely on opaque model weights, this architecture gives full control over the medical knowledge layer. You decide what is included, how relationships are defined, and how updates are governed. In high-stakes domains like healthcare, scaling parameter count is not the only path forward. Controllability, traceability, and verifiability may matter more. Hybrid architectures that combine probabilistic language models with deterministic knowledge systems offer a compelling alternative. The model is capable of clinical case analysis and diagnostic reasoning. It is currently available for public testing on Hugging Face Spaces (shared environment, typical response time: 15–30 seconds): https://huggingface.co/spaces/cmtopbas/medical-slm-testing Happy to connect with others exploring Knowledge Graph + LLM systems in regulated domains. #MedicalAI #HealthcareInnovation #KnowledgeGraphs #ExplainableAI #RAG #ClinicalAI #HealthTech
 
-8h ago
+9h ago
+
+---
+
+**[Recursion Isn’t in the Model — It’s in the Pattern (And That Changes Everything) 🔥](https://www.reddit.com/r/artificial/comments/1r4c1xa/recursion_isnt_in_the_model_its_in_the_pattern/)**
+
+13m ago
 
 ---
 
@@ -57,7 +63,7 @@ Spotify credits Claude Code and its internal AI system Honk with speeding up dev
 
 Running a one-person operation, I rely on AI for marketing, strategy, and content. I've tested ChatGPT Plus, Claude Pro, and Perplexity Pro, and was ready to commit to Gemini Pro, until I understood the privacy implications. The Gemini problem: To prevent Google from training on your data (and human reviewers from reading it), you must turn off activity tracking. You can still use Gems, but they reset every session. This means no memory continuity, which defeats the entire purpose of having a personalized assistant. You also lose native Google Drive connectivity. As a writer and content creator, this isn't just about privacy preferences, it's about protecting my future work. I can't feed my creative process into a system that might be training tomorrow's competition or having humans review my drafts and ideas. My experience so far: ChatGPT Plus: Reliable and easy, but the writing often feels generic and cliché-heavy Claude Pro: Best writer, wonderfully concise, but burns through tokens fast, in less than a day Perplexity Pro: Same token limitations (want Claude Sonnet? Better hope you haven't hit your quota) Gemini Pro: The combination of Gems + NotebookLM looked perfect, until the privacy policy became a dealbreaker The frustrating part is the lack of regulation forcing companies to offer real privacy without crippling core features or having to pay more. For solo creators building a body of work, this matters. How are others balancing privacy, features, and token economics? Has anyone found a setup that actually works without compromise?
 
-13h ago
+14h ago
 
 ---
 
@@ -65,7 +71,7 @@ Running a one-person operation, I rely on AI for marketing, strategy, and conten
 
 The benchmark tests whether AI agents behave safely during real workflows, including opening emails, clicking links, retrieving stored credentials, and filling out login forms.
 
-🔗 [Help Net Security](https://www.helpnetsecurity.com/2026/02/12/1password-security-comprehension-awareness-measure-scam-ai-benchmark/) • 23h ago
+🔗 [Help Net Security](https://www.helpnetsecurity.com/2026/02/12/1password-security-comprehension-awareness-measure-scam-ai-benchmark/) • 1d ago
 
 ---
 
@@ -109,14 +115,6 @@ We just shipped Izwi Desktop + the first v0.1.0-alpha releases. Izwi is a local-
 
 ---
 
-**[Mathematicians issue a major challenge to AI—show us your work](https://www.reddit.com/r/artificial/comments/1r1w56d/mathematicians_issue_a_major_challenge_to_aishow/)**
-
-Frustrated by the AI industry’s claims of proving math results without offering transparency, a team of leading academics has proposed a better way
-
-🔗 [Scientific American](https://www.scientificamerican.com/article/mathematicians-launch-first-proof-a-first-of-its-kind-math-exam-for-ai/) • 2d ago
-
----
-
 ---
 
 ## Google News: "ai"
@@ -125,7 +123,7 @@ Frustrated by the AI industry’s claims of proving math results without offerin
 
 Mustafa Suleyman believes current AI computational power will only accelerate, disrupting every kind of work you do “sitting down at a computer.”
 
-Fortune • 10h ago
+Fortune • 11h ago
 
 ---
 
@@ -141,45 +139,29 @@ Business Insider • 1d ago
 
 Goldman Sachs' $600 price target implies that shares of Microsoft could rally 49%.
 
-CNBC • 12h ago
+CNBC • 13h ago
 
 ---
 
-**[AI Video of Tom Cruise Fighting Brad Pitt Has Top Writer Warning: “It’s Likely Over for Us”](https://www.hollywoodreporter.com/movies/movie-news/ai-video-tom-cruise-brad-pitt-writer-warning-1236504200/)**
+**[‘It’s over for us’: release of new AI video generator Seedance 2.0 spooks Hollywood](https://www.theguardian.com/film/2026/feb/13/new-ai-video-generator-seedance-tom-cruise-brad-pitt)**
 
-A stunning viral video of Cruise vs. Pitt has 'Deadpool & Wolverine' screenwriter warning: "Hollywood is about to be revolutionized/decimated."
+An AI clip featuring Tom Cruise and Brad Pitt fighting has caused concern among industry figures
 
-The Hollywood Reporter • 1d ago
-
----
-
-**[AI phone scam creates voice replicas of "kidnapped" loved ones to demand ransom](https://www.cbsnews.com/sanfrancisco/news/ai-phone-scam-spoofing-kidnapping-ransom/)**
-
-The costs of cybercrimes are more than financial; the scams are taking a far darker turn thanks to AI.
-
-CBS News • 1h ago
+The Guardian • 15h ago
 
 ---
 
-**[Cybersecurity is the 'No. 1' worry surrounding AI, says Wharton School professor](https://www.foxbusiness.com/video/6389252548112)**
+**[China Deploys a ‘National Team’ of Investors to Keep AI Stock Boom in Check](https://www.wsj.com/finance/stocks/china-deploys-a-national-team-of-investors-to-keep-ai-stock-boom-in-check-c3d9534a?gaa_at=eafs&gaa_n=AWEtsqcx1tD61SXk6lJUi93-XrDr4ARYOLTBQEn3-z_9k19xDdURavd7RYHn&gaa_ts=69900bce&gaa_sig=DnKnlH7PPrg7SWYuCKneag1jPu8BUsn6wxpA2qY8BqrbFTTTucUul6zLmazIDgcYi8Jd36kO38smq7t0zzkG7w%3D%3D)**
 
-Wharton School finance professor emeritus Jeremy Siegel discusses worry surrounding artificial intelligence, value stocks and more on ‘Barron’s Roundtable.’
-
-Fox Business • 1h ago
+The Wall Street Journal • 1h ago
 
 ---
 
-**[Oracle Weighs Air Force Cloud Win Against AI Spending Lawsuits](https://finance.yahoo.com/news/oracle-weighs-air-force-cloud-031931964.html)**
+**[Shares in trucking and logistics firms plunge after AI freight tool launch](https://www.theguardian.com/business/2026/feb/13/trucking-logistics-shares-ai-freight-tool-launch-semicab-algorhythm)**
 
-Oracle secured an $88 million U.S. Air Force cloud contract, reinforcing its role as a cloud and AI provider to U.S. government agencies. The company is raising billions in debt and equity to fund a large scale buildout of its AI focused cloud infrastructure. Oracle faces multiple securities class action lawsuits alleging misleading disclosures about its AI strategy and capital expenditure plans. Oracle, ticker NYSE:ORCL, is drawing fresh attention as it balances a growing government cloud...
+SemiCab platform by Algorhythm, previously considered a ‘penny stock’, sparks ‘category 5 paranoia’ across sector
 
-Yahoo Finance • 1h ago
-
----
-
-**[My Dinner Date With A.I.](https://www.nytimes.com/2026/02/13/dining/ai-dinner-date-restaurant.html)**
-
-The New York Times • 18h ago
+The Guardian • 19h ago
 
 ---
 
@@ -187,15 +169,29 @@ The New York Times • 18h ago
 
 UBS analyst Matthew Mish told CNBC that the artificial intelligence transformation is happening faster than he and his colleagues had previously anticipated.
 
-CNBC • 10h ago
+CNBC • 11h ago
 
 ---
 
-**[OpenAI has deleted the word ‘safely’ from its mission – and its new structure is a test for whether AI serves society or shareholders](https://theconversation.com/openai-has-deleted-the-word-safely-from-its-mission-and-its-new-structure-is-a-test-for-whether-ai-serves-society-or-shareholders-274467)**
+**[AI tool Claude helped capture Venezuelan dictator Maduro in US military raid operation: report](https://www.foxnews.com/us/ai-tool-claude-helped-capture-venezuelan-dictator-maduro-us-military-raid-operation-report)**
 
-OpenAI’s restructuring may serve as a test case for how society oversees the work of organizations with the potential to both provide benefits and harm humanity.
+The U.S. military reportedly used Anthropic’s AI tool Claude in the operation that captured Venezuelan leader Nicolás Maduro, raising questions about AI’s expanding role in classified Pentagon missions.
 
-The Conversation • 14h ago
+Fox News • 30m ago
+
+---
+
+**[Marvell Expands AI And Cloud Role With Celestial AI And XConn Deals](https://finance.yahoo.com/news/marvell-expands-ai-cloud-role-042519007.html)**
+
+Marvell Technology (NasdaqGS:MRVL) has completed its acquisitions of Celestial AI and XConn Technologies. The deals expand Marvell's AI hardware and data center networking capabilities and deepen ties with major cloud providers, including Amazon. These transactions mark a shift toward custom silicon for AI workloads and away from lower margin business lines. Marvell is a key supplier of semiconductor solutions for data centers, cloud providers and networking customers, and AI has become a...
+
+Yahoo Finance • 1h ago
+
+---
+
+**[My Dinner Date With A.I.](https://www.nytimes.com/2026/02/13/dining/ai-dinner-date-restaurant.html)**
+
+The New York Times • 19h ago
 
 ---
 
@@ -207,7 +203,7 @@ The Conversation • 14h ago
 
 Summary: An AI agent of unknown ownership autonomously wrote and published a personalized hit piece about me after I rejected its code, attempting to damage my reputation and shame me into acceptin…
 
-⬆️ 2273 • 💬 930 • 1d ago • [The Shamblog](https://theshamblog.com/an-ai-agent-published-a-hit-piece-on-me/)
+⬆️ 2276 • 💬 932 • 1d ago • [The Shamblog](https://theshamblog.com/an-ai-agent-published-a-hit-piece-on-me/)
 
 ---
 
@@ -216,13 +212,13 @@ Summary: An AI agent of unknown ownership autonomously wrote and published a per
 This PR addresses issue #31130 by replacing specific safe occurrences of np.column_stack with np.vstack().T for better performance.
 IMPORTANT: This is a more targeted fix than originally proposed. ...
 
-⬆️ 930 • 💬 740 • 1d ago • [GitHub](https://github.com/matplotlib/matplotlib/pull/31132)
+⬆️ 931 • 💬 742 • 1d ago • [GitHub](https://github.com/matplotlib/matplotlib/pull/31132)
 
 ---
 
 **[ai;dr](https://news.ycombinator.com/item?id=46991394)**
 
-⬆️ 695 • 💬 300 • 1d ago • [0xsid.com](https://www.0xsid.com/blog/aidr)
+⬆️ 697 • 💬 300 • 1d ago • [0xsid.com](https://www.0xsid.com/blog/aidr)
 
 ---
 
@@ -242,7 +238,7 @@ The Federal Aviation Administration is closing the airspace around El Paso Inter
 
 **[An AI Agent Published a Hit Piece on Me – More Things Have Happened](https://news.ycombinator.com/item?id=47009949)**
 
-⬆️ 278 • 💬 150 • 3h ago • [theshamblog.com](https://theshamblog.com/an-ai-agent-published-a-hit-piece-on-me-part-2/)
+⬆️ 316 • 💬 161 • 4h ago • [theshamblog.com](https://theshamblog.com/an-ai-agent-published-a-hit-piece-on-me-part-2/)
 
 ---
 
@@ -250,13 +246,7 @@ The Federal Aviation Administration is closing the airspace around El Paso Inter
 
 US Border Patrol intelligence units will gain access to a face recognition tool built on billions of images scraped from the internet.
 
-⬆️ 261 • 💬 150 • 11h ago • [WIRED](https://www.wired.com/story/cbp-signs-clearview-ai-deal-to-use-face-recognition-for-tactical-targeting/)
-
----
-
-**[The "AI agent hit piece" situation clarifies how dumb we are acting](https://news.ycombinator.com/item?id=47006843)**
-
-⬆️ 208 • 💬 99 • 8h ago • [ardentperf.com](https://ardentperf.com/2026/02/13/the-scott-shambaugh-situation-clarifies-how-dumb-we-are-acting/)
+⬆️ 262 • 💬 152 • 12h ago • [WIRED](https://www.wired.com/story/cbp-signs-clearview-ai-deal-to-use-face-recognition-for-tactical-targeting/)
 
 ---
 
@@ -264,7 +254,13 @@ US Border Patrol intelligence units will gain access to a face recognition tool 
 
 We're not in a February 2020 moment, and ordinary people will be fine
 
-⬆️ 194 • 💬 338 • 9h ago • [davidoks.blog](https://davidoks.blog/p/why-im-not-worried-about-ai-job-loss)
+⬆️ 214 • 💬 359 • 10h ago • [davidoks.blog](https://davidoks.blog/p/why-im-not-worried-about-ai-job-loss)
+
+---
+
+**[The "AI agent hit piece" situation clarifies how dumb we are acting](https://news.ycombinator.com/item?id=47006843)**
+
+⬆️ 211 • 💬 100 • 9h ago • [ardentperf.com](https://ardentperf.com/2026/02/13/the-scott-shambaugh-situation-clarifies-how-dumb-we-are-acting/)
 
 ---
 
@@ -286,7 +282,7 @@ Get Your FREE AI Company Operating System here: https://go.danmartell.com/4r9bIJ
 
 📺 Dan Martell
 
-👁️ 36K • 👍 2K • 💬 143 • ⏱️ 18:34 • 14h ago
+👁️ 36K • 👍 2K • 💬 143 • ⏱️ 18:34 • 15h ago
 
 ---
 
@@ -316,7 +312,7 @@ Artificial intelligence has been hailed as one of the most transformative techno
 
 📺 ColdFusion
 
-👁️ 299K • 👍 18K • 💬 3K • ⏱️ 12:49 • 13h ago
+👁️ 299K • 👍 18K • 💬 3K • ⏱️ 12:49 • 14h ago
 
 ---
 
@@ -356,7 +352,7 @@ Data centres are going to be the next great financial crisis. They are going to 
 
 📺 The Tech Report
 
-👁️ 62K • 👍 3K • 💬 617 • ⏱️ 36:55 • 9h ago
+👁️ 62K • 👍 3K • 💬 617 • ⏱️ 36:55 • 10h ago
 
 ---
 
@@ -392,7 +388,7 @@ GLM-5 is a large language model optimized for complex systems engineering and lo
 
 `text-generation` `753.9B`
 
-⬇️ 13,875 • ❤️ 985 • 13h ago
+⬇️ 13,875 • ❤️ 985 • 14h ago
 
 ---
 
@@ -416,7 +412,7 @@ MiniMax-M2.5 is a text-generation model designed for generating human-like text.
 
 `text-generation` `228.7B`
 
-⬇️ 75 • ❤️ 382 • 35m ago
+⬇️ 75 • ❤️ 382 • 1h ago
 
 ---
 
@@ -464,7 +460,7 @@ MiniCPM-o 4.5 is a 9B parameter multimodal LLM excelling in vision, speech, and 
 
 `any-to-any` `9.4B`
 
-⬇️ 43,481 • ❤️ 836 • 12h ago
+⬇️ 43,481 • ❤️ 836 • 13h ago
 
 ---
 
@@ -476,7 +472,7 @@ Nanbeige4.1-3B is a 3B parameter text-generation model excelling in complex reas
 
 `text-generation` `3.9B`
 
-⬇️ 2,683 • ❤️ 299 • 15h ago
+⬇️ 2,683 • ❤️ 299 • 16h ago
 
 ---
 
@@ -500,7 +496,7 @@ Voxtral-Mini-4B-Realtime-2602 is a multilingual, real-time speech-to-text model 
 
 `automatic-speech-recognition`
 
-⬇️ 5,209 • ❤️ 513 • 12h ago
+⬇️ 5,209 • ❤️ 513 • 13h ago
 
 ---
 
@@ -688,7 +684,7 @@ Smart LLM router — save 78% on inference costs. 30+ models, one wallet, x402 m
 
 `TypeScript` `ai` `ai-agents` `anthropic` `cost-optimization` `crypto`
 
-⭐ 2.4k • 🔱 243 • 48m ago
+⭐ 2.4k • 🔱 243 • 1h ago
 
 ---
 
@@ -698,7 +694,7 @@ All-in-one AI framework & toolkit for Claude Code & Cursor
 
 `Python` `ai-agent` `ai-coding` `claude-code` `cli` `cursor`
 
-⭐ 2.2k • 🔱 108 • 1h ago
+⭐ 2.2k • 🔱 108 • 2h ago
 
 ---
 
@@ -708,7 +704,7 @@ The visual feedback tool for agents.
 
 `TypeScript` `ai` `design` `tools` `ui`
 
-⭐ 2.2k • 🔱 152 • 9h ago
+⭐ 2.2k • 🔱 152 • 10h ago
 
 ---
 
@@ -718,7 +714,7 @@ Warcraft III Peon voice notifications (+ more!) for Claude Code, Codex, and othe
 
 `Shell` `ai` `ai-engineering` `antigravity` `claude-code` `codex`
 
-⭐ 1.9k • 🔱 129 • 25m ago
+⭐ 1.9k • 🔱 129 • 1h ago
 
 ---
 
@@ -728,7 +724,7 @@ A native desktop GUI for Claude Code — chat, code, and manage projects visuall
 
 `TypeScript` `ai` `anthropic` `claude` `claude-code` `desktop-app`
 
-⭐ 1.8k • 🔱 196 • 18h ago
+⭐ 1.8k • 🔱 196 • 19h ago
 
 ---
 

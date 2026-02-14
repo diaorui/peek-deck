@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-02-14T04:21:19.065519+00:00'
+updated: '2026-02-14T05:30:12.255804+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- videos
-- social
 - news
+- social
+- videos
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** February 14, 2026 at 04:21 UTC  
+**Last Updated:** February 14, 2026 at 05:30 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -34,7 +34,7 @@ Robotics research and industry news
 
 **[My grandmother has seen a little too much Winter Olympics](https://www.reddit.com/r/robotics/comments/1r4316q/my_grandmother_has_seen_a_little_too_much_winter/)**
 
-6h ago
+7h ago
 
 ---
 
@@ -42,7 +42,7 @@ Robotics research and industry news
 
 I posted a video a couple of days ago on r/esp32 showing my Open-Source robot dance, and some people wanted to see it walk ... here you go ! Got a complete walking gate & added remote control :) Everything runs on the ESP32-S3 ! What do you think ?
 
-14h ago
+15h ago
 
 ---
 
@@ -50,7 +50,7 @@ I posted a video a couple of days ago on r/esp32 showing my Open-Source robot da
 
 2 and a half months later I did it. It balances fairly well, it can find its perfect balance angle. It can handle small pushes. Big pushes crash it. It’s not perfect. Do I consider this a success? What do you think, i had no previous experience in building robots, I just had money to make this and the desire to create it. Now I ran out of money lol. https://reddit.com/link/1r450hs/video/nm5840l8mcjg1/player
 
-4h ago
+5h ago
 
 ---
 
@@ -58,7 +58,7 @@ I posted a video a couple of days ago on r/esp32 showing my Open-Source robot da
 
 Hi everyone, I’ve been admitted to two master’s programs in Germany and would really appreciate experiences and insights from people who know these fields or universities. I’m currently deciding between: • M.Sc. Computer Science (Informatik) at University of Augsburg, with an interest in robotics/interaction systems • M.Sc. Computational Linguistics at University of Stuttgart, where I want to gain strong AI/NLP skills and be in a dense research environment My interests lie at the intersection of intelligent systems, human-machine interaction, embodied agents, and robotics, but I’m not strictly hardware-focused — I’m excited by the AI/interaction/design side of robotics rather than low-level control or embedded systems. I have three main doubts I want to clarify: 1) How strong and practically valuable is the Augsburg Informatik program’s robotics specialization? Is it high enough quality (curriculum, labs, projects, industry links) to prepare someone for actual robotics / intelligent systems work — both in industry and research? Are there real opportunities for projects, internships
 
-1h ago
+2h ago
 
 ---
 
@@ -66,19 +66,19 @@ Hi everyone, I’ve been admitted to two master’s programs in Germany and woul
 
 From hardware to software, I see every day tons of new startups, mostly around AI. I'm not sure if it's just me that my Twitter algorithm but like every day someone appears with all kinds of products. Lately i see an abundance of data collection, AI schematic or PCB creators, AI ros configurators, etc.... Are the tech bros got tired of AI SaaS saturation and getting into robotics hoping to get an edge?
 
-10h ago
+11h ago
 
 ---
 
 **[Servo-driven ball screw linear actuators for a real-time 6-DOF Stewart platform (cross-post from r/AskEngineers)](https://www.reddit.com/r/robotics/comments/1r472vj/servodriven_ball_screw_linear_actuators_for_a/)**
 
-3h ago
+4h ago
 
 ---
 
 **[Are you a ROS user curious about copper-rs & the rust ecosystem? we made a book for you!](https://www.reddit.com/r/robotics/comments/1r44sm7/are_you_a_ros_user_curious_about_copperrs_the/)**
 
-4h ago
+5h ago
 
 ---
 
@@ -86,7 +86,7 @@ From hardware to software, I see every day tons of new startups, mostly around A
 
 Has anyone done this? Basically, I need to put a real world lab (I have RGB-D data and maps) into Isaac Sim somehow to create a labeled point cloud dataset for point cloud segmentation. Is there an existing way to do this that can structure the environment and label objects in the simulation world for automatic data collection?
 
-6h ago
+7h ago
 
 ---
 
@@ -94,7 +94,7 @@ Has anyone done this? Basically, I need to put a real world lab (I have RGB-D da
 
 Howdy! I am a robotic engineer who has dived deep into DIY QDD actuators, creating custom servos, and making humanoids/quadriped robots. I wanted to know if anyone has done broad market research in the best actuators or servos on the market? As of now, I see two options Smaller form factor: Servos that can do 35kg of torque, STS3215 are in this category larger form factor: integrated QDD actuators or DIY drone motors such as eagle power 90kv + 9:1 gearbox, or the GIM6010/8108 motors that get about 5-15 nM of torque. Im thinking that there must be a good middle ground option for control and robotic arms/manipulators/linkages between a small 6010 GIM bldc setup and a STS3215, but i dont see many.
 
-9h ago
+11h ago
 
 ---
 
@@ -102,13 +102,21 @@ Howdy! I am a robotic engineer who has dived deep into DIY QDD actuators, creati
 
 Hi I have an FPV drone that i want to control using a Raspberry Pi. For this i want to connect the RPi to the Flight controller and use it as a companion computer. I am using a GEPRC TAKER F745 currently on a BetaFlight firmware. Any suggestions on how i can connect them or what firmware (Ardupilot/PX4) i can use with ROS2 on the RPi.
 
-11h ago
+13h ago
 
 ---
 
 ---
 
 ## Google News: "robotics"
+
+**[Is China Leading the Robotics Revolution?](https://chinapower.csis.org/china-industrial-robots/)**
+
+This ChinaPower feature examines China's push to lead the world in robotics and the geopolitical implications.
+
+ChinaPower Project • 1d ago
+
+---
 
 **[Get a grip: Robotics firms struggle to develop hands](https://www.bbc.com/news/articles/cg7y45kxvp9o)**
 
@@ -126,14 +134,6 @@ Automotive News • 1d ago
 
 ---
 
-**[People — and robots — in China are getting ready for grand Lunar New Year celebration](https://nypost.com/2026/02/13/world-news/people-and-robots-are-getting-ready-to-celebrate-the-lunar-new-year-in-china/)**
-
-For a second year in a row, one of the fairs will be devoted to technology and — yes, again — robots will take center stage.
-
-New York Post • 12h ago
-
----
-
 **[A call for a performance-driven approach for soft robotics research](https://www.nature.com/articles/s44182-026-00073-4)**
 
 npj Robotics - A call for a performance-driven approach for soft robotics research
@@ -142,35 +142,11 @@ Nature • 1d ago
 
 ---
 
-**[Is China Leading the Robotics Revolution?](https://chinapower.csis.org/china-industrial-robots/)**
+**[China has another solution to its shrinking population: robots](https://www.cnn.com/2026/02/13/china/china-population-robots-intl-hnk-dst)**
 
-This ChinaPower feature examines China's push to lead the world in robotics and the geopolitical implications.
+China’s birth rate has hit a historic low – deepening fears of a major economic shock in the decades to come as the country’s massive labor force dwindles and its population of pension-drawing retirees swells.
 
-ChinaPower Project • 1d ago
-
----
-
-**[Bedrock Robotics raises $270M in red-hot AI sector](https://www.constructiondive.com/news/bedrock-robotics-raise-ai-automation-funding/811982/)**
-
-The autonomous construction tech provider now boasts total funding of over $350 million and a valuation of $1.75 billion.
-
-Construction Dive • 2d ago
-
----
-
-**[Humanoid robots are getting smaller, safer and closer](https://www.foxnews.com/tech/humanoid-robots-getting-smaller-safer-closer)**
-
-Fauna Robotics is launching Sprout as a developer platform for humanoid robots. The robot features 29 degrees of freedom and NVIDIA compute power.
-
-Fox News • 3d ago
-
----
-
-**[Upside Robotics is reducing fertilizer use and waste in corn crops](https://techcrunch.com/2026/02/11/upside-robotics-is-reducing-fertilizer-use-and-waste-in-corn-crops/)**
-
-Upside Robotics builds autonomous solar-powered robots that can help farmers reduce their fertilizer use by 70%.
-
-TechCrunch • 2d ago
+CNN • 1h ago
 
 ---
 
@@ -180,11 +156,35 @@ Forbes • 1d ago
 
 ---
 
-**[Symbotic acquires autonomous forklift maker Fox Robotics](https://www.therobotreport.com/symbotic-acquires-autonomous-forklift-maker-fox-robotics/)**
+**[Robots with human-inspired eyes have better vision](https://www.economist.com/science-and-technology/2026/02/11/robots-with-human-inspired-eyes-have-better-vision)**
 
-Symbotic has acquired autonomous forklift developer Fox Robotics in a move that broadens its logistics robotics offerings.
+Their reaction times can even surpass their makers’
 
-The Robot Report • 3d ago
+The Economist • 2d ago
+
+---
+
+**[IDF's new mechanical AI robot cleans tanks without soldiers](https://www.jpost.com/israel-news/defense-news/article-886585)**
+
+The robot operates autonomously, without soldiers present in dangerous environments and without exposure to chemicals, oils, or extreme heat.
+
+The Jerusalem Post • 7h ago
+
+---
+
+**[Tesla is still a 'long way off' from functional humanoid robots](https://finance.yahoo.com/video/tesla-still-long-way-off-223500625.html)**
+
+Elon Musk has a tremendous vision for robotics and the mass adoption of this kind of technology. Gerber Kawasaki Wealth & Investment Management CEO Ross Gerber sits down with Josh Lipton to talk more about the Tesla (TSLA) and SpaceX (SPAX.PVT) CEO's plans for his Optimus humanoid robots and how the broader tech industry is reacting. To watch more expert insights and analysis on the latest market action, check out more&nbsp;Asking for a Trend.
+
+Yahoo Finance • 6h ago
+
+---
+
+**[GE Aerospace uses robots to fix jet engine blades, reduce repair delay](https://interestingengineering.com/ai-robotics/ge-aerospace-robots-jet-engine-repair)**
+
+GE Aerospace is teaching robots to repair jet engine blades as global maintenance backlogs stretch into months.
+
+Interesting Engineering • 21h ago
 
 ---
 
@@ -208,7 +208,7 @@ Foundation Future Industries CEO Sankaet Pathak discusses the rise of humanoid r
 
 📺 Fox Business Clips
 
-👁️ 151K • 👍 4K • 💬 2K • ⏱️ 9:47 • 13h ago
+👁️ 151K • 👍 4K • 💬 2K • ⏱️ 9:47 • 14h ago
 
 ---
 
@@ -226,7 +226,7 @@ Can a little Pi-powered bot teach my kids? The Reachy Mini Wireless I used was p
 
 📺 Jeff Geerling
 
-👁️ 48K • 👍 3K • 💬 207 • ⏱️ 12:38 • 13h ago
+👁️ 48K • 👍 3K • 💬 207 • ⏱️ 12:38 • 14h ago
 
 ---
 
@@ -286,7 +286,7 @@ Humanoid robots are pushing physical limits — with real-time balance control, 
 
 📺 Facts TV 91
 
-👁️ 12K • 👍 105 • 💬 9 • ⏱️ 0:06 • 2h ago
+👁️ 12K • 👍 105 • 💬 9 • ⏱️ 0:06 • 3h ago
 
 ---
 
