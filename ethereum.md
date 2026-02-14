@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-02-14T02:07:00.950913+00:00'
+updated: '2026-02-14T04:21:19.062809+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- news
 - videos
-- cryptocurrency
 - social
+- news
+- cryptocurrency
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** February 14, 2026 at 02:07 UTC  
+**Last Updated:** February 14, 2026 at 04:21 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,8 +42,8 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** +5.3%  
-**7d:** -1.6%  
+**24h:** +6.1%  
+**7d:** -1.7%  
 **30d:** -37.7%  
 **90d:** -32.2%  
 **1y:** -23.7%  
@@ -52,7 +52,7 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Market Stats
 
-**Market Cap:** $247.72B
+**Market Cap:** $247.70B
 Rank #2
 
 **Circulating Supply:** 120,692,468 ETH
@@ -62,7 +62,7 @@ No max supply
 -58.5%
 
 **All-Time Low:** $0.43
-+474010.8%
++474269.4%
 
 ---
 
@@ -70,7 +70,7 @@ No max supply
 
 **[Tomasz stepping down from co-ED role at the EF at the end of February 2026 | Ethereum Foundation Blog](https://www.reddit.com/r/ethereum/comments/1r3zdo5/tomasz_stepping_down_from_coed_role_at_the_ef_at/)**
 
-🔗 [Ethereum Foundation Blog](https://blog.ethereum.org/2026/02/13/tomasz-update) • 6h ago
+🔗 [Ethereum Foundation Blog](https://blog.ethereum.org/2026/02/13/tomasz-update) • 8h ago
 
 ---
 
@@ -78,7 +78,7 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-20h ago
+22h ago
 
 ---
 
@@ -86,7 +86,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.
 
-🔗 [youtu.be](https://youtu.be/rxI6AyRSaxY) • 5h ago
+🔗 [youtu.be](https://youtu.be/rxI6AyRSaxY) • 8h ago
 
 ---
 
@@ -94,7 +94,7 @@ Enjoy the videos and music you love, upload original content, and share it all w
 
 BlackRock BUIDL tradeable via UniswapX, ENS staying on mainnet, Solidity developer survey
 
-🔗 [Ethereal news](https://ethereal.news/ethereal-news-weekly-11/) • 13h ago
+🔗 [Ethereal news](https://ethereal.news/ethereal-news-weekly-11/) • 15h ago
 
 ---
 
@@ -102,7 +102,7 @@ BlackRock BUIDL tradeable via UniswapX, ENS staying on mainnet, Solidity develop
 
 This is the second article in a series about deterministic deployments, where we explore the question: how can we deploy a contract at the same address in multiple chains? In the first part we discussed three possible answers: deploying with the same private key and nonce, using Nick’s method, and pre-signing transactions. In this entry we’ll discuss two other approaches: CREATE2 factories and CREATE3.
 
-🔗 [Cethology](https://paragraph.com/@cethology/deterministic-deployments-part-2-create2-based-approaches) • 17h ago
+🔗 [Cethology](https://paragraph.com/@cethology/deterministic-deployments-part-2-create2-based-approaches) • 19h ago
 
 ---
 
@@ -110,7 +110,7 @@ This is the second article in a series about deterministic deployments, where we
 
 ACDE #230 saw Ethereum core developers focus on Glamsterdam Devnet performance, eth/70 networking safeguards, and a narrowing Hegotá headliner race led by encrypted mempool proposals.
 
-🔗 [EtherWorld.co](https://etherworld.co/highlights-from-the-all-core-developers-execution-acde-call-230/) • 22h ago
+🔗 [EtherWorld.co](https://etherworld.co/highlights-from-the-all-core-developers-execution-acde-call-230/) • 1d ago
 
 ---
 
@@ -152,23 +152,37 @@ Responding to https://firefly.social/post/x/2021632354649821275 My first reactio
 
 Truth Social Funds applied for ETFs that would give investors exposure to crypto—one focused on Bitcoin and Ethereum, the other on Cronos.
 
-Decrypt • 4h ago
+Decrypt • 6h ago
 
 ---
 
-**[US Investors Might Be Leaving Bitcoin and Ethereum ETFs for International Markets](https://finance.yahoo.com/news/us-investors-might-leaving-bitcoin-223604887.html)**
+**[An update from Tomasz](https://blog.ethereum.org/2026/02/13/tomasz-update)**
 
-Bitcoin and Ethereum ETFs face sustained outflows as investors rotate into international equities and higher-yield assets.
-
-Yahoo Finance • 3h ago
+Ethereum Foundation Blog • 13h ago
 
 ---
 
-**[Ethereum ETF holders still “diamond-handing” despite hurting more than their bitcoin counterparts](https://sherwood.news/crypto/ethereum-etf-holders-still-diamond-handing-despite-hurting-more-than-their/)**
+**[Coinbase Only 22% To Beat Its Earnings As Bitcoin, Ethereum, XRP Drag Down COIN](https://finance.yahoo.com/news/coinbase-only-22-beat-earnings-013112399.html)**
 
-While ethereum ETF investors are down 45% from their average cost basis, the majority are still holding....
+Polymarket traders are giving Coinbase Global, Inc. (NASDAQ:COIN) just a 22% chance of beating Wall Street estimates ahead of its fourth-quarter earnings report today. The Polymarket contract tracking whether COIN will exceed the Street consensus of $0.61 in GAAP EPS...
 
-Sherwood News • 2d ago
+Yahoo Finance • 2h ago
+
+---
+
+**[Ethereum Foundation leadership shake-up: Tomasz Stańczak out as co-executive director](https://www.coindesk.com/tech/2026/02/13/ethereum-foundation-leadership-shake-up-tomasz-stanczak-out-as-co-executive-director)**
+
+Stańczak’s was brought aboard in 2025 following the transition of long-time executive director Aya Miyaguchi amid mounting community criticism that the foundation wasn’t doing enough to aggressively push the Ethereum ecosystem forward.
+
+CoinDesk • 13h ago
+
+---
+
+**[BlackRock buys up Bitmine shares as Ethereum threatens to fall to $1,400 price](https://www.dlnews.com/articles/markets/blackrock-buys-up-bitmine-shares-as-ethereum-may-hit-1400/)**
+
+Blackrock’s Bitmine share holdings jumped 166% in the fourth-quarter of 2025.  CEO Larry Fink is bullish on tokenisation with the company citing Ethereum as the big winner.
+
+dlnews.com • 18h ago
 
 ---
 
@@ -180,27 +194,9 @@ The Block • 1d ago
 
 ---
 
-**[Coinbase Only 22% To Beat Its Earnings As Bitcoin, Ethereum, XRP Drag Down COIN](https://finance.yahoo.com/news/coinbase-only-22-beat-earnings-013112399.html)**
+**[Ethereum Price Braces for Impact as Standard Chartered Predicts a $1,400 Bottom](https://www.tipranks.com/news/ethereum-price-braces-for-impact-as-standard-chartered-predicts-a-1400-bottom)**
 
-Polymarket traders are giving Coinbase Global, Inc. (NASDAQ:COIN) just a 22% chance of beating Wall Street estimates ahead of its fourth-quarter earnings report today. The Polymarket contract tracking whether COIN will exceed the Street consensus of $0.61 in GAAP EPS...
-
-Yahoo Finance • 36m ago
-
----
-
-**[Ethereum Foundation leadership shake-up: Tomasz Stańczak out as co-executive director](https://www.coindesk.com/tech/2026/02/13/ethereum-foundation-leadership-shake-up-tomasz-stanczak-out-as-co-executive-director)**
-
-Stańczak’s was brought aboard in 2025 following the transition of long-time executive director Aya Miyaguchi amid mounting community criticism that the foundation wasn’t doing enough to aggressively push the Ethereum ecosystem forward.
-
-CoinDesk • 10h ago
-
----
-
-**[BlackRock buys up Bitmine shares as Ethereum threatens to fall to $1,400 price](https://www.dlnews.com/articles/markets/blackrock-buys-up-bitmine-shares-as-ethereum-may-hit-1400/)**
-
-Blackrock’s Bitmine share holdings jumped 166% in the fourth-quarter of 2025.  CEO Larry Fink is bullish on tokenisation with the company citing Ethereum as the big winner.
-
-dlnews.com • 16h ago
+TipRanks • 13h ago
 
 ---
 
@@ -208,7 +204,7 @@ dlnews.com • 16h ago
 
 The world's second-largest cryptocurrency is up more than 7% today.
 
-The Motley Fool • 4h ago
+The Motley Fool • 6h ago
 
 ---
 
@@ -220,9 +216,11 @@ TradingView • 1d ago
 
 ---
 
-**[Ethereum Price Braces for Impact as Standard Chartered Predicts a $1,400 Bottom](https://www.tipranks.com/news/ethereum-price-braces-for-impact-as-standard-chartered-predicts-a-1400-bottom)**
+**[Ethereum Based Meme Coin Pepeto Announces $7M+ Presale Milestone Ahead of Binance Listing as Bitcoin Volatility Persists](https://markets.businessinsider.com/news/stocks/ethereum-based-meme-coin-pepeto-announces-7m-presale-milestone-ahead-of-binance-listing-as-bitcoin-volatility-persists-1035825465)**
 
-TipRanks • 11h ago
+DUBAI, United Arab Emirates, Feb.  13, 2026  (GLOBE NEWSWIRE) -- Pepeto (PEPETO), an Ethereum-based meme-utility project, has officially crossed $...
+
+markets.businessinsider.com • 16h ago
 
 ---
 
@@ -236,7 +234,7 @@ Crypto and bitcoin crash is forcing liquidations. This just got worse and we are
 
 📺 Thomas Kralow
 
-👁️ 23K • 👍 3K • 💬 91 • ⏱️ 10:34 • 14h ago
+👁️ 24K • 👍 3K • 💬 83 • ⏱️ 10:34 • 16h ago
 
 ---
 
@@ -246,17 +244,17 @@ BITCOIN & CRYPTO MARKET JUST FLIPPED (for now)!!! - Bitcoin News Today, Ethereum
 
 📺 Crypto World
 
-👁️ 5K • 👍 252 • 💬 75 • ⏱️ 17:20 • 6h ago
+👁️ 6K • 👍 279 • 💬 107 • ⏱️ 17:20 • 9h ago
 
 ---
 
-**[Ethereum Elliott Wave Update – Key Resistance Levels Ahead](https://www.youtube.com/watch?v=LQdnb0_Td3g)**
+**[Ethereum Elliott Wave Update – Key Resistance Levels Ahead](https://www.youtube.com/watch?v=iUlRBXKO1u4)**
 
 This video provides a professional Elliott Wave and technical analysis of Ethereum (ETH), focusing on market structure, major ...
 
 📺 More Crypto Online
 
-👁️ 2K • 👍 165 • 💬 18 • ⏱️ 3:30 • 10h ago
+👁️ 357 • 👍 49 • 💬 3 • ⏱️ 4:31 • 1h ago
 
 ---
 
@@ -266,7 +264,27 @@ Watch The FULL Interview: "Explosive Crypto Price Prediction for 2026..." FREE D
 
 📺 Library Of Wealth
 
-👁️ 8K • 👍 308 • 💬 342 • ⏱️ 14:31 • 21h ago
+👁️ 9K • 👍 336 • 💬 345 • ⏱️ 14:31 • 23h ago
+
+---
+
+**[Ethereum Elliott Wave Update – Key Resistance Levels Ahead](https://www.youtube.com/watch?v=LQdnb0_Td3g)**
+
+This video provides a professional Elliott Wave and technical analysis of Ethereum (ETH), focusing on market structure, major ...
+
+📺 More Crypto Online
+
+👁️ 3K • 👍 169 • 💬 18 • ⏱️ 3:30 • 12h ago
+
+---
+
+**[Tom Lee at Consensus Hong Kong 2026 | Ethereum to $22,000? Bitcoin vs Gold &amp; Bitmine Outlook](https://www.youtube.com/watch?v=B9d4S0PnoJk)**
+
+Tom Lee, Co-Founder of Fundstrat and Chairman of Bitmine Immersion (NYSE: BMNR), shares his bold outlook on Bitcoin, ...
+
+📺 The Crypto Times
+
+👁️ 20K • 👍 470 • 💬 106 • ⏱️ 15:00 • 2d ago
 
 ---
 
@@ -286,27 +304,7 @@ Get $450 Off Our New AI Indicators: https://tradeconfidentportal.io/indicators/.
 
 📺 Trade Confident
 
-👁️ 198 • 👍 11 • 💬 2 • ⏱️ 6:02 • 6h ago
-
----
-
-**[Tom Lee at Consensus Hong Kong 2026 | Ethereum to $22,000? Bitcoin vs Gold &amp; Bitmine Outlook](https://www.youtube.com/watch?v=B9d4S0PnoJk)**
-
-Tom Lee, Co-Founder of Fundstrat and Chairman of Bitmine Immersion (NYSE: BMNR), shares his bold outlook on Bitcoin, ...
-
-📺 The Crypto Times
-
-👁️ 20K • 👍 467 • 💬 104 • ⏱️ 15:00 • 2d ago
-
----
-
-**[Crypto To Explode! - Don&#39;t Miss THIS!](https://www.youtube.com/watch?v=dtSyFiN4ctc)**
-
-This is all about why Bitcoin and crypto is set to explode! Do not miss the big picture. Big news for all Bitcoin, Ethereum, Solana ...
-
-📺 Investing Made Simple
-
-👁️ 22K • 👍 1K • ⏱️ 8:58 • 1d ago
+👁️ 224 • 👍 12 • 💬 3 • ⏱️ 6:02 • 8h ago
 
 ---
 
@@ -320,13 +318,13 @@ BITCOIN & ALTCOIN WARNING: It's Happening AGAIN!!!! - Bitcoin News Today, Ethere
 
 ---
 
-**[Ethereum Elliott Wave Update – Key Resistance Levels Ahead](https://www.youtube.com/watch?v=NNPE3_yn58k)**
+**[Ethereum Elliott Wave Update – Key Resistance Levels Ahead](https://www.youtube.com/watch?v=5PqmqRegidY)**
 
 This video provides a professional Elliott Wave and technical analysis of Ethereum (ETH), focusing on market structure, major ...
 
 📺 More Crypto Online
 
-👁️ 2K • 👍 126 • 💬 5 • ⏱️ 4:01 • 22h ago
+👁️ 3K • 👍 185 • 💬 4 • ⏱️ 6:51 • 1d ago
 
 ---
 

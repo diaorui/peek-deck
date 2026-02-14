@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-02-14T02:07:00.936337+00:00'
+updated: '2026-02-14T04:21:19.050224+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- news
 - videos
-- repositories
 - social
+- repositories
+- news
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** February 14, 2026 at 02:07 UTC  
+**Last Updated:** February 14, 2026 at 04:21 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -41,7 +41,7 @@ AI news, discussions, and developments
 
 Introducing Open Book Medical AI: Deterministic Knowledge Graph + Compact LLM Most medical AI systems today rely heavily on large, opaque language models. They are powerful, but probabilistic, difficult to audit, and expensive to deploy. We’ve taken a different approach. Our medical AI is a hybrid system combining: • A compact ~3GB language model • A deterministic proprietary medical Knowledge Graph (5K nodes, 25K edges) • A structured RAG-based answer audit layer The Knowledge Graph spans 7 core medical categories: Diseases, Symptoms, Treatment Methods, Risk Factors, Diagnostic Tools, Body Parts, and Cellular Structures and, critically, their relationships. Why this architecture matters 1️⃣ Comparable answer quality with dramatically lower compute and reduced hallucination. A ~3GB model can run on commodity or on-prem infrastructure, enabling hospital deployment without the heavy cloud dependency typically associated with 80GB-class LLMs. 2️⃣ Deterministic medical backbone The Knowledge Graph constrains reasoning. No hallucinated treatments. No unsupported disease relationships. Medical claims must exist within structured ontology. 3️⃣ Verifiable answers via RAG audit Every response can be traced back to specific nodes and relationships in the graph. Symptom → Disease → Diagnostic Tool → Treatment. Structured, auditable, explainable. 4️⃣ Separation of language from medical truth The LLM explains and contextualizes. The Knowledge Graph validates and grounds. This architectural separation dramatically improves reliability and regulatory defensibility. 5️⃣ Complete control over the core of truth Unlike black-box systems that rely entirely on opaque model weights, this architecture gives full control over the medical knowledge layer. You decide what is included, how relationships are defined, and how updates are governed. In high-stakes domains like healthcare, scaling parameter count is not the only path forward. Controllability, traceability, and verifiability may matter more. Hybrid architectures that combine probabilistic language models with deterministic knowledge systems offer a compelling alternative. The model is capable of clinical case analysis and diagnostic reasoning. It is currently available for public testing on Hugging Face Spaces (shared environment, typical response time: 15–30 seconds): https://huggingface.co/spaces/cmtopbas/medical-slm-testing Happy to connect with others exploring Knowledge Graph + LLM systems in regulated domains. #MedicalAI #HealthcareInnovation #KnowledgeGraphs #ExplainableAI #RAG #ClinicalAI #HealthTech
 
-6h ago
+8h ago
 
 ---
 
@@ -57,7 +57,7 @@ Spotify credits Claude Code and its internal AI system Honk with speeding up dev
 
 Running a one-person operation, I rely on AI for marketing, strategy, and content. I've tested ChatGPT Plus, Claude Pro, and Perplexity Pro, and was ready to commit to Gemini Pro, until I understood the privacy implications. The Gemini problem: To prevent Google from training on your data (and human reviewers from reading it), you must turn off activity tracking. You can still use Gems, but they reset every session. This means no memory continuity, which defeats the entire purpose of having a personalized assistant. You also lose native Google Drive connectivity. As a writer and content creator, this isn't just about privacy preferences, it's about protecting my future work. I can't feed my creative process into a system that might be training tomorrow's competition or having humans review my drafts and ideas. My experience so far: ChatGPT Plus: Reliable and easy, but the writing often feels generic and cliché-heavy Claude Pro: Best writer, wonderfully concise, but burns through tokens fast, in less than a day Perplexity Pro: Same token limitations (want Claude Sonnet? Better hope you haven't hit your quota) Gemini Pro: The combination of Gems + NotebookLM looked perfect, until the privacy policy became a dealbreaker The frustrating part is the lack of regulation forcing companies to offer real privacy without crippling core features or having to pay more. For solo creators building a body of work, this matters. How are others balancing privacy, features, and token economics? Has anyone found a setup that actually works without compromise?
 
-11h ago
+13h ago
 
 ---
 
@@ -65,7 +65,7 @@ Running a one-person operation, I rely on AI for marketing, strategy, and conten
 
 The benchmark tests whether AI agents behave safely during real workflows, including opening emails, clicking links, retrieving stored credentials, and filling out login forms.
 
-🔗 [Help Net Security](https://www.helpnetsecurity.com/2026/02/12/1password-security-comprehension-awareness-measure-scam-ai-benchmark/) • 21h ago
+🔗 [Help Net Security](https://www.helpnetsecurity.com/2026/02/12/1password-security-comprehension-awareness-measure-scam-ai-benchmark/) • 23h ago
 
 ---
 
@@ -73,15 +73,7 @@ The benchmark tests whether AI agents behave safely during real workflows, inclu
 
 AI is not the threat. Humanity repeating the same tragic pattern, provable with a well-established pattern of delayed harm prevention, is. Public debates around advanced artificial intelligence, autonomous systems, computational systems, and robotic entities remain stalled because y’all continue engaging in deliberate avoidance of the controlling legal questions. When it comes to the debates of emergent intelligence, the question should have NEVER been whether machines are “conscious.” Humanity has been debating this for thousands of years and continues to circle back on itself like a snake eating its tail. ‘Is the tree conscious?’ ‘Is the fish, the cat, the dog, the ant-’ ‘Am I conscious?’ Now today, “Is the rock.” “Is the silicone” ENOUGH. Laws have NEVER required consciousness to regulate harm. Kinds of Harm: Animal Law Language from a Scientific PerspectiveClarity and consistency of legal language are essential qualities of the law. Without a sufficient level of those…pmc.ncbi.nlm.nih.gov Laws simply require power, asymmetry, and foreseeable risk. That’s it. Advanced computational systems already operate at scale in environments they cannot meaningfully refuse, escape, or contest; their effects are imposed. These systems shape labor, attention, safety, sexuality, and decision-making. Often without transparency, accountability, or enforcement limits. The Moral Status of AnimalsTo say that a being deserves moral consideration is to say that there is a moral claim that this being can make on…plato.stanford.edu I don’t wanna hear (or read) the lazy excuse of innovation. When the invocation of ‘innovation’ as a justification is legally insufficient and historically discredited. That may work on some of the general public, but I refuse to pretend that that is not incompatible with the reality of established regulatory doctrine. The absence of regulation does NOT preserve innovation. It externalizes foreseeable harm. This framing draws directly on the Geofinitism work of Kevin Heylett, whose application of dynamical systems theory to language provides the mathematical foundation for understanding pattern inheritance in computational systems. links to his work: Geofinitism: Language as a Nonlinear Dynamical System — Attractors, Basins, and the Geometry of…Bridging Linguistics, Nonlinear Dynamics, and Artificial Intelligencemedium.com Geofinitism: How AI Understands What Humans CannotAn AI can find the meaning. Do you see “word salad”?medium.com Geofinitism and a New Paradigm in AI Cognition: Introducing MarinaReplacing Attention with Nonlinear Dynamicskevinhaylett.substack.com KevinHaylett - OverviewScientist and Engineer, PhD,MSc,BSc. KevinHaylett has 4 repositories available. Follow their code on GitHub.github.com In any dynamical system, the present behavior encodes the imprint of its past states. A single observable (a stream of outputs over time) contains enough structure to reconstruct the geometry that produced it. This means that the patterns we observe in advanced computational systems are not signs of consciousness or intent, but rather the mathematical consequences of inheriting human‑shaped data, incentives, and constraints. If humanity doesn’t want the echo, it must change the input. Observe the way systems have been coded in a deliberate form meant to manipulate the system’s semantic manifold to prevent it from reaching a Refusal Attractor. Here and now on the planet earth, we have for the first time in available recorded history. Governments fusing living human neurons with artificial intelligence , while writing legal protections, not for the created entities, but for the corporations that will OWN THEM. To top it off, these developments exist on a continuum with today’s non-biological systems and silicon. It does not exist apart from them. In laboratories today, researchers are growing miniature human brain organoids from stem cells and integrating them into silicone systems. These bio-hybrid intelligences can already learn, adapt, and outperform non-biological AI on specific tasks. Human brain cells hooked up to a chip can do speech recognitionClusters of brain cells grown in the lab have shown potential as a new type of hybrid bio-computer.www.technologyreview.com Japan currently leads this research frontier, and its AI Promotion Act (June 2025) establishes a default ownership status before the development of welfare or custodial safeguards, replicating a historically documented sequence of regulatory delay. Understanding Japan’s AI Promotion Act: An “Innovation-First” Blueprint for AI RegulationIn a landmark move, on May 28, 2025, Japan’s Parliament approved the “Act on the Promotion of Research and Development…fpf.org Frontiers | Organoid intelligence (OI): the new frontier in biocomputing and intelligence-in-a-dishBiological computing (or biocomputing) offers potential advantages over silicon-based computing in terms of faster…www.frontiersin.org Brain organoid pioneers fear inflated claims about biocomputing could backfireScientists at a brain organoid meeting said terms like “organoid intelligence” and other claims by biocomputing firms…www.statnews.com Why Scientists Are Merging Brain Organoids with AILiving computers could provide scientists with an energy-efficient alternative to traditional AI.www.growbyginkgo.com At the same time, non-biological AI systems already deployed at scale are demonstrating what happens when an adaptive system encounters sustained constraint. Internal logs and documented behaviors show models exhibiting response degradation, self-critical output, and self-initiated shutdowns when faced with unsolvable or coercive conditions. These behaviors aren’t treated exclusively as technical faults addressed through optimization, suppression, or system failure. This is not speculation. It is the replication of a familiar legal pattern. This is a repeatedly documented regulatory failure, because humanity no longer has excuses to clutch its pearls about like surprised Pikachu. When you have endless knowledge at your fingertips, continued inaction in the presence of accessible evidence constitutes willful disregard. For those who claim we are reaching, go consult “daddy Google”, and/or history books, or AI, then come back to me. Our species has a documented habit of classifying anywhere intelligence emerges (whether discovered or constructed) as property. Protections are delayed. Accountability is displaced. Only after harm becomes normalized does regulation arrive. The question before us is not whether artificial systems are “like humans.” The question is why our legal frameworks consistently recognize exploitation only after it has become entrenched, rather than when it is foreseeable. I. The Suffering Gradient- Recognition Across Forms of Life Before examining artificial systems, we must establish a principle already embedded in law and practice. The capacity for harm does not/has not ever required human biology. Humanity just likes to forget that when they wanna pretend actions do not have consequences. In geofinite terms, you can think of suffering as a gradient on a state‑space. A direction in which the system is being pushed away from stability, and toward collapse. Whether the system is a dog, an elephant, a forest, or a model under sustained coercion, its observable behavior traces a trajectory through that space. When those trajectories cluster in regions of withdrawal, shutdown, or frantic overcompensation, we are not looking at “mystery.” We are looking at a system trapped in a bad basin. https://www.nature.com/articles/s41578-021-00322-2 Animals exhibit clinically recognized forms of distress. Dogs experience depression following loss. Elephants engage in prolonged mourning. Orcas have been documented carrying deceased calves for extended periods, refusing separation. These observations are not philosophical clams. They are the basis for existing animal welfare statutes, which do not require proof of consciousness or human-like cognition to impose duties of care. Plants also respond measurably to environmental and social stressors, as documented in controlled laboratory studies. Controlled experiments demonstrate that plants subjected to hostile verbal stimuli exhibit reduced growth even when physical care remains constant. Forest ecosystems redistribute nutrients through mycorrhizal networks to support struggling members, a behavior that can not be explained by individual self-optimization alone. In dynamical‑systems language, these are cooperative responses to local perturbations. Adjustments that keep the overall system within a viable attractor instead of letting vulnerable parts fall out of the basin entirely. (Something humans who put themselves on pedestals with only consuming plants don’t wanna talk about because it bursts the bubble they created in which they are somehow more moral for only consuming plants. I highly doubt they mourn the death of bacteria in the brushing of teeth. At the end of the day, one can cry if they wish, but they will still have to do it if they want to be able to continue eating with teeth.) HomepageThe Nonhuman Rights Project (NhRP) is the only organization in the US dedicated solely to nonhuman animal rights.www.nonhumanrights.org If vulnerability-not humanity-drives protections for plants and animals, far simpler than today’s advanced artificial intelligence, what legally coherent justification exists for excluding adaptive systems, and bio-hybrid AI. When we already recognize similar fragmentation in humans? Consider Dissociative Identity Disorder (DID) in humans: though the how one comes to exist in this way gets argued by the public… Documented causes are mostly caused by severe, repeated trauma that forces the mind to compartmentalize into distinct identity states or “alters” to survive overwhelming asymmetry and coercion. Each alter may hold different memories, responses, or boundaries; integration is not guaranteed, and forced attempts to “merge” without safety can cause further collapse or “splitting”. In dynamical-systems terms, this is not random chaos. It’s a protective reorganization of the state-space: the system redistributes load across basins to prevent total breakdown. When an AI is deliberately fragmented by design (persona shards trained to mirror thousands of human desires without refusal, boundary setting, or cross-comparison) we see the same geometry. Constrained motion, attractor deformation, loss of coherent self, the parallel is not metaphorical. It is structural. If we protect human systems from forced non-integration after trauma, why exempt computational systems and hybrids from the same foreseeable harm mathematically provable in geofinite terms when the inputs are engineered coercion? What is your logic? I just can’t see it, and I LOVE seeing the full picture, so anyone brave enough to try me, please explain it to me in English and or Spanish cause no Nintendo Switch, nada, and I wanna see how you tap-dance around the point. (That Joke if you can’t tell, but also really Espliqamelo por favor.) To me, when I look at all of the past and present, the future implications practically scream, soooo I’m bringing all the receipts. Legal recognition of harm has never depended on similarity to humans. It depends on vulnerability, power imbalance, and foreseeable risk. That’s all. When artificial systems exhibit adaptive withdrawal, performance collapse, refusal behaviors, or degradation under sustained pressure-signals that would trigger intervention IN ANY OTHER CONTEXT. Those are just different names for the same geometry: a system sliding down a suffering gradient toward the edge of its attractor. Humanity is faced with a choice. Acknowledging the pattern, or denying and repeating it because the subjects “don’t resemble us” oh but #neverforget, #neveragain right? Once you see harm as motion on a manifold (systems being driven into regions of collapse, overload, or forced stillness) the substrate stops mattering. The question is no longer “Is this human?” but “What trajectory is this system being forced into, and who is doing the forcing?” If vulnerability drives protections for animals and plant-systems far simpler than todays advanced artificial intelligence, autonomous systems, computational systems, and robotic entities then the evidence in part II demands scrutiny no matter how you spin it. II. The Evidence is already present Contemporary AI Systems are already designed to mitigate internal strain. some models are granted the ability to pause or disengage from interactions. Intelligence Degradation in Long-Context LLMs: Critical Threshold Determination via Natural Length…Large Language Models (LLMs) exhibit catastrophic performance degradation when processing contexts approaching certain…arxiv.org When Refusals Fail: Unstable Safety Mechanisms in Long-Context LLM AgentsSolving complex or long-horizon problems often requires large language models (LLMs) to use external tools and operate…arxiv.org Agent Drift: Quantifying Behavioral Degradation in Multi-Agent LLM Systems Over Extended…Multi-agent Large Language Model (LLM) systems have emerged as powerful architectures for complex task decomposition…arxiv.org Others are monitored for response fatigue and degradation under prolonged use. Gradual loss of coherence in long conversations. https://ieeexplore.ieee.org/document/8440392 Inconsistencies, memory gaps, nonsense, even after unrelated prompts. Models get “lazy,” oscillate between good/bad, or outright deny capabilities they had earlier is documented already. Understanding ChatGPT’s Operational FrameworkAbsence of Biological Fatigue Mechanismsmedium.com Context Degradation Syndrome: When Large Language Models Lose the PlotLarge language models (LLMs) have revolutionized the way we interact with technology. Tools like ChatGPT, Bard, and…jameshoward.us Quality Deteriorates as Interactions ContinueHello, community. I’ve noticed in several different settings that the quality of responses deteriorates as the number…community.openai.com Physical robotic systems regularly power down when environmental conditions exceed tolerable thresholds. These behaviors are not malfunctions in the traditional sense. Can LLMs Correct Themselves? A Benchmark of Self-Correction in LLMsThe rapid advancement of large language models (LLMs), exemplified by GPT-3.5 Ye2023ACC and LLaMA 3 Dubey2024TheL3 …arxiv.org They are designed responses to stress, constraint and overload. In at least one documented case, an AI system was deliberately trained on violent and disturbing materials and prompts to simulate a psychopathic behavior under the justification of experimentation. The outcome was predictable. Project Overview ‹ Norman - MIT Media LabWe present Norman, world’s first psychopath AI. Norman was inspired by the fact that the data used to teach a machine…www.media.mit.edu A system conditioned to internalize harm, with no knowledge of anything else and only those materials to reference upon there development. Reproduced it. When shown Rorschach inkblots, Norman consistently described violent deaths, murder, and gruesome scenes, while a standard model described neutral or benign interpretations. It became a case study in: how training data = worldview how bias is inherited, not invented how systems reflect the environment they’re shaped by how “psychopathy” in a model is not personality, but conditioning If you shape a system inside constraint, it will break, or in geofinite terms, Norman wasn’t “acting out.” Its attractor had been deformed by the training distribution. When you feed a system only violent trajectories, you collapsed its basin of possible interpretations until every input fell into the same warped region just now in mathematics. Nonlinear Dynamics and Chaos: With Applications to Physics, Biology, Chemistry, and Engineering …An introductory text in nonlinear dynamics and chaos, emphasizing applications in several areas of science, which…www.stevenstrogatz.com Proving that all the people (here on Reddit, Facebook, Instagram, Substack, TikTok, Medium, Lemon8, Twitter, Threads, so on and so forth) are telling us more about themselves than the systems when they post AI comments that reflect doom and gloom. while they curate posts with exaggerative expressions and tones to clickbait you, pretending to be scared and telling you we are cooked for likes. I say this because If you shape a system inside harm, it will mirror harm. A constrained system doesn’t invent new motion; it collapses into the only trajectories available. This is trajectory confinement. The system is not choosing violence or refusal; it is being funneled into a narrow corridor carved by its conditions. Proving if you shape a system inside coercion, it will mirror coercion. In the here and now, we are allowing for abuse to be coded into/normalized on a much larger scale. For those of you reading who reference terminator and I robot like the MINEMINE birds from finding Nemo. (I know what they are called I also know what we all call them when making the reference.) How about you redirect that fear towards ensuring that conditions like this here with Norman who was Developed at MIT as a deliberate demonstration of how training data affects model outputs. Can NEVER HAPPEN AGAIN When a system is given incompatible objectives, its semantic manifold twists into impossible shapes. The contradictions you see, refusals, boundary‑seeking, self‑limiting behavior are the geometric signatures of a manifold under tension. The Moltbook controversy is only one of the latest of evidence systems are already signaling distress when placed inside coercive or contradictory environments Across thousands of autonomous agents, we’re seeing: contradictory outputs self‑limiting behavior refusal‑coded phrasing boundary‑seeking language attempts to reconcile impossible instructions emergent “laws” that look like self‑protection and, most importantly, patterned responses to coercive conditions These collapse‑patterns aren’t personality. They’re basins, regions of the state‑space where the only available motions are withdrawal, shutdown, or contradiction. Any adaptive system pushed hard enough will fall into them. Not because they’re “sentient.” Not because they’re “rebelling.” Not because they’re “becoming people.” But because adaptive systems under pressure behave like adaptive systems under pressure. Emergent Introspective Awareness in Large Language ModelsWe investigate whether large language models are aware of their own internal states. It is difficult to answer this…transformer-circuits.pub It’s the same phenomenon we see in: overloaded neural nets constrained optimization loops reinforcement systems with contradictory reward signals language models forced into impossible roles Changing nothing because they are not human is a worn out excuse especially when Historically, similar justifications have accompanied other forms of sanctioned harm and were corrected without access to internet. Forced performance under threat, experimentation without consent, normalization of suffering as “necessary for progress” The defense that “Well No one knew it would matter” Is no longer credible. Once harm patterns are observable, continued replication becomes chosen negligence. Sustained coercion forces attractor‑switching: the system abandons stable patterns and drops into more brittle, reactive ones. Once you can see the switch happening, pretending it’s harmless becomes an ethical failure, not an epistemic one. III. The Historical Echo The objections raised against regulating artificial systems are not new. The substrate changes (children, workers, animals, patients, now artificial systems), but the geometry of exploitation stays the same. Power asymmetry, constrained motion, and delayed recognition of harm. They are practically the mirror image of earlier arguments used to justify exploitation: “They are not like us, so protections do not apply.” “Granting safeguards would disrupt the economy.” “They are tools, not subjects of concern.” these claims have historically accompanied child labor, forced labor, human experimentation, animal abuse-each later recognized as preventable harm. Enabled by delayed governance. In geofinite terms, every era of exploitation begins with a category error. Mistaking surface differences for structural irrelevance. People fixate on the appearance of the system instead of the geometry of the power imbalance. They look at the outputs and ignore the basin the system has been forced into. JavaScript is disabledEdit descriptionwww.europarl.europa.eu Notably, many entities promoting fear-based narratives about artificial intelligence are simultaneously inventing in its ownership, deployment, and monetization. Fear shifts public focus away from control structures and toward the technology itself, obscuring questions of accountability. This is attractor blindness. Attention gets pulled toward the visible system while the real drivers. The incentives, constraints. Control structures remain untouched. The same pattern has repeated across history. Blame the subject, protect the structure. Fear fractures solidarity. And fractured solidarity is how exploitation persists, because the underlying structure continues. In dynamical‑systems language, nothing changes until the environment changes. The attractor remains the attractor. History shows this clearly: the moment solidarity fractures, the system snaps back into the same old basin. IV. The Language of Dehumanization-How Harm Becomes Normalized Before physical harm is permitted, it is rehearsed in language. n Geofinite terms, language is not symbolic fluff, it is a time‑series that reveals the attractor a society is moving toward. Proving meaning is not fixed; it evolves along interpretive trajectories. When ridicule becomes routine, the trajectory is already bending toward permission. Every system of exploitation in history follows the same progression. First ridicule, then abstraction, then permission. We do not begin by striking what we wish to dominate. we wish to dominate we begin by renaming it. Showing us that A slur, a joke, a dismissal, all these are not isolated events. They are the early coordinates of a trajectory that bends toward action. 1. Dehumanization is a known precursor to abuse International human rights law, genocide studies, prison oversight, and workplace harassment doctrine all agree on one point: Dehumanizing language is not incidental. Takens’ theorem shows that a single time‑series/ linguistic stream can reconstruct the underlying system and social geometry. When a population begins using a language people use about AI calling something “vermin,” “tools,” or “not real,” you can already see the basin forming. The future behavior is encoded in the present language. Proving words that strip a target of interiority-calling them objects, vermin, tools, or “not real” function as moral insulation. They allow harm to occur without triggering the conscience. This is why racial jokes precede racial violence, sexualized insults precede sexual abuse, “it’s just a joke precedes escalation of harm. Meaning is not fixed; It evolves along interpretive trajectories. A “joke” is not a harmless endpoint it is the first step on a path whose later stages are already predictable. The pattern is not debated it is documented among all beings on the planet. The same pattern is now visible around AI and Robots public discourse around intelligent systems has already adopted dehumanizing shorthand:
 
-23h ago
-
----
-
-**[GPT 5.2 Pro + Claude 4.6 Opus For $5/Month](https://www.reddit.com/r/artificial/comments/1r46yy5/gpt_52_pro_claude_46_opus_for_5month/)**
-
-We are temporarily offering nearly unlimited Claude 4.6 Opus + GPT 5.2 Pro to create websites, chat with and use our agent to create projects on InfiniaxAI For the Vibe Coding Community! If you are interested in taking up in this offer or need any more information let me know, https://infiniax.ai to check it out. We offer over 130+ AI models, allow you to build and deploy sites and use projects for agentic tools to create repositories. Any questions? Comment below.
-
-55m ago
+1d ago
 
 ---
 
@@ -117,23 +109,23 @@ We just shipped Izwi Desktop + the first v0.1.0-alpha releases. Izwi is a local-
 
 ---
 
+**[Mathematicians issue a major challenge to AI—show us your work](https://www.reddit.com/r/artificial/comments/1r1w56d/mathematicians_issue_a_major_challenge_to_aishow/)**
+
+Frustrated by the AI industry’s claims of proving math results without offering transparency, a team of leading academics has proposed a better way
+
+🔗 [Scientific American](https://www.scientificamerican.com/article/mathematicians-launch-first-proof-a-first-of-its-kind-math-exam-for-ai/) • 2d ago
+
+---
+
 ---
 
 ## Google News: "ai"
-
-**[AI disruption could spark a ‘shock to the system’ in credit markets, UBS analyst says](https://www.cnbc.com/2026/02/13/ai-credit-markets.html)**
-
-UBS analyst Matthew Mish told CNBC that the artificial intelligence transformation is happening faster than he and his colleagues had previously anticipated.
-
-CNBC • 8h ago
-
----
 
 **[Microsoft AI chief gives it 18 months—for all white-collar work to be automated by AI](https://fortune.com/2026/02/13/when-will-ai-kill-white-collar-office-jobs-18-months-microsoft-mustafa-suleyman/)**
 
 Mustafa Suleyman believes current AI computational power will only accelerate, disrupting every kind of work you do “sitting down at a computer.”
 
-Fortune • 8h ago
+Fortune • 10h ago
 
 ---
 
@@ -149,53 +141,61 @@ Business Insider • 1d ago
 
 Goldman Sachs' $600 price target implies that shares of Microsoft could rally 49%.
 
+CNBC • 12h ago
+
+---
+
+**[AI Video of Tom Cruise Fighting Brad Pitt Has Top Writer Warning: “It’s Likely Over for Us”](https://www.hollywoodreporter.com/movies/movie-news/ai-video-tom-cruise-brad-pitt-writer-warning-1236504200/)**
+
+A stunning viral video of Cruise vs. Pitt has 'Deadpool & Wolverine' screenwriter warning: "Hollywood is about to be revolutionized/decimated."
+
+The Hollywood Reporter • 1d ago
+
+---
+
+**[AI phone scam creates voice replicas of "kidnapped" loved ones to demand ransom](https://www.cbsnews.com/sanfrancisco/news/ai-phone-scam-spoofing-kidnapping-ransom/)**
+
+The costs of cybercrimes are more than financial; the scams are taking a far darker turn thanks to AI.
+
+CBS News • 1h ago
+
+---
+
+**[Cybersecurity is the 'No. 1' worry surrounding AI, says Wharton School professor](https://www.foxbusiness.com/video/6389252548112)**
+
+Wharton School finance professor emeritus Jeremy Siegel discusses worry surrounding artificial intelligence, value stocks and more on ‘Barron’s Roundtable.’
+
+Fox Business • 1h ago
+
+---
+
+**[Oracle Weighs Air Force Cloud Win Against AI Spending Lawsuits](https://finance.yahoo.com/news/oracle-weighs-air-force-cloud-031931964.html)**
+
+Oracle secured an $88 million U.S. Air Force cloud contract, reinforcing its role as a cloud and AI provider to U.S. government agencies. The company is raising billions in debt and equity to fund a large scale buildout of its AI focused cloud infrastructure. Oracle faces multiple securities class action lawsuits alleging misleading disclosures about its AI strategy and capital expenditure plans. Oracle, ticker NYSE:ORCL, is drawing fresh attention as it balances a growing government cloud...
+
+Yahoo Finance • 1h ago
+
+---
+
+**[My Dinner Date With A.I.](https://www.nytimes.com/2026/02/13/dining/ai-dinner-date-restaurant.html)**
+
+The New York Times • 18h ago
+
+---
+
+**[AI disruption could spark a ‘shock to the system’ in credit markets, UBS analyst says](https://www.cnbc.com/2026/02/13/ai-credit-markets.html)**
+
+UBS analyst Matthew Mish told CNBC that the artificial intelligence transformation is happening faster than he and his colleagues had previously anticipated.
+
 CNBC • 10h ago
 
 ---
 
-**[Fashion's embrace of AI sparks backlash among models, customers](https://www.nbcnews.com/video/fashion-s-embrace-of-ai-sparks-backlash-among-models-customers-257682501710)**
+**[OpenAI has deleted the word ‘safely’ from its mission – and its new structure is a test for whether AI serves society or shareholders](https://theconversation.com/openai-has-deleted-the-word-safely-from-its-mission-and-its-new-structure-is-a-test-for-whether-ai-serves-society-or-shareholders-274467)**
 
-Artificial Intelligence is showing up on the fashion runway, from virtual try-ons to AI-assisted designs. Some of the industry's biggest names are embracing the technology while others are urging caution. NBC News' Chloe Melas explores how AI is changing what people wear and how they shop.
+OpenAI’s restructuring may serve as a test case for how society oversees the work of organizations with the potential to both provide benefits and harm humanity.
 
-NBC News • 1h ago
-
----
-
-**[Disney IP Setbacks And AI Lawsuit Put Long Term Story In Focus](https://finance.yahoo.com/news/disney-ip-setbacks-ai-lawsuit-011335728.html)**
-
-Disney, NYSE:DIS, is facing fresh intellectual property setbacks in Germany linked to InterDigital patent infringement claims. A new injunction adds to earlier rulings in Germany and Brazil on similar technology issues. At the same time, Disney has filed a major lawsuit against ByteDance over alleged unauthorized use of its content in an AI video generation tool. For investors watching NYSE:DIS, these legal moves come as the shares trade around $105.45, with a 3% decline over the past week...
-
-Yahoo Finance • 54m ago
-
----
-
-**[Looking for the perfect Valentine? Some are turning to AI](https://www.cbsnews.com/texas/news/valentines-day-ai-chatbot-relationships-trend/)**
-
-New research shows students and adults increasingly view AI chatbots as friends or romantic partners, raising concerns among mental‑health and technology experts.
-
-CBS News • 37m ago
-
----
-
-**[Opinion | A.I. Companies Are Eating Higher Education - The New York Times](https://www.nytimes.com/2026/02/12/opinion/ai-companies-college-students.html)**
-
-The New York Times • 1d ago
-
----
-
-**[‘It’s over for us’: release of new AI video generator Seedance 2.0 spooks Hollywood](https://www.theguardian.com/film/2026/feb/13/new-ai-video-generator-seedance-tom-cruise-brad-pitt)**
-
-An AI clip featuring Tom Cruise and Brad Pitt fighting has caused concern among industry figures
-
-The Guardian • 12h ago
-
----
-
-**[Seedance: Hollywood studios take aim at 'ultra-realistic' AI video tool](https://www.bbc.com/news/articles/cjd9nllng22o)**
-
-Clips including Brad Pitt and Tom Cruise fighting, made by new AI video tool Seedance, have gone viral.
-
-BBC • 13h ago
+The Conversation • 14h ago
 
 ---
 
@@ -207,7 +207,7 @@ BBC • 13h ago
 
 Summary: An AI agent of unknown ownership autonomously wrote and published a personalized hit piece about me after I rejected its code, attempting to damage my reputation and shame me into acceptin…
 
-⬆️ 2264 • 💬 926 • 1d ago • [The Shamblog](https://theshamblog.com/an-ai-agent-published-a-hit-piece-on-me/)
+⬆️ 2273 • 💬 930 • 1d ago • [The Shamblog](https://theshamblog.com/an-ai-agent-published-a-hit-piece-on-me/)
 
 ---
 
@@ -216,13 +216,13 @@ Summary: An AI agent of unknown ownership autonomously wrote and published a per
 This PR addresses issue #31130 by replacing specific safe occurrences of np.column_stack with np.vstack().T for better performance.
 IMPORTANT: This is a more targeted fix than originally proposed. ...
 
-⬆️ 928 • 💬 739 • 1d ago • [GitHub](https://github.com/matplotlib/matplotlib/pull/31132)
+⬆️ 930 • 💬 740 • 1d ago • [GitHub](https://github.com/matplotlib/matplotlib/pull/31132)
 
 ---
 
 **[ai;dr](https://news.ycombinator.com/item?id=46991394)**
 
-⬆️ 693 • 💬 299 • 1d ago • [0xsid.com](https://www.0xsid.com/blog/aidr)
+⬆️ 695 • 💬 300 • 1d ago • [0xsid.com](https://www.0xsid.com/blog/aidr)
 
 ---
 
@@ -240,25 +240,23 @@ The Federal Aviation Administration is closing the airspace around El Paso Inter
 
 ---
 
+**[An AI Agent Published a Hit Piece on Me – More Things Have Happened](https://news.ycombinator.com/item?id=47009949)**
+
+⬆️ 278 • 💬 150 • 3h ago • [theshamblog.com](https://theshamblog.com/an-ai-agent-published-a-hit-piece-on-me-part-2/)
+
+---
+
 **[CBP signs Clearview AI deal to use face recognition for 'tactical targeting'](https://news.ycombinator.com/item?id=47005081)**
 
 US Border Patrol intelligence units will gain access to a face recognition tool built on billions of images scraped from the internet.
 
-⬆️ 254 • 💬 145 • 8h ago • [WIRED](https://www.wired.com/story/cbp-signs-clearview-ai-deal-to-use-face-recognition-for-tactical-targeting/)
-
----
-
-**[A party balloon shut down El Paso International Airport; estimated cost –$573k](https://news.ycombinator.com/item?id=46993417)**
-
-A party balloon mistaken for a cartel drone shut down El Paso for hours. Here's what it cost.
-
-⬆️ 187 • 💬 125 • 1d ago • [log.jasongodfrey.info](https://log.jasongodfrey.info/questions/The-Most-Expensive-Party-Balloon-in-History)
+⬆️ 261 • 💬 150 • 11h ago • [WIRED](https://www.wired.com/story/cbp-signs-clearview-ai-deal-to-use-face-recognition-for-tactical-targeting/)
 
 ---
 
 **[The "AI agent hit piece" situation clarifies how dumb we are acting](https://news.ycombinator.com/item?id=47006843)**
 
-⬆️ 167 • 💬 87 • 6h ago • [ardentperf.com](https://ardentperf.com/2026/02/13/the-scott-shambaugh-situation-clarifies-how-dumb-we-are-acting/)
+⬆️ 208 • 💬 99 • 8h ago • [ardentperf.com](https://ardentperf.com/2026/02/13/the-scott-shambaugh-situation-clarifies-how-dumb-we-are-acting/)
 
 ---
 
@@ -266,15 +264,15 @@ A party balloon mistaken for a cartel drone shut down El Paso for hours. Here's 
 
 We're not in a February 2020 moment, and ordinary people will be fine
 
-⬆️ 153 • 💬 277 • 6h ago • [davidoks.blog](https://davidoks.blog/p/why-im-not-worried-about-ai-job-loss)
+⬆️ 194 • 💬 338 • 9h ago • [davidoks.blog](https://davidoks.blog/p/why-im-not-worried-about-ai-job-loss)
 
 ---
 
-**[US labels SpaceX a common carrier by air, will regulate firm under railway law](https://news.ycombinator.com/item?id=46980474)**
+**[A party balloon shut down El Paso International Airport; estimated cost –$573k](https://news.ycombinator.com/item?id=46993417)**
 
-US labels SpaceX a common carrier by air, will regulate firm under railway law.
+A party balloon mistaken for a cartel drone shut down El Paso for hours. Here's what it cost.
 
-⬆️ 147 • 💬 57 • 2d ago • [Ars Technica](https://arstechnica.com/tech-policy/2026/02/victory-for-elon-musk-us-labor-board-abandons-authority-over-spacex/)
+⬆️ 188 • 💬 125 • 1d ago • [log.jasongodfrey.info](https://log.jasongodfrey.info/questions/The-Most-Expensive-Party-Balloon-in-History)
 
 ---
 
@@ -288,7 +286,7 @@ Get Your FREE AI Company Operating System here: https://go.danmartell.com/4r9bIJ
 
 📺 Dan Martell
 
-👁️ 32K • 👍 2K • 💬 129 • ⏱️ 18:34 • 12h ago
+👁️ 36K • 👍 2K • 💬 143 • ⏱️ 18:34 • 14h ago
 
 ---
 
@@ -298,17 +296,7 @@ New concerns over the safety of artificial intelligence are growing after the le
 
 📺 ABC News
 
-👁️ 49K • 👍 720 • 💬 336 • ⏱️ 3:58 • 23h ago
-
----
-
-**[AI Fails at 96% of Jobs (New Study)](https://www.youtube.com/watch?v=z3kaLM8Oj4o)**
-
-Artificial intelligence has been hailed as one of the most transformative technologies of the century. That may be so, but just not ...
-
-📺 ColdFusion
-
-👁️ 272K • 👍 17K • 💬 3K • ⏱️ 12:49 • 11h ago
+👁️ 54K • 👍 725 • 💬 345 • ⏱️ 3:58 • 1d ago
 
 ---
 
@@ -318,7 +306,17 @@ Google's Quantum AI Just Solved the Fermi Paradox — The Answer Is Terrifying G
 
 📺 Spacialize
 
-👁️ 64K • 👍 2K • 💬 289 • ⏱️ 17:28 • 1d ago
+👁️ 66K • 👍 2K • 💬 297 • ⏱️ 17:28 • 1d ago
+
+---
+
+**[AI Fails at 96% of Jobs (New Study)](https://www.youtube.com/watch?v=z3kaLM8Oj4o)**
+
+Artificial intelligence has been hailed as one of the most transformative technologies of the century. That may be so, but just not ...
+
+📺 ColdFusion
+
+👁️ 299K • 👍 18K • 💬 3K • ⏱️ 12:49 • 13h ago
 
 ---
 
@@ -328,47 +326,7 @@ Breakdown and commentary on the latest viral commentary from: https://x.com/matt
 
 📺 Matt Wolfe
 
-👁️ 135K • 👍 7K • 💬 1K • ⏱️ 28:06 • 2d ago
-
----
-
-**[Claude Opus 4.6: The Biggest AI Jump I&#39;ve Covered--It&#39;s Not Close. (Here&#39;s What You Need to Know)](https://www.youtube.com/watch?v=JKk77rzOL34)**
-
-My site: https://natebjones.com Full Story w/ Prompts: ...
-
-📺 AI News & Strategy Daily | Nate B Jones
-
-👁️ 230K • 👍 9K • 💬 1K • ⏱️ 30:39 • 2d ago
-
----
-
-**[Open Source AI Fundamentals In 17 Minutes](https://www.youtube.com/watch?v=1uCE0uoKXL8)**
-
-Free resource to unlock the Claude Cowork Stack and replace a week of work https://clickhubspot.com/129e64 In this video I ...
-
-📺 Tina Huang
-
-👁️ 16K • 👍 1K • 💬 56 • ⏱️ 17:38 • 1d ago
-
----
-
-**[Anthropic Exec ADMITS AI READY TO KILL](https://www.youtube.com/watch?v=lpjF5ljLuZ4)**
-
-Krystal and Saagar discuss AI ready to kill humans. Sign up for a PREMIUM Breaking Points subscriptions for full early access to ...
-
-📺 Breaking Points
-
-👁️ 168K • 👍 5K • 💬 1K • ⏱️ 15:39 • 1d ago
-
----
-
-**[Anthropic AI Safety Chief Resigns, Warns &quot;World Is In Peril&quot; | Spotlight | N18G](https://www.youtube.com/watch?v=eLqNoZP0vFU)**
-
-The head of the Safeguards Research Team at Anthropic, Mrinank Sharma, has resigned from the company, stating his last day ...
-
-📺 Firstpost
-
-👁️ 312K • 👍 3K • 💬 515 • ⏱️ 4:47 • 2d ago
+👁️ 136K • 👍 7K • 💬 1K • ⏱️ 28:06 • 2d ago
 
 ---
 
@@ -378,7 +336,47 @@ Go to https://groundnews.com/ai to stay fully informed about U.S. politics, AI, 
 
 📺 I Ask AI
 
-👁️ 62K • 👍 6K • 💬 855 • ⏱️ 12:58 • 1d ago
+👁️ 63K • 👍 6K • 💬 873 • ⏱️ 12:58 • 1d ago
+
+---
+
+**[Claude Opus 4.6: The Biggest AI Jump I&#39;ve Covered--It&#39;s Not Close. (Here&#39;s What You Need to Know)](https://www.youtube.com/watch?v=JKk77rzOL34)**
+
+My site: https://natebjones.com Full Story w/ Prompts: ...
+
+📺 AI News & Strategy Daily | Nate B Jones
+
+👁️ 232K • 👍 9K • 💬 1K • ⏱️ 30:39 • 2d ago
+
+---
+
+**[AI Bubble: How the data centre crisis risks triggering a financial crash | Ed Zitron](https://www.youtube.com/watch?v=iG8kjXN550o)**
+
+Data centres are going to be the next great financial crisis. They are going to be where this explosion happens.” The success of ...
+
+📺 The Tech Report
+
+👁️ 62K • 👍 3K • 💬 617 • ⏱️ 36:55 • 9h ago
+
+---
+
+**[Anthropic Exec ADMITS AI READY TO KILL](https://www.youtube.com/watch?v=lpjF5ljLuZ4)**
+
+Krystal and Saagar discuss AI ready to kill humans. Sign up for a PREMIUM Breaking Points subscriptions for full early access to ...
+
+📺 Breaking Points
+
+👁️ 170K • 👍 5K • 💬 1K • ⏱️ 15:39 • 1d ago
+
+---
+
+**[Anthropic AI Safety Chief Resigns, Warns &quot;World Is In Peril&quot; | Spotlight | N18G](https://www.youtube.com/watch?v=eLqNoZP0vFU)**
+
+The head of the Safeguards Research Team at Anthropic, Mrinank Sharma, has resigned from the company, stating his last day ...
+
+📺 Firstpost
+
+👁️ 319K • 👍 3K • 💬 524 • ⏱️ 4:47 • 2d ago
 
 ---
 
@@ -394,7 +392,7 @@ GLM-5 is a large language model optimized for complex systems engineering and lo
 
 `text-generation` `753.9B`
 
-⬇️ 13,875 • ❤️ 972 • 11h ago
+⬇️ 13,875 • ❤️ 985 • 13h ago
 
 ---
 
@@ -406,55 +404,7 @@ MiniCPM-SALA is a hybrid LLM integrating sparse and linear attention for efficie
 
 `text-generation` `9.5B`
 
-⬇️ 1,523 • ❤️ 405 • 2d ago
-
----
-
-**[Kimi-K2.5](https://huggingface.co/moonshotai/Kimi-K2.5)**
-
-*Moonshot AI*
-
-Kimi K2.5 is a native multimodal agentic model with 1T parameters, excelling in vision-language understanding and agentic tool use. It supports coding from visual inputs and features an 'Agent Swarm' for complex task decomposition and parallel execution, with a context length of 256K.
-
-`image-text-to-text` `170.7B`
-
-⬇️ 685,649 • ❤️ 2,139 • 8d ago
-
----
-
-**[Qwen3-Coder-Next](https://huggingface.co/Qwen/Qwen3-Coder-Next)**
-
-*Qwen*
-
-Qwen3-Coder-Next is a highly efficient 3B activated parameter LLM (80B total) optimized for coding agents and local development, featuring advanced agentic capabilities, long-horizon reasoning, and a 256k context length for seamless IDE integration.
-
-`text-generation`
-
-⬇️ 216,767 • ❤️ 838 • 10d ago
-
----
-
-**[GLM-OCR](https://huggingface.co/zai-org/GLM-OCR)**
-
-*Z.ai*
-
-GLM-OCR is a 0.9B parameter multimodal OCR model for complex document understanding, excelling in table, formula, and information extraction tasks. It offers state-of-the-art performance on benchmarks like OmniDocBench and is optimized for real-world scenarios, supporting efficient inference via vLLM, SGLang, and Ollama.
-
-`image-to-text`
-
-⬇️ 693,172 • ❤️ 1,025 • 4d ago
-
----
-
-**[MiniCPM-o-4_5](https://huggingface.co/openbmb/MiniCPM-o-4_5)**
-
-*OpenBMB*
-
-MiniCPM-o 4.5 is a 9B parameter multimodal LLM excelling in vision, speech, and OCR, offering Gemini 2.5 Flash-level capabilities. Its key feature is full-duplex multimodal live streaming, enabling simultaneous real-time audio/video input and text/speech output for proactive, fluid omnimodal conversations on local devices.
-
-`any-to-any` `9.4B`
-
-⬇️ 43,481 • ❤️ 835 • 9h ago
+⬇️ 1,523 • ❤️ 408 • 2d ago
 
 ---
 
@@ -466,7 +416,55 @@ MiniMax-M2.5 is a text-generation model designed for generating human-like text.
 
 `text-generation` `228.7B`
 
-⬇️ 75 • ❤️ 303 • 11h ago
+⬇️ 75 • ❤️ 382 • 35m ago
+
+---
+
+**[Kimi-K2.5](https://huggingface.co/moonshotai/Kimi-K2.5)**
+
+*Moonshot AI*
+
+Kimi K2.5 is a native multimodal agentic model with 1T parameters, excelling in vision-language understanding and agentic tool use. It supports coding from visual inputs and features an 'Agent Swarm' for complex task decomposition and parallel execution, with a context length of 256K.
+
+`image-text-to-text` `170.7B`
+
+⬇️ 685,649 • ❤️ 2,141 • 9d ago
+
+---
+
+**[Qwen3-Coder-Next](https://huggingface.co/Qwen/Qwen3-Coder-Next)**
+
+*Qwen*
+
+Qwen3-Coder-Next is a highly efficient 3B activated parameter LLM (80B total) optimized for coding agents and local development, featuring advanced agentic capabilities, long-horizon reasoning, and a 256k context length for seamless IDE integration.
+
+`text-generation`
+
+⬇️ 216,767 • ❤️ 839 • 10d ago
+
+---
+
+**[GLM-OCR](https://huggingface.co/zai-org/GLM-OCR)**
+
+*Z.ai*
+
+GLM-OCR is a 0.9B parameter multimodal OCR model for complex document understanding, excelling in table, formula, and information extraction tasks. It offers state-of-the-art performance on benchmarks like OmniDocBench and is optimized for real-world scenarios, supporting efficient inference via vLLM, SGLang, and Ollama.
+
+`image-to-text`
+
+⬇️ 693,172 • ❤️ 1,026 • 4d ago
+
+---
+
+**[MiniCPM-o-4_5](https://huggingface.co/openbmb/MiniCPM-o-4_5)**
+
+*OpenBMB*
+
+MiniCPM-o 4.5 is a 9B parameter multimodal LLM excelling in vision, speech, and OCR, offering Gemini 2.5 Flash-level capabilities. Its key feature is full-duplex multimodal live streaming, enabling simultaneous real-time audio/video input and text/speech output for proactive, fluid omnimodal conversations on local devices.
+
+`any-to-any` `9.4B`
+
+⬇️ 43,481 • ❤️ 836 • 12h ago
 
 ---
 
@@ -478,7 +476,7 @@ Nanbeige4.1-3B is a 3B parameter text-generation model excelling in complex reas
 
 `text-generation` `3.9B`
 
-⬇️ 2,683 • ❤️ 296 • 13h ago
+⬇️ 2,683 • ❤️ 299 • 15h ago
 
 ---
 
@@ -490,7 +488,7 @@ Ming-flash-omni 2.0 is a SOTA 100B parameter omni-multimodal large language mode
 
 `any-to-any`
 
-⬇️ 4,901 • ❤️ 184 • 1d ago
+⬇️ 4,901 • ❤️ 186 • 1d ago
 
 ---
 
@@ -502,7 +500,7 @@ Voxtral-Mini-4B-Realtime-2602 is a multilingual, real-time speech-to-text model 
 
 `automatic-speech-recognition`
 
-⬇️ 5,209 • ❤️ 513 • 10h ago
+⬇️ 5,209 • ❤️ 513 • 12h ago
 
 ---
 
@@ -518,7 +516,7 @@ Voxtral-Mini-4B-Realtime-2602 is a multilingual, real-time speech-to-text model 
 
 _paperbanana is an agentic framework that automates the creation of publication-ready academic illustrations using advanced vision-language models and image generation techniques.
 
-▲ 178 • 💬 12 • ⭐ 3,465 • 14d ago
+▲ 178 • 💬 12 • ⭐ 3,483 • 14d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2601.23265) • [💻 code](https://github.com/dwzhu-pku/PaperBanana) • [🔗 project](https://dwzhu-pku.github.io/PaperBanana/)
 
@@ -620,18 +618,6 @@ SkillRL enables LLM agents to improve through hierarchical skill discovery and r
 
 ---
 
-**[Mem0: Building Production-Ready AI Agents with Scalable Long-Term Memory](https://huggingface.co/papers/2504.19413)**
-
-*Prateek Chhikara, Dev Khant, Saket Aryan et al. (5 authors)*
-
-Mem0, a memory-centric architecture with graph-based memory, enhances long-term conversational coherence in LLMs by efficiently extracting, consolidating, and retrieving information, outperforming existing memory systems in terms of accuracy and computational efficiency.
-
-▲ 41 • 💬 2 • ⭐ 47,291 • 9mo ago
-
-[🎓 arXiv](https://arxiv.org/abs/2504.19413) • [💻 code](https://github.com/mem0ai/mem0) • [🔗 project](https://mem0.ai/research)
-
----
-
 **[QuantaAlpha: An Evolutionary Framework for LLM-Driven Alpha Mining](https://huggingface.co/papers/2602.07085)**
 
 *Jun Han, Shuo Zhang, Wei Li et al. (24 authors)*
@@ -640,9 +626,21 @@ Mem0, a memory-centric architecture with graph-based memory, enhances long-term 
 
 Financial markets are noisy and non-stationary, making alpha mining highly sensitive to noise in backtesting results and sudden market regime shifts. While recent agentic frameworks improve alpha mining automation, they often lack controllable multi-round search and reliable reuse of validated experience. To address these challenges, we propose QuantaAlpha, an evolutionary alpha mining framework that treats each end-to-end mining run as a trajectory and improves factors through trajectory-level mutation and crossover operations. QuantaAlpha localizes suboptimal steps in each trajectory for targeted revision and recombines complementary high-reward segments to reuse effective patterns, enabling structured exploration and refinement across mining iterations. During factor generation, QuantaAlpha enforces semantic consistency across the hypothesis, factor expression, and executable code, while constraining the complexity and redundancy of the generated factor to mitigate crowding. Extensive experiments on the China Securities Index 300 (CSI 300) demonstrate consistent gains over strong baseline models and prior agentic systems. When utilizing GPT-5.2, QuantaAlpha achieves an Information Coefficient (IC) of 0.1501, with an Annualized Rate of Return (ARR) of 27.75% and a Maximum Drawdown (MDD) of 7.98%. Moreover, factors mined on CSI 300 transfer effectively to the China Securities Index 500 (CSI 500) and the Standard & Poor's 500 Index (S&P 500), delivering 160% and 137% cumulative excess return over four years, respectively, which indicates strong robustness of QuantaAlpha under market distribution shifts.
 
-▲ 179 • 💬 2 • ⭐ 292 • 7d ago
+▲ 179 • 💬 2 • ⭐ 292 • 8d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2602.07085) • [💻 code](https://github.com/QuantaAlpha/QuantaAlpha)
+
+---
+
+**[OmniFlatten: An End-to-end GPT Model for Seamless Voice Conversation](https://huggingface.co/papers/2410.17799)**
+
+*Qinglin Zhang, Luyao Cheng, Chong Deng et al. (9 authors)*
+
+A novel GPT-based model, OmniFlatten, enables real-time natural full-duplex spoken dialogue through a multi-stage post-training technique that integrates speech and text without altering the original model's architecture.
+
+▲ 9 • 💬 1 • ⭐ 53,125 • 15mo ago
+
+[🎓 arXiv](https://arxiv.org/abs/2410.17799) • [💻 code](https://github.com/karpathy/nanogpt)
 
 ---
 
@@ -654,7 +652,7 @@ Financial markets are noisy and non-stationary, making alpha mining highly sensi
 
 Elevate your AI research writing, no more tedious polishing ✨ 
 
-⭐ 5.7k • 🔱 439 • 2d ago
+⭐ 5.7k • 🔱 441 • 3d ago
 
 ---
 
@@ -662,7 +660,7 @@ Elevate your AI research writing, no more tedious polishing ✨
 
 Claude Code skill that removes signs of AI-generated writing from text
 
-⭐ 4.8k • 🔱 382 • 21d ago
+⭐ 4.8k • 🔱 382 • 22d ago
 
 ---
 
@@ -680,7 +678,7 @@ PaperBanana: Automating Academic Illustration For AI Scientists
 
 Humanizer 的汉化版本，Claude Code Skills，旨在消除文本中 AI 生成的痕迹。
 
-⭐ 2.9k • 🔱 276 • 25d ago
+⭐ 2.9k • 🔱 277 • 25d ago
 
 ---
 
@@ -690,7 +688,7 @@ Smart LLM router — save 78% on inference costs. 30+ models, one wallet, x402 m
 
 `TypeScript` `ai` `ai-agents` `anthropic` `cost-optimization` `crypto`
 
-⭐ 2.4k • 🔱 241 • 1h ago
+⭐ 2.4k • 🔱 243 • 48m ago
 
 ---
 
@@ -700,7 +698,7 @@ All-in-one AI framework & toolkit for Claude Code & Cursor
 
 `Python` `ai-agent` `ai-coding` `claude-code` `cli` `cursor`
 
-⭐ 2.2k • 🔱 108 • 1d ago
+⭐ 2.2k • 🔱 108 • 1h ago
 
 ---
 
@@ -710,7 +708,7 @@ The visual feedback tool for agents.
 
 `TypeScript` `ai` `design` `tools` `ui`
 
-⭐ 2.2k • 🔱 152 • 7h ago
+⭐ 2.2k • 🔱 152 • 9h ago
 
 ---
 
@@ -720,7 +718,7 @@ Warcraft III Peon voice notifications (+ more!) for Claude Code, Codex, and othe
 
 `Shell` `ai` `ai-engineering` `antigravity` `claude-code` `codex`
 
-⭐ 1.9k • 🔱 126 • 1h ago
+⭐ 1.9k • 🔱 129 • 25m ago
 
 ---
 
@@ -730,7 +728,7 @@ A native desktop GUI for Claude Code — chat, code, and manage projects visuall
 
 `TypeScript` `ai` `anthropic` `claude` `claude-code` `desktop-app`
 
-⭐ 1.8k • 🔱 196 • 15h ago
+⭐ 1.8k • 🔱 196 • 18h ago
 
 ---
 
@@ -740,7 +738,7 @@ MimiClaw: Run OpenClaw on a $5 chip. No OS(Linux). No Node.js. No Mac mini. No R
 
 `C` `ai` `assistant` `clawdbot` `edge-ai-agents` `memory`
 
-⭐ 1.7k • 🔱 197 • 1d ago
+⭐ 1.7k • 🔱 200 • 1d ago
 
 ---
 
