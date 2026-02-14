@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-02-14T11:46:22.620704+00:00'
+updated: '2026-02-14T12:51:58.641395+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
 - social
-- videos
 - news
+- videos
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** February 14, 2026 at 11:46 UTC  
+**Last Updated:** February 14, 2026 at 12:51 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -34,7 +34,7 @@ Robotics research and industry news
 
 **[My grandmother has seen a little too much Winter Olympics](https://www.reddit.com/r/robotics/comments/1r4316q/my_grandmother_has_seen_a_little_too_much_winter/)**
 
-13h ago
+14h ago
 
 ---
 
@@ -42,7 +42,7 @@ Robotics research and industry news
 
 Hello guys, I upgraded my first flight controller based on some errors I faced in my previous build and here is my V2 with more advanced features and future expansions for fixed wing drones or FPV drones. MCU STM32F405RGT6 Interfaces & IO ADC input for battery voltage measurement 8× PWM outputs 1× UART for radio 1x Barometer (BMP280) 1x Accelerometer (ICM-42688-PC) => BetaFlight compatible 1× UART for GPS 1x CAN bus expansion 1x SPI expansion 4× GPIOs SWD interface USB-C interface SD card slot for logging Notes Supports up to 12v input voltage Custom-designed PCB Hardware only All Fab Files included (Gerber/BOM/CPL/Schematic/PCB layout/PCB routing/and all settings)
 
-3h ago
+4h ago
 
 ---
 
@@ -50,7 +50,15 @@ Hello guys, I upgraded my first flight controller based on some errors I faced i
 
 I posted a video a couple of days ago on r/esp32 showing my Open-Source robot dance, and some people wanted to see it walk ... here you go ! Got a complete walking gate & added remote control :) Everything runs on the ESP32-S3 ! What do you think ?
 
-21h ago
+23h ago
+
+---
+
+**[Figure 7th-gen hand](https://www.reddit.com/r/robotics/comments/1r4jkfa/figure_7thgen_hand/)**
+
+From Brett Adcock on 𝕏: https://x.com/adcock_brett/status/2022353637964751221 Figure on 𝕏: https://x.com/Figure_robot/status/2022352809459609896
+
+16m ago
 
 ---
 
@@ -58,7 +66,7 @@ I posted a video a couple of days ago on r/esp32 showing my Open-Source robot da
 
 Hi everyone, I’ve been admitted to two master’s programs in Germany and would really appreciate experiences and insights from people who know these fields or universities. I’m currently deciding between: • M.Sc. Computer Science (Informatik) at University of Augsburg, with an interest in robotics/interaction systems • M.Sc. Computational Linguistics at University of Stuttgart, where I want to gain strong AI/NLP skills and be in a dense research environment My interests lie at the intersection of intelligent systems, human-machine interaction, embodied agents, and robotics, but I’m not strictly hardware-focused — I’m excited by the AI/interaction/design side of robotics rather than low-level control or embedded systems. I have three main doubts I want to clarify: 1) How strong and practically valuable is the Augsburg Informatik program’s robotics specialization? Is it high enough quality (curriculum, labs, projects, industry links) to prepare someone for actual robotics / intelligent systems work — both in industry and research? Are there real opportunities for projects, internships
 
-9h ago
+10h ago
 
 ---
 
@@ -66,7 +74,7 @@ Hi everyone, I’ve been admitted to two master’s programs in Germany and woul
 
 I am creating this thread to gather all fellow IEEE ICRA 2026 attendees(especially students) who have or will be applying for a Schengen visa. Other forms of discussions about Travel Grant, leisure, general plans, registration etc., are also encouraged.
 
-1h ago
+2h ago
 
 ---
 
@@ -74,19 +82,19 @@ I am creating this thread to gather all fellow IEEE ICRA 2026 attendees(especial
 
 From hardware to software, I see every day tons of new startups, mostly around AI. I'm not sure if it's just me that my Twitter algorithm but like every day someone appears with all kinds of products. Lately i see an abundance of data collection, AI schematic or PCB creators, AI ros configurators, etc.... Are the tech bros got tired of AI SaaS saturation and getting into robotics hoping to get an edge?
 
-17h ago
+18h ago
 
 ---
 
 **[Servo-driven ball screw linear actuators for a real-time 6-DOF Stewart platform (cross-post from r/AskEngineers)](https://www.reddit.com/r/robotics/comments/1r472vj/servodriven_ball_screw_linear_actuators_for_a/)**
 
-10h ago
+11h ago
 
 ---
 
 **[Are you a ROS user curious about copper-rs & the rust ecosystem? we made a book for you!](https://www.reddit.com/r/robotics/comments/1r44sm7/are_you_a_ros_user_curious_about_copperrs_the/)**
 
-12h ago
+13h ago
 
 ---
 
@@ -94,15 +102,7 @@ From hardware to software, I see every day tons of new startups, mostly around A
 
 Has anyone done this? Basically, I need to put a real world lab (I have RGB-D data and maps) into Isaac Sim somehow to create a labeled point cloud dataset for point cloud segmentation. Is there an existing way to do this that can structure the environment and label objects in the simulation world for automatic data collection?
 
-13h ago
-
----
-
-**[Best modern motors/BLDC/Servos for DIY Robotic actuation](https://www.reddit.com/r/robotics/comments/1r3wz8a/best_modern_motorsbldcservos_for_diy_robotic/)**
-
-Howdy! I am a robotic engineer who has dived deep into DIY QDD actuators, creating custom servos, and making humanoids/quadriped robots. I wanted to know if anyone has done broad market research in the best actuators or servos on the market? As of now, I see two options Smaller form factor: Servos that can do 35kg of torque, STS3215 are in this category larger form factor: integrated QDD actuators or DIY drone motors such as eagle power 90kv + 9:1 gearbox, or the GIM6010/8108 motors that get about 5-15 nM of torque. Im thinking that there must be a good middle ground option for control and robotic arms/manipulators/linkages between a small 6010 GIM bldc setup and a STS3215, but i dont see many.
-
-17h ago
+14h ago
 
 ---
 
@@ -122,21 +122,13 @@ BBC • 1d ago
 
 npj Robotics - A call for a performance-driven approach for soft robotics research
 
-Nature • 1d ago
+Nature • 2d ago
 
 ---
 
-**[How Addverb Is Building a Global Robotics Giant From Noida | Young Turks Reloaded](https://www.linkedin.com/posts/cnbc-tv18_how-addverb-is-building-a-global-robotics-activity-7428380229519392768-5zOP)**
+**[How A Chinese Engineer Became A Billionaire Making Robotic ‘Eyes’](https://www.forbes.com/sites/zinnialee/2026/02/12/how-a-chinese-engineer-became-a-billionaire-making-robotic-eyes/)**
 
-From a small Noida facility six years ago to exporting robots to 25 countries 🌍🤖
- 
-Inside Addverb’s largest mobile robotics factory, 900 engineers are building machines that now power warehouses and industries across India, the US, Europe, Australia and beyond. With capacity to manufacture 100,000 robots a year and a target of 50% India, 50% global revenue, this is a company betting big on “Made in India, for the world.”
- 
-Shereen Bhan gets an inside look at how a decade-old startup is scaling into a global automation player.
- 
-#YoungTurksReloaded #Addverb #Robotics #MakeInIndia #AI #Automation #IndianStartups
-
-LinkedIn • 1h ago
+Forbes • 1d ago
 
 ---
 
@@ -148,41 +140,11 @@ ChinaPower Project • 1d ago
 
 ---
 
-**[If robots take the auto jobs, who’s left with money to buy cars?](https://www.autonews.com/manufacturing/anc-humanoid-robots-threaten-auto-industry-jobs-0209/)**
-
-Larry Savage, a professor of labour studies at Brock University, says governments might need to step in to help protect jobs that are under the threat of automation.
-
-Automotive News • 2d ago
-
----
-
-**[People — and robots — in China are getting ready for grand Lunar New Year celebration](https://nypost.com/2026/02/13/world-news/people-and-robots-are-getting-ready-to-celebrate-the-lunar-new-year-in-china/)**
-
-For a second year in a row, one of the fairs will be devoted to technology and — yes, again — robots will take center stage.
-
-New York Post • 19h ago
-
----
-
 **[Robotics Centre Presents BAAZ Hybrid VTOL UAV](https://militarnyi.com/en/news/robotics-centre-baaz-hybrid-vtol-uav/)**
 
 At the Robotics Centre booth, a new hybrid drone called BAAZ was presented, combining the advantages of a multicopter and an airplane.This was reported to Militarnyi by a company representative […]
 
-Мілітарний • 19h ago
-
----
-
-**[How A Chinese Engineer Became A Billionaire Making Robotic ‘Eyes’](https://www.forbes.com/sites/zinnialee/2026/02/12/how-a-chinese-engineer-became-a-billionaire-making-robotic-eyes/)**
-
-Forbes • 1d ago
-
----
-
-**[Tesla is still a 'long way off' from functional humanoid robots](https://finance.yahoo.com/video/tesla-still-long-way-off-223500625.html)**
-
-Elon Musk has a tremendous vision for robotics and the mass adoption of this kind of technology. Gerber Kawasaki Wealth & Investment Management CEO Ross Gerber sits down with Josh Lipton to talk more about the Tesla (TSLA) and SpaceX (SPAX.PVT) CEO's plans for his Optimus humanoid robots and how the broader tech industry is reacting. To watch more expert insights and analysis on the latest market action, check out more&nbsp;Asking for a Trend.
-
-Yahoo Finance • 13h ago
+Мілітарний • 20h ago
 
 ---
 
@@ -190,7 +152,39 @@ Yahoo Finance • 13h ago
 
 The robot operates autonomously, without soldiers present in dangerous environments and without exposure to chemicals, oils, or extreme heat.
 
-The Jerusalem Post • 13h ago
+The Jerusalem Post • 14h ago
+
+---
+
+**[Elon Musk Bets On Humanoid Robots In 2026, But One Company Hopes 'Elon Time' Strikes Again](https://finance.yahoo.com/news/elon-musk-bets-humanoid-robots-153112171.html)**
+
+Elon Musk has repeatedly touted the Optimus humanoid robot as Tesla’s (NYSE:TSLA) most significant long-term value driver, suggesting it could eventually propel the company’s market cap to $25 trillion. Yet, prediction market odds suggest a humanoid robot in 2026 may be a little too optimistic. During Tesla's recent “We, Robot” event, Musk claimed the robots could perform everything from babysitting to mowing lawns, with a price tag between $20,000 and $30,000. But according to Kalshi, the human
+
+Yahoo Finance • 1d ago
+
+---
+
+**[Robots with human-inspired eyes have better vision](https://www.economist.com/science-and-technology/2026/02/11/robots-with-human-inspired-eyes-have-better-vision)**
+
+Their reaction times can even surpass their makers’
+
+The Economist • 2d ago
+
+---
+
+**[What to know about Chicago's delivery robots and the debate over them](https://chicago.suntimes.com/business/2026/delivery-robots-chicago-food-coco-robotics)**
+
+Some Chicago residents are fighting the deployment of robot delivery couriers. A petition started by a Lincoln Park resident has picked up over 3,400 signatures
+
+Chicago Sun-Times • 2d ago
+
+---
+
+**[GE Aerospace uses robots to fix jet engine blades, reduce repair delay](https://interestingengineering.com/ai-robotics/ge-aerospace-robots-jet-engine-repair)**
+
+GE Aerospace is teaching robots to repair jet engine blades as global maintenance backlogs stretch into months.
+
+Interesting Engineering • 1d ago
 
 ---
 
@@ -204,7 +198,7 @@ Foundation Future Industries CEO Sankaet Pathak discusses the rise of humanoid r
 
 📺 Fox Business Clips
 
-👁️ 176K • 👍 4K • 💬 2K • ⏱️ 9:47 • 20h ago
+👁️ 176K • 👍 4K • 💬 2K • ⏱️ 9:47 • 21h ago
 
 ---
 
@@ -242,7 +236,7 @@ Can a little Pi-powered bot teach my kids? The Reachy Mini Wireless I used was p
 
 📺 Jeff Geerling
 
-👁️ 60K • 👍 3K • 💬 224 • ⏱️ 12:38 • 20h ago
+👁️ 60K • 👍 3K • 💬 224 • ⏱️ 12:38 • 21h ago
 
 ---
 
@@ -252,7 +246,7 @@ PART 3: I was held prisoner by E.L.B.E.R.R the robot and forced to build him an 
 
 📺 LIGHTS ARE OFF
 
-👁️ 14K • 👍 8K • 💬 1K • ⏱️ 10:32 • 2h ago
+👁️ 14K • 👍 8K • 💬 1K • ⏱️ 10:32 • 3h ago
 
 ---
 
@@ -292,7 +286,7 @@ Humanoid robots are pushing physical limits — with real-time balance control, 
 
 📺 Facts TV 91
 
-👁️ 21K • 👍 177 • 💬 10 • ⏱️ 0:06 • 10h ago
+👁️ 21K • 👍 177 • 💬 10 • ⏱️ 0:06 • 11h ago
 
 ---
 
