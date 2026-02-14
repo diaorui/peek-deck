@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-02-14T09:32:21.375205+00:00'
+updated: '2026-02-14T10:28:55.545263+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- social
-- news
 - videos
+- news
+- social
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** February 14, 2026 at 09:32 UTC  
+**Last Updated:** February 14, 2026 at 10:28 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -34,23 +34,7 @@ Robotics research and industry news
 
 **[My grandmother has seen a little too much Winter Olympics](https://www.reddit.com/r/robotics/comments/1r4316q/my_grandmother_has_seen_a_little_too_much_winter/)**
 
-11h ago
-
----
-
-**[Finally got my robot to walk !!](https://www.reddit.com/r/robotics/comments/1r3pnoh/finally_got_my_robot_to_walk/)**
-
-I posted a video a couple of days ago on r/esp32 showing my Open-Source robot dance, and some people wanted to see it walk ... here you go ! Got a complete walking gate & added remote control :) Everything runs on the ESP32-S3 ! What do you think ?
-
-19h ago
-
----
-
-**[Comparing Augsburg Informatik (Robotics Track) vs Stuttgart Computational Linguistics — Need Real-World Insights](https://www.reddit.com/r/robotics/comments/1r48xox/comparing_augsburg_informatik_robotics_track_vs/)**
-
-Hi everyone, I’ve been admitted to two master’s programs in Germany and would really appreciate experiences and insights from people who know these fields or universities. I’m currently deciding between: • M.Sc. Computer Science (Informatik) at University of Augsburg, with an interest in robotics/interaction systems • M.Sc. Computational Linguistics at University of Stuttgart, where I want to gain strong AI/NLP skills and be in a dense research environment My interests lie at the intersection of intelligent systems, human-machine interaction, embodied agents, and robotics, but I’m not strictly hardware-focused — I’m excited by the AI/interaction/design side of robotics rather than low-level control or embedded systems. I have three main doubts I want to clarify: 1) How strong and practically valuable is the Augsburg Informatik program’s robotics specialization? Is it high enough quality (curriculum, labs, projects, industry links) to prepare someone for actual robotics / intelligent systems work — both in industry and research? Are there real opportunities for projects, internships
-
-6h ago
+12h ago
 
 ---
 
@@ -58,7 +42,31 @@ Hi everyone, I’ve been admitted to two master’s programs in Germany and woul
 
 Hello guys, I upgraded my first flight controller based on some errors I faced in my previous build and here is my V2 with more advanced features and future expansions for fixed wing drones or FPV drones. MCU STM32F405RGT6 Interfaces & IO ADC input for battery voltage measurement 8× PWM outputs 1× UART for radio 1x Barometer (BMP280) 1x Accelerometer (ICM-42688-PC) => BetaFlight compatible 1× UART for GPS 1x CAN bus expansion 1x SPI expansion 4× GPIOs SWD interface USB-C interface SD card slot for logging Notes Supports up to 12v input voltage Custom-designed PCB Hardware only All Fab Files included (Gerber/BOM/CPL/Schematic/PCB layout/PCB routing/and all settings)
 
-1h ago
+2h ago
+
+---
+
+**[Finally got my robot to walk !!](https://www.reddit.com/r/robotics/comments/1r3pnoh/finally_got_my_robot_to_walk/)**
+
+I posted a video a couple of days ago on r/esp32 showing my Open-Source robot dance, and some people wanted to see it walk ... here you go ! Got a complete walking gate & added remote control :) Everything runs on the ESP32-S3 ! What do you think ?
+
+20h ago
+
+---
+
+**[Comparing Augsburg Informatik (Robotics Track) vs Stuttgart Computational Linguistics — Need Real-World Insights](https://www.reddit.com/r/robotics/comments/1r48xox/comparing_augsburg_informatik_robotics_track_vs/)**
+
+Hi everyone, I’ve been admitted to two master’s programs in Germany and would really appreciate experiences and insights from people who know these fields or universities. I’m currently deciding between: • M.Sc. Computer Science (Informatik) at University of Augsburg, with an interest in robotics/interaction systems • M.Sc. Computational Linguistics at University of Stuttgart, where I want to gain strong AI/NLP skills and be in a dense research environment My interests lie at the intersection of intelligent systems, human-machine interaction, embodied agents, and robotics, but I’m not strictly hardware-focused — I’m excited by the AI/interaction/design side of robotics rather than low-level control or embedded systems. I have three main doubts I want to clarify: 1) How strong and practically valuable is the Augsburg Informatik program’s robotics specialization? Is it high enough quality (curriculum, labs, projects, industry links) to prepare someone for actual robotics / intelligent systems work — both in industry and research? Are there real opportunities for projects, internships
+
+7h ago
+
+---
+
+**[IEEE ICRA 2026 Travel Discussion Thread (Visa and related)](https://www.reddit.com/r/robotics/comments/1r4gy5w/ieee_icra_2026_travel_discussion_thread_visa_and/)**
+
+I am creating this thread to gather all fellow IEEE ICRA 2026 attendees(especially students) who have or will be applying for a Schengen visa. Other forms of discussions about Travel Grant, leisure, general plans, registration etc., are also encouraged.
+
+25m ago
 
 ---
 
@@ -66,19 +74,19 @@ Hello guys, I upgraded my first flight controller based on some errors I faced i
 
 From hardware to software, I see every day tons of new startups, mostly around AI. I'm not sure if it's just me that my Twitter algorithm but like every day someone appears with all kinds of products. Lately i see an abundance of data collection, AI schematic or PCB creators, AI ros configurators, etc.... Are the tech bros got tired of AI SaaS saturation and getting into robotics hoping to get an edge?
 
-15h ago
+16h ago
 
 ---
 
 **[Servo-driven ball screw linear actuators for a real-time 6-DOF Stewart platform (cross-post from r/AskEngineers)](https://www.reddit.com/r/robotics/comments/1r472vj/servodriven_ball_screw_linear_actuators_for_a/)**
 
-8h ago
+9h ago
 
 ---
 
 **[Are you a ROS user curious about copper-rs & the rust ecosystem? we made a book for you!](https://www.reddit.com/r/robotics/comments/1r44sm7/are_you_a_ros_user_curious_about_copperrs_the/)**
 
-9h ago
+10h ago
 
 ---
 
@@ -86,7 +94,7 @@ From hardware to software, I see every day tons of new startups, mostly around A
 
 Has anyone done this? Basically, I need to put a real world lab (I have RGB-D data and maps) into Isaac Sim somehow to create a labeled point cloud dataset for point cloud segmentation. Is there an existing way to do this that can structure the environment and label objects in the simulation world for automatic data collection?
 
-11h ago
+12h ago
 
 ---
 
@@ -94,15 +102,7 @@ Has anyone done this? Basically, I need to put a real world lab (I have RGB-D da
 
 Howdy! I am a robotic engineer who has dived deep into DIY QDD actuators, creating custom servos, and making humanoids/quadriped robots. I wanted to know if anyone has done broad market research in the best actuators or servos on the market? As of now, I see two options Smaller form factor: Servos that can do 35kg of torque, STS3215 are in this category larger form factor: integrated QDD actuators or DIY drone motors such as eagle power 90kv + 9:1 gearbox, or the GIM6010/8108 motors that get about 5-15 nM of torque. Im thinking that there must be a good middle ground option for control and robotic arms/manipulators/linkages between a small 6010 GIM bldc setup and a STS3215, but i dont see many.
 
-15h ago
-
----
-
-**[Connect Raspberry Pi to GEPRC Taker F745](https://www.reddit.com/r/robotics/comments/1r3trsr/connect_raspberry_pi_to_geprc_taker_f745/)**
-
-Hi I have an FPV drone that i want to control using a Raspberry Pi. For this i want to connect the RPi to the Flight controller and use it as a companion computer. I am using a GEPRC TAKER F745 currently on a BetaFlight firmware. Any suggestions on how i can connect them or what firmware (Ardupilot/PX4) i can use with ROS2 on the RPi.
-
-17h ago
+16h ago
 
 ---
 
@@ -110,27 +110,11 @@ Hi I have an FPV drone that i want to control using a Raspberry Pi. For this i w
 
 ## Google News: "robotics"
 
-**[Is China Leading the Robotics Revolution?](https://chinapower.csis.org/china-industrial-robots/)**
-
-This ChinaPower feature examines China's push to lead the world in robotics and the geopolitical implications.
-
-ChinaPower Project • 1d ago
-
----
-
 **[Get a grip: Robotics firms struggle to develop hands](https://www.bbc.com/news/articles/cg7y45kxvp9o)**
 
 Developing a durable and affordable hand is one of the biggest challenges in robotics.
 
 BBC • 1d ago
-
----
-
-**[If robots take the auto jobs, who’s left with money to buy cars?](https://www.autonews.com/manufacturing/anc-humanoid-robots-threaten-auto-industry-jobs-0209/)**
-
-Larry Savage, a professor of labour studies at Brock University, says governments might need to step in to help protect jobs that are under the threat of automation.
-
-Automotive News • 1d ago
 
 ---
 
@@ -142,11 +126,49 @@ Nature • 1d ago
 
 ---
 
+**[How Addverb Is Building a Global Robotics Giant From Noida | Young Turks Reloaded](https://www.linkedin.com/posts/cnbc-tv18_how-addverb-is-building-a-global-robotics-activity-7428380229519392768-5zOP)**
+
+From a small Noida facility six years ago to exporting robots to 25 countries 🌍🤖
+ 
+Inside Addverb’s largest mobile robotics factory, 900 engineers are building machines that now power warehouses and industries across India, the US, Europe, Australia and beyond. With capacity to manufacture 100,000 robots a year and a target of 50% India, 50% global revenue, this is a company betting big on “Made in India, for the world.”
+ 
+Shereen Bhan gets an inside look at how a decade-old startup is scaling into a global automation player.
+ 
+#YoungTurksReloaded #Addverb #Robotics #MakeInIndia #AI #Automation #IndianStartups
+
+LinkedIn • 17m ago
+
+---
+
 **[China has another solution to its shrinking population: robots](https://www.cnn.com/2026/02/13/china/china-population-robots-intl-hnk-dst)**
 
 China’s birth rate has hit a historic low – deepening fears of a major economic shock in the decades to come as the country’s massive labor force dwindles and its population of pension-drawing retirees swells.
 
-CNN • 5h ago
+CNN • 6h ago
+
+---
+
+**[Is China Leading the Robotics Revolution?](https://chinapower.csis.org/china-industrial-robots/)**
+
+This ChinaPower feature examines China's push to lead the world in robotics and the geopolitical implications.
+
+ChinaPower Project • 1d ago
+
+---
+
+**[If robots take the auto jobs, who’s left with money to buy cars?](https://www.autonews.com/manufacturing/anc-humanoid-robots-threaten-auto-industry-jobs-0209/)**
+
+Larry Savage, a professor of labour studies at Brock University, says governments might need to step in to help protect jobs that are under the threat of automation.
+
+Automotive News • 1d ago
+
+---
+
+**[People — and robots — in China are getting ready for grand Lunar New Year celebration](https://nypost.com/2026/02/13/world-news/people-and-robots-are-getting-ready-to-celebrate-the-lunar-new-year-in-china/)**
+
+For a second year in a row, one of the fairs will be devoted to technology and — yes, again — robots will take center stage.
+
+New York Post • 18h ago
 
 ---
 
@@ -154,7 +176,7 @@ CNN • 5h ago
 
 At the Robotics Centre booth, a new hybrid drone called BAAZ was presented, combining the advantages of a multicopter and an airplane.This was reported to Militarnyi by a company representative […]
 
-Мілітарний • 17h ago
+Мілітарний • 18h ago
 
 ---
 
@@ -168,23 +190,7 @@ Forbes • 1d ago
 
 Elon Musk has a tremendous vision for robotics and the mass adoption of this kind of technology. Gerber Kawasaki Wealth & Investment Management CEO Ross Gerber sits down with Josh Lipton to talk more about the Tesla (TSLA) and SpaceX (SPAX.PVT) CEO's plans for his Optimus humanoid robots and how the broader tech industry is reacting. To watch more expert insights and analysis on the latest market action, check out more&nbsp;Asking for a Trend.
 
-Yahoo Finance • 10h ago
-
----
-
-**[Robots with human-inspired eyes have better vision](https://www.economist.com/science-and-technology/2026/02/11/robots-with-human-inspired-eyes-have-better-vision)**
-
-Their reaction times can even surpass their makers’
-
-The Economist • 2d ago
-
----
-
-**[IDF's new mechanical AI robot cleans tanks without soldiers](https://www.jpost.com/israel-news/defense-news/article-886585)**
-
-The robot operates autonomously, without soldiers present in dangerous environments and without exposure to chemicals, oils, or extreme heat.
-
-The Jerusalem Post • 11h ago
+Yahoo Finance • 11h ago
 
 ---
 
@@ -208,7 +214,7 @@ Foundation Future Industries CEO Sankaet Pathak discusses the rise of humanoid r
 
 📺 Fox Business Clips
 
-👁️ 171K • 👍 4K • 💬 2K • ⏱️ 9:47 • 18h ago
+👁️ 171K • 👍 4K • 💬 2K • ⏱️ 9:47 • 19h ago
 
 ---
 
@@ -218,7 +224,7 @@ Based on Unitree's UnifoLM-X1-0 embodied AI model, this is an actual deployment 
 
 📺 Unitree Robotics
 
-👁️ 22K • 👍 684 • 💬 107 • ⏱️ 0:45 • 23h ago
+👁️ 22K • 👍 684 • 💬 107 • ⏱️ 0:45 • 1d ago
 
 ---
 
@@ -246,7 +252,7 @@ Can a little Pi-powered bot teach my kids? The Reachy Mini Wireless I used was p
 
 📺 Jeff Geerling
 
-👁️ 57K • 👍 3K • 💬 220 • ⏱️ 12:38 • 18h ago
+👁️ 57K • 👍 3K • 💬 220 • ⏱️ 12:38 • 19h ago
 
 ---
 
