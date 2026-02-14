@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-02-14T22:25:31.995025+00:00'
+updated: '2026-02-14T22:51:08.764272+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- cryptocurrency
+- news
 - social
 - videos
-- news
+- cryptocurrency
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** February 14, 2026 at 22:25 UTC  
+**Last Updated:** February 14, 2026 at 22:51 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -88,7 +88,7 @@ Recently I have been starting to worry about the state of prediction markets, in
 
 Posted by Jacob Czepluch on February 10, 2026
 
-🔗 [Solidity Programming Language](https://www.soliditylang.org/blog/2026/02/10/solidity-developer-survey-2025-announcement/) • 41m ago
+🔗 [Solidity Programming Language](https://www.soliditylang.org/blog/2026/02/10/solidity-developer-survey-2025-announcement/) • 1h ago
 
 ---
 
@@ -188,7 +188,7 @@ dlnews.com • 2h ago
 
 Trump Media and Technology Group filed for more crypto exchange-traded funds.  One will track CRO’s performance; the other will give Bitcoin and Ethereum exposure.  President Trump has a long-list of crypto ventures.
 
-dlnews.com • 6m ago
+dlnews.com • 32m ago
 
 ---
 
@@ -220,7 +220,7 @@ CoinDesk • 1d ago
 
 Ethereum continues to struggle below the $2,000 level, reflecting persistent selling pressure and increasingly fragile market sentiment. The inability to reclaim this psychological threshold has kept traders defensive, with volatility elevated and confidence weakened as negative sentiment spreads a…
 
-TradingView • 23h ago
+TradingView • 1d ago
 
 ---
 
@@ -254,7 +254,7 @@ This video provides a professional Elliott Wave and technical analysis of Ethere
 
 📺 More Crypto Online
 
-👁️ 2K • 👍 142 • 💬 3 • ⏱️ 4:28 • 8h ago
+👁️ 2K • 👍 142 • 💬 3 • ⏱️ 4:28 • 9h ago
 
 ---
 
@@ -314,7 +314,7 @@ ETHEREUM ETH PRICE PREDICTION 2026 Join the Premium Signal Group for trade setup
 
 📺 Cilinix Crypto
 
-👁️ 230 • 👍 15 • 💬 1 • ⏱️ 4:46 • 11h ago
+👁️ 230 • 👍 15 • 💬 1 • ⏱️ 4:46 • 12h ago
 
 ---
 

@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-02-14T22:25:31.989016+00:00'
+updated: '2026-02-14T22:51:08.759209+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- cryptocurrency
+- news
 - social
 - videos
-- news
+- cryptocurrency
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** February 14, 2026 at 22:25 UTC  
+**Last Updated:** February 14, 2026 at 22:51 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -81,7 +81,7 @@ Rank #1
 
 It would be a shame if 60K was the floor and now the price rises, leaving all those people stuck watching it climb 😏 It's the same in every cycle, many people stay out of it because they want to buy at the lowest possible price. Let's see what happens this time
 
-2h ago
+3h ago
 
 ---
 
@@ -111,7 +111,7 @@ The US started a strategic reserve. UAE's stacking. China's realizing dollars ca
 
 Does anyone else have the feeling it will go back above 100k sooner than people expect? Everyone is talking about "the cycle is over" but what the crowd say will happen never happens, usually the opposite.. I'm not saying go all in but atleast if you're shorting, be very careful cause this can rocket in a brutal way Have a nice weekend everyone
 
-13h ago
+14h ago
 
 ---
 
@@ -127,7 +127,7 @@ I’m 14 and just started learning about Bitcoin and saving in general. I began 
 
 hoping to atleast get to 0.25 during this dip. I dont believe we are in a crypto winter yet.
 
-20h ago
+21h ago
 
 ---
 
@@ -193,7 +193,7 @@ dlnews.com • 2h ago
 
 Small-time criminals are abducting the relatives of wealthy traders and demanding seven-figure ransoms — but why is it so common here?
 
-The Times • 25m ago
+The Times • 51m ago
 
 ---
 
@@ -201,7 +201,7 @@ The Times • 25m ago
 
 Trump Media and Technology Group filed for more crypto exchange-traded funds.  One will track CRO’s performance; the other will give Bitcoin and Ethereum exposure.  President Trump has a long-list of crypto ventures.
 
-dlnews.com • 6m ago
+dlnews.com • 32m ago
 
 ---
 
@@ -285,7 +285,7 @@ The move triggered a sharp selloff on the Bithumb exchange. The company apologiz
 
 Track billions in lost Bitcoin. Explore case studies, check dormant wallets, calculate your losses, and protect your Bitcoin inheritance.
 
-⬆️ 2 • 💬 3 • 16m ago • [BTC Graveyard](https://btcgraveyard.com/)
+⬆️ 2 • 💬 3 • 41m ago • [BTC Graveyard](https://btcgraveyard.com/)
 
 ---
 
