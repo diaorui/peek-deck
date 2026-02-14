@@ -3,14 +3,14 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-02-14T05:30:12.252646+00:00'
+updated: '2026-02-14T06:07:28.889917+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
 - cryptocurrency
-- news
 - social
+- news
 - videos
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** February 14, 2026 at 05:30 UTC  
+**Last Updated:** February 14, 2026 at 06:07 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -70,7 +70,7 @@ No max supply
 
 **[Tomasz stepping down from co-ED role at the EF at the end of February 2026 | Ethereum Foundation Blog](https://www.reddit.com/r/ethereum/comments/1r3zdo5/tomasz_stepping_down_from_coed_role_at_the_ef_at/)**
 
-🔗 [Ethereum Foundation Blog](https://blog.ethereum.org/2026/02/13/tomasz-update) • 9h ago
+🔗 [Ethereum Foundation Blog](https://blog.ethereum.org/2026/02/13/tomasz-update) • 10h ago
 
 ---
 
@@ -78,7 +78,7 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-23h ago
+1d ago
 
 ---
 
@@ -94,7 +94,7 @@ Enjoy the videos and music you love, upload original content, and share it all w
 
 BlackRock BUIDL tradeable via UniswapX, ENS staying on mainnet, Solidity developer survey
 
-🔗 [Ethereal news](https://ethereal.news/ethereal-news-weekly-11/) • 16h ago
+🔗 [Ethereal news](https://ethereal.news/ethereal-news-weekly-11/) • 17h ago
 
 ---
 
@@ -124,7 +124,7 @@ ACDE #230 saw Ethereum core developers focus on Glamsterdam Devnet performance, 
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-1d ago
+2d ago
 
 ---
 
@@ -182,7 +182,7 @@ CoinDesk • 14h ago
 
 Blackrock’s Bitmine share holdings jumped 166% in the fourth-quarter of 2025.  CEO Larry Fink is bullish on tokenisation with the company citing Ethereum as the big winner.
 
-dlnews.com • 19h ago
+dlnews.com • 20h ago
 
 ---
 
@@ -190,7 +190,7 @@ dlnews.com • 19h ago
 
 The world's second-largest cryptocurrency is up more than 7% today.
 
-The Motley Fool • 7h ago
+The Motley Fool • 8h ago
 
 ---
 
@@ -204,7 +204,7 @@ TradingView • 1d ago
 
 **[Ethereum Price Braces for Impact as Standard Chartered Predicts a $1,400 Bottom](https://www.tipranks.com/news/ethereum-price-braces-for-impact-as-standard-chartered-predicts-a-1400-bottom)**
 
-TipRanks • 14h ago
+TipRanks • 15h ago
 
 ---
 
@@ -212,7 +212,7 @@ TipRanks • 14h ago
 
 BlackRock, the world’s largest asset manager, looks set to offload more Bitcoin and Ethereum, following the outflows from its crypto ETFs yesterday. This move comes ahead of another potential partial U.S. government shutdown that could begin tomorrow as today’s deadline looms. BlackRock Moves $257M In BTC And ETH To Coinbase Arkham data shows that the
 
-Yahoo Finance • 16h ago
+Yahoo Finance • 17h ago
 
 ---
 
@@ -220,7 +220,7 @@ Yahoo Finance • 16h ago
 
 The cryptocurrency market is showing signs of rallying again, with major assets including Bitcoin and Ethereum posting gains as improving macroeconomic
 
-Coinpedia • 13h ago
+Coinpedia • 14h ago
 
 ---
 
@@ -254,7 +254,7 @@ This video provides a professional Elliott Wave and technical analysis of Ethere
 
 📺 More Crypto Online
 
-👁️ 357 • 👍 49 • 💬 3 • ⏱️ 4:31 • 2h ago
+👁️ 357 • 👍 49 • 💬 3 • ⏱️ 4:31 • 3h ago
 
 ---
 
@@ -274,7 +274,7 @@ This video provides a professional Elliott Wave and technical analysis of Ethere
 
 📺 More Crypto Online
 
-👁️ 3K • 👍 169 • 💬 18 • ⏱️ 3:30 • 13h ago
+👁️ 3K • 👍 169 • 💬 18 • ⏱️ 3:30 • 14h ago
 
 ---
 
@@ -304,7 +304,7 @@ Get $450 Off Our New AI Indicators: https://tradeconfidentportal.io/indicators/.
 
 📺 Trade Confident
 
-👁️ 224 • 👍 12 • 💬 3 • ⏱️ 6:02 • 9h ago
+👁️ 224 • 👍 12 • 💬 3 • ⏱️ 6:02 • 10h ago
 
 ---
 

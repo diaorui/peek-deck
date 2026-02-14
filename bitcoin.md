@@ -3,14 +3,14 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-02-14T05:30:12.246722+00:00'
+updated: '2026-02-14T06:07:28.883860+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
 - cryptocurrency
-- news
 - social
+- news
 - videos
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** February 14, 2026 at 05:30 UTC  
+**Last Updated:** February 14, 2026 at 06:07 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -79,7 +79,7 @@ Rank #1
 
 **[2025 vs 2026](https://www.reddit.com/r/Bitcoin/comments/1r40elq/2025_vs_2026/)**
 
-8h ago
+9h ago
 
 ---
 
@@ -87,7 +87,7 @@ Rank #1
 
 hoping to atleast get to 0.25 during this dip. I dont believe we are in a crypto winter yet.
 
-3h ago
+4h ago
 
 ---
 
@@ -95,13 +95,13 @@ hoping to atleast get to 0.25 during this dip. I dont believe we are in a crypto
 
 Had to drop nearly 10k in medical bills... sure enough BTC tanks and as soon as I think im fine to buy a couple hundred... BOOM it either sky rockets or another random medical bill pops up worth a couple hundred and then BTC tanks... So I guess your welcome? And I'm sorry.
 
-9h ago
+10h ago
 
 ---
 
 **[Guess Whos Back, Back Again](https://www.reddit.com/r/Bitcoin/comments/1r3uia4/guess_whos_back_back_again/)**
 
-12h ago
+13h ago
 
 ---
 
@@ -117,7 +117,7 @@ like we was just vibing near 100k, everybody loud, posting rockets, acting rich 
 
 Like minnows in the ocean, or more like… plankton Motivating seeing everyone’s big buys and sometimes hard to see what everyone else is moving and sticking to putting in what won’t ruin me if I lose! Been DCAing since £57k and have bigger orders set at £45k,50,55 etc. maybe I’ll be a wholecoiner in 500 years! Hah
 
-19h ago
+20h ago
 
 ---
 
@@ -149,7 +149,7 @@ Remember fellas, that as we stack for our families and our futures, you can’t 
 
 After everything that happened with FTX, I’ve been thinking a lot more about centralized exchanges, especially Binance. Not trying to spread FUD here, just genuinely curious and trying to understand the risks better. Is a Binance bankruptcy even a realistic thing to worry about, or were the problems at FTX very specific to how that exchange was run? How much do things like proof of reserves, how user funds are held, regulation, and transparency actually matter in preventing something like that from happening again? For anyone who still keeps funds on exchanges, how do you personally think about the risk now compared to before the FTX collapse?
 
-7h ago
+8h ago
 
 ---
 
@@ -167,7 +167,7 @@ Bloomberg • 1d ago
 
 Bitcoin price did not just dip. It reacted to something way bigger.The U.S. government revised last year’s job numbers down by nearly 900,000 positions.Markets hate one thing more than bad news. They hate unreliable data and uncertainty. This update from the Bureau of Labor Statistics just shook confidence hard. January ...
 
-Yahoo Finance • 16h ago
+Yahoo Finance • 17h ago
 
 ---
 
@@ -183,13 +183,13 @@ CNBC • 1d ago
 
 Anyone interested in this top digital asset must take the time to gain a better understanding.
 
-The Motley Fool • 2h ago
+The Motley Fool • 3h ago
 
 ---
 
 **[Crypto wallet in Nancy Guthrie note is traceable: Blockchain analyst](https://www.newsnationnow.com/crime/crypto-wallet-nancy-guthrie/)**
 
-NewsNation • 1d ago
+NewsNation • 2d ago
 
 ---
 
@@ -217,7 +217,7 @@ Barron's • 17h ago
 
 Bitcoin biopic 'Killing Satoshi' starring Pete Davidson plans to use all-AI locations and AI adjustments for  performances rather than reshoots.
 
-Variety • 12h ago
+Variety • 13h ago
 
 ---
 
@@ -303,7 +303,7 @@ What do Bitcoin miners actually do? An interactive exploration of hashing, diffi
 
 Explore everything you can do as a lightning app builder using Alby - getAlby/sandbox
 
-⬆️ 2 • 💬 1 • 15h ago • [GitHub](https://github.com/getAlby/sandbox)
+⬆️ 2 • 💬 1 • 16h ago • [GitHub](https://github.com/getAlby/sandbox)
 
 ---
 
@@ -317,7 +317,7 @@ Dan Ives is the Global Head of Technology Research at Wedbush Securities and one
 
 📺 Anthony Pompliano
 
-👁️ 17K • 👍 816 • ⏱️ 21:49 • 7h ago
+👁️ 17K • 👍 816 • ⏱️ 21:49 • 8h ago
 
 ---
 
@@ -337,7 +337,7 @@ A MAJOR MOVEMENT IS AROUND THE CORNER! Are you ready? Sign Up For Phemex and Ear
 
 📺 Crypto Jebb
 
-👁️ 6K • 👍 376 • 💬 88 • ⏱️ 17:23 • 10h ago
+👁️ 6K • 👍 376 • 💬 88 • ⏱️ 17:23 • 11h ago
 
 ---
 
@@ -377,7 +377,7 @@ Is the stock market topping out? Master technical analyst Gareth Soloway breaks 
 
 📺 Financial Funda
 
-👁️ 4K • 👍 152 • 💬 47 • ⏱️ 2:23 • 16h ago
+👁️ 4K • 👍 152 • 💬 47 • ⏱️ 2:23 • 17h ago
 
 ---
 
@@ -387,7 +387,7 @@ Into The Cryptoverse Premium: https://intothecryptoverse.com Into The Cryptovers
 
 📺 Benjamin Cowen
 
-👁️ 27K • 👍 463 • 💬 26 • ⏱️ 0:57 • 12h ago
+👁️ 27K • 👍 463 • 💬 26 • ⏱️ 0:57 • 13h ago
 
 ---
 
@@ -397,7 +397,7 @@ Bitcoin #Crypto #Finance Bitcoin sentiment is starting to crack as capital flows
 
 📺 The Wolf Of All Streets
 
-👁️ 13K • 👍 773 • 💬 226 • ⏱️ 28:01 • 14h ago
+👁️ 13K • 👍 773 • 💬 226 • ⏱️ 28:01 • 15h ago
 
 ---
 

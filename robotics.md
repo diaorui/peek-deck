@@ -3,13 +3,13 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-02-14T05:30:12.255804+00:00'
+updated: '2026-02-14T06:07:28.893141+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- news
 - social
+- news
 - videos
 ---
 
@@ -17,7 +17,7 @@ data_types:
 
 Robotics research and industry news
 
-**Last Updated:** February 14, 2026 at 05:30 UTC  
+**Last Updated:** February 14, 2026 at 06:07 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -42,7 +42,7 @@ Robotics research and industry news
 
 I posted a video a couple of days ago on r/esp32 showing my Open-Source robot dance, and some people wanted to see it walk ... here you go ! Got a complete walking gate & added remote control :) Everything runs on the ESP32-S3 ! What do you think ?
 
-15h ago
+16h ago
 
 ---
 
@@ -50,7 +50,7 @@ I posted a video a couple of days ago on r/esp32 showing my Open-Source robot da
 
 2 and a half months later I did it. It balances fairly well, it can find its perfect balance angle. It can handle small pushes. Big pushes crash it. It’s not perfect. Do I consider this a success? What do you think, i had no previous experience in building robots, I just had money to make this and the desire to create it. Now I ran out of money lol. https://reddit.com/link/1r450hs/video/nm5840l8mcjg1/player
 
-5h ago
+6h ago
 
 ---
 
@@ -58,7 +58,7 @@ I posted a video a couple of days ago on r/esp32 showing my Open-Source robot da
 
 Hi everyone, I’ve been admitted to two master’s programs in Germany and would really appreciate experiences and insights from people who know these fields or universities. I’m currently deciding between: • M.Sc. Computer Science (Informatik) at University of Augsburg, with an interest in robotics/interaction systems • M.Sc. Computational Linguistics at University of Stuttgart, where I want to gain strong AI/NLP skills and be in a dense research environment My interests lie at the intersection of intelligent systems, human-machine interaction, embodied agents, and robotics, but I’m not strictly hardware-focused — I’m excited by the AI/interaction/design side of robotics rather than low-level control or embedded systems. I have three main doubts I want to clarify: 1) How strong and practically valuable is the Augsburg Informatik program’s robotics specialization? Is it high enough quality (curriculum, labs, projects, industry links) to prepare someone for actual robotics / intelligent systems work — both in industry and research? Are there real opportunities for projects, internships
 
-2h ago
+3h ago
 
 ---
 
@@ -66,7 +66,7 @@ Hi everyone, I’ve been admitted to two master’s programs in Germany and woul
 
 From hardware to software, I see every day tons of new startups, mostly around AI. I'm not sure if it's just me that my Twitter algorithm but like every day someone appears with all kinds of products. Lately i see an abundance of data collection, AI schematic or PCB creators, AI ros configurators, etc.... Are the tech bros got tired of AI SaaS saturation and getting into robotics hoping to get an edge?
 
-11h ago
+12h ago
 
 ---
 
@@ -78,7 +78,7 @@ From hardware to software, I see every day tons of new startups, mostly around A
 
 **[Are you a ROS user curious about copper-rs & the rust ecosystem? we made a book for you!](https://www.reddit.com/r/robotics/comments/1r44sm7/are_you_a_ros_user_curious_about_copperrs_the/)**
 
-5h ago
+6h ago
 
 ---
 
@@ -146,7 +146,7 @@ Nature • 1d ago
 
 China’s birth rate has hit a historic low – deepening fears of a major economic shock in the decades to come as the country’s massive labor force dwindles and its population of pension-drawing retirees swells.
 
-CNN • 1h ago
+CNN • 2h ago
 
 ---
 
@@ -168,7 +168,7 @@ The Economist • 2d ago
 
 The robot operates autonomously, without soldiers present in dangerous environments and without exposure to chemicals, oils, or extreme heat.
 
-The Jerusalem Post • 7h ago
+The Jerusalem Post • 8h ago
 
 ---
 
@@ -176,7 +176,7 @@ The Jerusalem Post • 7h ago
 
 Elon Musk has a tremendous vision for robotics and the mass adoption of this kind of technology. Gerber Kawasaki Wealth & Investment Management CEO Ross Gerber sits down with Josh Lipton to talk more about the Tesla (TSLA) and SpaceX (SPAX.PVT) CEO's plans for his Optimus humanoid robots and how the broader tech industry is reacting. To watch more expert insights and analysis on the latest market action, check out more&nbsp;Asking for a Trend.
 
-Yahoo Finance • 6h ago
+Yahoo Finance • 7h ago
 
 ---
 
@@ -184,7 +184,7 @@ Yahoo Finance • 6h ago
 
 GE Aerospace is teaching robots to repair jet engine blades as global maintenance backlogs stretch into months.
 
-Interesting Engineering • 21h ago
+Interesting Engineering • 22h ago
 
 ---
 
@@ -208,7 +208,7 @@ Foundation Future Industries CEO Sankaet Pathak discusses the rise of humanoid r
 
 📺 Fox Business Clips
 
-👁️ 151K • 👍 4K • 💬 2K • ⏱️ 9:47 • 14h ago
+👁️ 151K • 👍 4K • 💬 2K • ⏱️ 9:47 • 15h ago
 
 ---
 
@@ -226,7 +226,7 @@ Can a little Pi-powered bot teach my kids? The Reachy Mini Wireless I used was p
 
 📺 Jeff Geerling
 
-👁️ 48K • 👍 3K • 💬 207 • ⏱️ 12:38 • 14h ago
+👁️ 48K • 👍 3K • 💬 207 • ⏱️ 12:38 • 15h ago
 
 ---
 
@@ -286,7 +286,7 @@ Humanoid robots are pushing physical limits — with real-time balance control, 
 
 📺 Facts TV 91
 
-👁️ 12K • 👍 105 • 💬 9 • ⏱️ 0:06 • 3h ago
+👁️ 12K • 👍 105 • 💬 9 • ⏱️ 0:06 • 4h ago
 
 ---
 
