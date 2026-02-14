@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-02-14T19:45:43.197919+00:00'
+updated: '2026-02-14T20:28:09.952430+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- videos
-- news
 - social
 - repositories
+- news
+- videos
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** February 14, 2026 at 19:45 UTC  
+**Last Updated:** February 14, 2026 at 20:28 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -49,7 +49,7 @@ The U.S. military used Anthropic's Claude AI model during the operation to captu
 
 Mustafa Suleyman believes current AI computational power will only accelerate, disrupting every kind of work you do “sitting down at a computer.”
 
-🔗 [Fortune](https://fortune.com/2026/02/13/when-will-ai-kill-white-collar-office-jobs-18-months-microsoft-mustafa-suleyman/) • 3h ago
+🔗 [Fortune](https://fortune.com/2026/02/13/when-will-ai-kill-white-collar-office-jobs-18-months-microsoft-mustafa-suleyman/) • 4h ago
 
 ---
 
@@ -57,7 +57,7 @@ Mustafa Suleyman believes current AI computational power will only accelerate, d
 
 Hey everyone, I’m a backend developer with a background in fintech. Lately, I’ve been experimenting with multi-agent systems, and one major issue I kept running into was collision. When you have multiple agents (or even one agent doing complex tasks) accessing the same files, APIs, or context, they tend to "step on each other's toes." They overwrite data, execute out of order, or hallucinate permissions they shouldn't have. It’s a mess. I realized what was missing was a Traffic Light. So I built Network-AI. It’s an open-source protocol that acts as a traffic control system for agent orchestration. How it works: Think of it like an intersection. Before an agent can execute a high-stakes tool (like writing to a database, moving a file, or sending a transaction), it hits a "Red Light." The Check: The protocol (specifically a module I call AuthGuardian) checks the agent’s credentials and the current state of the environment. The Green Light: Only if the "road is clear" (permissions are verified and no conflicts exist) does the agent get the green light to proceed. The Camera: Just like a traffic camera, there is an immutable audit trail of every green light given, so you can debug crashes later. Why I’m posting: I’m not selling anything. I just want to solve the problem of agents corrupting shared environments. I’d love for you to check out the repo and tell me if this "Traffic Light" architecture makes sense for your use cases, or if I’m over-engineering it. Repo:https://github.com/jovanSAPFIONEER/Network-AI all feedback is welcome
 
-25m ago
+1h ago
 
 ---
 
@@ -65,7 +65,7 @@ Hey everyone, I’m a backend developer with a background in fintech. Lately, I�
 
 The model allows users to create deepfakes from copyrighted movies and TV shows, including those featureing Tom Cruise and Brad Pitt.
 
-🔗 [Deadline](https://deadline.com/2026/02/seedance-deepfakes-hollywood-studios-copyright-1236718068/) • 37m ago
+🔗 [Deadline](https://deadline.com/2026/02/seedance-deepfakes-hollywood-studios-copyright-1236718068/) • 1h ago
 
 ---
 
@@ -73,7 +73,7 @@ The model allows users to create deepfakes from copyrighted movies and TV shows,
 
 It does not happen very often in the history of business that an orthogonal product is invented that almost immediately doubles the revenue pool of a
 
-🔗 [The Next Platform](https://www.nextplatform.com/2026/02/11/only-a-few-ai-platforms-can-survive/) • 4h ago
+🔗 [The Next Platform](https://www.nextplatform.com/2026/02/11/only-a-few-ai-platforms-can-survive/) • 5h ago
 
 ---
 
@@ -125,7 +125,7 @@ AI is not the threat. Humanity repeating the same tragic pattern, provable with 
 
 New AI models launched by China's biggest players underscore how the country's companies are keeping up with the U.S.
 
-CNBC • 12h ago
+CNBC • 13h ago
 
 ---
 
@@ -141,13 +141,13 @@ Fortune • 1d ago
 
 ChatGPT sent screenwriter Micky Small down a fantastical rabbit hole. Now, she's finding her way out.
 
-NPR • 9h ago
+NPR • 10h ago
 
 ---
 
 **[Opinion | A.I. Companies Are Eating Higher Education - The New York Times](https://www.nytimes.com/2026/02/12/opinion/ai-companies-college-students.html)**
 
-The New York Times • 1d ago
+The New York Times • 2d ago
 
 ---
 
@@ -155,7 +155,7 @@ The New York Times • 1d ago
 
 The Nobel Prize–winning economist Robert Solow said in 1987, “You can see the computer age everywhere but in the productivity...
 
-Apollo Academy • 8h ago
+Apollo Academy • 9h ago
 
 ---
 
@@ -163,7 +163,7 @@ Apollo Academy • 8h ago
 
 Wall Street Journal says Claude used in operation via Anthropic’s partnership with Palantir Technologies
 
-The Guardian • 3h ago
+The Guardian • 4h ago
 
 ---
 
@@ -171,7 +171,7 @@ The Guardian • 3h ago
 
 The U.S. military reportedly used Anthropic’s AI tool Claude in the operation that captured Venezuelan leader Nicolás Maduro, raising questions about AI’s expanding role in classified Pentagon missions.
 
-Fox News • 14h ago
+Fox News • 15h ago
 
 ---
 
@@ -179,7 +179,7 @@ Fox News • 14h ago
 
 The US military used artificial intelligence in its operation to capture then Venezuelan President Nicolas Maduro last month, according to a report by the Wall Street Journal.
 
-NDTV • 6h ago
+NDTV • 7h ago
 
 ---
 
@@ -193,7 +193,7 @@ WIRED • 2d ago
 
 **[Chinese AI models festoon Spring Festival a year after DeepSeek shock](https://www.reuters.com/world/china/chinese-ai-models-festoon-spring-festival-year-after-deepseek-shock-2026-02-14/)**
 
-Reuters • 14h ago
+Reuters • 15h ago
 
 ---
 
@@ -316,7 +316,7 @@ If you've been on social media this week, you've likely seen an ominous warning 
 
 📺 CBS News
 
-👁️ 34K • 👍 708 • 💬 271 • ⏱️ 7:08 • 19h ago
+👁️ 34K • 👍 708 • 💬 271 • ⏱️ 7:08 • 20h ago
 
 ---
 
@@ -346,7 +346,7 @@ SeedDance 2.0 is taking the AI video world by storm—and in this hands-on deep 
 
 📺 Benji’s AI Playground
 
-👁️ 5K • 👍 138 • 💬 38 • ⏱️ 14:15 • 8h ago
+👁️ 5K • 👍 138 • 💬 38 • ⏱️ 14:15 • 9h ago
 
 ---
 
@@ -376,7 +376,7 @@ Why So Serious ??? Korang rasa siapa ?
 
 📺 Alieff Irfan
 
-👁️ 335K • 👍 22K • 💬 2K • ⏱️ 32:48 • 6h ago
+👁️ 335K • 👍 22K • 💬 2K • ⏱️ 32:48 • 7h ago
 
 ---
 
@@ -404,7 +404,7 @@ MiniMax-M2.5 is a text-generation model designed for generating human-like text.
 
 `text-generation` `228.7B`
 
-⬇️ 6,091 • ❤️ 501 • 15h ago
+⬇️ 6,091 • ❤️ 501 • 16h ago
 
 ---
 
@@ -693,7 +693,7 @@ All-in-one AI framework & toolkit for Claude Code & Cursor
 
 `Python` `ai-agent` `ai-coding` `claude-code` `cli` `cursor`
 
-⭐ 2.2k • 🔱 108 • 16h ago
+⭐ 2.2k • 🔱 108 • 17h ago
 
 ---
 
@@ -713,7 +713,7 @@ Warcraft III Peon voice notifications (+ more!) for Claude Code, Codex, and othe
 
 `Shell` `ai` `ai-engineering` `antigravity` `claude-code` `codex`
 
-⭐ 2.0k • 🔱 137 • 3h ago
+⭐ 2.0k • 🔱 137 • 4h ago
 
 ---
 

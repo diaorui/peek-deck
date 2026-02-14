@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-02-14T19:45:43.206302+00:00'
+updated: '2026-02-14T20:28:09.961006+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- videos
-- news
 - social
 - cryptocurrency
+- news
+- videos
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** February 14, 2026 at 19:45 UTC  
+**Last Updated:** February 14, 2026 at 20:28 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -89,7 +89,7 @@ Does anyone else have the feeling it will go back above 100k sooner than people 
 
 The US started a strategic reserve. UAE's stacking. China's realizing dollars can be cancelled overnight. It's not crazy to think major countries are racing to 1M+ stockpiles. The only question: How much can retail plebs grab before it goes full blown? Your DCA game might me more important than ever.
 
-2h ago
+3h ago
 
 ---
 
@@ -103,7 +103,7 @@ The US started a strategic reserve. UAE's stacking. China's realizing dollars ca
 
 Bitcoin's censorship resistance preserves freedom from control.
 
-56m ago
+1h ago
 
 ---
 
@@ -111,7 +111,7 @@ Bitcoin's censorship resistance preserves freedom from control.
 
 I’m 14 and just started learning about Bitcoin and saving in general. I began with $100 and my plan is to put around 30% of my weekly savings into BTC as a long-term DCA strategy. I’m not trading or trying to time the market, just stacking and holding. For people who started young with small amounts, did you stick to strict DCA no matter the price, or keep some cash for bigger dips? My goal is to build good habits early and think in years, not months
 
-9h ago
+10h ago
 
 ---
 
@@ -127,7 +127,7 @@ hoping to atleast get to 0.25 during this dip. I dont believe we are in a crypto
 
 Its going up, fast. Bitcoin is volatile - that works both ways. Once bear sentiment wears off, the price isn’t going to chop sideways forever; a couple green days & FOMO kicks in - volatility suddenly works in its favor. Always happened always will happen. Bitcoin is a perfect model of investor psychology, fear then FOMO fear then FOMO.
 
-17h ago
+18h ago
 
 ---
 
@@ -135,7 +135,7 @@ Its going up, fast. Bitcoin is volatile - that works both ways. Once bear sentim
 
 Frecuently I see people saying that they buy Bitcoin weekly or daily. Is there a way to reduce commissions? It seems that buying monthly would be more productive
 
-4h ago
+5h ago
 
 ---
 
@@ -161,7 +161,7 @@ Hi everyone, I’m new and recently bought about ¥75,000 worth of Bitcoin. I’
 
 Despite the price recovery, the Crypto Fear & Greed Index remains in “extreme fear,” indicating underlying market anxiety.
 
-CoinDesk • 7h ago
+CoinDesk • 8h ago
 
 ---
 
@@ -169,13 +169,13 @@ CoinDesk • 7h ago
 
 Bitcoin tests $70,000 as funding rates hit 2024 lows, raising short squeeze potential toward $76,685 if resistance breaks.
 
-Yahoo Finance • 1h ago
+Yahoo Finance • 2h ago
 
 ---
 
 **[Bitcoin Breaks Resistance: Is Big Money Rotating Back In?](https://www.binance.com/en/square/post/291621256819026)**
 
-Binance • 2h ago
+Binance • 3h ago
 
 ---
 
@@ -183,7 +183,7 @@ Binance • 2h ago
 
 Key PointsBitcoin's most important features probably won't change much between now and 2036.
 
-Nasdaq • 6h ago
+Nasdaq • 7h ago
 
 ---
 
@@ -213,7 +213,7 @@ Fox Business • 2d ago
 
 **[4 ways the Nancy Guthrie case strikes at America's most contentious issues](https://www.axios.com/2026/02/13/nancy-guthrie-case-update-fbi-ransom-bitcoin)**
 
-Axios • 3h ago
+Axios • 4h ago
 
 ---
 
@@ -229,7 +229,7 @@ The Times • 1d ago
 
 Bitcoin plummeted as low as $60,000 last week in its worst weekly decline in three years – baffling crypto bulls who long hailed the digital currency as a hedge against inflation.
 
-New York Post • 22h ago
+New York Post • 23h ago
 
 ---
 
@@ -245,7 +245,7 @@ New York Post • 22h ago
 
 **[$40B in Bitcoin Accidentally Given Away](https://news.ycombinator.com/item?id=46965768)**
 
-⬆️ 10 • 💬 0 • 3d ago • [wsj.com](https://www.wsj.com/finance/currencies/a-bitcoin-blunder-for-the-ages-40-billion-accidentally-given-away-3a207eac)
+⬆️ 10 • 💬 0 • 4d ago • [wsj.com](https://www.wsj.com/finance/currencies/a-bitcoin-blunder-for-the-ages-40-billion-accidentally-given-away-3a207eac)
 
 ---
 
@@ -323,7 +323,7 @@ Crypto Is About To Explode (Here's Why) “Like Buying Bitcoin in 2018” Concor
 
 📺 Altcoin Daily
 
-👁️ 50K • 👍 3K • 💬 248 • ⏱️ 15:20 • 19h ago
+👁️ 50K • 👍 3K • 💬 248 • ⏱️ 15:20 • 20h ago
 
 ---
 
@@ -333,7 +333,7 @@ Recently Bitcoin crashed to $60000, below key support levels set by the previous
 
 📺 Coin Bureau
 
-👁️ 21K • 👍 1K • 💬 211 • ⏱️ 19:46 • 5h ago
+👁️ 21K • 👍 1K • 💬 211 • ⏱️ 19:46 • 6h ago
 
 ---
 
@@ -343,7 +343,7 @@ Dan Ives is the Global Head of Technology Research at Wedbush Securities and one
 
 📺 Anthony Pompliano
 
-👁️ 33K • 👍 1K • ⏱️ 21:49 • 21h ago
+👁️ 33K • 👍 1K • ⏱️ 21:49 • 22h ago
 
 ---
 
@@ -353,7 +353,7 @@ Bitcoin just survived another trust shock. A $19 billion event tied to Binance, 
 
 📺 Simply Bitcoin
 
-👁️ 2K • 👍 187 • 💬 32 • ⏱️ 33:15 • 3h ago
+👁️ 2K • 👍 187 • 💬 32 • ⏱️ 33:15 • 4h ago
 
 ---
 
@@ -373,7 +373,7 @@ Is the crash in bitcoin approaching capitulation and a major bottom in its price
 
 📺 Alessio Rastani
 
-👁️ 30K • 👍 3K • 💬 450 • ⏱️ 8:15 • 21h ago
+👁️ 30K • 👍 3K • 💬 450 • ⏱️ 8:15 • 22h ago
 
 ---
 
@@ -401,7 +401,7 @@ Want a free $30000 bonus + $20 just for signing up? Go here: ...
 
 📺 BitcoinHyper
 
-👁️ 6K • 👍 523 • 💬 18 • ⏱️ 14:31 • 7h ago
+👁️ 6K • 👍 523 • 💬 18 • ⏱️ 14:31 • 8h ago
 
 ---
 
@@ -411,7 +411,7 @@ Bitcoin's crash off its all time high and then its sudden crash last week. It le
 
 📺 Mark Moss
 
-👁️ 251K • 👍 8K • 💬 1K • ⏱️ 16:43 • 1d ago
+👁️ 251K • 👍 8K • 💬 1K • ⏱️ 16:43 • 2d ago
 
 ---
 

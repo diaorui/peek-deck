@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-02-14T19:45:43.215452+00:00'
+updated: '2026-02-14T20:28:09.970319+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- videos
-- news
 - social
+- news
+- videos
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** February 14, 2026 at 19:45 UTC  
+**Last Updated:** February 14, 2026 at 20:28 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -36,7 +36,7 @@ Robotics research and industry news
 
 I added rubber pieces for the feet so it can grip the ground and central drivetrain! soon I will add the fan blades seen in the video.
 
-2h ago
+3h ago
 
 ---
 
@@ -44,13 +44,13 @@ I added rubber pieces for the feet so it can grip the ground and central drivetr
 
 Hello, In my free time, I am currently designing and building my first robot, inspired by a humanoid monkey shape, with the goal of learning robotics through a concrete and hands-on project. I have developed the project entirely from scratch: full mechanical design, complete 3D modeling of all parts, followed by manufacturing using 3D printing and integration of the different components (structure, actuators, power supply, and electronics).I am now about to start the programming and control phase of the robot. I am a beginner in computer science, but this project is precisely a way for me to progressively develop my skills through practical application. This personal project aims to strengthen and clarify my professional goal in robotics and mechatronics. I hope that it can eventually help me integrate an engineering school, or at least secure an internship within a company in this field. I would be very interested in receiving your feedback, advice, or constructive criticism on this approach: possible improvements, skills to focus on, or relevant directions for the continuation of my studies and projects. Thank you
 
-2h ago
+3h ago
 
 ---
 
 **[My grandmother has seen a little too much Winter Olympics](https://www.reddit.com/r/robotics/comments/1r4316q/my_grandmother_has_seen_a_little_too_much_winter/)**
 
-21h ago
+22h ago
 
 ---
 
@@ -58,7 +58,7 @@ Hello, In my free time, I am currently designing and building my first robot, in
 
 Hello guys, I upgraded my first flight controller based on some errors I faced in my previous build and here is my V2 with more advanced features and future expansions for fixed wing drones or FPV drones. MCU STM32F405RGT6 Interfaces & IO ADC input for battery voltage measurement 8× PWM outputs 1× UART for radio 1x Barometer (BMP280) 1x Accelerometer (ICM-42688-PC) => BetaFlight compatible 1× UART for GPS 1x CAN bus expansion 1x SPI expansion 4× GPIOs SWD interface USB-C interface SD card slot for logging Notes Supports up to 12v input voltage Custom-designed PCB Hardware only All Fab Files included (Gerber/BOM/CPL/Schematic/PCB layout/PCB routing/and all settings)
 
-11h ago
+12h ago
 
 ---
 
@@ -72,7 +72,7 @@ I posted a video a couple of days ago on r/esp32 showing my Open-Source robot da
 
 **[[Release] LinkForge v1.2.3: Professional URDF/XACRO Editor for Blender](https://www.reddit.com/r/robotics/comments/1r4mk4j/release_linkforge_v123_professional_urdfxacro/)**
 
-4h ago
+5h ago
 
 ---
 
@@ -80,7 +80,7 @@ I posted a video a couple of days ago on r/esp32 showing my Open-Source robot da
 
 I finnaly made some progress with my orp-testmechv2 robot i had problems with finding a way to turn left and right but I finished it thanks by watching a video of a other robot dog
 
-🔗 [youtube.com](https://youtube.com/shorts/g_XyiRUCs8s?si=s0f3PeMrdA2_CI2j) • 27m ago
+🔗 [youtube.com](https://youtube.com/shorts/g_XyiRUCs8s?si=s0f3PeMrdA2_CI2j) • 1h ago
 
 ---
 
@@ -96,7 +96,7 @@ Hi everyone, I’ve been admitted to two master’s programs in Germany and woul
 
 I am creating this thread to gather all fellow IEEE ICRA 2026 attendees(especially students) who have or will be applying for a Schengen visa. Other forms of discussions about Travel Grant, leisure, general plans, registration etc., are also encouraged.
 
-9h ago
+10h ago
 
 ---
 
@@ -132,7 +132,7 @@ Nature • 2d ago
 
 China’s birth rate has hit a historic low – deepening fears of a major economic shock in the decades to come as the country’s massive labor force dwindles and its population of pension-drawing retirees swells.
 
-CNN • 15h ago
+CNN • 16h ago
 
 ---
 
@@ -154,7 +154,7 @@ At the Robotics Centre booth, a new hybrid drone called BAAZ was presented, comb
 
 The robot operates autonomously, without soldiers present in dangerous environments and without exposure to chemicals, oils, or extreme heat.
 
-The Jerusalem Post • 21h ago
+The Jerusalem Post • 22h ago
 
 ---
 
@@ -170,7 +170,7 @@ Yahoo Finance • 2d ago
 
 This ChinaPower feature examines China's push to lead the world in robotics and the geopolitical implications.
 
-ChinaPower Project • 1d ago
+ChinaPower Project • 2d ago
 
 ---
 
@@ -238,7 +238,7 @@ War Robots #WRCommunity Gameplay: UE Havoc Scorpion by Assassin THIS Video expla
 
 📺 Manni-Gaming
 
-👁️ 3K • 👍 268 • 💬 51 • ⏱️ 13:59 • 5h ago
+👁️ 3K • 👍 268 • 💬 51 • ⏱️ 13:59 • 6h ago
 
 ---
 
