@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-02-14T22:51:08.759209+00:00'
+updated: '2026-02-14T23:26:15.481209+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- news
-- social
 - videos
+- news
 - cryptocurrency
+- social
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** February 14, 2026 at 22:51 UTC  
+**Last Updated:** February 14, 2026 at 23:26 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,33 +38,33 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $69,859.04
+### $69,967.41
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** +1.5%  
-**7d:** -0.6%  
-**30d:** -26.9%  
-**90d:** -24.3%  
-**1y:** -28.4%  
+**24h:** +1.0%  
+**7d:** -0.8%  
+**30d:** -27.0%  
+**90d:** -24.4%  
+**1y:** -28.5%  
 
 ---
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1398.18B
+**Market Cap:** $1394.52B
 Rank #1
 
-**Circulating Supply:** 19,989,321 BTC
+**Circulating Supply:** 19,989,378 BTC
 95.2% of max
 
 **All-Time High:** $126,080.00
--44.5%
+-44.7%
 
 **All-Time Low:** $67.81
-+103055.9%
++102777.2%
 
 ---
 
@@ -89,13 +89,7 @@ It would be a shame if 60K was the floor and now the price rises, leaving all th
 
 The US started a strategic reserve. UAE's stacking. China's realizing dollars can be cancelled overnight. It's not crazy to think major countries are racing to 1M+ stockpiles. The only question: How much can retail plebs grab before it goes full blown? Your DCA game might me more important than ever.
 
-5h ago
-
----
-
-**[2025 vs 2026](https://www.reddit.com/r/Bitcoin/comments/1r40elq/2025_vs_2026/)**
-
-1d ago
+6h ago
 
 ---
 
@@ -103,7 +97,13 @@ The US started a strategic reserve. UAE's stacking. China's realizing dollars ca
 
 1980: $22 Million Dollars A DAY get destroyed 2026: The Federal Reserve destroys approximately $540 million to over $600 million in old, damaged, or "unfit" U.S. currency every day. This adds up to roughly $200 billion annually.
 
-1h ago
+2h ago
+
+---
+
+**[2025 vs 2026](https://www.reddit.com/r/Bitcoin/comments/1r40elq/2025_vs_2026/)**
+
+1d ago
 
 ---
 
@@ -119,7 +119,7 @@ Does anyone else have the feeling it will go back above 100k sooner than people 
 
 I’m 14 and just started learning about Bitcoin and saving in general. I began with $100 and my plan is to put around 30% of my weekly savings into BTC as a long-term DCA strategy. I’m not trading or trying to time the market, just stacking and holding. For people who started young with small amounts, did you stick to strict DCA no matter the price, or keep some cash for bigger dips? My goal is to build good habits early and think in years, not months
 
-12h ago
+13h ago
 
 ---
 
@@ -135,23 +135,23 @@ hoping to atleast get to 0.25 during this dip. I dont believe we are in a crypto
 
 Frecuently I see people saying that they buy Bitcoin weekly or daily. Is there a way to reduce commissions? It seems that buying monthly would be more productive
 
-7h ago
+8h ago
 
 ---
 
-**[If its not going down…](https://www.reddit.com/r/Bitcoin/comments/1r48jrp/if_its_not_going_down/)**
+**[Metal plate](https://www.reddit.com/r/Bitcoin/comments/1r4vqbk/metal_plate/)**
 
-Its going up, fast. Bitcoin is volatile - that works both ways. Once bear sentiment wears off, the price isn’t going to chop sideways forever; a couple green days & FOMO kicks in - volatility suddenly works in its favor. Always happened always will happen. Bitcoin is a perfect model of investor psychology, fear then FOMO fear then FOMO.
+What are good metal plates to put in your seed phrase ? Are the ones from Trezor good ?
 
-20h ago
+2h ago
 
 ---
 
-**[Hosting white paper and learning area for new users](https://www.reddit.com/r/Bitcoin/comments/1r4ok1v/hosting_white_paper_and_learning_area_for_new/)**
+**[Easiest BTCPay Server Setup With Bull Bitcoin Wallet - Full Tutorial (TLDW; IMO the best way to run BTCpay)](https://www.reddit.com/r/Bitcoin/comments/1r4nutp/easiest_btcpay_server_setup_with_bull_bitcoin/)**
 
-Hi guys, I've put together a website for bitcoin newcomers and long term holders alike. Has various tools available such as dca calculators and whale wallets. The white paper has it's own section and worth a read if you haven't already. I've tried to create a fairly comprehensive learning section and just wondering if I'm missing anything or if anyone has an insights into what might help new users more? I'm constantly updating so criticism which I'm sure I'll get is welcome. bitcoinnewsoffice.com
+Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.
 
-6h ago
+🔗 [youtube.com](https://youtube.com/watch?v=4boOmhAB3bo&si=wBGsjVeywURO3xPh) • 7h ago
 
 ---
 
@@ -165,35 +165,11 @@ Bloomberg.com • 1d ago
 
 ---
 
-**[BTC price news: bitcoin claws back to $70,000 after $8.7 billion wipeout](https://www.coindesk.com/markets/2026/02/14/bitcoin-claws-back-to-usd70-000-on-cooling-inflation-after-usd8-7-billion-wipeout)**
+**[Pepeto Announces $7,220,000 Presale Milestone as Bitcoin Surges on Inflation Data; Early SHIB-Pattern Window Opens](https://markets.businessinsider.com/news/stocks/pepeto-announces-7-220-000-presale-milestone-as-bitcoin-surges-on-inflation-data-early-shib-pattern-window-opens-1035828597)**
 
-Despite the price recovery, the Crypto Fear & Greed Index remains in “extreme fear,” indicating underlying market anxiety.
+DUBAI, United Arab Emirates, Feb.  14, 2026  (GLOBE NEWSWIRE) -- Why is crypto up today and why are smart investors moving fast right now? Bitcoin...
 
-CoinDesk • 10h ago
-
----
-
-**[Inside Bitcoin’s wild nosedive near $60,000 – and what’s coming next](https://nypost.com/2026/02/13/business/inside-bitcoins-wild-nosedive-near-60000-and-whats-coming-next/)**
-
-Bitcoin plummeted as low as $60,000 last week in its worst weekly decline in three years – baffling crypto bulls who long hailed the digital currency as a hedge against inflation.
-
-New York Post • 1d ago
-
----
-
-**[Dogecoin surges ahead while Bitcoin, Ethereum see short-lived gains](https://www.dlnews.com/articles/markets/dogecoin-jumps-as-bitcoin-price-lies-flat/)**
-
-Bitcoin and Ethereum spiked — briefly — on Saturday.  But Dogecoin, the ninth biggest coin, rose significantly.  Most major coins made modest gains.
-
-dlnews.com • 2h ago
-
----
-
-**[France is a capital of bitcoin kidnapping: ‘They cut off his finger’](https://www.thetimes.com/world/europe/article/bitcoin-cryptocurrency-wrenching-ransom-france-0872x6xj8?gaa_at=eafs&gaa_n=AWEtsqcK8cQtzv87oBwpa_qsoKXyS9A_OY3T82t4Z8upSgMxF2XuqZ-Ghd1H&gaa_ts=6990f9c7&gaa_sig=m4ujVH5T0X3NTm2iXChDb2-oXPhINHm2tMglAnDA__r6-9R6-NP9hDeOP2ZIJP79IOPtjeS5p4b5X77G8SLJkA%3D%3D)**
-
-Small-time criminals are abducting the relatives of wealthy traders and demanding seven-figure ransoms — but why is it so common here?
-
-The Times • 51m ago
+markets.businessinsider.com • 1h ago
 
 ---
 
@@ -201,7 +177,15 @@ The Times • 51m ago
 
 Trump Media and Technology Group filed for more crypto exchange-traded funds.  One will track CRO’s performance; the other will give Bitcoin and Ethereum exposure.  President Trump has a long-list of crypto ventures.
 
-dlnews.com • 32m ago
+dlnews.com • 1h ago
+
+---
+
+**[France is a capital of bitcoin kidnapping: ‘They cut off his finger’](https://www.thetimes.com/world/europe/article/bitcoin-cryptocurrency-wrenching-ransom-france-0872x6xj8?gaa_at=eafs&gaa_n=AWEtsqedRGaXWwkmXtNhkNWPf-32Ts2t-vkKnqCSFJ92bdy20ViMRQ8aYPaP&gaa_ts=699107fe&gaa_sig=s9uR0cA82c2gBZc-QZ1Un8x8UYZEcwe_Dz4QN0L5Z2KDjRz4KkS__P1Tez_Edmqj22B8zJTHIgg0qmnC95uJHw%3D%3D)**
+
+Small-time criminals are abducting the relatives of wealthy traders and demanding seven-figure ransoms — but why is it so common here?
+
+The Times • 1h ago
 
 ---
 
@@ -213,23 +197,39 @@ CNBC • 2d ago
 
 ---
 
-**[BlackRock Signals $257M Bitcoin and Ethereum Sell-Off Ahead of Partial U.S. Government Shutdown](https://finance.yahoo.com/news/blackrock-signals-257m-bitcoin-ethereum-125929308.html)**
-
-BlackRock, the world’s largest asset manager, looks set to offload more Bitcoin and Ethereum, following the outflows from its crypto ETFs yesterday. This move comes ahead of another potential partial U.S. government shutdown that could begin tomorrow as today’s deadline looms. BlackRock Moves $257M In BTC And ETH To Coinbase Arkham data shows that the
-
-Yahoo Finance • 1d ago
-
----
-
-**[Bitcoin May Fall to $50,000, Crypto Bull Says. What Happens Next.](https://www.barrons.com/articles/bitcoin-xrp-ether-cryptos-inflation-e5791bb9?gaa_at=eafs&gaa_n=AWEtsqe_Di-fXhn0Et3F7CskL9S9w8cQLOk2mke8Wt7iYHnn_oNbmPIjhYC_&gaa_ts=6990f9c7&gaa_sig=sp-Yps4gqHO5dmrHbwBHhOkrM3m4B45-VXHdpn_Yq8vlovDe7efOsbDAzUBH4w2Nni-qYhz8Ht0ZHxYegJmUJg%3D%3D)**
+**[Bitcoin Price May Fall to $50,000, Crypto Bull Says. What Happens Next.](https://www.barrons.com/articles/bitcoin-xrp-ether-cryptos-inflation-e5791bb9?gaa_at=eafs&gaa_n=AWEtsqfxWNYlRTfn1wdoR6lMYsqANqwRRRpIdCxTOmAgeQnOhuYjEuZligdO&gaa_ts=699107fe&gaa_sig=FiGIezdGRm2YnPNfbmT18aU2ozY16yeD1VVdLaafNiPaeeg7ZOW5tCa2-Tav0upv_War7AfoHSnYNpPjBDXWIQ%3D%3D)**
 
 Barron's • 1d ago
 
 ---
 
-**[Bitcoin Price Crash Rattles Trump's Crypto Progress. Here's The Upshot For Investors.](https://www.investors.com/news/bitcoin-price-crash-trump-cryptocurrency-progress/)**
+**[Why bitcoin investors shouldn't expect a 'rapid recovery'](https://finance.yahoo.com/video/why-bitcoin-investors-shouldnt-expect-190009660.html)**
 
-Investor's Business Daily • 1d ago
+Bitcoin (BTC-USD) Investor Week 2026 was last week in New York City, gathering together many of the coin's major investors. Lyn Alden, founder of Lyn Alden Investment Strategy, sits down with Yahoo Finance anchor Julie Hyman at Bitcoin Investor Week to discuss bitcoin's recent price action and how the cryptocurrency could rebound this year. To watch more expert insights and analysis on the latest market action, check out more Market Catalysts.
+
+Yahoo Finance • 10h ago
+
+---
+
+**[Better Cryptocurrency to Buy Now and Hold for 10 Years: XRP vs. Bitcoin](https://www.nasdaq.com/articles/better-cryptocurrency-buy-now-and-hold-10-years-xrp-vs-bitcoin)**
+
+Key PointsBitcoin's most important features probably won't change much between now and 2036.
+
+Nasdaq • 10h ago
+
+---
+
+**[U.S. Treasury Secretary Issues ‘Very Important’ Crypto Prediction As The Bitcoin Price Suddenly Soars](https://www.forbes.com/sites/digital-assets/2026/02/14/us-treasury-secretary-issues-very-important-crypto-prediction-as-the-bitcoin-price-suddenly-soars/)**
+
+Forbes • 10h ago
+
+---
+
+**[Bitcoin reportedly sent to wallet associated with Nancy Guthrie’s ransom letter providing potential clue in investigation](https://fortune.com/2026/02/11/bitcoin-reportedly-sent-to-wallet-associated-with-nancy-guthries-ransom-letter/)**
+
+Meanwhile, authorities released surveillance video showing the alleged captor who remains at large.
+
+Fortune • 3d ago
 
 ---
 
@@ -285,7 +285,7 @@ The move triggered a sharp selloff on the Bithumb exchange. The company apologiz
 
 Track billions in lost Bitcoin. Explore case studies, check dormant wallets, calculate your losses, and protect your Bitcoin inheritance.
 
-⬆️ 2 • 💬 3 • 41m ago • [BTC Graveyard](https://btcgraveyard.com/)
+⬆️ 2 • 💬 4 • 1h ago • [BTC Graveyard](https://btcgraveyard.com/)
 
 ---
 
@@ -323,7 +323,7 @@ Crypto Is About To Explode (Here's Why) “Like Buying Bitcoin in 2018” Concor
 
 📺 Altcoin Daily
 
-👁️ 53K • 👍 3K • 💬 259 • ⏱️ 15:20 • 22h ago
+👁️ 56K • 👍 3K • 💬 286 • ⏱️ 15:20 • 23h ago
 
 ---
 
@@ -333,17 +333,7 @@ Recently Bitcoin crashed to $60000, below key support levels set by the previous
 
 📺 Coin Bureau
 
-👁️ 33K • 👍 2K • 💬 262 • ⏱️ 19:46 • 8h ago
-
----
-
-**[Bitcoin Is Closer to a Breakout Than People Think](https://www.youtube.com/watch?v=uVk1Fubl2HA)**
-
-Dan Ives is the Global Head of Technology Research at Wedbush Securities and one of the most widely followed analysts ...
-
-📺 Anthony Pompliano
-
-👁️ 35K • 👍 1K • ⏱️ 21:49 • 1d ago
+👁️ 43K • 👍 2K • 💬 297 • ⏱️ 19:46 • 9h ago
 
 ---
 
@@ -353,7 +343,25 @@ Is the crash in bitcoin approaching capitulation and a major bottom in its price
 
 📺 Alessio Rastani
 
-👁️ 32K • 👍 3K • 💬 459 • ⏱️ 8:15 • 1d ago
+👁️ 34K • 👍 3K • 💬 475 • ⏱️ 8:15 • 1d ago
+
+---
+
+**[Raoul Pal: Important Warning To All Small Bitcoin &amp; Crypto Investors (New 2026 Prediction)](https://www.youtube.com/watch?v=Rnog3o5W8UM)**
+
+My FREE Daily 5-Min Crypto Newsletter: https://www.cryptonutshell.com/subscribe ⮕ Cold Storage Wallet: ...
+
+📺 Crypto Nutshell
+
+👁️ 10K • 👍 551 • 💬 40 • ⏱️ 21:05 • 8h ago
+
+---
+
+**[Real Physical Bitcoin 🤯💰](https://www.youtube.com/watch?v=fqlf42-aIeo)**
+
+📺 Pawn Media
+
+👁️ 52K • 👍 2K • 💬 19 • ⏱️ 0:59 • 1d ago
 
 ---
 
@@ -363,35 +371,7 @@ Want a free $30000 bonus + $20 just for signing up? Go here: ...
 
 📺 BitcoinHyper
 
-👁️ 8K • 👍 573 • 💬 19 • ⏱️ 14:31 • 10h ago
-
----
-
-**[The Secret Reason Behind Bitcoin&#39;s Crash (And What Actually Matters)](https://www.youtube.com/watch?v=yD0b2PXuwNI)**
-
-Bitcoin's crash off its all time high and then its sudden crash last week. It left many people stunned and it took a couple days.
-
-📺 Mark Moss
-
-👁️ 256K • 👍 8K • 💬 1K • ⏱️ 16:43 • 2d ago
-
----
-
-**[Real Physical Bitcoin 🤯💰](https://www.youtube.com/watch?v=fqlf42-aIeo)**
-
-📺 Pawn Media
-
-👁️ 42K • 👍 1K • 💬 18 • ⏱️ 0:59 • 1d ago
-
----
-
-**[Michael Saylor on Bitcoin Crash &amp; MSTR Stock Drop – BTC Price Analysis](https://www.youtube.com/watch?v=Ra3UyxH3-6E)**
-
-BTC #Bitcoin #Cryptocurrency Join Michael Saylor for his unforgettable keynote at the Bitcoin Conference. The leading Bitcoin ...
-
-📺 Meish's Mind
-
-👁️ 5K • 👍 2K • 3h ago
+👁️ 9K • 👍 605 • 💬 22 • ⏱️ 14:31 • 11h ago
 
 ---
 
@@ -401,17 +381,37 @@ Jordi Visser is a veteran macro investor with 30+ years of experience and the au
 
 📺 Anthony Pompliano
 
-👁️ 31K • 👍 2K • 💬 89 • ⏱️ 21:10 • 8h ago
+👁️ 42K • 👍 2K • 💬 89 • ⏱️ 21:10 • 9h ago
 
 ---
 
-**[He Predicted EVERY Bitcoin Crash (Now He Says $45K Is Coming)](https://www.youtube.com/watch?v=u7dCxdJYNKI)**
+**[The Secret Reason Behind Bitcoin&#39;s Crash (And What Actually Matters)](https://www.youtube.com/watch?v=yD0b2PXuwNI)**
 
-An anonymous macro trader nailed Bitcoin's $126K top, $60K drop — and now he's calling for $45K next. In this video, I break ...
+Bitcoin's crash off its all time high and then its sudden crash last week. It left many people stunned and it took a couple days.
 
-📺 No Bs Crypto
+📺 Mark Moss
 
-👁️ 26K • 👍 1K • 💬 285 • ⏱️ 14:47 • 1d ago
+👁️ 260K • 👍 8K • 💬 1K • ⏱️ 16:43 • 2d ago
+
+---
+
+**[Bitcoin Is Closer to a Breakout Than People Think](https://www.youtube.com/watch?v=uVk1Fubl2HA)**
+
+Dan Ives is the Global Head of Technology Research at Wedbush Securities and one of the most widely followed analysts ...
+
+📺 Anthony Pompliano
+
+👁️ 36K • 👍 1K • ⏱️ 21:49 • 1d ago
+
+---
+
+**[Bitcoin is ‘the most useful capital asset in the world,’ Michael Saylor emphasizes](https://www.youtube.com/watch?v=l1tGOvg288k)**
+
+Strategy executive chairman and founder Michael Saylor gives his take on Bitcoin's volatility on 'Making Money.' #fox #media ...
+
+📺 Fox Business
+
+👁️ 50K • 👍 905 • 💬 1K • ⏱️ 8:19 • 1d ago
 
 ---
 

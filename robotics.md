@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-02-14T22:51:08.766940+00:00'
+updated: '2026-02-14T23:26:15.490847+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
+- videos
 - news
 - social
-- videos
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** February 14, 2026 at 22:51 UTC  
+**Last Updated:** February 14, 2026 at 23:26 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -36,7 +36,7 @@ Robotics research and industry news
 
 Hello, In my free time, I am currently designing and building my first robot, inspired by a humanoid monkey shape, with the goal of learning robotics through a concrete and hands-on project. I have developed the project entirely from scratch: full mechanical design, complete 3D modeling of all parts, followed by manufacturing using 3D printing and integration of the different components (structure, actuators, power supply, and electronics).I am now about to start the programming and control phase of the robot. I am a beginner in computer science, but this project is precisely a way for me to progressively develop my skills through practical application. This personal project aims to strengthen and clarify my professional goal in robotics and mechatronics. I hope that it can eventually help me integrate an engineering school, or at least secure an internship within a company in this field. I would be very interested in receiving your feedback, advice, or constructive criticism on this approach: possible improvements, skills to focus on, or relevant directions for the continuation of my studies and projects. Thank you
 
-5h ago
+6h ago
 
 ---
 
@@ -44,7 +44,7 @@ Hello, In my free time, I am currently designing and building my first robot, in
 
 I added rubber pieces for the feet so it can grip the ground and central drivetrain! soon I will add the fan blades seen in the video.
 
-5h ago
+6h ago
 
 ---
 
@@ -58,7 +58,7 @@ I added rubber pieces for the feet so it can grip the ground and central drivetr
 
 Hello guys, I upgraded my first flight controller based on some errors I faced in my previous build and here is my V2 with more advanced features and future expansions for fixed wing drones or FPV drones. MCU STM32F405RGT6 Interfaces & IO ADC input for battery voltage measurement 8× PWM outputs 1× UART for radio 1x Barometer (BMP280) 1x Accelerometer (ICM-42688-PC) => BetaFlight compatible 1× UART for GPS 1x CAN bus expansion 1x SPI expansion 4× GPIOs SWD interface USB-C interface SD card slot for logging Notes Supports up to 12v input voltage Custom-designed PCB Hardware only All Fab Files included (Gerber/BOM/CPL/Schematic/PCB layout/PCB routing/and all settings)
 
-14h ago
+15h ago
 
 ---
 
@@ -72,7 +72,7 @@ I posted a video a couple of days ago on r/esp32 showing my Open-Source robot da
 
 **[[Release] LinkForge v1.2.3: Professional URDF/XACRO Editor for Blender](https://www.reddit.com/r/robotics/comments/1r4mk4j/release_linkforge_v123_professional_urdfxacro/)**
 
-7h ago
+8h ago
 
 ---
 
@@ -88,7 +88,7 @@ Yo everyone! I hope you are doing phenomenal! I am a graduate student at CMU . R
 
 I finnaly made some progress with my orp-testmechv2 robot i had problems with finding a way to turn left and right but I finished it thanks by watching a video of a other robot dog
 
-🔗 [youtube.com](https://youtube.com/shorts/g_XyiRUCs8s?si=s0f3PeMrdA2_CI2j) • 3h ago
+🔗 [youtube.com](https://youtube.com/shorts/g_XyiRUCs8s?si=s0f3PeMrdA2_CI2j) • 4h ago
 
 ---
 
@@ -96,7 +96,7 @@ I finnaly made some progress with my orp-testmechv2 robot i had problems with fi
 
 I am creating this thread to gather all fellow IEEE ICRA 2026 attendees(especially students) who have or will be applying for a Schengen visa. Other forms of discussions about Travel Grant, leisure, general plans, registration etc., are also encouraged.
 
-12h ago
+13h ago
 
 ---
 
@@ -128,11 +128,49 @@ Nature • 2d ago
 
 ---
 
+**[Is China Leading the Robotics Revolution?](https://chinapower.csis.org/china-industrial-robots/)**
+
+This ChinaPower feature examines China's push to lead the world in robotics and the geopolitical implications.
+
+ChinaPower Project • 2d ago
+
+---
+
 **[China has another solution to its shrinking population: robots](https://www.cnn.com/2026/02/13/china/china-population-robots-intl-hnk-dst)**
 
 China’s birth rate has hit a historic low – deepening fears of a major economic shock in the decades to come as the country’s massive labor force dwindles and its population of pension-drawing retirees swells.
 
-CNN • 18h ago
+CNN • 19h ago
+
+---
+
+**[Southwest Kansas school hosts state’s largest robotics competition ever](https://www.ksn.com/news/southwest-kansas-school-hosts-states-largest-robotics-competition-ever/)**
+
+KSN.com • 22h ago
+
+---
+
+**[Robotics Centre Presents BAAZ Hybrid VTOL UAV](https://militarnyi.com/en/news/robotics-centre-baaz-hybrid-vtol-uav/)**
+
+At the Robotics Centre booth, a new hybrid drone called BAAZ was presented, combining the advantages of a multicopter and an airplane.This was reported to Militarnyi by a company representative […]
+
+Мілітарний • 1d ago
+
+---
+
+**[Bedrock Robotics raises $270M in red-hot AI sector](https://www.constructiondive.com/news/bedrock-robotics-raise-ai-automation-funding/811982/)**
+
+The autonomous construction tech provider now boasts total funding of over $350 million and a valuation of $1.75 billion.
+
+Construction Dive • 3d ago
+
+---
+
+**[Upside Robotics is reducing fertilizer use and waste in corn crops](https://techcrunch.com/2026/02/11/upside-robotics-is-reducing-fertilizer-use-and-waste-in-corn-crops/)**
+
+Upside Robotics builds autonomous solar-powered robots that can help farmers reduce their fertilizer use by 70%.
+
+TechCrunch • 3d ago
 
 ---
 
@@ -150,46 +188,6 @@ Yahoo Finance • 1d ago
 
 ---
 
-**[Robotics Centre Presents BAAZ Hybrid VTOL UAV](https://militarnyi.com/en/news/robotics-centre-baaz-hybrid-vtol-uav/)**
-
-At the Robotics Centre booth, a new hybrid drone called BAAZ was presented, combining the advantages of a multicopter and an airplane.This was reported to Militarnyi by a company representative […]
-
-Мілітарний • 1d ago
-
----
-
-**[IDF's new mechanical AI robot cleans tanks without soldiers](https://www.jpost.com/israel-news/defense-news/article-886585)**
-
-The robot operates autonomously, without soldiers present in dangerous environments and without exposure to chemicals, oils, or extreme heat.
-
-The Jerusalem Post • 1d ago
-
----
-
-**[Is China Leading the Robotics Revolution?](https://chinapower.csis.org/china-industrial-robots/)**
-
-This ChinaPower feature examines China's push to lead the world in robotics and the geopolitical implications.
-
-ChinaPower Project • 2d ago
-
----
-
-**[People — and robots — in China are getting ready for grand Lunar New Year celebration](https://nypost.com/2026/02/13/world-news/people-and-robots-are-getting-ready-to-celebrate-the-lunar-new-year-in-china/)**
-
-For a second year in a row, one of the fairs will be devoted to technology and — yes, again — robots will take center stage.
-
-New York Post • 1d ago
-
----
-
-**[GE Aerospace uses robots to fix jet engine blades, reduce repair delay](https://interestingengineering.com/ai-robotics/ge-aerospace-robots-jet-engine-repair)**
-
-GE Aerospace is teaching robots to repair jet engine blades as global maintenance backlogs stretch into months.
-
-Interesting Engineering • 1d ago
-
----
-
 ---
 
 ## YouTube Videos: "robotics"
@@ -200,7 +198,7 @@ Foundation Future Industries CEO Sankaet Pathak discusses the rise of humanoid r
 
 📺 Fox Business Clips
 
-👁️ 227K • 👍 5K • 💬 3K • ⏱️ 9:47 • 1d ago
+👁️ 251K • 👍 5K • 💬 3K • ⏱️ 9:47 • 1d ago
 
 ---
 
@@ -210,7 +208,7 @@ Nursing homes can cost over $10000 a month. But imagine paying once… for a rob
 
 📺 By 2050
 
-👁️ 771 • 👍 38 • 💬 1 • ⏱️ 0:59 • 3h ago
+👁️ 3K • 👍 128 • 💬 5 • ⏱️ 0:59 • 3h ago
 
 ---
 
@@ -220,7 +218,7 @@ Based on Unitree's UnifoLM-X1-0 embodied AI model, this is an actual deployment 
 
 📺 Unitree Robotics
 
-👁️ 26K • 👍 722 • 💬 113 • ⏱️ 0:45 • 1d ago
+👁️ 28K • 👍 730 • 💬 117 • ⏱️ 0:45 • 1d ago
 
 ---
 
@@ -230,7 +228,7 @@ The rising Shenzhen startup LimX Dynamics says its new robot, the TRON 2, is des
 
 📺 Kalil 4.0
 
-👁️ 497 • 👍 26 • 💬 3 • ⏱️ 0:21 • 4h ago
+👁️ 908 • 👍 42 • 💬 5 • ⏱️ 0:21 • 5h ago
 
 ---
 
@@ -248,7 +246,17 @@ Such a debut would mark a major step for Apple as it expands beyond personal ele
 
 📺 Carros Show
 
-👁️ 5K • 👍 98 • 💬 8 • ⏱️ 9:26 • 5d ago
+👁️ 5K • 👍 99 • 💬 8 • ⏱️ 9:26 • 5d ago
+
+---
+
+**[Tesla Optimus Was Built for Mars  #teslaoptimus  #elonmusk  #teslabotgen3  #humanoidrobots  #mars](https://www.youtube.com/watch?v=AEyxJrYsQW0)**
+
+You think Elon Musk built Optimus to fold laundry? That was a distraction. In 2026, the real plan is obvious: You can't send ...
+
+📺 By 2050
+
+👁️ 1.2M • 👍 26K • 💬 919 • ⏱️ 0:56 • 5d ago
 
 ---
 
@@ -258,17 +266,7 @@ Join this channel to get access to perks: https://www.youtube.com/channel/UCpLEt
 
 📺 APT
 
-👁️ 22K • 👍 604 • 💬 145 • ⏱️ 3:18 • 4d ago
-
----
-
-**[Humanoid Robots Doing Backflips 🤖🔥](https://www.youtube.com/watch?v=xqyjrT2WyGc)**
-
-Humanoid robots are pushing physical limits — with real-time balance control, torque optimization, and AI-powered motion ...
-
-📺 Facts TV 91
-
-👁️ 28K • 👍 230 • 💬 11 • ⏱️ 0:06 • 21h ago
+👁️ 23K • 👍 617 • 💬 147 • ⏱️ 3:18 • 4d ago
 
 ---
 
@@ -282,13 +280,13 @@ Boston Dynamics' latest Atlas humanoid robot attempts dramatic parkour flips, dr
 
 ---
 
-**[Tesla Optimus Was Built for Mars  #teslaoptimus  #elonmusk  #teslabotgen3  #humanoidrobots  #mars](https://www.youtube.com/watch?v=AEyxJrYsQW0)**
+**[Humanoid Robots Doing Backflips 🤖🔥](https://www.youtube.com/watch?v=xqyjrT2WyGc)**
 
-You think Elon Musk built Optimus to fold laundry? That was a distraction. In 2026, the real plan is obvious: You can't send ...
+Humanoid robots are pushing physical limits — with real-time balance control, torque optimization, and AI-powered motion ...
 
-📺 By 2050
+📺 Facts TV 91
 
-👁️ 1.1M • 👍 26K • 💬 915 • ⏱️ 0:56 • 5d ago
+👁️ 29K • 👍 239 • 💬 11 • ⏱️ 0:06 • 21h ago
 
 ---
 
