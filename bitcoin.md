@@ -3,13 +3,13 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-02-14T15:51:08.057397+00:00'
+updated: '2026-02-14T16:31:37.057262+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- social
 - cryptocurrency
+- social
 - videos
 - news
 ---
@@ -18,7 +18,7 @@ data_types:
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** February 14, 2026 at 15:51 UTC  
+**Last Updated:** February 14, 2026 at 16:31 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -54,17 +54,17 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1387.66B
+**Market Cap:** $1387.14B
 Rank #1
 
-**Circulating Supply:** 19,989,203 BTC
+**Circulating Supply:** 19,989,259 BTC
 95.2% of max
 
 **All-Time High:** $126,080.00
--44.9%
+-45.0%
 
 **All-Time Low:** $67.81
-+102262.5%
++102244.8%
 
 ---
 
@@ -95,7 +95,7 @@ Does anyone else have the feeling it will go back above 100k sooner than people 
 
 I’m 14 and just started learning about Bitcoin and saving in general. I began with $100 and my plan is to put around 30% of my weekly savings into BTC as a long-term DCA strategy. I’m not trading or trying to time the market, just stacking and holding. For people who started young with small amounts, did you stick to strict DCA no matter the price, or keep some cash for bigger dips? My goal is to build good habits early and think in years, not months
 
-5h ago
+6h ago
 
 ---
 
@@ -109,7 +109,7 @@ hoping to atleast get to 0.25 during this dip. I dont believe we are in a crypto
 
 **[Guess Whos Back, Back Again](https://www.reddit.com/r/Bitcoin/comments/1r3uia4/guess_whos_back_back_again/)**
 
-22h ago
+23h ago
 
 ---
 
@@ -117,7 +117,7 @@ hoping to atleast get to 0.25 during this dip. I dont believe we are in a crypto
 
 Its going up, fast. Bitcoin is volatile - that works both ways. Once bear sentiment wears off, the price isn’t going to chop sideways forever; a couple green days & FOMO kicks in - volatility suddenly works in its favor. Always happened always will happen. Bitcoin is a perfect model of investor psychology, fear then FOMO fear then FOMO.
 
-13h ago
+14h ago
 
 ---
 
@@ -133,7 +133,7 @@ Had to drop nearly 10k in medical bills... sure enough BTC tanks and as soon as 
 
 I seek simplicity in my life. I want Bitcoin exposure (as an investment, don't need liquidity). I've dealt with cold wallets in the past and do not enjoy this. Are there safe options? I ultimately want an experience similar to a brokerage investment, but I know leaving BTC on the exchange is a bad idea.
 
-13h ago
+14h ago
 
 ---
 
@@ -141,7 +141,7 @@ I seek simplicity in my life. I want Bitcoin exposure (as an investment, don't n
 
 Please utilize this sticky thread for all general Bitcoin discussions! If you see posts on the front page or /r/Bitcoin/new which are better suited for this daily discussion thread, please help out by directing the OP to this thread instead. Thank you! If you don't get an answer to your question, you can try phrasing it differently or commenting again tomorrow. Please check the previous discussion thread for unanswered questions.
 
-9h ago
+10h ago
 
 ---
 
@@ -161,7 +161,7 @@ like we was just vibing near 100k, everybody loud, posting rockets, acting rich 
 
 Despite the price recovery, the Crypto Fear & Greed Index remains in “extreme fear,” indicating underlying market anxiety.
 
-CoinDesk • 3h ago
+CoinDesk • 4h ago
 
 ---
 
@@ -191,7 +191,7 @@ CoinDesk • 2d ago
 
 Strategy Inc (NasdaqGS:MSTR) is issuing additional perpetual preferred shares, called Stretch, to fund continued Bitcoin accumulation. The company is shifting more of its Bitcoin funding toward preferred equity instead of common equity to address concerns about dilution. Management has reiterated plans to keep buying Bitcoin over the long term and has ruled out forced sales despite price volatility and large unrealized losses. Strategy, trading at $133.88, has been closely linked to Bitcoin...
 
-Yahoo! Finance Canada • 1h ago
+Yahoo! Finance Canada • 2h ago
 
 ---
 
@@ -199,7 +199,7 @@ Yahoo! Finance Canada • 1h ago
 
 Bitcoin plummeted as low as $60,000 last week in its worst weekly decline in three years – baffling crypto bulls who long hailed the digital currency as a hedge against inflation.
 
-New York Post • 18h ago
+New York Post • 19h ago
 
 ---
 
@@ -315,33 +315,23 @@ Explore everything you can do as a lightning app builder using Alby - getAlby/sa
 
 ## YouTube Videos: "bitcoin"
 
-**[Crypto Is About To Explode (Here’s Why) “Like Buying Bitcoin in 2018”](https://www.youtube.com/watch?v=ifvU-MHBkoQ)**
-
-Crypto Is About To Explode (Here's Why) “Like Buying Bitcoin in 2018” Concordium Website: https://www.concordium.com/ ...
-
-📺 Altcoin Daily
-
-👁️ 43K • 👍 3K • 💬 234 • ⏱️ 15:20 • 15h ago
-
----
-
 **[Bitcoin Is Closer to a Breakout Than People Think](https://www.youtube.com/watch?v=uVk1Fubl2HA)**
 
 Dan Ives is the Global Head of Technology Research at Wedbush Securities and one of the most widely followed analysts ...
 
 📺 Anthony Pompliano
 
-👁️ 29K • 👍 1K • ⏱️ 21:49 • 17h ago
+👁️ 31K • 👍 1K • ⏱️ 21:49 • 18h ago
 
 ---
 
-**[The Secret Reason Behind Bitcoin&#39;s Crash (And What Actually Matters)](https://www.youtube.com/watch?v=yD0b2PXuwNI)**
+**[Crypto Is About To Explode (Here’s Why) “Like Buying Bitcoin in 2018”](https://www.youtube.com/watch?v=ifvU-MHBkoQ)**
 
-Bitcoin's crash off its all time high and then its sudden crash last week. It left many people stunned and it took a couple days.
+Crypto Is About To Explode (Here's Why) “Like Buying Bitcoin in 2018” Concordium Website: https://www.concordium.com/ ...
 
-📺 Mark Moss
+📺 Altcoin Daily
 
-👁️ 237K • 👍 8K • 💬 979 • ⏱️ 16:43 • 1d ago
+👁️ 47K • 👍 3K • 💬 241 • ⏱️ 15:20 • 16h ago
 
 ---
 
@@ -351,57 +341,7 @@ Predict Crypto, Sports, Politics & More on *ClashPicks* ▻ https://www.clashpic
 
 📺 CryptosRUs
 
-👁️ 27K • 👍 1K • 💬 75 • ⏱️ 53:57 • 1d ago
-
----
-
-**[Bitcoin is ‘the most useful capital asset in the world,’ Michael Saylor emphasizes](https://www.youtube.com/watch?v=l1tGOvg288k)**
-
-Strategy executive chairman and founder Michael Saylor gives his take on Bitcoin's volatility on 'Making Money.' #fox #media ...
-
-📺 Fox Business
-
-👁️ 45K • 👍 820 • 💬 1K • ⏱️ 8:19 • 1d ago
-
----
-
-**[Bitcoin&#39;s Next Major Move Will Shock People (here&#39;s why)](https://www.youtube.com/watch?v=w8_Si0WQbbE)**
-
-Is the crash in bitcoin approaching capitulation and a major bottom in its price? There are strong signs that bitcoin is likely ...
-
-📺 Alessio Rastani
-
-👁️ 25K • 👍 3K • 💬 410 • ⏱️ 8:15 • 17h ago
-
----
-
-**[Michael Saylor really looks scared 😱](https://www.youtube.com/watch?v=57mjeAjkPNQ)**
-
-LIMITED TIME: ✓ Bitunix (no kyc, $10k bonus): https://www.bitunix.com/register?vipCode=AltcoinDaily 50% deposit bonus on ...
-
-📺 Altcoin Daily
-
-👁️ 100K • 👍 934 • 💬 119 • ⏱️ 0:34 • 2d ago
-
----
-
-**[Bitcoin &amp; Silver: Why The Market Isn&#39;t Broken (It&#39;s Rotating)](https://www.youtube.com/watch?v=TrKw41gc0w8)**
-
-Are Bitcoin and Silver broken, or is the global market quietly preparing for a massive shift? In this video, we break down the ...
-
-📺 Financial Funda
-
-👁️ 2K • 👍 89 • 💬 2 • ⏱️ 1:45 • 11h ago
-
----
-
-**[BITCOIN: INTO THE WEEKEND ANALYSIS!!! #BTC Price Prediction &amp; Crypto Crash News Today](https://www.youtube.com/watch?v=kaIVdsvXJK0)**
-
-My Free Trading Course https://www.rt1m.com/free My Discord Community (it's free to join): ...
-
-📺 Road To $1 Million USD
-
-👁️ 4K • 👍 229 • 💬 22 • ⏱️ 8:50 • 18h ago
+👁️ 28K • 👍 1K • 💬 82 • ⏱️ 53:57 • 1d ago
 
 ---
 
@@ -411,7 +351,67 @@ Pam Bondi gets slammed on live TV and the cracks in the system are impossible to
 
 📺 Simply Bitcoin
 
-👁️ 26K • 👍 2K • 💬 168 • ⏱️ 21:31 • 1d ago
+👁️ 26K • 👍 2K • 💬 174 • ⏱️ 21:31 • 1d ago
+
+---
+
+**[Bitcoin is ‘the most useful capital asset in the world,’ Michael Saylor emphasizes](https://www.youtube.com/watch?v=l1tGOvg288k)**
+
+Strategy executive chairman and founder Michael Saylor gives his take on Bitcoin's volatility on 'Making Money.' #fox #media ...
+
+📺 Fox Business
+
+👁️ 46K • 👍 837 • 💬 1K • ⏱️ 8:19 • 1d ago
+
+---
+
+**[Largest Bitcoin Miner Predicts Next Bitcoin Bull Run](https://www.youtube.com/watch?v=XyChljTBrOk)**
+
+Fred Thiel is the CEO of Marathon Digital and a leading voice at the intersection of bitcoin, energy, and data center infrastructure.
+
+📺 Anthony Pompliano
+
+👁️ 46K • 👍 1K • 💬 67 • ⏱️ 18:55 • 1d ago
+
+---
+
+**[The Secret Reason Behind Bitcoin&#39;s Crash (And What Actually Matters)](https://www.youtube.com/watch?v=yD0b2PXuwNI)**
+
+Bitcoin's crash off its all time high and then its sudden crash last week. It left many people stunned and it took a couple days.
+
+📺 Mark Moss
+
+👁️ 244K • 👍 8K • 💬 1K • ⏱️ 16:43 • 1d ago
+
+---
+
+**[He Predicted EVERY Bitcoin Crash (Now He Says $45K Is Coming)](https://www.youtube.com/watch?v=u7dCxdJYNKI)**
+
+An anonymous macro trader nailed Bitcoin's $126K top, $60K drop — and now he's calling for $45K next. In this video, I break ...
+
+📺 No Bs Crypto
+
+👁️ 22K • 👍 1K • 💬 262 • ⏱️ 14:47 • 21h ago
+
+---
+
+**[Bitcoin&#39;s Next Major Move Will Shock People (here&#39;s why)](https://www.youtube.com/watch?v=w8_Si0WQbbE)**
+
+Is the crash in bitcoin approaching capitulation and a major bottom in its price? There are strong signs that bitcoin is likely ...
+
+📺 Alessio Rastani
+
+👁️ 28K • 👍 3K • 💬 428 • ⏱️ 8:15 • 18h ago
+
+---
+
+**[Where Bitcoin Will Bottom](https://www.youtube.com/watch?v=aM8RtdVJgcw)**
+
+Into The Cryptoverse Premium: https://intothecryptoverse.com Into The Cryptoverse Newsletter: ...
+
+📺 Benjamin Cowen
+
+👁️ 41K • 👍 578 • 💬 46 • ⏱️ 0:57 • 23h ago
 
 ---
 
