@@ -3,14 +3,14 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-02-14T18:37:02.379384+00:00'
+updated: '2026-02-14T19:25:13.557144+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- videos
 - news
 - cryptocurrency
+- videos
 - social
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** February 14, 2026 at 18:37 UTC  
+**Last Updated:** February 14, 2026 at 19:25 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -81,7 +81,7 @@ Rank #1
 
 Does anyone else have the feeling it will go back above 100k sooner than people expect? Everyone is talking about "the cycle is over" but what the crowd say will happen never happens, usually the opposite.. I'm not saying go all in but atleast if you're shorting, be very careful cause this can rocket in a brutal way Have a nice weekend everyone
 
-9h ago
+10h ago
 
 ---
 
@@ -89,7 +89,7 @@ Does anyone else have the feeling it will go back above 100k sooner than people 
 
 The US started a strategic reserve. UAE's stacking. China's realizing dollars can be cancelled overnight. It's not crazy to think major countries are racing to 1M+ stockpiles. The only question: How much can retail plebs grab before it goes full blown? Your DCA game might me more important than ever.
 
-1h ago
+2h ago
 
 ---
 
@@ -103,7 +103,7 @@ The US started a strategic reserve. UAE's stacking. China's realizing dollars ca
 
 I’m 14 and just started learning about Bitcoin and saving in general. I began with $100 and my plan is to put around 30% of my weekly savings into BTC as a long-term DCA strategy. I’m not trading or trying to time the market, just stacking and holding. For people who started young with small amounts, did you stick to strict DCA no matter the price, or keep some cash for bigger dips? My goal is to build good habits early and think in years, not months
 
-8h ago
+9h ago
 
 ---
 
@@ -111,7 +111,7 @@ I’m 14 and just started learning about Bitcoin and saving in general. I began 
 
 hoping to atleast get to 0.25 during this dip. I dont believe we are in a crypto winter yet.
 
-16h ago
+17h ago
 
 ---
 
@@ -119,7 +119,7 @@ hoping to atleast get to 0.25 during this dip. I dont believe we are in a crypto
 
 Its going up, fast. Bitcoin is volatile - that works both ways. Once bear sentiment wears off, the price isn’t going to chop sideways forever; a couple green days & FOMO kicks in - volatility suddenly works in its favor. Always happened always will happen. Bitcoin is a perfect model of investor psychology, fear then FOMO fear then FOMO.
 
-16h ago
+17h ago
 
 ---
 
@@ -141,7 +141,7 @@ Had to drop nearly 10k in medical bills... sure enough BTC tanks and as soon as 
 
 Frecuently I see people saying that they buy Bitcoin weekly or daily. Is there a way to reduce commissions? It seems that buying monthly would be more productive
 
-3h ago
+4h ago
 
 ---
 
@@ -161,7 +161,7 @@ Hi everyone, I’m new and recently bought about ¥75,000 worth of Bitcoin. I’
 
 Despite the price recovery, the Crypto Fear & Greed Index remains in “extreme fear,” indicating underlying market anxiety.
 
-CoinDesk • 6h ago
+CoinDesk • 7h ago
 
 ---
 
@@ -169,7 +169,7 @@ CoinDesk • 6h ago
 
 Bitcoin plummeted as low as $60,000 last week in its worst weekly decline in three years – baffling crypto bulls who long hailed the digital currency as a hedge against inflation.
 
-New York Post • 21h ago
+New York Post • 22h ago
 
 ---
 
@@ -183,7 +183,7 @@ Bloomberg.com • 1d ago
 
 Key PointsBitcoin's most important features probably won't change much between now and 2036.
 
-Nasdaq • 5h ago
+Nasdaq • 6h ago
 
 ---
 
@@ -227,7 +227,7 @@ The Hill • 1d ago
 
 The corporate adoption of bitcoin was dominated by a single player last month — Strategy.
 
-Bitcoin Magazine • 1d ago
+Bitcoin Magazine • 2d ago
 
 ---
 
@@ -249,7 +249,7 @@ Bitcoin Magazine • 1d ago
 
 **[South Korean crypto firm accidentally sends $44B in bitcoins to users](https://news.ycombinator.com/item?id=46926461)**
 
-⬆️ 6 • 💬 0 • 6d ago • [reuters.com](https://www.reuters.com/world/asia-pacific/crypto-firm-accidentally-sends-44-billion-bitcoins-users-2026-02-07/)
+⬆️ 6 • 💬 0 • 7d ago • [reuters.com](https://www.reuters.com/world/asia-pacific/crypto-firm-accidentally-sends-44-billion-bitcoins-users-2026-02-07/)
 
 ---
 
@@ -319,7 +319,7 @@ Crypto Is About To Explode (Here's Why) “Like Buying Bitcoin in 2018” Concor
 
 📺 Altcoin Daily
 
-👁️ 50K • 👍 3K • 💬 248 • ⏱️ 15:20 • 18h ago
+👁️ 50K • 👍 3K • 💬 248 • ⏱️ 15:20 • 19h ago
 
 ---
 
@@ -329,7 +329,7 @@ Recently Bitcoin crashed to $60000, below key support levels set by the previous
 
 📺 Coin Bureau
 
-👁️ 21K • 👍 1K • 💬 211 • ⏱️ 19:46 • 4h ago
+👁️ 21K • 👍 1K • 💬 211 • ⏱️ 19:46 • 5h ago
 
 ---
 
@@ -339,7 +339,7 @@ Dan Ives is the Global Head of Technology Research at Wedbush Securities and one
 
 📺 Anthony Pompliano
 
-👁️ 33K • 👍 1K • ⏱️ 21:49 • 20h ago
+👁️ 33K • 👍 1K • ⏱️ 21:49 • 21h ago
 
 ---
 
@@ -349,7 +349,7 @@ Bitcoin just survived another trust shock. A $19 billion event tied to Binance, 
 
 📺 Simply Bitcoin
 
-👁️ 2K • 👍 187 • 💬 32 • ⏱️ 33:15 • 2h ago
+👁️ 2K • 👍 187 • 💬 32 • ⏱️ 33:15 • 3h ago
 
 ---
 
@@ -359,7 +359,7 @@ Watch The FULL Interview: https://www.youtube.com/watch?v=ifvU-MHBkoQ Michael Sa
 
 📺 Library Of Wealth
 
-👁️ 3K • 👍 140 • 💬 21 • ⏱️ 13:28 • 12h ago
+👁️ 3K • 👍 140 • 💬 21 • ⏱️ 13:28 • 13h ago
 
 ---
 
@@ -369,7 +369,7 @@ Is the crash in bitcoin approaching capitulation and a major bottom in its price
 
 📺 Alessio Rastani
 
-👁️ 30K • 👍 3K • 💬 450 • ⏱️ 8:15 • 20h ago
+👁️ 30K • 👍 3K • 💬 450 • ⏱️ 8:15 • 21h ago
 
 ---
 
@@ -387,7 +387,7 @@ An anonymous macro trader nailed Bitcoin's $126K top, $60K drop — and now he's
 
 📺 No Bs Crypto
 
-👁️ 24K • 👍 1K • 💬 271 • ⏱️ 14:47 • 23h ago
+👁️ 24K • 👍 1K • 💬 271 • ⏱️ 14:47 • 1d ago
 
 ---
 
@@ -397,7 +397,7 @@ Want a free $30000 bonus + $20 just for signing up? Go here: ...
 
 📺 BitcoinHyper
 
-👁️ 6K • 👍 523 • 💬 18 • ⏱️ 14:31 • 6h ago
+👁️ 6K • 👍 523 • 💬 18 • ⏱️ 14:31 • 7h ago
 
 ---
 
