@@ -3,13 +3,13 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-02-14T11:24:33.680032+00:00'
+updated: '2026-02-14T11:46:22.620704+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- videos
 - social
+- videos
 - news
 ---
 
@@ -17,7 +17,7 @@ data_types:
 
 Robotics research and industry news
 
-**Last Updated:** February 14, 2026 at 11:24 UTC  
+**Last Updated:** February 14, 2026 at 11:46 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -58,7 +58,7 @@ I posted a video a couple of days ago on r/esp32 showing my Open-Source robot da
 
 Hi everyone, I’ve been admitted to two master’s programs in Germany and would really appreciate experiences and insights from people who know these fields or universities. I’m currently deciding between: • M.Sc. Computer Science (Informatik) at University of Augsburg, with an interest in robotics/interaction systems • M.Sc. Computational Linguistics at University of Stuttgart, where I want to gain strong AI/NLP skills and be in a dense research environment My interests lie at the intersection of intelligent systems, human-machine interaction, embodied agents, and robotics, but I’m not strictly hardware-focused — I’m excited by the AI/interaction/design side of robotics rather than low-level control or embedded systems. I have three main doubts I want to clarify: 1) How strong and practically valuable is the Augsburg Informatik program’s robotics specialization? Is it high enough quality (curriculum, labs, projects, industry links) to prepare someone for actual robotics / intelligent systems work — both in industry and research? Are there real opportunities for projects, internships
 
-8h ago
+9h ago
 
 ---
 
@@ -86,7 +86,7 @@ From hardware to software, I see every day tons of new startups, mostly around A
 
 **[Are you a ROS user curious about copper-rs & the rust ecosystem? we made a book for you!](https://www.reddit.com/r/robotics/comments/1r44sm7/are_you_a_ros_user_curious_about_copperrs_the/)**
 
-11h ago
+12h ago
 
 ---
 
@@ -102,7 +102,7 @@ Has anyone done this? Basically, I need to put a real world lab (I have RGB-D da
 
 Howdy! I am a robotic engineer who has dived deep into DIY QDD actuators, creating custom servos, and making humanoids/quadriped robots. I wanted to know if anyone has done broad market research in the best actuators or servos on the market? As of now, I see two options Smaller form factor: Servos that can do 35kg of torque, STS3215 are in this category larger form factor: integrated QDD actuators or DIY drone motors such as eagle power 90kv + 9:1 gearbox, or the GIM6010/8108 motors that get about 5-15 nM of torque. Im thinking that there must be a good middle ground option for control and robotic arms/manipulators/linkages between a small 6010 GIM bldc setup and a STS3215, but i dont see many.
 
-16h ago
+17h ago
 
 ---
 
@@ -137,14 +137,6 @@ Shereen Bhan gets an inside look at how a decade-old startup is scaling into a g
 #YoungTurksReloaded #Addverb #Robotics #MakeInIndia #AI #Automation #IndianStartups
 
 LinkedIn • 1h ago
-
----
-
-**[China has another solution to its shrinking population: robots](https://www.cnn.com/2026/02/13/china/china-population-robots-intl-hnk-dst)**
-
-China’s birth rate has hit a historic low – deepening fears of a major economic shock in the decades to come as the country’s massive labor force dwindles and its population of pension-drawing retirees swells.
-
-CNN • 7h ago
 
 ---
 
@@ -190,7 +182,15 @@ Forbes • 1d ago
 
 Elon Musk has a tremendous vision for robotics and the mass adoption of this kind of technology. Gerber Kawasaki Wealth & Investment Management CEO Ross Gerber sits down with Josh Lipton to talk more about the Tesla (TSLA) and SpaceX (SPAX.PVT) CEO's plans for his Optimus humanoid robots and how the broader tech industry is reacting. To watch more expert insights and analysis on the latest market action, check out more&nbsp;Asking for a Trend.
 
-Yahoo Finance • 12h ago
+Yahoo Finance • 13h ago
+
+---
+
+**[IDF's new mechanical AI robot cleans tanks without soldiers](https://www.jpost.com/israel-news/defense-news/article-886585)**
+
+The robot operates autonomously, without soldiers present in dangerous environments and without exposure to chemicals, oils, or extreme heat.
+
+The Jerusalem Post • 13h ago
 
 ---
 
@@ -198,33 +198,13 @@ Yahoo Finance • 12h ago
 
 ## YouTube Videos: "robotics"
 
-**[Boston Dynamics New ATLAS Just Went Full Human Mode (Insane Upgrade)](https://www.youtube.com/watch?v=9aaE5BkD0Ls)**
-
-A massive robotics shift is unfolding right in front of us. Boston Dynamics has revealed a major new Atlas update developed with ...
-
-📺 AI Revolution
-
-👁️ 98K • 👍 2K • 💬 179 • ⏱️ 11:59 • 3d ago
-
----
-
 **[Thousands of AI-enabled HUMANOID ROBOTS deployed in Ukraine](https://www.youtube.com/watch?v=EllgAYj0E2w)**
 
 Foundation Future Industries CEO Sankaet Pathak discusses the rise of humanoid robots for military use and in the auto sector on ...
 
 📺 Fox Business Clips
 
-👁️ 171K • 👍 4K • 💬 2K • ⏱️ 9:47 • 20h ago
-
----
-
-**[Unitree Embodied AI Model Manufactures Robots in Factory🤩](https://www.youtube.com/watch?v=ub2gWviKZpk)**
-
-Based on Unitree's UnifoLM-X1-0 embodied AI model, this is an actual deployment at Unitree's own robot factory.
-
-📺 Unitree Robotics
-
-👁️ 22K • 👍 684 • 💬 107 • ⏱️ 0:45 • 1d ago
+👁️ 176K • 👍 4K • 💬 2K • ⏱️ 9:47 • 20h ago
 
 ---
 
@@ -242,17 +222,7 @@ Such a presentation would signal how rapidly autonomous systems and advanced rob
 
 📺 Carros Show
 
-👁️ 4K • 👍 92 • 💬 8 • ⏱️ 12:30 • 2d ago
-
----
-
-**[Testing Hugging Face&#39;s Raspberry Pi-powered open source robot](https://www.youtube.com/watch?v=yvBbcLCZIhg)**
-
-Can a little Pi-powered bot teach my kids? The Reachy Mini Wireless I used was provided by HuggingFace and Pollen Robotics; ...
-
-📺 Jeff Geerling
-
-👁️ 57K • 👍 3K • 💬 220 • ⏱️ 12:38 • 20h ago
+👁️ 4K • 👍 96 • 💬 8 • ⏱️ 12:30 • 2d ago
 
 ---
 
@@ -266,13 +236,53 @@ Boston Dynamics' latest Atlas humanoid robot attempts dramatic parkour flips, dr
 
 ---
 
+**[Testing Hugging Face&#39;s Raspberry Pi-powered open source robot](https://www.youtube.com/watch?v=yvBbcLCZIhg)**
+
+Can a little Pi-powered bot teach my kids? The Reachy Mini Wireless I used was provided by HuggingFace and Pollen Robotics; ...
+
+📺 Jeff Geerling
+
+👁️ 60K • 👍 3K • 💬 224 • ⏱️ 12:38 • 20h ago
+
+---
+
+**[I Was Held Prisoner By My Self-Aware Robot](https://www.youtube.com/watch?v=lnDP902qeqw)**
+
+PART 3: I was held prisoner by E.L.B.E.R.R the robot and forced to build him an army. *No AI was used at all in the making of this ...
+
+📺 LIGHTS ARE OFF
+
+👁️ 14K • 👍 8K • 💬 1K • ⏱️ 10:32 • 2h ago
+
+---
+
+**[Apple&#39;s First Robot &quot;iBOT&quot; Shocked the World at the 2026 Tech Expo](https://www.youtube.com/watch?v=0JIfaIKAGz8)**
+
+Such a debut would mark a major step for Apple as it expands beyond personal electronics into robotics and embodied artificial ...
+
+📺 Carros Show
+
+👁️ 5K • 👍 97 • 💬 8 • ⏱️ 9:26 • 4d ago
+
+---
+
 **[The “Order 66” Robot Theory with Telsa Optimus and starlink #elonmusk #grok  #humanoidrobots](https://www.youtube.com/watch?v=Y0a1sisNdv0)**
 
 The biggest fear about humanoid robots isn't strength. It's control. Future robots like Optimus are designed to stay connected ...
 
 📺 By 2050
 
-👁️ 67K • 👍 2K • 💬 46 • ⏱️ 0:57 • 1d ago
+👁️ 70K • 👍 2K • 💬 47 • ⏱️ 0:57 • 1d ago
+
+---
+
+**[Chinese robotics company’s world-first humanoid machine gala reveals high-tech surprises](https://www.youtube.com/watch?v=lW8_aHE68BE)**
+
+Chinese robotics company AGIBOT redefined the intersection of technology and culture by hosting a historic 60-minute gala ...
+
+📺 ABS-CBN News
+
+👁️ 18K • 👍 144 • 💬 91 • ⏱️ 3:09 • 2d ago
 
 ---
 
@@ -282,17 +292,7 @@ Humanoid robots are pushing physical limits — with real-time balance control, 
 
 📺 Facts TV 91
 
-👁️ 19K • 👍 157 • 💬 10 • ⏱️ 0:06 • 9h ago
-
----
-
-**[The AI Robot Situation Is Growing Faster Than We Think… ](https://www.youtube.com/watch?v=fkyChIRSF18)**
-
-The AI and robot situation is growing much faster than we think. Ai, mass surveillance, and robots not only working in the streets, ...
-
-📺 Aaron Page 
-
-👁️ 30K • 👍 1K • 💬 214 • ⏱️ 24:43 • 2d ago
+👁️ 21K • 👍 177 • 💬 10 • ⏱️ 0:06 • 10h ago
 
 ---
 

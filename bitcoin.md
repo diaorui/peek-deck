@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-02-14T11:24:33.669944+00:00'
+updated: '2026-02-14T11:46:22.607719+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- videos
 - cryptocurrency
-- news
 - social
+- videos
+- news
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** February 14, 2026 at 11:24 UTC  
+**Last Updated:** February 14, 2026 at 11:46 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,33 +38,33 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $69,734.41
+### $70,167.96
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** +3.7%  
-**7d:** -1.0%  
-**30d:** -27.2%  
-**90d:** -24.5%  
-**1y:** -28.6%  
+**24h:** +4.8%  
+**7d:** -0.0%  
+**30d:** -26.4%  
+**90d:** -23.8%  
+**1y:** -27.9%  
 
 ---
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1390.57B
+**Market Cap:** $1403.18B
 Rank #1
 
-**Circulating Supply:** 19,989,081 BTC
+**Circulating Supply:** 19,989,140 BTC
 95.2% of max
 
 **All-Time High:** $126,080.00
--44.8%
+-44.3%
 
 **All-Time Low:** $67.81
-+102491.1%
++103448.1%
 
 ---
 
@@ -79,7 +79,7 @@ Rank #1
 
 **[2025 vs 2026](https://www.reddit.com/r/Bitcoin/comments/1r40elq/2025_vs_2026/)**
 
-14h ago
+15h ago
 
 ---
 
@@ -87,7 +87,7 @@ Rank #1
 
 Does anyone else have the feeling it will go back above 100k sooner than people expect? Everyone is talking about "the cycle is over" but what the crowd say will happen never happens, usually the opposite.. I'm not saying go all in but atleast if you're shorting, be very careful cause this can rocket in a brutal way Have a nice weekend everyone
 
-2h ago
+3h ago
 
 ---
 
@@ -95,7 +95,15 @@ Does anyone else have the feeling it will go back above 100k sooner than people 
 
 hoping to atleast get to 0.25 during this dip. I dont believe we are in a crypto winter yet.
 
-9h ago
+10h ago
+
+---
+
+**[I’m a young student trying to build a long-term Bitcoin position.](https://www.reddit.com/r/Bitcoin/comments/1r4gu7p/im_a_young_student_trying_to_build_a_longterm/)**
+
+I’m 14 and just started learning about Bitcoin and saving in general. I began with $100 and my plan is to put around 30% of my weekly savings into BTC as a long-term DCA strategy. I’m not trading or trying to time the market, just stacking and holding. For people who started young with small amounts, did you stick to strict DCA no matter the price, or keep some cash for bigger dips? My goal is to build good habits early and think in years, not months
+
+1h ago
 
 ---
 
@@ -103,7 +111,7 @@ hoping to atleast get to 0.25 during this dip. I dont believe we are in a crypto
 
 Had to drop nearly 10k in medical bills... sure enough BTC tanks and as soon as I think im fine to buy a couple hundred... BOOM it either sky rockets or another random medical bill pops up worth a couple hundred and then BTC tanks... So I guess your welcome? And I'm sorry.
 
-15h ago
+16h ago
 
 ---
 
@@ -117,7 +125,7 @@ Had to drop nearly 10k in medical bills... sure enough BTC tanks and as soon as 
 
 Its going up, fast. Bitcoin is volatile - that works both ways. Once bear sentiment wears off, the price isn’t going to chop sideways forever; a couple green days & FOMO kicks in - volatility suddenly works in its favor. Always happened always will happen. Bitcoin is a perfect model of investor psychology, fear then FOMO fear then FOMO.
 
-8h ago
+9h ago
 
 ---
 
@@ -129,11 +137,11 @@ like we was just vibing near 100k, everybody loud, posting rockets, acting rich 
 
 ---
 
-**[I’m a young student trying to build a long-term Bitcoin position.](https://www.reddit.com/r/Bitcoin/comments/1r4gu7p/im_a_young_student_trying_to_build_a_longterm/)**
+**[Any options for a simple man who doesn't want to deal with cold wallets?](https://www.reddit.com/r/Bitcoin/comments/1r47tpf/any_options_for_a_simple_man_who_doesnt_want_to/)**
 
-I’m 14 and just started learning about Bitcoin and saving in general. I began with $100 and my plan is to put around 30% of my weekly savings into BTC as a long-term DCA strategy. I’m not trading or trying to time the market, just stacking and holding. For people who started young with small amounts, did you stick to strict DCA no matter the price, or keep some cash for bigger dips? My goal is to build good habits early and think in years, not months
+I seek simplicity in my life. I want Bitcoin exposure (as an investment, don't need liquidity). I've dealt with cold wallets in the past and do not enjoy this. Are there safe options? I ultimately want an experience similar to a brokerage investment, but I know leaving BTC on the exchange is a bad idea.
 
-1h ago
+9h ago
 
 ---
 
@@ -142,14 +150,6 @@ I’m 14 and just started learning about Bitcoin and saving in general. I began 
 Like minnows in the ocean, or more like… plankton Motivating seeing everyone’s big buys and sometimes hard to see what everyone else is moving and sticking to putting in what won’t ruin me if I lose! Been DCAing since £57k and have bigger orders set at £45k,50,55 etc. maybe I’ll be a wholecoiner in 500 years! Hah
 
 1d ago
-
----
-
-**[Daily Discussion, February 14, 2026](https://www.reddit.com/r/Bitcoin/comments/1r4cvwi/daily_discussion_february_14_2026/)**
-
-Please utilize this sticky thread for all general Bitcoin discussions! If you see posts on the front page or /r/Bitcoin/new which are better suited for this daily discussion thread, please help out by directing the OP to this thread instead. Thank you! If you don't get an answer to your question, you can try phrasing it differently or commenting again tomorrow. Please check the previous discussion thread for unanswered questions.
-
-5h ago
 
 ---
 
@@ -163,9 +163,9 @@ Bloomberg • 1d ago
 
 ---
 
-**[Standard Chartered slashes 50% price target for Bitcoin](https://finance.yahoo.com/news/standard-chartered-slashes-50-price-003000358.html)**
+**[Bitcoin Will Fall to $50K and Ethereum Will Hit $1,400 Before Rebound: Standard Chartered](https://finance.yahoo.com/news/bitcoin-fall-50k-ethereum-hit-152946733.html)**
 
-February has been a difficult month for Bitcoin (BTC). In the past 30 days, it has dropped by 29.9%. At press time, it was trading at $65,189.77, well below its October 2025 peak of $124,000. Meanwhile, the Crypto Fear & Greed Index stood at just 5 as of Feb. 13, signaling ...
+Standard Chartered predicts Bitcoin will hit $100K and Ethereum will rise to $4,000 by the end of 2026, but expects further drops first.
 
 Yahoo Finance • 1d ago
 
@@ -179,11 +179,27 @@ CoinDesk • 1d ago
 
 ---
 
-**[Inside Bitcoin’s wild nosedive near $60,000 – and what’s coming next](https://nypost.com/2026/02/13/business/inside-bitcoins-wild-nosedive-near-60000-and-whats-coming-next/)**
+**[Bitcoin Price Slides After US Admits Nearly 1 Million ‘Phantom’ Jobs in Data Revision](https://finance.yahoo.com/news/bitcoin-price-slides-us-admits-130321937.html)**
 
-Bitcoin plummeted as low as $60,000 last week in its worst weekly decline in three years – baffling crypto bulls who long hailed the digital currency as a hedge against inflation.
+Bitcoin price did not just dip. It reacted to something way bigger.The U.S. government revised last year’s job numbers down by nearly 900,000 positions.Markets hate one thing more than bad news. They hate unreliable data and uncertainty. This update from the Bureau of Labor Statistics just shook confidence hard. January ...
 
-New York Post • 14h ago
+Yahoo Finance • 22h ago
+
+---
+
+**[Bitcoin’s long-term rally is ‘broken’ until it reclaims $85,000, Deribit executive says](https://www.coindesk.com/markets/2026/02/13/bitcoin-s-long-term-rally-is-broken-until-it-reclaims-usd85-000-deribit-executive-says)**
+
+A bitcoin price drop to $58,000 could reignite buying momentum.
+
+CoinDesk • 1d ago
+
+---
+
+**[Bulls on parade: Crypto winter couldn't kill the vibe at this week's big bitcoin event in NYC](https://www.businessinsider.com/crypto-winter-markets-digital-assets-bitcoin-investor-week-btc-trading-2026-2)**
+
+The big NYC bitcoin bonanza drew top commentators in the market, who told attendees they see bitcoin set for a rebound later this year.
+
+Business Insider • 1h ago
 
 ---
 
@@ -195,23 +211,11 @@ The Motley Fool • 1h ago
 
 ---
 
-**[The next coin I am watching closely after Bitcoin](https://www.binance.com/en/square/post/291477299589537)**
+**[Bitcoin reportedly sent to wallet associated with Nancy Guthrie’s ransom letter providing potential clue in investigation](https://fortune.com/2026/02/11/bitcoin-reportedly-sent-to-wallet-associated-with-nancy-guthries-ransom-letter/)**
 
-Binance • 4h ago
+Meanwhile, authorities released surveillance video showing the alleged captor who remains at large.
 
----
-
-**[Crypto lender BlockFills suspends withdrawals amid faltering bitcoin price](https://www.reuters.com/legal/government/crypto-lender-blockfills-suspends-withdrawals-amid-faltering-bitcoin-price-2026-02-11/)**
-
-Reuters • 2d ago
-
----
-
-**[‘Killing Satoshi’ Bitcoin Biopic Starring Pete Davidson and Casey Affleck Set to Use AI for Locations and to ‘Adjust’ Performances (EXCLUSIVE)](https://variety.com/2026/film/news/pete-davidson-killing-satoshi-ai-doug-liman-ryan-kavanaugh-1236661170/)**
-
-Bitcoin biopic 'Killing Satoshi' starring Pete Davidson plans to use all-AI locations and AI adjustments for  performances rather than reshoots.
-
-Variety • 18h ago
+Fortune • 2d ago
 
 ---
 
@@ -221,11 +225,11 @@ NewsNation • 2d ago
 
 ---
 
-**[Bitcoin reportedly sent to wallet associated with Nancy Guthrie’s ransom letter providing potential clue in investigation](https://fortune.com/2026/02/11/bitcoin-reportedly-sent-to-wallet-associated-with-nancy-guthries-ransom-letter/)**
+**[Crypto expert explains why bitcoin makes 'perfect record' for tracking down criminals](https://www.foxbusiness.com/lifestyle/crypto-expert-explains-why-bitcoin-makes-perfect-record-tracking-down-criminals)**
 
-Meanwhile, authorities released surveillance video showing the alleged captor who remains at large.
+Blockchain technology makes cryptocurrency transactions fully traceable on public ledgers, creating powerful tools for law enforcement investigations.
 
-Fortune • 2d ago
+Fox Business • 2d ago
 
 ---
 
@@ -317,7 +321,7 @@ Dan Ives is the Global Head of Technology Research at Wedbush Securities and one
 
 📺 Anthony Pompliano
 
-👁️ 25K • 👍 1K • ⏱️ 21:49 • 13h ago
+👁️ 27K • 👍 1K • ⏱️ 21:49 • 13h ago
 
 ---
 
@@ -327,7 +331,7 @@ Bitcoin's crash off its all time high and then its sudden crash last week. It le
 
 📺 Mark Moss
 
-👁️ 228K • 👍 8K • 💬 1K • ⏱️ 16:43 • 1d ago
+👁️ 232K • 👍 8K • 💬 1K • ⏱️ 16:43 • 1d ago
 
 ---
 
@@ -337,17 +341,7 @@ Crypto Is About To Explode (Here's Why) “Like Buying Bitcoin in 2018” Concor
 
 📺 Altcoin Daily
 
-👁️ 33K • 👍 2K • 💬 196 • ⏱️ 15:20 • 11h ago
-
----
-
-**[He Predicted EVERY Bitcoin Crash (Now He Says $45K Is Coming)](https://www.youtube.com/watch?v=u7dCxdJYNKI)**
-
-An anonymous macro trader nailed Bitcoin's $126K top, $60K drop — and now he's calling for $45K next. In this video, I break ...
-
-📺 No Bs Crypto
-
-👁️ 16K • 👍 900 • 💬 242 • ⏱️ 14:47 • 16h ago
+👁️ 38K • 👍 2K • 💬 213 • ⏱️ 15:20 • 11h ago
 
 ---
 
@@ -357,17 +351,7 @@ Is the crash in bitcoin approaching capitulation and a major bottom in its price
 
 📺 Alessio Rastani
 
-👁️ 19K • 👍 2K • 💬 260 • ⏱️ 8:15 • 13h ago
-
----
-
-**[Michael Saylor really looks scared 😱](https://www.youtube.com/watch?v=57mjeAjkPNQ)**
-
-LIMITED TIME: ✓ Bitunix (no kyc, $10k bonus): https://www.bitunix.com/register?vipCode=AltcoinDaily 50% deposit bonus on ...
-
-📺 Altcoin Daily
-
-👁️ 93K • 👍 903 • 💬 261 • ⏱️ 0:34 • 1d ago
+👁️ 23K • 👍 2K • 💬 321 • ⏱️ 8:15 • 13h ago
 
 ---
 
@@ -377,17 +361,37 @@ My Free Trading Course https://www.rt1m.com/free My Discord Community (it's free
 
 📺 Road To $1 Million USD
 
-👁️ 4K • 👍 216 • 💬 19 • ⏱️ 8:50 • 14h ago
+👁️ 4K • 👍 220 • 💬 20 • ⏱️ 8:50 • 14h ago
 
 ---
 
-**[Scott Bessent BLAMES COINBASE For Bitcoin Crash | EP 1440](https://www.youtube.com/watch?v=HQdd-05j7Yo)**
+**[He Predicted EVERY Bitcoin Crash (Now He Says $45K Is Coming)](https://www.youtube.com/watch?v=u7dCxdJYNKI)**
 
-Scott Bessent did an interview on squawk box and was asked about the Clarity act and bitcoins crash ...
+An anonymous macro trader nailed Bitcoin's $126K top, $60K drop — and now he's calling for $45K next. In this video, I break ...
 
-📺 Simply Bitcoin
+📺 No Bs Crypto
 
-👁️ 8K • 👍 389 • 💬 50 • ⏱️ 1:37:28 • 15h ago
+👁️ 18K • 👍 996 • 💬 258 • ⏱️ 14:47 • 16h ago
+
+---
+
+**[Michael Saylor really looks scared 😱](https://www.youtube.com/watch?v=57mjeAjkPNQ)**
+
+LIMITED TIME: ✓ Bitunix (no kyc, $10k bonus): https://www.bitunix.com/register?vipCode=AltcoinDaily 50% deposit bonus on ...
+
+📺 Altcoin Daily
+
+👁️ 97K • 👍 926 • 💬 267 • ⏱️ 0:34 • 1d ago
+
+---
+
+**[Bitcoin Just Flashed a Rare Signal Not Seen in Years...](https://www.youtube.com/watch?v=_DVWmQ8kPxc)**
+
+Predict Crypto, Sports, Politics & More on *ClashPicks* ▻ https://www.clashpicks.com/ Follow ClashPicks' X ...
+
+📺 CryptosRUs
+
+👁️ 27K • 👍 1K • 💬 95 • ⏱️ 53:57 • 20h ago
 
 ---
 
@@ -397,17 +401,17 @@ We're watching the worst crypto crash since the FTX scandal. Ben McKenzie explai
 
 📺 More Perfect Union
 
-👁️ 1.6M • 👍 93K • 💬 8K • ⏱️ 2:50 • 2d ago
+👁️ 1.7M • 👍 95K • 💬 8K • ⏱️ 2:50 • 2d ago
 
 ---
 
-**[HISTORICAL BITCOIN SIGNAL IS FLASHING...](https://www.youtube.com/watch?v=54elP1nY18Y)**
+**[Bitcoin is ‘the most useful capital asset in the world,’ Michael Saylor emphasizes](https://www.youtube.com/watch?v=l1tGOvg288k)**
 
-WEEX: https://www.weex.com/events/promo/usdtgiveaway-v2?vipCode=00dt 25% FEE DISCOUNT & GET FREE $25 ✓My ...
+Strategy executive chairman and founder Michael Saylor gives his take on Bitcoin's volatility on 'Making Money.' #fox #media ...
 
-📺 Crypto Rover
+📺 Fox Business
 
-👁️ 2K • 👍 217 • 💬 9 • ⏱️ 7:51 • 3h ago
+👁️ 44K • 👍 797 • 💬 2K • ⏱️ 8:19 • 1d ago
 
 ---
 

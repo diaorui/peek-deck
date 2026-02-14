@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-02-14T11:24:33.676512+00:00'
+updated: '2026-02-14T11:46:22.614808+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- videos
 - cryptocurrency
-- news
 - social
+- videos
+- news
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** February 14, 2026 at 11:24 UTC  
+**Last Updated:** February 14, 2026 at 11:46 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -36,33 +36,33 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Price
 
-### $2,072.62
+### $2,096.12
 
 ---
 
 ## Ethereum Chart
 
-**24h:** +5.7%  
-**7d:** -0.8%  
-**30d:** -37.1%  
-**90d:** -31.6%  
-**1y:** -23.0%  
+**24h:** +7.1%  
+**7d:** +0.6%  
+**30d:** -36.3%  
+**90d:** -30.7%  
+**1y:** -22.0%  
 
 ---
 
 ## Ethereum Market Stats
 
-**Market Cap:** $250.53B
+**Market Cap:** $253.36B
 Rank #2
 
 **Circulating Supply:** 120,692,468 ETH
 No max supply
 
 **All-Time High:** $4,946.05
--58.0%
+-57.5%
 
 **All-Time Low:** $0.43
-+479362.1%
++484884.3%
 
 ---
 
@@ -152,13 +152,31 @@ Vitalik Buterin proposes ZK API usage credits to make Ethereum the privacy-prese
 
 Truth Social Funds applied for ETFs that would give investors exposure to crypto—one focused on Bitcoin and Ethereum, the other on Cronos.
 
-Decrypt • 14h ago
+Decrypt • 15h ago
 
 ---
 
-**[Ethereum Price Braces for Impact as Standard Chartered Predicts a $1,400 Bottom](https://www.tipranks.com/news/ethereum-price-braces-for-impact-as-standard-chartered-predicts-a-1400-bottom)**
+**[Wrapped Bitcoin team taps Hyperlane for WBTC bridge between Ethereum and Solana](https://www.theblock.co/post/389619/wrapped-bitcoin-hyperlane-wbtc-bridge-ethereum-solana)**
 
-TipRanks • 20h ago
+The Hyperlane Nexus Bridge will enable holders to transfer wBTC tokens between Ethereum and Solana, the team wrote in a press release.
+
+The Block • 1d ago
+
+---
+
+**[Better Cryptocurrency to Buy With $3,000 and Hold for 5 Years: XRP vs. Ethereum](https://www.fool.com/investing/2026/02/14/better-cryptocurrency-to-buy-with-3000-and-hold-fo/)**
+
+The coming years are going to see competition heat up significantly in the realm of tokenized asset management.
+
+The Motley Fool • 46m ago
+
+---
+
+**[Got $500? 2 Cryptocurrencies to Buy and Hold for Decades.](https://www.fool.com/investing/2026/02/14/got-500-2-cryptocurrencies-to-buy-and-hold-for-dec/)**
+
+Here's why Bitcoin and Ethereum should be in your long-term portfolio.
+
+The Motley Fool • 1h ago
 
 ---
 
@@ -186,19 +204,9 @@ dlnews.com • 1d ago
 
 ---
 
-**[Wrapped Bitcoin team taps Hyperlane for WBTC bridge between Ethereum and Solana](https://www.theblock.co/post/389619/wrapped-bitcoin-hyperlane-wbtc-bridge-ethereum-solana)**
+**[Key facts: Standard Chartered forecasts Ethereum drop; ETFs see outflows; active addresses surge](https://www.tradingview.com/news/tradingview:cb7e47af4256e:0-key-facts-standard-chartered-forecasts-ethereum-drop-etfs-see-outflows-active-addresses-surge/)**
 
-The Hyperlane Nexus Bridge will enable holders to transfer wBTC tokens between Ethereum and Solana, the team wrote in a press release.
-
-The Block • 1d ago
-
----
-
-**[3 Reasons Why Ethereum Is Surging Today](https://www.fool.com/investing/2026/02/13/3-reasons-why-ethereum-is-surging-today/)**
-
-The world's second-largest cryptocurrency is up more than 7% today.
-
-The Motley Fool • 13h ago
+TradingView • 11h ago
 
 ---
 
@@ -206,15 +214,7 @@ The Motley Fool • 13h ago
 
 DUBAI, United Arab Emirates, Feb.  13, 2026  (GLOBE NEWSWIRE) -- Pepeto (PEPETO), an Ethereum-based meme-utility project, has officially crossed $...
 
-markets.businessinsider.com • 23h ago
-
----
-
-**[Ethereum Caught Between Weak Bounce And High-Timeframe Risk – What’s Next?](https://www.tradingview.com/news/newsbtc:50222ecdc094b:0-ethereum-caught-between-weak-bounce-and-high-timeframe-risk-what-s-next/)**
-
-Ethereum is attempting to stabilize after its recent pullback, but the recovery so far lacks convincing strength. With price rejecting key levels and higher-timeframe risks still looming, ETH finds itself at a critical decision point where the next structural move could define the short-term trend…
-
-TradingView • 1d ago
+markets.businessinsider.com • 1d ago
 
 ---
 
@@ -222,7 +222,7 @@ TradingView • 1d ago
 
 Bitcoin (BTC) holds above support at $65,118 at the time of writing on Friday. The Crypto King shows subtle signs of recovery after extending declines for four consecutive days through Thursday, reflecting a sticky rise-off sentiment in the broader crypto market.
 
-FXStreet • 21h ago
+FXStreet • 22h ago
 
 ---
 
@@ -236,7 +236,7 @@ This video provides a professional Elliott Wave and technical analysis of Ethere
 
 📺 More Crypto Online
 
-👁️ 1K • 👍 138 • 💬 5 • ⏱️ 4:31 • 8h ago
+👁️ 2K • 👍 167 • 💬 5 • ⏱️ 4:31 • 8h ago
 
 ---
 
@@ -250,13 +250,23 @@ Crypto and bitcoin crash is forcing liquidations. This just got worse and we are
 
 ---
 
+**[ETH BROKE OUT! What&#39;s Next?🚨 (Ethereum Price Prediction 2026)](https://www.youtube.com/watch?v=66m3kJlNHoA)**
+
+ETHEREUM ETH PRICE PREDICTION 2026 Join the Premium Signal Group for trade setups, mentorship & a community ...
+
+📺 Cilinix Crypto
+
+👁️ 35 • 👍 6 • 💬 1 • ⏱️ 4:46 • 1h ago
+
+---
+
 **[BITCOIN &amp; CRYPTO MARKET JUST FLIPPED (for now)!!! - Bitcoin News Today, Ethereum &amp; Altcoins](https://www.youtube.com/watch?v=l0DmCVuPA0E)**
 
 BITCOIN & CRYPTO MARKET JUST FLIPPED (for now)!!! - Bitcoin News Today, Ethereum & Altcoins *Bitunix* ...
 
 📺 Crypto World
 
-👁️ 8K • 👍 313 • 💬 112 • ⏱️ 17:20 • 16h ago
+👁️ 9K • 👍 321 • 💬 129 • ⏱️ 17:20 • 16h ago
 
 ---
 
@@ -266,7 +276,7 @@ Watch The FULL Interview: "Explosive Crypto Price Prediction for 2026..." FREE D
 
 📺 Library Of Wealth
 
-👁️ 10K • 👍 375 • 💬 344 • ⏱️ 14:31 • 1d ago
+👁️ 11K • 👍 386 • 💬 365 • ⏱️ 14:31 • 1d ago
 
 ---
 
@@ -276,7 +286,7 @@ This video provides a professional Elliott Wave and technical analysis of Ethere
 
 📺 More Crypto Online
 
-👁️ 3K • 👍 169 • 💬 18 • ⏱️ 3:30 • 19h ago
+👁️ 3K • 👍 169 • 💬 18 • ⏱️ 3:30 • 20h ago
 
 ---
 
@@ -296,7 +306,15 @@ BlackRock + Joe Rogan + Ethereum.. Biggest Crypto News Happening Now!! Become a 
 
 📺 Altcoin Daily
 
-👁️ 59K • 👍 3K • 💬 426 • ⏱️ 9:41 • 2d ago
+👁️ 59K • 👍 3K • 💬 423 • ⏱️ 9:41 • 2d ago
+
+---
+
+**[Ethereum Price Prediction by Tom Lee](https://www.youtube.com/watch?v=jrhGbxlR6Ho)**
+
+📺 New York Angelo Podcast
+
+👁️ 76 • ⏱️ 1:31 • 12h ago
 
 ---
 
@@ -307,26 +325,6 @@ This is all about why Bitcoin and crypto is set to explode! Do not miss the big 
 📺 Investing Made Simple
 
 👁️ 23K • 👍 1K • ⏱️ 8:58 • 1d ago
-
----
-
-**[Why People Doubt XRP Can Explode Like ETH](https://www.youtube.com/watch?v=u2UnNCd8Foo)**
-
-ETH climbed single to three digits in 12 months, Solana in nine. Same liquidity mechanics apply to XRP. Total supply confuses ...
-
-📺 Jake Claver
-
-👁️ 41K • 👍 2K • 💬 95 • ⏱️ 1:17 • 2d ago
-
----
-
-**[BITCOIN &amp; ALTCOIN WARNING: It&#39;s Happening AGAIN!!!! - Bitcoin News Today, Ethereum &amp; Altcoins](https://www.youtube.com/watch?v=Rt6-k5GEhsM)**
-
-BITCOIN & ALTCOIN WARNING: It's Happening AGAIN!!!! - Bitcoin News Today, Ethereum & Altcoins *Bitunix* ...
-
-📺 Crypto World
-
-👁️ 11K • 👍 396 • 💬 210 • ⏱️ 21:40 • 1d ago
 
 ---
 
