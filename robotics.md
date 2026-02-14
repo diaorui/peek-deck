@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-02-14T20:53:13.060079+00:00'
+updated: '2026-02-14T21:25:47.662561+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
+- social
 - news
 - videos
-- social
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** February 14, 2026 at 20:53 UTC  
+**Last Updated:** February 14, 2026 at 21:25 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -44,13 +44,13 @@ Hello, In my free time, I am currently designing and building my first robot, in
 
 I added rubber pieces for the feet so it can grip the ground and central drivetrain! soon I will add the fan blades seen in the video.
 
-3h ago
+4h ago
 
 ---
 
 **[My grandmother has seen a little too much Winter Olympics](https://www.reddit.com/r/robotics/comments/1r4316q/my_grandmother_has_seen_a_little_too_much_winter/)**
 
-22h ago
+23h ago
 
 ---
 
@@ -58,7 +58,7 @@ I added rubber pieces for the feet so it can grip the ground and central drivetr
 
 Hello guys, I upgraded my first flight controller based on some errors I faced in my previous build and here is my V2 with more advanced features and future expansions for fixed wing drones or FPV drones. MCU STM32F405RGT6 Interfaces & IO ADC input for battery voltage measurement 8× PWM outputs 1× UART for radio 1x Barometer (BMP280) 1x Accelerometer (ICM-42688-PC) => BetaFlight compatible 1× UART for GPS 1x CAN bus expansion 1x SPI expansion 4× GPIOs SWD interface USB-C interface SD card slot for logging Notes Supports up to 12v input voltage Custom-designed PCB Hardware only All Fab Files included (Gerber/BOM/CPL/Schematic/PCB layout/PCB routing/and all settings)
 
-12h ago
+13h ago
 
 ---
 
@@ -80,7 +80,7 @@ I posted a video a couple of days ago on r/esp32 showing my Open-Source robot da
 
 Yo everyone! I hope you are doing phenomenal! I am a graduate student at CMU . Recently companies have been developing cross-embodied brains but this requires datasets. The current method involves hiring a teleoperator to perform actions for 1000 hours to obtain quality data, which is both costly and time-consuming. Many companies and seminars are recognising this issue. My partner and I are developing a ‘Cross-Body Data Engine’ to mathematically retarget datasets from one robot to another while enriching it with additional information such as torque and semantic layers. I would like to ask your opinion: is ‘data scarcity across different hardware’ a significant bottleneck for teams or do you find it more straightforward to collect fresh teleop data for each new robot?" We are attempting to validate our core thesis and would value your candid feedback.
 
-12m ago
+45m ago
 
 ---
 
@@ -88,7 +88,7 @@ Yo everyone! I hope you are doing phenomenal! I am a graduate student at CMU . R
 
 I finnaly made some progress with my orp-testmechv2 robot i had problems with finding a way to turn left and right but I finished it thanks by watching a video of a other robot dog
 
-🔗 [youtube.com](https://youtube.com/shorts/g_XyiRUCs8s?si=s0f3PeMrdA2_CI2j) • 1h ago
+🔗 [youtube.com](https://youtube.com/shorts/g_XyiRUCs8s?si=s0f3PeMrdA2_CI2j) • 2h ago
 
 ---
 
@@ -104,7 +104,7 @@ Hi everyone, I’ve been admitted to two master’s programs in Germany and woul
 
 I am creating this thread to gather all fellow IEEE ICRA 2026 attendees(especially students) who have or will be applying for a Schengen visa. Other forms of discussions about Travel Grant, leisure, general plans, registration etc., are also encouraged.
 
-10h ago
+11h ago
 
 ---
 
@@ -132,7 +132,7 @@ Nature • 2d ago
 
 China’s birth rate has hit a historic low – deepening fears of a major economic shock in the decades to come as the country’s massive labor force dwindles and its population of pension-drawing retirees swells.
 
-CNN • 16h ago
+CNN • 17h ago
 
 ---
 
@@ -170,7 +170,7 @@ At the Robotics Centre booth, a new hybrid drone called BAAZ was presented, comb
 
 The robot operates autonomously, without soldiers present in dangerous environments and without exposure to chemicals, oils, or extreme heat.
 
-The Jerusalem Post • 22h ago
+The Jerusalem Post • 23h ago
 
 ---
 
@@ -230,7 +230,7 @@ The rising Shenzhen startup LimX Dynamics says its new robot, the TRON 2, is des
 
 📺 Kalil 4.0
 
-👁️ 497 • 👍 26 • 💬 3 • ⏱️ 0:21 • 2h ago
+👁️ 497 • 👍 26 • 💬 3 • ⏱️ 0:21 • 3h ago
 
 ---
 

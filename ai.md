@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-02-14T20:53:13.042088+00:00'
+updated: '2026-02-14T21:25:47.647285+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
+- social
+- repositories
 - news
 - videos
-- repositories
-- social
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** February 14, 2026 at 20:53 UTC  
+**Last Updated:** February 14, 2026 at 21:25 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -49,7 +49,7 @@ The U.S. military used Anthropic's Claude AI model during the operation to captu
 
 Mustafa Suleyman believes current AI computational power will only accelerate, disrupting every kind of work you do “sitting down at a computer.”
 
-🔗 [Fortune](https://fortune.com/2026/02/13/when-will-ai-kill-white-collar-office-jobs-18-months-microsoft-mustafa-suleyman/) • 4h ago
+🔗 [Fortune](https://fortune.com/2026/02/13/when-will-ai-kill-white-collar-office-jobs-18-months-microsoft-mustafa-suleyman/) • 5h ago
 
 ---
 
@@ -57,7 +57,7 @@ Mustafa Suleyman believes current AI computational power will only accelerate, d
 
 Hey everyone, I’m a backend developer with a background in fintech. Lately, I’ve been experimenting with multi-agent systems, and one major issue I kept running into was collision. When you have multiple agents (or even one agent doing complex tasks) accessing the same files, APIs, or context, they tend to "step on each other's toes." They overwrite data, execute out of order, or hallucinate permissions they shouldn't have. It’s a mess. I realized what was missing was a Traffic Light. So I built Network-AI. It’s an open-source protocol that acts as a traffic control system for agent orchestration. How it works: Think of it like an intersection. Before an agent can execute a high-stakes tool (like writing to a database, moving a file, or sending a transaction), it hits a "Red Light." The Check: The protocol (specifically a module I call AuthGuardian) checks the agent’s credentials and the current state of the environment. The Green Light: Only if the "road is clear" (permissions are verified and no conflicts exist) does the agent get the green light to proceed. The Camera: Just like a traffic camera, there is an immutable audit trail of every green light given, so you can debug crashes later. Why I’m posting: I’m not selling anything. I just want to solve the problem of agents corrupting shared environments. I’d love for you to check out the repo and tell me if this "Traffic Light" architecture makes sense for your use cases, or if I’m over-engineering it. Repo:https://github.com/jovanSAPFIONEER/Network-AI all feedback is welcome
 
-1h ago
+2h ago
 
 ---
 
@@ -65,7 +65,7 @@ Hey everyone, I’m a backend developer with a background in fintech. Lately, I�
 
 It does not happen very often in the history of business that an orthogonal product is invented that almost immediately doubles the revenue pool of a
 
-🔗 [The Next Platform](https://www.nextplatform.com/2026/02/11/only-a-few-ai-platforms-can-survive/) • 5h ago
+🔗 [The Next Platform](https://www.nextplatform.com/2026/02/11/only-a-few-ai-platforms-can-survive/) • 6h ago
 
 ---
 
@@ -81,7 +81,7 @@ Introducing Open Book Medical AI: Deterministic Knowledge Graph + Compact LLM Mo
 
 Spotify credits Claude Code and its internal AI system Honk with speeding up development.
 
-🔗 [TechCrunch](https://techcrunch.com/2026/02/12/spotify-says-its-best-developers-havent-written-a-line-of-code-since-december-thanks-to-ai/) • 1d ago
+🔗 [TechCrunch](https://techcrunch.com/2026/02/12/spotify-says-its-best-developers-havent-written-a-line-of-code-since-december-thanks-to-ai/) • 2d ago
 
 ---
 
@@ -139,7 +139,7 @@ CNBC • 1d ago
 
 **[AI Bubble Fears Are Creating New Derivatives](https://www.bloomberg.com/news/articles/2026-02-14/ai-bubble-fears-are-creating-new-derivatives-credit-weekly)**
 
-Bloomberg.com • 53m ago
+Bloomberg.com • 1h ago
 
 ---
 
@@ -147,7 +147,7 @@ Bloomberg.com • 53m ago
 
 Ret. ATF special agent in charge Bernard Zapor and Kurt 'CyberGuy' Knutsson join ‘Fox News Live’ to discuss the investigation into the disappearance of Nancy Guthrie.
 
-Fox News • 28m ago
+Fox News • 1h ago
 
 ---
 
@@ -163,7 +163,7 @@ The Guardian • 5h ago
 
 The U.S. military reportedly used Anthropic’s AI tool Claude in the operation that captured Venezuelan leader Nicolás Maduro, raising questions about AI’s expanding role in classified Pentagon missions.
 
-Fox News • 15h ago
+Fox News • 16h ago
 
 ---
 
@@ -171,7 +171,7 @@ Fox News • 15h ago
 
 The US military used artificial intelligence in its operation to capture then Venezuelan President Nicolas Maduro last month, according to a report by the Wall Street Journal.
 
-NDTV • 7h ago
+NDTV • 8h ago
 
 ---
 
@@ -185,7 +185,7 @@ The New York Times • 1d ago
 
 Ahead of Valentine’s Day, EVA AI hosted a pop up where human users could take their AI companions on a date. I went to see what it's like.
 
-USA Today • 7h ago
+USA Today • 8h ago
 
 ---
 
@@ -304,7 +304,7 @@ Something big is happening in AI — and for the first time, markets are reactin
 
 📺 GVS Deep Dive
 
-👁️ 10K • 👍 832 • 💬 187 • ⏱️ 22:55 • 12h ago
+👁️ 10K • 👍 832 • 💬 187 • ⏱️ 22:55 • 13h ago
 
 ---
 
@@ -324,7 +324,7 @@ Congratulations, America. We have now reached the point where you can automate d
 
 📺 The Ring of Fire
 
-👁️ 2K • 👍 520 • 💬 35 • ⏱️ 5:13 • 2h ago
+👁️ 2K • 👍 520 • 💬 35 • ⏱️ 5:13 • 3h ago
 
 ---
 
@@ -691,7 +691,7 @@ All-in-one AI framework & toolkit for Claude Code & Cursor
 
 `Python` `ai-agent` `ai-coding` `claude-code` `cli` `cursor`
 
-⭐ 2.2k • 🔱 108 • 17h ago
+⭐ 2.2k • 🔱 108 • 18h ago
 
 ---
 
@@ -711,7 +711,7 @@ Warcraft III Peon voice notifications (+ more!) for Claude Code, Codex, and othe
 
 `Shell` `ai` `ai-engineering` `antigravity` `claude-code` `codex`
 
-⭐ 2.0k • 🔱 138 • 41m ago
+⭐ 2.0k • 🔱 138 • 1h ago
 
 ---
 

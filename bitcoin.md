@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-02-14T20:53:13.050782+00:00'
+updated: '2026-02-14T21:25:47.654744+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- news
-- videos
-- cryptocurrency
 - social
+- news
+- cryptocurrency
+- videos
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** February 14, 2026 at 20:53 UTC  
+**Last Updated:** February 14, 2026 at 21:25 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -81,7 +81,7 @@ Rank #1
 
 The US started a strategic reserve. UAE's stacking. China's realizing dollars can be cancelled overnight. It's not crazy to think major countries are racing to 1M+ stockpiles. The only question: How much can retail plebs grab before it goes full blown? Your DCA game might me more important than ever.
 
-3h ago
+4h ago
 
 ---
 
@@ -111,7 +111,7 @@ Does anyone else have the feeling it will go back above 100k sooner than people 
 
 I’m 14 and just started learning about Bitcoin and saving in general. I began with $100 and my plan is to put around 30% of my weekly savings into BTC as a long-term DCA strategy. I’m not trading or trying to time the market, just stacking and holding. For people who started young with small amounts, did you stick to strict DCA no matter the price, or keep some cash for bigger dips? My goal is to build good habits early and think in years, not months
 
-10h ago
+11h ago
 
 ---
 
@@ -127,7 +127,7 @@ hoping to atleast get to 0.25 during this dip. I dont believe we are in a crypto
 
 Frecuently I see people saying that they buy Bitcoin weekly or daily. Is there a way to reduce commissions? It seems that buying monthly would be more productive
 
-5h ago
+6h ago
 
 ---
 
@@ -135,7 +135,7 @@ Frecuently I see people saying that they buy Bitcoin weekly or daily. Is there a
 
 Its going up, fast. Bitcoin is volatile - that works both ways. Once bear sentiment wears off, the price isn’t going to chop sideways forever; a couple green days & FOMO kicks in - volatility suddenly works in its favor. Always happened always will happen. Bitcoin is a perfect model of investor psychology, fear then FOMO fear then FOMO.
 
-18h ago
+19h ago
 
 ---
 
@@ -161,7 +161,7 @@ Hi everyone, I’m new and recently bought about ¥75,000 worth of Bitcoin. I’
 
 Despite the price recovery, the Crypto Fear & Greed Index remains in “extreme fear,” indicating underlying market anxiety.
 
-CoinDesk • 8h ago
+CoinDesk • 9h ago
 
 ---
 
@@ -169,7 +169,7 @@ CoinDesk • 8h ago
 
 CQ said bitcoin has not reached full capitulation yet, as key onchain indicators remain in a Bear Phase rather than the Extreme Bear Phase.
 
-The Block • 23h ago
+The Block • 1d ago
 
 ---
 
@@ -185,7 +185,7 @@ CNBC • 2d ago
 
 Bitcoin tests $70,000 as funding rates hit 2024 lows, raising short squeeze potential toward $76,685 if resistance breaks.
 
-Yahoo Finance • 2h ago
+Yahoo Finance • 3h ago
 
 ---
 
@@ -193,7 +193,7 @@ Yahoo Finance • 2h ago
 
 Bitcoin and Ethereum spiked — briefly — on Saturday.  But Dogecoin, the ninth biggest coin, rose significantly.  Most major coins made modest gains.
 
-dlnews.com • 59m ago
+dlnews.com • 1h ago
 
 ---
 
@@ -325,7 +325,7 @@ Crypto Is About To Explode (Here's Why) “Like Buying Bitcoin in 2018” Concor
 
 📺 Altcoin Daily
 
-👁️ 53K • 👍 3K • 💬 259 • ⏱️ 15:20 • 20h ago
+👁️ 53K • 👍 3K • 💬 259 • ⏱️ 15:20 • 21h ago
 
 ---
 
@@ -335,7 +335,7 @@ Recently Bitcoin crashed to $60000, below key support levels set by the previous
 
 📺 Coin Bureau
 
-👁️ 33K • 👍 2K • 💬 262 • ⏱️ 19:46 • 6h ago
+👁️ 33K • 👍 2K • 💬 262 • ⏱️ 19:46 • 7h ago
 
 ---
 
@@ -345,7 +345,7 @@ Dan Ives is the Global Head of Technology Research at Wedbush Securities and one
 
 📺 Anthony Pompliano
 
-👁️ 35K • 👍 1K • ⏱️ 21:49 • 22h ago
+👁️ 35K • 👍 1K • ⏱️ 21:49 • 23h ago
 
 ---
 
@@ -355,7 +355,7 @@ Is the crash in bitcoin approaching capitulation and a major bottom in its price
 
 📺 Alessio Rastani
 
-👁️ 32K • 👍 3K • 💬 459 • ⏱️ 8:15 • 22h ago
+👁️ 32K • 👍 3K • 💬 459 • ⏱️ 8:15 • 23h ago
 
 ---
 
@@ -365,7 +365,7 @@ Want a free $30000 bonus + $20 just for signing up? Go here: ...
 
 📺 BitcoinHyper
 
-👁️ 8K • 👍 573 • 💬 19 • ⏱️ 14:31 • 8h ago
+👁️ 8K • 👍 573 • 💬 19 • ⏱️ 14:31 • 9h ago
 
 ---
 
@@ -393,7 +393,7 @@ BTC #Bitcoin #Cryptocurrency Join Michael Saylor for his unforgettable keynote a
 
 📺 Meish's Mind
 
-👁️ 5K • 👍 2K • 1h ago
+👁️ 5K • 👍 2K • 2h ago
 
 ---
 
@@ -403,7 +403,7 @@ Jordi Visser is a veteran macro investor with 30+ years of experience and the au
 
 📺 Anthony Pompliano
 
-👁️ 31K • 👍 2K • 💬 89 • ⏱️ 21:10 • 6h ago
+👁️ 31K • 👍 2K • 💬 89 • ⏱️ 21:10 • 7h ago
 
 ---
 
