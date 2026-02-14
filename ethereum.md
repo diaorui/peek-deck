@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-02-14T19:25:13.563261+00:00'
+updated: '2026-02-14T19:45:43.212286+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- news
-- cryptocurrency
 - videos
+- news
 - social
+- cryptocurrency
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** February 14, 2026 at 19:25 UTC  
+**Last Updated:** February 14, 2026 at 19:45 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -36,17 +36,17 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Price
 
-### $2,074.54
+### $2,085.00
 
 ---
 
 ## Ethereum Chart
 
-**24h:** +1.2%  
+**24h:** +2.0%  
 **7d:** -0.2%  
 **30d:** -36.7%  
 **90d:** -31.2%  
-**1y:** -22.6%  
+**1y:** -22.5%  
 
 ---
 
@@ -204,19 +204,11 @@ Nasdaq • 8h ago
 
 ---
 
-**[3 Reasons Why Ethereum Is Surging Today](https://www.fool.com/investing/2026/02/13/3-reasons-why-ethereum-is-surging-today/)**
+**[LBank Launches 16th BoostHub Campaign Featuring Ethereum with 30 ETH in Rewards](https://markets.businessinsider.com/news/currencies/lbank-launches-16th-boosthub-campaign-featuring-ethereum-with-30-eth-in-rewards-1035828448)**
 
-The world's second-largest cryptocurrency is up more than 7% today.
+Singapore, Singapore, February 14th, 2026, ChainwireLBank, the leading global crypto exchange, today announced the launch of ...
 
-The Motley Fool • 21h ago
-
----
-
-**[Ethereum supply is tightening – Is scarcity being underpriced?](https://ambcrypto.com/ethereum-supply-is-tightening-is-scarcity-being-underpriced/)**
-
-Supply migration into staking and whale custody is tightening Ethereum’s liquid availability.
-
-AMBCrypto • 5h ago
+markets.businessinsider.com • 8h ago
 
 ---
 
@@ -225,6 +217,14 @@ AMBCrypto • 5h ago
 Bitcoin (BTC), Ethereum (ETH) and Ripple (XRP) remain under pressure, extending losses of over 5%, 6% and 4%, respectively, so far this week. BTC trades below $67,000 while ETH and XRP correct after facing rejection around key levels.
 
 FXStreet • 1d ago
+
+---
+
+**[Ethereum Up or Down on February 14? Betting Odds & Predictions (Feb. 13, 2026)](https://polymarket.com/event/ethereum-up-or-down-on-february-14)**
+
+View real-time odds for "Ethereum Up or Down on February 14?" as of February 14, 2026 and trade on The World's Largest Prediction Market™
+
+Polymarket • 2d ago
 
 ---
 
@@ -258,7 +258,7 @@ This video provides a professional Elliott Wave and technical analysis of Ethere
 
 📺 More Crypto Online
 
-👁️ 1K • 👍 125 • 💬 3 • ⏱️ 4:28 • 5h ago
+👁️ 1K • 👍 125 • 💬 3 • ⏱️ 4:28 • 6h ago
 
 ---
 
@@ -318,7 +318,7 @@ ETHEREUM ETH PRICE PREDICTION 2026 Join the Premium Signal Group for trade setup
 
 📺 Cilinix Crypto
 
-👁️ 192 • 👍 15 • 💬 1 • ⏱️ 4:46 • 8h ago
+👁️ 192 • 👍 15 • 💬 1 • ⏱️ 4:46 • 9h ago
 
 ---
 
@@ -328,7 +328,7 @@ BITCOIN & ALTCOIN WARNING: It's Happening AGAIN!!!! - Bitcoin News Today, Ethere
 
 📺 Crypto World
 
-👁️ 11K • 👍 397 • 💬 61 • ⏱️ 21:40 • 1d ago
+👁️ 11K • 👍 397 • 💬 61 • ⏱️ 21:40 • 2d ago
 
 ---
 

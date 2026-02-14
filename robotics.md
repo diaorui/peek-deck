@@ -3,13 +3,13 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-02-14T19:25:13.566479+00:00'
+updated: '2026-02-14T19:45:43.215452+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- news
 - videos
+- news
 - social
 ---
 
@@ -17,7 +17,7 @@ data_types:
 
 Robotics research and industry news
 
-**Last Updated:** February 14, 2026 at 19:25 UTC  
+**Last Updated:** February 14, 2026 at 19:45 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -76,11 +76,19 @@ I posted a video a couple of days ago on r/esp32 showing my Open-Source robot da
 
 ---
 
+**[Orp-testmechv2 showcase 14-02-2026](https://www.reddit.com/r/robotics/comments/1r4t9gb/orptestmechv2_showcase_14022026/)**
+
+I finnaly made some progress with my orp-testmechv2 robot i had problems with finding a way to turn left and right but I finished it thanks by watching a video of a other robot dog
+
+🔗 [youtube.com](https://youtube.com/shorts/g_XyiRUCs8s?si=s0f3PeMrdA2_CI2j) • 27m ago
+
+---
+
 **[Comparing Augsburg Informatik (Robotics Track) vs Stuttgart Computational Linguistics — Need Real-World Insights](https://www.reddit.com/r/robotics/comments/1r48xox/comparing_augsburg_informatik_robotics_track_vs/)**
 
 Hi everyone, I’ve been admitted to two master’s programs in Germany and would really appreciate experiences and insights from people who know these fields or universities. I’m currently deciding between: • M.Sc. Computer Science (Informatik) at University of Augsburg, with an interest in robotics/interaction systems • M.Sc. Computational Linguistics at University of Stuttgart, where I want to gain strong AI/NLP skills and be in a dense research environment My interests lie at the intersection of intelligent systems, human-machine interaction, embodied agents, and robotics, but I’m not strictly hardware-focused — I’m excited by the AI/interaction/design side of robotics rather than low-level control or embedded systems. I have three main doubts I want to clarify: 1) How strong and practically valuable is the Augsburg Informatik program’s robotics specialization? Is it high enough quality (curriculum, labs, projects, industry links) to prepare someone for actual robotics / intelligent systems work — both in industry and research? Are there real opportunities for projects, internships
 
-16h ago
+17h ago
 
 ---
 
@@ -97,12 +105,6 @@ I am creating this thread to gather all fellow IEEE ICRA 2026 attendees(especial
 From hardware to software, I see every day tons of new startups, mostly around AI. I'm not sure if it's just me that my Twitter algorithm but like every day someone appears with all kinds of products. Lately i see an abundance of data collection, AI schematic or PCB creators, AI ros configurators, etc.... Are the tech bros got tired of AI SaaS saturation and getting into robotics hoping to get an edge?
 
 1d ago
-
----
-
-**[Servo-driven ball screw linear actuators for a real-time 6-DOF Stewart platform (cross-post from r/AskEngineers)](https://www.reddit.com/r/robotics/comments/1r472vj/servodriven_ball_screw_linear_actuators_for_a/)**
-
-18h ago
 
 ---
 
@@ -180,11 +182,11 @@ New York Post • 1d ago
 
 ---
 
-**[What to know about Chicago's delivery robots and the debate over them](https://chicago.suntimes.com/business/2026/delivery-robots-chicago-food-coco-robotics)**
+**[GE Aerospace uses robots to fix jet engine blades, reduce repair delay](https://interestingengineering.com/ai-robotics/ge-aerospace-robots-jet-engine-repair)**
 
-Some Chicago residents are fighting the deployment of robot delivery couriers. A petition started by a Lincoln Park resident has picked up over 3,400 signatures
+GE Aerospace is teaching robots to repair jet engine blades as global maintenance backlogs stretch into months.
 
-Chicago Sun-Times • 2d ago
+Interesting Engineering • 1d ago
 
 ---
 

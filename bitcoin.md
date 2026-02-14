@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-02-14T19:25:13.557144+00:00'
+updated: '2026-02-14T19:45:43.206302+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- news
-- cryptocurrency
 - videos
+- news
 - social
+- cryptocurrency
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** February 14, 2026 at 19:25 UTC  
+**Last Updated:** February 14, 2026 at 19:45 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -44,11 +44,11 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Chart
 
-**24h:** +1.2%  
-**7d:** -0.8%  
-**30d:** -27.0%  
-**90d:** -24.4%  
-**1y:** -28.5%  
+**24h:** +1.6%  
+**7d:** -0.7%  
+**30d:** -26.9%  
+**90d:** -24.3%  
+**1y:** -28.4%  
 
 ---
 
@@ -81,7 +81,7 @@ Rank #1
 
 Does anyone else have the feeling it will go back above 100k sooner than people expect? Everyone is talking about "the cycle is over" but what the crowd say will happen never happens, usually the opposite.. I'm not saying go all in but atleast if you're shorting, be very careful cause this can rocket in a brutal way Have a nice weekend everyone
 
-10h ago
+11h ago
 
 ---
 
@@ -95,7 +95,15 @@ The US started a strategic reserve. UAE's stacking. China's realizing dollars ca
 
 **[2025 vs 2026](https://www.reddit.com/r/Bitcoin/comments/1r40elq/2025_vs_2026/)**
 
-22h ago
+23h ago
+
+---
+
+**[Patriotic Millionaires' Erica Payne wants to preserve your FREEDOM, through the means of CONTROL & THEFT. This is why they hate Bitcoin so much and why Bitcoin will eventually WIN](https://www.reddit.com/r/Bitcoin/comments/1r4sk6h/patriotic_millionaires_erica_payne_wants_to/)**
+
+Bitcoin's censorship resistance preserves freedom from control.
+
+56m ago
 
 ---
 
@@ -111,7 +119,7 @@ I’m 14 and just started learning about Bitcoin and saving in general. I began 
 
 hoping to atleast get to 0.25 during this dip. I dont believe we are in a crypto winter yet.
 
-17h ago
+18h ago
 
 ---
 
@@ -123,20 +131,6 @@ Its going up, fast. Bitcoin is volatile - that works both ways. Once bear sentim
 
 ---
 
-**[Guess Whos Back, Back Again](https://www.reddit.com/r/Bitcoin/comments/1r3uia4/guess_whos_back_back_again/)**
-
-1d ago
-
----
-
-**[BTC always tanks when I have financial crisis...](https://www.reddit.com/r/Bitcoin/comments/1r3ytg5/btc_always_tanks_when_i_have_financial_crisis/)**
-
-Had to drop nearly 10k in medical bills... sure enough BTC tanks and as soon as I think im fine to buy a couple hundred... BOOM it either sky rockets or another random medical bill pops up worth a couple hundred and then BTC tanks... So I guess your welcome? And I'm sorry.
-
-23h ago
-
----
-
 **[Bitcoin DCA commissions?](https://www.reddit.com/r/Bitcoin/comments/1r4mvjq/bitcoin_dca_commissions/)**
 
 Frecuently I see people saying that they buy Bitcoin weekly or daily. Is there a way to reduce commissions? It seems that buying monthly would be more productive
@@ -145,11 +139,17 @@ Frecuently I see people saying that they buy Bitcoin weekly or daily. Is there a
 
 ---
 
+**[Guess Whos Back, Back Again](https://www.reddit.com/r/Bitcoin/comments/1r3uia4/guess_whos_back_back_again/)**
+
+1d ago
+
+---
+
 **[First-time buyer planning to hold long term; how do you approach accumulating Bitcoin?](https://www.reddit.com/r/Bitcoin/comments/1r4m28k/firsttime_buyer_planning_to_hold_long_term_how_do/)**
 
 Hi everyone, I’m new and recently bought about ¥75,000 worth of Bitcoin. I’m planning to hold for the long run and continue learning. I’m curious how more experienced people think about building their position over time. Do you follow a fixed schedule, focus on conviction, or have rules you stick to during volatility? I’m not asking for price predictions; just hoping to understand different approaches and mindsets. Thanks a lot
 
-4h ago
+5h ago
 
 ---
 
@@ -165,17 +165,17 @@ CoinDesk • 7h ago
 
 ---
 
-**[Inside Bitcoin’s wild nosedive near $60,000 – and what’s coming next](https://nypost.com/2026/02/13/business/inside-bitcoins-wild-nosedive-near-60000-and-whats-coming-next/)**
+**[Bitcoin Shorts Reach Most Extreme Level Since 2024 Bottom](https://finance.yahoo.com/news/bitcoin-shorts-reach-most-extreme-175734397.html)**
 
-Bitcoin plummeted as low as $60,000 last week in its worst weekly decline in three years – baffling crypto bulls who long hailed the digital currency as a hedge against inflation.
+Bitcoin tests $70,000 as funding rates hit 2024 lows, raising short squeeze potential toward $76,685 if resistance breaks.
 
-New York Post • 22h ago
+Yahoo Finance • 1h ago
 
 ---
 
-**[Bitcoin Steadies in Asia After Standard Chartered Warning](https://www.bloomberg.com/news/articles/2026-02-13/bitcoin-btc-under-pressure-in-asia-after-standard-chartered-warning)**
+**[Bitcoin Breaks Resistance: Is Big Money Rotating Back In?](https://www.binance.com/en/square/post/291621256819026)**
 
-Bloomberg.com • 1d ago
+Binance • 2h ago
 
 ---
 
@@ -184,6 +184,14 @@ Bloomberg.com • 1d ago
 Key PointsBitcoin's most important features probably won't change much between now and 2036.
 
 Nasdaq • 6h ago
+
+---
+
+**[Bitcoin biopic 'Killing Satoshi' leans into generative AI](https://mashable.com/article/killing-satoshi-film-sparks-ai-debate)**
+
+Actors and artists worry about the use of artificial intelligence in upcoming film.
+
+Mashable • 4h ago
 
 ---
 
@@ -203,13 +211,13 @@ Fox Business • 2d ago
 
 ---
 
-**[Crypto wallet in Nancy Guthrie note is traceable: Blockchain analyst](https://www.newsnationnow.com/crime/crypto-wallet-nancy-guthrie/)**
+**[4 ways the Nancy Guthrie case strikes at America's most contentious issues](https://www.axios.com/2026/02/13/nancy-guthrie-case-update-fbi-ransom-bitcoin)**
 
-NewsNation • 2d ago
+Axios • 3h ago
 
 ---
 
-**[Is Maga losing faith in Trump’s bitcoin promise?](https://www.thetimes.com/business/economics/article/maga-trump-bitcoin-kscxk5jkl?gaa_at=eafs&gaa_n=AWEtsqcqW898E2ImZ4XLPz9yY4zXmU0zorrFRnwm8CCJXG2NQsocvg7Cl7da&gaa_ts=6990c41c&gaa_sig=ZtBzdcbNg6mOgHsTe4tjoIUQbNfxKfSkfb7FYLe0DDf6GRNHyOsJVK-ZJtBdGCuS2uRzdV1pYE1tez1dJcMF7w%3D%3D)**
+**[Is Maga losing faith in Trump’s bitcoin promise?](https://www.thetimes.com/business/economics/article/maga-trump-bitcoin-kscxk5jkl?gaa_at=eafs&gaa_n=AWEtsqcAZbhMJWcfR-NFCO25PhWCC4DcK92LPuXTA_1v24qta1IdngCJZ0y-&gaa_ts=6990d453&gaa_sig=0fwAvrMRD_YQCMTAVpJvVotba199ybB9cbiAOx4xZQZ-psUwss96smX-FWnbY4dyrTPJiYDSEoLwcS9O0Zix0w%3D%3D)**
 
 The US president’s supporters dreamt of a day when the cryptocurrency would hit $300,000. Now the market is in disarray
 
@@ -217,17 +225,11 @@ The Times • 1d ago
 
 ---
 
-**[Bitcoin’s plunge should end the hype that it is digital gold](https://thehill.com/opinion/finance/5735525-bitcoin-gold-performance-disparity/)**
+**[Inside Bitcoin’s wild nosedive near $60,000 – and what’s coming next](https://nypost.com/2026/02/13/business/inside-bitcoins-wild-nosedive-near-60000-and-whats-coming-next/)**
 
-The Hill • 1d ago
+Bitcoin plummeted as low as $60,000 last week in its worst weekly decline in three years – baffling crypto bulls who long hailed the digital currency as a hedge against inflation.
 
----
-
-**[Strategy (MSTR) Accounted for 97.5% of Corporate Bitcoin Buying Last Month, Report Shows](https://bitcoinmagazine.com/news/strategy-mstr-accounted-corporate-bitcoin)**
-
-The corporate adoption of bitcoin was dominated by a single player last month — Strategy.
-
-Bitcoin Magazine • 2d ago
+New York Post • 22h ago
 
 ---
 
@@ -244,12 +246,6 @@ Bitcoin Magazine • 2d ago
 **[$40B in Bitcoin Accidentally Given Away](https://news.ycombinator.com/item?id=46965768)**
 
 ⬆️ 10 • 💬 0 • 3d ago • [wsj.com](https://www.wsj.com/finance/currencies/a-bitcoin-blunder-for-the-ages-40-billion-accidentally-given-away-3a207eac)
-
----
-
-**[South Korean crypto firm accidentally sends $44B in bitcoins to users](https://news.ycombinator.com/item?id=46926461)**
-
-⬆️ 6 • 💬 0 • 7d ago • [reuters.com](https://www.reuters.com/world/asia-pacific/crypto-firm-accidentally-sends-44-billion-bitcoins-users-2026-02-07/)
 
 ---
 
@@ -309,6 +305,14 @@ Bithumb has apologised for staff error that sent customers 620,000 bitcoins inst
 
 ---
 
+**[Bitcoin investor's helped draft law to enable libertarian Caribbean development](https://news.ycombinator.com/item?id=46947225)**
+
+Local opponents criticise legislation that will facilitate ‘networked state’ community and hand executive powers to developer
+
+⬆️ 2 • 💬 0 • 5d ago • [ft.com](https://www.ft.com/content/50c2f8e0-a0a4-4433-805d-46e9e0345d4a)
+
+---
+
 ---
 
 ## YouTube Videos: "bitcoin"
@@ -359,7 +363,7 @@ Watch The FULL Interview: https://www.youtube.com/watch?v=ifvU-MHBkoQ Michael Sa
 
 📺 Library Of Wealth
 
-👁️ 3K • 👍 140 • 💬 21 • ⏱️ 13:28 • 13h ago
+👁️ 3K • 👍 140 • 💬 21 • ⏱️ 13:28 • 14h ago
 
 ---
 
