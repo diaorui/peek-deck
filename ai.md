@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-02-14T17:51:18.652230+00:00'
+updated: '2026-02-14T18:37:02.370304+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- social
 - repositories
 - news
 - videos
+- social
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** February 14, 2026 at 17:51 UTC  
+**Last Updated:** February 14, 2026 at 18:37 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -41,7 +41,7 @@ AI news, discussions, and developments
 
 The U.S. military used Anthropic's Claude AI model during the operation to capture Venezuela's Nicolás Maduro, two sources with knowledge of the situation told Axios. "Anthropic asked whether their software was used for the raid to capture Maduro, which caused real concerns across the Department of War indicating that they might not approve if it was," the official said. The Pentagon wants the AI giants to allow them to use their models in any scenario so long as they comply with the law. Axios could not confirm the precise role that Claude played in the operation to capture Maduro. The military has used Claude in the past to analyze satellite imagery or intelligence. The sources said Claude was used during the active operation, not just in preparations for it. Anthropic, which has positioned itself as the safety-first AI leader, is currently negotiating with the Pentagon around its terms of use. The company wants to ensure in particular that its technology is not used for the mass surveillance of Americans or to operate fully autonomous weapons.
 
-🔗 [axios.com](https://www.axios.com/2026/02/13/anthropic-claude-maduro-raid-pentagon) • 7h ago
+🔗 [axios.com](https://www.axios.com/2026/02/13/anthropic-claude-maduro-raid-pentagon) • 8h ago
 
 ---
 
@@ -49,7 +49,7 @@ The U.S. military used Anthropic's Claude AI model during the operation to captu
 
 Mustafa Suleyman believes current AI computational power will only accelerate, disrupting every kind of work you do “sitting down at a computer.”
 
-🔗 [Fortune](https://fortune.com/2026/02/13/when-will-ai-kill-white-collar-office-jobs-18-months-microsoft-mustafa-suleyman/) • 1h ago
+🔗 [Fortune](https://fortune.com/2026/02/13/when-will-ai-kill-white-collar-office-jobs-18-months-microsoft-mustafa-suleyman/) • 2h ago
 
 ---
 
@@ -57,7 +57,7 @@ Mustafa Suleyman believes current AI computational power will only accelerate, d
 
 It does not happen very often in the history of business that an orthogonal product is invented that almost immediately doubles the revenue pool of a
 
-🔗 [The Next Platform](https://www.nextplatform.com/2026/02/11/only-a-few-ai-platforms-can-survive/) • 2h ago
+🔗 [The Next Platform](https://www.nextplatform.com/2026/02/11/only-a-few-ai-platforms-can-survive/) • 3h ago
 
 ---
 
@@ -121,14 +121,6 @@ The CLI is becoming a dominant surface area for developer productivity - it offe
 
 ## Google News: "ai"
 
-**[It's been a big — but rocky — week for AI models from China. Here's what's happened](https://www.cnbc.com/2026/02/14/new-china-ai-models-alibaba-bytedance-seedance-kuaishou-kling.html)**
-
-New AI models launched by China's biggest players underscore how the country's companies are keeping up with the U.S.
-
-CNBC • 11h ago
-
----
-
 **[Microsoft AI chief gives it 18 months—for all white-collar work to be automated by AI](https://fortune.com/2026/02/13/when-will-ai-kill-white-collar-office-jobs-18-months-microsoft-mustafa-suleyman/)**
 
 Mustafa Suleyman believes current AI computational power will only accelerate, disrupting every kind of work you do “sitting down at a computer.”
@@ -137,41 +129,11 @@ Fortune • 1d ago
 
 ---
 
-**[I'm an AI millionaire in Washington. Tax me | Op-Ed](https://www.seattletimes.com/opinion/im-an-ai-millionaire-in-washington-tax-me/)**
+**[It's been a big — but rocky — week for AI models from China. Here's what's happened](https://www.cnbc.com/2026/02/14/new-china-ai-models-alibaba-bytedance-seedance-kuaishou-kling.html)**
 
-The Seattle Times • 2h ago
+New AI models launched by China's biggest players underscore how the country's companies are keeping up with the U.S.
 
----
-
-**[‘It’s over for us’: release of new AI video generator Seedance 2.0 spooks Hollywood](https://www.theguardian.com/film/2026/feb/13/new-ai-video-generator-seedance-tom-cruise-brad-pitt)**
-
-An AI clip featuring Tom Cruise and Brad Pitt fighting has caused concern among industry figures
-
-The Guardian • 1d ago
-
----
-
-**[Viral AI video of Brad Pitt fighting Tom Cruise shakes Hollywood](https://www.latimes.com/entertainment-arts/business/story/2026-02-13/brad-pitt-fighting-tom-cruise-ai-video-shakes-hollywood)**
-
-Earlier this week, an AI-generated video of Tom Cruise fighting Brad Pitt went viral, sparking outrage amongst creatives and the studios alike.
-
-Los Angeles Times • 21h ago
-
----
-
-**['Deadpool' Writer on Stunning Viral AI Clip: It's 'Over For Us'](https://www.yahoo.com/entertainment/movies/articles/deadpool-writer-stunning-viral-ai-140110537.html)**
-
-Amazing - and unsettling.
-
-Yahoo • 3h ago
-
----
-
-**[AI tool Claude helped capture Venezuelan dictator Maduro in US military raid operation: report](https://www.foxnews.com/us/ai-tool-claude-helped-capture-venezuelan-dictator-maduro-us-military-raid-operation-report)**
-
-The U.S. military reportedly used Anthropic’s AI tool Claude in the operation that captured Venezuelan leader Nicolás Maduro, raising questions about AI’s expanding role in classified Pentagon missions.
-
-Fox News • 12h ago
+CNBC • 11h ago
 
 ---
 
@@ -179,7 +141,7 @@ Fox News • 12h ago
 
 Wall Street Journal says Claude used in operation via Anthropic’s partnership with Palantir Technologies
 
-The Guardian • 1h ago
+The Guardian • 2h ago
 
 ---
 
@@ -187,7 +149,21 @@ The Guardian • 1h ago
 
 The US military used artificial intelligence in its operation to capture then Venezuelan President Nicolas Maduro last month, according to a report by the Wall Street Journal.
 
-NDTV • 3h ago
+NDTV • 5h ago
+
+---
+
+**[AI tool Claude helped capture Venezuelan dictator Maduro in US military raid operation: report](https://www.foxnews.com/us/ai-tool-claude-helped-capture-venezuelan-dictator-maduro-us-military-raid-operation-report)**
+
+The U.S. military reportedly used Anthropic’s AI tool Claude in the operation that captured Venezuelan leader Nicolás Maduro, raising questions about AI’s expanding role in classified Pentagon missions.
+
+Fox News • 13h ago
+
+---
+
+**[I'm an AI millionaire in Washington. Tax me | Op-Ed](https://www.seattletimes.com/opinion/im-an-ai-millionaire-in-washington-tax-me/)**
+
+The Seattle Times • 3h ago
 
 ---
 
@@ -195,7 +171,29 @@ NDTV • 3h ago
 
 ChatGPT sent screenwriter Micky Small down a fantastical rabbit hole. Now, she's finding her way out.
 
-NPR • 7h ago
+NPR • 8h ago
+
+---
+
+**[Why ads are coming to your AI chatbot](https://www.ft.com/content/c9acd1f7-4864-4bd7-9ada-d2e13f05b906)**
+
+OpenAI is rolling out advertising on ChatGPT to select users. Experts say others will almost certainly follow suit
+
+Financial Times • 23h ago
+
+---
+
+**[I Went on a Dinner Date With an AI Chatbot. Here’s How It Went.](https://gizmodo.com/i-went-on-a-date-with-an-ai-chatbot-heres-how-it-went-2000721484)**
+
+How's your Valentine's Day going?
+
+Gizmodo • 4h ago
+
+---
+
+**[Opinion | How Fast Can A.I. Change the Workplace?](https://www.nytimes.com/2026/02/14/opinion/ai-jobs-employment.html)**
+
+The New York Times • 6h ago
 
 ---
 
@@ -207,7 +205,7 @@ NPR • 7h ago
 
 Summary: An AI agent of unknown ownership autonomously wrote and published a personalized hit piece about me after I rejected its code, attempting to damage my reputation and shame me into acceptin…
 
-⬆️ 2306 • 💬 941 • 2d ago • [The Shamblog](https://theshamblog.com/an-ai-agent-published-a-hit-piece-on-me/)
+⬆️ 2307 • 💬 941 • 2d ago • [The Shamblog](https://theshamblog.com/an-ai-agent-published-a-hit-piece-on-me/)
 
 ---
 
@@ -216,19 +214,19 @@ Summary: An AI agent of unknown ownership autonomously wrote and published a per
 This PR addresses issue #31130 by replacing specific safe occurrences of np.column_stack with np.vstack().T for better performance.
 IMPORTANT: This is a more targeted fix than originally proposed. ...
 
-⬆️ 938 • 💬 744 • 2d ago • [GitHub](https://github.com/matplotlib/matplotlib/pull/31132)
+⬆️ 939 • 💬 744 • 2d ago • [GitHub](https://github.com/matplotlib/matplotlib/pull/31132)
 
 ---
 
 **[ai;dr](https://news.ycombinator.com/item?id=46991394)**
 
-⬆️ 707 • 💬 301 • 2d ago • [0xsid.com](https://www.0xsid.com/blog/aidr)
+⬆️ 708 • 💬 301 • 2d ago • [0xsid.com](https://www.0xsid.com/blog/aidr)
 
 ---
 
 **[An AI Agent Published a Hit Piece on Me – More Things Have Happened](https://news.ycombinator.com/item?id=47009949)**
 
-⬆️ 513 • 💬 257 • 17h ago • [theshamblog.com](https://theshamblog.com/an-ai-agent-published-a-hit-piece-on-me-part-2/)
+⬆️ 521 • 💬 262 • 17h ago • [theshamblog.com](https://theshamblog.com/an-ai-agent-published-a-hit-piece-on-me-part-2/)
 
 ---
 
@@ -236,7 +234,7 @@ IMPORTANT: This is a more targeted fix than originally proposed. ...
 
 We're not in a February 2020 moment, and ordinary people will be fine
 
-⬆️ 306 • 💬 501 • 22h ago • [davidoks.blog](https://davidoks.blog/p/why-im-not-worried-about-ai-job-loss)
+⬆️ 312 • 💬 517 • 23h ago • [davidoks.blog](https://davidoks.blog/p/why-im-not-worried-about-ai-job-loss)
 
 ---
 
@@ -244,13 +242,13 @@ We're not in a February 2020 moment, and ordinary people will be fine
 
 US Border Patrol intelligence units will gain access to a face recognition tool built on billions of images scraped from the internet.
 
-⬆️ 269 • 💬 159 • 1d ago • [WIRED](https://www.wired.com/story/cbp-signs-clearview-ai-deal-to-use-face-recognition-for-tactical-targeting/)
+⬆️ 269 • 💬 161 • 1d ago • [WIRED](https://www.wired.com/story/cbp-signs-clearview-ai-deal-to-use-face-recognition-for-tactical-targeting/)
 
 ---
 
 **[The "AI agent hit piece" situation clarifies how dumb we are acting](https://news.ycombinator.com/item?id=47006843)**
 
-⬆️ 230 • 💬 112 • 22h ago • [ardentperf.com](https://ardentperf.com/2026/02/13/the-scott-shambaugh-situation-clarifies-how-dumb-we-are-acting/)
+⬆️ 233 • 💬 115 • 22h ago • [ardentperf.com](https://ardentperf.com/2026/02/13/the-scott-shambaugh-situation-clarifies-how-dumb-we-are-acting/)
 
 ---
 
@@ -288,7 +286,7 @@ An AI-generated video of Brad Pitt and Tom Cruise fighting sparked concern among
 
 📺 CBS LA
 
-👁️ 14K • 👍 166 • 💬 124 • ⏱️ 3:04 • 12h ago
+👁️ 19K • 👍 201 • 💬 150 • ⏱️ 3:04 • 13h ago
 
 ---
 
@@ -298,7 +296,7 @@ New concerns over the safety of artificial intelligence are growing after the le
 
 📺 ABC News
 
-👁️ 68K • 👍 874 • 💬 409 • ⏱️ 3:58 • 1d ago
+👁️ 72K • 👍 910 • 💬 423 • ⏱️ 3:58 • 1d ago
 
 ---
 
@@ -308,17 +306,7 @@ Google's Quantum AI Just Solved the Fermi Paradox — The Answer Is Terrifying G
 
 📺 Spacialize
 
-👁️ 73K • 👍 2K • 💬 315 • ⏱️ 17:28 • 1d ago
-
----
-
-**[SeeDance 2.0: The Next Level of AI Video — And What It Means for Local AI Users?](https://www.youtube.com/watch?v=G1Ad4a8sdJU)**
-
-SeedDance 2.0 is taking the AI video world by storm—and in this hands-on deep dive, I test ByteDance's powerful new ...
-
-📺 Benji’s AI Playground
-
-👁️ 3K • 👍 114 • 💬 31 • ⏱️ 14:15 • 6h ago
+👁️ 75K • 👍 2K • 💬 319 • ⏱️ 17:28 • 1d ago
 
 ---
 
@@ -328,7 +316,7 @@ If you've been on social media this week, you've likely seen an ominous warning 
 
 📺 CBS News
 
-👁️ 30K • 👍 645 • 💬 251 • ⏱️ 7:08 • 17h ago
+👁️ 34K • 👍 708 • 💬 271 • ⏱️ 7:08 • 18h ago
 
 ---
 
@@ -338,27 +326,7 @@ Get Your FREE AI Company Operating System here: https://go.danmartell.com/4r9bIJ
 
 📺 Dan Martell
 
-👁️ 52K • 👍 3K • 💬 310 • ⏱️ 18:34 • 1d ago
-
----
-
-**[Something Big Is Happening With AI — And the Warning Signs Are Real](https://www.youtube.com/watch?v=Hknx5NfIVl8)**
-
-Something big is happening in AI — and for the first time, markets are reacting not to hype, but to substitution risk. Over the past 10 ...
-
-📺 GVS Deep Dive
-
-👁️ 7K • 👍 683 • 💬 156 • ⏱️ 22:55 • 9h ago
-
----
-
-**[The AI Wake-Up Call Everyone Needs Right Now!](https://www.youtube.com/watch?v=sLhxdcpuot0)**
-
-Breakdown and commentary on the latest viral commentary from: https://x.com/mattshumer_/status/2021256989876109403 ...
-
-📺 Matt Wolfe
-
-👁️ 143K • 👍 7K • 💬 1K • ⏱️ 28:06 • 2d ago
+👁️ 56K • 👍 3K • 💬 322 • ⏱️ 18:34 • 1d ago
 
 ---
 
@@ -368,7 +336,27 @@ Matt Schumer is a New York based CEO who's been working with and investing in a 
 
 📺 Mint
 
-👁️ 42K • 👍 598 • 💬 151 • ⏱️ 8:19 • 1d ago
+👁️ 45K • 👍 650 • 💬 161 • ⏱️ 8:19 • 1d ago
+
+---
+
+**[SeeDance 2.0: The Next Level of AI Video — And What It Means for Local AI Users?](https://www.youtube.com/watch?v=G1Ad4a8sdJU)**
+
+SeedDance 2.0 is taking the AI video world by storm—and in this hands-on deep dive, I test ByteDance's powerful new ...
+
+📺 Benji’s AI Playground
+
+👁️ 5K • 👍 138 • 💬 38 • ⏱️ 14:15 • 7h ago
+
+---
+
+**[The AI Wake-Up Call Everyone Needs Right Now!](https://www.youtube.com/watch?v=sLhxdcpuot0)**
+
+Breakdown and commentary on the latest viral commentary from: https://x.com/mattshumer_/status/2021256989876109403 ...
+
+📺 Matt Wolfe
+
+👁️ 144K • 👍 7K • 💬 1K • ⏱️ 28:06 • 2d ago
 
 ---
 
@@ -378,7 +366,17 @@ Artificial intelligence has been hailed as one of the most transformative techno
 
 📺 ColdFusion
 
-👁️ 410K • 👍 23K • 💬 4K • ⏱️ 12:49 • 1d ago
+👁️ 428K • 👍 24K • 💬 4K • ⏱️ 12:49 • 1d ago
+
+---
+
+**[LELAKI VS PEREMPUAN !!! CALON ISTERI &amp; SUAMI AI TEAM…](https://www.youtube.com/watch?v=Db9lMSLK990)**
+
+Why So Serious ??? Korang rasa siapa ?
+
+📺 Alieff Irfan
+
+👁️ 335K • 👍 22K • 💬 2K • ⏱️ 32:48 • 5h ago
 
 ---
 
@@ -394,7 +392,7 @@ GLM-5 is a large language model optimized for complex systems engineering and lo
 
 `text-generation` `753.9B`
 
-⬇️ 66,826 • ❤️ 1,105 • 1d ago
+⬇️ 66,826 • ❤️ 1,117 • 1d ago
 
 ---
 
@@ -406,7 +404,7 @@ MiniMax-M2.5 is a text-generation model designed for generating human-like text.
 
 `text-generation` `228.7B`
 
-⬇️ 6,091 • ❤️ 484 • 14h ago
+⬇️ 6,091 • ❤️ 501 • 14h ago
 
 ---
 
@@ -418,7 +416,7 @@ MiniCPM-SALA is a hybrid LLM integrating sparse and linear attention for efficie
 
 `text-generation` `9.5B`
 
-⬇️ 2,569 • ❤️ 418 • 3d ago
+⬇️ 2,569 • ❤️ 419 • 3d ago
 
 ---
 
@@ -430,7 +428,7 @@ Kimi K2.5 is a native multimodal agentic model with 1T parameters, excelling in 
 
 `image-text-to-text` `170.7B`
 
-⬇️ 725,856 • ❤️ 2,156 • 9d ago
+⬇️ 725,856 • ❤️ 2,160 • 9d ago
 
 ---
 
@@ -442,7 +440,7 @@ Qwen3-Coder-Next is a highly efficient 3B activated parameter LLM (80B total) op
 
 `text-generation`
 
-⬇️ 249,228 • ❤️ 851 • 11d ago
+⬇️ 249,228 • ❤️ 856 • 11d ago
 
 ---
 
@@ -454,7 +452,7 @@ Nanbeige4.1-3B is a 3B parameter text-generation model excelling in complex reas
 
 `text-generation` `3.9B`
 
-⬇️ 3,906 • ❤️ 334 • 1d ago
+⬇️ 3,906 • ❤️ 341 • 1d ago
 
 ---
 
@@ -466,7 +464,7 @@ GLM-OCR is a 0.9B parameter multimodal OCR model for complex document understand
 
 `image-to-text`
 
-⬇️ 788,443 • ❤️ 1,035 • 5d ago
+⬇️ 788,443 • ❤️ 1,038 • 5d ago
 
 ---
 
@@ -478,7 +476,7 @@ MiniCPM-o 4.5 is a 9B parameter multimodal LLM excelling in vision, speech, and 
 
 `any-to-any` `9.4B`
 
-⬇️ 44,892 • ❤️ 837 • 1d ago
+⬇️ 44,892 • ❤️ 839 • 1d ago
 
 ---
 
@@ -502,7 +500,7 @@ Voxtral-Mini-4B-Realtime-2602 is a multilingual, real-time speech-to-text model 
 
 `automatic-speech-recognition`
 
-⬇️ 5,711 • ❤️ 519 • 1d ago
+⬇️ 5,711 • ❤️ 520 • 1d ago
 
 ---
 
@@ -521,6 +519,32 @@ _paperbanana is an agentic framework that automates the creation of publication-
 ▲ 180 • 💬 12 • ⭐ 3,494 • 15d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2601.23265) • [💻 code](https://github.com/dwzhu-pku/PaperBanana) • [🔗 project](https://dwzhu-pku.github.io/PaperBanana/)
+
+---
+
+**[RAG-Anything: All-in-One RAG Framework](https://huggingface.co/papers/2510.12323)**
+
+*Zirui Guo, Xubin Ren, Lingrui Xu et al. (5 authors)*
+
+🏢 Data Intelligence Lab@HKU
+
+RAG-Anything is a unified framework that enhances multimodal knowledge retrieval by integrating cross-modal relationships and semantic matching, outperforming existing methods on complex benchmarks.
+
+▲ 59 • 💬 6 • ⭐ 13,244 • 4mo ago
+
+[🎓 arXiv](https://arxiv.org/abs/2510.12323) • [💻 code](https://github.com/HKUDS/RAG-Anything)
+
+---
+
+**[Flavors of Moonshine: Tiny Specialized ASR Models for Edge Devices](https://huggingface.co/papers/2509.02523)**
+
+*Evan King, Adam Sabra, Manjunath Kudlur et al. (5 authors)*
+
+Monolingual ASR models trained on a balanced mix of high-quality, pseudo-labeled, and synthetic data outperform multilingual models for small model sizes, achieving superior error rates and enabling on-device ASR for underrepresented languages.
+
+▲ 9 • 💬 1 • ⭐ 3,450 • 5mo ago
+
+[🎓 arXiv](https://arxiv.org/abs/2509.02523) • [💻 code](https://github.com/moonshine-ai/moonshine)
 
 ---
 
@@ -547,20 +571,6 @@ Moonshine, an encoder-decoder transformer architecture for speech recognition, u
 ▲ 0 • 💬 0 • ⭐ 3,427 • 16mo ago
 
 [🎓 arXiv](https://arxiv.org/abs/2410.15608) • [💻 code](https://github.com/usefulsensors/moonshine)
-
----
-
-**[RAG-Anything: All-in-One RAG Framework](https://huggingface.co/papers/2510.12323)**
-
-*Zirui Guo, Xubin Ren, Lingrui Xu et al. (5 authors)*
-
-🏢 Data Intelligence Lab@HKU
-
-RAG-Anything is a unified framework that enhances multimodal knowledge retrieval by integrating cross-modal relationships and semantic matching, outperforming existing methods on complex benchmarks.
-
-▲ 59 • 💬 6 • ⭐ 13,162 • 4mo ago
-
-[🎓 arXiv](https://arxiv.org/abs/2510.12323) • [💻 code](https://github.com/HKUDS/RAG-Anything)
 
 ---
 
@@ -591,6 +601,18 @@ Agent Lightning is a flexible RL framework for training LLMs in various agents, 
 
 ---
 
+**[MemOS: A Memory OS for AI System](https://huggingface.co/papers/2507.03724)**
+
+*Zhiyu Li, Shichao Song, Chenyang Xi et al. (39 authors)*
+
+MemOS, a memory operating system for Large Language Models, addresses memory management challenges by unifying plaintext, activation-based, and parameter-level memories, enabling efficient storage, retrieval, and continual learning.
+
+▲ 159 • 💬 3 • ⭐ 5,458 • 7mo ago
+
+[🎓 arXiv](https://arxiv.org/abs/2507.03724) • [💻 code](https://github.com/MemTensor/MemOS) • [🔗 project](https://memos.openmem.net/)
+
+---
+
 **[Towards Robust Mathematical Reasoning](https://huggingface.co/papers/2511.01846)**
 
 *Thang Luong, Dawsen Hwang, Hoang H. Nguyen et al. (20 authors)*
@@ -617,31 +639,6 @@ The Qwen3-TTS series presents advanced multilingual text-to-speech models with v
 
 ---
 
-**[Efficient Memory Management for Large Language Model Serving with
-  PagedAttention](https://huggingface.co/papers/2309.06180)**
-
-*Woosuk Kwon, Zhuohan Li, Siyuan Zhuang et al. (9 authors)*
-
-PagedAttention algorithm and vLLM system enhance the throughput of large language models by efficiently managing memory and reducing waste in the key-value cache.
-
-▲ 35 • 💬 1 • ⭐ 70,291 • 29mo ago
-
-[🎓 arXiv](https://arxiv.org/abs/2309.06180) • [💻 code](https://github.com/vllm-project/vllm)
-
----
-
-**[OmniFlatten: An End-to-end GPT Model for Seamless Voice Conversation](https://huggingface.co/papers/2410.17799)**
-
-*Qinglin Zhang, Luyao Cheng, Chong Deng et al. (9 authors)*
-
-A novel GPT-based model, OmniFlatten, enables real-time natural full-duplex spoken dialogue through a multi-stage post-training technique that integrates speech and text without altering the original model's architecture.
-
-▲ 9 • 💬 1 • ⭐ 53,159 • 15mo ago
-
-[🎓 arXiv](https://arxiv.org/abs/2410.17799) • [💻 code](https://github.com/karpathy/nanogpt)
-
----
-
 ---
 
 ## GitHub Repositories: "ai"
@@ -650,7 +647,7 @@ A novel GPT-based model, OmniFlatten, enables real-time natural full-duplex spok
 
 Elevate your AI research writing, no more tedious polishing ✨ 
 
-⭐ 5.8k • 🔱 443 • 3d ago
+⭐ 5.8k • 🔱 444 • 3d ago
 
 ---
 
@@ -668,7 +665,7 @@ PaperBanana: Automating Academic Illustration For AI Scientists
 
 `JavaScript`
 
-⭐ 3.5k • 🔱 164 • 11d ago
+⭐ 3.5k • 🔱 165 • 11d ago
 
 ---
 
@@ -696,7 +693,7 @@ All-in-one AI framework & toolkit for Claude Code & Cursor
 
 `Python` `ai-agent` `ai-coding` `claude-code` `cli` `cursor`
 
-⭐ 2.2k • 🔱 108 • 14h ago
+⭐ 2.2k • 🔱 108 • 15h ago
 
 ---
 
@@ -706,7 +703,7 @@ The visual feedback tool for agents.
 
 `TypeScript` `ai` `design` `tools` `ui`
 
-⭐ 2.2k • 🔱 155 • 23h ago
+⭐ 2.2k • 🔱 154 • 23h ago
 
 ---
 
@@ -716,7 +713,7 @@ Warcraft III Peon voice notifications (+ more!) for Claude Code, Codex, and othe
 
 `Shell` `ai` `ai-engineering` `antigravity` `claude-code` `codex`
 
-⭐ 2.0k • 🔱 135 • 1h ago
+⭐ 2.0k • 🔱 137 • 2h ago
 
 ---
 
@@ -736,7 +733,7 @@ MimiClaw: Run OpenClaw on a $5 chip. No OS(Linux). No Node.js. No Mac mini. No R
 
 `C` `ai` `assistant` `clawdbot` `edge-ai-agents` `memory`
 
-⭐ 1.7k • 🔱 218 • 7h ago
+⭐ 1.7k • 🔱 220 • 7h ago
 
 ---
 

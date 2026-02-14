@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-02-14T17:51:18.669466+00:00'
+updated: '2026-02-14T18:37:02.389401+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- social
 - news
 - videos
+- social
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** February 14, 2026 at 17:51 UTC  
+**Last Updated:** February 14, 2026 at 18:37 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -36,13 +36,7 @@ Robotics research and industry news
 
 I added rubber pieces for the feet so it can grip the ground and central drivetrain! soon I will add the fan blades seen in the video.
 
-55m ago
-
----
-
-**[My grandmother has seen a little too much Winter Olympics](https://www.reddit.com/r/robotics/comments/1r4316q/my_grandmother_has_seen_a_little_too_much_winter/)**
-
-19h ago
+1h ago
 
 ---
 
@@ -50,7 +44,13 @@ I added rubber pieces for the feet so it can grip the ground and central drivetr
 
 Hello, In my free time, I am currently designing and building my first robot, inspired by a humanoid monkey shape, with the goal of learning robotics through a concrete and hands-on project. I have developed the project entirely from scratch: full mechanical design, complete 3D modeling of all parts, followed by manufacturing using 3D printing and integration of the different components (structure, actuators, power supply, and electronics).I am now about to start the programming and control phase of the robot. I am a beginner in computer science, but this project is precisely a way for me to progressively develop my skills through practical application. This personal project aims to strengthen and clarify my professional goal in robotics and mechatronics. I hope that it can eventually help me integrate an engineering school, or at least secure an internship within a company in this field. I would be very interested in receiving your feedback, advice, or constructive criticism on this approach: possible improvements, skills to focus on, or relevant directions for the continuation of my studies and projects. Thank you
 
-58m ago
+1h ago
+
+---
+
+**[My grandmother has seen a little too much Winter Olympics](https://www.reddit.com/r/robotics/comments/1r4316q/my_grandmother_has_seen_a_little_too_much_winter/)**
+
+20h ago
 
 ---
 
@@ -58,7 +58,7 @@ Hello, In my free time, I am currently designing and building my first robot, in
 
 Hello guys, I upgraded my first flight controller based on some errors I faced in my previous build and here is my V2 with more advanced features and future expansions for fixed wing drones or FPV drones. MCU STM32F405RGT6 Interfaces & IO ADC input for battery voltage measurement 8× PWM outputs 1× UART for radio 1x Barometer (BMP280) 1x Accelerometer (ICM-42688-PC) => BetaFlight compatible 1× UART for GPS 1x CAN bus expansion 1x SPI expansion 4× GPIOs SWD interface USB-C interface SD card slot for logging Notes Supports up to 12v input voltage Custom-designed PCB Hardware only All Fab Files included (Gerber/BOM/CPL/Schematic/PCB layout/PCB routing/and all settings)
 
-9h ago
+10h ago
 
 ---
 
@@ -72,7 +72,7 @@ I posted a video a couple of days ago on r/esp32 showing my Open-Source robot da
 
 **[[Release] LinkForge v1.2.3: Professional URDF/XACRO Editor for Blender](https://www.reddit.com/r/robotics/comments/1r4mk4j/release_linkforge_v123_professional_urdfxacro/)**
 
-2h ago
+3h ago
 
 ---
 
@@ -88,7 +88,7 @@ Hi everyone, I’ve been admitted to two master’s programs in Germany and woul
 
 I am creating this thread to gather all fellow IEEE ICRA 2026 attendees(especially students) who have or will be applying for a Schengen visa. Other forms of discussions about Travel Grant, leisure, general plans, registration etc., are also encouraged.
 
-7h ago
+8h ago
 
 ---
 
@@ -96,13 +96,13 @@ I am creating this thread to gather all fellow IEEE ICRA 2026 attendees(especial
 
 From hardware to software, I see every day tons of new startups, mostly around AI. I'm not sure if it's just me that my Twitter algorithm but like every day someone appears with all kinds of products. Lately i see an abundance of data collection, AI schematic or PCB creators, AI ros configurators, etc.... Are the tech bros got tired of AI SaaS saturation and getting into robotics hoping to get an edge?
 
-23h ago
+1d ago
 
 ---
 
 **[Servo-driven ball screw linear actuators for a real-time 6-DOF Stewart platform (cross-post from r/AskEngineers)](https://www.reddit.com/r/robotics/comments/1r472vj/servodriven_ball_screw_linear_actuators_for_a/)**
 
-16h ago
+17h ago
 
 ---
 
@@ -115,6 +115,44 @@ From hardware to software, I see every day tons of new startups, mostly around A
 Developing a durable and affordable hand is one of the biggest challenges in robotics.
 
 BBC • 1d ago
+
+---
+
+**[A call for a performance-driven approach for soft robotics research](https://www.nature.com/articles/s44182-026-00073-4)**
+
+npj Robotics - A call for a performance-driven approach for soft robotics research
+
+Nature • 2d ago
+
+---
+
+**[China has another solution to its shrinking population: robots](https://www.cnn.com/2026/02/13/china/china-population-robots-intl-hnk-dst)**
+
+China’s birth rate has hit a historic low – deepening fears of a major economic shock in the decades to come as the country’s massive labor force dwindles and its population of pension-drawing retirees swells.
+
+CNN • 14h ago
+
+---
+
+**[How A Chinese Engineer Became A Billionaire Making Robotic ‘Eyes’](https://www.forbes.com/sites/zinnialee/2026/02/12/how-a-chinese-engineer-became-a-billionaire-making-robotic-eyes/)**
+
+Forbes • 1d ago
+
+---
+
+**[Robotics Centre Presents BAAZ Hybrid VTOL UAV](https://militarnyi.com/en/news/robotics-centre-baaz-hybrid-vtol-uav/)**
+
+At the Robotics Centre booth, a new hybrid drone called BAAZ was presented, combining the advantages of a multicopter and an airplane.This was reported to Militarnyi by a company representative […]
+
+Мілітарний • 1d ago
+
+---
+
+**[IDF's new mechanical AI robot cleans tanks without soldiers](https://www.jpost.com/israel-news/defense-news/article-886585)**
+
+The robot operates autonomously, without soldiers present in dangerous environments and without exposure to chemicals, oils, or extreme heat.
+
+The Jerusalem Post • 20h ago
 
 ---
 
@@ -134,57 +172,19 @@ ChinaPower Project • 1d ago
 
 ---
 
-**[A call for a performance-driven approach for soft robotics research](https://www.nature.com/articles/s44182-026-00073-4)**
+**[People — and robots — in China are getting ready for grand Lunar New Year celebration](https://nypost.com/2026/02/13/world-news/people-and-robots-are-getting-ready-to-celebrate-the-lunar-new-year-in-china/)**
 
-npj Robotics - A call for a performance-driven approach for soft robotics research
+For a second year in a row, one of the fairs will be devoted to technology and — yes, again — robots will take center stage.
 
-Nature • 2d ago
-
----
-
-**[China has another solution to its shrinking population: robots](https://www.cnn.com/2026/02/13/china/china-population-robots-intl-hnk-dst)**
-
-China’s birth rate has hit a historic low – deepening fears of a major economic shock in the decades to come as the country’s massive labor force dwindles and its population of pension-drawing retirees swells.
-
-CNN • 13h ago
+New York Post • 1d ago
 
 ---
 
-**[How A Chinese Engineer Became A Billionaire Making Robotic ‘Eyes’](https://www.forbes.com/sites/zinnialee/2026/02/12/how-a-chinese-engineer-became-a-billionaire-making-robotic-eyes/)**
+**[What to know about Chicago's delivery robots and the debate over them](https://chicago.suntimes.com/business/2026/delivery-robots-chicago-food-coco-robotics)**
 
-Forbes • 1d ago
+Some Chicago residents are fighting the deployment of robot delivery couriers. A petition started by a Lincoln Park resident has picked up over 3,400 signatures
 
----
-
-**[Tesla is still a 'long way off' from functional humanoid robots](https://finance.yahoo.com/video/tesla-still-long-way-off-223500625.html)**
-
-Elon Musk has a tremendous vision for robotics and the mass adoption of this kind of technology. Gerber Kawasaki Wealth & Investment Management CEO Ross Gerber sits down with Josh Lipton to talk more about the Tesla (TSLA) and SpaceX (SPAX.PVT) CEO's plans for his Optimus humanoid robots and how the broader tech industry is reacting. To watch more expert insights and analysis on the latest market action, check out more&nbsp;Asking for a Trend.
-
-Yahoo Finance • 19h ago
-
----
-
-**[Robotics Centre Presents BAAZ Hybrid VTOL UAV](https://militarnyi.com/en/news/robotics-centre-baaz-hybrid-vtol-uav/)**
-
-At the Robotics Centre booth, a new hybrid drone called BAAZ was presented, combining the advantages of a multicopter and an airplane.This was reported to Militarnyi by a company representative […]
-
-Мілітарний • 1d ago
-
----
-
-**[IDF's new mechanical AI robot cleans tanks without soldiers](https://www.jpost.com/israel-news/defense-news/article-886585)**
-
-The robot operates autonomously, without soldiers present in dangerous environments and without exposure to chemicals, oils, or extreme heat.
-
-The Jerusalem Post • 19h ago
-
----
-
-**[GE Aerospace uses robots to fix jet engine blades, reduce repair delay](https://interestingengineering.com/ai-robotics/ge-aerospace-robots-jet-engine-repair)**
-
-GE Aerospace is teaching robots to repair jet engine blades as global maintenance backlogs stretch into months.
-
-Interesting Engineering • 1d ago
+Chicago Sun-Times • 2d ago
 
 ---
 
@@ -198,7 +198,15 @@ Foundation Future Industries CEO Sankaet Pathak discusses the rise of humanoid r
 
 📺 Fox Business Clips
 
-👁️ 190K • 👍 4K • 💬 3K • ⏱️ 9:47 • 1d ago
+👁️ 206K • 👍 5K • 💬 3K • ⏱️ 9:47 • 1d ago
+
+---
+
+**[Ai Speaking Robotics Language 😱 #jumpersjump #podcast #viral](https://www.youtube.com/watch?v=yX_Zijd2GpA)**
+
+📺 Harmoniax Health Seniors
+
+👁️ 29K • 👍 2K • 💬 40 • ⏱️ 1:22 • 5d ago
 
 ---
 
@@ -208,37 +216,37 @@ Based on Unitree's UnifoLM-X1-0 embodied AI model, this is an actual deployment 
 
 📺 Unitree Robotics
 
-👁️ 24K • 👍 700 • 💬 111 • ⏱️ 0:45 • 1d ago
+👁️ 25K • 👍 712 • 💬 111 • ⏱️ 0:45 • 1d ago
 
 ---
 
-**[Our latest reports on robots | 60 Minutes Full Episodes](https://www.youtube.com/watch?v=s1ISnaUQgUE)**
+**[Boston Dynamics ATLAS Demos 2026 Humanoid Robot Upgrade (AI NEWS)](https://www.youtube.com/watch?v=uTN75z0ixno)**
 
-From January, Bill Whitaker's look at the progress made on AI-powered humanoid robots. From last August, Scott Pelley's report ...
+Boston Dynamics' latest Atlas humanoid robot attempts dramatic parkour flips, dramatically improving spatial awareness and ...
 
-📺 60 Minutes
+📺 AI News
 
-👁️ 29K • 👍 1K • 💬 156 • ⏱️ 53:47 • 5h ago
-
----
-
-**[I Was Held Prisoner By My Self-Aware Robot](https://www.youtube.com/watch?v=lnDP902qeqw)**
-
-PART 3: I was held prisoner by E.L.B.E.R.R the robot and forced to build him an army. *No AI was used at all in the making of this ...
-
-📺 LIGHTS ARE OFF
-
-👁️ 277K • 👍 23K • 💬 3K • ⏱️ 10:32 • 8h ago
+👁️ 7K • 👍 107 • 💬 25 • ⏱️ 8:03 • 5d ago
 
 ---
 
-**[The “Order 66” Robot Theory with Telsa Optimus and starlink #elonmusk #grok  #humanoidrobots](https://www.youtube.com/watch?v=Y0a1sisNdv0)**
+**[Bro casually handles the ENTIRE ENEMY TEAM [War Robots UE Scorpion]](https://www.youtube.com/watch?v=CKkBcOUumb8)**
 
-The biggest fear about humanoid robots isn't strength. It's control. Future robots like Optimus are designed to stay connected ...
+War Robots #WRCommunity Gameplay: UE Havoc Scorpion by Assassin THIS Video explains how to upload your own gameplay: ...
 
-📺 By 2050
+📺 Manni-Gaming
 
-👁️ 76K • 👍 2K • 💬 48 • ⏱️ 0:57 • 1d ago
+👁️ 3K • 👍 268 • 💬 51 • ⏱️ 13:59 • 4h ago
+
+---
+
+**[Testing Hugging Face&#39;s Raspberry Pi-powered open source robot](https://www.youtube.com/watch?v=yvBbcLCZIhg)**
+
+Can a little Pi-powered bot teach my kids? The Reachy Mini Wireless I used was provided by HuggingFace and Pollen Robotics; ...
+
+📺 Jeff Geerling
+
+👁️ 69K • 👍 4K • 💬 244 • ⏱️ 12:38 • 1d ago
 
 ---
 
@@ -252,33 +260,13 @@ Such a debut would mark a major step for Apple as it expands beyond personal ele
 
 ---
 
-**[Testing Hugging Face&#39;s Raspberry Pi-powered open source robot](https://www.youtube.com/watch?v=yvBbcLCZIhg)**
+**[Galaxy of Robots: China Hosts World-First Humanoid Robot Gala | APT](https://www.youtube.com/watch?v=u2dSlko6J4w)**
 
-Can a little Pi-powered bot teach my kids? The Reachy Mini Wireless I used was provided by HuggingFace and Pollen Robotics; ...
+Join this channel to get access to perks: https://www.youtube.com/channel/UCpLEtz3H0jSfEneSdf1YKnw/join A Chinese robotics ...
 
-📺 Jeff Geerling
+📺 APT
 
-👁️ 66K • 👍 4K • 💬 238 • ⏱️ 12:38 • 1d ago
-
----
-
-**[Humanoid Robots Doing Backflips 🤖🔥](https://www.youtube.com/watch?v=xqyjrT2WyGc)**
-
-Humanoid robots are pushing physical limits — with real-time balance control, torque optimization, and AI-powered motion ...
-
-📺 Facts TV 91
-
-👁️ 26K • 👍 216 • 💬 10 • ⏱️ 0:06 • 16h ago
-
----
-
-**[Chinese robotics company’s world-first humanoid machine gala reveals high-tech surprises](https://www.youtube.com/watch?v=lW8_aHE68BE)**
-
-Chinese robotics company AGIBOT redefined the intersection of technology and culture by hosting a historic 60-minute gala ...
-
-📺 ABS-CBN News
-
-👁️ 20K • 👍 155 • 💬 94 • ⏱️ 3:09 • 2d ago
+👁️ 22K • 👍 590 • 💬 144 • ⏱️ 3:18 • 4d ago
 
 ---
 
@@ -288,7 +276,17 @@ You think Elon Musk built Optimus to fold laundry? That was a distraction. In 20
 
 📺 By 2050
 
-👁️ 1.1M • 👍 26K • 💬 901 • ⏱️ 0:56 • 5d ago
+👁️ 1.1M • 👍 26K • 💬 911 • ⏱️ 0:56 • 5d ago
+
+---
+
+**[The “Order 66” Robot Theory with Telsa Optimus and starlink #elonmusk #grok  #humanoidrobots](https://www.youtube.com/watch?v=Y0a1sisNdv0)**
+
+The biggest fear about humanoid robots isn't strength. It's control. Future robots like Optimus are designed to stay connected ...
+
+📺 By 2050
+
+👁️ 77K • 👍 2K • 💬 49 • ⏱️ 0:57 • 1d ago
 
 ---
 

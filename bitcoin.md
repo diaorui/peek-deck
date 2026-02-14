@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-02-14T17:51:18.660524+00:00'
+updated: '2026-02-14T18:37:02.379384+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- cryptocurrency
 - videos
-- social
 - news
+- cryptocurrency
+- social
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** February 14, 2026 at 17:51 UTC  
+**Last Updated:** February 14, 2026 at 18:37 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -44,27 +44,27 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Chart
 
-**24h:** +1.1%  
-**7d:** -0.6%  
-**30d:** -26.9%  
-**90d:** -24.3%  
-**1y:** -28.4%  
+**24h:** +1.2%  
+**7d:** -0.8%  
+**30d:** -27.0%  
+**90d:** -24.4%  
+**1y:** -28.5%  
 
 ---
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1387.14B
+**Market Cap:** $1394.13B
 Rank #1
 
-**Circulating Supply:** 19,989,259 BTC
+**Circulating Supply:** 19,989,293 BTC
 95.2% of max
 
 **All-Time High:** $126,080.00
--45.0%
+-44.7%
 
 **All-Time Low:** $67.81
-+102244.8%
++102752.1%
 
 ---
 
@@ -77,12 +77,6 @@ Rank #1
 
 ## Reddit: r/Bitcoin
 
-**[2025 vs 2026](https://www.reddit.com/r/Bitcoin/comments/1r40elq/2025_vs_2026/)**
-
-21h ago
-
----
-
 **[the direction](https://www.reddit.com/r/Bitcoin/comments/1r4fn76/the_direction/)**
 
 Does anyone else have the feeling it will go back above 100k sooner than people expect? Everyone is talking about "the cycle is over" but what the crowd say will happen never happens, usually the opposite.. I'm not saying go all in but atleast if you're shorting, be very careful cause this can rocket in a brutal way Have a nice weekend everyone
@@ -91,19 +85,25 @@ Does anyone else have the feeling it will go back above 100k sooner than people 
 
 ---
 
-**[I’m a young student trying to build a long-term Bitcoin position.](https://www.reddit.com/r/Bitcoin/comments/1r4gu7p/im_a_young_student_trying_to_build_a_longterm/)**
-
-I’m 14 and just started learning about Bitcoin and saving in general. I began with $100 and my plan is to put around 30% of my weekly savings into BTC as a long-term DCA strategy. I’m not trading or trying to time the market, just stacking and holding. For people who started young with small amounts, did you stick to strict DCA no matter the price, or keep some cash for bigger dips? My goal is to build good habits early and think in years, not months
-
-7h ago
-
----
-
 **[Dan Morehead from Pantera Capital, just said what everyone's thinking but nobody's saying: "There will be a global arms race for Bitcoin within the next 2-3 years."](https://www.reddit.com/r/Bitcoin/comments/1r4pv07/dan_morehead_from_pantera_capital_just_said_what/)**
 
 The US started a strategic reserve. UAE's stacking. China's realizing dollars can be cancelled overnight. It's not crazy to think major countries are racing to 1M+ stockpiles. The only question: How much can retail plebs grab before it goes full blown? Your DCA game might me more important than ever.
 
-46m ago
+1h ago
+
+---
+
+**[2025 vs 2026](https://www.reddit.com/r/Bitcoin/comments/1r40elq/2025_vs_2026/)**
+
+22h ago
+
+---
+
+**[I’m a young student trying to build a long-term Bitcoin position.](https://www.reddit.com/r/Bitcoin/comments/1r4gu7p/im_a_young_student_trying_to_build_a_longterm/)**
+
+I’m 14 and just started learning about Bitcoin and saving in general. I began with $100 and my plan is to put around 30% of my weekly savings into BTC as a long-term DCA strategy. I’m not trading or trying to time the market, just stacking and holding. For people who started young with small amounts, did you stick to strict DCA no matter the price, or keep some cash for bigger dips? My goal is to build good habits early and think in years, not months
+
+8h ago
 
 ---
 
@@ -119,7 +119,7 @@ hoping to atleast get to 0.25 during this dip. I dont believe we are in a crypto
 
 Its going up, fast. Bitcoin is volatile - that works both ways. Once bear sentiment wears off, the price isn’t going to chop sideways forever; a couple green days & FOMO kicks in - volatility suddenly works in its favor. Always happened always will happen. Bitcoin is a perfect model of investor psychology, fear then FOMO fear then FOMO.
 
-15h ago
+16h ago
 
 ---
 
@@ -133,7 +133,15 @@ Its going up, fast. Bitcoin is volatile - that works both ways. Once bear sentim
 
 Had to drop nearly 10k in medical bills... sure enough BTC tanks and as soon as I think im fine to buy a couple hundred... BOOM it either sky rockets or another random medical bill pops up worth a couple hundred and then BTC tanks... So I guess your welcome? And I'm sorry.
 
-22h ago
+23h ago
+
+---
+
+**[Bitcoin DCA commissions?](https://www.reddit.com/r/Bitcoin/comments/1r4mvjq/bitcoin_dca_commissions/)**
+
+Frecuently I see people saying that they buy Bitcoin weekly or daily. Is there a way to reduce commissions? It seems that buying monthly would be more productive
+
+3h ago
 
 ---
 
@@ -141,15 +149,7 @@ Had to drop nearly 10k in medical bills... sure enough BTC tanks and as soon as 
 
 Hi everyone, I’m new and recently bought about ¥75,000 worth of Bitcoin. I’m planning to hold for the long run and continue learning. I’m curious how more experienced people think about building their position over time. Do you follow a fixed schedule, focus on conviction, or have rules you stick to during volatility? I’m not asking for price predictions; just hoping to understand different approaches and mindsets. Thanks a lot
 
-3h ago
-
----
-
-**[Any options for a simple man who doesn't want to deal with cold wallets?](https://www.reddit.com/r/Bitcoin/comments/1r47tpf/any_options_for_a_simple_man_who_doesnt_want_to/)**
-
-I seek simplicity in my life. I want Bitcoin exposure (as an investment, don't need liquidity). I've dealt with cold wallets in the past and do not enjoy this. Are there safe options? I ultimately want an experience similar to a brokerage investment, but I know leaving BTC on the exchange is a bad idea.
-
-15h ago
+4h ago
 
 ---
 
@@ -161,7 +161,7 @@ I seek simplicity in my life. I want Bitcoin exposure (as an investment, don't n
 
 Despite the price recovery, the Crypto Fear & Greed Index remains in “extreme fear,” indicating underlying market anxiety.
 
-CoinDesk • 5h ago
+CoinDesk • 6h ago
 
 ---
 
@@ -169,7 +169,13 @@ CoinDesk • 5h ago
 
 Bitcoin plummeted as low as $60,000 last week in its worst weekly decline in three years – baffling crypto bulls who long hailed the digital currency as a hedge against inflation.
 
-New York Post • 20h ago
+New York Post • 21h ago
+
+---
+
+**[Bitcoin Steadies in Asia After Standard Chartered Warning](https://www.bloomberg.com/news/articles/2026-02-13/bitcoin-btc-under-pressure-in-asia-after-standard-chartered-warning)**
+
+Bloomberg.com • 1d ago
 
 ---
 
@@ -181,25 +187,11 @@ Nasdaq • 5h ago
 
 ---
 
-**[Bitcoin and XRP Are Crashing. Should You Buy the Dip?](https://www.nasdaq.com/articles/bitcoin-and-xrp-are-crashing-should-you-buy-dip)**
+**[Bitcoin reportedly sent to wallet associated with Nancy Guthrie’s ransom letter providing potential clue in investigation](https://fortune.com/2026/02/11/bitcoin-reportedly-sent-to-wallet-associated-with-nancy-guthries-ransom-letter/)**
 
-Key PointsThe crypto market crashed in the first week of February.
+Meanwhile, authorities released surveillance video showing the alleged captor who remains at large.
 
-Nasdaq • 2d ago
-
----
-
-**[Better Cryptocurrency to Buy Now and Hold for 10 Years: XRP vs. Bitcoin](https://www.fool.com/investing/2026/02/14/better-cryptocurrency-to-buy-now-and-hold-for-10-y/)**
-
-Both these assets have earned their place as leaders, but the next 10 years could be tough for one of them.
-
-The Motley Fool • 5h ago
-
----
-
-**[Bitcoin Steadies in Asia After Standard Chartered Warning](https://www.bloomberg.com/news/articles/2026-02-13/bitcoin-btc-under-pressure-in-asia-after-standard-chartered-warning)**
-
-Bloomberg.com • 1d ago
+Fortune • 3d ago
 
 ---
 
@@ -217,19 +209,25 @@ NewsNation • 2d ago
 
 ---
 
-**[Exclusive | How bitcoin exchange gave authorities’ ‘control’ over Nancy Guthrie’s kidnapper: crypto expert](https://pagesix.com/2026/02/11/celebrity-news/how-bitcoin-exchange-gave-authorities-control-over-nancy-guthries-kidnapper-crypto-expert/)**
-
-“They are now the target of forensic tracking,” CEO of Lionsgate Network Bezalel Eithan Raviv said of the suspect.
-
-Page Six • 2d ago
-
----
-
-**[Is Maga losing faith in Trump’s bitcoin promise?](https://www.thetimes.com/business/economics/article/maga-trump-bitcoin-kscxk5jkl?gaa_at=eafs&gaa_n=AWEtsqdpzPuZPrzXuVqoHrSeIF8gMUqOHlAg9EJNQAAqz22j1ItDnDKl9Ihp&gaa_ts=6990b3cc&gaa_sig=yNDLCzfeDn5gcTKWM1zGHnextyLKtcri81Csl9w3_tU1pLCJ4QNjVmJxaqd8Cx5ARi4dvm6hC_PDdjSe8gx4MQ%3D%3D)**
+**[Is Maga losing faith in Trump’s bitcoin promise?](https://www.thetimes.com/business/economics/article/maga-trump-bitcoin-kscxk5jkl?gaa_at=eafs&gaa_n=AWEtsqcqW898E2ImZ4XLPz9yY4zXmU0zorrFRnwm8CCJXG2NQsocvg7Cl7da&gaa_ts=6990c41c&gaa_sig=ZtBzdcbNg6mOgHsTe4tjoIUQbNfxKfSkfb7FYLe0DDf6GRNHyOsJVK-ZJtBdGCuS2uRzdV1pYE1tez1dJcMF7w%3D%3D)**
 
 The US president’s supporters dreamt of a day when the cryptocurrency would hit $300,000. Now the market is in disarray
 
 The Times • 1d ago
+
+---
+
+**[Bitcoin’s plunge should end the hype that it is digital gold](https://thehill.com/opinion/finance/5735525-bitcoin-gold-performance-disparity/)**
+
+The Hill • 1d ago
+
+---
+
+**[Strategy (MSTR) Accounted for 97.5% of Corporate Bitcoin Buying Last Month, Report Shows](https://bitcoinmagazine.com/news/strategy-mstr-accounted-corporate-bitcoin)**
+
+The corporate adoption of bitcoin was dominated by a single player last month — Strategy.
+
+Bitcoin Magazine • 1d ago
 
 ---
 
@@ -263,14 +261,6 @@ The crypto crash is coming — and the landing won’t be pretty
 
 ---
 
-**[Bithumb mistakenly hands out $195M in Bitcoin to users in 'Random Box' giveaway](https://news.ycombinator.com/item?id=46925668)**
-
-Bithumb, Korea's second-largest cryptocurrency exchange, mistakenly credited users with Bitcoin worth approximately 260 billion won ($195 million), instead of the modest number of reward points or Bitcoin that it had intended to distribute.
-
-⬆️ 5 • 💬 0 • 7d ago • [koreajoongangdaily.joins.com](https://koreajoongangdaily.joins.com/news/2026-02-07/business/finance/Crypto-exchange-Bithumb-mistakenly-hands-out-195M-in-Bitcoin-to-users-in-Random-Box-giveaway/2518495)
-
----
-
 **[Bitcoin company helped draft law to enable libertarian Caribbean development](https://news.ycombinator.com/item?id=46936132)**
 
 Local opponents criticise legislation that will facilitate ‘networked state’ community and hand executive powers to developer
@@ -299,7 +289,7 @@ The move triggered a sharp selloff on the Bithumb exchange. The company apologiz
 
 What do Bitcoin miners actually do? An interactive exploration of hashing, difficulty adjustment, and why proof of work makes Bitcoin sound money.
 
-⬆️ 2 • 💬 2 • 2d ago • [bennet.org](https://bennet.org/learn/proof-of-work-what-bitcoin-mining-really-does/)
+⬆️ 2 • 💬 2 • 3d ago • [bennet.org](https://bennet.org/learn/proof-of-work-what-bitcoin-mining-really-does/)
 
 ---
 
@@ -311,19 +301,17 @@ Explore everything you can do as a lightning app builder using Alby - getAlby/sa
 
 ---
 
+**[South Korean exchange races to recover $40B of Bitcoin sent by mistake](https://news.ycombinator.com/item?id=46958388)**
+
+Bithumb has apologised for staff error that sent customers 620,000 bitcoins instead of 620,000 Korean won, equivalent to a few hundred US dollars
+
+⬆️ 2 • 💬 1 • 4d ago • [the Guardian](https://www.theguardian.com/world/2026/feb/10/bithumb-korean-crypto-exchange-sent-bitcoin-mistake)
+
+---
+
 ---
 
 ## YouTube Videos: "bitcoin"
-
-**[Bitcoin Is Closer to a Breakout Than People Think](https://www.youtube.com/watch?v=uVk1Fubl2HA)**
-
-Dan Ives is the Global Head of Technology Research at Wedbush Securities and one of the most widely followed analysts ...
-
-📺 Anthony Pompliano
-
-👁️ 31K • 👍 1K • ⏱️ 21:49 • 19h ago
-
----
 
 **[Crypto Is About To Explode (Here’s Why) “Like Buying Bitcoin in 2018”](https://www.youtube.com/watch?v=ifvU-MHBkoQ)**
 
@@ -331,67 +319,47 @@ Crypto Is About To Explode (Here's Why) “Like Buying Bitcoin in 2018” Concor
 
 📺 Altcoin Daily
 
-👁️ 47K • 👍 3K • 💬 241 • ⏱️ 15:20 • 17h ago
+👁️ 50K • 👍 3K • 💬 248 • ⏱️ 15:20 • 18h ago
 
 ---
 
-**[Bitcoin Just Flashed a Rare Signal Not Seen in Years...](https://www.youtube.com/watch?v=_DVWmQ8kPxc)**
+**[Bitcoin Miners Are Abandoning BTC... And No One Is Talking About Why](https://www.youtube.com/watch?v=cQj0D74gT_Y)**
 
-Predict Crypto, Sports, Politics & More on *ClashPicks* ▻ https://www.clashpicks.com/ Follow ClashPicks' X ...
+Recently Bitcoin crashed to $60000, below key support levels set by the previous cycle. This has put BTC's price in the danger ...
 
-📺 CryptosRUs
+📺 Coin Bureau
 
-👁️ 28K • 👍 1K • 💬 82 • ⏱️ 53:57 • 1d ago
-
----
-
-**[Did Pam Bondi’s CRASH OUT Signal a Bitcoin BREAKOUT?](https://www.youtube.com/watch?v=aDL3QVutH8Q)**
-
-Pam Bondi gets slammed on live TV and the cracks in the system are impossible to ignore. As global uncertainty explodes and the ...
-
-📺 Simply Bitcoin
-
-👁️ 26K • 👍 2K • 💬 174 • ⏱️ 21:31 • 1d ago
+👁️ 21K • 👍 1K • 💬 211 • ⏱️ 19:46 • 4h ago
 
 ---
 
-**[Bitcoin is ‘the most useful capital asset in the world,’ Michael Saylor emphasizes](https://www.youtube.com/watch?v=l1tGOvg288k)**
+**[Bitcoin Is Closer to a Breakout Than People Think](https://www.youtube.com/watch?v=uVk1Fubl2HA)**
 
-Strategy executive chairman and founder Michael Saylor gives his take on Bitcoin's volatility on 'Making Money.' #fox #media ...
-
-📺 Fox Business
-
-👁️ 46K • 👍 837 • 💬 1K • ⏱️ 8:19 • 1d ago
-
----
-
-**[Largest Bitcoin Miner Predicts Next Bitcoin Bull Run](https://www.youtube.com/watch?v=XyChljTBrOk)**
-
-Fred Thiel is the CEO of Marathon Digital and a leading voice at the intersection of bitcoin, energy, and data center infrastructure.
+Dan Ives is the Global Head of Technology Research at Wedbush Securities and one of the most widely followed analysts ...
 
 📺 Anthony Pompliano
 
-👁️ 46K • 👍 1K • 💬 67 • ⏱️ 18:55 • 1d ago
+👁️ 33K • 👍 1K • ⏱️ 21:49 • 20h ago
 
 ---
 
-**[The Secret Reason Behind Bitcoin&#39;s Crash (And What Actually Matters)](https://www.youtube.com/watch?v=yD0b2PXuwNI)**
+**[Why Didn&#39;t Bitcoin Go Up While Gold &amp; Silver Surged? (Full Breakdown)](https://www.youtube.com/watch?v=hSdh1qhmNOY)**
 
-Bitcoin's crash off its all time high and then its sudden crash last week. It left many people stunned and it took a couple days.
+Bitcoin just survived another trust shock. A $19 billion event tied to Binance, hedge fund profits, ETF inflows, and stablecoin ...
 
-📺 Mark Moss
+📺 Simply Bitcoin
 
-👁️ 244K • 👍 8K • 💬 1K • ⏱️ 16:43 • 1d ago
+👁️ 2K • 👍 187 • 💬 32 • ⏱️ 33:15 • 2h ago
 
 ---
 
-**[He Predicted EVERY Bitcoin Crash (Now He Says $45K Is Coming)](https://www.youtube.com/watch?v=u7dCxdJYNKI)**
+**[Bitcoin Is The MOST Targeted Asset Right NOW | Michael Saylor Interview](https://www.youtube.com/watch?v=v2DhDn0XgZM)**
 
-An anonymous macro trader nailed Bitcoin's $126K top, $60K drop — and now he's calling for $45K next. In this video, I break ...
+Watch The FULL Interview: https://www.youtube.com/watch?v=ifvU-MHBkoQ Michael Saylor Issues Warning For February, ALL ...
 
-📺 No Bs Crypto
+📺 Library Of Wealth
 
-👁️ 22K • 👍 1K • 💬 262 • ⏱️ 14:47 • 22h ago
+👁️ 3K • 👍 140 • 💬 21 • ⏱️ 13:28 • 12h ago
 
 ---
 
@@ -401,17 +369,45 @@ Is the crash in bitcoin approaching capitulation and a major bottom in its price
 
 📺 Alessio Rastani
 
-👁️ 28K • 👍 3K • 💬 428 • ⏱️ 8:15 • 19h ago
+👁️ 30K • 👍 3K • 💬 450 • ⏱️ 8:15 • 20h ago
 
 ---
 
-**[Where Bitcoin Will Bottom](https://www.youtube.com/watch?v=aM8RtdVJgcw)**
+**[Real Physical Bitcoin 🤯💰](https://www.youtube.com/watch?v=fqlf42-aIeo)**
 
-Into The Cryptoverse Premium: https://intothecryptoverse.com Into The Cryptoverse Newsletter: ...
+📺 Pawn Media
 
-📺 Benjamin Cowen
+👁️ 31K • 👍 1K • 💬 17 • ⏱️ 0:59 • 1d ago
 
-👁️ 41K • 👍 578 • 💬 46 • ⏱️ 0:57 • 1d ago
+---
+
+**[He Predicted EVERY Bitcoin Crash (Now He Says $45K Is Coming)](https://www.youtube.com/watch?v=u7dCxdJYNKI)**
+
+An anonymous macro trader nailed Bitcoin's $126K top, $60K drop — and now he's calling for $45K next. In this video, I break ...
+
+📺 No Bs Crypto
+
+👁️ 24K • 👍 1K • 💬 271 • ⏱️ 14:47 • 23h ago
+
+---
+
+**[BITCOIN: This Signal Has NEVER Been Wrong! (big warning) - BTC Price Prediction Today](https://www.youtube.com/watch?v=75R43zJ4Hos)**
+
+Want a free $30000 bonus + $20 just for signing up? Go here: ...
+
+📺 BitcoinHyper
+
+👁️ 6K • 👍 523 • 💬 18 • ⏱️ 14:31 • 6h ago
+
+---
+
+**[The Secret Reason Behind Bitcoin&#39;s Crash (And What Actually Matters)](https://www.youtube.com/watch?v=yD0b2PXuwNI)**
+
+Bitcoin's crash off its all time high and then its sudden crash last week. It left many people stunned and it took a couple days.
+
+📺 Mark Moss
+
+👁️ 251K • 👍 8K • 💬 1K • ⏱️ 16:43 • 1d ago
 
 ---
 

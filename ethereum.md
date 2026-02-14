@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-02-14T17:51:18.666364+00:00'
+updated: '2026-02-14T18:37:02.385900+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- cryptocurrency
 - videos
-- social
 - news
+- cryptocurrency
+- social
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** February 14, 2026 at 17:51 UTC  
+**Last Updated:** February 14, 2026 at 18:37 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,27 +42,27 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** +1.4%  
+**24h:** +1.2%  
 **7d:** -0.2%  
 **30d:** -36.7%  
 **90d:** -31.2%  
-**1y:** -22.5%  
+**1y:** -22.6%  
 
 ---
 
 ## Ethereum Market Stats
 
-**Market Cap:** $250.07B
+**Market Cap:** $251.52B
 Rank #2
 
 **Circulating Supply:** 120,692,468 ETH
 No max supply
 
 **All-Time High:** $4,946.05
--58.1%
+-57.9%
 
 **All-Time Low:** $0.43
-+478225.7%
++481198.2%
 
 ---
 
@@ -72,7 +72,7 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-11h ago
+12h ago
 
 ---
 
@@ -80,13 +80,13 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 Recently I have been starting to worry about the state of prediction markets, in their current form. They have achieved a certain level of success: market volume is high enough to make meaningful bets and have a full-time job as a trader, and they often prove useful as a supplement to other forms of news media. But also, they seem to be over-converging to an unhealthy product market fit: embracing short-term cryptocurrency price bets, sports betting, and other similar things that have dopamine value but not any kind of long-term fulfillment or societal information value. My guess is that teams feel motivated to capitulate to these things because they bring in large revenue during a bear market where people are desperate - an understandable motive, but one that leads to corposlop. I have been thinking about how we can help get prediction markets out of this rut. My current view is that we should try harder to push them into a totally different use case: hedging, in a very generalized sense (TLDR: we're gonna replace fiat currency) Prediction markets have two types of actors: (i) "smart traders" who provide information to the market, and earn money, and necessarily (ii) some kind of actor who loses money. But who would be willing to lose money and keep coming back? There are basically three answers to this question: "Naive traders": people with dumb opinions who bet on totally wrong things "Info buyers": people who set up money-losing automated market makers, to motivate people to trade on markets to help the info buyer learn information they do not know. "Hedgers": people who are -EV in a linear sense, but who use the market as insurance, reducing their risk. (1) is where we are today. IMO there is nothing fundamentally morally wrong with taking money from people with dumb opinions. But there still is something fundamentally "cursed" about relying on this too much. It gives the platform the incentive to seek out traders with dumb opinions, and create a public brand and community that encourages dumb opinions to get more people to come in. This is the slide to corposlop. (2) has always been the idealistic hope of people like Robin Hanson. However, info buying has a public goods problem: you pay for the info, but everyone in the world gets it, including those who don't pay. There are limited cases where it makes sense for one org to pay (esp. decision markets), but even there, it seems likely that the market volumes achieved with that strategy will not be too high. This gets us to (3). Suppose that you have shares in a biotech company. It's public knowledge that the Purple Party is better for biotech than the Yellow Party. So if you buy a prediction market share betting that the Yellow Party will win the next election, on average, you are reducing your risk. Mathematical example: suppose that if Purple wins, the share price will be a dice roll between [80...120], and if Yellow wins, it's between [60...100]. If you make a size $5 bet that Yellow will win, your earnings become equivalent to a dice roll between [70...110] in both cases. Taking a logarithmic model of utility, this risk reduction is worth $0.58. Now, let's get to a more fascinating example. What do people who want stablecoins ultimately want? They want price stability. They have some future expenses in mind, and they want a guarantee that will be able to pay those expenses. But if crypto grows on top of USD-backed stablecoins, crypto is ultimately not truly decentralized. Furthermore, different people have different types of expenses. There has been lots of thinking about making an "ideal stablecoin" that is based on some decentralized global price index, but what if the real solution is to go a step further, and get rid of the concept of currency altogether? Here's the idea. You have price indices on all major categories of goods and services that people buy (treating physical goods/services in different regions as different categories), and prediction markets on each category. Each user (individual or business) has a local LLM that understands that user's expenses, and offers the user a personalized basket of prediction market shares, representing "N days of that user's expected future expenses". Now, we do not need fiat currency at all! People can hold stocks, ETH, or whatever else to grow wealth, and personalized prediction market shares when they want stability. Both of these examples require prediction markets denominated in an asset people want to hold, whether interest-bearing fiat, wrapped stocks, or ETH. Non-interest-bearing fiat has too-high opportunity cost, that overwhelms the hedging value. But if we can make it work, it's much more sustainable than the status quo, because both sides of the equation are likely to be long-term happy with the product that they are buying, and very large volumes of sophisticated capital will be willing to participate. Build the next generation of finance, not corposlop.
 
-4h ago
+5h ago
 
 ---
 
 **[Tomasz stepping down from co-ED role at the EF at the end of February 2026 | Ethereum Foundation Blog](https://www.reddit.com/r/ethereum/comments/1r3zdo5/tomasz_stepping_down_from_coed_role_at_the_ef_at/)**
 
-🔗 [Ethereum Foundation Blog](https://blog.ethereum.org/2026/02/13/tomasz-update) • 21h ago
+🔗 [Ethereum Foundation Blog](https://blog.ethereum.org/2026/02/13/tomasz-update) • 22h ago
 
 ---
 
@@ -94,7 +94,7 @@ Recently I have been starting to worry about the state of prediction markets, in
 
 Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.
 
-🔗 [youtu.be](https://youtu.be/rxI6AyRSaxY) • 21h ago
+🔗 [youtu.be](https://youtu.be/rxI6AyRSaxY) • 22h ago
 
 ---
 
@@ -152,37 +152,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 Truth Social Funds applied for ETFs that would give investors exposure to crypto—one focused on Bitcoin and Ethereum, the other on Cronos.
 
-Decrypt • 20h ago
-
----
-
-**[BlackRock And Ark Move Into Bitmine As Ethereum Exposure Rises](https://finance.yahoo.com/news/blackrock-ark-move-bitmine-ethereum-042338792.html)**
-
-BlackRock has significantly raised its stake in Bitmine Immersion Technologies (NYSEAM:BMNR), signaling increased institutional interest in the stock. Ark Invest has also expanded its holdings, adding a second large asset manager to the BMNR shareholder base. Bitmine has recently accumulated substantial Ethereum assets, pointing to a larger on-balance-sheet exposure to digital tokens. Bitmine Immersion Technologies, trading at $20.96, sits at the center of rising institutional attention as...
-
-Yahoo Finance • 13h ago
-
----
-
-**[Better Cryptocurrency to Buy With $3,000 and Hold for 5 Years: XRP vs. Ethereum](https://www.nasdaq.com/articles/better-cryptocurrency-buy-3000-and-hold-5-years-xrp-vs-ethereum)**
-
-Key PointsEthereum is getting frequent major upgrades and onboarding a lot of new capital to its network.
-
-Nasdaq • 6h ago
-
----
-
-**[Ethereum Foundation leadership shake-up: Tomasz Stańczak out as co-executive director](https://www.coindesk.com/tech/2026/02/13/ethereum-foundation-leadership-shake-up-tomasz-stanczak-out-as-co-executive-director)**
-
-Stańczak’s was brought aboard in 2025 following the transition of long-time executive director Aya Miyaguchi amid mounting community criticism that the foundation wasn’t doing enough to aggressively push the Ethereum ecosystem forward.
-
-CoinDesk • 1d ago
-
----
-
-**[Key facts: Standard Chartered forecasts Ethereum drop; ETFs see outflows; active addresses surge](https://www.tradingview.com/news/tradingview:cb7e47af4256e:0-key-facts-standard-chartered-forecasts-ethereum-drop-etfs-see-outflows-active-addresses-surge/)**
-
-TradingView • 17h ago
+Decrypt • 21h ago
 
 ---
 
@@ -194,27 +164,19 @@ The Block • 2d ago
 
 ---
 
-**[LBank Launches 16th BoostHub Campaign Featuring Ethereum with 30 ETH in Rewards](https://markets.businessinsider.com/news/currencies/lbank-launches-16th-boosthub-campaign-featuring-ethereum-with-30-eth-in-rewards-1035828448)**
+**[BlackRock Signals $257M Bitcoin and Ethereum Sell-Off Ahead of Partial U.S. Government Shutdown](https://finance.yahoo.com/news/blackrock-signals-257m-bitcoin-ethereum-125929308.html)**
 
-Singapore, Singapore, February 14th, 2026, ChainwireLBank, the leading global crypto exchange, today announced the launch of ...
+BlackRock, the world’s largest asset manager, looks set to offload more Bitcoin and Ethereum, following the outflows from its crypto ETFs yesterday. This move comes ahead of another potential partial U.S. government shutdown that could begin tomorrow as today’s deadline looms. BlackRock Moves $257M In BTC And ETH To Coinbase Arkham data shows that the
 
-markets.businessinsider.com • 6h ago
-
----
-
-**[Ethereum supply is tightening – Is scarcity being underpriced?](https://ambcrypto.com/ethereum-supply-is-tightening-is-scarcity-being-underpriced/)**
-
-Supply migration into staking and whale custody is tightening Ethereum’s liquid availability.
-
-AMBCrypto • 3h ago
+Yahoo Finance • 1d ago
 
 ---
 
-**[3 Reasons Why Ethereum Is Surging Today](https://www.fool.com/investing/2026/02/13/3-reasons-why-ethereum-is-surging-today/)**
+**[Ethereum Foundation leadership shake-up: Tomasz Stańczak out as co-executive director](https://www.coindesk.com/tech/2026/02/13/ethereum-foundation-leadership-shake-up-tomasz-stanczak-out-as-co-executive-director)**
 
-The world's second-largest cryptocurrency is up more than 7% today.
+Stańczak’s was brought aboard in 2025 following the transition of long-time executive director Aya Miyaguchi amid mounting community criticism that the foundation wasn’t doing enough to aggressively push the Ethereum ecosystem forward.
 
-The Motley Fool • 19h ago
+CoinDesk • 1d ago
 
 ---
 
@@ -226,9 +188,59 @@ dlnews.com • 1d ago
 
 ---
 
+**[Ethereum Price Reclaims $2,000 as ETF Inflows Return: Is a V-Shaped Rebound Taking Shape?](https://www.tradingview.com/news/coinpedia:9f64616f6094b:0-ethereum-price-reclaims-2-000-as-etf-inflows-return-is-a-v-shaped-rebound-taking-shape/)**
+
+Ethereum price has pushed decisively back above the $2,000 mark, trading between $2,060 and $2,080 after gaining more than 6% in the latest session. While the broader crypto market has turned positive, ETH’s rebound carries deeper structural implications as institutional flows stabilize and on-chai…
+
+TradingView • 8h ago
+
+---
+
+**[Better Cryptocurrency to Buy With $3,000 and Hold for 5 Years: XRP vs. Ethereum](https://www.nasdaq.com/articles/better-cryptocurrency-buy-3000-and-hold-5-years-xrp-vs-ethereum)**
+
+Key PointsEthereum is getting frequent major upgrades and onboarding a lot of new capital to its network.
+
+Nasdaq • 7h ago
+
+---
+
+**[3 Reasons Why Ethereum Is Surging Today](https://www.fool.com/investing/2026/02/13/3-reasons-why-ethereum-is-surging-today/)**
+
+The world's second-largest cryptocurrency is up more than 7% today.
+
+The Motley Fool • 20h ago
+
+---
+
+**[Ethereum supply is tightening – Is scarcity being underpriced?](https://ambcrypto.com/ethereum-supply-is-tightening-is-scarcity-being-underpriced/)**
+
+Supply migration into staking and whale custody is tightening Ethereum’s liquid availability.
+
+AMBCrypto • 4h ago
+
+---
+
+**[Top 3 Price Prediction: Bitcoin, Ethereum, Ripple – BTC, ETH and XRP stay weak as bearish momentum persists](https://www.fxstreet.com/cryptocurrencies/news/top-3-price-prediction-bitcoin-ethereum-ripple-btc-eth-and-xrp-stay-weak-as-bearish-momentum-persists-202602130354)**
+
+Bitcoin (BTC), Ethereum (ETH) and Ripple (XRP) remain under pressure, extending losses of over 5%, 6% and 4%, respectively, so far this week. BTC trades below $67,000 while ETH and XRP correct after facing rejection around key levels.
+
+FXStreet • 1d ago
+
+---
+
 ---
 
 ## YouTube Videos: "ethereum"
+
+**[Tom Lee: The &quot;Black Swan&quot; Recovery Has Just Begun - Ethereum Set to Explode Soon | Ethereum 2026](https://www.youtube.com/watch?v=gLIn9d1JLgU)**
+
+My FREE Daily On-Chain Analysis & Crypto News In 5-Mins: https://www.cryptonutshell.com/subscribe You can NOW ...
+
+📺 Jamie Tree 
+
+👁️ 494 • 👍 45 • 💬 1 • ⏱️ 17:25 • 3h ago
+
+---
 
 **[Ethereum 2026 Outlook Update: Another All-Time High Coming?](https://www.youtube.com/watch?v=8gxhaxkZ5tQ)**
 
@@ -236,7 +248,7 @@ In this video, we take a detailed look at Ethereum (ETH) using Elliott Wave anal
 
 📺 MCO Global
 
-👁️ 553 • 👍 110 • 💬 9 • ⏱️ 5:42 • 4h ago
+👁️ 898 • 👍 139 • 💬 12 • ⏱️ 5:42 • 5h ago
 
 ---
 
@@ -246,17 +258,7 @@ This video provides a professional Elliott Wave and technical analysis of Ethere
 
 📺 More Crypto Online
 
-👁️ 719 • 👍 94 • 💬 3 • ⏱️ 4:28 • 4h ago
-
----
-
-**[Tom Lee: The &quot;Black Swan&quot; Recovery Has Just Begun - Ethereum Set to Explode Soon | Ethereum 2026](https://www.youtube.com/watch?v=gLIn9d1JLgU)**
-
-My FREE Daily On-Chain Analysis & Crypto News In 5-Mins: https://www.cryptonutshell.com/subscribe You can NOW ...
-
-📺 Jamie Tree 
-
-👁️ 245 • 👍 31 • 💬 1 • ⏱️ 17:25 • 2h ago
+👁️ 1K • 👍 125 • 💬 3 • ⏱️ 4:28 • 4h ago
 
 ---
 
@@ -276,17 +278,7 @@ This video provides a professional Elliott Wave and technical analysis of Ethere
 
 📺 More Crypto Online
 
-👁️ 3K • 👍 176 • 💬 5 • ⏱️ 4:31 • 14h ago
-
----
-
-**[ETH BROKE OUT! What&#39;s Next?🚨 (Ethereum Price Prediction 2026)](https://www.youtube.com/watch?v=66m3kJlNHoA)**
-
-ETHEREUM ETH PRICE PREDICTION 2026 Join the Premium Signal Group for trade setups, mentorship & a community ...
-
-📺 Cilinix Crypto
-
-👁️ 139 • 👍 13 • 💬 1 • ⏱️ 4:46 • 7h ago
+👁️ 3K • 👍 176 • 💬 5 • ⏱️ 4:31 • 15h ago
 
 ---
 
@@ -296,7 +288,7 @@ Watch The FULL Interview: "Explosive Crypto Price Prediction for 2026..." FREE D
 
 📺 Library Of Wealth
 
-👁️ 12K • 👍 418 • 💬 117 • ⏱️ 14:31 • 1d ago
+👁️ 12K • 👍 437 • 💬 119 • ⏱️ 14:31 • 1d ago
 
 ---
 
@@ -306,7 +298,7 @@ BITCOIN & CRYPTO MARKET JUST FLIPPED (for now)!!! - Bitcoin News Today, Ethereum
 
 📺 Crypto World
 
-👁️ 10K • 👍 345 • 💬 125 • ⏱️ 17:20 • 22h ago
+👁️ 10K • 👍 351 • 💬 125 • ⏱️ 17:20 • 23h ago
 
 ---
 
@@ -316,17 +308,27 @@ BlackRock + Joe Rogan + Ethereum.. Biggest Crypto News Happening Now!! Become a 
 
 📺 Altcoin Daily
 
-👁️ 59K • 👍 3K • 💬 421 • ⏱️ 9:41 • 2d ago
+👁️ 60K • 👍 3K • 💬 422 • ⏱️ 9:41 • 2d ago
 
 ---
 
-**[Bitcoin &amp; Ethereum Price Analysis Today | Market Trend &amp; Next Move | BTC &amp; ETH Price Prediction 2026](https://www.youtube.com/watch?v=0uD6sP7TJBs)**
+**[ETH BROKE OUT! What&#39;s Next?🚨 (Ethereum Price Prediction 2026)](https://www.youtube.com/watch?v=66m3kJlNHoA)**
 
-Bitcoin & Ethereum Price Analysis Today | Market Trend & Next Move | BTC & ETH Price Prediction 2026 Premium on Telegram ...
+ETHEREUM ETH PRICE PREDICTION 2026 Join the Premium Signal Group for trade setups, mentorship & a community ...
 
-📺 Crypto Gyan
+📺 Cilinix Crypto
 
-👁️ 426 • 👍 80 • 💬 5 • ⏱️ 6:52 • 3h ago
+👁️ 192 • 👍 15 • 💬 1 • ⏱️ 4:46 • 7h ago
+
+---
+
+**[BITCOIN &amp; ALTCOIN WARNING: It&#39;s Happening AGAIN!!!! - Bitcoin News Today, Ethereum &amp; Altcoins](https://www.youtube.com/watch?v=Rt6-k5GEhsM)**
+
+BITCOIN & ALTCOIN WARNING: It's Happening AGAIN!!!! - Bitcoin News Today, Ethereum & Altcoins *Bitunix* ...
+
+📺 Crypto World
+
+👁️ 11K • 👍 397 • 💬 61 • ⏱️ 21:40 • 1d ago
 
 ---
 
