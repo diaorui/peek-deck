@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-02-14T13:45:26.192158+00:00'
+updated: '2026-02-14T14:28:36.477313+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- social
 - cryptocurrency
-- videos
+- social
 - news
+- videos
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** February 14, 2026 at 13:45 UTC  
+**Last Updated:** February 14, 2026 at 14:28 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,33 +38,33 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $69,910.37
+### $69,452.77
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** +3.8%  
-**7d:** -0.6%  
-**30d:** -26.9%  
-**90d:** -24.3%  
-**1y:** -28.4%  
+**24h:** +1.1%  
+**7d:** -1.3%  
+**30d:** -27.4%  
+**90d:** -24.8%  
+**1y:** -28.8%  
 
 ---
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1403.18B
+**Market Cap:** $1387.66B
 Rank #1
 
-**Circulating Supply:** 19,989,140 BTC
+**Circulating Supply:** 19,989,203 BTC
 95.2% of max
 
 **All-Time High:** $126,080.00
--44.3%
+-44.9%
 
 **All-Time Low:** $67.81
-+103448.1%
++102262.5%
 
 ---
 
@@ -95,7 +95,7 @@ Does anyone else have the feeling it will go back above 100k sooner than people 
 
 I’m 14 and just started learning about Bitcoin and saving in general. I began with $100 and my plan is to put around 30% of my weekly savings into BTC as a long-term DCA strategy. I’m not trading or trying to time the market, just stacking and holding. For people who started young with small amounts, did you stick to strict DCA no matter the price, or keep some cash for bigger dips? My goal is to build good habits early and think in years, not months
 
-3h ago
+4h ago
 
 ---
 
@@ -107,6 +107,12 @@ hoping to atleast get to 0.25 during this dip. I dont believe we are in a crypto
 
 ---
 
+**[Guess Whos Back, Back Again](https://www.reddit.com/r/Bitcoin/comments/1r3uia4/guess_whos_back_back_again/)**
+
+21h ago
+
+---
+
 **[BTC always tanks when I have financial crisis...](https://www.reddit.com/r/Bitcoin/comments/1r3ytg5/btc_always_tanks_when_i_have_financial_crisis/)**
 
 Had to drop nearly 10k in medical bills... sure enough BTC tanks and as soon as I think im fine to buy a couple hundred... BOOM it either sky rockets or another random medical bill pops up worth a couple hundred and then BTC tanks... So I guess your welcome? And I'm sorry.
@@ -115,17 +121,11 @@ Had to drop nearly 10k in medical bills... sure enough BTC tanks and as soon as 
 
 ---
 
-**[Guess Whos Back, Back Again](https://www.reddit.com/r/Bitcoin/comments/1r3uia4/guess_whos_back_back_again/)**
-
-20h ago
-
----
-
 **[If its not going down…](https://www.reddit.com/r/Bitcoin/comments/1r48jrp/if_its_not_going_down/)**
 
 Its going up, fast. Bitcoin is volatile - that works both ways. Once bear sentiment wears off, the price isn’t going to chop sideways forever; a couple green days & FOMO kicks in - volatility suddenly works in its favor. Always happened always will happen. Bitcoin is a perfect model of investor psychology, fear then FOMO fear then FOMO.
 
-11h ago
+12h ago
 
 ---
 
@@ -141,7 +141,7 @@ like we was just vibing near 100k, everybody loud, posting rockets, acting rich 
 
 I seek simplicity in my life. I want Bitcoin exposure (as an investment, don't need liquidity). I've dealt with cold wallets in the past and do not enjoy this. Are there safe options? I ultimately want an experience similar to a brokerage investment, but I know leaving BTC on the exchange is a bad idea.
 
-11h ago
+12h ago
 
 ---
 
@@ -149,13 +149,21 @@ I seek simplicity in my life. I want Bitcoin exposure (as an investment, don't n
 
 Please utilize this sticky thread for all general Bitcoin discussions! If you see posts on the front page or /r/Bitcoin/new which are better suited for this daily discussion thread, please help out by directing the OP to this thread instead. Thank you! If you don't get an answer to your question, you can try phrasing it differently or commenting again tomorrow. Please check the previous discussion thread for unanswered questions.
 
-7h ago
+8h ago
 
 ---
 
 ---
 
 ## Google News: "bitcoin"
+
+**[Bitcoin claws back to $70,000 on cooling inflation after $8.7 billion wipeout](https://www.coindesk.com/markets/2026/02/14/bitcoin-claws-back-to-usd70-000-on-cooling-inflation-after-usd8-7-billion-wipeout)**
+
+Despite the price recovery, the Crypto Fear & Greed Index remains in “extreme fear,” indicating underlying market anxiety.
+
+CoinDesk • 2h ago
+
+---
 
 **[Bitcoin Steadies in Asia After Standard Chartered Warning](https://www.bloomberg.com/news/articles/2026-02-13/bitcoin-btc-under-pressure-in-asia-after-standard-chartered-warning)**
 
@@ -179,27 +187,35 @@ CoinDesk • 1d ago
 
 ---
 
-**[Inside Bitcoin’s wild nosedive near $60,000 – and what’s coming next](https://nypost.com/2026/02/13/business/inside-bitcoins-wild-nosedive-near-60000-and-whats-coming-next/)**
+**[Better Cryptocurrency to Buy Now and Hold for 10 Years: XRP vs. Bitcoin](https://www.fool.com/investing/2026/02/14/better-cryptocurrency-to-buy-now-and-hold-for-10-y/)**
 
-Bitcoin plummeted as low as $60,000 last week in its worst weekly decline in three years – baffling crypto bulls who long hailed the digital currency as a hedge against inflation.
+Both these assets have earned their place as leaders, but the next 10 years could be tough for one of them.
 
-New York Post • 16h ago
-
----
-
-**[Bitcoin's drawdown hit 50%. History shows it may have further to go](https://www.cnbc.com/2026/02/12/bitcoins-drawdown-hit-50percent-history-shows-it-may-have-further-to-go.html)**
-
-Bitcoin has a history of falling about 75% during each four-year cycle, suggesting the token is on track to fall even further in the near future.
-
-CNBC • 1d ago
+The Motley Fool • 1h ago
 
 ---
 
-**[Is Maga losing faith in Trump’s bitcoin promise?](https://www.thetimes.com/business/economics/article/maga-trump-bitcoin-kscxk5jkl?gaa_at=eafs&gaa_n=AWEtsqfKGQ3f11ljlmw1Z1m4Q9el7OUmZfce6I07_3JpaS2BJqkTblOolPmK&gaa_ts=6990735f&gaa_sig=gGCImQTn8ytYrbttjzxxOZwjmEIkFzIQbsPP6SV8R5iBR7-0pHjG8V7IysVYXbNUX-1ddx3mWqbThwhjstXArA%3D%3D)**
+**[‘Killing Satoshi’ Bitcoin Biopic Starring Pete Davidson and Casey Affleck Set to Use AI for Locations and to ‘Adjust’ Performances (EXCLUSIVE)](https://variety.com/2026/film/news/pete-davidson-killing-satoshi-ai-doug-liman-ryan-kavanaugh-1236661170/)**
+
+Bitcoin biopic 'Killing Satoshi' starring Pete Davidson plans to use all-AI locations and AI adjustments for  performances rather than reshoots.
+
+Variety • 21h ago
+
+---
+
+**[Is Maga losing faith in Trump’s bitcoin promise?](https://www.thetimes.com/business/economics/article/maga-trump-bitcoin-kscxk5jkl?gaa_at=eafs&gaa_n=AWEtsqe-k3CQ9f9QYe55hjVNnjw95cIJJivXFO64sSDUjyofAAqlHv8fnuVb&gaa_ts=699089fe&gaa_sig=dVF9kqCaHj9hdNs3on6WhAHTNkDsQ8IE6-72OWDlm6AwZJGKVt2kElP_vhY0TSE4oGlV0qIYGmnXW_9qKMdxrA%3D%3D)**
 
 The US president’s supporters dreamt of a day when the cryptocurrency would hit $300,000. Now the market is in disarray
 
 The Times • 22h ago
+
+---
+
+**[Inside Bitcoin’s wild nosedive near $60,000 – and what’s coming next](https://nypost.com/2026/02/13/business/inside-bitcoins-wild-nosedive-near-60000-and-whats-coming-next/)**
+
+Bitcoin plummeted as low as $60,000 last week in its worst weekly decline in three years – baffling crypto bulls who long hailed the digital currency as a hedge against inflation.
+
+New York Post • 17h ago
 
 ---
 
@@ -217,27 +233,13 @@ Fox Business • 2d ago
 
 ---
 
-**[Exclusive | How bitcoin exchange gave authorities’ ‘control’ over Nancy Guthrie’s kidnapper: crypto expert](https://pagesix.com/2026/02/11/celebrity-news/how-bitcoin-exchange-gave-authorities-control-over-nancy-guthries-kidnapper-crypto-expert/)**
-
-“They are now the target of forensic tracking,” CEO of Lionsgate Network Bezalel Eithan Raviv said of the suspect.
-
-Page Six • 2d ago
-
----
-
-**[Bitcoin’s plunge should end the hype that it is digital gold](https://thehill.com/opinion/finance/5735525-bitcoin-gold-performance-disparity/)**
-
-The Hill • 21h ago
-
----
-
 ---
 
 ## HackerNews: "bitcoin"
 
 **[Bitcoin tumbles below $70K, heavy losses in cryptocurrencies in last three weeks](https://news.ycombinator.com/item?id=46934165)**
 
-⬆️ 58 • 💬 67 • 5d ago • [bloomberg.com](https://www.bloomberg.com/news/articles/2026-02-05/bitcoin-drops-below-70-000-as-forced-deleveraging-accelerates)
+⬆️ 58 • 💬 67 • 6d ago • [bloomberg.com](https://www.bloomberg.com/news/articles/2026-02-05/bitcoin-drops-below-70-000-as-forced-deleveraging-accelerates)
 
 ---
 
@@ -305,7 +307,7 @@ What do Bitcoin miners actually do? An interactive exploration of hashing, diffi
 
 Explore everything you can do as a lightning app builder using Alby - getAlby/sandbox
 
-⬆️ 2 • 💬 1 • 23h ago • [GitHub](https://github.com/getAlby/sandbox)
+⬆️ 2 • 💬 1 • 1d ago • [GitHub](https://github.com/getAlby/sandbox)
 
 ---
 
@@ -313,13 +315,23 @@ Explore everything you can do as a lightning app builder using Alby - getAlby/sa
 
 ## YouTube Videos: "bitcoin"
 
+**[Crypto Is About To Explode (Here’s Why) “Like Buying Bitcoin in 2018”](https://www.youtube.com/watch?v=ifvU-MHBkoQ)**
+
+Crypto Is About To Explode (Here's Why) “Like Buying Bitcoin in 2018” Concordium Website: https://www.concordium.com/ ...
+
+📺 Altcoin Daily
+
+👁️ 43K • 👍 3K • 💬 234 • ⏱️ 15:20 • 14h ago
+
+---
+
 **[Bitcoin Is Closer to a Breakout Than People Think](https://www.youtube.com/watch?v=uVk1Fubl2HA)**
 
 Dan Ives is the Global Head of Technology Research at Wedbush Securities and one of the most widely followed analysts ...
 
 📺 Anthony Pompliano
 
-👁️ 27K • 👍 1K • ⏱️ 21:49 • 15h ago
+👁️ 29K • 👍 1K • ⏱️ 21:49 • 16h ago
 
 ---
 
@@ -329,57 +341,7 @@ Bitcoin's crash off its all time high and then its sudden crash last week. It le
 
 📺 Mark Moss
 
-👁️ 232K • 👍 8K • 💬 1K • ⏱️ 16:43 • 1d ago
-
----
-
-**[Crypto Is About To Explode (Here’s Why) “Like Buying Bitcoin in 2018”](https://www.youtube.com/watch?v=ifvU-MHBkoQ)**
-
-Crypto Is About To Explode (Here's Why) “Like Buying Bitcoin in 2018” Concordium Website: https://www.concordium.com/ ...
-
-📺 Altcoin Daily
-
-👁️ 38K • 👍 2K • 💬 213 • ⏱️ 15:20 • 13h ago
-
----
-
-**[Bitcoin&#39;s Next Major Move Will Shock People (here&#39;s why)](https://www.youtube.com/watch?v=w8_Si0WQbbE)**
-
-Is the crash in bitcoin approaching capitulation and a major bottom in its price? There are strong signs that bitcoin is likely ...
-
-📺 Alessio Rastani
-
-👁️ 23K • 👍 2K • 💬 321 • ⏱️ 8:15 • 15h ago
-
----
-
-**[BITCOIN: INTO THE WEEKEND ANALYSIS!!! #BTC Price Prediction &amp; Crypto Crash News Today](https://www.youtube.com/watch?v=kaIVdsvXJK0)**
-
-My Free Trading Course https://www.rt1m.com/free My Discord Community (it's free to join): ...
-
-📺 Road To $1 Million USD
-
-👁️ 4K • 👍 220 • 💬 20 • ⏱️ 8:50 • 16h ago
-
----
-
-**[He Predicted EVERY Bitcoin Crash (Now He Says $45K Is Coming)](https://www.youtube.com/watch?v=u7dCxdJYNKI)**
-
-An anonymous macro trader nailed Bitcoin's $126K top, $60K drop — and now he's calling for $45K next. In this video, I break ...
-
-📺 No Bs Crypto
-
-👁️ 18K • 👍 996 • 💬 258 • ⏱️ 14:47 • 18h ago
-
----
-
-**[Michael Saylor really looks scared 😱](https://www.youtube.com/watch?v=57mjeAjkPNQ)**
-
-LIMITED TIME: ✓ Bitunix (no kyc, $10k bonus): https://www.bitunix.com/register?vipCode=AltcoinDaily 50% deposit bonus on ...
-
-📺 Altcoin Daily
-
-👁️ 97K • 👍 926 • 💬 267 • ⏱️ 0:34 • 2d ago
+👁️ 237K • 👍 8K • 💬 979 • ⏱️ 16:43 • 1d ago
 
 ---
 
@@ -389,17 +351,7 @@ Predict Crypto, Sports, Politics & More on *ClashPicks* ▻ https://www.clashpic
 
 📺 CryptosRUs
 
-👁️ 27K • 👍 1K • 💬 95 • ⏱️ 53:57 • 22h ago
-
----
-
-**[Why Bitcoin Could Hit $0](https://www.youtube.com/watch?v=IXNUM4FMqNs)**
-
-We're watching the worst crypto crash since the FTX scandal. Ben McKenzie explains what's driving the crash, and why this one ...
-
-📺 More Perfect Union
-
-👁️ 1.7M • 👍 95K • 💬 8K • ⏱️ 2:50 • 2d ago
+👁️ 27K • 👍 1K • 💬 75 • ⏱️ 53:57 • 22h ago
 
 ---
 
@@ -409,7 +361,57 @@ Strategy executive chairman and founder Michael Saylor gives his take on Bitcoin
 
 📺 Fox Business
 
-👁️ 44K • 👍 797 • 💬 2K • ⏱️ 8:19 • 1d ago
+👁️ 45K • 👍 820 • 💬 1K • ⏱️ 8:19 • 1d ago
+
+---
+
+**[Bitcoin&#39;s Next Major Move Will Shock People (here&#39;s why)](https://www.youtube.com/watch?v=w8_Si0WQbbE)**
+
+Is the crash in bitcoin approaching capitulation and a major bottom in its price? There are strong signs that bitcoin is likely ...
+
+📺 Alessio Rastani
+
+👁️ 25K • 👍 3K • 💬 410 • ⏱️ 8:15 • 16h ago
+
+---
+
+**[Michael Saylor really looks scared 😱](https://www.youtube.com/watch?v=57mjeAjkPNQ)**
+
+LIMITED TIME: ✓ Bitunix (no kyc, $10k bonus): https://www.bitunix.com/register?vipCode=AltcoinDaily 50% deposit bonus on ...
+
+📺 Altcoin Daily
+
+👁️ 100K • 👍 934 • 💬 119 • ⏱️ 0:34 • 2d ago
+
+---
+
+**[Bitcoin &amp; Silver: Why The Market Isn&#39;t Broken (It&#39;s Rotating)](https://www.youtube.com/watch?v=TrKw41gc0w8)**
+
+Are Bitcoin and Silver broken, or is the global market quietly preparing for a massive shift? In this video, we break down the ...
+
+📺 Financial Funda
+
+👁️ 2K • 👍 89 • 💬 2 • ⏱️ 1:45 • 9h ago
+
+---
+
+**[BITCOIN: INTO THE WEEKEND ANALYSIS!!! #BTC Price Prediction &amp; Crypto Crash News Today](https://www.youtube.com/watch?v=kaIVdsvXJK0)**
+
+My Free Trading Course https://www.rt1m.com/free My Discord Community (it's free to join): ...
+
+📺 Road To $1 Million USD
+
+👁️ 4K • 👍 229 • 💬 22 • ⏱️ 8:50 • 17h ago
+
+---
+
+**[Did Pam Bondi’s CRASH OUT Signal a Bitcoin BREAKOUT?](https://www.youtube.com/watch?v=aDL3QVutH8Q)**
+
+Pam Bondi gets slammed on live TV and the cracks in the system are impossible to ignore. As global uncertainty explodes and the ...
+
+📺 Simply Bitcoin
+
+👁️ 26K • 👍 2K • 💬 168 • ⏱️ 21:31 • 1d ago
 
 ---
 

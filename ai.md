@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-02-14T13:45:26.183753+00:00'
+updated: '2026-02-14T14:28:36.468878+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
 - repositories
 - social
-- videos
 - news
+- videos
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** February 14, 2026 at 13:45 UTC  
+**Last Updated:** February 14, 2026 at 14:28 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -58,6 +58,14 @@ Introducing Open Book Medical AI: Deterministic Knowledge Graph + Compact LLM Mo
 Spotify credits Claude Code and its internal AI system Honk with speeding up development.
 
 🔗 [TechCrunch](https://techcrunch.com/2026/02/12/spotify-says-its-best-developers-havent-written-a-line-of-code-since-december-thanks-to-ai/) • 1d ago
+
+---
+
+**[Men are from mars, women from Venus - how Claude helps my relationship.](https://www.reddit.com/r/artificial/comments/1r4k4wj/men_are_from_mars_women_from_venus_how_claude/)**
+
+Long before AI, I realized that fighting / arguing with my wife is way more effective over text. In the middle of a heated fight I would just tell her “let’s move to text” and go sit on a bench outside near the lake where it’s calm. The reason is - when it’s heated face to face, you make poor word choices because you don’t have time to think. So you say all torn things you don’t mean, and it’s compounded by the fact that your partner make their own interpretations based on their trauma, patterns and defense mechanisms. It’s a recipe for disaster. Fighting over text allows you to think. It allows you to read their messages twice. Think about what they are really saying, then spend a few mins thinking about how to respond. Type… delete… type… read it thoroughbred eyes, rephrase so it’s clearer, realize you’re wrong about something, change it… send. —- Wife and I have been together since a young age, and we did one smart thing - we went to couples therapy BEFORE we started having serious trouble. What I’ve learned back then is that 90% of trouble in a relationship is about communication. Men and women communicate differently. It helped us get through a lot, but after 15 years and 2 kids we found ourselves struggling. We did another round of couples therapy, and again, it turned out 90% of our problems were rooted in different perspectives we couldn’t communicate to eachother because one persons hears something else than what the other said. — Recently I’ve started involving Claude. I know it sounds bad, but stay with me. No, I don’t let Claude fight with my wife for me. But I’ll often take a screenshot of her message, and ask him “what does she REALLY mean here?” He will often see things that I can’t see through my anger. Being cool and emotionally detached is a huge advantage - just like our therapist had. Sometimes I’ll upload a screenshot of a short correspondence and ask for his opinion. He will often tell me im wrong, or just ask me “hey, why sis you say X? It’s not related to what she asked you” and we’ll dig into it and realize im carrying something from my childhood, or a bad model drom my parents. Often I will run my responses by him before sending. And he will often go “bro, this will just trigger her, maybe rephrase” and help me do it. What I’ve noticed is that our arguments got a lot shorter. She suddenly responds with “ok I get it” etc instead of blowing up because I triggered her. When we end up still disagreeing, we at least see each others point if view, and are able to be show empathy one another, despite not seeing eye to eye, and work together towards a solution or compromise - much easier when you know what the other side really needs. Tips for using Claude for relationships: Be honest about it with your partner. Explain what I explained here if they feel weird about it. Ask to try it once. Of you both do it - don’t ask other what Claude wrote and what they did. Doesn’t help anyone. 🚨 IMPORTANT: Claude is not a replacement for professional. This isn’t instead of therapy for you or couples therapy for both of you. Any mental health help from AI is potentially dangerous. Use responsibility just like you drink responsibly, or use a know in the kitchen responsibly, or take medicine responsibly. Don’t let it be your cheerleader. This is t about AI telling you about you’re right and he or she is wrong. And Claude will do that, because you’re the one paying it. Tell him specifically that you need 100% honesty, and a mirror, otherwise he’s not helping you, only hurting you. Use a project, put that last thing as custom instructions. When you run into key points in arguments, touching rooots of issues etc - export the chat part and upload to the object files (example (“why I always respond like X when she Y’s”) Claude will get to know your partner, your patterns and relationships ship dysfunctional dynamics, and recognize them in later convos. “Hey hey hey you’re doing that thing again where you push her away when she points out your…. Here’s an opportunity to break this loop!” Or “You know she will be triggered if you send this, rephrase for the love of god lol” This might seem a bit much, or too cold, but I use it very systematically. For example, we recognized my wife suffers from RSD, and made an RSD cheat sheet for sensitive topics, that includes things like when to bring them up, words to avoid, reminders of my patterns I need to be aware of / avoid etc Huge life improvement. — Hope this helps someone. You also get offended you interpret reactions and gestures incorrectly, you make poor word
+
+1h ago
 
 ---
 
@@ -109,14 +117,6 @@ Perplexity just signed a $750M deal with Microsoft Azure. The confusing bit is t
 
 ---
 
-**[Izwi v0.1.0-alpha is out: new desktop app for local audio inference](https://www.reddit.com/r/artificial/comments/1r2yblf/izwi_v010alpha_is_out_new_desktop_app_for_local/)**
-
-We just shipped Izwi Desktop + the first v0.1.0-alpha releases. Izwi is a local-first audio inference stack (TTS, ASR, model management) with: CLI (izwi) OpenAI-style local API Web UI New desktop app (Tauri) Alpha installers are now available for: macOS (.dmg) Windows (.exe) Linux (.deb) plus terminal bundles for each platform. If you want to test local speech workflows without cloud dependency, this is ready for early feedback. Release: https://github.com/agentem-ai/izwi
-
-1d ago
-
----
-
 ---
 
 ## Google News: "ai"
@@ -125,23 +125,7 @@ We just shipped Izwi Desktop + the first v0.1.0-alpha releases. Izwi is a local-
 
 Mustafa Suleyman believes current AI computational power will only accelerate, disrupting every kind of work you do “sitting down at a computer.”
 
-Fortune • 19h ago
-
----
-
-**[Microsoft AI CEO predicts 'most, if not all' white-collar tasks will be automated by AI within 18 months](https://www.businessinsider.com/microsoft-ai-ceo-mustafa-suleyman-white-collar-tasks-automation-prediction-2026-2)**
-
-Mustafa Suleyman, Microsoft's AI chief, says AI can automate white-collar jobs within 12-18 months, as tech reaches human-level performance in tasks.
-
-Business Insider • 1d ago
-
----
-
-**[Microsoft is down this year on fears AI will disrupt Office. Goldman says buy the dip](https://www.cnbc.com/2026/02/13/microsoft-is-down-this-year-on-fears-ai-will-disrupt-office-goldman-says-buy-the-dip.html)**
-
-Goldman Sachs' $600 price target implies that shares of Microsoft could rally 49%.
-
-CNBC • 22h ago
+Fortune • 20h ago
 
 ---
 
@@ -149,43 +133,43 @@ CNBC • 22h ago
 
 New AI models launched by China's biggest players underscore how the country's companies are keeping up with the U.S.
 
-CNBC • 6h ago
+CNBC • 7h ago
 
 ---
 
-**[Dr. Oz pushes AI avatars as a fix for rural health care. Not so fast, critics say](https://www.npr.org/2026/02/14/nx-s1-5704189/dr-oz-ai-avatars-replace-rural-health-workers)**
+**[Is it love? Or is it an AI romance scam?](https://www.vox.com/future-perfect/479200/ai-romance-scams-valentines-day)**
 
-Dr. Mehmet Oz, who heads the Centers for Medicare and Medicaid Services, is advancing a $50 billion plan to modernize rural health care.
+Don’t let AI steal your heart — or your money.
 
-NPR • 3h ago
-
----
-
-**[How A.I. Salaries Are Causing Couples to Rethink Money in Relationships](https://www.nytimes.com/2026/02/14/business/artificial-intelligence-relationships-income-gap.html)**
-
-The New York Times • 3h ago
+vox.com • 58m ago
 
 ---
 
-**[Global AI Battle Turbocharged by 50% Power Demand Surge](https://www.bloomberg.com/news/newsletters/2026-02-14/ai-battle-turbocharged-by-50-power-demand-surge-new-economy?srnd=technology-ai)**
+**[Bankers’ Winter Getaway to Sunny Florida Is Upended By AI Chaos](https://www.bloomberg.com/news/articles/2026-02-14/bankers-winter-getaway-to-sunny-florida-is-upended-by-ai-chaos)**
 
-Bloomberg.com • 2h ago
-
----
-
-**[‘It’s over for us’: release of new AI video generator Seedance 2.0 spooks Hollywood](https://www.theguardian.com/film/2026/feb/13/new-ai-video-generator-seedance-tom-cruise-brad-pitt)**
-
-An AI clip featuring Tom Cruise and Brad Pitt fighting has caused concern among industry figures
-
-The Guardian • 1d ago
+Bloomberg.com • 28m ago
 
 ---
 
-**[Seedance: Hollywood studios take aim at 'ultra-realistic' AI video tool](https://www.bbc.com/news/articles/cjd9nllng22o)**
+**[Opinion | How Fast Can A.I. Change the Workplace?](https://www.nytimes.com/2026/02/14/opinion/ai-jobs-employment.html)**
 
-Clips including Brad Pitt and Tom Cruise fighting, made by new AI video tool Seedance, have gone viral.
+The New York Times • 2h ago
 
-BBC • 1d ago
+---
+
+**[ChatGPT promised to help her find her soulmate. Then it betrayed her](https://www.npr.org/2026/02/14/nx-s1-5711441/ai-chatgpt-openai-love-betrayal-delusion-chatbot)**
+
+ChatGPT sent screenwriter Micky Small down a fantastical rabbit hole. Now, she's finding her way out.
+
+NPR • 4h ago
+
+---
+
+**[‘A different set of rules’: thermal drone footage shows Musk’s AI power plant flouting clean air regulations](https://www.theguardian.com/environment/2026/feb/13/elon-musk-xai-datacenters-air-pollution-mississippi)**
+
+Images confirm xAI is continuing to defy EPA regulations in Mississippi to power its flagship datacenters
+
+The Guardian • 13h ago
 
 ---
 
@@ -197,6 +181,22 @@ The Hollywood Reporter • 1d ago
 
 ---
 
+**[‘It’s over for us’: release of new AI video generator Seedance 2.0 spooks Hollywood](https://www.theguardian.com/film/2026/feb/13/new-ai-video-generator-seedance-tom-cruise-brad-pitt)**
+
+An AI clip featuring Tom Cruise and Brad Pitt fighting has caused concern among industry figures
+
+The Guardian • 1d ago
+
+---
+
+**[Viral AI video of Brad Pitt fighting Tom Cruise shakes Hollywood - Los Angeles Times](https://www.latimes.com/entertainment-arts/business/story/2026-02-13/brad-pitt-fighting-tom-cruise-ai-video-shakes-hollywood)**
+
+Earlier this week, an AI-generated video of Tom Cruise fighting Brad Pitt went viral, sparking outrage amongst creatives and the studios alike.
+
+Los Angeles Times • 18h ago
+
+---
+
 ---
 
 ## HackerNews: "ai"
@@ -205,7 +205,7 @@ The Hollywood Reporter • 1d ago
 
 Summary: An AI agent of unknown ownership autonomously wrote and published a personalized hit piece about me after I rejected its code, attempting to damage my reputation and shame me into acceptin…
 
-⬆️ 2290 • 💬 936 • 1d ago • [The Shamblog](https://theshamblog.com/an-ai-agent-published-a-hit-piece-on-me/)
+⬆️ 2296 • 💬 940 • 1d ago • [The Shamblog](https://theshamblog.com/an-ai-agent-published-a-hit-piece-on-me/)
 
 ---
 
@@ -214,19 +214,19 @@ Summary: An AI agent of unknown ownership autonomously wrote and published a per
 This PR addresses issue #31130 by replacing specific safe occurrences of np.column_stack with np.vstack().T for better performance.
 IMPORTANT: This is a more targeted fix than originally proposed. ...
 
-⬆️ 934 • 💬 744 • 2d ago • [GitHub](https://github.com/matplotlib/matplotlib/pull/31132)
+⬆️ 936 • 💬 744 • 2d ago • [GitHub](https://github.com/matplotlib/matplotlib/pull/31132)
 
 ---
 
 **[ai;dr](https://news.ycombinator.com/item?id=46991394)**
 
-⬆️ 701 • 💬 300 • 1d ago • [0xsid.com](https://www.0xsid.com/blog/aidr)
+⬆️ 706 • 💬 300 • 1d ago • [0xsid.com](https://www.0xsid.com/blog/aidr)
 
 ---
 
 **[An AI Agent Published a Hit Piece on Me – More Things Have Happened](https://news.ycombinator.com/item?id=47009949)**
 
-⬆️ 465 • 💬 231 • 13h ago • [theshamblog.com](https://theshamblog.com/an-ai-agent-published-a-hit-piece-on-me-part-2/)
+⬆️ 481 • 💬 243 • 13h ago • [theshamblog.com](https://theshamblog.com/an-ai-agent-published-a-hit-piece-on-me-part-2/)
 
 ---
 
@@ -234,7 +234,7 @@ IMPORTANT: This is a more targeted fix than originally proposed. ...
 
 We're not in a February 2020 moment, and ordinary people will be fine
 
-⬆️ 281 • 💬 466 • 18h ago • [davidoks.blog](https://davidoks.blog/p/why-im-not-worried-about-ai-job-loss)
+⬆️ 287 • 💬 477 • 19h ago • [davidoks.blog](https://davidoks.blog/p/why-im-not-worried-about-ai-job-loss)
 
 ---
 
@@ -242,13 +242,13 @@ We're not in a February 2020 moment, and ordinary people will be fine
 
 US Border Patrol intelligence units will gain access to a face recognition tool built on billions of images scraped from the internet.
 
-⬆️ 267 • 💬 155 • 20h ago • [WIRED](https://www.wired.com/story/cbp-signs-clearview-ai-deal-to-use-face-recognition-for-tactical-targeting/)
+⬆️ 268 • 💬 156 • 21h ago • [WIRED](https://www.wired.com/story/cbp-signs-clearview-ai-deal-to-use-face-recognition-for-tactical-targeting/)
 
 ---
 
 **[The "AI agent hit piece" situation clarifies how dumb we are acting](https://news.ycombinator.com/item?id=47006843)**
 
-⬆️ 226 • 💬 107 • 18h ago • [ardentperf.com](https://ardentperf.com/2026/02/13/the-scott-shambaugh-situation-clarifies-how-dumb-we-are-acting/)
+⬆️ 227 • 💬 110 • 18h ago • [ardentperf.com](https://ardentperf.com/2026/02/13/the-scott-shambaugh-situation-clarifies-how-dumb-we-are-acting/)
 
 ---
 
@@ -256,7 +256,7 @@ US Border Patrol intelligence units will gain access to a face recognition tool 
 
 A party balloon mistaken for a cartel drone shut down El Paso for hours. Here's what it cost.
 
-⬆️ 190 • 💬 127 • 1d ago • [log.jasongodfrey.info](https://log.jasongodfrey.info/questions/The-Most-Expensive-Party-Balloon-in-History)
+⬆️ 190 • 💬 129 • 1d ago • [log.jasongodfrey.info](https://log.jasongodfrey.info/questions/The-Most-Expensive-Party-Balloon-in-History)
 
 ---
 
@@ -272,7 +272,7 @@ US labels SpaceX a common carrier by air, will regulate firm under railway law.
 
 Every major CEO AI-first memo and mandate, collected. Shopify, Box, Duolingo, Fiverr, Meta, Klarna, Alibaba, Notion, and more.
 
-⬆️ 130 • 💬 204 • 2d ago • [the-ai-native.company](https://the-ai-native.company/)
+⬆️ 131 • 💬 204 • 2d ago • [the-ai-native.company](https://the-ai-native.company/)
 
 ---
 
@@ -280,13 +280,33 @@ Every major CEO AI-first memo and mandate, collected. Shopify, Box, Duolingo, Fi
 
 ## YouTube Videos: "ai"
 
+**[AI fight scene video of Tom Cruise and Brad Pitt goes viral](https://www.youtube.com/watch?v=FhjJTZ9uIWY)**
+
+A 15-second AI video of Tom Cruise and Brad Pitt has the industry buzzing and concerned. KTLA's Angeli Kakade reports on Feb.
+
+📺 KTLA 5
+
+👁️ 29K • 👍 195 • 💬 118 • ⏱️ 2:51 • 11h ago
+
+---
+
+**[AI-generated video of Brad Pitt and Tom Cruise stirs concern in Hollywood](https://www.youtube.com/watch?v=c8qUe3nc6Tg)**
+
+An AI-generated video of Brad Pitt and Tom Cruise fighting sparked concern among Hollywood studios and actors. Lauren Pozen ...
+
+📺 CBS LA
+
+👁️ 9K • 👍 121 • 💬 87 • ⏱️ 3:04 • 8h ago
+
+---
+
 **[Top AI researcher warns &#39;world is in peril&#39;](https://www.youtube.com/watch?v=kdxQvljxYQk)**
 
 New concerns over the safety of artificial intelligence are growing after the lead safety researcher at Anthropic AI resigned this ...
 
 📺 ABC News
 
-👁️ 64K • 👍 802 • 💬 375 • ⏱️ 3:58 • 1d ago
+👁️ 66K • 👍 831 • 💬 387 • ⏱️ 3:58 • 1d ago
 
 ---
 
@@ -296,7 +316,17 @@ Google's Quantum AI Just Solved the Fermi Paradox — The Answer Is Terrifying G
 
 📺 Spacialize
 
-👁️ 71K • 👍 2K • 💬 308 • ⏱️ 17:28 • 1d ago
+👁️ 72K • 👍 2K • 💬 311 • ⏱️ 17:28 • 1d ago
+
+---
+
+**[Google&#39;s 8 Hour AI for Beginners Course in 8 Minutes](https://www.youtube.com/watch?v=1e5ZR0FpXZQ)**
+
+Google's 8 Hour ''AI for Beginners'' Course in 8 Minutes Get Your Own Google AI Certificate ...
+
+📺 Parker Prompts
+
+👁️ 3K • 💬 5 • ⏱️ 8:08 • 58m ago
 
 ---
 
@@ -306,17 +336,7 @@ Get Your FREE AI Company Operating System here: https://go.danmartell.com/4r9bIJ
 
 📺 Dan Martell
 
-👁️ 46K • 👍 3K • 💬 142 • ⏱️ 18:34 • 23h ago
-
----
-
-**[Anthropic Exec ADMITS AI READY TO KILL](https://www.youtube.com/watch?v=lpjF5ljLuZ4)**
-
-Krystal and Saagar discuss AI ready to kill humans. Sign up for a PREMIUM Breaking Points subscriptions for full early access to ...
-
-📺 Breaking Points
-
-👁️ 175K • 👍 5K • 💬 1K • ⏱️ 15:39 • 1d ago
+👁️ 49K • 👍 3K • 💬 308 • ⏱️ 18:34 • 1d ago
 
 ---
 
@@ -326,47 +346,27 @@ Breakdown and commentary on the latest viral commentary from: https://x.com/matt
 
 📺 Matt Wolfe
 
-👁️ 141K • 👍 7K • 💬 1K • ⏱️ 28:06 • 2d ago
+👁️ 142K • 👍 7K • 💬 1K • ⏱️ 28:06 • 2d ago
 
 ---
 
-**[Claude Opus 4.6: The Biggest AI Jump I&#39;ve Covered--It&#39;s Not Close. (Here&#39;s What You Need to Know)](https://www.youtube.com/watch?v=JKk77rzOL34)**
+**[Anthropic Exec ADMITS AI READY TO KILL](https://www.youtube.com/watch?v=lpjF5ljLuZ4)**
 
-My site: https://natebjones.com Full Story w/ Prompts: ...
+Krystal and Saagar discuss AI ready to kill humans. Sign up for a PREMIUM Breaking Points subscriptions for full early access to ...
 
-📺 AI News & Strategy Daily | Nate B Jones
+📺 Breaking Points
 
-👁️ 241K • 👍 9K • 💬 1K • ⏱️ 30:39 • 2d ago
-
----
-
-**[AI insiders raise alarms, call for tighter regulation as Elon Musk warns of danger](https://www.youtube.com/watch?v=tWeM7LzbRXQ)**
-
-Fox News contributor Joe Concha discusses alarming reports from AI insiders about the technology's potential for blackmail and ...
-
-📺 Fox Business
-
-👁️ 24K • 👍 505 • 💬 214 • ⏱️ 4:57 • 1d ago
+👁️ 177K • 👍 5K • 💬 2K • ⏱️ 15:39 • 1d ago
 
 ---
 
-**[Anthropic AI Safety Chief Resigns, Warns &quot;World Is In Peril&quot; | Spotlight | N18G](https://www.youtube.com/watch?v=eLqNoZP0vFU)**
+**[Why This NYC CEO&#39;s Chilling Warning On AI Has Gone Viral: &#39;People Deserve To Hear What&#39;s Coming&#39;](https://www.youtube.com/watch?v=gguvQKah37o)**
 
-The head of the Safeguards Research Team at Anthropic, Mrinank Sharma, has resigned from the company, stating his last day ...
+Matt Schumer is a New York based CEO who's been working with and investing in a bunch of AI firms - and one warning from him ...
 
-📺 Firstpost
+📺 Mint
 
-👁️ 342K • 👍 3K • 💬 554 • ⏱️ 4:47 • 2d ago
-
----
-
-**[AI job losses: A &#39;catastrophe&#39; that would go to the core of US power](https://www.youtube.com/watch?v=uU06JoEAgtw)**
-
-Today on The Tech Report, Fergus Macphee is joined by Josh Tyrangiel to discuss a long-read piece he has written in The ...
-
-📺 The Tech Report
-
-👁️ 11K • 👍 301 • 💬 136 • ⏱️ 23:43 • 1d ago
+👁️ 40K • 👍 583 • 💬 139 • ⏱️ 8:19 • 1d ago
 
 ---
 
@@ -376,7 +376,7 @@ Artificial intelligence has been hailed as one of the most transformative techno
 
 📺 ColdFusion
 
-👁️ 371K • 👍 22K • 💬 3K • ⏱️ 12:49 • 22h ago
+👁️ 392K • 👍 23K • 💬 3K • ⏱️ 12:49 • 23h ago
 
 ---
 
@@ -392,7 +392,7 @@ GLM-5 is a large language model optimized for complex systems engineering and lo
 
 `text-generation` `753.9B`
 
-⬇️ 66,826 • ❤️ 1,071 • 23h ago
+⬇️ 66,826 • ❤️ 1,089 • 23h ago
 
 ---
 
@@ -404,7 +404,7 @@ MiniMax-M2.5 is a text-generation model designed for generating human-like text.
 
 `text-generation` `228.7B`
 
-⬇️ 6,091 • ❤️ 456 • 9h ago
+⬇️ 6,091 • ❤️ 473 • 10h ago
 
 ---
 
@@ -416,7 +416,7 @@ MiniCPM-SALA is a hybrid LLM integrating sparse and linear attention for efficie
 
 `text-generation` `9.5B`
 
-⬇️ 2,569 • ❤️ 412 • 2d ago
+⬇️ 2,569 • ❤️ 414 • 3d ago
 
 ---
 
@@ -428,7 +428,7 @@ Kimi K2.5 is a native multimodal agentic model with 1T parameters, excelling in 
 
 `image-text-to-text` `170.7B`
 
-⬇️ 725,856 • ❤️ 2,149 • 9d ago
+⬇️ 725,856 • ❤️ 2,151 • 9d ago
 
 ---
 
@@ -440,7 +440,7 @@ Qwen3-Coder-Next is a highly efficient 3B activated parameter LLM (80B total) op
 
 `text-generation`
 
-⬇️ 249,228 • ❤️ 844 • 10d ago
+⬇️ 249,228 • ❤️ 848 • 10d ago
 
 ---
 
@@ -452,7 +452,7 @@ GLM-OCR is a 0.9B parameter multimodal OCR model for complex document understand
 
 `image-to-text`
 
-⬇️ 788,443 • ❤️ 1,031 • 5d ago
+⬇️ 788,443 • ❤️ 1,034 • 5d ago
 
 ---
 
@@ -464,7 +464,7 @@ Nanbeige4.1-3B is a 3B parameter text-generation model excelling in complex reas
 
 `text-generation` `3.9B`
 
-⬇️ 3,906 • ❤️ 315 • 1d ago
+⬇️ 3,906 • ❤️ 329 • 1d ago
 
 ---
 
@@ -476,7 +476,7 @@ MiniCPM-o 4.5 is a 9B parameter multimodal LLM excelling in vision, speech, and 
 
 `any-to-any` `9.4B`
 
-⬇️ 44,892 • ❤️ 836 • 21h ago
+⬇️ 44,892 • ❤️ 836 • 22h ago
 
 ---
 
@@ -488,7 +488,7 @@ Ming-flash-omni 2.0 is a SOTA 100B parameter omni-multimodal large language mode
 
 `any-to-any`
 
-⬇️ 5,865 • ❤️ 190 • 2d ago
+⬇️ 5,865 • ❤️ 193 • 2d ago
 
 ---
 
@@ -500,7 +500,7 @@ Voxtral-Mini-4B-Realtime-2602 is a multilingual, real-time speech-to-text model 
 
 `automatic-speech-recognition`
 
-⬇️ 5,711 • ❤️ 517 • 22h ago
+⬇️ 5,711 • ❤️ 518 • 22h ago
 
 ---
 
@@ -516,7 +516,7 @@ Voxtral-Mini-4B-Realtime-2602 is a multilingual, real-time speech-to-text model 
 
 _paperbanana is an agentic framework that automates the creation of publication-ready academic illustrations using advanced vision-language models and image generation techniques.
 
-▲ 179 • 💬 12 • ⭐ 3,483 • 15d ago
+▲ 179 • 💬 12 • ⭐ 3,494 • 15d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2601.23265) • [💻 code](https://github.com/dwzhu-pku/PaperBanana) • [🔗 project](https://dwzhu-pku.github.io/PaperBanana/)
 
@@ -545,6 +545,18 @@ Agent Lightning is a flexible RL framework for training LLMs in various agents, 
 ▲ 134 • 💬 6 • ⭐ 14,708 • 6mo ago
 
 [🎓 arXiv](https://arxiv.org/abs/2508.03680) • [💻 code](https://github.com/microsoft/agent-lightning) • [🔗 project](https://www.microsoft.com/en-us/research/project/agent-lightning/)
+
+---
+
+**[Moonshine: Speech Recognition for Live Transcription and Voice Commands](https://huggingface.co/papers/2410.15608)**
+
+*Nat Jeffries, Evan King, Manjunath Kudlur et al. (6 authors)*
+
+Moonshine, an encoder-decoder transformer architecture for speech recognition, uses Rotary Position Embedding, reducing compute requirements without decreasing accuracy.
+
+▲ 0 • 💬 0 • ⭐ 3,427 • 16mo ago
+
+[🎓 arXiv](https://arxiv.org/abs/2410.15608) • [💻 code](https://github.com/usefulsensors/moonshine)
 
 ---
 
@@ -591,6 +603,18 @@ The Qwen3-TTS series presents advanced multilingual text-to-speech models with v
 
 ---
 
+**[Towards Robust Mathematical Reasoning](https://huggingface.co/papers/2511.01846)**
+
+*Thang Luong, Dawsen Hwang, Hoang H. Nguyen et al. (20 authors)*
+
+IMO-Bench, a suite of advanced reasoning benchmarks, evaluates mathematical reasoning capabilities of foundation models using IMO-level problems and detailed grading guidelines, achieving gold-level performance with Gemini Deep Think.
+
+▲ 9 • 💬 1 • ⭐ 450 • 3mo ago
+
+[🎓 arXiv](https://arxiv.org/abs/2511.01846) • [💻 code](https://github.com/google-deepmind/superhuman) • [🔗 project](https://imobench.github.io/)
+
+---
+
 **[Efficient Memory Management for Large Language Model Serving with
   PagedAttention](https://huggingface.co/papers/2309.06180)**
 
@@ -616,32 +640,6 @@ A novel GPT-based model, OmniFlatten, enables real-time natural full-duplex spok
 
 ---
 
-**[SkillRL: Evolving Agents via Recursive Skill-Augmented Reinforcement Learning](https://huggingface.co/papers/2602.08234)**
-
-*Peng Xia, Jianwen Chen, Hanyang Wang et al. (13 authors)*
-
-🏢 University of North Carolina at Chapel Hill
-
-SkillRL enables LLM agents to improve through hierarchical skill discovery and recursive policy evolution, achieving superior performance on complex tasks while reducing computational overhead.
-
-▲ 64 • 💬 2 • ⭐ 284 • 5d ago
-
-[🎓 arXiv](https://arxiv.org/abs/2602.08234) • [💻 code](https://github.com/aiming-lab/SkillRL)
-
----
-
-**[Mem0: Building Production-Ready AI Agents with Scalable Long-Term Memory](https://huggingface.co/papers/2504.19413)**
-
-*Prateek Chhikara, Dev Khant, Saket Aryan et al. (5 authors)*
-
-Mem0, a memory-centric architecture with graph-based memory, enhances long-term conversational coherence in LLMs by efficiently extracting, consolidating, and retrieving information, outperforming existing memory systems in terms of accuracy and computational efficiency.
-
-▲ 41 • 💬 2 • ⭐ 47,312 • 9mo ago
-
-[🎓 arXiv](https://arxiv.org/abs/2504.19413) • [💻 code](https://github.com/mem0ai/mem0) • [🔗 project](https://mem0.ai/research)
-
----
-
 ---
 
 ## GitHub Repositories: "ai"
@@ -650,7 +648,7 @@ Mem0, a memory-centric architecture with graph-based memory, enhances long-term 
 
 Elevate your AI research writing, no more tedious polishing ✨ 
 
-⭐ 5.7k • 🔱 442 • 3d ago
+⭐ 5.8k • 🔱 442 • 3d ago
 
 ---
 
@@ -676,7 +674,7 @@ PaperBanana: Automating Academic Illustration For AI Scientists
 
 Humanizer 的汉化版本，Claude Code Skills，旨在消除文本中 AI 生成的痕迹。
 
-⭐ 2.9k • 🔱 277 • 26d ago
+⭐ 3.0k • 🔱 277 • 26d ago
 
 ---
 
@@ -686,7 +684,7 @@ The agent-native LLM router powering OpenClaw — by BlockRun
 
 `TypeScript` `ai` `ai-agents` `anthropic` `cost-optimization` `crypto`
 
-⭐ 2.4k • 🔱 244 • 7h ago
+⭐ 2.4k • 🔱 245 • 7h ago
 
 ---
 
@@ -696,7 +694,7 @@ All-in-one AI framework & toolkit for Claude Code & Cursor
 
 `Python` `ai-agent` `ai-coding` `claude-code` `cli` `cursor`
 
-⭐ 2.2k • 🔱 108 • 10h ago
+⭐ 2.2k • 🔱 108 • 11h ago
 
 ---
 
@@ -706,7 +704,7 @@ The visual feedback tool for agents.
 
 `TypeScript` `ai` `design` `tools` `ui`
 
-⭐ 2.2k • 🔱 154 • 18h ago
+⭐ 2.2k • 🔱 154 • 19h ago
 
 ---
 
@@ -716,7 +714,7 @@ Warcraft III Peon voice notifications (+ more!) for Claude Code, Codex, and othe
 
 `Shell` `ai` `ai-engineering` `antigravity` `claude-code` `codex`
 
-⭐ 2.0k • 🔱 132 • 9h ago
+⭐ 2.0k • 🔱 134 • 10h ago
 
 ---
 
@@ -736,7 +734,7 @@ MimiClaw: Run OpenClaw on a $5 chip. No OS(Linux). No Node.js. No Mac mini. No R
 
 `C` `ai` `assistant` `clawdbot` `edge-ai-agents` `memory`
 
-⭐ 1.7k • 🔱 210 • 3h ago
+⭐ 1.7k • 🔱 213 • 3h ago
 
 ---
 

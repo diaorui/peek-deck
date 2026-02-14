@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-02-14T13:45:26.201284+00:00'
+updated: '2026-02-14T14:28:36.486558+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
 - social
-- videos
 - news
+- videos
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** February 14, 2026 at 13:45 UTC  
+**Last Updated:** February 14, 2026 at 14:28 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -34,7 +34,7 @@ Robotics research and industry news
 
 **[My grandmother has seen a little too much Winter Olympics](https://www.reddit.com/r/robotics/comments/1r4316q/my_grandmother_has_seen_a_little_too_much_winter/)**
 
-15h ago
+16h ago
 
 ---
 
@@ -42,7 +42,7 @@ Robotics research and industry news
 
 Hello guys, I upgraded my first flight controller based on some errors I faced in my previous build and here is my V2 with more advanced features and future expansions for fixed wing drones or FPV drones. MCU STM32F405RGT6 Interfaces & IO ADC input for battery voltage measurement 8× PWM outputs 1× UART for radio 1x Barometer (BMP280) 1x Accelerometer (ICM-42688-PC) => BetaFlight compatible 1× UART for GPS 1x CAN bus expansion 1x SPI expansion 4× GPIOs SWD interface USB-C interface SD card slot for logging Notes Supports up to 12v input voltage Custom-designed PCB Hardware only All Fab Files included (Gerber/BOM/CPL/Schematic/PCB layout/PCB routing/and all settings)
 
-5h ago
+6h ago
 
 ---
 
@@ -50,15 +50,7 @@ Hello guys, I upgraded my first flight controller based on some errors I faced i
 
 I posted a video a couple of days ago on r/esp32 showing my Open-Source robot dance, and some people wanted to see it walk ... here you go ! Got a complete walking gate & added remote control :) Everything runs on the ESP32-S3 ! What do you think ?
 
-23h ago
-
----
-
-**[Figure 7th-gen hand](https://www.reddit.com/r/robotics/comments/1r4jkfa/figure_7thgen_hand/)**
-
-From Brett Adcock on 𝕏: https://x.com/adcock_brett/status/2022353637964751221 Figure on 𝕏: https://x.com/Figure_robot/status/2022352809459609896
-
-1h ago
+1d ago
 
 ---
 
@@ -74,7 +66,7 @@ Hi everyone, I’ve been admitted to two master’s programs in Germany and woul
 
 I am creating this thread to gather all fellow IEEE ICRA 2026 attendees(especially students) who have or will be applying for a Schengen visa. Other forms of discussions about Travel Grant, leisure, general plans, registration etc., are also encouraged.
 
-3h ago
+4h ago
 
 ---
 
@@ -82,13 +74,13 @@ I am creating this thread to gather all fellow IEEE ICRA 2026 attendees(especial
 
 From hardware to software, I see every day tons of new startups, mostly around AI. I'm not sure if it's just me that my Twitter algorithm but like every day someone appears with all kinds of products. Lately i see an abundance of data collection, AI schematic or PCB creators, AI ros configurators, etc.... Are the tech bros got tired of AI SaaS saturation and getting into robotics hoping to get an edge?
 
-19h ago
+20h ago
 
 ---
 
 **[Servo-driven ball screw linear actuators for a real-time 6-DOF Stewart platform (cross-post from r/AskEngineers)](https://www.reddit.com/r/robotics/comments/1r472vj/servodriven_ball_screw_linear_actuators_for_a/)**
 
-12h ago
+13h ago
 
 ---
 
@@ -102,7 +94,15 @@ From hardware to software, I see every day tons of new startups, mostly around A
 
 Has anyone done this? Basically, I need to put a real world lab (I have RGB-D data and maps) into Isaac Sim somehow to create a labeled point cloud dataset for point cloud segmentation. Is there an existing way to do this that can structure the environment and label objects in the simulation world for automatic data collection?
 
-15h ago
+16h ago
+
+---
+
+**[Best modern motors/BLDC/Servos for DIY Robotic actuation](https://www.reddit.com/r/robotics/comments/1r3wz8a/best_modern_motorsbldcservos_for_diy_robotic/)**
+
+Howdy! I am a robotic engineer who has dived deep into DIY QDD actuators, creating custom servos, and making humanoids/quadriped robots. I wanted to know if anyone has done broad market research in the best actuators or servos on the market? As of now, I see two options Smaller form factor: Servos that can do 35kg of torque, STS3215 are in this category larger form factor: integrated QDD actuators or DIY drone motors such as eagle power 90kv + 9:1 gearbox, or the GIM6010/8108 motors that get about 5-15 nM of torque. Im thinking that there must be a good middle ground option for control and robotic arms/manipulators/linkages between a small 6010 GIM bldc setup and a STS3215, but i dont see many.
+
+20h ago
 
 ---
 
@@ -115,6 +115,62 @@ Has anyone done this? Basically, I need to put a real world lab (I have RGB-D da
 Developing a durable and affordable hand is one of the biggest challenges in robotics.
 
 BBC • 1d ago
+
+---
+
+**[Upside Robotics is reducing fertilizer use and waste in corn crops](https://techcrunch.com/2026/02/11/upside-robotics-is-reducing-fertilizer-use-and-waste-in-corn-crops/)**
+
+Upside Robotics builds autonomous solar-powered robots that can help farmers reduce their fertilizer use by 70%.
+
+TechCrunch • 2d ago
+
+---
+
+**[Is China Leading the Robotics Revolution?](https://chinapower.csis.org/china-industrial-robots/)**
+
+This ChinaPower feature examines China's push to lead the world in robotics and the geopolitical implications.
+
+ChinaPower Project • 1d ago
+
+---
+
+**[Elon Musk Bets On Humanoid Robots In 2026, But One Company Hopes 'Elon Time' Strikes Again](https://finance.yahoo.com/news/elon-musk-bets-humanoid-robots-153112171.html)**
+
+Elon Musk has repeatedly touted the Optimus humanoid robot as Tesla’s (NYSE:TSLA) most significant long-term value driver, suggesting it could eventually propel the company’s market cap to $25 trillion. Yet, prediction market odds suggest a humanoid robot in 2026 may be a little too optimistic. During Tesla's recent “We, Robot” event, Musk claimed the robots could perform everything from babysitting to mowing lawns, with a price tag between $20,000 and $30,000. But according to Kalshi, the human
+
+Yahoo Finance • 1d ago
+
+---
+
+**[If robots take the auto jobs, who’s left with money to buy cars?](https://www.autonews.com/manufacturing/anc-humanoid-robots-threaten-auto-industry-jobs-0209/)**
+
+Larry Savage, a professor of labour studies at Brock University, says governments might need to step in to help protect jobs that are under the threat of automation.
+
+Automotive News • 2d ago
+
+---
+
+**[Robotics Centre Presents BAAZ Hybrid VTOL UAV](https://militarnyi.com/en/news/robotics-centre-baaz-hybrid-vtol-uav/)**
+
+At the Robotics Centre booth, a new hybrid drone called BAAZ was presented, combining the advantages of a multicopter and an airplane.This was reported to Militarnyi by a company representative […]
+
+Мілітарний • 22h ago
+
+---
+
+**[China has another solution to its shrinking population: robots](https://www.cnn.com/2026/02/13/china/china-population-robots-intl-hnk-dst)**
+
+China’s birth rate has hit a historic low – deepening fears of a major economic shock in the decades to come as the country’s massive labor force dwindles and its population of pension-drawing retirees swells.
+
+CNN • 10h ago
+
+---
+
+**[Bedrock Robotics raises $270M in red-hot AI sector](https://www.constructiondive.com/news/bedrock-robotics-raise-ai-automation-funding/811982/)**
+
+The autonomous construction tech provider now boasts total funding of over $350 million and a valuation of $1.75 billion.
+
+Construction Dive • 2d ago
 
 ---
 
@@ -132,62 +188,6 @@ Forbes • 1d ago
 
 ---
 
-**[Is China Leading the Robotics Revolution?](https://chinapower.csis.org/china-industrial-robots/)**
-
-This ChinaPower feature examines China's push to lead the world in robotics and the geopolitical implications.
-
-ChinaPower Project • 1d ago
-
----
-
-**[Robotics Centre Presents BAAZ Hybrid VTOL UAV](https://militarnyi.com/en/news/robotics-centre-baaz-hybrid-vtol-uav/)**
-
-At the Robotics Centre booth, a new hybrid drone called BAAZ was presented, combining the advantages of a multicopter and an airplane.This was reported to Militarnyi by a company representative […]
-
-Мілітарний • 21h ago
-
----
-
-**[IDF's new mechanical AI robot cleans tanks without soldiers](https://www.jpost.com/israel-news/defense-news/article-886585)**
-
-The robot operates autonomously, without soldiers present in dangerous environments and without exposure to chemicals, oils, or extreme heat.
-
-The Jerusalem Post • 15h ago
-
----
-
-**[Elon Musk Bets On Humanoid Robots In 2026, But One Company Hopes 'Elon Time' Strikes Again](https://finance.yahoo.com/news/elon-musk-bets-humanoid-robots-153112171.html)**
-
-Elon Musk has repeatedly touted the Optimus humanoid robot as Tesla’s (NYSE:TSLA) most significant long-term value driver, suggesting it could eventually propel the company’s market cap to $25 trillion. Yet, prediction market odds suggest a humanoid robot in 2026 may be a little too optimistic. During Tesla's recent “We, Robot” event, Musk claimed the robots could perform everything from babysitting to mowing lawns, with a price tag between $20,000 and $30,000. But according to Kalshi, the human
-
-Yahoo Finance • 1d ago
-
----
-
-**[Robots with human-inspired eyes have better vision](https://www.economist.com/science-and-technology/2026/02/11/robots-with-human-inspired-eyes-have-better-vision)**
-
-Their reaction times can even surpass their makers’
-
-The Economist • 2d ago
-
----
-
-**[What to know about Chicago's delivery robots and the debate over them](https://chicago.suntimes.com/business/2026/delivery-robots-chicago-food-coco-robotics)**
-
-Some Chicago residents are fighting the deployment of robot delivery couriers. A petition started by a Lincoln Park resident has picked up over 3,400 signatures
-
-Chicago Sun-Times • 2d ago
-
----
-
-**[GE Aerospace uses robots to fix jet engine blades, reduce repair delay](https://interestingengineering.com/ai-robotics/ge-aerospace-robots-jet-engine-repair)**
-
-GE Aerospace is teaching robots to repair jet engine blades as global maintenance backlogs stretch into months.
-
-Interesting Engineering • 1d ago
-
----
-
 ---
 
 ## YouTube Videos: "robotics"
@@ -198,7 +198,7 @@ Foundation Future Industries CEO Sankaet Pathak discusses the rise of humanoid r
 
 📺 Fox Business Clips
 
-👁️ 176K • 👍 4K • 💬 2K • ⏱️ 9:47 • 22h ago
+👁️ 181K • 👍 4K • 💬 2K • ⏱️ 9:47 • 23h ago
 
 ---
 
@@ -216,7 +216,17 @@ Such a presentation would signal how rapidly autonomous systems and advanced rob
 
 📺 Carros Show
 
-👁️ 4K • 👍 96 • 💬 8 • ⏱️ 12:30 • 2d ago
+👁️ 4K • 👍 99 • 💬 8 • ⏱️ 12:30 • 2d ago
+
+---
+
+**[Unitree Embodied AI Model Manufactures Robots in Factory🤩](https://www.youtube.com/watch?v=ub2gWviKZpk)**
+
+Based on Unitree's UnifoLM-X1-0 embodied AI model, this is an actual deployment at Unitree's own robot factory.
+
+📺 Unitree Robotics
+
+👁️ 24K • 👍 695 • 💬 110 • ⏱️ 0:45 • 1d ago
 
 ---
 
@@ -226,7 +236,7 @@ Boston Dynamics' latest Atlas humanoid robot attempts dramatic parkour flips, dr
 
 📺 AI News
 
-👁️ 6K • 👍 106 • 💬 25 • ⏱️ 8:03 • 5d ago
+👁️ 6K • 👍 107 • 💬 25 • ⏱️ 8:03 • 5d ago
 
 ---
 
@@ -236,7 +246,7 @@ Can a little Pi-powered bot teach my kids? The Reachy Mini Wireless I used was p
 
 📺 Jeff Geerling
 
-👁️ 60K • 👍 3K • 💬 224 • ⏱️ 12:38 • 22h ago
+👁️ 63K • 👍 4K • 💬 230 • ⏱️ 12:38 • 23h ago
 
 ---
 
@@ -246,7 +256,7 @@ PART 3: I was held prisoner by E.L.B.E.R.R the robot and forced to build him an 
 
 📺 LIGHTS ARE OFF
 
-👁️ 14K • 👍 8K • 💬 1K • ⏱️ 10:32 • 4h ago
+👁️ 140K • 👍 17K • 💬 3K • ⏱️ 10:32 • 5h ago
 
 ---
 
@@ -260,33 +270,23 @@ Such a debut would mark a major step for Apple as it expands beyond personal ele
 
 ---
 
-**[The “Order 66” Robot Theory with Telsa Optimus and starlink #elonmusk #grok  #humanoidrobots](https://www.youtube.com/watch?v=Y0a1sisNdv0)**
-
-The biggest fear about humanoid robots isn't strength. It's control. Future robots like Optimus are designed to stay connected ...
-
-📺 By 2050
-
-👁️ 70K • 👍 2K • 💬 47 • ⏱️ 0:57 • 1d ago
-
----
-
 **[Chinese robotics company’s world-first humanoid machine gala reveals high-tech surprises](https://www.youtube.com/watch?v=lW8_aHE68BE)**
 
 Chinese robotics company AGIBOT redefined the intersection of technology and culture by hosting a historic 60-minute gala ...
 
 📺 ABS-CBN News
 
-👁️ 18K • 👍 144 • 💬 91 • ⏱️ 3:09 • 2d ago
+👁️ 19K • 👍 149 • 💬 94 • ⏱️ 3:09 • 2d ago
 
 ---
 
-**[Humanoid Robots Doing Backflips 🤖🔥](https://www.youtube.com/watch?v=xqyjrT2WyGc)**
+**[The “Order 66” Robot Theory with Telsa Optimus and starlink #elonmusk #grok  #humanoidrobots](https://www.youtube.com/watch?v=Y0a1sisNdv0)**
 
-Humanoid robots are pushing physical limits — with real-time balance control, torque optimization, and AI-powered motion ...
+The biggest fear about humanoid robots isn't strength. It's control. Future robots like Optimus are designed to stay connected ...
 
-📺 Facts TV 91
+📺 By 2050
 
-👁️ 21K • 👍 177 • 💬 10 • ⏱️ 0:06 • 12h ago
+👁️ 74K • 👍 2K • 💬 47 • ⏱️ 0:57 • 1d ago
 
 ---
 
