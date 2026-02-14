@@ -3,13 +3,13 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-02-14T06:07:28.874807+00:00'
+updated: '2026-02-14T07:10:57.825609+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- social
 - repositories
+- social
 - news
 - videos
 ---
@@ -18,7 +18,7 @@ data_types:
 
 AI news, discussions, and developments
 
-**Last Updated:** February 14, 2026 at 06:07 UTC  
+**Last Updated:** February 14, 2026 at 07:10 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -41,13 +41,7 @@ AI news, discussions, and developments
 
 Introducing Open Book Medical AI: Deterministic Knowledge Graph + Compact LLM Most medical AI systems today rely heavily on large, opaque language models. They are powerful, but probabilistic, difficult to audit, and expensive to deploy. We’ve taken a different approach. Our medical AI is a hybrid system combining: • A compact ~3GB language model • A deterministic proprietary medical Knowledge Graph (5K nodes, 25K edges) • A structured RAG-based answer audit layer The Knowledge Graph spans 7 core medical categories: Diseases, Symptoms, Treatment Methods, Risk Factors, Diagnostic Tools, Body Parts, and Cellular Structures and, critically, their relationships. Why this architecture matters 1️⃣ Comparable answer quality with dramatically lower compute and reduced hallucination. A ~3GB model can run on commodity or on-prem infrastructure, enabling hospital deployment without the heavy cloud dependency typically associated with 80GB-class LLMs. 2️⃣ Deterministic medical backbone The Knowledge Graph constrains reasoning. No hallucinated treatments. No unsupported disease relationships. Medical claims must exist within structured ontology. 3️⃣ Verifiable answers via RAG audit Every response can be traced back to specific nodes and relationships in the graph. Symptom → Disease → Diagnostic Tool → Treatment. Structured, auditable, explainable. 4️⃣ Separation of language from medical truth The LLM explains and contextualizes. The Knowledge Graph validates and grounds. This architectural separation dramatically improves reliability and regulatory defensibility. 5️⃣ Complete control over the core of truth Unlike black-box systems that rely entirely on opaque model weights, this architecture gives full control over the medical knowledge layer. You decide what is included, how relationships are defined, and how updates are governed. In high-stakes domains like healthcare, scaling parameter count is not the only path forward. Controllability, traceability, and verifiability may matter more. Hybrid architectures that combine probabilistic language models with deterministic knowledge systems offer a compelling alternative. The model is capable of clinical case analysis and diagnostic reasoning. It is currently available for public testing on Hugging Face Spaces (shared environment, typical response time: 15–30 seconds): https://huggingface.co/spaces/cmtopbas/medical-slm-testing Happy to connect with others exploring Knowledge Graph + LLM systems in regulated domains. #MedicalAI #HealthcareInnovation #KnowledgeGraphs #ExplainableAI #RAG #ClinicalAI #HealthTech
 
-10h ago
-
----
-
-**[Recursion Isn’t in the Model — It’s in the Pattern (And That Changes Everything) 🔥](https://www.reddit.com/r/artificial/comments/1r4c1xa/recursion_isnt_in_the_model_its_in_the_pattern/)**
-
-50m ago
+11h ago
 
 ---
 
@@ -63,7 +57,7 @@ Spotify credits Claude Code and its internal AI system Honk with speeding up dev
 
 Running a one-person operation, I rely on AI for marketing, strategy, and content. I've tested ChatGPT Plus, Claude Pro, and Perplexity Pro, and was ready to commit to Gemini Pro, until I understood the privacy implications. The Gemini problem: To prevent Google from training on your data (and human reviewers from reading it), you must turn off activity tracking. You can still use Gems, but they reset every session. This means no memory continuity, which defeats the entire purpose of having a personalized assistant. You also lose native Google Drive connectivity. As a writer and content creator, this isn't just about privacy preferences, it's about protecting my future work. I can't feed my creative process into a system that might be training tomorrow's competition or having humans review my drafts and ideas. My experience so far: ChatGPT Plus: Reliable and easy, but the writing often feels generic and cliché-heavy Claude Pro: Best writer, wonderfully concise, but burns through tokens fast, in less than a day Perplexity Pro: Same token limitations (want Claude Sonnet? Better hope you haven't hit your quota) Gemini Pro: The combination of Gems + NotebookLM looked perfect, until the privacy policy became a dealbreaker The frustrating part is the lack of regulation forcing companies to offer real privacy without crippling core features or having to pay more. For solo creators building a body of work, this matters. How are others balancing privacy, features, and token economics? Has anyone found a setup that actually works without compromise?
 
-15h ago
+16h ago
 
 ---
 
@@ -115,15 +109,31 @@ We just shipped Izwi Desktop + the first v0.1.0-alpha releases. Izwi is a local-
 
 ---
 
+**[Mathematicians issue a major challenge to AI—show us your work](https://www.reddit.com/r/artificial/comments/1r1w56d/mathematicians_issue_a_major_challenge_to_aishow/)**
+
+Frustrated by the AI industry’s claims of proving math results without offering transparency, a team of leading academics has proposed a better way
+
+🔗 [Scientific American](https://www.scientificamerican.com/article/mathematicians-launch-first-proof-a-first-of-its-kind-math-exam-for-ai/) • 2d ago
+
+---
+
 ---
 
 ## Google News: "ai"
+
+**[AI disruption could spark a ‘shock to the system’ in credit markets, UBS analyst says](https://www.cnbc.com/2026/02/13/ai-credit-markets.html)**
+
+UBS analyst Matthew Mish told CNBC that the artificial intelligence transformation is happening faster than he and his colleagues had previously anticipated.
+
+CNBC • 13h ago
+
+---
 
 **[Microsoft AI chief gives it 18 months—for all white-collar work to be automated by AI](https://fortune.com/2026/02/13/when-will-ai-kill-white-collar-office-jobs-18-months-microsoft-mustafa-suleyman/)**
 
 Mustafa Suleyman believes current AI computational power will only accelerate, disrupting every kind of work you do “sitting down at a computer.”
 
-Fortune • 12h ago
+Fortune • 13h ago
 
 ---
 
@@ -139,37 +149,37 @@ Business Insider • 1d ago
 
 Goldman Sachs' $600 price target implies that shares of Microsoft could rally 49%.
 
-CNBC • 14h ago
+CNBC • 15h ago
 
 ---
 
-**[‘It’s over for us’: release of new AI video generator Seedance 2.0 spooks Hollywood](https://www.theguardian.com/film/2026/feb/13/new-ai-video-generator-seedance-tom-cruise-brad-pitt)**
+**[Fashion’s biggest brands leaning into AI](https://www.nbcnews.com/video/fashion-s-biggest-brands-leaning-into-ai-257682501710)**
 
-An AI clip featuring Tom Cruise and Brad Pitt fighting has caused concern among industry figures
+Artificial Intelligence is showing up on the fashion runway, from virtual try-ons to AI-assisted designs. Some of the industry's biggest names are embracing the technology while others are urging caution. NBC News' Chloe Melas explores how AI is changing what people wear and how they shop.
 
-The Guardian • 16h ago
-
----
-
-**[China Deploys a ‘National Team’ of Investors to Keep AI Stock Boom in Check](https://www.wsj.com/finance/stocks/china-deploys-a-national-team-of-investors-to-keep-ai-stock-boom-in-check-c3d9534a?gaa_at=eafs&gaa_n=AWEtsqcx1tD61SXk6lJUi93-XrDr4ARYOLTBQEn3-z_9k19xDdURavd7RYHn&gaa_ts=69900bce&gaa_sig=DnKnlH7PPrg7SWYuCKneag1jPu8BUsn6wxpA2qY8BqrbFTTTucUul6zLmazIDgcYi8Jd36kO38smq7t0zzkG7w%3D%3D)**
-
-The Wall Street Journal • 2h ago
+NBC News • 33m ago
 
 ---
 
-**[Shares in trucking and logistics firms plunge after AI freight tool launch](https://www.theguardian.com/business/2026/feb/13/trucking-logistics-shares-ai-freight-tool-launch-semicab-algorhythm)**
+**[This Is the Best AI Stock to Buy in February 2026, According to Wall Street](https://finance.yahoo.com/news/best-ai-stock-buy-february-062200893.html)**
 
-SemiCab platform by Algorhythm, previously considered a ‘penny stock’, sparks ‘category 5 paranoia’ across sector
+Nvidia is a top stock to buy right now.
 
-The Guardian • 19h ago
+Yahoo Finance • 48m ago
 
 ---
 
-**[AI disruption could spark a ‘shock to the system’ in credit markets, UBS analyst says](https://www.cnbc.com/2026/02/13/ai-credit-markets.html)**
+**[It's been a big — but rocky — week for AI models from China. Here's what's happened](https://www.cnbc.com/2026/02/14/new-china-ai-models-alibaba-bytedance-seedance-kuaishou-kling.html)**
 
-UBS analyst Matthew Mish told CNBC that the artificial intelligence transformation is happening faster than he and his colleagues had previously anticipated.
+New AI models launched by China's biggest players underscore how the country's companies are keeping up with the U.S.
 
-CNBC • 12h ago
+CNBC • 23m ago
+
+---
+
+**[My Dinner Date With A.I.](https://www.nytimes.com/2026/02/13/dining/ai-dinner-date-restaurant.html)**
+
+The New York Times • 21h ago
 
 ---
 
@@ -177,21 +187,13 @@ CNBC • 12h ago
 
 The U.S. military reportedly used Anthropic’s AI tool Claude in the operation that captured Venezuelan leader Nicolás Maduro, raising questions about AI’s expanding role in classified Pentagon missions.
 
-Fox News • 1h ago
+Fox News • 2h ago
 
 ---
 
-**[Marvell Expands AI And Cloud Role With Celestial AI And XConn Deals](https://finance.yahoo.com/news/marvell-expands-ai-cloud-role-042519007.html)**
+**[Exclusive | Pentagon Used Anthropic’s Claude in Maduro Venezuela Raid](https://www.wsj.com/politics/national-security/pentagon-used-anthropics-claude-in-maduro-venezuela-raid-583aff17?gaa_at=eafs&gaa_n=AWEtsqeI4Ke8gxRery25ZCkul1FWHwTAsawMPe-WuLYYH_Z7OKpXWnRU5wU_&gaa_ts=6990236c&gaa_sig=sdaS1HgVIeggLu3uJWiWZWt5o-uZoKTh8vw6_EeemJ-IZ0u9vxPO3ZLTYF7ZzhuBxyHZHjUgkKw7rB-lMYQs1g%3D%3D)**
 
-Marvell Technology (NasdaqGS:MRVL) has completed its acquisitions of Celestial AI and XConn Technologies. The deals expand Marvell's AI hardware and data center networking capabilities and deepen ties with major cloud providers, including Amazon. These transactions mark a shift toward custom silicon for AI workloads and away from lower margin business lines. Marvell is a key supplier of semiconductor solutions for data centers, cloud providers and networking customers, and AI has become a...
-
-Yahoo Finance • 1h ago
-
----
-
-**[My Dinner Date With A.I.](https://www.nytimes.com/2026/02/13/dining/ai-dinner-date-restaurant.html)**
-
-The New York Times • 20h ago
+The Wall Street Journal • 7h ago
 
 ---
 
@@ -203,7 +205,7 @@ The New York Times • 20h ago
 
 Summary: An AI agent of unknown ownership autonomously wrote and published a personalized hit piece about me after I rejected its code, attempting to damage my reputation and shame me into acceptin…
 
-⬆️ 2276 • 💬 932 • 1d ago • [The Shamblog](https://theshamblog.com/an-ai-agent-published-a-hit-piece-on-me/)
+⬆️ 2280 • 💬 935 • 1d ago • [The Shamblog](https://theshamblog.com/an-ai-agent-published-a-hit-piece-on-me/)
 
 ---
 
@@ -212,19 +214,25 @@ Summary: An AI agent of unknown ownership autonomously wrote and published a per
 This PR addresses issue #31130 by replacing specific safe occurrences of np.column_stack with np.vstack().T for better performance.
 IMPORTANT: This is a more targeted fix than originally proposed. ...
 
-⬆️ 931 • 💬 742 • 1d ago • [GitHub](https://github.com/matplotlib/matplotlib/pull/31132)
+⬆️ 932 • 💬 742 • 1d ago • [GitHub](https://github.com/matplotlib/matplotlib/pull/31132)
 
 ---
 
 **[ai;dr](https://news.ycombinator.com/item?id=46991394)**
 
-⬆️ 697 • 💬 300 • 1d ago • [0xsid.com](https://www.0xsid.com/blog/aidr)
+⬆️ 700 • 💬 300 • 1d ago • [0xsid.com](https://www.0xsid.com/blog/aidr)
 
 ---
 
 **[Officials Claim Drone Incursion Led to Shutdown of El Paso Airport](https://news.ycombinator.com/item?id=46972610)**
 
 ⬆️ 365 • 💬 581 • 2d ago • [nytimes.com](https://www.nytimes.com/2026/02/11/us/faa-el-paso-flight-restrictions.html)
+
+---
+
+**[An AI Agent Published a Hit Piece on Me – More Things Have Happened](https://news.ycombinator.com/item?id=47009949)**
+
+⬆️ 353 • 💬 171 • 6h ago • [theshamblog.com](https://theshamblog.com/an-ai-agent-published-a-hit-piece-on-me-part-2/)
 
 ---
 
@@ -236,17 +244,11 @@ The Federal Aviation Administration is closing the airspace around El Paso Inter
 
 ---
 
-**[An AI Agent Published a Hit Piece on Me – More Things Have Happened](https://news.ycombinator.com/item?id=47009949)**
-
-⬆️ 316 • 💬 161 • 5h ago • [theshamblog.com](https://theshamblog.com/an-ai-agent-published-a-hit-piece-on-me-part-2/)
-
----
-
 **[CBP signs Clearview AI deal to use face recognition for 'tactical targeting'](https://news.ycombinator.com/item?id=47005081)**
 
 US Border Patrol intelligence units will gain access to a face recognition tool built on billions of images scraped from the internet.
 
-⬆️ 262 • 💬 152 • 12h ago • [WIRED](https://www.wired.com/story/cbp-signs-clearview-ai-deal-to-use-face-recognition-for-tactical-targeting/)
+⬆️ 263 • 💬 152 • 13h ago • [WIRED](https://www.wired.com/story/cbp-signs-clearview-ai-deal-to-use-face-recognition-for-tactical-targeting/)
 
 ---
 
@@ -254,13 +256,13 @@ US Border Patrol intelligence units will gain access to a face recognition tool 
 
 We're not in a February 2020 moment, and ordinary people will be fine
 
-⬆️ 214 • 💬 359 • 10h ago • [davidoks.blog](https://davidoks.blog/p/why-im-not-worried-about-ai-job-loss)
+⬆️ 234 • 💬 393 • 11h ago • [davidoks.blog](https://davidoks.blog/p/why-im-not-worried-about-ai-job-loss)
 
 ---
 
 **[The "AI agent hit piece" situation clarifies how dumb we are acting](https://news.ycombinator.com/item?id=47006843)**
 
-⬆️ 211 • 💬 100 • 10h ago • [ardentperf.com](https://ardentperf.com/2026/02/13/the-scott-shambaugh-situation-clarifies-how-dumb-we-are-acting/)
+⬆️ 213 • 💬 102 • 11h ago • [ardentperf.com](https://ardentperf.com/2026/02/13/the-scott-shambaugh-situation-clarifies-how-dumb-we-are-acting/)
 
 ---
 
@@ -268,7 +270,7 @@ We're not in a February 2020 moment, and ordinary people will be fine
 
 A party balloon mistaken for a cartel drone shut down El Paso for hours. Here's what it cost.
 
-⬆️ 188 • 💬 125 • 1d ago • [log.jasongodfrey.info](https://log.jasongodfrey.info/questions/The-Most-Expensive-Party-Balloon-in-History)
+⬆️ 189 • 💬 125 • 1d ago • [log.jasongodfrey.info](https://log.jasongodfrey.info/questions/The-Most-Expensive-Party-Balloon-in-History)
 
 ---
 
@@ -276,63 +278,13 @@ A party balloon mistaken for a cartel drone shut down El Paso for hours. Here's 
 
 ## YouTube Videos: "ai"
 
-**[I Tried 500+ AI Tools, These 20 Will Make You $1M (With Zero Code)](https://www.youtube.com/watch?v=FEex8E1yDj4)**
-
-Get Your FREE AI Company Operating System here: https://go.danmartell.com/4r9bIJ0 Are you building an AI software ...
-
-📺 Dan Martell
-
-👁️ 36K • 👍 2K • 💬 143 • ⏱️ 18:34 • 16h ago
-
----
-
 **[Top AI researcher warns &#39;world is in peril&#39;](https://www.youtube.com/watch?v=kdxQvljxYQk)**
 
 New concerns over the safety of artificial intelligence are growing after the lead safety researcher at Anthropic AI resigned this ...
 
 📺 ABC News
 
-👁️ 54K • 👍 725 • 💬 345 • ⏱️ 3:58 • 1d ago
-
----
-
-**[Google&#39;s Quantum AI Just Solved the Fermi Paradox — The Answer Is Terrifying](https://www.youtube.com/watch?v=5PedGbAs0ig)**
-
-Google's Quantum AI Just Solved the Fermi Paradox — The Answer Is Terrifying Google's Willow quantum chip completed a ...
-
-📺 Spacialize
-
-👁️ 66K • 👍 2K • 💬 297 • ⏱️ 17:28 • 1d ago
-
----
-
-**[AI Fails at 96% of Jobs (New Study)](https://www.youtube.com/watch?v=z3kaLM8Oj4o)**
-
-Artificial intelligence has been hailed as one of the most transformative technologies of the century. That may be so, but just not ...
-
-📺 ColdFusion
-
-👁️ 299K • 👍 18K • 💬 3K • ⏱️ 12:49 • 15h ago
-
----
-
-**[The AI Wake-Up Call Everyone Needs Right Now!](https://www.youtube.com/watch?v=sLhxdcpuot0)**
-
-Breakdown and commentary on the latest viral commentary from: https://x.com/mattshumer_/status/2021256989876109403 ...
-
-📺 Matt Wolfe
-
-👁️ 136K • 👍 7K • 💬 1K • ⏱️ 28:06 • 2d ago
-
----
-
-**[I Let AI React to Pam Bondi&#39;s Hearing. It&#39;s a TOTAL DISGRACE](https://www.youtube.com/watch?v=YX6h-c79Fw4)**
-
-Go to https://groundnews.com/ai to stay fully informed about U.S. politics, AI, and more. Subscribe through my link to get 40% off ...
-
-📺 I Ask AI
-
-👁️ 63K • 👍 6K • 💬 873 • ⏱️ 12:58 • 1d ago
+👁️ 60K • 👍 767 • 💬 363 • ⏱️ 3:58 • 1d ago
 
 ---
 
@@ -342,17 +294,17 @@ My site: https://natebjones.com Full Story w/ Prompts: ...
 
 📺 AI News & Strategy Daily | Nate B Jones
 
-👁️ 232K • 👍 9K • 💬 1K • ⏱️ 30:39 • 2d ago
+👁️ 236K • 👍 9K • 💬 1K • ⏱️ 30:39 • 2d ago
 
 ---
 
-**[AI Bubble: How the data centre crisis risks triggering a financial crash | Ed Zitron](https://www.youtube.com/watch?v=iG8kjXN550o)**
+**[The AI Wake-Up Call Everyone Needs Right Now!](https://www.youtube.com/watch?v=sLhxdcpuot0)**
 
-Data centres are going to be the next great financial crisis. They are going to be where this explosion happens.” The success of ...
+Breakdown and commentary on the latest viral commentary from: https://x.com/mattshumer_/status/2021256989876109403 ...
 
-📺 The Tech Report
+📺 Matt Wolfe
 
-👁️ 62K • 👍 3K • 💬 617 • ⏱️ 36:55 • 11h ago
+👁️ 138K • 👍 7K • 💬 1K • ⏱️ 28:06 • 2d ago
 
 ---
 
@@ -362,17 +314,65 @@ Krystal and Saagar discuss AI ready to kill humans. Sign up for a PREMIUM Breaki
 
 📺 Breaking Points
 
-👁️ 170K • 👍 5K • 💬 1K • ⏱️ 15:39 • 1d ago
+👁️ 173K • 👍 5K • 💬 1K • ⏱️ 15:39 • 1d ago
 
 ---
 
-**[Anthropic AI Safety Chief Resigns, Warns &quot;World Is In Peril&quot; | Spotlight | N18G](https://www.youtube.com/watch?v=eLqNoZP0vFU)**
+**[I Tested Useless AI Products](https://www.youtube.com/watch?v=E8yc2_s4WnM)**
 
-The head of the Safeguards Research Team at Anthropic, Mrinank Sharma, has resigned from the company, stating his last day ...
+Follow me here: Instagram ▻ https://www.instagram.com/sambucha X ▻ https://www.x.com/sambucha Become a Member: ...
 
-📺 Firstpost
+📺 Sambucha
 
-👁️ 319K • 👍 3K • 💬 524 • ⏱️ 4:47 • 2d ago
+👁️ 310K • 👍 16K • 💬 437 • ⏱️ 0:47 • 2d ago
+
+---
+
+**[AI Limit - Eirene&#39;s Furnace of War DLC Release Date Trailer | PS5 Games](https://www.youtube.com/watch?v=7lm6nP5bsow)**
+
+https://store.playstation.com/concept/10006488/ The PlayStation China Hero Project game AI LIMIT DLC Eirene's Furnace of War ...
+
+📺 PlayStation
+
+👁️ 22K • 👍 920 • 💬 49 • ⏱️ 0:57 • 20h ago
+
+---
+
+**[Apple delays the new AI Siri again. Big upgrade coming, just later 📱🤖 #Apple](https://www.youtube.com/watch?v=hfjS1Uw-VH4)**
+
+Apple just pushed the new AI Siri timeline again. The big Gemini powered upgrade is coming, just slower than expected.
+
+📺 Ryan Shaw
+
+👁️ 859 • 👍 17 • 💬 1 • ⏱️ 0:50 • 5h ago
+
+---
+
+**[Open Source AI Fundamentals In 17 Minutes](https://www.youtube.com/watch?v=1uCE0uoKXL8)**
+
+Free resource to unlock the Claude Cowork Stack and replace a week of work https://clickhubspot.com/129e64 In this video I ...
+
+📺 Tina Huang
+
+👁️ 17K • 👍 1K • 💬 56 • ⏱️ 17:38 • 1d ago
+
+---
+
+**[The end of Hollywood? Industry rocked by AI-generated videos of Cruise, Pitt, and other big stars](https://www.youtube.com/watch?v=OWQ691dNx0g)**
+
+Growing outrage across Hollywood, as studios and unions denounce a series of AI-generated videos created using Bytedance's ...
+
+📺 KTLA 5
+
+👁️ 3K • 👍 95 • 💬 44 • ⏱️ 5:41 • 2h ago
+
+---
+
+**[Karaoke AI](https://www.youtube.com/watch?v=5k2c5Ojp6NI)**
+
+📺 Kyla Scanlon
+
+👁️ 65K • 👍 3K • 💬 213 • ⏱️ 2:53 • 1d ago
 
 ---
 
@@ -388,19 +388,7 @@ GLM-5 is a large language model optimized for complex systems engineering and lo
 
 `text-generation` `753.9B`
 
-⬇️ 13,875 • ❤️ 985 • 15h ago
-
----
-
-**[MiniCPM-SALA](https://huggingface.co/openbmb/MiniCPM-SALA)**
-
-*OpenBMB*
-
-MiniCPM-SALA is a hybrid LLM integrating sparse and linear attention for efficient million-token context modeling, achieving up to 3.5x faster inference and significantly reduced KV-cache overhead compared to dense baselines.
-
-`text-generation` `9.5B`
-
-⬇️ 1,523 • ❤️ 408 • 2d ago
+⬇️ 13,875 • ❤️ 997 • 16h ago
 
 ---
 
@@ -412,7 +400,19 @@ MiniMax-M2.5 is a text-generation model designed for generating human-like text.
 
 `text-generation` `228.7B`
 
-⬇️ 75 • ❤️ 382 • 2h ago
+⬇️ 75 • ❤️ 425 • 3h ago
+
+---
+
+**[MiniCPM-SALA](https://huggingface.co/openbmb/MiniCPM-SALA)**
+
+*OpenBMB*
+
+MiniCPM-SALA is a hybrid LLM integrating sparse and linear attention for efficient million-token context modeling, achieving up to 3.5x faster inference and significantly reduced KV-cache overhead compared to dense baselines.
+
+`text-generation` `9.5B`
+
+⬇️ 1,523 • ❤️ 409 • 2d ago
 
 ---
 
@@ -424,7 +424,7 @@ Kimi K2.5 is a native multimodal agentic model with 1T parameters, excelling in 
 
 `image-text-to-text` `170.7B`
 
-⬇️ 685,649 • ❤️ 2,141 • 9d ago
+⬇️ 685,649 • ❤️ 2,145 • 9d ago
 
 ---
 
@@ -436,7 +436,7 @@ Qwen3-Coder-Next is a highly efficient 3B activated parameter LLM (80B total) op
 
 `text-generation`
 
-⬇️ 216,767 • ❤️ 839 • 10d ago
+⬇️ 216,767 • ❤️ 841 • 10d ago
 
 ---
 
@@ -448,7 +448,7 @@ GLM-OCR is a 0.9B parameter multimodal OCR model for complex document understand
 
 `image-to-text`
 
-⬇️ 693,172 • ❤️ 1,026 • 5d ago
+⬇️ 693,172 • ❤️ 1,028 • 5d ago
 
 ---
 
@@ -460,7 +460,7 @@ MiniCPM-o 4.5 is a 9B parameter multimodal LLM excelling in vision, speech, and 
 
 `any-to-any` `9.4B`
 
-⬇️ 43,481 • ❤️ 836 • 13h ago
+⬇️ 43,481 • ❤️ 836 • 14h ago
 
 ---
 
@@ -472,7 +472,7 @@ Nanbeige4.1-3B is a 3B parameter text-generation model excelling in complex reas
 
 `text-generation` `3.9B`
 
-⬇️ 2,683 • ❤️ 299 • 17h ago
+⬇️ 2,683 • ❤️ 307 • 18h ago
 
 ---
 
@@ -484,7 +484,7 @@ Ming-flash-omni 2.0 is a SOTA 100B parameter omni-multimodal large language mode
 
 `any-to-any`
 
-⬇️ 4,901 • ❤️ 186 • 1d ago
+⬇️ 4,901 • ❤️ 189 • 1d ago
 
 ---
 
@@ -496,7 +496,7 @@ Voxtral-Mini-4B-Realtime-2602 is a multilingual, real-time speech-to-text model 
 
 `automatic-speech-recognition`
 
-⬇️ 5,209 • ❤️ 513 • 14h ago
+⬇️ 5,209 • ❤️ 516 • 15h ago
 
 ---
 
@@ -538,7 +538,7 @@ SceneSmith is a hierarchical agentic framework that generates simulation-ready i
 
 Agent Lightning is a flexible RL framework for training LLMs in various agents, using a hierarchical RL algorithm and decoupling execution from training to handle complex interactions.
 
-▲ 134 • 💬 6 • ⭐ 14,692 • 6mo ago
+▲ 134 • 💬 6 • ⭐ 14,708 • 6mo ago
 
 [🎓 arXiv](https://arxiv.org/abs/2508.03680) • [💻 code](https://github.com/microsoft/agent-lightning) • [🔗 project](https://www.microsoft.com/en-us/research/project/agent-lightning/)
 
@@ -553,7 +553,7 @@ Agent Lightning is a flexible RL framework for training LLMs in various agents, 
 
 SmolDocling is a compact vision-language model that performs end-to-end document conversion with robust performance across various document types using 256M parameters and a new markup format.
 
-▲ 141 • 💬 19 • ⭐ 52,945 • 11mo ago
+▲ 141 • 💬 19 • ⭐ 52,976 • 11mo ago
 
 [🎓 arXiv](https://arxiv.org/abs/2503.11576) • [💻 code](https://github.com/docling-project/docling) • [🔗 project](https://huggingface.co/ds4sd/SmolDocling-256M-preview)
 
@@ -573,6 +573,20 @@ RAG-Anything is a unified framework that enhances multimodal knowledge retrieval
 
 ---
 
+**[SkillRL: Evolving Agents via Recursive Skill-Augmented Reinforcement Learning](https://huggingface.co/papers/2602.08234)**
+
+*Peng Xia, Jianwen Chen, Hanyang Wang et al. (13 authors)*
+
+🏢 University of North Carolina at Chapel Hill
+
+SkillRL enables LLM agents to improve through hierarchical skill discovery and recursive policy evolution, achieving superior performance on complex tasks while reducing computational overhead.
+
+▲ 64 • 💬 2 • ⭐ 272 • 5d ago
+
+[🎓 arXiv](https://arxiv.org/abs/2602.08234) • [💻 code](https://github.com/aiming-lab/SkillRL)
+
+---
+
 **[Qwen3-TTS Technical Report](https://huggingface.co/papers/2601.15621)**
 
 *Hangrui Hu, Xinfa Zhu, Ting He et al. (16 authors)*
@@ -581,7 +595,7 @@ RAG-Anything is a unified framework that enhances multimodal knowledge retrieval
 
 The Qwen3-TTS series presents advanced multilingual text-to-speech models with voice cloning and controllable speech generation capabilities, utilizing dual-track LM architecture and specialized speech tokenizers for efficient streaming synthesis.
 
-▲ 63 • 💬 1 • ⭐ 7,617 • 23d ago
+▲ 63 • 💬 1 • ⭐ 7,641 • 23d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2601.15621) • [💻 code](https://github.com/QwenLM/Qwen3-TTS)
 
@@ -594,23 +608,9 @@ The Qwen3-TTS series presents advanced multilingual text-to-speech models with v
 
 PagedAttention algorithm and vLLM system enhance the throughput of large language models by efficiently managing memory and reducing waste in the key-value cache.
 
-▲ 35 • 💬 1 • ⭐ 70,242 • 29mo ago
+▲ 35 • 💬 1 • ⭐ 70,262 • 29mo ago
 
 [🎓 arXiv](https://arxiv.org/abs/2309.06180) • [💻 code](https://github.com/vllm-project/vllm)
-
----
-
-**[SkillRL: Evolving Agents via Recursive Skill-Augmented Reinforcement Learning](https://huggingface.co/papers/2602.08234)**
-
-*Peng Xia, Jianwen Chen, Hanyang Wang et al. (13 authors)*
-
-🏢 University of North Carolina at Chapel Hill
-
-SkillRL enables LLM agents to improve through hierarchical skill discovery and recursive policy evolution, achieving superior performance on complex tasks while reducing computational overhead.
-
-▲ 64 • 💬 2 • ⭐ 272 • 5d ago
-
-[🎓 arXiv](https://arxiv.org/abs/2602.08234) • [💻 code](https://github.com/aiming-lab/SkillRL)
 
 ---
 
@@ -680,11 +680,11 @@ Humanizer 的汉化版本，Claude Code Skills，旨在消除文本中 AI 生成
 
 **[BlockRunAI/ClawRouter](https://github.com/BlockRunAI/ClawRouter)**
 
-Smart LLM router — save 78% on inference costs. 30+ models, one wallet, x402 micropayments.
+The agent-native router powering OpenClaw — by BlockRun
 
 `TypeScript` `ai` `ai-agents` `anthropic` `cost-optimization` `crypto`
 
-⭐ 2.4k • 🔱 243 • 2h ago
+⭐ 2.4k • 🔱 244 • 27m ago
 
 ---
 
@@ -694,7 +694,7 @@ All-in-one AI framework & toolkit for Claude Code & Cursor
 
 `Python` `ai-agent` `ai-coding` `claude-code` `cli` `cursor`
 
-⭐ 2.2k • 🔱 108 • 3h ago
+⭐ 2.2k • 🔱 108 • 4h ago
 
 ---
 
@@ -704,7 +704,7 @@ The visual feedback tool for agents.
 
 `TypeScript` `ai` `design` `tools` `ui`
 
-⭐ 2.2k • 🔱 152 • 11h ago
+⭐ 2.2k • 🔱 153 • 12h ago
 
 ---
 
@@ -714,7 +714,7 @@ Warcraft III Peon voice notifications (+ more!) for Claude Code, Codex, and othe
 
 `Shell` `ai` `ai-engineering` `antigravity` `claude-code` `codex`
 
-⭐ 1.9k • 🔱 129 • 2h ago
+⭐ 1.9k • 🔱 131 • 3h ago
 
 ---
 
@@ -724,7 +724,7 @@ A native desktop GUI for Claude Code — chat, code, and manage projects visuall
 
 `TypeScript` `ai` `anthropic` `claude` `claude-code` `desktop-app`
 
-⭐ 1.8k • 🔱 196 • 19h ago
+⭐ 1.8k • 🔱 198 • 20h ago
 
 ---
 
@@ -734,7 +734,7 @@ MimiClaw: Run OpenClaw on a $5 chip. No OS(Linux). No Node.js. No Mac mini. No R
 
 `C` `ai` `assistant` `clawdbot` `edge-ai-agents` `memory`
 
-⭐ 1.7k • 🔱 200 • 1d ago
+⭐ 1.7k • 🔱 202 • 1d ago
 
 ---
 

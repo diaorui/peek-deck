@@ -3,13 +3,13 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-02-14T06:07:28.883860+00:00'
+updated: '2026-02-14T07:10:57.834279+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- cryptocurrency
 - social
+- cryptocurrency
 - news
 - videos
 ---
@@ -18,7 +18,7 @@ data_types:
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** February 14, 2026 at 06:07 UTC  
+**Last Updated:** February 14, 2026 at 07:10 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,33 +38,33 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $68,888.95
+### $68,928.56
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** +3.9%  
-**7d:** -2.0%  
+**24h:** +3.5%  
+**7d:** -1.9%  
 **30d:** -27.9%  
 **90d:** -25.3%  
-**1y:** -29.4%  
+**1y:** -29.3%  
 
 ---
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1376.51B
+**Market Cap:** $1376.97B
 Rank #1
 
-**Circulating Supply:** 19,988,953 BTC
+**Circulating Supply:** 19,989,043 BTC
 95.2% of max
 
 **All-Time High:** $126,080.00
 -45.4%
 
 **All-Time Low:** $67.81
-+101480.9%
++101498.6%
 
 ---
 
@@ -79,7 +79,15 @@ Rank #1
 
 **[2025 vs 2026](https://www.reddit.com/r/Bitcoin/comments/1r40elq/2025_vs_2026/)**
 
-9h ago
+10h ago
+
+---
+
+**[Imagine if all that BTC I spent on dark net drugs I had stored instead](https://www.reddit.com/r/Bitcoin/comments/1r4cmjn/imagine_if_all_that_btc_i_spent_on_dark_net_drugs/)**
+
+I had a drug addiction for a long time costing me ~$200 per week and for several years I was buying bitcoin to buy those drugs on the dark web. If only I had just kept that BTC in my wallet rather than using it on the fleeting ghost chase. I would be rich instead of broke now. I hopefully learnt my lesson.
+
+1h ago
 
 ---
 
@@ -87,7 +95,7 @@ Rank #1
 
 hoping to atleast get to 0.25 during this dip. I dont believe we are in a crypto winter yet.
 
-4h ago
+5h ago
 
 ---
 
@@ -95,13 +103,13 @@ hoping to atleast get to 0.25 during this dip. I dont believe we are in a crypto
 
 Had to drop nearly 10k in medical bills... sure enough BTC tanks and as soon as I think im fine to buy a couple hundred... BOOM it either sky rockets or another random medical bill pops up worth a couple hundred and then BTC tanks... So I guess your welcome? And I'm sorry.
 
-10h ago
+11h ago
 
 ---
 
 **[Guess Whos Back, Back Again](https://www.reddit.com/r/Bitcoin/comments/1r3uia4/guess_whos_back_back_again/)**
 
-13h ago
+14h ago
 
 ---
 
@@ -109,15 +117,7 @@ Had to drop nearly 10k in medical bills... sure enough BTC tanks and as soon as 
 
 like we was just vibing near 100k, everybody loud, posting rockets, acting rich in theory then boom 90 80 70 just casually opening doors like “you forgot something down here” bro who asked for this my portfolio looking at me like I did something wrong and there’s always that one guy “it’s a healthy correction” healthy?? I’m stressed eating cereal at 2am watching candles bleed bitcoin don’t even walk downstairs it just throws itself down still not selling tho but damn can we chill for five minutes
 
-20h ago
-
----
-
-**[Baby steps](https://www.reddit.com/r/Bitcoin/comments/1r3kzxx/baby_steps/)**
-
-Like minnows in the ocean, or more like… plankton Motivating seeing everyone’s big buys and sometimes hard to see what everyone else is moving and sticking to putting in what won’t ruin me if I lose! Been DCAing since £57k and have bigger orders set at £45k,50,55 etc. maybe I’ll be a wholecoiner in 500 years! Hah
-
-20h ago
+21h ago
 
 ---
 
@@ -125,7 +125,15 @@ Like minnows in the ocean, or more like… plankton Motivating seeing everyone�
 
 Its going up, fast. Bitcoin is volatile - that works both ways. Once bear sentiment wears off, the price isn’t going to chop sideways forever; a couple green days & FOMO kicks in - volatility suddenly works in its favor. Always happened always will happen. Bitcoin is a perfect model of investor psychology, fear then FOMO fear then FOMO.
 
-3h ago
+4h ago
+
+---
+
+**[Baby steps](https://www.reddit.com/r/Bitcoin/comments/1r3kzxx/baby_steps/)**
+
+Like minnows in the ocean, or more like… plankton Motivating seeing everyone’s big buys and sometimes hard to see what everyone else is moving and sticking to putting in what won’t ruin me if I lose! Been DCAing since £57k and have bigger orders set at £45k,50,55 etc. maybe I’ll be a wholecoiner in 500 years! Hah
+
+21h ago
 
 ---
 
@@ -133,23 +141,15 @@ Its going up, fast. Bitcoin is volatile - that works both ways. Once bear sentim
 
 https://preview.redd.it/d1dm5219wbjg1.png?width=1075&format=png&auto=webp&s=2c66949b20a213da42cac9639897d4aa1dabaefd buy bitcoin on February 13 for 69,000 - it's just a gift
 
-8h ago
+9h ago
 
 ---
 
-**[You can’t stack it all…](https://www.reddit.com/r/Bitcoin/comments/1r461ff/you_cant_stack_it_all/)**
+**[Bear Market Plans? HERE is mine](https://www.reddit.com/r/Bitcoin/comments/1r42m1h/bear_market_plans_here_is_mine/)**
 
-Remember fellas, that as we stack for our families and our futures, you can’t stack it all. On Valentine’s Day Eve I find myself spending money I’d love to be spending on coins instead on candy, flowers and cards. (At least I’ll get some SATs from my FOLD card) Remember life isn’t just about your stack, and to love on your family from time to time. Try and be wise and realize a heart shape box somehow adds to the price and gives you less chocolate, but sometimes it is the right choice despite the cost. We’ll stack more another day!
+What are you guys plan, on buying during this bear market ? I sold out (50%) of my position during the last top. I belive right now it's too early for a bottom, but based on my personal discipline and extreme price action i bought back 1/3 (of the 50% i had sold at ath) recently at 61k . I think we will at least retest 60/57k, and reading the tealeaves I expect to realize soon after if we are breaking or bouncing off that level, specially if it is by abril/may, buying another 1/3 then. Last 1/3 if we go substantially below that to around 45/40k or by October/November wherever the price is. If this plays out, i would do the same thing basically that i did during the last bear mkt in 2022, I bought at 40k, 30k, and 20k. What you guys think?
 
-5h ago
-
----
-
-**[Can Binance go bankrupt like FTX, or are the situations different?](https://www.reddit.com/r/Bitcoin/comments/1r42i3f/can_binance_go_bankrupt_like_ftx_or_are_the/)**
-
-After everything that happened with FTX, I’ve been thinking a lot more about centralized exchanges, especially Binance. Not trying to spread FUD here, just genuinely curious and trying to understand the risks better. Is a Binance bankruptcy even a realistic thing to worry about, or were the problems at FTX very specific to how that exchange was run? How much do things like proof of reserves, how user funds are held, regulation, and transparency actually matter in preventing something like that from happening again? For anyone who still keeps funds on exchanges, how do you personally think about the risk now compared to before the FTX collapse?
-
-8h ago
+9h ago
 
 ---
 
@@ -159,7 +159,7 @@ After everything that happened with FTX, I’ve been thinking a lot more about c
 
 **[Bitcoin Steadies in Asia After Standard Chartered Warning](https://www.bloomberg.com/news/articles/2026-02-13/bitcoin-btc-under-pressure-in-asia-after-standard-chartered-warning)**
 
-Bloomberg • 1d ago
+Bloomberg.com • 1d ago
 
 ---
 
@@ -167,23 +167,7 @@ Bloomberg • 1d ago
 
 Bitcoin price did not just dip. It reacted to something way bigger.The U.S. government revised last year’s job numbers down by nearly 900,000 positions.Markets hate one thing more than bad news. They hate unreliable data and uncertainty. This update from the Bureau of Labor Statistics just shook confidence hard. January ...
 
-Yahoo Finance • 17h ago
-
----
-
-**[Bitcoin's drawdown hit 50%. History shows it may have further to go](https://www.cnbc.com/2026/02/12/bitcoins-drawdown-hit-50percent-history-shows-it-may-have-further-to-go.html)**
-
-Bitcoin has a history of falling about 75% during each four-year cycle, suggesting the token is on track to fall even further in the near future.
-
-CNBC • 1d ago
-
----
-
-**[3 Things Every Bitcoin Investor Needs to Know](https://www.fool.com/investing/2026/02/13/3-things-every-bitcoin-investor-needs-to-know/)**
-
-Anyone interested in this top digital asset must take the time to gain a better understanding.
-
-The Motley Fool • 3h ago
+Yahoo Finance • 18h ago
 
 ---
 
@@ -193,31 +177,11 @@ NewsNation • 2d ago
 
 ---
 
-**[Bitcoin reportedly sent to wallet associated with Nancy Guthrie’s ransom letter providing potential clue in investigation](https://fortune.com/2026/02/11/bitcoin-reportedly-sent-to-wallet-associated-with-nancy-guthries-ransom-letter/)**
-
-Meanwhile, authorities released surveillance video showing the alleged captor who remains at large.
-
-Fortune • 2d ago
-
----
-
-**[4 ways the Nancy Guthrie case strikes at America's most contentious issues](https://www.axios.com/2026/02/13/nancy-guthrie-case-update-fbi-ransom-bitcoin)**
-
-Axios • 7h ago
-
----
-
-**[Bitcoin May Fall to $50,000, Crypto Bull Says. What Happens Next.](https://www.barrons.com/articles/bitcoin-xrp-ether-cryptos-inflation-e5791bb9?gaa_at=eafs&gaa_n=AWEtsqeg85d7xXRQlSo6B7zRt4oEkbQQOGg5i_s14X17cABPto4u3gtdkHRK&gaa_ts=69900bcf&gaa_sig=c2d3kTL2LXSvef3qlApZqJIVOvneLULigr9GXASkpZEMXQhIicWwZUnOaN-kLyqUyPQuydKFKzipv-6D06kHRg%3D%3D)**
-
-Barron's • 17h ago
-
----
-
 **[‘Killing Satoshi’ Bitcoin Biopic Starring Pete Davidson and Casey Affleck Set to Use AI for Locations and to ‘Adjust’ Performances (EXCLUSIVE)](https://variety.com/2026/film/news/pete-davidson-killing-satoshi-ai-doug-liman-ryan-kavanaugh-1236661170/)**
 
 Bitcoin biopic 'Killing Satoshi' starring Pete Davidson plans to use all-AI locations and AI adjustments for  performances rather than reshoots.
 
-Variety • 13h ago
+Variety • 14h ago
 
 ---
 
@@ -225,7 +189,45 @@ Variety • 13h ago
 
 Bitcoin plummeted as low as $60,000 last week in its worst weekly decline in three years – baffling crypto bulls who long hailed the digital currency as a hedge against inflation.
 
-New York Post • 8h ago
+New York Post • 9h ago
+
+---
+
+**[Is Maga losing faith in Trump’s bitcoin promise?](https://www.thetimes.com/business/economics/article/maga-trump-bitcoin-kscxk5jkl?gaa_at=eafs&gaa_n=AWEtsqe4XoxSobR-cixH-iH1RX9EIW10qjJdECyynw7Ly5L9wNNjke7cJVnM&gaa_ts=69902348&gaa_sig=Rr7Lp7-Omr8yRjUffVFXnrTFJhdEeHW46lb5nOugjsDqvFVKPX7T_4BrB7K1lH2I6x-D-QOcZdY1OXEpqFtkSA%3D%3D)**
+
+The US president’s supporters dreamt of a day when the cryptocurrency would hit $300,000. Now the market is in disarray
+
+The Times • 15h ago
+
+---
+
+**[Strategy (MSTR) Accounted for 97.5% of Corporate Bitcoin Buying Last Month, Report Shows](https://bitcoinmagazine.com/news/strategy-mstr-accounted-corporate-bitcoin)**
+
+The corporate adoption of bitcoin was dominated by a single player last month — Strategy.
+
+Bitcoin Magazine • 1d ago
+
+---
+
+**[Bitcoin’s plunge should end the hype that it is digital gold](https://thehill.com/opinion/finance/5735525-bitcoin-gold-performance-disparity/)**
+
+The Hill • 14h ago
+
+---
+
+**[How Many iShares Bitcoin Trust ETF Shares You Need to Own the Equivalent of 1 Bitcoin](https://www.fool.com/investing/2026/02/12/how-many-ishares-bitcoin-trust-etf-shares-you-need/)**
+
+The top Bitcoin ETF is a simple way to invest in the top cryptocurrency.
+
+The Motley Fool • 1d ago
+
+---
+
+**[BlackRock Signals $257M Bitcoin and Ethereum Sell-Off Ahead of Partial U.S. Government Shutdown](https://finance.yahoo.com/news/blackrock-signals-257m-bitcoin-ethereum-125929308.html)**
+
+BlackRock, the world’s largest asset manager, looks set to offload more Bitcoin and Ethereum, following the outflows from its crypto ETFs yesterday. This move comes ahead of another potential partial U.S. government shutdown that could begin tomorrow as today’s deadline looms. BlackRock Moves $257M In BTC And ETH To Coinbase Arkham data shows that the
+
+Yahoo Finance • 18h ago
 
 ---
 
@@ -303,7 +305,7 @@ What do Bitcoin miners actually do? An interactive exploration of hashing, diffi
 
 Explore everything you can do as a lightning app builder using Alby - getAlby/sandbox
 
-⬆️ 2 • 💬 1 • 16h ago • [GitHub](https://github.com/getAlby/sandbox)
+⬆️ 2 • 💬 1 • 17h ago • [GitHub](https://github.com/getAlby/sandbox)
 
 ---
 
@@ -317,7 +319,7 @@ Dan Ives is the Global Head of Technology Research at Wedbush Securities and one
 
 📺 Anthony Pompliano
 
-👁️ 17K • 👍 816 • ⏱️ 21:49 • 8h ago
+👁️ 22K • 👍 940 • ⏱️ 21:49 • 9h ago
 
 ---
 
@@ -327,37 +329,27 @@ Bitcoin's crash off its all time high and then its sudden crash last week. It le
 
 📺 Mark Moss
 
-👁️ 219K • 👍 8K • 💬 1K • ⏱️ 16:43 • 1d ago
+👁️ 224K • 👍 8K • 💬 1K • ⏱️ 16:43 • 1d ago
 
 ---
 
-**[Bitcoin Bottoms HERE!](https://www.youtube.com/watch?v=-e3nNnAN7DE)**
+**[Crypto Is About To Explode (Here’s Why) “Like Buying Bitcoin in 2018”](https://www.youtube.com/watch?v=ifvU-MHBkoQ)**
 
-A MAJOR MOVEMENT IS AROUND THE CORNER! Are you ready? Sign Up For Phemex and Earn a brand new iPhone 16 ...
+Crypto Is About To Explode (Here's Why) “Like Buying Bitcoin in 2018” Concordium Website: https://www.concordium.com/ ...
 
-📺 Crypto Jebb
+📺 Altcoin Daily
 
-👁️ 6K • 👍 376 • 💬 88 • ⏱️ 17:23 • 11h ago
-
----
-
-**[Bitcoin is ‘the most useful capital asset in the world,’ Michael Saylor emphasizes](https://www.youtube.com/watch?v=l1tGOvg288k)**
-
-Strategy executive chairman and founder Michael Saylor gives his take on Bitcoin's volatility on 'Making Money.' #fox #media ...
-
-📺 Fox Business
-
-👁️ 41K • 👍 772 • 💬 2K • ⏱️ 8:19 • 23h ago
+👁️ 27K • 👍 2K • 💬 179 • ⏱️ 15:20 • 7h ago
 
 ---
 
-**[Is Bitcoin Near CAPITULATION and a Bottom?](https://www.youtube.com/watch?v=w8_Si0WQbbE)**
+**[Bitcoin&#39;s Next Major Move Will Shock People (here&#39;s why)](https://www.youtube.com/watch?v=w8_Si0WQbbE)**
 
 Is the crash in bitcoin approaching capitulation and a major bottom in its price? There are strong signs that bitcoin is likely ...
 
 📺 Alessio Rastani
 
-👁️ 12K • 👍 1K • 💬 186 • ⏱️ 8:15 • 7h ago
+👁️ 15K • 👍 2K • 💬 212 • ⏱️ 8:15 • 8h ago
 
 ---
 
@@ -367,37 +359,47 @@ LIMITED TIME: ✓ Bitunix (no kyc, $10k bonus): https://www.bitunix.com/register
 
 📺 Altcoin Daily
 
-👁️ 86K • 👍 852 • 💬 255 • ⏱️ 0:34 • 1d ago
+👁️ 90K • 👍 882 • 💬 260 • ⏱️ 0:34 • 1d ago
 
 ---
 
-**[WARNING:😲 S&amp;P 500 Crash to 6100 &amp; Bitcoin to $35k? (Master Trader Analysis)](https://www.youtube.com/watch?v=9BC56O2y3nc)**
+**[Bitcoin is ‘the most useful capital asset in the world,’ Michael Saylor emphasizes](https://www.youtube.com/watch?v=l1tGOvg288k)**
 
-Is the stock market topping out? Master technical analyst Gareth Soloway breaks down the alarming signals on the S&P 500, ...
+Strategy executive chairman and founder Michael Saylor gives his take on Bitcoin's volatility on 'Making Money.' #fox #media ...
+
+📺 Fox Business
+
+👁️ 43K • 👍 779 • 💬 2K • ⏱️ 8:19 • 1d ago
+
+---
+
+**[Scott Bessent BLAMES COINBASE For Bitcoin Crash | EP 1440](https://www.youtube.com/watch?v=HQdd-05j7Yo)**
+
+Scott Bessent did an interview on squawk box and was asked about the Clarity act and bitcoins crash ...
+
+📺 Simply Bitcoin
+
+👁️ 7K • 👍 381 • 💬 50 • ⏱️ 1:37:28 • 11h ago
+
+---
+
+**[He Predicted EVERY Bitcoin Crash (Now He Says $45K Is Coming)](https://www.youtube.com/watch?v=u7dCxdJYNKI)**
+
+An anonymous macro trader nailed Bitcoin's $126K top, $60K drop — and now he's calling for $45K next. In this video, I break ...
+
+📺 No Bs Crypto
+
+👁️ 14K • 👍 807 • 💬 208 • ⏱️ 14:47 • 12h ago
+
+---
+
+**[Bitcoin &amp; Silver: Why The Market Isn&#39;t Broken (It&#39;s Rotating)](https://www.youtube.com/watch?v=TrKw41gc0w8)**
+
+Are Bitcoin and Silver broken, or is the global market quietly preparing for a massive shift? In this video, we break down the ...
 
 📺 Financial Funda
 
-👁️ 4K • 👍 152 • 💬 47 • ⏱️ 2:23 • 17h ago
-
----
-
-**[Where Bitcoin Will Bottom](https://www.youtube.com/watch?v=aM8RtdVJgcw)**
-
-Into The Cryptoverse Premium: https://intothecryptoverse.com Into The Cryptoverse Newsletter: ...
-
-📺 Benjamin Cowen
-
-👁️ 27K • 👍 463 • 💬 26 • ⏱️ 0:57 • 13h ago
-
----
-
-**[Bitcoin Sentiment Cracks As Coinbase Posts Massive Losses &amp; Capital Exits!](https://www.youtube.com/watch?v=YY-toi0Ck3o)**
-
-Bitcoin #Crypto #Finance Bitcoin sentiment is starting to crack as capital flows weaken and Coinbase posts significant losses, ...
-
-📺 The Wolf Of All Streets
-
-👁️ 13K • 👍 773 • 💬 226 • ⏱️ 28:01 • 15h ago
+👁️ 629 • 👍 36 • ⏱️ 1:45 • 2h ago
 
 ---
 
@@ -407,7 +409,7 @@ Predict Crypto, Sports, Politics & More on *ClashPicks* ▻ https://www.clashpic
 
 📺 CryptosRUs
 
-👁️ 31K • 👍 1K • 💬 658 • ⏱️ 8:08 • 1d ago
+👁️ 31K • 👍 1K • 💬 655 • ⏱️ 8:08 • 1d ago
 
 ---
 
