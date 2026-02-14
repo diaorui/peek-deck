@@ -3,13 +3,13 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-02-14T07:54:35.983210+00:00'
+updated: '2026-02-14T08:34:34.499141+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- news
 - cryptocurrency
+- news
 - social
 - videos
 ---
@@ -18,7 +18,7 @@ data_types:
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** February 14, 2026 at 07:54 UTC  
+**Last Updated:** February 14, 2026 at 08:34 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,17 +38,17 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $68,928.56
+### $69,503.47
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** +3.5%  
-**7d:** -1.9%  
-**30d:** -27.9%  
-**90d:** -25.3%  
-**1y:** -29.3%  
+**24h:** +3.8%  
+**7d:** -1.1%  
+**30d:** -27.3%  
+**90d:** -24.7%  
+**1y:** -28.8%  
 
 ---
 
@@ -83,14 +83,6 @@ Rank #1
 
 ---
 
-**[Imagine if all that BTC I spent on dark net drugs I had stored instead](https://www.reddit.com/r/Bitcoin/comments/1r4cmjn/imagine_if_all_that_btc_i_spent_on_dark_net_drugs/)**
-
-I had a drug addiction for a long time costing me ~$200 per week and for several years I was buying bitcoin to buy those drugs on the dark web. If only I had just kept that BTC in my wallet rather than using it on the fleeting ghost chase. I would be rich instead of broke now. I hopefully learnt my lesson.
-
-2h ago
-
----
-
 **[Finally reached 0.10 of bitcoin. Just by dca'ing 100 a week](https://www.reddit.com/r/Bitcoin/comments/1r47l03/finally_reached_010_of_bitcoin_just_by_dcaing_100/)**
 
 hoping to atleast get to 0.25 during this dip. I dont believe we are in a crypto winter yet.
@@ -109,7 +101,7 @@ Had to drop nearly 10k in medical bills... sure enough BTC tanks and as soon as 
 
 **[Guess Whos Back, Back Again](https://www.reddit.com/r/Bitcoin/comments/1r3uia4/guess_whos_back_back_again/)**
 
-14h ago
+15h ago
 
 ---
 
@@ -117,7 +109,7 @@ Had to drop nearly 10k in medical bills... sure enough BTC tanks and as soon as 
 
 like we was just vibing near 100k, everybody loud, posting rockets, acting rich in theory then boom 90 80 70 just casually opening doors like “you forgot something down here” bro who asked for this my portfolio looking at me like I did something wrong and there’s always that one guy “it’s a healthy correction” healthy?? I’m stressed eating cereal at 2am watching candles bleed bitcoin don’t even walk downstairs it just throws itself down still not selling tho but damn can we chill for five minutes
 
-22h ago
+23h ago
 
 ---
 
@@ -125,7 +117,7 @@ like we was just vibing near 100k, everybody loud, posting rockets, acting rich 
 
 Its going up, fast. Bitcoin is volatile - that works both ways. Once bear sentiment wears off, the price isn’t going to chop sideways forever; a couple green days & FOMO kicks in - volatility suddenly works in its favor. Always happened always will happen. Bitcoin is a perfect model of investor psychology, fear then FOMO fear then FOMO.
 
-5h ago
+6h ago
 
 ---
 
@@ -137,11 +129,11 @@ Like minnows in the ocean, or more like… plankton Motivating seeing everyone�
 
 ---
 
-**[Remember this post](https://www.reddit.com/r/Bitcoin/comments/1r41hb9/remember_this_post/)**
+**[Any options for a simple man who doesn't want to deal with cold wallets?](https://www.reddit.com/r/Bitcoin/comments/1r47tpf/any_options_for_a_simple_man_who_doesnt_want_to/)**
 
-https://preview.redd.it/d1dm5219wbjg1.png?width=1075&format=png&auto=webp&s=2c66949b20a213da42cac9639897d4aa1dabaefd buy bitcoin on February 13 for 69,000 - it's just a gift
+I seek simplicity in my life. I want Bitcoin exposure (as an investment, don't need liquidity). I've dealt with cold wallets in the past and do not enjoy this. Are there safe options? I ultimately want an experience similar to a brokerage investment, but I know leaving BTC on the exchange is a bad idea.
 
-10h ago
+6h ago
 
 ---
 
@@ -149,7 +141,15 @@ https://preview.redd.it/d1dm5219wbjg1.png?width=1075&format=png&auto=webp&s=2c66
 
 What are you guys plan, on buying during this bear market ? I sold out (50%) of my position during the last top. I belive right now it's too early for a bottom, but based on my personal discipline and extreme price action i bought back 1/3 (of the 50% i had sold at ath) recently at 61k . I think we will at least retest 60/57k, and reading the tealeaves I expect to realize soon after if we are breaking or bouncing off that level, specially if it is by abril/may, buying another 1/3 then. Last 1/3 if we go substantially below that to around 45/40k or by October/November wherever the price is. If this plays out, i would do the same thing basically that i did during the last bear mkt in 2022, I bought at 40k, 30k, and 20k. What you guys think?
 
-9h ago
+10h ago
+
+---
+
+**[Remember this post](https://www.reddit.com/r/Bitcoin/comments/1r41hb9/remember_this_post/)**
+
+https://preview.redd.it/d1dm5219wbjg1.png?width=1075&format=png&auto=webp&s=2c66949b20a213da42cac9639897d4aa1dabaefd buy bitcoin on February 13 for 69,000 - it's just a gift
+
+11h ago
 
 ---
 
@@ -167,7 +167,31 @@ Bloomberg.com • 1d ago
 
 Bitcoin price did not just dip. It reacted to something way bigger.The U.S. government revised last year’s job numbers down by nearly 900,000 positions.Markets hate one thing more than bad news. They hate unreliable data and uncertainty. This update from the Bureau of Labor Statistics just shook confidence hard. January ...
 
-Yahoo Finance • 18h ago
+Yahoo Finance • 19h ago
+
+---
+
+**[Bitcoin’s long-term rally is ‘broken’ until it reclaims $85,000, Deribit executive says](https://www.coindesk.com/markets/2026/02/13/bitcoin-s-long-term-rally-is-broken-until-it-reclaims-usd85-000-deribit-executive-says)**
+
+A bitcoin price drop to $58,000 could reignite buying momentum.
+
+CoinDesk • 22h ago
+
+---
+
+**[Bitcoin's drawdown hit 50%. History shows it may have further to go](https://www.cnbc.com/2026/02/12/bitcoins-drawdown-hit-50percent-history-shows-it-may-have-further-to-go.html)**
+
+Bitcoin has a history of falling about 75% during each four-year cycle, suggesting the token is on track to fall even further in the near future.
+
+CNBC • 1d ago
+
+---
+
+**[Is Maga losing faith in Trump’s bitcoin promise?](https://www.thetimes.com/business/economics/article/maga-trump-bitcoin-kscxk5jkl?gaa_at=eafs&gaa_n=AWEtsqf6x_nX3l-U-JyXDzg_hnC8j7OuBH8qP_kPpuFlYqYLD26nLt_kl3ya&gaa_ts=69903708&gaa_sig=IjjDDe2me0cUwux-79seWIyYP6Cg1SV3vGvPZwPsKkFO98rDc5bdn1zwZvJ1sZ_Ungbu6hGWgr39tdx_x2BbFw%3D%3D)**
+
+The US president’s supporters dreamt of a day when the cryptocurrency would hit $300,000. Now the market is in disarray
+
+The Times • 16h ago
 
 ---
 
@@ -177,11 +201,27 @@ NewsNation • 2d ago
 
 ---
 
+**[Crypto expert explains why bitcoin makes 'perfect record' for tracking down criminals](https://www.foxbusiness.com/lifestyle/crypto-expert-explains-why-bitcoin-makes-perfect-record-tracking-down-criminals)**
+
+Blockchain technology makes cryptocurrency transactions fully traceable on public ledgers, creating powerful tools for law enforcement investigations.
+
+Fox Business • 1d ago
+
+---
+
+**[TMZ Receives Third Email in Nancy Guthrie Kidnapping, Demanding Higher Reward](https://www.tmz.com/2026/02/13/tmz-receives-third-email-bitcoin-demand-for-nancy-guthrie-info/)**
+
+TMZ just received a third email from the man who claims he knows the identity of Nancy Guthrie's kidnapper ... and he has upped his price.
+
+TMZ • 11h ago
+
+---
+
 **[‘Killing Satoshi’ Bitcoin Biopic Starring Pete Davidson and Casey Affleck Set to Use AI for Locations and to ‘Adjust’ Performances (EXCLUSIVE)](https://variety.com/2026/film/news/pete-davidson-killing-satoshi-ai-doug-liman-ryan-kavanaugh-1236661170/)**
 
 Bitcoin biopic 'Killing Satoshi' starring Pete Davidson plans to use all-AI locations and AI adjustments for  performances rather than reshoots.
 
-Variety • 15h ago
+Variety • 16h ago
 
 ---
 
@@ -189,45 +229,7 @@ Variety • 15h ago
 
 Bitcoin plummeted as low as $60,000 last week in its worst weekly decline in three years – baffling crypto bulls who long hailed the digital currency as a hedge against inflation.
 
-New York Post • 10h ago
-
----
-
-**[Is Maga losing faith in Trump’s bitcoin promise?](https://www.thetimes.com/business/economics/article/maga-trump-bitcoin-kscxk5jkl?gaa_at=eafs&gaa_n=AWEtsqe4XoxSobR-cixH-iH1RX9EIW10qjJdECyynw7Ly5L9wNNjke7cJVnM&gaa_ts=69902348&gaa_sig=Rr7Lp7-Omr8yRjUffVFXnrTFJhdEeHW46lb5nOugjsDqvFVKPX7T_4BrB7K1lH2I6x-D-QOcZdY1OXEpqFtkSA%3D%3D)**
-
-The US president’s supporters dreamt of a day when the cryptocurrency would hit $300,000. Now the market is in disarray
-
-The Times • 16h ago
-
----
-
-**[Strategy (MSTR) Accounted for 97.5% of Corporate Bitcoin Buying Last Month, Report Shows](https://bitcoinmagazine.com/news/strategy-mstr-accounted-corporate-bitcoin)**
-
-The corporate adoption of bitcoin was dominated by a single player last month — Strategy.
-
-Bitcoin Magazine • 1d ago
-
----
-
-**[Bitcoin’s plunge should end the hype that it is digital gold](https://thehill.com/opinion/finance/5735525-bitcoin-gold-performance-disparity/)**
-
-The Hill • 15h ago
-
----
-
-**[How Many iShares Bitcoin Trust ETF Shares You Need to Own the Equivalent of 1 Bitcoin](https://www.fool.com/investing/2026/02/12/how-many-ishares-bitcoin-trust-etf-shares-you-need/)**
-
-The top Bitcoin ETF is a simple way to invest in the top cryptocurrency.
-
-The Motley Fool • 1d ago
-
----
-
-**[BlackRock Signals $257M Bitcoin and Ethereum Sell-Off Ahead of Partial U.S. Government Shutdown](https://finance.yahoo.com/news/blackrock-signals-257m-bitcoin-ethereum-125929308.html)**
-
-BlackRock, the world’s largest asset manager, looks set to offload more Bitcoin and Ethereum, following the outflows from its crypto ETFs yesterday. This move comes ahead of another potential partial U.S. government shutdown that could begin tomorrow as today’s deadline looms. BlackRock Moves $257M In BTC And ETH To Coinbase Arkham data shows that the
-
-Yahoo Finance • 18h ago
+New York Post • 11h ago
 
 ---
 
@@ -261,19 +263,19 @@ The crypto crash is coming — and the landing won’t be pretty
 
 ---
 
+**[Bithumb mistakenly hands out $195M in Bitcoin to users in 'Random Box' giveaway](https://news.ycombinator.com/item?id=46925668)**
+
+Bithumb, Korea's second-largest cryptocurrency exchange, mistakenly credited users with Bitcoin worth approximately 260 billion won ($195 million), instead of the modest number of reward points or Bitcoin that it had intended to distribute.
+
+⬆️ 5 • 💬 0 • 6d ago • [koreajoongangdaily.joins.com](https://koreajoongangdaily.joins.com/news/2026-02-07/business/finance/Crypto-exchange-Bithumb-mistakenly-hands-out-195M-in-Bitcoin-to-users-in-Random-Box-giveaway/2518495)
+
+---
+
 **[Bitcoin company helped draft law to enable libertarian Caribbean development](https://news.ycombinator.com/item?id=46936132)**
 
 Local opponents criticise legislation that will facilitate ‘networked state’ community and hand executive powers to developer
 
 ⬆️ 4 • 💬 0 • 5d ago • [ft.com](https://www.ft.com/content/50c2f8e0-a0a4-4433-805d-46e9e0345d4a)
-
----
-
-**[Bithumb mistakenly hands out $195M in Bitcoin to users in 'Random Box' giveaway](https://news.ycombinator.com/item?id=46925668)**
-
-Bithumb, Korea's second-largest cryptocurrency exchange, mistakenly credited users with Bitcoin worth approximately 260 billion won ($195 million), instead of the modest number of reward points or Bitcoin that it had intended to distribute.
-
-⬆️ 4 • 💬 0 • 6d ago • [koreajoongangdaily.joins.com](https://koreajoongangdaily.joins.com/news/2026-02-07/business/finance/Crypto-exchange-Bithumb-mistakenly-hands-out-195M-in-Bitcoin-to-users-in-Random-Box-giveaway/2518495)
 
 ---
 
@@ -305,7 +307,7 @@ What do Bitcoin miners actually do? An interactive exploration of hashing, diffi
 
 Explore everything you can do as a lightning app builder using Alby - getAlby/sandbox
 
-⬆️ 2 • 💬 1 • 17h ago • [GitHub](https://github.com/getAlby/sandbox)
+⬆️ 2 • 💬 1 • 18h ago • [GitHub](https://github.com/getAlby/sandbox)
 
 ---
 
@@ -319,7 +321,7 @@ Dan Ives is the Global Head of Technology Research at Wedbush Securities and one
 
 📺 Anthony Pompliano
 
-👁️ 22K • 👍 940 • ⏱️ 21:49 • 9h ago
+👁️ 22K • 👍 940 • ⏱️ 21:49 • 10h ago
 
 ---
 
@@ -339,7 +341,7 @@ Crypto Is About To Explode (Here's Why) “Like Buying Bitcoin in 2018” Concor
 
 📺 Altcoin Daily
 
-👁️ 27K • 👍 2K • 💬 179 • ⏱️ 15:20 • 7h ago
+👁️ 27K • 👍 2K • 💬 179 • ⏱️ 15:20 • 8h ago
 
 ---
 
@@ -349,7 +351,7 @@ Is the crash in bitcoin approaching capitulation and a major bottom in its price
 
 📺 Alessio Rastani
 
-👁️ 15K • 👍 2K • 💬 212 • ⏱️ 8:15 • 9h ago
+👁️ 15K • 👍 2K • 💬 212 • ⏱️ 8:15 • 10h ago
 
 ---
 
@@ -379,7 +381,7 @@ Scott Bessent did an interview on squawk box and was asked about the Clarity act
 
 📺 Simply Bitcoin
 
-👁️ 7K • 👍 381 • 💬 50 • ⏱️ 1:37:28 • 12h ago
+👁️ 7K • 👍 381 • 💬 50 • ⏱️ 1:37:28 • 13h ago
 
 ---
 
@@ -389,7 +391,7 @@ An anonymous macro trader nailed Bitcoin's $126K top, $60K drop — and now he's
 
 📺 No Bs Crypto
 
-👁️ 14K • 👍 807 • 💬 208 • ⏱️ 14:47 • 12h ago
+👁️ 14K • 👍 807 • 💬 208 • ⏱️ 14:47 • 13h ago
 
 ---
 

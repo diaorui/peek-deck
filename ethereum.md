@@ -3,13 +3,13 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-02-14T07:54:35.989114+00:00'
+updated: '2026-02-14T08:34:34.505302+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- news
 - cryptocurrency
+- news
 - social
 - videos
 ---
@@ -18,7 +18,7 @@ data_types:
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** February 14, 2026 at 07:54 UTC  
+**Last Updated:** February 14, 2026 at 08:34 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -36,17 +36,17 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Price
 
-### $2,042.12
+### $2,072.62
 
 ---
 
 ## Ethereum Chart
 
-**24h:** +4.8%  
-**7d:** -1.7%  
-**30d:** -37.7%  
-**90d:** -32.3%  
-**1y:** -23.8%  
+**24h:** +5.7%  
+**7d:** -0.7%  
+**30d:** -37.1%  
+**90d:** -31.6%  
+**1y:** -23.0%  
 
 ---
 
@@ -72,13 +72,13 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-1h ago
+2h ago
 
 ---
 
 **[Tomasz stepping down from co-ED role at the EF at the end of February 2026 | Ethereum Foundation Blog](https://www.reddit.com/r/ethereum/comments/1r3zdo5/tomasz_stepping_down_from_coed_role_at_the_ef_at/)**
 
-🔗 [Ethereum Foundation Blog](https://blog.ethereum.org/2026/02/13/tomasz-update) • 11h ago
+🔗 [Ethereum Foundation Blog](https://blog.ethereum.org/2026/02/13/tomasz-update) • 12h ago
 
 ---
 
@@ -86,7 +86,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.
 
-🔗 [youtu.be](https://youtu.be/rxI6AyRSaxY) • 11h ago
+🔗 [youtu.be](https://youtu.be/rxI6AyRSaxY) • 12h ago
 
 ---
 
@@ -102,7 +102,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 BlackRock BUIDL tradeable via UniswapX, ENS staying on mainnet, Solidity developer survey
 
-🔗 [Ethereal news](https://ethereal.news/ethereal-news-weekly-11/) • 18h ago
+🔗 [Ethereal news](https://ethereal.news/ethereal-news-weekly-11/) • 19h ago
 
 ---
 
@@ -110,7 +110,7 @@ BlackRock BUIDL tradeable via UniswapX, ENS staying on mainnet, Solidity develop
 
 This is the second article in a series about deterministic deployments, where we explore the question: how can we deploy a contract at the same address in multiple chains? In the first part we discussed three possible answers: deploying with the same private key and nonce, using Nick’s method, and pre-signing transactions. In this entry we’ll discuss two other approaches: CREATE2 factories and CREATE3.
 
-🔗 [Cethology](https://paragraph.com/@cethology/deterministic-deployments-part-2-create2-based-approaches) • 23h ago
+🔗 [Cethology](https://paragraph.com/@cethology/deterministic-deployments-part-2-create2-based-approaches) • 1d ago
 
 ---
 
@@ -152,7 +152,7 @@ Vitalik Buterin proposes ZK API usage credits to make Ethereum the privacy-prese
 
 Truth Social Funds applied for ETFs that would give investors exposure to crypto—one focused on Bitcoin and Ethereum, the other on Cronos.
 
-Decrypt • 10h ago
+Decrypt • 12h ago
 
 ---
 
@@ -164,11 +164,11 @@ The Block • 1d ago
 
 ---
 
-**[BlackRock Signals $257M Bitcoin and Ethereum Sell-Off Ahead of Partial U.S. Government Shutdown](https://finance.yahoo.com/news/blackrock-signals-257m-bitcoin-ethereum-125929308.html)**
+**[BlackRock buys up Bitmine shares as Ethereum threatens to fall to $1,400 price](https://finance.yahoo.com/news/blackrock-buys-bitmine-shares-ethereum-092453859.html)**
 
-BlackRock, the world’s largest asset manager, looks set to offload more Bitcoin and Ethereum, following the outflows from its crypto ETFs yesterday. This move comes ahead of another potential partial U.S. government shutdown that could begin tomorrow as today’s deadline looms. BlackRock Moves $257M In BTC And ETH To Coinbase Arkham data shows that the
+Blackrock’s Bitmine share holdings jumped 166% in the fourth-quarter of 2025. CEO Larry Fink is bullish on tokenisation with the company citing Ethereum as the big winner.
 
-Yahoo Finance • 18h ago
+Yahoo Finance • 23h ago
 
 ---
 
@@ -176,21 +176,13 @@ Yahoo Finance • 18h ago
 
 Stańczak’s was brought aboard in 2025 following the transition of long-time executive director Aya Miyaguchi amid mounting community criticism that the foundation wasn’t doing enough to aggressively push the Ethereum ecosystem forward.
 
-CoinDesk • 16h ago
-
----
-
-**[BlackRock buys up Bitmine shares as Ethereum threatens to fall to $1,400 price](https://www.dlnews.com/articles/markets/blackrock-buys-up-bitmine-shares-as-ethereum-may-hit-1400/)**
-
-Blackrock’s Bitmine share holdings jumped 166% in the fourth-quarter of 2025.  CEO Larry Fink is bullish on tokenisation with the company citing Ethereum as the big winner.
-
-dlnews.com • 22h ago
+CoinDesk • 17h ago
 
 ---
 
 **[Ethereum Price Braces for Impact as Standard Chartered Predicts a $1,400 Bottom](https://www.tipranks.com/news/ethereum-price-braces-for-impact-as-standard-chartered-predicts-a-1400-bottom)**
 
-TipRanks • 16h ago
+TipRanks • 17h ago
 
 ---
 
@@ -202,25 +194,35 @@ TradingView • 1d ago
 
 ---
 
-**[Ethereum Based Meme Coin Pepeto Announces $7M+ Presale Milestone Ahead of Binance Listing as Bitcoin Volatility Persists](https://markets.businessinsider.com/news/stocks/ethereum-based-meme-coin-pepeto-announces-7m-presale-milestone-ahead-of-binance-listing-as-bitcoin-volatility-persists-1035825465)**
+**[3 Reasons Why Ethereum Is Surging Today](https://www.fool.com/investing/2026/02/13/3-reasons-why-ethereum-is-surging-today/)**
 
-DUBAI, United Arab Emirates, Feb.  13, 2026  (GLOBE NEWSWIRE) -- Pepeto (PEPETO), an Ethereum-based meme-utility project, has officially crossed $...
+The world's second-largest cryptocurrency is up more than 7% today.
 
-markets.businessinsider.com • 20h ago
-
----
-
-**[3 reasons why Ethereum is surging today](https://www.msn.com/en-us/money/savingandinvesting/3-reasons-why-ethereum-is-surging-today/ar-AA1WjOaE?ocid=finance-verthp-feeds)**
-
-MSN • 7h ago
+The Motley Fool • 10h ago
 
 ---
 
-**[Ethereum ETF holders still “diamond-handing” despite hurting more than their bitcoin counterparts](https://sherwood.news/crypto/ethereum-etf-holders-still-diamond-handing-despite-hurting-more-than-their/)**
+**[Crypto Rally Alert: Why Bitcoin and Ethereum Prices Are Moving Higher Today](https://coinpedia.org/news/crypto-rally-alert-why-bitcoin-and-ethereum-prices-are-moving-higher-today/)**
 
-While ethereum ETF investors are down 45% from their average cost basis, the majority are still holding....
+The cryptocurrency market is showing signs of rallying again, with major assets including Bitcoin and Ethereum posting gains as improving macroeconomic
 
-Sherwood News • 2d ago
+Coinpedia • 16h ago
+
+---
+
+**[BlackRock Signals $257M Bitcoin and Ethereum Sell-Off Ahead of Partial U.S. Government Shutdown](https://finance.yahoo.com/news/blackrock-signals-257m-bitcoin-ethereum-125929308.html)**
+
+BlackRock, the world’s largest asset manager, looks set to offload more Bitcoin and Ethereum, following the outflows from its crypto ETFs yesterday. This move comes ahead of another potential partial U.S. government shutdown that could begin tomorrow as today’s deadline looms. BlackRock Moves $257M In BTC And ETH To Coinbase Arkham data shows that the
+
+Yahoo Finance • 19h ago
+
+---
+
+**[Ethereum Up or Down on February 14? Betting Odds & Predictions (Feb. 13, 2026)](https://polymarket.com/event/ethereum-up-or-down-on-february-14)**
+
+View real-time odds for "Ethereum Up or Down on February 14?" as of February 14, 2026 and trade on The World's Largest Prediction Market™
+
+Polymarket • 1d ago
 
 ---
 
@@ -234,7 +236,7 @@ This video provides a professional Elliott Wave and technical analysis of Ethere
 
 📺 More Crypto Online
 
-👁️ 927 • 👍 105 • 💬 4 • ⏱️ 4:31 • 4h ago
+👁️ 927 • 👍 105 • 💬 4 • ⏱️ 4:31 • 5h ago
 
 ---
 
@@ -244,7 +246,7 @@ Crypto and bitcoin crash is forcing liquidations. This just got worse and we are
 
 📺 Thomas Kralow
 
-👁️ 24K • 👍 3K • 💬 75 • ⏱️ 10:34 • 20h ago
+👁️ 24K • 👍 3K • 💬 75 • ⏱️ 10:34 • 21h ago
 
 ---
 
@@ -254,7 +256,7 @@ BITCOIN & CRYPTO MARKET JUST FLIPPED (for now)!!! - Bitcoin News Today, Ethereum
 
 📺 Crypto World
 
-👁️ 8K • 👍 299 • 💬 77 • ⏱️ 17:20 • 12h ago
+👁️ 8K • 👍 299 • 💬 77 • ⏱️ 17:20 • 13h ago
 
 ---
 
@@ -274,7 +276,7 @@ This video provides a professional Elliott Wave and technical analysis of Ethere
 
 📺 More Crypto Online
 
-👁️ 3K • 👍 169 • 💬 18 • ⏱️ 3:30 • 16h ago
+👁️ 3K • 👍 169 • 💬 18 • ⏱️ 3:30 • 17h ago
 
 ---
 

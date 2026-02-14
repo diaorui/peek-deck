@@ -3,7 +3,7 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-02-14T07:54:35.974651+00:00'
+updated: '2026-02-14T08:34:34.490457+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
@@ -18,7 +18,7 @@ data_types:
 
 AI news, discussions, and developments
 
-**Last Updated:** February 14, 2026 at 07:54 UTC  
+**Last Updated:** February 14, 2026 at 08:34 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -125,47 +125,47 @@ Frustrated by the AI industry’s claims of proving math results without offerin
 
 UBS analyst Matthew Mish told CNBC that the artificial intelligence transformation is happening faster than he and his colleagues had previously anticipated.
 
-CNBC • 14h ago
+CNBC • 15h ago
 
 ---
 
-**[Microsoft AI chief gives it 18 months—for all white-collar work to be automated by AI](https://fortune.com/2026/02/13/when-will-ai-kill-white-collar-office-jobs-18-months-microsoft-mustafa-suleyman/)**
+**[‘It’s over for us’: release of new AI video generator Seedance 2.0 spooks Hollywood](https://www.theguardian.com/film/2026/feb/13/new-ai-video-generator-seedance-tom-cruise-brad-pitt)**
 
-Mustafa Suleyman believes current AI computational power will only accelerate, disrupting every kind of work you do “sitting down at a computer.”
+An AI clip featuring Tom Cruise and Brad Pitt fighting has caused concern among industry figures
 
-Fortune • 14h ago
-
----
-
-**[Microsoft AI CEO predicts 'most, if not all' white-collar tasks will be automated by AI within 18 months](https://www.businessinsider.com/microsoft-ai-ceo-mustafa-suleyman-white-collar-tasks-automation-prediction-2026-2)**
-
-Mustafa Suleyman, Microsoft's AI chief, says AI can automate white-collar jobs within 12-18 months, as tech reaches human-level performance in tasks.
-
-Business Insider • 1d ago
+The Guardian • 19h ago
 
 ---
 
-**[Microsoft is down this year on fears AI will disrupt Office. Goldman says buy the dip](https://www.cnbc.com/2026/02/13/microsoft-is-down-this-year-on-fears-ai-will-disrupt-office-goldman-says-buy-the-dip.html)**
+**[Seedance: Hollywood studios take aim at 'ultra-realistic' AI video tool](https://www.bbc.com/news/articles/cjd9nllng22o)**
 
-Goldman Sachs' $600 price target implies that shares of Microsoft could rally 49%.
+Clips including Brad Pitt and Tom Cruise fighting, made by new AI video tool Seedance, have gone viral.
 
-CNBC • 16h ago
-
----
-
-**[Fashion’s biggest brands leaning into AI](https://www.nbcnews.com/video/fashion-s-biggest-brands-leaning-into-ai-257682501710)**
-
-Artificial Intelligence is showing up on the fashion runway, from virtual try-ons to AI-assisted designs. Some of the industry's biggest names are embracing the technology while others are urging caution. NBC News' Chloe Melas explores how AI is changing what people wear and how they shop.
-
-NBC News • 1h ago
+BBC • 20h ago
 
 ---
 
-**[This Is the Best AI Stock to Buy in February 2026, According to Wall Street](https://finance.yahoo.com/news/best-ai-stock-buy-february-062200893.html)**
+**[AI Video of Tom Cruise Fighting Brad Pitt Has Top Writer Warning: “It’s Likely Over for Us”](https://www.hollywoodreporter.com/movies/movie-news/ai-video-tom-cruise-brad-pitt-writer-warning-1236504200/)**
 
-Nvidia is a top stock to buy right now.
+A stunning viral video of Cruise vs. Pitt has 'Deadpool & Wolverine' screenwriter warning: "Hollywood is about to be revolutionized/decimated."
 
-Yahoo Finance • 1h ago
+The Hollywood Reporter • 1d ago
+
+---
+
+**[Amazon’s Andy Jassy bets on $200bn AI spending drive to revive AWS](https://www.ft.com/content/905df663-8c47-4e88-b6ff-24dd4bd46290)**
+
+Shake-up follows fears tech giant missed early AI boom as Microsoft and Google challenge cloud business
+
+Financial Times • 1h ago
+
+---
+
+**[China's tech titans are giving away money and cars in 'The Lunar New Year AI War'](https://www.cnbc.com/2026/02/13/china-ai-lunar-new-year-bytedance-baidu-tencent-alibaba.html)**
+
+ByteDance's Seedance 2.0 model that created the viral Tom Cruise and Brad Pitt fight videos got the attention of Elon Musk.
+
+CNBC • 10h ago
 
 ---
 
@@ -177,23 +177,23 @@ CNBC • 1h ago
 
 ---
 
-**[My Dinner Date With A.I.](https://www.nytimes.com/2026/02/13/dining/ai-dinner-date-restaurant.html)**
+**[Chinese AI models festoon Spring Festival a year after DeepSeek shock](https://www.reuters.com/world/china/chinese-ai-models-festoon-spring-festival-year-after-deepseek-shock-2026-02-14/)**
 
-The New York Times • 21h ago
-
----
-
-**[AI tool Claude helped capture Venezuelan dictator Maduro in US military raid operation: report](https://www.foxnews.com/us/ai-tool-claude-helped-capture-venezuelan-dictator-maduro-us-military-raid-operation-report)**
-
-The U.S. military reportedly used Anthropic’s AI tool Claude in the operation that captured Venezuelan leader Nicolás Maduro, raising questions about AI’s expanding role in classified Pentagon missions.
-
-Fox News • 2h ago
+Reuters • 3h ago
 
 ---
 
-**[Exclusive | Pentagon Used Anthropic’s Claude in Maduro Venezuela Raid](https://www.wsj.com/politics/national-security/pentagon-used-anthropics-claude-in-maduro-venezuela-raid-583aff17?gaa_at=eafs&gaa_n=AWEtsqeI4Ke8gxRery25ZCkul1FWHwTAsawMPe-WuLYYH_Z7OKpXWnRU5wU_&gaa_ts=6990236c&gaa_sig=sdaS1HgVIeggLu3uJWiWZWt5o-uZoKTh8vw6_EeemJ-IZ0u9vxPO3ZLTYF7ZzhuBxyHZHjUgkKw7rB-lMYQs1g%3D%3D)**
+**[‘We’re All Polyamorous Now. It’s You, Me and the A.I.’](https://www.nytimes.com/2026/02/13/opinion/ai-relationships.html)**
 
-The Wall Street Journal • 8h ago
+The New York Times • 22h ago
+
+---
+
+**[Stock market today: Dow, S&P 500, Nasdaq gains fizzle to cap week of sharp losses as AI fears grow](https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-nasdaq-gains-fizzle-to-cap-week-of-sharp-losses-as-ai-fears-grow-210219798.html)**
+
+Odds of a Fed rate cut in June nudge higher after 'core' consumer inflation comes in at its lowest rate in four years.
+
+Yahoo Finance • 10h ago
 
 ---
 
@@ -205,7 +205,7 @@ The Wall Street Journal • 8h ago
 
 Summary: An AI agent of unknown ownership autonomously wrote and published a personalized hit piece about me after I rejected its code, attempting to damage my reputation and shame me into acceptin…
 
-⬆️ 2280 • 💬 935 • 1d ago • [The Shamblog](https://theshamblog.com/an-ai-agent-published-a-hit-piece-on-me/)
+⬆️ 2282 • 💬 934 • 1d ago • [The Shamblog](https://theshamblog.com/an-ai-agent-published-a-hit-piece-on-me/)
 
 ---
 
@@ -224,15 +224,15 @@ IMPORTANT: This is a more targeted fix than originally proposed. ...
 
 ---
 
-**[Officials Claim Drone Incursion Led to Shutdown of El Paso Airport](https://news.ycombinator.com/item?id=46972610)**
+**[An AI Agent Published a Hit Piece on Me – More Things Have Happened](https://news.ycombinator.com/item?id=47009949)**
 
-⬆️ 365 • 💬 581 • 2d ago • [nytimes.com](https://www.nytimes.com/2026/02/11/us/faa-el-paso-flight-restrictions.html)
+⬆️ 393 • 💬 200 • 7h ago • [theshamblog.com](https://theshamblog.com/an-ai-agent-published-a-hit-piece-on-me-part-2/)
 
 ---
 
-**[An AI Agent Published a Hit Piece on Me – More Things Have Happened](https://news.ycombinator.com/item?id=47009949)**
+**[Officials Claim Drone Incursion Led to Shutdown of El Paso Airport](https://news.ycombinator.com/item?id=46972610)**
 
-⬆️ 353 • 💬 171 • 7h ago • [theshamblog.com](https://theshamblog.com/an-ai-agent-published-a-hit-piece-on-me-part-2/)
+⬆️ 365 • 💬 581 • 2d ago • [nytimes.com](https://www.nytimes.com/2026/02/11/us/faa-el-paso-flight-restrictions.html)
 
 ---
 
@@ -248,7 +248,7 @@ The Federal Aviation Administration is closing the airspace around El Paso Inter
 
 US Border Patrol intelligence units will gain access to a face recognition tool built on billions of images scraped from the internet.
 
-⬆️ 263 • 💬 152 • 14h ago • [WIRED](https://www.wired.com/story/cbp-signs-clearview-ai-deal-to-use-face-recognition-for-tactical-targeting/)
+⬆️ 264 • 💬 154 • 15h ago • [WIRED](https://www.wired.com/story/cbp-signs-clearview-ai-deal-to-use-face-recognition-for-tactical-targeting/)
 
 ---
 
@@ -256,13 +256,13 @@ US Border Patrol intelligence units will gain access to a face recognition tool 
 
 We're not in a February 2020 moment, and ordinary people will be fine
 
-⬆️ 234 • 💬 393 • 12h ago • [davidoks.blog](https://davidoks.blog/p/why-im-not-worried-about-ai-job-loss)
+⬆️ 246 • 💬 412 • 13h ago • [davidoks.blog](https://davidoks.blog/p/why-im-not-worried-about-ai-job-loss)
 
 ---
 
 **[The "AI agent hit piece" situation clarifies how dumb we are acting](https://news.ycombinator.com/item?id=47006843)**
 
-⬆️ 213 • 💬 102 • 12h ago • [ardentperf.com](https://ardentperf.com/2026/02/13/the-scott-shambaugh-situation-clarifies-how-dumb-we-are-acting/)
+⬆️ 216 • 💬 102 • 12h ago • [ardentperf.com](https://ardentperf.com/2026/02/13/the-scott-shambaugh-situation-clarifies-how-dumb-we-are-acting/)
 
 ---
 
@@ -334,7 +334,7 @@ https://store.playstation.com/concept/10006488/ The PlayStation China Hero Proje
 
 📺 PlayStation
 
-👁️ 22K • 👍 920 • 💬 49 • ⏱️ 0:57 • 20h ago
+👁️ 22K • 👍 920 • 💬 49 • ⏱️ 0:57 • 21h ago
 
 ---
 
@@ -344,7 +344,7 @@ Apple just pushed the new AI Siri timeline again. The big Gemini powered upgrade
 
 📺 Ryan Shaw
 
-👁️ 859 • 👍 17 • 💬 1 • ⏱️ 0:50 • 6h ago
+👁️ 859 • 👍 17 • 💬 1 • ⏱️ 0:50 • 7h ago
 
 ---
 
@@ -460,7 +460,7 @@ MiniCPM-o 4.5 is a 9B parameter multimodal LLM excelling in vision, speech, and 
 
 `any-to-any` `9.4B`
 
-⬇️ 43,481 • ❤️ 836 • 15h ago
+⬇️ 43,481 • ❤️ 836 • 16h ago
 
 ---
 
@@ -496,7 +496,7 @@ Voxtral-Mini-4B-Realtime-2602 is a multilingual, real-time speech-to-text model 
 
 `automatic-speech-recognition`
 
-⬇️ 5,209 • ❤️ 516 • 16h ago
+⬇️ 5,209 • ❤️ 516 • 17h ago
 
 ---
 
@@ -694,7 +694,7 @@ All-in-one AI framework & toolkit for Claude Code & Cursor
 
 `Python` `ai-agent` `ai-coding` `claude-code` `cli` `cursor`
 
-⭐ 2.2k • 🔱 108 • 4h ago
+⭐ 2.2k • 🔱 108 • 5h ago
 
 ---
 
@@ -714,7 +714,7 @@ Warcraft III Peon voice notifications (+ more!) for Claude Code, Codex, and othe
 
 `Shell` `ai` `ai-engineering` `antigravity` `claude-code` `codex`
 
-⭐ 1.9k • 🔱 131 • 3h ago
+⭐ 1.9k • 🔱 131 • 4h ago
 
 ---
 
@@ -724,7 +724,7 @@ A native desktop GUI for Claude Code — chat, code, and manage projects visuall
 
 `TypeScript` `ai` `anthropic` `claude` `claude-code` `desktop-app`
 
-⭐ 1.8k • 🔱 198 • 21h ago
+⭐ 1.8k • 🔱 198 • 22h ago
 
 ---
 
