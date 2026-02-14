@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-02-14T21:25:47.659864+00:00'
+updated: '2026-02-14T21:48:00.769674+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- social
-- news
-- cryptocurrency
 - videos
+- social
+- cryptocurrency
+- news
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** February 14, 2026 at 21:25 UTC  
+**Last Updated:** February 14, 2026 at 21:48 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -192,7 +192,7 @@ Nasdaq • 10h ago
 
 Here's why Bitcoin and Ethereum should be in your long-term portfolio.
 
-The Motley Fool • 10h ago
+The Motley Fool • 11h ago
 
 ---
 
@@ -258,7 +258,7 @@ This video provides a professional Elliott Wave and technical analysis of Ethere
 
 📺 More Crypto Online
 
-👁️ 2K • 👍 142 • 💬 3 • ⏱️ 4:28 • 7h ago
+👁️ 2K • 👍 142 • 💬 3 • ⏱️ 4:28 • 8h ago
 
 ---
 
@@ -318,7 +318,7 @@ ETHEREUM ETH PRICE PREDICTION 2026 Join the Premium Signal Group for trade setup
 
 📺 Cilinix Crypto
 
-👁️ 230 • 👍 15 • 💬 1 • ⏱️ 4:46 • 10h ago
+👁️ 230 • 👍 15 • 💬 1 • ⏱️ 4:46 • 11h ago
 
 ---
 

@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-02-14T21:25:47.662561+00:00'
+updated: '2026-02-14T21:48:00.772885+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
+- videos
 - social
 - news
-- videos
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** February 14, 2026 at 21:25 UTC  
+**Last Updated:** February 14, 2026 at 21:48 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -80,7 +80,7 @@ I posted a video a couple of days ago on r/esp32 showing my Open-Source robot da
 
 Yo everyone! I hope you are doing phenomenal! I am a graduate student at CMU . Recently companies have been developing cross-embodied brains but this requires datasets. The current method involves hiring a teleoperator to perform actions for 1000 hours to obtain quality data, which is both costly and time-consuming. Many companies and seminars are recognising this issue. My partner and I are developing a ‘Cross-Body Data Engine’ to mathematically retarget datasets from one robot to another while enriching it with additional information such as torque and semantic layers. I would like to ask your opinion: is ‘data scarcity across different hardware’ a significant bottleneck for teams or do you find it more straightforward to collect fresh teleop data for each new robot?" We are attempting to validate our core thesis and would value your candid feedback.
 
-45m ago
+1h ago
 
 ---
 
@@ -96,7 +96,7 @@ I finnaly made some progress with my orp-testmechv2 robot i had problems with fi
 
 Hi everyone, I’ve been admitted to two master’s programs in Germany and would really appreciate experiences and insights from people who know these fields or universities. I’m currently deciding between: • M.Sc. Computer Science (Informatik) at University of Augsburg, with an interest in robotics/interaction systems • M.Sc. Computational Linguistics at University of Stuttgart, where I want to gain strong AI/NLP skills and be in a dense research environment My interests lie at the intersection of intelligent systems, human-machine interaction, embodied agents, and robotics, but I’m not strictly hardware-focused — I’m excited by the AI/interaction/design side of robotics rather than low-level control or embedded systems. I have three main doubts I want to clarify: 1) How strong and practically valuable is the Augsburg Informatik program’s robotics specialization? Is it high enough quality (curriculum, labs, projects, industry links) to prepare someone for actual robotics / intelligent systems work — both in industry and research? Are there real opportunities for projects, internships
 
-18h ago
+19h ago
 
 ---
 
@@ -154,7 +154,7 @@ ChinaPower Project • 2d ago
 
 Elon Musk has a tremendous vision for robotics and the mass adoption of this kind of technology. Gerber Kawasaki Wealth & Investment Management CEO Ross Gerber sits down with Josh Lipton to talk more about the Tesla (TSLA) and SpaceX (SPAX.PVT) CEO's plans for his Optimus humanoid robots and how the broader tech industry is reacting. To watch more expert insights and analysis on the latest market action, check out more&nbsp;Asking for a Trend.
 
-Yahoo Finance • 22h ago
+Yahoo Finance • 23h ago
 
 ---
 
@@ -210,7 +210,7 @@ Nursing homes can cost over $10000 a month. But imagine paying once… for a rob
 
 📺 By 2050
 
-👁️ 771 • 👍 38 • 💬 1 • ⏱️ 0:59 • 1h ago
+👁️ 771 • 👍 38 • 💬 1 • ⏱️ 0:59 • 2h ago
 
 ---
 
@@ -248,7 +248,7 @@ Such a debut would mark a major step for Apple as it expands beyond personal ele
 
 📺 Carros Show
 
-👁️ 5K • 👍 98 • 💬 8 • ⏱️ 9:26 • 4d ago
+👁️ 5K • 👍 98 • 💬 8 • ⏱️ 9:26 • 5d ago
 
 ---
 
@@ -268,7 +268,7 @@ Humanoid robots are pushing physical limits — with real-time balance control, 
 
 📺 Facts TV 91
 
-👁️ 28K • 👍 230 • 💬 11 • ⏱️ 0:06 • 19h ago
+👁️ 28K • 👍 230 • 💬 11 • ⏱️ 0:06 • 20h ago
 
 ---
 
