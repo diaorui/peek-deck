@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-02-14T10:28:55.542088+00:00'
+updated: '2026-02-14T10:55:33.766382+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- videos
-- cryptocurrency
 - news
+- cryptocurrency
 - social
+- videos
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** February 14, 2026 at 10:28 UTC  
+**Last Updated:** February 14, 2026 at 10:55 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -152,7 +152,7 @@ Vitalik Buterin proposes ZK API usage credits to make Ethereum the privacy-prese
 
 Truth Social Funds applied for ETFs that would give investors exposure to crypto—one focused on Bitcoin and Ethereum, the other on Cronos.
 
-Decrypt • 13h ago
+Decrypt • 14h ago
 
 ---
 
@@ -198,7 +198,7 @@ The Block • 1d ago
 
 The world's second-largest cryptocurrency is up more than 7% today.
 
-The Motley Fool • 12h ago
+The Motley Fool • 13h ago
 
 ---
 
@@ -206,7 +206,7 @@ The Motley Fool • 12h ago
 
 DUBAI, United Arab Emirates, Feb.  13, 2026  (GLOBE NEWSWIRE) -- Pepeto (PEPETO), an Ethereum-based meme-utility project, has officially crossed $...
 
-markets.businessinsider.com • 22h ago
+markets.businessinsider.com • 23h ago
 
 ---
 
@@ -222,7 +222,7 @@ TradingView • 1d ago
 
 Bitcoin (BTC) holds above support at $65,118 at the time of writing on Friday. The Crypto King shows subtle signs of recovery after extending declines for four consecutive days through Thursday, reflecting a sticky rise-off sentiment in the broader crypto market.
 
-FXStreet • 20h ago
+FXStreet • 21h ago
 
 ---
 
@@ -276,7 +276,7 @@ This video provides a professional Elliott Wave and technical analysis of Ethere
 
 📺 More Crypto Online
 
-👁️ 3K • 👍 169 • 💬 18 • ⏱️ 3:30 • 18h ago
+👁️ 3K • 👍 169 • 💬 18 • ⏱️ 3:30 • 19h ago
 
 ---
 

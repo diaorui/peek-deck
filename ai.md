@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-02-14T10:28:55.527722+00:00'
+updated: '2026-02-14T10:55:33.750374+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- videos
-- repositories
 - news
 - social
+- repositories
+- videos
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** February 14, 2026 at 10:28 UTC  
+**Last Updated:** February 14, 2026 at 10:55 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -41,7 +41,7 @@ AI news, discussions, and developments
 
 Introducing Open Book Medical AI: Deterministic Knowledge Graph + Compact LLM Most medical AI systems today rely heavily on large, opaque language models. They are powerful, but probabilistic, difficult to audit, and expensive to deploy. We’ve taken a different approach. Our medical AI is a hybrid system combining: • A compact ~3GB language model • A deterministic proprietary medical Knowledge Graph (5K nodes, 25K edges) • A structured RAG-based answer audit layer The Knowledge Graph spans 7 core medical categories: Diseases, Symptoms, Treatment Methods, Risk Factors, Diagnostic Tools, Body Parts, and Cellular Structures and, critically, their relationships. Why this architecture matters 1️⃣ Comparable answer quality with dramatically lower compute and reduced hallucination. A ~3GB model can run on commodity or on-prem infrastructure, enabling hospital deployment without the heavy cloud dependency typically associated with 80GB-class LLMs. 2️⃣ Deterministic medical backbone The Knowledge Graph constrains reasoning. No hallucinated treatments. No unsupported disease relationships. Medical claims must exist within structured ontology. 3️⃣ Verifiable answers via RAG audit Every response can be traced back to specific nodes and relationships in the graph. Symptom → Disease → Diagnostic Tool → Treatment. Structured, auditable, explainable. 4️⃣ Separation of language from medical truth The LLM explains and contextualizes. The Knowledge Graph validates and grounds. This architectural separation dramatically improves reliability and regulatory defensibility. 5️⃣ Complete control over the core of truth Unlike black-box systems that rely entirely on opaque model weights, this architecture gives full control over the medical knowledge layer. You decide what is included, how relationships are defined, and how updates are governed. In high-stakes domains like healthcare, scaling parameter count is not the only path forward. Controllability, traceability, and verifiability may matter more. Hybrid architectures that combine probabilistic language models with deterministic knowledge systems offer a compelling alternative. The model is capable of clinical case analysis and diagnostic reasoning. It is currently available for public testing on Hugging Face Spaces (shared environment, typical response time: 15–30 seconds): https://huggingface.co/spaces/cmtopbas/medical-slm-testing Happy to connect with others exploring Knowledge Graph + LLM systems in regulated domains. #MedicalAI #HealthcareInnovation #KnowledgeGraphs #ExplainableAI #RAG #ClinicalAI #HealthTech
 
-14h ago
+15h ago
 
 ---
 
@@ -57,7 +57,7 @@ Spotify credits Claude Code and its internal AI system Honk with speeding up dev
 
 Running a one-person operation, I rely on AI for marketing, strategy, and content. I've tested ChatGPT Plus, Claude Pro, and Perplexity Pro, and was ready to commit to Gemini Pro, until I understood the privacy implications. The Gemini problem: To prevent Google from training on your data (and human reviewers from reading it), you must turn off activity tracking. You can still use Gems, but they reset every session. This means no memory continuity, which defeats the entire purpose of having a personalized assistant. You also lose native Google Drive connectivity. As a writer and content creator, this isn't just about privacy preferences, it's about protecting my future work. I can't feed my creative process into a system that might be training tomorrow's competition or having humans review my drafts and ideas. My experience so far: ChatGPT Plus: Reliable and easy, but the writing often feels generic and cliché-heavy Claude Pro: Best writer, wonderfully concise, but burns through tokens fast, in less than a day Perplexity Pro: Same token limitations (want Claude Sonnet? Better hope you haven't hit your quota) Gemini Pro: The combination of Gems + NotebookLM looked perfect, until the privacy policy became a dealbreaker The frustrating part is the lack of regulation forcing companies to offer real privacy without crippling core features or having to pay more. For solo creators building a body of work, this matters. How are others balancing privacy, features, and token economics? Has anyone found a setup that actually works without compromise?
 
-19h ago
+20h ago
 
 ---
 
@@ -125,7 +125,7 @@ Frustrated by the AI industry’s claims of proving math results without offerin
 
 UBS analyst Matthew Mish told CNBC that the artificial intelligence transformation is happening faster than he and his colleagues had previously anticipated.
 
-CNBC • 16h ago
+CNBC • 17h ago
 
 ---
 
@@ -141,13 +141,13 @@ The Conversation • 21h ago
 
 Dr. Mehmet Oz, who heads the Centers for Medicare and Medicaid Services, is advancing a $50 billion plan to modernize rural health care.
 
-NPR • 28m ago
+NPR • 55m ago
 
 ---
 
 **[Working in A.I. Lifted Their Compensation. Now They Want Prenups.](https://www.nytimes.com/2026/02/14/business/artificial-intelligence-relationships-income-gap.html)**
 
-The New York Times • 27m ago
+The New York Times • 54m ago
 
 ---
 
@@ -155,7 +155,7 @@ The New York Times • 27m ago
 
 At Ingka Group, the largest IKEA retailer in 32 countries, leaders set out to adopt AI in a way that wouldn’t put their culture at risk.
 
-Fortune • 28m ago
+Fortune • 55m ago
 
 ---
 
@@ -163,7 +163,7 @@ Fortune • 28m ago
 
 An AI clip featuring Tom Cruise and Brad Pitt fighting has caused concern among industry figures
 
-The Guardian • 20h ago
+The Guardian • 21h ago
 
 ---
 
@@ -171,7 +171,7 @@ The Guardian • 20h ago
 
 Earlier this week, an AI-generated video of Tom Cruise fighting Brad Pitt went viral, sparking outrage amongst creatives and the studios alike.
 
-Los Angeles Times • 14h ago
+Los Angeles Times • 15h ago
 
 ---
 
@@ -179,7 +179,7 @@ Los Angeles Times • 14h ago
 
 Clips including Brad Pitt and Tom Cruise fighting, made by new AI video tool Seedance, have gone viral.
 
-BBC • 21h ago
+BBC • 22h ago
 
 ---
 
@@ -228,7 +228,7 @@ IMPORTANT: This is a more targeted fix than originally proposed. ...
 
 **[An AI Agent Published a Hit Piece on Me – More Things Have Happened](https://news.ycombinator.com/item?id=47009949)**
 
-⬆️ 434 • 💬 214 • 9h ago • [theshamblog.com](https://theshamblog.com/an-ai-agent-published-a-hit-piece-on-me-part-2/)
+⬆️ 434 • 💬 214 • 10h ago • [theshamblog.com](https://theshamblog.com/an-ai-agent-published-a-hit-piece-on-me-part-2/)
 
 ---
 
@@ -258,7 +258,7 @@ US Border Patrol intelligence units will gain access to a face recognition tool 
 
 **[The "AI agent hit piece" situation clarifies how dumb we are acting](https://news.ycombinator.com/item?id=47006843)**
 
-⬆️ 223 • 💬 105 • 14h ago • [ardentperf.com](https://ardentperf.com/2026/02/13/the-scott-shambaugh-situation-clarifies-how-dumb-we-are-acting/)
+⬆️ 223 • 💬 105 • 15h ago • [ardentperf.com](https://ardentperf.com/2026/02/13/the-scott-shambaugh-situation-clarifies-how-dumb-we-are-acting/)
 
 ---
 
@@ -288,7 +288,7 @@ An AI-generated video of Brad Pitt and Tom Cruise fighting sparked concern among
 
 📺 CBS LA
 
-👁️ 3K • 👍 55 • 💬 23 • ⏱️ 3:04 • 4h ago
+👁️ 3K • 👍 55 • 💬 23 • ⏱️ 3:04 • 5h ago
 
 ---
 
@@ -394,7 +394,7 @@ GLM-5 is a large language model optimized for complex systems engineering and lo
 
 `text-generation` `753.9B`
 
-⬇️ 66,826 • ❤️ 1,048 • 19h ago
+⬇️ 66,826 • ❤️ 1,048 • 20h ago
 
 ---
 
@@ -406,7 +406,7 @@ MiniMax-M2.5 is a text-generation model designed for generating human-like text.
 
 `text-generation` `228.7B`
 
-⬇️ 6,091 • ❤️ 445 • 6h ago
+⬇️ 6,091 • ❤️ 445 • 7h ago
 
 ---
 
@@ -466,7 +466,7 @@ Nanbeige4.1-3B is a 3B parameter text-generation model excelling in complex reas
 
 `text-generation` `3.9B`
 
-⬇️ 3,906 • ❤️ 310 • 21h ago
+⬇️ 3,906 • ❤️ 310 • 22h ago
 
 ---
 
@@ -502,7 +502,7 @@ Voxtral-Mini-4B-Realtime-2602 is a multilingual, real-time speech-to-text model 
 
 `automatic-speech-recognition`
 
-⬇️ 5,711 • ❤️ 517 • 18h ago
+⬇️ 5,711 • ❤️ 517 • 19h ago
 
 ---
 
@@ -688,7 +688,7 @@ The agent-native LLM router powering OpenClaw — by BlockRun
 
 `TypeScript` `ai` `ai-agents` `anthropic` `cost-optimization` `crypto`
 
-⭐ 2.4k • 🔱 244 • 3h ago
+⭐ 2.4k • 🔱 244 • 4h ago
 
 ---
 
@@ -708,7 +708,7 @@ The visual feedback tool for agents.
 
 `TypeScript` `ai` `design` `tools` `ui`
 
-⭐ 2.2k • 🔱 154 • 15h ago
+⭐ 2.2k • 🔱 154 • 16h ago
 
 ---
 
@@ -718,7 +718,7 @@ Warcraft III Peon voice notifications (+ more!) for Claude Code, Codex, and othe
 
 `Shell` `ai` `ai-engineering` `antigravity` `claude-code` `codex`
 
-⭐ 1.9k • 🔱 131 • 6h ago
+⭐ 1.9k • 🔱 131 • 7h ago
 
 ---
 

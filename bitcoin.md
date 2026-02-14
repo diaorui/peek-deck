@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-02-14T10:28:55.536160+00:00'
+updated: '2026-02-14T10:55:33.759692+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- videos
-- cryptocurrency
 - news
+- cryptocurrency
 - social
+- videos
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** February 14, 2026 at 10:28 UTC  
+**Last Updated:** February 14, 2026 at 10:55 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -79,7 +79,7 @@ Rank #1
 
 **[2025 vs 2026](https://www.reddit.com/r/Bitcoin/comments/1r40elq/2025_vs_2026/)**
 
-13h ago
+14h ago
 
 ---
 
@@ -87,7 +87,7 @@ Rank #1
 
 Does anyone else have the feeling it will go back above 100k sooner than people expect? Everyone is talking about "the cycle is over" but what the crowd say will happen never happens, usually the opposite.. I'm not saying go all in but atleast if you're shorting, be very careful cause this can rocket in a brutal way Have a nice weekend everyone
 
-1h ago
+2h ago
 
 ---
 
@@ -95,7 +95,7 @@ Does anyone else have the feeling it will go back above 100k sooner than people 
 
 hoping to atleast get to 0.25 during this dip. I dont believe we are in a crypto winter yet.
 
-8h ago
+9h ago
 
 ---
 
@@ -103,7 +103,7 @@ hoping to atleast get to 0.25 during this dip. I dont believe we are in a crypto
 
 Had to drop nearly 10k in medical bills... sure enough BTC tanks and as soon as I think im fine to buy a couple hundred... BOOM it either sky rockets or another random medical bill pops up worth a couple hundred and then BTC tanks... So I guess your welcome? And I'm sorry.
 
-14h ago
+15h ago
 
 ---
 
@@ -133,7 +133,7 @@ like we was just vibing near 100k, everybody loud, posting rockets, acting rich 
 
 I’m 14 and just started learning about Bitcoin and saving in general. I began with $100 and my plan is to put around 30% of my weekly savings into BTC as a long-term DCA strategy. I’m not trading or trying to time the market, just stacking and holding. For people who started young with small amounts, did you stick to strict DCA no matter the price, or keep some cash for bigger dips? My goal is to build good habits early and think in years, not months
 
-32m ago
+58m ago
 
 ---
 
@@ -191,7 +191,7 @@ New York Post • 13h ago
 
 Over the past decade, Bitcoin has consistently been the top-performing asset in the world.
 
-The Motley Fool • 34m ago
+The Motley Fool • 1h ago
 
 ---
 
@@ -211,7 +211,7 @@ Reuters • 2d ago
 
 Bitcoin biopic 'Killing Satoshi' starring Pete Davidson plans to use all-AI locations and AI adjustments for  performances rather than reshoots.
 
-Variety • 17h ago
+Variety • 18h ago
 
 ---
 
@@ -387,7 +387,7 @@ Scott Bessent did an interview on squawk box and was asked about the Clarity act
 
 📺 Simply Bitcoin
 
-👁️ 8K • 👍 389 • 💬 50 • ⏱️ 1:37:28 • 14h ago
+👁️ 8K • 👍 389 • 💬 50 • ⏱️ 1:37:28 • 15h ago
 
 ---
 
@@ -407,7 +407,7 @@ WEEX: https://www.weex.com/events/promo/usdtgiveaway-v2?vipCode=00dt 25% FEE DIS
 
 📺 Crypto Rover
 
-👁️ 2K • 👍 217 • 💬 9 • ⏱️ 7:51 • 2h ago
+👁️ 2K • 👍 217 • 💬 9 • ⏱️ 7:51 • 3h ago
 
 ---
 
