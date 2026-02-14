@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-02-14T17:26:56.523844+00:00'
+updated: '2026-02-14T17:51:18.666364+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- news
 - cryptocurrency
-- social
 - videos
+- social
+- news
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** February 14, 2026 at 17:26 UTC  
+**Last Updated:** February 14, 2026 at 17:51 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -246,7 +246,7 @@ This video provides a professional Elliott Wave and technical analysis of Ethere
 
 📺 More Crypto Online
 
-👁️ 719 • 👍 94 • 💬 3 • ⏱️ 4:28 • 3h ago
+👁️ 719 • 👍 94 • 💬 3 • ⏱️ 4:28 • 4h ago
 
 ---
 
@@ -286,7 +286,7 @@ ETHEREUM ETH PRICE PREDICTION 2026 Join the Premium Signal Group for trade setup
 
 📺 Cilinix Crypto
 
-👁️ 139 • 👍 13 • 💬 1 • ⏱️ 4:46 • 6h ago
+👁️ 139 • 👍 13 • 💬 1 • ⏱️ 4:46 • 7h ago
 
 ---
 

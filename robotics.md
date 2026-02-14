@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-02-14T17:26:56.527043+00:00'
+updated: '2026-02-14T17:51:18.669466+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
+- social
 - news
 - videos
-- social
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** February 14, 2026 at 17:26 UTC  
+**Last Updated:** February 14, 2026 at 17:51 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -36,7 +36,7 @@ Robotics research and industry news
 
 I added rubber pieces for the feet so it can grip the ground and central drivetrain! soon I will add the fan blades seen in the video.
 
-30m ago
+55m ago
 
 ---
 
@@ -50,7 +50,7 @@ I added rubber pieces for the feet so it can grip the ground and central drivetr
 
 Hello, In my free time, I am currently designing and building my first robot, inspired by a humanoid monkey shape, with the goal of learning robotics through a concrete and hands-on project. I have developed the project entirely from scratch: full mechanical design, complete 3D modeling of all parts, followed by manufacturing using 3D printing and integration of the different components (structure, actuators, power supply, and electronics).I am now about to start the programming and control phase of the robot. I am a beginner in computer science, but this project is precisely a way for me to progressively develop my skills through practical application. This personal project aims to strengthen and clarify my professional goal in robotics and mechatronics. I hope that it can eventually help me integrate an engineering school, or at least secure an internship within a company in this field. I would be very interested in receiving your feedback, advice, or constructive criticism on this approach: possible improvements, skills to focus on, or relevant directions for the continuation of my studies and projects. Thank you
 
-34m ago
+58m ago
 
 ---
 
@@ -80,7 +80,7 @@ I posted a video a couple of days ago on r/esp32 showing my Open-Source robot da
 
 Hi everyone, I’ve been admitted to two master’s programs in Germany and would really appreciate experiences and insights from people who know these fields or universities. I’m currently deciding between: • M.Sc. Computer Science (Informatik) at University of Augsburg, with an interest in robotics/interaction systems • M.Sc. Computational Linguistics at University of Stuttgart, where I want to gain strong AI/NLP skills and be in a dense research environment My interests lie at the intersection of intelligent systems, human-machine interaction, embodied agents, and robotics, but I’m not strictly hardware-focused — I’m excited by the AI/interaction/design side of robotics rather than low-level control or embedded systems. I have three main doubts I want to clarify: 1) How strong and practically valuable is the Augsburg Informatik program’s robotics specialization? Is it high enough quality (curriculum, labs, projects, industry links) to prepare someone for actual robotics / intelligent systems work — both in industry and research? Are there real opportunities for projects, internships
 
-14h ago
+15h ago
 
 ---
 
@@ -160,7 +160,7 @@ Forbes • 1d ago
 
 Elon Musk has a tremendous vision for robotics and the mass adoption of this kind of technology. Gerber Kawasaki Wealth & Investment Management CEO Ross Gerber sits down with Josh Lipton to talk more about the Tesla (TSLA) and SpaceX (SPAX.PVT) CEO's plans for his Optimus humanoid robots and how the broader tech industry is reacting. To watch more expert insights and analysis on the latest market action, check out more&nbsp;Asking for a Trend.
 
-Yahoo Finance • 18h ago
+Yahoo Finance • 19h ago
 
 ---
 
@@ -268,7 +268,7 @@ Humanoid robots are pushing physical limits — with real-time balance control, 
 
 📺 Facts TV 91
 
-👁️ 26K • 👍 216 • 💬 10 • ⏱️ 0:06 • 15h ago
+👁️ 26K • 👍 216 • 💬 10 • ⏱️ 0:06 • 16h ago
 
 ---
 

@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-02-14T17:26:56.517819+00:00'
+updated: '2026-02-14T17:51:18.660524+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- news
 - cryptocurrency
-- social
 - videos
+- social
+- news
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** February 14, 2026 at 17:26 UTC  
+**Last Updated:** February 14, 2026 at 17:51 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -79,7 +79,7 @@ Rank #1
 
 **[2025 vs 2026](https://www.reddit.com/r/Bitcoin/comments/1r40elq/2025_vs_2026/)**
 
-20h ago
+21h ago
 
 ---
 
@@ -87,7 +87,7 @@ Rank #1
 
 Does anyone else have the feeling it will go back above 100k sooner than people expect? Everyone is talking about "the cycle is over" but what the crowd say will happen never happens, usually the opposite.. I'm not saying go all in but atleast if you're shorting, be very careful cause this can rocket in a brutal way Have a nice weekend everyone
 
-8h ago
+9h ago
 
 ---
 
@@ -103,7 +103,7 @@ I’m 14 and just started learning about Bitcoin and saving in general. I began 
 
 The US started a strategic reserve. UAE's stacking. China's realizing dollars can be cancelled overnight. It's not crazy to think major countries are racing to 1M+ stockpiles. The only question: How much can retail plebs grab before it goes full blown? Your DCA game might me more important than ever.
 
-22m ago
+46m ago
 
 ---
 
@@ -111,7 +111,7 @@ The US started a strategic reserve. UAE's stacking. China's realizing dollars ca
 
 hoping to atleast get to 0.25 during this dip. I dont believe we are in a crypto winter yet.
 
-15h ago
+16h ago
 
 ---
 
@@ -133,7 +133,7 @@ Its going up, fast. Bitcoin is volatile - that works both ways. Once bear sentim
 
 Had to drop nearly 10k in medical bills... sure enough BTC tanks and as soon as I think im fine to buy a couple hundred... BOOM it either sky rockets or another random medical bill pops up worth a couple hundred and then BTC tanks... So I guess your welcome? And I'm sorry.
 
-21h ago
+22h ago
 
 ---
 
@@ -141,7 +141,7 @@ Had to drop nearly 10k in medical bills... sure enough BTC tanks and as soon as 
 
 Hi everyone, I’m new and recently bought about ¥75,000 worth of Bitcoin. I’m planning to hold for the long run and continue learning. I’m curious how more experienced people think about building their position over time. Do you follow a fixed schedule, focus on conviction, or have rules you stick to during volatility? I’m not asking for price predictions; just hoping to understand different approaches and mindsets. Thanks a lot
 
-2h ago
+3h ago
 
 ---
 
@@ -177,7 +177,7 @@ New York Post • 20h ago
 
 Key PointsBitcoin's most important features probably won't change much between now and 2036.
 
-Nasdaq • 4h ago
+Nasdaq • 5h ago
 
 ---
 
@@ -193,7 +193,7 @@ Nasdaq • 2d ago
 
 Both these assets have earned their place as leaders, but the next 10 years could be tough for one of them.
 
-The Motley Fool • 4h ago
+The Motley Fool • 5h ago
 
 ---
 
@@ -267,7 +267,7 @@ The crypto crash is coming — and the landing won’t be pretty
 
 Bithumb, Korea's second-largest cryptocurrency exchange, mistakenly credited users with Bitcoin worth approximately 260 billion won ($195 million), instead of the modest number of reward points or Bitcoin that it had intended to distribute.
 
-⬆️ 5 • 💬 0 • 6d ago • [koreajoongangdaily.joins.com](https://koreajoongangdaily.joins.com/news/2026-02-07/business/finance/Crypto-exchange-Bithumb-mistakenly-hands-out-195M-in-Bitcoin-to-users-in-Random-Box-giveaway/2518495)
+⬆️ 5 • 💬 0 • 7d ago • [koreajoongangdaily.joins.com](https://koreajoongangdaily.joins.com/news/2026-02-07/business/finance/Crypto-exchange-Bithumb-mistakenly-hands-out-195M-in-Bitcoin-to-users-in-Random-Box-giveaway/2518495)
 
 ---
 
